@@ -11,9 +11,9 @@ icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Live_TV/Thai_TV_Channel_etc.plx?action=sortsel&cur=ord
 
 type=video
-name=Bloomberg TV
+name=Bloomberg TV_youtube
 thumb=http://litmotors.com/wp-content/uploads/2014/01/BLOOMBERG-tv-LOGO.png
-URL=http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+URL=https://youtu.be/Ga3maNZ0x0w
 player=default
 rating=-1.00
 
