@@ -18,9 +18,9 @@ player=default
 rating=-1.00
 
 type=playlist
-name=96_2_69_OHOHD_18+_XXX
+name=96_2_69_OHOHD_18up_XXX
 thumb=https://4.bp.blogspot.com/-_5ioyzmX5T8/WN8H64OWkYI/AAAAAAAAHN4/_43g2SHgg8ocoYiCZTr9sMpwwNEIjF8aQCLcB/s320/4SSS.jpg
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18+_XXX/96_2_69_OHOHD_18+_XXX.plx
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_18up_XXX.plx
 player=default
 rating=-1.00
 
