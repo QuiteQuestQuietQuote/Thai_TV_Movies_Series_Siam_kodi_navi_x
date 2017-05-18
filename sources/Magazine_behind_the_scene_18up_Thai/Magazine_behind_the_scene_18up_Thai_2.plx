@@ -1,6 +1,6 @@
 version=1
 background=http://2.bp.blogspot.com/-fKc2tevxTEA/Vkwbbk1kP9I/AAAAAAAAvUY/vXF6jHtr1vE/s320/1446377256_0.98860600.jpg
-title=Magazine_behind the scene_18+_Thai_2
+title=Magazine_behind_the_scene_18up_Thai_2
 logo=http://2.bp.blogspot.com/-fKc2tevxTEA/Vkwbbk1kP9I/AAAAAAAAvUY/vXF6jHtr1vE/s320/1446377256_0.98860600.jpg
 icon_playlist=http://2.bp.blogspot.com/-fKc2tevxTEA/Vkwbbk1kP9I/AAAAAAAAvUY/vXF6jHtr1vE/s320/1446377256_0.98860600.jpg
 description=thanks to ThaiMovie4K, satan18av/description
@@ -8,7 +8,7 @@ description=thanks to ThaiMovie4K, satan18av/description
 type=playlist
 name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Magazine_behind the scene_18+_Thai\Magazine_behind the scene_18+_Thai_2.plx?action=sortsel&cur=ord
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Magazine_behind_the_scene_18up_Thai\Magazine_behind_the_scene_18up_Thai_2.plx?action=sortsel&cur=ord
 
 # 2765312
 type=video
