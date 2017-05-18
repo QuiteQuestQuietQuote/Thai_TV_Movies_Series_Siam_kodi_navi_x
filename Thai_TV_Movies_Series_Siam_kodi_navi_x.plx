@@ -39,8 +39,8 @@ player=default
 rating=-1.00
 
 type=playlist
-name=XXX_ JAV_18+ _XXX
+name=XXX_JAV_18up_XXX
 thumb=https://4.bp.blogspot.com/-tteGFlL6TlU/WK0IJqSmwnI/AAAAAAAAJ8c/J7m1yir8VZYzzEsa1QKSSHSvpkd5rvr3ACLcB/s1600/Screenshot_5.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_ JAV_18+ _XXX/XXX_ JAV_18+ _XXX.plx
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx
 player=default
 rating=-1.00
