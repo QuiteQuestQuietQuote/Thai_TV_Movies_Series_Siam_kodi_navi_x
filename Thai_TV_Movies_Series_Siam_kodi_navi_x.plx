@@ -11,9 +11,9 @@ icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Thai_TV_Movies_Series_Siam_kodi_navi_x.plx?action=sortsel&cur=ord
 
 type=playlist
-name=Eng_Box_Office===Thai_dubbed_movies
+name=Eng_Box_Office___Thai_dubbed_movies
 thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Eng_Box_Office===Thai_dubbed_movies/Eng_Box_Office===Thai_dubbed_movies.plx
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
 

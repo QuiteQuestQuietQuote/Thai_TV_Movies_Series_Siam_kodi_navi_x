@@ -1,6 +1,6 @@
 ﻿version=1
 background=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
-title=Eng_Box_Office===Thai_dubbed_movies_3_2017Q1
+title=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
 logo=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
 icon_playlist=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
@@ -8,13 +8,13 @@ description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, master
 type=playlist
 name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Eng_Box_Office===Thai_dubbed_movies/Eng_Box_Office===Thai_dubbed_movies_3_2017Q1.plx?action=sortsel&cur=ord
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_3_2017Q1.plx?action=sortsel&cur=ord
 
 # 2772536
 type=playlist
-name=Eng_Box_Office===Thai_dubbed_movies
+name=Eng_Box_Office___Thai_dubbed_movies
 thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Eng_Box_Office===Thai_dubbed_movies/Eng_Box_Office===Thai_dubbed_movies.plx
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
 
@@ -362,7 +362,7 @@ description=When the question is to be or not to be, there is only one answer./d
 
 # 2771674
 type=script
-name=Thai==================Thai
+name=Thai__________________Thai
 thumb=http://i.dailymail.co.uk/i/pix/2016/11/18/14/3A77935E00000578-3949706-Making_a_splash_The_fish_with_its_blue_red_and_white_horizontal_-m-13_1479477984350.jpg
 URL=https://openload.co/pair
 player=default
