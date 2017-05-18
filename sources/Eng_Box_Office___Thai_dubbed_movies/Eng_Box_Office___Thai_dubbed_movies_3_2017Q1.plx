@@ -8,13 +8,13 @@ description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, master
 type=playlist
 name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_3_2017Q1.plx?action=sortsel&cur=ord
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_3_2017Q1.plx?action=sortsel&cur=ord
 
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
 thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
 

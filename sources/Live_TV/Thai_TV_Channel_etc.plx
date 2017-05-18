@@ -8,7 +8,7 @@ description=Thanks to iptv/description
 type=playlist
 name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Live_TV/Thai_TV_Channel_etc.plx?action=sortsel&cur=ord
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Live_TV/Thai_TV_Channel_etc.plx?action=sortsel&cur=ord
 
 type=video
 name=Bloomberg TV

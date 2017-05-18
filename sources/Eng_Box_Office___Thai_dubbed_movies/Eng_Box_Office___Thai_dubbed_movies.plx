@@ -8,25 +8,25 @@ description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, master
 type=playlist
 name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx?action=sortsel&cur=ord
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx?action=sortsel&cur=ord
 
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
 thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_3_2017Q1.plx
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_3_2017Q1.plx
 player=default
 rating=-1.00
 
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies_2_2016Q4
 thumb=http://image.tmdb.org/t/p/w500/ylXCdC106IKiarftHkcacasaAcb.jpg
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_2_2016Q4.plx
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_2_2016Q4.plx
 player=default
 rating=-1.00
 
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies_1_2016Q3
 thumb=http://image.tmdb.org/t/p/w500/xfWac8MTYDxujaxgPVcRD9yZaul.jpg
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_1_2016Q3.plx
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_1_2016Q3.plx
 player=default
 rating=-1.00
