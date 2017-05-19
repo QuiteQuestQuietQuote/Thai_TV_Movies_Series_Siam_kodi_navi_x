@@ -313,24 +313,6 @@ player=default
 rating=-1.00
 description=WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor./description
 
-# 2761961
-type=video
-name=LION (CAM SOUND)
-thumb=http://image.tmdb.org/t/p/w500/aOJVMCL2EsNeTG7bC3MAjKIiQPE.jpg
-URL=https://openload.co/f/q7D5B3YulIY/Lion_%282017%29_%E0%B8%88%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B0%E0%B8%9E%E0%B8%9A%E0%B8%81%E0%B8%B1%E0%B8%99.mp4
-player=default
-rating=-1.00
-description=A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family./description
-
-# 2761952
-type=video
-name=A STREET CAT NAMED BOB (CAM SOUND)
-thumb=http://image.tmdb.org/t/p/w500/6gJ4ENXs2thjxe0mK8TjAZOOPMT.jpg
-URL=https://openload.co/f/yMVaUqHwxow/A_Street_Cat_Named_Bob_%282016%29_%E0%B8%9A%E0%B9%8A%E0%B8%AD%E0%B8%9A_%E0%B9%81%E0%B8%A1%E0%B8%A7_%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99_%E0%B8%84%E0%B8%99.mp4
-player=default
-rating=-1.00
-description=Based on the international best selling book. The true feel good story of how James Bowen, a busker and recovering drug addict, had his life transformed when he met a stray ginger cat./description
-
 # 2761816
 type=video
 name=KABALI (sound zoom)
@@ -358,6 +340,24 @@ player=default
 rating=-1.00
 description=The Straw Hat Pirates are taking on Gild Tesoro, one of the richest men in the world./description
 
+# 2761961
+type=video
+name=Lion (2016)
+thumb=http://image.tmdb.org/t/p/w500/aOJVMCL2EsNeTG7bC3MAjKIiQPE.jpg
+URL=https://openload.co/f/r_VSWY6NUQ8/%7BMINI_Super-HQ%7D_Lion.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+description=A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family./description
+
+# 2761952
+type=video
+name=A Street Cat Named Bob (2016)zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+thumb=http://image.tmdb.org/t/p/w500/6gJ4ENXs2thjxe0mK8TjAZOOPMT.jpg
+URL=https://openload.co/f/iFlOJ32qaC8/%7BMINI_Super-HQ%7D_A.Street.Cat.Named.Bob.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+description=Based on the international best selling book. The true feel good story of how James Bowen, a busker and recovering drug addict, had his life transformed when he met a stray ginger cat./description
+
 # 2776073
 type=video
 name=La La Land (2016)
@@ -383,7 +383,7 @@ type=video
 name=The Great Wall (2016)
 thumb=http://image.tmdb.org/t/p/w500/hm0Z5tpRlSzPO97U5e2Q32Y0Xrb.jpg
 date=2017-05-05
-URL=https://openload.co/f/qqpwICbs6RE/The.Great.Wall.2016.1080p.WEB-DL.THMASTER.H264-FGT.Zuhada_%281%29.mkv.mp4
+URL=https://openload.co/f/v84AwkuVPao/%7BMINI_Super-HQ%7D_The.Great.Wall.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 player=default
 rating=-1.00
 description=European mercenaries searching for black powder become embroiled in the defense of the Great Wall of China against a horde of monstrous creatures./description

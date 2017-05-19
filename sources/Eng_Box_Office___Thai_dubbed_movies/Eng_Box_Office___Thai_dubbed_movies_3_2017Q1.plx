@@ -605,15 +605,6 @@ player=default
 rating=-1.00
 description=In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan's attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces./description
 
-# 2772073
-type=video
-name=Guardians (2017) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/r1cJPzC85XsVOzai8MMG9Qe4AH6.jpg
-URL=https://openload.co/f/NHjI7xFhr6Y/The_Guardians.mp4
-player=default
-rating=-1.00
-description=During the Cold War, an organization called "Patriot" created a super-hero squad, which includes members of multiple soviet republics. For years, the heroes had to hide their identities, but in hard times they must show themselves again./description
-
 # 2771286
 type=video
 name=PokÃ©mon the Movie: Volcanion and the Mechanical Marvel (2016) CAM SOUND
@@ -622,15 +613,6 @@ URL=https://openload.co/f/S1x1c0Efrp0/Pokemon.The.Movie.Volcanion.and.the.Mechan
 player=default
 rating=-1.00
 description=In this PokÃ©mon adventure, a mysterious force binds Ash to the Mythical PokÃ©mon Volcanion when it falls from the sky. Volcanion canâ??t get away, and Ash is dragged along as it continues on its mission. They arrive in a city of cogs and gears, where a corrupt minister has stolen the ultimate invention: the Artificial PokÃ©mon Magearna, created 500 years ago. The minister plans to use Magearnaâ??s mysterious power to take control of the mechanical kingdom. Can Ash and Volcanion work together to rescue Magearna? One of the greatest battles in PokÃ©mon history is about to unfold!/description
-
-# 2769628
-type=video
-name=The Space Between Us (2017) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/kwJuEkzMhsKxmu1r6X4U1jZovfj.jpg
-URL=https://openload.co/f/T3kNsUyW3IQ/The.Space.Between.Us.2017.720p.KORSUB.HDRip.x264.AC32.0.ThaiRong.mkv.mp4
-player=default
-rating=-1.00
-description=A young man raised by scientists on Mars returns to Earth to find his father./description
 
 # 2767389
 type=video
@@ -659,6 +641,66 @@ player=default
 rating=-1.00
 description=After an alien ship crash lands onto a Russian city, many who have saw the inside and the occupants start to question their own existence while there are those who demand the aliens to leave Earth/description
 
+# 2772073
+type=video
+name=Guardians (2017)
+thumb=http://image.tmdb.org/t/p/w500/r1cJPzC85XsVOzai8MMG9Qe4AH6.jpg
+URL=https://openload.co/f/nPZw4aOCvys/The.Guardians.2017.1080p.BluRay.x264_%5BN-Rap%5D_%281%29.mkv.mp4
+player=default
+rating=-1.00
+description=During the Cold War, an organization called "Patriot" created a super-hero squad, which includes members of multiple soviet republics. For years, the heroes had to hide their identities, but in hard times they must show themselves again./description
+
+type=video
+name=Resident Evil Damnation (2012)
+thumb=https://1.bp.blogspot.com/-l8-f5cqR8TU/WR0mhReIn_I/AAAAAAAAIs4/3TgHUeRc55Mk3SrpDpTPEAPaaV8Gu3HLwCLcB/s320/Resident%2BEvil%2BDamnation%2B%25282012%2529.jpg
+URL=https://openload.co/f/e6aS0URG8ns/Resident_Evil_Damnation_2012.mp4
+player=default
+rating=-1.00
+
+type=video
+name=The Age of Shadows (2017)
+thumb=https://3.bp.blogspot.com/-A1cZ03X421Q/WRzgYQRm83I/AAAAAAAAMdo/3CKbIgy0tsACbImAm0U8iGfEkxg5KFcIACLcB/s1600/The%2BAge%2Bof%2BShadows%2B%25282017%2529%2B%25E0%25B8%2584%25E0%25B8%2599%2B%25E0%25B8%25A5%25E0%25B9%2588%25E0%25B8%25B2%2B%25E0%25B8%2585%25E0%25B8%2599.jpg
+URL=https://openload.co/f/p8TkTish0-w/%7BMINI_Super-HQ%7D_The.Age.of.Shadows.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+
+# 2769628
+type=video
+name=The Space Between Us (2017)
+thumb=http://image.tmdb.org/t/p/w500/kwJuEkzMhsKxmu1r6X4U1jZovfj.jpg
+URL=https://openload.co/f/oeJ4IX3TQ9E/%7BMINI_Super-HQ%7D_The.Space.Between.Us.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+description=A young man raised by scientists on Mars returns to Earth to find his father./description
+
+type=video
+name=The Lady (2011)
+thumb=https://1.bp.blogspot.com/-6c2gUlDuGyQ/WRkciO8G8QI/AAAAAAAAIsE/_UZnVuYPXNkVwYZTTVxUQqnS_WLqrTJ9QCLcB/s320/The%2BLady%2B%25282011%2529.jpg
+URL=https://openload.co/f/ApAWR6UPjZo/The_Lady_2011.mp4
+player=default
+rating=-1.00
+
+type=video
+name=Ten Years (2015) 
+thumb=https://4.bp.blogspot.com/-0omBxKCb4vU/WRZRMFTHPXI/AAAAAAAAMVg/eLO67myk_t4mXBx6apt8Tg74ngtc5uuoACLcB/s1600/Ten%2BYears%2B%25282015%2529%2B%25E0%25B9%2580%25E0%25B8%2597%25E0%25B9%2587%25E0%25B8%2599-%25E0%25B9%2580%25E0%25B8%25A2%25E0%25B8%25B5%25E0%25B8%25A2%25E0%25B8%25A3%25E0%25B9%258C.jpg
+URL=https://openload.co/f/-t-DgADHk20/Ten.Years.2015.1080p.WEB-DL.AC3.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+
+type=video
+name=Colonia (2016) 
+thumb=https://2.bp.blogspot.com/-tjxvFK4hlXE/WRUqF1YHKII/AAAAAAAAMUk/4ym_gHCH4eYFT3C7JtwU4_Ho_imcwTJpwCLcB/s1600/Colonia%2B%25282016%2529%2B%25E0%25B9%2582%25E0%25B8%2584%25E0%25B9%2582%25E0%25B8%25A5%25E0%25B9%2580%25E0%25B8%2599%25E0%25B8%25B5%25E0%25B8%25A2%2B%25E0%25B8%25AB%25E0%25B8%2599%25E0%25B8%25B5%25E0%25B8%2595%25E0%25B8%25B2%25E0%25B8%25A2.jpg
+URL=https://openload.co/f/Qus0ADLnbEI/%7BMINI_Super-HQ%7D_Colonia.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+
+type=video
+name=ORDINARY WORLD (2016)zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+thumb=https://2.bp.blogspot.com/-jir0-2Z0FpA/WRaABr-bJTI/AAAAAAAAIq0/rhrd-Esa5dMqss1yS5TR92m8tXpY6MU0wCLcB/s320/Ordinary%2BWorld%2B%25282016%2529.jpg
+URL=https://openload.co/f/W3tyr45Ibio/%7BMINI_Super-HQ%7D_Ordinary.World.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+
 # 2776164
 type=video
 name=The Bye Bye Man (2017)
@@ -682,7 +724,7 @@ description=Every city has its legends and this city's legend is the 'Ferryman'.
 # 2773801
 type=video
 name=Thongdee The Warrior (2016)
-thumb=https://2.bp.blogspot.com/-N5jBG5pAAAU/WJfD0YyJjwI/AAAAAAAAJjo/RYt8BYf8zPwdDRwxt1okcQVeKwCTzDe-ACLcB/s1600/Nai-Thong-Dee-Fun-Khaw%2B%25282017%2529%2B%25E0%25B8%2599%25E0%25B8%25B2%25E0%25B8%25A2%25E0%25B8%2597%25E0%25B8%25AD%25E0%25B8%2587%25E0%25B8%2594%
+thumb=https://2.bp.blogspot.com/-N5jBG5pAAAU/WJfD0YyJjwI/AAAAAAAAJjo/RYt8BYf8zPwdDRwxt1okcQVeKwCTzDe-ACLcB/s1600/Nai-Thong-Dee-Fun-Khaw%2B%25282017%2529%2B%25E0%25B8%2599%25E0%25B8%25B2%25E0%25B8%25A2%25E0%25B8%2597%25E0%25B8%25AD%25E0%25B8%2587%25E0%25B8%2594%25E0%25B8%25B5%25E0%25B8%259F%25E0%25B8%25B1%25E0%25B8%2599%25E0%25B8%2582%25E0%25B8%25B2%25E0%25B8%25A7.jpg
 date=2017-05-05
 URL=https://openload.co/f/ZC5tiPsZoHc/Thongdee_The_Warrior_%282016%29_DVD_To_Scale_720p.AC3.x264.CtHts_-_PORSC.mkv.mp4
 player=default
