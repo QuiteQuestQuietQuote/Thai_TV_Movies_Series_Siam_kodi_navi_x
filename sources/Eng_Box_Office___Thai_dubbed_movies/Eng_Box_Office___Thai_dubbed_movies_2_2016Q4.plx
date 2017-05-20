@@ -250,15 +250,6 @@ player=default
 rating=-1.00
 description=Set in 1879 Paris. An orphan girl dreams of becoming a ballerina and flees her rural Brittany for Paris, where she passes for someone else and accedes to the position of pupil at the Grand Opera house./description
 
-# 2772895
-type=video
-name=Journey to the West: The Demons Strike Back (2017) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/zVXWGzoo0eb8jSSLsIGdr5oHSFX.jpg
-URL=https://openload.co/f/Eu3kWPLWvMw/Journey.to.the.West.The.Demons.Strike.Back.2017.1080p.WEB-DL.AC-35.1.H264.THR-CPT.mkv.mp4
-player=default
-rating=-1.00
-description=Tang Monk brings three disciples on a journey to the West. On the outside, everything seems harmonious. However, tension is present beneath the surface, and their hearts and minds are not in agreement. After a series of demon-capturing events, the monk and his disciples gain mutual understanding of each others' hardships and unease. Finally, they resolve their inner conflict and work together to become an all-conquering, demon-exorcising team./description
-
 # 2771571
 type=video
 name=Fifty Shades Darker (2017) CAM SOUND
@@ -339,6 +330,15 @@ URL=https://openload.co/f/TxDaoKcf22s/One.Piece.Film.Gold.2016.2160p.WEB-DL.x264
 player=default
 rating=-1.00
 description=The Straw Hat Pirates are taking on Gild Tesoro, one of the richest men in the world./description
+
+# 2772895
+type=video
+name=Journey to the West: The Demons Strike Back (2017)
+thumb=http://image.tmdb.org/t/p/w500/zVXWGzoo0eb8jSSLsIGdr5oHSFX.jpg
+URL=https://openload.co/f/haNZfHkOIlU/%7BMINI_Super-HQ%7D_Journey.to.the.West.The.Demons.Strike.Back.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+description=Tang Monk brings three disciples on a journey to the West. On the outside, everything seems harmonious. However, tension is present beneath the surface, and their hearts and minds are not in agreement. After a series of demon-capturing events, the monk and his disciples gain mutual understanding of each others' hardships and unease. Finally, they resolve their inner conflict and work together to become an all-conquering, demon-exorcising team./description
 
 # 2761961
 type=video
