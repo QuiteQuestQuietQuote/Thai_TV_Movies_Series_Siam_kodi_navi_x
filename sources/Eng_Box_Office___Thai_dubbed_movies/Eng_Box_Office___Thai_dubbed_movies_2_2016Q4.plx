@@ -18,15 +18,6 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 player=default
 rating=-1.00
 
-# 2773084
-type=video
-name=Rings (2017) ENG updated
-thumb=http://image.tmdb.org/t/p/w500/bbxtz5V0vvnTDA2qWbiiRC77Ok9.jpg
-URL=https://openload.co/f/2_R-YY8gOXs/Ri-n-g-s.2017.BRRip.XviD.AC3-EVO.avi.mp4
-player=default
-rating=-1.00
-description=Julia becomes worried about her boyfriend, Holt when he explores the dark urban legend of a mysterious videotape said to kill the watcher seven days after viewing. She sacrifices herself to save her boyfriend and in doing so makes a horrifying discovery: there is a "movie within the movie" that no one has ever seen before./description
-
 # 2772902
 type=video
 name=Gold (2016) ENG updated
@@ -241,15 +232,6 @@ player=default
 rating=-1.00
 description=Rachel Watson, devastated by her recent divorce, spends her daily commute fantasizing about the seemingly perfect couple who live in a house that her train passes every day, until one morning she sees something shocking happen there and becomes entangled in the mystery that unfolds./description
 
-# 2773193
-type=video
-name=Ballerina (2016) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/60ZhK1FstSkC9Ms8lRWaTPm55kD.jpg
-URL=https://openload.co/f/st3ToFCo_Rk/Ballerina_%282017%29_%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%82%E0%B8%A2%E0%B9%88%E0%B8%87%E0%B8%9D%E0%B8%B1%E0%B8%99.mp4
-player=default
-rating=-1.00
-description=Set in 1879 Paris. An orphan girl dreams of becoming a ballerina and flees her rural Brittany for Paris, where she passes for someone else and accedes to the position of pupil at the Grand Opera house./description
-
 # 2771571
 type=video
 name=Fifty Shades Darker (2017) CAM SOUND
@@ -330,6 +312,24 @@ URL=https://openload.co/f/TxDaoKcf22s/One.Piece.Film.Gold.2016.2160p.WEB-DL.x264
 player=default
 rating=-1.00
 description=The Straw Hat Pirates are taking on Gild Tesoro, one of the richest men in the world./description
+
+# 2773193
+type=video
+name=Ballerina (2016)
+thumb=http://image.tmdb.org/t/p/w500/60ZhK1FstSkC9Ms8lRWaTPm55kD.jpg
+URL=https://openload.co/f/tIvtYrDNNA0/%7BMINI_Super-HQ%7D_Ballerina.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+description=Set in 1879 Paris. An orphan girl dreams of becoming a ballerina and flees her rural Brittany for Paris, where she passes for someone else and accedes to the position of pupil at the Grand Opera house./description
+
+# 2773084
+type=video
+name=Rings (2017)
+thumb=http://image.tmdb.org/t/p/w500/bbxtz5V0vvnTDA2qWbiiRC77Ok9.jpg
+URL=https://openload.co/f/5pDb4iIp9Qk/%7BMINI_Super-HQ%7D_Rings.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+description=Julia becomes worried about her boyfriend, Holt when he explores the dark urban legend of a mysterious videotape said to kill the watcher seven days after viewing. She sacrifices herself to save her boyfriend and in doing so makes a horrifying discovery: there is a "movie within the movie" that no one has ever seen before./description
 
 # 2772895
 type=video

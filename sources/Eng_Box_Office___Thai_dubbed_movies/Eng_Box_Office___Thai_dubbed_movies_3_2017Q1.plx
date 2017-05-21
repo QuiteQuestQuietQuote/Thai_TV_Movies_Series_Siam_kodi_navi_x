@@ -342,15 +342,6 @@ player=default
 rating=-1.00
 description=After 20 years abroad, Mark Renton returns to Scotland and reunites with his old friends Sick Boy, Spud, and Begbie./description
 
-# 2771679
-type=video
-name=Ballerina (2016) ENG
-thumb=http://image.tmdb.org/t/p/w500/orkNVgrCwisZGPBOihpoqWeQ02w.jpg
-URL=https://openload.co/f/V2MmNDwObJo/B-a-lle-r-i-na.2016.BDRip.XviD.AC3-EVO.avi.mp4
-player=default
-rating=-1.00
-description=Set in 1879 Paris. An orphan girl dreams of becoming a ballerina and flees her rural Brittany for Paris, where she passes for someone else and accedes to the position of pupil at the Grand Opera house./description
-
 # 2772899
 type=video
 name=The Carer (2017) ENG updated
