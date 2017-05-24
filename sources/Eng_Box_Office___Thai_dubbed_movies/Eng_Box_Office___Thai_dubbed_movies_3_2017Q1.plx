@@ -18,6 +18,13 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 player=default
 rating=-1.00
 
+type=video
+name=Alien: Covenant (2017) ENG
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MzM3MzkxNF5BMl5BanBnXkFtZTgwOTkyMjI4MTI@._V1_SY1000_CR0,0,673,1000_AL_.jpg
+URL=https://openload.co/f/0jGCY5VQXNc/Alien_Covenant_2017_720p_HDCAM_ENG_x264-Mr.BDS.mkv.mp4
+player=default
+rating=-1.00
+
 # 2773789
 type=video
 name=Guardians of the Galaxy Vol. 2 (2017) ENG updated
@@ -26,16 +33,6 @@ URL=https://openload.co/f/zPPzhO9zC_A/Guardians.of.the.Galaxy.Vol.2.2017.NEW.HDC
 player=default
 rating=-1.00
 description=The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage./description
-
-# 2776077
-type=video
-name=Baahubali 2: The Conclusion (2017) HIN updated dvdscr
-thumb=http://image.tmdb.org/t/p/w500/sXf30F2HFpsFPXlNz7jpOySSV9I.jpg
-date=2017-05-09
-URL=https://openload.co/f/LujK0YziU2Y/B_2_2017_DVDSCR_%5BLayar-21.com%5D.mp4
-player=default
-rating=-1.00
-description=When Mahendra, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom./description
 
 # 2776076
 type=video
@@ -359,6 +356,13 @@ URL=https://openload.co/pair
 player=default
 rating=-1.00
 
+type=video
+name=King Arthur: Legend of the Sword (2017) CAM
+thumb=https://1.bp.blogspot.com/-rRSQ1f9jR5E/WRztkvG4HGI/AAAAAAAAMd4/W9Vx89JOKYEz4mHkN4A3ws081qfSPlAYACLcB/s1600/King%2BArthur%2BLegend%2Bof%2Bthe%2BSword%2B%25282017%2529%2B%25E0%25B8%2584%25E0%25B8%25B4%25E0%25B8%2587%2B%25E0%25B8%25AD%25E0%25B8%25B2%25E0%25B8%25A3%25E0%25B9%258C%25E0%25B9%2580%25E0%25B8%2598%25E0%25B8%25AD%25E0%25B8%25A3%25E0%25B9%258C%2B%25E0%25B8%2595%25E0%25B8%25B3%25E0%25B8%2599%25E0%25B8%25B2%25E0%25B8%2599%25E0%25B9%2581%25E0%25B8%25AB%25E0%25B9%2588%25E0%25B8%2587%25E0%25B8%2594%25E0%25B8%25B2%25E0%25B8%259A%25E0%25B8%25A3%25E0%25B8%25B2%25E0%25B8%258A%25E0%25B8%25B1%25E0%25B8%2599%25E0%25B8%25A2%25E0%25B9%258C.jpg
+URL=https://openload.co/f/ySBsvAuIffk/%5BT%5DKing_Arthur_Legend_of_the_Sword_2017
+player=default
+rating=-1.00
+
 # 2773787
 type=video
 name=Guardians of the Galaxy Vol. 2 (2017) CAM
@@ -430,6 +434,16 @@ URL=https://openload.co/f/il-h3PtlPJk/Kong_Skull_Island_%282017%29_HD-TS_720p.Ne
 player=default
 rating=-1.00
 description=Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island./description
+
+# 2776077
+type=video
+name=Baahubali 2: The Conclusion (2017) SUB
+thumb=http://image.tmdb.org/t/p/w500/sXf30F2HFpsFPXlNz7jpOySSV9I.jpg
+date=2017-05-25
+URL=https://openload.co/f/otQI30FetNk/Baahubali_2_The_Conclusion_%282017%29_%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%AE%E0%B8%B9%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%B5_2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
+player=default
+rating=-1.00
+description=When Mahendra, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom./description
 
 # 2775792
 type=video
@@ -548,6 +562,20 @@ URL=https://openload.co/f/gUlCKjI45n4/%5BS%5DElle_2016
 player=default
 rating=-1.00
 description=When Michelle, the CEO of a gaming software company, is attacked in her home by an unknown assailant, she refuses to let it alter her precisely ordered life. She manages crises involving family, all the while becoming engaged in a game of cat and mouse with her stalker./description
+
+type=video
+name=A Silent Voice (2017) CAM SOUND
+thumb=https://4.bp.blogspot.com/-n9DlExpxoWM/WSJCdOfU0xI/AAAAAAAAMjQ/RDRbXAX5Xx0rYN0Wj2NHER85NCIZYCvdwCLcB/s1600/A%2BSilent%2BVoice%2B%25282017%2529%2B%25E0%25B8%25A3%25E0%25B8%25B1%25E0%25B8%2581%25E0%25B9%2584%25E0%25B8%25A3%25E0%25B9%2589%25E0%25B9%2580%25E0%25B8%25AA%25E0%25B8%25B5%25E0%25B8%25A2%25E0%25B8%2587.png
+URL=https://openload.co/f/eP1lJB_cFEU/A_Silent_Voice_%282017%29_%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87.mp4
+player=default
+rating=-1.00
+
+type=video
+name=MindGamers (2017) CAM SOUND
+thumb=https://4.bp.blogspot.com/-S4OqxmxmTtw/WSFTc6PmIkI/AAAAAAAAMjA/-hfQoIOnQ4YJJ1U-w3T-dVKaVxWODalewCLcB/s1600/MindGamers%2B%25282017%2529%2B%25E0%25B9%2580%25E0%25B8%258A%25E0%25B8%25B7%25E0%25B9%2588%25E0%25B8%25AD%25E0%25B8%25A1%25E0%25B8%25AA%25E0%25B8%25A1%25E0%25B8%25AD%25E0%25B8%2587%25E0%25B8%2584%25E0%25B8%25A3%25E0%25B8%25AD%25E0%25B8%2587%25E0%25B9%2582%25E0%25B8%25A5%25E0%25B8%2581.jpg
+URL=https://openload.co/f/gTdVGNeablE/MindGamers_%282017%29_%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%AA%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81.flv.mp4
+player=default
+rating=-1.00
 
 # 2776163
 type=video
