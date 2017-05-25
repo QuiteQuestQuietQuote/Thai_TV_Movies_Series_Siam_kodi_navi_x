@@ -1,8 +1,8 @@
 ﻿version=1
-background=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
+background=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
-logo=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
-icon_playlist=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
+logo=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -15,6 +15,13 @@ type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
 thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
+player=default
+rating=-1.00
+
+type=video
+name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
+URL=https://openload.co/f/JJpWlYOG5PY/P_o_t_C_D_M_T_N_T_2017_CAMRip_%5BLayar-21.com%5D.mp4
 player=default
 rating=-1.00
 
@@ -159,15 +166,6 @@ URL=https://openload.co/f/FFVCnmb2CsQ/G-T-S.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv
 player=default
 rating=-1.00
 description=In the near future, Major is the first of her kind: a human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals./description
-
-# 2773694
-type=video
-name=Fifty Shades Darker (2017) ENG updated2 unratedBRR
-thumb=http://image.tmdb.org/t/p/w500/wnVHDbGz7RvDAHFAsVVT88FxhrP.jpg
-URL=https://openload.co/f/e192X-J6vxY/F.S.D.2017.UNRATED.BRRip.XviD.AC3-RBG.avi.mp4
-player=default
-rating=-1.00
-description=When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christianâ??s past start to circle the couple, determined to destroy their hopes for a future together./description
 
 # 2773619
 type=video
@@ -642,15 +640,6 @@ player=default
 rating=-1.00
 description=A mother desperate to reconnect with her troubled daughter becomes embroiled in the urban legend of a demonic witch./description
 
-# 2767387
-type=video
-name=Fallen (2016) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/v1Hv0kp8kGAPkFUIVRUrPpxH8W9.jpg
-URL=https://openload.co/f/e1Mw9LXOJcs/Fallen_%282017%29_%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%97%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C.mkv.mp4
-player=default
-rating=-1.00
-description=Lucinda Price is sent to a reform academy under the assumption that she has killed a boy. There, she meets two mysterious boys, Cam and Daniel, to whom she feels drawn to both. But as the love triangle unfurls, it is Daniel that Luce cannot keep herself away from, and things begin to take a darker turn when she finds out his true identity./description
-
 # 2766556
 type=video
 name=Attraction (2017) CAM SOUND
@@ -659,6 +648,13 @@ URL=https://openload.co/f/b7mAQ1WkI9E/attraction-2017_%281%29.mkv.mp4
 player=default
 rating=-1.00
 description=After an alien ship crash lands onto a Russian city, many who have saw the inside and the occupants start to question their own existence while there are those who demand the aliens to leave Earth/description
+
+type=video
+name=Resident Evil: Degeneration (2008)
+thumb=https://image.tmdb.org/t/p/w640/vcduy3H9RelaER3F7jn7OGby1ws.jpg
+URL=https://openload.co/f/qtbK27MJfrQ/Resident_Evil_Degeneration_2008.mp4
+player=default
+rating=-1.00
 
 # 2772073
 type=video

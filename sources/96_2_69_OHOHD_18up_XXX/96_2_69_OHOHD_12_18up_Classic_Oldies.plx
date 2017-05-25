@@ -10,9 +10,107 @@ name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_12_18up_Classic_Oldies.plx?action=sortsel&cur=ord
 
+type=video
+name=101xxxxxxxxxxxxxxxxxxxxIdonikes diastrofes (1983)
+thumb=https://4.bp.blogspot.com/-j_KAvoJGRbM/WAohdrJK8HI/AAAAAAABESo/DZDo9gmqDAQFIeLlrCoT3AllAexkMCRHwCLcB/s320/10.jpg
+URL=https://openload.co/f/XS7lbx2-EyE/Idonikes_diastrofes_%281983%29.mp4
+
+type=video
+name=Lady Ninja Kaede (2007)
+thumb=https://2.bp.blogspot.com/-k6VnCWeJGeU/WAYW5qJ18LI/AAAAAAABEGk/KOXPCISQclMFZGyBSmKj_OKgIdraYAZLACLcB/s320/4.jpg
+URL=https://openload.co/f/qi8-FFgyrvU/Lady_Ninja_Kaede.mp4
+
+type=video
+name=El sexo ataca (1 jornada) (1979)
+thumb=https://2.bp.blogspot.com/-uqf15XKN1Gc/WAdmUurdBhI/AAAAAAABEJs/SmCAAICw-EoYWZH7fcVOiCzxnSExslLmQCLcB/s320/5.jpg
+URL=https://openload.co/f/SIZo6r2wQbY/El.Sexo.Ataca.1979.VHSRip.XviD-CG.avi.mp4
+
+type=video
+name=Cildirtan_Kadin (1978)
+thumb=https://3.bp.blogspot.com/-FnDc7mO5oN8/WAdnxhnYeCI/AAAAAAABEJ4/Rk868_Rqwt03r6Eq1ivlk-pR6bfSGW98wCLcB/s320/6.jpg
+URL=https://openload.co/f/KOhtUyv6ym8/Cildirtan_Kadin.mp4
+
+type=video
+name=Safari erotico (1981)
+thumb=https://4.bp.blogspot.com/-nN6JiWPqa2g/WAdo6vZu0pI/AAAAAAABEKA/no6RUAe5sXU_OXLzzRqStpnyU8onxld9QCLcB/s320/7.jpg
+URL=https://openload.co/f/bwdU86z60OU/Baisers_exotiques_%281981%29_%28NT1%29_-_%5BSafari_erotico%5D.avi.mp4
+
+type=video
+name=I kyria kai o moutsos (1985)
+thumb=https://2.bp.blogspot.com/-sB0wl4bXH_E/WAdptcBSOZI/AAAAAAABEKI/_3fvQhOC5SExkd7C0QugxsVyygVEaogNQCLcB/s320/8.jpg
+URL=https://openload.co/f/eA2C9BmNwaA/I_kyria_kai_o_moutsos_%281985%29.avi.mp4
+
+type=video
+name=Bitter Sweet (2004)
+thumb=https://1.bp.blogspot.com/-0FZ9j5bfeg8/WAdwMgbpSWI/AAAAAAABEKs/tvHsNU-qPuUM2nK1fvyi5Lqkl5HfFcKfACLcB/s320/1SSSSSSS.jpg
+URL=https://openload.co/f/oQwxkGAr5YU/Bitter.Sweet.2004.DVDRip_Erotic
+
+type=video
+name=Cambio de sexo (1977)
+thumb=https://4.bp.blogspot.com/-415m7eV7uRs/WAisoFB2hUI/AAAAAAABEQI/BbbFrhRZc1IQOmScwv4PuzYwa3ZiGHUKwCLcB/s320/5.jpg
+URL=https://openload.co/f/q28_eI_XhvA/Change_Of_Sex_AKA_Cambio.De.Sexo.1977.avi.mp4
+
+type=video
+name=SEXY NATURE (1974) Jesus Franco
+thumb=https://3.bp.blogspot.com/-o_LRDiI1wPk/WAittAm3ZKI/AAAAAAABEQM/BGtD_5o8xmkdxxL0wUcHW2AgIVRxYC4aACLcB/s320/6.jpg
+URL=https://openload.co/f/mUnoJMLhkBo/La_comtesse_perverse_%281974%29.mkv.mp4
+
+type=video
+name=Nicole par-dessus par-dessous (1978)
+thumb=https://3.bp.blogspot.com/-uktBMr3lX8Y/WAiu5UcP1QI/AAAAAAABEQQ/GEWZKqeXcs4JZLQJse7HhF4Pv3thbVt0wCLcB/s320/7.jpg
+URL=https://openload.co/f/32L860arPeM/Nicole_pardessus_pardessous.wmv.mp4
+
+type=video
+name=Couple debutant cherche couple initie (1976)
+thumb=https://3.bp.blogspot.com/-3ItwFvk0wb4/WAofzU9cmPI/AAAAAAABESY/gxt2Ndz_YOYHVL_Saq8BAeMceE9WVSgKgCLcB/s320/6.png
+URL=https://openload.co/f/0wnC9lTvkKc/Couple_d%C3%A9butant_cherche_couple_initi%C3%A9_%281976%29.mp4
+
+type=video
+name=Sem Vaselina (1985)
+thumb=https://3.bp.blogspot.com/-sclqhNpajno/WAogb-5gdRI/AAAAAAABESc/XB1HPDhtNsw9s21r_vFMk1jUWEhniADewCLcB/s320/8.jpg
+URL=https://openload.co/f/kmRDvu1NAmM/Sem_Vaselina_%281985%29.avi.mp4
+
+type=video
+name=E gia lesa, ola mesa (1985)
+thumb=https://4.bp.blogspot.com/-p3eyacM7x-k/WAog4AXTWMI/AAAAAAABESg/TwOUrpPbHQEYM5FVjt13C63_o-sqCuEFgCLcB/s320/9.jpg
+URL=https://openload.co/f/Oc-6BFamF7I/E_gia_lesa%2C_ola_mesa_%281985%29
+
+type=video
+name=Idonikes diastrofes (1983)
+thumb=https://4.bp.blogspot.com/-j_KAvoJGRbM/WAohdrJK8HI/AAAAAAABESo/DZDo9gmqDAQFIeLlrCoT3AllAexkMCRHwCLcB/s320/10.jpg
+URL=https://openload.co/f/XS7lbx2-EyE/Idonikes_diastrofes_%281983%29.mp4
+
+type=video
+name=Time Adventure ñ 5 Seconds Til Climax (1986)
+thumb=https://3.bp.blogspot.com/-1TDwg0s-xH4/WAYF-gtqLfI/AAAAAAABEEI/GjkYDtkb5uUCaKnvAPMtn42omhQC726WACLcB/s320/10.jpg
+URL=https://openload.co/f/9MCfdLRF2mY/Time.Adventure.5.Seconds.Til.Climax.1986.DVDRip_Erotic
+
+type=video
+name=Le notti porno nel mondo n∫ 2 (1978)
+thumb=https://2.bp.blogspot.com/-GbuwShVNkuc/WAXt02q_AdI/AAAAAAABEAU/6FXSjObwBVsgjul2I6dU7xs8bFRx6xKCACLcB/s320/3.jpg
+URL=https://openload.co/f/t0peVJlVHzc/Le_notti_porno_nel_mondo_n%C2%BA_2.vob.mp4
+
+type=video
+name=Laura oggetto sessuale (1987)
+thumb=https://3.bp.blogspot.com/-4KpyL6ZObIk/WAXuluzHL9I/AAAAAAABEAY/8qYsErxbIBQBDQ0hLHNzVYMhEKK0E_22wCLcB/s320/4.jpg
+URL=https://openload.co/f/gZv2fBU4ZBM/laura.mp4
+
+type=video
+name=Senza scrupoli (1986)
+thumb=https://1.bp.blogspot.com/-ctsH1Wh_3K4/WAXvJ5ZCfbI/AAAAAAABEAg/UokO4ZTXjpUTKkR5FM1vkzfIwMGupExQwCLcB/s320/5.JPG
+URL=https://openload.co/f/O28qBVF-Gvc/SENZA_SCRUPOLI_1985_di_Tonino_Valerii_senza_pubblicita.mpg.mp4
+
+# 2773611
+type=playlist
+name=96_2_69_OHOHD_18up_XXX
+thumb=https://4.bp.blogspot.com/-_5ioyzmX5T8/WN8H64OWkYI/AAAAAAAAHN4/_43g2SHgg8ocoYiCZTr9sMpwwNEIjF8aQCLcB/s320/4SSS.jpg
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_18up_XXX.plx
+player=default
+rating=-1.00
+
 # 2776191
 type=video
-name=xxxxxxxxxxxxxxxxxxxxxxxxxDeseo carnal (1978)z
+name=83xxxxxxxxxxxxxxxxxxxxxxxxxDeseo carnal (1978)z
 thumb=https://1.bp.blogspot.com/-qw9d61Gd-J4/WAXtUj70lkI/AAAAAAABEAM/dlajmuPY-bEzTeSdFSGmC0JxWwX2quGJgCLcB/s320/2.jpg
 date=2017-05-10
 URL=https://openload.co/f/nnJ_8VpK-cA/Deseo.Carnal.TVRIP_%281977%29.avi.mp4
@@ -106,14 +204,6 @@ name=Hist√≥rias Que Nossas Bab√°s N√£o Contavam (1979)z
 thumb=https://2.bp.blogspot.com/-Cus2iMaZPjI/WAC5tzGnapI/AAAAAAABD1c/DBCtdt-UjtM7OcCI5u9OVCD5uaB45uvQQCLcB/s320/Hist%25C3%25B3rias%2BQue%2BNossas%2BBab%25C3%25A1s%2BN%25C3%25A3o%2BContavam%2B%25281979%2529.jpg
 date=2017-05-10
 URL=https://openload.co/f/aV1CCSpZWIM/Hist%C3%B3rias_Que_Nossas_Bab%C3%A1s_N%C3%A3o_Contavam_%281979%29
-player=default
-rating=-1.00
-
-# 2773611
-type=playlist
-name=96_2_69_OHOHD_18up_XXX
-thumb=https://4.bp.blogspot.com/-_5ioyzmX5T8/WN8H64OWkYI/AAAAAAAAHN4/_43g2SHgg8ocoYiCZTr9sMpwwNEIjF8aQCLcB/s320/4SSS.jpg
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_18up_XXX.plx
 player=default
 rating=-1.00
 

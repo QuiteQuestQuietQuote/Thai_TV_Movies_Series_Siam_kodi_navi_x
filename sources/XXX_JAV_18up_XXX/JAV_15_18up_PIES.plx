@@ -10,6 +10,14 @@ name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_15_18up_PIES.plx?action=sortsel&cur=ord
 
+# 2772541
+type=playlist
+name=XXX_JAV_18up_XXX
+thumb=https://4.bp.blogspot.com/-tteGFlL6TlU/WK0IJqSmwnI/AAAAAAAAJ8c/J7m1yir8VZYzzEsa1QKSSHSvpkd5rvr3ACLcB/s1600/Screenshot_5.png
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx
+player=default
+rating=-1.00
+
 type=video
 name=BCV-034 Wanted Chan TV × PRESTIGE PREMIUM 34
 thumb=https://4.bp.blogspot.com/-VFX6iUkqEsU/WR5SEnB2-tI/AAAAAAAAMg4/-qqk-TjO9U0lEVOCxVhR-vYCYj7ptlzWwCLcB/s1600/Screenshot_1.png
@@ -20,14 +28,6 @@ type=video
 name=IDBD-505 8 Hours Transcendence Ecstasy Woman Who Invites A Man In The Sweet Temptation Honey Trap
 thumb=https://3.bp.blogspot.com/-AVhUYQH8Y3s/WRpq64_gaxI/AAAAAAAAMa0/TXKpnsk6NtIXKs42oLWUAkKrcO8PntYrACLcB/s1600/Screenshot_6.png
 URL=https://openload.co/f/spcoW-i6Vc0/IDBD-505_8_Hours_Transcendence_Ecstasy_Woman_Who_Invites_A_Man_In_The_Sweet_Temptation_Honey_Trap.mp4
-
-# 2772541
-type=playlist
-name=XXX_JAV_18up_XXX
-thumb=https://4.bp.blogspot.com/-tteGFlL6TlU/WK0IJqSmwnI/AAAAAAAAJ8c/J7m1yir8VZYzzEsa1QKSSHSvpkd5rvr3ACLcB/s1600/Screenshot_5.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx
-player=default
-rating=-1.00
 
 # 2776176
 type=video

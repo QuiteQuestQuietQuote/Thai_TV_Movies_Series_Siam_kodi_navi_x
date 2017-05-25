@@ -10,9 +10,20 @@ name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Magazine_behind_the_scene_18up_Thai/Magazine_behind_the_scene_18up_Thai_1.plx?action=sortsel&cur=ord
 
+
+type=video
+name=Girlie 9 – Jinny and Yommy 2013
+thumb=https://site-erotic.com/wp-content/uploads/2017/05/Girlie-9-Jinny-and-Yommy-2013.jpg
+URL=https://openload.co/f/lhtoE7EyORs/Girlie_9_-_Jinny_and_Yommy_2013.mp4
+
+type=video
+name=Chrissie Les Vacances d’Amour (2010)
+thumb=https://site-erotic.com/wp-content/uploads/2017/05/Chrissie-Les-Vacances-d%E2%80%99Amour-2010.jpg
+URL=https://openload.co/f/jswF-VwqfUQ/Chrissie_Les_Vacances_d%E2%80%99Amour_%282010%29
+
 # 2769207
 type=video
-name=Katy in Tall, Sexy, Extreme! Going Big & Deep! part 01
+name=155xxxxxxxxxxKaty in Tall, Sexy, Extreme! Going Big & Deep! part 01
 thumb=https://2.bp.blogspot.com/-3T9_5pj2H6Q/WM63yZJNv2I/AAAAAAAAGz4/cg5IOtGGJgwqAI1V3NSf8V5quDONWa-0ACLcB/s320/1ss.jpg
 date=2017-03-22
 URL=https://openload.co/f/5eJ6iZqlRYA/FTVGirls_presents_Katy_in_Tall__Sexy__Extreme__Going_Big___Deep__part_01_-_03.02.2017.mp4

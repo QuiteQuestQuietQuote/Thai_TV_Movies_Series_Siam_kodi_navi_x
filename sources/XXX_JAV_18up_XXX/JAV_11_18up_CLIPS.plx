@@ -10,9 +10,64 @@ name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_11_18up_CLIPS.plx?action=sortsel&cur=ord
 
+
+
+type=video
+name=100xxxxxxxxxxAsianSexDiary – An & Pob (Laos)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/05/%E0%B8%A5%E0%B8%B2%E0%B8%A7-AsianSexDiary-An-Pob.jpg
+URL=https://openload.co/f/p_q0VEXW9cw/%5B%E0%B8%A5%E0%B8%B2%E0%B8%A7%5D_AsianSexDiary_-_An_%26_Pob_%5BMovie-dd.com%5D.MP4.mp4
+
+type=video
+name=AsianSexDiary – Xiao Mei (Chinese)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/05/%E0%B8%88%E0%B8%B5%E0%B8%99-AsianSexDiary-Xiao-Mei.jpg
+URL=https://openload.co/f/uYwqSfzxh-s/%5B%E0%B8%88%E0%B8%B5%E0%B8%99%5D_AsianSexDiary_-_Xiao_Mei_%5BMovie-dd.com%5D.MP4.mp4
+
+type=video
+name=AsianSexDiary – Da
+thumb=https://erotic24hr.com/wp-content/uploads/2017/05/AsianSexDiary-Da.jpg
+URL=https://openload.co/f/hdEYXLuFCEc/AsianSexDiary_-_Da_%5BMovie-dd.com%5D.MP4.mp4
+
+type=video
+name=AsianSexDiary – Bac (Viet)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/05/%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%A1-AsianSexDiary-Bac.jpg
+URL=https://openload.co/f/znLNGEs4aLs/%5B%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%A1%5D_AsianSexDiary_-_Bac_%5BMovie-dd.com%5D.MP4.mp4
+
+type=video
+name=AsianSexDiary – Sai (Laos)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/05/%E0%B8%A5%E0%B8%B2%E0%B8%A7-AsianSexDiary-Sai.jpg
+URL=https://openload.co/f/zBFE99iyYgE/%5B%E0%B8%A5%E0%B8%B2%E0%B8%A7%5D_AsianSexDiary_-_Sai_%5BMovie-dd.com%5D.MP4.mp4
+
+type=video
+name=AsianSexDiary – Meen
+thumb=https://erotic24hr.com/wp-content/uploads/2017/05/AsianSexDiary-Meen.jpg
+URL=https://openload.co/f/o_-zVcjqcMw/AsianSexDiary_-_Meen_%5BMovie-dd.com%5D.MP4.mp4
+
+type=video
+name=AsianSexDiary – Cat and Luk (Part1)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/05/AsianSexDiary-Cat-and-Luk-Part1.jpg
+URL=https://openload.co/f/5SQAj-K-0BY/AsianSexDiary_-_Cat_and_Luk_%28Part1%29_%5BMovie-dd.com%5D.MP4.mp4
+
+type=video
+name=AsianSexDiary – Mai
+thumb=https://erotic24hr.com/wp-content/uploads/2017/05/AsianSexDiary-Mai.jpg
+URL=https://openload.co/f/lWLPuVm1YoY/AsianSexDiary_-_Mai_%5BMovie-dd.com%5D.MP4.mp4
+
+type=video
+name=AsianSexDiary – Dera and Ayon
+thumb=https://erotic24hr.com/wp-content/uploads/2017/05/AsianSexDiary-Dera-and-Ayon.jpg
+URL=https://openload.co/f/fvCzJRBa0w0/AsianSexDiary_-_Dera_and_Ayon_%5BMovie-dd.com%5D.MP4.mp4
+
+# 2772545
+type=playlist
+name=XXX_JAV_18up_XXX
+thumb=https://4.bp.blogspot.com/-tteGFlL6TlU/WK0IJqSmwnI/AAAAAAAAJ8c/J7m1yir8VZYzzEsa1QKSSHSvpkd5rvr3ACLcB/s1600/Screenshot_5.png
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx
+player=default
+rating=-1.00
+
 # 2773909
 type=video
-name=AsianSexDiary â?? Pat
+name=91xxxxxxxxxxAsianSexDiary â?? Pat
 thumb=http://erotic24hr.com/wp-content/uploads/2017/05/AsianSexDiary-Pat.jpg
 date=2017-05-06
 URL=https://openload.co/f/zJETfWusbjo/AsianSexDiary_-_Pat_%5BMovie-dd.com%5D.MP4.mp4
@@ -97,14 +152,6 @@ name=AsianSexDiary â?? Poo
 thumb=http://erotic24hr.com/wp-content/uploads/2017/05/AsianSexDiary-Poo.jpg
 date=2017-05-06
 URL=https://openload.co/f/hiJs42gTK_Y/AsianSexDiary_-_Poo_%5BMovie-dd.com%5D.MP4.mp4
-player=default
-rating=-1.00
-
-# 2772545
-type=playlist
-name=XXX_JAV_18up_XXX
-thumb=https://4.bp.blogspot.com/-tteGFlL6TlU/WK0IJqSmwnI/AAAAAAAAJ8c/J7m1yir8VZYzzEsa1QKSSHSvpkd5rvr3ACLcB/s1600/Screenshot_5.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx
 player=default
 rating=-1.00
 

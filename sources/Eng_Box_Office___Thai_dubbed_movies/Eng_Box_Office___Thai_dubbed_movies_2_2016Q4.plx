@@ -1,8 +1,8 @@
 version=1
-background=http://image.tmdb.org/t/p/w500/ylXCdC106IKiarftHkcacasaAcb.jpg
+background=http://image.tmdb.org/t/p/w500/wnVHDbGz7RvDAHFAsVVT88FxhrP.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_2_2016Q4 [COLOR=FF888888]ï¿½[/COLOR] 1 to 198 of 199
-logo=http://image.tmdb.org/t/p/w500/ylXCdC106IKiarftHkcacasaAcb.jpg
-icon_playlist=http://image.tmdb.org/t/p/w500/ylXCdC106IKiarftHkcacasaAcb.jpg
+logo=http://image.tmdb.org/t/p/w500/wnVHDbGz7RvDAHFAsVVT88FxhrP.jpg
+icon_playlist=http://image.tmdb.org/t/p/w500/wnVHDbGz7RvDAHFAsVVT88FxhrP.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies./description
 
 type=playlist
@@ -232,15 +232,6 @@ player=default
 rating=-1.00
 description=John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassinsâ?? guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the worldâ??s most dangerous killers./description
 
-# 2771571
-type=video
-name=Fifty Shades Darker (2017) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/aybgjbFbn6yUbsgUMnUbwc2jcWd.jpg
-URL=https://openload.co/f/jjtc_TOuAsA/Fifty.Shades.Darker.2017.1080p.WEB-DL.H264.AC3.ThaiRong-CPT.mkv.mp4
-player=default
-rating=-1.00
-description=When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christianâ??s past start to circle the couple, determined to destroy their hopes for a future together./description
-
 # 2771287
 type=video
 name=Sleepless (2017) CAM SOUND
@@ -312,6 +303,15 @@ URL=https://openload.co/f/TxDaoKcf22s/One.Piece.Film.Gold.2016.2160p.WEB-DL.x264
 player=default
 rating=-1.00
 description=The Straw Hat Pirates are taking on Gild Tesoro, one of the richest men in the world./description
+
+# 2771571
+type=video
+name=Fifty Shades Darker (2017)
+thumb=http://image.tmdb.org/t/p/w500/wnVHDbGz7RvDAHFAsVVT88FxhrP.jpg
+URL=https://openload.co/f/zdAZcCEYcSM/%7BMINI_Super-HQ%7D_Fifty.Shades.Darker.2017.UNRATED.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+description=When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christianâ??s past start to circle the couple, determined to destroy their hopes for a future together./description
 
 # 2773193
 type=video

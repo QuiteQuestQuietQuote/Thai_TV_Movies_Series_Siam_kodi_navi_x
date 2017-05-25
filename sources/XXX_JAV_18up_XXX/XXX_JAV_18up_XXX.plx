@@ -11,6 +11,14 @@ icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx?action=sortsel&cur=ord
 
 type=playlist
+name=JAV_18_18up_PIES
+thumb=https://3.bp.blogspot.com/-BQ5ofSjLLqU/WQFenJm1dUI/AAAAAAAALy0/ZJ-PBNnWbfwB1It8A6CrpOE7EtH6P_hIQCLcB/s1600/Screenshot_7.png
+date=2017-05-25
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_18_18up_PIES.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=JAV_17_18up 
 thumb=http://erotic24hr.com/wp-content/uploads/2016/09/JAV-ABP-511.jpg
 date=2017-04-15

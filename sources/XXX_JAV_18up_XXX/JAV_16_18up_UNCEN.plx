@@ -10,9 +10,122 @@ name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_16_18up_UNCEN.plx?action=sortsel&cur=ord
 
-# 2776180
+
 type=video
-name=xxxxxJAV UNCENSORED 10MUSUME 103115_01 â?? LIVING ALONE GIRL OF THE ROOM I SEE! AND â?? TRYING TO ETCH IN-AIMI OF ROOM
+name=115xxxxxxxxxxH4610 KI170309-japanese AV-AV Uncensored-AV censored
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/H4610-KI170309-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/KgJlmp4QQNk/h4610_ki170309_%5BMovie-dd.com%5D
+
+type=video
+name=H0930 KI170309-japanese AV-AV Uncensored-AV censored
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/H0930-KI170309-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/uFHg0JeZIT0/h0930_ki170309_%5BMovie-dd.com%5D
+
+type=video
+name=JAV UNCENSORED HEYZO 0944 – BECAUSE THERE ARE MANY TRANSFORMATION TO FRIENDS, I ALSO TRIED TO CHALLENGE THE AV. . . – AKARI KATO
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-HEYZO-0944.jpg
+URL=https://openload.co/f/O2fnYnkvnUY/JAV-UNC_heyzo_hd_0944_full.mp4
+
+type=video
+name=JAV UNCENSORED TOKYO HOT N1080 – RUKA MIHOSHI
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-TOKYO-HOT-N1080.jpg
+URL=https://openload.co/f/14L58GQEOUQ/JAV-UNC_n1080_ruka_mihoshi_hy_n.mp4
+
+type=video
+name=JAV UNCENSORED CARIBBEANCOM 091115-969 – SHARE GIRL ~ SPERM IS PUT OUT IN THE PUSSY – FUJII NANA
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-CARIBBEANCOM-091115-969.jpg
+URL=https://openload.co/f/QqUg_VnOPfw/JAV-UNC_091115-969-carib-1080p.mp4
+
+type=video
+name=JAV UNCENSORED 1PONDO 091115_151 – YOSHIBICHICHI SENSITIVITY CHECK KAWASUMI MAI
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-1PONDO-091115_151.jpg
+URL=https://openload.co/f/nu7ODr9Nfi8/JAV-UNC_091115_151-1pon-1080p.mp4
+
+type=video
+name=JAV UNCENSORED 1PONDO 091015_150 – UNIFORMS PRETTY NAM LOVE TO ME MEET ANYTHING
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-1PONDO-091015_150.jpg
+URL=https://openload.co/f/wVz9sn3KST8/JAV-UNC_091015_150-1pon-1080p.mp4
+
+type=video
+name=JAV UNCENSORED CARIBBEANCOM 090115-961 – FULL OBEDIENCE CONTRACT ~ DEFEAT WEARING MAISAKI KINGDOM IN YOUR EYES ~ MAISAKI KINGDOM
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-CARIBBEANCOM-090115-961.jpg
+URL=https://openload.co/f/QiZztuFyK6A/JAV-UNC_090115-961-carib-1080p.mp4
+
+type=video
+name=JAV UNCENSORED GACHINCO GACHI896 – AMATEUR STUDENT TAKES FILE 141 TO YUKO
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-GACHINCO-GACHI896.jpg
+URL=https://openload.co/f/lBpQ98ZptEk/JAV-UNC_gachi896.wmv.mp4
+
+type=video
+name=JAV UNCENSORED 10MUSUME 091015_01 – TREASURED PUSSY SELECTION – WE’VE SPREAD OUT WITH TWO FINGERS – YUKO OKADA
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-10MUSUME-091015_01.jpg
+URL=https://openload.co/f/FVa_UpigBxI/JAV-UNC_091015_01-10mu-1080p.mp4
+
+type=video
+name=JAV UNCENSORED HEYZO 0939 – LIVE AT TE SADDLE! ~ FRUSTRATION WIDOW ~ KYOKO NAKAJIMA
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-HEYZO-0939.jpg
+URL=https://openload.co/f/fnq-rauHEMQ/JAV-UNC_heyzo_lt_0939_full.mp4
+
+type=video
+name=JAV UNCENSORED PACOPACOMAMA 090215_483 – NAKAI THOROUGHLY SPREE SPEAR WITH THE MILF, WHICH KEEP THE BUTTERFLY IN HUMANS POT TOMOKO
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-PACOPACOMAMA-090215_483.jpg
+URL=https://openload.co/f/pjsR93h0D7A/JAV-UNC_090215_483-paco-1080p.mp4
+
+# 2772540
+type=playlist
+name=XXX_JAV_18up_XXX
+thumb=https://4.bp.blogspot.com/-tteGFlL6TlU/WK0IJqSmwnI/AAAAAAAAJ8c/J7m1yir8VZYzzEsa1QKSSHSvpkd5rvr3ACLcB/s1600/Screenshot_5.png
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx
+player=default
+rating=-1.00
+
+type=video
+name=103xxxxxxxxxxJAV UNCENSORED 10MUSUME 102715_01 – YAMAMORI WAS HOPE THE PHOTOGRAPHED WANT TO LOTION PLAY EMI
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-10MUSUME-102715_01.jpg
+URL=https://openload.co/f/uHHyhwJgPTc/JAV-UNC_102715_01-10mu-1080p.mp4
+
+type=video
+name=JAV UNCENSORED CARIBBEANCOM 091015-968 – COMPLIANT EXPOSED WANDERING ~ TOO OBEDIENT TOBI-KKO GUJUGUJU WOMAN ~ MIURA HARUKA
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-CARIBBEANCOM-091015-968.jpg
+URL=https://openload.co/f/j6tNoCIfto4/JAV-UNC_091015-968-carib-1080p.mp4
+
+type=video
+name=JAV UNCENSORED TOKYO HOT K1231 – PREY FEMALE ~ KAMATA KEIKO
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/10/JAV-UNCENSORED-TOKYO-HOT-K123.jpg
+URL=https://openload.co/f/wXBSdM1bqao/JAV-UNC_k1231_keiko_kamata_gg.wmv.mp4
+
+type=video
+name=JAV UNCENSORED 1000GIRI 151030RUI – ASS BEAUTIFUL ASS – OF INTENSE OR I RUNAWAY GIRL
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-1000GIRI-151030RUI.jpg
+URL=https://openload.co/f/x_Be0sz7V_o/JAV-UNC_1000-151030rui-HD.mp4
+
+type=video
+name=JAV UNCENSORED 10MUSUME 102815_01 – I WAS CHEATED DAUGHTER OF UNIFORM AGE ~ IDOL APPLICANTS ~ HAMANAKA YUNA
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-10MUSUME-102815_01.jpg
+URL=https://openload.co/f/QIM3g5ZNyx0/JAV-UNC_102815_01-10mu-1080p.mp4
+
+type=video
+name=JAV UNCENSORED TOKYO HOT RED157 – RED HOT FETISH COLLECTION VOL.100 ~ AIKA HOSHINO
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-TOKYO-HOT-RED157.jpg
+URL=https://openload.co/f/caixv6jlSXg/JAV-UNC_red157.mp4
+
+type=video
+name=JAV UNCENSORED GACHINCO GACHIP291 – WALNUT – ANOTHER PUBLISHED MAJIONA 96
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-GACHINCO-GACHIP291.jpg
+URL=https://openload.co/f/jCEYjtpYIK4/JAV-UNC_gachip291.wmv.mp4
+
+type=video
+name=JAV UNCENSORED GACHINCO GACHI916 – SEIRA – NAUGHTY EVERYDAY 100
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-GACHINCO-GACHI916.jpg
+URL=https://openload.co/f/3k-ugRk9JWA/JAV-UNC_gachi916_hd.wmv.mp4
+
+type=video
+name=JAV UNCENSORED GACHINCO GACHIG218 – ANOTHER PUBLISHED MANKORE 108 – ANNE
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-GACHINCO-GACHIG218.jpg
+URL=https://openload.co/f/pkLnGyGPd8s/JAV-UNC_gachig218.wmv.mp4
+
+type=video
+name=94xxxxxxxxxxJAV UNCENSORED 10MUSUME 103115_01 â?? LIVING ALONE GIRL OF THE ROOM I SEE! AND â?? TRYING TO ETCH IN-AIMI OF ROOM
 thumb=http://zeed24hrs.com/wp-content/uploads/2016/10/JAV-UNCENSORED-10MUSUME-103115_01.jpg
 date=2017-05-10
 URL=https://openload.co/f/_iw_n4Ige-0/JAV-UNC_103115_01-10mu-1080p.mp4
@@ -43,14 +156,6 @@ name=JAV UNCENSORED MKD-S107 â?? PLEASE CHARGED WITH ME AFTER SCHOOL â?? FUJII N
 thumb=http://zeed24hrs.com/wp-content/uploads/2016/10/JAV-UNCENSORED-MKD-S107.jpg
 date=2017-05-10
 URL=https://openload.co/f/u1yQXg9qldo/JAV-UNC_MKD-S107.mp4
-player=default
-rating=-1.00
-
-# 2772540
-type=playlist
-name=XXX_JAV_18up_XXX
-thumb=https://4.bp.blogspot.com/-tteGFlL6TlU/WK0IJqSmwnI/AAAAAAAAJ8c/J7m1yir8VZYzzEsa1QKSSHSvpkd5rvr3ACLcB/s1600/Screenshot_5.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx
 player=default
 rating=-1.00
 
