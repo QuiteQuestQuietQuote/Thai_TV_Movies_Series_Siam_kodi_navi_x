@@ -10,9 +10,113 @@ name=Sorted [COLOR=FF00FF00]by user-assigned order[/COLOR]
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_13_18up_XXX.plx?action=sortsel&cur=ord
 
+type=video
+name=52xxxxxxxxxxxxxxxxxxxxMy Man (2014)
+thumb=https://4.bp.blogspot.com/-CLJ8Ts_UB-0/WQN0o-zP_0I/AAAAAAAAIAw/j-9sFvWlDxI8pBjJNXuF4e-OShEXZAYWQCLcB/s320/4SS.jpg
+URL=https://openload.co/f/KisaI-QtuUI/My_Man_2014_720p_%5BMovie-dd.com%5D
+
+type=video
+name=Sex Of Golden Plums (2008)
+thumb=https://2.bp.blogspot.com/-t7CidHFpwsE/WQN0KMyoq7I/AAAAAAAAIAo/whZ2dmOqYU80ScvHGm-BkxRZp0RBTYGyACLcB/s320/4S.jpg
+URL=https://openload.co/f/JGGVUSERJTc/Sex_Of_Golden_Plums_%282008%29_%5BMovie-dd.com%5D
+
+type=video
+name=Changing Partners (2007)
+thumb=https://1.bp.blogspot.com/--NHIsOvMrGU/WQNzu5XAp4I/AAAAAAAAIAk/urdde8NQF9Q5arFF_Kt4F70fnSVJ1lRGgCLcB/s320/4.jpg
+URL=https://openload.co/f/k1-NOF38H3s/Changing.Partners.2007_%5BMovie-dd.com%5D
+
+type=video
+name=Eternal Summer (2006)
+thumb=https://3.bp.blogspot.com/-8jpFuQGeESc/WQNvIzGhLvI/AAAAAAAAIAU/FXHRhnXEyuYZLq3M8UB_RY2BAGx1uV49QCLcB/s320/3SS.jpg
+URL=https://openload.co/f/Vi5VnMg7nnQ/Eternal.Summer.2006.DVDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Nude (2010)
+thumb=https://4.bp.blogspot.com/-qcKBLV24T0g/WQNusLYDBiI/AAAAAAAAIAQ/thdyi4USu9MN4n9ioapjfPSNMz_sv2ePACLcB/s320/3S.jpg
+URL=https://openload.co/f/neztqz7O_MU/Nude.2010.JAP.DVDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Yuriko no aroma (2010)
+thumb=https://4.bp.blogspot.com/-OznFaRU-5A0/WQNuENE4aaI/AAAAAAAAIAI/BfX_3dohydM1T4eRk_g-LgZfL7CnXWVgwCLcB/s320/3.jpg
+URL=https://openload.co/f/VOkXeuGF2hk/Yuriko.no.Aroma.2010.DVD_%5BMovie-dd.com%5D
+
+type=video
+name=3 A.M. (1975) (B)
+thumb=https://2.bp.blogspot.com/-2mldL6Y2WtA/WQBwifBLooI/AAAAAAAAPe4/EdVBD2fLYHA3Ub_yVpUZqXC_NOBcTdXwQCLcB/s400/scene07225.jpg
+URL=https://openload.co/f/ykRB5Ksj6KQ/3_A.M._%281975%29_2.mp4
+
+type=video
+name=3 A.M. (1975) (A)
+thumb=https://4.bp.blogspot.com/-2qsIjrKnztQ/WQNsaw3Gr7I/AAAAAAAAH_8/MFqyS9NO2tULdtxcovL8OHItTi1Ermj0gCLcB/s320/2ss.jpg
+URL=https://openload.co/f/cQ2ar7eH9g4/3_A.M._%281975%29_1.mp4
+
+type=video
+name=Mother’s Wishes (1973)
+thumb=https://3.bp.blogspot.com/-7ABAce5M1is/WQNr1vt9QEI/AAAAAAAAH_0/fM1pQNkugssxhMohmS2kSciSSp7iK-7SQCLcB/s320/2s.jpg
+URL=https://openload.co/f/doh8UHdABCs/Mother%27s_Wishes_%281973%29.mpg.mp4
+
+type=video
+name=Les Chiennes (1973) (B)
+thumb=https://2.bp.blogspot.com/-0olBXycXwJg/WP89R2CXtYI/AAAAAAAAPdk/y2Yy27Y2uZgrmkK0D_q9aNxM5RLkHI9NQCLcB/s400/scene61513.jpg
+URL=https://openload.co/f/eLUS_6Sqe9o/Les_Chiennes_%281973%292.mp4
+
+type=video
+name=Les Chiennes (1973) (A)
+thumb=https://4.bp.blogspot.com/-hMG2ffwaGK4/WQNrFfrKaRI/AAAAAAAAH_s/WbNVQSMsTHs1gsGtQ4fufEUwfOulcvejwCLcB/s320/2.jpg
+URL=https://openload.co/f/jYJtT4kNiuI/Les_Chiennes_%281973%291.mp4
+
+type=video
+name=The Black Bunch (1973) (B)
+thumb=https://3.bp.blogspot.com/-nI6T2UomY3w/WP5M2TntX_I/AAAAAAAAPc4/smkFf5e45twezjOw1tJCMik4sXYNPJPDQCLcB/s400/scene80881.jpg
+URL=https://openload.co/f/n7f52DVXpJY/The_Black_Bunch_%281973%292.mp4
+
+type=video
+name=The Black Bunch (1973) (A)
+thumb=https://2.bp.blogspot.com/-2wOy94tZyaE/WP_7-gGv8WI/AAAAAAAAH88/Zp7euH8ZY_MJmtj-b6uFh1qw1-ol4u12gCLcB/s320/5S.png
+URL=https://openload.co/f/nQPGr2u_LuU/The_Black_Bunch_%281973%291.mp4
+
+type=video
+name=The Inside Story (2017)
+thumb=https://1.bp.blogspot.com/-MfuArIII8VQ/WP_6ZI-sF1I/AAAAAAAAH8o/BxYL8G8tP7sxrp8H-sG0MBsF-dEnLKFfQCLcB/s320/4%25E0%25B8%2586%25E0%25B8%2586.jpg
+URL=https://openload.co/f/YSpqqlEHdmU/The_Inside_Story_%282017%29.mp4
+
+type=video
+name=Some: An Erotic Tale (2017)
+thumb=https://1.bp.blogspot.com/-xFkXy31cCoM/WP_56f7EE2I/AAAAAAAAH8k/0rFWKego-Rg948Le2PrdxlvPa-iXVNW7gCLcB/s320/4%25E0%25B8%2586.jpg
+URL=https://openload.co/f/JONlIl4eqRQ/Some-_An_Erotic_Tale_-2017.mp4
+
+type=video
+name=Live With An Actress (2017)
+thumb=https://1.bp.blogspot.com/-Jk-CY_qfjX0/WP_5ef81VcI/AAAAAAAAH8g/v49n5VCP00gSwRrzu3Ewm0RMXfgEb7cAwCLcB/s320/4.jpg
+URL=https://openload.co/f/5J-wHu4hdpA/Live_With_An_Actress_-2017.mp4
+
+type=video
+name=My Friend’s Husband (2017)
+thumb=https://3.bp.blogspot.com/-vvQ0mU2LQSE/WP_4YRlydkI/AAAAAAAAH8U/5wV9qziG2OIv-o91UcydNw-P7NdcYPE1ACLcB/s320/3S.jpg
+URL=https://openload.co/f/vpntQrRMSS4/My_Friend%E2%80%99s_Husband_2017_%5BMovie-dd.com%5D
+
+type=video
+name=Captive Wife (2009)
+thumb=https://3.bp.blogspot.com/-4a3wbvN945I/WP_36YM61LI/AAAAAAAAH8Q/ih934lITQBsTLWlow2oriK3B0sw4av9cgCLcB/s320/3.jpg
+URL=https://openload.co/f/aRVYaOyiIYA/CaaptiveWive_2009_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Thermae Alien (2012)
+thumb=https://4.bp.blogspot.com/-Sdxbk8qgZCE/WP_3MOJYYEI/AAAAAAAAH8I/UUcWxTuYuYwWaT4OLLNsS0b84jk4NE8XwCLcB/s320/2SSSS.jpg
+URL=https://openload.co/f/nCQm2noUZDQ/Thermae_Alien_2012_%5BMovie-dd.com%5D
+
+# 2773929
+type=playlist
+name=96_2_69_OHOHD_18up_XXX
+thumb=https://4.bp.blogspot.com/-_5ioyzmX5T8/WN8H64OWkYI/AAAAAAAAHN4/_43g2SHgg8ocoYiCZTr9sMpwwNEIjF8aQCLcB/s320/4SSS.jpg
+date=2017-05-06
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_18up_XXX.plx
+player=default
+rating=-1.00
+
 # 2776161
 type=video
-name=xxxxxxxxxxxxxxxxxxxxxxxxxTonightâ??s Girlfriends Vol. 50 2016
+name=33xxxxxxxxxxxxxxxxxxxxxxxxxTonightâ??s Girlfriends Vol. 50 2016
 thumb=http://erotic24hr.com/wp-content/uploads/2016/04/Tonight%E2%80%99s-Girlfriend-Vol.-50-2016-212x300.jpg
 date=2017-05-09
 URL=https://openload.co/f/SfROsmMqjuc/Tonight%27s_Girlfriends_Vol._50_2016_1080p_DVDRip
@@ -286,15 +390,6 @@ name=My White Rich Beauty Friends (2016)
 thumb=https://1.bp.blogspot.com/-Re6z1F8G98U/WP_yBwC1xtI/AAAAAAAAH7M/D3qCmwczcocQhiufaEmjZxv-82XnuAnVgCLcB/s320/1.jpg
 date=2017-05-09
 URL=https://openload.co/f/g0JA9-2x3V0/My_White_Rich_Beauty_Friends_%282016%29_%5BMovie-dd.com%5D
-player=default
-rating=-1.00
-
-# 2773929
-type=playlist
-name=96_2_69_OHOHD_18up_XXX
-thumb=https://4.bp.blogspot.com/-_5ioyzmX5T8/WN8H64OWkYI/AAAAAAAAHN4/_43g2SHgg8ocoYiCZTr9sMpwwNEIjF8aQCLcB/s320/4SSS.jpg
-date=2017-05-06
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_18up_XXX.plx
 player=default
 rating=-1.00
 

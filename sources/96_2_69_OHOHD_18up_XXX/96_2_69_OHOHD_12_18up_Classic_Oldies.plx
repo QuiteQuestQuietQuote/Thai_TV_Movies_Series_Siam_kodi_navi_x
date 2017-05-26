@@ -10,6 +10,70 @@ name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_12_18up_Classic_Oldies.plx?action=sortsel&cur=ord
 
+
+type=video
+name=112xxxxxxxxxxxxxxxxxxxxNightmare Sisters (1988)
+thumb=https://2.bp.blogspot.com/-1XLZqpv_PIY/WAyCpAww7VI/AAAAAAABEf4/2jdeH9QJCPgLo-hrnlZ6KzmKFOzOhoeZgCLcB/s320/2.jpg
+URL=https://openload.co/f/Wkaq1iOuoms/Nightmare_Sisters_%281988%29.mkv.mp4
+
+type=video
+name=Novelle licenziose di vergini vogliose (1973)
+thumb=https://1.bp.blogspot.com/-nLdER5HXpk4/WAyB5fnO_VI/AAAAAAABEf0/g81mlO03yJI_sI2dh1UWiFprpQxUA2dMQCLcB/s320/1.jpg
+URL=https://openload.co/f/pRfeoJhYmM8/Novelle_licenziose_di_vergini_vogliose_%281973%29
+
+type=video
+name=Niizuma jigoku (1975)
+thumb=https://2.bp.blogspot.com/-BQD14uKWDfM/WAyBSjQwDJI/AAAAAAABEfs/yjoS8mNYQgwuWeT3BH2zlbZBvC-7gH-3gCLcB/s320/8.jpg
+URL=https://openload.co/f/X6gUoyqdTQc/Niizuma_jigoku_%281975%29.mp4
+
+type=video
+name=Women’s Violent Classroom (1972)
+thumb=https://4.bp.blogspot.com/-WxRex5Uizt8/WAyAZEWYMrI/AAAAAAABEfg/JE2EwOOZcg8rgkGDiuUA3tcWXJPG5MA2ACLcB/s320/6.jpg
+URL=https://openload.co/f/RR0w4QZWsIw/Terrifying_Girls%27_High_School_-_1._Women%27s_Violent_Classroom.avi.mp4
+
+type=video
+name=Cathy, fille soumise (1977)
+thumb=https://3.bp.blogspot.com/-LUDHTVwZPDM/WAtIlBBgqdI/AAAAAAABEbY/AgbewA4YZc0TkRQs4Kp1-77mkwBOAHLCwCLcB/s320/6.jpg
+URL=https://openload.co/f/exjZOK-t9cc/Cathy_fille_soumise.avi.mp4
+
+type=video
+name=Pantaleon y las visitadoras (2000)
+thumb=https://2.bp.blogspot.com/-0s_uL1snn8Q/WAs944nTotI/AAAAAAABEZQ/U-QZnB_mhr4YipJSuVtwukg2IgXlz3VHQCLcB/s320/9.jpg
+URL=https://openload.co/f/qqBc_XaJoag/Captain_Pantoja_and_the_Special_Services.2000.DVDrip.Xvid-CG.avi.mp4
+
+type=video
+name=Emanuelle in the Country (1978)
+thumb=https://3.bp.blogspot.com/-AMHSLMnLKyU/WAs8hgYySuI/AAAAAAABEZE/oeRv-ET0qzUklALYeBplDAEw1zdgi4dSgCLcB/s320/7.jpg
+URL=https://openload.co/f/jsxpg_gdF0c/Emanuelle.In.The.Country.1978.mkv.mp4
+
+type=video
+name=Voto di castita (1976)
+thumb=https://2.bp.blogspot.com/-v2AsGj-qCdU/WAs7VtF6JvI/AAAAAAABEY4/sKPMxyUQ354qXweKuZfdJseBtVyWrWolACLcB/s320/6.jpg
+URL=https://openload.co/f/ozMUadHBWtE/Voto_di_castit%C3%A0_%281976%2C_Joe_D%27Amato%29.avi.mp4
+
+type=video
+name=The Lover (1992)
+thumb=https://2.bp.blogspot.com/-6wEZ35NZoC4/WAoq-IpQAhI/AAAAAAABEUA/uyOK8eIOU7Ml8CJtl3XapsJeXLuzhXc3wCLcB/s1600/5.jpg
+URL=https://openload.co/f/MwQpbb0OjoI/L%27amant%2FThe.Lover.1992.DVDRip_Erotic
+
+type=video
+name=Hell in a Bottle (1986)
+thumb=https://1.bp.blogspot.com/-6Be-Oh6Piqs/WAooCQS0X6I/AAAAAAABETQ/CgHctIAG-VssD3491W09PmmxMpS_WJRiQCLcB/s320/3.jpg
+URL=https://openload.co/f/d12YKkQlYF8/Hell.In.A.Bottle.1986.DVDRip_Erotic
+
+type=video
+name=Edo Jokeibatsushi (2007)
+thumb=https://3.bp.blogspot.com/-67k2Sh-9gPU/WAolYU-iiqI/AAAAAAABESw/t70cf6An1UUvts7M0VF4Hiqx7DRczc9JQCLcB/s1600/1.jpg
+URL=https://openload.co/f/H3udpmbKN44/Edo.Jokeibatsushi.2007_Erotic
+
+# 2773611
+type=playlist
+name=96_2_69_OHOHD_18up_XXX
+thumb=https://4.bp.blogspot.com/-_5ioyzmX5T8/WN8H64OWkYI/AAAAAAAAHN4/_43g2SHgg8ocoYiCZTr9sMpwwNEIjF8aQCLcB/s320/4SSS.jpg
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_18up_XXX.plx
+player=default
+rating=-1.00
+
 type=video
 name=101xxxxxxxxxxxxxxxxxxxxIdonikes diastrofes (1983)
 thumb=https://4.bp.blogspot.com/-j_KAvoJGRbM/WAohdrJK8HI/AAAAAAABESo/DZDo9gmqDAQFIeLlrCoT3AllAexkMCRHwCLcB/s320/10.jpg
@@ -99,14 +163,6 @@ type=video
 name=Senza scrupoli (1986)
 thumb=https://1.bp.blogspot.com/-ctsH1Wh_3K4/WAXvJ5ZCfbI/AAAAAAABEAg/UokO4ZTXjpUTKkR5FM1vkzfIwMGupExQwCLcB/s320/5.JPG
 URL=https://openload.co/f/O28qBVF-Gvc/SENZA_SCRUPOLI_1985_di_Tonino_Valerii_senza_pubblicita.mpg.mp4
-
-# 2773611
-type=playlist
-name=96_2_69_OHOHD_18up_XXX
-thumb=https://4.bp.blogspot.com/-_5ioyzmX5T8/WN8H64OWkYI/AAAAAAAAHN4/_43g2SHgg8ocoYiCZTr9sMpwwNEIjF8aQCLcB/s320/4SSS.jpg
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_18up_XXX.plx
-player=default
-rating=-1.00
 
 # 2776191
 type=video

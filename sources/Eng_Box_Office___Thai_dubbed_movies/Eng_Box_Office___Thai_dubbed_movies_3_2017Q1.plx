@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
+thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -22,13 +22,6 @@ type=video
 name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) RUS
 thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
 URL=https://openload.co/f/JJpWlYOG5PY/P_o_t_C_D_M_T_N_T_2017_CAMRip_%5BLayar-21.com%5D.mp4
-player=default
-rating=-1.00
-
-type=video
-name=Alien: Covenant (2017) ENG
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MzM3MzkxNF5BMl5BanBnXkFtZTgwOTkyMjI4MTI@._V1_SY1000_CR0,0,673,1000_AL_.jpg
-URL=https://openload.co/f/0jGCY5VQXNc/Alien_Covenant_2017_720p_HDCAM_ENG_x264-Mr.BDS.mkv.mp4
 player=default
 rating=-1.00
 
@@ -144,7 +137,7 @@ description=A crime drama set in 1970s Boston, about a gun sale which goes wrong
 type=video
 name=Colossal (2017) ENG
 thumb=http://image.tmdb.org/t/p/w500/4VOyofBd1pexblxtDZYtYIk7NI4.jpg
-URL=https://openload.co/f/STw60khiWLc/C-o-l-o-s-s-al.2016.720p.WEBRip.READNFO.DD2.0.x264-BDP.mkv.mp4
+URL=https://openload.co/f/NMABZ4v3zOM/Colossal.2016.1080p.WEB-DL.AAC2.0.H264-FGT.mkv.mp4
 player=default
 rating=-1.00
 description=A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering./description
@@ -305,7 +298,7 @@ description=The adventures of two California Highway Patrol motorcycle officers 
 type=video
 name=Life (2017) ENG
 thumb=http://image.tmdb.org/t/p/w500/h2mhfbEBGABSHo2vXG1ECMKAJa7.jpg
-URL=https://openload.co/f/OY9g5NarnUA/L-e_2017_HDCAM_ENG_x264-UNiQUE.mkv.mp4
+URL=https://openload.co/f/5EP38NX7_Cc/Life.2017.720p.HDCAM.DD2.0.x264-BDP.mkv.mp4
 player=default
 rating=-1.00
 description=The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected./description
@@ -330,9 +323,9 @@ description=After suffering a family tragedy, Mack Phillips spirals into a deep 
 
 # 2768540
 type=video
-name=T2 Trainspotting (2017) ENG
+name=T2 Trainspotting (2017) ENG BRR
 thumb=http://image.tmdb.org/t/p/w500/A84pxL5z86KbV9u8GAK2mVOoXK.jpg
-URL=https://openload.co/f/HakLfeRVTlY/T2.Trainspotting.2017.CAM.XViD-ETRG.avi.mp4
+URL=https://openload.co/f/BqXRpHVbZuk/T2.Trainspotting.2017.720p.BRRip.XviD.AC3-RARBG.avi.mp4
 player=default
 rating=-1.00
 description=After 20 years abroad, Mark Renton returns to Scotland and reunites with his old friends Sick Boy, Spud, and Begbie./description
@@ -351,6 +344,13 @@ type=script
 name=Thai__________________Thai
 thumb=http://i.dailymail.co.uk/i/pix/2016/11/18/14/3A77935E00000578-3949706-Making_a_splash_The_fish_with_its_blue_red_and_white_horizontal_-m-13_1479477984350.jpg
 URL=https://openload.co/pair
+player=default
+rating=-1.00
+
+type=video
+name=Alien: Covenant (2017) CAM
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MzM3MzkxNF5BMl5BanBnXkFtZTgwOTkyMjI4MTI@._V1_SY1000_CR0,0,673,1000_AL_.jpg
+URL=https://openload.co/f/iJsBLoSeTro/Alien_Covenant_%282017%29_%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99_%E0%B9%82%E0%B8%84%E0%B9%80%E0%B8%A7%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C.mp4
 player=default
 rating=-1.00
 
@@ -648,6 +648,14 @@ URL=https://openload.co/f/b7mAQ1WkI9E/attraction-2017_%281%29.mkv.mp4
 player=default
 rating=-1.00
 description=After an alien ship crash lands onto a Russian city, many who have saw the inside and the occupants start to question their own existence while there are those who demand the aliens to leave Earth/description
+
+# 69
+type=video
+name=A Tale of Legendary Libido (2008)
+thumb=https://image.tmdb.org/t/p/w640/kmvffx5ObIRgKa6lUAssWbGbu2h.jpg
+URL=https://openload.co/f/usjIDJupb1c/%5BT%5DA_Tale_of_Legendary_Libido_%5B2008%5D
+player=default
+rating=-1.00
 
 type=video
 name=Resident Evil: Degeneration (2008)
