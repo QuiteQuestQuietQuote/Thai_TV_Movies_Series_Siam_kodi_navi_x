@@ -10,11 +10,162 @@ name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_18_18up_PIES.plx?action=sortsel&cur=ord
 
+type=playlist
+name=XXX_JAV_18up_XXX
+thumb=https://4.bp.blogspot.com/-tteGFlL6TlU/WK0IJqSmwnI/AAAAAAAAJ8c/J7m1yir8VZYzzEsa1QKSSHSvpkd5rvr3ACLcB/s1600/Screenshot_5.png
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx
+player=default
+rating=-1.00
 
 type=video
 name=
 thumb=
 URL=
+
+
+
+type=video
+name=53xxxxxxxxxxxxxxxxxxxxDVAJ-0110 Man Out Of Business × Black South Eyebrows
+thumb=https://2.bp.blogspot.com/-0U3tGzl6wJA/WQk90AEqv8I/AAAAAAAAMFI/tioZcfG7OLEnDJ16mDh7Ky5ZYcjiwobaACLcB/s1600/Screenshot_1.png
+URL=https://openload.co/f/CVR9MZDsf9I/DVAJ-0110_Man_Out_Of_Business_%C3%97_Black_South_Eyebrows.mp4
+
+type=video
+name=LOVE-351 Your Name Is -Himawari
+thumb=https://3.bp.blogspot.com/-d7mZlmF7tZE/WQhdM9dXYXI/AAAAAAAAMEo/GwqlrQ8CFZ8qdsbrHYR0kt-hbpwfWJkBwCLcB/s1600/Screenshot_1.png
+URL=https://openload.co/f/DYhs76r_IxI/LOVE-351_Your_Name_Is_-Himawari-.mp4
+
+type=video
+name=ONEZ-080 Brass Band's A Deputy Director Namanaka 10 Barrage Atobi Sri
+thumb=https://3.bp.blogspot.com/-iN8upk2rsHM/WQgmWFO4YdI/AAAAAAAAMEY/8poiZ5uLOPwaVcK6rwqhUlRs6jtHP9a6gCLcB/s1600/Screenshot_1.png
+URL=https://openload.co/f/Bf4oLrV7exg/ONEZ-080_Brass_Band%27s_A_Deputy_Director_Namanaka_10_Barrage_Atomi_Shuri.mp4
+
+type=video
+name=GAOR-118 Fujisaki Ellen Girlfriend Of Me
+thumb=https://4.bp.blogspot.com/-t5wiiQGNCiQ/WQf2tFUinSI/AAAAAAAAMDY/990hThrm3WwtqEEchZOHzC844hZT1FDEQCLcB/s1600/Screenshot_11.png
+URL=https://openload.co/f/T91NThmB07E/GAOR-118_Fujisaki_Ellen_Girlfriend_Of_Me.mp4
+
+type=video
+name=GDHH-054 Your Mother-in-law's In My Futon Sleeping Is Vacuum Blow! -Quite Young And Quite Erotic Mother-in-law Made A Sudden!Sexy Looking At Breast Fliers, Rolling Up Underwear From The Usual!Erection And Rolled!Vacu
+thumb=https://4.bp.blogspot.com/-R__Z15ZdZ94/WQfyis30tII/AAAAAAAAMDI/_dOatNeu6u0Y6MKcM7X72S008ev_R1G3ACLcB/s1600/Screenshot_10.png
+URL=https://openload.co/f/qLFqUHT7kxs/GDHH-054_Your_Mother-in-law%27s_In_My_Futon_Sleeping_Is_Vacuum_Blow%21_-Quite_Young_And_Quite_Erotic_Mother-in-law_Made_A_Sudden%21Sexy_Looking_At_Breast_Fliers%2C_Rolling_Up_Underwear_From_The_Usual%21Erection_And_Rolled%21Vacu.mp4
+
+type=video
+name=GNE-176 I Have Been Tempted To Her Sister Too Beautiful 1
+thumb=https://3.bp.blogspot.com/-y48I4KBwQBs/WQfxQRuIcvI/AAAAAAAAMC8/sTHWxmx3g5IDwsWeZfpa3LoG_x8tGLGzQCLcB/s1600/Screenshot_9.png
+URL=https://openload.co/f/ywgVdWAO98I/GNE-176_I_Have_Been_Tempted_To_Her_Sister_Too_Beautiful_1.mp4
+
+#47
+type=video
+name=GVG-479 Estrus Dekachi  Port To Come Was Mr. Black Of The Homestay Was Mother An Takase
+thumb=https://2.bp.blogspot.com/-2m7fmE5li7w/WQfwJHl9KSI/AAAAAAAAMCw/fm7IKh7BsxcO5UtxqR7LgHuk49JB-kAjwCLcB/s1600/Screenshot_8.png
+URL=https://openload.co/f/RDfM5kAwuN8/GVG-479_Estrus_Dekachi_%E2%97%8B_Port_To_Come_Was_Mr._Black_Of_The_Homestay_Was_Mother_An_Takase.mp4
+
+type=video
+name=HUNTA-297 Absolutely Bad!Because Siblings Of You ... Rubbing'll Promise Only Wedding Before My Sister And The Last Of Incest Intercrural Sex!Of Course It Cum Too Much Of Comfortably!
+thumb=https://3.bp.blogspot.com/-NUR0yD8w4Yo/WQfxvZIy7wI/AAAAAAAAMDA/AxiDQzLRdRkRnyr8L-rYNI_uV1sU6uViwCLcB/s1600/Screenshot_7.png
+URL=https://openload.co/f/cLJY0_Depng/HUNTA-297_Absolutely_Bad%21Because_Siblings_Of_You_..._Rubbing%27ll_Promise_Only_Wedding_Before_My_Sister_And_The_Last_Of_Incest_Intercrural_Sex%21Of_Course_It_Cum_Too_Much_Of_Comfortably%21.mp4
+
+type=video
+name=KAWD-810 Beautiful Voice Singer-songwriter Is To First Hear Screaming And Cum Alive Tide SEX Mio Hirose
+thumb=https://4.bp.blogspot.com/-dZEdT6aFrkM/WQfuU6Haq1I/AAAAAAAAMCk/XAKpmwEcFboZ9d5O8O430NRV1OUGQluxACLcB/s1600/Screenshot_6.png
+URL=https://openload.co/f/CykNZvbmhek/KAWD-810_Beautiful_Voice_Singer-songwriter_Is_To_First_Hear_Screaming_And_Cum_Alive_Tide_SEX_Mio_Hirose.mp4
+
+type=video
+name=LOVE-349 With Your Voice Mail - Your Brother-in-law-chan Dont
+thumb=https://1.bp.blogspot.com/-wQIjXSYt-Bs/WQftXqAQ-sI/AAAAAAAAMCY/PXK7jrmWZekKLcNwqFfQF1mulZ4rm7u4ACLcB/s1600/Screenshot_5.png
+URL=https://openload.co/f/KOJgUKxoZRg/LOVE-349_With_Your_Voice_Mail_-_Your_Brother-in-law-chan_Dont_%7E.mp4
+
+type=video
+name=MEI-018 Scary Paisen The Other Side Of The Magic Mirror!Paisen Boast Of Beautiful Challenge To Erotic Game Is Junior Kun Of Paisen And Her Secret! !Paisen To Junior Qunci  Port Of Full Erection While Chatter She Is
+thumb=https://2.bp.blogspot.com/-BgRr5prX2rU/WQfsgNRESLI/AAAAAAAAMCQ/gHX7u-hFSQUV1X1WjLBqQhEmgy9tJBobQCLcB/s1600/Screenshot_4.png
+URL=https://openload.co/f/d4h4QK8COkM/MEI-018_Scary_Paisen_The_Other_Side_Of_The_Magic_Mirror%21Paisen_Boast_Of_Beautiful_Challenge_To_Erotic_Game_Is_Junior_Kun_Of_Paisen_And_Her_Secret%21_%21Paisen_To_Junior_Qunci_%E2%97%8B_Port_Of_Full_Erection_While_Chatter_She_Is_.mp4
+
+type=video
+name=MMND-142 AV Impossible Popular Wearing Erotic Idle Baby-faced G Cup Completely Deceived Massaging Mayu Senju
+thumb=https://1.bp.blogspot.com/-FZYdivFKzWg/WQfrXZRYvvI/AAAAAAAAMCE/GJ68mAwNQWQosN8g-4mzU75gD3IbON1WQCLcB/s1600/Screenshot_3.png
+URL=https://openload.co/f/K3DIrBaGLfg/MMND-142_AV_Impossible_Popular_Wearing_Erotic_Idle_Baby-faced_G_Cup_Completely_Deceived_Massaging_Mayu_Senju.mp4
+
+type=video
+name=OYC-107 Handsome Friend Brought The Girl Of Tipsy State In My Room!Unrelated To Me In A Woman It Just Be Excited Even Though I The Start Of The H A King Game In The Ultra-extremist ... 9
+thumb=https://4.bp.blogspot.com/-0bBWXBnn4Vo/WQfpwyE3g_I/AAAAAAAAMB0/vTGGsXgVm7oD_s2NQ8lmPh4maP6L_TNXQCLcB/s1600/Screenshot_1.png
+URL=https://openload.co/f/8EYfagZwWSw/OYC-107_Handsome_Friend_Brought_The_Girl_Of_Tipsy_State_In_My_Room%21Unrelated_To_Me_In_A_Woman_It_Just_Be_Excited_Even_Though_I_The_Start_Of_The_H_A_King_Game_In_The_Ultra-extremist_..._9.mp4
+
+type=video
+name=WANZ-346 hip pretend maid vaginal Jobs Slave Kawamura Maya
+thumb=https://4.bp.blogspot.com/-q9rxIJx9HI0/WQfdZdEO9PI/AAAAAAAAMBk/FbifLf_WhvYd8vdoubou6Wn1RRQbIE22ACLcB/s1600/Screenshot_1.png
+URL=https://openload.co/f/WnvvdkizmAk/WANZ-346_hip_pretend_maid_vaginal_Jobs_Slave_Kawamura_Maya.mp4
+
+#39
+type=video
+name=ABP-592 Only Of Obedience Pet I Too Love Me 5 Mion Sonoda
+thumb=https://3.bp.blogspot.com/-ksiYNNqrqBE/WQauq9rmKLI/AAAAAAAAL_o/jcCUHtZWPGw0XtnZbHhrv3zOv3zXkRM4gCLcB/s1600/Screenshot_14.png
+URL=https://openload.co/f/qOWwdMUXtXk/ABP-592_Only_Of_Obedience_Pet_I_Too_Love_Me_5_Mion_Sonoda.mp4
+
+type=video
+name=ABP-593 Best Brush Wholesale Aine Maria 13
+thumb=https://1.bp.blogspot.com/-QPRkHl2MYNQ/WQat5J8om0I/AAAAAAAAL_g/t0MjVfC_lNk8guBrWywechjQ9aApXfqngCLcB/s1600/Screenshot_13.png
+URL=https://openload.co/f/vC0xBzRF530/ABP-593_Best_Brush_Wholesale_Aine_Maria_13.mp4
+
+type=video
+name=BABA-101 This At Least In The Effect Of The Entire Recording 14 -medicine Wife With The Husband Of The Post ED Import Than Urology Doctor Has Been Squid As Mad Feel And Lust To See The Erect Buttoichi  Port Of The D
+thumb=https://1.bp.blogspot.com/-mJpqJlvDurc/WQatLNI0JrI/AAAAAAAAL_Y/9QAZGjKH3CMTEBElg5iE_6o866ERlA71gCLcB/s1600/Screenshot_12.png
+URL=https://openload.co/f/YCzTuOwHWgg/BABA-101_This_At_Least_In_The_Effect_Of_The_Entire_Recording_14_-medicine_Wife_With_The_Husband_Of_The_Post_ED_Import_Than_Urology_Doctor_Has_Been_Squid_As_Mad_Feel_And_Lust_To_See_The_Erect_Buttoichi_%E2%97%8B_Port_Of_The_D.mp4
+
+type=video
+name=BKD-172 Hot Water Path Of Mother-to-child Copulation - Shiho  Mayumi Imai
+thumb=https://4.bp.blogspot.com/-YjL88h2YMwk/WQasoP6dl0I/AAAAAAAAL_Q/JQiWZWPITiIX8cpKzEF0-MZdl9khvlsYgCLcB/s1600/Screenshot_11.png
+URL=https://openload.co/f/2hSdRybx5Fc/BKD-172_Hot_Water_Path_Of_Mother-to-child_Copulation_-_Shiho_%7E_Mayumi_Imai.mp4
+
+type=video
+name=EBOD-581 Muchimuchi Daughter E-BODY Exclusive Debut You Want To Okaz!Breast Deka'!Ass Deka'! Yukisome Senna
+thumb=https://1.bp.blogspot.com/-loJV6y6M208/WQaq_RH2aiI/AAAAAAAAL_E/cCIKHzc5sQIPXbFHqZVxCSuwb0zE4k5UgCLcB/s1600/Screenshot_10.png
+URL=https://openload.co/f/JZM5C6XlsII/EBOD-581_Muchimuchi_Daughter_E-BODY_Exclusive_Debut_You_Want_To_Okaz%21Breast_Deka%27%21Ass_Deka%27%21_Yukisome_Senna.mp4
+
+type=video
+name=ECB-104 Bad Company Ai Mukai Atobi Sri
+thumb=https://3.bp.blogspot.com/-cVMr_e05IRY/WQaqPjg6exI/AAAAAAAAL-8/yZnvCGiuutgoFKMDC_QvM3OoxmMIlNpRQCLcB/s1600/Screenshot_9.png
+URL=https://openload.co/f/3qGJCiENYuA/ECB-104_Bad_Company_Ai_Mukai_Atobi_Sri.mp4
+
+type=video
+name=FTN-048 Netra To 20
+thumb=https://2.bp.blogspot.com/-CzCPTsnbA9Y/WQapcpElX3I/AAAAAAAAL-0/MIGzDlyD7LQ_9BMYf7FIxrxdfVoIuBoqwCLcB/s1600/Screenshot_8.png
+URL=https://openload.co/f/sWizC658Nh0/FTN-048_Netra_To_20.mp4
+
+type=video
+name=JUY-144 I Color That Her Mom Was Unloaded Brush While Whispered A Lewd Word Momoko
+thumb=https://4.bp.blogspot.com/-TDX_mh_SS9k/WQaonfgs8yI/AAAAAAAAL-s/qQeLswyRqSEIy29zDSOXVohvZg3CSHi-ACLcB/s1600/Screenshot_7.png
+URL=https://openload.co/f/t2m3v_WkAng/JUY-144_I_Color_That_Her_Mom_Was_Unloaded_Brush_While_Whispered_A_Lewd_Word_Momoko.mp4
+
+type=video
+name=JUY-146 Drowning In Broad Daylight, Climax Of Silence.- Quiet Manga Cafe - Aki Sasaki
+thumb=https://4.bp.blogspot.com/-VDu3urT-wWc/WQanV4i4WHI/AAAAAAAAL-g/KTxsbNgY0rsM72oVdRl6d5oncllgGygsgCLcB/s1600/Screenshot_6.png
+URL=https://openload.co/f/__pfTuOLAdk/JUY-146_Drowning_In_Broad_Daylight%2C_Climax_Of_Silence.-_Quiet_Manga_Cafe_-_Aki_Sasaki.mp4
+
+#30
+type=video
+name=JUY-147 Son Of The Daughter-in-law Hana Aoyama
+thumb=https://4.bp.blogspot.com/-YagKfFduc4E/WQaZzvqUrdI/AAAAAAAAL-Q/a2_RQdzArK0B2aSoe9ZBFMiynWvWnUw8ACLcB/s1600/Screenshot_5.png
+URL=https://openload.co/f/shaCmNvHPLI/JUY-147_Son_Of_The_Daughter-in-law_Hana_Aoyama.mp4
+
+type=video
+name=KAWD-813 Rookie!kawaii - Exclusive Debut - Graduation Freshly Pure 1000%, Which Has New 18-year-old Carefully Raised The Hakoiri Musume Immediately Take AV Debut Chiaki Sato
+thumb=https://2.bp.blogspot.com/-GDPadMGni80/WQaY3pKadnI/AAAAAAAAL-E/E3XFP-lk7kMEa-JHHltCVwyK73LFM_eoQCLcB/s1600/Screenshot_4.png
+URL=https://openload.co/f/PRIPJVHWwhg/KAWD-813_Rookie%21kawaii_-_Exclusive_Debut_%E2%86%92_Graduation_Freshly_Pure_1000%25%2C_Which_Has_New_18-year-old_Carefully_Raised_The_Hakoiri_Musume_Immediately_Take_AV_Debut_Chiaki_Sato.mp4
+
+type=video
+name=MIDE-430 Transfer Student Gravure Idol Naoko Takahashi (Blu-ray Disc)
+thumb=https://1.bp.blogspot.com/-KK6llK7ftNo/WQaXoNXNpVI/AAAAAAAAL94/PIooIFGaOsAHuC-x9T9Wu0Kbod9ywDjgQCLcB/s1600/Screenshot_3.png
+URL=https://openload.co/f/oeKJNtqruIw/MIDE-430_Transfer_Student_Gravure_Idol_Naoko_Takahashi_%28Blu-ray_Disc%29.mp4
+
+type=video
+name=RKI-439 Advent Super Super Similar Iso - Is The - Or Plump Selfish Body Is A Miracle! Please Look At The Rich Eros!
+thumb=https://2.bp.blogspot.com/-FqFo3c77BgU/WQaWuNhasSI/AAAAAAAAL9s/OnIffoLwYGAxo5fWFPrgh0e5Su4Dd1Y_QCLcB/s1600/Screenshot_2.png
+URL=https://openload.co/f/zye1ayB92GA/RKI-439_Advent_Super_Super_Similar_Iso_%E2%97%8B_Is_The_%E2%97%8B_Or_Plump_Selfish_Body_Is_A_Miracle%21_Please_Look_At_The_Rich_Eros%21.mp4
+
+type=video
+name=SNIS-907 Kirara Asuka-san!Please Pretended Was Hypnotized! Earnestly Bear Stuck Patience SEX In Acting While Ultra-pleasure Not Move Even 1mm
+thumb=https://4.bp.blogspot.com/-i92cIc7Ka2Q/WQaViL1V-sI/AAAAAAAAL9g/LP9YGq5nNk8y5RYduJBeWyzKs9AccczegCLcB/s1600/Screenshot_1.png
+URL=https://openload.co/f/IYAx61Ra1e4/SNIS-907_Kirara_Asuka-san%21Please_Pretended_Was_Hypnotized%21_Earnestly_Bear_Stuck_Patience_SEX_In_Acting_While_Ultra-pleasure_Not_Move_Even_1mm.mp4
 
 type=video
 name=25xxxxxxxxxxMIAD-927 Midsummer Middle-aged Father And Shiruasetsubayodare Berokisu Intercourse Yuka Hotaka
@@ -141,9 +292,3 @@ name=HZGD-043 Anal Miho Anal Wife Nakazato That Devour Others Bar Because Not A 
 thumb=https://4.bp.blogspot.com/-ELXXBtH9fMI/WQLOAtNOvSI/AAAAAAAAL3s/eREhbIwKr88DCKmNcXeC6EhvwSihY9_ZgCLcB/s1600/Screenshot_8.png
 URL=https://openload.co/f/iqNUQ7X2c9k/HZGD-043_Anal_Miho_Anal_Wife_Nakazato_That_Devour_Others_Bar_Because_Not_A_Flirt.mp4
 
-type=playlist
-name=XXX_JAV_18up_XXX
-thumb=https://4.bp.blogspot.com/-tteGFlL6TlU/WK0IJqSmwnI/AAAAAAAAJ8c/J7m1yir8VZYzzEsa1QKSSHSvpkd5rvr3ACLcB/s1600/Screenshot_5.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx
-player=default
-rating=-1.00

@@ -10,6 +10,252 @@ name=Sorted [COLOR=FF00FF00]by user-assigned order[/COLOR]
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_13_18up_XXX.plx?action=sortsel&cur=ord
 
+# 2773929
+type=playlist
+name=96_2_69_OHOHD_18up_XXX
+thumb=https://4.bp.blogspot.com/-_5ioyzmX5T8/WN8H64OWkYI/AAAAAAAAHN4/_43g2SHgg8ocoYiCZTr9sMpwwNEIjF8aQCLcB/s320/4SSS.jpg
+date=2017-05-06
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_18up_XXX.plx
+player=default
+rating=-1.00
+
+
+
+type=video
+name=99xxxxxxxxxxxxxxxxxxxxbeauty in the moonlight (2014)
+thumb=https://4.bp.blogspot.com/-pOT42Z97xp4/WQtV1GMGMtI/AAAAAAAAIMk/Wc6z5OqhYeEtWtAWskgKHefIKU1Wg_C_gCLcB/s1600/3.jpg
+URL=https://openload.co/f/SRa0r7HlWtg/beauty_in_the_moonlight_2014_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Cine Keibetsu (2010)
+thumb=https://1.bp.blogspot.com/-EJ5GBlwRh7Y/WQtU4hi-QZI/AAAAAAAAIMg/-iA9JiSib_EEpHzghQ1T3YN-wVLwUAxzQCLcB/s1600/2sssss.jpg
+URL=https://openload.co/f/mGlhmb4zL08/Cine_Keibetsu_2010_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Fuck me to the moon (2013)
+thumb=https://1.bp.blogspot.com/-jQ_KImFoNhw/WQtUjzYbXeI/AAAAAAAAIMc/hAE_as9GA20AY4dozFq5euwKKLik-4mUwCLcB/s1600/2ssss.jpg
+URL=https://openload.co/f/2axtyfpBC-8/Fuck_me_to_the_moon_2013_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=NASHIRO_MIDORI_2014
+thumb=https://2.bp.blogspot.com/-gWC5oOxHHbk/WQtUNie4OwI/AAAAAAAAIMY/ohxYy56CKGI1j_NViF2rlL0b4NAqJxKgACLcB/s320/2sss.jpg
+URL=https://openload.co/f/9RmJ-v01LKk/NASHIRO_MIDORI_2014_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=kri thong xxx
+thumb=https://4.bp.blogspot.com/-xUQPaUiWfIw/WQtToiyiQxI/AAAAAAAAIMQ/rm48NLaNUvwh6B8NhklMCXX23BogmTgOQCLcB/s1600/2%25E0%25B8%25AB.jpg
+URL=https://openload.co/f/ZH4fYb5h3Fk/%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%97%E0%B8%AD%E0%B8%87_%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%A3_%5BMovie-dd.com%5D
+
+type=video
+name=MBA Partners (2016)
+thumb=https://2.bp.blogspot.com/-E49Pm1QD3wQ/WQtPwFIAcPI/AAAAAAAAIME/0vV-UhBzOQEWvM40EudsqakoW43JernGwCLcB/s320/1sss.jpg
+URL=https://openload.co/f/5qxeo05Y4Ec/MBA_Partners_2016_720P_%5BMovie-dd.com%5D
+
+type=video
+name=Personal Lesson (2015)
+thumb=https://2.bp.blogspot.com/-xSKFaZLzMts/WQtPZFsnftI/AAAAAAAAIMA/SnWyJMCTnP4UtQJrILhpBiRASRBnuv7jgCLcB/s320/1ss.jpg
+URL=https://openload.co/f/ZCSBsyKw0XA/Personal_Lesson_2015_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Detective Agency 03 (2017)
+thumb=https://2.bp.blogspot.com/-ax99PykZeF8/WQtPAoBoXcI/AAAAAAAAIL8/HmD6_LU6nocHd3gyNtaS54mBS-4GeDGiwCLcB/s320/1s.jpg
+URL=https://openload.co/f/_o4toG5xLAc/Detective_Agency_03_2017_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Jissetu Ninkyoudou3 (2010)
+thumb=https://2.bp.blogspot.com/-W5aELbQtdFE/WQnljzTqyOI/AAAAAAAAILc/gPFosNGcb8g066bTfirL5y8tlfS_tMsTQCLcB/s320/1SSSS.jpg
+URL=https://openload.co/f/gzyxjcOLGqQ/Jissetu_Ninkyoudou3_2010_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Sensuality platform (2014)
+thumb=https://3.bp.blogspot.com/-bbql4GPUROA/WQnlR4HY_OI/AAAAAAAAILY/TiYz5S5EQ2cqzrN57sh2eoMAuBveOazfACLcB/s320/1SSS.jpg
+URL=https://openload.co/f/42obKXk9_KQ/Sensuality_platform_2014_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Hooking lesson (2015)
+thumb=https://1.bp.blogspot.com/-4xxlzTAdfkA/WQnkwwpng3I/AAAAAAAAILQ/9XZQEafSEWgclB7ZfmZEJ3rW2uYtiAUzwCLcB/s1600/1SS.jpg
+URL=https://openload.co/f/l1CGM-lSYa8/Hooking_lesson_2015_2015_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=the liquor shop
+thumb=https://1.bp.blogspot.com/-MVY_z2zG_VU/WQnkXciAL6I/AAAAAAAAILM/D5D_RUlahWk-qH_xIfFT9_KTr-B7NiC5wCLcB/s320/1S.jpg
+URL=https://openload.co/f/ssZT8sSiyhQ/the_liquor_shop_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Female Hostel (2017)
+thumb=https://1.bp.blogspot.com/-j-OEvdy4D_Y/WQnjKRjxOjI/AAAAAAAAILA/Qkj7O11FfNEt3TKaDQfsnCP6Ra2DsPf0gCLcB/s320/1.jpg
+URL=https://openload.co/f/5I2CDs6Q3Oc/Female_Hostel_%282017%29.mp4
+
+type=video
+name=Scandal 3 (2017)
+thumb=https://3.bp.blogspot.com/-8EQzlAH2mcg/WQiT9OgymuI/AAAAAAAAIIM/bdz2YzaRm98imVTox9la-8tbI-VoKxCCgCLcB/s320/1sss.jpg
+URL=https://openload.co/f/uMOO5NGE24Q/Scandal_3_2017_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Ups Downs (2015)
+thumb=https://4.bp.blogspot.com/-bKjVfLBj0u0/WQiTSSp8QxI/AAAAAAAAIIE/0I177EqzS7I3FJWm89QiXdDW08XRqaVlACLcB/s1600/1s.jpg
+URL=https://openload.co/f/ntkEmHqNr4U/Ups_Downs_2015_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Drowning Love (2016)
+thumb=https://2.bp.blogspot.com/-9QTi54uOpmk/WQiSOe0rjuI/AAAAAAAAIH4/APlLUNZxdtUII04YHqWpIw3h0Rbq0TGQgCLcB/s320/1.jpg
+URL=https://openload.co/f/NM1k2KwhZi8/Drowning.Love.2016_%5BMovie-dd.com%5D
+
+type=video
+name=Heaven Burns (2010)
+thumb=https://1.bp.blogspot.com/-jDP6Q7muNBk/WQc3N8fq6fI/AAAAAAAAIG0/-pRM4ETrIhEdrBdRmQKPlH5-9ruaZdeXQCLcB/s320/6.jpg
+URL=https://openload.co/f/7abc44TKeGY/Heaven_Burns_2010_WEBRIP_%5BMovie-dd.com%5D
+
+type=video
+name=pee sam baht
+thumb=https://3.bp.blogspot.com/-Z1Tcwm9hzvI/WQc2ZPSmLBI/AAAAAAAAIGs/qhTPM7wuNtQEgv0z33VH_K6Djwu9VPZ8gCLcB/s320/5ssss.jpg
+URL=https://openload.co/f/RbevuFj4D5I/%E0%B8%9C%E0%B8%B5_3_%E0%B8%9A%E0%B8%B2%E0%B8%97_%5BMovie-dd.com%5D
+
+type=video
+name=wai au au
+thumb=https://3.bp.blogspot.com/-KN-11-mHuYo/WQc1XJrmT0I/AAAAAAAAIGg/8W_OYUh1fOw6AjxMHawmMUQapsZBwm7XgCLcB/s1600/5sss.jpg
+URL=https://openload.co/f/Zo324mgunTE/%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%AD%E0%B9%8A%E0%B8%B2%E0%B8%B0%E0%B9%86_%5BMovie-dd.com%5D
+
+type=video
+name=ream 3
+thumb=https://1.bp.blogspot.com/-dRdQ7eDCz6Y/WQc1EN2nJfI/AAAAAAAAIGc/hkdroZsO6dUv-9HmMv0WfcOxEC4vwsRkACLcB/s320/5S.jpg
+URL=https://openload.co/f/3Ow3-JGrAwU/%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A1_3_%5BMovie-dd.com%5D
+
+type=video
+name=not love
+thumb=https://3.bp.blogspot.com/-B6FvwpapUY0/WQc0E0aSuvI/AAAAAAAAIGQ/188xOhBroUkvUJSm3-IVk2H6Vfs1S1rogCLcB/s320/5.jpg
+URL=https://openload.co/f/ao5jrpQsYfQ/professor_and_studendlove_%5BMovie-dd.com%5D
+
+type=video
+name=Hot Fight Night (Prison Amazones 3) (2014)
+thumb=https://4.bp.blogspot.com/-3CiURQV8N6s/WQcPC-zNykI/AAAAAAAAIGA/CYU4EWMFnj0gQrr8UavSgpD8B2cHt1L5wCLcB/s320/3SSS.jpg
+URL=https://openload.co/f/ycUnXcm6tPE/Prison.Amazones.32014.HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Zero woman R : Keishichou 0-ka no onna yokubou no daishou (2007)
+thumb=https://1.bp.blogspot.com/-HTsFuR1IWGE/WQcMvnYzldI/AAAAAAAAIF0/9YyYhb_XvHITTYlHp8TZxsrp7sQTLC0KwCLcB/s320/3S.jpg
+URL=https://openload.co/f/_y5W3T4T91A/Zero_uman_R-_Keishichou_0-ka_no_onna_yokubou_no_daishou_%282007%29_%5BMovie-dd.com%5D
+
+type=video
+name=Nawa no joo (1985)
+thumb=https://3.bp.blogspot.com/-muYgpDupMlc/WQcLCxrmBLI/AAAAAAAAIFo/EajMMA29zt0IqmylHwNutxxLu9HC7mlFACLcB/s320/2sss.jpg
+URL=https://openload.co/f/ybVT2MeVxJw/Nawa_no_joo_1985_%5BMovie-dd.com%5D
+
+type=video
+name=Kokuhaku – Nurse no Zangyo (2009)
+thumb=https://2.bp.blogspot.com/-gvTIKrajPmQ/WQcJ7097xMI/AAAAAAAAIFc/L-Rlmp_FqNwGDVYlf45ZPkNSx7Z8E4DZQCLcB/s320/2ss.jpg
+URL=https://openload.co/f/cuzJjvN8yew/Kokuhaku_-_Nurse_no_Zangyo_2009_%5BMovie-dd.com%5D
+
+type=video
+name=TAP Perfect Education (2013)
+thumb=https://2.bp.blogspot.com/-n0VtgS9AM9M/WQcJZ3J0s7I/AAAAAAAAIFU/6X2q1i16dSQa4Vkj0fkMl17S1gITGFlnACLcB/s320/3.jpg
+URL=https://openload.co/f/tqrtIWdFc5w/TAP_Perfect_Education_%282013%29_%5BMovie-dd.com%5D
+
+type=video
+name=Captive of the sexual desire (2015)
+thumb=https://2.bp.blogspot.com/-tFMmxGAZRgM/WQcInbxUOuI/AAAAAAAAIFI/fQetyIFq2hUPYFEzpqZY8AuNaG_kJgclACLcB/s320/2.jpg
+URL=https://openload.co/f/Ynt3vKt9Z6M/Captive_of_the_sexual_desire_2015_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Liar Paradox (2013)
+thumb=https://2.bp.blogspot.com/-yZec89y-2os/WQYKaFHPrgI/AAAAAAAAIE4/u2aRAs4kv-AZFxjq1oM2Q8UcN55N_U6cACLcB/s320/6SS.jpg
+URL=https://openload.co/f/uIAHi54Rdx0/Liar_Paradox_2013_DVDRIP_%5BMovie-dd.com%5D
+
+type=video
+name=Insulted Career woman (2016)
+thumb=https://1.bp.blogspot.com/-Pej1m2wGC3w/WQYKDN21QpI/AAAAAAAAIE0/PPwhU-aXMt46R6bqsZLiqHRCAwX7NXtjQCLcB/s320/6S.jpg
+URL=https://openload.co/f/svtkfl-BPi8/Insulted_Career_woman_2016_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=The Desire Underneath (2009)
+thumb=https://3.bp.blogspot.com/-TfQ5a9dRXvU/WQYJo7QiTnI/AAAAAAAAIEw/x3DP23bOdGsYfxUQ48LO_VGNfcEQGC-lwCLcB/s320/6.jpg
+URL=https://openload.co/f/qSXY5v34tuc/The_Desire_Underneath_%282009%29_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=3-Iron (2004)
+thumb=https://1.bp.blogspot.com/-_Oq--9c9akw/WQYD8kgfYJI/AAAAAAAAIEQ/cx9sU2e3b3EvTRdesJa7OrIvbAnmdMikQCLcB/s320/4SSS.jpg
+URL=https://openload.co/f/MhAkXCwXMVU/3-Iron_2004_%5BMovie-dd.com%5D
+
+type=video
+name=Tokyo Strangler (2006)
+thumb=https://2.bp.blogspot.com/-263yXyMs-4E/WQYDbDIaZ3I/AAAAAAAAIEI/3ipCtbR-qtQMjruFqf6BHyM9AHmgeuO5QCLcB/s320/4SS.jpg
+URL=https://openload.co/f/ZYPeSGxr8yc/Tokyo.Strangler.2006_%5BMovie-dd.com%5D
+
+type=video
+name=Princess of Huan Zhi (2000)
+thumb=https://4.bp.blogspot.com/-Qb-1aTKPYr0/WQYC_zt0b7I/AAAAAAAAIEE/hRhk3glVxgcdTSKwlkJcnPtxlk2JArfUACLcB/s320/4S.jpg
+URL=https://openload.co/f/oImUEvX0aT8/The.Princess.of.Huan.Zhi.%282000%29_%5BMovie-dd.com%5D
+
+type=video
+name=A man of nasty spirits (1993)
+thumb=https://3.bp.blogspot.com/-rHvaHLGlRjA/WQYCngZkciI/AAAAAAAAIEA/O7ndd7czDuYZZc10PDupTSQZEdfmkOLcwCLcB/s320/4.jpg
+URL=https://openload.co/f/EFb7_4vxej4/A_Man_Of_Nasty_Spirits_%5BMovie-dd.com%5D
+
+type=video
+name=Oriental Best Beauties Xi Shi (2006)
+thumb=https://4.bp.blogspot.com/-Gu1x6ZwSPzE/WQYBwMVXfaI/AAAAAAAAID4/ztlfPQy_G7EZDLuoSvK9G3X_CS9hLTIawCLcB/s320/2S.jpg
+URL=https://openload.co/f/FiFiq6nvSXs/Oriental.Best.Beauties.Xi.Shi.%282006%29_%5BMovie-dd.com%5D
+
+type=video
+name=Erotic Agent II (2003)
+thumb=https://4.bp.blogspot.com/-J27PVqKu8h0/WQYBEEgkjMI/AAAAAAAAIDw/RvuGQppAFV86Bsk4x0K5_uKK-smf_PMSACLcB/s320/1ss.jpg
+URL=https://openload.co/f/K5tLraakkIk/Erotic_Agent_2_%5BMovie-dd.com%5D
+
+type=video
+name=Forbidden Wet Tales (2003)
+thumb=https://4.bp.blogspot.com/-Gi88wtK1agM/WQYAmTMwPpI/AAAAAAAAIDs/4TVgZx0WJfw6Gy1Zn07Qf_P3nnlEGFvjACLcB/s320/1s.jpg
+URL=https://openload.co/f/88njDJd-6Tw/Forbidden_Wet_Tales_%5BMovie-dd.com%5D
+
+type=video
+name=Agent (2003)
+thumb=https://4.bp.blogspot.com/-HsflGSJT3hQ/WQYAHBpEdlI/AAAAAAAAIDk/gdWH2q8MtAg4kEHEIDJ9z0el3XmtU63dQCLcB/s320/1.jpg
+URL=https://openload.co/f/SnehkwanLSo/Erotic.Agent.2003.DVDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Wife’s video (2016)
+thumb=https://3.bp.blogspot.com/-h61SHeCZPgc/WQScawhNojI/AAAAAAAAICY/HpKJpraISDUqNK3iLcIznw-_2UMa_jaRACLcB/s320/1ss.png
+URL=https://openload.co/f/3DNitT79keo/%EC%95%84%EB%82%B4%EC%9D%98_%EB%8F%99%EC%98%81%EC%83%81.mp4
+
+type=video
+name=Ryoujoku Miboujin- Iori Ryouko (2016)
+thumb=https://4.bp.blogspot.com/-qeyTt2kWBvE/WQSb-Kyo1PI/AAAAAAAAICU/Z_Xol3wTHVUA16Ao4k0EocrncnwKpmovQCLcB/s320/1s.jpg
+URL=https://openload.co/f/7QGEqYiky9M/Ryoujoku_Miboujin-_Iori_Ryouko_-2016.mp4
+
+type=video
+name=Scandal 3
+thumb=https://1.bp.blogspot.com/-tdY4oYq7njI/WQSbpNX6xZI/AAAAAAAAICQ/Sv5vYM3oZpcpTZXg4Fhc5hC_PFcm8u37QCLcB/s320/1.jpg
+URL=https://openload.co/f/9xrfOQkyMX0/Scandal_3_-2017.mp4
+
+type=video
+name=Trinity Brown (1984) (B)
+thumb=https://3.bp.blogspot.com/-QAwVJJpDRjk/WQMsdViOCGI/AAAAAAAAPhk/xqsLQ_0Fm4IusNDLHMRdIHarHmt53jdmwCLcB/s400/sex0.jpg
+URL=https://openload.co/f/2OFGnVMMfJw/t2.mp4
+
+type=video
+name=Trinity Brown (1984) (A)
+thumb=https://4.bp.blogspot.com/-C3suEc4Uumg/WQPlYtoy-1I/AAAAAAAAICA/aEfIOlk-N9gRljmlCWC66PJhcM_8Hq5IgCLcB/s320/5SS.jpg
+URL=https://openload.co/f/_bkKokFrNqE/t1.mp4
+
+type=video
+name=Eros Hotel (1979) (B)
+thumb=https://4.bp.blogspot.com/-_vGy8u4z7x4/WQHJfo2IXCI/AAAAAAAAPgs/tvHUZ49qrOo_c1aSNFRMk_mZwBxtF-viACLcB/s400/scene08161.jpg
+URL=https://openload.co/f/M3lDkc1dvxE/eros_hotel_2.mp4
+
+type=video
+name=Eros Hotel (1979) (A)
+thumb=https://2.bp.blogspot.com/-BsIjo-UMWRE/WQPk1_GpAcI/AAAAAAAAIB4/0H6ORXR5qnAEellZq0zVxBtdIJ5fqurWgCLcB/s320/5S.png
+URL=https://openload.co/f/rwVrifpQ2PE/eros_hotel_1.mp4
+
+type=video
+name=Heidi, Teil 5: und die lustigen Spritzbuben der Berge (1992)
+thumb=https://4.bp.blogspot.com/-Dvnu_UM74fA/WQPkYO28TfI/AAAAAAAAIB0/9uxqq9KO9U8NdzF4PjIXdiG7kwoyk2v8wCLcB/s320/5.png
+URL=https://openload.co/f/wn33B3VovyU/Heidi%2C_Teil_5%3A_und_die_lustigen_Spritzbuben_der_Berge_%281992%29.mp4
+
+type=video
+name=Erotic Agent II (2003)
+thumb=https://3.bp.blogspot.com/-5sLwh9rrTHQ/WQN1WujOPsI/AAAAAAAAIA4/0AiXVMqNOeIzmV30PkKsYdi8PgMd7TSeACLcB/s320/4SSS.jpg
+URL=https://openload.co/f/Q0ZvqtuKYXc/Erotic.Agent.2003.DVDRip_%5BMovie-dd.com%5D
+
 type=video
 name=52xxxxxxxxxxxxxxxxxxxxMy Man (2014)
 thumb=https://4.bp.blogspot.com/-CLJ8Ts_UB-0/WQN0o-zP_0I/AAAAAAAAIAw/j-9sFvWlDxI8pBjJNXuF4e-OShEXZAYWQCLcB/s320/4SS.jpg
@@ -104,15 +350,6 @@ type=video
 name=Thermae Alien (2012)
 thumb=https://4.bp.blogspot.com/-Sdxbk8qgZCE/WP_3MOJYYEI/AAAAAAAAH8I/UUcWxTuYuYwWaT4OLLNsS0b84jk4NE8XwCLcB/s320/2SSSS.jpg
 URL=https://openload.co/f/nCQm2noUZDQ/Thermae_Alien_2012_%5BMovie-dd.com%5D
-
-# 2773929
-type=playlist
-name=96_2_69_OHOHD_18up_XXX
-thumb=https://4.bp.blogspot.com/-_5ioyzmX5T8/WN8H64OWkYI/AAAAAAAAHN4/_43g2SHgg8ocoYiCZTr9sMpwwNEIjF8aQCLcB/s320/4SSS.jpg
-date=2017-05-06
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_18up_XXX.plx
-player=default
-rating=-1.00
 
 # 2776161
 type=video

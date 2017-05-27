@@ -649,11 +649,27 @@ player=default
 rating=-1.00
 description=After an alien ship crash lands onto a Russian city, many who have saw the inside and the occupants start to question their own existence while there are those who demand the aliens to leave Earth/description
 
+#72
+type=video
+name=Call of Heroes (2016)
+thumb=https://image.tmdb.org/t/p/w640/lmtk0YoEzdI76Ur3WbLjSQHztNM.jpg
+URL=https://openload.co/f/GyUbBTtuPI4/%7BMINI_Super-HQ%7D_Call.of.Heroes.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+
+type=video
+name=Apprentice (2016)
+thumb=https://image.tmdb.org/t/p/w640/vT77JpkiY8DHqBjYDE9wlp4Z6H9.jpg
+URL=https://openload.co/f/toOx22sy2Jw/Apprentice_%282016%29.mp4
+
+type=video
+name=It's Only the End of the World (2016)
+thumb=https://image.tmdb.org/t/p/w640/xTqy97V5EYtnMWWo2wVpScanpDS.jpg
+URL=https://openload.co/f/1xeIqCjVFPk/It_s_Only_the_End_of_the_World_%282016%29.mp4
+
 # 69
 type=video
 name=A Tale of Legendary Libido (2008)
 thumb=https://image.tmdb.org/t/p/w640/kmvffx5ObIRgKa6lUAssWbGbu2h.jpg
-URL=https://openload.co/f/usjIDJupb1c/%5BT%5DA_Tale_of_Legendary_Libido_%5B2008%5D
+URL=https://openload.co/f/usjIDJupb1c/A_Tale_of_Legendary_Libido_2008.mp4
 player=default
 rating=-1.00
 

@@ -19,7 +19,7 @@ rating=-1.00
 
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies_2_2016Q4
-thumb=http://image.tmdb.org/t/p/w500/ylXCdC106IKiarftHkcacasaAcb.jpg
+thumb=http://image.tmdb.org/t/p/w500/kFSd6AH9xdKZ43jHndDlvw3INcw.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_2_2016Q4.plx
 player=default
 rating=-1.00

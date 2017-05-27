@@ -10,6 +10,136 @@ name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_16_18up_UNCEN.plx?action=sortsel&cur=ord
 
+# 2772540
+type=playlist
+name=XXX_JAV_18up_XXX
+thumb=https://4.bp.blogspot.com/-tteGFlL6TlU/WK0IJqSmwnI/AAAAAAAAJ8c/J7m1yir8VZYzzEsa1QKSSHSvpkd5rvr3ACLcB/s1600/Screenshot_5.png
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx
+player=default
+rating=-1.00
+
+
+
+type=video
+name=139xxxxxxxxxxxxxxxxxxxxHEYDOUGA 4173-PPV046-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/HEYDOUGA-4173-PPV046-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/GC1NA0gQJ7c/heydouga4173-046_%5BMovie-dd.com%5D
+
+type=video
+name=HEYDOUGA 4092-536-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/HEYDOUGA-4092-536-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/LHM23k8RfUQ/heydouga4092-536_%5BMovie-dd.com%5D
+
+type=video
+name=HEYDOUGA 4156-017-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/HEYDOUGA-4156-017-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/z8zYsjD21_g/heydouga4156-017_%5BMovie-dd.com%5D
+
+type=video
+name=H4610 KI170314-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/H4610-KI170314-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/uUApEJhydQM/H4610-ki170314_%5BMovie-dd.com%5D
+
+type=video
+name=H0930 KI170314-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/H0930-KI170314-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/E9K5_LLuixQ/H0930-ki170314_%5BMovie-dd.com%5D
+
+type=video
+name=10MUSUME 031417_01-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/10MUSUME-031417_01-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/2Ttul91JfzA/031417_01-10mu-1080p_%5BMovie-dd.com%5D
+
+type=video
+name=TOKYO HOT N1228-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/TOKYO-HOT-N1228-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/Ae0aBrZ5txY/n1228_erina_fujimoto_gd_n_fhd_%5BMovie-dd.com%5D
+
+type=video
+name=TOKYO HOT K1440-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/TOKYO-HOT-K1440-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/NbKPNBiZGzI/k1440_misaki_tanabe_%5BMovie-dd.com%5D
+
+type=video
+name=JUKUJO-CLUB 6731-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/JUKUJO-CLUB-6731-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/O7A1UxqIVLM/jukujo-club-6731_%5BMovie-dd.com%5D
+
+type=video
+name=SM-MIRACLE E0850-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/SM-MIRACLE-E0850-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/gCQ1MypUovM/he0850_01_%5BMovie-dd.com%5D
+
+type=video
+name=NYOSHIN N1451-N1452-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/NYOSHIN-N1451-N1452-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/ow8xI-qT-98/nyoshin_n1451_%5BMovie-dd.com%5D
+
+type=video
+name=HEYDOUGA 4154-PPV120-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/HEYDOUGA-4154-PPV120-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/eXMSGrhz7MA/heydouga4154-PPV120_%5BMovie-dd.com%5D
+
+#127
+type=video
+name=HEYDOUGA 4037-PPV333-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/HEYDOUGA-4037-PPV333-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/_gIBOvd-O1o/heydouga4037-333-1_%5BMovie-dd.com%5D
+
+type=video
+name=GIRLSDELTA YUUA 2-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/GIRLSDELTA-YUUA-2-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/QFytIPUSxpc/yuua2_hd4000_%5BMovie-dd.com%5D
+
+type=video
+name=GACHINCO GACHIP351-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/GACHINCO-GACHIP351-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/1Oe3CIpSVzU/gachip351_%5BMovie-dd.com%5D
+
+type=video
+name=ROSELIP 0869-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/ROSELIP-0869-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/Hfhy3734ovU/roselip-0869_%5BMovie-dd.com%5D
+
+type=video
+name=H4610 KI170312-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/H4610-KI170312-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/JoUMP-5EqaA/h4610_ki170312_%5BMovie-dd.com%5D
+
+type=video
+name=JUKUJO-CLUB 6729-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/JUKUJO-CLUB-6729-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/X9zoeONtfqE/jukujo-club-6729_%5BMovie-dd.com%5D
+
+type=video
+name=HEYDOUGA 4030-PPV1982-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/HEYDOUGA-4030-PPV1982-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/6DMNeFb7NPI/heydouga4030-1982_%5BMovie-dd.com%5D
+
+type=video
+name=JUKUJO-CLUB 6728-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/JUKUJO-CLUB-6728-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/Mv0bUIwczXg/jukujo-club-6728_%5BMovie-dd.com%5D
+
+type=video
+name=HEYDOUGA 4039-PPV1058-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/HEYDOUGA-4039-PPV1058-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/yMF8aW4wXbw/heydouga4039-1058_%5BMovie-dd.com%5D
+
+type=video
+name=10MUSUME 031617_01-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/10MUSUME-031617_01-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/YILsYYFNMVM/031617_01-10mu-1080p_%5BMovie-dd.com%5D
+
+type=video
+name=H4610 KI170311-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/H4610-KI170311-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/nDiitNf0nN4/h4610_ki170311_%5BMovie-dd.com%5D
+
+type=video
+name=H0930 KI170311-JAV
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/03/H0930-KI170311-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+URL=https://openload.co/f/MQLPIgoXIR4/h0930_ki170311_%5BMovie-dd.com%5D
 
 type=video
 name=115xxxxxxxxxxH4610 KI170309-japanese AV-AV Uncensored-AV censored
@@ -70,14 +200,6 @@ type=video
 name=JAV UNCENSORED PACOPACOMAMA 090215_483 – NAKAI THOROUGHLY SPREE SPEAR WITH THE MILF, WHICH KEEP THE BUTTERFLY IN HUMANS POT TOMOKO
 thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-UNCENSORED-PACOPACOMAMA-090215_483.jpg
 URL=https://openload.co/f/pjsR93h0D7A/JAV-UNC_090215_483-paco-1080p.mp4
-
-# 2772540
-type=playlist
-name=XXX_JAV_18up_XXX
-thumb=https://4.bp.blogspot.com/-tteGFlL6TlU/WK0IJqSmwnI/AAAAAAAAJ8c/J7m1yir8VZYzzEsa1QKSSHSvpkd5rvr3ACLcB/s1600/Screenshot_5.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx
-player=default
-rating=-1.00
 
 type=video
 name=103xxxxxxxxxxJAV UNCENSORED 10MUSUME 102715_01 – YAMAMORI WAS HOPE THE PHOTOGRAPHED WANT TO LOTION PLAY EMI

@@ -1,8 +1,8 @@
 version=1
-background=http://image.tmdb.org/t/p/w500/wnVHDbGz7RvDAHFAsVVT88FxhrP.jpg
+background=http://image.tmdb.org/t/p/w500/kFSd6AH9xdKZ43jHndDlvw3INcw.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_2_2016Q4 [COLOR=FF888888]�[/COLOR] 1 to 198 of 199
-logo=http://image.tmdb.org/t/p/w500/wnVHDbGz7RvDAHFAsVVT88FxhrP.jpg
-icon_playlist=http://image.tmdb.org/t/p/w500/wnVHDbGz7RvDAHFAsVVT88FxhrP.jpg
+logo=http://image.tmdb.org/t/p/w500/kFSd6AH9xdKZ43jHndDlvw3INcw.jpg
+icon_playlist=http://image.tmdb.org/t/p/w500/kFSd6AH9xdKZ43jHndDlvw3INcw.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies./description
 
 type=playlist
@@ -35,15 +35,6 @@ URL=https://openload.co/f/jsCQI5wPE0Q/A.Dogs.Purpose.2017.WEB-DL.x264-FGT.mp4
 player=default
 rating=-1.00
 description=A dog goes on quest to discover his purpose in life over the course of several lifetimes with multiple owners./description
-
-# 2766010
-type=video
-name=Fist Fight (E)
-thumb=http://image.tmdb.org/t/p/w500/kFSd6AH9xdKZ43jHndDlvw3INcw.jpg
-URL=https://openload.co/f/5EJNt6YeYLg/Fist_Fight_2017_HD-TS_READNFO_x264-CPG.mkv.mp4
-player=default
-rating=-1.00
-description=When one school teacher gets the other fired, he is challenged to an after-school fight./description
 
 # 2771107
 type=video
@@ -304,6 +295,15 @@ player=default
 rating=-1.00
 description=The Straw Hat Pirates are taking on Gild Tesoro, one of the richest men in the world./description
 
+# 2766010
+type=video
+name=Fist Fight (2017)
+thumb=http://image.tmdb.org/t/p/w500/kFSd6AH9xdKZ43jHndDlvw3INcw.jpg
+URL=https://openload.co/f/bqXreLADoKQ/Fist_Fight_%282017%29.mp4
+player=default
+rating=-1.00
+description=When one school teacher gets the other fired, he is challenged to an after-school fight./description
+
 # 2771571
 type=video
 name=Fifty Shades Darker (2017)
@@ -373,7 +373,7 @@ type=video
 name=xXx: Return of Xander Cage (2017)
 thumb=http://image.tmdb.org/t/p/w500/yNsdyNbQqaKN0TQxkHMws2KLTJ6.jpg
 date=2017-05-07
-URL=https://openload.co/f/-2-rLuDTt1U/%5BTH%5DxXx_Return_of_Xander_Cage_2017.mp4
+URL=https://openload.co/f/St8wWa4N5m0/%7BMINI_Super-HQ%7D_xXx.Return.of.Xander.Cage.2017.1080p.BrRip.DTS.x264.THB_NongZEZA%40CtHts.mkv.mp4
 player=default
 rating=-1.00
 description=Extreme athlete turned government operative Xander Cage comes out of self-imposed exile, thought to be long dead, and is set on a collision course with deadly alpha warrior Xiang and his team in a race to recover a sinister and seemingly unstoppable weapon known as Pandora's Box. Recruiting an all-new group of thrill-seeking cohorts, Xander finds himself enmeshed in a deadly conspiracy that points to collusion at the highest levels of world governments./description

@@ -10,6 +10,85 @@ name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_12_18up_Classic_Oldies.plx?action=sortsel&cur=ord
 
+# 2773611
+type=playlist
+name=96_2_69_OHOHD_18up_XXX
+thumb=https://4.bp.blogspot.com/-_5ioyzmX5T8/WN8H64OWkYI/AAAAAAAAHN4/_43g2SHgg8ocoYiCZTr9sMpwwNEIjF8aQCLcB/s320/4SSS.jpg
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_18up_XXX.plx
+player=default
+rating=-1.00
+
+
+
+type=video
+name=126xxxxxxxxxxxxxxxxxxxxI spilia tis amartias (1976)
+thumb=https://1.bp.blogspot.com/-ehmZ0Dna2GI/WA9aoQp5RqI/AAAAAAABExM/C2tnu4WFGfwBk7S_D6g_msh0DI4PWROsgCLcB/s1600/3.jpg
+URL=https://openload.co/f/XgwWkh9Sbnk/I_spilia_tis_amartias_%281976%29.mp4
+
+type=video
+name=Oi nonoi tis nyhtas (1977)
+thumb=https://4.bp.blogspot.com/-y4MP8IX2r1E/WA9aCB2tjuI/AAAAAAABExE/Tq8SFvRq1O4DZmODf26IyfmYFEWHRsKxwCLcB/s320/2.jpg
+URL=https://openload.co/f/CJvvJMZn7oc/Oi_nonoi_tis_nyhtas_%281977%29
+
+type=video
+name=Crazy Love (1993)
+thumb=https://2.bp.blogspot.com/-_VlG23olPjE/WA9XxJM7kGI/AAAAAAABEwk/i0GjN1p2yk848oaaTI9FVTKhMKgKx6tQwCLcB/s1600/1.jpg
+URL=https://openload.co/f/wlAj7KfT4Wg/CRAZY.LOVE.1993.DVDRip_Erotic
+
+type=video
+name=Rope and Breasts : Nawa to chibusa (1983)
+thumb=https://3.bp.blogspot.com/-3Jmq5pqIukM/WA9TagwNR5I/AAAAAAABEv4/EjiAC8qMSbUjSEk03zMDTgj5iZXOQeaGACLcB/s320/5.jpg
+URL=https://openload.co/f/fn35tKjWXoE/Rope.and.Breasts.DVD_Erotic
+
+type=video
+name=Die Madchen des Herrn S (1977)
+thumb=https://3.bp.blogspot.com/-ln_BAmMsyHE/WA4cKq47wZI/AAAAAAABEsw/0Tv1dTfHxDkrrx8hFukKvG8vwzYf6CfewCEw/s1600/2S.jpg
+URL=https://openload.co/f/xNxYibv4i6k/DMdHS.avi.mp4
+
+type=video
+name=Juice (1973)
+thumb=https://4.bp.blogspot.com/-AVsQZyME8RE/WA4ZaLue64I/AAAAAAABEsU/oJKuxXtxZAQ8FXEqKXd_xMdgCieWexYawCLcB/s320/1.jpg
+URL=https://openload.co/f/cYSmG0Ha57I/juice.mp4
+
+type=video
+name=Silip: Daughters of Eve (1985)
+thumb=https://2.bp.blogspot.com/-Yz0QZqBlAZc/WA4X0FfsRQI/AAAAAAABErs/RqD04xVWlWoNrcRqr9MIMII7xwJIP-bYACLcB/s320/11.jpg
+URL=https://openload.co/f/oftVG7msdno/Silip.Daughters.Of.Eve.1985_Erotic
+
+type=video
+name=Berto-Greece (1985)
+thumb=https://1.bp.blogspot.com/-iTs519ZCBV4/WA4DQglzYCI/AAAAAAABEoM/mwqTgJ3w-VoQiuWV1Gw-RgjT9hHoFGVrgCLcB/s320/4.jpg
+URL=https://openload.co/f/5mZFrrcF46I/%CE%9E%CE%95%CE%A3%CE%9A%CE%99%CE%A3%CE%A4%CE%95_%CE%9C%CE%95_%281985%29.mp4
+
+type=video
+name=L’oasis des filles perdues (1982) (B)
+thumb=https://2.bp.blogspot.com/-vF91jff-UYg/V6HlSrCBiWI/AAAAAAAAL_M/6noJwuLRClgpaVqbyN-yxp9goeHfCVAMACLcB/s400/scene11233.jpg
+URL=https://openload.co/f/J8S6EDVsAVI/Oase_der_gefangenen_Frauen_CD2.avi.mp4
+
+type=video
+name=L’oasis des filles perdues (1982) (A)
+thumb=https://4.bp.blogspot.com/-YAnauo1F8xk/WA4CjfqIbOI/AAAAAAABEoE/67xSOvcUbZ4nqxjPOGntqiuZwJCHDfNtQCLcB/s320/3.jpg
+URL=https://openload.co/f/Y50YVAhZ_7g/Oase_der_gefangenen_Frauen_CD1.avi.mp4
+
+type=video
+name=O Ultimo Cao de Guerra (1979)
+thumb=https://1.bp.blogspot.com/-XZPfHfRLysw/WA4B7WXSKQI/AAAAAAABEn8/Er4AhvZYaQQaPpNfd1k2Df04oZ2uU1p9gCLcB/s320/2.jpg
+URL=https://openload.co/f/5QbSM-dKqKM/ultimo.vob.mp4
+
+type=video
+name=Consultorio sexologico (1980)
+thumb=https://3.bp.blogspot.com/-FImIDxFFsPU/WA4BSB_8VZI/AAAAAAABEn4/kHQqZ9iJpU0xw5tj_cZ8kJjVgn5I8JZVQCLcB/s320/1.jpg
+URL=https://openload.co/f/wkShct35jNM/Consultorio_sexol%C3%B3gico_vhsrip_por_Ismadj_y_Bata_para_Nohijano.mp4
+
+type=video
+name=Im Bett Mit Sibylle (1991)
+thumb=https://1.bp.blogspot.com/-6oM39F_RG_E/WAyoeHItdqI/AAAAAAABEkU/a35u_gsU0AsCtCLxf2EN8jZDy-BcNF3iQCLcB/s320/2S.jpg
+URL=https://openload.co/f/op-9a4O4ACo/Im_Bett_Mit_Sibylle_Rauch.mp4
+
+type=video
+name=Viaggio Nel Tempo 3
+thumb=https://4.bp.blogspot.com/-Tb2f05W5vOY/WAymOYxoaYI/AAAAAAABEkE/mjnm9sMqJaAgVmW_Gql0VCEEa1wHS2DMACLcB/s1600/1.jpg
+URL=https://openload.co/f/XbciUgKCmcg/Viaje_tiempo.3.guti.mp4
 
 type=video
 name=112xxxxxxxxxxxxxxxxxxxxNightmare Sisters (1988)
@@ -65,14 +144,6 @@ type=video
 name=Edo Jokeibatsushi (2007)
 thumb=https://3.bp.blogspot.com/-67k2Sh-9gPU/WAolYU-iiqI/AAAAAAABESw/t70cf6An1UUvts7M0VF4Hiqx7DRczc9JQCLcB/s1600/1.jpg
 URL=https://openload.co/f/H3udpmbKN44/Edo.Jokeibatsushi.2007_Erotic
-
-# 2773611
-type=playlist
-name=96_2_69_OHOHD_18up_XXX
-thumb=https://4.bp.blogspot.com/-_5ioyzmX5T8/WN8H64OWkYI/AAAAAAAAHN4/_43g2SHgg8ocoYiCZTr9sMpwwNEIjF8aQCLcB/s320/4SSS.jpg
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_18up_XXX.plx
-player=default
-rating=-1.00
 
 type=video
 name=101xxxxxxxxxxxxxxxxxxxxIdonikes diastrofes (1983)
