@@ -27,15 +27,6 @@ player=default
 rating=-1.00
 description=Kenny Wells, a modern-day prospector, hustler, and dreamer, is desperate for a lucky break. Left with few options, Wells teams up with an equally luckless geologist to execute a grandiose, last-ditch effort: to find gold deep in the uncharted jungle of Indonesia./description
 
-# 2772901
-type=video
-name=A Dog's Purpose (2017) ENG updated
-thumb=http://image.tmdb.org/t/p/w500/vKSRUwwknhFzY1HRBr0iYc55pVu.jpg
-URL=https://openload.co/f/jsCQI5wPE0Q/A.Dogs.Purpose.2017.WEB-DL.x264-FGT.mp4
-player=default
-rating=-1.00
-description=A dog goes on quest to discover his purpose in life over the course of several lifetimes with multiple owners./description
-
 # 2771107
 type=video
 name=Split (2017) ENG
@@ -141,6 +132,15 @@ URL=https://openload.co/f/ZCIhR_mr2nM/The_Disappointments_Room_%E0%B8%A1%E0%B8%B
 player=default
 rating=-1.00
 description=A mother and her young son release unimaginable horrors from the attic of their rural dream home./description
+
+# 2772901
+type=video
+name=A Dog's Purpose (2017) SUB
+thumb=http://image.tmdb.org/t/p/w500/vKSRUwwknhFzY1HRBr0iYc55pVu.jpg
+URL=https://openload.co/f/6gvseO84Iew/A_Dog%27s_Purpose_%282017%29_%E0%B8%AB%E0%B8%A1%E0%B8%B2_%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2_%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%A1.flv.mp4
+player=default
+rating=-1.00
+description=A dog goes on quest to discover his purpose in life over the course of several lifetimes with multiple owners./description
 
 # 2766246
 type=video
