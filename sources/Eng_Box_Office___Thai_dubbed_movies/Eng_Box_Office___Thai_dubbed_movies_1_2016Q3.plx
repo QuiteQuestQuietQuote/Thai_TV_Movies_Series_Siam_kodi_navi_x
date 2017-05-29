@@ -18,6 +18,11 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 player=default
 rating=-1.00
 
+type=video
+name=
+thumb=
+URL=
+
 # 2683754
 type=video
 name=Terraformars (sound zoom)

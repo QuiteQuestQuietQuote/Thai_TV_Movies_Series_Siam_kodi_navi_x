@@ -41,7 +41,7 @@ rating=-1.00
 type=video
 name=Nation TV
 thumb=https://2.bp.blogspot.com/-o7s4RRz4ppM/V7Sh7FTCXZI/AAAAAAAAnXE/eq39whb7Cr0DbQt7THIzcIVaokWhtEWsQCLcB/s1600/1.jpg
-URL=http://pr08ed006.dcs-cdn.com/nation/nationlive.isml/QualityLevels(704000)/manifest(format=m3u8-aapl).m3u8
+URL=http://pr09ed011.dcs-cdn.com/nation/nationlive.isml/manifest(format=m3u8-aapl).m3u8
 player=default
 rating=-1.00
 
@@ -67,6 +67,34 @@ player=default
 rating=-1.00
 
 type=video
+name=CNN
+thumb=http://www.thaiptv.com/img/cnnlogo.jpg
+URL=http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=REUTERS
+thumb=http://www.thaiptv.com/img/reuters.png
+URL=http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=euro news
+thumb=http://www.thaiptv.com/img/euronews_fr.png
+URL=http://ewns-hls-p-cdn.hexaglobe.net/f0732b4029e0b188ea6e14ca0dbb72f7/58270937/euronews_eng.smil/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=RT Russia Today
+thumb=http://www.thaiptv.com/img/rt_english.png
+URL=http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index1600.m3u8
+player=default
+rating=-1.00
+
+type=video
 name=ARIANG HD
 thumb=https://s27.postimg.org/5956a7bar/ariang.jpg
 URL=http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -82,8 +110,8 @@ rating=-1.00
 
 type=video
 name=CHANNEL 5
-thumb=
-URL=http://61.91.12.34:1935/live/smil:tv5adaptive.smil/chunklist_w1969949377_b512000.m3u8
+thumb=http://www.thaiptv.com/img/ch5.png
+URL=http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
 player=default
 rating=-1.00
 
@@ -119,6 +147,202 @@ type=video
 name=movie1
 thumb=http://www.thaiptv.com/img/movie1logo.png
 URL=rtmp://tv01.thaizatv.com/drm/movie1
+player=default
+rating=-1.00
+
+type=video
+name=movie2
+thumb=http://www.thaiptv.com/img/movie2logo.png
+URL=http://123.108.164.71/etv2sb/phd8/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=
+thumb=
+URL=
+player=default
+rating=-1.00
+
+type=video
+name=NBT TV
+thumb=http://www.thaiptv.com/img/nbt.jpg
+URL=http://symc-cdn05.bkk02.violin.co.th:1935/liveedge/308806374084_600/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=CH 3 family
+thumb=http://www.thaiptv.com/img/3family.png
+URL=http://111.223.37.196:1935/thaitv3_FM/thaitv3_FM_1/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=MCOT family
+thumb=http://www.thaiptv.com/img/mcot_family_th.png
+URL=http://lb-media.mcot.net:1935/mcotfamily_edge/smil:mcotfamily.smil/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=true4U
+thumb=http://www.thaiptv.com/img/true_4u_th.png
+URL=http://symc-cdn04.bkk01.violin.co.th:1935/liveedge/308235425316_600/chunklist_w58919402.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=GMM 25
+thumb=http://www.thaiptv.com/img/GMM_Channel.png
+URL=http://202.43.34.234:1935/GMM/s1/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=now 26
+thumb=http://www.thaiptv.com/img/now26tv_logo.jpg
+URL=http://symc-cdn02.bkk02.violin.co.th:1935/liveedge/315320886094_600/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=CH 8
+thumb=http://www.thaiptv.com/img/ch8.jpg
+URL=http://stream.rs.co.th/ch8-hi/index.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=CH 3 SD
+thumb=http://www.thaiptv.com/img/3sd.png
+URL=http://111.223.37.196:1935/thaitv3_SD/thaitv3_SD_2/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=MONO 29
+thumb=http://www.thaiptv.com/img/mono_29_th.png
+URL=http://edge3-bkk.3bb.co.th:1935/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=MCOT HD
+thumb=http://www.thaiptv.com/img/mcot_hd_th.png
+URL=http://lb-media.mcot.net:1935/9mcot_edge/smil:9mcot.smil/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=Thairath TV
+thumb=http://www.thaiptv.com/img/thairathtv%20small.jpg
+URL=http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=MONO PLUS
+thumb=http://www.thaiptv.com/img/monopluslogo.png
+URL=http://edge3-bkk.3bb.co.th:1935/MonoPlus_liveStream/monoplus.stream_live1/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=Zee nung
+thumb=http://www.thaiptv.com/img/zeenung.jpg
+URL=http://symc-cdn01.bkk02.violin.co.th:1935/liveedge/315765423410_600/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=JKN
+thumb=http://www.thaiptv.com/img/jkn_channel_th.png
+URL=http://symc-cdn05.bkk02.violin.co.th:1935/liveedge/307049146346_600/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=goodfilms
+thumb=http://www.thaiptv.com/img/goodfilms_th.png
+URL=http://symc-cdn01.bkk02.violin.co.th:1935/liveedge/292277206639_600/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=CTB
+thumb=http://www.thaiptv.com/img/ctblogo.png
+URL=http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=GANG Cartoon
+thumb=http://www.thaiptv.com/img/gang-cartoon.png
+URL=http://symc-cdn04.bkk01.violin.co.th:1935/liveedge/308058215552_600/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=Cartoon Club
+thumb=http://www.thaiptv.com/img/cartoon_club.jpg
+URL=http://symc-cdn05.bkk02.violin.co.th:1935/liveedge/292277442241_600/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=Boomerang
+thumb=http://www.thaiptv.com/img/boomerang_th.jpeg
+URL=http://symc-cdn05.bkk02.violin.co.th:1935/liveedge/307331126227_600/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=Ja Ting Ja
+thumb=http://www.thaiptv.com/img/ja_ting_ja_tv.png
+URL=http://symc-cdn02.bkk01.violin.co.th:1935/liveedge/292277314577_600/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=MIRACLE CH
+thumb=http://www.thaiptv.com/img/miracle_channel_th.png
+URL=http://symc-cdn02.bkk02.violin.co.th:1935/liveedge/307619115741_600/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=TV Korea PSI 85
+thumb=http://www.thaiptv.com/img/tvkorea.png
+URL=http://edge9.psitv.tv:1935/liveedge//315038363336_600/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=FAN TV
+thumb=http://www.thaiptv.com/img/fan_tv_th.png
+URL=http://202.43.34.234:1935/FAN/s1/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=Thai CCTV
+thumb=http://www.thaiptv.com/img/tcctv.jpg
+URL=http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=tvN Korea
+thumb=http://www.thaiptv.com/img/tvn_kr.png
+URL=http://121.156.62.136:1935/chc09/_definst_/s5.stream/chunklist.m3u8
+player=default
+rating=-1.00
+
+type=video
+name=
+thumb=
+URL=
 player=default
 rating=-1.00
 

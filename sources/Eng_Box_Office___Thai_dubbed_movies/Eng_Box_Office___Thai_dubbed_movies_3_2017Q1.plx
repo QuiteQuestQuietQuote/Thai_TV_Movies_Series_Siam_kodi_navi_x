@@ -19,6 +19,11 @@ player=default
 rating=-1.00
 
 type=video
+name=
+thumb=
+URL=
+
+type=video
 name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) RUS
 thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
 URL=https://openload.co/f/JJpWlYOG5PY/P_o_t_C_D_M_T_N_T_2017_CAMRip_%5BLayar-21.com%5D.mp4
@@ -433,6 +438,21 @@ player=default
 rating=-1.00
 description=Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island./description
 
+type=video
+name=
+thumb=
+URL=
+
+type=video
+name=Sand Castle (2017) SUB
+thumb=https://image.tmdb.org/t/p/w640/c9buG2jVRgAu68E4D4jpwlgqhO1.jpg
+URL=https://openload.co/f/SzF0JcyRqMg/%5BS%5DSAND_CASTLE
+
+type=video
+name=War Machine (2017) SUB
+thumb=https://image.tmdb.org/t/p/w640/zGlzlzms2vN5vSFVMWuknu7XGXP.jpg
+URL=https://openload.co/f/UbO21LeobWw/War_Machine_%282017%29.mp4
+
 # 2776077
 type=video
 name=Baahubali 2: The Conclusion (2017) SUB
@@ -562,6 +582,11 @@ rating=-1.00
 description=When Michelle, the CEO of a gaming software company, is attacked in her home by an unknown assailant, she refuses to let it alter her precisely ordered life. She manages crises involving family, all the while becoming engaged in a game of cat and mouse with her stalker./description
 
 type=video
+name=
+thumb=
+URL=
+
+type=video
 name=A Silent Voice (2017) CAM SOUND
 thumb=https://4.bp.blogspot.com/-n9DlExpxoWM/WSJCdOfU0xI/AAAAAAAAMjQ/RDRbXAX5Xx0rYN0Wj2NHER85NCIZYCvdwCLcB/s1600/A%2BSilent%2BVoice%2B%25282017%2529%2B%25E0%25B8%25A3%25E0%25B8%25B1%25E0%25B8%2581%25E0%25B9%2584%25E0%25B8%25A3%25E0%25B9%2589%25E0%25B9%2580%25E0%25B8%25AA%25E0%25B8%25B5%25E0%25B8%25A2%25E0%25B8%2587.png
 URL=https://openload.co/f/eP1lJB_cFEU/A_Silent_Voice_%282017%29_%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87.mp4
@@ -649,6 +674,11 @@ player=default
 rating=-1.00
 description=After an alien ship crash lands onto a Russian city, many who have saw the inside and the occupants start to question their own existence while there are those who demand the aliens to leave Earth/description
 
+type=video
+name=
+thumb=
+URL=
+
 #72
 type=video
 name=Call of Heroes (2016)
@@ -663,7 +693,7 @@ URL=https://openload.co/f/toOx22sy2Jw/Apprentice_%282016%29.mp4
 type=video
 name=It's Only the End of the World (2016)
 thumb=https://image.tmdb.org/t/p/w640/xTqy97V5EYtnMWWo2wVpScanpDS.jpg
-URL=https://openload.co/f/1xeIqCjVFPk/It_s_Only_the_End_of_the_World_%282016%29.mp4
+URL=https://openload.co/f/PjOLMSveYdc/%7BMINI_Super-HQ%7D_It%27s.Only.the.End.of.the.World.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 # 69
 type=video
