@@ -18,7 +18,115 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 player=default
 rating=-1.00
 
+type=video
+name=
+thumb=
+URL=
 
+type=video
+name=147xxxxxxxxxxxxxxxxxxxxThe Intruders (1975)
+thumb=https://4.bp.blogspot.com/-_u_ew9DNDTs/WBSAOfK3g5I/AAAAAAABFLg/oopIW3q-am4j6ZgcGb2uG-GhipoHAwcZACLcB/s320/1.jpg
+URL=https://openload.co/f/cD-VLRJdiIU/The.Intruders.1974.VHSRip.x264-CG.mkv.mp4
+
+type=video
+name=Female Market: Imprisonment (1986)
+thumb=https://4.bp.blogspot.com/-154OqE_SCkM/WBMXF2Sqc7I/AAAAAAABFF8/6I9QBTjAejsseC-18h8uwYV16u1eZ7oiwCLcB/s320/1.jpg
+URL=https://openload.co/f/EH5md7TiTlA/Female.Market.Imprisonment.1986.DVDRip_Erotic
+
+type=video
+name=Attention les yeux! (1976)
+thumb=https://1.bp.blogspot.com/-cs0wATfOInM/WBMSj1vBTrI/AAAAAAABFFs/PmEUTkFdO9US-HAihhGTYUFxmGiQ-VY5ACLcB/s320/8.jpg
+URL=https://openload.co/f/QaWPGwcWw8g/Attention_les_yeux%21_%281976%29
+
+type=video
+name=Bellas de noche (1975)
+thumb=https://4.bp.blogspot.com/-2qxgO_g9sR8/WBMR11lii9I/AAAAAAABFFo/ozhoqvwSpBk9QTlZPrBLvH6R7KEM8ST9gCLcB/s320/7.jpg
+URL=https://openload.co/f/GMMdb38rqZ4/Bellas_de_noche_%281975%29
+
+type=video
+name=Dolce pelle di Angela (1986)
+thumb=https://3.bp.blogspot.com/-Oo6MPDiEsyc/WBIINJ4175I/AAAAAAABFC0/00nIEZEHrhUHuW9QUSHqY0QqBz9a8z_mgCLcB/s320/8.png
+URL=https://openload.co/f/qtYCBKmhQsw/Dolce_pelle_di_Angela_%281986%29
+
+type=video
+name=On se calme et on boit frais a Saint-Tropez (1987)
+thumb=https://3.bp.blogspot.com/-SLUT1jYjg54/WBIHnM1wLlI/AAAAAAABFCs/D8ISMAYgO5APq_7f5usUGv8O_cBuJEc8gCLcB/s320/5.jpg
+URL=https://openload.co/f/M83rHarklH0/On_se_calme_et_on_boit_frais_a_Saint-Tropez_%28_Max_Pecas_%29.avi.mp4
+
+type=video
+name=Pacific Banana (1981)
+thumb=https://1.bp.blogspot.com/-lbBqd_MxqSs/WBHpd2bxFrI/AAAAAAABFAE/Ji8PdlOh34QQ_Tr_JbCcZ0o9KwrqbHoLQCLcB/s320/3.JPG
+URL=https://openload.co/f/s2Z2_cYIwFk/Pacific_Banana.1981.DVDrip.x264-CG.mkv.mp4
+
+type=video
+name=La Lola nos lleva al huerto (1984)
+thumb=https://3.bp.blogspot.com/-pMEII6C1JS8/WBHpBpb9ejI/AAAAAAABE_8/YwiS7KMFPrUBXPAZ5347bZ9XdlywHIa4gCLcB/s320/2.jpg
+URL=https://openload.co/f/zVq9AmwBEXE/La_Lola_nos_lleva_al_huerto_%281984%29.mp4
+
+type=video
+name=Que gozada de divorcio! (1981)
+thumb=https://1.bp.blogspot.com/-jdnM0XVXbCA/WBHoeQxBJ4I/AAAAAAABE_4/c4Pmqgm9qFUe1_7FRHxbANod7ZbfVpj6wCLcB/s320/1.jpg
+URL=https://openload.co/f/CFy7t7LdoyE/%C2%A1Qu%C3%A9_gozada_de_divorcio%21_%281981%29
+
+type=video
+name=Anal Island 1
+thumb=https://3.bp.blogspot.com/-D7cei2w9F2g/WBHnUzS4F8I/AAAAAAABE_o/761hAgbAWog7ROJJ8otUtWywaSeloxgNgCLcB/s320/11.jpg
+URL=https://openload.co/f/PS_lWXIGtzA/Anal_Island_1.avi.mp4
+
+type=video
+name=3 Zobs et un cul fin (1981)
+thumb=https://3.bp.blogspot.com/-iGdm1TdEynI/WBDuWqVAuAI/AAAAAAABE6Q/Qnd6NpPm5ikBTw9NaIBjRiVyLuaLBu5cgCLcB/s320/7.png
+URL=https://openload.co/f/rsibo9_KeDE/3_Zobs_et_un_cul_fin_%281981%29.avi.mp4
+
+type=video
+name=Variacoes do Sexo Explicito (1984)
+thumb=https://4.bp.blogspot.com/-VeE8e8ZdNWM/WBDt-uS6RWI/AAAAAAABE6M/kICRFpmuZ6IYMnfBsSyiogYOq-l4cziZACLcB/s320/6.jpg
+URL=https://openload.co/f/czNn9C3iYKc/Varia%C3%A7%C3%B5es_do_Sexo_Expl%C3%ADcito_%281984%29
+
+type=video
+name=The Sultry Assassin : The Aphrodisiac Kill
+thumb=https://3.bp.blogspot.com/-TlRQfgcl38A/WBDggODUMTI/AAAAAAABE3k/a0R8CbMTwYMxFoGz_22gkuTIZ_Z1uNOZwCLcB/s320/1s.jpg
+URL=https://openload.co/f/rQdwwIRIvKg/The.Sultry.Assassin.The.Aphrodisiac.Kill.2010.DVDRip_Erotic
+
+type=video
+name=Les Cuissardes (1980)
+thumb=https://3.bp.blogspot.com/-DnCtKRW0iXc/WBCqTT_POII/AAAAAAABE3Q/9FX-sYnCHHE19BQ_GjtJJV1HyvDSbcZnwCLcB/s320/8.jpg
+URL=https://openload.co/f/9uYij51ICEk/Les_Cuissardes.vob.mp4
+
+type=video
+name=Ellada, i hora tis tsontas (1984)
+thumb=https://4.bp.blogspot.com/-3lgjIpOopw4/WBCpmDJrL4I/AAAAAAABE3I/Lxr3dyT6uhwQKgKPSpJ559Pd69IbrIgYACLcB/s320/7.jpg
+URL=https://openload.co/f/2jQ7BXVhx1I/Ellada%2C_i_hora_tis_tsontas_%281984%29.mp4
+
+type=video
+name=PENG CHANG (2008)
+thumb=https://3.bp.blogspot.com/-UScImOSCX4w/WA-N3QXVbPI/AAAAAAABEz8/0lu7-LmlPHMwN3ZlRmDc-GhjzTp-RCJxgCLcB/s320/Peng-Chang-2008.jpg
+URL=https://openload.co/f/OdVYGD8a198/Peng.Chang.2008_Erotic
+
+type=video
+name=GWENDOLINE (1984)
+thumb=https://1.bp.blogspot.com/-_pClG_qIlLE/WA-M16isgaI/AAAAAAABEz4/XOhQgGzvzmM8eW6Y_ZSQIyhjW5lbODoeQCLcB/s320/Gwendoline-1984.jpg
+URL=https://openload.co/f/UgmD6T37dMI/Gwendoline.1984.DVDRip_Erotic
+
+type=video
+name=Das Beste aus den Herzog Video Classics (1970)
+thumb=https://2.bp.blogspot.com/-VsuKs9EJCJI/WA9pER_usKI/AAAAAAABEzc/Jt5ypCwfEusTLHr87QknNDmPoL3LY67lwCLcB/s320/9.jpg
+URL=https://openload.co/f/xQPI25tu4ws/1010_Best_Of_The_70S_from_HERZOG.avi.mp4
+
+type=video
+name=Abduction (1975)
+thumb=https://4.bp.blogspot.com/-sUKG5mCBWj0/WA9oUbHkA5I/AAAAAAABEzU/ocQLy9vuHKwd1Lv7eyEPfapeiZ-H5zJJACLcB/s320/8.jpg
+URL=https://openload.co/f/zC4QDI5Qbrw/abduction.vob.mp4
+
+type=video
+name=beautiful teacher in torture hell (1985)
+thumb=https://2.bp.blogspot.com/-2mqChmUhTlU/WA9nJFQJiAI/AAAAAAABEyw/3dFY6lzC_n0u6w9aIw6tMLz68FuEXqHLwCLcB/s320/1.jpg
+URL=https://openload.co/f/EvwJQH8hRI8/Beautiful.Teacher.in.Torture.Hell.1985.DVDRip_Erotic
+
+type=video
+name=A Tara do Touro (1987)
+thumb=https://4.bp.blogspot.com/-o98UCbuUJ4I/WA9bEFgBmdI/AAAAAAABExU/QgO2bzmVPIUX7UsQhX_mARQ2aCW2mSD6ACLcB/s320/4.jpg
+URL=https://openload.co/f/I_25EPZZUM8/A_Tara_do_Touro_%281987%29
 
 type=video
 name=126xxxxxxxxxxxxxxxxxxxxI spilia tis amartias (1976)

@@ -24,9 +24,9 @@ thumb=
 URL=
 
 type=video
-name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) RUS
+name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) ENG
 thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
-URL=https://openload.co/f/JJpWlYOG5PY/P_o_t_C_D_M_T_N_T_2017_CAMRip_%5BLayar-21.com%5D.mp4
+URL=https://openload.co/f/Bo9mm28eDEw/W-P-C-D-T.2017.720P.HDCAM.x264.HC-P2P.mkv.mp4
 player=default
 rating=-1.00
 
@@ -353,6 +353,11 @@ player=default
 rating=-1.00
 
 type=video
+name=
+thumb=
+URL=
+
+type=video
 name=Alien: Covenant (2017) CAM
 thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MzM3MzkxNF5BMl5BanBnXkFtZTgwOTkyMjI4MTI@._V1_SY1000_CR0,0,673,1000_AL_.jpg
 URL=https://openload.co/f/iJsBLoSeTro/Alien_Covenant_%282017%29_%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99_%E0%B9%82%E0%B8%84%E0%B9%80%E0%B8%A7%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C.mp4
@@ -587,6 +592,11 @@ thumb=
 URL=
 
 type=video
+name=The Hunter's Prayer (2017) CAM SOUND
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMTEzMzQ2NjU1MjVeQTJeQWpwZ15BbWU4MDQ2MjI1MjIy._V1_SY1000_CR0,0,674,1000_AL_.jpg
+URL=https://openload.co/f/_vlz-uFXxbg/%5BT%5DThe_Hunter%27s_Prayer_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B8_%282017%29
+
+type=video
 name=A Silent Voice (2017) CAM SOUND
 thumb=https://4.bp.blogspot.com/-n9DlExpxoWM/WSJCdOfU0xI/AAAAAAAAMjQ/RDRbXAX5Xx0rYN0Wj2NHER85NCIZYCvdwCLcB/s1600/A%2BSilent%2BVoice%2B%25282017%2529%2B%25E0%25B8%25A3%25E0%25B8%25B1%25E0%25B8%2581%25E0%25B9%2584%25E0%25B8%25A3%25E0%25B9%2589%25E0%25B9%2580%25E0%25B8%25AA%25E0%25B8%25B5%25E0%25B8%25A2%25E0%25B8%2587.png
 URL=https://openload.co/f/eP1lJB_cFEU/A_Silent_Voice_%282017%29_%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87.mp4
@@ -679,7 +689,12 @@ name=
 thumb=
 URL=
 
-#72
+#73
+type=video
+name=Z Storm (2014)
+thumb=https://image.tmdb.org/t/p/w640/e1IWAIEOxTEeRTnEEouH3fwQWgE.jpg
+URL=https://openload.co/f/XO08r4S3K1U/%7BMINI_Super-HQ%7D_Z.Storm.2014.1080p.BrRip.AC3.x264_NongZEZA%40CtHts.mkv.mp4
+
 type=video
 name=Call of Heroes (2016)
 thumb=https://image.tmdb.org/t/p/w640/lmtk0YoEzdI76Ur3WbLjSQHztNM.jpg

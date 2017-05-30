@@ -67,6 +67,11 @@ URL=https://openload.co/pair
 player=default
 rating=-1.00
 
+type=video
+name=
+thumb=
+URL=
+
 # 2766014
 type=video
 name=A Cure for Wellness (CAM)
