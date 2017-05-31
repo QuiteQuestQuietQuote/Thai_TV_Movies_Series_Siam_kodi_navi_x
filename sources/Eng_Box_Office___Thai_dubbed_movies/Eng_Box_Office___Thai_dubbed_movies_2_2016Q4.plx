@@ -1,8 +1,8 @@
 version=1
-background=http://image.tmdb.org/t/p/w500/kFSd6AH9xdKZ43jHndDlvw3INcw.jpg
+background=http://image.tmdb.org/t/p/w500/1pHOqpdCYNmtRVJs6pGKQKttrPm.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_2_2016Q4 [COLOR=FF888888]ÔøΩ[/COLOR] 1 to 198 of 199
-logo=http://image.tmdb.org/t/p/w500/kFSd6AH9xdKZ43jHndDlvw3INcw.jpg
-icon_playlist=http://image.tmdb.org/t/p/w500/kFSd6AH9xdKZ43jHndDlvw3INcw.jpg
+logo=http://image.tmdb.org/t/p/w500/1pHOqpdCYNmtRVJs6pGKQKttrPm.jpg
+icon_playlist=http://image.tmdb.org/t/p/w500/1pHOqpdCYNmtRVJs6pGKQKttrPm.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies./description
 
 type=playlist
@@ -72,14 +72,7 @@ name=
 thumb=
 URL=
 
-# 2766014
-type=video
-name=A Cure for Wellness (CAM)
-thumb=http://image.tmdb.org/t/p/w500/byeTgTgG7M1RN2c7njWWIkSkNig.jpg
-URL=https://openload.co/f/9RpUK-wQPEY/A_Cure_For_Wellness_%282017%29_%E0%B8%8A%E0%B8%B5%E0%B8%9E%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0%5B%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%5D%5B360p%5D.mp4
-player=default
-rating=-1.00
-description=An ambitious young executive is sent to retrieve his company's CEO from an idyllic but mysterious "wellness center" at a remote location in the Swiss Alps but soon suspects that the spa's miraculous treatments are not what they seem./description
+
 
 # 2765962
 type=video
@@ -225,14 +218,7 @@ name=
 thumb=
 URL=
 
-# 2764316
-type=video
-name=The Lego Batman Movie (2017) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/1pHOqpdCYNmtRVJs6pGKQKttrPm.jpg
-URL=https://openload.co/f/DxB18AiLG60/The.Lego.Batman.The.Movie.2017.1080p.WEB-DL.AC35.1.H264.THR-CPT.mkv.mp4
-player=default
-rating=-1.00
-description=In the irreverent spirit of fun that made ‚??The LEGO¬Æ Movie‚?ù a worldwide phenomenon, the self-described leading man of that ensemble ‚?? LEGO Batman ‚?? stars in his own big-screen adventure. But there are big changes brewing in Gotham, and if he wants to save the city from The Joker‚??s hostile takeover, Batman may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up./description
+
 
 # 2765014
 type=video
@@ -251,15 +237,6 @@ URL=https://openload.co/f/g3IuMR4UxPk/Sleepless.2017.1080p.WEB-DL.DD5.1.H264.Tha
 player=default
 rating=-1.00
 description=Undercover Las Vegas police officer Vincent Downs is caught in a high stakes web of corrupt cops and the mob-controlled casino underground. When a heist goes wrong, a crew of homicidal gangsters kidnaps Downs‚?? teenage son. In one sleepless night he will have to rescue his son, evade an internal affairs investigation and bring the kidnappers to justice./description
-
-# 2770631
-type=video
-name=Monster Trucks (2017) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/2Vr47xEcWIik5qnaNjSVCKx1REm.jpg
-URL=https://openload.co/f/B70ny3jiRSo/Monster_Trucks_%282017%29_%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%AA%E0%B8%9B%E0%B8%B5%E0%B8%94.mp4
-player=default
-rating=-1.00
-description=Looking for any way to get away from the life and town he was born into, Tripp (Lucas Till), a high school senior, builds a Monster Truck from bits and pieces of scrapped cars. After an accident at a nearby oil-drilling site displaces a strange and subterranean creature with a taste and a talent for speed, Tripp may have just found the key to getting out of town and a most unlikely friend./description
 
 # 2765615
 type=video
@@ -319,6 +296,24 @@ type=video
 name=
 thumb=
 URL=
+
+# 2764316
+type=video
+name=The Lego Batman Movie (2017)
+thumb=http://image.tmdb.org/t/p/w500/1pHOqpdCYNmtRVJs6pGKQKttrPm.jpg
+URL=https://openload.co/f/PM7xucB9stA/The.LEGO.Batman.Movie.2017.1080p.WEB-DL.AC3.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+description=In the irreverent spirit of fun that made ‚??The LEGO¬Æ Movie‚?ù a worldwide phenomenon, the self-described leading man of that ensemble ‚?? LEGO Batman ‚?? stars in his own big-screen adventure. But there are big changes brewing in Gotham, and if he wants to save the city from The Joker‚??s hostile takeover, Batman may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up./description
+
+# 2766014
+type=video
+name=A Cure for Wellness (2016)
+thumb=http://image.tmdb.org/t/p/w500/byeTgTgG7M1RN2c7njWWIkSkNig.jpg
+URL=https://openload.co/f/1eU-l38fF-Y/%7BMINI_Super-HQ%7D_A.Cure.for.Wellness.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+description=An ambitious young executive is sent to retrieve his company's CEO from an idyllic but mysterious "wellness center" at a remote location in the Swiss Alps but soon suspects that the spa's miraculous treatments are not what they seem./description
 
 # 2766010
 type=video

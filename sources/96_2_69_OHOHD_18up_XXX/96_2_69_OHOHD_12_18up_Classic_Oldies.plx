@@ -23,6 +23,67 @@ name=
 thumb=
 URL=
 
+
+type=video
+name=159xxxxxxxxxxxxxxxxxxxxVirgin Dreams (1977)
+thumb=https://4.bp.blogspot.com/-pFjfSzv-Ggs/WBXnhglvSJI/AAAAAAABFY0/YbrCqjgZo8MS5kImTqXU2xqTbpDJYDqqwCLcB/s1600/2.jpg
+URL=https://openload.co/f/Gk_Vh5Pt0-M/Virgin_Dreams_-_%281977%29.avi.mp4
+
+type=video
+name=O Convite ao Prazer (1980)
+thumb=https://3.bp.blogspot.com/-9R9mEN49Wic/WBXnCsD5ErI/AAAAAAABFYw/6AP1bHwm-ycVdNJCi_Pgi5iXLYW5Y-dhwCLcB/s1600/1.jpg
+URL=https://openload.co/f/Ge0UKUKsVbc/O_Convite_ao_Prazer.avi.mp4
+
+type=video
+name=Dad Made Dirty Movies (2012)
+thumb=https://4.bp.blogspot.com/-8uBZzTbhZmY/WBXj1qgEHVI/AAAAAAABFYg/i2IXPW0V--IgmdaF_qdUfcKxEyrtFuHQwCLcB/s1600/2.jpg
+URL=https://openload.co/f/6IBe667RBfk/Dad_Made_Dirty_Movies.avi.mp4
+
+type=video
+name=Las adolescentes (1975)
+thumb=https://4.bp.blogspot.com/-EYCWltHdpnM/WBXjSfGnCsI/AAAAAAABFYc/UPh0DTZ7nDI6GvgYHCy8IZBUKpqTkFl6ACLcB/s1600/1.jpg
+URL=https://openload.co/f/C2D5397RffI/Las_adolescentes_%281975%29.mp4
+
+type=video
+name=Sex… 13 beaufort! (1973)
+thumb=https://1.bp.blogspot.com/-zIfVCwdCWDo/WBSr_tx931I/AAAAAAABFR0/a7GyS9QZaFk5o94oXHEmKxKse3uygaRBACLcB/s320/12.jpg
+URL=https://openload.co/f/Iwknj_6sWX0/Sex..._13_beaufort%21.mp4
+
+type=video
+name=Erotic Diary of an Office Lady (1977)
+thumb=https://2.bp.blogspot.com/-MyjayjdulBU/WBSpAWPWOSI/AAAAAAABFRY/BYuG1YqCKd0HcSNF4rD2AECSRbwjHuB7gCLcB/s320/9.jpg
+URL=https://openload.co/f/_IbH-6_leY0/Erotic.Diary.of.an.Office.Lady.1977.DVDRip.350MB.mkv.mp4
+
+type=video
+name=Wonder Lady vs American Monsters (2012)
+thumb=https://3.bp.blogspot.com/-g7AjTPs1XHw/WBSkDYfgXVI/AAAAAAABFQU/Iq-xdKf8zrEFkknFeSvZHMm-DJ9OJwb_wCLcB/s1600/6.jpg
+URL=https://openload.co/f/_IhWx9hfBJE/Wonder.Lady.vs.American.Monster.2012.Complete.mp4
+
+type=video
+name=Confessions of Lady Mantis (1975)
+thumb=https://2.bp.blogspot.com/-E6fht0iB0IM/WBSLkKUCTaI/AAAAAAABFNA/4njuhE87YPUf937UrkeWQajG6Mjr7b5EgCLcB/s320/7.jpg
+URL=https://openload.co/f/sk-fBEc_vhQ/Confessions.of.Lady.Mantis_Erotic
+
+type=video
+name=Rapeman 4 (1994)
+thumb=https://3.bp.blogspot.com/-OrjJyYJRDjU/WBSH8uBZKJI/AAAAAAABFMc/45PQCzo09gw2zo9JaI-LqxAy9c-7uBPFgCLcB/s1600/5.jpg
+URL=https://openload.co/f/dQRnyCy-A9c/Rapeman.4.1994.DVDRip_Erotic
+
+type=video
+name=Intimacy (2001)
+thumb=https://1.bp.blogspot.com/-OYKFzGZe-mw/WBSEzHKgOII/AAAAAAABFL8/ZDxxgUKneRcbiz-7cCjPu1wTfAJVYE3awCLcB/s320/4.jpg
+URL=https://openload.co/f/-sRaAXCrEBI/Intimacy.2001.WEB-DL_Erotic
+
+type=video
+name=Joy en Afrique (1992)
+thumb=https://3.bp.blogspot.com/-jahZ7XsFYaU/WBSBbXA5bcI/AAAAAAABFLs/zqn3g_QEyykecB_HTcUU57tlRlxFSxcwgCLcB/s320/3.jpg
+URL=https://openload.co/f/0kZqvBfX2g8/Joy_En_Afrique_DVDRip.XviD.avi.mp4
+
+type=video
+name=Retourne-moi c’est meilleur (1981)
+thumb=https://2.bp.blogspot.com/-p8CuFF1I_Jg/WBSA6qL7p-I/AAAAAAABFLk/9jSUpyZfLfIIMAcSKlHqFcqJ8l2cD6j6ACLcB/s320/2.jpg
+URL=https://openload.co/f/vgra837unfs/Retourne-moi_c%27est_meilleur_%281981%29.mp4
+
 type=video
 name=147xxxxxxxxxxxxxxxxxxxxThe Intruders (1975)
 thumb=https://4.bp.blogspot.com/-_u_ew9DNDTs/WBSAOfK3g5I/AAAAAAABFLg/oopIW3q-am4j6ZgcGb2uG-GhipoHAwcZACLcB/s320/1.jpg

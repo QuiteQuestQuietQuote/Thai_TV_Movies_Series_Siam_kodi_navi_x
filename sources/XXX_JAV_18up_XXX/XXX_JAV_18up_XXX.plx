@@ -10,6 +10,16 @@ name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx?action=sortsel&cur=ord
 
+
+
+type=playlist
+name=JAV_19_18up 
+thumb=https://3.bp.blogspot.com/-dj5WxLgGIJA/WSOSm4EeX5I/AAAAAAAAMoI/VaqEXsuFYPoNQWwAKxdrnQuQwO0W2upOwCLcB/s1600/Screenshot_4.png
+date=2017-06-01
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_19_18up.plx
+player=default
+rating=-1.00
+
 type=playlist
 name=JAV_18_18up_PIES
 thumb=https://3.bp.blogspot.com/-BQ5ofSjLLqU/WQFenJm1dUI/AAAAAAAALy0/ZJ-PBNnWbfwB1It8A6CrpOE7EtH6P_hIQCLcB/s1600/Screenshot_7.png

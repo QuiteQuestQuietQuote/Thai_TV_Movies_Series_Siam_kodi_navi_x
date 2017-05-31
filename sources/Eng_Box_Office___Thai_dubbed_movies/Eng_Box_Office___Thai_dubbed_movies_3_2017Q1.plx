@@ -449,6 +449,11 @@ thumb=
 URL=
 
 type=video
+name=Kidnap (2017) SUB
+thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
+URL=https://openload.co/f/b9ZSn4umBnU/%5BS%5DKidnap_2017
+
+type=video
 name=Sand Castle (2017) SUB
 thumb=https://image.tmdb.org/t/p/w640/c9buG2jVRgAu68E4D4jpwlgqhO1.jpg
 URL=https://openload.co/f/SzF0JcyRqMg/%5BS%5DSAND_CASTLE

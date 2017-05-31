@@ -10,6 +10,14 @@ name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_17_18up.plx?action=sortsel&cur=ord
 
+# 2773257
+type=playlist
+name=XXX_JAV_18up_XXX
+thumb=https://4.bp.blogspot.com/-tteGFlL6TlU/WK0IJqSmwnI/AAAAAAAAJ8c/J7m1yir8VZYzzEsa1QKSSHSvpkd5rvr3ACLcB/s1600/Screenshot_5.png
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx
+player=default
+rating=-1.00
+
 # 2776239
 type=video
 name=xxxxxxxxxxxxxxxxxxxxxxxxxTeenage Threesomes 2016
@@ -439,14 +447,6 @@ name=SNIS-714 â?? Aoi Tsukasa â?? Tsukasa Aoi Is Strapped Down So She Canâ??t Mo
 thumb=http://zeed24hrs.com/wp-content/uploads/2016/11/SNIS-714.jpg
 date=2017-05-10
 URL=https://openload.co/f/9VL2xWlMCOU/JAV_SNIS-714.mp4
-player=default
-rating=-1.00
-
-# 2773257
-type=playlist
-name=XXX_JAV_18up_XXX
-thumb=https://4.bp.blogspot.com/-tteGFlL6TlU/WK0IJqSmwnI/AAAAAAAAJ8c/J7m1yir8VZYzzEsa1QKSSHSvpkd5rvr3ACLcB/s1600/Screenshot_5.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx
 player=default
 rating=-1.00
 
