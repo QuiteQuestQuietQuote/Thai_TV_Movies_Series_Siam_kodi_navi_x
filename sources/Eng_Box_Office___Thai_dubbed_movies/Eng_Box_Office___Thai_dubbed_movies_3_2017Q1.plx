@@ -23,12 +23,7 @@ name=
 thumb=
 URL=
 
-type=video
-name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) ENG
-thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
-URL=https://openload.co/f/Bo9mm28eDEw/W-P-C-D-T.2017.720P.HDCAM.x264.HC-P2P.mkv.mp4
-player=default
-rating=-1.00
+
 
 # 2773789
 type=video
@@ -356,6 +351,13 @@ type=video
 name=
 thumb=
 URL=
+
+type=video
+name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) CAM
+thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
+URL=https://openload.co/f/O_Hipq6LhWY/Pirates_of_the_Caribbean_5_Dead_Men_Tell_No_Tales_%282017%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%8A%E0%B8%B5%E0%B8%9E%5B%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%5D%5B1080%5D.mp4
+player=default
+rating=-1.00
 
 type=video
 name=Alien: Covenant (2017) CAM
