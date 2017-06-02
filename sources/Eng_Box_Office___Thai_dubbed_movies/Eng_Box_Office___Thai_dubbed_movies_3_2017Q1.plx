@@ -54,16 +54,6 @@ player=default
 rating=-1.00
 description=A young black man visits his white girlfriend's cursed family estate. He finds out that many of its residents, who are black, have gone missing in the past./description
 
-# 2776074
-type=video
-name=Logan (2017) ENG updated dvd
-thumb=http://image.tmdb.org/t/p/w500/45Y1G5FEgttPAwjTYic6czC9xCn.jpg
-date=2017-05-09
-URL=https://openload.co/f/Ky8q6p34d-I/Logan.2017.DVDRip.XviD.AC3-EVO.avi.mp4
-player=default
-rating=-1.00
-description=In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan's attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces./description
-
 # 2775957
 type=video
 name=How to Be a Latin Lover (2017) ESP
@@ -660,15 +650,6 @@ player=default
 rating=-1.00
 description=Yugi and Kaiba have a special duel that transcends dimensions./description
 
-# 2772369
-type=video
-name=Logan (2017) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/45Y1G5FEgttPAwjTYic6czC9xCn.jpg
-URL=https://openload.co/f/NjeLu66rBTQ/Logan.2017.1080p.KORSUB.HDRip.x264.AC32.0.THR.CPT.mkv.mp4
-player=default
-rating=-1.00
-description=In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan's attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces./description
-
 # 2771286
 type=video
 name=PokÃ©mon the Movie: Volcanion and the Mechanical Marvel (2016) CAM SOUND
@@ -700,6 +681,21 @@ type=video
 name=
 thumb=
 URL=
+
+
+
+
+
+#74
+# 2776074
+type=video
+name=Logan (2017)
+thumb=http://image.tmdb.org/t/p/w500/45Y1G5FEgttPAwjTYic6czC9xCn.jpg
+date=2017-05-09
+URL=https://openload.co/f/0AzwGnYFiac/%7BMINI_Super-HQ%7D_LOGAN.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+description=In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan's attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces./description
 
 #73
 type=video
