@@ -451,6 +451,11 @@ thumb=
 URL=
 
 type=video
+name=Spectral (2016) SUB
+thumb=https://image.tmdb.org/t/p/w640/oXV2ayQYUQfHwpuMdWnZF0Geng5.jpg
+URL=https://openload.co/f/LMxwHx7QfOg/spactral.MP4.mp4
+
+type=video
 name=Kidnap (2017) SUB
 thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
 URL=https://openload.co/f/b9ZSn4umBnU/%5BS%5DKidnap_2017
