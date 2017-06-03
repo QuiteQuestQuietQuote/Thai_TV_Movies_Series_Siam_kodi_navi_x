@@ -1,8 +1,8 @@
 ﻿version=1
-background=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
+background=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
-logo=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
+logo=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
+thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -23,7 +23,15 @@ name=
 thumb=
 URL=
 
+type=video
+name=Baywatch (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
+URL=https://openload.co/f/DdYmPdg4WMk/B_2017_CAMRip_%5BLayar-21.com%5D.mp4
 
+type=video
+name=Deep (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/bVGA7LzL7uKasrweoRufITfMdYv.jpg
+URL=https://openload.co/f/TAQ9pCr9r6c/D_2017_CAMRip_%5BLayar-21.com%5D.mp4
 
 # 2773789
 type=video
@@ -56,10 +64,10 @@ description=A young black man visits his white girlfriend's cursed family estate
 
 # 2775957
 type=video
-name=How to Be a Latin Lover (2017) ESP
+name=How to Be a Latin Lover (2017) ENG updated
 thumb=http://image.tmdb.org/t/p/w500/wvXCBYFDwAQSj3nrRAoBSpX2N8J.jpg
 date=2017-05-08
-URL=https://openload.co/f/k6BOPuKMOSs/How_to_Be_a_Latin_Lover_2017_HDTS_Spanish.mp4
+URL=https://openload.co/f/rXf9FvS4apg/H-o-w-.-to.B-e.a.La-t-in.Lo-ve-r.2017.HDCAM.READNFO.XviD-MrGrey.avi.mp4
 player=default
 rating=-1.00
 description=An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world./description
@@ -284,15 +292,6 @@ player=default
 rating=-1.00
 description=The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles./description
 
-# 2770301
-type=video
-name=Life (2017) ENG
-thumb=http://image.tmdb.org/t/p/w500/h2mhfbEBGABSHo2vXG1ECMKAJa7.jpg
-URL=https://openload.co/f/5EP38NX7_Cc/Life.2017.720p.HDCAM.DD2.0.x264-BDP.mkv.mp4
-player=default
-rating=-1.00
-description=The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected./description
-
 # 2769629
 type=video
 name=Beauty and the Beast (2017) ENG
@@ -408,15 +407,6 @@ player=default
 rating=-1.00
 description=Saban's Power Rangers follows five ordinary teens who must become something extraordinary when they learn that their small town of Angel Grove â?? and the world â?? is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before itâ??s too late, band together as the Power Rangers./description
 
-# 2770636
-type=video
-name=Life (2017) CAM
-thumb=http://image.tmdb.org/t/p/w500/h2mhfbEBGABSHo2vXG1ECMKAJa7.jpg
-URL=https://openload.co/f/2uD4KtEb7aE/Life_%282017%29_%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9.mp4
-player=default
-rating=-1.00
-description=The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected./description
-
 # 2769085
 type=video
 name=Beauty and the Beast (2017) CAM
@@ -439,6 +429,11 @@ type=video
 name=
 thumb=
 URL=
+
+type=video
+name=King of Thorn (2009) SUB
+thumb=https://image.tmdb.org/t/p/w640/2HB3zSV9QkJV8fyPDRODTEyvZeO.jpg
+URL=https://openload.co/f/T4-JEKw6TcY/%5BSeishinseii-Subs%5D_King_of_Thorn_%28BD_1920x1080_x264_AAC_TH%29.mp4
 
 type=video
 name=Spectral (2016) SUB
@@ -592,6 +587,15 @@ type=video
 name=
 thumb=
 URL=
+
+# 2770301
+type=video
+name=Life (2017) CAM SOUND
+thumb=http://image.tmdb.org/t/p/w500/h2mhfbEBGABSHo2vXG1ECMKAJa7.jpg
+URL=https://openload.co/f/yaIcAgQRl-I/Life.2017.1080p.KORSUB.HDRip.x264.AAC2.0-ThaiRong_%281%29.mkv.mp4
+player=default
+rating=-1.00
+description=The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected./description
 
 type=video
 name=The Hunter's Prayer (2017) CAM SOUND
