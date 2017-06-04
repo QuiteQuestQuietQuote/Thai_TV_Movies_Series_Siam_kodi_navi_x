@@ -64,10 +64,10 @@ description=A young black man visits his white girlfriend's cursed family estate
 
 # 2775957
 type=video
-name=How to Be a Latin Lover (2017) ENG updated
+name=How to Be a Latin Lover (2017) ENG updated TS
 thumb=http://image.tmdb.org/t/p/w500/wvXCBYFDwAQSj3nrRAoBSpX2N8J.jpg
 date=2017-05-08
-URL=https://openload.co/f/rXf9FvS4apg/H-o-w-.-to.B-e.a.La-t-in.Lo-ve-r.2017.HDCAM.READNFO.XviD-MrGrey.avi.mp4
+URL=https://openload.co/f/9EpLAClZdgo/H-L.2017.HD-TS.x264-CPG.mkv.mp4
 player=default
 rating=-1.00
 description=An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world./description
@@ -688,7 +688,16 @@ URL=
 
 
 
+#76
+type=video
+name=Fathers (2016)
+thumb=https://image.tmdb.org/t/p/w640/cH1P28amni61EgdA5YETkgjlXh1.jpg
+URL=https://openload.co/f/z3Aq6ivVSy4/Fathers_%282016%29_%E0%B8%9F%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA.mp4
 
+type=video
+name=Max 2: White House Hero (2017)
+thumb=https://image.tmdb.org/t/p/w640/roIpyS1wlXFCiunN7WGkKSY3BGG.jpg
+URL=https://openload.co/f/DuHIT8YoQCU/Max_2_White_House_Hero_%282017%29_%E0%B9%81%E0%B8%A1%E0%B9%8A%E0%B8%81%E0%B8%8B%E0%B9%8C_2_%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%B2_%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%82%E0%B8%B2%E0%B8%A7.mp4
 
 #74
 # 2776074
