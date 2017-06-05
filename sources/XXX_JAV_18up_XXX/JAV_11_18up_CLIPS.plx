@@ -12,6 +12,114 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
+# 2772545
+type=playlist
+name=XXX_JAV_18up_XXX
+thumb=https://4.bp.blogspot.com/-tteGFlL6TlU/WK0IJqSmwnI/AAAAAAAAJ8c/J7m1yir8VZYzzEsa1QKSSHSvpkd5rvr3ACLcB/s1600/Screenshot_5.png
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx
+player=default
+rating=-1.00
+
+type=video
+name=
+thumb=
+URL=
+
+
+
+
+
+type=video
+name=Clip Preaw The Ripper 1
+thumb=https://www.moviehd-master.com/wp-content/uploads/2017/06/%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94-%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7-%E0%B8%AB%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%A8%E0%B8%9E-300x164.jpg
+URL=https://openload.co/f/Fuz1NYBcz2U/%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94_%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7_%E0%B8%AB%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%A8%E0%B8%9E_%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1_3_%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9B%5B%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94_1%5D%5B360p%5D.mp4
+
+type=video
+name=Clip Preaw The Ripper 2
+thumb=https://www.moviehd-master.com/wp-content/uploads/2017/06/%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94-%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7-%E0%B8%AB%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%A8%E0%B8%9E-300x164.jpg
+URL=https://openload.co/f/pMJ3BiViMtM/%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94_%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7_%E0%B8%AB%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%A8%E0%B8%9E_%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1_3_%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9B%5B%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94_2%5D%5B360p%5D.mp4
+
+type=video
+name=Clip Preaw The Ripper 3
+thumb=https://www.moviehd-master.com/wp-content/uploads/2017/06/%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94-%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7-%E0%B8%AB%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%A8%E0%B8%9E-%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1-3-%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9B-300x225.jpg
+URL=https://openload.co/f/1i4RJMT02pA/58_%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%B5_%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%5D%5B360p%5D.mp4
+
+
+type=video
+name=115xxxxxxxxxxxxxxxxxxxxAsian Sex Diary.King.In.Phucket 
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.King_.In_.Phucket.jpg
+URL=https://openload.co/f/1XJD7Jm0kFg/Asian_Sex_Diary.King.In.Phucket.mp4
+
+type=video
+name=Asian Sex Diary.Guitar2.The.Chat.Girl
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Guitar2.The_.Chat_.Girl_.jpg
+URL=https://openload.co/f/IOqv391NCXQ/Asian_Sex_Diary.Guitar2.The.Chat.Girl.mp4
+
+type=video
+name=Diary.Guitar.Not.The.Musical.Kind 
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Guitar.Not_.The_.Musical.Kind_.jpg
+URL=https://openload.co/f/-ygtEBfh-7Q/Asian_Sex_Diary.Guitar.Not.The.Musical.Kind.mp4
+
+type=video
+name=Asian Sex Diary.Gay
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Gay_.jpg
+URL=https://openload.co/f/O57RV_HRmBs/Asian_Sex_Diary.Gay.mp4
+
+type=video
+name=Asian Sex Diary.Gay.Morning 
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Gay_.Morning.jpg
+URL=https://openload.co/f/w8mYFJ5cdpc/Asian_Sex_Diary.Gay.Morning.mp4
+
+type=video
+name=Asian Sex Diary.Dera.Ayon.Blue.Morning 
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Dera_.Ayon_.Blue_.Morning.jpg
+URL=https://openload.co/f/4X4mdWVl-9g/Asian_Sex_Diary.Dera.Ayon.Blue.Morning.mp4
+
+type=video
+name=Asian Sex Diary.Bee.Me.Threesome
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Bee_.Me_.Threesome.jpg
+URL=https://openload.co/f/1ZjBoAjG0Q4/Asian_Sex_Diary.Bee.Me.Threesome.mp4
+
+type=video
+name=Asian Sex Diary.Dera
+thumb=https://erotic24hr.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Dera_.jpg
+URL=https://openload.co/f/fvWQY38Edy0/Asian_Sex_Diary.Dera.mp4
+
+type=video
+name=Asian Sex Diary.Eye
+thumb=https://erotic24hr.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Eye_.jpg
+URL=https://openload.co/f/4CV0IZJykN8/Asian_Sex_Diary.Eye.mp4
+
+type=video
+name=Asian Sex Diary.Dera.Ayon.To.Airport
+thumb=https://erotic24hr.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Dera_.Ayon_.To_.Airport.jpg
+URL=https://openload.co/f/RggaPukujlE/Asian_Sex_Diary.Dera.Ayon.To.Airport.mp4
+
+type=video
+name=Asian Sex Diary.Dera.Ayon.Tiger.Night.Fighting.Over.My.Cum 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Dera_.Ayon_.Tiger_.Night_.Fighting.Over_.My_.Cum_.jpg
+URL=https://openload.co/f/U9D5hWLl910/Asian_Sex_Diary.Dera.Ayon.Tiger.Night.Fighting.Over.My.Cum.mp4
+
+type=video
+name=Asian Sex Diary.Dera.Ayon
+thumb=https://erotic24hr.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Dera_.Ayon_.jpg
+URL=https://openload.co/f/pcqQ4r0sz3s/Asian_Sex_Diary.Dera.Ayon.mp4
+
+type=video
+name=Asian Sex Diary.Dera.Ayon.Date.2.Bj
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Dera_.Ayon_.Date_.2.Bj_.jpg
+URL=https://openload.co/f/9cNE6kr0egA/Asian_Sex_Diary.Dera.Ayon.Date.2.Bj.mp4
+
+type=video
+name=Asian Sex Diary.Bee.Morning.Great.Fuck 
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Bee_.Morning.Great_.Fuck_.jpg
+URL=https://openload.co/f/orHiu0we1Uw/Asian_Sex_Diary.Bee.Morning.Great.Fuck.mp4
+
+type=video
+name=Asian Sex Diary.Bee.Good.Morning.Service 
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Bee_.Good_.Morning.Service.jpg
+URL=https://openload.co/f/QbsEYhzb9fw/Asian_Sex_Diary.Bee.Good.Morning.Service.mp4
+
 type=video
 name=100xxxxxxxxxxAsianSexDiary – An & Pob (Laos)
 thumb=https://erotic24hr.com/wp-content/uploads/2017/05/%E0%B8%A5%E0%B8%B2%E0%B8%A7-AsianSexDiary-An-Pob.jpg
@@ -56,14 +164,6 @@ type=video
 name=AsianSexDiary – Dera and Ayon
 thumb=https://erotic24hr.com/wp-content/uploads/2017/05/AsianSexDiary-Dera-and-Ayon.jpg
 URL=https://openload.co/f/fvCzJRBa0w0/AsianSexDiary_-_Dera_and_Ayon_%5BMovie-dd.com%5D.MP4.mp4
-
-# 2772545
-type=playlist
-name=XXX_JAV_18up_XXX
-thumb=https://4.bp.blogspot.com/-tteGFlL6TlU/WK0IJqSmwnI/AAAAAAAAJ8c/J7m1yir8VZYzzEsa1QKSSHSvpkd5rvr3ACLcB/s1600/Screenshot_5.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx
-player=default
-rating=-1.00
 
 # 2773909
 type=video
