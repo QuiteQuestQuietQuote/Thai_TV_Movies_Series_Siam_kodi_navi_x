@@ -28,6 +28,134 @@ URL=
 
 
 
+
+
+
+type=video
+name=183xxxxxxxxxxxxxxxxxxxxLife Of Sex 2 (2017)
+thumb=https://4.bp.blogspot.com/-IIzefA9qpJE/WRr9SD6VlqI/AAAAAAAAIeA/g6HP3lc8pQIfzg0lj9uHCHTYdXulIXukACLcB/s1600/3SS.jpg
+URL=https://openload.co/f/OXs2rUHeak0/Life_Of_Sex_2_%282017%29.mp4
+
+type=video
+name=Life Of Sex (2017)
+thumb=https://2.bp.blogspot.com/-HvILm9SChWs/WRr9SBuGlxI/AAAAAAAAId8/dCNIiP9R4-MJMGjJfV9EmnPV0yUmuULdACLcB/s1600/3S.jpg
+URL=https://openload.co/f/GqHG0Iy3ko8/Life_Of_Sex_%282017%29.mp4
+
+type=video
+name=Swapping Wives (2017)
+thumb=https://4.bp.blogspot.com/-1pwGzCY_-z4/WRr8mktPWrI/AAAAAAAAId0/eT1hJ1c23_cIAZYYWmTMduA6WD94A79ogCLcB/s1600/3.jpg
+URL=https://openload.co/f/L37SQzlxczY/Swapping_Wives_%282017%29.mp4
+
+type=video
+name=THE HOUSEMAID (2010)
+thumb=https://1.bp.blogspot.com/-ZmDey61Y6Ls/WRr58qsPnhI/AAAAAAAAIdY/VVizsghBjv8WH5AYlxsear-Z8YcNljK0gCLcB/s1600/2.jpg
+URL=https://openload.co/f/PCVTQHhOCG8/THE_HOUSEMAID_%282010%29_%C3%A1%C3%83%C2%A7%C2%BB%C3%83%C3%92%C3%83%C2%B6%C2%B9%C3%92_%C3%8D%C3%82%C3%A8%C3%92%C3%8B%C3%A9%C3%92%C3%81.mkv.mp4
+
+type=video
+name=The Informers (2008)
+thumb=https://4.bp.blogspot.com/-TOWsmof6jAU/WRr4le5ZDKI/AAAAAAAAIdM/dB7jbnHblkMWEDPZXc3A838wA0k0MPrcwCLcB/s1600/1s.jpg
+URL=https://openload.co/f/-Bcl8xBaRW8/The.Informers.2008.1080p.BluRay.x264.mkv.mp4
+
+type=video
+name=Mirror Images (1992)
+thumb=https://1.bp.blogspot.com/-nZZIBQa6KvQ/WRhqdHCCmBI/AAAAAAAAIcw/c_bxPSiSn1IvHwaXMIJwsUQ3IhW4kcr8QCLcB/s1600/8S.jpg
+URL=https://openload.co/f/k6ZYQCMX82U/Mirror_Images_1992_DVDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Mata Hari (1985)
+thumb=https://2.bp.blogspot.com/-KrZTm5Ca_z4/WRhpGk6rjnI/AAAAAAAAIck/iPa4oSq-uWYc9gb4SqGYRKE1oFXncgxiQCLcB/s1600/8.jpg
+URL=https://openload.co/f/NSN_r0jMBeI/Mata_Hari_%281985%29_720p_BluRay_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Ticket Coffee Shop (2017)
+thumb=https://1.bp.blogspot.com/-PZwpysOYgl4/WRhm-KAIcZI/AAAAAAAAIcE/iH95hLe9ZCYK-GrnE1iiXbwrd89WVmDcACLcB/s1600/5SS.jpg
+URL=https://openload.co/f/j7LnLgk0Pzo/Ticket_Coffee_Shop_2017_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Infidelity Sex Stories 2 (2011) (EngSub)
+thumb=https://3.bp.blogspot.com/-7G6cIG1Wq6M/WRhoJzVpBnI/AAAAAAAAIcc/PoFttF4HIdsuPOlBKroBRf2MoUXZ7IcrQCLcB/s1600/7.jpg
+URL=https://openload.co/f/P-MpaNgYBGI/Infidelity_Sex_Stories_2_2011_EngSub_DVDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Island Of Desire (2017)
+thumb=https://3.bp.blogspot.com/-F3teIvpB0Ic/WRhm-OXsFzI/AAAAAAAAIcI/oYlI77kbpWscQs3F592uTyI3CKccKctoACLcB/s1600/5S.jpg
+URL=https://openload.co/f/wv-3lbX3FmM/Island_Of_Desire_2017_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=writing woman (2016)
+thumb=https://4.bp.blogspot.com/-9v76rIX0CbA/WRhm-QhtlGI/AAAAAAAAIcM/SqVpKtVNEPUlqrTifS4Cbe1PUAqTLyC9wCLcB/s1600/5.jpg
+URL=https://openload.co/f/-B4tXCamYqM/writing_woman_2016_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Mayonakawa (2013)
+thumb=https://1.bp.blogspot.com/-6t8ZQOQ-KdU/WRhkw6cQmpI/AAAAAAAAIb4/JAHGsqXiIQ0GqKqlM5Ry30IputlfrL1xwCLcB/s1600/4SSS.jpg
+URL=https://openload.co/f/0UTj2MjJtSc/Mayonakawa_2013_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=RUN AWAY (2014)
+thumb=https://4.bp.blogspot.com/-Z-mLMeBiZBY/WRhkwUNpDTI/AAAAAAAAIbw/yAdOZdQx-lE2ndQsOjWUtIxcuI078er4ACLcB/s1600/4SS.jpg
+URL=https://openload.co/f/XXELfGhGST0/RUN_AWAY_2014_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Woman next door
+thumb=https://2.bp.blogspot.com/-HRIkJa5vz6o/WRhkwQgGQhI/AAAAAAAAIb0/bxXoY9kuKF4TfGK5DQH1lvlywHsuvrB4wCLcB/s1600/4S.jpg
+URL=https://openload.co/f/0Qh7nXy7x3E/Woman_next_door_2004_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=bus guide hot spring (2001)
+thumb=https://4.bp.blogspot.com/-Nf8bcplvfU0/WRhkwUSKigI/AAAAAAAAIbs/CjOZL3Fsn6wUog5_SbU5CJrhB3M7zYncwCLcB/s1600/4.jpg
+URL=https://openload.co/f/GGhCfw03BjQ/bus_guide_hot_spring_2001_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=honhanzaishi yokubonoana (2013)
+thumb=https://2.bp.blogspot.com/-8pcbw9dSmeA/WRbvZejvF7I/AAAAAAAAIaI/CXvJDCrbMPQIdnQkMmcpk_7pT1Va_ZAeACLcB/s1600/3SSS.jpg
+URL=https://openload.co/f/6okvYqo1QRI/honhanzaishi_yokubonoana_2013_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Kind Mother-in-law: Love Son-in-law (2017)
+thumb=https://4.bp.blogspot.com/-0DhkKDMbY9Y/WRbvYv1eIjI/AAAAAAAAIaA/ktJ_ISpf3osV971eRXfhnqHe38Ic1J4qwCLcB/s1600/3SS.jpg
+URL=https://openload.co/f/f09FpHCSwpo/Kind_Mother-in-law%3A_Love_Son-in-law_2017_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Chiyome takeda (2015)
+thumb=https://2.bp.blogspot.com/-UuKwm2Y_vSE/WRbvYrsfsaI/AAAAAAAAIaE/WOwBxWySLFIRqjLHiPkSqxrlSEY44tX1ACLcB/s1600/3S.jpg
+URL=https://openload.co/f/rnFXqpaIUH4/Chiyome_takeda_2015_HDRip.Layar-21.com%5D.mp4
+
+type=video
+name=Atsui Nikutai (2003)
+thumb=https://1.bp.blogspot.com/-62Jc-X4-7b0/WRbvYqEtieI/AAAAAAAAIZ8/sajurdW0L8oIMYn_EcjegX3sQc0MFnHlgCLcB/s1600/3.jpg
+URL=https://openload.co/f/6pqWToax560/Atsui_Nikutai_2003_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Giboseihonnou (2010)
+thumb=https://1.bp.blogspot.com/-qCeBdsQtw14/WRbtDVfZUbI/AAAAAAAAIZw/_I5S_GjjxNccqX93ej5dALS1qcn3-WQzACLcB/s1600/2SSS.jpg
+URL=https://openload.co/f/HoPnXg6wuOE/Giboseihonnou_2010_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Terumae Alien (2015)
+thumb=https://4.bp.blogspot.com/-c7kb8TyLi0w/WRbtClyX_mI/AAAAAAAAIZk/CZuiDQHw7NkCQgxGTYiZZ5YMrK0bEN0LgCLcB/s1600/2SS.jpg
+URL=https://openload.co/f/tN2E_nOyIAg/Terumae_Alien_2015_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Stress And Frustration (2007)
+thumb=https://3.bp.blogspot.com/-AA4ftSXEOL4/WRbtDDKWF_I/AAAAAAAAIZs/CPe-syS4kq0KrKefQPVREH9BRP08ev6agCLcB/s1600/2S.jpg
+URL=https://openload.co/f/G_ZU_nxd5zw/Stress_And_Frustration_2007_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Prohibited Swapping Mother Sisters (2015)
+thumb=https://1.bp.blogspot.com/-kwxHDgPq70I/WRbtCwsr_UI/AAAAAAAAIZo/yGa0T03k4cEwZ4XankMPqOtoRAWn_7B6QCLcB/s1600/2.jpg
+URL=https://openload.co/f/YPeU6umUF4o/Prohibited_Swapping_Mother_Sisters_2015_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Facing Off In Dresses (2009)
+thumb=https://3.bp.blogspot.com/-5VR_QT5v5GI/WRbq6c0bYDI/AAAAAAAAIZY/72RIguv7nGIx4TplCdM7Z_msLMN9ofUNgCLcB/s1600/1sssss.jpg
+URL=https://openload.co/f/QIfYQxTi_wc/Facing_Off_In_Dresses_2009_HDRip_%5BLayar-21.com%5D.mp4
+
+
+
+
+
+
 type=video
 name=159xxxxxxxxxxxxxxxxxxxxLove Mark (2007)
 thumb=https://2.bp.blogspot.com/-aLX7Ew15eZQ/WRbq6YmaZMI/AAAAAAAAIZU/BqAHE1YDl5YBzfQd9u5NAgaUZfDmDwIHgCLcB/s1600/1ssss.jpg
@@ -132,6 +260,11 @@ type=video
 name=Son loves mothers soft skin (2017)
 thumb=https://4.bp.blogspot.com/-E9r7GaX04BE/WRRvwkQrUcI/AAAAAAAAIVA/DnudJiGMMms_om9L0Fk0-6P3QNy0bk8kACLcB/s1600/1.jpg
 URL=https://openload.co/f/Rv9NJb4YIqo/Son_loves_mothers_soft_skin_2017_%5BMovie-dd.com%5D
+
+
+
+
+
 
 type=video
 name=138xxxxxxxxxxxxxxxxxxxxDon’t Fuck in the Woods (2016)
@@ -327,6 +460,11 @@ type=video
 name=My Girlfriend Sexy (2012)
 thumb=https://2.bp.blogspot.com/-oPN6LCYR2O8/WQtWJCgjoWI/AAAAAAAAIMo/_67K7vM1ukY7HG4s_Dcn85GTWrZBU_x8wCLcB/s320/3S.jpg
 URL=https://openload.co/f/1SbqEl8u8zs/My_Girlfriend_Sexy_2012_HDRip_%5BMovie-dd.com%5D
+
+
+
+
+
 
 type=video
 name=99xxxxxxxxxxxxxxxxxxxxbeauty in the moonlight (2014)

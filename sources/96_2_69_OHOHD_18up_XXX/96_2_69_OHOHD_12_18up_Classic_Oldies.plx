@@ -24,6 +24,157 @@ thumb=
 URL=
 
 
+
+
+
+
+
+
+
+
+type=video
+name=186xxxxxxxxxxxxxxxxxxxxArabella l’angelo nero (1989)
+thumb=https://2.bp.blogspot.com/-vYRoeR9EU9k/WBxp5XwZ-0I/AAAAAAABF-U/1pIFgNSAtLwerq6-yctTB_JGvlhw-ERVgCLcB/s1600/4.jpg
+URL=https://openload.co/f/x7ZfGWW3bH4/Arabella_l%27angelo_nero.avi.mp4
+
+type=video
+name=O Olho Magico do Amor (1981)
+thumb=https://4.bp.blogspot.com/-hb5ToEFjb8U/WBxpZj8eovI/AAAAAAABF-M/teHl5IvThwA2d709B3dnKKgHtIQC5sR4wCLcB/s1600/3.jpg
+URL=https://openload.co/f/3HmIUYUxkzk/O_Olho_M%C3%A1gico_do_Amor_%281981%29
+
+type=video
+name=Una ragazza piuttosto complicata (1969)
+thumb=https://2.bp.blogspot.com/-GR9C6s8prRs/WBxoudPZDTI/AAAAAAABF-E/7C3U4-jeZ-ECEUAKc4a6NVPmDLoGF6uAgCLcB/s1600/2.jpg
+URL=https://openload.co/f/siynTDW3IqE/Una_ragazza_piuttosto_complicata_%281969%29
+
+type=video
+name=Pensione Amore – SerVizio completo (1979)
+thumb=https://4.bp.blogspot.com/-JNv86wjYVqg/WBxoOPBucAI/AAAAAAABF-A/ZxJZYZUDLs0zi2XGh1xvULDhsGyAjQ-dQCLcB/s1600/1.jpg
+URL=https://openload.co/f/EtcNyoe8Mtg/Pensione_Amore_-_SerVizio_completo_%281979%29
+
+type=video
+name=Sex and Astrology (1971)
+thumb=https://4.bp.blogspot.com/-wOs8HiiTbqw/WBskfcdKfeI/AAAAAAABF5o/219Qq9kMqXctnU7u5LT20x6SQqGRYrYIgCLcB/s1600/3.jpg
+URL=https://openload.co/f/AR1p2sXL83c/Sex_and_Astrology_%281971%29.mkv.mp4
+
+type=video
+name=Pio thermi kai ap’ ton ilio (1972)
+thumb=https://3.bp.blogspot.com/-rmghosAxJ6g/WBsgxPX8CgI/AAAAAAABF5Y/71-Z2AJVeRY6B2OFIUPlrkm0rHncsX3PQCLcB/s1600/2.jpg
+URL=https://openload.co/f/SrN4NAQqbps/The_Two_Faces_of_Love_%281972%29_--_Omiros_Efstratiadis.mkv.mp4
+
+type=video
+name=Puberty Blues (1981)
+thumb=https://4.bp.blogspot.com/-FhsovHLDWko/WBsgOwSOSuI/AAAAAAABF5U/h62cleRaaUAUr8bWs066dXm9kf64gzssQCLcB/s1600/1.jpg
+URL=https://openload.co/f/Sa7jkIH8lQw/Puberty_Blues_%281981%29
+
+type=video
+name=Subway Serial Rape (1985)
+thumb=https://1.bp.blogspot.com/-BI68RbtyEVE/WBsX56OBaXI/AAAAAAABF3Y/RbbpMnP1YVIRbXiffaQNmS2Sng-NwLrjQCLcB/s1600/7.jpg
+URL=https://openload.co/f/Uq4RxnxtxzU/Subway.Serial.Rape.1985.DVDRip_Erotic
+
+type=video
+name=Prison Heat 1993
+thumb=https://2.bp.blogspot.com/-E8s5YDi3g_g/WBqwamJwBGI/AAAAAAABFzs/wz307EG6MPc64ykHNNq-NS2yZW6IzkVqwCLcB/s1600/MV5BZGQ1NDhiYTktOTQ3OC00ZTViLWJjN2EtZmI2YmQ4M2Q5N2NhXkEyXkFqcGdeQXVyNjExODE1MDc%2540._V1_UY268_CR0%252C0%252C182%252C268_AL_.jpg
+URL=https://openload.co/f/F_HTSNRGKgw/Prison_Heat_1993.mp4
+
+type=video
+name=99 Women (1969)
+thumb=https://4.bp.blogspot.com/-hMiCcaRtjaU/WBqv8W48CoI/AAAAAAABFzk/TLg0vlxqHFMRlnMQbZMldfHSgF1N80C4wCLcB/s1600/99%2BWomen%2B%25281969%2529.jpeg
+URL=https://openload.co/f/kfbWptwYLtM/99_Women_%281969%29.mp4
+
+type=video
+name=Eaten Alive / Mangiati vivi! (1980)
+thumb=https://3.bp.blogspot.com/-RKBdg1NEoI8/WBqvXZbtZ1I/AAAAAAABFzg/Ae-BAx_2o5M6uSAiDF3lE-d3S9oVhF-ZgCLcB/s1600/Eaten.Alive_.jpg
+URL=https://openload.co/f/GVyKtFPkMkk/Eaten_Alive.mp4
+
+type=video
+name=42nd Street Forever, Volume 1 (2005)
+thumb=https://1.bp.blogspot.com/-cntE7Juxg1s/WBnmSBVeeVI/AAAAAAABFzQ/_zfOYfMzN3cgCvQkwWx0R9JPi7pk2YxWwCLcB/s1600/2.jpg
+URL=https://openload.co/f/-2lT8_lBOvU/42nd_Street_Forever_Vol.1_%282005%29.avi.mp4
+
+type=video
+name=Anomaloi erotes sti Santorini (1983)
+thumb=https://4.bp.blogspot.com/-1yU8MKBp-90/V8Q5-d_HtwI/AAAAAAAAMWY/zgmPwJ_8lscD7wneM5I5N-srdEgsq2QcQCLcB/s400/Anomaloi%2Berotes%2Bsti%2BSantorini%2B%25281983%25292.png
+URL=https://openload.co/f/beXIBuJA3AE/Anomaloi_erotes_sti_Santorini_%281983%29.mp4
+
+type=video
+name=Female Ninjas Magic Chronicles (1991)
+thumb=https://4.bp.blogspot.com/-9AN4TWCkyks/WBnkHPKW1RI/AAAAAAABFys/j5Ilhj_vNbkKCj_Gcw6lqcZr0T16ZC_TwCLcB/s1600/12.jpeg
+URL=https://openload.co/f/a2pTBCizkUM/Female.Ninjas.Magic.Chronicles.01.1991.DVDRip_Erotic
+
+type=video
+name=Initiation au college (1979)
+thumb=https://3.bp.blogspot.com/-2p3WqYxvVHQ/WBnaA4jI0II/AAAAAAABFw8/TsHcb1r0tKUDezOt6N9dFDFCu7FAP6PNQCLcB/s1600/2.jpg
+URL=https://openload.co/f/VMfWm79lqaw/Initiation.au.college.1979.avi.mp4
+
+
+
+
+
+type=video
+name=171xxxxxxxxxxxxxxxxxxxxTriple X Selects: The Best of Lezsploitation (2007)
+thumb=https://2.bp.blogspot.com/-_rSjM8AIfT4/WBnZien8OvI/AAAAAAABFw4/2a9ZQVjqCRINTv_jT8c0vNnAws2tCJz1ACLcB/s1600/1.jpg
+URL=https://openload.co/f/k66pYvT-tdI/Triple_X_Selects_The_Best_of_Lezsploitation.avi.mp4
+
+type=video
+name=Butterfly (1982)
+thumb=https://1.bp.blogspot.com/-yVIC2mgq_dQ/WBi1ExtyuaI/AAAAAAABFsM/qjG6H_nhzSA15_gzrG_Pirg8f4R5sk17gCLcB/s1600/6.jpg
+URL=https://openload.co/f/2NI8lstbOXg/butterfly.vob.mp4
+
+type=video
+name=Appassionata (1974)
+thumb=https://3.bp.blogspot.com/-Ea4Ar34UFKw/WBidMEyVPDI/AAAAAAABFpg/kyXZsgrv--IKxOD72RBGfppvdTQUBB2TACLcB/s320/3.jpg
+URL=https://openload.co/f/x7ku7bRIpVU/Appassionata.mkv.mp4
+
+type=video
+name=Baixio das Bestas (2007)
+thumb=https://3.bp.blogspot.com/-_E31TBbocuo/WBicx6UsMHI/AAAAAAABFpc/WwrTsVh383kEtvHzIRmNs9b2S3nF5XkewCLcB/s320/2.jpg
+URL=https://openload.co/f/4jHR_xNxVkc/Baixio_das_Bestas.DVDRip.XviD.avi.mp4
+
+type=video
+name=The Girl (1987) (B)
+thumb=https://1.bp.blogspot.com/-lS2-RlVGvLY/V71y92y6Q0I/AAAAAAAAMR0/fPb4YsGKCSU3zHdd-xvS5r4QsePi9dnwgCLcB/s400/The-Girl-1987-CD2.avi_000071971.jpg
+URL=https://openload.co/f/Zk1sqNr1H4A/The.Girl.1986.VHSRip.XviD.CD2-gg.avi.mp4
+
+type=video
+name=The Girl (1987) (A)
+thumb=https://2.bp.blogspot.com/-q-5CBGmAhIs/WBiaqI36iqI/AAAAAAABFpM/LFTIgg0K1Hs4Pamx0Xofgk3DKusZVXqqQCLcB/s1600/1.jpg
+URL=https://openload.co/f/B3chXBwPBZE/The.Girl.1986.VHSRip.XviD.CD1-gg.avi.mp4
+
+type=video
+name=Lust in Hell 2: Farewells (2010) (Japanese with English subtitles)
+thumb=https://1.bp.blogspot.com/-v3c9CtLS4ws/WBcfpUpe_tI/AAAAAAABFfQ/iDEHlCQEPa0VW12Tmi0DlzhvsGswgdvnQCLcB/s1600/10.jpg
+URL=https://openload.co/f/MfKnWdtsA3U/Lust.in.Hell.2%3A_Farewells.2010.DVDRip_Erotic
+
+type=video
+name=Injo Shuuyoujo Prison Amazones (2009)
+thumb=https://4.bp.blogspot.com/-9BHoqkllBFA/WBceMVlaJqI/AAAAAAABFfI/jhOvh6MfhlsORWZ6WmEkxsh7fDoak1NlwCLcB/s1600/9.jpg
+URL=https://openload.co/f/s31C5lqWP0o/Injo.Shuuyoujo.Prison.Amazones.2009.DVDRip_Erotic
+
+type=video
+name=The Sex Thief (1974)
+thumb=https://3.bp.blogspot.com/-03V2CieFg5s/WBcXoG-ryfI/AAAAAAABFdE/PuavFLqbYHkJ56gpl3hsAth1tKRETRpKgCLcB/s1600/5.jpg
+URL=https://openload.co/f/Z1M9sl0cPUc/The_Sex_Thief_%281974%29.mp4
+
+type=video
+name=Last Summer (1969)
+thumb=https://1.bp.blogspot.com/-BOAPu5oL7u4/WBcXC_ex-yI/AAAAAAABFdA/jjJ-CvXLdYA-_jllkTml3v8hpYBOwx3swCLcB/s320/4.jpg
+URL=https://openload.co/f/zqHN5hc7ZnQ/Last_Summer.avi.mp4
+
+type=video
+name=Ninfetas do Sexo Selvagem (1983)
+thumb=https://3.bp.blogspot.com/-gZ08dSi_k-M/WBXuzWSvwlI/AAAAAAABFZs/yWRsrTPPNXsGCTbAOXlALPH0p10t2zPOQCLcB/s1600/5.jpg
+URL=https://openload.co/f/tpDcf0fsieU/Ninfetas_do_Sexo_Selvagem_%281983%29.avi.mp4
+
+type=video
+name=Teenage Cavegirl (2004)
+thumb=https://3.bp.blogspot.com/-kc-kZeVzAT0/WBXtlbe4byI/AAAAAAABFZI/RvouSc6klE06nAtuT5jEqPsgUyic6HihACLcB/s320/3.jpg
+URL=https://openload.co/f/kZ-FLlTNhAg/Teenage.Cavegirl.2004.DVDRip_Erotic
+
+
+
+
+
 type=video
 name=159xxxxxxxxxxxxxxxxxxxxVirgin Dreams (1977)
 thumb=https://4.bp.blogspot.com/-pFjfSzv-Ggs/WBXnhglvSJI/AAAAAAABFY0/YbrCqjgZo8MS5kImTqXU2xqTbpDJYDqqwCLcB/s1600/2.jpg
@@ -83,6 +234,10 @@ type=video
 name=Retourne-moi c’est meilleur (1981)
 thumb=https://2.bp.blogspot.com/-p8CuFF1I_Jg/WBSA6qL7p-I/AAAAAAABFLk/9jSUpyZfLfIIMAcSKlHqFcqJ8l2cD6j6ACLcB/s320/2.jpg
 URL=https://openload.co/f/vgra837unfs/Retourne-moi_c%27est_meilleur_%281981%29.mp4
+
+
+
+
 
 type=video
 name=147xxxxxxxxxxxxxxxxxxxxThe Intruders (1975)
@@ -189,6 +344,10 @@ name=A Tara do Touro (1987)
 thumb=https://4.bp.blogspot.com/-o98UCbuUJ4I/WA9bEFgBmdI/AAAAAAABExU/QgO2bzmVPIUX7UsQhX_mARQ2aCW2mSD6ACLcB/s320/4.jpg
 URL=https://openload.co/f/I_25EPZZUM8/A_Tara_do_Touro_%281987%29
 
+
+
+
+
 type=video
 name=126xxxxxxxxxxxxxxxxxxxxI spilia tis amartias (1976)
 thumb=https://1.bp.blogspot.com/-ehmZ0Dna2GI/WA9aoQp5RqI/AAAAAAABExM/C2tnu4WFGfwBk7S_D6g_msh0DI4PWROsgCLcB/s1600/3.jpg
@@ -258,6 +417,10 @@ type=video
 name=Viaggio Nel Tempo 3
 thumb=https://4.bp.blogspot.com/-Tb2f05W5vOY/WAymOYxoaYI/AAAAAAABEkE/mjnm9sMqJaAgVmW_Gql0VCEEa1wHS2DMACLcB/s1600/1.jpg
 URL=https://openload.co/f/XbciUgKCmcg/Viaje_tiempo.3.guti.mp4
+
+
+
+
 
 type=video
 name=112xxxxxxxxxxxxxxxxxxxxNightmare Sisters (1988)

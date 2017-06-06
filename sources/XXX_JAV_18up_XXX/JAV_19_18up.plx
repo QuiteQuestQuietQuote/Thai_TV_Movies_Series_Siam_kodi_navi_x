@@ -26,6 +26,129 @@ URL=
 
 
 
+
+
+
+type=video
+name=41xxxxxxxxxxxxxxxxxxxxDVAJ-126 – Minami Mayu – While At Work On Top, She’s Getting Fooled With Below
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/DVAJ-126.jpg
+URL=https://openload.co/f/1Tn6nOtNoQk/JAV_DVAJ-126.mp4
+
+type=video
+name=NHDTA-841 – Unknown – My Sister Doesn’t Like Getting Fucked With A Condom On, So I Secretly Slipped It Off And Watched Her Go Wild! Multiple Orgasms! And Endless Family Creampies! 2
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/NHDTA-841.jpg
+URL=https://openload.co/f/2ZDksJs1Rac/JAV_NHDTA-841.mp4
+
+type=video
+name=EBOD-531 – Suzuki Koharu – Big Booty Pleasure – All The Ways To Enjoy An Itty Bitty Waist And Killer Curves
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/EBOD-531.jpg
+URL=https://openload.co/f/EPWSRCotPQ0/JAV_EBOD-531.mp4
+
+type=video
+name=JUX-870 – Oshima Yuka – Every Day I Face Inescapable Torture & Rape
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUX-870.jpg
+URL=https://openload.co/f/OGU1BdA5Qk8/JAV_JUX-870.mp4
+
+type=video
+name=SNIS-646 – Aizawa Yurina – Forced To Model Underwear.
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SNIS-646.jpg
+URL=https://openload.co/f/CkBvfKptcnE/JAV_SNIS-646.mp4
+
+type=video
+name=DJE-064 – Fukiishi Rena – Ripe And Ready!! How To Make Love To A Mature Woman
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/DJE-064.jpg
+URL=https://openload.co/f/50CDzSCL3Xs/JAV_DJE-064.mp4
+
+type=video
+name=MXGS-869 – Yume Kana – You’ll Absolutely Wanna Fuck Her – Clean-Up Blowjob
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MXGS-869.jpg
+URL=https://openload.co/f/CkGnmTfLz7s/JAV_MXGS-869.mp4
+
+type=video
+name=DVAJ-158 – Tachibana Ruri – [A Fresh Face] Everything About Ruri Tachibana Is Special
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/DVAJ-158.jpg
+URL=https://openload.co/f/HNpxahMP0-Q/JAV_DVAJ-158.mp4
+
+type=video
+name=JUX-878 – Hara Chitose – Mom’s Friend
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUX-878.jpg
+URL=https://openload.co/f/WammBh_ktFU/JAV_JUX-878.mp4
+
+type=video
+name=SGA-054 – Aoyama Mio – A Masochistic and Obedient Married Woman, Mio Aoyama , Age 32 In Her AV Debut
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SGA-054.jpg
+URL=https://openload.co/f/5buQxCEtN5I/JAV_SGA-054.mp4
+
+type=video
+name=SHKD-597 – Honda Riko – Fucked In Front Of Her Husband – Stolen Sweet Voice
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SHKD-597.jpg
+URL=https://openload.co/f/3iQavhl9hNw/JAV_SHKD-597.mp4
+
+type=video
+name=JUFD-607 – Ayatsuji Hotori – A Fresh Face Beauty With A Blinding Smile And A Marshmallow Soft G Cup Tit Body! Hotori Ayatsuji In Her AV Debut Enjoy The Moment When A 20 Year Old Student Cums For The First Time In Her Life
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUFD-607.jpg
+URL=https://openload.co/f/YiPbBQkm3ws/JAV_JUFD-607.mp4
+
+type=video
+name=EYAN-068 – Sanada Yukie – 18 Years Of Archery Experience! Ranked Third In Her Inter-High School Championships! This Slender F-Cup Hit Her Mark With Toned Upper Arms And Rock-Hard Abs!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/EYAN-068.jpg
+URL=https://openload.co/f/cTTdSybc-CU/JAV_EYAN-068.mp4
+
+type=video
+name=WAT-004 – Kanae Ruka – NEW WATER POLE
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/WAT-004.jpg
+URL=https://openload.co/f/WIDR6lasn1w/JAV_WAT-004.mp4
+
+type=video
+name=MXGS-860 – Aoyama Hana – A Fresh Face, Hana Aoyama ~ A Former Weather Girl From A Local TV Station Makes Her AV Debut! Pussy Flooding Alert, Her Legs Will Be Spreading Wide For An Early AV Cherry Blossoming!!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MXGS-860.jpg
+URL=https://openload.co/f/klyxOp4VLvU/JAV_MXGS-860.mp4
+
+type=video
+name=JUX-912 – Haneda Riko – But I SAID
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUX-912.jpg
+URL=https://openload.co/f/pidtRRbGGQk/JAV_JUX-912.mp4
+
+type=video
+name=IPZ-801 – Amami Tsubasa – Red-Hot Heaven – Fucks On Location In The Tropics
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/IPZ-801.jpg
+URL=https://openload.co/f/tHeHWBrXQlQ/JAV_IPZ-801.mp4
+
+type=video
+name=JUFD-563 – Usui Saryu – Peeping Shaved Pussy Massage ~ A Beautiful Secretary Writhes In The Pleasure Of Pissing Shame
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUFD-563.jpg
+URL=https://openload.co/f/BD2FV8DpEK0/JAV_JUFD-563.mp4
+
+type=video
+name=XRW-167 – Hoshikawa Uika – I..want to be tied up -Real Piano Teacher Uika Hoshikawa S-M Debut
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/XRW-167.jpg
+URL=https://openload.co/f/o-9L9W6-6B0/JAV_XRW-167.mp4
+
+type=video
+name=RBD-766 – Kawakami Nanami – Slave-Colored Stage 30
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/RBD-766.jpg
+URL=https://openload.co/f/HxwnYGmQWwY/JAV_RBD-766.mp4
+
+type=video
+name=JUX-872 – Usui Satomi – Ready For Real Creampies Married Teacher Inner-Vaginal Ejaculation 101
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUX-872.jpg
+URL=https://openload.co/f/jNJ4OLJ2UHQ/JAV_JUX-872.mp4
+
+type=video
+name=DVDMS-003 – Unknown – Normal People Testing AV Turning Boys Into Men With Way Older Women On The Other Side Of The Mirror Is Her Son!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/DVDMS-003.jpg
+URL=https://openload.co/f/enL39C5fUd8/JAV_DVDMS-003.mp4
+
+type=video
+name=MXGS-873 – Matsushita Miori – A Soapland Brothel With Raw Fucking Creampie Service
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MXGS-873.jpg
+URL=https://openload.co/f/nmKmftXQXQM/JAV_MXGS-873.mp4
+
+
+
+
+
+
 type=video
 name=18xxxxxxxxxxxxxxxxxxxxIPZ-751 – Nozomi Mayu – Videos-Video On Demand-Adult Movies-Detail Cutie Perverted Gal, Sweet Little Devil. The Temptation Of A Very Sweet, Teasing Little Devil
 thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/IPZ-751.jpg
