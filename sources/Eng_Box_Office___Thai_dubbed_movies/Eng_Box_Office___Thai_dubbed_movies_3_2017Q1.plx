@@ -26,38 +26,23 @@ URL=
 
 
 type=video
-name=Wonder Woman (2017) ENG
+name=Wonder Woman (2017) ENG updated TS
 thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
-URL=https://openload.co/f/J1ZE7e6QtBc/WW_2017_HDTS_%5BLayar-21.com%5D.mp4
+URL=https://openload.co/f/5Tj0YNyAHcw/Wonder.Woman.2017.HDTS.x264-DiRG.mp4
 
 type=video
-name=Baywatch (2017) RUS
+name=Baywatch (2017) ENG updated uncut
 thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
-URL=https://openload.co/f/DdYmPdg4WMk/B_2017_CAMRip_%5BLayar-21.com%5D.mp4
+URL=https://openload.co/f/hpjHXzuPF0o/BW_2017_HDCAM_%5BLayar-21.com%5D.mp4
 
 type=video
 name=Deep (2017) RUS
 thumb=https://image.tmdb.org/t/p/w640/bVGA7LzL7uKasrweoRufITfMdYv.jpg
 URL=https://openload.co/f/TAQ9pCr9r6c/D_2017_CAMRip_%5BLayar-21.com%5D.mp4
 
-# 2773789
-type=video
-name=Guardians of the Galaxy Vol. 2 (2017) ENG updated
-thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
-URL=https://openload.co/f/zPPzhO9zC_A/Guardians.of.the.Galaxy.Vol.2.2017.NEW.HDCAM.x264.HQMic-CPG.mkv.mp4
-player=default
-rating=-1.00
-description=The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage./description
 
-# 2776076
-type=video
-name=The Fate of the Furious (2017) ENG updated3 hdtc
-thumb=http://image.tmdb.org/t/p/w500/iNpz2DgTsTMPaDRZq2tnbqjL2vF.jpg
-date=2017-05-09
-URL=https://openload.co/f/LcmX-3Q2hW0/T-T-T.2017.720p.HDTC.x264.AC3.TiTAN.mkv.mp4
-player=default
-rating=-1.00
-description=When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before./description
+
+
 
 # 2776075
 type=video
@@ -79,15 +64,7 @@ player=default
 rating=-1.00
 description=An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world./description
 
-# 2773931
-type=video
-name=Baahubali: The Beginning (2015) HIN ENG sub
-thumb=http://image.tmdb.org/t/p/w500/5uurRfH9KdMiecCNTzO1MSi9Tqw.jpg
-date=2017-05-06
-URL=https://openload.co/f/w26285Ef_OY/Baahubali.The_Beginning.%282015%29.720p.BluRay.mp4
-player=default
-rating=-1.00
-description=The young Shivudu is left as a foundling in a small village by his mother. By the time heâ??s grown up, it has become apparent that he possesses exceptional gifts. He meets the beautiful warrior/princess Avanthika and learns that her queen has been held captive for the last 25 years. Shividu sets off to rescue her, discovering his own origins in the process./description
+
 
 # 2773806
 type=video
@@ -156,14 +133,7 @@ player=default
 rating=-1.00
 description=Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story of Verena, a solemn nurse drawn to aid a young boy who has fallen silent since the sudden passing of his mother./description
 
-# 2773793
-type=video
-name=Ghost in the Shell (2017) ENG updated
-thumb=http://image.tmdb.org/t/p/w500/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg
-URL=https://openload.co/f/FFVCnmb2CsQ/G-T-S.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-player=default
-rating=-1.00
-description=In the near future, Major is the first of her kind: a human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals./description
+
 
 # 2773619
 type=video
@@ -192,14 +162,7 @@ player=default
 rating=-1.00
 description=Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money./description
 
-# 2772898
-type=video
-name=The Boss Baby (2017) ENG updated
-thumb=http://image.tmdb.org/t/p/w500/unPB1iyEeTBcKiLg8W083rlViFH.jpg
-URL=https://openload.co/f/VHhtu8UVlT8/The.Boss.Baby.2017.HDTS.XviD-VAiN.avi.mp4
-player=default
-rating=-1.00
-description=A story about how a new baby's arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim./description
+
 
 # 2772462
 type=video
@@ -228,23 +191,9 @@ player=default
 rating=-1.00
 description=In a twisted social experiment, a group of 80 Americans are locked in their high-rise corporate office in BogotÃ¡, Colombia and ordered by an unknown voice coming from the company's intercom system to participate in a deadly game of kill or be killed./description
 
-# 2771813
-type=video
-name=Smurfs: The Lost Village (2017) ENG
-thumb=http://image.tmdb.org/t/p/w500/swt9crREg1UcKgg3wGWfoFNlXOz.jpg
-URL=https://openload.co/f/6-2gfBuLxqM/S_T_L_V_2017_HDCAM_%5BLayar-21.com%5D.mp4
-player=default
-rating=-1.00
-description=In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history./description
 
-# 2771589
-type=video
-name=Kong: Skull Island (2017) ENG
-thumb=http://image.tmdb.org/t/p/w500/5wBbdNb0NdGiZQJYoKHRv6VbiOr.jpg
-URL=https://openload.co/f/R_1TzA-W8J4/K-o-n-g_Sk-u-ll_Is-l-a-nd_2017_HC_HDRip_XviD_AC3-EVO.avi.mp4
-player=default
-rating=-1.00
-description=Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island./description
+
+
 
 # 2771592
 type=video
@@ -281,14 +230,7 @@ URL=https://openload.co/f/phEBgPTbT-Y/Diamond_Cartel_2017_HDRip_%5BLayar-21.com%
 player=default
 rating=-1.00
 
-# 2770830
-type=video
-name=Power Rangers (2017) ENG
-thumb=http://image.tmdb.org/t/p/w500/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg
-URL=https://openload.co/f/fKX6GBw7xnI/Power.Rangers.2017.HD-TS.x264.AC3-CPG.mkv.mp4
-player=default
-rating=-1.00
-description=Saban's Power Rangers follows five ordinary teens who must become something extraordinary when they learn that their small town of Angel Grove â?? and the world â?? is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before itâ??s too late, band together as the Power Rangers./description
+
 
 # 2770463
 type=video
@@ -299,14 +241,7 @@ player=default
 rating=-1.00
 description=The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles./description
 
-# 2769629
-type=video
-name=Beauty and the Beast (2017) ENG
-thumb=http://image.tmdb.org/t/p/w500/tnmL0g604PDRJwGJ5fsUSYKFo9.jpg
-URL=https://openload.co/f/y7fJZh6Hj84/e-B-T-B.2017.HD-TS.x264-CPG.mkv.mp4
-player=default
-rating=-1.00
-description=A live-action adaptation of Disney's version of the classic 'Beauty and the Beast' tale of a cursed prince and a beautiful young woman who helps him break the spell./description
+
 
 # 2768541
 type=video
@@ -610,9 +545,9 @@ thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMTEzMzQ2NjU1MjVeQTJeQ
 URL=https://openload.co/f/_vlz-uFXxbg/%5BT%5DThe_Hunter%27s_Prayer_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B8_%282017%29
 
 type=video
-name=A Silent Voice (2017) CAM SOUND
-thumb=https://4.bp.blogspot.com/-n9DlExpxoWM/WSJCdOfU0xI/AAAAAAAAMjQ/RDRbXAX5Xx0rYN0Wj2NHER85NCIZYCvdwCLcB/s1600/A%2BSilent%2BVoice%2B%25282017%2529%2B%25E0%25B8%25A3%25E0%25B8%25B1%25E0%25B8%2581%25E0%25B9%2584%25E0%25B8%25A3%25E0%25B9%2589%25E0%25B9%2580%25E0%25B8%25AA%25E0%25B8%25B5%25E0%25B8%25A2%25E0%25B8%2587.png
-URL=https://openload.co/f/eP1lJB_cFEU/A_Silent_Voice_%282017%29_%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87.mp4
+name=A Silent Voice (2016) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/9GHOlikofBgnm7OS2VpUQ8TqZU2.jpg
+URL=https://openload.co/f/WTUKXYuOK38/%5BT%5DKoe_no_katachi_2016
 player=default
 rating=-1.00
 
@@ -712,7 +647,7 @@ type=video
 name=Logan (2017)
 thumb=http://image.tmdb.org/t/p/w500/45Y1G5FEgttPAwjTYic6czC9xCn.jpg
 date=2017-05-09
-URL=https://openload.co/f/0AzwGnYFiac/%7BMINI_Super-HQ%7D_LOGAN.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+URL=https://openload.co/f/OiHWTsGGO4A/%7BMINI_Super-HQ%7D_LOGAN.2017.1080p.BrRip.DTS.x264.THB_NongZEZA%40CtHts.mkv.mp4
 player=default
 rating=-1.00
 description=In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan's attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces./description
