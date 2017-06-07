@@ -25,10 +25,7 @@ URL=
 
 
 
-type=video
-name=Wonder Woman (2017) ENG updated TS
-thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
-URL=https://openload.co/f/5Tj0YNyAHcw/Wonder.Woman.2017.HDTS.x264-DiRG.mp4
+
 
 type=video
 name=Baywatch (2017) ENG updated uncut
@@ -282,6 +279,14 @@ type=video
 name=
 thumb=
 URL=
+
+
+
+
+type=video
+name=Wonder Woman (2017) CAM
+thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
+URL=https://openload.co/f/AjVfzWYIiSc/Wonder.Woman.2017.HDTS.x264-DiRG_eee_2p_%282%29.mkv.mp4
 
 type=video
 name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) CAM
