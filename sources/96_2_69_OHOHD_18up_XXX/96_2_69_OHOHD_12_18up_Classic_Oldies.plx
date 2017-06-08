@@ -18,14 +18,54 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 player=default
 rating=-1.00
 
+
+
+
+
 type=video
-name=
-thumb=
-URL=
+name=Profissao Mulher (1982)
+thumb=https://1.bp.blogspot.com/-YI73c8SXirs/WB82CljwckI/AAAAAAABGLM/cLuK4BSAV28ZcDcVYbukEpIpiMScowmvwCLcB/s1600/10.jpg
+URL=https://openload.co/f/-Iq7Suf7uhk/Profissao.Mulher.1982.TVRip_rip_by_Eudes.avi.mp4
 
+type=video
+name=Blow Hard (1996)
+thumb=https://2.bp.blogspot.com/-OwoduuH6pVg/WB8sCccaNXI/AAAAAAABGJQ/6YtvoXPneBcDil2YGCvUyR_LlVC2-pujACLcB/s1600/7S.jpg
+URL=https://openload.co/f/pXhP0Vaq_k0/Blow_Hard
 
+type=video
+name=Alucinacoes Sexuais de um Macaco (1986)
+thumb=https://4.bp.blogspot.com/-QaRCnJEONxs/WB3mM3k0b7I/AAAAAAABGF4/lr84w8cqF54Y3EhhdOscKlQwL6xiUnpawCLcB/s1600/15.jpg
+URL=https://openload.co/f/wZpw2lXouWI/Alucina%C3%A7%C3%B5es_Sexuais_de_um_Macaco_%281986%29
 
+type=video
+name=3 in a Towel (1969)
+thumb=https://4.bp.blogspot.com/-4mpj7QQ_Pzs/WB3lprXDtgI/AAAAAAABGFw/kL3JUnxXJwAOgNHs-YdiUEugr3gTSG_tACLcB/s320/14.jpg
+URL=https://openload.co/f/G93DjVMSV0Y/3_in_a_Towel_%281969%29.mkv.mp4
 
+type=video
+name=Tokyo X Erotica (2001)
+thumb=https://4.bp.blogspot.com/-FYtYm9FHu14/WB3hyzIFJzI/AAAAAAABGFA/mTSx0NfuDiU6bm7SRdASgYQGghaUr0QjwCLcB/s1600/11SSSSSS.jpg
+URL=https://openload.co/f/zd_WAPp_AXY/Tokyo.X.Erotica.2001.DVDRip_Erotic
+
+type=video
+name=Love from Paris (1970)
+thumb=https://1.bp.blogspot.com/-bDcCAYzUV3E/WB3cO1XSfGI/AAAAAAABGEQ/MGkyPoxfL-0_PJS2BP0ZzPZwfZRoMEBigCLcB/s1600/9.jpg
+URL=https://openload.co/f/-f9NIWAngXY/Love_from_Paris_%281970%29.mkv.mp4
+
+type=video
+name=That 70’s Girl (2003)
+thumb=https://2.bp.blogspot.com/-rQNchslTY3M/WB3bz796WzI/AAAAAAABGEI/_uuScI3_ZIMEwgxU9w7JHNik44OKxjXEgCLcB/s1600/8.jpg
+URL=https://openload.co/f/7-RofzAwoTQ/That_70s_Girl_%282003%29.avi.mp4
+
+type=video
+name=Emmanuelle 6 (1988)
+thumb=https://2.bp.blogspot.com/-df4xTGMuy6U/WB3bPaOmwoI/AAAAAAABGEE/EAwy9OZNAMImUaTQkYHBumzeftQAQ3LVgCLcB/s1600/7.jpg
+URL=https://openload.co/f/XwtKxl9J374/Emmanuelle_6_%281988%29.avi.mp4
+
+type=video
+name=Groper Train : Wedding Capriccio (1984)
+thumb=https://2.bp.blogspot.com/-TJj7POI7hec/WBxvW1KbASI/AAAAAAABF-k/eBNGnU56LGEa9MWsQjw1_70k0WEd-TfyACLcB/s1600/5.jpg
+URL=https://openload.co/f/s2hCP6_mZFU/Groper.Train.Wedding.Capriccio.1984.DVDRip_Erotic
 
 
 

@@ -21,10 +21,99 @@ rating=-1.00
 
 
 
+
+
+
+
+
+
+
 type=video
-name=
-thumb=
-URL=
+name=Chikan Monogatari (2005)
+thumb=https://1.bp.blogspot.com/-jQLbHtAZIt0/WRw_MjgjRhI/AAAAAAAAIhM/2HpM857-fhkvkO5-WdWTwKHN533SuRbDgCLcB/s1600/8.jpg
+URL=https://openload.co/f/MpGi_0mdhag/Chikan_Monogatari_2005_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Ninfetas do Sexo Ardente (1985)
+thumb=https://4.bp.blogspot.com/-cPWqXxDv_T4/WRw6ereXPzI/AAAAAAAAIgc/_3bIswvmajUNxS4NXO4b_FsLxQptnOqOACLcB/s1600/4SSSS.jpg
+URL=https://openload.co/f/LGVGUqBoSRc/Ninfetas_do_Sexo_Ardente_%281985%29.mp4
+
+type=video
+name=Alpha Girls (2013)
+thumb=https://3.bp.blogspot.com/-hOgWuk7Zfu8/WRw5jdYjGHI/AAAAAAAAIgI/rDk8JlVipEkMupXeeZoNB9dizoPPFSL4gCLcB/s1600/4.jpg
+URL=https://openload.co/f/-V-2JdfR79E/Alpha_Girls_2013_WebRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Sheer Passion (1998)
+thumb=https://2.bp.blogspot.com/-KXILnKJyllc/WRw4j2Vp4HI/AAAAAAAAIf8/zd_XlVtYvMgIwsus_pq4OJMCToq2p0uxACLcB/s1600/3S.jpg
+URL=https://openload.co/f/2Ab8T-GcNdY/Sheer_Passion_1998_DVDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Atashira (2017)
+thumb=https://3.bp.blogspot.com/-r3iWmOUv94M/WRw4D-rHYXI/AAAAAAAAIf0/yI65nkICakwPhkNeHjTM_2vc_sBQRTeZACLcB/s1600/3.jpg
+URL=https://openload.co/f/WxnOxFFtrNE/Atashira_2017_BRRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Angel in white (2013)
+thumb=https://1.bp.blogspot.com/-p4TjtOjsnhU/WRw2JWL9BeI/AAAAAAAAIfo/YcurFVrMXSU_CPw_tReEGBK-v-EaUdpmACLcB/s1600/1sss.jpg
+URL=https://openload.co/f/n5P5PvoRFnU/Angel_in_white_2013_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Emotional Widow (2015)
+thumb=https://2.bp.blogspot.com/-zqLE2y-IVVE/WRw2IzZS2LI/AAAAAAAAIfk/Cknra_OLS0opvw_mbK6Uu8jriY8IquZNQCLcB/s1600/1ss.jpg
+URL=https://openload.co/f/yZ1nkCyVdig/Emotional_Widow_2015_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Forbidden story (2015)
+thumb=https://3.bp.blogspot.com/-0GVbftde0Ms/WRw2IyxIssI/AAAAAAAAIfg/VuiGTMCXLT0dZDhVVuPXzw3ZiAaw7enOQCLcB/s1600/1s.jpg
+URL=https://openload.co/f/JC6GblIJank/Forbidden_story_2015_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=secret of nasty mother 3 (2015)
+thumb=https://4.bp.blogspot.com/-5XMIl48Sw68/WRw2I0w9IEI/AAAAAAAAIfc/xsxNk7UhU8wTnaxfmqyukLh_tv8CuNlYwCLcB/s1600/1.jpg
+URL=https://openload.co/f/1mw5BUO8KsM/secret_of_nasty_mother_3_2015_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Ijinseikou (2002)
+thumb=https://1.bp.blogspot.com/-GaNsLw3x5wI/WRsDtSdUjSI/AAAAAAAAIfI/C88gZumtTyUAohIYHR7FlaiL1MsjdsWugCLcB/s1600/7SSS.jpg
+URL=https://openload.co/f/CFg0E_sTIKw/Ijinseikou_2002_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Affair of the couple (2015)
+thumb=https://1.bp.blogspot.com/-bUT_cvtHRrw/WRsDtUQbu6I/AAAAAAAAIfE/jxkx8hQrle43HI3n1GWEIvEAN-VmMqW8ACLcB/s1600/7SS.jpg
+URL=https://openload.co/f/sgOYSM4Qtnc/Affair_of_the_couple_2015_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Vincent N Roxxy (2016)
+thumb=https://4.bp.blogspot.com/-33sDkl34_pU/WRsB8JseokI/AAAAAAAAIe4/73Uyyg-Dmh08OD9jhFgpWU3Oe18bc8dNACLcB/s1600/6.jpg
+URL=https://openload.co/f/Sg9uAKtyEZ0/V_R_2016_WEB-DL_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Erotic Finger (2015)
+thumb=https://3.bp.blogspot.com/-Hxv5_2RXGbo/WRsBJSuy05I/AAAAAAAAIew/dbc-bdyuFs0JJXQRBrqT4NTIl0xGINc4ACLcB/s1600/5S.jpg
+URL=https://openload.co/f/NgxIUk5cM14/Erotic_Finger_2015_HDRip.Layar-21.com%5D.mp4
+
+type=video
+name=Total Frat Movie (2016)
+thumb=https://4.bp.blogspot.com/-uqMU_-xZRQI/WRsAZs4psbI/AAAAAAAAIeo/20BKlbOkHaQVhSF1brUoEdx5nTVuio1SACLcB/s1600/5.jpg
+URL=https://openload.co/f/tJjJNoGwsF0/T_F_M_2016_DVDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Fallen Angel (2012)
+thumb=https://2.bp.blogspot.com/-xUT3OaUExvw/WRr-02MB_MI/AAAAAAAAIeY/aPiTqPwOzoAhRdQ3GWjKTnrxKV4CDZ_1QCEw/s1600/4SSS.jpg
+URL=https://openload.co/f/ISuzg3Zy32w/Fallen_Angel_2012_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Visitor from Indecent dream (2015)
+thumb=https://2.bp.blogspot.com/-WeeFYl-9jOI/WRr-0eJQ5ZI/AAAAAAAAIeU/d6swn8sSY2sJRUko7YRznSEJSAP5ASsiwCEw/s1600/4SS.jpg
+URL=https://openload.co/f/MN_d7ly4mXg/Visitor_from_Indecent_dream_2015_HDRip.Layar-21.com%5D.mp4
+
+type=video
+name=Jisuroku onna (2015)
+thumb=https://1.bp.blogspot.com/-dCHGvUgBDV8/WRr-0RV1psI/AAAAAAAAIeM/nRfNdzIGAZAfMtNpK2HMkGVRQFnP63yewCEw/s1600/4S.jpg
+URL=https://openload.co/f/6qzgFON19zk/Jisuroku_onna_2015_HDRip_%5BLayar-21.com%5D.mp4
+
+
 
 
 

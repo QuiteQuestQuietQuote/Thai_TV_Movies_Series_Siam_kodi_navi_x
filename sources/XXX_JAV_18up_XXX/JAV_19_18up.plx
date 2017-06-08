@@ -28,6 +28,133 @@ URL=
 
 
 
+type=video
+name=65xxxxxxxxxxxxxxxxxxxxXVSR-103 – Nagase Mami – An Erotic Novel My Son’s Lover – A Lady
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/XVSR-103.jpg
+URL=https://openload.co/f/CKiEFSB9YxY/JAV_XVSR-103.mp4
+
+type=video
+name=MIGD-718 – Natsume Airi – Drinking The Cum Splattered All Over Her
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MIGD-718.jpg
+URL=https://openload.co/f/HQXB0cViB98/JAV_MIGD-718.mp4
+
+type=video
+name=MIAD-868 – Oshima Mio – Premature Ejaculation Cumming Schoolgirl
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MIAD-868.jpg
+URL=https://openload.co/f/NBiZNjyP-lk/JAV_MIAD-868.mp4
+
+type=video
+name=RDT-247 – Unknown – I Lent My Male Clothes To A Girl I Hadn’t Noticed Before, But I Saw Her Tits Spilling Out From The Gap In The Clothes… 3
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/RDT-247.jpg
+URL=https://openload.co/f/kpVJkn6SQDI/JAV_RDT-247.mp4
+
+type=video
+name=SHKD-696 – Hara Chitose – The Factory Owner’s Wife’s Wet Panties – Her Erotic Endeavors To Protect Her Husband
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SHKD-696.jpg
+URL=https://openload.co/f/p-fOsb6reJg/JAV_SHKD-696.mp4
+
+type=video
+name=STAR-676 – Kogawa Iori – Married Woman Abducted & Raped – Breaking IN A Rich Young Wife While Her Husband’s Away On Business – Creampie & Confinement
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/STAR-676.jpg
+URL=https://openload.co/f/2ruF0Vg7LwQ/JAV_STAR-676.mp4
+
+type=video
+name=SVDVD-541 – Aoba Yuuka, Mori Harura – Raping A Beautiful Female Anchor This G Cup Tit TV Announcer Is An Ultra High Class Prostitute
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SVDVD-541.jpg
+URL=https://openload.co/f/15hCPpw0LHA/JAV_SVDVD-541.mp4
+
+type=video
+name=SHKD-694 – Nada Jun – The Carnal Cravings Under My Mourning Dress
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SHKD-694.jpg
+URL=https://openload.co/f/TByFvBrEYnY/JAV_SHKD-694.mp4
+
+type=video
+name=MIAD-876 – Fukiishi Rena – Tan Lines
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MIAD-876.jpg
+URL=https://openload.co/f/PJ-LxXjHj0Y/JAV_MIAD-876.mp4
+
+type=video
+name=SNIS-684 – Asuka Kirara – Raw Tits For A Cherry Boy A Masturbation Service Where You Get To See Raw Tits, Ass And Pussy To Jack Off To Kirara Asuka Gets Her Maternal Instincts Tickled When She Sees This Cherry Boy With His Rock Hard Cock, So Will She Pop His Cherry? Will She GIve It Up For Him?
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SNIS-684.jpg
+URL=https://openload.co/f/oHeQT_A8wHY/JAV_SNIS-684.mp4
+
+type=video
+name=MIAD-936 – Mukai Ai – Dripping, Sweaty Sex With A Squirting Schoolgirl Ai Mukai
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MIAD-936.jpg
+URL=https://openload.co/f/X-g1j48ow7o/JAV_MIAD-936.mp4
+
+type=video
+name=PPPD-436 – Saijo Ruri – Colossal Tits Slut Wife Goes Man Hunting Tit Fucking Ejaculation Techniques
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/PPPD-436.jpg
+URL=https://openload.co/f/J7kZ-r79GdM/JAV_PPPD-436.mp4
+
+type=video
+name=SHKD-697 – KAORI – Prey of the Beasts
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SHKD-697.jpg
+URL=https://openload.co/f/ykcPhyrSD9s/JAV_SHKD-697.mp4
+
+type=video
+name=XVSR-139 – Misaki Aya – Confined Office Lady With A Doll’s Body
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/XVSR-139.jpg
+URL=https://openload.co/f/oYGMLQuQYBg/JAV_XVSR-139.mp4
+
+type=video
+name=IPZ-734 – Nozomi Mayu – Mayu Nozomi Gets Gang Raped And Strangled! Mercilessly Spanked! Gang Banged Into Oblivion! This Controversial Film Will Shock You To The Core!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/IPZ-734.jpg
+URL=https://openload.co/f/jjSXe38gPfI/JAV_IPZ-734.mp4
+
+type=video
+name=TEAM-086 – Suzumiya Suzu – Female Manager Used Daily Like A Sex Slave In The Club Room
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/TEAM-086.jpg
+URL=https://openload.co/f/SVwRpXrXaQo/JAV_TEAM-086.mp4
+
+type=video
+name=PPPD-463 – Shibuya Kaho – Hot Sex With A Clingy Guy Who Can’t End The Day Without Cumming Inside Ten Times!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/PPPD-463.jpg
+URL=https://openload.co/f/fn05dpTTp3U/JAV_PPPD-463.mp4
+
+type=video
+name=SW-405 – Unknown – I Caught My Sister And Her Friends Reading My Erotica And Getting Their Masturbation On!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SW-405.jpg
+URL=https://openload.co/f/BCeRnQ8KGYk/JAV_SW-405.mp4
+
+type=video
+name=STAR-523 – Sakura Mana – Hot Ass Temptation
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/STAR-523.jpg
+URL=https://openload.co/f/9CXeQgffnzw/JAV_STAR-523.mp4
+
+type=video
+name=EYAN-063 – Mitake Suzu – Young Wife Drugged And Fucked By Her Massage Therapist
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/EYAN-063.jpg
+URL=https://openload.co/f/qRfEJL8bl3M/JAV_EYAN-063.mp4
+
+type=video
+name=WANZ-486 – Sally – This Smoking Hot Babe’s Sex Skills Are So Amazing You’ll Stay Hard After 10 Creampies
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/WANZ-486.jpg
+URL=https://openload.co/f/p_EphuAN_pc/JAV_WANZ-486.mp4
+
+type=video
+name=TEAM-080 – Minato Riku – Riku Minato Shows Off Her Creampied Pussy
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/TEAM-080.jpg
+URL=https://openload.co/f/iRziAMbSpaI/JAV_TEAM-080.mp4
+
+type=video
+name=WANZ-490 – Aihara Tsubasa – Schoolgirl Creampie Soapland Brothel
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/WANZ-490.jpg
+URL=https://openload.co/f/3Q_BXSfQHLk/JAV_WANZ-490.mp4
+
+type=video
+name=STAR-672 – Sakura Mana – Climax Hell – 90 Sensitive, Trembling Orgasms, Huge Cocks – 15, 97 Dick Drillings
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/STAR-672.jpg
+URL=https://openload.co/f/TxZYZxAfUXA/JAV_STAR-672.mp4
+
+
+
+
+
+
+
+
 
 type=video
 name=41xxxxxxxxxxxxxxxxxxxxDVAJ-126 – Minami Mayu – While At Work On Top, She’s Getting Fooled With Below
