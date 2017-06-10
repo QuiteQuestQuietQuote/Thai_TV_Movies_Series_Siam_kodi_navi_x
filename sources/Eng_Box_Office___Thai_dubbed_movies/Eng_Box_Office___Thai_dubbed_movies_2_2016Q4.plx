@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772535
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
+thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -274,14 +274,7 @@ player=default
 rating=-1.00
 description=An aged don gets out of prison hoping to settle a few scores and learn about the fate of his family./description
 
-# 2761729
-type=video
-name=OPERATION MEKONG (sound zoom)
-thumb=http://image.tmdb.org/t/p/w500/cJMuw9fz22kvUyCUJfNGoKd7cOV.jpg
-URL=https://openload.co/f/1lp8fpLaX30/Operation_Mekong_%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B8%AD%E0%B8%94_%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94_%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B8.mp4
-player=default
-rating=-1.00
-description=Chinese narco-cops take their mission to the Golden Triangle following the Mekong River massacre of innocent fishermen by the region's drug lord./description
+
 
 # 2752619
 type=video
@@ -296,6 +289,20 @@ type=video
 name=
 thumb=
 URL=
+
+
+
+
+
+
+# 2761729
+type=video
+name=Operation Mekong (2016)
+thumb=http://image.tmdb.org/t/p/w500/cJMuw9fz22kvUyCUJfNGoKd7cOV.jpg
+URL=https://openload.co/f/eLikFC9TQZY/Operation_Mekong_%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B8%AD%E0%B8%94_%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94_%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B8_%282017%29.MP4.mp4
+player=default
+rating=-1.00
+description=Chinese narco-cops take their mission to the Golden Triangle following the Mekong River massacre of innocent fishermen by the region's drug lord./description
 
 # 2764316
 type=video

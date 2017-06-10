@@ -1,8 +1,8 @@
 ﻿version=1
-background=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
+background=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
-logo=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
+logo=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
+thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -27,6 +27,12 @@ URL=
 
 
 
+
+type=video
+name=The Mummy (2017) ENG
+thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
+URL=https://openload.co/f/sEj4ytJKvIo/The.M-u-m-m-y.2017.CAM.x264-NoGRP.mp4
+
 type=video
 name=Baywatch (2017) ENG updated2 UNCENSORED
 thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
@@ -39,7 +45,14 @@ URL=https://openload.co/f/TAQ9pCr9r6c/D_2017_CAMRip_%5BLayar-21.com%5D.mp4
 
 
 
-
+# 2773619
+type=video
+name=Unforgettable (2017) ENG updated
+thumb=http://image.tmdb.org/t/p/w500/eUGehaQhjc9Q8kqlZP16akfx7R4.jpg
+URL=https://openload.co/f/iaKfv0guJSs/U-n-f-o-r-ge--t-table.2017.HDCAM.x264-DiRG.mp4
+player=default
+rating=-1.00
+description=A woman sets out to make life hell for her ex-husband's new wife./description
 
 # 2776075
 type=video
@@ -132,14 +145,7 @@ description=Set in 1950s Tuscany, Voice from the Stone is the haunting and suspe
 
 
 
-# 2773619
-type=video
-name=Unforgettable (2017) RUS
-thumb=http://image.tmdb.org/t/p/w500/eUGehaQhjc9Q8kqlZP16akfx7R4.jpg
-URL=https://openload.co/f/eEOsg5QUZug/Unforgettable_2017_CAMRip_%5BLayar-21.com%5D.mp4
-player=default
-rating=-1.00
-description=A woman sets out to make life hell for her ex-husband's new wife./description
+
 
 # 2773618
 type=video
@@ -181,9 +187,9 @@ description=It's the summer before 6th grade, and Clark is the new-in-town birac
 
 # 2772370
 type=video
-name=The Belko Experiment (2017) ENG
+name=The Belko Experiment (2017) ENG updated
 thumb=http://image.tmdb.org/t/p/w500/knAqP7qDos8sWQpmPiGYFYwbdcK.jpg
-URL=https://openload.co/f/w2vyaUV9Y0k/T.B.E.2017.HDCAM.x264-DiRG.mp4
+URL=https://openload.co/f/tBaSDdL2OL4/The.B-e-l-ko.Ex-p-e-r-i-me-n--t.2016.BRRip.XviD.AC3-RBG.avi.mp4
 player=default
 rating=-1.00
 description=In a twisted social experiment, a group of 80 Americans are locked in their high-rise corporate office in BogotÃ¡, Colombia and ordered by an unknown voice coming from the company's intercom system to participate in a deadly game of kill or be killed./description
@@ -260,9 +266,9 @@ description=After 20 years abroad, Mark Renton returns to Scotland and reunites 
 
 # 2772899
 type=video
-name=The Carer (2017) ENG updated
+name=The Carer (2017) ENG updated2
 thumb=http://image.tmdb.org/t/p/w500/gseDYGjdlFfGPbpVzlE0IcyW2Ix.jpg
-URL=https://openload.co/f/ySvEqZmCeuE/The.C-a-r-er.2016.WEBRip.x264-Ltu.mkv.mp4
+URL=https://openload.co/f/npQ2srvsvWE/The.Carer.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 player=default
 rating=-1.00
 description=When the question is to be or not to be, there is only one answer./description
@@ -535,14 +541,7 @@ name=
 thumb=
 URL=
 
-# 2770301
-type=video
-name=Life (2017) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/h2mhfbEBGABSHo2vXG1ECMKAJa7.jpg
-URL=https://openload.co/f/yaIcAgQRl-I/Life.2017.1080p.KORSUB.HDRip.x264.AAC2.0-ThaiRong_%281%29.mkv.mp4
-player=default
-rating=-1.00
-description=The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected./description
+
 
 type=video
 name=The Hunter's Prayer (2017) CAM SOUND
@@ -635,6 +634,31 @@ URL=
 
 
 
+
+
+
+
+
+# 79
+type=video
+name=Life (2017)
+thumb=http://image.tmdb.org/t/p/w500/h2mhfbEBGABSHo2vXG1ECMKAJa7.jpg
+URL=https://openload.co/f/is-xWmhBnjo/%7BMINI_Super-HQ%7D_Life.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+description=The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected./description
+
+
+type=video
+name=Operation Chromite (2016)
+thumb=https://image.tmdb.org/t/p/w640/2qLiLE4XbNk3UrAmYaQfZMZ5INJ.jpg
+URL=https://openload.co/f/trLbv23h_1M/%7BMINI_Super-HQ%7D_Operation.Chromite.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+
+type=video
+name=A Hitman in London (2015)
+thumb=https://image.tmdb.org/t/p/w640/nNny6go0YRyJZ3El3HcujNTaIox.jpg
+URL=https://openload.co/f/J7q5Bqa1v_A/Skin_Traffik.mp4
+
 #76
 type=video
 name=Fathers (2016)
@@ -644,7 +668,7 @@ URL=https://openload.co/f/z3Aq6ivVSy4/Fathers_%282016%29_%E0%B8%9F%E0%B8%B2%E0%B
 type=video
 name=Max 2: White House Hero (2017)
 thumb=https://image.tmdb.org/t/p/w640/roIpyS1wlXFCiunN7WGkKSY3BGG.jpg
-URL=https://openload.co/f/DuHIT8YoQCU/Max_2_White_House_Hero_%282017%29_%E0%B9%81%E0%B8%A1%E0%B9%8A%E0%B8%81%E0%B8%8B%E0%B9%8C_2_%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%B2_%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%82%E0%B8%B2%E0%B8%A7.mp4
+URL=https://openload.co/f/DIdRtBej0bs/%7BMINI_Super-HQ%7D_Max.2.White.House.Hero.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 #74
 # 2776074
