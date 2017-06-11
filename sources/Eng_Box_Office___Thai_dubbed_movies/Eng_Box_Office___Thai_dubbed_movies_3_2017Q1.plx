@@ -255,14 +255,7 @@ player=default
 rating=-1.00
 description=After suffering a family tragedy, Mack Phillips spirals into a deep depression causing him to question his innermost beliefs. Facing a crisis of faith, he receives a mysterious letter urging him to an abandoned shack deep in the Oregon wilderness. Despite his doubts, Mack journeys to the shack and encounters an enigmatic trio of strangers led by a woman named Papa. Through this meeting, Mack finds important truths that will transform his understanding of his tragedy and change his life forever./description
 
-# 2768540
-type=video
-name=T2 Trainspotting (2017) ENG BRR
-thumb=http://image.tmdb.org/t/p/w500/A84pxL5z86KbV9u8GAK2mVOoXK.jpg
-URL=https://openload.co/f/BqXRpHVbZuk/T2.Trainspotting.2017.720p.BRRip.XviD.AC3-RARBG.avi.mp4
-player=default
-rating=-1.00
-description=After 20 years abroad, Mark Renton returns to Scotland and reunites with his old friends Sick Boy, Spud, and Begbie./description
+
 
 # 2772899
 type=video
@@ -567,7 +560,7 @@ type=video
 name=The Fate of the Furious (2017) CAM SOUND
 thumb=http://image.tmdb.org/t/p/w500/iNpz2DgTsTMPaDRZq2tnbqjL2vF.jpg
 date=2017-05-10
-URL=https://openload.co/embed/IGViWVDDre0/The.Fate.of.the.Furious.2017.1080p.KORSUB.mix.thai.mkv.mp4
+URL=https://openload.co/f/hsBTSVlZlRk/The.Fate.of.the.Furious.2017.1080p.WEB-DL%40lue123_%281%29.mkv.mp4.mp4
 player=default
 rating=-1.00
 description=When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before./description
@@ -637,7 +630,14 @@ URL=
 
 
 
-
+#80
+type=video
+name=T2 Trainspotting (2017)
+thumb=http://image.tmdb.org/t/p/w500/A84pxL5z86KbV9u8GAK2mVOoXK.jpg
+URL=https://openload.co/f/KCnNLlb35FU/%7BMINI_Super-HQ%7D_T2.Trainspotting.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+description=After 20 years abroad, Mark Renton returns to Scotland and reunites with his old friends Sick Boy, Spud, and Begbie./description
 
 # 79
 type=video
