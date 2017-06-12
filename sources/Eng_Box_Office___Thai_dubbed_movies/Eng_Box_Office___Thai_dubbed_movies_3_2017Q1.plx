@@ -28,10 +28,7 @@ URL=
 
 
 
-type=video
-name=The Mummy (2017) ENG
-thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
-URL=https://openload.co/f/sEj4ytJKvIo/The.M-u-m-m-y.2017.CAM.x264-NoGRP.mp4
+
 
 type=video
 name=Baywatch (2017) ENG updated2 UNCENSORED
@@ -281,6 +278,12 @@ URL=
 
 
 
+
+
+type=video
+name=The Mummy (2017) CAM
+thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
+URL=https://openload.co/f/xBU1mfxVZAA/The_Mummy_%282017%29_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%B5%E0%B9%88.mp4
 
 type=video
 name=Wonder Woman (2017) CAM
