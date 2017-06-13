@@ -29,10 +29,168 @@ URL=
 
 
 
+type=video
+name=145xxxxxxxxxxxxxxxxxxxxAsian Sex Diary Bik
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary-Bik.jpg
+URL=https://openload.co/f/JMAiDVbhTN4/Asian_Sex_Diary.Bik.mp4
+
+type=video
+name=Asian Sex Diary.Foam.File.Disaster
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Foam_.File_.Disaster.jpg
+URL=https://openload.co/f/wlU7ITbl-vg/Asian_Sex_Diary.Foam.File.Disaster.mp4
+
+type=video
+name=Asian Sex Diary.Chub.Jang
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Chub_.Jang_.jpg
+URL=https://openload.co/f/T1jnPGHZhf0/Asian_Sex_Diary.Chub.Jang.mp4
+
+type=video
+name=Asian Sex Diary.Arcel.Flashback.Audition 
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Arcel_.Flashback.Audition.jpg
+URL=https://openload.co/f/loKvut0C4iU/Asian_Sex_Diary.Arcel.Flashback.Audition.mp4
+
+type=video
+name=Asian Sex Diary.Ali
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Ali_.jpg
+URL=https://openload.co/f/EEWehY8S7aw/Asian_Sex_Diary.Ali.mp4
+
+type=video
+name=Asian Sex Diary.Jin
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Jin_.jpg
+URL=https://openload.co/f/Ju9BjxeRoXk/Asian_Sex_Diary.Jin.mp4
+
+type=video
+name=Asian Sex Diary.Gif.Oam.And.Po
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Gif.Oam_.And_.Po_.jpg
+URL=https://openload.co/f/ir1EUmoj-Do/Asian_Sex_Diary.Gif.Oam.And.Po.mp4
+
+type=video
+name=Asian Sex Diary.Gib.Dress.Revenge
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Gib_.Dress_.Revenge.jpg
+URL=https://openload.co/f/wUGGaQypIvg/Asian_Sex_Diary.Gib.Dress.Revenge.mp4
+
+type=video
+name=Asian Sex Diary.Jieb.Massage
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Jieb_.Massage.jpg
+URL=https://openload.co/f/3sBYKsM5HZw/Asian_Sex_Diary.Jieb.Massage.mp4
+
+type=video
+name=Asian Sex Diary.Lek
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Lek_.jpg
+URL=https://openload.co/f/ieyoU62ga3w/Asian_Sex_Diary.Lek.mp4
+
+type=video
+name=Asian Sex Diary.Aileen
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Aileen.jpg
+URL=https://openload.co/f/YCaQrLp7qYY/Asian_Sex_Diary.Aileen.mp4
+
+type=video
+name=Asian Sex Diary.Pui
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Pui_.jpg
+URL=https://openload.co/f/hAgMD2HTViI/Asian_Sex_Diary.Pui.mp4
+
+type=video
+name=Asian Sex Diary.Pui.Shoot
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Pui_.Shoot_.jpg
+URL=https://openload.co/f/z7CfqvE4Iuo/Asian_Sex_Diary.Pui.Shoot.mp4
+
+type=video
+name=Asian Sex Diary.Ping
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Ping_.jpg
+URL=https://openload.co/f/wvTdSK_IvDQ/Asian_Sex_Diary.Ping.mp4
+
+type=video
+name=Asian Sex Diary.Ping.2
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Ping_.2.jpg
+URL=https://openload.co/f/ktH4GfWl93Y/Asian_Sex_Diary.Ping.2.mp4
+
+type=video
+name=Asian Sex Diary.Lexi
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Lexi_.jpg
+URL=https://openload.co/f/CMr_lF-dz-I/Asian_Sex_Diary.Lexi.mp4
+
+type=video
+name=Asian Sex Diary.Mina.2
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Mina_.2.jpg
+URL=https://openload.co/f/nE34XzSIpF0/Asian_Sex_Diary.Mina.2.mp4
+
+type=video
+name=Asian Sex Diary.Nee
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Nee_.jpg
+URL=https://openload.co/f/yWje9qJPHLk/Asian_Sex_Diary.Nee.mp4
+
+type=video
+name=Asian Sex Diary.Anita.2
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Anita_.2.jpg
+URL=https://openload.co/f/NlHF20QTaGg/Asian_Sex_Diary.Anita.2.mp4
+
+type=video
+name=Asian Sex Diary.Mina.Morning
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Mina_.Morning.jpg
+URL=https://openload.co/f/VHsHWL2j6xQ/Asian_Sex_Diary.Mina.Morning.mp4
+
+type=video
+name=Asian Sex Diary.Kat
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Kat_.jpg
+URL=https://openload.co/f/ti0xy4WJPyo/Asian_Sex_Diary.Kat.mp4
+
+type=video
+name=Asian Sex Diary.Kat.Jomtien
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Kat_.Jomtien.jpg
+URL=https://openload.co/f/kU_9xszAnMc/Asian_Sex_Diary.Kat.Jomtien.mp4
+
+type=video
+name=Asian Sex Diary.Apple
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Apple_.jpg
+URL=https://openload.co/f/dM04q_tYYnk/Asian_Sex_Diary.Apple.mp4
+
+type=video
+name=Asian Sex Diary.Apple.Morning
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Apple_.Morning.jpg
+URL=https://openload.co/f/j29wm7lStlo/Asian_Sex_Diary.Apple.Morning.mp4
+
+
+
+
 
 
 type=video
-name=Nong BowGus
+name=125xxxxxxxxxxxxxxxxxxxxAsian Sex Diary.Nun
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Nun_.jpg
+URL=https://openload.co/f/Kjt5L1gRzTc/Asian_Sex_Diary.Nun.mp4
+
+type=video
+name=Asian Sex Diary.Pang 
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Pang_.jpg
+URL=https://openload.co/f/h3vCBnP9X-M/Asian_Sex_Diary.Pang.mp4
+
+type=video
+name=Asian Sex Diary.King.S.Short.Revisit
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.King_.S.Short_.Revisit.jpg
+URL=https://openload.co/f/w4ldqgIBDrE/Asian_Sex_Diary.King.S.Short.Revisit.mp4
+
+type=video
+name=Asian Sex Diary.Tun
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Tun_.jpg
+URL=https://openload.co/f/kA95FYoXwNw/Asian_Sex_Diary.Tun.mp4
+
+type=video
+name=Asian Sex Diary.Tip
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Tip_.jpg
+URL=https://openload.co/f/2MfsMOptIH4/Asian_Sex_Diary.Tip.mp4
+
+type=video
+name=Asian Sex Diary.Tip.S.Revisit
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Tip_.S.Revisit.jpg
+URL=https://openload.co/f/5wzNKOo163w/Asian_Sex_Diary.Tip.S.Revisit.mp4
+
+
+
+
+
+
+type=video
+name=119xxxxxxxxxxxxxxxxxxxxNong BowGus
 thumb=https://2.bp.blogspot.com/-xx77NK8LDDw/WTYRSNRnAZI/AAAAAAAAM-s/y7ofoTpuTU09SQqzwNrXZi3vZgwD10FFQCLcB/s1600/Screenshot_1.png
 URL=https://openload.co/f/crB_Sy-iF9U/bowgus.mp4
 

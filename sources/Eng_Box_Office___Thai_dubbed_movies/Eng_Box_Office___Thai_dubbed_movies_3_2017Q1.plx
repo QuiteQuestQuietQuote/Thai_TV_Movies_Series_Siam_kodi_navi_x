@@ -71,7 +71,14 @@ player=default
 rating=-1.00
 description=An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world./description
 
-
+# 2770463
+type=video
+name=CHiPS (2017) ENG updated BRR
+thumb=http://image.tmdb.org/t/p/w500/oyPcsfGWL5Se6RGW1JCVgpHlASH.jpg
+URL=https://openload.co/f/waqYTWAt0sY/C-h-i-p-s.2017.BRRip.XviD.AC3-RBG.avi.mp4
+player=default
+rating=-1.00
+description=The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles./description
 
 # 2773806
 type=video
@@ -232,14 +239,7 @@ rating=-1.00
 
 
 
-# 2770463
-type=video
-name=CHiPS (2017) ENG
-thumb=http://image.tmdb.org/t/p/w500/oyPcsfGWL5Se6RGW1JCVgpHlASH.jpg
-URL=https://openload.co/f/BYTK67Nog5U/Chips_2017_v2_RFix_HDCAM_x264-WAVE.mp4
-player=default
-rating=-1.00
-description=The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles./description
+
 
 
 
@@ -281,9 +281,9 @@ URL=
 
 
 type=video
-name=The Mummy (2017) CAM
+name=The Mummy (2017) CAM updated
 thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
-URL=https://openload.co/f/xBU1mfxVZAA/The_Mummy_%282017%29_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%B5%E0%B9%88.mp4
+URL=https://openload.co/f/-83pNicBMXg/V.1_The_Mummy_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%B5%E0%B9%88_%282017%29_MV_%281%29.mkv.mp4
 
 type=video
 name=Wonder Woman (2017) CAM
