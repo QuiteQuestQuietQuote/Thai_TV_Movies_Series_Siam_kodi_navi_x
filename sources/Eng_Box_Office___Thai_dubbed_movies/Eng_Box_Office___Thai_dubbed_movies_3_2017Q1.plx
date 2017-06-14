@@ -30,10 +30,7 @@ URL=
 
 
 
-type=video
-name=Baywatch (2017) ENG updated2 UNCENSORED
-thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
-URL=https://openload.co/f/vwfifuoeTqE/A-B-W.2017.TS.mkv.mp4
+
 
 type=video
 name=Deep (2017) RUS
@@ -280,6 +277,12 @@ URL=
 
 
 
+
+type=video
+name=Baywatch (2017) CAM
+thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
+URL=https://openload.co/f/cCmvvZHPXGQ/Baywatch_%282017%29_%E0%B9%84%E0%B8%A5%E0%B8%9F%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%AE%E0%B8%AD%E0%B8%95%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%AB%E0%B8%B2%E0%B8%94.mp4
+
 type=video
 name=The Mummy (2017) CAM updated
 thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
@@ -347,23 +350,9 @@ player=default
 rating=-1.00
 description=In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history./description
 
-# 2770638
-type=video
-name=Power Rangers (2017) CAM
-thumb=http://image.tmdb.org/t/p/w500/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg
-URL=https://openload.co/f/MMGl718d8lE/Power_Rangers_%282017%29_%E0%B8%9E%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%80%E0%B8%A3%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC.mp4
-player=default
-rating=-1.00
-description=Saban's Power Rangers follows five ordinary teens who must become something extraordinary when they learn that their small town of Angel Grove â?? and the world â?? is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before itâ??s too late, band together as the Power Rangers./description
 
-# 2769085
-type=video
-name=Beauty and the Beast (2017) CAM
-thumb=http://image.tmdb.org/t/p/w500/tnmL0g604PDRJwGJ5fsUSYKFo9.jpg
-URL=https://openload.co/f/Apz3iZS5eQA/Beauty_and_the_Beast_2017_%E0%B9%82%E0%B8%89%E0%B8%A1%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3.mp4
-player=default
-rating=-1.00
-description=A live-action adaptation of Disney's version of the classic 'Beauty and the Beast' tale of a cursed prince and a beautiful young woman who helps him break the spell./description
+
+
 
 # 2767795
 type=video
@@ -538,6 +527,24 @@ thumb=
 URL=
 
 
+
+# 2769085
+type=video
+name=Beauty and the Beast (2017) itune
+thumb=http://image.tmdb.org/t/p/w500/tnmL0g604PDRJwGJ5fsUSYKFo9.jpg
+URL=https://openload.co/f/lpvwYEBxhKk/Beauty_and_the_Beast_%282017%29_%281080P%29Itunes.mkv.mp4.mp4
+player=default
+rating=-1.00
+description=A live-action adaptation of Disney's version of the classic 'Beauty and the Beast' tale of a cursed prince and a beautiful young woman who helps him break the spell./description
+
+# 2770638
+type=video
+name=Power Rangers (2017) CAM SOUND
+thumb=http://image.tmdb.org/t/p/w500/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg
+URL=https://openload.co/f/xx8K7-6YxPM/Power.Rangers.2017.1080p.WEB-DL.THAIRONG.mkv.mp4
+player=default
+rating=-1.00
+description=Saban's Power Rangers follows five ordinary teens who must become something extraordinary when they learn that their small town of Angel Grove â?? and the world â?? is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before itâ??s too late, band together as the Power Rangers./description
 
 type=video
 name=The Hunter's Prayer (2017) CAM SOUND
