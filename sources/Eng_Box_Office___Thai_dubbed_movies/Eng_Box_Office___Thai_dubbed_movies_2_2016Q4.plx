@@ -60,10 +60,11 @@ rating=-1.00
 description=Susan Morrow receives a book manuscript from her ex-husband Ã??Ã?Â¢?? a man she left 20 years earlier Ã??Ã?Â¢?? asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a mathematics professor whose family vacation turns violent./description
 
 # 2771673
-type=script
-name=Thai__________________Thai
+type=video
+name=Thai__________________Thai-----MOVIE 1
 thumb=http://i.dailymail.co.uk/i/pix/2016/11/18/14/3A77935E00000578-3949706-Making_a_splash_The_fish_with_its_blue_red_and_white_horizontal_-m-13_1479477984350.jpg
-URL=https://openload.co/pair
+date=2017-06-15
+URL=rtmp://tv01.thaizatv.com/drm/movie1
 player=default
 rating=-1.00
 
@@ -220,14 +221,7 @@ URL=
 
 
 
-# 2765014
-type=video
-name=John Wick: Chapter 2 (2017) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/zkXnKIwX5pYorKJp2fjFSfNyKT0.jpg
-URL=https://openload.co/f/VfeO8Gcf2Ok/John.Wick.Chapter.2.2017.1080p.BluRay.x264.MIX.TH.R.mp4
-player=default
-rating=-1.00
-description=John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassinsâ?? guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the worldâ??s most dangerous killers./description
+
 
 # 2771287
 type=video
@@ -294,6 +288,17 @@ URL=
 
 
 
+
+
+# 2765014
+type=video
+name=John Wick: Chapter 2 (2017)
+thumb=http://image.tmdb.org/t/p/w500/zkXnKIwX5pYorKJp2fjFSfNyKT0.jpg
+date=2017-06-15
+URL=https://openload.co/f/Rez5uI3uD90/%7BMINI_Super-HQ%7D_John.Wick.2.2017.1080p.BrRip.DTS.x264.THM_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+description=John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassinsâ?? guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the worldâ??s most dangerous killers./description
 
 # 2761729
 type=video

@@ -21,6 +21,7 @@ rating=-1.00
 type=video
 name=
 thumb=
+date=
 URL=
 
 
@@ -261,16 +262,18 @@ rating=-1.00
 description=When the question is to be or not to be, there is only one answer./description
 
 # 2771674
-type=script
-name=Thai__________________Thai
+type=video
+name=Thai__________________Thai-----MOVIE 1
 thumb=http://i.dailymail.co.uk/i/pix/2016/11/18/14/3A77935E00000578-3949706-Making_a_splash_The_fish_with_its_blue_red_and_white_horizontal_-m-13_1479477984350.jpg
-URL=https://openload.co/pair
+date=2017-06-15
+URL=rtmp://tv01.thaizatv.com/drm/movie1
 player=default
 rating=-1.00
 
 type=video
 name=
 thumb=
+date=
 URL=
 
 
@@ -294,9 +297,10 @@ thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
 URL=https://openload.co/f/AjVfzWYIiSc/Wonder.Woman.2017.HDTS.x264-DiRG_eee_2p_%282%29.mkv.mp4
 
 type=video
-name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) CAM
+name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) CAM updated
 thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
-URL=https://openload.co/f/O_Hipq6LhWY/Pirates_of_the_Caribbean_5_Dead_Men_Tell_No_Tales_%282017%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%8A%E0%B8%B5%E0%B8%9E%5B%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%5D%5B1080%5D.mp4
+date=2017-06-15
+URL=https://openload.co/f/zgllm-DQfTc/Pirates_of_the_Caribbean-_Dead_Men_Tell_No_Tales_%282017%29.mp4
 player=default
 rating=-1.00
 
@@ -364,8 +368,18 @@ rating=-1.00
 description=Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island./description
 
 type=video
+name=Thi Baan The Series (2017) CAM
+thumb=https://image.tmdb.org/t/p/w640/bfKZUa3NaNHMZBxJG7pJSE9Rrl6.jpg
+URL=https://openload.co/f/OFq293KWwoY/Thi-Baan_The_Series_%282017%29_%E0%B9%84%E0%B8%97%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%8C%5B%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
+
+
+
+
+
+type=video
 name=
 thumb=
+date=
 URL=
 
 type=video
@@ -524,18 +538,17 @@ description=When Michelle, the CEO of a gaming software company, is attacked in 
 type=video
 name=
 thumb=
+date=
 URL=
 
 
 
-# 2769085
-type=video
-name=Beauty and the Beast (2017) itune
-thumb=http://image.tmdb.org/t/p/w500/tnmL0g604PDRJwGJ5fsUSYKFo9.jpg
-URL=https://openload.co/f/lpvwYEBxhKk/Beauty_and_the_Beast_%282017%29_%281080P%29Itunes.mkv.mp4.mp4
-player=default
-rating=-1.00
-description=A live-action adaptation of Disney's version of the classic 'Beauty and the Beast' tale of a cursed prince and a beautiful young woman who helps him break the spell./description
+
+
+
+
+
+
 
 # 2770638
 type=video
@@ -633,12 +646,34 @@ description=After an alien ship crash lands onto a Russian city, many who have s
 type=video
 name=
 thumb=
+date=
 URL=
 
 
 
 
 
+
+#83
+type=video
+name=The Last Face (2016)
+thumb=https://image.tmdb.org/t/p/w640/egOM3BJgA44fR6YdiQJD51iQ4On.jpg
+date=2017-06-15
+URL=https://openload.co/f/7wTyMpDQeGQ/%7BMINI_Super-HQ%7D_The.Last.Face.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+
+type=video
+name=My Way (2011)
+thumb=https://image.tmdb.org/t/p/w640/ax7ip8TOZSA2vNr4ssyYTOBtl8k.jpg
+URL=https://openload.co/f/HfD2TlO0U18/My.Way.2011.720p.DD5.1.x264-CpT.mkv.mp4
+
+# 2769085
+type=video
+name=Beauty and the Beast (2017)
+thumb=http://image.tmdb.org/t/p/w500/tnmL0g604PDRJwGJ5fsUSYKFo9.jpg
+URL=https://openload.co/f/8zrL6u4DeJ0/%7BMINI_Super-HQ%7D_Beauty.And.The.Beast.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+description=A live-action adaptation of Disney's version of the classic 'Beauty and the Beast' tale of a cursed prince and a beautiful young woman who helps him break the spell./description
 
 #80
 type=video
@@ -653,7 +688,7 @@ description=After 20 years abroad, Mark Renton returns to Scotland and reunites 
 type=video
 name=Life (2017)
 thumb=http://image.tmdb.org/t/p/w500/h2mhfbEBGABSHo2vXG1ECMKAJa7.jpg
-URL=https://openload.co/f/is-xWmhBnjo/%7BMINI_Super-HQ%7D_Life.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+URL=https://openload.co/f/XdPGlq5yzb4/%7BMINI-HQ%7D_Life.2017.1080p.BrRip.AAC.x264.CtHts_-_PORSC.mkv.mp4
 player=default
 rating=-1.00
 description=The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected./description
@@ -1317,5 +1352,10 @@ player=default
 rating=-1.00
 description=Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope./description
 
+type=script
+name=
+thumb=
+date=
+URL=
 
 # memcached
