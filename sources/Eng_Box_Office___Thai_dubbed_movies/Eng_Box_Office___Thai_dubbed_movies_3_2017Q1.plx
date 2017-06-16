@@ -282,9 +282,10 @@ URL=
 
 
 type=video
-name=Baywatch (2017) CAM
+name=Baywatch (2017) CAM updated UNCEN
 thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
-URL=https://openload.co/f/cCmvvZHPXGQ/Baywatch_%282017%29_%E0%B9%84%E0%B8%A5%E0%B8%9F%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%AE%E0%B8%AD%E0%B8%95%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%AB%E0%B8%B2%E0%B8%94.mp4
+date=2017-06-16
+URL=https://openload.co/f/6Ofv0uUcw_U/Baywatch.2017.HDTS.UNCENSORED.x264.ThaiRong-CpT.mkv.mp4
 
 type=video
 name=The Mummy (2017) CAM updated
@@ -652,7 +653,11 @@ URL=
 
 
 
-
+type=video
+name=13 Assassins (2010)
+thumb=https://image.tmdb.org/t/p/w640/7Vr1c98X9JaKW6K95Xm6KBqiqDg.jpg
+date=2017-06-16
+URL=https://openload.co/f/SJBRq8lquuY/%7BMiniHQ%7D_13.Assassins.2010.EXTENDED.1080p.DTS.BrRip.x264-joythun.mkv.mp4
 
 #83
 type=video

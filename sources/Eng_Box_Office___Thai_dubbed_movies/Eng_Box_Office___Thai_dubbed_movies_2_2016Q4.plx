@@ -1,8 +1,8 @@
 version=1
-background=http://image.tmdb.org/t/p/w500/1pHOqpdCYNmtRVJs6pGKQKttrPm.jpg
+background=http://image.tmdb.org/t/p/w500/zkXnKIwX5pYorKJp2fjFSfNyKT0.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_2_2016Q4 [COLOR=FF888888]�[/COLOR] 1 to 198 of 199
-logo=http://image.tmdb.org/t/p/w500/1pHOqpdCYNmtRVJs6pGKQKttrPm.jpg
-icon_playlist=http://image.tmdb.org/t/p/w500/1pHOqpdCYNmtRVJs6pGKQKttrPm.jpg
+logo=http://image.tmdb.org/t/p/w500/zkXnKIwX5pYorKJp2fjFSfNyKT0.jpg
+icon_playlist=http://image.tmdb.org/t/p/w500/zkXnKIwX5pYorKJp2fjFSfNyKT0.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies./description
 
 type=playlist
