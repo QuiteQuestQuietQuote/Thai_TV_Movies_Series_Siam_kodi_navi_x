@@ -31,6 +31,123 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+type=video
+name=29xxxxxxxxxxxxxxxxxxxxNude (2010)
+thumb=https://2.bp.blogspot.com/-ozseEGg1468/WCcfM65AO8I/AAAAAAABGog/5CAl06JiU8kIYkKU7cb-OoCfkWplv8UzACLcB/s1600/1.jpg
+date=2017-06-18
+URL=https://openload.co/f/ucddCSoekJU/Nude.2010.JAP.DVDRip_Erotic
+
+type=video
+name=Entrails of a Virgin (1986)
+thumb=https://1.bp.blogspot.com/-NxqwajlZims/WCbAzdokJCI/AAAAAAABGlg/AtpplTKxI00eYK2UV4Vb6TZQ9EZ4j3OKgCLcB/s1600/538ffd74e56710a65de67d1fdcd335ff.jpg
+date=2017-06-18
+URL=https://openload.co/f/MfFFgCftD-o/Entrails.of.a.Virgin.1986
+
+type=video
+name=Subway Serial Rape (1986)
+thumb=https://1.bp.blogspot.com/-3JEqxnPiGPg/WCap_goeuqI/AAAAAAABGlQ/z0QI-mvci6kmtr8041IEOMr70HXV0tc0gCLcB/s1600/ePrsZHkKLMgcY3NL2DWiVZQTxPG.jpg
+date=2017-06-18
+URL=https://openload.co/f/V5vHFLgjy0U/Subway.Serial.Rape.1985
+
+type=video
+name=Linda (1981)
+thumb=https://2.bp.blogspot.com/-xoia35cd8aw/WCXVEe4UIiI/AAAAAAABGlA/Qiw0oVoinsIF71JbWagyPVkFGbKUjvaHACLcB/s1600/2S.jpeg
+date=2017-06-18
+URL=https://openload.co/f/3YlbLNXkCf0/Linda_%281981%29.mkv.mp4
+
+type=video
+name=Shifshuf Naim (1981)
+thumb=https://2.bp.blogspot.com/-P8hjIe9JQLs/WCWpt-zy5ZI/AAAAAAABGkQ/99oM79AMfrMbpxKRQNgzTuRCQtGxQ-uCQCLcB/s1600/8.jpg
+date=2017-06-18
+URL=https://openload.co/f/rXAJvyhh308/Lemon_Popsicle_III_%281981%29.mkv.mp4
+
+type=video
+name=Viaje a Bangkok, ataud incluido (1985)
+thumb=https://2.bp.blogspot.com/-OIbyt1q-rCw/WCWo7dNZrKI/AAAAAAABGkI/PouZuv2AfSAKCiy_u-82ZcM4ttJhpKmKwCLcB/s1600/7.jpg
+date=2017-06-18
+URL=https://openload.co/f/g79fpSBmhLo/viajeabangkok-CG.avi.mp4
+
+type=video
+name=Too Much Flesh (2000)
+thumb=https://3.bp.blogspot.com/-xMlw-e7cQbk/WCWoe_MwvXI/AAAAAAABGkE/W8iL8z-2nNAxjMkcA_AorwrkRRQtAoMugCLcB/s1600/6.jpg
+date=2017-06-18
+URL=https://openload.co/f/GBWvYdq-iT8/Too_Much_Flesh.avi.mp4
+
+type=video
+name=Rope and Discipline (1981)
+thumb=https://2.bp.blogspot.com/-EqP5sJa3oVI/WCUuAUXmIMI/AAAAAAABGiA/EEKzjGn51ScLlfLgIqWjVRbvKidFc2k_wCLcB/s1600/0018e3b5_medium.jpeg
+date=2017-06-18
+URL=https://openload.co/f/dqka96ruf1w/Rope.and.Discipline.1981.DVDRip.Layar-21.com.mp4
+
+type=video
+name=All About Anna (2005)
+thumb=https://4.bp.blogspot.com/-rWmCTWnaFhg/WCRs8zUcSqI/AAAAAAABGgk/iWsLZcvOfWYphUNR8w2eFR1p4Xgd4QGAACLcB/s1600/9.jpg
+date=2017-06-18
+URL=https://openload.co/f/H6HBEnLvwQc/All.About.Anna.2005%5D%5BDVDrip%5D.avi.mp4
+
+type=video
+name=Frustration (1971)
+thumb=https://3.bp.blogspot.com/-oYdnIiiHWhs/WCRp4W2EkvI/AAAAAAABGgc/1fcN0904i90LAl431gBcqFCwTX13KON7QCLcB/s1600/8.jpg
+date=2017-06-18
+URL=https://openload.co/f/7gH4U8gsKAo/Frustration_1971.mkv.mp4
+
+type=video
+name=Playa azul (1982)
+thumb=https://2.bp.blogspot.com/-YYHHBY2UfXY/WCRpZH2iBTI/AAAAAAABGgU/b_3tH5LSYXgmsDWNh1dMQNBXizh8ac5YQCLcB/s1600/6.jpg
+date=2017-06-18
+URL=https://openload.co/f/bl9NXmW_qPc/Playa_azul.avi.mp4
+
+type=video
+name=Pretty Peaches (1978)
+thumb=https://3.bp.blogspot.com/-N4lXAFaZ7_s/WCRorDtfzFI/AAAAAAABGgQ/RWUa9LSlBDw4Ey08VtWWvd989HkTNE58wCLcB/s1600/5.jpg
+date=2017-06-18
+URL=https://openload.co/f/C2bUC5SRE1M/Pretty_Peaches_%281978%29.mp4
+
+type=video
+name=In the Realm of the Senses (1976)
+thumb=https://3.bp.blogspot.com/-csC-0mqnGAE/WCRjM9N5iGI/AAAAAAABGe0/6oSU2qyRckEOrwzmpihx6RhdLKTzMXnNwCLcB/s1600/1.jpg
+date=2017-06-18
+URL=https://openload.co/f/9Hdjh_LMJZk/In_the_Realm_of_the_Senses_%281976%29.mp4
+
+type=video
+name=Happy End (1999)
+thumb=https://3.bp.blogspot.com/-XNeKkvlqewA/WCMcT8vpJFI/AAAAAAABGZ0/wo461y9Ke3cRzqvEqT3i5nxWYoTwVQ2FACLcB/s1600/1.jpg
+date=2017-06-18
+URL=https://openload.co/f/IgQ7i1ey4AA/Happy.End.1999.BluRay_Erotic
+
+type=video
+name=Norma (1970)
+thumb=https://2.bp.blogspot.com/-43Vs2gvHlOM/WCMlP2fUE5I/AAAAAAABGa0/6sLFy-MtFQYX7ecPTDe7LVa9ii5Z8eDngCLcB/s1600/4.jpg
+date=2017-06-18
+URL=https://openload.co/f/edemVN6DNz0/Norma.1970.dvdrip.x264.chef.CG.avi.mp4
+
+type=video
+name=La mia preda (1990)
+thumb=https://1.bp.blogspot.com/-FsC3sEL8rGM/WCMlw_ihIBI/AAAAAAABGa4/jdYJNXkhd78at-YRg7tQQzHJcmIT2wRNQCLcB/s1600/5.jpg
+date=2017-06-18
+URL=https://openload.co/f/ITVo0NWetOg/La_mia_Preda.avi.mp4
+
+type=video
+name=Fleshpot on 42nd Street (1973)
+thumb=https://4.bp.blogspot.com/-xop6PvoaHdg/WCMmOo7O04I/AAAAAAABGa8/uz-cE4sRP0UpqDqjDWLN2aUIub1rhpwSwCLcB/s1600/6.jpg
+date=2017-06-18
+URL=https://openload.co/f/Q547daoXxLg/Fleshpot_on_42nd_Street_%281973%29.mkv.mp4
+
+
+
+
+
+
+
 type=video
 name=12xxxxxxxxxxxxxxxxxxxxAmazonia: The Catherine Miles Story (1985)
 thumb=https://3.bp.blogspot.com/-nD4xmqvCsZ4/WCJ7AKT2kII/AAAAAAABGWw/JcAhGlB7Pd8b42Er4fLAu6JUtXojCLuVwCLcB/s1600/amazonia-the-catherine-miles-story-movie-poster-1985-1020468165.jpg

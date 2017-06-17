@@ -22,7 +22,72 @@ rating=-1.00
 type=video
 name=
 thumb=
+date=
 URL=
+
+
+
+
+
+
+
+
+
+type=video
+name=172xxxxxxxxxxxxxxxxxxxxHold Me Once Again 2012
+thumb=http://erotic24hr.com/wp-content/uploads/2017/05/Hold-Me-Once-Again-2012.jpg
+date=2017-06-18
+URL=https://openload.co/f/bhBWLOM64_4/Hold_Me_Once_Again_%282012%29_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Japanese Lovers 3 2017
+thumb=http://erotic24hr.com/wp-content/uploads/2017/04/Japanese-Lovers-3-2017.jpg
+date=2017-06-18
+URL=https://openload.co/f/hMM_spU1tLU/mofoxxx-japanese.lovers.3_%5BMovie-dd.com%5D
+
+type=video
+name=JAV UNCENSORED LAFBD-75 – LAFORET GIRL 75 TOO REAL TO ERO CREAM PIE
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/JAV-UNCENSORED-LAFBD-75.jpg
+date=2017-06-18
+URL=https://openload.co/f/arHDNdnkPGI/JAV_LAF-75.mp4
+
+type=video
+name=JAV UNCENSORED DSAM-107 – HARUA NARUMIYA IS MY WIFE
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/JAV-UNCENSORED-DSAM-107.jpg
+date=2017-06-18
+URL=https://openload.co/f/Cu0WTsBnhEs/JAV_DSAM-107.mp4
+
+type=video
+name=JAV UNCENSORED LAF-76 – LAFORET GIRL 76 WHICH GIRL WILL YOU PICK TONIGHT
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/JAV-UNCENSORED-LAF-76.jpg
+date=2017-06-18
+URL=https://openload.co/f/hLrLl_qRXSo/JAV_LAF-76.mp4
+
+type=video
+name=JAV UNCENSORED DSAM-103 – GOOD TO GRADUATE CRB48 BUT TOUGH REALITY – AKUBI YUMEMI
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/JAV-UNCENSORED-DSAM-103.jpg
+date=2017-06-18
+URL=https://openload.co/f/mLp9FMIgfzA/JAV_DSAM-103.mp4
+
+type=video
+name=JAV UNCENSORED DSAM-106 – EXCITED AMATEUR GIRL – TSUKUSHI MAMIYA
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/JAV-UNCENSORED-DSAM-106.jpg
+date=2017-06-18
+URL=https://openload.co/f/fPbxm7s6pHo/JAV_DSAM-106.mp4
+
+type=video
+name=JAV UNCENSORED SMBD-43 – S MODEL 43 – KANNA ITOU
+thumb=http://erotic24hr.com/wp-content/uploads/2016/09/JAV-UNCENSORED-SMBD-43.jpg
+date=2017-06-18
+URL=https://openload.co/f/-nblWOp_9tY/JAV_smbd-43.mp4
+
+type=video
+name=JAV MXGS-881 – TRANSFORMATION MASOCHIST BONDAGE MISS DEEP THROATING TORTURE MIORI MATSUSHITA
+thumb=http://erotic24hr.com/wp-content/uploads/2016/09/JAV-MXGS-881.jpg
+date=2017-06-18
+URL=https://openload.co/f/m641zyYwynE/JAV_mxgs-881.HD.mp4
+
+
 
 
 

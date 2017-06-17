@@ -29,6 +29,42 @@ URL=
 
 
 
+
+
+type=video
+name=149xxxxxxxxxxxxxxxxxxxxAsian Sex Diary.Noew
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Noew_.jpg
+date=2017-06-18
+URL=https://openload.co/f/wTmyMB5tp3s/Asian_Sex_Diary.Noew.mp4
+
+type=video
+name=Asian Sex Diary.Namwan
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Namwan.jpg
+date=2017-06-18
+URL=https://openload.co/f/3XhvTyVO1no/Asian_Sex_Diary.Namwan.mp4
+
+type=video
+name=Asian Sex Diary.Nong
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Nong_.jpg
+date=2017-06-18
+URL=https://openload.co/f/mbXABVcKxjo/Asian_Sex_Diary.Nong.mp4
+
+type=video
+name=Asian Sex Diary.Meen.N.Lean
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Meen_.N.Lean_.jpg
+date=2017-06-18
+URL=https://openload.co/f/v_3QKAJCo1s/Asian_Sex_Diary.Meen.N.Lean.mp4
+
+type=video
+name=Asian Sex Diary.Mint.Morning.Kat.Resto 
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Mint_.Morning.Kat_.Resto_.jpg
+date=2017-06-18
+URL=https://openload.co/f/fM4fNx9V6zY/Asian_Sex_Diary.Mint.Morning.Kat.Resto.mp4
+
+
+
+
+
 type=video
 name=145xxxxxxxxxxxxxxxxxxxxAsian Sex Diary Bik
 thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary-Bik.jpg
