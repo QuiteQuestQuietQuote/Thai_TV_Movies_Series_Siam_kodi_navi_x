@@ -1,8 +1,8 @@
 ﻿version=1
-background=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
+background=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
-logo=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
+logo=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
+thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -31,7 +31,11 @@ URL=
 
 
 
-
+type=video
+name=Cars 3 (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
+date=2017-06-17
+URL=https://openload.co/f/I7mtV4KY-Cg/Cars_3_%282017%29.mp4
 
 type=video
 name=Deep (2017) RUS
@@ -279,7 +283,11 @@ URL=
 
 
 
-
+type=video
+name=Wonder Woman (2017) CAM updated TS
+thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
+date=2017-06-17
+URL=https://openload.co/f/2p4q3dfOcjA/Wonder_Woman_2017.mkv.mp4
 
 type=video
 name=Baywatch (2017) CAM updated UNCEN
@@ -291,11 +299,6 @@ type=video
 name=The Mummy (2017) CAM updated
 thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
 URL=https://openload.co/f/-83pNicBMXg/V.1_The_Mummy_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%B5%E0%B9%88_%282017%29_MV_%281%29.mkv.mp4
-
-type=video
-name=Wonder Woman (2017) CAM
-thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
-URL=https://openload.co/f/AjVfzWYIiSc/Wonder.Woman.2017.HDTS.x264-DiRG_eee_2p_%282%29.mkv.mp4
 
 type=video
 name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) CAM updated
@@ -368,10 +371,7 @@ player=default
 rating=-1.00
 description=Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island./description
 
-type=video
-name=Thi Baan The Series (2017) CAM
-thumb=https://image.tmdb.org/t/p/w640/bfKZUa3NaNHMZBxJG7pJSE9Rrl6.jpg
-URL=https://openload.co/f/OFq293KWwoY/Thi-Baan_The_Series_%282017%29_%E0%B9%84%E0%B8%97%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%8C%5B%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
+
 
 
 
@@ -652,6 +652,15 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=Thi Baan The Series (2017) 
+thumb=https://image.tmdb.org/t/p/w640/bfKZUa3NaNHMZBxJG7pJSE9Rrl6.jpg
+date=2017-06-17
+URL=https://openload.co/f/k1her62_58I/Thaiban_The_Series_2017_HDm720p-Xvid-ThaiS.mkv.mp4
 
 type=video
 name=13 Assassins (2010)
