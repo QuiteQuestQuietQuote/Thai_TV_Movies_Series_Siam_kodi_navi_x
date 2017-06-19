@@ -657,6 +657,18 @@ URL=
 
 
 type=video
+name=Wind Blast (2010)
+thumb=https://image.tmdb.org/t/p/w640/bvP3R3NNT1E44QjvsFnF0iZFmVS.jpg
+date=2017-06-19
+URL=https://openload.co/f/qTxggA7zWek/Wind.Blast.2010.BluRay.1080p.DTS.x264.mkv.mp4
+
+type=video
+name=Mr. Right (2016)
+thumb=https://image.tmdb.org/t/p/w640/y1VT2NoBOx3aC2exhkyN9AGUkMR.jpg
+date=2017-06-19
+URL=https://openload.co/f/9KeT4gvHn5s/%7BMINI_Super-HQ%7D_Mr.Right.2015.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+
+type=video
 name=Thi Baan The Series (2017) 
 thumb=https://image.tmdb.org/t/p/w640/bfKZUa3NaNHMZBxJG7pJSE9Rrl6.jpg
 date=2017-06-17
