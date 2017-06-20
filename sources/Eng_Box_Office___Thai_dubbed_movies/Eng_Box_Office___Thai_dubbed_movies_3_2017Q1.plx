@@ -44,9 +44,33 @@ URL=https://openload.co/f/TAQ9pCr9r6c/D_2017_CAMRip_%5BLayar-21.com%5D.mp4
 
 
 
+type=video
+name=The Dinner (2017) ENG 
+thumb=https://image.tmdb.org/t/p/w640/colBU9Mn7emfgWlZcGU331ZMh5E.jpg
+date=2017-06-20
+URL=https://openload.co/f/pB_uu10m4YI/The.Dinner.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
+# 2773618
+type=video
+name=The Zookeeper's Wife (2017) ENG updated BR
+thumb=http://image.tmdb.org/t/p/w500/cCQKccGZsfRSBHy4xEhDlS73OS2.jpg
+date=2017-06-20
+URL=https://openload.co/f/AMyTY51uL8o/the.zookeepers.wife.2017.1080p.bluray.x264-geckos.mkv.mp4
+player=default
+rating=-1.00
+description=The Zookeeper's Wife tells the account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion./description
+
+type=video
+name=Camera Store (2016) ENG
+thumb=https://image.tmdb.org/t/p/w640/jsnP7Tat547TESHT2mp3aABGH47.jpg
+date=2017-06-20
+URL=https://openload.co/f/etk7MaqSfkQ/Camera.Store.2016.WEB-DL.x264-FGT.mp4
+
+
+
 # 2773619
 type=video
-name=Unforgettable (2017) ENG updated
+name=Unforgettable (2017) ENG updated CAM
 thumb=http://image.tmdb.org/t/p/w500/eUGehaQhjc9Q8kqlZP16akfx7R4.jpg
 URL=https://openload.co/f/iaKfv0guJSs/U-n-f-o-r-ge--t-table.2017.HDCAM.x264-DiRG.mp4
 player=default
@@ -55,7 +79,7 @@ description=A woman sets out to make life hell for her ex-husband's new wife./de
 
 # 2776075
 type=video
-name=Get Out (2017) ENG updated2 web
+name=Get Out (2017) ENG updated2 WEB
 thumb=http://image.tmdb.org/t/p/w500/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg
 date=2017-05-09
 URL=https://openload.co/f/42F7yhiuWV0/O-G-O-2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
@@ -153,14 +177,7 @@ description=Set in 1950s Tuscany, Voice from the Stone is the haunting and suspe
 
 
 
-# 2773618
-type=video
-name=The Zookeeper's Wife (2017) RUS
-thumb=http://image.tmdb.org/t/p/w500/cCQKccGZsfRSBHy4xEhDlS73OS2.jpg
-URL=https://openload.co/f/LMJcBnuVVpQ/The_Zookeepers_Wife_2017_CAMRip_%5BLayar-21.com%5D.mp4
-player=default
-rating=-1.00
-description=The Zookeeper's Wife tells the account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion./description
+
 
 # 2773558
 type=video
@@ -184,7 +201,7 @@ description=Samantha Kingston has everything. Then, everything changes. After on
 
 # 2772900
 type=video
-name=Little Boxes (2017) ENG updated
+name=Little Boxes (2017) ENG updated WEB
 thumb=http://image.tmdb.org/t/p/w500/2MARwPALPBlLUN9OyBqvDdeSenQ.jpg
 URL=https://openload.co/f/Jb77RFT9P5w/L.B.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
 player=default
@@ -193,7 +210,7 @@ description=It's the summer before 6th grade, and Clark is the new-in-town birac
 
 # 2772370
 type=video
-name=The Belko Experiment (2017) ENG updated
+name=The Belko Experiment (2017) ENG updated BRR
 thumb=http://image.tmdb.org/t/p/w500/knAqP7qDos8sWQpmPiGYFYwbdcK.jpg
 URL=https://openload.co/f/tBaSDdL2OL4/The.B-e-l-ko.Ex-p-e-r-i-me-n--t.2016.BRRip.XviD.AC3-RBG.avi.mp4
 player=default
@@ -258,7 +275,7 @@ description=After suffering a family tragedy, Mack Phillips spirals into a deep 
 
 # 2772899
 type=video
-name=The Carer (2017) ENG updated2
+name=The Carer (2017) ENG updated2 BR
 thumb=http://image.tmdb.org/t/p/w500/gseDYGjdlFfGPbpVzlE0IcyW2Ix.jpg
 URL=https://openload.co/f/npQ2srvsvWE/The.Carer.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 player=default

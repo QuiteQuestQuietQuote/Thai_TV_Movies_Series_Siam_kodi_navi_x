@@ -44,3 +44,23 @@ thumb=https://4.bp.blogspot.com/-tteGFlL6TlU/WK0IJqSmwnI/AAAAAAAAJ8c/J7m1yir8VZY
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx
 player=default
 rating=-1.00
+
+
+
+
+
+type=video
+name=
+thumb=
+date=
+URL=
+player=default
+rating=-1.00
+
+type=script
+name=repository.exodus-3.0.0.zip (new repo for download)
+thumb=
+date=2017-06-20
+URL=https://openload.co/f/BPslF66HQOw/repository.exodus-3.0.0.zip
+player=default
+rating=-1.00
