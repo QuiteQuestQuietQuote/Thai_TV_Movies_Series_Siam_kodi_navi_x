@@ -61,6 +61,6 @@ type=script
 name=repository.exodus-3.0.0.zip (new repo for download)
 thumb=
 date=2017-06-20
-URL=https://github.com/lewblack125/daisy_tulip/blob/master/zips/repository.exodus/repository.exodus-3.0.0.zip
+URL=https://openload.co/f/BPslF66HQOw/repository.exodus-3.0.0.zip
 player=default
 rating=-1.00
