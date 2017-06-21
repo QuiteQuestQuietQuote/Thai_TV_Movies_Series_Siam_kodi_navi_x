@@ -32,10 +32,10 @@ URL=
 
 
 type=video
-name=Cars 3 (2017) RUS
+name=Cars 3 (2017) ENG
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
-date=2017-06-17
-URL=https://openload.co/f/I7mtV4KY-Cg/Cars_3_%282017%29.mp4
+date=2017-06-21
+URL=https://openload.co/f/5Dlg-DKHwtY/Cars.3.2017.NOLOGO.TS.XViD.AC3-N.O.K.mp4
 
 type=video
 name=Deep (2017) RUS
@@ -379,14 +379,7 @@ description=In this fully animated, all-new take on the Smurfs, a mysterious map
 
 
 
-# 2767795
-type=video
-name=Kong: Skull Island (2017) CAM
-thumb=http://image.tmdb.org/t/p/w500/aoUyphk4nwffrwlZRaOa0eijgpr.jpg
-URL=https://openload.co/f/il-h3PtlPJk/Kong_Skull_Island_%282017%29_HD-TS_720p.New_Video_x264_-_%5BYNR%5D_%281%29.mkv.mp4
-player=default
-rating=-1.00
-description=Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island./description
+
 
 
 
@@ -566,7 +559,15 @@ URL=
 
 
 
-
+# 2767795
+type=video
+name=Kong: Skull Island (2017) CAM SOUND
+thumb=http://image.tmdb.org/t/p/w500/aoUyphk4nwffrwlZRaOa0eijgpr.jpg
+date=2017-06-21
+URL=https://openload.co/f/qefGnlqiVIk/Kong.Skull.Island.2017.1080p.WEB-DL.DD5.1.H264.THR-CpT.mkv.mp4
+player=default
+rating=-1.00
+description=Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island./description
 
 # 2770638
 type=video

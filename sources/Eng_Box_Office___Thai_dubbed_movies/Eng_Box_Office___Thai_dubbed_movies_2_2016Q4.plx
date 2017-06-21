@@ -75,13 +75,7 @@ URL=
 
 
 
-# 2765962
-type=video
-name=20 MAI (CAM)
-thumb=https://4.bp.blogspot.com/-kfwHYcEkH-g/WLO8MUQ2FdI/AAAAAAAAvBs/iodFBgq9zOc2g_pZPc734xzRLoOaRQi3QCLcB/s320/20%2BMai%2B%25282016%2529.png
-URL=https://openload.co/f/t52zCoLNmSM/20_Mai_%282016%29_20_%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%E0%B8%A2%E0%B8%B9%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%A2_%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99.mp4
-player=default
-rating=-1.00
+
 
 # 2761218
 type=video
@@ -288,7 +282,14 @@ URL=
 
 
 
-
+# 2765962
+type=video
+name=Suddenly Twenty (2016)
+thumb=https://image.tmdb.org/t/p/w640/f9GYP7x4sHJ53SUeJrMiLD8rwWq.jpg
+date=2017-06-21
+URL=https://openload.co/f/8LU_6LzP_RQ/Suddenly_Twenty_%282016%29_DVDRip.CtHts_-_PORSC.mkv.mp4
+player=default
+rating=-1.00
 
 # 2765014
 type=video
