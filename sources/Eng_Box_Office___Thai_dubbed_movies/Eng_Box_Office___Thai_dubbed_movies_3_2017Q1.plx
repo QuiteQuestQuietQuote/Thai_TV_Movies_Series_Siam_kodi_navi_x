@@ -37,6 +37,14 @@ thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
 date=2017-06-21
 URL=https://openload.co/f/5Dlg-DKHwtY/Cars.3.2017.NOLOGO.TS.XViD.AC3-N.O.K.mp4
 
+
+
+type=video
+name=Rough Night (2017) ENG
+thumb=https://image.tmdb.org/t/p/w640/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg
+date=2017-06-22
+URL=https://openload.co/f/YqgLbXDeYcs/Rough.Night.2017.HDTS.x264.MP3-NoGrp.mkv.mp4
+
 type=video
 name=Deep (2017) RUS
 thumb=https://image.tmdb.org/t/p/w640/bVGA7LzL7uKasrweoRufITfMdYv.jpg
@@ -673,6 +681,12 @@ URL=
 
 
 
+
+type=video
+name=Sky on Fire (2016)
+thumb=https://image.tmdb.org/t/p/w640/hN064L5uBou7wdMbQaENNPcJxK5.jpg
+date=2017-06-22
+URL=https://openload.co/f/eZqP6Ya6eOU/%7BMINI_Super-HQ%7D_Sky.On.Fire.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 type=video
 name=Wind Blast (2010)
