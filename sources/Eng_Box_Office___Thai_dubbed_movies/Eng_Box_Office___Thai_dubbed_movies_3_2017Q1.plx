@@ -265,11 +265,6 @@ player=default
 rating=-1.00
 
 
-
-
-
-
-
 # 2768541
 type=video
 name=The Shack (2017) ENG
@@ -289,6 +284,17 @@ URL=https://openload.co/f/npQ2srvsvWE/The.Carer.2016.1080p.BluRay.H264.AAC-RARBG
 player=default
 rating=-1.00
 description=When the question is to be or not to be, there is only one answer./description
+
+
+
+
+type=video
+name=Free State of Jones (2016) ENG streamango test
+thumb=https://image.tmdb.org/t/p/w640/sxutq7sXcaMy8b4OguaWZwWrchM.jpg
+date=2017-06-22
+URL=https://streamango.com/embed/bffmpmqkttpcbmmq/Free_State_of_Jones_2016_1080p_BluRay_x264_DTS-HDC_mov_mp4
+
+
 
 # 2771674
 type=video
