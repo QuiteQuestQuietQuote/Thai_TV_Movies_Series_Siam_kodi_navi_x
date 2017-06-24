@@ -29,6 +29,310 @@ URL=
 
 
 
+
+
+
+type=video
+name=138xxxxxxxxxxxxxxxxxxxxSTAR-681 – Shiraishi Marina – We Made Marina Shiraishi Go Out And Get Fucked… Exhibitionist x Reverse Pick Up x Tied Up In Shame For Obedience Training Sex
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/STAR-681.jpg
+date=2017-06-24
+URL=https://openload.co/f/LD0ZOOjceUo/JAV_STAR-681.mp4
+
+type=video
+name=WANZ-464 – Mizutani Kokone – Oil Massage In Confinement Demonic Creampie Rape
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/WANZ-464.jpg
+date=2017-06-24
+URL=https://openload.co/f/43-BNbyrSNQ/JAV_WANZ-464.mp4
+
+type=video
+name=TEK-071 – Mikami Yua – Pleasant Feeling
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/TEK-071.jpg
+date=2017-06-24
+URL=https://openload.co/f/3bzrkfK3LKs/JAV_TEK-071.mp4
+
+type=video
+name=TEAM-072 – Suzumiya Suzu – JAV Debut
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/TEAM-072.jpg
+date=2017-06-24
+URL=https://openload.co/f/Wu89VkNWN1c/JAV_TEAM-072.mp4
+
+type=video
+name=DIC-019 – Kagura Aine – Surprise Porn Deut. A Current Med Student From A National University.
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/DIC-019.jpg
+date=2017-06-24
+URL=https://openload.co/f/tg4tV6QQFRk/JAV_DIC-019.mp4
+
+type=video
+name=HUNTA-151 – Unknown – Thigh Sex With My Little Sister-In-Law At A Hot Spring Hotel! No, Don’t – If You Stick It In Me I Won’t Be Able To Stay Quiet
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/HUNTA-151.jpg
+date=2017-06-24
+URL=https://openload.co/f/SFRHywISCrw/JAV_HUNTA-151.mp4
+
+type=video
+name=STAR-639 – Kasumi Haruka – Haruka Kasumi’s First Serious Orgasm! Outside, Inside, Cumming Over And Over, Raving About These Amazing Fucks!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/STAR-639.jpg
+date=2017-06-24
+URL=https://openload.co/f/N6xJ5_jTaK8/JAV_STAR-639.mp4
+
+type=video
+name=GVG-340 – Kazama Yumi – Mother and Child Incest
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/GVG-340.jpg
+date=2017-06-24
+URL=https://openload.co/f/DBP04s0PS8o/JAV_GVG-340.mp4
+
+type=video
+name=WANZ-474 – Nishida Karina – The Girl Who Came 200 Times In The Same Day
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/WANZ-474.jpg
+date=2017-06-24
+URL=https://openload.co/f/dRGcNbJ_2FM/JAV_WANZ-474.mp4
+
+type=video
+name=WAT-008 – Hasegawa Rui – NEW WATER POLE
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/WAT-008.jpg
+date=2017-06-24
+URL=https://openload.co/f/pY9vsswC8vw/JAV_WAT-008.mp4
+
+type=video
+name=STAR-647 – Akiba Akane – AV debut
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/STAR-647.jpg
+date=2017-06-24
+URL=https://openload.co/f/raGyxFE-pZg/JAV_STAR-647.mp4
+
+type=video
+name=SNIS-115 – Rukawa Rina – Making Love With Dirty Old Men
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SNIS-115.jpg
+date=2017-06-24
+URL=https://openload.co/f/ICBOnMt3tFU/JAV_SNIS-115.mp4
+
+type=video
+name=ATOM-246 – Unknown – A Feast Of Panty Shot And Nipple Flashing! Amateur Schoolgirl Bitches Only! Go For It! A 1 Million Yen Reward! The Twitter Stripping Game
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/ATOM-246.jpg
+date=2017-06-24
+URL=https://openload.co/f/5H0u9rr9FOY/JAV_ATOM-246.mp4
+
+type=video
+name=JUFD-614 – Egami Shiho – Swallowing And Creampies 122-Minutes Of 35 Non-Stop Loads Hardcore Sudden Death
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUFD-614.jpg
+date=2017-06-24
+URL=https://openload.co/f/RvJnMq5OTgg/JAV_JUFD-614.mp4
+
+type=video
+name=IPZ-773 – Momonogi Kana – Momonogi’s In Trouble! What, You Want To Have Sex Here!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/IPZ-773.jpg
+date=2017-06-24
+URL=https://openload.co/f/tzSttByDqTg/JAV_IPZ-773.mp4
+
+type=video
+name=JUFD-579 – Haruna Hana – Girls Who Want A Challenge – After No Masturbation And No Sex, An Aphrodisiac Makes This Colossal-Titted Slut Lose Her Mind
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUFD-579.jpg
+date=2017-06-24
+URL=https://openload.co/f/dlFNQruoHrg/JAV_JUFD-579.mp4
+
+type=video
+name=SVDVD-536 – Natsume Airi, Onoue Wakaba, Sakura Chinami – When The Director Gets Horny
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SVDVD-536.jpg
+date=2017-06-24
+URL=https://openload.co/f/70JuYnIf7yM/JAV_SVDVD-536.mp4
+
+type=video
+name=ABP-492 – Kashii Ria – Derived From Natural Ingredients. 120% Ria Kashii Juice
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/ABP-492.jpg
+date=2017-06-24
+URL=https://openload.co/f/5e4Ha0OS2z8/JAV_ABP-492.mp4
+
+type=video
+name=SNIS-027 – Utsunomiya Shion – Shion Utsunomiya , Cumming.
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SNIS-027.jpg
+date=2017-06-24
+URL=https://openload.co/f/vLiRRkT70KU/JAV_SNIS-027.mp4
+
+type=video
+name=MIGD-735 – Sato Airi – Schoolgirl Tied Down For A Creampie Gang Bang
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MIGD-735.jpg
+date=2017-06-24
+URL=https://openload.co/f/6umBuv5EkWw/JAV_MIGD-735.mp4
+
+type=video
+name=WANZ-461 – Unknown – Famous Cosplayer’s Creampie Photo Shoot On Her Ovulation Day
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/WANZ-461.jpg
+date=2017-06-24
+URL=https://openload.co/f/bZNWpMTpOoA/JAV_WANZ-461.mp4
+
+type=video
+name=WAT-006 – Fuyutsuki Kaede – NEW WATER POLE
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/WAT-006.jpg
+date=2017-06-24
+URL=https://openload.co/f/suIAWXdMmF0/JAV_WAT-006.mp4
+
+type=video
+name=NHDTA-818 – Unknown – Bus-Only Molester ~The Girls Who Go For A Ride Better Be Ready For Some Torture & Rape
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/NHDTA-818.jpg
+date=2017-06-24
+URL=https://openload.co/f/xNDIS8tyvU8/JAV_NHDTA-818.mp4
+
+type=video
+name=EYAN-066 – Unknown – A Scuba Diver With An Incredible Body. The Amazing Body With Bronzed H Cup Tits And A 54cm Waist. The Working Diving Instructor Makes Her Porn Debut! Eri 28 Years Old
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/EYAN-066.jpg
+date=2017-06-24
+URL=https://openload.co/f/IQA2lFykAig/JAV_EYAN-066.mp4
+
+
+
+
+
+
+
+
+type=video
+name=114xxxxxxxxxxxxxxxxxxxxWANZ-465 – AIKA – Lingerina
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/WANZ-465.jpg
+date=2017-06-24
+URL=https://openload.co/f/_ra6F5fQRIE/JAV_WANZ-465.mp4
+
+type=video
+name=MUM-221 – Unknown – In Secret, On Sunday, With My Homeroom Teacher. 4’11
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MUM-221.jpg
+date=2017-06-24
+URL=https://openload.co/f/zKdROkQCKRg/JAV_MUM-221.mp4
+
+type=video
+name=CEAD-164 – Saizyou Sara – A Slimy Slug Wife
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/CEAD-164-Saizyou-Sara-A-Slimy-Slug-Wife.jpg
+date=2017-06-24
+URL=https://openload.co/f/5q8qGleiC4E/JAV_CEAD-164.mp4
+
+type=video
+name=PPPD-410 – Yoshiura Misato – The Secret Creampie-OK Care By A Busty Nurse From The Shotacon Department
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/PPPD-410.jpg
+date=2017-06-24
+URL=https://openload.co/f/JWZbU1zaPQk/JAV_PPPD-410.mp4
+
+type=video
+name=PPPD-455 – Saito Miyu – A Nurse-In-Training With Beautiful, Huge G-Cup Tits Makes Her Porn Debut
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/PPPD-455.jpg
+date=2017-06-24
+URL=https://openload.co/f/pCNFPe5Xllg/JAV_PPPD-455.mp4
+
+type=video
+name=MIDE-347 – Kamisaki Shiori – Strapped Down For Multiple Forced Orgasms Shiori Kamisaki
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MIDE-347.jpg
+date=2017-06-24
+URL=https://openload.co/f/yxoS1LMRa28/JAV_MIDE-347.mp4
+
+type=video
+name=DVDMS-005 – Unknown – A Normal Boys And Girls Focus Group AV 100,000 Yen Per Cum Shot!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/DVDMS-005.jpg
+date=2017-06-24
+URL=https://openload.co/f/--XyK5tNUCQ/JAV_DVDMS-005.mp4
+
+type=video
+name=SW-394 – Unknown – Don’t Look At Their Panties! While I Was Watching My Little Sister’s Friends’ Panties As They Were Having Fun With Each Other
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SW-394.jpg
+date=2017-06-24
+URL=https://openload.co/f/7V1fBiSXexg/JAV_SW-394.mp4
+
+type=video
+name=EYAN-062 – Momose Yurina – Pressed Close To The Huge Tits Of A Dirty-Talking Wife – This Married Slut Entices Men To Cum With Their Dicks Wrapped Up In Her Soft Breasts While She Whispers In Their Ear
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/EYAN-062.jpg
+date=2017-06-24
+URL=https://openload.co/f/0bhUAIImuSU/JAV_EYAN-062.mp4
+
+type=video
+name=DIC-015 – Miyuki Sakura – Unbelievable Porn Debut – Receptionist At A Major Pharmaceutical Company
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/DIC-015.jpg
+date=2017-06-24
+URL=https://openload.co/f/AXVdvFjdFvE/JAV_DIC-015.mp4
+
+type=video
+name=ADN-075 – Matsumoto Mei – A Young Wife’s Shaking Nipples
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/ADN-075.jpg
+date=2017-06-24
+URL=https://openload.co/f/3_sHHAPn2R0/JAV_ADN-075.mp4
+
+type=video
+name=MXGS-862 – Yume Kana – Screwed In Tight! Two Foreign Objects In One Pussy
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MXGS-862.jpg
+date=2017-06-24
+URL=https://openload.co/f/0igWpXrzX3M/JAV_MXGS-862.mp4
+
+type=video
+name=PPPD-453 – Shinoda Ayumi – It’s Not Finished Until You Creampie Her 10 Times Every Day-Intense SEX With A Sticky Old Man
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/PPPD-453.jpg
+date=2017-06-24
+URL=https://openload.co/f/YgEUKUU_stc/JAV_PPPD-453.mp4
+
+type=video
+name=BF-456 – KAORI – Big-Assed, Glamorous FUCK
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/BF-456.jpg
+date=2017-06-24
+URL=https://openload.co/f/ygMYeoOCNg4/JAV_BF-456.mp4
+
+type=video
+name=IPZ-759 – Morisaki Michiru – SEMEN Drinking VAMPIRE. A Beautiful Vampire Who Craves Cum Is Here!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/IPZ-759.jpg
+date=2017-06-24
+URL=https://openload.co/f/g_Ea32m4430/JAV_IPZ-759.mp4
+
+type=video
+name=ADN-095 – Amami Tsubasa – Dear, Please Forgive Me… The Obscene Drainage 2
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/ADN-095.jpg
+date=2017-06-24
+URL=https://openload.co/f/vEcaoMINIfg/JAV_ADN-095.mp4
+
+type=video
+name=DVAJ-152 – Minano Ai – You Can’t Go Home Until You’ve Mastered Them! SEX Until She’s Perfected 48 Sexual Positions
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/DVAJ-152.jpg
+date=2017-06-24
+URL=https://openload.co/f/5Ev7CKCJoIg/JAV_DVAJ-152.mp4
+
+type=video
+name=SHKD-679 – Ogawa Rio – Fucked In Front Of Her Husband – Beastly Bride
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SHKD-679.jpg
+date=2017-06-24
+URL=https://openload.co/f/cZ3nJhjQZP0/JAV_SHKD-679.mp4
+
+type=video
+name=DIC-011 – Shiroma Reona – Weekend AV Debut During the Week She’s on the Ground Stuff of an Airline Company
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/DIC-011.jpg
+date=2017-06-24
+URL=https://openload.co/f/YvZY7yp3C3k/JAV_DIC-011.mp4
+
+type=video
+name=SW-428 – Unknown – Naughty Married Woman Lends A Keen Male Student Some Erotica At A Bookstore
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SW-428.jpg
+date=2017-06-24
+URL=https://openload.co/f/DYfL6IcGpZ0/JAV_SW-428.mp4
+
+type=video
+name=DVAJ-148 – Suzuno Haru – A Young, Popular Actress Who’s Featured In A Huge, Recent Horror Film Shoots Her First And Last Porn!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/DVAJ-148.jpg
+date=2017-06-24
+URL=https://openload.co/f/Pmzs6Kd_AAk/JAV_DVAJ-148.mp4
+
+type=video
+name=SNIS-709 – Akari Miku – I’m A Rookie Teacher, And My Titty-Loving Students Turned Me Into Their Toy. I Had To Teach Naked In Front Of The Whole Class.
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SNIS-709.jpg
+date=2017-06-24
+URL=https://openload.co/f/fQcRG63OUxA/JAV_SNIS-709.mp4
+
+type=video
+name=EBOD-464 – Okuda Kanae – First Time Shots – Busty Beautiful Girl 40 I-Cup
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/EBOD-464.jpg
+date=2017-06-24
+URL=https://openload.co/f/yFmU8zjWLxE/JAV_EBOD-464.mp4
+
+type=video
+name=MIDE-292 – Nonoka Hana – Crazy Dick-Licking, Cock-Sucking Slut
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MIDE-292.jpg
+date=2017-06-24
+URL=https://openload.co/f/DPgVzNpsNxE/JAV_MIDE-292.mp4
+
+
+
+
+
+
+
 type=video
 name=90xxxxxxxxxxxxxxxxxxxxSW-417 – Unknown – We’re Wearing Bloomers, So We’re Not Embarassed At All You Want To See More
 thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SW-417.jpg

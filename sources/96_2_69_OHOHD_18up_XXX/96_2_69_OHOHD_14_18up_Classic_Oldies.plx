@@ -32,6 +32,140 @@ URL=
 
 
 
+type=video
+name=50xxxxxxxxxxxxxxxxxxxxWie Sie Wirklich War 1 (1976)
+thumb=https://3.bp.blogspot.com/-Ha2hnT1CuqU/WC2uCYGGhLI/AAAAAAABG-M/Kwnw7BFhkD8RanqrbwX5SjYY9RpUWwtZgCLcB/s1600/3.jpg
+date=2017-06-24
+URL=https://openload.co/f/1fXD3-QFXKE/Wie_Sie_Wirklich_War_1_%281976%29.avi.mp4
+
+type=video
+name=Beauty Rope Cosmetology (1983)
+thumb=https://1.bp.blogspot.com/-GkvmKMATcqE/WC1HrMCFe1I/AAAAAAABG6Q/RhkeqiB00aEYNzpLVi34KBfwQFN1xCDjgCLcB/s1600/Beauty-Rope-Cosmetology-Layar-21.com_.jpg
+date=2017-06-24
+URL=https://openload.co/f/YEbMRSMYii0/Beauty.Rope.Cosmetology.1983
+
+type=video
+name=Venom (1966)
+thumb=https://1.bp.blogspot.com/-qXqbgyiVVVA/WCxQOAfQXhI/AAAAAAABG5M/WFk6rGI3bm0pDpJfQprV4yMh2FBRgMSzQCLcB/s1600/13.jpg
+date=2017-06-24
+URL=https://openload.co/f/Dw-lR16yjGo/Gift.1966.DVDRip.x264.AC3.mkv.mp4
+
+type=video
+name=Os Sete Gatinhos (1980)
+thumb=https://1.bp.blogspot.com/--Jq1jij8bW8/WCxOexegwhI/AAAAAAABG48/YmH4p1z-onEsvcLoMntF0szqdCbauFbigCLcB/s1600/11.jpg
+date=2017-06-24
+URL=https://openload.co/f/5Hvuuf4qPWA/Os_Sete_Gatinhos_%281980%29
+
+type=video
+name=Widow Apartment (2007)
+thumb=https://4.bp.blogspot.com/-iuwIr2QhhWk/WCw-rpkSn5I/AAAAAAABG3k/C8JN2gPlzDUMKqDuqeOIxdNKubNw-KXXACLcB/s1600/9.jpg
+date=2017-06-24
+URL=https://openload.co/f/0Q9zwWS347E/Widow.Apartment.2007.DVDRip_Erotic
+
+type=video
+name=Rio babilonia (1982)
+thumb=https://4.bp.blogspot.com/-rhrb3uhw5RE/WCsPHATbFpI/AAAAAAABG0E/wLAzf1p7ruAcDg30_D-7guUsh3BfcoXRQCLcB/s1600/8.jpg
+date=2017-06-24
+URL=https://openload.co/f/JhsIOJ_MIc8/Rio_babilonia_%281982%29.mpg.mp4
+
+type=video
+name=Amada Amante (1978)
+thumb=https://2.bp.blogspot.com/-mVzhIrfMBzo/WCsObpxaOFI/AAAAAAABGz8/ddZow1FYt8IWadWfwEVLpux0nEeIM1rowCLcB/s1600/6.jpg
+date=2017-06-24
+URL=https://openload.co/f/8O03e_ulDY0/AMADA_AMANTE_1978_De_Claudio_Cunha_medium%281%29.mp4
+
+type=video
+name=The Dallas Connection (1994)
+thumb=https://4.bp.blogspot.com/-EH0HtL44geE/WCsKn3tH1JI/AAAAAAABGzM/z7izbbegmsUjXeoLoQigPaRMM1LDApVAgCLcB/s1600/3.jpg
+date=2017-06-24
+URL=https://openload.co/f/Ax5VRyI17Xg/The.Dallas.Connection.1994.DVDRip_Erotic
+
+type=video
+name=A Marca do Terrir (2005)
+thumb=https://3.bp.blogspot.com/-iaHlNSpJsgk/WCr4kpna1rI/AAAAAAABGyE/4On7XwfuZfEo0MbwZRRdPJIIo2zs4orBwCLcB/s1600/4.jpg
+date=2017-06-24
+URL=https://openload.co/f/gjdAhsONmo4/A.Marca.Do.Terrir.2005.DVDRip.x264-HANDJOB.mkv.mp4
+
+type=video
+name=O Erotico Virgem (1978)
+thumb=https://3.bp.blogspot.com/-s4jENxzFZ4Y/WCr4LpAHlNI/AAAAAAABGx8/G-BjkFmdM-wbsF6ali37brweOlYAPkViACLcB/s1600/3.jpg
+date=2017-06-24
+URL=https://openload.co/f/1xZUDEHxa7w/O_Er%C3%B3tico_Virgem_%281978%29.mp4
+
+type=video
+name=La tete de Normande St-Onge (1975)
+thumb=https://2.bp.blogspot.com/-VyNmi799ziY/WCnB-M7IJeI/AAAAAAABGv4/fVEMNPlwW-g-5qcgxDSK5f0kEc1lVqumgCLcB/s1600/5.jpg
+date=2017-06-24
+URL=https://openload.co/f/dTRpH3zSH3U/La_t%C3%AAte_de_Normande_St-Onge_%281975%29.mkv.mp4
+
+type=video
+name=As 1001 Posicoes do Amor (1978)
+thumb=https://2.bp.blogspot.com/-8hMEN9qezNc/WCnBTSdbRTI/AAAAAAABGvw/ham95e4qGecG5TZbWph0KxRqptAd_DZMwCLcB/s1600/4.jpg
+date=2017-06-24
+URL=https://openload.co/f/TofIQkewPu8/As_1001_Posi%C3%A7%C3%B5es_do_Amor_%281978%29.mp4
+
+
+
+
+
+
+
+
+
+
+type=video
+name=38xxxxxxxxxxxxxxxxxxxxToda Nudez Sera Castigada (1973)
+thumb=https://1.bp.blogspot.com/-V75BiPTKZEw/WCnA2PI3zQI/AAAAAAABGvs/pR-9qi6CLls-0QamNY4dTdapasyPHQ0VgCLcB/s1600/3.jpg
+date=2017-06-24
+URL=https://openload.co/f/4vcGmwCpIs4/Toda_Nudez_Ser%C3%A1_Castigada_-_Arnaldo_Jabor_-_1973.avi.mp4
+
+type=video
+name=Fantasias Sexuais (1982)
+thumb=https://3.bp.blogspot.com/-9uCDkBg3wpU/WCnAWY38KyI/AAAAAAABGvo/VrmslY1u3WI2jYpDOOnzudHosooVzzGDQCLcB/s1600/2.jpg
+date=2017-06-24
+URL=https://openload.co/f/scr7erbCMrA/Fantasias_sexuais.mpg.mp4.mp4.mp4
+
+type=video
+name=Eu Sei Que Vou Te Amar (1986)
+thumb=https://4.bp.blogspot.com/-F_Il4XczYqM/WCh7MaO8rLI/AAAAAAABGqQ/y1hn8EfUW14H1R_S5agf42NQyv4Z-hr7QCLcB/s1600/3.jpg
+date=2017-06-24
+URL=https://openload.co/f/H6T9N24RNmM/Eu_Sei_Que_Vou_Te_Amar_-_Arnaldo_Jabor_-_1986.avi.mp4
+
+type=video
+name=Isabella, duchessa dei diavoli (1969)
+thumb=https://2.bp.blogspot.com/-_hQPXpNmykM/WCh6mdfXzNI/AAAAAAABGqI/Cr9ymSPwf5skHgIJ0W1m-gyBKcUEXeDVgCLcB/s1600/2.jpg
+date=2017-06-24
+URL=https://openload.co/f/tBJsutBiJ_g/Isabella.Duchessa.Dei.Diavoli.1969.DVDRip.XviD-CG.avi.mp4
+
+type=video
+name=O Sexo Nosso de Cada Dia (1981)
+thumb=https://3.bp.blogspot.com/-RdPzGpT5Ptc/WCh54DEYOXI/AAAAAAABGqE/iNxLLMY0cQ8lO22JNNrDhcXIibBkREbAgCLcB/s1600/1.jpg
+date=2017-06-24
+URL=https://openload.co/f/ZHAdBtqg8Zo/O_Sexo_Nosso_De_Cada_Dia.avi.mp4
+
+type=video
+name=As Safadas (1982)
+thumb=https://3.bp.blogspot.com/-4GJKTCzO20U/WCcmcdaZ3II/AAAAAAABGpw/IQlPho1QdWsBwhI7pqvSMHdC_azASD9NQCLcB/s1600/9.jpg
+date=2017-06-24
+URL=https://openload.co/f/E3ytXEYkl-o/As_Safadas_-1982_-_PORTUGUES_-_Ciclos_Cinema.Nacional_%28Zilda_Mayo%29_4.avi.mp4
+
+type=video
+name=La bambolona (1968)
+thumb=https://3.bp.blogspot.com/-1Nlmw_PZfsY/WCclnUDZCFI/AAAAAAABGps/DCHvNe5t1MATWKPfwvSuBYFvFVjFWhbiACLcB/s1600/8.jpg
+date=2017-06-24
+URL=https://openload.co/f/71sA9koAx04/La_bambolona.avi.mp4
+
+type=video
+name=Piccole labbra (1978)
+thumb=https://3.bp.blogspot.com/-wANx3FZKfVg/WCclMtPDm7I/AAAAAAABGpo/BeKYgGoSO5Y8xlP-KVpRdx-Is98cMQ5oACLcB/s1600/5.jpg
+date=2017-06-24
+URL=https://openload.co/f/PoFoiXIijJ4/Piccole_labbra.avi.mp4
+
+type=video
+name=Eskimo Limon (1978)
+thumb=https://1.bp.blogspot.com/-luv79N7bEM0/WCckZlRy_aI/AAAAAAABGpk/Drm5oOCdWM4W9q9XBVSTXi_0QHJ6z-siACLcB/s1600/4.jpg
+date=2017-06-24
+URL=https://openload.co/f/xoN5ndXQLVE/Lemon_Popsicle_%281978%29.mkv.mp4
 
 
 
