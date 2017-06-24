@@ -36,10 +36,10 @@ date=2017-06-24
 URL=https://openload.co/f/HMXVuZspQcI/Transformers-_The_Last_Knight_%282017%29.mp4
 
 type=video
-name=Cars 3 (2017) ENG
+name=Cars 3 (2017) ENG updated TS
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
 date=2017-06-21
-URL=https://openload.co/f/5Dlg-DKHwtY/Cars.3.2017.NOLOGO.TS.XViD.AC3-N.O.K.mp4
+URL=https://openload.co/f/9Ia454Z2cbI/C-a-rs.3.N-E-W.HD-TS.X264-CPG.mkv.mp4
 
 type=video
 name=All Eyez on Me (2017) ENG
@@ -51,7 +51,7 @@ type=video
 name=Captain Underpants: The First Epic Movie (2017) ENG
 thumb=https://image.tmdb.org/t/p/w640/AjHZIkzhPXrRNE4VSLVWx6dirK9.jpg
 date=2017-06-24
-URL=https://openload.co/f/R4cxBhAAr7s/Captain.Underpants.2017.CAM.Openloadmovies.me.avi.mp4
+URL=https://openload.co/f/Z1xQaSLEHrs/Ca-p-t-ain.Un-de-r-p-a-nts.The.First.Epic.Movie.2017.CAM.X264-NoGRP.mkv.mp4
 
 type=video
 name=Everything, Everything (2017) ENG
