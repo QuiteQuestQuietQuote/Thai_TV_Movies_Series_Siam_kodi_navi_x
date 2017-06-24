@@ -1,8 +1,8 @@
 ﻿version=1
-background=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
+background=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
-logo=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
+logo=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
+thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -29,7 +29,11 @@ URL=
 
 
 
-
+type=video
+name=Transformers: The Last Knight (2017) ENG
+thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
+date=2017-06-24
+URL=https://openload.co/f/HMXVuZspQcI/Transformers-_The_Last_Knight_%282017%29.mp4
 
 type=video
 name=Cars 3 (2017) ENG
@@ -587,7 +591,8 @@ description=Explore the mysterious and dangerous home of the king of the apes as
 type=video
 name=Power Rangers (2017) CAM SOUND
 thumb=http://image.tmdb.org/t/p/w500/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg
-URL=https://openload.co/f/xx8K7-6YxPM/Power.Rangers.2017.1080p.WEB-DL.THAIRONG.mkv.mp4
+date=2017-06-24
+URL=https://openload.co/f/IW1hz19gZnU/Power.Rangers.2017.1080p.WEB-DL.THAIRONG.mkv.mp4
 player=default
 rating=-1.00
 description=Saban's Power Rangers follows five ordinary teens who must become something extraordinary when they learn that their small town of Angel Grove â?? and the world â?? is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before itâ??s too late, band together as the Power Rangers./description
@@ -687,6 +692,24 @@ URL=
 
 
 
+
+type=video
+name=Resident Evil: Vendetta (2017)
+thumb=https://image.tmdb.org/t/p/w640/88qfHWhlOBYXp69277QFhdPYnWf.jpg
+date=2017-06-24
+URL=https://openload.co/f/tssXzaoPs6E/Resident_Evil__Vendetta_%281080p_FULLHD%40siambit_%281%29.mkv.mp4
+
+type=video
+name=Manchester by the Sea (2016)
+thumb=https://image.tmdb.org/t/p/w640/e8daDzP0vFOnGyKmve95Yv0D0io.jpg
+date=2017-06-24
+URL=https://openload.co/f/gEpBLRRI0uY/%7BMINI_Super-HQ%7D_Manchester.by.the.Sea.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+
+type=video
+name=Tomorrow I Will Date With Yesterday's You (2016)
+thumb=https://image.tmdb.org/t/p/w640/d08esTPg1N7xEn86wf5GD4yfkLI.jpg
+date=2017-06-24
+URL=https://openload.co/f/MAZsalmtWLA/%7BMINI_Super-HQ%7D_Tomorrow.I.Will.Date.with.Yesterday%27s.You.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 type=video
 name=Sky on Fire (2016)
