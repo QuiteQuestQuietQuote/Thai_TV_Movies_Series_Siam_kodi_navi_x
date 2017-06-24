@@ -41,13 +41,32 @@ thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
 date=2017-06-21
 URL=https://openload.co/f/5Dlg-DKHwtY/Cars.3.2017.NOLOGO.TS.XViD.AC3-N.O.K.mp4
 
+type=video
+name=All Eyez on Me (2017) ENG
+thumb=https://image.tmdb.org/t/p/w640/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg
+date=2017-06-24
+URL=https://openload.co/f/1wRw_8vHnsc/All.Eyez.On.Me.2017.HDTS._Openloadmovies.me.mp4
 
+type=video
+name=Captain Underpants: The First Epic Movie (2017) ENG
+thumb=https://image.tmdb.org/t/p/w640/AjHZIkzhPXrRNE4VSLVWx6dirK9.jpg
+date=2017-06-24
+URL=https://openload.co/f/R4cxBhAAr7s/Captain.Underpants.2017.CAM.Openloadmovies.me.avi.mp4
+
+type=video
+name=Everything, Everything (2017) ENG
+thumb=https://image.tmdb.org/t/p/w640/rpl6GpwBzj1k5LiEdurY1Qe1AcS.jpg
+date=2017-06-24
+URL=https://openload.co/f/s2uhmmUIcL0/Everything.Everything.2O17.CAM.Openloadmovies.me.avi.mp4
 
 type=video
 name=Rough Night (2017) ENG
 thumb=https://image.tmdb.org/t/p/w640/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg
 date=2017-06-22
 URL=https://openload.co/f/YqgLbXDeYcs/Rough.Night.2017.HDTS.x264.MP3-NoGrp.mkv.mp4
+
+
+
 
 type=video
 name=Deep (2017) RUS
