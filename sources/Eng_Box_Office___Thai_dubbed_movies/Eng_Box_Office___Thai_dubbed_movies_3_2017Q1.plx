@@ -1,8 +1,8 @@
 ﻿version=1
-background=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
+background=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
-logo=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
+logo=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
+thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -29,16 +29,12 @@ URL=
 
 
 
-type=video
-name=Transformers: The Last Knight (2017) ENG
-thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
-date=2017-06-24
-URL=https://openload.co/f/HMXVuZspQcI/Transformers-_The_Last_Knight_%282017%29.mp4
+
 
 type=video
 name=Cars 3 (2017) ENG updated TS
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
-date=2017-06-21
+date=2017-06-24
 URL=https://openload.co/f/9Ia454Z2cbI/C-a-rs.3.N-E-W.HD-TS.X264-CPG.mkv.mp4
 
 type=video
@@ -337,6 +333,22 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=Despicable Me 3 (2017) CAM
+thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
+date=2017-06-25
+URL=https://openload.co/f/LBv_4ismw10/Despicable_Me_3_%282017%29_%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94_3%5BZOOM_V.1%5D%5B360p%5D.mp4
+
+type=video
+name=Transformers: The Last Knight (2017) CAM
+thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
+date=2017-06-25
+URL=https://openload.co/f/eDjJnX1fo_o/mvhd.mp4
+
 type=video
 name=Wonder Woman (2017) CAM updated TS
 thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
@@ -369,12 +381,7 @@ URL=https://openload.co/f/iJsBLoSeTro/Alien_Covenant_%282017%29_%E0%B9%80%E0%B8%
 player=default
 rating=-1.00
 
-type=video
-name=King Arthur: Legend of the Sword (2017) CAM
-thumb=https://image.tmdb.org/t/p/w640/5qtySjfuJfOLvVrVXuwNo2BIVPH.jpg
-URL=https://openload.co/f/rVDFKpeiB0Q/King_Arthur_Legend_of_the_Sword_%282017%29_%E0%B8%84%E0%B8%B4%E0%B8%87_%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B9%8C.mp4
-player=default
-rating=-1.00
+
 
 # 2773787
 type=video
@@ -403,14 +410,7 @@ player=default
 rating=-1.00
 description=A story about how a new baby's arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim./description
 
-# 2772625
-type=video
-name=Smurfs: The Lost Village (2017) CAM
-thumb=http://image.tmdb.org/t/p/w500/swt9crREg1UcKgg3wGWfoFNlXOz.jpg
-URL=https://openload.co/f/IcDWnP1oTBU/The_Smurfs_3_%282017%29_%E0%B8%AA%E0%B9%80%E0%B8%A1%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%9F_%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B2%E0%B8%9A%E0%B8%AA%E0%B8%B9%E0%B8%8D.mp4
-player=default
-rating=-1.00
-description=In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history./description
+
 
 
 
@@ -594,7 +594,23 @@ URL=
 
 
 
+type=video
+name=King Arthur: Legend of the Sword (2017) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/5qtySjfuJfOLvVrVXuwNo2BIVPH.jpg
+date=2017-06-25
+URL=https://openload.co/f/8SJSLV_V4Js/King.Arthur.Legend.of.the.Sword.2017.1080p.KORSUB.HDRip.x264.AC32.0.THR-CpT.mkv.mp4
+player=default
+rating=-1.00
 
+# 2772625
+type=video
+name=Smurfs: The Lost Village (2017) CAM SOUND
+thumb=http://image.tmdb.org/t/p/w500/swt9crREg1UcKgg3wGWfoFNlXOz.jpg
+date=2017-06-25
+URL=https://openload.co/f/GD-axLA90Aw/Smurfs.The.Lost.Village.2017.1080p.WEB-DL.DD5.1.H264.THR-CpT.mkv.mp4
+player=default
+rating=-1.00
+description=In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history./description
 
 # 2767795
 type=video
