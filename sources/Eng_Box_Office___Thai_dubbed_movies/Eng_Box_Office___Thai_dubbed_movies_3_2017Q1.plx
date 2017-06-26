@@ -346,8 +346,8 @@ URL=https://openload.co/f/LBv_4ismw10/Despicable_Me_3_%282017%29_%E0%B8%A1%E0%B8
 type=video
 name=Transformers: The Last Knight (2017) CAM
 thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
-date=2017-06-25
-URL=https://openload.co/f/eDjJnX1fo_o/mvhd.mp4
+date=2017-06-26
+URL=https://openload.co/f/br1sI5s2hv8/Transformers.The.Last.Knight.2017.CAMRiP.X264.THR-Cpt.mkv.mp4
 
 type=video
 name=Wonder Woman (2017) CAM updated TS
@@ -612,15 +612,7 @@ player=default
 rating=-1.00
 description=In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history./description
 
-# 2767795
-type=video
-name=Kong: Skull Island (2017) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/aoUyphk4nwffrwlZRaOa0eijgpr.jpg
-date=2017-06-21
-URL=https://openload.co/f/qefGnlqiVIk/Kong.Skull.Island.2017.1080p.WEB-DL.DD5.1.H264.THR-CpT.mkv.mp4
-player=default
-rating=-1.00
-description=Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island./description
+
 
 # 2770638
 type=video
@@ -726,7 +718,15 @@ URL=
 
 
 
-
+# 92
+type=video
+name=Kong: Skull Island (2017)
+thumb=http://image.tmdb.org/t/p/w500/aoUyphk4nwffrwlZRaOa0eijgpr.jpg
+date=2017-06-26
+URL=https://openload.co/f/LFglOdxw1LI/%7BMINI_Super-HQ%7D_Kong.Skull.Island.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+description=Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island./description
 
 type=video
 name=Resident Evil: Vendetta (2017)
