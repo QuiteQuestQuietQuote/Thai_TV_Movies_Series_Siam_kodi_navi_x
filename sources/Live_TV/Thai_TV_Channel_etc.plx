@@ -89,7 +89,14 @@ rating=-1.00
 type=video
 name=Nation TV
 thumb=https://2.bp.blogspot.com/-o7s4RRz4ppM/V7Sh7FTCXZI/AAAAAAAAnXE/eq39whb7Cr0DbQt7THIzcIVaokWhtEWsQCLcB/s1600/1.jpg
-URL=http://pr09ed011.dcs-cdn.com/nation/nationlive.isml/manifest(format=m3u8-aapl).m3u8
+URL=http://pr06ed012.dcs-cdn.com/nation/nationlive.isml/manifest(format=m3u8-aapl).m3u8
+player=default
+rating=-1.00
+
+type=video
+name=Money Ch
+thumb=
+URL=rtmp://live4.netdesignhost.com/moneychannellive/
 player=default
 rating=-1.00
 
