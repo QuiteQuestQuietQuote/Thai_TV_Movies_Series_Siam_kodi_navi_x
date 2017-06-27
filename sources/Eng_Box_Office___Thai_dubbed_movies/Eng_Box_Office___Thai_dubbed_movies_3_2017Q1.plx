@@ -61,6 +61,31 @@ thumb=https://image.tmdb.org/t/p/w640/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg
 date=2017-06-22
 URL=https://openload.co/f/YqgLbXDeYcs/Rough.Night.2017.HDTS.x264.MP3-NoGrp.mkv.mp4
 
+type=video
+name=Lowriders (2017) ENG
+thumb=https://image.tmdb.org/t/p/w640/Yt1iun7B5o5k8QlVLD8biAeKvp.jpg
+date=2017-06-27
+URL=https://openload.co/f/tTU0OPN5Aus/L-o-w-R-i-d-e-r-s.2017.CAM.READNFO.XViD-26k.avi.mp4
+
+
+
+
+
+# 2773804
+type=video
+name=The Lost City of Z (2017) ENG updated WEB
+thumb=http://image.tmdb.org/t/p/w500/ik3ebv7J18fs6cHkmu91oxz7EGt.jpg
+date=2017-06-27
+URL=https://openload.co/f/iO3f7zIbxnA/T-L-C-Z.2016.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+player=default
+rating=-1.00
+description=A true-life drama, centering on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s./description
+
+type=video
+name=Rules Don't Apply (2016) ENG updated BR
+thumb=https://image.tmdb.org/t/p/w640/9d509ztC8mI2BYQ57tFsiHG25Qw.jpg
+date=2017-06-27
+URL=https://openload.co/f/DI_tDvTDC_I/%7BMINI_Super-HQ%7D_Rules.Don%27t.Apply.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
 
@@ -153,15 +178,7 @@ player=default
 rating=-1.00
 description=A CIA agent is baited into a trap involving London and a biological attack./description
 
-# 2773804
-type=video
-name=The Lost City of Z (2017) RUS
-thumb=http://image.tmdb.org/t/p/w500/ik3ebv7J18fs6cHkmu91oxz7EGt.jpg
-date=2017-05-05
-URL=https://openload.co/f/gg-Ii4rio4w/T_L_C_of_Z_2016_CAM_%5BLayar-21.com%5D.mp4
-player=default
-rating=-1.00
-description=A true-life drama, centering on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s./description
+
 
 # 2773803
 type=video
@@ -344,10 +361,10 @@ date=2017-06-25
 URL=https://openload.co/f/LBv_4ismw10/Despicable_Me_3_%282017%29_%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94_3%5BZOOM_V.1%5D%5B360p%5D.mp4
 
 type=video
-name=Transformers: The Last Knight (2017) CAM
+name=Transformers: The Last Knight (2017) CAM updated TS
 thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
-date=2017-06-26
-URL=https://openload.co/f/br1sI5s2hv8/Transformers.The.Last.Knight.2017.CAMRiP.X264.THR-Cpt.mkv.mp4
+date=2017-06-27
+URL=https://openload.co/f/lHL-fIbHpZQ/Transformers_The_Last_Knight_2017.mkv.mp4
 
 type=video
 name=Wonder Woman (2017) CAM updated TS
@@ -717,6 +734,13 @@ URL=
 
 
 
+
+
+type=video
+name=City Under Siege (2010)
+thumb=https://image.tmdb.org/t/p/w640/ycPcZt0ArrqLtN3Hh9aTXmsxdGP.jpg
+date=2017-06-27
+URL=https://openload.co/f/agPWg785zZ8/%7BMiniHQ%7D_City.Under.Siege.2010.1080p.DTS.BrRip.x264-joythun.mkv.mp4
 
 # 92
 type=video

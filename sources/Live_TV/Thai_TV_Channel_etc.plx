@@ -159,7 +159,7 @@ rating=-1.00
 type=video
 name=CHANNEL 3
 thumb=https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Channel_3_Thailand_Logo.svg/1200px-Channel_3_Thailand_Logo.svg.png
-URL=http://111.223.37.196:1935/thaitv3_HD/thaitv3_HD_1/chunklist_w1332595232.m3u8
+URL=http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_client_ip=1&x_ark_expires=1498587547&x_ark_path_prefix=/live/&x_ark_signature=Hu3yQpP0DWLfiJOBErjd3g
 player=default
 rating=-1.00
 
@@ -285,7 +285,7 @@ rating=-1.00
 type=video
 name=CH 3 SD
 thumb=http://www.thaiptv.com/img/3sd.png
-URL=http://111.223.37.196:1935/thaitv3_SD/thaitv3_SD_2/playlist.m3u8
+URL=http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_client_ip=1&x_ark_expires=1498587547&x_ark_path_prefix=/live/&x_ark_signature=Hu3yQpP0DWLfiJOBErjd3g
 player=default
 rating=-1.00
 
