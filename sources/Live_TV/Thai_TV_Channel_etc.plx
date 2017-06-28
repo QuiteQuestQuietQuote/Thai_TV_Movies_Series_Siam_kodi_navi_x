@@ -173,7 +173,7 @@ rating=-1.00
 type=video
 name=CHANNEL 7
 thumb=https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png
-URL=http://je7.bugaboo.tv/liveedgech7_partner/720p/playlist.m3u8
+URL=http://bbtvalive-a.bugaboo.tv/liveedgech7/_definst_/smil:auto.smil/chunklist_b2300000_sleng.m3u8
 player=default
 rating=-1.00
 
@@ -285,7 +285,7 @@ rating=-1.00
 type=video
 name=CH 3 SD
 thumb=http://www.thaiptv.com/img/3sd.png
-URL=http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_client_ip=1&x_ark_expires=1498587547&x_ark_path_prefix=/live/&x_ark_signature=Hu3yQpP0DWLfiJOBErjd3g
+URL=http://ch3-28-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=lGu9hVLP35R8nmsn&x_ark_auth_type=ark-v2&x_ark_client_ip=1&x_ark_expires=1498674437&x_ark_path_prefix=/live/&x_ark_signature=VXcWFdv9K7zCEozANRekPw
 player=default
 rating=-1.00
 
