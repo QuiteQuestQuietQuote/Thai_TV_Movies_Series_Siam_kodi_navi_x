@@ -283,14 +283,7 @@ player=default
 rating=-1.00
 description=Based on the airline accident that occurred in July of 2002 and on the events that took place 478 days later./description
 
-# 2771289
-type=video
-name=A Few Less Men (2016) ENG
-thumb=http://image.tmdb.org/t/p/w500/2lHgTf34cY77coqg2F4Pxu3zjFa.jpg
-URL=https://openload.co/f/hOkgkGurShg/A_Few_Less_Men_2017_CAMRip_%5BLayar-21.com%5D.mp4
-player=default
-rating=-1.00
-description=Travel plans for three men in ill-fitting wedding tuxedos goes horribly wrong. A follow-up to the 2011 comedy 'A Few Best Men'./description
+
 
 # 2771594
 type=video
@@ -322,7 +315,15 @@ rating=-1.00
 description=When the question is to be or not to be, there is only one answer./description
 
 
-
+# 2771289
+type=video
+name=A Few Less Men (2016) ENG updated BR
+thumb=http://image.tmdb.org/t/p/w500/2lHgTf34cY77coqg2F4Pxu3zjFa.jpg
+date=2017-06-28
+URL=https://openload.co/f/rlrojL37jg4/pfa-a.few.less.men.720p.mkv.mp4
+player=default
+rating=-1.00
+description=Travel plans for three men in ill-fitting wedding tuxedos goes horribly wrong. A follow-up to the 2011 comedy 'A Few Best Men'./description
 
 type=video
 name=Free State of Jones (2016) ENG streamango test
@@ -331,6 +332,13 @@ date=2017-06-22
 URL=https://streamango.com/embed/bffmpmqkttpcbmmq/Free_State_of_Jones_2016_1080p_BluRay_x264_DTS-HDC_mov_mp4
 
 
+
+
+type=video
+name=
+thumb=
+date=
+URL=
 
 # 2771674
 type=video
