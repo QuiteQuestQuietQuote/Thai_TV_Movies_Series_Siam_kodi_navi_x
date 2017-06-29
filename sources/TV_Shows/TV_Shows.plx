@@ -11,8 +11,8 @@ icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/TV_Shows.plx?action=sortsel&cur=ord
 
 type=playlist
-name=Game Of Thrones_TH
+name=Game_Of_Thrones_TH
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/19NPjmN6o3QGYfu8WnzgDSx75Ov.jpg
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/Game Of Thrones_TH.plx
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/Game_Of_Thrones_TH.plx
 player=default
 rating=-1.00
