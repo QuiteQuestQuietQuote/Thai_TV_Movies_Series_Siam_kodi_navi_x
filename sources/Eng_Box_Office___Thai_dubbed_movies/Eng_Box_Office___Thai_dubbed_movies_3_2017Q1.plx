@@ -38,10 +38,10 @@ date=2017-06-24
 URL=https://openload.co/f/9Ia454Z2cbI/C-a-rs.3.N-E-W.HD-TS.X264-CPG.mkv.mp4
 
 type=video
-name=All Eyez on Me (2017) ENG
+name=All Eyez on Me (2017) ENG updated UNCEN TS
 thumb=https://image.tmdb.org/t/p/w640/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg
-date=2017-06-24
-URL=https://openload.co/f/1wRw_8vHnsc/All.Eyez.On.Me.2017.HDTS._Openloadmovies.me.mp4
+date=2017-06-29
+URL=https://openload.co/f/GnkaTsI1K-A/A.E.O.M.2017.UNCENSORED.Movies.HD.TS.x264-NoGRP.mkv
 
 type=video
 name=Captain Underpants: The First Epic Movie (2017) ENG
