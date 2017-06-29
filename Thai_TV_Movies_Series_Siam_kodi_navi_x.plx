@@ -10,6 +10,9 @@ name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Thai_TV_Movies_Series_Siam_kodi_navi_x.plx?action=sortsel&cur=ord
 
+
+
+
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
 thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
@@ -18,11 +21,22 @@ player=default
 rating=-1.00
 
 type=playlist
-name=96_2_69_OHOHD_18up_XXX
-thumb=https://4.bp.blogspot.com/-_5ioyzmX5T8/WN8H64OWkYI/AAAAAAAAHN4/_43g2SHgg8ocoYiCZTr9sMpwwNEIjF8aQCLcB/s320/4SSS.jpg
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_18up_XXX.plx
+name=TV_Shows
+thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/19NPjmN6o3QGYfu8WnzgDSx75Ov.jpg
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/TV_Shows.plx
 player=default
 rating=-1.00
+
+type=playlist
+name=Thai_TV_Channel_etc
+thumb=https://upload.wikimedia.org/wikipedia/en/5/5a/Thai_PBS_logo.png
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Live_TV/Thai_TV_Channel_etc.plx
+player=default
+rating=-1.00
+
+
+
+
 
 type=playlist
 name=Magazine_behind_the_scene_18up_Thai
@@ -32,9 +46,9 @@ player=default
 rating=-1.00
 
 type=playlist
-name=Thai_TV_Channel_etc
-thumb=https://upload.wikimedia.org/wikipedia/en/5/5a/Thai_PBS_logo.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Live_TV/Thai_TV_Channel_etc.plx
+name=96_2_69_OHOHD_18up_XXX
+thumb=https://4.bp.blogspot.com/-_5ioyzmX5T8/WN8H64OWkYI/AAAAAAAAHN4/_43g2SHgg8ocoYiCZTr9sMpwwNEIjF8aQCLcB/s320/4SSS.jpg
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_18up_XXX.plx
 player=default
 rating=-1.00
 

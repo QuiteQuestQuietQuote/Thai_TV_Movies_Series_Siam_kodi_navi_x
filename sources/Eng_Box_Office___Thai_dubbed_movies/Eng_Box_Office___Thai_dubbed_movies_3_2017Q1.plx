@@ -81,11 +81,7 @@ player=default
 rating=-1.00
 description=A true-life drama, centering on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s./description
 
-type=video
-name=Rules Don't Apply (2016) ENG updated BR
-thumb=https://image.tmdb.org/t/p/w640/9d509ztC8mI2BYQ57tFsiHG25Qw.jpg
-date=2017-06-27
-URL=https://openload.co/f/DI_tDvTDC_I/%7BMINI_Super-HQ%7D_Rules.Don%27t.Apply.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+
 
 
 
@@ -742,7 +738,11 @@ URL=
 
 
 
-
+type=video
+name=Rules Don't Apply (2016)
+thumb=https://image.tmdb.org/t/p/w640/9d509ztC8mI2BYQ57tFsiHG25Qw.jpg
+date=2017-06-29
+URL=https://streamango.com/f/dabcdlatndfkredf/Rules_Don_t_Apply_mp4
 
 type=video
 name=City Under Siege (2010)
