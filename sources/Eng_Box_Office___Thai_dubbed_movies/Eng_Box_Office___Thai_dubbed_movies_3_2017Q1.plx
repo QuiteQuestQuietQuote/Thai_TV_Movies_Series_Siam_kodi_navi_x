@@ -145,14 +145,7 @@ player=default
 rating=-1.00
 description=An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world./description
 
-# 2770463
-type=video
-name=CHiPS (2017) ENG updated BRR
-thumb=http://image.tmdb.org/t/p/w500/oyPcsfGWL5Se6RGW1JCVgpHlASH.jpg
-URL=https://openload.co/f/waqYTWAt0sY/C-h-i-p-s.2017.BRRip.XviD.AC3-RBG.avi.mp4
-player=default
-rating=-1.00
-description=The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles./description
+
 
 # 2773806
 type=video
@@ -322,10 +315,10 @@ rating=-1.00
 description=Travel plans for three men in ill-fitting wedding tuxedos goes horribly wrong. A follow-up to the 2011 comedy 'A Few Best Men'./description
 
 type=video
-name=Free State of Jones (2016) ENG streamango test
+name=Free State of Jones (2016) ENG BR
 thumb=https://image.tmdb.org/t/p/w640/sxutq7sXcaMy8b4OguaWZwWrchM.jpg
-date=2017-06-22
-URL=https://streamango.com/embed/bffmpmqkttpcbmmq/Free_State_of_Jones_2016_1080p_BluRay_x264_DTS-HDC_mov_mp4
+date=2017-06-30
+URL=https://streamango.com/f/crkpcatklcmelbtb/Free_State_of_Jones_2016
 
 
 
@@ -737,6 +730,30 @@ URL=
 
 
 
+
+
+
+type=video
+name=Dragonheart: Battle for the Heartfire (2017)
+thumb=https://image.tmdb.org/t/p/w640/g3ekJNz2ooJrlWUiLaseCgiADBH.jpg
+date=2017-06-30
+URL=https://streamango.com/f/nqeeabprposprdmq/Dragonheart_Battle_for_the_Heartfire_mp4
+
+type=video
+name=Table 19 (2017)
+thumb=https://image.tmdb.org/t/p/w640/vz0CWnSwcQz1si7pLZp4hC4A1zi.jpg
+date=2017-06-30
+URL=https://streamango.com/f/dscrqqqabpacqsks/Table_19_mp4
+
+#95
+type=video
+name=CHiPS (2017)
+thumb=http://image.tmdb.org/t/p/w500/oyPcsfGWL5Se6RGW1JCVgpHlASH.jpg
+date=2017-06-30
+URL=https://streamango.com/f/kcbbqqqlbobktpar/CHIPS_mp4
+player=default
+rating=-1.00
+description=The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles./description
 
 type=video
 name=Rules Don't Apply (2016)
