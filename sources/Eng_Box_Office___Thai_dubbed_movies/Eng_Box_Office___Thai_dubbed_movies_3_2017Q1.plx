@@ -38,6 +38,12 @@ date=2017-06-24
 URL=https://openload.co/f/9Ia454Z2cbI/C-a-rs.3.N-E-W.HD-TS.X264-CPG.mkv.mp4
 
 type=video
+name=2:22 (2017) ENG
+thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
+date=2017-07-01
+URL=https://openload.co/f/aOs6f27K4RU/2.2-2.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
 name=All Eyez on Me (2017) ENG updated UNCEN TS
 thumb=https://image.tmdb.org/t/p/w640/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg
 date=2017-06-29
@@ -73,10 +79,10 @@ URL=https://openload.co/f/tTU0OPN5Aus/L-o-w-R-i-d-e-r-s.2017.CAM.READNFO.XViD-26
 
 # 2773804
 type=video
-name=The Lost City of Z (2017) ENG updated WEB
+name=The Lost City of Z (2017) ENG updated BR
 thumb=http://image.tmdb.org/t/p/w500/ik3ebv7J18fs6cHkmu91oxz7EGt.jpg
-date=2017-06-27
-URL=https://openload.co/f/iO3f7zIbxnA/T-L-C-Z.2016.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+date=2017-07-01
+URL=https://openload.co/f/3WQUxlmpcTE/The.Lost.City.of.Z.2016.720p.BluRay.x264-GECKOS.mkv.mp4
 player=default
 rating=-1.00
 description=A true-life drama, centering on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s./description

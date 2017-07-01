@@ -235,14 +235,7 @@ player=default
 rating=-1.00
 description=This film is a remake of the 1989 Doraemon Movie 10: Nobita no Nippon Tanjou. Nobita and the gang run away from home, traveling back in time to 70,000 years ago before Japan was even born. After a while, they return to the present. However, when they bump into a young caveman, Kukuru, who they have accidentally transported forward to their current era, they realize they must take him back to the primitive age. On top of that, they will have to save Kukuru's tribe, called the Hikari tribe, which was attacked and abducted by the Giganzonbie and Kurayami tribe./description
 
-# 2765614
-type=video
-name=Sky on Fire (CAM SOUND)
-thumb=http://image.tmdb.org/t/p/w500/a4WockhydYynkCFkqwIlIrYnFO4.jpg
-URL=https://openload.co/f/y-7mpKewAgU/Sky_On_Fire_%282017%29_%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%88%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94.mp4
-player=default
-rating=-1.00
-description=The chief security officer at a top-secret medical facility finds himself caught in an explosive battle when a young thief and his accomplices steal a groundbreaking curative medicine. After discovering the true origins of the medicine, the officer must decide who he can trust to protect the cure from falling into the wrong hands, and prevent an all-out war from bringing the city to its knees./description
+
 
 # 2763234
 type=video
