@@ -14,6 +14,19 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
+
+
+
+
+
+type=playlist
+name=JAV_21_18up 
+thumb=https://3.bp.blogspot.com/-J0mjV8CkWSs/WVB0tNAOp_I/AAAAAAAANYE/1dsgspQS5Y0R02mN1XU39EQEquFGcEnGQCEwYBhgL/s1600/Screenshot_2.png
+date=2017-07-01
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_21_18up.plx
+player=default
+rating=-1.00
+
 type=playlist
 name=JAV_20_18up_PIES
 thumb=https://3.bp.blogspot.com/-CPJ_buFWuk8/WToXB-_uDqI/AAAAAAAANA8/iT3kpzdiB3EiFYBqxQ0d2V88kJ2uG6NXwCLcB/s1600/Screenshot_5.png

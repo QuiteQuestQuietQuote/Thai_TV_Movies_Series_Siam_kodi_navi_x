@@ -35,6 +35,82 @@ URL=
 
 
 
+type=video
+name=174xxxxxxxxxxxxxxxxxxxxxAsian Sex Diary.Soey
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Soey_.jpg
+date=2017-07-01
+URL=https://openload.co/f/98vO4mp4zic/Asian_Sex_Diary.Soey.mp4
+
+type=video
+name=Asian Sex Diary.Su.Morning
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Su_.Morning.jpg
+date=2017-07-01
+URL=https://openload.co/f/SAu_dPv2Nbc/Asian_Sex_Diary.Su.Morning.mp4
+
+type=video
+name=Asian Sex Diary.Sa.Dress.Revenge.3
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Sa_.Dress_.Revenge.3.jpg
+date=2017-07-01
+URL=https://openload.co/f/7B980ss1efI/Asian_Sex_Diary.Sa.Dress.Revenge.3.mp4
+
+type=video
+name=Asian Sex Diary.Ray
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Ray_.jpg
+date=2017-07-01
+URL=https://openload.co/f/b0Vr9kfPgcY/Asian_Sex_Diary.Ray.mp4
+
+type=video
+name=Asian Sex Diary.Pa
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Pa_.jpg
+date=2017-07-01
+URL=https://openload.co/f/vG7xpbzT5O4/Asian_Sex_Diary.Pa.mp4
+
+type=video
+name=Asian Sex Diary.Po
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Po_.jpg
+date=2017-07-01
+URL=https://openload.co/f/JkGFEH7wxHQ/Asian_Sex_Diary.Po.mp4
+
+type=video
+name=Asian Sex Diary.Ouy
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Ouy_.jpg
+date=2017-07-01
+URL=https://openload.co/f/wdNQ1SwYPTo/Asian_Sex_Diary.Ouy.mp4
+
+type=video
+name=Asian Sex Diary.Nei
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Nei_.jpg
+date=2017-07-01
+URL=https://openload.co/f/rocyxmvDpIM/Asian_Sex_Diary.Nei.mp4
+
+type=video
+name=Asian Sex Diary.Mai
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Mai_.jpg
+date=2017-07-01
+URL=https://openload.co/f/kbfbK_huQkE/Asian_Sex_Diary.Mai.mp4
+
+type=video
+name=Asian Sex Diary.Nid
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Nid_.jpg
+date=2017-07-01
+URL=https://openload.co/f/7mdGI2qcnLc/Asian_Sex_Diary.Nid.mp4
+
+type=video
+name=Asian Sex Diary.Nati
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Nati_.jpg
+date=2017-07-01
+URL=https://openload.co/f/uALyuQMHjN0/Asian_Sex_Diary.Nati.mp4
+
+type=video
+name=Asian Sex Diary.Mai.Dress.Revenge.2
+thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Mai_.Dress_.Revenge.2.jpg
+date=2017-07-01
+URL=https://openload.co/f/67W3ttHepSw/Asian_Sex_Diary.Mai.Dress.Revenge.2.mp4
+
+
+
+
+
 
 
 type=video

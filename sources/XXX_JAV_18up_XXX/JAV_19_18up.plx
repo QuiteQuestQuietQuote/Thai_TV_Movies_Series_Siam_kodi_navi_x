@@ -19,14 +19,412 @@ rating=-1.00
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 type=video
-name=
-thumb=
-date=
-URL=
+name=200xxxxxxxxxxxxxxxxxxxxJAV ARMG-267 – JK CULTURAL FESTIVAL BOOTHS, FLICKERING SHOW ONASAPO CAFE VII
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-ARMG-267.jpg
+date=2017-07-01
+URL=https://openload.co/f/OB-IJXui5iA/JAV_ARMG-267.720p.mp4
+
+type=video
+name=JAV JXAZ-011 – PLUMP NIKKAN MEGA ASS TIGHT SKIRT XIANGSHAN YOSHISAKURA
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-JXAZ-011.jpg
+date=2017-07-01
+URL=https://openload.co/f/9CwIfv4Lwbk/JAV_JXAZ-011.720p.mp4
+
+type=video
+name=JAV HMGL-147 – EMBARRASSING BODY REALISTIC LOVE DOLL MIHARA HONOKA
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-HMGL-147.jpg
+date=2017-07-01
+URL=https://openload.co/f/8SVSGWh7-aQ/JAV_HMGL-147.720p.mp4
+
+type=video
+name=JAV YST-03 – RAW FUCK AFFAIR 03
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-YST-03.jpg
+date=2017-07-01
+URL=https://openload.co/f/bHXfv8dl85M/JAV_yst-003.wmv.mp4
+
+type=video
+name=JAV LOVE-303 – WE ARE 7 DAYS A WEEK MASTURBATION … LIFTING OF THE BAN ASS FRENZY SEX MATSUOKA YUINA 19-YEAR-OLD PIANO FOR 17 YEARS BOXED PRINCESS
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-LOVE-303.jpg
+date=2017-07-01
+URL=https://openload.co/f/UnZyxSk17CA/JAV_LOVE-303.720p.mp4
+
+type=video
+name=JAV AUKG-349 – MARRIED LESBIAN HITOMI ENJO MINAKO KIRISHIMA
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-AUKG-349.jpg
+date=2017-07-01
+URL=https://openload.co/f/7c07t2T__gw/JAV_AUKG-349.720p.mp4
+
+type=video
+name=JAV AUKG-350 – LILY ROMAN TAN ~ PROSTITUTE LESBIAN ~ GOD SNOW NARIMIYA ABCS
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-AUKG-350.jpg
+date=2017-07-01
+URL=https://openload.co/f/anIv9YHwPTI/JAV_AUKG-350.720p.mp4
+
+type=video
+name=JAV GASO-0014 – MOE ANGEL SHE OF ME
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-GASO-0014.jpg
+date=2017-07-01
+URL=https://openload.co/f/33w1bEHCnCA/JAV_GASO-0014.mp4
+
+type=video
+name=JAV PPT-016 – MOMODANI ERIKA 8 HOURS BEST PRESTIGE PREMIUM TREASURE VOL.01
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-PPT-016.jpg
+date=2017-07-01
+URL=https://openload.co/f/5vAbMst9iOA/JAV_ppt-016A.mkv.mp4
+
+type=video
+name=JAV PPT-004 – 8 HOURS LISA BEST PRESTIGE PREMIUM TREASURE
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-PPT-004.jpg
+date=2017-07-01
+URL=https://openload.co/f/qrj-CHTQh2A/JAV_ppt-004A.wmv.mp4
+
+type=video
+name=JAV KTDS-717 – HONSAWA TOMOMI ROLLED OK SPEAR PIES IN THE SHAVED SISTER PLUMP ASS
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-KTDS-717.jpg
+date=2017-07-01
+URL=https://openload.co/f/JZyzTNOi-i8/JAV_KTDS-717.mkv.mp4
+
+type=video
+name=RCT-876 – Honma Yuri, Kanou Ayako, Matsumoto Mei, Miura Haruka, Mizuhara Sana, Mizuno Asahi, Shibuya Kaho, Shinoda Yu – The Ultimate Nude Lesbian Battle DYNAMITE 2016
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/RCT-876.jpg
+date=2017-07-01
+URL=https://openload.co/f/vpwuizZpKyo/JAV_RCT-876.mp4
+
+type=video
+name=IPZ-809 – Momonogi Kana – Disciplined Idol, Choking! Urination! Continuous Spanking! Extreme Disciplinary Rape! Kana Momonogi
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/IPZ-809.jpg
+date=2017-07-01
+URL=https://openload.co/f/YmJ4iauLHkY/JAV_IPZ-809.mp4
+
+type=video
+name=AP-319 – Unknown – Mass Tranquilizing Drugs I Go To An All Boys School And I’m One Of The Losers, And After I Graduated And Went To Work In Tokyo, I Still Couldn’t Get A Girlfriend
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/AP-319.jpg
+date=2017-07-01
+URL=https://openload.co/f/6Kt5LAQ9tWk/JAV_AP-319.mp4
+
+type=video
+name=SNIS-623 – RION – Pretty Boobs Popping Out
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SNIS-623.jpg
+date=2017-07-01
+URL=https://openload.co/f/AhhymeEv5YA/JAV_SNIS-623.mp4
+
+type=video
+name=JUFD-625 – Saizyou Sara – Cum Swallowing Unleashed And Serious Creampie 38 Cum Shots In 114 Minutes Of Non Stop Action A For Real Photography Session For All The Marbles
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUFD-625.jpg
+date=2017-07-01
+URL=https://openload.co/f/JqmilFOhNRM/JAV_JUFD-625.mp4
+
+type=video
+name=MEYD-153 – Namiki Touko – 11 Years Of Marriage A 35 Year Old Wife, No Children Sexless And Slender A Married Woman Makes The Decision Of Her Life, To Debut In An AV Video
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MEYD-153.jpg
+date=2017-07-01
+URL=https://openload.co/f/HC5zb1sG074/JAV_MEYD-153.mp4
+
+type=video
+name=MXGS-889 – Hatano Yui – Go On The Ultimate Date With Yui!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MXGS-889.jpg
+date=2017-07-01
+URL=https://openload.co/f/ZmHJrlN-RHk/JAV_MXGS-889.mp4
 
 
 
+
+
+
+
+
+
+type=video
+name=182xxxxxxxxxxxxxxxxxxxxDANDY-482 – Unknown – I Let Slip To A Coworker That A Nurse Fucked Me After She Caught Me Jerking Off… I Thought She’d Be Mad But She Actually Let The Two Of Us Bang Her Together – vol. 1
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/DANDY-482.jpg
+date=2017-07-01
+URL=https://openload.co/f/tWX-O12KYIs/JAV_DANDY-482.mp4
+
+type=video
+name=STAR-661 – Matsuoka China – The Dirty Mouth That Wants To Suck All The Time
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/STAR-661.jpg
+date=2017-07-01
+URL=https://openload.co/f/9Muo5X_FmuU/JAV_STAR-661.mp4
+
+type=video
+name=HND-323 – Onodera Risa – Finally Ready For A Real Creampie
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/HND-323.jpg
+date=2017-07-01
+URL=https://openload.co/f/kpXJbtCmVzA/JAV_HND-323.mp4
+
+type=video
+name=JUFD-556 – Shinoda Ayumi – Slut’s Obscene Spread Pussy!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUFD-556.jpg
+date=2017-07-01
+URL=https://openload.co/f/s12GM9TXuWE/JAV_JUFD-556.mp4
+
+type=video
+name=PPPD-341 – Meguri – Beautiful Secret Teasing
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/PPPD-341.jpg
+date=2017-07-01
+URL=https://openload.co/f/fmzJ8yTt8cQ/JAV_PPPD-341.mp4
+
+type=video
+name=SNIS-673 – RION – Godly Tits You’d Die For! 105cm J Cup Tits Continuously Fondled For 120 Minutes! Watch Her Voluminous Tits Shake And Bounce While Having Sex!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SNIS-673.jpg
+date=2017-07-01
+URL=https://openload.co/f/82KNPp4JaU4/JAV_SNIS-673.mp4
+
+type=video
+name=XVSR-126 – Misaki Aya – A Beautiful Girl We Had To Shoot Sexy Things You Want Her To Say As She Gazes Into Your Eyes
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/XVSR-126.jpg
+date=2017-07-01
+URL=https://openload.co/f/0R6WClyruA0/JAV_XVSR-126.mp4
+
+type=video
+name=KAWD-708 – Yoshikawa Aimi – Repeated Hardcore Sex Until Every Drop of Cum From This Big Dick Is Spent
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/KAWD-708.jpg
+date=2017-07-01
+URL=https://openload.co/f/3LFRgUNST60/JAV_KAWD-708.mp4
+
+type=video
+name=IPZ-716 – Nozomi Mayu – New Spermania – Huge Loads Shot In Mouths! Massive BUKKAKE! Mayu Gets Covered In a Cum Facial
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/IPZ-716.jpg
+date=2017-07-01
+URL=https://openload.co/f/ZoS1l6ZSPuk/JAV_IPZ-716.mp4
+
+type=video
+name=DJE-061 – Natsume Airi – Airi Natsume Swallowing 100 Shots Of Cum
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/DJE-061.jpg
+date=2017-07-01
+URL=https://openload.co/f/rmjymd6leMU/JAV_DJE-061.mp4
+
+type=video
+name=STAR-625 – Kogawa Iori – Charmed By The Young Lady’s Luxury Lingerie
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/STAR-625.jpg
+date=2017-07-01
+URL=https://openload.co/f/NgSJ_naVH84/JAV_STAR-625.mp4
+
+type=video
+name=JUFD-591 – Hasumi Kurea – Shocking & New! Shaved Pussy Bitch MANIAX
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUFD-591.jpg
+date=2017-07-01
+URL=https://openload.co/f/_fcMfkWJKDU/JAV_JUFD-591.mp4
+
+type=video
+name=PPPD-465 – Shinoda Ayumi – My Wife’s Been Acting Weird. (Secret Cuckold Footage)
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/PPPD-465.jpg
+date=2017-07-01
+URL=https://openload.co/f/-oCbn5wOg7w/JAV_PPPD-465.mp4
+
+type=video
+name=STAR-701 – Matsuoka China – Aphrodisiac Hypnotism Trance Global Ecstasy Sex
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/STAR-701.jpg
+date=2017-07-01
+URL=https://openload.co/f/ZO6ruk1DUH0/JAV_STAR-701.mp4
+
+type=video
+name=ADN-092 – Ishihara Rina – Disgrace Towers
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/ADN-092.jpg
+date=2017-07-01
+URL=https://openload.co/f/Fdh-SZxIj40/JAV_ADN-092.mp4
+
+type=video
+name=NHDTA-837 – Unknown – A Naughty Student Slips His Female Teacher A Diuretic And She Needs To Pee So Badly She Can’t Hold It – She Runs Away, He Catches Her, Fucks Her, And She Cums While She Pisses
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/NHDTA-837.jpg
+date=2017-07-01
+URL=https://openload.co/f/fFy-mplWE_g/JAV_NHDTA-837.mp4
+
+type=video
+name=SABA-194 – Unknown – The More Sober And Serious Likely Glasses Women, In Fact, Said Ultra-erotic True Attending -high Deviation Value University. -SP 3
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SABA-194.jpg
+date=2017-07-01
+URL=https://openload.co/f/pe9x7xScRc8/JAV_SABA-194.mp4
+
+type=video
+name=STAR-618 – Minami Nei – Beautiful Celeb Office Lady Nei Minami Gets Tied Up, Confined, Raped And Creampied!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/STAR-618.jpg
+date=2017-07-01
+URL=https://openload.co/f/e46bUhrSlGY/JAV_STAR-618.mp4
+
+type=video
+name=NHDTA-815 – Unknown – Creampie Perverts 12 – Half-In Half-Out Special
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/NHDTA-815.jpg
+date=2017-07-01
+URL=https://openload.co/f/bDG1uxE0F-E/JAV_NHDTA-815.mp4
+
+type=video
+name=ABP-480 – Kitano Nozomi – Intense And Intimate Shots. Closeup Eroticism 3 Sex Scenes.
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/ABP-480.jpg
+date=2017-07-01
+URL=https://openload.co/f/AkTgwreg60A/JAV_ABP-480.mp4
+
+type=video
+name=SNIS-719 – Hiduki Rui – Mixed Body Fluids, Deep Sex
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SNIS-719.jpg
+date=2017-07-01
+URL=https://openload.co/f/raHmfZ0RmpM/JAV_SNIS-719.mp4
+
+type=video
+name=IPZ-787 – Yukishiro Kanna – Porn Star Delivery Service SEX – Right To Your Home, Just Like A Call Girl! Or To A Love Hotel! Featuring A Fresh Face! Today’s Special Slut Is -Kanna Yukishiro
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/IPZ-787.jpg
+date=2017-07-01
+URL=https://openload.co/f/JvCwr11Fbf0/JAV_IPZ-787.mp4
+
+type=video
+name=DVAJ-127 – Kawakami Nanami – Hannibal Lock S&M Bondage Orgasm
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/DVAJ-127.jpg
+date=2017-07-01
+URL=https://openload.co/f/bLYFRi6bz4A/JAV_DVAJ-127.mp4
+
+type=video
+name=CEAD-071 – Akiyama Shizuka – My Doting Mother – A Loving Stepmom Soothes Her Son’s Body With Squirting, Atonement Sex 6 Times!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/CEAD-071.jpg
+date=2017-07-01
+URL=https://openload.co/f/WdsRqgur3Qw/JAV_CEAD-071.mp4
+
+
+
+
+
+
+
+type=video
+name=158xxxxxxxxxxxxxxxxxxxxTEAM-089 – Suzumiya Suzu – Multiple Vaginal Orgasms So Intense She Bends Over Backwards
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/TEAM-089.jpg
+date=2017-07-01
+URL=https://openload.co/f/JyYiTfFW_78/JAV_TEAM-089.mp4
+
+type=video
+name=RBD-782 – Kozai Saki – Spoon Position Rape Raped While Enduring The Sighs…
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/RBD-782.jpg
+date=2017-07-01
+URL=https://openload.co/f/719kWvtZFFw/JAV_RBD-782.mp4
+
+type=video
+name=AP-306 – Unknown – Humiliating Public Punishment! Hey You Pretty Little Bully! This’ll Teach You Not To Mess Around With Guys! My New School Used To Admit Only Girls
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/AP-306.jpg
+date=2017-07-01
+URL=https://openload.co/f/1JPlK8QDKIw/JAV_AP-306.mp4
+
+type=video
+name=HUNTA-140 – Unknown – I Was The Only Guy In A House Full Of 11 Runaway Girls! They’ve All Got Issues Back Home That Forced Them Into This Dirt-Cheap Shared Rental Shack With Me! And Since There’s Only One Guy
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/HUNTA-140.jpg
+date=2017-07-01
+URL=https://openload.co/f/w6o77L4ddIE/JAV_HUNTA-140.mp4
+
+type=video
+name=JUX-881 – Nakamura Tomoe – The Face Of My Wife I’m Not Aware Of…She Gets Fucked By A Plumber Who Turned Out To Be Her Childhood Friend
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUX-881.jpg
+date=2017-07-01
+URL=https://openload.co/f/AazW5_wOAPc/JAV_JUX-881.mp4
+
+type=video
+name=JUX-936 – Tohno Miho – In Just 24 Hours, My Mind And Body Were Destroyed
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUX-936.jpg
+date=2017-07-01
+URL=https://openload.co/f/lQXaHQl4C7M/JAV_JUX-936.mp4
+
+type=video
+name=MIDE-300 – Tsubomi – Tsubomi Infiltrated An Amateur Sex Group And Ended Up Fucking!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MIDE-300.jpg
+date=2017-07-01
+URL=https://openload.co/f/cmCitUeDrp4/JAV_MIDE-300.mp4
+
+type=video
+name=SABA-192 – Unknown – Yen Jenny 002
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SABA-192.jpg
+date=2017-07-01
+URL=https://openload.co/f/9TUBC2R6A2w/JAV_SABA-192.mp4
+
+type=video
+name=NHDTA-840 – Unknown – Girl In A Tight Skirt Has A Vibrator Shoved Insider Her By A Molester And Shakes While She Cums
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/NHDTA-840.jpg
+date=2017-07-01
+URL=https://openload.co/f/xuREGQPYxSI/JAV_NHDTA-840.mp4
+
+type=video
+name=GVG-301 – Nakazato Miho – Posting – Kinky Anal Club
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/GVG-301.jpg
+date=2017-07-01
+URL=https://openload.co/f/MXgKA-Rv84U/JAV_GVG-301.mp4
+
+type=video
+name=JUFD-571 – Hatsumi Saki, Kurata Mao – ltra Dirty Talk Double Blowjob Hot Plays
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUFD-571.jpg
+date=2017-07-01
+URL=https://openload.co/f/hmpCQXAqD2w/JUFD-571.mp4
+
+type=video
+name=IPZ-747 – Maishima Akari – Tight Skirt – The New Female Teacher’s Naughty Seduction
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/IPZ-747.jpg
+date=2017-07-01
+URL=https://openload.co/f/ylf-XfkEcJw/JAV_IPZ-747.mp4
+
+type=video
+name=AP-310 – Unknown – This Young Wife Came For A Pregnancy Test
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/AP-310.jpg
+date=2017-07-01
+URL=https://openload.co/f/yPiU1gEUm90/JAV_AP-310.mp4
+
+type=video
+name=KAWD-705 – Yuika Mana – A Fresh Face! Yuikama Makes Her kawaii – AV Debut!!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/KAWD-705.jpg
+date=2017-07-01
+URL=https://openload.co/f/eThxU9HMPMg/JAV_KAWD-705.mp4
+
+type=video
+name=RBD-773 – Ogawa Rio – Chastity Belt Girl 21
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/RBD-773.jpg
+date=2017-07-01
+URL=https://openload.co/f/0RQSQDog1eY/JAV_RBD-773.mp4
+
+type=video
+name=ABP-458 – Suzumura Airi – Me And Airi’s Sweet Office Affair Sex Life
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/ABP-458.jpg
+date=2017-07-01
+URL=https://openload.co/f/9vqIE3yLJG4/JAV_ABP-458.mp4
+
+type=video
+name=IENE-680 – Unknown – Ass-Showing Mens’ Massage Parlor
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/IENE-680.jpg
+date=2017-07-01
+URL=https://openload.co/f/bdTA-klDmZk/JAV_IENE-680.mp4
+
+type=video
+name=JUFD-594 – Yoshikawa Aimi – Peeping On A Wet Erotic Massage ~Nurse With Colossal Tits Moaning With The Shame Of Pissing Herself
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUFD-594.jpg
+date=2017-07-01
+URL=https://openload.co/f/r3BqZliAW30/JAV_JUFD-594.mp4
+
+type=video
+name=STAR-688 – Sakura Mana – Four POV Masters Film Mana Sakura ! She Lays Everything Bare With Four Private, Intimate Fucks
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/STAR-688.jpg
+date=2017-07-01
+URL=https://openload.co/f/pUvCDAlwCuc/JAV_STAR-688.mp4
+
+type=video
+name=JUX-873 – Narimiya Iroha – Me And My Horny Sister-In-Law – Fucking Behind My Pregnant Wife’s Back…
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUX-873.jpg
+date=2017-07-01
+URL=https://openload.co/f/Acha0cVgh7k/JAV_JUX-873.mp4
 
 
 
