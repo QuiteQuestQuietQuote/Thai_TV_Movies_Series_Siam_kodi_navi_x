@@ -37,11 +37,15 @@ thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
 date=2017-06-24
 URL=https://openload.co/f/9Ia454Z2cbI/C-a-rs.3.N-E-W.HD-TS.X264-CPG.mkv.mp4
 
+# 2773803
 type=video
-name=2:22 (2017) ENG
-thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
-date=2017-07-01
-URL=https://openload.co/f/aOs6f27K4RU/2.2-2.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+name=The Circle (2017) ENG updated
+thumb=http://image.tmdb.org/t/p/w500/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg
+date=2017-07-02
+URL=https://openload.co/f/8HOfmNhNlNc/The.Circle.2017.HDRip.XviD.AC3-EVO.avi.mp4
+player=default
+rating=-1.00
+description=A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company's ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity./description
 
 type=video
 name=All Eyez on Me (2017) ENG updated UNCEN TS
@@ -175,15 +179,7 @@ description=A CIA agent is baited into a trap involving London and a biological 
 
 
 
-# 2773803
-type=video
-name=The Circle (2017) RUS
-thumb=http://image.tmdb.org/t/p/w500/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg
-date=2017-05-05
-URL=https://openload.co/f/DTIQFZI-GDg/T_C_2017_CAM_%5BLayar-21.com%5D.mp4
-player=default
-rating=-1.00
-description=A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company's ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity./description
+
 
 # 2773790
 type=video
@@ -369,11 +365,7 @@ thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
 date=2017-06-27
 URL=https://openload.co/f/lHL-fIbHpZQ/Transformers_The_Last_Knight_2017.mkv.mp4
 
-type=video
-name=Wonder Woman (2017) CAM updated TS
-thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
-date=2017-06-17
-URL=https://openload.co/f/2p4q3dfOcjA/Wonder_Woman_2017.mkv.mp4
+
 
 type=video
 name=Baywatch (2017) CAM updated UNCEN
@@ -613,6 +605,17 @@ URL=
 
 
 
+type=video
+name=Wonder Woman (2017) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
+date=2017-07-02
+URL=https://openload.co/f/POS7oswDd1M/Wonder.Woman.2017.1080p.KORSUB.HDRip.x264.AC-32.0.THR-CpT.mkv.mp4
+
+type=video
+name=2:22 (2017) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
+date=2017-07-02
+URL=https://openload.co/f/ExI4z1WHPU8/2.22.2017.1080p.WEB-DL.DD5.1.H264.ThaIRonG-CpT.mkv.mp4
 
 type=video
 name=King Arthur: Legend of the Sword (2017) CAM SOUND
