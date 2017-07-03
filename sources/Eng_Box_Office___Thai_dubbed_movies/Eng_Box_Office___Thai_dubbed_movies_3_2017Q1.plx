@@ -386,12 +386,7 @@ URL=https://openload.co/f/zgllm-DQfTc/Pirates_of_the_Caribbean-_Dead_Men_Tell_No
 player=default
 rating=-1.00
 
-type=video
-name=Alien: Covenant (2017) CAM
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BNzI5MzM3MzkxNF5BMl5BanBnXkFtZTgwOTkyMjI4MTI@._V1_SY1000_CR0,0,673,1000_AL_.jpg
-URL=https://openload.co/f/iJsBLoSeTro/Alien_Covenant_%282017%29_%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99_%E0%B9%82%E0%B8%84%E0%B9%80%E0%B8%A7%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C.mp4
-player=default
-rating=-1.00
+
 
 
 
@@ -603,7 +598,13 @@ URL=
 
 
 
-
+type=video
+name=Alien: Covenant (2017) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/ewVHnq4lUiovxBCu64qxq5bT2lu.jpg
+date=2017-07-03
+URL=https://openload.co/f/Q5ihJ4j7gHY/Alien.Covenant.2017.1080p.KORSUB.HDRip.x264.AC32.0.ThaIRonG-CpT.mkv.mp4
+player=default
+rating=-1.00
 
 type=video
 name=Wonder Woman (2017) CAM SOUND
