@@ -72,9 +72,9 @@ player=default
 rating=-1.00
 
 type=script
-name=repository.exodus-3.0.0.zip (new repo for download)
+name=
 thumb=
-date=2017-06-20
-URL=https://openload.co/f/BPslF66HQOw/repository.exodus-3.0.0.zip
+date=
+URL=
 player=default
 rating=-1.00
