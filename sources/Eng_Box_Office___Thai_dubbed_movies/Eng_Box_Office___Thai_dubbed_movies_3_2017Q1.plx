@@ -37,6 +37,16 @@ thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
 date=2017-06-24
 URL=https://openload.co/f/9Ia454Z2cbI/C-a-rs.3.N-E-W.HD-TS.X264-CPG.mkv.mp4
 
+# 2773619
+type=video
+name=Unforgettable (2017) ENG updated CAM2
+thumb=http://image.tmdb.org/t/p/w500/eUGehaQhjc9Q8kqlZP16akfx7R4.jpg
+date=2017-07-06
+URL=https://openload.co/f/viYsnCjMIic/Unforgettable.2017.CAM.READNFO.XViD-26k.avi.mp4
+player=default
+rating=-1.00
+description=A woman sets out to make life hell for her ex-husband's new wife./description
+
 # 2773803
 type=video
 name=The Circle (2017) ENG updated
@@ -91,7 +101,15 @@ player=default
 rating=-1.00
 description=A true-life drama, centering on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s./description
 
-
+# 2773790
+type=video
+name=Free Fire (2017) ENG updated BRR
+thumb=http://image.tmdb.org/t/p/w500/zSVRoZMce3skt6qR6JSD0IXQ8af.jpg
+date=2017-07-06
+URL=https://openload.co/f/hh1wAlGbkH8/Free.Fire.2016.BRRip.XviD.AC3-RARBG.avi.mp4
+player=default
+rating=-1.00
+description=A crime drama set in 1970s Boston, about a gun sale which goes wrong./description
 
 
 
@@ -126,14 +144,7 @@ URL=https://openload.co/f/etk7MaqSfkQ/Camera.Store.2016.WEB-DL.x264-FGT.mp4
 
 
 
-# 2773619
-type=video
-name=Unforgettable (2017) ENG updated CAM
-thumb=http://image.tmdb.org/t/p/w500/eUGehaQhjc9Q8kqlZP16akfx7R4.jpg
-URL=https://openload.co/f/iaKfv0guJSs/U-n-f-o-r-ge--t-table.2017.HDCAM.x264-DiRG.mp4
-player=default
-rating=-1.00
-description=A woman sets out to make life hell for her ex-husband's new wife./description
+
 
 # 2776075
 type=video
@@ -181,14 +192,7 @@ description=A CIA agent is baited into a trap involving London and a biological 
 
 
 
-# 2773790
-type=video
-name=Free Fire (2017) ENG
-thumb=http://image.tmdb.org/t/p/w500/zSVRoZMce3skt6qR6JSD0IXQ8af.jpg
-URL=https://openload.co/f/v3dUJz1RZc8/Free.Fire.2017.CAMRip%2520x265-GunGravE.mkv.mp4
-player=default
-rating=-1.00
-description=A crime drama set in 1970s Boston, about a gun sale which goes wrong./description
+
 
 # 2773791
 type=video
@@ -285,14 +289,7 @@ player=default
 rating=-1.00
 
 
-# 2768541
-type=video
-name=The Shack (2017) ENG
-thumb=http://image.tmdb.org/t/p/w500/doAzav9kfdtsoSdw1MDFvjKq3J4.jpg
-URL=https://openload.co/f/BLqJyeu6JvA/The.Shack.2017.HDCAM.x264-iMLEAVING.mp4
-player=default
-rating=-1.00
-description=After suffering a family tragedy, Mack Phillips spirals into a deep depression causing him to question his innermost beliefs. Facing a crisis of faith, he receives a mysterious letter urging him to an abandoned shack deep in the Oregon wilderness. Despite his doubts, Mack journeys to the shack and encounters an enigmatic trio of strangers led by a woman named Papa. Through this meeting, Mack finds important truths that will transform his understanding of his tragedy and change his life forever./description
+
 
 
 
@@ -447,10 +444,7 @@ name=Spectral (2016) SUB
 thumb=https://image.tmdb.org/t/p/w640/oXV2ayQYUQfHwpuMdWnZF0Geng5.jpg
 URL=https://openload.co/f/LMxwHx7QfOg/spactral.MP4.mp4
 
-type=video
-name=Kidnap (2017) SUB
-thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
-URL=https://openload.co/f/b9ZSn4umBnU/%5BS%5DKidnap_2017
+
 
 type=video
 name=Sand Castle (2017) SUB
@@ -598,6 +592,13 @@ URL=
 
 
 
+
+type=video
+name=Kidnap (2017) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
+date=2017-07-06
+URL=https://openload.co/f/GbUe5fZac2o/Kidnap_%282017%29_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+
 type=video
 name=Alien: Covenant (2017) CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/ewVHnq4lUiovxBCu64qxq5bT2lu.jpg
@@ -638,15 +639,7 @@ description=In this fully animated, all-new take on the Smurfs, a mysterious map
 
 
 
-# 2770638
-type=video
-name=Power Rangers (2017) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg
-date=2017-06-24
-URL=https://openload.co/f/IW1hz19gZnU/Power.Rangers.2017.1080p.WEB-DL.THAIRONG.mkv.mp4
-player=default
-rating=-1.00
-description=Saban's Power Rangers follows five ordinary teens who must become something extraordinary when they learn that their small town of Angel Grove â?? and the world â?? is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before itâ??s too late, band together as the Power Rangers./description
+
 
 type=video
 name=The Hunter's Prayer (2017) CAM SOUND
@@ -742,6 +735,25 @@ URL=
 
 
 
+# 99
+type=video
+name=The Shack (2017)
+thumb=http://image.tmdb.org/t/p/w500/doAzav9kfdtsoSdw1MDFvjKq3J4.jpg
+date=2017-07-06
+URL=https://streamango.com/f/tftmsbpkkpolaokk/The_Shack_mp4
+player=default
+rating=-1.00
+description=After suffering a family tragedy, Mack Phillips spirals into a deep depression causing him to question his innermost beliefs. Facing a crisis of faith, he receives a mysterious letter urging him to an abandoned shack deep in the Oregon wilderness. Despite his doubts, Mack journeys to the shack and encounters an enigmatic trio of strangers led by a woman named Papa. Through this meeting, Mack finds important truths that will transform his understanding of his tragedy and change his life forever./description
+
+# 98
+type=video
+name=Power Rangers (2017)
+thumb=http://image.tmdb.org/t/p/w500/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg
+date=2017-07-06
+URL=https://openload.co/f/JwS_aa6-8Ck/%7BMINI_Super-HQ%7D_Power.Rangers.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+description=Saban's Power Rangers follows five ordinary teens who must become something extraordinary when they learn that their small town of Angel Grove â?? and the world â?? is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before itâ??s too late, band together as the Power Rangers./description
 
 type=video
 name=Dragonheart: Battle for the Heartfire (2017)
