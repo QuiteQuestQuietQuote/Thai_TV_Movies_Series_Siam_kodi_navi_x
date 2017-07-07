@@ -11,6 +11,14 @@ icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/TV_Shows_ENG.plx?action=sortsel&cur=ord
 
 type=playlist
+name=Da Vinci's Demons (2013)
+thumb=https://image.tmdb.org/t/p/w640/dNnobI9TeLsDkBTMytiBbnEv1Oo.jpg
+date=2017-07-07
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Da_Vincis_Demons.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=Dracula (2013)
 thumb=https://image.tmdb.org/t/p/w640/k9HoPggyZVKXgCDy8zqNVXMDyOo.jpg
 date=2017-07-07
