@@ -13,6 +13,15 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 type=playlist
 name=Game_Of_Thrones_TH
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/19NPjmN6o3QGYfu8WnzgDSx75Ov.jpg
+date=2017-06-29
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/Game_Of_Thrones_TH.plx
+player=default
+rating=-1.00
+
+type=playlist
+name=TV_Shows_ENG
+thumb=https://image.tmdb.org/t/p/w640/k9HoPggyZVKXgCDy8zqNVXMDyOo.jpg
+date=2017-07-07
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/TV_Shows_ENG.plx
 player=default
 rating=-1.00
