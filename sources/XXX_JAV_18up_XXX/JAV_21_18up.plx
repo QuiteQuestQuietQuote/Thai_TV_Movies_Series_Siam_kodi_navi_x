@@ -36,6 +36,73 @@ URL=
 
 
 
+type=video
+name=18xxxxxxxxxxxxxxxxxxxxXVSR-102 – Namiki Haruka – My Girlfriend Is A Porn Actress
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/XVSR-102.jpg
+date=2017-07-07
+URL=https://openload.co/f/_S8GoXLiqVw/JAV_XVSR-102.mp4
+
+type=video
+name=EBOD-460 – Suzuki Mayu – Shaved Bikini Model Gives Soap Service with Her Smooth Pussy
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/EBOD-460.jpg
+date=2017-07-07
+URL=https://openload.co/f/nAfrJiopM9c/JAV_EBOD-460.mp4
+
+type=video
+name=XVSR-088 – Mitsui Yuno – Newbie Cool Beauty
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/XVSR-088.jpg
+date=2017-07-07
+URL=https://openload.co/f/5zXfXxsatKw/JAV_XVSR-088.mp4
+
+type=video
+name=SGA-049 – Natsuhara Akari – Gushing Wife Akari Natsuhara 29-Years-Old The Moment When Her Love Juices Gush Forth Is Totally Caught On Camera In This Adult Debut!!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SGA-049.jpg
+date=2017-07-07
+URL=https://openload.co/f/cfV6iPKNv9Y/JAV_SGA-049.mp4
+
+type=video
+name=PPPD-446 – Shibuya Kaho – First Class K Cup Tits, Big Tits And Creampies In A Soapland
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/PPPD-446.jpg
+date=2017-07-07
+URL=https://openload.co/f/nXYDmNnuZus/JAV_PPPD-446.mp4
+
+type=video
+name=GVG-334 – Mashiro Airi – Breaking In A Celebrity In Public
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/GVG-334.jpg
+date=2017-07-07
+URL=https://openload.co/f/CwSfmooB8Tg/JAV_GVG-334.mp4
+
+type=video
+name=WANZ-489 – Unknown – Famous Cosplayer’s Creampie Photo Shoot On Her Ovulation Day
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/WANZ-489.jpg
+date=2017-07-07
+URL=https://openload.co/f/pVWVEQN1wR4/JAV_WANZ-489.mp4
+
+type=video
+name=MIDE-348 – Akiyama Shoko – Gang Bang Molester Train – Young Wife Falls For The Pleasure Of 14 Dicks Shoko Akiyama
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MIDE-348.jpg
+date=2017-07-07
+URL=https://openload.co/f/PqtVPIr7rWQ/JAV_MIDE-348.mp4
+
+type=video
+name=CESD-226 – Enjo Hitomi – Female Detective Breaking In Torture 16
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/CESD-226.jpg
+date=2017-07-07
+URL=https://openload.co/f/vt3UNVkDhRo/JAV_CESD-226.mp4
+
+type=video
+name=MIAD-844 – Onoue Wakaba – She’s Back
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MIAD-844.jpg
+date=2017-07-07
+URL=https://openload.co/f/3S4dt3S12tU/JAV_MIAD-844.mp4
+
+type=video
+name=PLA-058 – Hamasaki Mao, Otsuki Hibiki, Tsukishima Nanak – We Met 3 Actresses Who Immediately Started Us On A Creampie Raw Footage Harlem Sex Show
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/PLA-058.jpg
+date=2017-07-07
+URL=https://openload.co/f/_guxXcuzw1E/JAV_PLA-058.mp4
+
+
 
 
 
