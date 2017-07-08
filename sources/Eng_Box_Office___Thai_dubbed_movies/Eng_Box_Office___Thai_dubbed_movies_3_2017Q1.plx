@@ -601,6 +601,18 @@ URL=
 
 
 
+
+# 2773800
+type=video
+name=Ghost in the Shell (2017) CAM SOUND updated WEB
+thumb=http://image.tmdb.org/t/p/w500/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg
+date=2017-07-08
+URL=https://openload.co/f/gLQeWN5DCuk/Ghost_In_The_Shell_%5B2017%5D_1080p_WEB-DL_DD5.1_H264_ThaiRong-CPT_%281%29_%281%29.mkv.mp4
+player=default
+rating=-1.00
+description=In the near future, Major is the first of her kind: a human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals./description
+
+
 type=video
 name=Kidnap (2017) CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
@@ -678,15 +690,6 @@ player=default
 rating=-1.00
 description=When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before./description
 
-# 2773800
-type=video
-name=Ghost in the Shell (2017) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg
-date=2017-05-05
-URL=https://openload.co/f/Afd-kol6mZ8/Ghost.In.The.Shell.2017.1080p.KORSUB.HDRip.x264.AC32.0.ThaiRong-CPT.mkv.mp4
-player=default
-rating=-1.00
-description=In the near future, Major is the first of her kind: a human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals./description
 
 # 2773786
 type=video
@@ -742,6 +745,13 @@ URL=
 
 
 
+
+
+type=video
+name=Japanese Girls Never Die (2016)
+thumb=https://image.tmdb.org/t/p/w640/i8CZ4JQ38z8gDC28q64LuMxEuk1.jpg
+date=2017-07-08
+URL=https://streamango.com/f/eonotonpterkfrnt/Japanese_Girls_Never_Die_2017_mkv_mp4
 
 # 99
 type=video
