@@ -16,6 +16,17 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
+
+
+
+type=playlist
+name=96_2_69_OHOHD_16_18up_Classic_Oldies
+thumb=https://2.bp.blogspot.com/-4uNoY8sm2mc/WP_y62lXguI/AAAAAAAAH7Y/DPhMhF8s4WY5sCwCLWde3PAgAgSUX81AACLcB/s1600/1ss.jpg
+date=2017-07-08
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_16_18up_Classic_Oldies.plx
+player=default
+rating=-1.00
+
 type=playlist
 name=96_2_69_OHOHD_15_18up_XXX
 thumb=http://erotic24hr.com/wp-content/uploads/2016/12/Blind-2014.jpg

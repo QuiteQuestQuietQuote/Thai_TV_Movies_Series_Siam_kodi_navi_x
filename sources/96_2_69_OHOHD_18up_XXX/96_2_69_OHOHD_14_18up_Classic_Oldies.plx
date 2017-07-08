@@ -20,14 +20,739 @@ rating=-1.00
 
 
 
+
+
+
+
+
+
+
 type=video
-name=
-thumb=
-URL=
+name=200xxxxxxxxxxxxxxxxxxxxA Lonely Cow Weeps at Dawn (2003)
+thumb=https://3.bp.blogspot.com/-S0IKK0z9dms/WGM63RPe0pI/AAAAAAAACb8/1a8Qu6EZoXkWexcvicrPq_0_fHrgxs8wQCLcB/s1600/9.jpg
+date=2017-07-08
+URL=https://openload.co/f/1XqpYINAaVc/A.Lonely.Cow.Weeps.At.Dawn.HDrip_Erotic
+
+type=video
+name=Ilona llega con la lluvia (1996) ENG SUB
+thumb=https://1.bp.blogspot.com/-Xh3hAbMWgok/WGM2RTs6ufI/AAAAAAAACbc/TjbH9UeIVDExDs4rVRgTti2qSukN7rzSgCLcB/s1600/8.jpg
+date=2017-07-08
+URL=https://openload.co/f/6zeHHRZDvaA/Ilona_llega_con_la_lluvia.1996.DVDRip_Erotic
+
+type=video
+name=Bad Timing (1980)
+thumb=https://1.bp.blogspot.com/-MHpb-1C1Hcg/WGMzQ1MLAPI/AAAAAAAACbI/EWwsCVIBRvEvH5bRgtqRj8VQi6javLF0gCLcB/s1600/7.jpg
+date=2017-07-08
+URL=https://openload.co/f/z0pOUbRgf9s/Bad.Timing.1980.720p.BluRay_Erotic
+
+type=video
+name=Husbands and Lovers (1991)
+thumb=https://1.bp.blogspot.com/-ktr9-kZXO7M/WGMuwQdatDI/AAAAAAAACaM/w7f16Apf7n4jkIOzq5h_2w2dmJOzKY0HQCLcB/s1600/4S.jpg
+date=2017-07-08
+URL=https://openload.co/f/_GyJdxe1-7Y/Husbands.and.Lovers.1991.WEBRip_Erotic
+
+type=video
+name=Pilska Julia pa brollopsresa! (1982)
+thumb=https://1.bp.blogspot.com/-9gle2CBhor8/WGMrg5re_6I/AAAAAAAACaA/pYiyzTGSKiwdUuPZyh4-vOuTMhIVHRZKQCLcB/s1600/4.jpg
+date=2017-07-08
+URL=https://openload.co/f/zx0DIaIy3Kc/Pilska_Julia_p%C3%A5_br%C3%B6llopsresa%21_%281982%29.mp4
+
+type=video
+name=Putas Marcianas (2011) ENG SUB
+thumb=https://1.bp.blogspot.com/-H4UiYyoKHlM/WGMmNBxYNqI/AAAAAAAACYw/Sl6nN_qSakYM708evRqXLJgyGdrA2WQAgCLcB/s1600/2.jpg
+date=2017-07-08
+URL=https://openload.co/f/-TkAaICrBjo/Putas.Marcianas.2011.DVDRip
 
 
 
 
+
+
+
+
+type=video
+name=194xxxxxxxxxxxxxxxxxxxxStudent Services (2010)
+thumb=https://4.bp.blogspot.com/--lzHicPIB8U/WGMjUM6gNCI/AAAAAAAACYM/85u1R8tWQagtMlc2GzOfReGu10PILgfzACLcB/s1600/1.jpg
+date=2017-07-08
+URL=https://openload.co/f/aP1m4iay17c/Mes.Cheres.Etudes.2010.DVDRip
+
+type=video
+name=Camarera En Alquiler
+thumb=https://4.bp.blogspot.com/-UpNat5pBZmY/WF-2xdJw8aI/AAAAAAAACQs/6dzkqvFdxEgtqGpzrY_qRElnwJW_aaz5QCLcB/s1600/5.jpg
+date=2017-07-08
+URL=https://openload.co/f/Tl__V6U_O80/6c4m4r3r43n4lqu1l3r.s4m4rk4nd4.mp4
+
+type=video
+name=Ich – Ein Groupie , Higher and Higher (1970)
+thumb=https://1.bp.blogspot.com/-YeYoGBJDKSE/WF-02CZsr9I/AAAAAAAACQY/szauA8Z2x1YhW2m_kogVi6z5I2nccF8zACLcB/s1600/5.jpg
+date=2017-07-08
+URL=https://openload.co/f/L0S4iue4m-g/Higher.and.Higher.AKA.Ich.ein.Groupie.1970.DVDRip_Erotic
+
+type=video
+name=The All-American Girl (1973)
+thumb=https://1.bp.blogspot.com/-pWklOiY5Rbs/WF5eGIN57CI/AAAAAAAACPI/Fk3-IA4V6vYnCOwrxZymEcWqwzB5nxCKQCLcB/s1600/8.jpg
+date=2017-07-08
+URL=https://openload.co/f/FXWV88EATgo/american.mp4
+
+type=video
+name=Corpo Devasso (1980)
+thumb=https://4.bp.blogspot.com/-Ntz8emA1YNE/WF5doEWl7_I/AAAAAAAACPA/HnIMwCsITSMJ0eLbrEwIJv7WNZEFWK4LACLcB/s1600/7.jpg
+date=2017-07-08
+URL=https://openload.co/f/9I_Lpv6r05s/Corpo_Devasso.avi.mp4
+
+type=video
+name=Bragas Calientes
+thumb=https://3.bp.blogspot.com/-SjtBznO4K_A/WF5a6zqSLJI/AAAAAAAACOI/PR_VtfibOYot5WZZlIV2kYN8NLditEU5gCLcB/s1600/3.jpg
+date=2017-07-08
+URL=https://openload.co/f/OyAfkJpnlx8/Br4g4s.C4l13nt3s.by_vicver.avi.mp4
+
+type=video
+name=Henry & June (1990)
+thumb=https://4.bp.blogspot.com/-ldNFONzxoKA/WF5TXivusBI/AAAAAAAACNY/2AjNMAlqaTAUEzL1aGqDgEpwWhtgc__aACLcB/s1600/1.jpg
+date=2017-07-08
+URL=https://openload.co/f/5Ph-z7THOh8/Henry_%26_June_%281990%29_%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%8A%E0%B8%B9%E0%B9%89%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%88%E0%B8%B0%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%9C%E0%B8%B1%E0%B8%A7_%5B%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87%5D-%5B18%2B%5D_%5BSoundtrack_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%5D
+
+type=video
+name=The Journey of O
+thumb=https://1.bp.blogspot.com/-_LVXdgHQYMw/WF0JkbHh3jI/AAAAAAAACLQ/S8pekFg7Q6IakwLBu3N4TJoVI31_PNKPQCLcB/s1600/1.jpg
+date=2017-07-08
+URL=https://openload.co/f/TVHP5CvpqhM/Journey_O.avi.mp4
+
+type=video
+name=The Farmers Bride (2012)
+thumb=https://1.bp.blogspot.com/-QCGm6HcPXf4/WF0s7KBKT2I/AAAAAAABJbA/d_yxoyODUUcwmFuWu4c_mIn02An0R177ACLcB/s1600/The-Farmers-Bride-Layar-21.com_.jpg
+date=2017-07-08
+URL=https://openload.co/f/qSN4RcPCpic/Noka_no_yome_35_sai_skirt_no_kaze.2012
+
+type=video
+name=Norm’s Dilemma (1972)
+thumb=https://1.bp.blogspot.com/-l3mozTj2fPA/WFzzTQHcczI/AAAAAAAACKw/fJEBklefgmc-ZXAdyzoVYKN5E49i0CW5ACLcB/s1600/6.jpg
+date=2017-07-08
+URL=https://openload.co/f/7h2mnMEq7SM/Norm%27s_Dilemma.mp4
+
+type=video
+name=9 to 5: Days in Porn (2008)
+thumb=https://3.bp.blogspot.com/-ABGfbspsRoI/WFzvDfmy2PI/AAAAAAAACKg/sU7X-CoOE1A9cD8D7wAj4wTPVsn58-K1ACLcB/s1600/5.jpg
+date=2017-07-08
+URL=https://openload.co/f/HKAXmmsPYgs/9.to.5%3ADays.in.Porn.2008.UNCUT.HDRip_Erotic
+
+type=video
+name=The Joys of Jezebel (1970)
+thumb=https://2.bp.blogspot.com/-ezrzY4rujOE/WFvemzHrUUI/AAAAAAAACIE/6FJj10hAZFAyHh9ZDyw0iSj_6UdMENoLgCLcB/s1600/5SSS.jpg
+date=2017-07-08
+URL=https://openload.co/f/MOgXPZVNKBE/Joys.of.Jezebel.1970.DVDRIP.avi.mp4
+
+type=video
+name=Slaves in Cages: ‘Slaver i bure’ (1972)
+thumb=https://3.bp.blogspot.com/-e2YGq5r4I7M/WFvdetqtKeI/AAAAAAAACH8/jbeZTsYSsPI7OMydjG_ZfcWj-lNQYP_QQCLcB/s1600/5.jpg
+date=2017-07-08
+URL=https://openload.co/f/FiSCITNnnaw/Slaves_in_Cages_1972.avi.mp4
+
+type=video
+name=Petticoat Planet (1996)
+thumb=https://1.bp.blogspot.com/-H6B0DujLKck/WFuCxdS_yjI/AAAAAAAACEw/537qLBSEJNMzx5bHqjFXsQVk8CcwzlbUwCLcB/s1600/4s.jpg
+date=2017-07-08
+URL=https://openload.co/f/IaojSRmyuPQ/Erotic_Petticoat.Planet.1996.DVDRip
+
+type=video
+name=Red Violation (1980)
+thumb=https://1.bp.blogspot.com/-hgKbwS9tgiQ/WFt97JpMO3I/AAAAAAABJXQ/_pPzZwcSnlsfYN_7OyTW94a99Q1u0nr9gCLcB/s1600/3.jpg
+date=2017-07-08
+URL=https://openload.co/f/qu82M2KvmSs/Red.Violation.1980.DVDRip
+
+type=video
+name=My Tale Is Hot (1964)
+thumb=https://3.bp.blogspot.com/-FCeyd7wOlQA/WFpzWpKRpuI/AAAAAAABJVc/jhCeXXtnyDMHuukm16Qjaq6lXpNDu5Q1wCLcB/s1600/6.jpg
+date=2017-07-08
+URL=https://openload.co/f/JOCAX4wktz4/My_Tale_Is_Hot_%281964%29.avi.mp4
+
+type=video
+name=La compagna di viaggio (1980)
+thumb=https://2.bp.blogspot.com/-qqy91kiUm9k/WFpy4Gyi0yI/AAAAAAABJVY/gpKIwb_QmEM_D4YGrZ-c1g-NELXrOJZ3QCLcB/s1600/4.jpg
+date=2017-07-08
+URL=https://openload.co/f/cINyiB40PvU/La_compagna_di_viaggio_%5B1980%5D_%28Annamaria_Rizzoli%2C_Annie_Belle%2C_Marina_Frajese%2C_Serena_Grandi%2C_Marisa_Mell%29_king76.mkv.mp4
+
+
+
+
+
+
+
+
+type=video
+name=177xxxxxxxxxxxxxxxxxxxxAngel Guts 5: Red Vertigo (1988)
+thumb=https://3.bp.blogspot.com/-7kUeac7pnOI/WFpyEWkitVI/AAAAAAABJVI/edlSO8j5k3sWUuIKqGd_R658Jijlsq-dQCLcB/s1600/3.JPG
+date=2017-07-08
+URL=https://openload.co/f/RMMxkOh2lUY/Angel.Guts.5.Red.Vertigo.1988.DVDRip
+
+type=video
+name=Angel Guts 4: Red Porno (1981) Eng Subs
+thumb=https://2.bp.blogspot.com/-fHbVOFeznjw/WFp0LFQ82JI/AAAAAAABJVk/YOCDqF3kJ_Y7DKdAYacZFikSCQoa_lI2ACLcB/s1600/6S.jpg
+date=2017-07-08
+URL=https://openload.co/f/l6tZovxJSi8/Angel.Guts.4.Red%2CPorno.1981.DVDRip
+
+type=video
+name=Angel Guts 3: Nami (1979) Eng Subs
+thumb=https://2.bp.blogspot.com/-kAP2eyo9Gu4/WFZfOdWgn5I/AAAAAAABJJA/PzH00vdkhQgnQt51BBs09d7GkT4g44m1wCLcB/s1600/2SSSS.jpg
+date=2017-07-08
+URL=https://openload.co/f/7gNbNjg8ujk/Angel.Guts.3.Nami.1979.DVDRip
+
+type=video
+name=angel guts 1 high school co-ed (1978)
+thumb=https://2.bp.blogspot.com/-gPjlRhRLSTE/WFkXpkudhRI/AAAAAAABJOs/sCuJ2qi9MS8eS1YoqA_uR3mUKmihwCHdgCLcB/s1600/2.jpg
+date=2017-07-08
+URL=https://openload.co/f/ov2almY5SvM/Erotic_Angel.Guts.1.High.School.Co-ed.1978.DVDRip
+
+type=video
+name=Return to Two Moon Junction (1995)
+thumb=https://1.bp.blogspot.com/-8zVaHwzPEu4/WFpvSjpxe4I/AAAAAAABJUU/EOm5oUhFFNgyFHVM0Ixq2jwa1AEqaillwCLcB/s1600/2S.jpg
+date=2017-07-08
+URL=https://openload.co/f/gLGMBjQPAhE/Return.to.Two.Moon.Junction.1995.DVDRip
+
+type=video
+name=Bare Deception (2000)
+thumb=https://2.bp.blogspot.com/-6sCc2s9hsSs/WFpuxWHdWaI/AAAAAAABJUQ/CtFAHMJ0xpgBvlQvdG6BouSH6CKlWN2egCLcB/s1600/2.jpg
+date=2017-07-08
+URL=https://openload.co/f/45BdYRBA9bY/Bare.Deception.2000.DVDRip
+
+type=video
+name=Maps to the Stars (2014)
+thumb=https://1.bp.blogspot.com/-LS7SP8PSypY/WFkfYZ0N0dI/AAAAAAABJP8/DYN2BsDhlVoNMzUTnROVrFZ8Ny1t7nE4wCLcB/s1600/4.jpg
+date=2017-07-08
+URL=https://openload.co/f/xOUsNravN5o/Maps.to.the.Stars.2014.720p.BluRay.x264.800MB.YIFY.mkv
+
+type=video
+name=Futari Ecchi Part 3 (2011)
+thumb=https://4.bp.blogspot.com/-UIllvLvBmBE/WFkd7PCO36I/AAAAAAABJPY/tUX4UDb02NUtT2kpvNRvRROspfucUn9OQCLcB/s1600/3SSS.jpg
+date=2017-07-08
+URL=https://openload.co/f/y4CVujeBv0A/Futari.Ecchi.Part3.2011.DVDRip.mp4
+
+type=video
+name=Manji (2006)
+thumb=https://2.bp.blogspot.com/-o1Qi_rEFhrI/WFkVUdnKFzI/AAAAAAABJOg/YigMnm-V5PgXifRckrWDjEOuMAbdO5CCwCLcB/s1600/1sss.jpg
+date=2017-07-08
+URL=https://openload.co/f/YWSwnTkSpzI/Erotic_Manji.2006.DVDRip
+
+type=video
+name=Lovers of Devil’s Island (1974)
+thumb=https://4.bp.blogspot.com/-oW7bytvrkaU/WFZqbTk_5NI/AAAAAAABJKk/mU11mK-hZ7IBjW5Sgim6Nc2uF_asvsjNQCLcB/s1600/5.jpg
+date=2017-07-08
+URL=https://openload.co/f/EI9Lj5k7j-o/Lovers_of_Devils_Island_1974.mkv.mp4
+
+type=video
+name=Sex and the Emperor (1994)
+thumb=https://4.bp.blogspot.com/-JwDRf5UJFM8/WFZh_VoGcCI/AAAAAAABJJk/napVcXxTOgUiusIppzGhFgxkZSeDlZQYwCLcB/s1600/3.jpg
+date=2017-07-08
+URL=https://openload.co/f/fY2Pmptwmk0/Erotic_Sex.and.the.Emperor.1994.DVDRip
+
+type=video
+name=The Woman with Red Hair (1979)
+thumb=https://1.bp.blogspot.com/-t8nb5hBgd4Y/WFZaQpBYyNI/AAAAAAABJIw/EYZtK2nX3tM7xV3XssmG_2yMfYLbGpCPgCLcB/s1600/2.jpg
+date=2017-07-08
+URL=https://openload.co/f/h8zuePIi2eo/The.Woman.with.Red.Hair.1979
+
+type=video
+name=Celluloid Nightmares (1988)
+thumb=https://2.bp.blogspot.com/-zlPwP9eYfPA/WFZZb-n3ilI/AAAAAAABJIo/RRyvUUO06psrveUn5JiieDz-X0W88NJBACLcB/s1600/1SSSSSSS.jpg
+date=2017-07-08
+URL=https://openload.co/f/N3o9XCZ3rzE/Abnormal.Ingyaku.1979.DVDRip
+
+type=video
+name=Rape! 13th Hour (1977)
+thumb=https://4.bp.blogspot.com/-Cg-gbNLf560/WFZYEl77FPI/AAAAAAABJH8/9wE9I0u-UM8gSb-hglVePf3KNB-kk8lhgCLcB/s1600/1.jpg
+date=2017-07-08
+URL=https://openload.co/f/o53gYKbHso0/Erotic_Rape.13th.Hour.1977.DVDRip
+
+type=video
+name=Stay as You Are (1978)
+thumb=https://2.bp.blogspot.com/-pUCcHjqh-pg/WFKj3Kz_VmI/AAAAAAABI-A/qfm09frK0X4cyPMEZHdNlgdA8OSpO-bbQCLcB/s1600/9.jpg
+date=2017-07-08
+URL=https://openload.co/f/m_716KRtDik/Stay.as.You.Are.1978.720p.BluRay.x264-SADPANDA.mkv.mp4
+
+type=video
+name=Horny Working Girl (1982)
+thumb=https://3.bp.blogspot.com/-f50VbO2M8hc/WFKOPYsNHeI/AAAAAAABI9c/mLPYBDOm8T4odGwqBMBmObW0j7Mvg0XhgCLcB/s1600/7.jpg
+date=2017-07-08
+URL=https://openload.co/f/Ho_6W6KI9FE/Erotic_Horny.Working.Girl.1982.DVDRip
+
+
+
+
+
+
+
+
+
+
+type=video
+name=161xxxxxxxxxxxxxxxxxxxxOrgasmo Nero 2: Insel der Zombies
+thumb=https://4.bp.blogspot.com/-pOZBk9kdPgg/WE-qjIXrz8I/AAAAAAABIzw/XFDFCNqJ7xYFfeeEIL1xRxUSyABM1Z1gACLcB/s1600/4.jpg
+date=2017-07-08
+URL=https://openload.co/f/fWZeNwe9GV8/Nero_Ins_der_zombies.mkv.mp4
+
+type=video
+name=Girls Next Door, Naughty and Nice (1997)
+thumb=https://1.bp.blogspot.com/-1SG6UTfvixY/WE7G0lXc3UI/AAAAAAABIyU/WSmxS2Ksi30tlGlYIxdo5urPKoyWbtjxACLcB/s1600/9.jpg
+date=2017-07-08
+URL=https://openload.co/f/beIBt5oe4Oc/Erotic_Playboy%3AGirls.Next.Door%2CNaughty.and.Nice.1997.DVDRip
+
+type=video
+name=Body Shots (1999)
+thumb=https://2.bp.blogspot.com/-Jjpkf5dkRiM/WE7GI8-TPII/AAAAAAABIyM/DhGzKGSzlQwrdu3CnX1Y9iKatvYuB0fZgCLcB/s1600/8.jpg
+date=2017-07-08
+URL=https://openload.co/f/cuc5i6HDmXk/Body.Shots.1999.UNRATED.DVDRip_Erotic
+
+type=video
+name=Private (2003)
+thumb=https://4.bp.blogspot.com/-VL2PgG3PwOI/WE63RDkInDI/AAAAAAABIvk/saFwCqymhUQKz6GIgvF-LELsvPZO4SUEgCLcB/s1600/1SS.jpg
+date=2017-07-08
+URL=https://openload.co/f/ucWeXYUxMbw/Private.2003.DVDRip_Erotic
+
+type=video
+name=Missing 44: The Final Stage (2010)
+thumb=https://3.bp.blogspot.com/-rtRtHyCqPzk/WE62XrA2DHI/AAAAAAABIvg/tsm3bM5hsVIoN8_4VtwsbtN-2txNwSWkACLcB/s1600/1s.jpg
+date=2017-07-08
+URL=https://openload.co/f/yrLXHFCFPio/Missing.44.The.Final.Stage.2010.DVDRip_Erotic
+
+type=video
+name=Gabriela, Cravo e Canela (1983) (B)
+thumb=https://3.bp.blogspot.com/-k6lzdCk9yQ8/WErmg2x5C4I/AAAAAAAAOO0/3RYl8YkJupIPIOFurlB4FwiR3XH3EI9NQCLcB/s1600/scene36577.jpg
+date=2017-07-08
+URL=https://openload.co/f/81qkU4Dqqwo/Gabriela.1984.DvdRip.Xvid.AC3.UnitedShare.Cd2.avi.mp4
+
+type=video
+name=Gabriela, Cravo e Canela (1983) (A)
+thumb=https://1.bp.blogspot.com/-vG2TqEo75YU/WEwDN-zbGyI/AAAAAAABIt8/QMnpJUTIKwksAuqipAseyTPpyeaLnik8QCLcB/s1600/7.jpg
+date=2017-07-08
+URL=https://openload.co/f/JqwjVfOfZ3s/Gabriela.1984.DvdRip.Xvid.AC3.UnitedShare.Cd1.avi.mp4
+
+type=video
+name=Scared Topless (2013)
+thumb=https://3.bp.blogspot.com/-0-8RILRp0Hg/WEvh4gw_gCI/AAAAAAABIq4/RJwqdsHx0iYpPmAdFpTYDwHndqHDRmLMgCLcB/s1600/Scared-Topless-Layar-21.com_.jpg
+date=2017-07-08
+URL=https://openload.co/f/psKtEyD_zLg/S.T.2015.hdtv
+
+
+
+
+
+
+
+
+type=video
+name=153xxxxxxxxxxxxxxxxxxxxErotic_Escape
+thumb=https://3.bp.blogspot.com/-EcCREXTXAww/WEqJN1tY7pI/AAAAAAABIqU/LXvlzzvLZ0cdvJTKv2wObuNlCspGP6svACLcB/s1600/6.jpg
+date=2017-07-08
+URL=https://openload.co/f/gdPbHD6VegQ/Erotic_Escape_CG.avi.mp4
+
+type=video
+name=Prenez la queue comme tout le monde (1973)
+thumb=https://3.bp.blogspot.com/-YIe2h6U94TI/WEqIyI3R2-I/AAAAAAABIqM/t8BiVOiifow91hhjeyqEWUCg0LjkKuazQCLcB/s1600/4.jpg
+date=2017-07-08
+URL=https://openload.co/f/JHrAYlaCHQ8/Prenez_la_queue_comme_tout_le_monde_%281973%29.avi.mp4
+
+type=video
+name=La bestia uccide a sangue freddo (1971)
+thumb=https://1.bp.blogspot.com/-68yzXIB1MP0/WEqILrVKTUI/AAAAAAABIqI/KKWLuM3-RGILKL5MPc3ivPPdltXM5a6EgCLcB/s1600/3.jpg
+date=2017-07-08
+URL=https://openload.co/f/-rPr2B3QsSE/La_Bestia_Uccide_a_Sangue_Freddo_1971.720p.BluRay.FLAC_2.0.x264-TRiM.mkv.mp4
+
+type=video
+name=Lets Go to Hot Spring (2010)
+thumb=https://3.bp.blogspot.com/-EUNi94qy3o4/WEqCbA5DkfI/AAAAAAABIoI/q6BjX7NtZHg6teVOYqshA7LwqdVDJ3AlQCLcB/s1600/5.jpg
+date=2017-07-08
+URL=https://openload.co/f/Jwd6aT5IW0Y/Lets.Go.to.Hot.Spring.2010.HDRip.mp4
+
+type=video
+name=Good Sex (2013)
+thumb=https://2.bp.blogspot.com/-GPWglM8e2dU/WEqARfKTtiI/AAAAAAABInk/HgO1LnV2Geg0wN3QL8ZXA1reakkmMeiUgCLcB/s1600/4.jpg
+date=2017-07-08
+URL=https://openload.co/f/PjjNWOINNH4/Good.Sex.2013.HDRip.mp4
+
+type=video
+name=Last Tango in Paris (1972)
+thumb=https://2.bp.blogspot.com/-cXyJ84U5oQ0/WEp5t3YykSI/AAAAAAABIms/hU891i1zecALyvA4DYTNAmuo1t_RFKgIACLcB/s1600/1.jpg
+date=2017-07-08
+URL=https://openload.co/f/civ3kZMtjAw/Last_Tango_in_Paris_%281972%29.mp4
+
+type=video
+name=Les Grandes Emmerdeuses (1974)
+thumb=https://2.bp.blogspot.com/-00ZMM9lRogo/WElWYi5gy0I/AAAAAAABImE/a7xAKYCZFoYd4td9tE2X0_Om_QmV2nAvACLcB/s1600/8.jpg
+date=2017-07-08
+URL=https://openload.co/f/o_G1_KYTeqY/Les_Grandes_Emmerdeuses_%281974%29_-CG.mkv.mp4
+
+type=video
+name=A Pantera Nua (1979)
+thumb=https://4.bp.blogspot.com/-GDgE2JOWYmI/WElVmShL9-I/AAAAAAABImA/JXMfI1RRtTUmRvNO4LbqXQDEYj0VQ2pnwCLcB/s1600/6.jpg
+date=2017-07-08
+URL=https://openload.co/f/1zsatBCs1Fo/A_Pantera_Nua_%281979%29.avi.mp4
+
+type=video
+name=Sex, Secrets & Betrayals (2000)
+thumb=https://1.bp.blogspot.com/-AKC8X-IM44A/WElUsaj2aMI/AAAAAAABIl0/IGQPktbcD84JG-DXrn5jT7Rv5CG5NIlggCLcB/s1600/5SSSS.jpg
+date=2017-07-08
+URL=https://openload.co/f/dDseptBJHic/Sex%2CSecrets%26Betrayals.2000.HDRip_Erotic
+
+type=video
+name=Staying on Top (2002)
+thumb=https://1.bp.blogspot.com/--X6HskykJvM/WElTq343q2I/AAAAAAABIlw/mlSL6viDx_Qvb8YW9tKz5rls1JMkRPWxACLcB/s1600/5SSS.jpg
+date=2017-07-08
+URL=https://openload.co/f/L9wQqZIrTfI/Staying.on.Top.2002.DVDRip_Erotic
+
+type=video
+name=Freeze Me (2000)
+thumb=https://3.bp.blogspot.com/-mfqaVXWgTNI/WElTA2RYS-I/AAAAAAABIls/qNTQT-K6lysZguYKrU4LpPpD7hWoz9jpACLcB/s1600/5S.jpg
+date=2017-07-08
+URL=https://openload.co/f/JPcz9bVLDOE/Freeze.Me.2000.DVDRip_Erotic
+
+type=video
+name=Molester Train 9 (1981)
+thumb=https://2.bp.blogspot.com/-e7wGaXOOmxI/WElSZaxnPfI/AAAAAAABIlk/o6A5qOsevsIzTVZcTR1QnIJ4qaPOKo_CACLcB/s1600/5.jpg
+date=2017-07-08
+URL=https://openload.co/f/0ZMyj_7CAkk/Molester.Train.9.1981.DVDRip_Erotic
+
+type=video
+name=Adam and Six Eves (1962)
+thumb=https://3.bp.blogspot.com/-q5olA9-U6yU/WEgEuqUEtyI/AAAAAAABIkA/ahF-FEaZjSsHtpNHIV9JvcE_r4PnPd_1ACLcB/s1600/10.jpg
+date=2017-07-08
+URL=https://openload.co/f/7TXUoPHS1yo/Adam_and_Six_Eves_%281962%29.mp4
+
+type=video
+name=Die Sex-Spelunke von Bangkok (1974)
+thumb=https://2.bp.blogspot.com/-80PaaooygdU/WEgEDQ6wDyI/AAAAAAABIj8/u3IRsJEx5x0aICv1IdxIWBEM3-DVDKDZwCLcB/s1600/9.jpg
+date=2017-07-08
+URL=https://openload.co/f/N_7J7jyA1ro/Die_Sex-Spelunke_von_Bangkok_%281974%29.mkv.mp4
+
+
+
+
+
+
+
+
+
+type=video
+name=139xxxxxxxxxxxxxxxxxxxxMiss Nymphet’s Zap-In (1970)
+thumb=https://2.bp.blogspot.com/-sc7AUeBB34M/WEZYgcIVhvI/AAAAAAABIes/b6Tlg73BQsggk9QKRM18ycU2J_R0YoBwQCLcB/s1600/7SS.jpg
+date=2017-07-08
+URL=https://openload.co/f/-USkQVoa6Gc/Miss_Nymphets_Zap-In_%281970%29.mkv.mp4
+
+type=video
+name=Hot & Saucy Pizza Girls (1978)
+thumb=https://2.bp.blogspot.com/-o99SB4M-yhU/WEZYCGzQA7I/AAAAAAABIeo/vJQ4Utt4Cu0OSCrgN-_SWicridA0kgxcQCLcB/s1600/7S.jpg
+date=2017-07-08
+URL=https://openload.co/f/7hhc-kUzOqs/Hot_%26_Saucy_Pizza_Girls_%281978%29.mp4
+
+type=video
+name=Sweet Trash (1970)
+thumb=https://4.bp.blogspot.com/-lhu6ePtKl6Q/WEZXddeFKVI/AAAAAAABIeg/YJdRXwTSAU4dhXbREWDYx93CNhKTOmo3gCLcB/s1600/7.jpg
+date=2017-07-08
+URL=https://openload.co/f/KSkzTXpUVKg/Sweet_Trash_%281970%29.mkv.mp4
+
+type=video
+name=Sex in Bangkok (1976)
+thumb=https://1.bp.blogspot.com/-slKYcXat6dM/WEVed6dfTVI/AAAAAAABIYk/PQdtUVuPIf41tUEqKwDNIbSDXKG7iio-ACLcB/s1600/4.jpg
+date=2017-07-08
+URL=https://openload.co/f/QmS0hbbsMOA/Hei%C3%9Fer_Sex_in_Bangkok_%281976%29.mkv.mp4
+
+type=video
+name=50,000 B.C. (Before Clothing) (1963)
+thumb=https://1.bp.blogspot.com/-talTO6Oy2Ik/WEVdmTPCdjI/AAAAAAABIYc/WyAc8GsAHHsuaeXf5ebIAKKY7zmRa2pdACLcB/s1600/3.jpg
+date=2017-07-08
+URL=https://openload.co/f/zoOiI4fD3Hk/50000_B.C._%28Before_Clothing%29_%281963%29.avi.mp4
+
+type=video
+name=Carnalita (1974)
+thumb=https://4.bp.blogspot.com/-qv-tt3u6-Ug/WEVc4kDDx0I/AAAAAAABIYY/gM1lasPldXow73f5Cq5beCRA8-qfdVhtACLcB/s1600/Carnalit%25C3%25A0%2B%25281974%2529.jpg
+date=2017-07-08
+URL=https://openload.co/f/PBX5NuK-mqc/Carnalita_%281974%29.mkv.mp4
+
+type=video
+name=Le bouche-trou (1976)
+thumb=https://1.bp.blogspot.com/-vItekJlus3Y/WEQSLEaSDXI/AAAAAAABIUc/RdRe5UO-XAEsANfonV3hJC7r0rAHvYDhACLcB/s1600/3.jpg
+date=2017-07-08
+URL=https://openload.co/f/S_bpcNosH4k/Femmes_a_hommes.mkv.mp4
+
+type=video
+name=Il letto in piazza (1976)
+thumb=https://3.bp.blogspot.com/-d0XW-hxBTmU/WEQRvXmGlNI/AAAAAAABIUY/BX0lTGLXBTg3g0YnuxPHgnh9bAC7p7VeQCLcB/s1600/2.jpg
+date=2017-07-08
+URL=https://openload.co/f/r9D_d6yo4Yk/Il_Letto_in_piazza.avi.mp4
+
+type=video
+name=Sexloose (1982)
+thumb=https://2.bp.blogspot.com/-rhu7p73ZVJk/WEQRN9_yvJI/AAAAAAABIUU/bTh5XAZCVwgAlgTRrJK_mCl_KuLGrYFCACLcB/s1600/1.jpg
+date=2017-07-08
+URL=https://openload.co/f/DqJoOuqxacc/Las_Vegas_Maniacs_aka_Sex_Loose_1982.avi.mp4
+
+type=video
+name=Room In Rome (2010)
+thumb=https://2.bp.blogspot.com/-uUz6pR4Pb9s/WEQPkJeax2I/AAAAAAABIUI/oEHvvmyuDyY7o03-EsrKVvCsrlM_G5zogCLcB/s1600/8.jpg
+date=2017-07-08
+URL=https://openload.co/f/OSPRRDRwAaQ/Room.In.Rome.2010.720p.BRRip_Erotic
+
+type=video
+name=The Watcher In the Attic (1976)
+thumb=https://4.bp.blogspot.com/-G24T5pY4R1Y/WEQLv_0MQkI/AAAAAAABITk/tLwbihmV37E3oyFBVOnECEmvxCA52WEDwCLcB/s1600/5.jpg
+date=2017-07-08
+URL=https://openload.co/f/EujnFF8C9ss/Watcher.In.The.Attic.1976.DVDRip_Erotic
+
+type=video
+name=Erotica, a Femea Sensual (1984)
+thumb=https://2.bp.blogspot.com/-mUAGfnKlkuo/WELTqDRaW6I/AAAAAAABIRA/J_AJsoBS44Yc-1plfy18cCYaCnksOV3egCLcB/s1600/6.jpg
+date=2017-07-08
+URL=https://openload.co/f/jCHmXsblqcY/Er%C3%B3tica%2C_a_F%C3%AAmea_Sensual_%281984%29.avi.mp4
+
+type=video
+name=Hard Time (1996)
+thumb=https://4.bp.blogspot.com/-wxLnF9wTAUQ/WELS7kscMtI/AAAAAAABIQ8/x8KG2QZCDXUOe0EnBzFgmZ-kF7Ex8sEuACLcB/s1600/5.jpg
+date=2017-07-08
+URL=https://openload.co/f/IUZi3zw1Xeg/Hard_Time_%281996%29.mp4
+
+type=video
+name=Mulher, Mulher (1979)
+thumb=https://1.bp.blogspot.com/-c-Wc2liUxDs/WELSZ6xBuSI/AAAAAAABIQ4/cfPD9dPDOMEMWIQ-56Pht5ZscDyRc2d5QCLcB/s1600/4.jpg
+date=2017-07-08
+URL=https://openload.co/f/_LoCqNW5UWA/Mulher%2C_Mulher_-_ripado_por_Odygarrett.avi.mp4
+
+
+
+
+
+
+
+
+
+type=video
+name=125xxxxxxxxxxxxxxxxxxxxDr. Fummel und seine Gespielinnen (1970)
+thumb=https://3.bp.blogspot.com/-uMIkdj-hN04/WEFhJDTiLMI/AAAAAAABINQ/gkTUx73QWbE77g8GCIoCKw4_IOi6ZQQ9QCLcB/s1600/3.jpg
+date=2017-07-08
+URL=https://openload.co/f/0J8O7M4XxXU/Dr._F.avi.mp4
+
+type=video
+name=Zum Gasthof der spritzigen Madchen (1979)
+thumb=https://3.bp.blogspot.com/-ceOZkV3F4MY/WEFgCYIW2NI/AAAAAAABIM8/IwZki_DvET8Zkzs0VPLTl73k_kEYGEpEwCLcB/s1600/2.gif
+date=2017-07-08
+URL=https://openload.co/f/EIwh8HTFUGQ/Zum_Gasthof_Der_Spritzigen_Madchen.avi.mp4
+
+type=video
+name=O Vale dos Amantes (1982)
+thumb=https://4.bp.blogspot.com/-QBcKJ9oA4Ms/WEFfXyuqbBI/AAAAAAABIMo/I2_xixu4WXUgMlKgSgnks0NL5jWafN-EwCLcB/s1600/1.jpg
+date=2017-07-08
+URL=https://openload.co/f/QWabO65XTgM/O_Vale_dos_Amantes_%281982%29.divx.mp4
+
+type=video
+name=Taboo VII: The Wild and the Innocent (Video 1989)
+thumb=https://4.bp.blogspot.com/-rvRYgcpqvWM/WEFeEtQwvSI/AAAAAAABIMg/aP_RSHlE1DgRhOhadBaCl4yUJ9_QyguLACLcB/s1600/9S.jpg
+date=2017-07-08
+URL=https://openload.co/f/3LRA9s_gVAE/Taboo_VII_%281989%29.avi.mp4
+
+type=video
+name=Les demoiselles de pensionnat (1976)
+thumb=https://2.bp.blogspot.com/-Donp1wAFWY4/WEAHfgbmEOI/AAAAAAABIJI/HqRUSS5oLtAC6mxE-2BWHwoMh8bzAa0ZgCLcB/s1600/8.jpg
+date=2017-07-08
+URL=https://openload.co/f/fRWmiAqyLaQ/Les_demoiselles_de_pensionnat.mp4
+
+type=video
+name=Le journal erotique d’une Thailandaise (1980)
+thumb=https://1.bp.blogspot.com/-yPJE32ImhtY/WEAG4Y9TehI/AAAAAAABIJA/H0cikZS2iIInevFes2Ciyegxd-bE0b8LQCLcB/s1600/7.jpg
+date=2017-07-08
+URL=https://openload.co/f/kOA2PmJPz6s/An_Erotic_Journal_of_a_Lady_from_Thailand%5B1980%5D.avi.mp4
+
+type=video
+name=Elite Devassa (1984)
+thumb=https://2.bp.blogspot.com/-Vi6qWIDfchM/WEAGX-z574I/AAAAAAABII8/xuj_h8CqPPQsIRrgiWYSaprOwgc_gt5MgCLcB/s1600/6.jpg
+date=2017-07-08
+URL=https://openload.co/f/l3Jl_9H7ABM/1984_-_Elite_Devassa_-_Cinema_Nacional.avi.mp4
+
+type=video
+name=Agitese antes de usarla (1983)
+thumb=https://4.bp.blogspot.com/-xxmGKllzMqg/WEAFKG3wodI/AAAAAAABII4/2RK1kihHaqQBTS8D6nGYuNVOkpVXv2mEgCLcB/s1600/5.jpg
+date=2017-07-08
+URL=https://openload.co/f/WvjxRJLHiGM/Agitese_Antes_De_Usarla_-_Mariano_Ozores_1983.avi.mp4
+
+type=video
+name=Sex Files: Sexual Matrix (2000)
+thumb=https://3.bp.blogspot.com/-wqZagcj-0eg/WEADRwmBKuI/AAAAAAABIIY/acDDOg2J0j8abefPn6VZUTACY9xLWEFXwCLcB/s1600/4.jpg
+date=2017-07-08
+URL=https://openload.co/f/P8iQ1AIo2YA/Sex.Files%3ASexual.Matrix.2000.DVDRip_Erotic
+
+type=video
+name=Wife’s Sexual Fantasy Before Husband’s Eyes (1980)
+thumb=https://3.bp.blogspot.com/-nsDT-Go3Jpg/WD__kMfkQhI/AAAAAAABIH8/gsAjh-CZdCwIBjZZiUrkX0rH9K5VNuhvACLcB/s1600/2.jpg
+date=2017-07-08
+URL=https://openload.co/f/Xi-WV1yC8a0/Wifes.Sexual.Fantasy.Before.Husbands.Eyes.1980.BRRip_Erotic
+
+type=video
+name=Libidine (1979)
+thumb=https://3.bp.blogspot.com/-WJ9vm5L79S0/WD6uqfRyIRI/AAAAAAABIGA/vD_gABMk_lYAnOf_igEtiLChpqMeNYxGACLcB/s1600/8.jpg
+date=2017-07-08
+URL=https://openload.co/f/ePWSO6IDriY/Classic_XXX_-_Libidine_%28Ajita_Wilson_and_Marina_Hedman_-_1979_Ita%29.avi.mp4
+
+type=video
+name=Una vita da sballo (1995)
+thumb=https://2.bp.blogspot.com/-6bt5XJTQuDE/WD6t6ET-cII/AAAAAAABIF0/S0rx6aqBAhgGr_L40gW9IhM1xp9_GesoACLcB/s1600/7.jpg
+date=2017-07-08
+URL=https://openload.co/f/JO9ZvQL8yVg/Una_vita_da_sballo_%281995%29.avi.mp4
+
+type=video
+name=Monika und die Sechzehnjahrigen (1975)
+thumb=https://1.bp.blogspot.com/-eRhYPF1v8GA/WD6tZ3dcuRI/AAAAAAABIFs/s-0vMvEX96wKCvdiCwQ2UQLH_M4fr5wzwCLcB/s1600/6.jpg
+date=2017-07-08
+URL=https://openload.co/f/AuPX9h6tDX8/Monika_und_die_Sechzehnj%C3%A4hrigen_%281975%29.mp4
+
+type=video
+name=Dr Porno und sein Satanszombie
+thumb=https://4.bp.blogspot.com/-7AfgL0eKqe8/WD6s98wwaiI/AAAAAAABIFk/a3OCvJE_T4YGm_QzwNRlscmjBnrEqCxygCLcB/s1600/5.jpg
+date=2017-07-08
+URL=https://openload.co/f/KcYA8lqXCIA/gh-drpornosd.mkv.mp4
+
+
+
+
+
+
+
+
+
+type=video
+name=111xxxxxxxxxxxxxxxxxxxxDie Rache der Ostfriesen (1974)
+thumb=https://2.bp.blogspot.com/-g6FqexJNAXI/WD2LgWUxNpI/AAAAAAABH_0/32bjtXhQ4eAlfhMdUdVlwxrkq6RZKkcYQCLcB/s320/10.jpg
+date=2017-07-08
+URL=https://openload.co/f/vTlTIlFnxI8/Die_Rache_der_Ostfriesen_%281974%29.mp4
+
+type=video
+name=Erotic Diary of a Lumberjack (1974)
+thumb=https://2.bp.blogspot.com/-om3Yc0tDcDM/WD2Km9YnXVI/AAAAAAABH_s/bMG4PWqL1tEiOE-hsqzM-FeZwDvAwzehgCLcB/s320/7.jpg
+date=2017-07-08
+URL=https://openload.co/f/Q4fVh5f0iVY/Erotic_Diary_of_a_Lumberjack%5B1974%5D.avi.mp4
+
+type=video
+name=El fascista, la beata y su hija desvirgada (1978)
+thumb=https://2.bp.blogspot.com/-qhMULdi3Gw8/WD2Jsr1foII/AAAAAAABH_k/JJ1-FLKhDpg_xxDqFL-iQAHHMHJp-8lBwCLcB/s1600/6.jpg
+date=2017-07-08
+URL=https://openload.co/f/xgZhcgT05Js/El_fascista%2C_la_beata_y_su_hija_desvirgada_%281978%29.avi.mp4
+
+type=video
+name=The Erotic Misadventures of the Invisible Man (2003)
+thumb=https://2.bp.blogspot.com/-Pej5NE4X-l8/WD2GUfPud6I/AAAAAAABH_U/BxWGmRcDEsYHDn6-L_eCf0U_Zq5h1eiuwCLcB/s1600/5.jpg
+date=2017-07-08
+URL=https://openload.co/f/vacUGQ7LvAw/The.Erotic.Misadventures.of.the.Invisible.Man.2003.DVDRip_Erotic
+
+type=video
+name=Outrageous Request
+thumb=https://2.bp.blogspot.com/-V-dW7jSdxA8/WD2DC0ziXuI/AAAAAAABH-E/M7HlKMBn-T0Pa5wDNojguap9LPncDX6dgCLcB/s1600/3.jpg
+date=2017-07-08
+URL=https://openload.co/f/BjGf1LPf_uA/Outrageous.Request.2009.HDRip_Erotic
+
+type=video
+name=Eros Photographer (2010)
+thumb=https://4.bp.blogspot.com/-67v7p6DDkbQ/WD1_lZTaQ0I/AAAAAAABH8s/BKJuLDuAosMs2vrljf1zCvgI-vleqOyNACLcB/s1600/1.jpg
+date=2017-07-08
+URL=https://openload.co/f/MlqLmiR0Cn8/Eros.Photographer.2010.DVDRip_Erotic
+
+type=video
+name=Teenage Fantasies: Part II (1981)
+thumb=https://4.bp.blogspot.com/-LyWLABT7PWY/WDwclTEwKaI/AAAAAAABH60/3BOzXm1r65E4fJZkTFCBuWB2AlI65i-qACLcB/s1600/3.jpg
+date=2017-07-08
+URL=https://openload.co/f/l136W3XVeGc/Teenage_Fantasies_2_%281981%29.mkv.mp4
+
+type=video
+name=Cuarenta anos sin sexo (1979)
+thumb=https://2.bp.blogspot.com/--3psykwZmdg/WDwb3c6JD7I/AAAAAAABH6s/k4FM93P8TScj8fdFyXjzmPyG6-W4q64SwCLcB/s1600/2.jpg
+date=2017-07-08
+URL=https://openload.co/f/a_E9PsmLhT0/Cuarenta.a%C3%B1os.sin.sexo_-_Forty_years_without_sex._TVrip.avi.mp4
+
+type=video
+name=La masajista vocacional (1981)
+thumb=https://4.bp.blogspot.com/-nLXJD8imsAc/WDwbNv9xAOI/AAAAAAABH6o/XtCs6gNxZws-3yTMETSw6ThC4YWYK2StQCLcB/s1600/1.jpg
+date=2017-07-08
+URL=https://openload.co/f/tkRF_JOSmmE/La_masajista_vocacional_%281981%29_DVDRip.avi.mp4
+
+type=video
+name=Sexual Roulette (1997)
+thumb=https://1.bp.blogspot.com/-hveXZiujoQU/WDwZYYD9yDI/AAAAAAABH6c/_abJAygPucUTDyuc-8rwZvIihtyuxlZVwCLcB/s1600/9.jpg
+date=2017-07-08
+URL=https://openload.co/f/alngGrJpN-Q/Sexual.Roulette.1996.DVDRip_Erotic
+
+type=video
+name=War Prison 2 (2006)
+thumb=https://1.bp.blogspot.com/-ivJ1W-ta15E/WDwVAPoIbGI/AAAAAAABH5g/QvtA0IJJpdkwKIByM1SlnHSbmPiFiS4twCLcB/s320/7.jpg
+date=2017-07-08
+URL=https://openload.co/f/2v43kpS1AsQ/War.Prison.2.2006.DVDRip_Erotic
+
+type=video
+name=I’m No Virgin (1971)
+thumb=https://4.bp.blogspot.com/-a2HuNbs1Vpo/WDru9FRjZyI/AAAAAAABH1Y/SXFcwHouYTcd_SkAFDcI1mGoJkKUIBbugCLcB/s1600/10.jpg
+date=2017-07-08
+URL=https://openload.co/f/YBwjciOdUoE/I%27m_No_Virgin_%281971%29.avi.mp4
+
+type=video
+name=Animales racionales (1983)
+thumb=https://4.bp.blogspot.com/-ZLs4x6ywS2I/WDrtmtzaybI/AAAAAAABH1Q/RVxxZIhhMTMHIx3JnfQ2pdhb82UO3Qy-ACLcB/s1600/9.jpg
+date=2017-07-08
+URL=https://openload.co/f/TQJBjpE_4uM/Animales_racionales_%281983%29.x264-CG.mkv.mp4
+
+type=video
+name=Desejos Sexuais de Elza (1982)
+thumb=https://3.bp.blogspot.com/-S3Hqoa2xOTE/WDrsaOF0r4I/AAAAAAABH1M/Qy1SpdKFd6ICE5dN552ovY0pKz7DjLCngCLcB/s1600/8.jpg
+date=2017-07-08
+URL=https://openload.co/f/ZGOG1Lkowl4/Desejos_sexuais_de_Elza.avi.mp4
+
+
+
+
+
+
+
+
+type=video
+name=97xxxxxxxxxxxxxxxxxxxxMulheres Liberadas (1982)
+thumb=https://2.bp.blogspot.com/-DucrNQmrv_Q/WDmfEhaRi6I/AAAAAAABHyQ/EH-Uon5Z3SAIKoJwJm8pqZPGwLIgCvZfgCLcB/s320/6.jpg
+date=2017-07-08
+URL=https://openload.co/f/0ou7Tunu2kQ/Mulheres_Liberadas_%281982%29.mp4
+
+type=video
+name=Possuidas Pelo Pecado (1976)
+thumb=https://3.bp.blogspot.com/-YQOxfp2cw9c/WDmeg2ESs8I/AAAAAAABHyI/Vb0qL_4JcYgpmKXvMaJNKKkeb7e_Z_IPACLcB/s1600/5.jpg
+date=2017-07-08
+URL=https://openload.co/f/yXppqqrzGI0/%281976%29_Possuidas_pelo_pecado.avi.mp4
+
+type=video
+name=As Deusas (1972)
+thumb=https://3.bp.blogspot.com/-rwl8LtS57ZY/WDmd7x82H3I/AAAAAAABHyE/eGSRbCqywSMJDy2d2bVD-E2Q_8UiY-YiQCLcB/s1600/4.jpg
+date=2017-07-08
+URL=https://openload.co/f/N3pBejTDBG8/As_Deusas-Walter_Hugo_Khouri-1972.avi.mp4
+
+type=video
+name=War Prison 2 (2005)
+thumb=https://2.bp.blogspot.com/-cLukG_-8eSI/WDmcnD3hj3I/AAAAAAABHx8/c59Z02cHeWcamHDkvHBm5icED3EuwfBlgCLcB/s320/3.jpg
+date=2017-07-08
+URL=https://openload.co/f/O7CLnkHNtfE/War.Prison.2005.DVDRip_Erotic
+
+type=video
+name=Terror e Extase (1979)
+thumb=https://4.bp.blogspot.com/-IxE04g387V4/WDggaSqhVxI/AAAAAAABHtU/qChmaigwJWMQtqeq8pg_CSfaZuJXQm9ugCLcB/s1600/10.jpg
+date=2017-07-08
+URL=https://openload.co/f/bIOPA7nvSR8/terroeextase.avi.mp4
+
+type=video
+name=Lilian, a Suja (1981)
+thumb=https://2.bp.blogspot.com/-zDrS266VsRc/WDgf_Pd8UXI/AAAAAAABHtQ/yYnnbZRY9CsiPSIk8zAcLjvsMTOvxfdWgCLcB/s320/9S.jpg
+date=2017-07-08
+URL=https://openload.co/f/dXQFvAfz8DE/L%C3%ADlian%2C_a_Suja_%281981%29avi.mp4
+
+type=video
+name=Un assassin qui passe (1981)
+thumb=https://3.bp.blogspot.com/-_JJgl6ytHis/WDgfS81kUbI/AAAAAAABHtI/piiQ2UqswO88Yer8UrjwlKVbeQt7cpVZQCLcB/s1600/8.jpg
+date=2017-07-08
+URL=https://openload.co/f/DY_k1sd7OGI/Un_assassin_qui_passe_%281981%29.avi.mp4
+
+type=video
+name=DIET OF SEX UNCUT VERSION (2014)
+thumb=https://2.bp.blogspot.com/-Lv_RiPEvjRc/WDgP20SpP8I/AAAAAAABHqE/Jt89N0unBWY4J6aKmtwbxX4uIfBsczbzgCLcB/s320/1.jpg
+date=2017-07-08
+URL=https://openload.co/f/Czz0STeTBlk/Diet_of_Sex_UNCUT_VERSION_%282014%29.mkv.mp4
 
 
 
