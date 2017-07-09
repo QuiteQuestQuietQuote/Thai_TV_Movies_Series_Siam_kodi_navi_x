@@ -1,8 +1,8 @@
 ﻿version=1
-background=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
+background=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
-logo=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
+logo=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
+thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -354,11 +354,18 @@ URL=
 
 
 
+
 type=video
-name=Despicable Me 3 (2017) CAM
+name=Spider-Man: Homecoming (2017) CAM
+thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
+date=2017-07-09
+URL=https://openload.co/f/-vMTjVvq-kU/Spider-Man.Homecoming.2017.HDCAM.x264.AC-32.0.ThaIRonG-CpT-CtHts%40SiamBIT.mkv.mp4
+
+type=video
+name=Despicable Me 3 (2017) CAM updated TS
 thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
-date=2017-06-25
-URL=https://openload.co/f/LBv_4ismw10/Despicable_Me_3_%282017%29_%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94_3%5BZOOM_V.1%5D%5B360p%5D.mp4
+date=2017-07-09
+URL=https://openload.co/f/UXysP_7mF5M/Despicable_Me_3_%282017%29_%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94_3.mp4
 
 type=video
 name=Transformers: The Last Knight (2017) CAM updated TS
