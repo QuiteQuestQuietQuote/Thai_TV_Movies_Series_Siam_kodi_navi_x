@@ -30,6 +30,14 @@ player=default
 rating=-1.00
 
 type=playlist
+name=Rome_TH
+thumb=https://image.tmdb.org/t/p/w640/1A1BwgWO3Sw379VEhR0vkTuE3XW.jpg
+date=2017-07-10
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/Rome_TH.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=Spartacus_TH
 thumb=https://image.tmdb.org/t/p/w640/18FWPmsh2dULwMyWGjNDCUsmGRM.jpg
 date=2017-07-07
