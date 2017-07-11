@@ -55,13 +55,33 @@ URL=https://openload.co/f/zTu5dZkP_KA/The.H-o-u-s-e.2017.HDTS.x264-NoGRP.mkv.mp4
 
 # 2773619
 type=video
-name=Unforgettable (2017) ENG updated CAM2
+name=Unforgettable (2017) ENG updated BR
 thumb=http://image.tmdb.org/t/p/w500/eUGehaQhjc9Q8kqlZP16akfx7R4.jpg
-date=2017-07-06
-URL=https://openload.co/f/viYsnCjMIic/Unforgettable.2017.CAM.READNFO.XViD-26k.avi.mp4
+date=2017-07-11
+URL=https://openload.co/f/g-33d_facZg/Unforgettable.2017.1080p.BluRay.x264-DRONES.mkv.mp4
 player=default
 rating=-1.00
 description=A woman sets out to make life hell for her ex-husband's new wife./description
+
+# 2773558
+type=video
+name=Going in Style (2017) ENG updated HD
+thumb=http://image.tmdb.org/t/p/w500/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg
+date=2017-07-11
+URL=https://openload.co/f/l0vLHm18Ljg/G-o-ing.i-n.St-y-le.2017.HDRip.XviD.AC3-EVO.avi.mp4
+player=default
+rating=-1.00
+description=Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money./description
+
+# 2773806
+type=video
+name=Gifted (2017) ENG updated BR
+thumb=http://image.tmdb.org/t/p/w500/7YB2YrMwIm1g8FyZtlvmVDfRnAT.jpg
+date=2017-07-11
+URL=https://openload.co/f/hazPuLoziF8/Gifted.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+player=default
+rating=-1.00
+description=Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother./description
 
 # 2773803
 type=video
@@ -184,15 +204,7 @@ description=An aging Latin lover gets dumped by his sugar mama and must fend for
 
 
 
-# 2773806
-type=video
-name=Gifted (2017) ENG
-thumb=http://image.tmdb.org/t/p/w500/7YB2YrMwIm1g8FyZtlvmVDfRnAT.jpg
-date=2017-05-05
-URL=https://openload.co/f/mv0Irk8GWA4/G-i-f-t-e-d.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
-player=default
-rating=-1.00
-description=Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother./description
+
 
 # 2773805
 type=video
@@ -234,14 +246,6 @@ description=Set in 1950s Tuscany, Voice from the Stone is the haunting and suspe
 
 
 
-# 2773558
-type=video
-name=Going in Style (2017) ENG
-thumb=http://image.tmdb.org/t/p/w500/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg
-URL=https://openload.co/f/fr4BOVQc5RU/G_In_Style_.2017_HDCAM_%5BLayar-21.com%5D.mp4
-player=default
-rating=-1.00
-description=Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money./description
 
 
 
@@ -809,7 +813,7 @@ type=video
 name=CHiPS (2017)
 thumb=http://image.tmdb.org/t/p/w500/oyPcsfGWL5Se6RGW1JCVgpHlASH.jpg
 date=2017-06-30
-URL=https://streamango.com/f/kcbbqqqlbobktpar/CHIPS_mp4
+URL=https://openload.co/f/yIJVkluILRQ/%7BMINI_Super-HQ%7D_Chips.2017.1080p.BrRip.DTS.x264.THB_NongZEZA%40CtHts.mkv.mp4
 player=default
 rating=-1.00
 description=The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles./description
