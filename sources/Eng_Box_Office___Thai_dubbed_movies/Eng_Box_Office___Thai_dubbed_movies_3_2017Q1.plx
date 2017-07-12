@@ -398,9 +398,10 @@ date=2017-06-16
 URL=https://openload.co/f/6Ofv0uUcw_U/Baywatch.2017.HDTS.UNCENSORED.x264.ThaiRong-CpT.mkv.mp4
 
 type=video
-name=The Mummy (2017) CAM updated
+name=The Mummy (2017) CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
-URL=https://openload.co/f/-83pNicBMXg/V.1_The_Mummy_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%B5%E0%B9%88_%282017%29_MV_%281%29.mkv.mp4
+date=2017-07-12
+URL=https://openload.co/f/Rm4mY3qddMU/The.Mummy.2017.1080p.KORSUB.HDRip.x264.AC32.0.ThaIRonG-CpT.mkv.mp4
 
 type=video
 name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) CAM updated
@@ -624,6 +625,12 @@ URL=
 
 
 
+
+type=video
+name=The Mummy (2017) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
+date=2017-07-12
+URL=https://openload.co/f/Rm4mY3qddMU/The.Mummy.2017.1080p.KORSUB.HDRip.x264.AC32.0.ThaIRonG-CpT.mkv.mp4
 
 # 2773800
 type=video
