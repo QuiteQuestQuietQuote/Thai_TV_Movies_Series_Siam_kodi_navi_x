@@ -35,6 +35,234 @@ URL=
 
 
 
+
+
+
+
+
+
+type=video
+name=199xxxxxxxxxxxxxxxxxxxxAsian Sex Diary.Flight.to.UT.Game
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Flight.to_.UT_.Game_.jpg
+date=2017-07-12
+URL=https://openload.co/f/OQIxpeJjOko/Asian_Sex_Diary.Flight.to.UT.Game.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Eye_2
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Eye_2.jpg
+date=2017-07-12
+URL=https://openload.co/f/_LpLaRgDJMA/Asian_Sex_Diary.Eye.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Flight.to.Bangkok.and.A.s.BJ
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Flight.to_.Bangkok.and_.A.s.BJ_.jpg
+date=2017-07-12
+URL=https://openload.co/f/wE99--YOVAI/Asian_Sex_Diary.Flight.to.Bangkok.and.A.s.BJ.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Fang
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Fang_.jpg
+date=2017-07-12
+URL=https://openload.co/f/hKfQaFUtPIU/Asian_Sex_Diary.Fang.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Fai
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Fai_.jpg
+date=2017-07-12
+URL=https://openload.co/f/WP-1M0uueBo/Asian_Sex_Diary.Fai.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Fa
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Fa_.jpg
+date=2017-07-12
+URL=https://openload.co/f/i0-2vMISpas/Asian_Sex_Diary.Fa.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Fa.Student.No.2 
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Fa_.Student.No_.2.jpg
+date=2017-07-12
+URL=https://openload.co/f/I1Ee3rNmgH8/Asian_Sex_Diary.Fa.Student.No.2.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Fa.Part.2
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Fa_.Part_.2.jpg
+date=2017-07-12
+URL=https://openload.co/f/G8ZqPBshEzI/Asian_Sex_Diary.Fa.Part.2.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Emmy
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Emmy_.jpg
+date=2017-07-12
+URL=https://openload.co/f/KlyrrG75e2U/Asian_Sex_Diary.Emmy.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Eiw
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Eiw_.jpg
+date=2017-07-12
+URL=https://openload.co/f/guazrVkeOYc/Asian_Sex_Diary.Eiw.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Bell
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Bell_.jpg
+date=2017-07-12
+URL=https://openload.co/f/DA0bRzPqpyM/Asian_Sex_Diary.Bell.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Cute.Bee
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Cute_.Bee_.jpg
+date=2017-07-12
+URL=https://openload.co/f/y4rfYhdxyqM/Asian_Sex_Diary.Cute.Bee.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Duang
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Duang_.jpg
+date=2017-07-12
+URL=https://openload.co/f/4lryQEPSBDI/Asian_Sex_Diary.Duang.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Cat.and.Luk.Part.1 
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Cat_.and_.Luk_.Part_.1.jpg
+date=2017-07-12
+URL=https://openload.co/f/z10oUfIqezI/Asian_Sex_Diary.Cat.and.Luk.Part.1.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Da.Paw.s.friend
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Da_.Paw_.s.friend.jpg
+date=2017-07-12
+URL=https://openload.co/f/1lQTq4fdIyk/Asian_Sex_Diary.Da.Paw.s.friend.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Dew
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Dew_.jpg
+date=2017-07-12
+URL=https://openload.co/f/tP26wrkTaV0/Asian_Sex_Diary.Dew.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Chat.with.Mutmee.Mint.shower
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Chat_.with_.Mutmee.Mint_.shower.jpg
+date=2017-07-12
+URL=https://openload.co/f/DyT8zyTdK-4/Asian_Sex_Diary.Chat.with.Mutmee.Mint.shower.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Catrin 
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Catrin.jpg
+date=2017-07-12
+URL=https://openload.co/f/bQYbvYJmeQE/Asian_Sex_Diary.Catrin.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Cat.and.Luk.Part.2
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Cat_.and_.Luk_.Part_.2.jpg
+date=2017-07-12
+URL=https://openload.co/f/Muwd7CKtT9w/Asian_Sex_Diary.Cat.and.Luk.Part.2.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Beerbar.pickup
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Beerbar.pickup.jpg
+date=2017-07-12
+URL=https://openload.co/f/ZjVkjYRkvYo/Asian_Sex_Diary.Beerbar.pickup.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Bee
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Bee_.jpg
+date=2017-07-12
+URL=https://openload.co/f/8M7MbUTLoWk/Asian_Sex_Diary.Bee.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Bee.Lucky.No.7
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Bee_.Lucky_.No_.7.jpg
+date=2017-07-12
+URL=https://openload.co/f/LOkJ6FmsPBI/Asian_Sex_Diary.Bee.Lucky.No.7.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Be
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Be_.jpg
+date=2017-07-12
+URL=https://openload.co/f/kHEV71r69Uc/Asian_Sex_Diary.Be.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Beer
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Beer_.jpg
+date=2017-07-12
+URL=https://openload.co/f/FSlSxmuxMxU/Asian_Sex_Diary.Beer.MP4.mp4
+
+
+
+
+
+
+
+
+
+
+type=video
+name=175xxxxxxxxxxxxxxxxxxxxDiary.Bath.with.Emmy.then.museum 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Bath_.with_.Emmy_.then_.museum.jpg
+date=2017-07-12
+URL=https://openload.co/f/3wxVJ710Gf0/Asian_Sex_Diary.Bath.with.Emmy.then.museum.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Aw.Part.0
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Aw_.Part_.0.jpg
+date=2017-07-12
+URL=https://openload.co/f/uSDmfxrIRFQ/Asian_Sex_Diary.Aw.Part.0.mp4
+
+type=video
+name=Asian Sex Diary.Aw.Part.2
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Aw_.Part_.2.jpg
+date=2017-07-12
+URL=https://openload.co/f/ePB6j5UHbiA/Asian_Sex_Diary.Aw.Part.2.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Aw.Morning
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Aw_.Morning.jpg
+date=2017-07-12
+URL=https://openload.co/f/7bfv27qSzPQ/Asian_Sex_Diary.Aw.Morning.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Apple.Student.No.1
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Apple_.Student.No_.1.jpg
+date=2017-07-12
+URL=https://openload.co/f/U11m4FvQgqY/Asian_Sex_Diary.Apple.Student.No.1.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Apple.Part.3
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Apple_.Part_.3.jpg
+date=2017-07-12
+URL=https://openload.co/f/LmjgU8S3MkE/Asian_Sex_Diary.Apple.Part.3.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Apple.Part.2
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Apple_.Part_.2.jpg
+date=2017-07-12
+URL=https://openload.co/f/TbWVLcb_-a4/Asian_Sex_Diary.Apple.Part.2.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Ang
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Ang_.jpg
+date=2017-07-12
+URL=https://openload.co/f/AcdAMY5sVy0/Asian_Sex_Diary.Ang.MP4.mp4
+
+type=video
+name=Asian Sex Diary.An.Student.No.3
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Asian-Sex-Diary.An_.Student.No_.3.jpg
+date=2017-07-12
+URL=https://openload.co/f/gwXj1oVtkms/Asian_Sex_Diary.An.Student.No.3.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Apple.Morning.shower.Student.hunting 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Apple_.Morning.shower.Student.hunting.jpg
+date=2017-07-12
+URL=https://openload.co/f/PhPC9IW11vQ/Asian_Sex_Diary.Apple.Morning.shower.Student.hunting.MP4.mp4
+
+type=video
+name=Asian Sex Diary.Tun2
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Tun2_.jpg
+date=2017-07-12
+URL=https://openload.co/f/CbumGVelmPs/Asian_Sex_Diary.Tun2.mp4
+
+
+
+
 type=video
 name=174xxxxxxxxxxxxxxxxxxxxxAsian Sex Diary.Soey
 thumb=https://erotic2you.com/wp-content/uploads/2017/06/Asian-Sex-Diary.Soey_.jpg

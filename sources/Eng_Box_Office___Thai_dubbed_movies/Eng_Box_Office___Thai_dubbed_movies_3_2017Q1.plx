@@ -55,7 +55,7 @@ URL=https://openload.co/f/zTu5dZkP_KA/The.H-o-u-s-e.2017.HDTS.x264-NoGRP.mkv.mp4
 
 # 2773619
 type=video
-name=Unforgettable (2017) ENG updated BR
+name=Unforgettable (2017) ENG updated BR 1080p
 thumb=http://image.tmdb.org/t/p/w500/eUGehaQhjc9Q8kqlZP16akfx7R4.jpg
 date=2017-07-11
 URL=https://openload.co/f/g-33d_facZg/Unforgettable.2017.1080p.BluRay.x264-DRONES.mkv.mp4
@@ -75,7 +75,7 @@ description=Desperate to pay the bills and come through for their loved ones, th
 
 # 2773806
 type=video
-name=Gifted (2017) ENG updated BR
+name=Gifted (2017) ENG updated BR 1080p
 thumb=http://image.tmdb.org/t/p/w500/7YB2YrMwIm1g8FyZtlvmVDfRnAT.jpg
 date=2017-07-11
 URL=https://openload.co/f/hazPuLoziF8/Gifted.2017.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -164,7 +164,7 @@ URL=https://openload.co/f/pB_uu10m4YI/The.Dinner.2017.1080p.WEB-DL.H264.AC3-EVO.
 
 # 2773618
 type=video
-name=The Zookeeper's Wife (2017) ENG updated BR
+name=The Zookeeper's Wife (2017) ENG updated BR 1080p
 thumb=http://image.tmdb.org/t/p/w500/cCQKccGZsfRSBHy4xEhDlS73OS2.jpg
 date=2017-06-20
 URL=https://openload.co/f/AMyTY51uL8o/the.zookeepers.wife.2017.1080p.bluray.x264-geckos.mkv.mp4
@@ -632,7 +632,11 @@ thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
 date=2017-07-12
 URL=https://openload.co/f/Rm4mY3qddMU/The.Mummy.2017.1080p.KORSUB.HDRip.x264.AC32.0.ThaIRonG-CpT.mkv.mp4
 
-# 2773800
+type=video
+name=Ghost in the Shell (2017) ENG BR 1080p
+thumb=http://image.tmdb.org/t/p/w500/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg
+date=2017-07-12
+URL=https://openload.co/f/iV4RSI0cZis/Ghost.in.the.Shell.2017.1080p.BluRay.x264-DRONES.mkv.mp4
 type=video
 name=Ghost in the Shell (2017) CAM SOUND updated WEB
 thumb=http://image.tmdb.org/t/p/w500/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg

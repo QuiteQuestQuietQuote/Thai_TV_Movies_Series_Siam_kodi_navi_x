@@ -36,6 +36,164 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=42xxxxxxxxxxxxxxxxxxxxJAV LOVE-302 – APT IN FIRST OUT BAN RENA AOI
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-LOVE-302.jpg
+date=2017-07-12
+URL=https://openload.co/f/HQg6KsRCSQM/JAV_LOVE-302.720p.mp4
+
+type=video
+name=JAV LOVE-307 – 143CM HYPER LORI SISTER DAILY GROWTH MADJI EUPHORIC EROTIC GOKIGEN ROUND AZUNOZOMI
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-LOVE-307.jpg
+date=2017-07-12
+URL=https://openload.co/f/7cvkcCzTwN8/JAV_LOVE-307.720p.mp4
+
+type=video
+name=JAV DV-1612 – DISPATCH HOUSEKEEPER SEX SLAVE KARIN AIZAWA
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JAV-DV-1612.jpg
+date=2017-07-12
+URL=https://openload.co/f/Ep2u60FRkFI/JAV_dv-1612.wmv.mp4
+
+type=video
+name=SHKD-686 – Natsume Yuuki – The New Female Teacher Gets Anally Gang Banged
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SHKD-686.jpg
+date=2017-07-12
+URL=https://openload.co/f/Af3colUN10I/JAV_SHKD-686.mp4
+
+type=video
+name=ABP-372 – Hasegawa Rui – Rui Hasegawa’s Ultimate Virginity Taking
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/ABP-372.jpg
+date=2017-07-12
+URL=https://openload.co/f/PVEcolbjMbQ/JAV_ABP-372.mp4
+
+type=video
+name=AP-330 – Unknown – A Mother And Daughter Are Abducted, And The Daughter Gets Raped In Front Of Her Tied Up Mom!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/AP-330.jpg
+date=2017-07-12
+URL=https://openload.co/f/PAjnIQ-5Ozs/JAV_AP-330.mp4
+
+type=video
+name=IENE-666 – Unknown – Real Amateur Pick Ups! I Begged A Prim, Pretty Girl To Watch Me Jerk Off Then Smooth-Talked Her Into Fucking Me!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/IENE-666.jpg
+date=2017-07-12
+URL=https://openload.co/f/8S88zZ8PmHo/JAV_IENE-666.mp4
+
+type=video
+name=KAWD-711 – Ona Moe – Forbidden To Masturbate Until Her Limit, She Lets Her Wild Gushing Pussy Loose In An Insane Fuckfest
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/KAWD-711.jpg
+date=2017-07-12
+URL=https://openload.co/f/fubqiqyqMlk/JAV_KAWD-711.mp4
+
+type=video
+name=JUFD-573 – Kitajima An – S&M Slave Impregnation Auction -The Hemp Rope That Digs Into The Flesh Of A Swimming Instructor With Colossal Tits
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUFD-573.jpg
+date=2017-07-12
+URL=https://openload.co/f/sCK7Jlw6Wl0/JAV_JUFD-573.mp4
+
+type=video
+name=AP-312 – Unknown – Tie Up And Drug Your House Helper Lady, Tease Her Until She Wets Herself And Fuck Her With Your Huge Dick!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/AP-312.jpg
+date=2017-07-12
+URL=https://openload.co/f/oeWh7P9VWMc/JAV_AP-312.mp4
+
+type=video
+name=HND-286 – Niizuki Sanae – Fresh Face x Exclusive! An Ultra-Sensitive Barely Legal K-Cup College Girl’s Porn Debut
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/HND-286.jpg
+date=2017-07-12
+URL=https://openload.co/f/TFNzO7CdR-E/JAV_HND-286.mp4
+
+type=video
+name=MEYD-159 – KAORI – My Friend’s Mother. I Was Raped By My Son’s Friend And He Made Me Orgasm Over And Over Again
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/MEYD-159.jpg
+date=2017-07-12
+URL=https://openload.co/f/oRdRx0QYpjM/JAV_MEYD-159.mp4
+
+type=video
+name=ABP-469 – Suzumura Airi – Raw Creampies
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/ABP-469.jpg
+date=2017-07-12
+URL=https://openload.co/f/Y9eNtn8LxBA/JAV_ABP-469.mp4
+
+type=video
+name=PPPD-467 – Amane Arisu – H-Cup Gets Her Tits Rubbed Until They’re So Sensitive She Squirts And Drips Her Pussy Dry
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/PPPD-467.jpg
+date=2017-07-12
+URL=https://openload.co/f/k6FgAYTbEbE/JAV_PPPD-467.mp4
+
+type=video
+name=EBOD-468 – Kase Haruna – Voluptuous Cosplayer Has Her First Orgy
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/EBOD-468.jpg
+date=2017-07-12
+URL=https://openload.co/f/8UoS0Bkloe4/JAV_EBOD-468.mp4
+
+type=video
+name=RBD-774 – Sakuragi Rin – Pleasure Torture Laboratory 2
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/RBD-774.jpg
+date=2017-07-12
+URL=https://openload.co/f/SgIAMxGfAWc/JAV_RBD-774.mp4
+
+type=video
+name=JUX-893 – Shiraishi Sumire – My Mom’s Friend
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUX-893.jpg
+date=2017-07-12
+URL=https://openload.co/f/g-q68tyijUo/JAV_JUX-893.mp4
+
+type=video
+name=JUX-937 – Nikaido Yuri – What Happened After My Husband Left For Work
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUX-937.jpg
+date=2017-07-12
+URL=https://openload.co/f/y9MfZmMMfNc/JAV_JUX-937.mp4
+
+type=video
+name=JUFD-628 – Kunimi Misuzu – A Housemaid With Sweaty And Dripping Colossal Tits ~ A Hot And Horny Body Who Can’t Stop The Excitement Of The Men At Her Workplace
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUFD-628.jpg
+date=2017-07-12
+URL=https://openload.co/f/WmAmoj4s0Vg/JAV_JUFD-628.mp4
+
+type=video
+name=KAWD-722 – Sakura Yura – An Intimate, Deceitful Documentary Filmed Over 30 Days. Sudden Start To A Porn Shoot
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/KAWD-722.jpg
+date=2017-07-12
+URL=https://openload.co/f/jm4LFgJ8_84/JAV_KAWD-722.mp4
+
+type=video
+name=JUFD-595 – Hatsumi Saki – Her Anal Hole Twitches When She Cums – Dripping Wet Ass Fuck
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUFD-595.jpg
+date=2017-07-12
+URL=https://openload.co/f/ytnOMnDM11k/JAV_JUFD-595.mp4
+
+type=video
+name=SNIS-668 – Amatsuka Moe – Angel Moe x 6 Super Cherry Boys – 200 Minutes Of Boys Losing Their Virginity!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/SNIS-668.jpg
+date=2017-07-12
+URL=https://openload.co/f/E3T-zUNZsbk/JAV_SNIS-668.mp4
+
+type=video
+name=JUX-871 – Shiraki Yuko – Violated By My Husband’s Superior For 7 Days Straight, I Lost All Sense Of Reason
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/JUX-871.jpg
+date=2017-07-12
+URL=https://openload.co/f/LzHQ7w-91dw/JAV_JUX-871.mp4
+
+type=video
+name=HND-325 – Nishida Karina – The Secretly Filmed Adulterous Creampie Documentary Of The Biracial Beauty
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/HND-325.jpg
+date=2017-07-12
+URL=https://openload.co/f/D8GlJY583Ss/JAV_HND-325.mp4
+
+
+
+
+
+
+
+
+
+
 type=video
 name=18xxxxxxxxxxxxxxxxxxxxXVSR-102 – Namiki Haruka – My Girlfriend Is A Porn Actress
 thumb=https://zeed24hrs.com/wp-content/uploads/2016/11/XVSR-102.jpg
