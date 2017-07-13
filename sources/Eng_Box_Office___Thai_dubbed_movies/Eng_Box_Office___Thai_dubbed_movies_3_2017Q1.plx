@@ -36,10 +36,10 @@ URL=
 
 
 type=video
-name=Baby Driver (2017) ENG
+name=Baby Driver (2017) ENG updated HD
 thumb=https://image.tmdb.org/t/p/w640/mBkOBaxjr7IBHGuQS3sSFeyYTM.jpg
-date=2017-07-10
-URL=https://openload.co/f/2JdHoLBE4yA/Baby_Driver_2017_CAM_%5BLayar-21.com%5D.mp4
+date=2017-07-13
+URL=https://openload.co/f/VQhd4rCzS7s/B-a-b-y.Dr-i-ve-r.2017.HDCAM.NEW-VIDEO.x264-DiRG.mp4
 
 type=video
 name=Cars 3 (2017) ENG updated TC
@@ -397,11 +397,7 @@ thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
 date=2017-06-16
 URL=https://openload.co/f/6Ofv0uUcw_U/Baywatch.2017.HDTS.UNCENSORED.x264.ThaiRong-CpT.mkv.mp4
 
-type=video
-name=The Mummy (2017) CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
-date=2017-07-12
-URL=https://openload.co/f/Rm4mY3qddMU/The.Mummy.2017.1080p.KORSUB.HDRip.x264.AC32.0.ThaIRonG-CpT.mkv.mp4
+
 
 type=video
 name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) CAM updated

@@ -25,3 +25,11 @@ date=2017-07-07
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Dracula.plx
 player=default
 rating=-1.00
+
+type=playlist
+name=Penny Dreadful (2014)
+thumb=https://image.tmdb.org/t/p/w640/wdNA7aBxcSebbXoYBumt7yyYyIa.jpg
+date=2017-07-13
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Penny_Dreadful.plx
+player=default
+rating=-1.00
