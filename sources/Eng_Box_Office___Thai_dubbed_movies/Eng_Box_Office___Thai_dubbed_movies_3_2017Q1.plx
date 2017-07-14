@@ -703,12 +703,7 @@ URL=https://openload.co/f/WTUKXYuOK38/%5BT%5DKoe_no_katachi_2016
 player=default
 rating=-1.00
 
-type=video
-name=MindGamers (2017) CAM SOUND
-thumb=https://4.bp.blogspot.com/-S4OqxmxmTtw/WSFTc6PmIkI/AAAAAAAAMjA/-hfQoIOnQ4YJJ1U-w3T-dVKaVxWODalewCLcB/s1600/MindGamers%2B%25282017%2529%2B%25E0%25B9%2580%25E0%25B8%258A%25E0%25B8%25B7%25E0%25B9%2588%25E0%25B8%25AD%25E0%25B8%25A1%25E0%25B8%25AA%25E0%25B8%25A1%25E0%25B8%25AD%25E0%25B8%2587%25E0%25B8%2584%25E0%25B8%25A3%25E0%25B8%25AD%25E0%25B8%2587%25E0%25B9%2582%25E0%25B8%25A5%25E0%25B8%2581.jpg
-URL=https://openload.co/f/gTdVGNeablE/MindGamers_%282017%29_%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%AA%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81.flv.mp4
-player=default
-rating=-1.00
+
 
 # 2776163
 type=video
@@ -721,14 +716,7 @@ rating=-1.00
 description=When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before./description
 
 
-# 2773786
-type=video
-name=Fallen (2016) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/v1Hv0kp8kGAPkFUIVRUrPpxH8W9.jpg
-URL=https://openload.co/f/ZxfSRtLH1I8/Fallen.2016.1080p.BluRay.x264.THR-CPT.mkv.mp4
-player=default
-rating=-1.00
-description=Lucinda Price is sent to a reform academy under the assumption that she has killed a boy. There, she meets two mysterious boys, Cam and Daniel, to whom she feels drawn to both. But as the love triangle unfurls, it is Daniel that Luce cannot keep herself away from, and things begin to take a darker turn when she finds out his true identity./description
+
 
 # 2773692
 type=video
@@ -776,6 +764,35 @@ URL=
 
 
 
+
+
+type=video
+name=Asura: The City of Madness (2016)
+thumb=https://image.tmdb.org/t/p/w640/bwSFNqH4bzv5J8Ds5iJmIQjIAZ0.jpg
+date=2017-07-14
+URL=https://streamango.com/f/rcmprqlfmrkqrddm/Asura_The_City_of_Madness_MP4_mp4
+
+type=video
+name=Brain on Fire (2017) SD
+thumb=https://image.tmdb.org/t/p/w640/kEwI53HNDO0ajSUWh4HSsGrlF6l.jpg
+date=2017-07-14
+URL=https://streamango.com/f/dbcncetaqdkrssnd/Brain_on_Fire_mp4
+
+type=video
+name=MindGamers (2015) SD
+thumb=https://image.tmdb.org/t/p/w640/wZrEydcc5gTWWQjqp3pMMD8x8Wr.jpg
+date=2017-07-14
+URL=https://streamango.com/f/eempcrefqleppalk/MindGamers_mp4
+
+# 101
+type=video
+name=Fallen (2016)
+thumb=http://image.tmdb.org/t/p/w500/v1Hv0kp8kGAPkFUIVRUrPpxH8W9.jpg
+date=2017-07-14
+URL=https://openload.co/f/VuhThdTOSi4/%7BMINI_Super-HQ%7D_Fallen.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
+description=Lucinda Price is sent to a reform academy under the assumption that she has killed a boy. There, she meets two mysterious boys, Cam and Daniel, to whom she feels drawn to both. But as the love triangle unfurls, it is Daniel that Luce cannot keep herself away from, and things begin to take a darker turn when she finds out his true identity./description
 
 type=video
 name=Japanese Girls Never Die (2016)
