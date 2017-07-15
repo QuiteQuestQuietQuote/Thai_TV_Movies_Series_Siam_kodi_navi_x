@@ -1,8 +1,8 @@
 ﻿version=1
-background=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
+background=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
-logo=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
+logo=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
+thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -33,7 +33,11 @@ URL=
 
 
 
-
+type=video
+name=War for the Planet of the Apes (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
+date=2017-07-15
+URL=https://openload.co/f/2A-jWMtQVJ0/W_f_t_Planet_of_t_A_2017_720p_CAM_%5BLayar-21.com%5D.mp4
 
 type=video
 name=Baby Driver (2017) ENG updated HD
@@ -429,14 +433,7 @@ player=default
 rating=-1.00
 description=People everywhere were enjoying a new game called Ordinal Scale, an ARMMORPG developed exclusively for the Augma, a new wearable console designed for AR (augmented reality) gaming. But, the players had no idea that a nightmare from the virtual world was starting to spread into reality! As his fellow players find themselves in danger, the hero is called upon once again./description
 
-# 2773081
-type=video
-name=The Boss Baby (2017) CAM2
-thumb=http://image.tmdb.org/t/p/w500/unPB1iyEeTBcKiLg8W083rlViFH.jpg
-URL=https://openload.co/f/tgRWjrvyzkM/%5BTH%5DThe_Boss_Baby_2017
-player=default
-rating=-1.00
-description=A story about how a new baby's arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim./description
+
 
 
 
@@ -628,19 +625,7 @@ thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
 date=2017-07-12
 URL=https://openload.co/f/Rm4mY3qddMU/The.Mummy.2017.1080p.KORSUB.HDRip.x264.AC32.0.ThaIRonG-CpT.mkv.mp4
 
-type=video
-name=Ghost in the Shell (2017) ENG BR 1080p
-thumb=http://image.tmdb.org/t/p/w500/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg
-date=2017-07-12
-URL=https://openload.co/f/iV4RSI0cZis/Ghost.in.the.Shell.2017.1080p.BluRay.x264-DRONES.mkv.mp4
-type=video
-name=Ghost in the Shell (2017) CAM SOUND updated WEB
-thumb=http://image.tmdb.org/t/p/w500/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg
-date=2017-07-08
-URL=https://openload.co/f/gLQeWN5DCuk/Ghost_In_The_Shell_%5B2017%5D_1080p_WEB-DL_DD5.1_H264_ThaiRong-CPT_%281%29_%281%29.mkv.mp4
-player=default
-rating=-1.00
-description=In the near future, Major is the first of her kind: a human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals./description
+
 
 
 type=video
@@ -764,7 +749,29 @@ URL=
 
 
 
+# 109
+type=video
+name=The Boss Baby (2017)
+thumb=http://image.tmdb.org/t/p/w500/unPB1iyEeTBcKiLg8W083rlViFH.jpg
+date=2017-07-15
+URL=https://openload.co/f/iuBU71Kz5OQ/%7BMINI-HQ%7D_The.Boss.Baby.2017.1080p.BrRip.AAC.x264.CtHts_-_PORSC.mkv.mp4
+player=default
+rating=-1.00
+description=A story about how a new baby's arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim./description
 
+type=video
+name=Ghost in the Shell (2017) ENG BR 1080p
+thumb=http://image.tmdb.org/t/p/w500/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg
+date=2017-07-12
+URL=https://openload.co/f/iV4RSI0cZis/Ghost.in.the.Shell.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+type=video
+name=Ghost in the Shell (2017) TH
+thumb=http://image.tmdb.org/t/p/w500/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg
+date=2017-07-15
+URL=https://streamango.com/f/ecmtlfsodepsemrs/Ghost_in_the_Shell_MP4_mp4
+player=default
+rating=-1.00
+description=In the near future, Major is the first of her kind: a human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals./description
 
 type=video
 name=Asura: The City of Madness (2016)
@@ -779,10 +786,10 @@ date=2017-07-14
 URL=https://streamango.com/f/dbcncetaqdkrssnd/Brain_on_Fire_mp4
 
 type=video
-name=MindGamers (2015) SD
+name=MindGamers (2015)
 thumb=https://image.tmdb.org/t/p/w640/wZrEydcc5gTWWQjqp3pMMD8x8Wr.jpg
-date=2017-07-14
-URL=https://streamango.com/f/eempcrefqleppalk/MindGamers_mp4
+date=2017-07-15
+URL=https://streamango.com/f/lboncqpstftobrpa/MindGamers_2017_mkv_mp4
 
 # 101
 type=video
@@ -798,7 +805,7 @@ type=video
 name=Japanese Girls Never Die (2016)
 thumb=https://image.tmdb.org/t/p/w640/i8CZ4JQ38z8gDC28q64LuMxEuk1.jpg
 date=2017-07-08
-URL=https://streamango.com/f/eonotonpterkfrnt/Japanese_Girls_Never_Die_2017_mkv_mp4
+URL=https://openload.co/f/qpNAZE5__z0/%7BMiniHQ%7D_Haruko.Azumi.Is.Missing.2016.1080p.DTS.BrRip.x264-joythun.mkv.mp4
 
 # 99
 type=video
@@ -834,7 +841,12 @@ URL=https://streamango.com/f/dscrqqqabpacqsks/Table_19_mp4
 
 #95
 type=video
-name=CHiPS (2017)
+name=CHiPS (2017) ENG BR 1080p
+thumb=http://image.tmdb.org/t/p/w500/oyPcsfGWL5Se6RGW1JCVgpHlASH.jpg
+date=2017-07-15
+URL=https://openload.co/f/CSF-WKEKkmM/%7BMINI_Super-HQ%7D_Chips.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+type=video
+name=CHiPS (2017) TH
 thumb=http://image.tmdb.org/t/p/w500/oyPcsfGWL5Se6RGW1JCVgpHlASH.jpg
 date=2017-06-30
 URL=https://openload.co/f/yIJVkluILRQ/%7BMINI_Super-HQ%7D_Chips.2017.1080p.BrRip.DTS.x264.THB_NongZEZA%40CtHts.mkv.mp4
@@ -842,8 +854,14 @@ player=default
 rating=-1.00
 description=The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles./description
 
+
 type=video
-name=Rules Don't Apply (2016)
+name=Rules Don't Apply (2016) ENG BR 1080p
+thumb=https://image.tmdb.org/t/p/w640/9d509ztC8mI2BYQ57tFsiHG25Qw.jpg
+date=2017-07-15
+URL=https://openload.co/f/DI_tDvTDC_I/%7BMINI_Super-HQ%7D_Rules.Don%27t.Apply.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+type=video
+name=Rules Don't Apply (2016) TH
 thumb=https://image.tmdb.org/t/p/w640/9d509ztC8mI2BYQ57tFsiHG25Qw.jpg
 date=2017-06-29
 URL=https://streamango.com/f/dabcdlatndfkredf/Rules_Don_t_Apply_mp4
