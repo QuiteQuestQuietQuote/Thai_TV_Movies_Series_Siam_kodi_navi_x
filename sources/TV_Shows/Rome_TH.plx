@@ -35,19 +35,19 @@ type=video
 name=3___An Owl in a Thornbush
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/sZy0TABk2F5MRWVCO22mFmGWhj.jpg
 date=2017-07-10
-URL=https://drive.google.com/file/d/0B0_gHk7YlYcaWnZkYTZvU0J5N0E/preview
+URL=https://drive.google.com/file/d/0B0_gHk7YlYcaWnZkYTZvU0J5N0E/view
 
 type=video
 name=2___How Titus Pullo Brought Down the Republic
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/xFxDaT7fWUo2PRkuuwlq82or0YN.jpg
 date=2017-07-10
-URL=https://drive.google.com/file/d/0B0_gHk7YlYcabVo4U2lpSTY4bzA/preview
+URL=https://drive.google.com/file/d/0B0_gHk7YlYcabVo4U2lpSTY4bzA/view
 
 type=video
 name=1___The Stolen Eagle
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/9DdvYZEGCWDfClJVeaqnTIOPFc5.jpg
 date=2017-07-10
-URL=https://drive.google.com/file/d/0B0_gHk7YlYcaWnZkYTZvU0J5N0E/preview
+URL=https://drive.google.com/file/d/0B0_gHk7YlYcaWnZkYTZvU0J5N0E/view
 
 
 
