@@ -30,6 +30,7 @@ rating=-1.00
 type=playlist
 name=Thai_TV_Channel_etc
 thumb=https://upload.wikimedia.org/wikipedia/en/5/5a/Thai_PBS_logo.png
+date=2017-07-15
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Live_TV/Thai_TV_Channel_etc.plx
 player=default
 rating=-1.00
