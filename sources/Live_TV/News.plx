@@ -16,7 +16,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 type=video
 name=CNBC
 thumb=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png
-URL=http://zorro.cdn.newschat.tv/hls/cnbc_live/index.m3u8
+URL=http://203.162.235.41:17819
 player=default
 rating=-1.00
 
