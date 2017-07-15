@@ -40,10 +40,16 @@ date=2017-07-15
 URL=https://openload.co/f/2A-jWMtQVJ0/W_f_t_Planet_of_t_A_2017_720p_CAM_%5BLayar-21.com%5D.mp4
 
 type=video
-name=Baby Driver (2017) ENG updated HD
+name=Baby Driver (2017) ENG updated2 HD
 thumb=https://image.tmdb.org/t/p/w640/mBkOBaxjr7IBHGuQS3sSFeyYTM.jpg
-date=2017-07-13
-URL=https://openload.co/f/VQhd4rCzS7s/B-a-b-y.Dr-i-ve-r.2017.HDCAM.NEW-VIDEO.x264-DiRG.mp4
+date=2017-07-15
+URL=https://openload.co/f/iik3Joax5-w/bb.Dr-i-ver.2017.CAM.READNFO.XViD-26k.avi.mp4
+
+type=video
+name=All Eyez on Me (2017) ENG updated2 TS
+thumb=https://image.tmdb.org/t/p/w640/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg
+date=2017-07-15
+URL=https://openload.co/f/chn8UlevFo4/A.E.O.M.2017.CAM.XViD-26k.avi.mp4
 
 type=video
 name=Cars 3 (2017) ENG updated TC
@@ -97,11 +103,7 @@ player=default
 rating=-1.00
 description=A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company's ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity./description
 
-type=video
-name=All Eyez on Me (2017) ENG updated UNCEN TS
-thumb=https://image.tmdb.org/t/p/w640/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg
-date=2017-06-29
-URL=https://openload.co/f/GnkaTsI1K-A/A.E.O.M.2017.UNCENSORED.Movies.HD.TS.x264-NoGRP.mkv
+
 
 type=video
 name=Captain Underpants: The First Epic Movie (2017) ENG
