@@ -19,7 +19,10 @@ rating=-1.00
 
 
 
-
+type=window
+name= Add-ons
+thumb=
+URL= addons
 
 
 
