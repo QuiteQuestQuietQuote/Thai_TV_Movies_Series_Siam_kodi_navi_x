@@ -45,7 +45,7 @@ rating=-1.00
 
 type=video
 name=HBO HD
-URL=http://dns1.theplayersklub.host:2095/live/SIMPLYCAZ/SIMPLYCAZ/634.ts
+URL=http://183.88.212.205:8010/play/a00u
 
 type=video
 name=FOX MOVIES PREMIUM
