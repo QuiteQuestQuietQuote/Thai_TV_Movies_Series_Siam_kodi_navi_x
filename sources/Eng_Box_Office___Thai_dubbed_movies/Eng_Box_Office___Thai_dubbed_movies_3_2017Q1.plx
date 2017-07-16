@@ -782,10 +782,10 @@ date=2017-07-14
 URL=https://streamango.com/f/rcmprqlfmrkqrddm/Asura_The_City_of_Madness_MP4_mp4
 
 type=video
-name=Brain on Fire (2017) SD
+name=Brain on Fire (2017)
 thumb=https://image.tmdb.org/t/p/w640/kEwI53HNDO0ajSUWh4HSsGrlF6l.jpg
-date=2017-07-14
-URL=https://streamango.com/f/dbcncetaqdkrssnd/Brain_on_Fire_mp4
+date=2017-07-16
+URL=https://openload.co/f/iXqVcUWLIh0/Brain.On.Fire.2017.1080p.WEB-DL.AC3.x264.CtHts_-_PORSC.mkv.mp4
 
 type=video
 name=MindGamers (2015)

@@ -183,7 +183,7 @@ type=video
 name=01-1___The Stolen Eagle
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/9DdvYZEGCWDfClJVeaqnTIOPFc5.jpg
 date=2017-07-10
-URL=https://drive.google.com/file/d/0B0_gHk7YlYcaWnZkYTZvU0J5N0E/view
+URL=https://drive.google.com/open?id=0B0_gHk7YlYcaWnZkYTZvU0J5N0E
 
 
 
