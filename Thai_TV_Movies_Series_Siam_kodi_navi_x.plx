@@ -73,9 +73,9 @@ player=default
 rating=-1.00
 
 type=script
-name=
+name=repository.colossus-999.999.2.zip
 thumb=
-date=
-URL=
+date=2017-07-16
+URL=https://openload.co/f/iySDOEBG6iE/repository.colossus-999.999.2.zip
 player=default
 rating=-1.00
