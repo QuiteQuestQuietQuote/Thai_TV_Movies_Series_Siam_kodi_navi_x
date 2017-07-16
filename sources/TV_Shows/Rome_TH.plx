@@ -19,10 +19,10 @@ rating=-1.00
 
 
 
-type=window
-name= Add-ons
+type=script
+name= Update the urlresolver (refresh), if can not play...!!!...,,,script.module.urlresolver-3.0.36.zip
 thumb=
-URL= addons
+URL= https://openload.co/f/AcqSapXJXL4/script.module.urlresolver-3.0.36.zip
 
 
 
