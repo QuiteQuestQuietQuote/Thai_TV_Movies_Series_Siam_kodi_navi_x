@@ -41,13 +41,13 @@ type=video
 name=02-10___De Patre Vostro (About Your Father)
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/tot1oiUfuGtfK0E7MATrZeBFcx.jpg
 date=2017-07-15
-URL=https://drive.google.com/open?id=0B0_gHk7YlYcaZXRubXlLQWNvSWc
+URL=https://drive.google.com/file/d/0B0_gHk7YlYcaZXRubXlLQWNvSWc/view?usp=sharing
 
 type=video
 name=02-9___Deus Impeditio Esuritori Nullus (No God Can Stop a Hungry Man)
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/r0io4W1G0hAAvXeDrLT5vj3lRUL.jpg
 date=2017-07-15
-URL=https://drive.google.com/open?id=0B0_gHk7YlYcadUxvUUNsRTRlVUU
+URL=https://drive.google.com/file/d/0B0_gHk7YlYcadUxvUUNsRTRlVUU/view?usp=sharing
 
 type=video
 name=02-8___A Necessary Fiction
