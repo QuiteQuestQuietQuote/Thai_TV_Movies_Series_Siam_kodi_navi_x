@@ -42,24 +42,45 @@ URL=
 
 
 type=video
-name=GOT_S7_ENG
+name=GOT_S07_ENG
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/19NPjmN6o3QGYfu8WnzgDSx75Ov.jpg
 date=2017-06-29
 URL=
 
+
+
+
+type=video
+name=S07-E03___The Queen’s Justice___July 30, 2017
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/jj2m8Q3v6EzV7z2JN8foIHeOGZB.jpg
+date=2017-07-17
+URL=
+
+type=video
+name=S07-E02___Stormborn___July 23, 2017
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/dVf1gfi80js9qyxm78479o4RNUr.jpg
+date=2017-07-17
+URL=
 
 type=video
 name=S07-E01___Dragonstone___1080p.AMZN.WEB-DL
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/hk8mZG2q5yr2QKGutO4qI7nfILX.jpg
 date=2017-07-17
 URL=https://openload.co/f/lwaEmkwvnUQ/Game.of.Thrones.S07E01.Dragonstone.REPACK.1080p.AMZN.WEB-DL.DD%2B5.1.H.264-GoT.mkv.mp4
+type=video
+name=S07-E01___Dragonstone___SUB TH
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/hk8mZG2q5yr2QKGutO4qI7nfILX.jpg
+date=2017-07-17
+URL=https://streamango.com/f/etaqosodadlppsrm/Game_of_Thrones_Season_7_EP_1_MP4_mp4
+
+
+
 
 type=video
 name=
 thumb=
 date=
 URL=
-
 
 
 

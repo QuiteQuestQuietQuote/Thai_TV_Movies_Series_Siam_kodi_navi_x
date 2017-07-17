@@ -41,61 +41,61 @@ URL=
 
 
 type=video
-name=02-10___De Patre Vostro (About Your Father)
+name=S02-E10___De Patre Vostro (About Your Father)
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/tot1oiUfuGtfK0E7MATrZeBFcx.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcaZXRubXlLQWNvSWc
 
 type=video
-name=02-9___Deus Impeditio Esuritori Nullus (No God Can Stop a Hungry Man)
+name=S02-E09___Deus Impeditio Esuritori Nullus (No God Can Stop a Hungry Man)
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/r0io4W1G0hAAvXeDrLT5vj3lRUL.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcadUxvUUNsRTRlVUU
 
 type=video
-name=02-8___A Necessary Fiction
+name=S02-E08___A Necessary Fiction
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/rIBNFo6x3SPaGhlMXZhhxY8LXIJ.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcaM18xTUV4NWVSUVU
 
 type=video
-name=02-7___Death Mask
+name=S02-E07___Death Mask
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/50G0zEtmAmSI1j7WEekBlVxbJ9c.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcaNXpTc2lobFdwclk
 
 type=video
-name=02-6___Philippi
+name=S02-E06___Philippi
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/obKsOySzhzDNWJMYr3i631IWNz2.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcadjYwZ01fcHd0czg
 
 type=video
-name=02-5___Heroes of the Republic
+name=S02-E05___Heroes of the Republic
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/g4RI5MnLEWr3smDH6P8qpKwvEDN.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcaN195bUV0b0UtdTA
 
 type=video
-name=02-4___Testudo et Lepus
+name=S02-E04___Testudo et Lepus
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/8BywtildxOeAovfdVtgy2xc5XO2.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcaTlJaM2J4ejVIeDg
 
 type=video
-name=02-3___These Being the Words of Marcus Tullius Cicero
+name=S02-E03___These Being the Words of Marcus Tullius Cicero
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/9HAFY3cAF4t6oOIbKqWCl9cs6QJ.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcaaXdfNnFMQ0dJeWM
 
 type=video
-name=02-2___Son of Hades
+name=S02-E02___Son of Hades
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/3hVKW6anpBIsg1lk4WLjBU6XDHy.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcaY2x6S01KQ3hwb00
 
 type=video
-name=02-1___Passover
+name=S02-E01___Passover
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/9ln7yvMqWLbggUGLOk5THF0u52l.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcadWF1dy1aNnNyNTQ
@@ -117,73 +117,73 @@ URL=
 
 
 type=video
-name=01-12___Kalends of February
+name=S01-E12___Kalends of February
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/gMjiv39dkj4nmPVMQTxD9742zKU.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcaUGwwOVByT3hPemM
 
 type=video
-name=01-11___The Spoils
+name=S01-E11___The Spoils
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/cSLvQ5d5DlwpbgGvqWt9YSVUQH2.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcaMlRTaENGWkJxVFk
 
 type=video
-name=01-10___Triumph
+name=S01-E10___Triumph
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/mEMKq2X0IZCrtNviD1kJ5lGyrln.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcaVWJRYjNSeVpvZUk
 
 type=video
-name=01-9___Utica
+name=S01-E09___Utica
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/j4xdfOAjr5vzp36f3Tehc2zIVRK.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcaMVpGSFhCSTZOcHc
 
 type=video
-name=01-8___Caesarion
+name=S01-E08___Caesarion
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/lfl2dwg8sIpdafDduK6gMfTyC7G.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcaZWhjWjJYZGZseDA
 
 type=video
-name=01-7___Pharsalus
+name=S01-E07___Pharsalus
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/1yhUDzQ0WbQA2mk61lSYhtNE7Ye.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcabEZGTzNGNUtSakE
 
 type=video
-name=01-6___Egeria
+name=S01-E06___Egeria
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/tF2icN8nPyHZ7D2am9SsShELnws.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcaTjRnaUpxbkZ1VWc
 
 type=video
-name=01-5___The Ram Has Touched The Wall
+name=S01-E05___The Ram Has Touched The Wall
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/uwFkiASiezyBcP0LyYfEQJwPg6R.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcablJqek9NWnE5SHM
 
 type=video
-name=01-4___Stealing From Saturn
+name=S01-E04___Stealing From Saturn
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/kS8OBqOZOIc6BSWyCbya5CcCIRX.jpg
 date=2017-07-15
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcaZHc1cGJGejZ5OUk
 
 type=video
-name=01-3___An Owl in a Thornbush
+name=S01-E03___An Owl in a Thornbush
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/sZy0TABk2F5MRWVCO22mFmGWhj.jpg
 date=2017-07-16
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcaMGgwY290ejJDOXc
 
 type=video
-name=01-2___How Titus Pullo Brought Down the Republic
+name=S01-E02___How Titus Pullo Brought Down the Republic
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/xFxDaT7fWUo2PRkuuwlq82or0YN.jpg
 date=2017-07-16
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcabVo4U2lpSTY4bzA
 
 type=video
-name=01-1___The Stolen Eagle
+name=S01-E01___The Stolen Eagle
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/9DdvYZEGCWDfClJVeaqnTIOPFc5.jpg
 date=2017-07-16
 URL=https://drive.google.com/open?id=0B0_gHk7YlYcaWnZkYTZvU0J5N0E

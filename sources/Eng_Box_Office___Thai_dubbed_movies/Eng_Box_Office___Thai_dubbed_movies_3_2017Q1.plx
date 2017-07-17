@@ -188,15 +188,7 @@ URL=https://openload.co/f/etk7MaqSfkQ/Camera.Store.2016.WEB-DL.x264-FGT.mp4
 
 
 
-# 2776075
-type=video
-name=Get Out (2017) ENG updated2 WEB
-thumb=http://image.tmdb.org/t/p/w500/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg
-date=2017-05-09
-URL=https://openload.co/f/42F7yhiuWV0/O-G-O-2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-player=default
-rating=-1.00
-description=A young black man visits his white girlfriend's cursed family estate. He finds out that many of its residents, who are black, have gone missing in the past./description
+
 
 # 2775957
 type=video
@@ -453,7 +445,15 @@ URL=
 
 
 
-
+# 2776075
+type=video
+name=Get Out (2017) SUB
+thumb=http://image.tmdb.org/t/p/w500/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg
+date=2017-07-17
+URL=https://streamango.com/f/cadmfmdnpbntaakm/Get_Out_2017_Sub_TH_mkv_mp4
+player=default
+rating=-1.00
+description=A young black man visits his white girlfriend's cursed family estate. He finds out that many of its residents, who are black, have gone missing in the past./description
 
 type=video
 name=Okja (2017) SUB
@@ -620,6 +620,13 @@ URL=
 
 
 
+
+
+type=video
+name=Kill Switch (2017) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
+date=2017-07-17
+URL=https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264..ThaIRonG.CtHts_-_CpT.mkv.mp4
 
 type=video
 name=The Mummy (2017) CAM SOUND
