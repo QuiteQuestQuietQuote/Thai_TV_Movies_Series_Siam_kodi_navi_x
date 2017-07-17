@@ -40,6 +40,12 @@ date=2017-06-15
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Live_TV/Kid.plx
 
 type=playlist
+name=Adult_XXX
+thumb=http://incesto.co/wp-content/uploads/2016/01/xxx-incesto.jpg  
+date=2017-07-17
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Live_TV/Adult_XXX.plx
+
+type=playlist
 name=Documentary
 thumb=http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old-1024x768.png
 date=2017-06-15
