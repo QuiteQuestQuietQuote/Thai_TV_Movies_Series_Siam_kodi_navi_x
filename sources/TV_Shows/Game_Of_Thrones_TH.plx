@@ -20,19 +20,46 @@ rating=-1.00
 
 
 
-
 type=video
-name=GOT_S7
-thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/19NPjmN6o3QGYfu8WnzgDSx75Ov.jpg
-date=2017-06-29
+name=
+thumb=
+date=
 URL=
 
+type=video
+name=The Story So Far
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/gDJoLFcizTNzwanGxAmzjShNIfB.jpg
+date=2017-07-17
+URL=https://openload.co/f/i09r98_a8k8/game.of.thrones.the.story.so.far.2017.1080p.hdtv.x264-plutonium.mkv.mp4
 
 type=video
 name=
 thumb=
 date=
 URL=
+
+
+
+
+type=video
+name=GOT_S7_ENG
+thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/19NPjmN6o3QGYfu8WnzgDSx75Ov.jpg
+date=2017-06-29
+URL=
+
+
+type=video
+name=S07-E01___Dragonstone___1080p.AMZN.WEB-DL
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/hk8mZG2q5yr2QKGutO4qI7nfILX.jpg
+date=2017-07-17
+URL=https://openload.co/f/lwaEmkwvnUQ/Game.of.Thrones.S07E01.Dragonstone.REPACK.1080p.AMZN.WEB-DL.DD%2B5.1.H.264-GoT.mkv.mp4
+
+type=video
+name=
+thumb=
+date=
+URL=
+
 
 
 
