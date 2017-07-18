@@ -40,10 +40,10 @@ date=2017-07-15
 URL=https://openload.co/f/2A-jWMtQVJ0/W_f_t_Planet_of_t_A_2017_720p_CAM_%5BLayar-21.com%5D.mp4
 
 type=video
-name=Baby Driver (2017) ENG updated2 HD
+name=Baby Driver (2017) ENG updated3 TS
 thumb=https://image.tmdb.org/t/p/w640/mBkOBaxjr7IBHGuQS3sSFeyYTM.jpg
-date=2017-07-15
-URL=https://openload.co/f/iik3Joax5-w/bb.Dr-i-ver.2017.CAM.READNFO.XViD-26k.avi.mp4
+date=2017-07-18
+URL=https://openload.co/f/RNevLqH_TNM/bd.ttn.avi.mp4
 
 type=video
 name=All Eyez on Me (2017) ENG updated2 TS
@@ -222,9 +222,10 @@ description=A CIA agent is baited into a trap involving London and a biological 
 
 # 2773791
 type=video
-name=Colossal (2017) ENG
+name=Colossal (2017) ENG BR
 thumb=http://image.tmdb.org/t/p/w500/4VOyofBd1pexblxtDZYtYIk7NI4.jpg
-URL=https://openload.co/f/NMABZ4v3zOM/Colossal.2016.1080p.WEB-DL.AAC2.0.H264-FGT.mkv.mp4
+date=2017-07-18
+URL=https://openload.co/f/GhVUazyStnI/Co-l-o-ssal.2016.LIMITED.BDRip.x264-DRONES.mkv.mp4
 player=default
 rating=-1.00
 description=A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering./description
