@@ -174,13 +174,13 @@ type=video
 name=S01-E03___An Owl in a Thornbush
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/sZy0TABk2F5MRWVCO22mFmGWhj.jpg
 date=2017-07-16
-URL=https://drive.google.com/file/d/0B0gHk7YlYcaMGgwY290ejJDOXc/view
+URL=https://drive.google.com/file/d/0B0_gHk7YlYcaMGgwY290ejJDOXc/view?usp=sharing
 
 type=video
 name=S01-E02___How Titus Pullo Brought Down the Republic
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/xFxDaT7fWUo2PRkuuwlq82or0YN.jpg
 date=2017-07-16
-URL=https://drive.google.com/file/d/0B0_gHk7YlYcabVo4U2lpSTY4bzA/view
+URL=https://drive.google.com/file/d/0B0_gHk7YlYcabVo4U2lpSTY4bzA/view?usp=sharing
 
 type=video
 name=S01-E01___The Stolen Eagle
