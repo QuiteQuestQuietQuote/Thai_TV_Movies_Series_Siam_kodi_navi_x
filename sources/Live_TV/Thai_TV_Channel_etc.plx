@@ -1115,6 +1115,560 @@ URL=http://183.88.212.205:8010/play/a00h
 
 
 
+type=video
+name=
+thumb=
+URL=
+player=default
+rating=-1.00
+
+type=video
+name=(Not Permanent) test
+thumb=
+date=2017-07-18
+URL=
+player=default
+rating=-1.00
+
+
+
+
+
+
+
+type=video    
+name=Channel fans      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=music as companion pad      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_backup_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=science documentary      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Thangka      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_tangka_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Cultural Heritage      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_whyc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Meike home A.R.T      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mkmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=music as ecology      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsst_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Animal World      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Comprehensive      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zonghe_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Variety      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ent_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=party building      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dangjian_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=movie      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=TV Series      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=1080P      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=music as action movies      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Hong Kong Film      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=a comedy movie      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_comedy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=self-made drama      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_make_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Korean      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_koreatv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=with broadcast      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_genbo_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=4K      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_4k&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Mi monthly pass      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_myz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=No War Peking      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bpwzs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=open class      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gkk_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=I'm a singer NEW      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_imsinger_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=the Chinese people of color      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cczgr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Swordsman      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xajh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=I see you Me      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bbhll_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Happy people comedy      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlxjr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=A Bite of China      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sjsdzg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=yellow piece      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hdz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Perfect Game      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wmyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=movie trailers      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_trailer_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Stephen Chow film      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zxc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Jackie Chan film      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Zhen Huan Chuan      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhenhuan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=House of Cards      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zpw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=the anti-fascist      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ffxs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Red Sorghum      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hgl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Beijing Crashers      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bjak_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Chinatv      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hpdqssd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=The Four      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snsdmb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Deer      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ldj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=My Fair Princess      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hzgg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=naked marriage age      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lhsd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=step by step startling      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bbjx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Sword      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_liangjian_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=shock troops      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sbtj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Journey to the West      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Justice Bao      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Mancang city      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mcjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=because there is a miracle of love      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ywaqyqj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=No War Peking      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bpwzs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Legend of Martial Arts      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wlwz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Dragon Escort      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lmbj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Hollywood      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=a Chinese film      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hydy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Japan and South Korea movie      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rhdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Beijing Crashers      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bjak_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=the new Living Buddha Ji Gong      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xjghf_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=sister tricks      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hyjj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=I want to see get married again      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xmblzjh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Need Bride      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jpxn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=tiger mother cat dad      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hmmb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=New Ghost Story      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzxb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=My Sunshine      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hysxm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Cantonese Channel      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yylbpd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Ordinary World      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_pfdsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Gods Heroes      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fsyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Sui and Tang Heroes      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_styx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Fairview edge gorgeous adventure      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jxyhlmx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Live Flesh      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hssx_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Wu Mei Niang legend      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wmncq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Abduction emperor back to modern      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gghdhxd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=My teacher is legendary      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wdlsscq_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Ice and Fire youth      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_byhdqc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Langya list      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lyb_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=ten weeks married      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_szjcq_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=The Pretender      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wzz_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=mischievous princess      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tpwf_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Double Life of Veronique      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_lsh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=small time      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xsd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=I want to see get married again      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xmblzjh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Need Bride      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jpxn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Happy people comedy      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlxjr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=but likes you      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_ppxhn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=after the sea not the sea      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_hhbsh_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=You are my sister      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_nswdjm_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Carat Lovers      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_kllr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Challenger League      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tzzlm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Juvenile Detective Di Renjie      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=god of small dogs seven      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sqxq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=lurking      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qianfu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Happy Season      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_2015xjdws_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Han cloud love song      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dhqyzyzg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=from the future Schmitt      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzwldsmt_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Agent Carter      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tgkt_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=music      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_music_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Concerts      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_concert_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=entertainment      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yule_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=MV      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Classical music      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_classical_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=opera      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xiqu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Music Festival      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yinyuejie_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=LIVE life      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_livemusic_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Grammy Awards      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_glmyyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=music to listen to classical music station carousel      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_leting_classical_music_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=music, music festival carousel station      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_leting_festival_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=music to listen to King masked carousel station      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_leting_mmgw_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=I listen to music singer rotation station      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_leting_wsgs_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=listen to music education carousel station      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_leting_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Ting Awards      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hdjbjdl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Lang Lang concert      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_langlang_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Eason Chan concert      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_chenyixun_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Chinese Rock      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zgyg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Chinese folk      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zgmy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Japanese pop      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rblx_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=popular in Europe and America      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_omlx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=masked King      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mmgw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=ad channel      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_ggpd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Global Shopping      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_hqgw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Square Dance      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gcw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=life      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_shenghuo_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=super super      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zdyjfc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Hearthstone legend      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Return of the King Conference      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jcytht_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=paternity      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qinzi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=songs      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_erge_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=animation      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_comic_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=of bears      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xcm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Pig Man      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Kom      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dmx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Tom and Jerry      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=the bulk of his son      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dtez_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Pokemon      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cwxjl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=A Dream      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dlam_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Chibi Maruko      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ytxwz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Crayon      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lbxx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=a small Ma Baoli      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xmbl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Kuroko's Basketball      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hzdlq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=strike team Titans battle      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jszjd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Detective Conan      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mztkn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Transformers      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bxjg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Altman      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_atm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Infoprogramme little magic fairy      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bllxmx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Cartoon Europe      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_omkt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=niche drama      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=the popular American TV      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rmmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=Metropolitan Theatre      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dsjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=off single theater      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=the US drama      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_meiju_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=superhero      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cjyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=with the American TV broadcast      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=the classic American TV      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jdmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=burn brain Crime      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zasn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=sci-fi drama      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_khmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=fantasy drama      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qhmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=a comedy drama      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xjmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=s theater      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ndjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=sadomasochistic drama      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_nlmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=cold high drama      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_glmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=American TV unit      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dymj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=US soap opera      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=legal medical drama      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzywmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+type=video    
+name=the action drama Blood      
+URL=http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
