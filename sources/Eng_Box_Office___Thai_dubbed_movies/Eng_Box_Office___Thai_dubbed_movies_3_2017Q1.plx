@@ -34,10 +34,10 @@ URL=
 
 
 type=video
-name=War for the Planet of the Apes (2017) RUS
+name=War for the Planet of the Apes (2017) RUS TS
 thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
-date=2017-07-15
-URL=https://openload.co/f/2A-jWMtQVJ0/W_f_t_Planet_of_t_A_2017_720p_CAM_%5BLayar-21.com%5D.mp4
+date=2017-07-19
+URL=https://openload.co/f/yqfYqertpZc/War_for_the_Planet_of_the_Apes_%282017%29_720p_TS_Russian.CMovie.co.mp4
 
 type=video
 name=Baby Driver (2017) ENG updated3 TS
@@ -75,10 +75,10 @@ description=A woman sets out to make life hell for her ex-husband's new wife./de
 
 # 2773558
 type=video
-name=Going in Style (2017) ENG updated HD
+name=Going in Style (2017) ENG updated BR 1080p
 thumb=http://image.tmdb.org/t/p/w500/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg
-date=2017-07-11
-URL=https://openload.co/f/l0vLHm18Ljg/G-o-ing.i-n.St-y-le.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2017-07-19
+URL=https://openload.co/f/BMffEuWDjkQ/Going.in.Style.2017.1080p.BluRay.x264-DRONES.mkv.mp4
 player=default
 rating=-1.00
 description=Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money./description
@@ -222,10 +222,10 @@ description=A CIA agent is baited into a trap involving London and a biological 
 
 # 2773791
 type=video
-name=Colossal (2017) ENG BR
+name=Colossal (2017) ENG upadted BR 1080p
 thumb=http://image.tmdb.org/t/p/w500/4VOyofBd1pexblxtDZYtYIk7NI4.jpg
-date=2017-07-18
-URL=https://openload.co/f/GhVUazyStnI/Co-l-o-ssal.2016.LIMITED.BDRip.x264-DRONES.mkv.mp4
+date=2017-07-19
+URL=https://openload.co/f/c6ouHx5fiC8/Colossal.2016.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
 player=default
 rating=-1.00
 description=A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering./description
@@ -700,15 +700,7 @@ rating=-1.00
 
 
 
-# 2776163
-type=video
-name=The Fate of the Furious (2017) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/iNpz2DgTsTMPaDRZq2tnbqjL2vF.jpg
-date=2017-05-10
-URL=https://openload.co/f/hsBTSVlZlRk/The.Fate.of.the.Furious.2017.1080p.WEB-DL%40lue123_%281%29.mkv.mp4.mp4
-player=default
-rating=-1.00
-description=When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before./description
+
 
 
 
@@ -758,6 +750,17 @@ URL=
 
 
 
+
+
+# 110
+type=video
+name=The Fate of the Furious (2017)
+thumb=http://image.tmdb.org/t/p/w500/iNpz2DgTsTMPaDRZq2tnbqjL2vF.jpg
+date=2017-07-19
+URL=https://openload.co/f/TiWOu8YgH8c/Fast_%26_Furious_8_%281080pHD%29Ba%40siambit_%281%29.mkv.mp4
+player=default
+rating=-1.00
+description=When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before./description
 
 # 109
 type=video
