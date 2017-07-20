@@ -40,10 +40,10 @@ date=2017-07-19
 URL=https://openload.co/f/yqfYqertpZc/War_for_the_Planet_of_the_Apes_%282017%29_720p_TS_Russian.CMovie.co.mp4
 
 type=video
-name=Baby Driver (2017) ENG updated3 TS
+name=Baby Driver (2017) ENG updated4 HD
 thumb=https://image.tmdb.org/t/p/w640/mBkOBaxjr7IBHGuQS3sSFeyYTM.jpg
-date=2017-07-18
-URL=https://openload.co/f/RNevLqH_TNM/bd.ttn.avi.mp4
+date=2017-07-20
+URL=https://openload.co/f/qbtGrAkyjDE/Baby_Driver_2017_720p_HDCAM_x264_CMovie.co..mp4
 
 type=video
 name=All Eyez on Me (2017) ENG updated2 TS
@@ -63,45 +63,9 @@ thumb=https://image.tmdb.org/t/p/w640/hkmWkVgirei79bwds23Hr0lWSXS.jpg
 date=2017-07-07
 URL=https://openload.co/f/zTu5dZkP_KA/The.H-o-u-s-e.2017.HDTS.x264-NoGRP.mkv.mp4
 
-# 2773619
-type=video
-name=Unforgettable (2017) ENG updated BR 1080p
-thumb=http://image.tmdb.org/t/p/w500/eUGehaQhjc9Q8kqlZP16akfx7R4.jpg
-date=2017-07-11
-URL=https://openload.co/f/g-33d_facZg/Unforgettable.2017.1080p.BluRay.x264-DRONES.mkv.mp4
-player=default
-rating=-1.00
-description=A woman sets out to make life hell for her ex-husband's new wife./description
 
-# 2773558
-type=video
-name=Going in Style (2017) ENG updated BR 1080p
-thumb=http://image.tmdb.org/t/p/w500/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg
-date=2017-07-19
-URL=https://openload.co/f/BMffEuWDjkQ/Going.in.Style.2017.1080p.BluRay.x264-DRONES.mkv.mp4
-player=default
-rating=-1.00
-description=Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money./description
 
-# 2773806
-type=video
-name=Gifted (2017) ENG updated BR 1080p
-thumb=http://image.tmdb.org/t/p/w500/7YB2YrMwIm1g8FyZtlvmVDfRnAT.jpg
-date=2017-07-11
-URL=https://openload.co/f/hazPuLoziF8/Gifted.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-player=default
-rating=-1.00
-description=Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother./description
 
-# 2773803
-type=video
-name=The Circle (2017) ENG updated
-thumb=http://image.tmdb.org/t/p/w500/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg
-date=2017-07-02
-URL=https://openload.co/f/8HOfmNhNlNc/The.Circle.2017.HDRip.XviD.AC3-EVO.avi.mp4
-player=default
-rating=-1.00
-description=A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company's ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity./description
 
 
 
@@ -168,15 +132,7 @@ thumb=https://image.tmdb.org/t/p/w640/colBU9Mn7emfgWlZcGU331ZMh5E.jpg
 date=2017-06-20
 URL=https://openload.co/f/pB_uu10m4YI/The.Dinner.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
-# 2773618
-type=video
-name=The Zookeeper's Wife (2017) ENG updated BR 1080p
-thumb=http://image.tmdb.org/t/p/w500/cCQKccGZsfRSBHy4xEhDlS73OS2.jpg
-date=2017-06-20
-URL=https://openload.co/f/AMyTY51uL8o/the.zookeepers.wife.2017.1080p.bluray.x264-geckos.mkv.mp4
-player=default
-rating=-1.00
-description=The Zookeeper's Wife tells the account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion./description
+
 
 type=video
 name=Camera Store (2016) ENG
@@ -220,15 +176,7 @@ description=A CIA agent is baited into a trap involving London and a biological 
 
 
 
-# 2773791
-type=video
-name=Colossal (2017) ENG upadted BR 1080p
-thumb=http://image.tmdb.org/t/p/w500/4VOyofBd1pexblxtDZYtYIk7NI4.jpg
-date=2017-07-19
-URL=https://openload.co/f/c6ouHx5fiC8/Colossal.2016.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
-player=default
-rating=-1.00
-description=A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering./description
+
 
 # 2773792
 type=video
@@ -337,6 +285,105 @@ name=Free State of Jones (2016) ENG BR
 thumb=https://image.tmdb.org/t/p/w640/sxutq7sXcaMy8b4OguaWZwWrchM.jpg
 date=2017-06-30
 URL=https://streamango.com/f/crkpcatklcmelbtb/Free_State_of_Jones_2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 2773803
+type=video
+name=The Circle (2017) ENG updated BR 1080p
+thumb=http://image.tmdb.org/t/p/w500/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg
+date=2017-07-20
+URL=https://openload.co/f/JapDzi8flN8/The.Circle.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+player=default
+rating=-1.00
+description=A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company's ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity./description
+
+# 2773791
+type=video
+name=Colossal (2017) ENG updated BR 1080p
+thumb=http://image.tmdb.org/t/p/w500/4VOyofBd1pexblxtDZYtYIk7NI4.jpg
+date=2017-07-19
+URL=https://openload.co/f/c6ouHx5fiC8/Colossal.2016.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
+player=default
+rating=-1.00
+description=A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering./description
+
+# 2773558
+type=video
+name=Going in Style (2017) ENG updated BR 1080p
+thumb=http://image.tmdb.org/t/p/w500/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg
+date=2017-07-19
+URL=https://openload.co/f/BMffEuWDjkQ/Going.in.Style.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+player=default
+rating=-1.00
+description=Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money./description
+
+# 2773619
+type=video
+name=Unforgettable (2017) ENG updated BR 1080p
+thumb=http://image.tmdb.org/t/p/w500/eUGehaQhjc9Q8kqlZP16akfx7R4.jpg
+date=2017-07-11
+URL=https://openload.co/f/g-33d_facZg/Unforgettable.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+player=default
+rating=-1.00
+description=A woman sets out to make life hell for her ex-husband's new wife./description
+
+# 2773806
+type=video
+name=Gifted (2017) ENG updated BR 1080p
+thumb=http://image.tmdb.org/t/p/w500/7YB2YrMwIm1g8FyZtlvmVDfRnAT.jpg
+date=2017-07-11
+URL=https://openload.co/f/hazPuLoziF8/Gifted.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+player=default
+rating=-1.00
+description=Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother./description
+
+# 2773618
+type=video
+name=The Zookeeper's Wife (2017) ENG updated BR 1080p
+thumb=http://image.tmdb.org/t/p/w500/cCQKccGZsfRSBHy4xEhDlS73OS2.jpg
+date=2017-06-20
+URL=https://openload.co/f/AMyTY51uL8o/the.zookeepers.wife.2017.1080p.bluray.x264-geckos.mkv.mp4
+player=default
+rating=-1.00
+description=The Zookeeper's Wife tells the account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion./description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
