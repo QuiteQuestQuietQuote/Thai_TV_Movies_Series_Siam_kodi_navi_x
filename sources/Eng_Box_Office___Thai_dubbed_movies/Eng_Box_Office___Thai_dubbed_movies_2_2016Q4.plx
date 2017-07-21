@@ -237,14 +237,7 @@ description=This film is a remake of the 1989 Doraemon Movie 10: Nobita no Nippo
 
 
 
-# 2763234
-type=video
-name=Hacksaw Ridge (CAM SOUND)
-thumb=http://image.tmdb.org/t/p/w500/bndiUFfJxNd2fYx8XO610L9a07m.jpg
-URL=https://openload.co/f/837K8DK-ghs/Hacksaw_Ridge_%282017%29_%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B8%E0%B8%A9%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C.mp4
-player=default
-rating=-1.00
-description=WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor./description
+
 
 # 2761816
 type=video
@@ -274,6 +267,17 @@ URL=
 
 
 
+
+
+# 2763234
+type=video
+name=Hacksaw Ridge (2016)
+thumb=https://image.tmdb.org/t/p/w640/bndiUFfJxNd2fYx8XO610L9a07m.jpg
+date=2017-07-21
+URL=https://openload.co/f/Lb1-I4JH130/Hacksaw.Ridge.2016.1080p.BluRay.x264.DTS_By_Meentada_%281%29.mkv.mp4
+player=default
+rating=-1.00
+description=WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor./description
 
 # 2765962
 type=video
