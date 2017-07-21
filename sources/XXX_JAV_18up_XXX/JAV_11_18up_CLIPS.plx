@@ -36,6 +36,150 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+type=video
+name=257xxxxxxxxxxxxxxxxxxxxAsian Sex Diary.Thuy.Part.2
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Thuy_.Part_.2.jpg
+date=2017-07-21
+URL=https://streamango.com/f/cdkmtqdcdtmedmce/Asian_Sex_Diary_Thuy_Part_2_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Tien
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Tien_.jpg
+date=2017-07-21
+URL=https://streamango.com/f/abreoflnlqdrkplt/Asian_Sex_Diary_Tien_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Tien.Part.3
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Tien_.Part_.3.jpg
+date=2017-07-21
+URL=https://streamango.com/f/bnbbstqtqpntrcfc/Asian_Sex_Diary_Tien_Part_3_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Tien.Part.4
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Tien_.Part_.4.jpg
+date=2017-07-21
+URL=https://streamango.com/f/spfroprmdekbqpks/Asian_Sex_Diary_Tien_Part_4_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Tien.Part.2
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Tien_.Part_.2.jpg
+date=2017-07-21
+URL=https://streamango.com/f/oodqmrfrasdnlaeb/Asian_Sex_Diary_Tien_Part_2_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Thuy
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Thuy_.jpg
+date=2017-07-21
+URL=https://streamango.com/f/bokapfpctqcalrtd/Asian_Sex_Diary_Thuy_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Thuy.21.y.o
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Thuy_.21.y.o.jpg
+date=2017-07-21
+URL=https://streamango.com/f/nmpqeslaesotlbbd/Asian_Sex_Diary_Thuy_21_y_o_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Pety.Redo
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Pety_.Redo_.jpg
+date=2017-07-21
+URL=https://streamango.com/f/boalceqktptqqplc/Asian_Sex_Diary_Pety_Redo_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Thio
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Thio_.jpg
+date=2017-07-21
+URL=https://streamango.com/f/pqrkcesannabmred/Asian_Sex_Diary_Thio_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Street.freelancers.of.HCMC
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Street.freelancers.of_.HCMC_.jpg
+date=2017-07-21
+URL=https://streamango.com/f/kstrcdqrdmmnrllm/Asian_Sex_Diary_Street_freelancers_of_HCMC_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Trang
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Trang_.jpg
+date=2017-07-21
+URL=https://streamango.com/f/cmldasoecarskopp/Asian_Sex_Diary_Trang_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Mai_2
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Mai_2.jpg
+date=2017-07-21
+URL=https://streamango.com/f/daaapqsaldnbtapa/Asian_Sex_Diary_Mai_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Lang.Short.visit
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Lang_.Short_.visit_.jpg
+date=2017-07-21
+URL=https://streamango.com/f/tdrddbtdnbnsloed/Asian_Sex_Diary_Lang_Short_visit_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Lang
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Lang_.jpg
+date=2017-07-21
+URL=https://streamango.com/f/ckfptteplqkfrfqe/Asian_Sex_Diary_Lang_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Kim
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Kim_.jpg
+date=2017-07-21
+URL=https://streamango.com/f/fcpeleospktdemmq/Asian_Sex_Diary_Kim_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Hien
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Hien_.jpg
+date=2017-07-21
+URL=https://streamango.com/f/bbcmtqocflofsfmf/Asian_Sex_Diary_Hien_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Hien.Morning.BJ
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Hien_.Morning.BJ_.jpg
+date=2017-07-21
+URL=https://streamango.com/f/rbodnpqadrosdqtp/Asian_Sex_Diary_Hien_Morning_BJ_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Hang.Part.3
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Hang_.Part_.3.jpg
+date=2017-07-21
+URL=https://streamango.com/f/tmlonbtpbckffcos/Asian_Sex_Diary_Hang_Part_3_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Hang.Part.2
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Hang_.Part_.2.jpg
+date=2017-07-21
+URL=https://streamango.com/f/mmdslkpeomlldcae/Asian_Sex_Diary_Hang_Part_2_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Trinh
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Trinh_.jpg
+date=2017-07-21
+URL=https://streamango.com/f/labccfqrkplnkppm/Asian_Sex_Diary_Trinh_MP4_mp4
+
+type=video
+name=Asian Sex Diary.Trinh.Morning
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Trinh_.Morning.jpg
+date=2017-07-21
+URL=https://streamango.com/f/ptskopcpdpftofda/Asian_Sex_Diary_Trinh_Morning_MP4_mp4
+
+
+
+
+
+
+
+
+
+
+
 type=video
 name=236xxxxxxxxxxxxxxxxxxxxAsian Sex Diary.Mi
 thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Mi_.jpg
