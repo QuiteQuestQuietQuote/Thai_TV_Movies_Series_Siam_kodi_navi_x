@@ -10,6 +10,43 @@ name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Magazine_behind_the_scene_18up_Thai\Magazine_behind_the_scene_18up_Thai_2.plx?action=sortsel&cur=ord
 
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Olivia Austin – Fantasy Girl by Holly Randall
+thumb=https://1.bp.blogspot.com/-TFFkxVvwkys/WWYuRG4LepI/AAAAAAAAJ4Q/0qO7qpBr32s4SCTcLHWgbRC8W6IYfi91ACLcBGAs/s1600/4S.jpg
+date=2017-07-22
+URL=https://openload.co/f/mCMiV8JssQw/AW35R43W5657W6UFGHGHFG_6.mp4
+
+type=video
+name=Watch4Beauty presents Angel B. in LA Graciosa
+thumb=https://1.bp.blogspot.com/-XN6Qegl6qfw/WWYsBZ72uXI/AAAAAAAAJ38/8_o0b_gm9bgV27murLX29k_eHRhdCQ9UQCLcBGAs/s1600/3SS.jpg
+date=2017-07-22
+URL=https://openload.co/f/nOhUqIGrn_8/Watch4Beauty_presents_Angel_B._in_LA_Graciosa_-_14.06.2017.mp4
+
+type=video
+name=Amanda In Blue
+thumb=https://4.bp.blogspot.com/-YMxg9rzOUa4/WWYsAZpRivI/AAAAAAAAJ30/ejFKdlXLB-g3EGkh87ADoOud1xjOpioqgCLcBGAs/s1600/3S.jpg
+date=2017-07-22
+URL=https://openload.co/f/iDUAghaorB8/gfhdrtuhrtjrtutrjn_1.mp4
+
+
+
+
+
+
+
+
+
 # 2765312
 type=video
 name=Kira Forest Fantasy

@@ -31,6 +31,558 @@ URL=
 
 
 
+type=video
+name=194xxxxxxxxxxxxxxxxxxxxAnimal Instincts II (1994)
+thumb=https://1.bp.blogspot.com/-M8nKuMVWX2I/WR7uAi6l0YI/AAAAAAAAIlE/ilW8jbRsDj80Qil91Gd3Sj2DaiDVxK5WwCLcB/s1600/1ss.jpg
+date=2017-07-22
+URL=https://openload.co/f/STqa5Rulx7I/Animal_Instincts_II_1994_DVDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Unstoppable Scandals (2008)
+thumb=https://4.bp.blogspot.com/-ayFwYTjJ0tI/WR2qYppD7dI/AAAAAAAAIko/pwZ6owGV5v84OKpxKwD7ZrfmG26-bWmMwCLcB/s1600/7.jpg
+date=2017-07-22
+URL=https://openload.co/f/37zZy5YkBdY/Unstoppable_Scandals_2008_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Female President Otoko Gari (2002)
+thumb=https://4.bp.blogspot.com/-gTla-JmF-GU/WR2nVVsmHFI/AAAAAAAAIkI/94e_6WWRnT4JYpEYTKXOOy3VM8M5E2QMACLcB/s1600/5SS.jpg
+date=2017-07-22
+URL=https://openload.co/f/wiYXNf44Jgs/Female_President_Otoko_Gari_2002_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=saesaeksi (2007)
+thumb=https://2.bp.blogspot.com/-YSo8lnvKyOQ/WSMZpkCgGLI/AAAAAAAAIpY/KdRpwHYxCzIlE6bPqypZhLyV3pZEzx0TgCLcB/s1600/3SSS.jpg
+date=2017-07-22
+URL=https://openload.co/f/Hx593WQ-9gM/saesaeksi_2007_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Sexy Tutor (2007)
+thumb=https://2.bp.blogspot.com/-t4K2nFcmkRs/WSMZpMzgE4I/AAAAAAAAIpQ/bePk-MgzURI0pe4ASdifVM5M-QyIE6UagCLcB/s1600/3.jpg
+date=2017-07-22
+URL=https://openload.co/f/tXrvi-n8w_Y/Sexy_Tutor_2007_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Taboo American Style 3 (1985)
+thumb=https://3.bp.blogspot.com/-rrR_AMjd3qM/WSD0TX684EI/AAAAAAAAInE/PLhMckFXhDQNjLiVInKBPnKExt368Mk3ACLcB/s1600/2.jpg
+date=2017-07-22
+URL=https://openload.co/f/yLKzC7w73mA/Taboo_American-Style_3_%281985%29.avi.mp4
+
+type=video
+name=Sales lady nikutai (2008)
+thumb=https://1.bp.blogspot.com/-P4nFXmckWzs/WSg5mgcWKGI/AAAAAAAAIuA/pvCNKu88eSALvTPPtqIiGQjgX6Qexp9tACLcB/s1600/1ss.jpg
+date=2017-07-22
+URL=https://openload.co/f/UTDLzZrOAfc/Sales_lady_nikutai_2008_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Reliable person (2008)
+thumb=https://2.bp.blogspot.com/-7ShWq6C7-6I/WSb5Ty2XbyI/AAAAAAAAItI/J9XYzAOvqVA7yqFwOVRklisnOUZCErM2QCEw/s1600/1sssss.jpg
+date=2017-07-22
+URL=https://openload.co/f/AfjY2XlZctw/Reliable_person_2008_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Drifting Daughter (2007)
+thumb=https://4.bp.blogspot.com/-l7W15Om7btk/WSb5TD3aIkI/AAAAAAAAIs4/D6Dol7uowLcl8BsxD-NXreNUQh6UxEipgCLcB/s1600/1s.jpg
+date=2017-07-22
+URL=https://openload.co/f/yhFPLqRZ9R4/Drifting_Daughter_2007_HD-UNCUT_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Die Sex-Abenteuer der drei Musketiere (1971)
+thumb=https://1.bp.blogspot.com/-dm2fG-Q5_hk/WSWheiZXmWI/AAAAAAAAIsg/WIn8hQUs8CEdQHZmPWHR8c4DVxvR9pLcgCLcB/s1600/8.jpg
+date=2017-07-22
+URL=https://openload.co/f/CkMN8amNcdI/Die_Sex-Abenteuer_der_drei_Musketiere_%281971%29.mkv.mp4
+
+type=video
+name=Emanuelle in America (1977)
+thumb=https://3.bp.blogspot.com/-88H7RRJbZN4/WSWdKKa23JI/AAAAAAAAIr8/ey3jytuNm5QIC7pwxYBJ6Ef026JYhCdegCLcB/s1600/6.jpg
+date=2017-07-22
+URL=https://openload.co/f/RY7LUA-zLIM/EmanIn_Amer.mkv.mp4
+
+type=video
+name=Marquis de Sade (1994)
+thumb=https://1.bp.blogspot.com/-CFloSH7f_MU/WSWdJYUcXOI/AAAAAAAAIr4/SeF42k5uUHo5zGCZILwzjlIA6JBXL8AsQCLcB/s1600/5.jpg
+date=2017-07-22
+URL=https://openload.co/f/-03BPZ9pfhg/Marquis_de_Sade_%281994%29.mp4
+
+type=video
+name=Female Chauvinists (1976)
+thumb=https://1.bp.blogspot.com/-GSwvchD4KcU/WSWcavfu2DI/AAAAAAAAIrw/Zo1G_HfSW_g_QpZzpMBEiXQxvqzMfG7KgCLcB/s1600/4.jpg
+date=2017-07-22
+URL=https://openload.co/f/Kr1bes7dwFs/Female_Chauvinists_%281976%29.mp4
+
+type=video
+name=Yojyouhan kakumei (2008)
+thumb=https://4.bp.blogspot.com/-U3RyGiISW6I/WSWarJ0UvlI/AAAAAAAAIrg/YGYVnut3k_0W1Az-tYXQnTyHz3cMfUHYwCLcB/s1600/2SS.jpg
+date=2017-07-22
+URL=https://openload.co/f/gGOB2nYz0cg/Yojyouhan_kakumei_2008_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Love And War (2008)
+thumb=https://4.bp.blogspot.com/-Cfka-0Qds-I/WSWYttaxd7I/AAAAAAAAIrI/ZNZbVOLLN000cHJvbRCg1vQQdz3fGuJ8gCLcB/s1600/1ss.jpg
+date=2017-07-22
+URL=https://openload.co/f/nmnmukmPJUc/Love_And_War_2008_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=The Servant Sebastian (2007)
+thumb=https://2.bp.blogspot.com/-gg3tWDzSHr0/WS1Xje7eUpI/AAAAAAAAIyk/nBS9s4heEvwx_tnG0L_hoV24J4XzTa5VgCLcB/s1600/1sss.jpg
+date=2017-07-22
+URL=https://openload.co/f/0p3HohGJufA/The_Servant_Sebastian_2007_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Young wife tutor jealousy (2007)
+thumb=https://2.bp.blogspot.com/-lPaizU3bH0o/WS1XjAWA98I/AAAAAAAAIyg/oJUOF5xDbjc7l8d8CQ14OGikPVMikzHCQCLcB/s1600/1ss.jpg
+date=2017-07-22
+URL=https://openload.co/f/b4UtlRq-9WU/Young_wife_tutor_jealousy_2007_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Mistress of Seduction (2000)
+thumb=https://4.bp.blogspot.com/-mh3o-csyJs8/WSjS6pONPmI/AAAAAAAAIws/Kz8WW8XpKP06T2umGTjzPq3GPv81kvQjACLcB/s1600/4.jpg
+date=2017-07-22
+URL=https://openload.co/f/8oLznJmSniY/Mistress_of_Seduction.mp4
+
+type=video
+name=Jituroku Chikandensya 3 (2009)
+thumb=https://4.bp.blogspot.com/-kP_k6HpHOZw/WShF-UMAWGI/AAAAAAAAIuk/XShc3VoIifkcqb4gyk1AkLGKRG4J4UA_wCLcB/s1600/2.jpg
+date=2017-07-22
+URL=https://openload.co/f/L7eNqi3_Mk0/Jituroku_Chikandensya_3_2009_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Young sisters sex (2010)
+thumb=https://1.bp.blogspot.com/-PNgnqRL7d-4/WS1ibXGQOII/AAAAAAAAI0E/3dYaIuHTLhIWRykUIh7ukSdduHLQQ_rZgCLcB/s1600/5SS.jpg
+date=2017-07-22
+URL=https://openload.co/f/avG29hMb7fA/Young_sisters_sex_2010_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=office lovestory (2007)
+thumb=https://4.bp.blogspot.com/-RiDOcdjIzAs/WS1bvza-3VI/AAAAAAAAIzI/CZbPnm03zzk1z8dKHadKqiHaa0LoxURvwCLcB/s1600/2SSS.jpg
+date=2017-07-22
+URL=https://openload.co/f/h_44rsbVMtM/office_lovestory_2007_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Joven y Alocada (2012)
+thumb=https://2.bp.blogspot.com/-NpbZIsDzT6M/WTFXoNmrHuI/AAAAAAAAI5A/qbExZKD7vP8tygqXHmtZ0_EtLWNiesKZwCLcB/s1600/2.jpg
+date=2017-07-22
+URL=https://openload.co/f/zatdMUWdUQ0/Young_And_Wild_2012_720p_WEB-DL_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Oi vlahoi epimenoun ellinika (1984)
+thumb=https://4.bp.blogspot.com/-KD4Q-t47T5I/WTgRbz3pgJI/AAAAAAAAJBM/hKsxnQiSF-wI1Jn_jG-6sxeJihoBONieACLcB/s1600/1.jpg
+date=2017-07-22
+URL=https://openload.co/f/7ubIvznUeIY/oi.mp4
+
+type=video
+name=The affairs of Tsuyako and Ryokan 2 (2010)
+thumb=https://4.bp.blogspot.com/-9FR6d-Zd-4Y/WTa6N2POxgI/AAAAAAAAI-Q/EW_tSSLwB64Ga14gJ4Sd_0L9SZ6JSZ5pQCLcB/s1600/4.jpg
+date=2017-07-22
+URL=https://openload.co/f/SWZVMyDQw2Q/The_affairs_of_Tsuyako_and_Ryokan_2_%282010%29.mp4
+
+type=video
+name=Orgasma (2009)
+thumb=https://4.bp.blogspot.com/-m7FPNWFbYgY/WTa2_AGEeaI/AAAAAAAAI9w/QghBmt8G2NoWgDvIzs14UMj-hZw1Ij2BwCLcB/s1600/2SSS.jpeg
+date=2017-07-22
+URL=https://openload.co/f/OzYlAOaDZQI/Orgasma_2009_%5BMovie-dd.com%5D
+
+type=video
+name=Enquete Libertine
+thumb=https://3.bp.blogspot.com/-P37It2RzYWQ/WTvoxfbVcKI/AAAAAAAAJHk/lJobzUtZ6CIRjhRRmRBCZVV-7LOuVkUEACLcB/s1600/2.jpg
+date=2017-07-22
+URL=https://openload.co/f/3XNIm5BQkE4/Enquete.Libertine.avi.mp4
+
+type=video
+name=Turtle Vision (1991)
+thumb=https://2.bp.blogspot.com/-rPlesc9HlYc/WTqoOwK8JtI/AAAAAAAAJGc/ivNPZGc5MK8qbxH9NRbE5A-2BDqpY7NqACLcB/s1600/5.jpg
+date=2017-07-22
+URL=https://openload.co/f/rnloA0TsIN8/TURTLVSION91DVD_Movie-dd.com
+
+type=video
+name=Palitan (2012)
+thumb=https://1.bp.blogspot.com/-Fjx5o0QOa8A/WTlMvjh3TzI/AAAAAAAAJD8/Qru8Ssz_Z7QitC0F540DEAUueR2RJbVEgCLcB/s1600/6SSS.png
+date=2017-07-22
+URL=https://openload.co/f/bTRFKEI3taA/Palitan.2012.DVDSCR.XviD.mp4
+
+type=video
+name=Butchers Wife (1999)
+thumb=https://1.bp.blogspot.com/-wQ1qCYh-1YM/WT0x0DN0fGI/AAAAAAAAJJk/4tbMwN4ttJg4UCMETcNR358ipTxjuPEkwCLcB/s1600/1ssssss.jpg
+date=2017-07-22
+URL=https://openload.co/f/mkSls0Kixls/Butchers_Wife_1999_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Gums (1976)
+thumb=https://2.bp.blogspot.com/-oVvcXrQxwfE/WUZVRYIRv7I/AAAAAAAAJVs/rRK3bRxjJQwTNyFxorjlnthw7QFlQE5dACLcBGAs/s1600/1.png
+date=2017-07-22
+URL=https://openload.co/f/majmUNJ0sF8/Gums_%281976%29-CG.mkv.mp4
+
+type=video
+name=The Seductress (2000)
+thumb=https://2.bp.blogspot.com/-mRliLxX_O70/WUXap-kE4qI/AAAAAAAAJUc/EBQzmqhPWeUhwaiTd_7eVRL-0jnLIoUVQCLcBGAs/s1600/3.jpg
+date=2017-07-22
+URL=https://openload.co/f/8T-sB1-BOFQ/The_Seductress_2000_DVDRip_%5BLayar-21.com%5D.mp4
+
+
+
+
+
+
+
+
+
+
+type=video
+name=163xxxxxxxxxxxxxxxxxxxxHeaven Burns (2010)
+thumb=https://1.bp.blogspot.com/-jDP6Q7muNBk/WQc3N8fq6fI/AAAAAAAAIG0/-pRM4ETrIhEdrBdRmQKPlH5-9ruaZdeXQCLcB/s1600/6.jpg
+date=2017-07-22
+URL=https://openload.co/f/ICDXmShGCo4/Heaven_Burns_2010_WEBRIP_%5BMovie-dd.com%5D
+
+type=video
+name=Zero woman R : Keishichou 0-ka no onna yokubou no daishou (2007)
+thumb=https://1.bp.blogspot.com/-HTsFuR1IWGE/WQcMvnYzldI/AAAAAAAAIF0/9YyYhb_XvHITTYlHp8TZxsrp7sQTLC0KwCLcB/s1600/3S.jpg
+date=2017-07-22
+URL=https://openload.co/f/su2iStkzGnA/Zero_uman_R-_Keishichou_0-ka_no_onna_yokubou_no_daishou_%282007%29_%5BMovie-dd.com%5D
+
+type=video
+name=Nawa no joo (1985)
+thumb=https://3.bp.blogspot.com/-muYgpDupMlc/WQcLCxrmBLI/AAAAAAAAIFo/EajMMA29zt0IqmylHwNutxxLu9HC7mlFACLcB/s1600/2sss.jpg
+date=2017-07-22
+URL=https://openload.co/f/O1bd6YMGuHg/Nawa_no_joo_1985_%5BMovie-dd.com%5D
+
+type=video
+name=The Desire Underneath (2009)
+thumb=https://3.bp.blogspot.com/-TfQ5a9dRXvU/WQYJo7QiTnI/AAAAAAAAIEw/x3DP23bOdGsYfxUQ48LO_VGNfcEQGC-lwCLcB/s1600/6.jpg
+date=2017-07-22
+URL=https://openload.co/f/02I0LPi-xIU/The_Desire_Underneath_%282009%29_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Tokyo Strangler (2006)
+thumb=https://2.bp.blogspot.com/-263yXyMs-4E/WQYDbDIaZ3I/AAAAAAAAIEI/3ipCtbR-qtQMjruFqf6BHyM9AHmgeuO5QCLcB/s1600/4SS.jpg
+date=2017-07-22
+URL=https://openload.co/f/ggXOI7ngCwo/Tokyo.Strangler.2006_%5BMovie-dd.com%5D
+
+type=video
+name=Princess of Huan Zhi (2000)
+thumb=https://4.bp.blogspot.com/-Qb-1aTKPYr0/WQYC_zt0b7I/AAAAAAAAIEE/hRhk3glVxgcdTSKwlkJcnPtxlk2JArfUACLcB/s1600/4S.jpg
+date=2017-07-22
+URL=https://openload.co/f/m1Ea3_7jzbA/The.Princess.of.Huan.Zhi.%282000%29_%5BMovie-dd.com%5D
+
+type=video
+name=A man of nasty spirits (1993)
+thumb=https://3.bp.blogspot.com/-rHvaHLGlRjA/WQYCngZkciI/AAAAAAAAIEA/O7ndd7czDuYZZc10PDupTSQZEdfmkOLcwCLcB/s1600/4.jpg
+date=2017-07-22
+URL=https://openload.co/f/WV76uRfmYg8/A_Man_Of_Nasty_Spirits_%5BMovie-dd.com%5D
+
+type=video
+name=Rabo I (1985)
+thumb=https://3.bp.blogspot.com/-0ePbpO3s1xA/WQtZyBhNQfI/AAAAAAAAINA/mg6BSlw_h-EeaNKKxj0KAZsqsN9Y5CsCgCLcB/s1600/4SS.jpg
+date=2017-07-22
+URL=https://openload.co/f/dUN1w3mv9Xo/rabo.mp4
+
+type=video
+name=Russkaya nimfetka: iskusheniye (2004)
+thumb=https://1.bp.blogspot.com/-BkMbvTDZo14/WQtX678rlPI/AAAAAAAAIM4/5nguegDDj6Yec63kicRJ-kwMcRjjKN0aACLcB/s1600/4.jpg
+date=2017-07-22
+URL=https://openload.co/f/5g61UMXnIDU/Russkaya_nimfetka%3A_iskusheniye_%282004%29.avi.mp4
+
+type=video
+name=The shyness train which shakes (2007)
+thumb=https://3.bp.blogspot.com/-wan7B7qyqe0/WQtXDLk6SGI/AAAAAAAAIM0/Ni_QniQ4a8sivaRLafUqKjAxQ0scSKNTQCLcB/s1600/3%25E0%25B8%2586.jpg
+date=2017-07-22
+URL=https://openload.co/f/GvL8nxE-HBs/The_shyness_train_which_shakes_2007_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Swapping Stir up Jealousy (2005)
+thumb=https://4.bp.blogspot.com/-I_yfc8G_aqQ/WQtWbdj_PRI/AAAAAAAAIMs/sWvpJBLFP4In35urGAdrRdZPeA3hyclkwCLcB/s1600/3SS.jpg
+date=2017-07-22
+URL=https://openload.co/f/8cvW2u9KBpw/Swapping_Stir_up_Jealousy_%282005%29_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Lyceennes perverses (1979)
+thumb=https://2.bp.blogspot.com/-7LK7sIvz1Z8/WQtgOAjNZSI/AAAAAAAAIOA/T1Q8zBJZt7gr-1F-etGaWXto-0JHQl8LwCLcB/s1600/7S.jpg
+date=2017-07-22
+URL=https://openload.co/f/RXAjUjl3tac/Lyc%C3%A9ennes_perverses_%281979%29.mp4
+
+type=video
+name=Mnasidika (1969)
+thumb=https://4.bp.blogspot.com/-sDvckUF5RiI/WQtffgwYuwI/AAAAAAAAIN4/qIenLvMAo2cr5s5Rrk7lLZ51pgLvS2GVACLcB/s1600/7.jpg
+date=2017-07-22
+URL=https://openload.co/f/6tVflggXnxQ/Mnasidika%281969%29.avi.mp4
+
+type=video
+name=Heibe Braute auf der Schulbank (1984)
+thumb=https://1.bp.blogspot.com/-riPSzTkKlm4/WQtaJQjfohI/AAAAAAAAINE/xwk0tQTh-qgkileckwHEALeig8nDGgoUwCLcB/s1600/4SSS.jpg
+date=2017-07-22
+URL=https://openload.co/f/1Lp-bkTU8-k/Hei%C3%9Fe_Br%C3%A4ute_auf_der_Schulbank_%281984%29.mp4
+
+type=video
+name=Body Sniper (2009)
+thumb=https://2.bp.blogspot.com/-54DcNwzf_EI/WRRxIKe5bPI/AAAAAAAAIVQ/bwmhLSr943k6yYpBraW83abVoWis7FfcQCLcB/s1600/1sss.jpg
+date=2017-07-22
+URL=https://openload.co/f/2byp_R-8VEc/Body_Sniper_2009_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Suze’s Supergirls (1988)
+thumb=https://3.bp.blogspot.com/-H19ZmrwZXMM/WRHbfnOLqEI/AAAAAAAAIQk/fmLlBM3w2W4YlfqY95P32TkVCvONY8h0QCLcB/s1600/5SSS.jpg
+date=2017-07-22
+URL=https://openload.co/f/Uobxfj7-j-w/suze.mp4
+
+type=video
+name=To syrtaki tis amartias (1968)
+thumb=https://1.bp.blogspot.com/-njcNlwX5Uus/WRHaG5g3JrI/AAAAAAAAIQU/QDEGzq1MwFc1zsTwbazXMv7RIZKBd5baQCLcB/s1600/5SS.jpg
+date=2017-07-22
+URL=https://openload.co/f/YGpK448qsXE/To_syrtaki_tis_amartias_%281968%29.mp4
+
+type=video
+name=Alpha France Trailer Collection [1975-1983]
+thumb=https://1.bp.blogspot.com/-KYNL2SiDNa4/WRHaHBw2PEI/AAAAAAAAIQY/maRA17Peswg0nGpIrEQIUFgBwxmCuxHpQCLcB/s1600/5S.jpg
+date=2017-07-22
+URL=https://openload.co/f/oH9B6WVYsj8/Alpha_France_Trailer_Collection_%5B1975-1983%5D.mp4
+
+type=video
+name=Deculottez-vous mesdemoiselles (1979)
+thumb=https://4.bp.blogspot.com/-neK7OQMnVUk/WRHaEz17tEI/AAAAAAAAIQQ/IV2p_z7cLSU8Ii3hLBYfReaBbi06bFvngCLcB/s1600/5.jpg
+date=2017-07-22
+URL=https://openload.co/f/rkhCpX3vivs/D%C3%A9culottez-vous_mesdemoiselles_%281979%29.mp4
+
+type=video
+name=Atsui Nikutai (2003)
+thumb=https://1.bp.blogspot.com/-62Jc-X4-7b0/WRbvYqEtieI/AAAAAAAAIZ8/sajurdW0L8oIMYn_EcjegX3sQc0MFnHlgCLcB/s1600/3.jpg
+date=2017-07-22
+URL=https://openload.co/f/_7VflNVJzF8/Atsui_Nikutai_2003_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Stress And Frustration (2007)
+thumb=https://3.bp.blogspot.com/-AA4ftSXEOL4/WRbtDDKWF_I/AAAAAAAAIZs/CPe-syS4kq0KrKefQPVREH9BRP08ev6agCLcB/s1600/2S.jpg
+date=2017-07-22
+URL=https://openload.co/f/2AZnrrzU_5Y/Stress_And_Frustration_2007_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Gamitan (2002)
+thumb=https://1.bp.blogspot.com/-jJc1dO2orGc/WRXJmK4vXqI/AAAAAAAAIXc/If7qg3kl3uAWjAjc8CYNCuGEwfU3bXo9wCLcB/s1600/3.png
+date=2017-07-22
+URL=https://openload.co/f/nORwKolF0qI/Gamitan_2002_DVDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=The Informers (2008)
+thumb=https://4.bp.blogspot.com/-TOWsmof6jAU/WRr4le5ZDKI/AAAAAAAAIdM/dB7jbnHblkMWEDPZXc3A838wA0k0MPrcwCLcB/s1600/1s.jpg
+date=2017-07-22
+URL=https://openload.co/f/bqwr4NHSBT8/The.Informers.2008.1080p.BluRay.x264.mkv.mp4
+
+type=video
+name=Mirror Images (1992)
+thumb=https://1.bp.blogspot.com/-nZZIBQa6KvQ/WRhqdHCCmBI/AAAAAAAAIcw/c_bxPSiSn1IvHwaXMIJwsUQ3IhW4kcr8QCLcB/s1600/8S.jpg
+date=2017-07-22
+URL=https://openload.co/f/OBP1EW-y16M/Mirror_Images_1992_DVDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Mata Hari (1985)
+thumb=https://2.bp.blogspot.com/-KrZTm5Ca_z4/WRhpGk6rjnI/AAAAAAAAIck/iPa4oSq-uWYc9gb4SqGYRKE1oFXncgxiQCLcB/s1600/8.jpg
+date=2017-07-22
+URL=https://openload.co/f/6_F5bffU-QY/Mata_Hari_%281985%29_720p_BluRay_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Infidelity Sex Stories 2 (2011) (EngSub)
+thumb=https://3.bp.blogspot.com/-7G6cIG1Wq6M/WRhoJzVpBnI/AAAAAAAAIcc/PoFttF4HIdsuPOlBKroBRf2MoUXZ7IcrQCLcB/s1600/7.jpg
+date=2017-07-22
+URL=https://openload.co/f/OTIHcxOnplc/Infidelity_Sex_Stories_2_2011_EngSub_DVDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Ninfetas do Sexo Ardente (1985)
+thumb=https://4.bp.blogspot.com/-cPWqXxDv_T4/WRw6ereXPzI/AAAAAAAAIgc/_3bIswvmajUNxS4NXO4b_FsLxQptnOqOACLcB/s1600/4SSSS.jpg
+date=2017-07-22
+URL=https://openload.co/f/mb4xzR9mVWI/Ninfetas_do_Sexo_Ardente_%281985%29.mp4
+
+type=video
+name=Alpha Girls (2013)
+thumb=https://3.bp.blogspot.com/-hOgWuk7Zfu8/WRw5jdYjGHI/AAAAAAAAIgI/rDk8JlVipEkMupXeeZoNB9dizoPPFSL4gCLcB/s1600/4.jpg
+date=2017-07-22
+URL=https://openload.co/f/W12PPJeJAcE/Alpha_Girls_2013_WebRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Sheer Passion (1998)
+thumb=https://2.bp.blogspot.com/-KXILnKJyllc/WRw4j2Vp4HI/AAAAAAAAIf8/zd_XlVtYvMgIwsus_pq4OJMCToq2p0uxACLcB/s1600/3S.jpg
+date=2017-07-22
+URL=https://openload.co/f/irJzCBKIELw/Sheer_Passion_1998_DVDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Ijinseikou (2002)
+thumb=https://1.bp.blogspot.com/-GaNsLw3x5wI/WRsDtSdUjSI/AAAAAAAAIfI/C88gZumtTyUAohIYHR7FlaiL1MsjdsWugCLcB/s1600/7SSS.jpg
+date=2017-07-22
+URL=https://openload.co/f/tnRLga-ox0M/Ijinseikou_2002_HDRip_%5BLayar-21.com%5D.mp4
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=133xxxxxxxxxxxxxxxxxxxxLa chiave (1983)
+thumb=https://2.bp.blogspot.com/-V0wEOzP7Y00/WPOF3bj2L2I/AAAAAAAAHq4/_T8gXmyNKx4OsR8gJBIGY0sbrfvUW5dXwCLcB/s1600/4S.jpg
+date=2017-07-22
+URL=https://openload.co/f/lw-rPP6tFmQ/La.Chiave.1983.mp4
+
+type=video
+name=Hustawka (2010)
+thumb=https://3.bp.blogspot.com/-5UjnsmrZRkQ/WPYP7fCYBAI/AAAAAAAAHuE/A7bIJuybN8gLACUaiENek3AM529tqq3zgCLcB/s1600/1S.jpg
+date=2017-07-22
+URL=https://openload.co/f/wqVzD_N0vyQ/Hustawka.2010.HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=BUTAS (2009)
+thumb=https://3.bp.blogspot.com/--F5_j0RemL4/WPYPVl2bZsI/AAAAAAAAHuA/R8iZhbPF8hkAyNIQeU8in8wsMyFFUbYpwCLcB/s1600/1.jpg
+date=2017-07-22
+URL=https://openload.co/f/1oBFAbSlb28/BUTAS_%282009%29_%5BMovie-dd.com%5D
+
+type=video
+name=The Succulent Succubus (2011)
+thumb=https://3.bp.blogspot.com/-OgmhSW7jGhg/WPYL3mGQ4ZI/AAAAAAAAHtg/av25XVOD3eAykN4RojJ3_b0Apv0nc5m3ACLcB/s1600/2SSS.jpg
+date=2017-07-22
+URL=https://openload.co/f/OywfInUmgM4/The_Succulent_Succubus_2011_%5BMovie-dd.com%5D
+
+type=video
+name=Tannka (2006)
+thumb=https://2.bp.blogspot.com/-wASc8ZCeeXg/WPt-KVh1VxI/AAAAAAAAHz4/njFH5ygQ8FArTx9XXwqpZ0TpMuOKw5GqACLcB/s1600/1ss.jpg
+date=2017-07-22
+URL=https://openload.co/f/2AXATZx9fGI/Tannka.2006.DVDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Dokuro Act 2 (2010)
+thumb=https://4.bp.blogspot.com/-CWU1bQ2anFk/WPt_EWfJvkI/AAAAAAAAH0A/oNNTWyXWFJEw0KAFOa56mdtci-AXhm4cQCLcB/s1600/1sss.jpg
+date=2017-07-22
+URL=https://openload.co/f/d0GYDyNQVR8/Dokuro_Act2_%5BMovie-dd.com%5D
+
+type=video
+name=Palimpsest (2006)
+thumb=https://3.bp.blogspot.com/-2VoMhTYLkbk/WP4FM3Ip4XI/AAAAAAAAH5c/puwrKLuR8jktsQlpmWTv-4DkZNfgsM8CgCLcB/s320/1sssss.jpg
+date=2017-07-22
+URL=https://openload.co/f/DyT4970q6hY/%282006%29_Palimpsest_%5BMovie-dd.com%5D
+
+type=video
+name=Anatomy of a Love Seen (2014)
+thumb=https://1.bp.blogspot.com/-6ArPN_lIKDo/WP4DDnFrxuI/AAAAAAAAH5E/ctPKDhoJo0Q97dGBY2GyQEYmr3Y6FYGxACLcB/s1600/1s.jpg
+date=2017-07-22
+URL=https://openload.co/f/lF1rOBGn9Cs/Anatomy_of_a_Love_Seen_%282014%29_HDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Sexual Chronicles of a French Family (2012)
+thumb=https://2.bp.blogspot.com/-f44KAHuCWwU/WPuSbrVyQcI/AAAAAAAAH1g/_v0I1dfEZDIuZuMkKdnD8qdTemOBML_igCLcB/s1600/4s.jpg
+date=2017-07-22
+URL=https://openload.co/f/YfyPYu9I84Y/Sexual_Chronicles_of_a_French_Family_%282012%29_BRRip_%5BMovie-dd.com%5D
+
+type=video
+name=The Sex Of The Angels (2012)
+thumb=https://2.bp.blogspot.com/-zQl3sK08_-c/WPuTAEdNT6I/AAAAAAAAH1o/7V5yHn71l2wislXamH_riqKoR7dFQmxLwCLcB/s1600/4%25E0%25B8%25AB.jpg
+date=2017-07-22
+URL=https://openload.co/f/u1XhbMaUt18/The_Sex_Of_The_Angels_%282012%29_%5BMovie-dd.com%5D
+
+type=video
+name=Graffiante Desiderio (1994)
+thumb=https://1.bp.blogspot.com/-szdRXs_LERA/WPuI--5C7TI/AAAAAAAAH1I/EJ9-KSbK5zE3T_YKYN44-bksbjlDRFJ1QCLcB/s1600/3SSS.jpg
+date=2017-07-22
+URL=https://openload.co/f/8I5saNb3AK8/Graffiante_Desiderio_%281994%29_%5BMovie-dd.com%5D
+
+type=video
+name=Body of Evidence (1993)
+thumb=https://4.bp.blogspot.com/-5nVsj43_W7s/WPuIMQ2jZ5I/AAAAAAAAH1A/Wy4xbGZph10-lTCqZ0-tRVzMrrw8SdYGQCLcB/s1600/3SS.jpg
+date=2017-07-22
+URL=https://openload.co/f/7rTexI4s9rE/Body_of_Evidence_%281993%29_%5BMovie-dd.com%5D
+
+type=video
+name=Thermae Alien (2012)
+thumb=https://4.bp.blogspot.com/-Sdxbk8qgZCE/WP_3MOJYYEI/AAAAAAAAH8I/UUcWxTuYuYwWaT4OLLNsS0b84jk4NE8XwCLcB/s1600/2SSSS.jpg
+date=2017-07-22
+URL=https://openload.co/f/hkSOQYmdJRA/Thermae_Alien_2012_%5BMovie-dd.com%5D
+
+type=video
+name=Frog Song (2005)
+thumb=https://4.bp.blogspot.com/-nB9sKM9s-Zk/WP_2BkUXycI/AAAAAAAAH74/Oks__U_OR2swKal58JBuOGxw7zw16hRBACLcB/s1600/2SS.jpg
+date=2017-07-22
+URL=https://openload.co/f/AyCWTOsXRMs/Frog.Song.2005.DVDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Temptation of Eve: Kiss (2007)
+thumb=https://1.bp.blogspot.com/-ilu6CaGCWZc/WP_1foSmjTI/AAAAAAAAH7w/0r6lMPF-fcsA-0X5lq9BQt1OV-9MM48ywCLcB/s1600/2S.jpg
+date=2017-07-22
+URL=https://openload.co/f/hDb42mG3G9Y/Temptation.of.Eve.Kiss.2007_%5BMovie-dd.com%5D
+
+type=video
+name=Pervert Ward – Torturing the White Uniform (1988)
+thumb=https://3.bp.blogspot.com/-ndqPPz3y4_s/WP_1BZA1hBI/AAAAAAAAH7s/g9_1yMPN5ugnrv5vGJCFcFJWbpmfY7gfACLcB/s1600/2.jpg
+date=2017-07-22
+URL=https://openload.co/f/3g0SeZwJe1Y/Pervert_Ward_Torturing_the_White_Uniform_1988_%5BMovie-dd.com%5D
+
+type=video
+name=Emmanuelle 6: One Final Fling (1994)
+thumb=https://2.bp.blogspot.com/-E-zR6T-R-E8/WP_ztO8l5AI/AAAAAAAAH7g/1G3TPyknOb8gUHmQld61LyK9z8lIgPS0wCLcB/s1600/1sss.jpg
+date=2017-07-22
+URL=https://openload.co/f/ri62ZUGFfwA/Emmanuelle_6_One_Final_Fling_%5BMovie-dd.com%5D
+
+type=video
+name=Irreversible (2002)
+thumb=https://3.bp.blogspot.com/-wtUiYQoLnYM/WP4KxqbPEaI/AAAAAAAAH6E/Ob3z3wemDZMpMXuLapYB2k_9G7VjqcxrgCLcB/s1600/2SSSS.jpg
+date=2017-07-22
+URL=https://openload.co/f/HM228xhV0bw/Irreversible.2002.BRRip_%5BMovie-dd.com%5D
+
+type=video
+name=Oriental Best Beauties Xi Shi (2006)
+thumb=https://4.bp.blogspot.com/-Gu1x6ZwSPzE/WQYBwMVXfaI/AAAAAAAAID4/ztlfPQy_G7EZDLuoSvK9G3X_CS9hLTIawCLcB/s1600/2S.jpg
+date=2017-07-22
+URL=https://openload.co/f/h_Lg94-HpN8/Oriental.Best.Beauties.Xi.Shi.%282006%29_%5BMovie-dd.com%5D
+
+type=video
+name=Agent (2003)
+thumb=https://4.bp.blogspot.com/-HsflGSJT3hQ/WQYAHBpEdlI/AAAAAAAAIDk/gdWH2q8MtAg4kEHEIDJ9z0el3XmtU63dQCLcB/s1600/1.jpg
+date=2017-07-22
+URL=https://openload.co/f/_hb-jBsWMJ0/Erotic.Agent.2003.DVDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Erotic Agent II (2003)
+thumb=https://4.bp.blogspot.com/-J27PVqKu8h0/WQYBEEgkjMI/AAAAAAAAIDw/RvuGQppAFV86Bsk4x0K5_uKK-smf_PMSACLcB/s1600/1ss.jpg
+date=2017-07-22
+URL=https://openload.co/f/yV5XNZegYe4/Erotic_Agent_2_%5BMovie-dd.com%5D
+
+type=video
+name=Forbidden Wet Tales (2003)
+thumb=https://4.bp.blogspot.com/-Gi88wtK1agM/WQYAmTMwPpI/AAAAAAAAIDs/4TVgZx0WJfw6Gy1Zn07Qf_P3nnlEGFvjACLcB/s1600/1s.jpg
+date=2017-07-22
+URL=https://openload.co/f/krBowbcYyyw/Forbidden_Wet_Tales_%5BMovie-dd.com%5D
+
+type=video
+name=Heidi, Teil 5: und die lustigen Spritzbuben der Berge (1992)
+thumb=https://4.bp.blogspot.com/-Dvnu_UM74fA/WQPkYO28TfI/AAAAAAAAIB0/9uxqq9KO9U8NdzF4PjIXdiG7kwoyk2v8wCLcB/s1600/5.png
+date=2017-07-22
+URL=https://openload.co/f/GrlCYuLPQtk/Heidi%2C_Teil_5%3A_und_die_lustigen_Spritzbuben_der_Berge_%281992%29.mp4
+
+type=video
+name=Sex Of Golden Plums (2008)
+thumb=https://2.bp.blogspot.com/-t7CidHFpwsE/WQN0KMyoq7I/AAAAAAAAIAo/whZ2dmOqYU80ScvHGm-BkxRZp0RBTYGyACLcB/s1600/4S.jpg
+date=2017-07-22
+URL=https://openload.co/f/-76Rjcn7Kk4/Sex_Of_Golden_Plums_%282008%29_%5BMovie-dd.com%5D
+
+type=video
+name=Changing Partners (2007)
+thumb=https://1.bp.blogspot.com/--NHIsOvMrGU/WQNzu5XAp4I/AAAAAAAAIAk/urdde8NQF9Q5arFF_Kt4F70fnSVJ1lRGgCLcB/s1600/4.jpg
+date=2017-07-22
+URL=https://openload.co/f/cLVbslzS6oE/Changing.Partners.2007_%5BMovie-dd.com%5D
+
+type=video
+name=Eternal Summer (2006)
+thumb=https://3.bp.blogspot.com/-8jpFuQGeESc/WQNvIzGhLvI/AAAAAAAAIAU/FXHRhnXEyuYZLq3M8UB_RY2BAGx1uV49QCLcB/s1600/3SS.jpg
+date=2017-07-22
+URL=https://openload.co/f/jKI-cMDIBSk/Eternal.Summer.2006.DVDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Yuriko no aroma (2010)
+thumb=https://4.bp.blogspot.com/-OznFaRU-5A0/WQNuENE4aaI/AAAAAAAAIAI/BfX_3dohydM1T4eRk_g-LgZfL7CnXWVgwCLcB/s1600/3.jpg
+date=2017-07-22
+URL=https://openload.co/f/_kjTIOWdbe0/Yuriko.no.Aroma.2010.DVD_%5BMovie-dd.com%5D
+
+type=video
+name=Mother’s Wishes (1973)
+thumb=https://3.bp.blogspot.com/-7ABAce5M1is/WQNr1vt9QEI/AAAAAAAAH_0/fM1pQNkugssxhMohmS2kSciSSp7iK-7SQCLcB/s1600/2s.jpg
+date=2017-07-22
+URL=https://openload.co/f/y91C2NO0Y00/Mother%27s_Wishes_%281973%29.mpg.mp4
 
 
 
