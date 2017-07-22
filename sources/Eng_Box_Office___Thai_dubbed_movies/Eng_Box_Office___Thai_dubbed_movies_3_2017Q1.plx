@@ -407,10 +407,10 @@ URL=
 
 
 type=video
-name=47 Meters Down (2017) TH CAM
+name=47 Meters Down (2017) TH CAM updated
 thumb=https://image.tmdb.org/t/p/w640/HmALxBQK8SKpOEOmqyFxOavIPR.jpg
-date=2017-07-21
-URL=https://streamango.com/f/pqpsptnqrbbnkbtn/meter_MP4_mp4
+date=2017-07-22
+URL=https://openload.co/f/3t8bEoey3-Q/47_Meters_Down_%282017%29_TH.mkv.mp4
 
 type=video
 name=Spider-Man: Homecoming (2017) ENG updated TS
