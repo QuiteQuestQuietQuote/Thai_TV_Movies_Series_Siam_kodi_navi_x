@@ -1,8 +1,8 @@
 ﻿version=1
-background=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
+background=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
-logo=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
+logo=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
+thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -30,14 +30,29 @@ URL=
 
 
 
-
-
+type=video
+name=Dunkirk (2017) ENG HDTS.X264-NoGrP
+thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
+date=2017-07-23
+URL=https://openload.co/f/UXCTq9N8nq0/D-K.2017.720p.HDTS.X264-NoGrP.mp4
 
 type=video
-name=War for the Planet of the Apes (2017) RUS TS
+name=Valerian and the City of a Thousand Planets (2017) ENG HDCAM.X264-SeeHD
+thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
+date=2017-07-23
+URL=https://openload.co/f/LHnXeRjGAtc/Va-l-e-ri-an.2017.HDCAM.X264-SeeHD.mkv.mp4
+
+type=video
+name=The Big Sick (2017) ENG DVDSCR
+thumb=https://image.tmdb.org/t/p/w640/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg
+date=2017-07-23
+URL=https://openload.co/f/-tzZBuzQuC0/BIGENG2017SCRJY21.mkv.mp4
+
+type=video
+name=War for the Planet of the Apes (2017) ENG updated CAM.READNFO.XViD-26k
 thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
-date=2017-07-19
-URL=https://openload.co/f/yqfYqertpZc/War_for_the_Planet_of_the_Apes_%282017%29_720p_TS_Russian.CMovie.co.mp4
+date=2017-07-23
+URL=https://openload.co/f/snL6ZBXMVhQ/O-A-W-A-R-O-A.2017.CAM.READNFO.XViD-26k.avi.mp4
 
 type=video
 name=Baby Driver (2017) ENG updated4 HD
@@ -303,7 +318,11 @@ URL=https://streamango.com/f/crkpcatklcmelbtb/Free_State_of_Jones_2016
 
 
 
-
+type=video
+name=Descendants 2 (2017) ENG WEB 1080p
+thumb=https://image.tmdb.org/t/p/w640/7TLywOVzWwU1GMyqdjUiSVzBiyc.jpg
+date=2017-07-23
+URL=https://openload.co/f/1K1feEMp76Y/D-e-s-c-e-n-d-a-n-t-s.2.2017.1080p.AMZN.WEBRip.DDP5.1.x264-TVSmash.mkv.mp4
 
 # 2773803
 type=video
@@ -418,10 +437,10 @@ thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
 date=2017-07-21
 URL=https://openload.co/f/B2RTycw9uWs/S-P-M-H-C.2017.NEW.TS.READNFO.XviD-TiTAN.avi.mp4
 type=video
-name=Spider-Man: Homecoming (2017) TH CAM
+name=Spider-Man: Homecoming (2017) TH TS
 thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
-date=2017-07-09
-URL=https://openload.co/f/-vMTjVvq-kU/Spider-Man.Homecoming.2017.HDCAM.x264.AC-32.0.ThaIRonG-CpT-CtHts%40SiamBIT.mkv.mp4
+date=2017-07-23
+URL=https://openload.co/f/8LT6eSrfw0U/Spider-Man_Homecoming_2017.mkv.mp4
 
 type=video
 name=Despicable Me 3 (2017) CAM updated TS
@@ -802,6 +821,13 @@ URL=
 
 
 
+
+type=video
+name=The Showdown (2011)
+thumb=https://image.tmdb.org/t/p/w640/6Ev5snrdQYBO2YQFYselYMVV01.jpg
+date=2017-07-23
+URL=https://streamango.com/f/nrrlqamotsnsrlpc/The_Showdown_2011_mov_mp4
+
 # 112
 type=video
 name=Going in Style (2017) ENG BR 1080p
@@ -845,8 +871,8 @@ URL=https://openload.co/f/iV4RSI0cZis/Ghost.in.the.Shell.2017.1080p.BluRay.x264-
 type=video
 name=Ghost in the Shell (2017) TH
 thumb=http://image.tmdb.org/t/p/w500/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg
-date=2017-07-15
-URL=https://streamango.com/f/ecmtlfsodepsemrs/Ghost_in_the_Shell_MP4_mp4
+date=2017-07-23
+URL=https://openload.co/f/ZhJtLPqW3Ng/%7BMINI_Super-HQ%7D_Ghost.in.the.Shell.2017.1080p.BrRip.DTS.x264.THB_NongZEZA%40CtHts.mkv.mp4
 player=default
 rating=-1.00
 description=In the near future, Major is the first of her kind: a human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals./description
