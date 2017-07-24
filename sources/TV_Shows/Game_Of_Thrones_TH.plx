@@ -57,10 +57,10 @@ date=2017-07-17
 URL=
 
 type=video
-name=S07-E02___Stormborn___July 23, 2017
+name=S07-E02___Stormborn___1080p.AMZN.WEB-DL
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/dVf1gfi80js9qyxm78479o4RNUr.jpg
-date=2017-07-17
-URL=
+date=2017-07-24
+URL=https://openload.co/f/7uCFx6b4jcA/Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD%2B5.1.H.264-GoT.mkv.mp4
 
 type=video
 name=S07-E01___Dragonstone___1080p.AMZN.WEB-DL
