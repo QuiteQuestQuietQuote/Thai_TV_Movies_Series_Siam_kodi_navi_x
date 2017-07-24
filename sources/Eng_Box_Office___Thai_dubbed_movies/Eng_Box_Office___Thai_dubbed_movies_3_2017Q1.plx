@@ -48,11 +48,7 @@ thumb=https://image.tmdb.org/t/p/w640/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg
 date=2017-07-23
 URL=https://openload.co/f/-tzZBuzQuC0/BIGENG2017SCRJY21.mkv.mp4
 
-type=video
-name=War for the Planet of the Apes (2017) ENG updated CAM.READNFO.XViD-26k
-thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
-date=2017-07-23
-URL=https://openload.co/f/snL6ZBXMVhQ/O-A-W-A-R-O-A.2017.CAM.READNFO.XViD-26k.avi.mp4
+
 
 type=video
 name=Baby Driver (2017) ENG updated4 HD
@@ -175,15 +171,7 @@ description=An aging Latin lover gets dumped by his sugar mama and must fend for
 
 
 
-# 2773805
-type=video
-name=Unlocked (2017) RUS
-thumb=http://image.tmdb.org/t/p/w500/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg
-date=2017-05-05
-URL=https://openload.co/f/uJF4tDWyCaQ/Unlocked_2017_CAM_%5BLayar-21.com%5D.mp4
-player=default
-rating=-1.00
-description=A CIA agent is baited into a trap involving London and a biological attack./description
+
 
 
 
@@ -423,7 +411,22 @@ URL=
 
 
 
+type=video
+name=War for the Planet of the Apes (2017) ENG updated CAM.READNFO.XViD-26k
+thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
+date=2017-07-23
+URL=https://openload.co/f/snL6ZBXMVhQ/O-A-W-A-R-O-A.2017.CAM.READNFO.XViD-26k.avi.mp4
+type=video
+name=War for the Planet of the Apes (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
+date=2017-07-24
+URL=https://streamango.com/f/redmcntlbdmfoeao/V_1_War_for_the_Planet_of_the_Apes_mp4
 
+type=video
+name=Fairy Tail Movie 2: Dragon Cry (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/f6GuwIVkNZYFkt7kiHSJRPiXAAA.jpg
+date=2017-07-24
+URL=https://streamango.com/f/oreqkabqbbcdtnbq/V_1_Fairy_Tail_Dragon_Cry_mp4
 
 type=video
 name=47 Meters Down (2017) TH CAM updated
@@ -687,7 +690,22 @@ URL=
 
 
 
+# 2773805
+type=video
+name=Unlocked (2017) CAM SOUND
+thumb=http://image.tmdb.org/t/p/w500/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg
+date=2017-07-24
+URL=https://streamango.com/f/ftpnpqcoqteetebr/Unlocked_mp4
+player=default
+rating=-1.00
+description=A CIA agent is baited into a trap involving London and a biological attack./description
 
+
+type=video
+name=Science Fiction Volume One: The Osiris Child (2016) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/bEa4lssjiYCv226Z0gKKbfPGJAJ.jpg
+date=2017-07-24
+URL=https://streamango.com/f/bmmrtsdpmsrsckqk/Z_1_Science_Fiction_Volume_One_The_Osiris_Child_mp4
 
 type=video
 name=Kill Switch (2017) CAM SOUND
@@ -700,8 +718,6 @@ name=The Mummy (2017) CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
 date=2017-07-12
 URL=https://openload.co/f/Rm4mY3qddMU/The.Mummy.2017.1080p.KORSUB.HDRip.x264.AC32.0.ThaIRonG-CpT.mkv.mp4
-
-
 
 
 type=video

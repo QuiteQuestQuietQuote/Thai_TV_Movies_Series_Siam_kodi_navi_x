@@ -43,7 +43,7 @@ URL=
 
 type=video
 name=Game of Thrones: Season 7 (2017)_ENG, SUB TH
-thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/19NPjmN6o3QGYfu8WnzgDSx75Ov.jpg
+thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/3dqzU3F3dZpAripEx9kRnijXbOj.jpg
 date=2017-06-29
 URL=
 
