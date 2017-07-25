@@ -107,13 +107,15 @@ type=video
 name=
 thumb=
 date=2017-07-15
-URL=
+URL=https://youtube.googleapis.com/embed/?status=ok&hl=en&allow_embed=0&ps=docs&partnerid=30&autoplay=0&docid=0B0_gHk7YlYcaWnZkYTZvU0J5N0E&abd=0&public=true&el=embed&title=Episode%2001.mkv&BASE_URL=https%3A%2F%2Fdrive.google.com%2F&iurl=https%3A%2F%2Fdrive.google.com%2Fvt%3Fauthuser%3D0%26id%3D0B0_gHk7YlYcaWnZkYTZvU0J5N0E%26s%3DAMedNnoAAAAAWXeanT5njvhj3p2w1Y9tBgYEukWJwpJR&cc3_module=1&reportabuseurl=https%3A%2F%2Fdrive.google.com%2Fabuse%3Fauthuser%3D0%26id%3D0B0_gHk7YlYcaWnZkYTZvU0J5N0E&token=1&plid=V0QU1KKhVbhlwg&timestamp=1501003389475&length_seconds=3029&BASE_YT_URL=https%3A%2F%2Fdrive.google.com%2F&cc_load_policy=1&authuser=0&wmode=window&override_hl=1&enablecastapi=0&enablepostapi=1&postid=drive-viewer-video-player-object-0&origin=https%3A%2F%2Fdrive.google.com
+
+
 
 type=video
 name=Rome: Season 1 (2005)
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/h6KYyzi3G2hyD3gD5DxubizeHxK.jpg
 date=2017-07-16
-URL=
+URL=https://www.popuplayer.com/player.php?v=eNcGxlwbvAP
 
 
 type=video
