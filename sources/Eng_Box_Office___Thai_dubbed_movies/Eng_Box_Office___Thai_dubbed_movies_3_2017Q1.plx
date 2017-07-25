@@ -48,7 +48,11 @@ thumb=https://image.tmdb.org/t/p/w640/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg
 date=2017-07-23
 URL=https://openload.co/f/-tzZBuzQuC0/BIGENG2017SCRJY21.mkv.mp4
 
-
+type=video
+name=Snatched (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/lvGa6v7sR6p6RWCtwv0Dgdr1B8z.jpg
+date=2017-07-25
+URL=https://openload.co/f/FW9L4Rl_mug/Snatched.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=Baby Driver (2017) ENG updated4 HD
@@ -304,7 +308,11 @@ URL=https://streamango.com/f/crkpcatklcmelbtb/Free_State_of_Jones_2016
 
 
 
-
+type=video
+name=The Ottoman Lieutenant (2017) ENG BR 1080p
+thumb=https://image.tmdb.org/t/p/w640/c5E8KTDuGNdF4Lmv3OhsQ0W1zPw.jpg
+date=2017-07-25
+URL=https://openload.co/f/cZPj1Cm1yls/The.Ottoman.Lieutenant.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 
 type=video
 name=Descendants 2 (2017) ENG WEB 1080p
@@ -419,8 +427,8 @@ URL=https://openload.co/f/snL6ZBXMVhQ/O-A-W-A-R-O-A.2017.CAM.READNFO.XViD-26k.av
 type=video
 name=War for the Planet of the Apes (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
-date=2017-07-24
-URL=https://streamango.com/f/redmcntlbdmfoeao/V_1_War_for_the_Planet_of_the_Apes_mp4
+date=2017-07-25
+URL=https://openload.co/f/ltgjHHKy-O8/War.For.The.Planet.Of.The.Apes.2017.CAMRip.XViD-26k.ThaIRong_-_CpT-CtHts%40SiamBIT.mkv.mp4
 
 type=video
 name=Fairy Tail Movie 2: Dragon Cry (2017) TH CAM
@@ -513,7 +521,19 @@ URL=
 
 
 
-
+# 2772231
+type=video
+name=Boyka: Undisputed IV (2016) ENG BR 1080p
+thumb=http://image.tmdb.org/t/p/w500/ubR8Oc1jnvnM9tJLyKEGRhqNeO0.jpg
+date=2017-07-25
+URL=https://openload.co/f/RfyxiIRAiSc/Boyka.Undisputed.2016.1080p.BluRay.x264-ROVERS.mkv.mp4
+type=video
+name=Boyka: Undisputed IV (2016) SUB
+thumb=http://image.tmdb.org/t/p/w500/ubR8Oc1jnvnM9tJLyKEGRhqNeO0.jpg
+URL=https://openload.co/f/ErBIUzRx53Q/Boyka-_Undisputed_IV_%282016%29_%E0%B8%A2%E0%B8%B9%E0%B8%A3%E0%B8%B4_%E0%B8%9A%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B9%89%E0%B8%B2_%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%8A%E0%B8%81%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%99.mp4
+player=default
+rating=-1.00
+description=In the fourth installment of the fighting franchise, Boyka is shooting for the big leagues when an accidental death in the ring makes him question everything he stands for. When he finds out the wife of the man he accidentally killed is in trouble, Boyka offers to fight in a series of impossible battles to free her from a life of servitude/description
 
 # 2776075
 type=video
@@ -600,14 +620,7 @@ player=default
 rating=-1.00
 description=While working as an EMT back stateside Jake Carter after responding to a distress call, finds himself caught up protecting a person of interest from a biker gang ruthlessly hunting them down./description
 
-# 2772231
-type=video
-name=Boyka: Undisputed IV (2016) SUB
-thumb=http://image.tmdb.org/t/p/w500/ubR8Oc1jnvnM9tJLyKEGRhqNeO0.jpg
-URL=https://openload.co/f/ErBIUzRx53Q/Boyka-_Undisputed_IV_%282016%29_%E0%B8%A2%E0%B8%B9%E0%B8%A3%E0%B8%B4_%E0%B8%9A%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B9%89%E0%B8%B2_%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%8A%E0%B8%81%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%99.mp4
-player=default
-rating=-1.00
-description=In the fourth installment of the fighting franchise, Boyka is shooting for the big leagues when an accidental death in the ring makes him question everything he stands for. When he finds out the wife of the man he accidentally killed is in trouble, Boyka offers to fight in a series of impossible battles to free her from a life of servitude/description
+
 
 # 2771337
 type=video
@@ -688,7 +701,18 @@ date=
 URL=
 
 
-
+type=video
+name=King Arthur: Legend of the Sword (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/5qtySjfuJfOLvVrVXuwNo2BIVPH.jpg
+date=2017-07-25
+URL=https://openload.co/f/gy59NdUhKTg/King.Arthur.Legend.of.the.Sword.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+type=video
+name=King Arthur: Legend of the Sword (2017) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/5qtySjfuJfOLvVrVXuwNo2BIVPH.jpg
+date=2017-06-25
+URL=https://openload.co/f/8SJSLV_V4Js/King.Arthur.Legend.of.the.Sword.2017.1080p.KORSUB.HDRip.x264.AC32.0.THR-CpT.mkv.mp4
+player=default
+rating=-1.00
 
 # 2773805
 type=video
@@ -746,13 +770,9 @@ thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
 date=2017-07-02
 URL=https://openload.co/f/ExI4z1WHPU8/2.22.2017.1080p.WEB-DL.DD5.1.H264.ThaIRonG-CpT.mkv.mp4
 
-type=video
-name=King Arthur: Legend of the Sword (2017) CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/5qtySjfuJfOLvVrVXuwNo2BIVPH.jpg
-date=2017-06-25
-URL=https://openload.co/f/8SJSLV_V4Js/King.Arthur.Legend.of.the.Sword.2017.1080p.KORSUB.HDRip.x264.AC32.0.THR-CpT.mkv.mp4
-player=default
-rating=-1.00
+
+
+
 
 # 2772625
 type=video
@@ -835,14 +855,25 @@ URL=
 
 
 
+# 115
+type=video
+name=Grace of Monaco (2014)
+thumb=https://image.tmdb.org/t/p/w640/7jFZ4r1CTNW2we5rUVx29IcuOZh.jpg
+date=2017-07-25
+URL=https://openload.co/f/qiAueghQYcY/GRACE_OF_MONACO_-_%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%8B_%E0%B8%AD%E0%B8%AD%E0%B8%9F_%E0%B9%82%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B9%82%E0%B8%81_%282014%29_1080P_%281%29.mkv.mp4
 
-
+type=video
+name=Legend of the Eight Samurai (1983)
+thumb=https://image.tmdb.org/t/p/w640/8BDzL89GXSqn5lnlKjEqBdI6n1N.jpg
+date=2017-07-25
+URL=https://openload.co/f/Q47IYVphiYI/%7BSuperHQ%7D_Legend.of.Eight.Samurai.1983.1080p.Bluray.AC3.x264-Estb.mkv.mp4
 
 type=video
 name=The Showdown (2011)
 thumb=https://image.tmdb.org/t/p/w640/6Ev5snrdQYBO2YQFYselYMVV01.jpg
 date=2017-07-23
 URL=https://streamango.com/f/nrrlqamotsnsrlpc/The_Showdown_2011_mov_mp4
+
 
 # 112
 type=video
@@ -878,6 +909,7 @@ URL=https://openload.co/f/iuBU71Kz5OQ/%7BMINI-HQ%7D_The.Boss.Baby.2017.1080p.BrR
 player=default
 rating=-1.00
 description=A story about how a new baby's arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a wildly imaginative 7 year old named Tim./description
+
 
 type=video
 name=Ghost in the Shell (2017) ENG BR 1080p
@@ -958,6 +990,7 @@ name=Table 19 (2017)
 thumb=https://image.tmdb.org/t/p/w640/vz0CWnSwcQz1si7pLZp4hC4A1zi.jpg
 date=2017-06-30
 URL=https://streamango.com/f/dscrqqqabpacqsks/Table_19_mp4
+
 
 #95
 type=video
