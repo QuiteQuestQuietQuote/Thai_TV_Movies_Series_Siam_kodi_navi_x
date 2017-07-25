@@ -24,7 +24,7 @@ type=video
 name=
 thumb=
 date=
-URL=
+URL=https://www.youtube.com/embed/?autoplay=0&docid=0B-3JKwDcQ1PDWHJfV1JOZnMyTW8&partnerid=30&html5=1&controls=1&showinfo=0&rel=0&modestbranding=0&playsinline=1&enablejsapi=1
 
 type=video
 name=The Story So Far
@@ -36,7 +36,7 @@ type=video
 name=
 thumb=
 date=
-URL=
+URL=https://player.mastermovie-hd.com/player.php?v=u9AhGaLe6TM
 
 
 
