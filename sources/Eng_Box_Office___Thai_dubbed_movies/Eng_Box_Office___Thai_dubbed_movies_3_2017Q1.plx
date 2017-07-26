@@ -48,11 +48,7 @@ thumb=https://image.tmdb.org/t/p/w640/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg
 date=2017-07-23
 URL=https://openload.co/f/-tzZBuzQuC0/BIGENG2017SCRJY21.mkv.mp4
 
-type=video
-name=Snatched (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/lvGa6v7sR6p6RWCtwv0Dgdr1B8z.jpg
-date=2017-07-25
-URL=https://openload.co/f/FW9L4Rl_mug/Snatched.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=Baby Driver (2017) ENG updated4 HD
@@ -141,11 +137,7 @@ URL=https://openload.co/f/TAQ9pCr9r6c/D_2017_CAMRip_%5BLayar-21.com%5D.mp4
 
 
 
-type=video
-name=The Dinner (2017) ENG 
-thumb=https://image.tmdb.org/t/p/w640/colBU9Mn7emfgWlZcGU331ZMh5E.jpg
-date=2017-06-20
-URL=https://openload.co/f/pB_uu10m4YI/The.Dinner.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 
 
@@ -302,11 +294,23 @@ URL=https://streamango.com/f/crkpcatklcmelbtb/Free_State_of_Jones_2016
 
 
 
+type=video
+name=Snatched (2017) ENG BR 1080p
+thumb=https://image.tmdb.org/t/p/w640/lvGa6v7sR6p6RWCtwv0Dgdr1B8z.jpg
+date=2017-07-26
+URL=https://openload.co/f/1BSWFfEkZo8/Snatched.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 
+type=video
+name=Wakefield (2017) ENG BR 1080p
+thumb=https://image.tmdb.org/t/p/w640/ysENjqhI5lcjGjKBkacCjTnNWOQ.jpg
+date=2017-07-26
+URL=https://openload.co/f/l0iDWNGQCXg/snow-wakefield.2016.limited.1080p.bluray.x264.mkv.mp4
 
-
-
-
+type=video
+name=The Dinner (2017) ENG BR 1080p
+thumb=https://image.tmdb.org/t/p/w640/colBU9Mn7emfgWlZcGU331ZMh5E.jpg
+date=2017-07-26
+URL=https://openload.co/f/OxEXJ7IP228/The.Dinner.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 
 type=video
 name=The Ottoman Lieutenant (2017) ENG BR 1080p
@@ -339,8 +343,6 @@ URL=https://openload.co/f/c6ouHx5fiC8/Colossal.2016.LIMITED.1080p.BluRay.x264-DR
 player=default
 rating=-1.00
 description=A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering./description
-
-
 
 # 2773619
 type=video
@@ -433,8 +435,8 @@ URL=https://openload.co/f/ltgjHHKy-O8/War.For.The.Planet.Of.The.Apes.2017.CAMRip
 type=video
 name=Fairy Tail Movie 2: Dragon Cry (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/f6GuwIVkNZYFkt7kiHSJRPiXAAA.jpg
-date=2017-07-24
-URL=https://streamango.com/f/oreqkabqbbcdtnbq/V_1_Fairy_Tail_Dragon_Cry_mp4
+date=2017-07-26
+URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97_%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3.mp4
 
 type=video
 name=47 Meters Down (2017) TH CAM updated
@@ -702,15 +704,15 @@ URL=
 
 
 type=video
-name=King Arthur: Legend of the Sword (2017) ENG WEB-DL.H264.AC3-EVO
+name=King Arthur: Legend of the Sword (2017) ENG BR 1080p
 thumb=https://image.tmdb.org/t/p/w640/5qtySjfuJfOLvVrVXuwNo2BIVPH.jpg
-date=2017-07-25
-URL=https://openload.co/f/gy59NdUhKTg/King.Arthur.Legend.of.the.Sword.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2017-07-26
+URL=https://openload.co/f/vxVw7n4s5SY/rep-kingarthurlegendofthesword.2017.1080p.bluray.x264.mkv.mp4
 type=video
 name=King Arthur: Legend of the Sword (2017) CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/5qtySjfuJfOLvVrVXuwNo2BIVPH.jpg
-date=2017-06-25
-URL=https://openload.co/f/8SJSLV_V4Js/King.Arthur.Legend.of.the.Sword.2017.1080p.KORSUB.HDRip.x264.AC32.0.THR-CpT.mkv.mp4
+date=2017-07-26
+URL=https://openload.co/f/94nTpi864To/King.Arthur.Legend.of.the.Sword.2017.720p.WEB-DL.H264.AC3.ThaIRong.5.1_-_CpT-CtHts%40SiamBIT.mkv.mp4
 player=default
 rating=-1.00
 
@@ -787,10 +789,15 @@ description=In this fully animated, all-new take on the Smurfs, a mysterious map
 
 
 
-
 type=video
-name=The Hunter's Prayer (2017) CAM SOUND
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMTEzMzQ2NjU1MjVeQTJeQWpwZ15BbWU4MDQ2MjI1MjIy._V1_SY1000_CR0,0,674,1000_AL_.jpg
+name=The Hunter's Prayer (2017) ENG BR 1080p
+thumb=https://image.tmdb.org/t/p/w640/2qVnSDniGtf2mL941v2izSIzpon.jpg
+date=2017-07-26
+URL=https://openload.co/f/fuw_sTgShLw/The.Hunters.Prayer.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+type=video
+name=The Hunter's Prayer (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/2qVnSDniGtf2mL941v2izSIzpon.jpg
+date=2017-07-26
 URL=https://openload.co/f/_vlz-uFXxbg/%5BT%5DThe_Hunter%27s_Prayer_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B8_%282017%29
 
 type=video
