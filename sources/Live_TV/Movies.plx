@@ -43,6 +43,26 @@ rating=-1.00
 
 
 
+
+
+
+
+
+
+
+
+type=video
+name=Sky Action Movies
+URL=http://s11.iptvapi.com:8081/SkyAction/index.m3u8?token=cia8SlY5c-aTmnnzm1JlkQ
+
+type=video
+name=Sky Family Movies
+URL=http://s11.iptvapi.com:8081/SkyFamily/index.m3u8?token=cia8SlY5c-aTmnnzm1JlkQ
+
+type=video
+name=Sky Greats Movies
+URL=http://s11.iptvapi.com:8081/SkyGreats/index.m3u8?token=cia8SlY5c-aTmnnzm1JlkQ
+
 type=video
 name=HBO HD
 URL=http://183.88.212.205:8010/play/a00u
