@@ -30,11 +30,8 @@ URL=
 
 
 
-type=video
-name=Dunkirk (2017) ENG HDTS.X264-NoGrP
-thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
-date=2017-07-23
-URL=https://openload.co/f/UXCTq9N8nq0/D-K.2017.720p.HDTS.X264-NoGrP.mp4
+
+
 
 type=video
 name=Valerian and the City of a Thousand Planets (2017) ENG HDCAM.X264-SeeHD
@@ -47,8 +44,6 @@ name=The Big Sick (2017) ENG DVDSCR
 thumb=https://image.tmdb.org/t/p/w640/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg
 date=2017-07-23
 URL=https://openload.co/f/-tzZBuzQuC0/BIGENG2017SCRJY21.mkv.mp4
-
-
 
 type=video
 name=Baby Driver (2017) ENG updated4 HD
@@ -420,6 +415,17 @@ URL=
 
 
 
+type=video
+name=Dunkirk (2017) ENG HDTS.X264-NoGrP
+thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
+date=2017-07-23
+URL=https://openload.co/f/UXCTq9N8nq0/D-K.2017.720p.HDTS.X264-NoGrP.mp4
+type=video
+name=Dunkirk (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
+date=2017-07-27
+URL=https://openload.co/f/nxn3KkW35Qo/Dunkirk_%282017%29_%E0%B8%94%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%81.mp4
+
 
 type=video
 name=War for the Planet of the Apes (2017) ENG updated CAM.READNFO.XViD-26k
@@ -431,6 +437,7 @@ name=War for the Planet of the Apes (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
 date=2017-07-25
 URL=https://openload.co/f/ltgjHHKy-O8/War.For.The.Planet.Of.The.Apes.2017.CAMRip.XViD-26k.ThaIRong_-_CpT-CtHts%40SiamBIT.mkv.mp4
+
 
 type=video
 name=Fairy Tail Movie 2: Dragon Cry (2017) TH CAM
@@ -444,16 +451,18 @@ thumb=https://image.tmdb.org/t/p/w640/HmALxBQK8SKpOEOmqyFxOavIPR.jpg
 date=2017-07-22
 URL=https://openload.co/f/3t8bEoey3-Q/47_Meters_Down_%282017%29_TH.mkv.mp4
 
+
 type=video
-name=Spider-Man: Homecoming (2017) ENG updated TS
+name=Spider-Man: Homecoming (2017) ENG updated2 HDTC-IA5
 thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
-date=2017-07-21
-URL=https://openload.co/f/B2RTycw9uWs/S-P-M-H-C.2017.NEW.TS.READNFO.XviD-TiTAN.avi.mp4
+date=2017-07-27
+URL=https://openload.co/f/PiWRIo4SMPs/S-M-H-2017.720P.HDTC-IA5.mkv.mp4
 type=video
 name=Spider-Man: Homecoming (2017) TH TS
 thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
 date=2017-07-23
 URL=https://openload.co/f/8LT6eSrfw0U/Spider-Man_Homecoming_2017.mkv.mp4
+
 
 type=video
 name=Despicable Me 3 (2017) CAM updated TS
@@ -536,6 +545,7 @@ URL=https://openload.co/f/ErBIUzRx53Q/Boyka-_Undisputed_IV_%282016%29_%E0%B8%A2%
 player=default
 rating=-1.00
 description=In the fourth installment of the fighting franchise, Boyka is shooting for the big leagues when an accidental death in the ring makes him question everything he stands for. When he finds out the wife of the man he accidentally killed is in trouble, Boyka offers to fight in a series of impossible battles to free her from a life of servitude/description
+
 
 # 2776075
 type=video
@@ -716,6 +726,7 @@ URL=https://openload.co/f/94nTpi864To/King.Arthur.Legend.of.the.Sword.2017.720p.
 player=default
 rating=-1.00
 
+
 # 2773805
 type=video
 name=Unlocked (2017) CAM SOUND
@@ -800,6 +811,7 @@ thumb=https://image.tmdb.org/t/p/w640/2qVnSDniGtf2mL941v2izSIzpon.jpg
 date=2017-07-26
 URL=https://openload.co/f/_vlz-uFXxbg/%5BT%5DThe_Hunter%27s_Prayer_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B8_%282017%29
 
+
 type=video
 name=A Silent Voice (2016) CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/9GHOlikofBgnm7OS2VpUQ8TqZU2.jpg
@@ -862,6 +874,13 @@ URL=
 
 
 
+
+type=video
+name=Siam Square (2017)
+thumb=https://image.tmdb.org/t/p/w640/h5zB0t0wv43n74UOKkFr1AuqTKX.jpg
+date=2017-07-27
+URL=https://openload.co/f/afJazdX-gHA/Siam_Square_%282017%29_DVDRip.CtHts_-_PORSC.mkv.mp4
+
 # 115
 type=video
 name=Grace of Monaco (2014)
@@ -897,6 +916,7 @@ thumb=http://image.tmdb.org/t/p/w500/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg
 date=2017-07-21
 URL=https://openload.co/f/KbWXl01KqVU/Going.in.Style.2017.720p.BluRay.x264_By_Meentada_%281%29.mkv.mp4
 
+
 # 110
 type=video
 name=The Fate of the Furious (2017)
@@ -931,6 +951,7 @@ URL=https://openload.co/f/ZhJtLPqW3Ng/%7BMINI_Super-HQ%7D_Ghost.in.the.Shell.201
 player=default
 rating=-1.00
 description=In the near future, Major is the first of her kind: a human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals./description
+
 
 type=video
 name=Asura: The City of Madness (2016)
@@ -1025,6 +1046,7 @@ name=Rules Don't Apply (2016) TH
 thumb=https://image.tmdb.org/t/p/w640/9d509ztC8mI2BYQ57tFsiHG25Qw.jpg
 date=2017-06-29
 URL=https://streamango.com/f/dabcdlatndfkredf/Rules_Don_t_Apply_mp4
+
 
 type=video
 name=City Under Siege (2010)
