@@ -290,6 +290,12 @@ URL=https://streamango.com/f/crkpcatklcmelbtb/Free_State_of_Jones_2016
 
 
 type=video
+name=Your Name. (2016) JAP BR 1080p
+thumb=https://image.tmdb.org/t/p/w640/xq1Ugd62d23K2knRUx6xxuALTZB.jpg
+date=2017-07-28
+URL=https://openload.co/f/oJs5aOQQWMM/your.name.2016.1080p.bluray.x264-haiku.mkv.mp4
+
+type=video
 name=Snatched (2017) ENG BR 1080p
 thumb=https://image.tmdb.org/t/p/w640/lvGa6v7sR6p6RWCtwv0Dgdr1B8z.jpg
 date=2017-07-26
@@ -713,6 +719,16 @@ date=
 URL=
 
 
+
+
+
+type=video
+name=Wu Kong (2017) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/srdxQhvnLVnZjjUF7UwVBtbyvXj.jpg
+date=2017-07-28
+URL=https://streamango.com/f/qdnndabfcsemcskn/Z_1_Wukong_mp4
+
+
 type=video
 name=King Arthur: Legend of the Sword (2017) ENG BR 1080p
 thumb=https://image.tmdb.org/t/p/w640/5qtySjfuJfOLvVrVXuwNo2BIVPH.jpg
@@ -741,8 +757,8 @@ description=A CIA agent is baited into a trap involving London and a biological 
 type=video
 name=Science Fiction Volume One: The Osiris Child (2016) CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/bEa4lssjiYCv226Z0gKKbfPGJAJ.jpg
-date=2017-07-24
-URL=https://streamango.com/f/bmmrtsdpmsrsckqk/Z_1_Science_Fiction_Volume_One_The_Osiris_Child_mp4
+date=2017-07-28
+URL=https://openload.co/f/qs9MPS8L0MI/Science.Fiction.Volume.One.The.Osiris.Child.2016.720p.WEB-DL.H264.AC3.ThaIRonG.5.1_-_CpT-CtHts%40SiamBIT.mkv.mp4
 
 type=video
 name=Kill Switch (2017) CAM SOUND
