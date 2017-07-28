@@ -52,6 +52,12 @@ date=2017-07-20
 URL=https://openload.co/f/qbtGrAkyjDE/Baby_Driver_2017_720p_HDCAM_x264_CMovie.co..mp4
 
 type=video
+name=Wish Upon (2017) ENG HDCAM.XviD-MrGrey
+thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
+date=2017-07-28
+URL=https://openload.co/f/Dd-aRB4O5s0/WU.2017.HDCAM.XviD-MrGrey.avi
+
+type=video
 name=All Eyez on Me (2017) ENG updated2 TS
 thumb=https://image.tmdb.org/t/p/w640/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg
 date=2017-07-15
@@ -99,20 +105,6 @@ thumb=https://image.tmdb.org/t/p/w640/Yt1iun7B5o5k8QlVLD8biAeKvp.jpg
 date=2017-06-27
 URL=https://openload.co/f/tTU0OPN5Aus/L-o-w-R-i-d-e-r-s.2017.CAM.READNFO.XViD-26k.avi.mp4
 
-
-
-
-
-# 2773804
-type=video
-name=The Lost City of Z (2017) ENG updated BR
-thumb=http://image.tmdb.org/t/p/w500/ik3ebv7J18fs6cHkmu91oxz7EGt.jpg
-date=2017-07-01
-URL=https://openload.co/f/3WQUxlmpcTE/The.Lost.City.of.Z.2016.720p.BluRay.x264-GECKOS.mkv.mp4
-player=default
-rating=-1.00
-description=A true-life drama, centering on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s./description
-
 # 2773790
 type=video
 name=Free Fire (2017) ENG updated BRR
@@ -133,20 +125,11 @@ URL=https://openload.co/f/TAQ9pCr9r6c/D_2017_CAMRip_%5BLayar-21.com%5D.mp4
 
 
 
-
-
-
 type=video
 name=Camera Store (2016) ENG
 thumb=https://image.tmdb.org/t/p/w640/jsnP7Tat547TESHT2mp3aABGH47.jpg
 date=2017-06-20
 URL=https://openload.co/f/etk7MaqSfkQ/Camera.Store.2016.WEB-DL.x264-FGT.mp4
-
-
-
-
-
-
 
 # 2775957
 type=video
@@ -158,20 +141,6 @@ player=default
 rating=-1.00
 description=An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world./description
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 2773792
 type=video
 name=Voice from the Stone (2017) ENG
@@ -180,15 +149,6 @@ URL=https://openload.co/f/UbA07Rx2ACc/V.F.S.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 player=default
 rating=-1.00
 description=Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story of Verena, a solemn nurse drawn to aid a young boy who has fallen silent since the sudden passing of his mother./description
-
-
-
-
-
-
-
-
-
 
 # 2772462
 type=video
@@ -217,10 +177,6 @@ player=default
 rating=-1.00
 description=In a twisted social experiment, a group of 80 Americans are locked in their high-rise corporate office in BogotÃ¡, Colombia and ordered by an unknown voice coming from the company's intercom system to participate in a deadly game of kill or be killed./description
 
-
-
-
-
 # 2771592
 type=video
 name=Bethany (2017) ENG
@@ -239,8 +195,6 @@ player=default
 rating=-1.00
 description=Based on the airline accident that occurred in July of 2002 and on the events that took place 478 days later./description
 
-
-
 # 2771594
 type=video
 name=Diamond Cartel (2017) ENG
@@ -248,21 +202,6 @@ thumb=http://image.tmdb.org/t/p/w500/zkiz6Tx5wiSo2huOnKWRQrsbnoX.jpg
 URL=https://openload.co/f/phEBgPTbT-Y/Diamond_Cartel_2017_HDRip_%5BLayar-21.com%5D.mp4
 player=default
 rating=-1.00
-
-
-
-
-
-
-# 2772899
-type=video
-name=The Carer (2017) ENG updated2 BR
-thumb=http://image.tmdb.org/t/p/w500/gseDYGjdlFfGPbpVzlE0IcyW2Ix.jpg
-URL=https://openload.co/f/npQ2srvsvWE/The.Carer.2016.1080p.BluRay.H264.AAC-RARBG.mp4
-player=default
-rating=-1.00
-description=When the question is to be or not to be, there is only one answer./description
-
 
 # 2771289
 type=video
@@ -375,11 +314,30 @@ player=default
 rating=-1.00
 description=The Zookeeper's Wife tells the account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion./description
 
+# 2772899
+type=video
+name=The Carer (2017) ENG updated2 BR 1080p
+thumb=http://image.tmdb.org/t/p/w500/gseDYGjdlFfGPbpVzlE0IcyW2Ix.jpg
+URL=https://openload.co/f/npQ2srvsvWE/The.Carer.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+player=default
+rating=-1.00
+description=When the question is to be or not to be, there is only one answer./description
 
+# 2773804
+type=video
+name=The Lost City of Z (2017) ENG updated BR 720p
+thumb=http://image.tmdb.org/t/p/w500/ik3ebv7J18fs6cHkmu91oxz7EGt.jpg
+date=2017-07-01
+URL=https://openload.co/f/3WQUxlmpcTE/The.Lost.City.of.Z.2016.720p.BluRay.x264-GECKOS.mkv.mp4
+player=default
+rating=-1.00
+description=A true-life drama, centering on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s./description
 
-
-
-
+type=video
+name=Raw (2017) FRE BR 720p
+thumb=https://image.tmdb.org/t/p/w640/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg
+date=2017-07-28
+URL=https://openload.co/f/H_8mTjk0s20/raw.2016.limited.720p.bluray.x264-usury.mkv.mp4
 
 
 
