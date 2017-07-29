@@ -39,61 +39,61 @@ type=video
 name=S03E10___The Whole Beefalo
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/81xLp11NjX48sGrYTXeJ1flJliB.jpg
 date=2017-07-29
-URL=
+URL=https://streamango.com/f/frdkdoeaaqmksbkr/Hung_S03E10_flv_mp4
 
 type=video
 name=S03E09___'A Monkey Named Simian' or 'Frances is Not a Fan'
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/81xLp11NjX48sGrYTXeJ1flJliB.jpg
 date=2017-07-29
-URL=
+URL=https://streamango.com/f/pbqpkommptdrermc/Hung_S03E09_mp4
 
 type=video
 name=S03E08___'I, Sandee' or 'This Sex. Which Is. Not One.'
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/81xLp11NjX48sGrYTXeJ1flJliB.jpg
 date=2017-07-29
-URL=
+URL=https://streamango.com/f/efstmlttbpqsessq/Hung_S03E08_mp4
 
 type=video
 name=S03E07___'What's Going on Downstairs?' or 'Don't Eat Prince Eric!'
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/81xLp11NjX48sGrYTXeJ1flJliB.jpg
 date=2017-07-29
-URL=
+URL=https://streamango.com/f/bmmkomnorlpolorc/Hung_S03E07_mp4
 
 type=video
 name=S03E06___'Money on the Floor'
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/81xLp11NjX48sGrYTXeJ1flJliB.jpg
 date=2017-07-29
-URL=
+URL=https://streamango.com/f/anmscnsdtknbcatr/Hung_S03E06_flv_mp4
 
 type=video
 name=S03E05___'We're Golden' or 'Crooks and Big Beaver'
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/81xLp11NjX48sGrYTXeJ1flJliB.jpg
 date=2017-07-29
-URL=
+URL=https://streamango.com/f/racnsrnqlptpsabf/Hung_S03E05_flv_mp4
 
 type=video
 name=S03E04___'Fuck Me, Mr. Drecker' or 'Let's Not Go to Jail'
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/81xLp11NjX48sGrYTXeJ1flJliB.jpg
 date=2017-07-29
-URL=
+URL=https://streamango.com/f/feqoccqssnebdqst/Hung_S03E04_mp4
 
 type=video
 name=S03E03___'Mister Drecker' or 'Ease Up on the Whup-Ass'
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/81xLp11NjX48sGrYTXeJ1flJliB.jpg
 date=2017-07-29
-URL=
+URL=https://streamango.com/f/salqcnebdodlrttn/Hung_S03E03_mp4
 
 type=video
 name=S03E02___'Take the Cake' or 'Are You Packing?'
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/81xLp11NjX48sGrYTXeJ1flJliB.jpg
 date=2017-07-29
-URL=
+URL=https://streamango.com/f/nmkpopklqkttaaba/Hung_S03E02_mp4
 
 type=video
 name=S03E01___'Don't Give Up on Detroit' or 'Hung Like a Horse'
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/81xLp11NjX48sGrYTXeJ1flJliB.jpg
 date=2017-07-29
-URL=
+URL=https://streamango.com/f/ncppnfpafreamnnd/Hung_S03E01_flv_mp4
 
 
 type=video

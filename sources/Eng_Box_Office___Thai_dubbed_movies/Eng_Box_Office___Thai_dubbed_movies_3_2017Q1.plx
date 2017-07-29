@@ -31,7 +31,11 @@ URL=
 
 
 
-
+type=video
+name=Atomic Blonde (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
+date=2017-07-29
+URL=http://185.176.192.107/vids/atomic_blonde_2017_ts_russian_audio___597c3271ae68e.mp4
 
 type=video
 name=Valerian and the City of a Thousand Planets (2017) ENG HDCAM.X264-SeeHD
