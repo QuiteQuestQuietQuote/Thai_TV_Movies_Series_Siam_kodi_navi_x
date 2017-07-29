@@ -404,19 +404,6 @@ URL=https://openload.co/f/ltgjHHKy-O8/War.For.The.Planet.Of.The.Apes.2017.CAMRip
 
 
 type=video
-name=Fairy Tail Movie 2: Dragon Cry (2017) TH CAM
-thumb=https://image.tmdb.org/t/p/w640/f6GuwIVkNZYFkt7kiHSJRPiXAAA.jpg
-date=2017-07-26
-URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97_%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3.mp4
-
-type=video
-name=47 Meters Down (2017) TH CAM updated
-thumb=https://image.tmdb.org/t/p/w640/HmALxBQK8SKpOEOmqyFxOavIPR.jpg
-date=2017-07-22
-URL=https://openload.co/f/3t8bEoey3-Q/47_Meters_Down_%282017%29_TH.mkv.mp4
-
-
-type=video
 name=Spider-Man: Homecoming (2017) ENG updated2 HDTC-IA5
 thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
 date=2017-07-27
@@ -429,26 +416,43 @@ URL=https://openload.co/f/8LT6eSrfw0U/Spider-Man_Homecoming_2017.mkv.mp4
 
 
 type=video
-name=Despicable Me 3 (2017) CAM updated TS
-thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
-date=2017-07-09
-URL=https://openload.co/f/UXysP_7mF5M/Despicable_Me_3_%282017%29_%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94_3.mp4
-
+name=Transformers: The Last Knight (2017) ENG TS.XViD-26k
+thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
+date=2017-07-29
+URL=https://openload.co/f/T3EpPZ0lkJI/Transformers.The.Last.Knight.2017.720p.SUBBED.TS.XViD-26k.avi.mp4
 type=video
-name=Transformers: The Last Knight (2017) CAM updated TS
+name=Transformers: The Last Knight (2017) TH CAM updated TS
 thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
 date=2017-06-27
 URL=https://openload.co/f/lHL-fIbHpZQ/Transformers_The_Last_Knight_2017.mkv.mp4
 
 
 
+
+
+type=video
+name=Fairy Tail Movie 2: Dragon Cry (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/f6GuwIVkNZYFkt7kiHSJRPiXAAA.jpg
+date=2017-07-26
+URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97_%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3.mp4
+
+type=video
+name=47 Meters Down (2017) TH CAM updated
+thumb=https://image.tmdb.org/t/p/w640/HmALxBQK8SKpOEOmqyFxOavIPR.jpg
+date=2017-07-22
+URL=https://openload.co/f/3t8bEoey3-Q/47_Meters_Down_%282017%29_TH.mkv.mp4
+
+type=video
+name=Despicable Me 3 (2017) CAM updated TS
+thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
+date=2017-07-09
+URL=https://openload.co/f/UXysP_7mF5M/Despicable_Me_3_%282017%29_%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94_3.mp4
+
 type=video
 name=Baywatch (2017) CAM updated UNCEN
 thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
 date=2017-06-16
 URL=https://openload.co/f/6Ofv0uUcw_U/Baywatch.2017.HDTS.UNCENSORED.x264.ThaiRong-CpT.mkv.mp4
-
-
 
 type=video
 name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) CAM updated
@@ -457,10 +461,6 @@ date=2017-06-15
 URL=https://openload.co/f/zgllm-DQfTc/Pirates_of_the_Caribbean-_Dead_Men_Tell_No_Tales_%282017%29.mp4
 player=default
 rating=-1.00
-
-
-
-
 
 # 2773787
 type=video
@@ -537,8 +537,6 @@ name=Spectral (2016) SUB
 thumb=https://image.tmdb.org/t/p/w640/oXV2ayQYUQfHwpuMdWnZF0Geng5.jpg
 URL=https://openload.co/f/LMxwHx7QfOg/spactral.MP4.mp4
 
-
-
 type=video
 name=Sand Castle (2017) SUB
 thumb=https://image.tmdb.org/t/p/w640/c9buG2jVRgAu68E4D4jpwlgqhO1.jpg
@@ -595,8 +593,6 @@ URL=https://openload.co/f/nLK-kkQFlYM/The_Marine_5-_Battleground_%282017%29_%E0%
 player=default
 rating=-1.00
 description=While working as an EMT back stateside Jake Carter after responding to a distress call, finds himself caught up protecting a person of interest from a biker gang ruthlessly hunting them down./description
-
-
 
 # 2771337
 type=video
@@ -680,11 +676,7 @@ URL=
 
 
 
-type=video
-name=Wu Kong (2017) CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/srdxQhvnLVnZjjUF7UwVBtbyvXj.jpg
-date=2017-07-28
-URL=https://streamango.com/f/qdnndabfcsemcskn/Z_1_Wukong_mp4
+
 
 
 type=video
@@ -701,6 +693,30 @@ player=default
 rating=-1.00
 
 
+type=video
+name=The Hunter's Prayer (2017) ENG BR 1080p
+thumb=https://image.tmdb.org/t/p/w640/2qVnSDniGtf2mL941v2izSIzpon.jpg
+date=2017-07-26
+URL=https://openload.co/f/fuw_sTgShLw/The.Hunters.Prayer.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+type=video
+name=The Hunter's Prayer (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/2qVnSDniGtf2mL941v2izSIzpon.jpg
+date=2017-07-26
+URL=https://openload.co/f/_vlz-uFXxbg/%5BT%5DThe_Hunter%27s_Prayer_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B8_%282017%29
+
+
+type=video
+name=Revolt (2017) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg
+date=2017-07-29
+URL=https://openload.co/f/a12f7DHdFHk/Revolt_%282017%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95.mp4
+
+type=video
+name=Wu Kong (2017) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/srdxQhvnLVnZjjUF7UwVBtbyvXj.jpg
+date=2017-07-28
+URL=https://streamango.com/f/qdnndabfcsemcskn/Z_1_Wukong_mp4
+
 # 2773805
 type=video
 name=Unlocked (2017) CAM SOUND
@@ -710,7 +726,6 @@ URL=https://streamango.com/f/ftpnpqcoqteetebr/Unlocked_mp4
 player=default
 rating=-1.00
 description=A CIA agent is baited into a trap involving London and a biological attack./description
-
 
 type=video
 name=Science Fiction Volume One: The Osiris Child (2016) CAM SOUND
@@ -757,10 +772,6 @@ thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
 date=2017-07-02
 URL=https://openload.co/f/ExI4z1WHPU8/2.22.2017.1080p.WEB-DL.DD5.1.H264.ThaIRonG-CpT.mkv.mp4
 
-
-
-
-
 # 2772625
 type=video
 name=Smurfs: The Lost Village (2017) CAM SOUND
@@ -771,34 +782,12 @@ player=default
 rating=-1.00
 description=In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history./description
 
-
-
-
-type=video
-name=The Hunter's Prayer (2017) ENG BR 1080p
-thumb=https://image.tmdb.org/t/p/w640/2qVnSDniGtf2mL941v2izSIzpon.jpg
-date=2017-07-26
-URL=https://openload.co/f/fuw_sTgShLw/The.Hunters.Prayer.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
-type=video
-name=The Hunter's Prayer (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/2qVnSDniGtf2mL941v2izSIzpon.jpg
-date=2017-07-26
-URL=https://openload.co/f/_vlz-uFXxbg/%5BT%5DThe_Hunter%27s_Prayer_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B8_%282017%29
-
-
 type=video
 name=A Silent Voice (2016) CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/9GHOlikofBgnm7OS2VpUQ8TqZU2.jpg
 URL=https://openload.co/f/WTUKXYuOK38/%5BT%5DKoe_no_katachi_2016
 player=default
 rating=-1.00
-
-
-
-
-
-
-
 
 # 2773692
 type=video
@@ -852,8 +841,8 @@ URL=
 type=video
 name=Siam Square (2017)
 thumb=https://image.tmdb.org/t/p/w640/h5zB0t0wv43n74UOKkFr1AuqTKX.jpg
-date=2017-07-27
-URL=https://openload.co/f/afJazdX-gHA/Siam_Square_%282017%29_DVDRip.CtHts_-_PORSC.mkv.mp4
+date=2017-07-29
+URL=https://openload.co/f/VBj83vp0djg/Siam_Square_2017_FHDRip_1080p_%5BLayar-21.com%5D.mp4
 
 # 115
 type=video
