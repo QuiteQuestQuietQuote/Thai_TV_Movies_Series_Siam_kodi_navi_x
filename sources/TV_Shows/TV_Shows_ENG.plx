@@ -46,6 +46,14 @@ player=default
 rating=-1.00
 
 type=playlist
+name=Hidden Truths (2015)
+thumb=https://image.tmdb.org/t/p/w640/axOkcrzMTkYW6hD774YFzYZ9VFL.jpg
+date=2017-07-29
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Hidden_Truths.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=Hung (2009)
 thumb=https://image.tmdb.org/t/p/w640/h7dC8R6NVajUkLFwKr4KHhb3l3p.jpg
 date=2017-07-28
