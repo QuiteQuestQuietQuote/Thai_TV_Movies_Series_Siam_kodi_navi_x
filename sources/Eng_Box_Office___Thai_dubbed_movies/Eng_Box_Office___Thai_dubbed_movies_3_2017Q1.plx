@@ -34,14 +34,14 @@ URL=
 type=video
 name=Atomic Blonde (2017) RUS
 thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
-date=2017-07-29
-URL=http://185.176.192.107/vids/atomic_blonde_2017_ts_russian_audio___597c3271ae68e.mp4
+date=2017-07-30
+URL=https://openload.co/f/JZvAMUL8Cgs/RUS_Atomic_Blonde_2017_TS
 
 type=video
 name=Valerian and the City of a Thousand Planets (2017) ENG HDCAM.X264-SeeHD
 thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
 date=2017-07-23
-URL=https://openload.co/f/LHnXeRjGAtc/Va-l-e-ri-an.2017.HDCAM.X264-SeeHD.mkv.mp4
+URL=https://openload.co/f/62DU1FIOKM0/V_and_t_C_of_a_T_Planets_CAM_%5BLayar-21.com%5D.mp4
 
 type=video
 name=The Big Sick (2017) ENG DVDSCR
@@ -287,16 +287,6 @@ URL=https://openload.co/f/c6ouHx5fiC8/Colossal.2016.LIMITED.1080p.BluRay.x264-DR
 player=default
 rating=-1.00
 description=A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering./description
-
-# 2773619
-type=video
-name=Unforgettable (2017) ENG updated BR 1080p
-thumb=http://image.tmdb.org/t/p/w500/eUGehaQhjc9Q8kqlZP16akfx7R4.jpg
-date=2017-07-11
-URL=https://openload.co/f/g-33d_facZg/Unforgettable.2017.1080p.BluRay.x264-DRONES.mkv.mp4
-player=default
-rating=-1.00
-description=A woman sets out to make life hell for her ex-husband's new wife./description
 
 # 2773806
 type=video
@@ -840,7 +830,20 @@ URL=
 
 
 
-
+# 118
+type=video
+name=Unforgettable (2017) ENG BR 1080p
+thumb=http://image.tmdb.org/t/p/w500/eUGehaQhjc9Q8kqlZP16akfx7R4.jpg
+date=2017-07-11
+URL=https://openload.co/f/g-33d_facZg/Unforgettable.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+player=default
+rating=-1.00
+description=A woman sets out to make life hell for her ex-husband's new wife./description
+type=video
+name=Unforgettable (2017) TH
+thumb=http://image.tmdb.org/t/p/w500/eUGehaQhjc9Q8kqlZP16akfx7R4.jpg
+date=2017-07-30
+URL=https://openload.co/f/VYjEqdwOIe4/%7BMINI_Super-HQ%7D_Unforgettable.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 type=video
 name=Siam Square (2017)
