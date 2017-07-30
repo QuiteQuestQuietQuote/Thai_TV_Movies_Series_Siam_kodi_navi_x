@@ -830,6 +830,12 @@ URL=
 
 
 
+type=video
+name=A Hologram for the King (2016)
+thumb=https://image.tmdb.org/t/p/w640/dDHJBd2iv7KTDzI7ybNLs31vvkM.jpg
+date=2017-07-30
+URL=https://openload.co/f/kmxteoxCyk0/%7BMINI_Super-HQ%7D_A.Hologram.for.the.King.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv
+
 # 118
 type=video
 name=Unforgettable (2017) ENG BR 1080p
