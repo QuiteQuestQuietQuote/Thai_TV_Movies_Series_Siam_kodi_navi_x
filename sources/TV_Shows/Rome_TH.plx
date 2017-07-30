@@ -20,9 +20,9 @@ rating=-1.00
 
 
 type=script
-name= Update the urlresolver (refresh), if can not play...!!!...,,,script.module.urlresolver-3.0.36.zip
+name= Update the urlresolver (refresh), if can not play...!!!
 thumb=
-URL= https://openload.co/f/AcqSapXJXL4/script.module.urlresolver-3.0.36.zip
+URL=https://github.com/Colossal1/repository.colossus.common/blob/master/script.module.urlresolver/script.module.urlresolver-4.0.00.zip?raw=true
 
 
 
@@ -44,13 +44,13 @@ type=video
 name=S02-E10___De Patre Vostro (About Your Father)
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/tot1oiUfuGtfK0E7MATrZeBFcx.jpg
 date=2017-07-15
-URL=https://r3---sn-30a7yn7k.c.drive.google.com/videoplayback?id=4aec0e98c448bfde&itag=18&source=webdrive&requiressl=yes&mm=30&mn=sn-30a7yn7k&ms=nxu&mv=m&pl=17&ttl=transient&ei=c6R8WeepBMbhugL-mqCACA&susci=o-AMQsD9fks1bgkQpYvpBV_j2ILPI8Y-ZCbuER3HlZBGZ0KXyQ&driveid=0B0_gHk7YlYcaZXRubXlLQWNvSWc&app=explorer&mime=video/mp4&lmt=1493741048055863&mt=1501340724&ip=14.207.7.103&ipbits=0&expire=1501344387&cp=QVNFU0RfU1NWSFhOOjZtUzJFZ3F5eU1C&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,ttl,ei,susci,driveid,app,mime,lmt,cp&signature=242D68D9B57C968C66235DEBF3E29EF38EDFE57C.43CAD5E50BD26CA62B389B503DFD63609034F9D3&key=ck2&cpn=ZGnOoztfycoERCrC&c=WEB&cver=1.20170727
+URL=https://drive.google.com/open?id=0B0_gHk7YlYcaZXRubXlLQWNvSWc
 
 type=video
 name=S02-E09___Deus Impeditio Esuritori Nullus (No God Can Stop a Hungry Man)
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/r0io4W1G0hAAvXeDrLT5vj3lRUL.jpg
 date=2017-07-15
-URL=https://r2---sn-30a7yn7r.c.drive.google.com/videoplayback?id=171e7c0bcf62ed21&itag=18&source=webdrive&requiressl=yes&mm=30&mn=sn-30a7yn7r&ms=nxu&mv=m&pl=17&ttl=transient&ei=76V8WdGwOY_EuALgtZWgDg&susci=o-ALeBlsf5-BMvHKfu0OpGxFhw9Ik3kCyHq82_4b3nd2cvKSN1&driveid=0B0_gHk7YlYcadUxvUUNsRTRlVUU&app=explorer&mime=video/mp4&lmt=1493741321532408&mt=1501341086&ip=14.207.7.103&ipbits=0&expire=1501344767&cp=QVNFU0RfU1dUSFhOOjZtUzJJZXF5eU1C&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,ttl,ei,susci,driveid,app,mime,lmt,cp&signature=ACFA3C3084CAD5FB52E04A1F7F82CA633B1333E5.1350A26B20518D8712B0FBE093D993B5B989411D&key=ck2&cpn=WVmDuaNaDoQyoVdJ&c=WEB&cver=1.20170727&ir=1&rr=12
+URL=https://drive.google.com/open?id=0B0_gHk7YlYcadUxvUUNsRTRlVUU
 
 type=video
 name=S02-E08___A Necessary Fiction
