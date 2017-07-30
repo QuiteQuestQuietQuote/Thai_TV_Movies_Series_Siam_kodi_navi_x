@@ -30,6 +30,14 @@ player=default
 rating=-1.00
 
 type=playlist
+name=Casanova (2005)
+thumb=https://image.tmdb.org/t/p/w640/3aEd4CGtLiJUBSyGHFARbUAXpqB.jpg
+date=2017-07-30
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Casanova.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=Da Vinci's Demons (2013)
 thumb=https://image.tmdb.org/t/p/w640/dNnobI9TeLsDkBTMytiBbnEv1Oo.jpg
 date=2017-07-07
@@ -62,6 +70,14 @@ player=default
 rating=-1.00
 
 type=playlist
+name=Penny Dreadful (2014)
+thumb=https://image.tmdb.org/t/p/w640/wdNA7aBxcSebbXoYBumt7yyYyIa.jpg
+date=2017-07-13
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Penny_Dreadful.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=The Hunger (1997)
 thumb=https://image.tmdb.org/t/p/w640/cOewcXR8jrGJrxI0VSJdVkHZDuR.jpg
 date=2017-07-26
@@ -70,9 +86,11 @@ player=default
 rating=-1.00
 
 type=playlist
-name=Penny Dreadful (2014)
-thumb=https://image.tmdb.org/t/p/w640/wdNA7aBxcSebbXoYBumt7yyYyIa.jpg
-date=2017-07-13
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Penny_Dreadful.plx
+name=The Last Tycoon (2016)
+thumb=https://image.tmdb.org/t/p/w640/6xFGbliDbSrJX1hUp9jKdQUY87A.jpg
+date=2017-07-30
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/The_Last_Tycoon.plx
 player=default
 rating=-1.00
+
+
