@@ -25,16 +25,16 @@ type=video
 name=Episode 1
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/4rJQbFX9oXXrsna2oXIwN1VIVGr.jpg
 date=2017-07-30
-URL=
+URL=https://streamango.com/f/eskdktctqrdtmenq/Casanova_E01_mp4
 
 type=video
 name=Episode 2
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/38bpgyensjhwwYU66ZvPXrOE76Z.jpg
 date=2017-07-30
-URL=
+URL=https://streamango.com/f/eeqbqndlspkoemad/Casanova_E02_mp4
 
 type=video
 name=Episode 3
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/iY9OCtuyjjanhtEupwlNBsfjOz6.jpg
 date=2017-07-30
-URL=
+URL=https://streamango.com/f/mprssknppbcetbal/Casanova_E03_mp4

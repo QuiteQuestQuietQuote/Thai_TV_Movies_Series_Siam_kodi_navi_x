@@ -49,12 +49,24 @@ URL=
 
 
 
+type=video
+name=S07-E04___The Spoils of War___August 6, 2017
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/d0zSl5pCzl1dFcQpMtkQIdT6lcg.jpg
+date=2017-07-31
+URL=
+
 
 type=video
-name=S07-E03___The Queen’s Justice___July 30, 2017
+name=S07-E03___The Queen’s Justice___1080p.AMZN.WEB-DL
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/jj2m8Q3v6EzV7z2JN8foIHeOGZB.jpg
-date=2017-07-17
+date=2017-07-31
+URL=https://openload.co/f/OLUDR81f8uA/G-O-T.S07E03.1080p.AMZN.WEB-DL.DD5.1.H.264-GoT.mkv.mp4
+type=video
+name=S07-E03___The Queen’s Justice___TH SUB
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/jj2m8Q3v6EzV7z2JN8foIHeOGZB.jpg
+date=2017-07-31
 URL=
+
 
 type=video
 name=S07-E02___Stormborn___1080p.AMZN.WEB-DL
