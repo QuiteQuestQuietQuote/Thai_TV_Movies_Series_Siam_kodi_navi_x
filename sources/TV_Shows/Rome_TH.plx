@@ -33,7 +33,7 @@ type=video
 name=Rome: Season 2 (2007)
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/bmxaaOiNx788VLLosjUap3N2k5b.jpg
 date=2017-07-15
-URL=
+URL=http://entervideo.net/watch/ef871c69948b606
 
 
 

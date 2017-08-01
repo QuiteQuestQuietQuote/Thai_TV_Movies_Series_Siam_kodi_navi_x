@@ -92,12 +92,6 @@ date=2017-06-24
 URL=https://openload.co/f/Z1xQaSLEHrs/Ca-p-t-ain.Un-de-r-p-a-nts.The.First.Epic.Movie.2017.CAM.X264-NoGRP.mkv.mp4
 
 type=video
-name=Everything, Everything (2017) ENG
-thumb=https://image.tmdb.org/t/p/w640/rpl6GpwBzj1k5LiEdurY1Qe1AcS.jpg
-date=2017-06-24
-URL=https://openload.co/f/s2uhmmUIcL0/Everything.Everything.2O17.CAM.Openloadmovies.me.avi.mp4
-
-type=video
 name=Rough Night (2017) ENG
 thumb=https://image.tmdb.org/t/p/w640/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg
 date=2017-06-22
@@ -135,15 +129,7 @@ thumb=https://image.tmdb.org/t/p/w640/jsnP7Tat547TESHT2mp3aABGH47.jpg
 date=2017-06-20
 URL=https://openload.co/f/etk7MaqSfkQ/Camera.Store.2016.WEB-DL.x264-FGT.mp4
 
-# 2775957
-type=video
-name=How to Be a Latin Lover (2017) ENG updated TS
-thumb=http://image.tmdb.org/t/p/w500/wvXCBYFDwAQSj3nrRAoBSpX2N8J.jpg
-date=2017-05-08
-URL=https://openload.co/f/9EpLAClZdgo/H-L.2017.HD-TS.x264-CPG.mkv.mp4
-player=default
-rating=-1.00
-description=An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world./description
+
 
 # 2773792
 type=video
@@ -223,6 +209,15 @@ thumb=https://image.tmdb.org/t/p/w640/sxutq7sXcaMy8b4OguaWZwWrchM.jpg
 date=2017-06-30
 URL=https://streamango.com/f/crkpcatklcmelbtb/Free_State_of_Jones_2016
 
+# 2775957
+type=video
+name=How to Be a Latin Lover (2017) ENG updated WEB-DL.H264.AC3-EVO
+thumb=http://image.tmdb.org/t/p/w500/wvXCBYFDwAQSj3nrRAoBSpX2N8J.jpg
+date=2017-08-01
+URL=https://openload.co/f/0wW4a_IEqd4/H-L-2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+player=default
+rating=-1.00
+description=An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world./description
 
 
 
@@ -231,6 +226,12 @@ URL=https://streamango.com/f/crkpcatklcmelbtb/Free_State_of_Jones_2016
 
 
 
+
+type=video
+name=Everything, Everything (2017) ENG BR 1080p
+thumb=https://image.tmdb.org/t/p/w640/rpl6GpwBzj1k5LiEdurY1Qe1AcS.jpg
+date=2017-08-01
+URL=https://openload.co/f/IGIMtDVjAjw/everything.everything.2017.1080p.bluray.x264-geckos.mkv.mp4
 
 type=video
 name=Your Name. (2016) JAP BR 1080p
@@ -669,8 +670,18 @@ URL=
 
 
 
-
-
+type=video
+name=Alien: Covenant (2017) ENG WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/ewVHnq4lUiovxBCu64qxq5bT2lu.jpg
+date=2017-08-01
+URL=https://openload.co/f/aAxVTQgB05k/Alien.Covenant.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+type=video
+name=Alien: Covenant (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/ewVHnq4lUiovxBCu64qxq5bT2lu.jpg
+date=2017-07-03
+URL=https://openload.co/f/Q5ihJ4j7gHY/Alien.Covenant.2017.1080p.KORSUB.HDRip.x264.AC32.0.ThaIRonG-CpT.mkv.mp4
+player=default
+rating=-1.00
 
 
 type=video
@@ -679,7 +690,7 @@ thumb=https://image.tmdb.org/t/p/w640/5qtySjfuJfOLvVrVXuwNo2BIVPH.jpg
 date=2017-07-26
 URL=https://openload.co/f/vxVw7n4s5SY/rep-kingarthurlegendofthesword.2017.1080p.bluray.x264.mkv.mp4
 type=video
-name=King Arthur: Legend of the Sword (2017) CAM SOUND
+name=King Arthur: Legend of the Sword (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/5qtySjfuJfOLvVrVXuwNo2BIVPH.jpg
 date=2017-07-26
 URL=https://openload.co/f/94nTpi864To/King.Arthur.Legend.of.the.Sword.2017.720p.WEB-DL.H264.AC3.ThaIRong.5.1_-_CpT-CtHts%40SiamBIT.mkv.mp4
@@ -746,13 +757,7 @@ thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
 date=2017-07-06
 URL=https://openload.co/f/GbUe5fZac2o/Kidnap_%282017%29_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
 
-type=video
-name=Alien: Covenant (2017) CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/ewVHnq4lUiovxBCu64qxq5bT2lu.jpg
-date=2017-07-03
-URL=https://openload.co/f/Q5ihJ4j7gHY/Alien.Covenant.2017.1080p.KORSUB.HDRip.x264.AC32.0.ThaIRonG-CpT.mkv.mp4
-player=default
-rating=-1.00
+
 
 type=video
 name=Wonder Woman (2017) CAM SOUND
@@ -833,8 +838,8 @@ URL=
 type=video
 name=A Hologram for the King (2016)
 thumb=https://image.tmdb.org/t/p/w640/dDHJBd2iv7KTDzI7ybNLs31vvkM.jpg
-date=2017-07-30
-URL=https://openload.co/f/kmxteoxCyk0/%7BMINI_Super-HQ%7D_A.Hologram.for.the.King.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv
+date=2017-08-01
+URL=https://streamango.com/f/lrrtlctcbfppoctb/A_Hologram_for_the_King_mp4
 
 # 118
 type=video
