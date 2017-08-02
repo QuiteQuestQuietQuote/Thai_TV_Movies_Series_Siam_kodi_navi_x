@@ -671,10 +671,10 @@ URL=
 
 
 type=video
-name=Alien: Covenant (2017) ENG WEB-DL.DD5.1.H264-FGT
+name=Alien: Covenant (2017) ENG BR 1080p
 thumb=https://image.tmdb.org/t/p/w640/ewVHnq4lUiovxBCu64qxq5bT2lu.jpg
-date=2017-08-01
-URL=https://openload.co/f/aAxVTQgB05k/Alien.Covenant.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+date=2017-08-02
+URL=https://openload.co/f/7i25JsS2Q9Q/Alien.Covenant.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
 type=video
 name=Alien: Covenant (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/ewVHnq4lUiovxBCu64qxq5bT2lu.jpg
