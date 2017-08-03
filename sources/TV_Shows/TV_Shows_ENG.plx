@@ -54,6 +54,14 @@ player=default
 rating=-1.00
 
 type=playlist
+name=Femme Fatales (2011)
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMjg2MTMwNzkxM15BMl5BanBnXkFtZTcwNzExNTEwOQ@@._V1_SY1000_CR0,0,705,1000_AL_.jpg
+date=2017-08-03
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Femme_Fatales.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=Hidden Truths (2015)
 thumb=https://image.tmdb.org/t/p/w640/axOkcrzMTkYW6hD774YFzYZ9VFL.jpg
 date=2017-07-29
