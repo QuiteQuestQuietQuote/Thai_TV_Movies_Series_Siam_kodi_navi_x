@@ -30,72 +30,72 @@ rating=-1.00
 
 type=video
 name=E01___The other side of the sea
-thumb=
+thumb=https://content.fruithosted.net/splash/mqtfrsqctpecsatn/knqlsbkpnmssttek.jpg
 date=2017-07-31
 URL=https://streamango.com/f/mqtfrsqctpecsatn/Odysseus_S01E01_mp4
 
 type=video
 name=E02___The Duel
-thumb=
+thumb=https://content.fruithosted.net/splash/fapbqonpbrcfdndt/edpaoltfcelllrla.jpg
 date=2017-07-31
 URL=https://streamango.com/f/fapbqonpbrcfdndt/Odysseus_S01E02_mp4
 
 type=video
 name=E03___Ulysses is alive
-thumb=
+thumb=https://content.fruithosted.net/splash/bcsooktcoopcndop/oqedspdebolsdrak.jpg
 date=2017-07-31
 URL=https://streamango.com/f/bcsooktcoopcndop/Odysseus_S01E03_mp4
 
 type=video
 name=E04___Should we kill Telemachus?
-thumb=
+thumb=https://content.fruithosted.net/splash/nalpsnetpmqdtfer/refanmkrfaltqlmk.jpg
 date=2017-07-31
 URL=https://streamango.com/f/nalpsnetpmqdtfer/Odysseus_S01E04_mp4
 
 type=video
 name=E05___Democracy against the barbarians
-thumb=
+thumb=https://content.fruithosted.net/splash/tcoopenrnfkeecpp/tsnobdobkpstklno.jpg
 date=2017-07-31
 URL=https://streamango.com/f/tcoopenrnfkeecpp/Odysseus_S01E05_mp4
 
 type=video
 name=E06___The Return of Ulysses
-thumb=
+thumb=https://content.fruithosted.net/splash/eomcfmmsofnbbnrs/paddoscfqtobsrdf.jpg
 date=2017-07-31
 URL=https://streamango.com/f/eomcfmmsofnbbnrs/Odysseus_S01E06_mp4
 
 type=video
 name=E07___Peace and games
-thumb=
+thumb=https://content.fruithosted.net/splash/cqplkkcnmrtppben/salckkrcqrqqreka.jpg
 date=2017-07-31
 URL=https://streamango.com/f/cqplkkcnmrtppben/Odysseus_S01E07_mp4
 
 type=video
 name=E08___The Trojans girls
-thumb=
+thumb=https://content.fruithosted.net/splash/batbqoqfsakltlnp/bonqercppmldtnkm.jpg
 date=2017-07-31
 URL=https://streamango.com/f/batbqoqfsakltlnp/Odysseus_S01E08_mp4
 
 type=video
 name=E09___The Vengeance of Orion
-thumb=
+thumb=https://content.fruithosted.net/splash/ptrlernnctladkbt/blcaaereamspqrft.jpg
 date=2017-07-31
 URL=https://streamango.com/f/ptrlernnctladkbt/Odysseus_S01E09_mp4
 
 type=video
 name=E10___The Marriage of Telemachus
-thumb=
+thumb=https://content.fruithosted.net/splash/eldbrmapaaddqosl/osmbotkcldtcommr.jpg
 date=2017-07-31
 URL=https://streamango.com/f/eldbrmapaaddqosl/Odysseus_S01E10_mp4
 
 type=video
 name=E11___Telemachus confronts Ulysses (1)
-thumb=
+thumb=https://content.fruithosted.net/splash/eeakcnldeknlqlmn/qosbbtmpeefpnmkm.jpg
 date=2017-07-31
 URL=https://streamango.com/f/eeakcnldeknlqlmn/Odysseus_S01E11_mp4
 
 type=video
 name=E12___Telemachus confronts Ulysses (2)
-thumb=
+thumb=https://content.fruithosted.net/splash/dcbltomtqkebskba/qfaqolkblfkbkffc.jpg
 date=2017-07-31
 URL=https://streamango.com/f/dcbltomtqkebskba/Odysseus_S01E12_mp4
