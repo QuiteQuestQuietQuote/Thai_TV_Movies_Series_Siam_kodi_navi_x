@@ -70,6 +70,14 @@ player=default
 rating=-1.00
 
 type=playlist
+name=Lingerie (2009)
+thumb=https://image.tmdb.org/t/p/w640/jdzMhHNIh3Tf0t766QUTyHTmn4x.jpg
+date=2017-08-03
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Lingerie.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=Odysseus (2013)
 thumb=https://image.tmdb.org/t/p/w640/bg4pJ4V1JenzAhgFPMzJLuEJuJ6.jpg
 date=2017-07-31
