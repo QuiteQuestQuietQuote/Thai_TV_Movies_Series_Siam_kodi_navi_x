@@ -1,8 +1,8 @@
 ﻿version=1
-background=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
+background=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
-logo=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
+logo=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
+thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -32,10 +32,10 @@ URL=
 
 
 type=video
-name=Atomic Blonde (2017) RUS
+name=Atomic Blonde (2017) ENG HD-TS.x264-CPG
 thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
-date=2017-07-30
-URL=https://openload.co/f/JZvAMUL8Cgs/RUS_Atomic_Blonde_2017_TS
+date=2017-08-03
+URL=https://openload.co/f/eBiBxbPwwZQ/AB2017.HD-TS.x264-CPG.mkv.mp4
 
 type=video
 name=Valerian and the City of a Thousand Planets (2017) ENG HDCAM.X264-SeeHD
@@ -209,23 +209,23 @@ thumb=https://image.tmdb.org/t/p/w640/sxutq7sXcaMy8b4OguaWZwWrchM.jpg
 date=2017-06-30
 URL=https://streamango.com/f/crkpcatklcmelbtb/Free_State_of_Jones_2016
 
+
+
+
+
+
+
+
+
 # 2775957
 type=video
-name=How to Be a Latin Lover (2017) ENG updated WEB-DL.H264.AC3-EVO
+name=How to Be a Latin Lover (2017) ENG updated BR 1080p
 thumb=http://image.tmdb.org/t/p/w500/wvXCBYFDwAQSj3nrRAoBSpX2N8J.jpg
-date=2017-08-01
-URL=https://openload.co/f/0wW4a_IEqd4/H-L-2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2017-08-03
+URL=https://openload.co/f/ZjXD7J0aK0M/How.to.Be.a.Latin.Lover.2017.1080p.BluRay.x264-DRONES.mkv.mp4
 player=default
 rating=-1.00
 description=An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world./description
-
-
-
-
-
-
-
-
 
 type=video
 name=Everything, Everything (2017) ENG BR 1080p
@@ -669,6 +669,17 @@ URL=
 
 
 
+type=video
+name=The Mummy (2017) ENG HDRip_x264_AC3_5.1_-_MRG
+thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
+date=2017-08-03
+URL=https://openload.co/f/gNWQ7jkt2ng/The_Mummy_2017_720p_HDRip_x264_AC3_5.1_-_MRG.mkv.mp4
+type=video
+name=The Mummy (2017) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
+date=2017-07-12
+URL=https://openload.co/f/Rm4mY3qddMU/The.Mummy.2017.1080p.KORSUB.HDRip.x264.AC32.0.ThaIRonG-CpT.mkv.mp4
+
 
 type=video
 name=Alien: Covenant (2017) ENG BR 1080p
@@ -744,11 +755,7 @@ thumb=https://image.tmdb.org/t/p/w640/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
 date=2017-07-17
 URL=https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264..ThaIRonG.CtHts_-_CpT.mkv.mp4
 
-type=video
-name=The Mummy (2017) CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
-date=2017-07-12
-URL=https://openload.co/f/Rm4mY3qddMU/The.Mummy.2017.1080p.KORSUB.HDRip.x264.AC32.0.ThaIRonG-CpT.mkv.mp4
+
 
 
 type=video
@@ -832,14 +839,19 @@ URL=
 
 
 
-
-
+# 120
+type=video
+name=From Bangkok to Mandalay (2016)
+thumb=https://image.tmdb.org/t/p/w640/f5Ulo70SZjXfWEeIOwYYG0J6MS2.jpg
+date=2017-08-03
+URL=https://streamango.com/f/elnqbqnqodrapqpa/_From_Bangkok_to_Mandalay_mp4
 
 type=video
 name=A Hologram for the King (2016)
 thumb=https://image.tmdb.org/t/p/w640/dDHJBd2iv7KTDzI7ybNLs31vvkM.jpg
 date=2017-08-01
 URL=https://streamango.com/f/lrrtlctcbfppoctb/A_Hologram_for_the_King_mp4
+
 
 # 118
 type=video
@@ -855,6 +867,7 @@ name=Unforgettable (2017) TH
 thumb=http://image.tmdb.org/t/p/w500/eUGehaQhjc9Q8kqlZP16akfx7R4.jpg
 date=2017-07-30
 URL=https://openload.co/f/VYjEqdwOIe4/%7BMINI_Super-HQ%7D_Unforgettable.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+
 
 type=video
 name=Siam Square (2017)
