@@ -45,6 +45,238 @@ URL=
 
 
 
+
+
+type=video
+name=155xxxxxxxxxxxxxxxxxxxxShades Of Kink Vol. 7 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Shades-Of-Kink-Vol.-7-2016.jpg
+date=2017-08-04
+URL=https://openload.co/f/qbcKasn7aOk/Shades_Of_Kink_Vol._7_2016_1080p_DVDRip
+
+type=video
+name=Young & Beautiful 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Young-Beautiful-2016.jpg
+date=2017-08-04
+URL=https://openload.co/f/VJf2OUByBmU/Young_%26_Beautiful_2016_1080p_DVDRip
+
+type=video
+name=Fucking Berlin (2016)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Fucking-Berlin-2016.jpg
+date=2017-08-04
+URL=https://openload.co/f/FsSCSALR__Q/Fucking_Berlin_%282016%29
+
+type=video
+name=Jism Ka Nasha (2016)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Jism-Ka-Nasha-2016.jpg
+date=2017-08-04
+URL=https://openload.co/f/pzOrrgpFwRU/Jism_Ka_Nasha_%282016%29
+
+type=video
+name=Der Bumsladen Boss (1973)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Der-Bumsladen-Boss-1973.jpg
+date=2017-08-04
+URL=https://openload.co/f/Wq9zdEC3UAQ/Der_Bumsladen_Boss_%281973%29
+
+type=video
+name=El Amor de Gabriela XXX (1992)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/El-Amor-de-Gabriela-XXX-1992.jpg
+date=2017-08-04
+URL=https://openload.co/f/fnd4Ik7AT_E/El_Amor_de_Gabriela_XXX_%281992%29
+
+type=video
+name=Desires of Innocence (1997)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Desires-of-Innocence-1997.jpg
+date=2017-08-04
+URL=https://openload.co/f/h6vdcFKa2gs/Desires_of_Innocence_%281997%29
+
+type=video
+name=Never Travel on a One Way Ticket (1987)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Never-Travel-on-a-One-Way-Ticket-1987.jpg
+date=2017-08-04
+URL=https://openload.co/f/bO9PzkI569U/Never_Travel_on_a_One_Way_Ticket_%281987%29
+
+type=video
+name=Teen Injections 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Teen-Injections-2016.jpg
+date=2017-08-04
+URL=https://openload.co/f/2S267QLtPfY/Teen_Injections_2016_1080p_DVDRip
+
+type=video
+name=Disciplined Teens 5 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Disciplined-Teens-5-2016.jpg
+date=2017-08-04
+URL=https://openload.co/f/NiZ4db58jP8/Disciplined_Teens_5_2016_1080p_DVDRip
+
+type=video
+name=POV Perfection 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/POV-Perfection-2016.jpg
+date=2017-08-04
+URL=https://openload.co/f/W8LPJZhCutA/POV_Perfection_2016_1080p_DVDRip
+
+type=video
+name=Wet Dreams 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Wet-Dreams-2016.jpg
+date=2017-08-04
+URL=https://openload.co/f/o8gDbY1wvSo/Wet_Dreams_2016_1080p_DVDRip
+
+type=video
+name=Shared For The First Time 2 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Shared-For-The-First-Time-2-2016.jpg
+date=2017-08-04
+URL=https://openload.co/f/J2NXSD0oUDA/Shared_For_The_First_Time_2_2016_1080p_DVDRip
+
+type=video
+name=AJ’s Angels 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/AJ%E2%80%99s-Angels-2016.jpg
+date=2017-08-04
+URL=https://openload.co/f/G69CL0RJOEk/AJ%27s_Angels_2016_1080p_DVDRip
+
+type=video
+name=Hustawka (2010)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Hustawka-2010.jpg
+date=2017-08-04
+URL=https://openload.co/f/mi4686IktLM/Hustawka.2010.HDRIP.mp4
+
+type=video
+name=Terrible Teens 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Terrible-Teens-2016.jpg
+date=2017-08-04
+URL=https://openload.co/f/-aVffLFdA3Q/Terrible_Teens_2016_1080p_DVDRip
+
+type=video
+name=Malena [2000]
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Malena-2000.jpg
+date=2017-08-04
+URL=https://openload.co/f/_fCoN8bp1jc/Malena_%5B2000%5D
+
+type=video
+name=Unfaithful [2002]
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Unfaithful-2002.jpg
+date=2017-08-04
+URL=https://openload.co/f/c-w9VLfpTMA/Unfaithful_%5B2002%5D
+
+type=video
+name=Romance English X
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Romance-English-X.jpg
+date=2017-08-04
+URL=https://openload.co/f/cJNJNiODGf4/Romance_English_X
+
+type=video
+name=Nasha [2013]
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Nasha-2013.jpg
+date=2017-08-04
+URL=https://openload.co/f/Lkf85MxHkDs/Nasha_%5B2013%5D
+
+type=video
+name=Hot Mistake 2 [2016]
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Hot-Mistake-2-2016.jpg
+date=2017-08-04
+URL=https://openload.co/f/ngvybgFb-Tk/Hot_Mistake_2_%5B2016%5D
+
+type=video
+name=LA RIFFA [1991]
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/LA-RIFFA-1991.jpg
+date=2017-08-04
+URL=https://openload.co/f/f4cNs0Ohy8A/La.Riffa.1991.DVDRIP.680MB.mkv.mp4
+
+type=video
+name=The Dreamers (2003)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/The-Dreamers-2003.jpg
+date=2017-08-04
+URL=https://openload.co/f/mEsIAcOMI1A/The.Dreamer.BR.720p
+
+type=video
+name=Surrender To Seduction 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Surrender-To-Seduction-2016.jpg
+date=2017-08-04
+URL=https://openload.co/f/eLB_ZOo38kg/Surrender_To_Seduction_2016_1080p_DVDRip
+
+type=video
+name=2 Jennifer (2016)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/2-Jennifer-2016.png
+date=2017-08-04
+URL=https://openload.co/f/ge_01HPQsbM/2.Jennifer.2016.720p
+
+type=video
+name=Diary of a Nymphomaniac (2008)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Diary-of-a-Nymphomaniac-2008.jpg
+date=2017-08-04
+URL=https://openload.co/f/mEjyAb2KYrs/Diary.Of.A.Sex.Addict.2008.720p.BRRip
+
+type=video
+name=EuroTrip (2004)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/EuroTrip-2004.jpg
+date=2017-08-04
+URL=https://openload.co/f/2UcON6bb3_s/EuroTrip.2004.720p.Bluray
+
+type=video
+name=All Out Dysfunktion! (2016)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/All-Out-Dysfunktion-2016.jpg
+date=2017-08-04
+URL=https://openload.co/f/Quf7ajoDGK8/All.Out.Dysfunktion.2016.720p
+
+type=video
+name=La padrona e servita (1976)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/La-padrona-%C3%A9-servita-1976.jpg
+date=2017-08-04
+URL=https://openload.co/f/Fl-1UMly-aI/La.Padrona.e.servita.mp4
+
+type=video
+name=Color Of Night (1994)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Color-Of-Night-1994.jpg
+date=2017-08-04
+URL=https://openload.co/f/wZoiduS3ISE/Color.of.Night.1994.720p.Bluray.mp4
+
+type=video
+name=Hemel 2012
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Hemel-2012.jpg
+date=2017-08-04
+URL=https://openload.co/f/g8hBXaAaMeE/Hemel.2012.FESTiVAL.DVDRip.mp4
+
+type=video
+name=I Want My Sister 2 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/09/I-Want-My-Sister-2-2016.jpg
+date=2017-08-04
+URL=https://openload.co/f/4IkqQeJ3pZs/I_Want_My_Sister_2_2016_1080p_DVDRip
+
+type=video
+name=Natacha (2002) XXX
+thumb=http://erotic24hr.com/wp-content/uploads/2016/09/Natacha-2002-XXX.jpg
+date=2017-08-04
+URL=https://openload.co/f/wCUpBiDfE64/Natacha.2002.DVDRip
+
+type=video
+name=Mujeres Acorraladas (1986)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/09/Mujeres-Acorraladas-1986.jpg
+date=2017-08-04
+URL=https://openload.co/f/YEyzgopHaWI/Mujeres.Acorraladas.1986.DVDRip
+
+type=video
+name=Breaking It (1984)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/09/Breaking-It-1984.jpg
+date=2017-08-04
+URL=https://openload.co/f/7X00kN-kGGs/Breaking.It.1984.DVDRip
+
+type=video
+name=Species (1995)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/09/Species-1995.jpg
+date=2017-08-04
+URL=https://openload.co/f/t9sGOaMWgqs/Species.1995.720p.Bluray.mp4
+
+type=video
+name=Nymphomaniac Vol I (2013)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/09/Nymphomaniac-Vol-I-2013.jpg
+date=2017-08-04
+URL=https://openload.co/f/IjQUKw9pPJM/Nymphomaniac.Vol.I.2013.DC.720p.BRRip.mp4
+
+
+
+
+
+
+
+
+
 type=video
 name=118xxxxxxxxxxxxxxxxxxxxSexy Intentions 2016
 thumb=http://erotic24hr.com/wp-content/uploads/2016/09/Sexy-Intentions-2016.jpg
