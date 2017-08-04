@@ -31,6 +31,15 @@ URL=
 
 
 
+
+
+
+type=video
+name=The Emoji Movie (2017) ENG HDCAM_-_UnKnOwN
+thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
+date=2017-08-04
+URL=https://openload.co/f/Z7O8RrljTtc/The_Emoji_Movie_2017_HDCAM_-_UnKnOwN.avi.mp4
+
 type=video
 name=Atomic Blonde (2017) ENG HD-TS.x264-CPG
 thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
@@ -839,6 +848,19 @@ URL=
 
 
 
+
+
+
+
+
+
+
+type=video
+name=From a House on Willow Street (2017)
+thumb=https://image.tmdb.org/t/p/w640/d3aHtMxYUmGAyYrTNk52BqXeOQl.jpg
+date=2017-08-04
+URL=https://openload.co/f/184xHmV20Vg/%7BMINI_Super-HQ%7D_House.on.Willow.Street.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+
 # 120
 type=video
 name=From Bangkok to Mandalay (2016)
@@ -915,8 +937,8 @@ URL=https://openload.co/f/KbWXl01KqVU/Going.in.Style.2017.720p.BluRay.x264_By_Me
 type=video
 name=The Fate of the Furious (2017)
 thumb=http://image.tmdb.org/t/p/w500/iNpz2DgTsTMPaDRZq2tnbqjL2vF.jpg
-date=2017-07-19
-URL=https://openload.co/f/TiWOu8YgH8c/Fast_%26_Furious_8_%281080pHD%29Ba%40siambit_%281%29.mkv.mp4
+date=2017-08-04
+URL=https://openload.co/f/a46s1v2eDpc/%7BMINI_Super-HQ%7D_The.Fate.of.the.Furious.2017.1080p.BrRip.DTS.x264.THB_NongZEZA%40CtHts.mkv.mp4
 player=default
 rating=-1.00
 description=When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before./description
