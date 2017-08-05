@@ -32,7 +32,11 @@ URL=
 
 
 
-
+type=video
+name=Girls Trip (2017) ENG PROPER.v2.HDCAM.x264.AAC-WAVE
+thumb=https://image.tmdb.org/t/p/w640/94nCLn74lBh4pLdZPIad18BpheE.jpg
+date=2017-08-05
+URL=https://openload.co/f/uwllYtiSgoE/Girl.Trip.2017.PROPER.v2.HDCAM.x264.AAC-WAVE.mp4
 
 type=video
 name=The Emoji Movie (2017) ENG HDCAM_-_UnKnOwN
@@ -63,12 +67,6 @@ name=Baby Driver (2017) ENG updated4 HD
 thumb=https://image.tmdb.org/t/p/w640/mBkOBaxjr7IBHGuQS3sSFeyYTM.jpg
 date=2017-07-20
 URL=https://openload.co/f/qbtGrAkyjDE/Baby_Driver_2017_720p_HDCAM_x264_CMovie.co..mp4
-
-type=video
-name=Wish Upon (2017) ENG HDCAM.XviD-MrGrey
-thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
-date=2017-07-28
-URL=https://openload.co/f/Dd-aRB4O5s0/WU.2017.HDCAM.XviD-MrGrey.avi
 
 type=video
 name=All Eyez on Me (2017) ENG updated2 TS
@@ -298,16 +296,6 @@ player=default
 rating=-1.00
 description=A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering./description
 
-# 2773806
-type=video
-name=Gifted (2017) ENG updated BR 1080p
-thumb=http://image.tmdb.org/t/p/w500/7YB2YrMwIm1g8FyZtlvmVDfRnAT.jpg
-date=2017-07-11
-URL=https://openload.co/f/hazPuLoziF8/Gifted.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-player=default
-rating=-1.00
-description=Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother./description
-
 # 2773618
 type=video
 name=The Zookeeper's Wife (2017) ENG updated BR 1080p
@@ -381,6 +369,17 @@ thumb=
 date=
 URL=
 
+
+type=video
+name=Wish Upon (2017) ENG HDCAM.XviD-MrGrey
+thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
+date=2017-07-28
+URL=https://openload.co/f/Dd-aRB4O5s0/WU.2017.HDCAM.XviD-MrGrey.avi
+type=video
+name=Wish Upon (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
+date=2017-08-05
+URL=https://streamango.com/f/sdrlcedflpbdcpnc/V_1_Wish_Upon_mp4
 
 
 type=video
@@ -852,8 +851,51 @@ URL=
 
 
 
+# 2773806
+type=video
+name=Gifted (2017) ENG BR 1080p
+thumb=http://image.tmdb.org/t/p/w500/7YB2YrMwIm1g8FyZtlvmVDfRnAT.jpg
+date=2017-07-11
+URL=https://openload.co/f/hazPuLoziF8/Gifted.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+player=default
+rating=-1.00
+description=Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother./description
+type=video
+name=Gifted (2017) TH
+thumb=http://image.tmdb.org/t/p/w500/7YB2YrMwIm1g8FyZtlvmVDfRnAT.jpg
+date=2017-08-05
+URL=https://streamango.com/f/fsfqlnrnrrpbreen/Gifted_mp4
 
 
+type=video
+name=Tom and Jerry: Willy Wonka and the Chocolate Factory (2017)
+thumb=https://image.tmdb.org/t/p/w640/vh5iYhj80l1inSdep61sF8g1S8m.jpg
+date=2017-08-05
+URL=https://streamango.com/f/notlfsmpcopodapb/Tom_and_Jerry_Willy_Wonka_and_the_Chocolate_Factory_mp4
+
+type=video
+name=3 Generations (2016)
+thumb=https://image.tmdb.org/t/p/w640/A40ko85pS3yrkzeYVuVKB8Xbjjq.jpg
+date=2017-08-05
+URL=https://streamango.com/f/abpknbenretatqmk/About_Ray_3_Generations_mp4
+
+type=video
+name=Enemies In-Law (2015)
+thumb=https://image.tmdb.org/t/p/w640/yhDxm1p0kC01eSDNd5Hw8chu0um.jpg
+date=2017-08-05
+URL=https://streamango.com/f/rlfrpporsrmdmkkb/Enemies_In-Law_mp4
+
+type=video
+name=Good Guys Go to Heaven, Bad Guys Go to Pattaya (2016)
+thumb=https://image.tmdb.org/t/p/w640/p7TFdcE2E9aqwqKMxQEPZZxDjv8.jpg
+date=2017-08-05
+URL=https://streamango.com/f/noqbtnnonacmcsab/Pattaya_mp4
+
+type=video
+name=The 100th Love with You (2017)
+thumb=https://image.tmdb.org/t/p/w640/5gZRPrbrAcKPt2NE5zJdTam4tEu.jpg
+date=2017-08-05
+URL=https://streamango.com/f/mlrasafpseebbcpd/The_100th_Love_With_You_Kimi_to_100-kaime_no_koi_100_mp4
 
 type=video
 name=From a House on Willow Street (2017)

@@ -50,10 +50,10 @@ URL=
 
 
 type=video
-name=S07-E04___The Spoils of War___August 6, 2017
+name=S07-E04___The Spoils of War___Star India PVT
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/d0zSl5pCzl1dFcQpMtkQIdT6lcg.jpg
 date=2017-07-31
-URL=
+URL=https://openload.co/f/HtGelnIrqV0/Game.of.Thrones.S07E04.AAC.mp4
 
 
 type=video
