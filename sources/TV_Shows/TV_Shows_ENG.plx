@@ -102,6 +102,14 @@ player=default
 rating=-1.00
 
 type=playlist
+name=The Girl's Guide to Depravity (2012)
+thumb=https://image.tmdb.org/t/p/w640/ajWfdIUgawHoxoOwYcURCeOXofe.jpg
+date=2017-08-05
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/The_Girls_Guide_to_Depravity.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=The Hunger (1997)
 thumb=https://image.tmdb.org/t/p/w640/cOewcXR8jrGJrxI0VSJdVkHZDuR.jpg
 date=2017-07-26
