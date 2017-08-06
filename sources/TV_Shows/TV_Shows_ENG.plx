@@ -78,6 +78,14 @@ player=default
 rating=-1.00
 
 type=playlist
+name=Life on Top (2009)
+thumb=https://image.tmdb.org/t/p/w640/3ZGRPys4olQ10TmLEQCQcNM2kc4.jpg
+date=2017-08-06
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Life_on_Top.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=Lingerie (2009)
 thumb=https://image.tmdb.org/t/p/w640/jdzMhHNIh3Tf0t766QUTyHTmn4x.jpg
 date=2017-08-03
