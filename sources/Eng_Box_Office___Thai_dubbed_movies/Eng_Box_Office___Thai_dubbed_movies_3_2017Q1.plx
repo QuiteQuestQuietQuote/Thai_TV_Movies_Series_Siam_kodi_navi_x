@@ -45,12 +45,6 @@ date=2017-08-04
 URL=https://openload.co/f/Z7O8RrljTtc/The_Emoji_Movie_2017_HDCAM_-_UnKnOwN.avi.mp4
 
 type=video
-name=Atomic Blonde (2017) ENG HD-TS.x264-CPG
-thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
-date=2017-08-03
-URL=https://openload.co/f/eBiBxbPwwZQ/AB2017.HD-TS.x264-CPG.mkv.mp4
-
-type=video
 name=Valerian and the City of a Thousand Planets (2017) ENG HDCAM.X264-SeeHD
 thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
 date=2017-07-23
@@ -370,6 +364,19 @@ date=
 URL=
 
 
+
+type=video
+name=Atomic Blonde (2017) ENG HD-TS.x264-CPG
+thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
+date=2017-08-03
+URL=https://openload.co/f/eBiBxbPwwZQ/AB2017.HD-TS.x264-CPG.mkv.mp4
+type=video
+name=Atomic Blonde (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
+date=2017-08-06
+URL=https://streamango.com/f/fddstodelcktpcnp/V_1_Atomic_Blonde_mp4
+
+
 type=video
 name=Wish Upon (2017) ENG HDCAM.XviD-MrGrey
 thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
@@ -395,10 +402,10 @@ URL=https://openload.co/f/nxn3KkW35Qo/Dunkirk_%282017%29_%E0%B8%94%E0%B8%B1%E0%B
 
 
 type=video
-name=War for the Planet of the Apes (2017) ENG updated CAM.READNFO.XViD-26k
+name=War for the Planet of the Apes (2017) ENG updated TS x264-TiTAN
 thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
-date=2017-07-23
-URL=https://openload.co/f/snL6ZBXMVhQ/O-A-W-A-R-O-A.2017.CAM.READNFO.XViD-26k.avi.mp4
+date=2017-08-06
+URL=https://openload.co/f/UzFG6gf7Bws/A-W-TiTAN.mp4
 type=video
 name=War for the Planet of the Apes (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
