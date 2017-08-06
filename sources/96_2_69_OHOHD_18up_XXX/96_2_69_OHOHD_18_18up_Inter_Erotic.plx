@@ -20,24 +20,255 @@ rating=-1.00
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 type=video
-name=
-thumb=
-URL=
+name=194xxxxxxxxxxxxxxxxxxxxSchnick Schnack Schnuck (2015)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Schnick-Schnack-Schnuck-2015.jpg
+date=2017-08-06
+URL=https://openload.co/f/ouUa8zQ4J2I/Schnick.2015.dvdrip_%5B18%2B%5D
 
+type=video
+name=The Girlfriend Experience (2009)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/The-Girlfriend-Experience-2009-%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%81.jpg
+date=2017-08-06
+URL=https://openload.co/f/CFMnXpl5OIY/The_Girlfriend_Experience_%5B2009%5D_BDRip.H.264.1080p_%5B18%2B%5D
 
+type=video
+name=What’s The Occasion 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/What%E2%80%99s-The-Occasion-2016.jpg
+date=2017-08-06
+URL=https://openload.co/f/TSqKoZn23ss/What%27s_The_Occasionh_2016_1080p_DVDRip
 
+type=video
+name=Suicide Squad XXX An Axel Braun Parody 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Suicide-Squad-XXX-An-Axel-Braun-Parody-2016.jpg
+date=2017-08-06
+URL=https://openload.co/f/FZovBLKrQSU/Suicide_Squad_XXX_An_Axel_Braun_Parody_2016_1080p_DVDRip
 
+type=video
+name=Anal Beauty Vol. 4 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Anal-Beauty-Vol.-4-2016.jpg
+date=2017-08-06
+URL=https://openload.co/f/eDVPQ0n32G4/Anal_Beauty_Vol._4_2016_1080p_DVDRip
 
+type=video
+name=American Hustle XXX Porn Parody 2014
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/American-Hustle-XXX-Porn-Parody-2014.jpg
+date=2017-08-06
+URL=https://openload.co/f/x3XGI-oMhho/American_Hustle_XXX_Porn_Parody_2014_1080p_DVDRip
 
+type=video
+name=Lheritiere- Revenge Of A Daughter
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Lheritiere-Revenge-Of-A-Daughter.jpg
+date=2017-08-06
+URL=https://openload.co/f/iRXDiLdl69s/Lheritiere-_Revenge_Of_A_Daughter_Erotic
 
+type=video
+name=Q Sexual Desire (2011)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Q-Sexual-Desire-2011-%E0%B8%81%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B1%E0%B8%99.jpg
+date=2017-08-06
+URL=https://openload.co/f/Bly8ool5btw/Q_Sexual_Desire_%282011%29_%3A_%E0%B8%81%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B1%E0%B8%99_%5B18%2B%5D
 
+type=video
+name=Bonny & Clide 2010
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Bonny-Clide-2010.jpg
+date=2017-08-06
+URL=https://openload.co/f/o_bMJRNt2Gg/Bonny_%26_Clide_2010_1080p_DVDRip_Erotic
 
+type=video
+name=The Submission Of Emma Marx 2013
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/The-Submission-Of-Emma-Marx-2013.jpg
+date=2017-08-06
+URL=https://openload.co/f/A9ihoE5AitQ/The_Submission_Of_Emma_Marx_2013_1080p_DVDRip
 
+type=video
+name=Dirty Romance 2 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Dirty-Romance-2-2016.jpg
+date=2017-08-06
+URL=https://openload.co/f/vOF3bBTdj_U/Dirty_Romance_2_2016_1080p_DVDRip_Erotic
 
+type=video
+name=Dream Affection 2011
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Dream-Affection-2011.jpg
+date=2017-08-06
+URL=https://openload.co/f/EHz2NzwClOU/Dream.Affection.2011_Erotic
 
+type=video
+name=Power play 1999
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Power-play-1999.jpg
+date=2017-08-06
+URL=https://openload.co/f/cVkQjzQHu8w/Powerplay.1999.DVDRip_Erotic
 
+type=video
+name=Electra 1996
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Electra-1996.jpg
+date=2017-08-06
+URL=https://openload.co/f/oBFPLwX2V_o/Electra.1996.DVDRip_Erotic
 
+type=video
+name=Fatal Lessons – The Good Teacher 2004
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Fatal-Lessons-The-Good-Teacher-2004.jpg
+date=2017-08-06
+URL=https://openload.co/f/G6YUq77xss4/Fatal.Lessons%3A.The.Good.Teacher.2004.DVDRip_Erotic
+
+type=video
+name=Bloody Snow 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Bloody-Snow-2016.jpg
+date=2017-08-06
+URL=https://openload.co/f/RqzRBwunBgk/Bloody.Snow.2016.WebRip_Erotic
+
+type=video
+name=Scorned 1994
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Scorned-1994.jpg
+date=2017-08-06
+URL=https://openload.co/f/RWKFhiBtQdY/Scorned.1994.DVDRip_Erotic
+
+type=video
+name=The Final Girl 2010
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/The-Final-Girl-2010.jpg
+date=2017-08-06
+URL=https://openload.co/f/bCDDUk2NN3c/The.Final.Girl.2010.DVDRip_Erotic
+
+type=video
+name=Insatiable Cravings 2006
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Insatiable-Cravings-2006.jpg
+date=2017-08-06
+URL=https://openload.co/f/22zYYghGAVQ/Insatiable.Cravings.2006.DVDRip_Erotic
+
+type=video
+name=Sexual Cravings (2006)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Sexual-Cravings-2006-2.jpg
+date=2017-08-06
+URL=https://openload.co/f/STsZG_1B4Rs/Sexual.Cravings.2006.DVDRip.300MB
+
+type=video
+name=Der ma vaere en sengekant! (1975)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Der-ma-v%C3%A6re-en-sengekant-1975.jpg
+date=2017-08-06
+URL=https://openload.co/f/u3yPaunatbs/Der.ma.vaere.en.senge.ant.1975_Erotic
+
+type=video
+name=Comment Je Suis Devenue Une Putain
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Comment-Je-Suis-Devenue-Une-Putain.jpg
+date=2017-08-06
+URL=https://openload.co/f/TZIfgLLZ15M/Comment_Je_Suis_Devenue_Une_Putain_Erotic
+
+type=video
+name=Unfaithful Wives 2
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Unfaithful-Wives-2.jpg
+date=2017-08-06
+URL=https://openload.co/f/eeDv40U3i14/Unfaithful_Wives_2_Erotic
+
+type=video
+name=The Sex Files – A Dark XXX Parody
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/The-Sex-Files-A-Dark-XXX-Parody.jpg
+date=2017-08-06
+URL=https://openload.co/f/5rZXo7LcgjI/The_Sex_Files_-_A_Dark_XXX_Parody_Erotic
+
+type=video
+name=The Story of Virginie Gervais
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/The-Story-of-Virginie-Gervais.jpg
+date=2017-08-06
+URL=https://openload.co/f/nTV687FKTpU/The_Story_of_Virginie_Gervais_Erotic
+
+type=video
+name=Panique Dans Les Bois
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Panique-Dans-Les-Bois.jpg
+date=2017-08-06
+URL=https://openload.co/f/N7AnL1JPo80/Panique_Dans_Les_Bois_Erotic
+
+type=video
+name=Ines Escort Deluxe
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Ines-Escort-Deluxe.jpg
+date=2017-08-06
+URL=https://openload.co/f/St57VwNZVFA/Ines_Escort_Deluxe_Erotic
+
+type=video
+name=Where the Truth Lies 2005
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Where-the-Truth-Lies-2005.jpg
+date=2017-08-06
+URL=https://openload.co/f/9ucg-VBvNgs/Where_the_Truth_Lies_2005_BRRip_720p_950MB.mkv.mp4_%5B18%2B%5D
+
+type=video
+name=The-Night-Before-Enlisting-2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/The-Night-Before-Enlisting-2016.jpg
+date=2017-08-06
+URL=https://openload.co/f/pHMV6GdUI0c/The_Night_Before_Enlisting_720p_HDRip_%5B18%2B%5D
+
+type=video
+name=Cosmic Sex (2015)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Cosmic-Sex-2015.jpg
+date=2017-08-06
+URL=https://openload.co/f/-_ZxT22HTmY/Cosmic_Sex_%282015%29_%5B18%2B%5D
+
+type=video
+name=Meine Frau Ist Ein Swinger
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Meine-Frau-Ist-Ein-Swinger.jpg
+date=2017-08-06
+URL=https://openload.co/f/NKDzLU7BNlg/Meine_Frau_Ist_Ein_Swinger_Erotic
+
+type=video
+name=Young Harlots- Italian Job
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Young-Harlots-Italian-Job.jpg
+date=2017-08-06
+URL=https://openload.co/f/KljReTl3Vgo/Young_Harlots-_Italian_Job_Erotic
+
+type=video
+name=Girlfriend Experience 10 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Girlfriend-Experience-10-2016.jpg
+date=2017-08-06
+URL=https://openload.co/f/4vFiO85OlHI/Girlfriend_Experience_10_2016_1080p_DVDRip_Erotic
+
+type=video
+name=An Incestuous Affair 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/An-Incestuous-Affair-2016.jpg
+date=2017-08-06
+URL=https://openload.co/f/yfqB5kZc_Tc/An_Incestous_Affair_2016_1080p_DVDRip_Erotic
+
+type=video
+name=Should I Say Yes 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Should-I-Say-Yes-2016.jpg
+date=2017-08-06
+URL=https://openload.co/f/DsjfL6VQK-g/Should_I_Say_Yese_2016_1080p_DVDRip_Erotic
+
+type=video
+name=Chanel Preston & Her Girlfriends 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Chanel-Preston-Her-Girlfriends-2016.jpg
+date=2017-08-06
+URL=https://openload.co/f/D0SCuVmWxBE/Chanel_Preston_%26_Her_Girlfriends_2016_1080p_DVDRip_Erotic
+
+type=video
+name=Bridesmaids XXX Porn Parody 2011
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/Bridesmaids-XXX-Porn-Parody-2011.jpg
+date=2017-08-06
+URL=https://openload.co/f/GOTYYgsSXvU/Bridesmaids_XXX_Porn_Parody_2011_1080p_DVDRip_Erotic
+
+type=video
+name=XConfessions Vol. 6 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/XConfessions-Vol.-6-2016.jpg
+date=2017-08-06
+URL=https://openload.co/f/OjPEoG1YO4c/XConfessions_Vol._6_2016_1080p_DVDRip_Erotic
+
+type=video
+name=ariella 1980
+thumb=http://erotic24hr.com/wp-content/uploads/2016/10/ariella-1980.jpg
+date=2017-08-06
+URL=https://openload.co/f/dnz4Cw06d9Y/Ariella.1980_Erotic
 
 
 
