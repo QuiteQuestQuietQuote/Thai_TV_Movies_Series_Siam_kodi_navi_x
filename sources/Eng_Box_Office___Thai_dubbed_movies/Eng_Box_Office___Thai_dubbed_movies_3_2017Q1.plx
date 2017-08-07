@@ -437,6 +437,22 @@ date=2017-06-27
 URL=https://openload.co/f/lHL-fIbHpZQ/Transformers_The_Last_Knight_2017.mkv.mp4
 
 
+type=video
+name=Guardians of the Galaxy Vol. 2 (2017) ENG HDRip.XviD.AC3-EVO
+thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
+date=2017-08-07
+URL=https://openload.co/f/mxTXS5iU6yo/g.o.t.g.Vol.2.2017.HDRip.XviD.AC3-EVO.avi.mp4
+# 2773787
+type=video
+name=Guardians of the Galaxy Vol. 2 (2017) TH CAM
+thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
+date=2017-07-29
+URL=https://openload.co/f/oI5x7JsUd_o/Guardians_of_the_Galaxy_Vol.2_2017
+player=default
+rating=-1.00
+description=The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage./description
+
+
 
 
 
@@ -471,15 +487,6 @@ date=2017-06-15
 URL=https://openload.co/f/zgllm-DQfTc/Pirates_of_the_Caribbean-_Dead_Men_Tell_No_Tales_%282017%29.mp4
 player=default
 rating=-1.00
-
-# 2773787
-type=video
-name=Guardians of the Galaxy Vol. 2 (2017) CAM
-thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
-URL=https://openload.co/f/oI5x7JsUd_o/Guardians_of_the_Galaxy_Vol.2_2017
-player=default
-rating=-1.00
-description=The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage./description
 
 # 2773691
 type=video

@@ -48,12 +48,23 @@ date=2017-06-29
 URL=
 
 
+type=video
+name=S07-E05___Eastwatch___August 13, 2017
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/kbZtgYExYjnnQPhX8wJ5TeG5cmQ.jpg
+date=2017-08-07
+URL=
+
 
 type=video
-name=S07-E04___The Spoils of War___Star India PVT
+name=S07-E04___The Spoils of War___1080p.AMZN.WEB-DL
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/d0zSl5pCzl1dFcQpMtkQIdT6lcg.jpg
-date=2017-07-31
-URL=https://openload.co/f/HtGelnIrqV0/Game.of.Thrones.S07E04.AAC.mp4
+date=2017-08-07
+URL=https://openload.co/f/PnXutIvaXUw/Game.of.Thrones.S07E04.The.Spoils.of.War.1080p.AMZN.WEBRip.HEVC.x265-GoT.mkv.mp4
+type=video
+name=S07-E04___The Spoils of War___TH SUB
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/d0zSl5pCzl1dFcQpMtkQIdT6lcg.jpg
+date=2017-08-07
+URL=https://drive.google.com/open?id=0ByEKWwScMxXDMkt3cFp1My1IV1E
 
 
 type=video
