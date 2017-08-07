@@ -30,7 +30,11 @@ URL=
 
 
 
-
+type=video
+name=The Dark Tower (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
+date=2017-08-07
+URL=https://openload.co/f/p83iTdXYSh4/The_Dark_Tower_2017_TELESYNC_Russian.avi.mp4
 
 type=video
 name=Girls Trip (2017) ENG PROPER.v2.HDCAM.x264.AAC-WAVE
