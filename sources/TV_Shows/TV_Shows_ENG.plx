@@ -110,6 +110,14 @@ player=default
 rating=-1.00
 
 type=playlist
+name=Red Shoe Diaries (1992)
+thumb=https://image.tmdb.org/t/p/w640/zAgoysKU6eXNThm1nBcVAAd4imi.jpg
+date=2017-08-07
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Red_Shoe_Diaries.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=The Girl's Guide to Depravity (2012)
 thumb=https://image.tmdb.org/t/p/w640/ajWfdIUgawHoxoOwYcURCeOXofe.jpg
 date=2017-08-05
