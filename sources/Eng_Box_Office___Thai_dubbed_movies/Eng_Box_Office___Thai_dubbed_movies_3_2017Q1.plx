@@ -1,8 +1,8 @@
 ﻿version=1
-background=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
+background=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
-logo=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
+logo=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
+thumb=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -29,6 +29,15 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=Wind River (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
+date=2017-08-08
+URL=https://openload.co/f/nOxFZxG8S1E/Wind_River_2017_CAMRip_Russian.avi.mp4
 
 type=video
 name=The Dark Tower (2017) RUS
@@ -218,6 +227,24 @@ URL=https://streamango.com/f/crkpcatklcmelbtb/Free_State_of_Jones_2016
 
 
 
+type=video
+name=
+thumb=
+date=
+URL=
+
+type=video
+name=Fever (2016)
+thumb=https://image.tmdb.org/t/p/w640/87D1KMjPSg6DUeglvqbXTaPy6fh.jpg
+date=2017-08-08
+URL=http://entervideo.net/watch/c584c88f87403ff
+
+type=video
+name=The Garden of Eden (2008)
+thumb=https://image.tmdb.org/t/p/w640/6DTJui0gH1FhEAOU6lO1Gwf3WdS.jpg
+date=2017-08-08
+URL=http://entervideo.net/watch/cccb5b84e4a4361
+
 
 
 
@@ -375,10 +402,10 @@ thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
 date=2017-08-03
 URL=https://openload.co/f/eBiBxbPwwZQ/AB2017.HD-TS.x264-CPG.mkv.mp4
 type=video
-name=Atomic Blonde (2017) TH CAM
+name=Atomic Blonde (2017) TH updated TS
 thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
-date=2017-08-06
-URL=https://streamango.com/f/fddstodelcktpcnp/V_1_Atomic_Blonde_mp4
+date=2017-08-08
+URL=https://openload.co/f/PicDXIigpMA/Atomic.Blond.2017.HD-TS.x264.ThaiRong_CpT%40CtHts.mkv.mp4
 
 
 type=video
@@ -435,17 +462,17 @@ thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
 date=2017-07-29
 URL=https://openload.co/f/T3EpPZ0lkJI/Transformers.The.Last.Knight.2017.720p.SUBBED.TS.XViD-26k.avi.mp4
 type=video
-name=Transformers: The Last Knight (2017) TH CAM updated TS
+name=Transformers: The Last Knight (2017) TH CAM updated2 TS
 thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
-date=2017-06-27
-URL=https://openload.co/f/lHL-fIbHpZQ/Transformers_The_Last_Knight_2017.mkv.mp4
+date=2017-08-08
+URL=https://openload.co/f/NTZrlanyN54/Transformers_The_Last_Knight_2017_%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2_zoom_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87.mkv.mp4
 
 
 type=video
-name=Guardians of the Galaxy Vol. 2 (2017) ENG HDRip.XviD.AC3-EVO
+name=Guardians of the Galaxy Vol. 2 (2017) ENG BR 1080p
 thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
-date=2017-08-07
-URL=https://openload.co/f/mxTXS5iU6yo/g.o.t.g.Vol.2.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2017-08-08
+URL=https://openload.co/f/OGhAhmckJAA/Guardians.of.the.Galaxy.Vol.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 # 2773787
 type=video
 name=Guardians of the Galaxy Vol. 2 (2017) TH CAM
@@ -703,8 +730,8 @@ URL=https://openload.co/f/gNWQ7jkt2ng/The_Mummy_2017_720p_HDRip_x264_AC3_5.1_-_M
 type=video
 name=The Mummy (2017) CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
-date=2017-07-12
-URL=https://openload.co/f/Rm4mY3qddMU/The.Mummy.2017.1080p.KORSUB.HDRip.x264.AC32.0.ThaIRonG-CpT.mkv.mp4
+date=2017-08-08
+URL=https://openload.co/f/Q81dbsjEMgg/The.Mummy.2017.1080p.WEB-DL.DD5.1.H264.ThaiRong5.1_CpT%40CtHts_%281%29.mkv.mp4
 
 
 type=video
@@ -882,14 +909,14 @@ type=video
 name=Gifted (2017) TH
 thumb=http://image.tmdb.org/t/p/w500/7YB2YrMwIm1g8FyZtlvmVDfRnAT.jpg
 date=2017-08-05
-URL=https://streamango.com/f/fsfqlnrnrrpbreen/Gifted_mp4
+URL=https://openload.co/f/sz6U3ztiNsQ/%7BMINI_Super-HQ%7D_Gifted.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
 type=video
 name=Tom and Jerry: Willy Wonka and the Chocolate Factory (2017)
 thumb=https://image.tmdb.org/t/p/w640/vh5iYhj80l1inSdep61sF8g1S8m.jpg
-date=2017-08-05
-URL=https://streamango.com/f/notlfsmpcopodapb/Tom_and_Jerry_Willy_Wonka_and_the_Chocolate_Factory_mp4
+date=2017-08-08
+URL=https://openload.co/f/kzrBNbHs-hs/Tom.and.Jerry.Willy.Wonka.and.the.Chocolate.Factory.2017.1080p.WEB-DL.AC3.x264.CtHts_-_PORSC.mkv.mp4
 
 type=video
 name=3 Generations (2016)
@@ -906,14 +933,14 @@ URL=https://streamango.com/f/rlfrpporsrmdmkkb/Enemies_In-Law_mp4
 type=video
 name=Good Guys Go to Heaven, Bad Guys Go to Pattaya (2016)
 thumb=https://image.tmdb.org/t/p/w640/p7TFdcE2E9aqwqKMxQEPZZxDjv8.jpg
-date=2017-08-05
-URL=https://streamango.com/f/noqbtnnonacmcsab/Pattaya_mp4
+date=2017-08-08
+URL=https://openload.co/f/cF48r51N3YU/%7BMINI_Super-HQ%7D_Pattaya.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 type=video
 name=The 100th Love with You (2017)
 thumb=https://image.tmdb.org/t/p/w640/5gZRPrbrAcKPt2NE5zJdTam4tEu.jpg
-date=2017-08-05
-URL=https://streamango.com/f/mlrasafpseebbcpd/The_100th_Love_With_You_Kimi_to_100-kaime_no_koi_100_mp4
+date=2017-08-08
+URL=https://openload.co/f/KOj7qhNTO2s/%7BMINI_Super-HQ%7D_The.100th.Love.with.You.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 type=video
 name=From a House on Willow Street (2017)
