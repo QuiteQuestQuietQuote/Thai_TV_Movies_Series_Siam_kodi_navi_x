@@ -118,6 +118,14 @@ player=default
 rating=-1.00
 
 type=playlist
+name=Satisfaction (2007)
+thumb=https://image.tmdb.org/t/p/w640/iSak0HSzZGnMHoo65NNatEbHqqr.jpg
+date=2017-08-09
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Satisfaction.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=The Girl's Guide to Depravity (2012)
 thumb=https://image.tmdb.org/t/p/w640/ajWfdIUgawHoxoOwYcURCeOXofe.jpg
 date=2017-08-05

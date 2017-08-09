@@ -231,19 +231,19 @@ type=video
 name=
 thumb=
 date=
-URL=
+URL=http://entervideo.net/watch/cccb5b84e4a4361
 
 type=video
-name=Fever (2016)
+name=Fever (2016) ENG SUB
 thumb=https://image.tmdb.org/t/p/w640/87D1KMjPSg6DUeglvqbXTaPy6fh.jpg
 date=2017-08-08
-URL=http://185.176.192.40/vids/fever_2016___586eb881836f6.mp4
+URL=https://openload.co/f/q3WYcYtAU4Q/Fever_2016_EngSub_720p_Untouched_WEBHD_AVC_AAC-DDR.mp4
 
 type=video
 name=The Garden of Eden (2008)
 thumb=https://image.tmdb.org/t/p/w640/6DTJui0gH1FhEAOU6lO1Gwf3WdS.jpg
 date=2017-08-08
-URL=http://entervideo.net/watch/cccb5b84e4a4361
+URL=http://50.7.164.242:8182/h2obys7w5wu4tqukwzklnhdedf3dzpx3zqi6iiohkj2lquxrzi523u7phm/ba33dge0fmwy.mp4
 
 
 
@@ -468,20 +468,7 @@ date=2017-08-08
 URL=https://openload.co/f/NTZrlanyN54/Transformers_The_Last_Knight_2017_%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2_zoom_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87.mkv.mp4
 
 
-type=video
-name=Guardians of the Galaxy Vol. 2 (2017) ENG BR 1080p
-thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
-date=2017-08-08
-URL=https://openload.co/f/OGhAhmckJAA/Guardians.of.the.Galaxy.Vol.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-# 2773787
-type=video
-name=Guardians of the Galaxy Vol. 2 (2017) TH CAM
-thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
-date=2017-07-29
-URL=https://openload.co/f/oI5x7JsUd_o/Guardians_of_the_Galaxy_Vol.2_2017
-player=default
-rating=-1.00
-description=The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage./description
+
 
 
 
@@ -775,6 +762,18 @@ URL=https://openload.co/f/_vlz-uFXxbg/%5BT%5DThe_Hunter%27s_Prayer_%E0%B8%A5%E0%
 
 
 type=video
+name=Science Fiction Volume One: The Osiris Child (2016) ENG BRRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/bEa4lssjiYCv226Z0gKKbfPGJAJ.jpg
+date=2017-08-09
+URL=https://openload.co/f/AeAr9xuD51Q/O.W.2017.BRRip.XviD.AC3-EVO.avi.mp4
+type=video
+name=Science Fiction Volume One: The Osiris Child (2016) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/bEa4lssjiYCv226Z0gKKbfPGJAJ.jpg
+date=2017-07-28
+URL=https://openload.co/f/qs9MPS8L0MI/Science.Fiction.Volume.One.The.Osiris.Child.2016.720p.WEB-DL.H264.AC3.ThaIRonG.5.1_-_CpT-CtHts%40SiamBIT.mkv.mp4
+
+
+type=video
 name=Revolt (2017) CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg
 date=2017-07-29
@@ -796,11 +795,7 @@ player=default
 rating=-1.00
 description=A CIA agent is baited into a trap involving London and a biological attack./description
 
-type=video
-name=Science Fiction Volume One: The Osiris Child (2016) CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/bEa4lssjiYCv226Z0gKKbfPGJAJ.jpg
-date=2017-07-28
-URL=https://openload.co/f/qs9MPS8L0MI/Science.Fiction.Volume.One.The.Osiris.Child.2016.720p.WEB-DL.H264.AC3.ThaIRonG.5.1_-_CpT-CtHts%40SiamBIT.mkv.mp4
+
 
 type=video
 name=Kill Switch (2017) CAM SOUND
@@ -896,7 +891,24 @@ URL=
 
 
 
-# 2773806
+
+type=video
+name=Guardians of the Galaxy Vol. 2 (2017) ENG BR 1080p
+thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
+date=2017-08-08
+URL=https://openload.co/f/OGhAhmckJAA/Guardians.of.the.Galaxy.Vol.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+# 2773787
+type=video
+name=Guardians of the Galaxy Vol. 2 (2017) TH
+thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
+date=2017-08-09
+URL=https://openload.co/f/lP9qtHS2NxU/Guardians_of_the_Galaxy%2C_Vol._2_%282017%29.AC3.5.1.H264-BASB_%281%29.mkv.mp4
+player=default
+rating=-1.00
+description=The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage./description
+
+
+# 128
 type=video
 name=Gifted (2017) ENG BR 1080p
 thumb=http://image.tmdb.org/t/p/w500/7YB2YrMwIm1g8FyZtlvmVDfRnAT.jpg
