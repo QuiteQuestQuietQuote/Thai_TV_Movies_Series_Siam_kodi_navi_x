@@ -237,7 +237,7 @@ type=video
 name=Fever (2016)
 thumb=https://image.tmdb.org/t/p/w640/87D1KMjPSg6DUeglvqbXTaPy6fh.jpg
 date=2017-08-08
-URL=http://entervideo.net/watch/c584c88f87403ff
+URL=http://185.176.192.40/vids/fever_2016___586eb881836f6.mp4
 
 type=video
 name=The Garden of Eden (2008)
