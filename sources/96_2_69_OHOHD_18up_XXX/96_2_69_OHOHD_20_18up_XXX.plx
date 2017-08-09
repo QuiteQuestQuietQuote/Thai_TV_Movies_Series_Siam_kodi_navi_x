@@ -38,7 +38,11 @@ URL=
 
 
 
-
+type=video
+name=12xxxxxxxxxxxxxxxxxxxxBridgend (2015)
+thumb=https://image.tmdb.org/t/p/w640/3lVHLHtcLmyRUvHUbcxcmV5noFp.jpg
+date=2017-08-09
+URL=https://openload.co/f/gdL6WrojQYU/bridgend.2015.720p.bluray.x264-bipolar.mkv.mp4
 
 type=video
 name=Jane (2016)
