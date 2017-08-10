@@ -231,19 +231,19 @@ type=video
 name=
 thumb=
 date=
-URL=http://entervideo.net/watch/cccb5b84e4a4361
+URL=
 
 type=video
 name=Fever (2016) ENG SUB
 thumb=https://image.tmdb.org/t/p/w640/87D1KMjPSg6DUeglvqbXTaPy6fh.jpg
 date=2017-08-08
-URL=https://openload.co/f/q3WYcYtAU4Q/Fever_2016_EngSub_720p_Untouched_WEBHD_AVC_AAC-DDR.mp4
+URL=http://entervideo.net/watch/c584c88f87403ff
 
 type=video
 name=The Garden of Eden (2008)
 thumb=https://image.tmdb.org/t/p/w640/6DTJui0gH1FhEAOU6lO1Gwf3WdS.jpg
 date=2017-08-08
-URL=http://50.7.164.242:8182/h2obys7w5wu4tqukwzklnhdedf3dzpx3zqi6iiohkj2lquxrzi523u7phm/ba33dge0fmwy.mp4
+URL=http://entervideo.net/watch/cccb5b84e4a4361
 
 
 
