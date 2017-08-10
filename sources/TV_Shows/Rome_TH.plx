@@ -22,7 +22,7 @@ rating=-1.00
 type=script
 name= Update the urlresolver (refresh), if can not play...!!!
 thumb=
-URL=https://github.com/Colossal1/repository.colossus.common/blob/master/script.module.urlresolver/script.module.urlresolver-4.0.00.zip?raw=true
+URL=https://github.com/Colossal1/repository.colossus.common/blob/master/script.module.urlresolver/script.module.urlresolver-4.0.01.zip
 
 
 
