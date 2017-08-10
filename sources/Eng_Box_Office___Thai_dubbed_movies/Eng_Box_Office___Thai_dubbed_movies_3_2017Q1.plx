@@ -892,6 +892,15 @@ URL=
 
 
 
+
+
+type=video
+name=48 Hours to Live (2017)
+thumb=https://image.tmdb.org/t/p/w640/x44BbwHJmDgeGx2N3E8fsLHdqzs.jpg
+date=2017-08-10
+URL=https://openload.co/f/54vnNCjqI88/%7BMINI_Super-HQ%7D_48.Hours.To.Live.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+
+
 type=video
 name=Guardians of the Galaxy Vol. 2 (2017) ENG BR 1080p
 thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
@@ -933,8 +942,8 @@ URL=https://openload.co/f/kzrBNbHs-hs/Tom.and.Jerry.Willy.Wonka.and.the.Chocolat
 type=video
 name=3 Generations (2016)
 thumb=https://image.tmdb.org/t/p/w640/A40ko85pS3yrkzeYVuVKB8Xbjjq.jpg
-date=2017-08-05
-URL=https://streamango.com/f/abpknbenretatqmk/About_Ray_3_Generations_mp4
+date=2017-08-10
+URL=https://openload.co/f/3A47QQeJWXA/%7BMINI_Super-HQ%7D_About.Ray.2015.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 type=video
 name=Enemies In-Law (2015)
