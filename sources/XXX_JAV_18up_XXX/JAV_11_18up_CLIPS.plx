@@ -44,6 +44,126 @@ URL=
 
 
 
+type=video
+name=322xxxxxxxxxxxxxxxxxxxxAsian Sex Diary Mod
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Mod.jpg
+date=2017-08-11
+URL=https://streamango.com/f/arfackrrnndprkek/Asian_Sex_Diary_Mod_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Fa.Braced.Faced.Pussy
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Tuktuk-Patrol-Fa.Braced.Faced_.Pussy_.jpg
+date=2017-08-11
+URL=https://streamango.com/f/pqpecolntcsaoblr/Asian_Sex_Diary_Tuktuk_Patrol_Fa_Braced_Faced_Pussy_mp4
+
+type=video
+name=Asian Sex Diary Meem
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Meem.jpg
+date=2017-08-11
+URL=https://streamango.com/f/kmmkrpdlqcbbnqqp/Asian_Sex_Diary_Meem_MP4_mp4
+
+type=video
+name=Asian Sex Diary Meem.Part.2
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Meem.Part_.2.jpg
+date=2017-08-11
+URL=https://streamango.com/f/tbrceolrkfamcsde/Asian_Sex_Diary_Meem_Part_2_MP4_mp4
+
+type=video
+name=Asian Sex Diary May.Part.3
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-May.Part_.3.jpg
+date=2017-08-11
+URL=https://streamango.com/f/ndtbkcplrqsscomr/Asian_Sex_Diary_May_Part_3_MP4_mp4
+
+type=video
+name=Asian Sex Diary Princess.and.Nicole
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Princess.and_.Nicole.jpg
+date=2017-08-11
+URL=https://streamango.com/f/llqrqoqmsknsmlet/Asian_Sex_Diary_Princess_and_Nicole_MP4_mp4
+
+type=video
+name=Asian Sex Diary MILF.Jenny
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-MILF.Jenny_.jpg
+date=2017-08-11
+URL=https://streamango.com/f/lokondktrlpeklmn/Asian_Sex_Diary_MILF_Jenny_MP4_mp4
+
+type=video
+name=Asian Sex Diary Miray
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Miray.jpg
+date=2017-08-11
+URL=https://streamango.com/f/rdoqcqktonscmpcc/Asian_Sex_Diary_Miray_MP4_mp4
+
+type=video
+name=Asian Sex Diary Fafa.Special 
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Fafa.Special.jpg
+date=2017-08-11
+URL=https://streamango.com/f/pfcqnlfnntspbbba/Asian_Sex_Diary_Fafa_Special_MP4_mp4
+
+type=video
+name=Asian Sex Diary Jen
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Jen.jpg
+date=2017-08-11
+URL=https://streamango.com/f/qbamdlssqkdqtrsb/Asian_Sex_Diary_Jen_MP4_mp4
+
+type=video
+name=Asian Sex Diary Joy
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Joy.jpg
+date=2017-08-11
+URL=https://streamango.com/f/snnnofrbseroplod/Asian_Sex_Diary_Joy_MP4_mp4
+
+type=video
+name=Asian Sex Diary May.Part.2
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-May.Part_.2.jpg
+date=2017-08-11
+URL=https://streamango.com/f/opodkskqesddnbcn/Asian_Sex_Diary_May_Part_2_MP4_mp4
+
+type=video
+name=Asian Sex Diary Krizza.morning.fuck 
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Krizza.morning.fuck_.jpg
+date=2017-08-11
+URL=https://streamango.com/f/sbcobrclkofqfnkb/Asian_Sex_Diary_Krizza_morning_fuck_MP4_mp4
+
+type=video
+name=Asian Sex Diary Eye 
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Eye.jpg
+date=2017-08-11
+URL=https://streamango.com/f/nfcsambtctpkbrpn/Asian_Sex_Diary_Eye_MP4_mp4
+
+type=video
+name=Asian Sex Diary May 
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-May.jpg
+date=2017-08-11
+URL=https://streamango.com/f/dstlltddnatmsqso/Asian_Sex_Diary_May_MP4_mp4
+
+type=video
+name=Asian Sex Diary Layka.and.Jeremay
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Layka.and_.Jeremay.jpg
+date=2017-08-11
+URL=https://streamango.com/f/ddsrftecbspfockt/Asian_Sex_Diary_Layka_and_Jeremay_MP4_mp4
+
+type=video
+name=Asian Sex Diary Maribel
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Maribel.jpg
+date=2017-08-11
+URL=https://streamango.com/f/loeoabaaapcmnmle/Asian_Sex_Diary_Maribel_MP4_mp4
+
+type=video
+name=Asian Sex Diary Marjorie
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Marjorie.jpg
+date=2017-08-11
+URL=https://streamango.com/f/eamqeostfflldeas/Asian_Sex_Diary_Marjorie_MP4_mp4
+
+type=video
+name=Asian Sex Diary Bonga.girl 
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Bonga.girl_.jpg
+date=2017-08-11
+URL=https://streamango.com/f/ntedkfcefqsbkscn/Asian_Sex_Diary_Bonga_girl_MP4_mp4
+
+type=video
+name=Asian Sex Diary Fa.Boomboom
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Fa.Boomboom.jpg
+date=2017-08-11
+URL=https://streamango.com/f/tprbbcaatsdcdtsl/Asian_Sex_Diary_Fa_Boomboom_MP4_mp4
+
 
 
 
