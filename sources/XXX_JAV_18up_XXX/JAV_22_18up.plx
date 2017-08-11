@@ -19,11 +19,51 @@ rating=-1.00
 
 
 
+
+
+
+
+
+
+
+
+
+
 type=video
-name=
-thumb=
-date=
-URL=
+name=190xxxxxxxxxxxxxxxxxxxxCEAD-158 – Otsuki Hibiki – My Intelligent, Bespectacled Mom 4
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/CEAD-158.jpg
+date=2017-08-11
+URL=https://openload.co/f/PB80IcN7--U/JAV_CEAD-158.mp4
+
+type=video
+name=RDT-249 – Unknown – A Married Woman Who Answered The Door To A Surprise Visitor Came Out Wearing A Hooded Sweatshirt With No Bra
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/RDT-249.jpg
+date=2017-08-11
+URL=https://openload.co/f/JRzoAysr8G0/JAV_RDT-249.mp4
+
+type=video
+name=JUX-861 – Hojyo Maki, Sasaki Aki, Sawamura Reiko – There’s No Way I’d Fall Victim To Lesbians… ~Set-Up On The Women’s Group Hot Spring Vacation Edition
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/JUX-861.jpg
+date=2017-08-11
+URL=https://openload.co/f/FT55190Fv7I/JAV_JUX-861.mp4
+
+type=video
+name=EYAN-071 – Niimi Momo – Young Wife With Breast Milk – Still Perfectly Hot Right After She Popped! Heavenly Slim Body & Bangin’ F-Cup Boobs – Her Porn Debut
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/EYAN-071.jpg
+date=2017-08-11
+URL=https://openload.co/f/LUesbSsVGpM/JAV_EYAN-071.mp4
+
+type=video
+name=ABP-450 – Kitano Nozomi – My Very Own Nozomi Kitano Loves Me Way Too Much
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/ABP-450.jpg
+date=2017-08-11
+URL=https://openload.co/f/t_PRwz3olRU/JAV_ABP-450.mp4
+
+type=video
+name=EBOD-415 – Inoue Hitomi – Bare Naked Bus Tour Guide With Colossal Tits
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/EBOD-415.jpg
+date=2017-08-11
+URL=https://openload.co/f/sq7S1eeuwEw/JAV_EBOD-415.mp4
 
 
 
@@ -32,12 +72,65 @@ URL=
 
 
 
+type=video
+name=184xxxxxxxxxxxxxxxxxxxxSTAR-614 – Shiraishi Marina – Marina Shiraishi Gets Fuck Until She Cums While Giving An Intense Blowjob
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/STAR-614.jpg
+date=2017-08-11
+URL=https://openload.co/f/rZmuuG2GcfI/JAV_STAR-614.mp4
 
+type=video
+name=RCT-865 – Harukawa Sesera, Honma Yuri, Jin Yuki, Mahiro Mei, Minami Sena, Nishimura Niina, NOA, Shihino Chisa – All-Body Oil Kat -Fight 7 HANABI
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/RCT-865.jpg
+date=2017-08-11
+URL=https://openload.co/f/h0fPx-tWE1c/JAV_RCT-865.mp4
 
+type=video
+name=BF-468 – Fukiishi Rena – Big Titted Female Teacher Seduces Her Students
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/BF-468.jpg
+date=2017-08-11
+URL=https://openload.co/f/Ps4U2Gs5s2s/JAV_BF-468.mp4
 
+type=video
+name=PPPD-460 – Sayama Ai – Ready For Launch! Big Tits Big Pressure Pull Out Dirty Talk
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/PPPD-460.jpg
+date=2017-08-11
+URL=https://openload.co/f/igQGa26hN4k/JAV_PPPD-460.mp4
 
+type=video
+name=HND-300 – Shibuya Kaho – Her Peerless Pussy Takes In 30 Cocks On No-Fap Titty Fucking, Creampies, And Orgies
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/HND-300.jpg
+date=2017-08-11
+URL=https://openload.co/f/4kpR0pSwcVM/JAV_HND-300.mp4
 
+type=video
+name=MUM-233 – Azuki – Gang Bang. Secret Photo Shoot. 143cm E Cup
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/MUM-233.jpg
+date=2017-08-11
+URL=https://openload.co/f/7Oy3NFSvEi4/JAV_MUM-233.mp4
 
+type=video
+name=SNIS-653 – Amatsuka Moe – The Cock-Loving, Cock-Sucking Maid
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/SNIS-653.jpg
+date=2017-08-11
+URL=https://openload.co/f/bxaSBmbB-1A/JAV_SNIS-653.mp4
+
+type=video
+name=RCT-871 – Unknown – A Mother And Son’s Camping Trip Turns Into An Incestuous, Impregnating Outdoor Fuck
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/RCT-871.jpg
+date=2017-08-11
+URL=https://openload.co/f/nTTYKX2HUjA/JAV_RCT-871.mp4
+
+type=video
+name=NHDTA-812 – Unknown – Childhood Friend – Her Little Sister – Her Older Sister – And Even Her Mom! Busty Family Gets Fucked By A Virgin Boy
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/NHDTA-812.jpg
+date=2017-08-11
+URL=https://openload.co/f/Pb9MLH5C6oM/JAV_NHDTA-812.mp4
+
+type=video
+name=KAWD-709 – Sakura Yura – Ravaged High School Sluts – Freshmen Beauty Gets Her Purity Stolen By 11 Classmates
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/KAWD-709.jpg
+date=2017-08-11
+URL=https://openload.co/f/bvaQthUeowU/JAV_KAWD-709.mp4
 
 
 
