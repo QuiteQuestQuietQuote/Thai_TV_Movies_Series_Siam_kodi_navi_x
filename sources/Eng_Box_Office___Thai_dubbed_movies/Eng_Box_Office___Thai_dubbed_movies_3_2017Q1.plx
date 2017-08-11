@@ -892,6 +892,13 @@ URL=
 
 
 
+
+type=video
+name=Mr. Hurt (2017)
+thumb=https://image.tmdb.org/t/p/w640/2XssONH4zhRldiG3HHt2WH8xInr.jpg
+date=2017-08-11
+URL=https://streamango.com/f/daatospakesatoke/_Mr_Hurt_mp4
+
 type=video
 name=Wilson (2017)
 thumb=https://image.tmdb.org/t/p/w640/m63h5MxevYrKn3720hVgKZAx86S.jpg
