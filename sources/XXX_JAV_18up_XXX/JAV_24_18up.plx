@@ -42,6 +42,316 @@ URL=
 
 
 
+
+
+
+
+
+
+type=video
+name=90xxxxxxxxxxxxxxxxxxxxGVG-343 – Ayase Miami, Fukami Serina, Hazuki Mion, Kururugi Mikan – Big-Titted Masochistic Women Dumped Naked In Woods
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/GVG-343.jpg
+date=2017-08-12
+URL=https://openload.co/f/gwXRwLP9Yps/JAV_GVG-343.mp4
+
+type=video
+name=TEAM-084 – Suzumiya Suzu – I Get To Have Sex Every Day With My Sexy, Cute Live-In Girlfriend!
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/TEAM-084.jpg
+date=2017-08-12
+URL=https://openload.co/f/rclgDB1G634/JAV_TEAM-084.mp4
+
+type=video
+name=IPZ-758 – Kizaki Jessica – Fucking An Inexperienced Pit Babe. The Beautiful Naked Body That Can’t Say NO To The Casting Couch
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/IPZ-758.jpg
+date=2017-08-12
+URL=https://openload.co/f/RMfdcG4IMB4/JAV_IPZ-758.mp4
+
+type=video
+name=RBD-776 – Matsushita Saeko – The Day My Big Sis Became My Plaything
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/RBD-776.jpg
+date=2017-08-12
+URL=https://openload.co/f/qXGvutMl3DY/JAV_RBD-776.mp4
+
+type=video
+name=ATOM-237 – Unknown – Sharpen The Nerves In Your Feet! Stocking Fun!
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/ATOM-237.jpg
+date=2017-08-12
+URL=https://openload.co/f/2aCyY-SAIIE/JAV_ATOM-237.mp4
+
+type=video
+name=TEK-077 – Takahashi Shoko – Star Bikini Model’s MUTEKI Debut
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/TEK-077.jpg
+date=2017-08-12
+URL=https://openload.co/f/2v9zSMd7Jnw/JAV_TEK-077.mp4
+
+type=video
+name=ATFB-345 – HIKARI, Uehara Karen – Co-Stars In Slut Harem – The Ultimate Golden Ratio Is ‘Two Sluts – One Man’ Karen Uehara x HIKARI
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/ATFB-345.jpg
+date=2017-08-12
+URL=https://openload.co/f/BHlvy6nMiZw/JAV_ATFB-345.mp4
+
+type=video
+name=WANZ-498 – Shibuya Kaho – Tentacles. The Beautiful Woman With Colossal Tits Becomes A Creampie Victim
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/WANZ-498.jpg
+date=2017-08-12
+URL=https://openload.co/f/OV-qX6EcQMs/JAV_WANZ-498.mp4
+
+type=video
+name=IPZ-800 – Maishima Akari – Super Nice Dirty Talk And Sex With A Beautiful Girl That’ll Make You Feel Enveloped In Joy
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/IPZ-800.jpg
+date=2017-08-12
+URL=https://openload.co/f/39vTFiUvF9Q/JAV_IPZ-800.mp4
+
+type=video
+name=HUNTA-147 – Unknown – Lusting For Uncircumcised Cock! During Our School Field Trip The Boys In My Class Teased Me For Being Uncircumcised, And That’s Why I Always Skip Class
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/HUNTA-147.jpg
+date=2017-08-12
+URL=https://openload.co/f/U2mcGKG3tIg/JAV_HUNTA-147.mp4
+
+type=video
+name=MXGS-867 – Matsushita Miori – Amateur Miori Matsushita – Please Shoot Porn With My Girlfriend! Tall
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/MXGS-867.jpg
+date=2017-08-12
+URL=https://openload.co/f/VJuPBurOzC4/JAV_MXGS-867.mp4
+
+type=video
+name=HUNTA-123 – Unknown – I’m A Middle-Aged Woman, But These Swimsuits Are So Risque… I Wonder If I Can Still Pull It Off, My Father Remarried But My New Stepmom Is So Sexy
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/HUNTA-123.jpg
+date=2017-08-12
+URL=https://openload.co/f/yTjMWyxgMW8/JAV_HUNTA-123.mp4
+
+type=video
+name=PPPD-487 – Sasakura An – Beautiful Big Tits At Your Service An Ultra High Class Titty Maid
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/PPPD-487.jpg
+date=2017-08-12
+URL=https://openload.co/f/qVKi6jY1nZI/JAV_PPPD-487.mp4
+
+type=video
+name=STAR-637 – Kogawa Iori – Flowing Love Juices, Saliva, Sweat… Bodily Fluids Covered Passionate Sloppy Sounding SEX
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/STAR-637.jpg
+date=2017-08-12
+URL=https://openload.co/f/ANsrcmo6mTo/JAV_STAR-637.mp4
+
+type=video
+name=JUX-885 – Shinkawa Yui – Her First Anal Sex! I Ended Up Enjoying My Husband’s Boss’s Penis In My Anus
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/JUX-885.jpg
+date=2017-08-12
+URL=https://openload.co/f/jxYZK73UzPM/JAV_JUX-885.mp4
+
+type=video
+name=IENE-675 – Unknown – I Approached An Innocent Schoolgirl In Ochanomizu And Asked Her To Model My New Line Of Swimsuits
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/IENE-675.jpg
+date=2017-08-12
+URL=https://openload.co/f/cD63rLhu0RA/JAV_IENE-675.mp4
+
+type=video
+name=MUM-230 – Unknown – Intimate Bath Time With My Niece. I Can’t Control My Erection. (Shaved)
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/MUM-230.jpg
+date=2017-08-12
+URL=https://openload.co/f/Hx-rjSmFg1s/JAV_MUM-230.mp4
+
+type=video
+name=WANZ-476 – Egami Shiho – Big Booty Lovers
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/WANZ-476.jpg
+date=2017-08-12
+URL=https://openload.co/f/Pyyg5YScl1c/JAV_WANZ-476.mp4
+
+type=video
+name=MUKD-370 – Aoi Rena – Rena, A Beautiful, Slender Girl With Tiny Tits Is A Dirty Girl Who Loves Creampies. Student Number 15, Rena, A Member Of The Brass Band, A Cup
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/MUKD-370.jpg
+date=2017-08-12
+URL=https://openload.co/f/S6M6v78tW50/JAV_MUKD-370.mp4
+
+type=video
+name=JUFD-586 – KAORI, Kazama Yumi – Wild, Voluptuous, Colossal Tits – I Wanna Get Ravaged By A Slut
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/JUFD-586.jpg
+date=2017-08-12
+URL=https://openload.co/f/Mem-XrR7SO4/JAV_JUFD-586.mp4
+
+type=video
+name=IPZ-770 – Tachibana Harumi – She Goes Cockless For Only 15 Minutes 50 Seconds! Massively Long Insertion Times!! Anytime! Anywhere! With Anybody! Now To Popular Acclaim, Furiously Fucking Inside!
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/IPZ-770.jpg
+date=2017-08-12
+URL=https://openload.co/f/hu9YnuBgvO4/JAV_IPZ-770.mp4
+
+type=video
+name=DANDY-492 – Unknown – A Poor Cocksmith Gets Enraged At A High Society Wife Who Looks Down On The Working Class, So He Fucks her While Her Husband Is Away vol. 1
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/DANDY-492.jpg
+date=2017-08-12
+URL=https://openload.co/f/bFDGnlSQ5uA/JAV_DANDY-492.mp4
+
+type=video
+name=WANZ-497 – Amane Arisu – Masao Who Loves To Ejaculate, And His Horny Big Sister Have A Sexy Housesitting 6
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/WANZ-497.jpg
+date=2017-08-12
+URL=https://openload.co/f/4tNZytYJht8/JAV_WANZ-497.mp4
+
+type=video
+name=MIDE-329 – Hatsune Minori – Miss Minori Loves Barely Legal Dick
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/MIDE-329.jpg
+date=2017-08-12
+URL=https://openload.co/f/yTtga6xcNSg/JAV_MIDE-329.mp4
+
+
+
+
+
+
+
+
+
+type=video
+name=66xxxxxxxxxxxxxxxxxxxxEBOD-496 – Unknown – Astonishing Fashion! Sex Footage Featuring A Modern Girl In Extremely Revealing Clothes! A Porn Performance From A Pure-White Girl With Huge H-Cups And Shameless Fashion! Miyu, 20 Years Old
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/EBOD-496.jpg
+date=2017-08-12
+URL=https://openload.co/f/pxFhKwoLcEI/JAV_EBOD-496.mp4
+
+type=video
+name=WANZ-484 – Nishida Karina – Degraded In Shame And Pleasure… Creampie Her Over And Over While She Holds In Her Pee 3
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/WANZ-484.jpg
+date=2017-08-12
+URL=https://openload.co/f/tsF1B41_MCQ/JAV_WANZ-484.mp4
+
+type=video
+name=DVAJ-129 – Kawase Mai – By Force! Creampies Without Permission – Actress Who Doesn’t Want A Creampie Get A Big One Instead
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/DVAJ-129.jpg
+date=2017-08-12
+URL=https://openload.co/f/LvqG4jF2vqI/JAV_DVAJ-129.mp4
+
+type=video
+name=XVSR-122 – Aino Miyuu – FIRST HARD
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/XVSR-122.jpg
+date=2017-08-12
+URL=https://openload.co/f/1LKGdh6BjcA/JAV_XVSR-122.mp4
+
+type=video
+name=EBOD-517 – Unknown – She’s Been Performing For 11 Years! She’s Also Been The Back-Up Dancer For A Famous Artist! A Pair Of G-Cups Sits On Top Of Her Strong, Sexy Legs! A Real Life Pro Dancer’s Porn Debut!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/EBOD-517.jpg
+date=2017-08-12
+URL=https://openload.co/f/ghh_4xMob14/JAV_EBOD-517.mp4
+
+type=video
+name=JUX-908 – Nikaido Yuri – Invited To An Erotic Massage Parlor Frequented By Housewives
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/JUX-908.jpg
+date=2017-08-12
+URL=https://openload.co/f/-TgOpJIAiPs/JAV_JUX-908.mp4
+
+type=video
+name=AKA-019 – Unknown – Amateur Beauty In Uniform 01
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/AKA-019.jpg
+date=2017-08-12
+URL=https://openload.co/f/OpSvoxvASxU/JAV_AKA-019.mp4
+
+type=video
+name=XVSR-133 – Aino Miyuu – The Body Doll Of A Confined Office Lady. The Beautiful Office Lady’s Secret Business Is Exposed
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/XVSR-133.jpg
+date=2017-08-12
+URL=https://openload.co/f/Rej48DP2_wk/JAV_XVSR-133.mp4
+
+type=video
+name=RDT-236 – Unknown – That Pretty Normal Girl Has Got Some Big Tits, And Just By Chance I Got To See Her Changing! Her Bra is So Tight That Her Huge Boobs Are Poking Out From the Bottom! 3
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/RDT-236.jpg
+date=2017-08-12
+URL=https://openload.co/f/Zw3kc6y2a0o/JAV_RDT-236.mp4
+
+type=video
+name=MIDE-337 – Ito Chinami – Chinami Ito’s Schoolgirl Masturbation Support
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/MIDE-337.jpg
+date=2017-08-12
+URL=https://openload.co/f/nU_-nvaoUAQ/JAV_MIDE-337.mp4
+
+type=video
+name=SNIS-659 – Okuda Saki, Yumeno Aika – At This Wholesome Titty Pub The Rules Are Absolutely No Touching Below The Waist, But These Two Girls Are So Hot They Might Secretly Let You Fuck Them In This Popular Big Tits Bar
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/SNIS-659.jpg
+date=2017-08-12
+URL=https://openload.co/f/YQFkPfPUzuU/JAV_SNIS-659.mp4
+
+type=video
+name=RDT-240 – Unknown – The Woman Who Came To Listen To My Complaint Said She’ll Do
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/RDT-240.jpg
+date=2017-08-12
+URL=https://openload.co/f/aALnUCwFsok/JAV_RDT-240.mp4
+
+type=video
+name=DVDMS-011 – Unknown – A Focus Group AV With Regular Boys And Girls If A Gifted Female Music Student
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/DVDMS-011.jpg
+date=2017-08-12
+URL=https://openload.co/f/Sk7y1omBHZ8/JAV_DVDMS-011.mp4
+
+type=video
+name=CESD-210 – Otsuki Hibiki – Keys To Sex
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/CESD-210.jpg
+date=2017-08-12
+URL=https://openload.co/f/6ZLIoEw9cIk/JAV_CESD-210.mp4
+
+type=video
+name=MUM-218 – Hanazono Miyuka – Rare Cutie From Live-Action Adult Games Makes Her Porn Debut
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/MUM-218.jpg
+date=2017-08-12
+URL=https://openload.co/f/Mn7Xi9G5u3I/JAV_MUM-218.mp4
+
+type=video
+name=DVAJ-154 – Sasamoto Yurara – 2-Screen Molester
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/DVAJ-154.jpg
+date=2017-08-12
+URL=https://openload.co/f/Y34x3-IBD7E/JAV_DVAJ-154.mp4
+
+type=video
+name=IPZ-714 – Tachibana Harumi – I Don’t Care If I Break, Just Fuck Me Harder. Minimum 5000 Thrusts From Behind Guaranteed!!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/IPZ-714.jpg
+date=2017-08-12
+URL=https://openload.co/f/dh_Srb0KNX0/JAV_IPZ-714.mp4
+
+type=video
+name=EBOD-532 – Adachi Kasumi – 17 Years Of Competitive Swimming This Inter-Mural Athlete’s Toned Body Is Still Deliciously Supple! Real Life College Girl Swimmer’s Porn Debut!
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/EBOD-532.jpg
+date=2017-08-12
+URL=https://openload.co/f/0EMmhKupKAw/JAV_EBOD-532.mp4
+
+type=video
+name=STAR-699 – Morino Kotori – AV Debut
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/STAR-699.jpg
+date=2017-08-12
+URL=https://openload.co/f/HCp0c_NRlRE/JAV_STAR-699.mp4
+
+type=video
+name=ADN-094 – Oshikawa Yuri – Married Woman Embraced By Ropes
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/ADN-094.jpg
+date=2017-08-12
+URL=https://openload.co/f/Od2iyOc6q0I/JAV_ADN-094.mp4
+
+type=video
+name=HUNTA-141 – Unknown – My Son’s Private Tutor Is A Busty Babe! She’s Driving Me Crazy, So One Day I Slipped My Son Some Sleeping Pills, And Her An Aphrodisiac… They Were Super Effective
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/HUNTA-141.jpg
+date=2017-08-12
+URL=https://openload.co/f/Dt5C9Pqyh_M/JAV_HUNTA-141.mp4
+
+type=video
+name=SABA-191 – Unknown – If We Get Caught All Sales Will Be Immediately Suspended!! These Are Real Sex Scenes Bought From Individuals Who Came To Us Wanting To Sell Them
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/SABA-191.jpg
+date=2017-08-12
+URL=https://openload.co/f/1qDPra7v9bI/JAV_SABA-191.mp4
+
+type=video
+name=SNIS-651 – Asuka Kirara – Traveling For Work On An Overnight Bus, Kirara Asuka Tempts An Amateur With An Offer He Can’t Refuse
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/SNIS-651.jpg
+date=2017-08-12
+URL=https://openload.co/f/8PvZnS0-kFo/JAV_SNIS-651.mp4
+
+type=video
+name=IPZ-786 – Nishihara Ami – Sweet, Nut-Busting Sex With Ami While She Worships My Huge Cock! Ami Nishihara
+thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/IPZ-786.jpg
+date=2017-08-12
+URL=https://openload.co/f/q21Diy8uiAE/JAV_IPZ-786.mp4
+
+
+
+
+
+
+
+
+
 type=video
 name=42xxxxxxxxxxxxxxxxxxxxABP-470 – Fuyutsuki Kaede – Amateur Guys Go Way Too Far With Kaede Fuyutsuki ! Prestigious Fan Thanksgiving Bus Tour!
 thumb=https://zeed24hrs.com/wp-content/uploads/2016/12/ABP-470.jpg
