@@ -735,18 +735,7 @@ player=default
 rating=-1.00
 
 
-type=video
-name=King Arthur: Legend of the Sword (2017) ENG BR 1080p
-thumb=https://image.tmdb.org/t/p/w640/5qtySjfuJfOLvVrVXuwNo2BIVPH.jpg
-date=2017-07-26
-URL=https://openload.co/f/vxVw7n4s5SY/rep-kingarthurlegendofthesword.2017.1080p.bluray.x264.mkv.mp4
-type=video
-name=King Arthur: Legend of the Sword (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/5qtySjfuJfOLvVrVXuwNo2BIVPH.jpg
-date=2017-07-26
-URL=https://openload.co/f/94nTpi864To/King.Arthur.Legend.of.the.Sword.2017.720p.WEB-DL.H264.AC3.ThaIRong.5.1_-_CpT-CtHts%40SiamBIT.mkv.mp4
-player=default
-rating=-1.00
+
 
 
 type=video
@@ -861,14 +850,7 @@ player=default
 rating=-1.00
 description=In this PokÃ©mon adventure, a mysterious force binds Ash to the Mythical PokÃ©mon Volcanion when it falls from the sky. Volcanion canâ??t get away, and Ash is dragged along as it continues on its mission. They arrive in a city of cogs and gears, where a corrupt minister has stolen the ultimate invention: the Artificial PokÃ©mon Magearna, created 500 years ago. The minister plans to use Magearnaâ??s mysterious power to take control of the mechanical kingdom. Can Ash and Volcanion work together to rescue Magearna? One of the greatest battles in PokÃ©mon history is about to unfold!/description
 
-# 2767389
-type=video
-name=Don't Knock Twice (2017) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/myaS2ytIh7zgjhOr4FY8d0lOjeK.jpg
-URL=https://openload.co/f/8k1zs_cFKd4/Don_t_Knock_Twice_%E0%B9%80%E0%B8%84%E0%B8%B2%E0%B8%B0%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5_%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9C%E0%B8%B5%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99.mp4
-player=default
-rating=-1.00
-description=A mother desperate to reconnect with her troubled daughter becomes embroiled in the urban legend of a demonic witch./description
+
 
 # 2766556
 type=video
@@ -891,6 +873,46 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=Trespass Against Us (2017)
+thumb=https://image.tmdb.org/t/p/w640/4lGKBscylAN093abvEo751rDIyF.jpg
+date=2017-08-12
+URL=https://streamango.com/f/nqoapfmtmobkdtme/Trespass_Against_Us_mp4
+
+type=video
+name=Lego Scooby-Doo! Blowout Beach Bash (2017)
+thumb=https://image.tmdb.org/t/p/w640/sNlBs5ePyuTMFaBbUHabfpobjZX.jpg
+date=2017-08-12
+URL=https://streamango.com/f/qmktrkclbdqnbepn/Lego_Scooby-Doo_Blowout_Beach_Bash_mp4
+
+# 2767389
+type=video
+name=Don't Knock Twice (2017)
+thumb=http://image.tmdb.org/t/p/w500/myaS2ytIh7zgjhOr4FY8d0lOjeK.jpg
+date=2017-08-12
+URL=https://streamango.com/f/opklorkcdfatkbnm/Don_t_Knock_Twice_mp4
+player=default
+rating=-1.00
+description=A mother desperate to reconnect with her troubled daughter becomes embroiled in the urban legend of a demonic witch./description
+
+
+type=video
+name=King Arthur: Legend of the Sword (2017) ENG BR 1080p
+thumb=https://image.tmdb.org/t/p/w640/5qtySjfuJfOLvVrVXuwNo2BIVPH.jpg
+date=2017-07-26
+URL=https://openload.co/f/vxVw7n4s5SY/rep-kingarthurlegendofthesword.2017.1080p.bluray.x264.mkv.mp4
+type=video
+name=King Arthur: Legend of the Sword (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/5qtySjfuJfOLvVrVXuwNo2BIVPH.jpg
+date=2017-08-12
+URL=https://streamango.com/f/msrdkakdflqknrpk/King_Arthur_Legend_of_the_Sword_mp4
+player=default
+rating=-1.00
 
 
 type=video
