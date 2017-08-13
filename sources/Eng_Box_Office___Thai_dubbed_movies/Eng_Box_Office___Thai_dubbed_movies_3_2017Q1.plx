@@ -81,11 +81,7 @@ thumb=https://image.tmdb.org/t/p/w640/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg
 date=2017-07-15
 URL=https://openload.co/f/chn8UlevFo4/A.E.O.M.2017.CAM.XViD-26k.avi.mp4
 
-type=video
-name=Cars 3 (2017) ENG updated TC
-thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
-date=2017-07-10
-URL=https://openload.co/f/OTUdczQrr7Q/C_3_2017_1080P_HDTC_%5BLayar-21.com%5D.mp4
+
 
 type=video
 name=The House (2017) ENG
@@ -458,7 +454,16 @@ date=2017-08-08
 URL=https://openload.co/f/NTZrlanyN54/Transformers_The_Last_Knight_2017_%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2_zoom_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87.mkv.mp4
 
 
-
+type=video
+name=Cars 3 (2017) ENG updated TC
+thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
+date=2017-07-10
+URL=https://openload.co/f/OTUdczQrr7Q/C_3_2017_1080P_HDTC_%5BLayar-21.com%5D.mp4
+type=video
+name=Cars 3 (2017) TH CAM updated TS
+thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
+date=2017-08-13
+URL=https://openload.co/f/idkGiBNA4mE/Cars3.2017.NEW.HD-TS.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 
 
 
@@ -725,7 +730,16 @@ player=default
 rating=-1.00
 
 
-
+type=video
+name=Kill Switch (2017) ENG WEB_DL.DD5.1.H264_FGT
+thumb=https://image.tmdb.org/t/p/w640/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
+date=2017-08-13
+URL=https://openload.co/f/jOmin_zanpQ/Kill.Switch.2017.1080p.WEB_DL.DD5.1.H264_FGT.mp4
+type=video
+name=Kill Switch (2017) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
+date=2017-07-17
+URL=https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264..ThaIRonG.CtHts_-_CpT.mkv.mp4
 
 
 type=video
@@ -776,11 +790,6 @@ description=A CIA agent is baited into a trap involving London and a biological 
 
 
 
-type=video
-name=Kill Switch (2017) CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
-date=2017-07-17
-URL=https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264..ThaIRonG.CtHts_-_CpT.mkv.mp4
 
 
 
@@ -871,8 +880,8 @@ URL=
 type=video
 name=Trespass Against Us (2017)
 thumb=https://image.tmdb.org/t/p/w640/4lGKBscylAN093abvEo751rDIyF.jpg
-date=2017-08-12
-URL=https://streamango.com/f/nqoapfmtmobkdtme/Trespass_Against_Us_mp4
+date=2017-08-13
+URL=https://openload.co/f/3PhLY257U2k/%7BMINI_Super-HQ%7D_Trespass.Against.Us.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 type=video
 name=Lego Scooby-Doo! Blowout Beach Bash (2017)
@@ -884,8 +893,8 @@ URL=https://streamango.com/f/qmktrkclbdqnbepn/Lego_Scooby-Doo_Blowout_Beach_Bash
 type=video
 name=Don't Knock Twice (2017)
 thumb=http://image.tmdb.org/t/p/w500/myaS2ytIh7zgjhOr4FY8d0lOjeK.jpg
-date=2017-08-12
-URL=https://streamango.com/f/opklorkcdfatkbnm/Don_t_Knock_Twice_mp4
+date=2017-08-13
+URL=https://openload.co/f/kDfcPOxnO3g/%7BMINI_Super-HQ%7D_Don%27t.Knock.Twice.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 player=default
 rating=-1.00
 description=A mother desperate to reconnect with her troubled daughter becomes embroiled in the urban legend of a demonic witch./description
@@ -908,8 +917,8 @@ rating=-1.00
 type=video
 name=Mr. Hurt (2017)
 thumb=https://image.tmdb.org/t/p/w640/2XssONH4zhRldiG3HHt2WH8xInr.jpg
-date=2017-08-11
-URL=https://streamango.com/f/daatospakesatoke/_Mr_Hurt_mp4
+date=2017-08-13
+URL=https://openload.co/f/X8A4HVzOjzM/Mr._Hurt_%282017%29_DVDRip.CtHts_-_PORSC.mkv.mp4
 
 type=video
 name=Wilson (2017)
