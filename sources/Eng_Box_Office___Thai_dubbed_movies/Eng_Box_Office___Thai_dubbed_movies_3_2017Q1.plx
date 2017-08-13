@@ -731,10 +731,10 @@ rating=-1.00
 
 
 type=video
-name=Kill Switch (2017) ENG WEB_DL.DD5.1.H264_FGT
+name=Kill Switch (2017) ENG BR 1080p
 thumb=https://image.tmdb.org/t/p/w640/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
 date=2017-08-13
-URL=https://openload.co/f/jOmin_zanpQ/Kill.Switch.2017.1080p.WEB_DL.DD5.1.H264_FGT.mp4
+URL=https://openload.co/f/3Hh9IMiQq4c/Telegram_%40khore_film-Kill.Switch.2017.1080p.BluRay.H264.AAC.mp4
 type=video
 name=Kill Switch (2017) CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
