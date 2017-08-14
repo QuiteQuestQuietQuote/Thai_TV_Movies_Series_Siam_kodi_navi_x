@@ -243,7 +243,7 @@ URL=
 
 # 2775957
 type=video
-name=How to Be a Latin Lover (2017) [COLOR=FF3399FF]ENG BR 1080p[/COLOR]
+name=How to Be a Latin Lover (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/wvXCBYFDwAQSj3nrRAoBSpX2N8J.jpg
 date=2017-08-03
 URL=https://openload.co/f/ZjXD7J0aK0M/How.to.Be.a.Latin.Lover.2017.1080p.BluRay.x264-DRONES.mkv.mp4
@@ -264,25 +264,25 @@ date=2017-07-28
 URL=https://openload.co/f/oJs5aOQQWMM/your.name.2016.1080p.bluray.x264-haiku.mkv.mp4
 
 type=video
-name=Snatched (2017) [COLOR=FF33FFFF]ENG BR 1080p[/COLOR]
+name=Snatched (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/lvGa6v7sR6p6RWCtwv0Dgdr1B8z.jpg
 date=2017-07-26
 URL=https://openload.co/f/1BSWFfEkZo8/Snatched.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 
 type=video
-name=Wakefield (2017) [COLOR=FF33DDFF]ENG BR 1080p[/COLOR]
+name=Wakefield (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/ysENjqhI5lcjGjKBkacCjTnNWOQ.jpg
 date=2017-07-26
 URL=https://openload.co/f/l0iDWNGQCXg/snow-wakefield.2016.limited.1080p.bluray.x264.mkv.mp4
 
 type=video
-name=The Dinner (2017) ENG BR 1080p
+name=The Dinner (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/colBU9Mn7emfgWlZcGU331ZMh5E.jpg
 date=2017-07-26
 URL=https://openload.co/f/OxEXJ7IP228/The.Dinner.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 
 type=video
-name=The Ottoman Lieutenant (2017) ENG BR 1080p
+name=The Ottoman Lieutenant (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/c5E8KTDuGNdF4Lmv3OhsQ0W1zPw.jpg
 date=2017-07-25
 URL=https://openload.co/f/cZPj1Cm1yls/The.Ottoman.Lieutenant.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
@@ -534,7 +534,7 @@ URL=
 
 # 2772231
 type=video
-name=Boyka: Undisputed IV (2016) ENG BR 1080p
+name=Boyka: Undisputed IV (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/ubR8Oc1jnvnM9tJLyKEGRhqNeO0.jpg
 date=2017-07-25
 URL=https://openload.co/f/RfyxiIRAiSc/Boyka.Undisputed.2016.1080p.BluRay.x264-ROVERS.mkv.mp4
@@ -723,7 +723,7 @@ URL=https://openload.co/f/Q81dbsjEMgg/The.Mummy.2017.1080p.WEB-DL.DD5.1.H264.Tha
 
 
 type=video
-name=Alien: Covenant (2017) ENG BR 1080p
+name=Alien: Covenant (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/ewVHnq4lUiovxBCu64qxq5bT2lu.jpg
 date=2017-08-02
 URL=https://openload.co/f/7i25JsS2Q9Q/Alien.Covenant.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
@@ -737,7 +737,7 @@ rating=-1.00
 
 
 type=video
-name=Kill Switch (2017) ENG BR 1080p
+name=Kill Switch (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
 date=2017-08-13
 URL=https://openload.co/f/3Hh9IMiQq4c/Telegram_%40khore_film-Kill.Switch.2017.1080p.BluRay.H264.AAC.mp4
@@ -749,7 +749,7 @@ URL=https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264.
 
 
 type=video
-name=The Hunter's Prayer (2017) ENG BR 1080p
+name=The Hunter's Prayer (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/2qVnSDniGtf2mL941v2izSIzpon.jpg
 date=2017-07-26
 URL=https://openload.co/f/fuw_sTgShLw/The.Hunters.Prayer.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
@@ -907,7 +907,7 @@ description=A mother desperate to reconnect with her troubled daughter becomes e
 
 
 type=video
-name=King Arthur: Legend of the Sword (2017) ENG BR 1080p
+name=King Arthur: Legend of the Sword (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/5qtySjfuJfOLvVrVXuwNo2BIVPH.jpg
 date=2017-07-26
 URL=https://openload.co/f/vxVw7n4s5SY/rep-kingarthurlegendofthesword.2017.1080p.bluray.x264.mkv.mp4
@@ -940,7 +940,7 @@ URL=https://openload.co/f/54vnNCjqI88/%7BMINI_Super-HQ%7D_48.Hours.To.Live.2016.
 
 
 type=video
-name=Guardians of the Galaxy Vol. 2 (2017) ENG BR 1080p
+name=Guardians of the Galaxy Vol. 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
 date=2017-08-08
 URL=https://openload.co/f/OGhAhmckJAA/Guardians.of.the.Galaxy.Vol.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -957,7 +957,7 @@ description=The Guardians must fight to keep their newfound family together as t
 
 # 128
 type=video
-name=Gifted (2017) ENG BR 1080p
+name=Gifted (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/7YB2YrMwIm1g8FyZtlvmVDfRnAT.jpg
 date=2017-07-11
 URL=https://openload.co/f/hazPuLoziF8/Gifted.2017.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -1023,7 +1023,7 @@ URL=https://streamango.com/f/lrrtlctcbfppoctb/A_Hologram_for_the_King_mp4
 
 # 118
 type=video
-name=Unforgettable (2017) ENG BR 1080p
+name=Unforgettable (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/eUGehaQhjc9Q8kqlZP16akfx7R4.jpg
 date=2017-07-11
 URL=https://openload.co/f/g-33d_facZg/Unforgettable.2017.1080p.BluRay.x264-DRONES.mkv.mp4
@@ -1065,7 +1065,7 @@ URL=https://streamango.com/f/nrrlqamotsnsrlpc/The_Showdown_2011_mov_mp4
 
 # 112
 type=video
-name=Going in Style (2017) ENG BR 1080p
+name=Going in Style (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg
 date=2017-07-19
 URL=https://openload.co/f/BMffEuWDjkQ/Going.in.Style.2017.1080p.BluRay.x264-DRONES.mkv.mp4
@@ -1101,7 +1101,7 @@ description=A story about how a new baby's arrival impacts a family, told from t
 
 
 type=video
-name=Ghost in the Shell (2017) ENG BR 1080p
+name=Ghost in the Shell (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg
 date=2017-07-12
 URL=https://openload.co/f/iV4RSI0cZis/Ghost.in.the.Shell.2017.1080p.BluRay.x264-DRONES.mkv.mp4
@@ -1184,7 +1184,7 @@ URL=https://streamango.com/f/dscrqqqabpacqsks/Table_19_mp4
 
 #95
 type=video
-name=CHiPS (2017) ENG BR 1080p
+name=CHiPS (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/oyPcsfGWL5Se6RGW1JCVgpHlASH.jpg
 date=2017-07-15
 URL=https://openload.co/f/CSF-WKEKkmM/%7BMINI_Super-HQ%7D_Chips.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
@@ -1199,7 +1199,7 @@ description=The adventures of two California Highway Patrol motorcycle officers 
 
 
 type=video
-name=Rules Don't Apply (2016) ENG BR 1080p
+name=Rules Don't Apply (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/9d509ztC8mI2BYQ57tFsiHG25Qw.jpg
 date=2017-07-15
 URL=https://openload.co/f/DI_tDvTDC_I/%7BMINI_Super-HQ%7D_Rules.Don%27t.Apply.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
