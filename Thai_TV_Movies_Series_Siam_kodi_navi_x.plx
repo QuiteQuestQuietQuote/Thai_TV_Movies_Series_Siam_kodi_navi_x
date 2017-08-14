@@ -36,7 +36,21 @@ player=default
 rating=-1.00
 
 
+type=video
+name=
+thumb=
+date=
+URL=
+player=default
+rating=-1.00
 
+type=script
+name=
+thumb=
+date=2017-07-16
+URL=
+player=default
+rating=-1.00
 
 
 type=playlist
@@ -64,18 +78,3 @@ rating=-1.00
 
 
 
-type=video
-name=
-thumb=
-date=
-URL=
-player=default
-rating=-1.00
-
-type=script
-name=repository.colossus-999.999.2.zip
-thumb=
-date=2017-07-16
-URL=https://openload.co/f/iySDOEBG6iE/repository.colossus-999.999.2.zip
-player=default
-rating=-1.00
