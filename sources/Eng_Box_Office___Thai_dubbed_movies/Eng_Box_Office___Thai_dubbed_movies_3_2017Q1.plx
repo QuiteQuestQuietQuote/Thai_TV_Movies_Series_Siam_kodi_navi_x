@@ -258,7 +258,7 @@ date=2017-08-01
 URL=https://openload.co/f/IGIMtDVjAjw/everything.everything.2017.1080p.bluray.x264-geckos.mkv.mp4
 
 type=video
-name=Your Name. (2016) JAP BR 1080p
+name=Your Name. (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/xq1Ugd62d23K2knRUx6xxuALTZB.jpg
 date=2017-07-28
 URL=https://openload.co/f/oJs5aOQQWMM/your.name.2016.1080p.bluray.x264-haiku.mkv.mp4
@@ -288,14 +288,14 @@ date=2017-07-25
 URL=https://openload.co/f/cZPj1Cm1yls/The.Ottoman.Lieutenant.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 
 type=video
-name=Descendants 2 (2017) ENG WEB 1080p
+name=Descendants 2 (2017) [COLOR=FF00FF00]ENG WEB 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/7TLywOVzWwU1GMyqdjUiSVzBiyc.jpg
 date=2017-07-23
 URL=https://openload.co/f/1K1feEMp76Y/D-e-s-c-e-n-d-a-n-t-s.2.2017.1080p.AMZN.WEBRip.DDP5.1.x264-TVSmash.mkv.mp4
 
 # 2773803
 type=video
-name=The Circle (2017) ENG updated BR 1080p
+name=The Circle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg
 date=2017-07-20
 URL=https://openload.co/f/JapDzi8flN8/The.Circle.2017.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -305,7 +305,7 @@ description=A young tech worker takes a job at a powerful Internet corporation, 
 
 # 2773791
 type=video
-name=Colossal (2017) ENG updated BR 1080p
+name=Colossal (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/4VOyofBd1pexblxtDZYtYIk7NI4.jpg
 date=2017-07-19
 URL=https://openload.co/f/c6ouHx5fiC8/Colossal.2016.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
@@ -315,7 +315,7 @@ description=A woman discovers that severe catastrophic events are somehow connec
 
 # 2773618
 type=video
-name=The Zookeeper's Wife (2017) ENG updated BR 1080p
+name=The Zookeeper's Wife (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/cCQKccGZsfRSBHy4xEhDlS73OS2.jpg
 date=2017-06-20
 URL=https://openload.co/f/AMyTY51uL8o/the.zookeepers.wife.2017.1080p.bluray.x264-geckos.mkv.mp4
@@ -325,7 +325,7 @@ description=The Zookeeper's Wife tells the account of keepers of the Warsaw Zoo,
 
 # 2772899
 type=video
-name=The Carer (2017) ENG updated2 BR 1080p
+name=The Carer (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/gseDYGjdlFfGPbpVzlE0IcyW2Ix.jpg
 URL=https://openload.co/f/npQ2srvsvWE/The.Carer.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 player=default
@@ -334,7 +334,7 @@ description=When the question is to be or not to be, there is only one answer./d
 
 # 2773804
 type=video
-name=The Lost City of Z (2017) ENG updated BR 720p
+name=The Lost City of Z (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/ik3ebv7J18fs6cHkmu91oxz7EGt.jpg
 date=2017-07-01
 URL=https://openload.co/f/3WQUxlmpcTE/The.Lost.City.of.Z.2016.720p.BluRay.x264-GECKOS.mkv.mp4
@@ -343,7 +343,7 @@ rating=-1.00
 description=A true-life drama, centering on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s./description
 
 type=video
-name=Raw (2017) FRE BR 720p
+name=Raw (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg
 date=2017-07-28
 URL=https://openload.co/f/H_8mTjk0s20/raw.2016.limited.720p.bluray.x264-usury.mkv.mp4
