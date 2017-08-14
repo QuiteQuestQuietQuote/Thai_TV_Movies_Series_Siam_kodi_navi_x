@@ -56,7 +56,7 @@ URL=
 
 
 type=video
-name=S07-E05___Eastwatch___1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT
+name=S07-E05___Eastwatch___[COLOR=FF00FF00]1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[/COLOR]
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/kbZtgYExYjnnQPhX8wJ5TeG5cmQ.jpg
 date=2017-08-14
 URL=https://openload.co/f/62nFC-3XimE/0-G-0-T-0.S07E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4
@@ -68,7 +68,7 @@ URL=
 
 
 type=video
-name=S07-E04___The Spoils of War___1080p.AMZN.WEBRip.HEVC.x265-GoT
+name=S07-E04___The Spoils of War___[COLOR=FF00FF00]1080p.AMZN.WEBRip.HEVC.x265-GoT[/COLOR]
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/d0zSl5pCzl1dFcQpMtkQIdT6lcg.jpg
 date=2017-08-07
 URL=https://openload.co/f/PnXutIvaXUw/Game.of.Thrones.S07E04.The.Spoils.of.War.1080p.AMZN.WEBRip.HEVC.x265-GoT.mkv.mp4
@@ -80,7 +80,7 @@ URL=https://drive.google.com/open?id=0ByEKWwScMxXDMkt3cFp1My1IV1E
 
 
 type=video
-name=S07-E03___The Queen’s Justice___1080p.AMZN.WEB-DL.DD5.1.H.264-GoT
+name=S07-E03___The Queen’s Justice___[COLOR=FF00FF00]1080p.AMZN.WEB-DL.DD5.1.H.264-GoT[/COLOR]
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/jj2m8Q3v6EzV7z2JN8foIHeOGZB.jpg
 date=2017-07-31
 URL=https://openload.co/f/OLUDR81f8uA/G-O-T.S07E03.1080p.AMZN.WEB-DL.DD5.1.H.264-GoT.mkv.mp4
@@ -92,7 +92,7 @@ URL=https://drive.google.com/open?id=0B-3JKwDcQ1PDRGt2Nmg1YnhoR1U
 
 
 type=video
-name=S07-E02___Stormborn___1080p.AMZN.WEB-DL.DD%2B5.1.H.264-GoT
+name=S07-E02___Stormborn___[COLOR=FF00FF00]1080p.AMZN.WEB-DL.DD%2B5.1.H.264-GoT[/COLOR]
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/dVf1gfi80js9qyxm78479o4RNUr.jpg
 date=2017-07-24
 URL=https://openload.co/f/7uCFx6b4jcA/Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD%2B5.1.H.264-GoT.mkv.mp4
@@ -104,7 +104,7 @@ URL=https://openload.co/f/GSUxJGcGb5Y/GOT_S07E02_THSUB.mp4
 
 
 type=video
-name=S07-E01___Dragonstone___1080p.AMZN.WEB-DL.DD%2B5.1.H.264-GoT
+name=S07-E01___Dragonstone___[COLOR=FF00FF00]1080p.AMZN.WEB-DL.DD%2B5.1.H.264-GoT[/COLOR]
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/hk8mZG2q5yr2QKGutO4qI7nfILX.jpg
 date=2017-07-17
 URL=https://openload.co/f/lwaEmkwvnUQ/Game.of.Thrones.S07E01.Dragonstone.REPACK.1080p.AMZN.WEB-DL.DD%2B5.1.H.264-GoT.mkv.mp4
