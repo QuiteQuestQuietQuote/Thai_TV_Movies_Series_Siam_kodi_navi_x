@@ -107,7 +107,7 @@ type=video
 name=
 thumb=
 date=2017-07-15
-URL=http://gdurl.com/aUnH
+URL=https://drive.google.com/uc?export=download&id=0Bw0_YMYytSIVd3hxVExtZWNTYkE
 
 
 
