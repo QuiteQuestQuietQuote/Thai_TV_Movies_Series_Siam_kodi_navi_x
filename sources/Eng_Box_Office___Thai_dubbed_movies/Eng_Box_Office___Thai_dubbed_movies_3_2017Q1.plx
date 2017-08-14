@@ -264,13 +264,13 @@ date=2017-07-28
 URL=https://openload.co/f/oJs5aOQQWMM/your.name.2016.1080p.bluray.x264-haiku.mkv.mp4
 
 type=video
-name=Snatched (2017) ENG BR 1080p
+name=Snatched (2017) [COLOR=FF33FFFF]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/lvGa6v7sR6p6RWCtwv0Dgdr1B8z.jpg
 date=2017-07-26
 URL=https://openload.co/f/1BSWFfEkZo8/Snatched.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 
 type=video
-name=Wakefield (2017) ENG BR 1080p
+name=Wakefield (2017) [COLOR=FF33DDFF]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/ysENjqhI5lcjGjKBkacCjTnNWOQ.jpg
 date=2017-07-26
 URL=https://openload.co/f/l0iDWNGQCXg/snow-wakefield.2016.limited.1080p.bluray.x264.mkv.mp4
