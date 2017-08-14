@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w130_and_h195_bestv2/19NPjmN6o3QGYfu8WnzgDSx75Ov.jpg
+background=https://image.tmdb.org/t/p/w640/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg
 title=TV_Shows
-logo=https://image.tmdb.org/t/p/w130_and_h195_bestv2/19NPjmN6o3QGYfu8WnzgDSx75Ov.jpg
-icon_playlist=https://image.tmdb.org/t/p/w130_and_h195_bestv2/19NPjmN6o3QGYfu8WnzgDSx75Ov.jpg
+logo=https://image.tmdb.org/t/p/w640/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -22,15 +22,15 @@ player=default
 rating=-1.00
 
 type=playlist
-name=Game_Of_Thrones_TH
-thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/19NPjmN6o3QGYfu8WnzgDSx75Ov.jpg
+name=Game of Thrones (2011)_TH
+thumb=https://image.tmdb.org/t/p/w640/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg
 date=2017-06-29
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/Game_Of_Thrones_TH.plx
 player=default
 rating=-1.00
 
 type=playlist
-name=Rome_TH
+name=Rome (2005)_TH
 thumb=https://image.tmdb.org/t/p/w640/1A1BwgWO3Sw379VEhR0vkTuE3XW.jpg
 date=2017-07-10
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/Rome_TH.plx
@@ -38,7 +38,7 @@ player=default
 rating=-1.00
 
 type=playlist
-name=Spartacus_TH
+name=Spartacus (2010)_TH
 thumb=https://image.tmdb.org/t/p/w640/18FWPmsh2dULwMyWGjNDCUsmGRM.jpg
 date=2017-07-07
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/Spartacus_TH.plx

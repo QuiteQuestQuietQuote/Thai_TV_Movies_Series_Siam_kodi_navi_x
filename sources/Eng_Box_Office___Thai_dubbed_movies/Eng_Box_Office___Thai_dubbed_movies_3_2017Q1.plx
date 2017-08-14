@@ -46,6 +46,12 @@ date=2017-08-07
 URL=https://openload.co/f/p83iTdXYSh4/The_Dark_Tower_2017_TELESYNC_Russian.avi.mp4
 
 type=video
+name=The Book of Henry (2017) ENG CAM.XViD-26k
+thumb=https://image.tmdb.org/t/p/w640/suLFg4UjvM5BoDipg2Wu3gZ802T.jpg
+date=2017-08-14
+URL=https://openload.co/f/vNxzOLy-yrw/The.Book.of.Henry.2017.CAM.XViD-26k.avi.mp4
+
+type=video
 name=Girls Trip (2017) ENG PROPER.v2.HDCAM.x264.AAC-WAVE
 thumb=https://image.tmdb.org/t/p/w640/94nCLn74lBh4pLdZPIad18BpheE.jpg
 date=2017-08-05
@@ -237,7 +243,7 @@ URL=
 
 # 2775957
 type=video
-name=How to Be a Latin Lover (2017) ENG updated BR 1080p
+name=How to Be a Latin Lover (2017) [COLOR=3399FF]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/wvXCBYFDwAQSj3nrRAoBSpX2N8J.jpg
 date=2017-08-03
 URL=https://openload.co/f/ZjXD7J0aK0M/How.to.Be.a.Latin.Lover.2017.1080p.BluRay.x264-DRONES.mkv.mp4
@@ -246,7 +252,7 @@ rating=-1.00
 description=An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world./description
 
 type=video
-name=Everything, Everything (2017) ENG BR 1080p
+name=Everything, Everything (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/rpl6GpwBzj1k5LiEdurY1Qe1AcS.jpg
 date=2017-08-01
 URL=https://openload.co/f/IGIMtDVjAjw/everything.everything.2017.1080p.bluray.x264-geckos.mkv.mp4

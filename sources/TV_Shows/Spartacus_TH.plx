@@ -1,6 +1,6 @@
 version=1
 background=https://image.tmdb.org/t/p/w640/18FWPmsh2dULwMyWGjNDCUsmGRM.jpg
-title=Spartacus_TH
+title=Spartacus (2010)_TH
 logo=https://image.tmdb.org/t/p/w640/18FWPmsh2dULwMyWGjNDCUsmGRM.jpg
 icon_playlist=https://image.tmdb.org/t/p/w640/18FWPmsh2dULwMyWGjNDCUsmGRM.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description

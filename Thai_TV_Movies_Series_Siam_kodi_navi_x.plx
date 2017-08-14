@@ -22,7 +22,7 @@ rating=-1.00
 
 type=playlist
 name=TV_Shows
-thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/19NPjmN6o3QGYfu8WnzgDSx75Ov.jpg
+thumb=https://image.tmdb.org/t/p/w640/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/TV_Shows.plx
 player=default
 rating=-1.00
