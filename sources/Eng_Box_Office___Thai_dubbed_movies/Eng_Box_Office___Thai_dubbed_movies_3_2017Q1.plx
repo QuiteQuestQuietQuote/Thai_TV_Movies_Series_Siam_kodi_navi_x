@@ -243,7 +243,7 @@ URL=
 
 # 2775957
 type=video
-name=How to Be a Latin Lover (2017) [COLOR=3399FF00]ENG BR 1080p[/COLOR]
+name=How to Be a Latin Lover (2017) [COLOR=FF3399FF]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/wvXCBYFDwAQSj3nrRAoBSpX2N8J.jpg
 date=2017-08-03
 URL=https://openload.co/f/ZjXD7J0aK0M/How.to.Be.a.Latin.Lover.2017.1080p.BluRay.x264-DRONES.mkv.mp4
