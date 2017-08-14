@@ -64,7 +64,7 @@ type=video
 name=S07-E05___Eastwatch___TH SUB
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/kbZtgYExYjnnQPhX8wJ5TeG5cmQ.jpg
 date=2017-08-14
-URL=
+URL=https://streamango.com/f/cdndntnqermmmtra/GameofThronesSS07EP05_THSUB_mp4
 
 
 type=video
