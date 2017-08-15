@@ -49,7 +49,7 @@ URL=
 
 
 type=video
-name=S07-E06___XXX___August 20, 2017
+name=S07-E06___Death Is the Enemy___August 20, 2017
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/f2zna7JzbnK47xVULEjwQZYMqbs.jpg
 date=2017-08-14
 URL=
