@@ -56,19 +56,19 @@ type=video
 name=S02-E08___A Necessary Fiction
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/rIBNFo6x3SPaGhlMXZhhxY8LXIJ.jpg
 date=2017-07-15
-URL=https://drive.google.com/file/d/0B0_gHk7YlYcaM18xTUV4NWVSUVU/view
+URL=https://drive.google.com/file/d/0B0_gHk7YlYcaM18xTUV4NWVSUVU/edit
 
 type=video
 name=S02-E07___Death Mask
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/50G0zEtmAmSI1j7WEekBlVxbJ9c.jpg
 date=2017-07-15
-URL=https://drive.google.com/file/d/0B0_gHk7YlYcaNXpTc2lobFdwclk/view
+URL=https://drive.google.com/file/d/0B0_gHk7YlYcaNXpTc2lobFdwclk/edit
 
 type=video
 name=S02-E06___Philippi
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/obKsOySzhzDNWJMYr3i631IWNz2.jpg
 date=2017-07-15
-URL=https://drive.google.com/file/d/0B0_gHk7YlYcadjYwZ01fcHd0czg/view
+URL=https://drive.google.com/file/d/0B0_gHk7YlYcadjYwZ01fcHd0czg/edit
 
 type=video
 name=S02-E05___Heroes of the Republic

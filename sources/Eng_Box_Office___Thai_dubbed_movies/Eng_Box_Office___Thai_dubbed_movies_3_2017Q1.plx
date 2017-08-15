@@ -46,10 +46,16 @@ date=2017-08-08
 URL=https://openload.co/f/nOxFZxG8S1E/Wind_River_2017_CAMRip_Russian.avi.mp4
 
 type=video
-name=The Dark Tower (2017) RUS
+name=The Dark Tower (2017) ENG CAM
 thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
-date=2017-08-07
-URL=https://openload.co/f/p83iTdXYSh4/The_Dark_Tower_2017_TELESYNC_Russian.avi.mp4
+date=2017-08-15
+URL=https://openload.co/f/Xhubl3bwiQw/The_Dark_Tower_2017_CAM_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Valerian and the City of a Thousand Planets (2017) ENG HDCAM
+thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
+date=2017-08-15
+URL=https://openload.co/f/NY4XZ9Tl5SM/Valerian_2017_CAM_%5BLayar-21.com%5D.mp4
 
 type=video
 name=The Book of Henry (2017) ENG CAM.XViD-26k
@@ -70,12 +76,6 @@ date=2017-08-04
 URL=https://openload.co/f/Z7O8RrljTtc/The_Emoji_Movie_2017_HDCAM_-_UnKnOwN.avi.mp4
 
 type=video
-name=Valerian and the City of a Thousand Planets (2017) ENG HDCAM.X264-SeeHD
-thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
-date=2017-07-23
-URL=https://openload.co/f/62DU1FIOKM0/V_and_t_C_of_a_T_Planets_CAM_%5BLayar-21.com%5D.mp4
-
-type=video
 name=The Big Sick (2017) ENG DVDSCR
 thumb=https://image.tmdb.org/t/p/w640/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg
 date=2017-07-23
@@ -92,8 +92,6 @@ name=All Eyez on Me (2017) ENG updated2 TS
 thumb=https://image.tmdb.org/t/p/w640/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg
 date=2017-07-15
 URL=https://openload.co/f/chn8UlevFo4/A.E.O.M.2017.CAM.XViD-26k.avi.mp4
-
-
 
 type=video
 name=The House (2017) ENG
@@ -419,10 +417,10 @@ URL=https://streamango.com/f/sdrlcedflpbdcpnc/V_1_Wish_Upon_mp4
 
 
 type=video
-name=Dunkirk (2017) ENG HDTS.X264-NoGrP
+name=Dunkirk (2017) ENG NEW.HD-TS.X264-CPG.mkv
 thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
-date=2017-07-23
-URL=https://openload.co/f/UXCTq9N8nq0/D-K.2017.720p.HDTS.X264-NoGrP.mp4
+date=2017-08-15
+URL=https://openload.co/f/REZkiL6pA08/D.2017.NEW.HD-TS.X264-CPG.mkv
 type=video
 name=Dunkirk (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
@@ -478,6 +476,20 @@ date=2017-08-13
 URL=https://openload.co/f/idkGiBNA4mE/Cars3.2017.NEW.HD-TS.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 
 
+type=video
+name=Baywatch (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
+date=2017-08-15
+URL=https://openload.co/f/LwsEzhEqg-g/W-B-W.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+type=video
+name=Baywatch (2017) CAM updated UNCEN
+thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
+date=2017-06-16
+URL=https://openload.co/f/6Ofv0uUcw_U/Baywatch.2017.HDTS.UNCENSORED.x264.ThaiRong-CpT.mkv.mp4
+
+
+
+
 
 
 
@@ -499,11 +511,7 @@ thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
 date=2017-07-09
 URL=https://openload.co/f/UXysP_7mF5M/Despicable_Me_3_%282017%29_%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94_3.mp4
 
-type=video
-name=Baywatch (2017) CAM updated UNCEN
-thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
-date=2017-06-16
-URL=https://openload.co/f/6Ofv0uUcw_U/Baywatch.2017.HDTS.UNCENSORED.x264.ThaiRong-CpT.mkv.mp4
+
 
 type=video
 name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) CAM updated
