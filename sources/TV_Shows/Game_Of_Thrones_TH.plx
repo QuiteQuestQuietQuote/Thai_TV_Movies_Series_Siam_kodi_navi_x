@@ -49,44 +49,49 @@ URL=
 
 
 type=video
+name=S07-E06___Death Is the Enemy___[COLOR=FF00FF00]Leaked 1080p HDTV HEVC x265[/COLOR]
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/sR2xIRcCL5BUQArkWIx1SAiwEiw.jpg
+date=2017-08-16
+URL=https://openload.co/f/RLt0_GQLDaY/N2.8.09S.E.mp4
+type=video
 name=S07-E06___Death Is the Enemy___August 20, 2017
-thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/f2zna7JzbnK47xVULEjwQZYMqbs.jpg
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/sR2xIRcCL5BUQArkWIx1SAiwEiw.jpg
 date=2017-08-14
 URL=
 
 
 type=video
 name=S07-E05___Eastwatch___[COLOR=FF00FF00]1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[/COLOR]
-thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/kbZtgYExYjnnQPhX8wJ5TeG5cmQ.jpg
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/3iaJDPtj75z1YpLDMKR17JRXQdP.jpg
 date=2017-08-14
 URL=https://openload.co/f/62nFC-3XimE/0-G-0-T-0.S07E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4
 type=video
 name=S07-E05___Eastwatch___TH SUB
-thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/kbZtgYExYjnnQPhX8wJ5TeG5cmQ.jpg
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/3iaJDPtj75z1YpLDMKR17JRXQdP.jpg
 date=2017-08-14
 URL=https://streamango.com/f/cdndntnqermmmtra/GameofThronesSS07EP05_THSUB_mp4
 
 
 type=video
 name=S07-E04___The Spoils of War___[COLOR=FF00FF00]1080p.AMZN.WEBRip.HEVC.x265-GoT[/COLOR]
-thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/d0zSl5pCzl1dFcQpMtkQIdT6lcg.jpg
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/dVhIfcaonwROdVJH93tZDjFOtlM.jpg
 date=2017-08-07
 URL=https://openload.co/f/PnXutIvaXUw/Game.of.Thrones.S07E04.The.Spoils.of.War.1080p.AMZN.WEBRip.HEVC.x265-GoT.mkv.mp4
 type=video
 name=S07-E04___The Spoils of War___TH SUB
-thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/d0zSl5pCzl1dFcQpMtkQIdT6lcg.jpg
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/dVhIfcaonwROdVJH93tZDjFOtlM.jpg
 date=2017-08-07
 URL=https://drive.google.com/open?id=0ByEKWwScMxXDMkt3cFp1My1IV1E
 
 
 type=video
 name=S07-E03___The Queen’s Justice___[COLOR=FF00FF00]1080p.AMZN.WEB-DL.DD5.1.H.264-GoT[/COLOR]
-thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/jj2m8Q3v6EzV7z2JN8foIHeOGZB.jpg
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/xSqdpR6qADmjsdlcJLX5LXRToQP.jpg
 date=2017-07-31
 URL=https://openload.co/f/OLUDR81f8uA/G-O-T.S07E03.1080p.AMZN.WEB-DL.DD5.1.H.264-GoT.mkv.mp4
 type=video
 name=S07-E03___The Queen’s Justice___TH SUB
-thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/jj2m8Q3v6EzV7z2JN8foIHeOGZB.jpg
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/xSqdpR6qADmjsdlcJLX5LXRToQP.jpg
 date=2017-08-01
 URL=https://drive.google.com/open?id=0B-3JKwDcQ1PDRGt2Nmg1YnhoR1U
 
@@ -105,12 +110,12 @@ URL=https://openload.co/f/GSUxJGcGb5Y/GOT_S07E02_THSUB.mp4
 
 type=video
 name=S07-E01___Dragonstone___[COLOR=FF00FF00]1080p.AMZN.WEB-DL.DD%2B5.1.H.264-GoT[/COLOR]
-thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/hk8mZG2q5yr2QKGutO4qI7nfILX.jpg
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/3SB4PUzZAnY6HnZbVbktIZoopGs.jpg
 date=2017-07-17
 URL=https://openload.co/f/lwaEmkwvnUQ/Game.of.Thrones.S07E01.Dragonstone.REPACK.1080p.AMZN.WEB-DL.DD%2B5.1.H.264-GoT.mkv.mp4
 type=video
 name=S07-E01___Dragonstone___TH SUB
-thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/hk8mZG2q5yr2QKGutO4qI7nfILX.jpg
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/3SB4PUzZAnY6HnZbVbktIZoopGs.jpg
 date=2017-07-22
 URL=https://openload.co/f/0xbeeFLwywA/got7-1n.mp4.mp4
 

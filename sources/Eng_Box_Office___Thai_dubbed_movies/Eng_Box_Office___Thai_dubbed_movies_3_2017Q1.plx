@@ -46,16 +46,10 @@ date=2017-08-08
 URL=https://openload.co/f/nOxFZxG8S1E/Wind_River_2017_CAMRip_Russian.avi.mp4
 
 type=video
-name=The Dark Tower (2017) ENG CAM
-thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
-date=2017-08-15
-URL=https://openload.co/f/Xhubl3bwiQw/The_Dark_Tower_2017_CAM_%5BLayar-21.com%5D.mp4
-
-type=video
-name=Valerian and the City of a Thousand Planets (2017) ENG HDCAM
+name=Valerian and the City of a Thousand Planets (2017) ENG CAM.READNFO.XViD-26k
 thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
-date=2017-08-15
-URL=https://openload.co/f/NY4XZ9Tl5SM/Valerian_2017_CAM_%5BLayar-21.com%5D.mp4
+date=2017-08-16
+URL=https://openload.co/f/6aqe7wK0LR8/V-a-l-e-ri-an.2017.CAM.READNFO.XViD-26k.avi.mp4
 
 type=video
 name=The Book of Henry (2017) ENG CAM.XViD-26k
@@ -245,6 +239,12 @@ URL=
 
 
 
+type=video
+name=Security (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/fG2SZwAAY4mNscLfvSiKyBxaVQy.jpg
+date=2017-08-16
+URL=https://openload.co/f/OyQjGshNbw4/Security.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+
 # 2775957
 type=video
 name=How to Be a Latin Lover (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -393,6 +393,18 @@ URL=
 
 
 type=video
+name=The Dark Tower (2017) ENG TS_x264_AC3_TiTAN
+thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
+date=2017-08-16
+URL=https://openload.co/f/zw_6PplnxRA/The_Dark_Tower_2017_720p_TS_x264_AC3_TiTAN.mkv.mp4
+type=video
+name=The Dark Tower (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
+date=2017-08-16
+URL=https://openload.co/f/LJo4a8flbaM/The.Dark.Tower.2017.CamRip.XviD.AAC.ThaiRong_CpT%40CtHts.mkv.mp4
+
+
+type=video
 name=Atomic Blonde (2017) ENG HD-TS.x264-CPG
 thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
 date=2017-08-03
@@ -477,10 +489,10 @@ URL=https://openload.co/f/idkGiBNA4mE/Cars3.2017.NEW.HD-TS.x264.ThaiRong2.0_CpT%
 
 
 type=video
-name=Baywatch (2017) ENG WEB-DL.H264.AC3-EVO
+name=Baywatch (2017) ENG EXTENDED.HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
-date=2017-08-15
-URL=https://openload.co/f/LwsEzhEqg-g/W-B-W.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2017-08-16
+URL=https://openload.co/f/B40ssnwcaAc/Baywatch.2017.EXTENDED.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=Baywatch (2017) CAM updated UNCEN
 thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
