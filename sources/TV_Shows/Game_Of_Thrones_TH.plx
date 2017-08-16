@@ -52,7 +52,7 @@ type=video
 name=S07-E06___Death Is the Enemy___[COLOR=FF00FF00]Leaked 1080p HDTV HEVC x265[/COLOR]
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/sR2xIRcCL5BUQArkWIx1SAiwEiw.jpg
 date=2017-08-16
-URL=https://openload.co/f/RLt0_GQLDaY/N2.8.09S.E.mp4
+URL=https://openload.co/f/RLt0_GQLDaY/GOT_E07S06_leak.mp4
 type=video
 name=S07-E06___Death Is the Enemy___August 20, 2017
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/sR2xIRcCL5BUQArkWIx1SAiwEiw.jpg
