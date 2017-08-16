@@ -46,6 +46,12 @@ date=2017-08-08
 URL=https://openload.co/f/nOxFZxG8S1E/Wind_River_2017_CAMRip_Russian.avi.mp4
 
 type=video
+name=Detroit (2017) ENG CAM_x264_-_THESTiG
+thumb=https://image.tmdb.org/t/p/w640/7APLVpsGzXPJw16ZuBtXICxq8B9.jpg
+date=2017-08-16
+URL=https://openload.co/f/3PBD86AZoQs/Detroit_2017_CAM_x264_-_THESTiG.mkv.mp4
+
+type=video
 name=Valerian and the City of a Thousand Planets (2017) ENG CAM.READNFO.XViD-26k
 thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
 date=2017-08-16
