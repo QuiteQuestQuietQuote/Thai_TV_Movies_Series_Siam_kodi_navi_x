@@ -52,12 +52,6 @@ date=2017-08-16
 URL=https://openload.co/f/3PBD86AZoQs/Detroit_2017_CAM_x264_-_THESTiG.mkv.mp4
 
 type=video
-name=Valerian and the City of a Thousand Planets (2017) ENG CAM.READNFO.XViD-26k
-thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
-date=2017-08-16
-URL=https://openload.co/f/6aqe7wK0LR8/V-a-l-e-ri-an.2017.CAM.READNFO.XViD-26k.avi.mp4
-
-type=video
 name=The Book of Henry (2017) ENG CAM.XViD-26k
 thumb=https://image.tmdb.org/t/p/w640/suLFg4UjvM5BoDipg2Wu3gZ802T.jpg
 date=2017-08-14
@@ -394,7 +388,7 @@ type=video
 name=
 thumb=
 date=
-URL=
+URL=https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/960/9/229803121/810955534.mp4?token=1503005806-0x66d3df92eadb46b29b8aef98f260f8e8d9f28c1b
 
 
 
@@ -408,6 +402,18 @@ name=The Dark Tower (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
 date=2017-08-16
 URL=https://openload.co/f/LJo4a8flbaM/The.Dark.Tower.2017.CamRip.XviD.AAC.ThaiRong_CpT%40CtHts.mkv.mp4
+
+
+type=video
+name=Valerian and the City of a Thousand Planets (2017) ENG CAM.READNFO.XViD-26k
+thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
+date=2017-08-16
+URL=https://openload.co/f/6aqe7wK0LR8/V-a-l-e-ri-an.2017.CAM.READNFO.XViD-26k.avi.mp4
+type=video
+name=Valerian and the City of a Thousand Planets (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
+date=2017-08-17
+URL=https://streamango.com/f/kmqpqppqmtmrebom/V_1_Valerian_and_the_City_of_a_Thousand_Planets_mp4
 
 
 type=video
@@ -490,20 +496,11 @@ URL=https://openload.co/f/OTUdczQrr7Q/C_3_2017_1080P_HDTC_%5BLayar-21.com%5D.mp4
 type=video
 name=Cars 3 (2017) TH CAM updated TS
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
-date=2017-08-13
-URL=https://openload.co/f/idkGiBNA4mE/Cars3.2017.NEW.HD-TS.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+date=2017-08-17
+URL=https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/960/9/229804117/810961194.mp4?token=1503008352-0xdde13025ac4029aa6a7c8fffb98a211ad3ac2b85
 
 
-type=video
-name=Baywatch (2017) ENG EXTENDED.HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
-date=2017-08-16
-URL=https://openload.co/f/B40ssnwcaAc/Baywatch.2017.EXTENDED.HDRip.XviD.AC3-EVO.avi.mp4
-type=video
-name=Baywatch (2017) CAM updated UNCEN
-thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
-date=2017-06-16
-URL=https://openload.co/f/6Ofv0uUcw_U/Baywatch.2017.HDTS.UNCENSORED.x264.ThaiRong-CpT.mkv.mp4
+
 
 
 
@@ -578,6 +575,13 @@ player=default
 rating=-1.00
 description=In the fourth installment of the fighting franchise, Boyka is shooting for the big leagues when an accidental death in the ring makes him question everything he stands for. When he finds out the wife of the man he accidentally killed is in trouble, Boyka offers to fight in a series of impossible battles to free her from a life of servitude/description
 
+
+
+type=video
+name=Naked (2017) SUB
+thumb=https://image.tmdb.org/t/p/w640/5nxYmm03RAqAChErpRpFTHDlfCq.jpg
+date=2017-08-17
+URL=https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/960/9/229804840/810964472.mp4?token=1503008025-0x1ccd91ee3fcca9f585259617f878fe91cb76a8bd
 
 # 2776075
 type=video
@@ -740,6 +744,20 @@ thumb=
 date=
 URL=
 
+
+
+
+
+type=video
+name=Baywatch (2017) ENG EXTENDED.HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
+date=2017-08-16
+URL=https://openload.co/f/B40ssnwcaAc/Baywatch.2017.EXTENDED.HDRip.XviD.AC3-EVO.avi.mp4
+type=video
+name=Baywatch (2017) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
+date=2017-08-17
+URL=https://streamango.com/f/akrkkbnsacqctkrf/Z_1_Baywatch_mp4
 
 
 type=video
