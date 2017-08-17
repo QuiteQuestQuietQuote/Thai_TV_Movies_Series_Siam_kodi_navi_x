@@ -107,7 +107,7 @@ type=video
 name=
 thumb=
 date=2017-07-15
-URL=http://www.playerlunla.com/watch.php?v=kzYq541137
+URL=
 
 
 
