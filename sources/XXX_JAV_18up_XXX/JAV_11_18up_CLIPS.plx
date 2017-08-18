@@ -40,6 +40,69 @@ URL=
 
 
 
+type=video
+name=332xxxxxxxxxxxxxxxxxxxxAsian Sex Diary Preaw
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Preaw.jpg
+date=2017-08-18
+URL=https://streamango.com/f/dmsebrtdmdfqlfck/Asian_Sex_Diary_Preaw_MP4_mp4
+
+type=video
+name=Asian Sex Diary Shumei
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Shumei.jpg
+date=2017-08-18
+URL=https://streamango.com/f/fcbelkttpnndqpne/Asian_Sex_Diary_Shumei_MP4_mp4
+
+type=video
+name=Asian Sex Diary Eye.2
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Eye.2.jpg
+date=2017-08-18
+URL=https://streamango.com/f/cqoocnaalreppfom/Asian_Sex_Diary_Eye_MP4_mp4
+
+type=video
+name=Asian Sex Diary Rachel.Part.2
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Rachel.Part_.2.jpg
+date=2017-08-18
+URL=https://streamango.com/f/fmqpsnretskkkaao/Asian_Sex_Diary_Rachel_Part_2_MP4_mp4
+
+type=video
+name=Asian Sex Diary Ru
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Ru.jpg
+date=2017-08-18
+URL=https://streamango.com/f/fstkpnbfsqedldqs/Asian_Sex_Diary_Ru_MP4_mp4
+
+type=video
+name=Asian Sex Diary Ying
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Ying.jpg
+date=2017-08-18
+URL=https://streamango.com/f/bpctoplmbslbdsar/Asian_Sex_Diary_Ying_MP4_mp4
+
+type=video
+name=Asian Sex Diary Mook
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Mook.jpg
+date=2017-08-18
+URL=https://streamango.com/f/qmsmpmtsmtnnnlmr/Asian_Sex_Diary_Mook_MP4_mp4
+
+type=video
+name=Asian Sex Diary Mod.Part.2
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Mod.Part_.2.jpg
+date=2017-08-18
+URL=https://streamango.com/f/occpnkrnmtbamrlf/Asian_Sex_Diary_Mod_Part_2_MP4_mp4
+
+type=video
+name=Asian Sex Diary Trike.Patrol.May.s.audition
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Trike.Patrol.May_.s.audition.jpg
+date=2017-08-18
+URL=https://streamango.com/f/pqnfsaelqsbammne/Asian_Sex_Diary_Trike_Patrol_May_s_audition_MP4_mp4
+
+type=video
+name=Asian Sex Diary Pinay.threesome
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Pinay.threesome.jpg
+date=2017-08-18
+URL=https://streamango.com/f/cbrokraamaatlkrf/Asian_Sex_Diary_Pinay_threesome_MP4_mp4
+
+
+
+
 
 
 
