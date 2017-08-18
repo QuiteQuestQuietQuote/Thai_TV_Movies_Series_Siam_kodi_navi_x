@@ -21,6 +21,17 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
+
+
+
+type=playlist
+name=96_2_69_OHOHD_21_18up_Inter_Erotic
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Dirty-Weekend-2016.jpg
+date=2017-08-18
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_21_18up_Inter_Erotic.plx
+player=default
+rating=-1.00
+
 type=playlist
 name=96_2_69_OHOHD_20_18up_XXX
 thumb=https://3.bp.blogspot.com/-zXYk87RIOHI/WW2YRBhyaEI/AAAAAAAAJ-M/Vs4L14AZEl0PLXYym3Bq9kEghPEznQzyQCLcBGAs/s1600/2SSS.jpg

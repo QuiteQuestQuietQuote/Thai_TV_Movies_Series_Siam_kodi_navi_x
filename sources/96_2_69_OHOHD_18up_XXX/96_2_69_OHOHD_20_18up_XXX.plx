@@ -42,6 +42,267 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=106xxxxxxxxxxxxxxxxxxxxProhibited Hatred (2016)
+thumb=https://1.bp.blogspot.com/-CLqAYbDKyGA/WZBDce18vqI/AAAAAAAAKdY/SBcIcdK9UowDtwVTYdWR41j8ojQL4MdqgCLcBGAs/s1600/1.jpg
+date=2017-08-18
+URL=https://openload.co/f/QgNziL1rL-Y/%EA%B8%88%EC%A7%80%EB%90%9C_%EC%95%A0%EC%9A%95_%282016%29_%EC%98%81%ED%99%94_%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0.mp4
+
+type=video
+name=Friend lover (2017)
+thumb=https://4.bp.blogspot.com/-oBBVDikD2ng/WY3CKU26gZI/AAAAAAAAKc4/h5bfKIQVaLMKxmd4BO6vOzhJAZV6Y1QDwCLcBGAs/s1600/3SS.jpg
+date=2017-08-18
+URL=https://openload.co/f/scgtEGLrsMs/Friend_lover_%282017%29
+
+type=video
+name=Janus – Two Faces of Desire (2014)
+thumb=https://2.bp.blogspot.com/-k2sp1_Livoo/WY3CKgtESzI/AAAAAAAAKc8/aHtx3sSWkvYKD2dJaT6TmReO56qd9osVQCLcBGAs/s1600/3S.jpg
+date=2017-08-18
+URL=https://openload.co/f/vZNz82dB-ug/Janus_-_Two_Faces_of_Desire_%282014%29
+
+type=video
+name=Rehearsal (1995)
+thumb=https://1.bp.blogspot.com/-sTfRreOzryQ/WY2_PXDT1sI/AAAAAAAAKco/C2Sasj8PGk8s-Dsm2rsDZ2x1jIp-MN6HgCLcBGAs/s1600/2SSS.jpg
+date=2017-08-18
+URL=https://openload.co/f/7T9YVX9SYNc/Rehearsal_%281995%29_720p_HDRip
+
+type=video
+name=Slave of the Sword (1994)
+thumb=https://3.bp.blogspot.com/-7Smlg3IvElQ/WY2_OLs9EAI/AAAAAAAAKcg/9YQn95knRsg8WV90i_o97jUWeUZir8eyQCLcBGAs/s1600/2SS.jpg
+date=2017-08-18
+URL=https://openload.co/f/5f5FtUwn5fU/Slave_Of_The_Sword_.mp4
+
+type=video
+name=Bad Guy (2001)
+thumb=https://3.bp.blogspot.com/-NHGRvXf-uI0/WY2_OeXuCSI/AAAAAAAAKck/9jL1v0LrA5IrRnJqIBoV8rCwLuScbTRLwCLcBGAs/s1600/2S.jpg
+date=2017-08-18
+URL=https://openload.co/f/6nTY0SryziE/Bad.guy.2001.limited.dvdrip.divx-postx-1.mkv.mp4
+
+type=video
+name=Love In Between (2010)
+thumb=https://3.bp.blogspot.com/-ET7iDAXzv_s/WY2_OCqJeDI/AAAAAAAAKcc/oBcL75MfN2wHDrIUO6MnZWl2XaicjgSoQCLcBGAs/s1600/2.jpg
+date=2017-08-18
+URL=https://openload.co/f/kdvT_1K-TKc/Love%2C_In_Between_%282010%29_Tagalog_Dubbed.mp4
+
+type=video
+name=The Tales of Nights (2010)
+thumb=https://2.bp.blogspot.com/-yitGtZu1Ilg/WY29JGHKF2I/AAAAAAAAKcQ/TYjro5VapHctApBabe_xWQ9yuigjsH2bgCLcBGAs/s1600/1s.jpg
+date=2017-08-18
+URL=https://openload.co/f/VBfHc9YyKEk/The_Tales_of_Nights.01.mp4
+
+type=video
+name=sex my Friends girlfriend (2017)
+thumb=https://2.bp.blogspot.com/-v2qFNj2WmPQ/WYsRqlKPICI/AAAAAAAAKaQ/mgn65Zmb3Ysev4Aqlsdbpwbmh6fIrczqgCLcBGAs/s1600/3%25E0%25B8%2586%25E0%25B8%2586%25E0%25B8%2586.jpg
+date=2017-08-18
+URL=https://openload.co/f/9TXAcun4plE/sex_my_Friends_girlfriend_2017_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Reality of Womb Massage at Acupuncture Moxibustion Clinic (2016)
+thumb=https://2.bp.blogspot.com/-zlHDZ80As6o/WYsRqkwjvKI/AAAAAAAAKaU/V7yz9ohTYckk639D_b7Jw1WiP8PPnVEOwCLcBGAs/s1600/3%25E0%25B8%2586%25E0%25B8%2586.jpg
+date=2017-08-18
+URL=https://openload.co/f/bPEFPLaDQt8/Reality_of_Womb_Massage_at_Acupuncture_Moxibustion_Clinic_2016_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=A bad woman (2002)
+thumb=https://4.bp.blogspot.com/-BJkHkjs_NCw/WYsRqbjPI0I/AAAAAAAAKaM/jTt9o_jniKgVjvHtuJ8gzrjgB4QWmm_zQCLcBGAs/s1600/3%25E0%25B8%2586.jpg
+date=2017-08-18
+URL=https://openload.co/f/lTkJWBDWC8Q/A_bad_woman_2002_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=sex Windswept married women (2017)
+thumb=https://4.bp.blogspot.com/-d8ANV-6LPS0/WYsQMftNKVI/AAAAAAAAKZ4/f3qTeX-zgLIe9U0xIm8Aln7DlTw0g2FAwCLcBGAs/s1600/2SS.jpg
+date=2017-08-18
+URL=https://openload.co/f/eO1VIC0bK38/sex_Windswept_married_women_2017_HDRip_Layar-21.com%5D.mp4
+
+type=video
+name=Working Wife (2017)
+thumb=https://4.bp.blogspot.com/-APL6GVKnDQ4/WYsQMrGuoSI/AAAAAAAAKaA/z_W1DJpHEvkhYxAH-HKXLHaadOjnRK9QwCLcBGAs/s1600/2S.jpg
+date=2017-08-18
+URL=https://openload.co/f/Mhm3RAWgKHo/Working_Wife_2017_HDRip_Layar-21.com%5D.mp4
+
+type=video
+name=I love Sex too (2014)
+thumb=https://3.bp.blogspot.com/-IPpoBznYGe8/WYsQMtEaS6I/AAAAAAAAKZ8/W5TcXHw95YUgCOwhQCBfTVwOkq1LkjWIQCLcBGAs/s1600/2%25E0%25B8%2586.jpg
+date=2017-08-18
+URL=https://openload.co/f/8fV62zi554A/I_love_Sex_too_2014_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Rester vertical (2016)
+thumb=https://2.bp.blogspot.com/-q5lulRDb37s/WYsPIS_isEI/AAAAAAAAKZs/HobHOG1VQSARk5tqqWWQ7y4az_hDwdbEwCLcBGAs/s1600/3.jpg
+date=2017-08-18
+URL=https://openload.co/f/QF2Ymdmd6J0/Staying_Vertical_2016_Limited_BDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=My Uncles wife The day I became (2017)
+thumb=https://4.bp.blogspot.com/-UpTKkTvUk44/WYsOSMqRsdI/AAAAAAAAKZk/DxtUobLN_nodJJc_BrkFFGEUC35nsqLkQCLcBGAs/s1600/1SS.png
+date=2017-08-18
+URL=https://openload.co/f/TKHgRY7EFIE/My_Uncles_wife_The_day_I_became_2017_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=cicada and woman (2014)
+thumb=https://3.bp.blogspot.com/-nfJqjITA3ds/WYsM6uWsJCI/AAAAAAAAKZY/zBKK5SEpxEc9WhblWAyH-c8TG9tGPs6bQCLcBGAs/s1600/1s.jpg
+date=2017-08-18
+URL=https://openload.co/f/G5JMv0yD32g/cicada_and_woman_2014_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=GirlS Love boss (2014)
+thumb=https://3.bp.blogspot.com/-QO3aMCWaqKk/WYsM6ZcXC3I/AAAAAAAAKZU/H-S4kSZWnJUHirGosnQrGAYpMiZfQmsUQCLcBGAs/s1600/1.jpg
+date=2017-08-18
+URL=https://openload.co/f/Hdp5twHu4Dg/GirlS_Love_boss_2014_HDRip_%5BLayar-21.com%5D.mp4
+
+
+
+
+
+
+
+
+type=video
+name=88The attachment (2016)
+thumb=https://4.bp.blogspot.com/-pdh5dyMSWLg/WYnSydmot6I/AAAAAAAAKZE/0gUnmE0-XM0-VRi5RqI5eaz-NDdJC4L5gCLcBGAs/s1600/3SS.jpg
+date=2017-08-18
+URL=https://openload.co/f/tY3Ck4zE6I0/The_attachment_2016_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Single Pretty MILF Sex (2016)
+thumb=https://3.bp.blogspot.com/-g6wyRs5HH6Y/WYnSyXhZqlI/AAAAAAAAKZA/-meADin-F7ksmGyAnaVkA5hyrlUB000ggCLcBGAs/s1600/3S.jpg
+date=2017-08-18
+URL=https://openload.co/f/rOW4OYQ0dV4/Single_Pretty_MILF_Sex_2016_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=PLUG LOVE (2017)
+thumb=https://4.bp.blogspot.com/-nrig7ZgPBSI/WYnP7a2Bb3I/AAAAAAAAKYs/BsiESUO2vIkFIr81U6OzX50wggT4SIlrgCLcBGAs/s1600/2SSSS.jpg
+date=2017-08-18
+URL=https://openload.co/f/qEofUZOKi00/Plug_Love_2017_720_WEBRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Virgin Hunters 2 (2016)
+thumb=https://4.bp.blogspot.com/-G3FB637gs34/WYnP6f3dN9I/AAAAAAAAKYc/en50bFO-eiUX-i9lE1oKHxaT-9FG-iGsQCLcBGAs/s1600/2.jpg
+date=2017-08-18
+URL=https://openload.co/f/jQhzWyHS184/Virgin_Hunters_2_2016_DVDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=The Sisters’ S-Scandal (Korean Movie – 2017)
+thumb=https://3.bp.blogspot.com/-H-ubL2F_8e8/WYnKh1qD8xI/AAAAAAAAKYI/Xg5gSFMHiNoXje9ws12VGPilmgp8d-dlQCLcBGAs/s1600/1sssss.jpg
+date=2017-08-18
+URL=https://openload.co/f/Z1fAzYJGOzk/The.Sisters.S-Scandal.2017.HDRip.1080p
+
+type=video
+name=My Wife’s video
+thumb=https://4.bp.blogspot.com/-fq2YpL9pkj0/WYnKhXk6FDI/AAAAAAAAKYE/BcLlQEVv-FsjSToaonjd6kA7bJITSCINACLcBGAs/s1600/1ssss.jpg
+date=2017-08-18
+URL=https://openload.co/f/2bAILYC1FrI/My.Wifes.Video.KOR.HDRip.720p
+
+type=video
+name=Dream Affection (2011)
+thumb=https://1.bp.blogspot.com/-MksvHgVDnc0/WYnKg1GyPkI/AAAAAAAAKYA/4ry62gelEAcKmfFX1w6FSnsU2UaX5lmLQCLcBGAs/s1600/1sss.jpg
+date=2017-08-18
+URL=https://openload.co/f/kCXBgZHxBoA/Dream.Affection.2011.mp4
+
+type=video
+name=Lingerie Man
+thumb=https://4.bp.blogspot.com/-cp7giR_5EoA/WYnKf3egKMI/AAAAAAAAKX0/XrH6AUgM4gAk5ZXwAzcxN3-wChUFLT47wCLcBGAs/s1600/1ss.jpg
+date=2017-08-18
+URL=https://openload.co/f/s2HObmDeteM/Lingerie.Man.2015.HDRip
+
+type=video
+name=Midnight in Seoul (2016)
+thumb=https://4.bp.blogspot.com/-IeH2KW2OhMg/WYnKgP1CFNI/AAAAAAAAKX4/NR2MW6_IZ3M9CNK_7lGu-ROHC63rfM7GwCLcBGAs/s1600/1s.jpg
+date=2017-08-18
+URL=https://openload.co/f/4yUDAZUFy8k/Midnight.In.Seoul.2016.720p
+
+type=video
+name=Real (Korean Movie – 2017)
+thumb=https://3.bp.blogspot.com/-dnQ7juotQ0M/WYnKgXlpCdI/AAAAAAAAKX8/TbX19-40U4oKf-0F9ejWB1JCceewEUYAACLcBGAs/s1600/1.jpg
+date=2017-08-18
+URL=https://openload.co/f/52h-icc81LA/Real.2017.720p.HDRip
+
+type=video
+name=A Job At Love Hotel (2015)
+thumb=https://3.bp.blogspot.com/-aCEsIgMmkmo/WYiQ2-l1F7I/AAAAAAAAKXY/mXLyOTvou4YNqIzYHZY50iQQND9h4tGzQCLcBGAs/s1600/2S.jpg
+date=2017-08-18
+URL=https://openload.co/f/vQCxDZBeKzo/A_Job_At_Love_Hotel_%282015%29.mp4
+
+type=video
+name=Invisible Hentai Man (2013)
+thumb=https://1.bp.blogspot.com/-Ok-PBFXnaUg/WYiQ2sWkfaI/AAAAAAAAKXU/JE45B9vzJwEAA9WmWNB-RFtQEyBv2yiJQCLcBGAs/s1600/2.jpg
+date=2017-08-18
+URL=https://openload.co/f/ljXMcmIQMdw/Invisible.Hentai.Man.2013
+
+type=video
+name=Play in Colors (2017)
+thumb=https://2.bp.blogspot.com/-iVTzGrwP6AA/WYiO0rn0EAI/AAAAAAAAKXE/FbjGzhxbox4U3_3O_8FK61wfo51lFTalQCLcBGAs/s1600/1sss.jpg
+date=2017-08-18
+URL=https://openload.co/f/gWoVzvyRaGA/Play_in_Colors_%282017%29_%5BUncute%5D
+
+type=video
+name=Mother’s Job (2017) Uncut
+thumb=https://3.bp.blogspot.com/-0I5Z8V_uCjo/WYiOz8sL6cI/AAAAAAAAKW8/wxspnE95dncJ7O6YOPI6-DFPR8MP29zngCLcBGAs/s1600/1ss.jpg
+date=2017-08-18
+URL=https://openload.co/f/HuxnZHOOtqA/Mother%27s_Job%2C_%282017%29_%5BUncute%5D
+
+type=video
+name=Love Scene (2013)
+thumb=https://4.bp.blogspot.com/-c7qcNpuuwO4/WYiOzq5ohhI/AAAAAAAAKW4/NJ53iGDeRPoU-Z7AtTe2NN44fna23KduACLcBGAs/s1600/1s.jpg
+date=2017-08-18
+URL=https://openload.co/f/VYD2Ch7NsY4/Love.Scene.2013.HDRip.H264-KTH.mkv.mp4
+
+type=video
+name=Secrets Objects (2011)
+thumb=https://2.bp.blogspot.com/-di_v5v6IZZM/WYiOz_9CBsI/AAAAAAAAKXA/Q9W7o4D1uHoqh1-4C7EbEVGNdeckv-7mwCLcBGAs/s1600/1.jpg
+date=2017-08-18
+URL=https://openload.co/f/ysaU-pstVss/Secrets.Objects.2011.mp4
+
+type=video
+name=Diario_de_una_ninfomana_2008
+thumb=https://4.bp.blogspot.com/-k3cNn_PrnfA/WYb5nunAUGI/AAAAAAAAKWo/XovfJs3lNyUx_67KI_wFCL7C4MW48_CbwCLcBGAs/s1600/5SSSS.png
+date=2017-08-18
+URL=https://openload.co/f/FM7jLFJ58ac/Diario_de_una_ninfomana_2008.Cg.avi.mp4
+
+type=video
+name=Kidnapped Girls Agency (1985)
+thumb=https://3.bp.blogspot.com/-7sdBx-NiPOI/WYb5k2pu5vI/AAAAAAAAKWk/bZTEvfgVVgMQHzqM5YZMwnXu-iLR5C_bQCLcBGAs/s1600/5SS.jpg
+date=2017-08-18
+URL=https://openload.co/f/e7ZWT6ZSf9c/Kidnapped_Girls_Agency_%281985%29.avi.mp4
+
+type=video
+name=Behind the Scenes of an Adult Movie (1984)
+thumb=https://1.bp.blogspot.com/-kMpu8PtNkYY/WYb5kqvn-QI/AAAAAAAAKWc/WLHzt2oCWGcecEFQnmirO5WEQBsNVnnGACLcBGAs/s1600/5S.jpg
+date=2017-08-18
+URL=https://openload.co/f/uXahPv0Wkfk/adult.mp4
+
+type=video
+name=Teenage Runaway (1975)
+thumb=https://1.bp.blogspot.com/-5W8zkXV1LqA/WYb5kpKXZmI/AAAAAAAAKWg/i41Lz8pPED4-yq5EFpP_SzcfgeT3x5qGQCLcBGAs/s1600/5.jpg
+date=2017-08-18
+URL=https://openload.co/f/LdcBrN3vyV0/runaway.vob.mp4
+
+type=video
+name=I Am a Pervert (2016)
+thumb=https://1.bp.blogspot.com/-dl8_RcD_JB4/WYb4MvOGXuI/AAAAAAAAKWQ/XTNF58Sk6aMHvfxmWhhRdU3LkFb8Qo2OQCLcBGAs/s1600/4.jpg
+date=2017-08-18
+URL=https://openload.co/f/rKmqYEQXn80/%EB%82%98%EB%8A%94_%EB%B3%80%ED%83%9C%EB%8B%A4_%28I_Am_a_Pervert%2C%EC%BD%94%EB%AF%B8%EB%94%94%2C2016%29_%EC%98%81%ED%99%94_%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0.mp4
+
+
+
+
+
+
+
+
 type=video
 name=67xxxxxxxxxxxxxxxxxxxxBewitching Attraction (2006)
 thumb=https://2.bp.blogspot.com/-zC2BVonFlYc/WYb2N4_nUOI/AAAAAAAAKWE/URVk6VHevio9sxa5WAenraptrw9ljXSpgCLcBGAs/s1600/3SSSSS.jpg
