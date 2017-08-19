@@ -32,7 +32,7 @@ URL=
 
 
 type=video
-name=The Nut Job 2: Nutty by Nature (2017) ENG
+name=The Nut Job 2: Nutty by Nature (2017) ENG HDCAM_XviD_-_UnKnOwN
 thumb=https://image.tmdb.org/t/p/w640/9FVJOUCmruekroyfsTsAKDYST80.jpg
 date=2017-08-18
 URL=https://openload.co/f/dGpcPf8KdDw/The_Nut_Job_2_2017_HDCAM_XviD_-_UnKnOwN.avi.mp4
@@ -242,6 +242,23 @@ URL=
 
 
 
+type=video
+name=My Cousin Rachel (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/yz9Pnx5tbpZOHWsCD0LtoTCgmLi.jpg
+date=2017-08-19
+URL=https://openload.co/f/Rw2KpdwkhpE/My.Cousin.Rachel.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+
+type=video
+name=Lady Macbeth (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/ab6JQbHMtNz09Dysp2Ehwq18Iha.jpg
+date=2017-08-19
+URL=https://openload.co/f/LtWg2TwiFcg/Lady.Macbeth.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Inconceivable (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/lvihB44CMiQHqC7tvARYEjQ5Buf.jpg
+date=2017-08-19
+URL=https://openload.co/f/zRaFHRuS-Ms/Inconceivable.2017.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
 
 type=video
 name=Security (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -933,9 +950,17 @@ URL=
 
 
 
+type=video
+name=Deep Trap (2015)
+thumb=https://image.tmdb.org/t/p/w640/b5wcJvj1cKsHgBv4CIWwORbIR5n.jpg
+date=2017-08-19
+URL=https://openload.co/f/sF5Ad_5upPg/%7BMINI_Super-HQ%7D_Deep.Trap.2015.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
-
-
+type=video
+name=The Con Artists (2014)
+thumb=https://image.tmdb.org/t/p/w640/rn2xTdw2pyRTcjcwHy5yEfxkfyQ.jpg
+date=2017-08-19
+URL=https://openload.co/f/npp4ZoTvRiw/%7BMINI_Super-HQ%7D_The.Con.Artists.2014.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 type=video
 name=Trespass Against Us (2017)
