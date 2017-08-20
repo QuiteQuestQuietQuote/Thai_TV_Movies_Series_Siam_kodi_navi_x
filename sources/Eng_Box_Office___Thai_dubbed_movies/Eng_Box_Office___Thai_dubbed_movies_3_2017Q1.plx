@@ -22,7 +22,7 @@ type=video
 name=
 thumb=
 date=
-URL=
+URL=http://168.61.51.126/service/handler.ashx?eid=e6d71583bf4f1448a84c7182cde11b29c&cmd=ipon
 
 
 
