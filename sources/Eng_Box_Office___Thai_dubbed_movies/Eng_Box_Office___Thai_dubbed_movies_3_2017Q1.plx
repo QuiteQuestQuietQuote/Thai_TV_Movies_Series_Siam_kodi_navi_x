@@ -62,10 +62,10 @@ date=2017-08-14
 URL=https://openload.co/f/vNxzOLy-yrw/The.Book.of.Henry.2017.CAM.XViD-26k.avi.mp4
 
 type=video
-name=Girls Trip (2017) ENG PROPER.v2.HDCAM.x264.AAC-WAVE
+name=Girls Trip (2017) ENG NEW.HD-TS.x264-CPG
 thumb=https://image.tmdb.org/t/p/w640/94nCLn74lBh4pLdZPIad18BpheE.jpg
-date=2017-08-05
-URL=https://openload.co/f/uwllYtiSgoE/Girl.Trip.2017.PROPER.v2.HDCAM.x264.AAC-WAVE.mp4
+date=2017-08-20
+URL=https://openload.co/f/2gSdAWN-WgE/G.T.2017.NEW.HD-TS.x264-CPG.mkv.mp4
 
 type=video
 name=The Emoji Movie (2017) ENG HDCAM_-_UnKnOwN
@@ -109,11 +109,7 @@ thumb=https://image.tmdb.org/t/p/w640/AjHZIkzhPXrRNE4VSLVWx6dirK9.jpg
 date=2017-06-24
 URL=https://openload.co/f/Z1xQaSLEHrs/Ca-p-t-ain.Un-de-r-p-a-nts.The.First.Epic.Movie.2017.CAM.X264-NoGRP.mkv.mp4
 
-type=video
-name=Rough Night (2017) ENG
-thumb=https://image.tmdb.org/t/p/w640/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg
-date=2017-06-22
-URL=https://openload.co/f/YqgLbXDeYcs/Rough.Night.2017.HDTS.x264.MP3-NoGrp.mkv.mp4
+
 
 type=video
 name=Lowriders (2017) ENG
@@ -240,7 +236,11 @@ URL=
 
 
 
-
+type=video
+name=Rough Night (2017) ENG 720p.bluray.x264
+thumb=https://image.tmdb.org/t/p/w640/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg
+date=2017-08-20
+URL=https://openload.co/f/ziHnwMeGpGM/blow-rough.night.2017.720p.bluray.x264.mkv.mp4
 
 type=video
 name=My Cousin Rachel (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -467,10 +467,10 @@ thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
 date=2017-08-15
 URL=https://openload.co/f/REZkiL6pA08/D.2017.NEW.HD-TS.X264-CPG.mkv
 type=video
-name=Dunkirk (2017) TH CAM
+name=Dunkirk (2017) TH TS
 thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
-date=2017-07-27
-URL=https://openload.co/f/nxn3KkW35Qo/Dunkirk_%282017%29_%E0%B8%94%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%81.mp4
+date=2017-08-20
+URL=https://openload.co/f/yHAqwafVlbk/Dunkirk.2017.HD-TS.x264.ThaiRong_CpT%40CtHts.mkv.mp4
 
 
 type=video
@@ -527,7 +527,11 @@ URL=https://player.vimeo.com/video/229810745
 
 
 
-
+type=video
+name=Overdrive (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
+date=2017-08-20
+URL=https://player.vimeo.com/video/230319332
 
 type=video
 name=Fairy Tail Movie 2: Dragon Cry (2017) TH CAM
@@ -819,16 +823,7 @@ date=2017-07-17
 URL=https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264..ThaIRonG.CtHts_-_CpT.mkv.mp4
 
 
-type=video
-name=The Hunter's Prayer (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/2qVnSDniGtf2mL941v2izSIzpon.jpg
-date=2017-07-26
-URL=https://openload.co/f/fuw_sTgShLw/The.Hunters.Prayer.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
-type=video
-name=The Hunter's Prayer (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/2qVnSDniGtf2mL941v2izSIzpon.jpg
-date=2017-07-26
-URL=https://openload.co/f/_vlz-uFXxbg/%5BT%5DThe_Hunter%27s_Prayer_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B8_%282017%29
+
 
 
 type=video
@@ -946,8 +941,17 @@ URL=
 
 
 
-
-
+# 142
+type=video
+name=The Hunter's Prayer (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/2qVnSDniGtf2mL941v2izSIzpon.jpg
+date=2017-07-26
+URL=https://openload.co/f/fuw_sTgShLw/The.Hunters.Prayer.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+type=video
+name=The Hunter's Prayer (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/2qVnSDniGtf2mL941v2izSIzpon.jpg
+date=2017-08-20
+URL=https://openload.co/f/3rKq6yN3DPI/%7BMINI_Super-HQ%7D_The.Hunter%27s.Prayer.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
 type=video
@@ -971,8 +975,8 @@ URL=https://openload.co/f/3PhLY257U2k/%7BMINI_Super-HQ%7D_Trespass.Against.Us.20
 type=video
 name=Lego Scooby-Doo! Blowout Beach Bash (2017)
 thumb=https://image.tmdb.org/t/p/w640/sNlBs5ePyuTMFaBbUHabfpobjZX.jpg
-date=2017-08-12
-URL=https://streamango.com/f/qmktrkclbdqnbepn/Lego_Scooby-Doo_Blowout_Beach_Bash_mp4
+date=2017-08-20
+URL=https://openload.co/f/VbvmCFnKeZ8/%7BMINI-HQ%7D_Lego.Scooby.Doo.Blowout.Beach.2017.1080p.BrRip.AAC.x264.CtHts_-_PORSC.mkv.mp4
 
 # 2767389
 type=video
@@ -994,7 +998,7 @@ type=video
 name=King Arthur: Legend of the Sword (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/5qtySjfuJfOLvVrVXuwNo2BIVPH.jpg
 date=2017-08-12
-URL=https://streamango.com/f/msrdkakdflqknrpk/King_Arthur_Legend_of_the_Sword_mp4
+URL=https://openload.co/f/ToENUh_aPdI/%7BMINI_Super-HQ%7D_King.Arthur.Legend.of.the.Sword.2017.1080p.BrRip.DTS.x264.THB_NongZEZA%40CtHts.mkv.mp4
 player=default
 rating=-1.00
 
