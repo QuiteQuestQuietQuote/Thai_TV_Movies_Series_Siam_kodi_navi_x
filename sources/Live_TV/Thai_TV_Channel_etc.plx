@@ -74,7 +74,7 @@ rating=-1.00
 type=video
 name=DW TV_youtube
 thumb=http://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png
-URL=https://youtu.be/jna9PRaWoyw?list=PLO3e7xNloh15O5o7oTfv7Gfz4q0J1s6aa
+URL=https://youtu.be/XV9mc9sOmDs
 player=default
 rating=-1.00
 
