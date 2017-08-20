@@ -22,7 +22,7 @@ type=video
 name=
 thumb=
 date=
-URL=
+URL=http://cornfile.com/1fkh3vddioma
 
 
 
