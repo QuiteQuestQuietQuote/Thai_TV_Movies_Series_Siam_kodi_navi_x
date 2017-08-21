@@ -49,15 +49,27 @@ URL=
 
 
 type=video
-name=S07-E06___Death Is the Enemy___[COLOR=FF00FF00]Leaked 1080p HDTV HEVC x265[/COLOR]
-thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/sR2xIRcCL5BUQArkWIx1SAiwEiw.jpg
-date=2017-08-16
-URL=https://openload.co/f/RLt0_GQLDaY/GOT_E07S06_leak.mp4
-type=video
-name=S07-E06___Death Is the Enemy___August 20, 2017
-thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/sR2xIRcCL5BUQArkWIx1SAiwEiw.jpg
-date=2017-08-14
+name=S07-E07___Episode 7___August 27, 2017
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/q4eUg0TbnefVBNruZWphu9p32Ns.jpg
+date=2017-08-21
 URL=
+type=video
+name=S07-E07___Episode 7___August 27, 2017
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/q4eUg0TbnefVBNruZWphu9p32Ns.jpg
+date=2017-08-21
+URL=
+
+
+type=video
+name=S07-E06___Death Is the Enemy___[COLOR=FF00FF00]1080p.web.h264-tbs[/COLOR]
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/odrg1ren7j3HnggIKuKuSMfyOsg.jpg
+date=2017-08-21
+URL=https://openload.co/f/TXPP6G4HsJw/game.of.thrones.s07e06.1080p.web.h264-tbs.mkv.mp4
+type=video
+name=S07-E06___Death Is the Enemy___TH SUB
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/odrg1ren7j3HnggIKuKuSMfyOsg.jpg
+date=2017-08-14
+URL=https://drive.google.com/open?id=0B-3JKwDcQ1PDTDhITzFwa0dKV0U
 
 
 type=video

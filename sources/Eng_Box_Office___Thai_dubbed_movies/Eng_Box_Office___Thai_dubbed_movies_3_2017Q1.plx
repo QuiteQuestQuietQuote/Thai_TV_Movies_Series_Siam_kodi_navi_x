@@ -38,10 +38,10 @@ date=2017-08-18
 URL=https://openload.co/f/dGpcPf8KdDw/The_Nut_Job_2_2017_HDCAM_XviD_-_UnKnOwN.avi.mp4
 
 type=video
-name=Annabelle: Creation (2017) RUS
+name=Annabelle: Creation (2017) ENG CAM.NEW.AUDIO.x264-THESTiG
 thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
-date=2017-08-14
-URL=https://openload.co/f/nphjRbqkDOE/Annabelle.Creation.CAMRip.Russian.mp4
+date=2017-08-21
+URL=https://openload.co/f/QZHlQziOeMc/Annabelle.Creation.2017.CAM.NEW.AUDIO.x264-THESTiG.mkv.mp4
 
 type=video
 name=Wind River (2017) RUS
@@ -50,10 +50,10 @@ date=2017-08-08
 URL=https://openload.co/f/nOxFZxG8S1E/Wind_River_2017_CAMRip_Russian.avi.mp4
 
 type=video
-name=Detroit (2017) ENG CAM_x264_-_THESTiG
+name=Detroit (2017) ENG CAM.x264-THESTiG
 thumb=https://image.tmdb.org/t/p/w640/7APLVpsGzXPJw16ZuBtXICxq8B9.jpg
-date=2017-08-16
-URL=https://openload.co/f/3PBD86AZoQs/Detroit_2017_CAM_x264_-_THESTiG.mkv.mp4
+date=2017-08-21
+URL=https://openload.co/f/-k0NTJi1-Hk/Detroit.2017.CAM.x264-THESTiG.mkv.mp4
 
 type=video
 name=The Book of Henry (2017) ENG CAM.XViD-26k
@@ -92,10 +92,10 @@ date=2017-07-15
 URL=https://openload.co/f/chn8UlevFo4/A.E.O.M.2017.CAM.XViD-26k.avi.mp4
 
 type=video
-name=The House (2017) ENG
+name=The House (2017) ENG HDTS.x264-NG
 thumb=https://image.tmdb.org/t/p/w640/hkmWkVgirei79bwds23Hr0lWSXS.jpg
-date=2017-07-07
-URL=https://openload.co/f/zTu5dZkP_KA/The.H-o-u-s-e.2017.HDTS.x264-NoGRP.mkv.mp4
+date=2017-08-21
+URL=https://openload.co/f/qvBJ124kiL8/The.House.2017.HDTS.x264-NG.mkv.mp4
 
 
 
@@ -419,10 +419,10 @@ thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
 date=2017-08-16
 URL=https://openload.co/f/zw_6PplnxRA/The_Dark_Tower_2017_720p_TS_x264_AC3_TiTAN.mkv.mp4
 type=video
-name=The Dark Tower (2017) TH CAM
+name=The Dark Tower (2017) TH TS
 thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
-date=2017-08-16
-URL=https://openload.co/f/LJo4a8flbaM/The.Dark.Tower.2017.CamRip.XviD.AAC.ThaiRong_CpT%40CtHts.mkv.mp4
+date=2017-08-21
+URL=https://streamango.com/f/selpklpfdtpqqrnc/The_Dark_Tower_2017_720p_TS_x264_AC3_ThaiRong_CpT_CtHts_mkv_mp4
 
 
 type=video
@@ -486,10 +486,10 @@ URL=https://openload.co/f/ltgjHHKy-O8/War.For.The.Planet.Of.The.Apes.2017.CAMRip
 
 
 type=video
-name=Spider-Man: Homecoming (2017) ENG updated2 HDTC-IA5
+name=Spider-Man: Homecoming (2017) ENG New_720p_TS_x264_TiTAN
 thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
-date=2017-07-27
-URL=https://openload.co/f/PiWRIo4SMPs/S-M-H-2017.720P.HDTC-IA5.mkv.mp4
+date=2017-08-21
+URL=https://openload.co/f/rKzwpuTsbZI/Spider-Man_Homecoming_2017_New_720p_TS_x264_TiTAN.mkv.mp4
 type=video
 name=Spider-Man: Homecoming (2017) TH TS
 thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
@@ -528,10 +528,10 @@ URL=https://player.vimeo.com/video/229810745
 
 
 type=video
-name=Overdrive (2017) TH CAM
+name=Overdrive (2017) TH TS
 thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
-date=2017-08-20
-URL=https://player.vimeo.com/video/230319332
+date=2017-08-21
+URL=https://streamango.com/f/nomocbbqnpspapln/Overdrive_2017_D_TS_XVID_AC3_ThaiRong_CpT_CtHts_mkv_mp4
 
 type=video
 name=Fairy Tail Movie 2: Dragon Cry (2017) TH CAM
