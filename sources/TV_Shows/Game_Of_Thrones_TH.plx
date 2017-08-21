@@ -36,7 +36,7 @@ type=video
 name=
 thumb=
 date=
-URL=
+URL=https://streaming.ewiotse904ga.bid/127.0.0.1/playlist.m3u8?ggdomain=eHh4&ggvideo=eHh4&cookie=eHh4&link=LzQ2LzdlLzQ2N2U3MzI1ZWFlODE5YjY3MmI3MjlhN2JiOTk5NGM0LTcyMC5tcDQ=
 
 
 
