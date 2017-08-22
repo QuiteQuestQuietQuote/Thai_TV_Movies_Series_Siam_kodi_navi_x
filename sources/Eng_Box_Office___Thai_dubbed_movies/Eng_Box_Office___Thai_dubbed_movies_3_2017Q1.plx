@@ -927,7 +927,7 @@ type=video
 name=
 thumb=
 date=
-URL=https://redirector.googlevideo.com/videoplayback?api=api.mooplayer.net&id=2f297ae4f85af337&itag=37&source=webdrive&requiressl=yes&ttl=transient&mm=31&mn=sn-npoeene7&ms=au&mv=m&nh=IgpwcjAyLnNpbjExKhcyMDAxOjQ4NjA6MToxOjI6ODJkOjA6MQ&pl=49&mime=video/mp4&lmt=1485260866006046&mt=1485508529&ip=2605:f700:40:c00::67&ipbits=32&expire=1485522951&sparams=ip%2Cipbits%2Cexpire%2Cid%2Citag%2Csource%2Crequiressl%2Cttl%2Cmm%2Cmn%2Cms%2Cmv%2Cnh%2Cpl%2Cmime%2Clmt&signature=77C78A0180FDC302C0A2B680D136840D6730F708.7735AABEC0AF249A060986C6090E03252CA2E710&key=ck2&app=explorer
+URL=
 
 
 
