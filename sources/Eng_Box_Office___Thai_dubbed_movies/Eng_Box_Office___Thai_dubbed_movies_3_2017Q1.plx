@@ -38,10 +38,10 @@ date=2017-08-18
 URL=https://openload.co/f/dGpcPf8KdDw/The_Nut_Job_2_2017_HDCAM_XviD_-_UnKnOwN.avi.mp4
 
 type=video
-name=Annabelle: Creation (2017) ENG CAM.NEW.AUDIO.x264-THESTiG
+name=Annabelle: Creation (2017) ENG TS.XviD.AC3-TiTAN
 thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
-date=2017-08-21
-URL=https://openload.co/f/QZHlQziOeMc/Annabelle.Creation.2017.CAM.NEW.AUDIO.x264-THESTiG.mkv.mp4
+date=2017-08-22
+URL=https://openload.co/f/Gbgko9aJf2o/Annabelle.Creation.2017.TS.XviD.AC3-TiTAN.avi.mp4
 
 type=video
 name=Wind River (2017) RUS
@@ -86,10 +86,10 @@ date=2017-07-20
 URL=https://openload.co/f/qbtGrAkyjDE/Baby_Driver_2017_720p_HDCAM_x264_CMovie.co..mp4
 
 type=video
-name=All Eyez on Me (2017) ENG updated2 TS
+name=All Eyez on Me (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg
-date=2017-07-15
-URL=https://openload.co/f/chn8UlevFo4/A.E.O.M.2017.CAM.XViD-26k.avi.mp4
+date=2017-08-22
+URL=https://openload.co/f/HqDh4KLQXeI/All.Eyez.on.Me.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=The House (2017) ENG HDTS.x264-NG
@@ -97,11 +97,11 @@ thumb=https://image.tmdb.org/t/p/w640/hkmWkVgirei79bwds23Hr0lWSXS.jpg
 date=2017-08-21
 URL=https://openload.co/f/qvBJ124kiL8/The.House.2017.HDTS.x264-NG.mkv.mp4
 
-
-
-
-
-
+type=video
+name=Starship Troopers: Traitor of Mars (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg
+date=2017-08-22
+URL=https://openload.co/f/f-c5hqi-Nec/Starship_Troopers_Traitor_of_Mars.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=Captain Underpants: The First Epic Movie (2017) ENG
@@ -109,13 +109,11 @@ thumb=https://image.tmdb.org/t/p/w640/AjHZIkzhPXrRNE4VSLVWx6dirK9.jpg
 date=2017-06-24
 URL=https://openload.co/f/Z1xQaSLEHrs/Ca-p-t-ain.Un-de-r-p-a-nts.The.First.Epic.Movie.2017.CAM.X264-NoGRP.mkv.mp4
 
-
-
 type=video
-name=Lowriders (2017) ENG
+name=Lowriders (2017) ENG WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/Yt1iun7B5o5k8QlVLD8biAeKvp.jpg
-date=2017-06-27
-URL=https://openload.co/f/tTU0OPN5Aus/L-o-w-R-i-d-e-r-s.2017.CAM.READNFO.XViD-26k.avi.mp4
+date=2017-08-22
+URL=https://openload.co/f/4nTt_dgmeZ0/Lowriders.2016.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 # 2773790
 type=video
@@ -127,23 +125,16 @@ player=default
 rating=-1.00
 description=A crime drama set in 1970s Boston, about a gun sale which goes wrong./description
 
-
-
 type=video
 name=Deep (2017) RUS
 thumb=https://image.tmdb.org/t/p/w640/bVGA7LzL7uKasrweoRufITfMdYv.jpg
 URL=https://openload.co/f/TAQ9pCr9r6c/D_2017_CAMRip_%5BLayar-21.com%5D.mp4
-
-
-
 
 type=video
 name=Camera Store (2016) ENG
 thumb=https://image.tmdb.org/t/p/w640/jsnP7Tat547TESHT2mp3aABGH47.jpg
 date=2017-06-20
 URL=https://openload.co/f/etk7MaqSfkQ/Camera.Store.2016.WEB-DL.x264-FGT.mp4
-
-
 
 # 2773792
 type=video
@@ -530,8 +521,8 @@ URL=https://player.vimeo.com/video/229810745
 type=video
 name=Overdrive (2017) TH TS
 thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
-date=2017-08-21
-URL=https://streamango.com/f/nomocbbqnpspapln/Overdrive_2017_D_TS_XVID_AC3_ThaiRong_CpT_CtHts_mkv_mp4
+date=2017-08-22
+URL=https://openload.co/f/aKav5LxRtP0/Overdrive.2017.D.TS.XVID.AC3.ThaiRong_CpT%40CtHts.mkv.mp4
 
 type=video
 name=Fairy Tail Movie 2: Dragon Cry (2017) TH CAM
@@ -936,7 +927,7 @@ type=video
 name=
 thumb=
 date=
-URL=
+URL=https://redirector.googlevideo.com/videoplayback?api=api.mooplayer.net&id=2f297ae4f85af337&itag=37&source=webdrive&requiressl=yes&ttl=transient&mm=31&mn=sn-npoeene7&ms=au&mv=m&nh=IgpwcjAyLnNpbjExKhcyMDAxOjQ4NjA6MToxOjI6ODJkOjA6MQ&pl=49&mime=video/mp4&lmt=1485260866006046&mt=1485508529&ip=2605:f700:40:c00::67&ipbits=32&expire=1485522951&sparams=ip%2Cipbits%2Cexpire%2Cid%2Citag%2Csource%2Crequiressl%2Cttl%2Cmm%2Cmn%2Cms%2Cmv%2Cnh%2Cpl%2Cmime%2Clmt&signature=77C78A0180FDC302C0A2B680D136840D6730F708.7735AABEC0AF249A060986C6090E03252CA2E710&key=ck2&app=explorer
 
 
 
@@ -1031,8 +1022,8 @@ URL=https://openload.co/f/OGhAhmckJAA/Guardians.of.the.Galaxy.Vol.2.2017.1080p.B
 type=video
 name=Guardians of the Galaxy Vol. 2 (2017) TH
 thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
-date=2017-08-09
-URL=https://openload.co/f/lP9qtHS2NxU/Guardians_of_the_Galaxy%2C_Vol._2_%282017%29.AC3.5.1.H264-BASB_%281%29.mkv.mp4
+date=2017-08-22
+URL=https://openload.co/f/nBcaGZx-j6s/%7BMINI_Super-HQ%7D_Guardians.of.the.Galaxy.Vol.2.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 player=default
 rating=-1.00
 description=The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage./description
