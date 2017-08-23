@@ -22,7 +22,7 @@ type=video
 name=
 thumb=
 date=
-URL=
+URL=https://openload.co/f/TfP08UHvkLI/view
 
 
 
@@ -85,11 +85,7 @@ thumb=https://image.tmdb.org/t/p/w640/mBkOBaxjr7IBHGuQS3sSFeyYTM.jpg
 date=2017-07-20
 URL=https://openload.co/f/qbtGrAkyjDE/Baby_Driver_2017_720p_HDCAM_x264_CMovie.co..mp4
 
-type=video
-name=All Eyez on Me (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg
-date=2017-08-22
-URL=https://openload.co/f/HqDh4KLQXeI/All.Eyez.on.Me.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=The House (2017) ENG HDTS.x264-NG
@@ -227,11 +223,19 @@ URL=
 
 
 
+
+
 type=video
-name=Rough Night (2017) ENG 720p.bluray.x264
-thumb=https://image.tmdb.org/t/p/w640/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg
-date=2017-08-20
-URL=https://openload.co/f/ziHnwMeGpGM/blow-rough.night.2017.720p.bluray.x264.mkv.mp4
+name=Megan Leavey (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/yq66hYkXFaj2DDqCkF6T2wT7VxQ.jpg
+date=2017-08-23
+URL=https://openload.co/f/qWLDICSoHBg/rep-meganleavey.2017.1080p.bluray.x264.mkv.mp4
+
+type=video
+name=All Eyez on Me (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg
+date=2017-08-23
+URL=https://openload.co/f/Jet7-0LKo9U/All.Eyez.on.Me.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 
 type=video
 name=My Cousin Rachel (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -364,7 +368,11 @@ thumb=https://image.tmdb.org/t/p/w640/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg
 date=2017-07-28
 URL=https://openload.co/f/H_8mTjk0s20/raw.2016.limited.720p.bluray.x264-usury.mkv.mp4
 
-
+type=video
+name=Rough Night (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg
+date=2017-08-20
+URL=https://openload.co/f/ziHnwMeGpGM/blow-rough.night.2017.720p.bluray.x264.mkv.mp4
 
 
 
