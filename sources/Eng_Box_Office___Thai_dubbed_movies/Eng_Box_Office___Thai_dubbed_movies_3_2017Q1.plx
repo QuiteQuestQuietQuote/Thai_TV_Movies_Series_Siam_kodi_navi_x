@@ -22,7 +22,7 @@ type=video
 name=
 thumb=
 date=
-URL=https://openload.co/f/TfP08UHvkLI/view
+URL=
 
 
 
