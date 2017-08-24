@@ -24,7 +24,7 @@ type=video
 name=
 thumb=
 date=
-URL=https://openload.co/f/Yhcef5iUs2c/Game_of_Thrones_S07E06_Beyond_the_Wall_AMZN_1080p.strm
+URL=https://openload.co/f/2xKUIONETk8/aaa.strm
 
 type=video
 name=The Story So Far
