@@ -105,11 +105,7 @@ thumb=https://image.tmdb.org/t/p/w640/AjHZIkzhPXrRNE4VSLVWx6dirK9.jpg
 date=2017-06-24
 URL=https://openload.co/f/Z1xQaSLEHrs/Ca-p-t-ain.Un-de-r-p-a-nts.The.First.Epic.Movie.2017.CAM.X264-NoGRP.mkv.mp4
 
-type=video
-name=Lowriders (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/Yt1iun7B5o5k8QlVLD8biAeKvp.jpg
-date=2017-08-22
-URL=https://openload.co/f/4nTt_dgmeZ0/Lowriders.2016.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 # 2773790
 type=video
@@ -226,6 +222,12 @@ URL=
 
 
 type=video
+name=Lowriders (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/Yt1iun7B5o5k8QlVLD8biAeKvp.jpg
+date=2017-08-24
+URL=https://openload.co/f/ynd9UL3S71g/sph-lowriderslimited.2016.1080p.bluray.x264.mkv.mp4
+
+type=video
 name=Megan Leavey (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/yq66hYkXFaj2DDqCkF6T2wT7VxQ.jpg
 date=2017-08-23
@@ -234,8 +236,8 @@ URL=https://openload.co/f/qWLDICSoHBg/rep-meganleavey.2017.1080p.bluray.x264.mkv
 type=video
 name=All Eyez on Me (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg
-date=2017-08-23
-URL=https://openload.co/f/Jet7-0LKo9U/All.Eyez.on.Me.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+date=2017-08-24
+URL=https://openload.co/f/FkIMUuUUW_g/All.Eyez.on.Me.2017.REPACK.1080p.BluRay.x264-GECKOS.mkv.mp4
 
 type=video
 name=My Cousin Rachel (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
