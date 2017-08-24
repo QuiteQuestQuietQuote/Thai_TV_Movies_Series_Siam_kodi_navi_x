@@ -24,7 +24,7 @@ type=video
 name=
 thumb=
 date=
-URL=
+URL=https://openload.co/f/RZotbnYwVQ4/aaa.strm
 
 type=video
 name=The Story So Far
