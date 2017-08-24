@@ -33,13 +33,17 @@ URL=https://3.bp.blogspot.com/5eWKTQT_jpODmUhzp-uio1Jbj0c7nNtmDwF-TFeMzSBAalHmlB
 
 
 
-
+type=video
+name=The Man-Eater (1999)
+thumb=https://image.tmdb.org/t/p/w640/tvusAHZoSSjnLkkPdAMmqmOyxwZ.jpg
+date=2017-08-15
+URL=http://entervideo.net/watch/f32b56d23ec84ca
 
 type=video
 name=Diet Of Sex 2014
 thumb=https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&no_expand=1&refresh=604800&url=http://2.bp.blogspot.com/-WuFzEMJle9A/Voo8rCnzwPI/AAAAAAAAX1k/eQi3Z7_Z0K8/s0/
 date=2017-08-15
-URL=https://3.bp.blogspot.com/1Ry4AhIHewYG_LFbwUE8ElK0ha9YWXgy-GmmCyWGVfeJKCk7GoQxkHMFcJLhUtUrMhQa20Hxcg=m22?s=ZArN0YdRXfVZ7dI=
+URL=https://3.bp.blogspot.com/lP8_5dRTTAVHQQIZhaQPO7ZFC9qdgDTya-3fodYTc60HemDojGdBMilqKPlCLFBXiqBe5B7K=m18?s=ZAbQzY9eXfRP7c6C2Q==
 
 type=video
 name=Diary of a Nymphomaniac (2008)
@@ -51,7 +55,7 @@ type=video
 name=Room in Rome (2010)
 thumb=https://image.tmdb.org/t/p/w640/sFEsSbFBP7VBLzdFHdPZIia9IiT.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/xDAQZuBOTQDTHXssWUTZEbiZOu7ltCNAGwkE0TOwbg3NvL4x1gfbyh6KS3eq6FtaBPLZZ-idRQ=m22?s=ZArN0YdRXfVZ7dI=
+URL=https://3.bp.blogspot.com/VTkBWBLIYX2n7s5lLeEEB95XFWitzYHUvRYoGjU8f5kSMFjuBzcjYmLt0JVMaarIbdwXtqzdzA=m22?s=ZAbQzY9eXfRP7c6C2Q==
 
 type=video
 name=Madrid, 1987 (2011)
@@ -63,7 +67,7 @@ type=video
 name=Jamon Jamon (1992)
 thumb=https://image.tmdb.org/t/p/w640/y5Brjzjo7Dtbg9PTf5GK6adpgCi.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/WBymy1t8F-RP68DJEIypTTQSPdRbpThjljvt2pjYI_8WXijV1zUj007FzwTTJUJjZzTnD4Gx=m18?s=ZArN0YdRXfVZ7dI=
+URL=https://3.bp.blogspot.com/negfcUM_gsyTnC5IX6CthkqeZ2qNj1Nb0-taYKcQOZqbIVNOL3Y6pCZBkxcB5oe3pQwnyTXTZg=m18?s=ZAbQzY9eXfRP7c6C2Q==
 
 type=video
 name=Carmen (2003)
@@ -75,7 +79,7 @@ type=video
 name=Melissa P. (2005)
 thumb=https://image.tmdb.org/t/p/w640/1ACzFGoBfppsN5FJDCLK07pwhy5.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/qomo41O_y7M2_0ugVU85_FilhlL5rG1GiJe7okY921YncC0RvhpgaDJZIPyY6N9mgf1c8eoW=m22?s=ZArN0YdRXfVZ7dI=
+URL=https://3.bp.blogspot.com/RH80CigvO1vx-sYO8GMcy89Bf2PoEaBRvwH69_ZIBB9fwmgkxhZ_kCk40tW_bz6fRQA8DtYF1A=m18?s=ZAbQzY9eXfRP7c6C2Q==
 
 type=video
 name=Vampyres (2015)
@@ -171,7 +175,7 @@ type=video
 name=Bilitis (1977)
 thumb=https://image.tmdb.org/t/p/w640/tpizeCXZd4w8zYo5k9lyZTs8zZc.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/JSPuL45TYuKV1E4w-SbzWmrXioDdO2NDShne82k5VVsC0U6cjZ5qm-UIPyHpaHEdT8pS0GQuEQ=m18?s=ZArN0YdRXfVZ7dI=
+URL=https://3.bp.blogspot.com/JSPuL45TYuKV1E4w-SbzWmrXioDdO2NDShne82k5VVsC0U6cjZ5qm-UIPyHpaHEdT8pS0GQuEQ=m18?s=ZAbQzY9eXfRP7c6C2Q==
 
 type=video
 name=Showgirls (1995)
@@ -189,7 +193,7 @@ type=video
 name=Last Tango in Paris (1972)
 thumb=https://image.tmdb.org/t/p/w640/6ppSHkDe7CoxyvFEc6JILuKnAu0.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/QnH4M0xmKntc64t5SB5P9wdme6g_qvLP2x5lNr3FpBXibZb92QUtDzT_U0KNJhE70M6oYABh=m22?s=ZArN0YdRXfVZ7dI=
+URL=https://3.bp.blogspot.com/eTkZ0-OsDhX6uCJqvgndTvAAartuvvRMp7BXjaJUbXLRTg47SqOV_Extso66-2k6ef90Pifq5Q=m18?s=ZAbQzY9eXfRP7c6C2Q==
 
 type=video
 name=Ma Mère (2004)
@@ -201,7 +205,7 @@ type=video
 name=Immoral Tales (1974)
 thumb=https://image.tmdb.org/t/p/w640/A91XnAOely6JElGdoTKMuuuyBga.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/aJ4GS75Siqsjj7AYeoMISK1LMBfbVoTdp36GMBRg5csxr5gI0WjrHMEUsN99fAD_IlIf7Bk3DA=m22?s=ZArN0YdRXfVZ7dI=
+URL=https://3.bp.blogspot.com/hlCkAkSIPPExCYaRpyiVR7qc1gGTmCzP8-a0kTfim_yYhibDYEnt6d2kZhpf4UeI4RgzCkkFpQ=m22?s=ZAbQzY9eXfRP7c6C2Q==
 
 type=video
 name=Don't Look Down (2008)
@@ -333,7 +337,7 @@ type=video
 name=The Beast (1975)
 thumb=https://image.tmdb.org/t/p/w640/1ZEALP09fHw7dW95jGAQ3oXg88n.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/Sbtc1Yy-wikuhm3Vv2mgf73BR05vAR-K5L3sic4eBierozPdUcPxTamRRlVbFYzrwl5YBq7l=m22?s=ZArN0YdRXfVZ7dI=
+URL=https://3.bp.blogspot.com/MfMRjSIKfGS4pFm5ES6aEecOX9urgNk-Hnwy44ESPsi4Rm3HrGWMHgP-z_mCCXIUnUMAWHdTqw=m22?s=ZAbQzY9eXfRP7c6C2Q==
 
 type=video
 name=The Summer of Sangaile (2015)
