@@ -25,7 +25,7 @@ type=video
 name=Spartacus: War of the Damned (2013)
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/zMkDaYWYGB5KAvgipshQMtxy7vF.jpg
 date=2017-07-07
-URL=
+URL=https://openload.co/f/RZotbnYwVQ4/aaa
 
 
 
