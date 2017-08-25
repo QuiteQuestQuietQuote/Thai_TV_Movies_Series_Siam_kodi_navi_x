@@ -44,6 +44,30 @@ date=2017-08-22
 URL=https://openload.co/f/Gbgko9aJf2o/Annabelle.Creation.2017.TS.XviD.AC3-TiTAN.avi.mp4
 
 type=video
+name=Death Note (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/xjQ1PlIy28PgMz9Vrra1X61kHUe.jpg
+date=2017-08-25
+URL=https://openload.co/f/hEe55YrjiTM/DN.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Rememory (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/1PUlg2uuPtVPUVB5GE5D4ihaMku.jpg
+date=2017-08-25
+URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Deep (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/bVGA7LzL7uKasrweoRufITfMdYv.jpg
+date=2017-08-25
+URL=https://openload.co/f/_s_f41ayWNo/Deep.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Unleashed (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/fk7xQMvfsEoIDhzsfAg8yDFRasf.jpg
+date=2017-08-25
+URL=https://openload.co/f/f3gwH7ze0BA/Unleashed.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
 name=Wind River (2017) RUS
 thumb=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
 date=2017-08-08
@@ -99,11 +123,7 @@ thumb=https://image.tmdb.org/t/p/w640/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg
 date=2017-08-22
 URL=https://openload.co/f/f-c5hqi-Nec/Starship_Troopers_Traitor_of_Mars.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
-type=video
-name=Captain Underpants: The First Epic Movie (2017) ENG
-thumb=https://image.tmdb.org/t/p/w640/AjHZIkzhPXrRNE4VSLVWx6dirK9.jpg
-date=2017-06-24
-URL=https://openload.co/f/Z1xQaSLEHrs/Ca-p-t-ain.Un-de-r-p-a-nts.The.First.Epic.Movie.2017.CAM.X264-NoGRP.mkv.mp4
+
 
 
 
@@ -117,10 +137,7 @@ player=default
 rating=-1.00
 description=A crime drama set in 1970s Boston, about a gun sale which goes wrong./description
 
-type=video
-name=Deep (2017) RUS
-thumb=https://image.tmdb.org/t/p/w640/bVGA7LzL7uKasrweoRufITfMdYv.jpg
-URL=https://openload.co/f/TAQ9pCr9r6c/D_2017_CAMRip_%5BLayar-21.com%5D.mp4
+
 
 type=video
 name=Camera Store (2016) ENG
@@ -220,6 +237,19 @@ URL=
 
 
 
+
+
+type=video
+name=Fun Mom Dinner (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/6mtqrfp56Xa4DS64wrqVN9AZwkS.jpg
+date=2017-08-25
+URL=https://openload.co/f/S_jHeFZBNgQ/Fun.Mom.Dinner.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+
+type=video
+name=Captain Underpants: The First Epic Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/AjHZIkzhPXrRNE4VSLVWx6dirK9.jpg
+date=2017-08-25
+URL=https://openload.co/f/JQXUlscrY8Q/Captain.Underpants.The.First.Epic.Movie.2017.1080p.BluRay.x264-DRONES.mkv.mp4
 
 type=video
 name=Lowriders (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -774,6 +804,23 @@ URL=https://player.vimeo.com/video/229956580
 
 
 
+
+
+type=video
+name=Unlocked (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg
+date=2017-08-25
+URL=https://openload.co/f/vP2P2jsugq0/Unlocked.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+type=video
+name=Unlocked (2017) TH CAM SOUND
+thumb=http://image.tmdb.org/t/p/w500/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg
+date=2017-07-24
+URL=https://streamango.com/f/ftpnpqcoqteetebr/Unlocked_mp4
+player=default
+rating=-1.00
+description=A CIA agent is baited into a trap involving London and a biological attack./description
+
+
 type=video
 name=Baywatch (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
@@ -824,9 +871,6 @@ date=2017-07-17
 URL=https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264..ThaIRonG.CtHts_-_CpT.mkv.mp4
 
 
-
-
-
 type=video
 name=Science Fiction Volume One: The Osiris Child (2016) ENG BRRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/bEa4lssjiYCv226Z0gKKbfPGJAJ.jpg
@@ -839,29 +883,21 @@ date=2017-07-28
 URL=https://openload.co/f/qs9MPS8L0MI/Science.Fiction.Volume.One.The.Osiris.Child.2016.720p.WEB-DL.H264.AC3.ThaIRonG.5.1_-_CpT-CtHts%40SiamBIT.mkv.mp4
 
 
+
+
+type=video
+name=Wu Kong (2017) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/srdxQhvnLVnZjjUF7UwVBtbyvXj.jpg
+date=2017-08-25
+URL=https://openload.co/f/X5eV80ZRVTA/WuKong.2017.2160p.4K.WEB-DL.H264.AC-3.ThaiRong_CpT%40CtHts.mkv.mp4
+
+
+
 type=video
 name=Revolt (2017) CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg
 date=2017-07-29
 URL=https://openload.co/f/a12f7DHdFHk/Revolt_%282017%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95.mp4
-
-type=video
-name=Wu Kong (2017) CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/srdxQhvnLVnZjjUF7UwVBtbyvXj.jpg
-date=2017-07-28
-URL=https://streamango.com/f/qdnndabfcsemcskn/Z_1_Wukong_mp4
-
-# 2773805
-type=video
-name=Unlocked (2017) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg
-date=2017-07-24
-URL=https://streamango.com/f/ftpnpqcoqteetebr/Unlocked_mp4
-player=default
-rating=-1.00
-description=A CIA agent is baited into a trap involving London and a biological attack./description
-
-
 
 
 
@@ -940,6 +976,20 @@ date=
 URL=
 
 
+
+
+
+
+
+
+
+
+
+type=video
+name=Batman and Harley Quinn (2017)
+thumb=https://image.tmdb.org/t/p/w640/ev90LOaW2COmsScsuVz5pPFzQSI.jpg
+date=2017-08-25
+URL=https://openload.co/f/2A5FS2xqYP4/%7BMINI_Super-HQ%7D_Batman.and.Harley.Quinn.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
 # 142
