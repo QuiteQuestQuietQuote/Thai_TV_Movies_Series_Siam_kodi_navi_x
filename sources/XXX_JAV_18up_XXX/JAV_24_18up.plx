@@ -21,23 +21,161 @@ rating=-1.00
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 type=video
-name=
-thumb=
-date=2017-08-11
-URL=
+name=186xxxxxxxxxxxxxxxxxxxxMIGD-732 – AIKA – The High-Speed Cowgirl Sex And Creampie-ing Of A Black Gal With Big Tits Is Incredible!
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/MIGD-732.jpg
+date=2017-08-25
+URL=https://openload.co/f/apG82vfTacw/JAV_MIGD-732.mp4
 
+type=video
+name=PPPD-441 – HITOMI – Busty Undercover Investigator
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/PPPD-441.jpg
+date=2017-08-25
+URL=https://openload.co/f/Q3GvyjzATJs/JAV_PPPD-441.mp4
 
+type=video
+name=HND-310 – Kitagawa Yuzu – Genuine Creampie Sex Unleashed
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/HND-310.jpg
+date=2017-08-25
+URL=https://openload.co/f/YHvv6TSVLyA/JAV_HND-310.mp4
 
+type=video
+name=JUFD-567 – Momozono Rena – The Devoted Maid With Colossal Tits Who Loves Me And Me Only
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/JUFD-567.jpg
+date=2017-08-25
+URL=https://openload.co/f/KdUxBnq6Qoc/JAV_JUFD-567.mp4
 
+type=video
+name=HND-328 – Kiyozuka Nana – The Intense Sperm-Milking Press Of A Private Tutor With Colossal Tits!!
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/HND-328.jpg
+date=2017-08-25
+URL=https://openload.co/f/toEbyecxIRI/JAV_HND-328.mp4
 
+type=video
+name=NHDTA-832 – Unknown – The Amazing Sister-In-Law Who Lives In Our House
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/NHDTA-832.jpg
+date=2017-08-25
+URL=https://openload.co/f/RKpT0MDw5VI/JAV_NHDTA-832.mp4
 
+type=video
+name=ABP-475 – Fujii Arisa – My Only Sweetheart Who Loves Me Too Much
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/ABP-475.jpg
+date=2017-08-25
+URL=https://openload.co/f/FCgopUzXDGo/JAV_ABP-475.mp4
 
+type=video
+name=SW-425 – Unknown – I Went To Go Fix The Air Conditioner At An All Girls Share House, And There They Were
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/SW-425.jpg
+date=2017-08-25
+URL=https://openload.co/f/hLXLJ4uyFkg/JAV_SW-425.mp4
 
+type=video
+name=JUFD-626 – Natsume Yuuki – Breaking In Her Filthy Anal Hole – Married Culinary Student Forced To Become Everyone’s Cum Dumpster
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/JUFD-626.jpg
+date=2017-08-25
+URL=https://openload.co/f/lWwG7CGOmyg/JAV_JUFD-626.mp4
 
+type=video
+name=DANDY-485 – Unknown – All Alone With The Cute Part-Timer For One Whole Hour On Our Break!
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/DANDY-485.jpg
+date=2017-08-25
+URL=https://openload.co/f/QjBpBJDm0Qc/JAV_DANDY-485.mp4
 
+type=video
+name=EBOD-484 – Tia – If You Can Resist Tia’s Ultra Amazing Cock Rocking Technique For 10 Minutes She’ll Let You Fuck Her Raw
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/EBOD-484.jpg
+date=2017-08-25
+URL=https://openload.co/f/LocOvA9rBfA/JAV_EBOD-484.mp4
 
+type=video
+name=DJE-063 – Suzukawa Ayane – Ayane Suzukawa Swallowing 100 Shots Of Cum
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/DJE-063.jpg
+date=2017-08-25
+URL=https://openload.co/f/KysWjg0Vymw/JAV_DJE-063.mp4
 
+type=video
+name=KAWD-730 – Sakura Yura – An Insatiable Man With A Big Dick Repeatedly Has Sex Until He Runs Out Of Cum
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/KAWD-730.jpg
+date=2017-08-25
+URL=https://openload.co/f/YFnu-kFySJk/JAV_KAWD-730.mp4
+
+type=video
+name=ATFB-326 – Otoha Nanase – An Extracurricular Lesson For A Perky Big Booty In Gym Shorts
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/ATFB-326.jpg
+date=2017-08-25
+URL=https://openload.co/f/af0thch7yCE/JAV_ATFB-326.mp4
+
+type=video
+name=JUX-884 – Shiina Sora – The Man Who Satisfied Me More Than My Husband Ever Could
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/JUX-884.jpg
+date=2017-08-25
+URL=https://openload.co/f/7R-OmV9XnQ0/JAV_JUX-884.mp4
+
+type=video
+name=IENE-671 – Unknown – Seducing Amateur Housewives Into Having Creampie Sex! Pure And Innocent-Looking Housewives Turn Out To Be Complete Perverts!
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/IENE-671.jpg
+date=2017-08-25
+URL=https://openload.co/f/i4SYrKg09s4/JAV_IENE-671.mp4
+
+type=video
+name=IENE-677 – Maki Yukari – An Erotic Drunken Stroll With An Amateur Dirty Old Man
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/IENE-677.jpg
+date=2017-08-25
+URL=https://openload.co/f/SC8jupWTgTs/JAV_IENE-677.mp4
+
+type=video
+name=STAR-655 – Akiba Akane – She Gives Pleasure And Receives Pleasure. 4 Sex Scenes
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/STAR-655.jpg
+date=2017-08-25
+URL=https://openload.co/f/Un_plFCfUVU/JAV_STAR-655.mp4
+
+type=video
+name=XVSR-142 – Ayano Nana – Temptation Of A Beautiful Slut
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/XVSR-142.jpg
+date=2017-08-25
+URL=https://openload.co/f/39zS8QUMDAo/JAV_XVSR-142.mp4
+
+type=video
+name=DANDY-498 – Unknown – 10 Year Anniversary ‘Is An Old Lady OK
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/DANDY-498.jpg
+date=2017-08-25
+URL=https://openload.co/f/IpVUWIw7QWg/JAV_DANDY-498.mp4
+
+type=video
+name=XVSR-114 – Hoshii Emi – A Targeted G-Cup College Girl Slut Becomes Prey
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/XVSR-114.jpg
+date=2017-08-25
+URL=https://openload.co/f/kOXsjIntKac/JAV_XVSR-114.mp4
+
+type=video
+name=RDT-248 – Unknown – My Girlfriend’s Little Sister Who I Thought Was Sleeping In The Room Next Door Must’ve Gotten Horny Watching Us Have Sex
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/RDT-248.jpg
+date=2017-08-25
+URL=https://openload.co/f/ExcB7Wgwf5c/JAV_RDT-248.mp4
+
+type=video
+name=MEYD-143 – Asai Maika – Raped By Brother-In-Law
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/MEYD-143.jpg
+date=2017-08-25
+URL=https://openload.co/f/jtJsQ2aBImQ/JAV_MEYD-143.mp4
+
+type=video
+name=DVDMS-002 – AIKA, Ayana Rina, Hatsume Rina, Hazuki Nozomi, Mizushiro Rino – The World Where Rape Is Legal 4
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/01/DVDMS-002.jpg
+date=2017-08-25
+URL=https://openload.co/f/GCorwQX4uFI/JAV_DVDMS-002.mp4
 
 
 

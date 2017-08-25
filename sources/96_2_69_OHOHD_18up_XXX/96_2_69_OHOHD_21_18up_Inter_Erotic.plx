@@ -45,6 +45,309 @@ URL=
 
 
 
+type=video
+name=172xxxxxxxxxxxxxxxxxxxxMy Virgin Daughter 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/My-Virgin-Daughter-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/gqAZ3Fe3oHU/My_Virgin_Daughter_2016_1080p_DVDRip_Erotic
+
+type=video
+name=Anal Beauty Vol. 5 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Anal-Beauty-Vol.-5-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/QLAgd27uBiA/Anal_Beauty_Vol._5_2016_1080p_DVDRip_Erotic
+
+type=video
+name=The Sexual Desires Of Casey Calvert 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/The-Sexual-Desires-Of-Casey-Calvert-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/AUpESYQ80IU/The_Sexual_Desires_Of_Casey_Calvert_2016_1080p_DVDRip_Erotic
+
+type=video
+name=The Lure 2015
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/The-Lure-2015.jpg
+date=2017-08-25
+URL=https://openload.co/f/MZhu2aowywU/The.Lure.2015.HDRip_Erotic
+
+type=video
+name=Sex Files – Sexual Matrix 2000
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Sex-Files-Sexual-Matrix-2000.jpg
+date=2017-08-25
+URL=https://openload.co/f/tBx4vC6DDgo/Sex.Files%3ASexual.Matrix.2000.DVDRip_Erotic
+
+type=video
+name=Psychopathia Sexualis 2006
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Psychopathia-Sexualis-2006.jpg
+date=2017-08-25
+URL=https://openload.co/f/IrInpYByIp4/Psychopathia_Sexualis.2006.DVDRip_Erotic
+
+type=video
+name=Taboo 1980
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Taboo-1980.jpg
+date=2017-08-25
+URL=https://openload.co/f/S_1NfZ_GZSQ/Taboo.1980.DVDRip_Erotic
+
+type=video
+name=Super Cute Vol. 4 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Super-Cute-Vol.-4-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/yXt2zuUeedo/Super.Cute.Vol.4.2016.XXX.DVDRip_Erotic
+
+type=video
+name=Femme Fatales – One Man’s Death 2012
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Femme-Fatales-One-Man%E2%80%99s-Death-2012.jpg
+date=2017-08-25
+URL=https://openload.co/f/NlmSP64GfGI/Femme.Fatales.2012.S02.E10.HDTV_Erotic
+
+type=video
+name=Femme Fatales – Hell Hath No Furies 2012
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Femme-Fatales-Hell-Hath-No-Furies-2012.jpg
+date=2017-08-25
+URL=https://openload.co/f/lwejr8UOEDo/Femme.Fatales.2012.S02.E11.HDTV_Erotic
+
+type=video
+name=Femme Fatales – Libra 2012
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Femme-Fatales-Libra-2012.jpg
+date=2017-08-25
+URL=https://openload.co/f/jjQ7LW4dg2M/Femme.Fatales.2012.S02.E12.HDTV_Erotic
+
+type=video
+name=Camp Blood 5 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Camp-Blood-5-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/BfWOhu9Imgs/Camp.Blood.5.2016_Erotic
+
+type=video
+name=A Darker Fifty Shades – The Fetish Set 2015
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/A-Darker-Fifty-Shades-The-Fetish-Set-2015.png
+date=2017-08-25
+URL=https://openload.co/f/gWa2O3xUS0A/The.Fetish.Set.2015.HDRip_Erotic
+
+type=video
+name=Diet of Sex UNCUT VERSION (2014)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Diet-of-Sex-UNCUT-VERSION-2014.jpg
+date=2017-08-25
+URL=https://openload.co/f/MzOF5d_rWj8/Diet_of_Sex_UNCUT_VERSION_%282014%29_Erotic
+
+type=video
+name=Mustang Sally 2006
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Mustang-Sally-2006.jpg
+date=2017-08-25
+URL=https://openload.co/f/C04Nw_ZHLHw/MUSTANG.SALLY.2006.DVDRip_Erotic
+
+type=video
+name=Witches of the Caribbean 2005
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Witches-of-the-Caribbean-2005.jpg
+date=2017-08-25
+URL=https://openload.co/f/YlxNoX1K8IU/Witches_of_the_Caribbean.2005.DVDRip_Erotic
+
+type=video
+name=Ishq Junoon – The Heat is On (2016)
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Ishq-Junoon-The-Heat-is-On-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/71Ug0tONAkk/Ishq.Junoon.2016.Hindi.Pre.DvDRip_Erotic
+
+type=video
+name=Feel The Love 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Feel-The-Love-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/bWpmNrKDYMw/Feel_The_Love_2016_1080p_DVDRip_Erotic
+
+type=video
+name=Neighborhood Swingers 18 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Neighborhood-Swingers-18-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/3bTVbKcll0E/Neighborhood_Swingers_18_2016_1080p_DVDRip_Erotic
+
+type=video
+name=Young Girl Seductions #9 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Young-Girl-Seductions-9-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/cIiqkBvfeVY/Young_Girl_Seductions_%239_2016_1080p_DVDRip_Erotic
+
+type=video
+name=In The Flesh 2015
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/In-The-Flesh-2015.jpg
+date=2017-08-25
+URL=https://openload.co/f/gO5KobNY44U/In_The_Flesh_2015_1080p_DVDRip_Erotic
+
+type=video
+name=Sweetsinner-blair-williams-ryan-mcclane-hard-resist-2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Sweetsinner-blair-williams-ryan-mcclane-hard-resist-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/MwKojEJVzVg/SweetSinner_-_Blair_Williams%2C_Ryan_McClane_-_Hard_To_Resist%21_Erotic
+
+type=video
+name=Eroticax-jaye-summer-liza-rowe-james-deen-california-loft 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Eroticax-jaye-summer-liza-rowe-james-deen-california-loft-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/Ww_txajbgXQ/EroticaX_-_Jaye_Summer%2C_Liza_Rowe%2C_James_Deen_-_My_California_Loft_NOCTUS.mp4
+
+type=video
+name=Sexina 2007
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Sexina-2007.jpg
+date=2017-08-25
+URL=https://openload.co/f/vRSPW8wPkzw/Sexina.Popstar.P.I.2007.DVDRip_Erotic
+
+type=video
+name=Playboy – Sexy Lingerie III 1991
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Playboy-Sexy-Lingerie-III-1991.jpg
+date=2017-08-25
+URL=https://openload.co/f/JzrDvjv_Xyw/Sexy.Lingerie.3.1991.DVDRip_Erotic
+
+type=video
+name=Sexual Intrigue 2000
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Sexual-Intrigue-2000.jpg
+date=2017-08-25
+URL=https://openload.co/f/Bzft2BqL4cE/Sexual.Intrigue.2000.DVDRip_Erotic
+
+type=video
+name=Sexual Roulette 1997
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Sexual-Roulette-1997.jpg
+date=2017-08-25
+URL=https://openload.co/f/5iPtW3_SgIw/Sexual.Roulette.1996.DVDRip_Erotic
+
+type=video
+name=Sexart-anastazia-ricky-friend-2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Sexart-anastazia-ricky-friend-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/hWQVQGcPKc8/SexArt_-_Anastazia%2C_Ricky_-_Friends_Erotic
+
+type=video
+name=Sex Romance 3 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Sex-Romance-3-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/Z7bMQHUrXwU/Sex.and.Romance.3.2016.XXX.DVDRip_Erotic
+
+type=video
+name=SexArt – Aislin, Natty Mellow – Volume-2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/SexArt-Aislin-Natty-Mellow-Volume-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/EA3CZUqoLLM/SexArt_-_Aislin%2C_Natty_Mellow_-_Volume_Erotic
+
+type=video
+name=Tushy – Karla Kush, Arya Fae – My Crazy Day With My Wild Roommate-2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Tushy-Karla-Kush-Arya-Fae-My-Crazy-Day-With-My-Wild-Roommate-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/Js-EZm9UjaE/Tushy_-_Karla_Kush%2C_Arya_Fae_-_My_Crazy_Day_With_My_Wild_Roommate_Erotic
+
+type=video
+name=True-Erotica-Alexa-Tomass-Conquers-All-2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/True-Erotica-Alexa-Tomass-Conquers-All-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/jdSmLg7N3as/TrueErotica_Erotic
+
+type=video
+name=Day-off-kerry-cherry-matt-ice-sex-art-2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Day-off-kerry-cherry-matt-ice-sex-art-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/oyB1lnEjj7U/Day_Off_Erotic
+
+type=video
+name=The lifeerotic angelina tartan 2 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/The-lifeerotic-angelina-tartan-2-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/Juhmw8FvaVQ/tle.16.11.18.angelina.tartan.2_Erotic
+
+type=video
+name=Metart.16.11.20.zoey.taylor.cozy.mood-2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Metart.16.11.20.zoey_.taylor.cozy_.mood-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/kXgZtgEMkSc/metart.16.11.20.zoey.taylor.cozy.mood_Erotic
+
+type=video
+name=Youthful Indiscretions 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Youthful-Indiscretions-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/B05OchBttSs/Youthful_Indiscretions_Erotic
+
+type=video
+name=Sexy-Intentions-[HQSS-SXINS-2016]
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Sexy-Intentions-HQSS-SXINS-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/Q4ug1aF_R80/HQSS-SXINS-2016_Erotic
+
+type=video
+name=My Awkward Sexual Adventure 2012
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/My-Awkward-Sexual-Adventure-2012-1.jpg
+date=2017-08-25
+URL=https://openload.co/f/g9LnTN6iyuc/My.Awkward.Sexual.Adventure.2012.DVDRip_Erotic
+
+type=video
+name=Sexual Malice 1994
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Sexual-Malice-1994.jpg
+date=2017-08-25
+URL=https://openload.co/f/1E9YdAaZUog/Sexual.Malice.1994.DVDRip_Erotic
+
+type=video
+name=Sex in the Ancient World – Egyptian Erotica 2009
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Sex-in-the-Ancient-World-Egyptian-Erotica-2009.jpg
+date=2017-08-25
+URL=https://openload.co/f/iiaN2leF3WQ/Sex_in_the_Ancient_World%3A_Egyptian_Erotica.2009.DVDRip_Erotic
+
+type=video
+name=Sexual Chemistry 1999
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Sexual-Chemistry-1999.jpg
+date=2017-08-25
+URL=https://openload.co/f/4nKM5323-Fg/Sexual.Chemistry.1999.DVDRip_Erotic
+
+type=video
+name=The Loss of Sexual Innocence 1999
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/The-Loss-of-Sexual-Innocence-1999.jpg
+date=2017-08-25
+URL=https://openload.co/f/GRuF41eu0XM/The.Loss.of.Sexual.Innocence.1999.DVDRip_Erotic
+
+type=video
+name=The Erotic Man 2010
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/The-Erotic-Man-2010.jpg
+date=2017-08-25
+URL=https://openload.co/f/J2lPhBTFzQA/The.Erotic.Man.2010.DVDRip_Erotic
+
+type=video
+name=The Price of Pleasure-Pornography, Sexuality & Relationships 2008
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/The-Price-of-Pleasure-Pornography-Sexuality-Relationships-2008.jpg
+date=2017-08-25
+URL=https://openload.co/f/N-l7rmnupr4/The_Price_of_Pleasure%3A_Pornography%2C_Sexuality_%26_Relationships.2008_Erotic
+
+type=video
+name=Claire The Sexologist 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Claire-The-Sexologist-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/qfc8Au2QwWE/Claire_The_Sexologist_2016_1080p_DVDRip_Erotic
+
+type=video
+name=Hardcore Lesbian Lovers 4 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Hardcore-Lesbian-Lovers-4-2016.jpg
+date=2017-08-25
+URL=https://openload.co/f/rQViBUnzZE4/Hardcore_Lesbian_Lovers_4_2016_1080p_DVDRip_Erotic
+
+type=video
+name=The Dangerous Sex Date 2001
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/The-Dangerous-Sex-Date-2001.jpg
+date=2017-08-25
+URL=https://openload.co/f/GS19s1azEXs/Amorestremo%2FThe.Dangerous.Sex.Date.2001.HDRip_Erotic
+
+type=video
+name=Cyberotica – Computer Escapes 1996
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Cyberotica-Computer-Escapes-1996.jpg
+date=2017-08-25
+URL=https://openload.co/f/PSHMp3MVDsg/Cyberotica%3AComputer.Escapes.1996.DVDRip_Erotic
+
+type=video
+name=Black_Venus_1983
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Black_Venus_1983.jpg
+date=2017-08-25
+URL=https://openload.co/f/EHZFbbdlte8/Black.Venus.1983.DVDRip_Erotic
+
+type=video
+name=Castle Erotica 2002
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Castle-Erotica-2002.jpg
+date=2017-08-25
+URL=https://openload.co/f/WNjbchqFuf0/Castle.Eros.2002.DVDRip_Erotic
+
+
+
+
 
 
 
