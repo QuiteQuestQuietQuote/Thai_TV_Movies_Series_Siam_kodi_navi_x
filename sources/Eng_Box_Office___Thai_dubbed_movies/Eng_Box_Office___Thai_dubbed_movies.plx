@@ -10,6 +10,24 @@ name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx?action=sortsel&cur=ord
 
+
+
+
+
+type=video
+name=HBO
+URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/1.m3u8
+
+
+type=video
+name=movie1
+thumb=http://www.thaiptv.com/img/movie1logo.png
+URL=rtmp://tv01.thaizatv.com/drm/movie1
+
+
+
+
+
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
 thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
