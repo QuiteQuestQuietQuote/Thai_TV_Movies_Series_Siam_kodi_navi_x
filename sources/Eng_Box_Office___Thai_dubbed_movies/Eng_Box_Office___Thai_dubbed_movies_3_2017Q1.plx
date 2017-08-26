@@ -57,7 +57,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Deep (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/bVGA7LzL7uKasrweoRufITfMdYv.jpg
+thumb=https://image.tmdb.org/t/p/w640/14mEMC6rRNedvaz1d5sfLX8uRGt.jpg
 date=2017-08-25
 URL=https://openload.co/f/_s_f41ayWNo/Deep.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
@@ -238,6 +238,11 @@ URL=
 
 
 
+type=video
+name=Band Aid (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/wGhQ3FKA57HxyFYM0ttLgazzbF0.jpg
+date=2017-08-26
+URL=https://openload.co/f/baWuEXk7pEk/Band.Aid.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
 
 type=video
 name=Fun Mom Dinner (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -406,7 +411,23 @@ thumb=https://image.tmdb.org/t/p/w640/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg
 date=2017-08-20
 URL=https://openload.co/f/ziHnwMeGpGM/blow-rough.night.2017.720p.bluray.x264.mkv.mp4
 
+type=video
+name=First Kill (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/zoia9YSg82UNYbtum9QYjKSqdLw.jpg
+date=2017-08-26
+URL=https://openload.co/f/kRXMBZLd5rQ/First.Kill.2017.720p.BluRay.x264-ROVERS.mkv.mp4
 
+type=video
+name=A Dark Song (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/vNC7oLMUmCiOane2zhOeWSWucWG.jpg
+date=2017-08-26
+URL=https://openload.co/f/q7KWrQ3De0Y/A.Dark.Song.2016.720p.BluRay.x264-ROVERS.mkv.mp4
+
+type=video
+name=Chronically Metropolitan (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/vogqzcUAIWyboktR34ojo1roF2q.jpg
+date=2017-08-26
+URL=https://openload.co/f/77NDk4AfO20/M-C-M.2016.720p.BluRay.x264-SPRiNTER.mkv.mp4
 
 
 
