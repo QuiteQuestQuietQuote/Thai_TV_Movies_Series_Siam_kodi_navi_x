@@ -17,14 +17,10 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 type=addon
-name=youtube.dl
-thumb=
+name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
+thumb=https://mrs0m30n3.github.io/youtube-dl-gui/images/logo.png
 URL=script.module.youtube.dl
 
-type=window
-name=addons
-thumb=
-URL=addons
 
 
 type=video
