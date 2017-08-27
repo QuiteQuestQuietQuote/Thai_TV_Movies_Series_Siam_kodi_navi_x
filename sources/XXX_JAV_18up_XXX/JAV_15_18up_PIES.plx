@@ -18,6 +18,23 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 player=default
 rating=-1.00
 
+
+type=video
+name=
+thumb=
+URL=
+
+type=addon
+name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
+thumb=https://mrs0m30n3.github.io/youtube-dl-gui/images/logo.png
+URL=script.module.youtube.dl
+
+type=video
+name=
+thumb=
+URL=
+
+
 type=video
 name=BCV-034 Wanted Chan TV × PRESTIGE PREMIUM 34
 thumb=https://4.bp.blogspot.com/-VFX6iUkqEsU/WR5SEnB2-tI/AAAAAAAAMg4/-qqk-TjO9U0lEVOCxVhR-vYCYj7ptlzWwCLcB/s1600/Screenshot_1.png

@@ -19,6 +19,23 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 player=default
 rating=-1.00
 
+
+type=video
+name=
+thumb=
+URL=
+
+type=addon
+name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
+thumb=https://mrs0m30n3.github.io/youtube-dl-gui/images/logo.png
+URL=script.module.youtube.dl
+
+type=video
+name=
+thumb=
+URL=
+
+
 # 2755845
 type=video
 name=200GANA-377 â?? Seriously Nampa is first and. 298 in Nagoya team N Mizuki 20-year-old hostess

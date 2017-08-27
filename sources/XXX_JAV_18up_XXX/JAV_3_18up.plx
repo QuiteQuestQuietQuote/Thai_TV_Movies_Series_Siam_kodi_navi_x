@@ -19,6 +19,23 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 player=default
 rating=-1.00
 
+
+type=video
+name=
+thumb=
+URL=
+
+type=addon
+name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
+thumb=https://mrs0m30n3.github.io/youtube-dl-gui/images/logo.png
+URL=script.module.youtube.dl
+
+type=video
+name=
+thumb=
+URL=
+
+
 # 2772581
 type=video
 name=xxxxxxxxxxxxxxxxxxxxxxxxxJAV UNCENSOREDxxxxxxxxxx MKD-S127 â?? KIRARI 127 KAORI MAEDA BEST PREMIUM 3HRS â?? KAORI MAEDA
