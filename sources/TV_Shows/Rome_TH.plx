@@ -19,10 +19,31 @@ rating=-1.00
 
 
 
-type=script
+
+
+type=video
+name=
+thumb=
+URL=
+
+type=addon
+name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
+thumb=https://mrs0m30n3.github.io/youtube-dl-gui/images/logo.png
+URL=script.module.youtube.dl
+
+type=video
+name=
+thumb=
+URL=
+
+
+
+
+
+type=addon
 name= Update the urlresolver (refresh), if can not play...!!!
 thumb=
-URL=https://github.com/Colossal1/repository.colossus.common/blob/master/script.module.urlresolver/script.module.urlresolver-4.0.01.zip
+URL=script.module.urlresolver
 
 
 

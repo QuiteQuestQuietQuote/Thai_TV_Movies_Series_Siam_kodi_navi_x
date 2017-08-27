@@ -22,6 +22,25 @@ rating=-1.00
 
 
 type=video
+name=
+thumb=
+URL=
+
+type=addon
+name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
+thumb=https://mrs0m30n3.github.io/youtube-dl-gui/images/logo.png
+URL=script.module.youtube.dl
+
+type=video
+name=
+thumb=
+URL=
+
+
+
+
+
+type=video
 name=Spartacus: War of the Damned (2013)
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/zMkDaYWYGB5KAvgipshQMtxy7vF.jpg
 date=2017-07-07
