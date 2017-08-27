@@ -11,6 +11,16 @@ icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Magazine_behind_the_scene_18up_Thai/Magazine_behind_the_scene_18up_Thai_1.plx?action=sortsel&cur=ord
 
 
+
+
+
+
+type=script
+name=youtube.dl
+thumb=
+URL=script.module.youtube.dl
+
+
 type=video
 name=Girlie 9 – Jinny and Yommy 2013
 thumb=https://site-erotic.com/wp-content/uploads/2017/05/Girlie-9-Jinny-and-Yommy-2013.jpg
