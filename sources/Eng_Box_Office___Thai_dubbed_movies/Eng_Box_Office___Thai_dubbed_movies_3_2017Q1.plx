@@ -1,8 +1,8 @@
 ﻿version=1
-background=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
+background=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
-logo=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
+logo=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
+thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -29,7 +29,11 @@ URL=
 
 
 
-
+type=video
+name=The Hitman's Bodyguard (2017) ENG WEB-DL.DD5.1.x264-HB
+thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
+date=2017-08-27
+URL=https://openload.co/f/itc7K1DCIsw/The.Hitmans.Bodyguard.2017.1080p.WEB-DL.DD5.1.x264-HB.mkv.mp4
 
 type=video
 name=The Nut Job 2: Nutty by Nature (2017) ENG HDCAM_XviD_-_UnKnOwN
@@ -37,11 +41,13 @@ thumb=https://image.tmdb.org/t/p/w640/9FVJOUCmruekroyfsTsAKDYST80.jpg
 date=2017-08-18
 URL=https://openload.co/f/dGpcPf8KdDw/The_Nut_Job_2_2017_HDCAM_XviD_-_UnKnOwN.avi.mp4
 
+
+
 type=video
-name=Annabelle: Creation (2017) ENG TS.XviD.AC3-TiTAN
-thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
-date=2017-08-22
-URL=https://openload.co/f/Gbgko9aJf2o/Annabelle.Creation.2017.TS.XviD.AC3-TiTAN.avi.mp4
+name=Rogue Warrior: Robot Fighter (2017) ENG DVDRip.x264-PSYCHD
+thumb=https://image.tmdb.org/t/p/w640/dCVzSIcG27eI5VrH4s2JNIgPEat.jpg
+date=2017-08-27
+URL=https://openload.co/f/l9wLHs-fV-k/Rogue.Warrior.Robot.Fighter.2017.DVDRip.x264-PSYCHD.mkv.mp4
 
 type=video
 name=Death Note (2017) ENG HDRip.XviD.AC3-EVO
@@ -465,6 +471,20 @@ URL=
 
 
 
+
+
+type=video
+name=Annabelle: Creation (2017) ENG TS.XviD.AC3-TiTAN
+thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
+date=2017-08-22
+URL=https://openload.co/f/Gbgko9aJf2o/Annabelle.Creation.2017.TS.XviD.AC3-TiTAN.avi.mp4
+type=video
+name=Annabelle: Creation (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
+date=2017-08-27
+URL=https://streamango.com/f/nrsapasnbqdsqcom/Annabelle2_MP4_mp4
+
+
 type=video
 name=The Dark Tower (2017) ENG TS_x264_AC3_TiTAN
 thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
@@ -577,7 +597,11 @@ URL=https://player.vimeo.com/video/229810745
 
 
 
-
+type=video
+name=Ghost House (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/7EPOZv9bQjNVjFvk8lPGkcTubgO.jpg
+date=2017-08-27
+URL=https://streamango.com/f/cblldltcdmobanmb/Ghost_mp4
 
 type=video
 name=Overdrive (2017) TH TS
@@ -866,18 +890,7 @@ date=2017-08-08
 URL=https://openload.co/f/Q81dbsjEMgg/The.Mummy.2017.1080p.WEB-DL.DD5.1.H264.ThaiRong5.1_CpT%40CtHts_%281%29.mkv.mp4
 
 
-type=video
-name=Alien: Covenant (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/ewVHnq4lUiovxBCu64qxq5bT2lu.jpg
-date=2017-08-02
-URL=https://openload.co/f/7i25JsS2Q9Q/Alien.Covenant.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
-type=video
-name=Alien: Covenant (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/ewVHnq4lUiovxBCu64qxq5bT2lu.jpg
-date=2017-07-03
-URL=https://openload.co/f/Q5ihJ4j7gHY/Alien.Covenant.2017.1080p.KORSUB.HDRip.x264.AC32.0.ThaIRonG-CpT.mkv.mp4
-player=default
-rating=-1.00
+
 
 
 type=video
@@ -892,16 +905,7 @@ date=2017-07-17
 URL=https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264..ThaIRonG.CtHts_-_CpT.mkv.mp4
 
 
-type=video
-name=Science Fiction Volume One: The Osiris Child (2016) ENG BRRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/bEa4lssjiYCv226Z0gKKbfPGJAJ.jpg
-date=2017-08-09
-URL=https://openload.co/f/AeAr9xuD51Q/O.W.2017.BRRip.XviD.AC3-EVO.avi.mp4
-type=video
-name=Science Fiction Volume One: The Osiris Child (2016) CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/bEa4lssjiYCv226Z0gKKbfPGJAJ.jpg
-date=2017-07-28
-URL=https://openload.co/f/qs9MPS8L0MI/Science.Fiction.Volume.One.The.Osiris.Child.2016.720p.WEB-DL.H264.AC3.ThaIRonG.5.1_-_CpT-CtHts%40SiamBIT.mkv.mp4
+
 
 
 
@@ -1003,7 +1007,30 @@ URL=
 
 
 
+type=video
+name=Alien: Covenant (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/ewVHnq4lUiovxBCu64qxq5bT2lu.jpg
+date=2017-08-02
+URL=https://openload.co/f/7i25JsS2Q9Q/Alien.Covenant.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
+type=video
+name=Alien: Covenant (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/ewVHnq4lUiovxBCu64qxq5bT2lu.jpg
+date=2017-08-27
+URL=https://openload.co/f/pq7VZ_FoSWg/%7BMINI_Super-HQ%7D_Alien.Covenant.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+player=default
+rating=-1.00
 
+
+type=video
+name=Science Fiction Volume One: The Osiris Child (2016) ENG BRRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/bEa4lssjiYCv226Z0gKKbfPGJAJ.jpg
+date=2017-08-09
+URL=https://openload.co/f/AeAr9xuD51Q/O.W.2017.BRRip.XviD.AC3-EVO.avi.mp4
+type=video
+name=Science Fiction Volume One: The Osiris Child (2016) TH
+thumb=https://image.tmdb.org/t/p/w640/bEa4lssjiYCv226Z0gKKbfPGJAJ.jpg
+date=2017-08-27
+URL=https://openload.co/f/c3s9YMZSBto/%7BMINI_Super-HQ%7D_Science.Fiction.Volume.One.The.Osiris.Child.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
 type=video

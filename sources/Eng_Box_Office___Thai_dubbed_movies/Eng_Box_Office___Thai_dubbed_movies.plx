@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
+background=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
 title=Eng_Box_Office___Thai_dubbed_movies
-logo=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
+logo=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -18,7 +18,6 @@ type=video
 name=HBO
 URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/1.m3u8
 
-
 type=video
 name=movie1
 thumb=http://www.thaiptv.com/img/movie1logo.png
@@ -30,7 +29,7 @@ URL=rtmp://tv01.thaizatv.com/drm/movie1
 
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
-thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
+thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_3_2017Q1.plx
 player=default
 rating=-1.00
