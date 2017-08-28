@@ -39,16 +39,24 @@ URL=
 
 
 
+
+type=video
+name=Menorca (2016)
+thumb=https://image.tmdb.org/t/p/w640/4CF3iYQUVPCvNreCTa2zsVWJw1R.jpg
+date=2017-08-28
+URL=https://openload.co/f/XlE1AjHQVYY/menorca.2016.1080p.webrip.x264-strife.mkv.mp4
+
+type=video
+name=Love Steaks (2013)
+thumb=https://image.tmdb.org/t/p/w640/trew7jpoisB1FdwfIDW69qmItuk.jpg
+date=2017-08-28
+URL=https://openload.co/f/_C6yLcRga84/l-s.2013.dvdrip.x264-bipolar.mkv.mp4
+
 type=video
 name=The Secrets (2007)
 thumb=https://image.tmdb.org/t/p/w640/blEdRGKsT6yoqY1jdNzQ5MVoiCa.jpg
 date=2017-08-15
 URL=https://3.bp.blogspot.com/5eWKTQT_jpODmUhzp-uio1Jbj0c7nNtmDwF-TFeMzSBAalHmlBMPzl-j056d9yVBz3IAy0x2Mg=m22
-
-
-
-
-
 
 type=video
 name=The Man-Eater (1999)

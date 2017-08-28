@@ -1148,10 +1148,10 @@ date=2017-08-08
 URL=https://openload.co/f/OGhAhmckJAA/Guardians.of.the.Galaxy.Vol.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 # 2773787
 type=video
-name=Guardians of the Galaxy Vol. 2 (2017) TH
+name=Guardians of the Galaxy Vol. 2 (2017) TH IMAX
 thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
-date=2017-08-22
-URL=https://openload.co/f/nBcaGZx-j6s/%7BMINI_Super-HQ%7D_Guardians.of.the.Galaxy.Vol.2.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+date=2017-08-28
+URL=https://openload.co/f/qMRWuRBxRjQ/%7BMINI_Super-HQ%7D_Guardians.of.the.Galaxy.Vol.2.2017.IMAX.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 player=default
 rating=-1.00
 description=The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage./description
