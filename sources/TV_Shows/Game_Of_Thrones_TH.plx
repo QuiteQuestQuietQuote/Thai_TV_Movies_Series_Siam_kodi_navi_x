@@ -40,7 +40,7 @@ type=video
 name=
 thumb=
 date=
-URL=https://openload.co/f/zP9gYxRZtTA/view
+URL=https://lh3.googleusercontent.com/sN8lnfjDR0IcK2MGm2J49IOMoXDNGHVrdyoec0Zoppupmajavr4AQu7fbgE-5lf_ERAPdJWugHhlrqW1gaFA3x9h3fv27t4KvcttPlnLqmqG2MTTE_I-3CUZp7d_gEGREcgLECzyBg=m18
 
 type=video
 name=The Story So Far
@@ -70,10 +70,10 @@ thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/4AkiRsZDWjX1Udot25EDsGROu9
 date=2017-08-28
 URL=https://openload.co/f/HL39hZySh28/Game.of.Thrones.S07E07.The.Dragon.and.the.Wolf.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4
 type=video
-name=S07-E07___The Dragon and the Wolf___TH SUB
+name=S07-E07___The Dragon and the Wolf___TH DUBBED
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/4AkiRsZDWjX1Udot25EDsGROu9E.jpg
 date=2017-08-21
-URL=https://sv4.7series.co/01Subthai/08August60/GameofthronesSS07EP07.mp4
+URL=https://openload.co/f/pcWo4o3pnoU/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C_%E0%B8%9B%E0%B8%B5_7_%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88_07_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2
 
 
 type=video
@@ -82,10 +82,10 @@ thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/odrg1ren7j3HnggIKuKuSMfyOs
 date=2017-08-21
 URL=https://openload.co/f/TXPP6G4HsJw/game.of.thrones.s07e06.1080p.web.h264-tbs.mkv.mp4
 type=video
-name=S07-E06___Beyond the Wall___TH SUB
+name=S07-E06___Beyond the Wall___TH DUBBED
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/odrg1ren7j3HnggIKuKuSMfyOsg.jpg
 date=2017-08-14
-URL=https://drive.google.com/open?id=0B-3JKwDcQ1PDTDhITzFwa0dKV0U
+URL=https://openload.co/f/GIl7NlmKpPo/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C_%E0%B8%9B%E0%B8%B5_7_%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88_06_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2
 
 
 type=video
@@ -94,10 +94,10 @@ thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/3iaJDPtj75z1YpLDMKR17JRXQd
 date=2017-08-14
 URL=https://openload.co/f/62nFC-3XimE/0-G-0-T-0.S07E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4
 type=video
-name=S07-E05___Eastwatch___TH SUB
+name=S07-E05___Eastwatch___TH DUBBED
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/3iaJDPtj75z1YpLDMKR17JRXQdP.jpg
 date=2017-08-14
-URL=https://streamango.com/f/cdndntnqermmmtra/GameofThronesSS07EP05_THSUB_mp4
+URL=https://openload.co/f/2oknfqQckyc/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C_%E0%B8%9B%E0%B8%B5_7_%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88_05_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2
 
 
 type=video
@@ -106,10 +106,10 @@ thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/dVhIfcaonwROdVJH93tZDjFOtl
 date=2017-08-07
 URL=https://openload.co/f/PnXutIvaXUw/Game.of.Thrones.S07E04.The.Spoils.of.War.1080p.AMZN.WEBRip.HEVC.x265-GoT.mkv.mp4
 type=video
-name=S07-E04___The Spoils of War___TH SUB
+name=S07-E04___The Spoils of War___TH DUBBED
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/dVhIfcaonwROdVJH93tZDjFOtlM.jpg
 date=2017-08-07
-URL=https://drive.google.com/open?id=0ByEKWwScMxXDMkt3cFp1My1IV1E
+URL=https://openload.co/f/5sVl6ilBeqo/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C_%E0%B8%9B%E0%B8%B5_7_%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88_04_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2
 
 
 type=video
@@ -118,10 +118,10 @@ thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/xSqdpR6qADmjsdlcJLX5LXRToQ
 date=2017-07-31
 URL=https://openload.co/f/OLUDR81f8uA/G-O-T.S07E03.1080p.AMZN.WEB-DL.DD5.1.H.264-GoT.mkv.mp4
 type=video
-name=S07-E03___The Queen’s Justice___TH SUB
+name=S07-E03___The Queen’s Justice___TH DUBBED
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/xSqdpR6qADmjsdlcJLX5LXRToQP.jpg
 date=2017-08-01
-URL=https://drive.google.com/open?id=0B-3JKwDcQ1PDRGt2Nmg1YnhoR1U
+URL=https://openload.co/f/nGoScIcy4HY/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C_%E0%B8%9B%E0%B8%B5_7_%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88_03_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2
 
 
 type=video
@@ -130,10 +130,10 @@ thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/dVf1gfi80js9qyxm78479o4RNU
 date=2017-07-24
 URL=https://openload.co/f/7uCFx6b4jcA/Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD%2B5.1.H.264-GoT.mkv.mp4
 type=video
-name=S07-E02___Stormborn___TH SUB
+name=S07-E02___Stormborn___TH DUBBED
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/dVf1gfi80js9qyxm78479o4RNUr.jpg
 date=2017-07-24
-URL=https://openload.co/f/GSUxJGcGb5Y/GOT_S07E02_THSUB.mp4
+URL=https://openload.co/f/hiTuGUY7Kus/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C_%E0%B8%9B%E0%B8%B5_7_%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88_02_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2
 
 
 type=video
@@ -142,10 +142,10 @@ thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/3SB4PUzZAnY6HnZbVbktIZoopG
 date=2017-07-17
 URL=https://openload.co/f/lwaEmkwvnUQ/Game.of.Thrones.S07E01.Dragonstone.REPACK.1080p.AMZN.WEB-DL.DD%2B5.1.H.264-GoT.mkv.mp4
 type=video
-name=S07-E01___Dragonstone___TH SUB
+name=S07-E01___Dragonstone___TH DUBBED
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/3SB4PUzZAnY6HnZbVbktIZoopGs.jpg
 date=2017-07-22
-URL=https://openload.co/f/0xbeeFLwywA/got7-1n.mp4.mp4
+URL=https://openload.co/f/D-PRlcWrRPo/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C_%E0%B8%9B%E0%B8%B5_7_%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88_01_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2
 
 
 
