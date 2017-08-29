@@ -65,10 +65,10 @@ URL=
 
 
 type=video
-name=S07-E07___The Dragon and the Wolf___[COLOR=FF00FF00]720p.AMZN.WEB-DL.DDP5.1.H.264-GoT[/COLOR]
+name=S07-E07___The Dragon and the Wolf___[COLOR=FF00FF00]1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[/COLOR]
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/4AkiRsZDWjX1Udot25EDsGROu9E.jpg
-date=2017-08-28
-URL=https://openload.co/f/HL39hZySh28/Game.of.Thrones.S07E07.The.Dragon.and.the.Wolf.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4
+date=2017-08-29
+URL=https://openload.co/f/3s1OLNj_J5Q/Game.of.Thrones.S07E07.The.Dragon.and.the.Wolf.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4
 type=video
 name=S07-E07___The Dragon and the Wolf___TH DUBBED
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/4AkiRsZDWjX1Udot25EDsGROu9E.jpg

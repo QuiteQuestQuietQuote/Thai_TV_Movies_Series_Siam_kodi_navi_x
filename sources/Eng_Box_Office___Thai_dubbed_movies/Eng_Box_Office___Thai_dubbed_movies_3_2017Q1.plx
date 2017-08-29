@@ -49,11 +49,7 @@ URL=
 
 
 
-type=video
-name=The Hitman's Bodyguard (2017) ENG WEB-DL.DD5.1.x264-HB
-thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
-date=2017-08-27
-URL=https://openload.co/f/itc7K1DCIsw/The.Hitmans.Bodyguard.2017.1080p.WEB-DL.DD5.1.x264-HB.mkv.mp4
+
 
 type=video
 name=The Nut Job 2: Nutty by Nature (2017) ENG HDCAM_XviD_-_UnKnOwN
@@ -415,6 +411,10 @@ player=default
 rating=-1.00
 description=When the question is to be or not to be, there is only one answer./description
 
+
+
+
+
 # 2773804
 type=video
 name=The Lost City of Z (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -455,7 +455,11 @@ thumb=https://image.tmdb.org/t/p/w640/vogqzcUAIWyboktR34ojo1roF2q.jpg
 date=2017-08-26
 URL=https://openload.co/f/77NDk4AfO20/M-C-M.2016.720p.BluRay.x264-SPRiNTER.mkv.mp4
 
-
+type=video
+name=Throne of Elves (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/yCV6x3ovzdPEF8LC7JmTr0wOxs3.jpg
+date=2017-08-29
+URL=https://openload.co/f/io1DD4Sp7Z8/bbThrone.of.Elves.2016.720p.BRRip.900MB.MkvCage.mkv
 
 
 
@@ -617,11 +621,7 @@ URL=https://player.vimeo.com/video/229810745
 
 
 
-type=video
-name=Ghost House (2017) TH CAM
-thumb=https://image.tmdb.org/t/p/w640/7EPOZv9bQjNVjFvk8lPGkcTubgO.jpg
-date=2017-08-27
-URL=https://streamango.com/f/cblldltcdmobanmb/Ghost_mp4
+
 
 type=video
 name=Overdrive (2017) TH TS
@@ -871,6 +871,20 @@ URL=https://player.vimeo.com/video/229956580
 
 
 
+
+
+type=video
+name=The Hitman's Bodyguard (2017) ENG WEB-DL.DD5.1.x264-HB
+thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
+date=2017-08-27
+URL=https://openload.co/f/itc7K1DCIsw/The.Hitmans.Bodyguard.2017.1080p.WEB-DL.DD5.1.x264-HB.mkv.mp4
+type=video
+name=The Hitman's Bodyguard (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
+date=2017-08-29
+URL=https://openload.co/f/_Y9poGXYMJI/The.Hitmans.Bodyguard.2017.1080p.WEBRip.ThaiRong5.1.x264_CpT%40CtHts.mkv.mp4
+
+
 type=video
 name=Unlocked (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg
@@ -910,9 +924,6 @@ date=2017-08-08
 URL=https://openload.co/f/Q81dbsjEMgg/The.Mummy.2017.1080p.WEB-DL.DD5.1.H264.ThaiRong5.1_CpT%40CtHts_%281%29.mkv.mp4
 
 
-
-
-
 type=video
 name=Kill Switch (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
@@ -925,9 +936,26 @@ date=2017-07-17
 URL=https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264..ThaIRonG.CtHts_-_CpT.mkv.mp4
 
 
+type=video
+name=Wonder Woman (2017) ENG web.h264-strife
+thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
+date=2017-08-29
+URL=https://openload.co/f/uz5GsDgqMYU/wonder.woman.2017.1080p.web.h264-strife.mkv.mp4
+type=video
+name=Wonder Woman (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
+date=2017-07-02
+URL=https://openload.co/f/POS7oswDd1M/Wonder.Woman.2017.1080p.KORSUB.HDRip.x264.AC-32.0.THR-CpT.mkv.mp4
 
 
 
+
+
+type=video
+name=Ghost House (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/7EPOZv9bQjNVjFvk8lPGkcTubgO.jpg
+date=2017-08-29
+URL=https://openload.co/f/FJ60frgwvyY/Ghost.House.2017.1080p.WEB-DL.ThaiRong5.1.H264_CpT%40CtHts.mkv.mp4
 
 
 type=video
@@ -956,11 +984,7 @@ URL=https://openload.co/f/GbUe5fZac2o/Kidnap_%282017%29_%E0%B8%A5%E0%B9%88%E0%B8
 
 
 
-type=video
-name=Wonder Woman (2017) CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
-date=2017-07-02
-URL=https://openload.co/f/POS7oswDd1M/Wonder.Woman.2017.1080p.KORSUB.HDRip.x264.AC-32.0.THR-CpT.mkv.mp4
+
 
 type=video
 name=2:22 (2017) CAM SOUND
@@ -1023,6 +1047,20 @@ URL=
 
 
 
+
+
+
+type=video
+name=Bleed for This (2016)
+thumb=https://image.tmdb.org/t/p/w640/2mfT0WQ98TVWnSsVStHJEBgQi8p.jpg
+date=2017-08-29
+URL=https://openload.co/f/8hRVObla1IU/%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81
+
+type=video
+name=Confidential Assignment (2017)
+thumb=https://image.tmdb.org/t/p/w640/l2fbQ80aVnAl9MUVw3NZpho6Ymv.jpg
+date=2017-08-29
+URL=https://openload.co/f/0Je723U5OoE/%7BMINI_Super-HQ%7D_Confidential.Assignment.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 type=video
 name=In This Corner of the World (2016)
