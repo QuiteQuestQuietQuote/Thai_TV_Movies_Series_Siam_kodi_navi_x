@@ -260,6 +260,13 @@ URL=
 
 
 
+
+type=video
+name=Dead Again In Tombstone (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/o6lEhEhSOdm0ku4I6h1do2KvBUi.jpg
+date=2017-08-30
+URL=https://openload.co/f/MSAmqFR1Z20/bbDead.Again.in.Tombstone.2017.1080p.BluRay.x264-ROVERS.mkv
+
 type=video
 name=Band Aid (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/wGhQ3FKA57HxyFYM0ttLgazzbF0.jpg
@@ -913,10 +920,10 @@ URL=https://openload.co/f/619tlf76Pxw/Baywatch.2017.1080p.WEB-DL.DD5.1.H264.Thai
 
 
 type=video
-name=The Mummy (2017) ENG HDRip_x264_AC3_5.1_-_MRG
+name=The Mummy (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
-date=2017-08-03
-URL=https://openload.co/f/gNWQ7jkt2ng/The_Mummy_2017_720p_HDRip_x264_AC3_5.1_-_MRG.mkv.mp4
+date=2017-08-30
+URL=https://openload.co/f/YUzDBxFrbBA/bbThe.Mummy.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 type=video
 name=The Mummy (2017) CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
@@ -1048,7 +1055,11 @@ URL=
 
 
 
-
+type=video
+name=Mojave (2015)
+thumb=https://image.tmdb.org/t/p/w640/4Dxd5SbhiwDaca1axQIePHN8uvl.jpg
+date=2017-08-30
+URL=https://openload.co/f/UiPcdoyM3mk/%7BMINI_Super-HQ%7D_Mojave.2015.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 type=video
 name=Bleed for This (2016)
