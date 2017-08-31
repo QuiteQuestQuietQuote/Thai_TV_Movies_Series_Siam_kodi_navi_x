@@ -262,7 +262,7 @@ URL=
 
 
 type=video
-name=Dead Again In Tombstone (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Dead Again In Tombstone (2017) MKV [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/o6lEhEhSOdm0ku4I6h1do2KvBUi.jpg
 date=2017-08-30
 URL=https://openload.co/f/MSAmqFR1Z20/bbDead.Again.in.Tombstone.2017.1080p.BluRay.x264-ROVERS.mkv
@@ -463,7 +463,7 @@ date=2017-08-26
 URL=https://openload.co/f/77NDk4AfO20/M-C-M.2016.720p.BluRay.x264-SPRiNTER.mkv.mp4
 
 type=video
-name=Throne of Elves (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Throne of Elves (2016) MKV [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/yCV6x3ovzdPEF8LC7JmTr0wOxs3.jpg
 date=2017-08-29
 URL=https://openload.co/f/io1DD4Sp7Z8/bbThrone.of.Elves.2016.720p.BRRip.900MB.MkvCage.mkv
@@ -505,10 +505,10 @@ URL=
 
 
 type=video
-name=Annabelle: Creation (2017) ENG TS.XviD.AC3-TiTAN
+name=Annabelle: Creation (2017) ENG HD-TS_x264-CPG
 thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
-date=2017-08-22
-URL=https://openload.co/f/Gbgko9aJf2o/Annabelle.Creation.2017.TS.XviD.AC3-TiTAN.avi.mp4
+date=2017-08-31
+URL=https://openload.co/f/pylfal48kHA/Annabelle_Creation_2017_NEW_720p_HD-TS_x264-CPG.mp4
 type=video
 name=Annabelle: Creation (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
@@ -624,6 +624,20 @@ date=2017-08-18
 URL=https://player.vimeo.com/video/229810745
 
 
+type=video
+name=Despicable Me 3 (2017) ENG HDRip_X264_AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
+date=2017-08-31
+URL=https://openload.co/f/BOwSf5h9AQw/Despicable_Me_3_2017_1080p_HDRip_X264_AC3-EVO.avi.mp4
+type=video
+name=Despicable Me 3 (2017) CAM updated TS
+thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
+date=2017-07-09
+URL=https://openload.co/f/UXysP_7mF5M/Despicable_Me_3_%282017%29_%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94_3.mp4
+
+
+
+
 
 
 
@@ -648,11 +662,7 @@ thumb=https://image.tmdb.org/t/p/w640/HmALxBQK8SKpOEOmqyFxOavIPR.jpg
 date=2017-07-22
 URL=https://openload.co/f/3t8bEoey3-Q/47_Meters_Down_%282017%29_TH.mkv.mp4
 
-type=video
-name=Despicable Me 3 (2017) CAM updated TS
-thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
-date=2017-07-09
-URL=https://openload.co/f/UXysP_7mF5M/Despicable_Me_3_%282017%29_%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94_3.mp4
+
 
 
 
@@ -951,8 +961,8 @@ URL=https://openload.co/f/uz5GsDgqMYU/wonder.woman.2017.1080p.web.h264-strife.mk
 type=video
 name=Wonder Woman (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
-date=2017-07-02
-URL=https://openload.co/f/POS7oswDd1M/Wonder.Woman.2017.1080p.KORSUB.HDRip.x264.AC-32.0.THR-CpT.mkv.mp4
+date=2017-08-31
+URL=https://streamango.com/f/dqqrdlepreklrara/907189_MP4_mp4
 
 
 
