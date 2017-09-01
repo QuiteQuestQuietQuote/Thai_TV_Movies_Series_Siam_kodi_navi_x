@@ -39,19 +39,131 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 type=video
-name=
-thumb=
-date=
-URL=
+name=191xxxxxxxxxxxxxxxxxxxxAnalyzed 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/Analyzed-2016.jpg
+date=2017-09-01
+URL=https://openload.co/f/EFrA3MxEtVc/Erotic_Analyzed_2016_1080p_DVDRip
 
+type=video
+name=Parodies Awaken 2 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/Parodies-Awaken-2-2016.jpg
+date=2017-09-01
+URL=https://openload.co/f/5udqDKwPBbg/Erotic_Parodies_Awaken_2_2016_1080p_DVDRip
 
+type=video
+name=Room In Rome 2010
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/Room-In-Rome-2010.jpg
+date=2017-09-01
+URL=https://openload.co/f/8acLh_qZd9s/Room.In.Rome.2010.720p.BRRip_Erotic
 
+type=video
+name=Blind 2014
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/Blind-2014.jpg
+date=2017-09-01
+URL=https://openload.co/f/vsyBBTq6Gck/Blind.2014.1080p.BluRay_Erotic
 
+type=video
+name=Picture Perfect Fuck 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Picture-Perfect-Fuck-2016.jpg
+date=2017-09-01
+URL=https://openload.co/f/5b7B_RO7Vpo/Picture_Perfect_Fuck_2016_1080p_DVDRip_Erotic
 
+type=video
+name=Evil Lesbian Stepmother 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Evil-Lesbian-Stepmother-2016.jpg
+date=2017-09-01
+URL=https://openload.co/f/zcxT6d2U2yQ/Evil_Lesbian_Stepmother_2016_1080p_DVDRip_Erotic
 
+type=video
+name=Brandi Loves Girls 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/Brandi-Loves-Girls-2016.jpg
+date=2017-09-01
+URL=https://openload.co/f/LpuZu80tnMg/Erotic_Brandi_Loves_Girls_2016_1080p_DVDRip
 
+type=video
+name=Sex, Secrets & Betrayals 2000
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/Sex-Secrets-Betrayals-2000.jpg
+date=2017-09-01
+URL=https://openload.co/f/6TuTz7q6J6Y/Sex%2CSecrets%26Betrayals.2000.HDRip_Erotic
 
+type=video
+name=Bad Timing 1980
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/Bad-Timing-1980.jpg
+date=2017-09-01
+URL=https://openload.co/f/HFXqDKKg5aE/Bad.Timing.1980.720p.BluRay_Erotic
+
+type=video
+name=Forbidden Sins 1999
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/Forbidden-Sins-1999.jpg
+date=2017-09-01
+URL=https://openload.co/f/PsnHcQO-Mqk/Forbidden.Sins.1999.DVDRip_Erotic
+
+type=video
+name=Staying on Top 2002
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/Staying-on-Top-2002.jpg
+date=2017-09-01
+URL=https://openload.co/f/EZLMKfwltNI/Staying.on.Top.2002.DVDRip_Erotic
+
+type=video
+name=Husbands and Lovers 1991
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/Husbands-and-Lovers-1991.jpg
+date=2017-09-01
+URL=https://openload.co/f/Zo4qy4zqu9o/Husbands.and.Lovers.1991.WEBRip_Erotic
+
+type=video
+name=Body Shots 1999
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/Body-Shots-1999.jpg
+date=2017-09-01
+URL=https://openload.co/f/csaXubAdwxU/Body.Shots.1999.UNRATED.DVDRip_Erotic
+
+type=video
+name=An Adventure 2008
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/An-Adventure-2008.jpg
+date=2017-09-01
+URL=https://openload.co/f/ZMeWT7m6ys0/Erotic_An.Adventure.2008.DVDRiP
+
+type=video
+name=Natural Beauties Vol. 2 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/Natural-Beauties-Vol.-2-2016.jpg
+date=2017-09-01
+URL=https://openload.co/f/n16NK5sFJAA/Erotic_Natural_Beauties_Vol._2_2016_1080p_DVDRip
+
+type=video
+name=AJ’s Angels 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/AJ%E2%80%99s-Angels-2016.jpg
+date=2017-09-01
+URL=https://openload.co/f/zizATVgG2Ic/Erotic_AJ%27s_Angels_2016_1080p_DVDRip
+
+type=video
+name=Sweet Sensations 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/Sweet-Sensations-2016.jpg
+date=2017-09-01
+URL=https://openload.co/f/hWBE3K-tElQ/Erotic_Sweet_Sensations_2016_1080p_DVDRip
+
+type=video
+name=Christiane F. 1981
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/Christiane-F.-1981.jpg
+date=2017-09-01
+URL=https://openload.co/f/6HKQ8FoeVq8/Christiane.F.1981.BDRip_Erotic
+
+type=video
+name=Ilona llega con la lluvia 1996
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/Ilona-llega-con-la-lluvia-1996.jpg
+date=2017-09-01
+URL=https://openload.co/f/lJLx7Wp0TFs/Ilona_llega_con_la_lluvia.1996.DVDRip_Erotic
 
 
 

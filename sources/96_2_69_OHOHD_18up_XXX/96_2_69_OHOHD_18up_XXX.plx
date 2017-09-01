@@ -24,6 +24,16 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
+
+
+type=playlist
+name=96_2_69_OHOHD_22_18up_Inter_Erotic
+thumb=http://erotic24hr.com/wp-content/uploads/2016/12/Super_Cute_Vol_5_2016.jpg
+date=2017-09-01
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_22_18up_Inter_Erotic.plx
+player=default
+rating=-1.00
+
 type=playlist
 name=96_2_69_OHOHD_21_18up_Inter_Erotic
 thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Dirty-Weekend-2016.jpg
