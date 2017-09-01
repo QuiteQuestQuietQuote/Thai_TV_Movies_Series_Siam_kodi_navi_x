@@ -57,7 +57,11 @@ thumb=https://image.tmdb.org/t/p/w640/9FVJOUCmruekroyfsTsAKDYST80.jpg
 date=2017-08-18
 URL=https://openload.co/f/dGpcPf8KdDw/The_Nut_Job_2_2017_HDCAM_XviD_-_UnKnOwN.avi.mp4
 
-
+type=video
+name=The Layover (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/kb9osnqanXRpkpm1bnSqAhKoq5T.jpg
+date=2017-09-01
+URL=https://openload.co/f/Y8BolCrhh4U/The.Layover.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=Rogue Warrior: Robot Fighter (2017) ENG DVDRip.x264-PSYCHD
@@ -139,11 +143,7 @@ thumb=https://image.tmdb.org/t/p/w640/hkmWkVgirei79bwds23Hr0lWSXS.jpg
 date=2017-08-21
 URL=https://openload.co/f/qvBJ124kiL8/The.House.2017.HDTS.x264-NG.mkv.mp4
 
-type=video
-name=Starship Troopers: Traitor of Mars (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg
-date=2017-08-22
-URL=https://openload.co/f/f-c5hqi-Nec/Starship_Troopers_Traitor_of_Mars.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 
 
@@ -261,6 +261,19 @@ URL=
 
 
 
+
+type=video
+name=It Comes at Night (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/rNKJpFMlOZn5zkzBPZxEJrQn5Km.jpg
+date=2017-09-01
+URL=https://openload.co/f/JPeDea8FVfM/It.Comes.at.Night.2017.1080p.BluRay.x264-%255bYTS.AG%255d.mp4
+
+type=video
+name=Mindhorn (2017) MKV [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/1cg6oZo7C7iqYTZgbfOvscAFiP2.jpg
+date=2017-09-01
+URL=https://openload.co/f/Xbx1YMzEBN8/Mindhorn.2016.1080p.BluRay.X264-AMIABLE.mkv
+
 type=video
 name=Dead Again In Tombstone (2017) MKV [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/o6lEhEhSOdm0ku4I6h1do2KvBUi.jpg
@@ -279,11 +292,7 @@ thumb=https://image.tmdb.org/t/p/w640/6mtqrfp56Xa4DS64wrqVN9AZwkS.jpg
 date=2017-08-25
 URL=https://openload.co/f/S_jHeFZBNgQ/Fun.Mom.Dinner.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 
-type=video
-name=Captain Underpants: The First Epic Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/AjHZIkzhPXrRNE4VSLVWx6dirK9.jpg
-date=2017-08-25
-URL=https://openload.co/f/JQXUlscrY8Q/Captain.Underpants.The.First.Epic.Movie.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+
 
 type=video
 name=Lowriders (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -337,11 +346,7 @@ player=default
 rating=-1.00
 description=An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world./description
 
-type=video
-name=Everything, Everything (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/rpl6GpwBzj1k5LiEdurY1Qe1AcS.jpg
-date=2017-08-01
-URL=https://openload.co/f/IGIMtDVjAjw/everything.everything.2017.1080p.bluray.x264-geckos.mkv.mp4
+
 
 type=video
 name=Your Name. (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
@@ -349,11 +354,7 @@ thumb=https://image.tmdb.org/t/p/w640/xq1Ugd62d23K2knRUx6xxuALTZB.jpg
 date=2017-07-28
 URL=https://openload.co/f/oJs5aOQQWMM/your.name.2016.1080p.bluray.x264-haiku.mkv.mp4
 
-type=video
-name=Snatched (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/lvGa6v7sR6p6RWCtwv0Dgdr1B8z.jpg
-date=2017-07-26
-URL=https://openload.co/f/1BSWFfEkZo8/Snatched.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+
 
 type=video
 name=Wakefield (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -917,16 +918,7 @@ rating=-1.00
 description=A CIA agent is baited into a trap involving London and a biological attack./description
 
 
-type=video
-name=Baywatch (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
-date=2017-08-18
-URL=https://openload.co/f/JSk-lir1bbA/baywatch.2017.unrated.1080p.bluray.x264-geckos.mkv.mp4
-type=video
-name=Baywatch (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
-date=2017-08-18
-URL=https://openload.co/f/619tlf76Pxw/Baywatch.2017.1080p.WEB-DL.DD5.1.H264.ThaiRong5.1_CpT%40CtHts.mkv.mp4
+
 
 
 type=video
@@ -1059,10 +1051,104 @@ type=video
 name=
 thumb=
 date=
-URL=
+URL=http://cdn.037hd.vip/videoplayback?hash=eyJjb29raWUiOlsiRFJJVkVfU1RSRUFNPUNHTndueEpmTWZZOyBEb21haW49LmRyaXZlLmdvb2dsZS5jb207IFBhdGg9LzsgU2VjdXJlOyBIdHRwT25seSIsIk5JRD0xMTE9Smk3WV9STkZ5MlR1WXhZdmt2cU1TMFBwRkV4RVRjTXNtMnloRmEzMjkwamEwWUFmbjlheXU4YUZFR1BWQ1F3UzVoOFB0dlk0TExIN1VlTndQUHJmdHFPSmNQUVhKV3loQzdoQ29IWHg1VDRmTWNJTm9pS19QNVRaUG5EbmpZaG07RG9tYWluPS5nb29nbGUuY29tO1BhdGg9LztFeHBpcmVzPVNhdCwgMDMtTWFyLTIwMTggMTY6MTY6MDggR01UO0h0dHBPbmx5IiwiTklEPTExMT1TNlNfbkxoQ1pYOGVxU3JfSDVkcG90RTRvdXZ4UGRpZ08zVElMcDdaWk5nZDhWczJjMU1ITHU5MjFDVm5PdTYyY1ZtdjJYUG5HYVVad3JUTi1uY0t0QkNVR3h5ODNqalZNOEhFZEJneGxmVmlDQ3VOYjdfQmFZLUNxcFRxdXVLdTtEb21haW49Lmdvb2dsZS5jb207UGF0aD0vO0V4cGlyZXM9U2F0LCAwMy1NYXItMjAxOCAxNjoxNjowOCBHTVQ7SHR0cE9ubHkiXSwiZG9tYWluIjoiaHR0cHM6Ly9yNS0tLXNuLW5wb2VlbjdkLmMuZHJpdmUuZ29vZ2xlLmNvbSJ9&id=346712d6852adbc3&itag=37&source=webdrive&requiressl=yes&mm=30&mn=sn-npoeen7d&ms=nxu&mv=m&pl=21&ttl=transient&ei=yIepWYSiBYbQqgXF1aTYBg&driveid=0B1nzVmDo3p5YT0JsY1BJWFpua2c&app=explorer&mime=video/mp4&lmt=1503765297686178&mt=1504282476&ip=139.59.117.83&ipbits=0&expire=1504286168&cp=QVNFVkNfVVFUSVhOOkNFUnlrek5jTmJZ&sparams=ip%2Cipbits%2Cexpire%2Cid%2Citag%2Csource%2Crequiressl%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cttl%2Cei%2Cdriveid%2Capp%2Cmime%2Clmt%2Ccp&signature=52D5D93715B2B1113BFED70193D5A2BABE16D00F.41B955238C6CB31FF396D72C0F259F9E0428FECE&key=ck2
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Baywatch (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
+date=2017-08-18
+URL=https://openload.co/f/JSk-lir1bbA/baywatch.2017.unrated.1080p.bluray.x264-geckos.mkv.mp4
+type=video
+name=Baywatch (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
+date=2017-09-01
+URL=https://openload.co/f/mCBZizGep88/%E0%B9%84%E0%B8%A5%E0%B8%9F%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%AE%E0%B8%AD%E0%B8%95%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%AB%E0%B8%B2%E0%B8%94
+
+
+type=video
+name=Shut In (2016)
+thumb=https://image.tmdb.org/t/p/w640/qXIGq6ddQhIYe4Z7A86nZ1qjUME.jpg
+date=2017-09-01
+URL=https://openload.co/f/bEhQYerZo7A/%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99_%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2
+
+
+type=video
+name=Snatched (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/lvGa6v7sR6p6RWCtwv0Dgdr1B8z.jpg
+date=2017-07-26
+URL=https://openload.co/f/1BSWFfEkZo8/Snatched.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+type=video
+name=Snatched (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/lvGa6v7sR6p6RWCtwv0Dgdr1B8z.jpg
+date=2017-09-01
+URL=https://openload.co/f/7wmxvKLDuCo/%E0%B9%81%E0%B8%A1%E0%B9%88...%E0%B8%A5%E0%B8%B9%E0%B8%81...%E0%B8%A5%E0%B8%B8%E0%B8%A2
+
+
+type=video
+name=Starship Troopers: Traitor of Mars (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg
+date=2017-08-22
+URL=https://openload.co/f/f-c5hqi-Nec/Starship_Troopers_Traitor_of_Mars.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+type=video
+name=Starship Troopers: Traitor of Mars (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg
+date=2017-09-01
+URL=https://openload.co/f/bT3aqtToX_Q/%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%82%E0%B8%B2_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5_%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%81%E0%B8%9A%E0%B8%8F%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%AD%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%B2%E0%B8%A3
+
+
+type=video
+name=Everything, Everything (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/rpl6GpwBzj1k5LiEdurY1Qe1AcS.jpg
+date=2017-08-01
+URL=https://openload.co/f/IGIMtDVjAjw/everything.everything.2017.1080p.bluray.x264-geckos.mkv.mp4
+type=video
+name=Everything, Everything (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/rpl6GpwBzj1k5LiEdurY1Qe1AcS.jpg
+date=2017-09-01
+URL=https://openload.co/f/L66t-nevZhM/%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87_%E0%B8%97%E0%B8%B8%E0%B8%81_%E0%B9%86_%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E2%80%A6%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%98%E0%B8%AD
+
+
+type=video
+name=Diary of a Wimpy Kid: The Long Haul (2017)
+thumb=https://image.tmdb.org/t/p/w640/mSBUClLuB70a2unFvW4m48OG9VF.jpg
+date=2017-09-01
+URL=https://openload.co/f/A_XsLMNXvV4/Diary_of_a_Wimpy_Kid%3A_The_Long_Haul_%282017%29
+
+
+type=video
+name=Captain Underpants: The First Epic Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/AjHZIkzhPXrRNE4VSLVWx6dirK9.jpg
+date=2017-08-25
+URL=https://openload.co/f/JQXUlscrY8Q/Captain.Underpants.The.First.Epic.Movie.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+type=video
+name=Captain Underpants: The First Epic Movie (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/AjHZIkzhPXrRNE4VSLVWx6dirK9.jpg
+date=2017-09-01
+URL=https://openload.co/f/sSvIad7sCyg/Captain_Underpants%3A_The_First_Epic_Movie_%282017%29
 
 
 type=video
