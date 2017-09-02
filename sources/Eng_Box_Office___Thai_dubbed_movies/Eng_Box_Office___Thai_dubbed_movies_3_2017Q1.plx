@@ -1,4 +1,4 @@
-﻿version=1
+﻿+version=1
 background=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
 logo=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
@@ -1135,8 +1135,8 @@ URL=https://openload.co/f/L66t-nevZhM/%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%AA%E0%B8
 type=video
 name=Diary of a Wimpy Kid: The Long Haul (2017)
 thumb=https://image.tmdb.org/t/p/w640/mSBUClLuB70a2unFvW4m48OG9VF.jpg
-date=2017-09-01
-URL=https://openload.co/f/A_XsLMNXvV4/Diary_of_a_Wimpy_Kid%3A_The_Long_Haul_%282017%29
+date=2017-09-02
+URL=https://openload.co/f/D_OMDdvYxEE/%7BMINI_Super-HQ%7D_Diary.of.a.Wimpy.Kid.The.Long.Haul.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
 type=video
