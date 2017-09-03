@@ -34,11 +34,18 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
+date=2017-09-03
 URL=
 
 
 
 
+
+type=video
+name=Dirty Beautiful (2015)
+thumb=https://image.tmdb.org/t/p/w640/iBOOsrMZJ9fZ3REi4ontbp8giGO.jpg
+date=2017-09-03
+URL=https://openload.co/f/rceqYEWmBBE/D.B.2015.720p.web.h264-strife.mkv.mp4
 
 type=video
 name=Menorca (2016)

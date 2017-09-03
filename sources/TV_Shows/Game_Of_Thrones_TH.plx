@@ -58,7 +58,7 @@ URL=https://streaming.ewiotse904ga.bid/127.0.0.1/playlist.m3u8?ggdomain=eHh4&ggv
 
 
 type=video
-name=Game of Thrones: Season 7 (2017)_ENG, SUB TH
+name=Game of Thrones: Season 7 (2017)_ENG, TH DUBBED
 thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/sIIydZjHdFukLQ6jzfaS2c6InqD.jpg
 date=2017-06-29
 URL=
@@ -66,13 +66,13 @@ URL=
 
 type=video
 name=S07-E07___The Dragon and the Wolf___[COLOR=FF00FF00]1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT[/COLOR]
-thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/4AkiRsZDWjX1Udot25EDsGROu9E.jpg
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/jLe9VcbGRDUJeuM8IwB7VX4GDRg.jpg
 date=2017-08-29
 URL=https://openload.co/f/3s1OLNj_J5Q/Game.of.Thrones.S07E07.The.Dragon.and.the.Wolf.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4
 type=video
 name=S07-E07___The Dragon and the Wolf___TH DUBBED
-thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/4AkiRsZDWjX1Udot25EDsGROu9E.jpg
-date=2017-08-21
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/jLe9VcbGRDUJeuM8IwB7VX4GDRg.jpg
+date=2017-08-29
 URL=https://openload.co/f/pcWo4o3pnoU/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C_%E0%B8%9B%E0%B8%B5_7_%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88_07_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2
 
 
