@@ -78,6 +78,14 @@ player=default
 rating=-1.00
 
 type=playlist
+name=LEGO Elves: Secrets of Elvendale (2017)
+thumb=https://image.tmdb.org/t/p/w640/yvq2hsm66dvDs4qTevZiDd3ij0t.jpg
+date=2017-09-03
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/LEGO_Elves.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=Life on Top (2009)
 thumb=https://image.tmdb.org/t/p/w640/3ZGRPys4olQ10TmLEQCQcNM2kc4.jpg
 date=2017-08-06
