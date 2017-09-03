@@ -1,4 +1,4 @@
-﻿+version=1
+﻿version=1
 background=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
 logo=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
@@ -62,6 +62,12 @@ name=The Layover (2017) ENG WEB-DL.XviD.AC3-FGT
 thumb=https://image.tmdb.org/t/p/w640/kb9osnqanXRpkpm1bnSqAhKoq5T.jpg
 date=2017-09-01
 URL=https://openload.co/f/Y8BolCrhh4U/The.Layover.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=The Vault (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/zBJocluTrE9AiVdBLUPrvvBRCvQ.jpg
+date=2017-09-03
+URL=https://openload.co/f/mzraSq5ldxM/The.Vault.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Rogue Warrior: Robot Fighter (2017) ENG DVDRip.x264-PSYCHD
@@ -899,8 +905,8 @@ URL=https://openload.co/f/itc7K1DCIsw/The.Hitmans.Bodyguard.2017.1080p.WEB-DL.DD
 type=video
 name=The Hitman's Bodyguard (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
-date=2017-08-29
-URL=https://openload.co/f/_Y9poGXYMJI/The.Hitmans.Bodyguard.2017.1080p.WEBRip.ThaiRong5.1.x264_CpT%40CtHts.mkv.mp4
+date=2017-09-03
+URL=https://openload.co/f/F2OrZJXph3c/%7BMINI_Super-HQ%7D_The.Hitmans.Bodyguard.2017.1080p.WEB-DL.ThaiRong.5.1.x264_CpT%40CtHts.mkv.mp4
 
 
 type=video
@@ -957,11 +963,14 @@ date=2017-08-31
 URL=https://streamango.com/f/dqqrdlepreklrara/907189_MP4_mp4
 
 
-
-
+type=video
+name=What Happened to Monday (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/xfFoewesyuWRVh4qBbXbMhH6gm7.jpg
+date=2017-09-03
+URL=https://openload.co/f/QJKz4qKx5q8/What.Happened.to.Monday.2017.1080p.NF.WEB-DL.ThaiRong.5.1.x264_CpT%40CtHts.mkv.mp4
 
 type=video
-name=Ghost House (2017) TH CAM
+name=Ghost House (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/7EPOZv9bQjNVjFvk8lPGkcTubgO.jpg
 date=2017-08-29
 URL=https://openload.co/f/FJ60frgwvyY/Ghost.House.2017.1080p.WEB-DL.ThaiRong5.1.H264_CpT%40CtHts.mkv.mp4
@@ -1074,7 +1083,11 @@ URL=http://cdn.037hd.vip/videoplayback?hash=eyJjb29raWUiOlsiRFJJVkVfU1RSRUFNPUNH
 
 
 
-
+type=video
+name=Everybody Wants Some!! (2016)
+thumb=https://image.tmdb.org/t/p/w640/mIpd0rGxruvxCnMSmh4gd8wuhmv.jpg
+date=2017-09-03
+URL=https://openload.co/f/wYw2OQyT9xY/%7BMINI_Super-HQ%7D_Everybody.Wants.Some.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
 type=video
@@ -1085,15 +1098,15 @@ URL=https://openload.co/f/JSk-lir1bbA/baywatch.2017.unrated.1080p.bluray.x264-ge
 type=video
 name=Baywatch (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
-date=2017-09-01
-URL=https://openload.co/f/mCBZizGep88/%E0%B9%84%E0%B8%A5%E0%B8%9F%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%AE%E0%B8%AD%E0%B8%95%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%AB%E0%B8%B2%E0%B8%94
+date=2017-09-03
+URL=https://openload.co/f/hEqg8LKbdUA/%7BMINI_Super-HQ%7D_Baywatch.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
 type=video
 name=Shut In (2016)
 thumb=https://image.tmdb.org/t/p/w640/qXIGq6ddQhIYe4Z7A86nZ1qjUME.jpg
-date=2017-09-01
-URL=https://openload.co/f/bEhQYerZo7A/%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99_%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2
+date=2017-09-03
+URL=https://openload.co/f/_8an5SxUznI/%7BMINI-HQ%7D_Shut.In.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
 type=video
@@ -1104,8 +1117,8 @@ URL=https://openload.co/f/1BSWFfEkZo8/Snatched.2017.1080p.BluRay.x264-GECKOS.mkv
 type=video
 name=Snatched (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/lvGa6v7sR6p6RWCtwv0Dgdr1B8z.jpg
-date=2017-09-01
-URL=https://openload.co/f/7wmxvKLDuCo/%E0%B9%81%E0%B8%A1%E0%B9%88...%E0%B8%A5%E0%B8%B9%E0%B8%81...%E0%B8%A5%E0%B8%B8%E0%B8%A2
+date=2017-09-03
+URL=https://openload.co/f/zV7D4cRfpRw/%7BMINI_Super-HQ%7D_Snatched.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
 type=video
