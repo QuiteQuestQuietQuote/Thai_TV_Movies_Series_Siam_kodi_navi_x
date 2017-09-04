@@ -1078,7 +1078,7 @@ type=video
 name=
 thumb=
 date=
-URL=http://cdn.037hd.vip/videoplayback?hash=eyJjb29raWUiOlsiRFJJVkVfU1RSRUFNPUNHTndueEpmTWZZOyBEb21haW49LmRyaXZlLmdvb2dsZS5jb207IFBhdGg9LzsgU2VjdXJlOyBIdHRwT25seSIsIk5JRD0xMTE9Smk3WV9STkZ5MlR1WXhZdmt2cU1TMFBwRkV4RVRjTXNtMnloRmEzMjkwamEwWUFmbjlheXU4YUZFR1BWQ1F3UzVoOFB0dlk0TExIN1VlTndQUHJmdHFPSmNQUVhKV3loQzdoQ29IWHg1VDRmTWNJTm9pS19QNVRaUG5EbmpZaG07RG9tYWluPS5nb29nbGUuY29tO1BhdGg9LztFeHBpcmVzPVNhdCwgMDMtTWFyLTIwMTggMTY6MTY6MDggR01UO0h0dHBPbmx5IiwiTklEPTExMT1TNlNfbkxoQ1pYOGVxU3JfSDVkcG90RTRvdXZ4UGRpZ08zVElMcDdaWk5nZDhWczJjMU1ITHU5MjFDVm5PdTYyY1ZtdjJYUG5HYVVad3JUTi1uY0t0QkNVR3h5ODNqalZNOEhFZEJneGxmVmlDQ3VOYjdfQmFZLUNxcFRxdXVLdTtEb21haW49Lmdvb2dsZS5jb207UGF0aD0vO0V4cGlyZXM9U2F0LCAwMy1NYXItMjAxOCAxNjoxNjowOCBHTVQ7SHR0cE9ubHkiXSwiZG9tYWluIjoiaHR0cHM6Ly9yNS0tLXNuLW5wb2VlbjdkLmMuZHJpdmUuZ29vZ2xlLmNvbSJ9&id=346712d6852adbc3&itag=37&source=webdrive&requiressl=yes&mm=30&mn=sn-npoeen7d&ms=nxu&mv=m&pl=21&ttl=transient&ei=yIepWYSiBYbQqgXF1aTYBg&driveid=0B1nzVmDo3p5YT0JsY1BJWFpua2c&app=explorer&mime=video/mp4&lmt=1503765297686178&mt=1504282476&ip=139.59.117.83&ipbits=0&expire=1504286168&cp=QVNFVkNfVVFUSVhOOkNFUnlrek5jTmJZ&sparams=ip%2Cipbits%2Cexpire%2Cid%2Citag%2Csource%2Crequiressl%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cttl%2Cei%2Cdriveid%2Capp%2Cmime%2Clmt%2Ccp&signature=52D5D93715B2B1113BFED70193D5A2BABE16D00F.41B955238C6CB31FF396D72C0F259F9E0428FECE&key=ck2
+URL=
 
 
 
@@ -1233,6 +1233,11 @@ date=2017-08-27
 URL=https://openload.co/f/c3s9YMZSBto/%7BMINI_Super-HQ%7D_Science.Fiction.Volume.One.The.Osiris.Child.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
+type=video
+name=Batman and Harley Quinn (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/ev90LOaW2COmsScsuVz5pPFzQSI.jpg
+date=2017-09-04
+URL=https://openload.co/f/HNEJKaPOy08/Batman.and.Harley.Quinn.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 type=video
 name=Batman and Harley Quinn (2017)
 thumb=https://image.tmdb.org/t/p/w640/ev90LOaW2COmsScsuVz5pPFzQSI.jpg
