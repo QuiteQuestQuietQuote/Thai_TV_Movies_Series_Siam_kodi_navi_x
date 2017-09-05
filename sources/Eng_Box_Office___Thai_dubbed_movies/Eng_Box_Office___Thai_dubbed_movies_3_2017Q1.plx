@@ -70,6 +70,24 @@ date=2017-09-03
 URL=https://openload.co/f/mzraSq5ldxM/The.Vault.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
+name=The Atoning (2017) ENG WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/fuJUqSrfrGDAch1D2ncQNCfUD1N.jpg
+date=2017-09-05
+URL=https://openload.co/f/g7zpuGPUDgo/The.Atoning.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
+type=video
+name=Renegades (2017) ENG CAM.READNFO.XViD-26k
+thumb=https://image.tmdb.org/t/p/w640/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
+date=2017-09-05
+URL=https://openload.co/f/JzSw1qm2gy0/Renegades.2017.CAM.READNFO.XViD-26k.avi.mp4
+
+type=video
+name=Residue (2017) ENG HDRip.XviD.AC3-iFT
+thumb=https://image.tmdb.org/t/p/w640/wIqS9wHCWd76T7q7CxsWtKwcYa9.jpg
+date=2017-09-05
+URL=https://openload.co/f/koyCk1BiUcw/Residue.2017.HDRip.XviD.AC3-iFT.avi.mp4
+
+type=video
 name=Rogue Warrior: Robot Fighter (2017) ENG DVDRip.x264-PSYCHD
 thumb=https://image.tmdb.org/t/p/w640/dCVzSIcG27eI5VrH4s2JNIgPEat.jpg
 date=2017-08-27
@@ -126,10 +144,10 @@ URL=https://openload.co/f/2gSdAWN-WgE/G.T.2017.NEW.HD-TS.x264-CPG.mkv.mp4
 
 
 type=video
-name=The Big Sick (2017) ENG DVDSCR
+name=The Big Sick (2017) ENG WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg
-date=2017-07-23
-URL=https://openload.co/f/-tzZBuzQuC0/BIGENG2017SCRJY21.mkv.mp4
+date=2017-09-05
+URL=https://openload.co/f/8iYO8iaLKmo/The.Big.Sick.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
 name=Baby Driver (2017) ENG updated4 HD
@@ -271,16 +289,16 @@ date=2017-09-01
 URL=https://openload.co/f/JPeDea8FVfM/It.Comes.at.Night.2017.1080p.BluRay.x264-%255bYTS.AG%255d.mp4
 
 type=video
-name=Mindhorn (2017) MKV [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Mindhorn (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV
 thumb=https://image.tmdb.org/t/p/w640/1cg6oZo7C7iqYTZgbfOvscAFiP2.jpg
 date=2017-09-01
 URL=https://openload.co/f/Xbx1YMzEBN8/Mindhorn.2016.1080p.BluRay.X264-AMIABLE.mkv
 
 type=video
-name=Dead Again In Tombstone (2017) MKV [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Dead Again In Tombstone (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV
 thumb=https://image.tmdb.org/t/p/w640/o6lEhEhSOdm0ku4I6h1do2KvBUi.jpg
 date=2017-08-30
-URL=https://openload.co/f/MSAmqFR1Z20/bbDead.Again.in.Tombstone.2017.1080p.BluRay.x264-ROVERS.mkv
+URL=https://openload.co/f/MSAmqFR1Z20/Dead.Again.in.Tombstone.2017.1080p.BluRay.x264-ROVERS.mkv
 
 type=video
 name=Band Aid (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -462,10 +480,10 @@ date=2017-08-26
 URL=https://openload.co/f/77NDk4AfO20/M-C-M.2016.720p.BluRay.x264-SPRiNTER.mkv.mp4
 
 type=video
-name=Throne of Elves (2016) MKV [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Throne of Elves (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR] MKV
 thumb=https://image.tmdb.org/t/p/w640/yCV6x3ovzdPEF8LC7JmTr0wOxs3.jpg
 date=2017-08-29
-URL=https://openload.co/f/io1DD4Sp7Z8/bbThrone.of.Elves.2016.720p.BRRip.900MB.MkvCage.mkv
+URL=https://openload.co/f/io1DD4Sp7Z8/Throne.of.Elves.2016.720p.BRRip.900MB.MkvCage.mkv
 
 
 
@@ -634,7 +652,18 @@ date=2017-08-18
 URL=https://player.vimeo.com/video/229810745
 
 
-
+type=video
+name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) ENG WEB-DL.H264.AC3
+thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
+date=2017-09-05
+URL=https://openload.co/f/S9nTf365RTM/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.1080p.WEB-DL.H264.AC3.mp4
+type=video
+name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) TH CAM 
+thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
+date=2017-06-15
+URL=https://openload.co/f/zgllm-DQfTc/Pirates_of_the_Caribbean-_Dead_Men_Tell_No_Tales_%282017%29.mp4
+player=default
+rating=-1.00
 
 
 
@@ -667,13 +696,6 @@ URL=https://openload.co/f/3t8bEoey3-Q/47_Meters_Down_%282017%29_TH.mkv.mp4
 
 
 
-type=video
-name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) CAM updated
-thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
-date=2017-06-15
-URL=https://openload.co/f/zgllm-DQfTc/Pirates_of_the_Caribbean-_Dead_Men_Tell_No_Tales_%282017%29.mp4
-player=default
-rating=-1.00
 
 # 2773691
 type=video
@@ -949,7 +971,7 @@ type=video
 name=The Mummy (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
 date=2017-08-30
-URL=https://openload.co/f/YUzDBxFrbBA/bbThe.Mummy.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+URL=https://openload.co/f/YUzDBxFrbBA/The.Mummy.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 type=video
 name=The Mummy (2017) CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
@@ -970,10 +992,10 @@ URL=https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264.
 
 
 type=video
-name=Wonder Woman (2017) ENG web.h264-strife
+name=Wonder Woman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
-date=2017-08-29
-URL=https://openload.co/f/uz5GsDgqMYU/wonder.woman.2017.1080p.web.h264-strife.mkv.mp4
+date=2017-09-05
+URL=https://openload.co/f/LrmK4UjR3ag/Wonder.Woman.2017.1080p.BluRay.x264-YTS.mp4
 type=video
 name=Wonder Woman (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
@@ -1099,7 +1121,11 @@ URL=
 
 
 
-
+type=video
+name=Psalms of Planets Eureka Seven: Good Night, Sleep Tight, Young Lovers (2009)
+thumb=https://image.tmdb.org/t/p/w640/7a8NnDXp5vroBqXPzUFDGxgEGzz.jpg
+date=2017-09-05
+URL=https://openload.co/f/9po6T51xT6E/%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_%E0%B8%81%E0%B8%B9%E0%B9%8A%E0%B8%94%E0%B9%84%E0%B8%99%E0%B8%97%E0%B9%8C_%E0%B8%AA%E0%B8%A5%E0%B8%B4%E0%B8%9F_%E0%B9%84%E0%B8%97%E0%B8%97%E0%B9%8C%E0%B8%A1_%E0%B8%A2%E0%B8%B1%E0%B8%87_%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%9F%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA.mp4
 
 type=video
 name=Everybody Wants Some!! (2016)
@@ -1159,8 +1185,8 @@ URL=https://openload.co/f/IGIMtDVjAjw/everything.everything.2017.1080p.bluray.x2
 type=video
 name=Everything, Everything (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/rpl6GpwBzj1k5LiEdurY1Qe1AcS.jpg
-date=2017-09-01
-URL=https://openload.co/f/L66t-nevZhM/%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87_%E0%B8%97%E0%B8%B8%E0%B8%81_%E0%B9%86_%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E2%80%A6%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%98%E0%B8%AD
+date=2017-09-05
+URL=https://openload.co/f/Hh1fW8hgPx4/%7BMINI_Super-HQ%7D_Everything.Everything.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
 type=video
@@ -1236,8 +1262,8 @@ URL=https://openload.co/f/c3s9YMZSBto/%7BMINI_Super-HQ%7D_Science.Fiction.Volume
 type=video
 name=Batman and Harley Quinn (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/ev90LOaW2COmsScsuVz5pPFzQSI.jpg
-date=2017-09-04
-URL=https://openload.co/f/HNEJKaPOy08/Batman.and.Harley.Quinn.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2017-09-05
+URL=https://openload.co/f/83UsrOVkaGM/batman.and.harley.quinn.2017.1080p.bluray.x264-invandraren.mkv.mp4
 type=video
 name=Batman and Harley Quinn (2017)
 thumb=https://image.tmdb.org/t/p/w640/ev90LOaW2COmsScsuVz5pPFzQSI.jpg
