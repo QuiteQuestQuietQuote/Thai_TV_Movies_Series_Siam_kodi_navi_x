@@ -1106,7 +1106,7 @@ description=After an alien ship crash lands onto a Russian city, many who have s
 type=video
 name=
 thumb=
-date=
+date=2017-09-06
 URL=
 
 
@@ -1124,9 +1124,23 @@ URL=
 
 
 
+type=video
+name=Terms of Endearment (1983)
+thumb=https://image.tmdb.org/t/p/w640/zGl7KwZX8LQQAdYaaYawTFF6HKY.jpg
+date=2017-09-06
+URL=https://streamango.com/f/enkkefffoblsansf/907389_MP4_mp4
 
+type=video
+name=The Long Ships (1964)
+thumb=https://image.tmdb.org/t/p/w640/uDRmPWaW6F0moVOmN3kA1ZszaSF.jpg
+date=2017-09-06
+URL=https://streamango.com/f/eobkpmmksktpcmpc/907391_MP4_mp4
 
-
+type=video
+name=Gisaku (2005)
+thumb=https://image.tmdb.org/t/p/w640/fFKP17sosqcZreGndEOVm4cC6S9.jpg
+date=2017-09-06
+URL=https://openload.co/f/W-WoS3qN-vs/%E0%B8%81%E0%B8%B4%E0%B8%8B%E0%B8%B2%E0%B8%81%E0%B8%B8_%E0%B8%9E%E0%B8%A5%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%82%E0%B8%A5%E0%B8%81
 
 type=video
 name=Psalms of Planets Eureka Seven: Good Night, Sleep Tight, Young Lovers (2009)
