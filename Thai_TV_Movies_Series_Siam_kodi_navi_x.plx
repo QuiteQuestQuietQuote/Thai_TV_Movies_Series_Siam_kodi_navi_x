@@ -56,7 +56,7 @@ thumb=https://superrepo.org/static/images/icons/original/xscript.module.youtube.
 URL=
 player=default
 rating=-1.00
-description=Before using download, install youtube-dl Control (install from repo > kodi add-on repo > program add-ons > youtube-dl control)
+description=Before using download, install youtube-dl Control (install from repo > kodi add-on repo > program add-ons > youtube-dl control)/description
 
 type=script
 name=
