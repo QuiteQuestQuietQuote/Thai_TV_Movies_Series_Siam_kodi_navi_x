@@ -15,7 +15,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
+thumb=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -43,6 +43,17 @@ date=
 URL=
 player=default
 rating=-1.00
+
+
+type=addon
+name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
+thumb=https://mrs0m30n3.github.io/youtube-dl-gui/images/logo.png
+URL=script.module.youtube.dl
+
+type=video
+name=[COLOR=FFFF5733]Before using download, install youtube-dl Control (install from repo > kodi add-on repo > program add-ons > youtube-dl control)[/COLOR]
+thumb=https://superrepo.org/static/images/icons/original/xscript.module.youtube.dl.png.pagespeed.ic.Ekbm5iK2S_.png
+URL=
 
 type=script
 name=

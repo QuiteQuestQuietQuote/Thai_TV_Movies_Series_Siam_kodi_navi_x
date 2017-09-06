@@ -1,8 +1,8 @@
 ﻿version=1
-background=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
+background=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
-logo=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
+logo=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
+thumb=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -50,6 +50,17 @@ URL=
 
 
 
+type=video
+name=Logan Lucky (2017) ENG CAM.XViD-26k
+thumb=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
+date=2017-09-06
+URL=https://openload.co/f/oUjDRHv_fnY/Logan.Lucky.2017.CAM.XViD-26k.avi.mp4
+
+type=video
+name=Wind River (2017) ENG CAM.READNFO.XViD-26k
+thumb=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
+date=2017-09-06
+URL=https://openload.co/f/-TO6G5_bx8I/W-R-N.2017.CAM.READNFO.XViD-26k.avi.mp4
 
 type=video
 name=The Nut Job 2: Nutty by Nature (2017) ENG HDCAM_XviD_-_UnKnOwN
@@ -117,11 +128,7 @@ thumb=https://image.tmdb.org/t/p/w640/fk7xQMvfsEoIDhzsfAg8yDFRasf.jpg
 date=2017-08-25
 URL=https://openload.co/f/f3gwH7ze0BA/Unleashed.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=Wind River (2017) RUS
-thumb=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
-date=2017-08-08
-URL=https://openload.co/f/nOxFZxG8S1E/Wind_River_2017_CAMRip_Russian.avi.mp4
+
 
 type=video
 name=Detroit (2017) ENG CAM.x264-THESTiG
@@ -629,10 +636,10 @@ URL=https://openload.co/f/8LT6eSrfw0U/Spider-Man_Homecoming_2017.mkv.mp4
 
 
 type=video
-name=Transformers: The Last Knight (2017) ENG TS.XViD-26k
+name=Transformers: The Last Knight (2017) ENG HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
-date=2017-07-29
-URL=https://openload.co/f/T3EpPZ0lkJI/Transformers.The.Last.Knight.2017.720p.SUBBED.TS.XViD-26k.avi.mp4
+date=2017-09-06
+URL=https://openload.co/f/wCYbqM6lDV0/Transformers_The_Last_Knight.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 type=video
 name=Transformers: The Last Knight (2017) TH CAM updated2 TS
 thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
@@ -945,8 +952,8 @@ URL=https://openload.co/f/OyQjGshNbw4/Security.2017.1080p.BluRay.x264-PSYCHD.mkv
 type=video
 name=Security (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/fG2SZwAAY4mNscLfvSiKyBxaVQy.jpg
-date=2017-09-03
-URL=https://openload.co/f/sfVxEz3tdo0/%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+date=2017-09-06
+URL=https://openload.co/f/HZM0_zLA9Ew/Security.2017.720p.WEB-DL.DD5.1.H264.ThaiRong5.1_CpT%40CtHts.mkv.mp4
 
 
 type=video
@@ -994,8 +1001,8 @@ URL=https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264.
 type=video
 name=Wonder Woman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
-date=2017-09-05
-URL=https://openload.co/f/LrmK4UjR3ag/Wonder.Woman.2017.1080p.BluRay.x264-YTS.mp4
+date=2017-09-06
+URL=https://openload.co/f/3GQ8WwjZ0Jg/Wonder.Woman.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
 type=video
 name=Wonder Woman (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
@@ -1688,6 +1695,11 @@ date=2017-06-16
 URL=https://openload.co/f/SJBRq8lquuY/%7BMiniHQ%7D_13.Assassins.2010.EXTENDED.1080p.DTS.BrRip.x264-joythun.mkv.mp4
 
 #83
+type=video
+name=The Last Face (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/egOM3BJgA44fR6YdiQJD51iQ4On.jpg
+date=2017-09-05
+URL=https://openload.co/f/n5jHEf18rCI/The.Last.Face.2016.1080p.BluRay.x264-PSYCHD.mkv.mp4
 type=video
 name=The Last Face (2016)
 thumb=https://image.tmdb.org/t/p/w640/egOM3BJgA44fR6YdiQJD51iQ4On.jpg
