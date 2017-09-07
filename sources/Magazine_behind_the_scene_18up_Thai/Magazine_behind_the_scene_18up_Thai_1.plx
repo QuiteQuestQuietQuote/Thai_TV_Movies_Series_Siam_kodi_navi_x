@@ -29,6 +29,7 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
+date=2017-09-01
 URL=
 
 
@@ -40,8 +41,23 @@ URL=
 
 
 
+type=video
+name=Girlie Vol.09 – Jinny & Ommy
+thumb=https://3.bp.blogspot.com/-3JnXXeoAxBU/Wa4c1SJowlI/AAAAAAABP_w/ZjUYwwLc6u812knsViAN7XKMe-zEPRuzwCLcBGAs/s1600/awga.jpg
+date=2017-09-07
+URL=https://streamango.com/f/ocrfepnfrtmbnqta/Girlie_Vol_09_-_Jinny_Ommy_x264_avi_mp4
 
+type=video
+name=Girlie Vol.08 – MeMe & Nancy
+thumb=https://1.bp.blogspot.com/-anotlG9b5dI/Wa4bRFdvGRI/AAAAAAABP_k/qoTHmYaxed81aiDQCjHf4ApNDZgD09urgCLcBGAs/s320/f848e-girlievol08e28093meme2526nancy.jpg
+date=2017-09-07
+URL=https://openload.co/f/sWe03iItXP8/Girlie_Vol_08_-_MeMe_%26_Nancy_x264.avi.mp4
 
+type=video
+name=Girlie Vol.02 – Pang & Donut
+thumb=https://1.bp.blogspot.com/-cRrbq0pyfTI/WazIar4joEI/AAAAAAABP8c/zjmNjJwjLgw7My2cU1MUyRgzXUq4pCS6QCLcBGAs/s320/1451244491_0.30626200.jpg
+date=2017-09-07
+URL=https://openload.co/f/4Wcl7DzHUlk/Girlie_Vol_02_-_Pang_%26_Donut_x264.avi.mp4
 
 
 

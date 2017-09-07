@@ -50,11 +50,20 @@ URL=
 
 
 
+
+
+
 type=video
-name=Logan Lucky (2017) ENG CAM.XViD-26k
+name=Tulip Fever (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/lmfop4zLqFWFTkKSYp7V5jgeM6I.jpg
+date=2017-09-07
+URL=http://entervideo.net/watch/240448923d3fecf
+
+type=video
+name=Logan Lucky (2017) ENG TS.x264-CPG
 thumb=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
-date=2017-09-06
-URL=https://openload.co/f/oUjDRHv_fnY/Logan.Lucky.2017.CAM.XViD-26k.avi.mp4
+date=2017-09-07
+URL=https://openload.co/f/sT2jB8zTaVQ/LC.2017.TS.x264-CPG.mkv.mp4
 
 type=video
 name=Wind River (2017) ENG CAM.READNFO.XViD-26k
@@ -79,6 +88,12 @@ name=The Vault (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/zBJocluTrE9AiVdBLUPrvvBRCvQ.jpg
 date=2017-09-03
 URL=https://openload.co/f/mzraSq5ldxM/The.Vault.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=A Boy Called Po (2016) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/kiNhoBvij8Xd9ahm5w3gRJGWXcT.jpg
+date=2017-09-03
+URL=https://openload.co/f/-l3c1Uj30Ow/A.B.C.P.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=The Atoning (2017) ENG WEB-DL.DD5.1.H264-FGT
@@ -296,13 +311,13 @@ date=2017-09-01
 URL=https://openload.co/f/JPeDea8FVfM/It.Comes.at.Night.2017.1080p.BluRay.x264-%255bYTS.AG%255d.mp4
 
 type=video
-name=Mindhorn (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV
+name=Mindhorn (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6GB
 thumb=https://image.tmdb.org/t/p/w640/1cg6oZo7C7iqYTZgbfOvscAFiP2.jpg
 date=2017-09-01
 URL=https://openload.co/f/Xbx1YMzEBN8/Mindhorn.2016.1080p.BluRay.X264-AMIABLE.mkv
 
 type=video
-name=Dead Again In Tombstone (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV
+name=Dead Again In Tombstone (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.7GB
 thumb=https://image.tmdb.org/t/p/w640/o6lEhEhSOdm0ku4I6h1do2KvBUi.jpg
 date=2017-08-30
 URL=https://openload.co/f/MSAmqFR1Z20/Dead.Again.in.Tombstone.2017.1080p.BluRay.x264-ROVERS.mkv
@@ -423,15 +438,7 @@ player=default
 rating=-1.00
 description=A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering./description
 
-# 2773618
-type=video
-name=The Zookeeper's Wife (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=http://image.tmdb.org/t/p/w500/cCQKccGZsfRSBHy4xEhDlS73OS2.jpg
-date=2017-06-20
-URL=https://openload.co/f/AMyTY51uL8o/the.zookeepers.wife.2017.1080p.bluray.x264-geckos.mkv.mp4
-player=default
-rating=-1.00
-description=The Zookeeper's Wife tells the account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion./description
+
 
 # 2772899
 type=video
@@ -487,7 +494,7 @@ date=2017-08-26
 URL=https://openload.co/f/77NDk4AfO20/M-C-M.2016.720p.BluRay.x264-SPRiNTER.mkv.mp4
 
 type=video
-name=Throne of Elves (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR] MKV
+name=Throne of Elves (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR] MKV 0.9GB
 thumb=https://image.tmdb.org/t/p/w640/yCV6x3ovzdPEF8LC7JmTr0wOxs3.jpg
 date=2017-08-29
 URL=https://openload.co/f/io1DD4Sp7Z8/Throne.of.Elves.2016.720p.BRRip.900MB.MkvCage.mkv
@@ -1011,6 +1018,24 @@ URL=https://streamango.com/f/dqqrdlepreklrara/907189_MP4_mp4
 
 
 type=video
+name=Kidnap (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6G
+thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
+date=2017-09-07
+URL=https://openload.co/f/1S7X9_niZmw/Kidnap.2017.1080p.bluray.x264-VETO.mkv
+type=video
+name=Kidnap (2017) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
+date=2017-07-06
+URL=https://openload.co/f/GbUe5fZac2o/Kidnap_%282017%29_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+
+
+
+
+
+
+
+
+type=video
 name=What Happened to Monday (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/xfFoewesyuWRVh4qBbXbMhH6gm7.jpg
 date=2017-09-03
@@ -1036,19 +1061,6 @@ name=Revolt (2017) CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg
 date=2017-07-29
 URL=https://openload.co/f/a12f7DHdFHk/Revolt_%282017%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95.mp4
-
-
-
-
-
-type=video
-name=Kidnap (2017) CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
-date=2017-07-06
-URL=https://openload.co/f/GbUe5fZac2o/Kidnap_%282017%29_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
-
-
-
 
 
 type=video
@@ -1106,7 +1118,7 @@ description=After an alien ship crash lands onto a Russian city, many who have s
 type=video
 name=
 thumb=
-date=2017-09-06
+date=2017-09-07
 URL=
 
 
@@ -1119,11 +1131,40 @@ URL=
 
 
 
+type=video
+name=The Zookeeper's Wife (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/cCQKccGZsfRSBHy4xEhDlS73OS2.jpg
+date=2017-06-20
+URL=https://openload.co/f/AMyTY51uL8o/the.zookeepers.wife.2017.1080p.bluray.x264-geckos.mkv.mp4
+player=default
+rating=-1.00
+description=The Zookeeper's Wife tells the account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion./description
+type=video
+name=The Zookeeper's Wife (2017) TH
+thumb=http://image.tmdb.org/t/p/w500/cCQKccGZsfRSBHy4xEhDlS73OS2.jpg
+date=2017-09-07
+URL=https://streamango.com/f/ckemmqmtkaoepdck/The_Zookeeper_s_Wife_mp4
+
+
+type=video
+name=I Am Not Madame Bovary (2016)
+thumb=https://image.tmdb.org/t/p/w640/arZ6ryWLVO9jdHpFclucWmaVEtm.jpg
+date=2017-09-07
+URL=https://streamango.com/f/ftaesasseaofcfll/I_Am_Not_Madame_Bovary_Wo_bu_shi_Pan_Jin_Lian_mp4
+
+type=video
+name=What's for Dinner, Mom? (2016)
+thumb=https://image.tmdb.org/t/p/w640/sblspeMr7e9oTpGAnQriIvHOpbj.jpg
+date=2017-09-07
+URL=https://streamango.com/f/defroroqkssednks/What_s_for_Dinner_Mom_mp4
 
 
 
 
 
+
+
+# 169
 type=video
 name=Terms of Endearment (1983)
 thumb=https://image.tmdb.org/t/p/w640/zGl7KwZX8LQQAdYaaYawTFF6HKY.jpg
@@ -1166,7 +1207,7 @@ thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
 date=2017-09-03
 URL=https://openload.co/f/hEqg8LKbdUA/%7BMINI_Super-HQ%7D_Baywatch.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
-
+# 162
 type=video
 name=Shut In (2016)
 thumb=https://image.tmdb.org/t/p/w640/qXIGq6ddQhIYe4Z7A86nZ1qjUME.jpg
@@ -1228,7 +1269,7 @@ thumb=https://image.tmdb.org/t/p/w640/AjHZIkzhPXrRNE4VSLVWx6dirK9.jpg
 date=2017-09-01
 URL=https://openload.co/f/sSvIad7sCyg/Captain_Underpants%3A_The_First_Epic_Movie_%282017%29
 
-
+# 152
 type=video
 name=Mojave (2015)
 thumb=https://image.tmdb.org/t/p/w640/4Dxd5SbhiwDaca1axQIePHN8uvl.jpg
@@ -1262,8 +1303,8 @@ URL=https://openload.co/f/7i25JsS2Q9Q/Alien.Covenant.2017.1080p.BluRay.x264-SPAR
 type=video
 name=Alien: Covenant (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/ewVHnq4lUiovxBCu64qxq5bT2lu.jpg
-date=2017-08-27
-URL=https://openload.co/f/pq7VZ_FoSWg/%7BMINI_Super-HQ%7D_Alien.Covenant.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+date=2017-09-06
+URL=https://openload.co/f/pnczG07COJA/%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99_%E0%B9%82%E0%B8%84%E0%B9%80%E0%B8%A7%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C
 player=default
 rating=-1.00
 

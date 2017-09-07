@@ -274,6 +274,11 @@ URL=
 
 
 
+
+
+
+
+
 # 2771106
 type=video
 name=The Founder (2016)
@@ -282,11 +287,6 @@ URL=https://openload.co/f/Ug8w-OQSoRA/%7BMINI_Super-HQ%7D_The.Founder.2016.1080p
 player=default
 rating=-1.00
 description=The true story of how Ray Kroc, a salesman from Illinois, met Mac and Dick McDonald, who were running a burger operation in 1950s Southern California. Kroc was impressed by the brothersâ?? speedy system of making the food and saw franchise potential. He maneuvered himself into a position to be able to pull the company from the brothers and create a billion-dollar empire./description
-
-
-
-
-
 
 # 2771287
 type=video
