@@ -58,18 +58,110 @@ URL=http://183.88.212.205:8010/play/a00h
 
 
 
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+
+
+type=video
+name=Gang-Cartoon
+URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/69.m3u8
+
+type=video
+name=Ja Ting Ja
+URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/91.m3u8
+
+
+type=video
+name=babytv
+URL=http://iptvthailand.dyndns.biz/dode/babytv.stream/playlist.m3u8
+type=video
+name=boomerang
+URL=http://iptvthailand.dyndns.biz/dode/boomerang.stream/playlist.m3u8
+type=video
+name=toonami
+URL=http://iptvthailand.dyndns.biz/dode/toonami.stream/playlist.m3u8
+type=video
+name=CN
+URL=http://iptvthailand.dyndns.biz/dode/cartoonnetwork.stream/playlist.m3u8
+type=video
+name=Cartoon disney
+URL=http://iptvthailand.dyndns.biz/dode/disney.stream/playlist.m3u8
+type=video
+name=Disney XD
+URL=http://iptvthailand.dyndns.biz/dode/disneyxd.stream/playlist.m3u8
+
+
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
 
 
 
 
-
-
-
-
-
-
-
-
+type=video
+name=GVTV
+URL=http://livetv.khaozap.com/gvtv_480p.stream/playlist.m3u8
+type=video
+name=GVV
+URL=http://livetv.khaozap.com/gvv_480p.stream/playlist.m3u8
+type=video
+name=GVX
+URL=http://livetv.khaozap.com/gvx_480p.stream/playlist.m3u8
+type=video
+name=Disney-XD
+URL=http://livetv.khaozap.com/disney_xd_360p.stream/playlist.m3u8
+type=video
+name=True-Spark-play
+URL=http://livetv.khaozap.com/true_spark_play_480p.stream/playlist.m3u8
+type=video
+name=True-Spark-Jump
+URL=http://livetv.khaozap.com/true_spark_jump_480p.stream/playlist.m3u8
+type=video
+name=Disney-Channel
+URL=http://livetv.khaozap.com/disney_channel_360p.stream/playlist.m3u8
+type=video
+name=Discovery-Kids
+URL=http://livetv.khaozap.com/discovery_kids_480p.stream/playlist.m3u8
+type=video
+name=Gang-Cartoon
+URL=http://livetv.khaozap.com/gang_cartoon_480p.stream/playlist.m3u8
+type=video
+name=Baby-TV-HD
+URL=http://livetv.khaozap.com/baby_tv_hd_360p.stream/playlist.m3u8
+type=video
+name=Boomerang
+URL=http://livetv.khaozap.com/boomerang_480p.stream/playlist.m3u8
+type=video
+name=NiCK-Jr
+URL=http://livetv.khaozap.com/nick_jr._360p.stream/playlist.m3u8
+type=video
+name=Toonami
+URL=http://livetv.khaozap.com/toonami_360p.stream/playlist.m3u8
 
 
 

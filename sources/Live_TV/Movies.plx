@@ -44,7 +44,21 @@ rating=-1.00
 
 
 
-
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
 
 
 
@@ -142,6 +156,166 @@ URL=http://183.88.212.205:8010/play/a01j
 type=video
 name=STAR CHINESE MOVIES
 URL=http://183.88.212.205:8010/play/a02e
+
+
+
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+
+
+type=video
+name=HBO
+URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/1.m3u8
+type=video
+name=CINEMAX
+URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/7.m3u8
+type=video
+name=FOXfamily
+URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/6.m3u8
+type=video
+name=FOXMOVIES
+URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/5.m3u8
+type=video
+name=GolfChannel
+URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/4.m3u8
+type=video
+name=HBOhits
+URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/2.m3u8
+type=video
+name=HBOSignature
+URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/3.m3u8
+type=video
+name=FOX ACTION MOVIES
+URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/12.m3u8
+
+
+
+
+
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+
+
+
+type=video
+name=hbo hd
+URL=http://iptvthailand.dyndns.biz/dode/hbohd.stream/playlist.m3u8
+type=video
+name=h2 hd
+URL=http://iptvthailand.dyndns.biz/dode/h2hd.stream/playlist.m3u8
+type=video
+name=history hd
+URL=http://iptvthailand.dyndns.biz/dode/historyhd.stream/playlist.m3u8
+type=video
+name=hbohits
+URL=http://iptvthailand.dyndns.biz/dode/hbohits.stream/playlist.m3u8
+type=video
+name=hbo signature
+URL=http://iptvthailand.dyndns.biz/dode/hbosig.stream/playlist.m3u8
+type=video
+name=hbo family
+URL=http://iptvthailand.dyndns.biz/dode/hbofam.stream/playlist.m3u8
+type=video
+name=cenimax
+URL=http://iptvthailand.dyndns.biz/dode/cinemax.stream/playlist.m3u8
+type=video
+name=warnerhd
+URL=http://iptvthailand.dyndns.biz/dode/warnerhd.stream/playlist.m3u8
+type=video
+name=axn
+URL=http://iptvthailand.dyndns.biz/dode/axnhd.stream/chunks.m3u8
+type=video
+name=doonee
+URL=http://iptvthailand.dyndns.biz/dode/doonee.stream/playlist.m3u8
+type=video
+name=fox  movies
+URL=http://iptvthailand.dyndns.biz/dode/foxpremium.stream/playlist.m3u8
+type=video
+name=fox  action movies
+URL=http://iptvthailand.dyndns.biz/dode/foxaction.stream/playlist.m3u8
+type=video
+name=foxthai
+URL=http://iptvthailand.dyndns.biz/dode/foxthai.stream/playlist.m3u8
+type=video
+name=foxcrime
+URL=http://iptvthailand.dyndns.biz/dode/foxcrime.stream/playlist.m3u8
+type=video
+name=fx hd
+URL=http://iptvthailand.dyndns.biz/dode/fxhd.stream/playlist.m3u8
+type=video
+name=foxfamily
+URL=http://iptvthailand.dyndns.biz/dode/foxfamily.stream/playlist.m3u8
+type=video
+name=starworld
+URL=http://iptvthailand.dyndns.biz/dode/starworld.stream/playlist.m3u8
+type=video
+name=fyi
+URL=http://iptvthailand.dyndns.biz/dode/fyi.stream/playlist.m3u8
+type=video
+name=true movie hits
+URL=http://iptvthailand.dyndns.biz/dode/moviehit.stream/playlist.m3u8
+type=video
+name=trueseries
+URL=http://iptvthailand.dyndns.biz/dode/trueseries.stream/playlist.m3u8
+type=video
+name=thai film
+URL=http://iptvthailand.dyndns.biz/dode/thaifilm.stream/playlist.m3u8
+type=video
+name=filmasia
+URL=http://iptvthailand.dyndns.biz/dode/filmasia.stream/playlist.m3u8
+type=video
+name=true lifetime
+URL=http://iptvthailand.dyndns.biz/dode/lifetime.stream/playlist.m3u8
+
+
+
+
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+
+
+
+
+
 
 
 
