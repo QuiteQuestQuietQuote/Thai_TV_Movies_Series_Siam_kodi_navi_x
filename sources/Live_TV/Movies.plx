@@ -30,7 +30,7 @@ rating=-1.00
 type=video
 name=movie3
 thumb=http://www.thaiptv.com/img/movie3logo.png
-URL=rtmp://tv01.thaizatv.com/drm/movie3.stream
+URL=xxxrtmp://tv01.thaizatv.com/drm/movie3.stream
 player=default
 rating=-1.00
 
