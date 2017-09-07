@@ -8,7 +8,7 @@ description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, master
 type=playlist
 name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Thai_TV_Movies_Series_Siam_kodi_navi_x.plx?action=sortsel&cur=ord
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Thai4Free_Free2Thais.plx?action=sortsel&cur=ord
 
 
 
@@ -88,12 +88,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 player=default
 rating=-1.00
 
-type=playlist
-name=Thai4Free_Free2Thais
-thumb=http://i.dailymail.co.uk/i/pix/2016/11/18/14/3A77935E00000578-3949706-Making_a_splash_The_fish_with_its_blue_red_and_white_horizontal_-m-13_1479477984350.jpg
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/Thai4Free_Free2Thais.plx
-player=default
-rating=-1.00
+
 
 
 
