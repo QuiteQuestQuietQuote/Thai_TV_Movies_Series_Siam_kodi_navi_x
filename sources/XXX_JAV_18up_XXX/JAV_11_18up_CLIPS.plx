@@ -39,6 +39,15 @@ URL=
 
 
 
+
+type=playlist
+name=Continue____here___Magazine_behind_the_scene_18up_Thai
+thumb=http://2.bp.blogspot.com/-fKc2tevxTEA/Vkwbbk1kP9I/AAAAAAAAvUY/vXF6jHtr1vE/s320/1446377256_0.98860600.jpg
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Magazine_behind_the_scene_18up_Thai/Magazine_behind_the_scene_18up_Thai.plx
+player=default
+rating=-1.00
+
+
 type=video
 name=
 thumb=

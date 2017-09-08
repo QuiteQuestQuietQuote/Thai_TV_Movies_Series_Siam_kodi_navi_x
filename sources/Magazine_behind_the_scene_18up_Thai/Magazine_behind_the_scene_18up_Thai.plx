@@ -10,6 +10,25 @@ name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Magazine_behind_the_scene_18up_Thai/Magazine_behind_the_scene_18up_Thai.plx?action=sortsel&cur=ord
 
+
+
+
+type=playlist
+name=Asian_Sex_Diary_2
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Cindy.Chinese.jpg
+date=2017-09-08
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Magazine_behind_the_scene_18up_Thai/Asian_Sex_Diary_2.plx
+player=default
+rating=-1.00
+
+type=playlist
+name=Asian_Sex_Diary_1
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Fa_.jpg
+date=2017-09-08
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Magazine_behind_the_scene_18up_Thai/Asian_Sex_Diary_1.plx
+player=default
+rating=-1.00
+
 type=playlist
 name=Magazine_behind_the_scene_18up_Thai_2
 thumb=http://2.bp.blogspot.com/-fKc2tevxTEA/Vkwbbk1kP9I/AAAAAAAAvUY/vXF6jHtr1vE/s320/1446377256_0.98860600.jpg
