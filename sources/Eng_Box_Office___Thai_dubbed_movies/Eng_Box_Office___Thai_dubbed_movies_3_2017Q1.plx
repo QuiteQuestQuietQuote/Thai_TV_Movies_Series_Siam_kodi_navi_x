@@ -41,7 +41,7 @@ URL=
 type=video
 name=
 thumb=
-date=
+date=2017-09-08
 URL=
 
 
@@ -66,10 +66,10 @@ date=2017-09-07
 URL=https://openload.co/f/sT2jB8zTaVQ/LC.2017.TS.x264-CPG.mkv.mp4
 
 type=video
-name=Wind River (2017) ENG CAM.READNFO.XViD-26k
+name=Wind River (2017) ENG CAM.x264.HQMic-CPG
 thumb=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
-date=2017-09-06
-URL=https://openload.co/f/-TO6G5_bx8I/W-R-N.2017.CAM.READNFO.XViD-26k.avi.mp4
+date=2017-09-08
+URL=https://openload.co/f/h5tDSOSTl24/W.R.2017.CAM.x264.HQMic-CPG.mkv.mp4
 
 type=video
 name=The Nut Job 2: Nutty by Nature (2017) ENG HDCAM_XviD_-_UnKnOwN
@@ -82,6 +82,43 @@ name=The Layover (2017) ENG WEB-DL.XviD.AC3-FGT
 thumb=https://image.tmdb.org/t/p/w640/kb9osnqanXRpkpm1bnSqAhKoq5T.jpg
 date=2017-09-01
 URL=https://openload.co/f/Y8BolCrhh4U/The.Layover.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+
+type=video
+name=The Good Catholic (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/iPvggWYCZblEG2ldObR6GHmkEjz.jpg
+date=2017-09-08
+URL=https://openload.co/f/fnBC5t378Ow/The.Good.Catholic.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=Paris Can Wait (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/jLzfHNU1JldQpC5TNEvQMnWQxx6.jpg
+date=2017-09-08
+URL=https://openload.co/f/VV_62-EgYsk/Paris.Can.Wait.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=Gun Shy (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/aHKB8RiVn2OV0cowYtwzAmHznuD.jpg
+date=2017-09-08
+URL=https://openload.co/f/orjREu8pqr4/Gun.Shy.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=The Limehouse Golem (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/xB1AFa4iLU9KGxlrVbfH2uIJeck.jpg
+date=2017-09-08
+URL=https://openload.co/f/J5-hg2Jta3U/The.Limehouse.Golem.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
+type=video
+name=My Pet Dinosaur (2017) ENG WEB-DL.X264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/7PpqSMJjibR5dkqnBOGhpcz253C.jpg
+date=2017-09-08
+URL=https://openload.co/f/F0IBywj_rRs/My_Pet_Dinosaur_2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
+
+type=video
+name=Who Is Alice? (2017) ENG Amazon.WEB-DL.DD%2B2.0.H.264-QOQ
+thumb=https://image.tmdb.org/t/p/w640/eIlfBm1lp26lP0vJvzQgfYbzftD.jpg
+date=2017-09-08
+URL=https://openload.co/f/HgINDRLD9qI/Who.Is.Alice.2017.1080p.Amazon.WEB-DL.DD%2B2.0.H.264-QOQ.mkv.mp4
 
 type=video
 name=The Vault (2017) ENG HDRip.XviD.AC3-EVO
@@ -165,11 +202,7 @@ URL=https://openload.co/f/2gSdAWN-WgE/G.T.2017.NEW.HD-TS.x264-CPG.mkv.mp4
 
 
 
-type=video
-name=The Big Sick (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg
-date=2017-09-05
-URL=https://openload.co/f/8iYO8iaLKmo/The.Big.Sick.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 type=video
 name=Baby Driver (2017) ENG updated4 HD
@@ -294,15 +327,29 @@ URL=https://streamango.com/f/crkpcatklcmelbtb/Free_State_of_Jones_2016
 type=video
 name=
 thumb=
-date=
+date=2017-09-08
 URL=
 
 
 
 
+type=video
+name=Till We Meet Again (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.9GB
+thumb=https://image.tmdb.org/t/p/w640/wUAfJDkRfTVDjvNvsT0UdtgiRxt.jpg
+date=2017-09-08
+URL=https://openload.co/f/lLZh3c2_Tkw/Till.We.Meet.Again.2016.1080p.BluRay.x264-REGARDS.mkv
 
+type=video
+name=Throne of Elves (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/yCV6x3ovzdPEF8LC7JmTr0wOxs3.jpg
+date=2017-09-08
+URL=https://openload.co/f/KsfMzuMDqcs/Throne.of.Elves.2016.1080p.BluRay.x264-EXCLUDED.mp4
 
-
+type=video
+name=The Big Sick (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg
+date=2017-09-08
+URL=https://openload.co/f/EkvIdTd4RJw/The.Big.Sick.2017.1080p.BluRay.x264-Replica.mp4
 
 type=video
 name=It Comes at Night (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -493,11 +540,7 @@ thumb=https://image.tmdb.org/t/p/w640/vogqzcUAIWyboktR34ojo1roF2q.jpg
 date=2017-08-26
 URL=https://openload.co/f/77NDk4AfO20/M-C-M.2016.720p.BluRay.x264-SPRiNTER.mkv.mp4
 
-type=video
-name=Throne of Elves (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR] MKV 0.9GB
-thumb=https://image.tmdb.org/t/p/w640/yCV6x3ovzdPEF8LC7JmTr0wOxs3.jpg
-date=2017-08-29
-URL=https://openload.co/f/io1DD4Sp7Z8/Throne.of.Elves.2016.720p.BRRip.900MB.MkvCage.mkv
+
 
 
 
@@ -642,16 +685,7 @@ date=2017-07-23
 URL=https://openload.co/f/8LT6eSrfw0U/Spider-Man_Homecoming_2017.mkv.mp4
 
 
-type=video
-name=Transformers: The Last Knight (2017) ENG HDRip.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
-date=2017-09-06
-URL=https://openload.co/f/wCYbqM6lDV0/Transformers_The_Last_Knight.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-type=video
-name=Transformers: The Last Knight (2017) TH CAM updated2 TS
-thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
-date=2017-08-08
-URL=https://openload.co/f/NTZrlanyN54/Transformers_The_Last_Knight_2017_%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2_zoom_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87.mkv.mp4
+
 
 
 type=video
@@ -666,18 +700,7 @@ date=2017-08-18
 URL=https://player.vimeo.com/video/229810745
 
 
-type=video
-name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) ENG WEB-DL.H264.AC3
-thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
-date=2017-09-05
-URL=https://openload.co/f/S9nTf365RTM/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.1080p.WEB-DL.H264.AC3.mp4
-type=video
-name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) TH CAM 
-thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
-date=2017-06-15
-URL=https://openload.co/f/zgllm-DQfTc/Pirates_of_the_Caribbean-_Dead_Men_Tell_No_Tales_%282017%29.mp4
-player=default
-rating=-1.00
+
 
 
 
@@ -978,9 +1001,6 @@ rating=-1.00
 description=A CIA agent is baited into a trap involving London and a biological attack./description
 
 
-
-
-
 type=video
 name=The Mummy (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
@@ -1006,18 +1026,6 @@ URL=https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264.
 
 
 type=video
-name=Wonder Woman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
-date=2017-09-06
-URL=https://openload.co/f/3GQ8WwjZ0Jg/Wonder.Woman.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
-type=video
-name=Wonder Woman (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
-date=2017-08-31
-URL=https://streamango.com/f/dqqrdlepreklrara/907189_MP4_mp4
-
-
-type=video
 name=Kidnap (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6G
 thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
 date=2017-09-07
@@ -1029,7 +1037,30 @@ date=2017-07-06
 URL=https://openload.co/f/GbUe5fZac2o/Kidnap_%282017%29_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
 
 
+type=video
+name=Transformers: The Last Knight (2017) ENG HDRip.X264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
+date=2017-09-06
+URL=https://openload.co/f/wCYbqM6lDV0/Transformers_The_Last_Knight.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+type=video
+name=Transformers: The Last Knight (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
+date=2017-09-08
+URL=https://openload.co/f/u6g1UEEe3L4/Transformers.The.Last.Knight.2017.1080p.KORSUB.HDRip.x264.ThaIRong2.0_CpT%40CtHts.mkv.mp4
 
+
+type=video
+name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) ENG WEB-DL.H264.AC3
+thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
+date=2017-09-05
+URL=https://openload.co/f/S9nTf365RTM/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.1080p.WEB-DL.H264.AC3.mp4
+type=video
+name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
+date=2017-09-08
+URL=https://openload.co/f/ImfcvgZW3iI/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.1080p.WEB-DL.ThaIRong5.1.H264_CpT%40CtHts.mkv.mp4
+player=default
+rating=-1.00
 
 
 
@@ -1128,7 +1159,16 @@ URL=
 
 
 
-
+type=video
+name=Wonder Woman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
+date=2017-09-06
+URL=https://openload.co/f/3GQ8WwjZ0Jg/Wonder.Woman.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
+type=video
+name=Wonder Woman (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
+date=2017-09-08
+URL=https://openload.co/f/5DNlHvwnR58/%7BMINI_Super-HQ%7D_Wonder.Woman.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
 type=video
@@ -1142,8 +1182,8 @@ description=The Zookeeper's Wife tells the account of keepers of the Warsaw Zoo,
 type=video
 name=The Zookeeper's Wife (2017) TH
 thumb=http://image.tmdb.org/t/p/w500/cCQKccGZsfRSBHy4xEhDlS73OS2.jpg
-date=2017-09-07
-URL=https://streamango.com/f/ckemmqmtkaoepdck/The_Zookeeper_s_Wife_mp4
+date=2017-09-08
+URL=https://openload.co/f/m8tt8lF26Uw/The_Zookeeper%27s_Wife_%282017%29%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1_%E0%B8%81%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4.mp4
 
 
 type=video
@@ -1155,8 +1195,8 @@ URL=https://streamango.com/f/ftaesasseaofcfll/I_Am_Not_Madame_Bovary_Wo_bu_shi_P
 type=video
 name=What's for Dinner, Mom? (2016)
 thumb=https://image.tmdb.org/t/p/w640/sblspeMr7e9oTpGAnQriIvHOpbj.jpg
-date=2017-09-07
-URL=https://streamango.com/f/defroroqkssednks/What_s_for_Dinner_Mom_mp4
+date=2017-09-08
+URL=https://openload.co/f/aysqYgQU4vM/What%27s_for_Dinner%2C_Mom%3F_%282016%29%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B8%99%E0%B8%B5%E0%B9%89_%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%96%E0%B8%B6%E0%B8%87.mp4
 
 
 
