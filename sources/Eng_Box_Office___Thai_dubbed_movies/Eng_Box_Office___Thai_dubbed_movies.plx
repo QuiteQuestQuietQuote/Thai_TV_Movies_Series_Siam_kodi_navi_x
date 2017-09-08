@@ -43,11 +43,56 @@ rating=-1.00
 
 
 
-type=video
-name=HBO
-URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/1.m3u8
+
 
 type=video
 name=movie1
 thumb=http://www.thaiptv.com/img/movie1logo.png
 URL=rtmp://tv01.thaizatv.com/drm/movie1
+
+type=video
+name=HBO HD
+URL=http://iptvthailand.dyndns.biz/dode/hbohd.stream/playlist.m3u8
+type=video
+name=HBO hits
+URL=http://iptvthailand.dyndns.biz/dode/hbohits.stream/playlist.m3u8
+type=video
+name=HBO signature
+URL=http://iptvthailand.dyndns.biz/dode/hbosig.stream/playlist.m3u8
+type=video
+name=HBO family
+URL=http://iptvthailand.dyndns.biz/dode/hbofam.stream/playlist.m3u8
+
+type=video
+name=Cinemax
+URL=http://iptvthailand.dyndns.biz/dode/cinemax.stream/playlist.m3u8
+
+type=video
+name=FOX movies
+URL=http://iptvthailand.dyndns.biz/dode/foxpremium.stream/playlist.m3u8
+type=video
+name=FOX action movies
+URL=http://iptvthailand.dyndns.biz/dode/foxaction.stream/playlist.m3u8
+type=video
+name=FOX family
+URL=http://iptvthailand.dyndns.biz/dode/foxfamily.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
