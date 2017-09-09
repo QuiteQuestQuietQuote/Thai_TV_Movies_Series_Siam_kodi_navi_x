@@ -327,11 +327,24 @@ URL=https://streamango.com/f/crkpcatklcmelbtb/Free_State_of_Jones_2016
 type=video
 name=
 thumb=
-date=2017-09-08
+date=2017-09-09
 URL=
 
 
 
+
+
+type=video
+name=The Ghoul (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/lkzjc4Q7vPYXeIyaFIX4rFJImtJ.jpg
+date=2017-09-09
+URL=https://openload.co/f/5dfO-ckAQyM/The.Ghoul.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Hero (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/1xz4ggwOJi8FUsjsLDbFrCxyK0e.jpg
+date=2017-09-09
+URL=https://openload.co/f/aO4jx_Sl9Xc/the.hero.2017.limited.1080p.bluray.x264-snow.mkv.mp4
 
 type=video
 name=Till We Meet Again (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.9GB
@@ -1045,8 +1058,8 @@ URL=https://openload.co/f/wCYbqM6lDV0/Transformers_The_Last_Knight.2017.720p.HC.
 type=video
 name=Transformers: The Last Knight (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
-date=2017-09-08
-URL=https://openload.co/f/u6g1UEEe3L4/Transformers.The.Last.Knight.2017.1080p.KORSUB.HDRip.x264.ThaIRong2.0_CpT%40CtHts.mkv.mp4
+date=2017-09-09
+URL=https://openload.co/f/85Q3rG95g_k/Transformers%3A_The_Last_Knight_%282017%29%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA_5%3A_%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
 type=video
@@ -1057,8 +1070,8 @@ URL=https://openload.co/f/S9nTf365RTM/Pirates.of.the.Caribbean.Dead.Men.Tell.No.
 type=video
 name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
-date=2017-09-08
-URL=https://openload.co/f/ImfcvgZW3iI/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.1080p.WEB-DL.ThaIRong5.1.H264_CpT%40CtHts.mkv.mp4
+date=2017-09-09
+URL=https://openload.co/f/3uxjuxfOr6E/Pirates_of_the_Caribbean%3A_Dead_Men_Tell_No_Tales_%282017%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%8A%E0%B8%B5%E0%B8%9E_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 player=default
 rating=-1.00
 
@@ -1167,8 +1180,8 @@ URL=https://openload.co/f/3GQ8WwjZ0Jg/Wonder.Woman.2017.1080p.BluRay.x264-SPARKS
 type=video
 name=Wonder Woman (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
-date=2017-09-08
-URL=https://openload.co/f/5DNlHvwnR58/%7BMINI_Super-HQ%7D_Wonder.Woman.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+date=2017-09-09
+URL=https://openload.co/f/JKaz3jrhtwc/Wonder_Woman_%282017%29%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%A7%E0%B8%B9%E0%B9%81%E0%B8%A1%E0%B8%99.mp4
 
 
 type=video
