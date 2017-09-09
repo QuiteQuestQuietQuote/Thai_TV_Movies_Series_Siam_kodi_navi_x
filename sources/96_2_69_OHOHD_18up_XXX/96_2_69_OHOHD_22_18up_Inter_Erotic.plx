@@ -52,6 +52,400 @@ URL=
 
 
 
+type=video
+name=134xxxxxxxxxxxxxxxxxxxxTeens Who Squirt 2017
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87-Erotic-Rate-R-Movie-20-Teens-Who-Squirt-2017.jpg
+date=2017-09-09
+URL=https://openload.co/f/4vLneBSTzCc/Teens_Who_Squirt_2017_1080p_DVDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Geeky Gals 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87-Erotic-Rate-R-Movie-20-Geeky-Gals-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/QBHPFvXgvcQ/Geeky_Gals_2016_1080p_DVDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Corrupted Cuties 5 2017
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87-Erotic-Rate-R-Movie-20-Corrupted-Cuties-5-2017.jpg
+date=2017-09-09
+URL=https://openload.co/f/oVONrw2ZBTw/Corrupted_Cuties_5_2017_1080p_DVDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Lesbian Lust 2017
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87-Erotic-Rate-R-Movie-20-Lesbian-Lust-2017.jpg
+date=2017-09-09
+URL=https://openload.co/f/d6wiIzuoshs/Lesbian_Lust_2017_1080p_DVDRip_%5BMovie-dd.com%5D
+
+
+
+
+
+type=video
+name=130xxxxxxxxxxxxxxxxxxxxThe Killer Inside Me 2010
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/The-Killer-Inside-Me-2010.jpg
+date=2017-09-09
+URL=https://openload.co/f/5aLGN0wqDpI/Erotic_The_Killer_Inside_Me_2010
+
+type=video
+name=Sex With My Ex 2017
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Sex-With-My-Ex-2017.jpg
+date=2017-09-09
+URL=https://openload.co/f/P4WTs75Ff_U/Sex_With_My_Ex_2017_1080p_DVDRip
+
+type=video
+name=The Riley Reid Experience 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/The-Riley-Reid-Experience-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/IEsi2jNqQq4/The_Riley_Reid_Experience_2016_1080p_DVDRip
+
+type=video
+name=Kokuhaku – Nurse no Zangyo 2009
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Kokuhaku-Nurse-no-Zangyo-2009.jpg
+date=2017-09-09
+URL=https://openload.co/f/5vi0tvjZxn8/Erotic_Kokuhaku_-_Nurse_no_Zangyo_2009
+
+type=video
+name=Eves Secret 2014
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Eves-Secret-2014.jpg
+date=2017-09-09
+URL=https://openload.co/f/KhhgecU1YQI/Erotic_Eves_Secret_2014
+
+type=video
+name=Threesome Encounters 2017
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/Threesome-Encounters-2017.jpg
+date=2017-09-09
+URL=https://openload.co/f/ck4XI384rSU/Threesome_Encounters_2017_1080p_DVDRip
+
+type=video
+name=Blush 2015
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87-Erotic-Rate-R-Movie-Blush-2015.jpg
+date=2017-09-09
+URL=https://openload.co/f/rdz6JQV2vZU/Erotic_blush_2015_EngSub_DVDRip
+
+type=video
+name=Fatal Passion 1995
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87-Erotic-Rate-R-Movie-Fatal-Passion-1995-1.jpg
+date=2017-09-09
+URL=https://openload.co/f/Qq_b7FusEtM/Erotic_Fatal_Passion_1995_DVDRip
+
+type=video
+name=Everlasting 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/Everlasting-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/uFhCXPScC1k/Everlasting.2016.HDRip
+
+type=video
+name=The Face Of Alice 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/The-Face-Of-Alice-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/K7sUaVzCe8s/The_Face_Of_Alice_2016_1080p_DVDRip
+
+type=video
+name=Coming Deeply 2014
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/Coming-Deeply-2014.jpg
+date=2017-09-09
+URL=https://openload.co/f/Bo8Vm3pdBjA/Coming_Deeply_2014_1080p_DVDRip
+
+type=video
+name=So Hard for You 2014
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/So-Hard-for-You-2014.jpg
+date=2017-09-09
+URL=https://openload.co/f/YLbzdhoFrDg/So_Hard_for_You_2014_1080p_DVDRip
+
+type=video
+name=Ringer 1996
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/Ringer-1996.jpg
+date=2017-09-09
+URL=https://openload.co/f/k-lwEaT6L2k/Ringer_1996_DVDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Anna Nicole Smith – Exposed 1998
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/Anna-Nicole-Smith-Exposed-1998.jpg
+date=2017-09-09
+URL=https://openload.co/f/aOV2TFrIjs4/Anna_Nicole_Smith%3A_Exposed_1998_DVDRip_%5BMovie-dd.com%5D
+
+type=video
+name=What Every Frenchwoman Wants 1987
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/What-Every-Frenchwoman-Wants-1987.jpg
+date=2017-09-09
+URL=https://openload.co/f/PFLvGMIC15I/What_Every_Frenchwoman_Wants_1987_%5BMovie-dd.com%5D
+
+type=video
+name=Stripper Academy 2007
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/Stripper-Academy-2007.jpg
+date=2017-09-09
+URL=https://openload.co/f/Y1cR8JXsHQw/Stripper_Academy_2007_DVDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Angel 4 – Undercover 1994
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/Angel-4-Undercover-1994.jpg
+date=2017-09-09
+URL=https://openload.co/f/x9lfBMroQXo/Angel_4_Undercover_1994_DVDRip_%5BMovie-dd.com%5D
+
+type=video
+name=Vampyres 2015
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/Vampyres-2015.jpg
+date=2017-09-09
+URL=https://openload.co/f/-IAvnra6qhI/Vampyres.2015.720p.BluRay_%5BMovie-dd.com%5D
+
+type=video
+name=Love And Fury 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/Love-And-Fury-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/Edq2k0C7Hx8/furylovesd_BDRip_2016_%5BMovie-dd.com%5D
+
+type=video
+name=Identification of a Woman 1982
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B5-Korean-Rate-R-Movie-Identification-of-a-Woman-1982.jpg
+date=2017-09-09
+URL=https://openload.co/f/uNO3VpzGuOo/Identification_of_a_Woman_1982_DVDRip
+
+type=video
+name=Megan Escort Deluxe 2017
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/Megan-Escort-Deluxe-2017.jpg
+date=2017-09-09
+URL=https://openload.co/f/puTuuNMGJCM/Megan_Escort_Deluxe_2017_1080p_DVDRip
+
+type=video
+name=My Mother Prefers Young Men 2017
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/My-Mother-Prefers-Young-Men-2017.jpg
+date=2017-09-09
+URL=https://openload.co/f/EwejCI8fs84/My_Mother_Prefers_Young_Men_2017_4K_UHDRip
+
+type=video
+name=MILF Pact 2017
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/MILF-Pact-2017.jpg
+date=2017-09-09
+URL=https://openload.co/f/41CfxJecz_4/MILF_Pact_2017_1080p_DVDRip
+
+type=video
+name=Lick It Good 2 2017
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/Lick-It-Good-2-2017.jpg
+date=2017-09-09
+URL=https://openload.co/f/_rJP03cbtzs/Lick_It_Good_2_2017_1080p_DVDRip
+
+type=video
+name=Secret Lesbian Diaries 4 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/Secret-Lesbian-Diaries-4-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/1jROE_Dbqes/Secret_Lesbian_Diaries_4_2016_1080p_DVDRip
+
+type=video
+name=A Gonzo Story – Family Matters 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/A-Gonzo-Story-Family-Matters-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/Ez8CpwcAu9M/A_Gonzo_Story_Family_Matters_2016_1080p_DVDRip
+
+type=video
+name=Fuck Me 3 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/Fuck-Me-3-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/fSAW6Nca8uk/Fuck_Me_3_2016_1080p_DVDRip
+
+type=video
+name=Please Cum Inside Me 2 2017
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/Please-Cum-Inside-Me-2-2017.jpg
+date=2017-09-09
+URL=https://openload.co/f/QkaJUfJzPUw/Please_Cum_Inside_Me_2_2017_1080p_DVDRip
+
+type=video
+name=Natural Seduction 2017
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/Natural-Seduction-2017.jpg
+date=2017-09-09
+URL=https://openload.co/f/DuSEyNsYBEU/Natural_Seduction_2017_1080p_DVDRip
+
+type=video
+name=Sexology 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87-Erotic-Rate-R-Movie-20-Sexology-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/lkjhpusM8NQ/Sexology.2016.720p_%5BMovie-dd.com%5D
+
+type=video
+name=Wild One 2014
+thumb=http://erotic24hr.com/wp-content/uploads/2017/02/Wild-One-2014.jpg
+date=2017-09-09
+URL=https://openload.co/f/Cs-U7zZ5mXc/Wild_One_2014_1080p_DVDRip
+
+
+
+
+
+
+
+type=video
+name=99xxxxxxxxxxxxxxxxxxxxCurve Appeal 2017
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Curve-Appeal-2017.jpg
+date=2017-09-09
+URL=https://openload.co/f/jfE3tyi-8Ic/Curve_Appeal_2017_1080p_DVDRip
+
+type=video
+name=Blood Scarab 2008
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Blood-Scarab-2008.jpg
+date=2017-09-09
+URL=https://openload.co/f/m2uy7XOsUkI/Erotic_Blood.Scarab.2008.DVDRip
+
+type=video
+name=Little Boy Blue 1998
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Little-Boy-Blue-1998.jpg
+date=2017-09-09
+URL=https://openload.co/f/22dp5_o_u50/Erotic_Little.Boy.Blue.1997.DVDRip
+
+type=video
+name=Elder Sister’s Diary 1984
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Elder-Sister%E2%80%99s-Diary-1984.jpg
+date=2017-09-09
+URL=https://openload.co/f/i8ZM-fG7cW8/Erotic_Elder.Sisters.Diary.1984.DVDRip
+
+type=video
+name=Daisy Diamond 2007
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Daisy-Diamond-2007.jpg
+date=2017-09-09
+URL=https://openload.co/f/plBBsvux6oI/Erotic_Daisy.Diamond.2007.HDRip
+
+type=video
+name=Eros 2004
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Eros-2004.jpg
+date=2017-09-09
+URL=https://openload.co/f/4qQidAT2Hgo/Erotic_Eros.2004.DVDRip
+
+type=video
+name=Fotos 1996
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Fotos-1996.jpg
+date=2017-09-09
+URL=https://openload.co/f/VDm7xsI6t4c/Erotic_FOTOS.1996.DVDRip
+
+type=video
+name=Death Race 2050 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Death-Race-2050-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/OiqTCrIWMg8/Erotic_Death.Race.2050.2017.DVDRip
+
+type=video
+name=Decadent Evil 2 2007
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Decadent-Evil-2-2007.jpg
+date=2017-09-09
+URL=https://openload.co/f/mabtUM8wLNk/Erotic_Decadent.Evil.2.2007.DVDRip
+
+type=video
+name=My Stepsister’s Secret 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/My-Stepsister%E2%80%99s-Secret-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/btAZGW3y6jo/My_Stepsister%27s_Secret_2016_1080p_DVDRip
+
+type=video
+name=Surprise Lesbian 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Surprise-Lesbian-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/L1S-xERHFM4/Surprise_Lesbian_2016_1080p_DVDRip
+
+type=video
+name=Lesbian Family Affair Vol. 2 2015
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Lesbian-Family-Affair-Vol.-2-2015.jpg
+date=2017-09-09
+URL=https://openload.co/f/gEuZ3AE9L_c/Lesbian_Family_Affair_Vol._2_2015_1080p_DVDRip
+
+type=video
+name=40 Years Old, My New Vicious Life 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/40-Years-Old-My-New-Vicious-Life-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/lHPlh9eawcg/40_Years_Old%2C_My_New_Vicious_Life_2016_1080p_DVDRip_French
+
+type=video
+name=The Sexual Desires Of Scarlet Red 2017
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/The-Sexual-Desires-Of-Scarlet-Red-2017.jpg
+date=2017-09-09
+URL=https://openload.co/f/Y1NVbIEvCIQ/The_Sexual_Desires_Of_Scarlet_Red_2017_1080p_DVDRip
+
+type=video
+name=From The First Moment 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/From-The-First-Moment-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/KDP0bChxG8o/From_The_First_Moment_2016_1080p_DVDRip
+
+type=video
+name=Sheer Pleasure 2017
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Sheer-Pleasure-2017.jpg
+date=2017-09-09
+URL=https://openload.co/f/ekTWVNJHn5s/Sheer_Pleasure_2017_1080p_DVDRip
+
+type=video
+name=Suntan 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Suntan-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/U3gG-xf18V8/Erotic_Suntan_2016
+
+type=video
+name=TS Babysitters 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/TS-Babysitters-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/j7wWsI4_WaU/TS_Babysitters_2016_1080p_DVDRip
+
+type=video
+name=Young & Beautiful 2 2017
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Young-Beautiful-2-2017.jpg
+date=2017-09-09
+URL=https://openload.co/f/7Ye5CvA5eFA/Young_%26_Beautiful_2_2017_1080p_DVDRip
+
+type=video
+name=Meditative Milking 2017
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Meditative-Milking-2017.jpg
+date=2017-09-09
+URL=https://openload.co/f/TCwV5cg1FGI/Meditative_Milking_2017_1080p_DVDRip
+
+type=video
+name=Daring Confessions 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Daring-Confessions-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/NZhvupAix_Y/Daring_Confessions_2016_1080p_DVDRip
+
+type=video
+name=United States of Love 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/United-States-of-Love-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/w7sTFBnN4LA/Erotic_United_States_of_Love_2016
+
+type=video
+name=Die goldene Banane von Bad Porno 1971
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Die-goldene-Banane-von-Bad-Porno-1971.jpg
+date=2017-09-09
+URL=https://openload.co/f/NP5MXg_o1bg/Die_goldene_Banane_von_Bad_Porno_1971
+
+type=video
+name=Successive Slidings of Pleasure 1974
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Successive-Slidings-of-Pleasure-1974.jpg
+date=2017-09-09
+URL=https://openload.co/f/ZEEjDy0lC68/Successive_Slidings_of_Pleasure_1974
+
+type=video
+name=Mujeres salvajes 1984
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Mujeres-salvajes-1984.jpg
+date=2017-09-09
+URL=https://openload.co/f/o5-DO76AomU/Mujeres_salvajes_1984
+
+type=video
+name=Luxure Wives To Share 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Luxure-Wives-To-Share-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/PWg123huQFg/Luxure_Wives_To_Share_2016
+
+type=video
+name=La bella gente 2009
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/La-bella-gente-2009.jpg
+date=2017-09-09
+URL=https://openload.co/f/aggVwdNP7Dg/Erotic_La_bella_gente_2009
+
+type=video
+name=Cuckold Lives 2016
+thumb=http://erotic24hr.com/wp-content/uploads/2017/01/Cuckold-Lives-2016.jpg
+date=2017-09-09
+URL=https://openload.co/f/-DCHBmj54x0/Cuckold_Lives_2016_1080p_DVDRip
+
+
+
+
+
+
+
 
 type=video
 name=71xxxxxxxxxxxxxxxxxxxxEmpress of the Evil Dead 2012

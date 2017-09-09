@@ -66,6 +66,126 @@ URL=
 
 
 
+type=video
+name=177xxxxxxxxxxxxxxxxxxxxDelivery Sexual Harassment (2016)
+thumb=https://2.bp.blogspot.com/-ZGC8_ax2UzM/Wagc6n3xYzI/AAAAAAAAK64/6EhhogOKmHAX1N-EHLNrF_Oo6fDlvQTfwCLcBGAs/s1600/1ssssss.jpg
+date=2017-09-09
+URL=https://openload.co/f/GwnL7E8lOHQ/Delivery_Sexual_Harassment_2016_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=sweet woman senior (2017)
+thumb=https://1.bp.blogspot.com/-0qL9zJj1LBk/Wagc6d9fO2I/AAAAAAAAK60/l5kSUZSBRykG4bOem-g6nwUhzQtFHc0UACLcBGAs/s1600/1sssss.jpg
+date=2017-09-09
+URL=https://openload.co/f/UvD0DYaGpsA/sweet_woman_senior_2017_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Young Sister-in-law: Unbearable Taste (2017)
+thumb=https://3.bp.blogspot.com/-Evit1FB6ngc/Wagc5wn1g4I/AAAAAAAAK6w/0BAieVcFsp0BqkWSUiD9grngYScib7n0gCLcBGAs/s1600/1ssss.jpg
+date=2017-09-09
+URL=https://openload.co/f/DLKeAszPf0E/Young_Sister-in-law%3A_Unbearable_Taste_2017_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=YANKEE IDOL (2012)
+thumb=https://1.bp.blogspot.com/-oAMXfADs1DY/Wagc5e2iNPI/AAAAAAAAK6s/yhp4BqmZMjQDdbFQTSIoSQNNu758mZCaACLcBGAs/s1600/1sss.jpg
+date=2017-09-09
+URL=https://openload.co/f/9o7myMQhTpY/YANKEE_IDOL_2012_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Demonic couple (2016)
+thumb=https://4.bp.blogspot.com/-_hhiLVxB7D0/Wagc4ouNYrI/AAAAAAAAK6o/LbTIeQ2o3EA8rUPeCUnB7Uh4xmhoceeYACLcBGAs/s1600/1ss.jpg
+date=2017-09-09
+URL=https://openload.co/f/CJqgftO_Fjo/Demonic_couple_who_makes_their_wives_take_to_sleep2_2016_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Apartment Wives (2015)
+thumb=https://3.bp.blogspot.com/-CcrwznGGp4E/Wagc4coU7WI/AAAAAAAAK6k/VZ8-67PYgUUamt1xi306BMdr5wmFwRaogCLcBGAs/s1600/1s.jpg
+date=2017-09-09
+URL=https://openload.co/f/MaUIAkDw9_4/Apartment_Wives_2015_UNCUT_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Female Directors Serial Murder
+thumb=https://4.bp.blogspot.com/-XLwlzwfzRmQ/Wagc8wAIx9I/AAAAAAAAK68/rMKZaGNk4ZglKzODVMSpY6IzGhyA04N7QCLcBGAs/s1600/1.jpg
+date=2017-09-09
+URL=https://openload.co/f/IbT40GZjBg0/Female.Directors.Serial.Murder.2016.720p.WEBRip.Layar-21.com.mp4
+
+type=video
+name=La monaca del peccato (1986)
+thumb=https://1.bp.blogspot.com/-hmQdzRv_RrY/WabBTHb-OeI/AAAAAAAAK6Q/cp2DDb6Btl440I9CemMHadzcxWmyD3xvACLcBGAs/s1600/4SSS.jpg
+date=2017-09-09
+URL=https://openload.co/f/5Wh2L7VGZas/Convent_of_Sinners-CG.mkv.mp4
+
+type=video
+name=Classic XXX – Bocca bianca bocca nera (1987)
+thumb=https://1.bp.blogspot.com/-2sFEwIUWvRw/WabBSXS3YeI/AAAAAAAAK6E/b1YR1WQ0zE4Jn2WEjRf1WU_SAtvEEIf2wCLcBGAs/s1600/4SS.jpg
+date=2017-09-09
+URL=https://openload.co/f/sbiHkAnujBo/Classic_XXX_-_Bocca_bianca_bocca_nera_%281987%29_-_Ajita_Wilson_%28anal%21%21%29%2C_Marina_Frajese%2C_.avi.mp4
+
+type=video
+name=Dinner for Two (2000)
+thumb=https://1.bp.blogspot.com/-damPn8HyV-I/WabBSrJcinI/AAAAAAAAK6I/BNGfNoKMoo4BatPcZeWTmrUWr_npZeUXQCLcBGAs/s1600/4S.jpg
+date=2017-09-09
+URL=https://openload.co/f/BftJsx74VLg/Dinner_for_2.mp4
+
+type=video
+name=Aklin neredeydi (1978)
+thumb=https://4.bp.blogspot.com/-a5Zlbav-9XA/WabBS8eQd4I/AAAAAAAAK6M/Y_zSTsbsMUEeoDPljM8HG6WSV_EjLtONACLcBGAs/s1600/4.jpg
+date=2017-09-09
+URL=https://openload.co/f/d1k_Ruy6j-Q/Aklin_neredeydi_%281978%29.avi.mp4
+
+type=video
+name=Confidential Ward Area 99 (2015)
+thumb=https://1.bp.blogspot.com/-H4nLHAmptUI/Waa-zm61VaI/AAAAAAAAK5w/m348DOUre1oI4fRH0Xg_Jhcv8S6iZn5SACLcBGAs/s1600/3SSS.jpg
+date=2017-09-09
+URL=https://openload.co/f/fpJgq1SThEQ/Confidential_Ward_Area_99_2015_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Big tits wife seduces the teacher who came to visit home (2016)
+thumb=https://4.bp.blogspot.com/-3p57ILLQ2qs/Waa-0tqm9JI/AAAAAAAAK54/Aw20UlYBbiYKtH4uHBVP8AIz0Do1SHMMwCLcBGAs/s1600/3%25E0%25B8%25AB.jpg
+date=2017-09-09
+URL=https://openload.co/f/rVumEMhmKaE/Big_tits_wife_seduces_the_teacher_who_came_to_visit_home_2016_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=E Wife At Summer Resort (2009)
+thumb=https://3.bp.blogspot.com/-c4tqU5t3ja4/Waa-zox4kmI/AAAAAAAAK5s/v33fsFgjX6Um-as-3qCUaNVJaCZEC0b7ACLcBGAs/s1600/3.jpg
+date=2017-09-09
+URL=https://openload.co/f/v35e5UG1I0Y/E_Wife_At_Summer_Resort_2009_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=A unfaithful relation (2015)
+thumb=https://1.bp.blogspot.com/-KGF7NzcJuBM/Waa5Xjxch_I/AAAAAAAAK5U/4aSqDu5_5A4da7GzuifvHB1Kb7PWYdajACLcBGAs/s1600/1ss.jpg
+date=2017-09-09
+URL=https://openload.co/f/N5r9O_BWvwk/A_unfaithful_relation_2015_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Company swapping The president and the staff (2017)
+thumb=https://3.bp.blogspot.com/-KLG7VXvVoUU/Waa5WWQwgZI/AAAAAAAAK5M/CYFVMiCgCVsSg9gNSnC731UVLjA_ah70QCLcBGAs/s1600/1.jpg
+date=2017-09-09
+URL=https://openload.co/f/V93gTqsURoY/Company_swapping_The_president_and_the_staff_2017_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=I think I’ll teach you (2017)
+thumb=https://3.bp.blogspot.com/-RhMhkPYpZzA/WaQplDbiXSI/AAAAAAAAK2w/cnYsoWkqKQcVipowZts-dnLKfj2Pd_rXACLcBGAs/s1600/3.jpg
+date=2017-09-09
+URL=https://openload.co/f/KJfK0kCxJ10/%EC%97%B0%EC%83%81%EB%85%80%EB%93%A4-%EB%82%B4%EA%B0%80_%EA%B0%80%EB%A5%B4%EC%B3%90_%EC%A4%84%EA%B2%8C_%282017%29_%EC%98%81%ED%99%94_%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0.mp4
+
+type=video
+name=Symphony of the Sensual Wife Karuizawa (1996)
+thumb=https://4.bp.blogspot.com/-VdPJ7swZ-EE/WaQl8QQCZ2I/AAAAAAAAK2M/jIgqVzv8d7cUPyVGWcuWQJA7M17G7T06gCLcBGAs/s1600/1%25E0%25B8%2586%25E0%25B8%2586%25E0%25B8%2586.jpg
+date=2017-09-09
+URL=https://openload.co/f/1yrlVWpEcKU/Symphony.of.the.Sensual.Wife.Karuizawa.1996.DVDRip.Layar-21.com.mp4
+
+type=video
+name=my wifes friend A day away from home (2017)
+thumb=https://3.bp.blogspot.com/-VMMUMJTB_vg/WaQl7XxkeQI/AAAAAAAAK2E/FN5fcWa-x4Qbz-pgNcEZsIFj0QLtre8bwCLcBGAs/s1600/1%25E0%25B8%2586.jpg
+date=2017-09-09
+URL=https://openload.co/f/02WZpy4NlZk/my_wifes_friend_A_day_away_from_home_2017_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Shock! A Perverted Couple (2015)
+thumb=https://4.bp.blogspot.com/-eTq7FsER9QY/WaQl7B782-I/AAAAAAAAK2A/zJrCob2fAaAVlH9tsiLjZwo8krVP-JSfgCLcBGAs/s1600/1.jpg
+date=2017-09-09
+URL=https://openload.co/f/wDmmCna3maY/Shock%21_A_Perverted_Couple_2015_HDRip_%5BLayar-21.com%5D.mp4
+
 
 
 
