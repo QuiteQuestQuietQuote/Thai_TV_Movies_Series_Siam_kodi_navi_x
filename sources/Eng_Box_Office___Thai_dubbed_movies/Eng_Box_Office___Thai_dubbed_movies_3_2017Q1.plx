@@ -33,7 +33,7 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
-URL=
+URL=https://storage.googleapis.com/mlk-s/slkQ1poA4kd/LegoDCSuperHeroGirlsBrainDrain1080.MP4
 
 
 
@@ -42,7 +42,7 @@ type=video
 name=
 thumb=
 date=2017-09-10
-URL=https://storage.googleapis.com/mlk-s/slkQ1poA4kd/LegoDCSuperHeroGirlsBrainDrain1080.MP4
+URL=https://openload.co/f/Cbj2Lcm-6_M/IT.HDCAM.2017.x264.AAC.mkv
 
 
 
