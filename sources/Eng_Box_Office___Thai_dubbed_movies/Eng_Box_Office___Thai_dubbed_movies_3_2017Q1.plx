@@ -42,7 +42,7 @@ type=video
 name=
 thumb=
 date=2017-09-10
-URL=
+URL=https://drive.google.com/uc?id=0Bxl9sx--P08zcWxLekd5UjBjRXc&export=download
 
 
 
