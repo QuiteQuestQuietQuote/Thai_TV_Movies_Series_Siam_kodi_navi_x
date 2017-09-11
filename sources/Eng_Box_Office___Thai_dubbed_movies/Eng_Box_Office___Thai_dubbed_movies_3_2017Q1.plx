@@ -23,7 +23,7 @@ rating=-1.00
 type=video
 name=
 thumb=
-URL=
+URL=https://streaming.lemonstream.me:1443/afaa64260297be2d01948c1357325ff31505164768/127.0.0.1/playlist.m3u8?ggdomain=eHh4&ggvideo=eHh4&cookie=eHh4&link=LzU4L2ZlLzU4ZmU4MWU4ZDllZmQ3OGRhNjI1YzBhOWQ5MzQyY2NjLTcyMC5tcDQ=
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -42,7 +42,7 @@ type=video
 name=
 thumb=
 date=2017-09-10
-URL=https://drive.google.com/uc?id=0Bxl9sx--P08zcWxLekd5UjBjRXc&export=download
+URL=https://storage.googleapis.com/mlk-s/stk9opq21klm/The%20Awakening%20%E0%B8%94%E0%B8%B4%20%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%84%E0%B9%80%E0%B8%84%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B9%88%E0%B8%87%20%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%9C%E0%B8%B1%E0%B8%AA%E0%B8%9C%E0%B8%B51080.MP4
 
 
 
@@ -332,7 +332,7 @@ type=video
 name=
 thumb=
 date=2017-09-11
-URL=
+URL=http://entervideo.net/watch/b9df999b8cb7aed
 
 
 
