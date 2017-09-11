@@ -42,7 +42,7 @@ type=video
 name=
 thumb=
 date=2017-09-10
-URL=https://openload.co/f/Cbj2Lcm-6_M/IT.HDCAM.2017.x264.AAC.mkv
+URL=
 
 
 
@@ -52,10 +52,10 @@ URL=https://openload.co/f/Cbj2Lcm-6_M/IT.HDCAM.2017.x264.AAC.mkv
 
 
 type=video
-name=It (2017) ENG HDTS
+name=It (2017) ENG HD_TS_XviD_Clean_English_Audio_AAC_New_Source
 thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
-date=2017-09-10
-URL=https://openload.co/f/FApjoQsHmSY/It_2017_HDTS_%5BLayar-21.com%5D.mp4
+date=2017-09-11
+URL=https://openload.co/f/s2k-ZbJSWUg/IT_2017_Movies_HD_TS_XviD_Clean_English_Audio_AAC_New_Source_%E2%98%BBrDX%E2%98%BB.mkv.mp4
 
 type=video
 name=Tulip Fever (2017) RUS
@@ -331,12 +331,19 @@ URL=https://streamango.com/f/crkpcatklcmelbtb/Free_State_of_Jones_2016
 type=video
 name=
 thumb=
-date=2017-09-09
+date=2017-09-11
 URL=
 
 
 
 
+
+
+type=video
+name=Complete Unknown (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/lXGEhxX7PYtZOTkQfZhjEM0HkKZ.jpg
+date=2017-09-11
+URL=https://openload.co/f/t0sqZBoEA3M/Complete.Unknown.2016.LiMiTED.1080p.BluRay.x264-SiNNERS.mkv.mp4
 
 type=video
 name=The Ghoul (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1067,10 +1074,10 @@ URL=https://openload.co/f/85Q3rG95g_k/Transformers%3A_The_Last_Knight_%282017%29
 
 
 type=video
-name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) ENG WEB-DL.H264.AC3
+name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
-date=2017-09-05
-URL=https://openload.co/f/S9nTf365RTM/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.1080p.WEB-DL.H264.AC3.mp4
+date=2017-09-11
+URL=https://openload.co/f/TrMVB_NrTKQ/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 type=video
 name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
@@ -1285,10 +1292,10 @@ URL=https://openload.co/f/zV7D4cRfpRw/%7BMINI_Super-HQ%7D_Snatched.2017.1080p.Br
 
 
 type=video
-name=Starship Troopers: Traitor of Mars (2017) ENG WEB-DL.H264.AC3-EVO
+name=Starship Troopers: Traitor of Mars (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg
-date=2017-08-22
-URL=https://openload.co/f/f-c5hqi-Nec/Starship_Troopers_Traitor_of_Mars.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2017-09-11
+URL=https://openload.co/f/dN9rE6ajxL4/Starship.Troopers.Traitor.of.Mars.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 type=video
 name=Starship Troopers: Traitor of Mars (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg
