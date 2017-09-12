@@ -221,7 +221,7 @@ rating=-1.00
 type=video
 name=movie3
 thumb=http://www.thaiptv.com/img/movie3logo.png
-URL=rtmp://tv01.thaizatv.com/drm/movie3.stream
+URL=http://cdn-usa1-streaming.ani-box.com:1935/live/cs10.stream/playlist.m3u8
 player=default
 rating=-1.00
 

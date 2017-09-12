@@ -28,9 +28,9 @@ player=default
 rating=-1.00
 
 type=video
-name=movie3
+name=Star Channel 3
 thumb=http://www.thaiptv.com/img/movie3logo.png
-URL=xxxrtmp://tv01.thaizatv.com/drm/movie3.stream
+URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
 player=default
 rating=-1.00
 
@@ -48,17 +48,17 @@ type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=
+URL=http://cdn-usa1-streaming.ani-box.com:1935/live/cs10.stream/playlist.m3u8
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=
+URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs10.stream/playlist.m3u8
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=
+URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs11.stream/playlist.m3u8
 
 
 
@@ -163,17 +163,17 @@ type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=
+URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=
+URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=
+URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
 
 
 type=video
