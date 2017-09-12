@@ -88,6 +88,7 @@ date=2017-09-01
 URL=https://openload.co/f/Y8BolCrhh4U/The.Layover.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 
+
 type=video
 name=The Good Catholic (2017) ENG WEB-DL.XviD.AC3-FGT
 thumb=https://image.tmdb.org/t/p/w640/iPvggWYCZblEG2ldObR6GHmkEjz.jpg
@@ -209,18 +210,22 @@ URL=https://openload.co/f/2gSdAWN-WgE/G.T.2017.NEW.HD-TS.x264-CPG.mkv.mp4
 
 
 type=video
-name=Baby Driver (2017) ENG updated4 HD
-thumb=https://image.tmdb.org/t/p/w640/mBkOBaxjr7IBHGuQS3sSFeyYTM.jpg
-date=2017-07-20
-URL=https://openload.co/f/qbtGrAkyjDE/Baby_Driver_2017_720p_HDCAM_x264_CMovie.co..mp4
-
-
+name=Anti Matter (2016) ENG WEB-DL_AAC2.0_H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/62oRA7ghxL9HGFHe5Dd9IVljyKi.jpg
+date=2017-09-12
+URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
 type=video
-name=The House (2017) ENG HDTS.x264-NG
+name=Baby Driver (2017) WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/mBkOBaxjr7IBHGuQS3sSFeyYTM.jpg
+date=2017-09-12
+URL=https://openload.co/f/p4jKkDEmYkI/Baby.Driver.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
+type=video
+name=The House (2017) ENG WEB-DL_DD5.1_H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/hkmWkVgirei79bwds23Hr0lWSXS.jpg
-date=2017-08-21
-URL=https://openload.co/f/qvBJ124kiL8/The.House.2017.HDTS.x264-NG.mkv.mp4
+date=2017-09-12
+URL=https://openload.co/f/Ka9fxqpoh4M/The_House_2017_1080p_WEB-DL_DD5.1_H264-FGT.mp4
 
 
 
@@ -626,10 +631,10 @@ URL=https://streamango.com/f/nrsapasnbqdsqcom/Annabelle2_MP4_mp4
 
 
 type=video
-name=The Dark Tower (2017) ENG TS_x264_AC3_TiTAN
+name=The Dark Tower (2017) ENG TS_NEW_SOURCE_XViD-26k
 thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
-date=2017-08-16
-URL=https://openload.co/f/zw_6PplnxRA/The_Dark_Tower_2017_720p_TS_x264_AC3_TiTAN.mkv.mp4
+date=2017-09-12
+URL=https://openload.co/f/tSrUV89au1Y/The_Dark_Tower_2017_TS_NEW_SOURCE_XViD-26k.mp4
 type=video
 name=The Dark Tower (2017) TH TS
 thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
@@ -747,11 +752,7 @@ thumb=https://image.tmdb.org/t/p/w640/f6GuwIVkNZYFkt7kiHSJRPiXAAA.jpg
 date=2017-07-26
 URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97_%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3.mp4
 
-type=video
-name=47 Meters Down (2017) TH CAM updated
-thumb=https://image.tmdb.org/t/p/w640/HmALxBQK8SKpOEOmqyFxOavIPR.jpg
-date=2017-07-22
-URL=https://openload.co/f/3t8bEoey3-Q/47_Meters_Down_%282017%29_TH.mkv.mp4
+
 
 
 
@@ -985,12 +986,22 @@ thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
 date=2017-09-03
 URL=https://openload.co/f/F2OrZJXph3c/%7BMINI_Super-HQ%7D_The.Hitmans.Bodyguard.2017.1080p.WEB-DL.ThaiRong.5.1.x264_CpT%40CtHts.mkv.mp4
 
+type=video
+name=47 Meters Down (2017) ENG WEB-DL_H264_AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/HmALxBQK8SKpOEOmqyFxOavIPR.jpg
+date=2017-09-12
+URL=https://openload.co/f/ESaA471oQHU/47_Meters_Down_2017_1080p_WEB-DL_H264_AC3-EVO.mp4
+type=video
+name=47 Meters Down (2017) TH CAM 
+thumb=https://image.tmdb.org/t/p/w640/HmALxBQK8SKpOEOmqyFxOavIPR.jpg
+date=2017-07-22
+URL=https://openload.co/f/3t8bEoey3-Q/47_Meters_Down_%282017%29_TH.mkv.mp4
 
 type=video
-name=Despicable Me 3 (2017) ENG HDRip_X264_AC3-EVO
+name=Despicable Me 3 (2017) ENG WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
-date=2017-08-31
-URL=https://openload.co/f/BOwSf5h9AQw/Despicable_Me_3_2017_1080p_HDRip_X264_AC3-EVO.avi.mp4
+date=2017-09-12
+URL=https://openload.co/f/XPIrkE5V7Nw/Despicable.Me.3.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 type=video
 name=Despicable Me 3 (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
@@ -1062,10 +1073,10 @@ URL=https://openload.co/f/GbUe5fZac2o/Kidnap_%282017%29_%E0%B8%A5%E0%B9%88%E0%B8
 
 
 type=video
-name=Transformers: The Last Knight (2017) ENG HDRip.X264.AC3-EVO
+name=Transformers: The Last Knight (2017) ENG WEB-DL_DD5.1_H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
-date=2017-09-06
-URL=https://openload.co/f/wCYbqM6lDV0/Transformers_The_Last_Knight.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+date=2017-09-12
+URL=https://openload.co/f/KIsdX2KgutE/Transformers_The_Last_Knight_2017_1080p_WEB-DL_DD5.1_H264-FGT.mp4
 type=video
 name=Transformers: The Last Knight (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg

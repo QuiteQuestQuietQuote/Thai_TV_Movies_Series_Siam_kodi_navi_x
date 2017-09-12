@@ -23,7 +23,7 @@ rating=-1.00
 type=video
 name=
 thumb=
-URL=
+URL=http://109-kh.sakkarinsai8.com:443/free53/0x222_ais_hbohdth_720p/playlist.m3u8
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
