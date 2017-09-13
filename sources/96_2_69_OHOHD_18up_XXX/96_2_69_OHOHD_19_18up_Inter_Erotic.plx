@@ -41,6 +41,13 @@ URL=
 
 
 
+
+type=video
+name=Smartass (2017)
+thumb=https://image.tmdb.org/t/p/w640/wCeXh08ioJ7gcjHKl5BhktPsm0T.jpg
+date=2017-09-13
+URL=https://openload.co/f/gngj8NsmflY/Smartass.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 type=video
 name=Dirty Beautiful (2015)
 thumb=https://image.tmdb.org/t/p/w640/iBOOsrMZJ9fZ3REi4ontbp8giGO.jpg
