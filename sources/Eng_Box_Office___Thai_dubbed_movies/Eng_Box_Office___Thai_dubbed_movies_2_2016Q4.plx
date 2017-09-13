@@ -44,9 +44,10 @@ URL=
 
 # 2772902
 type=video
-name=Gold (2016) ENG updated
+name=Gold (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/d6AipVF4SDYqxGeivfs3yzsNUs7.jpg
-URL=https://openload.co/f/RcmGbxgNWGs/G-d.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
+date=2017-09-13
+URL=https://openload.co/f/-_gr9bZ8KEs/Gold_2016_1080p_BluRay_x264-%5BYTS_AG%5D_.mp4
 player=default
 rating=-1.00
 description=Kenny Wells, a modern-day prospector, hustler, and dreamer, is desperate for a lucky break. Left with few options, Wells teams up with an equally luckless geologist to execute a grandiose, last-ditch effort: to find gold deep in the uncharted jungle of Indonesia./description
@@ -64,7 +65,7 @@ description=Though Kevin has evidenced 23 personalities to his trusted psychiatr
 
 # 2765698
 type=video
-name=Nocturnal Animals (E)
+name=Nocturnal Animals (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/9Moizj8qxcZK6DqEE1MTO3pQAEw.jpg
 URL=https://openload.co/f/FvLKgIJYnFc/%7BMINI_Super-HQ%7D_Nocturnal.Animals.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 player=default
