@@ -28,9 +28,9 @@ player=default
 rating=-1.00
 
 type=video
-name=Star Channel 3
+name=movie3
 thumb=http://www.thaiptv.com/img/movie3logo.png
-URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
+URL=http://27.131.166.195:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 player=default
 rating=-1.00
 
@@ -209,7 +209,7 @@ type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=
+URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=

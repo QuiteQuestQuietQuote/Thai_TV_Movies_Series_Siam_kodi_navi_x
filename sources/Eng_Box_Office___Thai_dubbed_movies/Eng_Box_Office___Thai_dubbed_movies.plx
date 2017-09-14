@@ -50,6 +50,12 @@ name=movie1
 thumb=http://www.thaiptv.com/img/movie1logo.png
 URL=rtmp://tv01.thaizatv.com/drm/movie1
 
+type=video
+name=movie3
+thumb=http://www.thaiptv.com/img/movie3logo.png
+URL=http://27.131.166.195:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+player=default
+rating=-1.00
 
 
 type=video
