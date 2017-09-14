@@ -23,7 +23,7 @@ rating=-1.00
 type=video
 name=
 thumb=
-URL=
+URL=https://streaming.lemonstream.me:1443/f55b64c3276fdbfa62d095d18de536101505431650/127.0.0.1?ggdomain=cjYtLS1zbi1wNXFzN243ZC5jLmRyaXZlLmdvb2dsZS5jb20=&ggvideo=aWQ9M2RiY2Y0ZmExMzA0ZDk3ZSZpdGFnPTIyJnNvdXJjZT13ZWJkcml2ZSZyZXF1aXJlc3NsPXllcyZtbT0zMCZtbj1zbi1wNXFzN243ZCZtcz1ueHUmbXY9dSZwbD0yNCZzYz15ZXMmdHRsPXRyYW5zaWVudCZlaT1WNjI2V2VlWUZZenJxZ1dMaDZfZ0JnJmRyaXZlaWQ9MEJ3WUc3Nk9nLW5jZlFtRkJTbnA1Y3pSTFoycyZhcHA9dGV4bWV4Jm1pbWU9dmlkZW8vbXA0JmxtdD0xNTAyNTIxNTk0MzE0NTI3Jm10PTE1MDU0MDU4MDAmaXA9NzcuODEuMTIwLjE3OCZpcGJpdHM9MCZleHBpcmU9MTUwNTQyMDY5NSZjcD1RVk5GVjBWZlQxWlhSbGhPT25weFlYa3dRbGRpYWpOVyZzcGFyYW1zPWlwJTJDaXBiaXRzJTJDZXhwaXJlJTJDaWQlMkNpdGFnJTJDc291cmNlJTJDcmVxdWlyZXNzbCUyQ21tJTJDbW4lMkNtcyUyQ212JTJDcGwlMkNzYyUyQ3R0bCUyQ2VpJTJDZHJpdmVpZCUyQ2FwcCUyQ21pbWUlMkNsbXQlMkNjcCZzaWduYXR1cmU9MzNBN0IzNUZERDVCRjkwNjg5RUVCQ0NFRDE5RjhFNjAwODRGQjUyMC40ODM0Mjk1NjFFNEExQjBFRUM1N0FEOEQzQzE2RTFDNkIxQ0E4MjU3JmtleT1jazI=&cookie=TklEPTExMj1vcGdQRzRaSDJJN3VMRm1qeE5rajJLbDdHV1N5dTBkNjJyVFlfcEFSRWZsMUdjSVlVaHdlci1yOUExdGFydTRGZXNtNnpUM0RXeG81VElEOS1RUjM3RzM1U3czdm82aXpDanNwU0VUeDYycjBod0NnMGx3UVlKRExzSmJfU2EtNzsgTklEPTExMj1ZMFA4YXRkQUlKQVYybzVjdXE1ZmtnSU9TSFJ1aG9sTlgzMklqWWg5S3QzVS1fX19JQmFYY3dDX2sydFUtN3BkdFZmc25mUWZROEN6RVZhWC1qLU9IaEdBYnBYYXQ1MVV0QWwzcVI1eC0tQVVkdEVvb1RMZUFVSkdJNFJHQTVfTzsgRFJJVkVfU1RSRUFNPXlxY2M2V1ZlaTVV&link=L2I5LzE0L2I5MTRmZmVhZDZlNWUwNGU3N2VlOWQ3MmVkNDI4MTNmLTcyMC5tcDQ=
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -87,7 +87,17 @@ thumb=https://image.tmdb.org/t/p/w640/kb9osnqanXRpkpm1bnSqAhKoq5T.jpg
 date=2017-09-01
 URL=https://openload.co/f/Y8BolCrhh4U/The.Layover.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 
+type=video
+name=Campus Caller (2017) ENG hdtv.h264-plutonium
+thumb=http://img.rlsbb.ru/images/ZBNmJA.jpg
+date=2017-09-14
+URL=https://openload.co/f/mqvlmaYXBME/campus.caller.2017.1080p.hdtv.h264-plutonium.mkv.mp4
 
+type=video
+name=AWOL (2017) ENG DVDRip.x264-RedBlade
+thumb=https://image.tmdb.org/t/p/w640/cK1DvOZWUVujRgRXPFYCP6XDUxS.jpg
+date=2017-09-14
+URL=https://openload.co/f/i3T0swVRHpc/AWOL.2016.DVDRip.x264-RedBlade.mkv.mp4
 
 type=video
 name=The Good Catholic (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -216,10 +226,10 @@ date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
 type=video
-name=Baby Driver (2017) WEB-DL.H264.AC3-EVO
+name=Baby Driver (2017) ENG WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/mBkOBaxjr7IBHGuQS3sSFeyYTM.jpg
-date=2017-09-12
-URL=https://openload.co/f/p4jKkDEmYkI/Baby.Driver.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2017-09-14
+URL=https://openload.co/f/lsrzz7yFQA4/Baby.Driver.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
 name=The House (2017) ENG WEB-DL_DD5.1_H264-FGT
@@ -337,12 +347,18 @@ type=video
 name=
 thumb=
 date=2017-09-11
-URL=http://entervideo.net/watch/b9df999b8cb7aed
+URL=
 
 
 
 
 
+
+type=video
+name=Churchill (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/eNrenOHZ51uuRT0twaXHCyhMH1R.jpg
+date=2017-09-11
+URL=https://openload.co/f/ZgIG2RoZRwI/Churchill.2017.1080p.BluRay.x264-YTS.PE.mp4
 
 type=video
 name=Complete Unknown (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -619,10 +635,10 @@ URL=https://openload.co/f/xFp17Utx9b8/%E0%B8%AD%E0%B8%B4%E0%B9%82%E0%B8%A1%E0%B8
 
 
 type=video
-name=Annabelle: Creation (2017) ENG HD-TS_x264-CPG
+name=Annabelle: Creation (2017) ENG KORSUB.HDRip.X264.AC3
 thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
-date=2017-08-31
-URL=https://openload.co/f/pylfal48kHA/Annabelle_Creation_2017_NEW_720p_HD-TS_x264-CPG.mp4
+date=2017-09-14
+URL=https://openload.co/f/iDnYPngNUR4/Annabelle.Creation.2017.1080p.KORSUB.HDRip.X264.AC3.Mp4
 type=video
 name=Annabelle: Creation (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
@@ -974,7 +990,7 @@ type=video
 name=
 thumb=
 date=
-URL=https://player.vimeo.com/video/229956580
+URL=https://3.bp.blogspot.com/hocHVmhuG6jYo8NcAP25hKJdUFB1MpYRlEi9s-d2gD5_4m49zjoSP4aUkZ7emGs4xT8SEDXTPw=m22
 
 
 
@@ -996,10 +1012,10 @@ date=2017-09-03
 URL=https://openload.co/f/F2OrZJXph3c/%7BMINI_Super-HQ%7D_The.Hitmans.Bodyguard.2017.1080p.WEB-DL.ThaiRong.5.1.x264_CpT%40CtHts.mkv.mp4
 
 type=video
-name=47 Meters Down (2017) ENG WEB-DL_H264_AC3-EVO
+name=47 Meters Down (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/HmALxBQK8SKpOEOmqyFxOavIPR.jpg
-date=2017-09-12
-URL=https://openload.co/f/ESaA471oQHU/47_Meters_Down_2017_1080p_WEB-DL_H264_AC3-EVO.mp4
+date=2017-09-14
+URL=https://openload.co/f/UnV7adyJF9c/47.Meters.Down.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
 type=video
 name=47 Meters Down (2017) TH CAM 
 thumb=https://image.tmdb.org/t/p/w640/HmALxBQK8SKpOEOmqyFxOavIPR.jpg
@@ -1082,10 +1098,10 @@ URL=https://openload.co/f/GbUe5fZac2o/Kidnap_%282017%29_%E0%B8%A5%E0%B9%88%E0%B8
 
 
 type=video
-name=Transformers: The Last Knight (2017) ENG WEB-DL_DD5.1_H264-FGT
+name=Transformers: The Last Knight (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
-date=2017-09-12
-URL=https://openload.co/f/KIsdX2KgutE/Transformers_The_Last_Knight_2017_1080p_WEB-DL_DD5.1_H264-FGT.mp4
+date=2017-09-14
+URL=https://openload.co/f/PGvZeqeLb5Q/Transformers_The_Last_Knight.2017.720p.BRRip.X264.AC3-EVO.mkv.mp4
 type=video
 name=Transformers: The Last Knight (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
@@ -1107,7 +1123,16 @@ player=default
 rating=-1.00
 
 
-
+type=video
+name=2:22 (2017) ENG BDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
+date=2017-07-14
+URL=https://openload.co/f/TTQg_mDWrGs/2.22.2017.BDRip.XviD.AC3-EVO.avi.mp4
+type=video
+name=2:22 (2017) CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
+date=2017-07-02
+URL=https://openload.co/f/ExI4z1WHPU8/2.22.2017.1080p.WEB-DL.DD5.1.H264.ThaIRonG-CpT.mkv.mp4
 
 
 type=video
@@ -1138,11 +1163,7 @@ date=2017-07-29
 URL=https://openload.co/f/a12f7DHdFHk/Revolt_%282017%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95.mp4
 
 
-type=video
-name=2:22 (2017) CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
-date=2017-07-02
-URL=https://openload.co/f/ExI4z1WHPU8/2.22.2017.1080p.WEB-DL.DD5.1.H264.ThaIRonG-CpT.mkv.mp4
+
 
 # 2772625
 type=video
@@ -1193,14 +1214,22 @@ description=After an alien ship crash lands onto a Russian city, many who have s
 type=video
 name=
 thumb=
-date=2017-09-07
-URL=
+date=2017-09-14
+URL=http://entervideo.net/watch/04667a6be352296
 
 
+type=video
+name=
+thumb=
+date=2017-09-14
+URL=https://3.bp.blogspot.com/PKQygLOUsIdIrd3mEDmWbMKCmWRo9cILtghIi6e6ifxkJDHA8AUuVON6EcdEh1fEIS8-bIzkdg=m18?s=ZArN0YdRXfZZ6NGJ
 
 
-
-
+type=video
+name=
+thumb=
+date=2017-09-14
+URL=https://8ep4e5.mycloud.to/1/jba5YGp7-U5T0my-bLaDdA/0/d/g/o/kw2804/hls/720/720.m3u8?e=1505430000
 
 
 type=video
