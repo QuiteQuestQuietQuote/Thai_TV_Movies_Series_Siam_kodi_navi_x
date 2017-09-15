@@ -57,6 +57,28 @@ URL=http://27.131.166.195:1935/live/_definst_/upmovie.stream/playlist.m3u8?usern
 player=default
 rating=-1.00
 
+type=video
+name=movie1
+thumb=http://www.thaiptv.com/img/movie1logo.png
+URL=http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+player=default
+rating=-1.00
+
+type=video
+name=movie2
+thumb=http://www.thaiptv.com/img/movie2logo.png
+URL=http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+player=default
+rating=-1.00
+
+type=video
+name=4Kmovie
+thumb=http://www.thaiptv.com/img/movie3logo.png
+URL=http://27.131.166.195:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+player=default
+rating=-1.00
+
+
 
 type=video
 name=HBO HD
