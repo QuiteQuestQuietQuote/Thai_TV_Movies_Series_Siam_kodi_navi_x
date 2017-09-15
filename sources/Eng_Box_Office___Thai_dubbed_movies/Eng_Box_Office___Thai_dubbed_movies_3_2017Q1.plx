@@ -23,7 +23,7 @@ rating=-1.00
 type=video
 name=
 thumb=
-URL=https://streaming.lemonstream.me:1443/f55b64c3276fdbfa62d095d18de536101505431650/127.0.0.1?ggdomain=cjYtLS1zbi1wNXFzN243ZC5jLmRyaXZlLmdvb2dsZS5jb20=&ggvideo=aWQ9M2RiY2Y0ZmExMzA0ZDk3ZSZpdGFnPTIyJnNvdXJjZT13ZWJkcml2ZSZyZXF1aXJlc3NsPXllcyZtbT0zMCZtbj1zbi1wNXFzN243ZCZtcz1ueHUmbXY9dSZwbD0yNCZzYz15ZXMmdHRsPXRyYW5zaWVudCZlaT1WNjI2V2VlWUZZenJxZ1dMaDZfZ0JnJmRyaXZlaWQ9MEJ3WUc3Nk9nLW5jZlFtRkJTbnA1Y3pSTFoycyZhcHA9dGV4bWV4Jm1pbWU9dmlkZW8vbXA0JmxtdD0xNTAyNTIxNTk0MzE0NTI3Jm10PTE1MDU0MDU4MDAmaXA9NzcuODEuMTIwLjE3OCZpcGJpdHM9MCZleHBpcmU9MTUwNTQyMDY5NSZjcD1RVk5GVjBWZlQxWlhSbGhPT25weFlYa3dRbGRpYWpOVyZzcGFyYW1zPWlwJTJDaXBiaXRzJTJDZXhwaXJlJTJDaWQlMkNpdGFnJTJDc291cmNlJTJDcmVxdWlyZXNzbCUyQ21tJTJDbW4lMkNtcyUyQ212JTJDcGwlMkNzYyUyQ3R0bCUyQ2VpJTJDZHJpdmVpZCUyQ2FwcCUyQ21pbWUlMkNsbXQlMkNjcCZzaWduYXR1cmU9MzNBN0IzNUZERDVCRjkwNjg5RUVCQ0NFRDE5RjhFNjAwODRGQjUyMC40ODM0Mjk1NjFFNEExQjBFRUM1N0FEOEQzQzE2RTFDNkIxQ0E4MjU3JmtleT1jazI=&cookie=TklEPTExMj1vcGdQRzRaSDJJN3VMRm1qeE5rajJLbDdHV1N5dTBkNjJyVFlfcEFSRWZsMUdjSVlVaHdlci1yOUExdGFydTRGZXNtNnpUM0RXeG81VElEOS1RUjM3RzM1U3czdm82aXpDanNwU0VUeDYycjBod0NnMGx3UVlKRExzSmJfU2EtNzsgTklEPTExMj1ZMFA4YXRkQUlKQVYybzVjdXE1ZmtnSU9TSFJ1aG9sTlgzMklqWWg5S3QzVS1fX19JQmFYY3dDX2sydFUtN3BkdFZmc25mUWZROEN6RVZhWC1qLU9IaEdBYnBYYXQ1MVV0QWwzcVI1eC0tQVVkdEVvb1RMZUFVSkdJNFJHQTVfTzsgRFJJVkVfU1RSRUFNPXlxY2M2V1ZlaTVV&link=L2I5LzE0L2I5MTRmZmVhZDZlNWUwNGU3N2VlOWQ3MmVkNDI4MTNmLTcyMC5tcDQ=
+URL=
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -52,10 +52,10 @@ URL=https://storage.googleapis.com/mlk-s/stk9opq21klm/The%20Awakening%20%E0%B8%9
 
 
 type=video
-name=It (2017) ENG HD_TS_XviD_Clean_English_Audio_AAC_New_Source
+name=It (2017) ENG TS_V2_x264_AC3_TiTAN
 thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
-date=2017-09-11
-URL=https://openload.co/f/s2k-ZbJSWUg/IT_2017_Movies_HD_TS_XviD_Clean_English_Audio_AAC_New_Source_%E2%98%BBrDX%E2%98%BB.mkv.mp4
+date=2017-09-15
+URL=https://openload.co/f/uM2c3AxnHfs/IT_2017_TS_V2_x264_AC3_TiTAN.mkv.mp4
 
 type=video
 name=Tulip Fever (2017) RUS
@@ -86,6 +86,12 @@ name=The Layover (2017) ENG WEB-DL.XviD.AC3-FGT
 thumb=https://image.tmdb.org/t/p/w640/kb9osnqanXRpkpm1bnSqAhKoq5T.jpg
 date=2017-09-01
 URL=https://openload.co/f/Y8BolCrhh4U/The.Layover.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=This Is Your Death (2017) ENG WEB-DL_H264_AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/bnWRHX8ZVqUTKj3YXL9B67DSven.jpg
+date=2017-09-15
+URL=https://openload.co/f/CYKxRx3bjic/This_Is_Your_Death_2017_720p_WEB-DL_H264_AC3-EVO.mp4
 
 type=video
 name=Campus Caller (2017) ENG hdtv.h264-plutonium
@@ -346,13 +352,20 @@ URL=https://streamango.com/f/crkpcatklcmelbtb/Free_State_of_Jones_2016
 type=video
 name=
 thumb=
-date=2017-09-11
+date=2017-09-15
 URL=
 
 
 
 
 
+
+
+type=video
+name=Certain Women (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/mjtDQ9yx0Atb8QxBGcfXNBu0EmX.jpg
+date=2017-09-15
+URL=https://openload.co/f/230otj4OY8E/Certain.Women.2016.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
 
 type=video
 name=Churchill (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -635,15 +648,15 @@ URL=https://openload.co/f/xFp17Utx9b8/%E0%B8%AD%E0%B8%B4%E0%B9%82%E0%B8%A1%E0%B8
 
 
 type=video
-name=Annabelle: Creation (2017) ENG KORSUB.HDRip.X264.AC3
+name=Annabelle: Creation (2017) ENG HC.HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
-date=2017-09-14
-URL=https://openload.co/f/iDnYPngNUR4/Annabelle.Creation.2017.1080p.KORSUB.HDRip.X264.AC3.Mp4
+date=2017-09-15
+URL=https://openload.co/f/wJM_-DpOfPw/Annabelle.Creation.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
-name=Annabelle: Creation (2017) TH CAM
+name=Annabelle: Creation (2017) TH HC HD
 thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
-date=2017-08-27
-URL=https://streamango.com/f/nrsapasnbqdsqcom/Annabelle2_MP4_mp4
+date=2017-09-15
+URL=https://storage.googleapis.com/newmovies/907338.MP4
 
 
 type=video
@@ -775,14 +788,7 @@ URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8
 
 
 
-# 2773691
-type=video
-name=Sword Art Online The Movie: Ordinal Scale (2017) CAM
-thumb=http://image.tmdb.org/t/p/w500/7KHY9NbwDxjMiGQq8XodLzZdltZ.jpg
-URL=https://openload.co/f/A9YOgwStjBU/Sword.Art.Online.Movie.Ordinal.Scale.HDCAM.H264.%28English_Sub%29.THR-CPT.mkv.mp4
-player=default
-rating=-1.00
-description=People everywhere were enjoying a new game called Ordinal Scale, an ARMMORPG developed exclusively for the Augma, a new wearable console designed for AR (augmented reality) gaming. But, the players had no idea that a nightmare from the virtual world was starting to spread into reality! As his fellow players find themselves in danger, the hero is called upon once again./description
+
 
 
 
@@ -990,7 +996,7 @@ type=video
 name=
 thumb=
 date=
-URL=https://3.bp.blogspot.com/hocHVmhuG6jYo8NcAP25hKJdUFB1MpYRlEi9s-d2gD5_4m49zjoSP4aUkZ7emGs4xT8SEDXTPw=m22
+URL=
 
 
 
@@ -1046,19 +1052,6 @@ date=2017-09-06
 URL=https://openload.co/f/HZM0_zLA9Ew/Security.2017.720p.WEB-DL.DD5.1.H264.ThaiRong5.1_CpT%40CtHts.mkv.mp4
 
 
-type=video
-name=Unlocked (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=http://image.tmdb.org/t/p/w500/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg
-date=2017-08-25
-URL=https://openload.co/f/vP2P2jsugq0/Unlocked.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
-type=video
-name=Unlocked (2017) TH CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg
-date=2017-07-24
-URL=https://streamango.com/f/ftpnpqcoqteetebr/Unlocked_mp4
-player=default
-rating=-1.00
-description=A CIA agent is baited into a trap involving London and a biological attack./description
 
 
 type=video
@@ -1098,10 +1091,10 @@ URL=https://openload.co/f/GbUe5fZac2o/Kidnap_%282017%29_%E0%B8%A5%E0%B9%88%E0%B8
 
 
 type=video
-name=Transformers: The Last Knight (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Transformers: The Last Knight (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
-date=2017-09-14
-URL=https://openload.co/f/PGvZeqeLb5Q/Transformers_The_Last_Knight.2017.720p.BRRip.X264.AC3-EVO.mkv.mp4
+date=2017-09-15
+URL=https://openload.co/f/menAdwUJ8js/Transformers.The.Last.Knight.2017.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
 type=video
 name=Transformers: The Last Knight (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
@@ -1124,16 +1117,24 @@ rating=-1.00
 
 
 type=video
-name=2:22 (2017) ENG BDRip.XviD.AC3-EVO
+name=2:22 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
-date=2017-07-14
-URL=https://openload.co/f/TTQg_mDWrGs/2.22.2017.BDRip.XviD.AC3-EVO.avi.mp4
+date=2017-07-15
+URL=https://openload.co/f/7wywF5jXNdY/2.22.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 type=video
 name=2:22 (2017) CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
 date=2017-07-02
 URL=https://openload.co/f/ExI4z1WHPU8/2.22.2017.1080p.WEB-DL.DD5.1.H264.ThaIRonG-CpT.mkv.mp4
 
+
+type=video
+name=Sword Art Online The Movie: Ordinal Scale (2017) TH CAM SOUND
+thumb=http://image.tmdb.org/t/p/w500/7KHY9NbwDxjMiGQq8XodLzZdltZ.jpg
+URL=https://storage.googleapis.com/newmovies/906807.MP4
+player=default
+rating=-1.00
+description=People everywhere were enjoying a new game called Ordinal Scale, an ARMMORPG developed exclusively for the Augma, a new wearable console designed for AR (augmented reality) gaming. But, the players had no idea that a nightmare from the virtual world was starting to spread into reality! As his fellow players find themselves in danger, the hero is called upon once again./description
 
 type=video
 name=What Happened to Monday (2017) TH CAM SOUND
@@ -1215,22 +1216,45 @@ type=video
 name=
 thumb=
 date=2017-09-14
-URL=http://entervideo.net/watch/04667a6be352296
+URL=
 
 
 type=video
 name=
 thumb=
 date=2017-09-14
-URL=https://3.bp.blogspot.com/PKQygLOUsIdIrd3mEDmWbMKCmWRo9cILtghIi6e6ifxkJDHA8AUuVON6EcdEh1fEIS8-bIzkdg=m18?s=ZArN0YdRXfZZ6NGJ
+URL=
 
 
 type=video
 name=
 thumb=
-date=2017-09-14
-URL=https://8ep4e5.mycloud.to/1/jba5YGp7-U5T0my-bLaDdA/0/d/g/o/kw2804/hls/720/720.m3u8?e=1505430000
+date=2017-09-15
+URL=
 
+
+
+
+type=video
+name=Unlocked (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg
+date=2017-08-25
+URL=https://openload.co/f/vP2P2jsugq0/Unlocked.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+type=video
+name=Unlocked (2017) TH
+thumb=http://image.tmdb.org/t/p/w500/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg
+date=2017-09-15
+URL=https://storage.googleapis.com/mlk-s/skl9ae2qp/Unlocked%20%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%A5%E0%B8%94%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%841080.MP4
+player=default
+rating=-1.00
+description=A CIA agent is baited into a trap involving London and a biological attack./description
+
+
+type=video
+name=Master (2016)
+thumb=https://image.tmdb.org/t/p/w640/ni6AWadeI8c1Ta4ER8FLMPSm1Fr.jpg
+date=2017-09-15
+URL=https://storage.googleapis.com/mlk-s/skl9ae2qp/Master%20%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%81%E0%B8%87%20%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B4%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%82%E0%B8%9B%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A71080.MP4
 
 type=video
 name=Wonder Woman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1341,10 +1365,10 @@ URL=https://openload.co/f/zV7D4cRfpRw/%7BMINI_Super-HQ%7D_Snatched.2017.1080p.Br
 
 
 type=video
-name=Starship Troopers: Traitor of Mars (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Starship Troopers: Traitor of Mars (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 4.4GB
 thumb=https://image.tmdb.org/t/p/w640/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg
-date=2017-09-11
-URL=https://openload.co/f/dN9rE6ajxL4/Starship.Troopers.Traitor.of.Mars.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2017-09-15
+URL=https://openload.co/f/nrZt7wOQlvo/Starship.Troopers.Traitor.of.Mars.2017.1080p.BluRay.x264-ROVERS.mkv
 type=video
 name=Starship Troopers: Traitor of Mars (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg
@@ -1440,7 +1464,7 @@ thumb=https://image.tmdb.org/t/p/w640/ev90LOaW2COmsScsuVz5pPFzQSI.jpg
 date=2017-09-05
 URL=https://openload.co/f/83UsrOVkaGM/batman.and.harley.quinn.2017.1080p.bluray.x264-invandraren.mkv.mp4
 type=video
-name=Batman and Harley Quinn (2017)
+name=Batman and Harley Quinn (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/ev90LOaW2COmsScsuVz5pPFzQSI.jpg
 date=2017-08-25
 URL=https://openload.co/f/2A5FS2xqYP4/%7BMINI_Super-HQ%7D_Batman.and.Harley.Quinn.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
