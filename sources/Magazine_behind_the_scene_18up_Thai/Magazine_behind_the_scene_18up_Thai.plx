@@ -29,6 +29,18 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 player=default
 rating=-1.00
 
+
+
+type=playlist
+name=Thai_XXX_1
+thumb=https://erotic2you.com/wp-content/uploads/2017/09/%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD..%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%B5.jpg
+date=2017-09-15
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Magazine_behind_the_scene_18up_Thai/Thai_XXX_1.plx
+player=default
+rating=-1.00
+
+
+
 type=playlist
 name=Magazine_behind_the_scene_18up_Thai_2
 thumb=http://2.bp.blogspot.com/-fKc2tevxTEA/Vkwbbk1kP9I/AAAAAAAAvUY/vXF6jHtr1vE/s320/1446377256_0.98860600.jpg

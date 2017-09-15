@@ -71,11 +71,7 @@ URL=
 
 
 
-type=video
-name=
-thumb=
-date=
-URL=
+
 
 
 
