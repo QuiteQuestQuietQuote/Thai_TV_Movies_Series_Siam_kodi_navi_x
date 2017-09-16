@@ -317,7 +317,12 @@ URL=https://openload.co/f/8LU_6LzP_RQ/Suddenly_Twenty_%282016%29_DVDRip.CtHts_-_
 player=default
 rating=-1.00
 
-# 2765014
+
+type=video
+name=John Wick: Chapter 2 (2017) [COLOR=FF00FF00]ENG WEB 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/zkXnKIwX5pYorKJp2fjFSfNyKT0.jpg
+date=2017-09-16
+URL=https://openload.co/f/MjSWcqZ1Mhs/John.Wick.Chapter.2.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 type=video
 name=John Wick: Chapter 2 (2017)
 thumb=http://image.tmdb.org/t/p/w500/zkXnKIwX5pYorKJp2fjFSfNyKT0.jpg
@@ -326,6 +331,7 @@ URL=https://openload.co/f/Rez5uI3uD90/%7BMINI_Super-HQ%7D_John.Wick.2.2017.1080p
 player=default
 rating=-1.00
 description=John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassinsâ?? guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the worldâ??s most dangerous killers./description
+
 
 # 2761729
 type=video

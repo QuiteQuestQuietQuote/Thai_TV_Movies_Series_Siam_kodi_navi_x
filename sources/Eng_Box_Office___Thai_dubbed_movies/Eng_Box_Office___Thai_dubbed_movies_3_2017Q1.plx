@@ -52,10 +52,10 @@ URL=https://storage.googleapis.com/mlk-s/stk9opq21klm/The%20Awakening%20%E0%B8%9
 
 
 type=video
-name=It (2017) ENG TS_V2_x264_AC3_TiTAN
+name=It (2017) ENG NEW_HD-TS_60FPS_x264_HQ-CPG---MKV
 thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
-date=2017-09-15
-URL=https://openload.co/f/uM2c3AxnHfs/IT_2017_TS_V2_x264_AC3_TiTAN.mkv.mp4
+date=2017-09-16
+URL=https://openload.co/f/fx1ojpXEh2k/IT_2017_NEW_HD-TS_60FPS_x264_HQ-CPG.mkv
 
 type=video
 name=Tulip Fever (2017) RUS
@@ -146,6 +146,12 @@ name=The Vault (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/zBJocluTrE9AiVdBLUPrvvBRCvQ.jpg
 date=2017-09-03
 URL=https://openload.co/f/mzraSq5ldxM/The.Vault.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Chronesthesia (2016) ENG WEBRip.x264-iNTENSO
+thumb=https://image.tmdb.org/t/p/w640/oVuhoZ8rBJpXlIUdP9h9myM1BlM.jpg
+date=2017-09-16
+URL=https://openload.co/f/8cTA5_Un5wQ/Chronesthesia.2016.1080p.WEBRip.x264-iNTENSO.mkv.mp4
 
 type=video
 name=A Boy Called Po (2016) ENG WEB-DL.XviD.AC3-FGT
@@ -1229,10 +1235,17 @@ URL=
 type=video
 name=
 thumb=
-date=2017-09-15
+date=2017-09-16
 URL=
 
 
+
+
+type=video
+name=Song to Song (2017)
+thumb=https://image.tmdb.org/t/p/w640/rEvtGhNY2DQ4L8Ma6rpMhL6IbKM.jpg
+date=2017-09-16
+URL=https://openload.co/f/sbF_7itNEqE/Song_to_Song_%282017%29%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
 
 
 type=video
@@ -1243,8 +1256,8 @@ URL=https://openload.co/f/vP2P2jsugq0/Unlocked.2017.1080p.BluRay.X264-AMIABLE.mk
 type=video
 name=Unlocked (2017) TH
 thumb=http://image.tmdb.org/t/p/w500/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg
-date=2017-09-15
-URL=https://storage.googleapis.com/mlk-s/skl9ae2qp/Unlocked%20%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%A5%E0%B8%94%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%841080.MP4
+date=2017-09-16
+URL=https://openload.co/f/_Qq84niXpYc/Unlocked_%282017%29%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%A5%E0%B8%94%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%84.mp4
 player=default
 rating=-1.00
 description=A CIA agent is baited into a trap involving London and a biological attack./description
@@ -1253,8 +1266,8 @@ description=A CIA agent is baited into a trap involving London and a biological 
 type=video
 name=Master (2016)
 thumb=https://image.tmdb.org/t/p/w640/ni6AWadeI8c1Ta4ER8FLMPSm1Fr.jpg
-date=2017-09-15
-URL=https://storage.googleapis.com/mlk-s/skl9ae2qp/Master%20%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%81%E0%B8%87%20%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B4%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%82%E0%B8%9B%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A71080.MP4
+date=2017-09-16
+URL=https://openload.co/f/LCCSzHO-yIo/Master_%282016%29%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%81%E0%B8%87_%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B4%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%82%E0%B8%9B%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7.mp4
 
 type=video
 name=Wonder Woman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
