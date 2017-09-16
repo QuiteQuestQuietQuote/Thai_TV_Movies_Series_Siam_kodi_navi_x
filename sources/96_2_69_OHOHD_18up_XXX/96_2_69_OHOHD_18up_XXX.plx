@@ -22,9 +22,21 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
+type=playlist
+name=96_2_69_OHOHD_24_18up_Inter_Erotic
+thumb=http://erotic24hr.com/wp-content/uploads/2017/05/Warmed-Up-2017.jpg
+date=2017-09-16
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_24_18up_Inter_Erotic.plx
+player=default
+rating=-1.00
 
-
-
+type=playlist
+name=96_2_69_OHOHD_23_18up_XXX
+thumb=https://3.bp.blogspot.com/-A6tBgGEbdAw/Wa60uArap1I/AAAAAAAALDU/dshxtjj4osA2k-8gclKmCQ_lHNmz0hrNwCLcBGAs/s1600/1sss.jpg
+date=2017-09-16
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_23_18up_XXX.plx
+player=default
+rating=-1.00
 
 type=playlist
 name=96_2_69_OHOHD_22_18up_Inter_Erotic
