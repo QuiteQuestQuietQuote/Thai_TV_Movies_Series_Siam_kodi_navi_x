@@ -237,11 +237,7 @@ thumb=https://image.tmdb.org/t/p/w640/62oRA7ghxL9HGFHe5Dd9IVljyKi.jpg
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
-type=video
-name=Baby Driver (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/mBkOBaxjr7IBHGuQS3sSFeyYTM.jpg
-date=2017-09-14
-URL=https://openload.co/f/lsrzz7yFQA4/Baby.Driver.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 type=video
 name=The House (2017) ENG WEB-DL_DD5.1_H264-FGT
@@ -649,20 +645,11 @@ URL=https://openload.co/f/Z7O8RrljTtc/The_Emoji_Movie_2017_HDCAM_-_UnKnOwN.avi.m
 type=video
 name=The Emoji Movie (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
-date=2017-09-03
-URL=https://openload.co/f/xFp17Utx9b8/%E0%B8%AD%E0%B8%B4%E0%B9%82%E0%B8%A1%E0%B8%88%E0%B8%B4_%E0%B9%81%E0%B8%AD%E0%B9%8A%E0%B8%9E%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+date=2017-09-17
+URL=https://openload.co/f/loSwUzABuYc/The_Emoji_Movie_%282017%29_%E0%B8%AD%E0%B8%B4%E0%B9%82%E0%B8%A1%E0%B8%88%E0%B8%B4_%E0%B9%81%E0%B8%AD%E0%B9%8A%E0%B8%9E%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 
 
-type=video
-name=Annabelle: Creation (2017) ENG HC.HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
-date=2017-09-15
-URL=https://openload.co/f/wJM_-DpOfPw/Annabelle.Creation.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
-type=video
-name=Annabelle: Creation (2017) TH HC HD
-thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
-date=2017-09-15
-URL=https://storage.googleapis.com/newmovies/907338.MP4
+
 
 
 type=video
@@ -1001,7 +988,7 @@ description=When Michelle, the CEO of a gaming software company, is attacked in 
 type=video
 name=
 thumb=
-date=
+date=2017-09-17
 URL=
 
 
@@ -1010,6 +997,36 @@ URL=
 
 
 
+
+type=video
+name=The Battleship Island (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/gCv1HBAXiyi48hPpc9hO0p5bbht.jpg
+date=2017-09-17
+URL=https://openload.co/f/yv8vQH7WT_Q/The_Battleship_Island_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A5%E0%B8%8A%E0%B8%B4%E0%B8%9B_%E0%B9%84%E0%B8%AD%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+
+
+type=video
+name=Baby Driver (2017) ENG WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/mBkOBaxjr7IBHGuQS3sSFeyYTM.jpg
+date=2017-09-14
+URL=https://openload.co/f/lsrzz7yFQA4/Baby.Driver.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+type=video
+name=Baby Driver (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/mBkOBaxjr7IBHGuQS3sSFeyYTM.jpg
+date=2017-09-17
+URL=https://openload.co/f/eEXQUgsdod4/Baby_Driver_%282017%29%E0%B8%88%E0%B8%B5%E0%B9%89_%5B%E0%B9%80%E0%B8%9A%5D_%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+
+
+type=video
+name=Annabelle: Creation (2017) ENG HC.HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
+date=2017-09-15
+URL=https://openload.co/f/wJM_-DpOfPw/Annabelle.Creation.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
+type=video
+name=Annabelle: Creation (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
+date=2017-09-17
+URL=https://openload.co/f/0sbYIf_EmNY/Annabelle%3A_Creation_%282017%29%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%A5%E0%B9%8C_%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%9C%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
 type=video
@@ -1023,16 +1040,18 @@ thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
 date=2017-09-03
 URL=https://openload.co/f/F2OrZJXph3c/%7BMINI_Super-HQ%7D_The.Hitmans.Bodyguard.2017.1080p.WEB-DL.ThaiRong.5.1.x264_CpT%40CtHts.mkv.mp4
 
+
 type=video
 name=47 Meters Down (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/HmALxBQK8SKpOEOmqyFxOavIPR.jpg
 date=2017-09-14
 URL=https://openload.co/f/UnV7adyJF9c/47.Meters.Down.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
 type=video
-name=47 Meters Down (2017) TH CAM 
+name=47 Meters Down (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/HmALxBQK8SKpOEOmqyFxOavIPR.jpg
 date=2017-07-22
 URL=https://openload.co/f/3t8bEoey3-Q/47_Meters_Down_%282017%29_TH.mkv.mp4
+
 
 type=video
 name=Despicable Me 3 (2017) ENG WEB-DL.H264.AC3-EVO
@@ -1060,16 +1079,7 @@ URL=https://openload.co/f/HZM0_zLA9Ew/Security.2017.720p.WEB-DL.DD5.1.H264.ThaiR
 
 
 
-type=video
-name=The Mummy (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
-date=2017-08-30
-URL=https://openload.co/f/YUzDBxFrbBA/The.Mummy.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-type=video
-name=The Mummy (2017) CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
-date=2017-08-08
-URL=https://openload.co/f/Q81dbsjEMgg/The.Mummy.2017.1080p.WEB-DL.DD5.1.H264.ThaiRong5.1_CpT%40CtHts_%281%29.mkv.mp4
+
 
 
 type=video
@@ -1090,7 +1100,7 @@ thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
 date=2017-09-07
 URL=https://openload.co/f/1S7X9_niZmw/Kidnap.2017.1080p.bluray.x264-VETO.mkv
 type=video
-name=Kidnap (2017) CAM SOUND
+name=Kidnap (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
 date=2017-07-06
 URL=https://openload.co/f/GbUe5fZac2o/Kidnap_%282017%29_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
@@ -1128,7 +1138,7 @@ thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
 date=2017-07-15
 URL=https://openload.co/f/7wywF5jXNdY/2.22.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 type=video
-name=2:22 (2017) CAM SOUND
+name=2:22 (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
 date=2017-07-02
 URL=https://openload.co/f/ExI4z1WHPU8/2.22.2017.1080p.WEB-DL.DD5.1.H264.ThaIRonG-CpT.mkv.mp4
@@ -1137,7 +1147,7 @@ URL=https://openload.co/f/ExI4z1WHPU8/2.22.2017.1080p.WEB-DL.DD5.1.H264.ThaIRonG
 type=video
 name=Sword Art Online The Movie: Ordinal Scale (2017) TH CAM SOUND
 thumb=http://image.tmdb.org/t/p/w500/7KHY9NbwDxjMiGQq8XodLzZdltZ.jpg
-URL=https://storage.googleapis.com/newmovies/906807.MP4
+URL=https://openload.co/f/HYBlGSOSuAo/Sword_Art_Online_The_Movie_Ordinal_Scale_%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95_%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95_%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_%E0%B8%AD%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AD%E0%B8%A5_%E0%B8%AA%E0%B9%80%E0%B8%81%E0%B8%A5_V1_%E0%B8%A0%E0%B8%B2%E0%B8%9E_Master_%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%94.mp4
 player=default
 rating=-1.00
 description=People everywhere were enjoying a new game called Ordinal Scale, an ARMMORPG developed exclusively for the Augma, a new wearable console designed for AR (augmented reality) gaming. But, the players had no idea that a nightmare from the virtual world was starting to spread into reality! As his fellow players find themselves in danger, the hero is called upon once again./description
@@ -1229,17 +1239,41 @@ type=video
 name=
 thumb=
 date=2017-09-14
-URL=
+URL=https://lh3.googleusercontent.com/EWs7DfST80CJlgreNOAOhliaXIvGS0IRx7waA2rgoJKIbw2X1NLj2N9k-E9Ls0Pxx-lNBy1YTQ=m37?s=YQvN0oZeXfRB686L2IQ
 
 
 type=video
 name=
 thumb=
-date=2017-09-16
+date=2017-09-17
 URL=
 
 
 
+
+type=video
+name=The Mummy (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
+date=2017-08-30
+URL=https://openload.co/f/YUzDBxFrbBA/The.Mummy.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+type=video
+name=The Mummy (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg
+date=2017-08-08
+URL=https://storage.googleapis.com/mlk-s/skl9ae2qp/The%20Mummy%20%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%20%E0%B8%A1%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%B5%E0%B9%88720.MP4
+
+
+type=video
+name=Before the Devil Knows You're Dead (2007)
+thumb=https://image.tmdb.org/t/p/w640/7p3Yx1kXIc9UfnmsCsKWlWVCnhS.jpg
+date=2017-09-17
+URL=https://storage.googleapis.com/mlk-s/skl9ae2qp/Before%20the%20Devil%20Knows%20You're%20Dead%20%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%9A%E0%B8%B2%E0%B8%9B%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B51080.MP4
+
+type=video
+name=Margin Call (2011)
+thumb=https://image.tmdb.org/t/p/w640/h4Cv588VpNpO9twXsdorhz6K8t1.jpg
+date=2017-09-17
+URL=https://storage.googleapis.com/mlk-s/skl9ae2qp/Margin%20Call%20%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%941080.MP4
 
 type=video
 name=Song to Song (2017)
@@ -1416,8 +1450,8 @@ URL=https://openload.co/f/JQXUlscrY8Q/Captain.Underpants.The.First.Epic.Movie.20
 type=video
 name=Captain Underpants: The First Epic Movie (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/AjHZIkzhPXrRNE4VSLVWx6dirK9.jpg
-date=2017-09-01
-URL=https://openload.co/f/sSvIad7sCyg/Captain_Underpants%3A_The_First_Epic_Movie_%282017%29
+date=2017-09-17
+URL=https://openload.co/f/2XMyZjG63AE/Captain_Underpants_The_First_Epic_Movie_%282017%29_%E0%B8%81%E0%B8%B1%E0%B8%9B%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%87%E0%B9%83%E0%B8%99%21.mp4
 
 # 152
 type=video
