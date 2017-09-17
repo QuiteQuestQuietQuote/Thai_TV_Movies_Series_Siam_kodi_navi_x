@@ -101,6 +101,7 @@ URL=http://s11.iptvapi.com:8081/SkyGreats/index.m3u8?token=cia8SlY5c-aTmnnzm1Jlk
 
 type=video
 name=HBO HD
+thumb=https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png
 URL=http://183.88.212.205:8010/play/a00u
 
 type=video

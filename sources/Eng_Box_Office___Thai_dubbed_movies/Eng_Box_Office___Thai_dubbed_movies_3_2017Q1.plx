@@ -621,10 +621,10 @@ URL=
 
 # 2771674
 type=video
-name=Thai__________________Thai-----MOVIE 1
-thumb=http://i.dailymail.co.uk/i/pix/2016/11/18/14/3A77935E00000578-3949706-Making_a_splash_The_fish_with_its_blue_red_and_white_horizontal_-m-13_1479477984350.jpg
-date=2017-06-15
-URL=rtmp://tv01.thaizatv.com/drm/movie1
+name=Thai__________________Thai-----HBO HD
+thumb=https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png
+date=2017-09-17
+URL=http://183.88.212.205:8010/play/a00u
 player=default
 rating=-1.00
 

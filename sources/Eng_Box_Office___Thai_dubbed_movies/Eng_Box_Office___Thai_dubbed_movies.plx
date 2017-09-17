@@ -82,6 +82,7 @@ rating=-1.00
 
 type=video
 name=HBO HD
+thumb=https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png
 URL=http://183.88.212.205:8010/play/a00u
 
 type=video
