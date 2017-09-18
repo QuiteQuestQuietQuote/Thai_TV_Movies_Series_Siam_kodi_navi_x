@@ -319,10 +319,10 @@ rating=-1.00
 
 
 type=video
-name=John Wick: Chapter 2 (2017) [COLOR=FF00FF00]ENG WEB 1080p[/COLOR]
+name=John Wick: Chapter 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/zkXnKIwX5pYorKJp2fjFSfNyKT0.jpg
-date=2017-09-16
-URL=https://openload.co/f/MjSWcqZ1Mhs/John.Wick.Chapter.2.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2017-09-18
+URL=https://openload.co/f/k0zKdL7xzqc/John_Wick_Chapter_2_2017_1080p_10bit_BluRay_5_1_x265_HEVC-MZABI_mkv_mp4
 type=video
 name=John Wick: Chapter 2 (2017)
 thumb=http://image.tmdb.org/t/p/w500/zkXnKIwX5pYorKJp2fjFSfNyKT0.jpg

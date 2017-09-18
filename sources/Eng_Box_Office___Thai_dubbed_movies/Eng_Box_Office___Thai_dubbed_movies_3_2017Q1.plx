@@ -51,11 +51,7 @@ URL=https://storage.googleapis.com/mlk-s/stk9opq21klm/The%20Awakening%20%E0%B8%9
 
 
 
-type=video
-name=It (2017) ENG NEW_HD-TS_60FPS_x264_HQ-CPG---MKV
-thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
-date=2017-09-16
-URL=https://openload.co/f/fx1ojpXEh2k/IT_2017_NEW_HD-TS_60FPS_x264_HQ-CPG.mkv
+
 
 type=video
 name=Tulip Fever (2017) RUS
@@ -98,6 +94,12 @@ name=Campus Caller (2017) ENG hdtv.h264-plutonium
 thumb=http://img.rlsbb.ru/images/ZBNmJA.jpg
 date=2017-09-14
 URL=https://openload.co/f/mqvlmaYXBME/campus.caller.2017.1080p.hdtv.h264-plutonium.mkv.mp4
+
+type=video
+name=The Rizen (2017) ENG dvdrip.x264-spooks
+thumb=https://image.tmdb.org/t/p/w640/A0FJyq8lbqZDz32bvImIRBlT8bS.jpg
+date=2017-09-18
+URL=https://openload.co/f/7L_eh608gm4/the.rizen.2017.dvdrip.x264-spooks.mkv.mp4
 
 type=video
 name=AWOL (2017) ENG DVDRip.x264-RedBlade
@@ -600,7 +602,11 @@ thumb=https://image.tmdb.org/t/p/w640/vogqzcUAIWyboktR34ojo1roF2q.jpg
 date=2017-08-26
 URL=https://openload.co/f/77NDk4AfO20/M-C-M.2016.720p.BluRay.x264-SPRiNTER.mkv.mp4
 
-
+type=video
+name=The Secret Scripture (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/fyJEWYpSajeAMJxSiLhtCVhxiXc.jpg
+date=2017-09-18
+URL=https://openload.co/f/Bu2BqxOQcIw/The.Secret.Scripture.2016.720p.BluRay.x264.DTS-R23.mkv.mp4
 
 
 
@@ -637,6 +643,20 @@ URL=
 
 
 
+
+
+type=video
+name=It (2017) ENG NEW_HD-TS_60FPS_x264_HQ-CPG---MKV
+thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
+date=2017-09-16
+URL=https://openload.co/f/fx1ojpXEh2k/IT_2017_NEW_HD-TS_60FPS_x264_HQ-CPG.mkv
+type=video
+name=It (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
+date=2017-09-18
+URL=https://openload.co/f/qXaLPD1GEng/It_%282017%29%E0%B8%AD%E0%B8%B4%E0%B8%97_%E0%B9%82%E0%B8%9C%E0%B8%A5%E0%B9%88%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
+
 type=video
 name=The Emoji Movie (2017) ENG HDCAM_-_UnKnOwN
 thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
@@ -647,9 +667,6 @@ name=The Emoji Movie (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
 date=2017-09-17
 URL=https://openload.co/f/loSwUzABuYc/The_Emoji_Movie_%282017%29_%E0%B8%AD%E0%B8%B4%E0%B9%82%E0%B8%A1%E0%B8%88%E0%B8%B4_%E0%B9%81%E0%B8%AD%E0%B9%8A%E0%B8%9E%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
-
-
-
 
 
 type=video
@@ -1049,15 +1066,15 @@ URL=https://openload.co/f/UnV7adyJF9c/47.Meters.Down.2017.720p.BluRay.x264.DTS-H
 type=video
 name=47 Meters Down (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/HmALxBQK8SKpOEOmqyFxOavIPR.jpg
-date=2017-07-22
-URL=https://openload.co/f/3t8bEoey3-Q/47_Meters_Down_%282017%29_TH.mkv.mp4
+date=2017-09-18
+URL=https://openload.co/f/3KZrVDAGyUM/47.Meters.Down.2017.1080p.WEB-DL.ThaiRong5.1.H264_CpT%40CtHts.mkv.mp4
 
 
 type=video
-name=Despicable Me 3 (2017) ENG WEB-DL.H264.AC3-EVO
+name=Despicable Me 3 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
-date=2017-09-12
-URL=https://openload.co/f/XPIrkE5V7Nw/Despicable.Me.3.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2017-09-18
+URL=https://openload.co/f/69ojqw6c7zU/Despicable.Me.3.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 type=video
 name=Despicable Me 3 (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
@@ -1239,7 +1256,7 @@ type=video
 name=
 thumb=
 date=2017-09-14
-URL=https://lh3.googleusercontent.com/EWs7DfST80CJlgreNOAOhliaXIvGS0IRx7waA2rgoJKIbw2X1NLj2N9k-E9Ls0Pxx-lNBy1YTQ=m37?s=YQvN0oZeXfRB686L2IQ
+URL=https://storage.googleapis.com/newmovie-th/907424.MP4
 
 
 type=video
@@ -1388,8 +1405,8 @@ URL=https://openload.co/f/JSk-lir1bbA/baywatch.2017.unrated.1080p.bluray.x264-ge
 type=video
 name=Baywatch (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
-date=2017-09-03
-URL=https://openload.co/f/hEqg8LKbdUA/%7BMINI_Super-HQ%7D_Baywatch.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+date=2017-09-18
+URL=https://openload.co/f/jc-urVzF_g0/%7BMINI_Super-HQ%7D_Baywatch.2017.1080p.BrRip.DTS.x264.THB_NongZEZA%40CtHts.mkv.mp4
 
 # 162
 type=video
