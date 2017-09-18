@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w640/6nxTO2tYDBR9twPWlDC3I1eXUnY.jpg
+background=https://image.tmdb.org/t/p/w640/1ryCwZaZFAlG0c1w8XiMHeAxxYy.jpg
 title=TV_Shows_ENG
-logo=https://image.tmdb.org/t/p/w640/6nxTO2tYDBR9twPWlDC3I1eXUnY.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/6nxTO2tYDBR9twPWlDC3I1eXUnY.jpg
+logo=https://image.tmdb.org/t/p/w640/1ryCwZaZFAlG0c1w8XiMHeAxxYy.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/1ryCwZaZFAlG0c1w8XiMHeAxxYy.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -138,6 +138,14 @@ name=The Girl's Guide to Depravity (2012)
 thumb=https://image.tmdb.org/t/p/w640/ajWfdIUgawHoxoOwYcURCeOXofe.jpg
 date=2017-08-05
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/The_Girls_Guide_to_Depravity.plx
+player=default
+rating=-1.00
+
+type=playlist
+name=The Handmaid's Tale (2017)
+thumb=https://image.tmdb.org/t/p/w640/1ryCwZaZFAlG0c1w8XiMHeAxxYy.jpg
+date=2017-09-18
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/The_Handmaids_Tale.plx
 player=default
 rating=-1.00
 

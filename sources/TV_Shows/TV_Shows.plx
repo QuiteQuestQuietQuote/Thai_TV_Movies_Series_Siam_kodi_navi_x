@@ -15,7 +15,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 type=playlist
 name=TV_Shows_ENG
-thumb=https://image.tmdb.org/t/p/w640/6nxTO2tYDBR9twPWlDC3I1eXUnY.jpg
+thumb=https://image.tmdb.org/t/p/w640/1ryCwZaZFAlG0c1w8XiMHeAxxYy.jpg
 date=2017-07-26
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/TV_Shows_ENG.plx
 player=default
