@@ -90,6 +90,24 @@ date=2017-09-15
 URL=https://openload.co/f/CYKxRx3bjic/This_Is_Your_Death_2017_720p_WEB-DL_H264_AC3-EVO.mp4
 
 type=video
+name=Easy Living (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/uqfvqrNXfDAbuAjZBbQ9MFhtLOl.jpg
+date=2017-09-19
+URL=https://openload.co/f/MeVz2LFyD8w/Easy.Living.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Negative (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/hfrkWkCa5ARASkxE8pgQvFT6MHJ.jpg
+date=2017-09-19
+URL=https://openload.co/f/4JeAAEyQ7Cg/Negative.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=A Ghost Story (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/sD94aixD7fMAc2e9ugbv4KQprBL.jpg
+date=2017-09-19
+URL=https://openload.co/f/Bpta-yRd6uI/A.Ghost.Story.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
+type=video
 name=Campus Caller (2017) ENG hdtv.h264-plutonium
 thumb=http://img.rlsbb.ru/images/ZBNmJA.jpg
 date=2017-09-14
@@ -217,11 +235,7 @@ thumb=https://image.tmdb.org/t/p/w640/7APLVpsGzXPJw16ZuBtXICxq8B9.jpg
 date=2017-08-21
 URL=https://openload.co/f/-k0NTJi1-Hk/Detroit.2017.CAM.x264-THESTiG.mkv.mp4
 
-type=video
-name=The Book of Henry (2017) ENG CAM.XViD-26k
-thumb=https://image.tmdb.org/t/p/w640/suLFg4UjvM5BoDipg2Wu3gZ802T.jpg
-date=2017-08-14
-URL=https://openload.co/f/vNxzOLy-yrw/The.Book.of.Henry.2017.CAM.XViD-26k.avi.mp4
+
 
 type=video
 name=Girls Trip (2017) ENG NEW.HD-TS.x264-CPG
@@ -349,7 +363,11 @@ thumb=https://image.tmdb.org/t/p/w640/sxutq7sXcaMy8b4OguaWZwWrchM.jpg
 date=2017-06-30
 URL=https://streamango.com/f/crkpcatklcmelbtb/Free_State_of_Jones_2016
 
-
+type=video
+name=The Book of Henry (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/suLFg4UjvM5BoDipg2Wu3gZ802T.jpg
+date=2017-09-19
+URL=https://openload.co/f/V2RyMaGA6FQ/The_Book_of_Henry.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 
 
@@ -608,7 +626,11 @@ thumb=https://image.tmdb.org/t/p/w640/fyJEWYpSajeAMJxSiLhtCVhxiXc.jpg
 date=2017-09-18
 URL=https://openload.co/f/Bu2BqxOQcIw/The.Secret.Scripture.2016.720p.BluRay.x264.DTS-R23.mkv.mp4
 
-
+type=video
+name=Anomalous (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/fDqKcjV7mRykX4rAGCPQnLsBaWK.jpg
+date=2017-09-19
+URL=https://openload.co/f/wU7g8EGDJX8/anomalous.2016.720p.bluray.x264-rusted.mkv.mp4
 
 
 
