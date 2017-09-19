@@ -33,7 +33,7 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
-URL=https://storage.googleapis.com/mlk-s/slkQ1poA4kd/LegoDCSuperHeroGirlsBrainDrain1080.MP4
+URL=
 
 
 
@@ -1150,6 +1150,7 @@ name=Transformers: The Last Knight (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
 date=2017-09-15
 URL=https://openload.co/f/menAdwUJ8js/Transformers.The.Last.Knight.2017.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
+#https://openload.co/f/jw76f78k7Ps/Transformers.The.Last.Knight.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 type=video
 name=Transformers: The Last Knight (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
@@ -1465,8 +1466,8 @@ URL=https://openload.co/f/bT3aqtToX_Q/%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8
 type=video
 name=Everything, Everything (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/rpl6GpwBzj1k5LiEdurY1Qe1AcS.jpg
-date=2017-08-01
-URL=https://openload.co/f/IGIMtDVjAjw/everything.everything.2017.1080p.bluray.x264-geckos.mkv.mp4
+date=2017-09-19
+URL=https://openload.co/f/Ol0hfLJAk0Y/everything.everything.2017.1080p.bluray.x264-geckos.mkv.mp4
 type=video
 name=Everything, Everything (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/rpl6GpwBzj1k5LiEdurY1Qe1AcS.jpg
@@ -1533,10 +1534,10 @@ rating=-1.00
 
 
 type=video
-name=Science Fiction Volume One: The Osiris Child (2016) ENG BRRip.XviD.AC3-EVO
+name=Science Fiction Volume One: The Osiris Child (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/bEa4lssjiYCv226Z0gKKbfPGJAJ.jpg
-date=2017-08-09
-URL=https://openload.co/f/AeAr9xuD51Q/O.W.2017.BRRip.XviD.AC3-EVO.avi.mp4
+date=2017-09-19
+URL=https://openload.co/f/cuGMSdt0Hjo/The_Osiris_Child_2016_1080p_BluRay_x264-%5BYTS_AG%5D_mp4
 type=video
 name=Science Fiction Volume One: The Osiris Child (2016) TH
 thumb=https://image.tmdb.org/t/p/w640/bEa4lssjiYCv226Z0gKKbfPGJAJ.jpg
