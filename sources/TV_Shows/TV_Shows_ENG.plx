@@ -134,6 +134,14 @@ player=default
 rating=-1.00
 
 type=playlist
+name=Shameless (2011)
+thumb=https://image.tmdb.org/t/p/w640/v7K2RUuqlb9bDthKqvBKI3F0biu.jpg
+date=2017-09-19
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Shameless.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=Taken (2017)
 thumb=https://image.tmdb.org/t/p/w640/kVLhejtkK1rYDssV186bqQicIm7.jpg
 date=2017-09-18
