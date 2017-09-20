@@ -381,7 +381,11 @@ URL=
 
 
 
-
+type=video
+name=The Chessplayer (2017) [COLOR=FF00FF00]GRK BR 1080p[/COLOR] MKV 6.6GB
+thumb=https://image.tmdb.org/t/p/w640/li4gwTyZAwbCR2lgxLMf2e0s7Ro.jpg
+date=2017-09-21
+URL=https://openload.co/f/dz_qlMQnZto/the.chessplayer.2017.1080p.bluray.x264-bipolar.mkv
 
 type=video
 name=Suntan (2016) [COLOR=FF00FF00]GRK BR 1080p[/COLOR] MKV 8.7GB
@@ -1059,7 +1063,7 @@ type=video
 name=
 thumb=
 date=2017-09-17
-URL=
+URL=http://ouo.io/YFrCym
 
 
 
@@ -1289,12 +1293,25 @@ player=default
 rating=-1.00
 description=After an alien ship crash lands onto a Russian city, many who have saw the inside and the occupants start to question their own existence while there are those who demand the aliens to leave Earth/description
 
+
+
 type=video
 name=
 thumb=
 date=2017-09-14
-URL=
+URL=https://drive.google.com/open?id=0B0eGmzzxUPrCY19SbklVMWg2anc
 
+type=video
+name=
+thumb=
+date=2017-09-14
+URL=https://drive.google.com/uc?export=download&confirm=Euvf&id=0B0eGmzzxUPrCY19SbklVMWg2anc
+
+type=video
+name=
+thumb=
+date=2017-09-17
+URL=https://drive.google.com/uc?id=0B0eGmzzxUPrCY19SbklVMWg2anc&export=download
 
 type=video
 name=
@@ -1302,14 +1319,11 @@ thumb=
 date=2017-09-14
 URL=https://storage.googleapis.com/newmovie-th/907424.MP4
 
-
 type=video
 name=
 thumb=
-date=2017-09-17
+date=2017-09-14
 URL=https://openload.co/f/496nUfCD0j8/John.Wick.2014.RERIP.720p.BluRay.x264-SPARKS-HI.mkv
-
-
 
 
 
