@@ -34,13 +34,22 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
-date=2017-09-03
+date=2017-09-21
 URL=
 
 
 
 
 
+
+
+
+
+type=video
+name=Suntan (2016) MKV
+thumb=https://image.tmdb.org/t/p/w640/sAknvVkyiGssLf20k4FAZB3FUnZ.jpg
+date=2017-09-21
+URL=https://openload.co/f/u_7gMsiNq4A/suntan.2016.limited.720p.bluray.x264-usury.mkv
 
 type=video
 name=Smartass (2017)

@@ -101,11 +101,7 @@ thumb=https://image.tmdb.org/t/p/w640/hfrkWkCa5ARASkxE8pgQvFT6MHJ.jpg
 date=2017-09-19
 URL=https://openload.co/f/4JeAAEyQ7Cg/Negative.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=A Ghost Story (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/sD94aixD7fMAc2e9ugbv4KQprBL.jpg
-date=2017-09-19
-URL=https://openload.co/f/Bpta-yRd6uI/A.Ghost.Story.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=Campus Caller (2017) ENG hdtv.h264-plutonium
@@ -374,7 +370,7 @@ URL=https://openload.co/f/V2RyMaGA6FQ/The_Book_of_Henry.2017.720p.WEB-DL.H264.AC
 type=video
 name=
 thumb=
-date=2017-09-15
+date=2017-09-21
 URL=
 
 
@@ -382,6 +378,46 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=Suntan (2016) [COLOR=FF00FF00]GRK BR 1080p[/COLOR] MKV 8.7GB
+thumb=https://image.tmdb.org/t/p/w640/sAknvVkyiGssLf20k4FAZB3FUnZ.jpg
+date=2017-09-21
+URL=https://openload.co/f/pfLfVK3OgTU/suntan.2016.limited.1080p.bluray.x264-usury.mkv
+
+type=video
+name=Boys in the Trees (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.6GB
+thumb=https://image.tmdb.org/t/p/w640/8YJgHHHYLcHHhewWjnHoPrUFKBw.jpg
+date=2017-09-21
+URL=https://openload.co/f/7E6rfFQL164/boys.in.the.trees.2016.1080p.bluray.x264-bipolar.mkv
+
+type=video
+name=Neruda (2016) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] MKV 7.9GB
+thumb=https://image.tmdb.org/t/p/w640/sLvzxFBH5vGFei8oUNzDVwHKGdl.jpg
+date=2017-09-21
+URL=https://openload.co/f/cM3Mg9KNtyc/neruda.2016.limited.1080p.bluray.x264-usury.mkv
+
+type=video
+name=It Stains the Sands Red (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/rBCjDBa2Dau9WqEslCpdJni394M.jpg
+date=2017-09-21
+URL=https://openload.co/f/IXszcVRt6Vc/It.Stains.the.Sands.Red.2016.1080p.BluRay.x264-ROVERS.mkv.mp4
+
+type=video
+name=The Bad Batch (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/7o14VaMphEIzPwzeW6FP3A6zb4W.jpg
+date=2017-09-21
+URL=https://openload.co/f/dOxdbWjhfyI/The.Bad.Batch.2016.1080p.BluRay.X264-AMIABLE.mkv.mp4
+
+type=video
+name=A Ghost Story (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/sD94aixD7fMAc2e9ugbv4KQprBL.jpg
+date=2017-09-19
+URL=https://openload.co/f/w4f2jlOvnrA/a.ghost.story.2017.limited.1080p.bluray.x264-drones.mkv.mp4
 
 type=video
 name=Certain Women (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -461,8 +497,6 @@ thumb=https://image.tmdb.org/t/p/w640/6mtqrfp56Xa4DS64wrqVN9AZwkS.jpg
 date=2017-08-25
 URL=https://openload.co/f/S_jHeFZBNgQ/Fun.Mom.Dinner.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 
-
-
 type=video
 name=Lowriders (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/Yt1iun7B5o5k8QlVLD8biAeKvp.jpg
@@ -499,8 +533,6 @@ thumb=https://image.tmdb.org/t/p/w640/lvihB44CMiQHqC7tvARYEjQ5Buf.jpg
 date=2017-08-19
 URL=https://openload.co/f/zRaFHRuS-Ms/Inconceivable.2017.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
 
-
-
 # 2775957
 type=video
 name=How to Be a Latin Lover (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -511,15 +543,11 @@ player=default
 rating=-1.00
 description=An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world./description
 
-
-
 type=video
 name=Your Name. (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/xq1Ugd62d23K2knRUx6xxuALTZB.jpg
 date=2017-07-28
 URL=https://openload.co/f/oJs5aOQQWMM/your.name.2016.1080p.bluray.x264-haiku.mkv.mp4
-
-
 
 type=video
 name=Wakefield (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -565,8 +593,6 @@ player=default
 rating=-1.00
 description=A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering./description
 
-
-
 # 2772899
 type=video
 name=The Carer (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -575,6 +601,7 @@ URL=https://openload.co/f/npQ2srvsvWE/The.Carer.2016.1080p.BluRay.H264.AAC-RARBG
 player=default
 rating=-1.00
 description=When the question is to be or not to be, there is only one answer./description
+
 
 
 
@@ -627,13 +654,17 @@ date=2017-09-18
 URL=https://openload.co/f/Bu2BqxOQcIw/The.Secret.Scripture.2016.720p.BluRay.x264.DTS-R23.mkv.mp4
 
 type=video
-name=Anomalous (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Anomalous (2016) [COLOR=FF00FF00]ESP BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/fDqKcjV7mRykX4rAGCPQnLsBaWK.jpg
 date=2017-09-19
 URL=https://openload.co/f/wU7g8EGDJX8/anomalous.2016.720p.bluray.x264-rusted.mkv.mp4
 
-
-
+type=video
+name=Goon: Last of the Enforcers (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR] MKV 4.4GB
+thumb=https://image.tmdb.org/t/p/w640/emio9KDrLXqqX4wXa4YTacBQXG.jpg
+date=2017-09-21
+URL=https://openload.co/f/a3OL4Fe1EkU/Goon.Last.of.the.Enforcers.2017.720p.BluRay.X264-AMIABLE.mkv
+#https://openload.co/f/Q5guXKa79Ls/Goon.Last.of.the.Enforcers.2017.720p.BluRay.X264-AMIABLE.mkv.mp4
 
 
 
@@ -1151,6 +1182,7 @@ thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
 date=2017-09-15
 URL=https://openload.co/f/menAdwUJ8js/Transformers.The.Last.Knight.2017.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
 #https://openload.co/f/jw76f78k7Ps/Transformers.The.Last.Knight.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/hHSnqmoz5G0/Transformers.The.Last.Knight.2017.1080p.BRRip.6CH.MkvCage.mkv.mp4
 type=video
 name=Transformers: The Last Knight (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
@@ -1158,18 +1190,7 @@ date=2017-09-09
 URL=https://openload.co/f/85Q3rG95g_k/Transformers%3A_The_Last_Knight_%282017%29%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA_5%3A_%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
-type=video
-name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
-date=2017-09-11
-URL=https://openload.co/f/TrMVB_NrTKQ/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-type=video
-name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
-date=2017-09-09
-URL=https://openload.co/f/3uxjuxfOr6E/Pirates_of_the_Caribbean%3A_Dead_Men_Tell_No_Tales_%282017%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%8A%E0%B8%B5%E0%B8%9E_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
-player=default
-rating=-1.00
+
 
 
 type=video
@@ -1286,9 +1307,27 @@ type=video
 name=
 thumb=
 date=2017-09-17
-URL=
+URL=https://openload.co/f/496nUfCD0j8/John.Wick.2014.RERIP.720p.BluRay.x264-SPARKS-HI.mkv
 
 
+
+
+
+
+type=video
+name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
+date=2017-09-11
+URL=https://openload.co/f/TrMVB_NrTKQ/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+type=video
+name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
+date=2017-09-21
+URL=https://openload.co/f/9Bhpb_2SwHE/Pirates_of_the_Caribbean%3A_Dead_Men_Tell_No_Tales_%282017%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%8A%E0%B8%B5%E0%B8%9E.mp4
+
+#https://storage.googleapis.com/mlk-s/asi19lo1p3/Pirates%20of%20the%20Caribbean%20Dead%20Men%20Tell%20No%20Tales%20%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%8A%E0%B8%B5%E0%B8%9E1080.MP4
+player=default
+rating=-1.00
 
 
 type=video
@@ -1332,6 +1371,8 @@ name=Unlocked (2017) TH
 thumb=http://image.tmdb.org/t/p/w500/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg
 date=2017-09-16
 URL=https://openload.co/f/_Qq84niXpYc/Unlocked_%282017%29%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%A5%E0%B8%94%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%84.mp4
+
+#https://storage.googleapis.com/mlk-s/skl9ae2qp/Unlocked%20%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%A5%E0%B8%94%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%841080.MP4
 player=default
 rating=-1.00
 description=A CIA agent is baited into a trap involving London and a biological attack./description
