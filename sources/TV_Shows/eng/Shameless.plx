@@ -68,62 +68,63 @@ URL=
 
 
 type=video
-name=S07E01___
-thumb=
+name=S07E01___Hiraeth
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/MauSPpbtIimW4jNxrif9W9rN3O.jpg
 date=2017-09-19
 URL=https://openload.co/f/8Hu1ZKUHlFo/shameless.s07e01.720p.bluray.x264-demand.mkv.mp4
 
 type=video
-name=S07E02___
-thumb=
+name=S07E02___Swipe, F**k, Leave
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/mDOM44lFoa80ZjqvwvGQNJE3uQA.jpg
 date=2017-09-19
 URL=https://openload.co/f/IZbXA7lx0lE/shameless.s07e02.720p.bluray.x264-demand.mkv.mp4
 
 type=video
-name=S07E03___
-thumb=
+name=S07E03___https://image.tmdb.org/t/p/w227_and_h127_bestv2/5awa29I3fv0YEKfGuqYFWk4ymBn.jpg
+thumb=Home Sweet Homeless Shelter
 date=2017-09-19
 URL=https://openload.co/f/o6HQ134KnPM/shameless.s07e03.720p.bluray.x264-demand.mkv.mp4
 
 type=video
-name=S07E04___
-thumb=
+name=S07E04___I Am a Storm
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/pNnqjDSwpa4SQoJaNrA0RxdCDOY.jpg
 date=2017-09-19
 URL=https://openload.co/f/Tz_I0UgMLHs/shameless.s07e04.720p.bluray.x264-demand.mkv.mp4
 
 type=video
-name=S07E05___
-thumb=
+name=S07E05___Own Your Sh*t
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/mLF6V1SVdfcISLvqqKBaGmGlGL4.jpg
 date=2017-09-19
 URL=https://openload.co/f/sIqJB1VwhLM/shameless.s07e05.720p.bluray.x264-demand.mkv.mp4
 
 type=video
-name=S07E06___
-thumb=
+name=S07E06___The Defenestration of Frank
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/s6qaHuBuHHGy5kNAHOXounKJ2Lu.jpg
 date=2017-09-19
 URL=https://openload.co/f/qhFSygXEko8/shameless.s07e06.720p.bluray.x264-demand.mkv.mp4
 
 type=video
 name=S07E07___
-thumb=
+You'll Never Ever Get a Chicken in Your Whole Entire Life
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/vOP8jy76FDyo7wzJQEulk9GA9Rj.jpg
 date=2017-09-19
 URL=https://openload.co/f/MgryvYkqgpc/shameless.s07e07.720p.bluray.x264-demand.mkv.mp4
 
 type=video
-name=S07E08___
-thumb=
+name=S07E08___You Sold Me the Laundromat, Remember?
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/kJkVZAM5LPXfYUZylyKc7KYgVIG.jpg
 date=2017-09-19
 URL=https://openload.co/f/f-ITCOLJ3oE/shameless.s07e08.720p.bluray.x264-demand.mkv.mp4
 
 type=video
-name=S07E09___
-thumb=
+name=S07E09___Ouroboros
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/9OleLwXoYcdg7qUMhrq2846SNvy.jpg
 date=2017-09-19
 URL=https://openload.co/f/56kxklyUm0U/shameless.s07e09.720p.bluray.x264-demand.mkv.mp4
 
 type=video
-name=S07E10___
-thumb=
+name=S07E10___Ride or Die
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/3svhJGDXQlr7YufF6HPKWIFoYWc.jpg
 date=2017-09-19
 URL=https://openload.co/f/trfAovrzYW4/shameless.s07e10.720p.bluray.x264-demand.mkv.mp4
 

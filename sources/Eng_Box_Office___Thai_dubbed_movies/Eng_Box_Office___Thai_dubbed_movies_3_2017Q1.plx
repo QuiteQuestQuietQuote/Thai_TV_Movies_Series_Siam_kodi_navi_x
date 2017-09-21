@@ -380,24 +380,57 @@ URL=
 
 
 
+type=video
+name=
+thumb=
+date=2017-09-21
+URL=
 
 type=video
-name=The Chessplayer (2017) [COLOR=FF00FF00]GRK BR 1080p[/COLOR] MKV 6.6GB
+name=Atomica (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/lJ92ip5XsEE2gsty1tXQfJhcWOs.jpg
+date=2017-09-21
+URL=https://openload.co/f/BEtt_CyKpx4/Atomica.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+
+type=video
+name=Berlin Syndrome (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/qvJeDDYKlfvtYayfOj5sAUXxUju.jpg
+date=2017-09-21
+URL=https://openload.co/f/lwSnQwtORlA/berlin.syndrome.2017.limited.1080p.bluray.x264-veto.mkv.mp4
+
+type=video
+name=The Chessplayer (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] MKV 6.6GB
 thumb=https://image.tmdb.org/t/p/w640/li4gwTyZAwbCR2lgxLMf2e0s7Ro.jpg
 date=2017-09-21
 URL=https://openload.co/f/dz_qlMQnZto/the.chessplayer.2017.1080p.bluray.x264-bipolar.mkv
+#https://openload.co/f/laErFS_prBk/the.chessplayer.2017.1080p.bluray.x264-bipolar.mkv.mp4
+
+type=video
+name=Goon: Last of the Enforcers (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR] MKV 4.4GB
+thumb=https://image.tmdb.org/t/p/w640/emio9KDrLXqqX4wXa4YTacBQXG.jpg
+date=2017-09-21
+URL=https://openload.co/f/a3OL4Fe1EkU/Goon.Last.of.the.Enforcers.2017.720p.BluRay.X264-AMIABLE.mkv
+#https://openload.co/f/_nzYcLqwj4Q/Goon.Last.of.the.Enforcers.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
 name=Suntan (2016) [COLOR=FF00FF00]GRK BR 1080p[/COLOR] MKV 8.7GB
 thumb=https://image.tmdb.org/t/p/w640/sAknvVkyiGssLf20k4FAZB3FUnZ.jpg
 date=2017-09-21
 URL=https://openload.co/f/pfLfVK3OgTU/suntan.2016.limited.1080p.bluray.x264-usury.mkv
+#https://openload.co/f/Nx07luZaBZY/suntan.2016.limited.1080p.bluray.x264-usury.mkv.mp4
 
 type=video
 name=Boys in the Trees (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.6GB
 thumb=https://image.tmdb.org/t/p/w640/8YJgHHHYLcHHhewWjnHoPrUFKBw.jpg
 date=2017-09-21
 URL=https://openload.co/f/7E6rfFQL164/boys.in.the.trees.2016.1080p.bluray.x264-bipolar.mkv
+#https://openload.co/f/XCBz7k5vUuU/boys.in.the.trees.2016.1080p.bluray.x264-bipolar.mkv.mp4
+
+type=video
+name=Black Snow (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/9gGGvfJIGE1g0aqqOPkqRwIlKqu.jpg
+date=2017-09-21
+URL=https://openload.co/f/VgalWj6iY4Q/black.snow.2017.1080p.bluray.x264-usury.mkv.mp4
 
 type=video
 name=Neruda (2016) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] MKV 7.9GB
@@ -663,12 +696,7 @@ thumb=https://image.tmdb.org/t/p/w640/fDqKcjV7mRykX4rAGCPQnLsBaWK.jpg
 date=2017-09-19
 URL=https://openload.co/f/wU7g8EGDJX8/anomalous.2016.720p.bluray.x264-rusted.mkv.mp4
 
-type=video
-name=Goon: Last of the Enforcers (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR] MKV 4.4GB
-thumb=https://image.tmdb.org/t/p/w640/emio9KDrLXqqX4wXa4YTacBQXG.jpg
-date=2017-09-21
-URL=https://openload.co/f/a3OL4Fe1EkU/Goon.Last.of.the.Enforcers.2017.720p.BluRay.X264-AMIABLE.mkv
-#https://openload.co/f/Q5guXKa79Ls/Goon.Last.of.the.Enforcers.2017.720p.BluRay.X264-AMIABLE.mkv.mp4
+
 
 
 
@@ -1194,9 +1222,6 @@ date=2017-09-09
 URL=https://openload.co/f/85Q3rG95g_k/Transformers%3A_The_Last_Knight_%282017%29%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA_5%3A_%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
-
-
-
 type=video
 name=2:22 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
@@ -1207,6 +1232,18 @@ name=2:22 (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
 date=2017-07-02
 URL=https://openload.co/f/ExI4z1WHPU8/2.22.2017.1080p.WEB-DL.DD5.1.H264.ThaIRonG-CpT.mkv.mp4
+
+
+type=video
+name=Revolt (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg
+date=2017-09-21
+URL=https://openload.co/f/5Mf1pnovBYY/Revolt.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+type=video
+name=Revolt (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg
+date=2017-07-29
+URL=https://openload.co/f/a12f7DHdFHk/Revolt_%282017%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95.mp4
 
 
 type=video
@@ -1238,11 +1275,6 @@ URL=https://openload.co/f/X5eV80ZRVTA/WuKong.2017.2160p.4K.WEB-DL.H264.AC-3.Thai
 
 
 
-type=video
-name=Revolt (2017) CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg
-date=2017-07-29
-URL=https://openload.co/f/a12f7DHdFHk/Revolt_%282017%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95.mp4
 
 
 
@@ -1305,19 +1337,19 @@ type=video
 name=
 thumb=
 date=2017-09-14
-URL=https://drive.google.com/uc?export=download&confirm=Euvf&id=0B0eGmzzxUPrCY19SbklVMWg2anc
+URL=
 
 type=video
 name=
 thumb=
 date=2017-09-17
-URL=https://drive.google.com/uc?id=0B0eGmzzxUPrCY19SbklVMWg2anc&export=download
+URL=
 
 type=video
 name=
 thumb=
 date=2017-09-14
-URL=https://storage.googleapis.com/newmovie-th/907424.MP4
+URL=
 
 type=video
 name=
@@ -1337,7 +1369,7 @@ type=video
 name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
 date=2017-09-21
-URL=https://openload.co/f/9Bhpb_2SwHE/Pirates_of_the_Caribbean%3A_Dead_Men_Tell_No_Tales_%282017%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%8A%E0%B8%B5%E0%B8%9E.mp4
+URL=https://openload.co/f/ofgjEruuyeQ/Pirates_of_the_Caribbean%3A_Dead_Men_Tell_No_Tales_%282017%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%8A%E0%B8%B5%E0%B8%9E.mp4
 
 #https://storage.googleapis.com/mlk-s/asi19lo1p3/Pirates%20of%20the%20Caribbean%20Dead%20Men%20Tell%20No%20Tales%20%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%8A%E0%B8%B5%E0%B8%9E1080.MP4
 player=default
