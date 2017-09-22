@@ -77,6 +77,12 @@ date=2017-09-07
 URL=http://entervideo.net/watch/240448923d3fecf
 
 type=video
+name=The Glass Castle (2017) ENG HDCAM.x264_DiRG
+thumb=https://image.tmdb.org/t/p/w640/d5fLQ9ZMa1jZ2mODCv5lOWJDugX.jpg
+date=2017-09-22
+URL=https://openload.co/f/ZW5PgG3496M/The.Glass.Castle.2017.HDCAM.x264_DiRG.mp4
+
+type=video
 name=Logan Lucky (2017) ENG TS.x264-CPG
 thumb=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
 date=2017-09-07
@@ -119,11 +125,7 @@ date=2017-09-19
 URL=https://openload.co/f/4JeAAEyQ7Cg/Negative.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 
-type=video
-name=The Glass Castle (2017) ENG HDCAM.x264_DiRG
-thumb=https://image.tmdb.org/t/p/w640/d5fLQ9ZMa1jZ2mODCv5lOWJDugX.jpg
-date=2017-09-22
-URL=https://openload.co/f/ZW5PgG3496M/The.Glass.Castle.2017.HDCAM.x264_DiRG.mp4
+
 
 type=video
 name=Killing Gunther (2017) ENG HDRip.XviD.AC3-EVO
@@ -1417,10 +1419,11 @@ date=2017-09-11
 URL=https://openload.co/f/TrMVB_NrTKQ/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/KAHOHUCq_WY/Pirates_Of_The_Caribbean_Dead_Men_Tell_No_Tales_2017_1080p_BluRay_x264-%5BYTS_AG%5D_mp4
 type=video
-name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) TH
+name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) [COLOR=FF00FF00]TH-ENG MKV 3.3GB[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
 date=2017-09-21
-URL=https://openload.co/f/ofgjEruuyeQ/Pirates_of_the_Caribbean%3A_Dead_Men_Tell_No_Tales_%282017%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%8A%E0%B8%B5%E0%B8%9E.mp4
+URL=https://openload.co/f/YAWO89G0XBQ/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.1080p.BluRay.H264.TH.iTunes_hdfile4you.clubhd4you.net.mkv
+#https://openload.co/f/ofgjEruuyeQ/Pirates_of_the_Caribbean%3A_Dead_Men_Tell_No_Tales_%282017%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%8A%E0%B8%B5%E0%B8%9E.mp4
 
 #https://storage.googleapis.com/mlk-s/asi19lo1p3/Pirates%20of%20the%20Caribbean%20Dead%20Men%20Tell%20No%20Tales%20%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%8A%E0%B8%B5%E0%B8%9E1080.MP4
 player=default
@@ -1505,10 +1508,11 @@ player=default
 rating=-1.00
 description=The Zookeeper's Wife tells the account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion./description
 type=video
-name=The Zookeeper's Wife (2017) TH
+name=The Zookeeper's Wife (2017) [COLOR=FF00FF00]TH-ENG MKV 3.9GB[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/cCQKccGZsfRSBHy4xEhDlS73OS2.jpg
 date=2017-09-08
-URL=https://openload.co/f/m8tt8lF26Uw/The_Zookeeper%27s_Wife_%282017%29%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1_%E0%B8%81%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4.mp4
+URL=https://openload.co/f/ZvdxKbOum7I/The_Zookeeper%27s_Wife_2017-1080p-BrRip-DTS-x264.mkv
+#https://openload.co/f/m8tt8lF26Uw/The_Zookeeper%27s_Wife_%282017%29%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1_%E0%B8%81%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4.mp4
 
 
 type=video

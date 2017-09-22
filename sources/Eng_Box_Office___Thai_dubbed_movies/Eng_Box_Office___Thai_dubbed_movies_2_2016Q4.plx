@@ -317,6 +317,12 @@ URL=https://openload.co/f/8LU_6LzP_RQ/Suddenly_Twenty_%282016%29_DVDRip.CtHts_-_
 player=default
 rating=-1.00
 
+type=video
+name=John Wick (2014) [COLOR=FF00FF00]TH-ENG MKV 1.8GB[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/5vHssUeVe25bMrof1HyaPyWgaP.jpg
+date=2017-09-22
+URL=https://openload.co/f/496nUfCD0j8/John.Wick.2014.RERIP.720p.BluRay.x264-SPARKS-HI.mkv
+
 
 type=video
 name=John Wick: Chapter 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
