@@ -26,7 +26,7 @@ rating=-1.00
 
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies_4_2017Q2
-thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
+thumb=http://image.tmdb.org/t/p/w500/aoUyphk4nwffrwlZRaOa0eijgpr.jpg
 date=2017-09-22
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_4_2017Q2.plx
 player=default
@@ -34,7 +34,7 @@ rating=-1.00
 
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies_3_2017Q1
-thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
+thumb=http://image.tmdb.org/t/p/w500/iMkl2Akc1f4CSJCieVwczM4KjZR.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_3_2017Q1.plx
 player=default
 rating=-1.00
