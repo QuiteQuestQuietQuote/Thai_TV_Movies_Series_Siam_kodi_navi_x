@@ -12,27 +12,11 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
-
 type=video
-name=movie1
-thumb=http://www.thaiptv.com/img/movie1logo.png
-URL=rtmp://tv01.thaizatv.com/drm/movie1
-player=default
-rating=-1.00
-
-type=video
-name=movie2
-thumb=http://www.thaiptv.com/img/movie2logo.png
-URL=http://123.108.164.71/etv2sb/phd8/playlist.m3u8
-player=default
-rating=-1.00
-
-type=video
-name=movie3
-thumb=http://www.thaiptv.com/img/movie3logo.png
-URL=http://27.131.166.195:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-player=default
-rating=-1.00
+name=HBO HD (TH)
+thumb=https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png
+date=2017-09-22
+URL=http://footballmetro.myftp.org:1935/live4/0x222_ais_hbohdth_720p/chunklist.m3u8
 
 type=video
 name=movie1
@@ -49,9 +33,32 @@ player=default
 rating=-1.00
 
 type=video
+name=movie3
+thumb=http://www.thaiptv.com/img/movie3logo.png
+URL=http://27.131.166.195:1935/live/_definst_/movie3.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+player=default
+rating=-1.00
+
+type=video
 name=4Kmovie
 thumb=http://www.thaiptv.com/img/movie3logo.png
 URL=http://27.131.166.195:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+player=default
+rating=-1.00
+
+
+
+type=video
+name=movie1
+thumb=http://www.thaiptv.com/img/movie1logo.png
+URL=rtmp://tv01.thaizatv.com/drm/movie1
+player=default
+rating=-1.00
+
+type=video
+name=movie2
+thumb=http://www.thaiptv.com/img/movie2logo.png
+URL=http://123.108.164.71/etv2sb/phd8/playlist.m3u8
 player=default
 rating=-1.00
 
@@ -62,7 +69,6 @@ thumb=http://www.thaiptv.com/img/fxth.png
 URL=rtmp://tv02.thaizatv.com/drm/ft
 player=default
 rating=-1.00
-
 
 
 

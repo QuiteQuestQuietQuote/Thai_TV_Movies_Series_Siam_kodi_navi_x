@@ -74,10 +74,10 @@ description=Susan Morrow receives a book manuscript from her ex-husband Ã??Ã?Â¢?
 
 # 2771673
 type=video
-name=Thai__________________Thai-----HBO HD
+name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
 thumb=https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png
-date=2017-09-17
-URL=http://183.88.212.205:8010/play/a00u
+date=2017-09-22
+URL=http://footballmetro.myftp.org:1935/live4/0x222_ais_hbohdth_720p/chunklist.m3u8
 player=default
 rating=-1.00
 

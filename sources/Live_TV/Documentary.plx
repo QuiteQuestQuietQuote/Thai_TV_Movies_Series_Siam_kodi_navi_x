@@ -41,6 +41,47 @@ URL=http://183.88.212.205:8010/play/a02x
 
 
 
+type=video
+name=samrujlok
+thumb=
+date=2017-09-22
+URL=http://footballmetro.myftp.org:1935/live2/0x777_samrujlok_720p/chunklist.m3u8
+
+type=video
+name=h2
+thumb=
+date=2017-09-22
+URL=http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_h2hd_720p/chunklist.m3u8
+
+type=video
+name=Discovery Channel
+thumb=
+date=2017-09-22
+URL=http://rjutoung.myvnc.com:1935/ballsod365-2/00_dischannel_480p/chunklist.m3u8
+
+type=video
+name=National Geographic Wild
+thumb=
+date=2017-09-22
+URL=http://rjutoung.myvnc.com:1935/ballsod365-3/0x222_natgeowild_720p/chunklist.m3u8
+
+type=video
+name=National Geographic
+thumb=
+date=2017-09-22
+URL=http://rjutoung.myvnc.com:1935/ballsod365-3/0x222_natgeographic_720p/chunklist.m3u8
+
+type=video
+name=Animal Planet
+thumb=
+date=2017-09-22
+URL=http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_animalplanet_720p/chunklist.m3u8
+
+type=video
+name=mysci 
+thumb=
+date=2017-09-22
+URL=http://rjutoung.myvnc.com:1935/ballsod365-2/0x222_mysci_720p/chunklist.m3u8
 
 
 
