@@ -64,6 +64,19 @@ URL=
 
 
 
+type=video
+name=131xxxxxxxxxxxxxxxxxxxxMXGS-991 Confidential Trainer Studio Studio Kawase Nana
+thumb=https://4.bp.blogspot.com/-EXZb_QGdLIE/WcBwXoWpL0I/AAAAAAAAOoE/jxL7gkWlxkAKvhmDZs9Ho9IUErkgiTIIgCLcBGAs/s1600/Screenshot_1.png
+date=2017-09-22
+URL=https://streamango.com/f/dcprnarsrmpepnml/MXGS-991_Confidential_Trainer_Studio_Studio_Kawase_Nana_mp4
+
+type=video
+name=MXGS-977 Akane Ueno (Natsukina) Naked Shameful Pleasantly Piku
+thumb=https://4.bp.blogspot.com/-wsp2wVapNMY/WcBuc0UcDFI/AAAAAAAAOn4/QfYs262W7zwnwinctChg73BAkrPccMauQCLcBGAs/s1600/Screenshot_2.png
+date=2017-09-22
+URL=https://streamango.com/f/blrblpotlnqonebb/MXGS-977_Akane_Ueno_Natsukina_Naked_Shameful_Pleasantly_Piku_mp4
+
+
 
 
 type=video
