@@ -1343,7 +1343,20 @@ date=2017-07-29
 URL=https://openload.co/f/a12f7DHdFHk/Revolt_%282017%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95.mp4
 
 
-
+type=video
+name=Smurfs: The Lost Village (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/swt9crREg1UcKgg3wGWfoFNlXOz.jpg
+date=2017-09-24
+URL=https://openload.co/f/nx6qwgwCPMc/Smurfs%3A_The_Lost_Village_%282017%29_1080p_BluRay.mp4
+# 2772625
+type=video
+name=Smurfs: The Lost Village (2017) TH CAM SOUND
+thumb=http://image.tmdb.org/t/p/w500/swt9crREg1UcKgg3wGWfoFNlXOz.jpg
+date=2017-06-25
+URL=https://openload.co/f/GD-axLA90Aw/Smurfs.The.Lost.Village.2017.1080p.WEB-DL.DD5.1.H264.THR-CpT.mkv.mp4
+player=default
+rating=-1.00
+description=In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history./description
 
 
 
@@ -1385,16 +1398,6 @@ URL=https://openload.co/f/X5eV80ZRVTA/WuKong.2017.2160p.4K.WEB-DL.H264.AC-3.Thai
 
 
 
-
-# 2772625
-type=video
-name=Smurfs: The Lost Village (2017) CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/swt9crREg1UcKgg3wGWfoFNlXOz.jpg
-date=2017-06-25
-URL=https://openload.co/f/GD-axLA90Aw/Smurfs.The.Lost.Village.2017.1080p.WEB-DL.DD5.1.H264.THR-CpT.mkv.mp4
-player=default
-rating=-1.00
-description=In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history./description
 
 
 
@@ -1462,6 +1465,19 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+# 187
 type=video
 name=A Silent Voice (2016)
 thumb=https://image.tmdb.org/t/p/w640/9GHOlikofBgnm7OS2VpUQ8TqZU2.jpg
