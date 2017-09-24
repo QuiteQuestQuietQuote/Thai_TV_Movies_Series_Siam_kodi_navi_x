@@ -48,7 +48,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-09-23
+date=2017-09-24
 URL=
 
 
@@ -71,16 +71,14 @@ date=2017-09-23
 URL=https://openload.co/f/QwTjdJVfbvA/Mother.2017.Russian.CAMRip.1400MB-KOSHARA.avi.mp4
 
 type=video
-name=American Assassin (2017) RUS
-thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
-date=2017-09-22
-URL=https://openload.co/f/ca3xtgJ_mNU/American_Assassin_2017_HDCAM_AC3_Xvid_-_Koshara_avi_mp4
-
-type=video
 name=Tulip Fever (2017) RUS
 thumb=https://image.tmdb.org/t/p/w640/lmfop4zLqFWFTkKSYp7V5jgeM6I.jpg
 date=2017-09-07
 URL=http://entervideo.net/watch/240448923d3fecf
+
+
+
+
 
 type=video
 name=The Glass Castle (2017) ENG HDCAM.x264_DiRG
@@ -113,6 +111,37 @@ date=2017-09-01
 URL=https://openload.co/f/Y8BolCrhh4U/The.Layover.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
+name=Gun Shy (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/aHKB8RiVn2OV0cowYtwzAmHznuD.jpg
+date=2017-09-08
+URL=https://openload.co/f/orjREu8pqr4/Gun.Shy.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=Rememory (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/1PUlg2uuPtVPUVB5GE5D4ihaMku.jpg
+date=2017-08-25
+URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+
+
+
+
+
+
+
+type=video
+name=Andy's Rainbow (2016) ENG WEBRip.x264-iNTENSO
+thumb=https://image.tmdb.org/t/p/w640/e6vk1wzFD3acJ3qpsAHTI6tH3Pg.jpg
+date=2017-09-24
+URL=https://openload.co/f/rQWFrau4Bz8/Andys.Rainbow.2016.1080p.WEBRip.x264-iNTENSO.mkv.mp4
+
+type=video
+name=Cult of Chucky (2017) ENG UNRATED.DVDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/6IGI6CADqcvl8qhPt2irsqCQPcZ.jpg
+date=2017-09-24
+URL=https://openload.co/f/YWxNJjlAbYg/Cult.of.Chucky.2017.UNRATED.DVDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
 name=This Is Your Death (2017) ENG WEB-DL_H264_AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/bnWRHX8ZVqUTKj3YXL9B67DSven.jpg
 date=2017-09-15
@@ -129,9 +158,6 @@ name=Negative (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/hfrkWkCa5ARASkxE8pgQvFT6MHJ.jpg
 date=2017-09-19
 URL=https://openload.co/f/4JeAAEyQ7Cg/Negative.2017.HDRip.XviD.AC3-EVO.avi.mp4
-
-
-
 
 type=video
 name=Killing Gunther (2017) ENG HDRip.XviD.AC3-EVO
@@ -194,12 +220,6 @@ date=2017-09-08
 URL=https://openload.co/f/VV_62-EgYsk/Paris.Can.Wait.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
-name=Gun Shy (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/aHKB8RiVn2OV0cowYtwzAmHznuD.jpg
-date=2017-09-08
-URL=https://openload.co/f/orjREu8pqr4/Gun.Shy.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
-
-type=video
 name=The Limehouse Golem (2017) ENG WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/xB1AFa4iLU9KGxlrVbfH2uIJeck.jpg
 date=2017-09-08
@@ -253,6 +273,10 @@ thumb=https://image.tmdb.org/t/p/w640/wIqS9wHCWd76T7q7CxsWtKwcYa9.jpg
 date=2017-09-05
 URL=https://openload.co/f/koyCk1BiUcw/Residue.2017.HDRip.XviD.AC3-iFT.avi.mp4
 
+
+
+
+
 type=video
 name=Rogue Warrior: Robot Fighter (2017) ENG DVDRip.x264-PSYCHD
 thumb=https://image.tmdb.org/t/p/w640/dCVzSIcG27eI5VrH4s2JNIgPEat.jpg
@@ -266,12 +290,6 @@ date=2017-08-25
 URL=https://openload.co/f/hEe55YrjiTM/DN.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
-name=Rememory (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/1PUlg2uuPtVPUVB5GE5D4ihaMku.jpg
-date=2017-08-25
-URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
-
-type=video
 name=Deep (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/14mEMC6rRNedvaz1d5sfLX8uRGt.jpg
 date=2017-08-25
@@ -283,15 +301,11 @@ thumb=https://image.tmdb.org/t/p/w640/fk7xQMvfsEoIDhzsfAg8yDFRasf.jpg
 date=2017-08-25
 URL=https://openload.co/f/f3gwH7ze0BA/Unleashed.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-
-
 type=video
 name=Detroit (2017) ENG CAM.x264-THESTiG
 thumb=https://image.tmdb.org/t/p/w640/7APLVpsGzXPJw16ZuBtXICxq8B9.jpg
 date=2017-08-21
 URL=https://openload.co/f/-k0NTJi1-Hk/Detroit.2017.CAM.x264-THESTiG.mkv.mp4
-
-
 
 type=video
 name=Girls Trip (2017) ENG NEW.HD-TS.x264-CPG
@@ -309,13 +323,12 @@ thumb=https://image.tmdb.org/t/p/w640/62oRA7ghxL9HGFHe5Dd9IVljyKi.jpg
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
-
-
 type=video
 name=The House (2017) ENG WEB-DL_DD5.1_H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/hkmWkVgirei79bwds23Hr0lWSXS.jpg
 date=2017-09-12
 URL=https://openload.co/f/Ka9fxqpoh4M/The_House_2017_1080p_WEB-DL_DD5.1_H264-FGT.mp4
+
 
 
 
@@ -332,8 +345,6 @@ URL=https://openload.co/f/hh1wAlGbkH8/Free.Fire.2016.BRRip.XviD.AC3-RARBG.avi.mp
 player=default
 rating=-1.00
 description=A crime drama set in 1970s Boston, about a gun sale which goes wrong./description
-
-
 
 type=video
 name=Camera Store (2016) ENG
@@ -429,7 +440,11 @@ thumb=
 date=2017-09-21
 URL=
 
-
+type=video
+name=
+thumb=
+date=2017-09-24
+URL=
 
 
 
@@ -437,10 +452,10 @@ URL=
 
 
 type=video
-name=
-thumb=
-date=2017-09-23
-URL=
+name=The Wizard of Lies (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 9.8GB
+thumb=https://image.tmdb.org/t/p/w640/8k4lJ4e0hvDQtKpItXmmPdw69sO.jpg
+date=2017-09-24
+URL=https://openload.co/f/syfvv9fbGCA/The.Wizard.of.Lies.2017.1080p.BluRay.x264-ROVERS.mkv
 
 type=video
 name=The Book of Henry (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -571,6 +586,10 @@ thumb=https://image.tmdb.org/t/p/w640/1cg6oZo7C7iqYTZgbfOvscAFiP2.jpg
 date=2017-09-01
 URL=https://openload.co/f/Xbx1YMzEBN8/Mindhorn.2016.1080p.BluRay.X264-AMIABLE.mkv
 
+
+
+
+
 type=video
 name=Dead Again In Tombstone (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.7GB
 thumb=https://image.tmdb.org/t/p/w640/o6lEhEhSOdm0ku4I6h1do2KvBUi.jpg
@@ -635,6 +654,10 @@ player=default
 rating=-1.00
 description=An aging Latin lover gets dumped by his sugar mama and must fend for himself in a harsh world./description
 
+
+
+
+
 type=video
 name=Your Name. (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/xq1Ugd62d23K2knRUx6xxuALTZB.jpg
@@ -664,6 +687,17 @@ name=Descendants 2 (2017) [COLOR=FF00FF00]ENG WEB 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/7TLywOVzWwU1GMyqdjUiSVzBiyc.jpg
 date=2017-07-23
 URL=https://openload.co/f/1K1feEMp76Y/D-e-s-c-e-n-d-a-n-t-s.2.2017.1080p.AMZN.WEBRip.DDP5.1.x264-TVSmash.mkv.mp4
+
+# 2773804
+type=video
+name=The Lost City of Z (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/ik3ebv7J18fs6cHkmu91oxz7EGt.jpg
+date=2017-09-24
+URL=https://openload.co/f/BPvff0R6GLU/The_Lost_City_of_Z_%282017%29_1080p_BluRay.mp4
+#https://openload.co/f/3WQUxlmpcTE/The.Lost.City.of.Z.2016.720p.BluRay.x264-GECKOS.mkv.mp4
+player=default
+rating=-1.00
+description=A true-life drama, centering on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s./description
 
 # 2773803
 type=video
@@ -699,15 +733,8 @@ description=When the question is to be or not to be, there is only one answer./d
 
 
 
-# 2773804
-type=video
-name=The Lost City of Z (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=http://image.tmdb.org/t/p/w500/ik3ebv7J18fs6cHkmu91oxz7EGt.jpg
-date=2017-07-01
-URL=https://openload.co/f/3WQUxlmpcTE/The.Lost.City.of.Z.2016.720p.BluRay.x264-GECKOS.mkv.mp4
-player=default
-rating=-1.00
-description=A true-life drama, centering on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s./description
+
+
 
 type=video
 name=Raw (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
@@ -787,7 +814,16 @@ URL=
 
 
 
-
+type=video
+name=American Assassin (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
+date=2017-09-22
+URL=https://openload.co/f/ca3xtgJ_mNU/American_Assassin_2017_HDCAM_AC3_Xvid_-_Koshara_avi_mp4
+type=video
+name=American Assassin (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
+date=2017-09-24
+URL=https://openload.co/f/Elw1WEIapq8/American_Assassin_%282017%29%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%86%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
 type=video
@@ -898,9 +934,6 @@ date=2017-07-23
 URL=https://openload.co/f/8LT6eSrfw0U/Spider-Man_Homecoming_2017.mkv.mp4
 
 
-
-
-
 type=video
 name=Cars 3 (2017) ENG updated TC
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
@@ -922,7 +955,11 @@ URL=https://player.vimeo.com/video/229810745
 
 
 
-
+type=video
+name=Birth of the Dragon (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/y29CEE9oukwhNT6INWVEOaINHpR.jpg
+date=2017-09-24
+URL=https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B8%8B%E0%B8%A5%E0%B8%B5_%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 type=video
 name=Overdrive (2017) TH TS
@@ -1151,7 +1188,7 @@ type=video
 name=
 thumb=
 date=2017-09-17
-URL=http://ouo.io/YFrCym
+URL=
 
 
 
@@ -1306,6 +1343,16 @@ date=2017-07-29
 URL=https://openload.co/f/a12f7DHdFHk/Revolt_%282017%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95.mp4
 
 
+
+
+
+
+
+
+
+
+
+
 type=video
 name=Sword Art Online The Movie: Ordinal Scale (2017) TH CAM SOUND
 thumb=http://image.tmdb.org/t/p/w500/7KHY9NbwDxjMiGQq8XodLzZdltZ.jpg
@@ -1349,12 +1396,7 @@ player=default
 rating=-1.00
 description=In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history./description
 
-type=video
-name=A Silent Voice (2016) CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/9GHOlikofBgnm7OS2VpUQ8TqZU2.jpg
-URL=https://openload.co/f/WTUKXYuOK38/%5BT%5DKoe_no_katachi_2016
-player=default
-rating=-1.00
+
 
 # 2773692
 type=video
@@ -1419,6 +1461,14 @@ URL=
 
 
 
+
+type=video
+name=A Silent Voice (2016)
+thumb=https://image.tmdb.org/t/p/w640/9GHOlikofBgnm7OS2VpUQ8TqZU2.jpg
+date=2017-09-24
+URL=https://openload.co/f/FJlEJnoDSV8/A_Silent_Voice_%282016%29%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87.mp4
+player=default
+rating=-1.00
 
 type=video
 name=Fabricated City (2017)
