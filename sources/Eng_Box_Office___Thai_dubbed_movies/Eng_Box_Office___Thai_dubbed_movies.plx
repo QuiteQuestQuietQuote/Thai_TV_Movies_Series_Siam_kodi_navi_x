@@ -206,40 +206,123 @@ URL=http://183.88.212.205:8010/play/a02e
 
 
 
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=2017-09-25
+URL=
 
 
 
 
 
 
+type=video
+name=UPMOVIE
+thumb=
+URL=http://27.131.166.195:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
+type=video
+name=MOVIE1
+thumb=
+URL=http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+
+type=video
+name=MOVIE2
+thumb=
+URL=http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+
+type=video
+name=MOVIE3
+thumb=
+URL=http://27.131.166.195:1935/live/_definst_/movie3.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+
+type=video
+name=HBO Signature 
+thumb=
+URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbosignature_720p/chunklist.m3u8
 
 type=video
 name=HBO HD
-URL=http://iptvthailand.dyndns.biz/dode/hbohd.stream/playlist.m3u8
+thumb=
+URL=http://footballmetro.myftp.org:1935/live4/0x222_ais_hbohdth_720p/chunklist.m3u8
+
 type=video
-name=HBO hits
-URL=http://iptvthailand.dyndns.biz/dode/hbohits.stream/playlist.m3u8
+name=HBO Family
+thumb=
+URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbofam_720p/chunklist.m3u8
+
 type=video
-name=HBO signature
-URL=http://iptvthailand.dyndns.biz/dode/hbosig.stream/playlist.m3u8
+name=HBO Hits
+thumb=
+URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbohit_720p/chunklist.m3u8
+
 type=video
-name=HBO family
-URL=http://iptvthailand.dyndns.biz/dode/hbofam.stream/playlist.m3u8
+name=HISTORY
+thumb=
+URL=http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_historyhd_720p/chunklist.m3u8
 
 type=video
 name=Cinemax
-URL=http://iptvthailand.dyndns.biz/dode/cinemax.stream/playlist.m3u8
+thumb=
+URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_cinemax_720p/chunklist.m3u8
 
 type=video
-name=FOX movies
-URL=http://iptvthailand.dyndns.biz/dode/foxpremium.stream/playlist.m3u8
+name=Fox Fa MovHD 
+thumb=
+URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_foxfamth_720p/chunklist.m3u8
+
 type=video
-name=FOX action movies
-URL=http://iptvthailand.dyndns.biz/dode/foxaction.stream/playlist.m3u8
+name=Fox Ac Mov HD
+thumb=
+URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_foxactionmovieth_720p/chunklist.m3u8
+
 type=video
-name=FOX family
-URL=http://iptvthailand.dyndns.biz/dode/foxfamily.stream/playlist.m3u8
+name=Fox Mov Pre HD 
+thumb=
+URL=http://footballmetro.myftp.org:1935/live4/0x222_ais_foxpremiumth_720p/chunklist.m3u8
+
+type=video
+name=Fox Crime
+thumb=
+URL=http://rjutoung.myvnc.com:1935/ballsod365-3/0x222_foxcrimehdthai_720p/chunklist.m3u8
+
+type=video
+name=FX
+thumb=
+URL=http://footballmetro.myftp.org:1935/live3/0x222_fxthailand_720p/chunklist.m3u8  
+
+type=video
+name=FOX Thai
+thumb=
+URL=http://footballmetro.myftp.org:1935/live1/00_foxthai_480p/chunklist.m3u8
+
+type=video
+name=Starworld
+thumb=
+URL=http://footballmetro.myftp.org:1935/live3/0x222_starworldhdthai_720p/chunklist.m3u8
+
+type=video
+name=Warner TV
+thumb=
+URL=http://footballmetro.myftp.org:1935/live3/0x777_warnertv_720p/chunklist.m3u8
+
+type=video
+name=Doonee HD
+thumb=
+URL=http://footballmetro.myftp.org:1935/live4/0x222_ais_doonee_720p/chunklist.m3u8
+
+
 
 
 

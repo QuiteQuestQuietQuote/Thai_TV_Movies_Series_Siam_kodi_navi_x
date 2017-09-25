@@ -41,6 +41,121 @@ URL=http://183.88.212.205:8010/play/a02x
 
 
 
+
+
+
+
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=2017-09-25
+URL=
+
+
+
+type=video
+name=samrujlok
+thumb=
+URL=http://footballmetro.myftp.org:1935/live2/0x777_samrujlok_720p/chunklist.m3u8
+
+type=video
+name=H2
+thumb=
+URL=http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_h2hd_720p/chunklist.m3u8
+
+type=video
+name=AXN
+thumb=
+URL=http://footballmetro.myftp.org:1935/live2/0x777_axnhd_720p/chunklist.m3u8
+
+type=video
+name=Discovery Channel
+thumb=
+URL=http://rjutoung.myvnc.com:1935/ballsod365-2/00_dischannel_480p/chunklist.m3u8
+
+type=video
+name=Discovery Science
+thumb=
+URL=http://footballmetro.myftp.org:1935/live2/0x777_dissci_720p/chunklist.m3u8
+
+type=video
+name=Discovery Asia
+thumb=
+URL=http://footballmetro.myftp.org:1935/live2/0x777_discoveryworldhd_720p/chunklist.m3u8
+
+type=video
+name=National Geo Wild
+thumb=
+URL=http://rjutoung.myvnc.com:1935/ballsod365-3/0x222_natgeowild_720p/chunklist.m3u8
+
+type=video
+name=National Geographic
+thumb=
+URL=http://rjutoung.myvnc.com:1935/ballsod365-3/0x222_natgeographic_720p/chunklist.m3u8
+
+type=video
+name=National Geo People
+thumb=
+URL=http://footballmetro.myftp.org:1935/live3/0x222_natgeopeople_720p/chunklist.m3u8
+
+type=video
+name=Animal Planet
+thumb=
+URL=http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_animalplanet_720p/chunklist.m3u8
+
+type=video
+name=mysci 
+thumb=
+URL=http://rjutoung.myvnc.com:1935/ballsod365-2/0x222_mysci_720p/chunklist.m3u8
+
+type=video
+name=BBC Life Style
+thumb=
+URL=http://footballmetro.myftp.org:1935/live2/0x222_lifestylehd_720p/chunklist.m3u8
+
+type=video
+name=FYI
+thumb=
+URL=http://footballmetro.myftp.org:1935/live3/0x222_fyihdthai_720p/chunklist.m3u8
+
+type=video
+name=HISTORY
+thumb=
+URL=http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_historyhd_720p/chunklist.m3u8
+
+
+
+
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+
+
+
+
+
 type=video
 name=samrujlok
 thumb=
@@ -82,6 +197,32 @@ name=mysci
 thumb=
 date=2017-09-22
 URL=http://rjutoung.myvnc.com:1935/ballsod365-2/0x222_mysci_720p/chunklist.m3u8
+
+
+
+
+
+
+
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+
+
+
+
 
 
 
