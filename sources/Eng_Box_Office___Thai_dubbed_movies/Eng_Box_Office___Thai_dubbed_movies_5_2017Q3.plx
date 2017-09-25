@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
+background=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_5_2017Q3
-logo=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
+logo=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, sockshare, fmovies, nanamovies./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
+thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -48,7 +48,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-09-24
+date=2017-09-25
 URL=
 
 
@@ -58,17 +58,26 @@ URL=
 
 
 
-type=video
-name=Kingsman: The Golden Circle (2017) RUS
-thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
-date=2017-09-22
-URL=https://openload.co/f/G3HIxvrCqIQ/KingsmaNN_2O17_D_TS_14OOMB_KOSHARA_avi_mp4
+
 
 type=video
-name=mother! (2017) RUS
+name=American Made (2017) LAT
+thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
+date=2017-09-25
+URL=https://openload.co/f/xg7Qk9uKKac/American_Made.CAM_LATINO.mp4
+
+type=video
+name=The LEGO Ninjago Movie (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
+date=2017-09-25
+URL=https://openload.co/f/WQ05MivPxqg/The.LEGO.Ninjago.Movie.2O17.TS.72Op.Russian.mp4
+
+type=video
+name=mother! (2017) RUS-CHN
 thumb=https://image.tmdb.org/t/p/w640/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
-date=2017-09-23
-URL=https://openload.co/f/QwTjdJVfbvA/Mother.2017.Russian.CAMRip.1400MB-KOSHARA.avi.mp4
+date=2017-09-25
+URL=https://openload.co/f/7MKxUW-ShH8/Mother_2017_TS_720P_Mandarin_.mp4
+#https://openload.co/f/QwTjdJVfbvA/Mother.2017.Russian.CAMRip.1400MB-KOSHARA.avi.mp4
 
 type=video
 name=Tulip Fever (2017) RUS
@@ -77,7 +86,11 @@ date=2017-09-07
 URL=http://entervideo.net/watch/240448923d3fecf
 
 
-
+type=video
+name=
+thumb=
+date=2017-09-25
+URL=
 
 
 type=video
@@ -128,6 +141,13 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 
 
+
+
+type=video
+name=The Child in Time (2017) ENG hdtv.h264-mtb
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BZTM4NjJmNDUtMGQyNC00ZWRjLWIxMGYtMzk1NTcwZTNlNDgzXkEyXkFqcGdeQXVyNzg0NzA2ODQ@._V1_SY1000_SX1000_AL_.jpg
+date=2017-09-25
+URL=https://openload.co/f/bPny44tZekE/the.child.in.time.2017.1080p.hdtv.h264-mtb.mkv.mp4
 
 type=video
 name=Andy's Rainbow (2016) ENG WEBRip.x264-iNTENSO
@@ -331,7 +351,11 @@ URL=https://openload.co/f/Ka9fxqpoh4M/The_House_2017_1080p_WEB-DL_DD5.1_H264-FGT
 
 
 
-
+type=video
+name=
+thumb=
+date=2017-09-25
+URL=
 
 
 
@@ -414,16 +438,6 @@ URL=https://openload.co/f/phEBgPTbT-Y/Diamond_Cartel_2017_HDRip_%5BLayar-21.com%
 player=default
 rating=-1.00
 
-# 2771289
-type=video
-name=A Few Less Men (2016) ENG updated BR
-thumb=http://image.tmdb.org/t/p/w500/2lHgTf34cY77coqg2F4Pxu3zjFa.jpg
-date=2017-06-28
-URL=https://openload.co/f/rlrojL37jg4/pfa-a.few.less.men.720p.mkv.mp4
-player=default
-rating=-1.00
-description=Travel plans for three men in ill-fitting wedding tuxedos goes horribly wrong. A follow-up to the 2011 comedy 'A Few Best Men'./description
-
 type=video
 name=Free State of Jones (2016) ENG BR
 thumb=https://image.tmdb.org/t/p/w640/sxutq7sXcaMy8b4OguaWZwWrchM.jpg
@@ -443,7 +457,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-09-24
+date=2017-09-25
 URL=
 
 
@@ -451,11 +465,19 @@ URL=
 
 
 
+
+type=video
+name=A Few Less Men (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/2lHgTf34cY77coqg2F4Pxu3zjFa.jpg
+date=2017-09-25
+URL=https://openload.co/f/_XstzReHRnA/A_Few_Best_Men_%282011%29_1080p_BluRay.x264.DTS_%5Bmoviseries.com%5D.mp4
+
 type=video
 name=The Wizard of Lies (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 9.8GB
 thumb=https://image.tmdb.org/t/p/w640/8k4lJ4e0hvDQtKpItXmmPdw69sO.jpg
 date=2017-09-24
 URL=https://openload.co/f/syfvv9fbGCA/The.Wizard.of.Lies.2017.1080p.BluRay.x264-ROVERS.mkv
+#https://openload.co/f/fySSMya9920/The_Wizard_of_Lies_2017_1080p_BluRay_H264_AAC-RARBG_mp4
 
 type=video
 name=The Book of Henry (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -731,7 +753,11 @@ description=When the question is to be or not to be, there is only one answer./d
 
 
 
-
+type=video
+name=
+thumb=
+date=2017-09-25
+URL=
 
 
 
@@ -814,11 +840,25 @@ URL=
 
 
 
+
 type=video
-name=American Assassin (2017) RUS
-thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
+name=Kingsman: The Golden Circle (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
 date=2017-09-22
-URL=https://openload.co/f/ca3xtgJ_mNU/American_Assassin_2017_HDCAM_AC3_Xvid_-_Koshara_avi_mp4
+URL=https://openload.co/f/G3HIxvrCqIQ/KingsmaNN_2O17_D_TS_14OOMB_KOSHARA_avi_mp4
+type=video
+name=Kingsman: The Golden Circle (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
+date=2017-09-25
+URL=https://storage.googleapis.com/mlk-s/skl9ae2qp/KINGSMAN%20THE%20GOLDEN%20CIRCLE%20(2017)%20%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99%20%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C1080.MP4
+#https://streamango.com/f/amlbkcpmdsoaobqm/Kingsman_The_Golden_Circle_2017_TS_720p_ThaiRong_2_0_CpT_CtHts_mkv_mp4
+
+
+type=video
+name=American Assassin (2017) ENG HD-TS_x264-UNiQUE
+thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
+date=2017-09-25
+URL=https://openload.co/f/mmAJmFRU03g/American_Assassin_2017_HD-TS_x264-UNiQUE.mkv.mp4
 type=video
 name=American Assassin (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
