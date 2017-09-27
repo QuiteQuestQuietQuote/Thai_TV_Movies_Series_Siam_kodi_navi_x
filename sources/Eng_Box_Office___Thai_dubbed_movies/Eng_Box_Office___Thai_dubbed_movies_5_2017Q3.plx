@@ -139,7 +139,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-09-26
+date=2017-09-27
 URL=
 
 
@@ -147,6 +147,18 @@ URL=
 
 
 
+
+type=video
+name=Ryde (2016) ENG WEB-DL.x264.AC3-eSc
+thumb=https://image.tmdb.org/t/p/w640/jc5yQmz64cTCGVnep7EIGjuU4tN.jpg
+date=2017-09-27
+URL=https://openload.co/f/cYoxi7rsJu4/Ryde.2016.1080p.WEB-DL.x264.AC3-eSc.mp4.mp4
+
+type=video
+name=Cabin 28 (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/crvqys951H0yVoPR38oSg6YAxSj.jpg
+date=2017-09-27
+URL=https://openload.co/f/ceMB5RDxNkE/Cabin_28.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=The Beguiled (2017) ENG WEB-DL.DD5.1.H264-FGT
@@ -982,16 +994,7 @@ date=2017-07-25
 URL=https://openload.co/f/ltgjHHKy-O8/War.For.The.Planet.Of.The.Apes.2017.CAMRip.XViD-26k.ThaIRong_-_CpT-CtHts%40SiamBIT.mkv.mp4
 
 
-type=video
-name=Spider-Man: Homecoming (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
-date=2017-09-26
-URL=https://openload.co/f/TrWimoh8gas/Spider-Man.Homecoming.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-type=video
-name=Spider-Man: Homecoming (2017) TH TS
-thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
-date=2017-07-23
-URL=https://openload.co/f/8LT6eSrfw0U/Spider-Man_Homecoming_2017.mkv.mp4
+
 
 
 type=video
@@ -1254,7 +1257,16 @@ URL=
 
 
 
-
+type=video
+name=Spider-Man: Homecoming (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
+date=2017-09-26
+URL=https://openload.co/f/TrWimoh8gas/Spider-Man.Homecoming.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+type=video
+name=Spider-Man: Homecoming (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
+date=2017-09-27
+URL=https://openload.co/f/PV1KeAUMQ14/Spider-Man%3A_Homecoming_%282017%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%82%E0%B8%AE%E0%B8%A1%E0%B8%84%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B9%88%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
 type=video
