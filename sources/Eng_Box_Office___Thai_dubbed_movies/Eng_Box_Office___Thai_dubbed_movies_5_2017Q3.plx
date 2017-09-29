@@ -48,7 +48,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-09-25
+date=2017-09-29
 URL=
 
 
@@ -61,10 +61,10 @@ URL=
 
 
 type=video
-name=American Made (2017) LAT
+name=American Made (2017) ENG
 thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
-date=2017-09-25
-URL=https://openload.co/f/xg7Qk9uKKac/American_Made.CAM_LATINO.mp4
+date=2017-09-29
+URL=https://openload.co/f/Oa-Ppp3bjWo/A_M_2017_CAM_%5BLayar-21.com%5D.mp4
 
 type=video
 name=The LEGO Ninjago Movie (2017) RUS
@@ -106,10 +106,10 @@ date=2017-09-07
 URL=https://openload.co/f/sT2jB8zTaVQ/LC.2017.TS.x264-CPG.mkv.mp4
 
 type=video
-name=Wind River (2017) ENG CAM.x264.HQMic-CPG
+name=Wind River (2017) ENG KORSUB.HDRip.x264-STUTTERSHIT
 thumb=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
-date=2017-09-08
-URL=https://openload.co/f/h5tDSOSTl24/W.R.2017.CAM.x264.HQMic-CPG.mkv.mp4
+date=2017-09-29
+URL=https://openload.co/f/t5PYXbo9tg4/Wind.River.2017.KORSUB.HDRip.x264-STUTTERSHIT.mp4
 
 type=video
 name=The Nut Job 2: Nutty by Nature (2017) ENG HDCAM_XviD_-_UnKnOwN
@@ -139,7 +139,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-09-27
+date=2017-09-29
 URL=
 
 
@@ -147,6 +147,42 @@ URL=
 
 
 
+
+type=video
+name=Gerald's Game (2017) ENG web.x264-strife
+thumb=https://image.tmdb.org/t/p/w640/54a8fBmUrHHsI64etGdtT6n9Lzf.jpg
+date=2017-09-29
+URL=https://openload.co/f/M0wgcuSsAHs/Gerald%27s_Game_%282017%29.web.x264-strife.mkv.mp4
+
+type=video
+name=Our Souls at Night (2017) ENG web.x264-strife
+thumb=https://image.tmdb.org/t/p/w640/czjZ7JjOs1OOWklu3a6O7YcSta7.jpg
+date=2017-09-29
+URL=https://openload.co/f/ELer3jCKvn4/Our_Souls_at_Night_%282017%29.web.x264-strife.mkv.mp4
+
+type=video
+name=Don't Sleep (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/w61L6RxYB50jOCw9GjfbFNUIMz.jpg
+date=2017-09-29
+URL=https://openload.co/f/h9oKUiRB9lA/Dont.Sleep.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=Literally, Right Before Aaron (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/4fdjQ5lFbkSWlAUv7px6KSEOdxP.jpg
+date=2017-09-29
+URL=https://openload.co/f/wtxuBniuKyk/Literally%2C_Right_Before_Aaron_%282017%29.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=Infinity Chamber (2016) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/qkXoinYjvPz0G2MYW3igfJQoAxR.jpg
+date=2017-09-29
+URL=https://openload.co/f/OfKFovY5wXs/Infinity.Chamber.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=Zombies (2017) ENG WEB-DL.x264-FGT
+thumb=https://image.tmdb.org/t/p/w640/6SXVRLtUcJqPrHC4x6vL3Arwwzk.jpg
+date=2017-09-29
+URL=https://openload.co/f/iEnVUcMakoE/Zombies.2017.WEB-DL.x264-FGT.mp4
 
 type=video
 name=Ryde (2016) ENG WEB-DL.x264.AC3-eSc
@@ -160,11 +196,7 @@ thumb=https://image.tmdb.org/t/p/w640/crvqys951H0yVoPR38oSg6YAxSj.jpg
 date=2017-09-27
 URL=https://openload.co/f/ceMB5RDxNkE/Cabin_28.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=The Beguiled (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/yCt9jWUFNpWLSiNpShZr9JFF9oD.jpg
-date=2017-09-26
-URL=https://openload.co/f/4xCOO7Urj_4/The.Beguiled.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 type=video
 name=Crash Pad (2017) ENG HDRip.XviD.AC3-EVO
@@ -262,11 +294,7 @@ thumb=https://image.tmdb.org/t/p/w640/iPvggWYCZblEG2ldObR6GHmkEjz.jpg
 date=2017-09-08
 URL=https://openload.co/f/fnBC5t378Ow/The.Good.Catholic.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 
-type=video
-name=Paris Can Wait (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/jLzfHNU1JldQpC5TNEvQMnWQxx6.jpg
-date=2017-09-08
-URL=https://openload.co/f/VV_62-EgYsk/Paris.Can.Wait.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
+
 
 type=video
 name=The Limehouse Golem (2017) ENG WEB-DL.H264.AC3-EVO
@@ -472,15 +500,45 @@ URL=
 type=video
 name=
 thumb=
-date=2017-09-26
+date=2017-09-29
 URL=
 
 
 
 
+type=video
+name=The Beguiled (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6GB
+thumb=https://image.tmdb.org/t/p/w640/yCt9jWUFNpWLSiNpShZr9JFF9oD.jpg
+date=2017-09-29
+URL=https://openload.co/f/jYwMKH9Lesc/The_Beguiled_%282017%29.1080p.BluRay.x264-DRONES.mkv
+#https://openload.co/f/Ea2vunZPTZ0/The_Beguiled_%282017%29.1080p.BluRay.x264-DRONES.mkv.mp4
 
+type=video
+name=Message from the King (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.6GB
+thumb=https://image.tmdb.org/t/p/w640/6BxIqK8xwlwRXEpkNYEk2tWuZqR.jpg
+date=2017-09-29
+URL=https://openload.co/f/7iz2PZ9Qvyo/Message.from.the.King.2016.1080p.BluRay.x264-PSYCHD.mkv
+#https://openload.co/f/E8e4GGoIWYw/Message.from.the.King.2016.1080p.BluRay.x264-PSYCHD.mkv.mp4
 
+type=video
+name=My Pet Dinosaur (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.5GB
+thumb=https://image.tmdb.org/t/p/w640/7PpqSMJjibR5dkqnBOGhpcz253C.jpg
+date=2017-09-29
+URL=https://openload.co/f/jMvDEd_f1BY/my.pet.dinosaur.1080p.mkv
+#https://openload.co/f/tOmD9G0UjEA/my.pet.dinosaur.1080p.bpfa-mkv.mp4
 
+type=video
+name=Paris Can Wait (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6GB
+thumb=https://image.tmdb.org/t/p/w640/jLzfHNU1JldQpC5TNEvQMnWQxx6.jpg
+date=2017-09-29
+URL=https://openload.co/f/qtCGn2v91C0/Paris.Can.Wait.2016.1080p.BluRay.X264-AMIABLE.mkv
+#https://openload.co/f/sqOx_-AOWLY/Paris.Can.Wait.2016.1080p.BluRay.X264-AMIABLE.mkv.mp4
+
+type=video
+name=Una (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/xvEhxYOHf7eKzLWeorlyrg3Dpru.jpg
+date=2017-09-29
+URL=https://openload.co/f/_AzvKUoSqRs/Una.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The House (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -675,6 +733,7 @@ name=All Eyez on Me (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg
 date=2017-08-24
 URL=https://openload.co/f/FkIMUuUUW_g/All.Eyez.on.Me.2017.REPACK.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/dIDkOjLDITQ/All_Eyez_on_Me_%282017%29_1080p_BluRay_x264_%5Bmoviseries.com%5D.mp4
 
 type=video
 name=My Cousin Rachel (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -839,11 +898,7 @@ date=2017-09-21
 URL=https://openload.co/f/a3OL4Fe1EkU/Goon.Last.of.the.Enforcers.2017.720p.BluRay.X264-AMIABLE.mkv
 #https://openload.co/f/_nzYcLqwj4Q/Goon.Last.of.the.Enforcers.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
-type=video
-name=My Pet Dinosaur (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/7PpqSMJjibR5dkqnBOGhpcz253C.jpg
-date=2017-09-26
-URL=https://openload.co/f/zd6gEfz-Isw/my.pet.dinosaur.720p.pfa.mkv.mp4
+
 
 
 
@@ -959,10 +1014,11 @@ URL=https://openload.co/f/PicDXIigpMA/Atomic.Blond.2017.HD-TS.x264.ThaiRong_CpT%
 
 
 type=video
-name=Wish Upon (2017) ENG HDCAM.XviD-MrGrey
+name=Wish Upon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
-date=2017-07-28
-URL=https://openload.co/f/Dd-aRB4O5s0/WU.2017.HDCAM.XviD-MrGrey.avi
+date=2017-09-29
+URL=https://openload.co/f/k3-alTvMyT8/Wish.Upon.2017.UNRATED.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Yb9sKQH9gC8/Wish.Upon.2017.1080p.BluRay.x264-%255BYTS.AG%255D.mp4
 type=video
 name=Wish Upon (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
@@ -1250,24 +1306,19 @@ description=When Michelle, the CEO of a gaming software company, is attacked in 
 type=video
 name=
 thumb=
-date=2017-09-26
+date=2017-09-29
 URL=
 
 
 
 
 
-type=video
-name=Spider-Man: Homecoming (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
-date=2017-09-26
-URL=https://openload.co/f/TrWimoh8gas/Spider-Man.Homecoming.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-type=video
-name=Spider-Man: Homecoming (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
-date=2017-09-27
-URL=https://openload.co/f/PV1KeAUMQ14/Spider-Man%3A_Homecoming_%282017%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%82%E0%B8%AE%E0%B8%A1%E0%B8%84%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B9%88%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
+type=video
+name=Detective Conan: Crimson Love Letter (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/shpjDVjugLMoc4Wt1eRdueH5IOf.jpg
+date=2017-09-29
+URL=https://openload.co/f/b7TmS7Y2nJ8/Detective_Conan%3A_Crimson_Love_Letter_%282017%29%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%A7_%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99_%3A_%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 type=video
 name=The Battleship Island (2017) TH CAM SOUND
@@ -1312,28 +1363,10 @@ date=2017-09-03
 URL=https://openload.co/f/F2OrZJXph3c/%7BMINI_Super-HQ%7D_The.Hitmans.Bodyguard.2017.1080p.WEB-DL.ThaiRong.5.1.x264_CpT%40CtHts.mkv.mp4
 
 
-type=video
-name=47 Meters Down (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/HmALxBQK8SKpOEOmqyFxOavIPR.jpg
-date=2017-09-26
-URL=https://openload.co/f/aew9Xuj2wa0/47_Meters_Down_2017_1080p_r%2FAFLAM_-_cnmplus.mp4
-type=video
-name=47 Meters Down (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/HmALxBQK8SKpOEOmqyFxOavIPR.jpg
-date=2017-09-18
-URL=https://openload.co/f/3KZrVDAGyUM/47.Meters.Down.2017.1080p.WEB-DL.ThaiRong5.1.H264_CpT%40CtHts.mkv.mp4
 
 
-type=video
-name=Despicable Me 3 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
-date=2017-09-18
-URL=https://openload.co/f/69ojqw6c7zU/Despicable.Me.3.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
-type=video
-name=Despicable Me 3 (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
-date=2017-09-03
-URL=https://openload.co/f/yGLvutQYzOQ/%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94_3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
 
 
 type=video
@@ -1531,7 +1564,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-09-23
+date=2017-09-29
 URL=
 
 
@@ -1540,6 +1573,59 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Spider-Man: Homecoming (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
+date=2017-09-26
+URL=https://openload.co/f/TrWimoh8gas/Spider-Man.Homecoming.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+type=video
+name=Spider-Man: Homecoming (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
+date=2017-09-29
+URL=https://openload.co/f/3nHvH9JslyE/Spider-Man%3A_Homecoming_%282017%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%82%E0%B8%AE%E0%B8%A1%E0%B8%84%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B9%88%E0%B8%87.mp4
+
+#https://storage.googleapis.com/mlk-s/steme/SPIDER-MAN%20HOMECOMING%20(2017)%20%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99%20%E0%B9%82%E0%B8%AE%E0%B8%A1%E0%B8%84%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B9%88%E0%B8%87.MP4
+
+type=video
+name=Despicable Me 3 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
+date=2017-09-18
+URL=https://openload.co/f/69ojqw6c7zU/Despicable.Me.3.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+type=video
+name=Despicable Me 3 (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
+date=2017-09-29
+URL=https://openload.co/f/RFmt9XAC5Jo/Despicable_Me_3_%282017%29%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94_3.mp4
+
+
+type=video
+name=47 Meters Down (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/HmALxBQK8SKpOEOmqyFxOavIPR.jpg
+date=2017-09-26
+URL=https://openload.co/f/aew9Xuj2wa0/47_Meters_Down_2017_1080p_r%2FAFLAM_-_cnmplus.mp4
+type=video
+name=47 Meters Down (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/HmALxBQK8SKpOEOmqyFxOavIPR.jpg
+date=2017-09-29
+URL=https://openload.co/f/bu9s6T1CdDI/47_Meters_Down_%282017%29%E0%B8%94%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%89%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+
+
+type=video
+name=To the Fore (2015)
+thumb=https://image.tmdb.org/t/p/w640/cwXdTVEztxdreejmpp0g896OI2i.jpg
+date=2017-09-29
+URL=https://openload.co/f/GZNLR31FtDg/To_the_Fore_%282015%29%E0%B8%9B%E0%B8%B1%E0%B9%88%E0%B8%99_%E0%B8%97%E0%B9%89%E0%B8%B2_%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 
 
 
@@ -1623,6 +1709,7 @@ name=Unlocked (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg
 date=2017-08-25
 URL=https://openload.co/f/vP2P2jsugq0/Unlocked.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/W9vqSkhDmSM/Unlocked_%282017%29_1080p_BluRay.H264.AAC-RARBG_%5Bmoviseries.com%5D.mp4
 type=video
 name=Unlocked (2017) TH
 thumb=http://image.tmdb.org/t/p/w500/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg
@@ -2013,11 +2100,17 @@ thumb=https://image.tmdb.org/t/p/w640/f5Ulo70SZjXfWEeIOwYYG0J6MS2.jpg
 date=2017-08-03
 URL=https://streamango.com/f/elnqbqnqodrapqpa/_From_Bangkok_to_Mandalay_mp4
 
+
+
+
+
+
 type=video
 name=A Hologram for the King (2016)
 thumb=https://image.tmdb.org/t/p/w640/dDHJBd2iv7KTDzI7ybNLs31vvkM.jpg
 date=2017-08-01
 URL=https://streamango.com/f/lrrtlctcbfppoctb/A_Hologram_for_the_King_mp4
+
 
 
 # 118

@@ -128,6 +128,12 @@ name=My Way (2011)
 thumb=https://image.tmdb.org/t/p/w640/ax7ip8TOZSA2vNr4ssyYTOBtl8k.jpg
 URL=https://openload.co/f/HfD2TlO0U18/My.Way.2011.720p.DD5.1.x264-CpT.mkv.mp4
 
+
+type=video
+name=Beauty and the Beast (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/tnmL0g604PDRJwGJ5fsUSYKFo9.jpg
+date=2017-09-29
+URL=https://openload.co/f/5ZS4KAAsZk0/Beauty.and.the.Beast.2017.1080p.BluRay.H264.AAC_RARBG.mp4
 # 2769085
 type=video
 name=Beauty and the Beast (2017)
@@ -136,6 +142,7 @@ URL=https://openload.co/f/8zrL6u4DeJ0/%7BMINI_Super-HQ%7D_Beauty.And.The.Beast.2
 player=default
 rating=-1.00
 description=A live-action adaptation of Disney's version of the classic 'Beauty and the Beast' tale of a cursed prince and a beautiful young woman who helps him break the spell./description
+
 
 #80
 type=video

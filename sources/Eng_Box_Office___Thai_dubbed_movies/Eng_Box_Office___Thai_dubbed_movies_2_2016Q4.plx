@@ -54,9 +54,9 @@ description=Kenny Wells, a modern-day prospector, hustler, and dreamer, is despe
 
 # 2771107
 type=video
-name=Split (2017) ENG
+name=Split (2017) [COLOR=FF00FF00]ENG WEB 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/rXMWOZiCt6eMX22jWuTOSdQ98bY.jpg
-URL=https://openload.co/f/pmNQqHA865o/Split.2016.BDRip.x264-SPARKS.mkv.mp4
+URL=https://openload.co/f/yO5dFfCqJWA/Split.2016.1080p.WEB_DL.DD5.1.H264_FGT.mp4
 player=default
 rating=-1.00
 description=Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within himâ??as well as everyone around himâ??as the walls between his compartments shatter apart./description
@@ -329,8 +329,9 @@ name=John Wick: Chapter 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/zkXnKIwX5pYorKJp2fjFSfNyKT0.jpg
 date=2017-09-18
 URL=https://openload.co/f/k0zKdL7xzqc/John_Wick_Chapter_2_2017_1080p_10bit_BluRay_5_1_x265_HEVC-MZABI_mkv_mp4
+#https://openload.co/f/JRJajhhJMiw/John.Wick.Chapter.2.2017.1080p.BluRay.mp4
 type=video
-name=John Wick: Chapter 2 (2017)
+name=John Wick: Chapter 2 (2017) TH
 thumb=http://image.tmdb.org/t/p/w500/zkXnKIwX5pYorKJp2fjFSfNyKT0.jpg
 date=2017-06-15
 URL=https://openload.co/f/Rez5uI3uD90/%7BMINI_Super-HQ%7D_John.Wick.2.2017.1080p.BrRip.DTS.x264.THM_NongZEZA%40CtHts.mkv.mp4
@@ -375,6 +376,12 @@ player=default
 rating=-1.00
 description=When one school teacher gets the other fired, he is challenged to an after-school fight./description
 
+
+type=video
+name=Fifty Shades Darker (2017) [COLOR=FF00FF00]ENG WEB 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/wnVHDbGz7RvDAHFAsVVT88FxhrP.jpg
+date=2017-09-29
+URL=https://openload.co/f/XwT5CcmV-SU/Fifty.Shades.Darker.2017.1080p.WEB_DL.x264.ShAaNiG.mp4
 # 2771571
 type=video
 name=Fifty Shades Darker (2017)
@@ -449,6 +456,12 @@ player=default
 rating=-1.00
 description=Extreme athlete turned government operative Xander Cage comes out of self-imposed exile, thought to be long dead, and is set on a collision course with deadly alpha warrior Xiang and his team in a race to recover a sinister and seemingly unstoppable weapon known as Pandora's Box. Recruiting an all-new group of thrill-seeking cohorts, Xander finds himself enmeshed in a deadly conspiracy that points to collusion at the highest levels of world governments./description
 
+
+type=video
+name=The Great Wall (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/hm0Z5tpRlSzPO97U5e2Q32Y0Xrb.jpg
+date=2017-09-29
+URL=https://openload.co/f/xS0QOHrV5CY/The.Great.Wall.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 # 2773799
 type=video
 name=The Great Wall (2016)
@@ -458,6 +471,7 @@ URL=https://openload.co/f/v84AwkuVPao/%7BMINI_Super-HQ%7D_The.Great.Wall.2016.10
 player=default
 rating=-1.00
 description=European mercenaries searching for black powder become embroiled in the defense of the Great Wall of China against a horde of monstrous creatures./description
+
 
 # 2773788
 type=video
