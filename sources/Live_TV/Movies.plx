@@ -15,8 +15,8 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 type=video
 name=HBO HD (TH)
 thumb=https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png
-date=2017-09-22
-URL=http://footballmetro.myftp.org:1935/live4/0x222_ais_hbohdth_720p/chunklist.m3u8
+date=2017-09-30
+URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbohdth_720p/chunklist.m3u8
 
 type=video
 name=movie1
@@ -234,7 +234,7 @@ URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbosignature_720p/chun
 type=video
 name=HBO HD
 thumb=
-URL=http://footballmetro.myftp.org:1935/live4/0x222_ais_hbohdth_720p/chunklist.m3u8
+URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbohdth_720p/chunklist.m3u8
 
 type=video
 name=HBO Family
