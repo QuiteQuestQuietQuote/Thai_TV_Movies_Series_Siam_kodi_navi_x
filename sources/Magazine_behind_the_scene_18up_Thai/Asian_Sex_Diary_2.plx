@@ -66,6 +66,163 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=117xxxxxxxxxxxxxxxxxxxxAsian Sex Diary Oay
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Oay-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/dnastnkeslefbsfs/Asian_Sex_Diary_Oay_MP4_mp4
+
+type=video
+name=Asian Sex Diary Oay.Blond.hair
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Oay.Blond_.hair_-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/ltlmteqdseckbssa/Asian_Sex_Diary_Oay_Blond_hair_MP4_mp4
+
+type=video
+name=Asian Sex Diary Oay.In.BKK
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Oay.In_.BKK_-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/bskpcsmpptocsflm/Asian_Sex_Diary_Oay_In_BKK_MP4_mp4
+
+type=video
+name=Asian Sex Diary Oay.Barbie.morning.fuck
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Oay.Barbie.morning.fuck_-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/fddnsqndrftnbefn/Asian_Sex_Diary_Oay_Barbie_morning_fuck_MP4_mp4
+
+type=video
+name=Asian Sex Diary Oay.Another.morning.fuck 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Oay.Another.morning.fuck_-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/skbdspdmcoefnkpd/Asian_Sex_Diary_Oay_Another_morning_fuck_MP4_mp4
+
+type=video
+name=Asian Sex Diary Pa.Brunette
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Pa.Brunette-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/bokeartraloonolb/Asian_Sex_Diary_Pa_Brunette_MP4_mp4
+
+type=video
+name=Asian Sex Diary Oil
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Oil-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/krnalmmldftcfdsm/Asian_Sex_Diary_Oil_MP4_mp4
+
+type=video
+name=Asian Sex Diary Oay.xmas.fuck
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Oay.xmas_.fuck_-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/tqsscnqbobfeoolo/Asian_Sex_Diary_Oay_xmas_fuck_MP4_mp4
+
+type=video
+name=Asian Sex Diary Oay.s.visit.Shows.new.nose.gets.fucked
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Oay.s.visit_.Shows_.new_.nose_.gets_.fucked-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/cfscoqedttccmskn/Asian_Sex_Diary_Oay_s_visit_Shows_new_nose_gets_fucked_MP4_mp4
+
+type=video
+name=Asian Sex Diary Oay.Part.5 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Oay.Part_.5-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/dofsksdcpcfolasr/Asian_Sex_Diary_Oay_Part_5_MP4_mp4
+
+type=video
+name=Asian Sex Diary Oay.Part.4
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Oay.Part_.4-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/dbodqaqeeocmborm/Asian_Sex_Diary_Oay_Part_4_MP4_mp4
+
+type=video
+name=Asian Sex Diary Oay.Part.3
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Oay.Part_.3-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/ckrtdneopbnlttnf/Asian_Sex_Diary_Oay_Part_3_MP4_mp4
+
+
+
+
+
+
+type=video
+name=105xxxxxxxxxxxxxxxxxxxxAsian Sex Diary.Fa.Student.No.2
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Fa_.Student.No_.2.jpg
+date=2017-09-30
+URL=https://streamango.com/f/pcksftlkernbkqnc/Asian_Sex_Diary_Fa_Student_No_2_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Kim
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Tuktuk-Patrol-Kim-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/fkpfqadpsplmkpbs/Asian_Sex_Diary_Tuktuk_Patrol_Kim_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Kiwi
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Tuktuk-Patrol-Kiwi-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/modaqkmlssrscfpf/Asian_Sex_Diary_Tuktuk_Patrol_Kiwi_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Koy
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Tuktuk-Patrol-Koy-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/ardrtrbnnreffemc/Asian_Sex_Diary_Tuktuk_Patrol_Koy_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Kandi
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Tuktuk-Patrol-Kandi-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/dflsqmfddlkrlken/Asian_Sex_Diary_Tuktuk_Patrol_Kandi_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Kuk.Kik 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Tuktuk-Patrol-Kuk.Kik_-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/rtmnqbofbldtqeql/Asian_Sex_Diary_Tuktuk_Patrol_Kuk_Kik_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Nee
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Tuktuk-Patrol-Nee-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/lqfenopatkbcdeqm/Asian_Sex_Diary_Tuktuk_Patrol_Nee_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Jeaeb
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Tuktuk-Patrol-Jeaeb-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/bendrcoqttaekfef/Asian_Sex_Diary_Tuktuk_Patrol_Jeaeb_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Jean
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Tuktuk-Patrol-Jean-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/ksndakbasfkaacad/Asian_Sex_Diary_Tuktuk_Patrol_Jean_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Jay
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Tuktuk-Patrol-Jay-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/lofoebntkssmpqbq/Asian_Sex_Diary_Tuktuk_Patrol_Jay_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Kam
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Tuktuk-Patrol-Kam-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/nloeknbodnrbedae/Asian_Sex_Diary_Tuktuk_Patrol_Kam_MP4_mp4
+
+type=video
+name=Asian Sex Diary On
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Asian-Sex-Diary-On-1.jpg
+date=2017-09-30
+URL=https://streamango.com/f/pnlkqdtbkrnssloe/Asian_Sex_Diary_On_MP4_mp4
+
+
+
+
+
 type=video
 name=93xxxxxxxxxxxxxxxxxxxxAsian Sex Diary Shuling
 thumb=https://erotic2you.com/wp-content/uploads/2017/09/Asian-Sex-Diary-Shuling.jpg

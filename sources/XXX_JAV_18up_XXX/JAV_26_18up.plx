@@ -42,19 +42,64 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 type=video
-name=
-thumb=
-date=
-URL=
+name=186xxxxxxxxxxxxxxxxxxxxATOM-235
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/04/ATOM-235-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+date=2017-09-30
+URL=https://openload.co/f/lj50n4AELAo/ATOM-235_%5BMovie-dd.com%5D
 
+type=video
+name=ZUKO-101
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/04/ZUKO-101-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+date=2017-09-30
+URL=https://openload.co/f/XppcotnfeOA/ZUKO-101_%5BMovie-dd.com%5D
 
+type=video
+name=XRW-187
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/04/XRW-187-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+date=2017-09-30
+URL=https://openload.co/f/bLko5m-1b60/XRW-187_%5BMovie-dd.com%5D
 
+type=video
+name=JUFD-621
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/04/JUFD-621-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+date=2017-09-30
+URL=https://openload.co/f/G9PySWzXToM/JUFD-621_%5BMovie-dd.com%5D
 
+type=video
+name=ATFB-344
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/04/ATFB-344-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+date=2017-09-30
+URL=https://openload.co/f/6oVnWmadTbY/ATFB-344_%5BMovie-dd.com%5D
 
+type=video
+name=MXGS-885
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/04/MXGS-885-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+date=2017-09-30
+URL=https://openload.co/f/geUuPYaeOe8/MXGS-885_%5BMovie-dd.com%5D
 
+type=video
+name=HODV-21197
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/04/HODV-21197-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+date=2017-09-30
+URL=https://openload.co/f/fiYPl0dyhQw/HODV-21197_%5BMovie-dd.com%5D
 
-
+type=video
+name=MIGD-742
+thumb=https://zeed24hrs.com/wp-content/uploads/2017/04/MIGD-742-JAV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-japanese-AV-AV-Uncensored-AV-censored.jpg
+date=2017-09-30
+URL=https://openload.co/f/gRflBYJUUnI/MIGD-742_%5BMovie-dd.com%5D
 
 
 
