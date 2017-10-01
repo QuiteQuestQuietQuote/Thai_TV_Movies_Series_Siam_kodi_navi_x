@@ -57,7 +57,258 @@ URL=
 
 
 
+type=video
+name=108xxxxxxxxxxxxxxxxxxxxZid (2014)
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Zid-2014.jpg
+date=2017-10-01
+URL=https://streamango.com/f/lnqotdrrlfrlcdcf/ZID_2014_Hindi_720p_HDRip_AC3_ESuB_xRG_mkv_mp4
 
+type=video
+name=Ladies First (2016) Uncut
+thumb=https://erotic2you.com/wp-content/uploads/2016/09/Ladies-First-2016-Uncut.jpg
+date=2017-10-01
+URL=https://streamango.com/f/ofasdsnoelffmmsc/Ladies_First_2015_Hindi-720P-HD-_DVD-Rip-_ESubs_AAC_--JB_mp4
+
+type=video
+name=One Night Stand (2016) 
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/One-Night-Stand-2016.jpg
+date=2017-10-01
+URL=https://streamango.com/f/kelfpqlfpaaboaqt/One_Night_Stand_2016_DVDRip_mp4
+
+type=video
+name=SOS – Secrets of Sex (2013)
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/SOS-Secrets-of-Sex-2013.jpg
+date=2017-10-01
+URL=https://streamango.com/f/qprmbernnrsospkd/Secrets_Of_Sex_2013_Hindi_Movie_9xmovies_Pk_HDSongs4u_Pk_mp4
+
+type=video
+name=Nasha (2013)
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Nasha-2013.jpg
+date=2017-10-01
+URL=https://streamango.com/f/dstplcopafoltopp/Nasha_2013_Hindi_DvDRip_720p_mp4
+
+type=video
+name=Chudail Story (2016)
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Chudail-Story-2016.jpg
+date=2017-10-01
+URL=https://streamango.com/f/bntdrmattecorknp/Chudail_Story_2016_DVDRip_mp4
+
+type=video
+name=Prison (2014)
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Prison-2014.jpg
+date=2017-10-01
+URL=https://streamango.com/f/bofbttppaamkbton/Prison_2014_XXX_DVDRip_mp4
+
+type=video
+name=Undressed (2015)
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Undressed-2015.jpg
+date=2017-10-01
+URL=https://streamango.com/f/mmetonmmlddmlmpo/Undressed_2015_XXX_DVDRip_mp4
+
+type=video
+name=Kittens Cougars 12 (2017) 
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Kittens-Cougars-12-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/paaqemebeqkckpnq/Kittens_and_Cougars_12_2017_XXX_DVDRip_mp4
+
+type=video
+name=Naturally Satisfied 2017 
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/Naturally-Satisfied-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/tbqedlofskrkqqkb/Naturally_Satisfied_MP4_mp4
+
+type=video
+name=She’s So Small 13 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/08/She%E2%80%99s-So-Small-13-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/akklaobntfblprqc/Shes_So_Small_13_mp4
+
+type=video
+name=NubilesPorn – Do Your Homework Naomi Woods
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/NubilesPorn-%E2%80%93-Do-Your-Homework-Naomi-Woods.jpg
+date=2017-10-01
+URL=https://streamango.com/f/nmkabeqqsmqnsrsm/NB7356Naomi_Woods_mp4
+
+type=video
+name=Brazzer – Nurse Riley Riley Reid & Van Wylde
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Brazzer-%E2%80%93-Nurse-Riley-Riley-Reid-Van-Wylde.jpg
+date=2017-10-01
+URL=https://streamango.com/f/melqlslfdaeqbcnb/Braz8671Riley_Reid_mp4
+
+type=video
+name=Cheeky 2000
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Cheeky-2000.jpg
+date=2017-10-01
+URL=https://streamango.com/f/qadlfqnrnrqladrk/Cheeky_2000_mp4
+
+type=video
+name=Mofos – Friendly Blonde Fucks in Public Naomi Woods – Public Pickups
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Mofos-%E2%80%93-Friendly-Blonde-Fucks-in-Public-Naomi-Woods-%E2%80%93-Public-Pickups.jpg
+date=2017-10-01
+URL=https://streamango.com/f/tconbesetrbnefke/PP28662Naomi_Woods_mp4
+
+type=video
+name=Kendra Sunderland – It Was My Dream To Meet Him 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Kendra-Sunderland-%E2%80%93-It-Was-My-Dream-To-Meet-Him-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/sbpcndrefbmksklc/Kendra_Sunderland_-_It_Was_My_Dream_To_Meet_Him_mp4
+
+
+
+
+
+
+
+type=video
+name=92xxxxxxxxxxxxxxxxxxxxForeign Pickups – Hungary Edition 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Foreign-Pickups-%E2%80%93-Hungary-Edition-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/ndleccqncfepdner/Foreign_Pickups_-_Hungary_Edition_mp4
+
+type=video
+name=Rebound Sluts – Back In The Game 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Rebound-Sluts-%E2%80%93-Back-In-The-Game-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/ekmanllbbsacmcqf/Rebound_Sluts_-_Back_In_The_Game_mp4
+
+type=video
+name=Adel Bye – Her dirty wish granted 2017 
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Adel-Bye-%E2%80%93-Her-dirty-wish-granted-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/kmeodnatrctmpssk/Adel_Bye_-_Her_dirty_wish_granted_Movie-dd_com_mp4
+
+type=video
+name=First Anal 5 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/First-Anal-5-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/cftdtmcqfnftlcdd/First_Anal_5_Movie-dd_com_mp4
+
+type=video
+name=Chrissy Fox – Wild Chrissy 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Chrissy-Fox-%E2%80%93-Wild-Chrissy-2017.jpeg
+date=2017-10-01
+URL=https://streamango.com/f/frqqpebesceekkao/Chrissy_Fox_-_Wild_Chrissy_Movie-dd_com_mp4
+
+type=video
+name=Tiffany Tatum, Max Fonda – Outdoor Loving 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Tiffany-Tatum-Max-Fonda-%E2%80%93-Outdoor-Loving-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/ttrlposflfbleaoa/Tiffany_Tatum_Max_Fonda_-_Outdoor_Loving_Movie-dd_com_mp4
+
+type=video
+name=Obsessed With Pussy 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Obsessed-With-Pussy-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/aosnrmfolooeapcb/ObsssdWithP_Movie-dd_com_mp4
+
+type=video
+name=HandsOnHardcore – Clea Gaultier – French Temptation – Slim Secretary Enjoys Dick Up Her Ass 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/HandsOnHardcore-Clea-Gaultier-%E2%80%93-French-Temptation-Slim-Secretary-Enjoys-Dick-Up-Her-Ass-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/anfosalabeqdelpb/HandsOnHardcore-_Clea_Gaultier_-_French_Temptation-_Slim_Secretary_Enjoys_Dick_Up_Her_Ass_Movie-dd_com_mp4
+
+type=video
+name=Errotica-archives – Eos “Kiss Me On The Lips” 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Errotica-archives-%E2%80%93-Eos-%E2%80%9CKiss-Me-On-The-Lips%E2%80%9D-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/reospbfokrcpdnoq/Errotica-archives_-_Eos_Kiss_Me_On_The_Lips_Movie-dd_com_mp4
+
+type=video
+name=Foot Art 3 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Foot-Art-3-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/dsrrflomppcslbcl/Foot_Art_3_Movie-dd_com_mp4
+
+type=video
+name=The Blue Lagoon (1980)
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/The-Blue-Lagoon-1980.jpg
+date=2017-10-01
+URL=https://streamango.com/f/clqforftoodbptoe/The_Blue_Lagoon_1980_BRRip_Movie-dd_com_mp4
+
+type=video
+name=watch4beauty – Milla “Queen Of The Mountain” 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/watch4beauty-%E2%80%93-Milla-%E2%80%9CQueen-Of-The-Mountain%E2%80%9D-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/qnkfdnkqqmfpeped/watch4beauty_-_Milla_Queen_Of_The_Mountain_Movie-dd_com_mp4
+
+
+
+
+
+
+
+type=video
+name=80xxxxxxxxxxxxxxxxxxxxStacked 7 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Stacked-7-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/csqbstsdslpmsmsl/Stacked_7_Movie-dd_com_mp4
+
+type=video
+name=Loving – Amar (2017)
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Loving-%E2%80%93-Amar-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/dtpdmprlpefncral/Amar_2017_1080p_WEBRip_Movie-dd_com_mp4
+
+
+type=video
+name=Anita Bellini – Benchwarmers 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Anita-Bellini-%E2%80%93-Benchwarmers-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/fskktnqoceoqtpqa/Anita_Bellini_-_Benchwarmers_Movie-dd_com_mp4
+
+type=video
+name=Angelin Joy, Vincent Vega – Stretch My Butt Hole 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Angelin-Joy-Vincent-Vega-%E2%80%93-Stretch-My-Butt-Hole-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/ebqntnlqtldofslr/Angelin_Joy_Vincent_Vega_-_Stretch_My_Butt_Hole_Movie-dd_com_mp4
+
+type=video
+name=Katrin Tequila – Banging In The Wind 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Katrin-Tequila-%E2%80%93-Banging-In-The-Wind-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/lfamkmpmtakflftb/Katrin_Tequila_-_Banging_In_The_Wind_Movie-dd_com_mp4
+
+type=video
+name=Spoiled 2017 
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Spoiled-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/pkekfeqmsapbfotq/Spoiled_Movie-dd_com_mp4
+
+type=video
+name=Private Specials 161 Anal Innocence
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Private-Specials-161-Anal-Innocence-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/ramttadtaomcdqod/Private_Specials_161_Anal_Innocence_Movie-dd_com_mp4
+
+type=video
+name=PhotoDromm – Anastasia “Top Club 3” 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/PhotoDromm-%E2%80%93-Anastasia-%E2%80%9CTop-Club-3%E2%80%9D-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/rqbfnoobbcstccpd/PhotoDromm_-_Anastasia_Top_Club_3_Movie-dd_com_mp4
+
+type=video
+name=T’es raide crazy 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/T%E2%80%99es-raide-crazy-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/dokrmqselfrblctd/Raide_XX_DVD_mp4_Movie-dd_com_mp4
+
+type=video
+name=Make Her Submit 2 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Make-Her-Submit-2-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/eopnttbrecdcocmq/Make_Her_Submit_2_Movie-dd_com_mp4
+
+type=video
+name=Darker Shades of Elise (2017)
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Darker-Shades-of-Elise-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/fkndoopllpepmelk/Darker_Shades_of_Elise_2017_HDRip_Movie-dd_com_mp4
+
+type=video
+name=Cumming Together 2017
+thumb=https://erotic2you.com/wp-content/uploads/2017/07/Cumming-Together-2017.jpg
+date=2017-10-01
+URL=https://streamango.com/f/rtpadsctspqddlkp/cumming_together-kukas_Movie-dd_com_mp4
 
 
 

@@ -57,6 +57,83 @@ URL=
 
 
 
+type=video
+name=63xxxxxxxxxxxxxxxxxxxx3 minutes partner (2017)
+thumb=https://1.bp.blogspot.com/-ZbO7ZuUzgnA/WcUuNXz__fI/AAAAAAAALbI/BLE6J5tOFDYcUGLnAuHECZTCIynKJzHdACLcBGAs/s1600/1SS.jpg
+date=2017-10-01
+URL=https://openload.co/f/rHIwWmVapJ8/3_minutes_partner_2017_UNCUT_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=My Uncle’s Wife (2017)
+thumb=https://3.bp.blogspot.com/-Ul6xVDMP-5c/WcUuNWNd0xI/AAAAAAAALbE/EXDqeLVNy8wVhNo-_NOlM3qrRrnobXZ_gCLcBGAs/s1600/1S.jpg
+date=2017-10-01
+URL=https://openload.co/f/Q5zKMOTaStU/My_Uncle%27s_Wife_2017_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Her deep love affair (2017)
+thumb=https://4.bp.blogspot.com/-mhADV_cxkDg/WcUuPBWD5xI/AAAAAAAALbQ/QOJ5yRY2eSEXuZrNw4TFnXGGA0RcWU6GwCLcBGAs/s1600/1%25E0%25B8%2586.jpg
+date=2017-10-01
+URL=https://openload.co/f/MtUToO_wnPk/Her_deep_love_affair_2017_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Young Wife in a Bus (2017)
+thumb=https://3.bp.blogspot.com/-NYsgjxv3I0A/WcUuNQHO15I/AAAAAAAALbM/TLhWuAFf194WYqP8BRHmy7q40dZvwMhygCLcBGAs/s1600/1.jpg
+date=2017-10-01
+URL=https://openload.co/f/w4xp3XJjDio/Young_Wife_in_a_Bus_2017_UNCUT_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Suce moi vampire (1976)
+thumb=https://3.bp.blogspot.com/-1TZSGS_jshY/WcPb9QYeIxI/AAAAAAAALao/Y7GDTEOwNWE7mnLhbezqllkFARDPcVbKwCLcBGAs/s1600/3SSSS.jpg
+date=2017-10-01
+URL=https://openload.co/f/Z9N2cmnFMak/Suce_Moi_Vampire%5B1975%5DJean_Rollin.avi.mp4
+
+type=video
+name=Naughty Guide to Tokyo Nightlife
+thumb=https://3.bp.blogspot.com/-7GcAa3hoHqA/WcPb8vQBcUI/AAAAAAAALag/K_OY5G2X0ww37F1QhrVdHnb5DNTpNUBWQCLcBGAs/s1600/3SSS.jpg
+date=2017-10-01
+URL=https://openload.co/f/W9CWmfFbBB8/Naughty_Guide_to_Tokyo_Nightlife_-CG.mkv.mp4
+
+type=video
+name=Prisoner of Paradise (1980)
+thumb=https://2.bp.blogspot.com/-HrrnOI6SIgk/WcPb87qeHpI/AAAAAAAALak/5dV2p7P0llEUMv0JPFtmWwkK7oNKyI_agCLcBGAs/s1600/3S.jpg
+date=2017-10-01
+URL=https://openload.co/f/q8B5gP5u5Gg/Prisoner_of_Paradise.1980.DVDRIP.x264-CG.mkv.mp4
+
+type=video
+name=Garoojigi – Stud The Beginning (2017)
+thumb=https://2.bp.blogspot.com/-EaH19Sr0pnE/WcPa8jyYVfI/AAAAAAAALaU/opLfqZWFVF4DJwYy7kLcli2y0OwBADCMwCLcBGAs/s1600/2S.jpg
+date=2017-10-01
+URL=https://openload.co/f/LAvu6N0H-_w/Garoojigi_-_Stud_The_Beginning_%282017%29_%5BUncute%5D
+
+type=video
+name=Sex First, Love Second (2017)
+thumb=https://2.bp.blogspot.com/-caEPJcRa_Qk/WcPa8ZlckFI/AAAAAAAALaQ/Fviv3dNLcl4vr32e-SY_Q6tofm1s7Z-OACLcBGAs/s1600/2.jpg
+date=2017-10-01
+URL=https://openload.co/f/Dx2YA4kkkMo/Sex_First%2C_Love_Second_%282017%29_%5BUncute%5D
+
+type=video
+name=Noboru Ando’s Chronicle of Fugitive Days and Sex (1976)
+thumb=https://2.bp.blogspot.com/-SLIBwnl_pfg/WcEpAcrpE8I/AAAAAAAALZE/Xg3VP6JF6d8RKSBGKPewahD6lf3eIDuxQCLcBGAs/s1600/3.jpg
+date=2017-10-01
+URL=https://openload.co/f/B5-eGY4O1Dg/Noboru_Ando%27s_Chronicle_of_Fugitive_Days_and_Sex_%281976%29.mkv.mp4
+
+type=video
+name=Sex (2010)
+thumb=https://3.bp.blogspot.com/-v2Ci2cHdq_0/WcEUvAL1eKI/AAAAAAAALYY/LhfpNWEu29kSsve295S2eO3siETbUIPTACLcBGAs/s1600/2%25E0%25B8%2586.png
+date=2017-10-01
+URL=https://openload.co/f/2jkqyDloydw/Sex_2010_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=My Student’s Mom (2016)
+thumb=https://4.bp.blogspot.com/-c4JnLHhXPow/WcEUI6uqnvI/AAAAAAAALYQ/528sFmfukAUEZ1DuYTEUpIKGSlZqxkmjgCLcBGAs/s1600/2.png
+date=2017-10-01
+URL=https://openload.co/f/88xHcxgbU4s/My_Student%27s_Mom_2016_UNCUT_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Dental Assistant of Brothers Wife (2016)
+thumb=https://1.bp.blogspot.com/-3XPsske3rLQ/WcESkYyGnBI/AAAAAAAALX4/dAMV8Ahy8gkDHwQGlczJdtw7tyoKKuIIgCLcBGAs/s1600/1.png
+date=2017-10-01
+URL=https://openload.co/f/UCOUCkm0BAM/Dental_Assistant_of_Brothers_Wife_2016_HDRip_%5BLayar-21.com%5D.mp4
 
 
 

@@ -247,7 +247,8 @@ type=video
 name=The Dreamers (2003)
 thumb=https://image.tmdb.org/t/p/w640/7ABcfmXQZeCXl5sNrDuLS1URMPN.jpg
 date=2017-08-15
-URL=https://openload.co/f/-bs-z8Hp0Ws/%5Bfmovies.to%5D_The_Damers.2003.720p.BrRip.x264.YIFY.RE.160606.mp4
+URL=http://entervideo.net/watch/5a31613dbee9331
+#https://openload.co/f/-bs-z8Hp0Ws/%5Bfmovies.to%5D_The_Damers.2003.720p.BrRip.x264.YIFY.RE.160606.mp4
 
 type=video
 name=Last Tango in Paris (1972)
@@ -277,7 +278,8 @@ type=video
 name=Womb (2010)
 thumb=https://image.tmdb.org/t/p/w640/2GMVSKD1LkVckweKBZ8jd23bDcv.jpg
 date=2017-08-15
-URL=https://openload.co/f/67IWJ_hbpCk/Womb.2010.720p.BrRip.x264.YIFY.mp4
+URL=http://entervideo.net/watch/162ae69494f4a0b
+#https://openload.co/f/67IWJ_hbpCk/Womb.2010.720p.BrRip.x264.YIFY.mp4
 
 type=video
 name=My Little Princess (2011)
@@ -313,7 +315,8 @@ type=video
 name=Secret Things (2002)
 thumb=https://image.tmdb.org/t/p/w640/bipr9hRC8hYlWhkYywINhFJ4INT.jpg
 date=2017-08-15
-URL=https://openload.co/f/d_F2RK4HYS4/Secret_Things.LHSAX.mp4
+URL=http://entervideo.net/watch/51c5d295878de28
+#https://openload.co/f/d_F2RK4HYS4/Secret_Things.LHSAX.mp4
 
 type=video
 name=The Doom Generation (1995)
@@ -326,12 +329,14 @@ name=Angelique (2013)
 thumb=https://image.tmdb.org/t/p/w640/ilxsOXHDsDykyfYrOU8VTioIvrL.jpg
 date=2017-08-15
 URL=https://openload.co/f/X7Ll3oHH0zA/Angelique.2013.1080p.BRRip.h264.AAC-RARBG.A2E24.mp4
+#http://entervideo.net/watch/4c91bac846a4fdd
 
 type=video
 name=The Last Mistress (2007) (B)
 thumb=https://image.tmdb.org/t/p/w640/LFCUWTHJ26TFgkoVcndPLXv1MW.jpg
 date=2017-08-15
 URL=https://openload.co/f/gXaj_7p6dFQ/The.Last.Mistress.DVDRip.XviD_2.B631E.mp4
+#http://srv12.vidzi.tv/hls2/,hzuqi7pjvu2qedz7njlbxebniyx7iimk64rxhufhy3afcx7tr3jj4qypyskq,.urlset/master.m3u8
 
 type=video
 name=The Last Mistress (2007) (A)
@@ -343,7 +348,8 @@ type=video
 name=Bathory: Countess of Blood (2008)
 thumb=https://image.tmdb.org/t/p/w640/1Eo1i3SSWfwmYLhzwzySVZr3nqD.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/N2tgOdFGQV45_WeAe3An9NompH5wntCDe2xiMFnzU-n_GUvBN7WsAJNOnekuVKq62M14CCqF=m22?s=ZArN0YdRXfVZ7dI=
+URL=http://entervideo.net/watch/9fb00a729aadae3
+#https://3.bp.blogspot.com/N2tgOdFGQV45_WeAe3An9NompH5wntCDe2xiMFnzU-n_GUvBN7WsAJNOnekuVKq62M14CCqF=m22?s=ZArN0YdRXfVZ7dI=
 
 type=video
 name=The Fish Child (2009)
@@ -355,7 +361,8 @@ type=video
 name=Sex and Lucia (2001)
 thumb=https://image.tmdb.org/t/p/w640/1sXh1xMe9KVqGvA5tBqG9DrYhzn.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/FzVA7bQG9f_T39ir-3IjrmlpfXaRcL2pc_HPCB2wHMV__lowOKA7vGuZdDAOS_7WmY_Wj3ytOg=m22?s=ZArN0YdRXfVZ7dI=
+URL=http://entervideo.net/watch/da4340d8c88f7bd
+#https://3.bp.blogspot.com/FzVA7bQG9f_T39ir-3IjrmlpfXaRcL2pc_HPCB2wHMV__lowOKA7vGuZdDAOS_7WmY_Wj3ytOg=m22?s=ZArN0YdRXfVZ7dI=
 
 type=video
 name=House of Tolerance (2011) (A)
@@ -403,13 +410,15 @@ type=video
 name=The Summer of Sangaile (2015)
 thumb=https://image.tmdb.org/t/p/w640/yNn4diwZxukfcgIGwpkDeqTwRsn.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/3iOJimJtgxWk8aWF3Gda0-wy6VJIJAxK6cSaEZFzMqwjsangKiqBtUnmIf4g_UMIK-4WjkjBbA=m18?s=ZArN0YdRXfVZ7dI=
+URL=http://entervideo.net/watch/34b466b0312ab3b
+#https://3.bp.blogspot.com/3iOJimJtgxWk8aWF3Gda0-wy6VJIJAxK6cSaEZFzMqwjsangKiqBtUnmIf4g_UMIK-4WjkjBbA=m18?s=ZArN0YdRXfVZ7dI=
 
 type=video
 name=From Straight A's to XXX (2017)
 thumb=https://image.tmdb.org/t/p/w640/q4Nz80qQOmRSbW2ujYVTKP57BEy.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/LNigfYnCxkzSJsP1rirD7VaKwHZpxm_OJz6KSrs76grocl4KjAntXY-H3iBAwKTF8_WgHoobVg=m22?s=ZArN0YdRXfVZ7dI=
+URL=http://entervideo.net/watch/c5ec5e266b32a8d
+#https://3.bp.blogspot.com/LNigfYnCxkzSJsP1rirD7VaKwHZpxm_OJz6KSrs76grocl4KjAntXY-H3iBAwKTF8_WgHoobVg=m22?s=ZArN0YdRXfVZ7dI=
 
 type=video
 name=Sleeping Beauties (2017)
@@ -427,19 +436,22 @@ type=video
 name=Darker Shades of Elise (2017)
 thumb=https://image.tmdb.org/t/p/w640/lGFmVRpuMWE7Xly0fLcNnO1SiX1.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/TxMv4H8MJiYFfi_Krl0T52rTkS_hHA8eUNjFG8VAMH6WWihliiB9HeigqWwvLMRgUUUM4LuK=m18
+URL=http://entervideo.net/watch/9722d661952f254
+#https://3.bp.blogspot.com/TxMv4H8MJiYFfi_Krl0T52rTkS_hHA8eUNjFG8VAMH6WWihliiB9HeigqWwvLMRgUUUM4LuK=m18
 
 type=video
 name=The Empty Hours (2013)
 thumb=https://image.tmdb.org/t/p/w640/1XvXMk6n2ZxUKHvZxjVMAgsVN4v.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/Fy6RYBicnvb6diLikGzNVP5WcAHaad6Rxr8j_Ydi_Ax6If2M9G3ax_dGLfDGDmn98E0sUO548g=m22
+URL=http://entervideo.net/watch/540a953a100850e
+#https://3.bp.blogspot.com/Fy6RYBicnvb6diLikGzNVP5WcAHaad6Rxr8j_Ydi_Ax6If2M9G3ax_dGLfDGDmn98E0sUO548g=m22
 
 type=video
 name=First Girl I Loved (2016)
 thumb=https://image.tmdb.org/t/p/w640/n5oTkCZL3duY8gAfYtDbsPCmBBo.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/2fjZpg-dhksL83mUYujvslEc-XJAz2SuLjbYxXTiiUF8hf7kmTZ_LpZYY78Xr4vMU--enktzsg=m22
+URL=http://entervideo.net/watch/e179b833af1c891
+#https://3.bp.blogspot.com/2fjZpg-dhksL83mUYujvslEc-XJAz2SuLjbYxXTiiUF8hf7kmTZ_LpZYY78Xr4vMU--enktzsg=m22
 
 type=video
 name=Loving (2017)
