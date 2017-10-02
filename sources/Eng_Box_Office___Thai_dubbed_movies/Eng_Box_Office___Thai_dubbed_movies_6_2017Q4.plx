@@ -150,7 +150,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-09-29
+date=2017-10-02
 URL=
 
 
@@ -158,6 +158,13 @@ URL=
 
 
 
+
+
+type=video
+name=An Ordinary Man (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/fyg3lIA2ddFb0zdrHFI4Y9CUFwe.jpg
+date=2017-10-02
+URL=https://openload.co/f/z1asGOwp7mk/An.Ordinary.Man.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=Gerald's Game (2017) ENG web.x264-strife
@@ -206,8 +213,6 @@ name=Cabin 28 (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/crvqys951H0yVoPR38oSg6YAxSj.jpg
 date=2017-09-27
 URL=https://openload.co/f/ceMB5RDxNkE/Cabin_28.2017.HDRip.XviD.AC3-EVO.avi.mp4
-
-
 
 type=video
 name=Crash Pad (2017) ENG HDRip.XviD.AC3-EVO
@@ -304,8 +309,6 @@ name=The Good Catholic (2017) ENG WEB-DL.XviD.AC3-FGT
 thumb=https://image.tmdb.org/t/p/w640/iPvggWYCZblEG2ldObR6GHmkEjz.jpg
 date=2017-09-08
 URL=https://openload.co/f/fnBC5t378Ow/The.Good.Catholic.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
-
-
 
 type=video
 name=The Limehouse Golem (2017) ENG WEB-DL.H264.AC3-EVO
@@ -557,11 +560,7 @@ thumb=https://image.tmdb.org/t/p/w640/hkmWkVgirei79bwds23Hr0lWSXS.jpg
 date=2017-09-26
 URL=https://openload.co/f/keXLH-SrQw8/The.House.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 
-type=video
-name=Cult of Chucky (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/6IGI6CADqcvl8qhPt2irsqCQPcZ.jpg
-date=2017-09-26
-URL=https://openload.co/f/EVljFMCMj4I/Cult.of.Chucky.2017.UNRATED.1080p.BluRay.x264-ROVERS.mkv.mp4
+
 
 type=video
 name=A Few Less Men (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -981,10 +980,10 @@ URL=https://openload.co/f/qXaLPD1GEng/It_%282017%29%E0%B8%AD%E0%B8%B4%E0%B8%97_%
 
 
 type=video
-name=The Emoji Movie (2017) ENG HDCAM_-_UnKnOwN
+name=The Emoji Movie (2017) ENG HC.HDRIP-x264-WWRG
 thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
-date=2017-08-04
-URL=https://openload.co/f/Z7O8RrljTtc/The_Emoji_Movie_2017_HDCAM_-_UnKnOwN.avi.mp4
+date=2017-10-02
+URL=https://openload.co/f/6Avwq2_osI4/The_Emoji_Movie_%282017%29.HC.HDRIP-x264-WWRG.MP4
 type=video
 name=The Emoji Movie (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
@@ -1058,7 +1057,7 @@ name=War for the Planet of the Apes (2017) ENG MKV 3.2GB KORSUB.HDRip.x264.AAC2.
 thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
 date=2017-10-01
 URL=https://openload.co/f/j5rlKVpyp0g/War.for.the.Planet.of.the.Apes.2017.720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv
-#https://openload.co/f/DER5sr58bAc/War.For.The.Planet.Of.The.Apes.2017.720p.HDRip.KORSUB.mkv.mp4
+#https://openload.co/f/cu9LeejYP3M/War.for.the.Planet.of.the.Apes.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 type=video
 name=War for the Planet of the Apes (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
@@ -1121,18 +1120,33 @@ URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8
 
 
 
-
+type=video
+name=
+thumb=
+date=2017-10-02
+URL=
 
 
 
 type=video
 name=
 thumb=
-date=
+date=2017-10-02
 URL=
 
 
 
+
+type=video
+name=Cult of Chucky (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/6IGI6CADqcvl8qhPt2irsqCQPcZ.jpg
+date=2017-09-26
+URL=https://openload.co/f/EVljFMCMj4I/Cult.of.Chucky.2017.UNRATED.1080p.BluRay.x264-ROVERS.mkv.mp4
+type=video
+name=Cult of Chucky (2017) TH SUB
+thumb=https://image.tmdb.org/t/p/w640/6IGI6CADqcvl8qhPt2irsqCQPcZ.jpg
+date=2017-10-02
+URL=https://openload.co/f/-dty928hy98/Cult_of_Chucky_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -1141,7 +1155,7 @@ thumb=http://image.tmdb.org/t/p/w500/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg
 date=2017-09-13
 URL=https://openload.co/f/ZzTv4nG6fPc/Get_Out_%282017%29_1080p_Blu-ray_H264.AAC-YIN.mkv.mp4
 type=video
-name=Get Out (2017) SUB
+name=Get Out (2017) TH SUB
 thumb=http://image.tmdb.org/t/p/w500/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg
 date=2017-07-17
 URL=https://streamango.com/f/cadmfmdnpbntaakm/Get_Out_2017_Sub_TH_mkv_mp4
@@ -1157,7 +1171,7 @@ thumb=http://image.tmdb.org/t/p/w500/ubR8Oc1jnvnM9tJLyKEGRhqNeO0.jpg
 date=2017-07-25
 URL=https://openload.co/f/RfyxiIRAiSc/Boyka.Undisputed.2016.1080p.BluRay.x264-ROVERS.mkv.mp4
 type=video
-name=Boyka: Undisputed IV (2016) SUB
+name=Boyka: Undisputed IV (2016) TH SUB
 thumb=http://image.tmdb.org/t/p/w500/ubR8Oc1jnvnM9tJLyKEGRhqNeO0.jpg
 URL=https://openload.co/f/ErBIUzRx53Q/Boyka-_Undisputed_IV_%282016%29_%E0%B8%A2%E0%B8%B9%E0%B8%A3%E0%B8%B4_%E0%B8%9A%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B9%89%E0%B8%B2_%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%8A%E0%B8%81%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%99.mp4
 player=default
@@ -1322,7 +1336,14 @@ description=When Michelle, the CEO of a gaming software company, is attacked in 
 type=video
 name=
 thumb=
-date=2017-09-29
+date=2017-10-02
+URL=
+
+
+type=video
+name=
+thumb=
+date=2017-10-02
 URL=
 
 
@@ -1331,10 +1352,12 @@ URL=
 
 
 type=video
-name=Detective Conan: Crimson Love Letter (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/shpjDVjugLMoc4Wt1eRdueH5IOf.jpg
-date=2017-09-29
-URL=https://openload.co/f/b7TmS7Y2nJ8/Detective_Conan%3A_Crimson_Love_Letter_%282017%29%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%A7_%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99_%3A_%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+name=Bushwick (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg
+date=2017-10-02
+URL=https://openload.co/f/ec1xrtavae4/Bushwick_%282017%29%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+
+
 
 type=video
 name=The Battleship Island (2017) TH CAM SOUND
@@ -1572,9 +1595,17 @@ URL=
 type=video
 name=
 thumb=
-date=2017-09-29
+date=2017-10-02
 URL=
 
+
+
+
+type=video
+name=Detective Conan: Crimson Love Letter (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/shpjDVjugLMoc4Wt1eRdueH5IOf.jpg
+date=2017-10-02
+URL=https://openload.co/f/wGf1kg21lOQ/Detective_Conan%3A_Crimson_Love_Letter_%282017%29%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%A7_%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99_%3A_%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
 
 
 type=video
