@@ -15,8 +15,8 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 type=video
 name=HBO HD (TH)
 thumb=https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png
-date=2017-09-30
-URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbohdth_720p/chunklist.m3u8
+date=2017-10-02
+URL=http://www.playontube.com:1935/cinema/HBO.stream/playlist.m3u8
 
 type=video
 name=movie1
@@ -234,7 +234,7 @@ URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbosignature_720p/chun
 type=video
 name=HBO HD
 thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbohdth_720p/chunklist.m3u8
+URL=http://www.playontube.com:1935/cinema/HBO.stream/playlist.m3u8
 
 type=video
 name=HBO Family
@@ -244,7 +244,7 @@ URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbofam_720p/chunklist.
 type=video
 name=HBO Hits
 thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbohit_720p/chunklist.m3u8
+URL=http://www.playontube.com:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 type=video
 name=HISTORY
@@ -254,7 +254,7 @@ URL=http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_historyhd_720p/chunklist.m
 type=video
 name=Cinemax
 thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_cinemax_720p/chunklist.m3u8
+URL=http://www.playontube.com:1935/cinema/CINEMAX.stream/playlist.m3u8
 
 type=video
 name=Fox Fa MovHD 

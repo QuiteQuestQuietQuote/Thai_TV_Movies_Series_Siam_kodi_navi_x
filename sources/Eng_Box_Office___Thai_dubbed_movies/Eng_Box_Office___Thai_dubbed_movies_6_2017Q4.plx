@@ -917,10 +917,22 @@ URL=
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
 thumb=https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png
-date=2017-09-30
-URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbohdth_720p/chunklist.m3u8
+date=2017-10-02
+URL=http://www.playontube.com:1935/cinema/HBO.stream/playlist.m3u8
 player=default
 rating=-1.00
+
+type=video
+name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
+thumb=
+URL=http://www.playontube.com:1935/cinema/HBOhits.stream/chunklist.m3u8
+
+type=video
+name=[COLOR=FF00FF00]Thai_______Thai______Thai______Cinemax (TH)[/COLOR]
+thumb=
+URL=http://www.playontube.com:1935/cinema/CINEMAX.stream/playlist.m3u8
+
+
 
 type=video
 name=

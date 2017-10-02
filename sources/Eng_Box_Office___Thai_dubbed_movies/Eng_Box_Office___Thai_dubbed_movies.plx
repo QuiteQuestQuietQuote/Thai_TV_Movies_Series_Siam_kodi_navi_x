@@ -73,8 +73,19 @@ rating=-1.00
 type=video
 name=HBO HD (TH)
 thumb=https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png
-date=2017-09-30
-URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbohdth_720p/chunklist.m3u8
+date=2017-10-02
+URL=http://www.playontube.com:1935/cinema/HBO.stream/playlist.m3u8
+
+type=video
+name=HBO Hits
+thumb=
+URL=http://www.playontube.com:1935/cinema/HBOhits.stream/chunklist.m3u8
+
+type=video
+name=Cinemax
+thumb=
+URL=http://www.playontube.com:1935/cinema/CINEMAX.stream/playlist.m3u8
+
 
 type=video
 name=movie1
@@ -240,24 +251,49 @@ URL=
 
 
 type=video
-name=UPMOVIE
-thumb=
-URL=http://27.131.166.195:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+name=HBO HD (TH)
+thumb=https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png
+date=2017-10-02
+URL=http://www.playontube.com:1935/cinema/HBO.stream/playlist.m3u8
+
 
 type=video
-name=MOVIE1
+name=HBO Hits
 thumb=
+URL=http://www.playontube.com:1935/cinema/HBOhits.stream/chunklist.m3u8
+
+type=video
+name=Cinemax
+thumb=
+URL=http://www.playontube.com:1935/cinema/CINEMAX.stream/playlist.m3u8
+
+type=video
+name=movie1
+thumb=http://www.thaiptv.com/img/movie1logo.png
 URL=http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+player=default
+rating=-1.00
 
 type=video
-name=MOVIE2
-thumb=
+name=movie2
+thumb=http://www.thaiptv.com/img/movie2logo.png
 URL=http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+player=default
+rating=-1.00
 
 type=video
-name=MOVIE3
-thumb=
+name=movie3
+thumb=http://www.thaiptv.com/img/movie3logo.png
 URL=http://27.131.166.195:1935/live/_definst_/movie3.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+player=default
+rating=-1.00
+
+type=video
+name=4Kmovie
+thumb=http://www.thaiptv.com/img/movie3logo.png
+URL=http://27.131.166.195:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+player=default
+rating=-1.00
 
 type=video
 name=HBO Signature 
