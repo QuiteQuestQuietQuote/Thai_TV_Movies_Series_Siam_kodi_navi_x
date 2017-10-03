@@ -55,10 +55,11 @@ URL=
 
 
 type=video
-name=Spider-Man: Homecoming (2017) ENG WEB-DL.H264.AC3-EVO
+name=Spider-Man: Homecoming (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 9.8GB
 thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
-date=2017-09-26
-URL=https://openload.co/f/TrWimoh8gas/Spider-Man.Homecoming.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2017-10-03
+URL=https://openload.co/f/iqm63BOatDk/spider-man.homecoming.2017.1080p.bluray.x264-sparks.mkv
+#https://openload.co/f/ucfMoAn8gTk/spider-man.homecoming.2017.1080p.bluray.x264-sparks.mkv.mp4
 type=video
 name=Spider-Man: Homecoming (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg

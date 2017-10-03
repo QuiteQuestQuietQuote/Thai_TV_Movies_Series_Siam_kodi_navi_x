@@ -65,68 +65,83 @@ URL=
 
 type=video
 name=samrujlok
-thumb=
-URL=http://footballmetro.myftp.org:1935/live2/0x777_samrujlok_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/0ca/T4pLXF.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x777_samrujlok_720p/chunklist.m3u8
 
 type=video
 name=H2
-thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_h2hd_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/185/pgUNA4.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x777_h2hd_720p/chunklist.m3u8
 
 type=video
 name=AXN
-thumb=
-URL=http://footballmetro.myftp.org:1935/live2/0x777_axnhd_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/250/HQwyOy.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x777_axnhd_720p/chunklist.m3u8
 
 type=video
 name=Discovery Channel
-thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-2/00_dischannel_480p/chunklist.m3u8
+thumb=http://www.mx7.com/i/07a/ahB6J5.jpg
+URL=http://191.96.38.41:19362/sportgames88/00_dischannel_480p/chunklist.m3u8
 
 type=video
 name=Discovery Science
-thumb=
-URL=http://footballmetro.myftp.org:1935/live2/0x777_dissci_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/2fa/Biloyo.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x777_dissci_720p/chunklist.m3u8
 
 type=video
 name=Discovery Asia
-thumb=
-URL=http://footballmetro.myftp.org:1935/live2/0x777_discoveryworldhd_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/27e/YDLol9.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x777_discoveryworldhd_720p/chunklist.m3u8
 
 type=video
 name=National Geo Wild
-thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-3/0x222_natgeowild_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/21b/sWocNj.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x222_natgeowild_720p/chunklist.m3u8
 
 type=video
 name=National Geographic
-thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-3/0x222_natgeographic_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/294/OzhYow.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x222_natgeographic_720p/chunklist.m3u8
 
 type=video
 name=National Geo People
-thumb=
-URL=http://footballmetro.myftp.org:1935/live3/0x222_natgeopeople_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/04d/z4i0Wv.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x222_natgeopeople_720p/chunklist.m3u8
 
 type=video
 name=Animal Planet
-thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_animalplanet_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/2cf/DN1Mne.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x777_animalplanet_720p/chunklist.m3u8
 
 type=video
 name=mysci 
-thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-2/0x222_mysci_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/27a/Fopb12.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x222_mysci_720p/chunklist.m3u8
 
 type=video
 name=BBC Life Style
-thumb=
-URL=http://footballmetro.myftp.org:1935/live2/0x222_lifestylehd_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/13c/ryQ9nt.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x222_lifestylehd_720p/chunklist.m3u8
 
 type=video
-name=FYI
-thumb=
-URL=http://footballmetro.myftp.org:1935/live3/0x222_fyihdthai_720p/chunklist.m3u8
+name=eve
+thumb=http://www.mx7.com/i/0ff/Hwldyq.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x222_evehd_720p/chunklist.m3u8
+
+type=video
+name=true explore_1
+thumb=http://www.mx7.com/i/209/afjEjJ.jpg
+URL=http://191.96.38.41:19362/sportgames88/00_exp1_480p/chunklist.m3u8
+
+type=video
+name=true explore_2
+thumb=http://www.mx7.com/i/12f/Ey5b1g.jpg
+URL=http://191.96.38.41:19362/sportgames88/00_exp2_480p/chunklist.m3u8
+
+type=video
+name=true explore_3
+thumb=http://www.mx7.com/i/223/yWyXbP.jpg
+URL=http://191.96.38.41:19362/sportgames88/00_exp3_480p/chunklist.m3u8
 
 type=video
 name=HISTORY

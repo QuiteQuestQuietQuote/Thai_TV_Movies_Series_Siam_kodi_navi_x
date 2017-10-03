@@ -256,122 +256,147 @@ thumb=https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png
 date=2017-10-02
 URL=http://www.playontube.com:1935/cinema/HBO.stream/playlist.m3u8
 
+type=video
+name=Fox Mov Pre HD 
+thumb=http://www.mx7.com/i/066/T6hJgg.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x222_ais_foxpremiumth_720p/chunklist.m3u8
 
 type=video
 name=HBO Hits
-thumb=
+thumb=http://www.mx7.com/i/2e2/mIMRSx.jpg
 URL=http://www.playontube.com:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 type=video
 name=Cinemax
-thumb=
+thumb=http://www.mx7.com/i/2b9/6l5qL6.jpg
 URL=http://www.playontube.com:1935/cinema/CINEMAX.stream/playlist.m3u8
 
-type=video
-name=movie1
-thumb=http://www.thaiptv.com/img/movie1logo.png
-URL=http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-player=default
-rating=-1.00
-
-type=video
-name=movie2
-thumb=http://www.thaiptv.com/img/movie2logo.png
-URL=http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-player=default
-rating=-1.00
-
-type=video
-name=movie3
-thumb=http://www.thaiptv.com/img/movie3logo.png
-URL=http://27.131.166.195:1935/live/_definst_/movie3.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-player=default
-rating=-1.00
 
 type=video
 name=4Kmovie
-thumb=http://www.thaiptv.com/img/movie3logo.png
+thumb=http://www.mx7.com/i/2b7/6WLUcB.jpg
+date=2017-10-03
 URL=http://27.131.166.195:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-player=default
-rating=-1.00
+
+type=video
+name=MOVIE1
+thumb=http://www.mx7.com/i/2e2/OIA8ZX.jpg
+URL=http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+
+type=video
+name=MOVIE2
+thumb=http://www.mx7.com/i/1bf/Oi79CO.jpg
+URL=http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+
+type=video
+name=MOVIE3
+thumb=http://www.mx7.com/i/1dc/rF4hAO.jpg
+URL=http://27.131.166.195:1935/live/_definst_/movie3.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 type=video
 name=HBO Signature 
-thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbosignature_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/1d7/BlrT1n.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x222_ais_hbosignature_720p/chunklist.m3u8
 
 type=video
 name=HBO HD
-thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbohdth_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/074/6DSfBy.jpg
+URL=http://www.playontube.com:1935/cinema/HBO.stream/playlist.m3u8
 
 type=video
 name=HBO Family
-thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbofam_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/262/pqRGWE.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x222_ais_hbofam_720p/chunklist.m3u8
 
 type=video
 name=HBO Hits
-thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbohit_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/2e2/mIMRSx.jpg
+URL=http://www.playontube.com:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 type=video
 name=HISTORY
-thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_historyhd_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/04c/XTsmhv.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x777_historyhd_720p/chunklist.m3u8
 
 type=video
 name=Cinemax
-thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_cinemax_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/2b9/6l5qL6.jpg
+URL=http://www.playontube.com:1935/cinema/CINEMAX.stream/playlist.m3u8
 
 type=video
 name=Fox Fa MovHD 
-thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_foxfamth_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/13a/Dfmd9j.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x222_ais_foxfamen_720p/chunklist.m3u8
 
 type=video
 name=Fox Ac Mov HD
-thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_foxactionmovieth_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/137/eWfw3n.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x222_foxactionmovieth_720p/chunklist.m3u8
 
 type=video
 name=Fox Mov Pre HD 
-thumb=
-URL=http://footballmetro.myftp.org:1935/live4/0x222_ais_foxpremiumth_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/066/T6hJgg.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x222_ais_foxpremiumth_720p/chunklist.m3u8
 
 type=video
 name=Fox Crime
-thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-3/0x222_foxcrimehdthai_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/22e/9hSOxc.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x222_foxcrimehdthai_720p/chunklist.m3u8
 
 type=video
 name=FX
-thumb=
-URL=http://footballmetro.myftp.org:1935/live3/0x222_fxthailand_720p/chunklist.m3u8  
+thumb=http://www.mx7.com/i/233/U5gopJ.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x222_fxthailand_720p/chunklist.m3u8
 
 type=video
 name=FOX Thai
-thumb=
-URL=http://footballmetro.myftp.org:1935/live1/00_foxthai_480p/chunklist.m3u8
+thumb=http://www.mx7.com/i/095/xiQPuc.jpg
+URL=http://191.96.38.41:19362/sportgames88/00_foxthai_480p/chunklist.m3u8
 
 type=video
 name=Starworld
-thumb=
-URL=http://footballmetro.myftp.org:1935/live3/0x222_starworldhdthai_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/289/o8zTaq.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x222_starworldhdthai_720p/chunklist.m3u8
 
 type=video
 name=Warner TV
-thumb=
-URL=http://footballmetro.myftp.org:1935/live3/0x777_warnertv_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/2b2/COTUDF.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x777_warnertv_720p/chunklist.m3u8
 
 type=video
 name=Doonee HD
-thumb=
-URL=http://footballmetro.myftp.org:1935/live4/0x222_ais_doonee_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/2b1/BT1C07.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x222_ais_doonee_720p/chunklist.m3u8
 
+type=video
+name=RED by HBO
+thumb=http://www.mx7.com/i/01a/jAyBfq.jpg
+date=
+URL=http://191.96.38.41:19362/sportgames88/0x222_ais_redbyhbo_720p/chunklist.m3u8
 
+type=video
+name=thrill
+thumb=http://www.mx7.com/i/0d9/cJEKyL.jpg
+date=
+URL=http://191.96.38.41:19362/sportgames88/0x222_thrill_720p/chunklist.m3u8
 
+type=video
+name=true MovieHits
+thumb=http://www.mx7.com/i/1d4/AXEURi.jpg
+date=
+URL=http://191.96.38.41:19362/sportgames88/00_moviehits_480p/chunklist.m3u8
+
+type=video
+name=true ThaiFilm
+thumb=http://www.mx7.com/i/167/NDQoWF.jpg
+date=
+URL=http://191.96.38.41:19362/sportgames88/00_2thaifilm_480p/chunklist.m3u8
+
+type=video
+name=true FilmAsia
+thumb=http://www.mx7.com/i/14e/W5mDkW.jpg
+date=2017-10-03
+URL=http://191.96.38.41:19362/sportgames88/00_filmasia_480p/chunklist.m3u8
 
 
 

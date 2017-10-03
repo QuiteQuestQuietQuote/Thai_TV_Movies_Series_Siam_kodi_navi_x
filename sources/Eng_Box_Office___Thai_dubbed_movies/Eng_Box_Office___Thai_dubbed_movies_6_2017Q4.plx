@@ -84,11 +84,11 @@ date=2017-09-25
 URL=https://openload.co/f/WQ05MivPxqg/The.LEGO.Ninjago.Movie.2O17.TS.72Op.Russian.mp4
 
 type=video
-name=mother! (2017) RUS-CHN
+name=mother! (2017) ENG HDCAM X264 HQMic-NoGRP
 thumb=https://image.tmdb.org/t/p/w640/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
-date=2017-09-25
-URL=https://openload.co/f/7MKxUW-ShH8/Mother_2017_TS_720P_Mandarin_.mp4
-#https://openload.co/f/QwTjdJVfbvA/Mother.2017.Russian.CAMRip.1400MB-KOSHARA.avi.mp4
+date=2017-10-03
+URL=https://openload.co/f/eoh7pBYjRxo/mother%21_%282017%29.HDCAM
+
 
 type=video
 name=Tulip Fever (2017) RUS
@@ -150,7 +150,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-10-02
+date=2017-10-03
 URL=
 
 
@@ -160,11 +160,71 @@ URL=
 
 
 
+
+
+type=video
+name=Armstrong (2016) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/dPuL1DITI9UYBXt5UCqedWBtzPn.jpg
+date=2017-10-03
+URL=https://openload.co/f/sWAgEDGD2HY/Armstrong_%282016%29.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=The Honor Farm (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/lw8GrBu1t0EUKmPdVgwCwTLexip.jpg
+date=2017-10-03
+URL=https://openload.co/f/luV4wf2BwQU/The_Honor_Farm_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Nails (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/vcMBGsJH4DFKNoKMRL2Rz4c3hQn.jpg
+date=2017-10-03
+URL=https://openload.co/f/cPeZGpx2cOM/Nails.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Landline (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/p7RVsyi67S95RyNJjX99E1MaOsA.jpg
+date=2017-10-03
+URL=https://openload.co/f/XWT35nOc-Ck/Landline_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Marjorie Prime (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/wcIPaT9ktpJHNaMyAiRMcra8NIM.jpg
+date=2017-10-03
+URL=https://openload.co/f/jYyQ8PN8bAE/Marjorie_Prime_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Super Dark Times (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/7sJoNicLJ9EZwetp5ucjS8qQ9g1.jpg
+date=2017-10-03
+URL=https://openload.co/f/YdrHJ1mm07o/Super_Dark_Times_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Daphne (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/7Z5hfRmasEUeypPczBjW92GzMgb.jpg
+date=2017-10-03
+URL=https://openload.co/f/bZOKMzdGzUs/Daphne_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Maudie (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/wu9RPdV0uEemFEewJQ6fWwJ9ZcU.jpg
+date=2017-10-03
+URL=https://openload.co/f/BlLQGW-OJyc/Maudie_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+
 type=video
 name=An Ordinary Man (2017) ENG WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/fyg3lIA2ddFb0zdrHFI4Y9CUFwe.jpg
 date=2017-10-02
 URL=https://openload.co/f/z1asGOwp7mk/An.Ordinary.Man.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
+
+
+
+
+
+
+
+
+
 
 type=video
 name=Gerald's Game (2017) ENG web.x264-strife
@@ -393,16 +453,16 @@ date=2017-08-21
 URL=https://openload.co/f/-k0NTJi1-Hk/Detroit.2017.CAM.x264-THESTiG.mkv.mp4
 
 type=video
-name=Girls Trip (2017) ENG NEW.HD-TS.x264-CPG
-thumb=https://image.tmdb.org/t/p/w640/94nCLn74lBh4pLdZPIad18BpheE.jpg
-date=2017-08-20
-URL=https://openload.co/f/2gSdAWN-WgE/G.T.2017.NEW.HD-TS.x264-CPG.mkv.mp4
-
-type=video
 name=Anti Matter (2016) ENG WEB-DL_AAC2.0_H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/62oRA7ghxL9HGFHe5Dd9IVljyKi.jpg
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
+
+type=video
+name=Girls Trip (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/94nCLn74lBh4pLdZPIad18BpheE.jpg
+date=2017-10-03
+URL=https://openload.co/f/NM9m7P_LSh4/Girls_Trip_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
 
 
 
@@ -514,8 +574,29 @@ URL=
 type=video
 name=
 thumb=
-date=2017-09-29
+date=2017-10-03
 URL=
+
+type=video
+name=
+thumb=
+date=2017-10-03
+URL=
+
+
+
+
+
+
+type=video
+name=Hounds of Love (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/b4niGo8hpxIpmAZsGkpZK4mXiDo.jpg
+date=2017-10-03
+URL=https://openload.co/f/cCI2wifJHxA/Hounds.of.Love.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+
+
+
+
 
 
 
@@ -923,12 +1004,17 @@ rating=-1.00
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
-thumb=
+thumb=http://www.mx7.com/i/2e2/mIMRSx.jpg
 URL=http://www.playontube.com:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 type=video
+name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD (TH)[/COLOR]
+thumb=http://www.mx7.com/i/066/T6hJgg.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x222_ais_foxpremiumth_720p/chunklist.m3u8
+
+type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Cinemax (TH)[/COLOR]
-thumb=
+thumb=http://www.mx7.com/i/2b9/6l5qL6.jpg
 URL=http://www.playontube.com:1935/cinema/CINEMAX.stream/playlist.m3u8
 
 
@@ -968,10 +1054,10 @@ URL=https://openload.co/f/Elw1WEIapq8/American_Assassin_%282017%29%E0%B8%AD%E0%B
 
 
 type=video
-name=It (2017) ENG NEW_HD-TS_60FPS_x264_HQ-CPG---MKV
+name=It (2017) ENG HC.HDRip.x264-WWRG
 thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
-date=2017-09-16
-URL=https://openload.co/f/fx1ojpXEh2k/IT_2017_NEW_HD-TS_60FPS_x264_HQ-CPG.mkv
+date=2017-10-03
+URL=https://openload.co/f/ie1PuAQS0aU/I.T.2017.HC.HDRip.x264-WWRG.MP4.mp4
 type=video
 name=It (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
@@ -980,10 +1066,10 @@ URL=https://openload.co/f/qXaLPD1GEng/It_%282017%29%E0%B8%AD%E0%B8%B4%E0%B8%97_%
 
 
 type=video
-name=The Emoji Movie (2017) ENG HC.HDRIP-x264-WWRG
+name=The Emoji Movie (2017) ENG KORSUB.HDRip.x264-STUTTERSHIT
 thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
-date=2017-10-02
-URL=https://openload.co/f/6Avwq2_osI4/The_Emoji_Movie_%282017%29.HC.HDRIP-x264-WWRG.MP4
+date=2017-10-03
+URL=https://openload.co/f/cFzxTCE4xYI/The.Emoji.Movie.2017.KORSUB.HDRip.x264-STUTTERSHIT.mp4
 type=video
 name=The Emoji Movie (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
@@ -1028,19 +1114,6 @@ URL=https://openload.co/f/PicDXIigpMA/Atomic.Blond.2017.HD-TS.x264.ThaiRong_CpT%
 
 
 type=video
-name=Wish Upon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
-date=2017-09-29
-URL=https://openload.co/f/k3-alTvMyT8/Wish.Upon.2017.UNRATED.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/Yb9sKQH9gC8/Wish.Upon.2017.1080p.BluRay.x264-%255BYTS.AG%255D.mp4
-type=video
-name=Wish Upon (2017) TH CAM
-thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
-date=2017-08-05
-URL=https://streamango.com/f/sdrlcedflpbdcpnc/V_1_Wish_Upon_mp4
-
-
-type=video
 name=Dunkirk (2017) ENG NEW.HD-TS.X264-CPG.mkv
 thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
 date=2017-08-15
@@ -1052,17 +1125,8 @@ date=2017-08-20
 URL=https://openload.co/f/yHAqwafVlbk/Dunkirk.2017.HD-TS.x264.ThaiRong_CpT%40CtHts.mkv.mp4
 
 
-type=video
-name=War for the Planet of the Apes (2017) ENG MKV 3.2GB KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT
-thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
-date=2017-10-01
-URL=https://openload.co/f/j5rlKVpyp0g/War.for.the.Planet.of.the.Apes.2017.720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv
-#https://openload.co/f/cu9LeejYP3M/War.for.the.Planet.of.the.Apes.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-type=video
-name=War for the Planet of the Apes (2017) TH CAM
-thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
-date=2017-07-25
-URL=https://openload.co/f/ltgjHHKy-O8/War.For.The.Planet.Of.The.Apes.2017.CAMRip.XViD-26k.ThaIRong_-_CpT-CtHts%40SiamBIT.mkv.mp4
+
+
 
 
 
@@ -1343,12 +1407,35 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-02
+date=2017-10-03
 URL=
 
 
 
+type=video
+name=Wish Upon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
+date=2017-09-29
+URL=https://openload.co/f/k3-alTvMyT8/Wish.Upon.2017.UNRATED.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Yb9sKQH9gC8/Wish.Upon.2017.1080p.BluRay.x264-%255BYTS.AG%255D.mp4
+type=video
+name=Wish Upon (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
+date=2017-10-03
+URL=https://openload.co/f/K4Ta8lkseM4/Wish.Upon.2017.UNRATED.1080p.BluRay.x264.ThaiRong.5.1_CpT%40CtHts.mkv.mp4
 
+
+type=video
+name=War for the Planet of the Apes (2017) ENG MKV 3.2GB KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT
+thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
+date=2017-10-01
+URL=https://openload.co/f/j5rlKVpyp0g/War.for.the.Planet.of.the.Apes.2017.720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv
+#https://openload.co/f/cu9LeejYP3M/War.for.the.Planet.of.the.Apes.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+type=video
+name=War for the Planet of the Apes (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
+date=2017-10-03
+URL=https://openload.co/f/4RwwTLik414/War.for.the.Planet.of.the.Apes.2017.720p.KORSUB.HDRip.x264.AAC2.0-THR-AC3.2.0.mkv.mp4
 
 
 type=video
