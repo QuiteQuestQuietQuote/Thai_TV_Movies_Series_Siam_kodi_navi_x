@@ -145,8 +145,8 @@ URL=http://191.96.38.41:19362/sportgames88/00_exp3_480p/chunklist.m3u8
 
 type=video
 name=HISTORY
-thumb=
-URL=http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_historyhd_720p/chunklist.m3u8
+thumb=http://www.mx7.com/i/04c/XTsmhv.jpg
+URL=http://191.96.38.41:19362/sportgames88/0x777_historyhd_720p/chunklist.m3u8
 
 
 
