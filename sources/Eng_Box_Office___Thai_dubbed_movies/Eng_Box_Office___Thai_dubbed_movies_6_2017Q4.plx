@@ -86,8 +86,8 @@ URL=https://openload.co/f/WQ05MivPxqg/The.LEGO.Ninjago.Movie.2O17.TS.72Op.Russia
 type=video
 name=mother! (2017) ENG HDCAM X264 HQMic-NoGRP
 thumb=https://image.tmdb.org/t/p/w640/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
-date=2017-10-03
-URL=https://openload.co/f/eoh7pBYjRxo/mother%21_%282017%29.HDCAM
+date=2017-10-04
+URL=https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
 
 
 type=video
@@ -96,13 +96,25 @@ thumb=https://image.tmdb.org/t/p/w640/lmfop4zLqFWFTkKSYp7V5jgeM6I.jpg
 date=2017-09-07
 URL=http://entervideo.net/watch/240448923d3fecf
 
+type=video
+name=Good Time (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/cz0egudCsfsTzwUAL03A5UzoHGT.jpg
+date=2017-10-04
+URL=http://entervideo.net/watch/7d9f86e862a5007
+
 
 type=video
 name=
 thumb=
-date=2017-09-25
+date=2017-10-04
 URL=
 
+
+type=video
+name=My Little Pony: The Movie (2017) ENG HDRip XviD AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/15WbvKx7B7FiLZheK49Xc05oRIX.jpg
+date=2017-10-04
+URL=https://openload.co/f/wytXl8wsFLI/My_Little_Pony_The_Movie_2017_HDRip_%5BLayar-21.com%5D.mp4
 
 type=video
 name=The Glass Castle (2017) ENG HDCAM.x264_DiRG
@@ -160,7 +172,11 @@ URL=
 
 
 
-
+type=video
+name=Bon Cop Bad Cop 2 (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/qY4RGT6Ky1Z46BWaKohTlNp9ncU.jpg
+date=2017-10-04
+URL=https://openload.co/f/TjZUK8pdChA/Bon.Cop.Bad.Cop.2.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Armstrong (2016) ENG HDRip.XviD.AC3-EVO
@@ -580,13 +596,27 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-03
+date=2017-10-04
 URL=
 
 
 
 
 
+
+
+type=video
+name=The Little Hours (2017) [COLOR=FF00FF00]ENG WEB 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/wS69OOwBJzimoLIcmYMSVkmhCZM.jpg
+date=2017-10-04
+URL=https://openload.co/f/Bn35vNEQvpM/The_Little_Hours_%282017%29_%5B1080p%5D_%5BWEB-DL%5D_%5B896MB%5D.mp4
+
+type=video
+name=6 Days (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/yRbC0uRj1RDmF0JLon83il2dkR0.jpg
+date=2017-10-04
+URL=https://openload.co/f/Ib_9hObk2EY/6.Days.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/KC5z9jF5Tgg/6.Days.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Hounds of Love (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1434,8 +1464,8 @@ URL=https://openload.co/f/j5rlKVpyp0g/War.for.the.Planet.of.the.Apes.2017.720p.K
 type=video
 name=War for the Planet of the Apes (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
-date=2017-10-03
-URL=https://openload.co/f/4RwwTLik414/War.for.the.Planet.of.the.Apes.2017.720p.KORSUB.HDRip.x264.AAC2.0-THR-AC3.2.0.mkv.mp4
+date=2017-10-04
+URL=https://openload.co/f/-IDVOKjffsk/War_for_the_Planet_of_the_Apes_%282017%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
 type=video
@@ -1682,7 +1712,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-02
+date=2017-10-04
 URL=
 
 
