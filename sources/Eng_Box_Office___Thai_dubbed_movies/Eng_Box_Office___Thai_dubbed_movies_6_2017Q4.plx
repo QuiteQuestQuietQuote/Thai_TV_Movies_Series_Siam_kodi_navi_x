@@ -113,8 +113,8 @@ URL=
 type=video
 name=My Little Pony: The Movie (2017) ENG HDRip XviD AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/15WbvKx7B7FiLZheK49Xc05oRIX.jpg
-date=2017-10-04
-URL=https://openload.co/f/wytXl8wsFLI/My_Little_Pony_The_Movie_2017_HDRip_%5BLayar-21.com%5D.mp4
+date=2017-10-05
+URL=https://openload.co/f/aR3RxjAej4I/My_Little_Pony%3A_The_Movie_%282017%29.HDRip_XviD_AC3-EVO.mp4
 
 type=video
 name=The Glass Castle (2017) ENG HDCAM.x264_DiRG
@@ -475,10 +475,10 @@ date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
 type=video
-name=Girls Trip (2017) ENG HDRip.XviD.AC3-EVO
+name=Girls Trip (2017) ENG BRRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/94nCLn74lBh4pLdZPIad18BpheE.jpg
-date=2017-10-03
-URL=https://openload.co/f/NM9m7P_LSh4/Girls_Trip_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+date=2017-10-05
+URL=https://openload.co/f/p1Tf1QxQyV0/Girls_Trip.2017.BRRip.XviD.AC3-EVO.avi.mp4
 
 
 
@@ -596,7 +596,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-04
+date=2017-10-05
 URL=
 
 
@@ -606,10 +606,17 @@ URL=
 
 
 type=video
-name=The Little Hours (2017) [COLOR=FF00FF00]ENG WEB 1080p[/COLOR]
+name=Killing Hasselhoff (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/egfSTBgfMjKBCBGMysQON9fYF12.jpg
+date=2017-10-05
+URL=https://openload.co/f/2FeOJsI9U3g/Killing.Hasselhoff.2017.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+
+type=video
+name=The Little Hours (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/wS69OOwBJzimoLIcmYMSVkmhCZM.jpg
-date=2017-10-04
-URL=https://openload.co/f/Bn35vNEQvpM/The_Little_Hours_%282017%29_%5B1080p%5D_%5BWEB-DL%5D_%5B896MB%5D.mp4
+date=2017-10-05
+URL=https://openload.co/f/SOejYFdhlXg/The.Little.Hours.2017.1080p.BluRay.X264-AMIABLE.mp4
+#https://openload.co/f/Bn35vNEQvpM/The_Little_Hours_%282017%29_%5B1080p%5D_%5BWEB-DL%5D_%5B896MB%5D.mp4
 
 type=video
 name=6 Days (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1557,19 +1564,7 @@ date=2017-07-06
 URL=https://openload.co/f/GbUe5fZac2o/Kidnap_%282017%29_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
 
 
-type=video
-name=Transformers: The Last Knight (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
-date=2017-09-15
-URL=https://openload.co/f/menAdwUJ8js/Transformers.The.Last.Knight.2017.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
-#https://openload.co/f/jw76f78k7Ps/Transformers.The.Last.Knight.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/hHSnqmoz5G0/Transformers.The.Last.Knight.2017.1080p.BRRip.6CH.MkvCage.mkv.mp4
-#https://openload.co/f/IYCUnnMhu0o/Transformers_The_Last_Knight_%282017%29_%5B1080p%5D_%5BBluRay%5D_%5B1.5GB%5D.mp4
-type=video
-name=Transformers: The Last Knight (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
-date=2017-09-09
-URL=https://openload.co/f/85Q3rG95g_k/Transformers%3A_The_Last_Knight_%282017%29%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA_5%3A_%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+
 
 
 type=video
@@ -1716,6 +1711,22 @@ date=2017-10-04
 URL=
 
 
+
+
+
+type=video
+name=Transformers: The Last Knight (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
+date=2017-09-15
+URL=https://openload.co/f/menAdwUJ8js/Transformers.The.Last.Knight.2017.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
+#https://openload.co/f/jw76f78k7Ps/Transformers.The.Last.Knight.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/hHSnqmoz5G0/Transformers.The.Last.Knight.2017.1080p.BRRip.6CH.MkvCage.mkv.mp4
+#https://openload.co/f/IYCUnnMhu0o/Transformers_The_Last_Knight_%282017%29_%5B1080p%5D_%5BBluRay%5D_%5B1.5GB%5D.mp4
+type=video
+name=Transformers: The Last Knight (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
+date=2017-10-05
+URL=https://openload.co/f/hMX0jGq8QB4/Transformers%3A_The_Last_Knight_%282017%29%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA_5%3A_%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2.mp4
 
 
 type=video
