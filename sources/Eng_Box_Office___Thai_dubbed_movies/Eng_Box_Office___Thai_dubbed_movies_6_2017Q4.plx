@@ -162,7 +162,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-10-03
+date=2017-10-06
 URL=
 
 
@@ -170,7 +170,47 @@ URL=
 
 
 
+type=video
+name=The Crucifixion (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/aN1drk3BqIzCUICR436t3t0lq9H.jpg
+date=2017-10-06
+URL=https://openload.co/f/0Gsb3X7-US0/The_Crucifixion.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
+type=video
+name=Marjorie Prime (2017) ENG WEB-DL.DD5.1.H264FGT
+thumb=https://image.tmdb.org/t/p/w640/wcIPaT9ktpJHNaMyAiRMcra8NIM.jpg
+date=2017-10-06
+URL=https://openload.co/f/EPek0sdWJtY/Marjorie.Prime.2017.1080p.WEB-DL.DD5.1.H264FGT.mkv.mp4
+
+type=video
+name=Cold Moon (2016) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/lvSa2tlvXCUvk4dtKk0oK6lgmrt.jpg
+date=2017-10-06
+URL=https://openload.co/f/szCmH5CISp4/Cold.Moon.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=Paint It Black (2016) ENG WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/1i9CTlb2gabuIQJEDuPsc05GfEb.jpg
+date=2017-10-06
+URL=https://openload.co/f/syvOIsMJyAM/Paint.It.Black.2016.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
+type=video
+name=Walking Out (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/2D2XnnZKNhhxb3Ig0PM0OIVdmZ8.jpg
+date=2017-10-06
+URL=https://openload.co/f/fkXkBBTTZxM/Walking.Out.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=Better Watch Out (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
+date=2017-10-06
+URL=https://openload.co/f/zRhfEaYL4NQ/Better.Watch.Out.2016.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=East Side Sushi (2014) ENG webrip.x264-intenso
+thumb=https://image.tmdb.org/t/p/w640/hyDJxhPooTZQ3F889qxHyAUzBfO.jpg
+date=2017-10-06
+URL=https://openload.co/f/Q60lCySBuyA/east.side.sushi.2014.1080p.webrip.x264-intenso.mkv.mp4
 
 type=video
 name=Bon Cop Bad Cop 2 (2017) ENG HDRip.XviD.AC3-EVO
@@ -201,12 +241,6 @@ name=Landline (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/p7RVsyi67S95RyNJjX99E1MaOsA.jpg
 date=2017-10-03
 URL=https://openload.co/f/XWT35nOc-Ck/Landline_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
-
-type=video
-name=Marjorie Prime (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/wcIPaT9ktpJHNaMyAiRMcra8NIM.jpg
-date=2017-10-03
-URL=https://openload.co/f/jYyQ8PN8bAE/Marjorie_Prime_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Super Dark Times (2017) ENG HDRip.XviD.AC3-EVO
@@ -474,11 +508,7 @@ thumb=https://image.tmdb.org/t/p/w640/62oRA7ghxL9HGFHe5Dd9IVljyKi.jpg
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
-type=video
-name=Girls Trip (2017) ENG BRRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/94nCLn74lBh4pLdZPIad18BpheE.jpg
-date=2017-10-05
-URL=https://openload.co/f/p1Tf1QxQyV0/Girls_Trip.2017.BRRip.XviD.AC3-EVO.avi.mp4
+
 
 
 
@@ -596,7 +626,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-05
+date=2017-10-06
 URL=
 
 
@@ -604,6 +634,24 @@ URL=
 
 
 
+type=video
+name=68 Kill (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.7GB
+thumb=https://image.tmdb.org/t/p/w640/yz6PEuqdU0ylz1AGNo1MucjfOoA.jpg
+date=2017-10-06
+URL=https://openload.co/f/eOISEoSW6Xs/68.kill.2017.1080p.bluray.x264-justwatch.mkv
+#https://openload.co/f/ZeBh8t9Lsnk/68.kill.2017.1080p.bluray.x264-justwatch.mkv.mp4
+
+type=video
+name=Girls Trip (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/94nCLn74lBh4pLdZPIad18BpheE.jpg
+date=2017-10-06
+URL=https://openload.co/f/uficU85oMLc/girls_trip.2017.1080p.bluray.x264.rep-mkv.mp4
+
+type=video
+name=Cage Dive (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/3uUO9eDxHeDREIX77BaQiI88ajp.jpg
+date=2017-10-06
+URL=https://openload.co/f/SZko3M82QEw/Open.Water.3.Cage.Dive.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
 
 type=video
 name=Killing Hasselhoff (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1018,7 +1066,11 @@ date=2017-09-21
 URL=https://openload.co/f/a3OL4Fe1EkU/Goon.Last.of.the.Enforcers.2017.720p.BluRay.X264-AMIABLE.mkv
 #https://openload.co/f/_nzYcLqwj4Q/Goon.Last.of.the.Enforcers.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
-
+type=video
+name=Sniper: Ultimate Kill (2017) [COLOR=FF00FF00]ESP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/pi16aubY3qFKJWAh4npvm03ERkH.jpg
+date=2017-10-06
+URL=https://openload.co/f/83MCBzRY3xQ/Sniper.Ultimate.Kill.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
 
 
 
@@ -1181,7 +1233,16 @@ date=2017-08-18
 URL=https://player.vimeo.com/video/229810745
 
 
-
+type=video
+name=Overdrive (2017) ENG WEB-DL.X264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
+date=2017-10-06
+URL=https://openload.co/f/nk5QA-pH9oc/Overdrive.2017.720p.WEB-DL.X264.AC3-EVO.mp4
+type=video
+name=Overdrive (2017) TH TS
+thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
+date=2017-08-22
+URL=https://openload.co/f/aKav5LxRtP0/Overdrive.2017.D.TS.XVID.AC3.ThaiRong_CpT%40CtHts.mkv.mp4
 
 
 
@@ -1196,11 +1257,8 @@ thumb=https://image.tmdb.org/t/p/w640/y29CEE9oukwhNT6INWVEOaINHpR.jpg
 date=2017-09-24
 URL=https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B8%8B%E0%B8%A5%E0%B8%B5_%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
-type=video
-name=Overdrive (2017) TH TS
-thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
-date=2017-08-22
-URL=https://openload.co/f/aKav5LxRtP0/Overdrive.2017.D.TS.XVID.AC3.ThaiRong_CpT%40CtHts.mkv.mp4
+
+
 
 type=video
 name=Fairy Tail Movie 2: Dragon Cry (2017) TH CAM
