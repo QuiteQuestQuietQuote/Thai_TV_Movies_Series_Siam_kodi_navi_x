@@ -89,7 +89,6 @@ thumb=https://image.tmdb.org/t/p/w640/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
 date=2017-10-04
 URL=https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
 
-
 type=video
 name=Tulip Fever (2017) RUS
 thumb=https://image.tmdb.org/t/p/w640/lmfop4zLqFWFTkKSYp7V5jgeM6I.jpg
@@ -109,6 +108,17 @@ thumb=
 date=2017-10-04
 URL=
 
+type=video
+name=Walking Out (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/2D2XnnZKNhhxb3Ig0PM0OIVdmZ8.jpg
+date=2017-10-06
+URL=https://openload.co/f/fkXkBBTTZxM/Walking.Out.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=Better Watch Out (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
+date=2017-10-06
+URL=https://openload.co/f/zRhfEaYL4NQ/Better.Watch.Out.2016.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=My Little Pony: The Movie (2017) ENG HDRip XviD AC3-EVO
@@ -193,18 +203,6 @@ name=Paint It Black (2016) ENG WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/1i9CTlb2gabuIQJEDuPsc05GfEb.jpg
 date=2017-10-06
 URL=https://openload.co/f/syvOIsMJyAM/Paint.It.Black.2016.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-
-type=video
-name=Walking Out (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/2D2XnnZKNhhxb3Ig0PM0OIVdmZ8.jpg
-date=2017-10-06
-URL=https://openload.co/f/fkXkBBTTZxM/Walking.Out.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
-
-type=video
-name=Better Watch Out (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
-date=2017-10-06
-URL=https://openload.co/f/zRhfEaYL4NQ/Better.Watch.Out.2016.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=East Side Sushi (2014) ENG webrip.x264-intenso
@@ -1099,14 +1097,17 @@ URL=http://www.playontube.com:1935/cinema/HBOhits.stream/chunklist.m3u8
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD (TH)[/COLOR]
 thumb=http://www.mx7.com/i/066/T6hJgg.jpg
-URL=http://191.96.38.41:19362/sportgames88/0x222_ais_foxpremiumth_720p/chunklist.m3u8
+URL=http://doballvip.ddns.net:443/free53/0x222_ais_foxpremiumth_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Cinemax (TH)[/COLOR]
 thumb=http://www.mx7.com/i/2b9/6l5qL6.jpg
 URL=http://www.playontube.com:1935/cinema/CINEMAX.stream/playlist.m3u8
 
-
+type=video
+name=MOVIE1
+thumb=http://www.mx7.com/i/2e2/OIA8ZX.jpg
+URL=http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 type=video
 name=
@@ -1742,7 +1743,7 @@ type=video
 name=
 thumb=
 date=2017-09-14
-URL=https://drive.google.com/open?id=0B0eGmzzxUPrCY19SbklVMWg2anc
+URL=
 
 type=video
 name=
