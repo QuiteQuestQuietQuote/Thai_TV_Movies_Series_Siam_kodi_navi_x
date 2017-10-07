@@ -57,6 +57,122 @@ URL=
 
 
 
+
+
+
+type=video
+name=126xxxxxxxxxxxxxxxxxxxxReunited Wicked (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Reunited-Wicked-2016-Adult-Hollywood-Sexual-Full-Movie.jpg
+date=2017-10-07
+URL=https://streamango.com/f/fkcobpcrklmqtonf/Reunited_Wicked_2016_Adult_Hollywood_Sexual_Full_Movie_mp4
+
+type=video
+name=Dont Look SexArt (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Dont-Look-SexArt-2016.jpg
+date=2017-10-07
+URL=https://streamango.com/f/doqtdppmoslrdqso/Dont_Look_SexArt_2016_mp4
+
+type=video
+name=Young Slut Fucking XXXMovies (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Young-Slut-Fucking-XXXMovies-2017.jpg
+date=2017-10-07
+URL=https://streamango.com/f/doolmfnoeobebqok/Young_Slut_Fucking_XXXMovies_2017_mp4
+
+type=video
+name=Exxxtrasmall – Hannah Hays – Little Girl With Big Responsibilities xXx (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Exxxtrasmall-Hannah-Hays-Little-Girl-With-Big-Responsibilities-xXx-2017.jpg
+date=2017-10-07
+URL=https://streamango.com/f/ontnefklbcqopocr/Exxxtrasmall_-_Hannah_Hays_-_Little_Girl_With_Big_Responsibilities_xXx_2017_mp4
+
+type=video
+name=SexArt Party Boat (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/SexArt-Party-Boat-2016.jpg
+date=2017-10-07
+URL=https://streamango.com/f/cblmnprtktlocrkq/SexArt_Party_Boat_2016_mp4
+
+type=video
+name=Ecstasy SexArt (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Ecstasy-SexArt-2016.jpg
+date=2017-10-07
+URL=https://streamango.com/f/osrtmapcslkatkcn/Ecstasy_SexArt_2016_mp4
+
+type=video
+name=After Work SexArt (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/After-Work-SexArt-2016.jpg
+date=2017-10-07
+URL=https://streamango.com/f/bbfecacpnccomsqs/After_Work_SexArt_2016_mp4
+
+type=video
+name=The Cheater – SexArt (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/The-Cheater-%E2%80%93-SexArt-2016.jpg
+date=2017-10-07
+URL=https://streamango.com/f/dmkckkrfmmbbpofm/The_Cheater_SexArt_2016_mp4
+
+type=video
+name=Bittersweet Tale Part 5 SexArt (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Bittersweet-Tale-Part-5-SexArt-2016.jpg
+date=2017-10-07
+URL=https://streamango.com/f/acrlkoassbfpqdtk/Bittersweet_Tale_Part_5_SexArt_2016_mp4
+
+type=video
+name=Long Way SexArt (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Long-Way-SexArt-2016.jpg
+date=2017-10-07
+URL=https://streamango.com/f/klsaellodeqmbnqf/Long_Way_SexArt_2016_mp4
+
+type=video
+name=Shards of Summer SexArt (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Shards-of-Summer-SexArt-2016.jpg
+date=2017-10-07
+URL=https://streamango.com/f/sqotklmnltqmfroe/Shards_of_Summer_SexArt_2016_mp4
+
+type=video
+name=Baeb Riley Reid and Lana Rhoades Step Sisters Of Beverly Hills (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Baeb-Riley-Reid-and-Lana-Rhoades-Step-Sisters-Of-Beverly-Hills-2017.jpg
+date=2017-10-07
+URL=https://streamango.com/f/fomkmsocdqcklnql/Baeb_Riley_Reid_and_Lana_Rhoades_Step_Sisters_Of_Beverly_Hills_2017_mp4
+
+type=video
+name=Brazzers Abigail Mac Morricunt vs Dr. Poon A XXX Parody (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Brazzers-Abigail-Mac-Morricunt-vs-Dr.-Poon-A-XXX-Parody-2017.jpg
+date=2017-10-07
+URL=https://streamango.com/f/reqqccadppnoaoms/Brazzers_Abigail_Mac_Morricunt_vs_Dr_Poon_A_XXX_Parody_2017_mp4
+
+type=video
+name=Brazzers-Baby Got Boobs Sibling Rivalry 3 Aaliyah Hadid & Anya Ivy (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Brazzers-Baby-Got-Boobs-Sibling-Rivalry-3-Aaliyah-Hadid-Anya-Ivy-2017.jpg
+date=2017-10-07
+URL=https://streamango.com/f/cemlntcoksqbapoe/Brazzers-Baby_Got_Boobs_Sibling_Rivalry_3_Aaliyah_Hadid_Anya_Ivy_2017_mp4
+
+type=video
+name=Picture Of Beauty (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Picture-Of-Beauty-2017.jpg
+date=2017-10-07
+URL=https://streamango.com/f/dmblcklcdebbeaes/Picture_Of_Beauty_2017_mp4
+
+type=video
+name=Below Her Mouth (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Below-Her-Mouth-2016.jpg
+date=2017-10-07
+URL=https://streamango.com/f/onnlqacodlpdosse/Below_Her_Mouth_2016_mp4
+
+type=video
+name=Pirates II Stagnetti’s Revenge 2008
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Pirates-II-Stagnetti%E2%80%99s-Revenge-2008-1.jpg
+date=2017-10-07
+URL=https://streamango.com/f/bbasdqmqmocotdep/Pirates_II_Stagnetti_s_Revenge_2008_BLURAY_mp4
+
+type=video
+name=Pirates I (2005) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Pirates-2005-1.jpg
+date=2017-10-07
+URL=https://streamango.com/f/rakrotckqksoktoq/Pirates_2005_mp4
+
+
+
+
+
+
 type=video
 name=108xxxxxxxxxxxxxxxxxxxxZid (2014)
 thumb=https://erotic2you.com/wp-content/uploads/2017/08/Zid-2014.jpg
