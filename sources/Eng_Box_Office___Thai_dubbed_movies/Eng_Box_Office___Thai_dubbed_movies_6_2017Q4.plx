@@ -72,10 +72,10 @@ URL=
 
 
 type=video
-name=American Made (2017) ENG
+name=American Made (2017) ENG HDCAM
 thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
-date=2017-09-29
-URL=https://openload.co/f/Oa-Ppp3bjWo/A_M_2017_CAM_%5BLayar-21.com%5D.mp4
+date=2017-10-07
+URL=https://openload.co/f/IBcNv2QPNGE/American_Made_%282017%29_%5B720p%5D_HDCAM_mp4
 
 type=video
 name=The LEGO Ninjago Movie (2017) RUS
@@ -121,10 +121,10 @@ date=2017-10-06
 URL=https://openload.co/f/zRhfEaYL4NQ/Better.Watch.Out.2016.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
-name=My Little Pony: The Movie (2017) ENG HDRip XviD AC3-EVO
+name=My Little Pony: The Movie (2017) ENG HDRip
 thumb=https://image.tmdb.org/t/p/w640/15WbvKx7B7FiLZheK49Xc05oRIX.jpg
-date=2017-10-05
-URL=https://openload.co/f/aR3RxjAej4I/My_Little_Pony%3A_The_Movie_%282017%29.HDRip_XviD_AC3-EVO.mp4
+date=2017-10-07
+URL=https://openload.co/f/3nFF8giXD2A/My_Little_Pony%3A_The_Movie_%282017%29_720p_HDRip.mp4
 
 type=video
 name=The Glass Castle (2017) ENG HDCAM.x264_DiRG
@@ -211,10 +211,10 @@ date=2017-10-06
 URL=https://openload.co/f/Q60lCySBuyA/east.side.sushi.2014.1080p.webrip.x264-intenso.mkv.mp4
 
 type=video
-name=Bon Cop Bad Cop 2 (2017) ENG HDRip.XviD.AC3-EVO
+name=Bon Cop Bad Cop 2 (2017) ENG WEBRip.950MB.MkvCage
 thumb=https://image.tmdb.org/t/p/w640/qY4RGT6Ky1Z46BWaKohTlNp9ncU.jpg
-date=2017-10-04
-URL=https://openload.co/f/TjZUK8pdChA/Bon.Cop.Bad.Cop.2.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2017-10-07
+URL=https://openload.co/f/tP6__GBSwf4/Bon.Cop.Bad.Cop.2.2017.720.WEBRip.950MB.MkvCage.mkv.mp4
 
 type=video
 name=Armstrong (2016) ENG HDRip.XviD.AC3-EVO
@@ -906,7 +906,8 @@ type=video
 name=All Eyez on Me (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg
 date=2017-08-24
-URL=https://openload.co/f/FkIMUuUUW_g/All.Eyez.on.Me.2017.REPACK.1080p.BluRay.x264-GECKOS.mkv.mp4
+URL=https://openload.co/f/rGMYBCFttzQ/All_Eyez_on_Me_2017_1080p_BluRay.mp4
+#https://openload.co/f/FkIMUuUUW_g/All.Eyez.on.Me.2017.REPACK.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/dIDkOjLDITQ/All_Eyez_on_Me_%282017%29_1080p_BluRay_x264_%5Bmoviseries.com%5D.mp4
 
 
@@ -1065,7 +1066,7 @@ URL=https://openload.co/f/a3OL4Fe1EkU/Goon.Last.of.the.Enforcers.2017.720p.BluRa
 #https://openload.co/f/_nzYcLqwj4Q/Goon.Last.of.the.Enforcers.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
-name=Sniper: Ultimate Kill (2017) [COLOR=FF00FF00]ESP BR 720p[/COLOR]
+name=Sniper: Ultimate Kill (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/pi16aubY3qFKJWAh4npvm03ERkH.jpg
 date=2017-10-06
 URL=https://openload.co/f/83MCBzRY3xQ/Sniper.Ultimate.Kill.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
@@ -1144,10 +1145,10 @@ URL=https://openload.co/f/Elw1WEIapq8/American_Assassin_%282017%29%E0%B8%AD%E0%B
 
 
 type=video
-name=It (2017) ENG HC.HDRip.x264-WWRG
+name=It (2017) ENG HC.HDRip
 thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
-date=2017-10-03
-URL=https://openload.co/f/ie1PuAQS0aU/I.T.2017.HC.HDRip.x264-WWRG.MP4.mp4
+date=2017-10-07
+URL=https://openload.co/f/4aIX_m1kW5g/IT_%282017%29_%5B1080p%5D_%5BHC%5D_%5BHDRip%5D.mp4
 type=video
 name=It (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
@@ -1380,6 +1381,7 @@ name=Baahubali 2: The Conclusion (2017) SUB
 thumb=http://image.tmdb.org/t/p/w500/sXf30F2HFpsFPXlNz7jpOySSV9I.jpg
 date=2017-05-25
 URL=https://openload.co/f/otQI30FetNk/Baahubali_2_The_Conclusion_%282017%29_%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%AE%E0%B8%B9%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%B5_2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
+#https://openload.co/f/qWneWCCDKC4/Baahubali_2%3A_The_Conclusion_%282017%29_EngSub_1080p_BluRay.mp4
 player=default
 rating=-1.00
 description=When Mahendra, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom./description
@@ -1805,7 +1807,7 @@ name=Baby Driver (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/mBkOBaxjr7IBHGuQS3sSFeyYTM.jpg
 date=2017-10-01
 URL=https://openload.co/f/YVEeNi9uziA/Baby_Driver_%282017%29%E0%B8%88%E0%B8%B5%E0%B9%89_%E0%B9%80%E0%B8%9A%E0%B8%9A%E0%B8%B5%E0%B9%89_%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99.mp4
-
+#https://openload.co/f/mjQ0MaSzysk/Baby.Driver.2017.1080p.BrRip.DTS.x264_hdfile4you.clubhd4you.net.mkv.mp4
 
 type=video
 name=Rough Night (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
