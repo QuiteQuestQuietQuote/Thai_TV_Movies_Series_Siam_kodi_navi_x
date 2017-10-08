@@ -1100,24 +1100,24 @@ type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
 thumb=https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png
 date=2017-10-02
-URL=http://191.96.38.234:443/doballvip/0x222_ais_hbohd_720p/playlist.m3u8
+URL=http://www.playontube.com:1935/cinema/HBO.stream/playlist.m3u8
 player=default
 rating=-1.00
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://191.96.38.234:443/doballvip/0x222_ais_hbohit_720p/playlist.m3u8
+URL=http://www.playontube.com:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD (TH)[/COLOR]
 thumb=https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png
-URL=http://191.96.38.234:443/doballvip/0x777_foxpremiumtruly_720p/playlist.m3u8
+URL=http://103.77.116.238:443//ais_foxpremiumth_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Cinemax (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-Vxm9d7YjvDI/WdLYxl68RYI/AAAAAAAAAHo/GbJ2lnI2s4c9RA_xArSfV9kv0-bZ_tswQCLcBGAs/s320/031.png
-URL=http://191.96.38.234:443/doballvip/0x222_ais_cinemax_720p/playlist.m3u8
+URL=http://www.playontube.com:1935/cinema/CINEMAX.stream/playlist.m3u8
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE1[/COLOR]
