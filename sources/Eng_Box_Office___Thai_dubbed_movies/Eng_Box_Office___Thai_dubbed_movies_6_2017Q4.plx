@@ -1081,7 +1081,11 @@ thumb=https://image.tmdb.org/t/p/w640/pi16aubY3qFKJWAh4npvm03ERkH.jpg
 date=2017-10-06
 URL=https://openload.co/f/83MCBzRY3xQ/Sniper.Ultimate.Kill.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
 
-
+type=video
+name=HHhH (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/4PivpTn4OoP3YcP0NaBKSLlHQCz.jpg
+date=2017-10-08
+URL=https://openload.co/f/nOQ-KngEvfo/HHhH.2017.720p.BRRip.XviD.AC3-RARBG.avi.mp4
 
 
 
@@ -1123,11 +1127,25 @@ URL=http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?userna
 type=video
 name=
 thumb=
-date=
+date=2017-10-08
 URL=
 
 
 
+
+
+
+type=video
+name=The Foreigner (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
+date=2017-10-08
+URL=https://streamango.com/f/aafrlemtdeecefam/2_mp4
+
+type=video
+name=Paradox (2017) TH CAM
+thumb=https://image.tmdb.org/t/p/w640/9e7X4NjnioUoLMR74d0fUW1WSp9.jpg
+date=2017-10-08
+URL=https://streamango.com/f/mcoktoaclnrsfokb/Paradox_2017_MP4_mp4
 
 type=video
 name=Kingsman: The Golden Circle (2017) RUS
@@ -1184,6 +1202,7 @@ thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
 date=2017-10-08
 URL=https://openload.co/f/n1NusIGiyd0/The.Dark.Tower.2017.1080p.BRRip.6CH.MkvCage.mkv
 #https://openload.co/f/31m7ICojoic/The.Dark.Tower.2017.1080p.BRRip.6CH.MkvCage.mkv.mp4
+#https://openload.co/f/73tvjUxurNg/The_Dark_Tower_%282017%29_%5B1080p%5D_BluRay_x264_DTS-SHITBOX_mkv_mp4
 type=video
 name=The Dark Tower (2017) TH TS
 thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
