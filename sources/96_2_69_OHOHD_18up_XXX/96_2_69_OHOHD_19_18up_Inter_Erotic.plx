@@ -34,12 +34,21 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
-date=2017-10-04
+date=2017-10-08
 URL=
 
 
 
 
+
+
+
+
+type=video
+name=Adaline (2015) MKV
+thumb=https://image.tmdb.org/t/p/w640/hgjWwCbRyTYzOCDKkglocU821h4.jpg
+date=2017-10-08
+URL=https://openload.co/f/q_CfcLR-ZSs/bdgua-adaline-720p.mkv
 
 type=video
 name=Picture of Beauty (2017)

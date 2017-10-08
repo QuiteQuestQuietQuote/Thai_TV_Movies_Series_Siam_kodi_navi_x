@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
+background=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_6_2017Q4
-logo=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
+logo=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, sockshare, fmovies, nanamovies./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
+thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -59,7 +59,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-09-29
+date=2017-10-08
 URL=
 
 
@@ -69,7 +69,11 @@ URL=
 
 
 
-
+type=video
+name=Blade Runner 2049 (2017) ENG CAM.X264.AAC.1.7GB
+thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
+date=2017-10-08
+URL=https://openload.co/f/SoWJsZvgxAk/Blade_Runner_2049.2017.CAM.X264.AAC.1.7GB.mp4
 
 type=video
 name=American Made (2017) ENG HDCAM
@@ -624,13 +628,17 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-06
+date=2017-10-08
 URL=
 
 
 
 
-
+type=video
+name=Indiscretion (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/tuI0VZKiRXnI5JeQvkEssa5BkLI.jpg
+date=2017-10-08
+URL=https://openload.co/f/xOP0shQI0uk/Indiscretion.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=68 Kill (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.7GB
@@ -827,10 +835,12 @@ date=2017-09-11
 URL=https://openload.co/f/t0sqZBoEA3M/Complete.Unknown.2016.LiMiTED.1080p.BluRay.x264-SiNNERS.mkv.mp4
 
 type=video
-name=The Ghoul (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=The Ghoul (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6GB
 thumb=https://image.tmdb.org/t/p/w640/lkzjc4Q7vPYXeIyaFIX4rFJImtJ.jpg
-date=2017-09-09
-URL=https://openload.co/f/5dfO-ckAQyM/The.Ghoul.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2017-10-08
+URL=https://openload.co/f/HqB1MvIqFRs/The.Ghoul.2016.1080p.BluRay.x264-SPOOKS.mkv
+#https://openload.co/f/jpsXEOuvEOI/The.Ghoul.2016.1080p.BluRay.x264-SPOOKS.mkv.mp4
+#https://openload.co/f/5dfO-ckAQyM/The.Ghoul.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Hero (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1169,10 +1179,11 @@ URL=https://openload.co/f/loSwUzABuYc/The_Emoji_Movie_%282017%29_%E0%B8%AD%E0%B8
 
 
 type=video
-name=The Dark Tower (2017) ENG TS_NEW_SOURCE_XViD-26k
+name=The Dark Tower (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 1.8GB
 thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
-date=2017-09-12
-URL=https://openload.co/f/tSrUV89au1Y/The_Dark_Tower_2017_TS_NEW_SOURCE_XViD-26k.mp4
+date=2017-10-08
+URL=https://openload.co/f/n1NusIGiyd0/The.Dark.Tower.2017.1080p.BRRip.6CH.MkvCage.mkv
+#https://openload.co/f/31m7ICojoic/The.Dark.Tower.2017.1080p.BRRip.6CH.MkvCage.mkv.mp4
 type=video
 name=The Dark Tower (2017) TH TS
 thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
@@ -1730,10 +1741,15 @@ description=In this Pokémon adventure, a mysterious force binds Ash to the Myth
 
 
 
-# 2766556
 type=video
-name=Attraction (2017) CAM SOUND
+name=Attraction (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/x8tZMFfoUJTYsoMR2gHxzpgkOii.jpg
+date=2017-10-08
+URL=https://openload.co/f/axQW5yMQj5o/Attraction.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+type=video
+name=Attraction (2017) TH CAM SOUND
+thumb=http://image.tmdb.org/t/p/w500/x8tZMFfoUJTYsoMR2gHxzpgkOii.jpg
+date=2017-10-08
 URL=https://openload.co/f/b7mAQ1WkI9E/attraction-2017_%281%29.mkv.mp4
 player=default
 rating=-1.00
