@@ -66,12 +66,12 @@ URL=
 type=video
 name=samrujlok
 thumb=http://www.mx7.com/i/0ca/T4pLXF.jpg
-URL=http://doballvip.ddns.net:443/free41/0x777_samrujlok_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/0x777_samrujlok_720p/playlist.m3u8
 
 type=video
 name=H2
 thumb=http://www.mx7.com/i/185/pgUNA4.jpg
-URL=http://doballvip.ddns.net:443/free41/0x777_h2hd_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/0x777_h2hd_720p/playlist.m3u8
 
 type=video
 name=AXN
@@ -81,72 +81,72 @@ URL=http://191.96.38.234:443/doballvip/0x777_axnhd_720p/chunklist.m3u8
 type=video
 name=Discovery Channel
 thumb=http://www.mx7.com/i/07a/ahB6J5.jpg
-URL=http://doballvip.ddns.net:443/free41/00_dischannel_480p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/00_dischannel_480p/playlist.m3u8
 
 type=video
 name=Discovery Science
 thumb=http://www.mx7.com/i/2fa/Biloyo.jpg
-URL=http://doballvip.ddns.net:443/free41/0x777_dissci_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/0x777_dissci_720p/playlist.m3u8
 
 type=video
 name=Discovery Asia
 thumb=http://www.mx7.com/i/27e/YDLol9.jpg
-URL=http://doballvip.ddns.net:443/free41/0x777_discoveryworldhd_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/0x777_discoveryworldhd_720p/playlist.m3u8
 
 type=video
 name=National Geo Wild
 thumb=http://www.mx7.com/i/21b/sWocNj.jpg
-URL=http://doballvip.ddns.net:443/free54/0x222_natgeowild_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/0x222_natgeowild_720p/playlist.m3u8
 
 type=video
 name=National Geographic
 thumb=http://www.mx7.com/i/294/OzhYow.jpg
-URL=http://27.254.154.154:1935/cinema/NATIONAL_GEOGRAPHIC_CHANNEL.stream/playlist.m3u8
+URL=http://191.96.38.234:443/doballvip/0x222_natgeographic_720p/playlist.m3u8
 
 type=video
 name=National Geo People
 thumb=http://www.mx7.com/i/04d/z4i0Wv.jpg
-URL=http://doballvip.ddns.net:443/free54/0x222_natgeopeople_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/0x222_natgeopeople_720p/playlist.m3u8
 
 type=video
 name=Animal Planet
 thumb=http://www.mx7.com/i/2cf/DN1Mne.jpg
-URL=http://doballvip.ddns.net:443/free41/0x777_animalplanet_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/0x777_animalplanet_720p/playlist.m3u8
 
 type=video
 name=mysci 
 thumb=http://www.mx7.com/i/27a/Fopb12.jpg
-URL=http://doballvip.ddns.net:443/free41/0x222_mysci_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/0x222_mysci_720p/playlist.m3u8
 
 type=video
 name=BBC Life Style
 thumb=http://www.mx7.com/i/13c/ryQ9nt.jpg
-URL=http://doballvip.ddns.net:443/free41/0x222_lifestylehd_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/0x777_bbcearth_720p/playlist.m3u8
 
 type=video
 name=eve
 thumb=http://www.mx7.com/i/0ff/Hwldyq.jpg
-URL=http://doballvip.ddns.net:443/free41/0x222_evehd_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/0x222_evehd_720p/playlist.m3u8
 
 type=video
 name=true explore_1
 thumb=http://www.mx7.com/i/209/afjEjJ.jpg
-URL=http://doballvip.ddns.net:443/free53/00_exp1_480p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/00_exp1_480p/playlist.m3u8
 
 type=video
 name=true explore_2
 thumb=http://www.mx7.com/i/12f/Ey5b1g.jpg
-URL=http://doballvip.ddns.net:443/free53/00_exp2_480p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/00_exp2_480p/playlist.m3u8
 
 type=video
 name=true explore_3
 thumb=http://www.mx7.com/i/223/yWyXbP.jpg
-URL=http://doballvip.ddns.net:443/free53/00_exp3_480p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/00_exp3_480p/playlist.m3u8
 
 type=video
 name=HISTORY
-thumb=http://www.mx7.com/i/04c/XTsmhv.jpg
-URL=http://doballvip.ddns.net:443/free41/0x777_historyhd_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+thumb=https://3.bp.blogspot.com/-f8_8reMKJjQ/WdLY2OaLQJI/AAAAAAAAAI0/3qc44QmOG4cE9Ys5tgtmAgjvIUL4EyM8ACLcBGAs/s320/050.png
+URL=http://191.96.38.234:443/doballvip/0x777_historyhd_720p/playlist.m3u8
 
 
 

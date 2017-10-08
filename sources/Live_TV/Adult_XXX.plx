@@ -387,6 +387,173 @@ URL=http://123.108.164.71/etv2sb/phd10499/playlist.m3u8
 
 
 
+type=video
+name=vinyl porn 3
+thumb=https://4.bp.blogspot.com/-bJbP3-XgxCU/WdhwPjWutVI/AAAAAAAAAXE/3kFv5tCbfqwJ0UoGLTc0nzqwSdFUH5PowCLcBGAs/s1600/3.png
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-72/0/pc.m3u8
+
+type=video
+name=vinyl porn 4
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-19/0/pc.m3u8
+
+type=video
+name=vinyl porn 5
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-30/0/pc.m3u8
+
+type=video
+name=vinyl porn 8
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-15/0/pc.m3u8
+
+type=video
+name=vinyl porn 7
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-16/0/pc.m3u8
+
+
+type=video
+name=vinyl porn 6
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-17/0/pc.m3u8
+
+type=video
+name=vinyl porn 10
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-18/0/pc.m3u8
+
+type=video
+name=vinyl porn 11
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-21/0/pc.m3u8
+
+type=video
+name=vinyl porn 12
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-26/0/pc.m3u8
+
+type=video
+name=vinyl porn 13
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-27/0/pc.m3u8
+
+
+type=video
+name=vinyl porn 14
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-28/0/pc.m3u8
+
+type=video
+name=vinyl porn 15
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-31/0/pc.m3u8
+
+type=video
+name=vinyl porn 16
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-36/0/pc.m3u8
+
+type=video
+name=vinyl porn 17
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-37/0/pc.m3u8
+
+type=video
+name=vinyl porn 18
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-45/0/pc.m3u8
+
+
+type=video
+name=vinyl porn 19
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-47/0/pc.m3u8
+
+type=video
+name=vinyl porn 20
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-48/0/pc.m3u8
+
+type=video
+name=vinyl porn 21
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-49/0/pc.m3u8
+
+type=video
+name=vinyl porn 22
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-50/0/pc.m3u8
+
+type=video
+name=vinyl porn 23
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-51/0/pc.m3u8
+
+
+type=video
+name=vinyl porn 24
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-52/0/pc.m3u8
+
+type=video
+name=vinyl porn 25
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-53/0/pc.m3u8
+
+type=video
+name=vinyl porn 26
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-54/0/pc.m3u8
+
+type=video
+name=vinyl porn 27
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-63/0/pc.m3u8
+
+type=video
+name=vinyl porn 28
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-64/0/pc.m3u8
+
+
+type=video
+name=vinyl porn 29
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-66/0/pc.m3u8
+
+type=video
+name=vinyl porn 30
+thumb=
+date=2017-10-08
+URL=http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-68/0/pc.m3u8
+
 
 
 

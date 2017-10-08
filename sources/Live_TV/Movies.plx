@@ -16,7 +16,7 @@ type=video
 name=HBO HD (TH)
 thumb=https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png
 date=2017-10-02
-URL=http://www.playontube.com:1935/cinema/HBO.stream/playlist.m3u8
+URL=http://191.96.38.234:443/doballvip/0x222_ais_hbohd_720p/playlist.m3u8
 
 type=video
 name=movie1
@@ -240,42 +240,42 @@ URL=http://www.playontube.com:1935/cinema/HBO.stream/playlist.m3u8
 type=video
 name=HBO Family
 thumb=http://www.mx7.com/i/262/pqRGWE.jpg
-URL=http://doballvip.ddns.net:443/free53/0x222_ais_hbofam_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/0x222_ais_hbofam_720p/playlist.m3u8
 
 type=video
 name=HBO Hits
 thumb=http://www.mx7.com/i/2e2/mIMRSx.jpg
-URL=http://www.playontube.com:1935/cinema/HBOhits.stream/chunklist.m3u8
+URL=http://191.96.38.234:443/doballvip/0x222_ais_hbohit_720p/playlist.m3u8
 
 type=video
 name=HISTORY
 thumb=http://www.mx7.com/i/04c/XTsmhv.jpg
-URL=http://doballvip.ddns.net:443/free41/0x777_historyhd_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/0x777_historyhd_720p/playlist.m3u8
 
 type=video
 name=Cinemax
 thumb=http://www.mx7.com/i/2b9/6l5qL6.jpg
-URL=http://www.playontube.com:1935/cinema/CINEMAX.stream/playlist.m3u8
+URL=http://191.96.38.234:443/doballvip/0x222_ais_cinemax_720p/playlist.m3u8
 
 type=video
 name=Fox Fa MovHD 
 thumb=http://www.mx7.com/i/13a/Dfmd9j.jpg
-URL=http://doballvip.ddns.net:443/free53/0x222_ais_foxfamen_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/0x222_ais_foxfamen_720p/playlist.m3u8
 
 type=video
 name=Fox Ac Mov HD
 thumb=http://www.mx7.com/i/137/eWfw3n.jpg
-URL=http://doballvip.ddns.net:443/free53/0x222_foxactionmovieth_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/0x222_foxactionmovieen_720p/playlist.m3u8
 
 type=video
 name=Fox Mov Pre HD 
 thumb=http://www.mx7.com/i/066/T6hJgg.jpg
-URL=http://doballvip.ddns.net:443/free53/0x222_ais_foxpremiumth_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/0x777_foxpremiumtruly_720p/playlist.m3u8
 
 type=video
 name=Fox Crime
 thumb=http://www.mx7.com/i/22e/9hSOxc.jpg
-URL=http://doballvip.ddns.net:443/free54/0x222_foxcrimehdthai_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/0x222_foxcrimehdthai_720p/playlist.m3u8
 
 type=video
 name=FX
@@ -285,12 +285,12 @@ URL=http://191.96.38.234:443/doballvip/0x222_fxthailand_720p/chunklist.m3u8
 type=video
 name=FOX Thai
 thumb=http://www.mx7.com/i/095/xiQPuc.jpg
-URL=http://191.96.38.234:443/doballvip/00_foxthai_480p/chunklist.m3u8
+URL=http://191.96.38.234:443/doballvip/00_foxthai_480p/playlist.m3u8
 
 type=video
 name=Starworld
 thumb=http://www.mx7.com/i/289/o8zTaq.jpg
-URL=http://doballvip.ddns.net:443/free54/0x222_starworldhdthai_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+URL=http://191.96.38.234:443/doballvip/0x222_starworldhdthai_720p/playlist.m3u8
 
 type=video
 name=Warner TV
