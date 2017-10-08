@@ -229,120 +229,126 @@ URL=http://27.131.166.195:1935/live/_definst_/movie3.stream/playlist.m3u8?userna
 
 type=video
 name=HBO Signature 
-thumb=http://www.mx7.com/i/1d7/BlrT1n.jpg
-URL=http://doballvip.ddns.net:443/free53/0x222_ais_hbosignature_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+thumb=https://2.bp.blogspot.com/-36Kre7Am8Bc/WdLYwaX5jQI/AAAAAAAAAHY/gl7LikDibc8f65vR51GD8BYfvBJIcX3zACLcBGAs/s320/027.png
+URL=http://103.77.116.238:443//hbo_signature_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=HBO HD
-thumb=http://www.mx7.com/i/074/6DSfBy.jpg
+thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 URL=http://www.playontube.com:1935/cinema/HBO.stream/playlist.m3u8
 
 type=video
 name=HBO Family
-thumb=http://www.mx7.com/i/262/pqRGWE.jpg
-URL=http://doballvip.ddns.net:443/free53/0x222_ais_hbofam_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+thumb=https://2.bp.blogspot.com/-BBbZAdLOj1Y/WdLYwxPeVkI/AAAAAAAAAHc/TXb5lN4YNaEL0SLprauwDgEnw3YaGfGaQCLcBGAs/s320/028.png
+URL=http://103.77.116.238:443//hbo_family_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=HBO Hits
-thumb=http://www.mx7.com/i/2e2/mIMRSx.jpg
+thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
 URL=http://www.playontube.com:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 type=video
 name=HISTORY
-thumb=http://www.mx7.com/i/04c/XTsmhv.jpg
-URL=http://191.96.38.234:443/doballvip/0x777_historyhd_720p/playlist.m3u8
+thumb=https://3.bp.blogspot.com/-f8_8reMKJjQ/WdLY2OaLQJI/AAAAAAAAAI0/3qc44QmOG4cE9Ys5tgtmAgjvIUL4EyM8ACLcBGAs/s320/050.png
+URL=http://103.77.116.238:443//history_channel_hd_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=Cinemax
-thumb=http://www.mx7.com/i/2b9/6l5qL6.jpg
+thumb=https://3.bp.blogspot.com/-Vxm9d7YjvDI/WdLYxl68RYI/AAAAAAAAAHo/GbJ2lnI2s4c9RA_xArSfV9kv0-bZ_tswQCLcBGAs/s320/031.png
 URL=http://www.playontube.com:1935/cinema/CINEMAX.stream/playlist.m3u8
 
 type=video
 name=Fox Fa MovHD 
-thumb=http://www.mx7.com/i/13a/Dfmd9j.jpg
-URL=http://191.96.38.234:443/doballvip/0x222_ais_foxfamen_720p/playlist.m3u8
+thumb=https://3.bp.blogspot.com/-fawERBkgNXQ/WdLYx_VqiwI/AAAAAAAAAHw/WeIaBiWh3OYLXzb-Z3ZFk1b8PE0frF1xQCLcBGAs/s320/033.png
+URL=http://103.77.116.238:443//ais_foxfamen_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=Fox Ac Mov HD
-thumb=http://www.mx7.com/i/137/eWfw3n.jpg
-URL=http://191.96.38.234:443/doballvip/0x222_foxactionmovieen_720p/playlist.m3u8
+thumb=https://4.bp.blogspot.com/-jxRpdL703tw/WdLYxsUsJjI/AAAAAAAAAHs/YoUpz3OQIkQPO3fyuQB9qsJ9sgTeGF_LQCLcBGAs/s320/032.png
+URL=http://103.77.116.238:443//foxactionmovieen_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=Fox Mov Pre HD 
-thumb=http://www.mx7.com/i/066/T6hJgg.jpg
-URL=http://doballvip.ddns.net:443/free53/0x222_ais_foxpremiumth_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+thumb=https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png
+URL=http://103.77.116.238:443//ais_foxpremiumth_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=Fox Crime
-thumb=http://www.mx7.com/i/22e/9hSOxc.jpg
-URL=http://191.96.38.234:443/doballvip/0x222_foxcrimehdthai_720p/playlist.m3u8
+thumb=https://4.bp.blogspot.com/-RoLh6xuwFLs/WdLYyc3wyII/AAAAAAAAAH8/kpe7sheyhcUfoptHWTDWfnZwfUkCr_gggCLcBGAs/s320/036.png
+URL=http://103.77.116.238:443//fox_crime_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=FX
-thumb=http://www.mx7.com/i/233/U5gopJ.jpg
-URL=http://191.96.38.234:443/doballvip/0x222_fxthailand_720p/chunklist.m3u8
+thumb=https://2.bp.blogspot.com/-hn2UbMiBufk/WdLYyQwpvoI/AAAAAAAAAH4/dIBJvAUJWWknJcsdk-zDQ7o_jB7ppy8ZQCLcBGAs/s320/035.png
+URL=http://103.77.116.238:443//fx_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=FOX Thai
-thumb=http://www.mx7.com/i/095/xiQPuc.jpg
-URL=http://191.96.38.234:443/doballvip/00_foxthai_480p/playlist.m3u8
+thumb=https://2.bp.blogspot.com/-8nVRkhAsKTM/WdLYzFGOKfI/AAAAAAAAAIE/r4g8mysMm7sA0rGWWHkIQintqg12RvH7QCLcBGAs/s320/038.png
+URL=http://103.77.116.238:443//fox_thai_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=Starworld
-thumb=http://www.mx7.com/i/289/o8zTaq.jpg
-URL=http://191.96.38.234:443/doballvip/0x222_starworldhdthai_720p/playlist.m3u8
+thumb=https://4.bp.blogspot.com/-Batrk41GlEM/WdLY1VrJNAI/AAAAAAAAAIo/BrJ-PPo5p407JS0HSkWKhgQiqsOFIQ0gQCLcBGAs/s320/047.png
+URL=http://103.77.116.238:443//starworld_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=Warner TV
-thumb=http://www.mx7.com/i/2b2/COTUDF.jpg
-URL=http://191.96.38.234:443/doballvip/0x777_warnertv_720p/chunklist.m3u8
+thumb=https://4.bp.blogspot.com/-V_TTlbTkzIY/WdLY1dUeb9I/AAAAAAAAAIs/9x49EyY_tKAl86VPbtxOM4Vx8Y0kY0hNwCLcBGAs/s320/048.png
+URL=http://103.77.116.238:443//warner_tv_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=Doonee HD
-thumb=http://www.mx7.com/i/2b1/BT1C07.jpg
-URL=http://191.96.38.234:443/doballvip/0x222_ais_doonee_720p/chunklist.m3u8
+thumb=https://3.bp.blogspot.com/-xhGC9TO9IW8/WdLY0gIvgKI/AAAAAAAAAIc/d8_fwTap0NoDIN1UtEqmLZlaqYmEU30hgCLcBGAs/s320/044.png
+URL=http://103.77.116.238:443//ais_doonee_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=RED by HBO
-thumb=http://www.mx7.com/i/01a/jAyBfq.jpg
+thumb=https://4.bp.blogspot.com/-gOGHzLECGdo/WdLYxNGNjGI/AAAAAAAAAHk/5qaIHAsFmWQnZgTir4X04AoU0hJn7I5GQCLcBGAs/s320/030.png
 date=
-URL=http://191.96.38.234:443/doballvip/0x222_ais_redbyhbo_720p/chunklist.m3u8
+URL=http://103.77.116.238:443//red_by_hbo_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=thrill
-thumb=http://www.mx7.com/i/0d9/cJEKyL.jpg
+thumb=https://1.bp.blogspot.com/-WwHoMV80Gos/WdLYzBdHSuI/AAAAAAAAAIA/F1if-Gd2Ac4Ft5SIdEyei4Stz422U6UUACLcBGAs/s320/037.png
 date=
-URL=http://191.96.38.41:19362/sportgames88/0x222_thrill_720p/chunklist.m3u8
+URL=http://103.77.116.238:443//thrill_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=true MovieHits
-thumb=http://www.mx7.com/i/1d4/AXEURi.jpg
+thumb=https://3.bp.blogspot.com/-m9ZgpfdV8dk/WdLYze1x4DI/AAAAAAAAAII/Eqs7b3FhvlADrQ-G4ofqrnqXi5vjovkjgCLcBGAs/s320/039.png
 date=
-URL=http://191.96.38.234:443/doballvip/00_moviehits_480p/chunklist.m3u8
+URL=http://103.77.116.238:443//true_movie_hits_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=true ThaiFilm
-thumb=http://www.mx7.com/i/167/NDQoWF.jpg
+thumb=https://4.bp.blogspot.com/-bLASJdfshRI/WdLYzqTerfI/AAAAAAAAAIM/lFH8iivOwBcjmEupSfDf2unVdCOgthx8wCLcBGAs/s320/040.png
 date=
-URL=http://191.96.38.234:443/doballvip/00_2thaifilm_480p/chunklist.m3u8
+URL=http://103.77.116.238:443//true_thai_film_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=true FilmAsia
-thumb=http://www.mx7.com/i/14e/W5mDkW.jpg
+thumb=https://4.bp.blogspot.com/-yQKCFchPqxA/WdLYz2eXsJI/AAAAAAAAAIQ/oT9qBJ-nzl8YRwt3Na0KvH4hieo_ioqWwCLcBGAs/s320/041.png
 date=2017-10-07
-URL=http://191.96.38.234:443/doballvip/00_filmasia_480p/chunklist.m3u8
+URL=http://103.77.116.238:443//true_film_asia_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+
+type=video
+name=true Asian Series
+thumb=https://4.bp.blogspot.com/-dykzK0bpvic/WdLYz5yYkXI/AAAAAAAAAIU/F4imG5DoLVkrjnTNECm7-B_6YAGUJsmbwCLcBGAs/s320/042.png
+date=2017-10-07
+URL=http://103.77.116.238:443//true_asian_series_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=true Series
-thumb=http://www.mx7.com/i/037/ZSNg3p.jpg
+thumb=https://1.bp.blogspot.com/-BBytuM5xTi0/WdLY0ajN7KI/AAAAAAAAAIY/mYl-rN7oKEkJRd1FdLreO4C1_O2XdIoJgCLcBGAs/s320/043.png
 date=2017-10-07
-URL=http://191.96.38.234:443/doballvip/00_2asianseries_480p/chunklist.m3u8
+URL=http://103.77.116.238:443//true_series_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 type=video
 name=fyi,
-thumb=http://www.mx7.com/i/15e/1XgDSl.jpg
+thumb=https://3.bp.blogspot.com/-qAx5YqujaIQ/WdLY3QVoGGI/AAAAAAAAAJI/ickQHYoflrUnWJbTWUpgaWecTPnUW-90gCLcBGAs/s320/055.png
 date=2017-10-07
-URL=http://191.96.38.234:443/doballvip/0x222_fyihdthai_720p/chunklist.m3u8
+URL=http://103.77.116.238:443//fyi_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
 
 
 type=video

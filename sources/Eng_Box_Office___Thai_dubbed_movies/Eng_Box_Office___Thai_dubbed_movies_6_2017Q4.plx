@@ -1098,7 +1098,7 @@ URL=
 # 2771674
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
-thumb=https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png
+thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 date=2017-10-02
 URL=http://www.playontube.com:1935/cinema/HBO.stream/playlist.m3u8
 player=default
