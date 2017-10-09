@@ -70,10 +70,11 @@ URL=
 
 
 type=video
-name=Blade Runner 2049 (2017) ENG CAM.X264.AAC.1.7GB
+name=Blade Runner 2049 (2017) ENG CAM_x264-NoGRP
 thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
-date=2017-10-08
-URL=https://openload.co/f/SoWJsZvgxAk/Blade_Runner_2049.2017.CAM.X264.AAC.1.7GB.mp4
+date=2017-10-09
+URL=https://openload.co/f/jliaTDYzQJs/Blade_Runner_2049_%282017%29_%5B720p%5D_CAM_x264-NoGRP_mp4
+#https://openload.co/f/SoWJsZvgxAk/Blade_Runner_2049.2017.CAM.X264.AAC.1.7GB.mp4
 
 type=video
 name=American Made (2017) ENG HDCAM
@@ -628,11 +629,28 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-08
+date=2017-10-09
 URL=
 
 
 
+
+
+
+
+type=video
+name=Virtual Revolution (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.7GB
+thumb=https://image.tmdb.org/t/p/w640/lxB6QUCLcmAgdYbSVhpdKYbTPQA.jpg
+date=2017-10-09
+URL=https://openload.co/f/CLTEuiOJEks/virtual.revolution.2016.1080p.bluray.x264-justwatch.mkv
+#https://openload.co/f/aR9UhO8ms1o/virtual.revolution.2016.1080p.bluray.x264-justwatch.mkv.mp4
+
+type=video
+name=The Night Watchmen (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.2GB
+thumb=https://image.tmdb.org/t/p/w640/yVHF2J5J0DRr0X4kSgzvxJLJuKa.jpg
+date=2017-10-09
+URL=https://openload.co/f/FQDvXkYehl0/The.Night.Watchmen.2017.1080p.BluRay.x264.DTS-LOST.mkv
+#https://openload.co/f/9O1b0Nag7fc/The.Night.Watchmen.2017.1080p.BluRay.x264.DTS-LOST.mkv.mp4
 
 type=video
 name=Indiscretion (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -652,6 +670,7 @@ name=Girls Trip (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/94nCLn74lBh4pLdZPIad18BpheE.jpg
 date=2017-10-06
 URL=https://openload.co/f/uficU85oMLc/girls_trip.2017.1080p.bluray.x264.rep-mkv.mp4
+#https://openload.co/f/MmyjkB0qAf4/Girls_Trip_%282017%29_%5B1080p%5D_BluRay_x264-%5BYTS_AG%5D_mp4
 
 type=video
 name=Cage Dive (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1086,7 +1105,7 @@ name=HHhH (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/4PivpTn4OoP3YcP0NaBKSLlHQCz.jpg
 date=2017-10-08
 URL=https://openload.co/f/nOQ-KngEvfo/HHhH.2017.720p.BRRip.XviD.AC3-RARBG.avi.mp4
-
+#https://openload.co/f/DhYTYFewzAE/The_Man_With_The_Iron_Heart_%282017%29_%5B720p%5D_BluRay_x264-%5BYTS_AG%5D_mp4
 
 
 type=video
@@ -1265,16 +1284,7 @@ date=2017-08-18
 URL=https://player.vimeo.com/video/229810745
 
 
-type=video
-name=Overdrive (2017) ENG WEB-DL.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
-date=2017-10-06
-URL=https://openload.co/f/nk5QA-pH9oc/Overdrive.2017.720p.WEB-DL.X264.AC3-EVO.mp4
-type=video
-name=Overdrive (2017) TH TS
-thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
-date=2017-08-22
-URL=https://openload.co/f/aKav5LxRtP0/Overdrive.2017.D.TS.XVID.AC3.ThaiRong_CpT%40CtHts.mkv.mp4
+
 
 
 
@@ -1698,7 +1708,17 @@ rating=-1.00
 description=In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history./description
 
 
-
+type=video
+name=Overdrive (2017) ENG WEB-DL.X264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
+date=2017-10-06
+URL=https://openload.co/f/nk5QA-pH9oc/Overdrive.2017.720p.WEB-DL.X264.AC3-EVO.mp4
+#https://openload.co/f/c-CIP1tM8Wk/Overdrive.2017.1080p.WEB-DL.DD5.1.H264_CpT%40CtHts.mkv.mp4
+type=video
+name=Overdrive (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
+date=2017-10-09
+URL=https://streamango.com/f/olqraekskqnrprlk/Overdrive_2017_360p_V2_mp4
 
 
 
@@ -1760,19 +1780,7 @@ description=In this Pokémon adventure, a mysterious force binds Ash to the Myth
 
 
 
-type=video
-name=Attraction (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=http://image.tmdb.org/t/p/w500/x8tZMFfoUJTYsoMR2gHxzpgkOii.jpg
-date=2017-10-08
-URL=https://openload.co/f/axQW5yMQj5o/Attraction.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
-type=video
-name=Attraction (2017) TH CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/x8tZMFfoUJTYsoMR2gHxzpgkOii.jpg
-date=2017-10-08
-URL=https://openload.co/f/b7mAQ1WkI9E/attraction-2017_%281%29.mkv.mp4
-player=default
-rating=-1.00
-description=After an alien ship crash lands onto a Russian city, many who have saw the inside and the occupants start to question their own existence while there are those who demand the aliens to leave Earth/description
+
 
 
 
@@ -1808,6 +1816,21 @@ URL=
 
 
 
+
+
+type=video
+name=Attraction (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/x8tZMFfoUJTYsoMR2gHxzpgkOii.jpg
+date=2017-10-08
+URL=https://openload.co/f/axQW5yMQj5o/Attraction.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+type=video
+name=Attraction (2017) TH
+thumb=http://image.tmdb.org/t/p/w500/x8tZMFfoUJTYsoMR2gHxzpgkOii.jpg
+date=2017-10-09
+URL=https://streamango.com/f/abtbbtospfsddadd/_MINI_Super-HQ_Attraction_2017_MP4_mp4
+player=default
+rating=-1.00
+description=After an alien ship crash lands onto a Russian city, many who have saw the inside and the occupants start to question their own existence while there are those who demand the aliens to leave Earth/description
 
 
 type=video
