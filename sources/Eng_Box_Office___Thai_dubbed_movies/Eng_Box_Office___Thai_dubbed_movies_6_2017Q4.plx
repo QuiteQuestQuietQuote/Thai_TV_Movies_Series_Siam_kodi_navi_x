@@ -82,11 +82,7 @@ thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
 date=2017-10-07
 URL=https://openload.co/f/IBcNv2QPNGE/American_Made_%282017%29_%5B720p%5D_HDCAM_mp4
 
-type=video
-name=The LEGO Ninjago Movie (2017) RUS
-thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
-date=2017-09-25
-URL=https://openload.co/f/WQ05MivPxqg/The.LEGO.Ninjago.Movie.2O17.TS.72Op.Russian.mp4
+
 
 type=video
 name=mother! (2017) ENG HDCAM X264 HQMic-NoGRP
@@ -144,10 +140,10 @@ date=2017-09-07
 URL=https://openload.co/f/sT2jB8zTaVQ/LC.2017.TS.x264-CPG.mkv.mp4
 
 type=video
-name=Wind River (2017) ENG KORSUB.HDRip.x264-STUTTERSHIT
+name=Wind River (2017) ENG HDRip.XviD.AC3-iFT
 thumb=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
-date=2017-09-29
-URL=https://openload.co/f/t5PYXbo9tg4/Wind.River.2017.KORSUB.HDRip.x264-STUTTERSHIT.mp4
+date=2017-10-10
+URL=https://openload.co/f/KrtMkCMab98/Wind.River.2017.HDRip.XviD.AC3-iFT.avi.mp4
 
 type=video
 name=The Nut Job 2: Nutty by Nature (2017) ENG HDCAM_XviD_-_UnKnOwN
@@ -177,13 +173,40 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-10-06
+date=2017-10-10
 URL=
 
 
 
 
 
+
+
+
+
+type=video
+name=Cardboard Gangsters (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/sYSmyuSwD7HmorqXRAWzn50jlur.jpg
+date=2017-10-10
+URL=https://openload.co/f/t57IiPCVk5I/Cardboard.Gangsters.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=House by the Lake (2016) ENG HDRip_XviD_AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/30MeMnAT0YxZidLqaS5zkVUmz0P.jpg
+date=2017-10-10
+URL=https://openload.co/f/Wjadg2CR4yQ/House_By_the_Lake_2017_HDRip_XviD_AC3-EVO.mp4
+
+type=video
+name=One Percent More Humid (2017) ENG HDRip_XviD_AC3-EVO
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BYWY1ZjRiYjQtODM4ZS00N2U3LTk4NGQtNThiZWU3NDRiZDhmXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_SY1000_CR0,0,666,1000_AL_.jpg
+date=2017-10-10
+URL=https://openload.co/f/IC-shIyRi3o/One_Percent_More_Humid_2017_HDRip_XviD_AC3-EVO.mp4
+
+type=video
+name=Sleepwalker (2017) ENG HDRip_XviD_AC3-EVO
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMWIwMWNmYTUtYmY1Mi00ZGM5LWFiMWMtYTA1YTRiZDg4MTVhXkEyXkFqcGdeQXVyMzE5NDU3NjQ@._V1_SY1000_CR0,0,676,1000_AL_.jpg
+date=2017-10-10
+URL=https://openload.co/f/JZe9TCIgTEI/Sleepwalker_2017_HDRip_XviD_AC3-EVO.mp4
 
 type=video
 name=The Crucifixion (2017) ENG WEB-DL.H264.AC3-EVO
@@ -629,7 +652,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-09
+date=2017-10-10
 URL=
 
 
@@ -637,6 +660,12 @@ URL=
 
 
 
+
+type=video
+name=Justice (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/bW9s0cE8IBRYdWPrQ6UVStc2xCv.jpg
+date=2017-10-10
+URL=https://openload.co/f/zrOCNnrsKN0/justice.2017.limited.1080p.bluray.x264-geckos.mkv.mp4
 
 type=video
 name=Virtual Revolution (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.7GB
@@ -829,11 +858,7 @@ thumb=https://image.tmdb.org/t/p/w640/7o14VaMphEIzPwzeW6FP3A6zb4W.jpg
 date=2017-09-21
 URL=https://openload.co/f/dOxdbWjhfyI/The.Bad.Batch.2016.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
-type=video
-name=A Ghost Story (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/sD94aixD7fMAc2e9ugbv4KQprBL.jpg
-date=2017-09-19
-URL=https://openload.co/f/w4f2jlOvnrA/a.ghost.story.2017.limited.1080p.bluray.x264-drones.mkv.mp4
+
 
 type=video
 name=Certain Women (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -884,6 +909,7 @@ name=The Big Sick (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg
 date=2017-09-08
 URL=https://openload.co/f/EkvIdTd4RJw/The.Big.Sick.2017.1080p.BluRay.x264-Replica.mp4
+#https://openload.co/f/Gvwx5fGYSwk/The_Big_Sick_%282017%29_%5B1080p%5D.X264.AC3-YIN.mkv.mp4
 
 type=video
 name=It Comes at Night (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1095,17 +1121,18 @@ URL=https://openload.co/f/a3OL4Fe1EkU/Goon.Last.of.the.Enforcers.2017.720p.BluRa
 #https://openload.co/f/_nzYcLqwj4Q/Goon.Last.of.the.Enforcers.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
-name=Sniper: Ultimate Kill (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/pi16aubY3qFKJWAh4npvm03ERkH.jpg
-date=2017-10-06
-URL=https://openload.co/f/83MCBzRY3xQ/Sniper.Ultimate.Kill.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
-
-type=video
 name=HHhH (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/4PivpTn4OoP3YcP0NaBKSLlHQCz.jpg
 date=2017-10-08
 URL=https://openload.co/f/nOQ-KngEvfo/HHhH.2017.720p.BRRip.XviD.AC3-RARBG.avi.mp4
 #https://openload.co/f/DhYTYFewzAE/The_Man_With_The_Iron_Heart_%282017%29_%5B720p%5D_BluRay_x264-%5BYTS_AG%5D_mp4
+
+
+
+
+
+
+
 
 
 type=video
@@ -1154,23 +1181,45 @@ URL=http://203.162.235.41:17819
 
 
 
+
+
+
+
+
+
+
+
+type=video
+name=The LEGO Ninjago Movie (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
+date=2017-09-25
+URL=https://openload.co/f/WQ05MivPxqg/The.LEGO.Ninjago.Movie.2O17.TS.72Op.Russian.mp4
+type=video
+name=The LEGO Ninjago Movie (2017) THCAM
+thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
+date=2017-10-10
+URL=https://openload.co/f/TOeMLlMyofc/The_LEGO_Ninjago_Movie_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B9%82%E0%B8%81_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
+
 type=video
 name=The Foreigner (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
-date=2017-10-08
-URL=https://streamango.com/f/aafrlemtdeecefam/2_mp4
+date=2017-10-10
+URL=https://openload.co/f/xnQIzCCvlFQ/The_Foreigner_%282017%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 type=video
 name=Paradox (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/9e7X4NjnioUoLMR74d0fUW1WSp9.jpg
-date=2017-10-08
-URL=https://streamango.com/f/mcoktoaclnrsfokb/Paradox_2017_MP4_mp4
+date=2017-10-10
+URL=https://openload.co/f/ZUSwNylVnPg/Paradox_%282017%29%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94_%E0%B8%8B%E0%B8%B1%E0%B8%94_%E0%B8%94%E0%B8%B4%E0%B8%9A_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
 
 type=video
-name=Kingsman: The Golden Circle (2017) RUS
+name=Kingsman: The Golden Circle (2017) ENG CAM.READNFO.XViD-26k
 thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
-date=2017-09-22
-URL=https://openload.co/f/G3HIxvrCqIQ/KingsmaNN_2O17_D_TS_14OOMB_KOSHARA_avi_mp4
+date=2017-10-10
+URL=https://openload.co/f/s8DKi74C1V0/Kingsman.The.Golden.Circle.2017.CAM.READNFO.XViD-26k.mp4
+#https://openload.co/f/taRrI70s7V8/Kingsman.The.Golden.Circle.2017.CAM.CLEAN.avi.mp4
 type=video
 name=Kingsman: The Golden Circle (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
@@ -1201,18 +1250,6 @@ name=It (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
 date=2017-09-18
 URL=https://openload.co/f/qXaLPD1GEng/It_%282017%29%E0%B8%AD%E0%B8%B4%E0%B8%97_%E0%B9%82%E0%B8%9C%E0%B8%A5%E0%B9%88%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
-
-
-type=video
-name=The Emoji Movie (2017) ENG KORSUB.HDRip.x264-STUTTERSHIT
-thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
-date=2017-10-03
-URL=https://openload.co/f/cFzxTCE4xYI/The.Emoji.Movie.2017.KORSUB.HDRip.x264-STUTTERSHIT.mp4
-type=video
-name=The Emoji Movie (2017) TH CAM
-thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
-date=2017-09-17
-URL=https://openload.co/f/loSwUzABuYc/The_Emoji_Movie_%282017%29_%E0%B8%AD%E0%B8%B4%E0%B9%82%E0%B8%A1%E0%B8%88%E0%B8%B4_%E0%B9%81%E0%B8%AD%E0%B9%8A%E0%B8%9E%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 
 
 type=video
@@ -1265,13 +1302,6 @@ date=2017-08-20
 URL=https://openload.co/f/yHAqwafVlbk/Dunkirk.2017.HD-TS.x264.ThaiRong_CpT%40CtHts.mkv.mp4
 
 
-
-
-
-
-
-
-
 type=video
 name=Cars 3 (2017) ENG updated TC
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
@@ -1284,23 +1314,11 @@ date=2017-08-18
 URL=https://player.vimeo.com/video/229810745
 
 
-
-
-
-
-
-
-
-
-
 type=video
 name=Birth of the Dragon (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/y29CEE9oukwhNT6INWVEOaINHpR.jpg
 date=2017-09-24
 URL=https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B8%8B%E0%B8%A5%E0%B8%B5_%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
-
-
-
 
 type=video
 name=Fairy Tail Movie 2: Dragon Cry (2017) TH CAM
@@ -1336,6 +1354,18 @@ date=2017-10-02
 URL=
 
 
+
+
+type=video
+name=A Ghost Story (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/sD94aixD7fMAc2e9ugbv4KQprBL.jpg
+date=2017-09-19
+URL=https://openload.co/f/w4f2jlOvnrA/a.ghost.story.2017.limited.1080p.bluray.x264-drones.mkv.mp4
+type=video
+name=A Ghost Story (2017) TH SUB
+thumb=https://image.tmdb.org/t/p/w640/sD94aixD7fMAc2e9ugbv4KQprBL.jpg
+date=2017-10-10
+URL=https://openload.co/f/CvyZ9_2t_8w/A_Ghost_Story_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
 
 
 type=video
@@ -1550,6 +1580,20 @@ URL=
 
 
 
+
+type=video
+name=The Emoji Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
+date=2017-10-10
+URL=https://openload.co/f/E-pgDeg0YIk/the.emoji.movie.2017.1080p.bluray.x264-drones.mkv
+#https://openload.co/f/lncVPrYj-Rc/the.emoji.movie.2017.1080p.bluray.x264-drones.mkv.mp4
+type=video
+name=The Emoji Movie (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
+date=2017-10-10
+URL=https://openload.co/f/pc9HN_wR2Nw/The_Emoji_Movie_%282017%29%E0%B8%AD%E0%B8%B4%E0%B9%82%E0%B8%A1%E0%B8%88%E0%B8%B4_%E0%B9%81%E0%B8%AD%E0%B9%8A%E0%B8%9E%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+
+
 type=video
 name=Wish Upon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
@@ -1582,16 +1626,11 @@ thumb=https://image.tmdb.org/t/p/w640/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg
 date=2017-10-02
 URL=https://openload.co/f/ec1xrtavae4/Bushwick_%282017%29%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
-
-
 type=video
 name=The Battleship Island (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/gCv1HBAXiyi48hPpc9hO0p5bbht.jpg
 date=2017-09-17
 URL=https://openload.co/f/yv8vQH7WT_Q/The_Battleship_Island_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A5%E0%B8%8A%E0%B8%B4%E0%B8%9B_%E0%B9%84%E0%B8%AD%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
-
-
-
 
 
 type=video
@@ -1618,12 +1657,6 @@ date=2017-09-03
 URL=https://openload.co/f/F2OrZJXph3c/%7BMINI_Super-HQ%7D_The.Hitmans.Bodyguard.2017.1080p.WEB-DL.ThaiRong.5.1.x264_CpT%40CtHts.mkv.mp4
 
 
-
-
-
-
-
-
 type=video
 name=Security (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/fG2SZwAAY4mNscLfvSiKyBxaVQy.jpg
@@ -1634,11 +1667,6 @@ name=Security (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/fG2SZwAAY4mNscLfvSiKyBxaVQy.jpg
 date=2017-09-06
 URL=https://openload.co/f/HZM0_zLA9Ew/Security.2017.720p.WEB-DL.DD5.1.H264.ThaiRong5.1_CpT%40CtHts.mkv.mp4
-
-
-
-
-
 
 
 type=video
@@ -1663,9 +1691,6 @@ name=Kidnap (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
 date=2017-07-06
 URL=https://openload.co/f/GbUe5fZac2o/Kidnap_%282017%29_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
-
-
-
 
 
 type=video
@@ -1717,8 +1742,8 @@ URL=https://openload.co/f/nk5QA-pH9oc/Overdrive.2017.720p.WEB-DL.X264.AC3-EVO.mp
 type=video
 name=Overdrive (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
-date=2017-10-09
-URL=https://streamango.com/f/olqraekskqnrprlk/Overdrive_2017_360p_V2_mp4
+date=2017-10-10
+URL=https://openload.co/f/9o0qqqC-HkQ/Overdrive_%282017%29%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%84%E0%B8%A1%E0%B8%A5%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
 
@@ -1745,19 +1770,11 @@ thumb=https://image.tmdb.org/t/p/w640/7EPOZv9bQjNVjFvk8lPGkcTubgO.jpg
 date=2017-08-29
 URL=https://openload.co/f/FJ60frgwvyY/Ghost.House.2017.1080p.WEB-DL.ThaiRong5.1.H264_CpT%40CtHts.mkv.mp4
 
-
 type=video
 name=Wu Kong (2017) CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/srdxQhvnLVnZjjUF7UwVBtbyvXj.jpg
 date=2017-08-25
 URL=https://openload.co/f/X5eV80ZRVTA/WuKong.2017.2160p.4K.WEB-DL.H264.AC-3.ThaiRong_CpT%40CtHts.mkv.mp4
-
-
-
-
-
-
-
 
 
 # 2773692
@@ -1818,6 +1835,21 @@ URL=
 
 
 
+
+
+
+type=video
+name=Sniper: Ultimate Kill (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/pi16aubY3qFKJWAh4npvm03ERkH.jpg
+date=2017-10-06
+URL=https://openload.co/f/83MCBzRY3xQ/Sniper.Ultimate.Kill.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
+type=video
+name=Sniper: Ultimate Kill (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/pi16aubY3qFKJWAh4npvm03ERkH.jpg
+date=2017-10-10
+URL=https://openload.co/f/alnt3yDQnCA/Sniper%3A_Ultimate_Kill_%282017%29TH.mp4
+
+
 type=video
 name=Attraction (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/x8tZMFfoUJTYsoMR2gHxzpgkOii.jpg
@@ -1826,8 +1858,8 @@ URL=https://openload.co/f/axQW5yMQj5o/Attraction.2017.1080p.BrRip.DTS.x264_NongZ
 type=video
 name=Attraction (2017) TH
 thumb=http://image.tmdb.org/t/p/w500/x8tZMFfoUJTYsoMR2gHxzpgkOii.jpg
-date=2017-10-09
-URL=https://streamango.com/f/abtbbtospfsddadd/_MINI_Super-HQ_Attraction_2017_MP4_mp4
+date=2017-10-10
+URL=https://openload.co/f/Cd1qsjMbBjI/Attraction_%282017%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 player=default
 rating=-1.00
 description=After an alien ship crash lands onto a Russian city, many who have saw the inside and the occupants start to question their own existence while there are those who demand the aliens to leave Earth/description
