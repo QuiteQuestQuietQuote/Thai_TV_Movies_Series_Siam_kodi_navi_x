@@ -14,9 +14,9 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 type=video
 name=HBO HD (TH)
-thumb=https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png
-date=2017-10-02
-URL=http://www.playontube.com:1935/cinema/HBO.stream/playlist.m3u8
+thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
+date=2017-10-10
+URL=http://103.77.116.238:443//hbo_th_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=movie1
@@ -214,141 +214,141 @@ URL=http://27.131.166.195:1935/live/_definst_/upmovie.stream/playlist.m3u8?usern
 
 type=video
 name=MOVIE1
-thumb=http://www.mx7.com/i/2e2/OIA8ZX.jpg
+thumb=http://www.thaiptv.com/img/movie1logo.png
 URL=http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 type=video
 name=MOVIE2
-thumb=http://www.mx7.com/i/1bf/Oi79CO.jpg
+thumb=http://www.thaiptv.com/img/movie2logo.png
 URL=http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 type=video
 name=MOVIE3
-thumb=http://www.mx7.com/i/1dc/rF4hAO.jpg
+thumb=http://www.thaiptv.com/img/movie3logo.png
 URL=http://27.131.166.195:1935/live/_definst_/movie3.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 type=video
 name=HBO Signature 
 thumb=https://2.bp.blogspot.com/-36Kre7Am8Bc/WdLYwaX5jQI/AAAAAAAAAHY/gl7LikDibc8f65vR51GD8BYfvBJIcX3zACLcBGAs/s320/027.png
-URL=http://103.77.116.238:443//hbo_signature_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//hbo_signature_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=HBO HD
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
-URL=http://www.playontube.com:1935/cinema/HBO.stream/playlist.m3u8
+URL=http://103.77.116.238:443//hbo_th_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=HBO Family
 thumb=https://2.bp.blogspot.com/-BBbZAdLOj1Y/WdLYwxPeVkI/AAAAAAAAAHc/TXb5lN4YNaEL0SLprauwDgEnw3YaGfGaQCLcBGAs/s320/028.png
-URL=http://103.77.116.238:443//hbo_family_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//hbo_family_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=HBO Hits
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://www.playontube.com:1935/cinema/HBOhits.stream/chunklist.m3u8
+URL=http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=HISTORY
 thumb=https://3.bp.blogspot.com/-f8_8reMKJjQ/WdLY2OaLQJI/AAAAAAAAAI0/3qc44QmOG4cE9Ys5tgtmAgjvIUL4EyM8ACLcBGAs/s320/050.png
-URL=http://103.77.116.238:443//history_channel_hd_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//history_channel_hd_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=Cinemax
 thumb=https://3.bp.blogspot.com/-Vxm9d7YjvDI/WdLYxl68RYI/AAAAAAAAAHo/GbJ2lnI2s4c9RA_xArSfV9kv0-bZ_tswQCLcBGAs/s320/031.png
-URL=http://www.playontube.com:1935/cinema/CINEMAX.stream/playlist.m3u8
+URL=http://103.77.116.238:443//cinemax_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=Fox Fa MovHD 
 thumb=https://3.bp.blogspot.com/-fawERBkgNXQ/WdLYx_VqiwI/AAAAAAAAAHw/WeIaBiWh3OYLXzb-Z3ZFk1b8PE0frF1xQCLcBGAs/s320/033.png
-URL=http://103.77.116.238:443//ais_foxfamen_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//ais_foxfamen_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=Fox Ac Mov HD
 thumb=https://4.bp.blogspot.com/-jxRpdL703tw/WdLYxsUsJjI/AAAAAAAAAHs/YoUpz3OQIkQPO3fyuQB9qsJ9sgTeGF_LQCLcBGAs/s320/032.png
-URL=http://103.77.116.238:443//foxactionmovieen_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//foxactionmovieen_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=Fox Mov Pre HD 
 thumb=https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png
-URL=http://103.77.116.238:443//ais_foxpremiumth_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//ais_foxpremiumth_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=Fox Crime
 thumb=https://4.bp.blogspot.com/-RoLh6xuwFLs/WdLYyc3wyII/AAAAAAAAAH8/kpe7sheyhcUfoptHWTDWfnZwfUkCr_gggCLcBGAs/s320/036.png
-URL=http://103.77.116.238:443//fox_crime_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//fox_crime_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=FX
 thumb=https://2.bp.blogspot.com/-hn2UbMiBufk/WdLYyQwpvoI/AAAAAAAAAH4/dIBJvAUJWWknJcsdk-zDQ7o_jB7ppy8ZQCLcBGAs/s320/035.png
-URL=http://103.77.116.238:443//fx_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//fx_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=FOX Thai
 thumb=https://2.bp.blogspot.com/-8nVRkhAsKTM/WdLYzFGOKfI/AAAAAAAAAIE/r4g8mysMm7sA0rGWWHkIQintqg12RvH7QCLcBGAs/s320/038.png
-URL=http://103.77.116.238:443//fox_thai_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//fox_thai_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=Starworld
 thumb=https://4.bp.blogspot.com/-Batrk41GlEM/WdLY1VrJNAI/AAAAAAAAAIo/BrJ-PPo5p407JS0HSkWKhgQiqsOFIQ0gQCLcBGAs/s320/047.png
-URL=http://103.77.116.238:443//starworld_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//starworld_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=Warner TV
 thumb=https://4.bp.blogspot.com/-V_TTlbTkzIY/WdLY1dUeb9I/AAAAAAAAAIs/9x49EyY_tKAl86VPbtxOM4Vx8Y0kY0hNwCLcBGAs/s320/048.png
-URL=http://103.77.116.238:443//warner_tv_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//warner_tv_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=Doonee HD
 thumb=https://3.bp.blogspot.com/-xhGC9TO9IW8/WdLY0gIvgKI/AAAAAAAAAIc/d8_fwTap0NoDIN1UtEqmLZlaqYmEU30hgCLcBGAs/s320/044.png
-URL=http://103.77.116.238:443//ais_doonee_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//ais_doonee_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=RED by HBO
 thumb=https://4.bp.blogspot.com/-gOGHzLECGdo/WdLYxNGNjGI/AAAAAAAAAHk/5qaIHAsFmWQnZgTir4X04AoU0hJn7I5GQCLcBGAs/s320/030.png
 date=
-URL=http://103.77.116.238:443//red_by_hbo_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//red_by_hbo_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=thrill
 thumb=https://1.bp.blogspot.com/-WwHoMV80Gos/WdLYzBdHSuI/AAAAAAAAAIA/F1if-Gd2Ac4Ft5SIdEyei4Stz422U6UUACLcBGAs/s320/037.png
 date=
-URL=http://103.77.116.238:443//thrill_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//thrill_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=true MovieHits
 thumb=https://3.bp.blogspot.com/-m9ZgpfdV8dk/WdLYze1x4DI/AAAAAAAAAII/Eqs7b3FhvlADrQ-G4ofqrnqXi5vjovkjgCLcBGAs/s320/039.png
 date=
-URL=http://103.77.116.238:443//true_movie_hits_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//true_movie_hits_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=true ThaiFilm
 thumb=https://4.bp.blogspot.com/-bLASJdfshRI/WdLYzqTerfI/AAAAAAAAAIM/lFH8iivOwBcjmEupSfDf2unVdCOgthx8wCLcBGAs/s320/040.png
 date=
-URL=http://103.77.116.238:443//true_thai_film_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//true_thai_film_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=true FilmAsia
 thumb=https://4.bp.blogspot.com/-yQKCFchPqxA/WdLYz2eXsJI/AAAAAAAAAIQ/oT9qBJ-nzl8YRwt3Na0KvH4hieo_ioqWwCLcBGAs/s320/041.png
 date=2017-10-07
-URL=http://103.77.116.238:443//true_film_asia_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//true_film_asia_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=true Asian Series
 thumb=https://4.bp.blogspot.com/-dykzK0bpvic/WdLYz5yYkXI/AAAAAAAAAIU/F4imG5DoLVkrjnTNECm7-B_6YAGUJsmbwCLcBGAs/s320/042.png
 date=2017-10-07
-URL=http://103.77.116.238:443//true_asian_series_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//true_asian_series_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=true Series
 thumb=https://1.bp.blogspot.com/-BBytuM5xTi0/WdLY0ajN7KI/AAAAAAAAAIY/mYl-rN7oKEkJRd1FdLreO4C1_O2XdIoJgCLcBGAs/s320/043.png
 date=2017-10-07
-URL=http://103.77.116.238:443//true_series_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//true_series_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 type=video
 name=fyi,
 thumb=https://3.bp.blogspot.com/-qAx5YqujaIQ/WdLY3QVoGGI/AAAAAAAAAJI/ickQHYoflrUnWJbTWUpgaWecTPnUW-90gCLcBGAs/s320/055.png
 date=2017-10-07
-URL=http://103.77.116.238:443//fyi_720p.stream/playlist.m3u8?st=VQxD9gw3yFH79YfgjGhItA&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm771bc65a4cd392db5565&e=1507496554
+URL=http://103.77.116.238:443//fyi_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
 
 
 type=video
@@ -375,30 +375,6 @@ URL=
 
 
 
-type=video
-name=HBO
-URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/1.m3u8
-type=video
-name=CINEMAX
-URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/7.m3u8
-type=video
-name=FOXfamily
-URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/6.m3u8
-type=video
-name=FOXMOVIES
-URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/5.m3u8
-type=video
-name=GolfChannel
-URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/4.m3u8
-type=video
-name=HBOhits
-URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/2.m3u8
-type=video
-name=HBOSignature
-URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/3.m3u8
-type=video
-name=FOX ACTION MOVIES
-URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/12.m3u8
 
 
 
@@ -422,75 +398,6 @@ URL=
 
 
 
-type=video
-name=hbo hd
-URL=http://iptvthailand.dyndns.biz/dode/hbohd.stream/playlist.m3u8
-type=video
-name=h2 hd
-URL=http://iptvthailand.dyndns.biz/dode/h2hd.stream/playlist.m3u8
-type=video
-name=history hd
-URL=http://iptvthailand.dyndns.biz/dode/historyhd.stream/playlist.m3u8
-type=video
-name=hbohits
-URL=http://iptvthailand.dyndns.biz/dode/hbohits.stream/playlist.m3u8
-type=video
-name=hbo signature
-URL=http://iptvthailand.dyndns.biz/dode/hbosig.stream/playlist.m3u8
-type=video
-name=hbo family
-URL=http://iptvthailand.dyndns.biz/dode/hbofam.stream/playlist.m3u8
-type=video
-name=cenimax
-URL=http://iptvthailand.dyndns.biz/dode/cinemax.stream/playlist.m3u8
-type=video
-name=warnerhd
-URL=http://iptvthailand.dyndns.biz/dode/warnerhd.stream/playlist.m3u8
-type=video
-name=axn
-URL=http://iptvthailand.dyndns.biz/dode/axnhd.stream/chunks.m3u8
-type=video
-name=doonee
-URL=http://iptvthailand.dyndns.biz/dode/doonee.stream/playlist.m3u8
-type=video
-name=fox  movies
-URL=http://iptvthailand.dyndns.biz/dode/foxpremium.stream/playlist.m3u8
-type=video
-name=fox  action movies
-URL=http://iptvthailand.dyndns.biz/dode/foxaction.stream/playlist.m3u8
-type=video
-name=foxthai
-URL=http://iptvthailand.dyndns.biz/dode/foxthai.stream/playlist.m3u8
-type=video
-name=foxcrime
-URL=http://iptvthailand.dyndns.biz/dode/foxcrime.stream/playlist.m3u8
-type=video
-name=fx hd
-URL=http://iptvthailand.dyndns.biz/dode/fxhd.stream/playlist.m3u8
-type=video
-name=foxfamily
-URL=http://iptvthailand.dyndns.biz/dode/foxfamily.stream/playlist.m3u8
-type=video
-name=starworld
-URL=http://iptvthailand.dyndns.biz/dode/starworld.stream/playlist.m3u8
-type=video
-name=fyi
-URL=http://iptvthailand.dyndns.biz/dode/fyi.stream/playlist.m3u8
-type=video
-name=true movie hits
-URL=http://iptvthailand.dyndns.biz/dode/moviehit.stream/playlist.m3u8
-type=video
-name=trueseries
-URL=http://iptvthailand.dyndns.biz/dode/trueseries.stream/playlist.m3u8
-type=video
-name=thai film
-URL=http://iptvthailand.dyndns.biz/dode/thaifilm.stream/playlist.m3u8
-type=video
-name=filmasia
-URL=http://iptvthailand.dyndns.biz/dode/filmasia.stream/playlist.m3u8
-type=video
-name=true lifetime
-URL=http://iptvthailand.dyndns.biz/dode/lifetime.stream/playlist.m3u8
 
 
 
