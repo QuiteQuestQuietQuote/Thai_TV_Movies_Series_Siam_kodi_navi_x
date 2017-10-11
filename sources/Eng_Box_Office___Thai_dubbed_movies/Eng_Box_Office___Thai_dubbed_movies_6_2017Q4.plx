@@ -23,7 +23,7 @@ rating=-1.00
 type=video
 name=
 thumb=
-URL=
+URL=https://putstream.com/show/genius/01-01
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
