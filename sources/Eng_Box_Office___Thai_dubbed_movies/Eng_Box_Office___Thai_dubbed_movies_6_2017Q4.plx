@@ -1146,24 +1146,24 @@ type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 date=2017-10-10
-URL=http://103.77.116.238:443//hbo_th_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
+URL=http://103.77.116.238:443//hbo_th_720p.stream/playlist.m3u8?st=Qi18eUZiJdYUtjLLTa4oUQ&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmbabb1e513cad11d94368&e=1507751737
 player=default
 rating=-1.00
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
+URL=http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=Qi18eUZiJdYUtjLLTa4oUQ&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmbabb1e513cad11d94368&e=1507751737
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD (TH)[/COLOR]
 thumb=https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png
-URL=http://103.77.116.238:443//ais_foxpremiumth_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
+URL=http://103.77.116.238:443//ais_foxpremiumth_720p.stream/playlist.m3u8?st=Qi18eUZiJdYUtjLLTa4oUQ&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmbabb1e513cad11d94368&e=1507751737
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Cinemax (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-Vxm9d7YjvDI/WdLYxl68RYI/AAAAAAAAAHo/GbJ2lnI2s4c9RA_xArSfV9kv0-bZ_tswQCLcBGAs/s320/031.png
-URL=http://103.77.116.238:443//cinemax_720p.stream/playlist.m3u8?st=gT2VezZGIhlvNt60n1a3Og&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm3cda72a9300b2cd52456&e=1507667347
+URL=http://103.77.116.238:443//cinemax_720p.stream/playlist.m3u8?st=Qi18eUZiJdYUtjLLTa4oUQ&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmbabb1e513cad11d94368&e=1507751737
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE1[/COLOR]
