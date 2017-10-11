@@ -152,10 +152,10 @@ date=2017-08-18
 URL=https://openload.co/f/dGpcPf8KdDw/The_Nut_Job_2_2017_HDCAM_XviD_-_UnKnOwN.avi.mp4
 
 type=video
-name=The Layover (2017) ENG WEB-DL.XviD.AC3-FGT
+name=The Layover (2017) ENG dvdrip.x264.fragment
 thumb=https://image.tmdb.org/t/p/w640/kb9osnqanXRpkpm1bnSqAhKoq5T.jpg
-date=2017-09-01
-URL=https://openload.co/f/Y8BolCrhh4U/The.Layover.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+date=2017-10-11
+URL=https://openload.co/f/_bCmA0g9Xu8/the.layover.2017.dvdrip.x264.fragment.mkv.mp4
 
 type=video
 name=Gun Shy (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -198,7 +198,7 @@ URL=https://openload.co/f/Wjadg2CR4yQ/House_By_the_Lake_2017_HDRip_XviD_AC3-EVO.
 
 type=video
 name=One Percent More Humid (2017) ENG HDRip_XviD_AC3-EVO
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BYWY1ZjRiYjQtODM4ZS00N2U3LTk4NGQtNThiZWU3NDRiZDhmXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_SY1000_CR0,0,666,1000_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w640/mRYVP2wlQIqQ1uI0rWFcp7tm7X9.jpg
 date=2017-10-10
 URL=https://openload.co/f/IC-shIyRi3o/One_Percent_More_Humid_2017_HDRip_XviD_AC3-EVO.mp4
 
@@ -238,11 +238,7 @@ thumb=https://image.tmdb.org/t/p/w640/hyDJxhPooTZQ3F889qxHyAUzBfO.jpg
 date=2017-10-06
 URL=https://openload.co/f/Q60lCySBuyA/east.side.sushi.2014.1080p.webrip.x264-intenso.mkv.mp4
 
-type=video
-name=Bon Cop Bad Cop 2 (2017) ENG WEBRip.950MB.MkvCage
-thumb=https://image.tmdb.org/t/p/w640/qY4RGT6Ky1Z46BWaKohTlNp9ncU.jpg
-date=2017-10-07
-URL=https://openload.co/f/tP6__GBSwf4/Bon.Cop.Bad.Cop.2.2017.720.WEBRip.950MB.MkvCage.mkv.mp4
+
 
 type=video
 name=Armstrong (2016) ENG HDRip.XviD.AC3-EVO
@@ -446,11 +442,7 @@ thumb=https://image.tmdb.org/t/p/w640/iPvggWYCZblEG2ldObR6GHmkEjz.jpg
 date=2017-09-08
 URL=https://openload.co/f/fnBC5t378Ow/The.Good.Catholic.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 
-type=video
-name=The Limehouse Golem (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/xB1AFa4iLU9KGxlrVbfH2uIJeck.jpg
-date=2017-09-08
-URL=https://openload.co/f/J5-hg2Jta3U/The.Limehouse.Golem.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=Who Is Alice? (2017) ENG Amazon.WEB-DL.DD%2B2.0.H.264-QOQ
@@ -652,7 +644,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-10
+date=2017-10-11
 URL=
 
 
@@ -660,6 +652,25 @@ URL=
 
 
 
+type=video
+name=Batman vs. Two-Face (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/yTbj8Kcp4WFwMRdEejnn55KIsfH.jpg
+date=2017-10-11
+URL=https://openload.co/f/Xomqcu67ga8/Batman.vs.Two-Face.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/xLSjbsZj9n4/Batman.vs.Two-Face.2017.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
+#https://openload.co/f/XNdLAMWQljs/Batman.vs.Two-Face.2017.1080p.BluRay.x264.DTS-MT.mkv.mp4
+
+type=video
+name=The Limehouse Golem (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/xB1AFa4iLU9KGxlrVbfH2uIJeck.jpg
+date=2017-10-11
+URL=https://openload.co/f/VHPFLpCCxZE/The.Limehouse.Golem.2016.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+
+type=video
+name=Bon Cop Bad Cop 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/qY4RGT6Ky1Z46BWaKohTlNp9ncU.jpg
+date=2017-10-11
+URL=https://openload.co/f/B9RmdmacUw4/Bon.Cop.Bad.Cop.2.2017.1080p.BluRay.x264-NODLABS.mkv.mp4
 
 type=video
 name=Justice (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -908,8 +919,9 @@ type=video
 name=The Big Sick (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg
 date=2017-09-08
-URL=https://openload.co/f/EkvIdTd4RJw/The.Big.Sick.2017.1080p.BluRay.x264-Replica.mp4
-#https://openload.co/f/Gvwx5fGYSwk/The_Big_Sick_%282017%29_%5B1080p%5D.X264.AC3-YIN.mkv.mp4
+URL=https://openload.co/f/Gvwx5fGYSwk/The_Big_Sick_%282017%29_%5B1080p%5D.X264.AC3-YIN.mkv.mp4
+#https://openload.co/f/EkvIdTd4RJw/The.Big.Sick.2017.1080p.BluRay.x264-Replica.mp4
+
 
 type=video
 name=It Comes at Night (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1569,7 +1581,7 @@ type=video
 name=
 thumb=
 date=2017-10-02
-URL=
+URL=https://mega.nz/#!1uZEBLCZ!U2Odg6BuS_3ukS_3c1wAASaQAeMCwFR_ZifGe9pyMas
 
 
 type=video
@@ -1582,11 +1594,12 @@ URL=
 
 
 type=video
-name=The Emoji Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=The Emoji Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 4.4GB
 thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
 date=2017-10-10
 URL=https://openload.co/f/E-pgDeg0YIk/the.emoji.movie.2017.1080p.bluray.x264-drones.mkv
 #https://openload.co/f/lncVPrYj-Rc/the.emoji.movie.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/M9oyuRqh08I/the.emoji.movie.2017.repack.1080p.bluray.x264-drones.mkv.mp4
 type=video
 name=The Emoji Movie (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
@@ -1805,31 +1818,34 @@ type=video
 name=
 thumb=
 date=2017-09-14
-URL=
+URL=https://s1.037hd.ws/907001-/907459.MP4
 
 type=video
 name=
 thumb=
 date=2017-09-14
-URL=
+URL=http://cdn.037hd.com/videoplayback?hash=eyJjb29raWUiOlsiRFJJVkVfU1RSRUFNPWRPbllzZkhLa1N3OyBEb21haW49LmRyaXZlLmdvb2dsZS5jb207IFBhdGg9LzsgU2VjdXJlOyBIdHRwT25seSIsIk5JRD0xMTQ9R3lseFBqMEotQzhwS0xBbWhBYnRmdm5VbGgtVHRybE1ubFQ3allnWGEyR0UwemVFeDU1SHQ0alFHV0NoMjBpQWhwamZoNkk4OHJKNElYdzFZRURBUV9BWkJFUnNDSklTY2stV3p6TEZSYUNKb2tNck04OFFHMEVMOEhYQU5mNW47RG9tYWluPS5nb29nbGUuY29tO1BhdGg9LztFeHBpcmVzPVRodSwgMTItQXByLTIwMTggMTY6MDU6NTkgR01UO0h0dHBPbmx5IiwiTklEPTExND1iTmluZmpPLU5oc3Aya085RThlUE9PWTc2RF9ZNTdMNHhsckFPS1lVVXAzRkh3eGhISjlPOGdzQWNyT2lmMFoyR21NaWlwRlBkeXVGZXItUTBiaThUV204cnFLT3lSZ0tMVENaYzVoZDlZVnM2aXkta3RUMkcyX3p4WlhPN0Q1ODtEb21haW49Lmdvb2dsZS5jb207UGF0aD0vO0V4cGlyZXM9VGh1LCAxMi1BcHItMjAxOCAxNjowNTo1OSBHTVQ7SHR0cE9ubHkiXSwiZG9tYWluIjoiaHR0cHM6Ly9yMy0tLXNuLW5wb2U3bjdyLmMuZHJpdmUuZ29vZ2xlLmNvbSJ9&id=273e1b5293234af4&itag=37&source=webdrive&requiressl=yes&mm=30&mn=sn-npoe7n7r&ms=nxu&mv=m&pl=21&ttl=transient&ei=Z0HeWbKTB9SEuwXvlqXoBw&driveid=0B8_T1vSshVDveXd4WHFZWnJBYkU&app=explorer&mime=video/mp4&lmt=1507572663255515&mt=1507737863&ip=188.166.255.197&ipbits=0&expire=1507741559&cp=QVNFWUhfUFVTSlhOOmdSblZ0Z01IbE96&sparams=ip%2Cipbits%2Cexpire%2Cid%2Citag%2Csource%2Crequiressl%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cttl%2Cei%2Cdriveid%2Capp%2Cmime%2Clmt%2Ccp&signature=52F84EF350D3CEBBC99C89D3E810DA197DCF940A.0A291F3D9A20033308D5F16C4B0FBD400CA62FAE&key=ck2
+		
 
 type=video
 name=
 thumb=
 date=2017-09-17
-URL=
+URL=http://cdn.037hd.com/videoplayback?hash=eyJjb29raWUiOlsiRFJJVkVfU1RSRUFNPTBjRERKRkxKRkdBOyBEb21haW49LmRyaXZlLmdvb2dsZS5jb207IFBhdGg9LzsgU2VjdXJlOyBIdHRwT25seSIsIk5JRD0xMTQ9SG92cjVvdGdDR0E5STRsNm55UGlLUVZXYl9GSzdBMm1hYWNYY1lYaEpJMzFpQURqNE5pYkIybTVJNG83T1R3elZRT1FENmY0OTk1RWxDWmJfTXRoWkNTZ2tzSm9xelNNZGhzLW5qOXBKYm45QTJRaGVNUkhLR1k3elp5MnJ1UTE7RG9tYWluPS5nb29nbGUuY29tO1BhdGg9LztFeHBpcmVzPVRodSwgMTItQXByLTIwMTggMTY6NDY6NTEgR01UO0h0dHBPbmx5IiwiTklEPTExND1wNmtkcFc1eVBPclY2QnF6X3p0akxCaUstWXJXRlhuMkFCVFVmUFhjLWJaUjBiYjdTdDRPdkhSdjFpWjZlYWFPbUFUVXJQdjhsMTdmaUQ2YTdONXFxZUhWYXk2ZkpmS1dlVXRodTFkQ0pnQW91V1AyVEFVNVZxWnZfNHpEQjJhXztEb21haW49Lmdvb2dsZS5jb207UGF0aD0vO0V4cGlyZXM9VGh1LCAxMi1BcHItMjAxOCAxNjo0Njo1MSBHTVQ7SHR0cE9ubHkiXSwiZG9tYWluIjoiaHR0cHM6Ly9yMy0tLXNuLW5wb2VlbjdrLmMuZHJpdmUuZ29vZ2xlLmNvbSJ9&id=273e1b5293234af4&itag=22&source=webdrive&requiressl=yes&mm=30&mn=sn-npoeen7k&ms=nxu&mv=m&pl=20&ttl=transient&ei=-0reWfi-FseK_QGdkY6oBw&driveid=0B8_T1vSshVDveXd4WHFZWnJBYkU&app=explorer&mime=video/mp4&lmt=1507572455406145&mt=1507740336&ip=128.199.112.246&ipbits=0&expire=1507744011&cp=QVNFWUhfU1BPQlhOOjVmRERGQ0lHR0NE&sparams=ip%2Cipbits%2Cexpire%2Cid%2Citag%2Csource%2Crequiressl%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cttl%2Cei%2Cdriveid%2Capp%2Cmime%2Clmt%2Ccp&signature=33E11962D763CCB5B230A99C7C29F7B180F52E2C.B325C2F59444BB7C346A692618E503AD5B961645&key=ck2
+			
+			
 
 type=video
 name=
 thumb=
 date=2017-09-14
-URL=
+URL=https://streamcherry.com/embed/lqatrmsceffnaltf
 
 type=video
 name=
 thumb=
 date=2017-10-04
-URL=
+URL=https://streamango.com/embed/dpobkrototcdlate
 
 
 
