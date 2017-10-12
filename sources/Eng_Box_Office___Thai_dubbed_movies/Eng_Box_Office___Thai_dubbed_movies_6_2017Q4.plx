@@ -23,7 +23,7 @@ rating=-1.00
 type=video
 name=
 thumb=
-URL=https://putstream.com/show/genius/01-01
+URL=
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -69,18 +69,15 @@ URL=https://www.blazefile.co/embed-ypv3lv0k9ab8.html
 
 
 
-type=video
-name=Blade Runner 2049 (2017) ENG CAM_x264-NoGRP
-thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
-date=2017-10-09
-URL=https://openload.co/f/jliaTDYzQJs/Blade_Runner_2049_%282017%29_%5B720p%5D_CAM_x264-NoGRP_mp4
-#https://openload.co/f/SoWJsZvgxAk/Blade_Runner_2049.2017.CAM.X264.AAC.1.7GB.mp4
+
 
 type=video
-name=American Made (2017) ENG HDCAM
+name=American Made (2017) ENG HC.HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
 date=2017-10-07
-URL=https://openload.co/f/IBcNv2QPNGE/American_Made_%282017%29_%5B720p%5D_HDCAM_mp4
+URL=https://openload.co/f/AnCUvi868TE/American.Made.2017.HC.HDRip.XviD.AC3-EVO.avi
+#https://openload.co/f/pyrdI7X6BUM/American.Made.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/IBcNv2QPNGE/American_Made_%282017%29_%5B720p%5D_HDCAM_mp4
 
 
 
@@ -173,7 +170,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-10-10
+date=2017-10-12
 URL=
 
 
@@ -182,7 +179,11 @@ URL=
 
 
 
-
+type=video
+name=Consumed (2015) ENG hdtv.h264-plutonium
+thumb=https://image.tmdb.org/t/p/w640/fLp9FFz8sYeRgRQbhKuijxGfHou.jpg
+date=2017-10-12
+URL=https://openload.co/f/crFd3YaywOg/Consumed.2015.1080p.hdtv.h264-plutonium.mkv.mp4
 
 type=video
 name=Cardboard Gangsters (2017) ENG HDRip.XviD.AC3-EVO
@@ -204,7 +205,7 @@ URL=https://openload.co/f/IC-shIyRi3o/One_Percent_More_Humid_2017_HDRip_XviD_AC3
 
 type=video
 name=Sleepwalker (2017) ENG HDRip_XviD_AC3-EVO
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMWIwMWNmYTUtYmY1Mi00ZGM5LWFiMWMtYTA1YTRiZDg4MTVhXkEyXkFqcGdeQXVyMzE5NDU3NjQ@._V1_SY1000_CR0,0,676,1000_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w640/6mL4XNPdJZcaL1iUKDMY7wtqp0.jpg
 date=2017-10-10
 URL=https://openload.co/f/JZe9TCIgTEI/Sleepwalker_2017_HDRip_XviD_AC3-EVO.mp4
 
@@ -650,7 +651,13 @@ URL=
 
 
 
-
+type=video
+name=HHhH (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/4PivpTn4OoP3YcP0NaBKSLlHQCz.jpg
+date=2017-10-12
+URL=https://openload.co/f/zvYUgvFDoQ4/HHhH_%282017%29.1080p.BluRay.Cmovieshd.se.mkv.mp4
+#https://openload.co/f/nOQ-KngEvfo/HHhH.2017.720p.BRRip.XviD.AC3-RARBG.avi.mp4
+#https://openload.co/f/DhYTYFewzAE/The_Man_With_The_Iron_Heart_%282017%29_%5B720p%5D_BluRay_x264-%5BYTS_AG%5D_mp4
 
 type=video
 name=Batman vs. Two-Face (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1132,12 +1139,7 @@ date=2017-09-21
 URL=https://openload.co/f/a3OL4Fe1EkU/Goon.Last.of.the.Enforcers.2017.720p.BluRay.X264-AMIABLE.mkv
 #https://openload.co/f/_nzYcLqwj4Q/Goon.Last.of.the.Enforcers.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
-type=video
-name=HHhH (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/4PivpTn4OoP3YcP0NaBKSLlHQCz.jpg
-date=2017-10-08
-URL=https://openload.co/f/nOQ-KngEvfo/HHhH.2017.720p.BRRip.XviD.AC3-RARBG.avi.mp4
-#https://openload.co/f/DhYTYFewzAE/The_Man_With_The_Iron_Heart_%282017%29_%5B720p%5D_BluRay_x264-%5BYTS_AG%5D_mp4
+
 
 
 
@@ -1197,15 +1199,24 @@ URL=http://203.162.235.41:17819
 
 
 
-
-
+type=video
+name=Blade Runner 2049 (2017) ENG CAM_x264-NoGRP
+thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
+date=2017-10-09
+URL=https://openload.co/f/jliaTDYzQJs/Blade_Runner_2049_%282017%29_%5B720p%5D_CAM_x264-NoGRP_mp4
+#https://openload.co/f/SoWJsZvgxAk/Blade_Runner_2049.2017.CAM.X264.AAC.1.7GB.mp4
+type=video
+name=Blade Runner 2049 (2017) THCAM
+thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
+date=2017-10-12
+URL=https://openload.co/f/UUwifxE0sAE/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%94_%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C_2049_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
 type=video
-name=The LEGO Ninjago Movie (2017) RUS
+name=The LEGO Ninjago Movie (2017) ENG HC_HDRip_X264_AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
-date=2017-09-25
-URL=https://openload.co/f/WQ05MivPxqg/The.LEGO.Ninjago.Movie.2O17.TS.72Op.Russian.mp4
+date=2017-10-12
+URL=https://openload.co/f/vtA0zA_8VzQ/The_Lego_Ninjago_Movie_2017_720p_HC_HDRip_X264_AC3-EVO.mp4
 type=video
 name=The LEGO Ninjago Movie (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
@@ -1227,10 +1238,11 @@ URL=https://openload.co/f/ZUSwNylVnPg/Paradox_%282017%29%E0%B9%80%E0%B8%94%E0%B8
 
 
 type=video
-name=Kingsman: The Golden Circle (2017) ENG CAM.READNFO.XViD-26k
+name=Kingsman: The Golden Circle (2017) ENG HD-TS.x264.HQ-CPG
 thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
-date=2017-10-10
-URL=https://openload.co/f/s8DKi74C1V0/Kingsman.The.Golden.Circle.2017.CAM.READNFO.XViD-26k.mp4
+date=2017-10-12
+URL=https://openload.co/f/HaBGBsva7yY/Kingsman.The.Golden.Circle.2017.HD-TS.x264.HQ-CPG.mp4
+#https://openload.co/f/s8DKi74C1V0/Kingsman.The.Golden.Circle.2017.CAM.READNFO.XViD-26k.mp4
 #https://openload.co/f/taRrI70s7V8/Kingsman.The.Golden.Circle.2017.CAM.CLEAN.avi.mp4
 type=video
 name=Kingsman: The Golden Circle (2017) TH CAM
@@ -1621,11 +1633,10 @@ URL=https://openload.co/f/K4Ta8lkseM4/Wish.Upon.2017.UNRATED.1080p.BluRay.x264.T
 
 
 type=video
-name=War for the Planet of the Apes (2017) ENG MKV 3.2GB KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT
+name=War for the Planet of the Apes (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
-date=2017-10-01
-URL=https://openload.co/f/j5rlKVpyp0g/War.for.the.Planet.of.the.Apes.2017.720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv
-#https://openload.co/f/cu9LeejYP3M/War.for.the.Planet.of.the.Apes.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+date=2017-10-12
+URL=https://openload.co/f/dy1pgUl0Ay0/war.for.the.planet.of.the.apes.2017.720p.bluray.x264.blow-mkv.mp4
 type=video
 name=War for the Planet of the Apes (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
@@ -1647,10 +1658,10 @@ URL=https://openload.co/f/yv8vQH7WT_Q/The_Battleship_Island_%282017%29%E0%B9%80%
 
 
 type=video
-name=Annabelle: Creation (2017) ENG HC.HDRip.XviD.AC3-EVO
+name=Annabelle: Creation (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
-date=2017-09-15
-URL=https://openload.co/f/wJM_-DpOfPw/Annabelle.Creation.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
+date=2017-10-12
+URL=https://openload.co/f/x9V80eEiTR8/Annabelle.2.Creation.2017.720p.BluRay.x264-SPARKS.mkv.mp4
 type=video
 name=Annabelle: Creation (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
@@ -1824,14 +1835,14 @@ type=video
 name=
 thumb=
 date=2017-09-14
-URL=http://cdn.037hd.com/videoplayback?hash=eyJjb29raWUiOlsiRFJJVkVfU1RSRUFNPWRPbllzZkhLa1N3OyBEb21haW49LmRyaXZlLmdvb2dsZS5jb207IFBhdGg9LzsgU2VjdXJlOyBIdHRwT25seSIsIk5JRD0xMTQ9R3lseFBqMEotQzhwS0xBbWhBYnRmdm5VbGgtVHRybE1ubFQ3allnWGEyR0UwemVFeDU1SHQ0alFHV0NoMjBpQWhwamZoNkk4OHJKNElYdzFZRURBUV9BWkJFUnNDSklTY2stV3p6TEZSYUNKb2tNck04OFFHMEVMOEhYQU5mNW47RG9tYWluPS5nb29nbGUuY29tO1BhdGg9LztFeHBpcmVzPVRodSwgMTItQXByLTIwMTggMTY6MDU6NTkgR01UO0h0dHBPbmx5IiwiTklEPTExND1iTmluZmpPLU5oc3Aya085RThlUE9PWTc2RF9ZNTdMNHhsckFPS1lVVXAzRkh3eGhISjlPOGdzQWNyT2lmMFoyR21NaWlwRlBkeXVGZXItUTBiaThUV204cnFLT3lSZ0tMVENaYzVoZDlZVnM2aXkta3RUMkcyX3p4WlhPN0Q1ODtEb21haW49Lmdvb2dsZS5jb207UGF0aD0vO0V4cGlyZXM9VGh1LCAxMi1BcHItMjAxOCAxNjowNTo1OSBHTVQ7SHR0cE9ubHkiXSwiZG9tYWluIjoiaHR0cHM6Ly9yMy0tLXNuLW5wb2U3bjdyLmMuZHJpdmUuZ29vZ2xlLmNvbSJ9&id=273e1b5293234af4&itag=37&source=webdrive&requiressl=yes&mm=30&mn=sn-npoe7n7r&ms=nxu&mv=m&pl=21&ttl=transient&ei=Z0HeWbKTB9SEuwXvlqXoBw&driveid=0B8_T1vSshVDveXd4WHFZWnJBYkU&app=explorer&mime=video/mp4&lmt=1507572663255515&mt=1507737863&ip=188.166.255.197&ipbits=0&expire=1507741559&cp=QVNFWUhfUFVTSlhOOmdSblZ0Z01IbE96&sparams=ip%2Cipbits%2Cexpire%2Cid%2Citag%2Csource%2Crequiressl%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cttl%2Cei%2Cdriveid%2Capp%2Cmime%2Clmt%2Ccp&signature=52F84EF350D3CEBBC99C89D3E810DA197DCF940A.0A291F3D9A20033308D5F16C4B0FBD400CA62FAE&key=ck2
+URL=
 		
 
 type=video
 name=
 thumb=
 date=2017-09-17
-URL=http://cdn.037hd.com/videoplayback?hash=eyJjb29raWUiOlsiRFJJVkVfU1RSRUFNPTBjRERKRkxKRkdBOyBEb21haW49LmRyaXZlLmdvb2dsZS5jb207IFBhdGg9LzsgU2VjdXJlOyBIdHRwT25seSIsIk5JRD0xMTQ9SG92cjVvdGdDR0E5STRsNm55UGlLUVZXYl9GSzdBMm1hYWNYY1lYaEpJMzFpQURqNE5pYkIybTVJNG83T1R3elZRT1FENmY0OTk1RWxDWmJfTXRoWkNTZ2tzSm9xelNNZGhzLW5qOXBKYm45QTJRaGVNUkhLR1k3elp5MnJ1UTE7RG9tYWluPS5nb29nbGUuY29tO1BhdGg9LztFeHBpcmVzPVRodSwgMTItQXByLTIwMTggMTY6NDY6NTEgR01UO0h0dHBPbmx5IiwiTklEPTExND1wNmtkcFc1eVBPclY2QnF6X3p0akxCaUstWXJXRlhuMkFCVFVmUFhjLWJaUjBiYjdTdDRPdkhSdjFpWjZlYWFPbUFUVXJQdjhsMTdmaUQ2YTdONXFxZUhWYXk2ZkpmS1dlVXRodTFkQ0pnQW91V1AyVEFVNVZxWnZfNHpEQjJhXztEb21haW49Lmdvb2dsZS5jb207UGF0aD0vO0V4cGlyZXM9VGh1LCAxMi1BcHItMjAxOCAxNjo0Njo1MSBHTVQ7SHR0cE9ubHkiXSwiZG9tYWluIjoiaHR0cHM6Ly9yMy0tLXNuLW5wb2VlbjdrLmMuZHJpdmUuZ29vZ2xlLmNvbSJ9&id=273e1b5293234af4&itag=22&source=webdrive&requiressl=yes&mm=30&mn=sn-npoeen7k&ms=nxu&mv=m&pl=20&ttl=transient&ei=-0reWfi-FseK_QGdkY6oBw&driveid=0B8_T1vSshVDveXd4WHFZWnJBYkU&app=explorer&mime=video/mp4&lmt=1507572455406145&mt=1507740336&ip=128.199.112.246&ipbits=0&expire=1507744011&cp=QVNFWUhfU1BPQlhOOjVmRERGQ0lHR0NE&sparams=ip%2Cipbits%2Cexpire%2Cid%2Citag%2Csource%2Crequiressl%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cttl%2Cei%2Cdriveid%2Capp%2Cmime%2Clmt%2Ccp&signature=33E11962D763CCB5B230A99C7C29F7B180F52E2C.B325C2F59444BB7C346A692618E503AD5B961645&key=ck2
+URL=
 			
 			
 
@@ -1839,19 +1850,23 @@ type=video
 name=
 thumb=
 date=2017-09-14
-URL=https://streamcherry.com/embed/lqatrmsceffnaltf
+URL=
 
 type=video
 name=
 thumb=
-date=2017-10-04
-URL=https://streamango.com/embed/dpobkrototcdlate
+date=2017-10-12
+URL=
 
 
 
 
 
-
+type=video
+name=Will You Be There (2016) TH
+thumb=https://image.tmdb.org/t/p/w640/bD411sxTDDVwYAhux63aWH51jbL.jpg
+date=2017-10-12
+URL=https://openload.co/f/BfgVlVUGr7E/Will_You_Be_There_%282016%29%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2.mp4
 
 
 type=video
