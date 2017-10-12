@@ -58,6 +58,114 @@ URL=
 
 
 
+type=video
+name=168xxxxxxxxxxxxxxxxxxxxAsian Sex Diary [Tuktuk Patrol] Tik.Kam 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktuk-Patrol-Tik.Kam_.jpg
+date=2017-10-12
+URL=https://streamango.com/f/mfbeaoqfpqoorele/Asian_Sex_Diary_Tuktuk_Patrol_Tik_Kam_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Tik3
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktuk-Patrol-Tik3.jpg
+date=2017-10-12
+URL=https://streamango.com/f/dertcenpodnksbnc/Asian_Sex_Diary_Tuktuk_Patrol_Tik3_MP4_mp4
+
+type=video
+name=Asian Sex Diary Aline.Angkor
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Aline.Angkor.jpg
+date=2017-10-12
+URL=https://streamango.com/f/fkdsqtacebofsnbr/Asian_Sex_Diary_Aline_Angkor_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Tik2
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktuk-Patrol-Tik2.jpg
+date=2017-10-12
+URL=https://streamango.com/f/tmqbnasnfbpdaprc/Asian_Sex_Diary_Tuktuk_Patrol_Tik2_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Tik 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktuk-Patrol-Tik.jpg
+date=2017-10-12
+URL=https://streamango.com/f/sllfflrlktkmcfde/Asian_Sex_Diary_Tuktuk_Patrol_Tik_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Pla
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktuk-Patrol-Pla.jpg
+date=2017-10-12
+URL=https://streamango.com/f/dmtlffeqlekeqess/Asian_Sex_Diary_Tuktuk_Patrol_Pla_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Som3 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktuk-Patrol-Som3.jpg
+date=2017-10-12
+URL=https://streamango.com/f/csktmaqosbnbotbt/Asian_Sex_Diary_Tuktuk_Patrol_Som3_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Pu
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktuk-Patrol-Pu.jpg
+date=2017-10-12
+URL=https://streamango.com/f/tppqkcstfembdqkc/Asian_Sex_Diary_Tuktuk_Patrol_Pu_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Ping
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktuk-Patrol-Ping.jpg
+date=2017-10-12
+URL=https://streamango.com/f/tdntedeqoelcefqt/Asian_Sex_Diary_Tuktuk_Patrol_Ping_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Som2 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktuk-Patrol-Som2.jpg
+date=2017-10-12
+URL=https://streamango.com/f/opblbqdekrbeanea/Asian_Sex_Diary_Tuktuk_Patrol_Som2_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Tan
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktuk-Patrol-Tan.jpg
+date=2017-10-12
+URL=https://streamango.com/f/crmcpbdaemafcpad/Asian_Sex_Diary_Tuktuk_Patrol_Tan_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Pim 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktuk-Patrol-Pim.jpg
+date=2017-10-12
+URL=https://streamango.com/f/dmrmfqrnpbkepdes/Asian_Sex_Diary_Tuktuk_Patrol_Pim_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Song
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktuk-Patrol-Song.jpg
+date=2017-10-12
+URL=https://streamango.com/f/tednmqftfeoaefrb/Asian_Sex_Diary_Tuktuk_Patrol_Song_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Sa
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktuk-Patrol-Sa.jpg
+date=2017-10-12
+URL=https://streamango.com/f/qstlcbqnbqoalpct/Asian_Sex_Diary_Tuktuk_Patrol_Sa_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Puy
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktuk-Patrol-Puy.jpg
+date=2017-10-12
+URL=https://streamango.com/f/opokplcbdleacekr/Asian_Sex_Diary_Tuktuk_Patrol_Puy_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Pui
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktuk-Patrol-Pui.jpg
+date=2017-10-12
+URL=https://streamango.com/f/plnsprptmkrbdsbl/Asian_Sex_Diary_Tuktuk_Patrol_Pui_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Ploy
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktuk-Patrol-Ploy.jpg
+date=2017-10-12
+URL=https://streamango.com/f/lptkdcrtklclnpcs/Asian_Sex_Diary_Tuktuk_Patrol_Ploy_MP4_mp4
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Penny
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktuk-Patrol-Penny.jpg
+date=2017-10-12
+URL=https://streamango.com/f/adlokkpcollrkbeo/Asian_Sex_Diary_Tuktuk_Patrol_Penny_MP4_mp4
+
 
 
 
