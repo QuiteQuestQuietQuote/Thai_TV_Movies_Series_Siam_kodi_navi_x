@@ -118,13 +118,15 @@ type=video
 name=Brawl in Cell Block 99 (2017) ENG WEB-DL.XviD.AC3-FGT
 thumb=https://image.tmdb.org/t/p/w640/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
 date=2017-10-13
-URL=https://openload.co/f/aT6jWYPHnBk/Brawl.in.Cell.Block.99.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+URL=https://openload.co/f/am4891uFxJ4/Brawl.in.Cell.Block.99.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+#https://openload.co/f/aT6jWYPHnBk/Brawl.in.Cell.Block.99.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
-name=6 Below: Miracle on the Mountain (2017) ENG WEB-DL.XviD.AC3-FGT
+name=6 Below: Miracle on the Mountain (2017) ENG WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/8eZynKoLiPq9b6DQGLOFHt6mZPv.jpg
 date=2017-10-13
-URL=https://openload.co/f/JG-_5_FdurA/6_Below%3A_Miracle_on_the_Mountain_%282017%29.WEB-DL.XviD.AC3-FGT.avi.mp4
+URL=https://openload.co/f/SytT_2ZR_kc/6.Below.Miracle.on.the.Mountain.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/JG-_5_FdurA/6_Below%3A_Miracle_on_the_Mountain_%282017%29.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=Walking Out (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -199,10 +201,11 @@ URL=
 
 
 type=video
-name=The Babysitter (2017) ENG HDRip.XviD.AC3-EVO
+name=The Babysitter (2017) ENG NF.WEB-DL.DD5.1.x264-NTG
 thumb=https://image.tmdb.org/t/p/w640/UDyOG3rewNfbUelPGSvNxtmHZj.jpg
 date=2017-10-13
-URL=https://openload.co/f/o6m1Wv1UEpo/The_Babysitter_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+URL=https://openload.co/f/wTgXi-mu0IQ/The.Babysitter.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
+#https://openload.co/f/o6m1Wv1UEpo/The_Babysitter_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Interlude In Prague (2017) ENG hdtv.x264-plutonium
@@ -212,10 +215,11 @@ URL=https://openload.co/f/WKiaGxmzavE/interlude.in.prague.2017.hdtv.x264-plutoni
 #https://openload.co/f/0VkxFt6W5Ek/interlude.in.prague.2017.hdtv.x264-plutonium.mkv.mp4
 
 type=video
-name=M.F.A. (2017) ENG WEB-DL.XviD.MP3-FGT
+name=M.F.A. (2017) ENG WEB-DL.AAC2.0.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/cQFJ0lWaR5sYg06KQWtMy8TRYFI.jpg
 date=2017-10-13
-URL=https://openload.co/f/wx4VvEH8R_M/M.F.A.2017.WEB-DL.XviD.MP3-FGT.avi.mp4
+URL=https://openload.co/f/nLVmHpXu4wY/M.F.A.2017.1080p.WEB-DL.AAC2.0.H264-FGT.mkv.mp4
+#https://openload.co/f/wx4VvEH8R_M/M.F.A.2017.WEB-DL.XviD.MP3-FGT.avi.mp4
 
 type=video
 name=Blood Money (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -1891,10 +1895,11 @@ URL=
 
 
 type=video
-name=War for the Planet of the Apes (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=War for the Planet of the Apes (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
-date=2017-10-12
-URL=https://openload.co/f/dy1pgUl0Ay0/war.for.the.planet.of.the.apes.2017.720p.bluray.x264.blow-mkv.mp4
+date=2017-10-13
+URL=https://openload.co/f/An6KwsvHsPU/War_For_The_Planet_Of_The_Apes_%282017%29_%5B1080p%5D_BluRay_H264_AAC-RARBG_mp4
+#https://openload.co/f/dy1pgUl0Ay0/war.for.the.planet.of.the.apes.2017.720p.bluray.x264.blow-mkv.mp4
 type=video
 name=War for the Planet of the Apes (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
