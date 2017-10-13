@@ -20,6 +20,7 @@ rating=-1.00
 
 
 
+
 type=video
 name=
 thumb=
@@ -72,12 +73,10 @@ URL=https://www.blazefile.co/embed-ypv3lv0k9ab8.html
 
 
 type=video
-name=American Made (2017) ENG HC.HDRip.XviD.AC3-EVO
+name=American Made (2017) ENG HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
-date=2017-10-07
-URL=https://openload.co/f/AnCUvi868TE/American.Made.2017.HC.HDRip.XviD.AC3-EVO.avi
-#https://openload.co/f/pyrdI7X6BUM/American.Made.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/IBcNv2QPNGE/American_Made_%282017%29_%5B720p%5D_HDCAM_mp4
+date=2017-10-13
+URL=https://openload.co/f/8cEt2bAPp34/American.Made.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 
 
 
@@ -103,8 +102,29 @@ URL=http://entervideo.net/watch/7d9f86e862a5007
 type=video
 name=
 thumb=
-date=2017-10-04
+date=2017-10-13
 URL=
+
+
+
+
+type=video
+name=The Meyerowitz Stories (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/vJZs6ABHbCcgjIFcAoPx3qhwXzL.jpg
+date=2017-10-13
+URL=https://openload.co/f/DvzBIzD07rA/The_Meyerowitz_Stories_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Brawl in Cell Block 99 (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
+date=2017-10-13
+URL=https://openload.co/f/aT6jWYPHnBk/Brawl.in.Cell.Block.99.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=6 Below: Miracle on the Mountain (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/8eZynKoLiPq9b6DQGLOFHt6mZPv.jpg
+date=2017-10-13
+URL=https://openload.co/f/JG-_5_FdurA/6_Below%3A_Miracle_on_the_Mountain_%282017%29.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=Walking Out (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -170,7 +190,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-10-12
+date=2017-10-13
 URL=
 
 
@@ -178,6 +198,36 @@ URL=
 
 
 
+type=video
+name=The Babysitter (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/UDyOG3rewNfbUelPGSvNxtmHZj.jpg
+date=2017-10-13
+URL=https://openload.co/f/o6m1Wv1UEpo/The_Babysitter_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Interlude In Prague (2017) ENG hdtv.x264-plutonium
+thumb=https://image.tmdb.org/t/p/w640/37On4oXU6nENacmhmJRDSDvCYzS.jpg
+date=2017-10-13
+URL=https://openload.co/f/WKiaGxmzavE/interlude.in.prague.2017.hdtv.x264-plutonium.mkv
+#https://openload.co/f/0VkxFt6W5Ek/interlude.in.prague.2017.hdtv.x264-plutonium.mkv.mp4
+
+type=video
+name=M.F.A. (2017) ENG WEB-DL.XviD.MP3-FGT
+thumb=https://image.tmdb.org/t/p/w640/cQFJ0lWaR5sYg06KQWtMy8TRYFI.jpg
+date=2017-10-13
+URL=https://openload.co/f/wx4VvEH8R_M/M.F.A.2017.WEB-DL.XviD.MP3-FGT.avi.mp4
+
+type=video
+name=Blood Money (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/yCvcvsP3w4CyiB3CLTxwaHBpKro.jpg
+date=2017-10-13
+URL=https://openload.co/f/Z947PbKkzUY/Blood_Money_%282017%29.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=Lycan (2017) ENG DVDRip.XViD.AC3-juggs
+thumb=https://image.tmdb.org/t/p/w640/bY9hv9FwVyCxsW4cufD8n22mmN6.jpg
+date=2017-10-13
+URL=https://openload.co/f/72YBhqllkLo/Lycan.2017.DVDRip.XViD.AC3-juggs.avi.mp4
 
 type=video
 name=Consumed (2015) ENG hdtv.h264-plutonium
@@ -567,14 +617,7 @@ player=default
 rating=-1.00
 description=Set in 1950s Tuscany, Voice from the Stone is the haunting and suspenseful story of Verena, a solemn nurse drawn to aid a young boy who has fallen silent since the sudden passing of his mother./description
 
-# 2772462
-type=video
-name=Before I Fall (2017) ENG
-thumb=http://image.tmdb.org/t/p/w500/eowzonDJMCuNXoJGVkP9Z7oCmiM.jpg
-URL=https://openload.co/f/oUuE884lAdE/Before.I.Fall.2017.HDCAM.x264-DiRG.mp4
-player=default
-rating=-1.00
-description=Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was./description
+
 
 # 2772900
 type=video
@@ -1213,10 +1256,10 @@ URL=https://openload.co/f/UUwifxE0sAE/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B
 
 
 type=video
-name=The LEGO Ninjago Movie (2017) ENG HC_HDRip_X264_AC3-EVO
+name=The LEGO Ninjago Movie (2017) ENG HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
-date=2017-10-12
-URL=https://openload.co/f/vtA0zA_8VzQ/The_Lego_Ninjago_Movie_2017_720p_HC_HDRip_X264_AC3-EVO.mp4
+date=2017-10-13
+URL=https://openload.co/f/u2d0I9ZAq0M/The.Lego.Ninjago.Movie.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 type=video
 name=The LEGO Ninjago Movie (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
@@ -1276,18 +1319,7 @@ date=2017-09-18
 URL=https://openload.co/f/qXaLPD1GEng/It_%282017%29%E0%B8%AD%E0%B8%B4%E0%B8%97_%E0%B9%82%E0%B8%9C%E0%B8%A5%E0%B9%88%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
-type=video
-name=The Dark Tower (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 1.8GB
-thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
-date=2017-10-08
-URL=https://openload.co/f/n1NusIGiyd0/The.Dark.Tower.2017.1080p.BRRip.6CH.MkvCage.mkv
-#https://openload.co/f/31m7ICojoic/The.Dark.Tower.2017.1080p.BRRip.6CH.MkvCage.mkv.mp4
-#https://openload.co/f/73tvjUxurNg/The_Dark_Tower_%282017%29_%5B1080p%5D_BluRay_x264_DTS-SHITBOX_mkv_mp4
-type=video
-name=The Dark Tower (2017) TH TS
-thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
-date=2017-08-21
-URL=https://streamango.com/f/selpklpfdtpqqrnc/The_Dark_Tower_2017_720p_TS_x264_AC3_ThaiRong_CpT_CtHts_mkv_mp4
+
 
 
 type=video
@@ -1302,16 +1334,7 @@ date=2017-08-18
 URL=https://openload.co/f/FKGfCtNNLPM/Valerian.2017.CAM.READNFO.XViD.AC3.ThaiRong_CpT%40CtHts.mkv.mp4
 
 
-type=video
-name=Atomic Blonde (2017) ENG HD-TS.x264-CPG
-thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
-date=2017-08-03
-URL=https://openload.co/f/eBiBxbPwwZQ/AB2017.HD-TS.x264-CPG.mkv.mp4
-type=video
-name=Atomic Blonde (2017) TH updated TS
-thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
-date=2017-08-08
-URL=https://openload.co/f/PicDXIigpMA/Atomic.Blond.2017.HD-TS.x264.ThaiRong_CpT%40CtHts.mkv.mp4
+
 
 
 type=video
@@ -1606,6 +1629,18 @@ URL=
 
 
 type=video
+name=Atomic Blonde (2017) ENG HC.HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
+date=2017-10-13
+URL=https://openload.co/f/Bc3VU_CX4xc/Atomic.Blonde.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
+type=video
+name=Atomic Blonde (2017) TH updated TS
+thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
+date=2017-08-08
+URL=https://openload.co/f/PicDXIigpMA/Atomic.Blond.2017.HD-TS.x264.ThaiRong_CpT%40CtHts.mkv.mp4
+
+
+type=video
 name=The Emoji Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 4.4GB
 thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
 date=2017-10-10
@@ -1632,16 +1667,7 @@ date=2017-10-03
 URL=https://openload.co/f/K4Ta8lkseM4/Wish.Upon.2017.UNRATED.1080p.BluRay.x264.ThaiRong.5.1_CpT%40CtHts.mkv.mp4
 
 
-type=video
-name=War for the Planet of the Apes (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
-date=2017-10-12
-URL=https://openload.co/f/dy1pgUl0Ay0/war.for.the.planet.of.the.apes.2017.720p.bluray.x264.blow-mkv.mp4
-type=video
-name=War for the Planet of the Apes (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
-date=2017-10-04
-URL=https://openload.co/f/-IDVOKjffsk/War_for_the_Planet_of_the_Apes_%282017%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+
 
 
 type=video
@@ -1705,16 +1731,6 @@ date=2017-07-17
 URL=https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264..ThaIRonG.CtHts_-_CpT.mkv.mp4
 
 
-type=video
-name=Kidnap (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6G
-thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
-date=2017-09-07
-URL=https://openload.co/f/1S7X9_niZmw/Kidnap.2017.1080p.bluray.x264-VETO.mkv
-type=video
-name=Kidnap (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
-date=2017-07-06
-URL=https://openload.co/f/GbUe5fZac2o/Kidnap_%282017%29_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
 
 
 type=video
@@ -1770,7 +1786,18 @@ date=2017-10-10
 URL=https://openload.co/f/9o0qqqC-HkQ/Overdrive_%282017%29%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%84%E0%B8%A1%E0%B8%A5%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
-
+type=video
+name=The Dark Tower (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 1.8GB
+thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
+date=2017-10-08
+URL=https://openload.co/f/n1NusIGiyd0/The.Dark.Tower.2017.1080p.BRRip.6CH.MkvCage.mkv
+#https://openload.co/f/31m7ICojoic/The.Dark.Tower.2017.1080p.BRRip.6CH.MkvCage.mkv.mp4
+#https://openload.co/f/73tvjUxurNg/The_Dark_Tower_%282017%29_%5B1080p%5D_BluRay_x264_DTS-SHITBOX_mkv_mp4
+type=video
+name=The Dark Tower (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
+date=2017-10-13
+URL=https://openload.co/f/AkB_wNLisSE/The_Dark_Tower_%282017%29%E0%B8%AB%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%A2%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
 
@@ -1855,12 +1882,71 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-12
+date=2017-10-13
 URL=
 
 
 
 
+
+
+type=video
+name=War for the Planet of the Apes (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
+date=2017-10-12
+URL=https://openload.co/f/dy1pgUl0Ay0/war.for.the.planet.of.the.apes.2017.720p.bluray.x264.blow-mkv.mp4
+type=video
+name=War for the Planet of the Apes (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
+date=2017-10-13
+URL=https://openload.co/f/Phq3ESBtmr0/War_for_the_Planet_of_the_Apes_%282017%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3.mp4
+
+
+type=video
+name=The Promise (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/iDWer2VFikupdqDc7d5sxCWZ3gW.jpg
+date=2017-10-13
+URL=https://openload.co/f/bkuwdXJh1Cc/The_Promise_%282017%29%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81_%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A3%E0%B8%9A.mp4
+
+
+type=video
+name=Kidnap (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6G
+thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
+date=2017-09-07
+URL=https://openload.co/f/1S7X9_niZmw/Kidnap.2017.1080p.bluray.x264-VETO.mkv
+type=video
+name=Kidnap (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
+date=2017-10-13
+URL=https://openload.co/f/PSqLFw6IXiY/Kidnap_%282017%29%E0%B8%A5%E0%B9%88%E0%B8%B2_%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+
+
+type=video
+name=Before I Fall (2017) TH
+thumb=http://image.tmdb.org/t/p/w500/eowzonDJMCuNXoJGVkP9Z7oCmiM.jpg
+date=2017-10-13
+URL=https://openload.co/f/ybeLVobtJ-g/Before_I_Fall_%282017%29%E0%B8%95%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%A1%E0%B8%B2_%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99_%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+player=default
+rating=-1.00
+description=Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was./description
+
+type=video
+name=The Monster (2016) TH
+thumb=https://image.tmdb.org/t/p/w640/sxrYq3pcCPkB308FQR4lkKdoUBe.jpg
+date=2017-10-13
+URL=https://openload.co/f/OYvrEbBMqas/The_Monster_%282016%29%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99.mp4
+
+type=video
+name=Let's Go, Jets! (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/heL1ydkUCetltzr0ZrfqDhZiN4Q.jpg
+date=2017-10-13
+URL=https://openload.co/f/Iie2TdIrNF8/Let%27s_Go%2C_Jets%21_%282017%29%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%A5_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
+
+type=video
+name=Shut In (2016) TH
+thumb=https://image.tmdb.org/t/p/w640/qXIGq6ddQhIYe4Z7A86nZ1qjUME.jpg
+date=2017-10-13
+URL=https://openload.co/f/bW1AdR1GQZo/Shut_In_%282016%29%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99_%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
 
 type=video
 name=Will You Be There (2016) TH
