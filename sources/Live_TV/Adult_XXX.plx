@@ -17,9 +17,29 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 type=video
 name=
 thumb=
-date=
+date=2017-10-13
 URL=
 
+
+
+
+type=video
+name=honey
+thumb=
+date=2017-10-13
+URL=http://edge1.everyon.tv:1935/etv1sb/pld928/chunklist_w1516450944.m3u8
+
+type=video
+name=asian
+thumb=
+date=2017-10-13
+URL=http://edge2.everyon.tv:1935/etv2sb/pld62/chunklist_w2131784655.m3u8
+
+type=video
+name=inter
+thumb=
+date=2017-10-13
+URL=http://edge2.everyon.tv:1935/etv2sb/pld499/chunklist_w53883286.m3u8
 
 type=video
 name=PVN Miami  
