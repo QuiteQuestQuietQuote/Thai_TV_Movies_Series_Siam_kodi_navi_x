@@ -34,11 +34,58 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
-date=2017-10-11
+date=2017-10-13
 URL=
 
 
   
+
+
+
+
+
+
+type=video
+name=Indiscretion (2016)
+thumb=https://image.tmdb.org/t/p/w640/tuI0VZKiRXnI5JeQvkEssa5BkLI.jpg
+date=2017-10-13
+URL=https://www.blazefile.co/embed-4jistmi6ss5f.html
+
+type=video
+name=You Will Be Mine (2009)
+thumb=https://image.tmdb.org/t/p/w640/fZkVGI9fjt4ukfnUwzHlmm6rZcE.jpg
+date=2017-10-13
+URL=http://entervideo.net/watch/46997db9ec78611
+
+type=video
+name=9 Songs (2004)
+thumb=https://image.tmdb.org/t/p/w640/bvGyYmmnQG5NPP7m2nuLhaiC8LH.jpg
+date=2017-10-13
+URL=http://entervideo.net/watch/af803affde4c06e
+
+type=video
+name=Butterfly (1982)
+thumb=https://image.tmdb.org/t/p/w640/bHwzVkDZQlGJyJ2g6yXsHT62y29.jpg
+date=2017-10-13
+URL=http://entervideo.net/watch/81e19ea804e4a8a
+
+type=video
+name=Kiss Me Again (2006)
+thumb=https://image.tmdb.org/t/p/w640/iQ3UIU1yLrvhNCQFnz26vlekNHQ.jpg
+date=2017-10-13
+URL=http://entervideo.net/watch/545b1733d7c04bb
+
+type=video
+name=Kiss Me (2011)
+thumb=http://cdn.sockshare.net/Rdgebv8.jpg
+date=2017-10-13
+URL=http://entervideo.net/watch/8d7c7753d4dd9c4
+
+type=video
+name=Romance & Cigarettes (2005)
+thumb=https://image.tmdb.org/t/p/w640/hmePGWj7SFiDChBTfI9z8CY12sM.jpg
+date=2017-10-13
+URL=http://entervideo.net/watch/314f39b50758dbb
 
 type=video
 name=Satan Said Dance (2017)
@@ -75,6 +122,7 @@ name=Adaline (2015) MKV
 thumb=https://image.tmdb.org/t/p/w640/hgjWwCbRyTYzOCDKkglocU821h4.jpg
 date=2017-10-08
 URL=https://openload.co/f/q_CfcLR-ZSs/bdgua-adaline-720p.mkv
+#http://entervideo.net/watch/94424ed70224b0e
 
 type=video
 name=Picture of Beauty (2017)
@@ -87,12 +135,14 @@ name=Below Her Mouth (2017)
 thumb=https://image.tmdb.org/t/p/w640/nTGbq37hYLuNy7YgMg0gVLma0NS.jpg
 date=2017-10-04
 URL=https://streamango.com/f/okpdbkrdrespokea/Below_Her_Mouth_2016_mp4
+#http://entervideo.net/watch/23234ea4637bc9e
 
 type=video
 name=Down by Love (2016)
 thumb=https://image.tmdb.org/t/p/w640/bYZKngNLoj1nEmQS9lyKW4trsHM.jpg
 date=2017-09-25
 URL=https://openload.co/f/_0YKMUyDWg4/down.by.love.2016.limited.dvdrip.x264_cadaver.E.mp4
+#http://entervideo.net/watch/0e387d9edfb89b4
 
 type=video
 name=Porn Shoot Massacre (2009)
@@ -105,6 +155,7 @@ name=Suntan (2016) MKV
 thumb=https://image.tmdb.org/t/p/w640/sAknvVkyiGssLf20k4FAZB3FUnZ.jpg
 date=2017-09-21
 URL=https://openload.co/f/u_7gMsiNq4A/suntan.2016.limited.720p.bluray.x264-usury.mkv
+#http://entervideo.net/watch/c9bee6c874d1ab7
 
 type=video
 name=Smartass (2017)
@@ -117,6 +168,7 @@ name=Dirty Beautiful (2015)
 thumb=https://image.tmdb.org/t/p/w640/iBOOsrMZJ9fZ3REi4ontbp8giGO.jpg
 date=2017-09-03
 URL=https://openload.co/f/rceqYEWmBBE/D.B.2015.720p.web.h264-strife.mkv.mp4
+#http://entervideo.net/watch/ab6f9de0cb97a8f
 
 type=video
 name=Menorca (2016)
@@ -273,6 +325,7 @@ name=Ken Park (2002)
 thumb=https://image.tmdb.org/t/p/w640/85pCokz6jy4vdswljogUdruLm5m.jpg
 date=2017-08-15
 URL=https://openload.co/f/ZBWHfNHflQ8/%5Bfmovies.to%5D_Ken_Park.2002.HDRip.160526.mp4
+#http://entervideo.net/watch/8020c1b68d1aea9
 
 type=video
 name=Bilitis (1977)
