@@ -54,20 +54,24 @@ rating=-1.00
 
 type=video
 name=-----------------------------------------------------------------------------------------
-thumb=
+thumb=https://2.bp.blogspot.com/-w649ZdMsrQw/WdibQAYYIpI/AAAAAAAAAYY/tuBTQRTIPsEgI-4zGuCB8rlC6oGS_BCZwCLcBGAs/s320/Movie%2BPlus.png
 date=
 URL=http://cdn-usa1-streaming.ani-box.com:1935/live/cs10.stream/playlist.m3u8
 type=video
 name=-----------------------------------------------------------------------------------------
-thumb=
+thumb=https://2.bp.blogspot.com/-V8p6mu65dtA/WdibOkL7xHI/AAAAAAAAAXw/c_f3CQY3jcwzlQDOEXuA4IP_kwT6rexSACLcBGAs/s320/JAPAN%252CStar%2BChannel%2B1.png
 date=
 URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs10.stream/playlist.m3u8
 type=video
 name=-----------------------------------------------------------------------------------------
-thumb=
+thumb=https://4.bp.blogspot.com/-YOLv2x66CSk/WdibOqy7kCI/AAAAAAAAAX0/tA_HAab3gKcDLquuOaCRVsjt7RTz6RPBgCLcBGAs/s320/JAPAN%252CStar%2BChannel%2B2.png
 date=
 URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs11.stream/playlist.m3u8
-
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=https://3.bp.blogspot.com/-oyBkxNwkgc8/WdibOlDaC6I/AAAAAAAAAX4/juXTRJQlR0Q1stIjbqo90zyAlkjlMlpFwCLcBGAs/s320/JAPAN%252CStar%2BChannel%2B3.png
+date=
+URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
 
 
 
@@ -160,17 +164,17 @@ URL=http://183.88.212.205:8010/play/a02e
 
 type=video
 name=-----------------------------------------------------------------------------------------
-thumb=
+thumb=https://4.bp.blogspot.com/-mj4nJ5A3tuA/WdibSON1lJI/AAAAAAAAAZQ/ppQ58aAnonkZ9luXoeayDPqutccmnhf_gCLcBGAs/s320/WOWOW%2BCinema.png
 date=
 URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
 type=video
 name=-----------------------------------------------------------------------------------------
-thumb=
+thumb=https://3.bp.blogspot.com/-Mxd1BqzGAjo/WdibSdKYjcI/AAAAAAAAAZU/m87TeMwZLvobs3tuHr4Q1NZ940gIXxjwwCLcBGAs/s320/WOWOW%2BLive.png
 date=
 URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
 type=video
 name=-----------------------------------------------------------------------------------------
-thumb=
+thumb=https://4.bp.blogspot.com/-BVIxN-xkZ3k/WdibScRaVoI/AAAAAAAAAZY/UQN7Y7eW5WUo6iGI4U1gS5katmdgkknuQCLcBGAs/s320/WOWOW%2BPrime.png
 date=2017-09-25
 URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
 
@@ -323,7 +327,7 @@ URL=http://103.77.116.238:443//fyi_720p.stream/playlist.m3u8?st=8ipXSVoBL-De1_lp
 
 type=video
 name=-----------------------------------------------------------------------------------------
-thumb=
+thumb=https://3.bp.blogspot.com/-oyBkxNwkgc8/WdibOlDaC6I/AAAAAAAAAX4/juXTRJQlR0Q1stIjbqo90zyAlkjlMlpFwCLcBGAs/s320/JAPAN%252CStar%2BChannel%2B3.png
 date=
 URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
 type=video
