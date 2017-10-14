@@ -1229,7 +1229,7 @@ rating=-1.00
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=8ipXSVoBL-De1_lprn5UNg&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm1f49456778722a24372e&e=1508000449
+URL=http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=rUU0r9HCLtjiVtXRiSTdIQ&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmm983c2d28d5ebdaab9086&e=1508018258
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD[/COLOR]
