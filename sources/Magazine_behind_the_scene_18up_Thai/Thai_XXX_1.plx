@@ -53,6 +53,51 @@ URL=
 
 
 
+
+
+
+type=video
+name=64xxxxxxxxxxxxxxxxxxxxHot shot Nong Som
+thumb=https://erotic2you.com/wp-content/uploads/2017/09/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B9%89%E0%B8%A1.jpg
+date=2017-10-14
+URL=https://streamango.com/f/robpbcabrbsnemle/_mpg_mp4
+
+type=video
+name=Country Love story
+thumb=https://erotic2you.com/wp-content/uploads/2017/09/%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87.jpg
+date=2017-10-14
+URL=https://streamango.com/f/asbmooenpdkdkqen/_mpg_mp4
+
+type=video
+name=Sky After the rain
+thumb=https://erotic2you.com/wp-content/uploads/2017/09/%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%9D%E0%B8%99.jpg
+date=2017-10-14
+URL=https://streamango.com/f/copkmdlssocnsaec/_mpeg_mp4
+
+type=video
+name=Thai Swinging
+thumb=https://erotic2you.com/wp-content/uploads/2017/09/Swinging.jpg
+date=2017-10-14
+URL=https://streamango.com/f/sqafamqnqmcnbbpm/Swinging_mpeg_mp4
+
+type=video
+name=Koo-Kum_Disc2
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%81%E0%B8%B3-%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%94%E0%B8%B2%E0%B8%A3-2.jpg
+date=2017-10-14
+URL=https://streamango.com/f/rpmsnlqmddmoadqf/_Koo-Kum_Disc2_mpg_mp4
+
+type=video
+name=Koo-Kum_Disc1
+thumb=http://erotic24hr.com/wp-content/uploads/2017/09/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%81%E0%B8%B3-%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%94%E0%B8%B2%E0%B8%A3-1.jpg
+date=2017-10-14
+URL=https://streamango.com/f/lkpoqaptmeldemcr/_Koo-Kum_Disc1_mpg_mp4
+
+
+
+
+
+
+
 type=video
 name=58xxxxxxxxxxxxxxxxxxxxThanks Babe
 thumb=https://erotic2you.com/wp-content/uploads/2017/09/%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B9%83%E0%B8%88%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87.jpg

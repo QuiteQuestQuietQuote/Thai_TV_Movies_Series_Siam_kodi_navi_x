@@ -13,6 +13,19 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
+
+
+
+
+
+type=playlist
+name=Asian_Sex_Diary_3
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Pat.jpg
+date=2017-10-14
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Magazine_behind_the_scene_18up_Thai/Asian_Sex_Diary_3.plx
+player=default
+rating=-1.00
+
 type=playlist
 name=Asian_Sex_Diary_2
 thumb=https://erotic2you.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Cindy.Chinese.jpg

@@ -67,6 +67,83 @@ URL=
 
 
 
+type=video
+name=100xxxxxxxxxxxxxxxxxxxxHvorfor gor de det? (1971)
+thumb=https://2.bp.blogspot.com/-0glSRgvPR0c/WeFa0omBc7I/AAAAAAAAMGw/0p_nyodbl7w4LKG_vyAqjn4_-FGwTtlnQCLcBGAs/s1600/5SS.jpg
+date=2017-10-14
+URL=https://openload.co/f/4YbSHYOeFfw/h1.mp4
+
+type=video
+name=Pandora’s Mirror (1981)
+thumb=https://2.bp.blogspot.com/-iV6t2AcpIKU/WeFa0gpBdqI/AAAAAAAAMGs/8GbQgmuhPTgso7iYorXEPCTFUl8ZRKRxACLcBGAs/s1600/5S.jpg
+date=2017-10-14
+URL=https://openload.co/f/Le3VFVQgAY4/Pandora%27s_Mirror.1981.Shaun_Costello.mp4
+
+type=video
+name=Lusty princess
+thumb=https://4.bp.blogspot.com/-Hd6YhEGJgIU/WeFY40ryOcI/AAAAAAAAMGg/8JYLT-pJR70btNbDOoqWeOeUecafFZmjgCLcBGAs/s1600/6SSSS.jpg
+date=2017-10-14
+URL=https://openload.co/f/CDALfPEV--M/Lusty_princess.avi.mp4
+
+type=video
+name=Downtown Family Story II (2016)
+thumb=https://1.bp.blogspot.com/-H3cy3pJjtRQ/WeFUINKY2ZI/AAAAAAAAMFU/6rqZxJPgnMMvCIDqQCppeCgNP922OjVoQCLcBGAs/s1600/3.jpg
+date=2017-10-14
+URL=https://openload.co/f/16xbD-uGLuY/Downtown_Family_Story_II_2016_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Sanggye-dong Early 20s Massage (2014)
+thumb=https://1.bp.blogspot.com/-syZoOKAtg0Q/WeFTf6ztXRI/AAAAAAAAMFM/iVkE-mfJ3NwI8XoTieekL5fn7tcCKpa0QCLcBGAs/s1600/1SSS.jpg
+date=2017-10-14
+URL=https://openload.co/f/CEoRTAeJrk8/Sanggye-dong_Early_20s_Massage_2014_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Good looking Massagers in Kabukicho (2016)
+thumb=https://1.bp.blogspot.com/-9vPr0gDpMHg/WeFSa8ToVgI/AAAAAAAAME8/9JDs5G3gglkx4AikiCPAegF9JdP1qaZOQCLcBGAs/s1600/1s.jpg
+date=2017-10-14
+URL=https://openload.co/f/uwriiI24ZM0/Good_looking_Massagers_in_Kabukicho_2016HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=An Affair: My Friend’s Mom (2017)
+thumb=https://3.bp.blogspot.com/-zSSzuWryw2M/WeFSa8PFcUI/AAAAAAAAME4/qPfAoUG-xrMinfJ6yBWKvQZS6p4EfQ7UwCLcBGAs/s1600/1.jpg
+date=2017-10-14
+URL=https://openload.co/f/qKaaMMRXh3I/An_Affair%3A_My_Friend%27s_Mom_2017_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Bon Appetit (1980)
+thumb=https://1.bp.blogspot.com/-oSPvjSN45PA/WduI_8_UYYI/AAAAAAAAL9Y/jwgcWnLl9hEtYNSO9BezuhMN3-iTp9CNwCLcBGAs/s1600/4.jpg
+date=2017-10-14
+URL=https://openload.co/f/kIXXGT4sYmY/Bon_App%C3%A9tit_%281980%29.mp4
+
+type=video
+name=Et si tu n’en veux pas (1976)
+thumb=https://4.bp.blogspot.com/-vuvGGFzsHiM/WduIQA9j0UI/AAAAAAAAL9M/2GV-bFfyQa0oy_pdfDA2f2ctkKUhPRhmwCLcBGAs/s1600/3.jpg
+date=2017-10-14
+URL=https://openload.co/f/HE97hbomAEo/Et_si_tu_n%27en_veux_pas_%281976%29.avi.mp4
+
+type=video
+name=ATM
+thumb=https://1.bp.blogspot.com/-HJjLjH8HIfg/Wdq637yZHBI/AAAAAAABQe0/4fQmPqZ6g2gmLYlWvITCG5jEAaLjIb26wCLcBGAs/s1600/1337223938.jpg
+date=2017-10-14
+URL=https://openload.co/f/dfAP9L9zLag/ATM.2012
+
+type=video
+name=White Horse (2016)
+thumb=https://3.bp.blogspot.com/-gectx9xO92s/WdoQFt7B6aI/AAAAAAAAL6s/MYTarZsg3tgmDZSGza2w2y6h7_GhN6ZfwCLcBGAs/s1600/1SSS.png
+date=2017-10-14
+URL=https://openload.co/f/30Vn4_AGbHg/White.Horse.2016.HDRip.Layar-21.com.mp4
+
+type=video
+name=Young Husband Young Daddy (2017)
+thumb=https://1.bp.blogspot.com/-yS6BJx1-vcc/WdoOeiFgsbI/AAAAAAAAL6Y/4XFNxHYXneonffg59tinPVF77bfJUB69wCLcBGAs/s1600/1s.jpg
+date=2017-10-14
+URL=https://openload.co/f/O0cF7JixZs4/Young_Husband_Young_Daddy_2017_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Mostly Sunny (2016)
+thumb=https://3.bp.blogspot.com/-bNgu73j5rqg/WdoOfUIiJ-I/AAAAAAAAL6g/p3j49lsyD34zAAK9MrTuJXCKAmnGBS6TQCLcBGAs/s1600/1.jpg
+date=2017-10-14
+URL=https://openload.co/f/VhF-D6Ni91k/mostly_sunny_2017_720p_WEB-DL_%5BLayar-21.com%5D.mp4
 
 
 

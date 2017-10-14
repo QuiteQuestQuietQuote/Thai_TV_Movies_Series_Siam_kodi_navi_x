@@ -53,6 +53,134 @@ URL=
 
 
 
+type=video
+name=189xxxxxxxxxxxxxxxxxxxxAsian Sex Diary Xiaocui Movie Night
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Xiaocui-Movie-Night.jpg
+date=2017-10-14
+URL=https://streamango.com/f/brsqlfptorcdfana/Asian_Sex_Diary_Xiaocui_Movie_Night_mp4
+
+type=video
+name=Asian Sex Diary Pat
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Pat.jpg
+date=2017-10-14
+URL=https://streamango.com/f/klnbbsofocrntfdl/Asian_Sex_Diary_Pat_MP4_mp4
+
+type=video
+name=Asian Sex Diary Xiaocui Shoot 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Xiaocui-Shoot.jpg
+date=2017-10-14
+URL=https://streamango.com/f/bpldnefqnnkfdmkf/Asian_Sex_Diary_Xiaocui_Shoot_mp4
+
+type=video
+name=Asian Sex Diary Pear 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Pear.jpg
+date=2017-10-14
+URL=https://streamango.com/f/qpldtlkksadbdtqt/Asian_Sex_Diary_Pear_MP4_mp4
+
+type=video
+name=Asian Sex Diary Xiaocui Eating Fucking
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Xiaocui-Eating-Fucking.jpg
+date=2017-10-14
+URL=https://streamango.com/f/dtstepdmaffmaqfn/Asian_Sex_Diary_Xiaocui_Eating_Fucking_mp4
+
+type=video
+name=Asian Sex Diary Xiaoya 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Xiaoya.jpg
+date=2017-10-14
+URL=https://streamango.com/f/kkconlktrpnsnkml/Asian_Sex_Diary_Xiaoya_mp4
+
+type=video
+name=Asian Sex Diary Palm
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Palm.jpg
+date=2017-10-14
+URL=https://streamango.com/f/odkmardrfctetmlq/Asian_Sex_Diary_Palm_MP4_mp4
+
+type=video
+name=Asian Sex Diary Xiaocui Revisit New 3 some 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Xiaocui-Revisit-New-3some.jpg
+date=2017-10-14
+URL=https://streamango.com/f/sacmpdklksnpckmt/Asian_Sex_Diary_Xiaocui_Revisit_New_3some_mp4
+
+type=video
+name=Asian Sex Diary Xiaoxuan
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Xiaoxuan.jpg
+date=2017-10-14
+URL=https://streamango.com/f/spsqtsktnqotcska/Asian_Sex_Diary_Xiaoxuan_mp4
+
+type=video
+name=Asian Sex Diary Tuktana
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tuktana.jpg
+date=2017-10-14
+URL=https://streamango.com/f/oedmfsolsplrbqdd/Asian_Sex_Diary_Tuktana_mp4
+
+type=video
+name=Asian Sex Diary Althea
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Althea.jpg
+date=2017-10-14
+URL=https://streamango.com/f/eknpsonndstqkebc/Asian_Sex_Diary_Althea_MP4_mp4
+
+type=video
+name=Asian Sex Diary Aline.Shoot
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Aline.Shoot_.jpg
+date=2017-10-14
+URL=https://streamango.com/f/tcslnrektedlbdmt/Asian_Sex_Diary_Aline_Shoot_MP4_mp4
+
+type=video
+name=Asian Sex Diary Annoo
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Annoo.jpg
+date=2017-10-14
+URL=https://streamango.com/f/tnrrolqsreeodanc/Asian_Sex_Diary_Annoo_MP4_mp4
+
+type=video
+name=Tazan 3 
+thumb=https://erotic2you.com/wp-content/uploads/2017/09/Tazan-3-%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%9B%E0%B9%88%E0%B8%B2.jpg
+date=2017-10-14
+URL=https://streamango.com/f/mmcloaddoptmplcs/Tazan_3_mpeg_mp4
+
+type=video
+name=Asian Sex Diary Lina.Part.2
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Lina.Part_.2.jpg
+date=2017-10-14
+URL=https://streamango.com/f/dooopctlddsltfds/Asian_Sex_Diary_Lina_Part_2_MP4_mp4
+
+type=video
+name=Asian Sex Diary Lina
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Lina.jpg
+date=2017-10-14
+URL=https://streamango.com/f/fkfrsodasrdqnepq/Asian_Sex_Diary_Lina_MP4_mp4
+
+type=video
+name=Asian Sex Diary Aline
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Aline.jpg
+date=2017-10-14
+URL=https://streamango.com/f/neqqqsqlnqmqemeb/Asian_Sex_Diary_Aline_MP4_mp4
+
+type=video
+name=Asian Sex Diary Aline.Morning
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Aline.Morning.jpg
+date=2017-10-14
+URL=https://streamango.com/f/olnftcqktllakrqo/Asian_Sex_Diary_Aline_Morning_MP4_mp4
+
+type=video
+name=Asian Sex Diary Aline.Morning.iPhone
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Aline.Morning.iPhone.jpg
+date=2017-10-14
+URL=https://streamango.com/f/sorsknlqckprposs/Asian_Sex_Diary_Aline_Morning_iPhone_MP4_mp4
+
+type=video
+name=Asian Sex Diary Aline.iPhone.3 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Aline.iPhone.3.jpg
+date=2017-10-14
+URL=https://streamango.com/f/rltsstktmrcqebcb/Asian_Sex_Diary_Aline_iPhone_3_MP4_mp4
+
+type=video
+name=Asian Sex Diary Aline.iPhone.2
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Aline.iPhone.2.jpg
+date=2017-10-14
+URL=https://streamango.com/f/qqmodcrkffnmnonf/Asian_Sex_Diary_Aline_iPhone_2_MP4_mp4
+
+
+
 
 
 
