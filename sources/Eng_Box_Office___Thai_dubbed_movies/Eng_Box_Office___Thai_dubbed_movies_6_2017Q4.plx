@@ -1204,32 +1204,34 @@ URL=http://183.88.212.205:8010/play/a02z
 
 # 2771674
 type=video
-name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
+name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD[/COLOR]
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 date=2017-10-10
-URL=http://103.77.116.238:443//hbo_th_720p.stream/playlist.m3u8?st=I2vFE67m4ht2AzLx9X7hyQ&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm95f90d890704348a1354&e=1507914108
+URL=http://183.88.212.205:8010/play/a00u
 player=default
 rating=-1.00
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=I2vFE67m4ht2AzLx9X7hyQ&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm95f90d890704348a1354&e=1507914108
+URL=http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=8ipXSVoBL-De1_lprn5UNg&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm1f49456778722a24372e&e=1508000449
 
 type=video
-name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD (TH)[/COLOR]
+name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD[/COLOR]
 thumb=https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png
-URL=http://103.77.116.238:443//ais_foxpremiumth_720p.stream/playlist.m3u8?st=I2vFE67m4ht2AzLx9X7hyQ&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm95f90d890704348a1354&e=1507914108
-
-type=video
-name=[COLOR=FF00FF00]Thai_______Thai______Thai______Cinemax (TH)[/COLOR]
-thumb=https://3.bp.blogspot.com/-Vxm9d7YjvDI/WdLYxl68RYI/AAAAAAAAAHo/GbJ2lnI2s4c9RA_xArSfV9kv0-bZ_tswQCLcBGAs/s320/031.png
-URL=http://103.77.116.238:443//cinemax_720p.stream/playlist.m3u8?st=I2vFE67m4ht2AzLx9X7hyQ&username2=0998520002&username=mmmm895087fe7a0205AA&password=mmmm95f90d890704348a1354&e=1507914108
+URL=http://183.88.212.205:8010/play/a01l
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE1[/COLOR]
-thumb=http://www.mx7.com/i/2e2/OIA8ZX.jpg
+thumb=http://www.thaiptv.com/img/movie1logo.png
 URL=http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+
+type=video
+name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE2[/COLOR]
+thumb=http://www.thaiptv.com/img/movie2logo.png
+URL=http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+
+
 
 type=video
 name=
