@@ -93,7 +93,7 @@ type=video
 name=Penthhouse Asia  
 thumb=http://incesto.co/wp-content/uploads/2016/01/xxx-incesto.jpg  
 date=2017-07-17
-URL=http://edge1.everyon.tv:1935/etv1sb/phd10927/playlist.m3u8
+URL=http://185.53.163.216:33112
 
 type=video
 name=Playboy Asia  

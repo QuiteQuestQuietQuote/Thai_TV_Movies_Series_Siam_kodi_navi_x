@@ -108,6 +108,8 @@ URL=
 
 
 
+
+
 type=video
 name=The Meyerowitz Stories (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/vJZs6ABHbCcgjIFcAoPx3qhwXzL.jpg
@@ -192,7 +194,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-10-13
+date=2017-10-14
 URL=
 
 
@@ -201,11 +203,17 @@ URL=
 
 
 type=video
-name=The Babysitter (2017) ENG NF.WEB-DL.DD5.1.x264-NTG
+name=Gremlin (2017) ENG WEB.h264-MAJiKNiNJAZ
+thumb=https://image.tmdb.org/t/p/w640/ikzorlv0yAxYCvkugO6k1EAgqMK.jpg
+date=2017-10-14
+URL=https://openload.co/f/Gq0x2YupZqo/Gremlin.2017.720p.WEB.h264-MAJiKNiNJAZ.mkv.mp4
+
+type=video
+name=The Babysitter (2017) ENG webrip.x264-strife
 thumb=https://image.tmdb.org/t/p/w640/UDyOG3rewNfbUelPGSvNxtmHZj.jpg
-date=2017-10-13
-URL=https://openload.co/f/wTgXi-mu0IQ/The.Babysitter.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
-#https://openload.co/f/o6m1Wv1UEpo/The_Babysitter_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+date=2017-10-14
+URL=https://openload.co/f/fkVUh4JzN7c/the.babysitter.2017.1080p.webrip.x264-strife.mkv.mp4
+#https://openload.co/f/wTgXi-mu0IQ/The.Babysitter.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
 
 type=video
 name=Interlude In Prague (2017) ENG hdtv.x264-plutonium
@@ -692,11 +700,18 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-11
+date=2017-10-14
 URL=
 
 
 
+
+
+type=video
+name=American Gothic (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/vhTvFd6TsfyPCKChOFvlLBgpnDY.jpg
+date=2017-10-14
+URL=https://openload.co/f/9KQVC9SllTs/american.gothic.2017.1080p.bluray.x264-justwatch.mkv.mp4
 
 type=video
 name=HHhH (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1313,16 +1328,7 @@ date=2017-09-24
 URL=https://openload.co/f/Elw1WEIapq8/American_Assassin_%282017%29%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%86%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
-type=video
-name=It (2017) ENG HC.HDRip
-thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
-date=2017-10-07
-URL=https://openload.co/f/4aIX_m1kW5g/IT_%282017%29_%5B1080p%5D_%5BHC%5D_%5BHDRip%5D.mp4
-type=video
-name=It (2017) TH CAM
-thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
-date=2017-09-18
-URL=https://openload.co/f/qXaLPD1GEng/It_%282017%29%E0%B8%AD%E0%B8%B4%E0%B8%97_%E0%B9%82%E0%B8%9C%E0%B8%A5%E0%B9%88%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
 
 
 
@@ -1634,6 +1640,21 @@ URL=
 
 
 
+
+
+
+type=video
+name=It (2017) ENG HC.HDRip
+thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
+date=2017-10-07
+URL=https://openload.co/f/4aIX_m1kW5g/IT_%282017%29_%5B1080p%5D_%5BHC%5D_%5BHDRip%5D.mp4
+type=video
+name=It (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
+date=2017-10-14
+URL=https://openload.co/f/WTnAgWeC18I/IT.2017.1080p.HC.HDRip.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+
+
 type=video
 name=Atomic Blonde (2017) ENG HC.HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
@@ -1694,6 +1715,7 @@ name=Annabelle: Creation (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
 date=2017-10-12
 URL=https://openload.co/f/x9V80eEiTR8/Annabelle.2.Creation.2017.720p.BluRay.x264-SPARKS.mkv.mp4
+#https://www.blazefile.co/embed-irygfv72plwv.html
 type=video
 name=Annabelle: Creation (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
@@ -1888,8 +1910,28 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-13
+date=2017-10-14
 URL=
+
+
+
+
+
+
+type=video
+name=Blade Runner (1982) TH
+thumb=https://image.tmdb.org/t/p/w640/p64TtbZGCElxQHpAMWmDHkWJlH2.jpg
+date=2017-10-14
+URL=https://s1.037hd.ws/907001-/903415.MP4
+
+
+
+
+
+
+
+
+
 
 
 
