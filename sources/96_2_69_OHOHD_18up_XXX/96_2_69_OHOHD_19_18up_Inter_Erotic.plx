@@ -34,7 +34,7 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
-date=2017-10-13
+date=2017-10-15
 URL=
 
 
@@ -44,6 +44,12 @@ URL=
 
 
 
+
+type=video
+name=Vicious Circles (1997)
+thumb=https://image.tmdb.org/t/p/w640/j1QCjKOdZVziEbeFHTmC6voyd8u.jpg
+date=2017-10-15
+URL=https://openload.co/f/pDcHgTwvPrs/Vicious_Circles_%281997%29.mp4
 
 type=video
 name=Indiscretion (2016)

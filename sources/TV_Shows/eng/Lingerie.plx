@@ -33,7 +33,7 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
-URL=
+URL=http://cdn1.cooltvseries.com/dwlData/Co%20Ed%20Confidential/SEASON%204/Co%20Ed%20Confidential%20-%20S04E13%20-%20The%20Last%20Hurrah%20-%20(480p)%20-%20(cooltvseries.com).mp4
 
 
 
@@ -147,9 +147,9 @@ URL=
 
 type=video
 name=S02E01___Careful What You Wish For
-thumb=
+thumb=https://thumb.oloadcdn.net/splash/QWxh7aP-RM4/Np8Pijv1PN0.jpg
 date=2017-08-03
-URL=1
+URL=https://openload.co/f/QWxh7aP-RM4/Lingerie_S02E01.mp4
 
 type=video
 name=S02E02___Looks Are Deceiving

@@ -24,7 +24,7 @@ rating=-1.00
 type=video
 name=
 thumb=
-URL=
+URL=http://www.owndrives.com/wgc04o5ncop0/War.for.the.Planet.of.the.Apes.2017.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.html
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
