@@ -102,13 +102,21 @@ URL=http://entervideo.net/watch/7d9f86e862a5007
 type=video
 name=
 thumb=
-date=2017-10-13
+date=2017-10-15
 URL=
 
 
 
 
 
+
+type=video
+name=Swing Away (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/armSkPfOpBRgp1joorUm6Pc5TbB.jpg
+date=2017-10-15
+URL=https://openload.co/f/IYX17ih3VDQ/Swing.Away.2016.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/KGgPbvafO94/S.A.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
+#https://openload.co/f/KjLezinoW0g/Swing.Away.2016.Forced.Engsub.WEB-DL.x264-FGT.mp4
 
 type=video
 name=The Meyerowitz Stories (2017) ENG HDRip.XviD.AC3-EVO
@@ -142,11 +150,7 @@ thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
 date=2017-10-06
 URL=https://openload.co/f/zRhfEaYL4NQ/Better.Watch.Out.2016.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
-type=video
-name=My Little Pony: The Movie (2017) ENG HDRip
-thumb=https://image.tmdb.org/t/p/w640/15WbvKx7B7FiLZheK49Xc05oRIX.jpg
-date=2017-10-07
-URL=https://openload.co/f/3nFF8giXD2A/My_Little_Pony%3A_The_Movie_%282017%29_720p_HDRip.mp4
+
 
 type=video
 name=The Glass Castle (2017) ENG HDCAM.x264_DiRG
@@ -194,13 +198,60 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-10-14
+date=2017-10-15
 URL=
 
 
 
 
 
+type=video
+name=The Last Dragonslayer (2016) ENG DVDRip_x264-GHOULS
+thumb=https://image.tmdb.org/t/p/w640/be39oeAlA13F8WrehNSWH15jRVF.jpg
+date=2017-10-15
+URL=https://openload.co/f/nq1lED0QQv8/The_Last_Dragonslayer_2016_DVDRip_x264-GHOULS.mkv.mp4
+
+type=video
+name=Road to the Open (2014) ENG WEBRip.x264-iNTENSO MKV
+thumb=https://image.tmdb.org/t/p/w640/k4s38n6nDB1X4QOp1rJjhIeueMb.jpg
+date=2017-10-15
+URL=https://openload.co/f/MVQ6izjWJlI/Road.to.the.Open.2014.WEBRip.x264-iNTENSO.mkv
+#https://openload.co/f/WntrTZkvp-o/Road.to.the.Open.2014.WEBRip.x264-iNTENSO.mkv
+#https://openload.co/f/G3SeQBCCsYY/Road.to.the.Open.2014.1080p.WEBRip.x264-iNTENSO.mkv.mp4
+
+type=video
+name=Bad Blood: The Movie (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/dFHCiDEfApXG58Fd8X8lgMUQ0Cm.jpg
+date=2017-10-15
+URL=https://openload.co/f/p7JnDjBTezk/Bad.Blood.The.Movie.2016.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/8PgZmiItJRk/B.B.T.M.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=The Playground (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/lJuCWn9LovH4VsGMfLF8xUKflFq.jpg
+date=2017-10-15
+URL=https://openload.co/f/34zQm3wPLjo/The.Playground.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/VmX1md3QOb4/T.PG.2017.WEB-DL.XviD.MP3-FGT.avi.mp4
+
+type=video
+name=Talon Falls (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/lTkMVgTMzctisqNYfdXk0vicktY.jpg
+date=2017-10-15
+URL=https://openload.co/f/O8gPiFYAZhU/Talon.Falls.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/6RHlB8XBF20/T.F.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=The Adventurers (2017) ENG HC.HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/mZstiRGpFNDNYtyu0QO6hkw7jE7.jpg
+date=2017-10-15
+URL=https://openload.co/f/AeVfXjuOkzg/The.Adventurers.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Freehold (2017) ENG HDRip_XviD_AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/bITbGBGn7pUKJAF6U0dzNT33ZxU.jpg
+date=2017-10-15
+URL=https://openload.co/f/t1E8pQAnJaw/Freehold_2017_HDRip_XviD_AC3-EVO.avi.mp4
+#https://openload.co/f/I7UjFFBDk_g/Freehold.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Gremlin (2017) ENG WEB.h264-MAJiKNiNJAZ
@@ -1288,6 +1339,9 @@ date=2017-10-10
 URL=https://openload.co/f/TOeMLlMyofc/The_LEGO_Ninjago_Movie_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B9%82%E0%B8%81_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
+
+
+
 type=video
 name=The Foreigner (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
@@ -1302,12 +1356,12 @@ URL=https://openload.co/f/ZUSwNylVnPg/Paradox_%282017%29%E0%B9%80%E0%B8%94%E0%B8
 
 
 type=video
-name=Kingsman: The Golden Circle (2017) ENG HD-TS.x264.HQ-CPG
+name=Kingsman: The Golden Circle (2017) ENG HD-TS_x264_HQ-CPG
 thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
-date=2017-10-12
-URL=https://openload.co/f/HaBGBsva7yY/Kingsman.The.Golden.Circle.2017.HD-TS.x264.HQ-CPG.mp4
-#https://openload.co/f/s8DKi74C1V0/Kingsman.The.Golden.Circle.2017.CAM.READNFO.XViD-26k.mp4
-#https://openload.co/f/taRrI70s7V8/Kingsman.The.Golden.Circle.2017.CAM.CLEAN.avi.mp4
+date=2017-10-15
+URL=https://openload.co/f/KoSidQAV37g/Kingsman_The_Golden_Circle_2017_HD-TS_x264_HQ-CPG.mkv.mp4
+#https://openload.co/f/DXfWPdel-FY/Kingsman.The.Golden.Circle.2017.TS.Xvid.AC3.avi.mp4
+#https://openload.co/f/HaBGBsva7yY/Kingsman.The.Golden.Circle.2017.HD-TS.x264.HQ-CPG.mp4
 type=video
 name=Kingsman: The Golden Circle (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
@@ -1362,10 +1416,11 @@ URL=https://openload.co/f/yHAqwafVlbk/Dunkirk.2017.HD-TS.x264.ThaiRong_CpT%40CtH
 
 
 type=video
-name=Cars 3 (2017) ENG updated TC
+name=Cars 3 (2017) ENG READNFO.1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
-date=2017-07-10
-URL=https://openload.co/f/OTUdczQrr7Q/C_3_2017_1080P_HDTC_%5BLayar-21.com%5D.mp4
+date=2017-10-15
+URL=https://openload.co/f/V4qbtFxzsBg/Cars.3.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO..mkv.mp4
+#https://openload.co/f/0SJYdj01mVs/Cars.3.2017.720p.WEB-DL.800MB.MkvCage.mkv
 type=video
 name=Cars 3 (2017) TH CAM updated TS
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
@@ -1656,10 +1711,13 @@ URL=https://openload.co/f/WTnAgWeC18I/IT.2017.1080p.HC.HDRip.x264.ThaiRong2.0_Cp
 
 
 type=video
-name=Atomic Blonde (2017) ENG HC.HDRip.XviD.AC3-EVO
+name=Atomic Blonde (2017) ENG HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
-date=2017-10-13
-URL=https://openload.co/f/Bc3VU_CX4xc/Atomic.Blonde.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
+date=2017-10-15
+URL=https://openload.co/f/13M5vu6fyBw/Atomic.Blonde.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/8UecvL97bCw/Atomic_Blonde_2017_1080p_KORSUB_HDRip_x264_AAC2.0-STUTTERSHIT.mkv.mp4
+#https://openload.co/f/brixtXdous0/Atomic.Blonde.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/Bc3VU_CX4xc/Atomic.Blonde.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=Atomic Blonde (2017) TH updated TS
 thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
@@ -1668,17 +1726,15 @@ URL=https://openload.co/f/PicDXIigpMA/Atomic.Blond.2017.HD-TS.x264.ThaiRong_CpT%
 
 
 type=video
-name=The Emoji Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 4.4GB
-thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
-date=2017-10-10
-URL=https://openload.co/f/E-pgDeg0YIk/the.emoji.movie.2017.1080p.bluray.x264-drones.mkv
-#https://openload.co/f/lncVPrYj-Rc/the.emoji.movie.2017.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/M9oyuRqh08I/the.emoji.movie.2017.repack.1080p.bluray.x264-drones.mkv.mp4
+name=My Little Pony: The Movie (2017) ENG HDRip
+thumb=https://image.tmdb.org/t/p/w640/15WbvKx7B7FiLZheK49Xc05oRIX.jpg
+date=2017-10-07
+URL=https://openload.co/f/3nFF8giXD2A/My_Little_Pony%3A_The_Movie_%282017%29_720p_HDRip.mp4
 type=video
-name=The Emoji Movie (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
-date=2017-10-10
-URL=https://openload.co/f/pc9HN_wR2Nw/The_Emoji_Movie_%282017%29%E0%B8%AD%E0%B8%B4%E0%B9%82%E0%B8%A1%E0%B8%88%E0%B8%B4_%E0%B9%81%E0%B8%AD%E0%B9%8A%E0%B8%9E%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+name=My Little Pony: The Movie (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/15WbvKx7B7FiLZheK49Xc05oRIX.jpg
+date=2017-10-15
+URL=https://streamango.com/f/tnmqtnmolqpbpbbo/Z_1_My_Little_Pony_The_Movie_mp4
 
 
 type=video
@@ -1696,7 +1752,11 @@ URL=https://openload.co/f/K4Ta8lkseM4/Wish.Upon.2017.UNRATED.1080p.BluRay.x264.T
 
 
 
-
+type=video
+name=Bushwick (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg
+date=2017-10-15
+URL=https://openload.co/f/5Mo7YmqYItA/Bushwick.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 type=video
 name=Bushwick (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg
@@ -1910,12 +1970,30 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-14
+date=2017-10-15
 URL=
 
 
 
 
+
+
+
+
+
+
+type=video
+name=The Emoji Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 4.4GB
+thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
+date=2017-10-10
+URL=https://openload.co/f/E-pgDeg0YIk/the.emoji.movie.2017.1080p.bluray.x264-drones.mkv
+#https://openload.co/f/lncVPrYj-Rc/the.emoji.movie.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/M9oyuRqh08I/the.emoji.movie.2017.repack.1080p.bluray.x264-drones.mkv.mp4
+type=video
+name=The Emoji Movie (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
+date=2017-10-15
+URL=https://openload.co/f/u-l7sfrizb8/The.Emoji.Movie.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts_%281%29.mkv.mp4
 
 
 type=video
