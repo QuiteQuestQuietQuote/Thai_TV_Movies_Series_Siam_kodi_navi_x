@@ -24,7 +24,7 @@ rating=-1.00
 type=video
 name=
 thumb=
-URL=http://www.owndrives.com/wgc04o5ncop0/War.for.the.Planet.of.the.Apes.2017.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.html
+URL=
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -145,14 +145,6 @@ date=2017-10-06
 URL=https://openload.co/f/fkXkBBTTZxM/Walking.Out.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
-name=Better Watch Out (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
-date=2017-10-06
-URL=https://openload.co/f/zRhfEaYL4NQ/Better.Watch.Out.2016.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
-
-
-
-type=video
 name=The Glass Castle (2017) ENG HDCAM.x264_DiRG
 thumb=https://image.tmdb.org/t/p/w640/d5fLQ9ZMa1jZ2mODCv5lOWJDugX.jpg
 date=2017-09-22
@@ -198,12 +190,23 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-10-15
+date=2017-10-16
 URL=
 
 
 
 
+type=video
+name=Kiss and Cry (2017) ENG WEBRip
+thumb=https://image.tmdb.org/t/p/w640/7242QzSUH51JpWzzxbbESPTWqjR.jpg
+date=2017-10-16
+URL=https://openload.co/f/UKGuPSK2OjQ/Kiss_and_Cry_%282017%29_1080p_WEBRip_%5Bmoviseries.com%5D.mp4
+
+type=video
+name=The Gaelic King (2017) ENG DVDRip.XViD.AC3-juggs
+thumb=https://image.tmdb.org/t/p/w640/wgdWTkIm0mc4RpcFqDtPMwhBd3e.jpg
+date=2017-10-16
+URL=https://openload.co/f/xKvLAvDHFug/The.Gaelic.King.2017.DVDRip.XViD.AC3-juggs.avi.mp4
 
 type=video
 name=The Last Dragonslayer (2016) ENG DVDRip_x264-GHOULS
@@ -258,13 +261,6 @@ name=Gremlin (2017) ENG WEB.h264-MAJiKNiNJAZ
 thumb=https://image.tmdb.org/t/p/w640/ikzorlv0yAxYCvkugO6k1EAgqMK.jpg
 date=2017-10-14
 URL=https://openload.co/f/Gq0x2YupZqo/Gremlin.2017.720p.WEB.h264-MAJiKNiNJAZ.mkv.mp4
-
-type=video
-name=The Babysitter (2017) ENG webrip.x264-strife
-thumb=https://image.tmdb.org/t/p/w640/UDyOG3rewNfbUelPGSvNxtmHZj.jpg
-date=2017-10-14
-URL=https://openload.co/f/fkVUh4JzN7c/the.babysitter.2017.1080p.webrip.x264-strife.mkv.mp4
-#https://openload.co/f/wTgXi-mu0IQ/The.Babysitter.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
 
 type=video
 name=Interlude In Prague (2017) ENG hdtv.x264-plutonium
@@ -751,12 +747,22 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-14
+date=2017-10-16
 URL=
 
 
 
 
+
+
+
+
+type=video
+name=A Family Man (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/612avgKpukTYLmrXLZmip2Hjwmv.jpg
+date=2017-10-16
+URL=https://openload.co/f/O6SQJF9Hbww/A.Family.Man.2016.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/ui2TnfZND9o/A.Family.Man.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=American Gothic (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1252,7 +1258,11 @@ date=2017-09-21
 URL=https://openload.co/f/a3OL4Fe1EkU/Goon.Last.of.the.Enforcers.2017.720p.BluRay.X264-AMIABLE.mkv
 #https://openload.co/f/_nzYcLqwj4Q/Goon.Last.of.the.Enforcers.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
-
+type=video
+name=The Lure (2015) [COLOR=FF00FF00]POL BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/iwv8xd3bmxCNYZegB5VLpde3ADB.jpg
+date=2017-10-16
+URL=https://openload.co/f/8Zvnt2ZLjV0/the.lure.2015.720p.bluray.x264-killerhd.mkv.mp4
 
 
 
@@ -1464,10 +1474,49 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-02
+date=2017-10-16
 URL=
 
 
+
+
+
+
+type=video
+name=Better Watch Out (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
+date=2017-10-06
+URL=https://openload.co/f/zRhfEaYL4NQ/Better.Watch.Out.2016.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+type=video
+name=Better Watch Out (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
+date=2017-10-16
+URL=https://openload.co/f/-XtVUtoF8pc/Better_Watch_Out_%282017%29%E0%B9%82%E0%B8%94%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%94_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=The Babysitter (2017) ENG webrip.x264-strife
+thumb=https://image.tmdb.org/t/p/w640/UDyOG3rewNfbUelPGSvNxtmHZj.jpg
+date=2017-10-14
+URL=https://openload.co/f/fkVUh4JzN7c/the.babysitter.2017.1080p.webrip.x264-strife.mkv.mp4
+#https://openload.co/f/wTgXi-mu0IQ/The.Babysitter.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
+type=video
+name=The Babysitter (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/UDyOG3rewNfbUelPGSvNxtmHZj.jpg
+date=2017-10-16
+URL=https://openload.co/f/JlcoWm4iBgQ/The_Babysitter_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%8B%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Kingdom of Us (2017) ENG web.x264-strife
+thumb=https://image.tmdb.org/t/p/w640/moxRHY0pMP1wjCiy761yn3ff9gD.jpg
+date=2017-10-16
+URL=https://openload.co/f/NzOWhB1pMg0/kingdom.of.us.2017.1080p.web.x264-strife.mkv.mp4
+type=video
+name=Kingdom of Us (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/moxRHY0pMP1wjCiy761yn3ff9gD.jpg
+date=2017-10-16
+URL=https://openload.co/f/VuFyLkZ195I/Kingdom_of_Us_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -1719,10 +1768,10 @@ URL=https://openload.co/f/13M5vu6fyBw/Atomic.Blonde.2017.1080p.HC.HDRip.X264.AC3
 #https://openload.co/f/brixtXdous0/Atomic.Blonde.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/Bc3VU_CX4xc/Atomic.Blonde.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
-name=Atomic Blonde (2017) TH updated TS
+name=Atomic Blonde (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
-date=2017-08-08
-URL=https://openload.co/f/PicDXIigpMA/Atomic.Blond.2017.HD-TS.x264.ThaiRong_CpT%40CtHts.mkv.mp4
+date=2017-10-16
+URL=https://openload.co/f/2jZl7koVNSQ/Atomic_Blonde_%282017%29%E0%B8%9A%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C_%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B8%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
 type=video
@@ -1733,8 +1782,8 @@ URL=https://openload.co/f/3nFF8giXD2A/My_Little_Pony%3A_The_Movie_%282017%29_720
 type=video
 name=My Little Pony: The Movie (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/15WbvKx7B7FiLZheK49Xc05oRIX.jpg
-date=2017-10-15
-URL=https://streamango.com/f/tnmqtnmolqpbpbbo/Z_1_My_Little_Pony_The_Movie_mp4
+date=2017-10-16
+URL=https://openload.co/f/5XvWdoNbUgg/My_Little_Pony%3A_The_Movie_%282017%29%E0%B8%A1%E0%B8%B2%E0%B8%A2_%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B9%89%E0%B8%A5_%E0%B9%82%E0%B8%9E%E0%B8%99%E0%B8%B5%E0%B9%88_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
 type=video
@@ -1762,6 +1811,7 @@ name=Bushwick (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg
 date=2017-10-02
 URL=https://openload.co/f/ec1xrtavae4/Bushwick_%282017%29%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+
 
 type=video
 name=The Battleship Island (2017) TH CAM SOUND
@@ -1944,7 +1994,7 @@ type=video
 name=
 thumb=
 date=2017-09-14
-URL=https://s1.037hd.ws/907001-/907459.MP4
+URL=
 
 type=video
 name=
@@ -1970,7 +2020,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-15
+date=2017-10-16
 URL=
 
 
@@ -1979,7 +2029,11 @@ URL=
 
 
 
-
+type=video
+name=Alice in Wonderland (1951) TH
+thumb=https://image.tmdb.org/t/p/w640/9gJa2B6M8jt85aDkb0MF98MLZ9T.jpg
+date=2017-10-16
+URL=https://openload.co/f/2V7V0W1hBUE/Alice_in_Wonderland_%281951%29%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%8B%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C.mp4
 
 
 type=video
@@ -1992,8 +2046,9 @@ URL=https://openload.co/f/E-pgDeg0YIk/the.emoji.movie.2017.1080p.bluray.x264-dro
 type=video
 name=The Emoji Movie (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
-date=2017-10-15
-URL=https://openload.co/f/u-l7sfrizb8/The.Emoji.Movie.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts_%281%29.mkv.mp4
+date=2017-10-16
+URL=https://openload.co/f/VCeBTPsFl54/The_Emoji_Movie_%282017%29%E0%B8%AD%E0%B8%B4%E0%B9%82%E0%B8%A1%E0%B8%88%E0%B8%B4_%E0%B9%81%E0%B8%AD%E0%B9%8A%E0%B8%9E%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+#https://openload.co/f/u-l7sfrizb8/The.Emoji.Movie.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts_%281%29.mkv.mp4
 
 
 type=video
@@ -2025,8 +2080,9 @@ URL=https://openload.co/f/An6KwsvHsPU/War_For_The_Planet_Of_The_Apes_%282017%29_
 type=video
 name=War for the Planet of the Apes (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
-date=2017-10-13
-URL=https://openload.co/f/Phq3ESBtmr0/War_for_the_Planet_of_the_Apes_%282017%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3.mp4
+date=2017-10-16
+URL=https://openload.co/f/q7Vvlz2dG38/War_for_the_Planet_of_the_Apes_%282017%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3.mp4
+#https://openload.co/f/Phq3ESBtmr0/War_for_the_Planet_of_the_Apes_%282017%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3.mp4
 
 
 type=video
@@ -2052,7 +2108,8 @@ type=video
 name=Before I Fall (2017) TH
 thumb=http://image.tmdb.org/t/p/w500/eowzonDJMCuNXoJGVkP9Z7oCmiM.jpg
 date=2017-10-13
-URL=https://openload.co/f/ybeLVobtJ-g/Before_I_Fall_%282017%29%E0%B8%95%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%A1%E0%B8%B2_%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99_%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+URL=https://openload.co/f/KX64rUxgu9I/Before_I_Fall_%282017%29%E0%B8%95%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%A1%E0%B8%B2_%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99_%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+#https://openload.co/f/ybeLVobtJ-g/Before_I_Fall_%282017%29%E0%B8%95%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%A1%E0%B8%B2_%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99_%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
 player=default
 rating=-1.00
 description=Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was./description
@@ -2061,7 +2118,8 @@ type=video
 name=The Monster (2016) TH
 thumb=https://image.tmdb.org/t/p/w640/sxrYq3pcCPkB308FQR4lkKdoUBe.jpg
 date=2017-10-13
-URL=https://openload.co/f/OYvrEbBMqas/The_Monster_%282016%29%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99.mp4
+URL=https://openload.co/f/5K51BRttEIU/The_Monster_%282016%29%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99.mp4
+#https://openload.co/f/OYvrEbBMqas/The_Monster_%282016%29%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99.mp4
 
 type=video
 name=Let's Go, Jets! (2017) TH
@@ -2153,7 +2211,7 @@ name=Rough Night (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg
 date=2017-10-01
 URL=https://openload.co/f/-2OmhCsiyUE/Rough_Night_%282017%29%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B5%E0%B9%89%E0%B8%8A%E0%B8%B0%E0%B8%99%E0%B8%B5%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99.mp4
-
+#https://storage.googleapis.com/staging.europe-west-181907.appspot.com/Newmovies/dy-hot/Rough.Night.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=My Cousin Rachel (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
