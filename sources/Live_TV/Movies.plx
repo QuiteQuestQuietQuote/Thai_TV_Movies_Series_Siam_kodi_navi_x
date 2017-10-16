@@ -12,6 +12,12 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
+
+type=video
+name=HBO HD
+thumb=https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png
+URL=http://183.88.212.205:8010/play/a00u
+
 type=video
 name=HBO HD (TH)
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
@@ -385,12 +391,12 @@ type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://185.53.163.214:9507
+URL=http://191.96.38.234:443/free/0x777_foxpremiumtruly_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://185.53.163.212:2318
+URL=http://191.96.38.234:443/free53/0x222_ais_hbohit_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
 
 
 
@@ -399,7 +405,7 @@ type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://185.53.163.212:1905
+URL=http://191.96.38.234:443/free53/0x222_ais_hbohd_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
 
 
 
