@@ -79,6 +79,12 @@ date=2017-10-13
 URL=https://openload.co/f/8cEt2bAPp34/American.Made.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 
 type=video
+name=Flatliners (2017) ENG CLEAN_HDCAM_x264_HQ-DADDY
+thumb=https://image.tmdb.org/t/p/w640/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg
+date=2017-10-17
+URL=https://openload.co/f/oZKIj48wu74/Flatliners_2017_CLEAN_HDCAM_x264_HQ-DADDY.mp4
+
+type=video
 name=mother! (2017) ENG HDCAM X264 HQMic-NoGRP
 thumb=https://image.tmdb.org/t/p/w640/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
 date=2017-10-04
@@ -100,8 +106,10 @@ URL=http://entervideo.net/watch/7d9f86e862a5007
 type=video
 name=
 thumb=
-date=2017-10-15
+date=2017-10-17
 URL=
+
+
 
 
 
@@ -1326,8 +1334,7 @@ rating=-1.00
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=k9u9CvACwlwRrjEbcDJleA&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm1f424f307f21bcf2a3fa&e=1508259510
-#http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=Bg54_KJZKBBmjwfOwgB9ug&username2=0800000007&username=Vl58aVE11qw9KclwLO8F&password=mmmm6be7f1b150e4452fff93&e=1508273966
+URL=http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=Bg54_KJZKBBmjwfOwgB9ug&username2=0800000007&username=Vl58aVE11qw9KclwLO8F&password=mmmm6be7f1b150e4452fff93&e=1508273966
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD[/COLOR]
@@ -2243,10 +2250,11 @@ URL=https://openload.co/f/YVEeNi9uziA/Baby_Driver_%282017%29%E0%B8%88%E0%B8%B5%E
 #https://openload.co/f/mjQ0MaSzysk/Baby.Driver.2017.1080p.BrRip.DTS.x264_hdfile4you.clubhd4you.net.mkv.mp4
 
 type=video
-name=Rough Night (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Rough Night (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg
-date=2017-08-20
-URL=https://openload.co/f/hlHoOQKd_D8/rough.night.2017.720p.bluray.x264.blow-mkv.mp4
+date=2017-10-17
+URL=https://openload.co/f/7P_ZcLcOCKY/Rough.Night.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/hlHoOQKd_D8/rough.night.2017.720p.bluray.x264.blow-mkv.mp4
 type=video
 name=Rough Night (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg

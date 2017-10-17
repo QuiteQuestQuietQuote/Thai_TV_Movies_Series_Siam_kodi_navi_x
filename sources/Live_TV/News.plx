@@ -34,7 +34,7 @@ rating=-1.00
 type=video
 name=DW TV_youtube
 thumb=http://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png
-URL=https://youtu.be/XV9mc9sOmDs
+URL=https://youtu.be/DNm82YuLhpo
 player=default
 rating=-1.00
 
@@ -45,7 +45,7 @@ URL=http://183.88.212.205:8010/play/a02s
 type=video
 name=Spring News (Full HD)
 thumb=http://f.ptcdn.info/614/023/000/1411136893-springnews-o.jpg
-URL=http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
+URL=http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_mobile/playlist.m3u8
 player=default
 rating=-1.00
 
@@ -59,7 +59,7 @@ rating=-1.00
 type=video
 name=Nation TV
 thumb=https://2.bp.blogspot.com/-o7s4RRz4ppM/V7Sh7FTCXZI/AAAAAAAAnXE/eq39whb7Cr0DbQt7THIzcIVaokWhtEWsQCLcB/s1600/1.jpg
-URL=http://pr07ed006.dcs-cdn.com/nation/nationlive.isml/QualityLevels(704000)/manifest(format=m3u8-aapl).m3u8
+URL=http://symc-cdn01.bkk02.violin.co.th:1935/liveedge/308498221057_600/chunklist.m3u8
 player=default
 rating=-1.00
 
