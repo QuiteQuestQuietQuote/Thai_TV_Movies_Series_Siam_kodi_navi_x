@@ -78,8 +78,6 @@ thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
 date=2017-10-13
 URL=https://openload.co/f/8cEt2bAPp34/American.Made.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 
-
-
 type=video
 name=mother! (2017) ENG HDCAM X264 HQMic-NoGRP
 thumb=https://image.tmdb.org/t/p/w640/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
@@ -190,11 +188,43 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-10-16
+date=2017-10-17
 URL=
 
 
 
+
+
+
+
+
+
+type=video
+name=A Very Sordid Wedding (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/dr0g7skic2Rho6VfyaVPU7Uwntc.jpg
+date=2017-10-17
+URL=https://openload.co/f/Q1UPIIMud5U/A.Very.Sordid.Wedding.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Sex Guaranteed 2017 ENG HDRip XviD AC3-EVO
+thumb=http://img.rlsbb.ru/images/jN5OgoZ.jpg
+date=2017-10-17
+URL=https://openload.co/f/_KK6iPHc4Wg/Sex_Guaranteed_2017_HDRip_XviD_AC3-EVO.avi.mp4
+
+type=video
+name=OtherLife (2017) ENG WEBRip.x264.AC3-FooKaS
+thumb=https://image.tmdb.org/t/p/w640/sJUWGjRXJ39ZHG1weQg9hJeFqwK.jpg
+date=2017-10-17
+URL=https://openload.co/f/dIRjDVu0Op4/OtherLife.2017.720p.WEBRip.x264.AC3-FooKaS.mp4
+#https://openload.co/f/iHbadePq3tg/OtherLife.2017.NF.WEBRip.x264-CMRG.mp4
+#https://openload.co/f/NudkvHBICKk/OtherLife.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Garage Sale Mystery: The Wedding Dress (2015) ENG HDTV.1080p.h264-PLUTONiUM MKV 2.1GB
+thumb=https://image.tmdb.org/t/p/w640/kLkR98iANExvKkcxyJYKGlkJ9mM.jpg
+date=2017-10-17
+URL=https://openload.co/f/7OVu-yyKU88/Garage.Sale.Mystery.The.Wedding.Dress.2015.HDTV.1080p.h264-PLUTONiUM.mkv
+#https://openload.co/f/KXP8V9XQ3EE/Garage.Sale.Mystery.The.Wedding.Dress.2015.HDTV.1080p.h264-PLUTONiUM.mkv.mp4
 
 type=video
 name=Kiss and Cry (2017) ENG WEBRip
@@ -747,7 +777,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-16
+date=2017-10-17
 URL=
 
 
@@ -756,6 +786,12 @@ URL=
 
 
 
+
+type=video
+name=Sun Choke (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/3hQPvhAZBF6qzMK0TMxG1rDWbu8.jpg
+date=2017-10-17
+URL=https://openload.co/f/vOOsx2Vhqjg/Sun.Choke.2015.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=A Family Man (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1291,6 +1327,7 @@ type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
 URL=http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=k9u9CvACwlwRrjEbcDJleA&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmm1f424f307f21bcf2a3fa&e=1508259510
+#http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=Bg54_KJZKBBmjwfOwgB9ug&username2=0800000007&username=Vl58aVE11qw9KclwLO8F&password=mmmm6be7f1b150e4452fff93&e=1508273966
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD[/COLOR]
@@ -1929,6 +1966,9 @@ name=The Dark Tower (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 1.8GB
 thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
 date=2017-10-08
 URL=https://openload.co/f/n1NusIGiyd0/The.Dark.Tower.2017.1080p.BRRip.6CH.MkvCage.mkv
+#https://openload.co/f/tTukZj4km4c/the.dark.tower.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/tQtgFEi7_fU/The.Dark.Tower.2017.1080p.BluRay.DTS.x264.mkv.mp4
+#https://openload.co/f/3YbZdgAvTEw/The.Dark.Tower.2017.1080p.BluRay.x264.DTS-SHITBOX.mkv.mp4
 #https://openload.co/f/31m7ICojoic/The.Dark.Tower.2017.1080p.BRRip.6CH.MkvCage.mkv.mp4
 #https://openload.co/f/73tvjUxurNg/The_Dark_Tower_%282017%29_%5B1080p%5D_BluRay_x264_DTS-SHITBOX_mkv_mp4
 type=video
@@ -2055,7 +2095,8 @@ type=video
 name=Blade Runner (1982) TH
 thumb=https://image.tmdb.org/t/p/w640/p64TtbZGCElxQHpAMWmDHkWJlH2.jpg
 date=2017-10-14
-URL=https://s1.037hd.ws/907001-/903415.MP4
+URL=https://openload.co/f/wdwZ0KXbglk/Blade_Runner_%281982%29%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C.mp4
+#https://s1.037hd.ws/907001-/903415.MP4
 
 
 
