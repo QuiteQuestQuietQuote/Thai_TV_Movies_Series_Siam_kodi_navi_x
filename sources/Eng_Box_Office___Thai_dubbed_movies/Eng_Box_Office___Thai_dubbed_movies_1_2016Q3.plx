@@ -249,7 +249,12 @@ description=The third chapter of the cult-classic fantasy saga: A Chinese Odysse
 
 # 2745186
 type=video
-name=Finding Dory
+name=Finding Dory (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/z09QAf8WbZncbitewNk6lKYMZsh.jpg
+date=2017-10-18
+URL=https://openload.co/f/rYEOjRfMWDo/Finding_Dory_2016_1080p_BluRay_x264_DTS_JYK_0.mp4
+type=video
+name=Finding Dory (2016) TH
 thumb=http://image.tmdb.org/t/p/w500/z09QAf8WbZncbitewNk6lKYMZsh.jpg
 URL=https://openload.co/f/u_h6LFc5oKU/%7BMINI_Super-HQ%7D_Finding.Dory.2016.1080p.BrRip.DTS.x264.THB_NongZEZA%40CtHts.mkv.mp4
 player=default
@@ -276,7 +281,12 @@ description=In the sequel to Tim Burton's "Alice in Wonderland", Alice Kingsleig
 
 # 2672642
 type=video
-name=The Secret Life of Pets
+name=The Secret Life of Pets (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/WLQN5aiQG8wc9SeKwixW7pAR8K.jpg
+date=2017-10-18
+URL=https://openload.co/f/z-9fHVuQ700/The.Secret.Life.Of.Pets.2016.1080p.BluRay.x264_YTS.AG.mp4
+type=video
+name=The Secret Life of Pets (2016) TH
 thumb=http://image.tmdb.org/t/p/w500/WLQN5aiQG8wc9SeKwixW7pAR8K.jpg
 URL=https://openload.co/f/6PFefIGLH-4/The_Secret_Life_of_Pets_%282016%29_%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%82%E0%B8%99%E0%B8%9F%E0%B8%B9_%5BMaster_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%5D.mp4
 player=default
@@ -742,7 +752,12 @@ description=A chronicle of Gertrude Bell's life, a traveler, writer, archaeologi
 
 # 2664069
 type=video
-name=The Conjuring 2
+name=The Conjuring 2 (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/e3lBJCedHnZPfNfmBArKHZXXNC0.jpg
+date=2017-10-18
+URL=https://openload.co/f/GaueWJCZILM/The.Conjuring.2.2016.1080p.BluRay.x264_YTS.AG.mp4
+type=video
+name=The Conjuring 2 (2016) TH
 thumb=http://image.tmdb.org/t/p/w500/e3lBJCedHnZPfNfmBArKHZXXNC0.jpg
 URL=https://openload.co/f/Rbtl54mXZqw/The_Conjuring_2_%282016%29_%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9C%E0%B8%B5_2
 player=default

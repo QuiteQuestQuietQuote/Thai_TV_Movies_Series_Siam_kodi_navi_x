@@ -196,7 +196,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-10-17
+date=2017-10-18
 URL=
 
 
@@ -205,7 +205,11 @@ URL=
 
 
 
-
+type=video
+name=The Wilde Wedding (2017) ENG dvdrip.x264-wide
+thumb=https://image.tmdb.org/t/p/w640/wE9tcRTZ3OCTz2LjGaNxFHZnDLJ.jpg
+date=2017-10-18
+URL=https://openload.co/f/vFtshTJHqNg/the.wilde.wedding.2017.dvdrip.x264-wide.mkv.mp4
 
 type=video
 name=A Very Sordid Wedding (2017) ENG HDRip.XviD.AC3-EVO
@@ -407,10 +411,10 @@ date=2017-10-03
 URL=https://openload.co/f/cPeZGpx2cOM/Nails.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
-name=Landline (2017) ENG HDRip.XviD.AC3-EVO
+name=Landline (2017) ENG DVDRip.x264-PSYCHD MKV
 thumb=https://image.tmdb.org/t/p/w640/p7RVsyi67S95RyNJjX99E1MaOsA.jpg
-date=2017-10-03
-URL=https://openload.co/f/XWT35nOc-Ck/Landline_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+date=2017-10-18
+URL=https://openload.co/f/AuZ_RdmW1Us/Landline.2017.DVDRip.x264-PSYCHD.mkv
 
 type=video
 name=Super Dark Times (2017) ENG HDRip.XviD.AC3-EVO
@@ -424,11 +428,7 @@ thumb=https://image.tmdb.org/t/p/w640/7Z5hfRmasEUeypPczBjW92GzMgb.jpg
 date=2017-10-03
 URL=https://openload.co/f/bZOKMzdGzUs/Daphne_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=Maudie (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/wu9RPdV0uEemFEewJQ6fWwJ9ZcU.jpg
-date=2017-10-03
-URL=https://openload.co/f/BlLQGW-OJyc/Maudie_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=An Ordinary Man (2017) ENG WEB-DL.H264.AC3-EVO
@@ -785,7 +785,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-17
+date=2017-10-18
 URL=
 
 
@@ -793,7 +793,17 @@ URL=
 
 
 
+type=video
+name=Manifesto (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/8LY48gQbMI3wTYCSogxsPd6oS6G.jpg
+date=2017-10-18
+URL=https://openload.co/f/NVYif59ZXHM/manifesto.2015.1080p.bluray.x264-brmp.mkv.mp4
 
+type=video
+name=Maudie (2017) ENG [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/wu9RPdV0uEemFEewJQ6fWwJ9ZcU.jpg
+date=2017-10-18
+URL=https://openload.co/f/J7cd6_Al-Z0/Maudie.2016.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
 name=Sun Choke (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1395,12 +1405,19 @@ URL=https://openload.co/f/TOeMLlMyofc/The_LEGO_Ninjago_Movie_%282017%29%E0%B9%80
 
 
 
-
 type=video
-name=The Foreigner (2017) TH CAM
+name=The Foreigner (2017) ENG Hardcoded.CAM.H264.AC3-NoGRP MKV
+thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
+date=2017-10-18
+URL=https://openload.co/f/a858rraLqcg/The.Foreigner.2017.Hardcoded.CAM.H264.AC3-NoGRP
+#https://openload.co/f/-MrqwxOfRow/The.Foreigner.2017.CAM.H264.AC3-NoGRP.mkv
+#https://openload.co/f/_3n4kc7SkNQ/The_Foreigner_%282017%29_ENGLISH_CAM-H264-AC3-Zit.mkv.mp4
+type=video
+name=The Foreigner (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
 date=2017-10-10
 URL=https://openload.co/f/xnQIzCCvlFQ/The_Foreigner_%282017%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
 
 type=video
 name=Paradox (2017) TH CAM
