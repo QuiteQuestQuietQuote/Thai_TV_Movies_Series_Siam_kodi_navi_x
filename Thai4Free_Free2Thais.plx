@@ -58,6 +58,14 @@ player=default
 rating=-1.00
 description=Before using download, must install youtube-dl Control (install from repo > kodi add-on repo > program add-ons > youtube-dl control)/description
 
+type=video
+name=[COLOR=FFFF5733](install from repo > kodi add-on repo > program add-ons > youtube-dl control)[/COLOR]
+thumb=https://superrepo.org/static/images/icons/original/xscript.module.youtube.dl.png.pagespeed.ic.Ekbm5iK2S_.png
+URL=
+player=default
+rating=-1.00
+description=Before using download, must install youtube-dl Control (install from repo > kodi add-on repo > program add-ons > youtube-dl control)/description
+
 type=script
 name=
 thumb=

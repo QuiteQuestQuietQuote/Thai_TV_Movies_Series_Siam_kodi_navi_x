@@ -78,6 +78,10 @@ description=After his career is destroyed, a brilliant but arrogant surgeon gets
 
 # 2745769
 type=video
+name=The Accountant (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/afhAUuWVB7k7PjJUd4lwO3rzhSq.jpg
+URL=https://www.blazefile.co/embed-s526hj1lj62k.html
+type=video
 name=The Accountant
 thumb=http://image.tmdb.org/t/p/w500/afhAUuWVB7k7PjJUd4lwO3rzhSq.jpg
 URL=https://openload.co/f/oHtWRyut-u4/%7BMINI_Super-HQ%7D_The.Accountant.2016.1080p.BrRip.DTS.x264.THB_NongZEZA%40CtHts.mkv.mp4
@@ -96,6 +100,10 @@ description=Jack Reacher must uncover the truth behind a major government conspi
 
 # 2745349
 type=video
+name=Max Steel (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/inFoGkUfzg56iuTBVDifzTq7jVx.jpg
+URL=https://www.blazefile.co/embed-jh4uydlw9t1q.html
+type=video
 name=Max Steel
 thumb=http://image.tmdb.org/t/p/w500/inFoGkUfzg56iuTBVDifzTq7jVx.jpg
 URL=https://openload.co/f/UDqm2adVo1s/%5BTH%5DMax_Steel_2016
@@ -104,6 +112,10 @@ rating=-1.00
 description=The adventures of teenager Max McGrath and alien companion Steel, who must harness and combine their tremendous new powers to evolve into the turbo-charged superhero Max Steel./description
 
 # 2730348
+type=video
+name=Storks (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/5qVD5TD1CiALR5vUsMzh2BschVU.jpg
+URL=https://www.blazefile.co/embed-bryhi1uvv139.html
 type=video
 name=Storks
 thumb=http://image.tmdb.org/t/p/w500/5qVD5TD1CiALR5vUsMzh2BschVU.jpg
@@ -141,6 +153,10 @@ description=Suk-gyu is desperately looking for his runaway daughter. He spares n
 
 # 2742040
 type=video
+name=The Magnificent Seven (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/cparcxTFuHdlSOP3MJOpN7Ec9NB.jpg
+URL=https://www.blazefile.co/embed-h7hp0nl2dfcw.html
+type=video
 name=The Magnificent Seven
 thumb=http://image.tmdb.org/t/p/w500/cparcxTFuHdlSOP3MJOpN7Ec9NB.jpg
 URL=https://openload.co/f/u5I3sYka6pU/%5BTH%5DThe_Magnificent_Seven_2016
@@ -177,6 +193,10 @@ description=Based on the 16th-century Chinese novel Feng Shen Yan Yi (The Invest
 
 # 2696046
 type=video
+name=Mechanic 2- Resurrection (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/tgfRDJs5PFW20Aoh1orEzuxW8cN.jpg
+URL=https://www.blazefile.co/embed-m1qgi4e11dsk.html
+type=video
 name=Mechanic 2- Resurrection
 thumb=http://image.tmdb.org/t/p/w500/tgfRDJs5PFW20Aoh1orEzuxW8cN.jpg
 URL=https://openload.co/f/Nfwf6TpzEHs/%7BMINI_Super-HQ%7D_Mechanic.Resurrection.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
@@ -185,6 +205,10 @@ rating=-1.00
 description=Arthur Bishop thought he had put his murderous past behind him when his most formidable foe kidnaps the love of his life. Now he is forced to travel the globe to complete three impossible assassinations, and do what he does best, make them look like accidents./description
 
 # 2696047
+type=video
+name=Pete s Dragon (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/e9Rzr8Hhu3pqdJtdDLC52PerLk1.jpg
+URL=https://www.blazefile.co/embed-ayvnup6eu376.html
 type=video
 name=Pete s Dragon
 thumb=http://image.tmdb.org/t/p/w500/e9Rzr8Hhu3pqdJtdDLC52PerLk1.jpg
@@ -348,6 +372,10 @@ rating=-1.00
 description=A team of highly skilled Navy SEALS find themselves embarking on the battle of their lives when they come face-to-face with the undead. After a deadly outbreak occurs in New Orleans, the SEALS must fight for their lives, and the city, against an army of zombies./description
 
 # 2745720
+type=video
+name=Bad Moms (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/3S7V2Jd2G61LltoCsYUj4GwON5p.jpg
+URL=https://www.blazefile.co/embed-etq3f8ff543b.html
 type=video
 name=Bad Moms
 thumb=http://image.tmdb.org/t/p/w500/3S7V2Jd2G61LltoCsYUj4GwON5p.jpg
@@ -571,6 +599,10 @@ rating=-1.00
 description=Abby and Rebecca Powell haven't seen each other since a traumatic event in their youth ripped them apart. Reunited for the first time in over a decade, the sisters take a trip to spread their mother's ashes at a secluded lake. As the sisters reconnect and try to heal old wounds, something waits in the nearby woods. A strange object, made not by the hands of man, beckons them to it. As they begin to try and unlock its secrets, Abby is plagued by nightmares of an alien presence that seem all too real. Little do the sisters realize that this object is actually a device, one with a purpose too horrible to comprehend. As the events of the past and the present begin to merge, new discoveries will threaten to tear apart their newly reformed family, and the inhuman creators of the device will attempt to finish a terrible experiment begun years before./description
 
 # 2660921
+type=video
+name=Ice Age 5: Collision Course (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/1ZQVHkvOegv5wVzxD2fphcxl1Ba.jpg
+URL=https://www.blazefile.co/embed-9hv2mahysb0v.html
 type=video
 name=Ice Age 5: Collision Course
 thumb=http://image.tmdb.org/t/p/w500/1ZQVHkvOegv5wVzxD2fphcxl1Ba.jpg

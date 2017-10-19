@@ -143,6 +143,10 @@ description=Akira (Hayato Ichihara) admires Genyo Kamiura who is the most powerf
 
 # 2772460
 type=video
+name=Monster Trucks (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/2Vr47xEcWIik5qnaNjSVCKx1REm.jpg
+URL=https://www.blazefile.co/embed-0vg1y8fq5rmf.html
+type=video
 name=Monster Trucks (2016)
 thumb=http://image.tmdb.org/t/p/w500/2Vr47xEcWIik5qnaNjSVCKx1REm.jpg
 URL=https://openload.co/f/G-2No6V0Xu4/%7B_Mini-HD_1080p_HQ_%7D_Monster_Trucks_2016_BluRay_1080p_DTS_x264-Hastaluego_%281%29.mkv.mp4
@@ -196,6 +200,10 @@ rating=-1.00
 description=A group of friends on holiday on an island experiment a new designer drug that makes them lose their ability to control their urges./description
 
 # 2771447
+type=video
+name=Jackie (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/iMkl2Akc1f4CSJCieVwczM4KjZR.jpg
+URL=https://www.blazefile.co/embed-nwwlxgdykk15.html
 type=video
 name=Jackie (2016)
 thumb=http://image.tmdb.org/t/p/w500/iMkl2Akc1f4CSJCieVwczM4KjZR.jpg
@@ -347,6 +355,10 @@ description=Two kids find themselves in the centre of a deadly game of cat and m
 
 # 2769419
 type=video
+name=Miss Sloane (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/lPgISoC37G3E2QEVtSuJ15oYlI.jpg
+URL=https://www.blazefile.co/embed-ku91wyt36np6.html
+type=video
 name=Miss Sloane (2016)
 thumb=http://image.tmdb.org/t/p/w500/lPgISoC37G3E2QEVtSuJ15oYlI.jpg
 URL=https://openload.co/f/i3Ww3rb4MWk/%7BMINI_Super-HQ%7D_Miss.Sloane.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
@@ -365,6 +377,10 @@ description=13 years after the King Injo Revolt, the Chosun Dynasty is attacked 
 
 # 2768678
 type=video
+name=The Light Between Oceans (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/pEFRzXtLmxYNjGd0XqJDHPDFKB2.jpg
+URL=https://www.blazefile.co/embed-rk8ux3tiayup.html
+type=video
 name=The Light Between Oceans (2016)
 thumb=http://image.tmdb.org/t/p/w500/pEFRzXtLmxYNjGd0XqJDHPDFKB2.jpg
 URL=https://openload.co/f/ytJJL69X0wM/%7BMINI_Super-HQ%7D_The.Light.Between.Oceans.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
@@ -382,6 +398,10 @@ rating=-1.00
 description=An animated comedy that features WWE Superstars, providing their own voices while matching up against talking animals./description
 
 # 2768538
+type=video
+name=Why Him? (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/eezFoKz7bXgdbjeieeCYJFXPKSu.jpg
+URL=https://www.blazefile.co/embed-a5ut8949n472.html
 type=video
 name=Why Him? (2016)
 thumb=http://image.tmdb.org/t/p/w500/eezFoKz7bXgdbjeieeCYJFXPKSu.jpg

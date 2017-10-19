@@ -55,6 +55,11 @@ URL=https://openload.co/f/agPWg785zZ8/%7BMiniHQ%7D_City.Under.Siege.2010.1080p.D
 
 # 92
 type=video
+name=Kong: Skull Island (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/aoUyphk4nwffrwlZRaOa0eijgpr.jpg
+date=2017-06-26
+URL=https://www.blazefile.co/embed-nkk45hhujxhx.html
+type=video
 name=Kong: Skull Island (2017)
 thumb=http://image.tmdb.org/t/p/w500/aoUyphk4nwffrwlZRaOa0eijgpr.jpg
 date=2017-06-26
@@ -69,6 +74,11 @@ thumb=https://image.tmdb.org/t/p/w640/88qfHWhlOBYXp69277QFhdPYnWf.jpg
 date=2017-06-24
 URL=https://openload.co/f/tssXzaoPs6E/Resident_Evil__Vendetta_%281080p_FULLHD%40siambit_%281%29.mkv.mp4
 
+type=video
+name=Manchester by the Sea (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/e8daDzP0vFOnGyKmve95Yv0D0io.jpg
+date=2017-06-24
+URL=https://www.blazefile.co/embed-nowu2g74u1gf.html
 type=video
 name=Manchester by the Sea (2016)
 thumb=https://image.tmdb.org/t/p/w640/e8daDzP0vFOnGyKmve95Yv0D0io.jpg
@@ -146,6 +156,10 @@ description=A live-action adaptation of Disney's version of the classic 'Beauty 
 
 #80
 type=video
+name=T2 Trainspotting (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/A84pxL5z86KbV9u8GAK2mVOoXK.jpg
+URL=https://www.blazefile.co/embed-yji4lt12og8e.html
+type=video
 name=T2 Trainspotting (2017)
 thumb=http://image.tmdb.org/t/p/w500/A84pxL5z86KbV9u8GAK2mVOoXK.jpg
 URL=https://openload.co/f/KCnNLlb35FU/%7BMINI_Super-HQ%7D_T2.Trainspotting.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
@@ -154,6 +168,10 @@ rating=-1.00
 description=After 20 years abroad, Mark Renton returns to Scotland and reunites with his old friends Sick Boy, Spud, and Begbie./description
 
 # 79
+type=video
+name=Life (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/h2mhfbEBGABSHo2vXG1ECMKAJa7.jpg
+URL=https://www.blazefile.co/embed-qcu6maskaeh6.html
 type=video
 name=Life (2017)
 thumb=http://image.tmdb.org/t/p/w500/h2mhfbEBGABSHo2vXG1ECMKAJa7.jpg
@@ -175,7 +193,7 @@ URL=https://openload.co/f/J7q5Bqa1v_A/Skin_Traffik.mp4
 
 #76
 type=video
-name=Fathers (2016)
+name=Fathers (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/cH1P28amni61EgdA5YETkgjlXh1.jpg
 URL=https://openload.co/f/z3Aq6ivVSy4/Fathers_%282016%29_%E0%B8%9F%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA.mp4
 
@@ -255,6 +273,10 @@ player=default
 rating=-1.00
 
 # 2769628
+type=video
+name=The Space Between Us (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/kwJuEkzMhsKxmu1r6X4U1jZovfj.jpg
+URL=https://www.blazefile.co/embed-abz2m05hsh9b.html
 type=video
 name=The Space Between Us (2017)
 thumb=http://image.tmdb.org/t/p/w500/kwJuEkzMhsKxmu1r6X4U1jZovfj.jpg

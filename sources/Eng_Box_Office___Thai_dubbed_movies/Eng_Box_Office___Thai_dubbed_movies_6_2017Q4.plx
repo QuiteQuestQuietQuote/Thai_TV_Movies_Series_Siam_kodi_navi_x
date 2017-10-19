@@ -585,10 +585,10 @@ date=2017-09-14
 URL=https://openload.co/f/i3T0swVRHpc/AWOL.2016.DVDRip.x264-RedBlade.mkv.mp4
 
 type=video
-name=The Good Catholic (2017) ENG WEB-DL.XviD.AC3-FGT
+name=The Good Catholic (2017) ENG BRRip.XviD.AC3-iFT
 thumb=https://image.tmdb.org/t/p/w640/iPvggWYCZblEG2ldObR6GHmkEjz.jpg
-date=2017-09-08
-URL=https://openload.co/f/fnBC5t378Ow/The.Good.Catholic.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+date=2017-10-19
+URL=https://openload.co/f/66JktCPMeHQ/The_Good_Catholic.2017.BRRip.XviD.AC3-iFT.avi.mp4
 
 
 
@@ -1344,7 +1344,7 @@ rating=-1.00
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=7-Fwbj-BOeyGs51UJDPJyg&username2=0981023365&username=supjFV2u7IkebpGlnSsG&password=mmmmdd4ae2c5980bca3718d5&e=1508432543
+URL=http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=WaPUT_1CiH7N5GA5yq6djA&username2=0999999991&username=99999999999999999999&password=mmmm9b2168f6163a38c4003a&e=1508447328
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD[/COLOR]
@@ -1793,7 +1793,7 @@ type=video
 name=
 thumb=
 date=2017-10-02
-URL=https://mega.nz/#!1uZEBLCZ!U2Odg6BuS_3ukS_3c1wAASaQAeMCwFR_ZifGe9pyMas
+URL=
 
 
 type=video
@@ -2165,8 +2165,8 @@ URL=https://openload.co/f/1S7X9_niZmw/Kidnap.2017.1080p.bluray.x264-VETO.mkv
 type=video
 name=Kidnap (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
-date=2017-10-13
-URL=https://openload.co/f/PSqLFw6IXiY/Kidnap_%282017%29%E0%B8%A5%E0%B9%88%E0%B8%B2_%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+date=2017-10-19
+URL=https://openload.co/f/WJYHI55enfw/Kidnap_%282017%29%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
 
 
 type=video
@@ -2189,8 +2189,8 @@ URL=https://openload.co/f/5K51BRttEIU/The_Monster_%282016%29%E0%B8%AD%E0%B8%B0%E
 type=video
 name=Let's Go, Jets! (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/heL1ydkUCetltzr0ZrfqDhZiN4Q.jpg
-date=2017-10-13
-URL=https://openload.co/f/Iie2TdIrNF8/Let%27s_Go%2C_Jets%21_%282017%29%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%A5_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
+date=2017-10-19
+URL=https://openload.co/f/5rymHO5HkZk/Let%27s_Go%2C_Jets%21_%282017%29%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%A5_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
 
 type=video
 name=Shut In (2016) TH

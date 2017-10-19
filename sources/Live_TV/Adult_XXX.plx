@@ -42,7 +42,7 @@ date=2017-10-13
 URL=http://edge2.everyon.tv:1935/etv2sb/pld499/chunklist_w53883286.m3u8
 
 type=video
-name=Penthouse Asia  
+name=Penthouse
 thumb=http://incesto.co/wp-content/uploads/2016/01/xxx-incesto.jpg  
 date=2017-07-17
 URL=http://185.53.163.216:33112

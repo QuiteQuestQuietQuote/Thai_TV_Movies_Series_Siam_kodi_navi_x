@@ -360,6 +360,11 @@ date=2017-08-30
 URL=https://openload.co/f/UiPcdoyM3mk/%7BMINI_Super-HQ%7D_Mojave.2015.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 type=video
+name=Bleed for This (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/2mfT0WQ98TVWnSsVStHJEBgQi8p.jpg
+date=2017-08-29
+URL=https://www.blazefile.co/embed-611n6rhp3qqi.html
+type=video
 name=Bleed for This (2016)
 thumb=https://image.tmdb.org/t/p/w640/2mfT0WQ98TVWnSsVStHJEBgQi8p.jpg
 date=2017-08-29
@@ -576,7 +581,6 @@ URL=https://streamango.com/f/elnqbqnqodrapqpa/_From_Bangkok_to_Mandalay_mp4
 
 
 
-
 type=video
 name=A Hologram for the King (2016)
 thumb=https://image.tmdb.org/t/p/w640/dDHJBd2iv7KTDzI7ybNLs31vvkM.jpg
@@ -645,6 +649,11 @@ URL=https://openload.co/f/KbWXl01KqVU/Going.in.Style.2017.720p.BluRay.x264_By_Me
 
 # 110
 type=video
+name=The Fate of the Furious (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/iNpz2DgTsTMPaDRZq2tnbqjL2vF.jpg
+date=2017-08-04
+URL=https://www.blazefile.co/embed-ci7d8cufn5kl.html
+type=video
 name=The Fate of the Furious (2017)
 thumb=http://image.tmdb.org/t/p/w500/iNpz2DgTsTMPaDRZq2tnbqjL2vF.jpg
 date=2017-08-04
@@ -654,6 +663,11 @@ rating=-1.00
 description=When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before./description
 
 # 109
+type=video
+name=The Boss Baby (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/unPB1iyEeTBcKiLg8W083rlViFH.jpg
+date=2017-07-15
+URL=https://www.blazefile.co/embed-fizy193rxlmy.html
 type=video
 name=The Boss Baby (2017)
 thumb=http://image.tmdb.org/t/p/w500/unPB1iyEeTBcKiLg8W083rlViFH.jpg
@@ -724,6 +738,11 @@ rating=-1.00
 description=After suffering a family tragedy, Mack Phillips spirals into a deep depression causing him to question his innermost beliefs. Facing a crisis of faith, he receives a mysterious letter urging him to an abandoned shack deep in the Oregon wilderness. Despite his doubts, Mack journeys to the shack and encounters an enigmatic trio of strangers led by a woman named Papa. Through this meeting, Mack finds important truths that will transform his understanding of his tragedy and change his life forever./description
 
 # 98
+type=video
+name=Power Rangers (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg
+date=2017-07-06
+URL=https://www.blazefile.co/embed-ms1she12su1j.html
 type=video
 name=Power Rangers (2017)
 thumb=http://image.tmdb.org/t/p/w500/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg

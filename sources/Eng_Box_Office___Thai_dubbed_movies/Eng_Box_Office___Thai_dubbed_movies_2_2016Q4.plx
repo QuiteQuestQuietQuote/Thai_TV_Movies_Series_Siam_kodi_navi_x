@@ -151,7 +151,7 @@ URL=
 
 # 2772901
 type=video
-name=A Dog's Purpose (2017) SUB
+name=A Dog's Purpose (2017) SUB 
 thumb=http://image.tmdb.org/t/p/w500/vKSRUwwknhFzY1HRBr0iYc55pVu.jpg
 URL=https://openload.co/f/6gvseO84Iew/A_Dog%27s_Purpose_%282017%29_%E0%B8%AB%E0%B8%A1%E0%B8%B2_%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2_%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%A1.flv.mp4
 player=default
@@ -282,6 +282,10 @@ URL=
 
 # 2771106
 type=video
+name=The Founder (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/fxvlzT7yyKiZneTDPwk85BSw1JF.jpg
+URL=https://www.blazefile.co/embed-s01b6nipccq7.html
+type=video
 name=The Founder (2016)
 thumb=http://image.tmdb.org/t/p/w500/fxvlzT7yyKiZneTDPwk85BSw1JF.jpg
 URL=https://openload.co/f/Ug8w-OQSoRA/%7BMINI_Super-HQ%7D_The.Founder.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
@@ -299,6 +303,11 @@ rating=-1.00
 description=Undercover Las Vegas police officer Vincent Downs is caught in a high stakes web of corrupt cops and the mob-controlled casino underground. When a heist goes wrong, a crew of homicidal gangsters kidnaps Downs‚?? teenage son. In one sleepless night he will have to rescue his son, evade an internal affairs investigation and bring the kidnappers to justice./description
 
 # 2763234
+type=video
+name=Hacksaw Ridge (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/bndiUFfJxNd2fYx8XO610L9a07m.jpg
+date=2017-07-21
+URL=https://www.blazefile.co/embed-rv0ac6refour.html
 type=video
 name=Hacksaw Ridge (2016)
 thumb=https://image.tmdb.org/t/p/w640/bndiUFfJxNd2fYx8XO610L9a07m.jpg
@@ -351,6 +360,10 @@ description=Chinese narco-cops take their mission to the Golden Triangle followi
 
 # 2764316
 type=video
+name=The Lego Batman Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/1pHOqpdCYNmtRVJs6pGKQKttrPm.jpg
+URL=https://www.blazefile.co/embed-g32f16zcufnk.html
+type=video
 name=The Lego Batman Movie (2017)
 thumb=http://image.tmdb.org/t/p/w500/1pHOqpdCYNmtRVJs6pGKQKttrPm.jpg
 URL=https://openload.co/f/PM7xucB9stA/The.LEGO.Batman.Movie.2017.1080p.WEB-DL.AC3.x264_NongZEZA%40CtHts.mkv.mp4
@@ -359,6 +372,10 @@ rating=-1.00
 description=In the irreverent spirit of fun that made ‚??The LEGO¬Æ Movie‚?ù a worldwide phenomenon, the self-described leading man of that ensemble ‚?? LEGO Batman ‚?? stars in his own big-screen adventure. But there are big changes brewing in Gotham, and if he wants to save the city from The Joker‚??s hostile takeover, Batman may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up./description
 
 # 2766014
+type=video
+name=A Cure for Wellness (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/byeTgTgG7M1RN2c7njWWIkSkNig.jpg
+URL=https://www.blazefile.co/embed-en0wvi00ksx2.html
 type=video
 name=A Cure for Wellness (2016)
 thumb=http://image.tmdb.org/t/p/w500/byeTgTgG7M1RN2c7njWWIkSkNig.jpg
@@ -393,7 +410,11 @@ description=When a wounded Christian Grey tries to entice a cautious Ana Steele 
 
 # 2773193
 type=video
-name=Ballerina (2016)
+name=Ballerina (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/60ZhK1FstSkC9Ms8lRWaTPm55kD.jpg
+URL=https://www.blazefile.co/embed-qn93phd8i9yz.html
+type=video
+name=Ballerina (2016) 
 thumb=http://image.tmdb.org/t/p/w500/60ZhK1FstSkC9Ms8lRWaTPm55kD.jpg
 URL=https://openload.co/f/tIvtYrDNNA0/%7BMINI_Super-HQ%7D_Ballerina.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 player=default
@@ -420,6 +441,10 @@ description=Tang Monk brings three disciples on a journey to the West. On the ou
 
 # 2761961
 type=video
+name=Lion (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/aOJVMCL2EsNeTG7bC3MAjKIiQPE.jpg
+URL=https://www.blazefile.co/embed-52ek2p4l0lxo.html
+type=video
 name=Lion (2016)
 thumb=http://image.tmdb.org/t/p/w500/aOJVMCL2EsNeTG7bC3MAjKIiQPE.jpg
 URL=https://openload.co/f/r_VSWY6NUQ8/%7BMINI_Super-HQ%7D_Lion.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
@@ -438,6 +463,11 @@ description=Based on the international best selling book. The true feel good sto
 
 # 2776073
 type=video
+name=La La Land (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/ylXCdC106IKiarftHkcacasaAcb.jpg
+date=2017-05-09
+URL=https://www.blazefile.co/embed-qycrncfl3skc.html
+type=video
 name=La La Land (2016)
 thumb=http://image.tmdb.org/t/p/w500/ylXCdC106IKiarftHkcacasaAcb.jpg
 date=2017-05-09
@@ -447,6 +477,11 @@ rating=-1.00
 description=Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart./description
 
 # 2775795
+type=video
+name=xXx: Return of Xander Cage (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/yNsdyNbQqaKN0TQxkHMws2KLTJ6.jpg
+date=2017-05-07
+URL=https://www.blazefile.co/embed-1cdnd28vsqrj.html
 type=video
 name=xXx: Return of Xander Cage (2017)
 thumb=http://image.tmdb.org/t/p/w500/yNsdyNbQqaKN0TQxkHMws2KLTJ6.jpg
@@ -502,6 +537,10 @@ description=The tender, heartbreaking story of a young man‚??s struggle to find 
 
 # 2773074
 type=video
+name=Resident Evil: The Final Chapter (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/7XlaaMzQUz5EqTY0m07hn3PbGu7.jpg
+URL=https://www.blazefile.co/embed-7vvx1z023cbz.html
+type=video
 name=Resident Evil: The Final Chapter (2016)
 thumb=http://image.tmdb.org/t/p/w500/7XlaaMzQUz5EqTY0m07hn3PbGu7.jpg
 URL=https://openload.co/f/7jBFdqedS0M/Resident_Evil_6_The_Final_Chapter_%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%B5%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B0_2016.mkv.mp4
@@ -511,6 +550,10 @@ description=Picking up immediately after the events in Resident Evil: Retributio
 
 # 2771745
 type=video
+name=Snowden (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/mWOotrG1MMKP9iCy2uPepbu27jk.jpg
+URL=https://www.blazefile.co/embed-u93bdfz54q8m.html
+type=video
 name=Snowden (2016)
 thumb=http://image.tmdb.org/t/p/w500/mWOotrG1MMKP9iCy2uPepbu27jk.jpg
 URL=https://openload.co/f/7NlkB6_GLQY/Snowden_%282016%29_%E0%B8%AA%E0%B9%82%E0%B8%99%E0%B8%A7%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%99_%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%88%5B%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%5D%5B1080p%5D.mp4
@@ -519,6 +562,10 @@ rating=-1.00
 description=CIA employee Edward Snowden leaks thousands of classified documents to the press./description
 
 # 2771574
+type=video
+name=Live by Night (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/utGq0tOcAPjm5DNMMAbDZi0JTik.jpg
+URL=https://www.blazefile.co/embed-qd1dcucwt2yv.html
 type=video
 name=Live by Night (2016)
 thumb=http://image.tmdb.org/t/p/w500/utGq0tOcAPjm5DNMMAbDZi0JTik.jpg
@@ -547,6 +594,10 @@ description=An account of Boston Police Commissioner Ed Davis's actions in the e
 
 # 2770036
 type=video
+name=Hidden Figures (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/6cbIDZLfwUTmttXTmNi8Mp3Rnmg.jpg
+URL=https://www.blazefile.co/embed-g9vh7rsg7vli.html
+type=video
 name=Hidden Figures (2016)
 thumb=http://image.tmdb.org/t/p/w500/6cbIDZLfwUTmttXTmNi8Mp3Rnmg.jpg
 URL=https://openload.co/f/L0-JykvW8eM/%7BMINI-HQ%7D_Hidden.Figures.2016.1080p.BrRip.AAC.x264.CtHts_-_PORSC.mkv.mp4
@@ -573,6 +624,10 @@ rating=-1.00
 description=Japan is plunged into chaos upon the appearance of a giant monster./description
 
 # 2769539
+type=video
+name=Sing (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/5z4Bj0zUupF7z4VW0REAdso1uxz.jpg
+URL=https://www.blazefile.co/embed-3ck2tm1uprp1.html
 type=video
 name=Sing (2016)
 thumb=http://image.tmdb.org/t/p/w500/5z4Bj0zUupF7z4VW0REAdso1uxz.jpg
@@ -610,7 +665,11 @@ description=Vampire death dealer Selene fends off brutal attacks from both the L
 
 # 2761689
 type=video
-name=Arrival
+name=Arrival (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/hLudzvGfpi6JlwUnsNhXwKKg4j.jpg
+URL=https://www.blazefile.co/embed-hcekvzl544jw.html
+type=video
+name=Arrival (2016) 
 thumb=http://image.tmdb.org/t/p/w500/hLudzvGfpi6JlwUnsNhXwKKg4j.jpg
 URL=https://openload.co/f/djeaki2PH6k/Arrival.2016.1080p.BluRay.DTS.x264_%5BN-Rap%5D_%281%29.mkv.mp4
 player=default
@@ -619,7 +678,7 @@ description=Taking place after alien crafts land around the world, an expert lin
 
 # 2755741
 type=video
-name=The Warrior's Gate
+name=The Warrior's Gate 
 thumb=http://image.tmdb.org/t/p/w500/hlxeOr54kRki0tUi8gKAuwh7niD.jpg
 URL=https://openload.co/f/W4yGyQ4GpbM/The_Warrior_s_Gate_%5B2016%5D_HDRip.H.264.1080p._By_Pond.mkv.mp4
 player=default
@@ -628,7 +687,7 @@ description=A teenager is magically transported to China and learns to convert h
 
 # 2760161
 type=video
-name=Passengers
+name=Passengers 
 thumb=http://image.tmdb.org/t/p/w500/5gJkVIVU7FDp7AfRAbPSvvdbre2.jpg
 URL=https://openload.co/f/NrlJ3Irekus/%7BMINI_Super-HQ%7D_Passengers.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 player=default
@@ -752,7 +811,11 @@ description=The classic story of English POWs in Burma forced to build a bridge 
 
 # 2761817
 type=video
-name=A Monster Calls
+name=A Monster Calls (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/vdHUj9cyRe7fIYdJFMyc7elnawC.jpg
+URL=https://www.blazefile.co/embed-8jqul3aye82x.html
+type=video
+name=A Monster Calls (2016)
 thumb=http://image.tmdb.org/t/p/w500/vdHUj9cyRe7fIYdJFMyc7elnawC.jpg
 URL=https://openload.co/f/qUqogino5jc/A_Monster_Calls-thai.mp4
 player=default
@@ -1004,7 +1067,11 @@ description=Four high school students look to redefine themselves after graduati
 
 # 2753624
 type=video
-name=TROLLS
+name=TROLLS (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/lFjlRJ35j63EuWimj67vqCYzHqY.jpg
+URL=https://www.blazefile.co/embed-ueqvex009ds8.html
+type=video
+name=TROLLS (2016)
 thumb=http://image.tmdb.org/t/p/w500/lFjlRJ35j63EuWimj67vqCYzHqY.jpg
 URL=https://openload.co/f/a3wqjr4XJ2E/Trolls.2016.1080p.BluRay.x264_%5BN-Rap%5D_%281%29.mkv.mp4
 player=default
@@ -1147,7 +1214,11 @@ description=Huo An, the commander of the Protection Squad of the Western Regions
 
 # 2749968
 type=video
-name=INFERNO
+name=INFERNO (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/oFOG2yIRcluKfTtYbzz71Vj9bgz.jpg
+URL=https://www.blazefile.co/embed-q0nklinvgktq.html
+type=video
+name=INFERNO (2016)
 thumb=http://image.tmdb.org/t/p/w500/oFOG2yIRcluKfTtYbzz71Vj9bgz.jpg
 URL=https://openload.co/f/LSeqmC4YKFs/Inferno.2016.1080p.BluRay.H264.THMaster_by_maxViedo_%281%29.mkv.mp4
 player=default
@@ -1417,7 +1488,11 @@ description=The mother of a teenage sociopath who went on a high-school killing 
 
 # 2757283
 type=video
-name=GODDESS OF LOVE
+name=GODDESS OF LOVE (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/4u7RNhPiD3KxLoRBGP0fDh3rbqU.jpg
+URL=https://www.blazefile.co/embed-tu0542kcwva8.html
+type=video
+name=GODDESS OF LOVE (2015)
 thumb=http://image.tmdb.org/t/p/w500/4u7RNhPiD3KxLoRBGP0fDh3rbqU.jpg
 URL=https://openload.co/f/nDcrOCG5Vdc/%7BMINI_Super-HQ%7D_Goddess.of.Love.2015.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 player=default
@@ -1435,7 +1510,11 @@ description=Perfect Answer begins several months after the events of the first f
 
 # 2755740
 type=video
-name=SULLY
+name=SULLY (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/h6O5OE3ueRVdCc7V7cwTiQocI7D.jpg
+URL=https://www.blazefile.co/embed-6942h0vu5o7y.html
+type=video
+name=SULLY (2016)
 thumb=http://image.tmdb.org/t/p/w500/h6O5OE3ueRVdCc7V7cwTiQocI7D.jpg
 URL=https://openload.co/f/VYShiiJYJII/Sully.2016.1080p.BluRay.DTS.x264-ETRG_%5BN-Rap%5D_%281%29.mkv.mp4
 player=default
@@ -1570,7 +1649,11 @@ description=White Vengeance tells the story of two brothers contending for supre
 
 # 2753856
 type=video
-name=MORGAN
+name=MORGAN (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/3no0L0SjRkM4MrbMJ5psBcapWeb.jpg
+URL=https://www.blazefile.co/embed-rjmxh9l4c98d.html
+type=video
+name=MORGAN (2016)
 thumb=http://image.tmdb.org/t/p/w500/3no0L0SjRkM4MrbMJ5psBcapWeb.jpg
 URL=https://openload.co/f/ECkkZdlqVtk/%7BMINI_Super-HQ%7D_Morgan.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 player=default
@@ -1694,6 +1777,10 @@ rating=-1.00
 description=A detective investigates a forgery ring in historical Korea. In the 19th year of Jeonjo‚??s reign, Kim Min, Joseon‚??s top detective, who used to be a King‚??s secret messenger, has been banished to a remote island for some unclear reasons. The only visitors are his old partner, Seo-pil and a young girl, who comes every day to ask him to find her younger sibling. In the meantime, Kim Min happens to hear a rumor that bogus silver bars have been being distributed, which awakens his dormant traits as a detective. Hisako, a beautiful, mysterious woman with her identity unknown, continuously interferes the investigation conducted by this excellent pair of detectives./description
 
 # 2751899
+type=video
+name=WAR DOGS (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/aqhAqttDq7zgsTaBHtCD8wmTk6k.jpg
+URL=https://www.blazefile.co/embed-maulhor80ukr.html
 type=video
 name=WAR DOGS
 thumb=http://image.tmdb.org/t/p/w500/aqhAqttDq7zgsTaBHtCD8wmTk6k.jpg
