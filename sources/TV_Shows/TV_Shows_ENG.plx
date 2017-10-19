@@ -150,6 +150,14 @@ player=default
 rating=-1.00
 
 type=playlist
+name=Stranger Things (2016)
+thumb=https://image.tmdb.org/t/p/w640/esKFbCWAGyUUNshT5HE5BIpvbcL.jpg
+date=2017-10-19
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Stranger_Things.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=Taken (2017)
 thumb=https://image.tmdb.org/t/p/w640/kVLhejtkK1rYDssV186bqQicIm7.jpg
 date=2017-09-18
