@@ -11,7 +11,11 @@ icon=http://media.navixtreme.com/images/icons/2downarrow.png
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/XXX_JAV_18up_XXX.plx?action=sortsel&cur=ord
 
 
-
+type=playlist
+name=Adult_XXX
+thumb=https://i.pinimg.com/736x/4d/43/a8/4d43a8528cd2dc11beff59c90adc3ff5--bunny-logo-bunny-art.jpg 
+date=2017-10-19
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Live_TV/Adult_XXX.plx
 
 
 

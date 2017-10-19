@@ -15,17 +15,32 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
-type=playlist
-name=Thai
-thumb=https://upload.wikimedia.org/wikipedia/en/5/5a/Thai_PBS_logo.png
-date=2017-06-15
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Live_TV/Thai.plx
+
+
 
 type=playlist
 name=News
 thumb=http://www.thaiptv.com/img/cnnlogo.jpg
 date=2017-06-15
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Live_TV/News.plx
+
+type=playlist
+name=Documentary
+thumb=http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old-1024x768.png
+date=2017-06-15
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Live_TV/Documentary.plx
+
+type=playlist
+name=Movies
+thumb=http://www.thaiptv.com/img/movie1logo.png
+date=2017-06-15
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Live_TV/Movies.plx
+
+type=playlist
+name=Thai
+thumb=https://upload.wikimedia.org/wikipedia/en/5/5a/Thai_PBS_logo.png
+date=2017-06-15
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Live_TV/Thai.plx
 
 type=playlist
 name=Sport
@@ -41,21 +56,11 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 type=playlist
 name=Adult_XXX
-thumb=http://incesto.co/wp-content/uploads/2016/01/xxx-incesto.jpg  
+thumb=https://i.pinimg.com/736x/4d/43/a8/4d43a8528cd2dc11beff59c90adc3ff5--bunny-logo-bunny-art.jpg 
 date=2017-07-17
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Live_TV/Adult_XXX.plx
 
-type=playlist
-name=Documentary
-thumb=http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old-1024x768.png
-date=2017-06-15
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Live_TV/Documentary.plx
 
-type=playlist
-name=Movies
-thumb=http://www.thaiptv.com/img/movie1logo.png
-date=2017-06-15
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Live_TV/Movies.plx
 
 
 
@@ -74,7 +79,7 @@ rating=-1.00
 type=video
 name=DW TV_youtube
 thumb=http://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png
-URL=https://youtu.be/XV9mc9sOmDs
+URL=https://youtu.be/DNm82YuLhpo
 player=default
 rating=-1.00
 

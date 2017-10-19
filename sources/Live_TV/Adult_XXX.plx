@@ -1,8 +1,8 @@
 version=1
-background=http://incesto.co/wp-content/uploads/2016/01/xxx-incesto.jpg  
+background=https://i.pinimg.com/736x/4d/43/a8/4d43a8528cd2dc11beff59c90adc3ff5--bunny-logo-bunny-art.jpg 
 title=Adult_XXX
-logo=http://incesto.co/wp-content/uploads/2016/01/xxx-incesto.jpg  
-icon_playlist=http://incesto.co/wp-content/uploads/2016/01/xxx-incesto.jpg  
+logo=https://i.pinimg.com/736x/4d/43/a8/4d43a8528cd2dc11beff59c90adc3ff5--bunny-logo-bunny-art.jpg 
+icon_playlist=https://i.pinimg.com/736x/4d/43/a8/4d43a8528cd2dc11beff59c90adc3ff5--bunny-logo-bunny-art.jpg 
 description=Thanks to iptv/description
 
 type=playlist
@@ -25,7 +25,7 @@ URL=
 
 type=video
 name=honey
-thumb=
+thumb=https://i.pinimg.com/736x/4d/43/a8/4d43a8528cd2dc11beff59c90adc3ff5--bunny-logo-bunny-art.jpg 
 date=2017-10-13
 URL=http://edge1.everyon.tv:1935/etv1sb/pld928/chunklist_w1516450944.m3u8
 
