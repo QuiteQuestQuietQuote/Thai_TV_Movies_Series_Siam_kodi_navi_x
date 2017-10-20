@@ -67,6 +67,121 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=117xxxxxxxxxxxxxxxxxxxxL’empreinte du vice (1999)
+thumb=https://3.bp.blogspot.com/-9WOeR53dY_c/Weg-GRzwIBI/AAAAAAAAMOw/_Uh1Vg6kNeoKv8gEv_d7V5MpnXrDAb5jQCLcBGAs/s1600/6.jpg
+date=2017-10-20
+URL=https://openload.co/f/fLD94-bf5SI/l1.mp4
+
+type=video
+name=Good Day For Sexy Video (2015)
+thumb=https://3.bp.blogspot.com/-Wtg7Sk37TYA/Weg1h9H-KLI/AAAAAAAAMNc/I2MgSThlzssnVuoDSWw9zxoJGfaOfhBBACLcBGAs/s1600/2S.jpg
+date=2017-10-20
+URL=https://openload.co/f/QvUMV5iPZCk/Good_Day_For_Sexy_Video_%282015%29_%5BRev.1%5D
+
+type=video
+name=Lesbian Edge (2013)
+thumb=https://4.bp.blogspot.com/-5aiApm-DO4I/Weg1hoaUD8I/AAAAAAAAMNY/DkzazG_d8sgSukUUNMiodx4y1IxipNz_gCLcBGAs/s1600/2.png
+date=2017-10-20
+URL=https://openload.co/f/5CPIJCtnFRE/Lesbian_Edge_%282013%29_%5BUncut%5D
+
+type=video
+name=My Girls Boy (2006) Part 2
+thumb=https://2.bp.blogspot.com/-Z6-TFYDvEoU/Wegz3Lr7PAI/AAAAAAAAMNM/71xglOte4i0DdyNKdYpcsxGZqPZYQaVFQCLcBGAs/s1600/1ss.png
+date=2017-10-20
+URL=https://openload.co/f/ZNeDXF3BFX4/My_Girls_Boy_2006_Part_2
+
+type=video
+name=My Girl Boy (2006) [Uncut]
+thumb=https://2.bp.blogspot.com/-OODJkEcRmV4/Wegz3OwlCMI/AAAAAAAAMNI/hjJgHZ39jWkhq19OUtlLe0T1t1yuE0G-gCLcBGAs/s1600/1s.png
+date=2017-10-20
+URL=https://openload.co/f/ko8IArf84kY/My_Girl_Boy_%282006%29_%5BUncut%5D
+
+type=video
+name=My Girls Boy (2006) Part 1
+thumb=https://1.bp.blogspot.com/-Ks3NJFokghk/WefnMqjO-cI/AAAAAAAAMMk/p-xy7zDbI7ofEG-ISYSRtw1QsbYoMceYgCLcBGAs/s1600/1ssss.jpg
+date=2017-10-20
+URL=https://openload.co/f/63LaA1b8Rjk/My_Girls_Boy_2006_Part_1
+
+type=video
+name=The End of April (2016)
+thumb=https://1.bp.blogspot.com/-kfhEroVldKg/WefnKmI_pKI/AAAAAAAAMMU/SUWdDsfE9MYvNKbHBvVzwQ3ydEN50TKsgCLcBGAs/s1600/1.jpg
+date=2017-10-20
+URL=https://openload.co/f/NpN4pk5_lfY/The_End_of_April_%282016%29
+
+type=video
+name=Women: Sexual Satisfaction (2017)
+thumb=https://4.bp.blogspot.com/-dPu8nBSv6-Y/WeYhfMwLNiI/AAAAAAAAMKw/XY6ED5SfYpIyIQcE502xAjlOJjyx5q5iACLcBGAs/s1600/1sss.jpg
+date=2017-10-20
+URL=https://openload.co/f/W7uodXi08iI/Women%3A_Sexual_Satisfaction_2017_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Elder Sister And Sister In Law (2016)
+thumb=https://4.bp.blogspot.com/-ThdOgpvOjRI/WeYhfYmrfNI/AAAAAAAAMK4/Yk_5Zgql3aE9U055w4n_TcsM-LYb9R1hgCLcBGAs/s1600/1ss.jpg
+date=2017-10-20
+URL=https://openload.co/f/1CF8gYiqy2w/Elder_Sister_And_Sister_In_Law_2016_UNCUT_HDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Female Prisoner Sigma (2006)
+thumb=https://3.bp.blogspot.com/-xovfJS0egxY/WeYhfQJjOmI/AAAAAAAAMK0/8smJzYtzDyI8x44gXrT_M24c0urHtby1wCLcBGAs/s1600/1s.jpg
+date=2017-10-20
+URL=https://openload.co/f/KarICn84j7E/Female_Prisoner_Sigma_2006_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Exzesse in der Frauenklinik (1978)
+thumb=https://3.bp.blogspot.com/-yU7HuhIv0gA/WeTKxxmMoII/AAAAAAAAMKc/6tgxPaGg3p0vkiqJH2ClTMR1ciPaWDSmQCLcBGAs/s1600/5SSSS.jpg
+date=2017-10-20
+URL=https://openload.co/f/wPXx_b_ksp4/e1.mp4
+
+type=video
+name=Odyssey: The Ultimate Trip (1977)
+thumb=https://2.bp.blogspot.com/-BoAAcu6oUqU/WeTKyuRxgUI/AAAAAAAAMKg/g5gyRz0vUeEgZ_GbyHHTqmgj-5OXxmhAgCLcBGAs/s1600/5SSS.jpg
+date=2017-10-20
+URL=https://openload.co/f/-gpbwGjkIlw/Odyssey%3A_The_Ultimate_Trip_%281977%291.mp4
+
+type=video
+name=Peeping in a Girl’s Dormitory
+thumb=https://2.bp.blogspot.com/-9dNmRcFTepg/WeTKwTAh20I/AAAAAAAAMKU/iE-1kUllf-018q9tlCnXqW7yknjTSBqPQCLcBGAs/s1600/5SS.jpg
+date=2017-10-20
+URL=https://openload.co/f/yPGEjwu1XQs/Peeping_in_a_Girl%27s_Dormitory.avi.mp4
+
+type=video
+name=The Cocktail Hostesses (1973)
+thumb=https://1.bp.blogspot.com/-CzTfXi8MW5U/WeTKw_hzudI/AAAAAAAAMKY/Z1hk-tf5yjIpfMVsJ-0is8RcWAv_9aejwCLcBGAs/s1600/5S.jpg
+date=2017-10-20
+URL=https://openload.co/f/FdD_tR6E6-Y/The_Cocktail_Hostesses_%281973%291.mp4
+
+type=video
+name=Nuda per Satana (1974)
+thumb=https://1.bp.blogspot.com/-RU73eukoFTA/WeTKwANrZ0I/AAAAAAAAMKQ/PzB69jsF5wQggW4cVwURErAYGCB0dvZXgCLcBGAs/s1600/5.jpg
+date=2017-10-20
+URL=https://openload.co/f/9LnOb1-FnD4/Nuda_per_Satana_%281974%291.mp4
+
+type=video
+name=My Wife Got Married (2008)
+thumb=https://3.bp.blogspot.com/-IU7YKnJ7C1o/WeTGh4ZxV3I/AAAAAAAAMJQ/etZLfbb2yO4ma8EZ98h2Q6lHLxYB17JFACLcBGAs/s1600/3.jpg
+date=2017-10-20
+URL=https://openload.co/f/e9LnbYI9M0k/My_Wife_Got_Married_2008_DVDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Bikini Party Massacre (2002)
+thumb=https://3.bp.blogspot.com/-JCt9-pmAZRI/WeTElvdZjeI/AAAAAAAAMIs/uzDtEm2Eq38AbroVdFecmv5jIuiXlOPqwCLcBGAs/s1600/1ss.jpg
+date=2017-10-20
+URL=https://openload.co/f/o4ESEJ6p__E/Bikini_Party_Massacre_2002_DVDRip_%5BLayar-21.com%5D.mp4
+
+
+
+
+
+
+
+
+
 type=video
 name=100xxxxxxxxxxxxxxxxxxxxHvorfor gor de det? (1971)
 thumb=https://2.bp.blogspot.com/-0glSRgvPR0c/WeFa0omBc7I/AAAAAAAAMGw/0p_nyodbl7w4LKG_vyAqjn4_-FGwTtlnQCLcBGAs/s1600/5SS.jpg
