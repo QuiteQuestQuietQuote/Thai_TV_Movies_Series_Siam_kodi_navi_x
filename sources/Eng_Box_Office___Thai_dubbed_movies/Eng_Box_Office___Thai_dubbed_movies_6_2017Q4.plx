@@ -106,7 +106,7 @@ URL=http://entervideo.net/watch/7d9f86e862a5007
 type=video
 name=
 thumb=
-date=2017-10-17
+date=2017-10-20
 URL=
 
 
@@ -115,6 +115,19 @@ URL=
 
 
 
+
+type=video
+name=The Only Living Boy in New York (2017) ENG WEB-DL.x264-FGT
+thumb=https://image.tmdb.org/t/p/w640/8e6Q7N2qJ7utBrf6pyf3EiLADja.jpg
+date=2017-10-20
+URL=https://openload.co/f/OTg3g1vgdG0/The_Only_Living_Boy_in_New_York_%282017%29_%5B1080p%5D_WEB-DL_DD5_1_H264-FGT_mkv_mp4
+#https://openload.co/f/2FIdzfMEsV4/The.Only.Living.Boy.in.New.York.2017.WEB-DL.x264-FGT.mp4
+
+type=video
+name=Jungle (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg
+date=2017-10-20
+URL=https://openload.co/f/qioNwiUuxkM/Jungle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=Swing Away (2017) ENG HDRip.XviD.AC3-EVO
@@ -196,7 +209,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-10-18
+date=2017-10-20
 URL=
 
 
@@ -205,17 +218,41 @@ URL=
 
 
 
+
+
+
+type=video
+name=Wheelman (2017) ENG NF.WEB-DL.DD5.1.x264-NTG
+thumb=https://image.tmdb.org/t/p/w640/yeHRsKOlNDsbEIALS1ve6S42Nl6.jpg
+date=2017-10-20
+URL=https://openload.co/f/tGegywl1H8A/Wheelman.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
+
+type=video
+name=1922 (2017) ENG NF_WEB-DL_DD5_1_x264-NTG
+thumb=https://image.tmdb.org/t/p/w640/rabjJkDcQ1xXfPRD1QAC0pVJoN0.jpg
+date=2017-10-20
+URL=https://openload.co/f/5OKcVu7z1W0/1922_%282017%29_%5B1080p%5D_NF_WEB-DL_DD5_1_x264-NTG_mkv_mp4
+#https://openload.co/f/0BneJL_8LIk/1922.2017.720p.WEBRip.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=Never Here (2017) ENG WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/5CXEnLk3SHI5WXJG97Az1JYRcIu.jpg
+date=2017-10-20
+URL=https://openload.co/f/rHZatbYrz14/Never.Here.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
+type=video
+name=Bad Day for the Cut (2017) ENG WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/QvTi8rFF663o0JvuBGDTyRbnqq.jpg
+date=2017-10-20
+URL=https://openload.co/f/_1C1vqFC744/Bad.Day.for.the.Cut.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 type=video
 name=The Wilde Wedding (2017) ENG dvdrip.x264-wide
 thumb=https://image.tmdb.org/t/p/w640/wE9tcRTZ3OCTz2LjGaNxFHZnDLJ.jpg
 date=2017-10-18
 URL=https://openload.co/f/vFtshTJHqNg/the.wilde.wedding.2017.dvdrip.x264-wide.mkv.mp4
 
-type=video
-name=A Very Sordid Wedding (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/dr0g7skic2Rho6VfyaVPU7Uwntc.jpg
-date=2017-10-17
-URL=https://openload.co/f/Q1UPIIMud5U/A.Very.Sordid.Wedding.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Sex Guaranteed 2017 ENG HDRip XviD AC3-EVO
@@ -224,10 +261,11 @@ date=2017-10-17
 URL=https://openload.co/f/_KK6iPHc4Wg/Sex_Guaranteed_2017_HDRip_XviD_AC3-EVO.avi.mp4
 
 type=video
-name=OtherLife (2017) ENG WEBRip.x264.AC3-FooKaS
+name=OtherLife (2017) ENG webrip.x264-intenso
 thumb=https://image.tmdb.org/t/p/w640/sJUWGjRXJ39ZHG1weQg9hJeFqwK.jpg
-date=2017-10-17
-URL=https://openload.co/f/dIRjDVu0Op4/OtherLife.2017.720p.WEBRip.x264.AC3-FooKaS.mp4
+date=2017-10-20
+URL=https://openload.co/f/hk91A_0nVOs/otherlife.2017.720p.webrip.x264-intenso.mkv.mp4
+#https://openload.co/f/dIRjDVu0Op4/OtherLife.2017.720p.WEBRip.x264.AC3-FooKaS.mp4
 #https://openload.co/f/iHbadePq3tg/OtherLife.2017.NF.WEBRip.x264-CMRG.mp4
 #https://openload.co/f/NudkvHBICKk/OtherLife.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
@@ -285,11 +323,7 @@ date=2017-10-15
 URL=https://openload.co/f/O8gPiFYAZhU/Talon.Falls.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/6RHlB8XBF20/T.F.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=The Adventurers (2017) ENG HC.HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/mZstiRGpFNDNYtyu0QO6hkw7jE7.jpg
-date=2017-10-15
-URL=https://openload.co/f/AeVfXjuOkzg/The.Adventurers.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Freehold (2017) ENG HDRip_XviD_AC3-EVO
@@ -785,13 +819,21 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-18
+date=2017-10-20
 URL=
 
 
 
 
 
+
+
+
+type=video
+name=A Very Sordid Wedding (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/dr0g7skic2Rho6VfyaVPU7Uwntc.jpg
+date=2017-10-20
+URL=https://openload.co/f/F-J41WU_RGo/a.very.sordid.wedding.2017.1080p.bluray.x264-brmp.mkv.mp4
 
 type=video
 name=Manifesto (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -895,8 +937,9 @@ URL=https://openload.co/f/uficU85oMLc/girls_trip.2017.1080p.bluray.x264.rep-mkv.
 type=video
 name=Cage Dive (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/3uUO9eDxHeDREIX77BaQiI88ajp.jpg
-date=2017-10-06
-URL=https://openload.co/f/SZko3M82QEw/Open.Water.3.Cage.Dive.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+date=2017-10-20
+URL=https://openload.co/f/_9YTPj5PITo/Open.Water.3.Cage.Dive.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/SZko3M82QEw/Open.Water.3.Cage.Dive.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
 
 type=video
 name=Killing Hasselhoff (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1317,6 +1360,14 @@ name=The Lure (2015) [COLOR=FF00FF00]POL BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/iwv8xd3bmxCNYZegB5VLpde3ADB.jpg
 date=2017-10-16
 URL=https://openload.co/f/8Zvnt2ZLjV0/the.lure.2015.720p.bluray.x264-killerhd.mkv.mp4
+
+type=video
+name=The Adventurers (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/mZstiRGpFNDNYtyu0QO6hkw7jE7.jpg
+date=2017-10-20
+URL=https://openload.co/f/l3RIDHnszxI/The.Adventurers.2017.CHINESE.720p.BluRay.x264.DD5.1-FGT.mkv.mp4
+
+
 
 
 
@@ -2084,7 +2135,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-16
+date=2017-10-20
 URL=
 
 
@@ -2092,6 +2143,30 @@ URL=
 
 
 
+
+type=video
+name=Napping Princess (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/mlfjgqmmJldRyi35ziR2L6FV0r.jpg
+date=2017-10-20
+URL=https://openload.co/f/VDZN45BVu_4/Napping_Princess_%282017%29%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%9A%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%95%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+
+type=video
+name=Two Is a Family (2016) TH
+thumb=https://image.tmdb.org/t/p/w640/muwaDIv5cLv2Z07CZFWOsL7lYuO.jpg
+date=2017-10-20
+URL=https://openload.co/f/BpKbPNFbtAY/Two_Is_a_Family_%282016%29%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%88_%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99.mp4
+
+type=video
+name=Bitter Harvest (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/n6qOtH7LWsv4UaxAfZ5uQjDnzBE.jpg
+date=2017-10-20
+URL=https://openload.co/f/5i8lGxUeXBM/Bitter_Harvest_%282017%29%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%83%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%9A.mp4
+
+type=video
+name=The Secret (2016) TH
+thumb=https://image.tmdb.org/t/p/w640/iG1l5W0kJoefrheUkCsDzr8n3qe.jpg
+date=2017-10-20
+URL=https://openload.co/f/yCftf4Gf3OU/The_Secret_%282016%29%E0%B8%A3%E0%B8%B1%E0%B8%81...%E0%B9%80%E0%B8%A3%E0%B9%89%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A.mp4
 
 type=video
 name=Alice in Wonderland (1951) TH

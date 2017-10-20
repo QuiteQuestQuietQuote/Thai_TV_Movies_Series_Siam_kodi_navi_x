@@ -107,6 +107,10 @@ description=13 years after the King Injo Revolt, the Chosun Dynasty is attacked 
 
 # 2773072
 type=video
+name=Hacker (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/gpYwKrP6s749b5Nzgm2174jKrpf.jpg
+URL=https://openload.co/f/IVA43O8mh30/Hacker.2016.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+type=video
 name=Hacker (2016)
 thumb=http://image.tmdb.org/t/p/w500/gpYwKrP6s749b5Nzgm2174jKrpf.jpg
 URL=https://openload.co/f/QnNSFj9q4uQ/HACKER.%282016%29_DVD_To_Scale_720p.AC3.x264.SIAMBIT.ME.mkv.mp4

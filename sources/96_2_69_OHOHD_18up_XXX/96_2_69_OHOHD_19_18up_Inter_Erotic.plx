@@ -34,13 +34,24 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
-date=2017-10-18
+date=2017-10-20
 URL=
 
 
   
 
 
+type=video
+name=Belle Époque (1992)
+thumb=https://image.tmdb.org/t/p/w640/rbbLHEalXSLU3xwqvsftn5rol3S.jpg
+date=2017-10-20
+URL=https://openload.co/f/LDUk8wOj0Jg/Belle_Epoque-tt0103791.mp4
+
+type=video
+name=Land (1985)
+thumb=https://image.tmdb.org/t/p/w640/mi4Vn4CFVTV3F0wdqME8ZCpiST6.jpg
+date=2017-10-20
+URL=https://openload.co/f/ZtSQSSTCn8w/Topos-tt0236799.mp4
 
 type=video
 name=Famous T & A (1982)
