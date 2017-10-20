@@ -16,8 +16,8 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 type=playlist
-name=Adult_XXX
-thumb=https://i.pinimg.com/736x/4d/43/a8/4d43a8528cd2dc11beff59c90adc3ff5--bunny-logo-bunny-art.jpg 
+name=[COLOR=FFFF5733]Adult_XXX[/COLOR]
+thumb=https://images-na.ssl-images-amazon.com/images/I/61QtnHpg7bL._SY355_.jpg
 date=2017-10-19
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Live_TV/Adult_XXX.plx
 
