@@ -61,6 +61,284 @@ URL=
 
 
 
+type=video
+name=152xxxxxxxxxxxxxxxxxxxxPACO 050715-408 Morimoto Yoko
+thumb=http://javsex.net/wp-content/uploads/2016/10/188.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/vip-720/557d4884024088456b82138729cacdbd.mp4
+
+type=video
+name=1PONDO 051415-079 Original Drama Collection Erina Sugisaki
+thumb=http://javsex.net/wp-content/uploads/2016/10/171.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/vip-720-mp4-2/bb1609048cf0d847d2c2775dfdb62a8a.mp4
+
+type=video
+name=CARIB 070415-913 Marina Matsumoto, Moeha
+thumb=http://javsex.net/wp-content/uploads/2016/10/190.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/e/vip-720-mp4-002-bitrate/7a4df2a052cf7ebc0fb1f492b2f82fd9.mp4
+
+type=video
+name=HEYZO-0934 Cocky Amateur Learns A Lesson Of Av
+thumb=http://javsex.net/wp-content/uploads/2016/10/153.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/e/vip-720-mp4-002-bitrate/2efde3b510e2bb3d34d49870080178a0.mp4
+
+type=video
+name=1PONDO 052115-083 Drama Collection Rara Unno
+thumb=http://javsex.net/wp-content/uploads/2016/10/172.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/vip-720-mp4-2/e09de904a1789caecf54f3958ecdeb4f.mp4
+
+
+type=video
+name=HEYZO-0922 My Horny Home Tutor
+thumb=http://javsex.net/wp-content/uploads/2016/10/154.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/vip-720/c4d0ae3f8fdbd41c5fe9d55a0ba0075f.mp4
+
+type=video
+name=CARIBPR 071615-277 Mary Hayakawa
+thumb=http://javsex.net/wp-content/uploads/2016/10/173.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/e/vip-ok-p720-1080/f9b6554c9638a90a91844292dd5daba4.mp4
+
+type=video
+name=HEYZO-0923 Anna Anjyo
+thumb=http://javsex.net/wp-content/uploads/2016/10/155.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/e/vip-720-mp4-002-bitrate/01d0c397281bb807492dd8c8c0e9fb88.mp4
+
+type=video
+name=CARIBPR 042415-184 Sara Yurikawa
+thumb=http://javsex.net/wp-content/uploads/2016/10/176.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/e/vip-ok-p720-1080/dc3016c876c2912bf97c5687b6ecc6c8.mp4
+
+type=video
+name=CARIBPR 080715-319 Yuria Mano
+thumb=http://javsex.net/wp-content/uploads/2016/10/156.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3674-stream/d/vip-1080/all/converted/002/f3b39cc9dc407847d874ff16626848e2.mp4
+
+
+type=video
+name=CARIBPR 032715-157 Ai Uehara
+thumb=http://javsex.net/wp-content/uploads/2016/10/177.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/e/vip-720-mp4-002-bitrate/8202a21163c83820a1bfe9d80d9af942.mp4
+
+type=video
+name=10MU 080715-01 Mai Osawa
+thumb=http://javsex.net/wp-content/uploads/2016/10/148.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/71bdee48c9931b943bcd7541bffea3ad.mp4
+
+type=video
+name=10MU 080515-01 Kayama Hiroko
+thumb=http://javsex.net/wp-content/uploads/2016/10/149.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/b9e5c8a9be211f775549abc7bd6a1392.mp4
+
+type=video
+name=10MU 080415-01 Yamamori Emi
+thumb=http://javsex.net/wp-content/uploads/2016/10/150.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/872cdad67906630d2ac2e8b9bfaa6ee1.mp4
+
+
+
+
+
+
+
+
+
+type=video
+name=138xxxxxxxxxxxxxxxxxxxxCARIB 082115-953 Miwa Kimura
+thumb=http://javsex.net/wp-content/uploads/2016/10/145.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/vip-720-mp4-2/5dd54ceff565570b3245d9956a6e8bbe.mp4
+
+type=video
+name=CARIB 081415-947 Kokomi Hoshino
+thumb=http://javsex.net/wp-content/uploads/2016/10/114.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/vip-720-mp4-2/852501cc252a96ca896eb0e8f85bb00f.mp4
+
+type=video
+name=PACO 080415-465 Jumori Kasumi
+thumb=http://javsex.net/wp-content/uploads/2016/10/115.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/e/uncen/002/b320219fb1d9da5d8458a65e6bf8947c.mp4
+
+type=video
+name=CARIBPR 081215-321 Rei Kitajima
+thumb=http://javsex.net/wp-content/uploads/2016/10/116.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/e/uncen/002/19d1ea8b039e0c6e9539013aad6ce180.mp4
+
+type=video
+name=HEYZO-0927 Sex Heaven. Exciting Outdoor Sex
+thumb=http://javsex.net/wp-content/uploads/2016/10/117.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/vip-720/946c3c383e77c5e27d0644a1c1842970.mp4
+
+
+type=video
+name=CARIB 081215-945 Kaori Buki 
+thumb=http://javsex.net/wp-content/uploads/2016/10/118.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/vip-720/4e669c0b4e509a3635a780e21e27ce21.mp4
+
+type=video
+name=PACO 072115-456 Sawano Akemi
+thumb=http://javsex.net/wp-content/uploads/2016/10/119.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/e/uncen/004/f195b82c612e7855663f54b0a569ba24.mp4
+
+type=video
+name=CARIBPR 071615-276 Haruka Aizawa
+thumb=http://javsex.net/wp-content/uploads/2016/10/120.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/vip-720/887da9c13fb67285178f46c50e3f8f34.mp4
+
+type=video
+name=1PONDO 032815-052 Original Drama Collection Sena Suzumori
+thumb=http://javsex.net/wp-content/uploads/2016/10/100.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/vip-720-mp4-2/ef425ec3e27b1d7b6fdab315f7e70935.mp4
+
+type=video
+name=CARIBPR 081315-323 Yuna Hoshizaki
+thumb=http://javsex.net/wp-content/uploads/2016/10/111.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/e/uncen/002/d18e9c6eb08f3329089c26ac7183fcff.mp4
+
+
+type=video
+name=CARIBPR 010115-059 Kotomi Asakura
+thumb=http://javsex.net/wp-content/uploads/2016/10/101.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/e/003/f1eddf91d4593e1e03f0c058f5411c78.mp4
+
+type=video
+name=HEYZO-0926 Rina Uchimura
+thumb=http://javsex.net/wp-content/uploads/2016/10/112.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/e/uncen/002/ca0fdb8dfc0d73e1c68d56201575e1bd.mp4
+
+type=video
+name=CARIBPR 010115-060 Uta Kohaku
+thumb=http://javsex.net/wp-content/uploads/2016/10/102.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/e/003/bb596972e99c43973e910a18885bfb46.mp4
+
+type=video
+name=10MU 081115-01 Ayumi Kana
+thumb=http://javsex.net/wp-content/uploads/2016/10/113.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/aabf66dd8cfce545c235e6fe761d9844.mp4
+
+type=video
+name=CARIB 061015-896 Mei Ashikawa, Aimi Nakanishi
+thumb=http://javsex.net/wp-content/uploads/2016/10/92.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/vip-720/12c7eadc2006fa42ee5750ebe3d03aee.mp4
+
+
+type=video
+name=10MU 073115-01 Yumiko Fujita
+thumb=http://javsex.net/wp-content/uploads/2016/10/151.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/0edce37d193aec1fcf388234f30b60b1.mp4
+
+type=video
+name=CARIB 080215-936 Mari Koizumi
+thumb=http://javsex.net/wp-content/uploads/2016/10/122.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3674-stream/d/vip-1080/all/converted/002/ebf5f9d2927ac20c16abd0aa083721c2.mp4
+
+type=video
+name=MURA 112213-985 Suzaki Rumi 
+thumb=http://javsex.net/wp-content/uploads/2016/10/134.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/vip-720/6ae48f10e16b9c0cf31d628e12083d1d.mp4
+
+type=video
+name=CARIB 072915-932 Mazomasuku
+thumb=http://javsex.net/wp-content/uploads/2016/10/123.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3674-stream/d/vip-1080/all/converted/002/c6b162fc4cc981469d990ebf63171be6.mp4
+
+type=video
+name=CARIB 072415-928 Ryu Enami
+thumb=http://javsex.net/wp-content/uploads/2016/10/135.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/vip-720-mp4-2/58f4b2dbb9f2a6c36e9caa67b20afc82.mp4
+
+
+type=video
+name=CARIB 071715-922 Wakana Yuzuki 
+thumb=http://javsex.net/wp-content/uploads/2016/10/124.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/e/vip-ok-p720-1080/67858a96e29f22f29913c81dc7fc9c1c.mp4
+
+type=video
+name=CARIB 072515-929 Mai Kamio
+thumb=http://javsex.net/wp-content/uploads/2016/10/137.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/vip-720-mp4-2/63b159b5f99cc72ca568be789d367ab6.mp4
+
+type=video
+name=1PONDO 071815-117 Drama Collection Saya Niiyama
+thumb=http://javsex.net/wp-content/uploads/2016/10/125.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/vip-720-mp4-2/c5038ac49b50b16249b9f3683dda93f0.mp4
+
+type=video
+name=10MU 072515-01 Kawakami Nashie 
+thumb=http://javsex.net/wp-content/uploads/2016/10/126.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/e/003/c768cabde5f22e9a0f084703d59da14a.mp4
+
+type=video
+name=CARIB 072615-930 Reika Ichinose, Mio Ozora
+thumb=http://javsex.net/wp-content/uploads/2016/10/128.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/vip-720-mp4-2/fcc0499d813a521090154ec8d5bf23c3.mp4
+
+
+type=video
+name=MURA 072515-260 Yuna Mizuno
+thumb=http://javsex.net/wp-content/uploads/2016/10/129.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/e/vip-ok-p720-1080/93e72f9bc4ec762c38e7c64cd510ae05.mp4
+
+type=video
+name=HEYZO-0913 Marina Aoyama
+thumb=http://javsex.net/wp-content/uploads/2016/10/130.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/e/vip-ok-p720-1080/7cc6e887b653e26eede26a1f40c322a2.mp4
+
+type=video
+name=PACO 050715-408 Morimoto Yoko
+thumb=http://javsex.net/wp-content/uploads/2016/10/131.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/vip-720/557d4884024088456b82138729cacdbd.mp4
+
+type=video
+name=CARIB 072315-927 Ai Uehara
+thumb=http://javsex.net/wp-content/uploads/2016/10/132.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3675-stream/vip-720-mp4-2/90188c62db14232f834c90bd6e0c67d2.mp4
+
+type=video
+name=HEYZO-0914 Hamezo Pov Collection Vol.29
+thumb=http://javsex.net/wp-content/uploads/2016/10/133.jpg
+date=2017-10-21
+URL=http://s001.yamvideo.com/3678-stream/e/vip-ok-p720-1080/1fb120bf3c20a7b12bb966b1273484f9.mp4
 
 
 
