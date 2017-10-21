@@ -222,19 +222,6 @@ URL=
 
 
 type=video
-name=Wheelman (2017) ENG NF.WEB-DL.DD5.1.x264-NTG
-thumb=https://image.tmdb.org/t/p/w640/yeHRsKOlNDsbEIALS1ve6S42Nl6.jpg
-date=2017-10-20
-URL=https://openload.co/f/tGegywl1H8A/Wheelman.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
-
-type=video
-name=1922 (2017) ENG NF_WEB-DL_DD5_1_x264-NTG
-thumb=https://image.tmdb.org/t/p/w640/rabjJkDcQ1xXfPRD1QAC0pVJoN0.jpg
-date=2017-10-20
-URL=https://openload.co/f/5OKcVu7z1W0/1922_%282017%29_%5B1080p%5D_NF_WEB-DL_DD5_1_x264-NTG_mkv_mp4
-#https://openload.co/f/0BneJL_8LIk/1922.2017.720p.WEBRip.XviD.AC3-FGT.avi.mp4
-
-type=video
 name=Never Here (2017) ENG WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/5CXEnLk3SHI5WXJG97Az1JYRcIu.jpg
 date=2017-10-20
@@ -260,14 +247,7 @@ thumb=http://img.rlsbb.ru/images/jN5OgoZ.jpg
 date=2017-10-17
 URL=https://openload.co/f/_KK6iPHc4Wg/Sex_Guaranteed_2017_HDRip_XviD_AC3-EVO.avi.mp4
 
-type=video
-name=OtherLife (2017) ENG webrip.x264-intenso
-thumb=https://image.tmdb.org/t/p/w640/sJUWGjRXJ39ZHG1weQg9hJeFqwK.jpg
-date=2017-10-20
-URL=https://openload.co/f/hk91A_0nVOs/otherlife.2017.720p.webrip.x264-intenso.mkv.mp4
-#https://openload.co/f/dIRjDVu0Op4/OtherLife.2017.720p.WEBRip.x264.AC3-FooKaS.mp4
-#https://openload.co/f/iHbadePq3tg/OtherLife.2017.NF.WEBRip.x264-CMRG.mp4
-#https://openload.co/f/NudkvHBICKk/OtherLife.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Garage Sale Mystery: The Wedding Dress (2015) ENG HDTV.1080p.h264-PLUTONiUM MKV 2.1GB
@@ -1426,7 +1406,11 @@ URL=http://203.162.235.41:17819
 
 
 
-
+type=video
+name=Bad Genius (2017) THCAM
+thumb=https://image.tmdb.org/t/p/w640/mgyvwqn5SYKhfg5kofZDfgH8R0q.jpg
+date=2017-10-21
+URL=https://openload.co/f/epxW0qa85XA/Bad_Genius_%282017%29%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
 type=video
@@ -1442,16 +1426,7 @@ date=2017-10-12
 URL=https://openload.co/f/UUwifxE0sAE/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%94_%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C_2049_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
-type=video
-name=The LEGO Ninjago Movie (2017) ENG HC.HDRip.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
-date=2017-10-13
-URL=https://openload.co/f/u2d0I9ZAq0M/The.Lego.Ninjago.Movie.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-type=video
-name=The LEGO Ninjago Movie (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
-date=2017-10-10
-URL=https://openload.co/f/TOeMLlMyofc/The_LEGO_Ninjago_Movie_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B9%82%E0%B8%81_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
 
 
 
@@ -1537,17 +1512,7 @@ date=2017-08-20
 URL=https://openload.co/f/yHAqwafVlbk/Dunkirk.2017.HD-TS.x264.ThaiRong_CpT%40CtHts.mkv.mp4
 
 
-type=video
-name=Cars 3 (2017) ENG READNFO.1080p.WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
-date=2017-10-15
-URL=https://openload.co/f/V4qbtFxzsBg/Cars.3.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO..mkv.mp4
-#https://openload.co/f/0SJYdj01mVs/Cars.3.2017.720p.WEB-DL.800MB.MkvCage.mkv
-type=video
-name=Cars 3 (2017) TH CAM updated TS
-thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
-date=2017-08-18
-URL=https://player.vimeo.com/video/229810745
+
 
 
 type=video
@@ -1586,12 +1551,56 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-16
+date=2017-10-21
 URL=
 
 
 
 
+
+
+
+
+
+
+type=video
+name=OtherLife (2017) ENG webrip.x264-intenso
+thumb=https://image.tmdb.org/t/p/w640/sJUWGjRXJ39ZHG1weQg9hJeFqwK.jpg
+date=2017-10-20
+URL=https://openload.co/f/hk91A_0nVOs/otherlife.2017.720p.webrip.x264-intenso.mkv.mp4
+#https://openload.co/f/dIRjDVu0Op4/OtherLife.2017.720p.WEBRip.x264.AC3-FooKaS.mp4
+#https://openload.co/f/iHbadePq3tg/OtherLife.2017.NF.WEBRip.x264-CMRG.mp4
+#https://openload.co/f/NudkvHBICKk/OtherLife.2017.HDRip.XviD.AC3-EVO.avi.mp4
+type=video
+name=OtherLife (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/sJUWGjRXJ39ZHG1weQg9hJeFqwK.jpg
+date=2017-10-21
+URL=https://openload.co/f/D0nxKwYWoY0/OtherLife_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
+
+
+type=video
+name=Wheelman (2017) ENG NF.WEB-DL.DD5.1.x264-NTG
+thumb=https://image.tmdb.org/t/p/w640/yeHRsKOlNDsbEIALS1ve6S42Nl6.jpg
+date=2017-10-20
+URL=https://openload.co/f/tGegywl1H8A/Wheelman.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
+type=video
+name=Wheelman (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/yeHRsKOlNDsbEIALS1ve6S42Nl6.jpg
+date=2017-10-21
+URL=https://openload.co/f/QgNS6RWrhio/Wheelman_%282017%29%E0%B8%A7%E0%B8%B5%E0%B8%A5%E0%B9%81%E0%B8%A1%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
+
+
+type=video
+name=1922 (2017) ENG NF_WEB-DL_DD5_1_x264-NTG
+thumb=https://image.tmdb.org/t/p/w640/rabjJkDcQ1xXfPRD1QAC0pVJoN0.jpg
+date=2017-10-20
+URL=https://openload.co/f/5OKcVu7z1W0/1922_%282017%29_%5B1080p%5D_NF_WEB-DL_DD5_1_x264-NTG_mkv_mp4
+#https://openload.co/f/0BneJL_8LIk/1922.2017.720p.WEBRip.XviD.AC3-FGT.avi.mp4
+type=video
+name=1922 (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/rabjJkDcQ1xXfPRD1QAC0pVJoN0.jpg
+date=2017-10-21
+URL=https://openload.co/f/aa0S9330B3c/1922_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
 
 
 type=video
@@ -1850,13 +1859,38 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-03
+date=2017-10-21
 URL=
 
 
 
 
 
+
+
+type=video
+name=The LEGO Ninjago Movie (2017) ENG HC.HDRip.X264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
+date=2017-10-13
+URL=https://openload.co/f/u2d0I9ZAq0M/The.Lego.Ninjago.Movie.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+type=video
+name=The LEGO Ninjago Movie (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
+date=2017-10-21
+URL=https://openload.co/f/QRlE2srV46k/The_LEGO_Ninjago_Movie_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B9%82%E0%B8%81_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+
+
+type=video
+name=Cars 3 (2017) ENG READNFO.1080p.WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
+date=2017-10-15
+URL=https://openload.co/f/V4qbtFxzsBg/Cars.3.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO..mkv.mp4
+#https://openload.co/f/0SJYdj01mVs/Cars.3.2017.720p.WEB-DL.800MB.MkvCage.mkv
+type=video
+name=Cars 3 (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
+date=2017-10-21
+URL=https://openload.co/f/CG946mggADo/Cars_3_%282017%29%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87_%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
 type=video
@@ -2036,21 +2070,7 @@ date=2017-10-10
 URL=https://openload.co/f/9o0qqqC-HkQ/Overdrive_%282017%29%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%84%E0%B8%A1%E0%B8%A5%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
-type=video
-name=The Dark Tower (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 1.8GB
-thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
-date=2017-10-08
-URL=https://openload.co/f/n1NusIGiyd0/The.Dark.Tower.2017.1080p.BRRip.6CH.MkvCage.mkv
-#https://openload.co/f/tTukZj4km4c/the.dark.tower.2017.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/tQtgFEi7_fU/The.Dark.Tower.2017.1080p.BluRay.DTS.x264.mkv.mp4
-#https://openload.co/f/3YbZdgAvTEw/The.Dark.Tower.2017.1080p.BluRay.x264.DTS-SHITBOX.mkv.mp4
-#https://openload.co/f/31m7ICojoic/The.Dark.Tower.2017.1080p.BRRip.6CH.MkvCage.mkv.mp4
-#https://openload.co/f/73tvjUxurNg/The_Dark_Tower_%282017%29_%5B1080p%5D_BluRay_x264_DTS-SHITBOX_mkv_mp4
-type=video
-name=The Dark Tower (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
-date=2017-10-13
-URL=https://openload.co/f/AkB_wNLisSE/The_Dark_Tower_%282017%29%E0%B8%AB%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%A2%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+
 
 
 
@@ -2142,6 +2162,26 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=The Dark Tower (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 1.8GB
+thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
+date=2017-10-08
+URL=https://openload.co/f/n1NusIGiyd0/The.Dark.Tower.2017.1080p.BRRip.6CH.MkvCage.mkv
+#https://openload.co/f/tTukZj4km4c/the.dark.tower.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/tQtgFEi7_fU/The.Dark.Tower.2017.1080p.BluRay.DTS.x264.mkv.mp4
+#https://openload.co/f/3YbZdgAvTEw/The.Dark.Tower.2017.1080p.BluRay.x264.DTS-SHITBOX.mkv.mp4
+#https://openload.co/f/31m7ICojoic/The.Dark.Tower.2017.1080p.BRRip.6CH.MkvCage.mkv.mp4
+#https://openload.co/f/73tvjUxurNg/The_Dark_Tower_%282017%29_%5B1080p%5D_BluRay_x264_DTS-SHITBOX_mkv_mp4
+type=video
+name=The Dark Tower (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
+date=2017-10-21
+URL=https://openload.co/f/lDv0odNCyNk/The_Dark_Tower_%282017%29%E0%B8%AB%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%A2%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC.mp4
 
 
 type=video
