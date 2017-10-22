@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
+background=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_6_2017Q4
-logo=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
+logo=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, sockshare, fmovies, nanamovies./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
+thumb=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -60,7 +60,7 @@ URL=https://www.blazefile.co/embed-4jistmi6ss5f.html
 type=video
 name=
 thumb=
-date=2017-10-08
+date=2017-10-22
 URL=https://www.blazefile.co/embed-ypv3lv0k9ab8.html
 
 
@@ -70,7 +70,11 @@ URL=https://www.blazefile.co/embed-ypv3lv0k9ab8.html
 
 
 
-
+type=video
+name=Happy Death Day (2017) ENG HD-TS_X264_HQ-DADDY
+thumb=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
+date=2017-10-22
+URL=https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
 
 type=video
 name=American Made (2017) ENG HC.HDRip.X264.AC3-EVO
@@ -1885,6 +1889,7 @@ name=Cars 3 (2017) ENG READNFO.1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
 date=2017-10-15
 URL=https://openload.co/f/V4qbtFxzsBg/Cars.3.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO..mkv.mp4
+#https://openload.co/f/kCn5e0JoqMc/Cars.3.2017.WEB-DL.x264-FGT.mp4
 #https://openload.co/f/0SJYdj01mVs/Cars.3.2017.720p.WEB-DL.800MB.MkvCage.mkv
 type=video
 name=Cars 3 (2017) THCAM SOUND
@@ -1952,6 +1957,7 @@ name=Bushwick (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg
 date=2017-10-15
 URL=https://openload.co/f/5Mo7YmqYItA/Bushwick.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/QXzC2b2-FYM/bushwick.2017.720p.bluray.x264-eider.mkv.mp4
 type=video
 name=Bushwick (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg
