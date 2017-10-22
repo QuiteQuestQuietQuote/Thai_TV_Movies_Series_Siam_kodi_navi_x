@@ -1365,17 +1365,17 @@ URL=http://183.88.212.205:8010/play/a02z
 
 # 2771674
 type=video
-name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD[/COLOR]
+name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 date=2017-10-10
-URL=http://183.88.212.205:8010/play/a00u
+URL=http://103.77.116.238:443//hbo_th_720p.stream/playlist.m3u8?st=K3wHd8iRZYxQCAWFUn-yfA&username2=0800000007&username=Vl58aVE11qw9KclwLO8F&password=mmmm453514cdc5e04fcc02e0&e=1508706482
 player=default
 rating=-1.00
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=Rk3tEm_B1-urrUVsyonN8w&username2=0904527857&username=mmmm19f3376b544AAabe&password=mmmm39843b3d543db961b5a4&e=1508623312
+URL=http://103.77.116.238:443//hbo_hits_720p.stream/playlist.m3u8?st=K3wHd8iRZYxQCAWFUn-yfA&username2=0800000007&username=Vl58aVE11qw9KclwLO8F&password=mmmm453514cdc5e04fcc02e0&e=1508706482
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD[/COLOR]
