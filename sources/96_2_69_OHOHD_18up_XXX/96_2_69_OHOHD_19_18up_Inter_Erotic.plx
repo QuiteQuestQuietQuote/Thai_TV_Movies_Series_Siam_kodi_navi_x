@@ -34,12 +34,17 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
-date=2017-10-20
+date=2017-10-22
 URL=
 
 
   
 
+type=video
+name=The Apartment (1996)
+thumb=https://image.tmdb.org/t/p/w640/1sqrQdQTn8jKLhUcPKfRVj639zA.jpg
+date=2017-10-22
+URL=https://openload.co/f/yEAdLibAwCI/The_Apartment_%281996%29.Dvdrip.xvid.mp4
 
 type=video
 name=Belle Époque (1992)
@@ -465,13 +470,15 @@ type=video
 name=The Last Mistress (2007) (B)
 thumb=https://image.tmdb.org/t/p/w640/LFCUWTHJ26TFgkoVcndPLXv1MW.jpg
 date=2017-08-15
-URL=https://openload.co/f/gXaj_7p6dFQ/The.Last.Mistress.DVDRip.XviD_2.B631E.mp4
+URL=http://5dnkdk.mycloud.to/1/DL8WqODCZK0bca4rENPGlg/0/b/t/l/emqpm8/list.m3u8?e=1508713200
+#https://openload.co/f/gXaj_7p6dFQ/The.Last.Mistress.DVDRip.XviD_2.B631E.mp4
 
 type=video
 name=The Last Mistress (2007) (A)
 thumb=https://image.tmdb.org/t/p/w640/LFCUWTHJ26TFgkoVcndPLXv1MW.jpg
 date=2017-08-15
-URL=https://openload.co/f/a82OKC9i3i8/The.Last.Mistress.DVDRip.XviD_1.60F9D.mp4
+URL=http://ldwkdz.mycloud.to/1/0-MnXsfqniAVvs5bebjxog/0/b/t/l/gxj77z/list.m3u8?e=1508713200
+#https://openload.co/f/a82OKC9i3i8/The.Last.Mistress.DVDRip.XviD_1.60F9D.mp4
 
 type=video
 name=Bathory: Countess of Blood (2008)
@@ -484,7 +491,8 @@ type=video
 name=The Fish Child (2009)
 thumb=https://image.tmdb.org/t/p/w640/6qFKaKTZoQVEnYfhWpFe5HZVsS9.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/J6ikQDd4kdNMYedIzGaw42mf4eNMS6ilkFiOL_iGKCxKUKps43RVn6lAw_TX0T-ycyN1NwbujQ=m18?s=ZArN0YdRXfVZ7dI=
+URL=https://oload.stream/embed/hKJZjGQb8eE/
+#https://oload.stream/embed/-iW72vAPhSY/
 
 type=video
 name=Sex and Lucia (2001)
@@ -497,25 +505,27 @@ type=video
 name=House of Tolerance (2011) (A)
 thumb=https://image.tmdb.org/t/p/w640/c3XOHY6yHInLmc9Z9nqubuC1UyE.jpg
 date=2017-08-15
-URL=https://oload.tv/embed/VczyoBZ649k/?autostart=true
+URL=http://5dnkdk.mycloud.to/1/eAe_ovpD7gMGLrMXMExiDg/0/d/h/o/dkkjxr/list.m3u8?e=1508713200
+#https://oload.tv/embed/VczyoBZ649k/?autostart=true
 
 type=video
 name=House of Tolerance (2011) (B)
 thumb=https://image.tmdb.org/t/p/w640/c3XOHY6yHInLmc9Z9nqubuC1UyE.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/cZG0dHSApp3t-3vuV0cHj2TW1DryBSCKnC-O7PpXaQO5NIdkt4t9o7d3SU1qftReypZyEbPYBw=m18?s=ZArN0YdRXfVZ7dI=
+URL=http://9gl3g2.mycloud.to/1/lBXlHspwrT_0kXJMNJGxQQ/0/d/h/o/gxj0lz/list.m3u8?e=1508713200
 
 type=video
 name=The Smell of Us (2014)
 thumb=https://image.tmdb.org/t/p/w640/3x9bcw03A4xJzlmdTqcDOj8WE9m.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/0x-G395_ajIN_EXLTi41Sg7L5k2Dpe_Wy0ZMFFjA3KzdfmBcMrJRDmclobtLY6DvOD3JbaUn=m22?s=ZArN0YdRXfVZ7dI=
+URL=http://8ep4e5.mycloud.to/1/XCAKreDN-QieKGxXk_hrng/0/b/t/s/dkrqn6/list.m3u8?e=1508713200
 
 type=video
 name=Anatomy of Hell (2004)
 thumb=https://image.tmdb.org/t/p/w640/3Paqxno3bGZMazRyFBkKmk5SM5L.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/liZRMrqRhskmHcxhH10U9JibxJRPZrMfx8JcOqLUz0JZamOkrljT6PAdTfki1E_aRdaqEeMdRg=m18?s=ZArN0YdRXfVZ7dI=
+URL=http://ldwkdz.mycloud.to/1/phz9rSbmPG6pe0NkbkjdfQ/0/c/a/o/dkp354/list.m3u8?e=1508713200
+#https://oload.stream/embed/-0T8I-5IpI8/?autostart=true
 
 type=video
 name=Five Times Two (2004)
@@ -527,7 +537,8 @@ type=video
 name=Twentynine Palms (2003)
 thumb=https://image.tmdb.org/t/p/w640/alBCBzJaqgiYD1OWWzTueF1TKs4.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/NtnfCScPGTQX8DVCSTW_sIJUCaxzaqeKAt_9lKwYRNOY9ARQNvg1eZ09WvQOpjmi-4Xi834_EA=m18?s=ZArN0YdRXfVZ7dI=
+URL=http://2go4dr.mycloud.to/1/s9n3Q3ncnR77zu1q0c_OTA/0/b/t/p/yqv7yx/list.m3u8?e=1508713200
+#https://oload.stream/embed/-Dpy9hsgoPk/?autostart=true
 
 type=video
 name=The Beast (1975)
@@ -553,7 +564,8 @@ type=video
 name=Sleeping Beauties (2017)
 thumb=https://image.tmdb.org/t/p/w640/asvkeRwacvjvoUtlGc715tUQlzB.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/RSkuYcaClN8YPT944bW6Cx9xUIOYTnV_7jYm__Vux7S-S5FAvTGwlrYOx4HLp7ol4kxgH2zX4g=m18?s=ZArN0YdRXfVZ7dI=
+URL=http://ldwkdz.mycloud.to/1/wy6H8R7uW02WQz2-r9ITag/0/c/s/b/xr81o3/list.m3u8?e=1508713200
+#https://oload.stream/embed/8Jpl4lJCvB8/?autostart=true
 
 type=video
 name=Honeybunnies (2017)
@@ -586,7 +598,7 @@ type=video
 name=Loving (2017)
 thumb=https://image.tmdb.org/t/p/w640/6uOMVZ6oG00xjq0KQiExRBw2s3P.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/TlQMYPZ5SNAIRZIiIKM-KILKVBB8e22L_Bqry2VaBtcKw-ca50JaLkGZTYut-FSCJcAkHBtTMQ=m22
+URL=https://streamango.com/embed/dkdqlbftotoqssna/
 
 type=video
 name=Below Her Mouth (2017) MKV

@@ -24,7 +24,7 @@ rating=-1.00
 type=video
 name=
 thumb=
-URL=
+URL=https://freeeucache1.streamlive.to/live/z28ie9oqoku4qoy_720.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyA1OjQzOjM1IFBNJmhhc2hfdmFsdWU9VkpHK2R0Y1hwWWtTSnczbnpWWHpKQT09JnZhbGlkbWludXRlcz0xMDAwMDAwJnN0cm1fbGVuPTIw
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -61,7 +61,7 @@ type=video
 name=
 thumb=
 date=2017-10-22
-URL=https://www.blazefile.co/embed-ypv3lv0k9ab8.html
+URL=http://stream.gomo.to/home/movies/tt4024814.mp4
 
 
 
@@ -75,6 +75,12 @@ name=Happy Death Day (2017) ENG HD-TS_X264_HQ-DADDY
 thumb=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
 date=2017-10-22
 URL=https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
+
+type=video
+name=Geostorm (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
+date=2017-10-22
+URL=https://openload.co/f/baYlo5aMRyk/Geostorm_2017_HDCAM_Xvid_AC3_Koshara.E.mp4
 
 type=video
 name=American Made (2017) ENG HC.HDRip.X264.AC3-EVO
@@ -1885,10 +1891,11 @@ URL=https://openload.co/f/QRlE2srV46k/The_LEGO_Ninjago_Movie_%282017%29%E0%B9%80
 
 
 type=video
-name=Cars 3 (2017) ENG READNFO.1080p.WEB-DL.H264.AC3-EVO
+name=Cars 3 (2017) ENG WEB-DL.DD5.1.H264-FGT MKV
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
-date=2017-10-15
-URL=https://openload.co/f/V4qbtFxzsBg/Cars.3.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO..mkv.mp4
+date=2017-10-22
+URL=https://openload.co/f/ngRbnO8x0Ig/Cars.3.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv
+#https://openload.co/f/V4qbtFxzsBg/Cars.3.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO..mkv.mp4
 #https://openload.co/f/kCn5e0JoqMc/Cars.3.2017.WEB-DL.x264-FGT.mp4
 #https://openload.co/f/0SJYdj01mVs/Cars.3.2017.720p.WEB-DL.800MB.MkvCage.mkv
 type=video
