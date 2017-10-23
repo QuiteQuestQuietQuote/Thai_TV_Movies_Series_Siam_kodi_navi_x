@@ -24,7 +24,7 @@ rating=-1.00
 type=video
 name=
 thumb=
-URL=
+URL=https://lh3.googleusercontent.com/W2HWz-Z37Js8euEyeCh0rRQ41KSRZm6ZA0o08maNNKeDkRXXrWnp1OUQwhQ3XbD0dp3R1xlF46da820l3SvXOrfS-oPlk9b1BFLemDVNBfZRcqb-INvj92WRU6_kwMxCXAsXykjlSYM8D7D1JGAkMoz0OQv_I4iUValWJlLymKQouqWbrWgo_r919SZvfLghYyIuTgxgD903XnbHtKGwzyX2HCwtcihGFIKe7GeISOP6DcguPoj2JvviDefxgRnyTWJ1yjPw3RJTAh_MbjKor8D1-Ychw6WQrxidT4MJ58mwptXoejt8LTsqVoVOcHi_0-69Vi1i00wWMbFa8Hc2rbC4gJmqJPRYW6GM0TtriA49_lW-REvbEg1_gkt3AoaTabcQp9NLNvMNBqLgc_PTK9sS9HMF6JSafA9tnzhf0gQQXzwJ4pKnSIXsyjUToHA2h8gw8ro3aPp3RPHIjO4ynLBKygPcxhwJTICYN_bq7sMKkP1RpnP0KYyf63zSxp8c2OJvTbwCXAZ9Rj0oAPdXtE40uhj8jBg0dPmW5pxpVOKHIhZOmzFJOj8FOiXHz2k7ikjDiaqze0GK4huvqaAd9tmNqv5pY6Lfr7oXpZ4wpso=m22
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -35,7 +35,7 @@ type=video
 name=
 thumb=
 date=2017-10-22
-URL=
+URL=https://www.googleapis.com/drive/v3/files/0B1Qx2ZSbvQF0a1BrWmhmWHNHbHM?alt=media&key=AIzaSyBXV3qGJ2rwDaxvUmAzaVpZMmn1t6PyU0E
 
 
   
@@ -470,14 +470,13 @@ type=video
 name=The Last Mistress (2007) (B)
 thumb=https://image.tmdb.org/t/p/w640/LFCUWTHJ26TFgkoVcndPLXv1MW.jpg
 date=2017-08-15
-URL=http://5dnkdk.mycloud.to/1/DL8WqODCZK0bca4rENPGlg/0/b/t/l/emqpm8/list.m3u8?e=1508713200
-#https://openload.co/f/gXaj_7p6dFQ/The.Last.Mistress.DVDRip.XviD_2.B631E.mp4
+URL=https://openload.co/f/gXaj_7p6dFQ/The.Last.Mistress.DVDRip.XviD_2.B631E.mp4
 
 type=video
 name=The Last Mistress (2007) (A)
 thumb=https://image.tmdb.org/t/p/w640/LFCUWTHJ26TFgkoVcndPLXv1MW.jpg
 date=2017-08-15
-URL=http://ldwkdz.mycloud.to/1/0-MnXsfqniAVvs5bebjxog/0/b/t/l/gxj77z/list.m3u8?e=1508713200
+URL=https://srv12.vidzi.tv/hzuqi7pjvu2qedz7njlbxebniyx7iimk64rxhufhy3afdzmlleyt55rckwpa/v.mp4
 #https://openload.co/f/a82OKC9i3i8/The.Last.Mistress.DVDRip.XviD_1.60F9D.mp4
 
 type=video
@@ -505,40 +504,37 @@ type=video
 name=House of Tolerance (2011) (A)
 thumb=https://image.tmdb.org/t/p/w640/c3XOHY6yHInLmc9Z9nqubuC1UyE.jpg
 date=2017-08-15
-URL=http://5dnkdk.mycloud.to/1/eAe_ovpD7gMGLrMXMExiDg/0/d/h/o/dkkjxr/list.m3u8?e=1508713200
-#https://oload.tv/embed/VczyoBZ649k/?autostart=true
+URL=https://oload.tv/embed/VczyoBZ649k/?autostart=true
 
 type=video
 name=House of Tolerance (2011) (B)
 thumb=https://image.tmdb.org/t/p/w640/c3XOHY6yHInLmc9Z9nqubuC1UyE.jpg
 date=2017-08-15
-URL=http://9gl3g2.mycloud.to/1/lBXlHspwrT_0kXJMNJGxQQ/0/d/h/o/gxj0lz/list.m3u8?e=1508713200
+URL=https://oload.stream/embed/87unaXO2dtk/?autostart=true
 
 type=video
 name=The Smell of Us (2014)
 thumb=https://image.tmdb.org/t/p/w640/3x9bcw03A4xJzlmdTqcDOj8WE9m.jpg
 date=2017-08-15
-URL=http://8ep4e5.mycloud.to/1/XCAKreDN-QieKGxXk_hrng/0/b/t/s/dkrqn6/list.m3u8?e=1508713200
+URL=https://oload.stream/embed/ByYmQNndlJI/?autostart=true
 
 type=video
 name=Anatomy of Hell (2004)
 thumb=https://image.tmdb.org/t/p/w640/3Paqxno3bGZMazRyFBkKmk5SM5L.jpg
 date=2017-08-15
-URL=http://ldwkdz.mycloud.to/1/phz9rSbmPG6pe0NkbkjdfQ/0/c/a/o/dkp354/list.m3u8?e=1508713200
-#https://oload.stream/embed/-0T8I-5IpI8/?autostart=true
+URL=https://oload.stream/embed/-0T8I-5IpI8/?autostart=true
 
 type=video
 name=Five Times Two (2004)
 thumb=https://image.tmdb.org/t/p/w640/6zRdsS1wvQDSFU1c8T1e0mHpG6N.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/nEGaYyiEcSaIx6QachkVDFqfmvozHMxP1_tJLuHiLXlhK28h1VKhdApxEMEO4vOWfGyNvcQeGg=m18?s=ZArN0YdRXfVZ7dI=
+URL=https://oload.stream/embed/b4RJStThY2c/?autostart=true
 
 type=video
 name=Twentynine Palms (2003)
 thumb=https://image.tmdb.org/t/p/w640/alBCBzJaqgiYD1OWWzTueF1TKs4.jpg
 date=2017-08-15
-URL=http://2go4dr.mycloud.to/1/s9n3Q3ncnR77zu1q0c_OTA/0/b/t/p/yqv7yx/list.m3u8?e=1508713200
-#https://oload.stream/embed/-Dpy9hsgoPk/?autostart=true
+URL=https://oload.stream/embed/-Dpy9hsgoPk/?autostart=true
 
 type=video
 name=The Beast (1975)
@@ -564,14 +560,13 @@ type=video
 name=Sleeping Beauties (2017)
 thumb=https://image.tmdb.org/t/p/w640/asvkeRwacvjvoUtlGc715tUQlzB.jpg
 date=2017-08-15
-URL=http://ldwkdz.mycloud.to/1/wy6H8R7uW02WQz2-r9ITag/0/c/s/b/xr81o3/list.m3u8?e=1508713200
-#https://oload.stream/embed/8Jpl4lJCvB8/?autostart=true
+URL=https://oload.stream/embed/8Jpl4lJCvB8/?autostart=true
 
 type=video
 name=Honeybunnies (2017)
 thumb=https://image.tmdb.org/t/p/w640/4DozUOhif8kIvGakuJkDoxwh61N.jpg
 date=2017-08-15
-URL=https://3.bp.blogspot.com/iiZAHXrITi7pJQ8DImWqeqve4ChBH50CNdOHOdwo0tkRj2BNbceRm1_VocBB6APDjVvG1KnFoA=m22?s=ZArN0YdRXfVZ7dI=
+URL=https://streamango.com/embed/doplrlepsbktopsp?c1_file=https://sub.seriesonline.io//honeybunnies/honeybunnies.vtt&c1_label=English
 
 type=video
 name=Darker Shades of Elise (2017)
