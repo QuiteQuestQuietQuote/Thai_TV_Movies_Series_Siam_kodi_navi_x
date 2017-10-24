@@ -60,7 +60,7 @@ URL=https://www.blazefile.co/embed-4jistmi6ss5f.html
 type=video
 name=
 thumb=
-date=2017-10-23
+date=2017-10-24
 URL=
 
 
@@ -68,7 +68,11 @@ URL=
 
 
 
-
+type=video
+name=The Mountain Between Us (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg
+date=2017-10-24
+URL=http://entervideo.net/watch/6412d2d162143cd
 
 type=video
 name=Happy Death Day (2017) ENG HD-TS_X264_HQ-DADDY
@@ -77,22 +81,24 @@ date=2017-10-22
 URL=https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
 
 type=video
-name=Geostorm (2017) RUS
+name=Geostorm (2017) ENG CLEAN_SoundFix_HDCAM_ENG_X264_-_Feel.Free
 thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
-date=2017-10-22
-URL=https://openload.co/f/baYlo5aMRyk/Geostorm_2017_HDCAM_Xvid_AC3_Koshara.E.mp4
+date=2017-10-24
+URL=https://openload.co/f/KoOE2nWVFFk/Geostorm_2017_CLEAN_SoundFix_HDCAM_ENG_X264_-_Feel.Free.mp4
+#https://openload.co/f/r8oWRvUiE7U/Geostorm_2017_HDCAM_ENG_X264-Feel_Free.mkv.mp4
+
+type=video
+name=Brawl in Cell Block 99 (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
+date=2017-10-13
+URL=https://openload.co/f/am4891uFxJ4/Brawl.in.Cell.Block.99.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+#https://openload.co/f/aT6jWYPHnBk/Brawl.in.Cell.Block.99.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=American Made (2017) ENG HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
 date=2017-10-13
 URL=https://openload.co/f/8cEt2bAPp34/American.Made.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-
-type=video
-name=Flatliners (2017) ENG CLEAN_HDCAM_x264_HQ-DADDY
-thumb=https://image.tmdb.org/t/p/w640/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg
-date=2017-10-17
-URL=https://openload.co/f/oZKIj48wu74/Flatliners_2017_CLEAN_HDCAM_x264_HQ-DADDY.mp4
 
 type=video
 name=mother! (2017) ENG HDCAM X264 HQMic-NoGRP
@@ -153,12 +159,7 @@ thumb=https://image.tmdb.org/t/p/w640/vJZs6ABHbCcgjIFcAoPx3qhwXzL.jpg
 date=2017-10-13
 URL=https://openload.co/f/DvzBIzD07rA/The_Meyerowitz_Stories_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=Brawl in Cell Block 99 (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
-date=2017-10-13
-URL=https://openload.co/f/am4891uFxJ4/Brawl.in.Cell.Block.99.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
-#https://openload.co/f/aT6jWYPHnBk/Brawl.in.Cell.Block.99.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+
 
 type=video
 name=6 Below: Miracle on the Mountain (2017) ENG WEB-DL.DD5.1.H264-FGT
@@ -174,10 +175,11 @@ date=2017-10-06
 URL=https://openload.co/f/fkXkBBTTZxM/Walking.Out.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
-name=The Glass Castle (2017) ENG HDCAM.x264_DiRG
+name=The Glass Castle (2017) ENG WEB-DL.XviD.AC3-FGT
 thumb=https://image.tmdb.org/t/p/w640/d5fLQ9ZMa1jZ2mODCv5lOWJDugX.jpg
-date=2017-09-22
-URL=https://openload.co/f/ZW5PgG3496M/The.Glass.Castle.2017.HDCAM.x264_DiRG.mp4
+date=2017-10-24
+URL=https://openload.co/f/WPYVLH0vEjY/The.Glass.Castle.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+#https://openload.co/f/E8CFiWcqCQ8/The.Glass.Castle.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Logan Lucky (2017) ENG TS.x264-CPG
@@ -219,7 +221,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-10-23
+date=2017-10-24
 URL=
 
 
@@ -228,6 +230,43 @@ URL=
 
 
 
+
+
+
+
+
+
+
+type=video
+name=Espionage Tonight (2017) ENG HDRip_XviD_AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/5OT69WVptTe6fEELJmSFQ2oRcqI.jpg
+date=2017-10-24
+URL=https://openload.co/f/ohlpTYnAgls/Espionage_Tonight_2017_HDRip_XviD_AC3-EVO.avi.mp4
+
+type=video
+name=Columbus (2017) ENG WEB-DL.X264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/1YM144vixTdsrCzSmGUjdsRmL4D.jpg
+date=2017-10-24
+URL=https://openload.co/f/yPVfLG-6hkg/Columbus.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/8MhKKUghaYo/Columbus.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Shortwave (2016) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/59S3GHAz8NKPbFv4Sa3KSi4qhMc.jpg
+date=2017-10-24
+URL=https://openload.co/f/4HLGuFV8XFI/Shortwave.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=Creep 2 (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/a0m7WciFnBqpcyH1Yi8i4tdvk0k.jpg
+date=2017-10-24
+URL=https://openload.co/f/vrRM4kviyb0/Creep.2.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Ingrid Goes West (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/3LEyW11onDltXHo0L1X23j9Nnvg.jpg
+date=2017-10-24
+URL=https://openload.co/f/JJ5vaErV9sc/Ingrid.Goes.West.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=Hampstead (2017) ENG WEB-DL.H264.AC3-EVO
@@ -813,7 +852,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-20
+date=2017-10-24
 URL=
 
 
@@ -1411,13 +1450,33 @@ URL=http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?userna
 type=video
 name=
 thumb=
-date=2017-10-08
+date=2017-10-24
 URL=http://203.162.235.41:17819
 
 
 
 
 
+
+
+type=video
+name=The Son of Bigfoot (2017) THCAM
+thumb=https://image.tmdb.org/t/p/w640/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
+date=2017-10-24
+URL=https://openload.co/f/c_tptj0O6iU/The_Son_of_Bigfoot_%282017%29%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81%E0%B8%9F%E0%B8%B8%E0%B8%95_%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%8B%E0%B8%9F%E0%B8%9E%E0%B9%88%E0%B8%AD_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=Flatliners (2017) ENG CAM.NEW.AUDIO.XViD-26k
+thumb=https://image.tmdb.org/t/p/w640/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg
+date=2017-10-24
+URL=https://openload.co/f/QyQfGZ3-a-Q/Flatliners.2017.CAM.NEW.AUDIO.XViD-26k.avi.mp4
+#https://openload.co/f/oZKIj48wu74/Flatliners_2017_CLEAN_HDCAM_x264_HQ-DADDY.mp4
+type=video
+name=Flatliners (2017) THCAM
+thumb=https://image.tmdb.org/t/p/w640/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg
+date=2017-10-24
+URL=https://openload.co/f/idi3AN6X1pk/Flatliners_%282017%29%E0%B8%82%E0%B8%AD%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B9%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -1873,13 +1932,19 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-21
+date=2017-10-24
 URL=
 
 
 
 
 
+
+type=video
+name=Tell Me How I Die (2016) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/6wmeMvPc16Zsioe0M4VHwNXUV59.jpg
+date=2017-10-24
+URL=https://openload.co/f/bPl2nYIbsc0/Tell_Me_How_I_Die_%282016%29%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
 type=video
@@ -1922,10 +1987,11 @@ URL=https://openload.co/f/WTnAgWeC18I/IT.2017.1080p.HC.HDRip.x264.ThaiRong2.0_Cp
 
 
 type=video
-name=Atomic Blonde (2017) ENG HC.HDRip.X264.AC3-EVO
+name=Atomic Blonde (2017) ENG WEB-DL_DD5.1_H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
-date=2017-10-15
-URL=https://openload.co/f/13M5vu6fyBw/Atomic.Blonde.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+date=2017-10-24
+URL=https://openload.co/f/4R-pXnuqC1I/Atomic_Blonde_2017_1080p_WEB-DL_DD5.1_H264-FGT.mkv.mp4
+#https://openload.co/f/13M5vu6fyBw/Atomic.Blonde.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/8UecvL97bCw/Atomic_Blonde_2017_1080p_KORSUB_HDRip_x264_AAC2.0-STUTTERSHIT.mkv.mp4
 #https://openload.co/f/brixtXdous0/Atomic.Blonde.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/Bc3VU_CX4xc/Atomic.Blonde.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
@@ -1990,6 +2056,7 @@ thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
 date=2017-10-12
 URL=https://openload.co/f/x9V80eEiTR8/Annabelle.2.Creation.2017.720p.BluRay.x264-SPARKS.mkv.mp4
 #https://www.blazefile.co/embed-irygfv72plwv.html
+#https://vidnodessl.akamaized.net/246357/19.10/ANNABELLE-%20CREATION.mp4
 type=video
 name=Annabelle: Creation (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
@@ -2174,7 +2241,7 @@ type=video
 name=
 thumb=
 date=2017-10-20
-URL=
+URL=https://vidnodessl.akamaized.net/246357/19.10/ANNABELLE-%20CREATION.mp4
 
 
 

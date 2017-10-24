@@ -34,11 +34,32 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
-date=2017-10-22
+date=2017-10-24
 URL=https://www.googleapis.com/drive/v3/files/0B1Qx2ZSbvQF0a1BrWmhmWHNHbHM?alt=media&key=AIzaSyBXV3qGJ2rwDaxvUmAzaVpZMmn1t6PyU0E
 
 
   
+
+
+
+
+type=video
+name=
+thumb=
+date=2017-10-24
+URL=
+
+type=video
+name=Forever 16 (2013)
+thumb=https://image.tmdb.org/t/p/w640/dKAdbMo2D7TTAF7aZLqOUwpSPsR.jpg
+date=2017-10-24
+URL=http://entervideo.net/watch/358e03454eea035
+
+type=video
+name=Privacy Setting (2013)
+thumb=https://image.tmdb.org/t/p/w640/iZdAcjxNv30WKjj6tOqIWHz4Jpn.jpg
+date=2017-10-24
+URL=http://entervideo.net/watch/05464ebff3b803c
 
 type=video
 name=The Apartment (1996)
@@ -50,7 +71,8 @@ type=video
 name=Belle Époque (1992)
 thumb=https://image.tmdb.org/t/p/w640/rbbLHEalXSLU3xwqvsftn5rol3S.jpg
 date=2017-10-20
-URL=https://openload.co/f/LDUk8wOj0Jg/Belle_Epoque-tt0103791.mp4
+URL=https://openload.co/f/5imoVjlzQA4/Belle_Epoque.1992.720p.BluRay_HC_ENG_SUBS.mp4
+#https://openload.co/f/LDUk8wOj0Jg/Belle_Epoque-tt0103791.mp4
 
 type=video
 name=Land (1985)
@@ -476,8 +498,7 @@ type=video
 name=The Last Mistress (2007) (A)
 thumb=https://image.tmdb.org/t/p/w640/LFCUWTHJ26TFgkoVcndPLXv1MW.jpg
 date=2017-08-15
-URL=https://srv12.vidzi.tv/hzuqi7pjvu2qedz7njlbxebniyx7iimk64rxhufhy3afdzmlleyt55rckwpa/v.mp4
-#https://openload.co/f/a82OKC9i3i8/The.Last.Mistress.DVDRip.XviD_1.60F9D.mp4
+URL=https://openload.co/f/a82OKC9i3i8/The.Last.Mistress.DVDRip.XviD_1.60F9D.mp4
 
 type=video
 name=Bathory: Countess of Blood (2008)
