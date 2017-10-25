@@ -3,7 +3,7 @@ background=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_6_2017Q4
 logo=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
 icon_playlist=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
-description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, sockshare, fmovies, nanamovies./description
+description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, sockshare, fmovies, ganool, nanamovies./description
 
 type=playlist
 name=Sorted by user-assigned order
@@ -130,7 +130,11 @@ URL=
 
 
 
-
+type=video
+name=Home Again (2017) ENG HDCAM_x264-DiRG
+thumb=https://image.tmdb.org/t/p/w640/z5CtCxpblBke2G8c7CMkstedMgY.jpg
+date=2017-10-25
+URL=https://openload.co/f/157M4f23VP0/Home_Again_2017_HDCAM_x264-DiRG.mp4
 
 type=video
 name=The Only Living Boy in New York (2017) ENG WEB-DL.x264-FGT
@@ -221,7 +225,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-10-24
+date=2017-10-25
 URL=
 
 
@@ -235,7 +239,11 @@ URL=
 
 
 
-
+type=video
+name=A Closer Walk with Thee (2017) ENG DVDRip.x264-RedBlade
+thumb=https://image.tmdb.org/t/p/w640/cli8Slwqhxm6ZSUjRcBfyWTFiuJ.jpg
+date=2017-10-25
+URL=https://openload.co/f/hzUAxJiRRus/A.Closer.Walk.With.Thee.2017.DVDRip.x264-RedBlade.mkv.mp4
 
 type=video
 name=Espionage Tonight (2017) ENG HDRip_XviD_AC3-EVO
@@ -262,11 +270,7 @@ thumb=https://image.tmdb.org/t/p/w640/a0m7WciFnBqpcyH1Yi8i4tdvk0k.jpg
 date=2017-10-24
 URL=https://openload.co/f/vrRM4kviyb0/Creep.2.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=Ingrid Goes West (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/3LEyW11onDltXHo0L1X23j9Nnvg.jpg
-date=2017-10-24
-URL=https://openload.co/f/JJ5vaErV9sc/Ingrid.Goes.West.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+
 
 type=video
 name=Hampstead (2017) ENG WEB-DL.H264.AC3-EVO
@@ -1400,7 +1404,11 @@ thumb=https://image.tmdb.org/t/p/w640/mZstiRGpFNDNYtyu0QO6hkw7jE7.jpg
 date=2017-10-20
 URL=https://openload.co/f/l3RIDHnszxI/The.Adventurers.2017.CHINESE.720p.BluRay.x264.DD5.1-FGT.mkv.mp4
 
-
+type=video
+name=Ingrid Goes West (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/3LEyW11onDltXHo0L1X23j9Nnvg.jpg
+date=2017-10-25
+URL=https://openload.co/f/l8ENhc-dVME/Ingrid.Goes.West.2017.720p.BluRay.x264-GECKOS.mkv.mp4
 
 
 
@@ -1587,7 +1595,11 @@ URL=https://openload.co/f/yHAqwafVlbk/Dunkirk.2017.HD-TS.x264.ThaiRong_CpT%40CtH
 
 
 
-
+type=video
+name=Birth of the Dragon (2017) ENG HDCAM.x264-DiRG
+thumb=https://image.tmdb.org/t/p/w640/y29CEE9oukwhNT6INWVEOaINHpR.jpg
+date=2017-10-25
+URL=https://openload.co/f/hczOVCdDAmM/Birth.Of.The.Dragon.2017.HDCAM.x264-DiRG.mp4
 type=video
 name=Birth of the Dragon (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/y29CEE9oukwhNT6INWVEOaINHpR.jpg
@@ -2143,10 +2155,11 @@ description=In this fully animated, all-new take on the Smurfs, a mysterious map
 
 
 type=video
-name=Overdrive (2017) ENG WEB-DL.X264.AC3-EVO
+name=Overdrive (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
 date=2017-10-06
-URL=https://openload.co/f/nk5QA-pH9oc/Overdrive.2017.720p.WEB-DL.X264.AC3-EVO.mp4
+URL=https://www.blazefile.co/embed-sexo4bf5s5c1.html
+#https://openload.co/f/nk5QA-pH9oc/Overdrive.2017.720p.WEB-DL.X264.AC3-EVO.mp4
 #https://openload.co/f/c-CIP1tM8Wk/Overdrive.2017.1080p.WEB-DL.DD5.1.H264_CpT%40CtHts.mkv.mp4
 type=video
 name=Overdrive (2017) TH CAM SOUND
@@ -2389,8 +2402,9 @@ URL=https://openload.co/f/5K51BRttEIU/The_Monster_%282016%29%E0%B8%AD%E0%B8%B0%E
 type=video
 name=Let's Go, Jets! (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/heL1ydkUCetltzr0ZrfqDhZiN4Q.jpg
-date=2017-10-19
-URL=https://openload.co/f/5rymHO5HkZk/Let%27s_Go%2C_Jets%21_%282017%29%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%A5_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
+date=2017-10-25
+URL=https://openload.co/f/gmkDsSjqrSM/Let%27s_Go%2C_Jets%21_%282017%29%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%A5_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
+#https://openload.co/f/5rymHO5HkZk/Let%27s_Go%2C_Jets%21_%282017%29%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%A5_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
 
 type=video
 name=Shut In (2016) TH

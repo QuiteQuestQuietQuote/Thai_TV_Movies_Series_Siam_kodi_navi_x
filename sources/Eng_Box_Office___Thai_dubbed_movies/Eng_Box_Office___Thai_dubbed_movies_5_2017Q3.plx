@@ -208,8 +208,9 @@ URL=https://openload.co/f/3GQ8WwjZ0Jg/Wonder.Woman.2017.1080p.BluRay.x264-SPARKS
 type=video
 name=Wonder Woman (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
-date=2017-09-09
-URL=https://openload.co/f/JKaz3jrhtwc/Wonder_Woman_%282017%29%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%A7%E0%B8%B9%E0%B9%81%E0%B8%A1%E0%B8%99.mp4
+date=2017-10-25
+URL=https://openload.co/f/mNo7vIMzfSk/Wonder_Woman_%282017%29%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%A7%E0%B8%B9%E0%B9%81%E0%B8%A1%E0%B8%99.mp4
+#https://openload.co/f/JKaz3jrhtwc/Wonder_Woman_%282017%29%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%A7%E0%B8%B9%E0%B9%81%E0%B8%A1%E0%B8%99.mp4
 
 
 type=video
@@ -686,8 +687,9 @@ URL=https://openload.co/f/iV4RSI0cZis/Ghost.in.the.Shell.2017.1080p.BluRay.x264-
 type=video
 name=Ghost in the Shell (2017) TH
 thumb=http://image.tmdb.org/t/p/w500/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg
-date=2017-07-23
-URL=https://openload.co/f/ZhJtLPqW3Ng/%7BMINI_Super-HQ%7D_Ghost.in.the.Shell.2017.1080p.BrRip.DTS.x264.THB_NongZEZA%40CtHts.mkv.mp4
+date=2017-10-25
+URL=https://openload.co/f/mHjC4zklBaA/Ghost_in_the_Shell_%282017%29%E0%B9%82%E0%B8%81%E0%B8%AA%E0%B8%95%E0%B9%8C_%E0%B8%AD%E0%B8%B4%E0%B8%99_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%8A%E0%B8%A5%E0%B8%A5%E0%B9%8C.mp4
+#https://openload.co/f/ZhJtLPqW3Ng/%7BMINI_Super-HQ%7D_Ghost.in.the.Shell.2017.1080p.BrRip.DTS.x264.THB_NongZEZA%40CtHts.mkv.mp4
 player=default
 rating=-1.00
 description=In the near future, Major is the first of her kind: a human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals./description

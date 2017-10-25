@@ -549,13 +549,13 @@ type=video
 name=Five Times Two (2004)
 thumb=https://image.tmdb.org/t/p/w640/6zRdsS1wvQDSFU1c8T1e0mHpG6N.jpg
 date=2017-08-15
-URL=https://oload.stream/embed/b4RJStThY2c/?autostart=true
+URL=https://openload.co/embed/b4RJStThY2c/?autostart=true
 
 type=video
 name=Twentynine Palms (2003)
 thumb=https://image.tmdb.org/t/p/w640/alBCBzJaqgiYD1OWWzTueF1TKs4.jpg
 date=2017-08-15
-URL=https://oload.stream/embed/-Dpy9hsgoPk/?autostart=true
+URL=https://openload.co/embed/-Dpy9hsgoPk
 
 type=video
 name=The Beast (1975)
@@ -581,7 +581,7 @@ type=video
 name=Sleeping Beauties (2017)
 thumb=https://image.tmdb.org/t/p/w640/asvkeRwacvjvoUtlGc715tUQlzB.jpg
 date=2017-08-15
-URL=https://oload.stream/embed/8Jpl4lJCvB8/?autostart=true
+URL=https://oload.stream/embed/8Jpl4lJCvB8
 
 type=video
 name=Honeybunnies (2017)
