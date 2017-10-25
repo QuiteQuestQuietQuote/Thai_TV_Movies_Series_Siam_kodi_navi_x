@@ -511,8 +511,8 @@ type=video
 name=The Fish Child (2009)
 thumb=https://image.tmdb.org/t/p/w640/6qFKaKTZoQVEnYfhWpFe5HZVsS9.jpg
 date=2017-08-15
-URL=https://oload.stream/embed/hKJZjGQb8eE/
-#https://oload.stream/embed/-iW72vAPhSY/
+URL=https://openload.co/embed/hKJZjGQb8eE/
+#https://openload.co/embed/-iW72vAPhSY/
 
 type=video
 name=Sex and Lucia (2001)
@@ -525,31 +525,31 @@ type=video
 name=House of Tolerance (2011) (A)
 thumb=https://image.tmdb.org/t/p/w640/c3XOHY6yHInLmc9Z9nqubuC1UyE.jpg
 date=2017-08-15
-URL=https://oload.tv/embed/VczyoBZ649k/?autostart=true
+URL=https://openload.co/embed/VczyoBZ649k
 
 type=video
 name=House of Tolerance (2011) (B)
 thumb=https://image.tmdb.org/t/p/w640/c3XOHY6yHInLmc9Z9nqubuC1UyE.jpg
 date=2017-08-15
-URL=https://oload.stream/embed/87unaXO2dtk/?autostart=true
+URL=https://openload.co/embed/87unaXO2dtk
 
 type=video
 name=The Smell of Us (2014)
 thumb=https://image.tmdb.org/t/p/w640/3x9bcw03A4xJzlmdTqcDOj8WE9m.jpg
 date=2017-08-15
-URL=https://oload.stream/embed/ByYmQNndlJI/?autostart=true
+URL=https://openload.co/embed/ByYmQNndlJI
 
 type=video
 name=Anatomy of Hell (2004)
 thumb=https://image.tmdb.org/t/p/w640/3Paqxno3bGZMazRyFBkKmk5SM5L.jpg
 date=2017-08-15
-URL=https://oload.stream/embed/-0T8I-5IpI8/?autostart=true
+URL=https://openload.co/embed/-0T8I-5IpI8
 
 type=video
 name=Five Times Two (2004)
 thumb=https://image.tmdb.org/t/p/w640/6zRdsS1wvQDSFU1c8T1e0mHpG6N.jpg
 date=2017-08-15
-URL=https://openload.co/embed/b4RJStThY2c/?autostart=true
+URL=https://openload.co/embed/b4RJStThY2c
 
 type=video
 name=Twentynine Palms (2003)
@@ -581,7 +581,7 @@ type=video
 name=Sleeping Beauties (2017)
 thumb=https://image.tmdb.org/t/p/w640/asvkeRwacvjvoUtlGc715tUQlzB.jpg
 date=2017-08-15
-URL=https://oload.stream/embed/8Jpl4lJCvB8
+URL=https://openload.co/embed/8Jpl4lJCvB8
 
 type=video
 name=Honeybunnies (2017)
