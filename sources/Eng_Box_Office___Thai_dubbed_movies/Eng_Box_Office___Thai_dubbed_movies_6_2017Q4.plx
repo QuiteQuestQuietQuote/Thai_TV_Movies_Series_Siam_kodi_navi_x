@@ -81,10 +81,11 @@ date=2017-10-22
 URL=https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
 
 type=video
-name=Geostorm (2017) ENG CLEAN_SoundFix_HDCAM_ENG_X264_-_Feel.Free
+name=Geostorm (2017) ENG CAM.XViD-26k
 thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
-date=2017-10-24
-URL=https://openload.co/f/KoOE2nWVFFk/Geostorm_2017_CLEAN_SoundFix_HDCAM_ENG_X264_-_Feel.Free.mp4
+date=2017-10-26
+URL=https://openload.co/f/WTrxZvQ3bcA/Geostorm.2017.CAM.XViD-26k.avi.mp4
+#https://openload.co/f/KoOE2nWVFFk/Geostorm_2017_CLEAN_SoundFix_HDCAM_ENG_X264_-_Feel.Free.mp4
 #https://openload.co/f/r8oWRvUiE7U/Geostorm_2017_HDCAM_ENG_X264-Feel_Free.mkv.mp4
 
 type=video
@@ -143,12 +144,7 @@ date=2017-10-20
 URL=https://openload.co/f/OTg3g1vgdG0/The_Only_Living_Boy_in_New_York_%282017%29_%5B1080p%5D_WEB-DL_DD5_1_H264-FGT_mkv_mp4
 #https://openload.co/f/2FIdzfMEsV4/The.Only.Living.Boy.in.New.York.2017.WEB-DL.x264-FGT.mp4
 
-type=video
-name=Jungle (2017) ENG BRRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg
-date=2017-10-25
-URL=https://openload.co/f/uu0n2mVkoK8/Jungle.2017.BRRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/qioNwiUuxkM/Jungle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=Swing Away (2017) ENG HDRip.XviD.AC3-EVO
@@ -828,6 +824,8 @@ name=Ingrid Goes West (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.6GB
 thumb=https://image.tmdb.org/t/p/w640/3LEyW11onDltXHo0L1X23j9Nnvg.jpg
 date=2017-10-25
 URL=https://openload.co/f/G18bBxi9CRY/ingrid.goes.west.2017.1080p.bluray.x264-geckos.mkv
+#https://www.blazefile.co/embed-a90mc72athte.html
+#https://openload.co/f/5vQHB3YcUJ8/ingrid.goes.west.2017.1080p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/l8ENhc-dVME/Ingrid.Goes.West.2017.720p.BluRay.x264-GECKOS.mkv.mp4
 
 # 2772370
@@ -1445,7 +1443,14 @@ date=2017-10-20
 URL=https://www.blazefile.co/embed-qp45icf0qt1z.html
 #https://openload.co/f/l3RIDHnszxI/The.Adventurers.2017.CHINESE.720p.BluRay.x264.DD5.1-FGT.mkv.mp4
 
-
+type=video
+name=Jungle (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg
+date=2017-10-26
+URL=https://www.blazefile.co/embed-y82qv0wsi9wn.html
+#https://openload.co/f/gQa_qNa-48M/jungle.2017.720p.bluray.x264-veto.mkv.mp4
+#https://openload.co/f/uu0n2mVkoK8/Jungle.2017.BRRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/qioNwiUuxkM/Jungle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 
 
@@ -2012,10 +2017,11 @@ URL=https://openload.co/f/QRlE2srV46k/The_LEGO_Ninjago_Movie_%282017%29%E0%B9%80
 
 
 type=video
-name=Cars 3 (2017) ENG WEB-DL.DD5.1.H264-FGT MKV
+name=Cars 3 (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
 date=2017-10-22
-URL=https://openload.co/f/ngRbnO8x0Ig/Cars.3.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv
+URL=https://www.blazefile.co/embed-ctbsc0o24jmg.html
+#https://openload.co/f/ngRbnO8x0Ig/Cars.3.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv
 #https://openload.co/f/V4qbtFxzsBg/Cars.3.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO..mkv.mp4
 #https://openload.co/f/kCn5e0JoqMc/Cars.3.2017.WEB-DL.x264-FGT.mp4
 #https://openload.co/f/0SJYdj01mVs/Cars.3.2017.720p.WEB-DL.800MB.MkvCage.mkv
@@ -2105,7 +2111,7 @@ URL=https://openload.co/f/yv8vQH7WT_Q/The_Battleship_Island_%282017%29%E0%B9%80%
 
 
 type=video
-name=Annabelle: Creation (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Annabelle: Creation (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
 date=2017-10-12
 URL=https://www.blazefile.co/embed-irygfv72plwv.html
@@ -2485,7 +2491,7 @@ URL=https://openload.co/f/gmkDsSjqrSM/Let%27s_Go%2C_Jets%21_%282017%29%E0%B9%80%
 
 
 type=video
-name=Shut In (2016) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
+name=Shut In (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/qXIGq6ddQhIYe4Z7A86nZ1qjUME.jpg
 date=2017-10-25
 URL=https://www.blazefile.co/embed-57nk0frprtvp.html
@@ -2504,7 +2510,7 @@ URL=https://openload.co/f/BfgVlVUGr7E/Will_You_Be_There_%282016%29%E0%B8%AD%E0%B
 
 
 type=video
-name=Sniper: Ultimate Kill (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
+name=Sniper: Ultimate Kill (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/pi16aubY3qFKJWAh4npvm03ERkH.jpg
 date=2017-10-06
 URL=https://www.blazefile.co/embed-mlx1gbyq9y6n.html

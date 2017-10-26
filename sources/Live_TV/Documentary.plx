@@ -487,44 +487,50 @@ URL=
 
 
 
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=https://3.bp.blogspot.com/-f8_8reMKJjQ/WdLY2OaLQJI/AAAAAAAAAI0/3qc44QmOG4cE9Ys5tgtmAgjvIUL4EyM8ACLcBGAs/s320/050.png
+date=
+URL=http://191.96.38.234:443/free41/0x777_historyhd_720p/playlist.m3u8?key=irz7bzky2i3kcxqagytgmivu
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=https://1.bp.blogspot.com/-V-ha26gxzVM/WdLY2hOrp2I/AAAAAAAAAI8/dxGnJ68zIsAXO6TdqrBvxjkvJ8HnhyyNQCLcBGAs/s320/052.png
+date=
+URL=http://191.96.38.234:443/free54/0x222_natgeographic_720p/playlist.m3u8?key=irz7bzky2i3kcxqagytgmivu
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=https://4.bp.blogspot.com/-q3FCvo_BtWw/WdLY23tF_4I/AAAAAAAAAJE/PnQtW3AhDKcpITTVadnjDOyrsx5Vcb-nQCLcBGAs/s320/054.png
+date=
+URL=http://191.96.38.234:443/free54/0x222_natgeopeople_720p/playlist.m3u8?key=irz7bzky2i3kcxqagytgmivu
+
+
+
+
+
 
 
 type=video
 name=-----------------------------------------------------------------------------------------
-thumb=
+thumb=https://2.bp.blogspot.com/-gfLftrQzfyk/WdLY10QqpTI/AAAAAAAAAIw/hrCHo3pNsgkuvkL-X2uSqoQQwvo-0ioYgCLcBGAs/s320/049.png
 date=
-URL=
+URL=http://191.96.38.234:443/free41/0x777_discoveryworldhd_720p/playlist.m3u8?key=irz7bzky2i3kcxqagytgmivu
 type=video
 name=-----------------------------------------------------------------------------------------
-thumb=
+thumb=https://2.bp.blogspot.com/-fON3PQ3epac/WdLY5DfEFmI/AAAAAAAAAJo/6vW7TQ_dVkIn26x9l9hx7kebzKg6AwS-ACLcBGAs/s320/063.png
 date=
-URL=
+URL=http://191.96.38.234:443/free41/0x777_dissci_720p/playlist.m3u8?key=irz7bzky2i3kcxqagytgmivu
 type=video
 name=-----------------------------------------------------------------------------------------
-thumb=
+thumb=https://2.bp.blogspot.com/-dd5bWZ-tL-k/WdLY5f19XsI/AAAAAAAAAJs/xvG608PIzGsMCA39j6DxYRhvFf_Tkr4mACLcBGAs/s320/064.png
 date=
-URL=
+URL=http://191.96.38.234:443/free41/00_dischannel_480p/playlist.m3u8?key=irz7bzky2i3kcxqagytgmivu
 
 
 
 
 
 
-type=video
-name=-----------------------------------------------------------------------------------------
-thumb=
-date=
-URL=
-type=video
-name=-----------------------------------------------------------------------------------------
-thumb=
-date=
-URL=
-type=video
-name=-----------------------------------------------------------------------------------------
-thumb=
-date=
-URL=
+
 
 
 
