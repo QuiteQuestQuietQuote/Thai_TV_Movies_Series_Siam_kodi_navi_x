@@ -3,7 +3,7 @@ background=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Pat
 title=Asian_Sex_Diary_3
 logo=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Pat.jpg
 icon_playlist=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Pat.jpg
-description=thanks to ThaiMovie4K, satan18av/description
+description=thanks to ThaiMovie4K, satan18av, erotic24hr/description
 
 type=playlist
 name=Sorted by user-assigned order
@@ -55,6 +55,179 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=48xxxxxxxxxxxxxxxxxxxxAsian Sex Diary Phuong
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Phuong.jpg
+date=2017-10-27
+URL=https://streamango.com/f/qbbnqlkpkqprropm/Asian_Sex_Diary_Phuong_mp4
+
+type=video
+name=Asian Sex Diary Quyen Is Back
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Quyen-Is-Back.jpg
+date=2017-10-27
+URL=https://streamango.com/f/mfpcemcaodokskep/Asian_Sex_Diary_Quyen_Is_Back_mp4
+
+type=video
+name=Asian Sex Diary Quyen
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Quyen.jpg
+date=2017-10-27
+URL=https://streamango.com/f/ktfakpbbpeffeqdr/Asian_Sex_Diary_Quyen_mp4
+
+type=video
+name=Asian Sex Diary Quyen Morning Blowjob
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Quyen-Morning-Blowjob.jpg
+date=2017-10-27
+URL=https://streamango.com/f/qlmbrbsoktrcnakf/Asian_Sex_Diary_Quyen_Morning_Blowjob_mp4
+
+type=video
+name=Asian Sex Diary Quyen Morning
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Quyen-Morning.jpg
+date=2017-10-27
+URL=https://streamango.com/f/mmanqlktrkbctdmq/Asian_Sex_Diary_Quyen_Morning_mp4
+
+type=video
+name=Asian Sex Diary Qing
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Qing.jpg
+date=2017-10-27
+URL=https://streamango.com/f/nnlccbdonaedeccm/Asian_Sex_Diary_Qing_mp4
+
+type=video
+name=Asian Sex Diary Qele
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Qele.jpg
+date=2017-10-27
+URL=https://streamango.com/f/ecbarktrcfqoncdq/Asian_Sex_Diary_Qele_mp4
+
+type=video
+name=Asian Sex Diary Powpei Slutty Shoot
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Powpei-Slutty-Shoot.jpg
+date=2017-10-27
+URL=https://streamango.com/f/elqosrrpnlmfmscc/Asian_Sex_Diary_Powpei_Slutty_Shoot_mp4
+
+type=video
+name=Asian Sex Diary Powpei Sluttyshoot 3
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Powpei-Sluttyshoot-3.jpg
+date=2017-10-27
+URL=https://streamango.com/f/omssfnttfdqfnltf/Asian_Sex_Diary_Powpei_Sluttyshoot_3_mp4
+
+type=video
+name=Asian Sex Diary Powpei Slutty Shoot 2 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Powpei-Slutty-Shoot-2.jpg
+date=2017-10-27
+URL=https://streamango.com/f/oaaslftestpaptpb/Asian_Sex_Diary_Powpei_Slutty_Shoot_2_mp4
+
+type=video
+name=Asian Sex Diary Powpei Shoot
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Powpei-Shoot.jpg
+date=2017-10-27
+URL=https://streamango.com/f/eskapkfftmpflttk/Asian_Sex_Diary_Powpei_Shoot_mp4_mp4
+
+type=video
+name=Asian Sex Diary Powpei Shoot 2
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Powpei-Shoot-2.jpg
+date=2017-10-27
+URL=https://streamango.com/f/qqeaqdadfcfanams/Asian_Sex_Diary_Powpei_Shoot_2_mp4
+
+type=video
+name=Asian Sex Diary Powpei Morning Fuck
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Powpei-Morning-Fuck.jpg
+date=2017-10-27
+URL=https://streamango.com/f/mmflefrpkptqqlef/Asian_Sex_Diary_Powpei_Morning_Fuck_mp4
+
+type=video
+name=Asian Sex Diary Powpei Coco Ktv
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Powpei-Coco-Ktv.jpg
+date=2017-10-27
+URL=https://streamango.com/f/badmbnacttlaefrd/Asian_Sex_Diary_Powpei_Coco_Ktv_mp4
+
+type=video
+name=Asian Sex Diary Shipei Eating Shopping
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Shipei-Eating-Shopping.jpg
+date=2017-10-27
+URL=https://streamango.com/f/ccoqdkensllqskte/Asian_Sex_Diary_Shipei_Eating_Shopping_mp4
+
+type=video
+name=Asian Sex Diary Shipei Is Back
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Shipei-Is-Back.jpg
+date=2017-10-27
+URL=https://streamango.com/f/bneosbnldofpcroo/Asian_Sex_Diary_Shipei_Is_Back_mp4
+
+type=video
+name=Asian Sex Diary Shipei Morning 2
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Shipei-Morning-2.jpg
+date=2017-10-27
+URL=https://streamango.com/f/toqdmtaqnmpplbtq/Asian_Sex_Diary_Shipei_Morning_2_mp4
+
+type=video
+name=Asian Sex Diary Shipei Morning Blowjob 3
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Shipei-Morning-Blowjob-3.jpg
+date=2017-10-27
+URL=https://streamango.com/f/ndctmkennefrpeld/Asian_Sex_Diary_Shipei_Morning_Blowjob_3_mp4
+
+type=video
+name=Asian Sex Diary Shipei Morning
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Shipei-Morning.jpg
+date=2017-10-27
+URL=https://streamango.com/f/oappleaddaocqesa/Asian_Sex_Diary_Shipei_Morning_mp4_mp4
+
+type=video
+name=Asian Sex Diary Shipei Movie Date
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Shipei-Movie-Date.jpg
+date=2017-10-27
+URL=https://streamango.com/f/oteaobdlrdekeoca/Asian_Sex_Diary_Shipei_Movie_Date_mp4
+
+type=video
+name=Asian Sex Diary Shipei S New Dog
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Shipei-S-New-Dog.jpg
+date=2017-10-27
+URL=https://streamango.com/f/kfarslnodqksfsps/Asian_Sex_Diary_Shipei_S_New_Dog_mp4
+
+type=video
+name=Asian Sex Diary Shipei Visit
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Shipei-Visit.jpg
+date=2017-10-27
+URL=https://streamango.com/f/prsksoorspbafban/Asian_Sex_Diary_Shipei_Visit_mp4
+
+type=video
+name=Asian Sex Diary Sweetie
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Sweetie.jpg
+date=2017-10-27
+URL=https://streamango.com/f/sdsdnoqfcbpcsrre/Asian_Sex_Diary_Sweetie_mp4
+
+type=video
+name=Asian Sex Diary Sweetie.Part.2
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Sweetie.Part_.jpg
+date=2017-10-27
+URL=https://streamango.com/f/deabpmaobnrrsnbf/Asian_Sex_Diary_Sweetie_Part_2_mp4
+
+type=video
+name=Asian Sex Diary Tan
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Tan.jpg
+date=2017-10-27
+URL=https://streamango.com/f/ceesqrodancnmkkt/Asian_Sex_Diary_Tan_mp4
+
+type=video
+name=Asian Sex Diary Sweetie.Morning
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Sweetie.Morning.jpg
+date=2017-10-27
+URL=https://streamango.com/f/rtbrsmqksrkrtnpk/Asian_Sex_Diary_Sweetie_Morning_mp4
+
+type=video
+name=Asian Sex Diary Sylvy
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Asian-Sex-Diary-Sylvy.jpg
+date=2017-10-27
+URL=https://streamango.com/f/cdqtlspdqrbrfknb/Asian_Sex_Diary_Sylvy_mp4
 
 
 
