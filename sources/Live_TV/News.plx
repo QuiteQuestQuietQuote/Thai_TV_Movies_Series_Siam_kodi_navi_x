@@ -52,7 +52,7 @@ rating=-1.00
 type=video
 name=TNN24
 thumb=https://upload.wikimedia.org/wikipedia/en/1/1f/TNN24_Logo.png
-URL=http://119.63.70.32/tp_tnn24.m3u8
+URL=http://symc-cdn02.bkk01.violin.co.th:1935/liveedge/308360140120_600/chunklist.m3u8
 player=default
 rating=-1.00
 
@@ -65,8 +65,8 @@ rating=-1.00
 
 type=video
 name=Money Ch
-thumb=
-URL=rtmp://live4.netdesignhost.com/moneychannellive/
+thumb=https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png
+URL=http://103.77.116.238:443/news/money_channel_480p.stream/playlist.m3u8
 player=default
 rating=-1.00
 
@@ -99,9 +99,9 @@ player=default
 rating=-1.00
 
 type=video
-name=REUTERS
-thumb=http://www.thaiptv.com/img/reuters.png
-URL=http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
+name=PSI
+thumb=
+URL=http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_600/chunklist.m3u8
 player=default
 rating=-1.00
 
@@ -191,39 +191,74 @@ date=
 URL=
 
 
-type=video
-name=FOX NEWS
-URL=http://27.254.154.154:25461/live/thaiflix/aa1234567/11.m3u8
-
-type=video
-name=BBC-ONE
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/78.m3u8
-type=video
-name=BBC-Two
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/76.m3u8
-type=video
-name=ITV-One
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/75.m3u8
-type=video
-name=BBC World NEWS
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/72.m3u8
-
-type=video
-name=NHK World (English)
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/150.m3u8
 
 
 type=video
-name=nhkworld
-URL=http://iptvthailand.dyndns.biz/dode/nhkworld.stream/playlist.m3u8
+name=dwtv
+thumb=https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png
+date=2017-10-27
+URL=
+
 type=video
-name=france24
-URL=http://iptvthailand.dyndns.biz/dode/france24.stream/playlist.m3u8
+name=nhk
+thumb=https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png
+date=2017-10-27
+URL=http://103.77.116.238:443/news/nhk_world_tv_720p.stream/playlist.m3u8
+
+type=video
+name=france_24
+thumb=https://3.bp.blogspot.com/-BAZAWC-QS2U/WdLY7WXsuoI/AAAAAAAAAKQ/PmgvJl4p4rAxvuxEzDzfUDtk9eOCR9B_wCLcBGAs/s320/073.png
+date=2017-10-27
+URL=http://103.77.116.238:443/news/france_24_720p.stream/playlist.m3u8
+
 type=video
 name=euronews
-URL=http://iptvthailand.dyndns.biz/dode/euronews.stream/playlist.m3u8
+thumb=https://1.bp.blogspot.com/-Lg91lRxQNT0/WdLY7hzKDMI/AAAAAAAAAKU/mzJLNoG1UbwqGHm_qnsYU_I0sS51_RwHQCLcBGAs/s320/074.png
+date=2017-10-27
+URL=http://103.77.116.238:443/news/euronews_720p.stream/playlist.m3u8
+
+type=video
+name=sky_news
+thumb=https://3.bp.blogspot.com/-Q_5wVJu_9MI/WdLY76leb3I/AAAAAAAAAKY/653NDnCLGKYglbVFyUC4LVawUPpWT-JkACLcBGAs/s320/075.png
+date=2017-10-27
+URL=http://103.77.116.238:443/news/sky_news_hd_720p.stream/playlist.m3u8
+
+type=video
+name=fox_news
+thumb=https://3.bp.blogspot.com/-wSw9JqG185A/WdLY8NM4v1I/AAAAAAAAAKc/tSPanHwjiTYXZJwNBpZ4tjP0JQCzgBubQCLcBGAs/s320/076.png
+date=2017-10-27
+URL=http://103.77.116.238:443/news/fox_news_720p.stream/playlist.m3u8
 
 
+type=video
+name=channel_newsasia
+thumb=https://4.bp.blogspot.com/--rN0nvH9KzA/WdLY8UWDhjI/AAAAAAAAAKg/KDHOGfA065sjzYIA6RSejl5GfT7GF8ccwCLcBGAs/s320/077.png
+date=2017-10-27
+URL=http://103.77.116.238:443/news/channel_newsasia_720p.stream/playlist.m3u8
+
+type=video
+name=cctv4
+thumb=https://4.bp.blogspot.com/-OaGP58RtkuA/WdLY8rZA5QI/AAAAAAAAAKk/VYKgQM7BTOoiLUTphh9NzueO87cEHCOCACLcBGAs/s320/078.png
+date=2017-10-27
+URL=
+
+type=video
+name=tnn24
+thumb=https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png
+date=2017-10-27
+URL=http://103.77.116.238:443/news/tnn24_480p.stream/playlist.m3u8
+
+type=video
+name=tnn2
+thumb=https://3.bp.blogspot.com/-9otS3Haa-i0/WdLY9BBfcRI/AAAAAAAAAKs/wkVoVp8kpiYJpBUyNdBMe6h1IoNPhdLWwCLcBGAs/s320/080.png
+date=2017-10-27
+URL=http://103.77.116.238:443/news/tnn2_480p.stream/playlist.m3u8
+
+type=video
+name=money_channel
+thumb=https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png
+date=2017-10-27
+URL=http://103.77.116.238:443/news/money_channel_480p.stream/playlist.m3u8
 
 
 
@@ -249,42 +284,7 @@ URL=
 
 
 
-type=video
-name=TGN2
-URL=http://livetv.khaozap.com/tgn2_480p.stream/playlist.m3u8
-type=video
-name=TGN
-URL=http://livetv.khaozap.com/tgn_480p.stream/playlist.m3u8
-type=video
-name=TNN24
-URL=http://livetv.khaozap.com/tnn24_480p.stream/playlist.m3u8
-type=video
-name=TNN2
-URL=http://livetv.khaozap.com/tnn2_480p.stream/playlist.m3u8
-type=video
-name=Money-Channel
-URL=http://livetv.khaozap.com/money_channel_480p.stream/playlist.m3u8
-type=video
-name=NHK-World-TV
-URL=http://livetv.khaozap.com/nhk_world_tv_360p.stream/playlist.m3u8
-type=video
-name=FRANCE-24
-URL=http://livetv.khaozap.com/france_24_360p.stream/playlist.m3u8
-type=video
-name=euronews
-URL=http://livetv.khaozap.com/euronews_360p.stream/playlist.m3u8
-type=video
-name=Channel-NewsAsia
-URL=http://livetv.khaozap.com/channel_newsasia_360p.stream/playlist.m3u8
-type=video
-name=Sky-News-HD
-URL=http://livetv.khaozap.com/sky_news_hd_360p.stream/playlist.m3u8
-type=video
-name=FOX-News
-URL=http://livetv.khaozap.com/fox_news_360p.stream/playlist.m3u8
-type=video
-name=CCTV4
-URL=http://livetv.khaozap.com/cctv4_480p.stream/playlist.m3u8
+
 
 
 

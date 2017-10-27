@@ -25,14 +25,14 @@ rating=-1.00
 type=video
 name=TNN24
 thumb=https://upload.wikimedia.org/wikipedia/en/1/1f/TNN24_Logo.png
-URL=http://119.63.70.32/tp_tnn24.m3u8
+URL=http://symc-cdn02.bkk01.violin.co.th:1935/liveedge/308360140120_600/chunklist.m3u8
 player=default
 rating=-1.00
 
 type=video
 name=Nation TV
 thumb=https://2.bp.blogspot.com/-o7s4RRz4ppM/V7Sh7FTCXZI/AAAAAAAAnXE/eq39whb7Cr0DbQt7THIzcIVaokWhtEWsQCLcB/s1600/1.jpg
-URL=http://pr06ed012.dcs-cdn.com/nation/nationlive.isml/manifest(format=m3u8-aapl).m3u8
+URL=http://symc-cdn01.bkk02.violin.co.th:1935/liveedge/308498221057_600/chunklist.m3u8
 player=default
 rating=-1.00
 
@@ -47,7 +47,7 @@ rating=-1.00
 type=video
 name=CHANNEL 3
 thumb=https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Channel_3_Thailand_Logo.svg/1200px-Channel_3_Thailand_Logo.svg.png
-URL=http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_client_ip=1&x_ark_expires=1498587547&x_ark_path_prefix=/live/&x_ark_signature=Hu3yQpP0DWLfiJOBErjd3g
+URL=http://103.77.116.238:443/tvdigital/3_hd_720p.stream/playlist.m3u8
 player=default
 rating=-1.00
 
@@ -61,7 +61,7 @@ rating=-1.00
 type=video
 name=CHANNEL 7
 thumb=https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png
-URL=http://bbtvalive-a.bugaboo.tv/liveedgech7/_definst_/smil:auto.smil/chunklist_b2300000_sleng.m3u8
+URL=http://103.77.116.238:443/tvdigital/7_hd_720p.stream/playlist.m3u8
 player=default
 rating=-1.00
 
@@ -83,7 +83,7 @@ rating=-1.00
 type=video
 name=CH 3 family
 thumb=http://www.thaiptv.com/img/3family.png
-URL=http://111.223.37.196:1935/thaitv3_FM/thaitv3_FM_1/playlist.m3u8
+URL=http://103.77.116.238:443/tvdigital/3_family_480p.stream/playlist.m3u8
 player=default
 rating=-1.00
 
@@ -111,7 +111,7 @@ rating=-1.00
 type=video
 name=now 26
 thumb=http://www.thaiptv.com/img/now26tv_logo.jpg
-URL=http://symc-cdn02.bkk02.violin.co.th:1935/liveedge/315320886094_600/playlist.m3u8
+URL=http://103.77.116.238:443/tvdigital/now_480p.stream/playlist.m3u8
 player=default
 rating=-1.00
 
@@ -125,7 +125,7 @@ rating=-1.00
 type=video
 name=CH 3 SD
 thumb=http://www.thaiptv.com/img/3sd.png
-URL=http://ch3-28-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=lGu9hVLP35R8nmsn&x_ark_auth_type=ark-v2&x_ark_client_ip=1&x_ark_expires=1498674437&x_ark_path_prefix=/live/&x_ark_signature=VXcWFdv9K7zCEozANRekPw
+URL=http://103.77.116.238:443/tvdigital/3_sd_480p.stream/playlist.m3u8
 player=default
 rating=-1.00
 
@@ -250,7 +250,21 @@ rating=-1.00
 
 
 
-
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=
 
 
 
@@ -286,94 +300,11 @@ rating=-1.00
 
 
 
-type=video
-name=-----------------------------------------------------------------------------------------
-thumb=
-date=
-URL=
-type=video
-name=-----------------------------------------------------------------------------------------
-thumb=
-date=
-URL=
-type=video
-name=-----------------------------------------------------------------------------------------
-thumb=
-date=
-URL=
 
 
 
 
-type=video
-name=MONO Plus
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/83.m3u8
-type=video
-name=Super-Entertainment
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/82.m3u8
-type=video
-name=Topline TV
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/81.m3u8
-type=video
-name=Fahwonmai
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/79.m3u8
-type=video
-name=BBC-ONE
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/78.m3u8
-type=video
-name=BBC-Two
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/76.m3u8
-type=video
-name=ITV-One
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/75.m3u8
-type=video
-name=BBC World NEWS
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/72.m3u8
-type=video
-name=Suwannabhumi-Channel
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/71.m3u8
-type=video
-name=Gang-Cartoon
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/69.m3u8
-type=video
-name=SabaideeTV
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/68.m3u8
-type=video
-name=You Channel
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/67.m3u8
-type=video
-name=Money Channel
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/66.m3u8
-type=video
-name=Boomerang
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/89.m3u8
-type=video
-name=Ja Ting Ja
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/91.m3u8
-type=video
-name=JKN
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/94.m3u8
-type=video
-name=CTB
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/95.m3u8
-type=video
-name=M Channel
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/93.m3u8
-type=video
-name=Kaset-News
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/88.m3u8
-type=video
-name=Channel8
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/84.m3u8
-type=video
-name=Miracle Channel
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/85.m3u8
-type=video
-name=NBTV
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/86.m3u8
-type=video
-name=Mongkol Channel.
-URL=http://27.254.154.154:25461/live/testchannel/AdsyyUI7463JL/92.m3u8
+
 
 
 
@@ -399,78 +330,157 @@ URL=
 
 
 
+
 type=video
-name=3 hd
-URL=http://iptvthailand.dyndns.biz/dode/ch3hd.stream/playlist.m3u8
+name=3_hd
+thumb=https://3.bp.blogspot.com/-B5v7X3YA0iM/WdLYqp9VLyI/AAAAAAAAAF4/supjFV2u7IkebpGlnSsG6_23pBXillgrgCLcBGAs/s200/001.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/3_hd_720p.stream/playlist.m3u8
+
 type=video
-name=5 hd
-URL=http://iptvthailand.dyndns.biz/dode/ch5hd.stream/playlist.m3u8
+name=tv5_hd
+thumb=https://4.bp.blogspot.com/-4vRZu2SiRSw/WdLYqkUFFlI/AAAAAAAAAF0/aTTW-yIICXYQPSy6u_J7l0oiPnBh2TqVwCLcBGAs/s200/002.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/tv5_hd_720p.stream/playlist.m3u8
+
 type=video
-name=7hd
-URL=http://iptvthailand.dyndns.biz/dode/ch7hd.stream/playlist.m3u8
+name=mcot_hd
+thumb=https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/mcot_hd_720p.stream/playlist.m3u8
+
 type=video
-name=mcot hd
-URL=http://iptvthailand.dyndns.biz/dode/mcothd.stream/playlist.m3u8
+name=thairath_tv
+thumb=https://4.bp.blogspot.com/-QjhBjlSV18M/WdLYrSHwGYI/AAAAAAAAAGE/vj7vKm9c07kEWQmTLXhTOYsGiy9DgWkfQCLcBGAs/s200/006.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/thairath_tv_480p.stream/playlist.m3u8
+
 type=video
-name=nbt
-URL=http://iptvthailand.dyndns.biz/dode/nbt.stream/playlist.m3u8
+name=spring_news
+thumb=https://2.bp.blogspot.com/-m0CQiNgIFsE/WdLYrwlVJvI/AAAAAAAAAGQ/LN6pm_WcDJ49YL-0K_ytg9L2yWfZw4r6ACLcBGAs/s200/009.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/spring_news_480p.stream/playlist.m3u8
+
+
 type=video
-name=tpbs hd
-URL=http://iptvthailand.dyndns.biz/dode/thaipbshd.stream/playlist.m3u8
+name=amarin_tv
+thumb=https://2.bp.blogspot.com/-bHMU3G5QLXU/WdLYsh7d0HI/AAAAAAAAAGU/_fSEwmfLvvwTIJiJjkYEkn4jhpWHuynJQCLcBGAs/s200/010.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/amarin_tv_hd_480p.stream/playlist.m3u8
+
 type=video
-name=tnn24
-URL=http://iptvthailand.dyndns.biz/dode/tnn24.stream/playlist.m3u8
+name=7_hd
+thumb=https://1.bp.blogspot.com/-AFzknlTw06A/WdLYqknNpvI/AAAAAAAAAFw/WO0WKVoceas-axD4tjcr1qAyo2fp4Qt0gCLcBGAs/s200/003.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/7_hd_720p.stream/playlist.m3u8
+
 type=video
-name=3family
-URL=http://iptvthailand.dyndns.biz/dode/ch3family.stream/playlist.m3u8
+name=workpoint_tv
+thumb=https://3.bp.blogspot.com/-OlJHKpyXNFk/WdLYrLkpmyI/AAAAAAAAAF8/XsZhgnEvCxYbWNexzw_eUw_wNbd7mpF5ACLcBGAs/s200/004.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/workpoint_tv_480p.stream/playlist.m3u8
+
 type=video
-name=mcot family
-URL=http://iptvthailand.dyndns.biz/dode/mcotfamily.stream/playlist.m3u8
+name=pptv_hd
+thumb=https://2.bp.blogspot.com/-7xFojsT7_4s/WdLYr2w97UI/AAAAAAAAAGI/9TgQp_mk4CU9Wiz_OGSvpHtVSKl2HvdwgCLcBGAs/s200/007.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/pptv_hd_720p.stream/playlist.m3u8
+
 type=video
-name=new tv
-URL=http://iptvthailand.dyndns.biz/dode/newtv.stream/playlist.m3u8
+name=new_tv
+thumb=https://2.bp.blogspot.com/-Hc8CbV44Zcw/WdLYr6T8ygI/AAAAAAAAAGM/nB5OU-6fbwcKTlwEvcajlnl_lc17gB34gCLcBGAs/s200/008.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/new_tv_480p.stream/playlist.m3u8
+
 type=video
-name=spring news
-URL=http://iptvthailand.dyndns.biz/dode/springnews.stream/playlist.m3u8
+name=bright_tv
+thumb=https://2.bp.blogspot.com/-TISTQ8tUqQg/WdLYsm5rqUI/AAAAAAAAAGY/g-7nDEUe_v89_oYbAJMTL4UQKCU9VqB7ACLcBGAs/s200/011.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/bright_tv_480p.stream/playlist.m3u8
+
+
 type=video
-name=bright tv
-URL=http://iptvthailand.dyndns.biz/dode/brighttv.stream/playlist.m3u8
-type=video
-name=voice tv
-URL=http://iptvthailand.dyndns.biz/dode/voicetv.stream/playlist.m3u8
-type=video
-name=nation tv
-URL=http://iptvthailand.dyndns.biz/dode/nationtv.stream/playlist.m3u8
-type=video
-name=workpointhd
-URL=http://iptvthailand.dyndns.biz/dode/workpointhd.stream/playlist.m3u8
+name=voice_tv
+thumb=https://2.bp.blogspot.com/-6OIUSCBfDmc/WdLYshg8ftI/AAAAAAAAAGc/CK2wfuwwtrA97c7VqD9erq_VryoGtvNTgCLcBGAs/s200/012.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/voice_tv_480p.stream/playlist.m3u8
+
 type=video
 name=true4u
-URL=http://iptvthailand.dyndns.biz/dode/true4u.stream/playlist.m3u8
+thumb=https://4.bp.blogspot.com/-mO5rSqm4sBI/WdLYtWR3g6I/AAAAAAAAAGg/TSyiSYaytlkLvI6bU2SIxBgNiqXnB6irgCLcBGAs/s200/013.png
+date=2017-10-27
+URL=http://103.77.116.238:443/sporttrue/true4u_480p.stream/playlist.m3u8
+
 type=video
-name=now26
-URL=http://iptvthailand.dyndns.biz/dode/now.stream/playlist.m3u8
+name=gmm25
+thumb=https://1.bp.blogspot.com/-EgH0WMYn_yk/WdLYtVWmeFI/AAAAAAAAAGk/TBNUrYvLjSwxsja8MRdRnInBrJKVafa7ACLcBGAs/s200/014.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/gmm25_480p.stream/playlist.m3u8
+
 type=video
-name=ch8
-URL=http://iptvthailand.dyndns.biz/dode/ch8.stream/playlist.m3u8
+name=now
+thumb=https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/now_480p.stream/playlist.m3u8
+
 type=video
-name=ch3 sd
-URL=http://iptvthailand.dyndns.biz/dode/ch3sd.stream/playlist.m3u8
+name=8
+thumb=https://3.bp.blogspot.com/-x6zz5AhnUgo/WdLYuKY1MLI/AAAAAAAAAGs/-iGjzHjCTVciFJSosPvJcpvOe5Xn0Ue8QCLcBGAs/s200/016.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/8_480p.stream/playlist.m3u8
+
+
 type=video
-name=mono29hd
-URL=http://iptvthailand.dyndns.biz/dode/mono29hd.stream/playlist.m3u8
+name=mono_29
+thumb=https://1.bp.blogspot.com/-EXQx5Dd5E9U/WdLYuI86vUI/AAAAAAAAAGw/CBg2Q3TQJFIzZM9V5xf8TdVQJgh5UEksgCLcBGAs/s200/017.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/mono_29_480p.stream/playlist.m3u8
+
 type=video
-name=one hd
-URL=http://iptvthailand.dyndns.biz/dode/onehd.stream/playlist.m3u8
+name=one
+thumb=https://4.bp.blogspot.com/-p114ags-grM/WdLYuABkQxI/AAAAAAAAAG0/huooKSpENSsrtJkS8opvxNJQtT4iTCKpwCLcBGAs/s200/018.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/one_720p.stream/playlist.m3u8
+
 type=video
-name=amarin hd
-URL=http://iptvthailand.dyndns.biz/dode/amarinhd.stream/playlist.m3u8
+name=mcot_family
+thumb=https://2.bp.blogspot.com/-R4fI-Ovc7-M/WdLYuyhdMdI/AAAAAAAAAG8/SAQ0Bj2-5y024QyPUht85K6ctTQfOICdQCLcBGAs/s200/019.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/mcot_family_480p.stream/playlist.m3u8
+
 type=video
-name=thairath hd
-URL=http://iptvthailand.dyndns.biz/dode/thairathhd.stream/playlist.m3u8
+name=3_sd
+thumb=https://4.bp.blogspot.com/-woA_eCOjWO0/WdLYu-AZzjI/AAAAAAAAAG4/RBBYV8a1plIz0-VW4XLAvVLFy4BOVveTgCLcBGAs/s200/020.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/3_sd_480p.stream/playlist.m3u8
+
 type=video
-name=pptv hd
-URL=http://iptvthailand.dyndns.biz/dode/pptv.stream/playlist.m3u8
+name=nation_tv
+thumb=https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png
+date=2017-10-27
+URL=http://103.77.116.238:443/news/nation_tv_480p.stream/playlist.m3u8
+
+type=video
+name=3_family
+thumb=https://3.bp.blogspot.com/-PgpXkLhYoAs/WdLYvRCQaXI/AAAAAAAAAHE/pNE5dIhBIvUzthzAFzMZJag5sYE99W0NwCLcBGAs/s200/022.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/3_family_480p.stream/playlist.m3u8
+
+
+type=video
+name=mcot1
+thumb=https://4.bp.blogspot.com/-8SoN-Jgv66Q/WdLYvv4axfI/AAAAAAAAAHM/mQ7h2uBlrJsJTPs0Mq3jiy3OcTaxn6UvgCLcBGAs/s200/024.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/mcot1_480p.stream/playlist.m3u8
+
+type=video
+name=nbt
+thumb=https://4.bp.blogspot.com/-y8iyhanqX1Y/WdLYwDUd1EI/AAAAAAAAAHQ/6Nt31oLysEEIKcQAVWTATR-nsthNu9X6wCLcBGAs/s200/025.png
+date=2017-10-27
+URL=http://103.77.116.238:443/tvdigital/nbt_480p.stream/playlist.m3u8
+
+
+
 
 
 type=video
@@ -489,76 +499,6 @@ thumb=
 date=
 URL=
 
-
-type=video
-name=TV5-HD
-URL=http://livetv.khaozap.com/tv5_hd_480p.stream/playlist.m3u8
-type=video
-name=NBT
-URL=http://livetv.khaozap.com/nbt_480p.stream/playlist.m3u8
-type=video
-name=3-Family
-URL=http://livetv.khaozap.com/3_family_480p.stream/playlist.m3u8
-type=video
-name=MCOT-Family
-URL=http://livetv.khaozap.com/mcot_family_480p.stream/playlist.m3u8
-type=video
-name=NEW-TV
-URL=http://livetv.khaozap.com/new_tv_480p.stream/playlist.m3u8
-type=video
-name=Spring-News
-URL=http://livetv.khaozap.com/spring_news_480p.stream/playlist.m3u8
-type=video
-name=Bright-TV
-URL=http://livetv.khaozap.com/bright_tv_480p.stream/playlist.m3u8
-type=video
-name=VOICE-TV
-URL=http://livetv.khaozap.com/voice_tv_480p.stream/playlist.m3u8
-type=video
-name=Nation-TV
-URL=http://livetv.khaozap.com/nation_tv_480p.stream/playlist.m3u8
-type=video
-name=Workpoint-TV
-URL=http://livetv.khaozap.com/workpoint_tv_480p.stream/playlist.m3u8
-type=video
-name=True4U
-URL=http://livetv.khaozap.com/true4u_480p.stream/playlist.m3u8
-type=video
-name=Gmm25
-URL=http://livetv.khaozap.com/gmm25_480p.stream/playlist.m3u8
-type=video
-name=CH 8
-URL=http://livetv.khaozap.com/8_480p.stream/playlist.m3u8
-type=video
-name=CH 3-SD
-URL=http://livetv.khaozap.com/3_sd_480p.stream/playlist.m3u8
-type=video
-name=Mono-29
-URL=http://livetv.khaozap.com/mono_29_480p.stream/playlist.m3u8
-type=video
-name=MCOT-HD
-URL=http://livetv.khaozap.com/mcot_hd_480p.stream/playlist.m3u8
-type=video
-name=Thairath-TV
-URL=http://livetv.khaozap.com/thairath_tv_480p.stream/playlist.m3u8
-type=video
-name=3-HD
-URL=http://livetv.khaozap.com/3_hd_480p.stream/playlist.m3u8
-type=video
-name=Amarin-TV-HD
-URL=http://livetv.khaozap.com/amarin_tv_hd_480p.stream/playlist.m3u8
-type=video
-name=CH 7-HD
-URL=http://livetv.khaozap.com/7_hd_480p.stream/playlist.m3u8
-type=video
-name=PPTV-HD
-URL=http://livetv.khaozap.com/pptv_hd_480p.stream/playlist.m3u8
-type=video
-name=True-Plook-Panya
-URL=http://livetv.khaozap.com/true_plook_panya_480p.stream/playlist.m3u8
-type=video
-name=MCOT1
-URL=http://livetv.khaozap.com/mcot1_480p.stream/playlist.m3u8
 
 
 
