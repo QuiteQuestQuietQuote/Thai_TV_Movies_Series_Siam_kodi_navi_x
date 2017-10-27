@@ -232,14 +232,7 @@ URL=
 
 
 
-# 2765615
-type=video
-name=Doraemon the Movie: Nobita and the Birth of Japan (CAM SOUND)
-thumb=http://image.tmdb.org/t/p/w500/kKzOIa5DIE5JLLZLVSBRZmLlPMq.jpg
-URL=https://openload.co/f/nHFfzZLpsko/Doraemon_The_Movie_2016_%282017%29_%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%99_%E0%B8%95%E0%B8%AD%E0%B8%99_%E0%B9%82%E0%B8%99%E0%B8%9A%E0%B8%B4%E0%B8%95%E0%B8%B0%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99.mp4
-player=default
-rating=-1.00
-description=This film is a remake of the 1989 Doraemon Movie 10: Nobita no Nippon Tanjou. Nobita and the gang run away from home, traveling back in time to 70,000 years ago before Japan was even born. After a while, they return to the present. However, when they bump into a young caveman, Kukuru, who they have accidentally transported forward to their current era, they realize they must take him back to the primitive age. On top of that, they will have to save Kukuru's tribe, called the Hikari tribe, which was attacked and abducted by the Giganzonbie and Kurayami tribe./description
+
 
 
 

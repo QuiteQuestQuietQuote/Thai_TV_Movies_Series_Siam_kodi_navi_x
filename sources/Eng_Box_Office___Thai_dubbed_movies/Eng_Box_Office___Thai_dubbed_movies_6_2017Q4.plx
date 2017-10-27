@@ -129,7 +129,11 @@ URL=
 
 
 
-
+type=video
+name=Jeepers Creepers III (2017) ENG HDCAM.x264-DiRG
+thumb=https://image.tmdb.org/t/p/w640/iw4zbtCw01JhTMpFtyYBKEDPBSL.jpg
+date=2017-10-27
+URL=https://openload.co/f/ixfU_gOrA_4/Jeepers.Creepers.3.2017.HDCAM.x264-DiRG.mp4
 
 type=video
 name=Home Again (2017) ENG HDCAM_x264-DiRG
@@ -175,12 +179,7 @@ thumb=https://image.tmdb.org/t/p/w640/2D2XnnZKNhhxb3Ig0PM0OIVdmZ8.jpg
 date=2017-10-06
 URL=https://openload.co/f/fkXkBBTTZxM/Walking.Out.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
-type=video
-name=The Glass Castle (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/d5fLQ9ZMa1jZ2mODCv5lOWJDugX.jpg
-date=2017-10-24
-URL=https://openload.co/f/WPYVLH0vEjY/The.Glass.Castle.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
-#https://openload.co/f/E8CFiWcqCQ8/The.Glass.Castle.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Logan Lucky (2017) ENG TS.x264-CPG
@@ -222,7 +221,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-10-25
+date=2017-10-27
 URL=
 
 
@@ -235,6 +234,48 @@ URL=
 
 
 
+
+type=video
+name=The Trip to Spain (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/74RSdBGWdtbdClQ2NGJeTTyO7fq.jpg
+date=2017-10-27
+URL=https://openload.co/f/vlkPOdFRwl4/The_Trip_to_Spain.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Slamma Jamma (2017) ENG DVDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/kUTx2OFM8qyRsacjjNK4ZmaAs3M.jpg
+date=2017-10-27
+URL=https://openload.co/f/GSOjQyl0JeA/Slamma_Jamma.2017.DVDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=The Heyday of the Insensitive Bastards (2016) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/70pgGorObEEBYKsQOcOYQMmTtNq.jpg
+date=2017-10-27
+URL=https://openload.co/f/URaCNgT5Js4/The_Heyday_of_the_Insensitive_Bastards.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=Crash Pad (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/rsMv3uk6ZQTSOvFtWFzhYav2tEq.jpg
+date=2017-10-27
+URL=https://openload.co/f/uYhJ9tG7l80/Crash.Pad.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=The Truth About Lies (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/4lGqhjois9GvQ2VA23Q5zzEaqv.jpg
+date=2017-10-27
+URL=https://openload.co/f/4vkKsUNgS8g/The.Truth.About.Lies.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Arg Stairs (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/mrYEfb8WZkCdhjfY6mUxDC2MUOp.jpg
+date=2017-10-27
+URL=https://openload.co/f/KIyqeZ9kLwk/Arg_Stairs.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Acts of Vengeance (2017) ENG WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/XZ1NmJmi7xFXo6eJ0UNswRpitV.jpg
+date=2017-10-27
+URL=https://openload.co/f/esU0klLUNGo/Acts.Of.Vengeance.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
 name=A Closer Walk with Thee (2017) ENG DVDRip.x264-RedBlade
@@ -317,10 +358,11 @@ date=2017-10-16
 URL=https://openload.co/f/UKGuPSK2OjQ/Kiss_and_Cry_%282017%29_1080p_WEBRip_%5Bmoviseries.com%5D.mp4
 
 type=video
-name=The Gaelic King (2017) ENG DVDRip.XViD.AC3-juggs
+name=The Gaelic King (2017) ENG DVDRip.x264-SPOOKS
 thumb=https://image.tmdb.org/t/p/w640/wgdWTkIm0mc4RpcFqDtPMwhBd3e.jpg
 date=2017-10-16
-URL=https://openload.co/f/xKvLAvDHFug/The.Gaelic.King.2017.DVDRip.XViD.AC3-juggs.avi.mp4
+URL=https://openload.co/f/a32POD-ZrdM/The.Gaelic.King.2017.DVDRip.x264-SPOOKS.mkv.mp4
+#https://openload.co/f/xKvLAvDHFug/The.Gaelic.King.2017.DVDRip.XViD.AC3-juggs.avi.mp4
 
 type=video
 name=The Last Dragonslayer (2016) ENG DVDRip_x264-GHOULS
@@ -812,12 +854,38 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-24
+date=2017-10-27
 URL=
 
 
 
 
+
+
+
+type=video
+name=The Glass Castle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/d5fLQ9ZMa1jZ2mODCv5lOWJDugX.jpg
+date=2017-10-27
+URL=https://openload.co/f/UOKIRADy6c8/The.Glass.Castle.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+
+type=video
+name=Lord, Give Me Patience (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] MKV 7.7GB
+thumb=https://image.tmdb.org/t/p/w640/vYtmqQ0Q3zjTRa4COgePNQcxTcN.jpg
+date=2017-10-27
+URL=https://openload.co/f/Jd0GQ4lEOA4/lord.give.me.patience.2017.1080p.bluray.x264-bipolar.mkv
+
+type=video
+name=Vir Altyd (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.6GB
+thumb=https://image.tmdb.org/t/p/w640/7iwutrKSWrVcuPZXVPBwJnqduAK.jpg
+date=2017-10-27
+URL=https://openload.co/f/kS_IMxMP-kc/vir.altyd.2016.1080p.bluray.x264-bipolar.mkv
+
+type=video
+name=Krampus Unleashed (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/twwkVebMD9jjSZuPa19VoSdNAuI.jpg
+date=2017-10-27
+URL=https://openload.co/f/7kGOSJ1svq0/Krampus.Unleashed.2016.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
 
 type=video
 name=Ingrid Goes West (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.6GB
@@ -1452,6 +1520,17 @@ URL=https://www.blazefile.co/embed-y82qv0wsi9wn.html
 #https://openload.co/f/uu0n2mVkoK8/Jungle.2017.BRRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/qioNwiUuxkM/Jungle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
+type=video
+name=The Worst Year of My Life (2015) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/5Vpu3uA8mKgiOTshCxTnMn3yb0M.jpg
+date=2017-10-27
+URL=https://openload.co/f/ZlLnByEfHPY/the.worst.year.of.my.life.2015.720p.bluray.x264-bipolar.mkv.mp4
+
+type=video
+name=Evolution (2015) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/rySXb3722jTRSkKKlwo3ZFusbKF.jpg
+date=2017-10-27
+URL=https://openload.co/f/gym9g-_NH3I/evolution.2015.limited.subbed.720p.bluray.x264-usury.mkv.mp4
 
 
 
@@ -2017,10 +2096,10 @@ URL=https://openload.co/f/QRlE2srV46k/The_LEGO_Ninjago_Movie_%282017%29%E0%B9%80
 
 
 type=video
-name=Cars 3 (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Cars 3 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
-date=2017-10-22
-URL=https://www.blazefile.co/embed-ctbsc0o24jmg.html
+date=2017-10-27
+URL=https://openload.co/f/gsc-L0AOQFw/Cars.3.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/ngRbnO8x0Ig/Cars.3.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv
 #https://openload.co/f/V4qbtFxzsBg/Cars.3.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO..mkv.mp4
 #https://openload.co/f/kCn5e0JoqMc/Cars.3.2017.WEB-DL.x264-FGT.mp4
@@ -2163,17 +2242,7 @@ URL=https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264.
 
 
 
-type=video
-name=2:22 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
-date=2017-07-15
-URL=https://www.blazefile.co/embed-xjd2874xqmwp.html
-#https://openload.co/f/7wywF5jXNdY/2.22.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
-type=video
-name=2:22 (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
-date=2017-07-02
-URL=https://openload.co/f/ExI4z1WHPU8/2.22.2017.1080p.WEB-DL.DD5.1.H264.ThaIRonG-CpT.mkv.mp4
+
 
 
 type=video
@@ -2304,7 +2373,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-20
+date=2017-10-27
 URL=https://vidnodessl.akamaized.net/246357/19.10/ANNABELLE-%20CREATION.mp4
 
 
@@ -2314,6 +2383,35 @@ URL=https://vidnodessl.akamaized.net/246357/19.10/ANNABELLE-%20CREATION.mp4
 
 
 
+
+
+type=video
+name=The Void (2016) TH
+thumb=https://image.tmdb.org/t/p/w640/nH1YZAL8IeIQEOm2ewi5ncpuPQG.jpg
+date=2017-10-27
+URL=https://openload.co/f/3baUszxCUEA/The_Void_%282016%29%E0%B9%81%E0%B8%97%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87.mp4
+
+
+type=video
+name=2:22 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
+date=2017-07-15
+URL=https://www.blazefile.co/embed-xjd2874xqmwp.html
+#https://openload.co/f/7wywF5jXNdY/2.22.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+type=video
+name=2:22 (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
+date=2017-10-27
+URL=https://openload.co/f/IKpa0F_NVH0/2%3A22_%282017%29%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B9%80%E0%B8%89%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+
+
+type=video
+name=Doraemon the Movie: Nobita and the Birth of Japan (2016) TH
+thumb=http://image.tmdb.org/t/p/w500/kKzOIa5DIE5JLLZLVSBRZmLlPMq.jpg
+URL=https://openload.co/f/-Sr1fg7HTxk/Doraemon_the_Movie%3A_Nobita_and_the_Birth_of_Japan_%282016%29%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%99_%E0%B8%95%E0%B8%AD%E0%B8%99_%E0%B9%82%E0%B8%99%E0%B8%9A%E0%B8%B4%E0%B8%95%E0%B8%B0%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99.mp4
+player=default
+rating=-1.00
+description=This film is a remake of the 1989 Doraemon Movie 10: Nobita no Nippon Tanjou. Nobita and the gang run away from home, traveling back in time to 70,000 years ago before Japan was even born. After a while, they return to the present. However, when they bump into a young caveman, Kukuru, who they have accidentally transported forward to their current era, they realize they must take him back to the primitive age. On top of that, they will have to save Kukuru's tribe, called the Hikari tribe, which was attacked and abducted by the Giganzonbie and Kurayami tribe./description
 
 
 type=video
@@ -2556,8 +2654,8 @@ URL=https://openload.co/f/hMX0jGq8QB4/Transformers%3A_The_Last_Knight_%282017%29
 type=video
 name=Detective Conan: Crimson Love Letter (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/shpjDVjugLMoc4Wt1eRdueH5IOf.jpg
-date=2017-10-02
-URL=https://openload.co/f/wGf1kg21lOQ/Detective_Conan%3A_Crimson_Love_Letter_%282017%29%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%A7_%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99_%3A_%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
+date=2017-10-28
+URL=https://openload.co/f/ptxBMuyL9e8/Detective_Conan%3A_Crimson_Love_Letter_%282017%29%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%A7_%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B9%E0%B9%88%E0%B8%A7%E0%B8%B5%E0%B9%88_21%3A_%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
 
 
 type=video
