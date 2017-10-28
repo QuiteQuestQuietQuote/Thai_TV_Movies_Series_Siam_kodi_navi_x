@@ -24,7 +24,7 @@ rating=-1.00
 type=video
 name=
 thumb=
-URL=http://103.77.116.238:443/documentary/national_geographic_people_720p.stream/playlist.m3u8
+URL=http://103.77.116.238:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=XOspgu3VgXf3pYjdSWTkoQ&username2=0808808080&username=eQKkpm82JSNz2Sjc1OQZ&password=mmmmd9d6e93290be96a4d030&e=1509205284
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -34,7 +34,7 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
-URL=https://www.blazefile.co/embed-1hx2siopw4xb.html
+URL=http://27.254.154.154:1935/cinema/NATIONAL_GEOGRAPHIC_CHANNEL.stream/playlist.m3u8
 
 
 
@@ -1557,12 +1557,12 @@ rating=-1.00
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://103.77.116.238:443/movie/hbo_hits_720p.stream/playlist.m3u8
+URL=http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD[/COLOR]
 thumb=https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png
-URL=http://183.88.212.205:8010/play/a01l
+URL=http://210.210.155.5:9992/h/h14/index.m3u8
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE1[/COLOR]
