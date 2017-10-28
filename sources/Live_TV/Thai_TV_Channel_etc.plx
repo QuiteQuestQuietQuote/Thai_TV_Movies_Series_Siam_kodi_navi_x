@@ -170,7 +170,7 @@ rating=-1.00
 type=video
 name=CHANNEL 3
 thumb=https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Channel_3_Thailand_Logo.svg/1200px-Channel_3_Thailand_Logo.svg.png
-URL=http://103.77.116.238:443/tvdigital/3_hd_720p.stream/playlist.m3u8
+URL=http://103.77.116.238:443/tvdigital/3_hd_720p.stream/playlist.m3u8?st=XOspgu3VgXf3pYjdSWTkoQ&username2=0808808080&username=eQKkpm82JSNz2Sjc1OQZ&password=mmmmd9d6e93290be96a4d030&e=1509205284
 player=default
 rating=-1.00
 
@@ -254,7 +254,7 @@ rating=-1.00
 type=video
 name=CH 3 family
 thumb=http://www.thaiptv.com/img/3family.png
-URL=http://103.77.116.238:443/tvdigital/3_family_480p.stream/playlist.m3u8
+URL=http://103.77.116.238:443/tvdigital/3_family_480p.stream/playlist.m3u8?st=XOspgu3VgXf3pYjdSWTkoQ&username2=0808808080&username=eQKkpm82JSNz2Sjc1OQZ&password=mmmmd9d6e93290be96a4d030&e=1509205284
 player=default
 rating=-1.00
 
@@ -296,7 +296,7 @@ rating=-1.00
 type=video
 name=CH 3 SD
 thumb=http://www.thaiptv.com/img/3sd.png
-URL=http://103.77.116.238:443/tvdigital/3_sd_480p.stream/playlist.m3u8
+URL=http://103.77.116.238:443/tvdigital/3_sd_480p.stream/playlist.m3u8?st=XOspgu3VgXf3pYjdSWTkoQ&username2=0808808080&username=eQKkpm82JSNz2Sjc1OQZ&password=mmmmd9d6e93290be96a4d030&e=1509205284
 player=default
 rating=-1.00
 
@@ -837,7 +837,7 @@ type=video
 name=discovery_sci
 thumb=https://2.bp.blogspot.com/-fON3PQ3epac/WdLY5DfEFmI/AAAAAAAAAJo/6vW7TQ_dVkIn26x9l9hx7kebzKg6AwS-ACLcBGAs/s320/063.png
 date=2017-10-27
-URL=
+URL=http://103.77.116.238:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=XOspgu3VgXf3pYjdSWTkoQ&username2=0808808080&username=eQKkpm82JSNz2Sjc1OQZ&password=mmmmd9d6e93290be96a4d030&e=1509205284
 
 type=video
 name=history_channel_hd
