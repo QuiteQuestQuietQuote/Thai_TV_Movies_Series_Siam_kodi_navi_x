@@ -221,7 +221,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-10-27
+date=2017-10-28
 URL=
 
 
@@ -233,7 +233,11 @@ URL=
 
 
 
-
+type=video
+name=Brad's Status (2017)
+thumb=https://image.tmdb.org/t/p/w640/uXiNpvig7EMq18VyNBUTlWrmN0q.jpg
+date=2017-10-28
+URL=https://openload.co/f/lYMpDxsb1UI/Brads.Status.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 
 type=video
 name=The Trip to Spain (2017) ENG HDRip.XviD.AC3-EVO
@@ -1129,12 +1133,7 @@ date=2017-09-29
 URL=https://www.blazefile.co/embed-y35w3prjrks2.html
 #https://openload.co/f/_AzvKUoSqRs/Una.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=The House (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/hkmWkVgirei79bwds23Hr0lWSXS.jpg
-date=2017-09-26
-URL=https://openload.co/f/keXLH-SrQw8/The.House.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://www.blazefile.co/embed-pn6ml5wz8vat.html
+
 
 
 type=video
@@ -1532,6 +1531,13 @@ thumb=https://image.tmdb.org/t/p/w640/rySXb3722jTRSkKKlwo3ZFusbKF.jpg
 date=2017-10-27
 URL=https://openload.co/f/gym9g-_NH3I/evolution.2015.limited.subbed.720p.bluray.x264-usury.mkv.mp4
 
+type=video
+name=Ali and Nino (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/qqcqscCLoAtGnN7wuqnqNOYdbZG.jpg
+date=2017-10-28
+URL=https://openload.co/f/1SLgOj24Erk/Ali.and.Nino.2016.720p.BluRay.x264-EXCLUDED.mkv.mp4
+
+
 
 
 
@@ -1579,7 +1585,7 @@ URL=http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?userna
 type=video
 name=
 thumb=
-date=2017-10-24
+date=2017-10-28
 URL=http://203.162.235.41:17819
 
 
@@ -1587,6 +1593,13 @@ URL=http://203.162.235.41:17819
 
 
 
+
+
+type=video
+name=Wolf Warrior 2 (2017) THCAM
+thumb=https://image.tmdb.org/t/p/w640/43cEBkGpr0whbDuisa7TRLnv7X0.jpg
+date=2017-10-28
+URL=https://openload.co/f/JNaFUCFSBUk/Wolf_Warrior_2_%282017%29%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 type=video
 name=The Son of Bigfoot (2017) THCAM
@@ -1765,8 +1778,17 @@ URL=
 
 
 
-
-
+type=video
+name=The House (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/hkmWkVgirei79bwds23Hr0lWSXS.jpg
+date=2017-09-26
+URL=https://openload.co/f/keXLH-SrQw8/The.House.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://www.blazefile.co/embed-pn6ml5wz8vat.html
+type=video
+name=The House (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/hkmWkVgirei79bwds23Hr0lWSXS.jpg
+date=2017-10-28
+URL=https://openload.co/f/Te1Oo96FmrY/The_House_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%AE%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
 
 
 type=video
@@ -2112,10 +2134,10 @@ URL=https://openload.co/f/CG946mggADo/Cars_3_%282017%29%E0%B8%AA%E0%B8%B5%E0%B9%
 
 
 type=video
-name=It (2017) ENG HC.HDRip
+name=It (2017) ENG HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
-date=2017-10-07
-URL=https://openload.co/f/4aIX_m1kW5g/IT_%282017%29_%5B1080p%5D_%5BHC%5D_%5BHDRip%5D.mp4
+date=2017-10-28
+URL=https://openload.co/f/znDy--tZHnA/IT.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 type=video
 name=It (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
@@ -2453,8 +2475,8 @@ URL=https://www.blazefile.co/embed-n01k1h3x9sv4.html
 type=video
 name=Bitter Harvest (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/n6qOtH7LWsv4UaxAfZ5uQjDnzBE.jpg
-date=2017-10-20
-URL=https://openload.co/f/5i8lGxUeXBM/Bitter_Harvest_%282017%29%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%83%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%9A.mp4
+date=2017-10-28
+URL=https://openload.co/f/P_0JZSJMNPs/Bitter_Harvest_%282017%29%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%83%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%9A.mp4
 
 
 type=video
