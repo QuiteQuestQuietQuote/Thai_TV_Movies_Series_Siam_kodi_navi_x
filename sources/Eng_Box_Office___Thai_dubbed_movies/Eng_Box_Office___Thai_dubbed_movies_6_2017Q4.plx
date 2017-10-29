@@ -73,10 +73,13 @@ URL=http://103.77.116.238:443/documentary/discovery_channel_480p.stream/playlist
 
 
 type=video
-name=Thor: Ragnarok (2017) ENG
+name=Thor: Ragnarok (2017) ENG HDCAM_x264-NEXUS_few_minutes_are_spanish
 thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
 date=2017-10-29
-URL=https://openload.co/f/N5CTkRYKr5g/Thor%3A_Ragnarok_2017_HDCAM_%5BLayar-21.com%5D.mp4
+URL=https://openload.co/f/TJgCB67boIs/Thor_Ragnarok_2017_ENG_HDCAM_x264-NEXUS_%28few_minutes_are_spanish%29.mp4
+#https://openload.co/f/6ZvZcs_wfXQ/Thor_Ragnarok_2017_NOLOGO_ENG_LQ_HDCAM.mp4
+#https://openload.co/f/N5CTkRYKr5g/Thor%3A_Ragnarok_2017_HDCAM_%5BLayar-21.com%5D.mp4
+#http://entervideo.net/watch/fbc6907370d0144
 
 type=video
 name=The Mountain Between Us (2017) RUS

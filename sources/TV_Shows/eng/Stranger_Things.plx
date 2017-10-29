@@ -46,6 +46,64 @@ thumb=https://image.tmdb.org/t/p/w130_and_h195_bestv2/qlPOYXOS1Wvs5h9vwvACvX9xnv
 date=2017-10-19
 URL=
 
+
+
+type=video
+name=S02E01___Chapter One: MADMAX
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/efz0MgPAxPw11PIeAJNgKKg3Paa.jpg
+date=2017-10-29
+URL=https://openload.co/f/Df4EI3-_JO4/stranger.things.s02e01.internal.1080p.web.x264-strife.mkv.mp4
+
+type=video
+name=S02E02___Chapter Two: Trick or Treat, Freak
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/oGMZxF4yivOSCGZTMgiDD2Ye2Hi.jpg
+date=2017-10-29
+URL=https://openload.co/f/XSg9Eyjxc-o/stranger.things.s02e02.internal.1080p.web.x264-strife.mkv.mp4
+
+type=video
+name=S02E03___Chapter Three: The Pollywog
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/tN2H3oZozRqO3OsXEGLfsUHMlIY.jpg
+date=2017-10-29
+URL=https://openload.co/f/FwG9iadEJP0/stranger.things.s02e03.internal.1080p.web.x264-strife.mkv.mp4
+
+type=video
+name=S02E04___Chapter Four: Will the Wise
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/wZ7ZDnftX9Y1O25I5tOaEKdK7FT.jpg
+date=2017-10-29
+URL=https://openload.co/f/u5JLxJbdHHw/stranger.things.s02e04.internal.1080p.web.x264-strife.mkv.mp4
+
+type=video
+name=S02E05___Chapter Five: Dig Dug
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/oshY3LAwQRzhcjmEEr7EbOnypuU.jpg
+date=2017-10-29
+URL=https://openload.co/f/IesY5HmJsBc/stranger.things.s02e05.internal.1080p.web.x264-strife.mkv.mp4
+
+type=video
+name=S02E06___Chapter Six: The Spy
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/d90nCiTEACFEUd3fcX8DrLBi5DL.jpg
+date=2017-10-29
+URL=https://openload.co/f/zWqw0gGt6z4/stranger.things.s02e06.internal.1080p.web.x264-strife.mkv.mp4
+
+type=video
+name=S02E07___Chapter Seven: The Lost Sister
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/iWQY9ZO6LE361xhAbvo2m5KAAXZ.jpg
+date=2017-10-29
+URL=https://openload.co/f/l-U1hZ6XFVk/stranger.things.s02e07.internal.1080p.web.x264-strife.mkv.mp4
+
+type=video
+name=S02E08___Chapter Eight: The Mind Flayer
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/k3cEwGAWSWbkauYBHSdFnEdalkb.jpg
+date=2017-10-29
+URL=https://openload.co/f/ADB4sNyKW3U/stranger.things.s02e08.internal.1080p.web.x264-strife.mkv.mp4
+
+type=video
+name=S02E09___Chapter Nine: The Gate
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/wqwAsocYrxl7MtHiY8ZAsIxrX5v.jpg
+date=2017-10-29
+URL=https://openload.co/f/OzQUsLo6QA0/stranger.things.s02e09.internal.1080p.web.x264-strife.mkv.mp4
+
+
+
 type=video
 name=
 thumb=
@@ -61,11 +119,7 @@ date=2017-10-19
 URL=
 
 
-type=video
-name=
-thumb=
-date=2017-10-19
-URL=
+
 
 
 

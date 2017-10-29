@@ -46,8 +46,26 @@ URL=https://www.googleapis.com/drive/v3/files/0B1Qx2ZSbvQF0a1BrWmhmWHNHbHM?alt=m
 type=video
 name=
 thumb=
-date=2017-10-24
-URL=
+date=2017-10-29
+URL=https://filebebo.com/e/763v5yyu5uik
+
+type=video
+name=The Witches of Breastwick (2005)
+thumb=https://image.tmdb.org/t/p/w640/5iFCce61S8z1kNVcPnrCS2bn3BR.jpg
+date=2017-10-29
+URL=https://openload.co/f/qXqceiOHU_I/The_Witches_of_Breastwick_2005_DVDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=An Erotic Werewolf in London (2006)
+thumb=https://image.tmdb.org/t/p/w640/jz9EVTTf4rFjPSb2UyMuT2bpusj.jpg
+date=2017-10-29
+URL=https://openload.co/f/5-MRp9gJ46U/An_Erotic_Werewolf_in_London_2006_DVDRip_%5BLayar-21.com%5D.mp4
+
+type=video
+name=Erotic Seductions (2007)
+thumb=https://image.tmdb.org/t/p/w640/fuAd4R2TCbOf7xLQXu6Ky7TamRM.jpg
+date=2017-10-29
+URL=https://openload.co/f/RqgTINy3XAc/Erotic_Seductions_2007_DVDRip_%5BLayar-21.com%5D.mp4.mp4
 
 type=video
 name=Nude (2017)
