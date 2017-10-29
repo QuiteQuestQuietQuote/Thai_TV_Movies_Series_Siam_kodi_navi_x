@@ -24,7 +24,7 @@ rating=-1.00
 type=video
 name=
 thumb=
-URL=http://103.77.116.238:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=XOspgu3VgXf3pYjdSWTkoQ&username2=0808808080&username=eQKkpm82JSNz2Sjc1OQZ&password=mmmmd9d6e93290be96a4d030&e=1509205284
+URL=http://103.77.116.238:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=n2Ssa6ehkp7wMg47XXWTdw&username2=0981209852&username=9c7afba39da9b4fb2990&password=mmmm82168f74670f9d5dbcf7&e=1509310126
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -34,34 +34,34 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
+URL=http://103.77.116.238:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=n2Ssa6ehkp7wMg47XXWTdw&username2=0981209852&username=9c7afba39da9b4fb2990&password=mmmm82168f74670f9d5dbcf7&e=1509310126
+
+
+
+
+type=video
+name=
+thumb=
+date=2017-09-22
+URL=http://103.77.116.238:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=n2Ssa6ehkp7wMg47XXWTdw&username2=0981209852&username=9c7afba39da9b4fb2990&password=mmmm82168f74670f9d5dbcf7&e=1509310126
+
+
+
+
+
+
+type=video
+name=
+thumb=
+date=2017-09-22
 URL=http://27.254.154.154:1935/cinema/NATIONAL_GEOGRAPHIC_CHANNEL.stream/playlist.m3u8
-
-
-
-
-type=video
-name=
-thumb=
-date=2017-09-22
-URL=https://www.blazefile.co/embed-46pw4kb3ypms.html
-
-
-
-
-
-
-type=video
-name=
-thumb=
-date=2017-09-22
-URL=https://www.blazefile.co/embed-4jistmi6ss5f.html
 
 
 type=video
 name=
 thumb=
 date=2017-10-24
-URL=
+URL=http://103.77.116.238:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=n2Ssa6ehkp7wMg47XXWTdw&username2=0981209852&username=9c7afba39da9b4fb2990&password=mmmm82168f74670f9d5dbcf7&e=1509310126
 
 
 
