@@ -1566,9 +1566,9 @@ thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8
 URL=http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 type=video
-name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD[/COLOR]
+name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD (TH)[/COLOR]
 thumb=https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png
-URL=http://210.210.155.5:9992/h/h14/index.m3u8
+URL=http://103.77.116.238:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?st=n2Ssa6ehkp7wMg47XXWTdw&username2=0981209852&username=9c7afba39da9b4fb2990&password=mmmm82168f74670f9d5dbcf7&e=1509310126
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE1[/COLOR]
