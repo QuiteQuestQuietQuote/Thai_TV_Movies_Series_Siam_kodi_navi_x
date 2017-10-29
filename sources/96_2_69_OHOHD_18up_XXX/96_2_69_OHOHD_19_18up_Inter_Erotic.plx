@@ -50,6 +50,12 @@ date=2017-10-24
 URL=
 
 type=video
+name=Nude (2017)
+thumb=http://img.rlsbb.ru/images/Ay3hm5V.jpg
+date=2017-10-29
+URL=https://openload.co/f/mlcgsZraASE/nude.2017.720p.web.h264-strife.mkv.mp4
+
+type=video
 name=Forever 16 (2013)
 thumb=https://image.tmdb.org/t/p/w640/dKAdbMo2D7TTAF7aZLqOUwpSPsR.jpg
 date=2017-10-24

@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
+background=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_6_2017Q4
-logo=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
+logo=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, sockshare, fmovies, ganool, nanamovies./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
+thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -60,13 +60,23 @@ URL=http://27.254.154.154:1935/cinema/NATIONAL_GEOGRAPHIC_CHANNEL.stream/playlis
 type=video
 name=
 thumb=
-date=2017-10-24
+date=2017-10-29
 URL=http://103.77.116.238:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=n2Ssa6ehkp7wMg47XXWTdw&username2=0981209852&username=9c7afba39da9b4fb2990&password=mmmm82168f74670f9d5dbcf7&e=1509310126
 
 
 
 
 
+
+
+
+
+
+type=video
+name=Thor: Ragnarok (2017) ENG
+thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
+date=2017-10-29
+URL=https://openload.co/f/N5CTkRYKr5g/Thor%3A_Ragnarok_2017_HDCAM_%5BLayar-21.com%5D.mp4
 
 type=video
 name=The Mountain Between Us (2017) RUS
@@ -234,10 +244,11 @@ URL=
 
 
 type=video
-name=Brad's Status (2017)
+name=Brad's Status (2017) ENG HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/uXiNpvig7EMq18VyNBUTlWrmN0q.jpg
 date=2017-10-28
 URL=https://openload.co/f/lYMpDxsb1UI/Brads.Status.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+https://openload.co/f/UyC0uF7AyD8/Brads.Status.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 
 type=video
 name=The Trip to Spain (2017) ENG HDRip.XviD.AC3-EVO
@@ -858,7 +869,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-27
+date=2017-10-29
 URL=
 
 
@@ -866,6 +877,19 @@ URL=
 
 
 
+
+type=video
+name=All Nighter (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/ciNUrbNv871umQ3IqvIOjet4s4E.jpg
+date=2017-10-29
+URL=https://openload.co/f/VRFWP55dsdM/All.Nighter.2017.1080p.BluRay.x264-CONDITION.mkv.mp4
+
+type=video
+name=Ali and Nino (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/qqcqscCLoAtGnN7wuqnqNOYdbZG.jpg
+date=2017-10-29
+URL=https://openload.co/f/6OfNo6I3p0E/Ali.and.Nino.2016.1080p.BluRay.x264-EXCLUDED.mkv.mp4
+#https://openload.co/f/1SLgOj24Erk/Ali.and.Nino.2016.720p.BluRay.x264-EXCLUDED.mkv.mp4
 
 type=video
 name=The Glass Castle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1531,11 +1555,7 @@ thumb=https://image.tmdb.org/t/p/w640/rySXb3722jTRSkKKlwo3ZFusbKF.jpg
 date=2017-10-27
 URL=https://openload.co/f/gym9g-_NH3I/evolution.2015.limited.subbed.720p.bluray.x264-usury.mkv.mp4
 
-type=video
-name=Ali and Nino (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/qqcqscCLoAtGnN7wuqnqNOYdbZG.jpg
-date=2017-10-28
-URL=https://openload.co/f/1SLgOj24Erk/Ali.and.Nino.2016.720p.BluRay.x264-EXCLUDED.mkv.mp4
+
 
 
 
