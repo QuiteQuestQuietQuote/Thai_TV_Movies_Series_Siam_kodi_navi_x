@@ -82,6 +82,12 @@ URL=https://openload.co/f/TJgCB67boIs/Thor_Ragnarok_2017_ENG_HDCAM_x264-NEXUS_%2
 #http://entervideo.net/watch/fbc6907370d0144
 
 type=video
+name=Beyond Skyline (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/ktZvjFmwCLrMXtr1dl6o5PhhHS4.jpg
+date=2017-10-30
+URL=https://openload.co/f/E4IDWuSE1Xg/Beyond_Skyline_2017_CAM_%5BLayar-21.com%5D.mp4
+
+type=video
 name=The Mountain Between Us (2017) RUS
 thumb=https://image.tmdb.org/t/p/w640/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg
 date=2017-10-24
@@ -93,13 +99,7 @@ thumb=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
 date=2017-10-22
 URL=https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
 
-type=video
-name=Geostorm (2017) ENG CAM.XViD-26k
-thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
-date=2017-10-26
-URL=https://openload.co/f/WTrxZvQ3bcA/Geostorm.2017.CAM.XViD-26k.avi.mp4
-#https://openload.co/f/KoOE2nWVFFk/Geostorm_2017_CLEAN_SoundFix_HDCAM_ENG_X264_-_Feel.Free.mp4
-#https://openload.co/f/r8oWRvUiE7U/Geostorm_2017_HDCAM_ENG_X264-Feel_Free.mkv.mp4
+
 
 type=video
 name=Brawl in Cell Block 99 (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -234,7 +234,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-10-28
+date=2017-10-30
 URL=
 
 
@@ -726,11 +726,7 @@ thumb=https://image.tmdb.org/t/p/w640/eIlfBm1lp26lP0vJvzQgfYbzftD.jpg
 date=2017-09-08
 URL=https://openload.co/f/HgINDRLD9qI/Who.Is.Alice.2017.1080p.Amazon.WEB-DL.DD%2B2.0.H.264-QOQ.mkv.mp4
 
-type=video
-name=The Vault (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/zBJocluTrE9AiVdBLUPrvvBRCvQ.jpg
-date=2017-09-03
-URL=https://openload.co/f/mzraSq5ldxM/The.Vault.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Chronesthesia (2016) ENG WEBRip.x264-iNTENSO
@@ -872,7 +868,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-29
+date=2017-10-30
 URL=
 
 
@@ -880,6 +876,33 @@ URL=
 
 
 
+type=video
+name=Jungle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg
+date=2017-10-30
+URL=https://www.blazefile.co/embed-vsl8zx0l5aun.html
+#https://openload.co/f/gQa_qNa-48M/jungle.2017.720p.bluray.x264-veto.mkv.mp4
+#https://openload.co/f/uu0n2mVkoK8/Jungle.2017.BRRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/qioNwiUuxkM/Jungle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
+type=video
+name=Killing Ground (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/u7hkfmhQ1nohbXsZ7jIEZXqPI6n.jpg
+date=2017-10-30
+URL=https://openload.co/f/szZE2PDrZeQ/Killing.Ground.2016.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
+
+type=video
+name=Hickok (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/nZdifMku2bcZKZCu7xyrVEU09Le.jpg
+date=2017-10-30
+URL=https://openload.co/f/29kXZgp_59w/Hickok.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Vault (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/zBJocluTrE9AiVdBLUPrvvBRCvQ.jpg
+date=2017-10-30
+URL=https://openload.co/f/6rrOAhTmRPI/the.vault.2017.limited.1080p.bluray.x264-bipolar.mkv.mp4
+#https://www.blazefile.co/embed-74wvnfwgk3wg.html
 
 type=video
 name=All Nighter (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -893,12 +916,14 @@ thumb=https://image.tmdb.org/t/p/w640/qqcqscCLoAtGnN7wuqnqNOYdbZG.jpg
 date=2017-10-29
 URL=https://openload.co/f/6OfNo6I3p0E/Ali.and.Nino.2016.1080p.BluRay.x264-EXCLUDED.mkv.mp4
 #https://openload.co/f/1SLgOj24Erk/Ali.and.Nino.2016.720p.BluRay.x264-EXCLUDED.mkv.mp4
+#https://www.blazefile.co/embed-x0cjlpg2xdzq.html
 
 type=video
 name=The Glass Castle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/d5fLQ9ZMa1jZ2mODCv5lOWJDugX.jpg
 date=2017-10-27
 URL=https://openload.co/f/UOKIRADy6c8/The.Glass.Castle.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://www.blazefile.co/embed-2xc2nz9cno64.html
 
 type=video
 name=Lord, Give Me Patience (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] MKV 7.7GB
@@ -1537,14 +1562,7 @@ date=2017-10-20
 URL=https://www.blazefile.co/embed-qp45icf0qt1z.html
 #https://openload.co/f/l3RIDHnszxI/The.Adventurers.2017.CHINESE.720p.BluRay.x264.DD5.1-FGT.mkv.mp4
 
-type=video
-name=Jungle (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg
-date=2017-10-26
-URL=https://www.blazefile.co/embed-y82qv0wsi9wn.html
-#https://openload.co/f/gQa_qNa-48M/jungle.2017.720p.bluray.x264-veto.mkv.mp4
-#https://openload.co/f/uu0n2mVkoK8/Jungle.2017.BRRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/qioNwiUuxkM/Jungle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=The Worst Year of My Life (2015) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -1616,6 +1634,19 @@ URL=http://203.162.235.41:17819
 
 
 
+
+type=video
+name=Geostorm (2017) ENG CAM.XViD-26k
+thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
+date=2017-10-26
+URL=https://openload.co/f/WTrxZvQ3bcA/Geostorm.2017.CAM.XViD-26k.avi.mp4
+#https://openload.co/f/KoOE2nWVFFk/Geostorm_2017_CLEAN_SoundFix_HDCAM_ENG_X264_-_Feel.Free.mp4
+#https://openload.co/f/r8oWRvUiE7U/Geostorm_2017_HDCAM_ENG_X264-Feel_Free.mkv.mp4
+type=video
+name=Geostorm (2017) THCAM
+thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
+date=2017-10-30
+URL=https://openload.co/f/Tn46uIRSZrI/Geostorm_%282017%29_THCAM%E0%B8%88%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1_%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B2%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -2145,6 +2176,7 @@ name=Cars 3 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
 date=2017-10-27
 URL=https://openload.co/f/gsc-L0AOQFw/Cars.3.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://www.blazefile.co/embed-1wsrgoe1ue1s.html
 #https://openload.co/f/ngRbnO8x0Ig/Cars.3.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv
 #https://openload.co/f/V4qbtFxzsBg/Cars.3.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO..mkv.mp4
 #https://openload.co/f/kCn5e0JoqMc/Cars.3.2017.WEB-DL.x264-FGT.mp4
@@ -2152,8 +2184,8 @@ URL=https://openload.co/f/gsc-L0AOQFw/Cars.3.2017.1080p.BluRay.X264-AMIABLE.mkv.
 type=video
 name=Cars 3 (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
-date=2017-10-21
-URL=https://openload.co/f/CG946mggADo/Cars_3_%282017%29%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87_%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+date=2017-10-30
+URL=https://openload.co/f/9d6mOy0XXNo/Cars_3_%282017%29_THCAM_SOUND%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87_%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
 type=video
