@@ -51,12 +51,288 @@ URL=
 
 
 
+type=video
+name=190xxxxxxxxxxxxxxxxxxxxABP-384 Transformation Pet With
+thumb=http://javsex.net/wp-content/uploads/2015/10/2948.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all/1218a4212e34c21a7ec5983823a181a7.mp4
+
+type=video
+name=SNIS-440 Oma This, Kupaa. Angel Moe
+thumb=http://javsex.net/wp-content/uploads/2015/10/3061.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-5/be8a05813299b0adf7bd91a23102ae24.mp4
+
+type=video
+name=VRTM-119 Fuck Forest Halla Maternal Full Busty Sister
+thumb=http://javsex.net/wp-content/uploads/2015/10/3097.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz5-720p-all-4/5d83029da805c2d67b5b626938ff5330.mp4
+
+type=video
+name=XV-1190 Dirty Daughter Man Hunt Departure From Jochi Woman Ogura Nana
+thumb=http://javsex.net/wp-content/uploads/2015/10/3188.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/76a35884e9588033d3dd4cf6d284e6c0.mp4
+
+type=video
+name=BBI-185 Her De Slut Of AneTakashi And Abunai Relationship Hodaka Yuki
+thumb=http://javsex.net/wp-content/uploads/2015/10/3223.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz5-720p-all-4/c5f0c7c4094238c4d55fb00093507e5c.mp4
+
+
+type=video
+name=MEYD-072 Rich Fuck Tour Of Documents Beautiful
+thumb=http://javsex.net/wp-content/uploads/2015/10/3683.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/cf91b01cdaf18b89c01135114aab2a81.mp4
+
+type=video
+name=SAMA-574 Too beautiful cake shop clerk
+thumb=http://javsex.net/wp-content/uploads/2015/10/3046.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/093f7bb0deca10723ff378dcc78986bd.mp4
+
+type=video
+name=TBL-016 Yuko Ogura Wearing Was Too EROTIC-2 Iki
+thumb=http://javsex.net/wp-content/uploads/2015/10/3085.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/78f065280008cc72a28be29c34da7f32.mp4
+
+type=video
+name=MIAD-675 Calm Sex ~Desperate Me and Liberal Her
+thumb=http://javsex.net/wp-content/uploads/2015/10/3172.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/e782a8dacde20171fba2a961c12b1dab.mp4
+
+type=video
+name=STAR-497 Tachibananashisha LEGEND
+thumb=http://javsex.net/wp-content/uploads/2015/10/3187.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all/70a2a7347e3eacc134dc9903b692d67b.mp4
+
+
+type=video
+name=BBI-181 Beauty Exclusive Debut Slut Awakening Uehara Kaho
+thumb=http://javsex.net/wp-content/uploads/2015/10/3222.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720p-all-9/37c04ef9eb961a398dbd2e5080d63466.mp4
+
+type=video
+name=PPPD-392 Thick SEX Tour And Adhesive
+thumb=http://javsex.net/wp-content/uploads/2015/10/3034.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz5-720p-all-4/970da600e8fc7bbba126bc32f8d2d870.mp4
+
+type=video
+name=SNIS-496 Breasts Are Glanced Aoi Tsukasa 
+thumb=http://javsex.net/wp-content/uploads/2015/10/3071.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz5-720p-all-4/24c1c3d5132ba114eb11ee749a27cf30.mp4
+
+type=video
+name=IPZ-391 Gangbang Amami Tsubasa
+thumb=http://javsex.net/wp-content/uploads/2015/10/3159.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3678-stream/thz-720-all/a222b28df1d2f776405dca720353878b.mp4
+
+type=video
+name=IPZ-645 Hachikiren Just Of Beauty Woman Teacher 
+thumb=http://javsex.net/wp-content/uploads/2015/10/2969.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-ts-all/087090cdc0dc2e06543b46338f4e786b.mp4
 
 
 
 
 
 
+
+type=video
+name=175xxxxxxxxxxxxxxxxxxxxMKMP-034 Million - MAXING Simultaneous
+thumb=http://javsex.net/wp-content/uploads/2015/10/3686.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/5b07175c8c2693c9d647395020637a45.mp4
+
+type=video
+name=ABP-145 Horny Fuck BEROKISU-04 Momodani Erika And Dense Kiss
+thumb=http://javsex.net/wp-content/uploads/2015/10/3162.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz5-720p-all-4/18059647e0f28a7e088f87fcdedfe27d.mp4
+
+type=video
+name=ESK-271 Escalating Doshiro And Daughter 271
+thumb=http://javsex.net/wp-content/uploads/2015/10/3201.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz5-720p-all-4/987ba058cc685e0a9fccf70b2c2c69ff.mp4
+
+type=video
+name=BBI-188 Infirmary Teacher &#8211; Terrible In Tech
+thumb=http://javsex.net/wp-content/uploads/2015/10/3671.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/e94a21ecec85146405811ba1ae3ccf1e.mp4
+
+type=video
+name=SNIS-472 Super Premium Sex Miss Aoi Tsukasa
+thumb=http://javsex.net/wp-content/uploads/2015/10/3063.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-2/8ea93fa2921b7d101fe9c34f9ec6bdc8.mp4
+
+
+type=video
+name=XVSR-094 Birth Hagi Haruka
+thumb=http://javsex.net/wp-content/uploads/2015/10/3099.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz5-720p-all-4/3f92b31d818ed7ed373ba730b6c10591.mp4
+
+type=video
+name=ABP-383 I Only Ass Kos Daughter Suzumura Airi
+thumb=http://javsex.net/wp-content/uploads/2015/10/31901.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all/45c60f68fa684e775357887b0371e298.mp4
+
+type=video
+name=BBI-191 G Cup Beauty Big W Temptation SLUT-3 Hour Special
+thumb=http://javsex.net/wp-content/uploads/2015/10/3225.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz5-720p-all-4/6d1ad0225850764f248be130391afd7d.mp4
+
+type=video
+name=HND-155 Pies Real Becomes More Love!Etchitchi
+thumb=http://javsex.net/wp-content/uploads/2015/10/3235.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz5-720p-all-4/678b49d437fbbd3f625218a432f146fd.mp4
+
+type=video
+name=MIDE-216 RESURRECTION-4 Production Serina Hayakawa 
+thumb=http://javsex.net/wp-content/uploads/2015/10/4113.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/294d7452e5b8f3b233b464e3c1d6414d.mp4
+
+
+type=video
+name=IENE-167 Around time to rest Ji 
+thumb=http://javsex.net/wp-content/uploads/2015/10/4145.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/833b6e769ff6e995a0965b9bd6e407ad.mp4
+
+type=video
+name=ABP-159 120% Derived From Natural Ingredients Momodani Erika Juice
+thumb=http://javsex.net/wp-content/uploads/2015/10/2934.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/6af425da25e97e8029700e28bf7129bb.mp4
+
+type=video
+name=JUX-655 Desire And Pubic Hair &#8211; The 
+thumb=http://javsex.net/wp-content/uploads/2015/10/2974.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720p-all-9/97158fb213fd9d31ad1591727b09187f.mp4
+
+type=video
+name=SNIS-110 The Sticky Facials Utsunomiya
+thumb=http://javsex.net/wp-content/uploads/2015/10/3175.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3678-stream/thz-720-all/af1071fabd0cc15fd8e5a8e5a6076419.mp4
+
+type=video
+name=MIDE-226 Ultra Pretty Restraint Deriheru Yui Nishikawa
+thumb=http://javsex.net/wp-content/uploads/2015/10/4157.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720p-all-10/851ed799d52b8c5f84c99377eb1cfb6b.mp4
+
+
+type=video
+name=APAA-332 Nursery&#039;s Reputation Neat From Parents Was
+thumb=http://javsex.net/wp-content/uploads/2015/10/3668.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/174fdc9891150cc694d108c66c67a4fc.mp4
+
+type=video
+name=ABP-385 Kitano Nozomi&#039;s A Namanaka
+thumb=http://javsex.net/wp-content/uploads/2015/10/2949.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/f624c2faca12539b3ffb8070b3e8de65.mp4
+
+type=video
+name=PPPD-407 Busty Daughter-in-law
+thumb=http://javsex.net/wp-content/uploads/2015/10/3036.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/39a8818fa108c04089deff1c5b7c0e8c.mp4
+
+type=video
+name=SNIS-512 The S1 Actress We Will Fulfill The Desire Of Dispatch To You Home
+thumb=http://javsex.net/wp-content/uploads/2015/10/3074.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/bf57847ad155c35451490acbfa01a9e7.mp4
+
+type=video
+name=MIDE-273 The First Time I Was Chucking Go! Ito Chinami
+thumb=http://javsex.net/wp-content/uploads/2015/10/3161.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all-22/bfbc3cfd816e978f4a804306b0db2df2.mp4
+
+
+type=video
+name=TFG-016 Love Love Sex Let&#8217;s Play ! Usami Nana
+thumb=http://javsex.net/wp-content/uploads/2015/10/3087.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720p-all-9/7e021ba086f5bc36b5ccd1f4233d8bd9.mp4
+
+type=video
+name=APAA-332 Nursery&#039;s Reputation Neat From Parents Was
+thumb=http://javsex.net/wp-content/uploads/2015/10/3668.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/174fdc9891150cc694d108c66c67a4fc.mp4
+
+type=video
+name=ABP-385 Kitano Nozomi&#039;s A Namanaka
+thumb=http://javsex.net/wp-content/uploads/2015/10/2949.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/f624c2faca12539b3ffb8070b3e8de65.mp4
+
+type=video
+name=ABP-369 A Rare Kitano Nozomi Shot SP
+thumb=http://javsex.net/wp-content/uploads/2015/10/4167.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all/5b867f27191a950b1f0d6f234e1cccbb.mp4
+
+type=video
+name=MIDE-282 Pounding First Experience Pretty Slave Soapland Ito Chinami
+thumb=http://javsex.net/wp-content/uploads/2015/10/3684.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-ts-all/e68b642362d5d40e89176a8d01580cde.mp4
+
+
+type=video
+name=MCA-021 Adviser For New
+thumb=http://javsex.net/wp-content/uploads/2015/10/3000.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/cf18977ed3b43ae1692c20a9bc464b18.mp4
+
+type=video
+name=PPPD-398 Rainy Day Encounter With Her Sister
+thumb=http://javsex.net/wp-content/uploads/2015/10/3035.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/454701369a3e052f7da94395d7aa74ed.mp4
+
+type=video
+name=MIDE-279 Ultra-luxury Gcup Tits Maid KamiSaki Shiori 
+thumb=http://javsex.net/wp-content/uploads/2015/10/3267.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/8e63789b5fc961acdc56ccfb58a58b63.mp4
+
+type=video
+name=MIDE-214 I Will Stop Every Time The Piston Comes To Iki Likely
+thumb=http://javsex.net/wp-content/uploads/2015/10/4112.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all-22/1dfebceb894b248df96d42eeb0c7961d.mp4
+
+type=video
+name=ABP-346 Women&#039;s Manager, Our Gender Processing Pet. 010 MizuKino Love
+thumb=http://javsex.net/wp-content/uploads/2015/10/4179.jpg
+date=2017-10-30
+URL=http://s001.yamvideo.com/3674-stream/thz5-720p-all-4/3fdc1fae264cb68b05cfcf10cfe3c56d.mp4
 
 
 
