@@ -36,26 +36,17 @@ name=
 thumb=
 URL=http://103.77.116.238:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=gZE4TwxJKqZ8--N59So6_A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmm76f1f748f14c2fefb7e1&e=1509483395
 
-
-
-
 type=video
 name=
 thumb=
 date=2017-09-22
 URL=http://103.77.116.238:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=gZE4TwxJKqZ8--N59So6_A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmm76f1f748f14c2fefb7e1&e=1509483395
 
-
-
-
-
-
 type=video
 name=
 thumb=
 date=2017-09-22
 URL=http://27.254.154.154:1935/cinema/NATIONAL_GEOGRAPHIC_CHANNEL.stream/playlist.m3u8
-
 
 type=video
 name=
@@ -70,6 +61,12 @@ URL=http://103.77.116.238:443/documentary/discovery_channel_480p.stream/playlist
 
 
 
+type=video
+name=
+thumb=
+date=2017-10-31
+URL=https://lh3.googleusercontent.com/KbroC-hVYfW_U-O-M0AKfQwmx-wZXKicv0xRGSRgKf-E8WgD8doS7xqZJXBcMltP1CXb0IHI0A=m37
+
 
 
 type=video
@@ -80,6 +77,12 @@ URL=https://openload.co/f/TJgCB67boIs/Thor_Ragnarok_2017_ENG_HDCAM_x264-NEXUS_%2
 #https://openload.co/f/6ZvZcs_wfXQ/Thor_Ragnarok_2017_NOLOGO_ENG_LQ_HDCAM.mp4
 #https://openload.co/f/N5CTkRYKr5g/Thor%3A_Ragnarok_2017_HDCAM_%5BLayar-21.com%5D.mp4
 #http://entervideo.net/watch/fbc6907370d0144
+
+type=video
+name=Jigsaw (2017) ESP CAM.Latin.Spanish.YG.E
+thumb=https://image.tmdb.org/t/p/w640/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
+date=2017-10-31
+URL=https://openload.co/f/Fyrq23aYmLE/Jigsaw_2017.CAM.Latin.Spanish.YG.E.mp4
 
 type=video
 name=Beyond Skyline (2017) RUS
@@ -207,10 +210,10 @@ date=2017-10-10
 URL=https://openload.co/f/KrtMkCMab98/Wind.River.2017.HDRip.XviD.AC3-iFT.avi.mp4
 
 type=video
-name=The Nut Job 2: Nutty by Nature (2017) ENG HDCAM_XviD_-_UnKnOwN
+name=The Nut Job 2: Nutty by Nature (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/9FVJOUCmruekroyfsTsAKDYST80.jpg
-date=2017-08-18
-URL=https://openload.co/f/dGpcPf8KdDw/The_Nut_Job_2_2017_HDCAM_XviD_-_UnKnOwN.avi.mp4
+date=2017-10-31
+URL=https://openload.co/f/YXU3Yhx1Csc/The_Nut_Job_2_Nutty_by_Nature.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=The Layover (2017) ENG dvdrip.x264.fragment
@@ -276,6 +279,7 @@ name=Crash Pad (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/rsMv3uk6ZQTSOvFtWFzhYav2tEq.jpg
 date=2017-10-27
 URL=https://openload.co/f/uYhJ9tG7l80/Crash.Pad.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/7JSXgoymMbY/Crash.Pad.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=The Truth About Lies (2017) ENG HDRip.XviD.AC3-EVO
@@ -622,11 +626,7 @@ thumb=https://image.tmdb.org/t/p/w640/crvqys951H0yVoPR38oSg6YAxSj.jpg
 date=2017-09-27
 URL=https://openload.co/f/ceMB5RDxNkE/Cabin_28.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=Crash Pad (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/uS6SZLmrN3UHxJ05yzJqT1mIvez.jpg
-date=2017-09-26
-URL=https://openload.co/f/7JSXgoymMbY/Crash.Pad.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=King Charles III (2017) ENG dvdrip.x264-ghouls
@@ -868,13 +868,28 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-30
+date=2017-10-31
 URL=
 
 
 
 
 
+
+
+type=video
+name=Evolution (2015) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/rySXb3722jTRSkKKlwo3ZFusbKF.jpg
+date=2017-10-27
+URL=https://www.blazefile.co/embed-ldzqzp02tesr.html
+#https://openload.co/f/gym9g-_NH3I/evolution.2015.limited.subbed.720p.bluray.x264-usury.mkv.mp4
+
+type=video
+name=The Healer (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/o7DvjzDfq1M3CL5GLUcGHDbZf4H.jpg
+date=2017-10-31
+URL=https://openload.co/f/9O9V2D1tqr8/the.healer.2017.1080p.bluray.x264-rusted.mkv.mp4
+#https://www.blazefile.co/embed-dgw5ehyqc2b2.html
 
 type=video
 name=Jungle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -889,7 +904,8 @@ type=video
 name=Killing Ground (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/u7hkfmhQ1nohbXsZ7jIEZXqPI6n.jpg
 date=2017-10-30
-URL=https://openload.co/f/szZE2PDrZeQ/Killing.Ground.2016.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
+URL=https://www.blazefile.co/embed-i0glp139c2y6.html
+#https://openload.co/f/szZE2PDrZeQ/Killing.Ground.2016.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
 
 type=video
 name=Hickok (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -901,8 +917,8 @@ type=video
 name=The Vault (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/zBJocluTrE9AiVdBLUPrvvBRCvQ.jpg
 date=2017-10-30
-URL=https://openload.co/f/6rrOAhTmRPI/the.vault.2017.limited.1080p.bluray.x264-bipolar.mkv.mp4
-#https://www.blazefile.co/embed-74wvnfwgk3wg.html
+URL=https://www.blazefile.co/embed-74wvnfwgk3wg.html
+#https://openload.co/f/6rrOAhTmRPI/the.vault.2017.limited.1080p.bluray.x264-bipolar.mkv.mp4
 
 type=video
 name=All Nighter (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -922,7 +938,8 @@ type=video
 name=The Glass Castle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/d5fLQ9ZMa1jZ2mODCv5lOWJDugX.jpg
 date=2017-10-27
-URL=https://openload.co/f/UOKIRADy6c8/The.Glass.Castle.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+URL=https://www.blazefile.co/embed-sdp2qwa7fxph.html
+#https://openload.co/f/UOKIRADy6c8/The.Glass.Castle.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://www.blazefile.co/embed-2xc2nz9cno64.html
 
 type=video
@@ -949,6 +966,7 @@ thumb=https://image.tmdb.org/t/p/w640/3LEyW11onDltXHo0L1X23j9Nnvg.jpg
 date=2017-10-25
 URL=https://openload.co/f/G18bBxi9CRY/ingrid.goes.west.2017.1080p.bluray.x264-geckos.mkv
 #https://www.blazefile.co/embed-a90mc72athte.html
+#https://openload.co/f/G18bBxi9CRY/ingrid.goes.west.2017.1080p.bluray.x264-geckos.mkv
 #https://openload.co/f/5vQHB3YcUJ8/ingrid.goes.west.2017.1080p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/l8ENhc-dVME/Ingrid.Goes.West.2017.720p.BluRay.x264-GECKOS.mkv.mp4
 
@@ -999,8 +1017,8 @@ type=video
 name=A Very Sordid Wedding (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/dr0g7skic2Rho6VfyaVPU7Uwntc.jpg
 date=2017-10-20
-URL=https://openload.co/f/F-J41WU_RGo/a.very.sordid.wedding.2017.1080p.bluray.x264-brmp.mkv.mp4
-#https://www.blazefile.co/embed-phn7u3vpid77.html
+URL=https://www.blazefile.co/embed-phn7u3vpid77.html
+#https://openload.co/f/F-J41WU_RGo/a.very.sordid.wedding.2017.1080p.bluray.x264-brmp.mkv.mp4
 
 type=video
 name=Manifesto (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1012,8 +1030,8 @@ type=video
 name=Maudie (2017) ENG [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/wu9RPdV0uEemFEewJQ6fWwJ9ZcU.jpg
 date=2017-10-18
-URL=https://openload.co/f/J7cd6_Al-Z0/Maudie.2016.1080p.BluRay.X264-AMIABLE.mkv.mp4
-#https://www.blazefile.co/embed-h613vqbc37zx.html
+URL=https://www.blazefile.co/embed-h613vqbc37zx.html
+#https://openload.co/f/J7cd6_Al-Z0/Maudie.2016.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
 name=Sun Choke (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1155,6 +1173,7 @@ thumb=https://image.tmdb.org/t/p/w640/yCt9jWUFNpWLSiNpShZr9JFF9oD.jpg
 date=2017-09-29
 URL=https://openload.co/f/jYwMKH9Lesc/The_Beguiled_%282017%29.1080p.BluRay.x264-DRONES.mkv
 #https://openload.co/f/Ea2vunZPTZ0/The_Beguiled_%282017%29.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://www.blazefile.co/embed-v754lr59r02l.html
 
 type=video
 name=Message from the King (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.6GB
@@ -1169,6 +1188,7 @@ thumb=https://image.tmdb.org/t/p/w640/7PpqSMJjibR5dkqnBOGhpcz253C.jpg
 date=2017-09-29
 URL=https://openload.co/f/jMvDEd_f1BY/my.pet.dinosaur.1080p.mkv
 #https://openload.co/f/tOmD9G0UjEA/my.pet.dinosaur.1080p.bpfa-mkv.mp4
+#https://www.blazefile.co/embed-64pnso4qdv44.html
 
 type=video
 name=Paris Can Wait (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6GB
@@ -1265,16 +1285,15 @@ type=video
 name=The Bad Batch (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/7o14VaMphEIzPwzeW6FP3A6zb4W.jpg
 date=2017-09-21
-URL=https://openload.co/f/dOxdbWjhfyI/The.Bad.Batch.2016.1080p.BluRay.X264-AMIABLE.mkv.mp4
-#https://www.blazefile.co/embed-ydp0sc7wvl2b.html
-
+URL=https://www.blazefile.co/embed-ydp0sc7wvl2b.html
+#https://openload.co/f/dOxdbWjhfyI/The.Bad.Batch.2016.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
 name=Certain Women (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/mjtDQ9yx0Atb8QxBGcfXNBu0EmX.jpg
 date=2017-09-15
-URL=https://openload.co/f/230otj4OY8E/Certain.Women.2016.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://www.blazefile.co/embed-1qf8f74yybt7.html
+URL=https://www.blazefile.co/embed-1qf8f74yybt7.html
+#https://openload.co/f/230otj4OY8E/Certain.Women.2016.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
 
 type=video
 name=Churchill (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1288,8 +1307,8 @@ type=video
 name=Complete Unknown (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/lXGEhxX7PYtZOTkQfZhjEM0HkKZ.jpg
 date=2017-09-11
-URL=https://openload.co/f/t0sqZBoEA3M/Complete.Unknown.2016.LiMiTED.1080p.BluRay.x264-SiNNERS.mkv.mp4
-#https://www.blazefile.co/embed-wl3aj45x1huo.html
+URL=https://www.blazefile.co/embed-wl3aj45x1huo.html
+#https://openload.co/f/t0sqZBoEA3M/Complete.Unknown.2016.LiMiTED.1080p.BluRay.x264-SiNNERS.mkv.mp4
 
 type=video
 name=The Ghoul (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6GB
@@ -1473,6 +1492,7 @@ name=Colossal (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/4VOyofBd1pexblxtDZYtYIk7NI4.jpg
 date=2017-07-19
 URL=https://openload.co/f/c6ouHx5fiC8/Colossal.2016.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://www.blazefile.co/embed-gaw9sc1oxq0j.html
 player=default
 rating=-1.00
 description=A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering./description
@@ -1482,6 +1502,7 @@ type=video
 name=The Carer (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/gseDYGjdlFfGPbpVzlE0IcyW2Ix.jpg
 URL=https://openload.co/f/npQ2srvsvWE/The.Carer.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+URL=https://www.blazefile.co/embed-7neqsjwyel6u.html
 player=default
 rating=-1.00
 description=When the question is to be or not to be, there is only one answer./description
@@ -1570,11 +1591,7 @@ thumb=https://image.tmdb.org/t/p/w640/5Vpu3uA8mKgiOTshCxTnMn3yb0M.jpg
 date=2017-10-27
 URL=https://openload.co/f/ZlLnByEfHPY/the.worst.year.of.my.life.2015.720p.bluray.x264-bipolar.mkv.mp4
 
-type=video
-name=Evolution (2015) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/rySXb3722jTRSkKKlwo3ZFusbKF.jpg
-date=2017-10-27
-URL=https://openload.co/f/gym9g-_NH3I/evolution.2015.limited.subbed.720p.bluray.x264-usury.mkv.mp4
+
 
 
 
@@ -1836,8 +1853,8 @@ type=video
 name=The House (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/hkmWkVgirei79bwds23Hr0lWSXS.jpg
 date=2017-09-26
-URL=https://openload.co/f/keXLH-SrQw8/The.House.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://www.blazefile.co/embed-pn6ml5wz8vat.html
+URL=https://www.blazefile.co/embed-pn6ml5wz8vat.html
+#https://openload.co/f/keXLH-SrQw8/The.House.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 type=video
 name=The House (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w640/hkmWkVgirei79bwds23Hr0lWSXS.jpg
@@ -2035,14 +2052,12 @@ player=default
 rating=-1.00
 description=The young Shivudu is left as a foundling in a small village by his mother. By the time heâ??s grown up, it has become apparent that he possesses exceptional gifts. He meets the beautiful warrior/princess Avanthika and learns that her queen has been held captive for the last 25 years. Shividu sets off to rescue her, discovering his own origins in the process./description
 
-# 2773494
+
 type=video
-name=All We Had (2016) SUB
+name=All We Had (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/8tMBGup98UrGgu5kYN83iOfyHZn.jpg
-URL=https://openload.co/f/MvT4HZLagbA/%5BS%5DAll_We_Had_2016
-player=default
-rating=-1.00
-description=A mother struggles to make a better life for her daughter./description
+URL=https://www.blazefile.co/embed-y33ae4d0bpii.html
+
 
 # 2773080
 type=video
@@ -2053,14 +2068,12 @@ player=default
 rating=-1.00
 description=Arima Kousei won numerous piano competitions while under the strict watch of his mother. He was known as the human metronome during that time. Since the death of his mother, Kousei has been unable to hear the sound of his piano. He then meets Miyazono Kaori through childhood friend Sawabe Tsubaki. Kaori plays the violin and has a free sprit. Since meeting her, Kousei is able to face the piano again. Meanwhile, Kaori holds a secret./description
 
-# 2772232
+
 type=video
-name=The Marine 5 Battleground (2017) SUB
+name=The Marine 5 Battleground (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/9dbZqft6gS34f4qVncU6APBAKWU.jpg
-URL=https://openload.co/f/nLK-kkQFlYM/The_Marine_5-_Battleground_%282017%29_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%99_5-_%E0%B8%84%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%82%E0%B8%B5%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
-player=default
-rating=-1.00
-description=While working as an EMT back stateside Jake Carter after responding to a distress call, finds himself caught up protecting a person of interest from a biker gang ruthlessly hunting them down./description
+URL=https://www.blazefile.co/embed-p5ea3ynthnig.html
+
 
 # 2771337
 type=video
@@ -2071,14 +2084,12 @@ player=default
 rating=-1.00
 description=The upcoming installment's story takes place amidst signs of postwar reconstruction in the winter of 2028. Tensions are rising in New Port City as demonstrations are held concerning the interests of foreign cartels. This leads to a shooting incident involving riot police. It all started with a cyberbrain infection released by the terrorist "Fire Starter." An independent offensive unit led by Makoto Kusanagi entrusts the suppression of the situation to their ghosts and aims for their own justice. Below the surface of the incident, lies the "tin girl" Emma and the "scarecrow man" Burinda Junior. As Kusanagi deals with the incident, she draws near to what those two ghosts were seeking./description
 
-# 2771285
+
 type=video
-name=Office Christmas Party (2016) SUB
+name=Office Christmas Party (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/7r3w3cPTbNEIr1imb8zXyeIJCJe.jpg
-URL=https://openload.co/f/1smFuFNwCVg/%5BS%5DOffice_Christmas_Party_2016
-player=default
-rating=-1.00
-description=When his uptight CEO sister threatens to shut down his branch, the branch manager throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand./description
+URL=https://www.blazefile.co/embed-xyam3nws3rhb.html
+
 
 # 2769989
 type=video
@@ -2125,14 +2136,12 @@ player=default
 rating=-1.00
 description=This 3DCG film will cover the manga's Osaka Arc./description
 
-# 2767182
+
 type=video
-name=Elle (2016) SUB
+name=Elle (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/aRomjtoVqEZRjDHgLNvtj7c8ixG.jpg
-URL=https://openload.co/f/gUlCKjI45n4/%5BS%5DElle_2016
-player=default
-rating=-1.00
-description=When Michelle, the CEO of a gaming software company, is attacked in her home by an unknown assailant, she refuses to let it alter her precisely ordered life. She manages crises involving family, all the while becoming engaged in a game of cat and mouse with her stalker./description
+URL=https://www.blazefile.co/embed-jt6jzk342uxi.html
+
 
 type=video
 name=
@@ -2175,8 +2184,8 @@ type=video
 name=Cars 3 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
 date=2017-10-27
-URL=https://openload.co/f/gsc-L0AOQFw/Cars.3.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
-#https://www.blazefile.co/embed-1wsrgoe1ue1s.html
+URL=https://www.blazefile.co/embed-1wsrgoe1ue1s.html
+#https://openload.co/f/gsc-L0AOQFw/Cars.3.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/ngRbnO8x0Ig/Cars.3.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv
 #https://openload.co/f/V4qbtFxzsBg/Cars.3.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO..mkv.mp4
 #https://openload.co/f/kCn5e0JoqMc/Cars.3.2017.WEB-DL.x264-FGT.mp4
@@ -2196,8 +2205,8 @@ URL=https://openload.co/f/znDy--tZHnA/IT.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 type=video
 name=It (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
-date=2017-10-14
-URL=https://openload.co/f/WTnAgWeC18I/IT.2017.1080p.HC.HDRip.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+date=2017-10-31
+URL=https://openload.co/f/85hXXbIEp-I/It_%282017%29_THCAM_SOUND%E0%B8%AD%E0%B8%B4%E0%B8%97_%E0%B9%82%E0%B8%9C%E0%B8%A5%E0%B9%88%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
 type=video
@@ -2551,7 +2560,8 @@ type=video
 name=The Emoji Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 4.4GB
 thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
 date=2017-10-10
-URL=https://www.blazefile.co/embed-ilnddc6h8x1t.html
+URL=https://openload.co/f/E-pgDeg0YIk/the.emoji.movie.2017.1080p.bluray.x264-drones.mkv
+#https://www.blazefile.co/embed-ilnddc6h8x1t.html
 #https://openload.co/f/E-pgDeg0YIk/the.emoji.movie.2017.1080p.bluray.x264-drones.mkv
 #https://openload.co/f/lncVPrYj-Rc/the.emoji.movie.2017.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/M9oyuRqh08I/the.emoji.movie.2017.repack.1080p.bluray.x264-drones.mkv.mp4
@@ -2768,7 +2778,6 @@ thumb=https://image.tmdb.org/t/p/w640/yz9Pnx5tbpZOHWsCD0LtoTCgmLi.jpg
 date=2017-08-19
 URL=https://www.blazefile.co/embed-nzha21ql4kik.html
 #https://openload.co/f/Rw2KpdwkhpE/My.Cousin.Rachel.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
-https://www.blazefile.co/embed-nzha21ql4kik.html
 type=video
 name=My Cousin Rachel (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/yz9Pnx5tbpZOHWsCD0LtoTCgmLi.jpg

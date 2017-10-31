@@ -133,7 +133,10 @@ player=default
 rating=-1.00
 description=A falsely accused nobleman survives years of slavery to take vengeance on his best friend who betrayed him./description
 
-# 2736299
+type=video
+name=Deepwater Horizon (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/7D6hM7IR0TbQmNvSZVtEiPM3H5h.jpg
+URL=https://www.blazefile.co/embed-rvl71o4pioc9.html
 type=video
 name=Deepwater Horizon
 thumb=http://image.tmdb.org/t/p/w500/7D6hM7IR0TbQmNvSZVtEiPM3H5h.jpg
@@ -226,7 +229,10 @@ player=default
 rating=-1.00
 description=The BFG is no ordinary bone-crunching giant. He is far too nice and jumbly. It's lucky for Sophie that he is. Had she been carried off in the middle of the night by the Bloodbottler, or any of the other giantsâ??rather than the BFGâ??she would have soon become breakfast. When Sophie hears that the giants are flush-bunking off to England to swollomp a few nice little chiddlers, she decides she must stop them once and for all. And the BFG is going to help her!/description
 
-# 2742041
+type=video
+name=Don t Breathe (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/lw0IqOSMsQcy1QnVIEIDppLmNwk.jpg
+URL=https://www.blazefile.co/embed-v57kw94f01lt.html
 type=video
 name=Don t Breathe
 thumb=http://image.tmdb.org/t/p/w500/lw0IqOSMsQcy1QnVIEIDppLmNwk.jpg
@@ -235,7 +241,10 @@ player=default
 rating=-1.00
 description=A group of teens break into a blind man's home thinking they'll get away with the perfect crime. They're wrong./description
 
-# 2683758
+type=video
+name=Skiptrace (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/sDTGLqXanwudLeOXKqfNgkxjSdU.jpg
+URL=https://www.blazefile.co/embed-kqlkwqfxkxhy.html
 type=video
 name=Skiptrace
 thumb=http://image.tmdb.org/t/p/w500/sDTGLqXanwudLeOXKqfNgkxjSdU.jpg
@@ -285,7 +294,10 @@ player=default
 rating=-1.00
 description=Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?/description
 
-# 2745183
+type=video
+name=Nine Lives (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/HhHi8W6XeVCDowODWTcRnAVkmT.jpg
+URL=https://www.blazefile.co/embed-eaw5aaj641v1.html
 type=video
 name=Nine Lives
 thumb=http://image.tmdb.org/t/p/w500/HhHi8W6XeVCDowODWTcRnAVkmT.jpg
@@ -393,7 +405,10 @@ player=default
 rating=-1.00
 description=A woman who is robbed on her way to catch the 1:30 train to Boston is left stranded in New York City. She meets a man who helps her during the course of the night and the two form a romance./description
 
-# 2745516
+type=video
+name=The Nice Guys (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/pbJ1vNwK9X6ZQm2vxarxcLJ0aGn.jpg
+URL=https://www.blazefile.co/embed-cwbjd96atqlv.html
 type=video
 name=The Nice Guys
 thumb=http://image.tmdb.org/t/p/w500/pbJ1vNwK9X6ZQm2vxarxcLJ0aGn.jpg
@@ -429,7 +444,10 @@ player=default
 rating=-1.00
 description=A high school senior finds herself immersed in an online game of truth or dare, where her every move starts to be manipulated by an anonymous community of "watchers."/description
 
-# 2745182
+type=video
+name=Mike and Dave Need Wedding Dates (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/u8ynhM5I8D7jG2dUE6KlsOgwYYp.jpg
+URL=https://www.blazefile.co/embed-2tmm32iujdpx.html
 type=video
 name=Mike and Dave Need Wedding Dates
 thumb=http://image.tmdb.org/t/p/w500/u8ynhM5I8D7jG2dUE6KlsOgwYYp.jpg
@@ -464,7 +482,10 @@ URL=https://openload.co/f/X7pj91jvr2A/Khun-Pun_%282016%29_DVD_To_Scale_720p.AC3.
 player=default
 rating=-1.00
 
-# 2744656
+type=video
+name=The Gift (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/chrYVlwpBjlYM80w4bQDZzfNQZf.jpg
+URL=https://www.blazefile.co/embed-3b3hridps0p3.html
 type=video
 name=The Gift
 thumb=http://image.tmdb.org/t/p/w500/chrYVlwpBjlYM80w4bQDZzfNQZf.jpg
@@ -482,7 +503,10 @@ player=default
 rating=-1.00
 description=Los Angeles, 1949. Ruthless, Brooklyn-born mob king Mickey Cohen (Sean Penn) runs the show in this town, reaping the ill-gotten gains from the drugs, the guns, the prostitutes and â?? if he has his way â?? every wire bet placed west of Chicago. And he does it all with the protection of not only his own paid goons, but also the police and the politicians who are under his control. Itâ??s enough to intimidate even the bravest, street-hardened copâ?¦ except, perhaps, for the small, secret crew of LAPD outsiders led by Sgt. John Oâ??Mara (Josh Brolin) and Jerry Wooters (Ryan Gosling), who come together to try to tear Cohenâ??s world apart./description
 
-# 2683749
+type=video
+name=Bastille Day (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/evmnqEouz0x1IG16I30QN3NO4Uw.jpg
+URL=https://www.blazefile.co/embed-oc25wslscbc9.html
 type=video
 name=Bastille Day
 thumb=http://image.tmdb.org/t/p/w500/evmnqEouz0x1IG16I30QN3NO4Uw.jpg
@@ -491,7 +515,10 @@ player=default
 rating=-1.00
 description=Michael Mason is an American pickpocket living in Paris who finds himself hunted by the CIA when he steals a bag that contains more than just a wallet. Sean Briar, the field agent on the case, soon realises that Michael is just a pawn in a much bigger game and is also his best asset to uncover a large-scale conspiracy./description
 
-# 2743144
+type=video
+name=High Strung (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/vBpiQ4urEIlSOntCaNNMkb1SBNR.jpg
+URL=https://www.blazefile.co/embed-oqnfxgalz4ac.html
 type=video
 name=High Strung
 thumb=http://image.tmdb.org/t/p/w500/vBpiQ4urEIlSOntCaNNMkb1SBNR.jpg
@@ -509,7 +536,10 @@ player=default
 rating=-1.00
 description=The USS Enterprise crew explores the furthest reaches of uncharted space, where they encounter a mysterious new enemy who puts them and everything the Federation stands for to the test./description
 
-# 2672641
+type=video
+name=Lights Out (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/rxXA5vwJElXQ8BgrB0pocUcuqFA.jpg
+URL=https://www.blazefile.co/embed-mly4jt8h1kgl.html
 type=video
 name=Lights Out
 thumb=http://image.tmdb.org/t/p/w500/rxXA5vwJElXQ8BgrB0pocUcuqFA.jpg
@@ -562,7 +592,10 @@ URL=https://openload.co/f/Uav6PId0HyE/Ghost_Is_All_Around_%282016%29
 player=default
 rating=-1.00
 
-# 2741534
+type=video
+name=Abattoir (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/rtBaeuRvMlb11vdXDO1NYapaTc6.jpg
+URL=https://www.blazefile.co/embed-j93ncae1zlho.html
 type=video
 name=Abattoir
 thumb=http://image.tmdb.org/t/p/w500/rtBaeuRvMlb11vdXDO1NYapaTc6.jpg
@@ -580,7 +613,10 @@ player=default
 rating=-1.00
 description=Everyone wants their life to a perfect circle, but always failed with a missing piece. Dao-Fung, who has strange psychological symptom, five secondâ??s blank, had decided to cure himself by a travel and arrived Riguang village in Taitung. He met four interesting people. During stayed at there, five of them found their own missing piece due to the love among them. Dao-Fung became aware of his symptom gradually disappeared, too. (Bifan 2015)/description
 
-# 2741532
+type=video
+name=The Infiltrator (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/tnQ2TLwz82F3KXUCSMePPXviY1i.jpg
+URL=https://www.blazefile.co/embed-4vz2vn5r5oyo.html
 type=video
 name=The Infiltrator
 thumb=http://image.tmdb.org/t/p/w500/tnQ2TLwz82F3KXUCSMePPXviY1i.jpg
@@ -611,7 +647,10 @@ player=default
 rating=-1.00
 description=Set after the events of Continental Drift, Scrat's epic pursuit of his elusive acorn catapults him outside of Earth, where he accidentally sets off a series of cosmic events that transform and threaten the planet. To save themselves from peril, Manny, Sid, Diego, and the rest of the herd leave their home and embark on a quest full of thrills and spills, highs and lows, laughter and adventure while traveling to exotic new lands and encountering a host of colorful new characters./description
 
-# 2740872
+type=video
+name=Z for Zachariah (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/xrwxzShNKYs8l0ISnfjFVfUD0CW.jpg
+URL=https://www.blazefile.co/embed-9hm7nff7joh8.html
 type=video
 name=Z for Zachariah
 thumb=http://image.tmdb.org/t/p/w500/xrwxzShNKYs8l0ISnfjFVfUD0CW.jpg
@@ -656,7 +695,10 @@ player=default
 rating=-1.00
 description=We always knew they were coming back. Using recovered alien technology, the nations of Earth have collaborated on an immense defense program to protect the planet. But nothing can prepare us for the aliensÃ???Ã??Ã?Â¢?? advanced and unprecedented force. Only the ingenuity of a few brave men and women can bring our world back from the brink of extinction./description
 
-# 2736298
+type=video
+name=Sinister 2 (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/AeJYo2wLVL6NpkHxpWIptGbQD0N.jpg
+URL=https://www.blazefile.co/embed-bwnsgjd9qau1.html
 type=video
 name=Sinister 2
 thumb=http://image.tmdb.org/t/p/w500/AeJYo2wLVL6NpkHxpWIptGbQD0N.jpg
@@ -805,7 +847,10 @@ player=default
 rating=-1.00
 description=After being rejected from the police college, a mannerly man travels to Bangkok where he and an energetic distant relative must solve a murder case./description
 
-# 2723114
+type=video
+name=The Purge 3 Election Year (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/sm7p6NvWOBSDywdIPhmiX3SLSH8.jpg
+URL=https://www.blazefile.co/embed-tro0e5mdz17q.html
 type=video
 name=The Purge 3 Election Year
 thumb=http://image.tmdb.org/t/p/w500/sm7p6NvWOBSDywdIPhmiX3SLSH8.jpg
@@ -850,7 +895,10 @@ player=default
 rating=-1.00
 description=Michael Wolffsen (Tyler Mane) receives an urgent phone call and takes his nephew and fiancee and makes the journey home to his only other living relative: his estranged, eccentric (and extremely paranoid) father, Gary (Muse Watson), who is obsessed with building an unassailable compound. Once they arrive at Garyâ??s modest home, surrounded by acres and acres of grounds full of cameras and other security sensors, Michael is surprised and concerned to learn that his father is in the early stages of dementia.  The house is now also covered in supernatural and occult symbols. Welcome to the compound, COMPOUND FRACTURE. Will the stronghold that was designed to save them be their everlasting tomb?/description
 
-# 2714823
+type=video
+name=Tangerine (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/iSqf5MR4Df89Iz4KRApcP32IvZc.jpg
+URL=https://www.blazefile.co/embed-rus302jt0rhr.html
 type=video
 name=Tangerine
 thumb=http://image.tmdb.org/t/p/w500/iSqf5MR4Df89Iz4KRApcP32IvZc.jpg
