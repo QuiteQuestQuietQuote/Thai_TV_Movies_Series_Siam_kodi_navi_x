@@ -23,7 +23,7 @@ rating=-1.00
 
 type=video
 name=
-thumb=
+thumb=https://4.bp.blogspot.com/-q3FCvo_BtWw/WdLY23tF_4I/AAAAAAAAAJE/PnQtW3AhDKcpITTVadnjDOyrsx5Vcb-nQCLcBGAs/s320/054.png
 URL=http://103.77.116.238:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=V9m81GFhYRn6n81wBtsT0Q&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmf1d4a98c815daace8dfd&e=1509570450
 
 type=addon
@@ -33,24 +33,24 @@ URL=script.module.youtube.dl
 
 type=video
 name=
-thumb=
+thumb=https://2.bp.blogspot.com/-fON3PQ3epac/WdLY5DfEFmI/AAAAAAAAAJo/6vW7TQ_dVkIn26x9l9hx7kebzKg6AwS-ACLcBGAs/s320/063.png
 URL=http://103.77.116.238:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=V9m81GFhYRn6n81wBtsT0Q&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmf1d4a98c815daace8dfd&e=1509570450
 
 type=video
 name=
-thumb=
+thumb=https://2.bp.blogspot.com/-gfLftrQzfyk/WdLY10QqpTI/AAAAAAAAAIw/hrCHo3pNsgkuvkL-X2uSqoQQwvo-0ioYgCLcBGAs/s320/049.png
 date=2017-09-22
 URL=http://103.77.116.238:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=V9m81GFhYRn6n81wBtsT0Q&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmf1d4a98c815daace8dfd&e=1509570450
 
 type=video
 name=
-thumb=
+thumb=https://1.bp.blogspot.com/-V-ha26gxzVM/WdLY2hOrp2I/AAAAAAAAAI8/dxGnJ68zIsAXO6TdqrBvxjkvJ8HnhyyNQCLcBGAs/s320/052.png
 date=2017-09-22
 URL=http://27.254.154.154:1935/cinema/NATIONAL_GEOGRAPHIC_CHANNEL.stream/playlist.m3u8
 
 type=video
 name=
-thumb=
+thumb=https://2.bp.blogspot.com/-dd5bWZ-tL-k/WdLY5f19XsI/AAAAAAAAAJs/xvG608PIzGsMCA39j6DxYRhvFf_Tkr4mACLcBGAs/s320/064.png
 date=2017-10-29
 URL=http://103.77.116.238:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=V9m81GFhYRn6n81wBtsT0Q&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmf1d4a98c815daace8dfd&e=1509570450
 
