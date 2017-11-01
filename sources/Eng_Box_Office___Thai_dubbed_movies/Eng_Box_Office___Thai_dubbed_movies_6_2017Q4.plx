@@ -65,24 +65,32 @@ type=video
 name=
 thumb=
 date=2017-10-31
-URL=https://lh3.googleusercontent.com/KbroC-hVYfW_U-O-M0AKfQwmx-wZXKicv0xRGSRgKf-E8WgD8doS7xqZJXBcMltP1CXb0IHI0A=m37
+URL=
 
 
 
 type=video
-name=Thor: Ragnarok (2017) ENG HDCAM_x264-NEXUS_few_minutes_are_spanish
+name=Thor: Ragnarok (2017) ENG HDCAM_x264-JellyBean
 thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
-date=2017-10-29
-URL=https://openload.co/f/TJgCB67boIs/Thor_Ragnarok_2017_ENG_HDCAM_x264-NEXUS_%28few_minutes_are_spanish%29.mp4
+date=2017-11-01
+URL=https://openload.co/f/pxPD4dDpDnY/Thor_Ragnarok_2017_ENG_HDCAM_x264-JellyBean.mp4
+#https://openload.co/f/TJgCB67boIs/Thor_Ragnarok_2017_ENG_HDCAM_x264-NEXUS_%28few_minutes_are_spanish%29.mp4
 #https://openload.co/f/6ZvZcs_wfXQ/Thor_Ragnarok_2017_NOLOGO_ENG_LQ_HDCAM.mp4
 #https://openload.co/f/N5CTkRYKr5g/Thor%3A_Ragnarok_2017_HDCAM_%5BLayar-21.com%5D.mp4
 #http://entervideo.net/watch/fbc6907370d0144
 
 type=video
-name=Jigsaw (2017) ESP CAM.Latin.Spanish.YG.E
+name=Jigsaw (2017) ENG CAM.ENG.X264-Feel.Free
 thumb=https://image.tmdb.org/t/p/w640/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
-date=2017-10-31
-URL=https://openload.co/f/Fyrq23aYmLE/Jigsaw_2017.CAM.Latin.Spanish.YG.E.mp4
+date=2017-11-01
+URL=https://openload.co/f/F3nZJ_umMbw/Jigsaw.2017.720p.CAM.ENG.X264-Feel.Free.mkv.mp4
+
+type=video
+name=Jeepers Creepers III (2017) ENG HDCAM.x264-DiRG
+thumb=https://image.tmdb.org/t/p/w640/iw4zbtCw01JhTMpFtyYBKEDPBSL.jpg
+date=2017-11-01
+URL=https://openload.co/f/PyY9phQMIeo/Jeepers.Creepers.3.2017.HDCAM.x264-DiRG.mp4
+#https://openload.co/f/ixfU_gOrA_4/Jeepers.Creepers.3.2017.HDCAM.x264-DiRG.mp4
 
 type=video
 name=Beyond Skyline (2017) RUS
@@ -102,7 +110,11 @@ thumb=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
 date=2017-10-22
 URL=https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
 
-
+type=video
+name=Home Again (2017) ENG HDCAM_x264-DiRG
+thumb=https://image.tmdb.org/t/p/w640/z5CtCxpblBke2G8c7CMkstedMgY.jpg
+date=2017-10-25
+URL=https://openload.co/f/157M4f23VP0/Home_Again_2017_HDCAM_x264-DiRG.mp4
 
 type=video
 name=Brawl in Cell Block 99 (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -145,17 +157,9 @@ URL=
 
 
 
-type=video
-name=Jeepers Creepers III (2017) ENG HDCAM.x264-DiRG
-thumb=https://image.tmdb.org/t/p/w640/iw4zbtCw01JhTMpFtyYBKEDPBSL.jpg
-date=2017-10-27
-URL=https://openload.co/f/ixfU_gOrA_4/Jeepers.Creepers.3.2017.HDCAM.x264-DiRG.mp4
 
-type=video
-name=Home Again (2017) ENG HDCAM_x264-DiRG
-thumb=https://image.tmdb.org/t/p/w640/z5CtCxpblBke2G8c7CMkstedMgY.jpg
-date=2017-10-25
-URL=https://openload.co/f/157M4f23VP0/Home_Again_2017_HDCAM_x264-DiRG.mp4
+
+
 
 type=video
 name=The Only Living Boy in New York (2017) ENG WEB-DL.x264-FGT
@@ -237,7 +241,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-10-30
+date=2017-11-01
 URL=
 
 
@@ -248,6 +252,13 @@ URL=
 
 
 
+
+
+type=video
+name=Wolf Mother (2016) ENG WEBRip.x264-iNTENSO
+thumb=https://image.tmdb.org/t/p/w640/htoD1BJC9dcC9E43K0f4ZJ0M0sT.jpg
+date=2017-11-01
+URL=https://openload.co/f/9FjyQeOnc4Q/Wolf.Mother.2016.1080p.WEBRip.x264-iNTENSO.mkv.mp4
 
 type=video
 name=Brad's Status (2017) ENG HC.HDRip.X264.AC3-EVO
@@ -1772,10 +1783,10 @@ URL=https://openload.co/f/Elw1WEIapq8/American_Assassin_%282017%29%E0%B8%AD%E0%B
 
 
 type=video
-name=Valerian and the City of a Thousand Planets (2017) ENG CAM.READNFO.XViD-26k
+name=Valerian and the City of a Thousand Planets (2017) ENG KOR.HDRip.XviD-PCHD
 thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
-date=2017-08-16
-URL=https://openload.co/f/6aqe7wK0LR8/V-a-l-e-ri-an.2017.CAM.READNFO.XViD-26k.avi.mp4
+date=2017-11-01
+URL=https://openload.co/f/bE7l70d6i6E/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.KOR.HDRip.XviD-PCHD.avi.mp4
 type=video
 name=Valerian and the City of a Thousand Planets (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
@@ -2262,10 +2273,11 @@ URL=https://www.blazefile.co/embed-8m1mchh6s0zk.html
 #https://openload.co/f/XGJFoSBEAsk/Bushwick.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/QXzC2b2-FYM/bushwick.2017.720p.bluray.x264-eider.mkv.mp4
 type=video
-name=Bushwick (2017) TH CAM SOUND
+name=Bushwick (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg
-date=2017-10-02
-URL=https://openload.co/f/ec1xrtavae4/Bushwick_%282017%29%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+date=2017-11-01
+URL=https://openload.co/f/11bp7NHEOUo/%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/ec1xrtavae4/Bushwick_%282017%29%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
 type=video
