@@ -142,10 +142,10 @@ date=2017-09-07
 URL=http://entervideo.net/watch/240448923d3fecf
 
 type=video
-name=Good Time (2017) RUS
+name=Good Time (2017) ENG WEB-DL.H264.AC3-EVO%5BEtHD%5D
 thumb=https://image.tmdb.org/t/p/w640/cz0egudCsfsTzwUAL03A5UzoHGT.jpg
 date=2017-10-04
-URL=http://entervideo.net/watch/7d9f86e862a5007
+URL=https://openload.co/f/5gWZy3ErcPw/Good.Time.2017.720p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
 
 
 type=video
@@ -226,10 +226,11 @@ date=2017-10-11
 URL=https://openload.co/f/_bCmA0g9Xu8/the.layover.2017.dvdrip.x264.fragment.mkv.mp4
 
 type=video
-name=Gun Shy (2017) ENG WEB-DL.XviD.AC3-FGT
+name=Gun Shy (2017) ENG BRRip_XViD-juggs
 thumb=https://image.tmdb.org/t/p/w640/aHKB8RiVn2OV0cowYtwzAmHznuD.jpg
-date=2017-09-08
-URL=https://openload.co/f/orjREu8pqr4/Gun.Shy.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+date=2017-11-02
+URL=https://openload.co/f/Qvt8KmSjWcI/Gun_Shy_2017_BRRip_XViD-juggs.avi.mp4
+#https://openload.co/f/orjREu8pqr4/Gun.Shy.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=Rememory (2017) ENG HDRip.XviD.AC3-EVO
@@ -657,11 +658,7 @@ thumb=https://image.tmdb.org/t/p/w640/e6vk1wzFD3acJ3qpsAHTI6tH3Pg.jpg
 date=2017-09-24
 URL=https://openload.co/f/rQWFrau4Bz8/Andys.Rainbow.2016.1080p.WEBRip.x264-iNTENSO.mkv.mp4
 
-type=video
-name=This Is Your Death (2017) ENG WEB-DL_H264_AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/bnWRHX8ZVqUTKj3YXL9B67DSven.jpg
-date=2017-09-15
-URL=https://openload.co/f/CYKxRx3bjic/This_Is_Your_Death_2017_720p_WEB-DL_H264_AC3-EVO.mp4
+
 
 type=video
 name=Easy Living (2017) ENG HDRip.XviD.AC3-EVO
@@ -1602,7 +1599,12 @@ thumb=https://image.tmdb.org/t/p/w640/5Vpu3uA8mKgiOTshCxTnMn3yb0M.jpg
 date=2017-10-27
 URL=https://openload.co/f/ZlLnByEfHPY/the.worst.year.of.my.life.2015.720p.bluray.x264-bipolar.mkv.mp4
 
-
+type=video
+name=The Show (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/1O9hTngTf6oghVAPp5l79yYJ04J.jpg
+date=2017-11-02
+URL=https://openload.co/f/9cjGcrK6xeQ/The.Show.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
+#https://openload.co/f/CYKxRx3bjic/This_Is_Your_Death_2017_720p_WEB-DL_H264_AC3-EVO.mp4
 
 
 
@@ -2221,10 +2223,11 @@ URL=https://openload.co/f/85hXXbIEp-I/It_%282017%29_THCAM_SOUND%E0%B8%AD%E0%B8%B
 
 
 type=video
-name=Atomic Blonde (2017) ENG WEB-DL_DD5.1_H264-FGT
+name=Atomic Blonde (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
 date=2017-10-24
-URL=https://openload.co/f/4R-pXnuqC1I/Atomic_Blonde_2017_1080p_WEB-DL_DD5.1_H264-FGT.mkv.mp4
+URL=https://openload.co/f/MffrJcUIms0/Atomic.Blonde.2017.720p.BluRay.x264.DTS-HDChina.mkv.mp4
+#https://openload.co/f/4R-pXnuqC1I/Atomic_Blonde_2017_1080p_WEB-DL_DD5.1_H264-FGT.mkv.mp4
 #https://openload.co/f/13M5vu6fyBw/Atomic.Blonde.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/8UecvL97bCw/Atomic_Blonde_2017_1080p_KORSUB_HDRip_x264_AAC2.0-STUTTERSHIT.mkv.mp4
 #https://openload.co/f/brixtXdous0/Atomic.Blonde.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
