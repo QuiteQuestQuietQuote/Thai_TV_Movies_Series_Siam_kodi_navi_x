@@ -24,7 +24,7 @@ rating=-1.00
 type=video
 name=
 thumb=
-URL=https://lh3.googleusercontent.com/W2HWz-Z37Js8euEyeCh0rRQ41KSRZm6ZA0o08maNNKeDkRXXrWnp1OUQwhQ3XbD0dp3R1xlF46da820l3SvXOrfS-oPlk9b1BFLemDVNBfZRcqb-INvj92WRU6_kwMxCXAsXykjlSYM8D7D1JGAkMoz0OQv_I4iUValWJlLymKQouqWbrWgo_r919SZvfLghYyIuTgxgD903XnbHtKGwzyX2HCwtcihGFIKe7GeISOP6DcguPoj2JvviDefxgRnyTWJ1yjPw3RJTAh_MbjKor8D1-Ychw6WQrxidT4MJ58mwptXoejt8LTsqVoVOcHi_0-69Vi1i00wWMbFa8Hc2rbC4gJmqJPRYW6GM0TtriA49_lW-REvbEg1_gkt3AoaTabcQp9NLNvMNBqLgc_PTK9sS9HMF6JSafA9tnzhf0gQQXzwJ4pKnSIXsyjUToHA2h8gw8ro3aPp3RPHIjO4ynLBKygPcxhwJTICYN_bq7sMKkP1RpnP0KYyf63zSxp8c2OJvTbwCXAZ9Rj0oAPdXtE40uhj8jBg0dPmW5pxpVOKHIhZOmzFJOj8FOiXHz2k7ikjDiaqze0GK4huvqaAd9tmNqv5pY6Lfr7oXpZ4wpso=m22
+URL=
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -50,8 +50,45 @@ URL=https://www.rapidvideo.com/?v=FJU3TNCAUT
 type=video
 name=
 thumb=
-date=2017-10-30
-URL=https://filebebo.com/e/763v5yyu5uik
+date=2017-11-03
+URL=
+
+
+type=video
+name=Newness (2017)
+thumb=https://image.tmdb.org/t/p/w640/zgBvMGisJpf4nMuO2yoNt7ZVR2q.jpg
+date=2017-11-03
+URL=https://www.blazefile.co/embed-7jl7y5joa8zh.html
+
+type=video
+name=White Lily (2017)
+thumb=https://image.tmdb.org/t/p/w640/tQSIF0rKNB6HBvYeGDYaalNi3Ii.jpg
+date=2017-11-03
+URL=https://www.blazefile.co/embed-9od65kizwrok.html
+
+type=video
+name=The Double Lover (2017)
+thumb=https://image.tmdb.org/t/p/w640/fcpCBc2cDaeP23POjT44NnZZAkp.jpg
+date=2017-11-03
+URL=https://www.blazefile.co/embed-5t9j9sgkyoe2.html
+
+type=video
+name=Antiporno (2017)
+thumb=https://image.tmdb.org/t/p/w640/f7LXyhQcI5JbfjAAi8D7YfwdbiY.jpg
+date=2017-11-03
+URL=https://www.blazefile.co/embed-7ftgbn7fm1zh.html
+
+type=video
+name=GirlHouse (2014)
+thumb=https://image.tmdb.org/t/p/w640/7YD5ll5NWhdBEIF4WSKeXLFgNih.jpg
+date=2017-11-03
+URL=https://www.blazefile.co/embed-bg4k82ocrayk.html
+
+type=video
+name=An Eye for Beauty (2014)
+thumb=https://image.tmdb.org/t/p/w640/62PVBV9RZwLpGDK2IHwM32Zz25M.jpg
+date=2017-11-03
+URL=https://rockfile.to/file/NbdnsaSjNQ
 
 type=video
 name=The Witches of Breastwick (2005)
@@ -75,8 +112,9 @@ type=video
 name=Nude (2017)
 thumb=http://img.rlsbb.ru/images/Ay3hm5V.jpg
 date=2017-10-29
-URL=https://openload.co/f/mlcgsZraASE/nude.2017.720p.web.h264-strife.mkv.mp4
-#https://www.blazefile.co/embed-6hwjdtlvz25s.html
+URL=https://www.blazefile.co/embed-6hwjdtlvz25s.html
+#https://openload.co/f/mlcgsZraASE/nude.2017.720p.web.h264-strife.mkv.mp4
+
 
 type=video
 name=Forever 16 (2013)
@@ -150,7 +188,8 @@ type=video
 name=9 Songs (2004)
 thumb=https://image.tmdb.org/t/p/w640/bvGyYmmnQG5NPP7m2nuLhaiC8LH.jpg
 date=2017-10-13
-URL=http://entervideo.net/watch/af803affde4c06e
+URL=https://www.blazefile.co/embed-7nzmuquo35wa.html
+#http://entervideo.net/watch/af803affde4c06e
 
 type=video
 name=Butterfly (1982)
@@ -174,7 +213,8 @@ type=video
 name=Romance & Cigarettes (2005)
 thumb=https://image.tmdb.org/t/p/w640/hmePGWj7SFiDChBTfI9z8CY12sM.jpg
 date=2017-10-13
-URL=http://entervideo.net/watch/314f39b50758dbb
+URL=https://www.blazefile.co/embed-xlzb0tmmmu4e.html
+#http://entervideo.net/watch/314f39b50758dbb
 
 type=video
 name=Satan Said Dance (2017)
@@ -211,6 +251,7 @@ name=Adaline (2015) MKV
 thumb=https://image.tmdb.org/t/p/w640/hgjWwCbRyTYzOCDKkglocU821h4.jpg
 date=2017-10-08
 URL=https://openload.co/f/q_CfcLR-ZSs/bdgua-adaline-720p.mkv
+#https://www.blazefile.co/embed-godf5ke51847.html
 #http://entervideo.net/watch/94424ed70224b0e
 
 type=video
@@ -223,7 +264,8 @@ type=video
 name=Below Her Mouth (2017)
 thumb=https://image.tmdb.org/t/p/w640/nTGbq37hYLuNy7YgMg0gVLma0NS.jpg
 date=2017-10-04
-URL=https://streamango.com/f/okpdbkrdrespokea/Below_Her_Mouth_2016_mp4
+URL=https://www.blazefile.co/embed-opnbb0fja20x.html
+#https://streamango.com/f/okpdbkrdrespokea/Below_Her_Mouth_2016_mp4
 #http://entervideo.net/watch/23234ea4637bc9e
 
 type=video
@@ -240,10 +282,11 @@ date=2017-09-23
 URL=https://openload.co/f/NywV2ljenEg/Porn_Shoot_Massacre_%282009%29.mp4
 
 type=video
-name=Suntan (2016) MKV
+name=Suntan (2016)
 thumb=https://image.tmdb.org/t/p/w640/sAknvVkyiGssLf20k4FAZB3FUnZ.jpg
 date=2017-09-21
-URL=https://openload.co/f/u_7gMsiNq4A/suntan.2016.limited.720p.bluray.x264-usury.mkv
+URL=https://www.blazefile.co/embed-c13k2v3p0vkf.html
+#https://openload.co/f/u_7gMsiNq4A/suntan.2016.limited.720p.bluray.x264-usury.mkv
 #http://entervideo.net/watch/c9bee6c874d1ab7
 
 type=video
@@ -311,7 +354,8 @@ type=video
 name=Jamon Jamon (1992)
 thumb=https://image.tmdb.org/t/p/w640/y5Brjzjo7Dtbg9PTf5GK6adpgCi.jpg
 date=2017-08-15
-URL=https://openload.co/f/rsPxL8zAhi4/Jamon_jamon_1992.HDrip.89A2A.mp4
+URL=https://www.blazefile.co/embed-1b4j39tfse73.html
+#https://openload.co/f/rsPxL8zAhi4/Jamon_jamon_1992.HDrip.89A2A.mp4
 
 type=video
 name=Carmen (2003)
@@ -464,7 +508,8 @@ type=video
 name=Womb (2010)
 thumb=https://image.tmdb.org/t/p/w640/2GMVSKD1LkVckweKBZ8jd23bDcv.jpg
 date=2017-08-15
-URL=http://entervideo.net/watch/162ae69494f4a0b
+URL=https://rockfile.to/file/a9bRiZuH5Y
+#http://entervideo.net/watch/162ae69494f4a0b
 #https://openload.co/f/67IWJ_hbpCk/Womb.2010.720p.BrRip.x264.YIFY.mp4
 
 type=video
