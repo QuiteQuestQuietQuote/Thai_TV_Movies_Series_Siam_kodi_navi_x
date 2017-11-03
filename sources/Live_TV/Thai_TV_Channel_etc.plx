@@ -1938,17 +1938,17 @@ type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=
+URL=http://191.96.38.234:443/free41/0x777_dissci_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=
+URL=http://191.96.38.234:443/free53/0x222_ais_hbohd_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=
+URL=http://191.96.38.44:443/seedbet54/0x222_natgeopeople_360p/playlist.m3u8?key=hqv6trdiac68mb2ucemvaqgz
 
 
 type=video
@@ -1963,7 +1963,7 @@ type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=
+URL=http://191.96.38.44:443/seedbet41/0x777_discoveryworldhd_360p/playlist.m3u8?key=hqv6trdiac68mb2ucemvaqgz
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
