@@ -415,19 +415,19 @@ URL=
 
 type=video
 name=-----------------------------------------------------------------------------------------
-thumb=
+thumb=http://cdn3.thr.com/sites/default/files/2016/12/upcoming_animated_movies_split.jpg
 date=
-URL=
+URL=http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
 type=video
 name=-----------------------------------------------------------------------------------------
-thumb=
+thumb=http://42works.net/wp-content/uploads/2017/01/iStock_000038870628Large2.jpg
 date=
-URL=
+URL=http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
 type=video
 name=-----------------------------------------------------------------------------------------
-thumb=
+thumb=http://digitalspyuk.cdnds.net/17/24/980x490/landscape-1497630992-superhero-movies.jpg
 date=
-URL=
+URL=http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
 
 
 
@@ -437,9 +437,9 @@ URL=
 
 type=video
 name=-----------------------------------------------------------------------------------------
-thumb=
+thumb=https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png
 date=
-URL=
+URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
