@@ -62,6 +62,193 @@ URL=
 
 
 
+type=video
+name=190xxxxxxxxxxxxxxxxxxxxxOne on One (2017) [For You]
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/One-on-One-2017-For-You.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/tplfalbotbrmdfmo/
+
+type=video
+name=I Was Deprived of Chastity (2015) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/I-Was-Deprived-of-Chastity-2015.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/ntmqmsrpssmcekqn/
+
+type=video
+name=One on One (2017) [Uncute]
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/One-on-One-2017-Uncute.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/aflmllcapdeseqca/
+
+type=video
+name=Her Sexual Skills (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Her-Sexual-Skills-2016.png
+date=2017-11-04
+URL=https://streamcherry.com/embed/loqdttmdttfknqpr/
+
+type=video
+name=Teacher Hunts Virgin 2016
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Teacher-Hunts-Virgin-2016.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/slltdpbtklnqkdap/
+
+
+type=video
+name=Stepmother 2017 – Catching His Father’s Wife 2017
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Stepmother-2017-Catching-His-Father%E2%80%99s-Wife-2017.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/paflndqokofolkfa/
+
+type=video
+name=Incubus 2015
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Incubus-2015.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/eaalptlfdlodrbfp/
+
+type=video
+name=Elder Sister And Sister In Law 2016
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Elder-Sister-And-Sister-In-Law-2016.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/oclltromtbmocnsb/
+
+type=video
+name=Piled Mistakes 2011
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Piled-Mistakes-2011.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/qfpercktfnsckmbl/
+
+type=video
+name=Late Night Work 2010
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Late-Night-Work-2010.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/qdtlnlemtckdpqpb/
+
+
+type=video
+name=Trap (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Trap-2017.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/mrtotokpskembrmp/Trap_2017_720pHD_Movie-dd_com_mp4
+
+type=video
+name=Aroused by Gymnopedies (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Aroused-by-Gymnopedies-2016.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/atbsslsldlldtkfb/Aroused_by_Gymnopedies_2016_720p_KOR_HDRip_XviD-PCHD_Movie-dd_com_mp4
+
+type=video
+name=Jane (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Jane-2016.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/mqmnelcklmktqnra/Jane_2016_HDRip_Movie-dd_com_mp4
+
+type=video
+name=Affair Of Mom (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Affair-Of-Mom-2016.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/bmbarccsrqpsdslb/Affair_of_Mom_2016_HDRip_Movie-dd_com_mp4
+
+type=video
+name=My Brother’s Wife (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/My-Brother%E2%80%99s-Wife-2016.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/llqaproncctsoprp/
+
+
+type=video
+name=Wife, Deviation of Affair (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Wife-Deviation-of-Affair-2015.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/dkqrretkfdsastfs/
+
+type=video
+name=Beastie Girls (2016) [Uncute]
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Beastie-Girls-2016-Uncute.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/ctolqekdenqrskdm/
+
+type=video
+name=One on One 2017 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/One-on-One-2017.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/eakcpafddrdtpmak/
+
+type=video
+name=A Spotted Wedding Dress 2016
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/A-Spotted-Wedding-Dress-2016.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/cdlkptemnrdpfmrs/
+
+type=video
+name=The model pleasant feeling 2017
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/The-model-pleasant-feeling-2017.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/oedomobfqredabeq/
+
+
+type=video
+name=The Model Pleasant Feeling 2016
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/The-Model-Pleasant-Feeling-2016.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/npabqmnqbdktdtde/
+
+type=video
+name=Temtation of the summer resort 2014
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Temtation-of-the-summer-resort-2014.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/rrnpbkdqqtkdsadk/
+
+type=video
+name=Which I rubbed it and did it, and was held 2003 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Which-I-rubbed-it-and-did-it-and-was-held-2003.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/tfdfqlnsebfclbaa/
+
+type=video
+name=Young Brother- Hong Kong Day 2017
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Young-Brother-Hong-Kong-Day-2017.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/papkbsqkpbbktdrp/
+
+type=video
+name=Beastie Girls (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Beastie-Girls-2016.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/smacqfstqdepepek/
+
+
+type=video
+name=A Kind Affair (2017) [Uncute]
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/A-Kind-Affair-2017-Uncute.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/cddppbfcpofmbcde/
+
+type=video
+name=New Beautiful Massager in Business Hotel 2016
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/New-Beautiful-Massager-in-Business-Hotel-2016.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/cennqlacnrlametl/
+
+type=video
+name=Lover Bank 2014
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Lover-Bank-2014.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/renassdanfktemep/
+
+type=video
+name=An Affair Friends Mother (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/An-Affair-Friends-Mother-2017.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/plkmleatkdnlnaen/
+
+type=video
+name=Semerare Miboujin Nakamori Reiko 2014
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Semerare-Miboujin-Nakamori-Reiko-2014.jpg
+date=2017-11-04
+URL=https://streamcherry.com/embed/nfdtlpbomedcooms/
+
+
+
 
 
 

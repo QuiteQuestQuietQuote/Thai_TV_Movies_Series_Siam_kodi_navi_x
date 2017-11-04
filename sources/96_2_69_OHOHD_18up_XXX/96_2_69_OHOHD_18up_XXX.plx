@@ -27,6 +27,17 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
+
+
+
+type=playlist
+name=96_2_69_OHOHD_28_18up_Asian
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/I-Was-Deprived-of-Chastity-2015.jpg
+date=2017-11-04
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_28_18up_Asian.plx
+player=default
+rating=-1.00
+
 type=playlist
 name=96_2_69_OHOHD_27_18up_Inter_Erotic
 thumb=https://3.bp.blogspot.com/-oYdnIiiHWhs/WCRp4W2EkvI/AAAAAAABGgc/1fcN0904i90LAl431gBcqFCwTX13KON7QCLcB/s1600/8.jpg
