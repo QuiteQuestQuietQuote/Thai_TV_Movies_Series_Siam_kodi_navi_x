@@ -64,20 +64,19 @@ URL=http://103.77.116.238:443/documentary/discovery_channel_480p.stream/playlist
 type=video
 name=
 thumb=
-date=2017-10-31
+date=2017-11-04
 URL=
 
 
 
+
+
+
 type=video
-name=Thor: Ragnarok (2017) ENG HDCAM_x264-JellyBean
-thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
-date=2017-11-01
-URL=https://openload.co/f/pxPD4dDpDnY/Thor_Ragnarok_2017_ENG_HDCAM_x264-JellyBean.mp4
-#https://openload.co/f/TJgCB67boIs/Thor_Ragnarok_2017_ENG_HDCAM_x264-NEXUS_%28few_minutes_are_spanish%29.mp4
-#https://openload.co/f/6ZvZcs_wfXQ/Thor_Ragnarok_2017_NOLOGO_ENG_LQ_HDCAM.mp4
-#https://openload.co/f/N5CTkRYKr5g/Thor%3A_Ragnarok_2017_HDCAM_%5BLayar-21.com%5D.mp4
-#http://entervideo.net/watch/fbc6907370d0144
+name=A Bad Moms Christmas (2017) ENG HDCAM-H264-AC3-Zi%24T
+thumb=https://image.tmdb.org/t/p/w640/gPNHolu7AGnrB7r5kvJRRTfwMFR.jpg
+date=2017-11-04
+URL=https://openload.co/f/s9JvJo8vRdM/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
 
 type=video
 name=Jigsaw (2017) ENG CAM.ENG.X264-Feel.Free
@@ -141,11 +140,7 @@ thumb=https://image.tmdb.org/t/p/w640/lmfop4zLqFWFTkKSYp7V5jgeM6I.jpg
 date=2017-09-07
 URL=http://entervideo.net/watch/240448923d3fecf
 
-type=video
-name=Good Time (2017) ENG WEB-DL.H264.AC3-EVO%5BEtHD%5D
-thumb=https://image.tmdb.org/t/p/w640/cz0egudCsfsTzwUAL03A5UzoHGT.jpg
-date=2017-10-04
-URL=https://openload.co/f/5gWZy3ErcPw/Good.Time.2017.720p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
+
 
 
 type=video
@@ -207,17 +202,9 @@ thumb=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
 date=2017-09-07
 URL=https://openload.co/f/sT2jB8zTaVQ/LC.2017.TS.x264-CPG.mkv.mp4
 
-type=video
-name=Wind River (2017) ENG HDRip.XviD.AC3-iFT
-thumb=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
-date=2017-10-10
-URL=https://openload.co/f/KrtMkCMab98/Wind.River.2017.HDRip.XviD.AC3-iFT.avi.mp4
 
-type=video
-name=The Nut Job 2: Nutty by Nature (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/9FVJOUCmruekroyfsTsAKDYST80.jpg
-date=2017-10-31
-URL=https://openload.co/f/YXU3Yhx1Csc/The_Nut_Job_2_Nutty_by_Nature.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+
 
 type=video
 name=The Layover (2017) ENG dvdrip.x264.fragment
@@ -237,7 +224,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-11-01
+date=2017-11-04
 URL=
 
 
@@ -248,7 +235,11 @@ URL=
 
 
 
-
+type=video
+name=Halloween Pussy Trap Kill! Kill! (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/zMgrC7ESzRV7lPKCWQ2zgx4MLw6.jpg
+date=2017-11-04
+URL=https://openload.co/f/32qyYSh1KXU/Halloween.Pussy.Trap.Kill%21.Kill%21.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Wolf Mother (2016) ENG WEBRip.x264-iNTENSO
@@ -871,18 +862,35 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-31
+date=2017-11-04
 URL=
 
 
 
 
 
-
-
+type=video
+name=The Nut Job 2: Nutty by Nature (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/9FVJOUCmruekroyfsTsAKDYST80.jpg
+date=2017-11-04
+URL=https://www.blazefile.co/embed-t14ry219uj7x.html
 
 type=video
-name=The Show (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+name=Darkness Rising (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/6Hr2b0fB02vLFfjrTiwJTTpv0Qg.jpg
+date=2017-11-04
+URL=https://www.blazefile.co/embed-yxhf6jzxabv7.html
+
+type=video
+name=Wind River (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
+date=2017-11-04
+URL=https://www.blazefile.co/embed-68cdy7nrowcj.html
+#https://openload.co/f/PvkzQWxykww/Wind.River.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/KrtMkCMab98/Wind.River.2017.HDRip.XviD.AC3-iFT.avi.mp4
+
+type=video
+name=The Show (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/1O9hTngTf6oghVAPp5l79yYJ04J.jpg
 date=2017-11-03
 URL=https://www.blazefile.co/embed-bw648kmpxqj7.html
@@ -1638,7 +1646,12 @@ date=2017-11-03
 URL=https://www.blazefile.co/embed-vi4gyzpwddsa.html
 #https://openload.co/f/V0Cu1cntywo/Love.of.My.Life.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
-
+type=video
+name=Good Time (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/cz0egudCsfsTzwUAL03A5UzoHGT.jpg
+date=2017-11-04
+URL=https://www.blazefile.co/embed-osuorfqwbp5p.html
+#https://openload.co/f/5gWZy3ErcPw/Good.Time.2017.720p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
 
 
 
@@ -1692,7 +1705,20 @@ URL=http://203.162.235.41:17819
 
 
 
-
+type=video
+name=Thor: Ragnarok (2017) ENG HDCAM_x264-JellyBean
+thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
+date=2017-11-01
+URL=https://openload.co/f/pxPD4dDpDnY/Thor_Ragnarok_2017_ENG_HDCAM_x264-JellyBean.mp4
+#https://openload.co/f/TJgCB67boIs/Thor_Ragnarok_2017_ENG_HDCAM_x264-NEXUS_%28few_minutes_are_spanish%29.mp4
+#https://openload.co/f/6ZvZcs_wfXQ/Thor_Ragnarok_2017_NOLOGO_ENG_LQ_HDCAM.mp4
+#https://openload.co/f/N5CTkRYKr5g/Thor%3A_Ragnarok_2017_HDCAM_%5BLayar-21.com%5D.mp4
+#http://entervideo.net/watch/fbc6907370d0144
+type=video
+name=Thor: Ragnarok (2017) THCAM
+thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
+date=2017-11-04
+URL=https://openload.co/f/1Px-WShSrHo/Thor.Ragnarok.2017.720p.TS.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 
 
 type=video
@@ -1714,12 +1740,15 @@ name=Wolf Warrior 2 (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/43cEBkGpr0whbDuisa7TRLnv7X0.jpg
 date=2017-10-28
 URL=https://openload.co/f/JNaFUCFSBUk/Wolf_Warrior_2_%282017%29%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+#https://openload.co/f/otuWsiW2ugE/Wolf.Warrior.II.2017.HD720P.X264.AC3.ThaiRong_CpT%40CtHts.mkv.mp4
+
 
 type=video
 name=The Son of Bigfoot (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
 date=2017-10-24
 URL=https://openload.co/f/c_tptj0O6iU/The_Son_of_Bigfoot_%282017%29%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81%E0%B8%9F%E0%B8%B8%E0%B8%95_%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%8B%E0%B8%9F%E0%B8%9E%E0%B9%88%E0%B8%AD_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+#https://openload.co/f/wcgrmDhWUA0/The.Son.of.Bigfoot.2017.HDCAM.Xvid.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 
 
 type=video
@@ -1740,6 +1769,7 @@ name=Bad Genius (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/mgyvwqn5SYKhfg5kofZDfgH8R0q.jpg
 date=2017-10-21
 URL=https://openload.co/f/epxW0qa85XA/Bad_Genius_%282017%29%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+#https://openload.co/f/M0H0ERU8I5I/%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87_Bad_Genius_2017
 
 
 type=video
@@ -1814,17 +1844,7 @@ URL=https://openload.co/f/Elw1WEIapq8/American_Assassin_%282017%29%E0%B8%AD%E0%B
 
 
 
-type=video
-name=Valerian and the City of a Thousand Planets (2017) ENG WEB-DL H264 AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
-date=2017-11-03
-URL=https://www.blazefile.co/embed-wcqrzx0ub5l2.html
-#https://openload.co/f/bE7l70d6i6E/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.KOR.HDRip.XviD-PCHD.avi.mp4
-type=video
-name=Valerian and the City of a Thousand Planets (2017) TH CAM
-thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
-date=2017-08-18
-URL=https://openload.co/f/FKGfCtNNLPM/Valerian.2017.CAM.READNFO.XViD.AC3.ThaiRong_CpT%40CtHts.mkv.mp4
+
 
 
 
@@ -2205,6 +2225,21 @@ URL=
 
 
 
+
+type=video
+name=Valerian and the City of a Thousand Planets (2017) ENG WEB-DL H264 AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
+date=2017-11-03
+URL=https://www.blazefile.co/embed-wcqrzx0ub5l2.html
+#https://openload.co/f/bE7l70d6i6E/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.KOR.HDRip.XviD-PCHD.avi.mp4
+type=video
+name=Valerian and the City of a Thousand Planets (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
+date=2017-11-04
+URL=https://openload.co/f/j6vkpieqZN0/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.KORSUB.HDRip.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+#https://openload.co/f/FKGfCtNNLPM/Valerian.2017.CAM.READNFO.XViD.AC3.ThaiRong_CpT%40CtHts.mkv.mp4
+
+
 type=video
 name=Tell Me How I Die (2016) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/6wmeMvPc16Zsioe0M4VHwNXUV59.jpg
@@ -2239,6 +2274,7 @@ name=Cars 3 (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
 date=2017-10-30
 URL=https://openload.co/f/9d6mOy0XXNo/Cars_3_%282017%29_THCAM_SOUND%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87_%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/MfVdbZOm-SQ/Cars.3.2017.1080p.BluRay.H264.AC-3_ThaiRong5.1_CpT%40CtHts.mkv.mp4
 
 
 type=video
@@ -2254,16 +2290,13 @@ URL=https://openload.co/f/85hXXbIEp-I/It_%282017%29_THCAM_SOUND%E0%B8%AD%E0%B8%B
 
 
 type=video
-name=Atomic Blonde (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Atomic Blonde (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
 date=2017-11-03
-URL=https://www.blazefile.co/embed-rbu3k8icqki3.html
+URL=https://www.blazefile.co/embed-f2khi65ref9g.html
+#https://www.blazefile.co/embed-rbu3k8icqki3.html
 #https://openload.co/f/MffrJcUIms0/Atomic.Blonde.2017.720p.BluRay.x264.DTS-HDChina.mkv.mp4
 #https://openload.co/f/4R-pXnuqC1I/Atomic_Blonde_2017_1080p_WEB-DL_DD5.1_H264-FGT.mkv.mp4
-#https://openload.co/f/13M5vu6fyBw/Atomic.Blonde.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/8UecvL97bCw/Atomic_Blonde_2017_1080p_KORSUB_HDRip_x264_AAC2.0-STUTTERSHIT.mkv.mp4
-#https://openload.co/f/brixtXdous0/Atomic.Blonde.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/Bc3VU_CX4xc/Atomic.Blonde.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=Atomic Blonde (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
@@ -2312,6 +2345,7 @@ name=Bushwick (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg
 date=2017-11-01
 URL=https://openload.co/f/11bp7NHEOUo/%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/A0RjW5OUs0k/Bushwick.2017.1080p.WEB-DL.DD5.1.H264.ThaiRong5.1_CpT%40CtHts.mkv.mp4
 #https://openload.co/f/ec1xrtavae4/Bushwick_%282017%29%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
@@ -2507,7 +2541,7 @@ type=video
 name=
 thumb=
 date=2017-10-27
-URL=https://vidnodessl.akamaized.net/246357/19.10/ANNABELLE-%20CREATION.mp4
+URL=
 
 
 
@@ -2576,6 +2610,7 @@ name=Two Is a Family (2016) TH
 thumb=https://image.tmdb.org/t/p/w640/muwaDIv5cLv2Z07CZFWOsL7lYuO.jpg
 date=2017-10-20
 URL=https://openload.co/f/BpKbPNFbtAY/Two_Is_a_Family_%282016%29%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%88_%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99.mp4
+#https://openload.co/f/mqpFoIhxKTw/%7BMINI_Super-HQ%7D_Two.Is.A.Family.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
 type=video
