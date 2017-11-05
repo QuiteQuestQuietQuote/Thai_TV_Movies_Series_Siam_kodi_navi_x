@@ -259,7 +259,7 @@ type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=
+URL=http://191.96.38.234:443/free41/0x777_dissci_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
 
 
 
