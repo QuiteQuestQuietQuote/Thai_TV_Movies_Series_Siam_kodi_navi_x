@@ -24,7 +24,7 @@ rating=-1.00
 type=video
 name=
 thumb=https://4.bp.blogspot.com/-q3FCvo_BtWw/WdLY23tF_4I/AAAAAAAAAJE/PnQtW3AhDKcpITTVadnjDOyrsx5Vcb-nQCLcBGAs/s320/054.png
-URL=http://103.77.116.238:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=yxRl0ofcoSFLLdprWOS_IA&username2=0885120325&username=15015087917688791768&password=mmmm77c2bfaf129c6e365af8&e=1509902290
+URL=http://103.77.116.238:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=31kIO5pYmBm3nVbDoZpJNA&username2=0885120325&username=15015087917688791768&password=mmmmb59f1b9482885faea36c&e=1509914995
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -34,13 +34,13 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-fON3PQ3epac/WdLY5DfEFmI/AAAAAAAAAJo/6vW7TQ_dVkIn26x9l9hx7kebzKg6AwS-ACLcBGAs/s320/063.png
-URL=http://103.77.116.238:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=yxRl0ofcoSFLLdprWOS_IA&username2=0885120325&username=15015087917688791768&password=mmmm77c2bfaf129c6e365af8&e=1509902290
+URL=http://103.77.116.238:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=31kIO5pYmBm3nVbDoZpJNA&username2=0885120325&username=15015087917688791768&password=mmmmb59f1b9482885faea36c&e=1509914995
 
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-gfLftrQzfyk/WdLY10QqpTI/AAAAAAAAAIw/hrCHo3pNsgkuvkL-X2uSqoQQwvo-0ioYgCLcBGAs/s320/049.png
 date=2017-09-22
-URL=http://103.77.116.238:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=yxRl0ofcoSFLLdprWOS_IA&username2=0885120325&username=15015087917688791768&password=mmmm77c2bfaf129c6e365af8&e=1509902290
+URL=http://103.77.116.238:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=31kIO5pYmBm3nVbDoZpJNA&username2=0885120325&username=15015087917688791768&password=mmmmb59f1b9482885faea36c&e=1509914995
 
 type=video
 name=
@@ -52,7 +52,7 @@ type=video
 name=
 thumb=https://2.bp.blogspot.com/-dd5bWZ-tL-k/WdLY5f19XsI/AAAAAAAAAJs/xvG608PIzGsMCA39j6DxYRhvFf_Tkr4mACLcBGAs/s320/064.png
 date=2017-10-29
-URL=http://103.77.116.238:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=yxRl0ofcoSFLLdprWOS_IA&username2=0885120325&username=15015087917688791768&password=mmmm77c2bfaf129c6e365af8&e=1509902290
+URL=http://103.77.116.238:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=31kIO5pYmBm3nVbDoZpJNA&username2=0885120325&username=15015087917688791768&password=mmmmb59f1b9482885faea36c&e=1509914995
 
 
 
@@ -1697,7 +1697,7 @@ URL=http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD (TH)[/COLOR]
 thumb=https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png
-URL=http://103.77.116.238:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?st=yxRl0ofcoSFLLdprWOS_IA&username2=0885120325&username=15015087917688791768&password=mmmm77c2bfaf129c6e365af8&e=1509902290
+URL=http://103.77.116.238:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?st=31kIO5pYmBm3nVbDoZpJNA&username2=0885120325&username=15015087917688791768&password=mmmmb59f1b9482885faea36c&e=1509914995
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE1[/COLOR]
