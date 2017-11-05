@@ -77,6 +77,7 @@ name=A Bad Moms Christmas (2017) ENG HDCAM-H264-AC3-Zi%24T
 thumb=https://image.tmdb.org/t/p/w640/gPNHolu7AGnrB7r5kvJRRTfwMFR.jpg
 date=2017-11-04
 URL=https://openload.co/f/s9JvJo8vRdM/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
+#https://openload.co/f/itxz3-_HMO0/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
 
 type=video
 name=Jigsaw (2017) ENG CAM.ENG.X264-Feel.Free
@@ -706,11 +707,7 @@ thumb=https://image.tmdb.org/t/p/w640/cK1DvOZWUVujRgRXPFYCP6XDUxS.jpg
 date=2017-09-14
 URL=https://openload.co/f/i3T0swVRHpc/AWOL.2016.DVDRip.x264-RedBlade.mkv.mp4
 
-type=video
-name=The Good Catholic (2017) ENG BRRip.XviD.AC3-iFT
-thumb=https://image.tmdb.org/t/p/w640/iPvggWYCZblEG2ldObR6GHmkEjz.jpg
-date=2017-10-19
-URL=https://openload.co/f/66JktCPMeHQ/The_Good_Catholic.2017.BRRip.XviD.AC3-iFT.avi.mp4
+
 
 
 
@@ -862,7 +859,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-11-04
+date=2017-11-05
 URL=
 
 
@@ -870,10 +867,23 @@ URL=
 
 
 type=video
+name=KILD TV (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/5CsV5ez5GTdjS3cJss2qwZeG4Xg.jpg
+date=2017-11-05
+URL=https://openload.co/f/Ssn5Jt3jtwI/kild.tv.2016.1080p.bluray.x264-justwatch.mkv.mp4
+
+type=video
+name=Whisky Galore (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/7NhrztnzXoh5gzgQWgZCDIm86ce.jpg
+date=2017-11-05
+URL=https://openload.co/f/eHoB6Dm9nvs/Whisky.Galore.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
 name=The Nut Job 2: Nutty by Nature (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/9FVJOUCmruekroyfsTsAKDYST80.jpg
 date=2017-11-04
 URL=https://www.blazefile.co/embed-t14ry219uj7x.html
+#https://openload.co/f/bQd8J6ZLQaM/The_Nut_Job_2_Nutty_by_Nature_%282017%29_%5B1080p%5D_BluRay_H264_AAC-RARBG_mp4
 
 type=video
 name=Darkness Rising (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1653,7 +1663,12 @@ date=2017-11-04
 URL=https://www.blazefile.co/embed-osuorfqwbp5p.html
 #https://openload.co/f/5gWZy3ErcPw/Good.Time.2017.720p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
 
-
+type=video
+name=The Good Catholic (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/iPvggWYCZblEG2ldObR6GHmkEjz.jpg
+date=2017-11-05
+URL=https://openload.co/f/N5tyfl_zQ1Y/The.Good.Catholic.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#https://openload.co/f/66JktCPMeHQ/The_Good_Catholic.2017.BRRip.XviD.AC3-iFT.avi.mp4
 
 
 
@@ -1706,10 +1721,11 @@ URL=http://203.162.235.41:17819
 
 
 type=video
-name=Thor: Ragnarok (2017) ENG HDCAM_x264-JellyBean
+name=Thor: Ragnarok (2017) ENG NEW_FULL_HDCAM_ENG_X264-DADDY
 thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
-date=2017-11-01
-URL=https://openload.co/f/pxPD4dDpDnY/Thor_Ragnarok_2017_ENG_HDCAM_x264-JellyBean.mp4
+date=2017-11-05
+URL=https://openload.co/f/ZACS8q6mjqE/Thor_Ragnarok_2017_NEW_FULL_HDCAM_ENG_X264-DADDY.mkv.mp4
+#https://openload.co/f/pxPD4dDpDnY/Thor_Ragnarok_2017_ENG_HDCAM_x264-JellyBean.mp4
 #https://openload.co/f/TJgCB67boIs/Thor_Ragnarok_2017_ENG_HDCAM_x264-NEXUS_%28few_minutes_are_spanish%29.mp4
 #https://openload.co/f/6ZvZcs_wfXQ/Thor_Ragnarok_2017_NOLOGO_ENG_LQ_HDCAM.mp4
 #https://openload.co/f/N5CTkRYKr5g/Thor%3A_Ragnarok_2017_HDCAM_%5BLayar-21.com%5D.mp4
@@ -1733,6 +1749,7 @@ name=Geostorm (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
 date=2017-10-30
 URL=https://openload.co/f/Tn46uIRSZrI/Geostorm_%282017%29_THCAM%E0%B8%88%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1_%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B2%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+#https://openload.co/f/WD8CFEMyanY/Geostorm.2017.HDCAM.X264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 
 
 type=video
@@ -1834,8 +1851,9 @@ URL=https://openload.co/f/mmAJmFRU03g/American_Assassin_2017_HD-TS_x264-UNiQUE.m
 type=video
 name=American Assassin (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
-date=2017-09-24
-URL=https://openload.co/f/Elw1WEIapq8/American_Assassin_%282017%29%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%86%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+date=2017-11-05
+URL=https://openload.co/f/fp2H3OWSVWA/American.Assassin.2017.HD-TS.x264.ThaiRong.AAC.2.0_CpT%40CtHts.mkv.mp4
+#https://openload.co/f/Elw1WEIapq8/American_Assassin_%282017%29%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%86%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
 
