@@ -175,7 +175,7 @@ type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=2017-09-25
-URL=
+URL=http://191.96.38.234:443/free53/0x222_ais_hbohit_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
 
 
 
@@ -236,7 +236,7 @@ type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=
+URL=http://191.96.38.44:443/seedbet41/0x777_dissci_360p/playlist.m3u8?key=hqv6trdiac68mb2ucemvaqgz
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
