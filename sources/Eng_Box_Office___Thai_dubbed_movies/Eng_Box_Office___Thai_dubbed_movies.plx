@@ -127,7 +127,31 @@ name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
 URL=http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
 
+type=video
+name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE1[/COLOR]
+thumb=http://www.thaiptv.com/img/movie1logo.png
+URL=http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
+type=video
+name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE2[/COLOR]
+thumb=http://www.thaiptv.com/img/movie2logo.png
+URL=http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+
+type=video
+name=[COLOR=FF00FF00]24/7 Animated Movies[/COLOR]
+thumb=http://cdn3.thr.com/sites/default/files/2016/12/upcoming_animated_movies_split.jpg
+date=
+URL=http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
+type=video
+name=[COLOR=FF00FF00]24/7 Blockbuster Movies[/COLOR]
+thumb=http://42works.net/wp-content/uploads/2017/01/iStock_000038870628Large2.jpg
+date=
+URL=http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
+type=video
+name=[COLOR=FF00FF00]24/7 Superhero Movies[/COLOR]
+thumb=http://digitalspyuk.cdnds.net/17/24/980x490/landscape-1497630992-superhero-movies.jpg
+date=
+URL=http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
 
 
 

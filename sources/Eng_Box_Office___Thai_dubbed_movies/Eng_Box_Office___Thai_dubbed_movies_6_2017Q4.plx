@@ -54,7 +54,11 @@ thumb=https://2.bp.blogspot.com/-dd5bWZ-tL-k/WdLY5f19XsI/AAAAAAAAAJs/xvG608PIzGs
 date=2017-10-29
 URL=http://103.77.116.238:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=KYDuJBvHEF6ursPCbVuBwg&username2=0885120325&username=15015087917688791768&password=mmmm1e2fe5560328f247d96b&e=1510000659
 
-
+type=video
+name=
+thumb=https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png
+date=
+URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
@@ -1708,6 +1712,24 @@ type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE2[/COLOR]
 thumb=http://www.thaiptv.com/img/movie2logo.png
 URL=http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+
+type=video
+name=[COLOR=FF00FF00]24/7 Animated Movies[/COLOR]
+thumb=http://cdn3.thr.com/sites/default/files/2016/12/upcoming_animated_movies_split.jpg
+date=
+URL=http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
+type=video
+name=[COLOR=FF00FF00]24/7 Blockbuster Movies[/COLOR]
+thumb=http://42works.net/wp-content/uploads/2017/01/iStock_000038870628Large2.jpg
+date=
+URL=http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
+type=video
+name=[COLOR=FF00FF00]24/7 Superhero Movies[/COLOR]
+thumb=http://digitalspyuk.cdnds.net/17/24/980x490/landscape-1497630992-superhero-movies.jpg
+date=
+URL=http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
+
+
 
 
 
