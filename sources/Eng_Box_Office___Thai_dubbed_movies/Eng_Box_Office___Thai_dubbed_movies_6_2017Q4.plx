@@ -69,7 +69,7 @@ type=video
 name=
 thumb=
 date=2017-11-04
-URL=
+URL=https://filebebo.com/e/4fkaolniughu?pro=1
 
 
 
@@ -622,6 +622,7 @@ name=Ryde (2016) ENG WEB-DL.x264.AC3-eSc
 thumb=https://image.tmdb.org/t/p/w640/jc5yQmz64cTCGVnep7EIGjuU4tN.jpg
 date=2017-09-27
 URL=https://openload.co/f/cYoxi7rsJu4/Ryde.2016.1080p.WEB-DL.x264.AC3-eSc.mp4.mp4
+#https://openload.co/f/iiabVj8A160/Ryde.2017.BDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Cabin 28 (2017) ENG HDRip.XviD.AC3-EVO
@@ -880,7 +881,8 @@ type=video
 name=Whisky Galore (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/7NhrztnzXoh5gzgQWgZCDIm86ce.jpg
 date=2017-11-05
-URL=https://openload.co/f/eHoB6Dm9nvs/Whisky.Galore.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+URL=https://www.blazefile.co/embed-z26b9hv286ul.html
+#https://openload.co/f/eHoB6Dm9nvs/Whisky.Galore.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Nut Job 2: Nutty by Nature (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
