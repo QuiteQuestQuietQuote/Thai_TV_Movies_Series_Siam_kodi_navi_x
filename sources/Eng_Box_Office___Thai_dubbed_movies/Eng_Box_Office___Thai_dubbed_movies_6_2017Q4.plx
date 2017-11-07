@@ -69,7 +69,7 @@ type=video
 name=
 thumb=
 date=2017-11-04
-URL=https://filebebo.com/e/4fkaolniughu?pro=1
+URL=
 
 
 
@@ -77,10 +77,11 @@ URL=https://filebebo.com/e/4fkaolniughu?pro=1
 
 
 type=video
-name=A Bad Moms Christmas (2017) ENG HDCAM-H264-AC3-Zi%24T
+name=A Bad Moms Christmas (2017) ENG NEW.720p.HDCAM.X264.AC3.HQ-DADDY
 thumb=https://image.tmdb.org/t/p/w640/gPNHolu7AGnrB7r5kvJRRTfwMFR.jpg
-date=2017-11-04
-URL=https://openload.co/f/s9JvJo8vRdM/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
+date=2017-11-07
+URL=https://openload.co/f/0WatHfN8KKw/A.Bad.Moms.Christmas.2017.NEW.720p.HDCAM.X264.AC3.HQ-DADDY.mkv.mp4
+#https://openload.co/f/s9JvJo8vRdM/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
 #https://openload.co/f/itxz3-_HMO0/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
 
 type=video
@@ -90,10 +91,11 @@ date=2017-11-01
 URL=https://openload.co/f/F3nZJ_umMbw/Jigsaw.2017.720p.CAM.ENG.X264-Feel.Free.mkv.mp4
 
 type=video
-name=Jeepers Creepers III (2017) ENG HDCAM.x264-DiRG
+name=Jeepers Creepers III (2017) ENG HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/iw4zbtCw01JhTMpFtyYBKEDPBSL.jpg
-date=2017-11-01
-URL=https://openload.co/f/PyY9phQMIeo/Jeepers.Creepers.3.2017.HDCAM.x264-DiRG.mp4
+date=2017-11-07
+URL=https://openload.co/f/nBT0KK06WCQ/Jeepers_Creepers_3_2017_720p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/PyY9phQMIeo/Jeepers.Creepers.3.2017.HDCAM.x264-DiRG.mp4
 #https://openload.co/f/ixfU_gOrA_4/Jeepers.Creepers.3.2017.HDCAM.x264-DiRG.mp4
 
 type=video
@@ -159,7 +161,11 @@ URL=
 
 
 
-
+type=video
+name=November Criminals (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/xQ40BNgkwq8JchXYORkhTwvtLac.jpg
+date=2017-11-07
+URL=https://openload.co/f/hPvOIjnmC58/November_Criminals.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=The Only Living Boy in New York (2017) ENG WEB-DL.x264-FGT
@@ -167,8 +173,6 @@ thumb=https://image.tmdb.org/t/p/w640/8e6Q7N2qJ7utBrf6pyf3EiLADja.jpg
 date=2017-10-20
 URL=https://openload.co/f/OTg3g1vgdG0/The_Only_Living_Boy_in_New_York_%282017%29_%5B1080p%5D_WEB-DL_DD5_1_H264-FGT_mkv_mp4
 #https://openload.co/f/2FIdzfMEsV4/The.Only.Living.Boy.in.New.York.2017.WEB-DL.x264-FGT.mp4
-
-
 
 type=video
 name=Swing Away (2017) ENG HDRip.XviD.AC3-EVO
@@ -184,8 +188,6 @@ thumb=https://image.tmdb.org/t/p/w640/vJZs6ABHbCcgjIFcAoPx3qhwXzL.jpg
 date=2017-10-13
 URL=https://openload.co/f/DvzBIzD07rA/The_Meyerowitz_Stories_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
 
-
-
 type=video
 name=6 Below: Miracle on the Mountain (2017) ENG WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/8eZynKoLiPq9b6DQGLOFHt6mZPv.jpg
@@ -199,25 +201,17 @@ thumb=https://image.tmdb.org/t/p/w640/2D2XnnZKNhhxb3Ig0PM0OIVdmZ8.jpg
 date=2017-10-06
 URL=https://openload.co/f/fkXkBBTTZxM/Walking.Out.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
-
-
 type=video
 name=Logan Lucky (2017) ENG TS.x264-CPG
 thumb=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
 date=2017-09-07
 URL=https://openload.co/f/sT2jB8zTaVQ/LC.2017.TS.x264-CPG.mkv.mp4
 
-
-
-
-
 type=video
 name=The Layover (2017) ENG dvdrip.x264.fragment
 thumb=https://image.tmdb.org/t/p/w640/kb9osnqanXRpkpm1bnSqAhKoq5T.jpg
 date=2017-10-11
 URL=https://openload.co/f/_bCmA0g9Xu8/the.layover.2017.dvdrip.x264.fragment.mkv.mp4
-
-
 
 type=video
 name=Rememory (2017) ENG HDRip.XviD.AC3-EVO
@@ -229,7 +223,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-11-04
+date=2017-11-07
 URL=
 
 
@@ -238,7 +232,23 @@ URL=
 
 
 
+type=video
+name=The 60 Yard Line (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/6egvfUVQQxxfPMYHAQfqaQPgL8X.jpg
+date=2017-11-07
+URL=https://openload.co/f/f2JLS6k7LaI/The.60.Yard.Line.2017.HDRip.XviD.AC3-EVO.avi
 
+type=video
+name=La Barracuda (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/xZ08XGkBu7oYT6Bp9Eic9znnJAc.jpg
+date=2017-11-07
+URL=https://openload.co/f/o-ZqryzSkxc/Barracuda.2017.HDRip.XviD.AC3-EVO.avi
+
+type=video
+name=Thumper (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/sQVMjMW9CNofYqLHZO7AkZWG9t5.jpg
+date=2017-11-07
+URL=https://openload.co/f/bX-xz_DyKt0/Thumper.2017.HDRip.XviD.AC3-EVO.avi
 
 type=video
 name=Halloween Pussy Trap Kill! Kill! (2017) ENG HDRip.XviD.AC3-EVO
@@ -251,6 +261,16 @@ name=Wolf Mother (2016) ENG WEBRip.x264-iNTENSO
 thumb=https://image.tmdb.org/t/p/w640/htoD1BJC9dcC9E43K0f4ZJ0M0sT.jpg
 date=2017-11-01
 URL=https://openload.co/f/9FjyQeOnc4Q/Wolf.Mother.2016.1080p.WEBRip.x264-iNTENSO.mkv.mp4
+
+
+
+
+
+
+
+
+
+
 
 type=video
 name=Brad's Status (2017) ENG HC.HDRip.X264.AC3-EVO
@@ -617,12 +637,7 @@ thumb=https://image.tmdb.org/t/p/w640/6SXVRLtUcJqPrHC4x6vL3Arwwzk.jpg
 date=2017-09-29
 URL=https://openload.co/f/iEnVUcMakoE/Zombies.2017.WEB-DL.x264-FGT.mp4
 
-type=video
-name=Ryde (2016) ENG WEB-DL.x264.AC3-eSc
-thumb=https://image.tmdb.org/t/p/w640/jc5yQmz64cTCGVnep7EIGjuU4tN.jpg
-date=2017-09-27
-URL=https://openload.co/f/cYoxi7rsJu4/Ryde.2016.1080p.WEB-DL.x264.AC3-eSc.mp4.mp4
-#https://openload.co/f/iiabVj8A160/Ryde.2017.BDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Cabin 28 (2017) ENG HDRip.XviD.AC3-EVO
@@ -871,6 +886,16 @@ URL=
 
 
 
+
+
+type=video
+name=Ryde (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/jc5yQmz64cTCGVnep7EIGjuU4tN.jpg
+date=2017-11-07
+URL=https://openload.co/f/p6L94FUjO-I/Ryde.2016.1080p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/cYoxi7rsJu4/Ryde.2016.1080p.WEB-DL.x264.AC3-eSc.mp4.mp4
+#https://openload.co/f/iiabVj8A160/Ryde.2017.BDRip.XviD.AC3-EVO.avi.mp4
+
 type=video
 name=KILD TV (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/5CsV5ez5GTdjS3cJss2qwZeG4Xg.jpg
@@ -889,6 +914,7 @@ name=The Nut Job 2: Nutty by Nature (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/9FVJOUCmruekroyfsTsAKDYST80.jpg
 date=2017-11-04
 URL=https://www.blazefile.co/embed-t14ry219uj7x.html
+#https://openload.co/f/uCO7gBuFMQ0/the.nut.job.2.nutty.by.nature.2017.rerip.1080p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/bQd8J6ZLQaM/The_Nut_Job_2_Nutty_by_Nature_%282017%29_%5B1080p%5D_BluRay_H264_AAC-RARBG_mp4
 
 type=video
@@ -1907,10 +1933,11 @@ URL=https://openload.co/f/yHAqwafVlbk/Dunkirk.2017.HD-TS.x264.ThaiRong_CpT%40CtH
 
 
 type=video
-name=Birth of the Dragon (2017) ENG HDCAM.x264-DiRG
+name=Birth of the Dragon (2017) ENG WEB-DL_X264_AC3_-EVO
 thumb=https://image.tmdb.org/t/p/w640/y29CEE9oukwhNT6INWVEOaINHpR.jpg
-date=2017-10-25
-URL=https://openload.co/f/hczOVCdDAmM/Birth.Of.The.Dragon.2017.HDCAM.x264-DiRG.mp4
+date=2017-11-07
+URL=https://openload.co/f/XtLykmONrkw/Birth_of_the_Dragon_2017_720p_WEB-DL_X264_AC3_-EVO.mkv.mp4
+#https://openload.co/f/hczOVCdDAmM/Birth.Of.The.Dragon.2017.HDCAM.x264-DiRG.mp4
 type=video
 name=Birth of the Dragon (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/y29CEE9oukwhNT6INWVEOaINHpR.jpg
@@ -2562,14 +2589,14 @@ type=video
 name=
 thumb=
 date=2017-09-14
-URL=
+URL=https://lh3.googleusercontent.com/igghNSqrc5HLTUvuPdGaKq7YaYYvMLalHTfbSRK3HXHdE6FWvnpdlYGogcQHLAnrHp2Eqcs5o1s=m37?title=Annabelle%202:%20Creation%20%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%A5%E0%B9%8C%20%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%9C%E0%B8%B5%202(1080p)
 		
 
 type=video
 name=
 thumb=
 date=2017-09-17
-URL=
+URL=http://entervideo.net/watch/ce3cdc4a831712e
 			
 			
 
@@ -2577,7 +2604,7 @@ type=video
 name=
 thumb=
 date=2017-09-14
-URL=
+URL=http://185.176.192.117/vids/shameless.us.s08e01.1080p.web.h264-convoy___5a001fe154824.mp4
 
 type=video
 name=
