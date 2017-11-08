@@ -68,13 +68,45 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-11-04
+date=2017-11-08
 URL=
 
 
 
 
 
+
+type=video
+name=Boo 2! A Madea Halloween (2017) ENG V2.CAM.x264-NEXUS
+thumb=https://image.tmdb.org/t/p/w640/5nvP4etJ8ecQv8qZM08dK4BAzdK.jpg
+date=2017-11-08
+URL=https://openload.co/f/cisxIQQ1-xk/Boo.2.A.Madea.Halloween.2017.V2.CAM.x264-NEXUS.mp4
+
+type=video
+name=S.M.A.R.T. Chase (2017) RUS
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BZGY4M2Q3YjYtODI1Zi00NTMwLWE0NmItYWRkNDBmYmNjMDE0XkEyXkFqcGdeQXVyNjMwNTM2NTE@._V1_SY1000_SX675_AL_.jpg
+date=2017-11-08
+URL=http://entervideo.net/watch/663df7b4d19c193
+#https://openload.co/f/0CIUo1iyESA/SMART.Chase.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
+
+type=video
+name=Happy Family (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/qp1kMdB5TVZ5ZN7BdpGQbVhAbfh.jpg
+date=2017-11-08
+URL=http://entervideo.net/watch/78214b8b8f6c507
+#https://openload.co/f/sDKaKTnsdrU/Happy.Family.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
+
+type=video
+name=Coco (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
+date=2017-11-08
+URL=http://entervideo.net/watch/2d584ec0b86d760
+
+type=video
+name=Tragedy Girls (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/qMwuplUU4dg9JBBhgML42T6x0yJ.jpg
+date=2017-11-08
+URL=http://entervideo.net/watch/397e6cc4a8812c1
 
 type=video
 name=A Bad Moms Christmas (2017) ENG NEW.720p.HDCAM.X264.AC3.HQ-DADDY
@@ -162,10 +194,11 @@ URL=
 
 
 type=video
-name=November Criminals (2017) ENG WEB-DL.H264.AC3-EVO
+name=November Criminals (2017) ENG WEB-DL H264 AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/xQ40BNgkwq8JchXYORkhTwvtLac.jpg
-date=2017-11-07
-URL=https://openload.co/f/hPvOIjnmC58/November_Criminals.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2017-11-08
+URL=https://www.blazefile.co/embed-v7xd0e74owia.html
+#https://openload.co/f/hPvOIjnmC58/November_Criminals.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=The Only Living Boy in New York (2017) ENG WEB-DL.x264-FGT
@@ -223,7 +256,7 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-11-07
+date=2017-11-08
 URL=
 
 
@@ -231,6 +264,12 @@ URL=
 
 
 
+
+type=video
+name=Rise of the Footsoldier 3 (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/uqbQwQqjk5RFCDQtWL6zpnaRnaA.jpg
+date=2017-11-08
+URL=https://openload.co/f/H8cECR8EO6g/Rise.of.the.Footsoldier.3.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=The 60 Yard Line (2017) ENG HDRip.XviD.AC3-EVO
@@ -245,10 +284,11 @@ date=2017-11-07
 URL=https://openload.co/f/o-ZqryzSkxc/Barracuda.2017.HDRip.XviD.AC3-EVO.avi
 
 type=video
-name=Thumper (2017) ENG HDRip.XviD.AC3-EVO
+name=Thumper (2017) ENG WEB-DL H264 AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/sQVMjMW9CNofYqLHZO7AkZWG9t5.jpg
 date=2017-11-07
-URL=https://openload.co/f/bX-xz_DyKt0/Thumper.2017.HDRip.XviD.AC3-EVO.avi
+URL=https://www.blazefile.co/embed-qn9c0rptlau3.html
+#https://openload.co/f/bX-xz_DyKt0/Thumper.2017.HDRip.XviD.AC3-EVO.avi
 
 type=video
 name=Halloween Pussy Trap Kill! Kill! (2017) ENG HDRip.XviD.AC3-EVO
@@ -521,11 +561,7 @@ thumb=https://image.tmdb.org/t/p/w640/aN1drk3BqIzCUICR436t3t0lq9H.jpg
 date=2017-10-06
 URL=https://openload.co/f/0Gsb3X7-US0/The_Crucifixion.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
-type=video
-name=Marjorie Prime (2017) ENG WEB-DL.DD5.1.H264FGT
-thumb=https://image.tmdb.org/t/p/w640/wcIPaT9ktpJHNaMyAiRMcra8NIM.jpg
-date=2017-10-06
-URL=https://openload.co/f/EPek0sdWJtY/Marjorie.Prime.2017.1080p.WEB-DL.DD5.1.H264FGT.mkv.mp4
+
 
 type=video
 name=Cold Moon (2016) ENG WEB-DL.XviD.AC3-FGT
@@ -1146,6 +1182,7 @@ name=The Limehouse Golem (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/xB1AFa4iLU9KGxlrVbfH2uIJeck.jpg
 date=2017-10-11
 URL=https://openload.co/f/VHPFLpCCxZE/The.Limehouse.Golem.2016.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://www.blazefile.co/embed-viigd589fgws.html
 
 type=video
 name=Bon Cop Bad Cop 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1702,6 +1739,23 @@ date=2017-11-05
 URL=https://openload.co/f/N5tyfl_zQ1Y/The.Good.Catholic.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4
 #https://openload.co/f/66JktCPMeHQ/The_Good_Catholic.2017.BRRip.XviD.AC3-iFT.avi.mp4
 
+type=video
+name=Marjorie Prime (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/wcIPaT9ktpJHNaMyAiRMcra8NIM.jpg
+date=2017-11-08
+URL=https://www.blazefile.co/embed-k9qhmsyx9mwr.html
+#https://openload.co/f/EPek0sdWJtY/Marjorie.Prime.2017.1080p.WEB-DL.DD5.1.H264FGT.mkv.mp4
+
+type=video
+name=Patti Cake$ (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/11MVxyp77zUPwc4cmqsUumNQYWK.jpg
+date=2017-11-08
+URL=https://www.blazefile.co/embed-28zte4rsa2qw.html
+
+
+
+
+
 
 
 
@@ -1717,14 +1771,16 @@ type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 date=2017-10-10
-URL=http://27.254.154.154:1935/cinema/HBO.stream/playlist.m3u8
+URL=http://103.77.116.238:443/movie/hbo_th_720p.stream/playlist.m3u8?st=C5jq1z7JoLQf7619ylFIVA&username2=0885120325&username=15015087917688791768&password=mmmm94082de2194be8821e36&e=1510173076
+#http://27.254.154.154:1935/cinema/HBO.stream/playlist.m3u8
 player=default
 rating=-1.00
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
+URL=http://103.77.116.238:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=C5jq1z7JoLQf7619ylFIVA&username2=0885120325&username=15015087917688791768&password=mmmm94082de2194be8821e36&e=1510173076
+#http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD (TH)[/COLOR]
@@ -1933,10 +1989,11 @@ URL=https://openload.co/f/yHAqwafVlbk/Dunkirk.2017.HD-TS.x264.ThaiRong_CpT%40CtH
 
 
 type=video
-name=Birth of the Dragon (2017) ENG WEB-DL_X264_AC3_-EVO
+name=Birth of the Dragon (2017) ENG WEB-DL DD5.1 H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/y29CEE9oukwhNT6INWVEOaINHpR.jpg
-date=2017-11-07
-URL=https://openload.co/f/XtLykmONrkw/Birth_of_the_Dragon_2017_720p_WEB-DL_X264_AC3_-EVO.mkv.mp4
+date=2017-11-08
+URL=https://www.blazefile.co/embed-27rzvd8ya3wv.html
+#https://openload.co/f/XtLykmONrkw/Birth_of_the_Dragon_2017_720p_WEB-DL_X264_AC3_-EVO.mkv.mp4
 #https://openload.co/f/hczOVCdDAmM/Birth.Of.The.Dragon.2017.HDCAM.x264-DiRG.mp4
 type=video
 name=Birth of the Dragon (2017) TH CAM
@@ -2324,8 +2381,9 @@ URL=https://openload.co/f/u2d0I9ZAq0M/The.Lego.Ninjago.Movie.2017.1080p.HC.HDRip
 type=video
 name=The LEGO Ninjago Movie (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
-date=2017-10-21
-URL=https://openload.co/f/QRlE2srV46k/The_LEGO_Ninjago_Movie_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B9%82%E0%B8%81_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+date=2017-11-08
+URL=https://openload.co/f/xxwf4ErHils/The.Lego.Ninjago.Movie.2017.1080p.KORSUB.HDRip.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+#https://openload.co/f/QRlE2srV46k/The_LEGO_Ninjago_Movie_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B9%82%E0%B8%81_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
 type=video

@@ -71,10 +71,11 @@ rating=-1.00
 
 
 type=video
-name=HBO HD (TH)
+name=HBO HD
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 date=2017-10-10
-URL=http://103.77.116.238:443/movie/hbo_th_720p.stream/playlist.m3u8?st=C5jq1z7JoLQf7619ylFIVA&username2=0885120325&username=15015087917688791768&password=mmmm94082de2194be8821e36&e=1510173076
+URL=http://183.88.212.205:8010/play/a00u
+#http://103.77.116.238:443/movie/hbo_th_720p.stream/playlist.m3u8?st=C5jq1z7JoLQf7619ylFIVA&username2=0885120325&username=15015087917688791768&password=mmmm94082de2194be8821e36&e=1510173076
 
 type=video
 name=HBO Hits
@@ -84,7 +85,8 @@ URL=http://103.77.116.238:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=C5jq1z
 type=video
 name=Cinemax
 thumb=https://3.bp.blogspot.com/-Vxm9d7YjvDI/WdLYxl68RYI/AAAAAAAAAHo/GbJ2lnI2s4c9RA_xArSfV9kv0-bZ_tswQCLcBGAs/s320/031.png
-URL=http://27.254.154.154:1935/cinema/CINEMAX.stream/playlist.m3u8
+URL=http://183.88.212.205:8010/play/a00n
+#http://27.254.154.154:1935/cinema/CINEMAX.stream/playlist.m3u8
 
 
 type=video
@@ -120,12 +122,14 @@ type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 date=2017-10-10
-URL=http://27.254.154.154:1935/cinema/HBO.stream/playlist.m3u8
+URL=http://103.77.116.238:443/movie/hbo_th_720p.stream/playlist.m3u8?st=C5jq1z7JoLQf7619ylFIVA&username2=0885120325&username=15015087917688791768&password=mmmm94082de2194be8821e36&e=1510173076
+#http://27.254.154.154:1935/cinema/HBO.stream/playlist.m3u8
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
+URL=http://103.77.116.238:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=C5jq1z7JoLQf7619ylFIVA&username2=0885120325&username=15015087917688791768&password=mmmm94082de2194be8821e36&e=1510173076
+#http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE1[/COLOR]
