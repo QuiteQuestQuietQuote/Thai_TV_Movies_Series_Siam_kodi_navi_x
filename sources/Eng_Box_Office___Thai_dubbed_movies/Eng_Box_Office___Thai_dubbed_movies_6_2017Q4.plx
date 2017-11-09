@@ -256,14 +256,18 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-11-08
+date=2017-11-09
 URL=
 
 
 
 
 
-
+type=video
+name=Champion (2017) ENG dvdrip.x264-lpd
+thumb=https://image.tmdb.org/t/p/w640/oCy74z0ipr3SiodWGOz21b4pBGt.jpg
+date=2017-11-09
+URL=https://openload.co/f/A7QYiU4ru8s/champion.limited.2017.dvdrip.x264-lpd.mkv.mp4
 
 type=video
 name=Rise of the Footsoldier 3 (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -922,7 +926,12 @@ URL=
 
 
 
-
+type=video
+name=Patti Cake$ (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/11MVxyp77zUPwc4cmqsUumNQYWK.jpg
+date=2017-11-08
+URL=https://www.blazefile.co/embed-vu9pi131lzie.html
+#https://www.blazefile.co/embed-28zte4rsa2qw.html
 
 type=video
 name=Ryde (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1180,8 +1189,10 @@ URL=https://openload.co/f/Xomqcu67ga8/Batman.vs.Two-Face.2017.1080p.BluRay.H264.
 type=video
 name=The Limehouse Golem (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/xB1AFa4iLU9KGxlrVbfH2uIJeck.jpg
-date=2017-10-11
-URL=https://openload.co/f/VHPFLpCCxZE/The.Limehouse.Golem.2016.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+date=2017-11-09
+URL=https://www.blazefile.co/embed-m2mhqi70xrkq.html
+#https://openload.co/f/qf7xBYs3ybI/The.Limehouse.Golem.2016.1080p.BluRay.X264-AMIABLE_EtHD_.mkv.mp4
+#https://openload.co/f/VHPFLpCCxZE/The.Limehouse.Golem.2016.1080p.BluRay.x264.DTS-FGT.mkv.mp4
 #https://www.blazefile.co/embed-viigd589fgws.html
 
 type=video
@@ -1746,11 +1757,7 @@ date=2017-11-08
 URL=https://www.blazefile.co/embed-k9qhmsyx9mwr.html
 #https://openload.co/f/EPek0sdWJtY/Marjorie.Prime.2017.1080p.WEB-DL.DD5.1.H264FGT.mkv.mp4
 
-type=video
-name=Patti Cake$ (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/11MVxyp77zUPwc4cmqsUumNQYWK.jpg
-date=2017-11-08
-URL=https://www.blazefile.co/embed-28zte4rsa2qw.html
+
 
 
 
@@ -1989,10 +1996,10 @@ URL=https://openload.co/f/yHAqwafVlbk/Dunkirk.2017.HD-TS.x264.ThaiRong_CpT%40CtH
 
 
 type=video
-name=Birth of the Dragon (2017) ENG WEB-DL DD5.1 H264-FGT
+name=Birth of the Dragon (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/y29CEE9oukwhNT6INWVEOaINHpR.jpg
 date=2017-11-08
-URL=https://www.blazefile.co/embed-27rzvd8ya3wv.html
+URL=https://www.blazefile.co/embed-1494g8ck3kky.html
 #https://openload.co/f/XtLykmONrkw/Birth_of_the_Dragon_2017_720p_WEB-DL_X264_AC3_-EVO.mkv.mp4
 #https://openload.co/f/hczOVCdDAmM/Birth.Of.The.Dragon.2017.HDCAM.x264-DiRG.mp4
 type=video
@@ -2483,25 +2490,15 @@ date=2017-09-17
 URL=https://openload.co/f/yv8vQH7WT_Q/The_Battleship_Island_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A5%E0%B8%8A%E0%B8%B4%E0%B8%9B_%E0%B9%84%E0%B8%AD%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
-type=video
-name=Annabelle: Creation (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
-date=2017-10-12
-URL=https://www.blazefile.co/embed-irygfv72plwv.html
-#https://openload.co/f/x9V80eEiTR8/Annabelle.2.Creation.2017.720p.BluRay.x264-SPARKS.mkv.mp4
-#https://vidnodessl.akamaized.net/246357/19.10/ANNABELLE-%20CREATION.mp4
-type=video
-name=Annabelle: Creation (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
-date=2017-09-17
-URL=https://openload.co/f/0sbYIf_EmNY/Annabelle%3A_Creation_%282017%29%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%A5%E0%B9%8C_%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%9C%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+
 
 
 type=video
-name=The Hitman's Bodyguard (2017) ENG WEB-DL.DD5.1.x264-HB
+name=The Hitman's Bodyguard (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
-date=2017-08-27
-URL=https://openload.co/f/itc7K1DCIsw/The.Hitmans.Bodyguard.2017.1080p.WEB-DL.DD5.1.x264-HB.mkv.mp4
+date=2017-11-09
+URL=https://openload.co/f/puAPHB-_gTs/The_Hitmans_BodyGuard.2017.720p.BluRay.x264.DD5.1-HDC.mkv.mp4
+#https://openload.co/f/itc7K1DCIsw/The.Hitmans.Bodyguard.2017.1080p.WEB-DL.DD5.1.x264-HB.mkv.mp4
 type=video
 name=The Hitman's Bodyguard (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
@@ -2521,17 +2518,7 @@ date=2017-09-06
 URL=https://openload.co/f/HZM0_zLA9Ew/Security.2017.720p.WEB-DL.DD5.1.H264.ThaiRong5.1_CpT%40CtHts.mkv.mp4
 
 
-type=video
-name=Kill Switch (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
-date=2017-08-13
-URL=https://www.blazefile.co/embed-6417wk6ln1uf.html
-#https://openload.co/f/3Hh9IMiQq4c/Telegram_%40khore_film-Kill.Switch.2017.1080p.BluRay.H264.AAC.mp4
-type=video
-name=Kill Switch (2017) CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
-date=2017-07-17
-URL=https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264..ThaIRonG.CtHts_-_CpT.mkv.mp4
+
 
 
 
@@ -2606,11 +2593,7 @@ thumb=https://image.tmdb.org/t/p/w640/7EPOZv9bQjNVjFvk8lPGkcTubgO.jpg
 date=2017-08-29
 URL=https://openload.co/f/FJ60frgwvyY/Ghost.House.2017.1080p.WEB-DL.ThaiRong5.1.H264_CpT%40CtHts.mkv.mp4
 
-type=video
-name=Wu Kong (2017) CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/srdxQhvnLVnZjjUF7UwVBtbyvXj.jpg
-date=2017-08-25
-URL=https://openload.co/f/X5eV80ZRVTA/WuKong.2017.2160p.4K.WEB-DL.H264.AC-3.ThaiRong_CpT%40CtHts.mkv.mp4
+
 
 
 # 2773692
@@ -2647,14 +2630,14 @@ type=video
 name=
 thumb=
 date=2017-09-14
-URL=https://lh3.googleusercontent.com/igghNSqrc5HLTUvuPdGaKq7YaYYvMLalHTfbSRK3HXHdE6FWvnpdlYGogcQHLAnrHp2Eqcs5o1s=m37?title=Annabelle%202:%20Creation%20%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%A5%E0%B9%8C%20%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%9C%E0%B8%B5%202(1080p)
+URL=
 		
 
 type=video
 name=
 thumb=
 date=2017-09-17
-URL=http://entervideo.net/watch/ce3cdc4a831712e
+URL=
 			
 			
 
@@ -2662,7 +2645,7 @@ type=video
 name=
 thumb=
 date=2017-09-14
-URL=http://185.176.192.117/vids/shameless.us.s08e01.1080p.web.h264-convoy___5a001fe154824.mp4
+URL=
 
 type=video
 name=
@@ -2672,12 +2655,41 @@ URL=
 
 
 
+type=video
+name=Annabelle: Creation (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
+date=2017-10-12
+URL=https://www.blazefile.co/embed-irygfv72plwv.html
+#https://openload.co/f/x9V80eEiTR8/Annabelle.2.Creation.2017.720p.BluRay.x264-SPARKS.mkv.mp4
+#https://vidnodessl.akamaized.net/246357/19.10/ANNABELLE-%20CREATION.mp4
+type=video
+name=Annabelle: Creation (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
+date=2017-11-09
+URL=https://openload.co/f/1Px7VjoehB8/Annabelle%3A_Creation_%282017%29TH.mp4
+#https://openload.co/f/0sbYIf_EmNY/Annabelle%3A_Creation_%282017%29%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%A5%E0%B9%8C_%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%9C%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
+type=video
+name=Kill Switch (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
+date=2017-08-13
+URL=https://www.blazefile.co/embed-6417wk6ln1uf.html
+#https://openload.co/f/3Hh9IMiQq4c/Telegram_%40khore_film-Kill.Switch.2017.1080p.BluRay.H264.AAC.mp4
+type=video
+name=Kill Switch (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
+date=2017-11-09
+URL=https://openload.co/f/TkUUQTKS7vs/Kill_Switch_%282017%29TH.mp4
+#https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264..ThaIRonG.CtHts_-_CpT.mkv.mp4
 
 
-
-
+type=video
+name=Wu Kong (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/srdxQhvnLVnZjjUF7UwVBtbyvXj.jpg
+date=2017-11-09
+URL=https://openload.co/f/8jimwsDMf9E/Wu_Kong_%282017%29TH.mp4
+#https://openload.co/f/X5eV80ZRVTA/WuKong.2017.2160p.4K.WEB-DL.H264.AC-3.ThaiRong_CpT%40CtHts.mkv.mp4
 
 type=video
 name=The Void (2016) TH
