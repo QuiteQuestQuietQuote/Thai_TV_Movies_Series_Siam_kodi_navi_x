@@ -58,6 +58,229 @@ URL=
 
 
 
+
+
+
+
+
+
+
+type=video
+name=112xxxxxxxxxxxxxxxxxxxxAsian Sex Diary Nee
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Nee.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/fsrbbfpesnblqons/
+
+type=video
+name=Asian Sex Diary Nei
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Nei.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/dompqklblatnkdsq/
+
+type=video
+name=Asian Sex Diary Nga
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Nga.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/taadcmnrqndldrcn/
+
+type=video
+name=Asian Sex Diary Nid
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Nid.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/crcarocbcqnacooo/
+
+type=video
+name=Asian Sex Diary Niki
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Niki.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/mekeetqdmdpsmeba/
+
+
+type=video
+name=Asian Sex Diary My 2 A Different My
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-My-2-A-Different-My.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/tredlocmtecreake/
+
+type=video
+name=Asian Sex Diary My
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-My.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/kbcqelpbooqcndqr/
+
+type=video
+name=Asian Sex Diary My 3
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-My-3.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/pkatassacmkcreqe/
+
+type=video
+name=Asian Sex Diary My Morning Reunification Palace
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-My-Morning-Reunification-Palace.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/fcmaoqfscqdrbqtq/
+
+type=video
+name=Asian Sex Diary Namwan
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Namwan.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/kqoqqpkkbfomnodo/
+
+
+type=video
+name=Asian Sex Diary Nap Man See For Yourself
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Nap-Man-See-For-Yourself.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/fodoppqkrqfpbctd/
+
+type=video
+name=Asian Sex Diary Nati
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Nati.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/slsdsnlrqlsffqlk/
+
+type=video
+name=Asian Sex Diary Mitch Part 2 Bitchy
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Mitch-Part-2-Bitchy.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/ttsqdqfnqnrmqaat/
+
+type=video
+name=Asian Sex Diary Mint Morning Pang Brunos 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Mint-Morning-Pang-Brunos.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/bmaarndcpsmendkt/
+
+type=video
+name=Asian Sex Diary My Morning
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-My-Morning.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/rpcsdfqrsparotfp/
+
+
+type=video
+name=Asian Sex Diary My Morning My 1
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-My-Morning-My-1.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/crpmnbatnqrlolpe/
+
+type=video
+name=Asian Sex Diary Ming 2 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Ming-2.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/arlamedbqplofblr/
+
+type=video
+name=Asian Sex Diary Ming A Special Day
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Ming-A-Special-Day.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/ttokmbdctkorodak/
+
+type=video
+name=Asian Sex Diary Mina
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Mina.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/dftoqeqmqtnqotnb/
+
+type=video
+name=Asian Sex Diary Mint Morning Kat Resto 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Mint-Morning-Kat-Resto.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/etcqlepramboalae/
+
+
+type=video
+name=Asian Sex Diary Mina Morning 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Mina-Morning.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/neltlcqqeacmbalq/
+
+type=video
+name=Asian Sex Diary Mina 2 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Mina-2.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/qrtatmrmdbkteclb/
+
+type=video
+name=Asian Sex Diary Milf St Zhibo Being Funny
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Milf-St-Zhibo-Being-Funny.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/ncscotrokcqoaapn/
+
+type=video
+name=Asian Sex Diary Mimi
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Mimi.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/ltborbracptmkckc/
+
+
+
+
+
+
+
+
+
+type=video
+name=88xxxxxxxxxxxxxxxxxxxxAsian Sex Diary Milf Time Tsousin
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Milf-Time-Tsousin.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/apnfbentackmlmfs/
+
+type=video
+name=Asian Sex Diary Meen N Lean
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Meen-N-Lean.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/kmbfqrpetesqfkqc/
+
+type=video
+name=Asian Sex Diary Maya Morning Aug 31
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Maya-Morning-Aug-31.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/ssakapfnoofnfcbt/
+
+type=video
+name=Asian Sex Diary Maya Aug 30
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Maya-Aug-30.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/qaarqbqrbdpllrec/
+
+type=video
+name=Asian Sex Diary Oay
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Oay.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/ockkltfdptoemnrm/
+
+
+type=video
+name=Asian Sex Diary Oil Da 3 some
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Oil-Da-3-some.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/atcpntspspdmrelp/
+
+type=video
+name=Asian Sex Diary On
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-On.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/bbcdtlrpcceopqcm/
+
+type=video
+name=Asian Sex Diary Ouy
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Ouy.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/eosmsqqnamdkpllq/
+
+type=video
+name=Asian Sex Diary Pa
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Pa.jpg
+date=2017-11-10
+URL=https://streamcherry.com/embed/rblcbeboflroclcf/
+
+
+
+
+
+
 type=video
 name=79xxxxxxxxxxxxxxxxxxxxAsian Sex Diary Pang In Morning Then Mint
 thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Pang-In-Morning-Then-Mint.jpg
