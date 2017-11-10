@@ -21,6 +21,7 @@ rating=-1.00
 
 
 
+
 type=video
 name=
 thumb=https://4.bp.blogspot.com/-q3FCvo_BtWw/WdLY23tF_4I/AAAAAAAAAJE/PnQtW3AhDKcpITTVadnjDOyrsx5Vcb-nQCLcBGAs/s320/054.png
@@ -68,13 +69,17 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-11-08
+date=2017-11-10
 URL=
 
 
 
 
-
+type=video
+name=You Were Never Really Here (2017) FRENCH.CAM.MD.XViD_STVFRV.E
+thumb=https://image.tmdb.org/t/p/w640/fvW4XbwdzWB5nCvSMA3ZDCZslCx.jpg
+date=2017-11-10
+URL=https://openload.co/f/_4z3LoSbk-Y/You.Were.Never.Really.Here.2017.FRENCH.CAM.MD.XViD_STVFRV.E.mp4
 
 type=video
 name=Boo 2! A Madea Halloween (2017) ENG V2.CAM.x264-NEXUS
@@ -185,13 +190,19 @@ URL=http://entervideo.net/watch/240448923d3fecf
 type=video
 name=
 thumb=
-date=2017-10-20
+date=2017-11-10
 URL=
 
 
 
 
 
+
+type=video
+name=Victoria & Abdul (2017) ENG HDRip_XviD_AC3_EVO
+thumb=https://image.tmdb.org/t/p/w640/gHz34d5i3Nc4h1iqr7eK5bFG2gY.jpg
+date=2017-11-10
+URL=https://openload.co/f/wuQbU89nWPI/Victoria_and_Abdul_2017_HDRip_XviD_AC3_EVO_avi_mp4_mp4.MP4.mp4
 
 type=video
 name=November Criminals (2017) ENG WEB-DL H264 AC3-EVO
@@ -330,10 +341,11 @@ date=2017-10-27
 URL=https://openload.co/f/vlkPOdFRwl4/The_Trip_to_Spain.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
-name=Slamma Jamma (2017) ENG DVDRip.XviD.AC3-EVO
+name=Slamma Jamma (2017) ENG DVDRip.x264-PSYCHD
 thumb=https://image.tmdb.org/t/p/w640/kUTx2OFM8qyRsacjjNK4ZmaAs3M.jpg
-date=2017-10-27
-URL=https://openload.co/f/GSOjQyl0JeA/Slamma_Jamma.2017.DVDRip.XviD.AC3-EVO.avi.mp4
+date=2017-11-10
+URL=https://openload.co/f/l8BAlGwZsKY/Slamma_Jamma.2017.DVDRip.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/GSOjQyl0JeA/Slamma_Jamma.2017.DVDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=The Heyday of the Insensitive Bastards (2016) ENG WEB-DL.XviD.AC3-FGT
@@ -919,12 +931,24 @@ URL=
 type=video
 name=
 thumb=
-date=2017-11-05
+date=2017-11-10
 URL=
 
 
 
+type=video
+name=Marjorie Prime (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/wcIPaT9ktpJHNaMyAiRMcra8NIM.jpg
+date=2017-11-08
+URL=https://www.blazefile.co/embed-ahq0z7m0ko77.html
+#https://www.blazefile.co/embed-k9qhmsyx9mwr.html
+#https://openload.co/f/EPek0sdWJtY/Marjorie.Prime.2017.1080p.WEB-DL.DD5.1.H264FGT.mkv.mp4
 
+type=video
+name=Beach Rats (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/oQZPPsvoipd38jasPhvJOpajbug.jpg
+date=2017-11-10
+URL=https://www.blazefile.co/embed-36w1e17wn66k.html
 
 type=video
 name=Patti Cake$ (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1750,12 +1774,7 @@ date=2017-11-05
 URL=https://openload.co/f/N5tyfl_zQ1Y/The.Good.Catholic.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4
 #https://openload.co/f/66JktCPMeHQ/The_Good_Catholic.2017.BRRip.XviD.AC3-iFT.avi.mp4
 
-type=video
-name=Marjorie Prime (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/wcIPaT9ktpJHNaMyAiRMcra8NIM.jpg
-date=2017-11-08
-URL=https://www.blazefile.co/embed-k9qhmsyx9mwr.html
-#https://openload.co/f/EPek0sdWJtY/Marjorie.Prime.2017.1080p.WEB-DL.DD5.1.H264FGT.mkv.mp4
+
 
 
 
@@ -1996,10 +2015,11 @@ URL=https://openload.co/f/yHAqwafVlbk/Dunkirk.2017.HD-TS.x264.ThaiRong_CpT%40CtH
 
 
 type=video
-name=Birth of the Dragon (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Birth of the Dragon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/y29CEE9oukwhNT6INWVEOaINHpR.jpg
-date=2017-11-08
-URL=https://www.blazefile.co/embed-1494g8ck3kky.html
+date=2017-11-10
+URL=https://www.blazefile.co/embed-moc6zzp3c4g3.html
+#https://www.blazefile.co/embed-1494g8ck3kky.html
 #https://openload.co/f/XtLykmONrkw/Birth_of_the_Dragon_2017_720p_WEB-DL_X264_AC3_-EVO.mkv.mp4
 #https://openload.co/f/hczOVCdDAmM/Birth.Of.The.Dragon.2017.HDCAM.x264-DiRG.mp4
 type=video
@@ -2360,10 +2380,11 @@ URL=
 
 
 type=video
-name=Valerian and the City of a Thousand Planets (2017) ENG WEB-DL H264 AC3-EVO
+name=Valerian and the City of a Thousand Planets (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
-date=2017-11-03
-URL=https://www.blazefile.co/embed-wcqrzx0ub5l2.html
+date=2017-11-10
+URL=https://www.blazefile.co/embed-gxg3f8m1pyvw.html
+#https://www.blazefile.co/embed-wcqrzx0ub5l2.html
 #https://openload.co/f/bE7l70d6i6E/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.KOR.HDRip.XviD-PCHD.avi.mp4
 type=video
 name=Valerian and the City of a Thousand Planets (2017) THCAM SOUND
@@ -2393,22 +2414,7 @@ URL=https://openload.co/f/xxwf4ErHils/The.Lego.Ninjago.Movie.2017.1080p.KORSUB.H
 #https://openload.co/f/QRlE2srV46k/The_LEGO_Ninjago_Movie_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B9%82%E0%B8%81_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
-type=video
-name=Cars 3 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
-date=2017-10-27
-URL=https://www.blazefile.co/embed-1wsrgoe1ue1s.html
-#https://openload.co/f/gsc-L0AOQFw/Cars.3.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
-#https://openload.co/f/ngRbnO8x0Ig/Cars.3.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv
-#https://openload.co/f/V4qbtFxzsBg/Cars.3.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO..mkv.mp4
-#https://openload.co/f/kCn5e0JoqMc/Cars.3.2017.WEB-DL.x264-FGT.mp4
-#https://openload.co/f/0SJYdj01mVs/Cars.3.2017.720p.WEB-DL.800MB.MkvCage.mkv
-type=video
-name=Cars 3 (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
-date=2017-10-30
-URL=https://openload.co/f/9d6mOy0XXNo/Cars_3_%282017%29_THCAM_SOUND%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87_%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/MfVdbZOm-SQ/Cars.3.2017.1080p.BluRay.H264.AC-3_ThaiRong5.1_CpT%40CtHts.mkv.mp4
+
 
 
 type=video
@@ -2494,10 +2500,11 @@ URL=https://openload.co/f/yv8vQH7WT_Q/The_Battleship_Island_%282017%29%E0%B9%80%
 
 
 type=video
-name=The Hitman's Bodyguard (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=The Hitman's Bodyguard (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
-date=2017-11-09
-URL=https://openload.co/f/puAPHB-_gTs/The_Hitmans_BodyGuard.2017.720p.BluRay.x264.DD5.1-HDC.mkv.mp4
+date=2017-11-10
+URL=https://www.blazefile.co/embed-92vhwvq28m89.html
+#https://openload.co/f/puAPHB-_gTs/The_Hitmans_BodyGuard.2017.720p.BluRay.x264.DD5.1-HDC.mkv.mp4
 #https://openload.co/f/itc7K1DCIsw/The.Hitmans.Bodyguard.2017.1080p.WEB-DL.DD5.1.x264-HB.mkv.mp4
 type=video
 name=The Hitman's Bodyguard (2017) TH CAM SOUND
@@ -2650,9 +2657,36 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-27
+date=2017-11-10
 URL=
 
+
+
+
+type=video
+name=Cars 3 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
+date=2017-10-27
+URL=https://www.blazefile.co/embed-1wsrgoe1ue1s.html
+#https://openload.co/f/gsc-L0AOQFw/Cars.3.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/ngRbnO8x0Ig/Cars.3.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv
+#https://openload.co/f/V4qbtFxzsBg/Cars.3.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO..mkv.mp4
+#https://openload.co/f/kCn5e0JoqMc/Cars.3.2017.WEB-DL.x264-FGT.mp4
+#https://openload.co/f/0SJYdj01mVs/Cars.3.2017.720p.WEB-DL.800MB.MkvCage.mkv
+type=video
+name=Cars 3 (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
+date=2017-11-10
+URL=https://openload.co/f/xwtBFTGBc9g/Cars_3_%282017%29_TH.mp4
+#https://openload.co/f/9d6mOy0XXNo/Cars_3_%282017%29_THCAM_SOUND%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87_%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/MfVdbZOm-SQ/Cars.3.2017.1080p.BluRay.H264.AC-3_ThaiRong5.1_CpT%40CtHts.mkv.mp4
+
+
+type=video
+name=The Physician (2013) TH
+thumb=https://image.tmdb.org/t/p/w640/zOnuvmY4vuabnkEZwQAXvErIaTE.jpg
+date=2017-11-10
+URL=https://openload.co/f/JIL4YRj_CuQ/%7BMINI_Super-HQ%7D_The.Physician.2013.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
 type=video
