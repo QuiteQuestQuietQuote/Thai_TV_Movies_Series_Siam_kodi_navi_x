@@ -45,9 +45,9 @@ URL=http://103.77.116.238:443/documentary/discovery_hd_world_720p.stream/playlis
 
 type=video
 name=
-thumb=https://1.bp.blogspot.com/-V-ha26gxzVM/WdLY2hOrp2I/AAAAAAAAAI8/dxGnJ68zIsAXO6TdqrBvxjkvJ8HnhyyNQCLcBGAs/s320/052.png
+thumb=
 date=2017-09-22
-URL=http://27.254.154.154:1935/cinema/NATIONAL_GEOGRAPHIC_CHANNEL.stream/playlist.m3u8
+URL=
 
 type=video
 name=
@@ -82,10 +82,11 @@ date=2017-11-10
 URL=https://openload.co/f/_4z3LoSbk-Y/You.Were.Never.Really.Here.2017.FRENCH.CAM.MD.XViD_STVFRV.E.mp4
 
 type=video
-name=Boo 2! A Madea Halloween (2017) ENG V2.CAM.x264-NEXUS
+name=Boo 2! A Madea Halloween (2017) ENG CAM.READNFO.XViD-26k
 thumb=https://image.tmdb.org/t/p/w640/5nvP4etJ8ecQv8qZM08dK4BAzdK.jpg
-date=2017-11-08
-URL=https://openload.co/f/cisxIQQ1-xk/Boo.2.A.Madea.Halloween.2017.V2.CAM.x264-NEXUS.mp4
+date=2017-11-11
+URL=https://openload.co/f/ATcNn-EpPjg/Boo_2_A_Madea_Halloween.2017.CAM.READNFO.XViD-26k.avi.mp4
+#https://openload.co/f/cisxIQQ1-xk/Boo.2.A.Madea.Halloween.2017.V2.CAM.x264-NEXUS.mp4
 
 type=video
 name=S.M.A.R.T. Chase (2017) RUS
@@ -201,8 +202,9 @@ URL=
 type=video
 name=Victoria & Abdul (2017) ENG HDRip_XviD_AC3_EVO
 thumb=https://image.tmdb.org/t/p/w640/gHz34d5i3Nc4h1iqr7eK5bFG2gY.jpg
-date=2017-11-10
-URL=https://openload.co/f/wuQbU89nWPI/Victoria_and_Abdul_2017_HDRip_XviD_AC3_EVO_avi_mp4_mp4.MP4.mp4
+date=2017-11-11
+URL=https://openload.co/f/22jxRIqHjvc/Victoria.and.Abdul.2017.HC.HDRip.x264-STUTTERSHIT.mp4
+#https://openload.co/f/wuQbU89nWPI/Victoria_and_Abdul_2017_HDRip_XviD_AC3_EVO_avi_mp4_mp4.MP4.mp4
 
 type=video
 name=November Criminals (2017) ENG WEB-DL H264 AC3-EVO
@@ -267,12 +269,18 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-11-09
+date=2017-11-11
 URL=
 
 
 
 
+
+type=video
+name=Mayhem (2017) ENG WEB-DL DD5.1 H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/ukWhLHAUCtXPsCJRF9a7emGDgkU.jpg
+date=2017-11-11
+URL=https://www.blazefile.co/embed-si94gfpdvt8b.html
 
 type=video
 name=Champion (2017) ENG dvdrip.x264-lpd
@@ -522,12 +530,7 @@ date=2017-10-13
 URL=https://openload.co/f/WKiaGxmzavE/interlude.in.prague.2017.hdtv.x264-plutonium.mkv
 #https://openload.co/f/0VkxFt6W5Ek/interlude.in.prague.2017.hdtv.x264-plutonium.mkv.mp4
 
-type=video
-name=M.F.A. (2017) ENG WEB-DL.AAC2.0.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/cQFJ0lWaR5sYg06KQWtMy8TRYFI.jpg
-date=2017-10-13
-URL=https://openload.co/f/nLVmHpXu4wY/M.F.A.2017.1080p.WEB-DL.AAC2.0.H264-FGT.mkv.mp4
-#https://openload.co/f/wx4VvEH8R_M/M.F.A.2017.WEB-DL.XviD.MP3-FGT.avi.mp4
+
 
 type=video
 name=Blood Money (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -1774,7 +1777,13 @@ date=2017-11-05
 URL=https://openload.co/f/N5tyfl_zQ1Y/The.Good.Catholic.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4
 #https://openload.co/f/66JktCPMeHQ/The_Good_Catholic.2017.BRRip.XviD.AC3-iFT.avi.mp4
 
-
+type=video
+name=M.F.A. (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/cQFJ0lWaR5sYg06KQWtMy8TRYFI.jpg
+date=2017-11-11
+URL=https://www.blazefile.co/embed-1cbeb5foxhs3.html
+#https://openload.co/f/nLVmHpXu4wY/M.F.A.2017.1080p.WEB-DL.AAC2.0.H264-FGT.mkv.mp4
+#https://openload.co/f/wx4VvEH8R_M/M.F.A.2017.WEB-DL.XviD.MP3-FGT.avi.mp4
 
 
 
@@ -2384,6 +2393,7 @@ name=Valerian and the City of a Thousand Planets (2017) [COLOR=FF00FF00]ENG BR 1
 thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
 date=2017-11-10
 URL=https://www.blazefile.co/embed-gxg3f8m1pyvw.html
+#https://openload.co/f/5hcpPFHs6YI/Valerian.and.the.City.of.a.Thousand.Planets.2017.1080p.BluRay.x264-%5BYTS.PE%5D.mp4
 #https://www.blazefile.co/embed-wcqrzx0ub5l2.html
 #https://openload.co/f/bE7l70d6i6E/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.KOR.HDRip.XviD-PCHD.avi.mp4
 type=video
@@ -2713,8 +2723,9 @@ URL=https://www.blazefile.co/embed-6417wk6ln1uf.html
 type=video
 name=Kill Switch (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
-date=2017-11-09
-URL=https://openload.co/f/TkUUQTKS7vs/Kill_Switch_%282017%29TH.mp4
+date=2017-11-11
+URL=https://openload.co/f/O2ypROm0y2E/Kill-Switch-2017-TH-Bluray-1080p.mp4
+#https://openload.co/f/TkUUQTKS7vs/Kill_Switch_%282017%29TH.mp4
 #https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264..ThaIRonG.CtHts_-_CpT.mkv.mp4
 
 
