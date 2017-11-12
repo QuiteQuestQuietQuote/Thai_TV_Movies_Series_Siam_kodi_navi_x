@@ -185,7 +185,7 @@ URL=http://entervideo.net/watch/240448923d3fecf
 type=video
 name=
 thumb=
-date=2017-11-10
+date=2017-11-12
 URL=
 
 
@@ -194,7 +194,13 @@ URL=
 
 
 type=video
-name=Victoria & Abdul (2017) ENG HDRip_XviD_AC3_EVO
+name=A Question of Faith (2017) ENG CAM.XViD-26k
+thumb=https://image.tmdb.org/t/p/w640/mXUVhSHKv7aGwDCnsa8UBbW7G0p.jpg
+date=2017-11-12
+URL=https://openload.co/f/G_O3vn4J5ao/A.Question.of.Faith.2017.CAM.XViD-26k.avi.mp4
+
+type=video
+name=Victoria & Abdul (2017) ENG HC.HDRip.x264-STUTTERSHIT
 thumb=https://image.tmdb.org/t/p/w640/gHz34d5i3Nc4h1iqr7eK5bFG2gY.jpg
 date=2017-11-11
 URL=https://openload.co/f/22jxRIqHjvc/Victoria.and.Abdul.2017.HC.HDRip.x264-STUTTERSHIT.mp4
@@ -263,18 +269,26 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-11-11
+date=2017-11-12
 URL=
 
 
 
 
 
+
+type=video
+name=Bitch (2017) ENG WEB-DL AAC2.0 H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/dsFUHJgMVViUsRggDThtwRPmS9i.jpg
+date=2017-11-12
+URL=https://www.blazefile.co/embed-5rw8pszphiuv.html
+
 type=video
 name=Mayhem (2017) ENG WEB-DL DD5.1 H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/ukWhLHAUCtXPsCJRF9a7emGDgkU.jpg
 date=2017-11-11
 URL=https://www.blazefile.co/embed-si94gfpdvt8b.html
+#https://openload.co/f/W1e5DEGHQv8/Mayhem.2017.WEB-DL.x264-FGT.mp4
 
 type=video
 name=Champion (2017) ENG dvdrip.x264-lpd
@@ -414,10 +428,11 @@ URL=https://openload.co/f/vrRM4kviyb0/Creep.2.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 
 type=video
-name=Hampstead (2017) ENG WEB-DL.H264.AC3-EVO
+name=Hampstead (2017) ENG dvdrip.x264-cadaver
 thumb=https://image.tmdb.org/t/p/w640/sweENd2Vc0mQcKfkEzEbaLYbdZr.jpg
-date=2017-10-23
-URL=https://openload.co/f/xJczR6t1uPw/Hampstead.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2017-11-12
+URL=https://openload.co/f/cnJeexUMpD8/hampstead.2017.dvdrip.x264-cadaver.mkv
+#https://openload.co/f/xJczR6t1uPw/Hampstead.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=Never Here (2017) ENG WEB-DL.DD5.1.H264-FGT
@@ -932,6 +947,17 @@ date=2017-11-10
 URL=
 
 
+
+
+
+type=video
+name=M.F.A. (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/cQFJ0lWaR5sYg06KQWtMy8TRYFI.jpg
+date=2017-11-12
+URL=https://www.blazefile.co/embed-2fpk8thili3u.html
+#https://www.blazefile.co/embed-1cbeb5foxhs3.html
+#https://openload.co/f/nLVmHpXu4wY/M.F.A.2017.1080p.WEB-DL.AAC2.0.H264-FGT.mkv.mp4
+#https://openload.co/f/wx4VvEH8R_M/M.F.A.2017.WEB-DL.XviD.MP3-FGT.avi.mp4
 
 type=video
 name=Marjorie Prime (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1772,12 +1798,10 @@ URL=https://openload.co/f/N5tyfl_zQ1Y/The.Good.Catholic.2017.720p.BluRay.x264-%5
 #https://openload.co/f/66JktCPMeHQ/The_Good_Catholic.2017.BRRip.XviD.AC3-iFT.avi.mp4
 
 type=video
-name=M.F.A. (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/cQFJ0lWaR5sYg06KQWtMy8TRYFI.jpg
-date=2017-11-11
-URL=https://www.blazefile.co/embed-1cbeb5foxhs3.html
-#https://openload.co/f/nLVmHpXu4wY/M.F.A.2017.1080p.WEB-DL.AAC2.0.H264-FGT.mkv.mp4
-#https://openload.co/f/wx4VvEH8R_M/M.F.A.2017.WEB-DL.XviD.MP3-FGT.avi.mp4
+name=New Life (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/1QDQ8cMZJA9xCx0FjM4GDlNw511.jpg
+date=2017-11-12
+URL=https://www.blazefile.co/embed-ycichawlnkfp.html
 
 
 
@@ -1943,10 +1967,12 @@ URL=https://openload.co/f/UUwifxE0sAE/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B
 
 
 type=video
-name=The Foreigner (2017) ENG Hardcoded.CAM.H264.AC3-NoGRP MKV
+name=The Foreigner (2017) ENG SUBBED.CAM.READNFO.XViD-26k
 thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
-date=2017-10-18
-URL=https://openload.co/f/a858rraLqcg/The.Foreigner.2017.Hardcoded.CAM.H264.AC3-NoGRP
+date=2017-11-12
+URL=https://openload.co/f/i3PUIrw5QUE/The_Foreigner_%282017%29_%5B720P_ENG_NEW_HC-TC%5D
+#https://openload.co/f/n6Qud5byQLs/The_Foreigner.2017.SUBBED.CAM.READNFO.XViD-26k.avi
+#https://openload.co/f/a858rraLqcg/The.Foreigner.2017.Hardcoded.CAM.H264.AC3-NoGRP
 #https://openload.co/f/-MrqwxOfRow/The.Foreigner.2017.CAM.H264.AC3-NoGRP.mkv
 #https://openload.co/f/_3n4kc7SkNQ/The_Foreigner_%282017%29_ENGLISH_CAM-H264-AC3-Zit.mkv.mp4
 type=video
@@ -2703,8 +2729,9 @@ URL=https://www.blazefile.co/embed-irygfv72plwv.html
 type=video
 name=Annabelle: Creation (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
-date=2017-11-09
-URL=https://openload.co/f/1Px7VjoehB8/Annabelle%3A_Creation_%282017%29TH.mp4
+date=2017-11-12
+URL=https://openload.co/f/-4W2GB7h6lA/Annabelle.Creation.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+#https://openload.co/f/1Px7VjoehB8/Annabelle%3A_Creation_%282017%29TH.mp4
 #https://openload.co/f/0sbYIf_EmNY/Annabelle%3A_Creation_%282017%29%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%A5%E0%B9%8C_%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%9C%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
@@ -2717,8 +2744,9 @@ URL=https://www.blazefile.co/embed-6417wk6ln1uf.html
 type=video
 name=Kill Switch (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
-date=2017-11-11
-URL=https://openload.co/f/O2ypROm0y2E/Kill-Switch-2017-TH-Bluray-1080p.mp4
+date=2017-11-12
+URL=https://openload.co/f/nLOnEywfnLE/Kill.Switch.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+#https://openload.co/f/O2ypROm0y2E/Kill-Switch-2017-TH-Bluray-1080p.mp4
 #https://openload.co/f/TkUUQTKS7vs/Kill_Switch_%282017%29TH.mp4
 #https://openload.co/f/yo7sVyUagto/Kill.Switch.2017.1080p.WEB-DL.AC35.1.H264..ThaIRonG.CtHts_-_CpT.mkv.mp4
 
