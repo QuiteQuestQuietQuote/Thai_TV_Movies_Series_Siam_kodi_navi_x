@@ -92,28 +92,28 @@ URL=http://183.88.212.205:8010/play/a00n
 type=video
 name=movie1
 thumb=http://www.thaiptv.com/img/movie1logo.png
-URL=http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+URL=http://27.254.63.132:1935/live/_definst_/movie1.stream/playlist.m3u8?username=sid&password=id695464846498
 player=default
 rating=-1.00
 
 type=video
 name=movie2
 thumb=http://www.thaiptv.com/img/movie2logo.png
-URL=http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+URL=http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=sid&password=id695464846498
 player=default
 rating=-1.00
 
 type=video
 name=movie3
 thumb=http://www.thaiptv.com/img/movie3logo.png
-URL=http://27.131.166.195:1935/live/_definst_/movie3.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+URL=http://27.254.63.132:1935/live/_definst_/movie3.stream/playlist.m3u8?username=sid&password=id695464846498
 player=default
 rating=-1.00
 
 type=video
 name=4Kmovie
 thumb=http://www.thaiptv.com/img/movie3logo.png
-URL=http://27.131.166.195:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+URL=http://27.254.63.132:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=sid&password=id695464846498
 player=default
 rating=-1.00
 
@@ -134,12 +134,12 @@ URL=http://103.77.116.238:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=yqLvWn
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE1[/COLOR]
 thumb=http://www.thaiptv.com/img/movie1logo.png
-URL=http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+URL=http://27.254.63.132:1935/live/_definst_/movie1.stream/playlist.m3u8?username=sid&password=id695464846498
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE2[/COLOR]
 thumb=http://www.thaiptv.com/img/movie2logo.png
-URL=http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+URL=http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=sid&password=id695464846498
 
 type=video
 name=[COLOR=FF00FF00]24/7 Animated Movies[/COLOR]
@@ -213,22 +213,26 @@ type=video
 name=4Kmovie
 thumb=http://www.mx7.com/i/2b7/6WLUcB.jpg
 date=2017-10-10
-URL=http://27.131.166.195:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+URL=http://27.254.63.132:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=sid&password=id695464846498
+#http://27.131.166.195:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 type=video
 name=MOVIE1
 thumb=http://www.thaiptv.com/img/movie1logo.png
-URL=http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+URL=http://27.254.63.132:1935/live/_definst_/movie1.stream/playlist.m3u8?username=sid&password=id695464846498
+#http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 type=video
 name=MOVIE2
 thumb=http://www.thaiptv.com/img/movie2logo.png
-URL=http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+URL=http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=sid&password=id695464846498
+#http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 type=video
 name=MOVIE3
 thumb=http://www.thaiptv.com/img/movie3logo.png
-URL=http://27.131.166.195:1935/live/_definst_/movie3.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+URL=http://27.254.63.132:1935/live/_definst_/movie3.stream/playlist.m3u8?username=sid&password=id695464846498
+#http://27.131.166.195:1935/live/_definst_/movie3.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 
 

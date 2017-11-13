@@ -13,7 +13,9 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
-
+type=video
+name=Cartoon_Network
+URL=http://27.254.63.132:1935/live/_definst_/cartoon_network.stream/playlist.m3u8?username=sid&password=id695464846498
 
 type=video
 name=CARTOON NETWORK

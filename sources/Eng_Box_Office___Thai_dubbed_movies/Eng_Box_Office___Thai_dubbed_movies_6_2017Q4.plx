@@ -51,6 +51,12 @@ URL=http://103.77.116.238:443/documentary/discovery_channel_480p.stream/playlist
 
 type=video
 name=
+thumb=
+date=2017-11-10
+URL=http://27.254.63.132:1935/live/_definst_/Hitstoryhd.stream/playlist.m3u8?username=sid&password=id695464846498
+
+type=video
+name=
 thumb=https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png
 date=
 URL=http://live.cgtn.com/cctv-d.m3u8
@@ -1843,12 +1849,14 @@ URL=http://103.77.116.238:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?s
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE1[/COLOR]
 thumb=http://www.thaiptv.com/img/movie1logo.png
-URL=http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+URL=http://27.254.63.132:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=sid&password=id695464846498
+#http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE2[/COLOR]
 thumb=http://www.thaiptv.com/img/movie2logo.png
-URL=http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+URL=http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=sid&password=id695464846498
+#http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 type=video
 name=[COLOR=FF00FF00]24/7 Animated Movies[/COLOR]

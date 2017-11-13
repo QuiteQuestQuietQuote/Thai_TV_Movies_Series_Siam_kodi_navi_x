@@ -17,6 +17,125 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
+
+
+type=video
+name=skynetnew1
+thumb=
+date=2017-11-13
+URL=http://27.254.63.132:1935/live/_definst_/skynetnew1.stream/playlist.m3u8?username=sid&password=id625278562452
+
+type=video
+name=skynetnew2
+thumb=
+date=2017-11-13
+URL=http://27.254.63.132:1935/live/_definst_/skynetnew2.stream/playlist.m3u8?username=sid&password=id625278562452
+
+type=video
+name=skynetnew3
+thumb=
+date=2017-11-13
+URL=http://27.254.63.132:1935/live/_definst_/skynetnew3.stream/playlist.m3u8?username=sid&password=id625278562452
+
+type=video
+name=skynetnew4
+thumb=
+date=2017-11-13
+URL=http://27.254.63.132:1935/live/_definst_/skynetnew4.stream/playlist.m3u8?username=sid&password=id625278562452
+
+type=video
+name=skynetnew5
+thumb=
+date=2017-11-13
+URL=http://27.254.63.132:1935/live/_definst_/skynetnew5.stream/playlist.m3u8?username=sid&password=id625278562452
+
+type=video
+name=skynetnew6
+thumb=
+date=2017-11-13
+URL=http://27.254.63.132:1935/live/_definst_/skynetnew6.stream/playlist.m3u8?username=sid&password=id625278562452
+
+type=video
+name=GolftHD
+thumb=
+date=2017-11-13
+URL=http://27.254.63.132:1935/live/_definst_/GolftHD.stream/playlist.m3u8?&username=sid&password=id625278562452
+
+
+type=video
+name=Skynet H
+DURL=http://27.254.63.132:1935/live/_definst_/Skynethd.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=BEIN 6
+URL=http://27.254.63.132:1935/live/_definst_/bein6HD.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=BEIN 5
+URL=http://27.254.63.132:1935/live/_definst_/bein5HD.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=BEIN 4
+URL=http://27.254.63.132:1935/live/_definst_/bein4HD.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=BEIN 3
+URL=http://27.254.63.132:1935/live/_definst_/bein3HD.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=BEIN 2
+URL=http://27.254.63.132:1935/live/_definst_/bein2.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=BEIN 1
+URL=http://27.254.63.132:1935/live/_definst_/bein1HD.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=Golft HD
+URL=http://27.254.63.132:1935/live/_definst_/GolftHD.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=Truetennis
+URL=http://27.254.63.132:1935/live/_definst_/tennis.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=Truesporthd 4
+URL=http://27.254.63.132:1935/live/_definst_/Truesporthd4.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=Truesporthd 3
+URL=http://27.254.63.132:1935/live/_definst_/Truesporthd3.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=Truesporthd 2
+URL=http://27.254.63.132:1935/live/_definst_/Truesporthd2.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=Truesporthd 1
+URL=http://27.254.63.132:1935/live/_definst_/Truesporthd1.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=Truesport 7
+URL=http://27.254.63.132:1935/live/_definst_/tsp7.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=Truesport 6
+URL=http://27.254.63.132:1935/live/_definst_/tsp6.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=Truesport 5
+URL=http://27.254.63.132:1935/live/_definst_/tsp5.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=Truesport 3
+URL=http://27.254.63.132:1935/live/_definst_/tsp3.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=Truesport 2
+URL=http://27.254.63.132:1935/live/_definst_/tsp2.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=Truesport 1
+URL=http://27.254.63.132:1935/live/_definst_/tsp1.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=Urosport1
+URL=http://27.254.63.132:1935/live/_definst_/Urosport1.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=NBA TV
+URL=http://27.254.63.132:1935/live/_definst_/nbatv.stream/playlist.m3u8?username=sid&password=id695464846498
+type=video
+name=Urosport1
+URL=http://27.254.63.132:1935/live/_definst_/Urosport1.stream/playlist.m3u8?username=sid&password=id695464846498
+
+
+
+
+
+
+
+
 type=video
 name=AstroSupersport
 thumb=https://3.bp.blogspot.com/-mL2FegsfdRI/WeN319pFR8I/AAAAAAAADO0/aMR-5WPxsHoZGiLmqvb4cmVaIFY3O3Q2gCLcBGAs/s320/astro1..png
