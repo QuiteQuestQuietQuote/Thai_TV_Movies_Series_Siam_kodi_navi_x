@@ -66,7 +66,7 @@ rating=-1.00
 type=video
 name=Money Ch
 thumb=https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png
-URL=http://103.77.116.238:443/news/money_channel_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/news/money_channel_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 player=default
 rating=-1.00
 
@@ -197,68 +197,68 @@ type=video
 name=dwtv
 thumb=https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png
 date=2017-10-27
-URL=http://103.77.116.238:443/news/dwtv_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/news/dwtv_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=nhk
 thumb=https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png
 date=2017-10-27
-URL=http://103.77.116.238:443/news/nhk_world_tv_720p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/news/nhk_world_tv_720p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=france_24
 thumb=https://3.bp.blogspot.com/-BAZAWC-QS2U/WdLY7WXsuoI/AAAAAAAAAKQ/PmgvJl4p4rAxvuxEzDzfUDtk9eOCR9B_wCLcBGAs/s320/073.png
 date=2017-10-27
-URL=http://103.77.116.238:443/news/france_24_720p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/news/france_24_720p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=euronews
 thumb=https://1.bp.blogspot.com/-Lg91lRxQNT0/WdLY7hzKDMI/AAAAAAAAAKU/mzJLNoG1UbwqGHm_qnsYU_I0sS51_RwHQCLcBGAs/s320/074.png
 date=2017-10-27
-URL=http://103.77.116.238:443/news/euronews_720p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/news/euronews_720p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=sky_news
 thumb=https://3.bp.blogspot.com/-Q_5wVJu_9MI/WdLY76leb3I/AAAAAAAAAKY/653NDnCLGKYglbVFyUC4LVawUPpWT-JkACLcBGAs/s320/075.png
 date=2017-10-27
-URL=http://103.77.116.238:443/news/sky_news_hd_720p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/news/sky_news_hd_720p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=fox_news
 thumb=https://3.bp.blogspot.com/-wSw9JqG185A/WdLY8NM4v1I/AAAAAAAAAKc/tSPanHwjiTYXZJwNBpZ4tjP0JQCzgBubQCLcBGAs/s320/076.png
 date=2017-10-27
-URL=http://103.77.116.238:443/news/fox_news_720p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/news/fox_news_720p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 
 type=video
 name=channel_newsasia
 thumb=https://4.bp.blogspot.com/--rN0nvH9KzA/WdLY8UWDhjI/AAAAAAAAAKg/KDHOGfA065sjzYIA6RSejl5GfT7GF8ccwCLcBGAs/s320/077.png
 date=2017-10-27
-URL=http://103.77.116.238:443/news/channel_newsasia_720p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/news/channel_newsasia_720p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=cctv4
 thumb=https://4.bp.blogspot.com/-OaGP58RtkuA/WdLY8rZA5QI/AAAAAAAAAKk/VYKgQM7BTOoiLUTphh9NzueO87cEHCOCACLcBGAs/s320/078.png
 date=2017-10-27
-URL=http://103.77.116.238:443/news/cctv_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/news/cctv_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=tnn24
 thumb=https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png
 date=2017-10-27
-URL=http://103.77.116.238:443/news/tnn24_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/news/tnn24_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=tnn2
 thumb=https://3.bp.blogspot.com/-9otS3Haa-i0/WdLY9BBfcRI/AAAAAAAAAKs/wkVoVp8kpiYJpBUyNdBMe6h1IoNPhdLWwCLcBGAs/s320/080.png
 date=2017-10-27
-URL=http://103.77.116.238:443/news/tnn2_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/news/tnn2_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=money_channel
 thumb=https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png
 date=2017-10-27
-URL=http://103.77.116.238:443/news/money_channel_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/news/money_channel_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 
 

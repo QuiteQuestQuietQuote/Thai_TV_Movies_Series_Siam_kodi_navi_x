@@ -47,7 +47,7 @@ rating=-1.00
 type=video
 name=CHANNEL 3
 thumb=https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Channel_3_Thailand_Logo.svg/1200px-Channel_3_Thailand_Logo.svg.png
-URL=http://103.77.116.238:443/tvdigital/3_hd_720p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/3_hd_720p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 player=default
 rating=-1.00
 
@@ -61,7 +61,7 @@ rating=-1.00
 type=video
 name=CHANNEL 7
 thumb=https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png
-URL=http://103.77.116.238:443/tvdigital/7_hd_720p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/7_hd_720p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 player=default
 rating=-1.00
 
@@ -83,7 +83,7 @@ rating=-1.00
 type=video
 name=CH 3 family
 thumb=http://www.thaiptv.com/img/3family.png
-URL=http://103.77.116.238:443/tvdigital/3_family_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/3_family_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 player=default
 rating=-1.00
 
@@ -111,7 +111,7 @@ rating=-1.00
 type=video
 name=now 26
 thumb=http://www.thaiptv.com/img/now26tv_logo.jpg
-URL=http://103.77.116.238:443/tvdigital/now_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/now_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 player=default
 rating=-1.00
 
@@ -125,7 +125,7 @@ rating=-1.00
 type=video
 name=CH 3 SD
 thumb=http://www.thaiptv.com/img/3sd.png
-URL=http://103.77.116.238:443/tvdigital/3_sd_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/3_sd_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 player=default
 rating=-1.00
 
@@ -349,149 +349,149 @@ type=video
 name=3_hd
 thumb=https://3.bp.blogspot.com/-B5v7X3YA0iM/WdLYqp9VLyI/AAAAAAAAAF4/supjFV2u7IkebpGlnSsG6_23pBXillgrgCLcBGAs/s200/001.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/3_hd_720p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/3_hd_720p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=tv5_hd
 thumb=https://4.bp.blogspot.com/-4vRZu2SiRSw/WdLYqkUFFlI/AAAAAAAAAF0/aTTW-yIICXYQPSy6u_J7l0oiPnBh2TqVwCLcBGAs/s200/002.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/tv5_hd_720p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/tv5_hd_720p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=mcot_hd
 thumb=https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/mcot_hd_720p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/mcot_hd_720p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=thairath_tv
 thumb=https://4.bp.blogspot.com/-QjhBjlSV18M/WdLYrSHwGYI/AAAAAAAAAGE/vj7vKm9c07kEWQmTLXhTOYsGiy9DgWkfQCLcBGAs/s200/006.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/thairath_tv_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/thairath_tv_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=spring_news
 thumb=https://2.bp.blogspot.com/-m0CQiNgIFsE/WdLYrwlVJvI/AAAAAAAAAGQ/LN6pm_WcDJ49YL-0K_ytg9L2yWfZw4r6ACLcBGAs/s200/009.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/spring_news_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/spring_news_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 
 type=video
 name=amarin_tv
 thumb=https://2.bp.blogspot.com/-bHMU3G5QLXU/WdLYsh7d0HI/AAAAAAAAAGU/_fSEwmfLvvwTIJiJjkYEkn4jhpWHuynJQCLcBGAs/s200/010.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/amarin_tv_hd_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/amarin_tv_hd_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=7_hd
 thumb=https://1.bp.blogspot.com/-AFzknlTw06A/WdLYqknNpvI/AAAAAAAAAFw/WO0WKVoceas-axD4tjcr1qAyo2fp4Qt0gCLcBGAs/s200/003.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/7_hd_720p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/7_hd_720p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=workpoint_tv
 thumb=https://3.bp.blogspot.com/-OlJHKpyXNFk/WdLYrLkpmyI/AAAAAAAAAF8/XsZhgnEvCxYbWNexzw_eUw_wNbd7mpF5ACLcBGAs/s200/004.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/workpoint_tv_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/workpoint_tv_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=pptv_hd
 thumb=https://2.bp.blogspot.com/-7xFojsT7_4s/WdLYr2w97UI/AAAAAAAAAGI/9TgQp_mk4CU9Wiz_OGSvpHtVSKl2HvdwgCLcBGAs/s200/007.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/pptv_hd_720p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/pptv_hd_720p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=new_tv
 thumb=https://2.bp.blogspot.com/-Hc8CbV44Zcw/WdLYr6T8ygI/AAAAAAAAAGM/nB5OU-6fbwcKTlwEvcajlnl_lc17gB34gCLcBGAs/s200/008.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/new_tv_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/new_tv_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=bright_tv
 thumb=https://2.bp.blogspot.com/-TISTQ8tUqQg/WdLYsm5rqUI/AAAAAAAAAGY/g-7nDEUe_v89_oYbAJMTL4UQKCU9VqB7ACLcBGAs/s200/011.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/bright_tv_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/bright_tv_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 
 type=video
 name=voice_tv
 thumb=https://2.bp.blogspot.com/-6OIUSCBfDmc/WdLYshg8ftI/AAAAAAAAAGc/CK2wfuwwtrA97c7VqD9erq_VryoGtvNTgCLcBGAs/s200/012.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/voice_tv_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/voice_tv_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=true4u
 thumb=https://4.bp.blogspot.com/-mO5rSqm4sBI/WdLYtWR3g6I/AAAAAAAAAGg/TSyiSYaytlkLvI6bU2SIxBgNiqXnB6irgCLcBGAs/s200/013.png
 date=2017-10-27
-URL=http://103.77.116.238:443/sporttrue/true4u_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/sporttrue/true4u_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=gmm25
 thumb=https://1.bp.blogspot.com/-EgH0WMYn_yk/WdLYtVWmeFI/AAAAAAAAAGk/TBNUrYvLjSwxsja8MRdRnInBrJKVafa7ACLcBGAs/s200/014.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/gmm25_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/gmm25_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=now
 thumb=https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/now_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/now_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=8
 thumb=https://3.bp.blogspot.com/-x6zz5AhnUgo/WdLYuKY1MLI/AAAAAAAAAGs/-iGjzHjCTVciFJSosPvJcpvOe5Xn0Ue8QCLcBGAs/s200/016.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/8_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/8_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 
 type=video
 name=mono_29
 thumb=https://1.bp.blogspot.com/-EXQx5Dd5E9U/WdLYuI86vUI/AAAAAAAAAGw/CBg2Q3TQJFIzZM9V5xf8TdVQJgh5UEksgCLcBGAs/s200/017.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/mono_29_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/mono_29_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=one
 thumb=https://4.bp.blogspot.com/-p114ags-grM/WdLYuABkQxI/AAAAAAAAAG0/huooKSpENSsrtJkS8opvxNJQtT4iTCKpwCLcBGAs/s200/018.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/one_720p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/one_720p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=mcot_family
 thumb=https://2.bp.blogspot.com/-R4fI-Ovc7-M/WdLYuyhdMdI/AAAAAAAAAG8/SAQ0Bj2-5y024QyPUht85K6ctTQfOICdQCLcBGAs/s200/019.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/mcot_family_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/mcot_family_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=3_sd
 thumb=https://4.bp.blogspot.com/-woA_eCOjWO0/WdLYu-AZzjI/AAAAAAAAAG4/RBBYV8a1plIz0-VW4XLAvVLFy4BOVveTgCLcBGAs/s200/020.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/3_sd_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/3_sd_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=nation_tv
 thumb=https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png
 date=2017-10-27
-URL=http://103.77.116.238:443/news/nation_tv_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/news/nation_tv_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=3_family
 thumb=https://3.bp.blogspot.com/-PgpXkLhYoAs/WdLYvRCQaXI/AAAAAAAAAHE/pNE5dIhBIvUzthzAFzMZJag5sYE99W0NwCLcBGAs/s200/022.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/3_family_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/3_family_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 
 type=video
 name=mcot1
 thumb=https://4.bp.blogspot.com/-8SoN-Jgv66Q/WdLYvv4axfI/AAAAAAAAAHM/mQ7h2uBlrJsJTPs0Mq3jiy3OcTaxn6UvgCLcBGAs/s200/024.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/mcot1_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/mcot1_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 type=video
 name=nbt
 thumb=https://4.bp.blogspot.com/-y8iyhanqX1Y/WdLYwDUd1EI/AAAAAAAAAHQ/6Nt31oLysEEIKcQAVWTATR-nsthNu9X6wCLcBGAs/s200/025.png
 date=2017-10-27
-URL=http://103.77.116.238:443/tvdigital/nbt_480p.stream/playlist.m3u8?st=yqLvWnh55qzqVTjHraIulA&username2=0885120325&username=15015087917688791768&password=mmmmed36a90a2f3643edbfd1&e=1510607131
+URL=http://103.77.116.238:443/tvdigital/nbt_480p.stream/playlist.m3u8?st=GGLKKtUYime9UkjEKdftyA&username2=0885120325&username=15015087917688791768&password=mmmm76e39aac07378f3cc0ab&e=1510630195
 
 
 
