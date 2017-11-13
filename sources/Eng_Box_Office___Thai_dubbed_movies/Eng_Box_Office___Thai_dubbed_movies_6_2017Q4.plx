@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
+background=https://image.tmdb.org/t/p/w640/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_6_2017Q4
-logo=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
+logo=https://image.tmdb.org/t/p/w640/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, sockshare, fmovies, ganool, nanamovies./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
+thumb=https://image.tmdb.org/t/p/w640/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -69,11 +69,18 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-11-10
+date=2017-11-13
 URL=
 
 
 
+
+
+type=video
+name=Murder on the Orient Express (2017) ENG CAM.H264.AC3-Zi%24t
+thumb=https://image.tmdb.org/t/p/w640/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
+date=2017-11-13
+URL=https://openload.co/f/Kw3jLB0wT6w/Murder_on_the_Orient_Express_%282017%29.ENG.CAM.H264.AC3-Zi%24t.mkv.mp4
 
 type=video
 name=You Were Never Really Here (2017) FRENCH.CAM.MD.XViD_STVFRV.E
@@ -180,10 +187,10 @@ date=2017-10-04
 URL=https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
 
 type=video
-name=Tulip Fever (2017) RUS
+name=Tulip Fever (2017) ENG WEB-DL.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/lmfop4zLqFWFTkKSYp7V5jgeM6I.jpg
-date=2017-09-07
-URL=http://entervideo.net/watch/240448923d3fecf
+date=2017-11-13
+URL=https://openload.co/f/v29dcmbpso4/Tulip.Fever.2017.720p.WEB-DL.X264.AC3-EVO.mkv
 
 
 
@@ -191,13 +198,19 @@ URL=http://entervideo.net/watch/240448923d3fecf
 type=video
 name=
 thumb=
-date=2017-11-12
+date=2017-11-13
 URL=
 
 
 
 
 
+
+type=video
+name=Marshall (2017) ENG CAM.READNFO.XViD-26k
+thumb=https://image.tmdb.org/t/p/w640/2z9oNW3TE5H5woLozFwfxlRRc0b.jpg
+date=2017-11-13
+URL=https://openload.co/f/8UKPBGPLaDk/Marshall.2017.CAM.READNFO.XViD-26k.avi.mp4
 
 type=video
 name=A Question of Faith (2017) ENG CAM.XViD-26k
@@ -275,13 +288,18 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-11-12
+date=2017-11-13
 URL=
 
 
 
 
-
+type=video
+name=The Humanity Bureau (2017) ENG WEB-DL.X264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/85xioeF08JX4iYRUNMlEPjJWrPl.jpg
+date=2017-11-13
+URL=https://www.blazefile.co/embed-wncdast3r4z6.html
+#https://openload.co/f/gEajQqD6N2c/The.Humanity.Bureau.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 
 type=video
 name=Bitch (2017) ENG WEB-DL AAC2.0 H264-FGT
@@ -949,7 +967,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-11-10
+date=2017-11-13
 URL=
 
 
@@ -2669,20 +2687,20 @@ type=video
 name=
 thumb=
 date=2017-09-14
-URL=
+URL=https://vidnode.net/streaming.php?id=MTI4NzEx&title=Murder%20on%20the%20Orient%20Express
 
 type=video
 name=
 thumb=
 date=2017-09-14
-URL=
+URL=https://lh3.googleusercontent.com/jHnV-4-2E5pp1s24awJKmSyV5SKFIUDuwNukotp0BLPPMNHIPi2jfZS9x8Z28WJjaGwxTb9jLmY=m22
 		
 
 type=video
 name=
 thumb=
 date=2017-09-17
-URL=
+URL=http://bjdobr14.s.llnwi.net/v1/3979/T11/13/Murder%20on%20the%20Orient%20Express%201974%20Watch%20Online%20_%238211%3B%20Watch%20Movies%20for%20Free%20_%238211%3B%20Seehd.ws.MP4
 			
 			
 
@@ -2714,8 +2732,9 @@ URL=https://www.blazefile.co/embed-1wsrgoe1ue1s.html
 type=video
 name=Cars 3 (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
-date=2017-11-10
-URL=https://openload.co/f/xwtBFTGBc9g/Cars_3_%282017%29_TH.mp4
+date=2017-11-13
+URL=https://openload.co/f/R_9ewXbWxAo/Car.3.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+#https://openload.co/f/xwtBFTGBc9g/Cars_3_%282017%29_TH.mp4
 #https://openload.co/f/9d6mOy0XXNo/Cars_3_%282017%29_THCAM_SOUND%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87_%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://openload.co/f/MfVdbZOm-SQ/Cars.3.2017.1080p.BluRay.H264.AC-3_ThaiRong5.1_CpT%40CtHts.mkv.mp4
 
