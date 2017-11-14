@@ -40,7 +40,7 @@ type=video
 name=
 thumb=
 date=
-URL=
+URL=http://183.88.212.205:8010/play/a02z
 player=default
 rating=-1.00
 
@@ -66,13 +66,12 @@ player=default
 rating=-1.00
 description=Before using download, must install youtube-dl Control (install from repo > kodi add-on repo > program add-ons > youtube-dl control)/description
 
-type=script
+
+type=video
 name=
 thumb=
-date=2017-07-16
-URL=
-player=default
-rating=-1.00
+URL=rtmp://tv01.thaizatv.com/drm/movie1
+
 
 
 type=playlist
@@ -99,4 +98,11 @@ rating=-1.00
 
 
 
+type=script
+name=
+thumb=
+date=2017-07-16
+URL=
+player=default
+rating=-1.00
 
