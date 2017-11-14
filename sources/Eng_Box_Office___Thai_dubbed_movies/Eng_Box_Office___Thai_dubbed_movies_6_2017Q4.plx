@@ -70,17 +70,18 @@ type=video
 name=
 thumb=
 date=2017-11-13
-URL=
+URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
 
 
 
 type=video
-name=Murder on the Orient Express (2017) ENG CAM.H264.AC3-Zi%24t
+name=Murder on the Orient Express (2017) ENG CAM.XViD.V2-26k
 thumb=https://image.tmdb.org/t/p/w640/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
-date=2017-11-13
-URL=https://openload.co/f/Kw3jLB0wT6w/Murder_on_the_Orient_Express_%282017%29.ENG.CAM.H264.AC3-Zi%24t.mkv.mp4
+date=2017-11-14
+URL=https://openload.co/f/Z-xgjsHstE8/Murder.On.The.Orient.Express.2017.CAM.XViD.V2-26k.avi.mp4
+#https://openload.co/f/Kw3jLB0wT6w/Murder_on_the_Orient_Express_%282017%29.ENG.CAM.H264.AC3-Zi%24t.mkv.mp4
 
 type=video
 name=You Were Never Really Here (2017) FRENCH.CAM.MD.XViD_STVFRV.E
@@ -198,7 +199,7 @@ URL=https://openload.co/f/v29dcmbpso4/Tulip.Fever.2017.720p.WEB-DL.X264.AC3-EVO.
 type=video
 name=
 thumb=
-date=2017-11-13
+date=2017-11-14
 URL=
 
 
@@ -207,10 +208,11 @@ URL=
 
 
 type=video
-name=Marshall (2017) ENG CAM.READNFO.XViD-26k
+name=Marshall (2017) ENG TS.x264.Clean.Audio.AAC.New.Source.rDX
 thumb=https://image.tmdb.org/t/p/w640/2z9oNW3TE5H5woLozFwfxlRRc0b.jpg
-date=2017-11-13
-URL=https://openload.co/f/8UKPBGPLaDk/Marshall.2017.CAM.READNFO.XViD-26k.avi.mp4
+date=2017-11-14
+URL=https://openload.co/f/RtjAPjl12-M/Marshall.2017.Movies.HD.TS.x264.Clean.Audio.AAC.New.Source.rDX.mkv.mp4
+#https://openload.co/f/8UKPBGPLaDk/Marshall.2017.CAM.READNFO.XViD-26k.avi.mp4
 
 type=video
 name=A Question of Faith (2017) ENG CAM.XViD-26k
@@ -267,10 +269,11 @@ date=2017-10-06
 URL=https://openload.co/f/fkXkBBTTZxM/Walking.Out.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
-name=Logan Lucky (2017) ENG TS.x264-CPG
+name=Logan Lucky (2017) ENG WEB-DL.H264.AC3-EVO MKV3.7GB
 thumb=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
-date=2017-09-07
-URL=https://openload.co/f/sT2jB8zTaVQ/LC.2017.TS.x264-CPG.mkv.mp4
+date=2017-11-14
+URL=https://openload.co/f/TvrXnw4T4Eg/Logan.Lucky.2017.720p.WEB-DL.H264.AC3-EVO.mkv
+#https://openload.co/f/sT2jB8zTaVQ/LC.2017.TS.x264-CPG.mkv.mp4
 
 type=video
 name=The Layover (2017) ENG dvdrip.x264.fragment
@@ -288,11 +291,23 @@ URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=
 thumb=
-date=2017-11-13
+date=2017-11-14
 URL=
 
 
 
+
+type=video
+name=The Elf (2017) ENG x264-StB
+thumb=https://image.tmdb.org/t/p/w640/z9IrT9Hanu1ptwMHRbxEvlN8Sbp.jpg
+date=2017-11-14
+URL=https://openload.co/f/Bt-K4PSJpNA/The_Elf_2017_720p_x264-StB.mkv.mp4
+
+type=video
+name=Loving Vincent (2017) ENG WEB-DL.X264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/qlrhwUDe7YOZujAYanK6ij2vbY5.jpg
+date=2017-11-14
+URL=https://openload.co/f/YZFeBPiDAMY/Loving_Vincent.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 
 type=video
 name=The Humanity Bureau (2017) ENG WEB-DL.X264.AC3-EVO
@@ -375,10 +390,11 @@ URL=https://openload.co/f/lYMpDxsb1UI/Brads.Status.2017.720p.HC.HDRip.X264.AC3-E
 https://openload.co/f/UyC0uF7AyD8/Brads.Status.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 
 type=video
-name=The Trip to Spain (2017) ENG HDRip.XviD.AC3-EVO
+name=The Trip to Spain (2017) ENG WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/74RSdBGWdtbdClQ2NGJeTTyO7fq.jpg
-date=2017-10-27
-URL=https://openload.co/f/vlkPOdFRwl4/The_Trip_to_Spain.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2017-11-14
+URL=https://openload.co/f/ACs3wsRUrUc/The.Trip.to.Spain.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/vlkPOdFRwl4/The_Trip_to_Spain.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Slamma Jamma (2017) ENG DVDRip.x264-PSYCHD
