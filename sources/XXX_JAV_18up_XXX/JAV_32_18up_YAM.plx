@@ -50,6 +50,88 @@ URL=
 
 
 
+type=video
+name=193xxxxxxxxxxxxxxxxxxxxPPPD-309 Tutor Honda Riko Out Active College Student In Big 
+thumb=http://javsex.net/wp-content/uploads/2016/02/4782.jpg
+date=2017-11-14
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all/35cd8809df2d95614da1cb2b3c4ea028.mp4
+
+type=video
+name=PPPD-259 Tutor Hosaka Collar Out Active College Student In Big 
+thumb=http://javsex.net/wp-content/uploads/2016/02/4777.jpg
+date=2017-11-14
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all/ff042cfe2da54357857e0bef9eff6220.mp4
+
+type=video
+name=PPPD-262 Tour Soap Out The Finest In Big Gcup 
+thumb=http://javsex.net/wp-content/uploads/2016/02/4778.jpg
+date=2017-11-14
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all/7fe19b319cd596eee8f1e58317ae1205.mp4
+
+type=video
+name=BBAN-077 Lesbian Shooting Absolute NG Lesbian Matsumoto Mei Of Best Friends
+thumb=http://javsex.net/wp-content/uploads/2016/02/4776.jpg
+date=2017-11-14
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all/68051331f1992414c50fafdce65aa0b6.mp4
+
+type=video
+name=PPPD-352 Naked Busty Housekeeper Honda Rico
+thumb=http://javsex.net/wp-content/uploads/2016/02/4798.jpg
+date=2017-11-14
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all/c24e2759ae6a2febcfeffd61a3a7cf9d.mp4
+
+
+type=video
+name=PPPD-330 Jari Unlimited Okita Anzunashi Big Tits And Daughter
+thumb=http://javsex.net/wp-content/uploads/2016/02/4794.jpg
+date=2017-11-14
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all/867b55377c854c75b45edffd61ff8b32.mp4
+
+type=video
+name=PPPD-327 Breaking Tits! !05 Inoue Hitomi
+thumb=http://javsex.net/wp-content/uploads/2016/02/4795.jpg
+date=2017-11-14
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all/2623105d70e73e7ff5e64c3ac4cffd60.mp4
+
+type=video
+name=PPPD-300 Jari Original All-you-can-Chigusa Pies Tsurekomi A Man In Active College Student Dormitory 
+thumb=http://javsex.net/wp-content/uploads/2016/02/4792.jpg
+date=2017-11-14
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all/88dcfc0926666eb94904aa10b184013e.mp4
+
+type=video
+name=PPPD-377 Gangbang Tour Pies Big Teacher
+thumb=http://javsex.net/wp-content/uploads/2016/02/4790.jpg
+date=2017-11-14
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all/7df22723141bbc093d00c96b6a50b327.mp4
+
+type=video
+name=PPPD-257 All-you-can-spear Britain&#039;s Big Tits Daughter
+thumb=http://javsex.net/wp-content/uploads/2016/03/4841.jpg
+date=2017-11-14
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all/ed5de71cffbea0f46a9c97e64a77d0a8.mp4
+
+
+type=video
+name=PPPD-322 Gcup Big Tits Bondage Tour 
+thumb=http://javsex.net/wp-content/uploads/2016/03/4838.jpg
+date=2017-11-14
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all/a35163ef93c363a42122788d780f84de.mp4
+
+type=video
+name=PPPD-324 Jari Unlimited Ai Uehara Big Tits And Daughter
+thumb=http://javsex.net/wp-content/uploads/2016/03/4834.jpg
+date=2017-11-14
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all/cefae9125afd9ca14adf565d07279019.mp4
+
+type=video
+name=PPPD-359 Back Part-time Job Mai Shinohara Out Active Busty College Student In Danger Date 
+thumb=http://javsex.net/wp-content/uploads/2016/03/4828.jpg
+date=2017-11-14
+URL=http://s001.yamvideo.com/3674-stream/thz-5-720-all/c75302c0b375414d9eca2fce256d84a4.mp4
+
+
+
 
 
 
