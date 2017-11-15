@@ -2007,12 +2007,7 @@ date=2017-10-24
 URL=https://openload.co/f/idi3AN6X1pk/Flatliners_%282017%29%E0%B8%82%E0%B8%AD%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B9%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=Bad Genius (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w640/mgyvwqn5SYKhfg5kofZDfgH8R0q.jpg
-date=2017-10-21
-URL=https://openload.co/f/epxW0qa85XA/Bad_Genius_%282017%29%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
-#https://openload.co/f/M0H0ERU8I5I/%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87_Bad_Genius_2017
+
 
 
 type=video
@@ -2147,7 +2142,7 @@ type=video
 name=
 thumb=
 date=2017-10-02
-URL=
+URL=https://mcloud.to/embed/jv1wp2?sub.file=https%253A%252F%252Fbmovies.to%252Fsubtitle%252F35269.vtt%253Fv1&a.url=https%3A%2F%2Fbmovies.to%2Fassets%2Facode%2Fplayer.html&a.close=0&ui=ZAbQzY9fXfdH4c6I2InYLRXBw99k&autostart=true
 
 
 
@@ -2155,7 +2150,7 @@ type=video
 name=
 thumb=
 date=2017-10-21
-URL=
+URL=http://0grydx.mcloud.to/1/3YZFaI-PxwSiJIKuU4DgXg/0/c/i/t/jv1wp2/list.m3u8?e=1510786800
 
 
 
@@ -2728,7 +2723,7 @@ type=video
 name=
 thumb=
 date=2017-09-14
-URL=https://vidnode.net/streaming.php?id=MTI4NzEx&title=Murder%20on%20the%20Orient%20Express
+URL=
 
 type=video
 name=
@@ -2754,10 +2749,24 @@ URL=
 type=video
 name=
 thumb=
-date=2017-11-10
+date=2017-11-15
 URL=
 
 
+
+type=video
+name=Peach Girl (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/2tmEMKZlxMZjBCjKfnZGRhjV3VP.jpg
+date=2017-11-15
+URL=https://openload.co/f/HJLIjWXVpiQ/Peach_Girl_%282017%29_TH.mp4
+
+type=video
+name=Bad Genius (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/mgyvwqn5SYKhfg5kofZDfgH8R0q.jpg
+date=2017-11-15
+URL=https://openload.co/f/oRz7Tgi0FiA/Bad_Genius_%282017%29_TH.mp4
+#https://openload.co/f/epxW0qa85XA/Bad_Genius_%282017%29%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+#https://openload.co/f/M0H0ERU8I5I/%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87_Bad_Genius_2017
 
 
 type=video
