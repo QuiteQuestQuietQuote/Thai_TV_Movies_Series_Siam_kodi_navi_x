@@ -196,7 +196,7 @@ type=video
 name=
 thumb=
 date=2017-11-14
-URL=
+URL=http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8
 
 
 

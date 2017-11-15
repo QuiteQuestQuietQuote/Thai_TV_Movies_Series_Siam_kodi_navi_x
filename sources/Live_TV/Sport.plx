@@ -815,7 +815,45 @@ URL=http://183.88.212.205:8010/play/a02q
 
 
 
-
+type=video
+name=Match! Futbol 3
+URL=http://iptv4u.club/site/freeiptv?channel=matchfootball3&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+type=video
+name=beIN SPORTS 1
+URL=http://iptv4u.club/site/freeiptv?channel=beinsports1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+type=video
+name=beIN SPORTS 2
+URL=http://iptv4u.club/site/freeiptv?channel=beinsports2&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+type=video
+name=beIN SPORTS 3
+URL=http://iptv4u.club/site/freeiptv?channel=beinsports3&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+type=video
+name=beIN SPORTS 4
+URL=http://iptv4u.club/site/freeiptv?channel=beinsports4&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+type=video
+name=beIN SPORTS 5
+URL=http://iptv4u.club/site/freeiptv?channel=beinsports5&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+type=video
+name=Futbol TV
+URL=http://46.105.233.106:9090
+type=video
+name=Futbol TV2
+URL=http://188.165.48.227:9090
+type=video
+name=Arena Sport 1
+URL=rtmp://139.59.120.168:1935/live/arenasport1.stream
+type=video
+name=Arena Sport 2
+URL=rtmp://139.59.120.168:1935/live/arenasport2.stream
+type=video
+name=Arena Sport 3
+URL=rtmp://139.59.120.168:1935/live/arenasport3.stream
+type=video
+name=Arena Sport 4
+URL=rtmp://139.59.120.168:1935/live/arenasport4.stream
+type=video
+name=Arena Sport 5
+URL=rtmp://139.59.120.168:1935/live/arenasport5.stream
 
 
 
