@@ -61,12 +61,12 @@ type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 date=2017-10-10
-URL=http://27.254.63.132:1935/live/_definst_/hbo.stream/playlist.m3u8?username=sid&password=id695464846498
+URL=http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/hbo_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=h0SIno10lvnKpZKkzRGhgA&username2=0885120325&username=15015087917688791768&password=mmmm5331436cbb84458bef0b&e=1510780419
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://27.254.63.132:1935/live/_definst_/HBOhits.stream/playlist.m3u8?username=sid&password=id695464846498
+URL=http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/hbo_hits_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=h0SIno10lvnKpZKkzRGhgA&username2=0885120325&username=15015087917688791768&password=mmmm5331436cbb84458bef0b&e=1510780419
 #http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 
@@ -402,7 +402,7 @@ type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://27.254.63.132:1935/live/_definst_/3hd.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+URL=
 
 
 
@@ -484,33 +484,7 @@ URL=http://27.254.63.132:1935/live/_definst_/hbo.stream/playlist.m3u8?username=s
 
 
 
-type=video
-name=MOVIE 3
-URL=http://27.254.63.132:1935/live/_definst_/movie3.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=MOVIE 2
-URL=http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=MOVIE 1
-URL=http://27.254.63.132:1935/live/_definst_/movie1.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=MOVIE HD
-URL=http://27.254.63.132:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=HBO HD
-URL=http://27.254.63.132:1935/live/_definst_/hbo.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=TRUE AISA HD
-URL=http://27.254.63.132:1935/live/_definst_/TrueAsiaHD.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=FILM ASIA
-URL=http://27.254.63.132:1935/live/_definst_/fla.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=THAI FILM
-URL=http://27.254.63.132:1935/live/_definst_/tflm.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=MOVIE HITS
-URL=http://27.254.63.132:1935/live/_definst_/movh.stream/playlist.m3u8?username=sid&password=id695464846498
+
 
 
 

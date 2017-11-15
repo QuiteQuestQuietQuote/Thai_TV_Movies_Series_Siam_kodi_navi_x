@@ -738,7 +738,14 @@ http://203.162.235.41:17819
 
 
 
-
+#EXTINF:-1,national_geographic
+http://27.254.154.154:1935/cinema/NATIONAL_GEOGRAPHIC_CHANNEL.stream/playlist.m3u8
+#EXTINF:-1,Cinemax
+http://27.254.154.154:1935/cinema/CINEMAX.stream/playlist.m3u8
+#EXTINF:-1,HBO HD
+http://27.254.154.154:1935/cinema/HBO.stream/playlist.m3u8
+#EXTINF:-1,HBO Hits
+http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 
 
@@ -751,7 +758,24 @@ http://203.162.235.41:17819
 
 
 
+#EXTINF:-1,FILM ASIA
+http://27.254.63.132:1935/live/_definst_/fla.stream/playlist.m3u8?username=sid&password=id695464846498
+#EXTINF:-1,Hitstoryhd
+http://27.254.63.132:1935/live/_definst_/Hitstoryhd.stream/playlist.m3u8?username=sid&password=id695464846498
+#EXTINF:-1,HBO HD
+http://27.254.63.132:1935/live/_definst_/hbo.stream/playlist.m3u8?username=sid&password=id695464846498
+#EXTINF:-1,DISCOVERY
+http://27.254.63.132:1935/live/_definst_/discovery.stream/playlist.m3u8?username=sid&password=id695464846498
 
+
+#EXTINF:-1,4Kmovie
+http://27.254.63.132:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+#EXTINF:-1,MOVIE1
+http://27.254.63.132:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+#EXTINF:-1,MOVIE2
+http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+#EXTINF:-1,MOVIE3
+http://27.254.63.132:1935/live/_definst_/movie3.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 
 
@@ -867,15 +891,9 @@ http://103.77.116.238:443/documentary/discovery_science_720p.stream//playlist.m3
 http://103.77.116.238:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=h0SIno10lvnKpZKkzRGhgA&username2=0885120325&username=15015087917688791768&password=mmmm5331436cbb84458bef0b&e=1510780419
 
 
-#EXTINF:-1,national_geographic
-http://27.254.154.154:1935/cinema/NATIONAL_GEOGRAPHIC_CHANNEL.stream/playlist.m3u8
-#EXTINF:-1,Cinemax
-http://27.254.154.154:1935/cinema/CINEMAX.stream/playlist.m3u8
-#EXTINF:-1,HBO HD
-http://27.254.154.154:1935/cinema/HBO.stream/playlist.m3u8
-#EXTINF:-1,HBO Hits
-http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
 
+#EXTINF:-1,movie24
+rtmp://tv01.thaizatv.com/drm/movie1
 
 
 
@@ -888,26 +906,8 @@ http://103.77.116.238:443/documentary/national_geographic_people_720p.stream/pla
 
 
 
-#EXTINF:-1,FILM ASIA
-http://27.254.63.132:1935/live/_definst_/fla.stream/playlist.m3u8?username=sid&password=id695464846498
-#EXTINF:-1,Hitstoryhd
-http://27.254.63.132:1935/live/_definst_/Hitstoryhd.stream/playlist.m3u8?username=sid&password=id695464846498
-#EXTINF:-1,HBO HD
-http://27.254.63.132:1935/live/_definst_/hbo.stream/playlist.m3u8?username=sid&password=id695464846498
-#EXTINF:-1,DISCOVERY
-http://27.254.63.132:1935/live/_definst_/discovery.stream/playlist.m3u8?username=sid&password=id695464846498
 
 
-#EXTINF:-1,4Kmovie
-http://27.254.63.132:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-#EXTINF:-1,MOVIE1
-http://27.254.63.132:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-#EXTINF:-1,MOVIE2
-http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-#EXTINF:-1,MOVIE3
-http://27.254.63.132:1935/live/_definst_/movie3.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-#EXTINF:-1,movie24
-rtmp://tv01.thaizatv.com/drm/movie1
 
 
 #EXTINF:-1,KOREA_Penthouse

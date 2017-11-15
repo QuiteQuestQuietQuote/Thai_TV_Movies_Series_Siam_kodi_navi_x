@@ -138,12 +138,14 @@ URL=http://103.77.116.238:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=h0SIno
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE1[/COLOR]
 thumb=http://www.thaiptv.com/img/movie1logo.png
-URL=http://27.254.63.132:1935/live/_definst_/movie1.stream/playlist.m3u8?username=sid&password=id695464846498
+URL=http://cdn-usa1-streaming.ani-box.com:1935/live/cs10.stream/playlist.m3u8
+#http://27.254.63.132:1935/live/_definst_/movie1.stream/playlist.m3u8?username=sid&password=id695464846498
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE2[/COLOR]
 thumb=http://www.thaiptv.com/img/movie2logo.png
-URL=http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=sid&password=id695464846498
+URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
+#http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=sid&password=id695464846498
 
 type=video
 name=[COLOR=FF00FF00]24/7 Animated Movies[/COLOR]

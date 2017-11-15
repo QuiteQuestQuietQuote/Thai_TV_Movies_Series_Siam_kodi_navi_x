@@ -1,4 +1,4 @@
-version=1
+0version=1
 background=https://image.tmdb.org/t/p/w640/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_6_2017Q4
 logo=https://image.tmdb.org/t/p/w640/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
@@ -49,11 +49,7 @@ thumb=https://2.bp.blogspot.com/-dd5bWZ-tL-k/WdLY5f19XsI/AAAAAAAAAJs/xvG608PIzGs
 date=2017-10-29
 URL=http://103.77.116.238:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=h0SIno10lvnKpZKkzRGhgA&username2=0885120325&username=15015087917688791768&password=mmmm5331436cbb84458bef0b&e=1510780419
 
-type=video
-name=
-thumb=
-date=2017-11-10
-URL=http://27.254.63.132:1935/live/_definst_/Hitstoryhd.stream/playlist.m3u8?username=sid&password=id695464846498
+
 
 type=video
 name=
@@ -1881,15 +1877,17 @@ thumb=https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92o
 URL=http://103.77.116.238:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?st=h0SIno10lvnKpZKkzRGhgA&username2=0885120325&username=15015087917688791768&password=mmmm5331436cbb84458bef0b&e=1510780419
 
 type=video
-name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE1[/COLOR]
+name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE24[/COLOR]
 thumb=http://www.thaiptv.com/img/movie1logo.png
-URL=http://27.254.63.132:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=sid&password=id695464846498
+URL=rtmp://tv01.thaizatv.com/drm/movie1
+#http://27.254.63.132:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=sid&password=id695464846498
 #http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE2[/COLOR]
 thumb=http://www.thaiptv.com/img/movie2logo.png
-URL=http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=sid&password=id695464846498
+URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
+#http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=sid&password=id695464846498
 #http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 type=video

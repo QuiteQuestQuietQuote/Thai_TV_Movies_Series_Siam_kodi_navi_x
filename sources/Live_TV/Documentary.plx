@@ -366,30 +366,6 @@ URL=http://183.88.212.205:8010/play/a03k
 
 
 
-type=video
-name=H2
-URL=http://27.254.63.132:1935/live/_definst_/h2.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=Hitstoryhd
-URL=http://27.254.63.132:1935/live/_definst_/Hitstoryhd.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=Cartoon_Network
-URL=http://27.254.63.132:1935/live/_definst_/cartoon_network.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=FOX THAI
-URL=http://27.254.63.132:1935/live/_definst_/fox.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=DISCOVERY
-URL=http://27.254.63.132:1935/live/_definst_/discovery.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=ANIMAL
-URL=http://27.254.63.132:1935/live/_definst_/Animal.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=DMAX
-URL=http://27.254.63.132:1935/live/_definst_/dmax.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=XZYTE
-URL=http://27.254.63.132:1935/live/_definst_/xzyte.stream/playlist.m3u8?username=sid&password=id695464846498
 
 
 

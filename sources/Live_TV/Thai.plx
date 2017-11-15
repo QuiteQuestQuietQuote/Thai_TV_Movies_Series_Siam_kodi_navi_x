@@ -496,42 +496,7 @@ URL=http://103.77.116.238:443/tvdigital/nbt_480p.stream/playlist.m3u8?st=h0SIno1
 
 
 
-type=video
-name=3 HD
-URL=http://27.254.63.132:1935/live/_definst_/3hd.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=CH5
-URL=http://27.254.63.132:1935/live/_definst_/ch5.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=CH 9
-URL=http://27.254.63.132:1935/live/_definst_/ch9.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=NBT
-URL=http://27.254.63.132:1935/live/_definst_/nbt.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=TPBS
-URL=http://27.254.63.132:1935/live/_definst_/tpbs.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=T4you
-URL=http://27.254.63.132:1935/live/_definst_/T4you.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=3family
-URL=http://27.254.63.132:1935/live/_definst_/3family.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=Thairath
-URL=http://27.254.63.132:1935/live/_definst_/Thairat.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=Workpoint
-URL=http://27.254.63.132:1935/live/_definst_/Workpoint.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=VIOCE
-URL=http://27.254.63.132:1935/live/_definst_/voice.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=PPTV
-URL=http://27.254.63.132:1935/live/_definst_/pptv.stream/playlist.m3u8?username=sid&password=id695464846498
-type=video
-name=CH 8
-URL=http://27.254.63.132:1935/live/_definst_/ch8.stream/playlist.m3u8?username=sid&password=id695464846498
+
 
 
 
