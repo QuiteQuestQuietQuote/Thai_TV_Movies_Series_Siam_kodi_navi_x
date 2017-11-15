@@ -201,7 +201,11 @@ URL=http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8
 
 
 
-
+type=video
+name=The Snowman (2017) ENG NOLOGO_HDCAM_X264_HQMic-DADDY
+thumb=https://image.tmdb.org/t/p/w640/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg
+date=2017-11-15
+URL=https://openload.co/f/mTFsFIWDkm4/The_Snowman_2017_NOLOGO_HDCAM_X264_HQMic-DADDY.mp4
 
 type=video
 name=Marshall (2017) ENG TS.x264.Clean.Audio.AAC.New.Source.rDX
@@ -264,12 +268,7 @@ thumb=https://image.tmdb.org/t/p/w640/2D2XnnZKNhhxb3Ig0PM0OIVdmZ8.jpg
 date=2017-10-06
 URL=https://openload.co/f/fkXkBBTTZxM/Walking.Out.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
-type=video
-name=Logan Lucky (2017) ENG WEB-DL.H264.AC3-EVO MKV3.7GB
-thumb=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
-date=2017-11-14
-URL=https://openload.co/f/TvrXnw4T4Eg/Logan.Lucky.2017.720p.WEB-DL.H264.AC3-EVO.mkv
-#https://openload.co/f/sT2jB8zTaVQ/LC.2017.TS.x264-CPG.mkv.mp4
+
 
 type=video
 name=The Layover (2017) ENG dvdrip.x264.fragment
@@ -424,11 +423,7 @@ thumb=https://image.tmdb.org/t/p/w640/mrYEfb8WZkCdhjfY6mUxDC2MUOp.jpg
 date=2017-10-27
 URL=https://openload.co/f/KIyqeZ9kLwk/Arg_Stairs.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=Acts of Vengeance (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/XZ1NmJmi7xFXo6eJ0UNswRpitV.jpg
-date=2017-10-27
-URL=https://openload.co/f/esU0klLUNGo/Acts.Of.Vengeance.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 type=video
 name=A Closer Walk with Thee (2017) ENG DVDRip.x264-RedBlade
@@ -979,12 +974,38 @@ URL=
 type=video
 name=
 thumb=
-date=2017-11-13
+date=2017-11-15
 URL=
 
+type=video
+name=Acts of Vengeance (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6GB
+thumb=https://image.tmdb.org/t/p/w640/XZ1NmJmi7xFXo6eJ0UNswRpitV.jpg
+date=2017-11-15
+URL=https://openload.co/f/nYKGWtth60s/Acts.of.Vengeance.2017.1080p.BluRay.x264-ROVERS.mkv
+#https://openload.co/f/esU0klLUNGo/Acts.Of.Vengeance.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
+type=video
+name=Amityville: The Awakening (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/d2BmX5YJchuDdnI3UL0mj3PtmaG.jpg
+date=2017-11-15
+URL=https://www.blazefile.co/embed-rl15754mnbtd.html
+#https://openload.co/f/Sf3jqMmoV3M/Amityville.The.Awakening.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
+type=video
+name=Kedi (2017) [COLOR=FF00FF00]TUR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/5z2vuJk6P7V2azw3gWQF7L4l5xU.jpg
+date=2017-11-15
+URL=https://openload.co/f/RMukabH5wA8/Kedi.2016.1080p.BluRay.x264-NODLABS.mkv.mp4
+#https://www.blazefile.co/embed-bxuto1mhavke.html
 
+type=video
+name=Logan Lucky (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
+date=2017-11-15
+URL=https://www.blazefile.co/embed-ejxanhrtjykc.html
+#https://openload.co/f/M5nddhfGiHA/logan.lucky.2017.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/TvrXnw4T4Eg/Logan.Lucky.2017.720p.WEB-DL.H264.AC3-EVO.mkv
+#https://openload.co/f/sT2jB8zTaVQ/LC.2017.TS.x264-CPG.mkv.mp4
 
 type=video
 name=M.F.A. (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1765,6 +1786,7 @@ name=The Secret Scripture (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/fyJEWYpSajeAMJxSiLhtCVhxiXc.jpg
 date=2017-09-18
 URL=https://openload.co/f/Bu2BqxOQcIw/The.Secret.Scripture.2016.720p.BluRay.x264.DTS-R23.mkv.mp4
+#https://openload.co/f/z7pRMKWjVN0/The.Secret.Scripture.2016.DVDRip.x264-PSYCHD.mkv.mp4
 
 type=video
 name=Anomalous (2016) [COLOR=FF00FF00]ESP BR 720p[/COLOR]
@@ -1959,6 +1981,11 @@ URL=https://openload.co/f/JNaFUCFSBUk/Wolf_Warrior_2_%282017%29%E0%B8%81%E0%B8%A
 #https://openload.co/f/otuWsiW2ugE/Wolf.Warrior.II.2017.HD720P.X264.AC3.ThaiRong_CpT%40CtHts.mkv.mp4
 
 
+type=video
+name=The Son of Bigfoot (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
+date=2017-11-15
+URL=https://openload.co/f/TBvJEkO7bJ0/The_Son_of_Bigfoot.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 type=video
 name=The Son of Bigfoot (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
@@ -2795,8 +2822,9 @@ URL=https://openload.co/f/nLOnEywfnLE/Kill.Switch.2017.1080p.BrRip.DTS.x264_Nong
 type=video
 name=Wu Kong (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/srdxQhvnLVnZjjUF7UwVBtbyvXj.jpg
-date=2017-11-09
-URL=https://openload.co/f/8jimwsDMf9E/Wu_Kong_%282017%29TH.mp4
+date=2017-11-15
+URL=https://openload.co/f/SkyzeE5yttk/Wu.kong.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+#https://openload.co/f/8jimwsDMf9E/Wu_Kong_%282017%29TH.mp4
 #https://openload.co/f/X5eV80ZRVTA/WuKong.2017.2160p.4K.WEB-DL.H264.AC-3.ThaiRong_CpT%40CtHts.mkv.mp4
 
 type=video
