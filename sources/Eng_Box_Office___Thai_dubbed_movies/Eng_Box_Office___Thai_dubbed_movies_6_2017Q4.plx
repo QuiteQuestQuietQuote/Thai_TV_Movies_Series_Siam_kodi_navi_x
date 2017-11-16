@@ -183,11 +183,7 @@ thumb=https://image.tmdb.org/t/p/w640/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
 date=2017-10-04
 URL=https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
 
-type=video
-name=Tulip Fever (2017) ENG WEB-DL.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/lmfop4zLqFWFTkKSYp7V5jgeM6I.jpg
-date=2017-11-13
-URL=https://openload.co/f/v29dcmbpso4/Tulip.Fever.2017.720p.WEB-DL.X264.AC3-EVO.mkv
+
 
 
 
@@ -276,27 +272,35 @@ thumb=https://image.tmdb.org/t/p/w640/kb9osnqanXRpkpm1bnSqAhKoq5T.jpg
 date=2017-10-11
 URL=https://openload.co/f/_bCmA0g9Xu8/the.layover.2017.dvdrip.x264.fragment.mkv.mp4
 
-type=video
-name=Rememory (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/1PUlg2uuPtVPUVB5GE5D4ihaMku.jpg
-date=2017-08-25
-URL=https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 
 type=video
 name=
 thumb=
-date=2017-11-14
+date=2017-11-16
 URL=
 
 
 
+type=video
+name=1 Buck (2017) ENG BDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/x9Z40D8vaFJqqtJJrKgkA2B3IBb.jpg
+date=2017-11-16
+URL=https://openload.co/f/2Uj0P-FO0OI/1.Buck.2017.BDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
-name=The Elf (2017) ENG x264-StB
+name=On Wings of Eagles (2017) ENG WEB-DL.x264-RARBG
+thumb=https://image.tmdb.org/t/p/w640/mSTzqtXFQn0T3ESzMknTjwYyruL.jpg
+date=2017-11-16
+URL=https://openload.co/f/keDglguB0A0/On.Wings.of.Eagles.2016.WEB-DL.x264-RARBG.mp4
+
+type=video
+name=The Elf (2017) ENG WEB-DL.x264-RARBG
 thumb=https://image.tmdb.org/t/p/w640/z9IrT9Hanu1ptwMHRbxEvlN8Sbp.jpg
-date=2017-11-14
-URL=https://openload.co/f/Bt-K4PSJpNA/The_Elf_2017_720p_x264-StB.mkv.mp4
+date=2017-11-16
+URL=https://openload.co/f/W2FwLqmgrmc/The.Elf.2017.WEB-DL.x264-RARBG.mp4
+#https://openload.co/f/Bt-K4PSJpNA/The_Elf_2017_720p_x264-StB.mkv.mp4
 
 type=video
 name=Loving Vincent (2017) ENG WEB-DL.X264.AC3-EVO
@@ -974,14 +978,44 @@ URL=
 type=video
 name=
 thumb=
-date=2017-11-15
+date=2017-11-16
 URL=
 
+
 type=video
-name=Acts of Vengeance (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6GB
+name=Beta Test (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/9lvcWpo7na9nxW3FMyIQoc2tmdQ.jpg
+date=2017-11-16
+URL=https://www.blazefile.co/embed-9osos9b41jzn.html
+#https://openload.co/f/0lY_8C9UXVc/beta.test.2016.limited.720p.bluray.x264-veto.mkv.mp4
+
+type=video
+name=Friends Don't Let Friends (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/xHYVgHhw4j99vGdmiCcnbLQFdZM.jpg
+date=2017-11-16
+URL=https://openload.co/f/uRktVgQRThc/Friends.Dont.Let.Friends.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Tulip Fever (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/lmfop4zLqFWFTkKSYp7V5jgeM6I.jpg
+date=2017-11-16
+URL=https://www.blazefile.co/embed-z9fwke5dzfpz.html
+#https://openload.co/f/ILcVEeVlkNA/tulip.fever.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/v29dcmbpso4/Tulip.Fever.2017.720p.WEB-DL.X264.AC3-EVO.mkv
+
+type=video
+name=Rememory (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/1PUlg2uuPtVPUVB5GE5D4ihaMku.jpg
+date=2017-11-16
+URL=https://openload.co/f/z5scG1XR3MA/Rememory.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+#https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Acts of Vengeance (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/XZ1NmJmi7xFXo6eJ0UNswRpitV.jpg
 date=2017-11-15
-URL=https://openload.co/f/nYKGWtth60s/Acts.of.Vengeance.2017.1080p.BluRay.x264-ROVERS.mkv
+URL=https://www.blazefile.co/embed-zff92s66f4u3.html
+#https://openload.co/f/nYKGWtth60s/Acts.of.Vengeance.2017.1080p.BluRay.x264-ROVERS.mkv
 #https://openload.co/f/esU0klLUNGo/Acts.Of.Vengeance.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
@@ -1182,11 +1216,11 @@ date=2017-10-27
 URL=https://openload.co/f/7kGOSJ1svq0/Krampus.Unleashed.2016.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
 
 type=video
-name=Ingrid Goes West (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.6GB
+name=Ingrid Goes West (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/3LEyW11onDltXHo0L1X23j9Nnvg.jpg
 date=2017-10-25
-URL=https://openload.co/f/G18bBxi9CRY/ingrid.goes.west.2017.1080p.bluray.x264-geckos.mkv
-#https://www.blazefile.co/embed-a90mc72athte.html
+URL=https://www.blazefile.co/embed-a90mc72athte.html
+#https://openload.co/f/G18bBxi9CRY/ingrid.goes.west.2017.1080p.bluray.x264-geckos.mkv
 #https://openload.co/f/G18bBxi9CRY/ingrid.goes.west.2017.1080p.bluray.x264-geckos.mkv
 #https://openload.co/f/5vQHB3YcUJ8/ingrid.goes.west.2017.1080p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/l8ENhc-dVME/Ingrid.Goes.West.2017.720p.BluRay.x264-GECKOS.mkv.mp4
@@ -1333,19 +1367,19 @@ URL=https://www.blazefile.co/embed-4jistmi6ss5f.html
 #https://openload.co/f/xOP0shQI0uk/Indiscretion.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
-name=68 Kill (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.7GB
+name=68 Kill (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] 
 thumb=https://image.tmdb.org/t/p/w640/yz6PEuqdU0ylz1AGNo1MucjfOoA.jpg
 date=2017-10-06
-URL=https://openload.co/f/eOISEoSW6Xs/68.kill.2017.1080p.bluray.x264-justwatch.mkv
+URL=https://www.blazefile.co/embed-k43g8ft8h5ms.html
+#https://openload.co/f/eOISEoSW6Xs/68.kill.2017.1080p.bluray.x264-justwatch.mkv
 #https://openload.co/f/ZeBh8t9Lsnk/68.kill.2017.1080p.bluray.x264-justwatch.mkv.mp4
-#https://www.blazefile.co/embed-k43g8ft8h5ms.html
 
 type=video
 name=Girls Trip (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/94nCLn74lBh4pLdZPIad18BpheE.jpg
 date=2017-10-06
-URL=https://openload.co/f/uficU85oMLc/girls_trip.2017.1080p.bluray.x264.rep-mkv.mp4
-#https://www.blazefile.co/embed-sv7vxq2rfkp4.html
+URL=https://www.blazefile.co/embed-sv7vxq2rfkp4.html
+#https://openload.co/f/uficU85oMLc/girls_trip.2017.1080p.bluray.x264.rep-mkv.mp4
 #https://openload.co/f/MmyjkB0qAf4/Girls_Trip_%282017%29_%5B1080p%5D_BluRay_x264-%5BYTS_AG%5D_mp4
 
 type=video
@@ -1365,17 +1399,18 @@ type=video
 name=The Little Hours (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/wS69OOwBJzimoLIcmYMSVkmhCZM.jpg
 date=2017-10-05
-URL=https://openload.co/f/SOejYFdhlXg/The.Little.Hours.2017.1080p.BluRay.X264-AMIABLE.mp4
-#https://www.blazefile.co/embed-11ma1xpz9i30.html
+URL=https://www.blazefile.co/embed-11ma1xpz9i30.html
+#https://openload.co/f/SOejYFdhlXg/The.Little.Hours.2017.1080p.BluRay.X264-AMIABLE.mp4
 #https://openload.co/f/Bn35vNEQvpM/The_Little_Hours_%282017%29_%5B1080p%5D_%5BWEB-DL%5D_%5B896MB%5D.mp4
 
 type=video
 name=6 Days (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/yRbC0uRj1RDmF0JLon83il2dkR0.jpg
 date=2017-10-04
-URL=https://openload.co/f/Ib_9hObk2EY/6.Days.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+URL=https://www.blazefile.co/embed-3gilqjbpg0qg.html
+#https://openload.co/f/Ib_9hObk2EY/6.Days.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/KC5z9jF5Tgg/6.Days.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://www.blazefile.co/embed-3gilqjbpg0qg.html
+
 
 type=video
 name=Hounds of Love (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1415,12 +1450,12 @@ URL=https://openload.co/f/jMvDEd_f1BY/my.pet.dinosaur.1080p.mkv
 #https://www.blazefile.co/embed-64pnso4qdv44.html
 
 type=video
-name=Paris Can Wait (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6GB
+name=Paris Can Wait (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] 
 thumb=https://image.tmdb.org/t/p/w640/jLzfHNU1JldQpC5TNEvQMnWQxx6.jpg
 date=2017-09-29
-URL=https://openload.co/f/qtCGn2v91C0/Paris.Can.Wait.2016.1080p.BluRay.X264-AMIABLE.mkv
+URL=https://www.blazefile.co/embed-yroidpd7xprm.html
+#https://openload.co/f/qtCGn2v91C0/Paris.Can.Wait.2016.1080p.BluRay.X264-AMIABLE.mkv
 #https://openload.co/f/sqOx_-AOWLY/Paris.Can.Wait.2016.1080p.BluRay.X264-AMIABLE.mkv.mp4
-#https://www.blazefile.co/embed-yroidpd7xprm.html
 
 type=video
 name=Una (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1443,8 +1478,8 @@ type=video
 name=The Wizard of Lies (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 9.8GB
 thumb=https://image.tmdb.org/t/p/w640/8k4lJ4e0hvDQtKpItXmmPdw69sO.jpg
 date=2017-09-24
-URL=https://openload.co/f/syfvv9fbGCA/The.Wizard.of.Lies.2017.1080p.BluRay.x264-ROVERS.mkv
-#https://www.blazefile.co/embed-bgeti6m16ew4.html
+URL=https://www.blazefile.co/embed-bgeti6m16ew4.html
+#https://openload.co/f/syfvv9fbGCA/The.Wizard.of.Lies.2017.1080p.BluRay.x264-ROVERS.mkv
 #https://openload.co/f/fySSMya9920/The_Wizard_of_Lies_2017_1080p_BluRay_H264_AAC-RARBG_mp4
 
 type=video
@@ -1549,11 +1584,12 @@ date=2017-09-09
 URL=https://openload.co/f/aO4jx_Sl9Xc/the.hero.2017.limited.1080p.bluray.x264-snow.mkv.mp4
 
 type=video
-name=Till We Meet Again (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.9GB
+name=Till We Meet Again (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] 
 thumb=https://image.tmdb.org/t/p/w640/wUAfJDkRfTVDjvNvsT0UdtgiRxt.jpg
 date=2017-09-08
-URL=https://openload.co/f/lLZh3c2_Tkw/Till.We.Meet.Again.2016.1080p.BluRay.x264-REGARDS.mkv
-#https://www.blazefile.co/embed-3jiy9ow8ysdg.html
+URL=https://www.blazefile.co/embed-3jiy9ow8ysdg.html
+#https://openload.co/f/lLZh3c2_Tkw/Till.We.Meet.Again.2016.1080p.BluRay.x264-REGARDS.mkv
+
 
 type=video
 name=Throne of Elves (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1579,11 +1615,12 @@ URL=https://www.blazefile.co/embed-5kjjzhuh44wm.html
 #https://openload.co/f/JPeDea8FVfM/It.Comes.at.Night.2017.1080p.BluRay.x264-%255bYTS.AG%255d.mp4
 
 type=video
-name=Mindhorn (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6GB
+name=Mindhorn (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] 
 thumb=https://image.tmdb.org/t/p/w640/1cg6oZo7C7iqYTZgbfOvscAFiP2.jpg
 date=2017-09-01
-URL=https://openload.co/f/Xbx1YMzEBN8/Mindhorn.2016.1080p.BluRay.X264-AMIABLE.mkv
-#https://www.blazefile.co/embed-4cip00dzo4sv.html
+URL=https://www.blazefile.co/embed-4cip00dzo4sv.html
+#https://openload.co/f/Xbx1YMzEBN8/Mindhorn.2016.1080p.BluRay.X264-AMIABLE.mkv
+
 
 
 
@@ -1861,7 +1898,12 @@ thumb=https://image.tmdb.org/t/p/w640/1QDQ8cMZJA9xCx0FjM4GDlNw511.jpg
 date=2017-11-12
 URL=https://www.blazefile.co/embed-ycichawlnkfp.html
 
-
+type=video
+name=Woodshock (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/pl7ro8KxVGJHw4nuFLkZVuMKjg9.jpg
+date=2017-11-16
+URL=https://www.blazefile.co/embed-xm0yn0zzqn1o.html
+#https://openload.co/f/0edw5TyYPHI/Woodshock.2017.LIMITED.720p.BluRay.x264-DRONES.mkv.mp4
 
 
 
