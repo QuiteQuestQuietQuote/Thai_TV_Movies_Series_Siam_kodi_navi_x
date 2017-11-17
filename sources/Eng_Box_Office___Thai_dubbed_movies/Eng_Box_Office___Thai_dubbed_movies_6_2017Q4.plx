@@ -191,11 +191,29 @@ URL=https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
 type=video
 name=
 thumb=
-date=2017-11-14
+date=2017-11-17
 URL=http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8
 
 
 
+
+type=video
+name=Mudbound (2017) ENG NF.WEB-DL.DD5.1.x264-NTG
+thumb=https://image.tmdb.org/t/p/w640/7cL7UgVMeP9xDSxU2NyAqeAQAbt.jpg
+date=2017-11-17
+URL=https://openload.co/f/-CzwyQleoyc/Mudbound.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
+
+type=video
+name=Sweet Virginia (2017) EMG WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/s82fGiRhdgO2SRJiJ6dOCayKnSH.jpg
+date=2017-11-17
+URL=https://openload.co/f/A5fCQK1Abfg/Sweet.Virginia.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
+type=video
+name=Cook-Off! (2017) ENG WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/rxJNmF835KJpwioXvr9oAQZVJNU.jpg
+date=2017-11-17
+URL=https://openload.co/f/Zf18_Paljkk/Cook.Off.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
 name=The Snowman (2017) ENG NOLOGO_HDCAM_X264_HQMic-DADDY
@@ -251,12 +269,7 @@ thumb=https://image.tmdb.org/t/p/w640/vJZs6ABHbCcgjIFcAoPx3qhwXzL.jpg
 date=2017-10-13
 URL=https://openload.co/f/DvzBIzD07rA/The_Meyerowitz_Stories_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=6 Below: Miracle on the Mountain (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/8eZynKoLiPq9b6DQGLOFHt6mZPv.jpg
-date=2017-10-13
-URL=https://openload.co/f/SytT_2ZR_kc/6.Below.Miracle.on.the.Mountain.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/JG-_5_FdurA/6_Below%3A_Miracle_on_the_Mountain_%282017%29.WEB-DL.XviD.AC3-FGT.avi.mp4
+
 
 type=video
 name=Walking Out (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -278,10 +291,22 @@ URL=https://openload.co/f/_bCmA0g9Xu8/the.layover.2017.dvdrip.x264.fragment.mkv.
 type=video
 name=
 thumb=
-date=2017-11-16
+date=2017-11-17
 URL=
 
 
+
+type=video
+name=Days of Power (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/r6WWgaAcccADoGBwUjmOgNs4KKA.jpg
+date=2017-11-17
+URL=https://openload.co/f/npRtuvyoIHM/Days_of_Power.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Maya Dardel (2017) ENG WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/4RjyBQuEjwjhL5H44oSh8N9Uyfa.jpg
+date=2017-11-17
+URL=https://openload.co/f/fu9KD7ud3hU/Maya.Dardel.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
 name=1 Buck (2017) ENG BDRip.XviD.AC3-EVO
@@ -670,11 +695,7 @@ thumb=https://image.tmdb.org/t/p/w640/p7RVsyi67S95RyNJjX99E1MaOsA.jpg
 date=2017-10-18
 URL=https://openload.co/f/AuZ_RdmW1Us/Landline.2017.DVDRip.x264-PSYCHD.mkv
 
-type=video
-name=Super Dark Times (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/7sJoNicLJ9EZwetp5ucjS8qQ9g1.jpg
-date=2017-10-03
-URL=https://openload.co/f/YdrHJ1mm07o/Super_Dark_Times_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Daphne (2017) ENG HDRip.XviD.AC3-EVO
@@ -982,6 +1003,17 @@ date=2017-11-16
 URL=
 
 
+
+
+type=video
+name=6 Below: Miracle on the Mountain (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/8eZynKoLiPq9b6DQGLOFHt6mZPv.jpg
+date=2017-11-17
+URL=https://openload.co/f/3ar1ciJE_8g/6.Below.Miracle.on.the.Mountain.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/SytT_2ZR_kc/6.Below.Miracle.on.the.Mountain.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/JG-_5_FdurA/6_Below%3A_Miracle_on_the_Mountain_%282017%29.WEB-DL.XviD.AC3-FGT.avi.mp4
+#https://www.blazefile.co/embed-lawol7qg5fnv.html   720
+
 type=video
 name=Beta Test (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/9lvcWpo7na9nxW3FMyIQoc2tmdQ.jpg
@@ -994,6 +1026,8 @@ name=Friends Don't Let Friends (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/xHYVgHhw4j99vGdmiCcnbLQFdZM.jpg
 date=2017-11-16
 URL=https://openload.co/f/uRktVgQRThc/Friends.Dont.Let.Friends.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/ih2ycP7-5_Y/Friends.Dont.Let.Friends.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://www.blazefile.co/embed-mntk573rsq1e.html     720
 
 type=video
 name=Tulip Fever (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1006,8 +1040,9 @@ URL=https://www.blazefile.co/embed-z9fwke5dzfpz.html
 type=video
 name=Rememory (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/1PUlg2uuPtVPUVB5GE5D4ihaMku.jpg
-date=2017-11-16
-URL=https://openload.co/f/z5scG1XR3MA/Rememory.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+date=2017-11-17
+URL=https://www.blazefile.co/embed-rrywn5yvi4cf.html
+#https://openload.co/f/z5scG1XR3MA/Rememory.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 #https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
@@ -1905,7 +1940,13 @@ date=2017-11-16
 URL=https://www.blazefile.co/embed-xm0yn0zzqn1o.html
 #https://openload.co/f/0edw5TyYPHI/Woodshock.2017.LIMITED.720p.BluRay.x264-DRONES.mkv.mp4
 
-
+type=video
+name=Super Dark Times (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/7sJoNicLJ9EZwetp5ucjS8qQ9g1.jpg
+date=2017-11-17
+URL=https://www.blazefile.co/embed-rcdziugoum1i.html
+#https://openload.co/f/wRtGp5luM-Q/super.dark.times.2017.limited.720p.bluray.x264-usury.mkv.mp4
+#https://openload.co/f/YdrHJ1mm07o/Super_Dark_Times_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
 
 
 
