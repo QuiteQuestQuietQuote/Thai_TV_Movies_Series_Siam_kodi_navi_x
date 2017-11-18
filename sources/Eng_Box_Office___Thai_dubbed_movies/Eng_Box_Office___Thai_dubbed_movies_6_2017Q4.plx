@@ -1,8 +1,8 @@
 0version=1
-background=https://image.tmdb.org/t/p/w640/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
+background=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_6_2017Q4
-logo=https://image.tmdb.org/t/p/w640/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
+logo=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, sockshare, fmovies, ganool, nanamovies./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
+thumb=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -71,6 +71,14 @@ URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.blu
 
 
 
+
+
+type=video
+name=Justice League (2017) ENG CAM.XviD-FodeMeuCu
+thumb=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
+date=2017-11-18
+URL=https://openload.co/f/u_m2Yed9uS4/Justice_League.2017.CAM.XviD-FodeMeuCu.mkv.mp4
+#https://openload.co/f/rzw5iUFLhkg/Justice_League.2017.ENG.PROPER.HDCAM-H264.MP3-Zi%2524t.mkv.mp4
 
 type=video
 name=Murder on the Orient Express (2017) ENG CAM.XViD.V2-26k
@@ -191,11 +199,17 @@ URL=https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
 type=video
 name=
 thumb=
-date=2017-11-17
+date=2017-11-18
 URL=http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8
 
 
 
+
+type=video
+name=Almost Friends (2017) ENG WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/oWe95qgWq52M1Prub2F4QkYIADB.jpg
+date=2017-11-18
+URL=https://openload.co/f/Kfu56F0aj0U/Almost.Friends.2016.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
 name=Mudbound (2017) ENG NF.WEB-DL.DD5.1.x264-NTG
@@ -308,11 +322,7 @@ thumb=https://image.tmdb.org/t/p/w640/4RjyBQuEjwjhL5H44oSh8N9Uyfa.jpg
 date=2017-11-17
 URL=https://openload.co/f/fu9KD7ud3hU/Maya.Dardel.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
-type=video
-name=1 Buck (2017) ENG BDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/x9Z40D8vaFJqqtJJrKgkA2B3IBb.jpg
-date=2017-11-16
-URL=https://openload.co/f/2Uj0P-FO0OI/1.Buck.2017.BDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=On Wings of Eagles (2017) ENG WEB-DL.x264-RARBG
@@ -690,10 +700,11 @@ date=2017-10-03
 URL=https://openload.co/f/cPeZGpx2cOM/Nails.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
-name=Landline (2017) ENG DVDRip.x264-PSYCHD MKV
+name=Landline (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/p7RVsyi67S95RyNJjX99E1MaOsA.jpg
-date=2017-10-18
-URL=https://openload.co/f/AuZ_RdmW1Us/Landline.2017.DVDRip.x264-PSYCHD.mkv
+date=2017-11-18
+URL=https://openload.co/f/iHZZfH-CV1g/Landline.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/AuZ_RdmW1Us/Landline.2017.DVDRip.x264-PSYCHD.mkv
 
 
 
@@ -1004,6 +1015,21 @@ URL=
 
 
 
+type=video
+name=Super Dark Times (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/7sJoNicLJ9EZwetp5ucjS8qQ9g1.jpg
+date=2017-11-18
+URL=https://www.blazefile.co/embed-b20p77brtx7n.html
+#https://www.blazefile.co/embed-rcdziugoum1i.html 
+#https://openload.co/f/wRtGp5luM-Q/super.dark.times.2017.limited.720p.bluray.x264-usury.mkv.mp4
+#https://openload.co/f/YdrHJ1mm07o/Super_Dark_Times_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=1 Buck (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/x9Z40D8vaFJqqtJJrKgkA2B3IBb.jpg
+date=2017-11-16
+URL=https://openload.co/f/h8FHGZPvrHs/1.Buck.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/2Uj0P-FO0OI/1.Buck.2017.BDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=6 Below: Miracle on the Mountain (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1098,6 +1124,7 @@ name=Beach Rats (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/oQZPPsvoipd38jasPhvJOpajbug.jpg
 date=2017-11-10
 URL=https://www.blazefile.co/embed-36w1e17wn66k.html
+#https://openload.co/f/16RMPXDGEdQ/Beach_Rats_%282017%29_%5B1080p%5D_%5BBluRay%5D_%5B930MB%5D.mp4
 
 type=video
 name=Patti Cake$ (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1940,13 +1967,7 @@ date=2017-11-16
 URL=https://www.blazefile.co/embed-xm0yn0zzqn1o.html
 #https://openload.co/f/0edw5TyYPHI/Woodshock.2017.LIMITED.720p.BluRay.x264-DRONES.mkv.mp4
 
-type=video
-name=Super Dark Times (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/7sJoNicLJ9EZwetp5ucjS8qQ9g1.jpg
-date=2017-11-17
-URL=https://www.blazefile.co/embed-rcdziugoum1i.html
-#https://openload.co/f/wRtGp5luM-Q/super.dark.times.2017.limited.720p.bluray.x264-usury.mkv.mp4
-#https://openload.co/f/YdrHJ1mm07o/Super_Dark_Times_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 
 
@@ -3027,6 +3048,7 @@ name=Blade Runner (1982) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/p64TtbZGCElxQHpAMWmDHkWJlH2.jpg
 date=2017-10-25
 URL=https://www.blazefile.co/embed-91oykt5nog8i.html
+#https://openload.co/f/GQfX8x3J1qE/Blade.Runner.1982.The.Final.Cut.720p.iNTERNAL.BluRay.x264-MOOVEE.mkv.mp4
 type=video
 name=Blade Runner (1982) TH
 thumb=https://image.tmdb.org/t/p/w640/p64TtbZGCElxQHpAMWmDHkWJlH2.jpg
