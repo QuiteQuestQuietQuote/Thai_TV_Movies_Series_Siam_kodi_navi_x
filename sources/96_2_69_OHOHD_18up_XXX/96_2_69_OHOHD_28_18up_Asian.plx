@@ -60,6 +60,259 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=187xxxxxxxxxxxxxxxxxxxxGaroojigi – Stud The Beginning (2017) [Uncute]
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Garoojigi-Stud-The-Beginning-2017-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/fqqqkqaaclreeaoa/
+
+type=video
+name=Cheating Wife (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Cheating-Wife-2017-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/ctmddaorkoopeotm/
+
+type=video
+name=The Body Interview (2017) [Uncute] 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/The-Body-Interview-2017-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/nqfcaqasbqaatqer/
+
+
+type=video
+name=The Invited Man (2017) [Rev.1] 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/The-Invited-Man-2017-Rev.1-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/qppnnadfeclbnrcm/
+
+type=video
+name=Erotic Stories (2016) [Uncute]
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Erotic-Stories-2016-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/stskpefemfqdrdre/
+
+type=video
+name=Sister In Law’s Seduction (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Sister-In-Law%E2%80%99s-Seduction-2017-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/doftaonftrmfeloo/
+
+type=video
+name=One On One (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/One-On-One-2017-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/bdoabrbrepcepcfo/
+
+type=video
+name=Ticket Coffee Shop (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Ticket-Coffee-Shop-2017.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/lqdfdalltqrqrnso/
+
+
+type=video
+name=Swapping Wives (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Swapping-Wives-2016-Uncute.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/oarrepaqndbsmrak/
+
+type=video
+name=Island Of Desire (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Island-Of-Desire-2017-Uncute.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/dlndpsprsqcnnfsp/
+
+type=video
+name=YouTube Friend’s Mother (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/YouTube-Friends-Mother-2017-Uncute.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/sqcoceckcqoflkfl/
+
+type=video
+name=A Tale of Legendary Libido (2008)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/A-Tale-of-Legendary-Libido-2008-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/nolbcnbskmtbnqqs/
+
+type=video
+name=At the Beginning, It’s All Good (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/At-the-Beginning-Its-All-Good-2017-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/bremopelatnemsnp/
+
+
+type=video
+name=My Sister-in-law’s Job (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/My-Sister-in-laws-Job-2017-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/bbpmnsqfqlkrcsbl/
+
+type=video
+name=Exploratory Holiday (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Exploratory-Holiday-2017-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/fnlmdpdblnofmfcs/
+
+type=video
+name=Goddess Eowoodong (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Goddess-Eowoodong-2017-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/lmnodoadcoopfarb/
+
+type=video
+name=Female Hostel (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Female-Hostel-2017-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/pantpdakstodpfda/
+
+type=video
+name=Are You Coming! – City of Angels (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Are-You-Coming-City-of-Angels-2017-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/rfeeklmlctkemtka/
+
+
+type=video
+name=School Mistress (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/School-Mistress-2017-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/mprpddopamcmmlmf/
+
+type=video
+name=The Maid’s Comfort Food – Director’s Cut (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/The-Maids-Comfort-Food-Directors-Cut-2017-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/sndcpkeksbdfnncb/
+
+type=video
+name=Scandal III (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Scandal-III-2017-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/fflelntdnaqosofl/
+
+type=video
+name=Lying I like sex (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Lying-I-like-sex-2013-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/tafnkatebskepcrq/
+
+type=video
+name=My Wife’s Video (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/My-Wifes-Video-2016-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/mckprrbcccebnane/
+
+
+type=video
+name=The Second Mom (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/The-Second-Mom-2014-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/kanpfmcbbdsplskd/
+
+type=video
+name=A Day To Do It (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/A-Day-To-Do-It-2016-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/dbeapfttkdecllbk/
+
+type=video
+name=Marital Harmony of Man and Woman (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Marital-Harmony-of-Man-and-Woman-2016-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/rorllklnqmlkndnc/
+
+type=video
+name=The Inside Story (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/The-Inside-Story-2017-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/qfoscckscacpkkbe/
+
+type=video
+name=Saeksigong… juhonggeulssieui bimil (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Saeksigong...-juhonggeulssieui-bimil-2017-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/afbfkctceklmobrb/
+
+
+type=video
+name=Bongja (2000)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Bongja-2000-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/mmpmcktabkksdflf/
+
+type=video
+name=Sakuran (2007)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Sakuran-2007-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/flloebqanpkttbnr/
+
+type=video
+name=July 32nd (2007)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/July-32nd-2007-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/btealdforbfpcqeq/
+
+type=video
+name=My friend’s husband (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/My-friends-husband-2016-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/soloabarffrdqknb/
+
+type=video
+name=The Story of Ong-nyeo (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/The-Story-of-Ong-nyeo-2014-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/oemdatfbplkebrcp/
+
+
+type=video
+name=Live With An Actress (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Live-With-An-Actress-2017-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/tscqsorodkkqfntm/
+
+type=video
+name=Brother Wife 3 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Brother-Wife-3-2016-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/ameqrsdfqrdeqpea/
+
+
+type=video
+name=The Girl Next Door (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/The-Girl-Next-Door-2017-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/ebsaabpdsrpncqno/
+
+type=video
+name=The Photographer (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/The-Photographer-2017-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/abmelbfbnladpbdr/
+
+type=video
+name=El Condor Pasa (2012)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/El-Condor-Pasa-2012-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/mdrcmqkktntokecq/
+
+
+type=video
+name=Mom’s Friend 3 (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Moms-Friend-3-2017-Uncute-1.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/mkrdqmscotnobtqm/
+
+
+
+
+
+
 type=video
 name=148xxxxxxxxxxxxxxxxxxxxUnveiled Before The EVE (2016) [Uncute]
 thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Unveiled-Before-The-EVE-2016-Uncute-1.jpg

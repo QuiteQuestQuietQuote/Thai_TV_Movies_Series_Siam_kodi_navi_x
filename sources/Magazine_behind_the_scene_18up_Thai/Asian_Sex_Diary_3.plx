@@ -58,6 +58,56 @@ URL=
 
 
 
+type=video
+name=120xxxxxxxxxxxxxxxxxxxxAsian Sex Diary Oam 3
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Oam-3.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/qrlqqolbpdfaadln/
+
+type=video
+name=Asian Sex Diary Oam Part 2
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Oam-Part-2.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/nnabfpnrdbkltknp/
+
+type=video
+name=Asian Sex Diary Oam 2
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Oam-2.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/noepmbdmepcrflop/
+
+type=video
+name=Asian Sex Diary Nun Xang Cleaning Lady Wow
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Nun-Xang-Cleaning-Lady-Wow.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/ffoderslflpceldk/
+
+type=video
+name=Asian Sex Diary Nong
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Nong.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/drstdpmcoedmortk/
+
+
+type=video
+name=Asian Sex Diary Noew
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Noew.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/msoqsomqmactoolo/
+
+type=video
+name=Asian Sex Diary Oam
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Oam.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/opbkmrmdrlbaqnfc/
+
+type=video
+name=Asian Sex Diary Noi
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Asian-Sex-Diary-Noi.jpg
+date=2017-11-18
+URL=https://streamcherry.com/embed/qcbkcptnrdcqckaq/
+
+
 
 
 

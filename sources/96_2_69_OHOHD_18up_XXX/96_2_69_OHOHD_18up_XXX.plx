@@ -26,6 +26,16 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
+
+
+type=playlist
+name=96_2_69_OHOHD_31_18up_Asian
+thumb=https://erotic24hr.com/wp-content/uploads/2017/09/Forbidden-Lust-2017-1.jpg
+date=2017-11-04
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_31_18up_Asian.plx
+player=default
+rating=-1.00
+
 type=playlist
 name=96_2_69_OHOHD_30_18up_Inter_Erotic
 thumb=https://2.bp.blogspot.com/-if6Ez3deEjU/WeFU6eZW45I/AAAAAAAAMFo/4ETsGOAMLCYWqUhFVzoctcjrW_Ar5IuiQCLcBGAs/s1600/3SS.jpg
