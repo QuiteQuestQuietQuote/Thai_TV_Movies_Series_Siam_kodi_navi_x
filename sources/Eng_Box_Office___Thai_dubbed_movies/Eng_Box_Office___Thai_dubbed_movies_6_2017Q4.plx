@@ -1030,6 +1030,7 @@ thumb=https://image.tmdb.org/t/p/w640/x9Z40D8vaFJqqtJJrKgkA2B3IBb.jpg
 date=2017-11-16
 URL=https://openload.co/f/h8FHGZPvrHs/1.Buck.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/2Uj0P-FO0OI/1.Buck.2017.BDRip.XviD.AC3-EVO.avi.mp4
+#https://www.blazefile.co/embed-xlpl5h9wgxw1.html   720
 
 type=video
 name=6 Below: Miracle on the Mountain (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
