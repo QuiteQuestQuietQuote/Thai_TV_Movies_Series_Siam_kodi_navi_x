@@ -172,12 +172,7 @@ thumb=https://image.tmdb.org/t/p/w640/z5CtCxpblBke2G8c7CMkstedMgY.jpg
 date=2017-10-25
 URL=https://openload.co/f/157M4f23VP0/Home_Again_2017_HDCAM_x264-DiRG.mp4
 
-type=video
-name=Brawl in Cell Block 99 (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
-date=2017-10-13
-URL=https://openload.co/f/am4891uFxJ4/Brawl.in.Cell.Block.99.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
-#https://openload.co/f/aT6jWYPHnBk/Brawl.in.Cell.Block.99.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+
 
 type=video
 name=American Made (2017) ENG HC.HDRip.X264.AC3-EVO
@@ -200,7 +195,7 @@ type=video
 name=
 thumb=
 date=2017-11-18
-URL=http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8
+URL=
 
 
 
@@ -1139,6 +1134,7 @@ name=Ryde (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/jc5yQmz64cTCGVnep7EIGjuU4tN.jpg
 date=2017-11-07
 URL=https://openload.co/f/p6L94FUjO-I/Ryde.2016.1080p.BluRay.x264.DTS-MT.mkv.mp4
+#https://www.blazefile.co/embed-8mxr6oh7r0zi.html   720
 #https://openload.co/f/cYoxi7rsJu4/Ryde.2016.1080p.WEB-DL.x264.AC3-eSc.mp4.mp4
 #https://openload.co/f/iiabVj8A160/Ryde.2017.BDRip.XviD.AC3-EVO.avi.mp4
 
@@ -1421,6 +1417,7 @@ thumb=https://image.tmdb.org/t/p/w640/yVHF2J5J0DRr0X4kSgzvxJLJuKa.jpg
 date=2017-10-09
 URL=https://openload.co/f/FQDvXkYehl0/The.Night.Watchmen.2017.1080p.BluRay.x264.DTS-LOST.mkv
 #https://openload.co/f/9O1b0Nag7fc/The.Night.Watchmen.2017.1080p.BluRay.x264.DTS-LOST.mkv.mp4
+#https://www.blazefile.co/embed-h9ffhpuucb10.html   720
 
 type=video
 name=Indiscretion (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1927,12 +1924,7 @@ URL=https://www.blazefile.co/embed-bl4p0tpspl9r.html
 #https://openload.co/f/Qvt8KmSjWcI/Gun_Shy_2017_BRRip_XViD-juggs.avi.mp4
 #https://openload.co/f/orjREu8pqr4/Gun.Shy.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 
-type=video
-name=Brigsby Bear (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/ig0W1cGLFyTGQCDMb9xemlOGOBy.jpg
-date=2017-11-03
-URL=https://www.blazefile.co/embed-6kds4lprpqzz.html
-#https://openload.co/f/cI_yBvNmBhM/Brigsby.Bear.2017.720p.BluRay.H264.AAC-RARBG.mp4
+
 
 type=video
 name=Love of My Life (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -2059,8 +2051,9 @@ URL=https://openload.co/f/ZACS8q6mjqE/Thor_Ragnarok_2017_NEW_FULL_HDCAM_ENG_X264
 type=video
 name=Thor: Ragnarok (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
-date=2017-11-04
-URL=https://openload.co/f/1Px-WShSrHo/Thor.Ragnarok.2017.720p.TS.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+date=2017-11-19
+URL=https://openload.co/f/pY7IWR3c-Bg/Thor%3A_Ragnarok_%282017%29%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+#https://openload.co/f/1Px-WShSrHo/Thor.Ragnarok.2017.720p.TS.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 
 
 type=video
@@ -2255,11 +2248,35 @@ type=video
 name=
 thumb=
 date=2017-10-21
-URL=http://0grydx.mcloud.to/1/3YZFaI-PxwSiJIKuU4DgXg/0/c/i/t/jv1wp2/list.m3u8?e=1510786800
+URL=
 
 
 
 
+type=video
+name=Brigsby Bear (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/ig0W1cGLFyTGQCDMb9xemlOGOBy.jpg
+date=2017-11-03
+URL=https://www.blazefile.co/embed-6kds4lprpqzz.html
+#https://openload.co/f/cI_yBvNmBhM/Brigsby.Bear.2017.720p.BluRay.H264.AAC-RARBG.mp4
+type=video
+name=Brigsby Bear (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/ig0W1cGLFyTGQCDMb9xemlOGOBy.jpg
+date=2017-11-19
+URL=https://openload.co/f/JwY0AqV5rPQ/Brigsby_Bear_%282017%29%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%AA%E0%B8%9A%E0%B8%B5%E0%B9%89_%E0%B9%81%E0%B8%9A%E0%B8%A3%E0%B9%8C_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Brawl in Cell Block 99 (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
+date=2017-10-13
+URL=https://openload.co/f/am4891uFxJ4/Brawl.in.Cell.Block.99.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+#https://openload.co/f/aT6jWYPHnBk/Brawl.in.Cell.Block.99.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+type=video
+name=Brawl in Cell Block 99 (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
+date=2017-11-19
+URL=https://openload.co/f/g-h3yWNgLC8/Brawl_in_Cell_Block_99_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
 
 
 type=video
@@ -2912,8 +2929,10 @@ type=video
 name=Annabelle: Creation (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
 date=2017-11-12
-URL=https://openload.co/f/-4W2GB7h6lA/Annabelle.Creation.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
-#https://openload.co/f/1Px7VjoehB8/Annabelle%3A_Creation_%282017%29TH.mp4
+URL=https://openload.co/f/1Px7VjoehB8/Annabelle%3A_Creation_%282017%29TH.mp4
+#https://streamango.com/f/qpmneeoldnoatdlr/_
+#https://openload.co/f/cND80LGMbKo/Annabelle%3A_Creation_%282017%29%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%A5%E0%B9%8C_%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%9C%E0%B8%B5.mp4
+#https://openload.co/f/-4W2GB7h6lA/Annabelle.Creation.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 #https://openload.co/f/0sbYIf_EmNY/Annabelle%3A_Creation_%282017%29%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%A5%E0%B9%8C_%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%9C%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
