@@ -1005,10 +1005,14 @@ URL=
 type=video
 name=
 thumb=
-date=2017-11-16
-URL=
+date=2017-11-19
+URL=https://openload.co/f/-Wx91IiX_jg/Jackals.2017.1080p.BluRay.x264-SADPANDA.mkv.mp4
 
-
+type=video
+name=
+thumb=
+date=2017-11-19
+URL=https://openload.co/f/7XJQMJ_M9tM/behind.the.blue.door.2016.1080p.bluray.x264-rovers.mkv
 
 type=video
 name=Super Dark Times (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
