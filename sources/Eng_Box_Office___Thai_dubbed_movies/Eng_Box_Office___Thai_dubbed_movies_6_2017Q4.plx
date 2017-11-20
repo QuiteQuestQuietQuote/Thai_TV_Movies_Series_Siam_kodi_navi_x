@@ -1005,6 +1005,8 @@ name=Behind the Blue Door (2016) [COLOR=FF00FF00]POL BR 1080p[/COLOR] MKV 6.6GB
 thumb=https://image.tmdb.org/t/p/w640/icoGUUnfQGu9XQJLlDv8zLQdM6N.jpg
 date=2017-11-19
 URL=https://openload.co/f/7XJQMJ_M9tM/behind.the.blue.door.2016.1080p.bluray.x264-rovers.mkv
+#https://openload.co/f/6MjVvzfPjHQ/behind.the.blue.door.2016.1080p.bluray.x264-rovers.mkv.mp4
+#https://www.blazefile.co/embed-h77duvk0g9ns.html   720
 
 type=video
 name=Super Dark Times (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2904,7 +2906,7 @@ type=video
 name=
 thumb=
 date=2017-11-20
-URL=
+URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
