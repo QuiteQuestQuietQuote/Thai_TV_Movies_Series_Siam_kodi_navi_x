@@ -73,12 +73,7 @@ URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.blu
 
 
 
-type=video
-name=Justice League (2017) ENG CAM.XviD-FodeMeuCu
-thumb=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
-date=2017-11-18
-URL=https://openload.co/f/u_m2Yed9uS4/Justice_League.2017.CAM.XviD-FodeMeuCu.mkv.mp4
-#https://openload.co/f/rzw5iUFLhkg/Justice_League.2017.ENG.PROPER.HDCAM-H264.MP3-Zi%2524t.mkv.mp4
+
 
 type=video
 name=Murder on the Orient Express (2017) ENG CAM.XViD.V2-26k
@@ -206,11 +201,7 @@ thumb=https://image.tmdb.org/t/p/w640/oWe95qgWq52M1Prub2F4QkYIADB.jpg
 date=2017-11-18
 URL=https://openload.co/f/Kfu56F0aj0U/Almost.Friends.2016.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
-type=video
-name=Mudbound (2017) ENG NF.WEB-DL.DD5.1.x264-NTG
-thumb=https://image.tmdb.org/t/p/w640/7cL7UgVMeP9xDSxU2NyAqeAQAbt.jpg
-date=2017-11-17
-URL=https://openload.co/f/-CzwyQleoyc/Mudbound.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
+
 
 type=video
 name=Sweet Virginia (2017) EMG WEB-DL.DD5.1.H264-FGT
@@ -780,10 +771,11 @@ date=2017-09-26
 URL=https://openload.co/f/ydS6ih9sgJ0/king.charles.iii.2017.dvdrip.x264-ghouls.mkv.mp4
 
 type=video
-name=The Child in Time (2017) ENG hdtv.h264-mtb
+name=The Child in Time (2017) ENG dvdrip.x264-ghouls
 thumb=https://image.tmdb.org/t/p/w640/kCoCMVvhEmW1Xo0G8oZQH7DDnGP.jpg
-date=2017-09-25
-URL=https://openload.co/f/bPny44tZekE/the.child.in.time.2017.1080p.hdtv.h264-mtb.mkv.mp4
+date=2017-11-20
+URL=https://openload.co/f/1HXKvHwSqkg/the.child.in.time.2017.dvdrip.x264-ghouls.mkv.mp4
+#https://openload.co/f/bPny44tZekE/the.child.in.time.2017.1080p.hdtv.h264-mtb.mkv.mp4
 
 type=video
 name=Andy's Rainbow (2016) ENG WEBRip.x264-iNTENSO
@@ -1003,14 +995,14 @@ date=2017-10-03
 URL=
 
 type=video
-name=
-thumb=
+name=Jackals (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/2Iml1kYUCpDOkfpboU9g1hG9CLh.jpg
 date=2017-11-19
 URL=https://openload.co/f/-Wx91IiX_jg/Jackals.2017.1080p.BluRay.x264-SADPANDA.mkv.mp4
 
 type=video
-name=
-thumb=
+name=Behind the Blue Door (2016) [COLOR=FF00FF00]POL BR 1080p[/COLOR] MKV 6.6GB
+thumb=https://image.tmdb.org/t/p/w640/icoGUUnfQGu9XQJLlDv8zLQdM6N.jpg
 date=2017-11-19
 URL=https://openload.co/f/7XJQMJ_M9tM/behind.the.blue.door.2016.1080p.bluray.x264-rovers.mkv
 
@@ -1396,11 +1388,7 @@ URL=https://www.blazefile.co/embed-m2mhqi70xrkq.html
 #https://openload.co/f/VHPFLpCCxZE/The.Limehouse.Golem.2016.1080p.BluRay.x264.DTS-FGT.mkv.mp4
 #https://www.blazefile.co/embed-viigd589fgws.html
 
-type=video
-name=Bon Cop Bad Cop 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/qY4RGT6Ky1Z46BWaKohTlNp9ncU.jpg
-date=2017-10-11
-URL=https://openload.co/f/B9RmdmacUw4/Bon.Cop.Bad.Cop.2.2017.1080p.BluRay.x264-NODLABS.mkv.mp4
+
 
 type=video
 name=Justice (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2042,6 +2030,21 @@ URL=http://203.162.235.41:17819
 
 
 
+
+type=video
+name=Justice League (2017) ENG NEW_HD-TS_X264_HQ-CPG
+thumb=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
+date=2017-11-20
+URL=https://openload.co/f/X_u6EzKY7ys/Justice_League_2017_NEW_HD-TS_X264_HQ-CPG.mkv.mp4
+#https://openload.co/f/u_m2Yed9uS4/Justice_League.2017.CAM.XviD-FodeMeuCu.mkv.mp4
+#https://openload.co/f/rzw5iUFLhkg/Justice_League.2017.ENG.PROPER.HDCAM-H264.MP3-Zi%2524t.mkv.mp4
+type=video
+name=Justice League (2017) THCAM
+thumb=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
+date=2017-11-20
+URL=https://openload.co/f/XXv5UEq-MzU/Justice_League_%282017%29%E0%B8%88%E0%B8%B1%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%8B_%E0%B8%A5%E0%B8%B5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
+
 type=video
 name=Thor: Ragnarok (2017) ENG NEW_FULL_HDCAM_ENG_X264-DADDY
 thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
@@ -2061,10 +2064,11 @@ URL=https://openload.co/f/pY7IWR3c-Bg/Thor%3A_Ragnarok_%282017%29%E0%B8%A8%E0%B8
 
 
 type=video
-name=Geostorm (2017) ENG CAM.XViD-26k
+name=Geostorm (2017) ENG HDRip.KORSUB.x264
 thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
-date=2017-10-26
-URL=https://openload.co/f/WTrxZvQ3bcA/Geostorm.2017.CAM.XViD-26k.avi.mp4
+date=2017-11-20
+URL=https://openload.co/f/LlMu3K9_im8/Geostorm.2017.720p.HDRip.KORSUB.x264.mp4
+#https://openload.co/f/WTrxZvQ3bcA/Geostorm.2017.CAM.XViD-26k.avi.mp4
 #https://openload.co/f/KoOE2nWVFFk/Geostorm_2017_CLEAN_SoundFix_HDCAM_ENG_X264_-_Feel.Free.mp4
 #https://openload.co/f/r8oWRvUiE7U/Geostorm_2017_HDCAM_ENG_X264-Feel_Free.mkv.mp4
 type=video
@@ -2146,11 +2150,7 @@ date=2017-10-10
 URL=https://openload.co/f/xnQIzCCvlFQ/The_Foreigner_%282017%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
-type=video
-name=Paradox (2017) TH CAM
-thumb=https://image.tmdb.org/t/p/w640/9e7X4NjnioUoLMR74d0fUW1WSp9.jpg
-date=2017-10-10
-URL=https://openload.co/f/ZUSwNylVnPg/Paradox_%282017%29%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94_%E0%B8%8B%E0%B8%B1%E0%B8%94_%E0%B8%94%E0%B8%B4%E0%B8%9A_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
 
 
 type=video
@@ -2255,6 +2255,29 @@ date=2017-10-21
 URL=
 
 
+
+type=video
+name=Bon Cop Bad Cop 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/qY4RGT6Ky1Z46BWaKohTlNp9ncU.jpg
+date=2017-10-11
+URL=https://openload.co/f/B9RmdmacUw4/Bon.Cop.Bad.Cop.2.2017.1080p.BluRay.x264-NODLABS.mkv.mp4
+type=video
+name=Bon Cop Bad Cop 2 (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/qY4RGT6Ky1Z46BWaKohTlNp9ncU.jpg
+date=2017-11-20
+URL=https://openload.co/f/FpZMt9Gz8jQ/Bon_Cop_Bad_Cop_2_%282017%29%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%81%E0%B8%B3%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%99%E0%B8%A3%E0%B8%81_2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Mudbound (2017) ENG NF.WEB-DL.DD5.1.x264-NTG
+thumb=https://image.tmdb.org/t/p/w640/7cL7UgVMeP9xDSxU2NyAqeAQAbt.jpg
+date=2017-11-17
+URL=https://openload.co/f/-CzwyQleoyc/Mudbound.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
+type=video
+name=Mudbound (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/7cL7UgVMeP9xDSxU2NyAqeAQAbt.jpg
+date=2017-11-20
+URL=https://openload.co/f/H63taH50-tE/Mudbound_%282017%29%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -2743,7 +2766,12 @@ date=2017-09-06
 URL=https://openload.co/f/HZM0_zLA9Ew/Security.2017.720p.WEB-DL.DD5.1.H264.ThaiRong5.1_CpT%40CtHts.mkv.mp4
 
 
-
+type=video
+name=Paradox (2017) TH CAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/9e7X4NjnioUoLMR74d0fUW1WSp9.jpg
+date=2017-11-20
+URL=https://openload.co/f/Pv0JpdraClA/Paradox.2017.4K.2160p.WEB-DL.x264.AC-3.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+#https://openload.co/f/ZUSwNylVnPg/Paradox_%282017%29%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94_%E0%B8%8B%E0%B8%B1%E0%B8%94_%E0%B8%94%E0%B8%B4%E0%B8%9A_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
 
@@ -2875,22 +2903,30 @@ URL=
 type=video
 name=
 thumb=
-date=2017-11-15
+date=2017-11-20
 URL=
 
 
 
 type=video
+name=Irrational Man (2015) TH
+thumb=https://image.tmdb.org/t/p/w640/aBHkXfleH4MBTUqrCQYCIGbp9Fd.jpg
+date=2017-11-20
+URL=https://openload.co/f/d_zpw10LDlo/Irrational_Man_%282015%29%E0%B8%AD%E0%B8%B4%E0%B9%80%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B8%A5_%E0%B9%81%E0%B8%A1%E0%B8%99.mp4
+
+type=video
 name=Peach Girl (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/2tmEMKZlxMZjBCjKfnZGRhjV3VP.jpg
-date=2017-11-15
-URL=https://openload.co/f/HJLIjWXVpiQ/Peach_Girl_%282017%29_TH.mp4
+date=2017-11-20
+URL=https://openload.co/f/4ZNKcOjkO9I/Peach_Girl_%282017%29%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
+#https://openload.co/f/HJLIjWXVpiQ/Peach_Girl_%282017%29_TH.mp4
 
 type=video
 name=Bad Genius (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/mgyvwqn5SYKhfg5kofZDfgH8R0q.jpg
-date=2017-11-15
-URL=https://openload.co/f/oRz7Tgi0FiA/Bad_Genius_%282017%29_TH.mp4
+date=2017-11-20
+URL=https://openload.co/f/73WSws3H0GU/Bad_Genius_%282017%29%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87.mp4
+#https://openload.co/f/oRz7Tgi0FiA/Bad_Genius_%282017%29_TH.mp4
 #https://openload.co/f/epxW0qa85XA/Bad_Genius_%282017%29%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 #https://openload.co/f/M0H0ERU8I5I/%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87_Bad_Genius_2017
 
@@ -2908,8 +2944,9 @@ URL=https://www.blazefile.co/embed-1wsrgoe1ue1s.html
 type=video
 name=Cars 3 (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
-date=2017-11-13
-URL=https://openload.co/f/R_9ewXbWxAo/Car.3.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+date=2017-11-20
+URL=https://openload.co/f/VUgiJZq4ZQM/Cars_3_%282017%29%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87_%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C%2Cmp4
+#https://openload.co/f/R_9ewXbWxAo/Car.3.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 #https://openload.co/f/xwtBFTGBc9g/Cars_3_%282017%29_TH.mp4
 #https://openload.co/f/9d6mOy0XXNo/Cars_3_%282017%29_THCAM_SOUND%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87_%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://openload.co/f/MfVdbZOm-SQ/Cars.3.2017.1080p.BluRay.H264.AC-3_ThaiRong5.1_CpT%40CtHts.mkv.mp4
