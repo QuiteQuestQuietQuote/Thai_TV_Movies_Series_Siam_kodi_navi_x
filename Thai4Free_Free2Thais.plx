@@ -53,7 +53,7 @@ URL=script.module.youtube.dl
 type=video
 name=[COLOR=FFFF5733]Before using download, install youtube-dl Control (install from repo > kodi add-on repo > program add-ons > youtube-dl control)[/COLOR]
 thumb=https://superrepo.org/static/images/icons/original/xscript.module.youtube.dl.png.pagespeed.ic.Ekbm5iK2S_.png
-URL=
+URL=http://123.27.175.6:4022/rtp/232.84.1.76:8430
 player=default
 rating=-1.00
 description=Before using download, must install youtube-dl Control (install from repo > kodi add-on repo > program add-ons > youtube-dl control)/description
@@ -61,7 +61,7 @@ description=Before using download, must install youtube-dl Control (install from
 type=video
 name=[COLOR=FFFF5733](install from repo > kodi add-on repo > program add-ons > youtube-dl control)[/COLOR]
 thumb=https://superrepo.org/static/images/icons/original/xscript.module.youtube.dl.png.pagespeed.ic.Ekbm5iK2S_.png
-URL=
+URL=http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/index.m3u8
 player=default
 rating=-1.00
 description=Before using download, must install youtube-dl Control (install from repo > kodi add-on repo > program add-ons > youtube-dl control)/description
