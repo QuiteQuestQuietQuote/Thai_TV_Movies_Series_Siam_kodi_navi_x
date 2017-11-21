@@ -162,18 +162,20 @@ date=2017-10-22
 URL=https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
 
 type=video
-name=Home Again (2017) ENG HDCAM_x264-DiRG
+name=Home Again (2017) ENG WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/z5CtCxpblBke2G8c7CMkstedMgY.jpg
-date=2017-10-25
-URL=https://openload.co/f/157M4f23VP0/Home_Again_2017_HDCAM_x264-DiRG.mp4
+date=2017-11-21
+URL=https://openload.co/f/1vtPT45FBrk/Home.Again.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/157M4f23VP0/Home_Again_2017_HDCAM_x264-DiRG.mp4
 
 
 
 type=video
-name=American Made (2017) ENG HC.HDRip.X264.AC3-EVO
+name=American Made (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
-date=2017-10-13
-URL=https://openload.co/f/8cEt2bAPp34/American.Made.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+date=2017-11-21
+URL=https://openload.co/f/8SeCnhUbges/American.Made.2017.HDRip.XviD.AC3-EVO.avi
+#https://openload.co/f/8cEt2bAPp34/American.Made.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 
 type=video
 name=mother! (2017) ENG HDCAM X264 HQMic-NoGRP
@@ -189,11 +191,21 @@ URL=https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
 type=video
 name=
 thumb=
-date=2017-11-18
+date=2017-11-21
 URL=
 
 
+type=video
+name=Hangman (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/cf720YwBmp0roCVfBWjGXoWzZ6C.jpg
+date=2017-11-21
+URL=https://openload.co/f/MAjYkSAfDrw/Hangman.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
+type=video
+name=Crooked House (2017) ENG WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/3qbm4UsYoOEiJAmfKrgo0rLnfRI.jpg
+date=2017-11-21
+URL=https://openload.co/f/2O-YHDEXidA/Crooked.House.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
 name=Almost Friends (2017) ENG WEB-DL.DD5.1.H264-FGT
@@ -2171,10 +2183,11 @@ URL=https://storage.googleapis.com/mlk-s/skl9ae2qp/KINGSMAN%20THE%20GOLDEN%20CIR
 
 
 type=video
-name=American Assassin (2017) ENG HD-TS_x264-UNiQUE
+name=American Assassin (2017) ENG WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
-date=2017-09-25
-URL=https://openload.co/f/mmAJmFRU03g/American_Assassin_2017_HD-TS_x264-UNiQUE.mkv.mp4
+date=2017-11-21
+URL=https://openload.co/f/SBpzxifbzE0/American.Assassin.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/mmAJmFRU03g/American_Assassin_2017_HD-TS_x264-UNiQUE.mkv.mp4
 type=video
 name=American Assassin (2017) TH CAM
 thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg

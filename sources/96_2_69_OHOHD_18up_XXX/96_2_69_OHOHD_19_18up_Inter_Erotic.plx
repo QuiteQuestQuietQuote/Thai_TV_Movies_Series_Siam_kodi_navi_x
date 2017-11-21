@@ -50,9 +50,15 @@ URL=https://www.rapidvideo.com/?v=FJU3TNCAUT
 type=video
 name=
 thumb=
-date=2017-11-16
+date=2017-11-21
 URL=
 
+
+type=video
+name=Aria (1987)
+thumb=https://image.tmdb.org/t/p/w640/8e3kgh2NUGyI092TjGiG0XJO6vG.jpg
+date=2017-11-21
+URL=https://openload.co/f/7Ht8H1ljh04/Aria.1987.INTERNAL.BDRip.x264-RedBlade.mkv.mp4
 
 type=video
 name=Serpent (2017)
