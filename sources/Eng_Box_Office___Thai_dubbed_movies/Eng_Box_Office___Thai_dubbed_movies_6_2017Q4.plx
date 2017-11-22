@@ -65,7 +65,7 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-11-13
+date=2017-11-22
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
@@ -82,6 +82,13 @@ date=2017-11-14
 URL=https://openload.co/f/Z-xgjsHstE8/Murder.On.The.Orient.Express.2017.CAM.XViD.V2-26k.avi.mp4
 #https://openload.co/f/Kw3jLB0wT6w/Murder_on_the_Orient_Express_%282017%29.ENG.CAM.H264.AC3-Zi%24t.mkv.mp4
 
+
+type=video
+name=The Star (2017) ENG NOLOGO.HDTS.x264.AAC-AvEnTaD0R
+thumb=https://image.tmdb.org/t/p/w640/tEbDvivUfsCupngKIfMJJ725eAD.jpg
+date=2017-11-22
+URL=https://openload.co/f/tYe0V1V8qcg/The.Star.2017.NOLOGO.HDTS.x264.AAC-AvEnTaD0R.mp4
+
 type=video
 name=You Were Never Really Here (2017) FRENCH.CAM.MD.XViD_STVFRV.E
 thumb=https://image.tmdb.org/t/p/w640/fvW4XbwdzWB5nCvSMA3ZDCZslCx.jpg
@@ -97,7 +104,7 @@ URL=https://openload.co/f/ATcNn-EpPjg/Boo_2_A_Madea_Halloween.2017.CAM.READNFO.X
 
 type=video
 name=S.M.A.R.T. Chase (2017) RUS
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BZGY4M2Q3YjYtODI1Zi00NTMwLWE0NmItYWRkNDBmYmNjMDE0XkEyXkFqcGdeQXVyNjMwNTM2NTE@._V1_SY1000_SX675_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w640/evmF30lGgts0lup6X2XMdXpDfem.jpg
 date=2017-11-08
 URL=http://entervideo.net/watch/663df7b4d19c193
 #https://openload.co/f/0CIUo1iyESA/SMART.Chase.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
@@ -1237,6 +1244,7 @@ thumb=https://image.tmdb.org/t/p/w640/nZdifMku2bcZKZCu7xyrVEU09Le.jpg
 date=2017-11-22
 URL=https://openload.co/f/ODliFn0IvSk/hickok.2017.1080p.bluray.x264-rusted.mkv.mp4
 #https://openload.co/f/29kXZgp_59w/Hickok.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://www.blazefile.co/embed-tqewakmwifrv.html   720
 
 type=video
 name=The Vault (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2078,20 +2086,7 @@ URL=https://openload.co/f/pY7IWR3c-Bg/Thor%3A_Ragnarok_%282017%29%E0%B8%A8%E0%B8
 #https://openload.co/f/1Px-WShSrHo/Thor.Ragnarok.2017.720p.TS.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 
 
-type=video
-name=Geostorm (2017) ENG HDRip.KORSUB.x264
-thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
-date=2017-11-20
-URL=https://openload.co/f/LlMu3K9_im8/Geostorm.2017.720p.HDRip.KORSUB.x264.mp4
-#https://openload.co/f/WTrxZvQ3bcA/Geostorm.2017.CAM.XViD-26k.avi.mp4
-#https://openload.co/f/KoOE2nWVFFk/Geostorm_2017_CLEAN_SoundFix_HDCAM_ENG_X264_-_Feel.Free.mp4
-#https://openload.co/f/r8oWRvUiE7U/Geostorm_2017_HDCAM_ENG_X264-Feel_Free.mkv.mp4
-type=video
-name=Geostorm (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
-date=2017-10-30
-URL=https://openload.co/f/Tn46uIRSZrI/Geostorm_%282017%29_THCAM%E0%B8%88%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1_%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B2%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
-#https://openload.co/f/WD8CFEMyanY/Geostorm.2017.HDCAM.X264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+
 
 
 type=video
@@ -2183,19 +2178,7 @@ URL=https://storage.googleapis.com/mlk-s/skl9ae2qp/KINGSMAN%20THE%20GOLDEN%20CIR
 #https://streamango.com/f/amlbkcpmdsoaobqm/Kingsman_The_Golden_Circle_2017_TS_720p_ThaiRong_2_0_CpT_CtHts_mkv_mp4
 
 
-type=video
-name=American Assassin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
-date=2017-11-22
-URL=https://openload.co/f/ihjSbfIuHhA/american.assassin.2017.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/SBpzxifbzE0/American.Assassin.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/mmAJmFRU03g/American_Assassin_2017_HD-TS_x264-UNiQUE.mkv.mp4
-type=video
-name=American Assassin (2017) TH CAM
-thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
-date=2017-11-05
-URL=https://openload.co/f/fp2H3OWSVWA/American.Assassin.2017.HD-TS.x264.ThaiRong.AAC.2.0_CpT%40CtHts.mkv.mp4
-#https://openload.co/f/Elw1WEIapq8/American_Assassin_%282017%29%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%86%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
 
 
 
@@ -2633,7 +2616,38 @@ URL=
 
 
 
+type=video
+name=American Assassin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
+date=2017-11-22
+URL=https://www.blazefile.co/embed-6y0w4fqm2z7m.html
+#https://openload.co/f/ihjSbfIuHhA/american.assassin.2017.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/SBpzxifbzE0/American.Assassin.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/mmAJmFRU03g/American_Assassin_2017_HD-TS_x264-UNiQUE.mkv.mp4
+type=video
+name=American Assassin (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
+date=2017-11-22
+URL=https://streamango.com/f/srtfpdsfotrkstqr/American_Assassin_mp4
+#https://openload.co/f/fp2H3OWSVWA/American.Assassin.2017.HD-TS.x264.ThaiRong.AAC.2.0_CpT%40CtHts.mkv.mp4
+#https://openload.co/f/Elw1WEIapq8/American_Assassin_%282017%29%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%86%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
+
+type=video
+name=Geostorm (2017) ENG HDRip.KORSUB.x264
+thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
+date=2017-11-20
+URL=https://openload.co/f/LlMu3K9_im8/Geostorm.2017.720p.HDRip.KORSUB.x264.mp4
+#https://openload.co/f/WTrxZvQ3bcA/Geostorm.2017.CAM.XViD-26k.avi.mp4
+#https://openload.co/f/KoOE2nWVFFk/Geostorm_2017_CLEAN_SoundFix_HDCAM_ENG_X264_-_Feel.Free.mp4
+#https://openload.co/f/r8oWRvUiE7U/Geostorm_2017_HDCAM_ENG_X264-Feel_Free.mkv.mp4
+type=video
+name=Geostorm (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
+date=2017-11-22
+URL=https://streamango.com/f/beosqlaslklssmcc/Geostorm_mp4
+#https://openload.co/f/Tn46uIRSZrI/Geostorm_%282017%29_THCAM%E0%B8%88%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1_%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B2%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+#https://openload.co/f/WD8CFEMyanY/Geostorm.2017.HDCAM.X264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 
 
 type=video
