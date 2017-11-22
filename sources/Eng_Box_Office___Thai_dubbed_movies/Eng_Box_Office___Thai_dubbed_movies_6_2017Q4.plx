@@ -1234,8 +1234,9 @@ URL=https://www.blazefile.co/embed-i0glp139c2y6.html
 type=video
 name=Hickok (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/nZdifMku2bcZKZCu7xyrVEU09Le.jpg
-date=2017-10-30
-URL=https://openload.co/f/29kXZgp_59w/Hickok.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2017-11-22
+URL=https://openload.co/f/ODliFn0IvSk/hickok.2017.1080p.bluray.x264-rusted.mkv.mp4
+#https://openload.co/f/29kXZgp_59w/Hickok.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Vault (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2183,10 +2184,11 @@ URL=https://storage.googleapis.com/mlk-s/skl9ae2qp/KINGSMAN%20THE%20GOLDEN%20CIR
 
 
 type=video
-name=American Assassin (2017) ENG WEB-DL.H264.AC3-EVO
+name=American Assassin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
-date=2017-11-21
-URL=https://openload.co/f/SBpzxifbzE0/American.Assassin.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2017-11-22
+URL=https://openload.co/f/ihjSbfIuHhA/american.assassin.2017.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/SBpzxifbzE0/American.Assassin.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/mmAJmFRU03g/American_Assassin_2017_HD-TS_x264-UNiQUE.mkv.mp4
 type=video
 name=American Assassin (2017) TH CAM
