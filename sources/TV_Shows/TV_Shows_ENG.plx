@@ -62,6 +62,14 @@ player=default
 rating=-1.00
 
 type=playlist
+name=Godless (2017)
+thumb=https://image.tmdb.org/t/p/w640/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg
+date=2017-11-22
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Godless.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=Gunpowder (2017)
 thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BNDc2ZWYxYjAtNDY1Mi00MGNiLWFmMmQtZGE2ODkxMzc0OGVjXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SY1000_CR0,0,732,1000_AL_.jpg
 date=2017-10-23
