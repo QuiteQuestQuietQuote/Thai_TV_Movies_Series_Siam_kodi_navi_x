@@ -65,7 +65,7 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-11-22
+date=2017-11-23
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
@@ -73,7 +73,11 @@ URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.blu
 
 
 
-
+type=video
+name=Paddington 2 (2017) ITA
+thumb=https://image.tmdb.org/t/p/w640/bU5pSpQfXRmqDd6jthmP8iWJOjd.jpg
+date=2017-11-23
+URL=https://openload.co/f/O5MG7v4Xa2E/Paddington.2.2017.iTALiAN.LD.TELESYNC.XviD_CriMiNaL.mp4
 
 type=video
 name=Murder on the Orient Express (2017) ENG CAM.XViD.V2-26k
@@ -2627,8 +2631,9 @@ URL=https://www.blazefile.co/embed-6y0w4fqm2z7m.html
 type=video
 name=American Assassin (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
-date=2017-11-22
-URL=https://streamango.com/f/srtfpdsfotrkstqr/American_Assassin_mp4
+date=2017-11-23
+URL=https://openload.co/f/Pm01TkG45eQ/American_Assassin_%282017%29%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%86%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/srtfpdsfotrkstqr/American_Assassin_mp4
 #https://openload.co/f/fp2H3OWSVWA/American.Assassin.2017.HD-TS.x264.ThaiRong.AAC.2.0_CpT%40CtHts.mkv.mp4
 #https://openload.co/f/Elw1WEIapq8/American_Assassin_%282017%29%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%86%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
@@ -2661,8 +2666,9 @@ URL=https://www.blazefile.co/embed-gxg3f8m1pyvw.html
 type=video
 name=Valerian and the City of a Thousand Planets (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
-date=2017-11-04
-URL=https://openload.co/f/j6vkpieqZN0/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.KORSUB.HDRip.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+date=2017-11-23
+URL=https://openload.co/f/WryZw7hqgJE/Valerian.and.the.City.of.a.Thousand.Planets.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+#https://openload.co/f/j6vkpieqZN0/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.KORSUB.HDRip.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 #https://openload.co/f/FKGfCtNNLPM/Valerian.2017.CAM.READNFO.XViD.AC3.ThaiRong_CpT%40CtHts.mkv.mp4
 
 
