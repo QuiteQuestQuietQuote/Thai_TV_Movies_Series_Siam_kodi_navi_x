@@ -50,7 +50,7 @@ http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
 
 
 #EXTINF:-1,MONEY CHANNEL
-http://191.96.38.61:443/news/money_channel_480p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/news/money_channel_480p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 
 
@@ -76,7 +76,7 @@ http://203.162.235.41:17819
 
 
 #EXTINF:-1,CHANNEL 3
-http://191.96.38.61:443/tvdigital/3_hd_720p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/tvdigital/3_hd_720p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 #EXTINF:-1,CHANNEL 3
 http://27.254.63.132:1935/live/_definst_/3hd.stream/playlist.m3u8?username=test&password=asdfasdfasdf
@@ -88,7 +88,7 @@ http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
 
 
 #EXTINF:-1,CHANNEL 7
-http://191.96.38.61:443/tvdigital/7_hd_720p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/tvdigital/7_hd_720p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 
 
@@ -106,7 +106,7 @@ http://symc-cdn05.bkk02.violin.co.th:1935/liveedge/308806374084_600/playlist.m3u
 
 
 #EXTINF:-1,CH 3 family
-http://191.96.38.61:443/tvdigital/3_family_480p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/tvdigital/3_family_480p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 
 
@@ -142,7 +142,7 @@ http://stream.rs.co.th/ch8-hi/index.m3u8
 
 
 #EXTINF:-1,CH 3 SD
-http://191.96.38.61:443/tvdigital/3_sd_480p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/tvdigital/3_sd_480p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 
 
@@ -276,6 +276,379 @@ http://203.162.235.41:17819
 
 
 
+
+#EXTINF:-1,CH3 HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_3hd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,CH5 HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_2tv5_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,CH7 HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/0x777_7hd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,MCOT HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_mcothd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,CH3 SD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_3sd_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,CH 3 FAMILY
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_3fam_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,MCOT Family
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_mcotfam_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,NBT
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_2nbt_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,NewTV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_tvdigital_newtv_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,NOW26
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_tvdigital_now_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,ONE HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_tvdigital_one_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Spring News
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_springnews_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Bright TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_tvdigital_bright_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Workpoint TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_tvdigital_workpointtv_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Nation TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_nation_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Thairath TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_tvdigital_thairath_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Amarin TV HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_tvdigital_amarin_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Mono29
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_tvdigital_mono_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,PPTV HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_tvdigital_pptv_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Maya
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_mcot1_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,GMM channel
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_gmm25_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True4U
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_true4u_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Plookpanya
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_tppy_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,VOICE
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_voice_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,CH8
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x777_tvdigital_ch8_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,You Channel
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_youchannel_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,TNN24
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_tnn24_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Money Channel
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_moneychannel_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,TNN2
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_tnn2_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,M Channel
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_mchannel_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,JKN TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_jkn_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,T-Sports
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x539_tsports_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,SMM TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_smmtv_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Miracle TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_miracle_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Reality TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_real_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Chic's TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_chicchannel_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Superbunteung TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_superbunteng_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Travel TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_travelchannel_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,TGN TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_tgn_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,TGN2 TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_tgn2_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,SME TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_smechannel_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,ETV Channel
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_etv_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Nick Jr.
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_nickjrthai_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Spark play
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_spark_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Spark Jump
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_sparkjump_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Disney Channel
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_disney_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Discovery Kids
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_discoverykids_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Toonami
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x222_toonami_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Boomerang
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_boomerang_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Gang Cartoon
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_gangcartoon_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Movie Hits
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_moviehits_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Thai Film
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_2thaifilm_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Film Asia
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_filmasia_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Asian Series
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_2asianseries_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Music
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_2music_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Trace Urban
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_traceurbanhd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Fashion TV HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_fashiontvsd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True X-zyte
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_xzyte_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Asian Food Channel
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_homeandfood_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Very TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_very_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,MTV Asia
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_mtvasia_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,MTV Live HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_mtvlivehd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,MTV China
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_mtvchina_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Channel V Thailand
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_chvinter_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Explore Wild
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_exp1_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Explore Life
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_exp2_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Explore Sci
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_exp3_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,RAMA
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_rama_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Discovery Channel
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/00_dischannel_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,TLC
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_tlc_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Animal Planet
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_animalplanet_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,BBC Earth
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_bbcearth_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Discovery Science
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_dissci_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,EVE
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x222_evehd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,DMAX
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_dmaxhd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,KBS World
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_kbs_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Celeatial Classic Movies
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/%200x222_ccm_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,AXN HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/%200x777_axnhd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,BBC Life Style
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x222_lifestylehd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Discovery Asia
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_discoveryworldhd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,History Channel
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_historyhd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,H2 Channel
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_h2hd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,National Geographic
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_natgeographic_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,National Geographic People
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_natgeopeople_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,National Geographic Wild
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_natgeowild_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,FYI
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_fyihdthai_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,CI HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_cihd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,HBO HD TH
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_hbohdth_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,HBO HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_hbohd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,HBO Signature
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_hbosignature_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,HBO Family
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_hbofam_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,HBO Hits
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_hbohit_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Cinemax
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_cinemax_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Red by HBO
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_redbyhbo_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,FOX Thai
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_foxthai_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Fox Action Movies HD TH
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_foxactionmovieth_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Fox Action Movies HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_foxactionmovieen_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Fox Family Movies HD TH
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_foxfamth_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Fox Family Movies HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_foxfamen_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Fox Movies Premium HD TH
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_foxpremiumth_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Fox Movies Premium HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/0x777_foxpremiumtruly_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Fox Crime
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_foxcrimehdthai_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Thrill
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_thrill_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Starworld
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_starworldhdthai_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,FX
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_fxthailand_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Warner TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x777_warnertv_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Samrojlok
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_samrujlok_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,MyScience HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x222_mysci_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Doonee HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_doonee_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Zeenung HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_zeenung_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,CCTV4
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_cctv_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Arirang
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_arirang_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,DW
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_dwchannel_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,NHK World TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_nhkworldtv_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Euronews
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_euronews_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Channel NewsAsia
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_newsasia_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Sky News HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_skynewshd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Fox News HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_foxnewsthai_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Star Chinese Channel
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_scc_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,GVTV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_gvtv_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,GVV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_gvv_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,GVX
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_gvx_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,TrueSport HD1
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x777_2sporthd1_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,TrueSport HD2
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x777_2sporthd2_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,TrueSport HD3
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x777_2sporthd3_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,TrueSport HD4
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x777_2sporthd4_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Sport 1
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_2sport1_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Sport 2
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_2sport2_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Sport 3
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_2sport3_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Sport 5
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_2sport5_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Sport 6
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_2sport6_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,True Sport 7
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_2sport7_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,NBA TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x777_2nba_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Golf Channel
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x777_golfchannel_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,beIN Sports1
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/0x777_beinsport1_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,beIN Sports2
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/0x777_beinsporthd2_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,beIN Sports3
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/0x777_beinsporthd3_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,beIN Sports4
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/0x777_beinsporthd4_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,beIN Sports5
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/0x222_beinsporthd5_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,beIN Sports6
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/0x222_beinsporthd6_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,FOX Sports HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x777_foxsport1_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,FOX Sports1
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x777_foxsport1_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,FOX Sports2
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_foxsport2_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,FOX Sports3
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_foxsport3_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Fight Sport
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_fightsport_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,PRTV 1
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/0x777_prtv_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,PRTV 2
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/0x777_prtv2_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,PRTV 3
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/0x777_prtv3_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh3
+#EXTINF:-1,AIS Futsal
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_futsal_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Speed Channel
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_speedchannel_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,SiamSport News
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_siamsportnews_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Siamsport Football
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_siamsportfootball_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,MUTV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x444_mutv_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,LFCTV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x444_lfctv_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Chelsea TV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x444_chelseatv_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Skynet Sport HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_skynetsporthd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Skynet Sport1
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/00_skynetsport1_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Skynet Sport2
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/00_skynetsport2_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Skynet Sport3
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/00_skynetsport3_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Skynet Sport4
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/00_skynetsport4_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Skynet Sport5
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/00_skynetsport5_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Skynet Sport6
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/00_skynetsport6_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,EuroSport HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/0x777_eurosport_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,EuroSport1
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x444_eurosportuk1_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,EuroSport2
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x444_eurosportuk2_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,ESPN HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_espnhd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Sony ESPN HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x222_sonyespn_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Sony Six HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x222_sonysix_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,BT Sport1 HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x444_btsport1manic_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,BT Sport2 HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x444_btsport2manic_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,BT Sport3 HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x444_btsport3manic_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,BT Sport ESPN HD
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet3/0x444_btsportespnmanic_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,SPORT TV1
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x444_sporttv1_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,SPORT TV2
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x444_sporttv2_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,SPORT TV3
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x444_sporttv3_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,SPORT TV4
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x444_sporttv4_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,SPORT TV5
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x444_sporttv5_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,Polsat Sport
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x444_polsatpo_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,PFC Sport
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x444_pfc_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,SporTV
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x444_sportv1br_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,TSN1 Canada
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x444_tsn1_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,TSN2 Canada
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x444_tsn2_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,TSN3 Canada
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x444_tsn3_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,TeleClub Sport 1
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x444_teleclub1sw_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,TeleClub Sport 2
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x444_teleclub2sw_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+#EXTINF:-1,eir Sport 2
+http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x444_eirsport2_360p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
 
 
 
@@ -847,25 +1220,25 @@ http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=te
 http://27.254.63.132:1935/live/_definst_/movie3.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 #EXTINF:-1,HBO HD
-http://191.96.38.61:443/movie/hbo_hd_720p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/movie/hbo_hd_720p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 #EXTINF:-1,HBO Hits
-http://191.96.38.61:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 #EXTINF:-1,HISTORY
-http://191.96.38.61:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 #EXTINF:-1,Cinemax
-http://191.96.38.61:443/movie/cinemax_720p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/movie/cinemax_720p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 #EXTINF:-1,Fox Mov Pre HD 
-http://191.96.38.61:443/movie/fox_movies_premium_hd_720p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/movie/fox_movies_premium_hd_720p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 #EXTINF:-1,Doonee HD
-http://191.96.38.61:443/movie/ais_doonee_720p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/movie/ais_doonee_720p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 #EXTINF:-1,RED by HBO
-http://191.96.38.61:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 
 
@@ -873,22 +1246,22 @@ http://191.96.38.61:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=sipvV55m-R
 
 
 #EXTINF:-1,discovery_hd_world
-http://191.96.38.61:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 #EXTINF:-1,history_channel
-http://191.96.38.61:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 #EXTINF:-1,national_geographic
-http://191.96.38.61:443/documentary/national_geographic_hd_720p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/documentary/national_geographic_hd_720p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 #EXTINF:-1,national_geographic_people
-http://191.96.38.61:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 #EXTINF:-1,discovery_science
-http://191.96.38.61:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 #EXTINF:-1,discovery_channel
-http://191.96.38.61:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 
 
@@ -898,11 +1271,11 @@ rtmp://tv01.thaizatv.com/drm/movie1
 
 
 #EXTINF:-1,discovery_science
-http://191.96.38.61:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 #EXTINF:-1,discovery_channel
-http://191.96.38.61:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 #EXTINF:-1,national_geographic_people
-http://191.96.38.61:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=sipvV55m-RInMKnH89WfkA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd609a3045527c9a4ee36&e=1511390110
+http://191.96.38.61:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=nz5NNs8xW-rqOxfA_qwD7A&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmbe9ec9b14e27633349c2&e=1511476384
 
 
 
