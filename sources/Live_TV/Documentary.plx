@@ -49,17 +49,17 @@ type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://vps105431.vps.ovh.ca/hls/4K.m3u8
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/00_dischannel_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://14.188.64.55:4022/rtp/232.84.1.19:8088
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_discoveryworldhd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=2017-09-25
-URL=http://14.188.64.55:4022/rtp/232.84.1.9:8028
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_historyhd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
 
 
 
@@ -190,36 +190,17 @@ type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://14.188.64.55:4022/rtp/232.84.1.20:8094
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_natgeographic_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://14.188.64.55:4022/rtp/232.84.1.14:8058
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_natgeopeople_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://14.188.64.55:4022/rtp/232.84.2.130:9576
-
-
-
-
-type=video
-name=-----------------------------------------------------------------------------------------
-thumb=
-date=
-URL=http://14.188.64.55:4022/rtp/232.84.2.120:8448
-type=video
-name=-----------------------------------------------------------------------------------------
-thumb=
-date=
-URL=http://14.188.64.55:4022/rtp/232.84.1.16:8070
-type=video
-name=-----------------------------------------------------------------------------------------
-thumb=
-date=
-URL=http://14.188.64.55:4022/rtp/232.84.1.18:8082
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_hbohdth_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
 
 
 
@@ -228,17 +209,36 @@ type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://14.188.64.55:4022/rtp/232.84.2.126:8076
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_hbohit_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://14.188.64.55:4022/rtp/232.84.2.233:10416
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_foxactionmovieth_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_foxpremiumth_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+
+
+
+
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_samrujlok_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
+type=video
+name=-----------------------------------------------------------------------------------------
+thumb=
+date=
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x222_mysci_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=2017-09-25
-URL=http://14.188.64.55:4022/rtp/232.84.1.72:8406
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/0x222_ais_doonee_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
 
 
 
@@ -249,17 +249,17 @@ type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://14.188.64.55:4022/rtp/232.84.1.1:7980
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_homeandfood_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://14.188.64.55:4022/rtp/232.84.1.76:8430
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_moneychannel_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://14.188.64.55:4022/rtp/232.84.1.47:8262
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet136/00_disney_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
 
 
 
@@ -269,17 +269,17 @@ type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://14.188.64.55:4022/rtp/232.84.2.129:9570
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet54/0x222_fashiontvsd_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://14.188.64.55:4022/rtp/232.84.1.78:8442
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet53/00_exp3_480p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://14.188.64.55:4022/rtp/232.84.1.2:7986
+URL=http://seedbet.ddns.net:443////////////////////////////////////////////////////////seedbet41/0x777_dissci_720p/playlist.m3u8?key=1pm9w3wv2jqd8d6n6mvsqjrh
 
 
 
