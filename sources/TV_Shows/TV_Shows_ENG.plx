@@ -30,6 +30,14 @@ player=default
 rating=-1.00
 
 type=playlist
+name=Cable Girls (2017)
+thumb=https://image.tmdb.org/t/p/w640/2QZzVoZEHTZgj5KrhCHkcUr2ITU.jpg
+date=2017-11-24
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Cable_Girls.plx
+player=default
+rating=-1.00
+
+type=playlist
 name=Casanova (2005)
 thumb=https://image.tmdb.org/t/p/w640/3aEd4CGtLiJUBSyGHFARbUAXpqB.jpg
 date=2017-07-30

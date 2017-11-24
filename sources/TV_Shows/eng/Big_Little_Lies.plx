@@ -39,40 +39,47 @@ type=video
 name=E07___You Get What You Need
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/4X8V6JE9jqSqoGuSb4g0p8g2WSz.jpg
 date=2017-07-26
-URL=https://openload.co/f/AzkWG4Jjofk/big.little.lies.s01e07.720p.bluray.x264-demand.mkv.mp4
+URL=https://storage.googleapis.com/triple-acre-185406.appspot.com/f-series/1711/20/Big_Little_Lies_S01E07_720p_HDTV_x264_AVS_fb.mp4
+#https://openload.co/f/AzkWG4Jjofk/big.little.lies.s01e07.720p.bluray.x264-demand.mkv.mp4
 
 type=video
 name=E06___Burning Love
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/hHQE6LHsTwExHr4ccMzqayOK9Lo.jpg
 date=2017-07-26
-URL=https://openload.co/f/HJCKH_bqmSU/big.little.lies.s01e06.720p.bluray.x264-demand.mkv.mp4
+URL=https://storage.googleapis.com/booming-entity-185405.appspot.com/f-series/1711/20/Big_Little_Lies_S01E06_720p_HDTV_x264_AVS_16f.mp4
+#https://openload.co/f/HJCKH_bqmSU/big.little.lies.s01e06.720p.bluray.x264-demand.mkv.mp4
 
 type=video
 name=E05___Once Bitten
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/62mCk2UjIlwlNJl6VYGUhyfTJZ3.jpg
 date=2017-07-26
-URL=https://openload.co/f/JGypdlios20/big.little.lies.s01e05.720p.bluray.x264-demand.mkv.mp4
+URL=https://storage.googleapis.com/famous-gecko-185407.appspot.com/f-series/1711/20/Big_Little_Lies_Part_5_720p_HDTV_x264_FLEET_113.mp4
+#https://openload.co/f/JGypdlios20/big.little.lies.s01e05.720p.bluray.x264-demand.mkv.mp4
 
 type=video
 name=E04___Push Comes to Shove
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/qs77O3TkcFHMujaxQkszVUxaSGS.jpg
 date=2017-07-26
-URL=https://openload.co/f/xZPgjziZYLc/big.little.lies.s01e04.720p.bluray.x264-demand.mkv.mp4
+URL=https://storage.googleapis.com/graphite-space-185405.appspot.com/f-series/1711/20/Big_Little_Lies_S01E04_Push_Comes_to_Shove_720p_HBO_WEB_DL_DD5_1_H_264_monkee_1ed.mp4
+#https://openload.co/f/xZPgjziZYLc/big.little.lies.s01e04.720p.bluray.x264-demand.mkv.mp4
 
 type=video
 name=E03___Living the Dream
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/ygbyJqqoWMkG8TqQdf2dA6UfAsH.jpg
 date=2017-07-26
-URL=https://openload.co/f/IiZplzDBLK4/big.little.lies.s01e03.720p.bluray.x264-demand.mkv.mp4
+URL=https://storage.googleapis.com/booming-entity-185405.appspot.com/f-series/1711/20/Big_Little_Lies_S01E03_720p_HDTV_x264_FLEETeztv_96.mp4
+#https://openload.co/f/IiZplzDBLK4/big.little.lies.s01e03.720p.bluray.x264-demand.mkv.mp4
 
 type=video
 name=E02___Serious Mothering
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/4giIYrUSDGvGXULs6RvVC4SJWGv.jpg
 date=2017-07-26
-URL=https://openload.co/f/_pA8f5nYhik/big.little.lies.s01e02.720p.bluray.x264-demand.mkv.mp4
+URL=https://storage.googleapis.com/zinc-direction-185406.appspot.com/f-series/1711/20/Big_Little_Lies_S01E02_Serious_Mothering_720p_HBO_WEB_DL_DD5_1_H_264_monkee_175.mp4
+#https://openload.co/f/_pA8f5nYhik/big.little.lies.s01e02.720p.bluray.x264-demand.mkv.mp4
 
 type=video
 name=E01___Somebody's Dead
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/4FsPoUgk5if05jZZyoOSp8nZ5iQ.jpg
 date=2017-07-26
-URL=https://openload.co/f/goprtJo_jZM/big.little.lies.s01e01.720p.bluray.x264-demand.mkv.mp4
+URL=https://storage.googleapis.com/famous-gecko-185407.appspot.com/f-series/1711/20/Big_Little_Lies_Part_1_720p_HDTV_x264_AVS_156.mp4
+#https://openload.co/f/goprtJo_jZM/big.little.lies.s01e01.720p.bluray.x264-demand.mkv.mp4
