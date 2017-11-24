@@ -161,10 +161,11 @@ date=2017-10-30
 URL=https://openload.co/f/E4IDWuSE1Xg/Beyond_Skyline_2017_CAM_%5BLayar-21.com%5D.mp4
 
 type=video
-name=The Mountain Between Us (2017) RUS
+name=The Mountain Between Us (2017) ENG HDCAM.x264-DiRG
 thumb=https://image.tmdb.org/t/p/w640/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg
-date=2017-10-24
-URL=http://entervideo.net/watch/6412d2d162143cd
+date=2017-11-24
+URL=https://openload.co/f/okxJkzB-PzQ/The.Mountain.Between.Us.2017.HDCAM.x264-DiRG.mp4
+#http://entervideo.net/watch/6412d2d162143cd
 
 type=video
 name=Happy Death Day (2017) ENG HD-TS_X264_HQ-DADDY
@@ -314,10 +315,18 @@ URL=https://openload.co/f/_bCmA0g9Xu8/the.layover.2017.dvdrip.x264.fragment.mkv.
 type=video
 name=
 thumb=
-date=2017-11-17
+date=2017-11-24
 URL=
 
 
+
+
+
+type=video
+name=Dismissed (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/ge2aTRKFEIeoSNKCSFzuuuLO7HY.jpg
+date=2017-11-24
+URL=https://openload.co/f/pPvnenmbWd0/Dismissed.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=Days of Power (2017) ENG HDRip.XviD.AC3-EVO
@@ -1014,8 +1023,28 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-03
+date=2017-11-24
 URL=
+
+
+
+type=video
+name=The Snow Queen 3: Fire and Ice (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/fewzNvOFM4TBcuOwsfGXyIUrwS2.jpg
+date=2017-11-24
+URL=https://openload.co/f/PR7jhUDcQc8/the.snow.queen.3.2016.1080p.bluray.x264-rusted.mkv.mp4
+
+type=video
+name=Marie Curie (2016) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/wA2IsvqX3VoLF6rymPWk95gaBXB.jpg
+date=2017-11-24
+URL=https://openload.co/f/Q1DZ-JKIanU/marie.curie.2016.1080p.bluray.x264-rovers.mkv.mp4
+
+type=video
+name=The Good Neighbor (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/xrYPVqmUrmOolwh77bldbRfQdLx.jpg
+date=2017-11-24
+URL=https://openload.co/f/I7HZ7o_-7Do/The.Good.Neighbor.2016.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
 
 type=video
 name=Jackals (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1401,8 +1430,9 @@ URL=https://www.blazefile.co/embed-1hx2siopw4xb.html
 type=video
 name=Batman vs. Two-Face (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/yTbj8Kcp4WFwMRdEejnn55KIsfH.jpg
-date=2017-10-11
-URL=https://openload.co/f/Xomqcu67ga8/Batman.vs.Two-Face.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2017-11-24
+URL=https://openload.co/f/ugF8boa9zCs/batman.vs.two.face.2017.1080p.bluray.x264-invandraren.mkv.mp4
+#https://openload.co/f/Xomqcu67ga8/Batman.vs.Two-Face.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/xLSjbsZj9n4/Batman.vs.Two-Face.2017.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
 #https://openload.co/f/XNdLAMWQljs/Batman.vs.Two-Face.2017.1080p.BluRay.x264.DTS-MT.mkv.mp4
 
@@ -2059,10 +2089,11 @@ URL=http://203.162.235.41:17819
 
 
 type=video
-name=Justice League (2017) ENG NEW_HD-TS_X264_HQ-CPG
+name=Justice League (2017) ENG NEW_HDTS-H264-AC3-Zi%24t
 thumb=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
-date=2017-11-20
-URL=https://openload.co/f/X_u6EzKY7ys/Justice_League_2017_NEW_HD-TS_X264_HQ-CPG.mkv.mp4
+date=2017-11-24
+URL=https://openload.co/f/xj1bHZ6aksk/Justice_League_2017_NEW_HDTS-H264-AC3-Zi%24t.mkv.mp4
+#https://openload.co/f/X_u6EzKY7ys/Justice_League_2017_NEW_HD-TS_X264_HQ-CPG.mkv.mp4
 #https://openload.co/f/u_m2Yed9uS4/Justice_League.2017.CAM.XviD-FodeMeuCu.mkv.mp4
 #https://openload.co/f/rzw5iUFLhkg/Justice_League.2017.ENG.PROPER.HDCAM-H264.MP3-Zi%2524t.mkv.mp4
 type=video
