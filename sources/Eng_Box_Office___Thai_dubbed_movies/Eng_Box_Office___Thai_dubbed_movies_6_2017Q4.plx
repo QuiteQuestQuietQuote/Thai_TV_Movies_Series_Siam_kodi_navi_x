@@ -65,13 +65,18 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-11-23
+date=2017-11-24
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
 
 
 
+type=video
+name=Suburbicon (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg
+date=2017-11-24
+URL=https://openload.co/f/r5XhzYpBWqc/Suburbicon.2017.Russian.CAMRip.1400MB-KOSHARA.avi.mp4
 
 type=video
 name=Paddington 2 (2017) ITA
@@ -203,9 +208,15 @@ URL=https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
 type=video
 name=
 thumb=
-date=2017-11-21
+date=2017-11-24
 URL=
 
+
+type=video
+name=Instrument of War (2017) ENG BYUtv_720p_HDTV_X264_Solar
+thumb=https://image.tmdb.org/t/p/w640/eI4ZZCC1oDjszKJ5RH3BPCbkVca.jpg
+date=2017-11-24
+URL=https://openload.co/f/s-WxqEEFH0Q/Instrument_of_War_2017_BYUtv_720p_HDTV_X264_Solar.mp4
 
 type=video
 name=Hangman (2017) ENG HDRip.XviD.AC3-EVO
@@ -1033,12 +1044,14 @@ name=The Snow Queen 3: Fire and Ice (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/fewzNvOFM4TBcuOwsfGXyIUrwS2.jpg
 date=2017-11-24
 URL=https://openload.co/f/PR7jhUDcQc8/the.snow.queen.3.2016.1080p.bluray.x264-rusted.mkv.mp4
+#https://www.blazefile.co/embed-rzsqrsrag02w.html   720
 
 type=video
 name=Marie Curie (2016) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/wA2IsvqX3VoLF6rymPWk95gaBXB.jpg
 date=2017-11-24
-URL=https://openload.co/f/Q1DZ-JKIanU/marie.curie.2016.1080p.bluray.x264-rovers.mkv.mp4
+URL=https://www.blazefile.co/embed-nkhalihga19p.html
+#https://openload.co/f/Q1DZ-JKIanU/marie.curie.2016.1080p.bluray.x264-rovers.mkv.mp4
 
 type=video
 name=The Good Neighbor (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1431,7 +1444,8 @@ type=video
 name=Batman vs. Two-Face (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/yTbj8Kcp4WFwMRdEejnn55KIsfH.jpg
 date=2017-11-24
-URL=https://openload.co/f/ugF8boa9zCs/batman.vs.two.face.2017.1080p.bluray.x264-invandraren.mkv.mp4
+URL=https://www.blazefile.co/embed-x2b9220larrj.html
+#https://openload.co/f/ugF8boa9zCs/batman.vs.two.face.2017.1080p.bluray.x264-invandraren.mkv.mp4
 #https://openload.co/f/Xomqcu67ga8/Batman.vs.Two-Face.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/xLSjbsZj9n4/Batman.vs.Two-Face.2017.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
 #https://openload.co/f/XNdLAMWQljs/Batman.vs.Two-Face.2017.1080p.BluRay.x264.DTS-MT.mkv.mp4
