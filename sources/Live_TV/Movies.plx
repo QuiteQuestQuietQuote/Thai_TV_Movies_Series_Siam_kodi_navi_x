@@ -22,7 +22,7 @@ type=video
 name=HBO HD (TH)
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 date=2017-10-13
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/hbo_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/hbo_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=movie1
@@ -61,12 +61,12 @@ type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 date=2017-10-10
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/hbo_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/hbo_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/hbo_hits_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/hbo_hits_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 #http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 
@@ -159,118 +159,118 @@ type=video
 name=hbo_hd
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/hbo_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/hbo_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=hbo_th
 thumb=https://4.bp.blogspot.com/-uE82gaurvOQ/WfJjQeXWOII/AAAAAAAAG7U/tULtPYNoi-YZbMuXMqOP3wQ_0_2CCtVjQCLcBGAs/s1600/026.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/hbo_th_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/hbo_th_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=hbo_signature
 thumb=https://2.bp.blogspot.com/-36Kre7Am8Bc/WdLYwaX5jQI/AAAAAAAAAHY/gl7LikDibc8f65vR51GD8BYfvBJIcX3zACLcBGAs/s320/027.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/hbo_signature_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/hbo_signature_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=hbo_family
 thumb=https://2.bp.blogspot.com/-BBbZAdLOj1Y/WdLYwxPeVkI/AAAAAAAAAHc/TXb5lN4YNaEL0SLprauwDgEnw3YaGfGaQCLcBGAs/s320/028.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/hbo_family_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/hbo_family_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=hbo_hits
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/hbo_hits_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/hbo_hits_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 
 type=video
 name=red_by_hbo
 thumb=https://4.bp.blogspot.com/-gOGHzLECGdo/WdLYxNGNjGI/AAAAAAAAAHk/5qaIHAsFmWQnZgTir4X04AoU0hJn7I5GQCLcBGAs/s320/030.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/red_by_hbo_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/red_by_hbo_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=cinemax
 thumb=https://3.bp.blogspot.com/-Vxm9d7YjvDI/WdLYxl68RYI/AAAAAAAAAHo/GbJ2lnI2s4c9RA_xArSfV9kv0-bZ_tswQCLcBGAs/s320/031.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/cinemax_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/cinemax_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=fox_action_movies
 thumb=https://4.bp.blogspot.com/-jxRpdL703tw/WdLYxsUsJjI/AAAAAAAAAHs/YoUpz3OQIkQPO3fyuQB9qsJ9sgTeGF_LQCLcBGAs/s320/032.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/fox_action_movies_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/fox_action_movies_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=foxfamen
 thumb=https://3.bp.blogspot.com/-fawERBkgNXQ/WdLYx_VqiwI/AAAAAAAAAHw/WeIaBiWh3OYLXzb-Z3ZFk1b8PE0frF1xQCLcBGAs/s320/033.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/ais_foxfamen_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/ais_foxfamen_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=foxfamth
 thumb=https://4.bp.blogspot.com/-3-QHcacdD8s/WfJjQYSXefI/AAAAAAAAG7Y/YRZ6Zjl2cgoSDystL2Eywt7lY_Cr56CQACLcBGAs/s1600/033.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/ais_foxfamth_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/ais_foxfamth_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 
 type=video
 name=fox_movies_premium_hd
 thumb=https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/fox_movies_premium_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/fox_movies_premium_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=foxpremiumth
 thumb=https://3.bp.blogspot.com/-0RU-iL43xNY/WfJjQLC2p8I/AAAAAAAAG7Q/AZtguDsXHk0DxdqyeB8AtemAXAz8TAleACLcBGAs/s1600/034.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/ais_foxpremiumth_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/ais_foxpremiumth_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=fx
 thumb=https://2.bp.blogspot.com/-hn2UbMiBufk/WdLYyQwpvoI/AAAAAAAAAH4/dIBJvAUJWWknJcsdk-zDQ7o_jB7ppy8ZQCLcBGAs/s320/035.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/fx_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/fx_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=fox_crime
 thumb=https://4.bp.blogspot.com/-RoLh6xuwFLs/WdLYyc3wyII/AAAAAAAAAH8/kpe7sheyhcUfoptHWTDWfnZwfUkCr_gggCLcBGAs/s320/036.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/fox_crime_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/fox_crime_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=thrill
 thumb=https://1.bp.blogspot.com/-WwHoMV80Gos/WdLYzBdHSuI/AAAAAAAAAIA/F1if-Gd2Ac4Ft5SIdEyei4Stz422U6UUACLcBGAs/s320/037.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/thrill_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/thrill_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 
 type=video
 name=fox_thai
 thumb=https://2.bp.blogspot.com/-8nVRkhAsKTM/WdLYzFGOKfI/AAAAAAAAAIE/r4g8mysMm7sA0rGWWHkIQintqg12RvH7QCLcBGAs/s320/038.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/fox_thai_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/fox_thai_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=true_movie_hits
 thumb=https://3.bp.blogspot.com/-m9ZgpfdV8dk/WdLYze1x4DI/AAAAAAAAAII/Eqs7b3FhvlADrQ-G4ofqrnqXi5vjovkjgCLcBGAs/s320/039.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/true_movie_hits_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/true_movie_hits_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=true_thai_film
 thumb=https://4.bp.blogspot.com/-bLASJdfshRI/WdLYzqTerfI/AAAAAAAAAIM/lFH8iivOwBcjmEupSfDf2unVdCOgthx8wCLcBGAs/s320/040.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/true_thai_film_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/true_thai_film_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=true_film_asia
 thumb=https://4.bp.blogspot.com/-yQKCFchPqxA/WdLYz2eXsJI/AAAAAAAAAIQ/oT9qBJ-nzl8YRwt3Na0KvH4hieo_ioqWwCLcBGAs/s320/041.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/true_film_asia_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/true_film_asia_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 
 
@@ -282,44 +282,44 @@ type=video
 name=true_asian_series
 thumb=https://4.bp.blogspot.com/-dykzK0bpvic/WdLYz5yYkXI/AAAAAAAAAIU/F4imG5DoLVkrjnTNECm7-B_6YAGUJsmbwCLcBGAs/s320/042.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/true_asian_series_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/true_asian_series_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=true_series
 thumb=https://1.bp.blogspot.com/-BBytuM5xTi0/WdLY0ajN7KI/AAAAAAAAAIY/mYl-rN7oKEkJRd1FdLreO4C1_O2XdIoJgCLcBGAs/s320/043.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/true_series_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/true_series_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=ais_doonee
 thumb=https://3.bp.blogspot.com/-xhGC9TO9IW8/WdLY0gIvgKI/AAAAAAAAAIc/d8_fwTap0NoDIN1UtEqmLZlaqYmEU30hgCLcBGAs/s320/044.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/ais_doonee_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/ais_doonee_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=zeenung
 thumb=https://2.bp.blogspot.com/-tasYzuxC_sk/WdLY0hpUb9I/AAAAAAAAAIg/4PNkFiNAeP0b7mSsiyFRPIqDb2O8nrzSgCLcBGAs/s320/045.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/ais_zeenung_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/ais_zeenung_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=celestial_classic_movies
 thumb=https://1.bp.blogspot.com/--YWNhbV7wek/WdLY1MwX0XI/AAAAAAAAAIk/nz4VY8QvP1EwEuSeJFrFTzB_22PmEI_lQCLcBGAs/s320/046.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/celestial_classic_movies_360p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/celestial_classic_movies_360p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 
 type=video
 name=starworld
 thumb=https://4.bp.blogspot.com/-Batrk41GlEM/WdLY1VrJNAI/AAAAAAAAAIo/BrJ-PPo5p407JS0HSkWKhgQiqsOFIQ0gQCLcBGAs/s320/047.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/starworld_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/starworld_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 type=video
 name=warner
 thumb=https://4.bp.blogspot.com/-V_TTlbTkzIY/WdLY1dUeb9I/AAAAAAAAAIs/9x49EyY_tKAl86VPbtxOM4Vx8Y0kY0hNwCLcBGAs/s320/048.png
 date=2017-10-27
-URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/warner_tv_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=P7Vnmm3GqV0gI7bOejPJQg&username2=0885120325&username=15015087917688791768&password=mmmmf69d5e5edbc600798b73&e=1511553084
+URL=http://191.96.38.61:443/////////////////////////////////////////////////////////////////////////movie/warner_tv_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=kjPdtqfmOFmTVJ96PGETRQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmd1265e56dd3baba938c5&e=1511638354
 
 
 
