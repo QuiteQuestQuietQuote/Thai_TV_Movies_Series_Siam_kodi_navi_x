@@ -58,6 +58,130 @@ URL=
 
 
 
+
+type=video
+name=50xxxxxxxxxxxxxxxxxxxxDark passion – Dunkle Leidenschaft 2
+thumb=https://2.bp.blogspot.com/-z-YM9VlpFos/Whob35o3CyI/AAAAAAAANTI/CRpeE30GT9A8WlFysOsdFQVkOfFw2ZHLgCLcBGAs/s1600/5.jpg
+date=2017-11-26
+URL=https://openload.co/f/embed/zSviWb5ErV4/
+
+type=video
+name=Cave Women
+thumb=https://3.bp.blogspot.com/-dW8xr8MRC6o/WhoaiddU1MI/AAAAAAAANS8/VpwB50kx2VkLElXlYnxARXWSB7ZWxj_bQCLcBGAs/s1600/3SSSS.jpg
+date=2017-11-26
+URL=https://openload.co/f/embed/8v3q6nwVtbY/
+
+type=video
+name=The Story of Prunella (1982)
+thumb=https://2.bp.blogspot.com/-HgBmdBnOfB4/WhfqDdc_EQI/AAAAAAAANRU/qhdxLUoc0NsxnyXmlu57xnQCP-FDHNS4gCLcBGAs/s1600/1SSS.jpg
+date=2017-11-26
+URL=https://openload.co/f/embed/JlanswVT9Go/
+
+type=video
+name=Kiss and Kill (2017)
+thumb=https://1.bp.blogspot.com/-6XnMdNX_2Sc/Whfn5JSECBI/AAAAAAAANRA/FVW_qrlaEekFX820YTlfp8A8sjvHQ-PvgCLcBGAs/s1600/1ss.jpg
+date=2017-11-26
+URL=https://openload.co/f/embed/68iM0GppxKI/
+
+type=video
+name=The Lady of Susi Master (2017)
+thumb=https://2.bp.blogspot.com/-joFutTvd4xo/Whfn4WOlMlI/AAAAAAAANQ4/3rynf48Nfbk-J5iGTSQqmpbSAX5MiLXYACLcBGAs/s1600/1.jpg
+date=2017-11-26
+URL=https://openload.co/f/embed/z4D-URAPumo/
+
+
+type=video
+name=Body of Innocence
+thumb=https://3.bp.blogspot.com/-AQ_FuPEUm3w/WhbV1qTdzLI/AAAAAAAANP4/jbNCb6KLLeQJIngUxLrVah2Y2tYotT1wwCLcBGAs/s1600/3SSS.jpg
+date=2017-11-26
+URL=https://openload.co/f/embed/mGRoxO3ui3c/
+
+type=video
+name=Pink Champagne
+thumb=https://2.bp.blogspot.com/-yyrFtPa-OvA/WhbU1m-xPSI/AAAAAAAANPw/7hzn8N-IoWc7a6COHRPOYC4Gm4sRFmE_QCLcBGAs/s1600/3S.jpg
+date=2017-11-26
+URL=https://openload.co/f/embed/0aw8Ul2ftJA/
+
+type=video
+name=Spring (2017)
+thumb=https://3.bp.blogspot.com/-bP4-5W0rPM8/WhbRAHiUBdI/AAAAAAAANPE/xaWN5Je56xosDpnzSV0jNNLMUlzUJ_JUwCLcBGAs/s1600/1%25E0%25B8%2586%25E0%25B8%2586.jpg
+date=2017-11-26
+URL=https://openload.co/f/embed/7ol0NVCEM38/
+
+type=video
+name=Un Bon Client (1984)
+thumb=https://3.bp.blogspot.com/-AgH_AwOkOqY/WhWfRaYugiI/AAAAAAAANO0/-p1Sk6bZgC8Ti4f3afmyj-Y7z9xKfWOnQCLcBGAs/s1600/3.png
+date=2017-11-26
+URL=https://openload.co/f/embed/zBzXhVjTN_g/
+
+type=video
+name=Aria (1987)
+thumb=https://2.bp.blogspot.com/-I_hJWmdI0ds/WhWdDhk1sRI/AAAAAAAANOo/N7EkUwHdaQAyDfDxRP5PU2yHZhBMQd1FACLcBGAs/s1600/2SSSS.jpg
+date=2017-11-26
+URL=https://openload.co/f/embed/cSEvxmuxvNw/
+
+
+type=video
+name=Legend of the Naked Ghost (TV Movie 2017)
+thumb=https://4.bp.blogspot.com/-JI2-23u6zn4/WhWdDpdBZ5I/AAAAAAAANOk/JpcZUfinir46q4CgI6iFAWROg-eIjAs4wCLcBGAs/s1600/2SSS.jpg
+date=2017-11-26
+URL=https://openload.co/f/embed/E1-jejg3H0U/
+
+type=video
+name=One Time Only Affair 16 (2016)
+thumb=https://2.bp.blogspot.com/-oonyKBzllw8/WhWa_6stIvI/AAAAAAAANOA/cfok62dsHrssYeNFVzYufDZN70M9onTxwCLcBGAs/s1600/1.jpg
+date=2017-11-26
+URL=https://openload.co/f/embed/qJWh25oZ5dw/
+
+type=video
+name=Les tripoteuses (1974)
+thumb=https://4.bp.blogspot.com/-8WdYMu_pzG4/WhQ4cRci21I/AAAAAAAANNk/fyqSyG7bADgFc1DdENzkAxQESqJI7jvUwCLcBGAs/s1600/3SS.png
+date=2017-11-26
+URL=https://openload.co/f/embed/eCd-ZM7Ql5A/
+
+type=video
+name=Golden Gate Girls (1987)
+thumb=https://4.bp.blogspot.com/-ZWKzARPOwxo/WhQ4cIF_4cI/AAAAAAAANNg/NNaMTnopWmg_e7tJ6bWZZLiucoJi4yatACLcBGAs/s1600/3S.png
+date=2017-11-26
+URL=https://openload.co/f/embed/pYEDn-UN1Oo/
+
+type=video
+name=Sex Orgy 806 – Lolita Surprise (1980)
+thumb=https://3.bp.blogspot.com/-B9Lamr4rBqs/WhQ4cI4OGnI/AAAAAAAANNc/bFlUbb2nPLYUJ2qkAyvb5lXrJePcDXwmgCLcBGAs/s1600/3.png
+date=2017-11-26
+URL=https://openload.co/f/embed/C8PiJ0x0j8I/
+
+
+type=video
+name=Rings of Passion (1976)
+thumb=https://3.bp.blogspot.com/-gc5mI3WodC0/WhQ1-6gs25I/AAAAAAAANNM/X3l-41WqG2kIF548EbeD4HBNQUoPGsChwCLcBGAs/s1600/2%25E0%25B8%2586.jpg
+date=2017-11-26
+URL=https://openload.co/f/embed/RtjlM3w29b4/
+
+type=video
+name=Sock It to Me Baby (1968)
+thumb=https://3.bp.blogspot.com/-hs3DXR-b_Ao/WhL__yAEz_I/AAAAAAAANMI/ARJ-3fV2HbQgLGC0gZsDhz9TqqbyroegACLcBGAs/s1600/5S.jpg
+date=2017-11-26
+URL=https://openload.co/f/embed/KUmYUx7UVaE/
+
+type=video
+name=Ich – ein Groupie (1970)
+thumb=https://2.bp.blogspot.com/-Eb-tcf_D3Gk/WhMAAM7XO4I/AAAAAAAANMM/4o8NDvpj4VU55k1gkV9qfnYi8hdSR4bpQCLcBGAs/s1600/5.jpg
+date=2017-11-26
+URL=https://openload.co/f/embed/UsWMqDd0eiA/
+
+type=video
+name=The Untamed (2016)
+thumb=https://3.bp.blogspot.com/-siXdWj1NQ-s/WhF_irzIzUI/AAAAAAAANIA/rmnabA87w04FpAg3b_5hbaBhMDD1hVN3wCLcBGAs/s1600/1ss.jpg
+date=2017-11-26
+URL=https://openload.co/f/embed/WEqNWFqo8gA/
+
+
+
+
+
+
+
 type=video
 name=31xxxxxxxxxxxxxxxxxxxxSunn
 thumb=https://3.bp.blogspot.com/-ul51r7Gh1jc/Wg798J629kI/AAAAAAAANEU/AdtHeBTRgxMjZLKR5dIhbpEoZDyPfjZlwCLcBGAs/s1600/2.jpg
