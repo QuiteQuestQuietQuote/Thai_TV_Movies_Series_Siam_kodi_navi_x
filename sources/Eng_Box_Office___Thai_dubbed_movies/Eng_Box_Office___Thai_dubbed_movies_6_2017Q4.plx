@@ -72,10 +72,11 @@ URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.blu
 
 
 type=video
-name=Daddy's Home 2 (2017) ENG CAM.x264-NoGRP
+name=Daddy's Home 2 (2017) ENG HDCAM.XVID.HQ.Hive-CM8
 thumb=https://image.tmdb.org/t/p/w640/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg
 date=2017-11-26
-URL=https://openload.co/f/IfYB8OGuPfM/Daddys.Home.2.2017.ENG.720p.CAM.x264-NoGRP.mkv.mp4
+URL=https://openload.co/f/vpL7f9btUG4/Daddys.Home.2.2017.HDCAM.XVID.HQ.Hive-CM8.avi
+#https://openload.co/f/IfYB8OGuPfM/Daddys.Home.2.2017.ENG.720p.CAM.x264-NoGRP.mkv.mp4
 
 type=video
 name=Suburbicon (2017) RUS
