@@ -93,10 +93,11 @@ URL=https://openload.co/f/Z-xgjsHstE8/Murder.On.The.Orient.Express.2017.CAM.XViD
 
 
 type=video
-name=The Star (2017) ENG NOLOGO.HDTS.x264.AAC-AvEnTaD0R
+name=The Star (2017) ENG CAM.READNFO.XViD-26k
 thumb=https://image.tmdb.org/t/p/w640/tEbDvivUfsCupngKIfMJJ725eAD.jpg
-date=2017-11-22
-URL=https://openload.co/f/tYe0V1V8qcg/The.Star.2017.NOLOGO.HDTS.x264.AAC-AvEnTaD0R.mp4
+date=2017-11-25
+URL=https://openload.co/f/8yNhaXL9Nb4/The.Star.2017.CAM.READNFO.XViD-26k.avi.mp4
+#https://openload.co/f/tYe0V1V8qcg/The.Star.2017.NOLOGO.HDTS.x264.AAC-AvEnTaD0R.mp4
 
 type=video
 name=You Were Never Really Here (2017) FRENCH.CAM.MD.XViD_STVFRV.E
@@ -2300,10 +2301,34 @@ URL=https://mcloud.to/embed/jv1wp2?sub.file=https%253A%252F%252Fbmovies.to%252Fs
 type=video
 name=
 thumb=
-date=2017-10-21
+date=2017-10-25
 URL=
 
 
+
+
+
+
+
+
+
+type=video
+name=A Christmas Prince (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/z3jfaahNCSUytgAQhavUmoA1ab6.jpg
+date=2017-11-25
+URL=https://openload.co/f/qyGLP-SEr74/A_Christmas_Prince_%282017%29%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%A1%E0%B8%B2%E0%B8%AA_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+type=video
+name=The Killer (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/he6s2dOWmzWXsZGa0QLbcMVZJnx.jpg
+date=2017-11-25
+URL=https://openload.co/f/B29AzGhZ9OU/The_Killer_%282017%29%E0%B8%A5%E0%B9%88%E0%B8%B2_%E0%B8%86%E0%B9%88%E0%B8%B2_%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%94%E0%B8%B4%E0%B8%9A_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+type=video
+name=Blame! (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/vNGR1oruTC9WWPraHatRyUZT2ii.jpg
+date=2017-11-25
+URL=https://openload.co/f/0MdJBlkbS-k/Blame%21_%282017%29%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%A1%21_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 type=video
 name=Bon Cop Bad Cop 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2694,27 +2719,14 @@ URL=https://openload.co/f/LlMu3K9_im8/Geostorm.2017.720p.HDRip.KORSUB.x264.mp4
 type=video
 name=Geostorm (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
-date=2017-11-22
-URL=https://streamango.com/f/beosqlaslklssmcc/Geostorm_mp4
+date=2017-11-25
+URL=https://openload.co/f/AtCIZGYKsHM/Geostorm_%282017%29%E0%B8%88%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1_%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B2%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1_V.2%29
+#https://streamango.com/f/beosqlaslklssmcc/Geostorm_mp4
 #https://openload.co/f/Tn46uIRSZrI/Geostorm_%282017%29_THCAM%E0%B8%88%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1_%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B2%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 #https://openload.co/f/WD8CFEMyanY/Geostorm.2017.HDCAM.X264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 
 
-type=video
-name=Valerian and the City of a Thousand Planets (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
-date=2017-11-10
-URL=https://www.blazefile.co/embed-gxg3f8m1pyvw.html
-#https://openload.co/f/5hcpPFHs6YI/Valerian.and.the.City.of.a.Thousand.Planets.2017.1080p.BluRay.x264-%5BYTS.PE%5D.mp4
-#https://www.blazefile.co/embed-wcqrzx0ub5l2.html
-#https://openload.co/f/bE7l70d6i6E/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.KOR.HDRip.XviD-PCHD.avi.mp4
-type=video
-name=Valerian and the City of a Thousand Planets (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
-date=2017-11-23
-URL=https://openload.co/f/WryZw7hqgJE/Valerian.and.the.City.of.a.Thousand.Planets.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
-#https://openload.co/f/j6vkpieqZN0/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.KORSUB.HDRip.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
-#https://openload.co/f/FKGfCtNNLPM/Valerian.2017.CAM.READNFO.XViD.AC3.ThaiRong_CpT%40CtHts.mkv.mp4
+
 
 
 type=video
@@ -2988,6 +3000,26 @@ thumb=
 date=2017-11-20
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
+
+
+
+
+type=video
+name=Valerian and the City of a Thousand Planets (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
+date=2017-11-10
+URL=https://www.blazefile.co/embed-gxg3f8m1pyvw.html
+#https://openload.co/f/5hcpPFHs6YI/Valerian.and.the.City.of.a.Thousand.Planets.2017.1080p.BluRay.x264-%5BYTS.PE%5D.mp4
+#https://www.blazefile.co/embed-wcqrzx0ub5l2.html
+#https://openload.co/f/bE7l70d6i6E/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.KOR.HDRip.XviD-PCHD.avi.mp4
+type=video
+name=Valerian and the City of a Thousand Planets (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
+date=2017-11-25
+URL=https://openload.co/f/mRG8FDugEDs/Valerian_and_the_City_of_a_Thousand_Planets_%282017%29%E0%B8%A7%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99_%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5.mp4
+#https://openload.co/f/WryZw7hqgJE/Valerian.and.the.City.of.a.Thousand.Planets.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+#https://openload.co/f/j6vkpieqZN0/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.KORSUB.HDRip.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+#https://openload.co/f/FKGfCtNNLPM/Valerian.2017.CAM.READNFO.XViD.AC3.ThaiRong_CpT%40CtHts.mkv.mp4
 
 
 type=video
