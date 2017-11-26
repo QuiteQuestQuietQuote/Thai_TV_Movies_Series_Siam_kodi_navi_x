@@ -65,12 +65,17 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-11-24
+date=2017-11-26
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
 
 
+type=video
+name=Daddy's Home 2 (2017) ENG CAM.x264-NoGRP
+thumb=https://image.tmdb.org/t/p/w640/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg
+date=2017-11-26
+URL=https://openload.co/f/IfYB8OGuPfM/Daddys.Home.2.2017.ENG.720p.CAM.x264-NoGRP.mkv.mp4
 
 type=video
 name=Suburbicon (2017) RUS
@@ -1035,10 +1040,17 @@ URL=
 type=video
 name=
 thumb=
-date=2017-11-24
+date=2017-11-26
 URL=
 
 
+
+type=video
+name=All Saints (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/k6MDUbSs4At1NZOYuEJqEmxmLOs.jpg
+date=2017-11-26
+URL=https://www.blazefile.co/embed-4nj18oib9gig.html
+#https://openload.co/f/kXZ_vArcxVI/all.saints.2017.1080p.bluray.x264-drones.mkv.mp4
 
 type=video
 name=The Snow Queen 3: Fire and Ice (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1550,13 +1562,7 @@ URL=https://www.blazefile.co/embed-0khosisjmx0m.html
 
 
 
-type=video
-name=The Beguiled (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6GB
-thumb=https://image.tmdb.org/t/p/w640/yCt9jWUFNpWLSiNpShZr9JFF9oD.jpg
-date=2017-09-29
-URL=https://openload.co/f/jYwMKH9Lesc/The_Beguiled_%282017%29.1080p.BluRay.x264-DRONES.mkv
-#https://openload.co/f/Ea2vunZPTZ0/The_Beguiled_%282017%29.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://www.blazefile.co/embed-v754lr59r02l.html
+
 
 type=video
 name=Message from the King (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.6GB
@@ -2214,10 +2220,11 @@ URL=https://openload.co/f/xnQIzCCvlFQ/The_Foreigner_%282017%29%E0%B9%82%E0%B8%84
 
 
 type=video
-name=Kingsman: The Golden Circle (2017) ENG HD-TS_x264_HQ-CPG
+name=Kingsman: The Golden Circle (2017) ENG WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
-date=2017-10-15
-URL=https://openload.co/f/KoSidQAV37g/Kingsman_The_Golden_Circle_2017_HD-TS_x264_HQ-CPG.mkv.mp4
+date=2017-11-26
+URL=https://openload.co/f/pebgWAfLtow/Kingsman.The.Golden.Circle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/KoSidQAV37g/Kingsman_The_Golden_Circle_2017_HD-TS_x264_HQ-CPG.mkv.mp4
 #https://openload.co/f/DXfWPdel-FY/Kingsman.The.Golden.Circle.2017.TS.Xvid.AC3.avi.mp4
 #https://openload.co/f/HaBGBsva7yY/Kingsman.The.Golden.Circle.2017.HD-TS.x264.HQ-CPG.mp4
 type=video
@@ -2308,8 +2315,18 @@ URL=
 
 
 
-
-
+type=video
+name=The Beguiled (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6GB
+thumb=https://image.tmdb.org/t/p/w640/yCt9jWUFNpWLSiNpShZr9JFF9oD.jpg
+date=2017-09-29
+URL=https://openload.co/f/jYwMKH9Lesc/The_Beguiled_%282017%29.1080p.BluRay.x264-DRONES.mkv
+#https://openload.co/f/Ea2vunZPTZ0/The_Beguiled_%282017%29.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://www.blazefile.co/embed-v754lr59r02l.html
+type=video
+name=The Beguiled (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/yCt9jWUFNpWLSiNpShZr9JFF9oD.jpg
+date=2017-11-26
+URL=https://openload.co/f/6QJyqPdV024/The_Beguiled_%282017%29%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B8%A5%E0%B8%A7%E0%B8%87_%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%B2%E0%B8%AA_%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%99%E0%B8%B2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -2997,11 +3014,18 @@ URL=
 type=video
 name=
 thumb=
-date=2017-11-20
+date=2017-11-26
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
+
+
+type=video
+name=By the Time It Gets Dark (2016) TH
+thumb=https://image.tmdb.org/t/p/w640/pGvgpLv9V8CFsY7oQqKuP7hgd0o.jpg
+date=2017-11-26
+URL=https://openload.co/f/gUV_dWrKXf8/by.the.time.it.gets.dark.2016.subbed.dvdrip.x264-bipolar.mkv.mp4
 
 
 type=video
