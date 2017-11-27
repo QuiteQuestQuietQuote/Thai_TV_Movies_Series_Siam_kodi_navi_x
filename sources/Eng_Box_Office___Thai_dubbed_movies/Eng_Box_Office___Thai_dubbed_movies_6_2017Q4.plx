@@ -85,10 +85,11 @@ date=2017-11-24
 URL=https://openload.co/f/r5XhzYpBWqc/Suburbicon.2017.Russian.CAMRip.1400MB-KOSHARA.avi.mp4
 
 type=video
-name=Paddington 2 (2017) ITA
+name=Paddington 2 (2017) RUS
 thumb=https://image.tmdb.org/t/p/w640/bU5pSpQfXRmqDd6jthmP8iWJOjd.jpg
-date=2017-11-23
-URL=https://openload.co/f/O5MG7v4Xa2E/Paddington.2.2017.iTALiAN.LD.TELESYNC.XviD_CriMiNaL.mp4
+date=2017-11-27
+URL=https://openload.co/f/DphGbZSuthQ/Paddington_2_2017_Russian_TELESYNC.avi.mp4
+#https://openload.co/f/O5MG7v4Xa2E/Paddington.2.2017.iTALiAN.LD.TELESYNC.XviD_CriMiNaL.mp4
 
 type=video
 name=Murder on the Orient Express (2017) ENG CAM.XViD.V2-26k
@@ -215,9 +216,15 @@ URL=https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
 type=video
 name=
 thumb=
-date=2017-11-24
+date=2017-11-27
 URL=
 
+
+type=video
+name='Til Death Do Us Part (2017) ENG HDCAM.x264-DiRG
+thumb=https://image.tmdb.org/t/p/w640/pfCAFkZV39l1TnNazAmmLgWu4c1.jpg
+date=2017-11-27
+URL=https://openload.co/f/0DPv1IxHDsA/Til.Death.Do.Us.Part.2017.HDCAM.x264-DiRG.mp4
 
 type=video
 name=Instrument of War (2017) ENG BYUtv_720p_HDTV_X264_Solar
@@ -689,11 +696,7 @@ thumb=https://image.tmdb.org/t/p/w640/6mL4XNPdJZcaL1iUKDMY7wtqp0.jpg
 date=2017-10-10
 URL=https://openload.co/f/JZe9TCIgTEI/Sleepwalker_2017_HDRip_XviD_AC3-EVO.mp4
 
-type=video
-name=The Crucifixion (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/aN1drk3BqIzCUICR436t3t0lq9H.jpg
-date=2017-10-06
-URL=https://openload.co/f/0Gsb3X7-US0/The_Crucifixion.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 
 
@@ -1040,11 +1043,35 @@ URL=
 
 type=video
 name=
+thumb=https://ganool.se/wp-content/uploads/2017/11/High-Heel-Homicide-2017-227x323.jpg
+date=2017-11-27
+URL=https://www.blazefile.co/embed-h25coos10uwx.html
+
+type=video
+name=
 thumb=
-date=2017-11-26
+date=2017-11-27
 URL=
 
+type=video
+name=Love Finds You in Valentine (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/j1NNKB3DZhB8zQw6dBr7bxMbxgr.jpg
+date=2017-11-27
+URL=https://openload.co/f/gYC3CuQ4Mmk/Love.finds.you.in.Valentine.2016.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
 
+type=video
+name=Love Finds You in Charm (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/p4KQOJi1jFACJVsCWRlYNw9onCG.jpg
+date=2017-11-27
+URL=https://openload.co/f/tPxKcIfzFAg/Love.finds.you.in.Charm.2015.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+
+type=video
+name=The Crucifixion (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/aN1drk3BqIzCUICR436t3t0lq9H.jpg
+date=2017-11-27
+URL=https://www.blazefile.co/embed-c5c51upopspv.html
+#https://openload.co/f/Qig1twIBOug/The.Crucifixion.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/0Gsb3X7-US0/The_Crucifixion.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=All Saints (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3273,8 +3300,9 @@ URL=https://openload.co/f/wdwZ0KXbglk/Blade_Runner_%281982%29%E0%B9%80%E0%B8%9A%
 type=video
 name=War for the Planet of the Apes (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
-date=2017-10-13
-URL=https://openload.co/f/An6KwsvHsPU/War_For_The_Planet_Of_The_Apes_%282017%29_%5B1080p%5D_BluRay_H264_AAC-RARBG_mp4
+date=2017-11-27
+URL=https://www.blazefile.co/embed-vxyy62bthpw6.html
+#https://openload.co/f/An6KwsvHsPU/War_For_The_Planet_Of_The_Apes_%282017%29_%5B1080p%5D_BluRay_H264_AAC-RARBG_mp4
 #https://openload.co/f/dy1pgUl0Ay0/war.for.the.planet.of.the.apes.2017.720p.bluray.x264.blow-mkv.mp4
 type=video
 name=War for the Planet of the Apes (2017) TH
