@@ -65,11 +65,23 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-11-26
+date=2017-11-28
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
 
+
+type=video
+name=Roman J. Israel, Esq. (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/8e5IGlLrVjwrlDcRtzSQkXhJFWl.jpg
+date=2017-11-28
+URL=https://openload.co/f/EtDmEWBVIow/Roman.J.Israel.Esq.2017.P.kol.TS.14OOMB_KOSHARA.E.mp4
+
+type=video
+name=Marrowbone (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/wRUToAEWbPtfOOgrs7ivk96DE7i.jpg
+date=2017-11-28
+URL=http://entervideo.net/watch/dc143d328339b28
 
 type=video
 name=Daddy's Home 2 (2017) ENG HDCAM.XVID.HQ.Hive-CM8
@@ -154,10 +166,11 @@ URL=https://openload.co/f/0WatHfN8KKw/A.Bad.Moms.Christmas.2017.NEW.720p.HDCAM.X
 #https://openload.co/f/itxz3-_HMO0/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
 
 type=video
-name=Jigsaw (2017) ENG CAM.ENG.X264-Feel.Free
+name=Jigsaw (2017) ENG TS.x264.AC3-%5BArenaBG%5D
 thumb=https://image.tmdb.org/t/p/w640/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
-date=2017-11-01
-URL=https://openload.co/f/F3nZJ_umMbw/Jigsaw.2017.720p.CAM.ENG.X264-Feel.Free.mkv.mp4
+date=2017-11-28
+URL=https://openload.co/f/Wn4MXIBxUyk/Jigsaw.2017.720p.TS.x264.AC3-%5BArenaBG%5D.mkv.mp4
+#https://openload.co/f/F3nZJ_umMbw/Jigsaw.2017.720p.CAM.ENG.X264-Feel.Free.mkv.mp4
 
 type=video
 name=Jeepers Creepers III (2017) ENG HDRip.X264.AC3-EVO
@@ -176,8 +189,9 @@ URL=https://openload.co/f/E4IDWuSE1Xg/Beyond_Skyline_2017_CAM_%5BLayar-21.com%5D
 type=video
 name=The Mountain Between Us (2017) ENG HDCAM.x264-DiRG
 thumb=https://image.tmdb.org/t/p/w640/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg
-date=2017-11-24
-URL=https://openload.co/f/okxJkzB-PzQ/The.Mountain.Between.Us.2017.HDCAM.x264-DiRG.mp4
+date=2017-11-28
+URL=https://openload.co/f/K1cAMvDgLxM/The.Mountain.Between.Us.2017.HDCAM.x264-DiRG.mp4
+#https://openload.co/f/okxJkzB-PzQ/The.Mountain.Between.Us.2017.HDCAM.x264-DiRG.mp4
 #http://entervideo.net/watch/6412d2d162143cd
 
 type=video
@@ -267,10 +281,11 @@ date=2017-11-17
 URL=https://openload.co/f/Zf18_Paljkk/Cook.Off.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
-name=The Snowman (2017) ENG NOLOGO_HDCAM_X264_HQMic-DADDY
+name=The Snowman (2017) ENG HD_Cam_x264_Clean_Audio_AAC_New_Source
 thumb=https://image.tmdb.org/t/p/w640/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg
-date=2017-11-15
-URL=https://openload.co/f/mTFsFIWDkm4/The_Snowman_2017_NOLOGO_HDCAM_X264_HQMic-DADDY.mp4
+date=2017-11-28
+URL=https://openload.co/f/HNC97bcNWUU/The_Snowman_2017_Movies_HD_Cam_x264_Clean_Audio_AAC_New_Source_%5BrDX%5D.mkv.mp4
+#https://openload.co/f/mTFsFIWDkm4/The_Snowman_2017_NOLOGO_HDCAM_X264_HQMic-DADDY.mp4
 
 type=video
 name=Marshall (2017) ENG TS.x264.Clean.Audio.AAC.New.Source.rDX
@@ -3062,6 +3077,34 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#53---2017-11-28
 type=video
 name=By the Time It Gets Dark (2016) TH
 thumb=https://image.tmdb.org/t/p/w640/pGvgpLv9V8CFsY7oQqKuP7hgd0o.jpg
@@ -3110,6 +3153,9 @@ URL=https://openload.co/f/73WSws3H0GU/Bad_Genius_%282017%29%E0%B8%89%E0%B8%A5%E0
 #https://openload.co/f/M0H0ERU8I5I/%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87_Bad_Genius_2017
 
 
+
+
+
 type=video
 name=Cars 3 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
@@ -3124,7 +3170,7 @@ type=video
 name=Cars 3 (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
 date=2017-11-20
-URL=https://openload.co/f/VUgiJZq4ZQM/Cars_3_%282017%29%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87_%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C%2Cmp4
+URL=https://openload.co/f/VUgiJZq4ZQM/Cars_3_%282017%29%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87_%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C.mp4
 #https://openload.co/f/R_9ewXbWxAo/Car.3.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 #https://openload.co/f/xwtBFTGBc9g/Cars_3_%282017%29_TH.mp4
 #https://openload.co/f/9d6mOy0XXNo/Cars_3_%282017%29_THCAM_SOUND%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87_%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
@@ -3180,6 +3226,10 @@ URL=https://openload.co/f/SkyzeE5yttk/Wu.kong.2017.1080p.BrRip.DTS.x264_NongZEZA
 #https://openload.co/f/8jimwsDMf9E/Wu_Kong_%282017%29TH.mp4
 #https://openload.co/f/X5eV80ZRVTA/WuKong.2017.2160p.4K.WEB-DL.H264.AC-3.ThaiRong_CpT%40CtHts.mkv.mp4
 
+
+
+
+
 type=video
 name=The Void (2016) TH
 thumb=https://image.tmdb.org/t/p/w640/nH1YZAL8IeIQEOm2ewi5ncpuPQG.jpg
@@ -3233,6 +3283,11 @@ thumb=https://image.tmdb.org/t/p/w640/mlfjgqmmJldRyi35ziR2L6FV0r.jpg
 date=2017-10-20
 URL=https://openload.co/f/VDZN45BVu_4/Napping_Princess_%282017%29%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%9A%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%95%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 
+
+
+
+
+
 type=video
 name=Two Is a Family (2016) TH
 thumb=https://image.tmdb.org/t/p/w640/muwaDIv5cLv2Z07CZFWOsL7lYuO.jpg
@@ -3281,6 +3336,9 @@ thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
 date=2017-10-16
 URL=https://openload.co/f/VCeBTPsFl54/The_Emoji_Movie_%282017%29%E0%B8%AD%E0%B8%B4%E0%B9%82%E0%B8%A1%E0%B8%88%E0%B8%B4_%E0%B9%81%E0%B8%AD%E0%B9%8A%E0%B8%9E%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 #https://openload.co/f/u-l7sfrizb8/The.Emoji.Movie.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts_%281%29.mkv.mp4
+
+
+
 
 
 type=video

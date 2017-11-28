@@ -69,6 +69,10 @@ description=Based on the novel of the same name, the film depicts the endless ba
 
 # 2744765
 type=video
+name=Doctor Strange (ENG)
+thumb=http://image.tmdb.org/t/p/w500/xfWac8MTYDxujaxgPVcRD9yZaul.jpg
+URL=https://www.blazefile.co/embed-1ufvntvdj4b7.html
+type=video
 name=Doctor Strange
 thumb=http://image.tmdb.org/t/p/w500/xfWac8MTYDxujaxgPVcRD9yZaul.jpg
 URL=https://openload.co/f/2WZoaBaEd60/%5BTH%5DDoctor_Strange_2016
