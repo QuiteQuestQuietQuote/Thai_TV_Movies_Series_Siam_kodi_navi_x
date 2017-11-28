@@ -190,7 +190,9 @@ type=video
 name=Home Again (2017) ENG WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/z5CtCxpblBke2G8c7CMkstedMgY.jpg
 date=2017-11-21
-URL=https://openload.co/f/1vtPT45FBrk/Home.Again.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+URL=https://openload.co/f/ej0TbsfunVg/Home.Again.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/vZhHZMBK2tI/Home.Again.2017.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/1vtPT45FBrk/Home.Again.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/157M4f23VP0/Home_Again_2017_HDCAM_x264-DiRG.mp4
 
 
@@ -340,12 +342,22 @@ URL=https://openload.co/f/_bCmA0g9Xu8/the.layover.2017.dvdrip.x264.fragment.mkv.
 type=video
 name=
 thumb=
-date=2017-11-24
+date=2017-11-28
 URL=
 
 
 
+type=video
+name=Slumber (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/qbq02c1HqpXsuoZfc07ZOig8mqi.jpg
+date=2017-11-28
+URL=https://openload.co/f/b6dV5SfGMn8/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
 
+type=video
+name=The Price (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BY2M5MjI1YjctNWI5Yi00MjVhLTgzNzYtNjg0OTNkNTEzZTY5XkEyXkFqcGdeQXVyMDY5NzA2Ng@@._V1_SY1000_CR0,0,666,1000_AL_.jpg
+date=2017-11-28
+URL=https://openload.co/f/wns44eI1MzU/The_Price_2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Dismissed (2017) ENG WEB-DL.H264.AC3-EVO
@@ -969,18 +981,19 @@ date=2017-08-25
 URL=https://openload.co/f/f3gwH7ze0BA/Unleashed.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
-name=Detroit (2017) ENG CAM.x264-THESTiG
-thumb=https://image.tmdb.org/t/p/w640/7APLVpsGzXPJw16ZuBtXICxq8B9.jpg
-date=2017-08-21
-URL=https://openload.co/f/-k0NTJi1-Hk/Detroit.2017.CAM.x264-THESTiG.mkv.mp4
-
-type=video
 name=Anti Matter (2016) ENG WEB-DL_AAC2.0_H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/62oRA7ghxL9HGFHe5Dd9IVljyKi.jpg
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
 
+
+type=video
+name=Detroit (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/7APLVpsGzXPJw16ZuBtXICxq8B9.jpg
+date=2017-11-28
+URL=https://openload.co/f/fiGn17hslMI/Detroit.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/-k0NTJi1-Hk/Detroit.2017.CAM.x264-THESTiG.mkv.mp4
 
 
 
