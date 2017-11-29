@@ -91,10 +91,11 @@ URL=https://openload.co/f/vpL7f9btUG4/Daddys.Home.2.2017.HDCAM.XVID.HQ.Hive-CM8.
 #https://openload.co/f/IfYB8OGuPfM/Daddys.Home.2.2017.ENG.720p.CAM.x264-NoGRP.mkv.mp4
 
 type=video
-name=Suburbicon (2017) RUS
+name=Suburbicon (2017) ENG HDCAM_ENG_X264-DADDY
 thumb=https://image.tmdb.org/t/p/w640/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg
-date=2017-11-24
-URL=https://openload.co/f/r5XhzYpBWqc/Suburbicon.2017.Russian.CAMRip.1400MB-KOSHARA.avi.mp4
+date=2017-11-29
+URL=https://openload.co/f/o1StljESgxI/Suburbicon_2017_HDCAM_ENG_X264-DADDY.mkv.mp4
+#https://openload.co/f/r5XhzYpBWqc/Suburbicon.2017.Russian.CAMRip.1400MB-KOSHARA.avi.mp4
 
 type=video
 name=Paddington 2 (2017) RUS
@@ -357,16 +358,35 @@ URL=https://openload.co/f/_bCmA0g9Xu8/the.layover.2017.dvdrip.x264.fragment.mkv.
 type=video
 name=
 thumb=
-date=2017-11-28
+date=2017-11-29
 URL=
 
 
 
 type=video
+name=Lazer Team 2 (2017) ENG WEBRip.x264-WEBTiFUL
+thumb=https://image.tmdb.org/t/p/w640/21A6RTi9RgOdHmcwC1DSqgi2cIJ.jpg
+date=2017-11-29
+URL=https://openload.co/f/BS5jT_5IogU/Lazer.Team.2.2017.1080p.WEBRip.x264-WEBTiFUL.mkv.mp4
+
+type=video
+name=Ultimate Justice (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/cGmfYhrDtv0RSFjxsPxkkep5Hmw.jpg
+date=2017-11-29
+URL=https://openload.co/f/z104ogJzM7w/Ultimate_Justice.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=I Do... Until I Don't (2017) ENG dvdrip.x264-lpd
+thumb=https://image.tmdb.org/t/p/w640/5iLKG1fxwqSwFKUbOj8BnBGt1Ec.jpg
+date=2017-11-29
+URL=https://openload.co/f/Xfeo1jdN-14/i.do.until.i.dont.limited.2017.dvdrip.x264-lpd.mkv.mp4
+
+type=video
 name=Slumber (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/qbq02c1HqpXsuoZfc07ZOig8mqi.jpg
-date=2017-11-28
-URL=https://openload.co/f/b6dV5SfGMn8/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
+date=2017-11-29
+URL=https://openload.co/f/nLmL37rlOz4/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/b6dV5SfGMn8/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=The Price (2017) ENG HDRip.XviD.AC3-EVO
@@ -798,11 +818,7 @@ URL=https://openload.co/f/z1asGOwp7mk/An.Ordinary.Man.2017.720p.WEB-DL.H264.AC3-
 
 
 
-type=video
-name=Gerald's Game (2017) ENG web.x264-strife
-thumb=https://image.tmdb.org/t/p/w640/54a8fBmUrHHsI64etGdtT6n9Lzf.jpg
-date=2017-09-29
-URL=https://openload.co/f/M0wgcuSsAHs/Gerald%27s_Game_%282017%29.web.x264-strife.mkv.mp4
+
 
 type=video
 name=Our Souls at Night (2017) ENG web.x264-strife
@@ -1078,8 +1094,21 @@ URL=https://www.blazefile.co/embed-h25coos10uwx.html
 type=video
 name=
 thumb=
-date=2017-11-27
+date=2017-11-29
 URL=
+
+
+type=video
+name=The Red Tent (2014) A
+thumb=https://image.tmdb.org/t/p/w640/iuLw2LZmrl2k4gPME9r6gduKMId.jpg
+date=2017-11-29
+URL=https://openload.co/f/zrI78BrXZaM/the.red.tent.part.1.1080p.web.x264-strife.mkv.mp4
+
+type=video
+name=The Red Tent (2014) B
+thumb=https://image.tmdb.org/t/p/w640/shbYREh8e5r4rX0ahhd5KL9MxAi.jpg
+date=2017-11-29
+URL=https://openload.co/f/inucaC4i_UY/the.red.tent.part.2.1080p.web.x264-strife.mkv.mp4
 
 type=video
 name=Love Finds You in Valentine (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2257,10 +2286,11 @@ URL=https://openload.co/f/UUwifxE0sAE/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B
 
 
 type=video
-name=The Foreigner (2017) ENG SUBBED.CAM.READNFO.XViD-26k
+name=The Foreigner (2017) ENG HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
-date=2017-11-12
-URL=https://openload.co/f/i3PUIrw5QUE/The_Foreigner_%282017%29_%5B720P_ENG_NEW_HC-TC%5D
+date=2017-11-29
+URL=https://openload.co/f/UhUJ1n7obrQ/The.Foreigner.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/i3PUIrw5QUE/The_Foreigner_%282017%29_%5B720P_ENG_NEW_HC-TC%5D
 #https://openload.co/f/n6Qud5byQLs/The_Foreigner.2017.SUBBED.CAM.READNFO.XViD-26k.avi
 #https://openload.co/f/a858rraLqcg/The.Foreigner.2017.Hardcoded.CAM.H264.AC3-NoGRP
 #https://openload.co/f/-MrqwxOfRow/The.Foreigner.2017.CAM.H264.AC3-NoGRP.mkv
@@ -2364,11 +2394,27 @@ URL=https://mcloud.to/embed/jv1wp2?sub.file=https%253A%252F%252Fbmovies.to%252Fs
 type=video
 name=
 thumb=
-date=2017-10-25
+date=2017-11-29
 URL=
 
 
+type=video
+name=The Fundamentals of Caring (2016) THSUB
+thumb=https://image.tmdb.org/t/p/w640/jeustb4cm3S3jfULDhMyXW2YCIt.jpg
+date=2017-11-29
+URL=https://streamango.com/f/mmdkpkromdltplcs/The_Fundamentals_of_Caring_2016_
 
+
+type=video
+name=Gerald's Game (2017) ENG web.x264-strife
+thumb=https://image.tmdb.org/t/p/w640/54a8fBmUrHHsI64etGdtT6n9Lzf.jpg
+date=2017-09-29
+URL=https://openload.co/f/M0wgcuSsAHs/Gerald%27s_Game_%282017%29.web.x264-strife.mkv.mp4
+type=video
+name=Gerald's Game (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/54a8fBmUrHHsI64etGdtT6n9Lzf.jpg
+date=2017-11-29
+URL=https://streamango.com/f/askptlttbcnkellf/Gerald_s_Game_2017_
 
 
 type=video
@@ -2507,10 +2553,11 @@ URL=https://openload.co/f/aa0S9330B3c/1922_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B
 
 
 type=video
-name=Better Watch Out (2017) ENG WEB-DL.XviD.AC3-FGT
+name=Better Watch Out (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
-date=2017-10-06
-URL=https://openload.co/f/zRhfEaYL4NQ/Better.Watch.Out.2016.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+date=2017-11-29
+URL=https://openload.co/f/ItPr-gpepsA/Better.Watch.Out.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/zRhfEaYL4NQ/Better.Watch.Out.2016.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 type=video
 name=Better Watch Out (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
