@@ -201,14 +201,7 @@ thumb=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
 date=2017-10-22
 URL=https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
 
-type=video
-name=Home Again (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/z5CtCxpblBke2G8c7CMkstedMgY.jpg
-date=2017-11-21
-URL=https://openload.co/f/ej0TbsfunVg/Home.Again.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/vZhHZMBK2tI/Home.Again.2017.720p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/1vtPT45FBrk/Home.Again.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/157M4f23VP0/Home_Again_2017_HDCAM_x264-DiRG.mp4
+
 
 
 
@@ -1099,14 +1092,25 @@ date=2017-11-29
 URL=
 
 
+
 type=video
-name=The Red Tent (2014) A
+name=Home Again (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/z5CtCxpblBke2G8c7CMkstedMgY.jpg
+date=2017-11-29
+URL=https://www.blazefile.co/embed-51pgqh4j9y4x.html
+#https://openload.co/f/ej0TbsfunVg/Home.Again.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/vZhHZMBK2tI/Home.Again.2017.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/1vtPT45FBrk/Home.Again.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/157M4f23VP0/Home_Again_2017_HDCAM_x264-DiRG.mp4
+
+type=video
+name=The Red Tent (2014) A [COLOR=FF00FF00]ENG WEB 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/iuLw2LZmrl2k4gPME9r6gduKMId.jpg
 date=2017-11-29
 URL=https://openload.co/f/zrI78BrXZaM/the.red.tent.part.1.1080p.web.x264-strife.mkv.mp4
 
 type=video
-name=The Red Tent (2014) B
+name=The Red Tent (2014) B [COLOR=FF00FF00]ENG WEB 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/shbYREh8e5r4rX0ahhd5KL9MxAi.jpg
 date=2017-11-29
 URL=https://openload.co/f/inucaC4i_UY/the.red.tent.part.2.1080p.web.x264-strife.mkv.mp4
@@ -2557,7 +2561,8 @@ type=video
 name=Better Watch Out (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
 date=2017-11-29
-URL=https://openload.co/f/ItPr-gpepsA/Better.Watch.Out.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
+URL=https://www.blazefile.co/embed-ystpfz1l9f0c.html
+#https://openload.co/f/ItPr-gpepsA/Better.Watch.Out.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/zRhfEaYL4NQ/Better.Watch.Out.2016.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 type=video
 name=Better Watch Out (2017) THSUB
