@@ -50,7 +50,7 @@ http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
 
 
 #EXTINF:-1,MONEY CHANNEL
-http://191.96.38.61:443/news/money_channel_480p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/news/money_channel_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 
 
@@ -76,7 +76,7 @@ http://203.162.235.41:17819
 
 
 #EXTINF:-1,CHANNEL 3
-http://191.96.38.61:443/tvdigital/3_hd_720p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/tvdigital/3_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 #EXTINF:-1,CHANNEL 3
 http://27.254.63.132:1935/live/_definst_/3hd.stream/playlist.m3u8?username=test&password=asdfasdfasdf
@@ -88,7 +88,7 @@ http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
 
 
 #EXTINF:-1,CHANNEL 7
-http://191.96.38.61:443/tvdigital/7_hd_720p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/tvdigital/7_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 
 
@@ -106,7 +106,7 @@ http://symc-cdn05.bkk02.violin.co.th:1935/liveedge/308806374084_600/playlist.m3u
 
 
 #EXTINF:-1,CH 3 family
-http://191.96.38.61:443/tvdigital/3_family_480p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/tvdigital/3_family_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 
 
@@ -142,7 +142,7 @@ http://stream.rs.co.th/ch8-hi/index.m3u8
 
 
 #EXTINF:-1,CH 3 SD
-http://191.96.38.61:443/tvdigital/3_sd_480p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/tvdigital/3_sd_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 
 
@@ -1148,113 +1148,6 @@ http://203.162.235.41:17819
 
 
 
-#EXTINF:-1PPTV HD
-http://103.77.116.250/boboapp4/36_pptvhd/playlist.m3u8
-#EXTINF:-1beIN1Thai
-http://103.77.116.250/boboapp1/bein1a.stream/playlist.m3u8 
-#EXTINF:-1beIN2Thai
-http://103.77.116.250/boboapp1/bein2a.stream/playlist.m3u8
-#EXTINF:-1 beIN3Thai
-http://103.77.116.250/boboapp1/bein3a.stream/playlist.m3u8
-#EXTINF:-1 beIN4Thai
-http://103.77.116.250/boboapp1/bein4a.stream/playlist.m3u8
-#EXTINF:0,Bein Sport 1 AR
-http://cloudlivefw.worse-than.tv:1936/intermns1/beinsport1/playlist.m3u8
-#EXTINF:0,Bein Sport 4 AR
-http://cloudlivefw.worse-than.tv:1936/intermns1/beinsport4/playlist.m3u8
-#EXTINF:0,BeIN Sports 1 TH HD
-http://103.77.116.250/boboapp1/bein1a.stream/playlist.m3u8
-#EXTINF:0,BeIN Sports 2 TH HD
-http://103.77.116.250/boboapp1/bein2a.stream/playlist.m3u8
-#EXTINF:0,BeIN Sports 3 TH HD
-http://103.77.116.252/boboapp1/bein3a.stream/playlist.m3u8
-#EXTINF:0,BeIN Sports 4 TH HD
-http://103.77.116.250/boboapp1/bein4a.stream/playlist.m3u8
-#EXTINF:-1 FOX1HD
-http://103.77.116.250/boboapp1/fox1.stream/playlist.m3u8
-#EXTINF:0,FOX 2 SPORT
-http://103.77.116.250/boboapp6/FOX_SPORTS_2/playlist.m3u8
-#EXTINF:0,FOX SPORT 3
-http://103.77.116.250/boboapp6/FOX_SPORTS_3/playlist.m3u8
-#EXTINF:0,EURO SPORT
-http://103.77.116.250/boboapp6/EURO_SPORTS/playlist.m3u8
-#EXTINF:0,France 24
-http://103.77.116.250/boboapp6/FRANCE_24/playlist.m3u8
-#EXTINF:-1 beIN Sport 1 HD A
-http://103.77.116.250/boboapp1/bein1a.stream/playlist.m3u8
-#EXTINF:-1 beIN Sport 2 HD A
-http://103.77.116.250/boboapp1/bein2a.stream/playlist.m3u8
-#EXTINF:-1 beIN Sport 3 HD A
-http://103.77.116.250/boboapp1/bein2a.stream/playlist.m3u8
-#EXTINF:-1 beIN Sport 4 HD A
-http://103.77.116.250/boboapp1/bein4a.stream/playlist.m3u8
-#EXTINF:-1 SkyNet Sports PLUS   
-http://103.77.116.250/boboapp6/SKYNET_SPORTS_PLUS/playlist.m3u8
-#EXTINF:-1 SkyNet Sports HD   
-http://103.77.116.250/boboapp6/SKYNET_SPORTS_HD/playlist.m3u8
-#EXTINF:-1 Skynet Sports-1 
-http://103.77.116.250/boboapp6/SKYNET_SPORTS-1/playlist.m3u8
-#EXTINF:-1 Skynet Sports-2 
-http://103.77.116.250/boboapp6/SKYNET_SPORTS-2/playlist.m3u8
-#EXTINF:-1 Skynet Sports-3 
-http://103.77.116.250/boboapp6/SKYNET_SPORTS-3/playlist.m3u8
-#EXTINF:-1 Skynet Sports-4 
-http://103.77.116.250/boboapp6/SKYNET_SPORTS-4/playlist.m3u8
-#EXTINF:-1 Skynet Sports-5 
-http://103.77.116.250/boboapp6/SKYNET_SPORTS-5/playlist.m3u8
-#EXTINF:-1 Skynet Sports-6  
-http://103.77.116.250/boboapp6/SKYNET_SPORTS-6/playlist.m3u8
-#EXTINF:-1 Euro Sport   
-http://103.77.116.250/boboapp6/EURO_SPORTS/playlist.m3u8
-#EXTINF:-1Euro Sport News  
-http://103.77.116.250/boboapp6/EURO_SPORTS_NEWS/playlist.m3u8
-#EXTINF:-1 Golf Channel  HD  
-http://103.77.116.250/boboapp1/golf2.stream/playlist.m3u8
-#EXTINF:-1 NBA HD
-http://103.77.116.250/boboapp1/nba2.stream/playlist.m3u8
-#EXTINF:-1 Tennis HD  
-http://103.77.116.250/boboapp1/tennis3.stream/playlist.m3u8
-#EXTINF:-1 True Sport HD
-http://103.77.116.250/boboapp1/thd1.stream/playlist.m3u8
-#EXTINF:-1 True Sport HD 2  
-http://103.77.116.250/boboapp1/thd22.stream/playlist.m3u8
-#EXTINF:-1 True Sport HD 3  
-http://103.77.116.250/boboapp1/thd333.stream/playlist.m3u8
-#EXTINF:-1 Sport Illustrated 
-http://103.77.116.250/boboapp1/a_sportillus.stream/playlist.m3u8
-#EXTINF:-1 Fox Sports HD 
-http://103.77.116.250/boboapp1/fox1.stream/playlist.m3u8
-#EXTINF:-1 Fox Sports 1 
-http://103.77.116.250/boboapp6/FOX_SPORTS_1/playlist.m3u8
-#EXTINF:-1 Fox Sports 2  
-http://103.77.116.250/boboapp6/FOX_SPORTS_2/playlist.m3u8
-#EXTINF:-1 Fox Sports 3  
-http://103.77.116.250/boboapp6/FOX_SPORTS_3/playlist.m3u8
-#EXTINF:-1,Fight Sports  
-http://103.77.116.250/boboapp6/FIGHT_SPORTS_HD/playlist.m3u8
-#EXTINF:-1 Edge Sports 
-http://103.77.116.250/boboapp6/EDGE_SPORTS/playlist.m3u8
-#EXTINF:-1 True Sport 1  
-http://103.77.116.250/boboapp1/a_truesp1.stream/playlist.m3u8
-#EXTINF:-1 True Sport 2  
-http://103.77.116.250/boboapp1/a_truesp2.stream/playlist.m3u8
-#EXTINF:-1 True Sport 3  
-http://103.77.116.250/boboapp1/a_truesp3.stream/playlist.m3u8
-#EXTINF:-1 True Sport 5 
-http://103.77.116.250/boboapp1/a_truesp5.stream/playlist.m3u8
-#EXTINF:-1 True Sport 6  
-http://103.77.116.250/boboapp1/a_truesp6.stream/playlist.m3u8
-#EXTINF:-1 True Sport 7  
-http://103.77.116.250/boboapp1/a_truesp7.stream/playlist.m3u8
-#EXTINF:-1 Speed Channel 
-http://103.77.116.250/boboapp5/speed_ch/playlist.m3u8
-#EXTINF:-1 Dubai Sport 3  
-http://103.77.116.250/boboapp4/203_dubaisport3/playlist.m3u8
-#EXTINF:-1 SMM TV 
-http://103.77.116.250/boboapp4/pb_50_smmtv/playlist.m3u8
-#EXTINF:-1 T-Sport [k]
-http://103.77.116.250/boboapp3/T_SPORT/playlist.m3u8
-
 
 
 
@@ -1692,383 +1585,6 @@ http://203.162.235.41:17819
 
 
 
-#EXTINF:-1,CH3 HD
-http://sinetv.ddns.net:443/lineballsod4/0x777_3hd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,CH5 HD
-http://sinetv.ddns.net:443/lineballsod4/0x777_2tv5_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,CH7 HD
-http://sinetv.ddns.net:443/lineballsod1/0x777_7hd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,MCOT HD
-http://sinetv.ddns.net:443/lineballsod4/0x777_mcothd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,CH3 SD
-http://sinetv.ddns.net:443/lineballsod53/00_3sd_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,CH 3 FAMILY
-http://sinetv.ddns.net:443/lineballsod53/00_3fam_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,MCOT Family
-http://sinetv.ddns.net:443/lineballsod53/00_mcotfam_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,NBT
-http://sinetv.ddns.net:443/lineballsod53/00_2nbt_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,NewTV
-http://sinetv.ddns.net:443/lineballsod1/00_tvdigital_newtv_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,NOW26
-http://sinetv.ddns.net:443/lineballsod53/00_tvdigital_now_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,ONE HD
-http://sinetv.ddns.net:443/lineballsod4/0x777_tvdigital_one_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Spring News
-http://sinetv.ddns.net:443/lineballsod53/00_springnews_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Bright TV
-http://sinetv.ddns.net:443/lineballsod1/00_tvdigital_bright_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Workpoint TV
-http://sinetv.ddns.net:443/lineballsod53/00_tvdigital_workpointtv_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Nation TV
-http://sinetv.ddns.net:443/lineballsod53/00_nation_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Thairath TV
-http://sinetv.ddns.net:443/lineballsod1/00_tvdigital_thairath_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Amarin TV HD
-http://sinetv.ddns.net:443/lineballsod1/00_tvdigital_amarin_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Mono29
-http://sinetv.ddns.net:443/lineballsod53/00_tvdigital_mono_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,PPTV HD
-http://sinetv.ddns.net:443/lineballsod4/0x777_tvdigital_pptv_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Maya
-http://sinetv.ddns.net:443/lineballsod53/00_mcot1_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,GMM channel
-http://sinetv.ddns.net:443/lineballsod53/00_gmm25_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True4U
-http://sinetv.ddns.net:443/lineballsod1/00_true4u_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Plookpanya
-http://sinetv.ddns.net:443/lineballsod1/00_tppy_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,VOICE
-http://sinetv.ddns.net:443/lineballsod53/00_voice_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,CH8
-http://sinetv.ddns.net:443/lineballsod53/0x777_tvdigital_ch8_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,You Channel
-http://sinetv.ddns.net:443/lineballsod53/00_youchannel_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,TNN24
-http://sinetv.ddns.net:443/lineballsod53/00_tnn24_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Money Channel
-http://sinetv.ddns.net:443/lineballsod1/00_moneychannel_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,TNN2
-http://sinetv.ddns.net:443/lineballsod53/00_tnn2_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,M Channel
-http://sinetv.ddns.net:443/lineballsod53/00_mchannel_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,JKN TV
-http://sinetv.ddns.net:443/lineballsod54/0x222_jkn_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,T-Sports
-http://sinetv.ddns.net:443/lineballsod53/0x539_tsports_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,SMM TV
-http://sinetv.ddns.net:443/lineballsod1/00_smmtv_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Miracle TV
-http://sinetv.ddns.net:443/lineballsod53/00_miracle_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Reality TV
-http://sinetv.ddns.net:443/lineballsod1/00_real_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Chic's TV
-http://sinetv.ddns.net:443/lineballsod1/00_chicchannel_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Superbunteung TV
-http://sinetv.ddns.net:443/lineballsod1/00_superbunteng_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Travel TV
-http://sinetv.ddns.net:443/lineballsod1/00_travelchannel_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,TGN TV
-http://sinetv.ddns.net:443/lineballsod1/00_tgn_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,TGN2 TV
-http://sinetv.ddns.net:443/lineballsod1/00_tgn2_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,SME TV
-http://sinetv.ddns.net:443/lineballsod1/00_smechannel_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,ETV Channel
-http://sinetv.ddns.net:443/lineballsod1/00_etv_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Nick Jr.
-http://sinetv.ddns.net:443/lineballsod54/0x222_nickjrthai_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Spark play
-http://sinetv.ddns.net:443/lineballsod53/00_spark_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Spark Jump
-http://sinetv.ddns.net:443/lineballsod1/00_sparkjump_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Disney Channel
-http://sinetv.ddns.net:443/lineballsod1/00_disney_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Discovery Kids
-http://sinetv.ddns.net:443/lineballsod4/0x777_discoverykids_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Toonami
-http://sinetv.ddns.net:443/lineballsod4/0x222_toonami_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Boomerang
-http://sinetv.ddns.net:443/lineballsod53/00_boomerang_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Gang Cartoon
-http://sinetv.ddns.net:443/lineballsod53/00_gangcartoon_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Movie Hits
-http://sinetv.ddns.net:443/lineballsod1/00_moviehits_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Thai Film
-http://sinetv.ddns.net:443/lineballsod1/00_2thaifilm_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Film Asia
-http://sinetv.ddns.net:443/lineballsod1/00_filmasia_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Asian Series
-http://sinetv.ddns.net:443/lineballsod1/00_2asianseries_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Music
-http://sinetv.ddns.net:443/lineballsod1/00_2music_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Trace Urban
-http://sinetv.ddns.net:443/lineballsod54/0x222_traceurbanhd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Fashion TV HD
-http://sinetv.ddns.net:443/lineballsod54/0x222_fashiontvsd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True X-zyte
-http://sinetv.ddns.net:443/lineballsod1/00_xzyte_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Asian Food Channel
-http://sinetv.ddns.net:443/lineballsod1/00_homeandfood_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Very TV
-http://sinetv.ddns.net:443/lineballsod1/00_very_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,MTV Asia
-http://sinetv.ddns.net:443/lineballsod54/0x222_mtvasia_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,MTV Live HD
-http://sinetv.ddns.net:443/lineballsod54/0x222_mtvlivehd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,MTV China
-http://sinetv.ddns.net:443/lineballsod54/0x222_mtvchina_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Channel V Thailand
-http://sinetv.ddns.net:443/lineballsod54/0x222_chvinter_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Explore Wild
-http://sinetv.ddns.net:443/lineballsod1/00_exp1_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Explore Life
-http://sinetv.ddns.net:443/lineballsod53/00_exp2_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Explore Sci
-http://sinetv.ddns.net:443/lineballsod53/00_exp3_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,RAMA
-http://sinetv.ddns.net:443/lineballsod1/00_rama_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Discovery Channel
-http://sinetv.ddns.net:443/lineballsod4/00_dischannel_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,TLC
-http://sinetv.ddns.net:443/lineballsod53/00_tlc_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Animal Planet
-http://sinetv.ddns.net:443/lineballsod4/0x777_animalplanet_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,BBC Earth
-http://sinetv.ddns.net:443/lineballsod4/0x777_bbcearth_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Discovery Science
-http://sinetv.ddns.net:443/lineballsod4/0x777_dissci_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Discovery Worldhd
-http://sinetv.ddns.net:443/lineballsod4/0x777_discoveryworldhd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,EVE
-http://sinetv.ddns.net:443/lineballsod4/0x222_evehd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,DMAX
-http://sinetv.ddns.net:443/lineballsod4/0x777_dmaxhd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,KBS World
-http://sinetv.ddns.net:443/lineballsod1/00_kbs_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Celeatial Classic Movies
-http://sinetv.ddns.net:443/lineballsod54/%200x222_ccm_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,AXN HD
-http://sinetv.ddns.net:443/lineballsod4/%200x777_axnhd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,BBC Life Style
-http://sinetv.ddns.net:443/lineballsod4/0x222_lifestylehd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Discovery Asia
-http://sinetv.ddns.net:443/lineballsod4/0x777_discoveryworldhd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,History Channel
-http://sinetv.ddns.net:443/lineballsod4/0x777_historyhd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,H2 Channel
-http://sinetv.ddns.net:443/lineballsod4/0x777_h2hd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,National Geographic
-http://sinetv.ddns.net:443/lineballsod54/0x222_natgeographic_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,National Geographic People
-http://sinetv.ddns.net:443/lineballsod54/0x222_natgeopeople_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,National Geographic Wild
-http://sinetv.ddns.net:443/lineballsod54/0x222_natgeowild_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,FYI
-http://sinetv.ddns.net:443/lineballsod54/0x222_fyihdthai_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,CI HD
-http://sinetv.ddns.net:443/lineballsod54/0x222_cihd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,HBO HD TH
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_hbohdth_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,HBO HD
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_hbohd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,HBO Signature
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_hbosignature_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,HBO Family
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_hbofam_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,HBO Hits
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_hbohit_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Cinemax
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_cinemax_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Red by HBO
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_redbyhbo_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,FOX Thai
-http://sinetv.ddns.net:443/lineballsod1/00_foxthai_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Fox Action Movies HD TH
-http://sinetv.ddns.net:443/lineballsod53/0x222_foxactionmovieth_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Fox Action Movies HD
-http://sinetv.ddns.net:443/lineballsod53/0x222_foxactionmovieen_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Fox Family Movies HD TH
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_foxfamth_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Fox Family Movies HD
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_foxfamen_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Fox Movies Premium HD TH
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_foxpremiumth_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Fox Movies Premium HD
-http://sinetv.ddns.net:443/lineballsod1/0x777_foxpremiumtruly_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Fox Crime
-http://sinetv.ddns.net:443/lineballsod54/0x222_foxcrimehdthai_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Thrill
-http://sinetv.ddns.net:443/lineballsod54/0x222_thrill_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Starworld
-http://sinetv.ddns.net:443/lineballsod54/0x222_starworldhdthai_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,FX
-http://sinetv.ddns.net:443/lineballsod54/0x222_fxthailand_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Warner TV
-http://sinetv.ddns.net:443/lineballsod54/0x777_warnertv_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Samrojlok
-http://sinetv.ddns.net:443/lineballsod4/0x777_samrujlok_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,MyScience HD
-http://sinetv.ddns.net:443/lineballsod4/0x222_mysci_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Doonee HD
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_doonee_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Zeenung HD
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_zeenung_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,CCTV4
-http://sinetv.ddns.net:443/lineballsod53/00_cctv_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Arirang
-http://sinetv.ddns.net:443/lineballsod54/0x222_arirang_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,DW
-http://sinetv.ddns.net:443/lineballsod54/0x222_dwchannel_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,NHK World TV
-http://sinetv.ddns.net:443/lineballsod54/0x222_nhkworldtv_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Euronews
-http://sinetv.ddns.net:443/lineballsod54/0x222_euronews_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Channel NewsAsia
-http://sinetv.ddns.net:443/lineballsod54/0x222_newsasia_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Sky News HD
-http://sinetv.ddns.net:443/lineballsod54/0x222_skynewshd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Fox News HD
-http://sinetv.ddns.net:443/lineballsod54/0x222_foxnewsthai_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Star Chinese Channel
-http://sinetv.ddns.net:443/lineballsod54/0x222_scc_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,GVTV
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_gvtv_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,GVV
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_gvv_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,GVX
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_gvx_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,TrueSport HD1
-http://sinetv.ddns.net:443/lineballsod54/0x777_2sporthd1_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,TrueSport HD2
-http://sinetv.ddns.net:443/lineballsod54/0x777_2sporthd2_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,TrueSport HD3
-http://sinetv.ddns.net:443/lineballsod54/0x777_2sporthd3_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,TrueSport HD4
-http://sinetv.ddns.net:443/lineballsod54/0x777_2sporthd4_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Sport 1
-http://sinetv.ddns.net:443/lineballsod1/00_2sport1_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Sport 2
-http://sinetv.ddns.net:443/lineballsod1/00_2sport2_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Sport 3
-http://sinetv.ddns.net:443/lineballsod1/00_2sport3_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Sport 5
-http://sinetv.ddns.net:443/lineballsod1/00_2sport5_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Sport 6
-http://sinetv.ddns.net:443/lineballsod1/00_2sport6_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,True Sport 7
-http://sinetv.ddns.net:443/lineballsod53/00_2sport7_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,truetennis
-http://sinetv.ddns.net:443/lineballsod1/0x777_truetennis_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,NBA TV
-http://sinetv.ddns.net:443/lineballsod54/0x777_2nba_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Golf Channel
-http://sinetv.ddns.net:443/lineballsod54/0x777_golfchannel_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,beIN Sports1
-http://sinetv.ddns.net:443/lineballsod1/0x777_beinsport1_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,beIN Sports2
-http://sinetv.ddns.net:443/lineballsod1/0x777_beinsporthd2_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,beIN Sports3
-http://sinetv.ddns.net:443/lineballsod1/0x777_beinsporthd3_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,beIN Sports4
-http://sinetv.ddns.net:443/lineballsod1/0x777_beinsporthd4_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,beIN Sports5
-http://sinetv.ddns.net:443/lineballsod1/0x222_beinsporthd5_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,beIN Sports6
-http://sinetv.ddns.net:443/lineballsod1/0x222_beinsporthd6_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,FOX Sports HD
-http://sinetv.ddns.net:443/lineballsod54/0x777_foxsport1_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,FOX Sports1
-http://sinetv.ddns.net:443/lineballsod54/0x777_foxsport1_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,FOX Sports2
-http://sinetv.ddns.net:443/lineballsod54/0x222_foxsport2_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,FOX Sports3
-http://sinetv.ddns.net:443/lineballsod54/0x222_foxsport3_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Fight Sport
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_fightsport_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,PRTV 1
-http://sinetv.ddns.net:443/lineballsod1/0x777_prtv_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,PRTV 2
-http://sinetv.ddns.net:443/lineballsod1/0x777_prtv2_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,PRTV 3
-http://sinetv.ddns.net:443/lineballsod1/0x777_prtv3_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a3
-#EXTINF:-1,AIS Futsal
-http://sinetv.ddns.net:443/lineballsod53/0x222_ais_futsal_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Speed Channel
-http://sinetv.ddns.net:443/lineballsod1/00_speedchannel_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,SiamSport News
-http://sinetv.ddns.net:443/lineballsod53/00_siamsportnews_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Siamsport Football
-http://sinetv.ddns.net:443/lineballsod53/00_siamsportfootball_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,MUTV
-http://sinetv.ddns.net:443/lineballsod54/0x444_mutv_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,LFCTV
-http://sinetv.ddns.net:443/lineballsod54/0x444_lfctv_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Chelsea TV
-http://sinetv.ddns.net:443/lineballsod54/0x444_chelseatv_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Skynet Sport HD
-http://sinetv.ddns.net:443/lineballsod4/0x777_skynetsporthd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Skynet Sport1
-http://sinetv.ddns.net:443/lineballsod4/00_skynetsport1_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Skynet Sport2
-http://sinetv.ddns.net:443/lineballsod4/00_skynetsport2_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Skynet Sport3
-http://sinetv.ddns.net:443/lineballsod4/00_skynetsport3_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Skynet Sport4
-http://sinetv.ddns.net:443/lineballsod4/00_skynetsport4_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Skynet Sport5
-http://sinetv.ddns.net:443/lineballsod4/00_skynetsport5_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Skynet Sport6
-http://sinetv.ddns.net:443/lineballsod4/00_skynetsport6_480p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,EuroSport HD
-http://sinetv.ddns.net:443/lineballsod1/0x777_eurosport_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,EuroSport1
-http://sinetv.ddns.net:443/lineballsod54/0x444_eurosportuk1_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,EuroSport2
-http://sinetv.ddns.net:443/lineballsod54/0x444_eurosportuk2_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,ESPN HD
-http://sinetv.ddns.net:443/lineballsod4/0x777_espnhd_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Sony ESPN HD
-http://sinetv.ddns.net:443/lineballsod4/0x222_sonyespn_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Sony Six HD
-http://sinetv.ddns.net:443/lineballsod4/0x222_sonysix_720p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,BT Sport1 HD
-http://sinetv.ddns.net:443/lineballsod54/0x444_btsport1manic_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,BT Sport2 HD
-http://sinetv.ddns.net:443/lineballsod54/0x444_btsport2manic_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,BT Sport3 HD
-http://sinetv.ddns.net:443/lineballsod54/0x444_btsport3manic_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,BT Sport ESPN HD
-http://doballvip.ddns.net:443/free3/0x444_btsportespnmanic_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,SPORT TV1
-http://sinetv.ddns.net:443/lineballsod4/0x444_sporttv1_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,SPORT TV2
-http://sinetv.ddns.net:443/lineballsod4/0x444_sporttv2_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,SPORT TV3
-http://sinetv.ddns.net:443/lineballsod4/0x444_sporttv3_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,SPORT TV4
-http://sinetv.ddns.net:443/lineballsod4/0x444_sporttv4_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,SPORT TV5
-http://sinetv.ddns.net:443/lineballsod4/0x444_sporttv5_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,Polsat Sport
-http://sinetv.ddns.net:443/lineballsod53/0x444_polsatpo_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,PFC Sport
-http://sinetv.ddns.net:443/lineballsod4/0x444_pfc_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,SporTV
-http://sinetv.ddns.net:443/lineballsod4/0x444_sportv1br_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,TSN1 Canada
-http://sinetv.ddns.net:443/lineballsod4/0x444_tsn1_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,TSN2 Canada
-http://sinetv.ddns.net:443/lineballsod4/0x444_tsn2_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,TSN3 Canada
-http://sinetv.ddns.net:443/lineballsod4/0x444_tsn3_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,TeleClub Sport 1
-http://sinetv.ddns.net:443/lineballsod4/0x444_teleclub1sw_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,TeleClub Sport 2
-http://sinetv.ddns.net:443/lineballsod4/0x444_teleclub2sw_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-#EXTINF:-1,eir Sport 2
-http://sinetv.ddns.net:443/lineballsod54/0x444_eirsport2_360p/playlist.m3u8?key=a92078cf23ae4f024b4a599634385d5a
-
 
 
 
@@ -2105,381 +1621,6 @@ http://203.162.235.41:17819
 
 
 
-
-#EXTINF:-1,CH3 HD
-http://on24.myftp.org:19368/free41/0x777_3hd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,CH5 HD
-http://on24.myftp.org:19368/free41/0x777_2tv5_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,CH7 HD
-http://on24.myftp.org:19368/free/0x777_7hd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,MCOT HD
-http://on24.myftp.org:19368/free41/0x777_mcothd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,CH3 SD
-http://on24.myftp.org:19368/free53/00_3sd_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,CH 3 FAMILY
-http://on24.myftp.org:19368/free53/00_3fam_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,MCOT Family
-http://on24.myftp.org:19368/free53/00_mcotfam_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,NBT
-http://on24.myftp.org:19368/free53/00_2nbt_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,NewTV
-http://on24.myftp.org:19368/free53/00_tvdigital_newtv_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,NOW26
-http://on24.myftp.org:19368/free53/00_tvdigital_now_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,ONE HD
-http://on24.myftp.org:19368/free41/0x777_tvdigital_one_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Spring News
-http://on24.myftp.org:19368/free53/00_springnews_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Bright TV
-http://on24.myftp.org:19368/free53/00_tvdigital_bright_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Workpoint TV
-http://on24.myftp.org:19368/free53/00_tvdigital_workpointtv_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Nation TV
-http://on24.myftp.org:19368/free53/00_nation_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Thairath TV
-http://on24.myftp.org:19368/free/00_tvdigital_thairath_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Amarin TV HD
-http://on24.myftp.org:19368/free/00_tvdigital_amarin_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Mono29
-http://on24.myftp.org:19368/free53/00_tvdigital_mono_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,PPTV HD
-http://on24.myftp.org:19368/free41/0x777_tvdigital_pptv_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Maya
-http://on24.myftp.org:19368/free53/00_mcot1_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,GMM channel
-http://on24.myftp.org:19368/free53/00_gmm25_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True4U
-http://on24.myftp.org:19368/free/00_true4u_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Plookpanya
-http://on24.myftp.org:19368/free/00_tppy_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,VOICE
-http://on24.myftp.org:19368/free53/00_voice_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,CH8
-http://on24.myftp.org:19368/free53/0x777_tvdigital_ch8_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,You Channel
-http://on24.myftp.org:19368/free53/00_youchannel_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,TNN24
-http://on24.myftp.org:19368/free53/00_tnn24_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Money Channel
-http://on24.myftp.org:19368/free/00_moneychannel_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,TNN2
-http://on24.myftp.org:19368/free53/00_tnn2_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,M Channel
-http://on24.myftp.org:19368/free53/00_mchannel_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,JKN TV
-http://on24.myftp.org:19368/free54/0x222_jkn_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,T-Sports
-http://on24.myftp.org:19368/free53/0x539_tsports_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,SMM TV
-http://on24.myftp.org:19368/free/00_smmtv_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Miracle TV
-http://on24.myftp.org:19368/free53/00_miracle_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Reality TV
-http://on24.myftp.org:19368/free/00_real_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Chic's TV
-http://on24.myftp.org:19368/free/00_chicchannel_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Superbunteung TV
-http://on24.myftp.org:19368/free/00_superbunteng_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Travel TV
-http://on24.myftp.org:19368/free/00_travelchannel_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,TGN TV
-http://on24.myftp.org:19368/free/00_tgn_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,TGN2 TV
-http://on24.myftp.org:19368/free/00_tgn2_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,SME TV
-http://on24.myftp.org:19368/free/00_smechannel_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,ETV Channel
-http://on24.myftp.org:19368/free/00_etv_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Nick Jr.
-http://on24.myftp.org:19368/free54/0x222_nickjrthai_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Spark play
-http://on24.myftp.org:19368/free53/00_spark_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Spark Jump
-http://on24.myftp.org:19368/free/00_sparkjump_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Disney Channel
-http://on24.myftp.org:19368/free/00_disney_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Discovery Kids
-http://on24.myftp.org:19368/free41/0x777_discoverykids_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Toonami
-http://on24.myftp.org:19368/free41/0x222_toonami_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Boomerang
-http://on24.myftp.org:19368/free53/00_boomerang_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Gang Cartoon
-http://on24.myftp.org:19368/free53/00_gangcartoon_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Movie Hits
-http://on24.myftp.org:19368/free/00_moviehits_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Thai Film
-http://on24.myftp.org:19368/free/00_2thaifilm_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Film Asia
-http://on24.myftp.org:19368/free/00_filmasia_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Asian Series
-http://on24.myftp.org:19368/free/00_2asianseries_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Music
-http://on24.myftp.org:19368/free/00_2music_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Trace Urban
-http://on24.myftp.org:19368/free54/0x222_traceurbanhd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Fashion TV HD
-http://on24.myftp.org:19368/free54/0x222_fashiontvsd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True X-zyte
-http://on24.myftp.org:19368/free/00_xzyte_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Asian Food Channel
-http://on24.myftp.org:19368/free/00_homeandfood_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Very TV
-http://on24.myftp.org:19368/free/00_very_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,MTV Asia
-http://on24.myftp.org:19368/free54/0x222_mtvasia_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,MTV Live HD
-http://on24.myftp.org:19368/free54/0x222_mtvlivehd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,MTV China
-http://on24.myftp.org:19368/free54/0x222_mtvchina_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Channel V Thailand
-http://on24.myftp.org:19368/free54/0x222_chvinter_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Explore Wild
-http://on24.myftp.org:19368/free/00_exp1_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Explore Life
-http://on24.myftp.org:19368/free53/00_exp2_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Explore Sci
-http://on24.myftp.org:19368/free53/00_exp3_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,RAMA
-http://on24.myftp.org:19368/free/00_rama_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Discovery Channel
-http://on24.myftp.org:19368/free41/00_dischannel_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,TLC
-http://on24.myftp.org:19368/free53/00_tlc_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Animal Planet
-http://on24.myftp.org:19368/free41/0x777_animalplanet_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,BBC Earth
-http://on24.myftp.org:19368/free41/0x777_bbcearth_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Discovery Science
-http://on24.myftp.org:19368/free41/0x777_dissci_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,EVE
-http://on24.myftp.org:19368/free41/0x222_evehd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,DMAX
-http://on24.myftp.org:19368/free41/0x777_dmaxhd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,KBS World
-http://on24.myftp.org:19368/free/00_kbs_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Celeatial Classic Movies
-http://on24.myftp.org:19368/free54/%200x222_ccm_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,AXN HD
-http://on24.myftp.org:19368/free41/%200x777_axnhd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,BBC Life Style
-http://on24.myftp.org:19368/free41/0x222_lifestylehd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Discovery Asia
-http://on24.myftp.org:19368/free41/0x777_discoveryworldhd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,History Channel
-http://on24.myftp.org:19368/free41/0x777_historyhd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,H2 Channel
-http://on24.myftp.org:19368/free41/0x777_h2hd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,National Geographic
-http://on24.myftp.org:19368/free54/0x222_natgeographic_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,National Geographic People
-http://on24.myftp.org:19368/free54/0x222_natgeopeople_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,National Geographic Wild
-http://on24.myftp.org:19368/free54/0x222_natgeowild_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,FYI
-http://on24.myftp.org:19368/free54/0x222_fyihdthai_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,CI HD
-http://on24.myftp.org:19368/free54/0x222_cihd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,HBO HD TH
-http://on24.myftp.org:19368/free53/0x222_ais_hbohdth_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,HBO HD
-http://on24.myftp.org:19368/free53/0x222_ais_hbohd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,HBO Signature
-http://on24.myftp.org:19368/free53/0x222_ais_hbosignature_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,HBO Family
-http://on24.myftp.org:19368/free53/0x222_ais_hbofam_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,HBO Hits
-http://on24.myftp.org:19368/free53/0x222_ais_hbohit_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Cinemax
-http://on24.myftp.org:19368/free53/0x222_ais_cinemax_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Red by HBO
-http://on24.myftp.org:19368/free53/0x222_ais_redbyhbo_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,FOX Thai
-http://on24.myftp.org:19368/free/00_foxthai_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Fox Action Movies HD TH
-http://on24.myftp.org:19368/free53/0x222_foxactionmovieth_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Fox Action Movies HD
-http://on24.myftp.org:19368/free53/0x222_foxactionmovieen_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Fox Family Movies HD TH
-http://on24.myftp.org:19368/free53/0x222_ais_foxfamth_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Fox Family Movies HD
-http://on24.myftp.org:19368/free53/0x222_ais_foxfamen_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Fox Movies Premium HD TH
-http://on24.myftp.org:19368/free53/0x222_ais_foxpremiumth_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Fox Movies Premium HD
-http://on24.myftp.org:19368/free/0x777_foxpremiumtruly_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Fox Crime
-http://on24.myftp.org:19368/free54/0x222_foxcrimehdthai_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Thrill
-http://on24.myftp.org:19368/free54/0x222_thrill_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Starworld
-http://on24.myftp.org:19368/free54/0x222_starworldhdthai_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,FX
-http://on24.myftp.org:19368/free54/0x222_fxthailand_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Warner TV
-http://on24.myftp.org:19368/free54/0x777_warnertv_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Samrojlok
-http://on24.myftp.org:19368/free41/0x777_samrujlok_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,MyScience HD
-http://on24.myftp.org:19368/free41/0x222_mysci_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Doonee HD
-http://on24.myftp.org:19368/free53/0x222_ais_doonee_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Zeenung HD
-http://on24.myftp.org:19368/free53/0x222_ais_zeenung_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,CCTV4
-http://on24.myftp.org:19368/free53/00_cctv_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Arirang
-http://on24.myftp.org:19368/free54/0x222_arirang_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,DW
-http://on24.myftp.org:19368/free54/0x222_dwchannel_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,NHK World TV
-http://on24.myftp.org:19368/free54/0x222_nhkworldtv_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Euronews
-http://on24.myftp.org:19368/free54/0x222_euronews_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Channel NewsAsia
-http://on24.myftp.org:19368/free54/0x222_newsasia_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Sky News HD
-http://on24.myftp.org:19368/free54/0x222_skynewshd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Fox News HD
-http://on24.myftp.org:19368/free54/0x222_foxnewsthai_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Star Chinese Channel
-http://on24.myftp.org:19368/free54/0x222_scc_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,GVTV
-http://on24.myftp.org:19368/free53/0x222_ais_gvtv_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,GVV
-http://on24.myftp.org:19368/free53/0x222_ais_gvv_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,GVX
-http://on24.myftp.org:19368/free53/0x222_ais_gvx_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,TrueSport HD1
-http://on24.myftp.org:19368/free54/0x777_2sporthd1_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,TrueSport HD2
-http://on24.myftp.org:19368/free54/0x777_2sporthd2_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,TrueSport HD3
-http://on24.myftp.org:19368/free54/0x777_2sporthd3_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,TrueSport HD4
-http://on24.myftp.org:19368/free54/0x777_2sporthd4_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Sport 1
-http://on24.myftp.org:19368/free/00_2sport1_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Sport 2
-http://on24.myftp.org:19368/free/00_2sport2_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Sport 3
-http://on24.myftp.org:19368/free/00_2sport3_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Sport 5
-http://on24.myftp.org:19368/free/00_2sport5_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Sport 6
-http://on24.myftp.org:19368/free/00_2sport6_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True Sport 7
-http://on24.myftp.org:19368/free53/00_2sport7_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,NBA TV
-http://on24.myftp.org:19368/free54/0x777_2nba_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Golf Channel
-http://on24.myftp.org:19368/free54/0x777_golfchannel_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,True tennis
-http://on24.myftp.org:19368/free/0x777_truetennis_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,beIN Sports1
-http://on24.myftp.org:19368/free/0x777_beinsport1_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,beIN Sports2
-http://on24.myftp.org:19368/free/0x777_beinsporthd2_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,beIN Sports3
-http://on24.myftp.org:19368/free/0x777_beinsporthd3_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,beIN Sports4
-http://on24.myftp.org:19368/free/0x777_beinsporthd4_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,beIN Sports5
-http://on24.myftp.org:19368/free/0x222_beinsporthd5_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,beIN Sports6
-http://on24.myftp.org:19368/free/0x222_beinsporthd6_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,FOX Sports HD
-http://on24.myftp.org:19368/free54/0x777_foxsport1_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,FOX Sports1
-http://on24.myftp.org:19368/free54/0x777_foxsport1_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,FOX Sports2
-http://on24.myftp.org:19368/free54/0x222_foxsport2_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,FOX Sports3
-http://on24.myftp.org:19368/free54/0x222_foxsport3_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Fight Sport
-http://on24.myftp.org:19368/free53/0x222_ais_fightsport_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,PRTV 1
-http://on24.myftp.org:19368/free/0x777_prtv_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,PRTV 2
-http://on24.myftp.org:19368/free/0x777_prtv2_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,PRTV 3
-http://on24.myftp.org:19368/free/0x777_prtv3_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy3
-#EXTINF:-1,AIS Futsal
-http://on24.myftp.org:19368/free53/0x222_ais_futsal_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Speed Channel
-http://on24.myftp.org:19368/free/00_speedchannel_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,SiamSport News
-http://on24.myftp.org:19368/free53/00_siamsportnews_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Siamsport Football
-http://on24.myftp.org:19368/free53/00_siamsportfootball_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,MUTV
-http://on24.myftp.org:19368/free54/0x444_mutv_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,LFCTV
-http://on24.myftp.org:19368/free54/0x444_lfctv_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Chelsea TV
-http://on24.myftp.org:19368/free54/0x444_chelseatv_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Skynet Sport HD
-http://on24.myftp.org:19368/free41/0x777_skynetsporthd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Skynet Sport1
-http://on24.myftp.org:19368/free41/00_skynetsport1_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Skynet Sport2
-http://on24.myftp.org:19368/free41/00_skynetsport2_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Skynet Sport3
-http://on24.myftp.org:19368/free41/00_skynetsport3_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Skynet Sport4
-http://on24.myftp.org:19368/free41/00_skynetsport4_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Skynet Sport5
-http://on24.myftp.org:19368/free41/00_skynetsport5_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Skynet Sport6
-http://on24.myftp.org:19368/free41/00_skynetsport6_480p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,EuroSport HD
-http://on24.myftp.org:19368/free/0x777_eurosport_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,EuroSport1
-http://on24.myftp.org:19368/free54/0x444_eurosportuk1_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,EuroSport2
-http://on24.myftp.org:19368/free54/0x444_eurosportuk2_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,ESPN HD
-http://on24.myftp.org:19368/free41/0x777_espnhd_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Sony ESPN HD
-http://on24.myftp.org:19368/free41/0x222_sonyespn_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Sony Six HD
-http://on24.myftp.org:19368/free41/0x222_sonysix_720p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,BT Sport1 HD
-http://on24.myftp.org:19368/free54/0x444_btsport1manic_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,BT Sport2 HD
-http://on24.myftp.org:19368/free54/0x444_btsport2manic_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,BT Sport3 HD
-http://on24.myftp.org:19368/free54/0x444_btsport3manic_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,BT Sport ESPN HD
-http://on24.myftp.org:19368/free3/0x444_btsportespnmanic_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,SPORT TV1
-http://on24.myftp.org:19368/free41/0x444_sporttv1_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,SPORT TV2
-http://on24.myftp.org:19368/free41/0x444_sporttv2_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,SPORT TV3
-http://on24.myftp.org:19368/free41/0x444_sporttv3_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,SPORT TV4
-http://on24.myftp.org:19368/free41/0x444_sporttv4_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,SPORT TV5
-http://on24.myftp.org:19368/free41/0x444_sporttv5_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,Polsat Sport
-http://on24.myftp.org:19368/free53/0x444_polsatpo_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,PFC Sport
-http://on24.myftp.org:19368/free41/0x444_pfc_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,SporTV
-http://on24.myftp.org:19368/free41/0x444_sportv1br_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,TSN1 Canada
-http://on24.myftp.org:19368/free41/0x444_tsn1_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,TSN2 Canada
-http://on24.myftp.org:19368/free41/0x444_tsn2_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,TSN3 Canada
-http://on24.myftp.org:19368/free41/0x444_tsn3_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,TeleClub Sport 1
-http://on24.myftp.org:19368/free41/0x444_teleclub1sw_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,TeleClub Sport 2
-http://on24.myftp.org:19368/free41/0x444_teleclub2sw_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
-#EXTINF:-1,eir Sport 2
-http://on24.myftp.org:19368/free54/0x444_eirsport2_360p/playlist.m3u8?key=4560989onlineball24tmy2yyb6hy
 
 
 
@@ -2609,25 +1750,25 @@ http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=te
 http://27.254.63.132:1935/live/_definst_/movie3.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 #EXTINF:-1,HBO HD
-http://191.96.38.61:443/movie/hbo_hd_720p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/movie/hbo_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 #EXTINF:-1,HBO Hits
-http://191.96.38.61:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 #EXTINF:-1,HISTORY
-http://191.96.38.61:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 #EXTINF:-1,Cinemax
-http://191.96.38.61:443/movie/cinemax_720p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/movie/cinemax_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 #EXTINF:-1,Fox Mov Pre HD 
-http://191.96.38.61:443/movie/fox_movies_premium_hd_720p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/movie/fox_movies_premium_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 #EXTINF:-1,Doonee HD
-http://191.96.38.61:443/movie/ais_doonee_720p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/movie/ais_doonee_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 #EXTINF:-1,RED by HBO
-http://191.96.38.61:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 
 
@@ -2635,22 +1776,22 @@ http://191.96.38.61:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=c8XrjUdgpD
 
 
 #EXTINF:-1,discovery_hd_world
-http://191.96.38.61:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 #EXTINF:-1,history_channel
-http://191.96.38.61:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 #EXTINF:-1,national_geographic
-http://191.96.38.61:443/documentary/national_geographic_hd_720p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/documentary/national_geographic_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 #EXTINF:-1,national_geographic_people
-http://191.96.38.61:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 #EXTINF:-1,discovery_science
-http://191.96.38.61:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 #EXTINF:-1,discovery_channel
-http://191.96.38.61:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 
 
@@ -2660,11 +1801,11 @@ rtmp://tv01.thaizatv.com/drm/movie1
 
 
 #EXTINF:-1,discovery_science
-http://191.96.38.61:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,discovery_channel
-http://191.96.38.61:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,national_geographic_people
-http://191.96.38.61:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=c8XrjUdgpDAex0I5kYpWUQ&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmfeb01de67a7355de0a85&e=1512014318
+http://191.96.38.61:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 
 
