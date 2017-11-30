@@ -84,10 +84,11 @@ date=2017-11-28
 URL=http://entervideo.net/watch/dc143d328339b28
 
 type=video
-name=Daddy's Home 2 (2017) ENG HDCAM.XVID.HQ.Hive-CM8
+name=Daddy's Home 2 (2017) ENG HDTS.x264-EZIS
 thumb=https://image.tmdb.org/t/p/w640/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg
-date=2017-11-26
-URL=https://openload.co/f/vpL7f9btUG4/Daddys.Home.2.2017.HDCAM.XVID.HQ.Hive-CM8.avi
+date=2017-11-30
+URL=https://openload.co/f/FC1fJ8taIqA/Daddys.Home.2.2017.HDTS.x264-EZIS.mkv.mp4
+#https://openload.co/f/vpL7f9btUG4/Daddys.Home.2.2017.HDCAM.XVID.HQ.Hive-CM8.avi
 #https://openload.co/f/IfYB8OGuPfM/Daddys.Home.2.2017.ENG.720p.CAM.x264-NoGRP.mkv.mp4
 
 type=video
@@ -226,9 +227,15 @@ URL=https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
 type=video
 name=
 thumb=
-date=2017-11-27
+date=2017-11-30
 URL=
 
+
+type=video
+name=Borg vs McEnroe (2017) ENG DVDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/9hR2emM9MqH5LJPTjG8o7RPpksU.jpg
+date=2017-11-30
+URL=https://openload.co/f/tvbUMQN9u7Y/Borg.vs.McEnroe.2017.DVDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name='Til Death Do Us Part (2017) ENG HDCAM.x264-DiRG
@@ -1013,12 +1020,7 @@ URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-
 
 
 
-type=video
-name=Detroit (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/7APLVpsGzXPJw16ZuBtXICxq8B9.jpg
-date=2017-11-28
-URL=https://openload.co/f/fiGn17hslMI/Detroit.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/-k0NTJi1-Hk/Detroit.2017.CAM.x264-THESTiG.mkv.mp4
+
 
 
 
@@ -1088,10 +1090,28 @@ URL=https://www.blazefile.co/embed-h25coos10uwx.html
 type=video
 name=
 thumb=
-date=2017-11-29
+date=2017-11-30
 URL=
 
 
+
+
+
+type=video
+name=The Party (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/8psrYC1Tys8RuS7CIBAWgFu369d.jpg
+date=2017-11-30
+URL=https://openload.co/f/R5Bp567SYVU/The.Party.2017.1080p.BluRay.x264-JustWatch.mkv.mp4
+#https://www.blazefile.co/embed-zi4wp00eqwnt.html   720
+
+type=video
+name=Detroit (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/7APLVpsGzXPJw16ZuBtXICxq8B9.jpg
+date=2017-11-30
+URL=https://www.blazefile.co/embed-5a2qza2ljynp.html
+#https://openload.co/f/Tf9pqu0f13c/Detroit.2017.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/fiGn17hslMI/Detroit.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/-k0NTJi1-Hk/Detroit.2017.CAM.x264-THESTiG.mkv.mp4
 
 type=video
 name=Home Again (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2310,20 +2330,7 @@ URL=https://openload.co/f/xnQIzCCvlFQ/The_Foreigner_%282017%29%E0%B9%82%E0%B8%84
 
 
 
-type=video
-name=Kingsman: The Golden Circle (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
-date=2017-11-26
-URL=https://openload.co/f/pebgWAfLtow/Kingsman.The.Golden.Circle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/KoSidQAV37g/Kingsman_The_Golden_Circle_2017_HD-TS_x264_HQ-CPG.mkv.mp4
-#https://openload.co/f/DXfWPdel-FY/Kingsman.The.Golden.Circle.2017.TS.Xvid.AC3.avi.mp4
-#https://openload.co/f/HaBGBsva7yY/Kingsman.The.Golden.Circle.2017.HD-TS.x264.HQ-CPG.mp4
-type=video
-name=Kingsman: The Golden Circle (2017) TH CAM
-thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
-date=2017-09-25
-URL=https://storage.googleapis.com/mlk-s/skl9ae2qp/KINGSMAN%20THE%20GOLDEN%20CIRCLE%20(2017)%20%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99%20%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C1080.MP4
-#https://streamango.com/f/amlbkcpmdsoaobqm/Kingsman_The_Golden_Circle_2017_TS_720p_ThaiRong_2_0_CpT_CtHts_mkv_mp4
+
 
 
 
@@ -2407,7 +2414,8 @@ type=video
 name=The Fundamentals of Caring (2016) THSUB
 thumb=https://image.tmdb.org/t/p/w640/jeustb4cm3S3jfULDhMyXW2YCIt.jpg
 date=2017-11-29
-URL=https://streamango.com/f/mmdkpkromdltplcs/The_Fundamentals_of_Caring_2016_
+URL=https://openload.co/f/NHa1i6xUahM/The_Fundamentals_of_Caring_%282016%29%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B9%83%E0%B8%88_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+#https://streamango.com/f/mmdkpkromdltplcs/The_Fundamentals_of_Caring_2016_
 
 
 type=video
@@ -2419,7 +2427,8 @@ type=video
 name=Gerald's Game (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w640/54a8fBmUrHHsI64etGdtT6n9Lzf.jpg
 date=2017-11-29
-URL=https://streamango.com/f/askptlttbcnkellf/Gerald_s_Game_2017_
+URL=https://openload.co/f/0SYELM6u_ZE/Gerald%27s_Game_%282017%29%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B8%E0%B8%81%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+#https://streamango.com/f/askptlttbcnkellf/Gerald_s_Game_2017_
 
 
 type=video
@@ -2816,6 +2825,26 @@ URL=
 
 
 
+
+type=video
+name=Kingsman: The Golden Circle (2017)  [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
+date=2017-11-30
+URL=https://www.blazefile.co/embed-rtm0anmnmey1.html
+#https://openload.co/f/xehakN9vsR8/Kingsman_The_Golden_Circle_2017_720p_BluRay_x264-SPARKS.mp4
+#https://openload.co/f/pebgWAfLtow/Kingsman.The.Golden.Circle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/KoSidQAV37g/Kingsman_The_Golden_Circle_2017_HD-TS_x264_HQ-CPG.mkv.mp4
+#https://openload.co/f/DXfWPdel-FY/Kingsman.The.Golden.Circle.2017.TS.Xvid.AC3.avi.mp4
+#https://openload.co/f/HaBGBsva7yY/Kingsman.The.Golden.Circle.2017.HD-TS.x264.HQ-CPG.mp4
+type=video
+name=Kingsman: The Golden Circle (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
+date=2017-11-30
+URL=https://openload.co/f/K8RQiOfBpP0/Kingsman%3A_The_Golden_Circle_%282017%29%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://storage.googleapis.com/mlk-s/skl9ae2qp/KINGSMAN%20THE%20GOLDEN%20CIRCLE%20(2017)%20%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99%20%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C1080.MP4
+#https://streamango.com/f/amlbkcpmdsoaobqm/Kingsman_The_Golden_Circle_2017_TS_720p_ThaiRong_2_0_CpT_CtHts_mkv_mp4
+
+
 type=video
 name=American Assassin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
@@ -3123,7 +3152,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-11-26
+date=2017-11-30
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
@@ -3131,7 +3160,11 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
-
+type=video
+name=Bounty Hunters (2016) TH
+thumb=https://image.tmdb.org/t/p/w640/v9JhucyPqepNiHaHFuKmOLzKPs7.jpg
+date=2017-11-30
+URL=https://openload.co/f/FGXBOg7F9mE/BOUNTY_HUNTERS_%282016%29_-_%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%AC_%E0%B8%AE%E0%B8%B2_%E0%B8%97%E0%B9%89%E0%B8%B2_%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99_1080P.mkv.mp4
 
 
 
