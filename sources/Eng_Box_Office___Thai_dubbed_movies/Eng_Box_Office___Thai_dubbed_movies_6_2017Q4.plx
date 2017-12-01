@@ -227,9 +227,26 @@ URL=https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
 type=video
 name=
 thumb=
-date=2017-11-30
+date=2017-12-01
 URL=
 
+type=video
+name=Love Beats Rhymes (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/xOY5AFJhACTgJJeTQTvlyOYw2BS.jpg
+date=2017-12-01
+URL=https://openload.co/f/cQyihtUfMoE/Love.Beats.Rhymes.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=Gangster Land (2017) ENG HDRip.x264.AAC-N.O.K
+thumb=https://image.tmdb.org/t/p/w640/npteMVPwuNqt9lAqDC67Ld4NESf.jpg
+date=2017-12-01
+URL=https://openload.co/f/278RrLe94Yg/Gangster_Land_2017.720p.HDRip.x264.AAC-N.O.K.mp4
+
+type=video
+name=The Tribes of Palos Verdes (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/8w4JecmVtqcSMk4mdiHURzISsYz.jpg
+date=2017-12-01
+URL=https://openload.co/f/M6r-cHT1VtI/The.Tribes.of.Palos.Verdes.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=Borg vs McEnroe (2017) ENG DVDRip.XviD.AC3-EVO
@@ -362,6 +379,11 @@ date=2017-11-29
 URL=
 
 
+type=video
+name=A Bad Idea Gone Wrong (2017) ENG WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/zGA4aQzypmHiAa1xmpCynwWFHcD.jpg
+date=2017-12-01
+URL=https://openload.co/f/E1xpU_0UcTg/A.Bad.Idea.Gone.Wrong.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=Lazer Team 2 (2017) ENG WEBRip.x264-WEBTiFUL
@@ -1934,11 +1956,7 @@ description=An aging Latin lover gets dumped by his sugar mama and must fend for
 
 
 
-type=video
-name=Your Name. (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/xq1Ugd62d23K2knRUx6xxuALTZB.jpg
-date=2017-07-28
-URL=https://openload.co/f/oJs5aOQQWMM/your.name.2016.1080p.bluray.x264-haiku.mkv.mp4
+
 
 type=video
 name=Wakefield (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2310,21 +2328,7 @@ URL=https://openload.co/f/UUwifxE0sAE/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B
 
 
 
-type=video
-name=The Foreigner (2017) ENG HC.HDRip.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
-date=2017-11-29
-URL=https://openload.co/f/UhUJ1n7obrQ/The.Foreigner.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/i3PUIrw5QUE/The_Foreigner_%282017%29_%5B720P_ENG_NEW_HC-TC%5D
-#https://openload.co/f/n6Qud5byQLs/The_Foreigner.2017.SUBBED.CAM.READNFO.XViD-26k.avi
-#https://openload.co/f/a858rraLqcg/The.Foreigner.2017.Hardcoded.CAM.H264.AC3-NoGRP
-#https://openload.co/f/-MrqwxOfRow/The.Foreigner.2017.CAM.H264.AC3-NoGRP.mkv
-#https://openload.co/f/_3n4kc7SkNQ/The_Foreigner_%282017%29_ENGLISH_CAM-H264-AC3-Zit.mkv.mp4
-type=video
-name=The Foreigner (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
-date=2017-10-10
-URL=https://openload.co/f/xnQIzCCvlFQ/The_Foreigner_%282017%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
 
 
 
@@ -2827,6 +2831,24 @@ URL=
 
 
 type=video
+name=The Foreigner (2017) ENG HC.HDRip.X264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
+date=2017-11-29
+URL=https://openload.co/f/UhUJ1n7obrQ/The.Foreigner.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/i3PUIrw5QUE/The_Foreigner_%282017%29_%5B720P_ENG_NEW_HC-TC%5D
+#https://openload.co/f/n6Qud5byQLs/The_Foreigner.2017.SUBBED.CAM.READNFO.XViD-26k.avi
+#https://openload.co/f/a858rraLqcg/The.Foreigner.2017.Hardcoded.CAM.H264.AC3-NoGRP
+#https://openload.co/f/-MrqwxOfRow/The.Foreigner.2017.CAM.H264.AC3-NoGRP.mkv
+#https://openload.co/f/_3n4kc7SkNQ/The_Foreigner_%282017%29_ENGLISH_CAM-H264-AC3-Zit.mkv.mp4
+type=video
+name=The Foreigner (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
+date=2017-12-01
+URL=https://streamango.com/f/btnooloqpakecqrr/The_Foreigner_2017_1080p_HC_WEBRip_x264_AAC2_0_mkv_mp4
+#https://openload.co/f/xnQIzCCvlFQ/The_Foreigner_%282017%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
+
+type=video
 name=Kingsman: The Golden Circle (2017)  [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
 date=2017-11-30
@@ -2946,18 +2968,7 @@ date=2017-10-16
 URL=https://openload.co/f/5XvWdoNbUgg/My_Little_Pony%3A_The_Movie_%282017%29%E0%B8%A1%E0%B8%B2%E0%B8%A2_%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B9%89%E0%B8%A5_%E0%B9%82%E0%B8%9E%E0%B8%99%E0%B8%B5%E0%B9%88_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
-type=video
-name=Wish Upon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
-date=2017-09-29
-URL=https://www.blazefile.co/embed-w1kdw7wlzjl9.html
-#https://openload.co/f/k3-alTvMyT8/Wish.Upon.2017.UNRATED.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/Yb9sKQH9gC8/Wish.Upon.2017.1080p.BluRay.x264-%255BYTS.AG%255D.mp4
-type=video
-name=Wish Upon (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
-date=2017-10-03
-URL=https://openload.co/f/K4Ta8lkseM4/Wish.Upon.2017.UNRATED.1080p.BluRay.x264.ThaiRong.5.1_CpT%40CtHts.mkv.mp4
+
 
 
 
@@ -3089,11 +3100,7 @@ thumb=https://image.tmdb.org/t/p/w640/xfFoewesyuWRVh4qBbXbMhH6gm7.jpg
 date=2017-09-03
 URL=https://openload.co/f/QJKz4qKx5q8/What.Happened.to.Monday.2017.1080p.NF.WEB-DL.ThaiRong.5.1.x264_CpT%40CtHts.mkv.mp4
 
-type=video
-name=Ghost House (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/7EPOZv9bQjNVjFvk8lPGkcTubgO.jpg
-date=2017-08-29
-URL=https://openload.co/f/FJ60frgwvyY/Ghost.House.2017.1080p.WEB-DL.ThaiRong5.1.H264_CpT%40CtHts.mkv.mp4
+
 
 
 
@@ -3157,7 +3164,39 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+type=video
+name=Ghost House (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/7EPOZv9bQjNVjFvk8lPGkcTubgO.jpg
+date=2017-12-01
+URL=https://openload.co/f/XNspW7_dxc8/Ghost_House_%282017%29%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%99%E0%B8%A8%E0%B8%B2%E0%B8%A5.mp4
+#https://openload.co/f/FJ60frgwvyY/Ghost.House.2017.1080p.WEB-DL.ThaiRong5.1.H264_CpT%40CtHts.mkv.mp4
 
+
+type=video
+name=Wish Upon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
+date=2017-09-29
+URL=https://www.blazefile.co/embed-w1kdw7wlzjl9.html
+#https://openload.co/f/k3-alTvMyT8/Wish.Upon.2017.UNRATED.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Yb9sKQH9gC8/Wish.Upon.2017.1080p.BluRay.x264-%255BYTS.AG%255D.mp4
+type=video
+name=Wish Upon (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
+date=2017-12-01
+URL=https://openload.co/f/wPfEYjRl8YI/Wish_Upon_%282017%29%E0%B8%9E%E0%B8%A3_%E0%B8%82%E0%B8%AD_%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+#https://openload.co/f/K4Ta8lkseM4/Wish.Upon.2017.UNRATED.1080p.BluRay.x264.ThaiRong.5.1_CpT%40CtHts.mkv.mp4
+
+
+type=video
+name=Your Name. (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/xq1Ugd62d23K2knRUx6xxuALTZB.jpg
+date=2017-07-28
+URL=https://openload.co/f/oJs5aOQQWMM/your.name.2016.1080p.bluray.x264-haiku.mkv.mp4
+type=video
+name=Your Name. (2016) TH
+thumb=https://image.tmdb.org/t/p/w640/xq1Ugd62d23K2knRUx6xxuALTZB.jpg
+date=2017-12-01
+URL=https://openload.co/f/8t1FHvhif1Y/Your_Name._%282016%29%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B2%E0%B8%9D%E0%B8%B1%E0%B8%99_%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
 
 
 type=video
