@@ -53,6 +53,179 @@ URL=
 
 
 
+type=video
+name=130xxxxxxxxxxxxxxxxxxxxFairy Beauty Shop (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Fairy-Beauty-Shop-2017-Uncut.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/pcnmestkedqeotlk/
+
+type=video
+name=Watch Calendar Girl (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Calendar-Girl-2016-1.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/ctdmrdfomtlpsfad/
+
+type=video
+name=Members Only (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Members-Only-2017.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/lqptldsqancrloep/
+
+
+type=video
+name=Living Together – My Friend’s Girlfriend (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Living-Together-My-Friend%E2%80%99s-Girlfriend-2017-Uncut.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/eplkmctaoprkotll/
+
+type=video
+name=Women Sexual Satisfaction (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Women-Sexual-Satisfaction-2017-Uncut.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/bfqmsskndbfpdkeo/
+
+type=video
+name=A Good Mother (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/A-Good-Mother-2017-Uncut.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/klllmoqteptsneaq/
+
+type=video
+name=An Affair – My Friend’s Mom (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/An-Affair-%E2%80%93-My-Friend%E2%80%99s-Mom-2017-Uncut.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/adtmlttpdfkrlmdf/
+
+type=video
+name=My Student’s Mom 2 (2017)
+thumb=https://erotic2you.com/wp-content/uploads/2017/10/My-Students-Mom-2-2017-400x566.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/ddalrpmlnlkfkocc/
+
+
+type=video
+name=Office Lovestory (2007)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Office-Lovestory-2007.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/ponbbpdnqldokeqa/
+
+type=video
+name=A Suspicious Employees (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/A-Suspicious-Employees-2017.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/drtsbklnnbrldfmc/
+
+type=video
+name=Lee Chaedam’s G-Spot (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Lee-Chaedams-G-Spot-2017.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/rlqsfpkpnafdplbn/
+
+type=video
+name=The Running Actress (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/The-Running-Actress-2017.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/drbqalpolnrrmfdq/
+
+type=video
+name=Doctor of Breast 1 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Doctor-of-Breast-1-4-2016.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/tsrfpsfqmpfoknmm/
+
+
+type=video
+name=Doctor of Breast 2 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Doctor-of-Breast-1-4-2016.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/lmflcemlaorodftm/
+
+type=video
+name=Doctor of Breast 3 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Doctor-of-Breast-1-4-2016.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/aoqnfpkrcepmkerf/
+
+type=video
+name=Doctor of Breast 4 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Doctor-of-Breast-1-4-2016.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/santmrfmklsnsnbr/
+
+type=video
+name=Fairy Beauty Shop (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Fairy-Beauty-Shop-2017.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/lockqsckdnskmbqc/
+
+type=video
+name=A Lonely Cow Weeps At Dawn (2003)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/A-Lonely-Cow-Weeps-At-Dawn-2003.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/bdfqlcbcotfbdloe/
+
+
+type=video
+name=The Girl Next Door 2 ( 2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/The-Girl-Next-Door-2-2017-Rev.1.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/pcosadkblbcmbpkm/
+
+type=video
+name=A Good Mother (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/A-Good-Mother-2017.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/pmfbeptdodaodslq/
+
+type=video
+name=Women Sexual Satisfaction (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Women-Sexual-Satisfaction-2017.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/klcdmaroksknellq/
+
+type=video
+name=Delicious Delivery (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Delicious-Delivery-2015.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/fkdlakcdbkpaoqlq/
+
+type=video
+name=With Uniform (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/With-Uniform-2015.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/medffmmrnsolbpbt/
+
+
+type=video
+name=Dream Comes True (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Dream-Comes-True-2017.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/koefdsbroeldknca/
+
+type=video
+name=A Female Student (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/A-Female-Student-2017.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/bqorksrenrbeleck/
+
+type=video
+name=Kim Binh Mai (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Kim-Binh-Mai-2017.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/lraoqdbnbnkemssm/
+
+type=video
+name=Hot Sex Talk (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Hot-Sex-Talk-2015.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/pftftrtkadkcfrsa/
+
+type=video
+name=Red Bikini (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/10/Red-Bikini-2017.jpg
+date=2017-12-02
+URL=https://streamcherry.com/embed/bloskpbemlfbleff/
+
 
 
 
