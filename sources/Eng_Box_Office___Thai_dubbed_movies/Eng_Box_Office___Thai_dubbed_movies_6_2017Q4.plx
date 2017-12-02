@@ -72,10 +72,11 @@ URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.blu
 
 
 type=video
-name=Roman J. Israel, Esq. (2017) RUS
+name=Roman J. Israel, Esq. (2017) ENG HDCAM.H264-Zi%24t
 thumb=https://image.tmdb.org/t/p/w640/8e5IGlLrVjwrlDcRtzSQkXhJFWl.jpg
-date=2017-11-28
-URL=https://openload.co/f/EtDmEWBVIow/Roman.J.Israel.Esq.2017.P.kol.TS.14OOMB_KOSHARA.E.mp4
+date=2017-12-02
+URL=https://openload.co/f/Sxn9_vuvfKM/Roman.J.Israel.Esq.2017.720p.ENG.HDCAM.H264-Zi%24t.mkv.mp4
+#https://openload.co/f/EtDmEWBVIow/Roman.J.Israel.Esq.2017.P.kol.TS.14OOMB_KOSHARA.E.mp4
 
 type=video
 name=Marrowbone (2017) RUS
@@ -375,15 +376,36 @@ URL=https://openload.co/f/_bCmA0g9Xu8/the.layover.2017.dvdrip.x264.fragment.mkv.
 type=video
 name=
 thumb=
-date=2017-11-29
+date=2017-12-02
 URL=
 
+
+type=video
+name=Olaf's Frozen Adventure (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/47pLZ1gr63WaciDfHCpmoiXJlVr.jpg
+date=2017-12-02
+URL=https://openload.co/f/TcwkMEBNA0s/Olafs_Frozen_Adventure.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
+type=video
+name=Madame (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/m8DfNZSRDhv1faYPoldjglinmzi.jpg
+date=2017-12-02
+URL=https://openload.co/f/WlPzb_Qg5kQ/Madame.2017.HDRip.XviD.AC3-EVO.mp4
 
 type=video
 name=A Bad Idea Gone Wrong (2017) ENG WEB-DL.XviD.AC3-FGT
 thumb=https://image.tmdb.org/t/p/w640/zGA4aQzypmHiAa1xmpCynwWFHcD.jpg
 date=2017-12-01
 URL=https://openload.co/f/E1xpU_0UcTg/A.Bad.Idea.Gone.Wrong.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+
+
+
+
+
+
+
+
 
 type=video
 name=Lazer Team 2 (2017) ENG WEBRip.x264-WEBTiFUL
@@ -1177,12 +1199,7 @@ URL=https://www.blazefile.co/embed-c5c51upopspv.html
 #https://openload.co/f/Qig1twIBOug/The.Crucifixion.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/0Gsb3X7-US0/The_Crucifixion.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
-type=video
-name=All Saints (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/k6MDUbSs4At1NZOYuEJqEmxmLOs.jpg
-date=2017-11-26
-URL=https://www.blazefile.co/embed-4nj18oib9gig.html
-#https://openload.co/f/kXZ_vArcxVI/all.saints.2017.1080p.bluray.x264-drones.mkv.mp4
+
 
 type=video
 name=The Snow Queen 3: Fire and Ice (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1373,13 +1390,8 @@ thumb=https://image.tmdb.org/t/p/w640/6Hr2b0fB02vLFfjrTiwJTTpv0Qg.jpg
 date=2017-11-04
 URL=https://www.blazefile.co/embed-yxhf6jzxabv7.html
 
-type=video
-name=Wind River (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
-date=2017-11-04
-URL=https://www.blazefile.co/embed-68cdy7nrowcj.html
-#https://openload.co/f/PvkzQWxykww/Wind.River.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/KrtMkCMab98/Wind.River.2017.HDRip.XviD.AC3-iFT.avi.mp4
+
+
 
 type=video
 name=The Show (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2414,6 +2426,20 @@ date=2017-11-29
 URL=
 
 
+
+type=video
+name=All Saints (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/k6MDUbSs4At1NZOYuEJqEmxmLOs.jpg
+date=2017-11-26
+URL=https://www.blazefile.co/embed-4nj18oib9gig.html
+#https://openload.co/f/kXZ_vArcxVI/all.saints.2017.1080p.bluray.x264-drones.mkv.mp4
+type=video
+name=All Saints (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/k6MDUbSs4At1NZOYuEJqEmxmLOs.jpg
+date=2017-12-02
+URL=https://streamango.com/f/cnlptbefleoskkdm/All_Saints_2017_
+
+
 type=video
 name=The Fundamentals of Caring (2016) THSUB
 thumb=https://image.tmdb.org/t/p/w640/jeustb4cm3S3jfULDhMyXW2YCIt.jpg
@@ -2829,6 +2855,19 @@ URL=
 
 
 
+type=video
+name=Wind River (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
+date=2017-11-04
+URL=https://www.blazefile.co/embed-68cdy7nrowcj.html
+#https://openload.co/f/PvkzQWxykww/Wind.River.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/KrtMkCMab98/Wind.River.2017.HDRip.XviD.AC3-iFT.avi.mp4
+type=video
+name=Wind River (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
+date=2017-12-02
+URL=https://streamango.com/f/pqlbelmdakeoecca/Wind_River_2017_
+
 
 type=video
 name=The Foreigner (2017) ENG HC.HDRip.X264.AC3-EVO
@@ -2843,8 +2882,9 @@ URL=https://openload.co/f/UhUJ1n7obrQ/The.Foreigner.2017.1080p.HC.HDRip.X264.AC3
 type=video
 name=The Foreigner (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
-date=2017-12-01
-URL=https://streamango.com/f/btnooloqpakecqrr/The_Foreigner_2017_1080p_HC_WEBRip_x264_AAC2_0_mkv_mp4
+date=2017-12-02
+URL=https://streamango.com/f/pblsaqsboposetfo/The_Foreigner_2017_2_
+#https://streamango.com/f/btnooloqpakecqrr/The_Foreigner_2017_1080p_HC_WEBRip_x264_AAC2_0_mkv_mp4
 #https://openload.co/f/xnQIzCCvlFQ/The_Foreigner_%282017%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
