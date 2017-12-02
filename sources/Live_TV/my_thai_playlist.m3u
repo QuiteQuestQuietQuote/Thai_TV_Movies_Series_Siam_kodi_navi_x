@@ -38,6 +38,14 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1,MONEY CHANNEL
+http://191.96.38.61:443/news/money_channel_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+
+
 #EXTINF:-1,NHK WORLD HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_high2_s.m3u8
 
@@ -46,14 +54,6 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_high2_
 
 #EXTINF:-1,CHANNEL NEWSASIA
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-
-
-
-#EXTINF:-1,MONEY CHANNEL
-http://191.96.38.61:443/news/money_channel_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-
-
-
 
 
 #EXTINF:-1,euro news
@@ -1737,7 +1737,8 @@ http://183.88.212.205:8010/play/a00u
 #EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
 http://203.162.235.41:17819
 
-
+#EXTINF:-1,movie24
+rtmp://tv01.thaizatv.com/drm/movie1
 
 
 #EXTINF:-1,4Kmovie
@@ -1795,8 +1796,7 @@ http://191.96.38.61:443/documentary/discovery_channel_480p.stream/playlist.m3u8?
 
 
 
-#EXTINF:-1,movie24
-rtmp://tv01.thaizatv.com/drm/movie1
+
 
 
 

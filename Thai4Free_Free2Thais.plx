@@ -70,7 +70,8 @@ description=Before using download, must install youtube-dl Control (install from
 type=video
 name=
 thumb=
-URL=rtmp://tv01.thaizatv.com/drm/movie1
+URL=http://103.77.116.191:443//documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+#rtmp://tv01.thaizatv.com/drm/movie1
 
 
 
