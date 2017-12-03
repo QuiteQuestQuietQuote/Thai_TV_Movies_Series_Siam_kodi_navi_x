@@ -65,11 +65,19 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-11-28
+date=2017-12-03
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
 
+
+
+
+type=video
+name=Cold Skin (2017) RUS
+thumb=https://image.tmdb.org/t/p/w640/65qvQ13CoNxIYHvxGXWFtKc93sX.jpg
+date=2017-12-03
+URL=https://openload.co/f/7ywKmj1Cbso/Atlantida.2O17.D.TS.14OOMB_KOSHARA.E.mp4
 
 type=video
 name=Roman J. Israel, Esq. (2017) ENG HDCAM.H264-Zi%24t
@@ -149,10 +157,10 @@ URL=http://entervideo.net/watch/78214b8b8f6c507
 #https://openload.co/f/sDKaKTnsdrU/Happy.Family.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
 
 type=video
-name=Coco (2017) RUS
+name=Coco (2017) HIN
 thumb=https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
-date=2017-11-08
-URL=http://entervideo.net/watch/2d584ec0b86d760
+date=2017-12-03
+URL=https://openload.co/f/R7W8xvZvB80/Coco_2017_Bolly4u.me_Hindi_Dubbed_HDTS_720p_700MB.mp4
 
 type=video
 name=Tragedy Girls (2017) RUS
@@ -376,9 +384,18 @@ URL=https://openload.co/f/_bCmA0g9Xu8/the.layover.2017.dvdrip.x264.fragment.mkv.
 type=video
 name=
 thumb=
-date=2017-12-02
+date=2017-12-03
 URL=
 
+
+
+
+
+type=video
+name=Somebody's Mother (2016) ENG WEBRip.x264-RBB
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BZWUzYWQxMjItNTk0Yy00Mzk3LWJmODgtZjYzM2NkNjA5NTNhXkEyXkFqcGdeQXVyMzMwMjI2NA@@._V1_SY1000_CR0,0,676,1000_AL_.jpg
+date=2017-12-03
+URL=https://openload.co/f/jjBQIZkgFFg/Somebodys.Mother.2016.WEBRip.x264-RBB.mp4
 
 type=video
 name=Olaf's Frozen Adventure (2017) ENG WEB-DL.H264.AC3-EVO
@@ -2425,6 +2442,20 @@ thumb=
 date=2017-11-29
 URL=
 
+
+
+
+
+type=video
+name=Undercover Grandpa (2017) ENG WEBRip.x264-RBB
+thumb=https://image.tmdb.org/t/p/w640/qpKIZITtS9IselXnATtGUR6RJnP.jpg
+date=2017-12-03
+URL=https://openload.co/f/Br9lzIQQDxw/Undercover.Grandpa.2017.WEBRip.x264-RBB.mp4
+type=video
+name=Undercover Grandpa (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/qpKIZITtS9IselXnATtGUR6RJnP.jpg
+date=2017-12-03
+URL=https://streamango.com/f/plkksnqrtmrkbdts/Undercover_Grandpa_2017_THSUB_mp4
 
 
 type=video
