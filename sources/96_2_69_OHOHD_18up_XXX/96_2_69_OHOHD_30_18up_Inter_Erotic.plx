@@ -54,6 +54,36 @@ URL=
 
 
 
+type=video
+name=191xxxxxxxxxxxxxxxxxxxxMutants (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Mutants-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/tbqntqrpaoseonnt/
+
+type=video
+name=High Heel Homicide (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/High-Heel-Homicide-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/ofapaqrlpkmqrfrk/
+
+type=video
+name=Spring (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Spring-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/lopqbdpmcrpntcpr/
+
+type=video
+name=Kiss and Kill (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Kiss-and-Kill-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/fcotkabeklcbdffl/
+
+type=video
+name=Legend of the Naked Ghost (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Legend-of-the-Naked-Ghost-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/ptctcrpetoreqobt/
+
 
 
 

@@ -51,6 +51,401 @@ URL=
 
 
 
+type=video
+name=192xxxxxxxxxxxxxxxxxxxxInsulted Plump And Beautiful Wife (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Insulted-Plump-And-Beautiful-Wife-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/ptdkdscrpeklqdtp/
+
+type=video
+name=Obscene Brother – Brother and Sister (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Obscene-Brother-Brother-and-Sister-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/allndmfemcekeqbm/
+
+type=video
+name=Housewife’s Fall – You Do It (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Housewife%E2%80%99s-Fall-You-Do-It-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/sqkkfrdrannqonmd/
+
+type=video
+name=Underwear For My Husband (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Underwear-For-My-Husband-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/nmtapbaoppttbqrq/
+
+type=video
+name=Private lessons Of Your Cousin’s Sister (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Private-lessons-Of-Your-Cousin%E2%80%99s-Sister-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/ceonbesopaenqpkc/
+
+
+type=video
+name=A Woman Deprived of Love (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/A-Woman-Deprived-of-Love-2015.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/cddbclecpsntaede/
+
+type=video
+name=Cheated Couples Exchange Hot Spring Trip 2 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Cheated-Couples-Exchange-Hot-Spring-Trip-2-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/qfdqfbdmmmnsreps/
+
+type=video
+name=Functional Eros (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Functional-Eros-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/kddcbqrrrqobsrlm/
+
+type=video
+name=Adultery Sex (2006)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Adultery-Sex-2006.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/otfdtopfsofplqao/
+
+type=video
+name=New Family Member (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/New-Family-Member-2015.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/dbpclnpqmfdtrrkb/
+
+
+type=video
+name=Big tits young wife Nami Kimura (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Big-tits-young-wife-Nami-Kimura-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/tbsnqarddpdknnmq/
+
+type=video
+name=Taste Of The Wife (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Taste-Of-The-Wife-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/nmpsepdqsdkodflc/
+
+type=video
+name=Wife’s Desire – Giant It (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Wife%E2%80%99s-Desire-Giant-It-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/rqlcrsctknfcqkqe/
+
+type=video
+name=No.1 Girl at Blow-Job Shop 5 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/No.1-Girl-at-Blow-Job-Shop-5-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/takcdmtspfmnmfar/
+
+type=video
+name=Sisters Love (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Sisters-Love-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/lqltfmoacpsfccpq/
+
+
+type=video
+name=A Female Worker (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/A-Female-Worker-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/cbefootsloedlctl/
+
+type=video
+name=The Purpose of A Housemaid (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/The-Purpose-of-A-Housemaid-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/lcqkqkbssqaklbal/
+
+type=video
+name=The Purpose of A Housemaid (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/The-Purpose-of-A-Housemaid-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/rcmcfldotlkscpla/
+
+type=video
+name=My Friends Mother 2 – Looks Like A Woman (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/My-Friends-Mother-2-Looks-Like-A-Woman-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/krtsaoearssclkda/
+
+type=video
+name=Brickhouse’s secret theater – Kneaded boobs (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Brickhouses-secret-theater-Kneaded-boobs-2010.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/tltnsmrlotatbefq/
+
+
+type=video
+name=Sexy Teacher (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Sexy-Teacher-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/oeqmafserebbqrlf/
+
+type=video
+name=Red Bikini (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Red-Bikini-2017-Rev.1.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/totsktkpboqpdrbf/
+
+type=video
+name=BURAKON-Bokuto Imoutono Nozomi (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/BURAKON-Bokuto-Imoutono-Nozomi-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/rrbsfaprnkbeoere/
+
+type=video
+name=My wife’s friend – The day my wife was not home (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/My-wifes-friend-The-day-my-wife-was-not-home-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/kndnnqeqermaqnno/
+
+
+
+
+
+
+
+
+
+type=video
+name=168xxxxxxxxxxxxxxxxxxxxMature Woman Next Door (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Mature-Woman-Next-Door-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/cmkpmfkpfnnqkent/
+
+type=video
+name=Well-Dressed Person (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Well-Dressed-Person-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/mnrkfcdmltkckbfp/
+
+type=video
+name=Shuto to Yome (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Shuto-to-Yome-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/bcsblqbceomtkeml/
+
+type=video
+name=The Nude Model (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/The-Nude-Model-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/akqoccstpfqqatkq/
+
+type=video
+name=My Friend’s Mother (2005)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/My-Friend%E2%80%99s-Mother-2005.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/becsesmenatceeas/
+
+
+type=video
+name=Wife’s Storm Affair (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Wife%E2%80%99s-Storm-Affair-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/nkbkscflaaoepdkn/
+
+type=video
+name=Married With My Classmate (2008)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Married-With-My-Classmate-2008.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/ennnrdanforkncma/
+
+type=video
+name=A Young Tutor (2008)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/A-Young-Tutor-2008.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/kdnfefqpmqtdskdp/
+
+type=video
+name=Big Tits Complex Wife’s Seduction (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Big-Tits-Complex-Wife%E2%80%99s-Seduction-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/ckrsarfefocqfmko/
+
+type=video
+name=My Daughter’s Friend 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/My-Daughter%E2%80%99s-Friend-2-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/asbdfkqntfqpmlcs/
+
+
+type=video
+name=Corpse Prison Part 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Corpse-Prison-Part-2-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/qmkrflcaqatkfsrs/
+
+type=video
+name=My Student’s Mom 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/My-Student%E2%80%99s-Mom-2-2017-Uncut.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/fllbrmdksnserkfl/
+
+type=video
+name=A Suspicious Employees (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/A-Suspicious-Employees-2017-Uncut.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/qdbfpemlnfkfpfqk/
+
+type=video
+name=Lee Chaedam’s G-Spot (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Lee-Chaedam%E2%80%99s-G-Spot-2017-Uncut.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/skmbnofmkftfqepc/
+
+type=video
+name=Violent Love (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Violent-Love-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/blokmtnobkbdtktp/
+
+
+type=video
+name=Mom Friend – Learn A Girl (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Mom-Friend-Learn-A-Girl-2017-Rev.1.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/bplaaecacfnqotca/
+
+type=video
+name=Elder Sister And Sister In Law (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Elder-Sister-And-Sister-In-Law-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/kpeqrldbdmlattmo/
+
+type=video
+name=My Brother’s Wife 2 (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/My-Brother%E2%80%99s-Wife-2-2015.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/lsrkokqmkefrecnf/
+
+type=video
+name=Mom Friend – Learn A Girl (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Mom-Friend-Learn-A-Girl-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/qoltkfflpnkamlao/
+
+type=video
+name=The Cute Wife With Massage Chapter 6 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/The-Cute-Wife-With-Massage-Chapter-6-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/rklslmrmmtlcfpdm/
+
+
+type=video
+name=Mango Tree (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Mango-Tree-2013.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/tcatcpcskrdffsfk/
+
+type=video
+name=Japanese Mom 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Japanese-Mom-2-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/defqcmdqkacmefsf/
+
+type=video
+name=Young Wife School Reunion (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Young-Wife-School-Reunion-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/rtpopkdksftnnsll/
+
+type=video
+name=Strong Sexual Desire (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Strong-Sexual-Desire-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/fppdmqkrkbqsopco/
+
+type=video
+name=Friend Mom – The Day She Became (2008)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Friend-Mom-The-Day-She-Became-2008.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/bcnskdcdbnlomqpc/
+
+
+type=video
+name=Office Ladies Sex Exchange (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Office-Ladies-Sex-Exchange-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/fterprrtlpkqdamk/
+
+type=video
+name=The Mother Of A Student The First Sex Day (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/The-Mother-Of-A-Student-The-First-Sex-Day-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/amrrfdqpkrddslde/
+
+type=video
+name=Twenties And Teens (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Twenties-And-Teens-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/cndennlpoqmfmpsc/
+
+type=video
+name=Living with My Cousin (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Living-with-My-Cousin-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/nooldfkpbdkoacml/
+
+type=video
+name=Young Wife Exchange Husband (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Young-Wife-Exchange-Husband-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/ompbbcempkfkclrm/
+
+
+type=video
+name=My Friend’s Nice Mother (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/My-Friends-Nice-Mother-2017-Rev.1.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/tsrrtkkpmstqtlbc/
+
+type=video
+name=Son-in Law Is Looking Magic (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Son-in-Law-Is-Looking-Magic-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/eedbrcmbakodesbp/
+
+type=video
+name=D Cup Breast Feeding (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/D-Cup-Breast-Feeding-2013.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/brqcbbeopomskqba/
+
+type=video
+name=Friends Mom – Her Night Skills (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Friends-Mom-Her-Night-Skills-2017.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/aprmmfmrpnleeppf/
+
+type=video
+name=An Obscene Hostess (2007)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/An-Obscene-Hostess-2007.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/bllmqqrlasanarqt/
+
+
+type=video
+name=A Secret of My Wife (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/A-Secret-of-My-Wife-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/snqfpdrkqoldtfma/
+
+type=video
+name=Srobot Eve (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Srobot-Eve-2013.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/dprdppapspsncnbb/
+
+type=video
+name=Love Education Mother Suzu Amemiya (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Love-Education-Mother-Suzu-Amemiya-2016.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/ctcpcsdolnpfpfsf/
+
+
+
+
+
 
 
 type=video

@@ -27,6 +27,21 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
+type=playlist
+name=96_2_69_OHOHD_33_18up_Inter_Erotic
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/High-Heel-Homicide-2017.jpg
+date=2017-12-03
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_33_18up_Inter_Erotic.plx
+player=default
+rating=-1.00
+
+type=playlist
+name=96_2_69_OHOHD_32_18up_Asian
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Red-Bikini-2017-Rev.1.jpg
+date=2017-12-03
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_32_18up_Asian.plx
+player=default
+rating=-1.00
 
 type=playlist
 name=96_2_69_OHOHD_31_18up_Asian

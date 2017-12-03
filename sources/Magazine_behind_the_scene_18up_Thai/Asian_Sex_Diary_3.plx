@@ -57,6 +57,43 @@ URL=
 
 
 
+type=video
+name=139xxxxxxxxxxxxxxxxxxxxAsian Sex Diary Lexi2 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-Lexi2.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/kmktttcennomcdms/
+
+type=video
+name=Asian Sex Diary Lexi
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-Lexi.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/eltekscspsbsndtm/
+
+type=video
+name=Asian Sex Diary Leena Revisit
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-Leena-Revisit.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/mssmdosmqlprclao/
+
+type=video
+name=Asian Sex Diary Leann Irish
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-Leann-Irish.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/smckqdffmbkobnsf/
+
+type=video
+name=Asian Sex Diary Layka Encore
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-Layka-Encore.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/oaotrenleosodmnb/
+
+
+type=video
+name=Asian Sex Diary Layka Is Back 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-Layka-Is-Back.jpg
+date=2017-12-03
+URL=https://streamcherry.com/embed/beqabdsfeqcbdlkt/
+
 
 
 
