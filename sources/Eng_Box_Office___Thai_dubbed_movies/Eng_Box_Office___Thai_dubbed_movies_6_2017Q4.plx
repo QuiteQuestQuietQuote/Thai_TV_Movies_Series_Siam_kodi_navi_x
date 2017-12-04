@@ -65,13 +65,23 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-12-03
+date=2017-12-04
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
 
 
+type=video
+name=Darkest Hour (2017) ENG HC_TS_x264-ChiLove
+thumb=https://image.tmdb.org/t/p/w640/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg
+date=2017-12-04
+URL=https://openload.co/f/c2aiOqF-6tg/Darkest_Hour_2017_HC_TS_x264-ChiLove.mp4
 
+type=video
+name=Wonder (2017) ENG HDCAM.X264.HQ-DADDY
+thumb=https://image.tmdb.org/t/p/w640/ouYgAatYH4JzIThj6FI3UYf31RI.jpg
+date=2017-12-04
+URL=https://openload.co/f/fR4CjUe3fnU/Wonder.2017.HDCAM.X264.HQ-DADDY.mkv.mp4
 
 type=video
 name=Cold Skin (2017) RUS
@@ -156,11 +166,7 @@ date=2017-11-08
 URL=http://entervideo.net/watch/78214b8b8f6c507
 #https://openload.co/f/sDKaKTnsdrU/Happy.Family.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
 
-type=video
-name=Coco (2017) HIN
-thumb=https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
-date=2017-12-03
-URL=https://openload.co/f/R7W8xvZvB80/Coco_2017_Bolly4u.me_Hindi_Dubbed_HDTS_720p_700MB.mp4
+
 
 type=video
 name=Tragedy Girls (2017) RUS
@@ -215,12 +221,7 @@ URL=https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.m
 
 
 
-type=video
-name=American Made (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
-date=2017-11-21
-URL=https://openload.co/f/8SeCnhUbges/American.Made.2017.HDRip.XviD.AC3-EVO.avi
-#https://openload.co/f/8cEt2bAPp34/American.Made.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=mother! (2017) ENG HDCAM X264 HQMic-NoGRP
@@ -236,8 +237,15 @@ URL=https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
 type=video
 name=
 thumb=
-date=2017-12-01
+date=2017-12-04
 URL=
+
+
+type=video
+name=Stronger (2017) ENG WEB-DL.X264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg
+date=2017-12-04
+URL=https://openload.co/f/fWmX0uqtUuI/Stronger.2017.720p.WEB-DL.X264.AC3-EVO.mkv
 
 type=video
 name=Love Beats Rhymes (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -397,11 +405,8 @@ thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BZWUzYWQxMjItNTk0Yy00M
 date=2017-12-03
 URL=https://openload.co/f/jjBQIZkgFFg/Somebodys.Mother.2016.WEBRip.x264-RBB.mp4
 
-type=video
-name=Olaf's Frozen Adventure (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/47pLZ1gr63WaciDfHCpmoiXJlVr.jpg
-date=2017-12-02
-URL=https://openload.co/f/TcwkMEBNA0s/Olafs_Frozen_Adventure.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
+
 
 type=video
 name=Madame (2017) ENG HDRip.XviD.AC3-EVO
@@ -1156,7 +1161,13 @@ URL=
 
 
 
-
+type=video
+name=American Made (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 8.4GB
+thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
+date=2017-12-04
+URL=https://openload.co/f/yOYF6qkCwEA/American.Made.2017.1080p.BluRay.x264-GECKOS.mkv
+#https://openload.co/f/8SeCnhUbges/American.Made.2017.HDRip.XviD.AC3-EVO.avi
+#https://openload.co/f/8cEt2bAPp34/American.Made.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 
 type=video
 name=The Party (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2265,6 +2276,17 @@ URL=http://203.162.235.41:17819
 
 
 
+type=video
+name=Coco (2017) HIN
+thumb=https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
+date=2017-12-03
+URL=https://openload.co/f/R7W8xvZvB80/Coco_2017_Bolly4u.me_Hindi_Dubbed_HDTS_720p_700MB.mp4
+type=video
+name=Coco (2017) THCAM
+thumb=https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
+date=2017-12-04
+URL=https://streamango.com/f/ndomsmeaptdeftps/Coco_2017_
+
 
 type=video
 name=Justice League (2017) ENG NEW_HDTS-H264-AC3-Zi%24t
@@ -2884,6 +2906,17 @@ date=2017-10-24
 URL=
 
 
+
+type=video
+name=Olaf's Frozen Adventure (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/47pLZ1gr63WaciDfHCpmoiXJlVr.jpg
+date=2017-12-02
+URL=https://openload.co/f/TcwkMEBNA0s/Olafs_Frozen_Adventure.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+type=video
+name=Olaf's Frozen Adventure (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/47pLZ1gr63WaciDfHCpmoiXJlVr.jpg
+date=2017-12-04
+URL=https://streamango.com/f/qkldbcstttmfbfab/Olaf_s_Frozen_Adventure_2017_
 
 
 type=video
