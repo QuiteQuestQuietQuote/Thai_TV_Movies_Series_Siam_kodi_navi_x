@@ -69,7 +69,11 @@ date=2017-12-04
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
-
+type=video
+name=Stronger (2017) ENG WEB-DL.X264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg
+date=2017-12-04
+URL=https://openload.co/f/fWmX0uqtUuI/Stronger.2017.720p.WEB-DL.X264.AC3-EVO.mkv
 
 type=video
 name=Darkest Hour (2017) ENG HC_TS_x264-ChiLove
@@ -242,11 +246,7 @@ date=2017-12-04
 URL=
 
 
-type=video
-name=Stronger (2017) ENG WEB-DL.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg
-date=2017-12-04
-URL=https://openload.co/f/fWmX0uqtUuI/Stronger.2017.720p.WEB-DL.X264.AC3-EVO.mkv
+
 
 type=video
 name=Love Beats Rhymes (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -1169,6 +1169,7 @@ name=American Made (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 8.4GB
 thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
 date=2017-12-04
 URL=https://openload.co/f/yOYF6qkCwEA/American.Made.2017.1080p.BluRay.x264-GECKOS.mkv
+#https://www.blazefile.co/embed-wq1xe2swtwr5.html
 #https://openload.co/f/8SeCnhUbges/American.Made.2017.HDRip.XviD.AC3-EVO.avi
 #https://openload.co/f/8cEt2bAPp34/American.Made.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 
@@ -2410,7 +2411,8 @@ type=video
 name=Dunkirk (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
 date=2017-12-05
-URL=https://openload.co/f/n2-4528FaJw/Dunkirk.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
+URL=https://www.blazefile.co/embed-85eepc3x9dbe.html
+#https://openload.co/f/n2-4528FaJw/Dunkirk.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
 #https://openload.co/f/REZkiL6pA08/D.2017.NEW.HD-TS.X264-CPG.mkv
 type=video
 name=Dunkirk (2017) TH TS
