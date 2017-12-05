@@ -226,8 +226,9 @@ URL=https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.m
 type=video
 name=mother! (2017) ENG HDCAM X264 HQMic-NoGRP
 thumb=https://image.tmdb.org/t/p/w640/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
-date=2017-10-04
-URL=https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
+date=2017-12-05
+URL=https://openload.co/f/Lt3EdszGSKA/Mother%21.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
 
 
 
@@ -336,10 +337,11 @@ date=2017-11-12
 URL=https://openload.co/f/G_O3vn4J5ao/A.Question.of.Faith.2017.CAM.XViD-26k.avi.mp4
 
 type=video
-name=Victoria & Abdul (2017) ENG HC.HDRip.x264-STUTTERSHIT
+name=Victoria & Abdul (2017) ENG WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/gHz34d5i3Nc4h1iqr7eK5bFG2gY.jpg
-date=2017-11-11
-URL=https://openload.co/f/22jxRIqHjvc/Victoria.and.Abdul.2017.HC.HDRip.x264-STUTTERSHIT.mp4
+date=2017-12-05
+URL=https://openload.co/f/eEN7N60p_go/Victoria.and.Abdul.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/22jxRIqHjvc/Victoria.and.Abdul.2017.HC.HDRip.x264-STUTTERSHIT.mp4
 #https://openload.co/f/wuQbU89nWPI/Victoria_and_Abdul_2017_HDRip_XviD_AC3_EVO_avi_mp4_mp4.MP4.mp4
 
 type=video
@@ -409,10 +411,11 @@ URL=https://openload.co/f/jjBQIZkgFFg/Somebodys.Mother.2016.WEBRip.x264-RBB.mp4
 
 
 type=video
-name=Madame (2017) ENG HDRip.XviD.AC3-EVO
+name=Madame (2017) ENG WEB-DL.DD2.0.x264-BDP
 thumb=https://image.tmdb.org/t/p/w640/m8DfNZSRDhv1faYPoldjglinmzi.jpg
-date=2017-12-02
-URL=https://openload.co/f/WlPzb_Qg5kQ/Madame.2017.HDRip.XviD.AC3-EVO.mp4
+date=2017-12-05
+URL=https://openload.co/f/CQs95_555cI/Madame.2017.720p.WEB-DL.DD2.0.x264-BDP.mkv.mp4
+#https://openload.co/f/WlPzb_Qg5kQ/Madame.2017.HDRip.XviD.AC3-EVO.mp4
 
 type=video
 name=A Bad Idea Gone Wrong (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -2404,10 +2407,11 @@ URL=https://openload.co/f/UUwifxE0sAE/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B
 
 
 type=video
-name=Dunkirk (2017) ENG NEW.HD-TS.X264-CPG.mkv
+name=Dunkirk (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
-date=2017-08-15
-URL=https://openload.co/f/REZkiL6pA08/D.2017.NEW.HD-TS.X264-CPG.mkv
+date=2017-12-05
+URL=https://openload.co/f/n2-4528FaJw/Dunkirk.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/REZkiL6pA08/D.2017.NEW.HD-TS.X264-CPG.mkv
 type=video
 name=Dunkirk (2017) TH TS
 thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
@@ -3286,8 +3290,9 @@ URL=https://www.blazefile.co/embed-w1kdw7wlzjl9.html
 type=video
 name=Wish Upon (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
-date=2017-12-01
-URL=https://openload.co/f/wPfEYjRl8YI/Wish_Upon_%282017%29%E0%B8%9E%E0%B8%A3_%E0%B8%82%E0%B8%AD_%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+date=2017-12-05
+URL=https://openload.co/f/XGkYPZDI18w/Wish_Upon_%282017%29%E0%B8%9E%E0%B8%A3_%E0%B8%82%E0%B8%AD_%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+#https://openload.co/f/wPfEYjRl8YI/Wish_Upon_%282017%29%E0%B8%9E%E0%B8%A3_%E0%B8%82%E0%B8%AD_%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
 #https://openload.co/f/K4Ta8lkseM4/Wish.Upon.2017.UNRATED.1080p.BluRay.x264.ThaiRong.5.1_CpT%40CtHts.mkv.mp4
 
 
@@ -3299,8 +3304,9 @@ URL=https://openload.co/f/oJs5aOQQWMM/your.name.2016.1080p.bluray.x264-haiku.mkv
 type=video
 name=Your Name. (2016) TH
 thumb=https://image.tmdb.org/t/p/w640/xq1Ugd62d23K2knRUx6xxuALTZB.jpg
-date=2017-12-01
-URL=https://openload.co/f/8t1FHvhif1Y/Your_Name._%282016%29%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B2%E0%B8%9D%E0%B8%B1%E0%B8%99_%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
+date=2017-12-05
+URL=https://openload.co/f/9NNIQkCXaK8/Your_Name._%282016%29%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B2%E0%B8%9D%E0%B8%B1%E0%B8%99_%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
+#https://openload.co/f/8t1FHvhif1Y/Your_Name._%282016%29%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B2%E0%B8%9D%E0%B8%B1%E0%B8%99_%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
 
 
 type=video
