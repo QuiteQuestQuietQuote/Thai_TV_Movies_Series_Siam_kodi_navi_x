@@ -186,12 +186,7 @@ URL=https://openload.co/f/0WatHfN8KKw/A.Bad.Moms.Christmas.2017.NEW.720p.HDCAM.X
 #https://openload.co/f/s9JvJo8vRdM/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
 #https://openload.co/f/itxz3-_HMO0/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
 
-type=video
-name=Jigsaw (2017) ENG TS.x264.AC3-%5BArenaBG%5D
-thumb=https://image.tmdb.org/t/p/w640/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
-date=2017-11-28
-URL=https://openload.co/f/Wn4MXIBxUyk/Jigsaw.2017.720p.TS.x264.AC3-%5BArenaBG%5D.mkv.mp4
-#https://openload.co/f/F3nZJ_umMbw/Jigsaw.2017.720p.CAM.ENG.X264-Feel.Free.mkv.mp4
+
 
 type=video
 name=Jeepers Creepers III (2017) ENG HDRip.X264.AC3-EVO
@@ -603,10 +598,11 @@ date=2017-10-27
 URL=https://openload.co/f/URaCNgT5Js4/The_Heyday_of_the_Insensitive_Bastards.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
-name=Crash Pad (2017) ENG HDRip.XviD.AC3-EVO
+name=Crash Pad (2017) ENG DVDRip.x264-PSYCHD
 thumb=https://image.tmdb.org/t/p/w640/rsMv3uk6ZQTSOvFtWFzhYav2tEq.jpg
-date=2017-10-27
-URL=https://openload.co/f/uYhJ9tG7l80/Crash.Pad.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2017-12-06
+URL=https://openload.co/f/uuoIXQFmOog/Crash.Pad.2017.DVDRip.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/uYhJ9tG7l80/Crash.Pad.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/7JSXgoymMbY/Crash.Pad.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
@@ -2325,7 +2321,17 @@ URL=https://openload.co/f/pY7IWR3c-Bg/Thor%3A_Ragnarok_%282017%29%E0%B8%A8%E0%B8
 #https://openload.co/f/1Px-WShSrHo/Thor.Ragnarok.2017.720p.TS.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 
 
-
+type=video
+name=Jigsaw (2017) ENG TS.x264.AC3-%5BArenaBG%5D
+thumb=https://image.tmdb.org/t/p/w640/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
+date=2017-11-28
+URL=https://openload.co/f/Wn4MXIBxUyk/Jigsaw.2017.720p.TS.x264.AC3-%5BArenaBG%5D.mkv.mp4
+#https://openload.co/f/F3nZJ_umMbw/Jigsaw.2017.720p.CAM.ENG.X264-Feel.Free.mkv.mp4
+type=video
+name=Jigsaw (2017) THCAM
+thumb=https://image.tmdb.org/t/p/w640/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
+date=2017-12-06
+URL=https://streamango.com/f/dedmrkdoeockpqkq/Jigsaw_2017_
 
 
 type=video
@@ -2407,18 +2413,7 @@ URL=https://openload.co/f/UUwifxE0sAE/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B
 
 
 
-type=video
-name=Dunkirk (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
-date=2017-12-05
-URL=https://www.blazefile.co/embed-85eepc3x9dbe.html
-#https://openload.co/f/n2-4528FaJw/Dunkirk.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/REZkiL6pA08/D.2017.NEW.HD-TS.X264-CPG.mkv
-type=video
-name=Dunkirk (2017) TH TS
-thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
-date=2017-08-20
-URL=https://openload.co/f/yHAqwafVlbk/Dunkirk.2017.HD-TS.x264.ThaiRong_CpT%40CtHts.mkv.mp4
+
 
 
 
@@ -2911,6 +2906,21 @@ thumb=
 date=2017-10-24
 URL=
 
+
+
+type=video
+name=Dunkirk (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
+date=2017-12-05
+URL=https://www.blazefile.co/embed-85eepc3x9dbe.html
+#https://openload.co/f/n2-4528FaJw/Dunkirk.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/REZkiL6pA08/D.2017.NEW.HD-TS.X264-CPG.mkv
+type=video
+name=Dunkirk (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
+date=2017-12-06
+URL=https://streamango.com/f/aarfsmlllopapern/Dunkirk_2017_1080p_BluRay_H264_AAC_ThaiRong5_1_CpT_CtHts_mkv_mp4
+#https://openload.co/f/yHAqwafVlbk/Dunkirk.2017.HD-TS.x264.ThaiRong_CpT%40CtHts.mkv.mp4
 
 
 type=video
