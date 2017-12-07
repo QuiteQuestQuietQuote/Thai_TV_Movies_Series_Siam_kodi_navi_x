@@ -69,11 +69,7 @@ date=2017-12-04
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
-type=video
-name=Stronger (2017) ENG WEB-DL.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg
-date=2017-12-04
-URL=https://openload.co/f/fWmX0uqtUuI/Stronger.2017.720p.WEB-DL.X264.AC3-EVO.mkv
+
 
 type=video
 name=Darkest Hour (2017) ENG HC_TS_x264-ChiLove
@@ -222,12 +218,7 @@ URL=https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.m
 
 
 
-type=video
-name=mother! (2017) ENG HDCAM X264 HQMic-NoGRP
-thumb=https://image.tmdb.org/t/p/w640/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
-date=2017-12-05
-URL=https://openload.co/f/Lt3EdszGSKA/Mother%21.2017.HDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
+
 
 
 
@@ -331,13 +322,7 @@ thumb=https://image.tmdb.org/t/p/w640/mXUVhSHKv7aGwDCnsa8UBbW7G0p.jpg
 date=2017-11-12
 URL=https://openload.co/f/G_O3vn4J5ao/A.Question.of.Faith.2017.CAM.XViD-26k.avi.mp4
 
-type=video
-name=Victoria & Abdul (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/gHz34d5i3Nc4h1iqr7eK5bFG2gY.jpg
-date=2017-12-05
-URL=https://openload.co/f/eEN7N60p_go/Victoria.and.Abdul.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/22jxRIqHjvc/Victoria.and.Abdul.2017.HC.HDRip.x264-STUTTERSHIT.mp4
-#https://openload.co/f/wuQbU89nWPI/Victoria_and_Abdul_2017_HDRip_XviD_AC3_EVO_avi_mp4_mp4.MP4.mp4
+
 
 type=video
 name=November Criminals (2017) ENG WEB-DL H264 AC3-EVO
@@ -1134,7 +1119,12 @@ URL=https://openload.co/f/phEBgPTbT-Y/Diamond_Cartel_2017_HDRip_%5BLayar-21.com%
 player=default
 rating=-1.00
 
-
+type=video
+name=Stronger (2017) ENG BDRip.x264-GECKOS
+thumb=https://image.tmdb.org/t/p/w640/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg
+date=2017-12-07
+URL=https://openload.co/f/cI8js1NIAPg/Stronger.2017.BDRip.x264-GECKOS.mkv.mp4
+#https://openload.co/f/fWmX0uqtUuI/Stronger.2017.720p.WEB-DL.X264.AC3-EVO.mkv
 
 
 
@@ -1159,6 +1149,26 @@ date=2017-11-30
 URL=
 
 
+
+
+type=video
+name=mother! (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
+date=2017-12-07
+URL=https://openload.co/f/JsWChINJj5g/Mother.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/Lt3EdszGSKA/Mother%21.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
+#https://www.blazefile.co/embed-p436sqhrx7hi.html   720
+
+type=video
+name=Victoria & Abdul (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/gHz34d5i3Nc4h1iqr7eK5bFG2gY.jpg
+date=2017-12-07
+URL=https://openload.co/f/p_kec0xMglE/Victoria.and.Abdul.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/eEN7N60p_go/Victoria.and.Abdul.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/22jxRIqHjvc/Victoria.and.Abdul.2017.HC.HDRip.x264-STUTTERSHIT.mp4
+#https://openload.co/f/wuQbU89nWPI/Victoria_and_Abdul_2017_HDRip_XviD_AC3_EVO_avi_mp4_mp4.MP4.mp4
+#https://www.blazefile.co/embed-8zqwao36xstf.html   720
 
 type=video
 name=American Made (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 8.4GB
@@ -1624,6 +1634,7 @@ URL=https://www.blazefile.co/embed-1hx2siopw4xb.html
 #https://openload.co/f/zvYUgvFDoQ4/HHhH_%282017%29.1080p.BluRay.Cmovieshd.se.mkv.mp4
 #https://openload.co/f/nOQ-KngEvfo/HHhH.2017.720p.BRRip.XviD.AC3-RARBG.avi.mp4
 #https://openload.co/f/DhYTYFewzAE/The_Man_With_The_Iron_Heart_%282017%29_%5B720p%5D_BluRay_x264-%5BYTS_AG%5D_mp4
+#https://openload.co/f/ItyXNxkJSlo/The.Man.with.the.Iron.Heart.2017.BDRip.x264-PSYCHD.mkv.mp4
 
 type=video
 name=Batman vs. Two-Face (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2198,7 +2209,11 @@ date=2017-11-16
 URL=https://www.blazefile.co/embed-xm0yn0zzqn1o.html
 #https://openload.co/f/0edw5TyYPHI/Woodshock.2017.LIMITED.720p.BluRay.x264-DRONES.mkv.mp4
 
-
+type=video
+name=Gook (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/Ij6zyFnVd3ha5uR5b4na3LYux6.jpg
+date=2017-12-07
+URL=https://openload.co/f/GdbJ4Hp8baA/Gook.2017.LIMITED.720p.BluRay.x264-HAiDEAF.mkv.mp4
 
 
 
