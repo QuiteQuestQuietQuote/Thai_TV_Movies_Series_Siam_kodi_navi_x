@@ -57,6 +57,101 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=152xxxxxxxxxxxxxxxxxxxxAsian Sex Diary May 2
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-May-2.jpg
+date=2017-12-08
+URL=https://streamcherry.com/embed/slbamsbamolmstra/
+
+type=video
+name=Asian Sex Diary Ly 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-Ly.jpg
+date=2017-12-08
+URL=https://streamcherry.com/embed/fdddnftkrpnqcqqb/
+
+type=video
+name=Asian Sex Diary Lyn 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-Lyn.jpg
+date=2017-12-08
+URL=https://streamcherry.com/embed/casfqbspaotpmlrc/
+
+type=video
+name=Asian Sex Diary Mai
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-Mai.jpg
+date=2017-12-08
+URL=https://streamcherry.com/embed/ntellbnobppeknrq/
+
+type=video
+name=Asian Sex Diary Mai Dress Revenge 2
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-Mai-Dress-Revenge-2.jpg
+date=2017-12-08
+URL=https://streamcherry.com/embed/qlccarqlsotnkodc/
+
+
+type=video
+name=Asian Sex Diary Gnoc 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/07/Asian-Sex-Diary.Gnoc_-1.jpg
+date=2017-12-08
+URL=https://streamcherry.com/embed/rqfcklaforteecoo/
+
+type=video
+name=Asian Sex Diary Lookgood Part 2
+thumb=https://erotic24hr.com/wp-content/uploads/2017/08/Asian-Sex-Diary-Lookgood.Part_.2-1.jpg
+date=2017-12-08
+URL=https://streamcherry.com/embed/qpffrerrpqbeaerc/
+
+type=video
+name=Asian Sex Diary Lien 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-Lien.jpg
+date=2017-12-08
+URL=https://streamcherry.com/embed/leskebcpqfqeemks/
+
+type=video
+name=Asian Sex Diary Ling
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-Ling.jpg
+date=2017-12-08
+URL=https://streamcherry.com/embed/nfflleqkdtaorpks/
+
+type=video
+name=Asian Sex Diary Lidia 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-Lidia.jpg
+date=2017-12-08
+URL=https://streamcherry.com/embed/nkekasmomekpcspq/
+
+
+type=video
+name=Asian Sex Diary Lola
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-Lola.jpg
+date=2017-12-08
+URL=https://streamcherry.com/embed/opmmdfkncolcdrkt/
+
+type=video
+name=Asian Sex Diary Lulu 2 Morning 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-Lulu-2-Morning.jpg
+date=2017-12-08
+URL=https://streamcherry.com/embed/tmnrmldfrcltfabb/
+
+type=video
+name=Asian Sex Diary Lokasari Girls
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-Lokasari-Girls.jpg
+date=2017-12-08
+URL=https://streamcherry.com/embed/fpkkepaemdaqetfl/
+
+
+
+
+
 type=video
 name=139xxxxxxxxxxxxxxxxxxxxAsian Sex Diary Lexi2 
 thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-Lexi2.jpg
