@@ -562,12 +562,7 @@ date=2017-10-28
 URL=https://openload.co/f/lYMpDxsb1UI/Brads.Status.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 https://openload.co/f/UyC0uF7AyD8/Brads.Status.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 
-type=video
-name=The Trip to Spain (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/74RSdBGWdtbdClQ2NGJeTTyO7fq.jpg
-date=2017-11-14
-URL=https://openload.co/f/ACs3wsRUrUc/The.Trip.to.Spain.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/vlkPOdFRwl4/The_Trip_to_Spain.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Slamma Jamma (2017) ENG DVDRip.x264-PSYCHD
@@ -751,11 +746,7 @@ URL=https://openload.co/f/WKiaGxmzavE/interlude.in.prague.2017.hdtv.x264-plutoni
 
 
 
-type=video
-name=Blood Money (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/yCvcvsP3w4CyiB3CLTxwaHBpKro.jpg
-date=2017-10-13
-URL=https://openload.co/f/Z947PbKkzUY/Blood_Money_%282017%29.WEB-DL.XviD.AC3-FGT.avi.mp4
+
 
 type=video
 name=Lycan (2017) ENG DVDRip.XViD.AC3-juggs
@@ -967,11 +958,7 @@ thumb=https://image.tmdb.org/t/p/w640/ukiyd1Z7gZQSsu2daAPEDQGtViC.jpg
 date=2017-09-22
 URL=https://openload.co/f/Zr-Xop-3p3c/Big.Bear.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=Leatherface (2017) ENG HDRip.XviD.AC3-TangoMango
-thumb=https://image.tmdb.org/t/p/w640/qdRq1EygZK2LIYM6v29ai9uBOhE.jpg
-date=2017-09-22
-URL=https://openload.co/f/jCLbmjYXZGc/Leatherface.2017.HDRip.XviD.AC3-TangoMango.avi.mp4
+
 
 type=video
 name=Campus Caller (2017) ENG hdtv.h264-plutonium
@@ -1119,12 +1106,7 @@ URL=https://openload.co/f/phEBgPTbT-Y/Diamond_Cartel_2017_HDRip_%5BLayar-21.com%
 player=default
 rating=-1.00
 
-type=video
-name=Stronger (2017) ENG BDRip.x264-GECKOS
-thumb=https://image.tmdb.org/t/p/w640/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg
-date=2017-12-07
-URL=https://openload.co/f/cI8js1NIAPg/Stronger.2017.BDRip.x264-GECKOS.mkv.mp4
-#https://openload.co/f/fWmX0uqtUuI/Stronger.2017.720p.WEB-DL.X264.AC3-EVO.mkv
+
 
 
 
@@ -1150,12 +1132,44 @@ URL=
 
 
 
+type=video
+name=Stronger (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg
+date=2017-12-07
+URL=https://www.blazefile.co/embed-kvgao0h0wtwz.html
+#https://openload.co/f/cI8js1NIAPg/Stronger.2017.BDRip.x264-GECKOS.mkv.mp4
+#https://openload.co/f/fWmX0uqtUuI/Stronger.2017.720p.WEB-DL.X264.AC3-EVO.mkv
+
+type=video
+name=Leatherface (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/qdRq1EygZK2LIYM6v29ai9uBOhE.jpg
+date=2017-12-08
+URL=https://www.blazefile.co/embed-byrcupw8roz4.html
+#https://openload.co/f/EPporE43L9s/leatherface.2017.1080p.bluray.x264-rovers.mkv.mp4
+#https://openload.co/f/jCLbmjYXZGc/Leatherface.2017.HDRip.XviD.AC3-TangoMango.avi.mp4
+
+type=video
+name=The Trip to Spain (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/74RSdBGWdtbdClQ2NGJeTTyO7fq.jpg
+date=2017-12-08
+URL=https://openload.co/f/ptklayuhGNw/The.Trip.to.Spain.2017.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/ACs3wsRUrUc/The.Trip.to.Spain.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/vlkPOdFRwl4/The_Trip_to_Spain.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://www.blazefile.co/embed-b582gz360jo8.html   720
+
+type=video
+name=Blood Money (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/yCvcvsP3w4CyiB3CLTxwaHBpKro.jpg
+date=2017-12-08
+URL=https://openload.co/f/IdrwKC0NbKA/Blood.Money.2017.1080p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/Z947PbKkzUY/Blood_Money_%282017%29.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=mother! (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
 date=2017-12-07
-URL=https://openload.co/f/JsWChINJj5g/Mother.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+URL=https://www.blazefile.co/embed-oa0xx9wyjzko.html
+#https://openload.co/f/JsWChINJj5g/Mother.2017.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/Lt3EdszGSKA/Mother%21.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
 #https://www.blazefile.co/embed-p436sqhrx7hi.html   720
@@ -1164,7 +1178,8 @@ type=video
 name=Victoria & Abdul (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/gHz34d5i3Nc4h1iqr7eK5bFG2gY.jpg
 date=2017-12-07
-URL=https://openload.co/f/p_kec0xMglE/Victoria.and.Abdul.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+URL=https://www.blazefile.co/embed-qr15c4xv5c2r.html
+#https://openload.co/f/p_kec0xMglE/Victoria.and.Abdul.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/eEN7N60p_go/Victoria.and.Abdul.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/22jxRIqHjvc/Victoria.and.Abdul.2017.HC.HDRip.x264-STUTTERSHIT.mp4
 #https://openload.co/f/wuQbU89nWPI/Victoria_and_Abdul_2017_HDRip_XviD_AC3_EVO_avi_mp4_mp4.MP4.mp4
@@ -2292,10 +2307,11 @@ URL=http://203.162.235.41:17819
 
 
 type=video
-name=Coco (2017) HIN
+name=Coco (2017) ENG HD-TS.X264.HQ-CPG
 thumb=https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
-date=2017-12-03
-URL=https://openload.co/f/R7W8xvZvB80/Coco_2017_Bolly4u.me_Hindi_Dubbed_HDTS_720p_700MB.mp4
+date=2017-12-08
+URL=https://openload.co/f/rjggikOpq2Q/Coco.2017.HD-TS.X264.HQ-CPG.mkv.mp4
+#https://openload.co/f/R7W8xvZvB80/Coco_2017_Bolly4u.me_Hindi_Dubbed_HDTS_720p_700MB.mp4
 type=video
 name=Coco (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
@@ -3049,10 +3065,11 @@ URL=https://openload.co/f/bPl2nYIbsc0/Tell_Me_How_I_Die_%282016%29%E0%B8%99%E0%B
 
 
 type=video
-name=The LEGO Ninjago Movie (2017) ENG HC.HDRip.X264.AC3-EVO
+name=The LEGO Ninjago Movie (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
-date=2017-10-13
-URL=https://openload.co/f/u2d0I9ZAq0M/The.Lego.Ninjago.Movie.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+date=2017-12-08
+URL=https://www.blazefile.co/embed-y2zbk852306q.html
+#https://openload.co/f/u2d0I9ZAq0M/The.Lego.Ninjago.Movie.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 type=video
 name=The LEGO Ninjago Movie (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
