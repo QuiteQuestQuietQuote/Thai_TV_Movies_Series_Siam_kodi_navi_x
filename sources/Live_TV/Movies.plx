@@ -151,7 +151,10 @@ name=MOVIE3
 thumb=http://www.thaiptv.com/img/movie3logo.png
 URL=http://27.254.63.132:1935/live/_definst_/movie3.stream/playlist.m3u8?username=sid&password=id695464846498
 
-
+type=video
+name=movie24
+thumb=http://www.thaiptv.com/img/movie1logo.png
+URL=http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
 
 
 

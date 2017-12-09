@@ -184,13 +184,7 @@ URL=https://openload.co/f/0WatHfN8KKw/A.Bad.Moms.Christmas.2017.NEW.720p.HDCAM.X
 
 
 
-type=video
-name=Jeepers Creepers III (2017) ENG HDRip.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/iw4zbtCw01JhTMpFtyYBKEDPBSL.jpg
-date=2017-11-07
-URL=https://openload.co/f/nBT0KK06WCQ/Jeepers_Creepers_3_2017_720p.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/PyY9phQMIeo/Jeepers.Creepers.3.2017.HDCAM.x264-DiRG.mp4
-#https://openload.co/f/ixfU_gOrA_4/Jeepers.Creepers.3.2017.HDCAM.x264-DiRG.mp4
+
 
 type=video
 name=Beyond Skyline (2017) RUS
@@ -1008,11 +1002,7 @@ thumb=https://image.tmdb.org/t/p/w640/fuJUqSrfrGDAch1D2ncQNCfUD1N.jpg
 date=2017-09-05
 URL=https://openload.co/f/g7zpuGPUDgo/The.Atoning.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
-type=video
-name=Renegades (2017) ENG CAM.READNFO.XViD-26k
-thumb=https://image.tmdb.org/t/p/w640/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
-date=2017-09-05
-URL=https://openload.co/f/JzSw1qm2gy0/Renegades.2017.CAM.READNFO.XViD-26k.avi.mp4
+
 
 type=video
 name=Residue (2017) ENG HDRip.XviD.AC3-iFT
@@ -1127,10 +1117,27 @@ URL=https://www.blazefile.co/embed-h25coos10uwx.html
 type=video
 name=
 thumb=
-date=2017-11-30
+date=2017-12-09
 URL=
 
 
+
+
+type=video
+name=The Middle Finger (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/vTomiYbhgh7y3kSu6hvtg34O6kS.jpg
+date=2017-12-09
+URL=https://openload.co/f/tT-Www94b0k/The.Middle.Finger.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+
+type=video
+name=Jeepers Creepers III (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/iw4zbtCw01JhTMpFtyYBKEDPBSL.jpg
+date=2017-12-09
+URL=https://www.blazefile.co/embed-gx2v6bptqus2.html
+#https://openload.co/f/acgUOiVfdXI/jeepers.creepers.iii.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/nBT0KK06WCQ/Jeepers_Creepers_3_2017_720p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/PyY9phQMIeo/Jeepers.Creepers.3.2017.HDCAM.x264-DiRG.mp4
+#https://openload.co/f/ixfU_gOrA_4/Jeepers.Creepers.3.2017.HDCAM.x264-DiRG.mp4
 
 type=video
 name=Stronger (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1152,7 +1159,8 @@ type=video
 name=The Trip to Spain (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/74RSdBGWdtbdClQ2NGJeTTyO7fq.jpg
 date=2017-12-08
-URL=https://openload.co/f/ptklayuhGNw/The.Trip.to.Spain.2017.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
+URL=https://www.blazefile.co/embed-nf0casxh83fb.html
+#https://openload.co/f/ptklayuhGNw/The.Trip.to.Spain.2017.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/ACs3wsRUrUc/The.Trip.to.Spain.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/vlkPOdFRwl4/The_Trip_to_Spain.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://www.blazefile.co/embed-b582gz360jo8.html   720
@@ -1163,6 +1171,7 @@ thumb=https://image.tmdb.org/t/p/w640/yCvcvsP3w4CyiB3CLTxwaHBpKro.jpg
 date=2017-12-08
 URL=https://openload.co/f/IdrwKC0NbKA/Blood.Money.2017.1080p.BluRay.x264.DTS-MT.mkv.mp4
 #https://openload.co/f/Z947PbKkzUY/Blood_Money_%282017%29.WEB-DL.XviD.AC3-FGT.avi.mp4
+#https://www.blazefile.co/embed-ww9xu14h4sgb.html   720
 
 type=video
 name=mother! (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2415,8 +2424,16 @@ date=2017-10-12
 URL=https://openload.co/f/UUwifxE0sAE/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%94_%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C_2049_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
-
-
+type=video
+name=Renegades (2017) ENG CAM.READNFO.XViD-26k
+thumb=https://image.tmdb.org/t/p/w640/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
+date=2017-09-05
+URL=https://openload.co/f/JzSw1qm2gy0/Renegades.2017.CAM.READNFO.XViD-26k.avi.mp4
+type=video
+name=Renegades (2017) THCAM
+thumb=https://image.tmdb.org/t/p/w640/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
+date=2017-12-09
+URL=https://streamango.com/f/bkbkoqdtleqkepkn/Renegades_2017_THCAM_mp4
 
 
 
@@ -2681,18 +2698,7 @@ date=2017-10-21
 URL=https://openload.co/f/aa0S9330B3c/1922_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
 
 
-type=video
-name=Better Watch Out (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
-date=2017-11-29
-URL=https://www.blazefile.co/embed-ystpfz1l9f0c.html
-#https://openload.co/f/ItPr-gpepsA/Better.Watch.Out.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/zRhfEaYL4NQ/Better.Watch.Out.2016.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
-type=video
-name=Better Watch Out (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
-date=2017-10-16
-URL=https://openload.co/f/-XtVUtoF8pc/Better_Watch_Out_%282017%29%E0%B9%82%E0%B8%94%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%94_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
 
 
 type=video
@@ -2940,18 +2946,18 @@ URL=
 
 
 type=video
-name=Dunkirk (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
-date=2017-12-05
-URL=https://www.blazefile.co/embed-85eepc3x9dbe.html
-#https://openload.co/f/n2-4528FaJw/Dunkirk.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/REZkiL6pA08/D.2017.NEW.HD-TS.X264-CPG.mkv
+name=Better Watch Out (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
+date=2017-11-29
+URL=https://www.blazefile.co/embed-ystpfz1l9f0c.html
+#https://openload.co/f/ItPr-gpepsA/Better.Watch.Out.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/zRhfEaYL4NQ/Better.Watch.Out.2016.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 type=video
-name=Dunkirk (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
-date=2017-12-06
-URL=https://streamango.com/f/aarfsmlllopapern/Dunkirk_2017_1080p_BluRay_H264_AAC_ThaiRong5_1_CpT_CtHts_mkv_mp4
-#https://openload.co/f/yHAqwafVlbk/Dunkirk.2017.HD-TS.x264.ThaiRong_CpT%40CtHts.mkv.mp4
+name=Better Watch Out (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
+date=2017-12-09
+URL=https://streamango.com/f/nrmdnadtrpnrpfma/Better_Watch_Out_2017_THCAM_SOUND_mp4
+#https://openload.co/f/-XtVUtoF8pc/Better_Watch_Out_%282017%29%E0%B9%82%E0%B8%94%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%94_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -3065,10 +3071,12 @@ URL=https://openload.co/f/bPl2nYIbsc0/Tell_Me_How_I_Die_%282016%29%E0%B8%99%E0%B
 
 
 type=video
-name=The LEGO Ninjago Movie (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=The LEGO Ninjago Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
-date=2017-12-08
-URL=https://www.blazefile.co/embed-y2zbk852306q.html
+date=2017-12-09
+URL=https://www.blazefile.co/embed-qnx38ji2v6zk.html
+#https://openload.co/f/7ancgr4H0y4/the.lego.ninjago.movie.2017.1080p.bluray.x264-geckos.mkv.mp4
+#https://www.blazefile.co/embed-y2zbk852306q.html   720
 #https://openload.co/f/u2d0I9ZAq0M/The.Lego.Ninjago.Movie.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 type=video
 name=The LEGO Ninjago Movie (2017) THCAM SOUND
@@ -3314,6 +3322,25 @@ thumb=
 date=2017-11-30
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
+
+
+
+
+
+type=video
+name=Dunkirk (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
+date=2017-12-05
+URL=https://www.blazefile.co/embed-85eepc3x9dbe.html
+#https://openload.co/f/n2-4528FaJw/Dunkirk.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/REZkiL6pA08/D.2017.NEW.HD-TS.X264-CPG.mkv
+type=video
+name=Dunkirk (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
+date=2017-12-09
+URL=https://streamango.com/f/sedfakbbcbctceep/_MINI_Super-HQ_Dunkirk_2017_1080p_BrRip_DTS_x264_NongZEZA_CtHts_mkv_mp4
+#https://streamango.com/f/aarfsmlllopapern/Dunkirk_2017_1080p_BluRay_H264_AAC_ThaiRong5_1_CpT_CtHts_mkv_mp4
+#https://openload.co/f/yHAqwafVlbk/Dunkirk.2017.HD-TS.x264.ThaiRong_CpT%40CtHts.mkv.mp4
 
 
 type=video
