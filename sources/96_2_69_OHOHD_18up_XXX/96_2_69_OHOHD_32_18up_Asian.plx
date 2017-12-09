@@ -55,6 +55,162 @@ URL=
 
 
 
+
+type=video
+name=82xxxxxxxxxxxxxxxxxxxxA Secret Experience of Delicious Sex – DC (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/A-Secret-Experience-of-Delicious-Sex-DC-2017.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/cbnrskonkdekqscn/
+
+type=video
+name=Stepmother 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Stepmother-2-2017.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/qnpeppcdnfacpeco/
+
+type=video
+name=Demonic Couple (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Demonic-Couple-2016.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/eekerkorbbcnebdd/
+
+type=video
+name=Delivery & Sexual Harassment (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Delivery-Sexual-Harassment-2016.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/bmodmteakpqessbl/
+
+type=video
+name=Son’s Wife (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Son%E2%80%99s-Wife-2017.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/lmfpomnlbpqbktss/
+
+
+type=video
+name=Secret Camera at Sexual Ayurveda (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Secret-Camera-at-Sexual-Ayurveda-2016.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/osfnqlaleplssmmm/
+
+type=video
+name=The Best Female Doctor (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/The-Best-Female-Doctor-2016.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/peffdefrscaonptt/
+
+type=video
+name=Half Zombie Dead or Alive (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Half-Zombie-Dead-or-Alive-2015.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/nobbtsbkneoredkr/
+
+type=video
+name=Utsukusiki Hitodumatachi (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Utsukusiki-Hitodumatachi-2016.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/tmdckacccdqtmdct/
+
+type=video
+name=A Weak Woman’s Desire (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/A-Weak-Woman%E2%80%99s-Desire-2016.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/qascsqpleolrdlmt/
+
+
+type=video
+name=One-Time-Only Affair 16 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/One-Time-Only-Affair-16-2016.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/obkllolddefqeank/
+
+type=video
+name=Juvenile Delinquent (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Juvenile-Delinquent-2017.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/rkqsfrlqorfadama/
+
+type=video
+name=Erotic Lips (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Erotic-Lips-2016.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/fndocbclcdpnkmed/
+
+type=video
+name=Stepmother – My Sex Teacher Ep.2 (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Stepmother-My-Sex-Teacher-Ep.2-2017.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/elndonmsflcoenfs/
+
+type=video
+name=Stepmother – My Sex Teacher Ep.1 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Stepmother-My-Sex-Teacher-Ep.1-2017.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/obemrrttqempalna/
+
+
+type=video
+name=My Wife’s Guests – Netorare (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/My-Wife%E2%80%99s-Guests-Netorare-2017.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/cnlfkmmakfsefkbm/
+
+type=video
+name=The Ear Cleaner (2012)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/The-Ear-Cleaner-2012.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/nqlelrsqefbedmdq/
+
+type=video
+name=Outsider (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Outsider-2014.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/alcrqpemnlqcfnpk/
+
+type=video
+name=AD LIB SEX of AV Actor (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/AD-LIB-SEX-of-AV-Actor-2015.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/afmqfboafcsfppap/
+
+type=video
+name=Bondage Lessons of Love [Intro] (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Bondage-Lessons-of-Love-Intro-2016.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/snnbrbcktkpnqsqr/
+
+
+type=video
+name=Dental Assistant of Brothers Wife (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Dental-Assistant-of-Brothers-Wife-2016.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/rlsmkcdtltmlkdak/
+
+type=video
+name=Super Carnivorous Complex Estate Wife (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Super-Carnivorous-Complex-Estate-Wife-2016.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/lalrrkblpoeqocct/
+
+type=video
+name=Confidential Ward Area 88 (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Confidential-Ward-Area-88-2016.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/nknptaakonssqpqm/
+
+type=video
+name=Fuzokubiru Sennyu Sousakan (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Fuzokubiru-Sennyu-Sousakan-2016.jpg
+date=2017-12-09
+URL=https://streamcherry.com/embed/delqcsnrbrtsmpbt/
+
+
+
+
+
+
+
+
 type=video
 name=58xxxxxxxxxxxxxxxxxxxxSex With My Stepmother (2016)
 thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Sex-With-My-Stepmother-2016.jpg

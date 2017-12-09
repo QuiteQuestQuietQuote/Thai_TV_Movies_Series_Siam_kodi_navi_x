@@ -57,6 +57,51 @@ URL=
 
 
 
+
+
+type=video
+name=75xxxxxxxxxxxxxxxxxxxxMom Friends (2017)
+thumb=https://3.bp.blogspot.com/-e7ZFVXBz_ds/WiqQR-c9ZYI/AAAAAAAANmY/YhpJ44XCkJ4jkfZEQTOA2A7aS9viS9wwwCLcBGAs/s1600/1.jpg
+date=2017-12-09
+URL=https://openload.co/f/yTDAhwrqBlw/
+
+type=video
+name=Banho de Língua (1985)
+thumb=https://3.bp.blogspot.com/-f6BD21VzRN8/WilMQnUzeEI/AAAAAAAANlQ/mz6_t8aHjLcGsO0vHoUGl37J3UVxJflfgCLcBGAs/s1600/2SSSS.png
+date=2017-12-09
+URL=https://openload.co/f/TURm8EZHUEY/
+
+type=video
+name=Cuissardes (1978)
+thumb=https://1.bp.blogspot.com/-b9TNV4tnzjU/WilMPjhBenI/AAAAAAAANk8/1dy5A5RmwBsmizQQzb-RZUhIShwiAockwCLcBGAs/s1600/2.png
+date=2017-12-09
+URL=https://openload.co/f/k23o8oEyzTs/
+
+type=video
+name=My Stepmother and Her Younger Sister (2016)
+thumb=https://4.bp.blogspot.com/-EOLaTcxBWws/WilLKltghGI/AAAAAAAANk0/cbwy3d8SonErO9IhLaIxrCj8-sx-m8hmwCLcBGAs/s1600/1.jpg
+date=2017-12-09
+URL=https://openload.co/f/RTOZATseJ58/
+
+type=video
+name=The Sex Robots Are Coming (2017)
+thumb=https://2.bp.blogspot.com/-WqsS2PlN_24/Wif7RmGa5zI/AAAAAAAANjk/kLGhZ6WiFKQ1Tk3JWFtOkOYuevqAPTYAgCLcBGAs/s1600/1.jpg
+date=2017-12-09
+URL=https://openload.co/f/8MA8hFWXjyA/
+
+
+type=video
+name=The Road Side
+thumb=https://1.bp.blogspot.com/-XXSA8rrY1X0/WiVr3JuGy_I/AAAAAAAANeg/sYfycT4oQTAhHUaSzhK15izDcXDk2UFNACLcBGAs/s1600/1.jpg
+date=2017-12-09
+URL=https://openload.co/f/8rbjSNCAiwI/
+
+
+
+
+
+
+
 type=video
 name=69xxxxxxxxxxxxxxxxxxxxA Secret Experience of Delicious Sex (2017)
 thumb=https://2.bp.blogspot.com/-dG4Q99nAVxs/WiNBayDIvdI/AAAAAAAANcw/I8C-K7oTz6skGF9echkKOz0-o-lPz5q_ACLcBGAs/s1600/1SSS.jpg
