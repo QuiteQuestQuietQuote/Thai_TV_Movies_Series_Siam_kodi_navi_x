@@ -65,11 +65,17 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-12-04
+date=2017-12-12
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
 
+
+type=video
+name=The Killing of a Sacred Deer (2017) ENG WEB-DL.X264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg
+date=2017-12-12
+URL=https://openload.co/f/OFtEBE4YtxQ/The_Killing_of_a_Sacred_Deer.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 
 type=video
 name=Darkest Hour (2017) ENG HC_TS_x264-ChiLove
@@ -297,10 +303,11 @@ date=2017-11-17
 URL=https://openload.co/f/Zf18_Paljkk/Cook.Off.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
-name=The Snowman (2017) ENG HD_Cam_x264_Clean_Audio_AAC_New_Source
+name=The Snowman (2017) ENG HC.HDRip.X264-EVO
 thumb=https://image.tmdb.org/t/p/w640/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg
-date=2017-11-28
-URL=https://openload.co/f/HNC97bcNWUU/The_Snowman_2017_Movies_HD_Cam_x264_Clean_Audio_AAC_New_Source_%5BrDX%5D.mkv.mp4
+date=2017-12-12
+URL=https://openload.co/f/jL6xjg91GU4/The.Snowman.2017.720p.HC.HDRip.X264-EVO.mkv.mp4
+#https://openload.co/f/HNC97bcNWUU/The_Snowman_2017_Movies_HD_Cam_x264_Clean_Audio_AAC_New_Source_%5BrDX%5D.mkv.mp4
 #https://openload.co/f/mTFsFIWDkm4/The_Snowman_2017_NOLOGO_HDCAM_X264_HQMic-DADDY.mp4
 
 type=video
@@ -340,11 +347,7 @@ URL=https://openload.co/f/IYX17ih3VDQ/Swing.Away.2016.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/KGgPbvafO94/S.A.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
 #https://openload.co/f/KjLezinoW0g/Swing.Away.2016.Forced.Engsub.WEB-DL.x264-FGT.mp4
 
-type=video
-name=The Meyerowitz Stories (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/vJZs6ABHbCcgjIFcAoPx3qhwXzL.jpg
-date=2017-10-13
-URL=https://openload.co/f/DvzBIzD07rA/The_Meyerowitz_Stories_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 
 
@@ -458,10 +461,11 @@ URL=https://openload.co/f/fu9KD7ud3hU/Maya.Dardel.2017.1080p.WEB-DL.DD5.1.H264-F
 
 
 type=video
-name=On Wings of Eagles (2017) ENG WEB-DL.x264-RARBG
+name=On Wings of Eagles (2017) ENG dvdrip.x264-wide
 thumb=https://image.tmdb.org/t/p/w640/mSTzqtXFQn0T3ESzMknTjwYyruL.jpg
-date=2017-11-16
-URL=https://openload.co/f/keDglguB0A0/On.Wings.of.Eagles.2016.WEB-DL.x264-RARBG.mp4
+date=2017-12-12
+URL=https://openload.co/f/zkC2wIjZP_A/on.wings.of.eagles.2016.dvdrip.x264-wide.mkv.mp4
+#https://openload.co/f/keDglguB0A0/On.Wings.of.Eagles.2016.WEB-DL.x264-RARBG.mp4
 
 type=video
 name=The Elf (2017) ENG WEB-DL.x264-RARBG
@@ -1034,10 +1038,11 @@ URL=https://openload.co/f/-qn2CAAEOWY/Deep.2017.WEBRip.x264-RARBG.mp4
 #https://openload.co/f/_s_f41ayWNo/Deep.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
-name=Unleashed (2017) ENG HDRip.XviD.AC3-EVO
+name=Unleashed (2017) ENG dvdrip.x264-lpd
 thumb=https://image.tmdb.org/t/p/w640/fk7xQMvfsEoIDhzsfAg8yDFRasf.jpg
-date=2017-08-25
-URL=https://openload.co/f/f3gwH7ze0BA/Unleashed.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2017-12-12
+URL=https://openload.co/f/fE7rBHsE7hg/unleashed.limited.2016.dvdrip.x264-lpd.mkv.mp4
+#https://openload.co/f/f3gwH7ze0BA/Unleashed.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Anti Matter (2016) ENG WEB-DL_AAC2.0_H264-FGT
@@ -1128,6 +1133,7 @@ name=The Middle Finger (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/vTomiYbhgh7y3kSu6hvtg34O6kS.jpg
 date=2017-12-09
 URL=https://openload.co/f/tT-Www94b0k/The.Middle.Finger.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+#https://www.blazefile.co/embed-6a3ud7cokc3u.html   720
 
 type=video
 name=Jeepers Creepers III (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1297,14 +1303,7 @@ URL=https://openload.co/f/7XJQMJ_M9tM/behind.the.blue.door.2016.1080p.bluray.x26
 #https://openload.co/f/6MjVvzfPjHQ/behind.the.blue.door.2016.1080p.bluray.x264-rovers.mkv.mp4
 #https://www.blazefile.co/embed-h77duvk0g9ns.html   720
 
-type=video
-name=Super Dark Times (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/7sJoNicLJ9EZwetp5ucjS8qQ9g1.jpg
-date=2017-11-18
-URL=https://www.blazefile.co/embed-b20p77brtx7n.html
-#https://www.blazefile.co/embed-rcdziugoum1i.html 
-#https://openload.co/f/wRtGp5luM-Q/super.dark.times.2017.limited.720p.bluray.x264-usury.mkv.mp4
-#https://openload.co/f/YdrHJ1mm07o/Super_Dark_Times_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=1 Buck (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2374,12 +2373,7 @@ date=2017-12-06
 URL=https://streamango.com/f/dedmrkdoeockpqkq/Jigsaw_2017_
 
 
-type=video
-name=Wolf Warrior 2 (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w640/43cEBkGpr0whbDuisa7TRLnv7X0.jpg
-date=2017-10-28
-URL=https://openload.co/f/JNaFUCFSBUk/Wolf_Warrior_2_%282017%29%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
-#https://openload.co/f/otuWsiW2ugE/Wolf.Warrior.II.2017.HD720P.X264.AC3.ThaiRong_CpT%40CtHts.mkv.mp4
+
 
 
 type=video
@@ -2396,10 +2390,12 @@ URL=https://openload.co/f/c_tptj0O6iU/The_Son_of_Bigfoot_%282017%29%E0%B8%9A%E0%
 
 
 type=video
-name=Flatliners (2017) ENG CAM.NEW.AUDIO.XViD-26k
+name=Flatliners (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg
-date=2017-10-24
-URL=https://openload.co/f/QyQfGZ3-a-Q/Flatliners.2017.CAM.NEW.AUDIO.XViD-26k.avi.mp4
+date=2017-12-12
+URL=https://www.blazefile.co/embed-s94tgi7syuxm.html
+#https://openload.co/f/1xe0mfaBUvI/Flatliners.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/QyQfGZ3-a-Q/Flatliners.2017.CAM.NEW.AUDIO.XViD-26k.avi.mp4
 #https://openload.co/f/oZKIj48wu74/Flatliners_2017_CLEAN_HDCAM_x264_HQ-DADDY.mp4
 type=video
 name=Flatliners (2017) THCAM
@@ -2412,10 +2408,11 @@ URL=https://openload.co/f/idi3AN6X1pk/Flatliners_%282017%29%E0%B8%82%E0%B8%AD%E0
 
 
 type=video
-name=Blade Runner 2049 (2017) ENG CAM_x264-NoGRP
+name=Blade Runner 2049 (2017) ENG NEW.HD-TS.X264B.HQ-CPG
 thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
-date=2017-10-09
-URL=https://openload.co/f/jliaTDYzQJs/Blade_Runner_2049_%282017%29_%5B720p%5D_CAM_x264-NoGRP_mp4
+date=2017-12-12
+URL=https://openload.co/f/9NspfMbbKoU/Blade.Runner.2049.2017.NEW.HD-TS.X264B.HQ-CPG.mp4
+#https://openload.co/f/jliaTDYzQJs/Blade_Runner_2049_%282017%29_%5B720p%5D_CAM_x264-NoGRP_mp4
 #https://openload.co/f/SoWJsZvgxAk/Blade_Runner_2049.2017.CAM.X264.AAC.1.7GB.mp4
 type=video
 name=Blade Runner 2049 (2017) THCAM
@@ -2432,8 +2429,9 @@ URL=https://openload.co/f/JzSw1qm2gy0/Renegades.2017.CAM.READNFO.XViD-26k.avi.mp
 type=video
 name=Renegades (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
-date=2017-12-09
-URL=https://streamango.com/f/bkbkoqdtleqkepkn/Renegades_2017_THCAM_mp4
+date=2017-12-12
+URL=https://streamango.com/f/nksbqcoqffaeaqco/Renegades_2017_
+#https://streamango.com/f/bkbkoqdtleqkepkn/Renegades_2017_THCAM_mp4
 
 
 
@@ -2510,11 +2508,53 @@ URL=https://mcloud.to/embed/jv1wp2?sub.file=https%253A%252F%252Fbmovies.to%252Fs
 type=video
 name=
 thumb=
-date=2017-11-29
+date=2017-12-12
 URL=
 
 
 
+
+
+
+type=video
+name=The Meyerowitz Stories (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/vJZs6ABHbCcgjIFcAoPx3qhwXzL.jpg
+date=2017-10-13
+URL=https://openload.co/f/DvzBIzD07rA/The_Meyerowitz_Stories_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+type=video
+name=The Meyerowitz Stories (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/vJZs6ABHbCcgjIFcAoPx3qhwXzL.jpg
+date=2017-12-12
+URL=https://streamango.com/f/fcskbsotsrlcsdpk/The_Meyerowitz_Stories_2017_
+
+
+type=video
+name=To the Bone (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/rgPysl0uMpxllv43r4udHuRAhn4.jpg
+date=2017-12-12
+URL=https://streamango.com/f/frpkcdanlfamoqlp/To_the_Bone_2017_
+
+
+type=video
+name=Super Dark Times (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/7sJoNicLJ9EZwetp5ucjS8qQ9g1.jpg
+date=2017-11-18
+URL=https://www.blazefile.co/embed-b20p77brtx7n.html
+#https://www.blazefile.co/embed-rcdziugoum1i.html 
+#https://openload.co/f/wRtGp5luM-Q/super.dark.times.2017.limited.720p.bluray.x264-usury.mkv.mp4
+#https://openload.co/f/YdrHJ1mm07o/Super_Dark_Times_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+type=video
+name=Super Dark Times (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/7sJoNicLJ9EZwetp5ucjS8qQ9g1.jpg
+date=2017-12-12
+URL=https://streamango.com/f/rnpmmmrenffremro/Super_Dark_Times_2017_
+
+
+type=video
+name=El Camino Christmas (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/z8c7qPGBO9aPozKu54lubDDVBJf.jpg
+date=2017-12-12
+URL=https://streamango.com/f/oroparlpqkdplokt/El_Camino_Christmas_2017_
 
 
 type=video
@@ -2945,6 +2985,16 @@ URL=
 
 
 
+
+type=video
+name=Wolf Warrior 2 (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/43cEBkGpr0whbDuisa7TRLnv7X0.jpg
+date=2017-12-12
+URL=https://openload.co/f/iKWAol8wDEM/Wolf_Warrior_2_%282017%29%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/JNaFUCFSBUk/Wolf_Warrior_2_%282017%29%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+#https://openload.co/f/otuWsiW2ugE/Wolf.Warrior.II.2017.HD720P.X264.AC3.ThaiRong_CpT%40CtHts.mkv.mp4
+
+
 type=video
 name=Better Watch Out (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
@@ -2955,8 +3005,9 @@ URL=https://www.blazefile.co/embed-ystpfz1l9f0c.html
 type=video
 name=Better Watch Out (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
-date=2017-12-09
-URL=https://streamango.com/f/nrmdnadtrpnrpfma/Better_Watch_Out_2017_THCAM_SOUND_mp4
+date=2017-12-12
+URL=https://streamango.com/f/senracacnfdrqnfa/Better_Watch_Out_2017_
+#https://streamango.com/f/nrmdnadtrpnrpfma/Better_Watch_Out_2017_THCAM_SOUND_mp4
 #https://openload.co/f/-XtVUtoF8pc/Better_Watch_Out_%282017%29%E0%B9%82%E0%B8%94%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%94_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
@@ -3075,6 +3126,7 @@ name=The LEGO Ninjago Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
 date=2017-12-09
 URL=https://www.blazefile.co/embed-qnx38ji2v6zk.html
+#https://openload.co/f/Fr1URjo-q-Q/The.LEGO.Ninjago.Movie.2017.RERIP.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/7ancgr4H0y4/the.lego.ninjago.movie.2017.1080p.bluray.x264-geckos.mkv.mp4
 #https://www.blazefile.co/embed-y2zbk852306q.html   720
 #https://openload.co/f/u2d0I9ZAq0M/The.Lego.Ninjago.Movie.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
@@ -3090,15 +3142,17 @@ URL=https://openload.co/f/xxwf4ErHils/The.Lego.Ninjago.Movie.2017.1080p.KORSUB.H
 
 
 type=video
-name=It (2017) ENG HC.HDRip.X264.AC3-EVO
+name=It (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
-date=2017-10-28
-URL=https://openload.co/f/znDy--tZHnA/IT.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+date=2017-12-12
+URL=https://openload.co/f/jjEyFpoFS7E/IT.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/znDy--tZHnA/IT.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 type=video
 name=It (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
-date=2017-10-31
-URL=https://openload.co/f/85hXXbIEp-I/It_%282017%29_THCAM_SOUND%E0%B8%AD%E0%B8%B4%E0%B8%97_%E0%B9%82%E0%B8%9C%E0%B8%A5%E0%B9%88%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+date=2017-12-12
+URL=https://streamango.com/f/dosacrrckpslrdqc/It_2017_
+#https://openload.co/f/85hXXbIEp-I/It_%282017%29_THCAM_SOUND%E0%B8%AD%E0%B8%B4%E0%B8%97_%E0%B9%82%E0%B8%9C%E0%B8%A5%E0%B9%88%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
 type=video
@@ -3337,8 +3391,9 @@ URL=https://www.blazefile.co/embed-85eepc3x9dbe.html
 type=video
 name=Dunkirk (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
-date=2017-12-09
-URL=https://streamango.com/f/sedfakbbcbctceep/_MINI_Super-HQ_Dunkirk_2017_1080p_BrRip_DTS_x264_NongZEZA_CtHts_mkv_mp4
+date=2017-12-12
+URL=https://openload.co/f/0gMeAsm2UxM/Dunkirk_%282017%29%E0%B8%94%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%81.mp4
+#https://streamango.com/f/sedfakbbcbctceep/_MINI_Super-HQ_Dunkirk_2017_1080p_BrRip_DTS_x264_NongZEZA_CtHts_mkv_mp4
 #https://streamango.com/f/aarfsmlllopapern/Dunkirk_2017_1080p_BluRay_H264_AAC_ThaiRong5_1_CpT_CtHts_mkv_mp4
 #https://openload.co/f/yHAqwafVlbk/Dunkirk.2017.HD-TS.x264.ThaiRong_CpT%40CtHts.mkv.mp4
 
