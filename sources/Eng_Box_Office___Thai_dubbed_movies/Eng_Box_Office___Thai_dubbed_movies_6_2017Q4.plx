@@ -72,10 +72,11 @@ URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.blu
 
 
 type=video
-name=The Killing of a Sacred Deer (2017) ENG WEB-DL.X264.AC3-EVO
+name=The Killing of a Sacred Deer (2017) ENG WEB-DL.H264.AC3BB-EVO
 thumb=https://image.tmdb.org/t/p/w640/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg
-date=2017-12-12
-URL=https://openload.co/f/OFtEBE4YtxQ/The_Killing_of_a_Sacred_Deer.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
+date=2017-12-13
+URL=https://openload.co/f/Cm_IdheWOS0/The_Killing_of_a_Sacred_Deer.2017.1080p.WEB-DL.H264.AC3BB-EVO.mkv.mp4
+#https://openload.co/f/OFtEBE4YtxQ/The_Killing_of_a_Sacred_Deer.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 
 type=video
 name=Darkest Hour (2017) ENG HC_TS_x264-ChiLove
@@ -198,13 +199,7 @@ thumb=https://image.tmdb.org/t/p/w640/ktZvjFmwCLrMXtr1dl6o5PhhHS4.jpg
 date=2017-10-30
 URL=https://openload.co/f/E4IDWuSE1Xg/Beyond_Skyline_2017_CAM_%5BLayar-21.com%5D.mp4
 
-type=video
-name=The Mountain Between Us (2017) ENG HDCAM.x264-DiRG
-thumb=https://image.tmdb.org/t/p/w640/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg
-date=2017-11-28
-URL=https://openload.co/f/K1cAMvDgLxM/The.Mountain.Between.Us.2017.HDCAM.x264-DiRG.mp4
-#https://openload.co/f/okxJkzB-PzQ/The.Mountain.Between.Us.2017.HDCAM.x264-DiRG.mp4
-#http://entervideo.net/watch/6412d2d162143cd
+
 
 type=video
 name=Happy Death Day (2017) ENG HD-TS_X264_HQ-DADDY
@@ -1128,6 +1123,16 @@ URL=
 
 
 
+
+type=video
+name=The Mountain Between Us (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg
+date=2017-12-13
+URL=https://openload.co/f/cSql4F_rAAI/The.Mountain.Between.Us.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/K1cAMvDgLxM/The.Mountain.Between.Us.2017.HDCAM.x264-DiRG.mp4
+#https://openload.co/f/okxJkzB-PzQ/The.Mountain.Between.Us.2017.HDCAM.x264-DiRG.mp4
+#http://entervideo.net/watch/6412d2d162143cd
+
 type=video
 name=The Middle Finger (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/vTomiYbhgh7y3kSu6hvtg34O6kS.jpg
@@ -1262,8 +1267,9 @@ URL=https://openload.co/f/tPxKcIfzFAg/Love.finds.you.in.Charm.2015.1080p.BluRay.
 type=video
 name=The Crucifixion (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/aN1drk3BqIzCUICR436t3t0lq9H.jpg
-date=2017-11-27
+date=2017-12-13
 URL=https://www.blazefile.co/embed-c5c51upopspv.html
+#https://openload.co/f/Eu9vv3p-0-E/The.Crucifixion.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/Qig1twIBOug/The.Crucifixion.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/0Gsb3X7-US0/The_Crucifixion.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
@@ -2377,10 +2383,12 @@ URL=https://streamango.com/f/dedmrkdoeockpqkq/Jigsaw_2017_
 
 
 type=video
-name=The Son of Bigfoot (2017) ENG WEB-DL.H264.AC3-EVO
+name=The Son of Bigfoot (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
-date=2017-11-15
-URL=https://openload.co/f/TBvJEkO7bJ0/The_Son_of_Bigfoot.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2017-12-13
+URL=https://www.blazefile.co/embed-lc01dmkeuh9o.html
+#https://openload.co/f/if2l-I3_ZQU/The.Son.Of.Bigfoot.2017.1080p.BluRay.x264-HDEX.mkv.mp4
+#https://openload.co/f/TBvJEkO7bJ0/The_Son_of_Bigfoot.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 type=video
 name=The Son of Bigfoot (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
