@@ -1117,18 +1117,33 @@ URL=https://www.blazefile.co/embed-h25coos10uwx.html
 type=video
 name=
 thumb=
-date=2017-12-09
+date=2017-12-14
 URL=
 
 
 
 
 
+
+type=video
+name=Americano (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/tUYvquQI54QO7ju1zGuOnAC7FpF.jpg
+date=2017-12-14
+URL=https://www.blazefile.co/embed-grfmwnbhv94v.html
+##https://openload.co/f/xLrWT5mbSlk/americano.2016.1080p.bluray.x264-justwatch.mkv.mp4
+
+type=video
+name=Game of Thrones: Conquest & Rebellion (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/3EanTe9yClVB89JKlyxKd3GVFtx.jpg
+date=2017-12-14
+URL=https://openload.co/f/xzcVZDLHcrM/Game.of.Thrones.Conquest.and.Rebellion.2017.1080p.BluRay.x264-FLAME.mkv.mp4
+
 type=video
 name=The Mountain Between Us (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg
-date=2017-12-13
-URL=https://openload.co/f/cSql4F_rAAI/The.Mountain.Between.Us.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+date=2017-12-14
+URL=https://www.blazefile.co/embed-9n3fzxx1bd0b.html
+#https://openload.co/f/cSql4F_rAAI/The.Mountain.Between.Us.2017.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/K1cAMvDgLxM/The.Mountain.Between.Us.2017.HDCAM.x264-DiRG.mp4
 #https://openload.co/f/okxJkzB-PzQ/The.Mountain.Between.Us.2017.HDCAM.x264-DiRG.mp4
 #http://entervideo.net/watch/6412d2d162143cd
