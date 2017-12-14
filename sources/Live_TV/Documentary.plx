@@ -49,17 +49,17 @@ type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://www.kodivn.ml/k-hbo
+URL=
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=
-URL=http://www.kodivn.ml/k-ngc
+URL=
 type=video
 name=-----------------------------------------------------------------------------------------
 thumb=
 date=2017-09-25
-URL=http://www.kodivn.ml/k-discovery
+URL=
 
 
 
