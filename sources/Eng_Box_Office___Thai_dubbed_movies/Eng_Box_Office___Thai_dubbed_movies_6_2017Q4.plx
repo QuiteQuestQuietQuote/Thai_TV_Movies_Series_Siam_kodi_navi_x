@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
+background=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_6_2017Q4
-logo=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
+logo=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, sockshare, fmovies, ganool, nanamovies./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
+thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -65,11 +65,15 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-12-12
+date=2017-12-14
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
-
+type=video
+name=Star Wars: The Last Jedi (2017) ENG CAM.X264-BebeLeitinho
+thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
+date=2017-12-14
+URL=https://openload.co/f/yjFhavSK_eg/Star.Wars.The.Last.Jedi.2017.CAM.X264-BebeLeitinho.mkv
 
 type=video
 name=The Killing of a Sacred Deer (2017) ENG WEB-DL.H264.AC3BB-EVO
