@@ -59,6 +59,68 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=82xxxxxxxxxxxxxxxxxxxxA Lusty Wife’s Double Life (2017)
+thumb=https://2.bp.blogspot.com/-F0iKXS3bv2s/WjPHox-GCDI/AAAAAAAANuU/Bke_UTnRRGg8VYMmFRedJgs0rzVy0W-ZACLcBGAs/s1600/1.jpg
+date=2017-12-15
+URL=https://openload.co/f/Sm5GtfWaQT8/
+
+type=video
+name=Sex Plate 17 (2017)
+thumb=https://2.bp.blogspot.com/-yATeVMlHux4/WjJ8Fvj08AI/AAAAAAAANtE/LAavHkPmYps5a6UVEwBTPnR3GMGXYDjXgCLcBGAs/s1600/1s.jpg
+date=2017-12-15
+URL=https://openload.co/f/tmvG9UiaqKw/
+
+type=video
+name=Natural Vol. 2
+thumb=https://2.bp.blogspot.com/-WGrD_fLCkE0/Wi_lL-AMCEI/AAAAAAAANqQ/lgXdWMHk90g1-s0FKVdr_rm0K1vKn5ZgwCLcBGAs/s1600/1.jpg
+date=2017-12-15
+URL=https://openload.co/f/ofBv8sPWWdw/
+
+type=video
+name=Strange Family (1977)
+thumb=https://1.bp.blogspot.com/-afxNPndr8hs/Wi1F_qpnXRI/AAAAAAAANpQ/DGxkhfyvuQcxDcvDyck1smsg9Fzh0NeHQCLcBGAs/s1600/1SSS.jpg
+date=2017-12-15
+URL=https://openload.co/f/9t2J_bEvj0s/
+
+type=video
+name=If My Mother… Only Knew (1986)
+thumb=https://1.bp.blogspot.com/-gt04lQ6aDdU/Wi1F_39iKBI/AAAAAAAANpY/4Hw7f6M_E8079o6c5Z8Vd02zZqAEeZ7dACLcBGAs/s1600/1SS.png
+date=2017-12-15
+URL=https://openload.co/f/GZrgBkqlg4Q/
+
+
+type=video
+name=Gamines ouvertes (1981)
+thumb=https://2.bp.blogspot.com/-kJ7L28pRez8/Wi1F__PlIcI/AAAAAAAANpU/hFIlk6kSFoAN9o4l5Uc7LIab_-GZczNigCLcBGAs/s1600/1S.png
+date=2017-12-15
+URL=https://openload.co/f/GQwYHHKZUcc/
+
+type=video
+name=Lee Su-a (2017)
+thumb=https://1.bp.blogspot.com/-sk9ezdVbPO4/Wi1Eeb4x-aI/AAAAAAAANpE/9zjmBzjtvQ4utvwTLSBFqBp3-0NbOcF4ACLcBGAs/s1600/1.jpg
+date=2017-12-15
+URL=https://openload.co/f/KSLM0ViRzng/
+
+
+
+
+
+
+
 type=video
 name=75xxxxxxxxxxxxxxxxxxxxMom Friends (2017)
 thumb=https://3.bp.blogspot.com/-e7ZFVXBz_ds/WiqQR-c9ZYI/AAAAAAAANmY/YhpJ44XCkJ4jkfZEQTOA2A7aS9viS9wwwCLcBGAs/s1600/1.jpg
