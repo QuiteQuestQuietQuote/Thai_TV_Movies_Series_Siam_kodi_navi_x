@@ -198,10 +198,11 @@ URL=https://openload.co/f/0WatHfN8KKw/A.Bad.Moms.Christmas.2017.NEW.720p.HDCAM.X
 
 
 type=video
-name=Beyond Skyline (2017) RUS
+name=Beyond Skyline (2017) ENG WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/ktZvjFmwCLrMXtr1dl6o5PhhHS4.jpg
-date=2017-10-30
-URL=https://openload.co/f/E4IDWuSE1Xg/Beyond_Skyline_2017_CAM_%5BLayar-21.com%5D.mp4
+date=2017-12-15
+URL=https://openload.co/f/c5jv_Jsuv6s/Beyond_Skyline.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/E4IDWuSE1Xg/Beyond_Skyline_2017_CAM_%5BLayar-21.com%5D.mp4
 
 
 
@@ -1121,13 +1122,17 @@ URL=https://www.blazefile.co/embed-h25coos10uwx.html
 type=video
 name=
 thumb=
-date=2017-12-14
+date=2017-12-15
 URL=
 
 
 
 
-
+type=video
+name=Peelers (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/4mGR7AakCDrPrKmMka3YNfDC79Q.jpg
+date=2017-12-15
+URL=https://openload.co/f/zr2o-VU2b_w/Peelers.2016.1080p.BluRay.H264.AACBB-RARBG.mp4
 
 type=video
 name=Americano (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2369,10 +2374,11 @@ URL=https://openload.co/f/XXv5UEq-MzU/Justice_League_%282017%29%E0%B8%88%E0%B8%B
 
 
 type=video
-name=Thor: Ragnarok (2017) ENG NEW_FULL_HDCAM_ENG_X264-DADDY
+name=Thor: Ragnarok (2017) ENG NEW_HDHQ-Eng%21
 thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
-date=2017-11-05
-URL=https://openload.co/f/ZACS8q6mjqE/Thor_Ragnarok_2017_NEW_FULL_HDCAM_ENG_X264-DADDY.mkv.mp4
+date=2017-12-15
+URL=https://openload.co/f/JHfuEEGu_sY/Thor_Ragnarok_2017_NEW_HDHQ-Eng%21.mkv.mp4
+#https://openload.co/f/ZACS8q6mjqE/Thor_Ragnarok_2017_NEW_FULL_HDCAM_ENG_X264-DADDY.mkv.mp4
 #https://openload.co/f/pxPD4dDpDnY/Thor_Ragnarok_2017_ENG_HDCAM_x264-JellyBean.mp4
 #https://openload.co/f/TJgCB67boIs/Thor_Ragnarok_2017_ENG_HDCAM_x264-NEXUS_%28few_minutes_are_spanish%29.mp4
 #https://openload.co/f/6ZvZcs_wfXQ/Thor_Ragnarok_2017_NOLOGO_ENG_LQ_HDCAM.mp4
@@ -3336,6 +3342,13 @@ player=default
 rating=-1.00
 description=People everywhere were enjoying a new game called Ordinal Scale, an ARMMORPG developed exclusively for the Augma, a new wearable console designed for AR (augmented reality) gaming. But, the players had no idea that a nightmare from the virtual world was starting to spread into reality! As his fellow players find themselves in danger, the hero is called upon once again./description
 
+
+type=video
+name=What Happened to Monday (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/xfFoewesyuWRVh4qBbXbMhH6gm7.jpg
+date=2017-12-15
+URL=https://www.blazefile.co/embed-xn9z777ht3ew.html
+#https://openload.co/f/-k82xFsHb-I/What.Happened.to.Monday.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
 type=video
 name=What Happened to Monday (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/xfFoewesyuWRVh4qBbXbMhH6gm7.jpg
