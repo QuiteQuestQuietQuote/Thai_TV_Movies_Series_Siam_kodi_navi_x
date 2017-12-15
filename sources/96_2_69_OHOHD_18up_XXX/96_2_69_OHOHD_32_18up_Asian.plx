@@ -56,6 +56,462 @@ URL=
 
 
 
+
+
+
+
+
+
+type=video
+name=151xxxxxxxxxxxxxxxxxxxxTasty Sex And Girlfriend (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Tasty-Sex-And-Girlfriend-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/srcdqdnpksbrnqrm/
+
+type=video
+name=Temptation of Affair (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Temptation-of-Affair-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/rempnkbasnomrped/
+
+type=video
+name=78days (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/78days-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/nlccqqqdltsrmmsk/
+
+type=video
+name=Steal a Glance (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Steal-a-Glance-2009.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/dfqfksmrofmreqek/
+
+type=video
+name=My Nusty Woman is My Friends Wife (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/My-Nusty-Woman-is-My-Friends-Wife-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/fsfkkpdbqldmbqcf/
+
+
+type=video
+name=Lusty Tales of Married Women (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Lusty-Tales-of-Married-Women-2017.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/ssbrmtqcflctlrlb/
+
+type=video
+name=Body Show off Ladies (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Body-Show-off-Ladies-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/nmnlqosftoctdpad/
+
+type=video
+name=Pawnshop of Married woman – Please lend me money (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Pawnshop-of-Married-woman-Please-lend-me-money-2015.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/nfbccmoklbspblcn/
+
+type=video
+name=Girls Love (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Girls-Love-2014.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/rqlldmdbplqpkbdo/
+
+type=video
+name=The Attachment (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/The-Attachment-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/prtplmtdklbnrrfe/
+
+
+type=video
+name=The Cute Wife Lives Next to Me (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/The-Cute-Wife-Lives-Next-to-Me-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/npkkdsbrnadlcafo/
+
+type=video
+name=Widow Story (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Widow-Story-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/dkmkbslfafpamrdm/
+
+type=video
+name=My Friend’s Mother Chapter 4 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/My-Friend%E2%80%99s-Mother-Chapter-4-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/esqldeeqpnrosdoc/
+
+type=video
+name=Private Teacher’s Confidence (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Private-Teacher%E2%80%99s-Confidence-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/qobmqtaemclfpppc/
+
+type=video
+name=Cicada And Women (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Cicada-And-Women-2014.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/atclpebrrbfbebld/
+
+
+type=video
+name=Pretty Elder Brothers Wife (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Pretty-Elder-Brothers-Wife-2017.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/pbnmobftapaoslsp/
+
+type=video
+name=Single Pretty MILF Sex (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Single-Pretty-MILF-Sex-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/oeapdcelpmpmeblm/
+
+type=video
+name=Working Wife (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Working-Wife-2017.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/qmpbndbqoksknfco/
+
+type=video
+name=My Friend’s Mother (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/My-Friend%E2%80%99s-Mother-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/nfpdslddpmqqbnop/
+
+type=video
+name=Outing 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Outing-2-2017.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/ndkndblndrtrrbno/
+
+
+type=video
+name=My Wife’s 101st Marriage (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/My-Wife%E2%80%99s-101st-Marriage-2017.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/leondpqteassrqon/
+
+type=video
+name=Hitoduma Hatujyo Jidai (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Hitoduma-Hatujyo-Jidai-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/okltmpdlqdsserpn/
+
+type=video
+name=Sexy Housemother of Men’s Dormitory (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Sexy-Housemother-of-Men%E2%80%99s-Dormitory-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/mpdrlbclkkbcblql/
+
+type=video
+name=Sexy Real Story 5 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Sexy-Real-Story-5-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/opbkbdprfbepdtea/
+
+
+
+
+
+
+
+
+
+
+type=video
+name=127xxxxxxxxxxxxxxxxxxxxThe Incent Chisato Shoda (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/The-Incent-Chisato-Shoda-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/nscmprnknnrmemtq/
+
+type=video
+name=Species Hunt (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Species-Hunt-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/tnbanstfappsmdqr/
+
+type=video
+name=Reality of Womb Massage at Acupuncture & Moxibustion (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Reality-of-Womb-Massage-at-Acupuncture-Moxibustion-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/lcmeddonemepdfcc/
+
+type=video
+name=Yakuza No Onna (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Yakuza-No-Onna-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/dsplnfepfkrnbekn/
+
+type=video
+name=Miboujin 28sai (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Miboujin-28sai-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/ssbeakesfecsmemt/
+
+
+type=video
+name=Dirty Pretty Nurse 8 (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Dirty-Pretty-Nurse-8-2015.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/dcbrtesmqesaeomd/
+
+type=video
+name=Family Breakdown (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Family-Breakdown-2015.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/cqntsbpsmlkboeta/
+
+type=video
+name=Red Hot Mom Daughter in Guest House (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Red-Hot-Mom-Daughter-in-Guest-House-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/fbafqdqodknatrqd/
+
+type=video
+name=The Devil Hands of The Countryside (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/The-Devil-Hands-of-The-Countryside-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/neqtdocofptcqdcb/
+
+type=video
+name=Raped Shoplifting (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Raped-Shoplifting-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/aqmentcsfbeqlpos/
+
+
+type=video
+name=Adult Caricature (2002)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Adult-Caricature-2002.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/qnmtkcsrtfknkqps/
+
+type=video
+name=Freshman at 00 (2002)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Freshman-at-00-2002.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/osafcllkkftdatmo/
+
+type=video
+name=Onana Jyanshi Kyouko (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Onana-Jyanshi-Kyouko-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/smldoqoofdpcfeep/
+
+type=video
+name=My Friends wife 3 (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/My-Friends-wife-3-2017.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/otfqpsbtrbnstfpf/
+
+type=video
+name=Kannon – Petal Of The Wife (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Kannon-Petal-Of-The-Wife-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/nlpnrpmtfkoqealp/
+
+
+type=video
+name=Sex Stories in Hotel (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Sex-Stories-in-Hotel-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/nrcnpemmnbnftbnq/
+
+type=video
+name=Women Estrus at A Comic Cafe (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Women-Estrus-at-A-Comic-Cafe-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/ecdmbmddnqpmkbnt/
+
+type=video
+name=Super Excited Hostess (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Super-Excited-Hostess-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/dsbksktqsbftaqrs/
+
+type=video
+name=The Story of Geisha (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/The-Story-of-Geisha-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/smmkqktompmesoca/
+
+type=video
+name=Door of Destinies (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Door-of-Destinies-2015.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/crektqofatddmsrf/
+
+
+type=video
+name=Dirty Pretty Nurse (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Dirty-Pretty-Nurse-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/kcrfqobmlkmlrfpt/
+
+type=video
+name=The Secret Hot Spring (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/The-Secret-Hot-Spring-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/elkbapecfqmbcedf/
+
+type=video
+name=A Friend of Mine 1 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/A-Friend-of-Mine-1-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/oqknqqpqoandbtrt/
+
+type=video
+name=A Friend of Mine 0 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/A-Friend-of-Mine-0-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/ntnpknscrmattnnm/
+
+
+
+
+
+
+
+
+
+
+type=video
+name=103xxxxxxxxxxxxxxxxxxxxFriends Mother Nurse (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Friends-Mother-Nurse-2017.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/ssnkbkctrfaqrkom/
+
+type=video
+name=Company Swapping – President And The Staff (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Company-Swapping-President-And-The-Staff-2017.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/pleomtplestlekmo/
+
+type=video
+name=Bokudakeno Nood Model (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Bokudakeno-Nood-Model-2015.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/ekdpcabrbcrtbkko/
+
+type=video
+name=The Lady of Susi Master (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/The-Lady-of-Susi-Master-2017.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/nqfnmnaeobbbsfod/
+
+type=video
+name=Good Looking Guy’s Massage Shop (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Good-Looking-Guy%E2%80%99s-Massage-Shop-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/snonnfnfceotflbt/
+
+
+type=video
+name=Big Tits Wife Seduces The Teacher (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Big-Tits-Wife-Seduces-The-Teacher-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/nafsmmktmdocblmr/
+
+type=video
+name=The Desire of Housing Complex (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/The-Desire-of-Housing-Complex-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/omdmpqcleplfmbce/
+
+type=video
+name=To Find Usual Life (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/To-Find-Usual-Life-2014.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/beaakprelklcqrml/
+
+type=video
+name=A Summer Tutor (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/A-Summer-Tutor-2014.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/naoldblsckadflmb/
+
+type=video
+name=Beautiful Wives at Exclusive Sex Shop 2 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Beautiful-Wives-at-Exclusive-Sex-Shop-2-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/osmfcenmnabbksqn/
+
+
+type=video
+name=Shock! A Perverted Couple (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Shock-A-Perverted-Couple-2015.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/fktcekmeomdedobc/
+
+type=video
+name=The Secret Relationship With The Sister-in-law (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/The-Secret-Relationship-With-The-Sister-in-law-2015.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/penceblfmmcoscln/
+
+type=video
+name=6 Big Booty Neighborhood Wives (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/6-Big-Booty-Neighborhood-Wives-2016.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/elorcefelfocfdck/
+
+type=video
+name=E Wife At Summer Resort (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/E-Wife-At-Summer-Resort-2009.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/cnblfanlrdqfldpf/
+
+type=video
+name=A Unfaithful Relation (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/A-Unfaithful-Relation-2015.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/cmbpcfmkpnsqonqq/
+
+
+type=video
+name=Yankee Idol (2012)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Yankee-Idol-2012.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/kodemcaacstedtbf/
+
+type=video
+name=Enthralled (2014) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Enthralled-2014.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/rpdocfeoopamlcop/
+
+type=video
+name=Apartment Wives (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Apartment-Wives-2015.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/foelstrmrnlssesf/
+
+type=video
+name=Greed is Special (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Greed-is-Special-2014.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/soqemosakeaneond/
+
+type=video
+name=SlotMachine Drifter (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/SlotMachine-Drifter-2013.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/mocqobosctdpfeas/
+
+
+type=video
+name=Sex And The Pachinko 2 (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/11/Sex-And-The-Pachinko-2-2013.jpg
+date=2017-12-15
+URL=https://streamcherry.com/embed/lnercpqqnapcplbo/
+
+
+
+
+
+
+
 type=video
 name=82xxxxxxxxxxxxxxxxxxxxA Secret Experience of Delicious Sex – DC (2017)
 thumb=https://erotic24hr.com/wp-content/uploads/2017/11/A-Secret-Experience-of-Delicious-Sex-DC-2017.jpg
