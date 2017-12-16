@@ -51,6 +51,9 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_high2_
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 #EXTINF:-1,Bloomberg TV Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,Bloomberg TV
+
+http://live-bloomberg-us-east.global.ssl.fastly.net/btv/desktop/live.m3u8
 #EXTINF:-1,BBC World News
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1,CNN
@@ -3599,10 +3602,12 @@ http://191.96.38.61:443/documentary/national_geographic_people_720p.stream/playl
 
 
 
+#EXTINF:-1,Polo PARTY TV
+http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
 
+#EXTINF:-1,Miami TV (18+)
 
-
-
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1,KOREA_Penthouse
 http://edge1.everyon.tv:1935/etv1sb/phd927/chunklist_w109627451.m3u8
 #EXTINF:-1,KOREA _Pink TV
@@ -3646,6 +3651,10 @@ http://191.96.38.61:443/movie/ais_doonee_720p.stream/playlist.m3u8?st=BAna1lrGOJ
 #EXTINF:-1,RED by HBO
 http://191.96.38.61:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
+
+
+#EXTINF:-1,Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 
 
 
