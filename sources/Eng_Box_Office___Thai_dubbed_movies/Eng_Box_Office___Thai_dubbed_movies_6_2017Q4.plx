@@ -70,10 +70,11 @@ URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.blu
 
 
 type=video
-name=Star Wars: The Last Jedi (2017) ENG CAM.X264-BebeLeitinho
+name=Star Wars: The Last Jedi (2017) ENG FULL_ENGLISH_HDCAM_ste20
 thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
-date=2017-12-14
-URL=https://openload.co/f/yjFhavSK_eg/Star.Wars.The.Last.Jedi.2017.CAM.X264-BebeLeitinho.mkv
+date=2017-12-16
+URL=https://openload.co/f/US7D15Fv2OU/STAR_WARS_THE_LAST_JEDI_2017_FULL_ENGLISH_HDCAM_ste20.mp4
+#https://openload.co/f/yjFhavSK_eg/Star.Wars.The.Last.Jedi.2017.CAM.X264-BebeLeitinho.mkv
 
 type=video
 name=The Killing of a Sacred Deer (2017) ENG WEB-DL.H264.AC3BB-EVO
@@ -1133,6 +1134,7 @@ name=Peelers (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/4mGR7AakCDrPrKmMka3YNfDC79Q.jpg
 date=2017-12-15
 URL=https://openload.co/f/zr2o-VU2b_w/Peelers.2016.1080p.BluRay.H264.AACBB-RARBG.mp4
+#https://www.blazefile.co/embed-izzb7giipojh.html   720
 
 type=video
 name=Americano (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1406,14 +1408,7 @@ date=2017-11-15
 URL=https://openload.co/f/RMukabH5wA8/Kedi.2016.1080p.BluRay.x264-NODLABS.mkv.mp4
 #https://www.blazefile.co/embed-bxuto1mhavke.html
 
-type=video
-name=Logan Lucky (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
-date=2017-11-15
-URL=https://www.blazefile.co/embed-ejxanhrtjykc.html
-#https://openload.co/f/M5nddhfGiHA/logan.lucky.2017.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/TvrXnw4T4Eg/Logan.Lucky.2017.720p.WEB-DL.H264.AC3-EVO.mkv
-#https://openload.co/f/sT2jB8zTaVQ/LC.2017.TS.x264-CPG.mkv.mp4
+
 
 type=video
 name=M.F.A. (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2423,19 +2418,7 @@ URL=https://openload.co/f/c_tptj0O6iU/The_Son_of_Bigfoot_%282017%29%E0%B8%9A%E0%
 #https://openload.co/f/wcgrmDhWUA0/The.Son.of.Bigfoot.2017.HDCAM.Xvid.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 
 
-type=video
-name=Flatliners (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg
-date=2017-12-12
-URL=https://www.blazefile.co/embed-s94tgi7syuxm.html
-#https://openload.co/f/1xe0mfaBUvI/Flatliners.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/QyQfGZ3-a-Q/Flatliners.2017.CAM.NEW.AUDIO.XViD-26k.avi.mp4
-#https://openload.co/f/oZKIj48wu74/Flatliners_2017_CLEAN_HDCAM_x264_HQ-DADDY.mp4
-type=video
-name=Flatliners (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w640/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg
-date=2017-10-24
-URL=https://openload.co/f/idi3AN6X1pk/Flatliners_%282017%29%E0%B8%82%E0%B8%AD%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B9%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 
@@ -2546,8 +2529,19 @@ date=2017-12-12
 URL=
 
 
-
-
+type=video
+name=Logan Lucky (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
+date=2017-11-15
+URL=https://www.blazefile.co/embed-ejxanhrtjykc.html
+#https://openload.co/f/M5nddhfGiHA/logan.lucky.2017.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/TvrXnw4T4Eg/Logan.Lucky.2017.720p.WEB-DL.H264.AC3-EVO.mkv
+#https://openload.co/f/sT2jB8zTaVQ/LC.2017.TS.x264-CPG.mkv.mp4
+type=video
+name=Logan Lucky (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
+date=2017-12-16
+URL=https://streamango.com/f/srfnnbtbntenbede/Logan_Lucky_2017_SUB
 
 
 type=video
@@ -3072,10 +3066,11 @@ URL=https://streamango.com/f/pqlbelmdakeoecca/Wind_River_2017_
 
 
 type=video
-name=The Foreigner (2017) ENG HC.HDRip.X264.AC3-EVO
+name=The Foreigner (2017) ENG WEBBBRip.x264-NEXTGEN
 thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
-date=2017-11-29
-URL=https://openload.co/f/UhUJ1n7obrQ/The.Foreigner.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+date=2017-12-16
+URL=https://openload.co/f/ncxJmiluv40/The.Foreigner.2017.1080p.WEBBBRip.x264-NEXTGEN.mkv.mp4
+#https://openload.co/f/UhUJ1n7obrQ/The.Foreigner.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/i3PUIrw5QUE/The_Foreigner_%282017%29_%5B720P_ENG_NEW_HC-TC%5D
 #https://openload.co/f/n6Qud5byQLs/The_Foreigner.2017.SUBBED.CAM.READNFO.XViD-26k.avi
 #https://openload.co/f/a858rraLqcg/The.Foreigner.2017.Hardcoded.CAM.H264.AC3-NoGRP
@@ -3090,23 +3085,7 @@ URL=https://streamango.com/f/pblsaqsboposetfo/The_Foreigner_2017_2_
 #https://openload.co/f/xnQIzCCvlFQ/The_Foreigner_%282017%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
-type=video
-name=Kingsman: The Golden Circle (2017)  [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
-date=2017-11-30
-URL=https://www.blazefile.co/embed-rtm0anmnmey1.html
-#https://openload.co/f/xehakN9vsR8/Kingsman_The_Golden_Circle_2017_720p_BluRay_x264-SPARKS.mp4
-#https://openload.co/f/pebgWAfLtow/Kingsman.The.Golden.Circle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/KoSidQAV37g/Kingsman_The_Golden_Circle_2017_HD-TS_x264_HQ-CPG.mkv.mp4
-#https://openload.co/f/DXfWPdel-FY/Kingsman.The.Golden.Circle.2017.TS.Xvid.AC3.avi.mp4
-#https://openload.co/f/HaBGBsva7yY/Kingsman.The.Golden.Circle.2017.HD-TS.x264.HQ-CPG.mp4
-type=video
-name=Kingsman: The Golden Circle (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
-date=2017-11-30
-URL=https://openload.co/f/K8RQiOfBpP0/Kingsman%3A_The_Golden_Circle_%282017%29%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://storage.googleapis.com/mlk-s/skl9ae2qp/KINGSMAN%20THE%20GOLDEN%20CIRCLE%20(2017)%20%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99%20%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C1080.MP4
-#https://streamango.com/f/amlbkcpmdsoaobqm/Kingsman_The_Golden_Circle_2017_TS_720p_ThaiRong_2_0_CpT_CtHts_mkv_mp4
+
 
 
 type=video
@@ -3189,19 +3168,6 @@ URL=https://streamango.com/f/dosacrrckpslrdqc/It_2017_
 #https://openload.co/f/85hXXbIEp-I/It_%282017%29_THCAM_SOUND%E0%B8%AD%E0%B8%B4%E0%B8%97_%E0%B9%82%E0%B8%9C%E0%B8%A5%E0%B9%88%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
-type=video
-name=Atomic Blonde (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
-date=2017-11-03
-URL=https://www.blazefile.co/embed-f2khi65ref9g.html
-#https://www.blazefile.co/embed-rbu3k8icqki3.html
-#https://openload.co/f/MffrJcUIms0/Atomic.Blonde.2017.720p.BluRay.x264.DTS-HDChina.mkv.mp4
-#https://openload.co/f/4R-pXnuqC1I/Atomic_Blonde_2017_1080p_WEB-DL_DD5.1_H264-FGT.mkv.mp4
-type=video
-name=Atomic Blonde (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
-date=2017-10-16
-URL=https://openload.co/f/2jZl7koVNSQ/Atomic_Blonde_%282017%29%E0%B8%9A%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C_%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B8%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
 type=video
@@ -3262,16 +3228,7 @@ date=2017-09-03
 URL=https://openload.co/f/F2OrZJXph3c/%7BMINI_Super-HQ%7D_The.Hitmans.Bodyguard.2017.1080p.WEB-DL.ThaiRong.5.1.x264_CpT%40CtHts.mkv.mp4
 
 
-type=video
-name=Security (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/fG2SZwAAY4mNscLfvSiKyBxaVQy.jpg
-date=2017-08-16
-URL=https://openload.co/f/OyQjGshNbw4/Security.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
-type=video
-name=Security (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/fG2SZwAAY4mNscLfvSiKyBxaVQy.jpg
-date=2017-09-06
-URL=https://openload.co/f/HZM0_zLA9Ew/Security.2017.720p.WEB-DL.DD5.1.H264.ThaiRong5.1_CpT%40CtHts.mkv.mp4
+
 
 
 type=video
@@ -3420,6 +3377,69 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+type=video
+name=Flatliners (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg
+date=2017-12-12
+URL=https://www.blazefile.co/embed-s94tgi7syuxm.html
+#https://openload.co/f/1xe0mfaBUvI/Flatliners.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/QyQfGZ3-a-Q/Flatliners.2017.CAM.NEW.AUDIO.XViD-26k.avi.mp4
+#https://openload.co/f/oZKIj48wu74/Flatliners_2017_CLEAN_HDCAM_x264_HQ-DADDY.mp4
+type=video
+name=Flatliners (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg
+date=2017-12-16
+URL=https://streamango.com/f/qrktfmakbmdtccks/_MINI_Super-HQ_Flatliners_2017_1080p_BrRip_DTS_x264_NongZEZA_CtHts_mkv_mp4
+#https://openload.co/f/idi3AN6X1pk/Flatliners_%282017%29%E0%B8%82%E0%B8%AD%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B9%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=Kingsman: The Golden Circle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
+date=2017-11-30
+URL=https://www.blazefile.co/embed-rtm0anmnmey1.html
+#https://openload.co/f/xehakN9vsR8/Kingsman_The_Golden_Circle_2017_720p_BluRay_x264-SPARKS.mp4
+#https://openload.co/f/pebgWAfLtow/Kingsman.The.Golden.Circle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/KoSidQAV37g/Kingsman_The_Golden_Circle_2017_HD-TS_x264_HQ-CPG.mkv.mp4
+#https://openload.co/f/DXfWPdel-FY/Kingsman.The.Golden.Circle.2017.TS.Xvid.AC3.avi.mp4
+#https://openload.co/f/HaBGBsva7yY/Kingsman.The.Golden.Circle.2017.HD-TS.x264.HQ-CPG.mp4
+type=video
+name=Kingsman: The Golden Circle (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
+date=2017-12-16
+URL=https://openload.co/f/E4LYH8kzaoQ/Kingsman%3A_The_Golden_Circle_%282017%29%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C.mp4
+#https://openload.co/f/K8RQiOfBpP0/Kingsman%3A_The_Golden_Circle_%282017%29%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://storage.googleapis.com/mlk-s/skl9ae2qp/KINGSMAN%20THE%20GOLDEN%20CIRCLE%20(2017)%20%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99%20%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C1080.MP4
+#https://streamango.com/f/amlbkcpmdsoaobqm/Kingsman_The_Golden_Circle_2017_TS_720p_ThaiRong_2_0_CpT_CtHts_mkv_mp4
+
+
+type=video
+name=Atomic Blonde (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
+date=2017-11-03
+URL=https://www.blazefile.co/embed-f2khi65ref9g.html
+#https://www.blazefile.co/embed-rbu3k8icqki3.html
+#https://openload.co/f/MffrJcUIms0/Atomic.Blonde.2017.720p.BluRay.x264.DTS-HDChina.mkv.mp4
+#https://openload.co/f/4R-pXnuqC1I/Atomic_Blonde_2017_1080p_WEB-DL_DD5.1_H264-FGT.mkv.mp4
+type=video
+name=Atomic Blonde (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
+date=2017-12-16
+URL=https://openload.co/f/9GEpvhqV4QM/Atomic_Blonde_%282017%29%E0%B8%9A%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C_%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B8%E0%B8%A2.mp4
+#https://openload.co/f/2jZl7koVNSQ/Atomic_Blonde_%282017%29%E0%B8%9A%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C_%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B8%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
+type=video
+name=Security (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/fG2SZwAAY4mNscLfvSiKyBxaVQy.jpg
+date=2017-08-16
+URL=https://openload.co/f/OyQjGshNbw4/Security.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+type=video
+name=Security (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/fG2SZwAAY4mNscLfvSiKyBxaVQy.jpg
+date=2017-12-16
+URL=https://openload.co/f/XDiyBxmiJI0/Security_%282017%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2.mp4
+#https://openload.co/f/HZM0_zLA9Ew/Security.2017.720p.WEB-DL.DD5.1.H264.ThaiRong5.1_CpT%40CtHts.mkv.mp4
 
 
 type=video
