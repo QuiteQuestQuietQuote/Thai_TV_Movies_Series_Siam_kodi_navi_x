@@ -3601,13 +3601,19 @@ http://191.96.38.61:443/documentary/discovery_channel_480p.stream/playlist.m3u8?
 http://191.96.38.61:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
 
+#EXTINF:-1,RenTV 2
+http://cdnworld.magictvbox.eu/RenTV/tracks-v1a1/index.m3u8?token=token
 
+#EXTINF:-1,RenTV
+http://213.59.136.48:9990/play/REN_TV/index.m3u8
 #EXTINF:-1,Polo PARTY TV
 http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
 
 #EXTINF:-1,Miami TV (18+)
 
 http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1,FRENCHLOVER
+http://213.59.136.48:9990/play/FRENCHLOVER/index.m3u8
 #EXTINF:-1,KOREA_Penthouse
 http://edge1.everyon.tv:1935/etv1sb/phd927/chunklist_w109627451.m3u8
 #EXTINF:-1,KOREA _Pink TV
@@ -3651,6 +3657,30 @@ http://191.96.38.61:443/movie/ais_doonee_720p.stream/playlist.m3u8?st=BAna1lrGOJ
 #EXTINF:-1,RED by HBO
 http://191.96.38.61:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 
+
+#EXTINF:-1,CINEMA PLUS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMAPLUS)/Stream(01)/index.m3u8
+#EXTINF:-1,PASIONES HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PASIONES_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,Private
+http://213.59.136.48:9990/play/Private/index.m3u8
+#EXTINF:-1,O-la-la
+http://213.59.136.48:9990/play/O-la-la/index.m3u8
+
+#EXTINF:-1,Nashe_Novoe_Kino
+http://cdnworld.magictvbox.eu/Nashe_Novoe_Kino/tracks-v1a1/index.m3u8?token=token
+#EXTINF:-1,Inter+
+http://cdnworld.magictvbox.eu/Inter+/tracks-v1a1/index.m3u8?token=token
+#EXTINF:-1,Disney
+http://cdnworld.magictvbox.eu/Disney/tracks-v1a1/index.m3u8?token=token
+
+#EXTINF:-1,HBO
+http://14.167.68.235:4022/rtp/232.84.1.19:8088
+#EXTINF:-1,MEDIACORP
+http://14.167.68.235:4022/rtp/232.84.1.5:8004
+#EXTINF:-1,Nat Geo People
+http://14.167.68.235:4022/rtp/232.84.2.121:8376
 
 
 #EXTINF:-1,Rai Premium
