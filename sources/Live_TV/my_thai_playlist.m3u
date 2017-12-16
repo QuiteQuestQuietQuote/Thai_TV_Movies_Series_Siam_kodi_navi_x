@@ -47,9 +47,14 @@ http://191.96.38.61:443/news/money_channel_480p.stream/playlist.m3u8?st=BAna1lrG
 
 #EXTINF:-1,NHK WORLD HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_high2_s.m3u8
-
-
-
+#EXTINF:-1,DWTV
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:-1,Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,BBC World News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1,CNN
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CNN_INTERNACIONAL)/index.m3u8
 
 #EXTINF:-1,CHANNEL NEWSASIA
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
@@ -75,6 +80,2000 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 #EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
 http://203.162.235.41:17819
+
+
+
+#EXTINF:-1,FR:BeinSport_2
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/981.m3u8
+#EXTINF:-1,FR:BeinSport_1
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/980.m3u8
+#EXTINF:-1,FR:Ushuaia_HD
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/895.m3u8
+#EXTINF:-1,FR:Tout_LHistoire
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/884.m3u8
+#EXTINF:-1,FR:TIJI
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/888.m3u8
+#EXTINF:-1,FR:TF1
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/887.m3u8
+#EXTINF:-1,FR:Disney_Junior
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/889.m3u8
+#EXTINF:-1,FR:RTL9
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/885.m3u8
+#EXTINF:-1,FR:Planete
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/883.m3u8
+#EXTINF:-1,FR:PIWI
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/891.m3u8
+#EXTINF:-1,FR:NRJ12
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/882.m3u8
+#EXTINF:-1,FR:Nat_Geo
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/881.m3u8
+#EXTINF:-1,FR:M6
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/880.m3u8
+#EXTINF:-1,FR:Infosport
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/879.m3u8
+#EXTINF:-1,FR:GULLI
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/893.m3u8
+#EXTINF:-1,FR:France_5
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/845.m3u8
+#EXTINF:-1,FR:FRANCE_2
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/842.m3u8
+#EXTINF:-1,FR:Disney
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/878.m3u8
+#EXTINF:-1,FR:CINE_POLAR
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/847.m3u8
+#EXTINF:-1,FR:Cine_FX
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/886.m3u8
+#EXTINF:-1,FR:CINE_CLASSIC
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/848.m3u8
+#EXTINF:-1,FR:CINE_FAMIZ
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/851.m3u8
+#EXTINF:-1,FR:Chasse_Et_Peche
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/857.m3u8
+#EXTINF:-1,FR:Discovery
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/877.m3u8
+#EXTINF:-1,FR:Canal_J
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/892.m3u8
+#EXTINF:-1,FR:CANAL_SPORT_HD
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/853.m3u8
+#EXTINF:-1,FR:CANAL_HD
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/854.m3u8
+#EXTINF:-1,FR:CANAL_DECALE_HD
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/855.m3u8
+#EXTINF:-1,FR:Animaux_hd
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/876.m3u8
+#EXTINF:-1,FR:Action
+http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/890.m3u8
+#EXTINF:-1,TF1 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1905.m3u8
+#EXTINF:-1,TF1
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4779.m3u8
+#EXTINF:-1,FRANCE 2 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1906.m3u8
+#EXTINF:-1,FRANCE 2
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4778.m3u8
+#EXTINF:-1,FRANCE 3 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1953.m3u8
+#EXTINF:-1,FRANCE 3
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4777.m3u8
+#EXTINF:-1,FRANCE 4 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2596.m3u8
+#EXTINF:-1,FRANCE 4
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4776.m3u8
+#EXTINF:-1,FRANCE 5 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2204.m3u8
+#EXTINF:-1,FRANCE 5
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4775.m3u8
+#EXTINF:-1,FRANCE Ô Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5064.m3u8
+#EXTINF:-1,FRANCE Ô
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4774.m3u8
+#EXTINF:-1,W9 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1909.m3u8
+#EXTINF:-1,W9
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4772.m3u8
+#EXTINF:-1,M6 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1907.m3u8
+#EXTINF:-1,M6
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4773.m3u8
+#EXTINF:-1,C8 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2039.m3u8
+#EXTINF:-1,C8
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4766.m3u8
+#EXTINF:-1,CSTAR Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2040.m3u8
+#EXTINF:-1,CSTAR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4765.m3u8
+#EXTINF:-1,RTS UN Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2634.m3u8
+#EXTINF:-1,RTS UN
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4742.m3u8
+#EXTINF:-1,RTS DEUX Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2635.m3u8
+#EXTINF:-1,RTS DEUX
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4741.m3u8
+#EXTINF:-1,6TER Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3703.m3u8
+#EXTINF:-1,6TER
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4764.m3u8
+#EXTINF:-1,TEVA
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1513.m3u8
+#EXTINF:-1,ENORME TV
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1017.m3u8
+#EXTINF:-1,--|FR INFO|--
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1497.m3u8
+#EXTINF:-1,I-TELE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1479.m3u8
+#EXTINF:-1,CNEWS Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5083.m3u8
+#EXTINF:-1,CNEWS
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4685.m3u8
+#EXTINF:-1,I24 NEWS Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5084.m3u8
+#EXTINF:-1,LCI Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5085.m3u8
+#EXTINF:-1,EURONEWS
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4680.m3u8
+#EXTINF:-1,BFM TV Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2704.m3u8
+#EXTINF:-1,BFM TV
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4722.m3u8
+#EXTINF:-1,BFM BUSINESS
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4687.m3u8
+#EXTINF:-1,FRANCE INFO
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4683.m3u8
+#EXTINF:-1,--|FR DIVERTISSE|--
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1495.m3u8
+#EXTINF:-1,LA CHAINNE DU PÊRE NOEL HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/7568.m3u8
+#EXTINF:-1,ALTICE STUDIO Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5065.m3u8
+#EXTINF:-1,SUNDANCE TV Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5069.m3u8
+#EXTINF:-1,NON STOP PEOPLE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5028.m3u8
+#EXTINF:-1,HD1 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2209.m3u8
+#EXTINF:-1,HD1
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4769.m3u8
+#EXTINF:-1,E! Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1927.m3u8
+#EXTINF:-1,E!
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4721.m3u8
+#EXTINF:-1,LUXE TV Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5991.m3u8
+#EXTINF:-1,ELLE GIRL Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2073.m3u8
+#EXTINF:-1,ELLE GIRL
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4743.m3u8
+#EXTINF:-1,ARTE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2598.m3u8
+#EXTINF:-1,ARTE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4767.m3u8
+#EXTINF:-1,SYFY Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1924.m3u8
+#EXTINF:-1,SYFY
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4746.m3u8
+#EXTINF:-1,13EME RUE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3117.m3u8
+#EXTINF:-1,13EME RUE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4771.m3u8
+#EXTINF:-1,CHERIE 25 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2597.m3u8
+#EXTINF:-1,CHERIE 25
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4761.m3u8
+#EXTINF:-1,AB1 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4706.m3u8
+#EXTINF:-1,AB1
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4705.m3u8
+#EXTINF:-1,AB3 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5086.m3u8
+#EXTINF:-1,AB3
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5089.m3u8
+#EXTINF:-1,NT1 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2208.m3u8
+#EXTINF:-1,NT1
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4770.m3u8
+#EXTINF:-1,NUMERO 23 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3134.m3u8
+#EXTINF:-1,NUMERO 23
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4762.m3u8
+#EXTINF:-1,SERIE CLUB Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1923.m3u8
+#EXTINF:-1,SERIE CLUB
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/329.m3u8
+#EXTINF:-1,NOVELAS TV Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/6035.m3u8
+#EXTINF:-1,WARNER TV Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/6036.m3u8
+#EXTINF:-1,TV BREIZH Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2045.m3u8
+#EXTINF:-1,TV BREIZH
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4763.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2688.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4745.m3u8
+#EXTINF:-1,TCM CINEMA Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5080.m3u8
+#EXTINF:-1,TCM CINEMA
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5092.m3u8
+#EXTINF:-1,TMC Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1925.m3u8
+#EXTINF:-1,TMC
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4768.m3u8
+#EXTINF:-1,NOLLYWOOD Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3673.m3u8
+#EXTINF:-1,PARIS PREMIERE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5073.m3u8
+#EXTINF:-1,PARIS PREMIERE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1186.m3u8
+#EXTINF:-1,ACTION Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5090.m3u8
+#EXTINF:-1,ACTION
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4760.m3u8
+#EXTINF:-1,COMEDIE+ Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5074.m3u8
+#EXTINF:-1,COMEDIE+
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4686.m3u8
+#EXTINF:-1,STAR TV
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4676.m3u8
+#EXTINF:-1,--|FR CINEMA|--
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1493.m3u8
+#EXTINF:-1,CANAL+ Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1912.m3u8
+#EXTINF:-1,CANAL+
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4759.m3u8
+#EXTINF:-1,CANAL+ CINEMA Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1913.m3u8
+#EXTINF:-1,CANAL+ CINEMA
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4755.m3u8
+#EXTINF:-1,CANAL+ DECALE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1915.m3u8
+#EXTINF:-1,CANAL+ DECALE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4756.m3u8
+#EXTINF:-1,CANAL+ FAMILY Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1914.m3u8
+#EXTINF:-1,CANAL+ FAMILY
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4757.m3u8
+#EXTINF:-1,CANAL+ SERIES Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1916.m3u8
+#EXTINF:-1,CANAL+ SERIES
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4758.m3u8
+#EXTINF:-1,CINE+ PREMIER Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2687.m3u8
+#EXTINF:-1,CINE+ PREMIER
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4750.m3u8
+#EXTINF:-1,CINE+ FAMIZ Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2628.m3u8
+#EXTINF:-1,CINE+ FAMIZ
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4753.m3u8
+#EXTINF:-1,CINE+ CLASSIC Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2686.m3u8
+#EXTINF:-1,CINE+ CLASSIC
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4747.m3u8
+#EXTINF:-1,CINE+ CLUB Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2685.m3u8
+#EXTINF:-1,CINE+ CLUB
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4748.m3u8
+#EXTINF:-1,CINE+ EMOTION Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2684.m3u8
+#EXTINF:-1,CINE+ EMOTION
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4749.m3u8
+#EXTINF:-1,CINE+ FRISSON Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2585.m3u8
+#EXTINF:-1,CINE+ FRISSON
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4754.m3u8
+#EXTINF:-1,CINE POLAR Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2689.m3u8
+#EXTINF:-1,CINE POLAR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4752.m3u8
+#EXTINF:-1,CINE FX Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2690.m3u8
+#EXTINF:-1,CINE FX
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4751.m3u8
+#EXTINF:-1,OCS CHOC Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3128.m3u8
+#EXTINF:-1,OCS Choc
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4847.m3u8
+#EXTINF:-1,OCS CITY Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3129.m3u8
+#EXTINF:-1,OCS CITY
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4908.m3u8
+#EXTINF:-1,OCS GEANTS Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3126.m3u8
+#EXTINF:-1,OCS GEANTS
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4909.m3u8
+#EXTINF:-1,OCS MAX Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3127.m3u8
+#EXTINF:-1,--|FR SPORT|--
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1491.m3u8
+#EXTINF:-1,beIN SPORTS 1 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1941.m3u8
+#EXTINF:-1,BEIN SPORTS 1
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4701.m3u8
+#EXTINF:-1,beIN SPORTS 2 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1942.m3u8
+#EXTINF:-1,BEIN SPORTS 2
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4700.m3u8
+#EXTINF:-1,beIN SPORTS 3 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1943.m3u8
+#EXTINF:-1,BEIN SPORTS 3
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4699.m3u8
+#EXTINF:-1,beIN SPORTS MAX 4 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2631.m3u8
+#EXTINF:-1,beIN SPORTS MAX 5 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2630.m3u8
+#EXTINF:-1,beIN SPORTS MAX 6 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2632.m3u8
+#EXTINF:-1,beIN SPORTS MAX 7 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2633.m3u8
+#EXTINF:-1,beIN SPORTS MAX 8 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3681.m3u8
+#EXTINF:-1,beIN SPORTS  MAX 9 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3682.m3u8
+#EXTINF:-1,beIN SPORTS MAX 10 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3683.m3u8
+#EXTINF:-1,MULTI SPORTS 1HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5985.m3u8
+#EXTINF:-1,MULTI SPORTS 2HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5986.m3u8
+#EXTINF:-1,MULTI SPORTS 3HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5987.m3u8
+#EXTINF:-1,MULTI SPORTS 4HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5988.m3u8
+#EXTINF:-1,MULTI SPORTS 5HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5989.m3u8
+#EXTINF:-1,MULTI SPORTS 6HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5990.m3u8
+#EXTINF:-1,SFR SPORT 1 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2043.m3u8
+#EXTINF:-1,SFR SPORT 1
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4698.m3u8
+#EXTINF:-1,SFR SPORT 2 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2046.m3u8
+#EXTINF:-1,SFR SPORT 2
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4697.m3u8
+#EXTINF:-1,SFR SPORT 3 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2047.m3u8
+#EXTINF:-1,SFR SPORT 3
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4696.m3u8
+#EXTINF:-1,SFR SPORT 4K
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3125.m3u8
+#EXTINF:-1,SFR SPORT 5 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2592.m3u8
+#EXTINF:-1,SFR SPORT 5
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4695.m3u8
+#EXTINF:-1,CANAL+ SPORT Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1917.m3u8
+#EXTINF:-1,CANAL+ SPORT
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4694.m3u8
+#EXTINF:-1,INFOSPORT+ Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2471.m3u8
+#EXTINF:-1,INFOSPORT+
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4691.m3u8
+#EXTINF:-1,L'EQUIPE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2041.m3u8
+#EXTINF:-1,L'EQUIPE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4690.m3u8
+#EXTINF:-1,EQUIDIA LIFE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4682.m3u8
+#EXTINF:-1,EQUIDIA LIFE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4681.m3u8
+#EXTINF:-1,EQUIDIA LIVE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2600.m3u8
+#EXTINF:-1,EQUIDIA LIVE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4689.m3u8
+#EXTINF:-1,EUROSPORT 1 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1936.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4693.m3u8
+#EXTINF:-1,EUROSPORT 2 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1937.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4692.m3u8
+#EXTINF:-1,GOLF CHANNEL Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1939.m3u8
+#EXTINF:-1,Golf channel
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4688.m3u8
+#EXTINF:-1,GOLF+ Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2028.m3u8
+#EXTINF:-1,GOLF+
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5072.m3u8
+#EXTINF:-1,OM TV Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3691.m3u8
+#EXTINF:-1,FOOT+ 24/24 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5082.m3u8
+#EXTINF:-1,FOOT+ 24/24
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1631.m3u8
+#EXTINF:-1,EXTREME SPORTS
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5094.m3u8
+#EXTINF:-1,AB MOTEURS Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5079.m3u8
+#EXTINF:-1,AB MOTEURS
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1947.m3u8
+#EXTINF:-1,BFM SPORT Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2638.m3u8
+#EXTINF:-1,--|FR DOCUMENTAIRE|--
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1492.m3u8
+#EXTINF:-1,SEASONS Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1946.m3u8
+#EXTINF:-1,SEASON
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4712.m3u8
+#EXTINF:-1,TREK Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1944.m3u8
+#EXTINF:-1,TREK
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4711.m3u8
+#EXTINF:-1,USHUAIA Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2587.m3u8
+#EXTINF:-1,USHUAIA
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4720.m3u8
+#EXTINF:-1,ANIMAUX Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1945.m3u8
+#EXTINF:-1,ANIMAUX
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4710.m3u8
+#EXTINF:-1,PLANETE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1928.m3u8
+#EXTINF:-1,PLANETE+
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4704.m3u8
+#EXTINF:-1,PLANETE+ CI Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2692.m3u8
+#EXTINF:-1,PLANETE+ CI
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4703.m3u8
+#EXTINF:-1,PLANETE+ A&E Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2691.m3u8
+#EXTINF:-1,PLANETE+ A&E
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4702.m3u8
+#EXTINF:-1,RMC DECOUVERTE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1910.m3u8
+#EXTINF:-1,RMC DECOUVERTE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4708.m3u8
+#EXTINF:-1,NAT GEO WILD Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2693.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4718.m3u8
+#EXTINF:-1,NATIONAL GEO Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1952.m3u8
+#EXTINF:-1,NATIONAL GEO
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4719.m3u8
+#EXTINF:-1,HISTOIRE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4373.m3u8
+#EXTINF:-1,HISTOIRE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4709.m3u8
+#EXTINF:-1,SCIENCE ET VIE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1929.m3u8
+#EXTINF:-1,SCIENCE ET VIE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4717.m3u8
+#EXTINF:-1,CRIME DISTRICT Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4266.m3u8
+#EXTINF:-1,CRIME DISTRICT
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4713.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1935.m3u8
+#EXTINF:-1,DISCOVERY
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4714.m3u8
+#EXTINF:-1,DISCOVERY FAMILY FULL HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5227.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3704.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1930.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4715.m3u8
+#EXTINF:-1,CAMPAGNES TV Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2601.m3u8
+#EXTINF:-1,CAMPAGNES TV
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4707.m3u8
+#EXTINF:-1,VOYAGE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4780.m3u8
+#EXTINF:-1,VOYAGE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4679.m3u8
+#EXTINF:-1,VICELAND Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4912.m3u8
+#EXTINF:-1,MY ZEN TV Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4911.m3u8
+#EXTINF:-1,MY CUISINE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4372.m3u8
+#EXTINF:-1,GRAND LILLE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4677.m3u8
+#EXTINF:-1,BE CURIOUS Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4675.m3u8
+#EXTINF:-1,Wéo HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5992.m3u8
+#EXTINF:-1,AZUR TV Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4678.m3u8
+#EXTINF:-1,CHASSE ET PECHE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/330.m3u8
+#EXTINF:-1,TOUTE L'HISTOIRE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1737.m3u8
+#EXTINF:-1,--|FR ENFANT|--
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1494.m3u8
+#EXTINF:-1,CANAL J Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2699.m3u8
+#EXTINF:-1,CANAL J
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4740.m3u8
+#EXTINF:-1,J-ONE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3695.m3u8
+#EXTINF:-1,J-ONE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4728.m3u8
+#EXTINF:-1,GAME ONE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1934.m3u8
+#EXTINF:-1,GAME ONE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4729.m3u8
+#EXTINF:-1,MANGAS Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3696.m3u8
+#EXTINF:-1,MANGAS
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4727.m3u8
+#EXTINF:-1,PIWI+ Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2696.m3u8
+#EXTINF:-1,PIWI+
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4735.m3u8
+#EXTINF:-1,GULLI Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2015.m3u8
+#EXTINF:-1,GULLI
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4726.m3u8
+#EXTINF:-1,TÉLÉTOON+ Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2698.m3u8
+#EXTINF:-1,TÉLÉTOON+
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4737.m3u8
+#EXTINF:-1,TIJI Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2697.m3u8
+#EXTINF:-1,TIJI
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4738.m3u8
+#EXTINF:-1,TOONAMI Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4218.m3u8
+#EXTINF:-1,TOONAMI
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4846.m3u8
+#EXTINF:-1,BOOMERANG
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4739.m3u8
+#EXTINF:-1,BOOMERANG Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2700.m3u8
+#EXTINF:-1,BOING Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5081.m3u8
+#EXTINF:-1,BOING
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5088.m3u8
+#EXTINF:-1,DISNEY CHANNEL Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2694.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4733.m3u8
+#EXTINF:-1,DISNEY CINEMA Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2016.m3u8
+#EXTINF:-1,DISNEY CINEMA
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4731.m3u8
+#EXTINF:-1,DISNEY JUNIOR Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2695.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4734.m3u8
+#EXTINF:-1,DISNEY XD Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4371.m3u8
+#EXTINF:-1,DISNEY XD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4736.m3u8
+#EXTINF:-1,NICKELODEON Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1931.m3u8
+#EXTINF:-1,NICKELODEON
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4730.m3u8
+#EXTINF:-1,Nickelodeon 4 TEEN Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2629.m3u8
+#EXTINF:-1,CARTOON NETWORK Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2211.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4732.m3u8
+#EXTINF:-1,ZOUZOUS
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1898.m3u8
+#EXTINF:-1,--|FR MUSIC|--
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1510.m3u8
+#EXTINF:-1,ONE TV Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5093.m3u8
+#EXTINF:-1,NRJ 12 Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1926.m3u8
+#EXTINF:-1,NRJ 12
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4744.m3u8
+#EXTINF:-1,NRJ HITS
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4195.m3u8
+#EXTINF:-1,MCM Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2702.m3u8
+#EXTINF:-1,MCM
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4724.m3u8
+#EXTINF:-1,MCM TOP Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2703.m3u8
+#EXTINF:-1,MCM TOP
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4723.m3u8
+#EXTINF:-1,MTV FRANCE Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1933.m3u8
+#EXTINF:-1,MTV
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4725.m3u8
+#EXTINF:-1,MTV HITS Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5078.m3u8
+#EXTINF:-1,M6 MUSIC Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5076.m3u8
+#EXTINF:-1,M6 MUSIC
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1187.m3u8
+#EXTINF:-1,RFM TV Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5075.m3u8
+#EXTINF:-1,RFM TV
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5087.m3u8
+#EXTINF:-1,TRACE AFRICA Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5077.m3u8
+#EXTINF:-1,TRACE URBAN Full HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/5091.m3u8
+#EXTINF:-1,Trace urban
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4684.m3u8
+#EXTINF:-1,Virgin
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1265.m3u8
+#EXTINF:-1,--|FR PPV|--
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1490.m3u8
+#EXTINF:-1,CANAL PLAY 1
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1037.m3u8
+#EXTINF:-1,CANAL PLAY 2
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1038.m3u8
+#EXTINF:-1,CANAL PLAY 3
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1039.m3u8
+#EXTINF:-1,CANAL PLAY 4
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1040.m3u8
+#EXTINF:-1,CANAL PLAY 5
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1041.m3u8
+#EXTINF:-1,CANAL PLAY 6
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1036.m3u8
+#EXTINF:-1,FR|ORANGE CINEMA 1
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4670.m3u8
+#EXTINF:-1,FR|ORANGE CINEMA 2
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4671.m3u8
+#EXTINF:-1,FR|ORANGE CINEMA 3
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4672.m3u8
+#EXTINF:-1,FR|ORANGE CINEMA 4
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4673.m3u8
+#EXTINF:-1,FR|ORANGE CINEMA 5
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4674.m3u8
+#EXTINF:-1,««------BELGIQUE------»»
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/854.m3u8
+#EXTINF:-1,BEL|La Une
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/848.m3u8
+#EXTINF:-1,BEL|La Deux
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/846.m3u8
+#EXTINF:-1,BEL|La Trois
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/847.m3u8
+#EXTINF:-1,BEL|RTL-TVI
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/850.m3u8
+#EXTINF:-1,BEL|Plug RTL
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/849.m3u8
+#EXTINF:-1,BEL|Club RTL
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/994.m3u8
+#EXTINF:-1,BEL|TV Lux
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1586.m3u8
+#EXTINF:-1,BEL|Televesdre
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1585.m3u8
+#EXTINF:-1,BEL|VTM HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1985.m3u8
+#EXTINF:-1,BEL|VITAYA
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1986.m3u8
+#EXTINF:-1,BEL|VIJF
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1988.m3u8
+#EXTINF:-1,BEL|VIER
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1989.m3u8
+#EXTINF:-1,BEL|CANVAS HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1987.m3u8
+#EXTINF:-1,BEL|TéLé MB
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2623.m3u8
+#EXTINF:-1,BEL|AB3
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2626.m3u8
+#EXTINF:-1,BEL|CINE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4667.m3u8
+#EXTINF:-1,BEL|CINEMA 1
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4668.m3u8
+#EXTINF:-1,BEL|EEN HD
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4669.m3u8
+#EXTINF:-1,BEL|Eleven Sport
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2627.m3u8
+#EXTINF:-1,BEL|Voo Sport 1
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1887.m3u8
+#EXTINF:-1,BEL|Voo Sport 2
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2029.m3u8
+#EXTINF:-1,BEL|Voo Sport World 1
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2625.m3u8
+#EXTINF:-1,TF1 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1775.m3u8
+#EXTINF:-1,FRANCE 2  FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1776.m3u8
+#EXTINF:-1,FRANCE 3 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1814.m3u8
+#EXTINF:-1,FRANCE 4 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/314.m3u8
+#EXTINF:-1,FRANCE 5 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/315.m3u8
+#EXTINF:-1,FRANCE Ô FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/316.m3u8
+#EXTINF:-1,M6 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1777.m3u8
+#EXTINF:-1,W9 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1778.m3u8
+#EXTINF:-1,RTL 9 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/318.m3u8
+#EXTINF:-1,RTS Deux FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1653.m3u8
+#EXTINF:-1,RTS Un FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/995.m3u8
+#EXTINF:-1,C STAR FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1008.m3u8
+#EXTINF:-1,C8 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/321.m3u8
+#EXTINF:-1,AB1 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1786.m3u8
+#EXTINF:-1,NT1 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/926.m3u8
+#EXTINF:-1,HD 1 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1185.m3u8
+#EXTINF:-1,ARTE FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/324.m3u8
+#EXTINF:-1,ACTION FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/317.m3u8
+#EXTINF:-1,CANAL+ FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/331.m3u8
+#EXTINF:-1,CANAL+ CINEMA FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1803.m3u8
+#EXTINF:-1,CANAL+ DECALE FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/337.m3u8
+#EXTINF:-1,CANAL+ FAMIILY FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1804.m3u8
+#EXTINF:-1,CANAL+ SERIES FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1832.m3u8
+#EXTINF:-1,Ciné +Famiz FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/827.m3u8
+#EXTINF:-1,CINÉ FX FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1217.m3u8
+#EXTINF:-1,CINÉ POLAR FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1216.m3u8
+#EXTINF:-1,Cine Premier FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1805.m3u8
+#EXTINF:-1,CINE+ CLASSIC FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1218.m3u8
+#EXTINF:-1,CINE+ EMOTION FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/336.m3u8
+#EXTINF:-1,CINE+FRISSON FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3217.m3u8
+#EXTINF:-1,Cherie 25 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1125.m3u8
+#EXTINF:-1,E! HD FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1124.m3u8
+#EXTINF:-1,Elle Girl FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4376.m3u8
+#EXTINF:-1,Numero 23 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1772.m3u8
+#EXTINF:-1,13EME RUE FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/826.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1630.m3u8
+#EXTINF:-1,SERIE CLUB FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1833.m3u8
+#EXTINF:-1,SYFY FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/328.m3u8
+#EXTINF:-1,TCM Cinema FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1891.m3u8
+#EXTINF:-1,TMC FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1816.m3u8
+#EXTINF:-1,TV BREIZH FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1773.m3u8
+#EXTINF:-1,Comedie + FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1806.m3u8
+#EXTINF:-1,SFR SPORTS 1 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2590.m3u8
+#EXTINF:-1,SFR SPORTS 2 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1267.m3u8
+#EXTINF:-1,SFR SPORTS 3 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2595.m3u8
+#EXTINF:-1,SFR SPORTS 5 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4194.m3u8
+#EXTINF:-1,beIN SPORTS 1 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1780.m3u8
+#EXTINF:-1,beIN SPORTS 2 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1781.m3u8
+#EXTINF:-1,beIN SPORTS 3 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2593.m3u8
+#EXTINF:-1,beIN SPORTS HD1 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2654.m3u8
+#EXTINF:-1,beIN SPORTS HD2 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2655.m3u8
+#EXTINF:-1,beIN SPORTS HD3 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/829.m3u8
+#EXTINF:-1,BeIN SPORTS MAX 4 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1303.m3u8
+#EXTINF:-1,BeIN SPORTS MAX 5 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1304.m3u8
+#EXTINF:-1,BeIN SPORTS MAX 6 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1305.m3u8
+#EXTINF:-1,BeIN SPORTS MAX 7 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1306.m3u8
+#EXTINF:-1,BeIN SPORTS MAX 8 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1307.m3u8
+#EXTINF:-1,CANAL+SPORT FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1779.m3u8
+#EXTINF:-1,BFM SPORT FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/4294.m3u8
+#EXTINF:-1,Equidia Live FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1774.m3u8
+#EXTINF:-1,EURO SPORTS 1 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/872.m3u8
+#EXTINF:-1,EURO SPORTS 2 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1103.m3u8
+#EXTINF:-1,INFOSPORT+ FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/873.m3u8
+#EXTINF:-1,FR|Kombat Sport
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3124.m3u8
+#EXTINF:-1,L'EQUIPE 21 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/326.m3u8
+#EXTINF:-1,GOLF+ FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1782.m3u8
+#EXTINF:-1,DISNEY CHANNEL FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/921.m3u8
+#EXTINF:-1,DISNEY CINEMA FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1104.m3u8
+#EXTINF:-1,CARTOON NETWORK FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/822.m3u8
+#EXTINF:-1,Boomerang FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/868.m3u8
+#EXTINF:-1,CANAL J FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/820.m3u8
+#EXTINF:-1,Game One FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1839.m3u8
+#EXTINF:-1,MANGAS FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1035.m3u8
+#EXTINF:-1,Gulli FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/327.m3u8
+#EXTINF:-1,PIWI+ FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/819.m3u8
+#EXTINF:-1,TéléToon FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1264.m3u8
+#EXTINF:-1,TIJI FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/871.m3u8
+#EXTINF:-1,NICK JR FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1785.m3u8
+#EXTINF:-1,NICKELODEON FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1787.m3u8
+#EXTINF:-1,Discovery FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1810.m3u8
+#EXTINF:-1,Discovery Science FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1831.m3u8
+#EXTINF:-1,NAT GEO WILD HD FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/343.m3u8
+#EXTINF:-1,National Geo FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1809.m3u8
+#EXTINF:-1,PLANETE+ FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/345.m3u8
+#EXTINF:-1,PLANETE A&E FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/347.m3u8
+#EXTINF:-1,Planete+ CI FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1807.m3u8
+#EXTINF:-1,RMC Decouverte FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1009.m3u8
+#EXTINF:-1,VOYAGE FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/925.m3u8
+#EXTINF:-1,USHUAIA TV FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/828.m3u8
+#EXTINF:-1,TREK FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1783.m3u8
+#EXTINF:-1,SCIENCE ET VIE FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2074.m3u8
+#EXTINF:-1,SEASON FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1784.m3u8
+#EXTINF:-1,Animaux FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1808.m3u8
+#EXTINF:-1,BFM FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1105.m3u8
+#EXTINF:-1,FR|Euronews
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1484.m3u8
+#EXTINF:-1,FR|France24
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1486.m3u8
+#EXTINF:-1,NRJ12 FR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/823.m3u8
+#EXTINF:-1,FR|OCS ACTION
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2020.m3u8
+#EXTINF:-1,FR|OCS AVENTURE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2021.m3u8
+#EXTINF:-1,FR|OCS CHOC
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1102.m3u8
+#EXTINF:-1,FR|OCS CITY
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/824.m3u8
+#EXTINF:-1,FR|OCS DOCUMENTAIRE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2018.m3u8
+#EXTINF:-1,FR|OCS GEANTS
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1101.m3u8
+#EXTINF:-1,FR|OCS GO COMEDIE
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2017.m3u8
+#EXTINF:-1,FR|OCS HORREUR
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/2019.m3u8
+#EXTINF:-1,FR|OCS MAX
+http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/1100.m3u8
+#EXTINF:-1,FR: FRANCE_O
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5106.m3u8
+#EXTINF:-1,FR: FRANCE2 Full HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5107.m3u8
+#EXTINF:-1,FR: FRANCE3
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5108.m3u8
+#EXTINF:-1,FR: FRANCE4 Full HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5109.m3u8
+#EXTINF:-1,FR: FRANCE5 Full HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5110.m3u8
+#EXTINF:-1,FR: W9 Full HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5111.m3u8
+#EXTINF:-1,FR: TMC Full HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5112.m3u8
+#EXTINF:-1,FR: NT1 Full HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5113.m3u8
+#EXTINF:-1,FR: NRJ12 Full HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5114.m3u8
+#EXTINF:-1,FR: 6TER Full HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5115.m3u8
+#EXTINF:-1,FR: M6 Full HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5119.m3u8
+#EXTINF:-1,FR: M6 Boutique Et Co.
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/16311.m3u8
+#EXTINF:-1,FR: WEO
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5116.m3u8
+#EXTINF:-1,FR: TV BREIZH
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5117.m3u8
+#EXTINF:-1,FR: TREK HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5577.m3u8
+#EXTINF:-1,FR: TEVA
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5118.m3u8
+#EXTINF:-1,FR: RTL9
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5129.m3u8
+#EXTINF:-1,FR: CHERIE25
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5123.m3u8
+#EXTINF:-1,FR: HD1
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5121.m3u8
+#EXTINF:-1,FR: BET
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5210.m3u8
+#EXTINF:-1,FR: ELLE GIRL
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5122.m3u8
+#EXTINF:-1,FR: CSTAR HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5125.m3u8
+#EXTINF:-1,FR: C8
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5124.m3u8
+#EXTINF:-1,FR: AB1
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5126.m3u8
+#EXTINF:-1,FR: 23 HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5557.m3u8
+#EXTINF:-1,FR: LCP
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/16312.m3u8
+#EXTINF:-1,FR: Men's Up
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/16310.m3u8
+#EXTINF:-1,FR: NoLife
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/16308.m3u8
+#EXTINF:-1,FR: Ofive
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/16307.m3u8
+#EXTINF:-1,FR:  LIVE AU COEURS DES REFUGES
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/16317.m3u8
+#EXTINF:-1,FR: Altice Studio HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/16316.m3u8
+#EXTINF:-1,* * * *  FR CINEMA * * * *
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5130.m3u8
+#EXTINF:-1,FR: CANAL
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5131.m3u8
+#EXTINF:-1,FR: CANAL CINEMA
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5135.m3u8
+#EXTINF:-1,FR: CANAL SERIES
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5132.m3u8
+#EXTINF:-1,FR: CANAL FAMILY
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5133.m3u8
+#EXTINF:-1,FR: CANAL DECALE
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5134.m3u8
+#EXTINF:-1,FR: CINE PREMIER
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5136.m3u8
+#EXTINF:-1,FR: CINE POLAR_HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5137.m3u8
+#EXTINF:-1,FR: CINE FX
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5138.m3u8
+#EXTINF:-1,FR: CINE FRISSON
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5139.m3u8
+#EXTINF:-1,FR: CINE FAMIZ
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5140.m3u8
+#EXTINF:-1,FR: CINE EMOTION
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5141.m3u8
+#EXTINF:-1,FR: Canal+ FullHD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5142.m3u8
+#EXTINF:-1,FR: CINE CLASSIC
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5143.m3u8
+#EXTINF:-1,FR: OCS Max
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5146.m3u8
+#EXTINF:-1,FR: OCS Geants
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5147.m3u8
+#EXTINF:-1,FR: OCS CITY
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5148.m3u8
+#EXTINF:-1,FR: OCS CHOC
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5149.m3u8
+#EXTINF:-1,FR: PARIS PREMIERE
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5150.m3u8
+#EXTINF:-1,FR: DISNEY CINEMA
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5173.m3u8
+#EXTINF:-1,FR: SERIE  CLUB
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5128.m3u8
+#EXTINF:-1,FR: Syfy
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5152.m3u8
+#EXTINF:-1,FR: 13eme Rue HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5153.m3u8
+#EXTINF:-1,FR: ACTION
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5144.m3u8
+#EXTINF:-1,FR: COMEDIE
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5145.m3u8
+#EXTINF:-1,FR: PARAMOUNT CHANNEL
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5151.m3u8
+#EXTINF:-1,FR: PARAMOUNT CHANNEL DECALE HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/16306.m3u8
+#EXTINF:-1,* * * * PPV-.-A la Carte * * * *
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6277.m3u8
+#EXTINF:-1,FR: PPV-A la Carte1
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6278.m3u8
+#EXTINF:-1,FR: PPV-A la Carte2
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6279.m3u8
+#EXTINF:-1,FR: PPV-A la Carte3
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6280.m3u8
+#EXTINF:-1,FR: PPV-A la Carte4
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6281.m3u8
+#EXTINF:-1,FR: PPV-A la Carte5
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6282.m3u8
+#EXTINF:-1,FR: PPV-A la Carte6
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6283.m3u8
+#EXTINF:-1,FR: PPV-A la Carte7
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6284.m3u8
+#EXTINF:-1,FR: PPV-A la Carte8
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6285.m3u8
+#EXTINF:-1,FR: PPV-A la Carte9
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6286.m3u8
+#EXTINF:-1,FR: PPV-A laCarte 10
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6287.m3u8
+#EXTINF:-1,* * * *  FR DECOUVERTE * * * *
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5154.m3u8
+#EXTINF:-1,FR: ARTE Full HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5155.m3u8
+#EXTINF:-1,FR: RMC DECOUVERTE
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5156.m3u8
+#EXTINF:-1,FR: TOUTE L_HISTOIRE
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5164.m3u8
+#EXTINF:-1,FR: NAT GEO
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5163.m3u8
+#EXTINF:-1,FR: NAT GEO WILD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5162.m3u8
+#EXTINF:-1,FR: PLANET
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5159.m3u8
+#EXTINF:-1,FR: PLANETE CI
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5160.m3u8
+#EXTINF:-1,FR: PLANETE A&E
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5161.m3u8
+#EXTINF:-1,FR: VOYAGE
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5168.m3u8
+#EXTINF:-1,FR: VIRGIN HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5185.m3u8
+#EXTINF:-1,FR: USHUAIA
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5169.m3u8
+#EXTINF:-1,FR: DISCOVERY
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5157.m3u8
+#EXTINF:-1,FR: DISCOVERY SCIENCE
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5158.m3u8
+#EXTINF:-1,FR: SCIENCES&VIE
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5167.m3u8
+#EXTINF:-1,FR: SEASON
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5561.m3u8
+#EXTINF:-1,FR: ANIMAUX
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5166.m3u8
+#EXTINF:-1,FR: CHASSE&PECHE
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5165.m3u8
+#EXTINF:-1,* * * *  FR ENFANTS * * * *
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5170.m3u8
+#EXTINF:-1,FR: Boomerang HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5182.m3u8
+#EXTINF:-1,FR: BOING
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5183.m3u8
+#EXTINF:-1,FR: CANAL J
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5582.m3u8
+#EXTINF:-1,FR: CARTOON NETWORK
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5181.m3u8
+#EXTINF:-1,FR: DISNEY XD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5171.m3u8
+#EXTINF:-1,FR: DISNEY JUNIOR
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5172.m3u8
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5174.m3u8
+#EXTINF:-1,FR: GULLI
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5177.m3u8
+#EXTINF:-1,FR: NICKELODEON HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5178.m3u8
+#EXTINF:-1,FR: NICKELODEON 4TEEN
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5179.m3u8
+#EXTINF:-1,FR: NICKELODEON JUNIOR
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/16309.m3u8
+#EXTINF:-1,FR: MANGAS
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5180.m3u8
+#EXTINF:-1,FR: PIWI
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5176.m3u8
+#EXTINF:-1,FR: TIJI
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5583.m3u8
+#EXTINF:-1,FR: GAME ONE
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5127.m3u8
+#EXTINF:-1,FR: J ONE HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/7021.m3u8
+#EXTINF:-1,FR: TELETOON
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5175.m3u8
+#EXTINF:-1,FR: Toonami
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/16305.m3u8
+#EXTINF:-1,* * * *  FR SPORT * * * *
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5189.m3u8
+#EXTINF:-1,FR: FOOT 24/24
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5192.m3u8
+#EXTINF:-1,FR: INFOSPORT
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5190.m3u8
+#EXTINF:-1,FR: CANAL SPORT
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5193.m3u8
+#EXTINF:-1,FR: L'EQUIPE21
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5120.m3u8
+#EXTINF:-1,FR: GOLF+ HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/7023.m3u8
+#EXTINF:-1,FR: Kombat Sport
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/7024.m3u8
+#EXTINF:-1,FR:AB MOTEUR HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/7025.m3u8
+#EXTINF:-1,FR: Equidia Live
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6300.m3u8
+#EXTINF:-1,FR: Equidia Life
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/16314.m3u8
+#EXTINF:-1,FR: EUROSPORT
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5194.m3u8
+#EXTINF:-1,FR: EUROSPORT2
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5196.m3u8
+#EXTINF:-1,FR: SFR SPORTS 1 HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5586.m3u8
+#EXTINF:-1,FR: SFR SPORTS 2 HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5587.m3u8
+#EXTINF:-1,FR: SFR SPORTS 3 HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5588.m3u8
+#EXTINF:-1,FR: SFR SPORTS 4k
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/7022.m3u8
+#EXTINF:-1,FR: SFR SPORTS 5 HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6658.m3u8
+#EXTINF:-1,FR: BEINSPORT 1 HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5197.m3u8
+#EXTINF:-1,FR: BEINSPORT 2 HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5198.m3u8
+#EXTINF:-1,FR: BEINSPORT 3 HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5199.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 4
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6301.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 5
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6302.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 6
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6303.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 7
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6304.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 8
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6297.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 9
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6296.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 10
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6295.m3u8
+#EXTINF:-1,* * * *  FR INFOS * * * *
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5204.m3u8
+#EXTINF:-1,FR: C News
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/16315.m3u8
+#EXTINF:-1,FR: France Info
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/16313.m3u8
+#EXTINF:-1,FR: FRANCE 24
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5205.m3u8
+#EXTINF:-1,FR: TV5_monde
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5207.m3u8
+#EXTINF:-1,FR: EURONEWS
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5206.m3u8
+#EXTINF:-1,FR: BFM BUSINESS
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5209.m3u8
+#EXTINF:-1,FR: BFM TV
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5208.m3u8
+#EXTINF:-1,FR: LA TELE
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5211.m3u8
+#EXTINF:-1,FR: iTELE
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5212.m3u8
+#EXTINF:-1,* * * *  FR MUSIK * * * *
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5184.m3u8
+#EXTINF:-1,FR: BRAVA HD
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/7020.m3u8
+#EXTINF:-1,FR: MEZZO
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/6946.m3u8
+#EXTINF:-1,FR: MTV
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/7026.m3u8
+#EXTINF:-1,FR: MTV MUSIC
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5186.m3u8
+#EXTINF:-1,FR: MTV DANCE
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5187.m3u8
+#EXTINF:-1,FR: M6 MUSIC
+http://185.71.66.63:1926/live/JS8zKbPedl/p0tjFhNwfj/5188.m3u8
+#EXTINF:-1,FR: Wéo
+http://globiptv.com:8000/live/workfine/skype/2371.m3u8
+#EXTINF:-1,FR: W9 HD
+http://globiptv.com:8000/live/workfine/skype/2655.m3u8
+#EXTINF:-1,FR: Voyage
+http://globiptv.com:8000/live/workfine/skype/2130.m3u8
+#EXTINF:-1,FR: VIRGIN
+http://globiptv.com:8000/live/workfine/skype/1545.m3u8
+#EXTINF:-1,FR: Ushuaia TV
+http://globiptv.com:8000/live/workfine/skype/737.m3u8
+#EXTINF:-1,FR: TV5 MONDE
+http://globiptv.com:8000/live/workfine/skype/1105.m3u8
+#EXTINF:-1,FR: TV BREIZH
+http://globiptv.com:8000/live/workfine/skype/2309.m3u8
+#EXTINF:-1,FR: TOUTE l'HISTOIRE
+http://globiptv.com:8000/live/workfine/skype/2200.m3u8
+#EXTINF:-1,FR: TMC HD
+http://globiptv.com:8000/live/workfine/skype/1099.m3u8
+#EXTINF:-1,FR: Tiji HD
+http://globiptv.com:8000/live/workfine/skype/2746.m3u8
+#EXTINF:-1,FR: TF1 HD
+http://globiptv.com:8000/live/workfine/skype/735.m3u8
+#EXTINF:-1,FR: Teva HD
+http://globiptv.com:8000/live/workfine/skype/748.m3u8
+#EXTINF:-1,FR: TELETOON +
+http://globiptv.com:8000/live/workfine/skype/838.m3u8
+#EXTINF:-1,FR: TCM cinema
+http://globiptv.com:8000/live/workfine/skype/2331.m3u8
+#EXTINF:-1,FR: SyFy
+http://globiptv.com:8000/live/workfine/skype/834.m3u8
+#EXTINF:-1,FR: Serie Club HD
+http://globiptv.com:8000/live/workfine/skype/1134.m3u8
+#EXTINF:-1,FR: Sciences & Vie TV
+http://globiptv.com:8000/live/workfine/skype/1429.m3u8
+#EXTINF:-1,FR: RTL9
+http://globiptv.com:8000/live/workfine/skype/815.m3u8
+#EXTINF:-1,FR: RMC Decouverte
+http://globiptv.com:8000/live/workfine/skype/2388.m3u8
+#EXTINF:-1,FR: Planete+ HD
+http://globiptv.com:8000/live/workfine/skype/1169.m3u8
+#EXTINF:-1,FR: Planete+ ci HD
+http://globiptv.com:8000/live/workfine/skype/818.m3u8
+#EXTINF:-1,FR: Planete A&E
+http://globiptv.com:8000/live/workfine/skype/1892.m3u8
+#EXTINF:-1,FR: PIWI+
+http://globiptv.com:8000/live/workfine/skype/2607.m3u8
+#EXTINF:-1,FR: Paris Premiere HD
+http://globiptv.com:8000/live/workfine/skype/1624.m3u8
+#EXTINF:-1,FR: Paramount Channel HD
+http://globiptv.com:8000/live/workfine/skype/721.m3u8
+#EXTINF:-1,FR: OLTV
+http://globiptv.com:8000/live/workfine/skype/2591.m3u8
+#EXTINF:-1,FR: OCS Max HD
+http://globiptv.com:8000/live/workfine/skype/732.m3u8
+#EXTINF:-1,FR: OCS Geants HD
+http://globiptv.com:8000/live/workfine/skype/733.m3u8
+#EXTINF:-1,FR: OCS City HD
+http://globiptv.com:8000/live/workfine/skype/734.m3u8
+#EXTINF:-1,FR: OCS Choc HD
+http://globiptv.com:8000/live/workfine/skype/2373.m3u8
+#EXTINF:-1,FR: Numero 23 HD
+http://globiptv.com:8000/live/workfine/skype/2741.m3u8
+#EXTINF:-1,FR: NT1
+http://globiptv.com:8000/live/workfine/skype/1571.m3u8
+#EXTINF:-1,FR: NRJ 12
+http://globiptv.com:8000/live/workfine/skype/966.m3u8
+#EXTINF:-1,FR: NATIONAL GEOGRAPHIC HD
+http://globiptv.com:8000/live/workfine/skype/751.m3u8
+#EXTINF:-1,FR: NAT Geo WILD HD
+http://globiptv.com:8000/live/workfine/skype/756.m3u8
+#EXTINF:-1,FR: MANGA
+http://globiptv.com:8000/live/workfine/skype/1104.m3u8
+#EXTINF:-1,FR: DISCOVERY INVESTIGATION HD
+http://globiptv.com:8000/live/workfine/skype/738.m3u8
+#EXTINF:-1,FR: M6 Music
+http://globiptv.com:8000/live/workfine/skype/1063.m3u8
+#EXTINF:-1,FR: M6  HD
+http://globiptv.com:8000/live/workfine/skype/739.m3u8
+#EXTINF:-1,FR: M6
+http://globiptv.com:8000/live/workfine/skype/1434.m3u8
+#EXTINF:-1,FR: TREK
+http://globiptv.com:8000/live/workfine/skype/1623.m3u8
+#EXTINF:-1,FR: L'EQUIPE
+http://globiptv.com:8000/live/workfine/skype/1995.m3u8
+#EXTINF:-1,FR: KOMBAT SPORT HD
+http://globiptv.com:8000/live/workfine/skype/1893.m3u8
+#EXTINF:-1,FR: C NEWS
+http://globiptv.com:8000/live/workfine/skype/2354.m3u8
+#EXTINF:-1,FR: Infosport+
+http://globiptv.com:8000/live/workfine/skype/1137.m3u8
+#EXTINF:-1,FR: Histoire
+http://globiptv.com:8000/live/workfine/skype/1064.m3u8
+#EXTINF:-1,FR: HD1
+http://globiptv.com:8000/live/workfine/skype/2352.m3u8
+#EXTINF:-1,FR: GULLI
+http://globiptv.com:8000/live/workfine/skype/837.m3u8
+#EXTINF:-1,FR: GONG
+http://globiptv.com:8000/live/workfine/skype/1595.m3u8
+#EXTINF:-1,FR: France Ô
+http://globiptv.com:8000/live/workfine/skype/745.m3u8
+#EXTINF:-1,FR: France 5 HD
+http://globiptv.com:8000/live/workfine/skype/740.m3u8
+#EXTINF:-1,FR: France 4 HD
+http://globiptv.com:8000/live/workfine/skype/741.m3u8
+#EXTINF:-1,FR: France 3 HD
+http://globiptv.com:8000/live/workfine/skype/742.m3u8
+#EXTINF:-1,FR: France 24
+http://globiptv.com:8000/live/workfine/skype/1165.m3u8
+#EXTINF:-1,FR: France 2 HD
+http://globiptv.com:8000/live/workfine/skype/744.m3u8
+#EXTINF:-1,FR: Foot+ 24/24
+http://globiptv.com:8000/live/workfine/skype/884.m3u8
+#EXTINF:-1,FR: EUROSPORT 2 HD
+http://globiptv.com:8000/live/workfine/skype/752.m3u8
+#EXTINF:-1,FR: EUROSPORT 1 HD
+http://globiptv.com:8000/live/workfine/skype/836.m3u8
+#EXTINF:-1,FR: EURONEWS
+http://globiptv.com:8000/live/workfine/skype/965.m3u8
+#EXTINF:-1,FR: EQUIDIA LIVE HD
+http://globiptv.com:8000/live/workfine/skype/835.m3u8
+#EXTINF:-1,FR: IL TV
+http://globiptv.com:8000/live/workfine/skype/1076.m3u8
+#EXTINF:-1,FR: E! Entertainment
+http://globiptv.com:8000/live/workfine/skype/2423.m3u8
+#EXTINF:-1,FR: Disney Jr.
+http://globiptv.com:8000/live/workfine/skype/1634.m3u8
+#EXTINF:-1,FR: Disney Cinema
+http://globiptv.com:8000/live/workfine/skype/1139.m3u8
+#EXTINF:-1,FR: Disney Channel
+http://globiptv.com:8000/live/workfine/skype/1121.m3u8
+#EXTINF:-1,FR: Discovery Science HD
+http://globiptv.com:8000/live/workfine/skype/1122.m3u8
+#EXTINF:-1,FR: C8
+http://globiptv.com:8000/live/workfine/skype/817.m3u8
+#EXTINF:-1,FR: ciné POLAR
+http://globiptv.com:8000/live/workfine/skype/1635.m3u8
+#EXTINF:-1,FR: Comedie+
+http://globiptv.com:8000/live/workfine/skype/717.m3u8
+#EXTINF:-1,FR: Cine+ Premier HD
+http://globiptv.com:8000/live/workfine/skype/718.m3u8
+#EXTINF:-1,FR: Cine+ Frisson HD
+http://globiptv.com:8000/live/workfine/skype/719.m3u8
+#EXTINF:-1,FR: Cine+ Famiz HD.
+http://globiptv.com:8000/live/workfine/skype/2657.m3u8
+#EXTINF:-1,FR: Cine+ Famiz HD
+http://globiptv.com:8000/live/workfine/skype/891.m3u8
+#EXTINF:-1,FR: Cine+ Emotion HD
+http://globiptv.com:8000/live/workfine/skype/720.m3u8
+#EXTINF:-1,FR: Cine+ Classic
+http://globiptv.com:8000/live/workfine/skype/722.m3u8
+#EXTINF:-1,FR: Ciné FX
+http://globiptv.com:8000/live/workfine/skype/1125.m3u8
+#EXTINF:-1,FR: Chérie 25
+http://globiptv.com:8000/live/workfine/skype/967.m3u8
+#EXTINF:-1,FR: Chasse & Peche
+http://globiptv.com:8000/live/workfine/skype/1172.m3u8
+#EXTINF:-1,FR: Cartoon Network HD
+http://globiptv.com:8000/live/workfine/skype/723.m3u8
+#EXTINF:-1,FR: Canal+ Sport HD
+http://globiptv.com:8000/live/workfine/skype/727.m3u8
+#EXTINF:-1,FR: Canal+ Series HD
+http://globiptv.com:8000/live/workfine/skype/724.m3u8
+#EXTINF:-1,FR: Canal+ HD
+http://globiptv.com:8000/live/workfine/skype/731.m3u8
+#EXTINF:-1,FR: Canal+ Family HD
+http://globiptv.com:8000/live/workfine/skype/728.m3u8
+#EXTINF:-1,FR: Canal+ Decale HD
+http://globiptv.com:8000/live/workfine/skype/729.m3u8
+#EXTINF:-1,FR: Canal+ Cinema HD
+http://globiptv.com:8000/live/workfine/skype/730.m3u8
+#EXTINF:-1,FR: Canal J
+http://globiptv.com:8000/live/workfine/skype/985.m3u8
+#EXTINF:-1,FR: BOOMERANG
+http://globiptv.com:8000/live/workfine/skype/1103.m3u8
+#EXTINF:-1,FR: Boing
+http://globiptv.com:8000/live/workfine/skype/986.m3u8
+#EXTINF:-1,FR: BFM TV
+http://globiptv.com:8000/live/workfine/skype/816.m3u8
+#EXTINF:-1,FR: BEINSPORT MAX 8
+http://globiptv.com:8000/live/workfine/skype/2128.m3u8
+#EXTINF:-1,FR: BEINSPORT MAX 7
+http://globiptv.com:8000/live/workfine/skype/2127.m3u8
+#EXTINF:-1,FR: BEINSPORT MAX 6
+http://globiptv.com:8000/live/workfine/skype/2129.m3u8
+#EXTINF:-1,FR: BEINSPORT MAX 5
+http://globiptv.com:8000/live/workfine/skype/2126.m3u8
+#EXTINF:-1,FR: BEINSPORT MAX 4
+http://globiptv.com:8000/live/workfine/skype/2125.m3u8
+#EXTINF:-1,FR: BEINSPORT 3 HD
+http://globiptv.com:8000/live/workfine/skype/988.m3u8
+#EXTINF:-1,FR: BEINSPORT 2  HD
+http://globiptv.com:8000/live/workfine/skype/701.m3u8
+#EXTINF:-1,FR: BEINSPORT 1 HD
+http://globiptv.com:8000/live/workfine/skype/702.m3u8
+#EXTINF:-1,FR: Arte
+http://globiptv.com:8000/live/workfine/skype/885.m3u8
+#EXTINF:-1,FR: Animaux
+http://globiptv.com:8000/live/workfine/skype/1143.m3u8
+#EXTINF:-1,FR: Action
+http://globiptv.com:8000/live/workfine/skype/1098.m3u8
+#EXTINF:-1,FR: AB1
+http://globiptv.com:8000/live/workfine/skype/833.m3u8
+#EXTINF:-1,FR: A.LA.CARTE.5
+http://globiptv.com:8000/live/workfine/skype/1886.m3u8
+#EXTINF:-1,FR: A.LA.CARTE.4
+http://globiptv.com:8000/live/workfine/skype/1885.m3u8
+#EXTINF:-1,FR: A.LA.CARTE.3
+http://globiptv.com:8000/live/workfine/skype/1884.m3u8
+#EXTINF:-1,FR: A.LA.CARTE.2
+http://globiptv.com:8000/live/workfine/skype/1883.m3u8
+#EXTINF:-1,FR: A.LA.CARTE.1
+http://globiptv.com:8000/live/workfine/skype/1882.m3u8
+#EXTINF:-1,FR: 6TER HD
+http://globiptv.com:8000/live/workfine/skype/968.m3u8
+#EXTINF:-1,FR: 13eme Rue HD
+http://globiptv.com:8000/live/workfine/skype/987.m3u8
+#EXTINF:-1,FR:TF1 SD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20894.m3u8
+#EXTINF:-1,FR:M6 SD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20899.m3u8
+#EXTINF:-1,FR:FRANCE2 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21550.m3u8
+#EXTINF:-1,FR:France2HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20906.m3u8
+#EXTINF:-1,FR:FRANCE3 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21549.m3u8
+#EXTINF:-1,FR:France3HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20905.m3u8
+#EXTINF:-1,FR:FRANCE4 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21548.m3u8
+#EXTINF:-1,FR:b2 France4HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20904.m3u8
+#EXTINF:-1,FR:FRANCE5 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21547.m3u8
+#EXTINF:-1,FR:France5HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20903.m3u8
+#EXTINF:-1,FR:FRANCE-O HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21551.m3u8
+#EXTINF:-1,FR:FranceOHD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20902.m3u8
+#EXTINF:-1,FR: NT1 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21539.m3u8
+#EXTINF:-1,FR:NT1
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20896.m3u8
+#EXTINF:-1,FR:C8 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21553.m3u8
+#EXTINF:-1,FR:C8 SD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20913.m3u8
+#EXTINF:-1,FR:W9 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21538.m3u8
+#EXTINF:-1,FR: W9 SD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20890.m3u8
+#EXTINF:-1,FR: NUMERO 23 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21537.m3u8
+#EXTINF:-1,FR: NUMERO.23
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20895.m3u8
+#EXTINF:-1,FR:NRJ12 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21540.m3u8
+#EXTINF:-1,FR: NRJ12
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20898.m3u8
+#EXTINF:-1,FR:TMC-HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20893.m3u8
+#EXTINF:-1,FR:ARTE HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21555.m3u8
+#EXTINF:-1,FR:b2 ARTE
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20911.m3u8
+#EXTINF:-1,FR:CSTAR HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21552.m3u8
+#EXTINF:-1,FR:CSTAR SD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20908.m3u8
+#EXTINF:-1,FR:b2 CHERIE25
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20910.m3u8
+#EXTINF:-1,FR: HD1 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21545.m3u8
+#EXTINF:-1,FR: HD1
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20901.m3u8
+#EXTINF:-1,FR:b2 6TER
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20912.m3u8
+#EXTINF:-1,FR: AB1 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21531.m3u8
+#EXTINF:-1,•???--- CANAL+ FRANCE ---???•
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21505.m3u8
+#EXTINF:-1,FR:CANAL PLUS HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21274.m3u8
+#EXTINF:-1,FR:CANAL PLUS CINEMA HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21279.m3u8
+#EXTINF:-1,FR:CANAL PLUS DECALE HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21278.m3u8
+#EXTINF:-1,FR:CANAL+ FAMILY HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21269.m3u8
+#EXTINF:-1,FR:CANAL PLUS  SERIE HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21276.m3u8
+#EXTINF:-1,FR:CANAL PLUS SPORT HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21270.m3u8
+#EXTINF:-1,FR:CINE+  EMOTION HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21277.m3u8
+#EXTINF:-1,FR:CINE+  FAMIZ HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21262.m3u8
+#EXTINF:-1,FR: CINE+  FRISSON HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21263.m3u8
+#EXTINF:-1,FR:CINE Classic HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21331.m3u8
+#EXTINF:-1,FR:CINE CLUB HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21285.m3u8
+#EXTINF:-1,FR:CINE EMOTION HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21284.m3u8
+#EXTINF:-1,FR:CINE-FX HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21327.m3u8
+#EXTINF:-1,FR:CINE-POLAR HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21328.m3u8
+#EXTINF:-1,FR:CINE+  PREMIER HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21275.m3u8
+#EXTINF:-1,FR:13EME-RUE HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21324.m3u8
+#EXTINF:-1,FR:CANAL STAR HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21264.m3u8
+#EXTINF:-1,FR:OCS CHOC HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21271.m3u8
+#EXTINF:-1,FR:OCS GEANTS HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21273.m3u8
+#EXTINF:-1,FR:OCS MAX HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21272.m3u8
+#EXTINF:-1,FR:meusum HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21265.m3u8
+#EXTINF:-1,FR:TV Breizh HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21266.m3u8
+#EXTINF:-1,FR:ACTION HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21329.m3u8
+#EXTINF:-1,FR:COMEDIE HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21322.m3u8
+#EXTINF:-1,FR:PARAMOUNT HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21325.m3u8
+#EXTINF:-1,FR:PARIS PREMIERE HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21321.m3u8
+#EXTINF:-1,FR:SYFY HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21323.m3u8
+#EXTINF:-1,FR:TMC HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21326.m3u8
+#EXTINF:-1,FR:E ENTERTAINMENT
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21320.m3u8
+#EXTINF:-1,FR:TREK
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21304.m3u8
+#EXTINF:-1,•???--- ENFANT.FRANCE ---???•
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21507.m3u8
+#EXTINF:-1,FR:LO-1920p-BOING HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21287.m3u8
+#EXTINF:-1,FR:BOOMERANG HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21298.m3u8
+#EXTINF:-1,FR:CANAL-J HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21299.m3u8
+#EXTINF:-1,FR:CARTOON-NETWORK HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21291.m3u8
+#EXTINF:-1,FR:DISNEY-CHANNEL HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21292.m3u8
+#EXTINF:-1,FR:DISNEY-CINEMA HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21293.m3u8
+#EXTINF:-1,FR:DISNEY-JUNIOR HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21294.m3u8
+#EXTINF:-1,FR:DISNEY-XD HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21295.m3u8
+#EXTINF:-1,FR:GAME-ONE HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21286.m3u8
+#EXTINF:-1,FR:GULLI HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21546.m3u8
+#EXTINF:-1,FR:-GULLI HD+
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21297.m3u8
+#EXTINF:-1,FR:J-ONE HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21303.m3u8
+#EXTINF:-1,FR:MANGAS HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21296.m3u8
+#EXTINF:-1,FR:NICKELODEON HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21290.m3u8
+#EXTINF:-1,FR:nickelodeon-junior HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21289.m3u8
+#EXTINF:-1,FR:PIWI HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21302.m3u8
+#EXTINF:-1,FR:TELETOON HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21300.m3u8
+#EXTINF:-1,FR:TIJI HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21301.m3u8
+#EXTINF:-1,FR:LO-1920p-ZOUZOU HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21288.m3u8
+#EXTINF:-1,•???--- DOCUMENTAIRE.FR ---???•
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21504.m3u8
+#EXTINF:-1,FR:ANIMAUX HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21319.m3u8
+#EXTINF:-1,FR:CHASSE ET PECHE
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21307.m3u8
+#EXTINF:-1,FR:DISCOVERY SCIENCES HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21315.m3u8
+#EXTINF:-1,FR:DISCOVERY SHOWCASE HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21314.m3u8
+#EXTINF:-1,FR:NATIONAL GEO HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21316.m3u8
+#EXTINF:-1,FR:NATIONAL GEO WILD HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21317.m3u8
+#EXTINF:-1,FR:PLANETE AE HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21310.m3u8
+#EXTINF:-1,FR:PLANETE CI
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21308.m3u8
+#EXTINF:-1,FR:PLANETE HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21309.m3u8
+#EXTINF:-1,FR:SCIENCES&VIE FR
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21311.m3u8
+#EXTINF:-1,FR:Seasons
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21306.m3u8
+#EXTINF:-1,FR:TOUTE L HISTOIRE HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21312.m3u8
+#EXTINF:-1,FR:USHUAIA TV HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21318.m3u8
+#EXTINF:-1,FR:VOYAGE HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21313.m3u8
+#EXTINF:-1,FR:RMC.DECOVERTE.HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20897.m3u8
+#EXTINF:-1,•???--- MUSIC.FRANCE ---???•
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21508.m3u8
+#EXTINF:-1,FR:TRACE URBAN
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21305.m3u8
+#EXTINF:-1,•???--- SPORT.FRANCE ---???•
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21506.m3u8
+#EXTINF:-1,FR:BEIN SPORTS 1 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21268.m3u8
+#EXTINF:-1,FR:BEIN SPORTS 2 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21267.m3u8
+#EXTINF:-1,FR:BEIN SPORTS 3 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21260.m3u8
+#EXTINF:-1,BEIN SPORT MAX4
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/8203.m3u8
+#EXTINF:-1,BEIN SPORT MAX5
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/8202.m3u8
+#EXTINF:-1,BEIN SPORT MAX6
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/8201.m3u8
+#EXTINF:-1,BEINSPORT MAX7
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/8200.m3u8
+#EXTINF:-1,BEINSPORT MAX8
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/8199.m3u8
+#EXTINF:-1,BEINSPORT MAX9
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/8198.m3u8
+#EXTINF:-1,BEINSPORT MAX10
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/8197.m3u8
+#EXTINF:-1,FR:SFR SPORT1 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21332.m3u8
+#EXTINF:-1,FR:SFR SPORT 2 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21333.m3u8
+#EXTINF:-1,FR:SFR SPORT 3 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21334.m3u8
+#EXTINF:-1,FR:SFR SPORT 5 HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21335.m3u8
+#EXTINF:-1,FR:OLTV FULL HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21280.m3u8
+#EXTINF:-1,FR:OM TV
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21281.m3u8
+#EXTINF:-1,FR:CANAL GOLF HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21330.m3u8
+#EXTINF:-1,FR:Equidia life  HD FR
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21336.m3u8
+#EXTINF:-1,FR: L EQUIPE
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21542.m3u8
+#EXTINF:-1,FR:L'EQUIPE21 SD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20900.m3u8
+#EXTINF:-1,•???--- INFO.FRANCE---???•
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21567.m3u8
+#EXTINF:-1,FR:France.Info
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20907.m3u8
+#EXTINF:-1,LCI HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21544.m3u8
+#EXTINF:-1,FR:LCI SD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20891.m3u8
+#EXTINF:-1,FR:LCP HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21543.m3u8
+#EXTINF:-1,FR:LCP SD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/20892.m3u8
+#EXTINF:-1,FR:CNEWS HD
+http://cl1.iptv-sport.com:7022/live/khalil18/KxewEbCdKn/21261.m3u8
+#EXTINF:-1,FR: TF1 Full HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5105.m3u8
+#EXTINF:-1,FR: FRANCE_O
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5106.m3u8
+#EXTINF:-1,FR: FRANCE2 Full HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5107.m3u8
+#EXTINF:-1,FR: FRANCE3
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5108.m3u8
+#EXTINF:-1,FR: FRANCE4 Full HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5109.m3u8
+#EXTINF:-1,FR: FRANCE5 Full HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5110.m3u8
+#EXTINF:-1,FR: W9 Full HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5111.m3u8
+#EXTINF:-1,FR: TMC Full HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5112.m3u8
+#EXTINF:-1,FR: NT1 Full HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5113.m3u8
+#EXTINF:-1,FR: NRJ12 Full HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5114.m3u8
+#EXTINF:-1,FR: 6TER Full HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5115.m3u8
+#EXTINF:-1,FR: M6 Full HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5119.m3u8
+#EXTINF:-1,FR: M6 Boutique Et Co.
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/16311.m3u8
+#EXTINF:-1,FR: WEO
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5116.m3u8
+#EXTINF:-1,FR: TV BREIZH
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5117.m3u8
+#EXTINF:-1,FR: TREK HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5577.m3u8
+#EXTINF:-1,FR: TEVA
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5118.m3u8
+#EXTINF:-1,FR: RTL9
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5129.m3u8
+#EXTINF:-1,FR: CHERIE25
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5123.m3u8
+#EXTINF:-1,FR: HD1
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5121.m3u8
+#EXTINF:-1,FR: BET
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5210.m3u8
+#EXTINF:-1,FR: ELLE GIRL
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5122.m3u8
+#EXTINF:-1,FR: CSTAR HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5125.m3u8
+#EXTINF:-1,FR: C8
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5124.m3u8
+#EXTINF:-1,FR: AB1
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5126.m3u8
+#EXTINF:-1,FR: 23 HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5557.m3u8
+#EXTINF:-1,FR: LCP
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/16312.m3u8
+#EXTINF:-1,FR: Men's Up
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/16310.m3u8
+#EXTINF:-1,FR: NoLife
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/16308.m3u8
+#EXTINF:-1,FR: Ofive
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/16307.m3u8
+#EXTINF:-1,FR:  LIVE AU COEURS DES REFUGES
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/16317.m3u8
+#EXTINF:-1,FR: Altice Studio HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/16316.m3u8
+#EXTINF:-1,* * * *  FR CINEMA * * * *
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5130.m3u8
+#EXTINF:-1,FR: CANAL
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5131.m3u8
+#EXTINF:-1,FR: CANAL CINEMA
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5135.m3u8
+#EXTINF:-1,FR: CANAL SERIES
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5132.m3u8
+#EXTINF:-1,FR: CANAL FAMILY
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5133.m3u8
+#EXTINF:-1,FR: CANAL DECALE
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5134.m3u8
+#EXTINF:-1,FR: CINE PREMIER
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5136.m3u8
+#EXTINF:-1,FR: CINE POLAR_HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5137.m3u8
+#EXTINF:-1,FR: CINE FX
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5138.m3u8
+#EXTINF:-1,FR: CINE FRISSON
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5139.m3u8
+#EXTINF:-1,FR: CINE FAMIZ
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5140.m3u8
+#EXTINF:-1,FR: CINE EMOTION
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5141.m3u8
+#EXTINF:-1,FR: Canal+ FullHD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5142.m3u8
+#EXTINF:-1,FR: CINE CLASSIC
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5143.m3u8
+#EXTINF:-1,FR: OCS Max
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5146.m3u8
+#EXTINF:-1,FR: OCS Geants
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5147.m3u8
+#EXTINF:-1,FR: OCS CITY
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5148.m3u8
+#EXTINF:-1,FR: OCS CHOC
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5149.m3u8
+#EXTINF:-1,FR: PARIS PREMIERE
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5150.m3u8
+#EXTINF:-1,FR: DISNEY CINEMA
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5173.m3u8
+#EXTINF:-1,FR: SERIE  CLUB
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5128.m3u8
+#EXTINF:-1,FR: Syfy
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5152.m3u8
+#EXTINF:-1,FR: 13eme Rue HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5153.m3u8
+#EXTINF:-1,FR: ACTION
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5144.m3u8
+#EXTINF:-1,FR: COMEDIE
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5145.m3u8
+#EXTINF:-1,FR: PARAMOUNT CHANNEL
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5151.m3u8
+#EXTINF:-1,FR: PARAMOUNT CHANNEL DECALE HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/16306.m3u8
+#EXTINF:-1,* * * * PPV-.-A la Carte * * * *
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6277.m3u8
+#EXTINF:-1,FR: PPV-A la Carte1
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6278.m3u8
+#EXTINF:-1,FR: PPV-A la Carte2
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6279.m3u8
+#EXTINF:-1,FR: PPV-A la Carte3
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6280.m3u8
+#EXTINF:-1,FR: PPV-A la Carte4
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6281.m3u8
+#EXTINF:-1,FR: PPV-A la Carte5
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6282.m3u8
+#EXTINF:-1,FR: PPV-A la Carte6
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6283.m3u8
+#EXTINF:-1,FR: PPV-A la Carte7
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6284.m3u8
+#EXTINF:-1,FR: PPV-A la Carte8
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6285.m3u8
+#EXTINF:-1,FR: PPV-A la Carte9
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6286.m3u8
+#EXTINF:-1,FR: PPV-A laCarte 10
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6287.m3u8
+#EXTINF:-1,* * * *  FR DECOUVERTE * * * *
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5154.m3u8
+#EXTINF:-1,FR: ARTE Full HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5155.m3u8
+#EXTINF:-1,FR: RMC DECOUVERTE
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5156.m3u8
+#EXTINF:-1,FR: TOUTE L_HISTOIRE
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5164.m3u8
+#EXTINF:-1,FR: NAT GEO
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5163.m3u8
+#EXTINF:-1,FR: NAT GEO WILD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5162.m3u8
+#EXTINF:-1,FR: PLANET
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5159.m3u8
+#EXTINF:-1,FR: PLANETE CI
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5160.m3u8
+#EXTINF:-1,FR: PLANETE A&E
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5161.m3u8
+#EXTINF:-1,FR: VOYAGE
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5168.m3u8
+#EXTINF:-1,FR: VIRGIN HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5185.m3u8
+#EXTINF:-1,FR: USHUAIA
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5169.m3u8
+#EXTINF:-1,FR: DISCOVERY
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5157.m3u8
+#EXTINF:-1,FR: DISCOVERY SCIENCE
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5158.m3u8
+#EXTINF:-1,FR: SCIENCES&VIE
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5167.m3u8
+#EXTINF:-1,FR: SEASON
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5561.m3u8
+#EXTINF:-1,FR: ANIMAUX
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5166.m3u8
+#EXTINF:-1,FR: CHASSE&PECHE
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5165.m3u8
+#EXTINF:-1,* * * *  FR ENFANTS * * * *
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5170.m3u8
+#EXTINF:-1,FR: Boomerang HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5182.m3u8
+#EXTINF:-1,FR: BOING
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5183.m3u8
+#EXTINF:-1,FR: CANAL J
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5582.m3u8
+#EXTINF:-1,FR: CARTOON NETWORK
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5181.m3u8
+#EXTINF:-1,FR: DISNEY XD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5171.m3u8
+#EXTINF:-1,FR: DISNEY JUNIOR
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5172.m3u8
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5174.m3u8
+#EXTINF:-1,FR: GULLI
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5177.m3u8
+#EXTINF:-1,FR: NICKELODEON HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5178.m3u8
+#EXTINF:-1,FR: NICKELODEON 4TEEN
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5179.m3u8
+#EXTINF:-1,FR: NICKELODEON JUNIOR
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/16309.m3u8
+#EXTINF:-1,FR: MANGAS
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5180.m3u8
+#EXTINF:-1,FR: PIWI
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5176.m3u8
+#EXTINF:-1,FR: TIJI
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5583.m3u8
+#EXTINF:-1,FR: GAME ONE
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5127.m3u8
+#EXTINF:-1,FR: J ONE HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/7021.m3u8
+#EXTINF:-1,FR: TELETOON
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5175.m3u8
+#EXTINF:-1,FR: Toonami
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/16305.m3u8
+#EXTINF:-1,* * * *  FR SPORT * * * *
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5189.m3u8
+#EXTINF:-1,FR: FOOT 24/24
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5192.m3u8
+#EXTINF:-1,FR: INFOSPORT
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5190.m3u8
+#EXTINF:-1,FR: CANAL SPORT
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5193.m3u8
+#EXTINF:-1,FR: L'EQUIPE21
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5120.m3u8
+#EXTINF:-1,FR: GOLF+ HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/7023.m3u8
+#EXTINF:-1,FR: Kombat Sport
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/7024.m3u8
+#EXTINF:-1,FR:AB MOTEUR HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/7025.m3u8
+#EXTINF:-1,FR: Equidia Live
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6300.m3u8
+#EXTINF:-1,FR: Equidia Life
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/16314.m3u8
+#EXTINF:-1,FR: EUROSPORT
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5194.m3u8
+#EXTINF:-1,FR: EUROSPORT2
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5196.m3u8
+#EXTINF:-1,FR: SFR SPORTS 1 HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5586.m3u8
+#EXTINF:-1,FR: SFR SPORTS 2 HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5587.m3u8
+#EXTINF:-1,FR: SFR SPORTS 3 HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5588.m3u8
+#EXTINF:-1,FR: SFR SPORTS 4k
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/7022.m3u8
+#EXTINF:-1,FR: SFR SPORTS 5 HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6658.m3u8
+#EXTINF:-1,FR: BEINSPORT 1 HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5197.m3u8
+#EXTINF:-1,FR: BEINSPORT 2 HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5198.m3u8
+#EXTINF:-1,FR: BEINSPORT 3 HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5199.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 4
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6301.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 5
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6302.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 6
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6303.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 7
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6304.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 8
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6297.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 9
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6296.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 10
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6295.m3u8
+#EXTINF:-1,* * * *  FR INFOS * * * *
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5204.m3u8
+#EXTINF:-1,FR: C News
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/16315.m3u8
+#EXTINF:-1,FR: France Info
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/16313.m3u8
+#EXTINF:-1,FR: FRANCE 24
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5205.m3u8
+#EXTINF:-1,FR: TV5_monde
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5207.m3u8
+#EXTINF:-1,FR: EURONEWS
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5206.m3u8
+#EXTINF:-1,FR: BFM BUSINESS
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5209.m3u8
+#EXTINF:-1,FR: BFM TV
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5208.m3u8
+#EXTINF:-1,FR: LA TELE
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5211.m3u8
+#EXTINF:-1,FR: iTELE
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5212.m3u8
+#EXTINF:-1,* * * *  FR MUSIK * * * *
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5184.m3u8
+#EXTINF:-1,FR: BRAVA HD
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/7020.m3u8
+#EXTINF:-1,FR: MEZZO
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/6946.m3u8
+#EXTINF:-1,FR: MTV
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/7026.m3u8
+#EXTINF:-1,FR: MTV MUSIC
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5186.m3u8
+#EXTINF:-1,FR: MTV DANCE
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5187.m3u8
+#EXTINF:-1,FR: M6 MUSIC
+http://185.71.66.63:1926/live/z2nW1Blwxm/x714zcb8Ub/5188.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1,CHANNEL 3
@@ -1174,7 +3173,198 @@ http://203.162.235.41:17819
 http://203.162.235.41:17819
 
 
-
+#EXTINF:-1,USA | ID HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14264.ts
+#EXTINF:-1,USA | LIFETIME HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14834.ts
+#EXTINF:-1,USA | BRAVO HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13852.ts
+#EXTINF:-1,USA | TLC HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14863.ts
+#EXTINF:-1,USA | FreeForm HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13559.ts
+#EXTINF:-1,USA | SPIKE HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14853.ts
+#EXTINF:-1,USA | SYFY HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14860.ts
+#EXTINF:-1,USA | VH1 HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14850.ts
+#EXTINF:-1,USA | TNT_HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14832.ts
+#EXTINF:-1,USA | CARTOON NETWORK
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14845.ts
+#EXTINF:-1,USA | Cinemax 5 Star Max
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14824.ts
+#EXTINF:-1,USA | CINEMAX HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14822.ts
+#EXTINF:-1,USA | Cinemax MoreMax HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14823.ts
+#EXTINF:-1,USA | COOKING CHANNEL
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14828.ts
+#EXTINF:-1,USA | E!
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14829.ts
+#EXTINF:-1,USA | ESPN
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14830.ts
+#EXTINF:-1,USA | ESPN 2
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14831.ts
+#EXTINF:-1,USA | Golf HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14835.ts
+#EXTINF:-1,USA | HBO HD 1
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14838.ts
+#EXTINF:-1,USA | HBO Signature
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14839.ts
+#EXTINF:-1,USA | HBO Zone
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14840.ts
+#EXTINF:-1,USA | IFC
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14851.ts
+#EXTINF:-1,USA | National Geographic-US
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14827.ts
+#EXTINF:-1,USA | NBA HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14847.ts
+#EXTINF:-1,USA | NBC Sport
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14844.ts
+#EXTINF:-1,USA | NHL Network
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14849.ts
+#EXTINF:-1,USA | Red Bull TV
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14837.ts
+#EXTINF:-1,USA | RT America
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14865.ts
+#EXTINF:-1,USA | Showtime
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14852.ts
+#EXTINF:-1,USA | Starz Cinema HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14858.ts
+#EXTINF:-1,USA | Starz Encore
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14846.ts
+#EXTINF:-1,USA | TBS
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14861.ts
+#EXTINF:-1,USA | Tennis Channel HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14862.ts
+#EXTINF:-1,USA | The Blaze
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14859.ts
+#EXTINF:-1,USA | TSN-1
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14854.ts
+#EXTINF:-1,USA | TSN 2
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14855.ts
+#EXTINF:-1,USA | TSN 3
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14856.ts
+#EXTINF:-1,USA | TSN 4
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14857.ts
+#EXTINF:-1,USA | HBO Comedy
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/12224.ts
+#EXTINF:-1,USA | HBO ESAT HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/12233.ts
+#EXTINF:-1,USA | NBC GOLF HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/12223.ts
+#EXTINF:-1,USA | TBS HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/12235.ts
+#EXTINF:-1,USA | UTV IE HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/9530.ts
+#EXTINF:-1,USA | Bloomberg TV HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/9195.ts
+#EXTINF:-1,USA | C-Span 1HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/8811.ts
+#EXTINF:-1,USA | C-Span 2HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/8810.ts
+#EXTINF:-1,USA | C-Span 3HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/8809.ts
+#EXTINF:-1,USA | COOKING CHANNEL HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13823.ts
+#EXTINF:-1,USA | CW HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13885.ts
+#EXTINF:-1,USA | DESTINATION AMERICA HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13822.ts
+#EXTINF:-1,USA | ESPN HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13773.ts
+#EXTINF:-1,USA | FIGHT BOX
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13771.ts
+#EXTINF:-1,USA | HBO Family HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13878.ts
+#EXTINF:-1,USA | ShowTime HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13868.ts
+#EXTINF:-1,USA | ShowTime 2 HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13866.ts
+#EXTINF:-1,USA | TRU TV
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13811.ts
+#EXTINF:-1,USA | WE TV
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13801.ts
+#EXTINF:-1,USA | Cinemax
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13890.ts
+#EXTINF:-1,USA | Showtime HDTV
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13865.ts
+#EXTINF:-1,USA | ESPN2
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13497.ts
+#EXTINF:-1,USA | FOX 13 News HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14266.ts
+#EXTINF:-1,USA | FS1 HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14578.ts
+#EXTINF:-1,USA | FS2 HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14579.ts
+#EXTINF:-1,USA | CBSN HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14616.ts
+#EXTINF:-1,USA | NASA TV HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14261.ts
+#EXTINF:-1,USA | Red Bull TV HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14260.ts
+#EXTINF:-1,USA | RT America HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14259.ts
+#EXTINF:-1,USA | Tuff TV
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14256.ts
+#EXTINF:-1,USA | NICKENITO
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13791.ts
+#EXTINF:-1,USA | 30A HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14273.ts
+#EXTINF:-1,USA | Pawleys Island
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14271.ts
+#EXTINF:-1,USA | BET
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13831.ts
+#EXTINF:-1,USA | CBSN-HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13794.ts
+#EXTINF:-1,USA | Fox Sports HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13775.ts
+#EXTINF:-1,USA | InfoWars
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14265.ts
+#EXTINF:-1,USA | MSNBC HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14262.ts
+#EXTINF:-1,USA | NBA
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/7284.ts
+#EXTINF:-1,USA | TSN 1HD B
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/151.ts
+#EXTINF:-1,USA | SyFy HD B
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/7273.ts
+#EXTINF:-1,USA | ABC News 9 (Orlando)
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14275.ts
+#EXTINF:-1,USA | Atlanta Channel
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14274.ts
+#EXTINF:-1,USA | Bloomberg TV B
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14270.ts
+#EXTINF:-1,USA | C-SPAN
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14269.ts
+#EXTINF:-1,USA | FX HD B
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/12239.ts
+#EXTINF:-1,USA | FX HD C
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/12222.ts
+#EXTINF:-1,USA | PAC-12 Oregon
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/12208.ts
+#EXTINF:-1,USA | TSN 4HD B
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/12245.ts
+#EXTINF:-1,USA | AMC HD B
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13838.ts
+#EXTINF:-1,USA | AMC HD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13853.ts
+#EXTINF:-1,USA | HISTORY B
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13876.ts
+#EXTINF:-1,USA | TBS HD B
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13857.ts
+#EXTINF:-1,USA | TNT HD B
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13807.ts
+#EXTINF:-1,USA | GRIT TV Movies
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13869.ts
+#EXTINF:-1,USA | HGTV B
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/13840.ts
+#EXTINF:-1,USA | TVW-2
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14255.ts
+#EXTINF:-1,USA | WWE SD
+http://s1.smartview.live:5210/live/onqjnxte/rrrrrr/14253.ts
 
 
 
@@ -1185,384 +3375,7 @@ http://203.162.235.41:17819
 
 
 
-#EXTINF:-1,CH3 HD
-http://footballmetro.myftp.org:1935/ballsod365-2/0x777_3hd_720p/chunklist.m3u8   
-#EXTINF:-1,CH5 HD
-http://footballmetro.myftp.org:1935/ballsod365-2/0x777_2tv5_720p/chunklist.m3u8   
-#EXTINF:-1,CH7 HD
-http://footballmetro.myftp.org:1935/ballsod365-1/0x777_7hd_720p/chunklist.m3u8
-#EXTINF:-1,MCOT HD
-http://footballmetro.myftp.org:1935/ballsod365-2/0x777_mcothd_720p/chunklist.m3u8   
-#EXTINF:-1,CH3 SD
-http://footballmetro.myftp.org:1935/ballsod365-4/00_3sd_480p/chunklist.m3u8   
-#EXTINF:-1,CH 3 FAMILY
-http://footballmetro.myftp.org:1935/ballsod365-4/00_3fam_480p/chunklist.m3u8  
-#EXTINF:-1,MCOT Family
-http://footballmetro.myftp.org:1935/ballsod365-4/00_mcotfam_480p/chunklist.m3u8
-#EXTINF:-1,NBT
-http://footballmetro.myftp.org:1935/ballsod365-4/00_2nbt_480p/chunklist.m3u8
-#EXTINF:-1,NewTV
-http://footballmetro.myftp.org:1935/ballsod365-1/00_tvdigital_newtv_480p/chunklist.m3u8   
-#EXTINF:-1,NOW26
-http://footballmetro.myftp.org:1935/ballsod365-4/00_tvdigital_now_480p/chunklist.m3u8
-#EXTINF:-1,ONE HD
-http://footballmetro.myftp.org:1935/ballsod365-2/0x777_tvdigital_one_720p/chunklist.m3u8  
-#EXTINF:-1,Spring News
-http://footballmetro.myftp.org:1935/ballsod365-4/00_springnews_480p/chunklist.m3u8   
-#EXTINF:-1,Bright TV
-http://footballmetro.myftp.org:1935/ballsod365-1/00_tvdigital_bright_480p/chunklist.m3u8
-#EXTINF:-1,Workpoint TV
-http://footballmetro.myftp.org:1935/ballsod365-4/00_tvdigital_workpointtv_480p/chunklist.m3u8
-#EXTINF:-1,Nation TV
-http://footballmetro.myftp.org:1935/ballsod365-4/00_nation_480p/chunklist.m3u8
-#EXTINF:-1,Thairath TV
-http://footballmetro.myftp.org:1935/ballsod365-1/00_tvdigital_thairath_720p/chunklist.m3u8   
-#EXTINF:-1,Amarin TV HD
-http://footballmetro.myftp.org:1935/ballsod365-1/00_tvdigital_amarin_480p/chunklist.m3u8   
-#EXTINF:-1,Mono29
-http://footballmetro.myftp.org:1935/ballsod365-4/00_tvdigital_mono_480p/chunklist.m3u8  
-#EXTINF:-1,PPTV HD
-http://footballmetro.myftp.org:1935/ballsod365-2/0x777_tvdigital_pptv_720p/chunklist.m3u8  
-#EXTINF:-1,Mcot1
-http://footballmetro.myftp.org:1935/ballsod365-4/00_mcot1_480p/chunklist.m3u8   
-#EXTINF:-1,GMM channel
-http://footballmetro.myftp.org:1935/ballsod365-4/00_gmm25_480p/chunklist.m3u8   
-#EXTINF:-1,True4U
-http://footballmetro.myftp.org:1935/ballsod365-1/00_true4u_480p/chunklist.m3u8  
-#EXTINF:-1,True Plookpanya
-http://footballmetro.myftp.org:1935/ballsod365-1/00_tppy_480p/chunklist.m3u8   
-#EXTINF:-1,VOICE
-http://footballmetro.myftp.org:1935/ballsod365-4/00_voice_480p/chunklist.m3u8   
-#EXTINF:-1,CH8
-http://footballmetro.myftp.org:1935/ballsod365-4/0x777_tvdigital_ch8_480p/chunklist.m3u8   
-#EXTINF:-1,You Channel
-http://footballmetro.myftp.org:1935/ballsod365-4/00_youchannel_480p/chunklist.m3u8   
-#EXTINF:-1,TNN24
-http://footballmetro.myftp.org:1935/ballsod365-4/00_tnn24_480p/chunklist.m3u8   
-#EXTINF:-1,Money Channel
-http://footballmetro.myftp.org:1935/ballsod365-1/00_moneychannel_480p/chunklist.m3u8  
-#EXTINF:-1,TNN2
-http://footballmetro.myftp.org:1935/ballsod365-4/00_tnn2_480p/chunklist.m3u8   
-#EXTINF:-1,M Channel
-http://footballmetro.myftp.org:1935/ballsod365-4/00_mchannel_480p/chunklist.m3u8   
-#EXTINF:-1,JKN TV
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_jkn_720p/chunklist.m3u8   
-#EXTINF:-1,T-Sports
-http://footballmetro.myftp.org:1935/ballsod365-4/0x539_tsports_480p/chunklist.m3u8  
-#EXTINF:-1,SMM TV
-http://footballmetro.myftp.org:1935/ballsod365-1/00_smmtv_480p/chunklist.m3u8   
-#EXTINF:-1,Miracle TV
-http://footballmetro.myftp.org:1935/ballsod365-4/00_miracle_480p/chunklist.m3u8  
-#EXTINF:-1,Reality TV
-http://footballmetro.myftp.org:1935/ballsod365-1/00_real_480p/chunklist.m3u8   
-#EXTINF:-1,Chic's TV
-http://footballmetro.myftp.org:1935/ballsod365-1/00_chicchannel_480p/chunklist.m3u8   
-#EXTINF:-1,Superbunteung TV
-http://footballmetro.myftp.org:1935/ballsod365-1/00_superbunteng_480p/chunklist.m3u8
-#EXTINF:-1,Travel TV
-http://footballmetro.myftp.org:1935/ballsod365-1/00_travelchannel_480p/chunklist.m3u8
-#EXTINF:-1,TGN TV
-http://footballmetro.myftp.org:1935/ballsod365-1/00_tgn_480p/chunklist.m3u8
-#EXTINF:-1,TGN2 TV
-http://footballmetro.myftp.org:1935/ballsod365-1/00_tgn2_480p/chunklist.m3u8   
-#EXTINF:-1,SME TV
-http://footballmetro.myftp.org:1935/ballsod365-1/00_smechannel_480p/chunklist.m3u8  
-#EXTINF:-1,ETV Channel
-http://footballmetro.myftp.org:1935/ballsod365-1/00_etv_480p/chunklist.m3u8  
-#EXTINF:-1,True Nick Jr.
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_nickjrthai_720p/chunklist.m3u8  
-#EXTINF:-1,True Spark play
-http://footballmetro.myftp.org:1935/ballsod365-4/00_spark_480p/chunklist.m3u8   
-#EXTINF:-1,True Spark Jump
-http://footballmetro.myftp.org:1935/ballsod365-1/00_sparkjump_480p/chunklist.m3u8
-#EXTINF:-1,Disney Channel
-http://footballmetro.myftp.org:1935/ballsod365-1/00_disney_480p/chunklist.m3u8   
-#EXTINF:-1,Discovery Kids
-http://footballmetro.myftp.org:1935/ballsod365-2/0x777_discoverykids_480p/chunklist.m3u8  
-#EXTINF:-1,Toonami
-http://footballmetro.myftp.org:1935/ballsod365-2/0x222_toonami_720p/chunklist.m3u8   
-#EXTINF:-1,Boomerang
-http://footballmetro.myftp.org:1935/ballsod365-4/00_boomerang_480p/chunklist.m3u8   
-#EXTINF:-1,Gang Cartoon
-http://footballmetro.myftp.org:1935/ballsod365-4/00_gangcartoon_480p/chunklist.m3u8   
-#EXTINF:-1,True Movie Hits
-http://footballmetro.myftp.org:1935/ballsod365-1/00_moviehits_480p/chunklist.m3u8  
-#EXTINF:-1,True Thai Film
-http://footballmetro.myftp.org:1935/ballsod365-1/00_2thaifilm_480p/chunklist.m3u8  
-#EXTINF:-1,True Film Asia  
-http://footballmetro.myftp.org:1935/ballsod365-1/00_filmasia_480p/chunklist.m3u8
-#EXTINF:-1,True Asian Series
-http://footballmetro.myftp.org:1935/ballsod365-1/00_2asianseries_480p/chunklist.m3u8  
-#EXTINF:-1,True Music
-http://footballmetro.myftp.org:1935/ballsod365-1/00_2music_480p/chunklist.m3u8   
-#EXTINF:-1,Trace Urban
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_traceurbanhd_720p/chunklist.m3u8   
-#EXTINF:-1,Fashion TV HD
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_fashiontvsd_720p/chunklist.m3u8  
-#EXTINF:-1,True X-zyte
-http://footballmetro.myftp.org:1935/ballsod365-1/00_xzyte_480p/chunklist.m3u8  
-#EXTINF:-1,Asian Food Channel
-http://footballmetro.myftp.org:1935/ballsod365-1/00_homeandfood_480p/chunklist.m3u8  
-#EXTINF:-1,Very TV
-http://footballmetro.myftp.org:1935/ballsod365-1/00_very_480p/chunklist.m3u8   
-#EXTINF:-1,MTV Asia
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_mtvasia_720p/chunklist.m3u8
-#EXTINF:-1,MTV Live HD
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_mtvlivehd_720p/chunklist.m3u8   
-#EXTINF:-1,MTV China
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_mtvchina_720p/chunklist.m3u8
-#EXTINF:-1,Channel V Thailand
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_chvinter_720p/chunklist.m3u8   
-#EXTINF:-1,True Explore Wild
-http://footballmetro.myftp.org:1935/ballsod365-1/00_exp1_480p/chunklist.m3u8   
-#EXTINF:-1,True Explore Life
-http://footballmetro.myftp.org:1935/ballsod365-4/00_exp2_480p/chunklist.m3u8
-#EXTINF:-1,True Explore Sci
-http://footballmetro.myftp.org:1935/ballsod365-4/00_exp3_480p/chunklist.m3u8
-#EXTINF:-1,RAMA
-http://footballmetro.myftp.org:1935/ballsod365-1/00_rama_480p/chunklist.m3u8
-#EXTINF:-1,Discovery Channel
-http://footballmetro.myftp.org:1935/ballsod365-2/00_dischannel_480p/chunklist.m3u8   
-#EXTINF:-1,TLC
-http://footballmetro.myftp.org:1935/ballsod365-4/00_tlc_480p/chunklist.m3u8   
-#EXTINF:-1,Animal Planet
-http://footballmetro.myftp.org:1935/ballsod365-2/0x777_animalplanet_720p/chunklist.m3u8   
-#EXTINF:-1,BBC Earth
-http://footballmetro.myftp.org:1935/ballsod365-2/0x777_bbcearth_720p/chunklist.m3u8
-#EXTINF:-1,Discovery Science
-http://footballmetro.myftp.org:1935/ballsod365-2/0x777_dissci_720p/chunklist.m3u8  
-#EXTINF:-1,EVE
-http://footballmetro.myftp.org:1935/ballsod365-2/0x222_evehd_720p/chunklist.m3u8
-#EXTINF:-1,DMAX
-http://footballmetro.myftp.org:1935/ballsod365-2/0x777_dmaxhd_720p/chunklist.m3u8
-#EXTINF:-1,KBS World
-http://footballmetro.myftp.org:1935/ballsod365-1/00_kbs_480p/chunklist.m3u8   
-#EXTINF:-1,Celeatial Classic Movies
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_ccm_360p/chunklist.m3u8  
-#EXTINF:-1,AXN HD
-http://footballmetro.myftp.org:1935/ballsod365-2/0x777_axnhd_720p/chunklist.m3u8
-#EXTINF:-1,BBC Life Style
-http://footballmetro.myftp.org:1935/ballsod365-2/0x222_lifestylehd_720p/chunklist.m3u8  
-#EXTINF:-1,Discovery Asia
-http://footballmetro.myftp.org:1935/ballsod365-2/0x777_discoveryworldhd_720p/chunklist.m3u8  
-#EXTINF:-1,History Channel
-http://footballmetro.myftp.org:1935/ballsod365-2/0x777_historyhd_720p/chunklist.m3u8
-#EXTINF:-1,H2 Channel
-http://footballmetro.myftp.org:1935/ballsod365-2/0x777_h2hd_720p/chunklist.m3u8
-#EXTINF:-1,National Geographic
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_natgeographic_720p/chunklist.m3u8   
-#EXTINF:-1,National Geographic People
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_natgeopeople_720p/chunklist.m3u8   
-#EXTINF:-1,National Geographic Wild
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_natgeowild_720p/chunklist.m3u8   
-#EXTINF:-1,FYI
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_fyihdthai_720p/chunklist.m3u8
-#EXTINF:-1,CI HD
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_cihd_720p/chunklist.m3u8  
-#EXTINF:-1,HBO HD TH
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_ais_hbohdth_720p/chunklist.m3u8   
-#EXTINF:-1,HBO HD
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_ais_hbohd_720p/chunklist.m3u8
-#EXTINF:-1,HBO Signature
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_ais_hbosignature_720p/chunklist.m3u8  
-#EXTINF:-1,HBO Family
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_ais_hbofam_720p/chunklist.m3u8
-#EXTINF:-1,HBO Hits
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_ais_hbohit_720p/chunklist.m3u8
-#EXTINF:-1,Cinemax
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_ais_cinemax_720p/chunklist.m3u8   
-#EXTINF:-1,Red by HBO
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_ais_redbyhbo_720p/chunklist.m3u8
-#EXTINF:-1,FOX Thai
-http://footballmetro.myftp.org:1935/ballsod365-1/00_foxthai_480p/chunklist.m3u8   
-#EXTINF:-1,Fox Action Movies HD TH
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_foxactionmovieth_720p/chunklist.m3u8   
-#EXTINF:-1,Fox Action Movies HD
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_foxactionmovieen_720p/chunklist.m3u8
-#EXTINF:-1,Fox Family Movies HD TH
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_ais_foxfamth_720p/chunklist.m3u8  
-#EXTINF:-1,Fox Family Movies HD
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_ais_foxfamen_720p/chunklist.m3u8
-#EXTINF:-1,Fox Movies Premium HD TH
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_ais_foxpremiumth_720p/chunklist.m3u8
-#EXTINF:-1,Fox Movies Premium HD
-http://footballmetro.myftp.org:1935/ballsod365-1/0x777_foxpremiumtruly_720p/chunklist.m3u8 
-#EXTINF:-1,Fox Crime
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_foxcrimehdthai_720p/chunklist.m3u8   
-#EXTINF:-1,Thrill
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_thrill_720p/chunklist.m3u8
-#EXTINF:-1,Starworld
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_starworldhdthai_720p/chunklist.m3u8
-#EXTINF:-1,FX
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_fxthailand_720p/chunklist.m3u8   
-#EXTINF:-1,Warner TV
-http://footballmetro.myftp.org:1935/ballsod365-3/0x777_warnertv_720p/chunklist.m3u8
-#EXTINF:-1,Samrojlok
-http://footballmetro.myftp.org:1935/ballsod365-2/0x777_samrujlok_720p/chunklist.m3u8 
-#EXTINF:-1,MyScience HD
-http://footballmetro.myftp.org:1935/ballsod365-2/0x222_mysci_720p/chunklist.m3u8
-#EXTINF:-1,Doonee HD
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_ais_doonee_720p/chunklist.m3u8   
-#EXTINF:-1,Zeenung HD
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_ais_zeenung_720p/chunklist.m3u8   
-#EXTINF:-1,CCTV4
-http://footballmetro.myftp.org:1935/ballsod365-4/00_cctv_480p/chunklist.m3u8
-#EXTINF:-1,Arirang
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_arirang_720p/chunklist.m3u8   
-#EXTINF:-1,DW
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_dwchannel_720p/chunklist.m3u8
-#EXTINF:-1,NHK World TV
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_nhkworldtv_720p/chunklist.m3u8   
-#EXTINF:-1,Euronews
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_euronews_720p/chunklist.m3u8
-#EXTINF:-1,Channel NewsAsia
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_newsasia_720p/chunklist.m3u8
-#EXTINF:-1,Sky News HD
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_skynewshd_720p/chunklist.m3u8   
-#EXTINF:-1,Fox News HD
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_foxnewsthai_720p/chunklist.m3u8
-#EXTINF:-1,Star Chinese Channel
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_scc_720p/chunklist.m3u8
-#EXTINF:-1,GVTV
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_ais_gvtv_720p/chunklist.m3u8
-#EXTINF:-1,GVV
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_ais_gvv_720p/chunklist.m3u8
-#EXTINF:-1,GVX
-http://footballmetro.myftp.org:1935/ballsod365-2/0x222_ais_gvx_720p/chunklist.m3u8   
-#EXTINF:-1,TrueSport HD1
-http://footballmetro.myftp.org:1935/ballsod365-3/0x777_2sporthd1_720p/chunklist.m3u8  
-#EXTINF:-1,TrueSport HD2
-http://footballmetro.myftp.org:1935/ballsod365-3/0x777_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1,TrueSport HD3
-http://footballmetro.myftp.org:1935/ballsod365-3/0x777_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1,TrueSport HD4
-http://footballmetro.myftp.org:1935/ballsod365-3/0x777_2sporthd4_720p/chunklist.m3u8  
-#EXTINF:-1,True Sport 1
-http://footballmetro.myftp.org:1935/ballsod365-1/00_2sport1_480p/chunklist.m3u8
-#EXTINF:-1,True Sport 2
-http://footballmetro.myftp.org:1935/ballsod365-1/00_2sport2_480p/chunklist.m3u8
-#EXTINF:-1,True Sport 3
-http://footballmetro.myftp.org:1935/ballsod365-1/00_2sport3_480p/chunklist.m3u8
-#EXTINF:-1,True Sport 5
-http://footballmetro.myftp.org:1935/ballsod365-1/00_2sport5_480p/chunklist.m3u8
-#EXTINF:-1,True Sport 6
-http://footballmetro.myftp.org:1935/ballsod365-1/00_2sport6_480p/chunklist.m3u8   
-#EXTINF:-1,True Sport 7
-http://footballmetro.myftp.org:1935/ballsod365-4/00_2sport7_480p/chunklist.m3u8
-#EXTINF:-1,True Tennis  
-http://footballmetro.myftp.org:1935/ballsod365-1/0x777_truetennis_720p/chunklist.m3u8   
-#EXTINF:-1,NBA TV
-http://footballmetro.myftp.org:1935/ballsod365-3/0x777_2nba_720p/chunklist.m3u8
-#EXTINF:-1,Golf Channel
-http://footballmetro.myftp.org:1935/ballsod365-3/0x777_golfchannel_720p/chunklist.m3u8  
-#EXTINF:-1,beIN Sports1
-http://footballmetro.myftp.org:1935/ballsod365-1/0x777_beinsport1_720p/chunklist.m3u8
-#EXTINF:-1,beIN Sports2
-http://footballmetro.myftp.org:1935/ballsod365-1/0x777_beinsporthd2_720p/chunklist.m3u8
-#EXTINF:-1,beIN Sports3
-http://footballmetro.myftp.org:1935/ballsod365-1/0x777_beinsporthd3_720p/chunklist.m3u8
-#EXTINF:-1,beIN Sports4
-http://footballmetro.myftp.org:1935/ballsod365-1/0x777_beinsporthd4_720p/chunklist.m3u8
-#EXTINF:-1,beIN Sports5
-http://footballmetro.myftp.org:1935/ballsod365-1/0x222_beinsporthd5_720p/chunklist.m3u8
-#EXTINF:-1,beIN Sports6
-http://footballmetro.myftp.org:1935/ballsod365-1/0x222_beinsporthd6_720p/chunklist.m3u8
-#EXTINF:-1,FOX Sports1  
-http://footballmetro.myftp.org:1935/ballsod365-3/0x777_foxsport1_720p/chunklist.m3u8  
-#EXTINF:-1,FOX Sports2
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_foxsport2_720p/chunklist.m3u8  
-#EXTINF:-1,FOX Sports3
-http://footballmetro.myftp.org:1935/ballsod365-3/0x222_foxsport3_720p/chunklist.m3u8  
-#EXTINF:-1,Fight Sport
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_ais_fightsport_720p/chunklist.m3u8
-#EXTINF:-1,PRTV 1
-http://footballmetro.myftp.org:1935/ballsod365-1/0x777_prtv_720p/chunklist.m3u8
-#EXTINF:-1,PRTV 2
-http://footballmetro.myftp.org:1935/ballsod365-1/0x777_prtv2_720p/chunklist.m3u8
-#EXTINF:-1,PRTV 3
-http://footballmetro.myftp.org:1935/ballsod365-1/0x777_prtv3_720p/chunklist.m3u83
-#EXTINF:-1,AIS Futsal
-http://footballmetro.myftp.org:1935/ballsod365-4/0x222_ais_futsal_720p/chunklist.m3u8   
-#EXTINF:-1,Speed Channel
-http://footballmetro.myftp.org:1935/ballsod365-1/00_speedchannel_480p/chunklist.m3u8
-#EXTINF:-1,SiamSport News
-http://footballmetro.myftp.org:1935/ballsod365-4/00_siamsportnews_480p/chunklist.m3u8
-#EXTINF:-1,Siamsport Football
-http://footballmetro.myftp.org:1935/ballsod365-4/00_siamsportfootball_480p/chunklist.m3u8  
-#EXTINF:-1,MUTV
-http://footballmetro.myftp.org:1935/ballsod365-3/0x444_mutv_360p/chunklist.m3u8   
-#EXTINF:-1,LFCTV
-http://footballmetro.myftp.org:1935/ballsod365-3/0x444_lfctv_360p/chunklist.m3u8
-#EXTINF:-1,Chelsea TV
-http://footballmetro.myftp.org:1935/ballsod365-3/0x444_chelseatv_360p/chunklist.m3u8   
-#EXTINF:-1,Skynet Sport HD
-http://footballmetro.myftp.org:1935/ballsod365-2/0x777_skynetsporthd_720p/chunklist.m3u8 
-#EXTINF:-1,Skynet Sport1
-http://footballmetro.myftp.org:1935/ballsod365-2/00_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1,Skynet Sport2
-http://footballmetro.myftp.org:1935/ballsod365-2/00_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1,Skynet Sport3
-http://footballmetro.myftp.org:1935/ballsod365-2/00_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1,Skynet Sport4
-http://footballmetro.myftp.org:1935/ballsod365-2/00_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1,Skynet Sport5
-http://footballmetro.myftp.org:1935/ballsod365-2/00_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1,Skynet Sport6
-http://footballmetro.myftp.org:1935/ballsod365-2/00_skynetsport6_480p/chunklist.m3u8  
-#EXTINF:-1,EuroSport HD
-http://footballmetro.myftp.org:1935/ballsod365-1/0x777_eurosport_720p/chunklist.m3u8  
-#EXTINF:-1,EuroSport1
-http://footballmetro.myftp.org:1935/ballsod365-3/0x444_eurosportuk1_360p/chunklist.m3u8
-#EXTINF:-1,EuroSport2
-http://footballmetro.myftp.org:1935/ballsod365-3/0x444_eurosportuk2_360p/chunklist.m3u8
-#EXTINF:-1,ESPN HD
-http://footballmetro.myftp.org:1935/ballsod365-2/0x777_espnhd_720p/chunklist.m3u8  
-#EXTINF:-1,Sony ESPN HD
-http://footballmetro.myftp.org:1935/ballsod365-2/0x222_sonyespn_720p/chunklist.m3u8  
-#EXTINF:-1,Sony Six HD
-http://footballmetro.myftp.org:1935/ballsod365-2/0x222_sonysix_720p/chunklist.m3u8
-#EXTINF:-1,BT Sport1 HD
-http://footballmetro.myftp.org:1935/ballsod365-3/0x444_btsport1manic_360p/chunklist.m3u8
-#EXTINF:-1,BT Sport2 HD
-http://footballmetro.myftp.org:1935/ballsod365-3/0x444_btsport2manic_360p/chunklist.m3u8
-#EXTINF:-1,BT Sport3 HD
-http://footballmetro.myftp.org:1935/ballsod365-3/0x444_btsport3manic_360p/chunklist.m3u8   
-#EXTINF:-1,BT Sport ESPN HD
-http://footballmetro.myftp.org:1935/ballsod365-3/0x444_btsportespnmanic_360p/chunklist.m3u8
-#EXTINF:-1,SPORT TV1
-http://footballmetro.myftp.org:1935/ballsod365-2/0x444_sporttv1_360p/chunklist.m3u8
-#EXTINF:-1,SPORT TV2
-http://footballmetro.myftp.org:1935/ballsod365-2/0x444_sporttv2_360p/chunklist.m3u8
-#EXTINF:-1,SPORT TV3
-http://footballmetro.myftp.org:1935/ballsod365-2/0x444_sporttv3_360p/chunklist.m3u8
-#EXTINF:-1,SPORT TV4
-http://footballmetro.myftp.org:1935/ballsod365-2/0x444_sporttv4_360p/chunklist.m3u8
-#EXTINF:-1,SPORT TV5
-http://footballmetro.myftp.org:1935/ballsod365-2/0x444_sporttv5_360p/chunklist.m3u8   
-#EXTINF:-1,Polsat Sport
-http://footballmetro.myftp.org:1935/ballsod365-4/0x444_polsatpo_360p/chunklist.m3u8
-#EXTINF:-1,PFC Sport
-http://footballmetro.myftp.org:1935/ballsod365-2/0x444_pfc_360p/chunklist.m3u8  
-#EXTINF:-1,TSN1 Canada
-http://footballmetro.myftp.org:1935/ballsod365-2/0x444_tsn1_360p/chunklist.m3u8
-#EXTINF:-1,TSN2 Canada
-http://footballmetro.myftp.org:1935/ballsod365-2/0x444_tsn2_360p/chunklist.m3u8
-#EXTINF:-1,TSN3 Canada
-http://footballmetro.myftp.org:1935/ballsod365-2/0x444_tsn3_360p/chunklist.m3u8
-#EXTINF:-1,TeleClub Sport 1
-http://footballmetro.myftp.org:1935/ballsod365-2/0x444_teleclub1sw_360p/chunklist.m3u8
-#EXTINF:-1,TeleClub Sport 2
-http://footballmetro.myftp.org:1935/ballsod365-2/0x444_teleclub2sw_360p/chunklist.m3u8
-#EXTINF:-1,Polsatpo
-http://footballmetro.myftp.org:1935/ballsod365-4/0x444_polsatpo_360p/chunklist.m3u8
-#EXTINF:-1,beIN1france
-http://footballmetro.myftp.org:1935/ballsod365-2/0x444_bein1france_360p/chunklist.m3u8
-#EXTINF:-1,beIN2france
-http://footballmetro.myftp.org:1935/ballsod365-2/0x444_bein2france_360p/chunklist.m3u8
-#EXTINF:-1,beIN3france
-http://footballmetro.myftp.org:1935/ballsod365-2/0x444_bein3france_360p/chunklist.m3u8
-#EXTINF:-1,Skysportmaineventmanic
-http://footballmetro.myftp.org:1935/ballsod365-2/0x444_skysportmaineventmanic_360p/chunklist.m3u8
+
 
 
 
@@ -1766,8 +3579,8 @@ http://183.88.212.205:8010/play/a02z
 
 
 
-
-
+#EXTINF:-1,NAT GEO PEOPLE HD
+http://113.175.179.15:4022/rtp/232.84.1.76:8430
 
 
 
