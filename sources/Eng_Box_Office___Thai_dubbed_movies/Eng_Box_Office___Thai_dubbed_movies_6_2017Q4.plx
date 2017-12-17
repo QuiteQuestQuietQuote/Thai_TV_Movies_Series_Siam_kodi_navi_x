@@ -69,12 +69,7 @@ date=2017-12-14
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
-type=video
-name=Star Wars: The Last Jedi (2017) ENG FULL_ENGLISH_HDCAM_ste20
-thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
-date=2017-12-16
-URL=https://openload.co/f/US7D15Fv2OU/STAR_WARS_THE_LAST_JEDI_2017_FULL_ENGLISH_HDCAM_ste20.mp4
-#https://openload.co/f/yjFhavSK_eg/Star.Wars.The.Last.Jedi.2017.CAM.X264-BebeLeitinho.mkv
+
 
 type=video
 name=The Killing of a Sacred Deer (2017) ENG WEB-DL.H264.AC3BB-EVO
@@ -1232,14 +1227,7 @@ URL=https://www.blazefile.co/embed-qr15c4xv5c2r.html
 #https://openload.co/f/wuQbU89nWPI/Victoria_and_Abdul_2017_HDRip_XviD_AC3_EVO_avi_mp4_mp4.MP4.mp4
 #https://www.blazefile.co/embed-8zqwao36xstf.html   720
 
-type=video
-name=American Made (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 8.4GB
-thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
-date=2017-12-04
-URL=https://openload.co/f/yOYF6qkCwEA/American.Made.2017.1080p.BluRay.x264-GECKOS.mkv
-#https://www.blazefile.co/embed-wq1xe2swtwr5.html
-#https://openload.co/f/8SeCnhUbges/American.Made.2017.HDRip.XviD.AC3-EVO.avi
-#https://openload.co/f/8cEt2bAPp34/American.Made.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=The Party (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2340,6 +2328,21 @@ URL=http://203.162.235.41:17819
 
 
 
+
+type=video
+name=Star Wars: The Last Jedi (2017) ENG x264_HQMIC-DADDY
+thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
+date=2017-12-16
+URL=https://openload.co/f/UrK6v2uPmbQ/Star_Wars_The_Last_Jedi_2017_FULL_HDCAM_ENGLiSH_x264_HQMIC-DADDY.mkv.mp4
+#https://openload.co/f/US7D15Fv2OU/STAR_WARS_THE_LAST_JEDI_2017_FULL_ENGLISH_HDCAM_ste20.mp4
+#https://openload.co/f/yjFhavSK_eg/Star.Wars.The.Last.Jedi.2017.CAM.X264-BebeLeitinho.mkv
+type=video
+name=Star Wars: The Last Jedi (2017) THCAM
+thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
+date=2017-12-17
+URL=https://streamango.com/f/lndpracqdldepoqk/Star_Wars_The_Last_Jedi_2017_720p_TS_x264_AC-3_ThaiRong2_0_CpT_CtHts_mkv_mp4
+
+
 type=video
 name=Coco (2017) ENG HD-TS.X264.HQ-CPG
 thumb=https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
@@ -3375,6 +3378,20 @@ date=2017-11-30
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
+
+type=video
+name=American Made (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 8.4GB
+thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
+date=2017-12-04
+URL=https://openload.co/f/yOYF6qkCwEA/American.Made.2017.1080p.BluRay.x264-GECKOS.mkv
+#https://www.blazefile.co/embed-wq1xe2swtwr5.html
+#https://openload.co/f/8SeCnhUbges/American.Made.2017.HDRip.XviD.AC3-EVO.avi
+#https://openload.co/f/8cEt2bAPp34/American.Made.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+type=video
+name=American Made (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
+date=2017-12-04
+URL=https://streamango.com/f/tfcaecnmlaemmbbn/_MINI_Super-HQ_American_Made_2017_1080p_BrRip_DTS_x264_NongZEZA_CtHts_mkv_mp4
 
 
 type=video
