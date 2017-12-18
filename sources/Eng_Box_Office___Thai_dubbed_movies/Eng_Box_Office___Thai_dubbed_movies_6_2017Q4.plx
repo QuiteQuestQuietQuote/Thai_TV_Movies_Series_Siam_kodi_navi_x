@@ -21,7 +21,6 @@ rating=-1.00
 
 
 
-
 type=video
 name=
 thumb=https://4.bp.blogspot.com/-q3FCvo_BtWw/WdLY23tF_4I/AAAAAAAAAJE/PnQtW3AhDKcpITTVadnjDOyrsx5Vcb-nQCLcBGAs/s320/054.png
@@ -193,12 +192,7 @@ URL=https://openload.co/f/0WatHfN8KKw/A.Bad.Moms.Christmas.2017.NEW.720p.HDCAM.X
 
 
 
-type=video
-name=Beyond Skyline (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/ktZvjFmwCLrMXtr1dl6o5PhhHS4.jpg
-date=2017-12-15
-URL=https://openload.co/f/c5jv_Jsuv6s/Beyond_Skyline.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/E4IDWuSE1Xg/Beyond_Skyline_2017_CAM_%5BLayar-21.com%5D.mp4
+
 
 
 
@@ -368,7 +362,7 @@ type=video
 name=
 thumb=
 date=2017-12-03
-URL=
+URL=https://www.rapidvideo.com/e/FMIUSI9ZAA&q=480p
 
 
 
@@ -626,12 +620,7 @@ URL=https://openload.co/f/vrRM4kviyb0/Creep.2.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 
 
-type=video
-name=Hampstead (2017) ENG dvdrip.x264-cadaver
-thumb=https://image.tmdb.org/t/p/w640/sweENd2Vc0mQcKfkEzEbaLYbdZr.jpg
-date=2017-11-12
-URL=https://openload.co/f/cnJeexUMpD8/hampstead.2017.dvdrip.x264-cadaver.mkv
-#https://openload.co/f/xJczR6t1uPw/Hampstead.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=Never Here (2017) ENG WEB-DL.DD5.1.H264-FGT
@@ -1124,6 +1113,9 @@ URL=
 
 
 
+
+
+
 type=video
 name=Peelers (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/4mGR7AakCDrPrKmMka3YNfDC79Q.jpg
@@ -1144,16 +1136,7 @@ thumb=https://image.tmdb.org/t/p/w640/3EanTe9yClVB89JKlyxKd3GVFtx.jpg
 date=2017-12-14
 URL=https://openload.co/f/xzcVZDLHcrM/Game.of.Thrones.Conquest.and.Rebellion.2017.1080p.BluRay.x264-FLAME.mkv.mp4
 
-type=video
-name=The Mountain Between Us (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg
-date=2017-12-14
-URL=https://www.blazefile.co/embed-9n3fzxx1bd0b.html
-#https://openload.co/f/cSql4F_rAAI/The.Mountain.Between.Us.2017.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/K1cAMvDgLxM/The.Mountain.Between.Us.2017.HDCAM.x264-DiRG.mp4
-#https://openload.co/f/okxJkzB-PzQ/The.Mountain.Between.Us.2017.HDCAM.x264-DiRG.mp4
-#http://entervideo.net/watch/6412d2d162143cd
-#https://www.blazefile.co/embed-cosnaq79bhrj.html   720
+
 
 type=video
 name=The Middle Finger (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2252,6 +2235,15 @@ thumb=https://image.tmdb.org/t/p/w640/Ij6zyFnVd3ha5uR5b4na3LYux6.jpg
 date=2017-12-07
 URL=https://openload.co/f/GdbJ4Hp8baA/Gook.2017.LIMITED.720p.BluRay.x264-HAiDEAF.mkv.mp4
 
+type=video
+name=Hampstead (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/sweENd2Vc0mQcKfkEzEbaLYbdZr.jpg
+date=2017-12-18
+URL=https://www.blazefile.co/embed-5ac6e5s696ay.html
+#https://openload.co/f/cnJeexUMpD8/hampstead.2017.dvdrip.x264-cadaver.mkv
+#https://openload.co/f/xJczR6t1uPw/Hampstead.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
+
 
 
 
@@ -2339,8 +2331,9 @@ URL=https://openload.co/f/UrK6v2uPmbQ/Star_Wars_The_Last_Jedi_2017_FULL_HDCAM_EN
 type=video
 name=Star Wars: The Last Jedi (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
-date=2017-12-17
-URL=https://streamango.com/f/lndpracqdldepoqk/Star_Wars_The_Last_Jedi_2017_720p_TS_x264_AC-3_ThaiRong2_0_CpT_CtHts_mkv_mp4
+date=2017-12-18
+URL=https://streamango.com/f/pcqllspqemeqtrpl/Star_Wars_The_Last_Jedi_2017_
+#https://streamango.com/f/lndpracqdldepoqk/Star_Wars_The_Last_Jedi_2017_720p_TS_x264_AC-3_ThaiRong2_0_CpT_CtHts_mkv_mp4
 
 
 type=video
@@ -2406,19 +2399,7 @@ URL=https://streamango.com/f/dedmrkdoeockpqkq/Jigsaw_2017_
 
 
 
-type=video
-name=The Son of Bigfoot (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
-date=2017-12-13
-URL=https://www.blazefile.co/embed-lc01dmkeuh9o.html
-#https://openload.co/f/if2l-I3_ZQU/The.Son.Of.Bigfoot.2017.1080p.BluRay.x264-HDEX.mkv.mp4
-#https://openload.co/f/TBvJEkO7bJ0/The_Son_of_Bigfoot.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-type=video
-name=The Son of Bigfoot (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w640/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
-date=2017-10-24
-URL=https://openload.co/f/c_tptj0O6iU/The_Son_of_Bigfoot_%282017%29%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81%E0%B8%9F%E0%B8%B8%E0%B8%95_%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%8B%E0%B8%9F%E0%B8%9E%E0%B9%88%E0%B8%AD_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
-#https://openload.co/f/wcgrmDhWUA0/The.Son.of.Bigfoot.2017.HDCAM.Xvid.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+
 
 
 
@@ -2528,8 +2509,22 @@ URL=https://mcloud.to/embed/jv1wp2?sub.file=https%253A%252F%252Fbmovies.to%252Fs
 type=video
 name=
 thumb=
-date=2017-12-12
+date=2017-12-18
 URL=
+
+
+
+type=video
+name=First They Killed My Father (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/uT5eZhZVdNnkVl8xysTDixBAMnd.jpg
+date=2017-12-18
+URL=https://streamango.com/f/otdlpdqpokkndkds/First_They_Killed_My_Father_2017_
+
+type=video
+name=Shimmer Lake (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/bQHhpTHiys0CZRrdDRKvXBmM5KL.jpg
+date=2017-12-18
+URL=https://streamango.com/f/dnlfcpqkkskoetke/Shimmer_Lake_2017_
 
 
 type=video
@@ -3016,6 +3011,34 @@ URL=
 
 
 
+type=video
+name=The Son of Bigfoot (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
+date=2017-12-13
+URL=https://www.blazefile.co/embed-lc01dmkeuh9o.html
+#https://openload.co/f/if2l-I3_ZQU/The.Son.Of.Bigfoot.2017.1080p.BluRay.x264-HDEX.mkv.mp4
+#https://openload.co/f/TBvJEkO7bJ0/The_Son_of_Bigfoot.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+type=video
+name=The Son of Bigfoot (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
+date=2017-12-18
+URL=https://streamango.com/f/mfkdtmfnpelkfara/The_Son_of_Bigfoot_2017_
+#https://openload.co/f/c_tptj0O6iU/The_Son_of_Bigfoot_%282017%29%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81%E0%B8%9F%E0%B8%B8%E0%B8%95_%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%8B%E0%B8%9F%E0%B8%9E%E0%B9%88%E0%B8%AD_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+#https://openload.co/f/wcgrmDhWUA0/The.Son.of.Bigfoot.2017.HDCAM.Xvid.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+
+
+type=video
+name=Beyond Skyline (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/ktZvjFmwCLrMXtr1dl6o5PhhHS4.jpg
+date=2017-12-15
+URL=https://openload.co/f/c5jv_Jsuv6s/Beyond_Skyline.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/E4IDWuSE1Xg/Beyond_Skyline_2017_CAM_%5BLayar-21.com%5D.mp4
+type=video
+name=Beyond Skyline (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/ktZvjFmwCLrMXtr1dl6o5PhhHS4.jpg
+date=2017-12-18
+URL=https://streamango.com/f/odfkdofpqkqkcbqs/Beyond_Skyline_2017_
+
 
 type=video
 name=Wolf Warrior 2 (2017) THCAM SOUND
@@ -3158,10 +3181,12 @@ URL=https://openload.co/f/xxwf4ErHils/The.Lego.Ninjago.Movie.2017.1080p.KORSUB.H
 
 
 type=video
-name=It (2017) ENG HDRip.XviD.AC3-EVO
+name=It (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
-date=2017-12-12
-URL=https://openload.co/f/jjEyFpoFS7E/IT.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2017-12-18
+URL=https://www.blazefile.co/embed-q667k4nwoj75.html
+#https://openload.co/f/7cLTq13YlXs/It_2017_1080p_BluRay_x264-SPARKS.mp4
+#https://openload.co/f/jjEyFpoFS7E/IT.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/znDy--tZHnA/IT.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 type=video
 name=It (2017) THCAM SOUND
@@ -3379,6 +3404,30 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+
+
+
+
+
+
+
+type=video
+name=The Mountain Between Us (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg
+date=2017-12-14
+URL=https://www.blazefile.co/embed-9n3fzxx1bd0b.html
+#https://openload.co/f/cSql4F_rAAI/The.Mountain.Between.Us.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/K1cAMvDgLxM/The.Mountain.Between.Us.2017.HDCAM.x264-DiRG.mp4
+#https://openload.co/f/okxJkzB-PzQ/The.Mountain.Between.Us.2017.HDCAM.x264-DiRG.mp4
+#http://entervideo.net/watch/6412d2d162143cd
+#https://www.blazefile.co/embed-cosnaq79bhrj.html   720
+type=video
+name=The Mountain Between Us (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg
+date=2017-12-18
+URL=https://openload.co/f/qrj5e3CDlTc/The_Mountain_Between_Us_%282017%29.mp4
+
+
 type=video
 name=American Made (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 8.4GB
 thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
@@ -3390,8 +3439,9 @@ URL=https://openload.co/f/yOYF6qkCwEA/American.Made.2017.1080p.BluRay.x264-GECKO
 type=video
 name=American Made (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
-date=2017-12-04
-URL=https://streamango.com/f/tfcaecnmlaemmbbn/_MINI_Super-HQ_American_Made_2017_1080p_BrRip_DTS_x264_NongZEZA_CtHts_mkv_mp4
+date=2017-12-18
+URL=https://openload.co/f/fV6M-aWhc3I/American_Made_%282017%29%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%99_%E0%B9%80%E0%B8%A1%E0%B8%94.mp4
+#https://streamango.com/f/tfcaecnmlaemmbbn/_MINI_Super-HQ_American_Made_2017_1080p_BrRip_DTS_x264_NongZEZA_CtHts_mkv_mp4
 
 
 type=video
@@ -3405,8 +3455,9 @@ URL=https://www.blazefile.co/embed-s94tgi7syuxm.html
 type=video
 name=Flatliners (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg
-date=2017-12-16
-URL=https://streamango.com/f/qrktfmakbmdtccks/_MINI_Super-HQ_Flatliners_2017_1080p_BrRip_DTS_x264_NongZEZA_CtHts_mkv_mp4
+date=2017-12-18
+URL=https://openload.co/f/N31dcK0R4Cs/Flatliners_%282017%29%E0%B8%82%E0%B8%AD%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B9%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7.mp4
+#https://streamango.com/f/qrktfmakbmdtccks/_MINI_Super-HQ_Flatliners_2017_1080p_BrRip_DTS_x264_NongZEZA_CtHts_mkv_mp4
 #https://openload.co/f/idi3AN6X1pk/Flatliners_%282017%29%E0%B8%82%E0%B8%AD%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B9%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
@@ -3423,8 +3474,9 @@ URL=https://www.blazefile.co/embed-rtm0anmnmey1.html
 type=video
 name=Kingsman: The Golden Circle (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
-date=2017-12-16
-URL=https://openload.co/f/E4LYH8kzaoQ/Kingsman%3A_The_Golden_Circle_%282017%29%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C.mp4
+date=2017-12-18
+URL=https://openload.co/f/E9jyxATLW-Q/Kingsman%3A_The_Golden_Circle_%282017%29%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99%3A_%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%95%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C.mp4
+#https://openload.co/f/E4LYH8kzaoQ/Kingsman%3A_The_Golden_Circle_%282017%29%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C.mp4
 #https://openload.co/f/K8RQiOfBpP0/Kingsman%3A_The_Golden_Circle_%282017%29%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://storage.googleapis.com/mlk-s/skl9ae2qp/KINGSMAN%20THE%20GOLDEN%20CIRCLE%20(2017)%20%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99%20%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C1080.MP4
 #https://streamango.com/f/amlbkcpmdsoaobqm/Kingsman_The_Golden_Circle_2017_TS_720p_ThaiRong_2_0_CpT_CtHts_mkv_mp4
