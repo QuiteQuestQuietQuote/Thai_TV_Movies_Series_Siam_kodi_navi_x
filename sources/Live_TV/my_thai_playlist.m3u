@@ -26,7 +26,7 @@ http://symc-cdn02.bkk01.violin.co.th:1935/liveedge/308360140120_600/chunklist.m3
 
 
 #EXTINF:-1,Nation TV
-http://symc-cdn01.bkk02.violin.co.th:1935/liveedge/308498221057_600/chunklist.m3u8
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308498221057_600/chunklist.m3u8
 
 
 
@@ -37,12 +37,11 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1,MONEY CHANNEL
-http://191.96.38.61:443/news/money_channel_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+http://live4.netdesignhost.com/moneychannellive/moneychannellive/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1,NHK WORLD HD
@@ -61,6 +60,10 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CNN_INTERNACIONAL)/
 
 #EXTINF:-1,CHANNEL NEWSASIA
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+
+#EXTINF:-1,MONEY CHANNEL
+http://191.96.38.61:443/news/money_channel_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+
 
 #EXTINF:-1,MONEY CHANNEL
 http://183.88.212.205:8010/play/a02s
@@ -1129,6 +1132,144 @@ http://27.254.63.132:1935/live/_definst_/movie3.stream/playlist.m3u8?username=te
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1,Movistar DEP 1 HD          
+http://46.35.123.162:8000/play/MovistarDEP1HD
+#EXTINF:-1,LALIGATVBAR1          
+http://46.35.123.162:8000/play/LALIGATVBAR1
+#EXTINF:-1,NAT GEO HD          
+http://46.35.123.162:8000/play/NATGEOHD
+#EXTINF:-1,TELECINCO HD          
+http://46.35.123.162:8000/play/TELECINCOHD
+#EXTINF:-1,TOROS TV HD          
+http://46.35.123.162:8000/play/TOROSTVHD
+#EXTINF:-1,EUROSPORT1 HD          
+http://46.35.123.162:8000/play/EUROSPORT1HD
+#EXTINF:-1,Movistar Piartidazo HD          
+http://46.35.123.162:8000/play/MovistarPartidazoHD
+#EXTINF:-1,MULTIFUT          
+http://46.35.123.162:8000/play/MULTIFUT4
+#EXTINF:-1,Movistar Partidazo SD          
+http://46.35.123.162:8000/play/MovistarPartidazoSD
+#EXTINF:-1,BEINLALIGA1          
+http://46.35.123.162:8000/play/BEINLALIGA1
+#EXTINF:-1,BEINLALIGA2          
+http://46.35.123.162:8000/play/BEINLALIGA2
+#EXTINF:-1,BEIN MAX 6          
+http://46.35.123.162:8000/play/BEINMAX6
+#EXTINF:-1,AMC HD          
+http://46.35.123.162:8000/play/AMCHD
+#EXTINF:-1,Movistra FUTBOL HD          
+http://46.35.123.162:8000/play/MovistraFUTBOLHD
+#EXTINF:-1,Movistar DEP 2 HD          
+http://46.35.123.162:8000/play/MovistarDEP2HD
+#EXTINF:-1,NICK JR          
+http://46.35.123.162:8000/play/NICKJR
+#EXTINF:-1,HOLLYWOOD HD          
+http://46.35.123.162:8000/play/HOLLYWOODHD
+#EXTINF:-1,BEIN MAX 1          
+http://46.35.123.162:8000/play/BEINMAX1
+#EXTINF:-1,BEIN LALIGA          
+http://46.35.123.162:8000/play/BEINLALIGA
+#EXTINF:-1,CUATRO HD          
+http://46.35.123.162:8000/play/CUATROHD
+#EXTINF:-1,Movistar GOLF HD          
+http://46.35.123.162:8000/play/MovistarGOLFHD
+#EXTINF:-1,Movistar COMEDIA HD          
+http://46.35.123.162:8000/play/MovistarCOMEDIAHD
+#EXTINF:-1,MEZZO          
+http://46.35.123.162:8000/play/MEZZO
+#EXTINF:-1,#0 HD          
+http://46.35.123.162:8000/play/#0HD
+#EXTINF:-1,BEIN MAX 7          
+http://46.35.123.162:8000/play/BEINMAX7
+#EXTINF:-1,MULTIDEP.5          
+http://46.35.123.162:8000/play/MULTIDEP5
+#EXTINF:-1,Movistar SERIES HD          
+http://46.35.123.162:8000/play/MovistarSERIESHD
+#EXTINF:-1,SYFY HD          
+http://46.35.123.162:8000/play/SYFYHD
+#EXTINF:-1,Movistar MOTOGP HD          
+http://46.35.123.162:8000/play/MovistarMOTOGPHD
+#EXTINF:-1,MOVISTAR DCINE HD          
+http://46.35.123.162:8000/play/MOVISTARDCINEHD
+#EXTINF:-1,TNT HD          
+http://46.35.123.162:8000/play/TNTHD
+#EXTINF:-1,MULTIDEPORTE          
+http://46.35.123.162:8000/play/MULTIDEPORTE
+#EXTINF:-1,Movistar ACCION HD          
+http://46.35.123.162:8000/play/MovistarACCIONHD
+#EXTINF:-1,TCM HD          
+http://46.35.123.162:8000/play/TCMHD
+#EXTINF:-1,ANTENA 3 HD          
+http://46.35.123.162:8000/play/ANTENA3HD
+#EXTINF:-1,AXN WHITE HD          
+http://46.35.123.162:8000/play/AXNWHITEHD
+#EXTINF:-1,FOX LIFE HD          
+http://46.35.123.162:8000/play/FOXLIFEHD
+#EXTINF:-1,Movistar ESTRENOS HD          
+http://46.35.123.162:8000/play/MovistarESTRENOSHD
+#EXTINF:-1,CALLE 13 HD          
+http://46.35.123.162:8000/play/CALLE13HD
+#EXTINF:-1,LA SEXTA HD          
+http://46.35.123.162:8000/play/LASEXTAHD
+#EXTINF:-1,BEIN SPORTS HD          
+http://46.35.123.162:8000/play/BEINSPORTSHD
+#EXTINF:-1,BEIN MAX 2          
+http://46.35.123.162:8000/play/BEINMAX2
+#EXTINF:-1,VIAJAR HD          
+http://46.35.123.162:8000/play/VIAJARHD
+#EXTINF:-1,DISNEY CH HD          
+http://46.35.123.162:8000/play/DISNEYCHHD
+#EXTINF:-1,BEINLALIGA4          
+http://46.35.123.162:8000/play/BEINLALIGA4
+#EXTINF:-1,CANAL ORBE21          
+http://46.35.123.162:8000/play/CANALORBE21
+#EXTINF:-1,MULTIFUT. 1          
+http://46.35.123.162:8000/play/MULTIFUT1
+#EXTINF:-1,Movistar SERIES SD          
+http://46.35.123.162:8000/play/MovistarSERIES SD
+#EXTINF:-1,COSMO HD          
+http://46.35.123.162:8000/play/COSMOHD
+#EXTINF:-1,Movistar Series Xtra HD          
+http://46.35.123.162:8000/play/MovistarSeriesXtraHD
+#EXTINF:-1,Movistar FORMULA1 HD          
+http://46.35.123.162:8000/play/MovistarFORMULA1HD
+#EXTINF:-1,AXN HD          
+http://46.35.123.162:8000/play/AXNHD
+#EXTINF:-1,SUNDANCE          
+http://46.35.123.162:8000/play/SUNDANCE
+#EXTINF:-1,Movistar XTRA HD          
+http://46.35.123.162:8000/play/MovistarXTRAHD
+#EXTINF:-1,ALQUILER 1          
+http://46.35.123.162:8000/play/ALQUILER1
+#EXTINF:-1,BEIN LALIGA HD          
+http://46.35.123.162:8000/play/BEINLALIGAHD
+#EXTINF:-1,FOX HD          
+http://46.35.123.162:8000/play/FOXHD
+#EXTINF:-1,NICKELODEON HD          
+http://46.35.123.162:8000/play/NICKELODEONHD
+#EXTINF:-1,LALIGATV BAR          
+http://46.35.123.162:8000/play/LALIGATVBAR
+#EXTINF:-1,NG WILD HD          
+http://46.35.123.162:8000/play/NGWILDHD
+#EXTINF:-1,LA 1 HD          
+http://46.35.123.162:8000/play/LA1HD
+#EXTINF:-1,COMEDY CENTRAL HD          
+http://46.35.123.162:8000/play/COMEDYCENTRALHD
+#EXTINF:-1,CAZA y PESCA HD          
+http://46.35.123.162:8000/play/CAZAyPESCAHD
+#EXTINF:-1,MEZZO LIVE HD          
+http://46.35.123.162:8000/play/MEZZOLIVEHD
+#EXTINF:-1,BEINLALIGA8          
+http://46.35.123.162:8000/play/BEINLALIGA8
 
 
 

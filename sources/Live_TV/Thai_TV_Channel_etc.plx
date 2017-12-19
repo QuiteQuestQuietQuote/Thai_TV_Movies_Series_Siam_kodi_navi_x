@@ -100,7 +100,7 @@ rating=-1.00
 type=video
 name=Nation TV
 thumb=https://2.bp.blogspot.com/-o7s4RRz4ppM/V7Sh7FTCXZI/AAAAAAAAnXE/eq39whb7Cr0DbQt7THIzcIVaokWhtEWsQCLcB/s1600/1.jpg
-URL=http://symc-cdn01.bkk02.violin.co.th:1935/liveedge/308498221057_600/chunklist.m3u8
+URL=http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308498221057_600/chunklist.m3u8
 player=default
 rating=-1.00
 
