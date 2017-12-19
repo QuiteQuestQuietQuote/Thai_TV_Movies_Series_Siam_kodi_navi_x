@@ -20,7 +20,6 @@ rating=-1.00
 
 
 
-
 type=video
 name=
 thumb=https://4.bp.blogspot.com/-q3FCvo_BtWw/WdLY23tF_4I/AAAAAAAAAJE/PnQtW3AhDKcpITTVadnjDOyrsx5Vcb-nQCLcBGAs/s320/054.png
@@ -69,6 +68,25 @@ URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.blu
 
 
 
+
+
+type=video
+name=Just Getting Started (2017) ENG CAM.READNFO.XViD-26k
+thumb=https://image.tmdb.org/t/p/w640/70eVsU4nvVidEs7mpPcEcBlIpmx.jpg
+date=2017-12-19
+URL=https://openload.co/f/VXxQVaOTzoI/Just.Getting.Started.2017.CAM.READNFO.XViD-26k.avi.mp4
+
+type=video
+name=Rebel in the Rye (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/fjmMtBIqg65MPOJXOtoLCKYjVUn.jpg
+date=2017-12-19
+URL=https://openload.co/f/Dz3XigJcYv8/Rebel_In_the_Rye_2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Battle of the Sexes (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/v3y96NrwyBxqNhVpHIBZix0uPKP.jpg
+date=2017-12-19
+URL=https://openload.co/f/rEJOPUmaVZg/Battle.of.the.Sexes.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=The Killing of a Sacred Deer (2017) ENG WEB-DL.H264.AC3BB-EVO
@@ -218,11 +236,15 @@ URL=https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.m
 type=video
 name=
 thumb=
-date=2017-12-04
+date=2017-12-19
 URL=
 
 
-
+type=video
+name=Brad's Status (2017) WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/uXiNpvig7EMq18VyNBUTlWrmN0q.jpg
+date=2017-12-19
+URL=https://openload.co/f/QOjvA2sAUH4/Brads.Status.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=Love Beats Rhymes (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -876,11 +898,7 @@ URL=https://openload.co/f/iEnVUcMakoE/Zombies.2017.WEB-DL.x264-FGT.mp4
 
 
 
-type=video
-name=Cabin 28 (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/crvqys951H0yVoPR38oSg6YAxSj.jpg
-date=2017-09-27
-URL=https://openload.co/f/ceMB5RDxNkE/Cabin_28.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 
 
@@ -917,11 +935,7 @@ thumb=https://image.tmdb.org/t/p/w640/hfrkWkCa5ARASkxE8pgQvFT6MHJ.jpg
 date=2017-09-19
 URL=https://openload.co/f/4JeAAEyQ7Cg/Negative.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=Killing Gunther (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/nFrkrNFDqfHboa2GSycmUXND0od.jpg
-date=2017-09-22
-URL=https://openload.co/f/UlVFpNK1qUE/Killing.Gunther.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Last Rampage (2017) ENG HDRip.XviD.AC3-EVO
@@ -1107,7 +1121,7 @@ URL=https://www.blazefile.co/embed-h25coos10uwx.html
 type=video
 name=
 thumb=
-date=2017-12-15
+date=2017-12-19
 URL=
 
 
@@ -1115,6 +1129,23 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=Killing Gunther (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/nFrkrNFDqfHboa2GSycmUXND0od.jpg
+date=2017-12-19
+URL=https://openload.co/f/-SUsdBHrx3M/Killing.Gunther.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/UlVFpNK1qUE/Killing.Gunther.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://www.blazefile.co/embed-numt3gh4a7nc.html   720
+
+type=video
+name=Mother Krampus (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/sFxUuhkiMdpTYZrURrW0OxVrlJS.jpg
+date=2017-12-19
+URL=https://openload.co/f/oMtcPKwJHiE/12.deaths.of.christmas.2017.1080p.bluray.x264-getit.mkv.mp4
 
 type=video
 name=Peelers (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1145,15 +1176,7 @@ date=2017-12-09
 URL=https://openload.co/f/tT-Www94b0k/The.Middle.Finger.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 #https://www.blazefile.co/embed-6a3ud7cokc3u.html   720
 
-type=video
-name=Jeepers Creepers III (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/iw4zbtCw01JhTMpFtyYBKEDPBSL.jpg
-date=2017-12-09
-URL=https://www.blazefile.co/embed-gx2v6bptqus2.html
-#https://openload.co/f/acgUOiVfdXI/jeepers.creepers.iii.2017.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/nBT0KK06WCQ/Jeepers_Creepers_3_2017_720p.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/PyY9phQMIeo/Jeepers.Creepers.3.2017.HDCAM.x264-DiRG.mp4
-#https://openload.co/f/ixfU_gOrA_4/Jeepers.Creepers.3.2017.HDCAM.x264-DiRG.mp4
+
 
 type=video
 name=Stronger (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2240,6 +2263,7 @@ name=Hampstead (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/sweENd2Vc0mQcKfkEzEbaLYbdZr.jpg
 date=2017-12-18
 URL=https://www.blazefile.co/embed-5ac6e5s696ay.html
+#https://openload.co/f/LR3LfJ--HP4/Hampstead.2017.720p.BluRay.x264.DTS-FGT.mkv.mp4
 #https://openload.co/f/cnJeexUMpD8/hampstead.2017.dvdrip.x264-cadaver.mkv
 #https://openload.co/f/xJczR6t1uPw/Hampstead.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
@@ -2512,6 +2536,24 @@ thumb=
 date=2017-12-18
 URL=
 
+
+
+
+
+type=video
+name=Jeepers Creepers III (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/iw4zbtCw01JhTMpFtyYBKEDPBSL.jpg
+date=2017-12-09
+URL=https://www.blazefile.co/embed-gx2v6bptqus2.html
+#https://openload.co/f/acgUOiVfdXI/jeepers.creepers.iii.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/nBT0KK06WCQ/Jeepers_Creepers_3_2017_720p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/PyY9phQMIeo/Jeepers.Creepers.3.2017.HDCAM.x264-DiRG.mp4
+#https://openload.co/f/ixfU_gOrA_4/Jeepers.Creepers.3.2017.HDCAM.x264-DiRG.mp4
+type=video
+name=Jeepers Creepers III (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/iw4zbtCw01JhTMpFtyYBKEDPBSL.jpg
+date=2017-12-19
+URL=https://streamango.com/f/ptlmlcadntoplaes/Jeepers_Creepers_3_2017_1080p_HDTV_SUBTH_mp4
 
 
 type=video
@@ -3186,6 +3228,7 @@ thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
 date=2017-12-18
 URL=https://www.blazefile.co/embed-q667k4nwoj75.html
 #https://openload.co/f/7cLTq13YlXs/It_2017_1080p_BluRay_x264-SPARKS.mp4
+#https://openload.co/f/uWC3435kK30/It.2017.PROPER.720p.BluRay.X264-DEFLATE.mkv.mp4
 #https://openload.co/f/jjEyFpoFS7E/IT.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/znDy--tZHnA/IT.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 type=video
