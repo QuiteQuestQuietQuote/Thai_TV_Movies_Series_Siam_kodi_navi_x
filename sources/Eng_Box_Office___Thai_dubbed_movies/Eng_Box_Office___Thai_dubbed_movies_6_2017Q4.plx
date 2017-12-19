@@ -142,10 +142,11 @@ URL=https://openload.co/f/o1StljESgxI/Suburbicon_2017_HDCAM_ENG_X264-DADDY.mkv.m
 #https://openload.co/f/r5XhzYpBWqc/Suburbicon.2017.Russian.CAMRip.1400MB-KOSHARA.avi.mp4
 
 type=video
-name=Paddington 2 (2017) RUS
+name=Paddington 2 (2017) ENG SeeHD
 thumb=https://image.tmdb.org/t/p/w640/bU5pSpQfXRmqDd6jthmP8iWJOjd.jpg
-date=2017-11-27
-URL=https://openload.co/f/DphGbZSuthQ/Paddington_2_2017_Russian_TELESYNC.avi.mp4
+date=2017-12-19
+URL=https://openload.co/f/lqi9R7FoGoQ/Paddington_2_%282017%29_SeeHD.mp4
+#https://openload.co/f/DphGbZSuthQ/Paddington_2_2017_Russian_TELESYNC.avi.mp4
 #https://openload.co/f/O5MG7v4Xa2E/Paddington.2.2017.iTALiAN.LD.TELESYNC.XviD_CriMiNaL.mp4
 
 type=video
@@ -505,12 +506,7 @@ thumb=https://image.tmdb.org/t/p/w640/dsFUHJgMVViUsRggDThtwRPmS9i.jpg
 date=2017-11-12
 URL=https://www.blazefile.co/embed-5rw8pszphiuv.html
 
-type=video
-name=Mayhem (2017) ENG WEB-DL DD5.1 H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/ukWhLHAUCtXPsCJRF9a7emGDgkU.jpg
-date=2017-11-11
-URL=https://www.blazefile.co/embed-si94gfpdvt8b.html
-#https://openload.co/f/W1e5DEGHQv8/Mayhem.2017.WEB-DL.x264-FGT.mp4
+
 
 type=video
 name=Champion (2017) ENG dvdrip.x264-lpd
@@ -1131,7 +1127,13 @@ URL=
 
 
 
-
+type=video
+name=Mayhem (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/ukWhLHAUCtXPsCJRF9a7emGDgkU.jpg
+date=2017-12-19
+URL=https://openload.co/f/bAfKrdI1DdM/Mayhem.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://www.blazefile.co/embed-si94gfpdvt8b.html   web
+#https://openload.co/f/W1e5DEGHQv8/Mayhem.2017.WEB-DL.x264-FGT.mp4
 
 type=video
 name=Killing Gunther (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
