@@ -27,6 +27,15 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
+
+type=playlist
+name=JAV_38_18up_YAM
+thumb=http://javsex.net/wp-content/uploads/2017/08/25595.jpg
+date=2017-12-19
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_38_18up_YAM.plx
+player=default
+rating=-1.00
+
 type=playlist
 name=JAV_37_18up_YAM
 thumb=http://javsex.net/wp-content/uploads/2017/03/19490.jpg
