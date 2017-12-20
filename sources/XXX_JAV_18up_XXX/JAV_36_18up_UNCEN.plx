@@ -54,6 +54,122 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=192xxxxxxxxxxxxxxxxxxxx1PONDO 080814-003 Original Drama Collection Haruna Ikoma 
+thumb=http://javsex.net/wp-content/uploads/2016/10/1196.jpg
+date=2017-12-20
+URL=http://s001.yamvideo.com/3675-stream/e/uncen/002/8ca4faa6c19922322b91ff235c82e4f4.mp4
+
+type=video
+name=1PONDO 121413-715 Gradol Makoto Kasai
+thumb=http://javsex.net/wp-content/uploads/2016/10/1278.jpg
+date=2017-12-20
+URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/543a16b21124ff6e04da6d0fa156107b.mp4
+
+type=video
+name=1pondo 091114-879 Drama Collection Aino Nami 
+thumb=http://javsex.net/wp-content/uploads/2016/11/1380.jpg
+date=2017-12-20
+URL=http://s001.yamvideo.com/3675-stream/vip-720-mp4-2/e69c470662eb4d4e2d47dbd5d05655ab.mp4
+
+type=video
+name=1PONDO 102512-457 Drama Collection Tsukasa Makino
+thumb=http://javsex.net/wp-content/uploads/2016/10/1437.jpg
+date=2017-12-20
+URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/f31acc8b79d0f6a430c67877e2b13e54.mp4
+
+type=video
+name=HEYZO-0625 Humiliation Of A Cosplayer
+thumb=http://javsex.net/wp-content/uploads/2016/10/1516.jpg
+date=2017-12-20
+URL=http://s001.yamvideo.com/3678-stream/e/003/4998abb46241d931cb3961ee304d1ed3.mp4
+
+
+type=video
+name=HEYZO-0408 Beautiful Girl&#8217;s After School Life No.1
+thumb=http://javsex.net/wp-content/uploads/2016/10/1553.jpg
+date=2017-12-20
+URL=http://s001.yamvideo.com/3678-stream/vip-720/2f6088dbbe7670cc4540feaeda33afe4.mp4
+
+type=video
+name=10MU 121413-01 China Tamaki
+thumb=http://javsex.net/wp-content/uploads/2016/10/1712.jpg
+date=2017-12-20
+URL=http://s001.yamvideo.com/3678-stream/e/vip-ok-p720-co1080-fix/c747b0b1c95fa522b42043de77ef2612.mp4
+
+type=video
+name=10MU 071914-01 Minami Akiyoshi
+thumb=http://javsex.net/wp-content/uploads/2016/10/1780.jpg
+date=2017-12-20
+URL=http://s001.yamvideo.com/3678-stream/e/vip-720-mp4-002-bitrate/8b58758b4ca127e288c1026e9a1534da.mp4
+
+type=video
+name=10MU 111914-01 Yanaka Harumi
+thumb=http://javsex.net/wp-content/uploads/2016/10/1832.jpg
+date=2017-12-20
+URL=http://s001.yamvideo.com/3678-stream/e/vip-720-mp4-002-bitrate/267d142fe5679fd4e18cf7c588621a61.mp4
+
+type=video
+name=Tokyo Hot N0610 Cock Lover Teacher
+thumb=http://javsex.net/wp-content/uploads/2016/10/2004.jpg
+date=2017-12-20
+URL=http://s001.yamvideo.com/3675-stream/vip-720-mp4-2/db28a024b0e6bc3a04656e20451f218c.mp4
+
+
+type=video
+name=Tokyo Hot N1083 Multiple Cum Slender Girl 
+thumb=http://javsex.net/wp-content/uploads/2016/10/2285.jpg
+date=2017-12-20
+URL=http://s001.yamvideo.com/3678-stream/vip-720/ce1fcf3c1a4ef3643f9b0d2bbc9c7cc6.mp4
+
+type=video
+name=10MU 092515-01 Yumiko Fujita 
+thumb=http://javsex.net/wp-content/uploads/2016/10/2051.jpg
+date=2017-12-20
+URL=http://s001.yamvideo.com/3675-stream/e/uncen/001/5be97c1c717b2d620a641dfe2fab4a69.mp4
+
+type=video
+name=HEYZO-0789 Erotic Study Time
+thumb=http://javsex.net/wp-content/uploads/2016/10/2856.jpg
+date=2017-12-20
+URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/664f85496b473d2cf8bcac28297176aa.mp4
+
+type=video
+name=HEYZO-0995 Mao Saito
+thumb=http://javsex.net/wp-content/uploads/2016/10/3342.jpg
+date=2017-12-20
+URL=http://s001.yamvideo.com/3678-stream/e/vip720-005/82ba1fa76f71380bf1998d13d494b0d5.mp4
+
+type=video
+name=CARIB 111815-024 Hasumi
+thumb=http://javsex.net/wp-content/uploads/2016/10/3731.jpg
+date=2017-12-20
+URL=http://s001.yamvideo.com/3678-stream/e/003/94f3a3046860eb3c829d8ed9cc415963.mp4
+
+
+type=video
+name=CARIB 120415-038 Misuzu Tachibana 
+thumb=http://javsex.net/wp-content/uploads/2016/10/3936.jpg
+date=2017-12-20
+URL=http://s001.yamvideo.com/3678-stream/e/003/207c54a31f304eb2927ca4fd297aead0.mp4
+
+
+
+
+
+
+
 type=video
 name=176xxxxxxxxxxxxxxxxxxxx10MU 080614-01 Ohno Misa 
 thumb=http://javsex.net/wp-content/uploads/2016/10/1799.jpg
