@@ -35,10 +35,10 @@ http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308498221057_600/chunklist.m3
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 
-
-
 #EXTINF:-1,MONEY CHANNEL
-http://live4.netdesignhost.com/moneychannellive/moneychannellive/playlist.m3u8
+http://191.96.38.61:443/news/money_channel_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+
+
 
 
 
@@ -62,10 +62,10 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CNN_INTERNACIONAL)/
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
 
 #EXTINF:-1,MONEY CHANNEL
-http://191.96.38.61:443/news/money_channel_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+http://live4.netdesignhost.com/moneychannellive/moneychannellive/playlist.m3u8
 
 
-#EXTINF:-1,MONEY CHANNEL
+#EXTINF:-1,MONEY CHANNEL_M
 http://183.88.212.205:8010/play/a02s
 
 

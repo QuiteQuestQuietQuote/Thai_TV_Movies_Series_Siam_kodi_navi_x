@@ -20,6 +20,7 @@ rating=-1.00
 
 
 
+
 type=video
 name=
 thumb=https://4.bp.blogspot.com/-q3FCvo_BtWw/WdLY23tF_4I/AAAAAAAAAJE/PnQtW3AhDKcpITTVadnjDOyrsx5Vcb-nQCLcBGAs/s320/054.png
@@ -241,11 +242,7 @@ date=2017-12-19
 URL=
 
 
-type=video
-name=Brad's Status (2017) WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/uXiNpvig7EMq18VyNBUTlWrmN0q.jpg
-date=2017-12-19
-URL=https://openload.co/f/QOjvA2sAUH4/Brads.Status.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=Love Beats Rhymes (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -330,11 +327,7 @@ date=2017-11-14
 URL=https://openload.co/f/RtjAPjl12-M/Marshall.2017.Movies.HD.TS.x264.Clean.Audio.AAC.New.Source.rDX.mkv.mp4
 #https://openload.co/f/8UKPBGPLaDk/Marshall.2017.CAM.READNFO.XViD-26k.avi.mp4
 
-type=video
-name=A Question of Faith (2017) ENG CAM.XViD-26k
-thumb=https://image.tmdb.org/t/p/w640/mXUVhSHKv7aGwDCnsa8UBbW7G0p.jpg
-date=2017-11-12
-URL=https://openload.co/f/G_O3vn4J5ao/A.Question.of.Faith.2017.CAM.XViD-26k.avi.mp4
+
 
 
 
@@ -561,12 +554,7 @@ URL=https://openload.co/f/9FjyQeOnc4Q/Wolf.Mother.2016.1080p.WEBRip.x264-iNTENSO
 
 
 
-type=video
-name=Brad's Status (2017) ENG HC.HDRip.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/uXiNpvig7EMq18VyNBUTlWrmN0q.jpg
-date=2017-10-28
-URL=https://openload.co/f/lYMpDxsb1UI/Brads.Status.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-https://openload.co/f/UyC0uF7AyD8/Brads.Status.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+
 
 
 
@@ -1026,10 +1014,11 @@ date=2017-08-25
 URL=https://openload.co/f/hEe55YrjiTM/DN.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
-name=Deep (2017) ENG WEBRip.x264-RARBG
+name=Deep (2017) ENG dvdrip.x264.fragment
 thumb=https://image.tmdb.org/t/p/w640/14mEMC6rRNedvaz1d5sfLX8uRGt.jpg
-date=2017-11-29
-URL=https://openload.co/f/-qn2CAAEOWY/Deep.2017.WEBRip.x264-RARBG.mp4
+date=2017-12-20
+URL=https://openload.co/f/smkyhOXIZKc/deep.2017.dvdrip.x264.fragment.mkv.mp4
+#https://openload.co/f/-qn2CAAEOWY/Deep.2017.WEBRip.x264-RARBG.mp4
 #https://openload.co/f/_s_f41ayWNo/Deep.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
@@ -1117,7 +1106,7 @@ URL=https://www.blazefile.co/embed-h25coos10uwx.html
 type=video
 name=
 thumb=
-date=2017-12-19
+date=2017-12-20
 URL=
 
 
@@ -1125,21 +1114,36 @@ URL=
 
 
 
+type=video
+name=
+thumb=
+date=2017-12-20
+URL=
 
+
+
+type=video
+name=Brad's Status (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/uXiNpvig7EMq18VyNBUTlWrmN0q.jpg
+date=2017-12-20
+URL=https://openload.co/f/pL-UOT5IBME/Brads.Status.2017.1080p.BluRay.H264.AACbb-RARBG.mp4
+#https://openload.co/f/QOjvA2sAUH4/Brads.Status.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=Mayhem (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/ukWhLHAUCtXPsCJRF9a7emGDgkU.jpg
-date=2017-12-19
-URL=https://openload.co/f/bAfKrdI1DdM/Mayhem.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
+date=2017-12-20
+URL=https://www.blazefile.co/embed-nzlh323o7l53.html
+#https://openload.co/f/bAfKrdI1DdM/Mayhem.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://www.blazefile.co/embed-si94gfpdvt8b.html   web
 #https://openload.co/f/W1e5DEGHQv8/Mayhem.2017.WEB-DL.x264-FGT.mp4
 
 type=video
 name=Killing Gunther (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/nFrkrNFDqfHboa2GSycmUXND0od.jpg
-date=2017-12-19
-URL=https://openload.co/f/-SUsdBHrx3M/Killing.Gunther.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2017-12-20
+URL=https://www.blazefile.co/embed-3zr3akou9mat.html
+#https://openload.co/f/-SUsdBHrx3M/Killing.Gunther.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/UlVFpNK1qUE/Killing.Gunther.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://www.blazefile.co/embed-numt3gh4a7nc.html   720
 
@@ -1148,6 +1152,7 @@ name=Mother Krampus (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/sFxUuhkiMdpTYZrURrW0OxVrlJS.jpg
 date=2017-12-19
 URL=https://openload.co/f/oMtcPKwJHiE/12.deaths.of.christmas.2017.1080p.bluray.x264-getit.mkv.mp4
+#https://www.blazefile.co/embed-1a6k5n7nz2oi.html   720
 
 type=video
 name=Peelers (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2269,7 +2274,24 @@ URL=https://www.blazefile.co/embed-5ac6e5s696ay.html
 #https://openload.co/f/cnJeexUMpD8/hampstead.2017.dvdrip.x264-cadaver.mkv
 #https://openload.co/f/xJczR6t1uPw/Hampstead.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
+type=video
+name=Heartbeats (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/bOsJaWgUGIjCbqz8WVYgo5fNqfy.jpg
+date=2017-12-20
+URL=https://www.blazefile.co/embed-z8etbijph8ls.html
 
+type=video
+name=A Question of Faith (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/mXUVhSHKv7aGwDCnsa8UBbW7G0p.jpg
+date=2017-12-20
+URL=https://openload.co/f/hWolYYqcQSA/a.question.of.faith.2017.720p.bluraybb.mp4
+#https://openload.co/f/G_O3vn4J5ao/A.Question.of.Faith.2017.CAM.XViD-26k.avi.mp4
+
+type=video
+name=Breathe (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/wLu2N0QVfSpk10RJ17HLHyRUmww.jpg
+date=2017-12-20
+URL=https://openload.co/f/nIYkXH6DkWM/breathe.2017.720p.blurayb.mp4
 
 
 
