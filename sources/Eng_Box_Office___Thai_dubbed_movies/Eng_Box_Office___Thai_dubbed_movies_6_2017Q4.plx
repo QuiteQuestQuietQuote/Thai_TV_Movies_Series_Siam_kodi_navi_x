@@ -143,10 +143,11 @@ URL=https://openload.co/f/o1StljESgxI/Suburbicon_2017_HDCAM_ENG_X264-DADDY.mkv.m
 #https://openload.co/f/r5XhzYpBWqc/Suburbicon.2017.Russian.CAMRip.1400MB-KOSHARA.avi.mp4
 
 type=video
-name=Paddington 2 (2017) ENG SeeHD
+name=Paddington 2 (2017) ENG TS.XViD-26k
 thumb=https://image.tmdb.org/t/p/w640/bU5pSpQfXRmqDd6jthmP8iWJOjd.jpg
-date=2017-12-19
-URL=https://openload.co/f/lqi9R7FoGoQ/Paddington_2_%282017%29_SeeHD.mp4
+date=2017-12-21
+URL=https://openload.co/f/qfpasQHuWo4/Paddington.2.2017.TS.XViD-26k.avi.mp4
+#https://openload.co/f/lqi9R7FoGoQ/Paddington_2_%282017%29_SeeHD.mp4
 #https://openload.co/f/DphGbZSuthQ/Paddington_2_2017_Russian_TELESYNC.avi.mp4
 #https://openload.co/f/O5MG7v4Xa2E/Paddington.2.2017.iTALiAN.LD.TELESYNC.XviD_CriMiNaL.mp4
 
@@ -313,10 +314,11 @@ date=2017-11-17
 URL=https://openload.co/f/Zf18_Paljkk/Cook.Off.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
-name=The Snowman (2017) ENG HC.HDRip.X264-EVO
+name=The Snowman (2017) ENG WEB%3EB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg
-date=2017-12-12
-URL=https://openload.co/f/jL6xjg91GU4/The.Snowman.2017.720p.HC.HDRip.X264-EVO.mkv.mp4
+date=2017-12-21
+URL=https://openload.co/f/PTyemixWhCc/The.Snowman.2017.1080p.WEB%3EB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/jL6xjg91GU4/The.Snowman.2017.720p.HC.HDRip.X264-EVO.mkv.mp4
 #https://openload.co/f/HNC97bcNWUU/The_Snowman_2017_Movies_HD_Cam_x264_Clean_Audio_AAC_New_Source_%5BrDX%5D.mkv.mp4
 #https://openload.co/f/mTFsFIWDkm4/The_Snowman_2017_NOLOGO_HDCAM_X264_HQMic-DADDY.mp4
 
@@ -1121,13 +1123,31 @@ date=2017-12-20
 URL=
 
 
+type=video
+name=Breathe (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/wLu2N0QVfSpk10RJ17HLHyRUmww.jpg
+date=2017-12-21
+URL=https://www.blazefile.co/embed-k2lyzf0b0lvh.html
+#https://openload.co/f/4WI9mrrk0X8/Breathe.2017.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/nIYkXH6DkWM/breathe.2017.720p.blurayb.mp4
+
+type=video
+name=A Question of Faith (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/mXUVhSHKv7aGwDCnsa8UBbW7G0p.jpg
+date=2017-12-21
+URL=https://openload.co/f/M9c0VPaJxu0/A.Question.of.Faith.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/hWolYYqcQSA/a.question.of.faith.2017.720p.bluraybb.mp4
+#https://openload.co/f/G_O3vn4J5ao/A.Question.of.Faith.2017.CAM.XViD-26k.avi.mp4
+#https://www.blazefile.co/embed-36ahz29mjq27.html   720
 
 type=video
 name=Brad's Status (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/uXiNpvig7EMq18VyNBUTlWrmN0q.jpg
-date=2017-12-20
-URL=https://openload.co/f/pL-UOT5IBME/Brads.Status.2017.1080p.BluRay.H264.AACbb-RARBG.mp4
+date=2017-12-21
+URL=https://openload.co/f/evgib1KZj9Y/Brads.Status.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/pL-UOT5IBME/Brads.Status.2017.1080p.BluRay.H264.AACbb-RARBG.mp4
 #https://openload.co/f/QOjvA2sAUH4/Brads.Status.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://www.blazefile.co/embed-qw7geiymtf9x.html   720
 
 type=video
 name=Mayhem (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1141,8 +1161,9 @@ URL=https://www.blazefile.co/embed-nzlh323o7l53.html
 type=video
 name=Killing Gunther (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/nFrkrNFDqfHboa2GSycmUXND0od.jpg
-date=2017-12-20
+date=2017-12-21
 URL=https://www.blazefile.co/embed-3zr3akou9mat.html
+#https://openload.co/f/LkFOksAeuJA/Killing.Gunther.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 #https://openload.co/f/-SUsdBHrx3M/Killing.Gunther.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/UlVFpNK1qUE/Killing.Gunther.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://www.blazefile.co/embed-numt3gh4a7nc.html   720
@@ -1214,8 +1235,9 @@ URL=https://www.blazefile.co/embed-nf0casxh83fb.html
 type=video
 name=Blood Money (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/yCvcvsP3w4CyiB3CLTxwaHBpKro.jpg
-date=2017-12-08
-URL=https://openload.co/f/IdrwKC0NbKA/Blood.Money.2017.1080p.BluRay.x264.DTS-MT.mkv.mp4
+date=2017-12-21
+URL=https://openload.co/f/FoP6s7fzvLk/blood.money.2017.1080p.bluray.x264-cinefile.mkv.mp4
+#https://openload.co/f/IdrwKC0NbKA/Blood.Money.2017.1080p.BluRay.x264.DTS-MT.mkv.mp4
 #https://openload.co/f/Z947PbKkzUY/Blood_Money_%282017%29.WEB-DL.XviD.AC3-FGT.avi.mp4
 #https://www.blazefile.co/embed-ww9xu14h4sgb.html   720
 
@@ -2280,18 +2302,8 @@ thumb=https://image.tmdb.org/t/p/w640/bOsJaWgUGIjCbqz8WVYgo5fNqfy.jpg
 date=2017-12-20
 URL=https://www.blazefile.co/embed-z8etbijph8ls.html
 
-type=video
-name=A Question of Faith (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/mXUVhSHKv7aGwDCnsa8UBbW7G0p.jpg
-date=2017-12-20
-URL=https://openload.co/f/hWolYYqcQSA/a.question.of.faith.2017.720p.bluraybb.mp4
-#https://openload.co/f/G_O3vn4J5ao/A.Question.of.Faith.2017.CAM.XViD-26k.avi.mp4
 
-type=video
-name=Breathe (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/wLu2N0QVfSpk10RJ17HLHyRUmww.jpg
-date=2017-12-20
-URL=https://openload.co/f/nIYkXH6DkWM/breathe.2017.720p.blurayb.mp4
+
 
 
 
@@ -2370,10 +2382,11 @@ URL=http://203.162.235.41:17819
 
 
 type=video
-name=Star Wars: The Last Jedi (2017) ENG x264_HQMIC-DADDY
+name=Star Wars: The Last Jedi (2017) ENG hdcam_SeeHD
 thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
-date=2017-12-16
-URL=https://openload.co/f/UrK6v2uPmbQ/Star_Wars_The_Last_Jedi_2017_FULL_HDCAM_ENGLiSH_x264_HQMIC-DADDY.mkv.mp4
+date=2017-12-21
+URL=https://openload.co/f/ZTakoaEg4C8/Star_Wars%3A_The_Last_Jedi_%282017%29.720p.hdcam_SeeHD.mkv.mp4
+#https://openload.co/f/UrK6v2uPmbQ/Star_Wars_The_Last_Jedi_2017_FULL_HDCAM_ENGLiSH_x264_HQMIC-DADDY.mkv.mp4
 #https://openload.co/f/US7D15Fv2OU/STAR_WARS_THE_LAST_JEDI_2017_FULL_ENGLISH_HDCAM_ste20.mp4
 #https://openload.co/f/yjFhavSK_eg/Star.Wars.The.Last.Jedi.2017.CAM.X264-BebeLeitinho.mkv
 type=video
@@ -2765,10 +2778,11 @@ URL=https://openload.co/f/JwY0AqV5rPQ/Brigsby_Bear_%282017%29%E0%B8%9A%E0%B8%A3%
 
 
 type=video
-name=Brawl in Cell Block 99 (2017) ENG WEB-DL.XviD.AC3-FGT
+name=Brawl in Cell Block 99 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
-date=2017-10-13
-URL=https://openload.co/f/am4891uFxJ4/Brawl.in.Cell.Block.99.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+date=2017-12-21
+URL=https://openload.co/f/-CHm5KLFBCo/Brawl.in.Cell.Block.99.2017.1080p.BluRay.x264.DTS.-.Hon3y.mkv.mp4
+#https://openload.co/f/am4891uFxJ4/Brawl.in.Cell.Block.99.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 #https://openload.co/f/aT6jWYPHnBk/Brawl.in.Cell.Block.99.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 type=video
 name=Brawl in Cell Block 99 (2017) THSUB
