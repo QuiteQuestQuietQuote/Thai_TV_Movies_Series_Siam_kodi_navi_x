@@ -69,7 +69,17 @@ URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.blu
 
 
 
+type=video
+name=Ferdinand (2017)
+thumb=https://image.tmdb.org/t/p/w640/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg
+date=2017-12-22
+URL=https://openload.co/f/XwQneA9shx4/Ferdinand_2017_HDCAM_NO_LOGO_720p_Spacemov.io.mp4
 
+type=video
+name=Bright (2017) ENG webrip.x264-strife
+thumb=https://image.tmdb.org/t/p/w640/hfQSHW7d6xGP1yStUesgkcDQ73N.jpg
+date=2017-12-22
+URL=https://openload.co/f/nWADK7ztMTE/bright.2017.1080p.webrip.x264-strife.mkv.mp4
 
 type=video
 name=Just Getting Started (2017) ENG CAM.READNFO.XViD-26k
@@ -77,17 +87,9 @@ thumb=https://image.tmdb.org/t/p/w640/70eVsU4nvVidEs7mpPcEcBlIpmx.jpg
 date=2017-12-19
 URL=https://openload.co/f/VXxQVaOTzoI/Just.Getting.Started.2017.CAM.READNFO.XViD-26k.avi.mp4
 
-type=video
-name=Rebel in the Rye (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/fjmMtBIqg65MPOJXOtoLCKYjVUn.jpg
-date=2017-12-19
-URL=https://openload.co/f/Dz3XigJcYv8/Rebel_In_the_Rye_2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=Battle of the Sexes (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/v3y96NrwyBxqNhVpHIBZix0uPKP.jpg
-date=2017-12-19
-URL=https://openload.co/f/rEJOPUmaVZg/Battle.of.the.Sexes.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+
 
 type=video
 name=The Killing of a Sacred Deer (2017) ENG WEB-DL.H264.AC3BB-EVO
@@ -143,10 +145,11 @@ URL=https://openload.co/f/o1StljESgxI/Suburbicon_2017_HDCAM_ENG_X264-DADDY.mkv.m
 #https://openload.co/f/r5XhzYpBWqc/Suburbicon.2017.Russian.CAMRip.1400MB-KOSHARA.avi.mp4
 
 type=video
-name=Paddington 2 (2017) ENG TS.XViD-26k
+name=Paddington 2 (2017) ENG HDTS_x264_AC3_TiTAN
 thumb=https://image.tmdb.org/t/p/w640/bU5pSpQfXRmqDd6jthmP8iWJOjd.jpg
-date=2017-12-21
-URL=https://openload.co/f/qfpasQHuWo4/Paddington.2.2017.TS.XViD-26k.avi.mp4
+date=2017-12-22
+URL=https://openload.co/f/RqXwupoJyYY/Paddington_2_2017_720p_HDTS_x264_AC3_TiTAN.mkv
+#https://openload.co/f/qfpasQHuWo4/Paddington.2.2017.TS.XViD-26k.avi.mp4
 #https://openload.co/f/lqi9R7FoGoQ/Paddington_2_%282017%29_SeeHD.mp4
 #https://openload.co/f/DphGbZSuthQ/Paddington_2_2017_Russian_TELESYNC.avi.mp4
 #https://openload.co/f/O5MG7v4Xa2E/Paddington.2.2017.iTALiAN.LD.TELESYNC.XviD_CriMiNaL.mp4
@@ -495,11 +498,7 @@ date=2017-11-13
 URL=https://www.blazefile.co/embed-wncdast3r4z6.html
 #https://openload.co/f/gEajQqD6N2c/The.Humanity.Bureau.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 
-type=video
-name=Bitch (2017) ENG WEB-DL AAC2.0 H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/dsFUHJgMVViUsRggDThtwRPmS9i.jpg
-date=2017-11-12
-URL=https://www.blazefile.co/embed-5rw8pszphiuv.html
+
 
 
 
@@ -1117,11 +1116,25 @@ URL=
 
 
 type=video
-name=
-thumb=
-date=2017-12-20
-URL=
+name=Mark Felt: The Man Who Brought Down the White House (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/ggwsRh4p75jLMuc6gY12f9VXxwl.jpg
+date=2017-12-22
+URL=https://openload.co/f/NBEA2eZ3lII/Mark.Felt.The.Man.Who.Brought.Down.the.White.House.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
+type=video
+name=Battle of the Sexes (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/v3y96NrwyBxqNhVpHIBZix0uPKP.jpg
+date=2017-12-22
+URL=https://www.blazefile.co/embed-2z3xyruc6ova.html
+#https://openload.co/f/vCSWt5abNAA/Battle.of.the.Sexes.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/rEJOPUmaVZg/Battle.of.the.Sexes.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Bitch (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/dsFUHJgMVViUsRggDThtwRPmS9i.jpg
+date=2017-12-22
+URL=https://openload.co/f/isVUItb_VEg/Bitch.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://www.blazefile.co/embed-5rw8pszphiuv.html   web
 
 type=video
 name=Breathe (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1206,13 +1219,7 @@ URL=https://openload.co/f/tT-Www94b0k/The.Middle.Finger.2017.1080p.BluRay.x264-R
 
 
 
-type=video
-name=Stronger (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg
-date=2017-12-07
-URL=https://www.blazefile.co/embed-kvgao0h0wtwz.html
-#https://openload.co/f/cI8js1NIAPg/Stronger.2017.BDRip.x264-GECKOS.mkv.mp4
-#https://openload.co/f/fWmX0uqtUuI/Stronger.2017.720p.WEB-DL.X264.AC3-EVO.mkv
+
 
 type=video
 name=Leatherface (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1580,13 +1587,7 @@ URL=https://openload.co/f/6OfNo6I3p0E/Ali.and.Nino.2016.1080p.BluRay.x264-EXCLUD
 #https://openload.co/f/1SLgOj24Erk/Ali.and.Nino.2016.720p.BluRay.x264-EXCLUDED.mkv.mp4
 #https://www.blazefile.co/embed-x0cjlpg2xdzq.html
 
-type=video
-name=The Glass Castle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/d5fLQ9ZMa1jZ2mODCv5lOWJDugX.jpg
-date=2017-10-27
-URL=https://www.blazefile.co/embed-sdp2qwa7fxph.html
-#https://openload.co/f/UOKIRADy6c8/The.Glass.Castle.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
-#https://www.blazefile.co/embed-2xc2nz9cno64.html
+
 
 type=video
 name=Lord, Give Me Patience (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] MKV 7.7GB
@@ -2302,9 +2303,18 @@ thumb=https://image.tmdb.org/t/p/w640/bOsJaWgUGIjCbqz8WVYgo5fNqfy.jpg
 date=2017-12-20
 URL=https://www.blazefile.co/embed-z8etbijph8ls.html
 
+type=video
+name=Rebel in the Rye (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/fjmMtBIqg65MPOJXOtoLCKYjVUn.jpg
+date=2017-12-22
+URL=https://openload.co/f/-zrXaN0ZkDk/Rebel.in.the.Rye.2017.LIMITED.720p.BluRay.x264-GECKOS.mkv
+#https://openload.co/f/Dz3XigJcYv8/Rebel_In_the_Rye_2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-
-
+type=video
+name=The Stolen (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/bu4f6nQOvR2ozxk6lYmTpWoIsR3.jpg
+date=2017-12-22
+URL=https://www.blazefile.co/embed-neathfobt7zl.html
 
 
 
@@ -2411,10 +2421,11 @@ URL=https://streamango.com/f/ndomsmeaptdeftps/Coco_2017_
 
 
 type=video
-name=Justice League (2017) ENG NEW_HDTS-H264-AC3-Zi%24t
+name=Justice League (2017) ENG KORSUB-JesusLovesYew
 thumb=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
-date=2017-11-24
-URL=https://openload.co/f/xj1bHZ6aksk/Justice_League_2017_NEW_HDTS-H264-AC3-Zi%24t.mkv.mp4
+date=2017-12-22
+URL=https://openload.co/f/Gcww3bPYNac/Justice.League.2017.1080p.KORSUB-JesusLovesYew.mkv.mp4
+#https://openload.co/f/xj1bHZ6aksk/Justice_League_2017_NEW_HDTS-H264-AC3-Zi%24t.mkv.mp4
 #https://openload.co/f/X_u6EzKY7ys/Justice_League_2017_NEW_HD-TS_X264_HQ-CPG.mkv.mp4
 #https://openload.co/f/u_m2Yed9uS4/Justice_League.2017.CAM.XviD-FodeMeuCu.mkv.mp4
 #https://openload.co/f/rzw5iUFLhkg/Justice_League.2017.ENG.PROPER.HDCAM-H264.MP3-Zi%2524t.mkv.mp4
@@ -3194,22 +3205,7 @@ URL=https://streamango.com/f/pblsaqsboposetfo/The_Foreigner_2017_2_
 
 
 
-type=video
-name=American Assassin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
-date=2017-11-22
-URL=https://www.blazefile.co/embed-6y0w4fqm2z7m.html
-#https://openload.co/f/ihjSbfIuHhA/american.assassin.2017.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/SBpzxifbzE0/American.Assassin.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/mmAJmFRU03g/American_Assassin_2017_HD-TS_x264-UNiQUE.mkv.mp4
-type=video
-name=American Assassin (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
-date=2017-11-23
-URL=https://openload.co/f/Pm01TkG45eQ/American_Assassin_%282017%29%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%86%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://streamango.com/f/srtfpdsfotrkstqr/American_Assassin_mp4
-#https://openload.co/f/fp2H3OWSVWA/American.Assassin.2017.HD-TS.x264.ThaiRong.AAC.2.0_CpT%40CtHts.mkv.mp4
-#https://openload.co/f/Elw1WEIapq8/American_Assassin_%282017%29%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%86%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
 
 
 type=video
@@ -3480,16 +3476,76 @@ URL=
 type=video
 name=
 thumb=
-date=2017-11-30
+date=2017-12-22
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
+type=video
+name=Imperium (2016) TH
+thumb=https://image.tmdb.org/t/p/w640/aRRLpsusORQxOpFkZvXdk00TkoY.jpg
+date=2017-12-22
+URL=https://streamango.com/f/cmqspnntsfpnklcr/Imperium_mp4
+
+type=video
+name=Our Kind of Traitor (2016) TH
+thumb=https://image.tmdb.org/t/p/w640/vZklhnvecz1mA5pv93v20fLdO8Y.jpg
+date=2017-12-22
+URL=https://streamango.com/f/odpdqtrackbblnnk/Our_Kind_of_Traitor_mp4
 
 
+type=video
+name=Stronger (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg
+date=2017-12-07
+URL=https://www.blazefile.co/embed-kvgao0h0wtwz.html
+#https://openload.co/f/cI8js1NIAPg/Stronger.2017.BDRip.x264-GECKOS.mkv.mp4
+#https://openload.co/f/fWmX0uqtUuI/Stronger.2017.720p.WEB-DL.X264.AC3-EVO.mkv
+type=video
+name=Stronger (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg
+date=2017-12-22
+URL=https://streamango.com/f/qadqkpptqdloprkc/Stronger_mp4
 
 
+type=video
+name=The Glass Castle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/d5fLQ9ZMa1jZ2mODCv5lOWJDugX.jpg
+date=2017-10-27
+URL=https://www.blazefile.co/embed-sdp2qwa7fxph.html
+#https://openload.co/f/UOKIRADy6c8/The.Glass.Castle.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://www.blazefile.co/embed-2xc2nz9cno64.html
+type=video
+name=The Glass Castle (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/d5fLQ9ZMa1jZ2mODCv5lOWJDugX.jpg
+date=2017-12-22
+URL=https://streamango.com/f/mdttmeaslndralna/The_Glass_Castle_mp4
 
+
+type=video
+name=Buena Vista Social Club: Adios (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/fe6lCeuUD7q5m4Qm8U1r0l5AtsZ.jpg
+date=2017-12-22
+URL=https://streamango.com/f/olcqanpkolcttrer/Buena_Vista_Social_Club_Adios_mp4
+
+
+type=video
+name=American Assassin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
+date=2017-11-22
+URL=https://www.blazefile.co/embed-6y0w4fqm2z7m.html
+#https://openload.co/f/ihjSbfIuHhA/american.assassin.2017.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/SBpzxifbzE0/American.Assassin.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/mmAJmFRU03g/American_Assassin_2017_HD-TS_x264-UNiQUE.mkv.mp4
+type=video
+name=American Assassin (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
+date=2017-12-22
+URL=https://streamango.com/f/dlcdrlrmcctrdkce/American_Assassin_mp4
+#https://openload.co/f/Pm01TkG45eQ/American_Assassin_%282017%29%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%86%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/srtfpdsfotrkstqr/American_Assassin_mp4
+#https://openload.co/f/fp2H3OWSVWA/American.Assassin.2017.HD-TS.x264.ThaiRong.AAC.2.0_CpT%40CtHts.mkv.mp4
+#https://openload.co/f/Elw1WEIapq8/American_Assassin_%282017%29%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%86%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
 type=video
