@@ -58,6 +58,220 @@ URL=
 
 
 
+type=video
+name=185xxxxxxxxxxxxxxxxxxxxThe Girl Wife (2006)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/The-Girl-Wife-2006.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/abbdfbapoeoptpmf/
+
+type=video
+name=Yesterday of Invective (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Yesterday-of-Invective-2014.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/kktpckmncetradcs/
+
+type=video
+name=Wife And Delicious Girl (1992)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Wife-And-Delicious-Girl-1992.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/ftesmlpecabskrrs/
+
+type=video
+name=Lewd MILF & Naughty MILF (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Lewd-MILF-Naughty-MILF-2016.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/llppkmoaeladdckb/
+
+type=video
+name=Reason To Part (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Reason-To-Part-2014.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/rrpkknkqenksands/
+
+
+type=video
+name=Mother Of The Friend (2008)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Mother-Of-The-Friend-2008.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/sltetlcamtroqltl/
+
+type=video
+name=Love Mark (2007)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Love-Mark-2007.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/pdqdpobfpdqctmle/
+
+type=video
+name=My Wife Is Erotic Actress (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/My-Wife-Is-Erotic-Actress-2017.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/mtrcnfoecedbobfr/
+
+type=video
+name=Mom Friends (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Mom-Friends-2017.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/fconfnapfrelcofk/
+
+type=video
+name=Pleasure Guide (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Pleasure-Guide-2017.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/aaeeafqrnspnfpkt/
+
+
+type=video
+name=My Stepmother and Her Younger Sister (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/My-Stepmother-and-Her-Younger-Sister-2017.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/daeqembcprorqmqa/
+
+type=video
+name=Hentai OL (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Hentai-OL-2014.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/ceppdlfntqasdtpm/
+
+type=video
+name=I’m Sorry For The Indecent (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/I%E2%80%99m-Sorry-For-The-Indecent-2015.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/dcldntcsptmsrmlq/
+
+type=video
+name=Maneater Museum (2011)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Maneater-Museum-2011.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/ortlbnrpnfedsltr/
+
+type=video
+name=The Blue Angel (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/The-Blue-Angel-2015.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/dcknkkrqrqtdnmbo/
+
+
+type=video
+name=A Younger Brother (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/A-Younger-Brother-2017.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/fmksdfmmaneksffo/
+
+type=video
+name=Ordinary – Married Housewives (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Ordinary-Married-Housewives-2017.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/tslnocatenmcrqfb/
+
+type=video
+name=Female Office Worker’s Sexual Massage (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Female-Office-Worker%E2%80%99s-Sexual-Massage-2016.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/crqdsrfpecmsqftt/
+
+type=video
+name=3 Mature Ladies (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/3-Mature-Ladies-2016.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/osqrlmnqmqobldll/
+
+type=video
+name=Married Woman’s Physical Settlement (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Married-Woman%E2%80%99s-Physical-Settlement-2016.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/qctttpermlqtebmn/
+
+
+type=video
+name=The Blossoming Young Wife (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/The-Blossoming-Young-Wife-2016.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/tkprksmcqrnfmopr/
+
+type=video
+name=Dirty Anchucha (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Dirty-Anchucha-2014.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/cbnroceqlbfflmst/
+
+type=video
+name=The Human Chair (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/The-Human-Chair-2013.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/brdnmfbeekqlepbs/
+
+type=video
+name=Housewife Aesthetic Salon (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Housewife-Aesthetic-Salon-2009.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/kbstdnfloaelanld/
+
+type=video
+name=Haken Hisho (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Haken-Hisho-2014.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/kprnqbcpkcmplerq/
+
+
+type=video
+name=Nozoki Suwappu (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Nozoki-Suwappu-2016.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/epbarqodrcatsdel/
+
+type=video
+name=Be My Slave (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Be-My-Slave-2016.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/kdkrcmkmlqdlrksn/
+
+type=video
+name=Hurinnryokou (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Hurinnryokou-2016.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/dlbnsdoptolbksdo/
+
+type=video
+name=Her Secret (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Her-Secret-2013.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/eltblmbakmtpnedk/
+
+type=video
+name=Aesongi (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Aesongi-2014.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/ompdnepdmlltsclb/
+
+
+type=video
+name=Tonari No Utsukusii Miboujin (2014) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Tonari-No-Utsukusii-Miboujin-2014.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/rakmfdbdnmksnktn/
+
+type=video
+name=Lover Bank (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Lover-Bank-2014.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/kpdmspqderenbssf/
+
+type=video
+name=Climax Technique – Wave (2008)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Climax-Technique-Wave-2008.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/cesmelnonsmldldq/
+
+type=video
+name=Prize Money One Million (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Prize-Money-One-Million-2015.jpg
+date=2017-12-22
+URL=https://streamcherry.com/embed/petpmarckralnptq/
+
+
+
+
+
 
 
 
