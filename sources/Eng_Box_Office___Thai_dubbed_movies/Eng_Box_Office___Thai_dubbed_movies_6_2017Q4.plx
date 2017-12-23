@@ -64,10 +64,22 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-12-14
+date=2017-12-23
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
+
+type=video
+name=Jumanji: Welcome to the Jungle (2017) LAT HDCAM_Latino_720p_Spacemov.io
+thumb=https://image.tmdb.org/t/p/w640/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
+date=2017-12-23
+URL=https://openload.co/f/cmK8GffxUSA/Jumanji_Welcome_to_the_Jungle_%282017%29_HDCAM_Latino_720p_Spacemov.io
+
+type=video
+name=Woody Woodpecker (2017) LAT tshq.latino
+thumb=https://image.tmdb.org/t/p/w640/9crXSxVpQmw4kdmtKrvizmWwBG.jpg
+date=2017-12-23
+URL=https://openload.co/f/X0yOzJfYXyA/Woody_Woodpecker_%282017%29.tshq.latino.mp4
 
 type=video
 name=Ferdinand (2017)
@@ -1098,9 +1110,9 @@ rating=-1.00
 
 type=video
 name=
-thumb=
+thumb=https://ganool.se/wp-content/uploads/2017/10/Thong-Dee-Fun-Khao-2017-226x323.jpg
 date=2017-09-21
-URL=
+URL=https://www.blazefile.co/embed-dqhqhsrm64op.html
 
 type=video
 name=
@@ -1139,6 +1151,7 @@ thumb=https://image.tmdb.org/t/p/w640/dsFUHJgMVViUsRggDThtwRPmS9i.jpg
 date=2017-12-22
 URL=https://openload.co/f/isVUItb_VEg/Bitch.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://www.blazefile.co/embed-5rw8pszphiuv.html   web
+#https://www.blazefile.co/embed-lp53c59jf2vw.html   720
 
 type=video
 name=Breathe (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2091,6 +2104,7 @@ name=Wakefield (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/ysENjqhI5lcjGjKBkacCjTnNWOQ.jpg
 date=2017-07-26
 URL=https://openload.co/f/l0iDWNGQCXg/snow-wakefield.2016.limited.1080p.bluray.x264.mkv.mp4
+#https://www.blazefile.co/embed-h9cga07jlsbw.html   720
 
 type=video
 name=The Dinner (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2139,7 +2153,7 @@ name=Colossal (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/4VOyofBd1pexblxtDZYtYIk7NI4.jpg
 date=2017-07-19
 URL=https://openload.co/f/c6ouHx5fiC8/Colossal.2016.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://www.blazefile.co/embed-gaw9sc1oxq0j.html
+#https://www.blazefile.co/embed-gaw9sc1oxq0j.html   720
 player=default
 rating=-1.00
 description=A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering./description
@@ -2290,7 +2304,8 @@ type=video
 name=Gook (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/Ij6zyFnVd3ha5uR5b4na3LYux6.jpg
 date=2017-12-07
-URL=https://openload.co/f/GdbJ4Hp8baA/Gook.2017.LIMITED.720p.BluRay.x264-HAiDEAF.mkv.mp4
+URL=https://www.blazefile.co/embed-491k1rxmvmns.html
+#https://openload.co/f/GdbJ4Hp8baA/Gook.2017.LIMITED.720p.BluRay.x264-HAiDEAF.mkv.mp4
 
 type=video
 name=Hampstead (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -3165,6 +3180,7 @@ name=Olaf's Frozen Adventure (2017) ENG WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/47pLZ1gr63WaciDfHCpmoiXJlVr.jpg
 date=2017-12-02
 URL=https://openload.co/f/TcwkMEBNA0s/Olafs_Frozen_Adventure.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://www.blazefile.co/embed-k828me476f50.html
 type=video
 name=Olaf's Frozen Adventure (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/47pLZ1gr63WaciDfHCpmoiXJlVr.jpg
@@ -3484,13 +3500,24 @@ date=2017-12-22
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
-
+type=video
+name=Imperium (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/aRRLpsusORQxOpFkZvXdk00TkoY.jpg
+date=2017-12-23
+URL=https://www.blazefile.co/embed-c8coc0ksu0u7.html
 type=video
 name=Imperium (2016) TH
 thumb=https://image.tmdb.org/t/p/w640/aRRLpsusORQxOpFkZvXdk00TkoY.jpg
-date=2017-12-22
-URL=https://streamango.com/f/cmqspnntsfpnklcr/Imperium_mp4
+date=2017-12-23
+URL=https://openload.co/f/le_1dkTQGQs/Imperium_%282016%29%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%82%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+#https://streamango.com/f/cmqspnntsfpnklcr/Imperium_mp4
 
+
+type=video
+name=Our Kind of Traitor (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/vZklhnvecz1mA5pv93v20fLdO8Y.jpg
+date=2017-12-23
+URL=https://www.blazefile.co/embed-cz4rzdevp6yz.html
 type=video
 name=Our Kind of Traitor (2016) TH
 thumb=https://image.tmdb.org/t/p/w640/vZklhnvecz1mA5pv93v20fLdO8Y.jpg
@@ -3508,8 +3535,9 @@ URL=https://www.blazefile.co/embed-kvgao0h0wtwz.html
 type=video
 name=Stronger (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg
-date=2017-12-22
-URL=https://streamango.com/f/qadqkpptqdloprkc/Stronger_mp4
+date=2017-12-23
+URL=https://openload.co/f/T-BQmUlgXIM/Stronger_%282017%29%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%9E%E0%B9%89.mp4
+#https://streamango.com/f/qadqkpptqdloprkc/Stronger_mp4
 
 
 type=video
@@ -3522,8 +3550,9 @@ URL=https://www.blazefile.co/embed-sdp2qwa7fxph.html
 type=video
 name=The Glass Castle (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/d5fLQ9ZMa1jZ2mODCv5lOWJDugX.jpg
-date=2017-12-22
-URL=https://streamango.com/f/mdttmeaslndralna/The_Glass_Castle_mp4
+date=2017-12-23
+URL=https://openload.co/f/iLenP8u9kSk/The_Glass_Castle_%282017%29%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%88.mp4
+#https://streamango.com/f/mdttmeaslndralna/The_Glass_Castle_mp4
 
 
 type=video
@@ -3544,8 +3573,9 @@ URL=https://www.blazefile.co/embed-6y0w4fqm2z7m.html
 type=video
 name=American Assassin (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
-date=2017-12-22
-URL=https://streamango.com/f/dlcdrlrmcctrdkce/American_Assassin_mp4
+date=2017-12-23
+URL=https://openload.co/f/0CFOfu8r5b4/American_Assassin_%282017%29%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%86%E0%B9%88%E0%B8%B2.mp4
+#https://streamango.com/f/dlcdrlrmcctrdkce/American_Assassin_mp4
 #https://openload.co/f/Pm01TkG45eQ/American_Assassin_%282017%29%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%86%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://streamango.com/f/srtfpdsfotrkstqr/American_Assassin_mp4
 #https://openload.co/f/fp2H3OWSVWA/American.Assassin.2017.HD-TS.x264.ThaiRong.AAC.2.0_CpT%40CtHts.mkv.mp4
@@ -3697,7 +3727,8 @@ type=video
 name=Your Name. (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/xq1Ugd62d23K2knRUx6xxuALTZB.jpg
 date=2017-07-28
-URL=https://openload.co/f/oJs5aOQQWMM/your.name.2016.1080p.bluray.x264-haiku.mkv.mp4
+URL=https://www.blazefile.co/embed-urvciq22rkpc.html
+#https://openload.co/f/oJs5aOQQWMM/your.name.2016.1080p.bluray.x264-haiku.mkv.mp4
 type=video
 name=Your Name. (2016) TH
 thumb=https://image.tmdb.org/t/p/w640/xq1Ugd62d23K2knRUx6xxuALTZB.jpg
