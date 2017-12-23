@@ -28,7 +28,13 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
-
+type=playlist
+name=96_2_69_OHOHD_35_18up_Inter_Erotic
+thumb=https://4.bp.blogspot.com/-hSAELGkG4-Y/WjfQkq29MpI/AAAAAAAANz8/foKU1Bnyu-QMq3jH6GvdstWn_eg2ScqXACLcBGAs/s1600/4SSSS.jpg
+date=2017-12-23
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_35_18up_Inter_Erotic.plx
+player=default
+rating=-1.00
 
 type=playlist
 name=96_2_69_OHOHD_34_18up_Asian
