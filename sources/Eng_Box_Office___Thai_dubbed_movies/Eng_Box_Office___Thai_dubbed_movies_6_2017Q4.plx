@@ -64,7 +64,7 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-12-23
+date=2017-12-24
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
@@ -99,7 +99,11 @@ thumb=https://image.tmdb.org/t/p/w640/70eVsU4nvVidEs7mpPcEcBlIpmx.jpg
 date=2017-12-19
 URL=https://openload.co/f/VXxQVaOTzoI/Just.Getting.Started.2017.CAM.READNFO.XViD-26k.avi.mp4
 
-
+type=video
+name=Last Flag Flying (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
+thumb=https://image.tmdb.org/t/p/w640/pizynKUzJ9YucGff1O1MYisY1WM.jpg
+date=2017-12-24
+URL=https://openload.co/f/214Cc5XT_sI/Last.Flag.Flying.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 
 
 
@@ -402,7 +406,7 @@ type=video
 name=
 thumb=
 date=2017-12-03
-URL=https://putload.tv/embed-wciu6fjul4te.html
+URL=
 
 
 type=video
@@ -1129,13 +1133,19 @@ URL=
 
 
 
-
+type=video
+name=The Stolen (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/bu4f6nQOvR2ozxk6lYmTpWoIsR3.jpg
+date=2017-12-24
+URL=https://openload.co/f/vGFEkuQl_Ec/The_Stolen_%282017%29_1080p_%5BBluRay%5D_x264-%5BYTS_PE%5D_mp4
+#https://www.blazefile.co/embed-neathfobt7zl.html   720
 
 type=video
 name=Mark Felt: The Man Who Brought Down the White House (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/ggwsRh4p75jLMuc6gY12f9VXxwl.jpg
-date=2017-12-22
+date=2017-12-24
 URL=https://openload.co/f/NBEA2eZ3lII/Mark.Felt.The.Man.Who.Brought.Down.the.White.House.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://www.blazefile.co/embed-xequuxhy82xf.html   720
 
 type=video
 name=Battle of the Sexes (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1148,8 +1158,9 @@ URL=https://www.blazefile.co/embed-2z3xyruc6ova.html
 type=video
 name=Bitch (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/dsFUHJgMVViUsRggDThtwRPmS9i.jpg
-date=2017-12-22
-URL=https://openload.co/f/isVUItb_VEg/Bitch.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
+date=2017-12-24
+URL=https://www.blazefile.co/embed-35r5o934pw3l.html
+#https://openload.co/f/isVUItb_VEg/Bitch.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://www.blazefile.co/embed-5rw8pszphiuv.html   web
 #https://www.blazefile.co/embed-lp53c59jf2vw.html   720
 
@@ -2325,15 +2336,12 @@ URL=https://www.blazefile.co/embed-z8etbijph8ls.html
 type=video
 name=Rebel in the Rye (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/fjmMtBIqg65MPOJXOtoLCKYjVUn.jpg
-date=2017-12-22
-URL=https://openload.co/f/-zrXaN0ZkDk/Rebel.in.the.Rye.2017.LIMITED.720p.BluRay.x264-GECKOS.mkv
+date=2017-12-24
+URL=https://www.blazefile.co/embed-lfk9504cbtzq.html
+#https://openload.co/f/-zrXaN0ZkDk/Rebel.in.the.Rye.2017.LIMITED.720p.BluRay.x264-GECKOS.mkv
 #https://openload.co/f/Dz3XigJcYv8/Rebel_In_the_Rye_2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=The Stolen (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/bu4f6nQOvR2ozxk6lYmTpWoIsR3.jpg
-date=2017-12-22
-URL=https://www.blazefile.co/embed-neathfobt7zl.html
+
 
 
 
@@ -2439,20 +2447,7 @@ date=2017-12-04
 URL=https://streamango.com/f/ndomsmeaptdeftps/Coco_2017_
 
 
-type=video
-name=Justice League (2017) ENG KORSUB-JesusLovesYew
-thumb=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
-date=2017-12-22
-URL=https://openload.co/f/Gcww3bPYNac/Justice.League.2017.1080p.KORSUB-JesusLovesYew.mkv.mp4
-#https://openload.co/f/xj1bHZ6aksk/Justice_League_2017_NEW_HDTS-H264-AC3-Zi%24t.mkv.mp4
-#https://openload.co/f/X_u6EzKY7ys/Justice_League_2017_NEW_HD-TS_X264_HQ-CPG.mkv.mp4
-#https://openload.co/f/u_m2Yed9uS4/Justice_League.2017.CAM.XviD-FodeMeuCu.mkv.mp4
-#https://openload.co/f/rzw5iUFLhkg/Justice_League.2017.ENG.PROPER.HDCAM-H264.MP3-Zi%2524t.mkv.mp4
-type=video
-name=Justice League (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
-date=2017-11-20
-URL=https://openload.co/f/XXv5UEq-MzU/Justice_League_%282017%29%E0%B8%88%E0%B8%B1%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%8B_%E0%B8%A5%E0%B8%B5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
 
 
 type=video
@@ -3119,6 +3114,23 @@ thumb=
 date=2017-10-24
 URL=
 
+
+
+type=video
+name=Justice League (2017) ENG KORSUB-JesusLovesYew
+thumb=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
+date=2017-12-22
+URL=https://openload.co/f/Gcww3bPYNac/Justice.League.2017.1080p.KORSUB-JesusLovesYew.mkv.mp4
+#https://openload.co/f/xj1bHZ6aksk/Justice_League_2017_NEW_HDTS-H264-AC3-Zi%24t.mkv.mp4
+#https://openload.co/f/X_u6EzKY7ys/Justice_League_2017_NEW_HD-TS_X264_HQ-CPG.mkv.mp4
+#https://openload.co/f/u_m2Yed9uS4/Justice_League.2017.CAM.XviD-FodeMeuCu.mkv.mp4
+#https://openload.co/f/rzw5iUFLhkg/Justice_League.2017.ENG.PROPER.HDCAM-H264.MP3-Zi%2524t.mkv.mp4
+type=video
+name=Justice League (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
+date=2017-12-24
+URL=https://streamango.com/f/cnlftlrrnklpsrfs/Justice_League_2017_1080p_KORSUB_28ThaiRongAAC_29_mp4
+#https://openload.co/f/XXv5UEq-MzU/Justice_League_%282017%29%E0%B8%88%E0%B8%B1%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%8B_%E0%B8%A5%E0%B8%B5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
 type=video
