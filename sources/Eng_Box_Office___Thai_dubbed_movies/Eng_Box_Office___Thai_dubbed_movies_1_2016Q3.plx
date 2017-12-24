@@ -160,9 +160,10 @@ description=Suk-gyu is desperately looking for his runaway daughter. He spares n
 
 # 2742040
 type=video
-name=The Magnificent Seven (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=The Magnificent Seven (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/cparcxTFuHdlSOP3MJOpN7Ec9NB.jpg
-URL=https://www.blazefile.co/embed-h7hp0nl2dfcw.html
+URL=https://www.blazefile.co/embed-8b8j67iwfjoo.html
+#https://www.blazefile.co/embed-h7hp0nl2dfcw.html
 type=video
 name=The Magnificent Seven
 thumb=http://image.tmdb.org/t/p/w500/cparcxTFuHdlSOP3MJOpN7Ec9NB.jpg
