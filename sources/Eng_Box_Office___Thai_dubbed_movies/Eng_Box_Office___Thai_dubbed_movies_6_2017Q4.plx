@@ -64,10 +64,22 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-12-24
+date=2017-12-25
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
+
+type=video
+name=The Disaster Artist (2017) ENG HDCAM_X264_HQMic-CPG
+thumb=https://image.tmdb.org/t/p/w640/uCH6FOFsDW6pfvbbmIIswuvuNtM.jpg
+date=2017-12-25
+URL=https://openload.co/f/g9018UKAwrA/The_Disaster_Artist_2017_HDCAM_X264_HQMic-CPG.mkv.mp4
+
+type=video
+name=Downsizing (2017) ENG HDCAM.x264.AAC-NEXUS
+thumb=https://image.tmdb.org/t/p/w640/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
+date=2017-12-25
+URL=https://openload.co/f/H8IXHlo5aCk/Downsizing.2017.CLEAN.720p.HDCAM.x264.AAC-NEXUS.mp4
 
 type=video
 name=Jumanji: Welcome to the Jungle (2017) LAT HDCAM_Latino_720p_Spacemov.io
@@ -82,16 +94,16 @@ date=2017-12-23
 URL=https://openload.co/f/X0yOzJfYXyA/Woody_Woodpecker_%282017%29.tshq.latino.mp4
 
 type=video
-name=Ferdinand (2017)
+name=Ferdinand (2017) ENG HDCAM_NO_LOGO_720p_Spacemov.io
 thumb=https://image.tmdb.org/t/p/w640/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg
 date=2017-12-22
 URL=https://openload.co/f/XwQneA9shx4/Ferdinand_2017_HDCAM_NO_LOGO_720p_Spacemov.io.mp4
 
 type=video
-name=Bright (2017) ENG webrip.x264-strife
-thumb=https://image.tmdb.org/t/p/w640/hfQSHW7d6xGP1yStUesgkcDQ73N.jpg
-date=2017-12-22
-URL=https://openload.co/f/nWADK7ztMTE/bright.2017.1080p.webrip.x264-strife.mkv.mp4
+name=Bleeding Steel (2017) CHN CAMRIP_X264_MP3_Zit.E
+thumb=https://image.tmdb.org/t/p/w640/z1O26qVwkhSlicycBBK731k8vPd.jpg
+date=2017-12-25
+URL=https://openload.co/f/haSIIRCGox8/BLEEDING_STEEL_2017_CAMRIP_X264_MP3_Zit.E.mp4
 
 type=video
 name=Just Getting Started (2017) ENG CAM.READNFO.XViD-26k
@@ -258,11 +270,17 @@ URL=https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.m
 type=video
 name=
 thumb=
-date=2017-12-19
+date=2017-12-25
 URL=
 
 
 
+
+type=video
+name=Maigret in Montmartre (2017) ENG hdtv.hevc.x265.rmteam
+thumb=https://image.tmdb.org/t/p/w640/1zagwvlOlCy55I33VaSLEVt7eSY.jpg
+date=2017-12-25
+URL=https://openload.co/f/CjVkUqzc-Pc/maigret.in.montmartre.2017.1080p.hdtv.hevc.x265.rmteam.mkv.mp4
 
 type=video
 name=Love Beats Rhymes (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -1190,14 +1208,7 @@ URL=https://openload.co/f/evgib1KZj9Y/Brads.Status.2017.1080p.BluRay.x264-GECKOS
 #https://openload.co/f/QOjvA2sAUH4/Brads.Status.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://www.blazefile.co/embed-qw7geiymtf9x.html   720
 
-type=video
-name=Mayhem (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/ukWhLHAUCtXPsCJRF9a7emGDgkU.jpg
-date=2017-12-20
-URL=https://www.blazefile.co/embed-nzlh323o7l53.html
-#https://openload.co/f/bAfKrdI1DdM/Mayhem.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://www.blazefile.co/embed-si94gfpdvt8b.html   web
-#https://openload.co/f/W1e5DEGHQv8/Mayhem.2017.WEB-DL.x264-FGT.mp4
+
 
 type=video
 name=Killing Gunther (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2419,10 +2430,11 @@ URL=http://203.162.235.41:17819
 
 
 type=video
-name=Star Wars: The Last Jedi (2017) ENG hdcam_SeeHD
+name=Star Wars: The Last Jedi (2017) ENG CAM_NEW_SOURCES_XViD-26k
 thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
-date=2017-12-21
-URL=https://openload.co/f/ZTakoaEg4C8/Star_Wars%3A_The_Last_Jedi_%282017%29.720p.hdcam_SeeHD.mkv.mp4
+date=2017-12-25
+URL=https://openload.co/f/UsQnyhGkctY/Star_Wars_The_Last_Jedi_%282017%29.720p.CAM_NEW_SOURCES_XViD-26k_avi_mp4
+#https://openload.co/f/ZTakoaEg4C8/Star_Wars%3A_The_Last_Jedi_%282017%29.720p.hdcam_SeeHD.mkv.mp4
 #https://openload.co/f/UrK6v2uPmbQ/Star_Wars_The_Last_Jedi_2017_FULL_HDCAM_ENGLiSH_x264_HQMIC-DADDY.mkv.mp4
 #https://openload.co/f/US7D15Fv2OU/STAR_WARS_THE_LAST_JEDI_2017_FULL_ENGLISH_HDCAM_ste20.mp4
 #https://openload.co/f/yjFhavSK_eg/Star.Wars.The.Last.Jedi.2017.CAM.X264-BebeLeitinho.mkv
@@ -2435,10 +2447,11 @@ URL=https://streamango.com/f/pcqllspqemeqtrpl/Star_Wars_The_Last_Jedi_2017_
 
 
 type=video
-name=Coco (2017) ENG HD-TS.X264.HQ-CPG
+name=Coco (2017) ENG HDTC.X264-MerryChristmasNoVipRequired%5BEtHD%5D
 thumb=https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
-date=2017-12-08
-URL=https://openload.co/f/rjggikOpq2Q/Coco.2017.HD-TS.X264.HQ-CPG.mkv.mp4
+date=2017-12-25
+URL=https://openload.co/f/dsmQ0CW4LSs/Coco_%282017%29.720p.HDTC.X264-MerryChristmasNoVipRequired%5BEtHD%5D_mkv.mp4
+#https://openload.co/f/rjggikOpq2Q/Coco.2017.HD-TS.X264.HQ-CPG.mkv.mp4
 #https://openload.co/f/R7W8xvZvB80/Coco_2017_Bolly4u.me_Hindi_Dubbed_HDTS_720p_700MB.mp4
 type=video
 name=Coco (2017) THCAM
@@ -2495,10 +2508,11 @@ URL=https://streamango.com/f/dedmrkdoeockpqkq/Jigsaw_2017_
 
 
 type=video
-name=Blade Runner 2049 (2017) ENG NEW.HD-TS.X264B.HQ-CPG
+name=Blade Runner 2049 (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
-date=2017-12-12
-URL=https://openload.co/f/9NspfMbbKoU/Blade.Runner.2049.2017.NEW.HD-TS.X264B.HQ-CPG.mp4
+date=2017-12-25
+URL=https://openload.co/f/s-a3hMw_iZo/Blade_Runner_2049.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/9NspfMbbKoU/Blade.Runner.2049.2017.NEW.HD-TS.X264B.HQ-CPG.mp4
 #https://openload.co/f/jliaTDYzQJs/Blade_Runner_2049_%282017%29_%5B720p%5D_CAM_x264-NoGRP_mp4
 #https://openload.co/f/SoWJsZvgxAk/Blade_Runner_2049.2017.CAM.X264.AAC.1.7GB.mp4
 type=video
@@ -2595,12 +2609,49 @@ URL=https://mcloud.to/embed/jv1wp2?sub.file=https%253A%252F%252Fbmovies.to%252Fs
 type=video
 name=
 thumb=
-date=2017-12-18
+date=2017-12-25
 URL=
 
 
+type=video
+name=Bright (2017) ENG WEBRip.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/hfQSHW7d6xGP1yStUesgkcDQ73N.jpg
+date=2017-12-25
+URL=https://openload.co/f/kKw2qWQJ3dI/Bright.2017.720p.WEBRip.XviD.AC3-FGT.avi.mp4
+#https://openload.co/f/nWADK7ztMTE/bright.2017.1080p.webrip.x264-strife.mkv.mp4
+type=video
+name=Bright (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/hfQSHW7d6xGP1yStUesgkcDQ73N.jpg
+date=2017-12-25
+URL=https://streamango.com/f/pkfbcnldrfdfroml/Bright_2017_
 
 
+type=video
+name=Mayhem (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/ukWhLHAUCtXPsCJRF9a7emGDgkU.jpg
+date=2017-12-20
+URL=https://www.blazefile.co/embed-nzlh323o7l53.html
+#https://openload.co/f/bAfKrdI1DdM/Mayhem.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://www.blazefile.co/embed-si94gfpdvt8b.html   web
+#https://openload.co/f/W1e5DEGHQv8/Mayhem.2017.WEB-DL.x264-FGT.mp4
+type=video
+name=Mayhem (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/ukWhLHAUCtXPsCJRF9a7emGDgkU.jpg
+date=2017-12-25
+URL=https://streamango.com/f/efkeqpsbemknmbdb/Mayhem_2017_THSUB_mp4
+
+
+type=video
+name=The Invisible Guest (2016) THSUB
+thumb=https://image.tmdb.org/t/p/w640/fptnZJbLzKUHeNlYrAynbyoL5YJ.jpg
+date=2017-12-25
+URL=https://streamango.com/f/qfcnnnoqctsndqko/The_Invisible_Guest_2016_
+
+type=video
+name=Pottersville (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/zlQgswQ5GEklrbv8MkohQHyomZu.jpg
+date=2017-12-25
+URL=https://streamango.com/f/bbqndqqfkcfcelqm/Pottersville_2017_
 
 type=video
 name=Jeepers Creepers III (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3117,10 +3168,11 @@ URL=
 
 
 type=video
-name=Justice League (2017) ENG KORSUB-JesusLovesYew
+name=Justice League (2017) ENG PROPER_HDRip_KORSUB_X264_HQ-CPG
 thumb=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
-date=2017-12-22
-URL=https://openload.co/f/Gcww3bPYNac/Justice.League.2017.1080p.KORSUB-JesusLovesYew.mkv.mp4
+date=2017-12-25
+URL=https://openload.co/f/9aU7M3BmTTY/Justice_League_%282017%29_%5B720p%5D_PROPER_HDRip_KORSUB_X264_HQ-CPG_mkv_mp4
+#https://openload.co/f/Gcww3bPYNac/Justice.League.2017.1080p.KORSUB-JesusLovesYew.mkv.mp4
 #https://openload.co/f/xj1bHZ6aksk/Justice_League_2017_NEW_HDTS-H264-AC3-Zi%24t.mkv.mp4
 #https://openload.co/f/X_u6EzKY7ys/Justice_League_2017_NEW_HD-TS_X264_HQ-CPG.mkv.mp4
 #https://openload.co/f/u_m2Yed9uS4/Justice_League.2017.CAM.XviD-FodeMeuCu.mkv.mp4
@@ -3341,28 +3393,13 @@ URL=https://openload.co/f/11bp7NHEOUo/%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8
 #https://openload.co/f/ec1xrtavae4/Bushwick_%282017%29%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
-type=video
-name=The Battleship Island (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/gCv1HBAXiyi48hPpc9hO0p5bbht.jpg
-date=2017-09-17
-URL=https://openload.co/f/yv8vQH7WT_Q/The_Battleship_Island_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A5%E0%B8%8A%E0%B8%B4%E0%B8%9B_%E0%B9%84%E0%B8%AD%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
 
 
 
-type=video
-name=The Hitman's Bodyguard (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
-date=2017-11-10
-URL=https://www.blazefile.co/embed-92vhwvq28m89.html
-#https://openload.co/f/puAPHB-_gTs/The_Hitmans_BodyGuard.2017.720p.BluRay.x264.DD5.1-HDC.mkv.mp4
-#https://openload.co/f/itc7K1DCIsw/The.Hitmans.Bodyguard.2017.1080p.WEB-DL.DD5.1.x264-HB.mkv.mp4
-type=video
-name=The Hitman's Bodyguard (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
-date=2017-09-03
-URL=https://openload.co/f/F2OrZJXph3c/%7BMINI_Super-HQ%7D_The.Hitmans.Bodyguard.2017.1080p.WEB-DL.ThaiRong.5.1.x264_CpT%40CtHts.mkv.mp4
+
+
 
 
 
@@ -3512,6 +3549,30 @@ date=2017-12-22
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
+
+type=video
+name=The Hitman's Bodyguard (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
+date=2017-11-10
+URL=https://www.blazefile.co/embed-92vhwvq28m89.html
+#https://openload.co/f/puAPHB-_gTs/The_Hitmans_BodyGuard.2017.720p.BluRay.x264.DD5.1-HDC.mkv.mp4
+#https://openload.co/f/itc7K1DCIsw/The.Hitmans.Bodyguard.2017.1080p.WEB-DL.DD5.1.x264-HB.mkv.mp4
+type=video
+name=The Hitman's Bodyguard (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
+date=2017-12-25
+URL=https://openload.co/f/2kk6FuIOCQw/The_Hitman%27s_Bodyguard_%282017%29%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%9A%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94.mp4
+#https://openload.co/f/F2OrZJXph3c/%7BMINI_Super-HQ%7D_The.Hitmans.Bodyguard.2017.1080p.WEB-DL.ThaiRong.5.1.x264_CpT%40CtHts.mkv.mp4
+
+
+type=video
+name=The Battleship Island (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/gCv1HBAXiyi48hPpc9hO0p5bbht.jpg
+date=2017-12-25
+URL=https://openload.co/f/42nWzBBYihU/The_Battleship_Island_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A5%E0%B8%8A%E0%B8%B4%E0%B8%9B_%E0%B9%84%E0%B8%AD%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C.mp4
+#https://openload.co/f/yv8vQH7WT_Q/The_Battleship_Island_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A5%E0%B8%8A%E0%B8%B4%E0%B8%9B_%E0%B9%84%E0%B8%AD%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+
+
 type=video
 name=Imperium (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/aRRLpsusORQxOpFkZvXdk00TkoY.jpg
@@ -3533,8 +3594,9 @@ URL=https://www.blazefile.co/embed-cz4rzdevp6yz.html
 type=video
 name=Our Kind of Traitor (2016) TH
 thumb=https://image.tmdb.org/t/p/w640/vZklhnvecz1mA5pv93v20fLdO8Y.jpg
-date=2017-12-22
-URL=https://streamango.com/f/odpdqtrackbblnnk/Our_Kind_of_Traitor_mp4
+date=2017-12-25
+URL=https://openload.co/f/GSfisU7uzoA/Our_Kind_of_Traitor_%282016%29%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%8B%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+#https://streamango.com/f/odpdqtrackbblnnk/Our_Kind_of_Traitor_mp4
 
 
 type=video
@@ -3562,16 +3624,18 @@ URL=https://www.blazefile.co/embed-sdp2qwa7fxph.html
 type=video
 name=The Glass Castle (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/d5fLQ9ZMa1jZ2mODCv5lOWJDugX.jpg
-date=2017-12-23
-URL=https://openload.co/f/iLenP8u9kSk/The_Glass_Castle_%282017%29%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%88.mp4
+date=2017-12-25
+URL=https://openload.co/f/HJOlwF8RJ1Q/The_Glass_Castle_%282017%29%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%88.mp4
+#https://openload.co/f/iLenP8u9kSk/The_Glass_Castle_%282017%29%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%88.mp4
 #https://streamango.com/f/mdttmeaslndralna/The_Glass_Castle_mp4
 
 
 type=video
 name=Buena Vista Social Club: Adios (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/fe6lCeuUD7q5m4Qm8U1r0l5AtsZ.jpg
-date=2017-12-22
-URL=https://streamango.com/f/olcqanpkolcttrer/Buena_Vista_Social_Club_Adios_mp4
+date=2017-12-25
+URL=https://openload.co/f/2NzwwpeDPHE/Buena_Vista_Social_Club%3A_Adios_%282017%29%E0%B8%81%E0%B8%B9%E0%B9%88%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+#https://streamango.com/f/olcqanpkolcttrer/Buena_Vista_Social_Club_Adios_mp4
 
 
 type=video
