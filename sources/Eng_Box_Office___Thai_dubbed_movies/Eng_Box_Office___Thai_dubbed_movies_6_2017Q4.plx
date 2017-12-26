@@ -64,10 +64,24 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-12-25
+date=2017-12-26
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
+
+
+
+type=video
+name=I, Tonya (2017) ENG DVDScr.XVID.HQ.Hive-CM8
+thumb=https://image.tmdb.org/t/p/w640/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg
+date=2017-12-26
+URL=https://openload.co/f/FPU8_oiG8uE/I%2CTonya.2017.DVDScr.XVID.HQ.Hive-CM8.avi.mp4
+
+type=video
+name=Lady Bird (2017) ENG DVDScr.AC3.HQ.Hive-CM8
+thumb=https://image.tmdb.org/t/p/w640/pVtoXPA2zqNTeaR8MOsrD1XvUXK.jpg
+date=2017-12-26
+URL=https://openload.co/f/tT44lsJFX7g/Lady.Bird.2017.DVDScr.AC3.HQ.Hive-CM8.mp4
 
 type=video
 name=The Disaster Artist (2017) ENG HDCAM_X264_HQMic-CPG
@@ -82,10 +96,12 @@ date=2017-12-25
 URL=https://openload.co/f/H8IXHlo5aCk/Downsizing.2017.CLEAN.720p.HDCAM.x264.AAC-NEXUS.mp4
 
 type=video
-name=Jumanji: Welcome to the Jungle (2017) LAT HDCAM_Latino_720p_Spacemov.io
+name=Jumanji: Welcome to the Jungle (2017) ENG CAM.XViD-NoGRP
 thumb=https://image.tmdb.org/t/p/w640/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
-date=2017-12-23
-URL=https://openload.co/f/cmK8GffxUSA/Jumanji_Welcome_to_the_Jungle_%282017%29_HDCAM_Latino_720p_Spacemov.io
+date=2017-12-26
+URL=https://openload.co/f/w-FFXEtVDJM/Jumanji%3A_Welcome_to_the_Jungle.2017.CAM.XViD-NoGRP.avi
+#https://openload.co/f/CuEIqcXv5E8/Jumanji%3A_Welcome_to_the_Jungle_2017_ENG_CAM_XViD-P2P.avi.mp4
+#https://openload.co/f/cmK8GffxUSA/Jumanji_Welcome_to_the_Jungle_%282017%29_HDCAM_Latino_720p_Spacemov.io
 
 type=video
 name=Woody Woodpecker (2017) LAT tshq.latino
@@ -360,10 +376,11 @@ URL=https://openload.co/f/PTyemixWhCc/The.Snowman.2017.1080p.WEB%3EB-DL.DD5.1.H2
 #https://openload.co/f/mTFsFIWDkm4/The_Snowman_2017_NOLOGO_HDCAM_X264_HQMic-DADDY.mp4
 
 type=video
-name=Marshall (2017) ENG TS.x264.Clean.Audio.AAC.New.Source.rDX
+name=Marshall (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/2z9oNW3TE5H5woLozFwfxlRRc0b.jpg
-date=2017-11-14
-URL=https://openload.co/f/RtjAPjl12-M/Marshall.2017.Movies.HD.TS.x264.Clean.Audio.AAC.New.Source.rDX.mkv.mp4
+date=2017-12-26
+URL=https://openload.co/f/8vN3wlt8dR0/Marshall.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/RtjAPjl12-M/Marshall.2017.Movies.HD.TS.x264.Clean.Audio.AAC.New.Source.rDX.mkv.mp4
 #https://openload.co/f/8UKPBGPLaDk/Marshall.2017.CAM.READNFO.XViD-26k.avi.mp4
 
 
@@ -3545,9 +3562,15 @@ URL=
 type=video
 name=
 thumb=
-date=2017-12-22
+date=2017-12-26
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
+
+type=video
+name=God of War (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/4rWq9Vwb1gVhQIqkhUKE0hPVwnz.jpg
+date=2017-12-26
+URL=https://openload.co/f/GTH_ES0SlgU/God_of_War_%282017%29%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%8D%E0%B8%9A%E0%B8%B2%E0%B8%99.mp4
 
 
 type=video
