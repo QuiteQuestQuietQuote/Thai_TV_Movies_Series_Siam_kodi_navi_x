@@ -64,12 +64,16 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-12-26
+date=2017-12-27
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
 
-
+type=video
+name=Three Billboards Outside Ebbing, Missouri (2017) ENG DVDScr_XVID_AC3_HQ_Hive--CM8
+thumb=https://image.tmdb.org/t/p/w640/vgvw6w1CtcFkuXXn004S5wQsHRl.jpg
+date=2017-12-27
+URL=https://openload.co/f/7LFK5fM_0wM/Three_Billboards_Outside_Ebbing%2CMissouri_2017_DVDScr_XVID_AC3_HQ_Hive--CM8.avi.mp4
 
 type=video
 name=I, Tonya (2017) ENG DVDScr.XVID.HQ.Hive-CM8
@@ -96,10 +100,11 @@ date=2017-12-25
 URL=https://openload.co/f/H8IXHlo5aCk/Downsizing.2017.CLEAN.720p.HDCAM.x264.AAC-NEXUS.mp4
 
 type=video
-name=Jumanji: Welcome to the Jungle (2017) ENG CAM.XViD-NoGRP
+name=Jumanji: Welcome to the Jungle (2017) ENG CAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w640/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
-date=2017-12-26
-URL=https://openload.co/f/w-FFXEtVDJM/Jumanji%3A_Welcome_to_the_Jungle.2017.CAM.XViD-NoGRP.avi
+date=2017-12-27
+URL=https://openload.co/f/QnlI8LFYvHY/Jumanji_2017_CAM_SeeHD.mkv.mp4
+#https://openload.co/f/w-FFXEtVDJM/Jumanji%3A_Welcome_to_the_Jungle.2017.CAM.XViD-NoGRP.avi
 #https://openload.co/f/CuEIqcXv5E8/Jumanji%3A_Welcome_to_the_Jungle_2017_ENG_CAM_XViD-P2P.avi.mp4
 #https://openload.co/f/cmK8GffxUSA/Jumanji_Welcome_to_the_Jungle_%282017%29_HDCAM_Latino_720p_Spacemov.io
 
@@ -376,10 +381,11 @@ URL=https://openload.co/f/PTyemixWhCc/The.Snowman.2017.1080p.WEB%3EB-DL.DD5.1.H2
 #https://openload.co/f/mTFsFIWDkm4/The_Snowman_2017_NOLOGO_HDCAM_X264_HQMic-DADDY.mp4
 
 type=video
-name=Marshall (2017) ENG HDRip.XviD.AC3-EVO
+name=Marshall (2017) ENG WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/2z9oNW3TE5H5woLozFwfxlRRc0b.jpg
-date=2017-12-26
-URL=https://openload.co/f/8vN3wlt8dR0/Marshall.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2017-12-27
+URL=https://openload.co/f/JGf43ccWqWg/Marshall.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/8vN3wlt8dR0/Marshall.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/RtjAPjl12-M/Marshall.2017.Movies.HD.TS.x264.Clean.Audio.AAC.New.Source.rDX.mkv.mp4
 #https://openload.co/f/8UKPBGPLaDk/Marshall.2017.CAM.READNFO.XViD-26k.avi.mp4
 
@@ -1161,12 +1167,36 @@ URL=https://www.blazefile.co/embed-h25coos10uwx.html
 
 type=video
 name=
-thumb=
-date=2017-12-20
-URL=
+thumb=https://ganool.se/wp-content/uploads/2017/12/The-Young-Offenders-2016-219x323.jpg
+date=2017-12-27
+URL=http://mediafire.com/download/n9m99t2j03dmys7
 
 
+type=video
+name=
+thumb=https://ganool.se/wp-content/uploads/2017/12/Brawl-in-Cell-Block-99-2017-BluRay-255x323.jpg
+date=2017-12-27
+URL=https://uptostream.com/w5wytjigcoqw
 
+
+type=video
+name=
+thumb=https://ganool.se/wp-content/uploads/2017/12/Brawl-in-Cell-Block-99-2017-BluRay-255x323.jpg
+date=2017-12-27
+URL=https://uptobox.com/w5wytjigcoqw
+
+type=video
+name=
+thumb=https://ganool.se/wp-content/uploads/2017/12/Brawl-in-Cell-Block-99-2017-BluRay-255x323.jpg
+date=2017-12-27
+URL=http://idup.to/e6op0vn1j1gr
+
+
+type=video
+name=The Young Offenders (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/ssCpVC9m7JMHBR8zvmY77genKA3.jpg
+date=2017-12-27
+URL=https://openload.co/f/gBRUL5nQIbE/The.Young.Offenders.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Stolen (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1182,13 +1212,7 @@ date=2017-12-24
 URL=https://openload.co/f/NBEA2eZ3lII/Mark.Felt.The.Man.Who.Brought.Down.the.White.House.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://www.blazefile.co/embed-xequuxhy82xf.html   720
 
-type=video
-name=Battle of the Sexes (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/v3y96NrwyBxqNhVpHIBZix0uPKP.jpg
-date=2017-12-22
-URL=https://www.blazefile.co/embed-2z3xyruc6ova.html
-#https://openload.co/f/vCSWt5abNAA/Battle.of.the.Sexes.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
-#https://openload.co/f/rEJOPUmaVZg/Battle.of.the.Sexes.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Bitch (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2524,19 +2548,7 @@ URL=https://streamango.com/f/dedmrkdoeockpqkq/Jigsaw_2017_
 
 
 
-type=video
-name=Blade Runner 2049 (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
-date=2017-12-25
-URL=https://openload.co/f/s-a3hMw_iZo/Blade_Runner_2049.2017.HDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/9NspfMbbKoU/Blade.Runner.2049.2017.NEW.HD-TS.X264B.HQ-CPG.mp4
-#https://openload.co/f/jliaTDYzQJs/Blade_Runner_2049_%282017%29_%5B720p%5D_CAM_x264-NoGRP_mp4
-#https://openload.co/f/SoWJsZvgxAk/Blade_Runner_2049.2017.CAM.X264.AAC.1.7GB.mp4
-type=video
-name=Blade Runner 2049 (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
-date=2017-10-12
-URL=https://openload.co/f/UUwifxE0sAE/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%94_%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C_2049_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+
 
 
 type=video
@@ -3179,9 +3191,32 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-24
+date=2017-10-27
 URL=
 
+
+
+type=video
+name=Blade Runner 2049 (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
+date=2017-12-25
+URL=https://openload.co/f/s-a3hMw_iZo/Blade_Runner_2049.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/9NspfMbbKoU/Blade.Runner.2049.2017.NEW.HD-TS.X264B.HQ-CPG.mp4
+#https://openload.co/f/jliaTDYzQJs/Blade_Runner_2049_%282017%29_%5B720p%5D_CAM_x264-NoGRP_mp4
+#https://openload.co/f/SoWJsZvgxAk/Blade_Runner_2049.2017.CAM.X264.AAC.1.7GB.mp4
+type=video
+name=Blade Runner 2049 (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
+date=2017-12-27
+URL=https://streamango.com/f/boknmrdsnpnfokep/Blade_Runner_2049_2017_mp4
+#https://openload.co/f/UUwifxE0sAE/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%94_%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C_2049_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+
+
+type=video
+name=Tokyo Ghoul (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/53Tjv28KGP7ZZh7XqTer90t6tMZ.jpg
+date=2017-10-27
+URL=https://streamango.com/f/btdnmcsfrpqqaqmn/Tokyo_Ghoul_2017_
 
 
 type=video
@@ -3197,8 +3232,9 @@ URL=https://openload.co/f/9aU7M3BmTTY/Justice_League_%282017%29_%5B720p%5D_PROPE
 type=video
 name=Justice League (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
-date=2017-12-24
-URL=https://streamango.com/f/cnlftlrrnklpsrfs/Justice_League_2017_1080p_KORSUB_28ThaiRongAAC_29_mp4
+date=2017-12-27
+URL=https://streamango.com/f/eacblflbsprtceed/Justice_League_2017_
+#https://streamango.com/f/cnlftlrrnklpsrfs/Justice_League_2017_1080p_KORSUB_28ThaiRongAAC_29_mp4
 #https://openload.co/f/XXv5UEq-MzU/Justice_League_%282017%29%E0%B8%88%E0%B8%B1%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%8B_%E0%B8%A5%E0%B8%B5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
@@ -3564,6 +3600,21 @@ name=
 thumb=
 date=2017-12-26
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
+
+
+
+type=video
+name=Battle of the Sexes (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/v3y96NrwyBxqNhVpHIBZix0uPKP.jpg
+date=2017-12-22
+URL=https://www.blazefile.co/embed-2z3xyruc6ova.html
+#https://openload.co/f/vCSWt5abNAA/Battle.of.the.Sexes.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/rEJOPUmaVZg/Battle.of.the.Sexes.2017.HDRip.XviD.AC3-EVO.avi.mp4
+type=video
+name=Battle of the Sexes (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/v3y96NrwyBxqNhVpHIBZix0uPKP.jpg
+date=2017-12-27
+URL=https://streamango.com/f/rfsreqnrabpprmdd/_MINI_Super-HQ_Battle_of_the_Sexes_2017_1080p_BrRip_DTS_x264_NongZEZA_CtHts_mkv_mp4
 
 
 type=video
