@@ -393,12 +393,7 @@ URL=https://openload.co/f/JGf43ccWqWg/Marshall.2017.1080p.WEB-DL.DD5.1.H264-FGT.
 
 
 
-type=video
-name=November Criminals (2017) ENG WEB-DL H264 AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/xQ40BNgkwq8JchXYORkhTwvtLac.jpg
-date=2017-11-08
-URL=https://www.blazefile.co/embed-v7xd0e74owia.html
-#https://openload.co/f/hPvOIjnmC58/November_Criminals.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=The Only Living Boy in New York (2017) ENG WEB-DL.x264-FGT
@@ -732,10 +727,11 @@ date=2017-10-16
 URL=https://openload.co/f/UKGuPSK2OjQ/Kiss_and_Cry_%282017%29_1080p_WEBRip_%5Bmoviseries.com%5D.mp4
 
 type=video
-name=The Gaelic King (2017) ENG DVDRip.x264-SPOOKS
+name=The Gaelic King (2017) ENG web.h264-strife
 thumb=https://image.tmdb.org/t/p/w640/wgdWTkIm0mc4RpcFqDtPMwhBd3e.jpg
-date=2017-10-16
-URL=https://openload.co/f/a32POD-ZrdM/The.Gaelic.King.2017.DVDRip.x264-SPOOKS.mkv.mp4
+date=2017-12-28
+URL=https://openload.co/f/SBNTs47ybPQ/the.gaelic.king.2017.web.h264-strife.mkv.mp4
+#https://openload.co/f/a32POD-ZrdM/The.Gaelic.King.2017.DVDRip.x264-SPOOKS.mkv.mp4
 #https://openload.co/f/xKvLAvDHFug/The.Gaelic.King.2017.DVDRip.XViD.AC3-juggs.avi.mp4
 
 type=video
@@ -1167,16 +1163,16 @@ URL=https://www.blazefile.co/embed-h25coos10uwx.html
 
 type=video
 name=
-thumb=https://ganool.se/wp-content/uploads/2017/12/The-Young-Offenders-2016-219x323.jpg
+thumb=
 date=2017-12-27
-URL=http://mediafire.com/download/n9m99t2j03dmys7
+URL=
 
 
 type=video
 name=
-thumb=https://ganool.se/wp-content/uploads/2017/12/Brawl-in-Cell-Block-99-2017-BluRay-255x323.jpg
+thumb=
 date=2017-12-27
-URL=https://uptostream.com/w5wytjigcoqw
+URL=
 
 
 type=video
@@ -1187,9 +1183,9 @@ URL=https://uptobox.com/w5wytjigcoqw
 
 type=video
 name=
-thumb=https://ganool.se/wp-content/uploads/2017/12/Brawl-in-Cell-Block-99-2017-BluRay-255x323.jpg
+thumb=
 date=2017-12-27
-URL=http://idup.to/e6op0vn1j1gr
+URL=
 
 
 type=video
@@ -2393,7 +2389,13 @@ URL=https://www.blazefile.co/embed-lfk9504cbtzq.html
 #https://openload.co/f/-zrXaN0ZkDk/Rebel.in.the.Rye.2017.LIMITED.720p.BluRay.x264-GECKOS.mkv
 #https://openload.co/f/Dz3XigJcYv8/Rebel_In_the_Rye_2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-
+type=video
+name=November Criminals (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/xQ40BNgkwq8JchXYORkhTwvtLac.jpg
+date=2017-12-28
+URL=https://openload.co/f/dDnslCKT1Cw/November.Criminals.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://www.blazefile.co/embed-v7xd0e74owia.html   web
+#https://openload.co/f/hPvOIjnmC58/November_Criminals.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 
 
@@ -2471,10 +2473,11 @@ URL=http://203.162.235.41:17819
 
 
 type=video
-name=Star Wars: The Last Jedi (2017) ENG CAM_NEW_SOURCES_XViD-26k
+name=Star Wars: The Last Jedi (2017) ENG E-SUB.HC-TS-X264-MP3-Zit
 thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
-date=2017-12-25
-URL=https://openload.co/f/UsQnyhGkctY/Star_Wars_The_Last_Jedi_%282017%29.720p.CAM_NEW_SOURCES_XViD-26k_avi_mp4
+date=2017-12-28
+URL=https://openload.co/f/kyTP9W4q7gY/Star.Wars.The.Last.Jedi.2017.E-SUB.HC-TS-X264-MP3-Zit.mp4
+#https://openload.co/f/UsQnyhGkctY/Star_Wars_The_Last_Jedi_%282017%29.720p.CAM_NEW_SOURCES_XViD-26k_avi_mp4
 #https://openload.co/f/ZTakoaEg4C8/Star_Wars%3A_The_Last_Jedi_%282017%29.720p.hdcam_SeeHD.mkv.mp4
 #https://openload.co/f/UrK6v2uPmbQ/Star_Wars_The_Last_Jedi_2017_FULL_HDCAM_ENGLiSH_x264_HQMIC-DADDY.mkv.mp4
 #https://openload.co/f/US7D15Fv2OU/STAR_WARS_THE_LAST_JEDI_2017_FULL_ENGLISH_HDCAM_ste20.mp4
@@ -2885,8 +2888,9 @@ URL=https://openload.co/f/JwY0AqV5rPQ/Brigsby_Bear_%282017%29%E0%B8%9A%E0%B8%A3%
 type=video
 name=Brawl in Cell Block 99 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
-date=2017-12-21
-URL=https://openload.co/f/-CHm5KLFBCo/Brawl.in.Cell.Block.99.2017.1080p.BluRay.x264.DTS.-.Hon3y.mkv.mp4
+date=2017-12-28
+URL=https://openload.co/f/nolvaU5ZQNA/Brawl_In_Cell_Block_99_%282017%29.1080p.BluRay_x264-%5BYTS_AG%5D_mp4
+#https://openload.co/f/-CHm5KLFBCo/Brawl.in.Cell.Block.99.2017.1080p.BluRay.x264.DTS.-.Hon3y.mkv.mp4
 #https://openload.co/f/am4891uFxJ4/Brawl.in.Cell.Block.99.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 #https://openload.co/f/aT6jWYPHnBk/Brawl.in.Cell.Block.99.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 type=video
@@ -3320,10 +3324,11 @@ URL=https://streamango.com/f/pqlbelmdakeoecca/Wind_River_2017_
 
 
 type=video
-name=The Foreigner (2017) ENG WEBBBRip.x264-NEXTGEN
+name=The Foreigner (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
-date=2017-12-16
-URL=https://openload.co/f/ncxJmiluv40/The.Foreigner.2017.1080p.WEBBBRip.x264-NEXTGEN.mkv.mp4
+date=2017-12-28
+URL=https://openload.co/f/eprVMfHbycU/The.Foreigner.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/ncxJmiluv40/The.Foreigner.2017.1080p.WEBBBRip.x264-NEXTGEN.mkv.mp4
 #https://openload.co/f/UhUJ1n7obrQ/The.Foreigner.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/i3PUIrw5QUE/The_Foreigner_%282017%29_%5B720P_ENG_NEW_HC-TC%5D
 #https://openload.co/f/n6Qud5byQLs/The_Foreigner.2017.SUBBED.CAM.READNFO.XViD-26k.avi
