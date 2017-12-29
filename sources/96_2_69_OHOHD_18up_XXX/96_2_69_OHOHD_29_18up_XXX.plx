@@ -60,7 +60,17 @@ URL=
 
 
 
+type=video
+name=96xxxxxxxxxxxxxxxxxxxxDie Grosse Franzosische Orgie (1979)
+thumb=https://2.bp.blogspot.com/-Vn9c_NTPEYQ/Wjzmrl2xdZI/AAAAAAAAN4g/jgVW7vNm01cdE0qe18tvIcNzedebYBdXACLcBGAs/s1600/3SSS.png
+date=2017-12-29
+URL=https://openload.co/f/ZXHtzYrbE_4/
 
+type=video
+name=Reifeprufung auf der Schulbank (1982)
+thumb=https://1.bp.blogspot.com/-w6IDS32yMaE/WjzmqheMrSI/AAAAAAAAN4Y/2VcQWJ-hHV8a5i7RHK2IsLohPL5ahgJJQCLcBGAs/s1600/3SS.jpg
+date=2017-12-29
+URL=https://openload.co/f/Lq6M8nAADkQ/
 
 
 
