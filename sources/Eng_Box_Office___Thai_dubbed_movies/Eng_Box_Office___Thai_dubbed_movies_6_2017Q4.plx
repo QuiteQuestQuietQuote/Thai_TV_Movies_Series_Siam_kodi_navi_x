@@ -64,7 +64,7 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-12-27
+date=2017-12-30
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
@@ -99,15 +99,8 @@ thumb=https://image.tmdb.org/t/p/w640/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
 date=2017-12-25
 URL=https://openload.co/f/H8IXHlo5aCk/Downsizing.2017.CLEAN.720p.HDCAM.x264.AAC-NEXUS.mp4
 
-type=video
-name=Jumanji: Welcome to the Jungle (2017) ENG HDCAM.New-Source.x264-LoveHD
-thumb=https://image.tmdb.org/t/p/w640/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
-date=2017-12-29
-URL=https://openload.co/f/WB1vO402gvQ/Jumanji.Welcome.to.the.Jungle.2017.720p.HDCAM.New-Source.x264-LoveHD.mkv.mp4
-#https://openload.co/f/QnlI8LFYvHY/Jumanji_2017_CAM_SeeHD.mkv.mp4
-#https://openload.co/f/w-FFXEtVDJM/Jumanji%3A_Welcome_to_the_Jungle.2017.CAM.XViD-NoGRP.avi
-#https://openload.co/f/CuEIqcXv5E8/Jumanji%3A_Welcome_to_the_Jungle_2017_ENG_CAM_XViD-P2P.avi.mp4
-#https://openload.co/f/cmK8GffxUSA/Jumanji_Welcome_to_the_Jungle_%282017%29_HDCAM_Latino_720p_Spacemov.io
+
+
 
 type=video
 name=Woody Woodpecker (2017) LAT tshq.latino
@@ -290,11 +283,23 @@ URL=https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.m
 type=video
 name=
 thumb=
-date=2017-12-25
+date=2017-12-30
 URL=
 
 
 
+
+type=video
+name=The Florida Project (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
+thumb=https://image.tmdb.org/t/p/w640/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg
+date=2017-12-30
+URL=https://openload.co/f/I0v3vaBhz6Q/The.Florida.Project.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+
+type=video
+name=Permanent (2017) ENG WEB-DL_SeeHD
+thumb=https://image.tmdb.org/t/p/w640/zrRT7xHUakZoEi6wAp8SIdeMNux.jpg
+date=2017-12-30
+URL=https://openload.co/f/jA-VSI9yoE0/Permanent_2017_720p_WEB-DL_SeeHD.mkv.mp4
 
 type=video
 name=Maigret in Montmartre (2017) ENG hdtv.hevc.x265.rmteam
@@ -1162,9 +1167,9 @@ URL=https://www.blazefile.co/embed-h25coos10uwx.html
 
 type=video
 name=
-thumb=
+thumb=https://ganool.se/wp-content/uploads/2017/12/The-Hunchback-of-Notre-Dame-1996-BluRay-254x323.jpg
 date=2017-12-27
-URL=
+URL=http://download1364.mediafire.com/567qkq9r26yg/sy6st3y4k8o3olc/thehuncbacotredame80.Ganool.se.mkv
 
 
 type=video
@@ -2471,6 +2476,23 @@ URL=http://203.162.235.41:17819
 
 
 
+
+
+type=video
+name=Jumanji: Welcome to the Jungle (2017) ENG TS.READNFO.XViD-BL4CKP34RL
+thumb=https://image.tmdb.org/t/p/w640/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
+date=2017-12-30
+URL=https://openload.co/f/47uz-2dsxwI/Jumanji_Welcome_to_the_Jungle_.2017.TS.READNFO.XViD-BL4CKP34RL.avi.mp4
+#https://openload.co/f/WB1vO402gvQ/Jumanji.Welcome.to.the.Jungle.2017.720p.HDCAM.New-Source.x264-LoveHD.mkv.mp4
+#https://openload.co/f/QnlI8LFYvHY/Jumanji_2017_CAM_SeeHD.mkv.mp4
+#https://openload.co/f/w-FFXEtVDJM/Jumanji%3A_Welcome_to_the_Jungle.2017.CAM.XViD-NoGRP.avi
+#https://openload.co/f/CuEIqcXv5E8/Jumanji%3A_Welcome_to_the_Jungle_2017_ENG_CAM_XViD-P2P.avi.mp4
+#https://openload.co/f/cmK8GffxUSA/Jumanji_Welcome_to_the_Jungle_%282017%29_HDCAM_Latino_720p_Spacemov.io
+type=video
+name=Jumanji: Welcome to the Jungle (2017) THCAM
+thumb=https://image.tmdb.org/t/p/w640/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
+date=2017-12-30
+URL=https://streamango.com/f/lfepefddqscnfbrr/Jumanji_Welcome_to_the_Jungle_2017_
 
 
 type=video

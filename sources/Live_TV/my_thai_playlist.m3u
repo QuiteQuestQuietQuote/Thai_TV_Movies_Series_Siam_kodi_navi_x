@@ -1736,7 +1736,8 @@ http://113.175.179.15:4022/rtp/232.84.1.76:8430
 
 
 
-
+#EXTINF:-1,samrojlok hd
+http://103.77.116.191:443/documentary/samrojlok_720p.stream/chunklist.m3u8
 #EXTINF:-1,discovery_science
 http://191.96.38.61:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,discovery_channel
@@ -1845,11 +1846,9 @@ http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
 #EXTINF:-1,24/7 Animated Movies
 http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
 
-#EXTINF:-1,asian_food_channel
-http://103.77.116.191:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8
 
-#EXTINF:-1,samrojlok hd
-http://103.77.116.191:443/documentary/samrojlok_720p.stream/chunklist.m3u8
+
+
 
 #EXTINF:-1,true_explore_sci
 http://103.77.116.191:443/documentary/true_explore_sci_480p.stream/chunklist.m3u8
@@ -1862,6 +1861,9 @@ http://191.96.38.61:443/documentary/national_geographic_hd_720p.stream/playlist.
 
 #EXTINF:-1,national_geographic_people
 http://191.96.38.61:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+
+#EXTINF:-1,asian_food_channel
+http://103.77.116.191:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8
 
 #EXTINF:-1,discovery_hd_world
 http://191.96.38.61:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
