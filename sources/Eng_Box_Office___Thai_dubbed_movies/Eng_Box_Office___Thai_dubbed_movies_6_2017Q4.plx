@@ -64,10 +64,16 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-12-30
+date=2017-12-31
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
+
+type=video
+name=The Greatest Showman (2017) RUS CAM.MoViE1K
+thumb=https://image.tmdb.org/t/p/w640/dfhztJRiElqmYW4kpvjYe1gENsD.jpg
+date=2017-12-31
+URL=https://openload.co/f/pEHfMHoX0xc/The.Greatest.Showman.2017.RUSSIAN.LANG.CAM.MoViE1K.mp4
 
 type=video
 name=Three Billboards Outside Ebbing, Missouri (2017) ENG DVDScr_XVID_AC3_HQ_Hive--CM8
@@ -88,16 +94,18 @@ date=2017-12-26
 URL=https://openload.co/f/tT44lsJFX7g/Lady.Bird.2017.DVDScr.AC3.HQ.Hive-CM8.mp4
 
 type=video
-name=The Disaster Artist (2017) ENG HDCAM_X264_HQMic-CPG
+name=The Disaster Artist (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
 thumb=https://image.tmdb.org/t/p/w640/uCH6FOFsDW6pfvbbmIIswuvuNtM.jpg
-date=2017-12-25
-URL=https://openload.co/f/g9018UKAwrA/The_Disaster_Artist_2017_HDCAM_X264_HQMic-CPG.mkv.mp4
+date=2017-12-31
+URL=https://openload.co/f/O4T4tChlL8Y/The.Disaster.Artist.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/g9018UKAwrA/The_Disaster_Artist_2017_HDCAM_X264_HQMic-CPG.mkv.mp4
 
 type=video
-name=Downsizing (2017) ENG HDCAM.x264.AAC-NEXUS
+name=Downsizing (2017) ENG TS.XViD-BL4CKP34RL
 thumb=https://image.tmdb.org/t/p/w640/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
-date=2017-12-25
-URL=https://openload.co/f/H8IXHlo5aCk/Downsizing.2017.CLEAN.720p.HDCAM.x264.AAC-NEXUS.mp4
+date=2017-12-31
+URL=https://openload.co/f/FnpHjO5a37w/Downsizing.2017.TS.XViD-BL4CKP34RL.avi.mp4
+#https://openload.co/f/H8IXHlo5aCk/Downsizing.2017.CLEAN.720p.HDCAM.x264.AAC-NEXUS.mp4
 
 
 
@@ -146,10 +154,11 @@ date=2017-12-04
 URL=https://openload.co/f/c2aiOqF-6tg/Darkest_Hour_2017_HC_TS_x264-ChiLove.mp4
 
 type=video
-name=Wonder (2017) ENG HDCAM.X264.HQ-DADDY
+name=Wonder (2017) ENG HDTS.X264-NoGRP
 thumb=https://image.tmdb.org/t/p/w640/ouYgAatYH4JzIThj6FI3UYf31RI.jpg
-date=2017-12-04
-URL=https://openload.co/f/fR4CjUe3fnU/Wonder.2017.HDCAM.X264.HQ-DADDY.mkv.mp4
+date=2017-12-31
+URL=https://openload.co/f/3rl1jNYT0tg/Wonder.2017.HDTS.X264-NoGRP.mp4
+#https://openload.co/f/fR4CjUe3fnU/Wonder.2017.HDCAM.X264.HQ-DADDY.mkv.mp4
 
 type=video
 name=Cold Skin (2017) RUS
@@ -296,10 +305,11 @@ date=2017-12-30
 URL=https://openload.co/f/I0v3vaBhz6Q/The.Florida.Project.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 
 type=video
-name=Permanent (2017) ENG WEB-DL_SeeHD
+name=Permanent (2017) ENG WEB-DL.MkvCage
 thumb=https://image.tmdb.org/t/p/w640/zrRT7xHUakZoEi6wAp8SIdeMNux.jpg
-date=2017-12-30
-URL=https://openload.co/f/jA-VSI9yoE0/Permanent_2017_720p_WEB-DL_SeeHD.mkv.mp4
+date=2017-12-31
+URL=https://openload.co/f/4O_RiDAKuh0/Permanent.2017.720p.WEB-DL.MkvCage.mkv.mp4
+#https://openload.co/f/jA-VSI9yoE0/Permanent_2017_720p_WEB-DL_SeeHD.mkv.mp4
 
 type=video
 name=Maigret in Montmartre (2017) ENG hdtv.hevc.x265.rmteam
@@ -1167,9 +1177,9 @@ URL=https://www.blazefile.co/embed-h25coos10uwx.html
 
 type=video
 name=
-thumb=https://ganool.se/wp-content/uploads/2017/12/The-Hunchback-of-Notre-Dame-1996-BluRay-254x323.jpg
+thumb=
 date=2017-12-27
-URL=http://download1364.mediafire.com/567qkq9r26yg/sy6st3y4k8o3olc/thehuncbacotredame80.Ganool.se.mkv
+URL=
 
 
 type=video
@@ -1963,8 +1973,9 @@ URL=https://openload.co/f/BEtt_CyKpx4/Atomica.2017.1080p.BluRay.x264-ROVERS.mkv.
 type=video
 name=Berlin Syndrome (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/qvJeDDYKlfvtYayfOj5sAUXxUju.jpg
-date=2017-09-21
-URL=https://openload.co/f/lwSnQwtORlA/berlin.syndrome.2017.limited.1080p.bluray.x264-veto.mkv.mp4
+date=2017-12-31
+URL=https://openload.co/f/IQFnuqiNcp8/berlin.syndrome.2017.proper.limited.1080p.bluray.x264-usury.mkv.mp4
+#https://openload.co/f/lwSnQwtORlA/berlin.syndrome.2017.limited.1080p.bluray.x264-veto.mkv.mp4
 
 type=video
 name=The Chessplayer (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] MKV 6.6GB
@@ -2479,10 +2490,11 @@ URL=http://203.162.235.41:17819
 
 
 type=video
-name=Jumanji: Welcome to the Jungle (2017) ENG TS.READNFO.XViD-BL4CKP34RL
+name=Jumanji: Welcome to the Jungle (2017) ENG HD-TS_X264_HQ-CPG
 thumb=https://image.tmdb.org/t/p/w640/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
-date=2017-12-30
-URL=https://openload.co/f/47uz-2dsxwI/Jumanji_Welcome_to_the_Jungle_.2017.TS.READNFO.XViD-BL4CKP34RL.avi.mp4
+date=2017-12-31
+URL=https://openload.co/f/wIXuqwJxJd8/Jumanji_Welcome_To_The_Jungle_2017_NEW_720p_HD-TS_X264_HQ-CPG.mkv.mp4
+#https://openload.co/f/47uz-2dsxwI/Jumanji_Welcome_to_the_Jungle_.2017.TS.READNFO.XViD-BL4CKP34RL.avi.mp4
 #https://openload.co/f/WB1vO402gvQ/Jumanji.Welcome.to.the.Jungle.2017.720p.HDCAM.New-Source.x264-LoveHD.mkv.mp4
 #https://openload.co/f/QnlI8LFYvHY/Jumanji_2017_CAM_SeeHD.mkv.mp4
 #https://openload.co/f/w-FFXEtVDJM/Jumanji%3A_Welcome_to_the_Jungle.2017.CAM.XViD-NoGRP.avi
@@ -3420,10 +3432,11 @@ URL=https://openload.co/f/xxwf4ErHils/The.Lego.Ninjago.Movie.2017.1080p.KORSUB.H
 
 
 type=video
-name=My Little Pony: The Movie (2017) ENG HDRip
+name=My Little Pony: The Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/15WbvKx7B7FiLZheK49Xc05oRIX.jpg
-date=2017-10-07
-URL=https://openload.co/f/3nFF8giXD2A/My_Little_Pony%3A_The_Movie_%282017%29_720p_HDRip.mp4
+date=2017-12-31
+URL=https://openload.co/f/46tGHZBzayA/My.Little.Pony.The.Movie.2017.1080p.BluRay.x264-Replica.mkv.mp4
+#https://openload.co/f/3nFF8giXD2A/My_Little_Pony%3A_The_Movie_%282017%29_720p_HDRip.mp4
 type=video
 name=My Little Pony: The Movie (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/15WbvKx7B7FiLZheK49Xc05oRIX.jpg
@@ -3621,8 +3634,9 @@ URL=https://openload.co/f/s-a3hMw_iZo/Blade_Runner_2049.2017.HDRip.XviD.AC3-EVO.
 type=video
 name=Blade Runner 2049 (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
-date=2017-12-29
-URL=https://openload.co/f/K5voMQ_vDl0/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%94_%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C_2049.mp4
+date=2017-12-31
+URL=https://openload.co/f/p-_GSJJMmcg/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%94_%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C_2049.mp4
+#https://openload.co/f/K5voMQ_vDl0/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%94_%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C_2049.mp4
 #https://streamango.com/f/boknmrdsnpnfokep/Blade_Runner_2049_2017_mp4
 #https://openload.co/f/UUwifxE0sAE/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%94_%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C_2049_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
