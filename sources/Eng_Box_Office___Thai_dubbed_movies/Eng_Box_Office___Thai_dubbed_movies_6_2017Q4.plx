@@ -293,9 +293,9 @@ URL=https://openload.co/f/xaI6kEGbCps/Happy.Death.Day.2017.1080p.WEB-DL.DD5.1.H.
 
 type=video
 name=
-thumb=
+thumb=https://image.tmdb.org/t/p/w640/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg
 date=2018-01-02
-URL=
+URL=https://mcloud.to/embed/m282kz?sub.file=https%253A%252F%252Ffmovies.to%252Fsubtitle%252F35926.vtt%253Fv1&ui=pQN%2F%406L99OQMg5WHc6QZipNT2rTJ&autostart=true
 
 
 
