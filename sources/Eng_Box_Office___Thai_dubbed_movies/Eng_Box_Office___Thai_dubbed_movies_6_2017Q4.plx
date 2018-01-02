@@ -70,10 +70,11 @@ URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.blu
 
 
 type=video
-name=The Greatest Showman (2017) RUS CAM.MoViE1K
+name=The Greatest Showman (2017)  ENG HDCAM_ENG_X264-DADDY
 thumb=https://image.tmdb.org/t/p/w640/dfhztJRiElqmYW4kpvjYe1gENsD.jpg
-date=2017-12-31
-URL=https://openload.co/f/pEHfMHoX0xc/The.Greatest.Showman.2017.RUSSIAN.LANG.CAM.MoViE1K.mp4
+date=2018-01-02
+URL=https://openload.co/f/A-NUvRiEbTE/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv.mp4
+#https://openload.co/f/pEHfMHoX0xc/The.Greatest.Showman.2017.RUSSIAN.LANG.CAM.MoViE1K.mp4
 
 type=video
 name=Three Billboards Outside Ebbing, Missouri (2017) ENG DVDScr_XVID_AC3_HQ_Hive--CM8
@@ -271,10 +272,11 @@ URL=https://openload.co/f/0WatHfN8KKw/A.Bad.Moms.Christmas.2017.NEW.720p.HDCAM.X
 
 
 type=video
-name=Happy Death Day (2017) ENG HD-TS_X264_HQ-DADDY
+name=Happy Death Day (2017) ENG WEB-DL.DD5.1.H.264-THVM
 thumb=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
-date=2017-10-22
-URL=https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
+date=2018-01-02
+URL=https://openload.co/f/xaI6kEGbCps/Happy.Death.Day.2017.1080p.WEB-DL.DD5.1.H.264-THVM.mkv.mp4
+#https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
 
 
 
@@ -292,8 +294,42 @@ URL=https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.m
 type=video
 name=
 thumb=
-date=2017-12-30
+date=2018-01-02
 URL=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Wonderstruck (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/yjDAt9K3FKU1itABgIXl6YvLsVE.jpg
+date=2018-01-02
+URL=https://openload.co/f/OwTj4TCUTw4/Wonderstruck.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
+
+
+
+
+
+
+
 
 
 
@@ -2413,7 +2449,11 @@ URL=https://openload.co/f/dDnslCKT1Cw/November.Criminals.2017.720p.BluRay.H264.A
 #https://www.blazefile.co/embed-v7xd0e74owia.html   web
 #https://openload.co/f/hPvOIjnmC58/November_Criminals.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
-
+type=video
+name=Don Quixote: The Ingenious Gentleman of La Mancha (2015) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/AkschvS9NGzVp3QfO0WXTAyQs5r.jpg
+date=2018-01-02
+URL=https://openload.co/f/yTKdvZi4tO0/don.quixote.2015.720p.bluray.x264-rusted.mkv.mp4
 
 
 
@@ -2490,10 +2530,11 @@ URL=http://203.162.235.41:17819
 
 
 type=video
-name=Jumanji: Welcome to the Jungle (2017) ENG HD-TS_X264_HQ-CPG
+name=Jumanji: Welcome to the Jungle (2017) ENG NEW_HDTS_x264_AC3_TiTAN
 thumb=https://image.tmdb.org/t/p/w640/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
-date=2017-12-31
-URL=https://openload.co/f/wIXuqwJxJd8/Jumanji_Welcome_To_The_Jungle_2017_NEW_720p_HD-TS_X264_HQ-CPG.mkv.mp4
+date=2018-01-02
+URL=https://openload.co/f/GVnelBicD4M/Jumanji_2017_720p_NEW_HDTS_x264_AC3_TiTAN.mkv.mp4
+#https://openload.co/f/wIXuqwJxJd8/Jumanji_Welcome_To_The_Jungle_2017_NEW_720p_HD-TS_X264_HQ-CPG.mkv.mp4
 #https://openload.co/f/47uz-2dsxwI/Jumanji_Welcome_to_the_Jungle_.2017.TS.READNFO.XViD-BL4CKP34RL.avi.mp4
 #https://openload.co/f/WB1vO402gvQ/Jumanji.Welcome.to.the.Jungle.2017.720p.HDCAM.New-Source.x264-LoveHD.mkv.mp4
 #https://openload.co/f/QnlI8LFYvHY/Jumanji_2017_CAM_SeeHD.mkv.mp4
@@ -2508,10 +2549,11 @@ URL=https://streamango.com/f/lfepefddqscnfbrr/Jumanji_Welcome_to_the_Jungle_2017
 
 
 type=video
-name=Ferdinand (2017) ENG HDCAM_NO_LOGO_720p_Spacemov.io
+name=Ferdinand (2017) ENG HDCAM_.720p-DerpusMaxiums
 thumb=https://image.tmdb.org/t/p/w640/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg
-date=2017-12-22
-URL=https://openload.co/f/XwQneA9shx4/Ferdinand_2017_HDCAM_NO_LOGO_720p_Spacemov.io.mp4
+date=2018-01-02
+URL=https://openload.co/f/bifINJBmeNg/Ferdinand.2017.HDCAM_.720p-DerpusMaxiums.mp4
+#https://openload.co/f/XwQneA9shx4/Ferdinand_2017_HDCAM_NO_LOGO_720p_Spacemov.io.mp4
 type=video
 name=Ferdinand (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg
@@ -3380,10 +3422,11 @@ URL=https://streamango.com/f/pblsaqsboposetfo/The_Foreigner_2017_2_
 
 
 type=video
-name=Geostorm (2017) ENG HDRip.KORSUB.x264
+name=Geostorm (2017) ENG WEB-DL.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
-date=2017-11-20
-URL=https://openload.co/f/LlMu3K9_im8/Geostorm.2017.720p.HDRip.KORSUB.x264.mp4
+date=2018-01-02
+URL=https://openload.co/f/x6LBJVs6d6Y/Geostorm.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/LlMu3K9_im8/Geostorm.2017.720p.HDRip.KORSUB.x264.mp4
 #https://openload.co/f/WTrxZvQ3bcA/Geostorm.2017.CAM.XViD-26k.avi.mp4
 #https://openload.co/f/KoOE2nWVFFk/Geostorm_2017_CLEAN_SoundFix_HDCAM_ENG_X264_-_Feel.Free.mp4
 #https://openload.co/f/r8oWRvUiE7U/Geostorm_2017_HDCAM_ENG_X264-Feel_Free.mkv.mp4
