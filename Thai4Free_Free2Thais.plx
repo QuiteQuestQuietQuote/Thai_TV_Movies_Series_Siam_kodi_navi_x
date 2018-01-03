@@ -40,7 +40,7 @@ type=video
 name=
 thumb=
 date=
-URL=http://183.88.212.205:8010/play/a02z
+URL=http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8
 player=default
 rating=-1.00
 
@@ -70,8 +70,7 @@ description=Before using download, must install youtube-dl Control (install from
 type=video
 name=
 thumb=
-URL=http://103.77.116.191:443//documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#rtmp://tv01.thaizatv.com/drm/movie1
+URL=rtmp://tv01.thaizatv.com/drm/movie1
 
 
 
