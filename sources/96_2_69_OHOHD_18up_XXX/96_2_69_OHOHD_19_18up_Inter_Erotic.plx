@@ -24,7 +24,7 @@ rating=-1.00
 type=video
 name=
 thumb=
-URL=
+URL=https://mcloud.to/embed/gozo75?sub.file=https%253A%252F%252Ffmovies.to%252Fsubtitle%252F30630.vtt%253Fv1&ui=pQN%2F%406L99OQMg5WHc6QZhMMGivuR&autostart=true
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -106,7 +106,8 @@ type=video
 name=An Eye for Beauty (2014)
 thumb=https://image.tmdb.org/t/p/w640/62PVBV9RZwLpGDK2IHwM32Zz25M.jpg
 date=2017-11-03
-URL=https://rockfile.to/file/NbdnsaSjNQ
+URL=https://www.blazefile.co/embed-hcjz5vjx3lkh.html
+#https://rockfile.to/file/NbdnsaSjNQ
 
 type=video
 name=The Witches of Breastwick (2005)
@@ -156,7 +157,8 @@ type=video
 name=Belle Époque (1992)
 thumb=https://image.tmdb.org/t/p/w640/rbbLHEalXSLU3xwqvsftn5rol3S.jpg
 date=2017-10-20
-URL=https://openload.co/f/5imoVjlzQA4/Belle_Epoque.1992.720p.BluRay_HC_ENG_SUBS.mp4
+URL=http://entervideo.net/watch/c3870a1886b5aae
+#https://openload.co/f/5imoVjlzQA4/Belle_Epoque.1992.720p.BluRay_HC_ENG_SUBS.mp4
 #https://openload.co/f/LDUk8wOj0Jg/Belle_Epoque-tt0103791.mp4
 
 type=video
@@ -175,7 +177,8 @@ type=video
 name=Eat (2014)
 thumb=https://image.tmdb.org/t/p/w640/aq38K2WyxZIRrwBG9nqo83q8rBn.jpg
 date=2017-10-16
-URL=https://filebebo.com/e/me49y5nxpbw9
+URL=https://www.blazefile.co/embed-nqpw8gonbaie.html
+#https://filebebo.com/e/me49y5nxpbw9
 
 type=video
 name=Sex Doll (2016)
@@ -225,7 +228,8 @@ type=video
 name=Kiss Me (2011)
 thumb=http://cdn.sockshare.net/Rdgebv8.jpg
 date=2017-10-13
-URL=http://entervideo.net/watch/8d7c7753d4dd9c4
+URL=https://www.blazefile.co/embed-dnhi4wfnctmu.html
+#http://entervideo.net/watch/8d7c7753d4dd9c4
 
 type=video
 name=Romance & Cigarettes (2005)
@@ -268,7 +272,8 @@ type=video
 name=Adaline (2015) MKV
 thumb=https://image.tmdb.org/t/p/w640/hgjWwCbRyTYzOCDKkglocU821h4.jpg
 date=2017-10-08
-URL=https://openload.co/f/q_CfcLR-ZSs/bdgua-adaline-720p.mkv
+URL=https://www.blazefile.co/embed-godf5ke51847.html
+#https://openload.co/f/q_CfcLR-ZSs/bdgua-adaline-720p.mkv
 #https://www.blazefile.co/embed-godf5ke51847.html
 #http://entervideo.net/watch/94424ed70224b0e
 
@@ -290,7 +295,8 @@ type=video
 name=Down by Love (2016)
 thumb=https://image.tmdb.org/t/p/w640/bYZKngNLoj1nEmQS9lyKW4trsHM.jpg
 date=2017-09-25
-URL=https://openload.co/f/_0YKMUyDWg4/down.by.love.2016.limited.dvdrip.x264_cadaver.E.mp4
+URL=https://www.blazefile.co/embed-c8vzqxizxio6.html
+#https://openload.co/f/_0YKMUyDWg4/down.by.love.2016.limited.dvdrip.x264_cadaver.E.mp4
 #http://entervideo.net/watch/0e387d9edfb89b4
 
 type=video
@@ -415,7 +421,8 @@ type=video
 name=White Bird in a Blizzard (2014)
 thumb=https://image.tmdb.org/t/p/w640/8ZnFiFQepbmTpRjPs8Z1e7wTV8t.jpg
 date=2017-08-15
-URL=https://openload.co/f/Lh_lFx-ofTc/%5Bfmovies.to%5D_RE_White_Bird_In_A_Blizzard.2014.HD_1080p.160519.mp4
+URL=https://www.blazefile.co/embed-exwq2z8v0qmb.html
+#https://openload.co/f/Lh_lFx-ofTc/%5Bfmovies.to%5D_RE_White_Bird_In_A_Blizzard.2014.HD_1080p.160519.mp4
 
 type=video
 name=Blue Is the Warmest Color (2013)
@@ -526,7 +533,7 @@ type=video
 name=Womb (2010)
 thumb=https://image.tmdb.org/t/p/w640/2GMVSKD1LkVckweKBZ8jd23bDcv.jpg
 date=2017-08-15
-URL=https://rockfile.to/file/a9bRiZuH5Y
+URL=https://www.blazefile.co/embed-bkeihauaap6h.html
 #http://entervideo.net/watch/162ae69494f4a0b
 #https://openload.co/f/67IWJ_hbpCk/Womb.2010.720p.BrRip.x264.YIFY.mp4
 
@@ -558,7 +565,8 @@ type=video
 name=Stealing Beauty (1996)
 thumb=https://image.tmdb.org/t/p/w640/sAzqK3sNb1mvMl21kp1U4YBkT1z.jpg
 date=2017-08-15
-URL=https://openload.co/f/tPwdNLydD6Y/Stealing.Beauty.1996.720p.WEB-DL.H264-PTP.mp4
+URL=https://www.blazefile.co/embed-mo9bma6vdx4i.html
+#https://openload.co/f/tPwdNLydD6Y/Stealing.Beauty.1996.720p.WEB-DL.H264-PTP.mp4
 
 type=video
 name=Secret Things (2002)
@@ -709,16 +717,17 @@ date=2017-08-15
 URL=https://streamango.com/embed/dkdqlbftotoqssna/
 
 type=video
-name=Below Her Mouth (2017) MKV
+name=Below Her Mouth (2017)
 thumb=https://image.tmdb.org/t/p/w640/nTGbq37hYLuNy7YgMg0gVLma0NS.jpg
 date=2017-08-15
-URL=https://openload.co/f/fx8O86Nq2To/B.H.M.2016.DVDRip.x264-RedBlade.mkv
+URL=https://www.blazefile.co/embed-opnbb0fja20x.html
 
 type=video
 name=The Handmaiden (2016)
 thumb=https://image.tmdb.org/t/p/w640/cw1BvSDk4wyHHpVStj4t82pAvq7.jpg
 date=2017-08-15
 URL=https://openload.co/f/6VzHDcHt2aM/the.handmaiden.2016.limited.extended.720p.bluray.x264-usury.mkv.mp4
+#https://www.blazefile.co/embed-f26ylli6izl2.html
 
 type=video
 name=Nocturne (2017)
@@ -742,13 +751,15 @@ type=video
 name=Little Deaths 2011
 thumb=https://erotic24hr.com/wp-content/uploads/2016/11/Little-Deaths-2011.jpg
 date=2017-08-12
-URL=https://openload.co/f/yCAAca3AIH0/Little_Deaths.2011.HDRip_Erotic
+URL=https://www.blazefile.co/embed-52zi0gin87kp.html
+#https://openload.co/f/yCAAca3AIH0/Little_Deaths.2011.HDRip_Erotic
 
 type=video
 name=Anarchy Parlor 2015
 thumb=http://erotic24hr.com/wp-content/uploads/2016/11/Anarchy-Parlor-2015.jpg
 date=2017-08-12
-URL=https://openload.co/f/uUec-eBkXDk/A.P.2015.UNRATED.BDRip_Erotic
+URL=https://www.blazefile.co/embed-ob9hohkyu252.html
+#https://openload.co/f/uUec-eBkXDk/A.P.2015.UNRATED.BDRip_Erotic
 
 type=video
 name=Young And Curious 2 2016

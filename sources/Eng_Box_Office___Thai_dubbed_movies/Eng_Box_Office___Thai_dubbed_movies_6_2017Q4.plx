@@ -122,10 +122,11 @@ URL=https://openload.co/f/X0yOzJfYXyA/Woody_Woodpecker_%282017%29.tshq.latino.mp
 
 
 type=video
-name=Bleeding Steel (2017) CHN CAMRIP_X264_MP3_Zit.E
+name=Bleeding Steel (2017) CHN HDTC.X264.AAC-Zi%24t
 thumb=https://image.tmdb.org/t/p/w640/z1O26qVwkhSlicycBBK731k8vPd.jpg
-date=2017-12-25
-URL=https://openload.co/f/haSIIRCGox8/BLEEDING_STEEL_2017_CAMRIP_X264_MP3_Zit.E.mp4
+date=2018-01-03
+URL=https://openload.co/f/rbcKgVNRwDo/Bleeding.Steel.2017.720P.HDTC.X264.AAC-Zi%24t.mkv.mp4
+#https://openload.co/f/haSIIRCGox8/BLEEDING_STEEL_2017_CAMRIP_X264_MP3_Zit.E.mp4
 
 type=video
 name=Just Getting Started (2017) ENG CAM.READNFO.XViD-26k
@@ -293,9 +294,9 @@ URL=https://openload.co/f/xaI6kEGbCps/Happy.Death.Day.2017.1080p.WEB-DL.DD5.1.H.
 
 type=video
 name=
-thumb=https://image.tmdb.org/t/p/w640/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg
+thumb=
 date=2018-01-02
-URL=https://mcloud.to/embed/m282kz?sub.file=https%253A%252F%252Ffmovies.to%252Fsubtitle%252F35926.vtt%253Fv1&ui=pQN%2F%406L99OQMg5WHc6QZipNT2rTJ&autostart=true
+URL=
 
 
 
@@ -839,10 +840,11 @@ URL=https://openload.co/f/WKiaGxmzavE/interlude.in.prague.2017.hdtv.x264-plutoni
 
 
 type=video
-name=Lycan (2017) ENG DVDRip.XViD.AC3-juggs
+name=Lycan (2017) ENG WEBRip.x264-RBG
 thumb=https://image.tmdb.org/t/p/w640/bY9hv9FwVyCxsW4cufD8n22mmN6.jpg
 date=2017-10-13
-URL=https://openload.co/f/72YBhqllkLo/Lycan.2017.DVDRip.XViD.AC3-juggs.avi.mp4
+URL=https://openload.co/f/QhMnHZmhwVE/Lycan.2017.WEBRip.x264-RBG.mp4
+#https://openload.co/f/72YBhqllkLo/Lycan.2017.DVDRip.XViD.AC3-juggs.avi.mp4
 
 type=video
 name=Consumed (2015) ENG hdtv.h264-plutonium
@@ -1135,14 +1137,7 @@ thumb=https://image.tmdb.org/t/p/w640/62oRA7ghxL9HGFHe5Dd9IVljyKi.jpg
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
-type=video
-name=Marshall (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/2z9oNW3TE5H5woLozFwfxlRRc0b.jpg
-date=2017-12-27
-URL=https://openload.co/f/JGf43ccWqWg/Marshall.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/8vN3wlt8dR0/Marshall.2017.HDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/RtjAPjl12-M/Marshall.2017.Movies.HD.TS.x264.Clean.Audio.AAC.New.Source.rDX.mkv.mp4
-#https://openload.co/f/8UKPBGPLaDk/Marshall.2017.CAM.READNFO.XViD-26k.avi.mp4
+
 
 
 
@@ -1201,9 +1196,9 @@ rating=-1.00
 
 type=video
 name=
-thumb=https://ganool.se/wp-content/uploads/2017/10/Thong-Dee-Fun-Khao-2017-226x323.jpg
+thumb=
 date=2017-09-21
-URL=https://www.blazefile.co/embed-dqhqhsrm64op.html
+URL=
 
 type=video
 name=
@@ -1215,34 +1210,58 @@ type=video
 name=
 thumb=
 date=2017-12-27
-URL=
+URL=https://putload.tv/embed-zkjyvojmyjpm.html
 
 
 type=video
 name=
 thumb=
 date=2017-12-27
-URL=
+URL=https://mcloud.to/embed/1nwx7w
 
-
-type=video
-name=
-thumb=https://ganool.se/wp-content/uploads/2017/12/Brawl-in-Cell-Block-99-2017-BluRay-255x323.jpg
-date=2017-12-27
-URL=https://uptobox.com/w5wytjigcoqw
 
 type=video
 name=
 thumb=
-date=2017-12-27
+date=2018-01-03
+URL=https://putload.tv/embed-fw9h2ywzw5we.html
+
+type=video
+name=
+thumb=
+date=2018-01-03
 URL=
 
+
+
+
+type=video
+name=Veronica (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/koFWKftn4MQMuWySBkLfRQzxxrB.jpg
+date=2018-01-03
+URL=https://uptobox.com/tyxs4sjyp2fr
+
+type=video
+name=November Criminals (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/xQ40BNgkwq8JchXYORkhTwvtLac.jpg
+date=2018-01-03
+URL=https://uptobox.com/2uowzpjnd9sd
+#https://openload.co/f/dDnslCKT1Cw/November.Criminals.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://www.blazefile.co/embed-v7xd0e74owia.html   web
+#https://openload.co/f/hPvOIjnmC58/November_Criminals.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
+type=video
+name=Slack Bay (2016) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/aQqvAfWauk54P63BS7iIpLOsB2o.jpg
+date=2018-01-03
+URL=https://uptobox.com/gr8rcez3mkpv
 
 type=video
 name=The Young Offenders (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/ssCpVC9m7JMHBR8zvmY77genKA3.jpg
 date=2017-12-27
-URL=https://openload.co/f/gBRUL5nQIbE/The.Young.Offenders.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+URL=https://uptobox.com/e6bpe7oqq4ip
+#https://openload.co/f/gBRUL5nQIbE/The.Young.Offenders.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Stolen (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2441,19 +2460,24 @@ URL=https://www.blazefile.co/embed-lfk9504cbtzq.html
 #https://openload.co/f/Dz3XigJcYv8/Rebel_In_the_Rye_2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/eVz83l-nx4c/Rebel_in_the_Rye_%282017%29_%5B1080p%5D_%5BBluRay%5D_%5B1GB%5D.mp4
 
-type=video
-name=November Criminals (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/xQ40BNgkwq8JchXYORkhTwvtLac.jpg
-date=2017-12-28
-URL=https://openload.co/f/dDnslCKT1Cw/November.Criminals.2017.720p.BluRay.H264.AAC-RARBG.mp4
-#https://www.blazefile.co/embed-v7xd0e74owia.html   web
-#https://openload.co/f/hPvOIjnmC58/November_Criminals.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=Don Quixote: The Ingenious Gentleman of La Mancha (2015) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/AkschvS9NGzVp3QfO0WXTAyQs5r.jpg
 date=2018-01-02
 URL=https://openload.co/f/yTKdvZi4tO0/don.quixote.2015.720p.bluray.x264-rusted.mkv.mp4
+
+type=video
+name=Marshall (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/2z9oNW3TE5H5woLozFwfxlRRc0b.jpg
+date=2018-01-03
+URL=https://uptobox.com/59t0nyy1grbb
+#https://openload.co/f/JGf43ccWqWg/Marshall.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/8vN3wlt8dR0/Marshall.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/RtjAPjl12-M/Marshall.2017.Movies.HD.TS.x264.Clean.Audio.AAC.New.Source.rDX.mkv.mp4
+#https://openload.co/f/8UKPBGPLaDk/Marshall.2017.CAM.READNFO.XViD-26k.avi.mp4
+
 
 
 
@@ -2557,8 +2581,9 @@ URL=https://openload.co/f/bifINJBmeNg/Ferdinand.2017.HDCAM_.720p-DerpusMaxiums.m
 type=video
 name=Ferdinand (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg
-date=2017-12-29
-URL=https://streamango.com/f/msdndqpacntaolnl/Ferdinand_2017_
+date=2018-01-03
+URL=https://streamango.com/f/fpebdeokmteqplkc/Ferdinand_2017_HD_Ferdinand_2017_HDTS_x264_AC_3_ThaiRong2_0_CpT_CtHts_mp4
+#https://streamango.com/f/msdndqpacntaolnl/Ferdinand_2017_
 
 
 type=video
@@ -2589,8 +2614,9 @@ URL=https://openload.co/f/dsmQ0CW4LSs/Coco_%282017%29.720p.HDTC.X264-MerryChrist
 type=video
 name=Coco (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
-date=2017-12-04
-URL=https://streamango.com/f/ndomsmeaptdeftps/Coco_2017_
+date=2018-01-03
+URL=https://streamango.com/f/leppnobersfqalmt/Coco_2017_HD_Coco_2017_HC_WEB_DL_720p_X264_AC_3_ThaiRong2_0_CpT_CtHts_mkv_mp4
+#https://streamango.com/f/ndomsmeaptdeftps/Coco_2017_
 
 
 
@@ -2723,7 +2749,7 @@ type=video
 name=
 thumb=
 date=2017-10-02
-URL=https://mcloud.to/embed/jv1wp2?sub.file=https%253A%252F%252Fbmovies.to%252Fsubtitle%252F35269.vtt%253Fv1&a.url=https%3A%2F%2Fbmovies.to%2Fassets%2Facode%2Fplayer.html&a.close=0&ui=ZAbQzY9fXfdH4c6I2InYLRXBw99k&autostart=true
+URL=
 
 
 
@@ -2981,7 +3007,8 @@ type=video
 name=Brawl in Cell Block 99 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
 date=2017-12-28
-URL=https://openload.co/f/nolvaU5ZQNA/Brawl_In_Cell_Block_99_%282017%29.1080p.BluRay_x264-%5BYTS_AG%5D_mp4
+URL=https://uptobox.com/w5wytjigcoqw
+#https://openload.co/f/nolvaU5ZQNA/Brawl_In_Cell_Block_99_%282017%29.1080p.BluRay_x264-%5BYTS_AG%5D_mp4
 #https://openload.co/f/-CHm5KLFBCo/Brawl.in.Cell.Block.99.2017.1080p.BluRay.x264.DTS.-.Hon3y.mkv.mp4
 #https://openload.co/f/am4891uFxJ4/Brawl.in.Cell.Block.99.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 #https://openload.co/f/aT6jWYPHnBk/Brawl.in.Cell.Block.99.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
@@ -3342,7 +3369,8 @@ type=video
 name=Beyond Skyline (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/ktZvjFmwCLrMXtr1dl6o5PhhHS4.jpg
 date=2017-12-29
-URL=https://openload.co/f/Rjbt4s6ubxg/Beyond.Skyline.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+URL=https://uptobox.com/w7gqx6w98li6
+#https://openload.co/f/Rjbt4s6ubxg/Beyond.Skyline.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/c5jv_Jsuv6s/Beyond_Skyline.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/E4IDWuSE1Xg/Beyond_Skyline_2017_CAM_%5BLayar-21.com%5D.mp4
 type=video
@@ -3398,7 +3426,8 @@ type=video
 name=The Foreigner (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
 date=2017-12-28
-URL=https://openload.co/f/eprVMfHbycU/The.Foreigner.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+URL=https://uptobox.com/svkjs90gabzm
+#https://openload.co/f/eprVMfHbycU/The.Foreigner.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/ncxJmiluv40/The.Foreigner.2017.1080p.WEBBBRip.x264-NEXTGEN.mkv.mp4
 #https://openload.co/f/UhUJ1n7obrQ/The.Foreigner.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/i3PUIrw5QUE/The_Foreigner_%282017%29_%5B720P_ENG_NEW_HC-TC%5D
@@ -3667,10 +3696,11 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 type=video
-name=Blade Runner 2049 (2017) ENG HDRip.XviD.AC3-EVO
+name=Blade Runner 2049 (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
-date=2017-12-25
-URL=https://openload.co/f/s-a3hMw_iZo/Blade_Runner_2049.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2018-01-03
+URL=https://openload.co/f/KxN844_9B7Q/Blade.Runner.2049.2017.720p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/s-a3hMw_iZo/Blade_Runner_2049.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/9NspfMbbKoU/Blade.Runner.2049.2017.NEW.HD-TS.X264B.HQ-CPG.mp4
 #https://openload.co/f/jliaTDYzQJs/Blade_Runner_2049_%282017%29_%5B720p%5D_CAM_x264-NoGRP_mp4
 #https://openload.co/f/SoWJsZvgxAk/Blade_Runner_2049.2017.CAM.X264.AAC.1.7GB.mp4
