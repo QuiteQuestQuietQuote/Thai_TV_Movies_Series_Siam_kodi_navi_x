@@ -2071,6 +2071,90 @@ http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u
 http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?
 
 
+
+
+
+
+
+
+#EXTINF:-1,Pink Extra 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink20.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Family 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink27.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Fashion 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink17.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Film 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink25.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Folk 1 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink14.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Folk 2 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink18.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Hits 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink34.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Hits 2 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink12.mf.smil/playlist.m3u8 
+#EXTINF:-1,pink Horror 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink32.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Kids 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink30.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Koncert 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink13.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Kuvar 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink51.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink LOL 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink54.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink M 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink29.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Movies 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink24.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Music 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink26.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Music 2 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink11.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink N Roll 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink16.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Pedia 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink33.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Plus 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink19.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Premium 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink7.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Radio 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink61.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Romance 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink4.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink S 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink63.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink SCI Fantasy 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink5.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Serije 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink48.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Show 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink50.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Style 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink42.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Swap 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink8.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Thriller 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink2.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Western 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink40.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink World 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink9.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink World Cinema 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink49.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Zabava 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink10.mf.smil/playlist.m3u8 
+#EXTINF:-1,Pink Zadruga 
+http://195.252.68.245:1935/KLIKTV_2/smil:pink6.mf.smil/playlist.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1,RenTV 2
 http://cdnworld.magictvbox.eu/RenTV/tracks-v1a1/index.m3u8?token=token
 #EXTINF:-1,RenTV
@@ -2080,6 +2164,14 @@ http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
 
 
 
+
+
+#EXTINF:-1,Play Boy 
+http://109.235.192.213:8000/play/a019 
+#EXTINF:-1,Brazzers TV 
+http://109.235.192.213:8000/play/a034 
+#EXTINF:-1,Penthouse 
+http://145.255.202.20:5050/udp/239.100.102.77:8888 
 #EXTINF:-1,Private
 http://213.59.136.48:9990/play/Private/index.m3u8
 #EXTINF:-1,O-la-la
@@ -2168,14 +2260,36 @@ http://62.203.143.4:9981/play/a02m
 http://62.203.143.4:9981/play/a012 
 #EXTINF:-1,discovery_science
 http://ott.watch/stream/PIZ1QY4EJX/146.m3u8 
+#EXTINF:1,Discovery Science 
+http://185.231.160.35:5000//280/2/index.m3u8 
+#EXTINF:1,Discovery Channel 
+http://185.231.160.35:5000//219/2/index.m3u8 
+#EXTINF:-1,Discovery HD 
+http://185.231.160.35:5000//291/3/index.m3u8 
+#EXTINF:-1,Discovery Channel 
+http://145.255.202.20:5050/udp/239.100.102.12:8888 
+#EXTINF:-1,National Geographic HD 
+http://145.255.202.20:5050/udp/239.100.102.85:8888 
+#EXTINF:-1,Discovery Channel 
+http://109.235.192.213:8000/play/a02c 
+#EXTINF:-1,Discovery Science 
+http://109.235.192.213:8000/play/a00w 
+#EXTINF:-1,DISCOVERY_viet
+http://113.177.63.140:4022/rtp/232.84.1.47:8262
+#EXTINF:-1,MEDIACORP
+http://113.177.63.140:4022/rtp/232.84.1.5:8004
+#EXTINF:-1,Nat Geo People
+http://113.177.63.140:4022/rtp/232.84.2.121:8376
+#EXTINF:-1,National Geographic
+http://113.177.63.140:4022/rtp/232.84.2.122:8364
 
 
 
 
-
-
-
-
+#EXTINF:-1,VIP-Megahit HD 
+http://185.231.160.35:5000//71/3/index.m3u8 
+#EXTINF:-1,VIP-Premiere HD 
+http://185.231.160.35:5000//72/3/index.m3u8 
 #EXTINF:-1,ViP Premiere HD 
 http://ott.watch/stream/PIZ1QY4EJX/202.m3u8 
 #EXTINF:-1,ViP Megahit HD 
