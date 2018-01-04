@@ -44,7 +44,10 @@ type=video
 name=Blade Runner 2049 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
 date=2018-01-03
-URL=https://uptobox.com/lkqgwhq0cmhq
+URL=http://uptobox.com/kvsa21j2lf6u
+#https://uptobox.com/lkqgwhq0cmhq   1080ganool
+#https://openload.co/f/-XPVdivWRNw/Blade.runner.2049.2017.1080p.br_SeeHD.mp4
+#https://openload.co/f/usbvUpWVTqw/Blade.Runner.2049.2017.PROPER.720p.BluRay.x264-BLOW.mkv.mp4
 #https://openload.co/f/KxN844_9B7Q/Blade.Runner.2049.2017.720p.BluRay.x264-SPARKS.mkv.mp4
 #https://openload.co/f/s-a3hMw_iZo/Blade_Runner_2049.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/9NspfMbbKoU/Blade.Runner.2049.2017.NEW.HD-TS.X264B.HQ-CPG.mp4

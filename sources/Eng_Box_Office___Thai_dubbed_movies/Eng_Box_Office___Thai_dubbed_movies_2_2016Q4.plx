@@ -151,6 +151,10 @@ URL=
 
 # 2772901
 type=video
+name=A Dog's Purpose (2017)  [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/vKSRUwwknhFzY1HRBr0iYc55pVu.jpg
+URL=https://openload.co/f/cSChmRlhgUo/A_Dogs_Purpose_%282017%29_%5B1080p%5D_%5BBluRay%5D_%5B1GB%5D.mp4
+type=video
 name=A Dog's Purpose (2017) SUB 
 thumb=http://image.tmdb.org/t/p/w500/vKSRUwwknhFzY1HRBr0iYc55pVu.jpg
 URL=https://openload.co/f/6gvseO84Iew/A_Dog%27s_Purpose_%282017%29_%E0%B8%AB%E0%B8%A1%E0%B8%B2_%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2_%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%A1.flv.mp4

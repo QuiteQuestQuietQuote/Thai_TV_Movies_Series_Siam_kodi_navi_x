@@ -64,10 +64,16 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2017-12-31
+date=2018-01-04
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
+
+type=video
+name=Wonder Wheel (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
+thumb=https://image.tmdb.org/t/p/w640/fPXn8SW4pa4kJErAIAJLmb3Znns.jpg
+date=2018-01-04
+URL=https://openload.co/f/mfpvZQIhOW4/Wonder.Wheel.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 
 type=video
 name=The Greatest Showman (2017)  ENG HDCAM_ENG_X264-DADDY
@@ -1210,30 +1216,32 @@ type=video
 name=
 thumb=
 date=2017-12-27
-URL=https://putload.tv/embed-zkjyvojmyjpm.html
+URL=
 
 
 type=video
 name=
 thumb=
 date=2017-12-27
-URL=https://mcloud.to/embed/1nwx7w
-
-
-type=video
-name=
-thumb=
-date=2018-01-03
-URL=https://putload.tv/embed-fw9h2ywzw5we.html
-
-type=video
-name=
-thumb=
-date=2018-01-03
 URL=
 
 
 
+
+
+
+
+type=video
+name=
+thumb=
+date=2018-01-04
+URL=
+
+type=video
+name=Tad the Lost Explorer and the Secret of King Midas (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/7WtFoWtGp45PLNmajM8iGtjAA7B.jpg
+date=2018-01-04
+URL=https://openload.co/f/2h8cg_3MBuo/Tad_the_Lost_Explorer_and_the_Secret_of_King_Midas.2017.1080p.Bluray.X264-EVO.mkv.mp4
 
 type=video
 name=Veronica (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
@@ -2478,6 +2486,14 @@ URL=https://uptobox.com/59t0nyy1grbb
 #https://openload.co/f/RtjAPjl12-M/Marshall.2017.Movies.HD.TS.x264.Clean.Audio.AAC.New.Source.rDX.mkv.mp4
 #https://openload.co/f/8UKPBGPLaDk/Marshall.2017.CAM.READNFO.XViD-26k.avi.mp4
 
+type=video
+name=Salyut 7 (2017) [COLOR=FF00FF00]RUS BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/3Uwt6lz4nUXtui4iDjvaOYYMNIH.jpg
+date=2018-01-04
+URL=https://uptobox.com/0qkzsuxrjzzo
+#https://openload.co/f/ZUT_MKGUhYI/Salyut-7.2017.BluRay.720p.x264.DTS-HDChina.mkv.mp4
+
+
 
 
 
@@ -2605,10 +2621,11 @@ URL=https://streamango.com/f/pcqllspqemeqtrpl/Star_Wars_The_Last_Jedi_2017_
 
 
 type=video
-name=Coco (2017) ENG HDTC.X264-MerryChristmasNoVipRequired%5BEtHD%5D
+name=Coco (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
 thumb=https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
-date=2017-12-25
-URL=https://openload.co/f/dsmQ0CW4LSs/Coco_%282017%29.720p.HDTC.X264-MerryChristmasNoVipRequired%5BEtHD%5D_mkv.mp4
+date=2018-01-04
+URL=https://openload.co/f/gy6y42tD9Yw/Coco.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/dsmQ0CW4LSs/Coco_%282017%29.720p.HDTC.X264-MerryChristmasNoVipRequired%5BEtHD%5D_mkv.mp4
 #https://openload.co/f/rjggikOpq2Q/Coco.2017.HD-TS.X264.HQ-CPG.mkv.mp4
 #https://openload.co/f/R7W8xvZvB80/Coco_2017_Bolly4u.me_Hindi_Dubbed_HDTS_720p_700MB.mp4
 type=video
