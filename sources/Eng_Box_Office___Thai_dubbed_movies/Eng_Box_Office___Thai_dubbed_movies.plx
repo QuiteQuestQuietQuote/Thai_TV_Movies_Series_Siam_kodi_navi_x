@@ -18,11 +18,17 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
-
+type=playlist
+name=Eng_Box_Office___Thai_dubbed_movies_7_2018Q1
+thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
+date=2018-01-04
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_7_2018Q1.plx
+player=default
+rating=-1.00
 
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies_6_2017Q4
-thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
+thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
 date=2017-10-01
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_6_2017Q4.plx
 player=default
