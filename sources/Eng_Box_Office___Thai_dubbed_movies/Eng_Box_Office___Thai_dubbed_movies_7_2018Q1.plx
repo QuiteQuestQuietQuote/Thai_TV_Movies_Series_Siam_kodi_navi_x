@@ -1235,10 +1235,13 @@ URL=
 
 
 type=video
-name=
-thumb=
-date=2018-01-04
-URL=
+name=England Is Mine (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/ue3Zh4YRyJgQXj39tq8smr0iqOa.jpg
+date=2018-01-05
+URL=https://openload.co/f/nZxTgFETnik/England.Is.Mine.2017.LIMITED.1080p.BluRay.x264-SNOW.mkv.mp4
+#https://openload.co/f/HUIMp24az7M/England_Is_Mine_2017_LIMITED_720p_BluRay_x264-SNOW.mkv.mp4
+#https://openload.co/f/WLNNNGlZmog/England.Is.Mine.2017.LIMITED.1080p.BluRay.x264-SNOW.mkv
+#https://openload.co/f/BGg118JeaQk/England_Is_Mine_2017_LIMITED_720p_BluRay_x264-SNOW.mkv
 
 type=video
 name=Tad the Lost Explorer and the Secret of King Midas (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2616,10 +2619,11 @@ URL=https://streamango.com/f/fpebdeokmteqplkc/Ferdinand_2017_HD_Ferdinand_2017_H
 
 
 type=video
-name=Star Wars: The Last Jedi (2017) ENG E-SUB.HC-TS-X264-MP3-Zit
+name=Star Wars: The Last Jedi (2017) ENG New_HDTC_SeeHD
 thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
-date=2017-12-28
-URL=https://openload.co/f/kyTP9W4q7gY/Star.Wars.The.Last.Jedi.2017.E-SUB.HC-TS-X264-MP3-Zit.mp4
+date=2018-01-05
+URL=https://openload.co/f/LXbAGpyZFGM/Star_Wars_The_Last_Jedi_720P_New_HDTC_SeeHD.mp4
+#https://openload.co/f/kyTP9W4q7gY/Star.Wars.The.Last.Jedi.2017.E-SUB.HC-TS-X264-MP3-Zit.mp4
 #https://openload.co/f/UsQnyhGkctY/Star_Wars_The_Last_Jedi_%282017%29.720p.CAM_NEW_SOURCES_XViD-26k_avi_mp4
 #https://openload.co/f/ZTakoaEg4C8/Star_Wars%3A_The_Last_Jedi_%282017%29.720p.hdcam_SeeHD.mkv.mp4
 #https://openload.co/f/UrK6v2uPmbQ/Star_Wars_The_Last_Jedi_2017_FULL_HDCAM_ENGLiSH_x264_HQMIC-DADDY.mkv.mp4
