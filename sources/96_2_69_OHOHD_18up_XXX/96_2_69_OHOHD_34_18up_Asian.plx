@@ -62,6 +62,160 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=99xxxxxxxxxxxxxxxxxxxxMiboujin gesyuku Ikenai jouji (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Miboujin-gesyuku-Ikenai-jouji-2015.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/tdmdsftcfsmottbt/
+
+type=video
+name=International Student Diary (2000)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/International-Student-Diary-2000.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/rbfmomrlftrspaem/
+
+type=video
+name=Instant Bulgogi (1998) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Instant-Bulgogi-1998.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/asbntooqstqnmqpm/
+
+type=video
+name=Large Loan 2 (1994)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Large-Loan-2-1994.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/lqdadnnsdmllslfm/
+
+type=video
+name=I’m playing (1996) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Im-playing-1996.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/fndeflnbmnbftmkc/
+
+
+type=video
+name=Equatorial Prostitution (1994)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Equatorial-Prostitution-1994.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/plnqbakslbsmkkcf/
+
+type=video
+name=Dip and eat (2003)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Dip-and-eat-2003.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/kqepostnpktptnle/
+
+type=video
+name=Home (2000)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Home-2000.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/reonbpbtsofsmnse/
+
+type=video
+name=A Beauty Salon (2007) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/A-Beauty-Salon-2007.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/prlbcqnmlsmlomds/
+
+type=video
+name=Midnight Consulting Room Special 1 (2014) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Midnight-Consulting-Room-Special-1-2014.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/bnaoatlasdcmfakc/
+
+
+type=video
+name=Bar Momoko (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Bar-Momoko-2013.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/omqneokrcmsafadl/
+
+type=video
+name=Glamor’s Mistress Class (2008)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Glamor%E2%80%99s-Mistress-Class-2008.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/oeqontbfrlolkdmc/
+
+type=video
+name=Zombie Bride (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Zombie-Bride-2013.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/eqlcppdbaalrtrqr/
+
+type=video
+name=With Hesitated (2007)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/With-Hesitated-2007.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/akqdctarfbcqeeer/
+
+type=video
+name=The Tale of Sexy Shim Cheong (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/The-Tale-of-Sexy-Shim-Cheong-2017.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/necptleoklrrtqpc/
+
+
+type=video
+name=My neighbor’s wife 2 – The day I exchanged with my neighbors (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/My-neighbors-wife-2-The-day-I-exchanged-with-my-neighbors-2017.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/tepfmpqfldcslqea/
+
+type=video
+name=Married women wanting (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Married-women-wanting-2016.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/tpokrecfrcrscqnd/
+
+type=video
+name=Prey of landlady (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Prey-of-landlady-2016.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/matendslcollacsp/
+
+type=video
+name=The Day of Swapping (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/The-Day-of-Swapping-2016-Rev.1.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/lmtrqbkmntbknamm/
+
+type=video
+name=Waterloo (1994)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Waterloo-1994.png
+date=2018-01-05
+URL=https://streamcherry.com/embed/qfkrdrfkeklnplcb/
+
+
+type=video
+name=Wateryour 2 (1994) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Wateryour-2-1994.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/fpntsqfqfnaaetlt/
+
+type=video
+name=Sekensamaniha Totemo Ienai (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Sekensamaniha-Totemo-Ienai-2016.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/rsomalcfneblstrc/
+
+type=video
+name=Porno I want to know 2 (1998)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Porno-I-want-to-know-2-1998.jpg
+date=2018-01-05
+URL=https://streamcherry.com/embed/nabckennrlonndmr/
+
+
+
+
+
+
+
+
 type=video
 name=76xxxxxxxxxxxxxxxxxxxxReasons for many girls in Obstetrics and Gynecology 2 (1997)
 thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Reasons-for-many-girls-in-Obstetrics-and-Gynecology-2-1997.jpg
