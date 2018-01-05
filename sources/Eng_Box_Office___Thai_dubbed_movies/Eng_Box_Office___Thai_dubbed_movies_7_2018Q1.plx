@@ -278,12 +278,7 @@ URL=https://openload.co/f/0WatHfN8KKw/A.Bad.Moms.Christmas.2017.NEW.720p.HDCAM.X
 
 
 
-type=video
-name=Happy Death Day (2017) ENG WEB-DL.DD5.1.H.264-THVM
-thumb=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
-date=2018-01-02
-URL=https://openload.co/f/xaI6kEGbCps/Happy.Death.Day.2017.1080p.WEB-DL.DD5.1.H.264-THVM.mkv.mp4
-#https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
+
 
 
 
@@ -300,9 +295,9 @@ URL=https://openload.co/f/xaI6kEGbCps/Happy.Death.Day.2017.1080p.WEB-DL.DD5.1.H.
 
 type=video
 name=
-thumb=
-date=2018-01-02
-URL=
+thumb=https://i0.wp.com/kod-hd.com/wp-content/uploads/2017/12/Fate-kaleid-liner-Prisma-Illya-Oath-Under-Snow-2017.jpg
+date=2018-01-05
+URL=https://www.rapidvideo.com/e/FMY9KG2J42
 
 
 
@@ -320,9 +315,17 @@ URL=
 
 
 
+type=video
+name=Same Kind of Different as Me (2017) ENG WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/cCTwHtXBVL96ImKDwm5T8pPNO41.jpg
+date=2018-01-05
+URL=https://openload.co/f/qItzmC2ilFI/Same.Kind.of.Different.as.Me.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
-
-
+type=video
+name=Goodbye Christopher Robin (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg
+date=2018-01-05
+URL=https://openload.co/f/MzkblHOg-Jk/Goodbye_Christopher_Robin.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=Wonderstruck (2017) ENG WEB-DL.H264.AC3-EVO
@@ -2492,6 +2495,16 @@ thumb=https://image.tmdb.org/t/p/w640/3Uwt6lz4nUXtui4iDjvaOYYMNIH.jpg
 date=2018-01-04
 URL=https://uptobox.com/0qkzsuxrjzzo
 #https://openload.co/f/ZUT_MKGUhYI/Salyut-7.2017.BluRay.720p.x264.DTS-HDChina.mkv.mp4
+
+type=video
+name=Happy Death Day (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
+date=2018-01-05
+URL=https://openload.co/f/V2dACs9dlc8/Happy.Death.Day.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/Cj6-0Jdp9Q4/Happy.Death.Day.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/xaI6kEGbCps/Happy.Death.Day.2017.1080p.WEB-DL.DD5.1.H.264-THVM.mkv.mp4
+#https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
+
 
 
 

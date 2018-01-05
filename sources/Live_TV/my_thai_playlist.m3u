@@ -2391,6 +2391,8 @@ http://113.177.63.140:4022/rtp/232.84.1.19:8088
 http://113.177.63.140:4022/rtp/232.84.1.20:8094
 #EXTINF:-1,MEDIACORP
 http://113.177.63.140:4022/rtp/232.84.1.5:8004
+
+
 #EXTINF:-1,Asian Food Channel
 http://113.177.63.140:4022/rtp/232.84.1.115:10236
 #EXTINF:-1,Nat Geo People
@@ -2468,6 +2470,8 @@ http://94.46.245.190:8000/play/a01u
 #EXTINF:-1,samrojlok
 http://191.96.38.83:443/free41/0x777_samrujlok_720p/chunklist.m3u8
 
+#EXTINF:-1,national_geographic_people_ddns
+http://protocol.ddns.net:443/protocol54/0x222_natgeopeople_360p/chunklist_w238460247.m3u8?key=vEWF3Kt9d3GTVivW_JIlmu_S5YdnuoBTmTjRRUQbyfg
 
 #EXTINF:-1,true_explore_sci
 http://103.77.116.193:443/documentary/true_explore_sci_480p.stream/chunklist.m3u8?st=mqWJjw4BQF17FV7QESV2Yw&username=20599&password=mmmmedc6b468d62e2083f401&e=1515186988
