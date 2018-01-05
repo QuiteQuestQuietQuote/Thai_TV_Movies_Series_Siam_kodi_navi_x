@@ -435,7 +435,7 @@ http://103.77.116.193:443/news/france_24_720p.stream/chunklist.m3u8
 http://103.77.116.193:443/tvdigital/3_hd_720p.stream/playlist.m3u8?
 
 #EXTINF:-1,CHANNEL 3
-http://27.254.63.132:1935/live/_definst_/3hd.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 #EXTINF:-1,CHANNEL 5
 http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
@@ -2450,8 +2450,8 @@ http://109.235.192.213:8000/play/a010
 
 
 
-
-
+#EXTINF:-1,Fox Action Movie
+http://191.96.38.83:443/free53/0x222_foxactionmovieth_720p/playlist.m3u8
 
 
 #EXTINF:-1,CGTN Documentary
@@ -2470,8 +2470,22 @@ http://94.46.245.190:8000/play/a01u
 #EXTINF:-1,samrojlok
 http://191.96.38.83:443/free41/0x777_samrujlok_720p/chunklist.m3u8
 
+
+
+#EXTINF:-1,discoveryscience
+https://191.96.38.185/fifa55m-41/0x777_dissci_720p/playlist.m3u8
+#EXTINF:-1,hd-food
+https://191.96.38.185/fifa55m-136/00_food_480p/playlist.m3u8
+#EXTINF:-1,afc
+https://191.96.38.185/fifa55m-136/00_homeandfood_480p/playlist.m3u8
+#EXTINF:-1,saradee
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_300/chunklist.m3u8
+#EXTINF:-1,national_geographic_ddns
+http://191.96.38.83:443/free54/0x222_natgeographic_720p/playlist.m3u8
+#EXTINF:-1,discovery_hd_world_ddns
+http://191.96.38.83:443/free41/0x777_discoveryworldhd_720p/playlist.m3u8
 #EXTINF:-1,national_geographic_people_ddns
-http://protocol.ddns.net:443/protocol54/0x222_natgeopeople_360p/chunklist_w238460247.m3u8?key=vEWF3Kt9d3GTVivW_JIlmu_S5YdnuoBTmTjRRUQbyfg
+http://191.96.38.83:443/free54/0x222_natgeopeople_720p/playlist.m3u8
 
 #EXTINF:-1,true_explore_sci
 http://103.77.116.193:443/documentary/true_explore_sci_480p.stream/chunklist.m3u8?st=mqWJjw4BQF17FV7QESV2Yw&username=20599&password=mmmmedc6b468d62e2083f401&e=1515186988
