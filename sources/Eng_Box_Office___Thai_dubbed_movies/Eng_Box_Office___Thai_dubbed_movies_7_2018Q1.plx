@@ -64,10 +64,16 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2018-01-04
+date=2018-01-06
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
+
+type=video
+name=Father Figures (2017) ENG CAM.XViD-P2P
+thumb=https://image.tmdb.org/t/p/w640/bEHOthoB2UqCIiUzhnHnLMXbRuJ.jpg
+date=2018-01-06
+URL=https://openload.co/f/uIv1hZlRdGo/Father.Figures.2017.CAM.XViD-P2P.avi.mp4
 
 type=video
 name=Wonder Wheel (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
@@ -431,14 +437,7 @@ thumb=https://image.tmdb.org/t/p/w640/rxJNmF835KJpwioXvr9oAQZVJNU.jpg
 date=2017-11-17
 URL=https://openload.co/f/Zf18_Paljkk/Cook.Off.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
-type=video
-name=The Snowman (2017) ENG WEB%3EB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg
-date=2017-12-21
-URL=https://openload.co/f/PTyemixWhCc/The.Snowman.2017.1080p.WEB%3EB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/jL6xjg91GU4/The.Snowman.2017.720p.HC.HDRip.X264-EVO.mkv.mp4
-#https://openload.co/f/HNC97bcNWUU/The_Snowman_2017_Movies_HD_Cam_x264_Clean_Audio_AAC_New_Source_%5BrDX%5D.mkv.mp4
-#https://openload.co/f/mTFsFIWDkm4/The_Snowman_2017_NOLOGO_HDCAM_X264_HQMic-DADDY.mp4
+
 
 
 
@@ -594,11 +593,7 @@ date=2017-11-16
 URL=https://openload.co/f/W2FwLqmgrmc/The.Elf.2017.WEB-DL.x264-RARBG.mp4
 #https://openload.co/f/Bt-K4PSJpNA/The_Elf_2017_720p_x264-StB.mkv.mp4
 
-type=video
-name=Loving Vincent (2017) ENG WEB-DL.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/qlrhwUDe7YOZujAYanK6ij2vbY5.jpg
-date=2017-11-14
-URL=https://openload.co/f/YZFeBPiDAMY/Loving_Vincent.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=The Humanity Bureau (2017) ENG WEB-DL.X264.AC3-EVO
@@ -1146,7 +1141,12 @@ thumb=https://image.tmdb.org/t/p/w640/62oRA7ghxL9HGFHe5Dd9IVljyKi.jpg
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
-
+type=video
+name=Loving Vincent (2017) ENG BRRip
+thumb=https://image.tmdb.org/t/p/w640/qlrhwUDe7YOZujAYanK6ij2vbY5.jpg
+date=2018-01-06
+URL=https://openload.co/f/RmadNkiaL1g/Loving_Vincent_2017_BRRip.mp4
+#https://openload.co/f/YZFeBPiDAMY/Loving_Vincent.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 
 
 
@@ -1225,14 +1225,47 @@ URL=
 type=video
 name=
 thumb=
-date=2017-12-27
+date=2018-01-06
 URL=
 
 
 
 
+type=video
+name=The Last Warrior (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/kWQh4iIt3WQvWrhMoukPCshzNsh.jpg
+date=2018-01-06
+URL=https://openload.co/f/xtqtInzqiXo/The_Last_Warrior_%282017%29_Posledniy_bogatyr_2017.1080p.BluRay.x264.mp4.mp4
 
+type=video
+name=Happy Death Day (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
+date=2018-01-06
+URL=https://uptobox.com/pifzxk307tme
+#https://openload.co/f/68otQ6oKky4/happy.death.day.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/V2dACs9dlc8/Happy.Death.Day.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/Cj6-0Jdp9Q4/Happy.Death.Day.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/xaI6kEGbCps/Happy.Death.Day.2017.1080p.WEB-DL.DD5.1.H.264-THVM.mkv.mp4
+#https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
 
+type=video
+name=Salyut 7 (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/3Uwt6lz4nUXtui4iDjvaOYYMNIH.jpg
+date=2018-01-06
+URL=https://uptobox.com/ujrip0r8bduf
+#https://uptobox.com/0qkzsuxrjzzo   720
+#https://openload.co/f/ZUT_MKGUhYI/Salyut-7.2017.BluRay.720p.x264.DTS-HDChina.mkv.mp4
+
+type=video
+name=The Snowman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg
+date=2018-01-06
+URL=https://uptobox.com/e7pwfqz9yglk
+#https://openload.co/f/viTOmOBrXYU/The.Snowman.2017.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/PTyemixWhCc/The.Snowman.2017.1080p.WEB%3EB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/jL6xjg91GU4/The.Snowman.2017.720p.HC.HDRip.X264-EVO.mkv.mp4
+#https://openload.co/f/HNC97bcNWUU/The_Snowman_2017_Movies_HD_Cam_x264_Clean_Audio_AAC_New_Source_%5BrDX%5D.mkv.mp4
+#https://openload.co/f/mTFsFIWDkm4/The_Snowman_2017_NOLOGO_HDCAM_X264_HQMic-DADDY.mp4
 
 type=video
 name=England Is Mine (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1242,12 +1275,14 @@ URL=https://openload.co/f/nZxTgFETnik/England.Is.Mine.2017.LIMITED.1080p.BluRay.
 #https://openload.co/f/HUIMp24az7M/England_Is_Mine_2017_LIMITED_720p_BluRay_x264-SNOW.mkv.mp4
 #https://openload.co/f/WLNNNGlZmog/England.Is.Mine.2017.LIMITED.1080p.BluRay.x264-SNOW.mkv
 #https://openload.co/f/BGg118JeaQk/England_Is_Mine_2017_LIMITED_720p_BluRay_x264-SNOW.mkv
+#https://uptobox.com/ifg77czoygmz   720
 
 type=video
 name=Tad the Lost Explorer and the Secret of King Midas (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/7WtFoWtGp45PLNmajM8iGtjAA7B.jpg
-date=2018-01-04
-URL=https://openload.co/f/2h8cg_3MBuo/Tad_the_Lost_Explorer_and_the_Secret_of_King_Midas.2017.1080p.Bluray.X264-EVO.mkv.mp4
+date=2018-01-06
+URL=https://uptobox.com/jk4w1rbajjd4
+#https://openload.co/f/2h8cg_3MBuo/Tad_the_Lost_Explorer_and_the_Secret_of_King_Midas.2017.1080p.Bluray.X264-EVO.mkv.mp4
 
 type=video
 name=Veronica (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
@@ -2492,21 +2527,9 @@ URL=https://uptobox.com/59t0nyy1grbb
 #https://openload.co/f/RtjAPjl12-M/Marshall.2017.Movies.HD.TS.x264.Clean.Audio.AAC.New.Source.rDX.mkv.mp4
 #https://openload.co/f/8UKPBGPLaDk/Marshall.2017.CAM.READNFO.XViD-26k.avi.mp4
 
-type=video
-name=Salyut 7 (2017) [COLOR=FF00FF00]RUS BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/3Uwt6lz4nUXtui4iDjvaOYYMNIH.jpg
-date=2018-01-04
-URL=https://uptobox.com/0qkzsuxrjzzo
-#https://openload.co/f/ZUT_MKGUhYI/Salyut-7.2017.BluRay.720p.x264.DTS-HDChina.mkv.mp4
 
-type=video
-name=Happy Death Day (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
-date=2018-01-05
-URL=https://openload.co/f/V2dACs9dlc8/Happy.Death.Day.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
-#https://openload.co/f/Cj6-0Jdp9Q4/Happy.Death.Day.2017.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/xaI6kEGbCps/Happy.Death.Day.2017.1080p.WEB-DL.DD5.1.H.264-THVM.mkv.mp4
-#https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
+
+
 
 
 
@@ -2704,10 +2727,11 @@ URL=https://streamango.com/f/dedmrkdoeockpqkq/Jigsaw_2017_
 
 
 type=video
-name=Renegades (2017) ENG CAM.READNFO.XViD-26k
+name=Renegades (2017) ENG WEB-DL.DD5.1.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w640/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
-date=2017-09-05
-URL=https://openload.co/f/JzSw1qm2gy0/Renegades.2017.CAM.READNFO.XViD-26k.avi.mp4
+date=2018-01-06
+URL=https://openload.co/f/DyatEMF7zmU/Renegades.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/JzSw1qm2gy0/Renegades.2017.CAM.READNFO.XViD-26k.avi.mp4
 type=video
 name=Renegades (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
@@ -2790,8 +2814,16 @@ URL=
 type=video
 name=
 thumb=
-date=2017-12-25
+date=2018-01-06
 URL=
+
+
+
+type=video
+name=Blade of the Immortal (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/kKTienMUY1vjYhtuZPWZZyEObKN.jpg
+date=2018-01-06
+URL=https://streamango.com/f/cflrsllrttpsrekl/Blade_of_the_Immortal_2017_
 
 
 type=video
@@ -3711,7 +3743,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-12-26
+date=2018-01-06
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
@@ -3720,8 +3752,17 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+type=video
+name=The Magician (2015) TH
+thumb=https://image.tmdb.org/t/p/w640/hoZ1pHY1EqDZOYUULfPo55CunB6.jpg
+date=2018-01-06
+URL=https://openload.co/f/Jow6pzOvO4M/The_Magician_%282015%29%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%82%E0%B8%8A%E0%B8%8B%E0%B8%AD%E0%B8%99.mp4
 
-
+type=video
+name=Memories of the Sword (2015) TH
+thumb=https://image.tmdb.org/t/p/w640/dqf7fnJXoPvKdVD33w4KYl3qB55.jpg
+date=2018-01-06
+URL=https://openload.co/f/XU0LFMOsjKI/Memories_of_the_Sword_%282015%29%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C.mp4
 
 
 
