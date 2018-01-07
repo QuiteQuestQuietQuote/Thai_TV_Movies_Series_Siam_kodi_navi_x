@@ -64,16 +64,40 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2018-01-06
+date=2018-01-07
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
 
+
+
+
+
+
 type=video
-name=Father Figures (2017) ENG CAM.XViD-P2P
+name=Insidious: The Last Key (2018) ENG CAM_ENG_X264_HQMic-DADDY
+thumb=https://image.tmdb.org/t/p/w640/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg
+date=2018-01-07
+URL=https://openload.co/f/TBxLV3VCkmU/Insidious_The_Last_Key_2017_CAM_ENG_X264_HQMic-DADDY.mkv.mp4
+
+type=video
+name=The Shape of Water (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
+thumb=https://image.tmdb.org/t/p/w640/iLYLADGA5oKGM92Ns1j9CDgk3iI.jpg
+date=2018-01-07
+URL=https://openload.co/f/Mgft960KH5Y/The.Shape.of.Water.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+
+type=video
+name=Molly's Game (2017) ENG CAM.ENG.x264-NoGRP
+thumb=https://image.tmdb.org/t/p/w640/5YC8iVPxvRrz53FdfdejDgUUk2k.jpg
+date=2018-01-07
+URL=https://openload.co/f/P8Txe4VXgyc/Mollys.Game.2017.CAM.ENG.x264-NoGRP.MP4.mp4
+
+type=video
+name=Father Figures (2017) ENG CAM.x264-NoGRP
 thumb=https://image.tmdb.org/t/p/w640/bEHOthoB2UqCIiUzhnHnLMXbRuJ.jpg
-date=2018-01-06
-URL=https://openload.co/f/uIv1hZlRdGo/Father.Figures.2017.CAM.XViD-P2P.avi.mp4
+date=2018-01-07
+URL=https://openload.co/f/TvUQXGJF3Vw/Father.Figures.2017.CAM.x264-NoGRP.mp4
+#https://openload.co/f/uIv1hZlRdGo/Father.Figures.2017.CAM.XViD-P2P.avi.mp4
 
 type=video
 name=Wonder Wheel (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
@@ -240,10 +264,11 @@ date=2017-11-10
 URL=https://openload.co/f/_4z3LoSbk-Y/You.Were.Never.Really.Here.2017.FRENCH.CAM.MD.XViD_STVFRV.E.mp4
 
 type=video
-name=Boo 2! A Madea Halloween (2017) ENG CAM.READNFO.XViD-26k
+name=Boo 2! A Madea Halloween (2017) ENG WebRip_SeeHD
 thumb=https://image.tmdb.org/t/p/w640/5nvP4etJ8ecQv8qZM08dK4BAzdK.jpg
-date=2017-11-11
-URL=https://openload.co/f/ATcNn-EpPjg/Boo_2_A_Madea_Halloween.2017.CAM.READNFO.XViD-26k.avi.mp4
+date=2018-01-07
+URL=https://openload.co/f/s3YTxCPeuEM/Boo_2_A_Madea_Halloween_%282017%29_1080_WebRip_SeeHD.mp4
+#https://openload.co/f/ATcNn-EpPjg/Boo_2_A_Madea_Halloween.2017.CAM.READNFO.XViD-26k.avi.mp4
 #https://openload.co/f/cisxIQQ1-xk/Boo.2.A.Madea.Halloween.2017.V2.CAM.x264-NEXUS.mp4
 
 type=video
@@ -388,10 +413,11 @@ date=2017-12-01
 URL=https://openload.co/f/M6r-cHT1VtI/The.Tribes.of.Palos.Verdes.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
-name=Borg vs McEnroe (2017) ENG DVDRip.XviD.AC3-EVO
+name=Borg vs McEnroe (2017) ENG WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/9hR2emM9MqH5LJPTjG8o7RPpksU.jpg
-date=2017-11-30
-URL=https://openload.co/f/tvbUMQN9u7Y/Borg.vs.McEnroe.2017.DVDRip.XviD.AC3-EVO.avi.mp4
+date=2018-01-07
+URL=https://openload.co/f/5PwWhBT0VPM/Borg.vs.McEnroe.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/tvbUMQN9u7Y/Borg.vs.McEnroe.2017.DVDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name='Til Death Do Us Part (2017) ENG HDCAM.x264-DiRG
@@ -1141,12 +1167,7 @@ thumb=https://image.tmdb.org/t/p/w640/62oRA7ghxL9HGFHe5Dd9IVljyKi.jpg
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
-type=video
-name=Loving Vincent (2017) ENG BRRip
-thumb=https://image.tmdb.org/t/p/w640/qlrhwUDe7YOZujAYanK6ij2vbY5.jpg
-date=2018-01-06
-URL=https://openload.co/f/RmadNkiaL1g/Loving_Vincent_2017_BRRip.mp4
-#https://openload.co/f/YZFeBPiDAMY/Loving_Vincent.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
+
 
 
 
@@ -1229,7 +1250,13 @@ date=2018-01-06
 URL=
 
 
-
+type=video
+name=Loving Vincent (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/qlrhwUDe7YOZujAYanK6ij2vbY5.jpg
+date=2018-01-07
+URL=https://openload.co/f/szcjlS1fZBQ/Loving_Vincent_%282017%29.1080p.BluRay_x264-YTS_AG.mp4
+#https://openload.co/f/RmadNkiaL1g/Loving_Vincent_2017_BRRip.mp4
+#https://openload.co/f/YZFeBPiDAMY/Loving_Vincent.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 
 type=video
 name=The Last Warrior (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
@@ -1261,6 +1288,7 @@ name=The Snowman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg
 date=2018-01-06
 URL=https://uptobox.com/e7pwfqz9yglk
+#https://openload.co/f/ij03p_dH6Oc/The.Snowman.2017.PROPER.720p.BluRay.x264-Replica.mkv.mp4
 #https://openload.co/f/viTOmOBrXYU/The.Snowman.2017.720p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/PTyemixWhCc/The.Snowman.2017.1080p.WEB%3EB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/jL6xjg91GU4/The.Snowman.2017.720p.HC.HDRip.X264-EVO.mkv.mp4
