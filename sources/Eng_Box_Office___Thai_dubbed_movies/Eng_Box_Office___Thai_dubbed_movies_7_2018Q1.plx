@@ -2814,10 +2814,21 @@ URL=
 type=video
 name=
 thumb=
-date=2018-01-06
+date=2018-01-07
 URL=
 
 
+type=video
+name=L'Ascension (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/jxmnYUawdlSUctpN1JJ9wvE47ZH.jpg
+date=2018-01-07
+URL=https://streamango.com/f/ckcrlqlpckbrabac/L_Ascension_2017_The_Climb_2017_
+
+type=video
+name=Sahara (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/turUYgFnjfsjPssIeWSLiNJFIla.jpg
+date=2018-01-07
+URL=https://streamango.com/f/mkaaaqtoefekmnsn/Sahara_2017_
 
 type=video
 name=Blade of the Immortal (2017) THSUB
