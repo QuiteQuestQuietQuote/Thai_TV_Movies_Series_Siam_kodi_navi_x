@@ -64,7 +64,7 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2018-01-07
+date=2018-01-09
 URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
 
 
@@ -72,13 +72,18 @@ URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.blu
 
 
 
-
+type=video
+name=Thank You for Your Service (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/z8OKWw6DAZAOyz8F421euawr3Hs.jpg
+date=2018-01-09
+URL=https://openload.co/f/3yQZKgINX2s/Thank_You_for_Your_Service.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
-name=Insidious: The Last Key (2018) ENG CAM_ENG_X264_HQMic-DADDY
+name=Insidious: The Last Key (2018) ENG NEW_HDCAM_X264_HQ-CPG
 thumb=https://image.tmdb.org/t/p/w640/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg
-date=2018-01-07
-URL=https://openload.co/f/TBxLV3VCkmU/Insidious_The_Last_Key_2017_CAM_ENG_X264_HQMic-DADDY.mkv.mp4
+date=2018-01-09
+URL=https://openload.co/f/Gi9eyQs7AIA/Insidious_The_Last_Key_2018_NEW_HDCAM_X264_HQ-CPG.mkv.mp4
+#https://openload.co/f/TBxLV3VCkmU/Insidious_The_Last_Key_2017_CAM_ENG_X264_HQMic-DADDY.mkv.mp4
 
 type=video
 name=The Shape of Water (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
@@ -294,10 +299,12 @@ date=2017-11-08
 URL=http://entervideo.net/watch/397e6cc4a8812c1
 
 type=video
-name=A Bad Moms Christmas (2017) ENG NEW.720p.HDCAM.X264.AC3.HQ-DADDY
+name=A Bad Moms Christmas (2017) ENG WEB-DL.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/gPNHolu7AGnrB7r5kvJRRTfwMFR.jpg
-date=2017-11-07
-URL=https://openload.co/f/0WatHfN8KKw/A.Bad.Moms.Christmas.2017.NEW.720p.HDCAM.X264.AC3.HQ-DADDY.mkv.mp4
+date=2018-01-09
+URL=https://openload.co/f/gB2pAqB30EY/A_Bad_Moms_Christmas.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/PQom4-EK7ls/A_Bad_Moms_Christmas.2017.HDRip.XviD.AC3-EVO.mp4
+#https://openload.co/f/0WatHfN8KKw/A.Bad.Moms.Christmas.2017.NEW.720p.HDCAM.X264.AC3.HQ-DADDY.mkv.mp4
 #https://openload.co/f/s9JvJo8vRdM/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
 #https://openload.co/f/itxz3-_HMO0/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
 
@@ -400,11 +407,7 @@ thumb=https://image.tmdb.org/t/p/w640/xOY5AFJhACTgJJeTQTvlyOYw2BS.jpg
 date=2017-12-01
 URL=https://openload.co/f/cQyihtUfMoE/Love.Beats.Rhymes.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
-type=video
-name=Gangster Land (2017) ENG HDRip.x264.AAC-N.O.K
-thumb=https://image.tmdb.org/t/p/w640/npteMVPwuNqt9lAqDC67Ld4NESf.jpg
-date=2017-12-01
-URL=https://openload.co/f/278RrLe94Yg/Gangster_Land_2017.720p.HDRip.x264.AAC-N.O.K.mp4
+
 
 type=video
 name=The Tribes of Palos Verdes (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -895,10 +898,12 @@ date=2017-10-10
 URL=https://openload.co/f/Wjadg2CR4yQ/House_By_the_Lake_2017_HDRip_XviD_AC3-EVO.mp4
 
 type=video
-name=One Percent More Humid (2017) ENG HDRip_XviD_AC3-EVO
+name=One Percent More Humid (2017) ENG WEB-DL
 thumb=https://image.tmdb.org/t/p/w640/mRYVP2wlQIqQ1uI0rWFcp7tm7X9.jpg
-date=2017-10-10
-URL=https://openload.co/f/IC-shIyRi3o/One_Percent_More_Humid_2017_HDRip_XviD_AC3-EVO.mp4
+date=2018-01-09
+URL=https://openload.co/f/711Yu6m15Ao/One_Percent_More_Humid_%282017%29_%5B1080p-WEB-DL%5D.mp4
+#https://openload.co/f/X6FvG8l1vWA/one.percent.more.humid.2017.dvdrip.x264-bipolar.mkv.mp4
+#https://openload.co/f/IC-shIyRi3o/One_Percent_More_Humid_2017_HDRip_XviD_AC3-EVO.mp4
 
 type=video
 name=Sleepwalker (2017) ENG HDRip_XviD_AC3-EVO
@@ -1251,6 +1256,13 @@ URL=
 
 
 type=video
+name=Bullet Head (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/ySmKQPjWnNzuZ5YliQaOVEnWn2.jpg
+date=2018-01-09
+URL=https://uptobox.com/dqamv68pehmt
+#https://openload.co/f/4cxVOsi3o0U/Bullet.Head.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
+
+type=video
 name=Loving Vincent (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/qlrhwUDe7YOZujAYanK6ij2vbY5.jpg
 date=2018-01-07
@@ -1287,7 +1299,8 @@ type=video
 name=The Snowman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg
 date=2018-01-06
-URL=https://uptobox.com/e7pwfqz9yglk
+URL=https://uptobox.com/8tka5z0xadve
+#https://uptobox.com/e7pwfqz9yglk   1080
 #https://openload.co/f/ij03p_dH6Oc/The.Snowman.2017.PROPER.720p.BluRay.x264-Replica.mkv.mp4
 #https://openload.co/f/viTOmOBrXYU/The.Snowman.2017.720p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/PTyemixWhCc/The.Snowman.2017.1080p.WEB%3EB-DL.DD5.1.H264-FGT.mkv.mp4
@@ -2555,7 +2568,13 @@ URL=https://uptobox.com/59t0nyy1grbb
 #https://openload.co/f/RtjAPjl12-M/Marshall.2017.Movies.HD.TS.x264.Clean.Audio.AAC.New.Source.rDX.mkv.mp4
 #https://openload.co/f/8UKPBGPLaDk/Marshall.2017.CAM.READNFO.XViD-26k.avi.mp4
 
-
+type=video
+name=Gangster Land (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/npteMVPwuNqt9lAqDC67Ld4NESf.jpg
+date=2018-01-09
+URL=https://uptobox.com/0ym3f4gcddqb
+#https://openload.co/f/bwHrsIleRaE/Gangster.Land.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/278RrLe94Yg/Gangster_Land_2017.720p.HDRip.x264.AAC-N.O.K.mp4
 
 
 
@@ -2683,8 +2702,9 @@ URL=https://openload.co/f/LXbAGpyZFGM/Star_Wars_The_Last_Jedi_720P_New_HDTC_SeeH
 type=video
 name=Star Wars: The Last Jedi (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
-date=2017-12-18
-URL=https://streamango.com/f/pcqllspqemeqtrpl/Star_Wars_The_Last_Jedi_2017_
+date=2018-01-09
+URL=https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_HDTC_x264_AC-3_THR2_0_CpT_CtHts_mkv_mp4
+#https://streamango.com/f/pcqllspqemeqtrpl/Star_Wars_The_Last_Jedi_2017_
 #https://streamango.com/f/lndpracqdldepoqk/Star_Wars_The_Last_Jedi_2017_720p_TS_x264_AC-3_ThaiRong2_0_CpT_CtHts_mkv_mp4
 
 
@@ -2699,8 +2719,9 @@ URL=https://openload.co/f/gy6y42tD9Yw/Coco.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.
 type=video
 name=Coco (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
-date=2018-01-03
-URL=https://streamango.com/f/leppnobersfqalmt/Coco_2017_HD_Coco_2017_HC_WEB_DL_720p_X264_AC_3_ThaiRong2_0_CpT_CtHts_mkv_mp4
+date=2018-01-09
+URL=https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_HDTC_x264_AC-3_THR2_0_CpT_CtHts_mkv_mp4
+#https://streamango.com/f/leppnobersfqalmt/Coco_2017_HD_Coco_2017_HC_WEB_DL_720p_X264_AC_3_ThaiRong2_0_CpT_CtHts_mkv_mp4
 #https://streamango.com/f/ndomsmeaptdeftps/Coco_2017_
 
 
@@ -2727,10 +2748,11 @@ URL=https://openload.co/f/pY7IWR3c-Bg/Thor%3A_Ragnarok_%282017%29%E0%B8%A8%E0%B8
 
 
 type=video
-name=Jigsaw (2017) ENG TS.x264.AC3-%5BArenaBG%5D
+name=Jigsaw (2017) ENG Web_DL_x264_AC3_TiTAN
 thumb=https://image.tmdb.org/t/p/w640/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
-date=2017-11-28
-URL=https://openload.co/f/Wn4MXIBxUyk/Jigsaw.2017.720p.TS.x264.AC3-%5BArenaBG%5D.mkv.mp4
+date=2018-01-09
+URL=https://openload.co/f/cP4zBkVPXeU/Jigsaw_2017_1080p_Web_DL_x264_AC3_TiTAN.mkv.mp4
+#https://openload.co/f/Wn4MXIBxUyk/Jigsaw.2017.720p.TS.x264.AC3-%5BArenaBG%5D.mkv.mp4
 #https://openload.co/f/F3nZJ_umMbw/Jigsaw.2017.720p.CAM.ENG.X264-Feel.Free.mkv.mp4
 type=video
 name=Jigsaw (2017) THCAM
@@ -2754,18 +2776,7 @@ URL=https://streamango.com/f/dedmrkdoeockpqkq/Jigsaw_2017_
 
 
 
-type=video
-name=Renegades (2017) ENG WEB-DL.DD5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w640/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
-date=2018-01-06
-URL=https://openload.co/f/DyatEMF7zmU/Renegades.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/JzSw1qm2gy0/Renegades.2017.CAM.READNFO.XViD-26k.avi.mp4
-type=video
-name=Renegades (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w640/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
-date=2017-12-12
-URL=https://streamango.com/f/nksbqcoqffaeaqco/Renegades_2017_
-#https://streamango.com/f/bkbkoqdtleqkepkn/Renegades_2017_THCAM_mp4
+
 
 
 
@@ -3424,7 +3435,19 @@ URL=
 
 
 
-
+type=video
+name=Renegades (2017) ENG WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w640/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
+date=2018-01-06
+URL=https://openload.co/f/DyatEMF7zmU/Renegades.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/JzSw1qm2gy0/Renegades.2017.CAM.READNFO.XViD-26k.avi.mp4
+type=video
+name=Renegades (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
+date=2018-01-09
+URL=https://streamango.com/f/pttkrrcdeelqtlts/Renegades_2017_
+#https://streamango.com/f/nksbqcoqffaeaqco/Renegades_2017_
+#https://streamango.com/f/bkbkoqdtleqkepkn/Renegades_2017_THCAM_mp4
 
 
 type=video
@@ -3794,8 +3817,9 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=The Magician (2015) TH
 thumb=https://image.tmdb.org/t/p/w640/hoZ1pHY1EqDZOYUULfPo55CunB6.jpg
-date=2018-01-06
-URL=https://openload.co/f/Jow6pzOvO4M/The_Magician_%282015%29%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%82%E0%B8%8A%E0%B8%8B%E0%B8%AD%E0%B8%99.mp4
+date=2018-01-09
+URL=https://openload.co/f/WuJ25FqURJU/The_Magician_%282015%29%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%82%E0%B8%8A%E0%B8%8B%E0%B8%AD%E0%B8%99.mp4
+#https://openload.co/f/Jow6pzOvO4M/The_Magician_%282015%29%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%82%E0%B8%8A%E0%B8%8B%E0%B8%AD%E0%B8%99.mp4
 
 type=video
 name=Memories of the Sword (2015) TH
