@@ -24,7 +24,7 @@ rating=-1.00
 type=video
 name=
 thumb=https://4.bp.blogspot.com/-q3FCvo_BtWw/WdLY23tF_4I/AAAAAAAAAJE/PnQtW3AhDKcpITTVadnjDOyrsx5Vcb-nQCLcBGAs/s320/054.png
-URL=http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?
+URL=http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -34,19 +34,19 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-fON3PQ3epac/WdLY5DfEFmI/AAAAAAAAAJo/6vW7TQ_dVkIn26x9l9hx7kebzKg6AwS-ACLcBGAs/s320/063.png
-URL=http://103.77.116.193:443/documentary/discovery_science_720p.stream//playlist.m3u8?
+URL=http://103.77.116.193:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-gfLftrQzfyk/WdLY10QqpTI/AAAAAAAAAIw/hrCHo3pNsgkuvkL-X2uSqoQQwvo-0ioYgCLcBGAs/s320/049.png
 date=2017-09-22
-URL=http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?
+URL=http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-dd5bWZ-tL-k/WdLY5f19XsI/AAAAAAAAAJs/xvG608PIzGsMCA39j6DxYRhvFf_Tkr4mACLcBGAs/s320/064.png
 date=2017-10-29
-URL=http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u8?
+URL=http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 
 
@@ -65,7 +65,7 @@ type=video
 name=
 thumb=
 date=2018-01-09
-URL=https://openload.co/f/dl6i6to64E8/In.This.Corner.of.the.World.2016.1080p.bluray.x264-haiku.mkv
+URL=http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 
 
@@ -1256,6 +1256,15 @@ URL=
 
 
 type=video
+name=Gangster Land (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/npteMVPwuNqt9lAqDC67Ld4NESf.jpg
+date=2018-01-09
+URL=https://uptobox.com/p2i1g4kg7vk7
+#https://uptobox.com/0ym3f4gcddqb   720
+#https://openload.co/f/bwHrsIleRaE/Gangster.Land.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/278RrLe94Yg/Gangster_Land_2017.720p.HDRip.x264.AAC-N.O.K.mp4
+
+type=video
 name=Bullet Head (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/ySmKQPjWnNzuZ5YliQaOVEnWn2.jpg
 date=2018-01-09
@@ -1336,6 +1345,7 @@ name=November Criminals (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/xQ40BNgkwq8JchXYORkhTwvtLac.jpg
 date=2018-01-03
 URL=https://uptobox.com/2uowzpjnd9sd
+#https://openload.co/f/P5eHYf_j3z0/November.Criminals.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/dDnslCKT1Cw/November.Criminals.2017.720p.BluRay.H264.AAC-RARBG.mp4
 #https://www.blazefile.co/embed-v7xd0e74owia.html   web
 #https://openload.co/f/hPvOIjnmC58/November_Criminals.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
@@ -1681,6 +1691,7 @@ thumb=https://image.tmdb.org/t/p/w640/cQFJ0lWaR5sYg06KQWtMy8TRYFI.jpg
 date=2017-11-12
 URL=https://www.blazefile.co/embed-2fpk8thili3u.html
 #https://www.blazefile.co/embed-1cbeb5foxhs3.html
+#https://openload.co/f/xO3OI5e7ZSY/M.F.A.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/nLVmHpXu4wY/M.F.A.2017.1080p.WEB-DL.AAC2.0.H264-FGT.mkv.mp4
 #https://openload.co/f/wx4VvEH8R_M/M.F.A.2017.WEB-DL.XviD.MP3-FGT.avi.mp4
 
@@ -2568,13 +2579,7 @@ URL=https://uptobox.com/59t0nyy1grbb
 #https://openload.co/f/RtjAPjl12-M/Marshall.2017.Movies.HD.TS.x264.Clean.Audio.AAC.New.Source.rDX.mkv.mp4
 #https://openload.co/f/8UKPBGPLaDk/Marshall.2017.CAM.READNFO.XViD-26k.avi.mp4
 
-type=video
-name=Gangster Land (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/npteMVPwuNqt9lAqDC67Ld4NESf.jpg
-date=2018-01-09
-URL=https://uptobox.com/0ym3f4gcddqb
-#https://openload.co/f/bwHrsIleRaE/Gangster.Land.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
-#https://openload.co/f/278RrLe94Yg/Gangster_Land_2017.720p.HDRip.x264.AAC-N.O.K.mp4
+
 
 
 
@@ -2587,14 +2592,15 @@ type=video
 name=
 thumb=
 date=
-URL=http://183.88.212.205:8010/play/a02z
+URL=http://113.177.63.140:4022/rtp/232.84.1.115:10236
+#http://183.88.212.205:8010/play/a02z
 
 # 2771674
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 date=2017-10-10
-URL=http://103.77.116.193:443/movie/hbo_th_720p.stream/playlist.m3u8?
+URL=http://103.77.116.193:443/movie/hbo_th_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #http://27.254.154.154:1935/cinema/HBO.stream/playlist.m3u8
 player=default
 rating=-1.00
@@ -2602,13 +2608,13 @@ rating=-1.00
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://103.77.116.193:443/movie/hbo_hits_720p.stream/playlist.m3u8?
+URL=http://103.77.116.193:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD (TH)[/COLOR]
 thumb=https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png
-URL=http://103.77.116.193:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?
+URL=http://103.77.116.193:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE24[/COLOR]
@@ -2618,9 +2624,9 @@ URL=rtmp://tv01.thaizatv.com/drm/movie1
 #http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 type=video
-name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE2[/COLOR]
-thumb=http://www.thaiptv.com/img/movie2logo.png
-URL=http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
+name=[COLOR=FF00FF00]Thai_______Thai______Thai______red_by_hbo[/COLOR]
+thumb=https://www.redbyhbo.com/images/redlogo-image.jpg
+URL=http://103.77.116.193:443/movie/red_by_hbo_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=sid&password=id695464846498
 #http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
@@ -2656,10 +2662,11 @@ URL=http://203.162.235.41:17819
 
 
 type=video
-name=Jumanji: Welcome to the Jungle (2017) ENG NEW_HDTS_x264_AC3_TiTAN
+name=Jumanji: Welcome to the Jungle (2017) ENG TS.NEW.AUDIO.XViD-BL4CKP34RL
 thumb=https://image.tmdb.org/t/p/w640/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
-date=2018-01-02
-URL=https://openload.co/f/GVnelBicD4M/Jumanji_2017_720p_NEW_HDTS_x264_AC3_TiTAN.mkv.mp4
+date=2018-01-10
+URL=https://openload.co/f/q-pag-xqFBc/Jumanji.Welcome.to.the.Jungle.2017.720p.TS.NEW.AUDIO.XViD-BL4CKP34RL.mp4
+#https://openload.co/f/GVnelBicD4M/Jumanji_2017_720p_NEW_HDTS_x264_AC3_TiTAN.mkv.mp4
 #https://openload.co/f/wIXuqwJxJd8/Jumanji_Welcome_To_The_Jungle_2017_NEW_720p_HD-TS_X264_HQ-CPG.mkv.mp4
 #https://openload.co/f/47uz-2dsxwI/Jumanji_Welcome_to_the_Jungle_.2017.TS.READNFO.XViD-BL4CKP34RL.avi.mp4
 #https://openload.co/f/WB1vO402gvQ/Jumanji.Welcome.to.the.Jungle.2017.720p.HDCAM.New-Source.x264-LoveHD.mkv.mp4
@@ -2675,10 +2682,11 @@ URL=https://streamango.com/f/lfepefddqscnfbrr/Jumanji_Welcome_to_the_Jungle_2017
 
 
 type=video
-name=Ferdinand (2017) ENG HDCAM_.720p-DerpusMaxiums
+name=Ferdinand (2017) ENG HDCAM.x264.AC3-TiTAN
 thumb=https://image.tmdb.org/t/p/w640/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg
-date=2018-01-02
-URL=https://openload.co/f/bifINJBmeNg/Ferdinand.2017.HDCAM_.720p-DerpusMaxiums.mp4
+date=2018-01-10
+URL=https://openload.co/f/szmI6J6kL3c/Ferdinand.2017.HDCAM.x264.AC3-TiTAN.mkv.mp4
+#https://openload.co/f/bifINJBmeNg/Ferdinand.2017.HDCAM_.720p-DerpusMaxiums.mp4
 #https://openload.co/f/XwQneA9shx4/Ferdinand_2017_HDCAM_NO_LOGO_720p_Spacemov.io.mp4
 type=video
 name=Ferdinand (2017) THCAM
@@ -3430,9 +3438,16 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-27
+date=2018-01-10
 URL=
 
+
+
+type=video
+name=24 Hours to Live (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/s6kwunWUi52EjNhep33sJ9uEnqX.jpg
+date=2018-01-10
+URL=https://streamango.com/f/plcmptlmssflemdb/24_Hours_to_Live_2017_24_
 
 
 type=video
