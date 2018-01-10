@@ -37,8 +37,7 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 
 #EXTINF:-1,MONEY CHANNEL
-http://191.96.38.83:443/free/00_moneychannel_480p/chunklist.m3u8
-#http://103.77.116.193:443/news/money_channel_480p.stream/playlist.m3u8?
+http://103.77.116.193:443/news/money_channel_480p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,Bloomberg TV Europe_1
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 
@@ -159,89 +158,89 @@ http://79.133.124.104:8888/udp/239.191.255.141:15283
 
 
 #EXTINF:-1,3_hd
-http://103.77.116.193:443/tvdigital/3_hd_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/3_hd_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,tv5_hd
-http://103.77.116.193:443/tvdigital/tv5_hd_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/tv5_hd_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,7_hd
-http://103.77.116.193:443/tvdigital/7_hd_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/7_hd_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,mcot_hd
-http://103.77.116.193:443/tvdigital/mcot_hd_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/mcot_hd_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,nbt
-http://103.77.116.193:443/tvdigital/nbt_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/nbt_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,tpbs_hd
 http://thaipbs-live.cdn.byteark.com/live/chunklist_1080p/index.m3u8
 #EXTINF:-1,TNN24
-http://103.77.116.193:443/tvdigital/tnn24_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/tnn24_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,pptv_hd
-http://103.77.116.193:443/tvdigital/pptv_hd_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/pptv_hd_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,one
-http://103.77.116.193:443/tvdigital/one_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/one_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,Amarin
-http://103.77.116.193:443/tvdigital/amarin_tv_hd_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/amarin_tv_hd_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,thairath_tv
-http://103.77.116.193:443/tvdigital/thairath_tv_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/thairath_tv_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,mono_29 1080p
 http://edge3-bkk.3bb.co.th:1935/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 #EXTINF:-1,workpoint
-http://103.77.116.193:443/tvdigital/workpoint_tv_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/workpoint_tv_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,CH8
 http://111.223.51.3/desktop/ch8_720p/chunklist.m3u8
 #EXTINF:-1,voice_tv
-http://103.77.116.193:443/tvdigital/voice_tv_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/voice_tv_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,now
-http://103.77.116.193:443/tvdigital/now_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/now_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,true4u
-http://103.77.116.193:443/tvdigital/true4u_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/true4u_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,gmm25
-http://103.77.116.193:443/tvdigital/gmm25_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/gmm25_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,nation
-http://103.77.116.193:443/tvdigital/nation_tv_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/nation_tv_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,new_tv
-http://103.77.116.193:443/tvdigital/new_tv_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/new_tv_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,spring_news HD
 http://122.155.184.11/T1457077260/ngrp:livestream_all/chunklist.m3u8?
 #EXTINF:-1,bright_tv
-http://103.77.116.193:443/tvdigital/bright_tv_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/bright_tv_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,3_sd
-http://103.77.116.193:443/tvdigital/3_sd_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/3_sd_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,3_family
-http://103.77.116.193:443/tvdigital/3_family_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/3_family_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,mcot_family
-http://103.77.116.193:443/tvdigital/mcot_family_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/mcot_family_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,mcot1
-http://103.77.116.193:443/tvdigital/mcot1_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/mcot1_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,plook_panya
-http://103.77.116.193:443/tvdigital/true_plook_panya_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/true_plook_panya_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,cctv4
-http://103.77.116.193:443/tvdigital/cctv4_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/cctv4_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,saradee
 http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_600/chunklist.m3u8
 #EXTINF:-1,chic channel
-http://103.77.116.193:443/tvdigital/chicchannel_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/tvdigital/chicchannel_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 
 
 
 #EXTINF:-1,nick_jr.
-http://103.77.116.193:443/cartoon/nick_jr._720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/cartoon/nick_jr._720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,disney_xd
-http://103.77.116.193:443/cartoon/disney_xd_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/cartoon/disney_xd_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,disney_xd
-http://103.77.116.193:443/cartoon/disney_xd_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/cartoon/disney_xd_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,toonami
-http://103.77.116.193:443/cartoon/toonami_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/cartoon/toonami_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,baby_tv_hd
-http://103.77.116.193:443/cartoon/baby_tv_hd_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/cartoon/baby_tv_hd_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,true_spark_play
-http://103.77.116.193:443/cartoon/true_spark_play_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/cartoon/true_spark_play_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,true_spark_jum
-http://103.77.116.193:443/cartoon/true_spark_jump_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/cartoon/true_spark_jump_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,true_spark_play
-http://103.77.116.193:443/cartoon/true_spark_play_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/cartoon/true_spark_play_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,cartoon_club
-http://103.77.116.193:443/cartoon/gang_cartoon_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/cartoon/gang_cartoon_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,boomerang
-http://103.77.116.193:443/cartoon/boomerang_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/cartoon/boomerang_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,Animax ???????
 http://103.77.116.250/boboapp6/ANIMAX/playlist.m3u8
 
@@ -249,106 +248,106 @@ http://103.77.116.250/boboapp6/ANIMAX/playlist.m3u8
 
 
 #EXTINF:-1,hbo_hd
-http://103.77.116.193:443/movie/hbo_hd_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/hbo_hd_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,hbo_hd ?????
-http://103.77.116.193:443/movie/hbo_th_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/hbo_th_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,hbo_hits
-http://103.77.116.193:443/movie/hbo_hits_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/hbo_hits_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,hbo_signature
-http://103.77.116.193:443/movie/hbo_signature_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/hbo_signature_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,hbo_family
-http://103.77.116.193:443/movie/hbo_family_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/hbo_family_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,m_channel
 http://103.77.116.250/boboapp4/pb_55_mchannel/chunklist.m3u8
 #EXTINF:-1,red_by_hbo
-http://103.77.116.193:443/movie/red_by_hbo_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/red_by_hbo_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,warner_tv
-http://103.77.116.193:443/movie/warner_tv_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541 
+http://103.77.116.193:443/movie/warner_tv_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793 
 #EXTINF:-1,cinemax
-http://103.77.116.193:443/movie/cinemax_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/cinemax_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,doonee
-http://103.77.116.193:443/movie/ais_doonee_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/ais_doonee_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,true_thai_film
-http://103.77.116.193:443/movie/true_thai_film_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/true_thai_film_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,true_asian_series
-http://103.77.116.193:443/movie/true_asian_series_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/true_asian_series_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,true_series
-http://103.77.116.193:443/movie/true_series_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/true_series_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,true_movie_hits
-http://103.77.116.193:443/movie/true_movie_hits_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/true_movie_hits_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,true_film_asia
-http://cdn4-live.googlestreamming.com:443/movie/true_film_asia_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://cdn4-live.googlestreamming.com:443/movie/true_film_asia_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,fox_action_movies
-http://103.77.116.193:443/movie/fox_action_movies_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/fox_action_movies_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,fox_movies_premium_hd
-http://103.77.116.193:443/movie/fox_movies_premium_hd_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/fox_movies_premium_hd_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,fox family movies en
-http://103.77.116.193:443/movie/ais_foxfamen_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/ais_foxfamen_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,fox family movies th
-http://103.77.116.193:443/movie/ais_foxfamth_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/ais_foxfamth_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,fox_crime
-http://103.77.116.193:443/movie/tot_foxcrimehdthai_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/tot_foxcrimehdthai_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,fox life
-http://103.77.116.193:443/movie/starworld_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/starworld_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,fx
-http://103.77.116.193:443/movie/fx_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/fx_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,fox_thai
-http://103.77.116.193:443/movie/fox_thai_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/fox_thai_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,thrill
-http://103.77.116.193:443/movie/thrill_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/thrill_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,zeenung
-http://103.77.116.193:443/movie/ais_zeenung_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/ais_zeenung_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,celestial_classic_movies
-http://103.77.116.193:443/movie/celestial_classic_movies_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/celestial_classic_movies_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,tlc
-http://103.77.116.193:443/movie/tlc_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/tlc_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 
 
 
 
 #EXTINF:-1,h2
-http://103.77.116.193:443/documentary/h2_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/h2_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,history
-http://103.77.116.193:443/documentary/history_channel_hd_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/history_channel_hd_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,axn
-http://103.77.116.193:443/documentary/axn_hd_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/axn_hd_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,samrojlok hd
-http://103.77.116.193:443/documentary/samrojlok_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/samrojlok_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,samrojlok ?????
-http://103.77.116.193:443/documentary/samrojlok_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/samrojlok_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,animal_planet
-http://103.77.116.193:443/documentary/animal_planet_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/animal_planet_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,national_geographic_hd
-http://103.77.116.193:443/documentary/national_geographic_hd_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/national_geographic_hd_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,national_geographic_wild
-http://103.77.116.193:443/documentary/national_geographic_wild_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/national_geographic_wild_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,national_geographic_people
-http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,true_explore_wild
-http://103.77.116.193:443/documentary/true_explore_wild_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/true_explore_wild_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,true_explore_life
-http://103.77.116.193:443/documentary/true_explore_life_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/true_explore_life_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,true_explore_sci
-http://103.77.116.193:443/documentary/true_explore_sci_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/true_explore_sci_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,discovery_science
-http://103.77.116.193:443/documentary/discovery_science_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/discovery_science_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,discovery_channel
-http://103.77.116.193:443/documentary/discovery_channel_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/discovery_channel_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,discovery_hd_world
-http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,bbc_earth
-http://103.77.116.193:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,fyi
-http://103.77.116.193:443/documentary/fyi_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/fyi_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,dmax
-http://103.77.116.193:443/documentary/dmax_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/dmax_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,jkn_dramax
-http://103.77.116.193:443/documentary/jkn_dramax_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/jkn_dramax_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,asian_food_channel
-http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,rama
-http://103.77.116.193:443/documentary/rama_channel_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/rama_channel_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 
 
@@ -356,27 +355,27 @@ http://103.77.116.193:443/documentary/rama_channel_480p.stream/chunklist.m3u8?st
 
 
 #EXTINF:-1,ci hd
-http://103.77.116.193:443//foreign/ci_hd_720p.stream/playlist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443//foreign/ci_hd_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,eve
-http://103.77.116.193:443/varity/eve_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/varity/eve_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,reality
-http://103.77.116.193:443/varity/reality_hd_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/varity/reality_hd_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,axn
-http://103.77.116.193:443/varity/axn_hd_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/varity/axn_hd_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,fashion
-http://103.77.116.193:443/varity/fashion_tv_hd_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/varity/fashion_tv_hd_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,true_x-zyte
-http://103.77.116.193:443/varity/true_x-zyte_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/varity/true_x-zyte_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,ravel_channel_
-http://103.77.116.193:443/varity/travel_channel_thailand_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/varity/travel_channel_thailand_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,miracle_channel
-http://103.77.116.193:443/varity/miracle_channel_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/varity/miracle_channel_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,you_channel
-http://103.77.116.193:443/varity/you_channel_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/varity/you_channel_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,gvtv
-http://103.77.116.193:443/varity/ais_gvtv_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/varity/ais_gvtv_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,gvx
-http://103.77.116.193:443/varity/ais_gvx_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/varity/ais_gvx_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 
 
@@ -384,27 +383,27 @@ http://103.77.116.193:443/varity/ais_gvx_720p.stream/chunklist.m3u8?st=Dg2D51QVm
 
 
 #EXTINF:-1,nation_tv
-http://103.77.116.193:443/news/nation_tv_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/news/nation_tv_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,tgn
-http://103.77.116.193:443/news/tgn_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/news/tgn_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,sky_news
-http://103.77.116.193:443/news/sky_news_hd_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/news/sky_news_hd_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,newsasia
-http://103.77.116.193:443/news/channel_newsasia_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/news/channel_newsasia_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,euronews
-http://103.77.116.193:443/news/euronews_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/news/euronews_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,fox_news
-http://103.77.116.193:443/news/fox_news_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/news/fox_news_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,tnn24
-http://103.77.116.193:443/news/tnn24_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/news/tnn24_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,tnn2
-http://103.77.116.193:443/news/tnn2_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/news/tnn2_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,money
-http://103.77.116.193:443/news/money_channel_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/news/money_channel_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,nhk_world
-http://103.77.116.193:443/news/nhk_world_tv_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/news/nhk_world_tv_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 #EXTINF:-1,france_24
-http://103.77.116.193:443/news/france_24_720p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/news/france_24_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 
 
@@ -1523,28 +1522,28 @@ rtmp://109.71.162.112/live//sd.jasminchannel.stream
 
 
 #EXTINF:-1,HISTORY
-http://103.77.116.193:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 #EXTINF:-1,HBO HD
-http://103.77.116.193:443/movie/hbo_hd_720p.stream/playlist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/hbo_hd_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 #EXTINF:-1,HBO Hits
-http://103.77.116.193:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 #EXTINF:-1,hbo_signature
-http://103.77.116.193:443/movie/hbo_signature_720p.stream/chunklist.m3u8st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/hbo_signature_720p.stream/chunklist.m3u8st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 #EXTINF:-1,Cinemax
-http://103.77.116.193:443/movie/cinemax_720p.stream/playlist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/cinemax_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 #EXTINF:-1,Fox Mov Pre HD 
-http://103.77.116.193:443/movie/fox_movies_premium_hd_720p.stream/playlist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/fox_movies_premium_hd_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 #EXTINF:-1,Doonee HD
-http://103.77.116.193:443/movie/ais_doonee_720p.stream/playlist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/ais_doonee_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 #EXTINF:-1,RED by HBO
-http://103.77.116.193:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 
 
@@ -1568,258 +1567,6 @@ http://live-tx-hdl.huomaotv.cn/live/gEFTWY23105.m3u8
 
 
 
-#EXTINF:-1,CH3 HD
-http://191.96.38.83:443/free41/0x777_3hd_720p/chunklist.m3u8
-#EXTINF:-1,TV5 HD
-http://191.96.38.83:443/free41/0x777_2tv5_720p/chunklist.m3u8
-#EXTINF:-1,CH7 HD
-http://191.96.38.83:443/free/0x777_7hd_720p/chunklist.m3u8
-#EXTINF:-1,MCOT HD
-http://191.96.38.83:443/free41/0x777_mcothd_720p/chunklist.m3u8
-#EXTINF:-1,NBT
-http://191.96.38.83:443/free53/00_2nbt_480p/chunklist.m3u8
-#EXTINF:-1,Amarin TV HD
-http://191.96.38.83:443/free/00_tvdigital_amarin_480p/chunklist.m3u8
-#EXTINF:-1,PPTV HD
-http://191.96.38.83:443/free41/0x777_tvdigital_pptv_720p/chunklist.m3u8
-#EXTINF:-1,CH3 Family
-http://191.96.38.83:443/free53/00_3fam_480p/chunklist.m3u8
-#EXTINF:-1,MCOT Family
-http://191.96.38.83:443/free53/00_mcotfam_480p/chunklist.m3u8
-#EXTINF:-1,New)TV
-http://191.96.38.83:443/free/00_tvdigital_newtv_480p/chunklist.m3u8
-#EXTINF:-1,Spring News
-http://191.96.38.83:443/free53/00_springnews_480p/chunklist.m3u8
-#EXTINF:-1,Bright TV
-http://191.96.38.83:443/free/00_tvdigital_bright_480p/chunklist.m3u8
-#EXTINF:-1,VOICE TV
-http://191.96.38.83:443/free53/00_voice_480p/chunklist.m3u8
-#EXTINF:-1,Nation TV
-http://191.96.38.83:443/free53/00_nation_480p/chunklist.m3u8
-#EXTINF:-1,Workpoint TV
-http://191.96.38.83:443/free53/00_tvdigital_workpointtv_480p/chunklist.m3u8
-#EXTINF:-1,True4U
-http://191.96.38.83:443/free/00_true4u_480p/chunklist.m3u8
-#EXTINF:-1,Gmm25
-http://191.96.38.83:443/free53/00_gmm25_480p/chunklist.m3u8
-#EXTINF:-1,Now26
-http://191.96.38.83:443/free53/00_tvdigital_now_480p/chunklist.m3u8
-#EXTINF:-1,CH8
-http://191.96.38.83:443/free53/0x777_tvdigital_ch8_720p/chunklist.m3u8
-#EXTINF:-1,CH3 SD
-http://191.96.38.83:443/free53/00_3sd_480p/chunklist.m3u8
-#EXTINF:-1,Mono29
-http://191.96.38.83:443/free53/00_tvdigital_mono_480p/chunklist.m3u8
-#EXTINF:-1,One HD
-http://191.96.38.83:443/free41/0x777_tvdigital_one_720p/chunklist.m3u8
-#EXTINF:-1,Thairath TV
-http://191.96.38.83:443/free/00_tvdigital_thairath_480p/chunklist.m3u8
-#EXTINF:-1,True Plook Panya
-http://191.96.38.83:443/free/00_tppy_480p/chunklist.m3u8
-#EXTINF:-1,MCOT1
-http://191.96.38.83:443/free53/00_mcot1_480p/chunklist.m3u8
-#EXTINF:-1,M Channel
-http://191.96.38.83:443/free53/00_mchannel_480p/chunklist.m3u8
-#EXTINF:-1,True Spark play
-http://191.96.38.83:443/free53/00_spark_480p/chunklist.m3u8
-#EXTINF:-1,True Spark Jump
-http://191.96.38.83:443/free/00_sparkjump_480p/chunklist.m3u8
-#EXTINF:-1,Disney 
-http://191.96.38.83:443/free41/0x222_disneyxd_720p/chunklist.m3u8
-#EXTINF:-1,Disney Channel
-http://191.96.38.83:443/free/00_disney_480p/chunklist.m3u8
-#EXTINF:-1,Discovery Kids
-http://191.96.38.83:443/free41/0x777_discoverykids_720p/chunklist.m3u8
-#EXTINF:-1,Cartoon Club Channel
-http://191.96.38.83:443/free53/00_cclub_480p/chunklist.m3u8
-#EXTINF:-1,Gang Cartoon
-http://191.96.38.83:443/free53/00_gangcartoon_480p/chunklist.m3u8
-#EXTINF:-1,Baby TV HD
-http://191.96.38.83:443/free54/0x222_babytvhd_720p/chunklist.m3u8
-#EXTINF:-1,Boomerang
-http://191.96.38.83:443/free53/00_boomerang_480p/chunklist.m3u8
-#EXTINF:-1,NiCK Jr.
-http://191.96.38.83:443/free54/0x222_nickjrthai_720p/chunklist.m3u8
-#EXTINF:-1,Toonami
-http://191.96.38.83:443/free41/0x222_toonami_720p/chunklist.m3u8
-#EXTINF:-1,True Thai Film
-http://191.96.38.83:443/free/00_2thaifilm_480p/chunklist.m3u8
-#EXTINF:-1,True Film Asia
-http://191.96.38.83:443/free/00_filmasia_480p/chunklist.m3u8
-#EXTINF:-1,True Movie Hits
-http://191.96.38.83:443/free/00_moviehits_480p/chunklist.m3u8
-#EXTINF:-1,True Asian Series
-http://191.96.38.83:443/free/00_2asianseries_480p/chunklist.m3u8
-#EXTINF:-1,True Series
-http://191.96.38.83:443/free/00_2series_480p/chunklist.m3u8
-#EXTINF:-1,KBS World
-http://191.96.38.83:443/free/00_kbs_480p/chunklist.m3u8
-#EXTINF:-1,True Explore Wild
-http://191.96.38.83:443/free/00_exp1_480p/chunklist.m3u8
-#EXTINF:-1,True Explore Life
-http://191.96.38.83:443/free53/00_exp2_480p/chunklist.m3u8
-#EXTINF:-1,True Explore Sci
-http://191.96.38.83:443/free53/00_exp3_480p/chunklist.m3u8
-#EXTINF:-1,BBC Life Style
-http://191.96.38.83:443/free41/0x222_lifestylehd_720p/chunklist.m3u8
-#EXTINF:-1,Discovery Channel
-http://191.96.38.83:443/free41/00_dischannel_480p/chunklist.m3u8
-#EXTINF:-1,Discovery Science
-http://191.96.38.83:443/free41/0x777_dissci_720p/chunklist.m3u8
-#EXTINF:-1,EVE
-http://191.96.38.83:443/free41/0x222_evehd_720p/chunklist.m3u8
-#EXTINF:-1,DMAX
-http://191.96.38.83:443/free41/0x777_dmaxhd_720p/chunklist.m3u8
-#EXTINF:-1,TLC
-http://191.96.38.83:443/free53/00_tlc_480p/chunklist.m3u8
-#EXTINF:-1,Animal Planet
-http://191.96.38.83:443/free41/0x777_animalplanet_720p/chunklist.m3u8
-#EXTINF:-1,BBC Earth
-http://191.96.38.83:443/free41/0x777_bbcearth_720p/chunklist.m3u8
-#EXTINF:-1,TNN24
-http://191.96.38.83:443/free53/00_tnn24_480p/chunklist.m3u8
-#EXTINF:-1,Money Channel
-http://191.96.38.83:443/free/00_moneychannel_480p/chunklist.m3u8
-#EXTINF:-1,TNN2
-http://191.96.38.83:443/free53/00_tnn2_480p/chunklist.m3u8
-#EXTINF:-1,Smart SME Channel
-http://191.96.38.83:443/free/00_smechannel_480p/chunklist.m3u8
-#EXTINF:-1,RAMA Channel
-http://191.96.38.83:443/free/00_rama_480p/chunklist.m3u8
-#EXTINF:-1,Reality HD
-http://191.96.38.83:443/free/00_real_480p/chunklist.m3u8
-#EXTINF:-1,True4U
-http://191.96.38.83:443/free/00_true4u_480p/chunklist.m3u8
-#EXTINF:-1,Fashion TV HD
-http://191.96.38.83:443/free54/0x222_fashiontvsd_720p/chunklist.m3u8
-#EXTINF:-1,True X-zyte
-http://191.96.38.83:443/free/00_xzyte_480p/chunklist.m3u8
-#EXTINF:-1,Asian Food Channel
-http://191.96.38.83:443/free/00_homeandfood_480p/chunklist.m3u8
-#EXTINF:-1,CHIC's
-http://191.96.38.83:443/free/00_chicchannel_480p/chunklist.m3u8
-#EXTINF:-1,Travel Channel Thailand
-http://191.96.38.83:443/free/00_travelchannel_480p/chunklist.m3u8
-#EXTINF:-1,Super Bunteung
-http://191.96.38.83:443/free/00_superbunteng_480p/chunklist.m3u8
-#EXTINF:-1,Miracle Channel
-http://191.96.38.83:443/free53/00_miracle_480p/chunklist.m3u8
-#EXTINF:-1,TGN2
-http://191.96.38.83:443/free/00_tgn2_480p/chunklist.m3u8
-#EXTINF:-1,TGN
-http://191.96.38.83:443/free/00_tgn_480p/chunklist.m3u8
-#EXTINF:-1,ETV
-http://191.96.38.83:443/free/00_etv_480p/chunklist.m3u8
-#EXTINF:-1,JKN Dramax
-http://191.96.38.83:443/free54/0x222_jkn_720p/chunklist.m3u8
-#EXTINF:-1,Arirang
-http://191.96.38.83:443/free54/0x222_arirang_720p/chunklist.m3u8
-#EXTINF:-1,Star Chinese Channel
-http://191.96.38.83:443/free54/0x222_scc_720p/chunklist.m3u8
-#EXTINF:-1,True Music
-http://191.96.38.83:443/free/00_2music_480p/chunklist.m3u8
-#EXTINF:-1,ThaiThai
-http://191.96.38.83:443/free/00_thaithai_480p/chunklist.m3u8
-#EXTINF:-1,MTV Asia
-http://191.96.38.83:443/free54/0x222_mtvasia_720p/chunklist.m3u8
-#EXTINF:-1,Very TV
-http://191.96.38.83:443/free/00_very_480p/chunklist.m3u8
-#EXTINF:-1,MTV Live HD
-http://191.96.38.83:443/free54/0x222_mtvlivehd_720p/chunklist.m3u8
-#EXTINF:-1,MTV China
-http://191.96.38.83:443/free54/0x222_mtvchina_720p/chunklist.m3u8
-#EXTINF:-1,Channel V Thailand
-http://191.96.38.83:443/free54/0x222_chvinter_720p/chunklist.m3u8
-#EXTINF:-1,Trace Urban
-http://191.96.38.83:443/free54/0x222_traceurbanhd_720p/chunklist.m3u8
-#EXTINF:-1,CCTV4
-http://191.96.38.83:443/free53/00_cctv_480p/chunklist.m3u8
-#EXTINF:-1,DW (Deutsch)
-http://191.96.38.83:443/free54/0x222_dwchannel_720p/chunklist.m3u8
-#EXTINF:-1,NHK World TV
-http://191.96.38.83:443/free54/0x222_nhkworldtv_720p/chunklist.m3u8
-#EXTINF:-1,France24
-http://191.96.38.83:443/free54/0x222_france24_720p/chunklist.m3u8
-#EXTINF:-1,EuroNews
-http://191.96.38.83:443/free54/0x222_euronews_720p/chunklist.m3u8
-#EXTINF:-1,Channel NewsAsia
-http://191.96.38.83:443/free54/0x222_newsasia_720p/chunklist.m3u8
-#EXTINF:-1,SkyNews HD
-http://191.96.38.83:443/free54/0x222_skynewshd_720p/chunklist.m3u8
-#EXTINF:-1,FOX News
-http://191.96.38.83:443/free54/0x222_foxnewsthai_720p/chunklist.m3u8
-#EXTINF:-1,HBO HD
-http://191.96.38.83:443/free53/0x222_ais_hbohd_720p/chunklist.m3u8
-#EXTINF:-1,HBO TH
-http://191.96.38.83:443/free53/0x222_ais_hbohdth_720p/chunklist.m3u8
-#EXTINF:-1,HBO Signature
-http://191.96.38.83:443/free53/0x222_ais_hbosignature_720p/chunklist.m3u8
-#EXTINF:-1,HBO Family
-http://191.96.38.83:443/free53/0x222_ais_hbofam_720p/chunklist.m3u8
-#EXTINF:-1,HBO Hits
-http://191.96.38.83:443/free53/0x222_ais_hbohit_720p/chunklist.m3u8
-#EXTINF:-1,Cinemax
-http://191.96.38.83:443/free53/0x222_ais_cinemax_720p/chunklist.m3u8
-#EXTINF:-1,Red by HBO
-http://191.96.38.83:443/free53/0x222_ais_redbyhbo_720p/chunklist.m3u8
-#EXTINF:-1,Red by HBO TH
-http://191.96.38.83:443/free53/0x222_ais_redbyhboth_720p/chunklist.m3u8
-#EXTINF:-1,DOONEE
-http://191.96.38.83:443/free53/0x222_ais_doonee_720p/chunklist.m3u8
-#EXTINF:-1,Samrojlok
-http://191.96.38.83:443/free41/0x777_samrujlok_720p/chunklist.m3u8
-#EXTINF:-1,MyScience
-http://191.96.38.83:443/free41/0x222_mysci_720p/chunklist.m3u8
-#EXTINF:-1,Zee Nung
-http://191.96.38.83:443/free53/0x222_ais_zeenung_720p/chunklist.m3u8
-#EXTINF:-1,FOX Thai
-http://191.96.38.83:443/free/00_foxthai_480p/chunklist.m3u8
-#EXTINF:-1,FOX Family Movies HD
-http://191.96.38.83:443/free53/0x222_ais_foxfamen_720p/chunklist.m3u8
-#EXTINF:-1,FOX Family Movies TH
-http://191.96.38.83:443/free53/0x222_ais_foxfamth_720p/chunklist.m3u8
-#EXTINF:-1,FOX Movies Premium HD
-http://191.96.38.83:443/free/0x777_foxpremiumtruly_720p/chunklist.m3u8
-#EXTINF:-1,FOX Movies Premium TH
-http://191.96.38.83:443/free53/0x222_ais_foxpremiumth_720p/chunklist.m3u8
-#EXTINF:-1,FOX Action Movies
-http://191.96.38.83:443/free53/0x222_foxactionmovieen_720p/chunklist.m3u8
-#EXTINF:-1,FOX Action Movies TH
-http://191.96.38.83:443/free53/0x222_foxactionmovieth_720p/chunklist.m3u8
-#EXTINF:-1,FOX Crime
-http://191.96.38.83:443/free54/0x222_foxcrimehdthai_720p/chunklist.m3u8
-#EXTINF:-1,Fox Life
-http://191.96.38.83:443/free54/0x222_starworldhdthai_720p/chunklist.m3u8
-#EXTINF:-1,FX
-http://191.96.38.83:443/free54/0x222_fxthailand_720p/chunklist.m3u8
-#EXTINF:-1,Thrill
-http://191.96.38.83:443/free54/0x222_thrill_720p/chunklist.m3u8
-#EXTINF:-1,Warner TV
-http://191.96.38.83:443/free54/0x777_warnertv_720p/chunklist.m3u8
-#EXTINF:-1,Discovery HD World
-http://191.96.38.83:443/free41/0x777_discoveryworldhd_720p/chunklist.m3u8
-#EXTINF:-1,History Channel
-http://191.96.38.83:443/free41/0x777_historyhd_720p/chunklist.m3u8
-#EXTINF:-1,H2
-http://191.96.38.83:443/free41/0x777_h2hd_720p/chunklist.m3u8
-#EXTINF:-1,FYI
-http://191.96.38.83:443/free54/0x222_fyihdthai_720p/chunklist.m3u8
-#EXTINF:-1,CI HD
-http://191.96.38.83:443/free54/0x222_cihd_720p/chunklist.m3u8
-#EXTINF:-1,AXN HD
-http://191.96.38.83:443/free41/0x777_axnhd_720p/chunklist.m3u8
-#EXTINF:-1,National Geographic HD
-http://191.96.38.83:443/free54/0x222_natgeographic_720p/chunklist.m3u8
-#EXTINF:-1,AIS National Geographic HD
-http://191.96.38.83:443/free53/0x222_ais_natgeographic_720p/chunklist.m3u8
-#EXTINF:-1,National Geographic WILD
-http://191.96.38.83:443/free54/0x222_natgeowild_720p/chunklist.m3u8
-#EXTINF:-1,National Geographic People
-http://191.96.38.83:443/free54/0x222_natgeopeople_720p/chunklist.m3u8
-#EXTINF:-1,Celestial Classic Movies
-http://191.96.38.83:443/free54/0x222_ccm_720p/chunklist.m3u8
-#EXTINF:-1,Celestial Classic Movies (backup)
-http://191.96.38.83:443/free/00_ccm_480p/chunklist.m3u8
 
 
 
@@ -2012,15 +1759,43 @@ http://live-tx-hdl.huomaotv.cn/flvtx.plu.cn/onlive/e65e81838bdf45ecbff40bc7318bb
 
 
 
-#EXTINF:-1,Money Channel
-http://soccerlive168.sai8.live:443/free/00_moneychannel_480p/chunklist.m3u8
 
 
 
 
 
-
-
+#EXTINF:-1,doonee
+http://103.77.116.191:443/movie/ais_doonee_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+#EXTINF:-1,true_thai_film
+http://103.77.116.191:443/movie/true_thai_film_480p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+#EXTINF:-1,true_asian_series
+http://103.77.116.191:443/movie/true_asian_series_480p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+#EXTINF:-1,true_series
+http://103.77.116.191:443/movie/true_series_480p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+#EXTINF:-1,true_movie_hits
+http://103.77.116.191:443/movie/true_movie_hits_480p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+#EXTINF:-1,true_film_asia
+http://cdn4-live.googlestreamming.com:443/movie/true_film_asia_480p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+#EXTINF:-1,fox_action_movies
+http://103.77.116.191:443/movie/fox_action_movies_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+#EXTINF:-1,fox_movies_premium_hd
+http://103.77.116.191:443/movie/fox_movies_premium_hd_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+#EXTINF:-1,fox family movies en
+http://103.77.116.191:443/movie/ais_foxfamen_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+#EXTINF:-1,fox family movies th
+http://103.77.116.191:443/movie/ais_foxfamth_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+#EXTINF:-1,hbo_hd
+http://103.77.116.191:443/movie/hbo_hd_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+#EXTINF:-1,hbo_hd
+http://103.77.116.191:443/movie/hbo_th_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+#EXTINF:-1,hbo_hits
+http://103.77.116.191:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+#EXTINF:-1,hbo_signature
+http://103.77.116.191:443/movie/hbo_signature_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+#EXTINF:-1,hbo_family
+http://103.77.116.191:443/movie/hbo_family_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+#EXTINF:-1,red_by_hbo
+http://103.77.116.191:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 
 
@@ -2030,129 +1805,35 @@ http://soccerlive168.sai8.live:443/free/00_moneychannel_480p/chunklist.m3u8
 
 #EXTINF:-1,saradee
 http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_300/chunklist.m3u8
-#EXTINF:-1,national_geographic_ddns
-http://191.96.38.83:443/free54/0x222_natgeographic_720p/playlist.m3u8
-#EXTINF:-1,discovery_hd_world_ddns
-http://191.96.38.83:443/free41/0x777_discoveryworldhd_720p/playlist.m3u8
-#EXTINF:-1,national_geographic_people_ddns
-http://191.96.38.83:443/free54/0x222_natgeopeople_720p/playlist.m3u8
+
 
 #EXTINF:-1,true_explore_sci
-http://103.77.116.193:443/documentary/true_explore_sci_480p.stream/chunklist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/true_explore_sci_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 #EXTINF:-1,history_channel
-http://103.77.116.193:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 #EXTINF:-1,national_geographic
-http://103.77.116.193:443/documentary/national_geographic_hd_720p.stream/playlist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/national_geographic_hd_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 #EXTINF:-1,national_geographic_people
-http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 #EXTINF:-1,asian_food_channel
-http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 #EXTINF:-1,discovery_hd_world
-http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 #EXTINF:-1,discovery_science
-http://103.77.116.193:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 #EXTINF:-1,discovery_channel
-http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=Dg2D51QVm4jtKFnEafX60g&username=20533&password=mmmmbd08ad700f2f977831d4&e=1515531541
+http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
 
 
 
 
-#EXTINF:-1,True Thai Film
-http://191.96.38.83:443/free/00_2thaifilm_480p/chunklist.m3u8
-#EXTINF:-1,True Film Asia
-http://191.96.38.83:443/free/00_filmasia_480p/chunklist.m3u8
-#EXTINF:-1,True Movie Hits
-http://191.96.38.83:443/free/00_moviehits_480p/chunklist.m3u8
-#EXTINF:-1,True Asian Series
-http://191.96.38.83:443/free/00_2asianseries_480p/chunklist.m3u8
-#EXTINF:-1,True Series
-http://191.96.38.83:443/free/00_2series_480p/chunklist.m3u8
-#EXTINF:-1,FOX Thai
-http://191.96.38.83:443/free/00_foxthai_480p/chunklist.m3u8
-#EXTINF:-1,FOX Family Movies HD
-http://191.96.38.83:443/free53/0x222_ais_foxfamen_720p/chunklist.m3u8
-#EXTINF:-1,FOX Family Movies TH
-http://191.96.38.83:443/free53/0x222_ais_foxfamth_720p/chunklist.m3u8
-#EXTINF:-1,FOX Movies Premium HD
-http://191.96.38.83:443/free/0x777_foxpremiumtruly_720p/chunklist.m3u8
-#EXTINF:-1,FOX Movies Premium TH
-http://191.96.38.83:443/free53/0x222_ais_foxpremiumth_720p/chunklist.m3u8
-#EXTINF:-1,FOX Action Movies
-http://191.96.38.83:443/free53/0x222_foxactionmovieen_720p/chunklist.m3u8
-#EXTINF:-1,FOX Action Movies TH
-http://191.96.38.83:443/free53/0x222_foxactionmovieth_720p/chunklist.m3u8
-#EXTINF:-1,FOX Crime
-http://191.96.38.83:443/free54/0x222_foxcrimehdthai_720p/chunklist.m3u8
-#EXTINF:-1,Fox Life
-http://191.96.38.83:443/free54/0x222_starworldhdthai_720p/chunklist.m3u8
-#EXTINF:-1,FX
-http://191.96.38.83:443/free54/0x222_fxthailand_720p/chunklist.m3u8
-#EXTINF:-1,Thrill
-http://191.96.38.83:443/free54/0x222_thrill_720p/chunklist.m3u8
-#EXTINF:-1,Warner TV
-http://191.96.38.83:443/free54/0x777_warnertv_720p/chunklist.m3u8
-#EXTINF:-1,HBO HD
-http://191.96.38.83:443/free53/0x222_ais_hbohd_720p/chunklist.m3u8
-#EXTINF:-1,HBO TH
-http://191.96.38.83:443/free53/0x222_ais_hbohdth_720p/chunklist.m3u8
-#EXTINF:-1,HBO Signature
-http://191.96.38.83:443/free53/0x222_ais_hbosignature_720p/chunklist.m3u8
-#EXTINF:-1,HBO Family
-http://191.96.38.83:443/free53/0x222_ais_hbofam_720p/chunklist.m3u8
-#EXTINF:-1,HBO Hits
-http://191.96.38.83:443/free53/0x222_ais_hbohit_720p/chunklist.m3u8
-#EXTINF:-1,Cinemax
-http://191.96.38.83:443/free53/0x222_ais_cinemax_720p/chunklist.m3u8
-#EXTINF:-1,Red by HBO
-http://191.96.38.83:443/free53/0x222_ais_redbyhbo_720p/chunklist.m3u8
-#EXTINF:-1,Red by HBO TH
-http://191.96.38.83:443/free53/0x222_ais_redbyhboth_720p/chunklist.m3u8
-#EXTINF:-1,DOONEE
-http://191.96.38.83:443/free53/0x222_ais_doonee_720p/chunklist.m3u8
-
-
-#EXTINF:-1,Fashion TV HD
-http://191.96.38.83:443/free54/0x222_fashiontvsd_720p/chunklist.m3u8
-
-#EXTINF:-1,Samrojlok
-http://191.96.38.83:443/free41/0x777_samrujlok_720p/chunklist.m3u8
-#EXTINF:-1,MyScience
-http://191.96.38.83:443/free41/0x222_mysci_720p/chunklist.m3u8
-#EXTINF:-1,True Explore Wild
-http://191.96.38.83:443/free/00_exp1_480p/chunklist.m3u8
-#EXTINF:-1,True Explore Life
-http://191.96.38.83:443/free53/00_exp2_480p/chunklist.m3u8
-#EXTINF:-1,True Explore Sci
-http://191.96.38.83:443/free53/00_exp3_480p/chunklist.m3u8
-#EXTINF:-1,BBC Life Style
-http://191.96.38.83:443/free41/0x222_lifestylehd_720p/chunklist.m3u8
-#EXTINF:-1,Discovery Channel
-http://191.96.38.83:443/free41/00_dischannel_480p/chunklist.m3u8
-#EXTINF:-1,Discovery Science
-http://191.96.38.83:443/free41/0x777_dissci_720p/chunklist.m3u8
-#EXTINF:-1,Discovery HD World
-http://191.96.38.83:443/free41/0x777_discoveryworldhd_720p/chunklist.m3u8
-#EXTINF:-1,History Channel
-http://191.96.38.83:443/free41/0x777_historyhd_720p/chunklist.m3u8
-#EXTINF:-1,H2
-http://191.96.38.83:443/free41/0x777_h2hd_720p/chunklist.m3u8
-#EXTINF:-1,National Geographic HD
-http://191.96.38.83:443/free54/0x222_natgeographic_720p/chunklist.m3u8
-#EXTINF:-1,AIS National Geographic HD
-http://191.96.38.83:443/free53/0x222_ais_natgeographic_720p/chunklist.m3u8
-#EXTINF:-1,National Geographic WILD
-http://191.96.38.83:443/free54/0x222_natgeowild_720p/chunklist.m3u8
-#EXTINF:-1,National Geographic People
-http://191.96.38.83:443/free54/0x222_natgeopeople_720p/chunklist.m3u8
-#EXTINF:-1,Asian Food Channel
-http://191.96.38.83:443/free/00_homeandfood_480p/chunklist.m3u8
 
 
 
