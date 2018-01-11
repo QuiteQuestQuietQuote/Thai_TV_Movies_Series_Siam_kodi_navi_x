@@ -40,7 +40,7 @@ type=video
 name=
 thumb=
 date=
-URL=http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8
+URL=http://61.58.60.247:9000/live/176.m3u8
 player=default
 rating=-1.00
 
