@@ -26,7 +26,13 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
-
+type=playlist
+name=JAV_42_18up_Aoi_Tsukasa
+thumb=http://javsex.net/wp-content/uploads/2015/10/SNIS-496.jpg
+date=2018-01-11
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_42_18up_Aoi_Tsukasa.plx
+player=default
+rating=-1.00
 
 type=playlist
 name=JAV_41_18up_YAM
