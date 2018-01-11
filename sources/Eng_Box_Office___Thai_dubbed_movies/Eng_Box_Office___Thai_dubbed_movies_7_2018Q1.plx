@@ -24,7 +24,7 @@ rating=-1.00
 type=video
 name=
 thumb=https://4.bp.blogspot.com/-q3FCvo_BtWw/WdLY23tF_4I/AAAAAAAAAJE/PnQtW3AhDKcpITTVadnjDOyrsx5Vcb-nQCLcBGAs/s320/054.png
-URL=http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+URL=http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=IuYU9w6UbHYr7VgSbQWEaA&username=20533&password=mmmm82ccdbbaa0b7ca45314b&e=1515698783
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -34,38 +34,25 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-fON3PQ3epac/WdLY5DfEFmI/AAAAAAAAAJo/6vW7TQ_dVkIn26x9l9hx7kebzKg6AwS-ACLcBGAs/s320/063.png
-URL=http://103.77.116.193:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+URL=http://103.77.116.193:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=IuYU9w6UbHYr7VgSbQWEaA&username=20533&password=mmmm82ccdbbaa0b7ca45314b&e=1515698783
 
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-gfLftrQzfyk/WdLY10QqpTI/AAAAAAAAAIw/hrCHo3pNsgkuvkL-X2uSqoQQwvo-0ioYgCLcBGAs/s320/049.png
 date=2017-09-22
-URL=http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+URL=http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=IuYU9w6UbHYr7VgSbQWEaA&username=20533&password=mmmm82ccdbbaa0b7ca45314b&e=1515698783
 
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-dd5bWZ-tL-k/WdLY5f19XsI/AAAAAAAAAJs/xvG608PIzGsMCA39j6DxYRhvFf_Tkr4mACLcBGAs/s320/064.png
 date=2017-10-29
-URL=http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
-
-
+URL=http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=IuYU9w6UbHYr7VgSbQWEaA&username=20533&password=mmmm82ccdbbaa0b7ca45314b&e=1515698783
 
 type=video
 name=
-thumb=https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png
-date=
-URL=http://live.cgtn.com/cctv-d.m3u8
-
-
-
-
-
-
-type=video
-name=
-thumb=
+thumb=https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png
 date=2018-01-09
-URL=http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+URL=http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8?st=IuYU9w6UbHYr7VgSbQWEaA&username=20533&password=mmmm82ccdbbaa0b7ca45314b&e=1515698783
 
 
 
@@ -2586,21 +2573,22 @@ URL=https://uptobox.com/59t0nyy1grbb
 
 
 
-
-
 type=video
 name=
-thumb=
+thumb=https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png
 date=
-URL=http://113.177.63.140:4022/rtp/232.84.1.115:10236
+URL=http://live.cgtn.com/cctv-d.m3u8
+#http://113.177.63.140:4022/rtp/232.84.1.115:10236
 #http://183.88.212.205:8010/play/a02z
+
+
 
 # 2771674
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 date=2017-10-10
-URL=http://103.77.116.193:443/movie/hbo_th_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+URL=http://103.77.116.193:443/movie/hbo_th_720p.stream/chunklist.m3u8?st=IuYU9w6UbHYr7VgSbQWEaA&username=20533&password=mmmm82ccdbbaa0b7ca45314b&e=1515698783
 #http://27.254.154.154:1935/cinema/HBO.stream/playlist.m3u8
 player=default
 rating=-1.00
@@ -2608,13 +2596,13 @@ rating=-1.00
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://103.77.116.193:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+URL=http://103.77.116.193:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=IuYU9w6UbHYr7VgSbQWEaA&username=20533&password=mmmm82ccdbbaa0b7ca45314b&e=1515698783
 #http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD (TH)[/COLOR]
 thumb=https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png
-URL=http://103.77.116.193:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+URL=http://103.77.116.193:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?st=IuYU9w6UbHYr7VgSbQWEaA&username=20533&password=mmmm82ccdbbaa0b7ca45314b&e=1515698783
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE24[/COLOR]
@@ -2626,7 +2614,7 @@ URL=rtmp://tv01.thaizatv.com/drm/movie1
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______red_by_hbo[/COLOR]
 thumb=https://www.redbyhbo.com/images/redlogo-image.jpg
-URL=http://103.77.116.193:443/movie/red_by_hbo_720p.stream/chunklist.m3u8?st=7SRWSdgVkYmIbFo6u9pZ1Q&username=20533&password=mmmm57e5bd6fd7e40029f14c&e=1515616793
+URL=http://103.77.116.193:443/movie/red_by_hbo_720p.stream/chunklist.m3u8?st=IuYU9w6UbHYr7VgSbQWEaA&username=20533&password=mmmm82ccdbbaa0b7ca45314b&e=1515698783
 #http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=sid&password=id695464846498
 #http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
@@ -2755,18 +2743,7 @@ URL=https://openload.co/f/pY7IWR3c-Bg/Thor%3A_Ragnarok_%282017%29%E0%B8%A8%E0%B8
 #https://openload.co/f/1Px-WShSrHo/Thor.Ragnarok.2017.720p.TS.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 
 
-type=video
-name=Jigsaw (2017) ENG Web_DL_x264_AC3_TiTAN
-thumb=https://image.tmdb.org/t/p/w640/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
-date=2018-01-09
-URL=https://openload.co/f/cP4zBkVPXeU/Jigsaw_2017_1080p_Web_DL_x264_AC3_TiTAN.mkv.mp4
-#https://openload.co/f/Wn4MXIBxUyk/Jigsaw.2017.720p.TS.x264.AC3-%5BArenaBG%5D.mkv.mp4
-#https://openload.co/f/F3nZJ_umMbw/Jigsaw.2017.720p.CAM.ENG.X264-Feel.Free.mkv.mp4
-type=video
-name=Jigsaw (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w640/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
-date=2017-12-06
-URL=https://streamango.com/f/dedmrkdoeockpqkq/Jigsaw_2017_
+
 
 
 
@@ -3443,6 +3420,23 @@ URL=
 
 
 
+
+
+type=video
+name=Jigsaw (2017) ENG Web_DL_x264_AC3_TiTAN
+thumb=https://image.tmdb.org/t/p/w640/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
+date=2018-01-09
+URL=https://openload.co/f/cP4zBkVPXeU/Jigsaw_2017_1080p_Web_DL_x264_AC3_TiTAN.mkv.mp4
+#https://openload.co/f/Wn4MXIBxUyk/Jigsaw.2017.720p.TS.x264.AC3-%5BArenaBG%5D.mkv.mp4
+#https://openload.co/f/F3nZJ_umMbw/Jigsaw.2017.720p.CAM.ENG.X264-Feel.Free.mkv.mp4
+type=video
+name=Jigsaw (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
+date=2018-01-11
+URL=https://streamango.com/f/dmmfmrrolmnaakkn/Jigsaw_2017_
+#https://streamango.com/f/dedmrkdoeockpqkq/Jigsaw_2017_
+
+
 type=video
 name=24 Hours to Live (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/s6kwunWUi52EjNhep33sJ9uEnqX.jpg
@@ -3749,17 +3743,7 @@ rating=-1.00
 description=People everywhere were enjoying a new game called Ordinal Scale, an ARMMORPG developed exclusively for the Augma, a new wearable console designed for AR (augmented reality) gaming. But, the players had no idea that a nightmare from the virtual world was starting to spread into reality! As his fellow players find themselves in danger, the hero is called upon once again./description
 
 
-type=video
-name=What Happened to Monday (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/xfFoewesyuWRVh4qBbXbMhH6gm7.jpg
-date=2017-12-15
-URL=https://www.blazefile.co/embed-xn9z777ht3ew.html
-#https://openload.co/f/-k82xFsHb-I/What.Happened.to.Monday.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
-type=video
-name=What Happened to Monday (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/xfFoewesyuWRVh4qBbXbMhH6gm7.jpg
-date=2017-09-03
-URL=https://openload.co/f/QJKz4qKx5q8/What.Happened.to.Monday.2017.1080p.NF.WEB-DL.ThaiRong.5.1.x264_CpT%40CtHts.mkv.mp4
+
 
 
 
@@ -3827,6 +3811,22 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+
+
+
+
+type=video
+name=What Happened to Monday (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/xfFoewesyuWRVh4qBbXbMhH6gm7.jpg
+date=2017-12-15
+URL=https://www.blazefile.co/embed-xn9z777ht3ew.html
+#https://openload.co/f/-k82xFsHb-I/What.Happened.to.Monday.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+type=video
+name=What Happened to Monday (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/xfFoewesyuWRVh4qBbXbMhH6gm7.jpg
+date=2018-01-11
+URL=https://openload.co/f/9KTyW2GkyUY/What_Happened_to_Monday_%282017%297_%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99_7_%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+#https://openload.co/f/QJKz4qKx5q8/What.Happened.to.Monday.2017.1080p.NF.WEB-DL.ThaiRong.5.1.x264_CpT%40CtHts.mkv.mp4
 
 
 type=video
