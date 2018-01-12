@@ -79,10 +79,11 @@ date=2018-01-07
 URL=https://openload.co/f/Mgft960KH5Y/The.Shape.of.Water.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 
 type=video
-name=Molly's Game (2017) ENG CAM.ENG.x264-NoGRP
+name=Molly's Game (2017) ENG HDCAM.READNFO.x264-DiRG
 thumb=https://image.tmdb.org/t/p/w640/5YC8iVPxvRrz53FdfdejDgUUk2k.jpg
-date=2018-01-07
-URL=https://openload.co/f/P8Txe4VXgyc/Mollys.Game.2017.CAM.ENG.x264-NoGRP.MP4.mp4
+date=2018-01-12
+URL=https://openload.co/f/J9sWRgUuroU/Mollys.Game.2017.HDCAM.READNFO.x264-DiRG.mp4
+#https://openload.co/f/P8Txe4VXgyc/Mollys.Game.2017.CAM.ENG.x264-NoGRP.MP4.mp4
 
 type=video
 name=Father Figures (2017) ENG CAM.x264-NoGRP
@@ -178,10 +179,11 @@ URL=https://openload.co/f/Cm_IdheWOS0/The_Killing_of_a_Sacred_Deer.2017.1080p.WE
 #https://openload.co/f/OFtEBE4YtxQ/The_Killing_of_a_Sacred_Deer.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 
 type=video
-name=Darkest Hour (2017) ENG HC_TS_x264-ChiLove
+name=Darkest Hour (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
 thumb=https://image.tmdb.org/t/p/w640/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg
-date=2017-12-04
-URL=https://openload.co/f/c2aiOqF-6tg/Darkest_Hour_2017_HC_TS_x264-ChiLove.mp4
+date=2018-01-12
+URL=https://openload.co/f/e509QYay-QI/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/c2aiOqF-6tg/Darkest_Hour_2017_HC_TS_x264-ChiLove.mp4
 
 type=video
 name=Wonder (2017) ENG HDTS.X264-NoGRP
@@ -338,7 +340,11 @@ URL=https://www.rapidvideo.com/e/FMY9KG2J42
 
 
 
-
+type=video
+name=Acts of Violence (2018) ENG WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg
+date=2018-01-12
+URL=https://openload.co/f/OtVuIulR2_c/Acts.of.Violence.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
 name=Same Kind of Different as Me (2017) ENG WEB-DL.DD5.1.H264-FGT
@@ -346,11 +352,7 @@ thumb=https://image.tmdb.org/t/p/w640/cCTwHtXBVL96ImKDwm5T8pPNO41.jpg
 date=2018-01-05
 URL=https://openload.co/f/qItzmC2ilFI/Same.Kind.of.Different.as.Me.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
-type=video
-name=Goodbye Christopher Robin (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg
-date=2018-01-05
-URL=https://openload.co/f/MzkblHOg-Jk/Goodbye_Christopher_Robin.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=Wonderstruck (2017) ENG WEB-DL.H264.AC3-EVO
@@ -1235,12 +1237,20 @@ date=2017-12-27
 URL=
 
 
-type=video
-name=
-thumb=
-date=2018-01-06
-URL=
 
+
+type=video
+name=Professor Marston & the Wonder Women (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/tbrzHlnE8dNpllLWEe9bwDGNzLe.jpg
+date=2018-01-12
+URL=https://openload.co/f/wwLUiPaojEA/professor.marston.and.the.wonder.women.2017.1080p.bluray.x264-drones.mkv.mp4
+
+type=video
+name=Goodbye Christopher Robin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg
+date=2018-01-12
+URL=https://openload.co/f/cwaIiRR7Kf4/Goodbye.Christopher.Robin.2017.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/MzkblHOg-Jk/Goodbye_Christopher_Robin.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=Gangster Land (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2836,10 +2846,10 @@ URL=
 
 
 type=video
-name=
-thumb=
-date=2018-01-07
-URL=
+name=Win It All (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/aEc69JY0azD9PwYtwS2RFwoyFOT.jpg
+date=2018-01-12
+URL=https://streamango.com/f/oqfktteoetmmsrpo/Win_It_All_2017_
 
 
 type=video

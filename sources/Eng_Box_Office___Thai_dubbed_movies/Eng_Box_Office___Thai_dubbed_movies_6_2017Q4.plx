@@ -200,6 +200,11 @@ URL=https://openload.co/f/HJOlwF8RJ1Q/The_Glass_Castle_%282017%29%E0%B8%A7%E0%B8
 
 
 type=video
+name=Buena Vista Social Club: Adios (2017) [COLOR=FF00FF00]ENG DVD 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/fe6lCeuUD7q5m4Qm8U1r0l5AtsZ.jpg
+date=2018-01-12
+URL=https://openload.co/f/pglVdFwo-W8/buena.vista.social.club.adios.2017.limited.dvdrip.x264-cadaver.mkv.mp4
+type=video
 name=Buena Vista Social Club: Adios (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/fe6lCeuUD7q5m4Qm8U1r0l5AtsZ.jpg
 date=2017-12-25
