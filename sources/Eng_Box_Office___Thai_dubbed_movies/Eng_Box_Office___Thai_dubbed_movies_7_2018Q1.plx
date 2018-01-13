@@ -56,8 +56,20 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 
 
 
+type=video
+name=
+thumb=
+date=2018-01-13
+URL=
 
 
+
+
+type=video
+name=Freak Show (2018) ENG WEB-DL_SeeHD
+thumb=https://image.tmdb.org/t/p/w640/4pMMe9uxileJBH2nDNlSPpk5xFH.jpg
+date=2018-01-13
+URL=https://openload.co/f/_uOMojn37wg/Freak.Show.720p.WEB-DL_SeeHD.mkv.mp4
 
 type=video
 name=Thank You for Your Service (2017) ENG WEB-DL.H264.AC3-EVO
