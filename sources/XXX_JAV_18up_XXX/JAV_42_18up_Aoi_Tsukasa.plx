@@ -69,13 +69,13 @@ type=video
 name=Ssni-033 Drunk Girl Orgy Ntr My Beloved Wife Is Normally A Neat And Clean Lady, But When She Goes To A Drinking Party She Turns Into A Horny Bitch Who Wants To Ride Some Dude039s Cock Aoi Tsukasa 
 thumb=http://javsex.net/wp-content/uploads/2017/11/27747.jpg
 date=2018-01-11
-URL=http://stream.yamvideo.com/thz3675e/001/appid-24234.mp4
+URL=http://stream.yamvideo.com/thz3678e/001/appid-27747.mp4
 
 type=video
 name=Dv-1682 Newlywed Life Aoi Tsukasa That Do Not Have Is Only With Tsukasa 
 thumb=http://javsex.net/wp-content/uploads/2017/01/11959.jpg
 date=2018-01-11
-URL=http://stream.yamvideo.com/thz3675e/004/appid-10376.mp4
+URL=http://stream.yamvideo.com/thz3674e/007/appid-11959.mp4
 
 type=video
 name=Dv-1225 Tsukasa Aoi Ass Woman
@@ -93,57 +93,57 @@ type=video
 name=Snis-776 Night Aoi Tsukasa Is Disturbed Drunk Most In Life
 thumb=http://javsex.net/wp-content/uploads/2016/12/8831.jpg
 date=2018-01-11
-URL=http://stream.yamvideo.com/thz3674e/006/appid-19645.mp4
+URL=http://stream.yamvideo.com/thz3674e/005/appid-8831.mp4
 
 
 type=video
 name=Snis-874 Deca Ass Ol Commute Molester Is Forcibly Squid Be Alive Put Up In A Crowded Train Tsukasa Aoi
 thumb=http://javsex.net/wp-content/uploads/2017/06/24053.jpg
 date=2018-01-11
-URL=http://stream.yamvideo.com/thz3675e/001/appid-24261.mp4
+URL=http://stream.yamvideo.com/thz3675e/002/appid-24053.mp4
 
 type=video
 name=Snis-898 I Can Not Put Up Enough To Leak While Wearing Marginal Mass Pee Tsukasa Aoi
 thumb=http://javsex.net/wp-content/uploads/2017/05/23003.jpg
 date=2018-01-11
-URL=http://stream.yamvideo.com/thz3674e/006/appid-19421.mp4
+URL=http://stream.yamvideo.com/thz3678e/001/appid-23003.mp4
 
 type=video
 name=Snis 801 Harsh Kiss, Deep Throat, Deep Throating Best Kuchma This Maniacs Tsukasa Aoi
 thumb=http://javsex.net/wp-content/uploads/2017/05/22711.jpg
 date=2018-01-11
-URL=http://stream.yamvideo.com/thz3675e/001/appid-24249.mp4
+URL=http://stream.yamvideo.com/thz3675e/002/appid-22711.mp4
 
 type=video
 name=Snis-827 Quoti39ll Have Null Using The Butt Of Tsukasaquot Aoi Peach Mania Large Set Of Princes8 Shots In The Buttbig Off Meeting Rolled Disconnect Switch Port 
 thumb=http://javsex.net/wp-content/uploads/2017/04/21509.jpg
 date=2018-01-11
-URL=http://stream.yamvideo.com/thz3674e/006/appid-19808.mp4
+URL=http://stream.yamvideo.com/thz3678e/002/appid-21509.mp4
 
 type=video
 name=Snis-851 Wearing Condoms Have Hey World39s Most Thin Child Making Scrounge Dirty Middle-aged Father And Pregnancy Appeal Soggy Saddle Rolled Honeymoon Pretend Tsukasa Aoi 
 thumb=http://javsex.net/wp-content/uploads/2017/03/20239.jpg
 date=2018-01-11
-URL=http://stream.yamvideo.com/thz3675e/001/appid-24255.mp4
+URL=http://stream.yamvideo.com/thz3675e/003/appid-20239.mp4
 
 
 type=video
 name=Snis-694 Raw Milk For Virgin-kun, Raw Ass, Namama Co-confronted By Raw Side Dish Masturbation Service The Tsukasa Aoi Too Gentle A Virgin Chi Po Dream Sex39ll Be Down Brushnot A Raise
 thumb=http://javsex.net/wp-content/uploads/2017/01/13187.jpg
 date=2018-01-11
-URL=http://stream.yamvideo.com/thz3674e/006/appid-20214.mp4
+URL=http://stream.yamvideo.com/thz3675e/003/appid-19804.mp4
 
 type=video
 name=Dvaj-0041 Final Continuous Climax Acme Aoi Tsukasa
 thumb=http://javsex.net/wp-content/uploads/2017/01/12355.jpg
 date=2018-01-11
-URL=http://stream.yamvideo.com/thz3675e/001/appid-24241.mp4
+URL=http://stream.yamvideo.com/thz3674e/007/appid-12355.mp4
 
 type=video
 name=Dvaj-0035 View Innovation Thick Kaoi Special Four Hours 
 thumb=http://javsex.net/wp-content/uploads/2017/01/12033.jpg
 date=2018-01-11
-URL=http://stream.yamvideo.com/thz3674e/006/appid-20148.mp4
+URL=http://stream.yamvideo.com/thz3674e/007/appid-12033.mp4
 
 type=video
 name=Sspd-130 Attackers S1 Special Collaboration Planning You, Forgive 8230 Memories Lost 2 Tsukasa Aoi 
