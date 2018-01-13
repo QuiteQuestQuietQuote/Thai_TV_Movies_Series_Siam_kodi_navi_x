@@ -52,12 +52,266 @@ URL=
 
 
 
+type=video
+name=140xxxxxxxxxxxxxxxxxxxxForbidden Love (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Forbidden-Love-2013.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/ktlfabobftsansrk/
+
+type=video
+name=Juku-jo Tracker (2012)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Juku-jo-Tracker-2012.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/qeoeeremecfcedal/
+
+type=video
+name=Ikebukuro Yankee Senso (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Ikebukuro-Yankee-Senso-2010.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/lmmlsfsabeotrmfr/
+
+type=video
+name=Married Woman Cleaning Lady (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Married-Woman-Cleaning-Lady-2013.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/dqkksdqbaaafeqqs/
+
+type=video
+name=The Dark Room & Eros (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/The-Dark-Room-Eros-2017.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/oorbsockbbfecffq/
+
+
+type=video
+name=Young Mom (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Young-Mom-2017.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/onnpcrcabfckndrc/
+
+type=video
+name=Scandal II (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Scandal-II-2017.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/lmfpfqocbdscperq/
+
+type=video
+name=The Quilt & Eros (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/The-Quilt-Eros-2016.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/drnckbnfmpdbadmd/
+
+type=video
+name=My Wife’s Wild Fancy (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/My-Wifes-Wild-Fancy-2017.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/mkfrqmmpffdkkfbe/
+
+type=video
+name=Wanna Fuck with Sister-in-Law Who Looks Very Dirty 3 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Wanna-Fuck-with-Sister-in-Law-Who-Looks-Very-Dirty-3-2016.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/apckbtqfkalclsmk/
+
+
+type=video
+name=Time Stopping Extacy (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Time-Stopping-Extacy-2016.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/npftomedftrkkpat/
+
+type=video
+name=The Carnal Baraber Shop (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/The-Carnal-Baraber-Shop-2016.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/kopfffqronannedn/
+
+type=video
+name=Soaplandni Urareta Aidoru (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Soaplandni-Urareta-Aidoru-2016.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/lakfcqenfqpnpbdf/
+
+type=video
+name=Lewd & Suggestive Sister-in-Law (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Lewd-Suggestive-Sister-in-Law-2016.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/qdmmeqbaqfrmokdd/
+
+type=video
+name=Little Mom 2 – Uncle Girls (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Little-Mom-2-Uncle-Girls-2017.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/nctnobkccpnmbqqf/
+
+
+type=video
+name=Hot Spring Trip (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Hot-Spring-Trip-2017.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/mectfmomaafmrcfm/
+
+type=video
+name=An Affair Trip (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/An-Affair-Trip-2017.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/tofdtcakmrcamdpf/
+
+type=video
+name=Jituroku Chikandensya VI (2012)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Jituroku-Chikandensya-VI-2012.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/nsnomoqstonmorek/
+
+type=video
+name=Young Amke Married Woman (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Young-Amke-Married-Woman-2016.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/rpslsdoskdqneftn/
+
+type=video
+name=Wife Cheating Husband (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Wife-Cheating-Husband-2014.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/ksmpcrerrctfasmc/
+
+
+type=video
+name=Your First Love (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Your-First-Love-2015.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/tekqlmrddfqnqqko/
+
+type=video
+name=Adultery Statement (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Adultery-Statement-2015.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/ofamrfmpqldemqfr/
+
+type=video
+name=A Rousing Affair (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/A-Rousing-Affair-2016.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/ofaonrlkcdtoambk/
+
+type=video
+name=Girls Jail Cell Prison (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Girls-Jail-Cell-Prison-2015.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/fapnceqafrnrbbld/
 
 
 
 
 
 
+
+
+
+type=video
+name=116xxxxxxxxxxxxxxxxxxxxI Am Teaching You (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/I-Am-Teaching-You-2009.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/kpcmkctnkspbdcko/
+
+type=video
+name=Sales Lady Nikutai (2008)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Sales-Lady-Nikutai-2008.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/dcfnocrfektdeoof/
+
+type=video
+name=Miboujin Kagami Reiko (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Miboujin-Kagami-Reiko-2010.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/tndlqacalratspea/
+
+type=video
+name=Sweet Scandal Gekisya (1992)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Sweet-Scandal-Gekisya-1992.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/amckkqsbeabrqdnb/
+
+type=video
+name=Twenty Love (2011)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Twenty-Love-2011.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/alprlbtlecnlcdro/
+
+
+type=video
+name=F-Castle Summer (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/F-Castle-Summer-2010.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/qeslddtnsasrfefa/
+
+type=video
+name=Wanna Fuck with Sister-in-Law (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Wanna-Fuck-with-Sister-in-Law-2016.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/rnoaflsodfcsrkcc/
+
+type=video
+name=Authentic Account (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Authentic-Account-2015.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/oqpnbaqnacaskftp/
+
+type=video
+name=Gwaneum Yongmanguiyuhui (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Gwaneum-Yongmanguiyuhui-2013.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/abbcplckttortfbq/
+
+type=video
+name=Love Slate (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Love-Slate-2016.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/eknqmsbcpobomrpn/
+
+
+type=video
+name=Swimsuit Sexual Massage (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Swimsuit-Sexual-Massage-2016.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/qnlpropqnrbndelq/
+
+type=video
+name=Falling into Enemy (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Falling-into-Enemy-2014.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/spfsmpatqbspdbqb/
+
+type=video
+name=Raping Step Mother (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Raping-Step-Mother-2016.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/mlkkkkcabqanksts/
+
+type=video
+name=Sleeping Hands (2011) 
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Sleeping-Hands-2011.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/etpraeboanfpcnas/
+
+type=video
+name=Happy To See You Again (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Happy-To-See-You-Again-2009.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/eepoetbefadqkmbt/
+
+
+type=video
+name=Helper Skelter (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Helper-Skelter-2013.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/sbndfctaqpqepdrm/
+
+type=video
+name=Loaned wife (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Loaned-wife-2016.jpg
+date=2018-01-13
+URL=https://streamcherry.com/embed/seafddrmosenbcrl/
 
 
 
