@@ -2695,10 +2695,11 @@ URL=https://streamango.com/f/fpebdeokmteqplkc/Ferdinand_2017_HD_Ferdinand_2017_H
 
 
 type=video
-name=Star Wars: The Last Jedi (2017) ENG New_HDTC_SeeHD
+name=Star Wars: The Last Jedi (2017) ENG TC_SeeHD
 thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
-date=2018-01-05
-URL=https://openload.co/f/LXbAGpyZFGM/Star_Wars_The_Last_Jedi_720P_New_HDTC_SeeHD.mp4
+date=2018-01-13
+URL=https://openload.co/f/s42Q4dGOlIo/Star_Wars%3A_The_Last_Jedi_%282017%29.1080p.TC_SeeHD.mkv.mp4
+#https://openload.co/f/LXbAGpyZFGM/Star_Wars_The_Last_Jedi_720P_New_HDTC_SeeHD.mp4
 #https://openload.co/f/kyTP9W4q7gY/Star.Wars.The.Last.Jedi.2017.E-SUB.HC-TS-X264-MP3-Zit.mp4
 #https://openload.co/f/UsQnyhGkctY/Star_Wars_The_Last_Jedi_%282017%29.720p.CAM_NEW_SOURCES_XViD-26k_avi_mp4
 #https://openload.co/f/ZTakoaEg4C8/Star_Wars%3A_The_Last_Jedi_%282017%29.720p.hdcam_SeeHD.mkv.mp4
