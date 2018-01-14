@@ -24,7 +24,7 @@ rating=-1.00
 type=video
 name=
 thumb=https://4.bp.blogspot.com/-q3FCvo_BtWw/WdLY23tF_4I/AAAAAAAAAJE/PnQtW3AhDKcpITTVadnjDOyrsx5Vcb-nQCLcBGAs/s320/054.png
-URL=http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=CJxr0tQJExsSHRtneIeYZQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1515953786
+URL=http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=-TyZt3ViBHhhwbwfW4gX5A&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516019254
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -34,19 +34,19 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-fON3PQ3epac/WdLY5DfEFmI/AAAAAAAAAJo/6vW7TQ_dVkIn26x9l9hx7kebzKg6AwS-ACLcBGAs/s320/063.png
-URL=http://103.77.116.193:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=CJxr0tQJExsSHRtneIeYZQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1515953786
+URL=http://103.77.116.193:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=-TyZt3ViBHhhwbwfW4gX5A&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516019254
 
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-gfLftrQzfyk/WdLY10QqpTI/AAAAAAAAAIw/hrCHo3pNsgkuvkL-X2uSqoQQwvo-0ioYgCLcBGAs/s320/049.png
 date=2017-09-22
-URL=http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=CJxr0tQJExsSHRtneIeYZQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1515953786
+URL=http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=-TyZt3ViBHhhwbwfW4gX5A&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516019254
 
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-dd5bWZ-tL-k/WdLY5f19XsI/AAAAAAAAAJs/xvG608PIzGsMCA39j6DxYRhvFf_Tkr4mACLcBGAs/s320/064.png
 date=2017-10-29
-URL=http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=CJxr0tQJExsSHRtneIeYZQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1515953786
+URL=http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=-TyZt3ViBHhhwbwfW4gX5A&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516019254
 
 type=video
 name=
@@ -59,17 +59,23 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-01-13
+date=2018-01-14
 URL=
 
 
-
+type=video
+name=The Post (2017) ENG HDCAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w640/5765ORvdKVX5bWmhEjjiOqLk3TH.jpg
+date=2018-01-14
+URL=https://openload.co/f/_PnkG7ex6Ek/The_Post.HDCAM_SeeHD.mp4
+#https://openload.co/f/l55OhzL6WjA/The_Post_2017_ENG_HDCAM-X264-Zi%24t.mkv.mp4
 
 type=video
-name=Freak Show (2018) ENG WEB-DL_SeeHD
+name=Freak Show (2018) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/4pMMe9uxileJBH2nDNlSPpk5xFH.jpg
-date=2018-01-13
-URL=https://openload.co/f/_uOMojn37wg/Freak.Show.720p.WEB-DL_SeeHD.mkv.mp4
+date=2018-01-14
+URL=https://openload.co/f/vzm-Re6H8Vg/Freak_Show.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/_uOMojn37wg/Freak.Show.720p.WEB-DL_SeeHD.mkv.mp4
 
 type=video
 name=Thank You for Your Service (2017) ENG WEB-DL.H264.AC3-EVO
@@ -77,12 +83,7 @@ thumb=https://image.tmdb.org/t/p/w640/z8OKWw6DAZAOyz8F421euawr3Hs.jpg
 date=2018-01-09
 URL=https://openload.co/f/3yQZKgINX2s/Thank_You_for_Your_Service.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
-type=video
-name=Insidious: The Last Key (2018) ENG NEW_HDCAM_X264_HQ-CPG
-thumb=https://image.tmdb.org/t/p/w640/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg
-date=2018-01-09
-URL=https://openload.co/f/Gi9eyQs7AIA/Insidious_The_Last_Key_2018_NEW_HDCAM_X264_HQ-CPG.mkv.mp4
-#https://openload.co/f/TBxLV3VCkmU/Insidious_The_Last_Key_2017_CAM_ENG_X264_HQMic-DADDY.mkv.mp4
+
 
 type=video
 name=The Shape of Water (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
@@ -917,10 +918,11 @@ URL=https://openload.co/f/JZe9TCIgTEI/Sleepwalker_2017_HDRip_XviD_AC3-EVO.mp4
 
 
 type=video
-name=Cold Moon (2016) ENG WEB-DL.XviD.AC3-FGT
+name=Cold Moon (2016) ENG dvdrip.x264-bipolar
 thumb=https://image.tmdb.org/t/p/w640/lvSa2tlvXCUvk4dtKk0oK6lgmrt.jpg
-date=2017-10-06
-URL=https://openload.co/f/szCmH5CISp4/Cold.Moon.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
+date=2018-01-14
+URL=https://openload.co/f/n9sQr0vfSj4/cold.moon.2016.dvdrip.x264-bipolar.mkv.mp4
+#https://openload.co/f/szCmH5CISp4/Cold.Moon.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=Paint It Black (2016) ENG WEB-DL.DD5.1.H264-FGT
@@ -2551,6 +2553,7 @@ name=Hampstead (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/sweENd2Vc0mQcKfkEzEbaLYbdZr.jpg
 date=2017-12-18
 URL=https://www.blazefile.co/embed-5ac6e5s696ay.html
+https://openload.co/f/7AoaKwTA3sI/Hampstead.2017.1080p.BluRay.x264-BLOW.mkv.mp4
 #https://openload.co/f/LR3LfJ--HP4/Hampstead.2017.720p.BluRay.x264.DTS-FGT.mkv.mp4
 #https://openload.co/f/cnJeexUMpD8/hampstead.2017.dvdrip.x264-cadaver.mkv
 #https://openload.co/f/xJczR6t1uPw/Hampstead.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
@@ -2610,7 +2613,7 @@ type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 date=2017-10-10
-URL=http://103.77.116.193:443/movie/hbo_th_720p.stream/chunklist.m3u8?st=CJxr0tQJExsSHRtneIeYZQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1515953786
+URL=http://103.77.116.193:443/movie/hbo_th_720p.stream/chunklist.m3u8?st=-TyZt3ViBHhhwbwfW4gX5A&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516019254
 #http://27.254.154.154:1935/cinema/HBO.stream/playlist.m3u8
 player=default
 rating=-1.00
@@ -2618,13 +2621,13 @@ rating=-1.00
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://103.77.116.193:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=CJxr0tQJExsSHRtneIeYZQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1515953786
+URL=http://103.77.116.193:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=-TyZt3ViBHhhwbwfW4gX5A&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516019254
 #http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD (TH)[/COLOR]
 thumb=https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png
-URL=http://103.77.116.193:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?st=CJxr0tQJExsSHRtneIeYZQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1515953786
+URL=http://103.77.116.193:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?st=-TyZt3ViBHhhwbwfW4gX5A&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516019254
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE24[/COLOR]
@@ -2636,7 +2639,7 @@ URL=rtmp://tv01.thaizatv.com/drm/movie1
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______red_by_hbo[/COLOR]
 thumb=https://www.redbyhbo.com/images/redlogo-image.jpg
-URL=http://103.77.116.193:443/movie/red_by_hbo_720p.stream/chunklist.m3u8?st=CJxr0tQJExsSHRtneIeYZQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1515953786
+URL=http://103.77.116.193:443/movie/red_by_hbo_720p.stream/chunklist.m3u8?st=-TyZt3ViBHhhwbwfW4gX5A&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516019254
 #http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=sid&password=id695464846498
 #http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
@@ -2670,12 +2673,25 @@ URL=http://203.162.235.41:17819
 
 
 
+type=video
+name=Insidious: The Last Key (2018) ENG NEW_HDCAM_X264_HQ-CPG
+thumb=https://image.tmdb.org/t/p/w640/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg
+date=2018-01-14
+URL=https://openload.co/f/Gi9eyQs7AIA/Insidious_The_Last_Key_2018_NEW_HDCAM_X264_HQ-CPG.mkv.mp4
+#https://openload.co/f/TBxLV3VCkmU/Insidious_The_Last_Key_2017_CAM_ENG_X264_HQMic-DADDY.mkv.mp4
+type=video
+name=Insidious: The Last Key (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w640/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg
+date=2018-01-14
+URL=https://streamango.com/f/qdbemflbepkodbkb/Insidious_The_Last_Key_2018_
+
 
 type=video
-name=Jumanji: Welcome to the Jungle (2017) ENG TS.NEW.AUDIO.XViD-BL4CKP34RL
+name=Jumanji: Welcome to the Jungle (2017) ENG HD-TS_X264_HQ-CPG
 thumb=https://image.tmdb.org/t/p/w640/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
-date=2018-01-10
-URL=https://openload.co/f/q-pag-xqFBc/Jumanji.Welcome.to.the.Jungle.2017.720p.TS.NEW.AUDIO.XViD-BL4CKP34RL.mp4
+date=2018-01-14
+URL=https://openload.co/f/niifvdoAp7g/Jumanji_Welcome_To_The_Jungle_2017_NEW_720p_HD-TS_X264_HQ-CPG.mkv.mp4
+#https://openload.co/f/q-pag-xqFBc/Jumanji.Welcome.to.the.Jungle.2017.720p.TS.NEW.AUDIO.XViD-BL4CKP34RL.mp4
 #https://openload.co/f/GVnelBicD4M/Jumanji_2017_720p_NEW_HDTS_x264_AC3_TiTAN.mkv.mp4
 #https://openload.co/f/wIXuqwJxJd8/Jumanji_Welcome_To_The_Jungle_2017_NEW_720p_HD-TS_X264_HQ-CPG.mkv.mp4
 #https://openload.co/f/47uz-2dsxwI/Jumanji_Welcome_to_the_Jungle_.2017.TS.READNFO.XViD-BL4CKP34RL.avi.mp4
