@@ -24,7 +24,7 @@ rating=-1.00
 type=video
 name=
 thumb=https://4.bp.blogspot.com/-q3FCvo_BtWw/WdLY23tF_4I/AAAAAAAAAJE/PnQtW3AhDKcpITTVadnjDOyrsx5Vcb-nQCLcBGAs/s320/054.png
-URL=http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=-TyZt3ViBHhhwbwfW4gX5A&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516019254
+URL=http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=4QQGuyAOUG9GKI4Jhk33TQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516103972
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -34,19 +34,19 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-fON3PQ3epac/WdLY5DfEFmI/AAAAAAAAAJo/6vW7TQ_dVkIn26x9l9hx7kebzKg6AwS-ACLcBGAs/s320/063.png
-URL=http://103.77.116.193:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=-TyZt3ViBHhhwbwfW4gX5A&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516019254
+URL=http://103.77.116.193:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=4QQGuyAOUG9GKI4Jhk33TQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516103972
 
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-gfLftrQzfyk/WdLY10QqpTI/AAAAAAAAAIw/hrCHo3pNsgkuvkL-X2uSqoQQwvo-0ioYgCLcBGAs/s320/049.png
 date=2017-09-22
-URL=http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=-TyZt3ViBHhhwbwfW4gX5A&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516019254
+URL=http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=4QQGuyAOUG9GKI4Jhk33TQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516103972
 
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-dd5bWZ-tL-k/WdLY5f19XsI/AAAAAAAAAJs/xvG608PIzGsMCA39j6DxYRhvFf_Tkr4mACLcBGAs/s320/064.png
 date=2017-10-29
-URL=http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=-TyZt3ViBHhhwbwfW4gX5A&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516019254
+URL=http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=4QQGuyAOUG9GKI4Jhk33TQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516103972
 
 type=video
 name=
@@ -71,10 +71,11 @@ URL=https://openload.co/f/_PnkG7ex6Ek/The_Post.HDCAM_SeeHD.mp4
 #https://openload.co/f/l55OhzL6WjA/The_Post_2017_ENG_HDCAM-X264-Zi%24t.mkv.mp4
 
 type=video
-name=Freak Show (2018) ENG HDRip.XviD.AC3-EVO
+name=Freak Show (2018) ENG WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/4pMMe9uxileJBH2nDNlSPpk5xFH.jpg
-date=2018-01-14
-URL=https://openload.co/f/vzm-Re6H8Vg/Freak_Show.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2018-01-15
+URL=https://openload.co/f/Jbn08wdDUIg/Freak.Show.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/vzm-Re6H8Vg/Freak_Show.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/_uOMojn37wg/Freak.Show.720p.WEB-DL_SeeHD.mkv.mp4
 
 type=video
@@ -194,8 +195,9 @@ URL=https://openload.co/f/Cm_IdheWOS0/The_Killing_of_a_Sacred_Deer.2017.1080p.WE
 type=video
 name=Darkest Hour (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
 thumb=https://image.tmdb.org/t/p/w640/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg
-date=2018-01-12
-URL=https://openload.co/f/e509QYay-QI/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+date=2018-01-15
+URL=https://openload.co/f/MSD8G8qEISo/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/e509QYay-QI/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/c2aiOqF-6tg/Darkest_Hour_2017_HC_TS_x264-ChiLove.mp4
 
 type=video
@@ -2514,12 +2516,7 @@ date=2017-11-03
 URL=https://www.blazefile.co/embed-vi4gyzpwddsa.html
 #https://openload.co/f/V0Cu1cntywo/Love.of.My.Life.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Good Time (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/cz0egudCsfsTzwUAL03A5UzoHGT.jpg
-date=2017-11-04
-URL=https://www.blazefile.co/embed-osuorfqwbp5p.html
-#https://openload.co/f/5gWZy3ErcPw/Good.Time.2017.720p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
+
 
 type=video
 name=The Good Catholic (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -2613,7 +2610,7 @@ type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 date=2017-10-10
-URL=http://103.77.116.193:443/movie/hbo_th_720p.stream/chunklist.m3u8?st=-TyZt3ViBHhhwbwfW4gX5A&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516019254
+URL=http://103.77.116.193:443/movie/hbo_th_720p.stream/chunklist.m3u8?st=4QQGuyAOUG9GKI4Jhk33TQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516103972
 #http://27.254.154.154:1935/cinema/HBO.stream/playlist.m3u8
 player=default
 rating=-1.00
@@ -2621,13 +2618,13 @@ rating=-1.00
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://103.77.116.193:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=-TyZt3ViBHhhwbwfW4gX5A&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516019254
+URL=http://103.77.116.193:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=4QQGuyAOUG9GKI4Jhk33TQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516103972
 #http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD (TH)[/COLOR]
 thumb=https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png
-URL=http://103.77.116.193:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?st=-TyZt3ViBHhhwbwfW4gX5A&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516019254
+URL=http://103.77.116.193:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?st=4QQGuyAOUG9GKI4Jhk33TQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516103972
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE24[/COLOR]
@@ -2639,7 +2636,7 @@ URL=rtmp://tv01.thaizatv.com/drm/movie1
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______red_by_hbo[/COLOR]
 thumb=https://www.redbyhbo.com/images/redlogo-image.jpg
-URL=http://103.77.116.193:443/movie/red_by_hbo_720p.stream/chunklist.m3u8?st=-TyZt3ViBHhhwbwfW4gX5A&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516019254
+URL=http://103.77.116.193:443/movie/red_by_hbo_720p.stream/chunklist.m3u8?st=4QQGuyAOUG9GKI4Jhk33TQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516103972
 #http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=sid&password=id695464846498
 #http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
@@ -2682,8 +2679,9 @@ URL=https://openload.co/f/Gi9eyQs7AIA/Insidious_The_Last_Key_2018_NEW_HDCAM_X264
 type=video
 name=Insidious: The Last Key (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w640/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg
-date=2018-01-14
-URL=https://streamango.com/f/qdbemflbepkodbkb/Insidious_The_Last_Key_2018_
+date=2018-01-15
+URL=https://streamango.com/f/balkfoftmmbtdnsn/Insidious_The_Last_Key_2018_
+#https://streamango.com/f/qdbemflbepkodbkb/Insidious_The_Last_Key_2018_
 
 
 type=video
@@ -2869,17 +2867,35 @@ URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8
 type=video
 name=
 thumb=
-date=2017-10-02
+date=2018-01-15
 URL=
 
 
+
+type=video
+name=Good Time (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/cz0egudCsfsTzwUAL03A5UzoHGT.jpg
+date=2017-11-04
+URL=https://www.blazefile.co/embed-osuorfqwbp5p.html
+#https://openload.co/f/5gWZy3ErcPw/Good.Time.2017.720p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
+type=video
+name=Good Time (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/cz0egudCsfsTzwUAL03A5UzoHGT.jpg
+date=2018-01-15
+URL=https://streamango.com/f/frdkstbtlcenscrm/Good_Time_2017_
+
+
+type=video
+name=The Polka King (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w640/l6n71RjczWQ74oceGKkOW88k8B9.jpg
+date=2018-01-15
+URL=https://streamango.com/f/tlncmpdnadftfspl/The_Polka_King_2018_
 
 type=video
 name=Win It All (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w640/aEc69JY0azD9PwYtwS2RFwoyFOT.jpg
 date=2018-01-12
 URL=https://streamango.com/f/oqfktteoetmmsrpo/Win_It_All_2017_
-
 
 type=video
 name=L'Ascension (2017) THSUB
@@ -3843,7 +3859,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-01-06
+date=2018-01-15
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
@@ -3851,7 +3867,11 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
-
+type=video
+name=Viral (2016) TH
+thumb=https://image.tmdb.org/t/p/w640/7Pk0Plmw3ySEqxhQPaKdxtbfU9F.jpg
+date=2018-01-15
+URL=https://openload.co/f/tWRCvlpBNEY/Viral_%282016%29%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%99%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 
 
 type=video
@@ -3863,8 +3883,9 @@ URL=https://www.blazefile.co/embed-xn9z777ht3ew.html
 type=video
 name=What Happened to Monday (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/xfFoewesyuWRVh4qBbXbMhH6gm7.jpg
-date=2018-01-11
-URL=https://openload.co/f/9KTyW2GkyUY/What_Happened_to_Monday_%282017%297_%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99_7_%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+date=2018-01-15
+URL=https://openload.co/f/mvOYvpDSeXM/What_Happened_to_Monday_%282017%297_%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99_7_%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+#https://openload.co/f/9KTyW2GkyUY/What_Happened_to_Monday_%282017%297_%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99_7_%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
 #https://openload.co/f/QJKz4qKx5q8/What.Happened.to.Monday.2017.1080p.NF.WEB-DL.ThaiRong.5.1.x264_CpT%40CtHts.mkv.mp4
 
 

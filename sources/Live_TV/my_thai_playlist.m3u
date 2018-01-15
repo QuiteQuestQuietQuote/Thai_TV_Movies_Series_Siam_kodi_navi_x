@@ -1959,9 +1959,9 @@ http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/chunklist.m
 
 
 
-#EXTINF:-1,MONEY CHANNEL
+#EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL
 https://moneychannel-xmvplu.cdn.byteark.com/hls/premiumtest/index.m3u8
-#EXTINF:-1,CNBC
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC
 http://203.162.235.41:17819
 
 
