@@ -1176,93 +1176,93 @@ type=video
 name=15xxxxxxxxxxxxxxxxxxxxCaribpr-100116-005 – Kokone Mizutani
 thumb=http://javsex.net/wp-content/uploads/2016/10/6386.jpg
 date=2017-10-16
-URL=http://s001.yamvideo.com/3678-stream/vip-720/03756ccb938821d4cc6b9e7c672d6ea2.mp4
+URL=http://stream.yamvideo.com/thz3678e/003/appid-6386.mp4
 
 type=video
 name=Paco-092416-171 – Yuri Arimura
 thumb=http://javsex.net/wp-content/uploads/2016/10/6376.jpg
 date=2017-10-16
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/86dedf4b944086214c2424540a643965.mp4
+URL=http://stream.yamvideo.com/thz3675e/006/appid-6376.mp4
 
 type=video
 name=Carib-092416-266 Rina Misuzu
 thumb=http://javsex.net/wp-content/uploads/2016/10/6377.jpg
 date=2017-10-16
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/88ec2d1197ff1eac4bc9826999285837.mp4
+URL=http://stream.yamvideo.com/thz3675e/006/appid-6377.mp4
 
 type=video
 name=Carib-092816-269 – Noriko Igarashi
 thumb=http://javsex.net/wp-content/uploads/2016/10/6367.jpg
 date=2017-10-16
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/8c3a01f6255ccf1cb385c6e1cef14b98.mp4
+URL=http://stream.yamvideo.com/thz3675e/006/appid-6367.mp4
 
 type=video
 name=Carib-092516-267 – Ameri Koshikawa
 thumb=http://javsex.net/wp-content/uploads/2016/10/6379.jpg
 date=2017-10-16
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/796b2b94bfef6dcc9e0e3b9a750063ff.mp4
+URL=http://stream.yamvideo.com/thz3675e/006/appid-6379.mp4
 
 
 type=video
 name=Carib-093016-271 Moe Osaki
 thumb=http://javsex.net/wp-content/uploads/2016/10/6368.jpg
 date=2017-10-16
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/5e06dda6b6ee6bd7b17dfd9f4d4c5110.mp4
+URL=http://stream.yamvideo.com/thz3675e/006/appid-6368.mp4
 
 type=video
 name=Paco-092716-172 – Jumori Kasumi
 thumb=http://javsex.net/wp-content/uploads/2016/10/6380.jpg
 date=2017-10-16
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/001/bf6f115c8b6b61953df0d5f906578795.mp4
+URL=http://stream.yamvideo.com/thz3675e/006/appid-6380.mp4
 
 type=video
 name=Heyzo-1280 – Sex With My Dirty Neighbor
 thumb=http://javsex.net/wp-content/uploads/2016/10/6369.jpg
 date=2017-10-16
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/d181fcfcbfaa3f19e238f3b90662e99e.mp4
+URL=http://stream.yamvideo.com/thz3675e/006/appid-6369.mp4
 
 type=video
 name=Carib-092716-268 – Harua Narimiya
 thumb=http://javsex.net/wp-content/uploads/2016/10/6381.jpg
 date=2017-10-16
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/a6ef366a67fe1736a7edbd7d49ea0e69.mp4
+URL=http://stream.yamvideo.com/thz3675e/006/appid-6381.mp4
 
 type=video
 name=Heyzo-1281 – Hitotsumami. Busty Milf Gets Dirty
 thumb=http://javsex.net/wp-content/uploads/2016/10/6370.jpg
 date=2017-10-16
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/a04f55fc4c1b74acc5d69dbe0eed6211.mp4
+URL=http://stream.yamvideo.com/thz3675e/006/appid-6370.mp4
 
 
 type=video
 name=Paco-092916-173 – Noah Yonekura
 thumb=http://javsex.net/wp-content/uploads/2016/10/6360.jpg
 date=2017-10-16
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/589a1b26dded60b85abe53af83d306be.mp4
+URL=http://stream.yamvideo.com/thz3675e/006/appid-6360.mp4
 
 type=video
 name=Carib-092916-270 – Megu Memezawa For Manko Lovers
 thumb=http://javsex.net/wp-content/uploads/2016/10/6361.jpg
 date=2017-10-16
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/b5cee97cd2f92e02fa374edf9de8a857.mp4
+URL=http://stream.yamvideo.com/thz3675e/006/appid-6361.mp4
 
 type=video
 name=Paco-093016-174 – Yuko Yoshikawa
 thumb=http://javsex.net/wp-content/uploads/2016/10/6362.jpg
 date=2017-10-16
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/58ca77df8667ec7cc6628ca51786af8d.mp4
+URL=http://stream.yamvideo.com/thz3675e/006/appid-6362.mp4
 
 type=video
 name=Paco-100116-175 – Anri Shimamura
 thumb=http://javsex.net/wp-content/uploads/2016/10/6364.jpg
 date=2017-10-16
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/f92a1c387209ca02eb48840aae1d1bf8.mp4
+URL=http://stream.yamvideo.com/thz3675e/006/appid-6364.mp4
 
 type=video
 name=10mu-093016-01 – Ayumi Ono
 thumb=http://javsex.net/wp-content/uploads/2016/10/6365.jpg
 date=2017-10-16
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/0e90b7248dc4b3b660085c15e2143ae0.mp4
+URL=http://stream.yamvideo.com/thz3675e/006/appid-6365.mp4
 
 
 

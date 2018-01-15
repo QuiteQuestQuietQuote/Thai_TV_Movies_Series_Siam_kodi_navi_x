@@ -224,25 +224,25 @@ type=video
 name=Dvaj-165 I Met With Union In 4 Seconds Sensitive Daughter 20 People Had Been Mamanarazu Intense Iki Is Also Possible To Answer The Questions Are Immediately Saddle Immediately Piston Than In The Interview Series 
 thumb=http://javsex.net/wp-content/uploads/2016/11/7865.jpg
 date=2018-01-11
-URL=http://stream.yamvideo.com/thz3674e/006/appid-20301.mp4
+URL=http://stream.yamvideo.com/thz3674e/004/appid-7865.mp4
 
 type=video
 name=Snis714 Completely Fixed By To Say Until The Breaking Jerky Is Tsukasa Aoi Waist Not Get Hamstrung Not Stop To Say Infinite Piston Sex 
 thumb=http://javsex.net/wp-content/uploads/2016/11/7758.jpg
 date=2018-01-11
-URL=http://stream.yamvideo.com/thz3675e/001/appid-24298.mp4
+URL=http://stream.yamvideo.com/thz3674e/004/appid-7758.mp4
 
 type=video
 name=Snis-733 1 Month Sex Also Masturbation Is 
 thumb=http://javsex.net/wp-content/uploads/2016/10/7297.jpg
 date=2018-01-11
-URL=http://stream.yamvideo.com/thz3675e/001/appid-24320.mp4
+URL=http://stream.yamvideo.com/thz3674e/004/appid-7297.mp4
 
 type=video
 name=Dvaj-174 7 Horny Daughter-in-law And Every Night 
 thumb=http://javsex.net/wp-content/uploads/2016/10/6918.jpg
 date=2018-01-11
-URL=http://stream.yamvideo.com/thz3674e/006/appid-20137.mp4
+URL=http://stream.yamvideo.com/thz3674e/004/appid-6918.mp4
 
 type=video
 name=SNIS-625 Pee Ban Incontinence And Large Flood Special Tsukasa Aoi 
@@ -255,13 +255,13 @@ type=video
 name=DVAJ-0033 Sister Aoi And Prowl In Underwear Tsukasa
 thumb=http://javsex.net/wp-content/uploads/2016/04/5138.jpg
 date=2018-01-11
-URL=http://stream.yamvideo.com/thz3674e/006/appid-20302.mp4
+URL=http://stream.yamvideo.com/thz3674e/004/appid-5138.mp4
 
 type=video
 name=SNIS-573 Esuwan Seven Sisters And Cohabitation Harem Of Active
 thumb=http://javsex.net/wp-content/uploads/2016/04/5130.jpg
 date=2018-01-11
-URL=http://stream.yamvideo.com/thz3675e/001/appid-24253.mp4
+URL=http://stream.yamvideo.com/thz3675e/003/appid-20143.mp4
 
 type=video
 name=DV-1649 Female Doctor Gangbang Rape Aoi Tsukasa
