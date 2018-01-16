@@ -24,7 +24,7 @@ rating=-1.00
 type=video
 name=
 thumb=https://4.bp.blogspot.com/-q3FCvo_BtWw/WdLY23tF_4I/AAAAAAAAAJE/PnQtW3AhDKcpITTVadnjDOyrsx5Vcb-nQCLcBGAs/s320/054.png
-URL=http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=4QQGuyAOUG9GKI4Jhk33TQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516103972
+URL=http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=rGtluOA8_IePIPNdaBBxBQ&username=20533&password=mmmm9d97f2867b84b0fea88c&e=1516134316
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -34,19 +34,19 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-fON3PQ3epac/WdLY5DfEFmI/AAAAAAAAAJo/6vW7TQ_dVkIn26x9l9hx7kebzKg6AwS-ACLcBGAs/s320/063.png
-URL=http://103.77.116.193:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=4QQGuyAOUG9GKI4Jhk33TQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516103972
+URL=http://103.77.116.193:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=rGtluOA8_IePIPNdaBBxBQ&username=20533&password=mmmm9d97f2867b84b0fea88c&e=1516134316
 
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-gfLftrQzfyk/WdLY10QqpTI/AAAAAAAAAIw/hrCHo3pNsgkuvkL-X2uSqoQQwvo-0ioYgCLcBGAs/s320/049.png
 date=2017-09-22
-URL=http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=4QQGuyAOUG9GKI4Jhk33TQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516103972
+URL=http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=rGtluOA8_IePIPNdaBBxBQ&username=20533&password=mmmm9d97f2867b84b0fea88c&e=1516134316
 
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-dd5bWZ-tL-k/WdLY5f19XsI/AAAAAAAAAJs/xvG608PIzGsMCA39j6DxYRhvFf_Tkr4mACLcBGAs/s320/064.png
 date=2017-10-29
-URL=http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=4QQGuyAOUG9GKI4Jhk33TQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516103972
+URL=http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=rGtluOA8_IePIPNdaBBxBQ&username=20533&password=mmmm9d97f2867b84b0fea88c&e=1516134316
 
 type=video
 name=
@@ -78,11 +78,7 @@ URL=https://openload.co/f/Jbn08wdDUIg/Freak.Show.2017.1080p.WEB-DL.DD5.1.H264-FG
 #https://openload.co/f/vzm-Re6H8Vg/Freak_Show.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/_uOMojn37wg/Freak.Show.720p.WEB-DL_SeeHD.mkv.mp4
 
-type=video
-name=Thank You for Your Service (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/z8OKWw6DAZAOyz8F421euawr3Hs.jpg
-date=2018-01-09
-URL=https://openload.co/f/3yQZKgINX2s/Thank_You_for_Your_Service.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 
 
@@ -93,10 +89,11 @@ date=2018-01-07
 URL=https://openload.co/f/Mgft960KH5Y/The.Shape.of.Water.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 
 type=video
-name=Molly's Game (2017) ENG HDCAM.READNFO.x264-DiRG
+name=Molly's Game (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
 thumb=https://image.tmdb.org/t/p/w640/5YC8iVPxvRrz53FdfdejDgUUk2k.jpg
-date=2018-01-12
-URL=https://openload.co/f/J9sWRgUuroU/Mollys.Game.2017.HDCAM.READNFO.x264-DiRG.mp4
+date=2018-01-16
+URL=https://openload.co/f/bDzBWi4g5EQ/Mollys_Game-DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/J9sWRgUuroU/Mollys.Game.2017.HDCAM.READNFO.x264-DiRG.mp4
 #https://openload.co/f/P8Txe4VXgyc/Mollys.Game.2017.CAM.ENG.x264-NoGRP.MP4.mp4
 
 type=video
@@ -178,10 +175,11 @@ date=2017-12-19
 URL=https://openload.co/f/VXxQVaOTzoI/Just.Getting.Started.2017.CAM.READNFO.XViD-26k.avi.mp4
 
 type=video
-name=Last Flag Flying (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
+name=Last Flag Flying (2017) ENG WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/pizynKUzJ9YucGff1O1MYisY1WM.jpg
-date=2017-12-24
-URL=https://openload.co/f/214Cc5XT_sI/Last.Flag.Flying.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+date=2018-01-16
+URL=https://openload.co/f/LsXoADU19uM/Last.Flag.Flying.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/214Cc5XT_sI/Last.Flag.Flying.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 
 
 
@@ -1249,11 +1247,18 @@ URL=https://www.blazefile.co/embed-h25coos10uwx.html
 type=video
 name=
 thumb=
-date=2017-12-27
+date=2018-01-16
 URL=
 
 
 
+
+
+type=video
+name=The Man from Earth: Holocene (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/2NAFA7ZyQqp2UDOddeoMPhravIQ.jpg
+date=2018-01-16
+URL=https://openload.co/f/HIyHcgzn51Q/The.Man.from.Earth.Holocene.2017.1080p.BluRay.x264-UNiVEARTH.mkv.mp4
 
 type=video
 name=Professor Marston & the Wonder Women (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2588,7 +2593,24 @@ URL=https://uptobox.com/59t0nyy1grbb
 #https://openload.co/f/RtjAPjl12-M/Marshall.2017.Movies.HD.TS.x264.Clean.Audio.AAC.New.Source.rDX.mkv.mp4
 #https://openload.co/f/8UKPBGPLaDk/Marshall.2017.CAM.READNFO.XViD-26k.avi.mp4
 
+type=video
+name=Thank You for Your Service (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/z8OKWw6DAZAOyz8F421euawr3Hs.jpg
+date=2018-01-16
+URL=https://uptobox.com/qzke8aony0xt
+#https://openload.co/f/3yQZKgINX2s/Thank_You_for_Your_Service.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
+type=video
+name=The Pirates of Somalia (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/a8dlDPwo9mnorurL6ukIpyHZZd7.jpg
+date=2018-01-16
+URL=https://uptobox.com/h58wwdbcvmyc
+
+type=video
+name=Trainspotting (1996) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/p1O3eFsdb0GEIYu87xlwV7P4jM1.jpg
+date=2018-01-16
+URL=https://uptobox.com/ylvoza81xx2r
 
 
 
@@ -2610,7 +2632,7 @@ type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 date=2017-10-10
-URL=http://103.77.116.193:443/movie/hbo_th_720p.stream/chunklist.m3u8?st=4QQGuyAOUG9GKI4Jhk33TQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516103972
+URL=http://103.77.116.193:443/movie/hbo_th_720p.stream/chunklist.m3u8?st=rGtluOA8_IePIPNdaBBxBQ&username=20533&password=mmmm9d97f2867b84b0fea88c&e=1516134316
 #http://27.254.154.154:1935/cinema/HBO.stream/playlist.m3u8
 player=default
 rating=-1.00
@@ -2618,13 +2640,13 @@ rating=-1.00
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://103.77.116.193:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=4QQGuyAOUG9GKI4Jhk33TQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516103972
+URL=http://103.77.116.193:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=rGtluOA8_IePIPNdaBBxBQ&username=20533&password=mmmm9d97f2867b84b0fea88c&e=1516134316
 #http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD (TH)[/COLOR]
 thumb=https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png
-URL=http://103.77.116.193:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?st=4QQGuyAOUG9GKI4Jhk33TQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516103972
+URL=http://103.77.116.193:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?st=rGtluOA8_IePIPNdaBBxBQ&username=20533&password=mmmm9d97f2867b84b0fea88c&e=1516134316
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE24[/COLOR]
@@ -2636,7 +2658,7 @@ URL=rtmp://tv01.thaizatv.com/drm/movie1
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______red_by_hbo[/COLOR]
 thumb=https://www.redbyhbo.com/images/redlogo-image.jpg
-URL=http://103.77.116.193:443/movie/red_by_hbo_720p.stream/chunklist.m3u8?st=4QQGuyAOUG9GKI4Jhk33TQ&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516103972
+URL=http://103.77.116.193:443/movie/red_by_hbo_720p.stream/chunklist.m3u8?st=rGtluOA8_IePIPNdaBBxBQ&username=20533&password=mmmm9d97f2867b84b0fea88c&e=1516134316
 #http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=sid&password=id695464846498
 #http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
@@ -2867,9 +2889,16 @@ URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8
 type=video
 name=
 thumb=
-date=2018-01-15
+date=2018-01-16
 URL=
 
+
+
+type=video
+name=Little Evil (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/r3Trvfd5td7JUrIUr5xsDqwNWXJ.jpg
+date=2018-01-16
+URL=https://streamango.com/f/nolbmlntbtabeflm/Little_Evil_2017_
 
 
 type=video
@@ -3478,12 +3507,15 @@ URL=
 
 
 type=video
-name=Jigsaw (2017) ENG Web_DL_x264_AC3_TiTAN
+name=Jigsaw (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
-date=2018-01-09
-URL=https://openload.co/f/cP4zBkVPXeU/Jigsaw_2017_1080p_Web_DL_x264_AC3_TiTAN.mkv.mp4
+date=2018-01-16
+URL=https://openload.co/f/xWnN7z2RjKQ/Jigsaw.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/ccfZvsT_zDU/Jigsaw.2017.1080p.br_24hd.cc.mp4
+#https://openload.co/f/cP4zBkVPXeU/Jigsaw_2017_1080p_Web_DL_x264_AC3_TiTAN.mkv.mp4
 #https://openload.co/f/Wn4MXIBxUyk/Jigsaw.2017.720p.TS.x264.AC3-%5BArenaBG%5D.mkv.mp4
 #https://openload.co/f/F3nZJ_umMbw/Jigsaw.2017.720p.CAM.ENG.X264-Feel.Free.mkv.mp4
+#https://uptobox.com/7h1vbb4v1zdm   720
 type=video
 name=Jigsaw (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
@@ -3643,10 +3675,13 @@ URL=https://streamango.com/f/pblsaqsboposetfo/The_Foreigner_2017_2_
 
 
 type=video
-name=Geostorm (2017) ENG WEB-DL.X264.AC3-EVO
+name=Geostorm (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
-date=2018-01-02
-URL=https://openload.co/f/x6LBJVs6d6Y/Geostorm.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+date=2018-01-16
+URL=https://uptobox.com/9m3o8vig5x12
+#https://openload.co/f/phgX0WG1Ruo/Geostorm.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/GW_5F9YXfPA/Geostorm.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/x6LBJVs6d6Y/Geostorm.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/LlMu3K9_im8/Geostorm.2017.720p.HDRip.KORSUB.x264.mp4
 #https://openload.co/f/WTrxZvQ3bcA/Geostorm.2017.CAM.XViD-26k.avi.mp4
 #https://openload.co/f/KoOE2nWVFFk/Geostorm_2017_CLEAN_SoundFix_HDCAM_ENG_X264_-_Feel.Free.mp4
