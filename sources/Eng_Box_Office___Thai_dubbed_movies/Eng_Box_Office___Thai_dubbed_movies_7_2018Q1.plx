@@ -59,15 +59,41 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-01-14
+date=2018-01-17
 URL=
 
 
+
+
+
+
 type=video
-name=The Post (2017) ENG HDCAM_SeeHD
+name=The Commuter (2018) ENG CAM.ENG_SeeHD
+thumb=https://image.tmdb.org/t/p/w640/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
+date=2018-01-17
+URL=https://openload.co/f/yq1GYYdbymo/Commuter.CAM.ENG_SeeHD.mkv.mp4
+
+type=video
+name=Proud Mary (2018) ENG CAMRIP_DVDKing
+thumb=https://image.tmdb.org/t/p/w640/5luceoVMU2FzWuyty7mZFcSY5ZW.jpg
+date=2018-01-17
+URL=https://openload.co/f/UQh_JknDYSc/PROUD_MARY_CAMRIP_DVDKing.mp4
+#https://openload.co/f/631orZ24xIw/Proud.Mary_CAMRIP.mp4
+
+type=video
+name=All the Money in the World (2017) ENG HDCAM.x264-DiRG
+thumb=https://image.tmdb.org/t/p/w640/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
+date=2018-01-17
+URL=https://openload.co/f/Lefs8BNw8P0/All.the.Money.in.the.World.2017.HDCAM.x264-DiRG.mp4
+#https://openload.co/f/T0HIxal98u0/All.the.Money.in.the.World.2017.CAM.AAC.x264-THESTiG.mp4
+
+type=video
+name=The Post (2017) ENG TS.XViD-BL4CKP34RL
 thumb=https://image.tmdb.org/t/p/w640/5765ORvdKVX5bWmhEjjiOqLk3TH.jpg
-date=2018-01-14
-URL=https://openload.co/f/_PnkG7ex6Ek/The_Post.HDCAM_SeeHD.mp4
+date=2018-01-17
+URL=https://openload.co/f/vPOCXYjcMkI/The.Post.2017.TS.XViD-BL4CKP34RL.avi.mp4
+#https://openload.co/f/PZaWx9Hi3ZY/The.Post.2017.HDCAM.x264-DiRG.mp4
+#https://openload.co/f/_PnkG7ex6Ek/The_Post.HDCAM_SeeHD.mp4
 #https://openload.co/f/l55OhzL6WjA/The_Post_2017_ENG_HDCAM-X264-Zi%24t.mkv.mp4
 
 type=video
@@ -77,10 +103,6 @@ date=2018-01-15
 URL=https://openload.co/f/Jbn08wdDUIg/Freak.Show.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/vzm-Re6H8Vg/Freak_Show.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/_uOMojn37wg/Freak.Show.720p.WEB-DL_SeeHD.mkv.mp4
-
-
-
-
 
 type=video
 name=The Shape of Water (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
@@ -174,21 +196,10 @@ thumb=https://image.tmdb.org/t/p/w640/70eVsU4nvVidEs7mpPcEcBlIpmx.jpg
 date=2017-12-19
 URL=https://openload.co/f/VXxQVaOTzoI/Just.Getting.Started.2017.CAM.READNFO.XViD-26k.avi.mp4
 
-type=video
-name=Last Flag Flying (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/pizynKUzJ9YucGff1O1MYisY1WM.jpg
-date=2018-01-16
-URL=https://openload.co/f/LsXoADU19uM/Last.Flag.Flying.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/214Cc5XT_sI/Last.Flag.Flying.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 
 
 
-type=video
-name=The Killing of a Sacred Deer (2017) ENG WEB-DL.H264.AC3BB-EVO
-thumb=https://image.tmdb.org/t/p/w640/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg
-date=2017-12-13
-URL=https://openload.co/f/Cm_IdheWOS0/The_Killing_of_a_Sacred_Deer.2017.1080p.WEB-DL.H264.AC3BB-EVO.mkv.mp4
-#https://openload.co/f/OFtEBE4YtxQ/The_Killing_of_a_Sacred_Deer.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=Darkest Hour (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
@@ -1226,10 +1237,17 @@ URL=https://openload.co/f/phEBgPTbT-Y/Diamond_Cartel_2017_HDRip_%5BLayar-21.com%
 player=default
 rating=-1.00
 
+type=video
+name=BPM (2017) FRE EngSub_WEB-DL_X264_AC3-24HD
+thumb=https://image.tmdb.org/t/p/w640/q6fohIpyfvUOgAmNPu5bUgMuojG.jpg
+date=2018-01-16
+URL=https://openload.co/f/ttUsyLrGoH8/BPM_Beats_Per_Minute_2017_EngSub_WEB-DL_X264_AC3-24HD.mkv.mp4
 
-
-
-
+type=video
+name=Arrhythmia (2017) RUS EngSub.WEB-DL
+thumb=https://image.tmdb.org/t/p/w640/m800lQEOeSB8xHCSDVPvllxqdMK.jpg
+date=2018-01-17
+URL=https://openload.co/f/QZ2N84nNYf0/Aritmiya_AKA_Arrhythmia_2017.EngSub.WEB-DL.mkv.mp4
 
 
 type=video
@@ -1247,12 +1265,28 @@ URL=https://www.blazefile.co/embed-h25coos10uwx.html
 type=video
 name=
 thumb=
-date=2018-01-16
+date=2018-01-17
 URL=
 
 
 
 
+type=video
+name=LBJ (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/38LjJv6ZvNsblF9ulSVGcMSIXfk.jpg
+date=2018-01-17
+URL=https://openload.co/f/mmt8x6Q4_3Q/LBJ.2016.1080p.BluRay.x264-GECKOS.mkv.mp4
+
+type=video
+name=The Killing of a Sacred Deer (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg
+date=2017-12-17
+URL=https://openload.co/f/lqWDzlBWGa4/The.Killing.Of.A.Sacred.Deer.2017.LIMITED.1080p.BluRay.x264-SAPHiRE.mkv.mp4
+#https://openload.co/f/Cm_IdheWOS0/The_Killing_of_a_Sacred_Deer.2017.1080p.WEB-DL.H264.AC3BB-EVO.mkv.mp4
+#https://openload.co/f/OFtEBE4YtxQ/The_Killing_of_a_Sacred_Deer.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/gvW4nM6mJA8/The.Killing.Of.A.Sacred.Deer.2017.LIMITED.720p.BluRay.x264-SAPHiRE.mkv   5.5GB
+#https://www.blazefile.co/embed-5tlyhglib8xb.html   720
+#https://uptobox.com/fbtl229eftmt   720
 
 type=video
 name=The Man from Earth: Holocene (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1265,13 +1299,8 @@ name=Professor Marston & the Wonder Women (2017) [COLOR=FF00FF00]ENG BR 1080p[/C
 thumb=https://image.tmdb.org/t/p/w640/tbrzHlnE8dNpllLWEe9bwDGNzLe.jpg
 date=2018-01-12
 URL=https://openload.co/f/wwLUiPaojEA/professor.marston.and.the.wonder.women.2017.1080p.bluray.x264-drones.mkv.mp4
-
-type=video
-name=Goodbye Christopher Robin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg
-date=2018-01-12
-URL=https://openload.co/f/cwaIiRR7Kf4/Goodbye.Christopher.Robin.2017.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/MzkblHOg-Jk/Goodbye_Christopher_Robin.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://www.blazefile.co/embed-bl7c3j9ii5bp.html   720
+#https://uptobox.com/sv01sdy7x4hf   720
 
 type=video
 name=Gangster Land (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2604,7 +2633,8 @@ type=video
 name=The Pirates of Somalia (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/a8dlDPwo9mnorurL6ukIpyHZZd7.jpg
 date=2018-01-16
-URL=https://uptobox.com/h58wwdbcvmyc
+URL=https://www.blazefile.co/embed-a5xwc8ppcble.html
+#https://uptobox.com/h58wwdbcvmyc
 
 type=video
 name=Trainspotting (1996) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -2612,6 +2642,14 @@ thumb=https://image.tmdb.org/t/p/w640/p1O3eFsdb0GEIYu87xlwV7P4jM1.jpg
 date=2018-01-16
 URL=https://uptobox.com/ylvoza81xx2r
 
+type=video
+name=Last Flag Flying (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/pizynKUzJ9YucGff1O1MYisY1WM.jpg
+date=2018-01-17
+URL=https://openload.co/f/M1W3AAmhtkQ/Last.Flag.Flying.2017.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/LsXoADU19uM/Last.Flag.Flying.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/214Cc5XT_sI/Last.Flag.Flying.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/fyB7ePrmNFc/Last_Flag_Flying.2017.720p.BluRay.x264-DRONES.mkv   5.5GB
 
 
 
@@ -2889,10 +2927,16 @@ URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8
 type=video
 name=
 thumb=
-date=2018-01-16
+date=2018-01-17
 URL=
 
 
+
+type=video
+name=Why Blame It on the Child? (2016) THSUB
+thumb=https://image.tmdb.org/t/p/w640/eWPD4RO7QQjiD8evdnQ0pUmGC33.jpg
+date=2018-01-17
+URL=https://streamango.com/f/drprknccaqnfokbf/Why_Blame_It_on_the_Child_2016_
 
 type=video
 name=Little Evil (2017) THSUB
@@ -3510,7 +3554,9 @@ type=video
 name=Jigsaw (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
 date=2018-01-16
-URL=https://openload.co/f/xWnN7z2RjKQ/Jigsaw.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+URL=https://www.blazefile.co/embed-pr93rr4p0mhe.html
+#https://uptobox.com/ra64pdaqwaud
+#https://openload.co/f/xWnN7z2RjKQ/Jigsaw.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/ccfZvsT_zDU/Jigsaw.2017.1080p.br_24hd.cc.mp4
 #https://openload.co/f/cP4zBkVPXeU/Jigsaw_2017_1080p_Web_DL_x264_AC3_TiTAN.mkv.mp4
 #https://openload.co/f/Wn4MXIBxUyk/Jigsaw.2017.720p.TS.x264.AC3-%5BArenaBG%5D.mkv.mp4
@@ -3899,7 +3945,19 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
-
+type=video
+name=Goodbye Christopher Robin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg
+date=2018-01-12
+URL=https://openload.co/f/cwaIiRR7Kf4/Goodbye.Christopher.Robin.2017.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/MzkblHOg-Jk/Goodbye_Christopher_Robin.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://www.blazefile.co/embed-dd531mm0j6m0.html   720
+#https://uptobox.com/81y1y7jy8aku   720
+type=video
+name=Goodbye Christopher Robin (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg
+date=2018-01-17
+URL=https://openload.co/f/WTQ0sWHaNXI/%7BMINI_Super-HQ%7D_Goodbye.Christopher.Robin.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
 type=video
