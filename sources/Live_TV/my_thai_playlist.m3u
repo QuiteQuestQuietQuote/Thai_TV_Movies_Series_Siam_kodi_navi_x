@@ -1913,9 +1913,10 @@ http://103.77.116.191:443/movie/red_by_hboth_720p.stream/chunklist.m3u8?st=v2ezp
 http://103.77.116.191:443/movie/hbo_hits_720p.stream/chunklist.m3u8?st=v2ezphI2dlYJlUjpelKqQA&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516222327
 
 
-
-
-
+#EXTINF:-1,Discovery world
+http://110.19.106.198:9981/stream/channelid/796699293
+#EXTINF:-1,Discovery
+http://200.78.215.85:8010/play/a0bu
 #EXTINF:-1,Nat Geo
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
 #EXTINF:-1,Chinese_s2
@@ -1924,8 +1925,8 @@ http://live-tx-hdl.huomaotv.cn/flvtx.plu.cn/onlive/e65e81838bdf45ecbff40bc7318bb
 rtmp://tv01.thaizatv.com/drm/movie1
 #EXTINF:-1,AFC
 http://61.58.60.247:9000/live/176.m3u8
-
-
+#EXTINF:-1,olleh tv MOVIE
+http://218.144.144.183:9981/stream/channelid/1061735118
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="http://my-hd.tv/shared/img/channels/H2-HD.png",H2
