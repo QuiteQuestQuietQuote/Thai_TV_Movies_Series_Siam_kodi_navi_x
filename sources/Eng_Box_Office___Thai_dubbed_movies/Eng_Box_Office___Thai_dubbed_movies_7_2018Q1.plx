@@ -59,19 +59,31 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-01-17
+date=2018-01-18
 URL=
 
 
 
 
-
+type=video
+name=12 Strong (2018) ENG CAM.XViD-CMRG
+thumb=https://image.tmdb.org/t/p/w640/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
+date=2018-01-18
+URL=https://openload.co/f/hVOiY8yxQWg/12.Strong.2017.CAM.XViD-CMRG.avi.mp4
 
 type=video
-name=The Commuter (2018) ENG CAM.ENG_SeeHD
+name=Pitch Perfect 3 (2017) ENG HDCAM
+thumb=https://image.tmdb.org/t/p/w640/hQriQIpHUeh66I89gypFXtqEuVq.jpg
+date=2018-01-18
+URL=https://openload.co/f/ulAN5swR5RA/Pitch.Perfect.3.2017.HDCAM.MP4.mp4
+
+type=video
+name=The Commuter (2018) ENG HDCAM_REPACK_X264-DADDY
 thumb=https://image.tmdb.org/t/p/w640/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
-date=2018-01-17
-URL=https://openload.co/f/yq1GYYdbymo/Commuter.CAM.ENG_SeeHD.mkv.mp4
+date=2018-01-18
+URL=https://openload.co/f/qQHqw_vax30/The_Commuter_2018_HDCAM_REPACK_X264-DADDY.mkv.mp4
+#https://openload.co/f/l_asVj98QaI/The.Commuter.2018.CAM.ENG.DADDY.mkv.mp4
+#https://openload.co/f/yq1GYYdbymo/Commuter.CAM.ENG_SeeHD.mkv.mp4
 
 type=video
 name=Proud Mary (2018) ENG CAMRIP_DVDKing
@@ -281,13 +293,7 @@ thumb=https://image.tmdb.org/t/p/w640/fvW4XbwdzWB5nCvSMA3ZDCZslCx.jpg
 date=2017-11-10
 URL=https://openload.co/f/_4z3LoSbk-Y/You.Were.Never.Really.Here.2017.FRENCH.CAM.MD.XViD_STVFRV.E.mp4
 
-type=video
-name=Boo 2! A Madea Halloween (2017) ENG WebRip_SeeHD
-thumb=https://image.tmdb.org/t/p/w640/5nvP4etJ8ecQv8qZM08dK4BAzdK.jpg
-date=2018-01-07
-URL=https://openload.co/f/s3YTxCPeuEM/Boo_2_A_Madea_Halloween_%282017%29_1080_WebRip_SeeHD.mp4
-#https://openload.co/f/ATcNn-EpPjg/Boo_2_A_Madea_Halloween.2017.CAM.READNFO.XViD-26k.avi.mp4
-#https://openload.co/f/cisxIQQ1-xk/Boo.2.A.Madea.Halloween.2017.V2.CAM.x264-NEXUS.mp4
+
 
 type=video
 name=S.M.A.R.T. Chase (2017) RUS
@@ -454,10 +460,11 @@ date=2017-11-21
 URL=https://openload.co/f/MAjYkSAfDrw/Hangman.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
-name=Crooked House (2017) ENG WEB-DL.DD5.1.H264-FGT
+name=Crooked House (2017) ENG dvdrip.x264-wide
 thumb=https://image.tmdb.org/t/p/w640/3qbm4UsYoOEiJAmfKrgo0rLnfRI.jpg
-date=2017-11-21
-URL=https://openload.co/f/2O-YHDEXidA/Crooked.House.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+date=2018-01-18
+URL=https://openload.co/f/yVgtG2a2nqw/crooked.house.2017.dvdrip.x264-wide.mkv.mp4
+#https://openload.co/f/2O-YHDEXidA/Crooked.House.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
 name=Almost Friends (2017) ENG WEB-DL.DD5.1.H264-FGT
@@ -862,10 +869,11 @@ URL=https://openload.co/f/O8gPiFYAZhU/Talon.Falls.2017.HDRip.XviD.AC3-EVO.avi.mp
 
 
 type=video
-name=Freehold (2017) ENG HDRip_XviD_AC3-EVO
+name=Freehold (2017) ENG DVDRip.x264-RedBlade
 thumb=https://image.tmdb.org/t/p/w640/bITbGBGn7pUKJAF6U0dzNT33ZxU.jpg
-date=2017-10-15
-URL=https://openload.co/f/t1E8pQAnJaw/Freehold_2017_HDRip_XviD_AC3-EVO.avi.mp4
+date=2018-01-18
+URL=https://openload.co/f/yIOUrQXSCCM/Freehold.2017.DVDRip.x264-RedBlade.mkv.mp4
+#https://openload.co/f/t1E8pQAnJaw/Freehold_2017_HDRip_XviD_AC3-EVO.avi.mp4
 #https://openload.co/f/I7UjFFBDk_g/Freehold.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
@@ -1269,19 +1277,39 @@ date=2018-01-17
 URL=
 
 
+type=video
+name=Thank You for Your Service (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/z8OKWw6DAZAOyz8F421euawr3Hs.jpg
+date=2018-01-18
+URL=https://www.blazefile.co/embed-lpdaxqsck1dt.html
+#https://uptobox.com/mn76go3nvddc
+#https://uptobox.com/qzke8aony0xt   720
+#https://openload.co/f/3yQZKgINX2s/Thank_You_for_Your_Service.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
+type=video
+name=Boo 2! A Madea Halloween (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/5nvP4etJ8ecQv8qZM08dK4BAzdK.jpg
+date=2018-01-18
+URL=https://openload.co/f/hnbzXd-lI-4/Tyler.Perrys.Boo.2.A.Madea.Halloween.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/s3YTxCPeuEM/Boo_2_A_Madea_Halloween_%282017%29_1080_WebRip_SeeHD.mp4
+#https://openload.co/f/ATcNn-EpPjg/Boo_2_A_Madea_Halloween.2017.CAM.READNFO.XViD-26k.avi.mp4
+#https://openload.co/f/cisxIQQ1-xk/Boo.2.A.Madea.Halloween.2017.V2.CAM.x264-NEXUS.mp4
 
 type=video
 name=LBJ (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/38LjJv6ZvNsblF9ulSVGcMSIXfk.jpg
 date=2018-01-17
 URL=https://openload.co/f/mmt8x6Q4_3Q/LBJ.2016.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://www.blazefile.co/embed-7uot1i5zu90n.html   720
+#https://uptobox.com/l10z97j04a1q   720
 
 type=video
 name=The Killing of a Sacred Deer (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg
-date=2017-12-17
-URL=https://openload.co/f/lqWDzlBWGa4/The.Killing.Of.A.Sacred.Deer.2017.LIMITED.1080p.BluRay.x264-SAPHiRE.mkv.mp4
+date=2017-12-18
+URL=https://www.blazefile.co/embed-ej2kkiglwtlz.html
+#https://uptobox.com/v26on32pu7t9
+#https://openload.co/f/lqWDzlBWGa4/The.Killing.Of.A.Sacred.Deer.2017.LIMITED.1080p.BluRay.x264-SAPHiRE.mkv.mp4
 #https://openload.co/f/Cm_IdheWOS0/The_Killing_of_a_Sacred_Deer.2017.1080p.WEB-DL.H264.AC3BB-EVO.mkv.mp4
 #https://openload.co/f/OFtEBE4YtxQ/The_Killing_of_a_Sacred_Deer.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/gvW4nM6mJA8/The.Killing.Of.A.Sacred.Deer.2017.LIMITED.720p.BluRay.x264-SAPHiRE.mkv   5.5GB
@@ -2622,12 +2650,7 @@ URL=https://uptobox.com/59t0nyy1grbb
 #https://openload.co/f/RtjAPjl12-M/Marshall.2017.Movies.HD.TS.x264.Clean.Audio.AAC.New.Source.rDX.mkv.mp4
 #https://openload.co/f/8UKPBGPLaDk/Marshall.2017.CAM.READNFO.XViD-26k.avi.mp4
 
-type=video
-name=Thank You for Your Service (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/z8OKWw6DAZAOyz8F421euawr3Hs.jpg
-date=2018-01-16
-URL=https://uptobox.com/qzke8aony0xt
-#https://openload.co/f/3yQZKgINX2s/Thank_You_for_Your_Service.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=The Pirates of Somalia (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -2927,10 +2950,16 @@ URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8
 type=video
 name=
 thumb=
-date=2018-01-17
+date=2018-01-18
 URL=
 
 
+
+type=video
+name=The Saint (2017)
+thumb=https://image.tmdb.org/t/p/w640/ummu2L0zqfxvmeC2xiRU6DFtMbx.jpg
+date=2018-01-18
+URL=https://streamango.com/f/dtslbclqfpsddabm/The_Saint_2017_
 
 type=video
 name=Why Blame It on the Child? (2016) THSUB
@@ -3956,8 +3985,9 @@ URL=https://openload.co/f/cwaIiRR7Kf4/Goodbye.Christopher.Robin.2017.LIMITED.108
 type=video
 name=Goodbye Christopher Robin (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg
-date=2018-01-17
-URL=https://openload.co/f/WTQ0sWHaNXI/%7BMINI_Super-HQ%7D_Goodbye.Christopher.Robin.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+date=2018-01-18
+URL=https://openload.co/f/rgU0UNhohgw/Goodbye_Christopher_Robin_%282017%29%E0%B9%81%E0%B8%94%E0%B9%88_%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B9%82%E0%B8%95%E0%B9%80%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99_%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B8%B5_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%9E%E0%B8%B9%E0%B8%AB%E0%B9%8C.mp4
+#https://openload.co/f/WTQ0sWHaNXI/%7BMINI_Super-HQ%7D_Goodbye.Christopher.Robin.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
 type=video
