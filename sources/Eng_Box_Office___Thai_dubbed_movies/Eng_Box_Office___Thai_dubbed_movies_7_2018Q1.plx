@@ -434,12 +434,7 @@ thumb=https://image.tmdb.org/t/p/w640/8w4JecmVtqcSMk4mdiHURzISsYz.jpg
 date=2017-12-01
 URL=https://openload.co/f/M6r-cHT1VtI/The.Tribes.of.Palos.Verdes.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
-type=video
-name=Borg vs McEnroe (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/9hR2emM9MqH5LJPTjG8o7RPpksU.jpg
-date=2018-01-07
-URL=https://openload.co/f/5PwWhBT0VPM/Borg.vs.McEnroe.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/tvbUMQN9u7Y/Borg.vs.McEnroe.2017.DVDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name='Til Death Do Us Part (2017) ENG HDCAM.x264-DiRG
@@ -788,11 +783,7 @@ thumb=https://image.tmdb.org/t/p/w640/5CXEnLk3SHI5WXJG97Az1JYRcIu.jpg
 date=2017-10-20
 URL=https://openload.co/f/rHZatbYrz14/Never.Here.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
-type=video
-name=Bad Day for the Cut (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/QvTi8rFF663o0JvuBGDTyRbnqq.jpg
-date=2017-10-20
-URL=https://openload.co/f/_1C1vqFC744/Bad.Day.for.the.Cut.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 type=video
 name=The Wilde Wedding (2017) ENG dvdrip.x264-wide
@@ -2345,12 +2336,7 @@ thumb=https://image.tmdb.org/t/p/w640/wGhQ3FKA57HxyFYM0ttLgazzbF0.jpg
 date=2017-08-26
 URL=https://openload.co/f/baWuEXk7pEk/Band.Aid.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
 
-type=video
-name=Fun Mom Dinner (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/6mtqrfp56Xa4DS64wrqVN9AZwkS.jpg
-date=2017-08-25
-URL=https://www.blazefile.co/embed-vcj8ff0fckav.html
-#https://openload.co/f/S_jHeFZBNgQ/Fun.Mom.Dinner.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+
 
 type=video
 name=Lowriders (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2674,7 +2660,19 @@ URL=https://openload.co/f/M1W3AAmhtkQ/Last.Flag.Flying.2017.720p.BluRay.x264-DRO
 #https://openload.co/f/214Cc5XT_sI/Last.Flag.Flying.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/fyB7ePrmNFc/Last_Flag_Flying.2017.720p.BluRay.x264-DRONES.mkv   5.5GB
 
+type=video
+name=Borg vs McEnroe (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/9hR2emM9MqH5LJPTjG8o7RPpksU.jpg
+date=2018-01-19
+URL=https://openload.co/f/-QR09PeP1j4/Borg.vs.McEnroe.2017.720p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/5PwWhBT0VPM/Borg.vs.McEnroe.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/tvbUMQN9u7Y/Borg.vs.McEnroe.2017.DVDRip.XviD.AC3-EVO.avi.mp4
 
+type=video
+name=Day of the Dead: Bloodline (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/3jM4C1wJxHLWlF4tcSyyv6fnJPR.jpg
+date=2018-01-19
+URL=https://openload.co/f/LeLjodsWxDM/Day.of.the.Dead.Bloodline.2018.720p.BluRay.x264-GUACAMOLE.mkv.mp4
 
 
 
@@ -2950,13 +2948,52 @@ URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8
 type=video
 name=
 thumb=
-date=2018-01-18
+date=2018-01-19
 URL=
 
 
 
+
+
 type=video
-name=The Saint (2017)
+name=Heartthrob (2017) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/em7duFxULqzHKRlHfUZHJBm5Dag.jpg
+date=2018-01-19
+URL=https://openload.co/f/lvx68tUlR28/Heartthrob.2017.HDRip.XviD.AC3-EVO.avi.mp4
+type=video
+name=Heartthrob (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/em7duFxULqzHKRlHfUZHJBm5Dag.jpg
+date=2018-01-19
+URL=https://streamango.com/f/rdtsqoabodromkap/Heartthrob_2017_mp4
+
+
+type=video
+name=Fun Mom Dinner (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/6mtqrfp56Xa4DS64wrqVN9AZwkS.jpg
+date=2017-08-25
+URL=https://www.blazefile.co/embed-vcj8ff0fckav.html
+#https://openload.co/f/S_jHeFZBNgQ/Fun.Mom.Dinner.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+type=video
+name=Fun Mom Dinner (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/6mtqrfp56Xa4DS64wrqVN9AZwkS.jpg
+date=2018-01-19
+URL=https://streamango.com/f/dmapderccctlmcpr/Fun_Mom_Dinner_2017_mp4
+
+
+type=video
+name=Bad Day for the Cut (2017) ENG WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/QvTi8rFF663o0JvuBGDTyRbnqq.jpg
+date=2017-10-20
+URL=https://openload.co/f/_1C1vqFC744/Bad.Day.for.the.Cut.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+type=video
+name=Bad Day for the Cut (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/QvTi8rFF663o0JvuBGDTyRbnqq.jpg
+date=2018-01-19
+URL=https://streamango.com/f/dlceoqlemcefsenl/Bad_Day_for_the_Cut_2017_
+
+
+type=video
+name=The Saint (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w640/ummu2L0zqfxvmeC2xiRU6DFtMbx.jpg
 date=2018-01-18
 URL=https://streamango.com/f/dtslbclqfpsddabm/The_Saint_2017_
@@ -3972,6 +4009,18 @@ thumb=
 date=2018-01-15
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
+
+
+type=video
+name=The Girl with All the Gifts (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/33IDooA29ctGHNE7gQW6cwbmRP3.jpg
+date=2018-01-19
+URL=https://www.blazefile.co/embed-pmqt6cvtsuub.html
+type=video
+name=The Girl with All the Gifts (2016) TH
+thumb=https://image.tmdb.org/t/p/w640/33IDooA29ctGHNE7gQW6cwbmRP3.jpg
+date=2018-01-19
+URL=https://streamango.com/f/dbtcdrpodpbknqsk/The_Girl_With_All_The_Gift_2016_mkv_mp4
 
 
 type=video
