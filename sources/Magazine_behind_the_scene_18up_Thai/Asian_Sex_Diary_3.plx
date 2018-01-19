@@ -68,6 +68,210 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=182xxxxxxxxxxxxxxxxxxxxAsian Sex Diary [Tuktuk Patrol] Game
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuktuk-Patrol-Game.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/mbpoonparspntasb/
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Fon3
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuktuk-Patrol-Fon3.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/mefreqkdasecqbqr/
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Gib1
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuktuk-Patrol-Gib1.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/daebeqrqanomennd/
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Ja
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuktuk-Patrol-Ja.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/feoefemoqapprksd/
+
+type=video
+name=Asian Sex Diary Toei
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Toei.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/dbnrtedrqkcdmdlb/
+
+
+type=video
+name=Asian Sex Diary Tam
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tam.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/lkktffoplpcseped/
+
+type=video
+name=Asian Sex Diary Su
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Su.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/aarolmalamtnamrb/
+
+type=video
+name=Asian Sex Diary Tik 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tik.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/qlcaseqobpfpndkt/
+
+type=video
+name=Asian Sex Diary Sa
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Sa.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/opernfnstmqcksff/
+
+type=video
+name=Asian Sex Diary Puy
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Puy.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/tplasslacmfsdeba/
+
+
+type=video
+name=Asian Sex Diary Rung
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Rung.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/cmqrfertbcqcqels/
+
+type=video
+name=Asian Sex Diary Pui Shoot 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Pui-Shoot.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/elmakccfafofqrmm/
+
+type=video
+name=Asian Sex Diary Pui Part.3
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Pui-Part.3.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/rsdoknbpolbbsocf/
+
+type=video
+name=Asian Sex Diary Pupe Ning
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Pupe-Ning.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/paltrmtdbadcqqpr/
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Mam
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuktuk-Patrol-Mam.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/aqrtnatntdpdommb/
+
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Mickey The Cum
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuktuk-Patrol-Mickey-The-Cum.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/efnrnkldsprnsees/
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Lei 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuktuk-Patrol-Lei.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/rddqcbkpfdrmbpra/
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Lin
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuktuk-Patrol-Lin.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/tnmskfbarsbpnkal/
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Mee Part.2
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuktuk-Patrol-Mee-Part.2.jpg
+date=2018-01-19
+URL=https://oload.stream/embed/2OP_Xb8ZPGQ/
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Mee Part.1
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuktuk-Patrol-Mee-Part.1.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/sdqqdcrqbtlbnsqa/
+
+
+type=video
+name=Asian Sex Diary Tuy
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuy.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/oarrrocdmtkkmcrl/
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Na
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuktuk-Patrol-Na.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/dndtrksbefdbsont/
+
+type=video
+name=Asian Sex Diary Wan
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Wan.jpg
+date=2018-01-19
+URL=https://oload.stream/embed/TUGy_LlgJ-4/
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Nut
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuktuk-Patrol-Nut.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/saecskbnssdrbncf/
+
+
+
+
+
+
+
+
+
+type=video
+name=158xxxxxxxxxxxxxxxxxxxxAsian Sex Diary [Tuktuk Patrol] Yo
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuktuk-Patrol-Yo.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/mktotctpscteralf/
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Oom
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuktuk-Patrol-Oom.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/ldapefnkpsalmnan/
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Pauw
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuktuk-Patrol-Pauw.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/edpqcblasccbtcba/
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Puy2
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuktuk-Patrol-Puy2.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/nmdtenarknqsdtls/
+
+type=video
+name=Asian Sex Diary [Tuktuk Patrol] Sook 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Tuktuk-Patrol-Sook.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/ddsoqatnabccrnko/
+
+
+type=video
+name=Asian Sex Diary Walk and Poo in shower 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Walk-and-Poo-in-shower.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/eqfpsmccqocelopb/
+
+
+
+
+
+
+
 type=video
 name=152xxxxxxxxxxxxxxxxxxxxAsian Sex Diary May 2
 thumb=https://erotic24hr.com/wp-content/uploads/2017/12/Asian-Sex-Diary-May-2.jpg

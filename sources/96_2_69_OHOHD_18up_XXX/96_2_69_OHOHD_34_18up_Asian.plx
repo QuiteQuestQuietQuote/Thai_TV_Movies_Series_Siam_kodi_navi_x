@@ -52,6 +52,205 @@ URL=
 
 
 
+
+type=video
+name=170xxxxxxxxxxxxxxxxxxxxMy Girlfriend’s Mother – The Day She Became My Girl [Unclear] (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/My-Girlfriends-Mother-The-Day-She-Became-My-Girl-Unclear-2017.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/bqlebflpabbbsdkn/
+
+type=video
+name=An Affair – Cheating Housewives – Director’s Cut (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/An-Affair-Cheating-Housewives-Directors-Cut-2018.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/ldttmcalndnrasbk/
+
+type=video
+name=Stepmother’s Sex Education (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Stepmothers-Sex-Education-2017.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/ecmlkodncecssmfq/
+
+type=video
+name=Weather Caster Sunny And Wet (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Weather-Caster-Sunny-And-Wet-2016.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/emlqbttedfdqfarr/
+
+type=video
+name=Delivery Hooker Service Of Celebrity Warrant (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Delivery-Hooker-Service-Of-Celebrity-Warrant-2016.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/nfckfepalnoebdfc/
+
+
+type=video
+name=Female Ninja Squirting Ninja Book (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Female-Ninja-Squirting-Ninja-Book-2016.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/rckacmfqranstles/
+
+type=video
+name=Taste Of Perfect Sex (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Taste-Of-Perfect-Sex-2018.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/oboafbfoskqfptak/
+
+type=video
+name=Housewife – Adorable Next Door Man’s Thing (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Housewife-Adorable-Next-Door-Man%E2%80%99s-Thing-2017.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/koqdqqltcaccfltq/
+
+type=video
+name=A Good Stepmother (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/A-Good-Stepmother-2017.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/nqckapqffcdrcbbq/
+
+type=video
+name=The Parvent Bus Tour (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/The-Parvent-Bus-Tour-2016.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/ackloctbfqdkpedn/
+
+
+type=video
+name=Old Janitor Woman in Mansion (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Old-Janitor-Woman-in-Mansion-2017.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/qfaoqknapcrqeoke/
+
+type=video
+name=Couple Of Get Bored (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Couple-Of-Get-Bored-2016.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/sbmrtesnrsmalrfc/
+
+type=video
+name=Back Care (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Back-Care-2016.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/psotlobmpetloaaf/
+
+type=video
+name=Sales Lady Taking A Contract With A Body (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Sales-Lady-Taking-A-Contract-With-A-Body-2016.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/dfltdafobclblona/
+
+type=video
+name=Swapping – Your brother’s (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Swapping-Your-brother%E2%80%99s-2017.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/nknkqsndrtassklo/
+
+
+type=video
+name=Inside Wives’ Affairs (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Inside-Wives%E2%80%99-Affairs-2017.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/rcqbdrrdccbdmcpp/
+
+type=video
+name=Fetish Seihekini Mimodaeru Ureta Onnatachi (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Fetish-Seihekini-Mimodaeru-Ureta-Onnatachi-2016.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/dcfpdtnecnlrkmnc/
+
+type=video
+name=Temptation Playful Shellfish Play (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Temptation-Playful-Shellfish-Play-2016.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/ekpqdoqdlcclekpm/
+
+type=video
+name=My Dirty Mother-in-Law 3 (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/My-Dirty-Mother-in-Law-3-2016.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/ecndteeadcoboolq/
+
+type=video
+name=The Case File Of Beautiful Mature Woman (2015) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/The-Case-File-Of-Beautiful-Mature-Woman-2015.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/karopsfqnrklclep/
+
+
+type=video
+name=Obscene Family (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Obscene-Family-2015.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/deakrdprkmcdrsrr/
+
+type=video
+name=Housekeeper Was Prying (2012)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Housekeeper-Was-Prying-2012.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/qnqmkkremdkntbkc/
+
+type=video
+name=Joseon Scandal – The Seven Valid Causes for Divorce 2 (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Joseon-Scandal-The-Seven-Valid-Causes-for-Divorce-2-2015.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/obllncnbfelklenf/
+
+type=video
+name=Her mother Evil mind (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Her-mother-Evil-mind-2013.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/oqrnbelenonksobe/
+
+
+
+
+
+
+
+
+type=video
+name=146xxxxxxxxxxxxxxxxxxxxHonesty – Good daughter-in-law (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Honesty-Good-daughter-in-law-2017.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/dfsltkopbfccnbrk/
+
+type=video
+name=Wonderful Sister-in-Law (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Wonderful-Sister-in-Law-2017.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/nkqkrkedeepcskad/
+
+type=video
+name=Cohabitation with my sister (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Cohabitation-with-my-sister-2017.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/smbmatetsnqcsnae/
+
+type=video
+name=Perfect Education 4 – Secret Basement (2003)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Perfect-Education-4-Secret-Basement-2003.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/llprososrrkcrkod/
+
+type=video
+name=Terumae Alien (2012)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Terumae-Alien-2012.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/nqdrbqqoqlreqdtb/
+
+
+type=video
+name=Married Woman Dual Base (2003)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Married-Woman-Dual-Base-2003.jpg
+date=2018-01-19
+URL=https://streamcherry.com/embed/qlalbknombttbpof/
+
+
+
+
+
+
+
 type=video
 name=140xxxxxxxxxxxxxxxxxxxxForbidden Love (2013)
 thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Forbidden-Love-2013.jpg
