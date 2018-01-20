@@ -144,10 +144,11 @@ date=2018-01-04
 URL=https://openload.co/f/mfpvZQIhOW4/Wonder.Wheel.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 
 type=video
-name=The Greatest Showman (2017)  ENG HDCAM_ENG_X264-DADDY
+name=The Greatest Showman (2017)  ENG HDCAM_V.2_ENG_X264-DADDY
 thumb=https://image.tmdb.org/t/p/w640/dfhztJRiElqmYW4kpvjYe1gENsD.jpg
-date=2018-01-02
-URL=https://openload.co/f/A-NUvRiEbTE/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv.mp4
+date=2018-01-20
+URL=https://openload.co/f/O708OmzRzsE/The_Greatest_Showman_2017_HDCAM_V.2_ENG_X264-DADDY.mkv.mp4
+#https://openload.co/f/A-NUvRiEbTE/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv.mp4
 #https://openload.co/f/pEHfMHoX0xc/The.Greatest.Showman.2017.RUSSIAN.LANG.CAM.MoViE1K.mp4
 
 type=video
@@ -273,10 +274,11 @@ URL=https://openload.co/f/RqXwupoJyYY/Paddington_2_2017_720p_HDTS_x264_AC3_TiTAN
 #https://openload.co/f/O5MG7v4Xa2E/Paddington.2.2017.iTALiAN.LD.TELESYNC.XviD_CriMiNaL.mp4
 
 type=video
-name=Murder on the Orient Express (2017) ENG CAM.XViD.V2-26k
+name=Murder on the Orient Express (2017) ENG HCTC_SeeHD
 thumb=https://image.tmdb.org/t/p/w640/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
-date=2017-11-14
-URL=https://openload.co/f/Z-xgjsHstE8/Murder.On.The.Orient.Express.2017.CAM.XViD.V2-26k.avi.mp4
+date=2018-01-20
+URL=https://openload.co/f/W3Ib0baMyac/Murder_on_the_Orient_Express_2017_HCTC_SeeHD.mkv.mp4
+#https://openload.co/f/Z-xgjsHstE8/Murder.On.The.Orient.Express.2017.CAM.XViD.V2-26k.avi.mp4
 #https://openload.co/f/Kw3jLB0wT6w/Murder_on_the_Orient_Express_%282017%29.ENG.CAM.H264.AC3-Zi%24t.mkv.mp4
 
 
@@ -461,11 +463,7 @@ date=2018-01-18
 URL=https://openload.co/f/yVgtG2a2nqw/crooked.house.2017.dvdrip.x264-wide.mkv.mp4
 #https://openload.co/f/2O-YHDEXidA/Crooked.House.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
-type=video
-name=Almost Friends (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/oWe95qgWq52M1Prub2F4QkYIADB.jpg
-date=2017-11-18
-URL=https://openload.co/f/Kfu56F0aj0U/Almost.Friends.2016.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 
 
@@ -1185,7 +1183,12 @@ thumb=https://image.tmdb.org/t/p/w640/62oRA7ghxL9HGFHe5Dd9IVljyKi.jpg
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
-
+type=video
+name=Almost Friends (2017) ENG BDRip.X264-AMIABLE
+thumb=https://image.tmdb.org/t/p/w640/oWe95qgWq52M1Prub2F4QkYIADB.jpg
+date=2018-01-20
+URL=https://openload.co/f/cG2YpBwBqZM/Almost.Friends.2016.BDRip.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/Kfu56F0aj0U/Almost.Friends.2016.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 
 
@@ -1264,9 +1267,29 @@ URL=https://www.blazefile.co/embed-h25coos10uwx.html
 type=video
 name=
 thumb=
-date=2018-01-17
+date=2018-01-20
 URL=
 
+
+
+
+type=video
+name=Australia Day (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/7xUzNoOWf2TnqRveNfcvAZQebyo.jpg
+date=2018-01-20
+URL=https://openload.co/f/Rz_Ni_QPKUc/Australia.Day.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Guardians (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/r1cJPzC85XsVOzai8MMG9Qe4AH6.jpg
+date=2018-01-20
+URL=https://openload.co/f/iprLmOE0Zfg/Guardians.2017.subbed.1080p.BluRay.x264-PFa.mkv.mp4
+
+type=video
+name=Maze (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/1eP7dpwRcjA8vfcyBhtZkYnNRi9.jpg
+date=2018-01-20
+URL=https://openload.co/f/UewOs2Pqm9s/Maze.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
 name=Thank You for Your Service (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2674,6 +2697,19 @@ thumb=https://image.tmdb.org/t/p/w640/3jM4C1wJxHLWlF4tcSyyv6fnJPR.jpg
 date=2018-01-19
 URL=https://openload.co/f/LeLjodsWxDM/Day.of.the.Dead.Bloodline.2018.720p.BluRay.x264-GUACAMOLE.mkv.mp4
 
+type=video
+name=Boone: The Bounty Hunter (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/akqKTfd6EbUQamcvVrJS1CxOdUH.jpg
+date=2018-01-20
+URL=https://openload.co/f/hMRxfvSLnf0/boone.the.bounty.hunter.2017.720p.bluray.x264-veto.mkv.mp4
+
+type=video
+name=Escape From Ensenada (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/al1qNvijPovSoY8EQ9UDhlTV329.jpg
+date=2018-01-20
+URL=https://openload.co/f/Srriw0F7R4g/Escape.from.Ensenada.2017.720p.BluRay.H264.AAC-RARBG.mp4
+
+
 
 
 type=video
@@ -3584,6 +3620,11 @@ rating=-1.00
 description=Jae-Hyeok (Kim Nam-Gil) lives with his mother (Kim Young-Ae), his sister-in-law (Moon Jeong-Hee) and nephew Min-Jae (Bae Gang-Yoo) in a small Korean town. He is dating Yeon-Joo (Kim Joo-Hyun), while working at the local nuclear power plant. Meanwhile, Pyung-Sub (Jung Jin-Young) works at the same nuclear power plant. He is worried about conditions there, but nobody in the government listens to him. An earthquake strikes the small town where Jae-Hyeok lives and causes explosions at the nuclear power plant. The situation quickly spirals out of control, leading the entire nation to panic. To prevent another nuclear disaster, Jae-Hyeok and his co-workers return to the nuclear power plant./description
 
 # 2767336
+type=video
+name=Gantz:O (2016) JAP bdrip.x264-regret
+thumb=http://image.tmdb.org/t/p/w500/fF33nRbgvxNgTTPUuNqNsRPYmxZ.jpg
+date=2018-01-20
+URL=https://openload.co/f/ZlnNpB93DFg/gantz.o.2016.bdrip.x264-regret.mkv.mp4
 type=video
 name=Gantz:O (2016) SUB
 thumb=http://image.tmdb.org/t/p/w500/fF33nRbgvxNgTTPUuNqNsRPYmxZ.jpg
