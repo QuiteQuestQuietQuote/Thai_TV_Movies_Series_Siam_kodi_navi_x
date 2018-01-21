@@ -58,12 +58,18 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 
 type=video
 name=
-thumb=
+thumb=http://sd-3.blazefile.co/i/01/00002/36ahz29mjq27.jpg
 date=2018-01-18
-URL=
+URL=http://sd-3.blazefile.co/2erdzmnydg3llhoyvghpyxoq3wcjgomv2nxoqpuid53if7z2e7cfehjghw2q/v.mp4
 
 
 
+
+type=video
+name=Den of Thieves (2018)
+thumb=https://image.tmdb.org/t/p/w640/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
+date=2018-01-21
+URL=https://openload.co/f/I0a9aXjeZwo/Den.of.Thieves.2018.HDCAM.HQMIC.x264-DiRG.mp4
 
 type=video
 name=12 Strong (2018) ENG CAM.XViD-CMRG
@@ -370,7 +376,11 @@ URL=https://www.rapidvideo.com/e/FMY9KG2J42
 
 
 
-
+type=video
+name=Final Portrait (2017)
+thumb=https://image.tmdb.org/t/p/w640/8hgqfshiwHcIoAk7uKckKcDVpv4.jpg
+date=2018-01-21
+URL=https://openload.co/f/_Zyb1K8QaAk/Final.Portrait.2017.1080p.NF.WEBRip.DDP.5.1.H264-CMRG.mkv.mp4
 
 type=video
 name=Acts of Violence (2018) ENG WEB-DL.DD5.1.H264-FGT
@@ -1183,12 +1193,8 @@ thumb=https://image.tmdb.org/t/p/w640/62oRA7ghxL9HGFHe5Dd9IVljyKi.jpg
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
-type=video
-name=Almost Friends (2017) ENG BDRip.X264-AMIABLE
-thumb=https://image.tmdb.org/t/p/w640/oWe95qgWq52M1Prub2F4QkYIADB.jpg
-date=2018-01-20
-URL=https://openload.co/f/cG2YpBwBqZM/Almost.Friends.2016.BDRip.X264-AMIABLE.mkv.mp4
-#https://openload.co/f/Kfu56F0aj0U/Almost.Friends.2016.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
+
 
 
 
@@ -1251,6 +1257,11 @@ thumb=https://image.tmdb.org/t/p/w640/m800lQEOeSB8xHCSDVPvllxqdMK.jpg
 date=2018-01-17
 URL=https://openload.co/f/QZ2N84nNYf0/Aritmiya_AKA_Arrhythmia_2017.EngSub.WEB-DL.mkv.mp4
 
+type=video
+name=The Square (2017) ENG DVDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/kKBHo6WnRnUJ5qvWFWd3Fne9bKE.jpg
+date=2018-01-21
+URL=https://openload.co/f/sstpLlKXhAI/The_Square.2017.DVDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=
@@ -1267,17 +1278,38 @@ URL=https://www.blazefile.co/embed-h25coos10uwx.html
 type=video
 name=
 thumb=
-date=2018-01-20
+date=2018-01-21
 URL=
 
 
 
 
+
+type=video
+name=Almost Friends (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/oWe95qgWq52M1Prub2F4QkYIADB.jpg
+date=2018-01-21
+URL=https://uptobox.com/ylvq2b58cci0
+#https://openload.co/f/XUoItuCUvjo/Almost_Friends_2016.1080p.BluRay.x264-YTS_AG.mp4
+#https://openload.co/f/cG2YpBwBqZM/Almost.Friends.2016.BDRip.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/Kfu56F0aj0U/Almost.Friends.2016.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
+type=video
+name=Last Flag Flying (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/pizynKUzJ9YucGff1O1MYisY1WM.jpg
+date=2018-01-21
+URL=https://openload.co/f/nyKy6gvCRYo/Last.Flag.Flying.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/M1W3AAmhtkQ/Last.Flag.Flying.2017.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/LsXoADU19uM/Last.Flag.Flying.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/214Cc5XT_sI/Last.Flag.Flying.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/fyB7ePrmNFc/Last_Flag_Flying.2017.720p.BluRay.x264-DRONES.mkv   5.5GB
+
 type=video
 name=Australia Day (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/7xUzNoOWf2TnqRveNfcvAZQebyo.jpg
-date=2018-01-20
-URL=https://openload.co/f/Rz_Ni_QPKUc/Australia.Day.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-01-21
+URL=https://uptobox.com/9akoxppajh20
+#https://openload.co/f/Rz_Ni_QPKUc/Australia.Day.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Guardians (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
@@ -1308,6 +1340,7 @@ URL=https://openload.co/f/hnbzXd-lI-4/Tyler.Perrys.Boo.2.A.Madea.Halloween.2017.
 #https://openload.co/f/s3YTxCPeuEM/Boo_2_A_Madea_Halloween_%282017%29_1080_WebRip_SeeHD.mp4
 #https://openload.co/f/ATcNn-EpPjg/Boo_2_A_Madea_Halloween.2017.CAM.READNFO.XViD-26k.avi.mp4
 #https://openload.co/f/cisxIQQ1-xk/Boo.2.A.Madea.Halloween.2017.V2.CAM.x264-NEXUS.mp4
+#https://uptobox.com/dlx7l6mh7hoy   720
 
 type=video
 name=LBJ (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2674,14 +2707,7 @@ thumb=https://image.tmdb.org/t/p/w640/p1O3eFsdb0GEIYu87xlwV7P4jM1.jpg
 date=2018-01-16
 URL=https://uptobox.com/ylvoza81xx2r
 
-type=video
-name=Last Flag Flying (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/pizynKUzJ9YucGff1O1MYisY1WM.jpg
-date=2018-01-17
-URL=https://openload.co/f/M1W3AAmhtkQ/Last.Flag.Flying.2017.720p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/LsXoADU19uM/Last.Flag.Flying.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/214Cc5XT_sI/Last.Flag.Flying.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
-#https://openload.co/f/fyB7ePrmNFc/Last_Flag_Flying.2017.720p.BluRay.x264-DRONES.mkv   5.5GB
+
 
 type=video
 name=Borg vs McEnroe (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -2708,6 +2734,12 @@ name=Escape From Ensenada (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/al1qNvijPovSoY8EQ9UDhlTV329.jpg
 date=2018-01-20
 URL=https://openload.co/f/Srriw0F7R4g/Escape.from.Ensenada.2017.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Rise of the Footsoldier 3 (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/oFOE23tEe1ypuPiGpkHLBuXxMIB.jpg
+date=2018-01-21
+URL=https://uptobox.com/jp8wm6h8328o
 
 
 
@@ -2879,10 +2911,11 @@ URL=https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_
 
 
 type=video
-name=Thor: Ragnarok (2017) ENG NEW_HDHQ-Eng%21
+name=Thor: Ragnarok (2017) ENG WEB-DL.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
-date=2017-12-15
-URL=https://openload.co/f/JHfuEEGu_sY/Thor_Ragnarok_2017_NEW_HDHQ-Eng%21.mkv.mp4
+date=2018-01-21
+URL=https://openload.co/f/I4wPo-RMVZQ/Thor.Ragnarok.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/JHfuEEGu_sY/Thor_Ragnarok_2017_NEW_HDHQ-Eng%21.mkv.mp4
 #https://openload.co/f/ZACS8q6mjqE/Thor_Ragnarok_2017_NEW_FULL_HDCAM_ENG_X264-DADDY.mkv.mp4
 #https://openload.co/f/pxPD4dDpDnY/Thor_Ragnarok_2017_ENG_HDCAM_x264-JellyBean.mp4
 #https://openload.co/f/TJgCB67boIs/Thor_Ragnarok_2017_ENG_HDCAM_x264-NEXUS_%28few_minutes_are_spanish%29.mp4
