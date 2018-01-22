@@ -71,11 +71,8 @@ thumb=https://image.tmdb.org/t/p/w640/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
 date=2018-01-21
 URL=https://openload.co/f/I0a9aXjeZwo/Den.of.Thieves.2018.HDCAM.HQMIC.x264-DiRG.mp4
 
-type=video
-name=12 Strong (2018) ENG CAM.XViD-CMRG
-thumb=https://image.tmdb.org/t/p/w640/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
-date=2018-01-18
-URL=https://openload.co/f/hVOiY8yxQWg/12.Strong.2017.CAM.XViD-CMRG.avi.mp4
+
+
 
 type=video
 name=Pitch Perfect 3 (2017) ENG HDCAM
@@ -83,19 +80,14 @@ thumb=https://image.tmdb.org/t/p/w640/hQriQIpHUeh66I89gypFXtqEuVq.jpg
 date=2018-01-18
 URL=https://openload.co/f/ulAN5swR5RA/Pitch.Perfect.3.2017.HDCAM.MP4.mp4
 
-type=video
-name=The Commuter (2018) ENG HDCAM_REPACK_X264-DADDY
-thumb=https://image.tmdb.org/t/p/w640/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
-date=2018-01-18
-URL=https://openload.co/f/qQHqw_vax30/The_Commuter_2018_HDCAM_REPACK_X264-DADDY.mkv.mp4
-#https://openload.co/f/l_asVj98QaI/The.Commuter.2018.CAM.ENG.DADDY.mkv.mp4
-#https://openload.co/f/yq1GYYdbymo/Commuter.CAM.ENG_SeeHD.mkv.mp4
+
 
 type=video
-name=Proud Mary (2018) ENG CAMRIP_DVDKing
+name=Proud Mary (2018) ENG TS.XViD-BL4CKP34RL
 thumb=https://image.tmdb.org/t/p/w640/5luceoVMU2FzWuyty7mZFcSY5ZW.jpg
-date=2018-01-17
-URL=https://openload.co/f/UQh_JknDYSc/PROUD_MARY_CAMRIP_DVDKing.mp4
+date=2018-01-22
+URL=https://openload.co/f/lufCvF3aNfE/Proud.Mary.2018.TS.XViD-BL4CKP34RL.avi.mp4
+#https://openload.co/f/UQh_JknDYSc/PROUD_MARY_CAMRIP_DVDKing.mp4
 #https://openload.co/f/631orZ24xIw/Proud.Mary_CAMRIP.mp4
 
 type=video
@@ -202,12 +194,8 @@ URL=https://openload.co/f/X0yOzJfYXyA/Woody_Woodpecker_%282017%29.tshq.latino.mp
 
 
 
-type=video
-name=Bleeding Steel (2017) CHN HDTC.X264.AAC-Zi%24t
-thumb=https://image.tmdb.org/t/p/w640/z1O26qVwkhSlicycBBK731k8vPd.jpg
-date=2018-01-03
-URL=https://openload.co/f/rbcKgVNRwDo/Bleeding.Steel.2017.720P.HDTC.X264.AAC-Zi%24t.mkv.mp4
-#https://openload.co/f/haSIIRCGox8/BLEEDING_STEEL_2017_CAMRIP_X264_MP3_Zit.E.mp4
+
+
 
 type=video
 name=Just Getting Started (2017) ENG CAM.READNFO.XViD-26k
@@ -477,11 +465,7 @@ URL=https://openload.co/f/yVgtG2a2nqw/crooked.house.2017.dvdrip.x264-wide.mkv.mp
 
 
 
-type=video
-name=Sweet Virginia (2017) EMG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/s82fGiRhdgO2SRJiJ6dOCayKnSH.jpg
-date=2017-11-17
-URL=https://openload.co/f/A5fCQK1Abfg/Sweet.Virginia.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 type=video
 name=Cook-Off! (2017) ENG WEB-DL.DD5.1.H264-FGT
@@ -1193,7 +1177,12 @@ thumb=https://image.tmdb.org/t/p/w640/62oRA7ghxL9HGFHe5Dd9IVljyKi.jpg
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
-
+type=video
+name=Sweet Virginia (2017) EMG BRRip_XviD_AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/s82fGiRhdgO2SRJiJ6dOCayKnSH.jpg
+date=2018-01-22
+URL=https://openload.co/f/b3SPvcqc2x0/Sweet_Virginia_2017_BRRip_XviD_AC3-EVO.mp4
+#https://openload.co/f/A5fCQK1Abfg/Sweet.Virginia.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 
 
@@ -2818,6 +2807,31 @@ URL=http://203.162.235.41:17819
 
 
 
+type=video
+name=12 Strong (2018) ENG CAM.XViD-CMRG
+thumb=https://image.tmdb.org/t/p/w640/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
+date=2018-01-18
+URL=https://openload.co/f/hVOiY8yxQWg/12.Strong.2017.CAM.XViD-CMRG.avi.mp4
+type=video
+name=12 Strong (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w640/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
+date=2018-01-22
+URL=https://streamango.com/f/bcnspemlmbdmfcbk/12_Strong_2018_12_
+
+
+type=video
+name=The Commuter (2018) ENG HDCAM_REPACK_X264-DADDY
+thumb=https://image.tmdb.org/t/p/w640/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
+date=2018-01-18
+URL=https://openload.co/f/qQHqw_vax30/The_Commuter_2018_HDCAM_REPACK_X264-DADDY.mkv.mp4
+#https://openload.co/f/l_asVj98QaI/The.Commuter.2018.CAM.ENG.DADDY.mkv.mp4
+#https://openload.co/f/yq1GYYdbymo/Commuter.CAM.ENG_SeeHD.mkv.mp4
+type=video
+name=The Commuter (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w640/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
+date=2018-01-22
+URL=https://streamango.com/f/pbtbmqdafrscrmad/The_Commuter_2018_
+
 
 type=video
 name=Insidious: The Last Key (2018) ENG NEW_HDCAM_X264_HQ-CPG
@@ -2910,24 +2924,7 @@ URL=https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_
 
 
 
-type=video
-name=Thor: Ragnarok (2017) ENG WEB-DL.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
-date=2018-01-21
-URL=https://openload.co/f/I4wPo-RMVZQ/Thor.Ragnarok.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/JHfuEEGu_sY/Thor_Ragnarok_2017_NEW_HDHQ-Eng%21.mkv.mp4
-#https://openload.co/f/ZACS8q6mjqE/Thor_Ragnarok_2017_NEW_FULL_HDCAM_ENG_X264-DADDY.mkv.mp4
-#https://openload.co/f/pxPD4dDpDnY/Thor_Ragnarok_2017_ENG_HDCAM_x264-JellyBean.mp4
-#https://openload.co/f/TJgCB67boIs/Thor_Ragnarok_2017_ENG_HDCAM_x264-NEXUS_%28few_minutes_are_spanish%29.mp4
-#https://openload.co/f/6ZvZcs_wfXQ/Thor_Ragnarok_2017_NOLOGO_ENG_LQ_HDCAM.mp4
-#https://openload.co/f/N5CTkRYKr5g/Thor%3A_Ragnarok_2017_HDCAM_%5BLayar-21.com%5D.mp4
-#http://entervideo.net/watch/fbc6907370d0144
-type=video
-name=Thor: Ragnarok (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
-date=2017-11-19
-URL=https://openload.co/f/pY7IWR3c-Bg/Thor%3A_Ragnarok_%282017%29%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
-#https://openload.co/f/1Px-WShSrHo/Thor.Ragnarok.2017.720p.TS.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+
 
 
 
@@ -3017,11 +3014,45 @@ URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8
 type=video
 name=
 thumb=
-date=2018-01-19
+date=2018-01-22
 URL=
 
 
 
+type=video
+name=The Open House (2018) ENG webrip.x264-strife
+thumb=https://image.tmdb.org/t/p/w640/7JwdoLcbFWaeUBxKaoFulRVK8Ja.jpg
+date=2018-01-22
+URL=https://openload.co/f/4K4greTKYls/the.open.house.2018.720p.webrip.x264-strife.mkv.mp4
+type=video
+name=The Open House (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w640/7JwdoLcbFWaeUBxKaoFulRVK8Ja.jpg
+date=2018-01-22
+URL=https://streamango.com/f/omacqoeqfbtqftcl/The_Open_House_2018_
+
+
+type=video
+name=Step Sisters (2018) ENG webrip.x264-strife
+thumb=https://image.tmdb.org/t/p/w640/VPGylo06LKeONc5h0KMXnNkJYc.jpg
+date=2018-01-22
+URL=https://openload.co/f/9c48bpo1Uro/step.sisters.2018.720p.webrip.x264-strife.mkv.mp4
+type=video
+name=Step Sisters (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w640/VPGylo06LKeONc5h0KMXnNkJYc.jpg
+date=2018-01-22
+URL=https://streamango.com/f/qcqkmetnscrrtfdd/Step_Sisters_2018_
+
+
+type=video
+name=Godzilla: Monster Planet (2017) ENG 1080pHD_SeeHD
+thumb=https://image.tmdb.org/t/p/w640/iRBuVfdkeUCwDehfZ7Q7UQLyYFG.jpg
+date=2018-01-22
+URL=https://openload.co/f/nLcEgLkB-Qo/Godzilla.monster.planet.2017.ENG.1080pHD_SeeHD.mkv.mp4
+type=video
+name=Godzilla: Monster Planet (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/iRBuVfdkeUCwDehfZ7Q7UQLyYFG.jpg
+date=2018-01-22
+URL=https://streamango.com/f/rrcataoprotbbeoq/Godzilla_Monster_Planet_2017_1_mp4
 
 
 type=video
@@ -3654,10 +3685,11 @@ description=Jae-Hyeok (Kim Nam-Gil) lives with his mother (Kim Young-Ae), his si
 
 # 2767336
 type=video
-name=Gantz:O (2016) JAP bdrip.x264-regret
+name=Gantz:O (2016) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/fF33nRbgvxNgTTPUuNqNsRPYmxZ.jpg
-date=2018-01-20
-URL=https://openload.co/f/ZlnNpB93DFg/gantz.o.2016.bdrip.x264-regret.mkv.mp4
+date=2018-01-22
+URL=https://openload.co/f/u9oimkk4HDA/Gantz.o.2016.720p.br_SeeHD.mp4
+#https://openload.co/f/ZlnNpB93DFg/gantz.o.2016.bdrip.x264-regret.mkv.mp4
 type=video
 name=Gantz:O (2016) SUB
 thumb=http://image.tmdb.org/t/p/w500/fF33nRbgvxNgTTPUuNqNsRPYmxZ.jpg
@@ -3688,6 +3720,38 @@ URL=
 
 
 
+type=video
+name=Bleeding Steel (2017) CHN HDTC.X264.AAC-Zi%24t
+thumb=https://image.tmdb.org/t/p/w640/z1O26qVwkhSlicycBBK731k8vPd.jpg
+date=2018-01-03
+URL=https://openload.co/f/rbcKgVNRwDo/Bleeding.Steel.2017.720P.HDTC.X264.AAC-Zi%24t.mkv.mp4
+#https://openload.co/f/haSIIRCGox8/BLEEDING_STEEL_2017_CAMRIP_X264_MP3_Zit.E.mp4
+type=video
+name=Bleeding Steel (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/z1O26qVwkhSlicycBBK731k8vPd.jpg
+date=2018-01-22
+URL=https://streamango.com/f/taflormrmbkarraf/Bleeding_Steel_2017_
+
+
+type=video
+name=Thor: Ragnarok (2017) ENG WEB-DL.X264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
+date=2018-01-21
+URL=https://openload.co/f/I4wPo-RMVZQ/Thor.Ragnarok.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/JHfuEEGu_sY/Thor_Ragnarok_2017_NEW_HDHQ-Eng%21.mkv.mp4
+#https://openload.co/f/ZACS8q6mjqE/Thor_Ragnarok_2017_NEW_FULL_HDCAM_ENG_X264-DADDY.mkv.mp4
+#https://openload.co/f/pxPD4dDpDnY/Thor_Ragnarok_2017_ENG_HDCAM_x264-JellyBean.mp4
+#https://openload.co/f/TJgCB67boIs/Thor_Ragnarok_2017_ENG_HDCAM_x264-NEXUS_%28few_minutes_are_spanish%29.mp4
+#https://openload.co/f/6ZvZcs_wfXQ/Thor_Ragnarok_2017_NOLOGO_ENG_LQ_HDCAM.mp4
+#https://openload.co/f/N5CTkRYKr5g/Thor%3A_Ragnarok_2017_HDCAM_%5BLayar-21.com%5D.mp4
+#http://entervideo.net/watch/fbc6907370d0144
+type=video
+name=Thor: Ragnarok (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
+date=2018-01-22
+URL=https://streamango.com/f/fsknanmrcbmodqsm/Thor_Ragnarok_2017_
+#https://openload.co/f/pY7IWR3c-Bg/Thor%3A_Ragnarok_%282017%29%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+#https://openload.co/f/1Px-WShSrHo/Thor.Ragnarok.2017.720p.TS.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 
 
 type=video
