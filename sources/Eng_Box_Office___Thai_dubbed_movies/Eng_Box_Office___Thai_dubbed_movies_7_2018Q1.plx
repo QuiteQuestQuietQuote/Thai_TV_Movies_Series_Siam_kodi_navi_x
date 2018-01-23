@@ -59,7 +59,7 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=http://sd-3.blazefile.co/i/01/00002/36ahz29mjq27.jpg
-date=2018-01-18
+date=2018-01-23
 URL=http://sd-3.blazefile.co/2erdzmnydg3llhoyvghpyxoq3wcjgomv2nxoqpuid53if7z2e7cfehjghw2q/v.mp4
 
 
@@ -91,6 +91,12 @@ URL=https://openload.co/f/lufCvF3aNfE/Proud.Mary.2018.TS.XViD-BL4CKP34RL.avi.mp4
 #https://openload.co/f/631orZ24xIw/Proud.Mary_CAMRIP.mp4
 
 type=video
+name=Only the Brave (2017) ENG 1080p.WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg
+date=2018-01-23
+URL=https://openload.co/f/QahRdsUvBVo/Only.the.Brave.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
+type=video
 name=All the Money in the World (2017) ENG HDCAM.x264-DiRG
 thumb=https://image.tmdb.org/t/p/w640/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
 date=2018-01-17
@@ -98,10 +104,11 @@ URL=https://openload.co/f/Lefs8BNw8P0/All.the.Money.in.the.World.2017.HDCAM.x264
 #https://openload.co/f/T0HIxal98u0/All.the.Money.in.the.World.2017.CAM.AAC.x264-THESTiG.mp4
 
 type=video
-name=The Post (2017) ENG TS.XViD-BL4CKP34RL
+name=The Post (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
 thumb=https://image.tmdb.org/t/p/w640/5765ORvdKVX5bWmhEjjiOqLk3TH.jpg
-date=2018-01-17
-URL=https://openload.co/f/vPOCXYjcMkI/The.Post.2017.TS.XViD-BL4CKP34RL.avi.mp4
+date=2018-01-23
+URL=https://openload.co/f/uiHorXBPdL0/The.Post.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/vPOCXYjcMkI/The.Post.2017.TS.XViD-BL4CKP34RL.avi.mp4
 #https://openload.co/f/PZaWx9Hi3ZY/The.Post.2017.HDCAM.x264-DiRG.mp4
 #https://openload.co/f/_PnkG7ex6Ek/The_Post.HDCAM_SeeHD.mp4
 #https://openload.co/f/l55OhzL6WjA/The_Post_2017_ENG_HDCAM-X264-Zi%24t.mkv.mp4
@@ -181,6 +188,17 @@ date=2017-12-31
 URL=https://openload.co/f/FnpHjO5a37w/Downsizing.2017.TS.XViD-BL4CKP34RL.avi.mp4
 #https://openload.co/f/H8IXHlo5aCk/Downsizing.2017.CLEAN.720p.HDCAM.x264.AAC-NEXUS.mp4
 
+type=video
+name=Batman: Gotham by Gaslight (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/7souLi5zqQCnpZVghaXv0Wowi0y.jpg
+date=2018-01-23
+URL=https://openload.co/f/YWvx1iydB_4/Batman.Gotham.by.Gaslight.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
+type=video
+name=Cocaine Godmother: The Griselda Blanco Story (2018) ENG 720p.HDTV.x264-CRiMSON
+thumb=https://image.tmdb.org/t/p/w640/lk3npUUYxLJCyaSSQHqGlH64Qxk.jpg
+date=2018-01-23
+URL=https://openload.co/f/rjVaME-qvRQ/Cocaine.Godmother.The.Griselda.Blanco.Story.2018.720p.HDTV.x264-CRiMSON.mkv.mp4
 
 
 
@@ -251,10 +269,12 @@ URL=https://openload.co/f/FC1fJ8taIqA/Daddys.Home.2.2017.HDTS.x264-EZIS.mkv.mp4
 #https://openload.co/f/IfYB8OGuPfM/Daddys.Home.2.2017.ENG.720p.CAM.x264-NoGRP.mkv.mp4
 
 type=video
-name=Suburbicon (2017) ENG HDCAM_ENG_X264-DADDY
+name=Suburbicon (2017) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg
-date=2017-11-29
-URL=https://openload.co/f/o1StljESgxI/Suburbicon_2017_HDCAM_ENG_X264-DADDY.mkv.mp4
+date=2018-01-23
+URL=https://openload.co/f/bPs3KymYWeI/Suburbicon.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/bbq6q55gw-s/Suburbicon.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/o1StljESgxI/Suburbicon_2017_HDCAM_ENG_X264-DADDY.mkv.mp4
 #https://openload.co/f/r5XhzYpBWqc/Suburbicon.2017.Russian.CAMRip.1400MB-KOSHARA.avi.mp4
 
 type=video
@@ -308,10 +328,11 @@ URL=http://entervideo.net/watch/78214b8b8f6c507
 
 
 type=video
-name=Tragedy Girls (2017) RUS
+name=Tragedy Girls (2017) ENG WEB-DL.x264-RBB
 thumb=https://image.tmdb.org/t/p/w640/qMwuplUU4dg9JBBhgML42T6x0yJ.jpg
-date=2017-11-08
-URL=http://entervideo.net/watch/397e6cc4a8812c1
+date=2018-01-23
+URL=https://openload.co/f/vDUVLA8RLj0/Tragedy.Girls.2017.WEB-DL.x264-RBB.mp4
+#http://entervideo.net/watch/397e6cc4a8812c1
 
 type=video
 name=A Bad Moms Christmas (2017) ENG WEB-DL.X264.AC3-EVO
@@ -1177,12 +1198,7 @@ thumb=https://image.tmdb.org/t/p/w640/62oRA7ghxL9HGFHe5Dd9IVljyKi.jpg
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
-type=video
-name=Sweet Virginia (2017) EMG BRRip_XviD_AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/s82fGiRhdgO2SRJiJ6dOCayKnSH.jpg
-date=2018-01-22
-URL=https://openload.co/f/b3SPvcqc2x0/Sweet_Virginia_2017_BRRip_XviD_AC3-EVO.mp4
-#https://openload.co/f/A5fCQK1Abfg/Sweet.Virginia.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 
 
@@ -1267,12 +1283,29 @@ URL=https://www.blazefile.co/embed-h25coos10uwx.html
 type=video
 name=
 thumb=
-date=2018-01-21
+date=2018-01-23
 URL=
 
 
 
 
+
+type=video
+name=Sweet Virginia (2017) EMG BRRip_XviD_AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/s82fGiRhdgO2SRJiJ6dOCayKnSH.jpg
+date=2018-01-23
+URL=https://www.blazefile.co/embed-rnnm4y74e14c.html
+#https://uptobox.com/pobwcwqhjttj
+#https://openload.co/f/b3SPvcqc2x0/Sweet_Virginia_2017_BRRip_XviD_AC3-EVO.mp4
+#https://openload.co/f/A5fCQK1Abfg/Sweet.Virginia.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
+type=video
+name=American Satan (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/cr6ucnzCo7V3VP38tdqpShGp6jf.jpg
+date=2018-01-23
+URL=https://openload.co/f/xlJ0ohrm99A/American.Satan.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://www.blazefile.co/embed-ls8i26cpnpl9.html   720
+#https://uptobox.com/0q2edsn1acks   720
 
 type=video
 name=Almost Friends (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1303,14 +1336,18 @@ URL=https://uptobox.com/9akoxppajh20
 type=video
 name=Guardians (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/r1cJPzC85XsVOzai8MMG9Qe4AH6.jpg
-date=2018-01-20
-URL=https://openload.co/f/iprLmOE0Zfg/Guardians.2017.subbed.1080p.BluRay.x264-PFa.mkv.mp4
+date=2018-01-23
+URL=https://www.blazefile.co/embed-nnnbot58kukh.html
+#https://uptobox.com/8h8pqvz1os0a
+#https://openload.co/f/iprLmOE0Zfg/Guardians.2017.subbed.1080p.BluRay.x264-PFa.mkv.mp4
 
 type=video
 name=Maze (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/1eP7dpwRcjA8vfcyBhtZkYnNRi9.jpg
-date=2018-01-20
-URL=https://openload.co/f/UewOs2Pqm9s/Maze.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+date=2018-01-23
+URL=https://www.blazefile.co/embed-26e1sa9znj7u.html
+#https://uptobox.com/4h4uipvqwl39
+#https://openload.co/f/UewOs2Pqm9s/Maze.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
 name=Thank You for Your Service (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4157,8 +4194,9 @@ URL=https://www.blazefile.co/embed-pmqt6cvtsuub.html
 type=video
 name=The Girl with All the Gifts (2016) TH
 thumb=https://image.tmdb.org/t/p/w640/33IDooA29ctGHNE7gQW6cwbmRP3.jpg
-date=2018-01-19
-URL=https://streamango.com/f/dbtcdrpodpbknqsk/The_Girl_With_All_The_Gift_2016_mkv_mp4
+date=2018-01-23
+URL=https://openload.co/f/ODvNZSizqug/The_Girl_with_All_the_Gifts_%282016%29%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89.mp4
+#https://streamango.com/f/dbtcdrpodpbknqsk/The_Girl_With_All_The_Gift_2016_mkv_mp4
 
 
 type=video
