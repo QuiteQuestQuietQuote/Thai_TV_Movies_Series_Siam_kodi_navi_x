@@ -101,62 +101,62 @@ type=video
 name=disney_xd
 thumb=https://2.bp.blogspot.com/-RB3sfwT_fC8/WdLY9b4GVDI/AAAAAAAAAK0/40ZnF5mRd3oxV58RL8d0ZxGRQ4S9vu2uwCLcBGAs/s320/082.png
 date=2017-10-27
-URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/disney_xd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=wXK-PWj_glL2idyG2mWNww&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516601464
+URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/disney_xd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
 
 type=video
 name=discovery_kids
 thumb=https://1.bp.blogspot.com/-VpKu1sI935k/WdLY9riACjI/AAAAAAAAAK4/kpn7l2osiZAQcNCh3eNaL90Q-ooFonGjQCLcBGAs/s320/083.png
 date=2017-10-27
-URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/discovery_kids_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=wXK-PWj_glL2idyG2mWNww&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516601464
+URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/discovery_kids_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
 
 type=video
 name=nick_jr.
 thumb=https://3.bp.blogspot.com/-c149T86vmRA/WdLY924TXUI/AAAAAAAAAK8/x4_7fXCUMlcDXzHVWkHAe9RwERZFdnGBQCLcBGAs/s320/084.png
 date=2017-10-27
-URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/nick_jr._720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=wXK-PWj_glL2idyG2mWNww&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516601464
+URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/nick_jr._720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
 
 type=video
 name=toonami
 thumb=https://3.bp.blogspot.com/-lRwoqwg6yqU/WdLY-AcweSI/AAAAAAAAALA/dsPs3vJru_IDzhtl2-BF6RATcJt_i5zRACLcBGAs/s320/085.png
 date=2017-10-27
-URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/toonami_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=wXK-PWj_glL2idyG2mWNww&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516601464
+URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/toonami_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
 
 type=video
 name=baby_tv
 thumb=https://3.bp.blogspot.com/-Z_FqFnShzgM/WdLY-fXly3I/AAAAAAAAALE/41atST8e8DQ-U7Rz3k-VvKMLmwaSJwUJQCLcBGAs/s320/086.png
 date=2017-10-27
-URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/baby_tv_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=wXK-PWj_glL2idyG2mWNww&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516601464
+URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/baby_tv_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
 
 
 type=video
 name=true_spark_play
 thumb=https://4.bp.blogspot.com/-YJGcTAEdCKU/WdLY-p4mhYI/AAAAAAAAALI/yzVYBCwJuBcYW8pRtjwm-z50Tqzfd2JCQCLcBGAs/s320/087.png
 date=2017-10-27
-URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/true_spark_play_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=wXK-PWj_glL2idyG2mWNww&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516601464
+URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/true_spark_play_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
 
 type=video
 name=true_spark_jump
 thumb=https://1.bp.blogspot.com/-OUTgaBJbCuE/WdLY-wXGGfI/AAAAAAAAALM/rDZgKfog83spdMEwTFMvj1nEDK--Zox0wCLcBGAs/s320/088.png
 date=2017-10-27
-URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/true_spark_jump_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=wXK-PWj_glL2idyG2mWNww&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516601464
+URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/true_spark_jump_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
 
 type=video
 name=disney_channel
 thumb=https://4.bp.blogspot.com/-EGkqj3t0smM/WdLY_AXwyYI/AAAAAAAAALQ/zWnGkzwozA4c-AyUHkTmObw35554C4WGACLcBGAs/s320/089.png
 date=2017-10-27
-URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/disney_channel_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=wXK-PWj_glL2idyG2mWNww&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516601464
+URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/disney_channel_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
 
 type=video
 name=gang_cartoon
 thumb=https://1.bp.blogspot.com/-yY7SR9RrxlA/WdLY_chA2SI/AAAAAAAAALU/sP60MH5dpJk_AAxgx3gw03DyjFEmfviNgCLcBGAs/s320/090.png
 date=2017-10-27
-URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/gang_cartoon_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=wXK-PWj_glL2idyG2mWNww&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516601464
+URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/gang_cartoon_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
 
 type=video
 name=boomerang
 thumb=https://4.bp.blogspot.com/-gsdsoXl7MFs/WdLY_vP8X7I/AAAAAAAAALY/q87KmTd3JoA3QTT4lMZ5pVuWz3K4Red-wCLcBGAs/s320/091.png
 date=2017-10-27
-URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/boomerang_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=wXK-PWj_glL2idyG2mWNww&username=36462&password=3c45c84ed69524d943674b92dfac56da&e=1516601464
+URL=http://103.77.116.193:443/////////////////////////////////////////////////////////////////////////cartoon/boomerang_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
 
 
 
