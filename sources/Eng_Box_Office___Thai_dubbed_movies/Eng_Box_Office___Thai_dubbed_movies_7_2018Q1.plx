@@ -24,7 +24,7 @@ rating=-1.00
 type=video
 name=
 thumb=https://4.bp.blogspot.com/-q3FCvo_BtWw/WdLY23tF_4I/AAAAAAAAAJE/PnQtW3AhDKcpITTVadnjDOyrsx5Vcb-nQCLcBGAs/s320/054.png
-URL=http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
+URL=http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=ApMtdwq9VGs-0qm_6PL5Mw&username=20533&password=mmmmeb153dae136cfd2def1a&e=1516819245
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -34,19 +34,19 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-fON3PQ3epac/WdLY5DfEFmI/AAAAAAAAAJo/6vW7TQ_dVkIn26x9l9hx7kebzKg6AwS-ACLcBGAs/s320/063.png
-URL=http://103.77.116.193:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
+URL=http://103.77.116.193:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=ApMtdwq9VGs-0qm_6PL5Mw&username=20533&password=mmmmeb153dae136cfd2def1a&e=1516819245
 
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-gfLftrQzfyk/WdLY10QqpTI/AAAAAAAAAIw/hrCHo3pNsgkuvkL-X2uSqoQQwvo-0ioYgCLcBGAs/s320/049.png
 date=2017-09-22
-URL=http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
+URL=http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=ApMtdwq9VGs-0qm_6PL5Mw&username=20533&password=mmmmeb153dae136cfd2def1a&e=1516819245
 
 type=video
 name=
 thumb=https://2.bp.blogspot.com/-dd5bWZ-tL-k/WdLY5f19XsI/AAAAAAAAAJs/xvG608PIzGsMCA39j6DxYRhvFf_Tkr4mACLcBGAs/s320/064.png
 date=2017-10-29
-URL=http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
+URL=http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=ApMtdwq9VGs-0qm_6PL5Mw&username=20533&password=mmmmeb153dae136cfd2def1a&e=1516819245
 
 type=video
 name=
@@ -2785,7 +2785,7 @@ type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
 thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
 date=2017-10-10
-URL=http://103.77.116.193:443/movie/hbo_th_720p.stream/chunklist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
+URL=http://103.77.116.193:443/movie/hbo_th_720p.stream/chunklist.m3u8?st=ApMtdwq9VGs-0qm_6PL5Mw&username=20533&password=mmmmeb153dae136cfd2def1a&e=1516819245
 #http://27.254.154.154:1935/cinema/HBO.stream/playlist.m3u8
 player=default
 rating=-1.00
@@ -2793,13 +2793,13 @@ rating=-1.00
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
 thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://103.77.116.193:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
+URL=http://103.77.116.193:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=ApMtdwq9VGs-0qm_6PL5Mw&username=20533&password=mmmmeb153dae136cfd2def1a&e=1516819245
 #http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD (TH)[/COLOR]
 thumb=https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png
-URL=http://103.77.116.193:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
+URL=http://103.77.116.193:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?st=ApMtdwq9VGs-0qm_6PL5Mw&username=20533&password=mmmmeb153dae136cfd2def1a&e=1516819245
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE24[/COLOR]
@@ -2811,7 +2811,7 @@ URL=rtmp://tv01.thaizatv.com/drm/movie1
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______red_by_hbo[/COLOR]
 thumb=https://www.redbyhbo.com/images/redlogo-image.jpg
-URL=http://103.77.116.193:443/movie/red_by_hbo_720p.stream/chunklist.m3u8?st=HWETkupNHiTrddoz_KwfXQ&username=20533&password=mmmm282b8c48e416eb70dc1e&e=1516741570
+URL=http://103.77.116.193:443/movie/red_by_hbo_720p.stream/chunklist.m3u8?st=ApMtdwq9VGs-0qm_6PL5Mw&username=20533&password=mmmmeb153dae136cfd2def1a&e=1516819245
 #http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=sid&password=id695464846498
 #http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
