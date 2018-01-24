@@ -83,10 +83,11 @@ URL=https://openload.co/f/ulAN5swR5RA/Pitch.Perfect.3.2017.HDCAM.MP4.mp4
 
 
 type=video
-name=Proud Mary (2018) ENG TS.XViD-BL4CKP34RL
+name=Proud Mary (2018) ENG NEW_HD-TS_X264-CPG
 thumb=https://image.tmdb.org/t/p/w640/5luceoVMU2FzWuyty7mZFcSY5ZW.jpg
-date=2018-01-22
-URL=https://openload.co/f/lufCvF3aNfE/Proud.Mary.2018.TS.XViD-BL4CKP34RL.avi.mp4
+date=2018-01-24
+URL=https://openload.co/f/ASjDSaABhRk/Proud_Marry_2018_NEW_HD-TS_X264-CPG.mkv
+#https://openload.co/f/lufCvF3aNfE/Proud.Mary.2018.TS.XViD-BL4CKP34RL.avi.mp4
 #https://openload.co/f/UQh_JknDYSc/PROUD_MARY_CAMRIP_DVDKing.mp4
 #https://openload.co/f/631orZ24xIw/Proud.Mary_CAMRIP.mp4
 
@@ -97,10 +98,11 @@ date=2018-01-23
 URL=https://openload.co/f/QahRdsUvBVo/Only.the.Brave.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
-name=All the Money in the World (2017) ENG HDCAM.x264-DiRG
+name=All the Money in the World (2017) ENG CAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w640/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
-date=2018-01-17
-URL=https://openload.co/f/Lefs8BNw8P0/All.the.Money.in.the.World.2017.HDCAM.x264-DiRG.mp4
+date=2018-01-24
+URL=https://openload.co/f/F76f7gqp9_Y/All.the.Money.in.the.World.2017.CAM_SeeHD.mp4
+#https://openload.co/f/Lefs8BNw8P0/All.the.Money.in.the.World.2017.HDCAM.x264-DiRG.mp4
 #https://openload.co/f/T0HIxal98u0/All.the.Money.in.the.World.2017.CAM.AAC.x264-THESTiG.mp4
 
 type=video
@@ -149,10 +151,11 @@ date=2018-01-04
 URL=https://openload.co/f/mfpvZQIhOW4/Wonder.Wheel.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 
 type=video
-name=The Greatest Showman (2017)  ENG HDCAM_V.2_ENG_X264-DADDY
+name=The Greatest Showman (2017)  ENG HDCAM_ENG_X264-DADDY
 thumb=https://image.tmdb.org/t/p/w640/dfhztJRiElqmYW4kpvjYe1gENsD.jpg
-date=2018-01-20
-URL=https://openload.co/f/O708OmzRzsE/The_Greatest_Showman_2017_HDCAM_V.2_ENG_X264-DADDY.mkv.mp4
+date=2018-01-24
+URL=https://openload.co/f/SNCwiigOC4Y/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv
+#https://openload.co/f/O708OmzRzsE/The_Greatest_Showman_2017_HDCAM_V.2_ENG_X264-DADDY.mkv.mp4
 #https://openload.co/f/A-NUvRiEbTE/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv.mp4
 #https://openload.co/f/pEHfMHoX0xc/The.Greatest.Showman.2017.RUSSIAN.LANG.CAM.MoViE1K.mp4
 
@@ -203,10 +206,11 @@ URL=https://openload.co/f/rjVaME-qvRQ/Cocaine.Godmother.The.Griselda.Blanco.Stor
 
 
 type=video
-name=Woody Woodpecker (2017) LAT tshq.latino
+name=Woody Woodpecker (2017) ENG V2.HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/9crXSxVpQmw4kdmtKrvizmWwBG.jpg
-date=2017-12-23
-URL=https://openload.co/f/X0yOzJfYXyA/Woody_Woodpecker_%282017%29.tshq.latino.mp4
+date=2018-01-24
+URL=https://openload.co/f/VvIKyEzSb7A/Woody.Woodpecker.2017.V2.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/X0yOzJfYXyA/Woody_Woodpecker_%282017%29.tshq.latino.mp4
 
 
 
@@ -288,10 +292,11 @@ URL=https://openload.co/f/RqXwupoJyYY/Paddington_2_2017_720p_HDTS_x264_AC3_TiTAN
 #https://openload.co/f/O5MG7v4Xa2E/Paddington.2.2017.iTALiAN.LD.TELESYNC.XviD_CriMiNaL.mp4
 
 type=video
-name=Murder on the Orient Express (2017) ENG HCTC_SeeHD
+name=Murder on the Orient Express (2017) ENG 1080p.HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
-date=2018-01-20
-URL=https://openload.co/f/W3Ib0baMyac/Murder_on_the_Orient_Express_2017_HCTC_SeeHD.mkv.mp4
+date=2018-01-24
+URL=https://openload.co/f/tQIHPxK0iyo/Murder.on.the.Orient.Express.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/W3Ib0baMyac/Murder_on_the_Orient_Express_2017_HCTC_SeeHD.mkv.mp4
 #https://openload.co/f/Z-xgjsHstE8/Murder.On.The.Orient.Express.2017.CAM.XViD.V2-26k.avi.mp4
 #https://openload.co/f/Kw3jLB0wT6w/Murder_on_the_Orient_Express_%282017%29.ENG.CAM.H264.AC3-Zi%24t.mkv.mp4
 
@@ -344,7 +349,11 @@ URL=https://openload.co/f/gB2pAqB30EY/A_Bad_Moms_Christmas.2017.1080p.WEB-DL.X26
 #https://openload.co/f/s9JvJo8vRdM/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
 #https://openload.co/f/itxz3-_HMO0/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
 
-
+type=video
+name=9/11 (2017) ENG DVDRip.x264-PSYCHD
+thumb=https://image.tmdb.org/t/p/w640/pGkjEL7RkMogMI6aznsKmZOhd8I.jpg
+date=2018-01-24
+URL=https://openload.co/f/WA9zqyMmKlA/9.11.2017.DVDRip.x264-PSYCHD.mkv.mp4
 
 
 
@@ -370,7 +379,7 @@ URL=https://openload.co/f/gB2pAqB30EY/A_Bad_Moms_Christmas.2017.1080p.WEB-DL.X26
 type=video
 name=
 thumb=https://i0.wp.com/kod-hd.com/wp-content/uploads/2017/12/Fate-kaleid-liner-Prisma-Illya-Oath-Under-Snow-2017.jpg
-date=2018-01-05
+date=2018-01-24
 URL=https://www.rapidvideo.com/e/FMY9KG2J42
 
 
@@ -1250,11 +1259,7 @@ URL=https://openload.co/f/phEBgPTbT-Y/Diamond_Cartel_2017_HDRip_%5BLayar-21.com%
 player=default
 rating=-1.00
 
-type=video
-name=BPM (2017) FRE EngSub_WEB-DL_X264_AC3-24HD
-thumb=https://image.tmdb.org/t/p/w640/q6fohIpyfvUOgAmNPu5bUgMuojG.jpg
-date=2018-01-16
-URL=https://openload.co/f/ttUsyLrGoH8/BPM_Beats_Per_Minute_2017_EngSub_WEB-DL_X264_AC3-24HD.mkv.mp4
+
 
 type=video
 name=Arrhythmia (2017) RUS EngSub.WEB-DL
@@ -2767,6 +2772,15 @@ thumb=https://image.tmdb.org/t/p/w640/oFOE23tEe1ypuPiGpkHLBuXxMIB.jpg
 date=2018-01-21
 URL=https://uptobox.com/jp8wm6h8328o
 
+type=video
+name=BPM (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/q6fohIpyfvUOgAmNPu5bUgMuojG.jpg
+date=2018-01-24
+URL=https://openload.co/f/8EsLqE7gP68/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.x264-ZQ.mkv
+#https://openload.co/f/AxQONoO98ts/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.x264-ZQ.mkv   MKV6.1GB
+#https://openload.co/f/ttUsyLrGoH8/BPM_Beats_Per_Minute_2017_EngSub_WEB-DL_X264_AC3-24HD.mkv.mp4
+
+
 
 
 
@@ -3771,10 +3785,11 @@ URL=https://streamango.com/f/taflormrmbkarraf/Bleeding_Steel_2017_
 
 
 type=video
-name=Thor: Ragnarok (2017) ENG WEB-DL.X264.AC3-EVO
+name=Thor: Ragnarok (2017) ENG 1080p.WEB-DL_SeeHD
 thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
-date=2018-01-21
-URL=https://openload.co/f/I4wPo-RMVZQ/Thor.Ragnarok.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+date=2018-01-24
+URL=https://openload.co/f/FZ3mw-urIjo/Thor.Ragnarok.1080p.WEB-DL_SeeHD.mkv
+#https://openload.co/f/I4wPo-RMVZQ/Thor.Ragnarok.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/JHfuEEGu_sY/Thor_Ragnarok_2017_NEW_HDHQ-Eng%21.mkv.mp4
 #https://openload.co/f/ZACS8q6mjqE/Thor_Ragnarok_2017_NEW_FULL_HDCAM_ENG_X264-DADDY.mkv.mp4
 #https://openload.co/f/pxPD4dDpDnY/Thor_Ragnarok_2017_ENG_HDCAM_x264-JellyBean.mp4
@@ -3933,26 +3948,7 @@ date=2017-12-02
 URL=https://streamango.com/f/pqlbelmdakeoecca/Wind_River_2017_
 
 
-type=video
-name=The Foreigner (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
-date=2017-12-28
-URL=https://uptobox.com/svkjs90gabzm
-#https://openload.co/f/eprVMfHbycU/The.Foreigner.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/ncxJmiluv40/The.Foreigner.2017.1080p.WEBBBRip.x264-NEXTGEN.mkv.mp4
-#https://openload.co/f/UhUJ1n7obrQ/The.Foreigner.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/i3PUIrw5QUE/The_Foreigner_%282017%29_%5B720P_ENG_NEW_HC-TC%5D
-#https://openload.co/f/n6Qud5byQLs/The_Foreigner.2017.SUBBED.CAM.READNFO.XViD-26k.avi
-#https://openload.co/f/a858rraLqcg/The.Foreigner.2017.Hardcoded.CAM.H264.AC3-NoGRP
-#https://openload.co/f/-MrqwxOfRow/The.Foreigner.2017.CAM.H264.AC3-NoGRP.mkv
-#https://openload.co/f/_3n4kc7SkNQ/The_Foreigner_%282017%29_ENGLISH_CAM-H264-AC3-Zit.mkv.mp4
-type=video
-name=The Foreigner (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
-date=2017-12-02
-URL=https://streamango.com/f/pblsaqsboposetfo/The_Foreigner_2017_2_
-#https://streamango.com/f/btnooloqpakecqrr/The_Foreigner_2017_1080p_HC_WEBRip_x264_AAC2_0_mkv_mp4
-#https://openload.co/f/xnQIzCCvlFQ/The_Foreigner_%282017%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
 
 
 
@@ -4181,9 +4177,40 @@ URL=
 type=video
 name=
 thumb=
-date=2018-01-15
+date=2018-01-24
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
+
+
+
+type=video
+name=Who Gets the Dog? (2016) TH
+thumb=https://image.tmdb.org/t/p/w640/1Zl62Ws2GvttUiVu5iLkmYGiEgT.jpg
+date=2018-01-24
+URL=https://openload.co/f/ngq0oxgPC3k/Who_Gets_the_Dog%3F_%282016%29%E0%B8%AE%E0%B8%B9_%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%AA%E0%B9%8C_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%94%E0%B9%87%E0%B8%AD%E0%B8%81.mp4
+
+
+type=video
+name=The Foreigner (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
+date=2017-12-28
+URL=https://uptobox.com/svkjs90gabzm
+#https://openload.co/f/eprVMfHbycU/The.Foreigner.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/ncxJmiluv40/The.Foreigner.2017.1080p.WEBBBRip.x264-NEXTGEN.mkv.mp4
+#https://openload.co/f/UhUJ1n7obrQ/The.Foreigner.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/i3PUIrw5QUE/The_Foreigner_%282017%29_%5B720P_ENG_NEW_HC-TC%5D
+#https://openload.co/f/n6Qud5byQLs/The_Foreigner.2017.SUBBED.CAM.READNFO.XViD-26k.avi
+#https://openload.co/f/a858rraLqcg/The.Foreigner.2017.Hardcoded.CAM.H264.AC3-NoGRP
+#https://openload.co/f/-MrqwxOfRow/The.Foreigner.2017.CAM.H264.AC3-NoGRP.mkv
+#https://openload.co/f/_3n4kc7SkNQ/The_Foreigner_%282017%29_ENGLISH_CAM-H264-AC3-Zit.mkv.mp4
+type=video
+name=The Foreigner (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
+date=2018-01-24
+URL=https://openload.co/f/ywDO3CePnj4/The_Foreigner_%282017%292_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.mp4
+#https://streamango.com/f/pblsaqsboposetfo/The_Foreigner_2017_2_
+#https://streamango.com/f/btnooloqpakecqrr/The_Foreigner_2017_1080p_HC_WEBRip_x264_AAC2_0_mkv_mp4
+#https://openload.co/f/xnQIzCCvlFQ/The_Foreigner_%282017%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
 type=video
