@@ -91,11 +91,7 @@ URL=https://openload.co/f/ASjDSaABhRk/Proud_Marry_2018_NEW_HD-TS_X264-CPG.mkv
 #https://openload.co/f/UQh_JknDYSc/PROUD_MARY_CAMRIP_DVDKing.mp4
 #https://openload.co/f/631orZ24xIw/Proud.Mary_CAMRIP.mp4
 
-type=video
-name=Only the Brave (2017) ENG 1080p.WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg
-date=2018-01-23
-URL=https://openload.co/f/QahRdsUvBVo/Only.the.Brave.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=All the Money in the World (2017) ENG CAM_SeeHD
@@ -206,10 +202,11 @@ URL=https://openload.co/f/rjVaME-qvRQ/Cocaine.Godmother.The.Griselda.Blanco.Stor
 
 
 type=video
-name=Woody Woodpecker (2017) ENG V2.HDRip.XviD.AC3-EVO
+name=Woody Woodpecker (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/9crXSxVpQmw4kdmtKrvizmWwBG.jpg
-date=2018-01-24
-URL=https://openload.co/f/VvIKyEzSb7A/Woody.Woodpecker.2017.V2.HDRip.XviD.AC3-EVO.avi.mp4
+date=2018-01-25
+URL=https://openload.co/f/_u1FMyoGufI/Woody.Woodpecker.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/VvIKyEzSb7A/Woody.Woodpecker.2017.V2.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/X0yOzJfYXyA/Woody_Woodpecker_%282017%29.tshq.latino.mp4
 
 
@@ -333,21 +330,14 @@ URL=http://entervideo.net/watch/78214b8b8f6c507
 
 
 type=video
-name=Tragedy Girls (2017) ENG WEB-DL.x264-RBB
+name=Tragedy Girls (2017) ENG 720p.WEB_SeeHD
 thumb=https://image.tmdb.org/t/p/w640/qMwuplUU4dg9JBBhgML42T6x0yJ.jpg
-date=2018-01-23
-URL=https://openload.co/f/vDUVLA8RLj0/Tragedy.Girls.2017.WEB-DL.x264-RBB.mp4
+date=2018-01-25
+URL=https://openload.co/f/nbhpKgWL7Q8/Tragedy.girls.2017.720p.WEB_SeeHD.mp4
+#https://openload.co/f/vDUVLA8RLj0/Tragedy.Girls.2017.WEB-DL.x264-RBB.mp4
 #http://entervideo.net/watch/397e6cc4a8812c1
 
-type=video
-name=A Bad Moms Christmas (2017) ENG WEB-DL.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/gPNHolu7AGnrB7r5kvJRRTfwMFR.jpg
-date=2018-01-09
-URL=https://openload.co/f/gB2pAqB30EY/A_Bad_Moms_Christmas.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/PQom4-EK7ls/A_Bad_Moms_Christmas.2017.HDRip.XviD.AC3-EVO.mp4
-#https://openload.co/f/0WatHfN8KKw/A.Bad.Moms.Christmas.2017.NEW.720p.HDCAM.X264.AC3.HQ-DADDY.mkv.mp4
-#https://openload.co/f/s9JvJo8vRdM/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
-#https://openload.co/f/itxz3-_HMO0/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
+
 
 type=video
 name=9/11 (2017) ENG DVDRip.x264-PSYCHD
@@ -1288,15 +1278,33 @@ URL=https://www.blazefile.co/embed-h25coos10uwx.html
 type=video
 name=
 thumb=
-date=2018-01-23
+date=2018-01-25
 URL=
 
 
 
+type=video
+name=Song to Song (2017)  [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/rEvtGhNY2DQ4L8Ma6rpMhL6IbKM.jpg
+date=2018-01-25
+URL=https://www.blazefile.co/embed-1j6uwn6l6it3.html
 
 
 type=video
-name=Sweet Virginia (2017) EMG BRRip_XviD_AC3-EVO
+name=A Bad Moms Christmas (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/gPNHolu7AGnrB7r5kvJRRTfwMFR.jpg
+date=2018-01-25
+URL=https://openload.co/f/dBBN2g3nDrc/A.Bad.Moms.Christmas.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/f79GwZlDWvg/A.Bad.Moms.Christmas.2017.1080p.BluRay.x264-DRONES.mkv
+#https://openload.co/f/gB2pAqB30EY/A_Bad_Moms_Christmas.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/PQom4-EK7ls/A_Bad_Moms_Christmas.2017.HDRip.XviD.AC3-EVO.mp4
+#https://openload.co/f/0WatHfN8KKw/A.Bad.Moms.Christmas.2017.NEW.720p.HDCAM.X264.AC3.HQ-DADDY.mkv.mp4
+#https://openload.co/f/s9JvJo8vRdM/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
+#https://openload.co/f/itxz3-_HMO0/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
+#https://openload.co/f/wMFH7wlGkQE/A.Bad.Moms.Christmas.2017.1080p.BluRay.x264-DRONES.mkv   MKV7.7GB
+
+type=video
+name=Sweet Virginia (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/s82fGiRhdgO2SRJiJ6dOCayKnSH.jpg
 date=2018-01-23
 URL=https://www.blazefile.co/embed-rnnm4y74e14c.html
@@ -1307,8 +1315,10 @@ URL=https://www.blazefile.co/embed-rnnm4y74e14c.html
 type=video
 name=American Satan (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/cr6ucnzCo7V3VP38tdqpShGp6jf.jpg
-date=2018-01-23
-URL=https://openload.co/f/xlJ0ohrm99A/American.Satan.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+date=2018-01-25
+URL=https://www.blazefile.co/embed-855v9daqjbpm.html
+#https://uptobox.com/bbidy5k6a0om
+#https://openload.co/f/xlJ0ohrm99A/American.Satan.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://www.blazefile.co/embed-ls8i26cpnpl9.html   720
 #https://uptobox.com/0q2edsn1acks   720
 
@@ -2779,6 +2789,20 @@ date=2018-01-24
 URL=https://openload.co/f/8EsLqE7gP68/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.x264-ZQ.mkv
 #https://openload.co/f/AxQONoO98ts/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.x264-ZQ.mkv   MKV6.1GB
 #https://openload.co/f/ttUsyLrGoH8/BPM_Beats_Per_Minute_2017_EngSub_WEB-DL_X264_AC3-24HD.mkv.mp4
+
+type=video
+name=Only the Brave (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg
+date=2018-01-25
+URL=https://openload.co/f/9J5af1lw0oU/Only.the.Brave.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/QahRdsUvBVo/Only.the.Brave.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/7WSILpoqA5A/Only.the.Brave.2017.720p.BluRay.x264.DTS-HDC.mkv   MKV6.1GB
+
+type=video
+name=Scott Pilgrim vs. the World (2010) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/lafRuPbjEQrrHG9QEaoyV2znZC.jpg
+date=2018-01-25
+URL=https://uptobox.com/cthdww9q4vaf
 
 
 
