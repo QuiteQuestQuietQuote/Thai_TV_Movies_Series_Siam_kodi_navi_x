@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
+background=https://image.tmdb.org/t/p/w640/7GgZ6DGezkh3szFdvskH5XD4V0t.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_7_2018Q1
-logo=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
+logo=https://image.tmdb.org/t/p/w640/7GgZ6DGezkh3szFdvskH5XD4V0t.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/7GgZ6DGezkh3szFdvskH5XD4V0t.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, sockshare, fmovies, ganool, nanamovies./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
+thumb=https://image.tmdb.org/t/p/w640/7GgZ6DGezkh3szFdvskH5XD4V0t.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -59,19 +59,36 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=http://sd-3.blazefile.co/i/01/00002/36ahz29mjq27.jpg
-date=2018-01-23
+date=2018-01-27
 URL=http://sd-3.blazefile.co/2erdzmnydg3llhoyvghpyxoq3wcjgomv2nxoqpuid53if7z2e7cfehjghw2q/v.mp4
 
 
 
 
+
 type=video
-name=Den of Thieves (2018)
+name=Maze Runner: The Death Cure (2018) ENG CAM.ENG.x264-NoGRP
+thumb=https://image.tmdb.org/t/p/w640/7GgZ6DGezkh3szFdvskH5XD4V0t.jpg
+date=2018-01-27
+URL=https://openload.co/f/x3w1YyqQN2I/Maze.Runner.The.Death.Cure.2018.CAM.ENG.x264-NoGRP.MP4.mp4
+
+type=video
+name=Den of Thieves (2018) ENG HDCAM.HQMIC.x264-DiRG
 thumb=https://image.tmdb.org/t/p/w640/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
 date=2018-01-21
 URL=https://openload.co/f/I0a9aXjeZwo/Den.of.Thieves.2018.HDCAM.HQMIC.x264-DiRG.mp4
 
+type=video
+name=Please Stand By (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/uZSJFyW6GoEtQgukMa4MhL21V4p.jpg
+date=2018-01-27
+URL=https://openload.co/f/pxILgMUOINM/Please_Stand_By.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
+type=video
+name=The Clapper (2018) ENG 720p.WEB-DL.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w640/rjSxV0WID9u9GSUcFpT70EZfbUM.jpg
+date=2018-01-27
+URL=https://openload.co/f/9xfp6WPIibY/The_Clapper.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 
 type=video
@@ -181,17 +198,14 @@ URL=https://openload.co/f/O4T4tChlL8Y/The.Disaster.Artist.2017.DVDScr.XVID.AC3.H
 #https://openload.co/f/g9018UKAwrA/The_Disaster_Artist_2017_HDCAM_X264_HQMic-CPG.mkv.mp4
 
 type=video
-name=Downsizing (2017) ENG TS.XViD-BL4CKP34RL
+name=Downsizing (2017) ENG 1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT
 thumb=https://image.tmdb.org/t/p/w640/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
-date=2017-12-31
-URL=https://openload.co/f/FnpHjO5a37w/Downsizing.2017.TS.XViD-BL4CKP34RL.avi.mp4
+date=2018-01-27
+URL=https://openload.co/f/HFErJ2kdTP0/Downsizing.2017.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
+#https://openload.co/f/FnpHjO5a37w/Downsizing.2017.TS.XViD-BL4CKP34RL.avi.mp4
 #https://openload.co/f/H8IXHlo5aCk/Downsizing.2017.CLEAN.720p.HDCAM.x264.AAC-NEXUS.mp4
 
-type=video
-name=Batman: Gotham by Gaslight (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/7souLi5zqQCnpZVghaXv0Wowi0y.jpg
-date=2018-01-23
-URL=https://openload.co/f/YWvx1iydB_4/Batman.Gotham.by.Gaslight.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 type=video
 name=Cocaine Godmother: The Griselda Blanco Story (2018) ENG 720p.HDTV.x264-CRiMSON
@@ -248,12 +262,7 @@ thumb=https://image.tmdb.org/t/p/w640/65qvQ13CoNxIYHvxGXWFtKc93sX.jpg
 date=2017-12-03
 URL=https://openload.co/f/7ywKmj1Cbso/Atlantida.2O17.D.TS.14OOMB_KOSHARA.E.mp4
 
-type=video
-name=Roman J. Israel, Esq. (2017) ENG HDCAM.H264-Zi%24t
-thumb=https://image.tmdb.org/t/p/w640/8e5IGlLrVjwrlDcRtzSQkXhJFWl.jpg
-date=2017-12-02
-URL=https://openload.co/f/Sxn9_vuvfKM/Roman.J.Israel.Esq.2017.720p.ENG.HDCAM.H264-Zi%24t.mkv.mp4
-#https://openload.co/f/EtDmEWBVIow/Roman.J.Israel.Esq.2017.P.kol.TS.14OOMB_KOSHARA.E.mp4
+
 
 type=video
 name=Marrowbone (2017) RUS
@@ -269,14 +278,7 @@ URL=https://openload.co/f/FC1fJ8taIqA/Daddys.Home.2.2017.HDTS.x264-EZIS.mkv.mp4
 #https://openload.co/f/vpL7f9btUG4/Daddys.Home.2.2017.HDCAM.XVID.HQ.Hive-CM8.avi
 #https://openload.co/f/IfYB8OGuPfM/Daddys.Home.2.2017.ENG.720p.CAM.x264-NoGRP.mkv.mp4
 
-type=video
-name=Suburbicon (2017) ENG 1080p.WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg
-date=2018-01-23
-URL=https://openload.co/f/bPs3KymYWeI/Suburbicon.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/bbq6q55gw-s/Suburbicon.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/o1StljESgxI/Suburbicon_2017_HDCAM_ENG_X264-DADDY.mkv.mp4
-#https://openload.co/f/r5XhzYpBWqc/Suburbicon.2017.Russian.CAMRip.1400MB-KOSHARA.avi.mp4
+
 
 type=video
 name=Paddington 2 (2017) ENG HDTS_x264_AC3_TiTAN
@@ -368,13 +370,9 @@ URL=https://openload.co/f/WA9zqyMmKlA/9.11.2017.DVDRip.x264-PSYCHD.mkv.mp4
 
 type=video
 name=
-thumb=https://i0.wp.com/kod-hd.com/wp-content/uploads/2017/12/Fate-kaleid-liner-Prisma-Illya-Oath-Under-Snow-2017.jpg
-date=2018-01-24
-URL=https://www.rapidvideo.com/e/FMY9KG2J42
-
-
-
-
+thumb=
+date=2018-01-27
+URL=
 
 
 
@@ -385,7 +383,19 @@ URL=https://www.rapidvideo.com/e/FMY9KG2J42
 
 
 type=video
-name=Final Portrait (2017)
+name=The Neighbor (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w640/zxzqJIYhnBbG1ExRM2jQ1E6ckkb.jpg
+date=2018-01-27
+URL=https://openload.co/f/R_qB3U1HcU8/The.Neighbor.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
+type=video
+name=Accident Man (2018) ENG DVDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/jMRETC4nZ4rL0gBgRH7aPmbTGj6.jpg
+date=2018-01-27
+URL=https://openload.co/f/jRNgI6KShSc/Accident.Man.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Final Portrait (2017) ENG 1080p.NF.WEBRip.DDP.5.1.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w640/8hgqfshiwHcIoAk7uKckKcDVpv4.jpg
 date=2018-01-21
 URL=https://openload.co/f/_Zyb1K8QaAk/Final.Portrait.2017.1080p.NF.WEBRip.DDP.5.1.H264-CMRG.mkv.mp4
@@ -474,12 +484,7 @@ thumb=https://image.tmdb.org/t/p/w640/cf720YwBmp0roCVfBWjGXoWzZ6C.jpg
 date=2017-11-21
 URL=https://openload.co/f/MAjYkSAfDrw/Hangman.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=Crooked House (2017) ENG dvdrip.x264-wide
-thumb=https://image.tmdb.org/t/p/w640/3qbm4UsYoOEiJAmfKrgo0rLnfRI.jpg
-date=2018-01-18
-URL=https://openload.co/f/yVgtG2a2nqw/crooked.house.2017.dvdrip.x264-wide.mkv.mp4
-#https://openload.co/f/2O-YHDEXidA/Crooked.House.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 
 
@@ -543,7 +548,7 @@ type=video
 name=
 thumb=
 date=2017-12-03
-URL=https://www.rapidvideo.com/e/FMIUSI9ZAA&q=480p
+URL=
 
 
 type=video
@@ -1209,7 +1214,7 @@ URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-
 type=video
 name=
 thumb=
-date=2017-09-25
+date=2018-01-27
 URL=
 
 
@@ -1271,20 +1276,83 @@ URL=
 
 type=video
 name=
-thumb=https://ganool.se/wp-content/uploads/2017/11/High-Heel-Homicide-2017-227x323.jpg
+thumb=
 date=2017-11-27
-URL=https://www.blazefile.co/embed-h25coos10uwx.html
+URL=
 
 type=video
 name=
 thumb=
-date=2018-01-25
+date=2018-01-27
 URL=
 
 
+type=video
+name=Only the Brave (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg
+date=2018-01-25
+URL=https://www.blazefile.co/embed-i7n360g659k4.html
+#https://uptobox.com/k1c1pb6xeuor
+#https://openload.co/f/9J5af1lw0oU/Only.the.Brave.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/QahRdsUvBVo/Only.the.Brave.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/7WSILpoqA5A/Only.the.Brave.2017.720p.BluRay.x264.DTS-HDC.mkv   MKV6.1GB
+#https://openload.co/f/kH1h565RcWE/Only.The.Brave.2017.BDRip.x264-GECKOS.mkv.mp4
 
 type=video
-name=Song to Song (2017)  [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Roman J. Israel, Esq. (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/8e5IGlLrVjwrlDcRtzSQkXhJFWl.jpg
+date=2018-01-27
+URL=https://openload.co/f/MymMhXdgOME/Roman.J.Israel.Esq.2017.1080p.BluRay.x264-DRONES.mkv
+#https://openload.co/f/ZUcZ5UgqD80/Roman.J.Israel.Esq.2017.1080p.BluRay.x264-DRONES.mkv   MKV8.7GB
+#https://openload.co/f/Sxn9_vuvfKM/Roman.J.Israel.Esq.2017.720p.ENG.HDCAM.H264-Zi%24t.mkv.mp4
+#https://openload.co/f/EtDmEWBVIow/Roman.J.Israel.Esq.2017.P.kol.TS.14OOMB_KOSHARA.E.mp4
+
+type=video
+name=Batman: Gotham by Gaslight (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/7souLi5zqQCnpZVghaXv0Wowi0y.jpg
+date=2018-01-27
+URL=https://openload.co/f/8YpAKDVQFBc/Batman.Gotham.by.Gaslight.2018.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
+#https://openload.co/f/YWvx1iydB_4/Batman.Gotham.by.Gaslight.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://www.blazefile.co/embed-hihlu3imeqzp.html   720
+#https://uptobox.com/gxehvjqizrdp   720
+
+type=video
+name=God's Own Country (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/uKShYyGsleXAZ6e6gK5jF6Wa2tW.jpg
+date=2018-01-27
+URL=https://www.blazefile.co/embed-dpj83w2fio5e.html
+#https://uptobox.com/2ysyfsbd9q8i
+#https://openload.co/f/gBAx8SmLKss/Gods.Own.Country.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+
+type=video
+name=Scare Campaign (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/b5DqwR3vc2qlm4jEcxinu00yGYN.jpg
+date=2018-01-27
+URL=https://openload.co/f/6fkpHdgFcJQ/Scare.Campaign.2016.1080p.BluRay.x264-CURSE.mkv.mp4
+
+type=video
+name=Accident (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/8vyyORDQHodExFpKK3Cz2EsNChf.jpg
+date=2018-01-27
+URL=https://openload.co/f/g5nMGIBnEDI/Accident.2017.1080p.BluRay.x264-CURSE.mkv.mp4
+#https://www.blazefile.co/embed-dubdyr4uz2mb.html   720
+#https://uptobox.com/ubyfujug0bit   720
+
+type=video
+name=Suburbicon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg
+date=2018-01-27
+URL=https://www.blazefile.co/embed-humjtrd4zd8x.html
+#https://uptobox.com/susjkd4ldusx
+#https://openload.co/f/ihGgFiXY5sU/Suburbicon.2017.1080p.BluRay.x264-Replica.mkv.mp4
+#https://openload.co/f/bPs3KymYWeI/Suburbicon.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/bbq6q55gw-s/Suburbicon.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/o1StljESgxI/Suburbicon_2017_HDCAM_ENG_X264-DADDY.mkv.mp4
+#https://openload.co/f/r5XhzYpBWqc/Suburbicon.2017.Russian.CAMRip.1400MB-KOSHARA.avi.mp4
+
+
+type=video
+name=Song to Song (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/rEvtGhNY2DQ4L8Ma6rpMhL6IbKM.jpg
 date=2018-01-25
 URL=https://www.blazefile.co/embed-1j6uwn6l6it3.html
@@ -1294,7 +1362,9 @@ type=video
 name=A Bad Moms Christmas (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/gPNHolu7AGnrB7r5kvJRRTfwMFR.jpg
 date=2018-01-25
-URL=https://openload.co/f/dBBN2g3nDrc/A.Bad.Moms.Christmas.2017.1080p.Br_SeeHD.mp4
+URL=https://www.blazefile.co/embed-7r3e585n4q2p.html
+#https://uptobox.com/x95fwxg27uz4
+#https://openload.co/f/dBBN2g3nDrc/A.Bad.Moms.Christmas.2017.1080p.Br_SeeHD.mp4
 #https://openload.co/f/f79GwZlDWvg/A.Bad.Moms.Christmas.2017.1080p.BluRay.x264-DRONES.mkv
 #https://openload.co/f/gB2pAqB30EY/A_Bad_Moms_Christmas.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/PQom4-EK7ls/A_Bad_Moms_Christmas.2017.HDRip.XviD.AC3-EVO.mp4
@@ -1551,13 +1621,8 @@ URL=https://www.blazefile.co/embed-35r5o934pw3l.html
 #https://www.blazefile.co/embed-5rw8pszphiuv.html   web
 #https://www.blazefile.co/embed-lp53c59jf2vw.html   720
 
-type=video
-name=Breathe (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/wLu2N0QVfSpk10RJ17HLHyRUmww.jpg
-date=2017-12-21
-URL=https://www.blazefile.co/embed-k2lyzf0b0lvh.html
-#https://openload.co/f/4WI9mrrk0X8/Breathe.2017.720p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/nIYkXH6DkWM/breathe.2017.720p.blurayb.mp4
+
+
 
 type=video
 name=A Question of Faith (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2790,13 +2855,7 @@ URL=https://openload.co/f/8EsLqE7gP68/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.
 #https://openload.co/f/AxQONoO98ts/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.x264-ZQ.mkv   MKV6.1GB
 #https://openload.co/f/ttUsyLrGoH8/BPM_Beats_Per_Minute_2017_EngSub_WEB-DL_X264_AC3-24HD.mkv.mp4
 
-type=video
-name=Only the Brave (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg
-date=2018-01-25
-URL=https://openload.co/f/9J5af1lw0oU/Only.the.Brave.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
-#https://openload.co/f/QahRdsUvBVo/Only.the.Brave.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/7WSILpoqA5A/Only.the.Brave.2017.720p.BluRay.x264.DTS-HDC.mkv   MKV6.1GB
+
 
 type=video
 name=Scott Pilgrim vs. the World (2010) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -2804,6 +2863,23 @@ thumb=https://image.tmdb.org/t/p/w640/lafRuPbjEQrrHG9QEaoyV2znZC.jpg
 date=2018-01-25
 URL=https://uptobox.com/cthdww9q4vaf
 
+type=video
+name=Crooked House (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/n3Nwj7WrV42osuILi4ErBCoqkQl.jpg
+date=2018-01-27
+URL=https://www.blazefile.co/embed-7yyqmife4rqs.html
+#https://uptobox.com/y3mqmf3slnf0
+#https://openload.co/f/I2YDd2brFi4/crooked.house.2017.720p.bluray.x264-rovers.mkv.mp4
+#https://openload.co/f/yVgtG2a2nqw/crooked.house.2017.dvdrip.x264-wide.mkv.mp4
+#https://openload.co/f/2O-YHDEXidA/Crooked.House.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
+type=video
+name=All I See Is You (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/wc9MgFWuBl3VS72w6VtiZXTgN79.jpg
+date=2018-01-27
+URL=https://www.blazefile.co/embed-btrwmqfsibol.html
+#https://uptobox.com/qwblylvdp1sa
+#https://openload.co/f/uQ4W4rE1qZQ/All.I.See.Is.You.2017.LIMITED.BDRip.x264-DRONES.mkv.mp4
 
 
 
@@ -3851,6 +3927,12 @@ URL=https://streamango.com/f/dmmfmrrolmnaakkn/Jigsaw_2017_
 
 
 type=video
+name=24 Hours to Live (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/s6kwunWUi52EjNhep33sJ9uEnqX.jpg
+date=2018-01-27
+URL=https://www.blazefile.co/embed-b1ghmxgmqe2i.html
+#https://uptobox.com/3vtg540a8t8f
+type=video
 name=24 Hours to Live (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w640/s6kwunWUi52EjNhep33sJ9uEnqX.jpg
 date=2018-01-10
@@ -3981,27 +4063,6 @@ URL=https://streamango.com/f/pqlbelmdakeoecca/Wind_River_2017_
 
 
 
-type=video
-name=Geostorm (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
-date=2018-01-16
-URL=https://uptobox.com/9m3o8vig5x12
-#https://openload.co/f/phgX0WG1Ruo/Geostorm.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/GW_5F9YXfPA/Geostorm.2017.1080p.Br_SeeHD.mp4
-#https://openload.co/f/x6LBJVs6d6Y/Geostorm.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/LlMu3K9_im8/Geostorm.2017.720p.HDRip.KORSUB.x264.mp4
-#https://openload.co/f/WTrxZvQ3bcA/Geostorm.2017.CAM.XViD-26k.avi.mp4
-#https://openload.co/f/KoOE2nWVFFk/Geostorm_2017_CLEAN_SoundFix_HDCAM_ENG_X264_-_Feel.Free.mp4
-#https://openload.co/f/r8oWRvUiE7U/Geostorm_2017_HDCAM_ENG_X264-Feel_Free.mkv.mp4
-type=video
-name=Geostorm (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
-date=2018-01-04
-URL=https://streamango.com/f/lstmnmqllstskrtd/Geostorm_2017_WEB-DL_720p_mkv_mp4
-#https://openload.co/f/AtCIZGYKsHM/Geostorm_%282017%29%E0%B8%88%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1_%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B2%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1_V.2%29
-#https://streamango.com/f/beosqlaslklssmcc/Geostorm_mp4
-#https://openload.co/f/Tn46uIRSZrI/Geostorm_%282017%29_THCAM%E0%B8%88%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1_%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B2%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
-#https://openload.co/f/WD8CFEMyanY/Geostorm.2017.HDCAM.X264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 
 
 
@@ -4042,21 +4103,7 @@ URL=https://openload.co/f/5XvWdoNbUgg/My_Little_Pony%3A_The_Movie_%282017%29%E0%
 
 
 
-type=video
-name=Bushwick (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg
-date=2017-10-15
-URL=https://www.blazefile.co/embed-8m1mchh6s0zk.html
-#https://openload.co/f/5Mo7YmqYItA/Bushwick.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/XGJFoSBEAsk/Bushwick.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/QXzC2b2-FYM/bushwick.2017.720p.bluray.x264-eider.mkv.mp4
-type=video
-name=Bushwick (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg
-date=2017-11-01
-URL=https://openload.co/f/11bp7NHEOUo/%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/A0RjW5OUs0k/Bushwick.2017.1080p.WEB-DL.DD5.1.H264.ThaiRong5.1_CpT%40CtHts.mkv.mp4
-#https://openload.co/f/ec1xrtavae4/Bushwick_%282017%29%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+
 
 
 
@@ -4201,10 +4248,73 @@ URL=
 type=video
 name=
 thumb=
-date=2018-01-24
+date=2018-01-27
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
+
+
+type=video
+name=Breathe (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/wLu2N0QVfSpk10RJ17HLHyRUmww.jpg
+date=2017-12-21
+URL=https://www.blazefile.co/embed-k2lyzf0b0lvh.html
+#https://openload.co/f/4WI9mrrk0X8/Breathe.2017.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/nIYkXH6DkWM/breathe.2017.720p.blurayb.mp4
+type=video
+name=Breathe (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/wLu2N0QVfSpk10RJ17HLHyRUmww.jpg
+date=2018-01-27
+URL=https://openload.co/f/P7oJZj8TXm0/Breathe_%282017%29%E0%B9%83%E0%B8%88%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A5%E0%B9%83%E0%B8%88.mp4
+
+
+type=video
+name=Gintama (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/kZwyyazISEgJXVkhre00Kj7pvlf.jpg
+date=2018-01-27
+URL=https://openload.co/f/RsHYVJFL68U/Gintama_%282017%29%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%A1%E0%B8%B0_%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B9%E0%B9%84%E0%B8%A3_%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%94.mp4
+
+
+type=video
+name=Geostorm (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
+date=2018-01-16
+URL=https://uptobox.com/9m3o8vig5x12
+#https://openload.co/f/phgX0WG1Ruo/Geostorm.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/GW_5F9YXfPA/Geostorm.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/x6LBJVs6d6Y/Geostorm.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/LlMu3K9_im8/Geostorm.2017.720p.HDRip.KORSUB.x264.mp4
+#https://openload.co/f/WTrxZvQ3bcA/Geostorm.2017.CAM.XViD-26k.avi.mp4
+#https://openload.co/f/KoOE2nWVFFk/Geostorm_2017_CLEAN_SoundFix_HDCAM_ENG_X264_-_Feel.Free.mp4
+#https://openload.co/f/r8oWRvUiE7U/Geostorm_2017_HDCAM_ENG_X264-Feel_Free.mkv.mp4
+type=video
+name=Geostorm (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
+date=2018-01-27
+URL=https://openload.co/f/kfbMbhAgAu8/Geostorm_%282017%29%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B2%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+#https://streamango.com/f/lstmnmqllstskrtd/Geostorm_2017_WEB-DL_720p_mkv_mp4
+#https://openload.co/f/AtCIZGYKsHM/Geostorm_%282017%29%E0%B8%88%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1_%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B2%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1_V.2%29
+#https://streamango.com/f/beosqlaslklssmcc/Geostorm_mp4
+#https://openload.co/f/Tn46uIRSZrI/Geostorm_%282017%29_THCAM%E0%B8%88%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1_%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B2%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+#https://openload.co/f/WD8CFEMyanY/Geostorm.2017.HDCAM.X264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+
+
+type=video
+name=Bushwick (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg
+date=2017-10-15
+URL=https://www.blazefile.co/embed-8m1mchh6s0zk.html
+#https://openload.co/f/5Mo7YmqYItA/Bushwick.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/XGJFoSBEAsk/Bushwick.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/QXzC2b2-FYM/bushwick.2017.720p.bluray.x264-eider.mkv.mp4
+type=video
+name=Bushwick (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg
+date=2018-01-27
+URL=https://openload.co/f/mtNezVi0vNc/Bushwick_%282017%29%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87.mp4
+#https://openload.co/f/11bp7NHEOUo/%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/A0RjW5OUs0k/Bushwick.2017.1080p.WEB-DL.DD5.1.H264.ThaiRong5.1_CpT%40CtHts.mkv.mp4
+#https://openload.co/f/ec1xrtavae4/Bushwick_%282017%29%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
 type=video
