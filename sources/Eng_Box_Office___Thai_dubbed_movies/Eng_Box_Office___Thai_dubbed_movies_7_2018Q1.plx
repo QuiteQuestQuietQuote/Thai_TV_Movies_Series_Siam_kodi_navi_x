@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w640/7GgZ6DGezkh3szFdvskH5XD4V0t.jpg
+background=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_7_2018Q1
-logo=https://image.tmdb.org/t/p/w640/7GgZ6DGezkh3szFdvskH5XD4V0t.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/7GgZ6DGezkh3szFdvskH5XD4V0t.jpg
+logo=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+icon_playlist=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, sockshare, fmovies, ganool, nanamovies./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/7GgZ6DGezkh3szFdvskH5XD4V0t.jpg
+thumb=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -66,11 +66,7 @@ URL=http://sd-3.blazefile.co/2erdzmnydg3llhoyvghpyxoq3wcjgomv2nxoqpuid53if7z2e7c
 
 
 
-type=video
-name=Maze Runner: The Death Cure (2018) ENG CAM.ENG.x264-NoGRP
-thumb=https://image.tmdb.org/t/p/w640/7GgZ6DGezkh3szFdvskH5XD4V0t.jpg
-date=2018-01-27
-URL=https://openload.co/f/x3w1YyqQN2I/Maze.Runner.The.Death.Cure.2018.CAM.ENG.x264-NoGRP.MP4.mp4
+
 
 type=video
 name=Den of Thieves (2018) ENG HDCAM.HQMIC.x264-DiRG
@@ -1280,12 +1276,18 @@ thumb=
 date=2017-11-27
 URL=
 
-type=video
-name=
-thumb=
-date=2018-01-27
-URL=
 
+
+
+
+type=video
+name=The Good Catholic (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/iPvggWYCZblEG2ldObR6GHmkEjz.jpg
+date=2018-01-28
+URL=https://openload.co/f/Yg1dd-Rjd-s/The.Good.Catholic.2017.1080p.BluRay.x264-SADPANDA.mkv.mp4
+#https://openload.co/f/qWfYorrt0T0/The.Good.Catholic.2017.1080p.BluRay.x264-SADPANDA.mkv   MKV7.6GB
+#https://openload.co/f/N5tyfl_zQ1Y/The.Good.Catholic.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#https://openload.co/f/66JktCPMeHQ/The_Good_Catholic.2017.BRRip.XviD.AC3-iFT.avi.mp4
 
 type=video
 name=Only the Brave (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1425,6 +1427,8 @@ date=2018-01-23
 URL=https://www.blazefile.co/embed-nnnbot58kukh.html
 #https://uptobox.com/8h8pqvz1os0a
 #https://openload.co/f/iprLmOE0Zfg/Guardians.2017.subbed.1080p.BluRay.x264-PFa.mkv.mp4
+#https://openload.co/f/nxOSjBg61IE/The.Guardians.2017.720p.BluRay.x264-SADPANDA.mkv
+#https://openload.co/f/tvwnplb1a1A/The.Guardians.2017.720p.BluRay.x264-SADPANDA.mkv   MKV5.5GB
 
 type=video
 name=Maze (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1474,11 +1478,7 @@ URL=https://www.blazefile.co/embed-ej2kkiglwtlz.html
 #https://www.blazefile.co/embed-5tlyhglib8xb.html   720
 #https://uptobox.com/fbtl229eftmt   720
 
-type=video
-name=The Man from Earth: Holocene (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/2NAFA7ZyQqp2UDOddeoMPhravIQ.jpg
-date=2018-01-16
-URL=https://openload.co/f/HIyHcgzn51Q/The.Man.from.Earth.Holocene.2017.1080p.BluRay.x264-UNiVEARTH.mkv.mp4
+
 
 type=video
 name=Professor Marston & the Wonder Women (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1721,15 +1721,7 @@ URL=https://openload.co/f/FoP6s7fzvLk/blood.money.2017.1080p.bluray.x264-cinefil
 #https://openload.co/f/Z947PbKkzUY/Blood_Money_%282017%29.WEB-DL.XviD.AC3-FGT.avi.mp4
 #https://www.blazefile.co/embed-ww9xu14h4sgb.html   720
 
-type=video
-name=mother! (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
-date=2017-12-07
-URL=https://www.blazefile.co/embed-oa0xx9wyjzko.html
-#https://openload.co/f/JsWChINJj5g/Mother.2017.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/Lt3EdszGSKA/Mother%21.2017.HDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
-#https://www.blazefile.co/embed-p436sqhrx7hi.html   720
+
 
 type=video
 name=Victoria & Abdul (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2728,12 +2720,7 @@ URL=https://www.blazefile.co/embed-vi4gyzpwddsa.html
 
 
 
-type=video
-name=The Good Catholic (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/iPvggWYCZblEG2ldObR6GHmkEjz.jpg
-date=2017-11-05
-URL=https://openload.co/f/N5tyfl_zQ1Y/The.Good.Catholic.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-#https://openload.co/f/66JktCPMeHQ/The_Good_Catholic.2017.BRRip.XviD.AC3-iFT.avi.mp4
+
 
 type=video
 name=New Life (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -2881,6 +2868,18 @@ URL=https://www.blazefile.co/embed-btrwmqfsibol.html
 #https://uptobox.com/qwblylvdp1sa
 #https://openload.co/f/uQ4W4rE1qZQ/All.I.See.Is.You.2017.LIMITED.BDRip.x264-DRONES.mkv.mp4
 
+type=video
+name=The Odyssey (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BNzIzNjZiZGItNTI2NC00NDg5LTk1YjEtMTYwNWRjZTAwZTQwXkEyXkFqcGdeQXVyMTk2MzkwMw@@._V1_.jpg
+date=2018-01-28
+URL=https://openload.co/f/1hNffFeK07M/the.odyssey.2016.limited.720p.bluray.x264-usury.mkv.mp4
+
+type=video
+name=Cinderella the Cat (2017) [COLOR=FF00FF00]ITA BR 720p[/COLOR]
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BY2UzNjdiYTEtMjE4OC00MGQzLWFmYzgtNzcyOTkwYTMxNWNiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_SY1000_SX750_AL_.jpg
+date=2018-01-28
+URL=https://openload.co/f/HwdFY5pljiE/cinderella.the.cat.2017.720p.bluray.x264-bipolar.mkv.mp4
+
 
 
 
@@ -2956,6 +2955,17 @@ date=2017-10-28
 URL=http://203.162.235.41:17819
 
 
+
+type=video
+name=Maze Runner: The Death Cure (2018) ENG CAM.ENG.x264-NoGRP
+thumb=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+date=2018-01-27
+URL=https://openload.co/f/x3w1YyqQN2I/Maze.Runner.The.Death.Cure.2018.CAM.ENG.x264-NoGRP.MP4.mp4
+type=video
+name=Maze Runner: The Death Cure (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+date=2018-01-28
+URL=https://streamango.com/f/faknmfefssdmtdre/Maze_Runner_The_Death_Cure_2018_
 
 
 type=video
@@ -3035,10 +3045,11 @@ URL=https://streamango.com/f/fpebdeokmteqplkc/Ferdinand_2017_HD_Ferdinand_2017_H
 
 
 type=video
-name=Star Wars: The Last Jedi (2017) ENG TC_SeeHD
+name=Star Wars: The Last Jedi (2017) ENG 720p_HDTC_X264_-Superpila
 thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
-date=2018-01-13
-URL=https://openload.co/f/s42Q4dGOlIo/Star_Wars%3A_The_Last_Jedi_%282017%29.1080p.TC_SeeHD.mkv.mp4
+date=2018-01-28
+URL=https://openload.co/f/Xwf8NvT7BNc/Star_Wars_The_Last_Jedi_2017_720p_HDTC_X264_-Superpila.mkv.mp4
+#https://openload.co/f/s42Q4dGOlIo/Star_Wars%3A_The_Last_Jedi_%282017%29.1080p.TC_SeeHD.mkv.mp4
 #https://openload.co/f/LXbAGpyZFGM/Star_Wars_The_Last_Jedi_720P_New_HDTC_SeeHD.mp4
 #https://openload.co/f/kyTP9W4q7gY/Star.Wars.The.Last.Jedi.2017.E-SUB.HC-TS-X264-MP3-Zit.mp4
 #https://openload.co/f/UsQnyhGkctY/Star_Wars_The_Last_Jedi_%282017%29.720p.CAM_NEW_SOURCES_XViD-26k_avi_mp4
@@ -3165,9 +3176,47 @@ URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8
 type=video
 name=
 thumb=
-date=2018-01-22
+date=2018-01-28
 URL=
 
+type=video
+name=mother! (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
+date=2017-12-07
+URL=https://www.blazefile.co/embed-oa0xx9wyjzko.html
+#https://openload.co/f/JsWChINJj5g/Mother.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/Lt3EdszGSKA/Mother%21.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
+#https://www.blazefile.co/embed-p436sqhrx7hi.html   720
+type=video
+name=mother! (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
+date=2018-01-28
+URL=https://streamango.com/f/bfkcfcrrodtemlqa/mother_2017_
+
+
+type=video
+name=A Futile and Stupid Gesture (2018) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w640/kyHBeRgbbhs7kVrZYblVj9u2Xbd.jpg
+date=2018-01-28
+URL=https://openload.co/f/KWUW_tjxn80/A.Futile.and.Stupid.Gesture.2018.HDRip.XviD.AC3-EVO.avi.mp4
+type=video
+name=A Futile and Stupid Gesture (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w640/kyHBeRgbbhs7kVrZYblVj9u2Xbd.jpg
+date=2018-01-28
+URL=https://streamango.com/f/lbbbeonpreaqteqf/A_Futile_and_Stupid_Gesture_2018_
+
+
+type=video
+name=The Man from Earth: Holocene (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/2NAFA7ZyQqp2UDOddeoMPhravIQ.jpg
+date=2018-01-16
+URL=https://openload.co/f/HIyHcgzn51Q/The.Man.from.Earth.Holocene.2017.1080p.BluRay.x264-UNiVEARTH.mkv.mp4
+type=video
+name=The Man from Earth: Holocene (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w640/2NAFA7ZyQqp2UDOddeoMPhravIQ.jpg
+date=2018-01-28
+URL=https://streamango.com/f/frltsbbbkkofeffl/The_Man_from_Earth_Holocene_2017_
 
 
 type=video
@@ -4085,17 +4134,7 @@ URL=https://openload.co/f/bPl2nYIbsc0/Tell_Me_How_I_Die_%282016%29%E0%B8%99%E0%B
 
 
 
-type=video
-name=My Little Pony: The Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/15WbvKx7B7FiLZheK49Xc05oRIX.jpg
-date=2017-12-31
-URL=https://openload.co/f/46tGHZBzayA/My.Little.Pony.The.Movie.2017.1080p.BluRay.x264-Replica.mkv.mp4
-#https://openload.co/f/3nFF8giXD2A/My_Little_Pony%3A_The_Movie_%282017%29_720p_HDRip.mp4
-type=video
-name=My Little Pony: The Movie (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/15WbvKx7B7FiLZheK49Xc05oRIX.jpg
-date=2017-10-16
-URL=https://openload.co/f/5XvWdoNbUgg/My_Little_Pony%3A_The_Movie_%282017%29%E0%B8%A1%E0%B8%B2%E0%B8%A2_%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B9%89%E0%B8%A5_%E0%B9%82%E0%B8%9E%E0%B8%99%E0%B8%B5%E0%B9%88_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
 
 
 
@@ -4160,18 +4199,7 @@ rating=-1.00
 description=In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history./description
 
 
-type=video
-name=Overdrive (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
-date=2017-10-06
-URL=https://www.blazefile.co/embed-sexo4bf5s5c1.html
-#https://openload.co/f/nk5QA-pH9oc/Overdrive.2017.720p.WEB-DL.X264.AC3-EVO.mp4
-#https://openload.co/f/c-CIP1tM8Wk/Overdrive.2017.1080p.WEB-DL.DD5.1.H264_CpT%40CtHts.mkv.mp4
-type=video
-name=Overdrive (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
-date=2017-10-10
-URL=https://openload.co/f/9o0qqqC-HkQ/Overdrive_%282017%29%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%84%E0%B8%A1%E0%B8%A5%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+
 
 
 
@@ -4237,7 +4265,7 @@ thumb=
 date=2017-09-17
 URL=http://bjdobr14.s.llnwi.net/v1/3979/T11/13/Murder%20on%20the%20Orient%20Express%201974%20Watch%20Online%20_%238211%3B%20Watch%20Movies%20for%20Free%20_%238211%3B%20Seehd.ws.MP4
 			
-			
+		
 
 type=video
 name=
@@ -4252,6 +4280,35 @@ date=2018-01-27
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
+
+type=video
+name=My Little Pony: The Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/15WbvKx7B7FiLZheK49Xc05oRIX.jpg
+date=2017-12-31
+URL=https://uptobox.com/dpxh6d48ewny
+#https://openload.co/f/46tGHZBzayA/My.Little.Pony.The.Movie.2017.1080p.BluRay.x264-Replica.mkv.mp4
+#https://openload.co/f/3nFF8giXD2A/My_Little_Pony%3A_The_Movie_%282017%29_720p_HDRip.mp4
+type=video
+name=My Little Pony: The Movie (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/15WbvKx7B7FiLZheK49Xc05oRIX.jpg
+date=2018-01-28
+URL=https://openload.co/f/zDCoLtzXz04/My_Little_Pony%3A_The_Movie_%282017%29%E0%B8%A1%E0%B8%B2%E0%B8%A2_%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B9%89%E0%B8%A5_%E0%B9%82%E0%B8%9E%E0%B8%99%E0%B8%B5%E0%B9%88_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88.mp4
+#https://openload.co/f/5XvWdoNbUgg/My_Little_Pony%3A_The_Movie_%282017%29%E0%B8%A1%E0%B8%B2%E0%B8%A2_%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B9%89%E0%B8%A5_%E0%B9%82%E0%B8%9E%E0%B8%99%E0%B8%B5%E0%B9%88_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
+type=video
+name=Overdrive (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
+date=2017-10-06
+URL=https://www.blazefile.co/embed-sexo4bf5s5c1.html
+#https://openload.co/f/nk5QA-pH9oc/Overdrive.2017.720p.WEB-DL.X264.AC3-EVO.mp4
+#https://openload.co/f/c-CIP1tM8Wk/Overdrive.2017.1080p.WEB-DL.DD5.1.H264_CpT%40CtHts.mkv.mp4
+type=video
+name=Overdrive (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
+date=2018-01-28
+URL=https://openload.co/f/RedG5MoGsxk/Overdrive_%282017%29%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%84%E0%B8%A1%E0%B8%A5%E0%B9%8C.mp4
+#https://openload.co/f/9o0qqqC-HkQ/Overdrive_%282017%29%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%84%E0%B8%A1%E0%B8%A5%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
 type=video
@@ -4271,8 +4328,9 @@ URL=https://openload.co/f/P7oJZj8TXm0/Breathe_%282017%29%E0%B9%83%E0%B8%88%E0%B8
 type=video
 name=Gintama (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/kZwyyazISEgJXVkhre00Kj7pvlf.jpg
-date=2018-01-27
-URL=https://openload.co/f/RsHYVJFL68U/Gintama_%282017%29%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%A1%E0%B8%B0_%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B9%E0%B9%84%E0%B8%A3_%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%94.mp4
+date=2018-01-28
+URL=https://openload.co/f/z7RfDtw3hTw/Gintama_%282017%29%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%A1%E0%B8%B0%3A_%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B9%E0%B9%84%E0%B8%A3%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%94.mp4
+#https://openload.co/f/RsHYVJFL68U/Gintama_%282017%29%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%A1%E0%B8%B0_%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B9%E0%B9%84%E0%B8%A3_%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%94.mp4
 
 
 type=video
@@ -4290,8 +4348,9 @@ URL=https://uptobox.com/9m3o8vig5x12
 type=video
 name=Geostorm (2017) TH
 thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
-date=2018-01-27
-URL=https://openload.co/f/kfbMbhAgAu8/Geostorm_%282017%29%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B2%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+date=2018-01-28
+URL=https://openload.co/f/GLQmDKeks_w/Geostorm_%282017%29%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B2%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+#https://openload.co/f/kfbMbhAgAu8/Geostorm_%282017%29%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B2%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 #https://streamango.com/f/lstmnmqllstskrtd/Geostorm_2017_WEB-DL_720p_mkv_mp4
 #https://openload.co/f/AtCIZGYKsHM/Geostorm_%282017%29%E0%B8%88%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1_%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B2%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1_V.2%29
 #https://streamango.com/f/beosqlaslklssmcc/Geostorm_mp4
