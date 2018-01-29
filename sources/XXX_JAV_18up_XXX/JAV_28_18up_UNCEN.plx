@@ -986,87 +986,87 @@ type=video
 name=44xxxxxxxxxxxxxxxxxxxx1PONDO 090916-379 Aya Kisaki
 thumb=http://javsex.net/wp-content/uploads/2016/10/6248.jpg
 date=2017-10-18
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6248.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6248.mp4
 
 type=video
 name=Tokyo Hot N1179 Weather Forecaster Pussy Flood Alert
 thumb=http://javsex.net/wp-content/uploads/2016/10/6249.jpg
 date=2017-10-18
-URL=http://stream.yamvideo.com/thz3678e/003/appid-6249.mp4
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6249.mp4
 
 type=video
 name=HEYZO-1259 Last Shine. Farewell Yuri, The Charming Av Actress
 thumb=http://javsex.net/wp-content/uploads/2016/10/6252.jpg
 date=2017-10-18
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6252.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6252.mp4
 
 type=video
 name=CARIBPR 091016-700 Yui Nishikawa
 thumb=http://javsex.net/wp-content/uploads/2016/10/6253.jpg
 date=2017-10-18
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6253.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6253.mp4
 
 type=video
 name=10MU 091416-01 Chie Aikawa
 thumb=http://javsex.net/wp-content/uploads/2016/10/6256.jpg
 date=2017-10-18
-URL=http://stream.yamvideo.com/thz3678e/003/appid-6256.mp4
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6256.mp4
 
 
 type=video
 name=CARIB 091016-254 Rion Ichijo
 thumb=http://javsex.net/wp-content/uploads/2016/10/6245.jpg
 date=2017-10-18
-URL=http://stream.yamvideo.com/thz3678e/003/appid-6245.mp4
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6245.mp4
 
 type=video
 name=HEYZO-1271 Creampie Prank. Sneaky No Condom Sex Vol.2
 thumb=http://javsex.net/wp-content/uploads/2016/10/6303.jpg
 date=2017-10-18
-URL=http://stream.yamvideo.com/thz3678e/003/appid-6303.mp4
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6303.mp4
 
 type=video
 name=Caribpr 091616-012 Ruka Kanae
 thumb=http://javsex.net/wp-content/uploads/2016/10/6293.jpg
 date=2017-10-18
-URL=http://stream.yamvideo.com/thz3678e/003/appid-6293.mp4
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6293.mp4
 
 type=video
 name=HEYZO-1269 Hitotsumami. Rich Wife And Young Dick
 thumb=http://javsex.net/wp-content/uploads/2016/10/6304.jpg
 date=2017-10-18
-URL=http://stream.yamvideo.com/thz3678e/003/appid-6304.mp4
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6304.mp4
 
 type=video
 name=Caribpr 091616-008 Ayumi Shinoda
 thumb=http://javsex.net/wp-content/uploads/2016/10/6297.jpg
 date=2017-10-18
-URL=http://stream.yamvideo.com/thz3678e/003/appid-6297.mp4
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6297.mp4
 
 
 type=video
 name=Caribpr 091616-011 Hitomi Kitagawa
 thumb=http://javsex.net/wp-content/uploads/2016/10/6294.jpg
 date=2017-10-18
-URL=http://stream.yamvideo.com/thz3678e/003/appid-6294.mp4
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6294.mp4
 
 type=video
 name=Caribpr 091616-010 Kaori Maeda 
 thumb=http://javsex.net/wp-content/uploads/2016/10/6295.jpg
 date=2017-10-18
-URL=http://stream.yamvideo.com/thz3678e/003/appid-6295.mp4
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6295.mp4
 
 type=video
 name=Caribpr 091616-009 Yuu Asakura
 thumb=http://javsex.net/wp-content/uploads/2016/10/6296.jpg
 date=2017-10-18
-URL=http://stream.yamvideo.com/thz3678e/003/appid-6296.mp4
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6296.mp4
 
 type=video
 name=10mu 091716-01 Sakurai Ryohana
 thumb=http://javsex.net/wp-content/uploads/2016/10/6307.jpg
 date=2017-10-18
-URL=http://stream.yamvideo.com/thz3678e/003/appid-6307.mp4
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6307.mp4
 
 
 
@@ -1077,31 +1077,31 @@ type=video
 name=30xxxxxxxxxxxxxxxxxxxxxCaribpr 091616-013 Maya Kawamura
 thumb=http://javsex.net/wp-content/uploads/2016/10/6292.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/007-op/appid-24245.mp4
+URL=http://s789.yamvideo.com/thz3675e/007-op/appid-24245.mp4
 
 type=video
 name=Caribpr 091616-007 Ai Uehara
 thumb=http://javsex.net/wp-content/uploads/2016/10/6298.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3678e/003/appid-6298.mp4
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6298.mp4
 
 type=video
 name=Caribpr 091616-006 Nozomi Asou
 thumb=http://javsex.net/wp-content/uploads/2016/10/6299.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3678e/003/appid-6299.mp4
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6299.mp4
 
 type=video
 name=HEYZO-1272 Airi Mashiro
 thumb=http://javsex.net/wp-content/uploads/2016/10/6302.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3678e/003/appid-6302.mp4
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6302.mp4
 
 type=video
 name=Caribpr 091616-015 Chihiro Akino
 thumb=http://javsex.net/wp-content/uploads/2016/10/6311.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3678e/003/appid-6311.mp4
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6311.mp4
 
 
 
@@ -1109,31 +1109,31 @@ type=video
 name=Heyzo-1282 – Hina Kuraki
 thumb=http://javsex.net/wp-content/uploads/2016/10/6371.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6371.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6371.mp4
 
 type=video
 name=Tokyo Hot K1375 Go Hunting!
 thumb=http://javsex.net/wp-content/uploads/2016/10/6372.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6372.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6372.mp4
 
 type=video
 name=Tokyo Hot N1186 Office Woker Painful Punishment
 thumb=http://javsex.net/wp-content/uploads/2016/10/6373.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6373.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6373.mp4
 
 type=video
 name=Carib-092016-262 – Rin Aoki
 thumb=http://javsex.net/wp-content/uploads/2016/10/6375.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6375.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6375.mp4
 
 type=video
 name=Heyzo-1274 – Busty Housekeeper, Rina
 thumb=http://javsex.net/wp-content/uploads/2016/10/6387.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6387.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6387.mp4
 
 
 
@@ -1141,31 +1141,31 @@ type=video
 name=Heyzo-1276 Sensitive Milf Gets Tickled In Bed
 thumb=http://javsex.net/wp-content/uploads/2016/10/6388.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6388.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6388.mp4
 
 type=video
 name=Heyzo-1277 Yukina Kiryu
 thumb=http://javsex.net/wp-content/uploads/2016/10/6389.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/002/appid-22468.mp4
+URL=http://s789.yamvideo.com/thz3675e/002/appid-22468.mp4
 
 type=video
 name=Heyzo-1278 Creampie Prank. Sneaky No Condom Sex Vol.3
 thumb=http://javsex.net/wp-content/uploads/2016/10/6390.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6390.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6390.mp4
 
 type=video
 name=Tokyo Hot N1183 Beauty Announcer Slave Training
 thumb=http://javsex.net/wp-content/uploads/2016/10/6391.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6391.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6391.mp4
 
 type=video
 name=Tokyo Hot N1184 Cute Girl Hard Punishment
 thumb=http://javsex.net/wp-content/uploads/2016/10/6392.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3678e/003/appid-6392.mp4
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6392.mp4
 
 
 
@@ -1176,93 +1176,93 @@ type=video
 name=15xxxxxxxxxxxxxxxxxxxxCaribpr-100116-005 – Kokone Mizutani
 thumb=http://javsex.net/wp-content/uploads/2016/10/6386.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3678e/003/appid-6386.mp4
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6386.mp4
 
 type=video
 name=Paco-092416-171 – Yuri Arimura
 thumb=http://javsex.net/wp-content/uploads/2016/10/6376.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6376.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6376.mp4
 
 type=video
 name=Carib-092416-266 Rina Misuzu
 thumb=http://javsex.net/wp-content/uploads/2016/10/6377.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6377.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6377.mp4
 
 type=video
 name=Carib-092816-269 – Noriko Igarashi
 thumb=http://javsex.net/wp-content/uploads/2016/10/6367.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6367.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6367.mp4
 
 type=video
 name=Carib-092516-267 – Ameri Koshikawa
 thumb=http://javsex.net/wp-content/uploads/2016/10/6379.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6379.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6379.mp4
 
 
 type=video
 name=Carib-093016-271 Moe Osaki
 thumb=http://javsex.net/wp-content/uploads/2016/10/6368.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6368.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6368.mp4
 
 type=video
 name=Paco-092716-172 – Jumori Kasumi
 thumb=http://javsex.net/wp-content/uploads/2016/10/6380.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6380.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6380.mp4
 
 type=video
 name=Heyzo-1280 – Sex With My Dirty Neighbor
 thumb=http://javsex.net/wp-content/uploads/2016/10/6369.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6369.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6369.mp4
 
 type=video
 name=Carib-092716-268 – Harua Narimiya
 thumb=http://javsex.net/wp-content/uploads/2016/10/6381.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6381.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6381.mp4
 
 type=video
 name=Heyzo-1281 – Hitotsumami. Busty Milf Gets Dirty
 thumb=http://javsex.net/wp-content/uploads/2016/10/6370.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6370.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6370.mp4
 
 
 type=video
 name=Paco-092916-173 – Noah Yonekura
 thumb=http://javsex.net/wp-content/uploads/2016/10/6360.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6360.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6360.mp4
 
 type=video
 name=Carib-092916-270 – Megu Memezawa For Manko Lovers
 thumb=http://javsex.net/wp-content/uploads/2016/10/6361.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6361.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6361.mp4
 
 type=video
 name=Paco-093016-174 – Yuko Yoshikawa
 thumb=http://javsex.net/wp-content/uploads/2016/10/6362.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6362.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6362.mp4
 
 type=video
 name=Paco-100116-175 – Anri Shimamura
 thumb=http://javsex.net/wp-content/uploads/2016/10/6364.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6364.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6364.mp4
 
 type=video
 name=10mu-093016-01 – Ayumi Ono
 thumb=http://javsex.net/wp-content/uploads/2016/10/6365.jpg
 date=2017-10-16
-URL=http://stream.yamvideo.com/thz3675e/006/appid-6365.mp4
+URL=http://s789.yamvideo.com/thz3675e/006/appid-6365.mp4
 
 
 

@@ -343,69 +343,69 @@ type=video
 name=Nhdta-639 Oyakodon 3 Side By Side The Mother That Are No Longer Kobame Is Seen The Embarrassing Appearance And Next To The House Of The Daughter Was Excited By His Mother Of Gonzo Videos That Had Entered The Personal Computer
 thumb=http://javsex.net/wp-content/uploads/2017/01/10688.jpg
 date=2017-12-28
-URL=http://stream.yamvideo.com/thz3675e/004/appid-10688.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10688.mp4
 
 type=video
 name=Club-138 Haneda Ca Professional Bodywork Practitioner Institute X 
 thumb=http://javsex.net/wp-content/uploads/2017/01/10667.jpg
 date=2017-12-28
-URL=http://stream.yamvideo.com/thz3675e/007-op/appid-10667.mp4
+URL=http://s789.yamvideo.com/thz3675e/007-op/appid-10667.mp4
 
 type=video
 name=Chn-076 New Absolute Girl, We Will Lend You Act 41 Ueno Rina 
 thumb=http://javsex.net/wp-content/uploads/2017/01/10657.jpg
 date=2017-12-28
-URL=http://stream.yamvideo.com/thz3675e/007-op/appid-10657.mp4
+URL=http://s789.yamvideo.com/thz3675e/007-op/appid-10657.mp4
 
 type=video
 name=Club-061 Ochanomizu Ol Professional Massage Practitioner Hospital Iv 
 thumb=http://javsex.net/wp-content/uploads/2017/01/10658.jpg
 date=2017-12-28
-URL=http://stream.yamvideo.com/thz3675e/007-op/appid-10658.mp4
+URL=http://s789.yamvideo.com/thz3675e/007-op/appid-10658.mp4
 
 
 type=video
 name=Svdvd-417 Tide In All Of Its 10 Volley Out New Female Teacher Machine Vibe Torture Aphrodisiac Triangular Wooden Horse Danger During The Daytidetide 8 Kan39nami Multi Ichihana
 thumb=http://javsex.net/wp-content/uploads/2017/01/10648.jpg
 date=2017-12-28
-URL=http://stream.yamvideo.com/thz3675e/004/appid-10648.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10648.mp4
 
 type=video
 name=Club-063 The Voyeur Obscenity Part-time Job Delivery Rejuvenated Este Beautiful Wife Offer Production Act On One39s Own Initiative 
 thumb=http://javsex.net/wp-content/uploads/2017/01/10659.jpg
 date=2017-12-28
-URL=http://stream.yamvideo.com/thz3675e/004/appid-10659.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10659.mp4
 
 type=video
 name=Club-160 Ca Professional Business Trip Bodywork Massage Aimed At Just Haneda Room Tour Conductor
 thumb=http://javsex.net/wp-content/uploads/2017/01/10673.jpg
 date=2017-12-28
-URL=http://stream.yamvideo.com/thz3675e/004/appid-10673.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10673.mp4
 
 type=video
 name=Club-106 Shrimp Warp Rezuesute Voyeur 3 To Be Captivated By To Drink Aphrodisiac 
 thumb=http://javsex.net/wp-content/uploads/2017/01/10663.jpg
 date=2017-12-28
-URL=http://stream.yamvideo.com/thz3675e/007-op/appid-10663.mp4
+URL=http://s789.yamvideo.com/thz3675e/007-op/appid-10663.mp4
 
 type=video
 name=Club-161 Shiatsu Massage Medical Practitioner Academy 2 Joy K Response School University Hospital Attend 
 thumb=http://javsex.net/wp-content/uploads/2017/01/10674.jpg
 date=2017-12-28
-URL=http://stream.yamvideo.com/thz3675e/007-op/appid-10674.mp4
+URL=http://s789.yamvideo.com/thz3675e/007-op/appid-10674.mp4
 
 
 type=video
 name=Club-111 Negotiations Voyeur Out Fuckable Wife Rejuvenated During The Massage 
 thumb=http://javsex.net/wp-content/uploads/2017/01/10664.jpg
 date=2017-12-28
-URL=http://stream.yamvideo.com/thz3675e/004/appid-10664.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10664.mp4
 
 type=video
 name=Club-114 Celebrity Wife Hot Spring Trip Unscrupulous Oil Massage 3
 thumb=http://javsex.net/wp-content/uploads/2017/01/10665.jpg
 date=2017-12-28
-URL=http://stream.yamvideo.com/thz3675e/004/appid-10665.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10665.mp4
 
 
 
@@ -418,14 +418,14 @@ type=video
 name=PPPD-332 Temptation Zhongshan Ri Busty Teacher
 thumb=http://javsex.net/wp-content/uploads/2016/02/4725.jpg
 date=2017-12-28
-URL=http://stream.yamvideo.com/thz3674e/008/appid-4725.mp4
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4725.mp4
 
 
 type=video
 name=PPPD-305 Big Tits Housewife Tour It Is Out In The Netorare Hypnosis
 thumb=http://javsex.net/wp-content/uploads/2016/02/4734.jpg
 date=2017-12-28
-URL=http://stream.yamvideo.com/thz3674d/001/appid-3745.mp4
+URL=http://s789.yamvideo.com/thz3674d/001/appid-3745.mp4
 
 
 
