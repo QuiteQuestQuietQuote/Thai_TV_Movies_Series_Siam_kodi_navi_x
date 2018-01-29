@@ -16,7 +16,13 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
-
+type=playlist
+name=Asian_Sex_Diary_4
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Pook.jpg
+date=2018-01-29
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Magazine_behind_the_scene_18up_Thai/Asian_Sex_Diary_4.plx
+player=default
+rating=-1.00
 
 type=playlist
 name=Asian_Sex_Diary_3

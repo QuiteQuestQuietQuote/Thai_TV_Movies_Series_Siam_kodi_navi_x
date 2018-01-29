@@ -1,6 +1,6 @@
 version=1
 background=https://erotic24hr.com/wp-content/uploads/2017/12/I%E2%80%99m-Sorry-For-The-Indecent-2015.jpg
-title=96_2_69_OHOHD_32_18up_Asian
+title=96_2_69_OHOHD_34_18up_Asian
 logo=https://erotic24hr.com/wp-content/uploads/2017/12/I%E2%80%99m-Sorry-For-The-Indecent-2015.jpg
 icon_playlist=https://erotic24hr.com/wp-content/uploads/2017/12/I%E2%80%99m-Sorry-For-The-Indecent-2015.jpg
 description=thanks to OHOHD, Nunghd, ThaiMovie4K, satan18av, erotic24hr/description
@@ -8,7 +8,7 @@ description=thanks to OHOHD, Nunghd, ThaiMovie4K, satan18av, erotic24hr/descript
 type=playlist
 name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_32_18up_Asian.plx?action=sortsel&cur=ord
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_34_18up_Asian.plx?action=sortsel&cur=ord
 
 
 type=playlist
@@ -44,6 +44,124 @@ URL=
 
 
 
+
+
+type=video
+name=189xxxxxxxxxxxxxxxxxxxxOld Janitor Woman in Mansion 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Old-Janitor-Woman-in-Mansion-2-2017.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/tctospfnrbtkklqn/
+
+type=video
+name=My friend’s mother [unfinished version] (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/My-friends-mother-unfinished-version-2017.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/ssptlsbsbenfdeer/
+
+type=video
+name=One-night Stand (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/One-night-Stand-2016.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/nkrqkmbclooporom/
+
+type=video
+name=19 Gold Sex Video (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/19-Gold-Sex-Video-2016.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/tatndapfqqbdamdc/
+
+type=video
+name=My Friend’s Wife Is Nasty (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/My-Friends-Wife-Is-Nasty-2016.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/kqlosmcktrbbssqp/
+
+
+type=video
+name=Made Affair 6 (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Made-Affair-6-2015.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/olqsrlammaafespm/
+
+type=video
+name=Sexy Girl Party 5 (2015) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Sexy-Girl-Party-5-2015.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/lbopmbdaofarskkr/
+
+type=video
+name=Made Affair 4 (2015) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Made-Affair-4-2015.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/qelltoolnarcfpnm/
+
+type=video
+name=Ottodake-ga Shiranai (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Ottodake-ga-Shiranai-2016.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/qlmenampqfmrtfcf/
+
+type=video
+name=Company swapping – President and employees (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Company-swapping-President-and-employees-2017.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/kbrckqprfpeosbep/
+
+
+type=video
+name=Trainer (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Trainer-2016.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/tskmqfnmmkpqeedc/
+
+type=video
+name=New Dad – I’m Craving My Mother’s Man [unclear] (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/New-Dad-Im-Craving-My-Mothers-Man-unclear-2017.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/bmoeofcckqkodosa/
+
+type=video
+name=Affair Party 7 (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Affair-Party-7-2015.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/bfbkbmbpffppromn/
+
+type=video
+name=CLOSED MEMORY (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/CLOSED-MEMORY-2016.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/qalnrccrsbsstabs/
+
+type=video
+name=Affair Party 8 (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Affair-Party-8-2015.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/cltbdatecofqsscs/
+
+
+type=video
+name=Creampie to My Friend’s Sister (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Creampie-to-My-Friends-Sister-2016.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/odnnplfrdtdotaoc/
+
+type=video
+name=Dekotora Gal Nami 2 (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Dekotora-Gal-Nami-2-2010.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/ddtnmpmkbqebfdqe/
+
+type=video
+name=One Day Affair Trip with Beautiful Kimono Wife (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/One-Day-Affair-Trip-with-Beautiful-Kimono-Wife-2016.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/poqdeddekrlnabms/
+
+type=video
+name=My stepmother and her sister (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/My-stepmother-and-her-sister-2017.jpg
+date=2018-01-29
+URL=https://streamcherry.com/embed/skktfqrsbdqmonqf/
 
 
 
