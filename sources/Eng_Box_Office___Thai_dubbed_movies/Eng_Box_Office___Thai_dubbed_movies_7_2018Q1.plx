@@ -246,10 +246,11 @@ URL=https://openload.co/f/MSD8G8qEISo/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-
 #https://openload.co/f/c2aiOqF-6tg/Darkest_Hour_2017_HC_TS_x264-ChiLove.mp4
 
 type=video
-name=Wonder (2017) ENG HDTS.X264-NoGRP
+name=Wonder (2017) ENG 720p.WEB-DL.900MB.MkvCage
 thumb=https://image.tmdb.org/t/p/w640/ouYgAatYH4JzIThj6FI3UYf31RI.jpg
-date=2017-12-31
-URL=https://openload.co/f/3rl1jNYT0tg/Wonder.2017.HDTS.X264-NoGRP.mp4
+date=2018-01-30
+URL=https://openload.co/f/hYTHbSMmQJw/Wonder.2017.720p.WEB-DL.900MB.MkvCage.mkv.mp4
+#https://openload.co/f/3rl1jNYT0tg/Wonder.2017.HDTS.X264-NoGRP.mp4
 #https://openload.co/f/fR4CjUe3fnU/Wonder.2017.HDCAM.X264.HQ-DADDY.mkv.mp4
 
 type=video
@@ -429,10 +430,11 @@ URL=https://openload.co/f/OwTj4TCUTw4/Wonderstruck.2017.1080p.WEB-DL.H264.AC3-EV
 
 
 type=video
-name=The Florida Project (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
+name=The Florida Project (2017) ENG 720p.WEB-DL.900MB.MkvCage
 thumb=https://image.tmdb.org/t/p/w640/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg
-date=2017-12-30
-URL=https://openload.co/f/I0v3vaBhz6Q/The.Florida.Project.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+date=2018-01-30
+URL=https://openload.co/f/2y6Cgff5XRc/The.Florida.Project.2017.720p.WEB-DL.900MB.MkvCage.mkv.mp4
+#https://openload.co/f/I0v3vaBhz6Q/The.Florida.Project.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 
 type=video
 name=Permanent (2017) ENG WEB-DL.MkvCage
@@ -612,10 +614,11 @@ URL=https://openload.co/f/nLmL37rlOz4/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/b6dV5SfGMn8/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
-name=The Price (2017) ENG HDRip.XviD.AC3-EVO
+name=The Price (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BY2M5MjI1YjctNWI5Yi00MjVhLTgzNzYtNjg0OTNkNTEzZTY5XkEyXkFqcGdeQXVyMDY5NzA2Ng@@._V1_SY1000_CR0,0,666,1000_AL_.jpg
-date=2017-11-28
-URL=https://openload.co/f/wns44eI1MzU/The_Price_2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2018-01-30
+URL=https://openload.co/f/rVfE7NSfZcU/The.Price.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/wns44eI1MzU/The_Price_2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Dismissed (2017) ENG WEB-DL.H264.AC3-EVO
@@ -679,8 +682,9 @@ URL=https://openload.co/f/H8cECR8EO6g/Rise.of.the.Footsoldier.3.2017.WEB-DL.XviD
 type=video
 name=The 60 Yard Line (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/6egvfUVQQxxfPMYHAQfqaQPgL8X.jpg
-date=2017-11-07
-URL=https://openload.co/f/f2JLS6k7LaI/The.60.Yard.Line.2017.HDRip.XviD.AC3-EVO.avi
+date=2018-01-30
+URL=https://openload.co/f/UXXuSe4jnzk/The.60.Yard.Line.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/f2JLS6k7LaI/The.60.Yard.Line.2017.HDRip.XviD.AC3-EVO.avi
 
 type=video
 name=La Barracuda (2017) ENG HDRip.XviD.AC3-EVO
@@ -696,10 +700,11 @@ URL=https://www.blazefile.co/embed-qn9c0rptlau3.html
 #https://openload.co/f/bX-xz_DyKt0/Thumper.2017.HDRip.XviD.AC3-EVO.avi
 
 type=video
-name=Halloween Pussy Trap Kill! Kill! (2017) ENG HDRip.XviD.AC3-EVO
+name=Halloween Pussy Trap Kill! Kill! (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/zMgrC7ESzRV7lPKCWQ2zgx4MLw6.jpg
-date=2017-11-04
-URL=https://openload.co/f/32qyYSh1KXU/Halloween.Pussy.Trap.Kill%21.Kill%21.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2018-01-30
+URL=https://openload.co/f/rQ4_bX9s74Y/Halloween.Pussy.Trap.Kill.Kill.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/32qyYSh1KXU/Halloween.Pussy.Trap.Kill%21.Kill%21.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Wolf Mother (2016) ENG WEBRip.x264-iNTENSO
@@ -801,10 +806,11 @@ URL=https://openload.co/f/rHZatbYrz14/Never.Here.2017.1080p.WEB-DL.DD5.1.H264-FG
 
 
 type=video
-name=The Wilde Wedding (2017) ENG dvdrip.x264-wide
+name=The Wilde Wedding (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/wE9tcRTZ3OCTz2LjGaNxFHZnDLJ.jpg
-date=2017-10-18
-URL=https://openload.co/f/vFtshTJHqNg/the.wilde.wedding.2017.dvdrip.x264-wide.mkv.mp4
+date=2018-01-30
+URL=https://openload.co/f/SXzYjq17XRE/The.Wilde.Wedding.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/vFtshTJHqNg/the.wilde.wedding.2017.dvdrip.x264-wide.mkv.mp4
 
 
 
@@ -1076,8 +1082,9 @@ URL=https://openload.co/f/rQWFrau4Bz8/Andys.Rainbow.2016.1080p.WEBRip.x264-iNTEN
 type=video
 name=Easy Living (2017) ENG HDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/uqfvqrNXfDAbuAjZBbQ9MFhtLOl.jpg
-date=2017-09-19
-URL=https://openload.co/f/MeVz2LFyD8w/Easy.Living.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2018-01-30
+URL=https://openload.co/f/A5x_vL8XSOc/Easy.Living.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/MeVz2LFyD8w/Easy.Living.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Negative (2017) ENG HDRip.XviD.AC3-EVO
@@ -1261,10 +1268,11 @@ date=2018-01-17
 URL=https://openload.co/f/QZ2N84nNYf0/Aritmiya_AKA_Arrhythmia_2017.EngSub.WEB-DL.mkv.mp4
 
 type=video
-name=The Square (2017) ENG DVDRip.XviD.AC3-EVO
+name=The Square (2017) SWEDISH.WEB-DL.XviD.AC3-FGT
 thumb=https://image.tmdb.org/t/p/w640/kKBHo6WnRnUJ5qvWFWd3Fne9bKE.jpg
-date=2018-01-21
-URL=https://openload.co/f/sstpLlKXhAI/The_Square.2017.DVDRip.XviD.AC3-EVO.avi.mp4
+date=2018-01-30
+URL=https://openload.co/f/jCOhyPTId50/The_Square.2017.SWEDISH.WEB-DL.XviD.AC3-FGT.avi.mp4
+#https://openload.co/f/sstpLlKXhAI/The_Square.2017.DVDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=
@@ -1275,11 +1283,38 @@ URL=
 type=video
 name=
 thumb=
-date=2017-11-27
+date=2018-01-30
 URL=
 
 
 
+type=video
+name=Cinderella the Cat (2017) [COLOR=FF00FF00]ITA BR 1080p[/COLOR]
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BY2UzNjdiYTEtMjE4OC00MGQzLWFmYzgtNzcyOTkwYTMxNWNiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_SY1000_SX750_AL_.jpg
+date=2018-01-30
+URL=https://www.blazefile.co/embed-6bvw6d8kg3ju.html
+#https://uptobox.com/qeo4pstmkyz2
+#https://openload.co/f/HwdFY5pljiE/cinderella.the.cat.2017.720p.bluray.x264-bipolar.mkv.mp4
+
+type=video
+name=The Stray (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMTBlZDJjNWMtYzExYi00MjM0LTkyMWEtYWVlODI5YTRhMzRmXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_SY1000_CR0,0,677,1000_AL_.jpg
+date=2018-01-30
+URL=https://openload.co/f/HlbFHKOL_bw/The.Stray.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Victor Crowley (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMjk2OTI2OTYxN15BMl5BanBnXkFtZTgwMzQwMTQ1NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+date=2018-01-30
+URL=https://openload.co/f/QcuKILdEfU4/Victor.Crowley.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Crossing Point (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BYzM4MDY2MTItNTIwMS00ZGZmLTk1MWItZjExNDk3MDI3MzA4L2ltYWdlXkEyXkFqcGdeQXVyNzIzMTc2Mw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+date=2018-01-30
+URL=https://openload.co/f/Thb1i-FuCUE/Crossing.Point.2016.1080p.BluRay.x264-NTROPiC.mkv.mp4
+#https://www.blazefile.co/embed-yxuja39eptgt.html   720
+#https://uptobox.com/4g9l9rqmho2o   720
 
 type=video
 name=Crooked House (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1309,12 +1344,16 @@ thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BNzIzNjZiZGItNTI2NC00N
 date=2018-01-29
 URL=https://openload.co/f/j0i9sodJosE/the.odyssey.2016.limited.1080p.bluray.x264-usury.mkv.mp4
 #https://openload.co/f/1hNffFeK07M/the.odyssey.2016.limited.720p.bluray.x264-usury.mkv.mp4
+#https://www.blazefile.co/embed-hwh3es3wy2zg.html   720
+#https://uptobox.com/cw4j7rfoeyb2   720
 
 type=video
 name=The Good Catholic (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/iPvggWYCZblEG2ldObR6GHmkEjz.jpg
-date=2018-01-28
-URL=https://openload.co/f/Yg1dd-Rjd-s/The.Good.Catholic.2017.1080p.BluRay.x264-SADPANDA.mkv.mp4
+date=2018-01-30
+URL=https://www.blazefile.co/embed-wyntwpl4suil.html
+#https://uptobox.com/4bbc3jmle0y6
+#https://openload.co/f/Yg1dd-Rjd-s/The.Good.Catholic.2017.1080p.BluRay.x264-SADPANDA.mkv.mp4
 #https://openload.co/f/qWfYorrt0T0/The.Good.Catholic.2017.1080p.BluRay.x264-SADPANDA.mkv   MKV7.6GB
 #https://openload.co/f/N5tyfl_zQ1Y/The.Good.Catholic.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4
 #https://openload.co/f/66JktCPMeHQ/The_Good_Catholic.2017.BRRip.XviD.AC3-iFT.avi.mp4
@@ -2889,11 +2928,7 @@ URL=https://uptobox.com/cthdww9q4vaf
 
 
 
-type=video
-name=Cinderella the Cat (2017) [COLOR=FF00FF00]ITA BR 720p[/COLOR]
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BY2UzNjdiYTEtMjE4OC00MGQzLWFmYzgtNzcyOTkwYTMxNWNiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_SY1000_SX750_AL_.jpg
-date=2018-01-28
-URL=https://openload.co/f/HwdFY5pljiE/cinderella.the.cat.2017.720p.bluray.x264-bipolar.mkv.mp4
+
 
 
 
@@ -2978,10 +3013,11 @@ URL=https://streamango.com/f/sdrrrroqtqkkfsmc/Along_with_the_Gods_The_Two_Worlds
 
 
 type=video
-name=Maze Runner: The Death Cure (2018) ENG CAM.ENG.x264-NoGRP
+name=Maze Runner: The Death Cure (2018) ENG NEWSOURCE.HC.HDCAM.XviD-NoGRP
 thumb=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
-date=2018-01-27
-URL=https://openload.co/f/x3w1YyqQN2I/Maze.Runner.The.Death.Cure.2018.CAM.ENG.x264-NoGRP.MP4.mp4
+date=2018-01-30
+URL=https://openload.co/f/NcFRR2AcyZg/Maze_Runner_The_Death_Cure.2018.NEWSOURCE.HC.HDCAM.XviD-NoGRP.avi.mp4
+#https://openload.co/f/x3w1YyqQN2I/Maze.Runner.The.Death.Cure.2018.CAM.ENG.x264-NoGRP.MP4.mp4
 type=video
 name=Maze Runner: The Death Cure (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
@@ -3088,10 +3124,11 @@ URL=https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_
 
 
 type=video
-name=Coco (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
+name=Coco (2017) ENG 720p.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
-date=2018-01-04
-URL=https://openload.co/f/gy6y42tD9Yw/Coco.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+date=2018-01-30
+URL=https://openload.co/f/Bi_jeHvp31Q/Coco.2017.720p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/gy6y42tD9Yw/Coco.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/dsmQ0CW4LSs/Coco_%282017%29.720p.HDTC.X264-MerryChristmasNoVipRequired%5BEtHD%5D_mkv.mp4
 #https://openload.co/f/rjggikOpq2Q/Coco.2017.HD-TS.X264.HQ-CPG.mkv.mp4
 #https://openload.co/f/R7W8xvZvB80/Coco_2017_Bolly4u.me_Hindi_Dubbed_HDTS_720p_700MB.mp4
@@ -4082,13 +4119,7 @@ date=2017-12-18
 URL=https://streamango.com/f/odfkdofpqkqkcbqs/Beyond_Skyline_2017_
 
 
-type=video
-name=Wolf Warrior 2 (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/43cEBkGpr0whbDuisa7TRLnv7X0.jpg
-date=2017-12-12
-URL=https://openload.co/f/iKWAol8wDEM/Wolf_Warrior_2_%282017%29%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/JNaFUCFSBUk/Wolf_Warrior_2_%282017%29%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
-#https://openload.co/f/otuWsiW2ugE/Wolf.Warrior.II.2017.HD720P.X264.AC3.ThaiRong_CpT%40CtHts.mkv.mp4
+
 
 
 type=video
@@ -4300,6 +4331,19 @@ thumb=
 date=2018-01-27
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
+
+
+
+
+
+type=video
+name=Wolf Warrior 2 (2017) TH
+thumb=https://image.tmdb.org/t/p/w640/43cEBkGpr0whbDuisa7TRLnv7X0.jpg
+date=2018-01-30
+URL=https://openload.co/f/ew4sW16eeio/Wolf_Warrior_2_%282017%29%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2.mp4
+#https://openload.co/f/iKWAol8wDEM/Wolf_Warrior_2_%282017%29%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/JNaFUCFSBUk/Wolf_Warrior_2_%282017%29%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+#https://openload.co/f/otuWsiW2ugE/Wolf.Warrior.II.2017.HD720P.X264.AC3.ThaiRong_CpT%40CtHts.mkv.mp4
 
 
 type=video
