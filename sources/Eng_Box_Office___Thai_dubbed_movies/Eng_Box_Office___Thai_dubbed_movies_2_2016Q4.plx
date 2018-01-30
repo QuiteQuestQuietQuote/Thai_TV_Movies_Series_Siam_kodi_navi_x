@@ -549,7 +549,7 @@ description=Picking up immediately after the events in Resident Evil: Retributio
 type=video
 name=Snowden (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/mWOotrG1MMKP9iCy2uPepbu27jk.jpg
-URL=https://www.blazefile.co/embed-e68g3mim0lyz.html
+URL=http://entervideo.net/watch/cfb02fb78dd0385
 type=video
 name=Snowden (2016)
 thumb=http://image.tmdb.org/t/p/w500/mWOotrG1MMKP9iCy2uPepbu27jk.jpg
