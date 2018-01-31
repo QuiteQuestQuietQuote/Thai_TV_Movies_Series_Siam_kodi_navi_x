@@ -58,9 +58,9 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 
 type=video
 name=
-thumb=http://sd-3.blazefile.co/i/01/00002/36ahz29mjq27.jpg
+thumb=
 date=2018-01-27
-URL=http://sd-3.blazefile.co/2erdzmnydg3llhoyvghpyxoq3wcjgomv2nxoqpuid53if7z2e7cfehjghw2q/v.mp4
+URL=
 
 
 
@@ -334,10 +334,11 @@ URL=https://openload.co/f/nbhpKgWL7Q8/Tragedy.girls.2017.720p.WEB_SeeHD.mp4
 
 
 type=video
-name=9/11 (2017) ENG DVDRip.x264-PSYCHD
+name=9/11 (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/pGkjEL7RkMogMI6aznsKmZOhd8I.jpg
-date=2018-01-24
-URL=https://openload.co/f/WA9zqyMmKlA/9.11.2017.DVDRip.x264-PSYCHD.mkv.mp4
+date=2018-01-31
+URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/WA9zqyMmKlA/9.11.2017.DVDRip.x264-PSYCHD.mkv.mp4
 
 
 
@@ -748,10 +749,11 @@ URL=https://openload.co/f/uuoIXQFmOog/Crash.Pad.2017.DVDRip.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/7JSXgoymMbY/Crash.Pad.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
-name=The Truth About Lies (2017) ENG HDRip.XviD.AC3-EVO
+name=The Truth About Lies (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/4lGqhjois9GvQ2VA23Q5zzEaqv.jpg
-date=2017-10-27
-URL=https://openload.co/f/4vkKsUNgS8g/The.Truth.About.Lies.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2018-01-31
+URL=https://openload.co/f/wBM4Fs2oBio/The.Truth.About.Lies.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/4vkKsUNgS8g/The.Truth.About.Lies.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Arg Stairs (2017) ENG HDRip.XviD.AC3-EVO
@@ -931,10 +933,11 @@ date=2017-10-10
 URL=https://openload.co/f/Wjadg2CR4yQ/House_By_the_Lake_2017_HDRip_XviD_AC3-EVO.mp4
 
 type=video
-name=One Percent More Humid (2017) ENG WEB-DL
+name=One Percent More Humid (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w640/mRYVP2wlQIqQ1uI0rWFcp7tm7X9.jpg
-date=2018-01-09
-URL=https://openload.co/f/711Yu6m15Ao/One_Percent_More_Humid_%282017%29_%5B1080p-WEB-DL%5D.mp4
+date=2018-01-31
+URL=https://openload.co/f/Qae7lBcWAYU/One.Percent.More.Humid.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/711Yu6m15Ao/One_Percent_More_Humid_%282017%29_%5B1080p-WEB-DL%5D.mp4
 #https://openload.co/f/X6FvG8l1vWA/one.percent.more.humid.2017.dvdrip.x264-bipolar.mkv.mp4
 #https://openload.co/f/IC-shIyRi3o/One_Percent_More_Humid_2017_HDRip_XviD_AC3-EVO.mp4
 
@@ -1268,10 +1271,11 @@ date=2018-01-17
 URL=https://openload.co/f/QZ2N84nNYf0/Aritmiya_AKA_Arrhythmia_2017.EngSub.WEB-DL.mkv.mp4
 
 type=video
-name=The Square (2017) SWEDISH.WEB-DL.XviD.AC3-FGT
+name=The Square (2017) ENG DVDRip.x264-PSYCHD
 thumb=https://image.tmdb.org/t/p/w640/kKBHo6WnRnUJ5qvWFWd3Fne9bKE.jpg
-date=2018-01-30
-URL=https://openload.co/f/jCOhyPTId50/The_Square.2017.SWEDISH.WEB-DL.XviD.AC3-FGT.avi.mp4
+date=2018-01-31
+URL=https://openload.co/f/JzTqcBOeG-0/The.Square.2017.DVDRip.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/jCOhyPTId50/The_Square.2017.SWEDISH.WEB-DL.XviD.AC3-FGT.avi.mp4
 #https://openload.co/f/sstpLlKXhAI/The_Square.2017.DVDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
@@ -1283,10 +1287,17 @@ URL=
 type=video
 name=
 thumb=
-date=2018-01-30
+date=2018-01-31
 URL=
 
 
+
+
+type=video
+name=Diverge (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BYjJlYjAwNTItY2RkYy00ODFhLWJmZmUtMTJhMGE1MWQwM2FkXkEyXkFqcGdeQXVyMjU1OTg2NDY@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+date=2018-01-31
+URL=https://openload.co/f/VnT4nPv-YQY/Diverge.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Cinderella the Cat (2017) [COLOR=FF00FF00]ITA BR 1080p[/COLOR]
@@ -3124,10 +3135,11 @@ URL=https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_
 
 
 type=video
-name=Coco (2017) ENG 720p.HDRip.X264.AC3-EVO
+name=Coco (2017) ENG 720p.WEBRip.x264.AAC2.0-SHITBOX
 thumb=https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
-date=2018-01-30
-URL=https://openload.co/f/Bi_jeHvp31Q/Coco.2017.720p.HDRip.X264.AC3-EVO.mkv.mp4
+date=2018-01-31
+URL=https://openload.co/f/7u1UsPkmRKE/Coco.2017.720p.WEBRip.x264.AAC2.0-SHITBOX.mkv.mp4
+#https://openload.co/f/Bi_jeHvp31Q/Coco.2017.720p.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/gy6y42tD9Yw/Coco.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/dsmQ0CW4LSs/Coco_%282017%29.720p.HDTC.X264-MerryChristmasNoVipRequired%5BEtHD%5D_mkv.mp4
 #https://openload.co/f/rjggikOpq2Q/Coco.2017.HD-TS.X264.HQ-CPG.mkv.mp4
@@ -3314,10 +3326,11 @@ URL=https://streamango.com/f/rrcataoprotbbeoq/Godzilla_Monster_Planet_2017_1_mp4
 
 
 type=video
-name=Heartthrob (2017) ENG HDRip.XviD.AC3-EVO
+name=Heartthrob (2017) ENG 1080p.NF.WEBRip.DDP5.1.x264-FGT
 thumb=https://image.tmdb.org/t/p/w640/em7duFxULqzHKRlHfUZHJBm5Dag.jpg
-date=2018-01-19
-URL=https://openload.co/f/lvx68tUlR28/Heartthrob.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2018-01-31
+URL=https://openload.co/f/0_5K80dGbxw/Heartthrob.2017.1080p.NF.WEBRip.DDP5.1.x264-FGT.mkv.mp4
+#https://openload.co/f/lvx68tUlR28/Heartthrob.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=Heartthrob (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w640/em7duFxULqzHKRlHfUZHJBm5Dag.jpg
