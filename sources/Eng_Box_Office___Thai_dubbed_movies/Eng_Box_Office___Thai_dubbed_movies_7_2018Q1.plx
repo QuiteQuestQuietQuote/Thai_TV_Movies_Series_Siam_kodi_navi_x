@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+background=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_7_2018Q1
-logo=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+logo=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+icon_playlist=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, sockshare, fmovies, ganool, nanamovies./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -70,7 +70,7 @@ URL=
 
 type=video
 name=Den of Thieves (2018) ENG HDCAM.HQMIC.x264-DiRG
-thumb=https://image.tmdb.org/t/p/w640/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
 date=2018-01-21
 URL=https://openload.co/f/I0a9aXjeZwo/Den.of.Thieves.2018.HDCAM.HQMIC.x264-DiRG.mp4
 
@@ -89,7 +89,7 @@ URL=https://openload.co/f/9xfp6WPIibY/The_Clapper.2017.720p.WEB-DL.XviD.AC3-FGT.
 
 type=video
 name=Pitch Perfect 3 (2017) ENG HDCAM
-thumb=https://image.tmdb.org/t/p/w640/hQriQIpHUeh66I89gypFXtqEuVq.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg
 date=2018-01-18
 URL=https://openload.co/f/ulAN5swR5RA/Pitch.Perfect.3.2017.HDCAM.MP4.mp4
 
@@ -97,7 +97,7 @@ URL=https://openload.co/f/ulAN5swR5RA/Pitch.Perfect.3.2017.HDCAM.MP4.mp4
 
 type=video
 name=Proud Mary (2018) ENG NEW_HD-TS_X264-CPG
-thumb=https://image.tmdb.org/t/p/w640/5luceoVMU2FzWuyty7mZFcSY5ZW.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5luceoVMU2FzWuyty7mZFcSY5ZW.jpg
 date=2018-01-24
 URL=https://openload.co/f/ASjDSaABhRk/Proud_Marry_2018_NEW_HD-TS_X264-CPG.mkv
 #https://openload.co/f/lufCvF3aNfE/Proud.Mary.2018.TS.XViD-BL4CKP34RL.avi.mp4
@@ -108,7 +108,7 @@ URL=https://openload.co/f/ASjDSaABhRk/Proud_Marry_2018_NEW_HD-TS_X264-CPG.mkv
 
 type=video
 name=All the Money in the World (2017) ENG CAM_SeeHD
-thumb=https://image.tmdb.org/t/p/w640/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
 date=2018-01-24
 URL=https://openload.co/f/F76f7gqp9_Y/All.the.Money.in.the.World.2017.CAM_SeeHD.mp4
 #https://openload.co/f/Lefs8BNw8P0/All.the.Money.in.the.World.2017.HDCAM.x264-DiRG.mp4
@@ -116,7 +116,7 @@ URL=https://openload.co/f/F76f7gqp9_Y/All.the.Money.in.the.World.2017.CAM_SeeHD.
 
 type=video
 name=The Post (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
-thumb=https://image.tmdb.org/t/p/w640/5765ORvdKVX5bWmhEjjiOqLk3TH.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5765ORvdKVX5bWmhEjjiOqLk3TH.jpg
 date=2018-01-23
 URL=https://openload.co/f/uiHorXBPdL0/The.Post.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/vPOCXYjcMkI/The.Post.2017.TS.XViD-BL4CKP34RL.avi.mp4
@@ -126,7 +126,7 @@ URL=https://openload.co/f/uiHorXBPdL0/The.Post.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.
 
 type=video
 name=Freak Show (2018) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/4pMMe9uxileJBH2nDNlSPpk5xFH.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pMMe9uxileJBH2nDNlSPpk5xFH.jpg
 date=2018-01-15
 URL=https://openload.co/f/Jbn08wdDUIg/Freak.Show.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/vzm-Re6H8Vg/Freak_Show.2017.HDRip.XviD.AC3-EVO.avi.mp4
@@ -134,13 +134,13 @@ URL=https://openload.co/f/Jbn08wdDUIg/Freak.Show.2017.1080p.WEB-DL.DD5.1.H264-FG
 
 type=video
 name=The Shape of Water (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
-thumb=https://image.tmdb.org/t/p/w640/iLYLADGA5oKGM92Ns1j9CDgk3iI.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLYLADGA5oKGM92Ns1j9CDgk3iI.jpg
 date=2018-01-07
 URL=https://openload.co/f/Mgft960KH5Y/The.Shape.of.Water.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 
 type=video
 name=Molly's Game (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
-thumb=https://image.tmdb.org/t/p/w640/5YC8iVPxvRrz53FdfdejDgUUk2k.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YC8iVPxvRrz53FdfdejDgUUk2k.jpg
 date=2018-01-16
 URL=https://openload.co/f/bDzBWi4g5EQ/Mollys_Game-DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/J9sWRgUuroU/Mollys.Game.2017.HDCAM.READNFO.x264-DiRG.mp4
@@ -148,20 +148,20 @@ URL=https://openload.co/f/bDzBWi4g5EQ/Mollys_Game-DVDScr.XVID.AC3.HQ.Hive-CM8.av
 
 type=video
 name=Father Figures (2017) ENG CAM.x264-NoGRP
-thumb=https://image.tmdb.org/t/p/w640/bEHOthoB2UqCIiUzhnHnLMXbRuJ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEHOthoB2UqCIiUzhnHnLMXbRuJ.jpg
 date=2018-01-07
 URL=https://openload.co/f/TvUQXGJF3Vw/Father.Figures.2017.CAM.x264-NoGRP.mp4
 #https://openload.co/f/uIv1hZlRdGo/Father.Figures.2017.CAM.XViD-P2P.avi.mp4
 
 type=video
 name=Wonder Wheel (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
-thumb=https://image.tmdb.org/t/p/w640/fPXn8SW4pa4kJErAIAJLmb3Znns.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPXn8SW4pa4kJErAIAJLmb3Znns.jpg
 date=2018-01-04
 URL=https://openload.co/f/mfpvZQIhOW4/Wonder.Wheel.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 
 type=video
 name=The Greatest Showman (2017)  ENG HDCAM_ENG_X264-DADDY
-thumb=https://image.tmdb.org/t/p/w640/dfhztJRiElqmYW4kpvjYe1gENsD.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfhztJRiElqmYW4kpvjYe1gENsD.jpg
 date=2018-01-24
 URL=https://openload.co/f/SNCwiigOC4Y/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv
 #https://openload.co/f/O708OmzRzsE/The_Greatest_Showman_2017_HDCAM_V.2_ENG_X264-DADDY.mkv.mp4
@@ -170,32 +170,32 @@ URL=https://openload.co/f/SNCwiigOC4Y/The_Greatest_Showman_2017_HDCAM_ENG_X264-D
 
 type=video
 name=Three Billboards Outside Ebbing, Missouri (2017) ENG DVDScr_XVID_AC3_HQ_Hive--CM8
-thumb=https://image.tmdb.org/t/p/w640/vgvw6w1CtcFkuXXn004S5wQsHRl.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgvw6w1CtcFkuXXn004S5wQsHRl.jpg
 date=2017-12-27
 URL=https://openload.co/f/7LFK5fM_0wM/Three_Billboards_Outside_Ebbing%2CMissouri_2017_DVDScr_XVID_AC3_HQ_Hive--CM8.avi.mp4
 
 type=video
 name=I, Tonya (2017) ENG DVDScr.XVID.HQ.Hive-CM8
-thumb=https://image.tmdb.org/t/p/w640/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg
 date=2017-12-26
 URL=https://openload.co/f/FPU8_oiG8uE/I%2CTonya.2017.DVDScr.XVID.HQ.Hive-CM8.avi.mp4
 
 type=video
 name=Lady Bird (2017) ENG DVDScr.AC3.HQ.Hive-CM8
-thumb=https://image.tmdb.org/t/p/w640/pVtoXPA2zqNTeaR8MOsrD1XvUXK.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVtoXPA2zqNTeaR8MOsrD1XvUXK.jpg
 date=2017-12-26
 URL=https://openload.co/f/tT44lsJFX7g/Lady.Bird.2017.DVDScr.AC3.HQ.Hive-CM8.mp4
 
 type=video
 name=The Disaster Artist (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
-thumb=https://image.tmdb.org/t/p/w640/uCH6FOFsDW6pfvbbmIIswuvuNtM.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCH6FOFsDW6pfvbbmIIswuvuNtM.jpg
 date=2017-12-31
 URL=https://openload.co/f/O4T4tChlL8Y/The.Disaster.Artist.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/g9018UKAwrA/The_Disaster_Artist_2017_HDCAM_X264_HQMic-CPG.mkv.mp4
 
 type=video
 name=Downsizing (2017) ENG 1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT
-thumb=https://image.tmdb.org/t/p/w640/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
 date=2018-01-27
 URL=https://openload.co/f/HFErJ2kdTP0/Downsizing.2017.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
 #https://openload.co/f/FnpHjO5a37w/Downsizing.2017.TS.XViD-BL4CKP34RL.avi.mp4
@@ -205,7 +205,7 @@ URL=https://openload.co/f/HFErJ2kdTP0/Downsizing.2017.1080p.KORSUB.HDRip.x264.AA
 
 type=video
 name=Cocaine Godmother: The Griselda Blanco Story (2018) ENG 720p.HDTV.x264-CRiMSON
-thumb=https://image.tmdb.org/t/p/w640/lk3npUUYxLJCyaSSQHqGlH64Qxk.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lk3npUUYxLJCyaSSQHqGlH64Qxk.jpg
 date=2018-01-23
 URL=https://openload.co/f/rjVaME-qvRQ/Cocaine.Godmother.The.Griselda.Blanco.Story.2018.720p.HDTV.x264-CRiMSON.mkv.mp4
 
@@ -213,7 +213,7 @@ URL=https://openload.co/f/rjVaME-qvRQ/Cocaine.Godmother.The.Griselda.Blanco.Stor
 
 type=video
 name=Woody Woodpecker (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/9crXSxVpQmw4kdmtKrvizmWwBG.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9crXSxVpQmw4kdmtKrvizmWwBG.jpg
 date=2018-01-25
 URL=https://openload.co/f/_u1FMyoGufI/Woody.Woodpecker.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/VvIKyEzSb7A/Woody.Woodpecker.2017.V2.HDRip.XviD.AC3-EVO.avi.mp4
@@ -228,7 +228,7 @@ URL=https://openload.co/f/_u1FMyoGufI/Woody.Woodpecker.2017.1080p.WEB-DL.DD5.1.H
 
 type=video
 name=Just Getting Started (2017) ENG CAM.READNFO.XViD-26k
-thumb=https://image.tmdb.org/t/p/w640/70eVsU4nvVidEs7mpPcEcBlIpmx.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/70eVsU4nvVidEs7mpPcEcBlIpmx.jpg
 date=2017-12-19
 URL=https://openload.co/f/VXxQVaOTzoI/Just.Getting.Started.2017.CAM.READNFO.XViD-26k.avi.mp4
 
@@ -239,7 +239,7 @@ URL=https://openload.co/f/VXxQVaOTzoI/Just.Getting.Started.2017.CAM.READNFO.XViD
 
 type=video
 name=Darkest Hour (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
-thumb=https://image.tmdb.org/t/p/w640/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg
 date=2018-01-15
 URL=https://openload.co/f/MSD8G8qEISo/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/e509QYay-QI/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
@@ -247,7 +247,7 @@ URL=https://openload.co/f/MSD8G8qEISo/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-
 
 type=video
 name=Wonder (2017) ENG 720p.WEB-DL.900MB.MkvCage
-thumb=https://image.tmdb.org/t/p/w640/ouYgAatYH4JzIThj6FI3UYf31RI.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouYgAatYH4JzIThj6FI3UYf31RI.jpg
 date=2018-01-30
 URL=https://openload.co/f/hYTHbSMmQJw/Wonder.2017.720p.WEB-DL.900MB.MkvCage.mkv.mp4
 #https://openload.co/f/3rl1jNYT0tg/Wonder.2017.HDTS.X264-NoGRP.mp4
@@ -255,7 +255,7 @@ URL=https://openload.co/f/hYTHbSMmQJw/Wonder.2017.720p.WEB-DL.900MB.MkvCage.mkv.
 
 type=video
 name=Cold Skin (2017) RUS
-thumb=https://image.tmdb.org/t/p/w640/65qvQ13CoNxIYHvxGXWFtKc93sX.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/65qvQ13CoNxIYHvxGXWFtKc93sX.jpg
 date=2017-12-03
 URL=https://openload.co/f/7ywKmj1Cbso/Atlantida.2O17.D.TS.14OOMB_KOSHARA.E.mp4
 
@@ -263,13 +263,13 @@ URL=https://openload.co/f/7ywKmj1Cbso/Atlantida.2O17.D.TS.14OOMB_KOSHARA.E.mp4
 
 type=video
 name=Marrowbone (2017) RUS
-thumb=https://image.tmdb.org/t/p/w640/wRUToAEWbPtfOOgrs7ivk96DE7i.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRUToAEWbPtfOOgrs7ivk96DE7i.jpg
 date=2017-11-28
 URL=http://entervideo.net/watch/dc143d328339b28
 
 type=video
 name=Daddy's Home 2 (2017) ENG HDTS.x264-EZIS
-thumb=https://image.tmdb.org/t/p/w640/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg
 date=2017-11-30
 URL=https://openload.co/f/FC1fJ8taIqA/Daddys.Home.2.2017.HDTS.x264-EZIS.mkv.mp4
 #https://openload.co/f/vpL7f9btUG4/Daddys.Home.2.2017.HDCAM.XVID.HQ.Hive-CM8.avi
@@ -279,7 +279,7 @@ URL=https://openload.co/f/FC1fJ8taIqA/Daddys.Home.2.2017.HDTS.x264-EZIS.mkv.mp4
 
 type=video
 name=Paddington 2 (2017) ENG HDTS_x264_AC3_TiTAN
-thumb=https://image.tmdb.org/t/p/w640/bU5pSpQfXRmqDd6jthmP8iWJOjd.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bU5pSpQfXRmqDd6jthmP8iWJOjd.jpg
 date=2017-12-22
 URL=https://openload.co/f/RqXwupoJyYY/Paddington_2_2017_720p_HDTS_x264_AC3_TiTAN.mkv
 #https://openload.co/f/qfpasQHuWo4/Paddington.2.2017.TS.XViD-26k.avi.mp4
@@ -289,7 +289,7 @@ URL=https://openload.co/f/RqXwupoJyYY/Paddington_2_2017_720p_HDTS_x264_AC3_TiTAN
 
 type=video
 name=Murder on the Orient Express (2017) ENG 1080p.HC.HDRip.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
 date=2018-01-24
 URL=https://openload.co/f/tQIHPxK0iyo/Murder.on.the.Orient.Express.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/W3Ib0baMyac/Murder_on_the_Orient_Express_2017_HCTC_SeeHD.mkv.mp4
@@ -299,14 +299,14 @@ URL=https://openload.co/f/tQIHPxK0iyo/Murder.on.the.Orient.Express.2017.1080p.HC
 
 type=video
 name=The Star (2017) ENG CAM.READNFO.XViD-26k
-thumb=https://image.tmdb.org/t/p/w640/tEbDvivUfsCupngKIfMJJ725eAD.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEbDvivUfsCupngKIfMJJ725eAD.jpg
 date=2017-11-25
 URL=https://openload.co/f/8yNhaXL9Nb4/The.Star.2017.CAM.READNFO.XViD-26k.avi.mp4
 #https://openload.co/f/tYe0V1V8qcg/The.Star.2017.NOLOGO.HDTS.x264.AAC-AvEnTaD0R.mp4
 
 type=video
 name=You Were Never Really Here (2017) FRENCH.CAM.MD.XViD_STVFRV.E
-thumb=https://image.tmdb.org/t/p/w640/fvW4XbwdzWB5nCvSMA3ZDCZslCx.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvW4XbwdzWB5nCvSMA3ZDCZslCx.jpg
 date=2017-11-10
 URL=https://openload.co/f/_4z3LoSbk-Y/You.Were.Never.Really.Here.2017.FRENCH.CAM.MD.XViD_STVFRV.E.mp4
 
@@ -316,7 +316,7 @@ URL=https://openload.co/f/_4z3LoSbk-Y/You.Were.Never.Really.Here.2017.FRENCH.CAM
 
 type=video
 name=Happy Family (2017) RUS
-thumb=https://image.tmdb.org/t/p/w640/qp1kMdB5TVZ5ZN7BdpGQbVhAbfh.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp1kMdB5TVZ5ZN7BdpGQbVhAbfh.jpg
 date=2017-11-08
 URL=http://entervideo.net/watch/78214b8b8f6c507
 #https://openload.co/f/sDKaKTnsdrU/Happy.Family.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
@@ -325,7 +325,7 @@ URL=http://entervideo.net/watch/78214b8b8f6c507
 
 type=video
 name=Tragedy Girls (2017) ENG 720p.WEB_SeeHD
-thumb=https://image.tmdb.org/t/p/w640/qMwuplUU4dg9JBBhgML42T6x0yJ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMwuplUU4dg9JBBhgML42T6x0yJ.jpg
 date=2018-01-25
 URL=https://openload.co/f/nbhpKgWL7Q8/Tragedy.girls.2017.720p.WEB_SeeHD.mp4
 #https://openload.co/f/vDUVLA8RLj0/Tragedy.Girls.2017.WEB-DL.x264-RBB.mp4
@@ -335,7 +335,7 @@ URL=https://openload.co/f/nbhpKgWL7Q8/Tragedy.girls.2017.720p.WEB_SeeHD.mp4
 
 type=video
 name=9/11 (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/pGkjEL7RkMogMI6aznsKmZOhd8I.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGkjEL7RkMogMI6aznsKmZOhd8I.jpg
 date=2018-01-31
 URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/WA9zqyMmKlA/9.11.2017.DVDRip.x264-PSYCHD.mkv.mp4
@@ -395,19 +395,19 @@ URL=https://openload.co/f/jRNgI6KShSc/Accident.Man.2018.DVDRip.XviD.AC3-EVO.avi.
 
 type=video
 name=Final Portrait (2017) ENG 1080p.NF.WEBRip.DDP.5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w640/8hgqfshiwHcIoAk7uKckKcDVpv4.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hgqfshiwHcIoAk7uKckKcDVpv4.jpg
 date=2018-01-21
 URL=https://openload.co/f/_Zyb1K8QaAk/Final.Portrait.2017.1080p.NF.WEBRip.DDP.5.1.H264-CMRG.mkv.mp4
 
 type=video
 name=Acts of Violence (2018) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg
 date=2018-01-12
 URL=https://openload.co/f/OtVuIulR2_c/Acts.of.Violence.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
 name=Same Kind of Different as Me (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/cCTwHtXBVL96ImKDwm5T8pPNO41.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCTwHtXBVL96ImKDwm5T8pPNO41.jpg
 date=2018-01-05
 URL=https://openload.co/f/qItzmC2ilFI/Same.Kind.of.Different.as.Me.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
@@ -415,7 +415,7 @@ URL=https://openload.co/f/qItzmC2ilFI/Same.Kind.of.Different.as.Me.2017.1080p.WE
 
 type=video
 name=Wonderstruck (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/yjDAt9K3FKU1itABgIXl6YvLsVE.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjDAt9K3FKU1itABgIXl6YvLsVE.jpg
 date=2018-01-02
 URL=https://openload.co/f/OwTj4TCUTw4/Wonderstruck.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
@@ -432,27 +432,27 @@ URL=https://openload.co/f/OwTj4TCUTw4/Wonderstruck.2017.1080p.WEB-DL.H264.AC3-EV
 
 type=video
 name=The Florida Project (2017) ENG 720p.WEB-DL.900MB.MkvCage
-thumb=https://image.tmdb.org/t/p/w640/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg
 date=2018-01-30
 URL=https://openload.co/f/2y6Cgff5XRc/The.Florida.Project.2017.720p.WEB-DL.900MB.MkvCage.mkv.mp4
 #https://openload.co/f/I0v3vaBhz6Q/The.Florida.Project.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 
 type=video
 name=Permanent (2017) ENG WEB-DL.MkvCage
-thumb=https://image.tmdb.org/t/p/w640/zrRT7xHUakZoEi6wAp8SIdeMNux.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrRT7xHUakZoEi6wAp8SIdeMNux.jpg
 date=2017-12-31
 URL=https://openload.co/f/4O_RiDAKuh0/Permanent.2017.720p.WEB-DL.MkvCage.mkv.mp4
 #https://openload.co/f/jA-VSI9yoE0/Permanent_2017_720p_WEB-DL_SeeHD.mkv.mp4
 
 type=video
 name=Maigret in Montmartre (2017) ENG hdtv.hevc.x265.rmteam
-thumb=https://image.tmdb.org/t/p/w640/1zagwvlOlCy55I33VaSLEVt7eSY.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zagwvlOlCy55I33VaSLEVt7eSY.jpg
 date=2017-12-25
 URL=https://openload.co/f/CjVkUqzc-Pc/maigret.in.montmartre.2017.1080p.hdtv.hevc.x265.rmteam.mkv.mp4
 
 type=video
 name=Love Beats Rhymes (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/xOY5AFJhACTgJJeTQTvlyOYw2BS.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOY5AFJhACTgJJeTQTvlyOYw2BS.jpg
 date=2017-12-01
 URL=https://openload.co/f/cQyihtUfMoE/Love.Beats.Rhymes.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
@@ -460,7 +460,7 @@ URL=https://openload.co/f/cQyihtUfMoE/Love.Beats.Rhymes.2017.720p.WEB-DL.XviD.AC
 
 type=video
 name=The Tribes of Palos Verdes (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/8w4JecmVtqcSMk4mdiHURzISsYz.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w4JecmVtqcSMk4mdiHURzISsYz.jpg
 date=2017-12-01
 URL=https://openload.co/f/M6r-cHT1VtI/The.Tribes.of.Palos.Verdes.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
@@ -468,19 +468,19 @@ URL=https://openload.co/f/M6r-cHT1VtI/The.Tribes.of.Palos.Verdes.2017.720p.WEB-D
 
 type=video
 name='Til Death Do Us Part (2017) ENG HDCAM.x264-DiRG
-thumb=https://image.tmdb.org/t/p/w640/pfCAFkZV39l1TnNazAmmLgWu4c1.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfCAFkZV39l1TnNazAmmLgWu4c1.jpg
 date=2017-11-27
 URL=https://openload.co/f/0DPv1IxHDsA/Til.Death.Do.Us.Part.2017.HDCAM.x264-DiRG.mp4
 
 type=video
 name=Instrument of War (2017) ENG BYUtv_720p_HDTV_X264_Solar
-thumb=https://image.tmdb.org/t/p/w640/eI4ZZCC1oDjszKJ5RH3BPCbkVca.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eI4ZZCC1oDjszKJ5RH3BPCbkVca.jpg
 date=2017-11-24
 URL=https://openload.co/f/s-WxqEEFH0Q/Instrument_of_War_2017_BYUtv_720p_HDTV_X264_Solar.mp4
 
 type=video
 name=Hangman (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/cf720YwBmp0roCVfBWjGXoWzZ6C.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cf720YwBmp0roCVfBWjGXoWzZ6C.jpg
 date=2017-11-21
 URL=https://openload.co/f/MAjYkSAfDrw/Hangman.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
@@ -494,7 +494,7 @@ URL=https://openload.co/f/MAjYkSAfDrw/Hangman.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Cook-Off! (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/rxJNmF835KJpwioXvr9oAQZVJNU.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxJNmF835KJpwioXvr9oAQZVJNU.jpg
 date=2017-11-17
 URL=https://openload.co/f/Zf18_Paljkk/Cook.Off.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
@@ -510,14 +510,14 @@ URL=https://openload.co/f/Zf18_Paljkk/Cook.Off.2017.1080p.WEB-DL.DD5.1.H264-FGT.
 
 type=video
 name=The Only Living Boy in New York (2017) ENG WEB-DL.x264-FGT
-thumb=https://image.tmdb.org/t/p/w640/8e6Q7N2qJ7utBrf6pyf3EiLADja.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8e6Q7N2qJ7utBrf6pyf3EiLADja.jpg
 date=2017-10-20
 URL=https://openload.co/f/OTg3g1vgdG0/The_Only_Living_Boy_in_New_York_%282017%29_%5B1080p%5D_WEB-DL_DD5_1_H264-FGT_mkv_mp4
 #https://openload.co/f/2FIdzfMEsV4/The.Only.Living.Boy.in.New.York.2017.WEB-DL.x264-FGT.mp4
 
 type=video
 name=Swing Away (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/armSkPfOpBRgp1joorUm6Pc5TbB.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/armSkPfOpBRgp1joorUm6Pc5TbB.jpg
 date=2017-10-15
 URL=https://openload.co/f/IYX17ih3VDQ/Swing.Away.2016.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/KGgPbvafO94/S.A.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
@@ -529,7 +529,7 @@ URL=https://openload.co/f/IYX17ih3VDQ/Swing.Away.2016.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Walking Out (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/2D2XnnZKNhhxb3Ig0PM0OIVdmZ8.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2D2XnnZKNhhxb3Ig0PM0OIVdmZ8.jpg
 date=2017-10-06
 URL=https://openload.co/f/fkXkBBTTZxM/Walking.Out.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
@@ -537,7 +537,7 @@ URL=https://openload.co/f/fkXkBBTTZxM/Walking.Out.2017.720p.WEB-DL.XviD.AC3-FGT.
 
 type=video
 name=The Layover (2017) ENG dvdrip.x264.fragment
-thumb=https://image.tmdb.org/t/p/w640/kb9osnqanXRpkpm1bnSqAhKoq5T.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kb9osnqanXRpkpm1bnSqAhKoq5T.jpg
 date=2017-10-11
 URL=https://openload.co/f/_bCmA0g9Xu8/the.layover.2017.dvdrip.x264.fragment.mkv.mp4
 
@@ -569,14 +569,14 @@ URL=https://openload.co/f/jjBQIZkgFFg/Somebodys.Mother.2016.WEBRip.x264-RBB.mp4
 
 type=video
 name=Madame (2017) ENG WEB-DL.DD2.0.x264-BDP
-thumb=https://image.tmdb.org/t/p/w640/m8DfNZSRDhv1faYPoldjglinmzi.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8DfNZSRDhv1faYPoldjglinmzi.jpg
 date=2017-12-05
 URL=https://openload.co/f/CQs95_555cI/Madame.2017.720p.WEB-DL.DD2.0.x264-BDP.mkv.mp4
 #https://openload.co/f/WlPzb_Qg5kQ/Madame.2017.HDRip.XviD.AC3-EVO.mp4
 
 type=video
 name=A Bad Idea Gone Wrong (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/zGA4aQzypmHiAa1xmpCynwWFHcD.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGA4aQzypmHiAa1xmpCynwWFHcD.jpg
 date=2017-12-01
 URL=https://openload.co/f/E1xpU_0UcTg/A.Bad.Idea.Gone.Wrong.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
@@ -591,25 +591,25 @@ URL=https://openload.co/f/E1xpU_0UcTg/A.Bad.Idea.Gone.Wrong.2017.720p.WEB-DL.Xvi
 
 type=video
 name=Lazer Team 2 (2017) ENG WEBRip.x264-WEBTiFUL
-thumb=https://image.tmdb.org/t/p/w640/21A6RTi9RgOdHmcwC1DSqgi2cIJ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/21A6RTi9RgOdHmcwC1DSqgi2cIJ.jpg
 date=2017-11-29
 URL=https://openload.co/f/BS5jT_5IogU/Lazer.Team.2.2017.1080p.WEBRip.x264-WEBTiFUL.mkv.mp4
 
 type=video
 name=Ultimate Justice (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/cGmfYhrDtv0RSFjxsPxkkep5Hmw.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGmfYhrDtv0RSFjxsPxkkep5Hmw.jpg
 date=2017-11-29
 URL=https://openload.co/f/z104ogJzM7w/Ultimate_Justice.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=I Do... Until I Don't (2017) ENG dvdrip.x264-lpd
-thumb=https://image.tmdb.org/t/p/w640/5iLKG1fxwqSwFKUbOj8BnBGt1Ec.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iLKG1fxwqSwFKUbOj8BnBGt1Ec.jpg
 date=2017-11-29
 URL=https://openload.co/f/Xfeo1jdN-14/i.do.until.i.dont.limited.2017.dvdrip.x264-lpd.mkv.mp4
 
 type=video
 name=Slumber (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/qbq02c1HqpXsuoZfc07ZOig8mqi.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbq02c1HqpXsuoZfc07ZOig8mqi.jpg
 date=2017-11-29
 URL=https://openload.co/f/nLmL37rlOz4/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/b6dV5SfGMn8/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
@@ -623,19 +623,19 @@ URL=https://openload.co/f/rVfE7NSfZcU/The.Price.2017.1080p.WEB-DL.DD5.1.H264-FGT
 
 type=video
 name=Dismissed (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/ge2aTRKFEIeoSNKCSFzuuuLO7HY.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ge2aTRKFEIeoSNKCSFzuuuLO7HY.jpg
 date=2017-11-24
 URL=https://openload.co/f/pPvnenmbWd0/Dismissed.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=Days of Power (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/r6WWgaAcccADoGBwUjmOgNs4KKA.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6WWgaAcccADoGBwUjmOgNs4KKA.jpg
 date=2017-11-17
 URL=https://openload.co/f/npRtuvyoIHM/Days_of_Power.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Maya Dardel (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/4RjyBQuEjwjhL5H44oSh8N9Uyfa.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RjyBQuEjwjhL5H44oSh8N9Uyfa.jpg
 date=2017-11-17
 URL=https://openload.co/f/fu9KD7ud3hU/Maya.Dardel.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
@@ -643,14 +643,14 @@ URL=https://openload.co/f/fu9KD7ud3hU/Maya.Dardel.2017.1080p.WEB-DL.DD5.1.H264-F
 
 type=video
 name=On Wings of Eagles (2017) ENG dvdrip.x264-wide
-thumb=https://image.tmdb.org/t/p/w640/mSTzqtXFQn0T3ESzMknTjwYyruL.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSTzqtXFQn0T3ESzMknTjwYyruL.jpg
 date=2017-12-12
 URL=https://openload.co/f/zkC2wIjZP_A/on.wings.of.eagles.2016.dvdrip.x264-wide.mkv.mp4
 #https://openload.co/f/keDglguB0A0/On.Wings.of.Eagles.2016.WEB-DL.x264-RARBG.mp4
 
 type=video
 name=The Elf (2017) ENG WEB-DL.x264-RARBG
-thumb=https://image.tmdb.org/t/p/w640/z9IrT9Hanu1ptwMHRbxEvlN8Sbp.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9IrT9Hanu1ptwMHRbxEvlN8Sbp.jpg
 date=2017-11-16
 URL=https://openload.co/f/W2FwLqmgrmc/The.Elf.2017.WEB-DL.x264-RARBG.mp4
 #https://openload.co/f/Bt-K4PSJpNA/The_Elf_2017_720p_x264-StB.mkv.mp4
@@ -659,7 +659,7 @@ URL=https://openload.co/f/W2FwLqmgrmc/The.Elf.2017.WEB-DL.x264-RARBG.mp4
 
 type=video
 name=The Humanity Bureau (2017) ENG WEB-DL.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/85xioeF08JX4iYRUNMlEPjJWrPl.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/85xioeF08JX4iYRUNMlEPjJWrPl.jpg
 date=2017-11-13
 URL=https://www.blazefile.co/embed-wncdast3r4z6.html
 #https://openload.co/f/gEajQqD6N2c/The.Humanity.Bureau.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
@@ -670,46 +670,46 @@ URL=https://www.blazefile.co/embed-wncdast3r4z6.html
 
 type=video
 name=Champion (2017) ENG dvdrip.x264-lpd
-thumb=https://image.tmdb.org/t/p/w640/oCy74z0ipr3SiodWGOz21b4pBGt.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCy74z0ipr3SiodWGOz21b4pBGt.jpg
 date=2017-11-09
 URL=https://openload.co/f/A7QYiU4ru8s/champion.limited.2017.dvdrip.x264-lpd.mkv.mp4
 
 type=video
 name=Rise of the Footsoldier 3 (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/uqbQwQqjk5RFCDQtWL6zpnaRnaA.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqbQwQqjk5RFCDQtWL6zpnaRnaA.jpg
 date=2017-11-08
 URL=https://openload.co/f/H8cECR8EO6g/Rise.of.the.Footsoldier.3.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=The 60 Yard Line (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/6egvfUVQQxxfPMYHAQfqaQPgL8X.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6egvfUVQQxxfPMYHAQfqaQPgL8X.jpg
 date=2018-01-30
 URL=https://openload.co/f/UXXuSe4jnzk/The.60.Yard.Line.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/f2JLS6k7LaI/The.60.Yard.Line.2017.HDRip.XviD.AC3-EVO.avi
 
 type=video
 name=La Barracuda (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/xZ08XGkBu7oYT6Bp9Eic9znnJAc.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZ08XGkBu7oYT6Bp9Eic9znnJAc.jpg
 date=2017-11-07
 URL=https://openload.co/f/o-ZqryzSkxc/Barracuda.2017.HDRip.XviD.AC3-EVO.avi
 
 type=video
 name=Thumper (2017) ENG WEB-DL H264 AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/sQVMjMW9CNofYqLHZO7AkZWG9t5.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQVMjMW9CNofYqLHZO7AkZWG9t5.jpg
 date=2017-11-07
 URL=https://www.blazefile.co/embed-qn9c0rptlau3.html
 #https://openload.co/f/bX-xz_DyKt0/Thumper.2017.HDRip.XviD.AC3-EVO.avi
 
 type=video
 name=Halloween Pussy Trap Kill! Kill! (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/zMgrC7ESzRV7lPKCWQ2zgx4MLw6.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMgrC7ESzRV7lPKCWQ2zgx4MLw6.jpg
 date=2018-01-30
 URL=https://openload.co/f/rQ4_bX9s74Y/Halloween.Pussy.Trap.Kill.Kill.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/32qyYSh1KXU/Halloween.Pussy.Trap.Kill%21.Kill%21.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Wolf Mother (2016) ENG WEBRip.x264-iNTENSO
-thumb=https://image.tmdb.org/t/p/w640/htoD1BJC9dcC9E43K0f4ZJ0M0sT.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/htoD1BJC9dcC9E43K0f4ZJ0M0sT.jpg
 date=2017-11-01
 URL=https://openload.co/f/9FjyQeOnc4Q/Wolf.Mother.2016.1080p.WEBRip.x264-iNTENSO.mkv.mp4
 
@@ -729,20 +729,20 @@ URL=https://openload.co/f/9FjyQeOnc4Q/Wolf.Mother.2016.1080p.WEBRip.x264-iNTENSO
 
 type=video
 name=Slamma Jamma (2017) ENG DVDRip.x264-PSYCHD
-thumb=https://image.tmdb.org/t/p/w640/kUTx2OFM8qyRsacjjNK4ZmaAs3M.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUTx2OFM8qyRsacjjNK4ZmaAs3M.jpg
 date=2017-11-10
 URL=https://openload.co/f/l8BAlGwZsKY/Slamma_Jamma.2017.DVDRip.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/GSOjQyl0JeA/Slamma_Jamma.2017.DVDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=The Heyday of the Insensitive Bastards (2016) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/70pgGorObEEBYKsQOcOYQMmTtNq.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/70pgGorObEEBYKsQOcOYQMmTtNq.jpg
 date=2017-10-27
 URL=https://openload.co/f/URaCNgT5Js4/The_Heyday_of_the_Insensitive_Bastards.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=Crash Pad (2017) ENG DVDRip.x264-PSYCHD
-thumb=https://image.tmdb.org/t/p/w640/rsMv3uk6ZQTSOvFtWFzhYav2tEq.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsMv3uk6ZQTSOvFtWFzhYav2tEq.jpg
 date=2017-12-06
 URL=https://openload.co/f/uuoIXQFmOog/Crash.Pad.2017.DVDRip.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/uYhJ9tG7l80/Crash.Pad.2017.HDRip.XviD.AC3-EVO.avi.mp4
@@ -750,14 +750,14 @@ URL=https://openload.co/f/uuoIXQFmOog/Crash.Pad.2017.DVDRip.x264-PSYCHD.mkv.mp4
 
 type=video
 name=The Truth About Lies (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/4lGqhjois9GvQ2VA23Q5zzEaqv.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lGqhjois9GvQ2VA23Q5zzEaqv.jpg
 date=2018-01-31
 URL=https://openload.co/f/wBM4Fs2oBio/The.Truth.About.Lies.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/4vkKsUNgS8g/The.Truth.About.Lies.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Arg Stairs (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/mrYEfb8WZkCdhjfY6mUxDC2MUOp.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrYEfb8WZkCdhjfY6mUxDC2MUOp.jpg
 date=2017-10-27
 URL=https://openload.co/f/KIyqeZ9kLwk/Arg_Stairs.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
@@ -765,33 +765,33 @@ URL=https://openload.co/f/KIyqeZ9kLwk/Arg_Stairs.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=A Closer Walk with Thee (2017) ENG DVDRip.x264-RedBlade
-thumb=https://image.tmdb.org/t/p/w640/cli8Slwqhxm6ZSUjRcBfyWTFiuJ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cli8Slwqhxm6ZSUjRcBfyWTFiuJ.jpg
 date=2017-10-25
 URL=https://openload.co/f/hzUAxJiRRus/A.Closer.Walk.With.Thee.2017.DVDRip.x264-RedBlade.mkv.mp4
 
 type=video
 name=Espionage Tonight (2017) ENG 720p.Hulu.WEB-DL.AAC2.0.H.264-Antifa
-thumb=https://image.tmdb.org/t/p/w640/5OT69WVptTe6fEELJmSFQ2oRcqI.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OT69WVptTe6fEELJmSFQ2oRcqI.jpg
 date=2018-01-29
 URL=https://openload.co/f/jsX7UBJY8-k/Espionage.Tonight.2017.720p.Hulu.WEB-DL.AAC2.0.H.264-Antifa.mkv.mp4
 #https://openload.co/f/ohlpTYnAgls/Espionage_Tonight_2017_HDRip_XviD_AC3-EVO.avi.mp4
 
 type=video
 name=Columbus (2017) ENG WEB-DL.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/1YM144vixTdsrCzSmGUjdsRmL4D.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YM144vixTdsrCzSmGUjdsRmL4D.jpg
 date=2017-10-24
 URL=https://openload.co/f/yPVfLG-6hkg/Columbus.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/8MhKKUghaYo/Columbus.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Shortwave (2016) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/59S3GHAz8NKPbFv4Sa3KSi4qhMc.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/59S3GHAz8NKPbFv4Sa3KSi4qhMc.jpg
 date=2017-10-24
 URL=https://openload.co/f/4HLGuFV8XFI/Shortwave.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=Creep 2 (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/a0m7WciFnBqpcyH1Yi8i4tdvk0k.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0m7WciFnBqpcyH1Yi8i4tdvk0k.jpg
 date=2017-10-24
 URL=https://openload.co/f/vrRM4kviyb0/Creep.2.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
@@ -801,7 +801,7 @@ URL=https://openload.co/f/vrRM4kviyb0/Creep.2.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Never Here (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/5CXEnLk3SHI5WXJG97Az1JYRcIu.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CXEnLk3SHI5WXJG97Az1JYRcIu.jpg
 date=2017-10-20
 URL=https://openload.co/f/rHZatbYrz14/Never.Here.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
@@ -809,7 +809,7 @@ URL=https://openload.co/f/rHZatbYrz14/Never.Here.2017.1080p.WEB-DL.DD5.1.H264-FG
 
 type=video
 name=The Wilde Wedding (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/wE9tcRTZ3OCTz2LjGaNxFHZnDLJ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wE9tcRTZ3OCTz2LjGaNxFHZnDLJ.jpg
 date=2018-01-30
 URL=https://openload.co/f/SXzYjq17XRE/The.Wilde.Wedding.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/vFtshTJHqNg/the.wilde.wedding.2017.dvdrip.x264-wide.mkv.mp4
@@ -826,20 +826,20 @@ URL=https://openload.co/f/_KK6iPHc4Wg/Sex_Guaranteed_2017_HDRip_XviD_AC3-EVO.avi
 
 type=video
 name=Garage Sale Mystery: The Wedding Dress (2015) ENG HDTV.1080p.h264-PLUTONiUM MKV 2.1GB
-thumb=https://image.tmdb.org/t/p/w640/kLkR98iANExvKkcxyJYKGlkJ9mM.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLkR98iANExvKkcxyJYKGlkJ9mM.jpg
 date=2017-10-17
 URL=https://openload.co/f/7OVu-yyKU88/Garage.Sale.Mystery.The.Wedding.Dress.2015.HDTV.1080p.h264-PLUTONiUM.mkv
 #https://openload.co/f/KXP8V9XQ3EE/Garage.Sale.Mystery.The.Wedding.Dress.2015.HDTV.1080p.h264-PLUTONiUM.mkv.mp4
 
 type=video
 name=Kiss and Cry (2017) ENG WEBRip
-thumb=https://image.tmdb.org/t/p/w640/7242QzSUH51JpWzzxbbESPTWqjR.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7242QzSUH51JpWzzxbbESPTWqjR.jpg
 date=2017-10-16
 URL=https://openload.co/f/UKGuPSK2OjQ/Kiss_and_Cry_%282017%29_1080p_WEBRip_%5Bmoviseries.com%5D.mp4
 
 type=video
 name=The Gaelic King (2017) ENG web.h264-strife
-thumb=https://image.tmdb.org/t/p/w640/wgdWTkIm0mc4RpcFqDtPMwhBd3e.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgdWTkIm0mc4RpcFqDtPMwhBd3e.jpg
 date=2017-12-28
 URL=https://openload.co/f/SBNTs47ybPQ/the.gaelic.king.2017.web.h264-strife.mkv.mp4
 #https://openload.co/f/a32POD-ZrdM/The.Gaelic.King.2017.DVDRip.x264-SPOOKS.mkv.mp4
@@ -847,13 +847,13 @@ URL=https://openload.co/f/SBNTs47ybPQ/the.gaelic.king.2017.web.h264-strife.mkv.m
 
 type=video
 name=The Last Dragonslayer (2016) ENG DVDRip_x264-GHOULS
-thumb=https://image.tmdb.org/t/p/w640/be39oeAlA13F8WrehNSWH15jRVF.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/be39oeAlA13F8WrehNSWH15jRVF.jpg
 date=2017-10-15
 URL=https://openload.co/f/nq1lED0QQv8/The_Last_Dragonslayer_2016_DVDRip_x264-GHOULS.mkv.mp4
 
 type=video
 name=Road to the Open (2014) ENG WEBRip.x264-iNTENSO MKV
-thumb=https://image.tmdb.org/t/p/w640/k4s38n6nDB1X4QOp1rJjhIeueMb.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4s38n6nDB1X4QOp1rJjhIeueMb.jpg
 date=2017-10-15
 URL=https://openload.co/f/MVQ6izjWJlI/Road.to.the.Open.2014.WEBRip.x264-iNTENSO.mkv
 #https://openload.co/f/WntrTZkvp-o/Road.to.the.Open.2014.WEBRip.x264-iNTENSO.mkv
@@ -861,21 +861,21 @@ URL=https://openload.co/f/MVQ6izjWJlI/Road.to.the.Open.2014.WEBRip.x264-iNTENSO.
 
 type=video
 name=Bad Blood: The Movie (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/dFHCiDEfApXG58Fd8X8lgMUQ0Cm.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFHCiDEfApXG58Fd8X8lgMUQ0Cm.jpg
 date=2017-10-15
 URL=https://openload.co/f/p7JnDjBTezk/Bad.Blood.The.Movie.2016.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/8PgZmiItJRk/B.B.T.M.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=The Playground (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/lJuCWn9LovH4VsGMfLF8xUKflFq.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJuCWn9LovH4VsGMfLF8xUKflFq.jpg
 date=2017-10-15
 URL=https://openload.co/f/34zQm3wPLjo/The.Playground.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/VmX1md3QOb4/T.PG.2017.WEB-DL.XviD.MP3-FGT.avi.mp4
 
 type=video
 name=Talon Falls (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/lTkMVgTMzctisqNYfdXk0vicktY.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTkMVgTMzctisqNYfdXk0vicktY.jpg
 date=2017-10-15
 URL=https://openload.co/f/O8gPiFYAZhU/Talon.Falls.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/6RHlB8XBF20/T.F.2017.HDRip.XviD.AC3-EVO.avi.mp4
@@ -884,7 +884,7 @@ URL=https://openload.co/f/O8gPiFYAZhU/Talon.Falls.2017.HDRip.XviD.AC3-EVO.avi.mp
 
 type=video
 name=Freehold (2017) ENG DVDRip.x264-RedBlade
-thumb=https://image.tmdb.org/t/p/w640/bITbGBGn7pUKJAF6U0dzNT33ZxU.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bITbGBGn7pUKJAF6U0dzNT33ZxU.jpg
 date=2018-01-18
 URL=https://openload.co/f/yIOUrQXSCCM/Freehold.2017.DVDRip.x264-RedBlade.mkv.mp4
 #https://openload.co/f/t1E8pQAnJaw/Freehold_2017_HDRip_XviD_AC3-EVO.avi.mp4
@@ -892,13 +892,13 @@ URL=https://openload.co/f/yIOUrQXSCCM/Freehold.2017.DVDRip.x264-RedBlade.mkv.mp4
 
 type=video
 name=Gremlin (2017) ENG WEB.h264-MAJiKNiNJAZ
-thumb=https://image.tmdb.org/t/p/w640/ikzorlv0yAxYCvkugO6k1EAgqMK.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikzorlv0yAxYCvkugO6k1EAgqMK.jpg
 date=2017-10-14
 URL=https://openload.co/f/Gq0x2YupZqo/Gremlin.2017.720p.WEB.h264-MAJiKNiNJAZ.mkv.mp4
 
 type=video
 name=Interlude In Prague (2017) ENG hdtv.x264-plutonium
-thumb=https://image.tmdb.org/t/p/w640/37On4oXU6nENacmhmJRDSDvCYzS.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/37On4oXU6nENacmhmJRDSDvCYzS.jpg
 date=2017-10-13
 URL=https://openload.co/f/WKiaGxmzavE/interlude.in.prague.2017.hdtv.x264-plutonium.mkv
 #https://openload.co/f/0VkxFt6W5Ek/interlude.in.prague.2017.hdtv.x264-plutonium.mkv.mp4
@@ -909,32 +909,32 @@ URL=https://openload.co/f/WKiaGxmzavE/interlude.in.prague.2017.hdtv.x264-plutoni
 
 type=video
 name=Lycan (2017) ENG WEBRip.x264-RBG
-thumb=https://image.tmdb.org/t/p/w640/bY9hv9FwVyCxsW4cufD8n22mmN6.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bY9hv9FwVyCxsW4cufD8n22mmN6.jpg
 date=2017-10-13
 URL=https://openload.co/f/QhMnHZmhwVE/Lycan.2017.WEBRip.x264-RBG.mp4
 #https://openload.co/f/72YBhqllkLo/Lycan.2017.DVDRip.XViD.AC3-juggs.avi.mp4
 
 type=video
 name=Consumed (2015) ENG hdtv.h264-plutonium
-thumb=https://image.tmdb.org/t/p/w640/fLp9FFz8sYeRgRQbhKuijxGfHou.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLp9FFz8sYeRgRQbhKuijxGfHou.jpg
 date=2017-10-12
 URL=https://openload.co/f/crFd3YaywOg/Consumed.2015.1080p.hdtv.h264-plutonium.mkv.mp4
 
 type=video
 name=Cardboard Gangsters (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/sYSmyuSwD7HmorqXRAWzn50jlur.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYSmyuSwD7HmorqXRAWzn50jlur.jpg
 date=2017-10-10
 URL=https://openload.co/f/t57IiPCVk5I/Cardboard.Gangsters.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=House by the Lake (2016) ENG HDRip_XviD_AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/30MeMnAT0YxZidLqaS5zkVUmz0P.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30MeMnAT0YxZidLqaS5zkVUmz0P.jpg
 date=2017-10-10
 URL=https://openload.co/f/Wjadg2CR4yQ/House_By_the_Lake_2017_HDRip_XviD_AC3-EVO.mp4
 
 type=video
 name=One Percent More Humid (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/mRYVP2wlQIqQ1uI0rWFcp7tm7X9.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRYVP2wlQIqQ1uI0rWFcp7tm7X9.jpg
 date=2018-01-31
 URL=https://openload.co/f/Qae7lBcWAYU/One.Percent.More.Humid.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/711Yu6m15Ao/One_Percent_More_Humid_%282017%29_%5B1080p-WEB-DL%5D.mp4
@@ -943,7 +943,7 @@ URL=https://openload.co/f/Qae7lBcWAYU/One.Percent.More.Humid.2017.1080p.WEB-DL.D
 
 type=video
 name=Sleepwalker (2017) ENG HDRip_XviD_AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/6mL4XNPdJZcaL1iUKDMY7wtqp0.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mL4XNPdJZcaL1iUKDMY7wtqp0.jpg
 date=2017-10-10
 URL=https://openload.co/f/JZe9TCIgTEI/Sleepwalker_2017_HDRip_XviD_AC3-EVO.mp4
 
@@ -953,20 +953,20 @@ URL=https://openload.co/f/JZe9TCIgTEI/Sleepwalker_2017_HDRip_XviD_AC3-EVO.mp4
 
 type=video
 name=Cold Moon (2016) ENG dvdrip.x264-bipolar
-thumb=https://image.tmdb.org/t/p/w640/lvSa2tlvXCUvk4dtKk0oK6lgmrt.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvSa2tlvXCUvk4dtKk0oK6lgmrt.jpg
 date=2018-01-14
 URL=https://openload.co/f/n9sQr0vfSj4/cold.moon.2016.dvdrip.x264-bipolar.mkv.mp4
 #https://openload.co/f/szCmH5CISp4/Cold.Moon.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=Paint It Black (2016) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/1i9CTlb2gabuIQJEDuPsc05GfEb.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1i9CTlb2gabuIQJEDuPsc05GfEb.jpg
 date=2017-10-06
 URL=https://openload.co/f/syvOIsMJyAM/Paint.It.Black.2016.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
 name=East Side Sushi (2014) ENG webrip.x264-intenso
-thumb=https://image.tmdb.org/t/p/w640/hyDJxhPooTZQ3F889qxHyAUzBfO.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyDJxhPooTZQ3F889qxHyAUzBfO.jpg
 date=2017-10-06
 URL=https://openload.co/f/Q60lCySBuyA/east.side.sushi.2014.1080p.webrip.x264-intenso.mkv.mp4
 
@@ -974,25 +974,25 @@ URL=https://openload.co/f/Q60lCySBuyA/east.side.sushi.2014.1080p.webrip.x264-int
 
 type=video
 name=Armstrong (2016) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/dPuL1DITI9UYBXt5UCqedWBtzPn.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPuL1DITI9UYBXt5UCqedWBtzPn.jpg
 date=2017-10-03
 URL=https://openload.co/f/sWAgEDGD2HY/Armstrong_%282016%29.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=The Honor Farm (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/lw8GrBu1t0EUKmPdVgwCwTLexip.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw8GrBu1t0EUKmPdVgwCwTLexip.jpg
 date=2017-10-03
 URL=https://openload.co/f/luV4wf2BwQU/The_Honor_Farm_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Nails (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/vcMBGsJH4DFKNoKMRL2Rz4c3hQn.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcMBGsJH4DFKNoKMRL2Rz4c3hQn.jpg
 date=2017-10-03
 URL=https://openload.co/f/cPeZGpx2cOM/Nails.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Landline (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/p7RVsyi67S95RyNJjX99E1MaOsA.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7RVsyi67S95RyNJjX99E1MaOsA.jpg
 date=2017-11-18
 URL=https://openload.co/f/iHZZfH-CV1g/Landline.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/AuZ_RdmW1Us/Landline.2017.DVDRip.x264-PSYCHD.mkv
@@ -1001,7 +1001,7 @@ URL=https://openload.co/f/iHZZfH-CV1g/Landline.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Daphne (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/7Z5hfRmasEUeypPczBjW92GzMgb.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Z5hfRmasEUeypPczBjW92GzMgb.jpg
 date=2017-10-03
 URL=https://openload.co/f/bZOKMzdGzUs/Daphne_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
 
@@ -1009,7 +1009,7 @@ URL=https://openload.co/f/bZOKMzdGzUs/Daphne_%282017%29.HDRip.XviD.AC3-EVO.avi.m
 
 type=video
 name=An Ordinary Man (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/fyg3lIA2ddFb0zdrHFI4Y9CUFwe.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyg3lIA2ddFb0zdrHFI4Y9CUFwe.jpg
 date=2017-10-02
 URL=https://openload.co/f/z1asGOwp7mk/An.Ordinary.Man.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
@@ -1027,31 +1027,31 @@ URL=https://openload.co/f/z1asGOwp7mk/An.Ordinary.Man.2017.720p.WEB-DL.H264.AC3-
 
 type=video
 name=Our Souls at Night (2017) ENG web.x264-strife
-thumb=https://image.tmdb.org/t/p/w640/czjZ7JjOs1OOWklu3a6O7YcSta7.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/czjZ7JjOs1OOWklu3a6O7YcSta7.jpg
 date=2017-09-29
 URL=https://openload.co/f/ELer3jCKvn4/Our_Souls_at_Night_%282017%29.web.x264-strife.mkv.mp4
 
 type=video
 name=Don't Sleep (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/w61L6RxYB50jOCw9GjfbFNUIMz.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w61L6RxYB50jOCw9GjfbFNUIMz.jpg
 date=2017-09-29
 URL=https://openload.co/f/h9oKUiRB9lA/Dont.Sleep.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=Literally, Right Before Aaron (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/4fdjQ5lFbkSWlAUv7px6KSEOdxP.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fdjQ5lFbkSWlAUv7px6KSEOdxP.jpg
 date=2017-09-29
 URL=https://openload.co/f/wtxuBniuKyk/Literally%2C_Right_Before_Aaron_%282017%29.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=Infinity Chamber (2016) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/qkXoinYjvPz0G2MYW3igfJQoAxR.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkXoinYjvPz0G2MYW3igfJQoAxR.jpg
 date=2017-09-29
 URL=https://openload.co/f/OfKFovY5wXs/Infinity.Chamber.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=Zombies (2017) ENG WEB-DL.x264-FGT
-thumb=https://image.tmdb.org/t/p/w640/6SXVRLtUcJqPrHC4x6vL3Arwwzk.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SXVRLtUcJqPrHC4x6vL3Arwwzk.jpg
 date=2017-09-29
 URL=https://openload.co/f/iEnVUcMakoE/Zombies.2017.WEB-DL.x264-FGT.mp4
 
@@ -1063,20 +1063,20 @@ URL=https://openload.co/f/iEnVUcMakoE/Zombies.2017.WEB-DL.x264-FGT.mp4
 
 type=video
 name=King Charles III (2017) ENG dvdrip.x264-ghouls
-thumb=https://image.tmdb.org/t/p/w640/tQ6aFuWBrQSqJcgoqXnlozBGyam.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQ6aFuWBrQSqJcgoqXnlozBGyam.jpg
 date=2017-09-26
 URL=https://openload.co/f/ydS6ih9sgJ0/king.charles.iii.2017.dvdrip.x264-ghouls.mkv.mp4
 
 type=video
 name=The Child in Time (2017) ENG dvdrip.x264-ghouls
-thumb=https://image.tmdb.org/t/p/w640/kCoCMVvhEmW1Xo0G8oZQH7DDnGP.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCoCMVvhEmW1Xo0G8oZQH7DDnGP.jpg
 date=2017-11-20
 URL=https://openload.co/f/1HXKvHwSqkg/the.child.in.time.2017.dvdrip.x264-ghouls.mkv.mp4
 #https://openload.co/f/bPny44tZekE/the.child.in.time.2017.1080p.hdtv.h264-mtb.mkv.mp4
 
 type=video
 name=Andy's Rainbow (2016) ENG WEBRip.x264-iNTENSO
-thumb=https://image.tmdb.org/t/p/w640/e6vk1wzFD3acJ3qpsAHTI6tH3Pg.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6vk1wzFD3acJ3qpsAHTI6tH3Pg.jpg
 date=2017-09-24
 URL=https://openload.co/f/rQWFrau4Bz8/Andys.Rainbow.2016.1080p.WEBRip.x264-iNTENSO.mkv.mp4
 
@@ -1084,14 +1084,14 @@ URL=https://openload.co/f/rQWFrau4Bz8/Andys.Rainbow.2016.1080p.WEBRip.x264-iNTEN
 
 type=video
 name=Easy Living (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/uqfvqrNXfDAbuAjZBbQ9MFhtLOl.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqfvqrNXfDAbuAjZBbQ9MFhtLOl.jpg
 date=2018-01-30
 URL=https://openload.co/f/A5x_vL8XSOc/Easy.Living.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/MeVz2LFyD8w/Easy.Living.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Negative (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/hfrkWkCa5ARASkxE8pgQvFT6MHJ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfrkWkCa5ARASkxE8pgQvFT6MHJ.jpg
 date=2017-09-19
 URL=https://openload.co/f/4JeAAEyQ7Cg/Negative.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
@@ -1099,19 +1099,19 @@ URL=https://openload.co/f/4JeAAEyQ7Cg/Negative.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Last Rampage (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/kZDF2GDto5WCPW9wbRqrqf9yRWM.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZDF2GDto5WCPW9wbRqrqf9yRWM.jpg
 date=2017-09-22
 URL=https://openload.co/f/PNpdkJTVeuE/Last.Rampage.The.Escape.of.Gary.Tison.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Happy Hunting (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/7En4gpYbMKa7WVKfbEtwxD9DEtV.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7En4gpYbMKa7WVKfbEtwxD9DEtV.jpg
 date=2017-09-22
 URL=https://openload.co/f/0kmy7gSr4W8/Happy.Hunting.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Big Bear (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/ukiyd1Z7gZQSsu2daAPEDQGtViC.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukiyd1Z7gZQSsu2daAPEDQGtViC.jpg
 date=2017-09-22
 URL=https://openload.co/f/Zr-Xop-3p3c/Big.Bear.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
@@ -1125,13 +1125,13 @@ URL=https://openload.co/f/mqvlmaYXBME/campus.caller.2017.1080p.hdtv.h264-plutoni
 
 type=video
 name=The Rizen (2017) ENG dvdrip.x264-spooks
-thumb=https://image.tmdb.org/t/p/w640/A0FJyq8lbqZDz32bvImIRBlT8bS.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0FJyq8lbqZDz32bvImIRBlT8bS.jpg
 date=2017-09-18
 URL=https://openload.co/f/7L_eh608gm4/the.rizen.2017.dvdrip.x264-spooks.mkv.mp4
 
 type=video
 name=AWOL (2017) ENG DVDRip.x264-RedBlade
-thumb=https://image.tmdb.org/t/p/w640/cK1DvOZWUVujRgRXPFYCP6XDUxS.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cK1DvOZWUVujRgRXPFYCP6XDUxS.jpg
 date=2017-09-14
 URL=https://openload.co/f/i3T0swVRHpc/AWOL.2016.DVDRip.x264-RedBlade.mkv.mp4
 
@@ -1141,7 +1141,7 @@ URL=https://openload.co/f/i3T0swVRHpc/AWOL.2016.DVDRip.x264-RedBlade.mkv.mp4
 
 type=video
 name=Who Is Alice? (2017) ENG Amazon.WEB-DL.DD%2B2.0.H.264-QOQ
-thumb=https://image.tmdb.org/t/p/w640/eIlfBm1lp26lP0vJvzQgfYbzftD.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIlfBm1lp26lP0vJvzQgfYbzftD.jpg
 date=2017-09-08
 URL=https://openload.co/f/HgINDRLD9qI/Who.Is.Alice.2017.1080p.Amazon.WEB-DL.DD%2B2.0.H.264-QOQ.mkv.mp4
 
@@ -1149,19 +1149,19 @@ URL=https://openload.co/f/HgINDRLD9qI/Who.Is.Alice.2017.1080p.Amazon.WEB-DL.DD%2
 
 type=video
 name=Chronesthesia (2016) ENG WEBRip.x264-iNTENSO
-thumb=https://image.tmdb.org/t/p/w640/oVuhoZ8rBJpXlIUdP9h9myM1BlM.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVuhoZ8rBJpXlIUdP9h9myM1BlM.jpg
 date=2017-09-16
 URL=https://openload.co/f/8cTA5_Un5wQ/Chronesthesia.2016.1080p.WEBRip.x264-iNTENSO.mkv.mp4
 
 type=video
 name=A Boy Called Po (2016) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/kiNhoBvij8Xd9ahm5w3gRJGWXcT.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiNhoBvij8Xd9ahm5w3gRJGWXcT.jpg
 date=2017-09-03
 URL=https://openload.co/f/-l3c1Uj30Ow/A.B.C.P.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=The Atoning (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/fuJUqSrfrGDAch1D2ncQNCfUD1N.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuJUqSrfrGDAch1D2ncQNCfUD1N.jpg
 date=2017-09-05
 URL=https://openload.co/f/g7zpuGPUDgo/The.Atoning.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
@@ -1169,7 +1169,7 @@ URL=https://openload.co/f/g7zpuGPUDgo/The.Atoning.2017.1080p.WEB-DL.DD5.1.H264-F
 
 type=video
 name=Residue (2017) ENG HDRip.XviD.AC3-iFT
-thumb=https://image.tmdb.org/t/p/w640/wIqS9wHCWd76T7q7CxsWtKwcYa9.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIqS9wHCWd76T7q7CxsWtKwcYa9.jpg
 date=2017-09-05
 URL=https://openload.co/f/koyCk1BiUcw/Residue.2017.HDRip.XviD.AC3-iFT.avi.mp4
 
@@ -1179,19 +1179,19 @@ URL=https://openload.co/f/koyCk1BiUcw/Residue.2017.HDRip.XviD.AC3-iFT.avi.mp4
 
 type=video
 name=Rogue Warrior: Robot Fighter (2017) ENG DVDRip.x264-PSYCHD
-thumb=https://image.tmdb.org/t/p/w640/dCVzSIcG27eI5VrH4s2JNIgPEat.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCVzSIcG27eI5VrH4s2JNIgPEat.jpg
 date=2017-08-27
 URL=https://openload.co/f/l9wLHs-fV-k/Rogue.Warrior.Robot.Fighter.2017.DVDRip.x264-PSYCHD.mkv.mp4
 
 type=video
 name=Death Note (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/xjQ1PlIy28PgMz9Vrra1X61kHUe.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjQ1PlIy28PgMz9Vrra1X61kHUe.jpg
 date=2017-08-25
 URL=https://openload.co/f/hEe55YrjiTM/DN.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Deep (2017) ENG dvdrip.x264.fragment
-thumb=https://image.tmdb.org/t/p/w640/14mEMC6rRNedvaz1d5sfLX8uRGt.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/14mEMC6rRNedvaz1d5sfLX8uRGt.jpg
 date=2017-12-20
 URL=https://openload.co/f/smkyhOXIZKc/deep.2017.dvdrip.x264.fragment.mkv.mp4
 #https://openload.co/f/-qn2CAAEOWY/Deep.2017.WEBRip.x264-RARBG.mp4
@@ -1199,14 +1199,14 @@ URL=https://openload.co/f/smkyhOXIZKc/deep.2017.dvdrip.x264.fragment.mkv.mp4
 
 type=video
 name=Unleashed (2017) ENG dvdrip.x264-lpd
-thumb=https://image.tmdb.org/t/p/w640/fk7xQMvfsEoIDhzsfAg8yDFRasf.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fk7xQMvfsEoIDhzsfAg8yDFRasf.jpg
 date=2017-12-12
 URL=https://openload.co/f/fE7rBHsE7hg/unleashed.limited.2016.dvdrip.x264-lpd.mkv.mp4
 #https://openload.co/f/f3gwH7ze0BA/Unleashed.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Anti Matter (2016) ENG WEB-DL_AAC2.0_H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/62oRA7ghxL9HGFHe5Dd9IVljyKi.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/62oRA7ghxL9HGFHe5Dd9IVljyKi.jpg
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
@@ -1265,14 +1265,20 @@ rating=-1.00
 
 
 type=video
+name=On Body and Soul (2017) HUN 1080p.WEB-DL.HC.x264.AC3.HORiZON-ArtSubs
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uguWEoZelSSckxgiQctlkZ6gpfU.jpg
+date=2018-02-01
+URL=https://openload.co/f/B9CVgtZLccM/On.Body.and.Soul.2017.1080p.WEB-DL.HC.x264.AC3.HORiZON-ArtSubs.mkv.mp4
+
+type=video
 name=Arrhythmia (2017) RUS EngSub.WEB-DL
-thumb=https://image.tmdb.org/t/p/w640/m800lQEOeSB8xHCSDVPvllxqdMK.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m800lQEOeSB8xHCSDVPvllxqdMK.jpg
 date=2018-01-17
 URL=https://openload.co/f/QZ2N84nNYf0/Aritmiya_AKA_Arrhythmia_2017.EngSub.WEB-DL.mkv.mp4
 
 type=video
 name=The Square (2017) ENG DVDRip.x264-PSYCHD
-thumb=https://image.tmdb.org/t/p/w640/kKBHo6WnRnUJ5qvWFWd3Fne9bKE.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKBHo6WnRnUJ5qvWFWd3Fne9bKE.jpg
 date=2018-01-31
 URL=https://openload.co/f/JzTqcBOeG-0/The.Square.2017.DVDRip.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/jCOhyPTId50/The_Square.2017.SWEDISH.WEB-DL.XviD.AC3-FGT.avi.mp4
@@ -1287,11 +1293,28 @@ URL=
 type=video
 name=
 thumb=
-date=2018-01-31
+date=2018-02-01
 URL=
 
 
 
+type=video
+name=West of Her (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMzc4OTYxMDQ2Ml5BMl5BanBnXkFtZTgwMTA0MjI5NzE@._V1_SY1000_SX675_AL_.jpg
+date=2018-02-01
+URL=https://openload.co/f/LXI5oi-3L6o/West.of.Her.2016.BluRay.1080p.DTS-HD.MA.2.0.x264-MTeam%5BEtHD%5D.mkv.mp4
+
+type=video
+name=Stop Over in Hell (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BYjk5N2ZiZTAtM2I1Yy00YjQzLTg1ODMtNWQ5NDE3YWIxZDUyXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_.jpg
+date=2018-02-01
+URL=https://openload.co/f/DVex6xBHV3I/stop.over.in.hell.2016.1080p.bluray.x264-rusted.mkv.mp4
+
+type=video
+name=Kills on Wheels (2016) [COLOR=FF00FF00]HUN BR 1080p[/COLOR]
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BYTk0MGMwN2MtODVhZi00MGZkLThiYjUtZTM3NzUyNmRmNDNjXkEyXkFqcGdeQXVyODM3MjA1NA@@._V1_SY1000_CR0,0,675,1000_AL_.jpg
+date=2018-02-01
+URL=https://openload.co/f/ruT0aOBKXWc/kills.on.wheels.2016.limited.1080p.bluray.x264-usury.mkv.mp4
 
 type=video
 name=Diverge (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1329,7 +1352,7 @@ URL=https://openload.co/f/Thb1i-FuCUE/Crossing.Point.2016.1080p.BluRay.x264-NTRO
 
 type=video
 name=Crooked House (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/n3Nwj7WrV42osuILi4ErBCoqkQl.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3Nwj7WrV42osuILi4ErBCoqkQl.jpg
 date=2018-01-27
 URL=https://www.blazefile.co/embed-jfoo2m4io29x.html
 #https://uptobox.com/lvibe7uen0se
@@ -1341,7 +1364,7 @@ URL=https://www.blazefile.co/embed-jfoo2m4io29x.html
 
 type=video
 name=All I See Is You (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/wc9MgFWuBl3VS72w6VtiZXTgN79.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wc9MgFWuBl3VS72w6VtiZXTgN79.jpg
 date=2018-01-27
 URL=https://www.blazefile.co/embed-mjnldjyaw2zm.html
 #https://uptobox.com/vfuz84o5jbik
@@ -1360,7 +1383,7 @@ URL=https://openload.co/f/j0i9sodJosE/the.odyssey.2016.limited.1080p.bluray.x264
 
 type=video
 name=The Good Catholic (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/iPvggWYCZblEG2ldObR6GHmkEjz.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPvggWYCZblEG2ldObR6GHmkEjz.jpg
 date=2018-01-30
 URL=https://www.blazefile.co/embed-wyntwpl4suil.html
 #https://uptobox.com/4bbc3jmle0y6
@@ -1371,7 +1394,7 @@ URL=https://www.blazefile.co/embed-wyntwpl4suil.html
 
 type=video
 name=Only the Brave (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg
 date=2018-01-25
 URL=https://www.blazefile.co/embed-i7n360g659k4.html
 #https://uptobox.com/k1c1pb6xeuor
@@ -1424,7 +1447,7 @@ URL=https://openload.co/f/g5nMGIBnEDI/Accident.2017.1080p.BluRay.x264-CURSE.mkv.
 
 type=video
 name=Suburbicon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg
 date=2018-01-27
 URL=https://www.blazefile.co/embed-humjtrd4zd8x.html
 #https://uptobox.com/susjkd4ldusx
@@ -1437,14 +1460,14 @@ URL=https://www.blazefile.co/embed-humjtrd4zd8x.html
 
 type=video
 name=Song to Song (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/rEvtGhNY2DQ4L8Ma6rpMhL6IbKM.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEvtGhNY2DQ4L8Ma6rpMhL6IbKM.jpg
 date=2018-01-25
 URL=https://www.blazefile.co/embed-1j6uwn6l6it3.html
 
 
 type=video
 name=A Bad Moms Christmas (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/gPNHolu7AGnrB7r5kvJRRTfwMFR.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPNHolu7AGnrB7r5kvJRRTfwMFR.jpg
 date=2018-01-25
 URL=https://www.blazefile.co/embed-7r3e585n4q2p.html
 #https://uptobox.com/x95fwxg27uz4
@@ -1459,7 +1482,7 @@ URL=https://www.blazefile.co/embed-7r3e585n4q2p.html
 
 type=video
 name=Sweet Virginia (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/s82fGiRhdgO2SRJiJ6dOCayKnSH.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s82fGiRhdgO2SRJiJ6dOCayKnSH.jpg
 date=2018-01-23
 URL=https://www.blazefile.co/embed-rnnm4y74e14c.html
 #https://uptobox.com/pobwcwqhjttj
@@ -1468,7 +1491,7 @@ URL=https://www.blazefile.co/embed-rnnm4y74e14c.html
 
 type=video
 name=American Satan (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/cr6ucnzCo7V3VP38tdqpShGp6jf.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cr6ucnzCo7V3VP38tdqpShGp6jf.jpg
 date=2018-01-25
 URL=https://www.blazefile.co/embed-855v9daqjbpm.html
 #https://uptobox.com/bbidy5k6a0om
@@ -1478,7 +1501,7 @@ URL=https://www.blazefile.co/embed-855v9daqjbpm.html
 
 type=video
 name=Almost Friends (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/oWe95qgWq52M1Prub2F4QkYIADB.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWe95qgWq52M1Prub2F4QkYIADB.jpg
 date=2018-01-21
 URL=https://uptobox.com/ylvq2b58cci0
 #https://openload.co/f/XUoItuCUvjo/Almost_Friends_2016.1080p.BluRay.x264-YTS_AG.mp4
@@ -1487,7 +1510,7 @@ URL=https://uptobox.com/ylvq2b58cci0
 
 type=video
 name=Last Flag Flying (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/pizynKUzJ9YucGff1O1MYisY1WM.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pizynKUzJ9YucGff1O1MYisY1WM.jpg
 date=2018-01-21
 URL=https://openload.co/f/nyKy6gvCRYo/Last.Flag.Flying.2017.1080p.Br_SeeHD.mp4
 #https://openload.co/f/M1W3AAmhtkQ/Last.Flag.Flying.2017.720p.BluRay.x264-DRONES.mkv.mp4
@@ -1497,14 +1520,14 @@ URL=https://openload.co/f/nyKy6gvCRYo/Last.Flag.Flying.2017.1080p.Br_SeeHD.mp4
 
 type=video
 name=Australia Day (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/7xUzNoOWf2TnqRveNfcvAZQebyo.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xUzNoOWf2TnqRveNfcvAZQebyo.jpg
 date=2018-01-21
 URL=https://uptobox.com/9akoxppajh20
 #https://openload.co/f/Rz_Ni_QPKUc/Australia.Day.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Guardians (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/r1cJPzC85XsVOzai8MMG9Qe4AH6.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1cJPzC85XsVOzai8MMG9Qe4AH6.jpg
 date=2018-01-23
 URL=https://www.blazefile.co/embed-nnnbot58kukh.html
 #https://uptobox.com/8h8pqvz1os0a
@@ -1515,7 +1538,7 @@ URL=https://www.blazefile.co/embed-nnnbot58kukh.html
 
 type=video
 name=Maze (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/1eP7dpwRcjA8vfcyBhtZkYnNRi9.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1eP7dpwRcjA8vfcyBhtZkYnNRi9.jpg
 date=2018-01-23
 URL=https://www.blazefile.co/embed-26e1sa9znj7u.html
 #https://uptobox.com/4h4uipvqwl39
@@ -1523,7 +1546,7 @@ URL=https://www.blazefile.co/embed-26e1sa9znj7u.html
 
 type=video
 name=Thank You for Your Service (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/z8OKWw6DAZAOyz8F421euawr3Hs.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8OKWw6DAZAOyz8F421euawr3Hs.jpg
 date=2018-01-18
 URL=https://www.blazefile.co/embed-lpdaxqsck1dt.html
 #https://uptobox.com/mn76go3nvddc
@@ -1532,7 +1555,7 @@ URL=https://www.blazefile.co/embed-lpdaxqsck1dt.html
 
 type=video
 name=Boo 2! A Madea Halloween (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/5nvP4etJ8ecQv8qZM08dK4BAzdK.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nvP4etJ8ecQv8qZM08dK4BAzdK.jpg
 date=2018-01-18
 URL=https://openload.co/f/hnbzXd-lI-4/Tyler.Perrys.Boo.2.A.Madea.Halloween.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/s3YTxCPeuEM/Boo_2_A_Madea_Halloween_%282017%29_1080_WebRip_SeeHD.mp4
@@ -1542,7 +1565,7 @@ URL=https://openload.co/f/hnbzXd-lI-4/Tyler.Perrys.Boo.2.A.Madea.Halloween.2017.
 
 type=video
 name=LBJ (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/38LjJv6ZvNsblF9ulSVGcMSIXfk.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/38LjJv6ZvNsblF9ulSVGcMSIXfk.jpg
 date=2018-01-17
 URL=https://openload.co/f/mmt8x6Q4_3Q/LBJ.2016.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://www.blazefile.co/embed-7uot1i5zu90n.html   720
@@ -1550,7 +1573,7 @@ URL=https://openload.co/f/mmt8x6Q4_3Q/LBJ.2016.1080p.BluRay.x264-GECKOS.mkv.mp4
 
 type=video
 name=The Killing of a Sacred Deer (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg
 date=2017-12-18
 URL=https://www.blazefile.co/embed-ej2kkiglwtlz.html
 #https://uptobox.com/v26on32pu7t9
@@ -1565,7 +1588,7 @@ URL=https://www.blazefile.co/embed-ej2kkiglwtlz.html
 
 type=video
 name=Professor Marston & the Wonder Women (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/tbrzHlnE8dNpllLWEe9bwDGNzLe.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbrzHlnE8dNpllLWEe9bwDGNzLe.jpg
 date=2018-01-12
 URL=https://openload.co/f/wwLUiPaojEA/professor.marston.and.the.wonder.women.2017.1080p.bluray.x264-drones.mkv.mp4
 #https://www.blazefile.co/embed-bl7c3j9ii5bp.html   720
@@ -1573,7 +1596,7 @@ URL=https://openload.co/f/wwLUiPaojEA/professor.marston.and.the.wonder.women.201
 
 type=video
 name=Gangster Land (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/npteMVPwuNqt9lAqDC67Ld4NESf.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/npteMVPwuNqt9lAqDC67Ld4NESf.jpg
 date=2018-01-09
 URL=https://uptobox.com/p2i1g4kg7vk7
 #https://uptobox.com/0ym3f4gcddqb   720
@@ -1582,14 +1605,14 @@ URL=https://uptobox.com/p2i1g4kg7vk7
 
 type=video
 name=Bullet Head (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/ySmKQPjWnNzuZ5YliQaOVEnWn2.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySmKQPjWnNzuZ5YliQaOVEnWn2.jpg
 date=2018-01-09
 URL=https://uptobox.com/dqamv68pehmt
 #https://openload.co/f/4cxVOsi3o0U/Bullet.Head.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
 
 type=video
 name=Loving Vincent (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/qlrhwUDe7YOZujAYanK6ij2vbY5.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlrhwUDe7YOZujAYanK6ij2vbY5.jpg
 date=2018-01-07
 URL=https://openload.co/f/szcjlS1fZBQ/Loving_Vincent_%282017%29.1080p.BluRay_x264-YTS_AG.mp4
 #https://openload.co/f/RmadNkiaL1g/Loving_Vincent_2017_BRRip.mp4
@@ -1597,13 +1620,13 @@ URL=https://openload.co/f/szcjlS1fZBQ/Loving_Vincent_%282017%29.1080p.BluRay_x26
 
 type=video
 name=The Last Warrior (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/kWQh4iIt3WQvWrhMoukPCshzNsh.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWQh4iIt3WQvWrhMoukPCshzNsh.jpg
 date=2018-01-06
 URL=https://openload.co/f/xtqtInzqiXo/The_Last_Warrior_%282017%29_Posledniy_bogatyr_2017.1080p.BluRay.x264.mp4.mp4
 
 type=video
 name=Happy Death Day (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
 date=2018-01-06
 URL=https://uptobox.com/pifzxk307tme
 #https://openload.co/f/68otQ6oKky4/happy.death.day.2017.1080p.bluray.x264-drones.mkv.mp4
@@ -1614,7 +1637,7 @@ URL=https://uptobox.com/pifzxk307tme
 
 type=video
 name=Salyut 7 (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/3Uwt6lz4nUXtui4iDjvaOYYMNIH.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Uwt6lz4nUXtui4iDjvaOYYMNIH.jpg
 date=2018-01-06
 URL=https://uptobox.com/ujrip0r8bduf
 #https://uptobox.com/0qkzsuxrjzzo   720
@@ -1622,7 +1645,7 @@ URL=https://uptobox.com/ujrip0r8bduf
 
 type=video
 name=The Snowman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg
 date=2018-01-06
 URL=https://uptobox.com/8tka5z0xadve
 #https://uptobox.com/e7pwfqz9yglk   1080
@@ -1635,7 +1658,7 @@ URL=https://uptobox.com/8tka5z0xadve
 
 type=video
 name=England Is Mine (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/ue3Zh4YRyJgQXj39tq8smr0iqOa.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ue3Zh4YRyJgQXj39tq8smr0iqOa.jpg
 date=2018-01-05
 URL=https://openload.co/f/nZxTgFETnik/England.Is.Mine.2017.LIMITED.1080p.BluRay.x264-SNOW.mkv.mp4
 #https://openload.co/f/HUIMp24az7M/England_Is_Mine_2017_LIMITED_720p_BluRay_x264-SNOW.mkv.mp4
@@ -1645,20 +1668,20 @@ URL=https://openload.co/f/nZxTgFETnik/England.Is.Mine.2017.LIMITED.1080p.BluRay.
 
 type=video
 name=Tad the Lost Explorer and the Secret of King Midas (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/7WtFoWtGp45PLNmajM8iGtjAA7B.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WtFoWtGp45PLNmajM8iGtjAA7B.jpg
 date=2018-01-06
 URL=https://uptobox.com/jk4w1rbajjd4
 #https://openload.co/f/2h8cg_3MBuo/Tad_the_Lost_Explorer_and_the_Secret_of_King_Midas.2017.1080p.Bluray.X264-EVO.mkv.mp4
 
 type=video
 name=Veronica (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/koFWKftn4MQMuWySBkLfRQzxxrB.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/koFWKftn4MQMuWySBkLfRQzxxrB.jpg
 date=2018-01-03
 URL=https://uptobox.com/tyxs4sjyp2fr
 
 type=video
 name=November Criminals (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/xQ40BNgkwq8JchXYORkhTwvtLac.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQ40BNgkwq8JchXYORkhTwvtLac.jpg
 date=2018-01-03
 URL=https://uptobox.com/2uowzpjnd9sd
 #https://openload.co/f/P5eHYf_j3z0/November.Criminals.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
@@ -1668,27 +1691,27 @@ URL=https://uptobox.com/2uowzpjnd9sd
 
 type=video
 name=Slack Bay (2016) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/aQqvAfWauk54P63BS7iIpLOsB2o.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQqvAfWauk54P63BS7iIpLOsB2o.jpg
 date=2018-01-03
 URL=https://uptobox.com/gr8rcez3mkpv
 
 type=video
 name=The Young Offenders (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/ssCpVC9m7JMHBR8zvmY77genKA3.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssCpVC9m7JMHBR8zvmY77genKA3.jpg
 date=2017-12-27
 URL=https://uptobox.com/e6bpe7oqq4ip
 #https://openload.co/f/gBRUL5nQIbE/The.Young.Offenders.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Stolen (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/bu4f6nQOvR2ozxk6lYmTpWoIsR3.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu4f6nQOvR2ozxk6lYmTpWoIsR3.jpg
 date=2017-12-24
 URL=https://openload.co/f/vGFEkuQl_Ec/The_Stolen_%282017%29_1080p_%5BBluRay%5D_x264-%5BYTS_PE%5D_mp4
 #https://www.blazefile.co/embed-neathfobt7zl.html   720
 
 type=video
 name=Mark Felt: The Man Who Brought Down the White House (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/ggwsRh4p75jLMuc6gY12f9VXxwl.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggwsRh4p75jLMuc6gY12f9VXxwl.jpg
 date=2017-12-24
 URL=https://openload.co/f/NBEA2eZ3lII/Mark.Felt.The.Man.Who.Brought.Down.the.White.House.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://www.blazefile.co/embed-xequuxhy82xf.html   720
@@ -1697,7 +1720,7 @@ URL=https://openload.co/f/NBEA2eZ3lII/Mark.Felt.The.Man.Who.Brought.Down.the.Whi
 
 type=video
 name=Bitch (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/dsFUHJgMVViUsRggDThtwRPmS9i.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsFUHJgMVViUsRggDThtwRPmS9i.jpg
 date=2017-12-24
 URL=https://www.blazefile.co/embed-35r5o934pw3l.html
 #https://openload.co/f/isVUItb_VEg/Bitch.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
@@ -1709,7 +1732,7 @@ URL=https://www.blazefile.co/embed-35r5o934pw3l.html
 
 type=video
 name=A Question of Faith (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/mXUVhSHKv7aGwDCnsa8UBbW7G0p.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXUVhSHKv7aGwDCnsa8UBbW7G0p.jpg
 date=2017-12-21
 URL=https://openload.co/f/M9c0VPaJxu0/A.Question.of.Faith.2017.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/hWolYYqcQSA/a.question.of.faith.2017.720p.bluraybb.mp4
@@ -1718,7 +1741,7 @@ URL=https://openload.co/f/M9c0VPaJxu0/A.Question.of.Faith.2017.1080p.BluRay.x264
 
 type=video
 name=Brad's Status (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/uXiNpvig7EMq18VyNBUTlWrmN0q.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXiNpvig7EMq18VyNBUTlWrmN0q.jpg
 date=2017-12-21
 URL=https://openload.co/f/evgib1KZj9Y/Brads.Status.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/pL-UOT5IBME/Brads.Status.2017.1080p.BluRay.H264.AACbb-RARBG.mp4
@@ -1729,7 +1752,7 @@ URL=https://openload.co/f/evgib1KZj9Y/Brads.Status.2017.1080p.BluRay.x264-GECKOS
 
 type=video
 name=Killing Gunther (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/nFrkrNFDqfHboa2GSycmUXND0od.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFrkrNFDqfHboa2GSycmUXND0od.jpg
 date=2017-12-21
 URL=https://www.blazefile.co/embed-3zr3akou9mat.html
 #https://openload.co/f/LkFOksAeuJA/Killing.Gunther.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
@@ -1739,28 +1762,28 @@ URL=https://www.blazefile.co/embed-3zr3akou9mat.html
 
 type=video
 name=Mother Krampus (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/sFxUuhkiMdpTYZrURrW0OxVrlJS.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFxUuhkiMdpTYZrURrW0OxVrlJS.jpg
 date=2017-12-19
 URL=https://openload.co/f/oMtcPKwJHiE/12.deaths.of.christmas.2017.1080p.bluray.x264-getit.mkv.mp4
 #https://www.blazefile.co/embed-1a6k5n7nz2oi.html   720
 
 type=video
 name=Peelers (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/4mGR7AakCDrPrKmMka3YNfDC79Q.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mGR7AakCDrPrKmMka3YNfDC79Q.jpg
 date=2017-12-15
 URL=https://openload.co/f/zr2o-VU2b_w/Peelers.2016.1080p.BluRay.H264.AACBB-RARBG.mp4
 #https://www.blazefile.co/embed-izzb7giipojh.html   720
 
 type=video
 name=Americano (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/tUYvquQI54QO7ju1zGuOnAC7FpF.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUYvquQI54QO7ju1zGuOnAC7FpF.jpg
 date=2017-12-14
 URL=https://www.blazefile.co/embed-grfmwnbhv94v.html
 ##https://openload.co/f/xLrWT5mbSlk/americano.2016.1080p.bluray.x264-justwatch.mkv.mp4
 
 type=video
 name=Game of Thrones: Conquest & Rebellion (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/3EanTe9yClVB89JKlyxKd3GVFtx.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EanTe9yClVB89JKlyxKd3GVFtx.jpg
 date=2017-12-14
 URL=https://openload.co/f/xzcVZDLHcrM/Game.of.Thrones.Conquest.and.Rebellion.2017.1080p.BluRay.x264-FLAME.mkv.mp4
 
@@ -1768,7 +1791,7 @@ URL=https://openload.co/f/xzcVZDLHcrM/Game.of.Thrones.Conquest.and.Rebellion.201
 
 type=video
 name=The Middle Finger (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/vTomiYbhgh7y3kSu6hvtg34O6kS.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTomiYbhgh7y3kSu6hvtg34O6kS.jpg
 date=2017-12-09
 URL=https://openload.co/f/tT-Www94b0k/The.Middle.Finger.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 #https://www.blazefile.co/embed-6a3ud7cokc3u.html   720
@@ -1779,7 +1802,7 @@ URL=https://openload.co/f/tT-Www94b0k/The.Middle.Finger.2017.1080p.BluRay.x264-R
 
 type=video
 name=Leatherface (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/qdRq1EygZK2LIYM6v29ai9uBOhE.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdRq1EygZK2LIYM6v29ai9uBOhE.jpg
 date=2017-12-08
 URL=https://www.blazefile.co/embed-byrcupw8roz4.html
 #https://openload.co/f/EPporE43L9s/leatherface.2017.1080p.bluray.x264-rovers.mkv.mp4
@@ -1787,7 +1810,7 @@ URL=https://www.blazefile.co/embed-byrcupw8roz4.html
 
 type=video
 name=The Trip to Spain (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/74RSdBGWdtbdClQ2NGJeTTyO7fq.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/74RSdBGWdtbdClQ2NGJeTTyO7fq.jpg
 date=2017-12-08
 URL=https://www.blazefile.co/embed-nf0casxh83fb.html
 #https://openload.co/f/ptklayuhGNw/The.Trip.to.Spain.2017.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
@@ -1797,7 +1820,7 @@ URL=https://www.blazefile.co/embed-nf0casxh83fb.html
 
 type=video
 name=Blood Money (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/yCvcvsP3w4CyiB3CLTxwaHBpKro.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCvcvsP3w4CyiB3CLTxwaHBpKro.jpg
 date=2017-12-21
 URL=https://openload.co/f/FoP6s7fzvLk/blood.money.2017.1080p.bluray.x264-cinefile.mkv.mp4
 #https://openload.co/f/IdrwKC0NbKA/Blood.Money.2017.1080p.BluRay.x264.DTS-MT.mkv.mp4
@@ -1808,7 +1831,7 @@ URL=https://openload.co/f/FoP6s7fzvLk/blood.money.2017.1080p.bluray.x264-cinefil
 
 type=video
 name=Victoria & Abdul (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/gHz34d5i3Nc4h1iqr7eK5bFG2gY.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHz34d5i3Nc4h1iqr7eK5bFG2gY.jpg
 date=2017-12-07
 URL=https://www.blazefile.co/embed-qr15c4xv5c2r.html
 #https://openload.co/f/p_kec0xMglE/Victoria.and.Abdul.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
@@ -1821,14 +1844,14 @@ URL=https://www.blazefile.co/embed-qr15c4xv5c2r.html
 
 type=video
 name=The Party (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/8psrYC1Tys8RuS7CIBAWgFu369d.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8psrYC1Tys8RuS7CIBAWgFu369d.jpg
 date=2017-11-30
 URL=https://openload.co/f/R5Bp567SYVU/The.Party.2017.1080p.BluRay.x264-JustWatch.mkv.mp4
 #https://www.blazefile.co/embed-zi4wp00eqwnt.html   720
 
 type=video
 name=Detroit (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/7APLVpsGzXPJw16ZuBtXICxq8B9.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7APLVpsGzXPJw16ZuBtXICxq8B9.jpg
 date=2017-11-30
 URL=https://www.blazefile.co/embed-5a2qza2ljynp.html
 #https://openload.co/f/Tf9pqu0f13c/Detroit.2017.720p.BluRay.x264-DRONES.mkv.mp4
@@ -1837,7 +1860,7 @@ URL=https://www.blazefile.co/embed-5a2qza2ljynp.html
 
 type=video
 name=Home Again (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/z5CtCxpblBke2G8c7CMkstedMgY.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5CtCxpblBke2G8c7CMkstedMgY.jpg
 date=2017-11-29
 URL=https://www.blazefile.co/embed-51pgqh4j9y4x.html
 #https://openload.co/f/ej0TbsfunVg/Home.Again.2017.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -1847,31 +1870,31 @@ URL=https://www.blazefile.co/embed-51pgqh4j9y4x.html
 
 type=video
 name=The Red Tent (2014) A [COLOR=FF00FF00]ENG WEB 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/iuLw2LZmrl2k4gPME9r6gduKMId.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuLw2LZmrl2k4gPME9r6gduKMId.jpg
 date=2017-11-29
 URL=https://openload.co/f/zrI78BrXZaM/the.red.tent.part.1.1080p.web.x264-strife.mkv.mp4
 
 type=video
 name=The Red Tent (2014) B [COLOR=FF00FF00]ENG WEB 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/shbYREh8e5r4rX0ahhd5KL9MxAi.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/shbYREh8e5r4rX0ahhd5KL9MxAi.jpg
 date=2017-11-29
 URL=https://openload.co/f/inucaC4i_UY/the.red.tent.part.2.1080p.web.x264-strife.mkv.mp4
 
 type=video
 name=Love Finds You in Valentine (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/j1NNKB3DZhB8zQw6dBr7bxMbxgr.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1NNKB3DZhB8zQw6dBr7bxMbxgr.jpg
 date=2017-11-27
 URL=https://openload.co/f/gYC3CuQ4Mmk/Love.finds.you.in.Valentine.2016.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
 
 type=video
 name=Love Finds You in Charm (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/p4KQOJi1jFACJVsCWRlYNw9onCG.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4KQOJi1jFACJVsCWRlYNw9onCG.jpg
 date=2017-11-27
 URL=https://openload.co/f/tPxKcIfzFAg/Love.finds.you.in.Charm.2015.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
 
 type=video
 name=The Crucifixion (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/aN1drk3BqIzCUICR436t3t0lq9H.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aN1drk3BqIzCUICR436t3t0lq9H.jpg
 date=2017-12-13
 URL=https://www.blazefile.co/embed-c5c51upopspv.html
 #https://openload.co/f/Eu9vv3p-0-E/The.Crucifixion.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
@@ -1882,33 +1905,33 @@ URL=https://www.blazefile.co/embed-c5c51upopspv.html
 
 type=video
 name=The Snow Queen 3: Fire and Ice (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/fewzNvOFM4TBcuOwsfGXyIUrwS2.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fewzNvOFM4TBcuOwsfGXyIUrwS2.jpg
 date=2017-11-24
 URL=https://openload.co/f/PR7jhUDcQc8/the.snow.queen.3.2016.1080p.bluray.x264-rusted.mkv.mp4
 #https://www.blazefile.co/embed-rzsqrsrag02w.html   720
 
 type=video
 name=Marie Curie (2016) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/wA2IsvqX3VoLF6rymPWk95gaBXB.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wA2IsvqX3VoLF6rymPWk95gaBXB.jpg
 date=2017-11-24
 URL=https://www.blazefile.co/embed-nkhalihga19p.html
 #https://openload.co/f/Q1DZ-JKIanU/marie.curie.2016.1080p.bluray.x264-rovers.mkv.mp4
 
 type=video
 name=The Good Neighbor (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/xrYPVqmUrmOolwh77bldbRfQdLx.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrYPVqmUrmOolwh77bldbRfQdLx.jpg
 date=2017-11-24
 URL=https://openload.co/f/I7HZ7o_-7Do/The.Good.Neighbor.2016.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
 
 type=video
 name=Jackals (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/2Iml1kYUCpDOkfpboU9g1hG9CLh.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Iml1kYUCpDOkfpboU9g1hG9CLh.jpg
 date=2017-11-19
 URL=https://openload.co/f/-Wx91IiX_jg/Jackals.2017.1080p.BluRay.x264-SADPANDA.mkv.mp4
 
 type=video
 name=Behind the Blue Door (2016) [COLOR=FF00FF00]POL BR 1080p[/COLOR] MKV 6.6GB
-thumb=https://image.tmdb.org/t/p/w640/icoGUUnfQGu9XQJLlDv8zLQdM6N.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/icoGUUnfQGu9XQJLlDv8zLQdM6N.jpg
 date=2017-11-19
 URL=https://openload.co/f/7XJQMJ_M9tM/behind.the.blue.door.2016.1080p.bluray.x264-rovers.mkv
 #https://openload.co/f/6MjVvzfPjHQ/behind.the.blue.door.2016.1080p.bluray.x264-rovers.mkv.mp4
@@ -1918,7 +1941,7 @@ URL=https://openload.co/f/7XJQMJ_M9tM/behind.the.blue.door.2016.1080p.bluray.x26
 
 type=video
 name=1 Buck (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/x9Z40D8vaFJqqtJJrKgkA2B3IBb.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9Z40D8vaFJqqtJJrKgkA2B3IBb.jpg
 date=2017-11-16
 URL=https://openload.co/f/h8FHGZPvrHs/1.Buck.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/2Uj0P-FO0OI/1.Buck.2017.BDRip.XviD.AC3-EVO.avi.mp4
@@ -1926,7 +1949,7 @@ URL=https://openload.co/f/h8FHGZPvrHs/1.Buck.2017.1080p.BluRay.H264.AAC-RARBG.mp
 
 type=video
 name=6 Below: Miracle on the Mountain (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/8eZynKoLiPq9b6DQGLOFHt6mZPv.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eZynKoLiPq9b6DQGLOFHt6mZPv.jpg
 date=2017-11-17
 URL=https://openload.co/f/3ar1ciJE_8g/6.Below.Miracle.on.the.Mountain.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/SytT_2ZR_kc/6.Below.Miracle.on.the.Mountain.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
@@ -1935,14 +1958,14 @@ URL=https://openload.co/f/3ar1ciJE_8g/6.Below.Miracle.on.the.Mountain.2017.1080p
 
 type=video
 name=Beta Test (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/9lvcWpo7na9nxW3FMyIQoc2tmdQ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lvcWpo7na9nxW3FMyIQoc2tmdQ.jpg
 date=2017-11-16
 URL=https://www.blazefile.co/embed-9osos9b41jzn.html
 #https://openload.co/f/0lY_8C9UXVc/beta.test.2016.limited.720p.bluray.x264-veto.mkv.mp4
 
 type=video
 name=Friends Don't Let Friends (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/xHYVgHhw4j99vGdmiCcnbLQFdZM.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHYVgHhw4j99vGdmiCcnbLQFdZM.jpg
 date=2017-11-16
 URL=https://openload.co/f/uRktVgQRThc/Friends.Dont.Let.Friends.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/ih2ycP7-5_Y/Friends.Dont.Let.Friends.2017.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -1950,7 +1973,7 @@ URL=https://openload.co/f/uRktVgQRThc/Friends.Dont.Let.Friends.2017.1080p.BluRay
 
 type=video
 name=Tulip Fever (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/lmfop4zLqFWFTkKSYp7V5jgeM6I.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmfop4zLqFWFTkKSYp7V5jgeM6I.jpg
 date=2017-11-16
 URL=https://www.blazefile.co/embed-z9fwke5dzfpz.html
 #https://openload.co/f/ILcVEeVlkNA/tulip.fever.2017.1080p.bluray.x264-drones.mkv.mp4
@@ -1958,7 +1981,7 @@ URL=https://www.blazefile.co/embed-z9fwke5dzfpz.html
 
 type=video
 name=Rememory (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/1PUlg2uuPtVPUVB5GE5D4ihaMku.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PUlg2uuPtVPUVB5GE5D4ihaMku.jpg
 date=2017-11-17
 URL=https://www.blazefile.co/embed-rrywn5yvi4cf.html
 #https://openload.co/f/z5scG1XR3MA/Rememory.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
@@ -1966,7 +1989,7 @@ URL=https://www.blazefile.co/embed-rrywn5yvi4cf.html
 
 type=video
 name=Acts of Vengeance (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/XZ1NmJmi7xFXo6eJ0UNswRpitV.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/XZ1NmJmi7xFXo6eJ0UNswRpitV.jpg
 date=2017-11-15
 URL=https://www.blazefile.co/embed-zff92s66f4u3.html
 #https://openload.co/f/nYKGWtth60s/Acts.of.Vengeance.2017.1080p.BluRay.x264-ROVERS.mkv
@@ -1974,14 +1997,14 @@ URL=https://www.blazefile.co/embed-zff92s66f4u3.html
 
 type=video
 name=Amityville: The Awakening (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/d2BmX5YJchuDdnI3UL0mj3PtmaG.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2BmX5YJchuDdnI3UL0mj3PtmaG.jpg
 date=2017-11-15
 URL=https://www.blazefile.co/embed-rl15754mnbtd.html
 #https://openload.co/f/Sf3jqMmoV3M/Amityville.The.Awakening.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
 name=Kedi (2017) [COLOR=FF00FF00]TUR BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/5z2vuJk6P7V2azw3gWQF7L4l5xU.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z2vuJk6P7V2azw3gWQF7L4l5xU.jpg
 date=2017-11-15
 URL=https://openload.co/f/RMukabH5wA8/Kedi.2016.1080p.BluRay.x264-NODLABS.mkv.mp4
 #https://www.blazefile.co/embed-bxuto1mhavke.html
@@ -1990,7 +2013,7 @@ URL=https://openload.co/f/RMukabH5wA8/Kedi.2016.1080p.BluRay.x264-NODLABS.mkv.mp
 
 type=video
 name=M.F.A. (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/cQFJ0lWaR5sYg06KQWtMy8TRYFI.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQFJ0lWaR5sYg06KQWtMy8TRYFI.jpg
 date=2017-11-12
 URL=https://www.blazefile.co/embed-2fpk8thili3u.html
 #https://www.blazefile.co/embed-1cbeb5foxhs3.html
@@ -2000,7 +2023,7 @@ URL=https://www.blazefile.co/embed-2fpk8thili3u.html
 
 type=video
 name=Marjorie Prime (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/wcIPaT9ktpJHNaMyAiRMcra8NIM.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIPaT9ktpJHNaMyAiRMcra8NIM.jpg
 date=2017-11-08
 URL=https://www.blazefile.co/embed-ahq0z7m0ko77.html
 #https://www.blazefile.co/embed-k9qhmsyx9mwr.html
@@ -2008,21 +2031,21 @@ URL=https://www.blazefile.co/embed-ahq0z7m0ko77.html
 
 type=video
 name=Beach Rats (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/oQZPPsvoipd38jasPhvJOpajbug.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQZPPsvoipd38jasPhvJOpajbug.jpg
 date=2017-11-10
 URL=https://www.blazefile.co/embed-36w1e17wn66k.html
 #https://openload.co/f/16RMPXDGEdQ/Beach_Rats_%282017%29_%5B1080p%5D_%5BBluRay%5D_%5B930MB%5D.mp4
 
 type=video
 name=Patti Cake$ (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/11MVxyp77zUPwc4cmqsUumNQYWK.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/11MVxyp77zUPwc4cmqsUumNQYWK.jpg
 date=2017-11-08
 URL=https://www.blazefile.co/embed-vu9pi131lzie.html
 #https://www.blazefile.co/embed-28zte4rsa2qw.html
 
 type=video
 name=Ryde (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/jc5yQmz64cTCGVnep7EIGjuU4tN.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jc5yQmz64cTCGVnep7EIGjuU4tN.jpg
 date=2017-11-07
 URL=https://openload.co/f/p6L94FUjO-I/Ryde.2016.1080p.BluRay.x264.DTS-MT.mkv.mp4
 #https://www.blazefile.co/embed-8mxr6oh7r0zi.html   720
@@ -2031,20 +2054,20 @@ URL=https://openload.co/f/p6L94FUjO-I/Ryde.2016.1080p.BluRay.x264.DTS-MT.mkv.mp4
 
 type=video
 name=KILD TV (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/5CsV5ez5GTdjS3cJss2qwZeG4Xg.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CsV5ez5GTdjS3cJss2qwZeG4Xg.jpg
 date=2017-11-05
 URL=https://openload.co/f/Ssn5Jt3jtwI/kild.tv.2016.1080p.bluray.x264-justwatch.mkv.mp4
 
 type=video
 name=Whisky Galore (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/7NhrztnzXoh5gzgQWgZCDIm86ce.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NhrztnzXoh5gzgQWgZCDIm86ce.jpg
 date=2017-11-05
 URL=https://www.blazefile.co/embed-z26b9hv286ul.html
 #https://openload.co/f/eHoB6Dm9nvs/Whisky.Galore.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Nut Job 2: Nutty by Nature (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/9FVJOUCmruekroyfsTsAKDYST80.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FVJOUCmruekroyfsTsAKDYST80.jpg
 date=2017-11-04
 URL=https://www.blazefile.co/embed-t14ry219uj7x.html
 #https://openload.co/f/uCO7gBuFMQ0/the.nut.job.2.nutty.by.nature.2017.rerip.1080p.bluray.x264-geckos.mkv.mp4
@@ -2052,7 +2075,7 @@ URL=https://www.blazefile.co/embed-t14ry219uj7x.html
 
 type=video
 name=Darkness Rising (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/6Hr2b0fB02vLFfjrTiwJTTpv0Qg.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hr2b0fB02vLFfjrTiwJTTpv0Qg.jpg
 date=2017-11-04
 URL=https://www.blazefile.co/embed-yxhf6jzxabv7.html
 #https://openload.co/f/NxI8SJKnbVA/Darkness.Rising.2017.1080p.BluRay.x264-SADPANDA.mkv.mp4
@@ -2061,7 +2084,7 @@ URL=https://www.blazefile.co/embed-yxhf6jzxabv7.html
 
 type=video
 name=The Show (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/1O9hTngTf6oghVAPp5l79yYJ04J.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1O9hTngTf6oghVAPp5l79yYJ04J.jpg
 date=2017-11-03
 URL=https://www.blazefile.co/embed-bw648kmpxqj7.html
 #https://openload.co/f/9cjGcrK6xeQ/The.Show.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
@@ -2079,21 +2102,21 @@ URL=https://www.blazefile.co/embed-bw648kmpxqj7.html
 
 type=video
 name=Evolution (2015) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/rySXb3722jTRSkKKlwo3ZFusbKF.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rySXb3722jTRSkKKlwo3ZFusbKF.jpg
 date=2017-10-27
 URL=https://www.blazefile.co/embed-ldzqzp02tesr.html
 #https://openload.co/f/gym9g-_NH3I/evolution.2015.limited.subbed.720p.bluray.x264-usury.mkv.mp4
 
 type=video
 name=The Healer (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/o7DvjzDfq1M3CL5GLUcGHDbZf4H.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7DvjzDfq1M3CL5GLUcGHDbZf4H.jpg
 date=2017-10-31
 URL=https://openload.co/f/9O9V2D1tqr8/the.healer.2017.1080p.bluray.x264-rusted.mkv.mp4
 #https://www.blazefile.co/embed-dgw5ehyqc2b2.html
 
 type=video
 name=Jungle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg
 date=2017-10-30
 URL=https://www.blazefile.co/embed-vsl8zx0l5aun.html
 #https://openload.co/f/gQa_qNa-48M/jungle.2017.720p.bluray.x264-veto.mkv.mp4
@@ -2102,14 +2125,14 @@ URL=https://www.blazefile.co/embed-vsl8zx0l5aun.html
 
 type=video
 name=Killing Ground (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/u7hkfmhQ1nohbXsZ7jIEZXqPI6n.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7hkfmhQ1nohbXsZ7jIEZXqPI6n.jpg
 date=2017-10-30
 URL=https://www.blazefile.co/embed-i0glp139c2y6.html
 #https://openload.co/f/szZE2PDrZeQ/Killing.Ground.2016.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
 
 type=video
 name=Hickok (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/nZdifMku2bcZKZCu7xyrVEU09Le.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZdifMku2bcZKZCu7xyrVEU09Le.jpg
 date=2017-11-22
 URL=https://openload.co/f/ODliFn0IvSk/hickok.2017.1080p.bluray.x264-rusted.mkv.mp4
 #https://openload.co/f/29kXZgp_59w/Hickok.2017.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -2117,20 +2140,20 @@ URL=https://openload.co/f/ODliFn0IvSk/hickok.2017.1080p.bluray.x264-rusted.mkv.m
 
 type=video
 name=The Vault (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/zBJocluTrE9AiVdBLUPrvvBRCvQ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBJocluTrE9AiVdBLUPrvvBRCvQ.jpg
 date=2017-10-30
 URL=https://www.blazefile.co/embed-74wvnfwgk3wg.html
 #https://openload.co/f/6rrOAhTmRPI/the.vault.2017.limited.1080p.bluray.x264-bipolar.mkv.mp4
 
 type=video
 name=All Nighter (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/ciNUrbNv871umQ3IqvIOjet4s4E.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciNUrbNv871umQ3IqvIOjet4s4E.jpg
 date=2017-10-29
 URL=https://openload.co/f/VRFWP55dsdM/All.Nighter.2017.1080p.BluRay.x264-CONDITION.mkv.mp4
 
 type=video
 name=Ali and Nino (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/qqcqscCLoAtGnN7wuqnqNOYdbZG.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqcqscCLoAtGnN7wuqnqNOYdbZG.jpg
 date=2017-10-29
 URL=https://openload.co/f/6OfNo6I3p0E/Ali.and.Nino.2016.1080p.BluRay.x264-EXCLUDED.mkv.mp4
 #https://openload.co/f/1SLgOj24Erk/Ali.and.Nino.2016.720p.BluRay.x264-EXCLUDED.mkv.mp4
@@ -2140,25 +2163,25 @@ URL=https://openload.co/f/6OfNo6I3p0E/Ali.and.Nino.2016.1080p.BluRay.x264-EXCLUD
 
 type=video
 name=Lord, Give Me Patience (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] MKV 7.7GB
-thumb=https://image.tmdb.org/t/p/w640/vYtmqQ0Q3zjTRa4COgePNQcxTcN.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYtmqQ0Q3zjTRa4COgePNQcxTcN.jpg
 date=2017-10-27
 URL=https://openload.co/f/Jd0GQ4lEOA4/lord.give.me.patience.2017.1080p.bluray.x264-bipolar.mkv
 
 type=video
 name=Vir Altyd (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.6GB
-thumb=https://image.tmdb.org/t/p/w640/7iwutrKSWrVcuPZXVPBwJnqduAK.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iwutrKSWrVcuPZXVPBwJnqduAK.jpg
 date=2017-10-27
 URL=https://openload.co/f/kS_IMxMP-kc/vir.altyd.2016.1080p.bluray.x264-bipolar.mkv
 
 type=video
 name=Krampus Unleashed (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/twwkVebMD9jjSZuPa19VoSdNAuI.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/twwkVebMD9jjSZuPa19VoSdNAuI.jpg
 date=2017-10-27
 URL=https://openload.co/f/7kGOSJ1svq0/Krampus.Unleashed.2016.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
 
 type=video
 name=Ingrid Goes West (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/3LEyW11onDltXHo0L1X23j9Nnvg.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LEyW11onDltXHo0L1X23j9Nnvg.jpg
 date=2017-10-25
 URL=https://www.blazefile.co/embed-a90mc72athte.html
 #https://openload.co/f/G18bBxi9CRY/ingrid.goes.west.2017.1080p.bluray.x264-geckos.mkv
@@ -2196,7 +2219,7 @@ description=A crime drama set in 1970s Boston, about a gun sale which goes wrong
 
 type=video
 name=Camera Store (2016) [COLOR=FF00FF00]ENG WEB 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/jsnP7Tat547TESHT2mp3aABGH47.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsnP7Tat547TESHT2mp3aABGH47.jpg
 date=2017-06-20
 URL=https://www.blazefile.co/embed-z0r10mj3416g.html
 
@@ -2211,46 +2234,46 @@ description=Set in 1950s Tuscany, Voice from the Stone is the haunting and suspe
 
 type=video
 name=A Very Sordid Wedding (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/dr0g7skic2Rho6VfyaVPU7Uwntc.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dr0g7skic2Rho6VfyaVPU7Uwntc.jpg
 date=2017-10-20
 URL=https://www.blazefile.co/embed-phn7u3vpid77.html
 #https://openload.co/f/F-J41WU_RGo/a.very.sordid.wedding.2017.1080p.bluray.x264-brmp.mkv.mp4
 
 type=video
 name=Manifesto (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/8LY48gQbMI3wTYCSogxsPd6oS6G.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LY48gQbMI3wTYCSogxsPd6oS6G.jpg
 date=2017-10-18
 URL=https://openload.co/f/NVYif59ZXHM/manifesto.2015.1080p.bluray.x264-brmp.mkv.mp4
 
 type=video
 name=Maudie (2017) ENG [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/wu9RPdV0uEemFEewJQ6fWwJ9ZcU.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wu9RPdV0uEemFEewJQ6fWwJ9ZcU.jpg
 date=2017-10-18
 URL=https://www.blazefile.co/embed-h613vqbc37zx.html
 #https://openload.co/f/J7cd6_Al-Z0/Maudie.2016.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
 name=Sun Choke (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/3hQPvhAZBF6qzMK0TMxG1rDWbu8.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hQPvhAZBF6qzMK0TMxG1rDWbu8.jpg
 date=2017-10-17
 URL=https://openload.co/f/vOOsx2Vhqjg/Sun.Choke.2015.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=A Family Man (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/612avgKpukTYLmrXLZmip2Hjwmv.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/612avgKpukTYLmrXLZmip2Hjwmv.jpg
 date=2017-10-16
 URL=https://openload.co/f/O6SQJF9Hbww/A.Family.Man.2016.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/ui2TnfZND9o/A.Family.Man.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=American Gothic (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/vhTvFd6TsfyPCKChOFvlLBgpnDY.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhTvFd6TsfyPCKChOFvlLBgpnDY.jpg
 date=2017-10-14
 URL=https://openload.co/f/9KQVC9SllTs/american.gothic.2017.1080p.bluray.x264-justwatch.mkv.mp4
 
 type=video
 name=HHhH (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/4PivpTn4OoP3YcP0NaBKSLlHQCz.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PivpTn4OoP3YcP0NaBKSLlHQCz.jpg
 date=2017-10-12
 URL=https://www.blazefile.co/embed-1hx2siopw4xb.html
 #https://openload.co/f/zvYUgvFDoQ4/HHhH_%282017%29.1080p.BluRay.Cmovieshd.se.mkv.mp4
@@ -2260,7 +2283,7 @@ URL=https://www.blazefile.co/embed-1hx2siopw4xb.html
 
 type=video
 name=Batman vs. Two-Face (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/yTbj8Kcp4WFwMRdEejnn55KIsfH.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTbj8Kcp4WFwMRdEejnn55KIsfH.jpg
 date=2017-11-24
 URL=https://www.blazefile.co/embed-x2b9220larrj.html
 #https://openload.co/f/ugF8boa9zCs/batman.vs.two.face.2017.1080p.bluray.x264-invandraren.mkv.mp4
@@ -2270,7 +2293,7 @@ URL=https://www.blazefile.co/embed-x2b9220larrj.html
 
 type=video
 name=The Limehouse Golem (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/xB1AFa4iLU9KGxlrVbfH2uIJeck.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xB1AFa4iLU9KGxlrVbfH2uIJeck.jpg
 date=2017-11-09
 URL=https://www.blazefile.co/embed-m2mhqi70xrkq.html
 #https://openload.co/f/qf7xBYs3ybI/The.Limehouse.Golem.2016.1080p.BluRay.X264-AMIABLE_EtHD_.mkv.mp4
@@ -2281,20 +2304,20 @@ URL=https://www.blazefile.co/embed-m2mhqi70xrkq.html
 
 type=video
 name=Justice (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/bW9s0cE8IBRYdWPrQ6UVStc2xCv.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bW9s0cE8IBRYdWPrQ6UVStc2xCv.jpg
 date=2017-10-10
 URL=https://openload.co/f/zrOCNnrsKN0/justice.2017.limited.1080p.bluray.x264-geckos.mkv.mp4
 
 type=video
 name=Virtual Revolution (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.7GB
-thumb=https://image.tmdb.org/t/p/w640/lxB6QUCLcmAgdYbSVhpdKYbTPQA.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxB6QUCLcmAgdYbSVhpdKYbTPQA.jpg
 date=2017-10-09
 URL=https://openload.co/f/CLTEuiOJEks/virtual.revolution.2016.1080p.bluray.x264-justwatch.mkv
 #https://openload.co/f/aR9UhO8ms1o/virtual.revolution.2016.1080p.bluray.x264-justwatch.mkv.mp4
 
 type=video
 name=The Night Watchmen (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.2GB
-thumb=https://image.tmdb.org/t/p/w640/yVHF2J5J0DRr0X4kSgzvxJLJuKa.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVHF2J5J0DRr0X4kSgzvxJLJuKa.jpg
 date=2017-10-09
 URL=https://openload.co/f/FQDvXkYehl0/The.Night.Watchmen.2017.1080p.BluRay.x264.DTS-LOST.mkv
 #https://openload.co/f/9O1b0Nag7fc/The.Night.Watchmen.2017.1080p.BluRay.x264.DTS-LOST.mkv.mp4
@@ -2302,14 +2325,14 @@ URL=https://openload.co/f/FQDvXkYehl0/The.Night.Watchmen.2017.1080p.BluRay.x264.
 
 type=video
 name=Indiscretion (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/tuI0VZKiRXnI5JeQvkEssa5BkLI.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuI0VZKiRXnI5JeQvkEssa5BkLI.jpg
 date=2017-10-08
 URL=https://www.blazefile.co/embed-4jistmi6ss5f.html
 #https://openload.co/f/xOP0shQI0uk/Indiscretion.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=68 Kill (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] 
-thumb=https://image.tmdb.org/t/p/w640/yz6PEuqdU0ylz1AGNo1MucjfOoA.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yz6PEuqdU0ylz1AGNo1MucjfOoA.jpg
 date=2017-10-06
 URL=https://www.blazefile.co/embed-k43g8ft8h5ms.html
 #https://openload.co/f/eOISEoSW6Xs/68.kill.2017.1080p.bluray.x264-justwatch.mkv
@@ -2317,7 +2340,7 @@ URL=https://www.blazefile.co/embed-k43g8ft8h5ms.html
 
 type=video
 name=Girls Trip (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/94nCLn74lBh4pLdZPIad18BpheE.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94nCLn74lBh4pLdZPIad18BpheE.jpg
 date=2017-10-06
 URL=https://www.blazefile.co/embed-sv7vxq2rfkp4.html
 #https://openload.co/f/uficU85oMLc/girls_trip.2017.1080p.bluray.x264.rep-mkv.mp4
@@ -2325,20 +2348,20 @@ URL=https://www.blazefile.co/embed-sv7vxq2rfkp4.html
 
 type=video
 name=Cage Dive (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/3uUO9eDxHeDREIX77BaQiI88ajp.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uUO9eDxHeDREIX77BaQiI88ajp.jpg
 date=2017-10-20
 URL=https://openload.co/f/_9YTPj5PITo/Open.Water.3.Cage.Dive.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/SZko3M82QEw/Open.Water.3.Cage.Dive.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
 
 type=video
 name=Killing Hasselhoff (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/egfSTBgfMjKBCBGMysQON9fYF12.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/egfSTBgfMjKBCBGMysQON9fYF12.jpg
 date=2017-10-05
 URL=https://openload.co/f/2FeOJsI9U3g/Killing.Hasselhoff.2017.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
 
 type=video
 name=The Little Hours (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/wS69OOwBJzimoLIcmYMSVkmhCZM.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wS69OOwBJzimoLIcmYMSVkmhCZM.jpg
 date=2017-10-05
 URL=https://www.blazefile.co/embed-11ma1xpz9i30.html
 #https://openload.co/f/SOejYFdhlXg/The.Little.Hours.2017.1080p.BluRay.X264-AMIABLE.mp4
@@ -2346,7 +2369,7 @@ URL=https://www.blazefile.co/embed-11ma1xpz9i30.html
 
 type=video
 name=6 Days (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/yRbC0uRj1RDmF0JLon83il2dkR0.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRbC0uRj1RDmF0JLon83il2dkR0.jpg
 date=2017-10-04
 URL=https://www.blazefile.co/embed-3gilqjbpg0qg.html
 #https://openload.co/f/Ib_9hObk2EY/6.Days.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
@@ -2355,7 +2378,7 @@ URL=https://www.blazefile.co/embed-3gilqjbpg0qg.html
 
 type=video
 name=Hounds of Love (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/b4niGo8hpxIpmAZsGkpZK4mXiDo.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4niGo8hpxIpmAZsGkpZK4mXiDo.jpg
 date=2017-10-03
 URL=https://www.blazefile.co/embed-0khosisjmx0m.html
 #https://openload.co/f/cCI2wifJHxA/Hounds.of.Love.2016.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -2371,22 +2394,24 @@ URL=https://www.blazefile.co/embed-0khosisjmx0m.html
 
 type=video
 name=Message from the King (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.6GB
-thumb=https://image.tmdb.org/t/p/w640/6BxIqK8xwlwRXEpkNYEk2tWuZqR.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BxIqK8xwlwRXEpkNYEk2tWuZqR.jpg
 date=2017-09-29
 URL=https://openload.co/f/7iz2PZ9Qvyo/Message.from.the.King.2016.1080p.BluRay.x264-PSYCHD.mkv
 #https://openload.co/f/E8e4GGoIWYw/Message.from.the.King.2016.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://www.blazefile.co/embed-68692bjf7900.html   720
 
 type=video
-name=My Pet Dinosaur (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.5GB
-thumb=https://image.tmdb.org/t/p/w640/7PpqSMJjibR5dkqnBOGhpcz253C.jpg
+name=My Pet Dinosaur (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PpqSMJjibR5dkqnBOGhpcz253C.jpg
 date=2017-09-29
-URL=https://openload.co/f/jMvDEd_f1BY/my.pet.dinosaur.1080p.mkv
+URL=https://www.blazefile.co/embed-64pnso4qdv44.html
+#https://openload.co/f/jMvDEd_f1BY/my.pet.dinosaur.1080p.mkv
 #https://openload.co/f/tOmD9G0UjEA/my.pet.dinosaur.1080p.bpfa-mkv.mp4
 #https://www.blazefile.co/embed-64pnso4qdv44.html
 
 type=video
 name=Paris Can Wait (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] 
-thumb=https://image.tmdb.org/t/p/w640/jLzfHNU1JldQpC5TNEvQMnWQxx6.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLzfHNU1JldQpC5TNEvQMnWQxx6.jpg
 date=2017-09-29
 URL=https://www.blazefile.co/embed-yroidpd7xprm.html
 #https://openload.co/f/qtCGn2v91C0/Paris.Can.Wait.2016.1080p.BluRay.X264-AMIABLE.mkv
@@ -2394,7 +2419,7 @@ URL=https://www.blazefile.co/embed-yroidpd7xprm.html
 
 type=video
 name=Una (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/xvEhxYOHf7eKzLWeorlyrg3Dpru.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvEhxYOHf7eKzLWeorlyrg3Dpru.jpg
 date=2017-09-29
 URL=https://www.blazefile.co/embed-y35w3prjrks2.html
 #https://openload.co/f/_AzvKUoSqRs/Una.2017.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -2404,14 +2429,14 @@ URL=https://www.blazefile.co/embed-y35w3prjrks2.html
 
 type=video
 name=A Few Less Men (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/1FR3KCSLB6b9WMrZPir0JioMvcQ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FR3KCSLB6b9WMrZPir0JioMvcQ.jpg
 date=2017-09-25
 URL=https://www.blazefile.co/embed-rjwavko3943a.html
 #https://openload.co/f/_XstzReHRnA/A_Few_Best_Men_%282011%29_1080p_BluRay.x264.DTS_%5Bmoviseries.com%5D.mp4
 
 type=video
-name=The Wizard of Lies (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 9.8GB
-thumb=https://image.tmdb.org/t/p/w640/8k4lJ4e0hvDQtKpItXmmPdw69sO.jpg
+name=The Wizard of Lies (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8k4lJ4e0hvDQtKpItXmmPdw69sO.jpg
 date=2017-09-24
 URL=https://www.blazefile.co/embed-bgeti6m16ew4.html
 #https://openload.co/f/syfvv9fbGCA/The.Wizard.of.Lies.2017.1080p.BluRay.x264-ROVERS.mkv
@@ -2419,80 +2444,83 @@ URL=https://www.blazefile.co/embed-bgeti6m16ew4.html
 
 type=video
 name=The Book of Henry (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/suLFg4UjvM5BoDipg2Wu3gZ802T.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/suLFg4UjvM5BoDipg2Wu3gZ802T.jpg
 date=2017-09-23
 URL=https://openload.co/f/sd1mdey1y9A/The.Book.Of.Henry.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 
 type=video
 name=Atomica (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/lJ92ip5XsEE2gsty1tXQfJhcWOs.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJ92ip5XsEE2gsty1tXQfJhcWOs.jpg
 date=2017-09-21
 URL=https://openload.co/f/BEtt_CyKpx4/Atomica.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 
 type=video
 name=Berlin Syndrome (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/qvJeDDYKlfvtYayfOj5sAUXxUju.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvJeDDYKlfvtYayfOj5sAUXxUju.jpg
 date=2017-12-31
 URL=https://openload.co/f/IQFnuqiNcp8/berlin.syndrome.2017.proper.limited.1080p.bluray.x264-usury.mkv.mp4
 #https://openload.co/f/lwSnQwtORlA/berlin.syndrome.2017.limited.1080p.bluray.x264-veto.mkv.mp4
 
 type=video
 name=The Chessplayer (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] MKV 6.6GB
-thumb=https://image.tmdb.org/t/p/w640/li4gwTyZAwbCR2lgxLMf2e0s7Ro.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/li4gwTyZAwbCR2lgxLMf2e0s7Ro.jpg
 date=2017-09-21
 URL=https://openload.co/f/dz_qlMQnZto/the.chessplayer.2017.1080p.bluray.x264-bipolar.mkv
 #https://openload.co/f/laErFS_prBk/the.chessplayer.2017.1080p.bluray.x264-bipolar.mkv.mp4
+#https://www.blazefile.co/embed-ekazhc8jceq6.html   720
 
 type=video
 name=Suntan (2016) [COLOR=FF00FF00]GRK BR 1080p[/COLOR] MKV 8.7GB
-thumb=https://image.tmdb.org/t/p/w640/sAknvVkyiGssLf20k4FAZB3FUnZ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAknvVkyiGssLf20k4FAZB3FUnZ.jpg
 date=2017-09-21
 URL=https://openload.co/f/pfLfVK3OgTU/suntan.2016.limited.1080p.bluray.x264-usury.mkv
 #https://openload.co/f/Nx07luZaBZY/suntan.2016.limited.1080p.bluray.x264-usury.mkv.mp4
+#https://www.blazefile.co/embed-c13k2v3p0vkf.html   720
 
 type=video
 name=Boys in the Trees (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.6GB
-thumb=https://image.tmdb.org/t/p/w640/8YJgHHHYLcHHhewWjnHoPrUFKBw.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YJgHHHYLcHHhewWjnHoPrUFKBw.jpg
 date=2017-09-21
 URL=https://openload.co/f/7E6rfFQL164/boys.in.the.trees.2016.1080p.bluray.x264-bipolar.mkv
 #https://openload.co/f/XCBz7k5vUuU/boys.in.the.trees.2016.1080p.bluray.x264-bipolar.mkv.mp4
+#https://www.blazefile.co/embed-cmtakrgt97cn.html   720
 
 type=video
 name=Black Snow (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/9gGGvfJIGE1g0aqqOPkqRwIlKqu.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gGGvfJIGE1g0aqqOPkqRwIlKqu.jpg
 date=2017-09-21
 URL=https://openload.co/f/VgalWj6iY4Q/black.snow.2017.1080p.bluray.x264-usury.mkv.mp4
 
 type=video
 name=Neruda (2016) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] MKV 7.9GB
-thumb=https://image.tmdb.org/t/p/w640/sLvzxFBH5vGFei8oUNzDVwHKGdl.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLvzxFBH5vGFei8oUNzDVwHKGdl.jpg
 date=2017-09-21
 URL=https://openload.co/f/cM3Mg9KNtyc/neruda.2016.limited.1080p.bluray.x264-usury.mkv
 #https://www.blazefile.co/embed-mpsh2bw7pljg.html
 
 type=video
 name=It Stains the Sands Red (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/rBCjDBa2Dau9WqEslCpdJni394M.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBCjDBa2Dau9WqEslCpdJni394M.jpg
 date=2017-09-21
 URL=https://openload.co/f/IXszcVRt6Vc/It.Stains.the.Sands.Red.2016.1080p.BluRay.x264-ROVERS.mkv.mp4
 
 type=video
 name=The Bad Batch (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/7o14VaMphEIzPwzeW6FP3A6zb4W.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7o14VaMphEIzPwzeW6FP3A6zb4W.jpg
 date=2017-09-21
 URL=https://www.blazefile.co/embed-ydp0sc7wvl2b.html
 #https://openload.co/f/dOxdbWjhfyI/The.Bad.Batch.2016.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
 name=Certain Women (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/mjtDQ9yx0Atb8QxBGcfXNBu0EmX.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjtDQ9yx0Atb8QxBGcfXNBu0EmX.jpg
 date=2017-09-15
 URL=https://www.blazefile.co/embed-1qf8f74yybt7.html
 #https://openload.co/f/230otj4OY8E/Certain.Women.2016.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
 
 type=video
 name=Churchill (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/eNrenOHZ51uuRT0twaXHCyhMH1R.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNrenOHZ51uuRT0twaXHCyhMH1R.jpg
 date=2017-09-11
 URL=https://www.blazefile.co/embed-2qkf6pk3mb3p.html
 #https://openload.co/f/ZgIG2RoZRwI/Churchill.2017.1080p.BluRay.x264-YTS.PE.mp4
@@ -2500,14 +2528,14 @@ URL=https://www.blazefile.co/embed-2qkf6pk3mb3p.html
 
 type=video
 name=Complete Unknown (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/lXGEhxX7PYtZOTkQfZhjEM0HkKZ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXGEhxX7PYtZOTkQfZhjEM0HkKZ.jpg
 date=2017-09-11
 URL=https://www.blazefile.co/embed-wl3aj45x1huo.html
 #https://openload.co/f/t0sqZBoEA3M/Complete.Unknown.2016.LiMiTED.1080p.BluRay.x264-SiNNERS.mkv.mp4
 
 type=video
 name=The Ghoul (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6GB
-thumb=https://image.tmdb.org/t/p/w640/lkzjc4Q7vPYXeIyaFIX4rFJImtJ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkzjc4Q7vPYXeIyaFIX4rFJImtJ.jpg
 date=2017-10-08
 URL=https://openload.co/f/HqB1MvIqFRs/The.Ghoul.2016.1080p.BluRay.x264-SPOOKS.mkv
 #https://openload.co/f/jpsXEOuvEOI/The.Ghoul.2016.1080p.BluRay.x264-SPOOKS.mkv.mp4
@@ -2515,13 +2543,13 @@ URL=https://openload.co/f/HqB1MvIqFRs/The.Ghoul.2016.1080p.BluRay.x264-SPOOKS.mk
 
 type=video
 name=The Hero (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/1xz4ggwOJi8FUsjsLDbFrCxyK0e.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xz4ggwOJi8FUsjsLDbFrCxyK0e.jpg
 date=2017-09-09
 URL=https://openload.co/f/aO4jx_Sl9Xc/the.hero.2017.limited.1080p.bluray.x264-snow.mkv.mp4
 
 type=video
 name=Till We Meet Again (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] 
-thumb=https://image.tmdb.org/t/p/w640/wUAfJDkRfTVDjvNvsT0UdtgiRxt.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUAfJDkRfTVDjvNvsT0UdtgiRxt.jpg
 date=2017-09-08
 URL=https://www.blazefile.co/embed-3jiy9ow8ysdg.html
 #https://openload.co/f/lLZh3c2_Tkw/Till.We.Meet.Again.2016.1080p.BluRay.x264-REGARDS.mkv
@@ -2529,14 +2557,14 @@ URL=https://www.blazefile.co/embed-3jiy9ow8ysdg.html
 
 type=video
 name=Throne of Elves (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/yCV6x3ovzdPEF8LC7JmTr0wOxs3.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCV6x3ovzdPEF8LC7JmTr0wOxs3.jpg
 date=2017-09-08
 URL=https://www.blazefile.co/embed-o86wrkdneofy.html
 #https://openload.co/f/KsfMzuMDqcs/Throne.of.Elves.2016.1080p.BluRay.x264-EXCLUDED.mp4
 
 type=video
 name=The Big Sick (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg
 date=2017-09-08
 URL=https://www.blazefile.co/embed-34nf3q8teggf.html
 #https://openload.co/f/Gvwx5fGYSwk/The_Big_Sick_%282017%29_%5B1080p%5D.X264.AC3-YIN.mkv.mp4
@@ -2545,14 +2573,14 @@ URL=https://www.blazefile.co/embed-34nf3q8teggf.html
 
 type=video
 name=It Comes at Night (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/rNKJpFMlOZn5zkzBPZxEJrQn5Km.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNKJpFMlOZn5zkzBPZxEJrQn5Km.jpg
 date=2017-09-01
 URL=https://www.blazefile.co/embed-5kjjzhuh44wm.html
 #https://openload.co/f/JPeDea8FVfM/It.Comes.at.Night.2017.1080p.BluRay.x264-%255bYTS.AG%255d.mp4
 
 type=video
 name=Mindhorn (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] 
-thumb=https://image.tmdb.org/t/p/w640/1cg6oZo7C7iqYTZgbfOvscAFiP2.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cg6oZo7C7iqYTZgbfOvscAFiP2.jpg
 date=2017-09-01
 URL=https://www.blazefile.co/embed-4cip00dzo4sv.html
 #https://openload.co/f/Xbx1YMzEBN8/Mindhorn.2016.1080p.BluRay.X264-AMIABLE.mkv
@@ -2563,13 +2591,13 @@ URL=https://www.blazefile.co/embed-4cip00dzo4sv.html
 
 type=video
 name=Dead Again In Tombstone (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.7GB
-thumb=https://image.tmdb.org/t/p/w640/o6lEhEhSOdm0ku4I6h1do2KvBUi.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6lEhEhSOdm0ku4I6h1do2KvBUi.jpg
 date=2017-08-30
 URL=https://openload.co/f/MSAmqFR1Z20/Dead.Again.in.Tombstone.2017.1080p.BluRay.x264-ROVERS.mkv
 
 type=video
 name=Band Aid (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/wGhQ3FKA57HxyFYM0ttLgazzbF0.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGhQ3FKA57HxyFYM0ttLgazzbF0.jpg
 date=2017-08-26
 URL=https://openload.co/f/baWuEXk7pEk/Band.Aid.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
 
@@ -2577,20 +2605,20 @@ URL=https://openload.co/f/baWuEXk7pEk/Band.Aid.2017.LIMITED.1080p.BluRay.x264-GE
 
 type=video
 name=Lowriders (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/Yt1iun7B5o5k8QlVLD8biAeKvp.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Yt1iun7B5o5k8QlVLD8biAeKvp.jpg
 date=2017-08-24
 URL=https://openload.co/f/ynd9UL3S71g/sph-lowriderslimited.2016.1080p.bluray.x264.mkv.mp4
 
 type=video
 name=Megan Leavey (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/yq66hYkXFaj2DDqCkF6T2wT7VxQ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yq66hYkXFaj2DDqCkF6T2wT7VxQ.jpg
 date=2017-08-23
 URL=https://www.blazefile.co/embed-7pi8tqtqw7gt.html
 #https://openload.co/f/qWLDICSoHBg/rep-meganleavey.2017.1080p.bluray.x264.mkv.mp4
 
 type=video
 name=All Eyez on Me (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg
 date=2017-08-24
 URL=https://openload.co/f/rGMYBCFttzQ/All_Eyez_on_Me_2017_1080p_BluRay.mp4
 #https://openload.co/f/FkIMUuUUW_g/All.Eyez.on.Me.2017.REPACK.1080p.BluRay.x264-GECKOS.mkv.mp4
@@ -2600,13 +2628,13 @@ URL=https://openload.co/f/rGMYBCFttzQ/All_Eyez_on_Me_2017_1080p_BluRay.mp4
 
 type=video
 name=Lady Macbeth (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/ab6JQbHMtNz09Dysp2Ehwq18Iha.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6JQbHMtNz09Dysp2Ehwq18Iha.jpg
 date=2017-08-19
 URL=https://openload.co/f/LtWg2TwiFcg/Lady.Macbeth.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Inconceivable (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/lvihB44CMiQHqC7tvARYEjQ5Buf.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvihB44CMiQHqC7tvARYEjQ5Buf.jpg
 date=2017-08-19
 URL=https://openload.co/f/zRaFHRuS-Ms/Inconceivable.2017.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
 
@@ -2629,27 +2657,27 @@ description=An aging Latin lover gets dumped by his sugar mama and must fend for
 
 type=video
 name=Wakefield (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/ysENjqhI5lcjGjKBkacCjTnNWOQ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysENjqhI5lcjGjKBkacCjTnNWOQ.jpg
 date=2017-07-26
 URL=https://openload.co/f/l0iDWNGQCXg/snow-wakefield.2016.limited.1080p.bluray.x264.mkv.mp4
 #https://www.blazefile.co/embed-h9cga07jlsbw.html   720
 
 type=video
 name=The Dinner (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/colBU9Mn7emfgWlZcGU331ZMh5E.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/colBU9Mn7emfgWlZcGU331ZMh5E.jpg
 date=2017-07-26
 URL=https://www.blazefile.co/embed-1nzrnbdwazlf.html
 #https://openload.co/f/OxEXJ7IP228/The.Dinner.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 
 type=video
 name=The Ottoman Lieutenant (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/c5E8KTDuGNdF4Lmv3OhsQ0W1zPw.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5E8KTDuGNdF4Lmv3OhsQ0W1zPw.jpg
 date=2017-07-25
 URL=https://openload.co/f/cZPj1Cm1yls/The.Ottoman.Lieutenant.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 
 type=video
 name=Descendants 2 (2017) [COLOR=FF00FF00]ENG WEB 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/7TLywOVzWwU1GMyqdjUiSVzBiyc.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TLywOVzWwU1GMyqdjUiSVzBiyc.jpg
 date=2017-07-23
 URL=https://openload.co/f/1K1feEMp76Y/D-e-s-c-e-n-d-a-n-t-s.2.2017.1080p.AMZN.WEBRip.DDP5.1.x264-TVSmash.mkv.mp4
 
@@ -2698,7 +2726,7 @@ description=When the question is to be or not to be, there is only one answer./d
 
 type=video
 name=Goon: Last of the Enforcers (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/emio9KDrLXqqX4wXa4YTacBQXG.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/emio9KDrLXqqX4wXa4YTacBQXG.jpg
 date=2017-09-21
 URL=https://www.blazefile.co/embed-qqiug338e291.html
 #https://openload.co/f/a3OL4Fe1EkU/Goon.Last.of.the.Enforcers.2017.720p.BluRay.X264-AMIABLE.mkv
@@ -2706,14 +2734,14 @@ URL=https://www.blazefile.co/embed-qqiug338e291.html
 
 type=video
 name=A Dark Song (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/vNC7oLMUmCiOane2zhOeWSWucWG.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNC7oLMUmCiOane2zhOeWSWucWG.jpg
 date=2017-08-26
 URL=https://www.blazefile.co/embed-cch5e53bx4qv.html
 #https://openload.co/f/q7KWrQ3De0Y/A.Dark.Song.2016.720p.BluRay.x264-ROVERS.mkv.mp4
 
 type=video
 name=First Kill (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/zoia9YSg82UNYbtum9QYjKSqdLw.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoia9YSg82UNYbtum9QYjKSqdLw.jpg
 date=2017-08-26
 URL=https://www.blazefile.co/embed-27rfapn20mrg.html
 #https://openload.co/f/kRXMBZLd5rQ/First.Kill.2017.720p.BluRay.x264-ROVERS.mkv.mp4
@@ -2729,46 +2757,46 @@ URL=
 
 type=video
 name=Free State of Jones (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/sxutq7sXcaMy8b4OguaWZwWrchM.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxutq7sXcaMy8b4OguaWZwWrchM.jpg
 date=2017-06-30
 URL=https://www.blazefile.co/embed-1rhkc51cx50m.html
 
 type=video
 name=Raw (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg
 date=2017-07-28
 URL=https://www.blazefile.co/embed-mlexcbngy3df.html
 #https://openload.co/f/H_8mTjk0s20/raw.2016.limited.720p.bluray.x264-usury.mkv.mp4
 
 type=video
 name=Chronically Metropolitan (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/vogqzcUAIWyboktR34ojo1roF2q.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vogqzcUAIWyboktR34ojo1roF2q.jpg
 date=2017-08-26
 URL=https://openload.co/f/77NDk4AfO20/M-C-M.2016.720p.BluRay.x264-SPRiNTER.mkv.mp4
 
 type=video
 name=The Secret Scripture (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/fyJEWYpSajeAMJxSiLhtCVhxiXc.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyJEWYpSajeAMJxSiLhtCVhxiXc.jpg
 date=2017-09-18
 URL=https://openload.co/f/Bu2BqxOQcIw/The.Secret.Scripture.2016.720p.BluRay.x264.DTS-R23.mkv.mp4
 #https://openload.co/f/z7pRMKWjVN0/The.Secret.Scripture.2016.DVDRip.x264-PSYCHD.mkv.mp4
 
 type=video
 name=Anomalous (2016) [COLOR=FF00FF00]ESP BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/fDqKcjV7mRykX4rAGCPQnLsBaWK.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDqKcjV7mRykX4rAGCPQnLsBaWK.jpg
 date=2017-09-19
 URL=https://www.blazefile.co/embed-c2qsw3qzpvdi.html
 #https://openload.co/f/wU7g8EGDJX8/anomalous.2016.720p.bluray.x264-rusted.mkv.mp4
 
 type=video
 name=The Lure (2015) [COLOR=FF00FF00]POL BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/iwv8xd3bmxCNYZegB5VLpde3ADB.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwv8xd3bmxCNYZegB5VLpde3ADB.jpg
 date=2017-10-16
 URL=https://openload.co/f/8Zvnt2ZLjV0/the.lure.2015.720p.bluray.x264-killerhd.mkv.mp4
 
 type=video
 name=The Adventurers (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/mZstiRGpFNDNYtyu0QO6hkw7jE7.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZstiRGpFNDNYtyu0QO6hkw7jE7.jpg
 date=2017-10-20
 URL=https://www.blazefile.co/embed-qp45icf0qt1z.html
 #https://openload.co/f/l3RIDHnszxI/The.Adventurers.2017.CHINESE.720p.BluRay.x264.DD5.1-FGT.mkv.mp4
@@ -2777,7 +2805,7 @@ URL=https://www.blazefile.co/embed-qp45icf0qt1z.html
 
 type=video
 name=The Worst Year of My Life (2015) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/5Vpu3uA8mKgiOTshCxTnMn3yb0M.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Vpu3uA8mKgiOTshCxTnMn3yb0M.jpg
 date=2017-10-27
 URL=https://openload.co/f/ZlLnByEfHPY/the.worst.year.of.my.life.2015.720p.bluray.x264-bipolar.mkv.mp4
 
@@ -2785,7 +2813,7 @@ URL=https://openload.co/f/ZlLnByEfHPY/the.worst.year.of.my.life.2015.720p.bluray
 
 type=video
 name=Gun Shy (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/aHKB8RiVn2OV0cowYtwzAmHznuD.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHKB8RiVn2OV0cowYtwzAmHznuD.jpg
 date=2017-11-03
 URL=https://www.blazefile.co/embed-bl4p0tpspl9r.html
 #https://openload.co/f/PQWPmAzkMug/Gun.Shy.2017.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -2796,7 +2824,7 @@ URL=https://www.blazefile.co/embed-bl4p0tpspl9r.html
 
 type=video
 name=Love of My Life (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/AqPzIIdrsRYfTD3TUX7V8eVHxu2.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqPzIIdrsRYfTD3TUX7V8eVHxu2.jpg
 date=2017-11-03
 URL=https://www.blazefile.co/embed-vi4gyzpwddsa.html
 #https://openload.co/f/V0Cu1cntywo/Love.of.My.Life.2017.720p.BluRay.H264.AAC-RARBG.mp4
@@ -2807,27 +2835,27 @@ URL=https://www.blazefile.co/embed-vi4gyzpwddsa.html
 
 type=video
 name=New Life (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/1QDQ8cMZJA9xCx0FjM4GDlNw511.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QDQ8cMZJA9xCx0FjM4GDlNw511.jpg
 date=2017-11-12
 URL=https://www.blazefile.co/embed-ycichawlnkfp.html
 
 type=video
 name=Woodshock (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/pl7ro8KxVGJHw4nuFLkZVuMKjg9.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pl7ro8KxVGJHw4nuFLkZVuMKjg9.jpg
 date=2017-11-16
 URL=https://www.blazefile.co/embed-xm0yn0zzqn1o.html
 #https://openload.co/f/0edw5TyYPHI/Woodshock.2017.LIMITED.720p.BluRay.x264-DRONES.mkv.mp4
 
 type=video
 name=Gook (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/Ij6zyFnVd3ha5uR5b4na3LYux6.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ij6zyFnVd3ha5uR5b4na3LYux6.jpg
 date=2017-12-07
 URL=https://www.blazefile.co/embed-491k1rxmvmns.html
 #https://openload.co/f/GdbJ4Hp8baA/Gook.2017.LIMITED.720p.BluRay.x264-HAiDEAF.mkv.mp4
 
 type=video
 name=Hampstead (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/sweENd2Vc0mQcKfkEzEbaLYbdZr.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sweENd2Vc0mQcKfkEzEbaLYbdZr.jpg
 date=2017-12-18
 URL=https://www.blazefile.co/embed-5ac6e5s696ay.html
 https://openload.co/f/7AoaKwTA3sI/Hampstead.2017.1080p.BluRay.x264-BLOW.mkv.mp4
@@ -2837,13 +2865,13 @@ https://openload.co/f/7AoaKwTA3sI/Hampstead.2017.1080p.BluRay.x264-BLOW.mkv.mp4
 
 type=video
 name=Heartbeats (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/bOsJaWgUGIjCbqz8WVYgo5fNqfy.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOsJaWgUGIjCbqz8WVYgo5fNqfy.jpg
 date=2017-12-20
 URL=https://www.blazefile.co/embed-z8etbijph8ls.html
 
 type=video
 name=Rebel in the Rye (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/fjmMtBIqg65MPOJXOtoLCKYjVUn.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjmMtBIqg65MPOJXOtoLCKYjVUn.jpg
 date=2017-12-24
 URL=https://www.blazefile.co/embed-lfk9504cbtzq.html
 #https://openload.co/f/-zrXaN0ZkDk/Rebel.in.the.Rye.2017.LIMITED.720p.BluRay.x264-GECKOS.mkv
@@ -2854,13 +2882,13 @@ URL=https://www.blazefile.co/embed-lfk9504cbtzq.html
 
 type=video
 name=Don Quixote: The Ingenious Gentleman of La Mancha (2015) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/AkschvS9NGzVp3QfO0WXTAyQs5r.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkschvS9NGzVp3QfO0WXTAyQs5r.jpg
 date=2018-01-02
 URL=https://openload.co/f/yTKdvZi4tO0/don.quixote.2015.720p.bluray.x264-rusted.mkv.mp4
 
 type=video
 name=Marshall (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/2z9oNW3TE5H5woLozFwfxlRRc0b.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2z9oNW3TE5H5woLozFwfxlRRc0b.jpg
 date=2018-01-03
 URL=https://uptobox.com/59t0nyy1grbb
 #https://openload.co/f/JGf43ccWqWg/Marshall.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
@@ -2872,14 +2900,15 @@ URL=https://uptobox.com/59t0nyy1grbb
 
 type=video
 name=The Pirates of Somalia (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/a8dlDPwo9mnorurL6ukIpyHZZd7.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8dlDPwo9mnorurL6ukIpyHZZd7.jpg
 date=2018-01-16
 URL=https://www.blazefile.co/embed-a5xwc8ppcble.html
 #https://uptobox.com/h58wwdbcvmyc
+#https://openload.co/f/bQMcS9x-ySk/The.Pirates.of.Somalia.2017.720p.BluRay.x264-PSYCHD.mkv.mp4
 
 type=video
 name=Trainspotting (1996) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/p1O3eFsdb0GEIYu87xlwV7P4jM1.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1O3eFsdb0GEIYu87xlwV7P4jM1.jpg
 date=2018-01-16
 URL=https://uptobox.com/ylvoza81xx2r
 
@@ -2887,7 +2916,7 @@ URL=https://uptobox.com/ylvoza81xx2r
 
 type=video
 name=Borg vs McEnroe (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/9hR2emM9MqH5LJPTjG8o7RPpksU.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hR2emM9MqH5LJPTjG8o7RPpksU.jpg
 date=2018-01-19
 URL=https://openload.co/f/-QR09PeP1j4/Borg.vs.McEnroe.2017.720p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/5PwWhBT0VPM/Borg.vs.McEnroe.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
@@ -2895,31 +2924,31 @@ URL=https://openload.co/f/-QR09PeP1j4/Borg.vs.McEnroe.2017.720p.BluRay.X264-AMIA
 
 type=video
 name=Day of the Dead: Bloodline (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/3jM4C1wJxHLWlF4tcSyyv6fnJPR.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jM4C1wJxHLWlF4tcSyyv6fnJPR.jpg
 date=2018-01-19
 URL=https://openload.co/f/LeLjodsWxDM/Day.of.the.Dead.Bloodline.2018.720p.BluRay.x264-GUACAMOLE.mkv.mp4
 
 type=video
 name=Boone: The Bounty Hunter (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/akqKTfd6EbUQamcvVrJS1CxOdUH.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/akqKTfd6EbUQamcvVrJS1CxOdUH.jpg
 date=2018-01-20
 URL=https://openload.co/f/hMRxfvSLnf0/boone.the.bounty.hunter.2017.720p.bluray.x264-veto.mkv.mp4
 
 type=video
 name=Escape From Ensenada (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/al1qNvijPovSoY8EQ9UDhlTV329.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/al1qNvijPovSoY8EQ9UDhlTV329.jpg
 date=2018-01-20
 URL=https://openload.co/f/Srriw0F7R4g/Escape.from.Ensenada.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Rise of the Footsoldier 3 (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/oFOE23tEe1ypuPiGpkHLBuXxMIB.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFOE23tEe1ypuPiGpkHLBuXxMIB.jpg
 date=2018-01-21
 URL=https://uptobox.com/jp8wm6h8328o
 
 type=video
 name=BPM (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/q6fohIpyfvUOgAmNPu5bUgMuojG.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6fohIpyfvUOgAmNPu5bUgMuojG.jpg
 date=2018-01-24
 URL=https://openload.co/f/8EsLqE7gP68/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.x264-ZQ.mkv
 #https://openload.co/f/AxQONoO98ts/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.x264-ZQ.mkv   MKV6.1GB
@@ -2929,7 +2958,7 @@ URL=https://openload.co/f/8EsLqE7gP68/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.
 
 type=video
 name=Scott Pilgrim vs. the World (2010) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/lafRuPbjEQrrHG9QEaoyV2znZC.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lafRuPbjEQrrHG9QEaoyV2znZC.jpg
 date=2018-01-25
 URL=https://uptobox.com/cthdww9q4vaf
 
@@ -3025,52 +3054,52 @@ URL=https://streamango.com/f/sdrrrroqtqkkfsmc/Along_with_the_Gods_The_Two_Worlds
 
 type=video
 name=Maze Runner: The Death Cure (2018) ENG NEWSOURCE.HC.HDCAM.XviD-NoGRP
-thumb=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
 date=2018-01-30
 URL=https://openload.co/f/NcFRR2AcyZg/Maze_Runner_The_Death_Cure.2018.NEWSOURCE.HC.HDCAM.XviD-NoGRP.avi.mp4
 #https://openload.co/f/x3w1YyqQN2I/Maze.Runner.The.Death.Cure.2018.CAM.ENG.x264-NoGRP.MP4.mp4
 type=video
 name=Maze Runner: The Death Cure (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
 date=2018-01-28
 URL=https://streamango.com/f/faknmfefssdmtdre/Maze_Runner_The_Death_Cure_2018_
 
 
 type=video
 name=12 Strong (2018) ENG CAM.XViD-CMRG
-thumb=https://image.tmdb.org/t/p/w640/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
 date=2018-01-18
 URL=https://openload.co/f/hVOiY8yxQWg/12.Strong.2017.CAM.XViD-CMRG.avi.mp4
 type=video
 name=12 Strong (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w640/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
 date=2018-01-22
 URL=https://streamango.com/f/bcnspemlmbdmfcbk/12_Strong_2018_12_
 
 
 type=video
 name=The Commuter (2018) ENG HDCAM_REPACK_X264-DADDY
-thumb=https://image.tmdb.org/t/p/w640/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
 date=2018-01-18
 URL=https://openload.co/f/qQHqw_vax30/The_Commuter_2018_HDCAM_REPACK_X264-DADDY.mkv.mp4
 #https://openload.co/f/l_asVj98QaI/The.Commuter.2018.CAM.ENG.DADDY.mkv.mp4
 #https://openload.co/f/yq1GYYdbymo/Commuter.CAM.ENG_SeeHD.mkv.mp4
 type=video
 name=The Commuter (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w640/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
 date=2018-01-22
 URL=https://streamango.com/f/pbtbmqdafrscrmad/The_Commuter_2018_
 
 
 type=video
 name=Insidious: The Last Key (2018) ENG NEW_HDCAM_X264_HQ-CPG
-thumb=https://image.tmdb.org/t/p/w640/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg
 date=2018-01-14
 URL=https://openload.co/f/Gi9eyQs7AIA/Insidious_The_Last_Key_2018_NEW_HDCAM_X264_HQ-CPG.mkv.mp4
 #https://openload.co/f/TBxLV3VCkmU/Insidious_The_Last_Key_2017_CAM_ENG_X264_HQMic-DADDY.mkv.mp4
 type=video
 name=Insidious: The Last Key (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w640/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg
 date=2018-01-15
 URL=https://streamango.com/f/balkfoftmmbtdnsn/Insidious_The_Last_Key_2018_
 #https://streamango.com/f/qdbemflbepkodbkb/Insidious_The_Last_Key_2018_
@@ -3078,7 +3107,7 @@ URL=https://streamango.com/f/balkfoftmmbtdnsn/Insidious_The_Last_Key_2018_
 
 type=video
 name=Jumanji: Welcome to the Jungle (2017) ENG HD-TS_X264_HQ-CPG
-thumb=https://image.tmdb.org/t/p/w640/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
 date=2018-01-14
 URL=https://openload.co/f/niifvdoAp7g/Jumanji_Welcome_To_The_Jungle_2017_NEW_720p_HD-TS_X264_HQ-CPG.mkv.mp4
 #https://openload.co/f/q-pag-xqFBc/Jumanji.Welcome.to.the.Jungle.2017.720p.TS.NEW.AUDIO.XViD-BL4CKP34RL.mp4
@@ -3092,21 +3121,21 @@ URL=https://openload.co/f/niifvdoAp7g/Jumanji_Welcome_To_The_Jungle_2017_NEW_720
 #https://openload.co/f/cmK8GffxUSA/Jumanji_Welcome_to_the_Jungle_%282017%29_HDCAM_Latino_720p_Spacemov.io
 type=video
 name=Jumanji: Welcome to the Jungle (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w640/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
 date=2017-12-30
 URL=https://streamango.com/f/lfepefddqscnfbrr/Jumanji_Welcome_to_the_Jungle_2017_
 
 
 type=video
 name=Ferdinand (2017) ENG HDCAM.x264.AC3-TiTAN
-thumb=https://image.tmdb.org/t/p/w640/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg
 date=2018-01-10
 URL=https://openload.co/f/szmI6J6kL3c/Ferdinand.2017.HDCAM.x264.AC3-TiTAN.mkv.mp4
 #https://openload.co/f/bifINJBmeNg/Ferdinand.2017.HDCAM_.720p-DerpusMaxiums.mp4
 #https://openload.co/f/XwQneA9shx4/Ferdinand_2017_HDCAM_NO_LOGO_720p_Spacemov.io.mp4
 type=video
 name=Ferdinand (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w640/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg
 date=2018-01-03
 URL=https://streamango.com/f/fpebdeokmteqplkc/Ferdinand_2017_HD_Ferdinand_2017_HDTS_x264_AC_3_ThaiRong2_0_CpT_CtHts_mp4
 #https://streamango.com/f/msdndqpacntaolnl/Ferdinand_2017_
@@ -3114,7 +3143,7 @@ URL=https://streamango.com/f/fpebdeokmteqplkc/Ferdinand_2017_HD_Ferdinand_2017_H
 
 type=video
 name=Star Wars: The Last Jedi (2017) ENG 720p_HDTC_X264_-Superpila
-thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
 date=2018-01-28
 URL=https://openload.co/f/Xwf8NvT7BNc/Star_Wars_The_Last_Jedi_2017_720p_HDTC_X264_-Superpila.mkv.mp4
 #https://openload.co/f/s42Q4dGOlIo/Star_Wars%3A_The_Last_Jedi_%282017%29.1080p.TC_SeeHD.mkv.mp4
@@ -3127,7 +3156,7 @@ URL=https://openload.co/f/Xwf8NvT7BNc/Star_Wars_The_Last_Jedi_2017_720p_HDTC_X26
 #https://openload.co/f/yjFhavSK_eg/Star.Wars.The.Last.Jedi.2017.CAM.X264-BebeLeitinho.mkv
 type=video
 name=Star Wars: The Last Jedi (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w640/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
 date=2018-01-09
 URL=https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_HDTC_x264_AC-3_THR2_0_CpT_CtHts_mkv_mp4
 #https://streamango.com/f/pcqllspqemeqtrpl/Star_Wars_The_Last_Jedi_2017_
@@ -3136,7 +3165,7 @@ URL=https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_
 
 type=video
 name=Coco (2017) ENG 720p.WEBRip.x264.AAC2.0-SHITBOX
-thumb=https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
 date=2018-01-31
 URL=https://openload.co/f/7u1UsPkmRKE/Coco.2017.720p.WEBRip.x264.AAC2.0-SHITBOX.mkv.mp4
 #https://openload.co/f/Bi_jeHvp31Q/Coco.2017.720p.HDRip.X264.AC3-EVO.mkv.mp4
@@ -3146,7 +3175,7 @@ URL=https://openload.co/f/7u1UsPkmRKE/Coco.2017.720p.WEBRip.x264.AAC2.0-SHITBOX.
 #https://openload.co/f/R7W8xvZvB80/Coco_2017_Bolly4u.me_Hindi_Dubbed_HDTS_720p_700MB.mp4
 type=video
 name=Coco (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w640/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
 date=2018-01-09
 URL=https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_HDTC_x264_AC-3_THR2_0_CpT_CtHts_mkv_mp4
 #https://streamango.com/f/leppnobersfqalmt/Coco_2017_HD_Coco_2017_HC_WEB_DL_720p_X264_AC_3_ThaiRong2_0_CpT_CtHts_mkv_mp4
@@ -3212,7 +3241,7 @@ URL=https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_
 
 type=video
 name=Birth of the Dragon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/y29CEE9oukwhNT6INWVEOaINHpR.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y29CEE9oukwhNT6INWVEOaINHpR.jpg
 date=2017-11-10
 URL=https://www.blazefile.co/embed-moc6zzp3c4g3.html
 #https://www.blazefile.co/embed-1494g8ck3kky.html
@@ -3220,13 +3249,13 @@ URL=https://www.blazefile.co/embed-moc6zzp3c4g3.html
 #https://openload.co/f/hczOVCdDAmM/Birth.Of.The.Dragon.2017.HDCAM.x264-DiRG.mp4
 type=video
 name=Birth of the Dragon (2017) TH CAM
-thumb=https://image.tmdb.org/t/p/w640/y29CEE9oukwhNT6INWVEOaINHpR.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y29CEE9oukwhNT6INWVEOaINHpR.jpg
 date=2017-09-24
 URL=https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B8%8B%E0%B8%A5%E0%B8%B5_%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 type=video
 name=Fairy Tail Movie 2: Dragon Cry (2017) TH CAM
-thumb=https://image.tmdb.org/t/p/w640/f6GuwIVkNZYFkt7kiHSJRPiXAAA.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6GuwIVkNZYFkt7kiHSJRPiXAAA.jpg
 date=2017-07-26
 URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97_%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3.mp4
 
@@ -3251,7 +3280,7 @@ URL=
 
 type=video
 name=mother! (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
 date=2017-12-07
 URL=https://www.blazefile.co/embed-oa0xx9wyjzko.html
 #https://openload.co/f/JsWChINJj5g/Mother.2017.1080p.BluRay.x264-DRONES.mkv.mp4
@@ -3260,188 +3289,188 @@ URL=https://www.blazefile.co/embed-oa0xx9wyjzko.html
 #https://www.blazefile.co/embed-p436sqhrx7hi.html   720
 type=video
 name=mother! (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
 date=2018-01-28
 URL=https://streamango.com/f/bfkcfcrrodtemlqa/mother_2017_
 
 
 type=video
 name=A Futile and Stupid Gesture (2018) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/kyHBeRgbbhs7kVrZYblVj9u2Xbd.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyHBeRgbbhs7kVrZYblVj9u2Xbd.jpg
 date=2018-01-28
 URL=https://openload.co/f/KWUW_tjxn80/A.Futile.and.Stupid.Gesture.2018.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=A Futile and Stupid Gesture (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w640/kyHBeRgbbhs7kVrZYblVj9u2Xbd.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyHBeRgbbhs7kVrZYblVj9u2Xbd.jpg
 date=2018-01-28
 URL=https://streamango.com/f/lbbbeonpreaqteqf/A_Futile_and_Stupid_Gesture_2018_
 
 
 type=video
 name=The Man from Earth: Holocene (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/2NAFA7ZyQqp2UDOddeoMPhravIQ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NAFA7ZyQqp2UDOddeoMPhravIQ.jpg
 date=2018-01-16
 URL=https://openload.co/f/HIyHcgzn51Q/The.Man.from.Earth.Holocene.2017.1080p.BluRay.x264-UNiVEARTH.mkv.mp4
 type=video
 name=The Man from Earth: Holocene (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/2NAFA7ZyQqp2UDOddeoMPhravIQ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NAFA7ZyQqp2UDOddeoMPhravIQ.jpg
 date=2018-01-28
 URL=https://streamango.com/f/frltsbbbkkofeffl/The_Man_from_Earth_Holocene_2017_
 
 
 type=video
 name=The Open House (2018) ENG webrip.x264-strife
-thumb=https://image.tmdb.org/t/p/w640/7JwdoLcbFWaeUBxKaoFulRVK8Ja.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JwdoLcbFWaeUBxKaoFulRVK8Ja.jpg
 date=2018-01-22
 URL=https://openload.co/f/4K4greTKYls/the.open.house.2018.720p.webrip.x264-strife.mkv.mp4
 type=video
 name=The Open House (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w640/7JwdoLcbFWaeUBxKaoFulRVK8Ja.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JwdoLcbFWaeUBxKaoFulRVK8Ja.jpg
 date=2018-01-22
 URL=https://streamango.com/f/omacqoeqfbtqftcl/The_Open_House_2018_
 
 
 type=video
 name=Step Sisters (2018) ENG webrip.x264-strife
-thumb=https://image.tmdb.org/t/p/w640/VPGylo06LKeONc5h0KMXnNkJYc.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/VPGylo06LKeONc5h0KMXnNkJYc.jpg
 date=2018-01-22
 URL=https://openload.co/f/9c48bpo1Uro/step.sisters.2018.720p.webrip.x264-strife.mkv.mp4
 type=video
 name=Step Sisters (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w640/VPGylo06LKeONc5h0KMXnNkJYc.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/VPGylo06LKeONc5h0KMXnNkJYc.jpg
 date=2018-01-22
 URL=https://streamango.com/f/qcqkmetnscrrtfdd/Step_Sisters_2018_
 
 
 type=video
 name=Godzilla: Monster Planet (2017) ENG 1080pHD_SeeHD
-thumb=https://image.tmdb.org/t/p/w640/iRBuVfdkeUCwDehfZ7Q7UQLyYFG.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRBuVfdkeUCwDehfZ7Q7UQLyYFG.jpg
 date=2018-01-22
 URL=https://openload.co/f/nLcEgLkB-Qo/Godzilla.monster.planet.2017.ENG.1080pHD_SeeHD.mkv.mp4
 type=video
 name=Godzilla: Monster Planet (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/iRBuVfdkeUCwDehfZ7Q7UQLyYFG.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRBuVfdkeUCwDehfZ7Q7UQLyYFG.jpg
 date=2018-01-22
 URL=https://streamango.com/f/rrcataoprotbbeoq/Godzilla_Monster_Planet_2017_1_mp4
 
 
 type=video
 name=Heartthrob (2017) ENG 1080p.NF.WEBRip.DDP5.1.x264-FGT
-thumb=https://image.tmdb.org/t/p/w640/em7duFxULqzHKRlHfUZHJBm5Dag.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/em7duFxULqzHKRlHfUZHJBm5Dag.jpg
 date=2018-01-31
 URL=https://openload.co/f/0_5K80dGbxw/Heartthrob.2017.1080p.NF.WEBRip.DDP5.1.x264-FGT.mkv.mp4
 #https://openload.co/f/lvx68tUlR28/Heartthrob.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=Heartthrob (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/em7duFxULqzHKRlHfUZHJBm5Dag.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/em7duFxULqzHKRlHfUZHJBm5Dag.jpg
 date=2018-01-19
 URL=https://streamango.com/f/rdtsqoabodromkap/Heartthrob_2017_mp4
 
 
 type=video
 name=Fun Mom Dinner (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/6mtqrfp56Xa4DS64wrqVN9AZwkS.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mtqrfp56Xa4DS64wrqVN9AZwkS.jpg
 date=2017-08-25
 URL=https://www.blazefile.co/embed-vcj8ff0fckav.html
 #https://openload.co/f/S_jHeFZBNgQ/Fun.Mom.Dinner.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 type=video
 name=Fun Mom Dinner (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/6mtqrfp56Xa4DS64wrqVN9AZwkS.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mtqrfp56Xa4DS64wrqVN9AZwkS.jpg
 date=2018-01-19
 URL=https://streamango.com/f/dmapderccctlmcpr/Fun_Mom_Dinner_2017_mp4
 
 
 type=video
 name=Bad Day for the Cut (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w640/QvTi8rFF663o0JvuBGDTyRbnqq.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QvTi8rFF663o0JvuBGDTyRbnqq.jpg
 date=2017-10-20
 URL=https://openload.co/f/_1C1vqFC744/Bad.Day.for.the.Cut.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 type=video
 name=Bad Day for the Cut (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/QvTi8rFF663o0JvuBGDTyRbnqq.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QvTi8rFF663o0JvuBGDTyRbnqq.jpg
 date=2018-01-19
 URL=https://streamango.com/f/dlceoqlemcefsenl/Bad_Day_for_the_Cut_2017_
 
 
 type=video
 name=The Saint (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/ummu2L0zqfxvmeC2xiRU6DFtMbx.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ummu2L0zqfxvmeC2xiRU6DFtMbx.jpg
 date=2018-01-18
 URL=https://streamango.com/f/dtslbclqfpsddabm/The_Saint_2017_
 
 type=video
 name=Why Blame It on the Child? (2016) THSUB
-thumb=https://image.tmdb.org/t/p/w640/eWPD4RO7QQjiD8evdnQ0pUmGC33.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWPD4RO7QQjiD8evdnQ0pUmGC33.jpg
 date=2018-01-17
 URL=https://streamango.com/f/drprknccaqnfokbf/Why_Blame_It_on_the_Child_2016_
 
 type=video
 name=Little Evil (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/r3Trvfd5td7JUrIUr5xsDqwNWXJ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3Trvfd5td7JUrIUr5xsDqwNWXJ.jpg
 date=2018-01-16
 URL=https://streamango.com/f/nolbmlntbtabeflm/Little_Evil_2017_
 
 
 type=video
 name=Good Time (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/cz0egudCsfsTzwUAL03A5UzoHGT.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cz0egudCsfsTzwUAL03A5UzoHGT.jpg
 date=2017-11-04
 URL=https://www.blazefile.co/embed-osuorfqwbp5p.html
 #https://openload.co/f/5gWZy3ErcPw/Good.Time.2017.720p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
 type=video
 name=Good Time (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/cz0egudCsfsTzwUAL03A5UzoHGT.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cz0egudCsfsTzwUAL03A5UzoHGT.jpg
 date=2018-01-15
 URL=https://streamango.com/f/frdkstbtlcenscrm/Good_Time_2017_
 
 
 type=video
 name=The Polka King (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w640/l6n71RjczWQ74oceGKkOW88k8B9.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6n71RjczWQ74oceGKkOW88k8B9.jpg
 date=2018-01-15
 URL=https://streamango.com/f/tlncmpdnadftfspl/The_Polka_King_2018_
 
 type=video
 name=Win It All (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/aEc69JY0azD9PwYtwS2RFwoyFOT.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEc69JY0azD9PwYtwS2RFwoyFOT.jpg
 date=2018-01-12
 URL=https://streamango.com/f/oqfktteoetmmsrpo/Win_It_All_2017_
 
 type=video
 name=L'Ascension (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/jxmnYUawdlSUctpN1JJ9wvE47ZH.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxmnYUawdlSUctpN1JJ9wvE47ZH.jpg
 date=2018-01-07
 URL=https://streamango.com/f/ckcrlqlpckbrabac/L_Ascension_2017_The_Climb_2017_
 
 type=video
 name=Sahara (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/turUYgFnjfsjPssIeWSLiNJFIla.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/turUYgFnjfsjPssIeWSLiNJFIla.jpg
 date=2018-01-07
 URL=https://streamango.com/f/mkaaaqtoefekmnsn/Sahara_2017_
 
 type=video
 name=Blade of the Immortal (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/kKTienMUY1vjYhtuZPWZZyEObKN.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKTienMUY1vjYhtuZPWZZyEObKN.jpg
 date=2018-01-06
 URL=https://streamango.com/f/cflrsllrttpsrekl/Blade_of_the_Immortal_2017_
 
 
 type=video
 name=Bright (2017) ENG WEBRip.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w640/hfQSHW7d6xGP1yStUesgkcDQ73N.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfQSHW7d6xGP1yStUesgkcDQ73N.jpg
 date=2017-12-25
 URL=https://openload.co/f/kKw2qWQJ3dI/Bright.2017.720p.WEBRip.XviD.AC3-FGT.avi.mp4
 #https://openload.co/f/nWADK7ztMTE/bright.2017.1080p.webrip.x264-strife.mkv.mp4
 type=video
 name=Bright (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/hfQSHW7d6xGP1yStUesgkcDQ73N.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfQSHW7d6xGP1yStUesgkcDQ73N.jpg
 date=2017-12-25
 URL=https://streamango.com/f/pkfbcnldrfdfroml/Bright_2017_
 
 
 type=video
 name=Mayhem (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/ukWhLHAUCtXPsCJRF9a7emGDgkU.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukWhLHAUCtXPsCJRF9a7emGDgkU.jpg
 date=2017-12-20
 URL=https://www.blazefile.co/embed-nzlh323o7l53.html
 #https://openload.co/f/bAfKrdI1DdM/Mayhem.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
@@ -3449,7 +3478,7 @@ URL=https://www.blazefile.co/embed-nzlh323o7l53.html
 #https://openload.co/f/W1e5DEGHQv8/Mayhem.2017.WEB-DL.x264-FGT.mp4
 type=video
 name=Mayhem (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/ukWhLHAUCtXPsCJRF9a7emGDgkU.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukWhLHAUCtXPsCJRF9a7emGDgkU.jpg
 date=2017-12-29
 URL=https://streamango.com/f/tcocsmrtstolocft/Mayhem_2017_
 #https://streamango.com/f/efkeqpsbemknmbdb/Mayhem_2017_THSUB_mp4
@@ -3457,19 +3486,19 @@ URL=https://streamango.com/f/tcocsmrtstolocft/Mayhem_2017_
 
 type=video
 name=The Invisible Guest (2016) THSUB
-thumb=https://image.tmdb.org/t/p/w640/fptnZJbLzKUHeNlYrAynbyoL5YJ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fptnZJbLzKUHeNlYrAynbyoL5YJ.jpg
 date=2017-12-25
 URL=https://streamango.com/f/qfcnnnoqctsndqko/The_Invisible_Guest_2016_
 
 type=video
 name=Pottersville (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/zlQgswQ5GEklrbv8MkohQHyomZu.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlQgswQ5GEklrbv8MkohQHyomZu.jpg
 date=2017-12-25
 URL=https://streamango.com/f/bbqndqqfkcfcelqm/Pottersville_2017_
 
 type=video
 name=Jeepers Creepers III (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/iw4zbtCw01JhTMpFtyYBKEDPBSL.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iw4zbtCw01JhTMpFtyYBKEDPBSL.jpg
 date=2017-12-09
 URL=https://www.blazefile.co/embed-gx2v6bptqus2.html
 #https://openload.co/f/acgUOiVfdXI/jeepers.creepers.iii.2017.1080p.bluray.x264-drones.mkv.mp4
@@ -3478,7 +3507,7 @@ URL=https://www.blazefile.co/embed-gx2v6bptqus2.html
 #https://openload.co/f/ixfU_gOrA_4/Jeepers.Creepers.3.2017.HDCAM.x264-DiRG.mp4
 type=video
 name=Jeepers Creepers III (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/iw4zbtCw01JhTMpFtyYBKEDPBSL.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iw4zbtCw01JhTMpFtyYBKEDPBSL.jpg
 date=2017-12-29
 URL=https://streamango.com/f/ffdnmrlksftortmq/Jeepers_Creepers_III_2017_3_
 #https://streamango.com/f/ptlmlcadntoplaes/Jeepers_Creepers_3_2017_1080p_HDTV_SUBTH_mp4
@@ -3486,20 +3515,20 @@ URL=https://streamango.com/f/ffdnmrlksftortmq/Jeepers_Creepers_III_2017_3_
 
 type=video
 name=First They Killed My Father (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/uT5eZhZVdNnkVl8xysTDixBAMnd.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uT5eZhZVdNnkVl8xysTDixBAMnd.jpg
 date=2017-12-18
 URL=https://streamango.com/f/otdlpdqpokkndkds/First_They_Killed_My_Father_2017_
 
 type=video
 name=Shimmer Lake (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/bQHhpTHiys0CZRrdDRKvXBmM5KL.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQHhpTHiys0CZRrdDRKvXBmM5KL.jpg
 date=2017-12-18
 URL=https://streamango.com/f/dnlfcpqkkskoetke/Shimmer_Lake_2017_
 
 
 type=video
 name=Logan Lucky (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
 date=2017-11-15
 URL=https://www.blazefile.co/embed-ejxanhrtjykc.html
 #https://openload.co/f/M5nddhfGiHA/logan.lucky.2017.1080p.bluray.x264-geckos.mkv.mp4
@@ -3507,33 +3536,33 @@ URL=https://www.blazefile.co/embed-ejxanhrtjykc.html
 #https://openload.co/f/sT2jB8zTaVQ/LC.2017.TS.x264-CPG.mkv.mp4
 type=video
 name=Logan Lucky (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
 date=2017-12-16
 URL=https://streamango.com/f/srfnnbtbntenbede/Logan_Lucky_2017_SUB
 
 
 type=video
 name=The Meyerowitz Stories (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/vJZs6ABHbCcgjIFcAoPx3qhwXzL.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJZs6ABHbCcgjIFcAoPx3qhwXzL.jpg
 date=2017-10-13
 URL=https://openload.co/f/DvzBIzD07rA/The_Meyerowitz_Stories_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=The Meyerowitz Stories (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/vJZs6ABHbCcgjIFcAoPx3qhwXzL.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJZs6ABHbCcgjIFcAoPx3qhwXzL.jpg
 date=2017-12-12
 URL=https://streamango.com/f/fcskbsotsrlcsdpk/The_Meyerowitz_Stories_2017_
 
 
 type=video
 name=To the Bone (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/rgPysl0uMpxllv43r4udHuRAhn4.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgPysl0uMpxllv43r4udHuRAhn4.jpg
 date=2017-12-12
 URL=https://streamango.com/f/frpkcdanlfamoqlp/To_the_Bone_2017_
 
 
 type=video
 name=Super Dark Times (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/7sJoNicLJ9EZwetp5ucjS8qQ9g1.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sJoNicLJ9EZwetp5ucjS8qQ9g1.jpg
 date=2017-11-18
 URL=https://www.blazefile.co/embed-b20p77brtx7n.html
 #https://www.blazefile.co/embed-rcdziugoum1i.html 
@@ -3541,46 +3570,46 @@ URL=https://www.blazefile.co/embed-b20p77brtx7n.html
 #https://openload.co/f/YdrHJ1mm07o/Super_Dark_Times_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=Super Dark Times (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/7sJoNicLJ9EZwetp5ucjS8qQ9g1.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sJoNicLJ9EZwetp5ucjS8qQ9g1.jpg
 date=2017-12-12
 URL=https://streamango.com/f/rnpmmmrenffremro/Super_Dark_Times_2017_
 
 
 type=video
 name=El Camino Christmas (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/z8c7qPGBO9aPozKu54lubDDVBJf.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8c7qPGBO9aPozKu54lubDDVBJf.jpg
 date=2017-12-12
 URL=https://streamango.com/f/oroparlpqkdplokt/El_Camino_Christmas_2017_
 
 
 type=video
 name=Undercover Grandpa (2017) ENG WEBRip.x264-RBB
-thumb=https://image.tmdb.org/t/p/w640/qpKIZITtS9IselXnATtGUR6RJnP.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpKIZITtS9IselXnATtGUR6RJnP.jpg
 date=2017-12-03
 URL=https://openload.co/f/Br9lzIQQDxw/Undercover.Grandpa.2017.WEBRip.x264-RBB.mp4
 type=video
 name=Undercover Grandpa (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/qpKIZITtS9IselXnATtGUR6RJnP.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpKIZITtS9IselXnATtGUR6RJnP.jpg
 date=2017-12-03
 URL=https://streamango.com/f/plkksnqrtmrkbdts/Undercover_Grandpa_2017_THSUB_mp4
 
 
 type=video
 name=All Saints (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/k6MDUbSs4At1NZOYuEJqEmxmLOs.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6MDUbSs4At1NZOYuEJqEmxmLOs.jpg
 date=2017-11-26
 URL=https://www.blazefile.co/embed-4nj18oib9gig.html
 #https://openload.co/f/kXZ_vArcxVI/all.saints.2017.1080p.bluray.x264-drones.mkv.mp4
 type=video
 name=All Saints (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/k6MDUbSs4At1NZOYuEJqEmxmLOs.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6MDUbSs4At1NZOYuEJqEmxmLOs.jpg
 date=2017-12-02
 URL=https://streamango.com/f/cnlptbefleoskkdm/All_Saints_2017_
 
 
 type=video
 name=The Fundamentals of Caring (2016) THSUB
-thumb=https://image.tmdb.org/t/p/w640/jeustb4cm3S3jfULDhMyXW2YCIt.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeustb4cm3S3jfULDhMyXW2YCIt.jpg
 date=2017-11-29
 URL=https://openload.co/f/NHa1i6xUahM/The_Fundamentals_of_Caring_%282016%29%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B9%83%E0%B8%88_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 #https://streamango.com/f/mmdkpkromdltplcs/The_Fundamentals_of_Caring_2016_
@@ -3588,90 +3617,91 @@ URL=https://openload.co/f/NHa1i6xUahM/The_Fundamentals_of_Caring_%282016%29%E0%B
 
 type=video
 name=Gerald's Game (2017) ENG web.x264-strife
-thumb=https://image.tmdb.org/t/p/w640/54a8fBmUrHHsI64etGdtT6n9Lzf.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/54a8fBmUrHHsI64etGdtT6n9Lzf.jpg
 date=2017-09-29
 URL=https://openload.co/f/M0wgcuSsAHs/Gerald%27s_Game_%282017%29.web.x264-strife.mkv.mp4
 type=video
 name=Gerald's Game (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/54a8fBmUrHHsI64etGdtT6n9Lzf.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/54a8fBmUrHHsI64etGdtT6n9Lzf.jpg
 date=2017-11-29
 URL=https://openload.co/f/0SYELM6u_ZE/Gerald%27s_Game_%282017%29%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B8%E0%B8%81%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 #https://streamango.com/f/askptlttbcnkellf/Gerald_s_Game_2017_
 
 
 type=video
-name=The Beguiled (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6GB
-thumb=https://image.tmdb.org/t/p/w640/yCt9jWUFNpWLSiNpShZr9JFF9oD.jpg
+name=The Beguiled (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCt9jWUFNpWLSiNpShZr9JFF9oD.jpg
 date=2017-09-29
-URL=https://openload.co/f/jYwMKH9Lesc/The_Beguiled_%282017%29.1080p.BluRay.x264-DRONES.mkv
+URL=https://www.blazefile.co/embed-v754lr59r02l.html
+#https://openload.co/f/jYwMKH9Lesc/The_Beguiled_%282017%29.1080p.BluRay.x264-DRONES.mkv
 #https://openload.co/f/Ea2vunZPTZ0/The_Beguiled_%282017%29.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://www.blazefile.co/embed-v754lr59r02l.html
 type=video
 name=The Beguiled (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/yCt9jWUFNpWLSiNpShZr9JFF9oD.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCt9jWUFNpWLSiNpShZr9JFF9oD.jpg
 date=2017-11-26
 URL=https://openload.co/f/6QJyqPdV024/The_Beguiled_%282017%29%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B8%A5%E0%B8%A7%E0%B8%87_%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%B2%E0%B8%AA_%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%99%E0%B8%B2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
 name=A Christmas Prince (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/z3jfaahNCSUytgAQhavUmoA1ab6.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3jfaahNCSUytgAQhavUmoA1ab6.jpg
 date=2017-12-29
 URL=https://streamango.com/f/ctfrtesfncterrao/A_Christmas_Prince_2017_HD_535FMVKJ1CJKGJ8B8DYOA_mp4
 #https://openload.co/f/qyGLP-SEr74/A_Christmas_Prince_%282017%29%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%A1%E0%B8%B2%E0%B8%AA_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 type=video
 name=The Killer (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/he6s2dOWmzWXsZGa0QLbcMVZJnx.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/he6s2dOWmzWXsZGa0QLbcMVZJnx.jpg
 date=2017-11-25
 URL=https://openload.co/f/B29AzGhZ9OU/The_Killer_%282017%29%E0%B8%A5%E0%B9%88%E0%B8%B2_%E0%B8%86%E0%B9%88%E0%B8%B2_%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%94%E0%B8%B4%E0%B8%9A_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 type=video
 name=Blame! (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/vNGR1oruTC9WWPraHatRyUZT2ii.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNGR1oruTC9WWPraHatRyUZT2ii.jpg
 date=2017-11-25
 URL=https://openload.co/f/0MdJBlkbS-k/Blame%21_%282017%29%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%A1%21_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 type=video
 name=Bon Cop Bad Cop 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/qY4RGT6Ky1Z46BWaKohTlNp9ncU.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qY4RGT6Ky1Z46BWaKohTlNp9ncU.jpg
 date=2017-10-11
 URL=https://openload.co/f/B9RmdmacUw4/Bon.Cop.Bad.Cop.2.2017.1080p.BluRay.x264-NODLABS.mkv.mp4
 type=video
 name=Bon Cop Bad Cop 2 (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/qY4RGT6Ky1Z46BWaKohTlNp9ncU.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qY4RGT6Ky1Z46BWaKohTlNp9ncU.jpg
 date=2017-11-20
 URL=https://openload.co/f/FpZMt9Gz8jQ/Bon_Cop_Bad_Cop_2_%282017%29%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%81%E0%B8%B3%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%99%E0%B8%A3%E0%B8%81_2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
 name=Mudbound (2017) ENG NF.WEB-DL.DD5.1.x264-NTG
-thumb=https://image.tmdb.org/t/p/w640/7cL7UgVMeP9xDSxU2NyAqeAQAbt.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cL7UgVMeP9xDSxU2NyAqeAQAbt.jpg
 date=2017-11-17
 URL=https://openload.co/f/-CzwyQleoyc/Mudbound.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
 type=video
 name=Mudbound (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/7cL7UgVMeP9xDSxU2NyAqeAQAbt.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cL7UgVMeP9xDSxU2NyAqeAQAbt.jpg
 date=2017-11-20
 URL=https://openload.co/f/H63taH50-tE/Mudbound_%282017%29%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
 name=Brigsby Bear (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/ig0W1cGLFyTGQCDMb9xemlOGOBy.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ig0W1cGLFyTGQCDMb9xemlOGOBy.jpg
 date=2017-11-03
 URL=https://www.blazefile.co/embed-6kds4lprpqzz.html
 #https://openload.co/f/cI_yBvNmBhM/Brigsby.Bear.2017.720p.BluRay.H264.AAC-RARBG.mp4
 type=video
 name=Brigsby Bear (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/ig0W1cGLFyTGQCDMb9xemlOGOBy.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ig0W1cGLFyTGQCDMb9xemlOGOBy.jpg
 date=2017-11-19
 URL=https://openload.co/f/JwY0AqV5rPQ/Brigsby_Bear_%282017%29%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%AA%E0%B8%9A%E0%B8%B5%E0%B9%89_%E0%B9%81%E0%B8%9A%E0%B8%A3%E0%B9%8C_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
 name=Brawl in Cell Block 99 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
 date=2017-12-28
 URL=https://uptobox.com/w5wytjigcoqw
 #https://openload.co/f/nolvaU5ZQNA/Brawl_In_Cell_Block_99_%282017%29.1080p.BluRay_x264-%5BYTS_AG%5D_mp4
@@ -3680,27 +3710,27 @@ URL=https://uptobox.com/w5wytjigcoqw
 #https://openload.co/f/aT6jWYPHnBk/Brawl.in.Cell.Block.99.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 type=video
 name=Brawl in Cell Block 99 (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
 date=2017-11-19
 URL=https://openload.co/f/g-h3yWNgLC8/Brawl_in_Cell_Block_99_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
 
 
 type=video
 name=The House (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/hkmWkVgirei79bwds23Hr0lWSXS.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkmWkVgirei79bwds23Hr0lWSXS.jpg
 date=2017-09-26
 URL=https://www.blazefile.co/embed-pn6ml5wz8vat.html
 #https://openload.co/f/keXLH-SrQw8/The.House.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 type=video
 name=The House (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/hkmWkVgirei79bwds23Hr0lWSXS.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkmWkVgirei79bwds23Hr0lWSXS.jpg
 date=2017-10-28
 URL=https://openload.co/f/Te1Oo96FmrY/The_House_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%AE%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
 
 
 type=video
 name=OtherLife (2017) ENG webrip.x264-intenso
-thumb=https://image.tmdb.org/t/p/w640/sJUWGjRXJ39ZHG1weQg9hJeFqwK.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJUWGjRXJ39ZHG1weQg9hJeFqwK.jpg
 date=2017-10-20
 URL=https://openload.co/f/hk91A_0nVOs/otherlife.2017.720p.webrip.x264-intenso.mkv.mp4
 #https://openload.co/f/dIRjDVu0Op4/OtherLife.2017.720p.WEBRip.x264.AC3-FooKaS.mp4
@@ -3708,32 +3738,32 @@ URL=https://openload.co/f/hk91A_0nVOs/otherlife.2017.720p.webrip.x264-intenso.mk
 #https://openload.co/f/NudkvHBICKk/OtherLife.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=OtherLife (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/sJUWGjRXJ39ZHG1weQg9hJeFqwK.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJUWGjRXJ39ZHG1weQg9hJeFqwK.jpg
 date=2017-10-21
 URL=https://openload.co/f/D0nxKwYWoY0/OtherLife_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
 
 
 type=video
 name=Wheelman (2017) ENG NF.WEB-DL.DD5.1.x264-NTG
-thumb=https://image.tmdb.org/t/p/w640/yeHRsKOlNDsbEIALS1ve6S42Nl6.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeHRsKOlNDsbEIALS1ve6S42Nl6.jpg
 date=2017-10-20
 URL=https://openload.co/f/tGegywl1H8A/Wheelman.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
 type=video
 name=Wheelman (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/yeHRsKOlNDsbEIALS1ve6S42Nl6.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeHRsKOlNDsbEIALS1ve6S42Nl6.jpg
 date=2017-10-21
 URL=https://openload.co/f/QgNS6RWrhio/Wheelman_%282017%29%E0%B8%A7%E0%B8%B5%E0%B8%A5%E0%B9%81%E0%B8%A1%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
 
 
 type=video
 name=1922 (2017) ENG NF_WEB-DL_DD5_1_x264-NTG
-thumb=https://image.tmdb.org/t/p/w640/rabjJkDcQ1xXfPRD1QAC0pVJoN0.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rabjJkDcQ1xXfPRD1QAC0pVJoN0.jpg
 date=2017-10-20
 URL=https://openload.co/f/5OKcVu7z1W0/1922_%282017%29_%5B1080p%5D_NF_WEB-DL_DD5_1_x264-NTG_mkv_mp4
 #https://openload.co/f/0BneJL_8LIk/1922.2017.720p.WEBRip.XviD.AC3-FGT.avi.mp4
 type=video
 name=1922 (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/rabjJkDcQ1xXfPRD1QAC0pVJoN0.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rabjJkDcQ1xXfPRD1QAC0pVJoN0.jpg
 date=2017-10-21
 URL=https://openload.co/f/aa0S9330B3c/1922_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
 
@@ -3743,51 +3773,51 @@ URL=https://openload.co/f/aa0S9330B3c/1922_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B
 
 type=video
 name=The Babysitter (2017) ENG webrip.x264-strife
-thumb=https://image.tmdb.org/t/p/w640/UDyOG3rewNfbUelPGSvNxtmHZj.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/UDyOG3rewNfbUelPGSvNxtmHZj.jpg
 date=2017-10-14
 URL=https://openload.co/f/fkVUh4JzN7c/the.babysitter.2017.1080p.webrip.x264-strife.mkv.mp4
 #https://openload.co/f/wTgXi-mu0IQ/The.Babysitter.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
 type=video
 name=The Babysitter (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/UDyOG3rewNfbUelPGSvNxtmHZj.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/UDyOG3rewNfbUelPGSvNxtmHZj.jpg
 date=2017-10-16
 URL=https://openload.co/f/JlcoWm4iBgQ/The_Babysitter_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%8B%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
 name=Kingdom of Us (2017) ENG web.x264-strife
-thumb=https://image.tmdb.org/t/p/w640/moxRHY0pMP1wjCiy761yn3ff9gD.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/moxRHY0pMP1wjCiy761yn3ff9gD.jpg
 date=2017-10-16
 URL=https://openload.co/f/NzOWhB1pMg0/kingdom.of.us.2017.1080p.web.x264-strife.mkv.mp4
 type=video
 name=Kingdom of Us (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w640/moxRHY0pMP1wjCiy761yn3ff9gD.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/moxRHY0pMP1wjCiy761yn3ff9gD.jpg
 date=2017-10-16
 URL=https://openload.co/f/VuFyLkZ195I/Kingdom_of_Us_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
 name=A Ghost Story (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/sD94aixD7fMAc2e9ugbv4KQprBL.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sD94aixD7fMAc2e9ugbv4KQprBL.jpg
 date=2017-09-19
 URL=https://www.blazefile.co/embed-k29w96tvjacy.html
 #https://openload.co/f/w4f2jlOvnrA/a.ghost.story.2017.limited.1080p.bluray.x264-drones.mkv.mp4
 type=video
 name=A Ghost Story (2017) TH SUB
-thumb=https://image.tmdb.org/t/p/w640/sD94aixD7fMAc2e9ugbv4KQprBL.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sD94aixD7fMAc2e9ugbv4KQprBL.jpg
 date=2017-10-10
 URL=https://openload.co/f/CvyZ9_2t_8w/A_Ghost_Story_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
 
 
 type=video
 name=Cult of Chucky (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/6IGI6CADqcvl8qhPt2irsqCQPcZ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IGI6CADqcvl8qhPt2irsqCQPcZ.jpg
 date=2017-09-26
 URL=https://www.blazefile.co/embed-z5dn08zue3kg.html
 #https://openload.co/f/EVljFMCMj4I/Cult.of.Chucky.2017.UNRATED.1080p.BluRay.x264-ROVERS.mkv.mp4
 type=video
 name=Cult of Chucky (2017) TH SUB
-thumb=https://image.tmdb.org/t/p/w640/6IGI6CADqcvl8qhPt2irsqCQPcZ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IGI6CADqcvl8qhPt2irsqCQPcZ.jpg
 date=2017-10-02
 URL=https://openload.co/f/-dty928hy98/Cult_of_Chucky_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
@@ -3826,7 +3856,7 @@ description=In the fourth installment of the fighting franchise, Boyka is shooti
 
 type=video
 name=Naked (2017) SUB
-thumb=https://image.tmdb.org/t/p/w640/5nxYmm03RAqAChErpRpFTHDlfCq.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nxYmm03RAqAChErpRpFTHDlfCq.jpg
 date=2017-08-17
 URL=https://drive.google.com/file/d/0BxWJjYq80SxOYTRJRWdoUlZRWEU/view
 
@@ -3834,28 +3864,28 @@ URL=https://drive.google.com/file/d/0BxWJjYq80SxOYTRJRWdoUlZRWEU/view
 
 type=video
 name=Okja (2017) SUB
-thumb=https://image.tmdb.org/t/p/w640/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg
 date=2017-07-06
 URL=https://streamango.com/f/rostsfpnbfkmqrrd/Okja_2017_Sub_TH_mkv_mp4
 
 type=video
 name=King of Thorn (2009) SUB
-thumb=https://image.tmdb.org/t/p/w640/2HB3zSV9QkJV8fyPDRODTEyvZeO.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HB3zSV9QkJV8fyPDRODTEyvZeO.jpg
 URL=https://openload.co/f/T4-JEKw6TcY/%5BSeishinseii-Subs%5D_King_of_Thorn_%28BD_1920x1080_x264_AAC_TH%29.mp4
 
 type=video
 name=Spectral (2016) SUB
-thumb=https://image.tmdb.org/t/p/w640/oXV2ayQYUQfHwpuMdWnZF0Geng5.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXV2ayQYUQfHwpuMdWnZF0Geng5.jpg
 URL=https://openload.co/f/LMxwHx7QfOg/spactral.MP4.mp4
 
 type=video
 name=Sand Castle (2017) SUB
-thumb=https://image.tmdb.org/t/p/w640/c9buG2jVRgAu68E4D4jpwlgqhO1.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9buG2jVRgAu68E4D4jpwlgqhO1.jpg
 URL=https://openload.co/f/SzF0JcyRqMg/%5BS%5DSAND_CASTLE
 
 type=video
 name=War Machine (2017) SUB
-thumb=https://image.tmdb.org/t/p/w640/zGlzlzms2vN5vSFVMWuknu7XGXP.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGlzlzms2vN5vSFVMWuknu7XGXP.jpg
 URL=https://openload.co/f/UbO21LeobWw/War_Machine_%282017%29.mp4
 
 # 2776077
@@ -3993,20 +4023,20 @@ URL=
 
 type=video
 name=Bleeding Steel (2017) CHN HDTC.X264.AAC-Zi%24t
-thumb=https://image.tmdb.org/t/p/w640/z1O26qVwkhSlicycBBK731k8vPd.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1O26qVwkhSlicycBBK731k8vPd.jpg
 date=2018-01-03
 URL=https://openload.co/f/rbcKgVNRwDo/Bleeding.Steel.2017.720P.HDTC.X264.AAC-Zi%24t.mkv.mp4
 #https://openload.co/f/haSIIRCGox8/BLEEDING_STEEL_2017_CAMRIP_X264_MP3_Zit.E.mp4
 type=video
 name=Bleeding Steel (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/z1O26qVwkhSlicycBBK731k8vPd.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1O26qVwkhSlicycBBK731k8vPd.jpg
 date=2018-01-22
 URL=https://streamango.com/f/taflormrmbkarraf/Bleeding_Steel_2017_
 
 
 type=video
 name=Thor: Ragnarok (2017) ENG 1080p.WEB-DL_SeeHD
-thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
 date=2018-01-24
 URL=https://openload.co/f/FZ3mw-urIjo/Thor.Ragnarok.1080p.WEB-DL_SeeHD.mkv
 #https://openload.co/f/I4wPo-RMVZQ/Thor.Ragnarok.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
@@ -4019,7 +4049,7 @@ URL=https://openload.co/f/FZ3mw-urIjo/Thor.Ragnarok.1080p.WEB-DL_SeeHD.mkv
 #http://entervideo.net/watch/fbc6907370d0144
 type=video
 name=Thor: Ragnarok (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
 date=2018-01-22
 URL=https://streamango.com/f/fsknanmrcbmodqsm/Thor_Ragnarok_2017_
 #https://openload.co/f/pY7IWR3c-Bg/Thor%3A_Ragnarok_%282017%29%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
@@ -4028,7 +4058,7 @@ URL=https://streamango.com/f/fsknanmrcbmodqsm/Thor_Ragnarok_2017_
 
 type=video
 name=Jigsaw (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
 date=2018-01-16
 URL=https://www.blazefile.co/embed-pr93rr4p0mhe.html
 #https://uptobox.com/ra64pdaqwaud
@@ -4040,7 +4070,7 @@ URL=https://www.blazefile.co/embed-pr93rr4p0mhe.html
 #https://uptobox.com/7h1vbb4v1zdm   720
 type=video
 name=Jigsaw (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
 date=2018-01-11
 URL=https://streamango.com/f/dmmfmrrolmnaakkn/Jigsaw_2017_
 #https://streamango.com/f/dedmrkdoeockpqkq/Jigsaw_2017_
@@ -4048,26 +4078,26 @@ URL=https://streamango.com/f/dmmfmrrolmnaakkn/Jigsaw_2017_
 
 type=video
 name=24 Hours to Live (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/s6kwunWUi52EjNhep33sJ9uEnqX.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6kwunWUi52EjNhep33sJ9uEnqX.jpg
 date=2018-01-27
 URL=https://www.blazefile.co/embed-b1ghmxgmqe2i.html
 #https://uptobox.com/3vtg540a8t8f
 type=video
 name=24 Hours to Live (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/s6kwunWUi52EjNhep33sJ9uEnqX.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6kwunWUi52EjNhep33sJ9uEnqX.jpg
 date=2018-01-10
 URL=https://streamango.com/f/plcmptlmssflemdb/24_Hours_to_Live_2017_24_
 
 
 type=video
 name=Renegades (2017) ENG WEB-DL.DD5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w640/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
 date=2018-01-06
 URL=https://openload.co/f/DyatEMF7zmU/Renegades.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 #https://openload.co/f/JzSw1qm2gy0/Renegades.2017.CAM.READNFO.XViD-26k.avi.mp4
 type=video
 name=Renegades (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
 date=2018-01-09
 URL=https://streamango.com/f/pttkrrcdeelqtlts/Renegades_2017_
 #https://streamango.com/f/nksbqcoqffaeaqco/Renegades_2017_
@@ -4076,14 +4106,14 @@ URL=https://streamango.com/f/pttkrrcdeelqtlts/Renegades_2017_
 
 type=video
 name=Tokyo Ghoul (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/53Tjv28KGP7ZZh7XqTer90t6tMZ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/53Tjv28KGP7ZZh7XqTer90t6tMZ.jpg
 date=2017-10-27
 URL=https://streamango.com/f/btdnmcsfrpqqaqmn/Tokyo_Ghoul_2017_
 
 
 type=video
 name=Justice League (2017) ENG PROPER_HDRip_KORSUB_X264_HQ-CPG
-thumb=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
 date=2017-12-25
 URL=https://openload.co/f/9aU7M3BmTTY/Justice_League_%282017%29_%5B720p%5D_PROPER_HDRip_KORSUB_X264_HQ-CPG_mkv_mp4
 #https://openload.co/f/Gcww3bPYNac/Justice.League.2017.1080p.KORSUB-JesusLovesYew.mkv.mp4
@@ -4093,7 +4123,7 @@ URL=https://openload.co/f/9aU7M3BmTTY/Justice_League_%282017%29_%5B720p%5D_PROPE
 #https://openload.co/f/rzw5iUFLhkg/Justice_League.2017.ENG.PROPER.HDCAM-H264.MP3-Zi%2524t.mkv.mp4
 type=video
 name=Justice League (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
 date=2017-12-29
 URL=https://streamango.com/f/kpebetmcrsqqlddr/Justice_League_2017_
 #https://streamango.com/f/eacblflbsprtceed/Justice_League_2017_
@@ -4103,14 +4133,14 @@ URL=https://streamango.com/f/kpebetmcrsqqlddr/Justice_League_2017_
 
 type=video
 name=The Son of Bigfoot (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
 date=2017-12-13
 URL=https://www.blazefile.co/embed-lc01dmkeuh9o.html
 #https://openload.co/f/if2l-I3_ZQU/The.Son.Of.Bigfoot.2017.1080p.BluRay.x264-HDEX.mkv.mp4
 #https://openload.co/f/TBvJEkO7bJ0/The_Son_of_Bigfoot.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 type=video
 name=The Son of Bigfoot (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
 date=2017-12-18
 URL=https://streamango.com/f/mfkdtmfnpelkfara/The_Son_of_Bigfoot_2017_
 #https://openload.co/f/c_tptj0O6iU/The_Son_of_Bigfoot_%282017%29%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81%E0%B8%9F%E0%B8%B8%E0%B8%95_%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%8B%E0%B8%9F%E0%B8%9E%E0%B9%88%E0%B8%AD_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
@@ -4119,7 +4149,7 @@ URL=https://streamango.com/f/mfkdtmfnpelkfara/The_Son_of_Bigfoot_2017_
 
 type=video
 name=Beyond Skyline (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/ktZvjFmwCLrMXtr1dl6o5PhhHS4.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktZvjFmwCLrMXtr1dl6o5PhhHS4.jpg
 date=2017-12-29
 URL=https://uptobox.com/w7gqx6w98li6
 #https://openload.co/f/Rjbt4s6ubxg/Beyond.Skyline.2017.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -4127,7 +4157,7 @@ URL=https://uptobox.com/w7gqx6w98li6
 #https://openload.co/f/E4IDWuSE1Xg/Beyond_Skyline_2017_CAM_%5BLayar-21.com%5D.mp4
 type=video
 name=Beyond Skyline (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/ktZvjFmwCLrMXtr1dl6o5PhhHS4.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktZvjFmwCLrMXtr1dl6o5PhhHS4.jpg
 date=2017-12-18
 URL=https://streamango.com/f/odfkdofpqkqkcbqs/Beyond_Skyline_2017_
 
@@ -4137,14 +4167,14 @@ URL=https://streamango.com/f/odfkdofpqkqkcbqs/Beyond_Skyline_2017_
 
 type=video
 name=Better Watch Out (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
 date=2017-11-29
 URL=https://www.blazefile.co/embed-ystpfz1l9f0c.html
 #https://openload.co/f/ItPr-gpepsA/Better.Watch.Out.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/zRhfEaYL4NQ/Better.Watch.Out.2016.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 type=video
 name=Better Watch Out (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
 date=2017-12-12
 URL=https://streamango.com/f/senracacnfdrqnfa/Better_Watch_Out_2017_
 #https://streamango.com/f/nrmdnadtrpnrpfma/Better_Watch_Out_2017_THCAM_SOUND_mp4
@@ -4156,14 +4186,14 @@ URL=https://streamango.com/f/senracacnfdrqnfa/Better_Watch_Out_2017_
 
 type=video
 name=Wind River (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
 date=2017-11-04
 URL=https://www.blazefile.co/embed-68cdy7nrowcj.html
 #https://openload.co/f/PvkzQWxykww/Wind.River.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/KrtMkCMab98/Wind.River.2017.HDRip.XviD.AC3-iFT.avi.mp4
 type=video
 name=Wind River (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
 date=2017-12-02
 URL=https://streamango.com/f/pqlbelmdakeoecca/Wind_River_2017_
 
@@ -4184,7 +4214,7 @@ URL=https://streamango.com/f/pqlbelmdakeoecca/Wind_River_2017_
 
 type=video
 name=Tell Me How I Die (2016) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/6wmeMvPc16Zsioe0M4VHwNXUV59.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wmeMvPc16Zsioe0M4VHwNXUV59.jpg
 date=2017-10-24
 URL=https://openload.co/f/bPl2nYIbsc0/Tell_Me_How_I_Die_%282016%29%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
@@ -4224,7 +4254,7 @@ URL=https://openload.co/f/bPl2nYIbsc0/Tell_Me_How_I_Die_%282016%29%E0%B8%99%E0%B
 
 type=video
 name=Paradox (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/9e7X4NjnioUoLMR74d0fUW1WSp9.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e7X4NjnioUoLMR74d0fUW1WSp9.jpg
 date=2017-11-20
 URL=https://openload.co/f/Pv0JpdraClA/Paradox.2017.4K.2160p.WEB-DL.x264.AC-3.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 #https://openload.co/f/ZUSwNylVnPg/Paradox_%282017%29%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94_%E0%B8%8B%E0%B8%B1%E0%B8%94_%E0%B8%94%E0%B8%B4%E0%B8%9A_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
@@ -4237,12 +4267,12 @@ URL=https://openload.co/f/Pv0JpdraClA/Paradox.2017.4K.2160p.WEB-DL.x264.AC-3.Tha
 
 type=video
 name=Revolt (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg
 date=2017-09-21
 URL=https://openload.co/f/5Mf1pnovBYY/Revolt.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 type=video
 name=Revolt (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w640/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg
 date=2017-07-29
 URL=https://openload.co/f/a12f7DHdFHk/Revolt_%282017%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95.mp4
 
@@ -4351,7 +4381,7 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 type=video
 name=Wolf Warrior 2 (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/43cEBkGpr0whbDuisa7TRLnv7X0.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/43cEBkGpr0whbDuisa7TRLnv7X0.jpg
 date=2018-01-30
 URL=https://openload.co/f/ew4sW16eeio/Wolf_Warrior_2_%282017%29%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2.mp4
 #https://openload.co/f/iKWAol8wDEM/Wolf_Warrior_2_%282017%29%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
@@ -4361,14 +4391,14 @@ URL=https://openload.co/f/ew4sW16eeio/Wolf_Warrior_2_%282017%29%E0%B8%81%E0%B8%A
 
 type=video
 name=My Little Pony: The Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/15WbvKx7B7FiLZheK49Xc05oRIX.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/15WbvKx7B7FiLZheK49Xc05oRIX.jpg
 date=2017-12-31
 URL=https://uptobox.com/dpxh6d48ewny
 #https://openload.co/f/46tGHZBzayA/My.Little.Pony.The.Movie.2017.1080p.BluRay.x264-Replica.mkv.mp4
 #https://openload.co/f/3nFF8giXD2A/My_Little_Pony%3A_The_Movie_%282017%29_720p_HDRip.mp4
 type=video
 name=My Little Pony: The Movie (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/15WbvKx7B7FiLZheK49Xc05oRIX.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/15WbvKx7B7FiLZheK49Xc05oRIX.jpg
 date=2018-01-29
 URL=https://openload.co/f/IDqf3ORmy4Y/My_Little_Pony%3A_The_Movie_%282017%29%E0%B8%A1%E0%B8%B2%E0%B8%A2_%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B9%89%E0%B8%A5_%E0%B9%82%E0%B8%9E%E0%B8%99%E0%B8%B5%E0%B9%88_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88.mp4
 #https://openload.co/f/zDCoLtzXz04/My_Little_Pony%3A_The_Movie_%282017%29%E0%B8%A1%E0%B8%B2%E0%B8%A2_%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B9%89%E0%B8%A5_%E0%B9%82%E0%B8%9E%E0%B8%99%E0%B8%B5%E0%B9%88_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88.mp4
@@ -4377,14 +4407,14 @@ URL=https://openload.co/f/IDqf3ORmy4Y/My_Little_Pony%3A_The_Movie_%282017%29%E0%
 
 type=video
 name=Overdrive (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
 date=2017-10-06
 URL=https://www.blazefile.co/embed-sexo4bf5s5c1.html
 #https://openload.co/f/nk5QA-pH9oc/Overdrive.2017.720p.WEB-DL.X264.AC3-EVO.mp4
 #https://openload.co/f/c-CIP1tM8Wk/Overdrive.2017.1080p.WEB-DL.DD5.1.H264_CpT%40CtHts.mkv.mp4
 type=video
 name=Overdrive (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg
 date=2018-01-28
 URL=https://openload.co/f/RedG5MoGsxk/Overdrive_%282017%29%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%84%E0%B8%A1%E0%B8%A5%E0%B9%8C.mp4
 #https://openload.co/f/9o0qqqC-HkQ/Overdrive_%282017%29%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%84%E0%B8%A1%E0%B8%A5%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
@@ -4392,21 +4422,21 @@ URL=https://openload.co/f/RedG5MoGsxk/Overdrive_%282017%29%E0%B9%82%E0%B8%88%E0%
 
 type=video
 name=Breathe (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/wLu2N0QVfSpk10RJ17HLHyRUmww.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLu2N0QVfSpk10RJ17HLHyRUmww.jpg
 date=2017-12-21
 URL=https://www.blazefile.co/embed-k2lyzf0b0lvh.html
 #https://openload.co/f/4WI9mrrk0X8/Breathe.2017.720p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/nIYkXH6DkWM/breathe.2017.720p.blurayb.mp4
 type=video
 name=Breathe (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/wLu2N0QVfSpk10RJ17HLHyRUmww.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLu2N0QVfSpk10RJ17HLHyRUmww.jpg
 date=2018-01-27
 URL=https://openload.co/f/P7oJZj8TXm0/Breathe_%282017%29%E0%B9%83%E0%B8%88%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A5%E0%B9%83%E0%B8%88.mp4
 
 
 type=video
 name=Gintama (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/kZwyyazISEgJXVkhre00Kj7pvlf.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZwyyazISEgJXVkhre00Kj7pvlf.jpg
 date=2018-01-28
 URL=https://openload.co/f/z7RfDtw3hTw/Gintama_%282017%29%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%A1%E0%B8%B0%3A_%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B9%E0%B9%84%E0%B8%A3%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%94.mp4
 #https://openload.co/f/RsHYVJFL68U/Gintama_%282017%29%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%A1%E0%B8%B0_%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B9%E0%B9%84%E0%B8%A3_%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%94.mp4
@@ -4414,7 +4444,7 @@ URL=https://openload.co/f/z7RfDtw3hTw/Gintama_%282017%29%E0%B8%81%E0%B8%B4%E0%B8
 
 type=video
 name=Geostorm (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
 date=2018-01-16
 URL=https://uptobox.com/9m3o8vig5x12
 #https://openload.co/f/phgX0WG1Ruo/Geostorm.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
@@ -4426,7 +4456,7 @@ URL=https://uptobox.com/9m3o8vig5x12
 #https://openload.co/f/r8oWRvUiE7U/Geostorm_2017_HDCAM_ENG_X264-Feel_Free.mkv.mp4
 type=video
 name=Geostorm (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg
 date=2018-01-28
 URL=https://openload.co/f/GLQmDKeks_w/Geostorm_%282017%29%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B2%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 #https://openload.co/f/kfbMbhAgAu8/Geostorm_%282017%29%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B2%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
@@ -4439,7 +4469,7 @@ URL=https://openload.co/f/GLQmDKeks_w/Geostorm_%282017%29%E0%B9%80%E0%B8%A1%E0%B
 
 type=video
 name=Bushwick (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg
 date=2017-10-15
 URL=https://www.blazefile.co/embed-8m1mchh6s0zk.html
 #https://openload.co/f/5Mo7YmqYItA/Bushwick.2017.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -4447,7 +4477,7 @@ URL=https://www.blazefile.co/embed-8m1mchh6s0zk.html
 #https://openload.co/f/QXzC2b2-FYM/bushwick.2017.720p.bluray.x264-eider.mkv.mp4
 type=video
 name=Bushwick (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg
 date=2018-01-29
 URL=https://openload.co/f/Cr3pNBB7uCU/Bushwick_%282017%29%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87.mp4
 #https://openload.co/f/mtNezVi0vNc/Bushwick_%282017%29%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87.mp4
@@ -4458,14 +4488,14 @@ URL=https://openload.co/f/Cr3pNBB7uCU/Bushwick_%282017%29%E0%B8%AA%E0%B8%B9%E0%B
 
 type=video
 name=Who Gets the Dog? (2016) TH
-thumb=https://image.tmdb.org/t/p/w640/1Zl62Ws2GvttUiVu5iLkmYGiEgT.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Zl62Ws2GvttUiVu5iLkmYGiEgT.jpg
 date=2018-01-24
 URL=https://openload.co/f/ngq0oxgPC3k/Who_Gets_the_Dog%3F_%282016%29%E0%B8%AE%E0%B8%B9_%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%AA%E0%B9%8C_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%94%E0%B9%87%E0%B8%AD%E0%B8%81.mp4
 
 
 type=video
 name=The Foreigner (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
 date=2017-12-28
 URL=https://uptobox.com/svkjs90gabzm
 #https://openload.co/f/eprVMfHbycU/The.Foreigner.2017.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -4478,7 +4508,7 @@ URL=https://uptobox.com/svkjs90gabzm
 #https://openload.co/f/_3n4kc7SkNQ/The_Foreigner_%282017%29_ENGLISH_CAM-H264-AC3-Zit.mkv.mp4
 type=video
 name=The Foreigner (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ6G8LorvBJ9LdzE2XhePLUtWpy.jpg
 date=2018-01-24
 URL=https://openload.co/f/ywDO3CePnj4/The_Foreigner_%282017%292_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.mp4
 #https://streamango.com/f/pblsaqsboposetfo/The_Foreigner_2017_2_
@@ -4488,12 +4518,12 @@ URL=https://openload.co/f/ywDO3CePnj4/The_Foreigner_%282017%292_%E0%B9%82%E0%B8%
 
 type=video
 name=The Girl with All the Gifts (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/33IDooA29ctGHNE7gQW6cwbmRP3.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/33IDooA29ctGHNE7gQW6cwbmRP3.jpg
 date=2018-01-19
 URL=https://www.blazefile.co/embed-pmqt6cvtsuub.html
 type=video
 name=The Girl with All the Gifts (2016) TH
-thumb=https://image.tmdb.org/t/p/w640/33IDooA29ctGHNE7gQW6cwbmRP3.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/33IDooA29ctGHNE7gQW6cwbmRP3.jpg
 date=2018-01-23
 URL=https://openload.co/f/ODvNZSizqug/The_Girl_with_All_the_Gifts_%282016%29%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89.mp4
 #https://streamango.com/f/dbtcdrpodpbknqsk/The_Girl_With_All_The_Gift_2016_mkv_mp4
@@ -4501,7 +4531,7 @@ URL=https://openload.co/f/ODvNZSizqug/The_Girl_with_All_the_Gifts_%282016%29%E0%
 
 type=video
 name=Goodbye Christopher Robin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg
 date=2018-01-12
 URL=https://openload.co/f/cwaIiRR7Kf4/Goodbye.Christopher.Robin.2017.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/MzkblHOg-Jk/Goodbye_Christopher_Robin.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
@@ -4509,7 +4539,7 @@ URL=https://openload.co/f/cwaIiRR7Kf4/Goodbye.Christopher.Robin.2017.LIMITED.108
 #https://uptobox.com/81y1y7jy8aku   720
 type=video
 name=Goodbye Christopher Robin (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg
 date=2018-01-18
 URL=https://openload.co/f/rgU0UNhohgw/Goodbye_Christopher_Robin_%282017%29%E0%B9%81%E0%B8%94%E0%B9%88_%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B9%82%E0%B8%95%E0%B9%80%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99_%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B8%B5_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%9E%E0%B8%B9%E0%B8%AB%E0%B9%8C.mp4
 #https://openload.co/f/WTQ0sWHaNXI/%7BMINI_Super-HQ%7D_Goodbye.Christopher.Robin.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
@@ -4517,20 +4547,20 @@ URL=https://openload.co/f/rgU0UNhohgw/Goodbye_Christopher_Robin_%282017%29%E0%B9
 
 type=video
 name=Viral (2016) TH
-thumb=https://image.tmdb.org/t/p/w640/7Pk0Plmw3ySEqxhQPaKdxtbfU9F.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pk0Plmw3ySEqxhQPaKdxtbfU9F.jpg
 date=2018-01-15
 URL=https://openload.co/f/tWRCvlpBNEY/Viral_%282016%29%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%99%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 
 
 type=video
 name=What Happened to Monday (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/xfFoewesyuWRVh4qBbXbMhH6gm7.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfFoewesyuWRVh4qBbXbMhH6gm7.jpg
 date=2017-12-15
 URL=https://www.blazefile.co/embed-xn9z777ht3ew.html
 #https://openload.co/f/-k82xFsHb-I/What.Happened.to.Monday.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
 type=video
 name=What Happened to Monday (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/xfFoewesyuWRVh4qBbXbMhH6gm7.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfFoewesyuWRVh4qBbXbMhH6gm7.jpg
 date=2018-01-15
 URL=https://openload.co/f/mvOYvpDSeXM/What_Happened_to_Monday_%282017%297_%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99_7_%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
 #https://openload.co/f/9KTyW2GkyUY/What_Happened_to_Monday_%282017%297_%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99_7_%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
@@ -4539,14 +4569,14 @@ URL=https://openload.co/f/mvOYvpDSeXM/What_Happened_to_Monday_%282017%297_%E0%B9
 
 type=video
 name=The Magician (2015) TH
-thumb=https://image.tmdb.org/t/p/w640/hoZ1pHY1EqDZOYUULfPo55CunB6.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoZ1pHY1EqDZOYUULfPo55CunB6.jpg
 date=2018-01-09
 URL=https://openload.co/f/WuJ25FqURJU/The_Magician_%282015%29%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%82%E0%B8%8A%E0%B8%8B%E0%B8%AD%E0%B8%99.mp4
 #https://openload.co/f/Jow6pzOvO4M/The_Magician_%282015%29%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%82%E0%B8%8A%E0%B8%8B%E0%B8%AD%E0%B8%99.mp4
 
 type=video
 name=Memories of the Sword (2015) TH
-thumb=https://image.tmdb.org/t/p/w640/dqf7fnJXoPvKdVD33w4KYl3qB55.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqf7fnJXoPvKdVD33w4KYl3qB55.jpg
 date=2018-01-06
 URL=https://openload.co/f/XU0LFMOsjKI/Memories_of_the_Sword_%282015%29%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C.mp4
 
