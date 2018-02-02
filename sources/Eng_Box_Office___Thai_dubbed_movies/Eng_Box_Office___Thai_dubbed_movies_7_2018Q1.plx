@@ -59,14 +59,18 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-01-27
+date=2018-02-02
 URL=
 
 
 
 
 
-
+type=video
+name=Braven (2018) ENG 720p.WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/253Bw5I3Zj3e2thCThjO7byEUCL.jpg
+date=2018-02-02
+URL=https://openload.co/f/2qmvoK5LyWw/Braven.2018.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=Den of Thieves (2018) ENG HDCAM.HQMIC.x264-DiRG
@@ -245,13 +249,7 @@ URL=https://openload.co/f/MSD8G8qEISo/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-
 #https://openload.co/f/e509QYay-QI/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/c2aiOqF-6tg/Darkest_Hour_2017_HC_TS_x264-ChiLove.mp4
 
-type=video
-name=Wonder (2017) ENG 720p.WEB-DL.900MB.MkvCage
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouYgAatYH4JzIThj6FI3UYf31RI.jpg
-date=2018-01-30
-URL=https://openload.co/f/hYTHbSMmQJw/Wonder.2017.720p.WEB-DL.900MB.MkvCage.mkv.mp4
-#https://openload.co/f/3rl1jNYT0tg/Wonder.2017.HDTS.X264-NoGRP.mp4
-#https://openload.co/f/fR4CjUe3fnU/Wonder.2017.HDCAM.X264.HQ-DADDY.mkv.mp4
+
 
 type=video
 name=Cold Skin (2017) RUS
@@ -297,12 +295,7 @@ URL=https://openload.co/f/tQIHPxK0iyo/Murder.on.the.Orient.Express.2017.1080p.HC
 #https://openload.co/f/Kw3jLB0wT6w/Murder_on_the_Orient_Express_%282017%29.ENG.CAM.H264.AC3-Zi%24t.mkv.mp4
 
 
-type=video
-name=The Star (2017) ENG CAM.READNFO.XViD-26k
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEbDvivUfsCupngKIfMJJ725eAD.jpg
-date=2017-11-25
-URL=https://openload.co/f/8yNhaXL9Nb4/The.Star.2017.CAM.READNFO.XViD-26k.avi.mp4
-#https://openload.co/f/tYe0V1V8qcg/The.Star.2017.NOLOGO.HDTS.x264.AAC-AvEnTaD0R.mp4
+
 
 type=video
 name=You Were Never Really Here (2017) FRENCH.CAM.MD.XViD_STVFRV.E
@@ -1297,6 +1290,26 @@ date=2018-02-01
 URL=
 
 
+type=video
+name=The Pirates of Somalia (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8dlDPwo9mnorurL6ukIpyHZZd7.jpg
+date=2018-02-02
+URL=https://www.blazefile.co/embed-07sqwrtfrtci.html
+#https://uptobox.com/nh9a9emw5gmi
+#https://www.blazefile.co/embed-a5xwc8ppcble.html   720
+#https://uptobox.com/h58wwdbcvmyc   720
+#https://openload.co/f/bQMcS9x-ySk/The.Pirates.of.Somalia.2017.720p.BluRay.x264-PSYCHD.mkv.mp4
+
+type=video
+name=The Star (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEbDvivUfsCupngKIfMJJ725eAD.jpg
+date=2018-02-02
+URL=https://www.blazefile.co/embed-nkqoarqqooao.html
+#https://uptobox.com/agmd8bmbl4tf
+#https://openload.co/f/JU7M5PgVobU/The.Star.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/lleNZwJZKsc/The.Star.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/8yNhaXL9Nb4/The.Star.2017.CAM.READNFO.XViD-26k.avi.mp4
+#https://openload.co/f/tYe0V1V8qcg/The.Star.2017.NOLOGO.HDTS.x264.AAC-AvEnTaD0R.mp4
 
 type=video
 name=West of Her (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1436,6 +1449,8 @@ name=Scare Campaign (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BNTQyMzIwODg2Ml5BMl5BanBnXkFtZTgwMjg4MDExMDI@._V1_SY1000_CR0,0,666,1000_AL_.jpg
 date=2018-01-27
 URL=https://openload.co/f/6fkpHdgFcJQ/Scare.Campaign.2016.1080p.BluRay.x264-CURSE.mkv.mp4
+#https://www.blazefile.co/embed-vak4x4fpjl9h.html   720
+#https://uptobox.com/anrz2nsn43c2   720
 
 type=video
 name=Accident (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2898,13 +2913,7 @@ URL=https://uptobox.com/59t0nyy1grbb
 
 
 
-type=video
-name=The Pirates of Somalia (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8dlDPwo9mnorurL6ukIpyHZZd7.jpg
-date=2018-01-16
-URL=https://www.blazefile.co/embed-a5xwc8ppcble.html
-#https://uptobox.com/h58wwdbcvmyc
-#https://openload.co/f/bQMcS9x-ySk/The.Pirates.of.Somalia.2017.720p.BluRay.x264-PSYCHD.mkv.mp4
+
 
 type=video
 name=Trainspotting (1996) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -2962,9 +2971,21 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lafRuPbjEQrrHG9QEaoyV2znZC
 date=2018-01-25
 URL=https://uptobox.com/cthdww9q4vaf
 
+type=video
+name=Zoology (2016) [COLOR=FF00FF00]RUS BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RuFcjiabI701XCAl9Tzp2tZ2XA.jpg
+date=2018-02-02
+URL=https://openload.co/f/51i6FxaFHVI/zoology.2016.limited.720p.bluray.x264-usury.mkv.mp4
 
-
-
+type=video
+name=Wonder (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouYgAatYH4JzIThj6FI3UYf31RI.jpg
+date=2018-02-02
+URL=https://www.blazefile.co/embed-hlvkd4tjtofa.html
+#https://uptobox.com/f0e1lvllj4mo
+#https://openload.co/f/hYTHbSMmQJw/Wonder.2017.720p.WEB-DL.900MB.MkvCage.mkv.mp4
+#https://openload.co/f/3rl1jNYT0tg/Wonder.2017.HDTS.X264-NoGRP.mp4
+#https://openload.co/f/fR4CjUe3fnU/Wonder.2017.HDCAM.X264.HQ-DADDY.mkv.mp4
 
 
 
