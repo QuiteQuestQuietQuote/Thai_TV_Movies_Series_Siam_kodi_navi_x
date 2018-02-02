@@ -63,6 +63,87 @@ URL=
 
 
 
+type=video
+name=48xxxxxxxxxxxxxxxxxxxxWomen Who Are Touched In Theater (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Women-Who-Are-Touched-In-Theater-2016.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/qaeodkbapcqkddcl/
+
+type=video
+name=One-Time-Only Affair 15 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/One-Time-Only-Affair-15-2016.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/pankctbqrctpclca/
+
+type=video
+name=One-Time-Only Affair 14 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/One-Time-Only-Affair-14-2016.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/kdnelnqfabadasbl/
+
+type=video
+name=Homonsha-VISITOR (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Homonsha-VISITOR-2016.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/llrtlrnocepqabfb/
+
+type=video
+name=The Glossy And Beautifl Widow (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/The-Glossy-And-Beautifl-Widow-2015.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/dqdqncqroqcoqqdd/
+
+
+type=video
+name=SEX and the PACHINKO (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/SEX-and-the-PACHINKO-2016.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/asstmmsrebtndobf/
+
+type=video
+name=Affair Party 4 (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Affair-Party-4-2015.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/aeedcsatsraemqnk/
+
+type=video
+name=Dirty Pretty Nurse 9 (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Dirty-Pretty-Nurse-9-2015.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/ddppsfarreaosqsa/
+
+type=video
+name=Aino Ltteki (2015) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Aino-Ltteki-2015.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/nnncnsrqrnslbnne/
+
+type=video
+name=My Sister’s Friend 2 [2017] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/My-Sisters-Friend-2-2017.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/arfmcpsnelbnlbst/
+
+
+type=video
+name=Prospective Sex Directors (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Prospective-Sex-Directors-2017.gif
+date=2018-02-02
+URL=https://streamcherry.com/embed/eenltccloklslnto/
+
+type=video
+name=Shikiyokujyo (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Shikiyokujyo-2016.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/erndfntkarbkonpk/
+
+type=video
+name=Seikosho (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Seikosho-2016.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/qeaffnmcdmafredd/
+
+
 
 
 

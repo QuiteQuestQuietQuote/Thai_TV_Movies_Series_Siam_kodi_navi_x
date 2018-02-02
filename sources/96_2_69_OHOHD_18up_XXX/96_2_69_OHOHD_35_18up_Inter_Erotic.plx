@@ -58,6 +58,54 @@ URL=
 
 
 
+type=video
+name=108xxxxxxxxxxxxxxxxxxxxUne epouse a tout faire (1982)
+thumb=https://4.bp.blogspot.com/-mCF_b6pBmSY/WnCJ0D7q_AI/AAAAAAAAOxE/j9ADdXH_Ul4GVxns16tHAIXa2SMlT6fFgCLcBGAs/s1600/2SS.jpg
+date=2018-02-02
+URL=https://openload.co/f/GCsmbLUzneY/
+
+type=video
+name=Geile Korperspiele – Sexhochzeit im Narrenkaefig (1981)
+thumb=https://1.bp.blogspot.com/-lW46ZY5gY1s/WnCJvpQ85BI/AAAAAAAAOxA/D6vgOHBELfMjqBX-Ys3dvIsmlIuQYMD0wCLcBGAs/s1600/2S.png
+date=2018-02-02
+URL=https://openload.co/f/FsGc_etLiJ8/
+
+type=video
+name=Paprika (1991)
+thumb=https://2.bp.blogspot.com/-o74zKTFrlKQ/WnCJu0nXnRI/AAAAAAAAOw8/r2cIq8vrG6Q_azxhJ-YpAjGPskSwN6lmwCLcBGAs/s1600/2.jpg
+date=2018-02-02
+URL=https://openload.co/f/fKcmOHPX6JA/
+
+type=video
+name=Liz: ‘Momma’s Little Girl’ (1973)
+thumb=https://2.bp.blogspot.com/-Gk4LAqM6JVo/WnCGyxdz2aI/AAAAAAAAOwg/Bpr2c-fY1HAx_FsEa-S3N4VH2JhXHx1KQCLcBGAs/s1600/1SSSSS.jpg
+date=2018-02-02
+URL=https://openload.co/f/oUfJNeJ3aRE/
+
+type=video
+name=The Titty Committee (1986)
+thumb=https://2.bp.blogspot.com/-YLFoyxU_U3I/WnCGw8kJGQI/AAAAAAAAOwY/C4FN1MlrRWMREQA0TsPGXbkh2Y712ASMwCLcBGAs/s1600/1SSSS.png
+date=2018-02-02
+URL=https://openload.co/f/HRs18bsyWfs/
+
+
+type=video
+name=Das Lustschloss der Josefine Mutzenbacher (1986)
+thumb=https://2.bp.blogspot.com/-jnOTS3fkYIE/WnCGyWYfooI/AAAAAAAAOwc/C8a9cloywhsDPiQ4nlBzdCcQuOAnIBGbwCLcBGAs/s1600/1SSS.png
+date=2018-02-02
+URL=https://openload.co/f/s6rldKcwVfI/
+
+type=video
+name=Golden Century Of Porn Volume 1 (1970)
+thumb=https://1.bp.blogspot.com/-s6tcwQBsc8I/WnCFiKTrnMI/AAAAAAAAOwM/CZEbFhu4EMEZkBAYV-FE4tSKUp9248NxACLcBGAs/s1600/1.png
+date=2018-02-02
+URL=https://openload.co/f/aV6ysDnEQmA/
+
+type=video
+name=Griechische Liebes Nachte (1986)
+thumb=https://3.bp.blogspot.com/-CTlEgRUyCx4/WnCFh-_sXmI/AAAAAAAAOwI/qBTvFpVeCEE0nW2CdMV_AX8lyf7lGhtAACLcBGAs/s1600/1s.png
+date=2018-02-02
+URL=https://openload.co/f/gBJhi_WHf0c/
 
 
 

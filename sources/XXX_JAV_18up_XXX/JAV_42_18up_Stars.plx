@@ -1,6 +1,6 @@
 version=1
 background=http://javsex.net/wp-content/uploads/2015/10/SNIS-496.jpg
-title=JAV_42_18up_Aoi_Tsukasa
+title=JAV_42_18up_Stars
 logo=http://javsex.net/wp-content/uploads/2015/10/SNIS-496.jpg
 icon_playlist=http://javsex.net/wp-content/uploads/2015/10/SNIS-496.jpg
 description=Thanks to satan18av, openload-d.co, movieerotic.net, erotic24hr, zeed24hrs, javsex.net/description
@@ -8,7 +8,7 @@ description=Thanks to satan18av, openload-d.co, movieerotic.net, erotic24hr, zee
 type=playlist
 name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_42_18up_Aoi_Tsukasa.plx?action=sortsel&cur=ord
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_42_18up_Stars.plx?action=sortsel&cur=ord
 
 # 2772540
 type=playlist
@@ -38,7 +38,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-01-11
+date=2018-02-02
 URL=
 
 
@@ -48,21 +48,101 @@ URL=
 
 
 
+type=video
+name=Momodani Erika_11
+thumb=
+date=2018-01-11
+URL=
 
 
 
 
 
+#   11
+type=video
+name=Abp-138 Latest Super Addictive Este Momodani Erika Tends To Slave
+thumb=http://javsex.net/wp-content/uploads/2016/11/8612.jpg
+date=2018-02-02
+URL=http://s789.yamvideo.com/thz3678e/003/appid-8612.mp4
+
+type=video
+name=Ppt-018 Momodani Erika 8 Hours Best Prestige Premium Treasure Vol 02
+thumb=http://javsex.net/wp-content/uploads/2017/03/19159.jpg
+date=2018-02-02
+URL=http://s789.yamvideo.com/thz3675e/007-op/appid-19159.mp4
+
+type=video
+name=Abp-108 New Tokyo Style 04 Momodani Erika
+thumb=http://javsex.net/wp-content/uploads/2017/03/17950.jpg
+date=2018-02-02
+URL=http://s789.yamvideo.com/thz3675e/004/appid-17950.mp4
+
+type=video
+name=Chn-037 New Absolute Beautiful Girl, I Will Lend You Act 20 Momodani Erika
+thumb=http://javsex.net/wp-content/uploads/2017/01/10581.jpg
+date=2018-02-02
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10581.mp4
+
+type=video
+name=Krv-001 Mgs Treasured Erotic Video Prestige Kuradashi Tv Premium 01 
+thumb=http://javsex.net/wp-content/uploads/2017/01/9496.jpg
+date=2018-02-02
+URL=http://s789.yamvideo.com/thz3678e/003/appid-9496.mp4
+
+
+type=video
+name=ABP-178 Prestige Summer Festival Momodani Erika Nasty
+thumb=http://javsex.net/wp-content/uploads/2016/05/5457.jpg
+date=2018-02-02
+URL=http://s789.yamvideo.com/thz3678e/003/appid-5457.mp4
+
+type=video
+name=ABP-171 Sister, Her Daughter Was Rising Temptation Spears. Momodani Erika 
+thumb=http://javsex.net/wp-content/uploads/2016/02/4524.jpg
+date=2018-02-02
+URL=http://s789.yamvideo.com/thz3678e/003/appid-4524.mp4
+
+type=video
+name=ABP-159 120% Derived From Natural Ingredients Momodani Erika Juice
+thumb=http://javsex.net/wp-content/uploads/2015/10/2934.jpg
+date=2018-02-02
+URL=http://s789.yamvideo.com/thz3675e/006/appid-2934.mp4
+
+type=video
+name=ABP-145 Horny Fuck BEROKISU-04 Momodani Erika And Dense Kiss
+thumb=http://javsex.net/wp-content/uploads/2015/10/3162.jpg
+date=2018-02-02
+URL=http://s789.yamvideo.com/thz3674e/008/appid-3162.mp4
+
+type=video
+name=ABP-119 One Night Beautiful Girl By Appointment
+thumb=http://javsex.net/wp-content/uploads/2015/10/3164.jpg
+date=2018-02-02
+URL=http://s789.yamvideo.com/thz3674e/008/appid-3164.mp4
+
+
+type=video
+name=SRS-022 1 Person Senka Ya Take Off Amateur
+thumb=http://javsex.net/wp-content/uploads/2015/10/3183.jpg
+date=2018-02-02
+URL=http://s789.yamvideo.com/thz3674e/008/appid-3183.mp4
 
 
 
 
 
+type=video
+name=Aoi Tsukasa_43
+thumb=
+date=2018-01-11
+URL=
 
 
-
-
-
+type=video
+name=Ssni-079 Completely Restrained Large Forced To Leak By Large Large Incontinence Aoi Tsukasa
+thumb=http://javsex.net/wp-content/uploads/2018/01/28650.jpg
+date=2018-02-02
+URL=http://s789.yamvideo.com/thz3678e/004-new/appid-28650.mp4
 
 #   42
 type=video
@@ -261,7 +341,7 @@ type=video
 name=SNIS-573 Esuwan Seven Sisters And Cohabitation Harem Of Active
 thumb=http://javsex.net/wp-content/uploads/2016/04/5130.jpg
 date=2018-01-11
-URL=http://s789.yamvideo.com/thz3675e/003/appid-20143.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10380.mp4
 
 type=video
 name=DV-1649 Female Doctor Gangbang Rape Aoi Tsukasa

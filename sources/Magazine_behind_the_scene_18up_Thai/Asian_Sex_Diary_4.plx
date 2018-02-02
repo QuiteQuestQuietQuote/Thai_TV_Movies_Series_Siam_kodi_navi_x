@@ -62,6 +62,92 @@ URL=
 
 
 
+type=video
+name=59xxxxxxxxxxxxxxxxxxxxAsian Sex Diary Lan 3
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Lan-3.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/kdblcomtakprprfm/
+
+type=video
+name=Asian Sex Diary Lan 2
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Lan-2.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/sbsbfocssqbptrln/
+
+type=video
+name=Asian Sex Diary Kieu
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Kieu.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/mbmdfkaqrkqkasbe/
+
+type=video
+name=Asian Sex Diary Chao
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Chao.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/btaoatenambocdpa/
+
+type=video
+name=Asian Sex Diary Thai Titties Feat Joy 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Thai-Titties-Feat-Joy.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/prnkataeelpddslf/
+
+
+type=video
+name=Asian Sex Diary Kieuw
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Kieuw.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/doadnfeekpfpsfmd/
+
+type=video
+name=Asian Sex Diary Lan
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Lan.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/bbsqennptokpntkb/
+
+type=video
+name=Asian Sex Diary [Trike Patrol] Precious
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Trike-Patrol-Precious.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/eoboodcfkrbraqms/
+
+type=video
+name=Asian Sex Diary [Trike Patrol] Princess and Trixie 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Trike-Patrol-Princess-and-Trixie.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/kckkpmqdrmscrpbb/
+
+type=video
+name=Asian Sex Diary [Trike Patrol] Princess4
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Trike-Patrol-Princess4.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/acnmoektpbsqtkpf/
+
+
+type=video
+name=Asian Sex Diary [Trike Patrol] Roann2
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Trike-Patrol-Roann2.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/mcfkactmsqmnfteb/
+
+type=video
+name=Asian Sex Diary [Trike Patrol] Rose2
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Trike-Patrol-Rose2.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/mreeenffladfpmss/
+
+type=video
+name=Asian Sex Diary [Trike Patrol] Rain4 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Trike-Patrol-Rain4.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/pkedososcfecetbm/
+
+type=video
+name=Asian Sex Diary [Trike Patrol] Rose
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Trike-Patrol-Rose.jpg
+date=2018-02-02
+URL=https://streamcherry.com/embed/cncllncnfrtatrcd/
+
 
 
 
@@ -71,7 +157,7 @@ URL=
 
 
 type=video
-name=Asian Sex Diary [Trike Patrol] Olivia
+name=45xxxxxxxxxxxxxxxxxxxxAsian Sex Diary [Trike Patrol] Olivia
 thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Asian-Sex-Diary-Trike-Patrol-Olivia.jpg
 date=2018-01-29
 URL=https://streamcherry.com/embed/bbptbsfttlrrqsrc/

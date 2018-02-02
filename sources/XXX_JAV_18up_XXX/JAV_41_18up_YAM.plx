@@ -182,162 +182,162 @@ type=video
 name=Chn-051 New Amateur Daughter, I Will Lend You Vol 24
 thumb=http://javsex.net/wp-content/uploads/2017/01/10418.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/dce36e3a07c0c3f6972cbd290a52b510.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10418.mp4
 
 type=video
 name=Chn-089 New Absolute Beautiful Girl, We Will Lend You Act 48 Wakana Nao 
 thumb=http://javsex.net/wp-content/uploads/2017/01/10429.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/efb9c91092d2f17490c8395f3f7855a5.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10429.mp4
 
 type=video
 name=Chn-054 New Amateur Daughter, I Will Lend You Vol 25
 thumb=http://javsex.net/wp-content/uploads/2017/01/10419.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/4ef29d081063195ac85df64a7c960f36.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10419.mp4
 
 type=video
 name=Chn-055 New Absolute Beautiful Girl, I Will Lend You Act 30 Igawa Suzuno 
 thumb=http://javsex.net/wp-content/uploads/2017/01/10420.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3678-stream/thz-720-all/07dc26e8708cc5bc8d8ae6acf5ef070f.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10420.mp4
 
 type=video
 name=Chn-057 New Absolute Beautiful Girl, I Will Lend You Act 31 Tsubasa Misaki
 thumb=http://javsex.net/wp-content/uploads/2017/01/10421.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/edfe609f65be207492a7db6033ded3de.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10421.mp4
 
 
 type=video
 name=Chn-058 New Amateur Daughter, I Will Lend You Vol 27 
 thumb=http://javsex.net/wp-content/uploads/2017/01/10422.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3678-stream/thz-720-all/5eaa809ac5d9e3937e5990657f7ca529.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10422.mp4
 
 type=video
 name=Vicd-315 Woman Investigator Crazy Living Population Vicd-315
 thumb=http://javsex.net/wp-content/uploads/2017/01/10464.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/043f8c1e4f67271cbafc7930c3d8fea2.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10464.mp4
 
 type=video
 name=Chn-077 New Absolute Girl, We Will Lend You Act 42 Sakaguchi Mihono
 thumb=http://javsex.net/wp-content/uploads/2017/01/10428.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3678-stream/thz-720-all/cfbd8264d0b61cb25fe0c23d3ef363c1.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10428.mp4
 
 type=video
 name=Chn-023 New Absolute Beautiful Girl, I Will Lend You 12 Minami Sayo
 thumb=http://javsex.net/wp-content/uploads/2017/01/10572.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/7daf7334d69b0beb679fd767db2a4f2a.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10572.mp4
 
 type=video
 name=Chn-056 New Amateur Daughter, I Will Lend You Vol 26
 thumb=http://javsex.net/wp-content/uploads/2017/01/10583.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/8096ade24f87f78c585c04b2858e14e5.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10583.mp4
 
 
 type=video
 name=Chn-025 New Amateur Daughter, I Will Lend You Vol 12
 thumb=http://javsex.net/wp-content/uploads/2017/01/10573.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/3368e8d97fe7293ef4f6e32a3df2f8eb.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10573.mp4
 
 type=video
 name=Chn-070 New Absolute Pretty, I Will Lend You Act 38 Kirishima Rino
 thumb=http://javsex.net/wp-content/uploads/2017/01/10584.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3678-stream/thz-720-all/9352eeff98a80435d5e92138dc8ea298.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10584.mp4
 
 type=video
 name=Chn-075 New Amateur Daughter, I Will Lend You Vol 35
 thumb=http://javsex.net/wp-content/uploads/2017/01/10585.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/6b97f8940272f8f0ae91769464d7886e.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10585.mp4
 
 type=video
 name=Chn-029 New Amateur Daughter, I Will Lend You Vol 15 
 thumb=http://javsex.net/wp-content/uploads/2017/01/10575.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/9a96426718a23ddfb08be6359cb4d70e.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10575.mp4
 
 type=video
 name=Club-134 Is, I Spy Lesbian Forcibly Brought Back To The Room The Girl Friend A Straight I Is Not Interested Only Cute Girl 
 thumb=http://javsex.net/wp-content/uploads/2017/04/10586.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/a0e76ece41201f050bc8fe4899d1e2b8.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10586.mp4
 
 
 type=video
 name=Chn-012 New Absolute Beautiful Girl, I Will Lend You Act 06 Sagara Abc
 thumb=http://javsex.net/wp-content/uploads/2017/03/10569.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/6a674b2996da4ad18701918225a87c5d.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10569.mp4
 
 type=video
 name=Chn-036 New Absolute Beautiful Girl, I Will Lend You Makoto Takeuchi Act 19
 thumb=http://javsex.net/wp-content/uploads/2017/01/10580.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3678-stream/thz-720-all/78f06800cbc9a8c3dd54b8a8810e6ab0.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10580.mp4
 
 type=video
 name=Chn-019 New Absolute Beautiful Girl, I Will Lend You Act 09 Fujii Isa
 thumb=http://javsex.net/wp-content/uploads/2017/01/10570.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/7bb118ab522b8c4e67898f1bfc27930d.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10570.mp4
 
 type=video
 name=Chn-037 New Absolute Beautiful Girl, I Will Lend You Act 20 Momodani Erika
 thumb=http://javsex.net/wp-content/uploads/2017/01/10581.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/416702e08e0d1e8cc39274da10d287dc.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10581.mp4
 
 type=video
 name=Chn-022 New Absolute Beautiful Girl, I Will Lend You Act 11 Kanae Luke
 thumb=http://javsex.net/wp-content/uploads/2017/01/10571.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/00c7b0ad6820c1de96f6ee3ae9cc1f16.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10571.mp4
 
 
 type=video
 name=Chn-042 New Absolute Beautiful Girl, I Will Lend You Act 22 Maple Winter Months
 thumb=http://javsex.net/wp-content/uploads/2017/01/10582.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/8b6fa693efc796158e5f78fcb7fc8e57.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10582.mp4
 
 type=video
 name=Chn-023 New Absolute Beautiful Girl, I Will Lend You 12 Minami Sayo
 thumb=http://javsex.net/wp-content/uploads/2017/01/10572.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/7daf7334d69b0beb679fd767db2a4f2a.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10572.mp4
 
 type=video
 name=Svdvd-434 If You Drink The Aphrodisiac To College Student Of Coma Aphrodisiac Alive Mad Raw Sex Tennis Circle, Suddenly Faintingif You Have Sexual Harassment Was Impatient Because I Was Excited, You39ve Been Fucking Seeking Dekachi Erection Port To Awake Suddenly
 thumb=http://javsex.net/wp-content/uploads/2017/01/10652.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3674-stream/thz-5-720p-all-10/7b3855ca4dfcdd822d52900034982382.mp4
+URL=http://s789.yamvideo.com/thz3674e/003/appid-13413.mp4
 
 type=video
 name=Chn-026 New Amateur Daughter, I Will Lend You Vol 13 
 thumb=http://javsex.net/wp-content/uploads/2017/01/10654.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/1bbb06e904c514ef511744bec31f494a.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10654.mp4
 
 type=video
 name=Chn-028 New Amateur Daughter, I Will Lend You Vol 14
 thumb=http://javsex.net/wp-content/uploads/2017/01/10655.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/6148177b0420425166c2e725d37d2ba8.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10655.mp4
 
 
 type=video
 name=Chn-074 New Amateur Daughter, I Will Lend You Vol 34 
 thumb=http://javsex.net/wp-content/uploads/2017/01/10656.jpg
 date=2017-12-28
-URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/5490066b941742f24ca446ed34d70905.mp4
+URL=http://s789.yamvideo.com/thz3675e/004/appid-10656.mp4
 
 type=video
 name=Nhdta-639 Oyakodon 3 Side By Side The Mother That Are No Longer Kobame Is Seen The Embarrassing Appearance And Next To The House Of The Daughter Was Excited By His Mother Of Gonzo Videos That Had Entered The Personal Computer
