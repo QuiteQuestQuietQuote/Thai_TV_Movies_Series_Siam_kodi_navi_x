@@ -58,13 +58,18 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 
 type=video
 name=
-thumb=
-date=2018-02-02
-URL=
+thumb=https://ganool.se/wp-content/uploads/2016/02/Ragini-MMS-2-2014-182x260.jpg
+date=2018-02-03
+URL=https://www.blazefile.co/embed-zrz392umgaph.html
 
 
 
 
+type=video
+name=Hostiles (2017) ENG NEW.720p.HDCAM.x264-CPG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqoezyB51GfhiloOB5ZErg5HXas.jpg
+date=2018-02-03
+URL=https://openload.co/f/KG8d68nqqOw/Hostiles.2018.NEW.720p.HDCAM.x264-CPG.mkv.mp4
 
 type=video
 name=Braven (2018) ENG 720p.WEB-DL.H264.AC3-EVO
@@ -73,10 +78,11 @@ date=2018-02-02
 URL=https://openload.co/f/2qmvoK5LyWw/Braven.2018.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
-name=Den of Thieves (2018) ENG HDCAM.HQMIC.x264-DiRG
+name=Den of Thieves (2018) ENG NEW_720p_HD-TS_X264-CPG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
-date=2018-01-21
-URL=https://openload.co/f/I0a9aXjeZwo/Den.of.Thieves.2018.HDCAM.HQMIC.x264-DiRG.mp4
+date=2018-02-03
+URL=https://openload.co/f/-B28tK5CPMY/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4
+#https://openload.co/f/I0a9aXjeZwo/Den.of.Thieves.2018.HDCAM.HQMIC.x264-DiRG.mp4
 
 type=video
 name=Please Stand By (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
@@ -151,10 +157,11 @@ URL=https://openload.co/f/bDzBWi4g5EQ/Mollys_Game-DVDScr.XVID.AC3.HQ.Hive-CM8.av
 #https://openload.co/f/P8Txe4VXgyc/Mollys.Game.2017.CAM.ENG.x264-NoGRP.MP4.mp4
 
 type=video
-name=Father Figures (2017) ENG CAM.x264-NoGRP
+name=Father Figures (2017) ENG HDCAM.X264-PilaMaravilha
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEHOthoB2UqCIiUzhnHnLMXbRuJ.jpg
-date=2018-01-07
-URL=https://openload.co/f/TvUQXGJF3Vw/Father.Figures.2017.CAM.x264-NoGRP.mp4
+date=2018-02-03
+URL=https://openload.co/f/OA737OU-0ZM/Father_Figures_2018.HDCAM.X264-PilaMaravilha.mkv.mp4
+#https://openload.co/f/TvUQXGJF3Vw/Father.Figures.2017.CAM.x264-NoGRP.mp4
 #https://openload.co/f/uIv1hZlRdGo/Father.Figures.2017.CAM.XViD-P2P.avi.mp4
 
 type=video
@@ -357,7 +364,7 @@ URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.
 type=video
 name=
 thumb=
-date=2018-01-27
+date=2018-02-03
 URL=
 
 
@@ -365,6 +372,11 @@ URL=
 
 
 
+type=video
+name=Hellraiser: Judgment (2018)
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgIBO1SE6B5WSoSGpzpkJYqlyzE.jpg
+date=2018-02-03
+URL=https://openload.co/f/fkVTq8_XVYs/Hellraiser.Judgment.2018.DVDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=The Shanghai Job (2017) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
@@ -520,11 +532,7 @@ URL=https://openload.co/f/IYX17ih3VDQ/Swing.Away.2016.HDRip.XviD.AC3-EVO.avi.mp4
 
 
 
-type=video
-name=Walking Out (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2D2XnnZKNhhxb3Ig0PM0OIVdmZ8.jpg
-date=2017-10-06
-URL=https://openload.co/f/fkXkBBTTZxM/Walking.Out.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+
 
 
 
@@ -1290,6 +1298,50 @@ date=2018-02-01
 URL=
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Zoology (2016) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RuFcjiabI701XCAl9Tzp2tZ2XA.jpg
+date=2018-02-02
+URL=https://www.blazefile.co/embed-3bzama5cyjck.html
+#https://uptobox.com/xpi6era36pb1
+#https://openload.co/f/51i6FxaFHVI/zoology.2016.limited.720p.bluray.x264-usury.mkv.mp4
+
+type=video
+name=Wonder (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouYgAatYH4JzIThj6FI3UYf31RI.jpg
+date=2018-02-02
+URL=https://www.blazefile.co/embed-wuqk20laltr8.html
+#https://uptobox.com/v1o8arkpx1an
+#https://www.blazefile.co/embed-hlvkd4tjtofa.html   720
+#https://uptobox.com/f0e1lvllj4mo   720
+#https://openload.co/f/hYTHbSMmQJw/Wonder.2017.720p.WEB-DL.900MB.MkvCage.mkv.mp4
+#https://openload.co/f/3rl1jNYT0tg/Wonder.2017.HDTS.X264-NoGRP.mp4
+#https://openload.co/f/fR4CjUe3fnU/Wonder.2017.HDCAM.X264.HQ-DADDY.mkv.mp4
+
+type=video
+name=Walking Out (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2D2XnnZKNhhxb3Ig0PM0OIVdmZ8.jpg
+date=2018-02-03
+URL=https://www.blazefile.co/embed-g3xwww359mrg.html
+#https://uptobox.com/bmublf9nl01e
+#https://openload.co/f/za7tLH3-u1A/Walking.Out.2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/fkXkBBTTZxM/Walking.Out.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+
 type=video
 name=The Pirates of Somalia (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8dlDPwo9mnorurL6ukIpyHZZd7.jpg
@@ -1416,14 +1468,8 @@ URL=https://www.blazefile.co/embed-i7n360g659k4.html
 #https://openload.co/f/7WSILpoqA5A/Only.the.Brave.2017.720p.BluRay.x264.DTS-HDC.mkv   MKV6.1GB
 #https://openload.co/f/kH1h565RcWE/Only.The.Brave.2017.BDRip.x264-GECKOS.mkv.mp4
 
-type=video
-name=Roman J. Israel, Esq. (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNjkxMTg2NV5BMl5BanBnXkFtZTgwNjkyNTk0MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg
-date=2018-01-27
-URL=https://openload.co/f/MymMhXdgOME/Roman.J.Israel.Esq.2017.1080p.BluRay.x264-DRONES.mkv
-#https://openload.co/f/ZUcZ5UgqD80/Roman.J.Israel.Esq.2017.1080p.BluRay.x264-DRONES.mkv   MKV8.7GB
-#https://openload.co/f/Sxn9_vuvfKM/Roman.J.Israel.Esq.2017.720p.ENG.HDCAM.H264-Zi%24t.mkv.mp4
-#https://openload.co/f/EtDmEWBVIow/Roman.J.Israel.Esq.2017.P.kol.TS.14OOMB_KOSHARA.E.mp4
+
+
 
 type=video
 name=Batman: Gotham by Gaslight (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1844,16 +1890,6 @@ URL=https://openload.co/f/FoP6s7fzvLk/blood.money.2017.1080p.bluray.x264-cinefil
 
 
 
-type=video
-name=Victoria & Abdul (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHz34d5i3Nc4h1iqr7eK5bFG2gY.jpg
-date=2017-12-07
-URL=https://www.blazefile.co/embed-qr15c4xv5c2r.html
-#https://openload.co/f/p_kec0xMglE/Victoria.and.Abdul.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/eEN7N60p_go/Victoria.and.Abdul.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/22jxRIqHjvc/Victoria.and.Abdul.2017.HC.HDRip.x264-STUTTERSHIT.mp4
-#https://openload.co/f/wuQbU89nWPI/Victoria_and_Abdul_2017_HDRip_XviD_AC3_EVO_avi_mp4_mp4.MP4.mp4
-#https://www.blazefile.co/embed-8zqwao36xstf.html   720
 
 
 
@@ -2971,22 +3007,6 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lafRuPbjEQrrHG9QEaoyV2znZC
 date=2018-01-25
 URL=https://uptobox.com/cthdww9q4vaf
 
-type=video
-name=Zoology (2016) [COLOR=FF00FF00]RUS BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RuFcjiabI701XCAl9Tzp2tZ2XA.jpg
-date=2018-02-02
-URL=https://openload.co/f/51i6FxaFHVI/zoology.2016.limited.720p.bluray.x264-usury.mkv.mp4
-
-type=video
-name=Wonder (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouYgAatYH4JzIThj6FI3UYf31RI.jpg
-date=2018-02-02
-URL=https://www.blazefile.co/embed-hlvkd4tjtofa.html
-#https://uptobox.com/f0e1lvllj4mo
-#https://openload.co/f/hYTHbSMmQJw/Wonder.2017.720p.WEB-DL.900MB.MkvCage.mkv.mp4
-#https://openload.co/f/3rl1jNYT0tg/Wonder.2017.HDTS.X264-NoGRP.mp4
-#https://openload.co/f/fR4CjUe3fnU/Wonder.2017.HDCAM.X264.HQ-DADDY.mkv.mp4
-
 
 
 
@@ -3184,23 +3204,6 @@ URL=https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_
 #https://streamango.com/f/lndpracqdldepoqk/Star_Wars_The_Last_Jedi_2017_720p_TS_x264_AC-3_ThaiRong2_0_CpT_CtHts_mkv_mp4
 
 
-type=video
-name=Coco (2017) ENG 720p.WEBRip.x264.AAC2.0-SHITBOX
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
-date=2018-01-31
-URL=https://openload.co/f/7u1UsPkmRKE/Coco.2017.720p.WEBRip.x264.AAC2.0-SHITBOX.mkv.mp4
-#https://openload.co/f/Bi_jeHvp31Q/Coco.2017.720p.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/gy6y42tD9Yw/Coco.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
-#https://openload.co/f/dsmQ0CW4LSs/Coco_%282017%29.720p.HDTC.X264-MerryChristmasNoVipRequired%5BEtHD%5D_mkv.mp4
-#https://openload.co/f/rjggikOpq2Q/Coco.2017.HD-TS.X264.HQ-CPG.mkv.mp4
-#https://openload.co/f/R7W8xvZvB80/Coco_2017_Bolly4u.me_Hindi_Dubbed_HDTS_720p_700MB.mp4
-type=video
-name=Coco (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
-date=2018-01-09
-URL=https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_HDTC_x264_AC-3_THR2_0_CpT_CtHts_mkv_mp4
-#https://streamango.com/f/leppnobersfqalmt/Coco_2017_HD_Coco_2017_HC_WEB_DL_720p_X264_AC_3_ThaiRong2_0_CpT_CtHts_mkv_mp4
-#https://streamango.com/f/ndomsmeaptdeftps/Coco_2017_
 
 
 
@@ -3296,8 +3299,44 @@ URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8
 type=video
 name=
 thumb=
-date=2018-01-28
+date=2018-02-03
 URL=
+
+
+
+
+
+type=video
+name=Victoria & Abdul (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHz34d5i3Nc4h1iqr7eK5bFG2gY.jpg
+date=2017-12-07
+URL=https://www.blazefile.co/embed-qr15c4xv5c2r.html
+#https://openload.co/f/p_kec0xMglE/Victoria.and.Abdul.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/eEN7N60p_go/Victoria.and.Abdul.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/22jxRIqHjvc/Victoria.and.Abdul.2017.HC.HDRip.x264-STUTTERSHIT.mp4
+#https://openload.co/f/wuQbU89nWPI/Victoria_and_Abdul_2017_HDRip_XviD_AC3_EVO_avi_mp4_mp4.MP4.mp4
+#https://www.blazefile.co/embed-8zqwao36xstf.html   720
+type=video
+name=Victoria & Abdul (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHz34d5i3Nc4h1iqr7eK5bFG2gY.jpg
+date=2018-02-03
+URL=https://streamango.com/f/nrcfnrabloqbbrbr/Victoria_Abdul_2017_
+
+
+type=video
+name=Roman J. Israel, Esq. (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNjkxMTg2NV5BMl5BanBnXkFtZTgwNjkyNTk0MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+date=2018-01-27
+URL=https://openload.co/f/MymMhXdgOME/Roman.J.Israel.Esq.2017.1080p.BluRay.x264-DRONES.mkv
+#https://openload.co/f/ZUcZ5UgqD80/Roman.J.Israel.Esq.2017.1080p.BluRay.x264-DRONES.mkv   MKV8.7GB
+#https://openload.co/f/Sxn9_vuvfKM/Roman.J.Israel.Esq.2017.720p.ENG.HDCAM.H264-Zi%24t.mkv.mp4
+#https://openload.co/f/EtDmEWBVIow/Roman.J.Israel.Esq.2017.P.kol.TS.14OOMB_KOSHARA.E.mp4
+type=video
+name=Roman J. Israel, Esq. (2017) THSUB
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNjkxMTg2NV5BMl5BanBnXkFtZTgwNjkyNTk0MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+date=2018-02-03
+URL=https://streamango.com/f/tfcbpfrcqdafllse/Roman_J_Israel_Esq_2017_
+
 
 type=video
 name=mother! (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4042,6 +4081,28 @@ URL=
 
 
 
+
+type=video
+name=Coco (2017) ENG 720p.WEBRip.x264.AAC2.0-SHITBOX
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
+date=2018-01-31
+URL=https://openload.co/f/7u1UsPkmRKE/Coco.2017.720p.WEBRip.x264.AAC2.0-SHITBOX.mkv.mp4
+#https://openload.co/f/Bi_jeHvp31Q/Coco.2017.720p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/gy6y42tD9Yw/Coco.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/dsmQ0CW4LSs/Coco_%282017%29.720p.HDTC.X264-MerryChristmasNoVipRequired%5BEtHD%5D_mkv.mp4
+#https://openload.co/f/rjggikOpq2Q/Coco.2017.HD-TS.X264.HQ-CPG.mkv.mp4
+#https://openload.co/f/R7W8xvZvB80/Coco_2017_Bolly4u.me_Hindi_Dubbed_HDTS_720p_700MB.mp4
+type=video
+name=Coco (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
+date=2018-02-03
+URL=https://streamango.com/f/lkoroaqedltfpare/Coco_2017_mp4
+#https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_HDTC_x264_AC-3_THR2_0_CpT_CtHts_mkv_mp4
+#https://streamango.com/f/leppnobersfqalmt/Coco_2017_HD_Coco_2017_HC_WEB_DL_720p_X264_AC_3_ThaiRong2_0_CpT_CtHts_mkv_mp4
+#https://streamango.com/f/ndomsmeaptdeftps/Coco_2017_
+
+
+
 type=video
 name=Bleeding Steel (2017) CHN HDTC.X264.AAC-Zi%24t
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1O26qVwkhSlicycBBK731k8vPd.jpg
@@ -4168,19 +4229,7 @@ URL=https://streamango.com/f/mfkdtmfnpelkfara/The_Son_of_Bigfoot_2017_
 #https://openload.co/f/wcgrmDhWUA0/The.Son.of.Bigfoot.2017.HDCAM.Xvid.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 
 
-type=video
-name=Beyond Skyline (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktZvjFmwCLrMXtr1dl6o5PhhHS4.jpg
-date=2017-12-29
-URL=https://uptobox.com/w7gqx6w98li6
-#https://openload.co/f/Rjbt4s6ubxg/Beyond.Skyline.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/c5jv_Jsuv6s/Beyond_Skyline.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/E4IDWuSE1Xg/Beyond_Skyline_2017_CAM_%5BLayar-21.com%5D.mp4
-type=video
-name=Beyond Skyline (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktZvjFmwCLrMXtr1dl6o5PhhHS4.jpg
-date=2017-12-18
-URL=https://streamango.com/f/odfkdofpqkqkcbqs/Beyond_Skyline_2017_
+
 
 
 
@@ -4392,12 +4441,46 @@ URL=
 type=video
 name=
 thumb=
-date=2018-01-27
+date=2018-02-03
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
 
+type=video
+name=The Promise (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qh6r9sjNoMbbSeIZ9RSFeHeuB12.jpg
+date=2018-02-03
+URL=https://www.blazefile.co/embed-smv30fhvnou8.html
+#https://uptobox.com/dyjbvhk9vqxy
+
+type=video
+name=The Village of No Return (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBMtgu2GfwNRErlEd8kBkYBnvWA.jpg
+date=2018-02-03
+URL=https://openload.co/f/r2lWenuDk4E/The_Village_of_No_Return_%282017%29.mp4
+
+type=video
+name=The Wailing (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aijmq2I4O8zZrJtqAZm6o4tOM6g.jpg
+date=2018-02-03
+URL=https://openload.co/f/tei8Yi8mf9k/The_Wailing_%282016%29%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B3%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88.mp4
+
+
+type=video
+name=Beyond Skyline (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktZvjFmwCLrMXtr1dl6o5PhhHS4.jpg
+date=2017-12-29
+URL=https://uptobox.com/w7gqx6w98li6
+#https://openload.co/f/Rjbt4s6ubxg/Beyond.Skyline.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/c5jv_Jsuv6s/Beyond_Skyline.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/E4IDWuSE1Xg/Beyond_Skyline_2017_CAM_%5BLayar-21.com%5D.mp4
+type=video
+name=Beyond Skyline (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktZvjFmwCLrMXtr1dl6o5PhhHS4.jpg
+date=2018-02-03
+URL=https://openload.co/f/TQGffjMU9FQ/Beyond_Skyline_%282017%29%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+#https://streamango.com/f/odfkdofpqkqkcbqs/Beyond_Skyline_2017_
 
 
 type=video
