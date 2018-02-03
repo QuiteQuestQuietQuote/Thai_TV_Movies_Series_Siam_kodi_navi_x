@@ -38,7 +38,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-02
+date=2018-02-03
 URL=
 
 
@@ -48,10 +48,59 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Matsuoka China_5
+thumb=http://javsex.net/wp-content/uploads/2017/01/12995.jpg
+date=2018-02-03
+URL=
+
+
+
+type=video
+name=Star-622 Leave Is Inserted From Senna Matsuoka Morning Till Night Chi Po Gangbang Cock Big Penis Sp 
+thumb=http://javsex.net/wp-content/uploads/2017/01/12995.jpg
+date=2018-02-03
+URL=http://s789.yamvideo.com/thz3674e/003/appid-12995.mp4
+
+type=video
+name=Star-587 Matsuoka Senna Super Premium Rookie Soap Girl
+thumb=http://javsex.net/wp-content/uploads/2017/01/11733.jpg
+date=2018-02-03
+URL=http://s789.yamvideo.com/thz3674e/007/appid-11733.mp4
+
+type=video
+name=Star-661 China Matsuoka Tamara Without All The Time Chablis Was Wants Obscene Octylphenyl 
+thumb=http://javsex.net/wp-content/uploads/2016/11/7978.jpg
+date=2018-02-03
+URL=http://s789.yamvideo.com/thz3675e/005/appid-7978.mp4
+
+type=video
+name=Star-709 Hot Flirt Hot Spring Trip Rolled Spear That Would Ejaculate 12 Shots In China Matsuoka Retirement Day
+thumb=http://javsex.net/wp-content/uploads/2016/10/7304.jpg
+date=2018-02-03
+URL=http://s789.yamvideo.com/thz3675e/007-op/appid-7304.mp4
+
+type=video
+name=Star-701 China Matsuoka Aphrodisiac Hypnotic Trance Large Cum Sex 
+thumb=http://javsex.net/wp-content/uploads/2016/10/7220.jpg
+date=2018-02-03
+URL=http://s789.yamvideo.com/thz3674e/004/appid-7220.mp4
+
+
 type=video
 name=Momodani Erika_11
-thumb=
-date=2018-01-11
+thumb=http://javsex.net/wp-content/uploads/2017/03/17950.jpg
+date=2018-02-02
 URL=
 
 
@@ -133,7 +182,7 @@ URL=http://s789.yamvideo.com/thz3674e/008/appid-3183.mp4
 
 type=video
 name=Aoi Tsukasa_43
-thumb=
+thumb=http://javsex.net/wp-content/uploads/2015/10/SNIS-496.jpg
 date=2018-01-11
 URL=
 
