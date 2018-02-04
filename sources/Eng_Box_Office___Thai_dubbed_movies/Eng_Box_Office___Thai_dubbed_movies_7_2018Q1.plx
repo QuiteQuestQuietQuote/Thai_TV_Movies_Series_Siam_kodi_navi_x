@@ -818,10 +818,11 @@ URL=https://openload.co/f/SXzYjq17XRE/The.Wilde.Wedding.2017.1080p.WEB-DL.DD5.1.
 
 
 type=video
-name=Sex Guaranteed 2017 ENG HDRip XviD AC3-EVO
-thumb=http://img.rlsbb.ru/images/jN5OgoZ.jpg
-date=2017-10-17
-URL=https://openload.co/f/_KK6iPHc4Wg/Sex_Guaranteed_2017_HDRip_XviD_AC3-EVO.avi.mp4
+name=Sex, Guaranteed (2017) ENG 1080p.WEB-DL.DD5.1.H.264.CRO-DIAMOND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOEzlIW7SPejPDDnAdasHXfzArA.jpg
+date=2018-02-04
+URL=https://openload.co/f/jyQc8S5pD3E/Sex.Guaranteed.2017.1080p.WEB-DL.DD5.1.H.264.CRO-DIAMOND.mkv.mp4
+#https://openload.co/f/_KK6iPHc4Wg/Sex_Guaranteed_2017_HDRip_XviD_AC3-EVO.avi.mp4
 
 
 
@@ -980,10 +981,11 @@ date=2017-10-03
 URL=https://openload.co/f/sWAgEDGD2HY/Armstrong_%282016%29.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
-name=The Honor Farm (2017) ENG HDRip.XviD.AC3-EVO
+name=The Honor Farm (2017) ENG 1080p.WEB-DL.DD5.1.H.264.CRO-DIAMOND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw8GrBu1t0EUKmPdVgwCwTLexip.jpg
-date=2017-10-03
-URL=https://openload.co/f/luV4wf2BwQU/The_Honor_Farm_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+date=2018-02-04
+URL=https://openload.co/f/wbGUIeATtfo/The.Honor.Farm.2017.1080p.WEB-DL.DD5.1.H.264.CRO-DIAMOND.mkv.mp4
+#https://openload.co/f/luV4wf2BwQU/The_Honor_Farm_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Nails (2017) ENG HDRip.XviD.AC3-EVO
@@ -1091,10 +1093,11 @@ URL=https://openload.co/f/A5x_vL8XSOc/Easy.Living.2017.HDRip.XviD.AC3-EVO.avi.mp
 #https://openload.co/f/MeVz2LFyD8w/Easy.Living.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
-name=Negative (2017) ENG HDRip.XviD.AC3-EVO
+name=Negative (2017) ENG 1080p.WEB-DL.DD5.1.H.264.CRO-DIAMOND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfrkWkCa5ARASkxE8pgQvFT6MHJ.jpg
-date=2017-09-19
-URL=https://openload.co/f/4JeAAEyQ7Cg/Negative.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2018-02-04
+URL=https://openload.co/f/BWziJamm9mU/Negative.2017.1080p.WEB-DL.DD5.1.H.264.CRO-DIAMOND.mkv.mp4
+#https://openload.co/f/4JeAAEyQ7Cg/Negative.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 
 
@@ -1294,7 +1297,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-01
+date=2018-02-04
 URL=
 
 
@@ -1309,9 +1312,18 @@ URL=
 
 
 
+type=video
+name=Polina (2016) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfM05D5whQjEEr4zk8GgfAL6aJI.jpg
+date=2018-02-04
+URL=https://openload.co/f/U5AgrO3Ajsk/polina.2016.1080p.bluray.x264-cinefile.mkv.mp4
 
-
-
+type=video
+name=Tom of Finland (2017) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l88F9PsCUJ4uQrcX33fFTlVyP65.jpg
+date=2018-02-04
+URL=https://openload.co/f/2iBbq0cubkM/Tom.of.Finland.2017.LiMiTED.1080p.BluRay.x264-CADAVER.mp4
+#https://openload.co/f/SOfS12GR14c/Tom.of.Finland.2017.LiMiTED.1080p.BluRay.x264-CADAVER.mkv   MKV8.7GB
 
 type=video
 name=Zoology (2016) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
@@ -1368,6 +1380,8 @@ name=West of Her (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMzc4OTYxMDQ2Ml5BMl5BanBnXkFtZTgwMTA0MjI5NzE@._V1_SY1000_SX675_AL_.jpg
 date=2018-02-01
 URL=https://openload.co/f/LXI5oi-3L6o/West.of.Her.2016.BluRay.1080p.DTS-HD.MA.2.0.x264-MTeam%5BEtHD%5D.mkv.mp4
+#https://www.blazefile.co/embed-csalk8j9jhdz.html   720
+#https://uptobox.com/yfry3amgtl2h   720
 
 type=video
 name=Stop Over in Hell (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3007,8 +3021,12 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lafRuPbjEQrrHG9QEaoyV2znZC
 date=2018-01-25
 URL=https://uptobox.com/cthdww9q4vaf
 
-
-
+type=video
+name=Welcome to Willits (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KvFXyg3T3nQ94y7V14l9tbB6x9.jpg
+date=2018-02-04
+URL=https://www.blazefile.co/embed-c583nfydtxse.html
+#https://uptobox.com/zeulwg67f45w
 
 
 
@@ -4132,8 +4150,9 @@ URL=https://openload.co/f/FZ3mw-urIjo/Thor.Ragnarok.1080p.WEB-DL_SeeHD.mkv
 type=video
 name=Thor: Ragnarok (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
-date=2018-01-22
-URL=https://streamango.com/f/fsknanmrcbmodqsm/Thor_Ragnarok_2017_
+date=2018-02-04
+URL=https://streamango.com/f/rqfscmenconqntpq/Thor_Ragnarok_2017_
+#https://streamango.com/f/fsknanmrcbmodqsm/Thor_Ragnarok_2017_
 #https://openload.co/f/pY7IWR3c-Bg/Thor%3A_Ragnarok_%282017%29%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 #https://openload.co/f/1Px-WShSrHo/Thor.Ragnarok.2017.720p.TS.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 
