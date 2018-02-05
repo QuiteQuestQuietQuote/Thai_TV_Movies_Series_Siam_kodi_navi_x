@@ -69,7 +69,7 @@ URL=
 
 
 type=video
-name=56xxxxxxxxxxxxxxxxxxxxClub-152 Sun Sports University Hotel Is Aiming For Just Swimming Athlete Sports Trainer Manipulative Clinic 4
+name=62xxxxxxxxxxxxxxxxxxxxClub-152 Sun Sports University Hotel Is Aiming For Just Swimming Athlete Sports Trainer Manipulative Clinic 4
 thumb=http://javsex.net/wp-content/uploads/2017/01/10669.jpg
 date=2017-12-28
 URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all/1f0a70f1157ce2e425e2676c9309c8d0.mp4
@@ -406,6 +406,57 @@ name=Club-114 Celebrity Wife Hot Spring Trip Unscrupulous Oil Massage 3
 thumb=http://javsex.net/wp-content/uploads/2017/01/10665.jpg
 date=2017-12-28
 URL=http://s789.yamvideo.com/thz3675e/004/appid-10665.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Sqte-081 Erotic Too Girl038039s Body
+thumb=http://javsex.net/wp-content/uploads/2017/01/11725.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/007/appid-11725.mp4
+
+type=video
+name=Sqte-082 Really Is A Naughty Innocent Beautiful Girl
+thumb=http://javsex.net/wp-content/uploads/2017/01/11726.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/007/appid-11726.mp4
+
+type=video
+name=Sqte-151 S-cute Breasts Pretty Festival 8 Hours
+thumb=http://javsex.net/wp-content/uploads/2017/01/10303.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/005/appid-10303.mp4
+
+type=video
+name=SQTE-089 S-Cute Girl RANKINGS-2015 TOP10
+thumb=http://javsex.net/wp-content/uploads/2016/01/4394.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4394.mp4
+
+type=video
+name=Sqte-190 S-cute Annual Sales Ranking 2017 Top 30
+thumb=http://javsex.net/wp-content/uploads/2017/12/28429.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/001/appid-28429.mp4
+
+type=video
+name=Sqte-169 S-cute Girls Ranking-2017 Top 10
+thumb=http://javsex.net/wp-content/uploads/2017/06/24503.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/007-op/appid-24503.mp4
+
+
 
 
 

@@ -61,6 +61,314 @@ URL=
 
 
 
+type=video
+name=111xxxxxxxxxxxxxxxxxxxxABP-353 Slut-based Sister Winter Months Maple To Work
+thumb=http://javsex.net/wp-content/uploads/2016/01/4360.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4360.mp4
+
+type=video
+name=ABP-405 Midnight Cruise Suzumura Airi
+thumb=http://javsex.net/wp-content/uploads/2016/01/4347.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4347.mp4
+
+type=video
+name=ABP-358 Life&#039;s First-trance Super Iki Climax Sex Kirishima Rino 
+thumb=http://javsex.net/wp-content/uploads/2016/01/4342.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4342.mp4
+
+type=video
+name=ABP-339 Prestige Summer FESTIVAL-2015 Gushonure Island Kitano Nozomi
+thumb=http://javsex.net/wp-content/uploads/2016/01/4339.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4339.mp4
+
+type=video
+name=JUX-616 Bondage NTR Off Meeting Honda Rico
+thumb=http://javsex.net/wp-content/uploads/2016/01/4331.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4461.mp4
+
+
+
+
+type=video
+name=ABP-383 I Only Ass Kos Daughter Suzumura Airi 
+thumb=http://javsex.net/wp-content/uploads/2015/10/31901.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4344.mp4
+
+type=video
+name=APAA-332 Nursery&#039;s Reputation Neat From Parents Was 
+thumb=http://javsex.net/wp-content/uploads/2015/10/3668.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/006/appid-3668.mp4
+
+type=video
+name=SNIS-449 Been Allowed To Underwear Model 
+thumb=http://javsex.net/wp-content/uploads/2015/10/3062.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4258.mp4
+
+type=video
+name=ABP-385 Kitano Nozomi&#039;s A Namanaka
+thumb=http://javsex.net/wp-content/uploads/2015/10/2949.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/006/appid-3192.mp4
+
+type=video
+name=MIDE-279 Ultra-luxury Gcup Tits Maid KamiSaki Shiori 
+thumb=http://javsex.net/wp-content/uploads/2015/10/3267.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/006/appid-3267.mp4
+
+
+type=video
+name=ABP-346 Women&#039;s Manager, Our Gender Processing Pet. 010 MizuKino Love 
+thumb=http://javsex.net/wp-content/uploads/2015/10/4179.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4179.mp4
+
+type=video
+name=BBI-203 Bold Underwear Older Sister To Seduce Me Sakuragi Rin
+thumb=http://javsex.net/wp-content/uploads/2015/10/4132.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/006/appid-4132.mp4
+
+type=video
+name=ABP-383 I Only Ass Kos Daughter Suzumura Airi
+thumb=http://javsex.net/wp-content/uploads/2015/10/2947.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4344.mp4
+
+type=video
+name=BBI-210 Nipple Likes To Commit The Nipple Koshikawa Amelie
+thumb=http://javsex.net/wp-content/uploads/2015/10/4177.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/006/appid-4177.mp4
+
+type=video
+name=NITR-119 Off MEETING-2 Honda Rico Pies Middle-aged Father Circle 
+thumb=http://javsex.net/wp-content/uploads/2015/10/4110.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/006/appid-4110.mp4
+
+
+type=video
+name=SNIS-490 Ariga Yuato Wearing No Underwear No Bra Dating 
+thumb=http://javsex.net/wp-content/uploads/2015/10/3070.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4247.mp4
+
+type=video
+name=ABP-345 Terutsuki Anri&#039;s A Namanaka
+thumb=http://javsex.net/wp-content/uploads/2015/10/4165.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/006/appid-4165.mp4
+
+type=video
+name=MIDE-228 Big Sister To Overtaken Leave Terrible Tech Slut Dating Shiori Kamisaki
+thumb=http://javsex.net/wp-content/uploads/2015/10/3253.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4256.mp4
+
+type=video
+name=SHE-232 We Must Catch A Bikini Gal ! Midsummer Coast Nampa
+thumb=http://javsex.net/wp-content/uploads/2015/10/3055.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/006/appid-3055.mp4
+
+type=video
+name=ABP-376 48-hour Endurance Continuous Cock Acme Uehara Mizuho
+thumb=http://javsex.net/wp-content/uploads/2015/10/2946.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/006/appid-3189.mp4
+
+
+type=video
+name=MIDE-055 Open SEX Nishikawa Yui on the island of South
+thumb=http://javsex.net/wp-content/uploads/2015/10/4154.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3678e/003/appid-13215.mp4
+
+type=video
+name=ABP-338 Prestige And Summer Festival 2015
+thumb=http://javsex.net/wp-content/uploads/2015/10/abp-338.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4338.mp4
+
+type=video
+name=ABP-268 Life&#8217;s First-trance Geki Iki Climax Sex
+thumb=http://javsex.net/wp-content/uploads/2015/10/abp-268.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-2935.mp4
+
+type=video
+name=SNIS-517 Rookie NO.1STYLE AV Debut RION 
+thumb=http://javsex.net/wp-content/uploads/2015/10/SNIS-517.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-3078.mp4
+
+type=video
+name=SNIS-515 Super Premium Sex Miss Sonoda Mion
+thumb=http://javsex.net/wp-content/uploads/2015/10/SNIS-515.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-3077.mp4
+
+
+type=video
+name=SNIS-512 The S1 Actress We Will Fulfill Ya Sayaka
+thumb=http://javsex.net/wp-content/uploads/2015/10/SNIS-512.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/006/appid-3074.mp4
+
+type=video
+name=SNIS-509 Breasts Are Glanced Ogawa Rio
+thumb=http://javsex.net/wp-content/uploads/2015/10/SNIS-509.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/006/appid-3073.mp4
+
+type=video
+name=SNIS-496 Breasts Are Glanced Aoi Tsukasa
+thumb=http://javsex.net/wp-content/uploads/2015/10/SNIS-496.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-3071.mp4
+
+type=video
+name=NNPJ-117 Dating Is Vocal Of Amateur Bands Dating To Too Cute 
+thumb=http://javsex.net/wp-content/uploads/2015/10/NNPJ-117.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/006/appid-3026.mp4
+
+type=video
+name=MIDE-281 Great Tit Amazing Clamping Yoshikawa Manami 
+thumb=http://javsex.net/wp-content/uploads/2015/11/MIDE-281.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/005/appid-8488.mp4
+
+
+type=video
+name=MIDE-279 Ultra luxury Gcup Tits Maid KamiSaki Shiori
+thumb=http://javsex.net/wp-content/uploads/2015/11/MIDE-279.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/006/appid-3267.mp4
+
+type=video
+name=MIDE-278 The Drowning To Pervert Hatsukawa Minami
+thumb=http://javsex.net/wp-content/uploads/2015/11/MIDE-278.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/005/appid-8487.mp4
+
+type=video
+name=MIDE-274 Temptation Eri Ishikawa Me Her Sister Secretly
+thumb=http://javsex.net/wp-content/uploads/2015/11/MIDE-274.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/006/appid-3264.mp4
+
+type=video
+name=MIDE-273 The First Time I Was Chucking Go! Ito Chinami
+thumb=http://javsex.net/wp-content/uploads/2015/11/MIDE-273.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3678e/003/appid-3263.mp4
+
+type=video
+name=HNDS-030 Bimbo Childhood FRIEND-4 People Sumuko Making Town 3 
+thumb=http://javsex.net/wp-content/uploads/2015/11/HNDS-030.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-3247.mp4
+
+
+type=video
+name=HNKY-003 A Woman Who Escapes Grovelingly To Hit The Return Home
+thumb=http://javsex.net/wp-content/uploads/2015/11/HNKY-003.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-3202.mp4
+
+type=video
+name=MIDE-142 Suzuki Kokoroharu
+thumb=http://javsex.net/wp-content/uploads/2015/11/MIDE-142.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-3219.mp4
+
+type=video
+name=TEAM-071 Out Completely During The UNCUT-5 Production Minato Riku 
+thumb=http://javsex.net/wp-content/uploads/2015/11/TEAM-071.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/006/appid-3698.mp4
+
+type=video
+name=MIDE-233 Lovely Wife Dream Cum True 
+thumb=http://javsex.net/wp-content/uploads/2015/12/3959.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674d/001/appid-3959.mp4
+
+type=video
+name=MEYD-002 Beautiful Breasts of Neighbor Wife
+thumb=http://javsex.net/wp-content/uploads/2015/12/3969.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674d/001/appid-3969.mp4
+
+
+type=video
+name=SNIS-041 Body Juice Lazy Akiho Yoshizawa
+thumb=http://javsex.net/wp-content/uploads/2016/01/4242.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/007-op/appid-8963.mp4
+
+type=video
+name=SNIS-488 Breasts Are Porori Aoi
+thumb=http://javsex.net/wp-content/uploads/2016/01/4248.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3675e/006/appid-4248.mp4
+
+type=video
+name=SNIS-493 Sonoda Mion, And Masu Breath.First EXPERIENCE-4 Production 
+thumb=http://javsex.net/wp-content/uploads/2016/01/4251.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4251.mp4
+
+type=video
+name=BID-050 Tachibana Yuka Shiina Marina Chibana Meisa Lily River Further 
+thumb=http://javsex.net/wp-content/uploads/2016/01/4272.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4272.mp4
+
+type=video
+name=IPZ-338 Sister Next Door Aino Kishi Nantes Lewd So
+thumb=http://javsex.net/wp-content/uploads/2016/01/4279.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4279.mp4
+
+
+type=video
+name=IPZ-292 I Will Deliver The Kaori Maeda Home Delivery Anata SEX
+thumb=http://javsex.net/wp-content/uploads/2016/01/4275.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4275.mp4
+
+type=video
+name=DOM-023 9 Do Whatever You Want
+thumb=http://javsex.net/wp-content/uploads/2016/01/4315.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4315.mp4
+
+type=video
+name=EBOD-426 AV Ban! !SSS-BODY CLIMAX-77 Times! !Full Uncut 4 Production Katahira Akane
+thumb=http://javsex.net/wp-content/uploads/2016/01/4319.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3674e/008/appid-4319.mp4
+
+type=video
+name=EBOD-386 E-BODY Ai Uehara
+thumb=http://javsex.net/wp-content/uploads/2016/01/4318.jpg
+date=2018-02-05
+URL=http://s789.yamvideo.com/thz3678e/003/appid-6571.mp4
+
+
+
+
 
 
 
