@@ -364,16 +364,20 @@ URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.
 type=video
 name=
 thumb=
-date=2018-02-03
+date=2018-02-05
 URL=
 
 
 
 
-
+type=video
+name=The Cloverfield Paradox (2018) ENG 1080p.web.x264-strife
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJe4s2h9hac0Fu3pQVV4OuWe8kU.jpg
+date=2018-02-05
+URL=https://openload.co/f/xsfDwEBtsbc/the.cloverfield.paradox.2018.internal.1080p.web.x264-strife.mkv.mp4
 
 type=video
-name=Hellraiser: Judgment (2018)
+name=Hellraiser: Judgment (2018) ENG DVDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgIBO1SE6B5WSoSGpzpkJYqlyzE.jpg
 date=2018-02-03
 URL=https://openload.co/f/fkVTq8_XVYs/Hellraiser.Judgment.2018.DVDRip.XviD.AC3-EVO.avi.mp4
@@ -1297,7 +1301,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-04
+date=2018-02-05
 URL=
 
 
@@ -1306,11 +1310,27 @@ URL=
 
 
 
+type=video
+name=Mathilde (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/10vUnYEWuwcyT7uVMwyDlqDd5M4.jpg
+date=2018-02-05
+URL=https://www.blazefile.co/embed-ahqrfgif8qod.html
+#https://uptobox.com/273erlksv13u
 
+type=video
+name=Knights of the Damned (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLlwXLsgQ0tPtk3buwNcG6KJ4s3.jpg
+date=2018-02-05
+URL=https://openload.co/f/O7J27y2_ATg/Knights.Of.The.Damned.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/_vXNn_50vK4/Knights.Of.The.Damned.2017.1080p.BluRay.x264-NTROPiC.mkv   MKV6.5GB
 
-
-
-
+type=video
+name=The Secret Scripture (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyJEWYpSajeAMJxSiLhtCVhxiXc.jpg
+date=2018-02-05
+URL=https://openload.co/f/7r7SzFXsGB4/the.secret.scripture.2016.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/Bu2BqxOQcIw/The.Secret.Scripture.2016.720p.BluRay.x264.DTS-R23.mkv.mp4
+#https://openload.co/f/z7pRMKWjVN0/The.Secret.Scripture.2016.DVDRip.x264-PSYCHD.mkv.mp4
 
 type=video
 name=Polina (2016) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
@@ -2839,12 +2859,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vogqzcUAIWyboktR34ojo1roF2
 date=2017-08-26
 URL=https://openload.co/f/77NDk4AfO20/M-C-M.2016.720p.BluRay.x264-SPRiNTER.mkv.mp4
 
-type=video
-name=The Secret Scripture (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyJEWYpSajeAMJxSiLhtCVhxiXc.jpg
-date=2017-09-18
-URL=https://openload.co/f/Bu2BqxOQcIw/The.Secret.Scripture.2016.720p.BluRay.x264.DTS-R23.mkv.mp4
-#https://openload.co/f/z7pRMKWjVN0/The.Secret.Scripture.2016.DVDRip.x264-PSYCHD.mkv.mp4
+
 
 type=video
 name=Anomalous (2016) [COLOR=FF00FF00]ESP BR 720p[/COLOR]
@@ -3028,7 +3043,11 @@ date=2018-02-04
 URL=https://www.blazefile.co/embed-c583nfydtxse.html
 #https://uptobox.com/zeulwg67f45w
 
-
+type=video
+name=Double Lover (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7va7VtatGdaMbURnKTkwiQlGrX.jpg
+date=2018-02-05
+URL=https://openload.co/f/8PbIUxF4LPE/L%E2%80%99amant_Double_%28The_Double_Lover%29_%282017%29.FRENCH.720p.BRRip.999MB.MkvCage.mp4
 
 
 
@@ -3112,10 +3131,11 @@ URL=https://streamango.com/f/sdrrrroqtqkkfsmc/Along_with_the_Gods_The_Two_Worlds
 
 
 type=video
-name=Maze Runner: The Death Cure (2018) ENG NEWSOURCE.HC.HDCAM.XviD-NoGRP
+name=Maze Runner: The Death Cure (2018) ENG 720p_HDCAM_X264-PAPA
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
-date=2018-01-30
-URL=https://openload.co/f/NcFRR2AcyZg/Maze_Runner_The_Death_Cure.2018.NEWSOURCE.HC.HDCAM.XviD-NoGRP.avi.mp4
+date=2018-02-05
+URL=https://openload.co/f/0wk0pmQT2RE/Maze_Runner_The_Death_Cure_2018_NEW_720p_HDCAM_X264-PAPA.mkv.mp4
+#https://openload.co/f/NcFRR2AcyZg/Maze_Runner_The_Death_Cure.2018.NEWSOURCE.HC.HDCAM.XviD-NoGRP.avi.mp4
 #https://openload.co/f/x3w1YyqQN2I/Maze.Runner.The.Death.Cure.2018.CAM.ENG.x264-NoGRP.MP4.mp4
 type=video
 name=Maze Runner: The Death Cure (2018) THCAM
