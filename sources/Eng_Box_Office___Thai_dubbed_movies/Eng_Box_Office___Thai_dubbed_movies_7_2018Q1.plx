@@ -249,10 +249,11 @@ URL=https://openload.co/f/VXxQVaOTzoI/Just.Getting.Started.2017.CAM.READNFO.XViD
 
 
 type=video
-name=Darkest Hour (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
+name=Darkest Hour (2017) ENG 720p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg
-date=2018-01-15
-URL=https://openload.co/f/MSD8G8qEISo/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+date=2018-02-06
+URL=https://openload.co/f/l9nI9JzbGLA/The.Darkest.Hour.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/MSD8G8qEISo/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/e509QYay-QI/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/c2aiOqF-6tg/Darkest_Hour_2017_HC_TS_x264-ChiLove.mp4
 
@@ -273,10 +274,11 @@ date=2017-11-28
 URL=http://entervideo.net/watch/dc143d328339b28
 
 type=video
-name=Daddy's Home 2 (2017) ENG HDTS.x264-EZIS
+name=Daddy's Home 2 (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg
-date=2017-11-30
-URL=https://openload.co/f/FC1fJ8taIqA/Daddys.Home.2.2017.HDTS.x264-EZIS.mkv.mp4
+date=2018-02-06
+URL=https://openload.co/f/fo9-1pnFmio/Daddys.Home.2.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/FC1fJ8taIqA/Daddys.Home.2.2017.HDTS.x264-EZIS.mkv.mp4
 #https://openload.co/f/vpL7f9btUG4/Daddys.Home.2.2017.HDCAM.XVID.HQ.Hive-CM8.avi
 #https://openload.co/f/IfYB8OGuPfM/Daddys.Home.2.2017.ENG.720p.CAM.x264-NoGRP.mkv.mp4
 
@@ -293,10 +295,11 @@ URL=https://openload.co/f/RqXwupoJyYY/Paddington_2_2017_720p_HDTS_x264_AC3_TiTAN
 #https://openload.co/f/O5MG7v4Xa2E/Paddington.2.2017.iTALiAN.LD.TELESYNC.XviD_CriMiNaL.mp4
 
 type=video
-name=Murder on the Orient Express (2017) ENG 1080p.HC.HDRip.X264.AC3-EVO
+name=Murder on the Orient Express (2017) ENG 720p.HC.WEBRip
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
-date=2018-01-24
-URL=https://openload.co/f/tQIHPxK0iyo/Murder.on.the.Orient.Express.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+date=2018-02-06
+URL=https://openload.co/f/SMDH2kYrDGM/Murder.on.the.Orient.Express.2017.720p.HC.WEBRip.mkv.mp4
+#https://openload.co/f/tQIHPxK0iyo/Murder.on.the.Orient.Express.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/W3Ib0baMyac/Murder_on_the_Orient_Express_2017_HCTC_SeeHD.mkv.mp4
 #https://openload.co/f/Z-xgjsHstE8/Murder.On.The.Orient.Express.2017.CAM.XViD.V2-26k.avi.mp4
 #https://openload.co/f/Kw3jLB0wT6w/Murder_on_the_Orient_Express_%282017%29.ENG.CAM.H264.AC3-Zi%24t.mkv.mp4
@@ -370,11 +373,8 @@ URL=
 
 
 
-type=video
-name=The Cloverfield Paradox (2018) ENG 1080p.web.x264-strife
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJe4s2h9hac0Fu3pQVV4OuWe8kU.jpg
-date=2018-02-05
-URL=https://openload.co/f/xsfDwEBtsbc/the.cloverfield.paradox.2018.internal.1080p.web.x264-strife.mkv.mp4
+
+
 
 type=video
 name=Hellraiser: Judgment (2018) ENG DVDRip.XviD.AC3-EVO
@@ -396,11 +396,7 @@ thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMmI2YTFkNDktODhjYy00M
 date=2018-01-27
 URL=https://openload.co/f/R_qB3U1HcU8/The.Neighbor.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
-type=video
-name=Accident Man (2018) ENG DVDRip.XviD.AC3-EVO
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BM2Y1NWNmYTQtYTc1ZC00OWE1LWFiZWQtOWJjZDMwMTNkYmQ1XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg
-date=2018-01-27
-URL=https://openload.co/f/jRNgI6KShSc/Accident.Man.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Final Portrait (2017) ENG 1080p.NF.WEBRip.DDP.5.1.H264-CMRG
@@ -668,7 +664,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/85xioeF08JX4iYRUNMlEPjJWrP
 date=2017-11-13
 URL=https://www.blazefile.co/embed-wncdast3r4z6.html
 #https://openload.co/f/gEajQqD6N2c/The.Humanity.Bureau.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
-
+#https://openload.co/f/NL95Kk2HLJA/the.humanity.bureau.2017.dvdrip.x264-sabena.mkv.mp4
 
 
 
@@ -897,10 +893,11 @@ URL=https://openload.co/f/yIOUrQXSCCM/Freehold.2017.DVDRip.x264-RedBlade.mkv.mp4
 #https://openload.co/f/I7UjFFBDk_g/Freehold.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
-name=Gremlin (2017) ENG WEB.h264-MAJiKNiNJAZ
+name=Gremlin (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikzorlv0yAxYCvkugO6k1EAgqMK.jpg
-date=2017-10-14
-URL=https://openload.co/f/Gq0x2YupZqo/Gremlin.2017.720p.WEB.h264-MAJiKNiNJAZ.mkv.mp4
+date=2018-02-06
+URL=https://openload.co/f/HMS0ETiwKqE/DD_Gremlin.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/Gq0x2YupZqo/Gremlin.2017.720p.WEB.h264-MAJiKNiNJAZ.mkv.mp4
 
 type=video
 name=Interlude In Prague (2017) ENG hdtv.x264-plutonium
@@ -1230,7 +1227,7 @@ URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-
 type=video
 name=
 thumb=
-date=2018-01-27
+date=2018-02-06
 URL=
 
 
@@ -1273,6 +1270,13 @@ rating=-1.00
 
 
 type=video
+name=Racer and the Jailbird (2017) FRE bdrip.x264-sabena
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7SeGPPVljc3Nz6c21OWcMyVX6w.jpg
+date=2018-02-06
+URL=https://openload.co/f/wy2qGsU37Rc/racer.and.the.jailbird.2017.bdrip.x264-sabena.mkv.mp4
+#https://openload.co/f/UXz9ne-N9z0/racer.and.the.jailbird.2017.bdrip.x264-sabena.mkv.mp4
+
+type=video
 name=On Body and Soul (2017) HUN 1080p.WEB-DL.HC.x264.AC3.HORiZON-ArtSubs
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uguWEoZelSSckxgiQctlkZ6gpfU.jpg
 date=2018-02-01
@@ -1301,14 +1305,18 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-05
+date=2018-02-06
 URL=
 
 
 
 
 
-
+type=video
+name=Loveless (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/myFTOsVDxu5sAWcw8hr0LlxBLnq.jpg
+date=2018-02-06
+URL=https://openload.co/f/ju0ziz2gjOg/Loveless_2017_MULTi_1080p_BRRip_x264_AAC_-_Hon3y.mkv.mp4
 
 type=video
 name=Mathilde (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
@@ -1323,12 +1331,16 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLlwXLsgQ0tPtk3buwNcG6KJ4s
 date=2018-02-05
 URL=https://openload.co/f/O7J27y2_ATg/Knights.Of.The.Damned.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/_vXNn_50vK4/Knights.Of.The.Damned.2017.1080p.BluRay.x264-NTROPiC.mkv   MKV6.5GB
+#https://www.blazefile.co/embed-v7j94m5uvz8j.html   720
+#https://uptobox.com/b7ufg1reoiad   720
 
 type=video
 name=The Secret Scripture (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyJEWYpSajeAMJxSiLhtCVhxiXc.jpg
 date=2018-02-05
-URL=https://openload.co/f/7r7SzFXsGB4/the.secret.scripture.2016.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+URL=https://www.blazefile.co/embed-wxpjxvpewvpv.html
+#https://uptobox.com/flg2h3kr9nwd
+#https://openload.co/f/7r7SzFXsGB4/the.secret.scripture.2016.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/Bu2BqxOQcIw/The.Secret.Scripture.2016.720p.BluRay.x264.DTS-R23.mkv.mp4
 #https://openload.co/f/z7pRMKWjVN0/The.Secret.Scripture.2016.DVDRip.x264-PSYCHD.mkv.mp4
 
@@ -3049,6 +3061,14 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7va7VtatGdaMbURnKTkwiQlGr
 date=2018-02-05
 URL=https://openload.co/f/8PbIUxF4LPE/L%E2%80%99amant_Double_%28The_Double_Lover%29_%282017%29.FRENCH.720p.BRRip.999MB.MkvCage.mp4
 
+type=video
+name=Accident Man (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BM2Y1NWNmYTQtYTc1ZC00OWE1LWFiZWQtOWJjZDMwMTNkYmQ1XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg
+date=2018-02-06
+URL=https://openload.co/f/JfQBLt2vCSg/Accident.Man.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/jRNgI6KShSc/Accident.Man.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+
+
 
 
 type=video
@@ -3342,6 +3362,16 @@ URL=
 
 
 
+type=video
+name=The Cloverfield Paradox (2018) ENG 1080p.web.x264-strife
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJe4s2h9hac0Fu3pQVV4OuWe8kU.jpg
+date=2018-02-05
+URL=https://openload.co/f/xsfDwEBtsbc/the.cloverfield.paradox.2018.internal.1080p.web.x264-strife.mkv.mp4
+type=video
+name=The Cloverfield Paradox (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJe4s2h9hac0Fu3pQVV4OuWe8kU.jpg
+date=2018-02-06
+URL=https://streamango.com/f/mmfosbssclnneqbr/The_Cloverfield_Paradox_2018_
 
 
 type=video
@@ -3417,10 +3447,11 @@ URL=https://streamango.com/f/frltsbbbkkofeffl/The_Man_from_Earth_Holocene_2017_
 
 
 type=video
-name=The Open House (2018) ENG webrip.x264-strife
+name=The Open House (2018) ENG 720p.web
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JwdoLcbFWaeUBxKaoFulRVK8Ja.jpg
-date=2018-01-22
-URL=https://openload.co/f/4K4greTKYls/the.open.house.2018.720p.webrip.x264-strife.mkv.mp4
+date=2018-02-06
+URL=https://openload.co/f/oKD16oCTEsM/the.open.house.2018.720p.web.mkv.mp4
+#https://openload.co/f/4K4greTKYls/the.open.house.2018.720p.webrip.x264-strife.mkv.mp4
 type=video
 name=The Open House (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JwdoLcbFWaeUBxKaoFulRVK8Ja.jpg
