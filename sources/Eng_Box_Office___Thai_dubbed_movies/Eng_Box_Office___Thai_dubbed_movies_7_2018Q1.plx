@@ -58,12 +58,16 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 
 type=video
 name=
-thumb=https://ganool.se/wp-content/uploads/2016/02/Ragini-MMS-2-2014-182x260.jpg
-date=2018-02-03
-URL=https://www.blazefile.co/embed-zrz392umgaph.html
+thumb=
+date=2018-02-07
+URL=
 
 
-
+type=video
+name=Phantom Thread (2017) ENG DVDSCR.DrinkBetterWater
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
+date=2018-02-07
+URL=https://openload.co/f/01d95nvQAeA/Phantom_Thread.2017.DVDSCR.DrinkBetterWater.mp4
 
 type=video
 name=Hostiles (2017) ENG NEW.720p.HDCAM.x264-CPG
@@ -249,10 +253,11 @@ URL=https://openload.co/f/VXxQVaOTzoI/Just.Getting.Started.2017.CAM.READNFO.XViD
 
 
 type=video
-name=Darkest Hour (2017) ENG 720p.WEB-DL.H264.AC3-EVO
+name=Darkest Hour (2017) ENG 720p.web-dl_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg
-date=2018-02-06
-URL=https://openload.co/f/l9nI9JzbGLA/The.Darkest.Hour.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2018-02-07
+URL=https://openload.co/f/1Wg2viwoYXE/The.darkest.hour.2017.720p.web-dl_SeeHD.mp4
+#https://openload.co/f/l9nI9JzbGLA/The.Darkest.Hour.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/MSD8G8qEISo/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/e509QYay-QI/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/c2aiOqF-6tg/Darkest_Hour_2017_HC_TS_x264-ChiLove.mp4
@@ -273,14 +278,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRUToAEWbPtfOOgrs7ivk96DE7
 date=2017-11-28
 URL=http://entervideo.net/watch/dc143d328339b28
 
-type=video
-name=Daddy's Home 2 (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg
-date=2018-02-06
-URL=https://openload.co/f/fo9-1pnFmio/Daddys.Home.2.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/FC1fJ8taIqA/Daddys.Home.2.2017.HDTS.x264-EZIS.mkv.mp4
-#https://openload.co/f/vpL7f9btUG4/Daddys.Home.2.2017.HDCAM.XVID.HQ.Hive-CM8.avi
-#https://openload.co/f/IfYB8OGuPfM/Daddys.Home.2.2017.ENG.720p.CAM.x264-NoGRP.mkv.mp4
+
 
 
 
@@ -367,14 +365,18 @@ URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.
 type=video
 name=
 thumb=
-date=2018-02-05
+date=2018-02-07
 URL=
 
 
 
 
 
-
+type=video
+name=Painted Woman (2017) ENG 1080p_WEB-DL_DD5_1_H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4B4P2n4e2duVFoU2nqfdLUEV5Mp.jpg
+date=2018-02-07
+URL=https://openload.co/f/jC0ByG9fGEs/Painted_Woman_2017_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
 
 type=video
 name=Hellraiser: Judgment (2018) ENG DVDRip.XviD.AC3-EVO
@@ -435,12 +437,7 @@ URL=https://openload.co/f/OwTj4TCUTw4/Wonderstruck.2017.1080p.WEB-DL.H264.AC3-EV
 
 
 
-type=video
-name=The Florida Project (2017) ENG 720p.WEB-DL.900MB.MkvCage
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg
-date=2018-01-30
-URL=https://openload.co/f/2y6Cgff5XRc/The.Florida.Project.2017.720p.WEB-DL.900MB.MkvCage.mkv.mp4
-#https://openload.co/f/I0v3vaBhz6Q/The.Florida.Project.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+
 
 type=video
 name=Permanent (2017) ENG WEB-DL.MkvCage
@@ -1305,12 +1302,34 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-06
+date=2018-02-07
 URL=
 
 
 
+type=video
+name=Daddy's Home 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg
+date=2018-02-07
+URL=https://openload.co/f/sIN1JopPsi4/Daddys.Home.2.2017.1080p.BluRay.x264-BLOW.mkv.mp4
+#https://openload.co/f/fo9-1pnFmio/Daddys.Home.2.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/FC1fJ8taIqA/Daddys.Home.2.2017.HDTS.x264-EZIS.mkv.mp4
+#https://openload.co/f/vpL7f9btUG4/Daddys.Home.2.2017.HDCAM.XVID.HQ.Hive-CM8.avi
+#https://openload.co/f/IfYB8OGuPfM/Daddys.Home.2.2017.ENG.720p.CAM.x264-NoGRP.mkv.mp4
 
+type=video
+name=The Florida Project (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg
+date=2018-02-07
+URL=https://openload.co/f/6pzIA-uG7XI/The.Florida.Project.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/2y6Cgff5XRc/The.Florida.Project.2017.720p.WEB-DL.900MB.MkvCage.mkv.mp4
+#https://openload.co/f/I0v3vaBhz6Q/The.Florida.Project.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+
+type=video
+name=Smartass (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jL3p47xDAR0COLbnmihQVE7RSxY.jpg
+date=2018-02-07
+URL=https://openload.co/f/-GDTCeNjhLE/Smartass_%282017%29_%5B1080p%5D_BluRay_x264-%5BYTS_AG%5D_mp4
 
 type=video
 name=Loveless (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
