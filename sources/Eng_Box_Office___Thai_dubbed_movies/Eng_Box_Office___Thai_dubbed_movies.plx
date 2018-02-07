@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+background=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
 title=Eng_Box_Office___Thai_dubbed_movies
-logo=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+logo=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
+icon_playlist=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -20,7 +20,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies_7_2018Q1
-thumb=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
 date=2018-01-04
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_7_2018Q1.plx
 player=default
@@ -28,7 +28,7 @@ rating=-1.00
 
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies_6_2017Q4
-thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
 date=2017-10-01
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_6_2017Q4.plx
 player=default
@@ -36,7 +36,7 @@ rating=-1.00
 
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies_5_2017Q3
-thumb=https://image.tmdb.org/t/p/w640/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
 date=2017-09-22
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies_5_2017Q3.plx
 player=default

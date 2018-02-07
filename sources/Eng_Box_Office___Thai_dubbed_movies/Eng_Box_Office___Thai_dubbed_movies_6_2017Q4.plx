@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
+background=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_6_2017Q4
-logo=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
+logo=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
+icon_playlist=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, sockshare, fmovies, ganool, nanamovies./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w640/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -24,7 +24,7 @@ rating=-1.00
 #78---2018-01-07
 type=video
 name=The LEGO Ninjago Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
 date=2017-12-09
 URL=https://www.blazefile.co/embed-qnx38ji2v6zk.html
 #https://openload.co/f/Fr1URjo-q-Q/The.LEGO.Ninjago.Movie.2017.RERIP.1080p.BluRay.x264-GECKOS.mkv.mp4
@@ -33,7 +33,7 @@ URL=https://www.blazefile.co/embed-qnx38ji2v6zk.html
 #https://openload.co/f/u2d0I9ZAq0M/The.Lego.Ninjago.Movie.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 type=video
 name=The LEGO Ninjago Movie (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJhKcWL2GfqIh0W17JBnzlER9oh.jpg
 date=2018-01-04
 URL=https://openload.co/f/qfPCIpqaJuw/The_LEGO_Ninjago_Movie_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B9%82%E0%B8%81_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88.mp4
 #https://openload.co/f/xxwf4ErHils/The.Lego.Ninjago.Movie.2017.1080p.KORSUB.HDRip.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
@@ -42,7 +42,7 @@ URL=https://openload.co/f/qfPCIpqaJuw/The_LEGO_Ninjago_Movie_%282017%29%E0%B9%80
 
 type=video
 name=Blade Runner 2049 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
 date=2018-01-03
 URL=http://uptobox.com/kvsa21j2lf6u
 #https://uptobox.com/lkqgwhq0cmhq   1080ganool
@@ -55,7 +55,7 @@ URL=http://uptobox.com/kvsa21j2lf6u
 #https://openload.co/f/SoWJsZvgxAk/Blade_Runner_2049.2017.CAM.X264.AAC.1.7GB.mp4
 type=video
 name=Blade Runner 2049 (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLOFALA4pWdBBL8WTzeYfyFKSjZ.jpg
 date=2017-12-31
 URL=https://openload.co/f/p-_GSJJMmcg/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%94_%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C_2049.mp4
 #https://openload.co/f/K5voMQ_vDl0/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%94_%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C_2049.mp4
@@ -65,7 +65,7 @@ URL=https://openload.co/f/p-_GSJJMmcg/Blade_Runner_2049_%282017%29%E0%B9%80%E0%B
 
 type=video
 name=It (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
 date=2017-12-18
 URL=https://www.blazefile.co/embed-q667k4nwoj75.html
 #https://openload.co/f/7cLTq13YlXs/It_2017_1080p_BluRay_x264-SPARKS.mp4
@@ -74,7 +74,7 @@ URL=https://www.blazefile.co/embed-q667k4nwoj75.html
 #https://openload.co/f/znDy--tZHnA/IT.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 type=video
 name=It (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
 date=2018-01-04
 URL=https://openload.co/f/jDdeSIndLyc/It_%282017%29%E0%B8%AD%E0%B8%B4%E0%B8%97_%E0%B9%82%E0%B8%9C%E0%B8%A5%E0%B9%88%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
 #https://openload.co/f/mPrWbHWb98I/It_%282017%29%E0%B8%AD%E0%B8%B4%E0%B8%97_%E0%B9%82%E0%B8%9C%E0%B8%A5%E0%B9%88%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
@@ -84,14 +84,14 @@ URL=https://openload.co/f/jDdeSIndLyc/It_%282017%29%E0%B8%AD%E0%B8%B4%E0%B8%97_%
 
 type=video
 name=Battle of the Sexes (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/v3y96NrwyBxqNhVpHIBZix0uPKP.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3y96NrwyBxqNhVpHIBZix0uPKP.jpg
 date=2017-12-22
 URL=https://www.blazefile.co/embed-2z3xyruc6ova.html
 #https://openload.co/f/vCSWt5abNAA/Battle.of.the.Sexes.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/rEJOPUmaVZg/Battle.of.the.Sexes.2017.HDRip.XviD.AC3-EVO.avi.mp4
 type=video
 name=Battle of the Sexes (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/v3y96NrwyBxqNhVpHIBZix0uPKP.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3y96NrwyBxqNhVpHIBZix0uPKP.jpg
 date=2017-12-29
 URL=https://openload.co/f/NkQ7U-STcDk/Battle_of_the_Sexes_%282017%29%E0%B9%81%E0%B8%A1%E0%B8%97%E0%B8%8A%E0%B9%8C%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 #https://streamango.com/f/rfsreqnrabpprmdd/_MINI_Super-HQ_Battle_of_the_Sexes_2017_1080p_BrRip_DTS_x264_NongZEZA_CtHts_mkv_mp4
@@ -99,14 +99,14 @@ URL=https://openload.co/f/NkQ7U-STcDk/Battle_of_the_Sexes_%282017%29%E0%B9%81%E0
 
 type=video
 name=Olaf's Frozen Adventure (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w640/47pLZ1gr63WaciDfHCpmoiXJlVr.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/47pLZ1gr63WaciDfHCpmoiXJlVr.jpg
 date=2017-12-02
 URL=https://www.blazefile.co/embed-k828me476f50.html
 #https://openload.co/f/TcwkMEBNA0s/Olafs_Frozen_Adventure.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://www.blazefile.co/embed-k828me476f50.html   web
 type=video
 name=Olaf's Frozen Adventure (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/47pLZ1gr63WaciDfHCpmoiXJlVr.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/47pLZ1gr63WaciDfHCpmoiXJlVr.jpg
 date=2017-12-29
 URL=https://openload.co/f/ekPXd3mGRrg/Olaf%27s_Frozen_Adventure_%282017%29%E0%B9%82%E0%B8%AD%E0%B8%A5%E0%B8%B2%E0%B8%9F%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B9%87%E0%B8%9A.mp4
 #https://streamango.com/f/qkldbcstttmfbfab/Olaf_s_Frozen_Adventure_2017_
@@ -114,21 +114,21 @@ URL=https://openload.co/f/ekPXd3mGRrg/Olaf%27s_Frozen_Adventure_%282017%29%E0%B9
 
 type=video
 name=God of War (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/4rWq9Vwb1gVhQIqkhUKE0hPVwnz.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rWq9Vwb1gVhQIqkhUKE0hPVwnz.jpg
 date=2017-12-26
 URL=https://openload.co/f/GTH_ES0SlgU/God_of_War_%282017%29%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%8D%E0%B8%9A%E0%B8%B2%E0%B8%99.mp4
 
 
 type=video
 name=The Hitman's Bodyguard (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
 date=2017-11-10
 URL=https://www.blazefile.co/embed-92vhwvq28m89.html
 #https://openload.co/f/puAPHB-_gTs/The_Hitmans_BodyGuard.2017.720p.BluRay.x264.DD5.1-HDC.mkv.mp4
 #https://openload.co/f/itc7K1DCIsw/The.Hitmans.Bodyguard.2017.1080p.WEB-DL.DD5.1.x264-HB.mkv.mp4
 type=video
 name=The Hitman's Bodyguard (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
 date=2017-12-25
 URL=https://openload.co/f/2kk6FuIOCQw/The_Hitman%27s_Bodyguard_%282017%29%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%9A%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94.mp4
 #https://openload.co/f/F2OrZJXph3c/%7BMINI_Super-HQ%7D_The.Hitmans.Bodyguard.2017.1080p.WEB-DL.ThaiRong.5.1.x264_CpT%40CtHts.mkv.mp4
@@ -136,7 +136,7 @@ URL=https://openload.co/f/2kk6FuIOCQw/The_Hitman%27s_Bodyguard_%282017%29%E0%B9%
 
 type=video
 name=The Battleship Island (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/gCv1HBAXiyi48hPpc9hO0p5bbht.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCv1HBAXiyi48hPpc9hO0p5bbht.jpg
 date=2017-12-25
 URL=https://openload.co/f/42nWzBBYihU/The_Battleship_Island_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A5%E0%B8%8A%E0%B8%B4%E0%B8%9B_%E0%B9%84%E0%B8%AD%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C.mp4
 #https://openload.co/f/yv8vQH7WT_Q/The_Battleship_Island_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A5%E0%B8%8A%E0%B8%B4%E0%B8%9B_%E0%B9%84%E0%B8%AD%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
@@ -144,12 +144,12 @@ URL=https://openload.co/f/42nWzBBYihU/The_Battleship_Island_%282017%29%E0%B9%80%
 
 type=video
 name=Imperium (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/aRRLpsusORQxOpFkZvXdk00TkoY.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRRLpsusORQxOpFkZvXdk00TkoY.jpg
 date=2017-12-23
 URL=https://www.blazefile.co/embed-c8coc0ksu0u7.html
 type=video
 name=Imperium (2016) TH
-thumb=https://image.tmdb.org/t/p/w640/aRRLpsusORQxOpFkZvXdk00TkoY.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRRLpsusORQxOpFkZvXdk00TkoY.jpg
 date=2017-12-23
 URL=https://openload.co/f/le_1dkTQGQs/Imperium_%282016%29%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%82%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
 #https://streamango.com/f/cmqspnntsfpnklcr/Imperium_mp4
@@ -157,12 +157,12 @@ URL=https://openload.co/f/le_1dkTQGQs/Imperium_%282016%29%E0%B8%AA%E0%B8%B2%E0%B
 
 type=video
 name=Our Kind of Traitor (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/vZklhnvecz1mA5pv93v20fLdO8Y.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZklhnvecz1mA5pv93v20fLdO8Y.jpg
 date=2017-12-23
 URL=https://www.blazefile.co/embed-cz4rzdevp6yz.html
 type=video
 name=Our Kind of Traitor (2016) TH
-thumb=https://image.tmdb.org/t/p/w640/vZklhnvecz1mA5pv93v20fLdO8Y.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZklhnvecz1mA5pv93v20fLdO8Y.jpg
 date=2017-12-25
 URL=https://openload.co/f/GSfisU7uzoA/Our_Kind_of_Traitor_%282016%29%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%8B%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 #https://streamango.com/f/odpdqtrackbblnnk/Our_Kind_of_Traitor_mp4
@@ -170,14 +170,14 @@ URL=https://openload.co/f/GSfisU7uzoA/Our_Kind_of_Traitor_%282016%29%E0%B9%81%E0
 
 type=video
 name=Stronger (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg
 date=2017-12-07
 URL=https://www.blazefile.co/embed-kvgao0h0wtwz.html
 #https://openload.co/f/cI8js1NIAPg/Stronger.2017.BDRip.x264-GECKOS.mkv.mp4
 #https://openload.co/f/fWmX0uqtUuI/Stronger.2017.720p.WEB-DL.X264.AC3-EVO.mkv
 type=video
 name=Stronger (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg
 date=2017-12-23
 URL=https://openload.co/f/T-BQmUlgXIM/Stronger_%282017%29%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%9E%E0%B9%89.mp4
 #https://streamango.com/f/qadqkpptqdloprkc/Stronger_mp4
@@ -185,14 +185,14 @@ URL=https://openload.co/f/T-BQmUlgXIM/Stronger_%282017%29%E0%B8%AB%E0%B8%B1%E0%B
 
 type=video
 name=The Glass Castle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/d5fLQ9ZMa1jZ2mODCv5lOWJDugX.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5fLQ9ZMa1jZ2mODCv5lOWJDugX.jpg
 date=2017-10-27
 URL=https://www.blazefile.co/embed-sdp2qwa7fxph.html
 #https://openload.co/f/UOKIRADy6c8/The.Glass.Castle.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://www.blazefile.co/embed-2xc2nz9cno64.html
 type=video
 name=The Glass Castle (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/d5fLQ9ZMa1jZ2mODCv5lOWJDugX.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5fLQ9ZMa1jZ2mODCv5lOWJDugX.jpg
 date=2017-12-25
 URL=https://openload.co/f/HJOlwF8RJ1Q/The_Glass_Castle_%282017%29%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%88.mp4
 #https://openload.co/f/iLenP8u9kSk/The_Glass_Castle_%282017%29%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%88.mp4
@@ -201,12 +201,12 @@ URL=https://openload.co/f/HJOlwF8RJ1Q/The_Glass_Castle_%282017%29%E0%B8%A7%E0%B8
 
 type=video
 name=Buena Vista Social Club: Adios (2017) [COLOR=FF00FF00]ENG DVD 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/fe6lCeuUD7q5m4Qm8U1r0l5AtsZ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fe6lCeuUD7q5m4Qm8U1r0l5AtsZ.jpg
 date=2018-01-12
 URL=https://openload.co/f/pglVdFwo-W8/buena.vista.social.club.adios.2017.limited.dvdrip.x264-cadaver.mkv.mp4
 type=video
 name=Buena Vista Social Club: Adios (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/fe6lCeuUD7q5m4Qm8U1r0l5AtsZ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fe6lCeuUD7q5m4Qm8U1r0l5AtsZ.jpg
 date=2017-12-25
 URL=https://openload.co/f/2NzwwpeDPHE/Buena_Vista_Social_Club%3A_Adios_%282017%29%E0%B8%81%E0%B8%B9%E0%B9%88%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 #https://streamango.com/f/olcqanpkolcttrer/Buena_Vista_Social_Club_Adios_mp4
@@ -214,7 +214,7 @@ URL=https://openload.co/f/2NzwwpeDPHE/Buena_Vista_Social_Club%3A_Adios_%282017%2
 
 type=video
 name=American Assassin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
 date=2017-11-22
 URL=https://www.blazefile.co/embed-6y0w4fqm2z7m.html
 #https://openload.co/f/ihjSbfIuHhA/american.assassin.2017.1080p.bluray.x264-geckos.mkv.mp4
@@ -222,7 +222,7 @@ URL=https://www.blazefile.co/embed-6y0w4fqm2z7m.html
 #https://openload.co/f/mmAJmFRU03g/American_Assassin_2017_HD-TS_x264-UNiQUE.mkv.mp4
 type=video
 name=American Assassin (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o40BAqdTQHiN3cUfpgieDUYI71z.jpg
 date=2017-12-23
 URL=https://openload.co/f/0CFOfu8r5b4/American_Assassin_%282017%29%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%86%E0%B9%88%E0%B8%B2.mp4
 #https://streamango.com/f/dlcdrlrmcctrdkce/American_Assassin_mp4
@@ -234,7 +234,7 @@ URL=https://openload.co/f/0CFOfu8r5b4/American_Assassin_%282017%29%E0%B8%AD%E0%B
 
 type=video
 name=The Mountain Between Us (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg
 date=2017-12-14
 URL=https://www.blazefile.co/embed-9n3fzxx1bd0b.html
 #https://openload.co/f/cSql4F_rAAI/The.Mountain.Between.Us.2017.1080p.BluRay.x264-DRONES.mkv.mp4
@@ -244,14 +244,14 @@ URL=https://www.blazefile.co/embed-9n3fzxx1bd0b.html
 #https://www.blazefile.co/embed-cosnaq79bhrj.html   720
 type=video
 name=The Mountain Between Us (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XNfYTW4XGscI81nXMSWGsQ8cpu.jpg
 date=2017-12-18
 URL=https://openload.co/f/qrj5e3CDlTc/The_Mountain_Between_Us_%282017%29.mp4
 
 
 type=video
 name=American Made (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
 date=2017-12-04
 URL=https://www.blazefile.co/embed-wq1xe2swtwr5.html
 #https://openload.co/f/yOYF6qkCwEA/American.Made.2017.1080p.BluRay.x264-GECKOS.mkv
@@ -260,7 +260,7 @@ URL=https://www.blazefile.co/embed-wq1xe2swtwr5.html
 #https://openload.co/f/8cEt2bAPp34/American.Made.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 type=video
 name=American Made (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg
 date=2017-12-18
 URL=https://openload.co/f/fV6M-aWhc3I/American_Made_%282017%29%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%99_%E0%B9%80%E0%B8%A1%E0%B8%94.mp4
 #https://streamango.com/f/tfcaecnmlaemmbbn/_MINI_Super-HQ_American_Made_2017_1080p_BrRip_DTS_x264_NongZEZA_CtHts_mkv_mp4
@@ -268,7 +268,7 @@ URL=https://openload.co/f/fV6M-aWhc3I/American_Made_%282017%29%E0%B8%AD%E0%B9%80
 
 type=video
 name=Flatliners (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg
 date=2017-12-12
 URL=https://www.blazefile.co/embed-s94tgi7syuxm.html
 #https://openload.co/f/1xe0mfaBUvI/Flatliners.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
@@ -276,7 +276,7 @@ URL=https://www.blazefile.co/embed-s94tgi7syuxm.html
 #https://openload.co/f/oZKIj48wu74/Flatliners_2017_CLEAN_HDCAM_x264_HQ-DADDY.mp4
 type=video
 name=Flatliners (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg
 date=2017-12-18
 URL=https://openload.co/f/N31dcK0R4Cs/Flatliners_%282017%29%E0%B8%82%E0%B8%AD%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B9%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7.mp4
 #https://streamango.com/f/qrktfmakbmdtccks/_MINI_Super-HQ_Flatliners_2017_1080p_BrRip_DTS_x264_NongZEZA_CtHts_mkv_mp4
@@ -285,7 +285,7 @@ URL=https://openload.co/f/N31dcK0R4Cs/Flatliners_%282017%29%E0%B8%82%E0%B8%AD%E0
 
 type=video
 name=Kingsman: The Golden Circle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
 date=2017-11-30
 URL=https://www.blazefile.co/embed-rtm0anmnmey1.html
 #https://openload.co/f/xehakN9vsR8/Kingsman_The_Golden_Circle_2017_720p_BluRay_x264-SPARKS.mp4
@@ -295,7 +295,7 @@ URL=https://www.blazefile.co/embed-rtm0anmnmey1.html
 #https://openload.co/f/HaBGBsva7yY/Kingsman.The.Golden.Circle.2017.HD-TS.x264.HQ-CPG.mp4
 type=video
 name=Kingsman: The Golden Circle (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg
 date=2017-12-18
 URL=https://openload.co/f/E9jyxATLW-Q/Kingsman%3A_The_Golden_Circle_%282017%29%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99%3A_%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%95%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C.mp4
 #https://openload.co/f/E4LYH8kzaoQ/Kingsman%3A_The_Golden_Circle_%282017%29%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C.mp4
@@ -306,7 +306,7 @@ URL=https://openload.co/f/E9jyxATLW-Q/Kingsman%3A_The_Golden_Circle_%282017%29%E
 
 type=video
 name=Atomic Blonde (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
 date=2017-11-03
 URL=https://www.blazefile.co/embed-f2khi65ref9g.html
 #https://www.blazefile.co/embed-rbu3k8icqki3.html
@@ -314,7 +314,7 @@ URL=https://www.blazefile.co/embed-f2khi65ref9g.html
 #https://openload.co/f/4R-pXnuqC1I/Atomic_Blonde_2017_1080p_WEB-DL_DD5.1_H264-FGT.mkv.mp4
 type=video
 name=Atomic Blonde (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg
 date=2017-12-16
 URL=https://openload.co/f/9GEpvhqV4QM/Atomic_Blonde_%282017%29%E0%B8%9A%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C_%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B8%E0%B8%A2.mp4
 #https://openload.co/f/2jZl7koVNSQ/Atomic_Blonde_%282017%29%E0%B8%9A%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C_%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B8%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
@@ -322,13 +322,13 @@ URL=https://openload.co/f/9GEpvhqV4QM/Atomic_Blonde_%282017%29%E0%B8%9A%E0%B8%A5
 
 type=video
 name=Security (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/fG2SZwAAY4mNscLfvSiKyBxaVQy.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fG2SZwAAY4mNscLfvSiKyBxaVQy.jpg
 date=2017-08-16
 URL=https://openload.co/f/OyQjGshNbw4/Security.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://www.blazefile.co/embed-8h66so9ljb6o.html   web
 type=video
 name=Security (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/fG2SZwAAY4mNscLfvSiKyBxaVQy.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fG2SZwAAY4mNscLfvSiKyBxaVQy.jpg
 date=2017-12-16
 URL=https://openload.co/f/XDiyBxmiJI0/Security_%282017%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2.mp4
 #https://openload.co/f/HZM0_zLA9Ew/Security.2017.720p.WEB-DL.DD5.1.H264.ThaiRong5.1_CpT%40CtHts.mkv.mp4
@@ -336,14 +336,14 @@ URL=https://openload.co/f/XDiyBxmiJI0/Security_%282017%29%E0%B9%82%E0%B8%84%E0%B
 
 type=video
 name=Dunkirk (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
 date=2017-12-05
 URL=https://www.blazefile.co/embed-85eepc3x9dbe.html
 #https://openload.co/f/n2-4528FaJw/Dunkirk.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
 #https://openload.co/f/REZkiL6pA08/D.2017.NEW.HD-TS.X264-CPG.mkv
 type=video
 name=Dunkirk (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUqEgoP6kj8ykfNjJx3Tl5zHCcN.jpg
 date=2017-12-12
 URL=https://openload.co/f/0gMeAsm2UxM/Dunkirk_%282017%29%E0%B8%94%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%81.mp4
 #https://streamango.com/f/sedfakbbcbctceep/_MINI_Super-HQ_Dunkirk_2017_1080p_BrRip_DTS_x264_NongZEZA_CtHts_mkv_mp4
@@ -353,7 +353,7 @@ URL=https://openload.co/f/0gMeAsm2UxM/Dunkirk_%282017%29%E0%B8%94%E0%B8%B1%E0%B8
 
 type=video
 name=Ghost House (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/7EPOZv9bQjNVjFvk8lPGkcTubgO.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EPOZv9bQjNVjFvk8lPGkcTubgO.jpg
 date=2017-12-01
 URL=https://openload.co/f/XNspW7_dxc8/Ghost_House_%282017%29%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%99%E0%B8%A8%E0%B8%B2%E0%B8%A5.mp4
 #https://openload.co/f/FJ60frgwvyY/Ghost.House.2017.1080p.WEB-DL.ThaiRong5.1.H264_CpT%40CtHts.mkv.mp4
@@ -361,14 +361,14 @@ URL=https://openload.co/f/XNspW7_dxc8/Ghost_House_%282017%29%E0%B8%A1%E0%B8%B1%E
 
 type=video
 name=Wish Upon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
 date=2017-09-29
 URL=https://www.blazefile.co/embed-w1kdw7wlzjl9.html
 #https://openload.co/f/k3-alTvMyT8/Wish.Upon.2017.UNRATED.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/Yb9sKQH9gC8/Wish.Upon.2017.1080p.BluRay.x264-%255BYTS.AG%255D.mp4
 type=video
 name=Wish Upon (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg
 date=2017-12-05
 URL=https://openload.co/f/XGkYPZDI18w/Wish_Upon_%282017%29%E0%B8%9E%E0%B8%A3_%E0%B8%82%E0%B8%AD_%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
 #https://openload.co/f/wPfEYjRl8YI/Wish_Upon_%282017%29%E0%B8%9E%E0%B8%A3_%E0%B8%82%E0%B8%AD_%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
@@ -377,13 +377,13 @@ URL=https://openload.co/f/XGkYPZDI18w/Wish_Upon_%282017%29%E0%B8%9E%E0%B8%A3_%E0
 
 type=video
 name=Your Name. (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/xq1Ugd62d23K2knRUx6xxuALTZB.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq1Ugd62d23K2knRUx6xxuALTZB.jpg
 date=2017-07-28
 URL=https://www.blazefile.co/embed-urvciq22rkpc.html
 #https://openload.co/f/oJs5aOQQWMM/your.name.2016.1080p.bluray.x264-haiku.mkv.mp4
 type=video
 name=Your Name. (2016) TH
-thumb=https://image.tmdb.org/t/p/w640/xq1Ugd62d23K2knRUx6xxuALTZB.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq1Ugd62d23K2knRUx6xxuALTZB.jpg
 date=2017-12-05
 URL=https://openload.co/f/9NNIQkCXaK8/Your_Name._%282016%29%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B2%E0%B8%9D%E0%B8%B1%E0%B8%99_%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
 #https://openload.co/f/8t1FHvhif1Y/Your_Name._%282016%29%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B2%E0%B8%9D%E0%B8%B1%E0%B8%99_%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
@@ -391,7 +391,7 @@ URL=https://openload.co/f/9NNIQkCXaK8/Your_Name._%282016%29%E0%B8%AB%E0%B8%A5%E0
 
 type=video
 name=Bounty Hunters (2016) TH
-thumb=https://image.tmdb.org/t/p/w640/v9JhucyPqepNiHaHFuKmOLzKPs7.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9JhucyPqepNiHaHFuKmOLzKPs7.jpg
 date=2017-11-30
 URL=https://openload.co/f/FGXBOg7F9mE/BOUNTY_HUNTERS_%282016%29_-_%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%AC_%E0%B8%AE%E0%B8%B2_%E0%B8%97%E0%B9%89%E0%B8%B2_%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99_1080P.mkv.mp4
 
@@ -422,14 +422,14 @@ URL=https://openload.co/f/FGXBOg7F9mE/BOUNTY_HUNTERS_%282016%29_-_%E0%B8%97%E0%B
 #53---2017-11-28
 type=video
 name=By the Time It Gets Dark (2016) TH
-thumb=https://image.tmdb.org/t/p/w640/pGvgpLv9V8CFsY7oQqKuP7hgd0o.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGvgpLv9V8CFsY7oQqKuP7hgd0o.jpg
 date=2017-11-26
 URL=https://openload.co/f/gUV_dWrKXf8/by.the.time.it.gets.dark.2016.subbed.dvdrip.x264-bipolar.mkv.mp4
 
 
 type=video
 name=Valerian and the City of a Thousand Planets (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
 date=2017-11-10
 URL=https://www.blazefile.co/embed-gxg3f8m1pyvw.html
 #https://openload.co/f/5hcpPFHs6YI/Valerian.and.the.City.of.a.Thousand.Planets.2017.1080p.BluRay.x264-%5BYTS.PE%5D.mp4
@@ -437,7 +437,7 @@ URL=https://www.blazefile.co/embed-gxg3f8m1pyvw.html
 #https://openload.co/f/bE7l70d6i6E/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.KOR.HDRip.XviD-PCHD.avi.mp4
 type=video
 name=Valerian and the City of a Thousand Planets (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gAUf4f1748wSukyC3j1OtMRbeA.jpg
 date=2017-11-25
 URL=https://openload.co/f/mRG8FDugEDs/Valerian_and_the_City_of_a_Thousand_Planets_%282017%29%E0%B8%A7%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99_%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5.mp4
 #https://openload.co/f/WryZw7hqgJE/Valerian.and.the.City.of.a.Thousand.Planets.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
@@ -447,20 +447,20 @@ URL=https://openload.co/f/mRG8FDugEDs/Valerian_and_the_City_of_a_Thousand_Planet
 
 type=video
 name=Irrational Man (2015) TH
-thumb=https://image.tmdb.org/t/p/w640/aBHkXfleH4MBTUqrCQYCIGbp9Fd.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBHkXfleH4MBTUqrCQYCIGbp9Fd.jpg
 date=2017-11-20
 URL=https://openload.co/f/d_zpw10LDlo/Irrational_Man_%282015%29%E0%B8%AD%E0%B8%B4%E0%B9%80%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B8%A5_%E0%B9%81%E0%B8%A1%E0%B8%99.mp4
 
 type=video
 name=Peach Girl (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/2tmEMKZlxMZjBCjKfnZGRhjV3VP.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tmEMKZlxMZjBCjKfnZGRhjV3VP.jpg
 date=2017-11-20
 URL=https://openload.co/f/4ZNKcOjkO9I/Peach_Girl_%282017%29%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
 #https://openload.co/f/HJLIjWXVpiQ/Peach_Girl_%282017%29_TH.mp4
 
 type=video
 name=Bad Genius (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/mgyvwqn5SYKhfg5kofZDfgH8R0q.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgyvwqn5SYKhfg5kofZDfgH8R0q.jpg
 date=2017-11-20
 URL=https://openload.co/f/73WSws3H0GU/Bad_Genius_%282017%29%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87.mp4
 #https://openload.co/f/oRz7Tgi0FiA/Bad_Genius_%282017%29_TH.mp4
@@ -473,7 +473,7 @@ URL=https://openload.co/f/73WSws3H0GU/Bad_Genius_%282017%29%E0%B8%89%E0%B8%A5%E0
 
 type=video
 name=Cars 3 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
 date=2017-10-27
 URL=https://www.blazefile.co/embed-1wsrgoe1ue1s.html
 #https://openload.co/f/gsc-L0AOQFw/Cars.3.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
@@ -483,7 +483,7 @@ URL=https://www.blazefile.co/embed-1wsrgoe1ue1s.html
 #https://openload.co/f/0SJYdj01mVs/Cars.3.2017.720p.WEB-DL.800MB.MkvCage.mkv
 type=video
 name=Cars 3 (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg
 date=2017-11-20
 URL=https://openload.co/f/VUgiJZq4ZQM/Cars_3_%282017%29%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87_%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C.mp4
 #https://openload.co/f/R_9ewXbWxAo/Car.3.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
@@ -494,21 +494,21 @@ URL=https://openload.co/f/VUgiJZq4ZQM/Cars_3_%282017%29%E0%B8%AA%E0%B8%B5%E0%B9%
 
 type=video
 name=The Physician (2013) TH
-thumb=https://image.tmdb.org/t/p/w640/zOnuvmY4vuabnkEZwQAXvErIaTE.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOnuvmY4vuabnkEZwQAXvErIaTE.jpg
 date=2017-11-10
 URL=https://openload.co/f/JIL4YRj_CuQ/%7BMINI_Super-HQ%7D_The.Physician.2013.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 
 type=video
 name=Annabelle: Creation (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
 date=2017-10-12
 URL=https://www.blazefile.co/embed-irygfv72plwv.html
 #https://openload.co/f/x9V80eEiTR8/Annabelle.2.Creation.2017.720p.BluRay.x264-SPARKS.mkv.mp4
 #https://vidnodessl.akamaized.net/246357/19.10/ANNABELLE-%20CREATION.mp4
 type=video
 name=Annabelle: Creation (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg
 date=2017-11-12
 URL=https://openload.co/f/1Px7VjoehB8/Annabelle%3A_Creation_%282017%29TH.mp4
 #https://streamango.com/f/qpmneeoldnoatdlr/_
@@ -519,13 +519,13 @@ URL=https://openload.co/f/1Px7VjoehB8/Annabelle%3A_Creation_%282017%29TH.mp4
 
 type=video
 name=Kill Switch (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
 date=2017-08-13
 URL=https://www.blazefile.co/embed-6417wk6ln1uf.html
 #https://openload.co/f/3Hh9IMiQq4c/Telegram_%40khore_film-Kill.Switch.2017.1080p.BluRay.H264.AAC.mp4
 type=video
 name=Kill Switch (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8K6pfMcT3hiIlCFw2RrHoXLshxl.jpg
 date=2017-11-12
 URL=https://openload.co/f/nLOnEywfnLE/Kill.Switch.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 #https://openload.co/f/O2ypROm0y2E/Kill-Switch-2017-TH-Bluray-1080p.mp4
@@ -535,7 +535,7 @@ URL=https://openload.co/f/nLOnEywfnLE/Kill.Switch.2017.1080p.BrRip.DTS.x264_Nong
 
 type=video
 name=Wu Kong (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/srdxQhvnLVnZjjUF7UwVBtbyvXj.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/srdxQhvnLVnZjjUF7UwVBtbyvXj.jpg
 date=2017-11-15
 URL=https://openload.co/f/SkyzeE5yttk/Wu.kong.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 #https://openload.co/f/8jimwsDMf9E/Wu_Kong_%282017%29TH.mp4
@@ -547,20 +547,20 @@ URL=https://openload.co/f/SkyzeE5yttk/Wu.kong.2017.1080p.BrRip.DTS.x264_NongZEZA
 
 type=video
 name=The Void (2016) TH
-thumb=https://image.tmdb.org/t/p/w640/nH1YZAL8IeIQEOm2ewi5ncpuPQG.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nH1YZAL8IeIQEOm2ewi5ncpuPQG.jpg
 date=2017-10-27
 URL=https://openload.co/f/3baUszxCUEA/The_Void_%282016%29%E0%B9%81%E0%B8%97%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87.mp4
 
 
 type=video
 name=2:22 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
 date=2017-07-15
 URL=https://www.blazefile.co/embed-xjd2874xqmwp.html
 #https://openload.co/f/7wywF5jXNdY/2.22.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 type=video
 name=2:22 (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8m3SQifrJPUYobWEVm41Kz8iDP.jpg
 date=2017-10-27
 URL=https://openload.co/f/IKpa0F_NVH0/2%3A22_%282017%29%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B9%80%E0%B8%89%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
 
@@ -576,7 +576,7 @@ description=This film is a remake of the 1989 Doraemon Movie 10: Nobita no Nippo
 
 type=video
 name=The Dark Tower (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
 date=2017-10-08
 URL=https://www.blazefile.co/embed-v30g5qa1xbvr.html
 #https://openload.co/f/n1NusIGiyd0/The.Dark.Tower.2017.1080p.BRRip.6CH.MkvCage.mkv
@@ -587,14 +587,14 @@ URL=https://www.blazefile.co/embed-v30g5qa1xbvr.html
 #https://openload.co/f/73tvjUxurNg/The_Dark_Tower_%282017%29_%5B1080p%5D_BluRay_x264_DTS-SHITBOX_mkv_mp4
 type=video
 name=The Dark Tower (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9GUSgddIqrroubiLsvvMRYyRy0.jpg
 date=2017-10-21
 URL=https://openload.co/f/lDv0odNCyNk/The_Dark_Tower_%282017%29%E0%B8%AB%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%A2%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC.mp4
 
 
 type=video
 name=Napping Princess (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/mlfjgqmmJldRyi35ziR2L6FV0r.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlfjgqmmJldRyi35ziR2L6FV0r.jpg
 date=2017-10-20
 URL=https://openload.co/f/VDZN45BVu_4/Napping_Princess_%282017%29%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%9A%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%95%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 
@@ -605,7 +605,7 @@ URL=https://openload.co/f/VDZN45BVu_4/Napping_Princess_%282017%29%E0%B8%AA%E0%B8
 
 type=video
 name=Two Is a Family (2016) TH
-thumb=https://image.tmdb.org/t/p/w640/muwaDIv5cLv2Z07CZFWOsL7lYuO.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/muwaDIv5cLv2Z07CZFWOsL7lYuO.jpg
 date=2017-10-20
 URL=https://openload.co/f/BpKbPNFbtAY/Two_Is_a_Family_%282016%29%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%88_%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99.mp4
 #https://openload.co/f/mqpFoIhxKTw/%7BMINI_Super-HQ%7D_Two.Is.A.Family.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
@@ -613,32 +613,32 @@ URL=https://openload.co/f/BpKbPNFbtAY/Two_Is_a_Family_%282016%29%E0%B8%AB%E0%B8%
 
 type=video
 name=Bitter Harvest (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/n6qOtH7LWsv4UaxAfZ5uQjDnzBE.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6qOtH7LWsv4UaxAfZ5uQjDnzBE.jpg
 date=2017-10-25
 URL=https://www.blazefile.co/embed-n01k1h3x9sv4.html
 type=video
 name=Bitter Harvest (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/n6qOtH7LWsv4UaxAfZ5uQjDnzBE.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6qOtH7LWsv4UaxAfZ5uQjDnzBE.jpg
 date=2017-10-28
 URL=https://openload.co/f/P_0JZSJMNPs/Bitter_Harvest_%282017%29%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%83%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%9A.mp4
 
 
 type=video
 name=The Secret (2016) TH
-thumb=https://image.tmdb.org/t/p/w640/iG1l5W0kJoefrheUkCsDzr8n3qe.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iG1l5W0kJoefrheUkCsDzr8n3qe.jpg
 date=2017-10-20
 URL=https://openload.co/f/yCftf4Gf3OU/The_Secret_%282016%29%E0%B8%A3%E0%B8%B1%E0%B8%81...%E0%B9%80%E0%B8%A3%E0%B9%89%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A.mp4
 
 type=video
 name=Alice in Wonderland (1951) TH
-thumb=https://image.tmdb.org/t/p/w640/9gJa2B6M8jt85aDkb0MF98MLZ9T.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gJa2B6M8jt85aDkb0MF98MLZ9T.jpg
 date=2017-10-16
 URL=https://openload.co/f/2V7V0W1hBUE/Alice_in_Wonderland_%281951%29%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%8B%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C.mp4
 
 
 type=video
 name=The Emoji Movie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvr5etD00qupuL0YcTVfz8msJCa.jpg
 date=2017-10-10
 URL=https://www.blazefile.co/embed-ilnddc6h8x1t.html
 #https://openload.co/f/E-pgDeg0YIk/the.emoji.movie.2017.1080p.bluray.x264-drones.mkv
@@ -648,7 +648,7 @@ URL=https://www.blazefile.co/embed-ilnddc6h8x1t.html
 #https://openload.co/f/M9oyuRqh08I/the.emoji.movie.2017.repack.1080p.bluray.x264-drones.mkv.mp4
 type=video
 name=The Emoji Movie (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/fvr5etD00qupuL0YcTVfz8msJCa.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvr5etD00qupuL0YcTVfz8msJCa.jpg
 date=2017-10-16
 URL=https://openload.co/f/VCeBTPsFl54/The_Emoji_Movie_%282017%29%E0%B8%AD%E0%B8%B4%E0%B9%82%E0%B8%A1%E0%B8%88%E0%B8%B4_%E0%B9%81%E0%B8%AD%E0%B9%8A%E0%B8%9E%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 #https://openload.co/f/u-l7sfrizb8/The.Emoji.Movie.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts_%281%29.mkv.mp4
@@ -659,13 +659,13 @@ URL=https://openload.co/f/VCeBTPsFl54/The_Emoji_Movie_%282017%29%E0%B8%AD%E0%B8%
 
 type=video
 name=Blade Runner (1982) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/p64TtbZGCElxQHpAMWmDHkWJlH2.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p64TtbZGCElxQHpAMWmDHkWJlH2.jpg
 date=2017-10-25
 URL=https://www.blazefile.co/embed-91oykt5nog8i.html
 #https://openload.co/f/GQfX8x3J1qE/Blade.Runner.1982.The.Final.Cut.720p.iNTERNAL.BluRay.x264-MOOVEE.mkv.mp4
 type=video
 name=Blade Runner (1982) TH
-thumb=https://image.tmdb.org/t/p/w640/p64TtbZGCElxQHpAMWmDHkWJlH2.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p64TtbZGCElxQHpAMWmDHkWJlH2.jpg
 date=2017-10-14
 URL=https://openload.co/f/wdwZ0KXbglk/Blade_Runner_%281982%29%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C.mp4
 #https://s1.037hd.ws/907001-/903415.MP4
@@ -686,14 +686,14 @@ URL=https://openload.co/f/wdwZ0KXbglk/Blade_Runner_%281982%29%E0%B9%80%E0%B8%9A%
 #23
 type=video
 name=War for the Planet of the Apes (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijQHiImv16vNSeZQsmih04kwn0C.jpg
 date=2017-11-27
 URL=https://www.blazefile.co/embed-vxyy62bthpw6.html
 #https://openload.co/f/An6KwsvHsPU/War_For_The_Planet_Of_The_Apes_%282017%29_%5B1080p%5D_BluRay_H264_AAC-RARBG_mp4
 #https://openload.co/f/dy1pgUl0Ay0/war.for.the.planet.of.the.apes.2017.720p.bluray.x264.blow-mkv.mp4
 type=video
 name=War for the Planet of the Apes (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/ijQHiImv16vNSeZQsmih04kwn0C.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijQHiImv16vNSeZQsmih04kwn0C.jpg
 date=2017-10-16
 URL=https://openload.co/f/q7Vvlz2dG38/War_for_the_Planet_of_the_Apes_%282017%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3.mp4
 #https://openload.co/f/Phq3ESBtmr0/War_for_the_Planet_of_the_Apes_%282017%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3.mp4
@@ -701,26 +701,26 @@ URL=https://openload.co/f/q7Vvlz2dG38/War_for_the_Planet_of_the_Apes_%282017%29%
 
 type=video
 name=The Promise (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/iDWer2VFikupdqDc7d5sxCWZ3gW.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDWer2VFikupdqDc7d5sxCWZ3gW.jpg
 date=2017-10-25
 URL=https://www.blazefile.co/embed-1m2q3ca1sozo.html
 type=video
 name=The Promise (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/iDWer2VFikupdqDc7d5sxCWZ3gW.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDWer2VFikupdqDc7d5sxCWZ3gW.jpg
 date=2017-10-13
 URL=https://openload.co/f/bkuwdXJh1Cc/The_Promise_%282017%29%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81_%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A3%E0%B8%9A.mp4
 
 
 type=video
 name=Kidnap (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
 date=2017-09-07
 URL=https://www.blazefile.co/embed-m2zdbqkeobbh.html
 #https://openload.co/f/1S7X9_niZmw/Kidnap.2017.1080p.bluray.x264-VETO.mkv
 #https://www.blazefile.co/embed-m2zdbqkeobbh.html
 type=video
 name=Kidnap (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg
 date=2017-10-19
 URL=https://openload.co/f/WJYHI55enfw/Kidnap_%282017%29%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
 
@@ -743,12 +743,12 @@ description=Samantha Kingston has everything. Then, everything changes. After on
 
 type=video
 name=The Monster (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/sxrYq3pcCPkB308FQR4lkKdoUBe.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxrYq3pcCPkB308FQR4lkKdoUBe.jpg
 date=2017-10-25
 URL=https://www.blazefile.co/embed-1me0dq82ki8o.html
 type=video
 name=The Monster (2016) TH
-thumb=https://image.tmdb.org/t/p/w640/sxrYq3pcCPkB308FQR4lkKdoUBe.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxrYq3pcCPkB308FQR4lkKdoUBe.jpg
 date=2017-10-13
 URL=https://openload.co/f/5K51BRttEIU/The_Monster_%282016%29%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99.mp4
 #https://openload.co/f/OYvrEbBMqas/The_Monster_%282016%29%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99.mp4
@@ -756,7 +756,7 @@ URL=https://openload.co/f/5K51BRttEIU/The_Monster_%282016%29%E0%B8%AD%E0%B8%B0%E
 
 type=video
 name=Let's Go, Jets! (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/heL1ydkUCetltzr0ZrfqDhZiN4Q.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/heL1ydkUCetltzr0ZrfqDhZiN4Q.jpg
 date=2017-10-25
 URL=https://openload.co/f/gmkDsSjqrSM/Let%27s_Go%2C_Jets%21_%282017%29%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%A5_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
 #https://openload.co/f/5rymHO5HkZk/Let%27s_Go%2C_Jets%21_%282017%29%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%A5_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
@@ -764,32 +764,32 @@ URL=https://openload.co/f/gmkDsSjqrSM/Let%27s_Go%2C_Jets%21_%282017%29%E0%B9%80%
 
 type=video
 name=Shut In (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/qXIGq6ddQhIYe4Z7A86nZ1qjUME.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXIGq6ddQhIYe4Z7A86nZ1qjUME.jpg
 date=2017-10-25
 URL=https://www.blazefile.co/embed-57nk0frprtvp.html
 type=video
 name=Shut In (2016) TH
-thumb=https://image.tmdb.org/t/p/w640/qXIGq6ddQhIYe4Z7A86nZ1qjUME.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXIGq6ddQhIYe4Z7A86nZ1qjUME.jpg
 date=2017-10-13
 URL=https://openload.co/f/bW1AdR1GQZo/Shut_In_%282016%29%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99_%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
 
 
 type=video
 name=Will You Be There (2016) TH
-thumb=https://image.tmdb.org/t/p/w640/bD411sxTDDVwYAhux63aWH51jbL.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bD411sxTDDVwYAhux63aWH51jbL.jpg
 date=2017-10-12
 URL=https://openload.co/f/BfgVlVUGr7E/Will_You_Be_There_%282016%29%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2.mp4
 
 
 type=video
 name=Sniper: Ultimate Kill (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/pi16aubY3qFKJWAh4npvm03ERkH.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pi16aubY3qFKJWAh4npvm03ERkH.jpg
 date=2017-10-06
 URL=https://www.blazefile.co/embed-mlx1gbyq9y6n.html
 #https://openload.co/f/83MCBzRY3xQ/Sniper.Ultimate.Kill.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
 type=video
 name=Sniper: Ultimate Kill (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/pi16aubY3qFKJWAh4npvm03ERkH.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pi16aubY3qFKJWAh4npvm03ERkH.jpg
 date=2017-10-10
 URL=https://openload.co/f/alnt3yDQnCA/Sniper%3A_Ultimate_Kill_%282017%29TH.mp4
 
@@ -812,7 +812,7 @@ description=After an alien ship crash lands onto a Russian city, many who have s
 
 type=video
 name=Transformers: The Last Knight (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
 date=2017-09-15
 URL=https://openload.co/f/menAdwUJ8js/Transformers.The.Last.Knight.2017.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
 #https://openload.co/f/jw76f78k7Ps/Transformers.The.Last.Knight.2017.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -820,54 +820,54 @@ URL=https://openload.co/f/menAdwUJ8js/Transformers.The.Last.Knight.2017.1080p.Bl
 #https://openload.co/f/IYCUnnMhu0o/Transformers_The_Last_Knight_%282017%29_%5B1080p%5D_%5BBluRay%5D_%5B1.5GB%5D.mp4
 type=video
 name=Transformers: The Last Knight (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8Ng1Sgb3VLiSwAvrfKeQPzvlfr.jpg
 date=2017-10-05
 URL=https://openload.co/f/hMX0jGq8QB4/Transformers%3A_The_Last_Knight_%282017%29%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA_5%3A_%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2.mp4
 
 
 type=video
 name=Detective Conan: Crimson Love Letter (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/shpjDVjugLMoc4Wt1eRdueH5IOf.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/shpjDVjugLMoc4Wt1eRdueH5IOf.jpg
 date=2017-10-28
 URL=https://openload.co/f/ptxBMuyL9e8/Detective_Conan%3A_Crimson_Love_Letter_%282017%29%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%A7_%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B9%E0%B9%88%E0%B8%A7%E0%B8%B5%E0%B9%88_21%3A_%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
 
 
 type=video
 name=Baby Driver (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/mBkOBaxjr7IBHGuQS3sSFeyYTM.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBkOBaxjr7IBHGuQS3sSFeyYTM.jpg
 date=2017-09-26
 URL=https://www.blazefile.co/embed-l6vwd0tkosji.html
 #https://openload.co/f/dwIK2e31alw/Baby.Driver.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
 type=video
 name=Baby Driver (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/mBkOBaxjr7IBHGuQS3sSFeyYTM.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBkOBaxjr7IBHGuQS3sSFeyYTM.jpg
 date=2017-10-01
 URL=https://openload.co/f/YVEeNi9uziA/Baby_Driver_%282017%29%E0%B8%88%E0%B8%B5%E0%B9%89_%E0%B9%80%E0%B8%9A%E0%B8%9A%E0%B8%B5%E0%B9%89_%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99.mp4
 #https://openload.co/f/mjQ0MaSzysk/Baby.Driver.2017.1080p.BrRip.DTS.x264_hdfile4you.clubhd4you.net.mkv.mp4
 
 type=video
 name=Rough Night (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg
 date=2017-10-17
 URL=https://www.blazefile.co/embed-5ifkmm7tpsvt.html
 #https://openload.co/f/7P_ZcLcOCKY/Rough.Night.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/hlHoOQKd_D8/rough.night.2017.720p.bluray.x264.blow-mkv.mp4
 type=video
 name=Rough Night (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg
 date=2017-10-01
 URL=https://openload.co/f/-2OmhCsiyUE/Rough_Night_%282017%29%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B5%E0%B9%89%E0%B8%8A%E0%B8%B0%E0%B8%99%E0%B8%B5%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99.mp4
 #https://storage.googleapis.com/staging.europe-west-181907.appspot.com/Newmovies/dy-hot/Rough.Night.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=My Cousin Rachel (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w640/yz9Pnx5tbpZOHWsCD0LtoTCgmLi.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yz9Pnx5tbpZOHWsCD0LtoTCgmLi.jpg
 date=2017-08-19
 URL=https://www.blazefile.co/embed-nzha21ql4kik.html
 #https://openload.co/f/Rw2KpdwkhpE/My.Cousin.Rachel.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 type=video
 name=My Cousin Rachel (2017) TH
-thumb=https://image.tmdb.org/t/p/w640/yz9Pnx5tbpZOHWsCD0LtoTCgmLi.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yz9Pnx5tbpZOHWsCD0LtoTCgmLi.jpg
 date=2017-10-01
 URL=https://openload.co/f/g1GR4NWh22M/My_Cousin_Rachel_%282017%29%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%B2%E0%B8%87_%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0.mp4
 
