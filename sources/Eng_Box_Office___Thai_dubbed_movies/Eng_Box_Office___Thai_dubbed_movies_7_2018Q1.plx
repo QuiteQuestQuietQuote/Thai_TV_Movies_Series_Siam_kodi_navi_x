@@ -412,11 +412,6 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK9CugRd3DIP0THBH8WlGrvk5v
 date=2018-01-12
 URL=https://openload.co/f/OtVuIulR2_c/Acts.of.Violence.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
-type=video
-name=Same Kind of Different as Me (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCTwHtXBVL96ImKDwm5T8pPNO41.jpg
-date=2018-01-05
-URL=https://openload.co/f/qItzmC2ilFI/Same.Kind.of.Different.as.Me.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 
 
@@ -1212,9 +1207,19 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/62oRA7ghxL9HGFHe5Dd9IVljyK
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
+type=video
+name=Same Kind of Different as Me (2017) ENG BRRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCTwHtXBVL96ImKDwm5T8pPNO41.jpg
+date=2018-02-08
+URL=https://openload.co/f/ya7riPaKiWM/Same_Kind_of_Different_as_Me.2017.BRRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/qItzmC2ilFI/Same.Kind.of.Different.as.Me.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/ya7riPaKiWM/Same_Kind_of_Different_as_Me.2017.BRRip.XviD.AC3-EVO.avi.mp4
 
-
-
+type=video
+name=The Ballad of Lefty Brown (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4V5Q8HHewIOeanTr6oAnOQdqPY9.jpg
+date=2018-02-08
+URL=https://openload.co/f/GHdGHUwdigQ/The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 
 
@@ -1302,10 +1307,41 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-07
+date=2018-02-08
 URL=
 
 
+type=video
+name=The Young Karl Marx (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxxDCQb3CJzXOh8rCT5CbsG1ikj.jpg
+date=2018-02-08
+URL=https://openload.co/f/86IZwnSfhpc/Le_jeune_Karl_Marx_2017_1080p_BluRay_DD5.1_x264-EA.mp4
+
+type=video
+name=Accident Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHFKej3Dbr8kGRSRHpkoFHq9TJQ.jpg
+date=2018-02-06
+URL=https://openload.co/f/o_FrBNytVxs/Accident.Man.2018.1080p.BluRay.x264-NODLABS.mkv.mp4
+#https://openload.co/f/JfQBLt2vCSg/Accident.Man.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/jRNgI6KShSc/Accident.Man.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Close-Knit (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkF40UzT5KAWEL9g3dkPtlfQCwL.jpg
+date=2018-02-08
+URL=https://openload.co/f/KbclytoDsQ8/close-knit.2017.1080p.bluray.x264-usury.mkv.mp4
+
+type=video
+name=Operation Goldenshell (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BNTJiYWVhNDQtNjc1Zi00NWZkLWI3ZjYtMzMyMjgyMTgyOTc1XkEyXkFqcGdeQXVyMjIxNzA1MzA@._V1_SY1000_SX700_AL_.jpg
+date=2018-02-08
+URL=https://openload.co/f/FYES-VfqJhg/operation.golden.shell.2017.1080p.bluray.x264-bipolar.mkv.mp4
+
+type=video
+name=Fixed (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCO0jDm1zcUZRMLwB6ZPSk5pj60.jpg
+date=2018-02-08
+URL=https://openload.co/f/G9P7ylNs5QA/Fixed.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Daddy's Home 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1334,8 +1370,9 @@ URL=https://openload.co/f/-GDTCeNjhLE/Smartass_%282017%29_%5B1080p%5D_BluRay_x26
 type=video
 name=Loveless (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/myFTOsVDxu5sAWcw8hr0LlxBLnq.jpg
-date=2018-02-06
-URL=https://openload.co/f/ju0ziz2gjOg/Loveless_2017_MULTi_1080p_BRRip_x264_AAC_-_Hon3y.mkv.mp4
+date=2018-02-08
+URL=https://openload.co/f/Iodnox4rkIs/Loveless.%5BNelyubov%5D.2017.ORIGINAL.1080p.BRRip.x264.AC3.HORiZON-ArtSubs.mkv.mp4
+#https://openload.co/f/ju0ziz2gjOg/Loveless_2017_MULTi_1080p_BRRip_x264_AAC_-_Hon3y.mkv.mp4
 
 type=video
 name=Mathilde (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
@@ -1542,6 +1579,7 @@ thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BYTJhNjYyMGItODdhOC00Z
 date=2018-01-27
 URL=https://www.blazefile.co/embed-ifqcrh15lxci.html
 #https://uptobox.com/oxhk3er0zt6i
+#https://openload.co/f/1adr2dRsK3Y/batman.gotham.by.gaslight.2018.1080p.bluray.x264-veto.mkv.mp4
 #https://openload.co/f/8YpAKDVQFBc/Batman.Gotham.by.Gaslight.2018.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
 #https://openload.co/f/YWvx1iydB_4/Batman.Gotham.by.Gaslight.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://www.blazefile.co/embed-hihlu3imeqzp.html   720
@@ -3081,11 +3119,10 @@ date=2018-02-05
 URL=https://openload.co/f/8PbIUxF4LPE/L%E2%80%99amant_Double_%28The_Double_Lover%29_%282017%29.FRENCH.720p.BRRip.999MB.MkvCage.mp4
 
 type=video
-name=Accident Man (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BM2Y1NWNmYTQtYTc1ZC00OWE1LWFiZWQtOWJjZDMwMTNkYmQ1XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg
-date=2018-02-06
-URL=https://openload.co/f/JfQBLt2vCSg/Accident.Man.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
-#https://openload.co/f/jRNgI6KShSc/Accident.Man.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+name=The Little Vampire 3D (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwFnMw183U486o5zfSULi6XHb0c.jpg
+date=2018-02-08
+URL=https://openload.co/f/jycmRNF5eas/The.Little.Vampire.2017.720p.BluRay.x264-MERLiNA.mkv.mp4
 
 
 
@@ -3376,9 +3413,15 @@ URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8
 type=video
 name=
 thumb=
-date=2018-02-03
+date=2018-02-08
 URL=
 
+
+type=video
+name=Real (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/65OspkJC1wjUJOFlP4NWBiEl4I1.jpg
+date=2018-02-08
+URL=https://streamango.com/f/tksradatlsfqprtd/Real_2017_
 
 
 type=video
@@ -4261,10 +4304,11 @@ URL=https://streamango.com/f/plcmptlmssflemdb/24_Hours_to_Live_2017_24_
 
 
 type=video
-name=Renegades (2017) ENG WEB-DL.DD5.1.H264-CMRG
+name=Renegades (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
-date=2018-01-06
-URL=https://openload.co/f/DyatEMF7zmU/Renegades.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+date=2018-02-08
+URL=https://openload.co/f/XV-iGb1ef04/Renegades.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/DyatEMF7zmU/Renegades.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 #https://openload.co/f/JzSw1qm2gy0/Renegades.2017.CAM.READNFO.XViD-26k.avi.mp4
 type=video
 name=Renegades (2017) THCAM SOUND
@@ -4530,11 +4574,31 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-03
+date=2018-02-08
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
+
+
+
+type=video
+name=Pride (2014) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fk81iMvZTYo7MaYWGirPc0uzA55.jpg
+date=2018-02-08
+URL=https://openload.co/f/yMHlDDM5vwQ/Pride_%282014%29%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%99.mp4
+
+type=video
+name=Dirty Girl (2010) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wyyNds6MYPV0Kkzf5oGHTm8VGg.jpg
+date=2018-02-08
+URL=https://openload.co/f/VPFhQ8e7E3o/Dirty_Girl_%282010%29%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%9A%E0%B9%80%E0%B8%A7%E0%B9%88%E0%B8%AD%E0%B8%A3%E0%B9%8C.mp4
+
+type=video
+name=Silence (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHM6i6se7mwKGRDvW4nQC7dkeKI.jpg
+date=2018-02-08
+URL=https://openload.co/f/POLZ38RYa60/Silence_%282016%29%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%B2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%87%E0%B8%B5%E0%B8%A2%E0%B8%9A.mp4
 
 type=video
 name=The Promise (2017) TH
