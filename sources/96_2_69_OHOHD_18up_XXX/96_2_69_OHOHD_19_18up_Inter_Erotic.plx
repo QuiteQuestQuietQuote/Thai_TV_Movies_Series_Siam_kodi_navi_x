@@ -270,7 +270,7 @@ date=2017-10-08
 URL=https://openload.co/f/9e9warQrpHA/Dial_Help_1988.Dramucom.avi.mp4
 
 type=video
-name=Adaline (2015) MKV
+name=Adaline (2015)
 thumb=https://image.tmdb.org/t/p/w640/hgjWwCbRyTYzOCDKkglocU821h4.jpg
 date=2017-10-08
 URL=https://www.blazefile.co/embed-godf5ke51847.html
@@ -324,7 +324,8 @@ type=video
 name=Dirty Beautiful (2015)
 thumb=https://image.tmdb.org/t/p/w640/iBOOsrMZJ9fZ3REi4ontbp8giGO.jpg
 date=2017-09-03
-URL=https://openload.co/f/rceqYEWmBBE/D.B.2015.720p.web.h264-strife.mkv.mp4
+URL=http://entervideo.net/watch/ab6f9de0cb97a8f
+#https://openload.co/f/rceqYEWmBBE/D.B.2015.720p.web.h264-strife.mkv.mp4
 #http://entervideo.net/watch/ab6f9de0cb97a8f
 
 type=video
@@ -435,7 +436,8 @@ type=video
 name=Original Sin (2001)
 thumb=https://image.tmdb.org/t/p/w640/i8FEQy5IWAqOzXm4uDHy2r3Swym.jpg
 date=2017-08-15
-URL=https://openload.co/f/nVQdrrJUres/fmv_Original_Sin.2001.HD_1080p.mp4
+URL=https://www.blazefile.co/embed-3scxm9k9v02k.html
+#https://openload.co/f/nVQdrrJUres/fmv_Original_Sin.2001.HD_1080p.mp4
 
 type=video
 name=Renoir (2012)
@@ -727,7 +729,8 @@ type=video
 name=The Handmaiden (2016)
 thumb=https://image.tmdb.org/t/p/w640/cw1BvSDk4wyHHpVStj4t82pAvq7.jpg
 date=2017-08-15
-URL=https://openload.co/f/6VzHDcHt2aM/the.handmaiden.2016.limited.extended.720p.bluray.x264-usury.mkv.mp4
+URL=https://www.blazefile.co/embed-va702hnhlt07.html
+#https://openload.co/f/6VzHDcHt2aM/the.handmaiden.2016.limited.extended.720p.bluray.x264-usury.mkv.mp4
 #https://www.blazefile.co/embed-f26ylli6izl2.html
 
 type=video
