@@ -53,6 +53,154 @@ URL=
 
 
 
+type=video
+name=72xxxxxxxxxxxxxxxxxxxxPurpose Of Reunion 3 (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Purpose-Of-Reunion-3-2017.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/qmbfmlbtnmedbqms/
+
+type=video
+name=Jeolm Eun Jangmo (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Jeolm-Eun-Jangmo-2018.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/snatseqantpqeeck/
+
+type=video
+name=Nae Yeojaga Doen Hyeongsu (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Nae-Yeojaga-Doen-Hyeongsu-2018.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/epsrqmaqprtetptn/
+
+type=video
+name=Wife During The Part-Time Job (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Wife-During-The-Part-Time-Job-2017.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/dnrcefoktflabreo/
+
+type=video
+name=Dental Clinic Of Desire (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Dental-Clinic-Of-Desire-2016.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/trensaopkadseslq/
+
+
+type=video
+name=Couple Exchange Sex 2 (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Couple-Exchange-Sex-2-2017-Uncut.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/poodfnrssenbdcpn/
+
+type=video
+name=Good Mom (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Good-Mom-2018-Uncut.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/lflnbbettcfeblnt/
+
+type=video
+name=Wanna Fuck With Sister-In-Law Who Looks Very Dirty (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Wanna-Fuck-With-Sister-In-Law-Who-Looks-Very-Dirty-2016.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/bfkbpsklqlkmfplr/
+
+type=video
+name=Jeongsa Jiltuui Deoch (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Jeongsa-Jiltuui-Deoch-2017.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/damdndfaffeclake/
+
+type=video
+name=An Affair – My Friend’s Mom (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/An-Affair-My-Friends-Mom-2017.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/sommqrtnatlfltlf/
+
+
+type=video
+name=Black Underwear Woman Lustful Red Nectar (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Black-Underwear-Woman-Lustful-Red-Nectar-2016.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/paklndnkbflofssp/
+
+type=video
+name=Woman In The Box (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Woman-In-The-Box-2017.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/anlcsfeepsakobbo/
+
+type=video
+name=Dekigokoro (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Dekigokoro-2016.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/cpqlqqpdedbsttnp/
+
+type=video
+name=A love affair of the heirs beautiful wife (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/A-love-affair-of-the-heirs-beautiful-wife-2015.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/fecelmeeakdqapsr/
+
+type=video
+name=Her True Nature (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Her-True-Nature-2009.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/mmltofpodfatqslk/
+
+
+type=video
+name=Sex And The Emperor (1994)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Sex-And-The-Emperor-1994.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/pcpoafldbnefoeoe/
+
+type=video
+name=Showa Adultery Story – Housekeeper to be tortured (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Showa-Adultery-Story-Housekeeper-to-be-tortured-2015.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/orcqflbsmkefplsb/
+
+type=video
+name=The Pleasure Due To Exposure Busty Young Wife (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/The-Pleasure-Due-To-Exposure-Busty-Young-Wife-2015.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/lnbafooornkoffqn/
+
+type=video
+name=Scandal (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Scandal-2016.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/cnnssqdfflaaeado/
+
+type=video
+name=I Want To Become A Younger Sister (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/I-Want-To-Become-A-Younger-Sister-2016.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/fpcdsafpmncmcrnb/
+
+
+type=video
+name=Gorgeous Sisters (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Gorgeous-Sisters-2015.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/mrplkcrrnoaprfkl/
+
+type=video
+name=Married Woman 9 (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Married-Woman-9-2015.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/loasdedraknrnkkn/
+
+type=video
+name=Murasaki Ayano Kacho Ayano (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Murasaki-Ayano-Kacho-Ayano-2010.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/mkcnkktscstspfen/
+
+type=video
+name=P.S. Girls (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/P.S.-Girls-2016.jpg
+date=2018-02-09
+URL=https://streamcherry.com/embed/bffartkdbmpsdsfk/
+
 
 
 
