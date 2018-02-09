@@ -44,9 +44,9 @@ URL=http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlis
 
 type=video
 name=
-thumb=https://2.bp.blogspot.com/-dd5bWZ-tL-k/WdLY5f19XsI/AAAAAAAAAJs/xvG608PIzGsMCA39j6DxYRhvFf_Tkr4mACLcBGAs/s320/064.png
+thumb=https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png
 date=2017-10-29
-URL=http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
+URL=http://191.96.38.49:443/free41/0x777_bbcearth_720p/chunklist.m3u8
 
 type=video
 name=
@@ -59,9 +59,15 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-02-07
+date=2018-02-09
 URL=https://videos-lwcdn.pornhd.com/video_hq/169/1E8kd1vM2F/video_hq.mp4?st=_QPnixU5AfAFPu_t6rlGSQ&e=1518033135&ri=2000&rs=192
 
+
+type=video
+name=Fifty Shades Freed (2018) ENG V2_720p_HDCAM_X264_-_MeFodeAna
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUDFe6B6bFPOAE13uoqH4eEU1cF.jpg
+date=2018-02-09
+URL=https://openload.co/f/Ossdmi1Plnw/Fifty.Shades.Freed.2018_V2_720p_HDCAM_X264_-_MeFodeAna.%5BSN%5D.mkv.mp4
 
 type=video
 name=Phantom Thread (2017) ENG DVDSCR.DrinkBetterWater
@@ -264,11 +270,7 @@ URL=https://openload.co/f/1Wg2viwoYXE/The.darkest.hour.2017.720p.web-dl_SeeHD.mp
 
 
 
-type=video
-name=Cold Skin (2017) RUS
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/65qvQ13CoNxIYHvxGXWFtKc93sX.jpg
-date=2017-12-03
-URL=https://openload.co/f/7ywKmj1Cbso/Atlantida.2O17.D.TS.14OOMB_KOSHARA.E.mp4
+
 
 
 
@@ -292,15 +294,7 @@ URL=https://openload.co/f/RqXwupoJyYY/Paddington_2_2017_720p_HDTS_x264_AC3_TiTAN
 #https://openload.co/f/DphGbZSuthQ/Paddington_2_2017_Russian_TELESYNC.avi.mp4
 #https://openload.co/f/O5MG7v4Xa2E/Paddington.2.2017.iTALiAN.LD.TELESYNC.XviD_CriMiNaL.mp4
 
-type=video
-name=Murder on the Orient Express (2017) ENG 720p.HC.WEBRip
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
-date=2018-02-06
-URL=https://openload.co/f/SMDH2kYrDGM/Murder.on.the.Orient.Express.2017.720p.HC.WEBRip.mkv.mp4
-#https://openload.co/f/tQIHPxK0iyo/Murder.on.the.Orient.Express.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/W3Ib0baMyac/Murder_on_the_Orient_Express_2017_HCTC_SeeHD.mkv.mp4
-#https://openload.co/f/Z-xgjsHstE8/Murder.On.The.Orient.Express.2017.CAM.XViD.V2-26k.avi.mp4
-#https://openload.co/f/Kw3jLB0wT6w/Murder_on_the_Orient_Express_%282017%29.ENG.CAM.H264.AC3-Zi%24t.mkv.mp4
+
 
 
 
@@ -316,10 +310,11 @@ URL=https://openload.co/f/_4z3LoSbk-Y/You.Were.Never.Really.Here.2017.FRENCH.CAM
 
 
 type=video
-name=Happy Family (2017) RUS
+name=Happy Family (2017) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp1kMdB5TVZ5ZN7BdpGQbVhAbfh.jpg
 date=2017-11-08
-URL=http://entervideo.net/watch/78214b8b8f6c507
+URL=https://openload.co/f/5AArtWLZb2I/DD_Happy.Family.2017.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
+#http://entervideo.net/watch/78214b8b8f6c507
 #https://openload.co/f/sDKaKTnsdrU/Happy.Family.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
 
 
@@ -620,11 +615,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ge2aTRKFEIeoSNKCSFzuuuLO7H
 date=2017-11-24
 URL=https://openload.co/f/pPvnenmbWd0/Dismissed.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
-type=video
-name=Days of Power (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6WWgaAcccADoGBwUjmOgNs4KKA.jpg
-date=2017-11-17
-URL=https://openload.co/f/npRtuvyoIHM/Days_of_Power.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Maya Dardel (2017) ENG WEB-DL.DD5.1.H264-FGT
@@ -1221,15 +1212,24 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4V5Q8HHewIOeanTr6oAnOQdqPY
 date=2018-02-08
 URL=https://openload.co/f/GHdGHUwdigQ/The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
+type=video
+name=Days of Power (2017) ENG BDRip.x264-ROVERS
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6WWgaAcccADoGBwUjmOgNs4KKA.jpg
+date=2018-02-09
+URL=https://openload.co/f/Vbofn8bN2nU/Days.Of.Power.2018.BDRip.x264-ROVERS.mkv.mp4
+#https://openload.co/f/npRtuvyoIHM/Days_of_Power.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-
-
+type=video
+name=Mom and Dad (2018) ENG BRRip_XviD_AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSaeahvo1GU7v4W6CX2y0j7fxMG.jpg
+date=2018-02-09
+URL=https://openload.co/f/2nxCFN_foWg/Mom_and_Dad_2018_BRRip_XviD_AC3-EVO.mp4
 
 
 type=video
 name=
 thumb=
-date=2018-02-06
+date=2018-02-09
 URL=
 
 
@@ -1307,9 +1307,41 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-08
+date=2018-02-09
 URL=
 
+
+
+type=video
+name=Murder on the Orient Express (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
+date=2018-02-09
+URL=https://openload.co/f/ZNqBTdQusmA/Murder.On.The.Orient.Express.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/XJ9AUMzwUOs/Murder.on.the.Orient.Express.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/SMDH2kYrDGM/Murder.on.the.Orient.Express.2017.720p.HC.WEBRip.mkv.mp4
+#https://openload.co/f/tQIHPxK0iyo/Murder.on.the.Orient.Express.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/W3Ib0baMyac/Murder_on_the_Orient_Express_2017_HCTC_SeeHD.mkv.mp4
+#https://openload.co/f/Z-xgjsHstE8/Murder.On.The.Orient.Express.2017.CAM.XViD.V2-26k.avi.mp4
+#https://openload.co/f/Kw3jLB0wT6w/Murder_on_the_Orient_Express_%282017%29.ENG.CAM.H264.AC3-Zi%24t.mkv.mp4
+
+type=video
+name=Scramble (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEr2oOzwzumwKGcBSrAUlqrAAmd.jpg
+date=2018-02-09
+URL=https://openload.co/f/cSW3uLzP9Xo/Scramble.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+
+type=video
+name=The Time of Their Lives (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1fG8mi6CVm9KACEA6ED1EWcJCR.jpg
+date=2018-02-09
+URL=https://openload.co/f/n2H-QYbg7PQ/The.Time.Of.Their.Lives.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+
+type=video
+name=Cold Skin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/65qvQ13CoNxIYHvxGXWFtKc93sX.jpg
+date=2018-02-09
+URL=https://openload.co/f/zKBMJ3p-y0M/Cold.Skin.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/7ywKmj1Cbso/Atlantida.2O17.D.TS.14OOMB_KOSHARA.E.mp4
 
 type=video
 name=The Young Karl Marx (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1360,6 +1392,8 @@ date=2018-02-07
 URL=https://openload.co/f/6pzIA-uG7XI/The.Florida.Project.2017.1080p.Br_SeeHD.mp4
 #https://openload.co/f/2y6Cgff5XRc/The.Florida.Project.2017.720p.WEB-DL.900MB.MkvCage.mkv.mp4
 #https://openload.co/f/I0v3vaBhz6Q/The.Florida.Project.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://www.blazefile.co/embed-tsdw17n8ryyc.html   720
+#https://uptobox.com/dei51isb3vqz   720
 
 type=video
 name=Smartass (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3124,7 +3158,11 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwFnMw183U486o5zfSULi6XHb0
 date=2018-02-08
 URL=https://openload.co/f/jycmRNF5eas/The.Little.Vampire.2017.720p.BluRay.x264-MERLiNA.mkv.mp4
 
-
+type=video
+name=Headgame (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iH3OxsPAq4Za7fb0Hm4WKNoOYdy.jpg
+date=2018-02-09
+URL=https://openload.co/f/uBXcYQ_FbJk/Headgame.2018.720p.BluRay.x264-ROVERS.mkv.mp4
 
 
 type=video
@@ -3233,10 +3271,11 @@ URL=https://streamango.com/f/bcnspemlmbdmfcbk/12_Strong_2018_12_
 
 
 type=video
-name=The Commuter (2018) ENG HDCAM_REPACK_X264-DADDY
+name=The Commuter (2018) ENG 720p_NEW_HD-TS_X264-CPG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
-date=2018-01-18
-URL=https://openload.co/f/qQHqw_vax30/The_Commuter_2018_HDCAM_REPACK_X264-DADDY.mkv.mp4
+date=2018-02-09
+URL=https://openload.co/f/s15NsuBO5J0/The_Commuter_2018_720p_NEW_HD-TS_X264-CPG.mkv.mp4
+#https://openload.co/f/qQHqw_vax30/The_Commuter_2018_HDCAM_REPACK_X264-DADDY.mkv.mp4
 #https://openload.co/f/l_asVj98QaI/The.Commuter.2018.CAM.ENG.DADDY.mkv.mp4
 #https://openload.co/f/yq1GYYdbymo/Commuter.CAM.ENG_SeeHD.mkv.mp4
 type=video
@@ -4214,10 +4253,11 @@ URL=
 
 
 type=video
-name=Coco (2017) ENG 720p.WEBRip.x264.AAC2.0-SHITBOX
+name=Coco (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
-date=2018-01-31
-URL=https://openload.co/f/7u1UsPkmRKE/Coco.2017.720p.WEBRip.x264.AAC2.0-SHITBOX.mkv.mp4
+date=2018-02-09
+URL=https://openload.co/f/L1AaeLP6pus/Coco.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/7u1UsPkmRKE/Coco.2017.720p.WEBRip.x264.AAC2.0-SHITBOX.mkv.mp4
 #https://openload.co/f/Bi_jeHvp31Q/Coco.2017.720p.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/gy6y42tD9Yw/Coco.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/dsmQ0CW4LSs/Coco_%282017%29.720p.HDTC.X264-MerryChristmasNoVipRequired%5BEtHD%5D_mkv.mp4
