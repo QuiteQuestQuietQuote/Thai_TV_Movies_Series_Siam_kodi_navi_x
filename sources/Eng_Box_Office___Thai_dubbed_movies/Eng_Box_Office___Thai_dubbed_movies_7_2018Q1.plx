@@ -60,7 +60,7 @@ type=video
 name=
 thumb=
 date=2018-02-09
-URL=https://videos-lwcdn.pornhd.com/video_hq/169/1E8kd1vM2F/video_hq.mp4?st=_QPnixU5AfAFPu_t6rlGSQ&e=1518033135&ri=2000&rs=192
+URL=http://data.javhihi.com/videos/jav789.com/751-800/jav789.com-a-love-affair-with-the-transferred-girl-651.486.mp4
 
 
 type=video
@@ -1313,10 +1313,19 @@ URL=
 
 
 type=video
+name=Headgame (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iH3OxsPAq4Za7fb0Hm4WKNoOYdy.jpg
+date=2018-02-10
+URL=https://openload.co/f/PJt7waDLAvk/Headgame.2018.1080p.Br_SeeHD.mp4
+#https://openload.co/f/uBXcYQ_FbJk/Headgame.2018.720p.BluRay.x264-ROVERS.mkv.mp4
+
+type=video
 name=Murder on the Orient Express (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
-date=2018-02-09
-URL=https://openload.co/f/ZNqBTdQusmA/Murder.On.The.Orient.Express.2017.1080p.Br_SeeHD.mp4
+date=2018-02-10
+URL=https://www.blazefile.co/embed-q9juiivio9u4.html
+#https://uptobox.com/6eey3rn3eybp
+#https://openload.co/f/ZNqBTdQusmA/Murder.On.The.Orient.Express.2017.1080p.Br_SeeHD.mp4
 #https://openload.co/f/XJ9AUMzwUOs/Murder.on.the.Orient.Express.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
 #https://openload.co/f/SMDH2kYrDGM/Murder.on.the.Orient.Express.2017.720p.HC.WEBRip.mkv.mp4
 #https://openload.co/f/tQIHPxK0iyo/Murder.on.the.Orient.Express.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
@@ -1341,6 +1350,7 @@ name=Cold Skin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/65qvQ13CoNxIYHvxGXWFtKc93sX.jpg
 date=2018-02-09
 URL=https://openload.co/f/zKBMJ3p-y0M/Cold.Skin.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/r9ner3SJ0EU/Cold.Skin.2017.720p.Br_SeeHD.mp4
 #https://openload.co/f/7ywKmj1Cbso/Atlantida.2O17.D.TS.14OOMB_KOSHARA.E.mp4
 
 type=video
@@ -1378,8 +1388,10 @@ URL=https://openload.co/f/G9P7ylNs5QA/Fixed.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 type=video
 name=Daddy's Home 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg
-date=2018-02-07
-URL=https://openload.co/f/sIN1JopPsi4/Daddys.Home.2.2017.1080p.BluRay.x264-BLOW.mkv.mp4
+date=2018-02-10
+URL=https://www.blazefile.co/embed-p5il025fjv1o.html
+https://uptobox.com/j7289p2alzk4
+#https://openload.co/f/sIN1JopPsi4/Daddys.Home.2.2017.1080p.BluRay.x264-BLOW.mkv.mp4
 #https://openload.co/f/fo9-1pnFmio/Daddys.Home.2.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/FC1fJ8taIqA/Daddys.Home.2.2017.HDTS.x264-EZIS.mkv.mp4
 #https://openload.co/f/vpL7f9btUG4/Daddys.Home.2.2017.HDCAM.XVID.HQ.Hive-CM8.avi
@@ -1388,8 +1400,10 @@ URL=https://openload.co/f/sIN1JopPsi4/Daddys.Home.2.2017.1080p.BluRay.x264-BLOW.
 type=video
 name=The Florida Project (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg
-date=2018-02-07
-URL=https://openload.co/f/6pzIA-uG7XI/The.Florida.Project.2017.1080p.Br_SeeHD.mp4
+date=2018-02-10
+URL=https://www.blazefile.co/embed-l6lu7jpscfe2.html
+#https://uptobox.com/n1e7hrn8sn5x
+#https://openload.co/f/6pzIA-uG7XI/The.Florida.Project.2017.1080p.Br_SeeHD.mp4
 #https://openload.co/f/2y6Cgff5XRc/The.Florida.Project.2017.720p.WEB-DL.900MB.MkvCage.mkv.mp4
 #https://openload.co/f/I0v3vaBhz6Q/The.Florida.Project.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://www.blazefile.co/embed-tsdw17n8ryyc.html   720
@@ -2311,12 +2325,7 @@ URL=https://www.blazefile.co/embed-vsl8zx0l5aun.html
 #https://openload.co/f/uu0n2mVkoK8/Jungle.2017.BRRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/qioNwiUuxkM/Jungle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
-type=video
-name=Killing Ground (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7hkfmhQ1nohbXsZ7jIEZXqPI6n.jpg
-date=2017-10-30
-URL=https://www.blazefile.co/embed-i0glp139c2y6.html
-#https://openload.co/f/szZE2PDrZeQ/Killing.Ground.2016.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
+
 
 type=video
 name=Hickok (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3158,11 +3167,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwFnMw183U486o5zfSULi6XHb0
 date=2018-02-08
 URL=https://openload.co/f/jycmRNF5eas/The.Little.Vampire.2017.720p.BluRay.x264-MERLiNA.mkv.mp4
 
-type=video
-name=Headgame (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iH3OxsPAq4Za7fb0Hm4WKNoOYdy.jpg
-date=2018-02-09
-URL=https://openload.co/f/uBXcYQ_FbJk/Headgame.2018.720p.BluRay.x264-ROVERS.mkv.mp4
+
 
 
 type=video
@@ -4263,6 +4268,8 @@ URL=https://openload.co/f/L1AaeLP6pus/Coco.2017.1080p.Br_SeeHD.mp4
 #https://openload.co/f/dsmQ0CW4LSs/Coco_%282017%29.720p.HDTC.X264-MerryChristmasNoVipRequired%5BEtHD%5D_mkv.mp4
 #https://openload.co/f/rjggikOpq2Q/Coco.2017.HD-TS.X264.HQ-CPG.mkv.mp4
 #https://openload.co/f/R7W8xvZvB80/Coco_2017_Bolly4u.me_Hindi_Dubbed_HDTS_720p_700MB.mp4
+#https://www.blazefile.co/embed-9z8jtxxnkwfs.html   720
+#https://uptobox.com/bh712zdxhoqd   720
 type=video
 name=Coco (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
@@ -4367,10 +4374,13 @@ URL=https://streamango.com/f/btdnmcsfrpqqaqmn/Tokyo_Ghoul_2017_
 
 
 type=video
-name=Justice League (2017) ENG PROPER_HDRip_KORSUB_X264_HQ-CPG
+name=Justice League (2017) ENG 1080p.WEBRip.x264.AAC2.0-SHITBOX
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
-date=2017-12-25
-URL=https://openload.co/f/9aU7M3BmTTY/Justice_League_%282017%29_%5B720p%5D_PROPER_HDRip_KORSUB_X264_HQ-CPG_mkv_mp4
+date=2018-02-10
+URL=https://openload.co/f/wW37fkMaLNI/Justice.League.2017.1080p.WEBRip.x264.AAC2.0-SHITBOX.mkv.mp4
+#https://openload.co/f/soUXrjtigJQ/Justice.League.2017.1080p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/L85z0ZL4XKs/Justice.League.2017.720pHD.WEB-DL_SeeHD.mp4
+#https://openload.co/f/9aU7M3BmTTY/Justice_League_%282017%29_%5B720p%5D_PROPER_HDRip_KORSUB_X264_HQ-CPG_mkv_mp4
 #https://openload.co/f/Gcww3bPYNac/Justice.League.2017.1080p.KORSUB-JesusLovesYew.mkv.mp4
 #https://openload.co/f/xj1bHZ6aksk/Justice_League_2017_NEW_HDTS-H264-AC3-Zi%24t.mkv.mp4
 #https://openload.co/f/X_u6EzKY7ys/Justice_League_2017_NEW_HD-TS_X264_HQ-CPG.mkv.mp4
@@ -4614,12 +4624,58 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-08
+date=2018-02-10
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#23-----2018-02-10
+type=video
+name=The Wall (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8POAZwZpp24l1IgKKM8ZRAQ2kid.jpg
+date=2018-02-10
+URL=https://openload.co/f/nMiXzrb4hxs/The_Wall_%282017%29%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%81%E0%B8%B3%E0%B9%81%E0%B8%9E%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+
+
+type=video
+name=Killing Ground (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7hkfmhQ1nohbXsZ7jIEZXqPI6n.jpg
+date=2017-10-30
+URL=https://www.blazefile.co/embed-i0glp139c2y6.html
+#https://openload.co/f/szZE2PDrZeQ/Killing.Ground.2016.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
+type=video
+name=Killing Ground (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7hkfmhQ1nohbXsZ7jIEZXqPI6n.jpg
+date=2018-02-10
+URL=https://openload.co/f/zla4QJ2ZPxQ/Killing_Ground_%282017%29%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B3.mp4
 
 
 type=video
