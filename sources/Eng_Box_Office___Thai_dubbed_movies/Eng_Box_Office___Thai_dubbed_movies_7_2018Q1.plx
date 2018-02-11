@@ -1318,6 +1318,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iH3OxsPAq4Za7fb0Hm4WKNoOYd
 date=2018-02-10
 URL=https://openload.co/f/PJt7waDLAvk/Headgame.2018.1080p.Br_SeeHD.mp4
 #https://openload.co/f/uBXcYQ_FbJk/Headgame.2018.720p.BluRay.x264-ROVERS.mkv.mp4
+#https://www.blazefile.co/embed-e0vh99c6egna.html   720
+#https://uptobox.com/ttn8gcppnnbi   720
 
 type=video
 name=Murder on the Orient Express (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4260,8 +4262,10 @@ URL=
 type=video
 name=Coco (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
-date=2018-02-09
-URL=https://openload.co/f/L1AaeLP6pus/Coco.2017.1080p.Br_SeeHD.mp4
+date=2018-02-11
+URL=https://www.blazefile.co/embed-kq889i6qnetx.html
+#https://uptobox.com/sppacml2nd38
+#https://openload.co/f/L1AaeLP6pus/Coco.2017.1080p.Br_SeeHD.mp4
 #https://openload.co/f/7u1UsPkmRKE/Coco.2017.720p.WEBRip.x264.AAC2.0-SHITBOX.mkv.mp4
 #https://openload.co/f/Bi_jeHvp31Q/Coco.2017.720p.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/gy6y42tD9Yw/Coco.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
