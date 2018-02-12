@@ -60,7 +60,7 @@ type=video
 name=
 thumb=
 date=2018-02-09
-URL=http://data.javhihi.com/videos/jav789.com/751-800/jav789.com-a-love-affair-with-the-transferred-girl-651.486.mp4
+URL=https://video-hkg3-1.xx.fbcdn.net/v/t42.9040-2/10000000_1573777926046763_3660502237269983232_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=e35833558b466ae73e14b1b9f0ba2cf4&oe=5A822266&itag=22
 
 
 
