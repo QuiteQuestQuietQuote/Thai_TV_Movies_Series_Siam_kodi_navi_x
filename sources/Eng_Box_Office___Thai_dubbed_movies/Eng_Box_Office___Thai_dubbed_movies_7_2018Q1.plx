@@ -63,11 +63,19 @@ date=2018-02-09
 URL=http://data.javhihi.com/videos/jav789.com/751-800/jav789.com-a-love-affair-with-the-transferred-girl-651.486.mp4
 
 
+
+
 type=video
 name=Fifty Shades Freed (2018) ENG V2_720p_HDCAM_X264_-_MeFodeAna
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUDFe6B6bFPOAE13uoqH4eEU1cF.jpg
 date=2018-02-09
 URL=https://openload.co/f/Ossdmi1Plnw/Fifty.Shades.Freed.2018_V2_720p_HDCAM_X264_-_MeFodeAna.%5BSN%5D.mkv.mp4
+
+type=video
+name=The 15:17 to Paris (2018) ENG HDCAM_720p_Layar
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg
+date=2018-02-12
+URL=https://openload.co/f/wK9RCbjRZMU/The_15%3A17_to_Paris_%282018%29_HDCAM_720p_Layar.mp4
 
 type=video
 name=Phantom Thread (2017) ENG DVDSCR.DrinkBetterWater
@@ -459,10 +467,11 @@ URL=https://openload.co/f/M6r-cHT1VtI/The.Tribes.of.Palos.Verdes.2017.720p.WEB-D
 
 
 type=video
-name='Til Death Do Us Part (2017) ENG HDCAM.x264-DiRG
+name='Til Death Do Us Part (2017) ENG 720p.HDTV.x264-CRiMSON
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfCAFkZV39l1TnNazAmmLgWu4c1.jpg
-date=2017-11-27
-URL=https://openload.co/f/0DPv1IxHDsA/Til.Death.Do.Us.Part.2017.HDCAM.x264-DiRG.mp4
+date=2018-02-12
+URL=https://openload.co/f/UYWVSfrrER0/Til.Death.Do.Us.Part.2017.720p.HDTV.x264-CRiMSON.mkv.mp4
+#https://openload.co/f/0DPv1IxHDsA/Til.Death.Do.Us.Part.2017.HDCAM.x264-DiRG.mp4
 
 type=video
 name=Instrument of War (2017) ENG BYUtv_720p_HDTV_X264_Solar
@@ -1212,18 +1221,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4V5Q8HHewIOeanTr6oAnOQdqPY
 date=2018-02-08
 URL=https://openload.co/f/GHdGHUwdigQ/The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
-type=video
-name=Days of Power (2017) ENG BDRip.x264-ROVERS
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6WWgaAcccADoGBwUjmOgNs4KKA.jpg
-date=2018-02-09
-URL=https://openload.co/f/Vbofn8bN2nU/Days.Of.Power.2018.BDRip.x264-ROVERS.mkv.mp4
-#https://openload.co/f/npRtuvyoIHM/Days_of_Power.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=Mom and Dad (2018) ENG BRRip_XviD_AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSaeahvo1GU7v4W6CX2y0j7fxMG.jpg
-date=2018-02-09
-URL=https://openload.co/f/2nxCFN_foWg/Mom_and_Dad_2018_BRRip_XviD_AC3-EVO.mp4
+
+
 
 
 type=video
@@ -1307,10 +1307,17 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-09
+date=2018-02-12
 URL=
 
 
+
+
+type=video
+name=Fences (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] 
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZFBqealET1TunuVvu4YzcM1orT.jpg
+date=2018-02-12
+URL=https://www.blazefile.co/embed-vjznrdj4s3ct.html
 
 type=video
 name=Headgame (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1368,6 +1375,8 @@ date=2018-02-06
 URL=https://openload.co/f/o_FrBNytVxs/Accident.Man.2018.1080p.BluRay.x264-NODLABS.mkv.mp4
 #https://openload.co/f/JfQBLt2vCSg/Accident.Man.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
 #https://openload.co/f/jRNgI6KShSc/Accident.Man.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+#https://www.blazefile.co/embed-xyiz3zy2m8w1.html   720
+#https://uptobox.com/3y6g8z6r785y   720
 
 type=video
 name=Close-Knit (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
@@ -1453,8 +1462,10 @@ URL=https://www.blazefile.co/embed-wxpjxvpewvpv.html
 type=video
 name=Polina (2016) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfM05D5whQjEEr4zk8GgfAL6aJI.jpg
-date=2018-02-04
-URL=https://openload.co/f/U5AgrO3Ajsk/polina.2016.1080p.bluray.x264-cinefile.mkv.mp4
+date=2018-02-12
+URL=https://www.blazefile.co/embed-m6wekkoox4gq.html
+#https://uptobox.com/v70gmt6pqain
+#https://openload.co/f/U5AgrO3Ajsk/polina.2016.1080p.bluray.x264-cinefile.mkv.mp4
 
 type=video
 name=Tom of Finland (2017) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
@@ -3168,6 +3179,23 @@ name=The Little Vampire 3D (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwFnMw183U486o5zfSULi6XHb0c.jpg
 date=2018-02-08
 URL=https://openload.co/f/jycmRNF5eas/The.Little.Vampire.2017.720p.BluRay.x264-MERLiNA.mkv.mp4
+
+type=video
+name=Days of Power (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6WWgaAcccADoGBwUjmOgNs4KKA.jpg
+date=2018-02-12
+URL=https://www.blazefile.co/embed-zfz52rfd1ie2.html
+#https://uptobox.com/zk0gyy3c7772
+#https://openload.co/f/Vbofn8bN2nU/Days.Of.Power.2018.BDRip.x264-ROVERS.mkv.mp4
+#https://openload.co/f/npRtuvyoIHM/Days_of_Power.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Mom and Dad (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSaeahvo1GU7v4W6CX2y0j7fxMG.jpg
+date=2018-02-09
+URL=https://www.blazefile.co/embed-mfywjbuy6m7v.html
+#https://uptobox.com/sy38017dav8v
+#https://openload.co/f/2nxCFN_foWg/Mom_and_Dad_2018_BRRip_XviD_AC3-EVO.mp4
 
 
 
