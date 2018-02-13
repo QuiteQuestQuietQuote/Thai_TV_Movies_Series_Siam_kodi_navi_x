@@ -44,11 +44,35 @@ URL=
 
 
 
+type=video
+name=Sdnm-131 Mutsui Female Doctor Watching A Genitalia Other Than Her Husband Musume39s Female Doctor Wife Tomo Akari 28 Years Old Chapter 2 A New Emotion Is Developed Seeking Further Irregular Stimulation 
+thumb=http://javsex.net/wp-content/uploads/2018/01/29886.jpg
+date=2017-12-25
+URL=http://cdn.yamvideo.com/3674e/new-001/appid-29886.mp4
 
+type=video
+name=Ssni-061 Eros Arousal 10 Big Tits X Orgasm In The Vagina Day Nannon 
+thumb=http://javsex.net/wp-content/uploads/2018/01/29913.jpg
+date=2017-12-25
+URL=http://cdn.yamvideo.com/3674e/new-001/appid-29913.mp4
 
+type=video
+name=Star-844 Sakura Mana Toda Makoto W Cast Restraint Cock Rover Piston Ikase Hell
+thumb=http://javsex.net/wp-content/uploads/2018/01/29920.jpg
+date=2017-12-25
+URL=http://cdn.yamvideo.com/3674e/new-001/appid-29920.mp4
 
+type=video
+name=Star-845 Please Be Serious Punishment On Mizubaru Kikukawa With Lethargy At Doshi 6 Cosplay 4sex 
+thumb=http://javsex.net/wp-content/uploads/2018/01/29921.jpg
+date=2017-12-25
+URL=http://cdn.yamvideo.com/3674e/new-001/appid-29921.mp4
 
-
+type=video
+name=Sqte-196 Sex Circumstances Of Beautiful Girls Who Are Too Sensitive Beautiful Bodies
+thumb=http://javsex.net/wp-content/uploads/2018/01/29905.jpg
+date=2017-12-25
+URL=http://cdn.yamvideo.com/3674e/new-001/appid-29905.mp4
 
 
 
