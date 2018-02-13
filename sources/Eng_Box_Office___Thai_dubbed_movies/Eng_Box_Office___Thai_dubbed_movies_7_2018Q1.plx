@@ -46,7 +46,7 @@ type=video
 name=
 thumb=https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png
 date=2017-10-29
-URL=http://191.96.38.49:443/free41/0x777_bbcearth_720p/chunklist.m3u8
+URL=http://103.77.116.193:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
 
 type=video
 name=
@@ -198,10 +198,11 @@ URL=https://openload.co/f/SNCwiigOC4Y/The_Greatest_Showman_2017_HDCAM_ENG_X264-D
 #https://openload.co/f/pEHfMHoX0xc/The.Greatest.Showman.2017.RUSSIAN.LANG.CAM.MoViE1K.mp4
 
 type=video
-name=Three Billboards Outside Ebbing, Missouri (2017) ENG DVDScr_XVID_AC3_HQ_Hive--CM8
+name=Three Billboards Outside Ebbing, Missouri (2017) ENG 720pHD.WEB-DL_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgvw6w1CtcFkuXXn004S5wQsHRl.jpg
-date=2017-12-27
-URL=https://openload.co/f/7LFK5fM_0wM/Three_Billboards_Outside_Ebbing%2CMissouri_2017_DVDScr_XVID_AC3_HQ_Hive--CM8.avi.mp4
+date=2018-02-13
+URL=https://openload.co/f/ZjH_5EoCfNY/Three_Billboards_Outside_Ebbing_Missouri.2017.720pHD.WEB-DL_SeeHD.mp4
+#https://openload.co/f/7LFK5fM_0wM/Three_Billboards_Outside_Ebbing%2CMissouri_2017_DVDScr_XVID_AC3_HQ_Hive--CM8.avi.mp4
 
 type=video
 name=I, Tonya (2017) ENG DVDScr.XVID.HQ.Hive-CM8
@@ -210,10 +211,12 @@ date=2017-12-26
 URL=https://openload.co/f/FPU8_oiG8uE/I%2CTonya.2017.DVDScr.XVID.HQ.Hive-CM8.avi.mp4
 
 type=video
-name=Lady Bird (2017) ENG DVDScr.AC3.HQ.Hive-CM8
+name=Lady Bird (2017) ENG 1080p.AMZN.WEBRip.DDP5.1.x264-SiGMA
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVtoXPA2zqNTeaR8MOsrD1XvUXK.jpg
-date=2017-12-26
-URL=https://openload.co/f/tT44lsJFX7g/Lady.Bird.2017.DVDScr.AC3.HQ.Hive-CM8.mp4
+date=2018-02-13
+URL=https://openload.co/f/pc2sQRJHbXA/Lady.Bird.2017.1080p.AMZN.WEBRip.DDP5.1.x264-SiGMA.mkv.mp4
+#https://openload.co/f/EQYIBLEKD-E/Lady_Bird_2017_720p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
+#https://openload.co/f/tT44lsJFX7g/Lady.Bird.2017.DVDScr.AC3.HQ.Hive-CM8.mp4
 
 type=video
 name=The Disaster Artist (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
@@ -367,9 +370,9 @@ URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.
 
 type=video
 name=
-thumb=
+thumb=http://1ttv.org/uploads/WOMhUah3sPwZIJLja4TsJrdJlkrtFF.png
 date=2018-02-07
-URL=
+URL=http://127.0.0.1:6689/stream?cid=5684
 
 
 
@@ -545,7 +548,7 @@ type=video
 name=
 thumb=
 date=2017-12-03
-URL=
+URL=http://125.180.146.32:9981/stream/channel/fe66c051695e9f532210a239e7c3d0e3?ticket=80B1CCB2ABF4B353858A97431031891C93ABDF91&profile=pass
 
 
 type=video
@@ -1312,6 +1315,15 @@ URL=
 
 
 
+type=video
+name=Mom and Dad (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSaeahvo1GU7v4W6CX2y0j7fxMG.jpg
+date=2018-02-13
+URL=https://www.blazefile.co/embed-cylif71kgnke.html
+#https://uptobox.com/vopnzjij1h4i
+#https://www.blazefile.co/embed-mfywjbuy6m7v.html   720
+#https://uptobox.com/sy38017dav8v   720
+#https://openload.co/f/2nxCFN_foWg/Mom_and_Dad_2018_BRRip_XviD_AC3-EVO.mp4
 
 type=video
 name=Fences (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] 
@@ -1368,15 +1380,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxxDCQb3CJzXOh8rCT5CbsG1ik
 date=2018-02-08
 URL=https://openload.co/f/86IZwnSfhpc/Le_jeune_Karl_Marx_2017_1080p_BluRay_DD5.1_x264-EA.mp4
 
-type=video
-name=Accident Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHFKej3Dbr8kGRSRHpkoFHq9TJQ.jpg
-date=2018-02-06
-URL=https://openload.co/f/o_FrBNytVxs/Accident.Man.2018.1080p.BluRay.x264-NODLABS.mkv.mp4
-#https://openload.co/f/JfQBLt2vCSg/Accident.Man.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
-#https://openload.co/f/jRNgI6KShSc/Accident.Man.2018.DVDRip.XviD.AC3-EVO.avi.mp4
-#https://www.blazefile.co/embed-xyiz3zy2m8w1.html   720
-#https://uptobox.com/3y6g8z6r785y   720
+
 
 type=video
 name=Close-Knit (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
@@ -2186,13 +2190,7 @@ URL=https://openload.co/f/uRktVgQRThc/Friends.Dont.Let.Friends.2017.1080p.BluRay
 #https://openload.co/f/ih2ycP7-5_Y/Friends.Dont.Let.Friends.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://www.blazefile.co/embed-mntk573rsq1e.html     720
 
-type=video
-name=Tulip Fever (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmfop4zLqFWFTkKSYp7V5jgeM6I.jpg
-date=2017-11-16
-URL=https://www.blazefile.co/embed-z9fwke5dzfpz.html
-#https://openload.co/f/ILcVEeVlkNA/tulip.fever.2017.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/v29dcmbpso4/Tulip.Fever.2017.720p.WEB-DL.X264.AC3-EVO.mkv
+
 
 type=video
 name=Rememory (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3189,13 +3187,7 @@ URL=https://www.blazefile.co/embed-zfz52rfd1ie2.html
 #https://openload.co/f/Vbofn8bN2nU/Days.Of.Power.2018.BDRip.x264-ROVERS.mkv.mp4
 #https://openload.co/f/npRtuvyoIHM/Days_of_Power.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=Mom and Dad (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSaeahvo1GU7v4W6CX2y0j7fxMG.jpg
-date=2018-02-09
-URL=https://www.blazefile.co/embed-mfywjbuy6m7v.html
-#https://uptobox.com/sy38017dav8v
-#https://openload.co/f/2nxCFN_foWg/Mom_and_Dad_2018_BRRip_XviD_AC3-EVO.mp4
+
 
 
 
@@ -3491,6 +3483,23 @@ date=2018-02-08
 URL=
 
 
+
+type=video
+name=Accident Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHFKej3Dbr8kGRSRHpkoFHq9TJQ.jpg
+date=2018-02-06
+URL=https://openload.co/f/o_FrBNytVxs/Accident.Man.2018.1080p.BluRay.x264-NODLABS.mkv.mp4
+#https://openload.co/f/JfQBLt2vCSg/Accident.Man.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/jRNgI6KShSc/Accident.Man.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+#https://www.blazefile.co/embed-xyiz3zy2m8w1.html   720
+#https://uptobox.com/3y6g8z6r785y   720
+type=video
+name=Accident Man (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHFKej3Dbr8kGRSRHpkoFHq9TJQ.jpg
+date=2018-02-13
+URL=https://streamango.com/f/seqcnaectcfeompo/Accident_Man_2018_
+
+
 type=video
 name=Real (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/65OspkJC1wjUJOFlP4NWBiEl4I1.jpg
@@ -3499,10 +3508,11 @@ URL=https://streamango.com/f/tksradatlsfqprtd/Real_2017_
 
 
 type=video
-name=The Cloverfield Paradox (2018) ENG 1080p.web.x264-strife
+name=The Cloverfield Paradox (2018) ENG 720p.WEB-DL_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJe4s2h9hac0Fu3pQVV4OuWe8kU.jpg
-date=2018-02-05
-URL=https://openload.co/f/xsfDwEBtsbc/the.cloverfield.paradox.2018.internal.1080p.web.x264-strife.mkv.mp4
+date=2018-02-13
+URL=https://openload.co/f/KRM36x7liew/cloverfield.3.NEW.720p.WEB-DL_SeeHD.mp4
+#https://openload.co/f/xsfDwEBtsbc/the.cloverfield.paradox.2018.internal.1080p.web.x264-strife.mkv.mp4
 type=video
 name=The Cloverfield Paradox (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJe4s2h9hac0Fu3pQVV4OuWe8kU.jpg
@@ -4398,18 +4408,15 @@ URL=https://streamango.com/f/pttkrrcdeelqtlts/Renegades_2017_
 #https://streamango.com/f/bkbkoqdtleqkepkn/Renegades_2017_THCAM_mp4
 
 
-type=video
-name=Tokyo Ghoul (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/53Tjv28KGP7ZZh7XqTer90t6tMZ.jpg
-date=2017-10-27
-URL=https://streamango.com/f/btdnmcsfrpqqaqmn/Tokyo_Ghoul_2017_
+
 
 
 type=video
-name=Justice League (2017) ENG 1080p.WEBRip.x264.AAC2.0-SHITBOX
+name=Justice League (2017) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
-date=2018-02-10
-URL=https://openload.co/f/wW37fkMaLNI/Justice.League.2017.1080p.WEBRip.x264.AAC2.0-SHITBOX.mkv.mp4
+date=2018-02-13
+URL=https://openload.co/f/g7Cb7JVjT5Q/Justice.League.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/wW37fkMaLNI/Justice.League.2017.1080p.WEBRip.x264.AAC2.0-SHITBOX.mkv.mp4
 #https://openload.co/f/soUXrjtigJQ/Justice.League.2017.1080p.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/L85z0ZL4XKs/Justice.League.2017.720pHD.WEB-DL_SeeHD.mp4
 #https://openload.co/f/9aU7M3BmTTY/Justice_League_%282017%29_%5B720p%5D_PROPER_HDRip_KORSUB_X264_HQ-CPG_mkv_mp4
@@ -4656,7 +4663,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-10
+date=2018-02-13
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
@@ -4667,15 +4674,39 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+type=video
+name=King Cobra (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FkAZeJlFAsu1FrvwNLAaKObDfp.jpg
+date=2018-02-13
+URL=https://openload.co/f/-N-3iCzVkS0/King_Cobra_%282016%29%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B8%AD%E0%B8%9A%E0%B8%9A%E0%B9%89%E0%B8%B2_%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%89%E0%B8%B2%E0%B8%A7%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 
 
+type=video
+name=Tulip Fever (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmfop4zLqFWFTkKSYp7V5jgeM6I.jpg
+date=2017-11-16
+URL=https://www.blazefile.co/embed-z9fwke5dzfpz.html
+#https://openload.co/f/ILcVEeVlkNA/tulip.fever.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/v29dcmbpso4/Tulip.Fever.2017.720p.WEB-DL.X264.AC3-EVO.mkv
+type=video
+name=Tulip Fever (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmfop4zLqFWFTkKSYp7V5jgeM6I.jpg
+date=2018-02-13
+URL=https://openload.co/f/awx0huaqR4c/Tulip_Fever_%282017%29%E0%B8%94%E0%B8%AD%E0%B8%81_%E0%B8%8A%E0%B8%B9%E0%B9%89_%E0%B8%A5%E0%B8%B1%E0%B8%9A.mp4
 
 
+type=video
+name=One Step (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSYFHygBps5IN5BM4odUnVqhoBL.jpg
+date=2018-02-13
+URL=https://openload.co/f/0zfLudQWBkQ/One_Step_%282017%29%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B0%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88.mp4
 
-
-
-
-
+type=video
+name=Tokyo Ghoul (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/53Tjv28KGP7ZZh7XqTer90t6tMZ.jpg
+date=2018-02-13
+URL=https://openload.co/f/lMoupjBp8Zo/Tokyo_Ghoul_%282017%29%E0%B8%84%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%81%E0%B8%B9%E0%B8%A5.mp4
+#https://streamango.com/f/btdnmcsfrpqqaqmn/Tokyo_Ghoul_2017_
 
 
 
@@ -4744,8 +4775,9 @@ URL=https://openload.co/f/r2lWenuDk4E/The_Village_of_No_Return_%282017%29.mp4
 type=video
 name=The Wailing (2016) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aijmq2I4O8zZrJtqAZm6o4tOM6g.jpg
-date=2018-02-03
-URL=https://openload.co/f/tei8Yi8mf9k/The_Wailing_%282016%29%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B3%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88.mp4
+date=2018-02-13
+URL=https://openload.co/f/pHGjWbLoZKY/The_Wailing_%282016%29%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B3%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88.mp4
+#https://openload.co/f/tei8Yi8mf9k/The_Wailing_%282016%29%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AD%E0%B8%B3%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88.mp4
 
 
 type=video
