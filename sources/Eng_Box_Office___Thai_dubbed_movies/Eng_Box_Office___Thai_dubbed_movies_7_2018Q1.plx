@@ -65,11 +65,7 @@ URL=https://video-hkg3-1.xx.fbcdn.net/v/t42.9040-2/10000000_1573777926046763_366
 
 
 
-type=video
-name=Fifty Shades Freed (2018) ENG V2_720p_HDCAM_X264_-_MeFodeAna
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUDFe6B6bFPOAE13uoqH4eEU1cF.jpg
-date=2018-02-09
-URL=https://openload.co/f/Ossdmi1Plnw/Fifty.Shades.Freed.2018_V2_720p_HDCAM_X264_-_MeFodeAna.%5BSN%5D.mkv.mp4
+
 
 type=video
 name=The 15:17 to Paris (2018) ENG HDCAM_720p_Layar
@@ -95,12 +91,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/253Bw5I3Zj3e2thCThjO7byEUC
 date=2018-02-02
 URL=https://openload.co/f/2qmvoK5LyWw/Braven.2018.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
-type=video
-name=Den of Thieves (2018) ENG NEW_720p_HD-TS_X264-CPG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
-date=2018-02-03
-URL=https://openload.co/f/-B28tK5CPMY/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4
-#https://openload.co/f/I0a9aXjeZwo/Den.of.Thieves.2018.HDCAM.HQMIC.x264-DiRG.mp4
+
 
 type=video
 name=Please Stand By (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
@@ -215,6 +206,7 @@ name=Lady Bird (2017) ENG 1080p.AMZN.WEBRip.DDP5.1.x264-SiGMA
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVtoXPA2zqNTeaR8MOsrD1XvUXK.jpg
 date=2018-02-13
 URL=https://openload.co/f/pc2sQRJHbXA/Lady.Bird.2017.1080p.AMZN.WEBRip.DDP5.1.x264-SiGMA.mkv.mp4
+#https://openload.co/f/TrNKFoEJjH8/Lady_Bird_2017_720pHD.WEB-DL_SeeHD.mp4
 #https://openload.co/f/EQYIBLEKD-E/Lady_Bird_2017_720p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
 #https://openload.co/f/tT44lsJFX7g/Lady.Bird.2017.DVDScr.AC3.HQ.Hive-CM8.mp4
 
@@ -258,26 +250,14 @@ URL=https://openload.co/f/_u1FMyoGufI/Woody.Woodpecker.2017.1080p.WEB-DL.DD5.1.H
 
 
 
-type=video
-name=Just Getting Started (2017) ENG CAM.READNFO.XViD-26k
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/70eVsU4nvVidEs7mpPcEcBlIpmx.jpg
-date=2017-12-19
-URL=https://openload.co/f/VXxQVaOTzoI/Just.Getting.Started.2017.CAM.READNFO.XViD-26k.avi.mp4
 
 
 
 
 
 
-type=video
-name=Darkest Hour (2017) ENG 720p.web-dl_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg
-date=2018-02-07
-URL=https://openload.co/f/1Wg2viwoYXE/The.darkest.hour.2017.720p.web-dl_SeeHD.mp4
-#https://openload.co/f/l9nI9JzbGLA/The.Darkest.Hour.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/MSD8G8qEISo/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
-#https://openload.co/f/e509QYay-QI/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
-#https://openload.co/f/c2aiOqF-6tg/Darkest_Hour_2017_HC_TS_x264-ChiLove.mp4
+
+
 
 
 
@@ -376,7 +356,11 @@ URL=http://127.0.0.1:6689/stream?cid=5684
 
 
 
-
+type=video
+name=The Man Who Invented Christmas (2017) ENG HC.HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRkzRue5rTzB6PESXBJCKqROOXC.jpg
+date=2018-02-14
+URL=https://openload.co/f/vt-5WCEjuY4/The_Man_Who_Invented_Christmas.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Painted Woman (2017) ENG 1080p_WEB-DL_DD5_1_H264-CMRG
@@ -803,12 +787,7 @@ URL=https://openload.co/f/rHZatbYrz14/Never.Here.2017.1080p.WEB-DL.DD5.1.H264-FG
 
 
 
-type=video
-name=The Wilde Wedding (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wE9tcRTZ3OCTz2LjGaNxFHZnDLJ.jpg
-date=2018-01-30
-URL=https://openload.co/f/SXzYjq17XRE/The.Wilde.Wedding.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/vFtshTJHqNg/the.wilde.wedding.2017.dvdrip.x264-wide.mkv.mp4
+
 
 
 
@@ -1218,11 +1197,7 @@ URL=https://openload.co/f/ya7riPaKiWM/Same_Kind_of_Different_as_Me.2017.BRRip.Xv
 #https://openload.co/f/qItzmC2ilFI/Same.Kind.of.Different.as.Me.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/ya7riPaKiWM/Same_Kind_of_Different_as_Me.2017.BRRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=The Ballad of Lefty Brown (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4V5Q8HHewIOeanTr6oAnOQdqPY9.jpg
-date=2018-02-08
-URL=https://openload.co/f/GHdGHUwdigQ/The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 
 
@@ -1310,10 +1285,42 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-12
+date=2018-02-14
 URL=
 
 
+
+
+type=video
+name=Darkest Hour (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg
+date=2018-02-14
+URL=https://www.blazefile.co/embed-79ksytfi3jly.html
+#https://uptobox.com/lccmhalp0o37
+#https://openload.co/f/uOByRw0tBWY/Darkest.Hour.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/VFXm1r4U504/darkest.hour.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/1Wg2viwoYXE/The.darkest.hour.2017.720p.web-dl_SeeHD.mp4
+#https://openload.co/f/l9nI9JzbGLA/The.Darkest.Hour.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/MSD8G8qEISo/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/e509QYay-QI/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/c2aiOqF-6tg/Darkest_Hour_2017_HC_TS_x264-ChiLove.mp4
+
+type=video
+name=The Ballad of Lefty Brown (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4V5Q8HHewIOeanTr6oAnOQdqPY9.jpg
+date=2018-02-14
+URL=https://openload.co/f/wjVe-277WGQ/The.Ballad.of.Lefty.Brown.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/GHdGHUwdigQ/The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
+type=video
+name=Just Getting Started (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/70eVsU4nvVidEs7mpPcEcBlIpmx.jpg
+date=2018-02-14
+URL=https://openload.co/f/9DPuINKt-P8/Just.Getting.Started.2017.1080p.BluRay.x264-DRONES.mp4
+#https://openload.co/f/jOv-28n6DEE/Just.Getting.Started.2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/VXxQVaOTzoI/Just.Getting.Started.2017.CAM.READNFO.XViD-26k.avi.mp4
+#https://www.blazefile.co/embed-q74xaasrktjc.html   720
+#https://uptobox.com/2pn58uq2o6ib   720
 
 type=video
 name=Mom and Dad (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1340,19 +1347,7 @@ URL=https://openload.co/f/PJt7waDLAvk/Headgame.2018.1080p.Br_SeeHD.mp4
 #https://www.blazefile.co/embed-e0vh99c6egna.html   720
 #https://uptobox.com/ttn8gcppnnbi   720
 
-type=video
-name=Murder on the Orient Express (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
-date=2018-02-10
-URL=https://www.blazefile.co/embed-q9juiivio9u4.html
-#https://uptobox.com/6eey3rn3eybp
-#https://openload.co/f/ZNqBTdQusmA/Murder.On.The.Orient.Express.2017.1080p.Br_SeeHD.mp4
-#https://openload.co/f/XJ9AUMzwUOs/Murder.on.the.Orient.Express.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/SMDH2kYrDGM/Murder.on.the.Orient.Express.2017.720p.HC.WEBRip.mkv.mp4
-#https://openload.co/f/tQIHPxK0iyo/Murder.on.the.Orient.Express.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/W3Ib0baMyac/Murder_on_the_Orient_Express_2017_HCTC_SeeHD.mkv.mp4
-#https://openload.co/f/Z-xgjsHstE8/Murder.On.The.Orient.Express.2017.CAM.XViD.V2-26k.avi.mp4
-#https://openload.co/f/Kw3jLB0wT6w/Murder_on_the_Orient_Express_%282017%29.ENG.CAM.H264.AC3-Zi%24t.mkv.mp4
+
 
 type=video
 name=Scramble (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1815,13 +1810,7 @@ URL=https://www.blazefile.co/embed-ej2kkiglwtlz.html
 
 
 
-type=video
-name=Professor Marston & the Wonder Women (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbrzHlnE8dNpllLWEe9bwDGNzLe.jpg
-date=2018-01-12
-URL=https://openload.co/f/wwLUiPaojEA/professor.marston.and.the.wonder.women.2017.1080p.bluray.x264-drones.mkv.mp4
-#https://www.blazefile.co/embed-bl7c3j9ii5bp.html   720
-#https://uptobox.com/sv01sdy7x4hf   720
+
 
 type=video
 name=Gangster Land (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3187,6 +3176,19 @@ URL=https://www.blazefile.co/embed-zfz52rfd1ie2.html
 #https://openload.co/f/Vbofn8bN2nU/Days.Of.Power.2018.BDRip.x264-ROVERS.mkv.mp4
 #https://openload.co/f/npRtuvyoIHM/Days_of_Power.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
+type=video
+name=The Wilde Wedding (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wE9tcRTZ3OCTz2LjGaNxFHZnDLJ.jpg
+date=2018-02-14
+URL=https://openload.co/f/F5aTJ_CzQeA/The.Wilde.Wedding.2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/SXzYjq17XRE/The.Wilde.Wedding.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/vFtshTJHqNg/the.wilde.wedding.2017.dvdrip.x264-wide.mkv.mp4
+
+type=video
+name=Sophie and the Rising Sun (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqPnpxYaCTnvZ8y4NLpbu6IdfbF.jpg
+date=2018-02-14
+URL=https://openload.co/f/JQRBE27t544/Sophie_and_the_Rising_Sun_%282016%29_BRRip_720p_Layar.mp4
 
 
 
@@ -3262,6 +3264,32 @@ name=
 thumb=
 date=2018-01-29
 URL=http://203.162.235.41:17819
+
+
+type=video
+name=Den of Thieves (2018) ENG NEW_720p_HD-TS_X264-CPG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
+date=2018-02-03
+URL=https://openload.co/f/-B28tK5CPMY/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4
+#https://openload.co/f/I0a9aXjeZwo/Den.of.Thieves.2018.HDCAM.HQMIC.x264-DiRG.mp4
+type=video
+name=Den of Thieves (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
+date=2018-02-14
+URL=https://streamango.com/f/bdnqfkmfbaoartca/Den_of_Thieves_2018_
+
+
+type=video
+name=Fifty Shades Freed (2018) ENG 720p.HD-TS.X264-UNiQUE
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUDFe6B6bFPOAE13uoqH4eEU1cF.jpg
+date=2018-02-14
+URL=https://openload.co/f/IMwyvA9Xc6w/Fifty.Shades.Freed.2018_NEW.720p.HD-TS.X264-UNiQUE.mkv.mp4
+#https://openload.co/f/Ossdmi1Plnw/Fifty.Shades.Freed.2018_V2_720p_HDCAM_X264_-_MeFodeAna.%5BSN%5D.mkv.mp4
+type=video
+name=Fifty Shades Freed (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUDFe6B6bFPOAE13uoqH4eEU1cF.jpg
+date=2018-02-14
+URL=https://streamango.com/f/meketpbdbsqbabpa/Fifty_Shades_Freed_2018_
 
 
 type=video
@@ -3457,11 +3485,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y29CEE9oukwhNT6INWVEOaINHp
 date=2017-09-24
 URL=https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B8%8B%E0%B8%A5%E0%B8%B5_%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
-type=video
-name=Fairy Tail Movie 2: Dragon Cry (2017) TH CAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6GuwIVkNZYFkt7kiHSJRPiXAAA.jpg
-date=2017-07-26
-URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97_%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3.mp4
+
 
 
 
@@ -3479,9 +3503,33 @@ URL=https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8
 type=video
 name=
 thumb=
-date=2018-02-08
+date=2018-02-14
 URL=
 
+
+
+type=video
+name=When We First Met (2018) ENG 1080p.NF.WEB-DL.DD5.1.H.264-SiGMA
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pscQKoikkSJxAu8O5LKtjgGJEt1.jpg
+date=2018-02-14
+URL=https://openload.co/f/DBiNmlfPTYU/When.We.First.Met.2018.1080p.NF.WEB-DL.DD5.1.H.264-SiGMA.mkv.mp4
+type=video
+name=When We First Met (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pscQKoikkSJxAu8O5LKtjgGJEt1.jpg
+date=2018-02-14
+URL=https://streamango.com/f/lqlsqcldpqtfstpm/When_We_First_Met_2018_
+
+
+type=video
+name=The Ritual (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHuJqzby593lmYmw1SzT0XYy99t.jpg
+date=2018-02-14
+URL=https://openload.co/f/T0fYpz8HSEc/The.Ritual.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+type=video
+name=The Ritual (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHuJqzby593lmYmw1SzT0XYy99t.jpg
+date=2018-02-14
+URL=https://streamango.com/f/momonsfndfqdlakc/The_Ritual_2017_
 
 
 type=video
@@ -4298,6 +4346,14 @@ URL=
 
 
 type=video
+name=Fairy Tail Movie 2: Dragon Cry (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6GuwIVkNZYFkt7kiHSJRPiXAAA.jpg
+date=2018-02-14
+URL=https://streamango.com/f/blonnaontoptfqls/Fairy_Tail_Movie_2_Dragon_Cry_2017_
+#https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97_%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3.mp4
+
+
+type=video
 name=Coco (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
 date=2018-02-11
@@ -4663,15 +4719,51 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-13
+date=2018-02-14
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
 
+type=video
+name=The Exception (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNCS7JdLFzLKaqtce4lzjtGfdp4.jpg
+date=2018-02-14
+URL=https://openload.co/f/sopUtV9vrFc/The_Exception_%282017%29%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2.mp4
 
 
+type=video
+name=Professor Marston & the Wonder Women (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbrzHlnE8dNpllLWEe9bwDGNzLe.jpg
+date=2018-01-12
+URL=https://openload.co/f/wwLUiPaojEA/professor.marston.and.the.wonder.women.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://www.blazefile.co/embed-bl7c3j9ii5bp.html   720
+#https://uptobox.com/sv01sdy7x4hf   720
+type=video
+name=Professor Marston & the Wonder Women (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbrzHlnE8dNpllLWEe9bwDGNzLe.jpg
+date=2018-02-14
+URL=https://openload.co/f/kSj0UtwFIwI/Professor_Marston_%26_the_Wonder_Women_%282017%29%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B9%E0%B9%81%E0%B8%A1%E0%B8%99.mp4
 
+
+type=video
+name=Murder on the Orient Express (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
+date=2018-02-10
+URL=https://www.blazefile.co/embed-q9juiivio9u4.html
+#https://uptobox.com/6eey3rn3eybp
+#https://openload.co/f/ZNqBTdQusmA/Murder.On.The.Orient.Express.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/XJ9AUMzwUOs/Murder.on.the.Orient.Express.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/SMDH2kYrDGM/Murder.on.the.Orient.Express.2017.720p.HC.WEBRip.mkv.mp4
+#https://openload.co/f/tQIHPxK0iyo/Murder.on.the.Orient.Express.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/W3Ib0baMyac/Murder_on_the_Orient_Express_2017_HCTC_SeeHD.mkv.mp4
+#https://openload.co/f/Z-xgjsHstE8/Murder.On.The.Orient.Express.2017.CAM.XViD.V2-26k.avi.mp4
+#https://openload.co/f/Kw3jLB0wT6w/Murder_on_the_Orient_Express_%282017%29.ENG.CAM.H264.AC3-Zi%24t.mkv.mp4
+type=video
+name=Murder on the Orient Express (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBlfxlw8qwtUS0R8YjIU7JtM6LM.jpg
+date=2018-02-14
+URL=https://openload.co/f/-r3AJr2GNog/Murder_on_the_Orient_Express_%282017%29%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%9A%E0%B8%99%E0%B8%A3%E0%B8%96%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%97%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%AA.mp4
 
 
 type=video
@@ -5000,9 +5092,17 @@ URL=https://openload.co/f/XU0LFMOsjKI/Memories_of_the_Sword_%282015%29%E0%B8%A8%
 
 
 
+type=video
+name=Fifty Shades Darker (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnVHDbGz7RvDAHFAsVVT88FxhrP.jpg
+date=2018-02-14
+URL=https://openload.co/f/t2NjWKx7liM/Fifty.Shades.Darker.2017.UNRATED.1080p.Br_SeeHD.mp4
 
-
-
+type=video
+name=Fifty Shades of Grey (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jV8wnk3Jgz6f7degmT3lHNGI2tK.jpg
+date=2018-02-14
+URL=https://openload.co/f/zXSET4durqk/Fifty.Shades.of.Grey.2015.UNRATED.1080p.Br_SeeHD.mp4
 
 
 
