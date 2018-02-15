@@ -65,7 +65,11 @@ URL=https://video-hkg3-1.xx.fbcdn.net/v/t42.9040-2/10000000_1573777926046763_366
 
 
 
-
+type=video
+name=Peter Rabbit (2018) RUS Cam
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
+date=2018-02-15
+URL=https://openload.co/f/dTapIIDbV60/Peter_Rabbit_%282018%29_RUS.Cam.mp4
 
 type=video
 name=The 15:17 to Paris (2018) ENG HDCAM_720p_Layar
@@ -86,10 +90,11 @@ date=2018-02-03
 URL=https://openload.co/f/KG8d68nqqOw/Hostiles.2018.NEW.720p.HDCAM.x264-CPG.mkv.mp4
 
 type=video
-name=Braven (2018) ENG 720p.WEB-DL.H264.AC3-EVO
+name=Braven (2018) ENG 1080p_AMZN_WEB-DL_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/253Bw5I3Zj3e2thCThjO7byEUCL.jpg
-date=2018-02-02
-URL=https://openload.co/f/2qmvoK5LyWw/Braven.2018.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2018-02-15
+URL=https://openload.co/f/g934TYTLtds/Braven_2018_1080p_AMZN_WEB-DL_SeeHD.mkv
+#https://openload.co/f/2qmvoK5LyWw/Braven.2018.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 
 
@@ -188,12 +193,7 @@ URL=https://openload.co/f/SNCwiigOC4Y/The_Greatest_Showman_2017_HDCAM_ENG_X264-D
 #https://openload.co/f/A-NUvRiEbTE/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv.mp4
 #https://openload.co/f/pEHfMHoX0xc/The.Greatest.Showman.2017.RUSSIAN.LANG.CAM.MoViE1K.mp4
 
-type=video
-name=Three Billboards Outside Ebbing, Missouri (2017) ENG 720pHD.WEB-DL_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgvw6w1CtcFkuXXn004S5wQsHRl.jpg
-date=2018-02-13
-URL=https://openload.co/f/ZjH_5EoCfNY/Three_Billboards_Outside_Ebbing_Missouri.2017.720pHD.WEB-DL_SeeHD.mp4
-#https://openload.co/f/7LFK5fM_0wM/Three_Billboards_Outside_Ebbing%2CMissouri_2017_DVDScr_XVID_AC3_HQ_Hive--CM8.avi.mp4
+
 
 type=video
 name=I, Tonya (2017) ENG DVDScr.XVID.HQ.Hive-CM8
@@ -1197,7 +1197,11 @@ URL=https://openload.co/f/ya7riPaKiWM/Same_Kind_of_Different_as_Me.2017.BRRip.Xv
 #https://openload.co/f/qItzmC2ilFI/Same.Kind.of.Different.as.Me.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/ya7riPaKiWM/Same_Kind_of_Different_as_Me.2017.BRRip.XviD.AC3-EVO.avi.mp4
 
-
+type=video
+name=Hellraiser: Judgment (2018) ENG BDRip.X264-PSYCHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQPanQM7Cn5agduiQWiIJK32Dvn.jpg
+date=2018-02-15
+URL=https://openload.co/f/m1w9Jv8oLTg/Hellraiser.Judgment.2018.BDRip.X264-PSYCHD.mkv.mp4
 
 
 
@@ -1207,7 +1211,7 @@ URL=https://openload.co/f/ya7riPaKiWM/Same_Kind_of_Different_as_Me.2017.BRRip.Xv
 type=video
 name=
 thumb=
-date=2018-02-09
+date=2018-02-15
 URL=
 
 
@@ -1285,11 +1289,23 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-14
+date=2018-02-15
 URL=
 
 
 
+
+
+
+type=video
+name=Three Billboards Outside Ebbing, Missouri (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgvw6w1CtcFkuXXn004S5wQsHRl.jpg
+date=2018-02-15
+URL=https://www.blazefile.co/embed-p9ytc4hx1tci.html
+#https://uptobox.com/zmek66mbwu2x
+#https://openload.co/f/w9zHOz8wisg/Three.Billboards.Outside.Ebbing.Missouri.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/ZjH_5EoCfNY/Three_Billboards_Outside_Ebbing_Missouri.2017.720pHD.WEB-DL_SeeHD.mp4
+#https://openload.co/f/7LFK5fM_0wM/Three_Billboards_Outside_Ebbing%2CMissouri_2017_DVDScr_XVID_AC3_HQ_Hive--CM8.avi.mp4
 
 type=video
 name=Darkest Hour (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1310,13 +1326,18 @@ name=The Ballad of Lefty Brown (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4V5Q8HHewIOeanTr6oAnOQdqPY9.jpg
 date=2018-02-14
 URL=https://openload.co/f/wjVe-277WGQ/The.Ballad.of.Lefty.Brown.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/qoyzkiUkZpQ/The.Ballad.of.Lefty.Brown.2017.1080p.Br_SeeHD.mp4
 #https://openload.co/f/GHdGHUwdigQ/The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://www.blazefile.co/embed-okrcr8h9gyk7.html   720
+#https://uptobox.com/uofzsmn792k3   720
 
 type=video
 name=Just Getting Started (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/70eVsU4nvVidEs7mpPcEcBlIpmx.jpg
-date=2018-02-14
-URL=https://openload.co/f/9DPuINKt-P8/Just.Getting.Started.2017.1080p.BluRay.x264-DRONES.mp4
+date=2018-02-15
+URL=https://www.blazefile.co/embed-l9v9r1w0b3ns.html
+#https://uptobox.com/zatynleqitav
+#https://openload.co/f/9DPuINKt-P8/Just.Getting.Started.2017.1080p.BluRay.x264-DRONES.mp4
 #https://openload.co/f/jOv-28n6DEE/Just.Getting.Started.2017.720p.Br_SeeHD.mp4
 #https://openload.co/f/VXxQVaOTzoI/Just.Getting.Started.2017.CAM.READNFO.XViD-26k.avi.mp4
 #https://www.blazefile.co/embed-q74xaasrktjc.html   720
@@ -3179,8 +3200,10 @@ URL=https://www.blazefile.co/embed-zfz52rfd1ie2.html
 type=video
 name=The Wilde Wedding (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wE9tcRTZ3OCTz2LjGaNxFHZnDLJ.jpg
-date=2018-02-14
-URL=https://openload.co/f/F5aTJ_CzQeA/The.Wilde.Wedding.2017.720p.Br_SeeHD.mp4
+date=2018-02-15
+URL=https://www.blazefile.co/embed-aw2tcdp1drpa.html
+#https://uptobox.com/xj119dm7u3ez
+#https://openload.co/f/F5aTJ_CzQeA/The.Wilde.Wedding.2017.720p.Br_SeeHD.mp4
 #https://openload.co/f/SXzYjq17XRE/The.Wilde.Wedding.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/vFtshTJHqNg/the.wilde.wedding.2017.dvdrip.x264-wide.mkv.mp4
 
@@ -3544,8 +3567,9 @@ URL=https://openload.co/f/o_FrBNytVxs/Accident.Man.2018.1080p.BluRay.x264-NODLAB
 type=video
 name=Accident Man (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHFKej3Dbr8kGRSRHpkoFHq9TJQ.jpg
-date=2018-02-13
-URL=https://streamango.com/f/seqcnaectcfeompo/Accident_Man_2018_
+date=2018-02-15
+URL=https://streamango.com/f/fbmenlnrrddtoeol/Accident_Man_2018_
+#https://streamango.com/f/seqcnaectcfeompo/Accident_Man_2018_
 
 
 type=video
@@ -4484,8 +4508,9 @@ URL=https://openload.co/f/g7Cb7JVjT5Q/Justice.League.2017.1080p.WEB-DL.H264.AC3-
 type=video
 name=Justice League (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
-date=2017-12-29
-URL=https://streamango.com/f/kpebetmcrsqqlddr/Justice_League_2017_
+date=2018-02-15
+URL=https://streamango.com/f/fropttkslcsbocnn/Justice_League_2017_
+#https://streamango.com/f/kpebetmcrsqqlddr/Justice_League_2017_
 #https://streamango.com/f/eacblflbsprtceed/Justice_League_2017_
 #https://streamango.com/f/cnlftlrrnklpsrfs/Justice_League_2017_1080p_KORSUB_28ThaiRongAAC_29_mp4
 #https://openload.co/f/XXv5UEq-MzU/Justice_League_%282017%29%E0%B8%88%E0%B8%B1%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%8B_%E0%B8%A5%E0%B8%B5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
@@ -4783,8 +4808,9 @@ URL=https://www.blazefile.co/embed-z9fwke5dzfpz.html
 type=video
 name=Tulip Fever (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmfop4zLqFWFTkKSYp7V5jgeM6I.jpg
-date=2018-02-13
-URL=https://openload.co/f/awx0huaqR4c/Tulip_Fever_%282017%29%E0%B8%94%E0%B8%AD%E0%B8%81_%E0%B8%8A%E0%B8%B9%E0%B9%89_%E0%B8%A5%E0%B8%B1%E0%B8%9A.mp4
+date=2018-02-15
+URL=https://openload.co/f/giRKwT_tthA/Tulip_Fever_%282017%29%E0%B8%94%E0%B8%AD%E0%B8%81_%E0%B8%8A%E0%B8%B9%E0%B9%89_%E0%B8%A5%E0%B8%B1%E0%B8%9A.mp4
+#https://openload.co/f/awx0huaqR4c/Tulip_Fever_%282017%29%E0%B8%94%E0%B8%AD%E0%B8%81_%E0%B8%8A%E0%B8%B9%E0%B9%89_%E0%B8%A5%E0%B8%B1%E0%B8%9A.mp4
 
 
 type=video

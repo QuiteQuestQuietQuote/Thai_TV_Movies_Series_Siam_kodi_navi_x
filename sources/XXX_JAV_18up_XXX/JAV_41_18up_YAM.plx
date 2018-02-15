@@ -430,7 +430,7 @@ type=video
 name=Sqte-082 Really Is A Naughty Innocent Beautiful Girl
 thumb=http://javsex.net/wp-content/uploads/2017/01/11726.jpg
 date=2018-02-05
-URL=http://s789.yamvideo.com/thz3674e/007/appid-11726.mp4
+URL=http://s14023.yamvideo.com/012-hls/appid-11726/hls.m3u8
 
 type=video
 name=Sqte-151 S-cute Breasts Pretty Festival 8 Hours
