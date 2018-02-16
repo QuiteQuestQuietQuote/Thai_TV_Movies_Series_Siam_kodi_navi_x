@@ -60,7 +60,7 @@ type=video
 name=
 thumb=
 date=2018-02-09
-URL=https://video-hkg3-1.xx.fbcdn.net/v/t42.9040-2/10000000_1573777926046763_3660502237269983232_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=e35833558b466ae73e14b1b9f0ba2cf4&oe=5A822266&itag=22
+URL=
 
 
 
@@ -350,9 +350,9 @@ URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.
 
 type=video
 name=
-thumb=http://1ttv.org/uploads/WOMhUah3sPwZIJLja4TsJrdJlkrtFF.png
+thumb=
 date=2018-02-07
-URL=http://127.0.0.1:6689/stream?cid=5684
+URL=
 
 
 
@@ -532,7 +532,7 @@ type=video
 name=
 thumb=
 date=2017-12-03
-URL=http://125.180.146.32:9981/stream/channel/fe66c051695e9f532210a239e7c3d0e3?ticket=80B1CCB2ABF4B353858A97431031891C93ABDF91&profile=pass
+URL=
 
 
 type=video

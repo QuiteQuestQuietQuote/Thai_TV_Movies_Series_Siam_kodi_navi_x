@@ -1457,16 +1457,6 @@ http://113.177.63.140:4022/rtp/232.84.1.5:8004
 
 
 
-#EXTINF:-1,VIP-Megahit HD 
-http://185.231.160.35:5000//71/3/index.m3u8 
-#EXTINF:-1,VIP-Premiere HD 
-http://185.231.160.35:5000//72/3/index.m3u8 
-#EXTINF:-1,ViP Premiere HD 
-http://ott.watch/stream/PIZ1QY4EJX/202.m3u8 
-#EXTINF:-1,ViP Megahit HD 
-http://ott.watch/stream/PIZ1QY4EJX/200.m3u8 
-#EXTINF:-1,ViP Comedy HD 
-http://ott.watch/stream/PIZ1QY4EJX/201.m3u8 
 
 
 
@@ -1789,6 +1779,37 @@ http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/chunklist.m
 
 
 
+#EXTINF:-1,CNN     
+http://125.180.146.32:9981/stream/channel/c7595163c21f66d53e480811a88785d5?ticket=22E27E993DA1554D36D1615473402D5FF3E2E785&profile=pass     
+#EXTINF:-1,CNBC    
+http://125.180.146.32:9981/stream/channel/dbc48dd2db82ee39c812889b26e7e69d?ticket=01D3A273BB9B7BB61E393F479CBBBBC25E051E7F&profile=pass     
+#EXTINF:-1,News     
+http://125.180.146.32:9981/stream/channel/1ef672a4ba686cf6d0fbc1257e14c123?ticket=2E6DD502F43F145803AE2E033BA8C4F8B36DEAA4&profile=pass     
+#EXTINF:-1,CCTV4     
+http://125.180.146.32:9981/stream/channel/6ddb070034c93bee57584a48c830de2b?ticket=9F5FACA1A0B11D3F7B9D1824D127D55F3EF01A2E&profile=pass     
+#EXTINF:-1,NHK WP     
+http://125.180.146.32:9981/stream/channel/41a1c21ebaaa449def08eca247956710?ticket=D4F3354C3699D94F3297C10A2184B09E1FF55A0E&profile=pass     
+#EXTINF:-1,WP     
+http://125.180.146.32:9981/stream/channel/c734f0ad8f867d87755a57bba0982a86?ticket=3E070C71399C0C98DF29D79EAB8EF1773085396E&profile=pass     
+#EXTINF:-1,cineF     
+http://125.180.146.32:9981/stream/channel/81f334a3dcb7767f27ca3a2c93bdbcaf?ticket=E532FB349B07135735EE7C6B0EB0EB1D5AF2208B&profile=pass     
+#EXTINF:-1, AXN     
+http://125.180.146.32:9981/stream/channel/405e7ee2939a7ca1fbb791ae5815b6d1?ticket=A228AFA05D6A968219DE45C696D89EFD5810CE69&profile=pass     
+#EXTINF:-1,FOX     
+http://125.180.146.32:9981/stream/channel/32ac8c9a3c817442d4621cec961adba2?ticket=08C39D2FD05393D3E27C8134CCCA79CC5D7B332A&profile=pass     
+#EXTINF:-1,mplex     
+http://125.180.146.32:9981/stream/channel/90e634228bef19c10d7118e5c35df8ce?ticket=7BAD9B32206065ADB54028610AD06910F02A9FE5&profile=pass     
+#EXTINF:-1,THE MOVIE     
+http://125.180.146.32:9981/stream/channel/ef64abbe93eb0d101b2da8fca9b9ece7?ticket=E690E77CB11CFE2D624301EB5C898956090C3B52&profile=pass     
+BBC Earth     
+http://125.180.146.32:9981/stream/channel/fe66c051695e9f532210a239e7c3d0e3?ticket=80B1CCB2ABF4B353858A97431031891C93ABDF91&profile=pass     
+#EXTINF:-1,NGC     
+http://125.180.146.32:9981/stream/channel/8979b197ae95ed38f2fa3ba7ab6e3c97?ticket=794A1FA9A3C3C390D3342FF481E2CAF2FACCD756&profile=pass     
+#EXTINF:-1,History     
+http://125.180.146.32:9981/stream/channel/e054bfba76f84301a3ef60bf101ccaf9?ticket=76D3AAAD1077BC09EB17A986DE801FF24236A9A1&profile=pass     
+#EXTINF:-1, Discovery HD     
+http://125.180.146.32:9981/stream/channel/ad971e7b59f185037a4681470fddce2e?ticket=85C4C2E6D560EDA3A6BF6CF357512B4F7F843A53&profile=pass    
+
 
 
 
@@ -1899,27 +1920,16 @@ https://www.fifa55-live.com/fifa55m-41/0x222_lifestylehd_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/History.png",H history
-http://103.77.116.191:443/documentary/history_channel_hd_720p.stream/chunklist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-natgeo.jpg",Nat Geo HD
-http://103.77.116.191:443/documentary/national_geographic_hd_720p.stream/chunklist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
-http://103.77.116.191:443/documentary/discovery_channel_480p.stream/chunklist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery Asia HD
-http://103.77.116.191:443/documentary/discovery_hd_world_720p.stream/chunklist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI
-http://103.77.116.191:443/documentary/discovery_science_720p.stream/chunklist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
-#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",Nat Geo People HD
-http://103.77.116.191:443/documentary/national_geographic_people_720p.stream/chunklist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
+
 #EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",asian_food_channel
 http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD
 http://103.77.116.193:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
-#EXTINF:-1,BBC Life Style_fifa55
-http://103.77.116.191:443/varity/lifestylehd_720p.stream/playlist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
 
 
 
+#EXTINF:-1,CNBC    
+http://125.180.146.32:9981/stream/channel/dbc48dd2db82ee39c812889b26e7e69d?ticket=01D3A273BB9B7BB61E393F479CBBBBC25E051E7F&profile=pass 
 
 
 
