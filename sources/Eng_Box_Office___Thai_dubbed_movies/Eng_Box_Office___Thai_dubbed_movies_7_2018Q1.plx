@@ -59,11 +59,25 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-02-09
+date=2018-02-16
 URL=
 
 
 
+
+type=video
+name=Black Panther (2018) ENG HDCAM.x264-%5BSpaceMov.org
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
+date=2018-02-16
+URL=https://openload.co/f/bPsscKAQno4/Black.Panther.2018.HDCAM.x264-%5BSpaceMov.org%5D.MP4.mp4
+#https://openload.co/f/6_rW9szwkTs/Black.Panther.2018.HDCAM.x264.MP4.mp4
+#https://openload.co/f/9iJ4yzgCyZY/Black_Panther_%282018%29_English_HDCAM.mp4
+
+type=video
+name=Monster Hunt 2 (2018) CHN Cam
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
+date=2018-02-16
+URL=https://openload.co/f/6oGjRk_3toQ/Monster_Hunt_2_%282018%29_Cam.mp4
 
 type=video
 name=Peter Rabbit (2018) RUS Cam
@@ -112,10 +126,11 @@ URL=https://openload.co/f/9xfp6WPIibY/The_Clapper.2017.720p.WEB-DL.XviD.AC3-FGT.
 
 
 type=video
-name=Pitch Perfect 3 (2017) ENG HDCAM
+name=Pitch Perfect 3 (2017) ENG HD720PHD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg
-date=2018-01-18
-URL=https://openload.co/f/ulAN5swR5RA/Pitch.Perfect.3.2017.HDCAM.MP4.mp4
+date=2018-02-16
+URL=https://openload.co/f/qxnjwUmlZW8/Pitch.Perfect.3.2017.HD720PHD_SeeHD.mp4
+#https://openload.co/f/ulAN5swR5RA/Pitch.Perfect.3.2017.HDCAM.MP4.mp4
 
 
 
@@ -351,10 +366,41 @@ URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.
 type=video
 name=
 thumb=
-date=2018-02-07
+date=2018-02-16
 URL=
 
 
+
+
+type=video
+name=Golden Exits (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fC5gEaFC8QZHgAfpAuB5wImaUYX.jpg
+date=2018-02-16
+URL=https://openload.co/f/kQdk5pzhgG0/Golden.Exits.2018.1080p.WEB-DL.DD5.1.H264-FGT.mp4
+
+type=video
+name=Looking Glass (2018) ENG 720.WEB-DL_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zSzaUmoUCwII2pGTqX1jaX8F0p.jpg
+date=2018-02-16
+URL=https://openload.co/f/eOQ8Q5Cjm5E/Looking.Glass.2018.720.WEB-DL_SeeHD.mkv.mp4
+
+type=video
+name=The Scent of Rain & Lightning (2018) ENG 720p_WEB-DL_DD5.1_X264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/txZxFdCIMIUlTDqCv4yAwJEHBwe.jpg
+date=2018-02-16
+URL=https://openload.co/f/I8EKOQpJZUc/The_Scent_of_Rain_%26_Lightning_2017_720p_WEB-DL_DD5.1_X264-CMRG.mkv.mp4
+
+type=video
+name=Irreplaceable You (2018) ENG 1080p.NF.WEBRip.DDP.5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnJIdVOKPb84yFjADKcbqPm3pZB.jpg
+date=2018-02-16
+URL=https://openload.co/f/bhbtnohcLfE/Irreplaceable.You.2018.1080p.NF.WEBRip.DDP.5.1.H264-CMRG.mkv.mp4
+
+type=video
+name=Auld Lang Syne (2016) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLG0dj5vpcGCmyyEP114IQ1P4Kl.jpg
+date=2018-02-16
+URL=https://openload.co/f/CA3g8Dko2no/Auld.Lang.Syne.2016.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
 name=The Man Who Invented Christmas (2017) ENG HC.HDRip.XviD.AC3-EVO
@@ -368,11 +414,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4B4P2n4e2duVFoU2nqfdLUEV5M
 date=2018-02-07
 URL=https://openload.co/f/jC0ByG9fGEs/Painted_Woman_2017_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
 
-type=video
-name=Hellraiser: Judgment (2018) ENG DVDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgIBO1SE6B5WSoSGpzpkJYqlyzE.jpg
-date=2018-02-03
-URL=https://openload.co/f/fkVTq8_XVYs/Hellraiser.Judgment.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=The Shanghai Job (2017) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
@@ -822,10 +864,11 @@ URL=https://openload.co/f/SBNTs47ybPQ/the.gaelic.king.2017.web.h264-strife.mkv.m
 #https://openload.co/f/xKvLAvDHFug/The.Gaelic.King.2017.DVDRip.XViD.AC3-juggs.avi.mp4
 
 type=video
-name=The Last Dragonslayer (2016) ENG DVDRip_x264-GHOULS
+name=The Last Dragonslayer (2016) ENG 1080p.WEB-DL.DD5.1.H.264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/be39oeAlA13F8WrehNSWH15jRVF.jpg
-date=2017-10-15
-URL=https://openload.co/f/nq1lED0QQv8/The_Last_Dragonslayer_2016_DVDRip_x264-GHOULS.mkv.mp4
+date=2018-02-16
+URL=https://openload.co/f/IeJGMcSlkAs/The.Last.Dragonslayer.2016.1080p.WEB-DL.DD5.1.H.264-FGT.mkv.mp4
+#https://openload.co/f/nq1lED0QQv8/The_Last_Dragonslayer_2016_DVDRip_x264-GHOULS.mkv.mp4
 
 type=video
 name=Road to the Open (2014) ENG WEBRip.x264-iNTENSO MKV
@@ -1197,11 +1240,7 @@ URL=https://openload.co/f/ya7riPaKiWM/Same_Kind_of_Different_as_Me.2017.BRRip.Xv
 #https://openload.co/f/qItzmC2ilFI/Same.Kind.of.Different.as.Me.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/ya7riPaKiWM/Same_Kind_of_Different_as_Me.2017.BRRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=Hellraiser: Judgment (2018) ENG BDRip.X264-PSYCHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQPanQM7Cn5agduiQWiIJK32Dvn.jpg
-date=2018-02-15
-URL=https://openload.co/f/m1w9Jv8oLTg/Hellraiser.Judgment.2018.BDRip.X264-PSYCHD.mkv.mp4
+
 
 
 
@@ -1289,13 +1328,30 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-15
+date=2018-02-16
 URL=
 
 
 
+type=video
+name=Redoubtable (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdcQj1rgEfCnlkKiXgqRCp2EMdL.jpg
+date=2018-02-16
+URL=https://openload.co/f/IG3wvgkVxaI/Le.Redoutable.2017.FRENCH.1080p.BluRay.x264-SHARKS.mp4
 
+type=video
+name=Under the Shadow (2016) [COLOR=FF00FF00]PER BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfOcumtK6tvFdtE1dyJjGiLUetr.jpg
+date=2018-02-16
+URL=https://openload.co/f/MMZro54K3lQ/under.the.shadow.2016.limited.1080p.bluray.x264-usury.mp4
 
+type=video
+name=Hellraiser: Judgment (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQPanQM7Cn5agduiQWiIJK32Dvn.jpg
+date=2018-02-16
+URL=https://openload.co/f/_HS9FwnflsY/Hellraiser.Judgment.2018.1080p.Br_SeeHD.mp4
+#https://openload.co/f/WKhz2SHM41I/Hellraiser.Judgment.2018.1080p.BluRay.X264-PSYCHD.mp4
+#https://openload.co/f/m1w9Jv8oLTg/Hellraiser.Judgment.2018.BDRip.X264-PSYCHD.mkv.mp4
 
 type=video
 name=Three Billboards Outside Ebbing, Missouri (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3012,6 +3068,8 @@ name=The Adventurers (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZstiRGpFNDNYtyu0QO6hkw7jE7.jpg
 date=2017-10-20
 URL=https://www.blazefile.co/embed-qp45icf0qt1z.html
+#https://openload.co/f/WkBWLcckPUI/The.adventurers.2017.Bluray1080p_SeeHD.mp4
+#https://openload.co/f/l2vYEusYZz0/the.adventurers.2017.limited.720p.bluray.x264-bipolar.mkv.mp4
 #https://openload.co/f/l3RIDHnszxI/The.Adventurers.2017.CHINESE.720p.BluRay.x264.DD5.1-FGT.mkv.mp4
 
 
@@ -3526,9 +3584,17 @@ URL=https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0
 type=video
 name=
 thumb=
-date=2018-02-14
+date=2018-02-16
 URL=
 
+
+
+
+type=video
+name=Tiger Zinda Hai (2017)
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EHnmwCtBhfOuoKQaHUSACV5UUJ.jpg
+date=2018-02-16
+URL=https://streamango.com/f/reeddnmqrsersdet/Tiger_Zinda_Hai_2017_
 
 
 type=video
