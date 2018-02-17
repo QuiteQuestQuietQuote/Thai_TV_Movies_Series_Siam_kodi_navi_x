@@ -59,19 +59,26 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-02-16
+date=2018-02-17
 URL=
 
 
 
 
 type=video
-name=Black Panther (2018) ENG HDCAM.x264-%5BSpaceMov.org
+name=Black Panther (2018) ENG FULL_HDCAM_ENG_X264-UNiQUE
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
-date=2018-02-16
-URL=https://openload.co/f/bPsscKAQno4/Black.Panther.2018.HDCAM.x264-%5BSpaceMov.org%5D.MP4.mp4
+date=2018-02-17
+URL=https://openload.co/f/cpVwHgNhW4M/Black_Panther_2018_FULL_HDCAM_ENG_X264-UNiQUE.mkv.mp4
+#https://openload.co/f/bPsscKAQno4/Black.Panther.2018.HDCAM.x264-%5BSpaceMov.org%5D.MP4.mp4
 #https://openload.co/f/6_rW9szwkTs/Black.Panther.2018.HDCAM.x264.MP4.mp4
 #https://openload.co/f/9iJ4yzgCyZY/Black_Panther_%282018%29_English_HDCAM.mp4
+
+type=video
+name=The Monkey King 3 (2018) CHN Cam
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCeCvnVsALuuJqBnIm7C4AHlycV.jpg
+date=2018-02-17
+URL=https://openload.co/f/gI8dWLIQTuk/The_Monkey_King_3_%282018%29_Cam.mp4
 
 type=video
 name=Monster Hunt 2 (2018) CHN Cam
@@ -126,10 +133,11 @@ URL=https://openload.co/f/9xfp6WPIibY/The_Clapper.2017.720p.WEB-DL.XviD.AC3-FGT.
 
 
 type=video
-name=Pitch Perfect 3 (2017) ENG HD720PHD_SeeHD
+name=Pitch Perfect 3 (2017) ENG 1080pWEB-DL_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg
-date=2018-02-16
-URL=https://openload.co/f/qxnjwUmlZW8/Pitch.Perfect.3.2017.HD720PHD_SeeHD.mp4
+date=2018-02-17
+URL=https://openload.co/f/gh2OyXp0iSQ/Pitch.Perfect.3.2017.1080pWEB-DL_SeeHD.mkv.mp4
+#https://openload.co/f/qxnjwUmlZW8/Pitch.Perfect.3.2017.HD720PHD_SeeHD.mp4
 #https://openload.co/f/ulAN5swR5RA/Pitch.Perfect.3.2017.HDCAM.MP4.mp4
 
 
@@ -315,23 +323,11 @@ URL=https://openload.co/f/_4z3LoSbk-Y/You.Were.Never.Really.Here.2017.FRENCH.CAM
 
 
 
-type=video
-name=Happy Family (2017) ENG 1080p.WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp1kMdB5TVZ5ZN7BdpGQbVhAbfh.jpg
-date=2017-11-08
-URL=https://openload.co/f/5AArtWLZb2I/DD_Happy.Family.2017.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
-#http://entervideo.net/watch/78214b8b8f6c507
-#https://openload.co/f/sDKaKTnsdrU/Happy.Family.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
 
 
 
-type=video
-name=Tragedy Girls (2017) ENG 720p.WEB_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMwuplUU4dg9JBBhgML42T6x0yJ.jpg
-date=2018-01-25
-URL=https://openload.co/f/nbhpKgWL7Q8/Tragedy.girls.2017.720p.WEB_SeeHD.mp4
-#https://openload.co/f/vDUVLA8RLj0/Tragedy.Girls.2017.WEB-DL.x264-RBB.mp4
-#http://entervideo.net/watch/397e6cc4a8812c1
+
+
 
 
 
@@ -366,17 +362,24 @@ URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.
 type=video
 name=
 thumb=
-date=2018-02-16
+date=2018-02-17
 URL=
 
 
 
+type=video
+name=Call Me by Your Name (2017) ENG 1080p.WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcNniniS4rfqrLH0oORikJfnIwY.jpg
+date=2018-02-17
+URL=https://openload.co/f/_Y74JPx259c/Call.Me.By.Your.Name.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/jw2WjiDwgc0/Call.Me.By.Your.Name.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4
 
 type=video
-name=Golden Exits (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+name=Golden Exits (2017) ENG 720p.WEB_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fC5gEaFC8QZHgAfpAuB5wImaUYX.jpg
 date=2018-02-16
-URL=https://openload.co/f/kQdk5pzhgG0/Golden.Exits.2018.1080p.WEB-DL.DD5.1.H264-FGT.mp4
+URL=https://openload.co/f/zjIeJzU_Xo4/Golden.Exits.2018.720p.WEB_SeeHD.mkv.mp4
+#https://openload.co/f/kQdk5pzhgG0/Golden.Exits.2018.1080p.WEB-DL.DD5.1.H264-FGT.mp4
 
 type=video
 name=Looking Glass (2018) ENG 720.WEB-DL_SeeHD
@@ -385,10 +388,11 @@ date=2018-02-16
 URL=https://openload.co/f/eOQ8Q5Cjm5E/Looking.Glass.2018.720.WEB-DL_SeeHD.mkv.mp4
 
 type=video
-name=The Scent of Rain & Lightning (2018) ENG 720p_WEB-DL_DD5.1_X264-CMRG
+name=The Scent of Rain & Lightning (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/txZxFdCIMIUlTDqCv4yAwJEHBwe.jpg
-date=2018-02-16
-URL=https://openload.co/f/I8EKOQpJZUc/The_Scent_of_Rain_%26_Lightning_2017_720p_WEB-DL_DD5.1_X264-CMRG.mkv.mp4
+date=2018-02-17
+URL=https://openload.co/f/f-R-SMQY0h0/The.Scent.of.Rain.and.Lightning.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4
+#https://openload.co/f/I8EKOQpJZUc/The_Scent_of_Rain_%26_Lightning_2017_720p_WEB-DL_DD5.1_X264-CMRG.mkv.mp4
 
 type=video
 name=Irreplaceable You (2018) ENG 1080p.NF.WEBRip.DDP.5.1.H264-CMRG
@@ -433,10 +437,11 @@ URL=https://openload.co/f/R_qB3U1HcU8/The.Neighbor.2017.1080p.WEB-DL.DD5.1.H264-
 
 
 type=video
-name=Final Portrait (2017) ENG 1080p.NF.WEBRip.DDP.5.1.H264-CMRG
+name=Final Portrait (2017) ENG 1080p.NF.WEB_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hgqfshiwHcIoAk7uKckKcDVpv4.jpg
-date=2018-01-21
-URL=https://openload.co/f/_Zyb1K8QaAk/Final.Portrait.2017.1080p.NF.WEBRip.DDP.5.1.H264-CMRG.mkv.mp4
+date=2018-02-17
+URL=https://openload.co/f/Nr1Rqjvug4Q/Final.Portrait.2017.1080p.NF.WEB_SeeHD.mkv.mp4
+#https://openload.co/f/_Zyb1K8QaAk/Final.Portrait.2017.1080p.NF.WEBRip.DDP.5.1.H264-CMRG.mkv.mp4
 
 type=video
 name=Acts of Violence (2018) ENG WEB-DL.DD5.1.H264-FGT
@@ -447,11 +452,6 @@ URL=https://openload.co/f/OtVuIulR2_c/Acts.of.Violence.2018.1080p.WEB-DL.DD5.1.H
 
 
 
-type=video
-name=Wonderstruck (2017) ENG WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjDAt9K3FKU1itABgIXl6YvLsVE.jpg
-date=2018-01-02
-URL=https://openload.co/f/OwTj4TCUTw4/Wonderstruck.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 
 
@@ -1328,10 +1328,35 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-16
+date=2018-02-17
 URL=
 
 
+
+
+type=video
+name=Tragedy Girls (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMwuplUU4dg9JBBhgML42T6x0yJ.jpg
+date=2018-02-17
+URL=https://openload.co/f/Do4jS3xsvr8/Tragedy.Girls.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/nbhpKgWL7Q8/Tragedy.girls.2017.720p.WEB_SeeHD.mp4
+#https://openload.co/f/vDUVLA8RLj0/Tragedy.Girls.2017.WEB-DL.x264-RBB.mp4
+#http://entervideo.net/watch/397e6cc4a8812c1
+
+type=video
+name=Happy Family (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp1kMdB5TVZ5ZN7BdpGQbVhAbfh.jpg
+date=2018-02-17
+URL=https://openload.co/f/EjWV2xGBA5k/Happy.Family.2017.1080p.Bluray.X264-EVO.mkv.mp4
+#https://openload.co/f/5AArtWLZb2I/DD_Happy.Family.2017.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
+#http://entervideo.net/watch/78214b8b8f6c507
+#https://openload.co/f/sDKaKTnsdrU/Happy.Family.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
+
+type=video
+name=Husband Killers (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBJJXU8usF9tQtAU1OeCEk8q3b1.jpg
+date=2018-02-17
+URL=https://openload.co/f/vPoQEkNOJFE/Husband.Killers.2017.1080p.BluRay.x264-WiKi.mp4
 
 type=video
 name=Redoubtable (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
@@ -1938,18 +1963,7 @@ URL=https://uptobox.com/ujrip0r8bduf
 #https://uptobox.com/0qkzsuxrjzzo   720
 #https://openload.co/f/ZUT_MKGUhYI/Salyut-7.2017.BluRay.720p.x264.DTS-HDChina.mkv.mp4
 
-type=video
-name=The Snowman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg
-date=2018-01-06
-URL=https://uptobox.com/8tka5z0xadve
-#https://uptobox.com/e7pwfqz9yglk   1080
-#https://openload.co/f/ij03p_dH6Oc/The.Snowman.2017.PROPER.720p.BluRay.x264-Replica.mkv.mp4
-#https://openload.co/f/viTOmOBrXYU/The.Snowman.2017.720p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/PTyemixWhCc/The.Snowman.2017.1080p.WEB%3EB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/jL6xjg91GU4/The.Snowman.2017.720p.HC.HDRip.X264-EVO.mkv.mp4
-#https://openload.co/f/HNC97bcNWUU/The_Snowman_2017_Movies_HD_Cam_x264_Clean_Audio_AAC_New_Source_%5BrDX%5D.mkv.mp4
-#https://openload.co/f/mTFsFIWDkm4/The_Snowman_2017_NOLOGO_HDCAM_X264_HQMic-DADDY.mp4
+
 
 type=video
 name=England Is Mine (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3271,8 +3285,17 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqPnpxYaCTnvZ8y4NLpbu6Idfb
 date=2018-02-14
 URL=https://openload.co/f/JQRBE27t544/Sophie_and_the_Rising_Sun_%282016%29_BRRip_720p_Layar.mp4
 
+type=video
+name=To Keep the Light (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ob2ZEONKi2olYndsdVkjMueneOa.jpg
+date=2018-02-17
+URL=https://openload.co/f/IxTB5OE2vEQ/To.Keep.the.Light.2016.720p.BluRay.x264.DTS-MT.mkv.mp4
 
-
+type=video
+name=ManHunt (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWWmqeC1jEAGl9Nj3W65PL7Bvon.jpg
+date=2018-02-17
+URL=https://openload.co/f/fQJLIrurnuc/Manhunt.2017.720p.BluRay.x264-WiKi.mkv.mp4
 
 
 type=video
@@ -3375,9 +3398,10 @@ URL=https://streamango.com/f/meketpbdbsqbabpa/Fifty_Shades_Freed_2018_
 
 type=video
 name=Along with the Gods: The Two Worlds (2017) THCAM
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BN2FjN2Q0ZWQtN2NiOC00MTZjLTg3ZDEtMmVkNzM0ODBkYmU1XkEyXkFqcGdeQXVyNTUxNTI3MzY@._V1_SY1000_CR0,0,674,1000_AL_.jpg
-date=2018-01-29
-URL=https://streamango.com/f/sdrrrroqtqkkfsmc/Along_with_the_Gods_The_Two_Worlds_2017_7_
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ2djaODo2IC4kBCvNvfTwV8ZpH.jpg
+date=2018-02-17
+URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds_2017_7_
+#https://streamango.com/f/sdrrrroqtqkkfsmc/Along_with_the_Gods_The_Two_Worlds_2017_7_
 
 
 type=video
@@ -3590,8 +3614,40 @@ URL=
 
 
 
+
 type=video
-name=Tiger Zinda Hai (2017)
+name=The Snowman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg
+date=2018-01-06
+URL=https://uptobox.com/8tka5z0xadve
+#https://uptobox.com/e7pwfqz9yglk   1080
+#https://openload.co/f/ij03p_dH6Oc/The.Snowman.2017.PROPER.720p.BluRay.x264-Replica.mkv.mp4
+#https://openload.co/f/viTOmOBrXYU/The.Snowman.2017.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/PTyemixWhCc/The.Snowman.2017.1080p.WEB%3EB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/jL6xjg91GU4/The.Snowman.2017.720p.HC.HDRip.X264-EVO.mkv.mp4
+#https://openload.co/f/HNC97bcNWUU/The_Snowman_2017_Movies_HD_Cam_x264_Clean_Audio_AAC_New_Source_%5BrDX%5D.mkv.mp4
+#https://openload.co/f/mTFsFIWDkm4/The_Snowman_2017_NOLOGO_HDCAM_X264_HQMic-DADDY.mp4
+type=video
+name=The Snowman (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg
+date=2018-02-17
+URL=https://streamango.com/f/bbsnolefdeqrsdfs/The_Snowman_2017_
+
+
+type=video
+name=Wonderstruck (2017) ENG WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjDAt9K3FKU1itABgIXl6YvLsVE.jpg
+date=2018-01-02
+URL=https://openload.co/f/OwTj4TCUTw4/Wonderstruck.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+type=video
+name=Wonderstruck (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjDAt9K3FKU1itABgIXl6YvLsVE.jpg
+date=2018-02-17
+URL=https://streamango.com/f/npnmsfnprfsaarlb/Wonderstruck_2017_
+
+
+type=video
+name=Tiger Zinda Hai (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EHnmwCtBhfOuoKQaHUSACV5UUJ.jpg
 date=2018-02-16
 URL=https://streamango.com/f/reeddnmqrsersdet/Tiger_Zinda_Hai_2017_
@@ -3646,10 +3702,11 @@ URL=https://streamango.com/f/tksradatlsfqprtd/Real_2017_
 
 
 type=video
-name=The Cloverfield Paradox (2018) ENG 720p.WEB-DL_SeeHD
+name=The Cloverfield Paradox (2018) ENG 720HD.WEB-DL_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJe4s2h9hac0Fu3pQVV4OuWe8kU.jpg
-date=2018-02-13
-URL=https://openload.co/f/KRM36x7liew/cloverfield.3.NEW.720p.WEB-DL_SeeHD.mp4
+date=2018-02-17
+URL=https://openload.co/f/PTRaQ_ZlFw4/cloverfield3.720HD.WEB-DL_SeeHD.mp4
+#https://openload.co/f/KRM36x7liew/cloverfield.3.NEW.720p.WEB-DL_SeeHD.mp4
 #https://openload.co/f/xsfDwEBtsbc/the.cloverfield.paradox.2018.internal.1080p.web.x264-strife.mkv.mp4
 type=video
 name=The Cloverfield Paradox (2018) THSUB
@@ -4483,10 +4540,12 @@ URL=https://streamango.com/f/taflormrmbkarraf/Bleeding_Steel_2017_
 
 
 type=video
-name=Thor: Ragnarok (2017) ENG 1080p.WEB-DL_SeeHD
+name=Thor: Ragnarok (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
-date=2018-01-24
-URL=https://openload.co/f/FZ3mw-urIjo/Thor.Ragnarok.1080p.WEB-DL_SeeHD.mkv
+date=2018-02-17
+URL=https://openload.co/f/KPCwtXXMX6I/Thor.Ragnarok.2017.1080p.BluRay.x264-%5BYTSbb%5D.mp4
+#https://openload.co/f/JgTPR69wkL8/Thor.Ragnarok.2017.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/FZ3mw-urIjo/Thor.Ragnarok.1080p.WEB-DL_SeeHD.mkv
 #https://openload.co/f/I4wPo-RMVZQ/Thor.Ragnarok.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/JHfuEEGu_sY/Thor_Ragnarok_2017_NEW_HDHQ-Eng%21.mkv.mp4
 #https://openload.co/f/ZACS8q6mjqE/Thor_Ragnarok_2017_NEW_FULL_HDCAM_ENG_X264-DADDY.mkv.mp4
@@ -4810,11 +4869,17 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-14
+date=2018-02-17
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
+
+type=video
+name=Personal Shopper (2016)
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDOWYDmJvGkVkVHf7Ru66gy6ry8.jpg
+date=2018-02-17
+URL=https://openload.co/f/r5AfOg4p6VI/Personal_Shopper_%282016%29%E0%B8%AA%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%9C%E0%B8%B1%E0%B8%AA.mp4
 
 type=video
 name=The Exception (2017) TH

@@ -29,7 +29,7 @@ http://122.155.184.11/T1457077260/ngrp:livestream_all/chunklist_w1537817334_b362
 #EXTINF:-1,MONEY CHANNEL
 http://103.77.116.193:443/news/money_channel_480p.stream/playlist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV
-http://live.nationtv.tv/hls/ntv_th_high.m3u8
+http://live.nationtv.tv/hls/ntv_th.m3u8
 
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg TV Europe_1
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
@@ -111,6 +111,8 @@ http://secure-streams.akamaized.net/rt/index1600.m3u8
 http://secure-streams.akamaized.net/rt-usa/index1600.m3u8
 #EXTINF:-1,RT Documentary HD
 https://secure-streams.akamaized.net/rt-doc/index1600.m3u8
+#EXTINF:-1,Bloomberg...
+http://127.0.0.1:6689/stream?cid=4022
 #EXTINF:-1,Bloomberg UK
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1,Bloomberg TV Europe
