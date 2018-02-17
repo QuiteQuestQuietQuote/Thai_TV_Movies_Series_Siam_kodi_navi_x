@@ -61,6 +61,62 @@ URL=
 
 
 
+type=video
+name=86xxxxxxxxxxxxxxxxxxxxAsian Sex Diary [Asian Candy Shop] Lilly 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Asian-Candy-Shop-Lilly.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/tesmfncfmlntbffc/
+
+type=video
+name=Asian Sex Diary [Asian Candy Shop] Plaything Mintra Solo
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Asian-Candy-Shop-Plaything-Mintra-Solo.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/naokbfaatdkkeabt/
+
+type=video
+name=Asian Sex Diary [Asian Candy Shop] Plaything Sherri Solo
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Asian-Candy-Shop-Plaything-Sherri-Solo.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/stsspratbeaqsobl/
+
+type=video
+name=Asian Sex Diary [Asian Candy Shop] Pussy Play Bali and Bunny
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Asian-Candy-Shop-Pussy-Play-Bali-and-Bunny.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/bcqdfreqseoottqe/
+
+type=video
+name=Asian Sex Diary [Asian Candy Shop] Girls Feat Hannah Lee
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Asian-Candy-Shop-Girls-Feat-Hannah-Lee.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/rebfnbbnbfetoekq/
+
+
+type=video
+name=Asian Sex Diary [Asian Candy Shop] Girls Feat Amy
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Asian-Candy-Shop-Girls-Feat-Amy.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/sqmpbqpesrcmnqto/
+
+type=video
+name=Asian Sex Diary [Asian Candy Shop] 3 Girls at Night
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Asian-Candy-Shop-3-Girls-at-Night.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/dbrborkfnnefnptq/
+
+type=video
+name=Asian Sex Diary [Asian Candy Shop] Sansanee 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Asian-Candy-Shop-Sansanee.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/plfpsaoelkqrdtme/
+
+type=video
+name=Asian Sex Diary [Asian Candy Shop] Sherri and Sansanee
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Asian-Candy-Shop-Sherri-and-Sansanee.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/ktqfkoasqreeslmn/
+
+
 
 
 

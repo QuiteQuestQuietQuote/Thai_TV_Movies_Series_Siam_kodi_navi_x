@@ -49,6 +49,85 @@ URL=
 
 
 
+type=video
+name=83xxxxxxxxxxxxxxxxxxxxHaujyotyu (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Haujyotyu-2016.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/onnboqtcneqbases/
+
+type=video
+name=Misoji Onna No Shodo (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Misoji-Onna-No-Shodo-2016.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/peqkfnmrqetrmmpt/
+
+type=video
+name=Higaisha (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Higaisha-2016.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/eqfoqlbnfmedlqce/
+
+type=video
+name=Beautiful Sister Sister White Coat (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Beautiful-Sister-Sister-White-Coat-2016.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/kqapltpkbskmatna/
+
+type=video
+name=Sister In Law’s Dream (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Sister-In-Laws-Dream-2016.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/tamnlplrbnsnoocm/
+
+
+type=video
+name=Immoral mother who dedicated herself for her son (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Immoral-mother-who-dedicated-herself-for-her-son-2015.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/stqfplqbmmmnsbsa/
+
+type=video
+name=Pachinko Angel – Revenge Match (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Pachinko-Angel-Revenge-Match-2014.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/aqpcckmbopopemar/
+
+type=video
+name=Married woman of sex slaves – big tits wife to be tortured – YUKA TACHI (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Married-woman-of-sex-slaves-big-tits-wife-to-be-tortured-YUKA-TACHI-2015.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/bcmkarooqkellmps/
+
+type=video
+name=It is beautiful enough to become indecent – Forbidden love with brother-in-law (2015) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/It-is-beautiful-enough-to-become-indecent-Forbidden-love-with-brother-in-law-2015.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/tsafkpfcstmbpbkn/
+
+type=video
+name=Sex file (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Sex-file-2015.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/lplrqnqslnmqcptt/
+
+
+type=video
+name=The Limit of Good Wife (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/01/The-Limit-of-Good-Wife-2015.jpg
+date=2018-02-17
+URL=https://streamcherry.com/embed/ameorpodtpnkattp/
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
