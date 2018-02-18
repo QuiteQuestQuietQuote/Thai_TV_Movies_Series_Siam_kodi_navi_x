@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
+background=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_7_2018Q1
-logo=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
-icon_playlist=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
+logo=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
+icon_playlist=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, sockshare, fmovies, ganool, nanamovies./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -65,14 +65,8 @@ URL=
 
 
 
-type=video
-name=Black Panther (2018) ENG FULL_HDCAM_ENG_X264-UNiQUE
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
-date=2018-02-17
-URL=https://openload.co/f/cpVwHgNhW4M/Black_Panther_2018_FULL_HDCAM_ENG_X264-UNiQUE.mkv.mp4
-#https://openload.co/f/bPsscKAQno4/Black.Panther.2018.HDCAM.x264-%5BSpaceMov.org%5D.MP4.mp4
-#https://openload.co/f/6_rW9szwkTs/Black.Panther.2018.HDCAM.x264.MP4.mp4
-#https://openload.co/f/9iJ4yzgCyZY/Black_Panther_%282018%29_English_HDCAM.mp4
+
+
 
 type=video
 name=The Monkey King 3 (2018) CHN Cam
@@ -194,10 +188,11 @@ URL=https://openload.co/f/bDzBWi4g5EQ/Mollys_Game-DVDScr.XVID.AC3.HQ.Hive-CM8.av
 #https://openload.co/f/P8Txe4VXgyc/Mollys.Game.2017.CAM.ENG.x264-NoGRP.MP4.mp4
 
 type=video
-name=Father Figures (2017) ENG HDCAM.X264-PilaMaravilha
+name=Father Figures (2017) ENG New.HDCAM-X264-MP3-Zit
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEHOthoB2UqCIiUzhnHnLMXbRuJ.jpg
-date=2018-02-03
-URL=https://openload.co/f/OA737OU-0ZM/Father_Figures_2018.HDCAM.X264-PilaMaravilha.mkv.mp4
+date=2018-02-18
+URL=https://openload.co/f/xdYQoRZAg0Y/Father.Figures.2017.New.HDCAM-X264-MP3-Zit.mkv.mp4
+#https://openload.co/f/OA737OU-0ZM/Father_Figures_2018.HDCAM.X264-PilaMaravilha.mkv.mp4
 #https://openload.co/f/TvUQXGJF3Vw/Father.Figures.2017.CAM.x264-NoGRP.mp4
 #https://openload.co/f/uIv1hZlRdGo/Father.Figures.2017.CAM.XViD-P2P.avi.mp4
 
@@ -508,11 +503,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eI4ZZCC1oDjszKJ5RH3BPCbkVc
 date=2017-11-24
 URL=https://openload.co/f/s-WxqEEFH0Q/Instrument_of_War_2017_BYUtv_720p_HDTV_X264_Solar.mp4
 
-type=video
-name=Hangman (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cf720YwBmp0roCVfBWjGXoWzZ6C.jpg
-date=2017-11-21
-URL=https://openload.co/f/MAjYkSAfDrw/Hangman.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 
 
@@ -1332,7 +1323,12 @@ date=2018-02-17
 URL=
 
 
-
+type=video
+name=Hangman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cf720YwBmp0roCVfBWjGXoWzZ6C.jpg
+date=2018-02-18
+URL=https://openload.co/f/8Yj-RHMuSmk/Hangman.2017.BluRay.1080p.DTS.x264-CHD.mkv.mp4
+#https://openload.co/f/MAjYkSAfDrw/Hangman.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Tragedy Girls (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1357,6 +1353,8 @@ name=Husband Killers (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBJJXU8usF9tQtAU1OeCEk8q3b1.jpg
 date=2018-02-17
 URL=https://openload.co/f/vPoQEkNOJFE/Husband.Killers.2017.1080p.BluRay.x264-WiKi.mp4
+#https://www.blazefile.co/embed-lna8uxtjfkwy.html   720
+#https://uptobox.com/r8tkpdm1bmrk   720
 
 type=video
 name=Redoubtable (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
@@ -1369,12 +1367,16 @@ name=Under the Shadow (2016) [COLOR=FF00FF00]PER BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfOcumtK6tvFdtE1dyJjGiLUetr.jpg
 date=2018-02-16
 URL=https://openload.co/f/MMZro54K3lQ/under.the.shadow.2016.limited.1080p.bluray.x264-usury.mp4
+#https://www.blazefile.co/embed-whkdjxp54er9.html   720
+#https://uptobox.com/h2w49tla6lqz   720
 
 type=video
 name=Hellraiser: Judgment (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQPanQM7Cn5agduiQWiIJK32Dvn.jpg
-date=2018-02-16
-URL=https://openload.co/f/_HS9FwnflsY/Hellraiser.Judgment.2018.1080p.Br_SeeHD.mp4
+date=2018-02-18
+URL=https://www.blazefile.co/embed-niw5rb1u5lay.html
+#https://uptobox.com/w3xe9ch98gnw
+#https://openload.co/f/_HS9FwnflsY/Hellraiser.Judgment.2018.1080p.Br_SeeHD.mp4
 #https://openload.co/f/WKhz2SHM41I/Hellraiser.Judgment.2018.1080p.BluRay.X264-PSYCHD.mp4
 #https://openload.co/f/m1w9Jv8oLTg/Hellraiser.Judgment.2018.BDRip.X264-PSYCHD.mkv.mp4
 
@@ -1721,16 +1723,6 @@ URL=https://www.blazefile.co/embed-wyntwpl4suil.html
 #https://openload.co/f/N5tyfl_zQ1Y/The.Good.Catholic.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4
 #https://openload.co/f/66JktCPMeHQ/The_Good_Catholic.2017.BRRip.XviD.AC3-iFT.avi.mp4
 
-type=video
-name=Only the Brave (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg
-date=2018-01-25
-URL=https://www.blazefile.co/embed-i7n360g659k4.html
-#https://uptobox.com/k1c1pb6xeuor
-#https://openload.co/f/9J5af1lw0oU/Only.the.Brave.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
-#https://openload.co/f/QahRdsUvBVo/Only.the.Brave.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/7WSILpoqA5A/Only.the.Brave.2017.720p.BluRay.x264.DTS-HDC.mkv   MKV6.1GB
-#https://openload.co/f/kH1h565RcWE/Only.The.Brave.2017.BDRip.x264-GECKOS.mkv.mp4
 
 
 
@@ -3297,6 +3289,12 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWWmqeC1jEAGl9Nj3W65PL7Bvo
 date=2018-02-17
 URL=https://openload.co/f/fQJLIrurnuc/Manhunt.2017.720p.BluRay.x264-WiKi.mkv.mp4
 
+type=video
+name=A Taxi Driver (2017) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QbkBqgBc6TCufd0ThoGdUhlE3V.jpg
+date=2018-02-18
+URL=https://openload.co/f/hqb-2WZ_HlI/a.taxi.driver.2017.720p.bluray.x264-regret.mkv.mp4
+
 
 type=video
 name=
@@ -3368,6 +3366,23 @@ name=
 thumb=
 date=2018-01-29
 URL=http://203.162.235.41:17819
+
+
+
+
+type=video
+name=Black Panther (2018) ENG FULL_HDCAM_ENG_X264-UNiQUE
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
+date=2018-02-17
+URL=https://openload.co/f/cpVwHgNhW4M/Black_Panther_2018_FULL_HDCAM_ENG_X264-UNiQUE.mkv.mp4
+#https://openload.co/f/bPsscKAQno4/Black.Panther.2018.HDCAM.x264-%5BSpaceMov.org%5D.MP4.mp4
+#https://openload.co/f/6_rW9szwkTs/Black.Panther.2018.HDCAM.x264.MP4.mp4
+#https://openload.co/f/9iJ4yzgCyZY/Black_Panther_%282018%29_English_HDCAM.mp4
+type=video
+name=Black Panther (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
+date=2018-02-18
+URL=https://streamango.com/f/qqoddkablatcrnbr/Black_Panther_2018_
 
 
 type=video
@@ -4542,8 +4557,10 @@ URL=https://streamango.com/f/taflormrmbkarraf/Bleeding_Steel_2017_
 type=video
 name=Thor: Ragnarok (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
-date=2018-02-17
-URL=https://openload.co/f/KPCwtXXMX6I/Thor.Ragnarok.2017.1080p.BluRay.x264-%5BYTSbb%5D.mp4
+date=2018-02-18
+URL=https://www.blazefile.co/embed-njol5nxfkv8p.html
+#https://uptobox.com/0vyz3l9kacl2
+#https://openload.co/f/KPCwtXXMX6I/Thor.Ragnarok.2017.1080p.BluRay.x264-%5BYTSbb%5D.mp4
 #https://openload.co/f/JgTPR69wkL8/Thor.Ragnarok.2017.1080p.BluRay_SeeHD.mp4
 #https://openload.co/f/FZ3mw-urIjo/Thor.Ragnarok.1080p.WEB-DL_SeeHD.mkv
 #https://openload.co/f/I4wPo-RMVZQ/Thor.Ragnarok.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
@@ -4749,7 +4766,11 @@ URL=https://openload.co/f/bPl2nYIbsc0/Tell_Me_How_I_Die_%282016%29%E0%B8%99%E0%B
 
 
 
-
+type=video
+name=Paradox (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] MKV6.6GB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e7X4NjnioUoLMR74d0fUW1WSp9.jpg
+date=2018-02-18
+URL=https://openload.co/f/1Mfd9DelHfw/paradox.2017.1080p.bluray.x264-regret.mkv
 type=video
 name=Paradox (2017) TH CAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e7X4NjnioUoLMR74d0fUW1WSp9.jpg
@@ -4875,8 +4896,26 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+
 type=video
-name=Personal Shopper (2016)
+name=Only the Brave (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg
+date=2018-01-25
+URL=https://www.blazefile.co/embed-i7n360g659k4.html
+#https://uptobox.com/k1c1pb6xeuor
+#https://openload.co/f/9J5af1lw0oU/Only.the.Brave.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/QahRdsUvBVo/Only.the.Brave.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/7WSILpoqA5A/Only.the.Brave.2017.720p.BluRay.x264.DTS-HDC.mkv   MKV6.1GB
+#https://openload.co/f/kH1h565RcWE/Only.The.Brave.2017.BDRip.x264-GECKOS.mkv.mp4
+type=video
+name=Only the Brave (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg
+date=2018-02-18
+URL=https://openload.co/f/s4BKttLHd-c/Only_the_Brave_%282017%29%E0%B8%84%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B9%84%E0%B8%9F%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+
+
+type=video
+name=Personal Shopper (2016) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDOWYDmJvGkVkVHf7Ru66gy6ry8.jpg
 date=2018-02-17
 URL=https://openload.co/f/r5AfOg4p6VI/Personal_Shopper_%282016%29%E0%B8%AA%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%9C%E0%B8%B1%E0%B8%AA.mp4

@@ -29,7 +29,7 @@ http://122.155.184.11/T1457077260/ngrp:livestream_all/chunklist_w1537817334_b362
 #EXTINF:-1,MONEY CHANNEL
 http://103.77.116.193:443/news/money_channel_480p.stream/playlist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV
-http://live.nationtv.tv/hls/ntv_th.m3u8
+http://live.nationtv.tv/hls/ntv_th_sd.m3u8
 
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg TV Europe_1
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
@@ -1931,7 +1931,7 @@ http://103.77.116.193:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=EO
 
 
 #EXTINF:-1,CNBC    
-http://125.180.146.32:9981/stream/channel/dbc48dd2db82ee39c812889b26e7e69d?ticket=01D3A273BB9B7BB61E393F479CBBBBC25E051E7F&profile=pass 
+http://125.180.146.32:9981/stream/channel/dbc48dd2db82ee39c812889b26e7e69d?ticket=01D3A273BB9B7BB61E393F479CBBBBC25E051E7F&profile=pass
 
 
 
