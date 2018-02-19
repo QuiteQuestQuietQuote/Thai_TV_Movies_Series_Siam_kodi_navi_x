@@ -59,14 +59,18 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-02-17
+date=2018-02-19
 URL=
 
 
 
 
-
-
+type=video
+name=The Death of Stalin (2017) ENG 1080p_WEB-DL_DD5.1_H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/66nL9hKPerEZMOeCQuWD322Nm8g.jpg
+date=2018-02-19
+URL=https://openload.co/f/w7Tdznz7in4/The_Death_of_Stalin_2017_1080p_WEB-DL_DD5.1_H264-CMRG.mp4
+#https://openload.co/f/9k1EJcxR-3M/The.Death.of.Stalin.2018.720.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=The Monkey King 3 (2018) CHN Cam
@@ -357,10 +361,16 @@ URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.
 type=video
 name=
 thumb=
-date=2018-02-17
+date=2018-02-19
 URL=
 
 
+
+type=video
+name=Wunderland (2018) ENG 1080p.WEB-DL.AAC.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZmHjvQyjEuUmboXu6lI4WTS7WM.jpg
+date=2018-02-19
+URL=https://openload.co/f/1x3Wfa1xeFw/Battle.of.the.Bulge.2018.1080p.WEB-DL.AAC.H264-CMRG.mkv
 
 type=video
 name=Call Me by Your Name (2017) ENG 1080p.WEB-DL.H264.AC3-EVO
@@ -1333,8 +1343,10 @@ URL=https://openload.co/f/8Yj-RHMuSmk/Hangman.2017.BluRay.1080p.DTS.x264-CHD.mkv
 type=video
 name=Tragedy Girls (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMwuplUU4dg9JBBhgML42T6x0yJ.jpg
-date=2018-02-17
-URL=https://openload.co/f/Do4jS3xsvr8/Tragedy.Girls.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+date=2018-02-19
+URL=https://www.blazefile.co/embed-mbolzskbebno.html
+#https://uptobox.com/x0r9vflo6vf6
+#https://openload.co/f/Do4jS3xsvr8/Tragedy.Girls.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/nbhpKgWL7Q8/Tragedy.girls.2017.720p.WEB_SeeHD.mp4
 #https://openload.co/f/vDUVLA8RLj0/Tragedy.Girls.2017.WEB-DL.x264-RBB.mp4
 #http://entervideo.net/watch/397e6cc4a8812c1
@@ -1407,8 +1419,11 @@ URL=https://www.blazefile.co/embed-79ksytfi3jly.html
 type=video
 name=The Ballad of Lefty Brown (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4V5Q8HHewIOeanTr6oAnOQdqPY9.jpg
-date=2018-02-14
-URL=https://openload.co/f/wjVe-277WGQ/The.Ballad.of.Lefty.Brown.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-02-19
+URL=https://www.blazefile.co/embed-m1ma146dtwi5.html
+#https://uptobox.com/h4v57ple7r8f
+#https://openload.co/f/JGKPNlwKO-0/ghptheballadleftbrown80.Ganool.se.mkv
+#https://openload.co/f/wjVe-277WGQ/The.Ballad.of.Lefty.Brown.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/qoyzkiUkZpQ/The.Ballad.of.Lefty.Brown.2017.1080p.Br_SeeHD.mp4
 #https://openload.co/f/GHdGHUwdigQ/The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://www.blazefile.co/embed-okrcr8h9gyk7.html   720
@@ -4542,10 +4557,12 @@ URL=https://streamango.com/f/lkoroaqedltfpare/Coco_2017_mp4
 
 
 type=video
-name=Bleeding Steel (2017) CHN HDTC.X264.AAC-Zi%24t
+name=Bleeding Steel (2017) CHN 1080p.HC.WEBRip.x264.AAC2.0-SHITBOX
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1O26qVwkhSlicycBBK731k8vPd.jpg
-date=2018-01-03
-URL=https://openload.co/f/rbcKgVNRwDo/Bleeding.Steel.2017.720P.HDTC.X264.AAC-Zi%24t.mkv.mp4
+date=2018-02-19
+URL=https://openload.co/f/x4auntQZjCw/Bleeding.Steel.2017.1080p.HC.WEBRip.x264.AAC2.0-SHITBOX.mp4
+#https://openload.co/f/v-lZiSdTUWg/Bleeding.Steel.2017.720.V2.HC.HDRip.AC3-EVO.mkv.mp4
+#https://openload.co/f/rbcKgVNRwDo/Bleeding.Steel.2017.720P.HDTC.X264.AAC-Zi%24t.mkv.mp4
 #https://openload.co/f/haSIIRCGox8/BLEEDING_STEEL_2017_CAMRIP_X264_MP3_Zit.E.mp4
 type=video
 name=Bleeding Steel (2017) THCAM SOUND
