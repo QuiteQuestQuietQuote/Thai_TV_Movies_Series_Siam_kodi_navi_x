@@ -192,10 +192,11 @@ URL=https://openload.co/f/bDzBWi4g5EQ/Mollys_Game-DVDScr.XVID.AC3.HQ.Hive-CM8.av
 #https://openload.co/f/P8Txe4VXgyc/Mollys.Game.2017.CAM.ENG.x264-NoGRP.MP4.mp4
 
 type=video
-name=Father Figures (2017) ENG New.HDCAM-X264-MP3-Zit
+name=Father Figures (2017) ENG New_HDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEHOthoB2UqCIiUzhnHnLMXbRuJ.jpg
-date=2018-02-18
-URL=https://openload.co/f/xdYQoRZAg0Y/Father.Figures.2017.New.HDCAM-X264-MP3-Zit.mkv.mp4
+date=2018-02-20
+URL=https://openload.co/f/IJzXyWq9yJc/Father_Figures_%282017%29_New_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/xdYQoRZAg0Y/Father.Figures.2017.New.HDCAM-X264-MP3-Zit.mkv.mp4
 #https://openload.co/f/OA737OU-0ZM/Father_Figures_2018.HDCAM.X264-PilaMaravilha.mkv.mp4
 #https://openload.co/f/TvUQXGJF3Vw/Father.Figures.2017.CAM.x264-NoGRP.mp4
 #https://openload.co/f/uIv1hZlRdGo/Father.Figures.2017.CAM.XViD-P2P.avi.mp4
@@ -233,10 +234,11 @@ URL=https://openload.co/f/pc2sQRJHbXA/Lady.Bird.2017.1080p.AMZN.WEBRip.DDP5.1.x2
 #https://openload.co/f/tT44lsJFX7g/Lady.Bird.2017.DVDScr.AC3.HQ.Hive-CM8.mp4
 
 type=video
-name=The Disaster Artist (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
+name=The Disaster Artist (2017) ENG 1080p.WEB-DL.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCH6FOFsDW6pfvbbmIIswuvuNtM.jpg
-date=2017-12-31
-URL=https://openload.co/f/O4T4tChlL8Y/The.Disaster.Artist.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+date=2018-02-20
+URL=https://openload.co/f/VYjhPzUz16o/The.Disaster.Artist.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/O4T4tChlL8Y/The.Disaster.Artist.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/g9018UKAwrA/The_Disaster_Artist_2017_HDCAM_X264_HQMic-CPG.mkv.mp4
 
 type=video
@@ -287,11 +289,7 @@ URL=https://openload.co/f/_u1FMyoGufI/Woody.Woodpecker.2017.1080p.WEB-DL.DD5.1.H
 
 
 
-type=video
-name=Marrowbone (2017) RUS
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRUToAEWbPtfOOgrs7ivk96DE7i.jpg
-date=2017-11-28
-URL=http://entervideo.net/watch/dc143d328339b28
+
 
 
 
@@ -377,6 +375,7 @@ name=Call Me by Your Name (2017) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcNniniS4rfqrLH0oORikJfnIwY.jpg
 date=2018-02-17
 URL=https://openload.co/f/_Y74JPx259c/Call.Me.By.Your.Name.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/NPCxBvHdk_o/Call.Me.By.Your.Name.2017.720pHD.WEB-DL_SeeHD.mp4
 #https://openload.co/f/jw2WjiDwgc0/Call.Me.By.Your.Name.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4
 
 type=video
@@ -1338,6 +1337,7 @@ name=Hangman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cf720YwBmp0roCVfBWjGXoWzZ6C.jpg
 date=2018-02-18
 URL=https://openload.co/f/8Yj-RHMuSmk/Hangman.2017.BluRay.1080p.DTS.x264-CHD.mkv.mp4
+#https://openload.co/f/AgGTPka9kvM/Hangman.2017.1080p.Br_SeeHD.mp4
 #https://openload.co/f/MAjYkSAfDrw/Hangman.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
@@ -1532,6 +1532,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnSTP1PY2fDyat0eUa4QouuGV7
 date=2018-02-10
 URL=https://www.blazefile.co/embed-l6lu7jpscfe2.html
 #https://uptobox.com/n1e7hrn8sn5x
+#https://openload.co/f/rBLPDMqpMDE/The.Florida.Project.2017.REPACK.LIMITED.720p.BluRay.x264-SNOW.mkv.mp4
 #https://openload.co/f/6pzIA-uG7XI/The.Florida.Project.2017.1080p.Br_SeeHD.mp4
 #https://openload.co/f/2y6Cgff5XRc/The.Florida.Project.2017.720p.WEB-DL.900MB.MkvCage.mkv.mp4
 #https://openload.co/f/I0v3vaBhz6Q/The.Florida.Project.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
@@ -3309,6 +3310,17 @@ name=A Taxi Driver (2017) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QbkBqgBc6TCufd0ThoGdUhlE3V.jpg
 date=2018-02-18
 URL=https://openload.co/f/hqb-2WZ_HlI/a.taxi.driver.2017.720p.bluray.x264-regret.mkv.mp4
+
+type=video
+name=Marrowbone (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRUToAEWbPtfOOgrs7ivk96DE7i.jpg
+date=2018-02-20
+URL=https://openload.co/f/MkZiz_H6_x4/Marrowbone.2017.720p.BR_SeeHD.mp4
+#http://entervideo.net/watch/dc143d328339b28
+
+
+
+
 
 
 type=video

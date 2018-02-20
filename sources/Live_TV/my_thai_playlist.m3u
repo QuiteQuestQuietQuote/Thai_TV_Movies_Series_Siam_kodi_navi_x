@@ -1214,46 +1214,7 @@ http://113.175.179.15:4022/rtp/232.84.1.76:8430
 
 
 
-#EXTINF:-1,Polo PARTY TV
-http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1,Play Boy 
-http://109.235.192.213:8000/play/a019 
-#EXTINF:-1,Brazzers TV 
-http://109.235.192.213:8000/play/a034 
-#EXTINF:-1,Penthouse 
-http://145.255.202.20:5050/udp/239.100.102.77:8888 
-#EXTINF:-1,Playboy TV 
-http://62.203.143.4:9981/play/a029 
-#EXTINF:-1,HOT 
-http://62.203.143.4:9981/play/a03u 
-#EXTINF:-1,Miami TV (18+)
-
-http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1,Venus 
-http://62.203.143.4:9981/play/a016 
-#EXTINF:-1,KOREA_Penthouse
-http://edge1.everyon.tv:1935/etv1sb/phd927/chunklist_w109627451.m3u8
-#EXTINF:-1,KOREA _Pink TV
-http://edge2.everyon.tv:1935/etv2sb/phd62/chunklist_w1362493488.m3u8
-#EXTINF:-1,KOREA_honey
-http://edge1.everyon.tv:1935/etv1sb/phd928/chunklist_w1837891198.m3u8
-#EXTINF:-1,KOREA_Girls tv  
-http://edge2.everyon.tv:1935/etv2sb/phd501/chunklist_w1002163843.m3u8
-#EXTINF:-1,Korea _VIKI TV
-http://edge2.everyon.tv:1935/etv2sb/phd765/chunklist_w911498634.m3u8
-#EXTINF:-1,KOREA_ButGo
-http://edge2.everyon.tv/etv2sb/pld772/chunklist_w1948812165.m3u8
-#EXTINF:-1,KOREA_Spice
-http://edge2.everyon.tv:1935/etv2sb/phd499/chunklist_w1051118884.m3u8
-#EXTINF:-1,KOREA_Brazzers
-http://edge2.everyon.tv:1935/etv2sb/phd61/chunklist_w86336562.m3u8
-#EXTINF:-1,Jasmin.Tv  
-rtmp://109.71.162.112/live//sd.jasminchannel.stream
 
 
 #EXTINF:-1,HISTORY
@@ -1877,7 +1838,44 @@ http://191.96.38.185/fifa55m-41/0x777_bbcearth_720p/chunklist.m3u8
 http://191.96.38.185/fifa55m-41/0x222_lifestylehd_720p/chunklist.m3u8
 
 
+#EXTINF:-1,Polo PARTY TV
+http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
 
+
+
+#EXTINF:-1,Play Boy 
+http://109.235.192.213:8000/play/a019 
+#EXTINF:-1,Brazzers TV 
+http://109.235.192.213:8000/play/a034 
+#EXTINF:-1,Penthouse 
+http://145.255.202.20:5050/udp/239.100.102.77:8888 
+#EXTINF:-1,Playboy TV 
+http://62.203.143.4:9981/play/a029 
+#EXTINF:-1,HOT 
+http://62.203.143.4:9981/play/a03u 
+#EXTINF:-1,Miami TV (18+)
+
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1,Venus 
+http://62.203.143.4:9981/play/a016 
+#EXTINF:-1,KOREA_Penthouse
+http://edge1.everyon.tv:1935/etv1sb/phd927/chunklist_w109627451.m3u8
+#EXTINF:-1,KOREA _Pink TV
+http://edge2.everyon.tv:1935/etv2sb/phd62/chunklist_w1362493488.m3u8
+#EXTINF:-1,KOREA_honey
+http://edge1.everyon.tv:1935/etv1sb/phd928/chunklist_w1837891198.m3u8
+#EXTINF:-1,KOREA_Girls tv  
+http://edge2.everyon.tv:1935/etv2sb/phd501/chunklist_w1002163843.m3u8
+#EXTINF:-1,Korea _VIKI TV
+http://edge2.everyon.tv:1935/etv2sb/phd765/chunklist_w911498634.m3u8
+#EXTINF:-1,KOREA_ButGo
+http://edge2.everyon.tv/etv2sb/pld772/chunklist_w1948812165.m3u8
+#EXTINF:-1,KOREA_Spice
+http://edge2.everyon.tv:1935/etv2sb/phd499/chunklist_w1051118884.m3u8
+#EXTINF:-1,KOREA_Brazzers
+http://edge2.everyon.tv:1935/etv2sb/phd61/chunklist_w86336562.m3u8
+#EXTINF:-1,Jasmin.Tv  
+rtmp://109.71.162.112/live//sd.jasminchannel.stream
 
 
 #EXTINF:-1,Money Channel
@@ -1938,9 +1936,8 @@ http://103.77.116.193:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=EO
 
 
 
-#EXTINF:-1,CNBC    
-http://125.180.146.32:9981/stream/channel/dbc48dd2db82ee39c812889b26e7e69d?ticket=01D3A273BB9B7BB61E393F479CBBBBC25E051E7F&profile=pass
-
+#EXTINF:-1,Jasmin.Tv  
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL
