@@ -60,7 +60,7 @@ type=video
 name=
 thumb=
 date=2018-02-19
-URL=https://rvideo6.gdplayer.site/video.php?SndLZ2MyeG11aXdrMWppMlJtNTBwZ3A0Ni9YaFUyTFJLSlk0bzVlMTBIdzBuL0RTTVVSV2ZCMDgvMTI4Y3lGOUVQYXVYZXc1eGR0dndTamQwTGhqL09nam1jTS8yZ2JLbmpJMVZLazc1S1p4L2NpWmxoUXIreWpoMXFteXpGYW9IYUYwR0R2U0pQUWU1VjBLNGlYY2dacTVUQnZBZkxxTUlEUHZjSnlpTmM3c0FQMUswTkkwYlpiRU9NZHZKUGxNQmVIWDcwUmx6WEwrSFc3dTczNTh4MElIQTZva3hxNmxBbjN0SGxCNGhZcnZXSWZ3ejl0RGNVVHBBYzByT0U5ZDhMeS82d2NYK0JLdG9xUmRCMXJOKzVINVFtZVRMWjMweGJnTXpXVmhNQTJCQXF2WXhEeGhBZEJLUHhNOGNjWUVhWlA1cXdXTFVFSGc0eWJBVUsyRUY4TjBRZnY3STVnRVNiUXdXNDVaRWMrUkZZclJPbWhCbTdQVk85T0lwbTFCM0t2QlVKa1JBcFhPYlFFaUwwTTdFelY5ZmFyYmo0S1dHVVpiWEN3SU1RTUFKMjI1ajRVT21zZTNNWHJUTzR3dHpYak0yWVU4M05mQ0FwcDk0elZoZjFqRkh1WGZldmJGWHJsZ1BJOCs2ZzBVVDZIZjVwOTg5UGtyWEtoL25EUUxHUitwTWFXUk9QSVIvWTVMNWc4TjJIUzl4T2U3K2ZYL3dGTERDWmVsWTNBSWo2WEltd0Rwa09odnFOOGZLL1kvYXNrZVVLZnFBaHNIWXRyZkxZWFIrQlVCOHpKWXc5cXdaSHRBYmMwcnUvK1hsS1EzV3d1VzBKK3VxUk9zeUNTWnFUQ0RjVUREQ2h2K2I3a3ZMOTF4NTUvVStWV2NFNEZaMEI0NVpEVGFPTFh5L0RGRE5BMnVOUHVCWkJOTEVFaEs3YlhtVklIbStOYXNoeGh6OUtpWmpRcFY1YUdzbFdwc1hUNDFvNERrNVM3eHYyVHFHOUY2VEN0a2Q0YS9zTXpNUG5kdmgwMXozUUtYbS83VHUxdlZjd2VLQzJIN0cwNm1iNCtSN29VNHZXUlVTNUlEWTR2UmgrNjg5MTJjQ080NWFoVklBTVN0eis2dUMrTUVPU2xuUUdoengxSklUZXFH
+URL=
 
 
 
@@ -202,10 +202,11 @@ URL=https://openload.co/f/IJzXyWq9yJc/Father_Figures_%282017%29_New_HDCAM_SeeHD.
 #https://openload.co/f/uIv1hZlRdGo/Father.Figures.2017.CAM.XViD-P2P.avi.mp4
 
 type=video
-name=Wonder Wheel (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
+name=Wonder Wheel (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPXn8SW4pa4kJErAIAJLmb3Znns.jpg
-date=2018-01-04
-URL=https://openload.co/f/mfpvZQIhOW4/Wonder.Wheel.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+date=2018-02-21
+URL=https://openload.co/f/x5N1woRYvPg/Wonder.Wheel.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/mfpvZQIhOW4/Wonder.Wheel.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 
 type=video
 name=The Greatest Showman (2017)  ENG HDCAM_ENG_X264-DADDY
@@ -411,10 +412,11 @@ date=2018-02-16
 URL=https://openload.co/f/CA3g8Dko2no/Auld.Lang.Syne.2016.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
-name=The Man Who Invented Christmas (2017) ENG HC.HDRip.XviD.AC3-EVO
+name=The Man Who Invented Christmas (2017) ENG 720p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRkzRue5rTzB6PESXBJCKqROOXC.jpg
-date=2018-02-14
-URL=https://openload.co/f/vt-5WCEjuY4/The_Man_Who_Invented_Christmas.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
+date=2018-02-21
+URL=https://openload.co/f/nEXzA0TkDEU/The.Man.Who.Invented.Christmas.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/vt-5WCEjuY4/The_Man_Who_Invented_Christmas.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Painted Woman (2017) ENG 1080p_WEB-DL_DD5_1_H264-CMRG
@@ -1232,13 +1234,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/62oRA7ghxL9HGFHe5Dd9IVljyK
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
-type=video
-name=Same Kind of Different as Me (2017) ENG BRRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCTwHtXBVL96ImKDwm5T8pPNO41.jpg
-date=2018-02-08
-URL=https://openload.co/f/ya7riPaKiWM/Same_Kind_of_Different_as_Me.2017.BRRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/qItzmC2ilFI/Same.Kind.of.Different.as.Me.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/ya7riPaKiWM/Same_Kind_of_Different_as_Me.2017.BRRip.XviD.AC3-EVO.avi.mp4
+
 
 
 
@@ -1328,15 +1324,94 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-17
+date=2018-02-21
 URL=
 
+type=video
+name=Reset (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwTonDtQstoMQHYEBCz8x8RvBJJ.jpg
+date=2018-02-21
+URL=https://www.blazefile.co/embed-lh2b03e7ahrp.html
+#https://uptobox.com/ux069e3wplu5
+#https://openload.co/f/235mxEsrzMc/Reset.2017.1080p_BluRay_x264_DTS_-WiKi_Ganool.mkv.mp4
+
+type=video
+name=Legend of the Naga Pearls (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xX7Plx8yT2hL7jjvQGUYiBfUAww.jpg
+date=2018-02-21
+URL=https://www.blazefile.co/embed-o8vmjvqbcysd.html
+#https://uptobox.com/yb0ul9ypk012
+#https://openload.co/f/40o3tS9jDvA/Legend_of_the_Naga_Pearls_%282017%29Blu-ray_1080p_AVC_DTS-HD_MA_5.1-_Shadowman_Ganool.mkv.mp4
+
+type=video
+name=Mr. Frog (2016) [COLOR=FF00FF00]DUT BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWDAlRE9tNeu59AIlShh8kiOJ7q.jpg
+date=2018-02-21
+URL=https://openload.co/f/EsHlbeuBFqg/Meester.Kikker.2016.1080p.BluRay.x264-MERLiNA.mkv.mp4
+
+type=video
+name=Female Fight Club (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6Sa24tGF9va8FnMtR5Uj7Icx8H.jpg
+date=2018-02-21
+URL=https://openload.co/f/hKJCUBKV4JY/F.F.C.Female.Fight.Club.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Nerdland (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pa3HRvwqA4qCCQeZQNBMMJVKGYO.jpg
+date=2018-02-21
+URL=https://openload.co/f/QIYBtCWFNNU/nerdland.2016.1080p.bluray.x264-sprinter.mkv.mp4
+
+type=video
+name=The Girl Without Hands (2016) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnBmXdmd8pj9Hagr6zaDuxdTxhT.jpg
+date=2018-02-21
+URL=https://openload.co/f/0HZUCp61mTQ/The.Girl.Without.Hands.2016.1080p.BluRay.x264-NODLABS.mkv.mp4
+
+type=video
+name=Escape Room (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EeVYPiZoBeQSP9hMCryOBEv1bm.jpg
+date=2018-02-21
+URL=https://www.blazefile.co/embed-fu2gw8lzu7yz.html
+#https://uptobox.com/y745jnkm617f
+#https://openload.co/f/Q011PVW1XJ8/escperoom80.Ettv.st.mkv
+
+type=video
+name=Novitiate (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZ9BbRy4YGFM1yvx6ZDO7qzILJ.jpg
+date=2018-02-21
+URL=https://www.blazefile.co/embed-thhtw5hytq8b.html
+#https://uptobox.com/177hmwgk6062
+#https://openload.co/f/ihYAfN5FFqo/noviate80.Ettv.st.mkv
+
+type=video
+name=Same Kind of Different as Me (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCTwHtXBVL96ImKDwm5T8pPNO41.jpg
+date=2018-02-21
+URL=https://www.blazefile.co/embed-tahln9fnm2zk.html
+#https://uptobox.com/fc3qnp1a2fho
+#https://openload.co/f/IoHkYAxcPOA/ghpsmekiid0fdiffrentasme80.Ettv.st.mkv
+#https://openload.co/f/ya7riPaKiWM/Same_Kind_of_Different_as_Me.2017.BRRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/qItzmC2ilFI/Same.Kind.of.Different.as.Me.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/ya7riPaKiWM/Same_Kind_of_Different_as_Me.2017.BRRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Marrowbone (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRUToAEWbPtfOOgrs7ivk96DE7i.jpg
+date=2018-02-21
+URL=https://www.blazefile.co/embed-0rmnl4pvqm9a.html
+#https://uptobox.com/r1i4aj9565rc
+#https://openload.co/f/-YTh2hoDQsw/mrrowbone80.Ettv.st.mkv
+#https://openload.co/f/MkZiz_H6_x4/Marrowbone.2017.720p.BR_SeeHD.mp4
+#http://entervideo.net/watch/dc143d328339b28
 
 type=video
 name=Hangman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cf720YwBmp0roCVfBWjGXoWzZ6C.jpg
-date=2018-02-18
-URL=https://openload.co/f/8Yj-RHMuSmk/Hangman.2017.BluRay.1080p.DTS.x264-CHD.mkv.mp4
+date=2018-02-21
+URL=https://www.blazefile.co/embed-h583jzqorkmp.html
+#https://uptobox.com/1wgif0dxltgz
+#https://openload.co/f/A8sxe4Eo7Uo/hagman80.Ettv.st.mkv
+#https://openload.co/f/8Yj-RHMuSmk/Hangman.2017.BluRay.1080p.DTS.x264-CHD.mkv.mp4
 #https://openload.co/f/AgGTPka9kvM/Hangman.2017.1080p.Br_SeeHD.mp4
 #https://openload.co/f/MAjYkSAfDrw/Hangman.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
@@ -1354,8 +1429,11 @@ URL=https://www.blazefile.co/embed-mbolzskbebno.html
 type=video
 name=Happy Family (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp1kMdB5TVZ5ZN7BdpGQbVhAbfh.jpg
-date=2018-02-17
-URL=https://openload.co/f/EjWV2xGBA5k/Happy.Family.2017.1080p.Bluray.X264-EVO.mkv.mp4
+date=2018-02-21
+URL=https://www.blazefile.co/embed-ikkj4i59usiw.html
+#https://uptobox.com/34d3ow8vjgsh
+#https://openload.co/f/oo9ERcTDNFk/happyfamily80.Ettv.st.mkv
+#https://openload.co/f/EjWV2xGBA5k/Happy.Family.2017.1080p.Bluray.X264-EVO.mkv.mp4
 #https://openload.co/f/5AArtWLZb2I/DD_Happy.Family.2017.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
 #http://entervideo.net/watch/78214b8b8f6c507
 #https://openload.co/f/sDKaKTnsdrU/Happy.Family.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
@@ -1952,16 +2030,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWQh4iIt3WQvWrhMoukPCshzNs
 date=2018-01-06
 URL=https://openload.co/f/xtqtInzqiXo/The_Last_Warrior_%282017%29_Posledniy_bogatyr_2017.1080p.BluRay.x264.mp4.mp4
 
-type=video
-name=Happy Death Day (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
-date=2018-01-06
-URL=https://uptobox.com/pifzxk307tme
-#https://openload.co/f/68otQ6oKky4/happy.death.day.2017.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/V2dACs9dlc8/Happy.Death.Day.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
-#https://openload.co/f/Cj6-0Jdp9Q4/Happy.Death.Day.2017.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/xaI6kEGbCps/Happy.Death.Day.2017.1080p.WEB-DL.DD5.1.H.264-THVM.mkv.mp4
-#https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
+
+
 
 type=video
 name=Salyut 7 (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
@@ -3311,12 +3381,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QbkBqgBc6TCufd0ThoGdUhlE3V
 date=2018-02-18
 URL=https://openload.co/f/hqb-2WZ_HlI/a.taxi.driver.2017.720p.bluray.x264-regret.mkv.mp4
 
-type=video
-name=Marrowbone (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRUToAEWbPtfOOgrs7ivk96DE7i.jpg
-date=2018-02-20
-URL=https://openload.co/f/MkZiz_H6_x4/Marrowbone.2017.720p.BR_SeeHD.mp4
-#http://entervideo.net/watch/dc143d328339b28
+
 
 
 
@@ -3650,11 +3715,33 @@ URL=https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0
 type=video
 name=
 thumb=
-date=2018-02-16
+date=2018-02-21
 URL=
 
 
 
+type=video
+name=Fullmetal Alchemist (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmvCmIrpdw8qmRs1KDY8VjY7HpA.jpg
+date=2018-02-21
+URL=https://streamango.com/f/rncssneeckcdpfqf/Fullmetal_Alchemist_2017_
+
+
+type=video
+name=Happy Death Day (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
+date=2018-01-06
+URL=https://uptobox.com/pifzxk307tme
+#https://openload.co/f/68otQ6oKky4/happy.death.day.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/V2dACs9dlc8/Happy.Death.Day.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/Cj6-0Jdp9Q4/Happy.Death.Day.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/xaI6kEGbCps/Happy.Death.Day.2017.1080p.WEB-DL.DD5.1.H.264-THVM.mkv.mp4
+#https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
+type=video
+name=Happy Death Day (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
+date=2018-02-21
+URL=https://streamango.com/f/btlroalmepbsplcr/Happy_Death_Day_2017_
 
 
 type=video
@@ -4919,11 +5006,41 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-17
+date=2018-02-21
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=American Pastoral (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RSZR8clQh6170hRODWH5yS9nHS.jpg
+date=2018-02-21
+URL=https://openload.co/f/TyvJtL-ZalQ/American_Pastoral_%282016%29%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%99_%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%A5%E0%B8%B2%E0%B8%A2.mp4
+
+type=video
+name=JoJo's Bizarre Adventure: Diamond Is Unbreakable - Chapter 1 (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYiw2DZaM682QffkF4MdKLyWysl.jpg
+date=2018-02-21
+URL=https://openload.co/f/HMefhp119jU/JoJo%27s_Bizarre_Adventure%3A_Diamond_Is_Unbreakable_-_Chapter_1_%282017%29%E0%B9%82%E0%B8%88%E0%B9%82%E0%B8%88%E0%B9%89_%E0%B9%82%E0%B8%88%E0%B9%8B%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%A8%E0%B8%95%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%A9.mp4
+
+type=video
+name=For a Few Bullets (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hB3unT9oePkRe05yzKsC7zltQxr.jpg
+date=2018-02-21
+URL=https://openload.co/f/ibM0HBsA6cQ/For_a_Few_Bullets_%282016%29%E0%B8%84%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%9F%E0%B8%B1%E0%B8%94.mp4
 
 
 type=video
