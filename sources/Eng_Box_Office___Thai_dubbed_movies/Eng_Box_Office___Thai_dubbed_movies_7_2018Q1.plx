@@ -58,12 +58,19 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 
 type=video
 name=
-thumb=
-date=2018-02-19
-URL=
+thumb=https://www.mehlizmovies.com/wp-content/uploads/2017/11/s5HQf2Gb3lIO2cRcFwNL9sn1o1o-185x278.jpg
+date=2018-02-22
+URL=https://ok.ru/videoembed/358230526528
 
 
 
+
+
+type=video
+name=Winchester (2018) ENG HDCAM.x264-DiRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg
+date=2018-02-22
+URL=https://openload.co/f/c4esc5nzmqs/Winchester.2018.HDCAM.x264-DiRG.mp4
 
 type=video
 name=The Death of Stalin (2017) ENG 1080p_WEB-DL_DD5.1_H264-CMRG
@@ -85,10 +92,11 @@ date=2018-02-16
 URL=https://openload.co/f/6oGjRk_3toQ/Monster_Hunt_2_%282018%29_Cam.mp4
 
 type=video
-name=Peter Rabbit (2018) RUS Cam
+name=Peter Rabbit (2018) ENG HDCAM.x264-DiRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
-date=2018-02-15
-URL=https://openload.co/f/dTapIIDbV60/Peter_Rabbit_%282018%29_RUS.Cam.mp4
+date=2018-02-22
+URL=https://openload.co/f/OztM_HaRQX4/Peter.Rabbit.2018.HDCAM.x264-DiRG.mp4
+#https://openload.co/f/dTapIIDbV60/Peter_Rabbit_%282018%29_RUS.Cam.mp4
 
 type=video
 name=The 15:17 to Paris (2018) ENG HDCAM_720p_Layar
@@ -359,9 +367,9 @@ URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.
 
 type=video
 name=
-thumb=
+thumb=https://www.mehlizmovies.com/wp-content/uploads/2017/08/gLKNYBTrVs46yHniULta584y5NO-185x278.jpg
 date=2018-02-19
-URL=
+URL=https://rvideo5.gdplayer.site/video.php?SUZlaGZqQS92M01rMWppMlJtNTBwZ3A0Ni9YaFUyTFJLSlk0cXNXMWxHNDBuL0RTTVVSV2ZCMDgvMTI4Y3lGOUVQYXVYZXc1eGR0dndTamQwTGhqL09nam1jTS8yZ2JLbmpJMVZLazc1S1p4L2NpWmxoUXIreWpoMXE2NXpGYW9IYUYwR0R2U0pQUWU1VjBLNGlYY2dacTVUQnZBZkxxTUlEUHZjSnlpTmM3c0FQMUswTkkwYlpiRU9NZG1kdmtJRitIWDcwUmx6WEwrSFc3dTczNTh4MElBQ0tva3hxNmxBbjN0SGxCNGhZcnZXSWZ3ejl0RGNVVHBBYzByT0U5ZDhMeS82d2NYK0F2cmxMbGRBaHJFKzhydVB6dTFJci8zNEx3aXluVmhNQTJCQXF2WXhEeGhBZEJLUHhNOGNjWUVhWlA1cXdXTFVFSGc0eWJBVUsyRUY4TjBRZnY3STVnRVNiUXdXNDVaRWMrUkZZclJPbWhCbTdQVk85T0lwbTFCM0t2QlVKa1JBcFhPYlFFaUwwTTdFelJ4ZjZUYWk0cVNIa1piWEN3SU1RTUFKV3U5aG9jT21zZTNNWHJUTzR3dHpYak0yWVU4M05mQ0FwcDk0elZoZjFqRkh1WGZldmJGWHJsZ1BJOCs2ZzBVVDZIZjVwOTg5UHN1VzY5OW1EUUxHUitwTWFXUk9QSUovWXdXK2drTTJIUzl4T2JJLzlqKzRVZnBONGVqVVFWdnE2WEltd0Rwa09odnFOOGZLL1kvYXNrZVVLZnFBaHNIWXRyZkxZWFIrQlVCOHpKWXc5cXdaSHRBYmMwcnUvK1hsS1EzV3d1VzBKK3VxUk9zeUNTWnFUQ0RjVUREQ2h2K2I3a3ZMOTF4NTUvVStWV2NFNEZaMEI0NVpEVGFPTFh5L0RGRE5BMnVOUHVCWkJOTEVFaEs3YlhtVklIbStOYXNoeGh6OUtqZzlBb2k0OUtsbFdKcVdEQkJvL25vN2lId3ZCVHVGS1FQU2wwVUFmYTZ0Ny9KUkFjWjgwOXgzUStYN3ZqVnVscW5Bbkw1Q3hhSVpVN1RISXpubTRRL3gyd25PNWNBRjQrc2o1MjQ5RmpwZlpvNWFoVklBTVN0eis3VEM3ZzViMjVsVGsxbDhWSkxSK3FH
 
 
 
@@ -718,10 +726,11 @@ date=2017-11-07
 URL=https://openload.co/f/o-ZqryzSkxc/Barracuda.2017.HDRip.XviD.AC3-EVO.avi
 
 type=video
-name=Thumper (2017) ENG WEB-DL H264 AC3-EVO
+name=Thumper (2017) ENG 720p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQVMjMW9CNofYqLHZO7AkZWG9t5.jpg
-date=2017-11-07
-URL=https://www.blazefile.co/embed-qn9c0rptlau3.html
+date=2018-02-22
+URL=https://openload.co/f/dA33mr88JaE/Thumper.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://www.blazefile.co/embed-qn9c0rptlau3.html
 #https://openload.co/f/bX-xz_DyKt0/Thumper.2017.HDRip.XviD.AC3-EVO.avi
 
 type=video
@@ -752,10 +761,11 @@ URL=https://openload.co/f/9FjyQeOnc4Q/Wolf.Mother.2016.1080p.WEBRip.x264-iNTENSO
 
 
 type=video
-name=Slamma Jamma (2017) ENG DVDRip.x264-PSYCHD
+name=Slamma Jamma (2017) ENG 1080p.WEB-DL.DD5.1.H.264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUTx2OFM8qyRsacjjNK4ZmaAs3M.jpg
-date=2017-11-10
-URL=https://openload.co/f/l8BAlGwZsKY/Slamma_Jamma.2017.DVDRip.x264-PSYCHD.mkv.mp4
+date=2018-02-22
+URL=https://openload.co/f/aJPunmpnd8g/Slamma.Jamma.2017.1080p.WEB-DL.DD5.1.H.264-FGT.mkv.mp4
+#https://openload.co/f/l8BAlGwZsKY/Slamma_Jamma.2017.DVDRip.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/GSOjQyl0JeA/Slamma_Jamma.2017.DVDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
@@ -1222,10 +1232,11 @@ URL=https://openload.co/f/smkyhOXIZKc/deep.2017.dvdrip.x264.fragment.mkv.mp4
 #https://openload.co/f/_s_f41ayWNo/Deep.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
-name=Unleashed (2017) ENG dvdrip.x264-lpd
+name=Unleashed (2017) ENG 1080p.WEB-DL.DD5.1.H.264.CRO-DIAMOND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fk7xQMvfsEoIDhzsfAg8yDFRasf.jpg
-date=2017-12-12
-URL=https://openload.co/f/fE7rBHsE7hg/unleashed.limited.2016.dvdrip.x264-lpd.mkv.mp4
+date=2018-02-22
+URL=https://openload.co/f/j-FYUvh9saM/Unleashed.2016.1080p.WEB-DL.DD5.1.H.264.CRO-DIAMOND.mkv.mp4
+#https://openload.co/f/fE7rBHsE7hg/unleashed.limited.2016.dvdrip.x264-lpd.mkv.mp4
 #https://openload.co/f/f3gwH7ze0BA/Unleashed.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
@@ -1324,8 +1335,40 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-21
+date=2018-02-22
 URL=
+
+
+
+type=video
+name=Hermia & Helena (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zQXMdotYbiSuBM4NWHQMSRGNT.jpg
+date=2018-02-22
+URL=https://openload.co/f/_bWtUIlilXQ/hermia.and.helena.2016.limited.1080p.bluray.x264-bipolar.mkv.mp4
+#https://www.blazefile.co/embed-8fq97t401c52.html   720
+#https://uptobox.com/w8y1qvkh52o6   720
+#https://openload.co/f/__RMAFoLQ20/shqhermiaandhlenabd72.Ettv.st.mkv
+
+type=video
+name=Mohawk (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGZE7BeHzTOarIbjSzlGbIc8sPr.jpg
+date=2018-02-22
+URL=https://openload.co/f/_EJFku28H7A/mohawk.2017.1080p.bluray.x264-rusted.mkv.mp4
+#https://www.blazefile.co/embed-4traelyfzvmx.html   720
+#https://uptobox.com/jfga2gits1jd   720
+#https://openload.co/f/8zfrAJCVXYw/mohawkbd72.Ettv.st.mkv
+
+type=video
+name=Puppy! (2017) Short [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TUGWgg7GX2w8Y2JjEKDldCp1Uz.jpg
+date=2018-02-22
+URL=https://openload.co/f/dktxY55WoS8/Puppy.2017.1080p.BluRay.x264-FLAME.mkv.mp4
+
+type=video
+name=Handia (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTaaLwdCWHJQGGhGAiFcGYTuk1y.jpg
+date=2018-02-22
+URL=https://openload.co/f/L51ns9BrHBc/Giant.2017.1080p.BluRay.x264_YTS
 
 type=video
 name=Reset (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
@@ -1354,6 +1397,9 @@ name=Female Fight Club (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6Sa24tGF9va8FnMtR5Uj7Icx8H.jpg
 date=2018-02-21
 URL=https://openload.co/f/hKJCUBKV4JY/F.F.C.Female.Fight.Club.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://www.blazefile.co/embed-5s2uai28ki34.html   720
+#https://uptobox.com/rkiat4c4wx81   720
+#https://openload.co/f/qwE95ecx33I/fcfemalefightclubbd72.Ettv.st.mkv
 
 type=video
 name=Nerdland (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1470,15 +1516,7 @@ URL=https://www.blazefile.co/embed-niw5rb1u5lay.html
 #https://openload.co/f/WKhz2SHM41I/Hellraiser.Judgment.2018.1080p.BluRay.X264-PSYCHD.mp4
 #https://openload.co/f/m1w9Jv8oLTg/Hellraiser.Judgment.2018.BDRip.X264-PSYCHD.mkv.mp4
 
-type=video
-name=Three Billboards Outside Ebbing, Missouri (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgvw6w1CtcFkuXXn004S5wQsHRl.jpg
-date=2018-02-15
-URL=https://www.blazefile.co/embed-p9ytc4hx1tci.html
-#https://uptobox.com/zmek66mbwu2x
-#https://openload.co/f/w9zHOz8wisg/Three.Billboards.Outside.Ebbing.Missouri.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/ZjH_5EoCfNY/Three_Billboards_Outside_Ebbing_Missouri.2017.720pHD.WEB-DL_SeeHD.mp4
-#https://openload.co/f/7LFK5fM_0wM/Three_Billboards_Outside_Ebbing%2CMissouri_2017_DVDScr_XVID_AC3_HQ_Hive--CM8.avi.mp4
+
 
 type=video
 name=Darkest Hour (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1525,6 +1563,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSaeahvo1GU7v4W6CX2y0j7fxM
 date=2018-02-13
 URL=https://www.blazefile.co/embed-cylif71kgnke.html
 #https://uptobox.com/vopnzjij1h4i
+#https://openload.co/f/G9o26nqP2eY/Mom.and.Dad.2017.1080p.BluRay.X264-PSYCHD.mkv.mp4
 #https://www.blazefile.co/embed-mfywjbuy6m7v.html   720
 #https://uptobox.com/sy38017dav8v   720
 #https://openload.co/f/2nxCFN_foWg/Mom_and_Dad_2018_BRRip_XviD_AC3-EVO.mp4
@@ -3463,10 +3502,11 @@ URL=http://203.162.235.41:17819
 
 
 type=video
-name=Black Panther (2018) ENG FULL_HDCAM_ENG_X264-UNiQUE
+name=Black Panther (2018) ENG NEW.HDTS.X264.MP3-ZiSt
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
-date=2018-02-17
-URL=https://openload.co/f/cpVwHgNhW4M/Black_Panther_2018_FULL_HDCAM_ENG_X264-UNiQUE.mkv.mp4
+date=2018-02-22
+URL=https://openload.co/f/WZ4OiGMkCYo/Black.Panther.2018.ENG.NEW.HDTS.X264.MP3-ZiSt.mkv.mp4
+#https://openload.co/f/cpVwHgNhW4M/Black_Panther_2018_FULL_HDCAM_ENG_X264-UNiQUE.mkv.mp4
 #https://openload.co/f/bPsscKAQno4/Black.Panther.2018.HDCAM.x264-%5BSpaceMov.org%5D.MP4.mp4
 #https://openload.co/f/6_rW9szwkTs/Black.Panther.2018.HDCAM.x264.MP4.mp4
 #https://openload.co/f/9iJ4yzgCyZY/Black_Panther_%282018%29_English_HDCAM.mp4
@@ -3715,10 +3755,17 @@ URL=https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0
 type=video
 name=
 thumb=
-date=2018-02-21
+date=2018-02-22
 URL=
 
 
+
+
+type=video
+name=The Siege of Jadotville (2016) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9r21jawIp226dlQ8dLzwSBrRDNY.jpg
+date=2018-02-22
+URL=https://streamango.com/f/plpbbcfqtqftsqas/The_Siege_of_Jadotville_2016_
 
 type=video
 name=Fullmetal Alchemist (2017) THSUB
@@ -4670,31 +4717,7 @@ date=2018-01-22
 URL=https://streamango.com/f/taflormrmbkarraf/Bleeding_Steel_2017_
 
 
-type=video
-name=Thor: Ragnarok (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
-date=2018-02-18
-URL=https://www.blazefile.co/embed-njol5nxfkv8p.html
-#https://uptobox.com/0vyz3l9kacl2
-#https://openload.co/f/KPCwtXXMX6I/Thor.Ragnarok.2017.1080p.BluRay.x264-%5BYTSbb%5D.mp4
-#https://openload.co/f/JgTPR69wkL8/Thor.Ragnarok.2017.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/FZ3mw-urIjo/Thor.Ragnarok.1080p.WEB-DL_SeeHD.mkv
-#https://openload.co/f/I4wPo-RMVZQ/Thor.Ragnarok.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/JHfuEEGu_sY/Thor_Ragnarok_2017_NEW_HDHQ-Eng%21.mkv.mp4
-#https://openload.co/f/ZACS8q6mjqE/Thor_Ragnarok_2017_NEW_FULL_HDCAM_ENG_X264-DADDY.mkv.mp4
-#https://openload.co/f/pxPD4dDpDnY/Thor_Ragnarok_2017_ENG_HDCAM_x264-JellyBean.mp4
-#https://openload.co/f/TJgCB67boIs/Thor_Ragnarok_2017_ENG_HDCAM_x264-NEXUS_%28few_minutes_are_spanish%29.mp4
-#https://openload.co/f/6ZvZcs_wfXQ/Thor_Ragnarok_2017_NOLOGO_ENG_LQ_HDCAM.mp4
-#https://openload.co/f/N5CTkRYKr5g/Thor%3A_Ragnarok_2017_HDCAM_%5BLayar-21.com%5D.mp4
-#http://entervideo.net/watch/fbc6907370d0144
-type=video
-name=Thor: Ragnarok (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
-date=2018-02-04
-URL=https://streamango.com/f/rqfscmenconqntpq/Thor_Ragnarok_2017_
-#https://streamango.com/f/fsknanmrcbmodqsm/Thor_Ragnarok_2017_
-#https://openload.co/f/pY7IWR3c-Bg/Thor%3A_Ragnarok_%282017%29%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
-#https://openload.co/f/1Px-WShSrHo/Thor.Ragnarok.2017.720p.TS.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+
 
 
 type=video
@@ -5018,10 +5041,48 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+type=video
+name=Three Billboards Outside Ebbing, Missouri (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgvw6w1CtcFkuXXn004S5wQsHRl.jpg
+date=2018-02-15
+URL=https://www.blazefile.co/embed-p9ytc4hx1tci.html
+#https://uptobox.com/zmek66mbwu2x
+#https://openload.co/f/w9zHOz8wisg/Three.Billboards.Outside.Ebbing.Missouri.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/ZjH_5EoCfNY/Three_Billboards_Outside_Ebbing_Missouri.2017.720pHD.WEB-DL_SeeHD.mp4
+#https://openload.co/f/7LFK5fM_0wM/Three_Billboards_Outside_Ebbing%2CMissouri_2017_DVDScr_XVID_AC3_HQ_Hive--CM8.avi.mp4
+type=video
+name=Three Billboards Outside Ebbing, Missouri (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgvw6w1CtcFkuXXn004S5wQsHRl.jpg
+date=2018-02-22
+URL=https://openload.co/f/J9OlK5TqvXM/Three_Billboards_Outside_Ebbing%2C_Missouri_%282017%293_%E0%B8%9A%E0%B8%B4%E0%B8%A5%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94_%E0%B8%97%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%81.mp4
 
 
-
-
+type=video
+name=Thor: Ragnarok (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
+date=2018-02-18
+URL=https://www.blazefile.co/embed-njol5nxfkv8p.html
+#https://uptobox.com/0vyz3l9kacl2
+#https://openload.co/f/KPCwtXXMX6I/Thor.Ragnarok.2017.1080p.BluRay.x264-%5BYTSbb%5D.mp4
+#https://openload.co/f/JgTPR69wkL8/Thor.Ragnarok.2017.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/FZ3mw-urIjo/Thor.Ragnarok.1080p.WEB-DL_SeeHD.mkv
+#https://openload.co/f/I4wPo-RMVZQ/Thor.Ragnarok.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/JHfuEEGu_sY/Thor_Ragnarok_2017_NEW_HDHQ-Eng%21.mkv.mp4
+#https://openload.co/f/ZACS8q6mjqE/Thor_Ragnarok_2017_NEW_FULL_HDCAM_ENG_X264-DADDY.mkv.mp4
+#https://openload.co/f/pxPD4dDpDnY/Thor_Ragnarok_2017_ENG_HDCAM_x264-JellyBean.mp4
+#https://openload.co/f/TJgCB67boIs/Thor_Ragnarok_2017_ENG_HDCAM_x264-NEXUS_%28few_minutes_are_spanish%29.mp4
+#https://openload.co/f/6ZvZcs_wfXQ/Thor_Ragnarok_2017_NOLOGO_ENG_LQ_HDCAM.mp4
+#https://openload.co/f/N5CTkRYKr5g/Thor%3A_Ragnarok_2017_HDCAM_%5BLayar-21.com%5D.mp4
+#http://entervideo.net/watch/fbc6907370d0144
+type=video
+name=Thor: Ragnarok (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg
+date=2018-02-22
+URL=https://openload.co/f/v5PV_rTX720/Thor%3A_Ragnarok_%282017%29%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2.mp4
+#https://streamango.com/f/rqfscmenconqntpq/Thor_Ragnarok_2017_
+#https://streamango.com/f/fsknanmrcbmodqsm/Thor_Ragnarok_2017_
+#https://openload.co/f/pY7IWR3c-Bg/Thor%3A_Ragnarok_%282017%29%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+#https://openload.co/f/1Px-WShSrHo/Thor.Ragnarok.2017.720p.TS.x264.ThaiRong2.0_CpT%40CtHts.mkv.mp4
 
 
 type=video

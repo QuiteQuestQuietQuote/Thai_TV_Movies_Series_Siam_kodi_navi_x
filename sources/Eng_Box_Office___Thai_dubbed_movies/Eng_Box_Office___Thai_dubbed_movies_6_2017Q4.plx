@@ -129,8 +129,9 @@ URL=https://www.blazefile.co/embed-92vhwvq28m89.html
 type=video
 name=The Hitman's Bodyguard (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg
-date=2017-12-25
-URL=https://openload.co/f/2kk6FuIOCQw/The_Hitman%27s_Bodyguard_%282017%29%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%9A%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94.mp4
+date=2018-02-22
+URL=https://openload.co/f/3lQE82c4_HI/The_Hitman%27s_Bodyguard_%282017%29%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%9A%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94.mp4
+#https://openload.co/f/2kk6FuIOCQw/The_Hitman%27s_Bodyguard_%282017%29%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%9A%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94.mp4
 #https://openload.co/f/F2OrZJXph3c/%7BMINI_Super-HQ%7D_The.Hitmans.Bodyguard.2017.1080p.WEB-DL.ThaiRong.5.1.x264_CpT%40CtHts.mkv.mp4
 
 
