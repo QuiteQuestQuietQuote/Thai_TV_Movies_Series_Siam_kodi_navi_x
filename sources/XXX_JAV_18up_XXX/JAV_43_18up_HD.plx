@@ -36,10 +36,36 @@ thumb=
 URL=
 
 
+
+
+type=video
+name=SNIS-488 Breasts Are Porori Aoi
+thumb=http://javsex.net/wp-content/uploads/2015/10/3069.jpg
+date=2018-02-22
+URL=http://s160154.yamvideo.com/006/appid-4248/hls.m3u8
+
+type=video
+name=Arm-424 Tight Mini Skirt Collection
+thumb=http://javsex.net/wp-content/uploads/2017/02/14696.jpg
+date=2017-12-25
+URL=http://s14023.yamvideo.com/014-hls/appid-14696/hls.m3u8
+
+
+
+type=video
+name=Juy-070 When You Participate In The Hot Spring Trip Of The Neighborhood Association, Frustration Wife-14 People And The Man Is Only Me One
+thumb=http://javsex.net/wp-content/uploads/2017/04/22245.jpg
+date=2018-02-22
+URL=http://s14024.yamvideo.com/002/appid-22245/hls.m3u8
+
+
+
+
+
 type=video
 name=
 thumb=
-date=2017-12-25
+date=2018-02-22
 URL=
 
 
