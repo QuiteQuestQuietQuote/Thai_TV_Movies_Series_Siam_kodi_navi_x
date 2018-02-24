@@ -424,37 +424,43 @@ type=video
 name=Sqte-081 Erotic Too Girl038039s Body
 thumb=http://javsex.net/wp-content/uploads/2017/01/11725.jpg
 date=2018-02-05
-URL=http://s789.yamvideo.com/thz3674e/007/appid-11725.mp4
+URL=http://videos.collectionofbestporn.com/videos/5/5/8/8/5/55885b112310e_2.mp4?itag=22
+#http://s789.yamvideo.com/thz3674e/007/appid-11725.mp4
 
 type=video
 name=Sqte-082 Really Is A Naughty Innocent Beautiful Girl
 thumb=http://javsex.net/wp-content/uploads/2017/01/11726.jpg
 date=2018-02-05
-URL=http://s14023.yamvideo.com/012-hls/appid-11726/hls.m3u8
+URL=http://185.216.140.23/012-hls/appid-11726/hls_720_.m3u8
+#http://s14023.yamvideo.com/012-hls/appid-11726/hls.m3u8
 
 type=video
 name=Sqte-151 S-cute Breasts Pretty Festival 8 Hours
 thumb=http://javsex.net/wp-content/uploads/2017/01/10303.jpg
 date=2018-02-05
-URL=http://s789.yamvideo.com/thz3674e/005/appid-10303.mp4
+URL=http://89.248.168.114/020-hls-part-1/appid-10303/hls_720_.m3u8
+#http://s789.yamvideo.com/thz3674e/005/appid-10303.mp4
 
 type=video
 name=SQTE-089 S-Cute Girl RANKINGS-2015 TOP10
 thumb=http://javsex.net/wp-content/uploads/2016/01/4394.jpg
 date=2018-02-05
-URL=http://s789.yamvideo.com/thz3674e/008/appid-4394.mp4
+URL=http://videos.collectionofbestporn.com/videos/5/7/e/d/a/57edaa790874b_2.mp4?itag=22
+#http://s789.yamvideo.com/thz3674e/008/appid-4394.mp4
 
 type=video
 name=Sqte-190 S-cute Annual Sales Ranking 2017 Top 30
 thumb=http://javsex.net/wp-content/uploads/2017/12/28429.jpg
 date=2018-02-05
-URL=http://s789.yamvideo.com/thz3674e/001/appid-28429.mp4
+URL=http://videos.collectionofbestporn.com/videos/5/a/3/8/e/5a38e2c4aecab_2.mp4?itag=22
+#http://s789.yamvideo.com/thz3674e/001/appid-28429.mp4
 
 type=video
 name=Sqte-169 S-cute Girls Ranking-2017 Top 10
 thumb=http://javsex.net/wp-content/uploads/2017/06/24503.jpg
 date=2018-02-05
-URL=http://s789.yamvideo.com/thz3675e/007-op/appid-24503.mp4
+URL=http://videos.collectionofbestporn.com/videos/5/a/2/a/c/5a2ac8eb2d004_2.mp4?itag=22
+#http://s789.yamvideo.com/thz3675e/007-op/appid-24503.mp4
 
 
 

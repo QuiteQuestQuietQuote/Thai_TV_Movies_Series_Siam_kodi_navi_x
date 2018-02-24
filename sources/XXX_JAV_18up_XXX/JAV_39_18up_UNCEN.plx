@@ -54,6 +54,31 @@ URL=
 
 
 
+type=video
+name=Carib-030814-557 Saya Tachibana
+thumb=http://javsex.net/wp-content/uploads/2017/11/27153.jpg
+date=2018-02-24
+URL=http://77.72.83.8/010-hls/appid-27153/hls_720_.m3u8
+
+type=video
+name=Carib-120113-491 Mikuni Maisaki Debut Vol.8 
+thumb=http://javsex.net/wp-content/uploads/2017/11/27158.jpg
+date=2018-02-24
+URL=http://77.72.83.8/008/appid-27158/hls_720_.m3u8
+
+type=video
+name=HEYZO-1594 Ryo Ikushima
+thumb=http://javsex.net/wp-content/uploads/2017/11/27797.jpg
+date=2018-02-24
+URL=http://80.82.77.195/007/appid-27797/hls_720_.m3u8
+
+type=video
+name=1Pondo-071216-337 Airi Miyazaki
+thumb=http://javsex.net/wp-content/uploads/2017/11/27156.jpg
+date=2018-02-24
+URL=http://80.82.77.195/007/appid-27156/hls_720_.m3u8
+
+
 
 
 

@@ -64,31 +64,32 @@ type=video
 name=PPPD-305 Big Tits Housewife Tour
 thumb=http://javsex.net/wp-content/uploads/2015/12/31676.jpg
 date=2018-02-05
-URL=http://s789.yamvideo.com/thz3674d/001/appid-3745.mp4
+URL=http://videos.collectionofbestporn.com/videos/5/2/f/d/9/52fd98a3393d2177550-lq.mp4?itag=18
+#http://s789.yamvideo.com/thz3674d/001/appid-3745.mp4
 
 type=video
 name=PPPD-287 Big Tits Knit Situation SPECIAL
 thumb=http://javsex.net/wp-content/uploads/2015/12/3743.jpg
 date=2018-02-05
-URL=http://s789.yamvideo.com/thz3674d/001/appid-3743.mp4
+URL=http://videos.collectionofbestporn.com/videos/5/9/d/e/7/59de71c653554_2.mp4?itag=22
 
 type=video
 name=PPPD-298 Megu Fujiura Big Reverse Bus Tour
 thumb=http://javsex.net/wp-content/uploads/2015/12/31433.jpg
 date=2018-02-05
-URL=http://s789.yamvideo.com/thz3675e/001/appid-24384.mp4
+URL=http://videos.collectionofbestporn.com/videos/5/6/a/5/5/56a5577855171_2.mp4?itag=22
 
 type=video
 name=PPSD-046 Polygamy Special Girls 
 thumb=http://javsex.net/wp-content/uploads/2015/12/3842.jpg
 date=2018-02-05
-URL=http://s789.yamvideo.com/thz3674d/001/appid-3842.mp4
+URL=http://videos.collectionofbestporn.com/videos/5/6/a/5/e/56a5e174eb9d7_2.mp4?itag=22
 
 type=video
 name=PPPD-355 Megu Fujiura Big Tits and Temptation Tour
 thumb=http://javsex.net/wp-content/uploads/2015/12/3750.jpg
 date=2018-02-05
-URL=http://s789.yamvideo.com/thz3674d/001/appid-3750.mp4
+URL=http://videos.collectionofbestporn.com/videos/5/9/a/9/9/59a995eeab9d5_2.mp4?itag=22
 
 
 
