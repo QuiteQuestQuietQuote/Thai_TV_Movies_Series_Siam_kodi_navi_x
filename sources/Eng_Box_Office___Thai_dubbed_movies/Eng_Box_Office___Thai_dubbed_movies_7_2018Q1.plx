@@ -58,13 +58,31 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 
 type=video
 name=
-thumb=https://www.mehlizmovies.com/wp-content/uploads/2017/11/s5HQf2Gb3lIO2cRcFwNL9sn1o1o-185x278.jpg
-date=2018-02-22
-URL=https://ok.ru/videoembed/358230526528
+thumb=
+date=2018-02-24
+URL=
 
 
 
 
+
+type=video
+name=Game Night (2018) ENG HDCAM.X264-PilaRosa
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wS89vns6cseCn4UHSqj97xKEKW.jpg
+date=2018-02-24
+URL=https://openload.co/f/wBgkr8Vnb4s/Game.Night.2018.HDCAM.X264-PilaRosa.mkv.mp4
+
+type=video
+name=Beast of Burden (2018) ENG 1080p_WEB-DL_DD5.1_H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uexWTafwBClTU1qJTEHT0T8TZHb.jpg
+date=2018-02-24
+URL=https://openload.co/f/d5hIJ1d4afY/Beast_of_Burden_2018_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
+
+type=video
+name=The Lodgers (2018) ENG 1080p_WEB-DL_DD5.1_H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPePnxBFnlcfAMtxZdZNkLnOkqJ.jpg
+date=2018-02-24
+URL=https://openload.co/f/eWQIr3XNM5w/The_Lodgers_2017_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
 
 type=video
 name=Winchester (2018) ENG HDCAM.x264-DiRG
@@ -73,11 +91,10 @@ date=2018-02-22
 URL=https://openload.co/f/c4esc5nzmqs/Winchester.2018.HDCAM.x264-DiRG.mp4
 
 type=video
-name=The Death of Stalin (2017) ENG 1080p_WEB-DL_DD5.1_H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/66nL9hKPerEZMOeCQuWD322Nm8g.jpg
-date=2018-02-19
-URL=https://openload.co/f/w7Tdznz7in4/The_Death_of_Stalin_2017_1080p_WEB-DL_DD5.1_H264-CMRG.mp4
-#https://openload.co/f/9k1EJcxR-3M/The.Death.of.Stalin.2018.720.WEB-DL.H264.AC3-EVO.mkv.mp4
+name=Mute (2018) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTG%5BEtHD%5D
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihGg1xndLl3MW34Km332pNkyLH7.jpg
+date=2018-02-24
+URL=https://openload.co/f/57xTsBxLFiQ/Mute.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG%5BEtHD%5D.mkv.mp4
 
 type=video
 name=The Monkey King 3 (2018) CHN Cam
@@ -209,12 +226,7 @@ URL=https://openload.co/f/IJzXyWq9yJc/Father_Figures_%282017%29_New_HDCAM_SeeHD.
 #https://openload.co/f/TvUQXGJF3Vw/Father.Figures.2017.CAM.x264-NoGRP.mp4
 #https://openload.co/f/uIv1hZlRdGo/Father.Figures.2017.CAM.XViD-P2P.avi.mp4
 
-type=video
-name=Wonder Wheel (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPXn8SW4pa4kJErAIAJLmb3Znns.jpg
-date=2018-02-21
-URL=https://openload.co/f/x5N1woRYvPg/Wonder.Wheel.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/mfpvZQIhOW4/Wonder.Wheel.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+
 
 type=video
 name=The Greatest Showman (2017)  ENG HDCAM_ENG_X264-DADDY
@@ -233,14 +245,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gNXwSHxaksR1PjVZRqNapmkgj
 date=2017-12-26
 URL=https://openload.co/f/FPU8_oiG8uE/I%2CTonya.2017.DVDScr.XVID.HQ.Hive-CM8.avi.mp4
 
-type=video
-name=Lady Bird (2017) ENG 1080p.AMZN.WEBRip.DDP5.1.x264-SiGMA
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVtoXPA2zqNTeaR8MOsrD1XvUXK.jpg
-date=2018-02-13
-URL=https://openload.co/f/pc2sQRJHbXA/Lady.Bird.2017.1080p.AMZN.WEBRip.DDP5.1.x264-SiGMA.mkv.mp4
-#https://openload.co/f/TrNKFoEJjH8/Lady_Bird_2017_720pHD.WEB-DL_SeeHD.mp4
-#https://openload.co/f/EQYIBLEKD-E/Lady_Bird_2017_720p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
-#https://openload.co/f/tT44lsJFX7g/Lady.Bird.2017.DVDScr.AC3.HQ.Hive-CM8.mp4
+
 
 type=video
 name=The Disaster Artist (2017) ENG 1080p.WEB-DL.X264.AC3-EVO
@@ -367,9 +372,9 @@ URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.
 
 type=video
 name=
-thumb=https://www.mehlizmovies.com/wp-content/uploads/2017/08/gLKNYBTrVs46yHniULta584y5NO-185x278.jpg
+thumb=
 date=2018-02-19
-URL=https://rvideo5.gdplayer.site/video.php?SUZlaGZqQS92M01rMWppMlJtNTBwZ3A0Ni9YaFUyTFJLSlk0cXNXMWxHNDBuL0RTTVVSV2ZCMDgvMTI4Y3lGOUVQYXVYZXc1eGR0dndTamQwTGhqL09nam1jTS8yZ2JLbmpJMVZLazc1S1p4L2NpWmxoUXIreWpoMXE2NXpGYW9IYUYwR0R2U0pQUWU1VjBLNGlYY2dacTVUQnZBZkxxTUlEUHZjSnlpTmM3c0FQMUswTkkwYlpiRU9NZG1kdmtJRitIWDcwUmx6WEwrSFc3dTczNTh4MElBQ0tva3hxNmxBbjN0SGxCNGhZcnZXSWZ3ejl0RGNVVHBBYzByT0U5ZDhMeS82d2NYK0F2cmxMbGRBaHJFKzhydVB6dTFJci8zNEx3aXluVmhNQTJCQXF2WXhEeGhBZEJLUHhNOGNjWUVhWlA1cXdXTFVFSGc0eWJBVUsyRUY4TjBRZnY3STVnRVNiUXdXNDVaRWMrUkZZclJPbWhCbTdQVk85T0lwbTFCM0t2QlVKa1JBcFhPYlFFaUwwTTdFelJ4ZjZUYWk0cVNIa1piWEN3SU1RTUFKV3U5aG9jT21zZTNNWHJUTzR3dHpYak0yWVU4M05mQ0FwcDk0elZoZjFqRkh1WGZldmJGWHJsZ1BJOCs2ZzBVVDZIZjVwOTg5UHN1VzY5OW1EUUxHUitwTWFXUk9QSUovWXdXK2drTTJIUzl4T2JJLzlqKzRVZnBONGVqVVFWdnE2WEltd0Rwa09odnFOOGZLL1kvYXNrZVVLZnFBaHNIWXRyZkxZWFIrQlVCOHpKWXc5cXdaSHRBYmMwcnUvK1hsS1EzV3d1VzBKK3VxUk9zeUNTWnFUQ0RjVUREQ2h2K2I3a3ZMOTF4NTUvVStWV2NFNEZaMEI0NVpEVGFPTFh5L0RGRE5BMnVOUHVCWkJOTEVFaEs3YlhtVklIbStOYXNoeGh6OUtqZzlBb2k0OUtsbFdKcVdEQkJvL25vN2lId3ZCVHVGS1FQU2wwVUFmYTZ0Ny9KUkFjWjgwOXgzUStYN3ZqVnVscW5Bbkw1Q3hhSVpVN1RISXpubTRRL3gyd25PNWNBRjQrc2o1MjQ5RmpwZlpvNWFoVklBTVN0eis3VEM3ZzViMjVsVGsxbDhWSkxSK3FH
+URL=
 
 
 
@@ -407,11 +412,7 @@ date=2018-02-17
 URL=https://openload.co/f/f-R-SMQY0h0/The.Scent.of.Rain.and.Lightning.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4
 #https://openload.co/f/I8EKOQpJZUc/The_Scent_of_Rain_%26_Lightning_2017_720p_WEB-DL_DD5.1_X264-CMRG.mkv.mp4
 
-type=video
-name=Irreplaceable You (2018) ENG 1080p.NF.WEBRip.DDP.5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnJIdVOKPb84yFjADKcbqPm3pZB.jpg
-date=2018-02-16
-URL=https://openload.co/f/bhbtnohcLfE/Irreplaceable.You.2018.1080p.NF.WEBRip.DDP.5.1.H264-CMRG.mkv.mp4
+
 
 type=video
 name=Auld Lang Syne (2016) ENG 1080p.WEB-DL.DD5.1.H264-FGT
@@ -419,12 +420,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLG0dj5vpcGCmyyEP114IQ1P4K
 date=2018-02-16
 URL=https://openload.co/f/CA3g8Dko2no/Auld.Lang.Syne.2016.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
-type=video
-name=The Man Who Invented Christmas (2017) ENG 720p.WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRkzRue5rTzB6PESXBJCKqROOXC.jpg
-date=2018-02-21
-URL=https://openload.co/f/nEXzA0TkDEU/The.Man.Who.Invented.Christmas.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/vt-5WCEjuY4/The_Man_Who_Invented_Christmas.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Painted Woman (2017) ENG 1080p_WEB-DL_DD5_1_H264-CMRG
@@ -1318,13 +1314,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m800lQEOeSB8xHCSDVPvllxqdM
 date=2018-01-17
 URL=https://openload.co/f/QZ2N84nNYf0/Aritmiya_AKA_Arrhythmia_2017.EngSub.WEB-DL.mkv.mp4
 
-type=video
-name=The Square (2017) ENG DVDRip.x264-PSYCHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKBHo6WnRnUJ5qvWFWd3Fne9bKE.jpg
-date=2018-01-31
-URL=https://openload.co/f/JzTqcBOeG-0/The.Square.2017.DVDRip.x264-PSYCHD.mkv.mp4
-#https://openload.co/f/jCOhyPTId50/The_Square.2017.SWEDISH.WEB-DL.XviD.AC3-FGT.avi.mp4
-#https://openload.co/f/sstpLlKXhAI/The_Square.2017.DVDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=
@@ -1335,10 +1325,86 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-22
+date=2018-02-24
 URL=
 
 
+
+type=video
+name=The Clapper (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsm2gxPoZDzG3ocTArrK8ak7go4.jpg
+date=2018-02-24
+URL=https://openload.co/f/SWvPKYclD4U/The.Clapper.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Wonder Wheel (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPXn8SW4pa4kJErAIAJLmb3Znns.jpg
+date=2018-02-24
+URL=https://www.blazefile.co/embed-swajphjzq0sf.html
+#https://uptobox.com/0txsl67vqv43
+#https://openload.co/f/OaRm1ZXsSLA/ghpw0nderhel80.Ettv.st.mkv
+#https://openload.co/f/gRMWkbkcHyA/bbWonder.Wheel.2017.1080p.BRRip.6CH.1.9GB.MkvCage.mkv.mp4
+#https://openload.co/f/bVM3n_5EyFQ/bbWonder.Wheel.2017.1080p.BRRip.6CH.1.9GB.MkvCage.mkv
+#https://openload.co/f/x5N1woRYvPg/Wonder.Wheel.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/mfpvZQIhOW4/Wonder.Wheel.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+
+type=video
+name=The Man Who Invented Christmas (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRkzRue5rTzB6PESXBJCKqROOXC.jpg
+date=2018-02-24
+URL=https://openload.co/f/2RWJ_hJl7mY/The.Man.Who.Invented.Christmas.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/O1DfxjnvJB0/The.Man.Who.Invented.Christmas.2017.720p.BluRay.x264-Replica.mkv.mp4
+#https://openload.co/f/nEXzA0TkDEU/The.Man.Who.Invented.Christmas.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/vt-5WCEjuY4/The_Man_Who_Invented_Christmas.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
+#https://www.blazefile.co/embed-8umc1jpm3c5q.html   720
+#https://uptobox.com/5u57wrri8ilb   720
+#https://openload.co/f/E45K4AmQuZQ/shqthemnhoinetchrtmasbd72.Ettv.st.mkv
+
+type=video
+name=My Entire High School Sinking Into the Sea (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3hcw7faHyIlVBixdgNMkLW6CzT.jpg
+date=2018-02-24
+URL=https://openload.co/f/PBN-_zE6S-Q/My.Entire.High.School.Sinking.Into.the.Sea.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Elements of Matter (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlOhlzDk2ipG3A3tv7E0KfTO17F.jpg
+date=2018-02-24
+URL=https://openload.co/f/epMX-skKdQU/Elements.of.Matter.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/0cz7Iqulcj4/Elements.of.Matter.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Lady Bird (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVtoXPA2zqNTeaR8MOsrD1XvUXK.jpg
+date=2018-02-13
+URL=https://openload.co/f/euEOHNHTOUA/Lady.Bird.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/6lOO_az85QM/Lady.Bird.2017.1080p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/pc2sQRJHbXA/Lady.Bird.2017.1080p.AMZN.WEBRip.DDP5.1.x264-SiGMA.mkv.mp4
+#https://openload.co/f/TrNKFoEJjH8/Lady_Bird_2017_720pHD.WEB-DL_SeeHD.mp4
+#https://openload.co/f/EQYIBLEKD-E/Lady_Bird_2017_720p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
+#https://openload.co/f/tT44lsJFX7g/Lady.Bird.2017.DVDScr.AC3.HQ.Hive-CM8.mp4
+#https://www.blazefile.co/embed-ntzpkdfs903a.html   720
+#https://uptobox.com/5lda6h5u9xrf   720
+#https://openload.co/f/jnJ3QLxYPB8/ahqldybrdbd72.Ettv.st.mkv
+
+type=video
+name=Most Beautiful Island (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8RFV3wqigvgXqcVihyz6w0cLLV.jpg
+date=2018-02-24
+URL=https://openload.co/f/tkhJkGM2E_g/Most.Beautiful.Island.2017.LiMiTED.1080p.BluRay.x264-CADAVER.mkv.mp4
+
+type=video
+name=The Death of Stalin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/66nL9hKPerEZMOeCQuWD322Nm8g.jpg
+date=2018-02-24
+URL=https://www.blazefile.co/embed-gndnlfmewpuh.html
+#https://uptobox.com/mbjxczoincsn
+#https://openload.co/f/PYt5Tyymh1c/ghpthedeath0fstlin80.Ettv.st.mkv
+#https://openload.co/f/PrgOSfO1pBc/The.Death.of.Stalin.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/zJHTwIgG6b8/The.Death.of.Stalin.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/xT_Nck6dWnU/The.Death.of.Stalin.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/w7Tdznz7in4/The_Death_of_Stalin_2017_1080p_WEB-DL_DD5.1_H264-CMRG.mp4
+#https://openload.co/f/9k1EJcxR-3M/The.Death.of.Stalin.2018.720.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=Hermia & Helena (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
@@ -1420,6 +1486,8 @@ date=2018-02-21
 URL=https://www.blazefile.co/embed-fu2gw8lzu7yz.html
 #https://uptobox.com/y745jnkm617f
 #https://openload.co/f/Q011PVW1XJ8/escperoom80.Ettv.st.mkv
+#https://openload.co/f/izd3tvQD-eM/Escape.Room.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/UYXdD1rzx-o/Escape.Room.2017.1080p.BluRay.x264.DTS-HD.MA.5.1-FGT.mkv.mp4
 
 type=video
 name=Novitiate (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3420,7 +3488,14 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QbkBqgBc6TCufd0ThoGdUhlE3V
 date=2018-02-18
 URL=https://openload.co/f/hqb-2WZ_HlI/a.taxi.driver.2017.720p.bluray.x264-regret.mkv.mp4
 
-
+type=video
+name=The Square (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKBHo6WnRnUJ5qvWFWd3Fne9bKE.jpg
+date=2018-02-24
+URL=https://openload.co/f/YPJwsjxxB0o/The.Square.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/JzTqcBOeG-0/The.Square.2017.DVDRip.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/jCOhyPTId50/The_Square.2017.SWEDISH.WEB-DL.XviD.AC3-FGT.avi.mp4
+#https://openload.co/f/sstpLlKXhAI/The_Square.2017.DVDRip.XviD.AC3-EVO.avi.mp4
 
 
 
@@ -3502,10 +3577,11 @@ URL=http://203.162.235.41:17819
 
 
 type=video
-name=Black Panther (2018) ENG NEW.HDTS.X264.MP3-ZiSt
+name=Black Panther (2018) ENG NEW_PROPER_HD-TS_X264-CPG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
-date=2018-02-22
-URL=https://openload.co/f/WZ4OiGMkCYo/Black.Panther.2018.ENG.NEW.HDTS.X264.MP3-ZiSt.mkv.mp4
+date=2018-02-24
+URL=https://openload.co/f/-OZwCiXre9I/Black_Panther_2018_NEW_PROPER_HD-TS_X264-CPG.mkv.mp4
+#https://openload.co/f/WZ4OiGMkCYo/Black.Panther.2018.ENG.NEW.HDTS.X264.MP3-ZiSt.mkv.mp4
 #https://openload.co/f/cpVwHgNhW4M/Black_Panther_2018_FULL_HDCAM_ENG_X264-UNiQUE.mkv.mp4
 #https://openload.co/f/bPsscKAQno4/Black.Panther.2018.HDCAM.x264-%5BSpaceMov.org%5D.MP4.mp4
 #https://openload.co/f/6_rW9szwkTs/Black.Panther.2018.HDCAM.x264.MP4.mp4
@@ -3755,11 +3831,20 @@ URL=https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0
 type=video
 name=
 thumb=
-date=2018-02-22
+date=2018-02-24
 URL=
 
 
-
+type=video
+name=Irreplaceable You (2018) ENG 1080p.NF.WEBRip.DDP.5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnJIdVOKPb84yFjADKcbqPm3pZB.jpg
+date=2018-02-16
+URL=https://openload.co/f/bhbtnohcLfE/Irreplaceable.You.2018.1080p.NF.WEBRip.DDP.5.1.H264-CMRG.mkv.mp4
+type=video
+name=Irreplaceable You (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnJIdVOKPb84yFjADKcbqPm3pZB.jpg
+date=2018-02-24
+URL=https://openload.co/f/XusQ03PRr-k/Irreplaceable_You_%282018%29%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B9%81%E0%B8%97%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B9%84%E0%B8%94%E0%B9%89_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 type=video
 name=The Siege of Jadotville (2016) THSUB
@@ -5029,16 +5114,28 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-21
+date=2018-02-24
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
+type=video
+name=Retribution (2015) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/odwFuekx2KbL3JbinQfsNfl5Snf.jpg
+date=2018-02-24
+URL=https://openload.co/f/difPxzfZ8fQ/Retribution_%282015%29%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
 
+type=video
+name=Solace (2015) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MkNIKVZxYkga4208RXdRZ76zjf.jpg
+date=2018-02-24
+URL=https://openload.co/f/ENSj6IZS8J8/Solace_%282015%29.mp4
 
-
-
-
+type=video
+name=Jackie & Ryan (2014) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyGjHaLMVNuwrxkqrJvMjXceRAU.jpg
+date=2018-02-24
+URL=https://openload.co/f/MnzFGJ3tk7A/Jackie_%26_Ryan_%282014%29%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
 
 
 type=video

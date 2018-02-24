@@ -29,7 +29,7 @@ http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_480p/index.m3u8
 http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
 
 #EXTINF:-1,MONEY CHANNEL
-http://103.77.116.193:443/news/money_channel_480p.stream/playlist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/news/money_channel_480p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV
@@ -58,13 +58,13 @@ https://www.fifa55-live.com/fifa55m-136/00_moneychannel_480p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery Asia HD
-http://103.77.116.191:443/documentary/discovery_hd_world_720p.stream/chunklist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/documentary/discovery_hd_world_720p.stream/chunklist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI
-http://103.77.116.193:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",Nat Geo People HD
-http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",asian_food_channel
-http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 
 #EXTINF:-1,MONEY CHANNEL_asia
@@ -414,7 +414,7 @@ http://www.fifa55-live.com/fifa55m-41/0x222_ais_gvx_720p/chunklist.m3u8
 
 
 #EXTINF:-1,CHANNEL 3
-http://103.77.116.193:443/tvdigital/3_hd_720p.stream/playlist.m3u8?
+http://103.77.116.191:443/tvdigital/3_hd_720p.stream/playlist.m3u8?
 
 #EXTINF:-1,CHANNEL 3
 http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
@@ -426,7 +426,7 @@ http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
 
 
 #EXTINF:-1,CHANNEL 7
-http://103.77.116.193:443/tvdigital/7_hd_720p.stream/playlist.m3u8?
+http://103.77.116.191:443/tvdigital/7_hd_720p.stream/playlist.m3u8?
 
 
 
@@ -444,7 +444,7 @@ http://symc-cdn05.bkk02.violin.co.th:1935/liveedge/308806374084_600/playlist.m3u
 
 
 #EXTINF:-1,CH 3 family
-http://103.77.116.193:443/tvdigital/3_family_480p.stream/playlist.m3u8?
+http://103.77.116.191:443/tvdigital/3_family_480p.stream/playlist.m3u8?
 
 
 
@@ -480,7 +480,7 @@ http://stream.rs.co.th/ch8-hi/index.m3u8
 
 
 #EXTINF:-1,CH 3 SD
-http://103.77.116.193:443/tvdigital/3_sd_480p.stream/playlist.m3u8?
+http://103.77.116.191:443/tvdigital/3_sd_480p.stream/playlist.m3u8?
 
 
 
@@ -885,36 +885,9 @@ http://203.162.235.41:17819
 
 
 
-#EXTINF:-1,movie2
-http://123.108.164.71/etv2sb/phd8/playlist.m3u8
 
 
-#EXTINF:-1,FX
-http://183.89.3.45:8010/play/a023
-#EXTINF:-1,DIVA UNIVERSAL
-http://183.89.3.45:8010/play/a03n
-#EXTINF:-1,UNIVERSAL SD
-http://183.89.3.45:8010/play/a03m
-#EXTINF:-1,FOX FAMILY MOVIES
-http://183.89.3.45:8010/play/a01m
-#EXTINF:-1,WORLD MOVIES
-http://183.89.3.45:8010/play/a01k
-#EXTINF:-1,RED BY HBO
-http://183.89.3.45:8010/play/a03c
-#EXTINF:-1,STAR WORLD
-http://183.89.3.45:8010/play/a021
-#EXTINF:-1,CINEMAX
-http://183.89.3.45:8010/play/a00n
-#EXTINF:-1,FOX ACTION MOVIES HD
-http://183.89.3.45:8010/play/a010
-#EXTINF:-1,SKYNET MOVIES HD
-http://183.89.3.45:8010/play/a00v
-#EXTINF:-1,SKYNET-HD-PAY PER VIEW
-http://183.89.3.45:8010/play/a00w
-#EXTINF:-1,FOX MOVIES PREMIUM
-http://183.89.3.45:8010/play/a01l
-#EXTINF:-1,HBO HD
-http://183.89.3.45:8010/play/a00u
+
 
 
 
@@ -929,18 +902,6 @@ http://203.162.235.41:17819
 
 
 
-#EXTINF:-1,NAT GEO PEOPLE
-http://183.89.3.45:8010/play/a02z
-#EXTINF:-1,HISTORY HD
-http://183.89.3.45:8010/play/a00y
-#EXTINF:-1,DISCOVERY HD WORLD
-http://183.89.3.45:8010/play/a00t
-#EXTINF:-1,DISCOVERY
-http://183.89.3.45:8010/play/a031
-#EXTINF:-1,DISCOVERY SCIENCE
-http://183.89.3.45:8010/play/a034
-#EXTINF:-1,NGC
-http://183.89.3.45:8010/play/a02x
 
 
 
@@ -1013,14 +974,7 @@ http://203.162.235.41:17819
 #EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
 http://203.162.235.41:17819
 
-#EXTINF:-1,national_geographic
-http://27.254.154.154:1935/cinema/NATIONAL_GEOGRAPHIC_CHANNEL.stream/playlist.m3u8
-#EXTINF:-1,Cinemax
-http://27.254.154.154:1935/cinema/CINEMAX.stream/playlist.m3u8
-#EXTINF:-1,HBO HD
-http://27.254.154.154:1935/cinema/HBO.stream/playlist.m3u8
-#EXTINF:-1,HBO Hits
-http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
+
 
 
 
@@ -1033,24 +987,7 @@ http://203.162.235.41:17819
 
 
 
-#EXTINF:-1,FILM ASIA
-http://27.254.63.132:1935/live/_definst_/fla.stream/playlist.m3u8?username=sid&password=id695464846498
-#EXTINF:-1,Hitstoryhd
-http://27.254.63.132:1935/live/_definst_/Hitstoryhd.stream/playlist.m3u8?username=sid&password=id695464846498
-#EXTINF:-1,HBO HD
-http://27.254.63.132:1935/live/_definst_/hbo.stream/playlist.m3u8?username=sid&password=id695464846498
-#EXTINF:-1,DISCOVERY
-http://27.254.63.132:1935/live/_definst_/discovery.stream/playlist.m3u8?username=sid&password=id695464846498
 
-
-#EXTINF:-1,4Kmovie
-http://27.254.63.132:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-#EXTINF:-1,MOVIE1
-http://27.254.63.132:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-#EXTINF:-1,MOVIE2
-http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-#EXTINF:-1,MOVIE3
-http://27.254.63.132:1935/live/_definst_/movie3.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 
 
@@ -1071,14 +1008,7 @@ http://203.162.235.41:17819
 
 
 
-#EXTINF:-1,4Kmovie
-http://27.254.63.132:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-#EXTINF:-1,MOVIE1
-http://27.254.63.132:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-#EXTINF:-1,MOVIE2
-http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-#EXTINF:-1,MOVIE3
-http://27.254.63.132:1935/live/_definst_/movie3.stream/playlist.m3u8?username=test&password=asdfasdfasdf
+
 
 
 
@@ -1088,28 +1018,7 @@ http://203.162.235.41:17819
 
 
 
-#EXTINF:-1,CNBC
-http://203.162.235.41:17819
-#EXTINF:-1,NAT GEO PEOPLE
-http://183.89.3.45:8010/play/a02z
-#EXTINF:-1,HISTORY HD
-http://183.89.3.45:8010/play/a00y
-#EXTINF:-1,DISCOVERY HD WORLD
-http://183.89.3.45:8010/play/a00t
-#EXTINF:-1,DISCOVERY
-http://183.89.3.45:8010/play/a031
-#EXTINF:-1,DISCOVERY SCIENCE
-http://183.89.3.45:8010/play/a034
-#EXTINF:-1,NGC
-http://183.89.3.45:8010/play/a02x
-#EXTINF:-1,SKYNET MOVIES HD
-http://183.89.3.45:8010/play/a00v
-#EXTINF:-1,SKYNET-HD-PAY PER VIEW
-http://183.89.3.45:8010/play/a00w
-#EXTINF:-1,FOX MOVIES PREMIUM
-http://183.89.3.45:8010/play/a01l
-#EXTINF:-1,HBO HD
-http://183.89.3.45:8010/play/a00u
+
 
 
 #EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
@@ -1119,26 +1028,7 @@ http://203.162.235.41:17819
 rtmp://tv01.thaizatv.com/drm/movie1
 
 
-#EXTINF:-1,4Kmovie
-http://27.254.63.132:1935/live/_definst_/upmovie.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-#EXTINF:-1,MOVIE1
-http://27.254.63.132:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-#EXTINF:-1,MOVIE2
-http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-#EXTINF:-1,MOVIE3
-http://27.254.63.132:1935/live/_definst_/movie3.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
-
-
-
-
-
-#EXTINF:-1,DISCOVERY HD WORLD
-http://183.89.3.45:8010/play/a00t
-#EXTINF:-1,DISCOVERY SCIENCE
-http://183.89.3.45:8010/play/a034
-#EXTINF:-1,NAT GEO PEOPLE
-http://183.89.3.45:8010/play/a02z
 
 
 
@@ -1190,28 +1080,28 @@ http://113.175.179.15:4022/rtp/232.84.1.76:8430
 
 
 #EXTINF:-1,HISTORY
-http://103.77.116.193:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 #EXTINF:-1,HBO HD
-http://103.77.116.193:443/movie/hbo_hd_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/hbo_hd_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 #EXTINF:-1,HBO Hits
-http://103.77.116.193:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 #EXTINF:-1,hbo_signature
-http://103.77.116.193:443/movie/hbo_signature_720p.stream/chunklist.m3u8st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/hbo_signature_720p.stream/chunklist.m3u8st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 #EXTINF:-1,Cinemax
-http://103.77.116.193:443/movie/cinemax_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/cinemax_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 #EXTINF:-1,Fox Mov Pre HD 
-http://103.77.116.193:443/movie/fox_movies_premium_hd_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/fox_movies_premium_hd_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 #EXTINF:-1,Doonee HD
-http://103.77.116.193:443/movie/ais_doonee_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/ais_doonee_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 #EXTINF:-1,RED by HBO
-http://103.77.116.193:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 
 
@@ -1473,37 +1363,37 @@ http://94.46.245.190:8000/play/a01u
 
 
 #EXTINF:-1,doonee
-http://103.77.116.191:443/movie/ais_doonee_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/ais_doonee_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1,true_thai_film
-http://103.77.116.191:443/movie/true_thai_film_480p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/true_thai_film_480p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1,true_asian_series
-http://103.77.116.191:443/movie/true_asian_series_480p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/true_asian_series_480p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1,true_series
-http://103.77.116.191:443/movie/true_series_480p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/true_series_480p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1,true_movie_hits
-http://103.77.116.191:443/movie/true_movie_hits_480p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/true_movie_hits_480p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1,true_film_asia
-http://cdn4-live.googlestreamming.com:443/movie/true_film_asia_480p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://cdn4-live.googlestreamming.com:443/movie/true_film_asia_480p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1,fox_action_movies
-http://103.77.116.191:443/movie/fox_action_movies_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/fox_action_movies_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1,fox_movies_premium_hd
-http://103.77.116.191:443/movie/fox_movies_premium_hd_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/fox_movies_premium_hd_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1,fox family movies en
-http://103.77.116.191:443/movie/ais_foxfamen_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/ais_foxfamen_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1,fox family movies th
-http://103.77.116.191:443/movie/ais_foxfamth_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/ais_foxfamth_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1,hbo_hd
-http://103.77.116.191:443/movie/hbo_hd_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/hbo_hd_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1,hbo_hd
-http://103.77.116.191:443/movie/hbo_th_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/hbo_th_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1,hbo_hits
-http://103.77.116.191:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1,hbo_signature
-http://103.77.116.191:443/movie/hbo_signature_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/hbo_signature_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1,hbo_family
-http://103.77.116.191:443/movie/hbo_family_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/hbo_family_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1,red_by_hbo
-http://103.77.116.191:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 
 
@@ -1515,31 +1405,31 @@ http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_300/chunklist.m3
 
 
 #EXTINF:-1,true_explore_sci
-http://103.77.116.193:443/documentary/true_explore_sci_480p.stream/chunklist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/documentary/true_explore_sci_480p.stream/chunklist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 #EXTINF:-1,history_channel
-http://103.77.116.193:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 #EXTINF:-1,national_geographic
-http://103.77.116.193:443/documentary/national_geographic_hd_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/documentary/national_geographic_hd_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 #EXTINF:-1,discovery_science
-http://103.77.116.193:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 #EXTINF:-1,discovery_channel
-http://103.77.116.193:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 #EXTINF:-1,national_geographic_people
-http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 #EXTINF:-1,asian_food_channel
-http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 #EXTINF:-1,discovery_hd_world
-http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 #EXTINF:-1,bbc_earth
-http://103.77.116.193:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=gSwc3q0sb5cxuKHe5Novcg&username=12781&password=mmmm1679ee6968f9d132e714&e=1519330694
+http://103.77.116.191:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 
 
@@ -1567,55 +1457,55 @@ http://103.77.116.193:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=gS
 
 
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/foxcrime.png",Fox Crime
-http://103.77.116.191:443/movie/tot_foxcrimehdthai_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/tot_foxcrimehdthai_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/foxthai.png",Fox Thai
-http://103.77.116.191:443/movie/fox_thai_480p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/fox_thai_480p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/wntv.png",Warner TV
-http://103.77.116.191:443/movie/warner_tv_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/warner_tv_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.doomovie4k.com/wp-content/uploads/2017/11/thrill.jpg",Thrill
-http://103.77.116.191:443/movie/thrill_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/thrill_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.thaiptv.com/img/nangdung_logo.png",???????
 http://tv01.thaizatv.com:1935/drm/nangdung_cdn4.stream/playlist.m3u8
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.thaiptv.com/img/ctblogo.png",CTB
 http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/tfa.png",True film asia
-http://103.77.116.191:443/movie/true_film_asia_480p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/true_film_asia_480p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/truethaifirm.png",True thai film
-http://103.77.116.191:443/movie/true_thai_film_480p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/true_thai_film_480p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/truemoviehits.png",True movie hits
-http://103.77.116.191:443/movie/true_movie_hits_480p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/true_movie_hits_480p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-asianseries.jpg",True asian HD
-http://103.77.116.191:443/movie/true_asian_series_480p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/true_asian_series_480p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/ts.png",True Series
-http://103.77.116.191:443/movie/true_series_480p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/true_series_480p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="https://1.bp.blogspot.com/--YWNhbV7wek/WdLY1MwX0XI/AAAAAAAAAIk/nz4VY8QvP1EwEuSeJFrFTzB_22PmEI_lQCLcBGAs/s320/046.png",CCM
-http://103.77.116.191:443/movie/celestial_classic_movies_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/celestial_classic_movies_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="https://cdn.picodi.com/th/shop/thumb_200/doonee_161_001.png",DOONEE
-http://103.77.116.191:443/movie/ais_doonee_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/ais_doonee_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.zaatvhd.com/wp-content/uploads/2017/01/True-X-zyte-HD.png",True X-Zyte
-http://103.77.116.191:443/varity/true_x-zyte_480p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/varity/true_x-zyte_480p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 
 
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/hbofm.png",HBO family
-http://103.77.116.191:443/movie/hbo_family_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/hbo_family_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/hbo_sn.png",HBO signature
-http://103.77.116.191:443/movie/hbo_signature_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/hbo_signature_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/foxaction.png",Fox Action Movie
-http://103.77.116.191:443/movie/fox_action_movies_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/fox_action_movies_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/foxfamily.png",Fox Family Movie
-http://103.77.116.191:443/movie/ais_foxfamth_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/ais_foxfamth_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/cinemax.png",Cinemax
-http://103.77.116.191:443/movie/cinemax_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/cinemax_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/hbo_sn.png",HBO signature
-http://103.77.116.191:443/movie/hbo_signature_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/hbo_signature_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/foxpremium.png",Fox Movie Premium
-http://103.77.116.191:443/movie/ais_foxpremiumth_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/ais_foxpremiumth_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO hd
-http://103.77.116.191:443/movie/hbo_th_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/hbo_th_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="https://www.redbyhbo.com/images/redlogo-image.jpg",RED By HBO
-http://103.77.116.191:443/movie/red_by_hboth_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/red_by_hboth_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/hbo_hits.png",HBO hits
-http://103.77.116.191:443/movie/hbo_hits_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/movie/hbo_hits_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 
 
 
@@ -1636,40 +1526,40 @@ http://218.144.144.183:9981/stream/channelid/1061735118
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="http://my-hd.tv/shared/img/channels/H2-HD.png",H2
-http://103.77.116.191:443/documentary/h2_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/h2_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/natgeowild.jpg",Nat Geo Wild HD
-http://103.77.116.191:443/documentary/national_geographic_wild_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/national_geographic_wild_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="http://fabiptv.com/getlogos/logos/Animal_Planet_HD.png",Animal Planet HD
-http://103.77.116.191:443/documentary/animal_planet_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/animal_planet_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD
-http://103.77.116.191:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="http://www.frocus.net/images/logotv/original/dmax-hd.jpg",Dmax HD
-http://103.77.116.191:443/documentary/dmax_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/dmax_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="http://obmsbke.truevisions.tv/logo/channel/True-Explore-Wild.png",True Explore Wild
-http://103.77.116.191:443/documentary/true_explore_wild_480p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/true_explore_wild_480p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="http://obmsbke.truevisions.tv/logo/channel/True-Explore-Life.png",True Explore Life
-http://103.77.116.191:443/documentary/true_explore_life_480p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/true_explore_life_480p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="http://obmsbke.truevisions.tv/logo/channel/True-Explore-Sci.png",True Explore SCI
-http://103.77.116.191:443/documentary/true_explore_sci_480p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/true_explore_sci_480p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/Samrujlok.png",Samrujlok
-http://103.77.116.191:443/documentary/samrojlok_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/samrojlok_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/History.png",H history
-http://103.77.116.191:443/documentary/history_channel_hd_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/history_channel_hd_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-natgeo.jpg",Nat Geo HD
-http://103.77.116.191:443/documentary/national_geographic_hd_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/national_geographic_hd_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
-http://103.77.116.191:443/documentary/discovery_channel_480p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/discovery_channel_480p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery Asia HD
-http://103.77.116.191:443/documentary/discovery_hd_world_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/discovery_hd_world_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI
-http://103.77.116.191:443/documentary/discovery_science_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/discovery_science_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",Nat Geo People HD
-http://103.77.116.191:443/documentary/national_geographic_people_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/national_geographic_people_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",asian_food_channel
-http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD
-http://103.77.116.193:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 
 
 
@@ -1680,134 +1570,15 @@ http://103.77.116.193:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=Oi
 
 
 
-#EXTINF:-1,h2
-http://103.77.116.193:443/documentary/h2_720p.stream/chunklist.m3u8
-#EXTINF:-1,history
-http://103.77.116.193:443/documentary/history_channel_hd_720p.stream/chunklist.m3u8
-#EXTINF:-1,axn
-http://103.77.116.193:443/documentary/axn_hd_720p.stream/chunklist.m3u8
-#EXTINF:-1,samrojlok hd
-http://103.77.116.193:443/documentary/samrojlok_720p.stream/chunklist.m3u8
-#EXTINF:-1,animal_planet
-http://103.77.116.193:443/documentary/animal_planet_720p.stream/chunklist.m3u8
-#EXTINF:-1,national_geographic_hd
-http://103.77.116.193:443/documentary/national_geographic_hd_720p.stream/chunklist.m3u8
-#EXTINF:-1,national_geographic_wild
-http://103.77.116.193:443/documentary/national_geographic_wild_720p.stream/chunklist.m3u8
-#EXTINF:-1,national_geographic_people
-http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/chunklist.m3u8
-#EXTINF:-1,true_explore_wild
-http://103.77.116.193:443/documentary/true_explore_wild_480p.stream/chunklist.m3u8
-#EXTINF:-1,true_explore_life
-http://103.77.116.193:443/documentary/true_explore_life_480p.stream/chunklist.m3u8
-#EXTINF:-1,true_explore_sci
-http://103.77.116.193:443/documentary/true_explore_sci_480p.stream/chunklist.m3u8
-#EXTINF:-1,discovery_science
-http://103.77.116.193:443/documentary/discovery_science_720p.stream/chunklist.m3u8
-#EXTINF:-1,discovery_channel
-http://103.77.116.193:443/documentary/discovery_channel_480p.stream/chunklist.m3u8
-#EXTINF:-1,discovery_hd_world
-http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/chunklist.m3u8
-#EXTINF:-1,bbc_earth
-http://103.77.116.193:443/documentary/bbc_earth_720p.stream/chunklist.m3u8
-#EXTINF:-1,fyi
-http://103.77.116.193:443/documentary/fyi_720p.stream/chunklist.m3u8
-#EXTINF:-1,dmax
-http://103.77.116.193:443/documentary/dmax_720p.stream/chunklist.m3u8
-#EXTINF:-1,jkn_dramax
-http://103.77.116.193:443/documentary/jkn_dramax_720p.stream/chunklist.m3u8
-#EXTINF:-1,asian_food_channel_103
-http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8
 
 
 
-
-#EXTINF:-1,CNN     
-http://125.180.146.32:9981/stream/channel/c7595163c21f66d53e480811a88785d5?ticket=22E27E993DA1554D36D1615473402D5FF3E2E785&profile=pass     
-#EXTINF:-1,CNBC    
-http://125.180.146.32:9981/stream/channel/dbc48dd2db82ee39c812889b26e7e69d?ticket=01D3A273BB9B7BB61E393F479CBBBBC25E051E7F&profile=pass     
-#EXTINF:-1,News     
-http://125.180.146.32:9981/stream/channel/1ef672a4ba686cf6d0fbc1257e14c123?ticket=2E6DD502F43F145803AE2E033BA8C4F8B36DEAA4&profile=pass     
-#EXTINF:-1,CCTV4     
-http://125.180.146.32:9981/stream/channel/6ddb070034c93bee57584a48c830de2b?ticket=9F5FACA1A0B11D3F7B9D1824D127D55F3EF01A2E&profile=pass     
-#EXTINF:-1,NHK WP     
-http://125.180.146.32:9981/stream/channel/41a1c21ebaaa449def08eca247956710?ticket=D4F3354C3699D94F3297C10A2184B09E1FF55A0E&profile=pass     
-#EXTINF:-1,WP     
-http://125.180.146.32:9981/stream/channel/c734f0ad8f867d87755a57bba0982a86?ticket=3E070C71399C0C98DF29D79EAB8EF1773085396E&profile=pass     
-#EXTINF:-1,cineF     
-http://125.180.146.32:9981/stream/channel/81f334a3dcb7767f27ca3a2c93bdbcaf?ticket=E532FB349B07135735EE7C6B0EB0EB1D5AF2208B&profile=pass     
-#EXTINF:-1, AXN     
-http://125.180.146.32:9981/stream/channel/405e7ee2939a7ca1fbb791ae5815b6d1?ticket=A228AFA05D6A968219DE45C696D89EFD5810CE69&profile=pass     
-#EXTINF:-1,FOX     
-http://125.180.146.32:9981/stream/channel/32ac8c9a3c817442d4621cec961adba2?ticket=08C39D2FD05393D3E27C8134CCCA79CC5D7B332A&profile=pass     
-#EXTINF:-1,mplex     
-http://125.180.146.32:9981/stream/channel/90e634228bef19c10d7118e5c35df8ce?ticket=7BAD9B32206065ADB54028610AD06910F02A9FE5&profile=pass     
-#EXTINF:-1,THE MOVIE     
-http://125.180.146.32:9981/stream/channel/ef64abbe93eb0d101b2da8fca9b9ece7?ticket=E690E77CB11CFE2D624301EB5C898956090C3B52&profile=pass     
-BBC Earth     
-http://125.180.146.32:9981/stream/channel/fe66c051695e9f532210a239e7c3d0e3?ticket=80B1CCB2ABF4B353858A97431031891C93ABDF91&profile=pass     
-#EXTINF:-1,NGC     
-http://125.180.146.32:9981/stream/channel/8979b197ae95ed38f2fa3ba7ab6e3c97?ticket=794A1FA9A3C3C390D3342FF481E2CAF2FACCD756&profile=pass     
-#EXTINF:-1,History     
-http://125.180.146.32:9981/stream/channel/e054bfba76f84301a3ef60bf101ccaf9?ticket=76D3AAAD1077BC09EB17A986DE801FF24236A9A1&profile=pass     
-#EXTINF:-1, Discovery HD     
-http://125.180.146.32:9981/stream/channel/ad971e7b59f185037a4681470fddce2e?ticket=85C4C2E6D560EDA3A6BF6CF357512B4F7F843A53&profile=pass    
-
-
-
-
-
-#EXTINF:-1,Asian Food Channel
-http://191.96.38.49:443/free/00_homeandfood_480p/chunklist.m3u8  
-#EXTINF:-1,BBC Earth
-http://191.96.38.49:443/free41/0x777_bbcearth_720p/chunklist.m3u8
-#EXTINF:-1,National Geographic People_free54
-http://191.96.38.49:443/free54/0x222_natgeopeople_720p/chunklist.m3u8  
-
-
-
-
-
-#EXTINF:-1,Money Channel
-http://191.96.38.185/fifa55m-136/00_moneychannel_480p/chunklist.m3u8
-#EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/hbofm.png",HBO family
-http://191.96.38.185/fifa55m-53/0x222_ais_hbofam_720p/chunklist.m3u8
-#EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/foxaction.png",Fox Action Movie
-http://191.96.38.185/fifa55m-53/0x222_foxactionmovieth_720p/chunklist.m3u8
-#EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/foxfamily.png",Fox Family Movie
-http://191.96.38.185/fifa55m-53/0x222_ais_foxfamth_720p/chunklist.m3u8
-#EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/cinemax.png",Cinemax
-http://191.96.38.185/fifa55m-53/0x222_ais_cinemax_720p/chunklist.m3u8
-#EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/hbo_sn.png",HBO signature
-http://191.96.38.185/fifa55m-53/0x222_ais_hbosignature_720p/chunklist.m3u8
-#EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/foxpremium.png",Fox Movie Premium
-http://191.96.38.185/fifa55m-53/0x222_ais_foxpremiumth_720p/chunklist.m3u8
-#EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO hd TH
-http://191.96.38.185/fifa55m-53/0x222_ais_hbohdth_720p/chunklist.m3u8
-#EXTINF:-1 group-title="movies" tvg-logo="https://www.redbyhbo.com/images/redlogo-image.jpg",RED By HBO
-http://191.96.38.185/fifa55m-53/0x222_ais_redbyhbo_720p/chunklist.m3u8
-#EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/hbo_hits.png",HBO hits
-http://191.96.38.185/fifa55m-53/0x222_ais_hbohit_720p/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/History.png",H history
-http://191.96.38.185/fifa55m-41/0x777_historyhd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-natgeo.jpg",Nat Geo HD
-http://191.96.38.185/fifa55m-54/0x222_natgeographic_720p/chunklist.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
-http://191.96.38.185/fifa55m-41/00_dischannel_480p/chunklist.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery Asia HD
-http://191.96.38.185/fifa55m-41/0x777_discoveryworldhd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI
-http://191.96.38.185/fifa55m-41/0x777_dissci_720p/chunklist.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",Nat Geo People HD_191
-http://191.96.38.185/fifa55m-54/0x222_natgeopeople_720p/chunklist.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",asian_food_channel
-http://191.96.38.185/fifa55m-136/00_homeandfood_480p/chunklist.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD
-http://191.96.38.185/fifa55m-41/0x777_bbcearth_720p/chunklist.m3u8
-#EXTINF:-1,BBC Life Style
-http://191.96.38.185/fifa55m-41/0x222_lifestylehd_720p/chunklist.m3u8
+#EXTINF:-1,interm 
+http://103.77.116.250/boboapp5/interm/playlist.m3u8
+#EXTINF:-1movie 1 
+http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
+#EXTINF:-1movie 2
+http://usa.login.in.th:1935/ch8/ch8/chunklist.m3u8
 
 
 #EXTINF:-1,Polo PARTY TV
@@ -1897,16 +1668,14 @@ https://www.fifa55-live.com/fifa55m-41/0x222_lifestylehd_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
 http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://api.mytvnet.vn/static/channel/109.png",asian_food_channel
-http://xemtivi24.000webhostapp.com/iptv-mytvnet.php?id=afc
-#EXTINF:-1 group-title="docu" tvg-logo="http://1ttv.org/uploads/WOMhUah3sPwZIJLja4TsJrdJlkrtFF.png",Movies4Men
-http://127.0.0.1:6689/stream?cid=5684
 
 
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",Nat Geo People HD
+http://103.77.116.191:443/documentary/national_geographic_people_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",asian_food_channel
-http://103.77.116.193:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD
-http://103.77.116.193:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=Oi9xmyb0dU18Xb6sjhO2Mw&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519398561
+http://103.77.116.191:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 
 
 
