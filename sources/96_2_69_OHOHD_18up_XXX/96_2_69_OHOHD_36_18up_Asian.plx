@@ -49,6 +49,117 @@ URL=
 
 
 
+
+
+
+
+
+
+
+type=video
+name=99xxxxxxxxxxxxxxxxxxxxHarassment (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Harassment-2016.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/sadkrqalfpmtnosc/
+
+type=video
+name=Beauty Salon Special Services 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Beauty-Salon-Special-Services-2-2017.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/sdndobpspsfdceqq/
+
+type=video
+name=Secrets Of Yuji Road Mimic (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Secrets-Of-Yuji-Road-Mimic-2016.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/tolmlnenkbnafkmk/
+
+type=video
+name=Girl Friend (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Girl-Friend-2018.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/fqqkecplkmcknbro/
+
+type=video
+name=Daughters Friend 2 [Uncut] (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Daughters-Friend-2-Uncut2017.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/mbcdtqbpaoamcmbf/
+
+
+type=video
+name=The Day Of Exchange Couple Covet A Friends Wife [Uncut] (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/The-Day-Of-Exchange-Couple-Covet-A-Friends-Wife-Uncut-2017.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/tnacqtnsnpornctc/
+
+type=video
+name=My Neighbors Wife 3 (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/My-Neighbors-Wife-3-2018.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/lbroekldoopmklpc/
+
+type=video
+name=My Step Mother (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/My-Step-Mother-2016.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/obpccescfkeqsotn/
+
+type=video
+name=Donarino Syuhu (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Donarino-Syuhu-2016.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/nqbpddcltmooeefp/
+
+type=video
+name=Creampie For Female Sales Of Condominium (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Creampie-For-Female-Sales-Of-Condominium-2017.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/rknloclkkfrnfsft/
+
+
+type=video
+name=The Dairy Of Downtown (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/The-Dairy-Of-Downtown-2016.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/trllmprtdfrlnsfp/
+
+type=video
+name=Young Elder Brothers Wife 3 (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Young-Elder-Brothers-Wife-3-2017-Uncut.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/cbnoblsterqbkdlt/
+
+type=video
+name=Work Swapping Pretty Women (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Work-Swapping-Pretty-Women-2017.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/cbsknomkrrkafber/
+
+type=video
+name=New Wife Has Flirtation (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/New-Wife-Has-Flirtation-2017.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/rpsbnccbpatablqp/
+
+type=video
+name=Binyogigwa Yeouisadeul (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Binyogigwa-Yeouisadeul-2017.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/nkeemksnlkbfpfdf/
+
+
+type=video
+name=Kwaelag Ui Milsil (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Kwaelag-Ui-Milsil-2017.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/dnnfrtbrabfbeare/
+
+
+
+
+
+
 type=video
 name=83xxxxxxxxxxxxxxxxxxxxHaujyotyu (2016)
 thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Haujyotyu-2016.jpg

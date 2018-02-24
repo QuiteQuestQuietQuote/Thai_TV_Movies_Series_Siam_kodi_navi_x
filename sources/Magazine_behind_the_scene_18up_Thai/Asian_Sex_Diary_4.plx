@@ -62,6 +62,44 @@ URL=
 
 
 type=video
+name=91xxxxxxxxxxxxxxxxxxxxAsian Sex Diary [Asian Candy Shop] Fuck Dolls Feat Wan
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Asian-Candy-Shop-Fuck-Dolls-Feat-Wan.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/kfptrncskcrmocmt/
+
+type=video
+name=Asian Sex Diary [Asian Candy Shop] Girls Feat Num Li 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Asian-Candy-Shop-Girls-Feat-Num-Li.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/rppobmembrrpdmfm/
+
+type=video
+name=Asian Sex Diary [Asian Candy Shop] Nicha 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Asian-Candy-Shop-Nicha.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/oofcdfpcersklsoq/
+
+type=video
+name=Asian Sex Diary [Asian Candy Shop] Wet and wild Thai girls
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Asian-Candy-Shop-Wet-and-wild-Thai-girls.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/bkcprmbndqokqocc/
+
+type=video
+name=Asian Sex Diary [Asian Candy Shop] Sherri
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Asian-Candy-Shop-Sherri.jpg
+date=2018-02-24
+URL=https://streamcherry.com/embed/coaoblqbqfdlammk/
+
+
+
+
+
+
+
+
+
+type=video
 name=86xxxxxxxxxxxxxxxxxxxxAsian Sex Diary [Asian Candy Shop] Lilly 
 thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Asian-Candy-Shop-Lilly.jpg
 date=2018-02-17
