@@ -1330,6 +1330,20 @@ URL=
 
 
 
+
+
+type=video
+name=The Square (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKBHo6WnRnUJ5qvWFWd3Fne9bKE.jpg
+date=2018-02-25
+URL=https://www.blazefile.co/embed-vt3w9ijj6nm2.html
+#https://uptobox.com/nhc1zl9a8z3g
+#https://openload.co/f/lK-shFWCZ1k/ghpthesqqre80.Ettv.st.mkv
+#https://openload.co/f/YPJwsjxxB0o/The.Square.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/JzTqcBOeG-0/The.Square.2017.DVDRip.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/jCOhyPTId50/The_Square.2017.SWEDISH.WEB-DL.XviD.AC3-FGT.avi.mp4
+#https://openload.co/f/sstpLlKXhAI/The_Square.2017.DVDRip.XviD.AC3-EVO.avi.mp4
+
 type=video
 name=The Clapper (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsm2gxPoZDzG3ocTArrK8ak7go4.jpg
@@ -1351,8 +1365,11 @@ URL=https://www.blazefile.co/embed-swajphjzq0sf.html
 type=video
 name=The Man Who Invented Christmas (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRkzRue5rTzB6PESXBJCKqROOXC.jpg
-date=2018-02-24
-URL=https://openload.co/f/2RWJ_hJl7mY/The.Man.Who.Invented.Christmas.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+date=2018-02-25
+URL=https://www.blazefile.co/embed-ig1q87jiqvyu.html
+#https://uptobox.com/d4pkw5os2hrg
+#https://openload.co/f/DmjgBVPbyQA/ghpthemnwh0invtedchritmas80.Ettv.st.mkv
+#https://openload.co/f/2RWJ_hJl7mY/The.Man.Who.Invented.Christmas.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/O1DfxjnvJB0/The.Man.Who.Invented.Christmas.2017.720p.BluRay.x264-Replica.mkv.mp4
 #https://openload.co/f/nEXzA0TkDEU/The.Man.Who.Invented.Christmas.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/vt-5WCEjuY4/The_Man_Who_Invented_Christmas.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
@@ -1376,8 +1393,11 @@ URL=https://openload.co/f/epMX-skKdQU/Elements.of.Matter.2018.1080p.BluRay.H264.
 type=video
 name=Lady Bird (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVtoXPA2zqNTeaR8MOsrD1XvUXK.jpg
-date=2018-02-13
-URL=https://openload.co/f/euEOHNHTOUA/Lady.Bird.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-02-25
+URL=https://www.blazefile.co/embed-ckvs32cm1sks.html
+#https://uptobox.com/u1cgnhmp2rxq
+#https://openload.co/f/iUUprBRRSmk/ghplydybird80.Ettv.st.mkv
+#https://openload.co/f/euEOHNHTOUA/Lady.Bird.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/6lOO_az85QM/Lady.Bird.2017.1080p.BluRay.x264.DTS-HDC.mkv.mp4
 #https://openload.co/f/pc2sQRJHbXA/Lady.Bird.2017.1080p.AMZN.WEBRip.DDP5.1.x264-SiGMA.mkv.mp4
 #https://openload.co/f/TrNKFoEJjH8/Lady_Bird_2017_720pHD.WEB-DL_SeeHD.mp4
@@ -1392,6 +1412,9 @@ name=Most Beautiful Island (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8RFV3wqigvgXqcVihyz6w0cLLV.jpg
 date=2018-02-24
 URL=https://openload.co/f/tkhJkGM2E_g/Most.Beautiful.Island.2017.LiMiTED.1080p.BluRay.x264-CADAVER.mkv.mp4
+#https://www.blazefile.co/embed-mizabkj0v6cu.html   720
+#https://uptobox.com/pti0t561zvex   720
+#https://openload.co/f/GQqa1rQhqCc/mostbeutifulislndbd72.Ettv.st.mkv
 
 type=video
 name=The Death of Stalin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3413,8 +3436,9 @@ URL=https://uptobox.com/jp8wm6h8328o
 type=video
 name=BPM (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6fohIpyfvUOgAmNPu5bUgMuojG.jpg
-date=2018-01-24
-URL=https://openload.co/f/8EsLqE7gP68/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.x264-ZQ.mkv
+date=2018-02-25
+URL=https://openload.co/f/VO2UQiS6Vhk/120_battements_par_minute_%282017%29_hc_eng_subs.mp4
+#https://openload.co/f/8EsLqE7gP68/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.x264-ZQ.mkv
 #https://openload.co/f/AxQONoO98ts/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.x264-ZQ.mkv   MKV6.1GB
 #https://openload.co/f/ttUsyLrGoH8/BPM_Beats_Per_Minute_2017_EngSub_WEB-DL_X264_AC3-24HD.mkv.mp4
 
@@ -3488,14 +3512,15 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QbkBqgBc6TCufd0ThoGdUhlE3V
 date=2018-02-18
 URL=https://openload.co/f/hqb-2WZ_HlI/a.taxi.driver.2017.720p.bluray.x264-regret.mkv.mp4
 
+
+
 type=video
-name=The Square (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKBHo6WnRnUJ5qvWFWd3Fne9bKE.jpg
-date=2018-02-24
-URL=https://openload.co/f/YPJwsjxxB0o/The.Square.2017.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/JzTqcBOeG-0/The.Square.2017.DVDRip.x264-PSYCHD.mkv.mp4
-#https://openload.co/f/jCOhyPTId50/The_Square.2017.SWEDISH.WEB-DL.XviD.AC3-FGT.avi.mp4
-#https://openload.co/f/sstpLlKXhAI/The_Square.2017.DVDRip.XviD.AC3-EVO.avi.mp4
+name=I Remember You (2017) [COLOR=FF00FF00]ICE BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0KlKm7NIa9kcGf1mH4hgt0ap5x.jpg
+date=2018-02-25
+URL=https://openload.co/f/62dFHT6beTM/i.remember.you.2017.720p.bluray.x264-naptime.mkv.mp4
+#https://openload.co/f/qVi3Q7csSQM/i.remember.you.2017.720p.bluray.x264-naptime.mkv   MKV4.4GB
+
 
 
 
@@ -4858,10 +4883,14 @@ URL=https://streamango.com/f/pttkrrcdeelqtlts/Renegades_2017_
 
 
 type=video
-name=Justice League (2017) ENG 1080p.WEB-DL.H264.AC3-EVO
+name=Justice League (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
-date=2018-02-13
-URL=https://openload.co/f/g7Cb7JVjT5Q/Justice.League.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2018-02-25
+URL=https://www.blazefile.co/embed-fyzdnxbb73pk.html
+#https://uptobox.com/fzkylkochqpn
+#https://openload.co/f/ZISzLhvw0_I/shqJLbd72.Ettv.st.mkv
+#https://openload.co/f/H9KnnxJ2oVI/Justice.League.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/g7Cb7JVjT5Q/Justice.League.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/wW37fkMaLNI/Justice.League.2017.1080p.WEBRip.x264.AAC2.0-SHITBOX.mkv.mp4
 #https://openload.co/f/soUXrjtigJQ/Justice.League.2017.1080p.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/L85z0ZL4XKs/Justice.League.2017.720pHD.WEB-DL_SeeHD.mp4
@@ -5108,7 +5137,7 @@ URL=http://bjdobr14.s.llnwi.net/v1/3979/T11/13/Murder%20on%20the%20Orient%20Expr
 type=video
 name=
 thumb=
-date=2017-09-14
+date=2018-02-25
 URL=
 
 type=video
@@ -5604,8 +5633,21 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jV8wnk3Jgz6f7degmT3lHNGI2t
 date=2018-02-14
 URL=https://openload.co/f/zXSET4durqk/Fifty.Shades.of.Grey.2015.UNRATED.1080p.Br_SeeHD.mp4
 
+type=video
+name=The Revenant (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXUWEc5i3wYyFnL1Ycu8ppxxPvs.jpg
+date=2018-02-25
+URL=https://www.blazefile.co/embed-hgvj2zgzfsfs.html
+#https://uptobox.com/y9thuy9qon3f
+#https://openload.co/f/F-cqEkEyjD0/ghpTR80.Ettv.st.mkv
 
-
+type=video
+name=Suicide Squad (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1mjopzAS2KNsvpbpahQ1a6SkSn.jpg
+date=2018-02-25
+URL=https://www.blazefile.co/embed-66j1f4zwcdc7.html
+#https://uptobox.com/et0kgj3uiq98
+#https://openload.co/f/x4AZYmaTdVk/shqSSextended80.Ettv.st.mkv
 
 
 
