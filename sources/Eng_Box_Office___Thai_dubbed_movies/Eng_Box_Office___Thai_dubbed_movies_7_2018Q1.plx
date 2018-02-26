@@ -84,17 +84,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPePnxBFnlcfAMtxZdZNkLnOkq
 date=2018-02-24
 URL=https://openload.co/f/eWQIr3XNM5w/The_Lodgers_2017_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
 
-type=video
-name=Winchester (2018) ENG HDCAM.x264-DiRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg
-date=2018-02-22
-URL=https://openload.co/f/c4esc5nzmqs/Winchester.2018.HDCAM.x264-DiRG.mp4
 
-type=video
-name=Mute (2018) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTG%5BEtHD%5D
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihGg1xndLl3MW34Km332pNkyLH7.jpg
-date=2018-02-24
-URL=https://openload.co/f/57xTsBxLFiQ/Mute.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG%5BEtHD%5D.mkv.mp4
+
 
 type=video
 name=The Monkey King 3 (2018) CHN Cam
@@ -102,11 +93,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCeCvnVsALuuJqBnIm7C4AHlyc
 date=2018-02-17
 URL=https://openload.co/f/gI8dWLIQTuk/The_Monkey_King_3_%282018%29_Cam.mp4
 
-type=video
-name=Monster Hunt 2 (2018) CHN Cam
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
-date=2018-02-16
-URL=https://openload.co/f/6oGjRk_3toQ/Monster_Hunt_2_%282018%29_Cam.mp4
+
 
 type=video
 name=Peter Rabbit (2018) ENG HDCAM.x264-DiRG
@@ -176,13 +163,8 @@ URL=https://openload.co/f/ASjDSaABhRk/Proud_Marry_2018_NEW_HD-TS_X264-CPG.mkv
 
 
 
-type=video
-name=All the Money in the World (2017) ENG CAM_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
-date=2018-01-24
-URL=https://openload.co/f/F76f7gqp9_Y/All.the.Money.in.the.World.2017.CAM_SeeHD.mp4
-#https://openload.co/f/Lefs8BNw8P0/All.the.Money.in.the.World.2017.HDCAM.x264-DiRG.mp4
-#https://openload.co/f/T0HIxal98u0/All.the.Money.in.the.World.2017.CAM.AAC.x264-THESTiG.mp4
+
+
 
 type=video
 name=The Post (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
@@ -1330,7 +1312,13 @@ URL=
 
 
 
-
+type=video
+name=I Remember You (2017) [COLOR=FF00FF00]ICE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0KlKm7NIa9kcGf1mH4hgt0ap5x.jpg
+date=2018-02-26
+URL=https://openload.co/f/XQS0nEwEFkY/i.remember.you.2017.1080p.bluray.x264-naptime.mkv.mp4
+#https://openload.co/f/62dFHT6beTM/i.remember.you.2017.720p.bluray.x264-naptime.mkv.mp4
+#https://openload.co/f/qVi3Q7csSQM/i.remember.you.2017.720p.bluray.x264-naptime.mkv   MKV4.4GB
 
 type=video
 name=The Square (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2113,18 +2101,6 @@ URL=https://openload.co/f/mmt8x6Q4_3Q/LBJ.2016.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://www.blazefile.co/embed-7uot1i5zu90n.html   720
 #https://uptobox.com/l10z97j04a1q   720
 
-type=video
-name=The Killing of a Sacred Deer (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg
-date=2017-12-18
-URL=https://www.blazefile.co/embed-ej2kkiglwtlz.html
-#https://uptobox.com/v26on32pu7t9
-#https://openload.co/f/lqWDzlBWGa4/The.Killing.Of.A.Sacred.Deer.2017.LIMITED.1080p.BluRay.x264-SAPHiRE.mkv.mp4
-#https://openload.co/f/Cm_IdheWOS0/The_Killing_of_a_Sacred_Deer.2017.1080p.WEB-DL.H264.AC3BB-EVO.mkv.mp4
-#https://openload.co/f/OFtEBE4YtxQ/The_Killing_of_a_Sacred_Deer.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/gvW4nM6mJA8/The.Killing.Of.A.Sacred.Deer.2017.LIMITED.720p.BluRay.x264-SAPHiRE.mkv   5.5GB
-#https://www.blazefile.co/embed-5tlyhglib8xb.html   720
-#https://uptobox.com/fbtl229eftmt   720
 
 
 
@@ -3514,12 +3490,7 @@ URL=https://openload.co/f/hqb-2WZ_HlI/a.taxi.driver.2017.720p.bluray.x264-regret
 
 
 
-type=video
-name=I Remember You (2017) [COLOR=FF00FF00]ICE BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0KlKm7NIa9kcGf1mH4hgt0ap5x.jpg
-date=2018-02-25
-URL=https://openload.co/f/62dFHT6beTM/i.remember.you.2017.720p.bluray.x264-naptime.mkv.mp4
-#https://openload.co/f/qVi3Q7csSQM/i.remember.you.2017.720p.bluray.x264-naptime.mkv   MKV4.4GB
+
 
 
 
@@ -3599,6 +3570,44 @@ date=2018-01-29
 URL=http://203.162.235.41:17819
 
 
+
+
+type=video
+name=All the Money in the World (2017) ENG CAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
+date=2018-01-24
+URL=https://openload.co/f/F76f7gqp9_Y/All.the.Money.in.the.World.2017.CAM_SeeHD.mp4
+#https://openload.co/f/Lefs8BNw8P0/All.the.Money.in.the.World.2017.HDCAM.x264-DiRG.mp4
+#https://openload.co/f/T0HIxal98u0/All.the.Money.in.the.World.2017.CAM.AAC.x264-THESTiG.mp4
+type=video
+name=All the Money in the World (2017) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
+date=2018-02-26
+URL=https://streamango.com/f/faldccplekdnrrsb/All_the_Money_in_the_World_2017_
+
+
+type=video
+name=Monster Hunt 2 (2018) CHN Cam
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
+date=2018-02-16
+URL=https://openload.co/f/6oGjRk_3toQ/Monster_Hunt_2_%282018%29_Cam.mp4
+type=video
+name=Monster Hunt 2 (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
+date=2018-02-26
+URL=https://streamango.com/f/kmeqqlkbfqosafts/Monster_Hunt_2_2018_2_
+
+
+type=video
+name=Winchester (2018) ENG HDCAM.x264-DiRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg
+date=2018-02-22
+URL=https://openload.co/f/c4esc5nzmqs/Winchester.2018.HDCAM.x264-DiRG.mp4
+type=video
+name=Winchester (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg
+date=2018-02-26
+URL=https://streamango.com/f/elfccpoabamnnmla/Winchester_2018_
 
 
 type=video
@@ -3858,6 +3867,19 @@ name=
 thumb=
 date=2018-02-24
 URL=
+
+
+
+type=video
+name=Mute (2018) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTG%5BEtHD%5D
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihGg1xndLl3MW34Km332pNkyLH7.jpg
+date=2018-02-24
+URL=https://openload.co/f/57xTsBxLFiQ/Mute.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG%5BEtHD%5D.mkv.mp4
+type=video
+name=Mute (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihGg1xndLl3MW34Km332pNkyLH7.jpg
+date=2018-02-26
+URL=https://openload.co/f/o_7Oq53PZTM/Mute_%282018%29%E0%B8%A1%E0%B8%B4%E0%B8%A7%E0%B8%97%E0%B9%8C_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -4883,11 +4905,15 @@ URL=https://streamango.com/f/pttkrrcdeelqtlts/Renegades_2017_
 
 
 type=video
-name=Justice League (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Justice League (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rtrRGeRnL0JKtu9IMBWsmlmmZz.jpg
-date=2018-02-25
-URL=https://www.blazefile.co/embed-fyzdnxbb73pk.html
-#https://uptobox.com/fzkylkochqpn
+date=2018-02-26
+URL=https://www.blazefile.co/embed-i3i69a2irr9h.html
+#https://uptobox.com/suy3xxxxnul0
+#https://openload.co/f/p78bSylW9Ho/ghpJL80.Ettv.st.mkv
+#https://openload.co/f/8-Kfgz_aoTA/Justice_League_%282017%291080p_BluRay_x264_DTS-HDC_ganool.mkv.mp4
+#https://www.blazefile.co/embed-fyzdnxbb73pk.html   720
+#https://uptobox.com/fzkylkochqpn   720
 #https://openload.co/f/ZISzLhvw0_I/shqJLbd72.Ettv.st.mkv
 #https://openload.co/f/H9KnnxJ2oVI/Justice.League.2017.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/g7Cb7JVjT5Q/Justice.League.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
@@ -5146,6 +5172,27 @@ thumb=
 date=2018-02-24
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
+
+
+
+
+type=video
+name=The Killing of a Sacred Deer (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg
+date=2017-12-18
+URL=https://www.blazefile.co/embed-ej2kkiglwtlz.html
+#https://uptobox.com/v26on32pu7t9
+#https://openload.co/f/lqWDzlBWGa4/The.Killing.Of.A.Sacred.Deer.2017.LIMITED.1080p.BluRay.x264-SAPHiRE.mkv.mp4
+#https://openload.co/f/Cm_IdheWOS0/The_Killing_of_a_Sacred_Deer.2017.1080p.WEB-DL.H264.AC3BB-EVO.mkv.mp4
+#https://openload.co/f/OFtEBE4YtxQ/The_Killing_of_a_Sacred_Deer.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/gvW4nM6mJA8/The.Killing.Of.A.Sacred.Deer.2017.LIMITED.720p.BluRay.x264-SAPHiRE.mkv   5.5GB
+#https://www.blazefile.co/embed-5tlyhglib8xb.html   720
+#https://uptobox.com/fbtl229eftmt   720
+type=video
+name=The Killing of a Sacred Deer (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg
+date=2018-02-26
+URL=https://openload.co/f/0lADVnuVQJc/The_Killing_of_a_Sacred_Deer_%282017%29%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%9A%E0%B9%81%E0%B8%97%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%84%E0%B8%AB%E0%B8%A1.mp4
 
 
 type=video

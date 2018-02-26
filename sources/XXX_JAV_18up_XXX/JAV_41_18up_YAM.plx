@@ -452,14 +452,14 @@ type=video
 name=Sqte-190 S-cute Annual Sales Ranking 2017 Top 30
 thumb=http://javsex.net/wp-content/uploads/2017/12/28429.jpg
 date=2018-02-05
-URL=http://videos.collectionofbestporn.com/videos/5/a/3/8/e/5a38e2c4aecab_2.mp4?itag=22
+URL=http://185.216.140.167/win-001-hls/appid-28429/hls_720_.m3u8
 #http://s789.yamvideo.com/thz3674e/001/appid-28429.mp4
 
 type=video
 name=Sqte-169 S-cute Girls Ranking-2017 Top 10
 thumb=http://javsex.net/wp-content/uploads/2017/06/24503.jpg
 date=2018-02-05
-URL=http://videos.collectionofbestporn.com/videos/5/a/2/a/c/5a2ac8eb2d004_2.mp4?itag=22
+URL=http://185.216.140.24/win-001-hls/appid-24503/hls_720_.m3u8
 #http://s789.yamvideo.com/thz3675e/007-op/appid-24503.mp4
 
 
