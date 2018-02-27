@@ -185,10 +185,12 @@ URL=https://openload.co/f/Jbn08wdDUIg/Freak.Show.2017.1080p.WEB-DL.DD5.1.H264-FG
 #https://openload.co/f/_uOMojn37wg/Freak.Show.720p.WEB-DL_SeeHD.mkv.mp4
 
 type=video
-name=The Shape of Water (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
+name=The Shape of Water (2017) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLYLADGA5oKGM92Ns1j9CDgk3iI.jpg
-date=2018-01-07
-URL=https://openload.co/f/Mgft960KH5Y/The.Shape.of.Water.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+date=2018-02-27
+URL=https://openload.co/f/loSaqiM_KXk/The.Shape.Of.Water.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/frYO3yqfUDw/The.Shape.of.Water.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/Mgft960KH5Y/The.Shape.of.Water.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 
 type=video
 name=Molly's Game (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
@@ -1307,10 +1309,23 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-24
+date=2018-02-27
 URL=
 
 
+
+type=video
+name=The Breadwinner (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/smEU6lcCu4PzO59OcNV0CWUZuGM.jpg
+date=2018-02-27
+URL=https://openload.co/f/yoAmsZwuqRI/The.Breadwinner.2017.1080p.BluRay.x264-GECKOS.mkv
+#https://openload.co/f/pXo_s1ZNRCA/The.Breadwinner.2017.1080p.BluRay.x264-GECKOS.mkv   MKV4.4GB
+
+type=video
+name=Dummie the Mummy and the tomb of Achnetoet (2017) [COLOR=FF00FF00]DUT BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzUAZxIU2gVtKJWElfTYqN7jQWt.jpg
+date=2018-02-27
+URL=https://openload.co/f/lOAcRkZ5WzA/Dummie.The.Mummy.And.The.Tomb.Of.Achnetut.2017.1080p.BluRay.x264-BARGAiN.mkv.mp4
 
 type=video
 name=I Remember You (2017) [COLOR=FF00FF00]ICE BR 1080p[/COLOR]
@@ -1385,6 +1400,9 @@ date=2018-02-25
 URL=https://www.blazefile.co/embed-ckvs32cm1sks.html
 #https://uptobox.com/u1cgnhmp2rxq
 #https://openload.co/f/iUUprBRRSmk/ghplydybird80.Ettv.st.mkv
+#https://openload.co/f/M08sN7NGghk/lady.bird.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/9BRJIYRayD4/Lady.Bird.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Rwnbbrp6VmI/Lady.Bird.2017.1080p.BluRay.x264.DTS-HDChina.mkv.mp4
 #https://openload.co/f/euEOHNHTOUA/Lady.Bird.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/6lOO_az85QM/Lady.Bird.2017.1080p.BluRay.x264.DTS-HDC.mkv.mp4
 #https://openload.co/f/pc2sQRJHbXA/Lady.Bird.2017.1080p.AMZN.WEBRip.DDP5.1.x264-SiGMA.mkv.mp4
@@ -2498,13 +2516,7 @@ URL=https://www.blazefile.co/embed-2fpk8thili3u.html
 #https://openload.co/f/nLVmHpXu4wY/M.F.A.2017.1080p.WEB-DL.AAC2.0.H264-FGT.mkv.mp4
 #https://openload.co/f/wx4VvEH8R_M/M.F.A.2017.WEB-DL.XviD.MP3-FGT.avi.mp4
 
-type=video
-name=Marjorie Prime (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIPaT9ktpJHNaMyAiRMcra8NIM.jpg
-date=2017-11-08
-URL=https://www.blazefile.co/embed-ahq0z7m0ko77.html
-#https://www.blazefile.co/embed-k9qhmsyx9mwr.html
-#https://openload.co/f/EPek0sdWJtY/Marjorie.Prime.2017.1080p.WEB-DL.DD5.1.H264FGT.mkv.mp4
+
 
 type=video
 name=Beach Rats (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3488,7 +3500,11 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QbkBqgBc6TCufd0ThoGdUhlE3V
 date=2018-02-18
 URL=https://openload.co/f/hqb-2WZ_HlI/a.taxi.driver.2017.720p.bluray.x264-regret.mkv.mp4
 
-
+type=video
+name=Thelma (2017) [COLOR=FF00FF00]NOR BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzSfG8TLAqw7nMQh2lxirQkQpgs.jpg
+date=2018-02-27
+URL=https://openload.co/f/TkWiX4SBcaQ/Thelma.2017.LiMiTED.720p.BluRay.x264-EiDER.mkv.mp4
 
 
 
@@ -3738,10 +3754,17 @@ URL=https://streamango.com/f/lfepefddqscnfbrr/Jumanji_Welcome_to_the_Jungle_2017
 
 
 type=video
-name=Ferdinand (2017) ENG HDCAM.x264.AC3-TiTAN
+name=Ferdinand (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg
-date=2018-01-10
-URL=https://openload.co/f/szmI6J6kL3c/Ferdinand.2017.HDCAM.x264.AC3-TiTAN.mkv.mp4
+date=2018-02-27
+URL=https://www.blazefile.co/embed-xv1rckavwoqj.html
+#https://uptobox.com/yy11nw6js42m
+#https://openload.co/f/0LW2cJ-Bj-0/ghpFD80.Ettv.st.mkv
+#https://openload.co/f/RyK3GJDez3Q/Ferdinand_%282017%291080p_BluRay_x264-DRONES_ganool.mkv.mp4
+#https://openload.co/f/eaxrfUp-kFA/Ferdinand.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/ex88qzzIb2A/Ferdinand.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/XXm5W9s9e7Q/Ferdinand.2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/szmI6J6kL3c/Ferdinand.2017.HDCAM.x264.AC3-TiTAN.mkv.mp4
 #https://openload.co/f/bifINJBmeNg/Ferdinand.2017.HDCAM_.720p-DerpusMaxiums.mp4
 #https://openload.co/f/XwQneA9shx4/Ferdinand_2017_HDCAM_NO_LOGO_720p_Spacemov.io.mp4
 type=video
@@ -4915,6 +4938,9 @@ URL=https://www.blazefile.co/embed-i3i69a2irr9h.html
 #https://www.blazefile.co/embed-fyzdnxbb73pk.html   720
 #https://uptobox.com/fzkylkochqpn   720
 #https://openload.co/f/ZISzLhvw0_I/shqJLbd72.Ettv.st.mkv
+#https://openload.co/f/3vkAaFuzkW4/Justice.League.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/FNp71M8eyTI/Justice.League.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/sc_E1ZzTN44/Justice.League.2017.1080p.BluRay.x265.HEVC.6CH-MRN.mkv.mp4
 #https://openload.co/f/H9KnnxJ2oVI/Justice.League.2017.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/g7Cb7JVjT5Q/Justice.League.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/wW37fkMaLNI/Justice.League.2017.1080p.WEBRip.x264.AAC2.0-SHITBOX.mkv.mp4
@@ -5174,6 +5200,20 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+
+
+type=video
+name=Marjorie Prime (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIPaT9ktpJHNaMyAiRMcra8NIM.jpg
+date=2017-11-08
+URL=https://www.blazefile.co/embed-ahq0z7m0ko77.html
+#https://www.blazefile.co/embed-k9qhmsyx9mwr.html   720
+#https://openload.co/f/EPek0sdWJtY/Marjorie.Prime.2017.1080p.WEB-DL.DD5.1.H264FGT.mkv.mp4
+type=video
+name=Marjorie Prime (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcIPaT9ktpJHNaMyAiRMcra8NIM.jpg
+date=2018-02-27
+URL=https://openload.co/f/0LQpScilZQ0/Marjorie_Prime_%282017%29.mp4
 
 
 type=video
