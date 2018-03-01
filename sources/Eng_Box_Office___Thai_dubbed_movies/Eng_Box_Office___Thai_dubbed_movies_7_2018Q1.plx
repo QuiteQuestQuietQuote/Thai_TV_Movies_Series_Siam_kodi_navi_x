@@ -144,10 +144,11 @@ URL=https://openload.co/f/9xfp6WPIibY/The_Clapper.2017.720p.WEB-DL.XviD.AC3-FGT.
 
 
 type=video
-name=Pitch Perfect 3 (2017) ENG 1080pWEB-DL_SeeHD
+name=Pitch Perfect 3 (2017) ENG 720p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg
-date=2018-02-17
-URL=https://openload.co/f/gh2OyXp0iSQ/Pitch.Perfect.3.2017.1080pWEB-DL_SeeHD.mkv.mp4
+date=2018-03-01
+URL=https://openload.co/f/mj8457obiCg/Pitch.Perfect.3.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/gh2OyXp0iSQ/Pitch.Perfect.3.2017.1080pWEB-DL_SeeHD.mkv.mp4
 #https://openload.co/f/qxnjwUmlZW8/Pitch.Perfect.3.2017.HD720PHD_SeeHD.mp4
 #https://openload.co/f/ulAN5swR5RA/Pitch.Perfect.3.2017.HDCAM.MP4.mp4
 
@@ -1288,12 +1289,18 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-28
+date=2018-03-01
 URL=
 
 
 
 
+
+type=video
+name=Let There Be Light (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tm1KIxEkbxJ0NRi9dZnK154J6f.jpg
+date=2018-03-01
+URL=https://openload.co/f/Miq5oMWDUQM/Let.There.Be.Light.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
 
 type=video
 name=Call Me by Your Name (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1304,12 +1311,16 @@ URL=https://openload.co/f/oCF2XxljAKg/Call.Me.by.Your.Name.2017.1080p.BluRay.x26
 #https://openload.co/f/_Y74JPx259c/Call.Me.By.Your.Name.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/NPCxBvHdk_o/Call.Me.By.Your.Name.2017.720pHD.WEB-DL_SeeHD.mp4
 #https://openload.co/f/jw2WjiDwgc0/Call.Me.By.Your.Name.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4
+#https://www.blazefile.co/embed-8bzugdbfk0zs.html   720
+#https://uptobox.com/unhvmucxd54s   720
 
 type=video
 name=The Shape of Water (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLYLADGA5oKGM92Ns1j9CDgk3iI.jpg
-date=2018-02-28
-URL=https://openload.co/f/cGJAq7f5VNk/The.Shape.of.Water.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
+date=2018-03-01
+URL=https://www.blazefile.co/embed-dyzlb2mrh9ha.html
+#https://uptobox.com/by7teue88t50
+#https://openload.co/f/cGJAq7f5VNk/The.Shape.of.Water.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
 #https://openload.co/f/loSaqiM_KXk/The.Shape.Of.Water.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 #https://openload.co/f/frYO3yqfUDw/The.Shape.of.Water.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/Mgft960KH5Y/The.Shape.of.Water.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
@@ -1323,6 +1334,8 @@ URL=https://openload.co/f/lAIVogIVfa4/the.disaster.artist.2017.1080p.bluray.x264
 #https://openload.co/f/VYjhPzUz16o/The.Disaster.Artist.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/O4T4tChlL8Y/The.Disaster.Artist.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/g9018UKAwrA/The_Disaster_Artist_2017_HDCAM_X264_HQMic-CPG.mkv.mp4
+#https://www.blazefile.co/embed-8flr00oyi6rb.html   720
+#https://uptobox.com/fg28d5hr0ctt   720
 
 type=video
 name=Bed of the Dead (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1333,8 +1346,10 @@ URL=https://openload.co/f/0XovM880B6w/Bed.of.the.Dead.2016.1080p.BluRay.H264.AAC
 type=video
 name=I, Tonya (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg
-date=2018-02-28
-URL=https://openload.co/f/Rbgcv_m73nk/i.tonya.2017.1080p.bluray.x264-sparks.mkv.mp4
+date=2018-03-01
+URL=https://www.blazefile.co/embed-t8rcykalq1ml.html
+#https://uptobox.com/0t7ccbf6jvd6
+#https://openload.co/f/Rbgcv_m73nk/i.tonya.2017.1080p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/3Mf0NSlsMkE/I.Tonya.2017.1080p.Br_SeeHD.mp4
 #https://openload.co/f/FPU8_oiG8uE/I%2CTonya.2017.DVDScr.XVID.HQ.Hive-CM8.avi.mp4
 
@@ -1348,8 +1363,10 @@ URL=https://openload.co/f/AP65ldt2DdY/locked.up.2017.1080p.bluray.x264-rusted.mk
 type=video
 name=The Breadwinner (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/smEU6lcCu4PzO59OcNV0CWUZuGM.jpg
-date=2018-02-27
-URL=https://openload.co/f/yoAmsZwuqRI/The.Breadwinner.2017.1080p.BluRay.x264-GECKOS.mkv
+date=2018-03-01
+URL=https://www.blazefile.co/embed-r0i4wgnl1e0y.html
+#https://uptobox.com/fanfc5v6rufv
+#https://openload.co/f/yoAmsZwuqRI/The.Breadwinner.2017.1080p.BluRay.x264-GECKOS.mkv
 #https://openload.co/f/pXo_s1ZNRCA/The.Breadwinner.2017.1080p.BluRay.x264-GECKOS.mkv   MKV4.4GB
 
 type=video
@@ -3274,8 +3291,11 @@ URL=
 type=video
 name=Free State of Jones (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxutq7sXcaMy8b4OguaWZwWrchM.jpg
-date=2017-06-30
-URL=https://www.blazefile.co/embed-1rhkc51cx50m.html
+date=2018-03-01
+URL=https://openload.co/embed/iCLqDeEgTXs
+#http://entervideo.net/watch/2aafab347c33247
+#https://www.blazefile.co/embed-64mwv9cpyo6w.html
+#https://www.blazefile.co/embed-1rhkc51cx50m.html   720
 
 type=video
 name=Raw (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
@@ -3663,10 +3683,11 @@ URL=https://streamango.com/f/elfccpoabamnnmla/Winchester_2018_
 
 
 type=video
-name=Black Panther (2018) ENG NEW_PROPER_HD-TS_X264-CPG
+name=Black Panther (2018) ENG NEW.720p.HDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
-date=2018-02-24
-URL=https://openload.co/f/-OZwCiXre9I/Black_Panther_2018_NEW_PROPER_HD-TS_X264-CPG.mkv.mp4
+date=2018-03-01
+URL=https://openload.co/f/u9hqBeAjccM/Black.Panther.2018.NEW.720p.HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/-OZwCiXre9I/Black_Panther_2018_NEW_PROPER_HD-TS_X264-CPG.mkv.mp4
 #https://openload.co/f/WZ4OiGMkCYo/Black.Panther.2018.ENG.NEW.HDTS.X264.MP3-ZiSt.mkv.mp4
 #https://openload.co/f/cpVwHgNhW4M/Black_Panther_2018_FULL_HDCAM_ENG_X264-UNiQUE.mkv.mp4
 #https://openload.co/f/bPsscKAQno4/Black.Panther.2018.HDCAM.x264-%5BSpaceMov.org%5D.MP4.mp4
