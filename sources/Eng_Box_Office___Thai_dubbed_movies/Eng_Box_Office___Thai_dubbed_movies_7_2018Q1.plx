@@ -89,10 +89,11 @@ URL=https://openload.co/f/eWQIr3XNM5w/The_Lodgers_2017_1080p_WEB-DL_DD5.1_H264-C
 
 
 type=video
-name=The Monkey King 3 (2018) CHN Cam
+name=The Monkey King 3 (2018) CHN HDCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCeCvnVsALuuJqBnIm7C4AHlycV.jpg
-date=2018-02-17
-URL=https://openload.co/f/gI8dWLIQTuk/The_Monkey_King_3_%282018%29_Cam.mp4
+date=2018-03-02
+URL=https://openload.co/f/YtZ2o5-0f0Q/The_Monkey_King_3_HDCAM.mp4
+#https://openload.co/f/gI8dWLIQTuk/The_Monkey_King_3_%282018%29_Cam.mp4
 
 
 
@@ -1289,12 +1290,16 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-01
+date=2018-03-02
 URL=
 
 
 
-
+type=video
+name=Man and a Baby (2017) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kid4iH9pjl8T8D1I9K4YO1N7T2.jpg
+date=2018-03-02
+URL=https://openload.co/f/sTi1HAydbtA/Man.And.A.Baby.2017.1080p.BluRay.x264-FiCO.mp4
 
 type=video
 name=Let There Be Light (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3288,14 +3293,8 @@ date=2017-09-25
 URL=
 
 
-type=video
-name=Free State of Jones (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxutq7sXcaMy8b4OguaWZwWrchM.jpg
-date=2018-03-01
-URL=https://openload.co/embed/iCLqDeEgTXs
-#http://entervideo.net/watch/2aafab347c33247
-#https://www.blazefile.co/embed-64mwv9cpyo6w.html
-#https://www.blazefile.co/embed-1rhkc51cx50m.html   720
+
+
 
 type=video
 name=Raw (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
@@ -3703,8 +3702,9 @@ URL=https://streamango.com/f/qqoddkablatcrnbr/Black_Panther_2018_
 type=video
 name=Den of Thieves (2018) ENG NEW_720p_HD-TS_X264-CPG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
-date=2018-02-03
-URL=https://openload.co/f/-B28tK5CPMY/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4
+date=2018-03-02
+URL=https://openload.co/f/Lgk_VxDMTIw/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4
+#https://openload.co/f/-B28tK5CPMY/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4
 #https://openload.co/f/I0a9aXjeZwo/Den.of.Thieves.2018.HDCAM.HQMIC.x264-DiRG.mp4
 type=video
 name=Den of Thieves (2018) THCAM
@@ -5213,7 +5213,19 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
-
+type=video
+name=Free State of Jones (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxutq7sXcaMy8b4OguaWZwWrchM.jpg
+date=2018-03-01
+URL=https://openload.co/embed/iCLqDeEgTXs
+#http://entervideo.net/watch/2aafab347c33247
+#https://www.blazefile.co/embed-64mwv9cpyo6w.html
+#https://www.blazefile.co/embed-1rhkc51cx50m.html   720
+type=video
+name=Free State of Jones (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxutq7sXcaMy8b4OguaWZwWrchM.jpg
+date=2018-03-02
+URL=https://openload.co/f/OMB4BE8duGA/Free_State_of_Jones_%282016%29TH.mp4
 
 
 type=video
