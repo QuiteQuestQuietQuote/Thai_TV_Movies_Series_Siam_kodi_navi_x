@@ -59,12 +59,23 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-02-24
+date=2018-03-03
 URL=
 
 
 
+type=video
+name=Red Sparrow (2018) ENG CAM.X264-NOBITCOINSYESBANK_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZwnaMQTdwZz1kwtrrU3IOqxnDu.jpg
+date=2018-03-03
+URL=https://openload.co/f/_e7MhJTAVHQ/Red.Sparrow_2018.CAM.X264-NOBITCOINSYESBANK_SeeHD.mp4
+#https://openload.co/f/7Wooyr39WX4/Red_Sparrow_2018.720p.HDCAM.X264-MyBankAccount.mp4
 
+type=video
+name=The Vanishing of Sidney Hall (2018) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg
+date=2018-03-03
+URL=https://openload.co/f/CPsV3ek6R3A/The.Vanishing.of.Sidney.Hall.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Game Night (2018) ENG HDCAM_ENG_X264-SeeHD
@@ -210,10 +221,12 @@ URL=https://openload.co/f/IJzXyWq9yJc/Father_Figures_%282017%29_New_HDCAM_SeeHD.
 
 
 type=video
-name=The Greatest Showman (2017)  ENG HDCAM_ENG_X264-DADDY
+name=The Greatest Showman (2017)  ENG 1080p.HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfhztJRiElqmYW4kpvjYe1gENsD.jpg
-date=2018-01-24
-URL=https://openload.co/f/SNCwiigOC4Y/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv
+date=2018-03-03
+URL=https://openload.co/f/lCFBoodf6EQ/The.Greatest.Showman.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/iuirsA-k0sk/The.Greatest.Showman.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/SNCwiigOC4Y/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv
 #https://openload.co/f/O708OmzRzsE/The_Greatest_Showman_2017_HDCAM_V.2_ENG_X264-DADDY.mkv.mp4
 #https://openload.co/f/A-NUvRiEbTE/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv.mp4
 #https://openload.co/f/pEHfMHoX0xc/The.Greatest.Showman.2017.RUSSIAN.LANG.CAM.MoViE1K.mp4
@@ -1290,10 +1303,22 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-02
+date=2018-03-03
 URL=
 
 
+
+type=video
+name=My Friend Dahmer (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6HoPIBcRv9l2tPB8hbivq71Nw.jpg
+date=2018-03-03
+URL=https://openload.co/f/VPVFMAuJrrM/My.Friend.Dahmer.2017.LIMITED.1080p.BluRay.x264-SNOW.mkv.mp4
+
+type=video
+name=Infidelity in Suburbia (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnYvfC30Dbuk60X3eon0cb3NAaM.jpg
+date=2018-03-03
+URL=https://openload.co/f/3TZ6IkwAS5s/infidelity.in.suburbia.2017.1080p.bluray.x264-justwatch.mkv.mp4
 
 type=video
 name=Man and a Baby (2017) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
@@ -3682,10 +3707,11 @@ URL=https://streamango.com/f/elfccpoabamnnmla/Winchester_2018_
 
 
 type=video
-name=Black Panther (2018) ENG NEW.720p.HDCAM_SeeHD
+name=Black Panther (2018) ENG 720P_New_V.2_HDTS-X264-MP3-Zi%24t
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
-date=2018-03-01
-URL=https://openload.co/f/u9hqBeAjccM/Black.Panther.2018.NEW.720p.HDCAM_SeeHD.mkv.mp4
+date=2018-03-03
+URL=https://openload.co/f/SPBOZokHuV0/Black_Panther_2018_720P_New_V.2_HDTS-X264-MP3-Zi%24t.mkv.mp4
+#https://openload.co/f/u9hqBeAjccM/Black.Panther.2018.NEW.720p.HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/-OZwCiXre9I/Black_Panther_2018_NEW_PROPER_HD-TS_X264-CPG.mkv.mp4
 #https://openload.co/f/WZ4OiGMkCYo/Black.Panther.2018.ENG.NEW.HDTS.X264.MP3-ZiSt.mkv.mp4
 #https://openload.co/f/cpVwHgNhW4M/Black_Panther_2018_FULL_HDCAM_ENG_X264-UNiQUE.mkv.mp4
@@ -3790,10 +3816,11 @@ URL=https://streamango.com/f/balkfoftmmbtdnsn/Insidious_The_Last_Key_2018_
 
 
 type=video
-name=Jumanji: Welcome to the Jungle (2017) ENG HD-TS_X264_HQ-CPG
+name=Jumanji: Welcome to the Jungle (2017) ENG 720.HC.VODRip.XviD-JSC
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
-date=2018-01-14
-URL=https://openload.co/f/niifvdoAp7g/Jumanji_Welcome_To_The_Jungle_2017_NEW_720p_HD-TS_X264_HQ-CPG.mkv.mp4
+date=2018-03-03
+URL=https://openload.co/f/K3-f8QIlD2c/Jumanji.Welcome.to.the.Jungle.2017.720.HC.VODRip.XviD-JSC.mp4
+#https://openload.co/f/niifvdoAp7g/Jumanji_Welcome_To_The_Jungle_2017_NEW_720p_HD-TS_X264_HQ-CPG.mkv.mp4
 #https://openload.co/f/q-pag-xqFBc/Jumanji.Welcome.to.the.Jungle.2017.720p.TS.NEW.AUDIO.XViD-BL4CKP34RL.mp4
 #https://openload.co/f/GVnelBicD4M/Jumanji_2017_720p_NEW_HDTS_x264_AC3_TiTAN.mkv.mp4
 #https://openload.co/f/wIXuqwJxJd8/Jumanji_Welcome_To_The_Jungle_2017_NEW_720p_HD-TS_X264_HQ-CPG.mkv.mp4
@@ -3945,9 +3972,25 @@ URL=https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0
 type=video
 name=
 thumb=
-date=2018-02-24
+date=2018-03-03
 URL=
 
+
+
+
+
+
+type=video
+name=Newness (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgBvMGisJpf4nMuO2yoNt7ZVR2q.jpg
+date=2018-03-03
+URL=https://streamango.com/f/aadcmkaffdodnode/Newness_2017_
+
+type=video
+name=Forgotten (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlI9QeP9n7vBmmi9KbnssPR10j0.jpg
+date=2018-03-03
+URL=https://streamango.com/f/drdeefbsaktboeet/Forgotten_2017_
 
 
 type=video
@@ -4874,29 +4917,7 @@ URL=https://streamango.com/f/blonnaontoptfqls/Fairy_Tail_Movie_2_Dragon_Cry_2017
 #https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97_%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3.mp4
 
 
-type=video
-name=Coco (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
-date=2018-02-11
-URL=https://www.blazefile.co/embed-kq889i6qnetx.html
-#https://uptobox.com/sppacml2nd38
-#https://openload.co/f/L1AaeLP6pus/Coco.2017.1080p.Br_SeeHD.mp4
-#https://openload.co/f/7u1UsPkmRKE/Coco.2017.720p.WEBRip.x264.AAC2.0-SHITBOX.mkv.mp4
-#https://openload.co/f/Bi_jeHvp31Q/Coco.2017.720p.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/gy6y42tD9Yw/Coco.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
-#https://openload.co/f/dsmQ0CW4LSs/Coco_%282017%29.720p.HDTC.X264-MerryChristmasNoVipRequired%5BEtHD%5D_mkv.mp4
-#https://openload.co/f/rjggikOpq2Q/Coco.2017.HD-TS.X264.HQ-CPG.mkv.mp4
-#https://openload.co/f/R7W8xvZvB80/Coco_2017_Bolly4u.me_Hindi_Dubbed_HDTS_720p_700MB.mp4
-#https://www.blazefile.co/embed-9z8jtxxnkwfs.html   720
-#https://uptobox.com/bh712zdxhoqd   720
-type=video
-name=Coco (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
-date=2018-02-03
-URL=https://streamango.com/f/lkoroaqedltfpare/Coco_2017_mp4
-#https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_HDTC_x264_AC-3_THR2_0_CpT_CtHts_mkv_mp4
-#https://streamango.com/f/leppnobersfqalmt/Coco_2017_HD_Coco_2017_HC_WEB_DL_720p_X264_AC_3_ThaiRong2_0_CpT_CtHts_mkv_mp4
-#https://streamango.com/f/ndomsmeaptdeftps/Coco_2017_
+
 
 
 
@@ -5211,6 +5232,32 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+
+
+type=video
+name=Coco (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
+date=2018-02-11
+URL=https://www.blazefile.co/embed-kq889i6qnetx.html
+#https://uptobox.com/sppacml2nd38
+#https://openload.co/f/L1AaeLP6pus/Coco.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/7u1UsPkmRKE/Coco.2017.720p.WEBRip.x264.AAC2.0-SHITBOX.mkv.mp4
+#https://openload.co/f/Bi_jeHvp31Q/Coco.2017.720p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/gy6y42tD9Yw/Coco.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/dsmQ0CW4LSs/Coco_%282017%29.720p.HDTC.X264-MerryChristmasNoVipRequired%5BEtHD%5D_mkv.mp4
+#https://openload.co/f/rjggikOpq2Q/Coco.2017.HD-TS.X264.HQ-CPG.mkv.mp4
+#https://openload.co/f/R7W8xvZvB80/Coco_2017_Bolly4u.me_Hindi_Dubbed_HDTS_720p_700MB.mp4
+#https://www.blazefile.co/embed-9z8jtxxnkwfs.html   720
+#https://uptobox.com/bh712zdxhoqd   720
+type=video
+name=Coco (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg
+date=2018-03-03
+URL=https://openload.co/f/fQXeeL8bKBc/Coco_%282017%29%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%A5%E0%B8%A7%E0%B8%99_%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%A7%E0%B8%87.mp4
+#https://streamango.com/f/lkoroaqedltfpare/Coco_2017_mp4
+#https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_HDTC_x264_AC-3_THR2_0_CpT_CtHts_mkv_mp4
+#https://streamango.com/f/leppnobersfqalmt/Coco_2017_HD_Coco_2017_HC_WEB_DL_720p_X264_AC_3_ThaiRong2_0_CpT_CtHts_mkv_mp4
+#https://streamango.com/f/ndomsmeaptdeftps/Coco_2017_
 
 
 type=video

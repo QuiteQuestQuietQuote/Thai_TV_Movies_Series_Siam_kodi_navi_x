@@ -1683,46 +1683,7 @@ http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6Nr8Bqk.png",Passione
 http://37.9.0.201:8888
  
-#EXTINF:-1,|XL| ADULTES 1
-http://panel.dtdns.net:8000/live/shadow/shadow/106.ts
-#EXTINF:-1,|XL| ADULTES 2
-http://panel.dtdns.net:8000/live/shadow/shadow/107.ts
-#EXTINF:-1,|XL| ADULTES 3
-http://panel.dtdns.net:8000/live/shadow/shadow/108.ts
-#EXTINF:-1,|XL| ADULTES 4
-http://panel.dtdns.net:8000/live/shadow/shadow/109.ts
-#EXTINF:-1,|XL| ADULTES 5
-http://panel.dtdns.net:8000/live/shadow/shadow/110.ts
-#EXTINF:-1,|XL| ADULTES 6
-http://panel.dtdns.net:8000/live/shadow/shadow/111.ts
-#EXTINF:-1,|XL| ADULTES 7
-http://panel.dtdns.net:8000/live/shadow/shadow/112.ts
-#EXTINF:-1,|XL| ADULTES 8
-http://panel.dtdns.net:8000/live/shadow/shadow/113.ts
-#EXTINF:-1,|XL| ADULTES 9
-http://panel.dtdns.net:8000/live/shadow/shadow/114.ts
-#EXTINF:-1,|XL| ADULTES 10
-http://panel.dtdns.net:8000/live/shadow/shadow/116.ts
-#EXTINF:-1,|XL| ADULTES 11
-http://panel.dtdns.net:8000/live/shadow/shadow/599.ts
-#EXTINF:-1,|XL| ADULTES 12
-http://panel.dtdns.net:8000/live/shadow/shadow/600.ts
-#EXTINF:-1,|XL| ADULTES 13
-http://panel.dtdns.net:8000/live/shadow/shadow/601.ts
-#EXTINF:-1,|XL| ADULTES 14
-http://panel.dtdns.net:8000/live/shadow/shadow/602.ts
-#EXTINF:-1,|XL| ADULTES 15
-http://panel.dtdns.net:8000/live/shadow/shadow/603.ts
-#EXTINF:-1,|XL| ADULTES 16
-http://panel.dtdns.net:8000/live/shadow/shadow/604.ts
-#EXTINF:-1,|XL| ADULTES 17
-http://panel.dtdns.net:8000/live/shadow/shadow/605.ts
-#EXTINF:-1,|XL| ADULTES 18
-http://panel.dtdns.net:8000/live/shadow/shadow/606.ts
-#EXTINF:-1,|XL| ADULTES 19
-http://panel.dtdns.net:8000/live/shadow/shadow/607.ts
-#EXTINF:-1,|XL| ADULTES 20
-http://panel.dtdns.net:8000/live/shadow/shadow/608.ts
+
  
 #EXTINF:-1,Sex Zone
 http://tv.redecanais.com:1935/redecanaishot/myStream/chunklist.m3u8
