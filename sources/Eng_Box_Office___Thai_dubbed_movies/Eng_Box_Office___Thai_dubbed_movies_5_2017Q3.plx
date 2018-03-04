@@ -55,10 +55,11 @@ URL=
 
 #194
 type=video
-name=Spider-Man: Homecoming (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 9.8GB
+name=Spider-Man: Homecoming (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
-date=2017-10-03
-URL=https://openload.co/f/iqm63BOatDk/spider-man.homecoming.2017.1080p.bluray.x264-sparks.mkv
+date=2018-03-04
+URL=https://www.blazefile.co/embed-ayo8vz7i2fip.html
+#https://openload.co/f/iqm63BOatDk/spider-man.homecoming.2017.1080p.bluray.x264-sparks.mkv   MKV9.8GB
 #https://openload.co/f/ucfMoAn8gTk/spider-man.homecoming.2017.1080p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/L_w51442pJY/Spider.Man.Homecoming.2017.ENG.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 type=video
@@ -72,8 +73,9 @@ URL=https://openload.co/f/3nHvH9JslyE/Spider-Man%3A_Homecoming_%282017%29%E0%B8%
 type=video
 name=Despicable Me 3 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
-date=2017-09-18
-URL=https://openload.co/f/69ojqw6c7zU/Despicable.Me.3.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+date=2018-03-04
+URL=https://www.blazefile.co/embed-8e8r389qvqtg.html
+#https://openload.co/f/69ojqw6c7zU/Despicable.Me.3.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 type=video
 name=Despicable Me 3 (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qcUGqWoWhEsoQwNUrtf3y3fcWn.jpg
@@ -126,8 +128,9 @@ URL=https://openload.co/f/YBXxrCi4zwM/%7BMINI_Super-HQ%7D_Fabricated.City.2017.1
 type=video
 name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg
-date=2017-09-11
-URL=https://openload.co/f/TrMVB_NrTKQ/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-03-04
+URL=https://www.blazefile.co/embed-qwsju4ehl1r4.html
+#https://openload.co/f/TrMVB_NrTKQ/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/KAHOHUCq_WY/Pirates_Of_The_Caribbean_Dead_Men_Tell_No_Tales_2017_1080p_BluRay_x264-%5BYTS_AG%5D_mp4
 type=video
 name=Pirates of the Caribbean: Dead Men Tell No Tales (2017) [COLOR=FF00FF00]TH-ENG MKV 3.3GB[/COLOR]
@@ -169,6 +172,12 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4Cv588VpNpO9twXsdorhz6K8t
 date=2017-09-17
 URL=https://storage.googleapis.com/mlk-s/skl9ae2qp/Margin%20Call%20%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%941080.MP4
 
+
+type=video
+name=Song to Song (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEvtGhNY2DQ4L8Ma6rpMhL6IbKM.jpg
+date=2018-03-04
+URL=https://www.blazefile.co/embed-1j6uwn6l6it3.html
 type=video
 name=Song to Song (2017)
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEvtGhNY2DQ4L8Ma6rpMhL6IbKM.jpg
@@ -203,8 +212,9 @@ URL=https://openload.co/f/LCCSzHO-yIo/Master_%282016%29%E0%B8%A5%E0%B9%88%E0%B8%
 type=video
 name=Wonder Woman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
-date=2017-09-06
-URL=https://openload.co/f/3GQ8WwjZ0Jg/Wonder.Woman.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
+date=2018-03-04
+URL=https://www.blazefile.co/embed-ffd21kdoapcq.html
+#https://openload.co/f/3GQ8WwjZ0Jg/Wonder.Woman.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
 type=video
 name=Wonder Woman (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg
@@ -216,8 +226,9 @@ URL=https://openload.co/f/mNo7vIMzfSk/Wonder_Woman_%282017%29%E0%B8%A7%E0%B8%B1%
 type=video
 name=The Zookeeper's Wife (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/cCQKccGZsfRSBHy4xEhDlS73OS2.jpg
-date=2017-06-20
-URL=https://openload.co/f/AMyTY51uL8o/the.zookeepers.wife.2017.1080p.bluray.x264-geckos.mkv.mp4
+date=2018-03-04
+URL=https://www.blazefile.co/embed-vwud7v5zrsfm.html
+#https://openload.co/f/AMyTY51uL8o/the.zookeepers.wife.2017.1080p.bluray.x264-geckos.mkv.mp4
 player=default
 rating=-1.00
 description=The Zookeeper's Wife tells the account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion./description
@@ -282,8 +293,9 @@ URL=https://openload.co/f/wYw2OQyT9xY/%7BMINI_Super-HQ%7D_Everybody.Wants.Some.2
 type=video
 name=Baywatch (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxQynWvwl41VbJGb0FEyYtuRwS2.jpg
-date=2017-08-18
-URL=https://openload.co/f/JSk-lir1bbA/baywatch.2017.unrated.1080p.bluray.x264-geckos.mkv.mp4
+date=2018-03-04
+URL=https://www.blazefile.co/embed-1y0bkdxcv50q.html
+#https://openload.co/f/JSk-lir1bbA/baywatch.2017.unrated.1080p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/787vGLdQlak/Baywatch.2017.UNRATED.1080p.BluRay.x265.HEVC.6CH-MRN.mkv.mp4
 type=video
 name=Baywatch (2017) TH
@@ -312,10 +324,11 @@ URL=https://openload.co/f/zV7D4cRfpRw/%7BMINI_Super-HQ%7D_Snatched.2017.1080p.Br
 
 
 type=video
-name=Starship Troopers: Traitor of Mars (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 4.4GB
+name=Starship Troopers: Traitor of Mars (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] 
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg
-date=2017-09-15
-URL=https://openload.co/f/nrZt7wOQlvo/Starship.Troopers.Traitor.of.Mars.2017.1080p.BluRay.x264-ROVERS.mkv
+date=2018-03-04
+URL=https://www.blazefile.co/embed-iiv0nr3jldue.html
+#https://openload.co/f/nrZt7wOQlvo/Starship.Troopers.Traitor.of.Mars.2017.1080p.BluRay.x264-ROVERS.mkv   MKV 4.4GB
 type=video
 name=Starship Troopers: Traitor of Mars (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg
@@ -507,8 +520,9 @@ URL=https://openload.co/f/54vnNCjqI88/%7BMINI_Super-HQ%7D_48.Hours.To.Live.2016.
 type=video
 name=Guardians of the Galaxy Vol. 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/gaHepzSTMkGwsSKAqiBgroSCf07.jpg
-date=2017-08-08
-URL=https://openload.co/f/OGhAhmckJAA/Guardians.of.the.Galaxy.Vol.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-03-04
+URL=https://www.blazefile.co/embed-80kqu8ksz7cs.html
+#https://openload.co/f/OGhAhmckJAA/Guardians.of.the.Galaxy.Vol.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 # 2773787
 type=video
 name=Guardians of the Galaxy Vol. 2 (2017) TH IMAX
@@ -542,11 +556,18 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vh5iYhj80l1inSdep61sF8g1S8
 date=2017-08-08
 URL=https://openload.co/f/kzrBNbHs-hs/Tom.and.Jerry.Willy.Wonka.and.the.Chocolate.Factory.2017.1080p.WEB-DL.AC3.x264.CtHts_-_PORSC.mkv.mp4
 
+
+type=video
+name=About Ray (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/A40ko85pS3yrkzeYVuVKB8Xbjjq.jpg
+date=2018-03-04
+URL=https://www.blazefile.co/embed-600k2bmp08np.html
 type=video
 name=3 Generations (2016)
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/A40ko85pS3yrkzeYVuVKB8Xbjjq.jpg
 date=2017-08-10
 URL=https://openload.co/f/3A47QQeJWXA/%7BMINI_Super-HQ%7D_About.Ray.2015.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+
 
 type=video
 name=Enemies In-Law (2015)
