@@ -33,8 +33,29 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
-date=2018-02-22
+date=2018-03-05
 URL=
+
+
+
+
+type=video
+name=Juy-383 My Sister 39s Pita Pan Is Too Erotic 8230 Anzai Hikari
+thumb=http://javsex.net/wp-content/uploads/2018/03/30014.jpg
+date=2018-03-05
+URL=http://test.yamvideo.com/3678e-month-3/001-part-1/appid-30014/hls_720_.m3u8
+
+type=video
+name=Juy-385 I Was Shameless, I Got Lingerie Yuka Oshima
+thumb=http://javsex.net/wp-content/uploads/2018/03/30016.jpg
+date=2018-03-05
+URL=http://test.yamvideo.com/3678e-month-3/001-part-1/appid-30016/hls_720_.m3u8
+
+type=video
+name=Juy-378 Floating Bra I Met In A Byte Ahead Of My Wife Mr Mito
+thumb=http://javsex.net/wp-content/uploads/2018/03/30009.jpg
+date=2018-03-05
+URL=http://test.yamvideo.com/3678e-month-3/001-part-1/appid-30009/hls_720_.m3u8
 
 
 type=video

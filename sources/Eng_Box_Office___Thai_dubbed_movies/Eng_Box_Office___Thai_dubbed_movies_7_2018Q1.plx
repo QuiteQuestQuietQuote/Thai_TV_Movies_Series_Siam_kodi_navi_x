@@ -65,10 +65,11 @@ URL=
 
 
 type=video
-name=Red Sparrow (2018) ENG ENG.CAM.X264-BABY
+name=Red Sparrow (2018) ENG 720p.HDCAM.X264-Frozen
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZwnaMQTdwZz1kwtrrU3IOqxnDu.jpg
-date=2018-03-04
-URL=https://openload.co/f/WsOAcfN1Fog/Red_Sparrow_2018.ENG.CAM.X264-BABY.mkv.mp4
+date=2018-03-05
+URL=https://openload.co/f/nrK7723Q5s0/Red.Sparrow.2018.720p.HDCAM.X264-Frozen.mp4
+#https://openload.co/f/WsOAcfN1Fog/Red_Sparrow_2018.ENG.CAM.X264-BABY.mkv.mp4
 #https://openload.co/f/_e7MhJTAVHQ/Red.Sparrow_2018.CAM.X264-NOBITCOINSYESBANK_SeeHD.mp4
 #https://openload.co/f/7Wooyr39WX4/Red_Sparrow_2018.720p.HDCAM.X264-MyBankAccount.mp4
 
@@ -135,12 +136,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqoezyB51GfhiloOB5ZErg5HXa
 date=2018-02-03
 URL=https://openload.co/f/KG8d68nqqOw/Hostiles.2018.NEW.720p.HDCAM.x264-CPG.mkv.mp4
 
-type=video
-name=Braven (2018) ENG 1080p_AMZN_WEB-DL_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/253Bw5I3Zj3e2thCThjO7byEUCL.jpg
-date=2018-02-15
-URL=https://openload.co/f/g934TYTLtds/Braven_2018_1080p_AMZN_WEB-DL_SeeHD.mkv
-#https://openload.co/f/2qmvoK5LyWw/Braven.2018.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 
 
@@ -296,10 +292,12 @@ URL=https://openload.co/f/_u1FMyoGufI/Woody.Woodpecker.2017.1080p.WEB-DL.DD5.1.H
 
 
 type=video
-name=Paddington 2 (2017) ENG HDTS_x264_AC3_TiTAN
+name=Paddington 2 (2017) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bU5pSpQfXRmqDd6jthmP8iWJOjd.jpg
-date=2017-12-22
-URL=https://openload.co/f/RqXwupoJyYY/Paddington_2_2017_720p_HDTS_x264_AC3_TiTAN.mkv
+date=2018-03-05
+URL=https://openload.co/f/uUsQkf2EAFM/Paddington.2.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/dCc_fJmpF4c/Paddington.2.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/RqXwupoJyYY/Paddington_2_2017_720p_HDTS_x264_AC3_TiTAN.mkv
 #https://openload.co/f/qfpasQHuWo4/Paddington.2.2017.TS.XViD-26k.avi.mp4
 #https://openload.co/f/lqi9R7FoGoQ/Paddington_2_%282017%29_SeeHD.mp4
 #https://openload.co/f/DphGbZSuthQ/Paddington_2_2017_Russian_TELESYNC.avi.mp4
@@ -380,10 +378,11 @@ URL=https://openload.co/f/zjIeJzU_Xo4/Golden.Exits.2018.720p.WEB_SeeHD.mkv.mp4
 #https://openload.co/f/kQdk5pzhgG0/Golden.Exits.2018.1080p.WEB-DL.DD5.1.H264-FGT.mp4
 
 type=video
-name=Looking Glass (2018) ENG 720.WEB-DL_SeeHD
+name=Looking Glass (2018) ENG 720p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zSzaUmoUCwII2pGTqX1jaX8F0p.jpg
-date=2018-02-16
-URL=https://openload.co/f/eOQ8Q5Cjm5E/Looking.Glass.2018.720.WEB-DL_SeeHD.mkv.mp4
+date=2018-03-05
+URL=https://openload.co/f/zMCWRLRujw4/Looking.Glass.2018.720p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/eOQ8Q5Cjm5E/Looking.Glass.2018.720.WEB-DL_SeeHD.mkv.mp4
 
 type=video
 name=The Scent of Rain & Lightning (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
@@ -1285,6 +1284,13 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m800lQEOeSB8xHCSDVPvllxqdM
 date=2018-01-17
 URL=https://openload.co/f/QZ2N84nNYf0/Aritmiya_AKA_Arrhythmia_2017.EngSub.WEB-DL.mkv.mp4
 
+type=video
+name=A Fantastic Woman (2017) ESP DVDRip
+thumb=https://www.themoviedb.org/movie/429191-una-mujer-fant-stica#
+date=2018-03-05
+URL=https://openload.co/f/7VUvKBH0FoA/A.Fantastic.Woman..DVDRip.ubs.
+
+
 
 
 type=video
@@ -1296,10 +1302,20 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-04
+date=2018-03-05
 URL=
 
 
+
+type=video
+name=Braven (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/253Bw5I3Zj3e2thCThjO7byEUCL.jpg
+date=2018-03-05
+URL=https://www.blazefile.co/embed-hvjjotcfxjk8.html
+#https://uptobox.com/ddf1tlqdcnn7
+#https://openload.co/f/4GYwnyUovR0/Braven.2018.BDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/g934TYTLtds/Braven_2018_1080p_AMZN_WEB-DL_SeeHD.mkv
+#https://openload.co/f/2qmvoK5LyWw/Braven.2018.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 type=video
 name=Thelma (2017) [COLOR=FF00FF00]NOR BR 1080p[/COLOR]
@@ -1325,6 +1341,8 @@ name=My Friend Dahmer (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6HoPIBcRv9l2tPB8hbivq71Nw.jpg
 date=2018-03-03
 URL=https://openload.co/f/VPVFMAuJrrM/My.Friend.Dahmer.2017.LIMITED.1080p.BluRay.x264-SNOW.mkv.mp4
+#https://www.blazefile.co/embed-daia3bix9dc9.html   720
+#https://uptobox.com/hnhl0dstf90y   720
 
 type=video
 name=Infidelity in Suburbia (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1348,8 +1366,10 @@ URL=https://openload.co/f/Miq5oMWDUQM/Let.There.Be.Light.2017.1080p.BluRay.x264-
 type=video
 name=Call Me by Your Name (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcNniniS4rfqrLH0oORikJfnIwY.jpg
-date=2018-02-28
-URL=https://openload.co/f/oCF2XxljAKg/Call.Me.by.Your.Name.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
+date=2018-03-05
+URL=https://www.blazefile.co/embed-1lzknezp64d5.html
+#https://uptobox.com/sh8rpismudat
+#https://openload.co/f/oCF2XxljAKg/Call.Me.by.Your.Name.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
 #https://openload.co/f/BIje-onD3w0/Call.Me.by.Your.Name.2017.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/_Y74JPx259c/Call.Me.By.Your.Name.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/NPCxBvHdk_o/Call.Me.By.Your.Name.2017.720pHD.WEB-DL_SeeHD.mp4
@@ -1371,8 +1391,10 @@ URL=https://www.blazefile.co/embed-dyzlb2mrh9ha.html
 type=video
 name=The Disaster Artist (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCH6FOFsDW6pfvbbmIIswuvuNtM.jpg
-date=2018-02-28
-URL=https://openload.co/f/lAIVogIVfa4/the.disaster.artist.2017.1080p.bluray.x264-sparks.mkv.mp4
+date=2018-03-05
+URL=https://www.blazefile.co/embed-xiug1oas0f7z.html
+#https://uptobox.com/q2g6l0q8rapq
+#https://openload.co/f/lAIVogIVfa4/the.disaster.artist.2017.1080p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/HTbekZAzgj8/the.disaster.artist.2017.1080p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/VYjhPzUz16o/The.Disaster.Artist.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/O4T4tChlL8Y/The.Disaster.Artist.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
@@ -1851,6 +1873,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/myFTOsVDxu5sAWcw8hr0LlxBLn
 date=2018-02-08
 URL=https://openload.co/f/Iodnox4rkIs/Loveless.%5BNelyubov%5D.2017.ORIGINAL.1080p.BRRip.x264.AC3.HORiZON-ArtSubs.mkv.mp4
 #https://openload.co/f/ju0ziz2gjOg/Loveless_2017_MULTi_1080p_BRRip_x264_AAC_-_Hon3y.mkv.mp4
+#https://openload.co/f/2jwO2iG5GgQ/Loveless.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Mathilde (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
@@ -3607,8 +3630,55 @@ URL=https://openload.co/f/enjgAavCs5I/Kill.Order.2017.720p.Br_SeeHD.mp4
 type=video
 name=Compulsion (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fPZ50FDA0J3EamkP3g371rewNg.jpg
-date=2018-03-04
-URL=https://openload.co/f/rAYh-94crn8/compulsion.2016.720p.bluray.x264-justwatch.mkv.mp4
+date=2018-03-05
+URL=https://www.blazefile.co/embed-mnyue0lgqznt.html
+#https://uptobox.com/1tcpgry9o18a
+#https://openload.co/f/rAYh-94crn8/compulsion.2016.720p.bluray.x264-justwatch.mkv.mp4
+
+type=video
+name=The Man with the Magic Box (2017) [COLOR=FF00FF00]POL BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zI0BCqgLnhB6ZJeStFaXArJrM0.jpg
+date=2018-03-05
+URL=https://www.blazefile.co/embed-huxlmjpi31vk.html
+#https://uptobox.com/7uorii6lgobj
+
+type=video
+name=I Can Speak (2017) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtN0xx93lNkfA7dwEmpBfbq79Dq.jpg
+date=2018-03-05
+URL=https://www.blazefile.co/embed-72nukbrs608q.html
+#https://uptobox.com/eycg8quzqp6g
+
+type=video
+name=Rising Fear (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/15gMZmOTUC1DLSucMqxmuL0pvMF.jpg
+date=2018-03-05
+URL=https://www.blazefile.co/embed-nolis52md003.html
+#https://uptobox.com/vx0itldt4n8s
+
+type=video
+name=Strangled (2016) [COLOR=FF00FF00]HUN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIIZa4VuKUi8rNcH1Gyqg18sG2K.jpg
+date=2018-03-05
+URL=https://www.blazefile.co/embed-6pbmrqvkzl7l.html
+#https://uptobox.com/9y907gf7gd1x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3680,7 +3750,7 @@ URL=http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
 type=video
 name=
 thumb=
-date=2018-01-29
+date=2018-03-05
 URL=http://203.162.235.41:17819
 
 
