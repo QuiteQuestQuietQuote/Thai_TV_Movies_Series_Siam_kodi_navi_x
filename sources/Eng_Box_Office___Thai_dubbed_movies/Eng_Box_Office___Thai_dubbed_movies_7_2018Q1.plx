@@ -237,13 +237,7 @@ URL=https://openload.co/f/lCFBoodf6EQ/The.Greatest.Showman.2017.1080p.HC.HDRip.X
 
 
 
-type=video
-name=Downsizing (2017) ENG 1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
-date=2018-01-27
-URL=https://openload.co/f/HFErJ2kdTP0/Downsizing.2017.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
-#https://openload.co/f/FnpHjO5a37w/Downsizing.2017.TS.XViD-BL4CKP34RL.avi.mp4
-#https://openload.co/f/H8IXHlo5aCk/Downsizing.2017.CLEAN.720p.HDCAM.x264.AAC-NEXUS.mp4
+
 
 
 
@@ -1302,10 +1296,25 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-05
+date=2018-03-06
 URL=
 
 
+type=video
+name=The Midnight Man (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/VFq733NwXqk44Wrlmplx1CKL5I.jpg
+date=2018-03-06
+URL=https://openload.co/f/yS_D7pWR9Go/the.midnight.man.2016.1080p.bluray.x264-rusted.mkv.mp4
+
+type=video
+name=Downsizing (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
+date=2018-03-06
+URL=https://openload.co/f/B9N2TvEo9V8/downsizing.2017.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/-yKYDG-0yO4/Downsizing.2017.720p.Bluray.x264-Geckos.mkv.mp4
+#https://openload.co/f/HFErJ2kdTP0/Downsizing.2017.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
+#https://openload.co/f/FnpHjO5a37w/Downsizing.2017.TS.XViD-BL4CKP34RL.avi.mp4
+#https://openload.co/f/H8IXHlo5aCk/Downsizing.2017.CLEAN.720p.HDCAM.x264.AAC-NEXUS.mp4
 
 type=video
 name=Braven (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1313,6 +1322,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/253Bw5I3Zj3e2thCThjO7byEUC
 date=2018-03-05
 URL=https://www.blazefile.co/embed-hvjjotcfxjk8.html
 #https://uptobox.com/ddf1tlqdcnn7
+#https://openload.co/f/UWNWSlyHgG4/Braven.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/pPr0vAIBuws/Braven.2018.1080p.BluRay.x264.DTS-HD.MA.5.1-FGT.mkv.mp4
+#https://openload.co/f/aCCejuzskk0/Braven.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
 #https://openload.co/f/4GYwnyUovR0/Braven.2018.BDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/g934TYTLtds/Braven_2018_1080p_AMZN_WEB-DL_SeeHD.mkv
 #https://openload.co/f/2qmvoK5LyWw/Braven.2018.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
@@ -1363,19 +1375,7 @@ date=2018-03-01
 URL=https://openload.co/f/Miq5oMWDUQM/Let.There.Be.Light.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/g97-2pHNRP0/Let.There.Be.Light.2017.720p.Br_SeeHD.mp4
 
-type=video
-name=Call Me by Your Name (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcNniniS4rfqrLH0oORikJfnIwY.jpg
-date=2018-03-05
-URL=https://www.blazefile.co/embed-1lzknezp64d5.html
-#https://uptobox.com/sh8rpismudat
-#https://openload.co/f/oCF2XxljAKg/Call.Me.by.Your.Name.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/BIje-onD3w0/Call.Me.by.Your.Name.2017.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/_Y74JPx259c/Call.Me.By.Your.Name.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/NPCxBvHdk_o/Call.Me.By.Your.Name.2017.720pHD.WEB-DL_SeeHD.mp4
-#https://openload.co/f/jw2WjiDwgc0/Call.Me.By.Your.Name.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4
-#https://www.blazefile.co/embed-8bzugdbfk0zs.html   720
-#https://uptobox.com/unhvmucxd54s   720
+
 
 type=video
 name=The Shape of Water (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3904,10 +3904,11 @@ URL=https://streamango.com/f/balkfoftmmbtdnsn/Insidious_The_Last_Key_2018_
 
 
 type=video
-name=Jumanji: Welcome to the Jungle (2017) ENG 720.HC.VODRip.XviD-JSC
+name=Jumanji: Welcome to the Jungle (2017) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
-date=2018-03-03
-URL=https://openload.co/f/K3-f8QIlD2c/Jumanji.Welcome.to.the.Jungle.2017.720.HC.VODRip.XviD-JSC.mp4
+date=2018-03-06
+URL=https://openload.co/f/MWH_zWb4uUg/Jumanji.Welcome.to.the.Jungle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/K3-f8QIlD2c/Jumanji.Welcome.to.the.Jungle.2017.720.HC.VODRip.XviD-JSC.mp4
 #https://openload.co/f/XKSiSQcZ1hU/Jumanji.Welcome.to.the.Jungle.2017.VODRip.XviD-JSC.mp4
 #https://openload.co/f/niifvdoAp7g/Jumanji_Welcome_To_The_Jungle_2017_NEW_720p_HD-TS_X264_HQ-CPG.mkv.mp4
 #https://openload.co/f/q-pag-xqFBc/Jumanji.Welcome.to.the.Jungle.2017.720p.TS.NEW.AUDIO.XViD-BL4CKP34RL.mp4
@@ -4066,6 +4067,26 @@ URL=
 
 
 
+
+
+type=video
+name=Call Me by Your Name (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcNniniS4rfqrLH0oORikJfnIwY.jpg
+date=2018-03-05
+URL=https://www.blazefile.co/embed-1lzknezp64d5.html
+#https://uptobox.com/sh8rpismudat
+#https://openload.co/f/oCF2XxljAKg/Call.Me.by.Your.Name.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/BIje-onD3w0/Call.Me.by.Your.Name.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/_Y74JPx259c/Call.Me.By.Your.Name.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/NPCxBvHdk_o/Call.Me.By.Your.Name.2017.720pHD.WEB-DL_SeeHD.mp4
+#https://openload.co/f/jw2WjiDwgc0/Call.Me.By.Your.Name.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4
+#https://www.blazefile.co/embed-8bzugdbfk0zs.html   720
+#https://uptobox.com/unhvmucxd54s   720
+type=video
+name=Call Me by Your Name (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcNniniS4rfqrLH0oORikJfnIwY.jpg
+date=2018-03-06
+URL=https://streamango.com/f/nofctabdcpfrdokc/Call_Me_by_Your_Name_2017_
 
 
 type=video
