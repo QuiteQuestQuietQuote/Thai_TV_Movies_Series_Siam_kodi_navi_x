@@ -102,12 +102,6 @@ URL=https://openload.co/f/eWQIr3XNM5w/The_Lodgers_2017_1080p_WEB-DL_DD5.1_H264-C
 
 
 
-type=video
-name=The Monkey King 3 (2018) CHN HDCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCeCvnVsALuuJqBnIm7C4AHlycV.jpg
-date=2018-03-02
-URL=https://openload.co/f/YtZ2o5-0f0Q/The_Monkey_King_3_HDCAM.mp4
-#https://openload.co/f/gI8dWLIQTuk/The_Monkey_King_3_%282018%29_Cam.mp4
 
 
 
@@ -153,14 +147,7 @@ date=2018-01-27
 URL=https://openload.co/f/9xfp6WPIibY/The_Clapper.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 
-type=video
-name=Pitch Perfect 3 (2017) ENG 720p.WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg
-date=2018-03-01
-URL=https://openload.co/f/mj8457obiCg/Pitch.Perfect.3.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/gh2OyXp0iSQ/Pitch.Perfect.3.2017.1080pWEB-DL_SeeHD.mkv.mp4
-#https://openload.co/f/qxnjwUmlZW8/Pitch.Perfect.3.2017.HD720PHD_SeeHD.mp4
-#https://openload.co/f/ulAN5swR5RA/Pitch.Perfect.3.2017.HDCAM.MP4.mp4
+
 
 
 
@@ -223,6 +210,7 @@ name=The Greatest Showman (2017)  ENG 1080p.HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfhztJRiElqmYW4kpvjYe1gENsD.jpg
 date=2018-03-03
 URL=https://openload.co/f/lCFBoodf6EQ/The.Greatest.Showman.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/yOA_40FWzCw/The.Greatest.Showman.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/iuirsA-k0sk/The.Greatest.Showman.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/SNCwiigOC4Y/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv
 #https://openload.co/f/O708OmzRzsE/The_Greatest_Showman_2017_HDCAM_V.2_ENG_X264-DADDY.mkv.mp4
@@ -787,10 +775,11 @@ date=2017-10-24
 URL=https://openload.co/f/4HLGuFV8XFI/Shortwave.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
-name=Creep 2 (2017) ENG HDRip.XviD.AC3-EVO
+name=Creep 2 (2017) ENG DVDRip.x264-PSYCHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0m7WciFnBqpcyH1Yi8i4tdvk0k.jpg
-date=2017-10-24
-URL=https://openload.co/f/vrRM4kviyb0/Creep.2.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2018-03-07
+URL=https://openload.co/f/BNurEpbNOhM/Creep.2.2017.DVDRip.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/vrRM4kviyb0/Creep.2.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 
 
@@ -1205,7 +1194,11 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/62oRA7ghxL9HGFHe5Dd9IVljyK
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
-
+type=video
+name=Abe & Phil's Last Poker Game (2018) ENG BRRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOQmku32jBtEyF4rwzjOKHwUdTh.jpg
+date=2018-03-07
+URL=https://openload.co/f/IEZfmwodEJE/Abe.and.Phils.Last.Poker.Game.2017.BRRip.XviD.AC3-EVO.avi.mp4
 
 
 
@@ -1296,9 +1289,34 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-06
+date=2018-03-07
 URL=
 
+
+
+type=video
+name=Lego DC Comics Super Heroes: The Flash (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/peKFgffHTs6gzDgAWOjIfxziLbQ.jpg
+date=2018-03-07
+URL=https://openload.co/f/RlRRwxE4P9E/Lego.DC.Comics.Super.Heroes.The.Flash.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/woAuxvDl6aQ/Lego.DC.Comics.Super.Heroes.The.Flash.2018.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
+#https://openload.co/f/kGfFbYomOOw/Lego.DC.Comics.Super.Heroes.The.Flash.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
+
+type=video
+name=Pitch Perfect 3 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg
+date=2018-03-07
+URL=https://openload.co/f/1PiVGmz-b6w/Pitch.Perfect.3.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/mj8457obiCg/Pitch.Perfect.3.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/gh2OyXp0iSQ/Pitch.Perfect.3.2017.1080pWEB-DL_SeeHD.mkv.mp4
+#https://openload.co/f/qxnjwUmlZW8/Pitch.Perfect.3.2017.HD720PHD_SeeHD.mp4
+#https://openload.co/f/ulAN5swR5RA/Pitch.Perfect.3.2017.HDCAM.MP4.mp4
+
+type=video
+name=Scorched Earth (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EqgAHkESHZLK4MUHgK9s9882S2.jpg
+date=2018-03-07
+URL=https://openload.co/f/Wk_ULCqMy8o/Scorched.Earth.2018.1080p.BluRay.x264-PSYCHD.mkv.mp4
 
 type=video
 name=The Midnight Man (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1311,6 +1329,8 @@ name=Downsizing (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
 date=2018-03-06
 URL=https://openload.co/f/B9N2TvEo9V8/downsizing.2017.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/Ji-H7B-d_jE/Downsizing.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/Bt8PfwrbkwY/Downsizing.2017.720p.Br_SeeHD.mp4
 #https://openload.co/f/-yKYDG-0yO4/Downsizing.2017.720p.Bluray.x264-Geckos.mkv.mp4
 #https://openload.co/f/HFErJ2kdTP0/Downsizing.2017.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
 #https://openload.co/f/FnpHjO5a37w/Downsizing.2017.TS.XViD-BL4CKP34RL.avi.mp4
@@ -3663,7 +3683,11 @@ date=2018-03-05
 URL=https://www.blazefile.co/embed-6pbmrqvkzl7l.html
 #https://uptobox.com/9y907gf7gd1x
 
-
+type=video
+name=Prodigy (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMqyMjzqMi8Nd57iITmzi1fE5rP.jpg
+date=2018-03-07
+URL=https://openload.co/f/F9wyOwd36kU/Prodigy.2017.720p.BluRay.x264.DTS-CHD.mkv.mp4
 
 
 
@@ -3750,8 +3774,16 @@ URL=http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
 type=video
 name=
 thumb=
-date=2018-03-05
+date=2018-03-07
 URL=http://203.162.235.41:17819
+
+
+
+
+
+
+
+
 
 
 
@@ -3849,10 +3881,11 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 
 
 type=video
-name=Maze Runner: The Death Cure (2018) ENG 720p_HDCAM_X264-PAPA
+name=Maze Runner: The Death Cure (2018) ENG HDTC-720P-X264-MP3
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
-date=2018-02-05
-URL=https://openload.co/f/0wk0pmQT2RE/Maze_Runner_The_Death_Cure_2018_NEW_720p_HDCAM_X264-PAPA.mkv.mp4
+date=2018-03-07
+URL=https://openload.co/f/hzqRftuj1fA/Maze_Runner_The_Death_Cure_2018_HDTC-720P-X264-MP3.mkv.mp4
+#https://openload.co/f/0wk0pmQT2RE/Maze_Runner_The_Death_Cure_2018_NEW_720p_HDCAM_X264-PAPA.mkv.mp4
 #https://openload.co/f/NcFRR2AcyZg/Maze_Runner_The_Death_Cure.2018.NEWSOURCE.HC.HDCAM.XviD-NoGRP.avi.mp4
 #https://openload.co/f/x3w1YyqQN2I/Maze.Runner.The.Death.Cure.2018.CAM.ENG.x264-NoGRP.MP4.mp4
 type=video
@@ -3904,10 +3937,12 @@ URL=https://streamango.com/f/balkfoftmmbtdnsn/Insidious_The_Last_Key_2018_
 
 
 type=video
-name=Jumanji: Welcome to the Jungle (2017) ENG 1080p.WEB-DL.H264.AC3-EVO
+name=Jumanji: Welcome to the Jungle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
-date=2018-03-06
-URL=https://openload.co/f/MWH_zWb4uUg/Jumanji.Welcome.to.the.Jungle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2018-03-07
+URL=https://openload.co/f/Pkh2MPhaAus/jumanji.welcome.to.the.jungle.2017.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/yeZrnSjz25Q/jumanji.welcome.to.the.jungle.2017.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/MWH_zWb4uUg/Jumanji.Welcome.to.the.Jungle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/K3-f8QIlD2c/Jumanji.Welcome.to.the.Jungle.2017.720.HC.VODRip.XviD-JSC.mp4
 #https://openload.co/f/XKSiSQcZ1hU/Jumanji.Welcome.to.the.Jungle.2017.VODRip.XviD-JSC.mp4
 #https://openload.co/f/niifvdoAp7g/Jumanji_Welcome_To_The_Jungle_2017_NEW_720p_HD-TS_X264_HQ-CPG.mkv.mp4
@@ -3927,26 +3962,7 @@ date=2017-12-30
 URL=https://streamango.com/f/lfepefddqscnfbrr/Jumanji_Welcome_to_the_Jungle_2017_
 
 
-type=video
-name=Ferdinand (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg
-date=2018-02-27
-URL=https://www.blazefile.co/embed-xv1rckavwoqj.html
-#https://uptobox.com/yy11nw6js42m
-#https://openload.co/f/0LW2cJ-Bj-0/ghpFD80.Ettv.st.mkv
-#https://openload.co/f/RyK3GJDez3Q/Ferdinand_%282017%291080p_BluRay_x264-DRONES_ganool.mkv.mp4
-#https://openload.co/f/eaxrfUp-kFA/Ferdinand.2017.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/ex88qzzIb2A/Ferdinand.2017.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/XXm5W9s9e7Q/Ferdinand.2017.720p.Br_SeeHD.mp4
-#https://openload.co/f/szmI6J6kL3c/Ferdinand.2017.HDCAM.x264.AC3-TiTAN.mkv.mp4
-#https://openload.co/f/bifINJBmeNg/Ferdinand.2017.HDCAM_.720p-DerpusMaxiums.mp4
-#https://openload.co/f/XwQneA9shx4/Ferdinand_2017_HDCAM_NO_LOGO_720p_Spacemov.io.mp4
-type=video
-name=Ferdinand (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg
-date=2018-01-03
-URL=https://streamango.com/f/fpebdeokmteqplkc/Ferdinand_2017_HD_Ferdinand_2017_HDTS_x264_AC_3_ThaiRong2_0_CpT_CtHts_mp4
-#https://streamango.com/f/msdndqpacntaolnl/Ferdinand_2017_
+
 
 
 type=video
@@ -4096,6 +4112,7 @@ date=2018-02-21
 URL=https://www.blazefile.co/embed-thhtw5hytq8b.html
 #https://uptobox.com/177hmwgk6062
 #https://openload.co/f/ihYAfN5FFqo/noviate80.Ettv.st.mkv
+#https://openload.co/f/Z3wm7juAYvM/Novitiate.2017.720p.BluRay.X264-AMIABLE.mkv.mp4
 type=video
 name=Novitiate (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZ9BbRy4YGFM1yvx6ZDO7qzILJ.jpg
@@ -5042,16 +5059,58 @@ URL=
 
 
 
+
+
+
+type=video
+name=Guardians of the Tomb (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca799tQJwj4lkkQpBdXohlvEtuQ.jpg
+date=2018-03-07
+URL=https://streamango.com/f/laaqppbkadlbrado/Guardians_of_the_Tomb_2018_
+
+
+type=video
+name=The Monkey King 3 (2018) CHN HDCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQw0pTWeplDn1TmiN4MjIxvyCR0.jpg
+date=2018-03-02
+URL=https://openload.co/f/YtZ2o5-0f0Q/The_Monkey_King_3_HDCAM.mp4
+#https://openload.co/f/gI8dWLIQTuk/The_Monkey_King_3_%282018%29_Cam.mp4
+type=video
+name=The Monkey King 3 (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQw0pTWeplDn1TmiN4MjIxvyCR0.jpg
+date=2018-03-07
+URL=https://streamango.com/f/ndskdkornckbqper/The_Monkey_King_3_2018_
+
+
+type=video
+name=Ferdinand (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg
+date=2018-02-27
+URL=https://www.blazefile.co/embed-xv1rckavwoqj.html
+#https://uptobox.com/yy11nw6js42m
+#https://openload.co/f/0LW2cJ-Bj-0/ghpFD80.Ettv.st.mkv
+#https://openload.co/f/RyK3GJDez3Q/Ferdinand_%282017%291080p_BluRay_x264-DRONES_ganool.mkv.mp4
+#https://openload.co/f/eaxrfUp-kFA/Ferdinand.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/ex88qzzIb2A/Ferdinand.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/XXm5W9s9e7Q/Ferdinand.2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/szmI6J6kL3c/Ferdinand.2017.HDCAM.x264.AC3-TiTAN.mkv.mp4
+#https://openload.co/f/bifINJBmeNg/Ferdinand.2017.HDCAM_.720p-DerpusMaxiums.mp4
+#https://openload.co/f/XwQneA9shx4/Ferdinand_2017_HDCAM_NO_LOGO_720p_Spacemov.io.mp4
+type=video
+name=Ferdinand (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg
+date=2018-03-07
+URL=https://streamango.com/f/mqbekpqfcepsmpcq/Ferdinand_2017_
+#https://streamango.com/f/fpebdeokmteqplkc/Ferdinand_2017_HD_Ferdinand_2017_HDTS_x264_AC_3_ThaiRong2_0_CpT_CtHts_mp4
+#https://streamango.com/f/msdndqpacntaolnl/Ferdinand_2017_
+
+
 type=video
 name=Fairy Tail Movie 2: Dragon Cry (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6GuwIVkNZYFkt7kiHSJRPiXAAA.jpg
 date=2018-02-14
 URL=https://streamango.com/f/blonnaontoptfqls/Fairy_Tail_Movie_2_Dragon_Cry_2017_
 #https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97_%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3.mp4
-
-
-
-
 
 
 type=video
@@ -5065,11 +5124,9 @@ URL=https://openload.co/f/x4auntQZjCw/Bleeding.Steel.2017.1080p.HC.WEBRip.x264.A
 type=video
 name=Bleeding Steel (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1O26qVwkhSlicycBBK731k8vPd.jpg
-date=2018-01-22
-URL=https://streamango.com/f/taflormrmbkarraf/Bleeding_Steel_2017_
-
-
-
+date=2018-03-07
+URL=https://streamango.com/f/atmebpftprrlaccl/Bleeding_Steel_2017_
+#https://streamango.com/f/taflormrmbkarraf/Bleeding_Steel_2017_
 
 
 type=video
