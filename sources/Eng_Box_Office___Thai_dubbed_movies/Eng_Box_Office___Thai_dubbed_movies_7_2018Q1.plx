@@ -273,17 +273,7 @@ URL=https://openload.co/f/_u1FMyoGufI/Woody.Woodpecker.2017.1080p.WEB-DL.DD5.1.H
 
 
 
-type=video
-name=Paddington 2 (2017) ENG 1080p.WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bU5pSpQfXRmqDd6jthmP8iWJOjd.jpg
-date=2018-03-05
-URL=https://openload.co/f/uUsQkf2EAFM/Paddington.2.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/dCc_fJmpF4c/Paddington.2.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/RqXwupoJyYY/Paddington_2_2017_720p_HDTS_x264_AC3_TiTAN.mkv
-#https://openload.co/f/qfpasQHuWo4/Paddington.2.2017.TS.XViD-26k.avi.mp4
-#https://openload.co/f/lqi9R7FoGoQ/Paddington_2_%282017%29_SeeHD.mp4
-#https://openload.co/f/DphGbZSuthQ/Paddington_2_2017_Russian_TELESYNC.avi.mp4
-#https://openload.co/f/O5MG7v4Xa2E/Paddington.2.2017.iTALiAN.LD.TELESYNC.XviD_CriMiNaL.mp4
+
 
 
 
@@ -921,10 +911,11 @@ URL=https://openload.co/f/Qae7lBcWAYU/One.Percent.More.Humid.2017.1080p.WEB-DL.D
 #https://openload.co/f/IC-shIyRi3o/One_Percent_More_Humid_2017_HDRip_XviD_AC3-EVO.mp4
 
 type=video
-name=Sleepwalker (2017) ENG HDRip_XviD_AC3-EVO
+name=Sleepwalker (2017) ENG 1080p.WEB-DL.DD5.1.H.264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mL4XNPdJZcaL1iUKDMY7wtqp0.jpg
-date=2017-10-10
-URL=https://openload.co/f/JZe9TCIgTEI/Sleepwalker_2017_HDRip_XviD_AC3-EVO.mp4
+date=2018-03-08
+URL=https://openload.co/f/8MxUCmLZrpc/Sleepwalker.2017.1080p.WEB-DL.DD5.1.H.264-FGT.mkv.mp4
+#https://openload.co/f/JZe9TCIgTEI/Sleepwalker_2017_HDRip_XviD_AC3-EVO.mp4
 
 
 
@@ -1194,11 +1185,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/62oRA7ghxL9HGFHe5Dd9IVljyK
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
-type=video
-name=Abe & Phil's Last Poker Game (2018) ENG BRRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOQmku32jBtEyF4rwzjOKHwUdTh.jpg
-date=2018-03-07
-URL=https://openload.co/f/IEZfmwodEJE/Abe.and.Phils.Last.Poker.Game.2017.BRRip.XviD.AC3-EVO.avi.mp4
+
 
 
 
@@ -1272,10 +1259,23 @@ date=2018-01-17
 URL=https://openload.co/f/QZ2N84nNYf0/Aritmiya_AKA_Arrhythmia_2017.EngSub.WEB-DL.mkv.mp4
 
 type=video
-name=A Fantastic Woman (2017) ESP DVDRip
+name=Eva (2018) FRE FRENCH.CAM.x264_UNiKORN.E
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wToGTUAJREIFWWa28erOM8gQ7c.jpg
+date=2018-03-08
+URL=https://openload.co/f/QuRiZTbeg8s/Eva.2018.FRENCH.CAM.x264_UNiKORN.E.mp4
+
+type=video
+name=The Paradise Suite (2015) DUT hc_eng_subs_seeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t46PFMfKp2f9t05zx2xk4iJe2ji.jpg
+date=2018-03-08
+URL=https://openload.co/f/9KZfzBEg-Wg/The_Paradise_Suite_%282015%29_hc_eng_subs_seeHD.mp4
+
+type=video
+name=A Fantastic Woman (2017) ESP EngSubs_BRRip_Layar
 thumb=https://www.themoviedb.org/movie/429191-una-mujer-fant-stica#
-date=2018-03-05
-URL=https://openload.co/f/7VUvKBH0FoA/A.Fantastic.Woman..DVDRip.ubs.
+date=2018-03-08
+URL=https://openload.co/f/etHWprl-sNA/Una_Mujer_Fant%C3%A1stica_2017_EngSubs_BRRip_Layar.mp4
+#https://openload.co/f/7VUvKBH0FoA/A.Fantastic.Woman..DVDRip.ubs.
 
 
 
@@ -1289,10 +1289,45 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-07
+date=2018-03-08
 URL=
 
 
+type=video
+name=Prodigy (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMqyMjzqMi8Nd57iITmzi1fE5rP.jpg
+date=2018-03-08
+URL=https://www.blazefile.co/embed-952nvrbkoy1s.html
+#https://uptobox.com/1frun6i7ymo1
+#https://openload.co/f/F9wyOwd36kU/Prodigy.2017.720p.BluRay.x264.DTS-CHD.mkv.mp4
+
+type=video
+name=Muse (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlDFEhlBon98itV43QOPCk7r0I7.jpg
+date=2018-03-08
+URL=https://openload.co/f/hgysOOzI82k/Muse.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Paddington 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bU5pSpQfXRmqDd6jthmP8iWJOjd.jpg
+date=2018-03-08
+URL=https://openload.co/f/OUwN2l7g6Y8/Paddington.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/fNwpvOiBDIM/Paddington.2.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/uUsQkf2EAFM/Paddington.2.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/dCc_fJmpF4c/Paddington.2.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/RqXwupoJyYY/Paddington_2_2017_720p_HDTS_x264_AC3_TiTAN.mkv
+#https://openload.co/f/qfpasQHuWo4/Paddington.2.2017.TS.XViD-26k.avi.mp4
+#https://openload.co/f/lqi9R7FoGoQ/Paddington_2_%282017%29_SeeHD.mp4
+#https://openload.co/f/DphGbZSuthQ/Paddington_2_2017_Russian_TELESYNC.avi.mp4
+#https://openload.co/f/O5MG7v4Xa2E/Paddington.2.2017.iTALiAN.LD.TELESYNC.XviD_CriMiNaL.mp4
+
+type=video
+name=Abe & Phil's Last Poker Game (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOQmku32jBtEyF4rwzjOKHwUdTh.jpg
+date=2018-03-08
+URL=https://openload.co/f/18ITpiEhhmk/Abe.and.Phils.Last.Poker.Game.2017.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
+#https://openload.co/f/HFyUu0dgGTA/Abe.and.Phils.Last.Poker.Game.2017.1080p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/IEZfmwodEJE/Abe.and.Phils.Last.Poker.Game.2017.BRRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=Lego DC Comics Super Heroes: The Flash (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1301,12 +1336,16 @@ date=2018-03-07
 URL=https://openload.co/f/RlRRwxE4P9E/Lego.DC.Comics.Super.Heroes.The.Flash.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/woAuxvDl6aQ/Lego.DC.Comics.Super.Heroes.The.Flash.2018.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
 #https://openload.co/f/kGfFbYomOOw/Lego.DC.Comics.Super.Heroes.The.Flash.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
+#https://www.blazefile.co/embed-6znwzokfognf.html   720
+#https://uptobox.com/b97yfiuc2d8w   720
 
 type=video
 name=Pitch Perfect 3 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg
-date=2018-03-07
-URL=https://openload.co/f/1PiVGmz-b6w/Pitch.Perfect.3.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+date=2018-03-08
+URL=https://www.blazefile.co/embed-obp2z2dqhicb.html
+#https://uptobox.com/hartxjc1c3ls
+#https://openload.co/f/1PiVGmz-b6w/Pitch.Perfect.3.2017.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/mj8457obiCg/Pitch.Perfect.3.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/gh2OyXp0iSQ/Pitch.Perfect.3.2017.1080pWEB-DL_SeeHD.mkv.mp4
 #https://openload.co/f/qxnjwUmlZW8/Pitch.Perfect.3.2017.HD720PHD_SeeHD.mp4
@@ -1327,8 +1366,10 @@ URL=https://openload.co/f/yS_D7pWR9Go/the.midnight.man.2016.1080p.bluray.x264-ru
 type=video
 name=Downsizing (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
-date=2018-03-06
-URL=https://openload.co/f/B9N2TvEo9V8/downsizing.2017.1080p.bluray.x264-geckos.mkv.mp4
+date=2018-03-08
+URL=https://www.blazefile.co/embed-cunn2s8byvp6.html
+#https://uptobox.com/o53cmekouwn9
+#https://openload.co/f/B9N2TvEo9V8/downsizing.2017.1080p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/Ji-H7B-d_jE/Downsizing.2017.1080p.Br_SeeHD.mp4
 #https://openload.co/f/Bt8PfwrbkwY/Downsizing.2017.720p.Br_SeeHD.mp4
 #https://openload.co/f/-yKYDG-0yO4/Downsizing.2017.720p.Bluray.x264-Geckos.mkv.mp4
@@ -3661,6 +3702,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zI0BCqgLnhB6ZJeStFaXArJrM0
 date=2018-03-05
 URL=https://www.blazefile.co/embed-huxlmjpi31vk.html
 #https://uptobox.com/7uorii6lgobj
+#https://openload.co/f/QnLt__XIfJQ/the.man.with.the.magic.box.2017.1080p.bluray.x264-rovers.mkv.mp4
 
 type=video
 name=I Can Speak (2017) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
@@ -3683,15 +3725,21 @@ date=2018-03-05
 URL=https://www.blazefile.co/embed-6pbmrqvkzl7l.html
 #https://uptobox.com/9y907gf7gd1x
 
+
+
 type=video
-name=Prodigy (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMqyMjzqMi8Nd57iITmzi1fE5rP.jpg
-date=2018-03-07
-URL=https://openload.co/f/F9wyOwd36kU/Prodigy.2017.720p.BluRay.x264.DTS-CHD.mkv.mp4
+name=The Feels (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4G3fDWlqw7J3SM43QPgGSYtwWKI.jpg
+date=2018-03-08
+URL=https://openload.co/f/rIOglQNtN-I/The.Feels.2017.720p.BRRip.XviD.AC3-XVID.avi.mp4
 
-
-
-
+type=video
+name=Hotel Salvation (2016) [COLOR=FF00FF00]HIN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KU7HqRPbl4ZTELz2uRDQYCLSOq.jpg
+date=2018-03-08
+URL=https://www.blazefile.co/embed-m9yjvuuzs10h.html
+#https://uptobox.com/1kjh2dhrw0x2
+#https://openload.co/f/CXK7zH7HupE/hotel.salvation.2016.limited.720p.bluray.x264-cadaver.mkv.mp4
 
 
 
@@ -3774,7 +3822,7 @@ URL=http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
 type=video
 name=
 thumb=
-date=2018-03-07
+date=2018-03-08
 URL=http://203.162.235.41:17819
 
 
@@ -3939,8 +3987,10 @@ URL=https://streamango.com/f/balkfoftmmbtdnsn/Insidious_The_Last_Key_2018_
 type=video
 name=Jumanji: Welcome to the Jungle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
-date=2018-03-07
-URL=https://openload.co/f/Pkh2MPhaAus/jumanji.welcome.to.the.jungle.2017.1080p.bluray.x264-sparks.mkv.mp4
+date=2018-03-08
+URL=https://www.blazefile.co/embed-n5v87h0lmhot.html
+#https://uptobox.com/v2vcn8lexteh
+#https://openload.co/f/Pkh2MPhaAus/jumanji.welcome.to.the.jungle.2017.1080p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/yeZrnSjz25Q/jumanji.welcome.to.the.jungle.2017.1080p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/MWH_zWb4uUg/Jumanji.Welcome.to.the.Jungle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/K3-f8QIlD2c/Jumanji.Welcome.to.the.Jungle.2017.720.HC.VODRip.XviD-JSC.mp4
@@ -4078,11 +4128,28 @@ URL=https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0
 type=video
 name=
 thumb=
-date=2018-03-03
+date=2018-03-08
 URL=
 
 
 
+type=video
+name=The Ravenous (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/26t6ZxMLF5WgsrGNqUPjQdyOXS1.jpg
+date=2018-03-08
+URL=https://streamango.com/f/lenmdanldqtopqpe/The_Ravenous_2017_
+
+type=video
+name=The Chase (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUKK8qNvdswWFknQycj5oQMzcE9.jpg
+date=2018-03-08
+URL=https://streamango.com/f/snatlkdbpdfnalsb/The_Chase_2017_mp4
+
+type=video
+name=Love Per Square Foot (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hELQ0htEiE0NHWvmVrPZ4sSrkBF.jpg
+date=2018-03-08
+URL=https://streamango.com/f/sclkloabqrallkmb/Love_Per_Square_Foot_2018_mp4
 
 
 type=video
@@ -5070,10 +5137,11 @@ URL=https://streamango.com/f/laaqppbkadlbrado/Guardians_of_the_Tomb_2018_
 
 
 type=video
-name=The Monkey King 3 (2018) CHN HDCAM
+name=The Monkey King 3 (2018) CHN HDTC_EngSub_Layar
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQw0pTWeplDn1TmiN4MjIxvyCR0.jpg
-date=2018-03-02
-URL=https://openload.co/f/YtZ2o5-0f0Q/The_Monkey_King_3_HDCAM.mp4
+date=2018-03-08
+URL=https://openload.co/f/6bxFcCnr7qE/The_Monkey_King_3_2018_HDTC_EngSub_Layar.mp4
+#https://openload.co/f/YtZ2o5-0f0Q/The_Monkey_King_3_HDCAM.mp4
 #https://openload.co/f/gI8dWLIQTuk/The_Monkey_King_3_%282018%29_Cam.mp4
 type=video
 name=The Monkey King 3 (2018) THCAM SOUND
