@@ -1985,17 +1985,7 @@ URL=https://www.blazefile.co/embed-3bzama5cyjck.html
 #https://uptobox.com/xpi6era36pb1
 #https://openload.co/f/51i6FxaFHVI/zoology.2016.limited.720p.bluray.x264-usury.mkv.mp4
 
-type=video
-name=Wonder (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouYgAatYH4JzIThj6FI3UYf31RI.jpg
-date=2018-02-02
-URL=https://www.blazefile.co/embed-wuqk20laltr8.html
-#https://uptobox.com/v1o8arkpx1an
-#https://www.blazefile.co/embed-hlvkd4tjtofa.html   720
-#https://uptobox.com/f0e1lvllj4mo   720
-#https://openload.co/f/hYTHbSMmQJw/Wonder.2017.720p.WEB-DL.900MB.MkvCage.mkv.mp4
-#https://openload.co/f/3rl1jNYT0tg/Wonder.2017.HDTS.X264-NoGRP.mp4
-#https://openload.co/f/fR4CjUe3fnU/Wonder.2017.HDCAM.X264.HQ-DADDY.mkv.mp4
+
 
 type=video
 name=Walking Out (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5490,6 +5480,24 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+
+
+type=video
+name=Wonder (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouYgAatYH4JzIThj6FI3UYf31RI.jpg
+date=2018-02-02
+URL=https://www.blazefile.co/embed-wuqk20laltr8.html
+#https://uptobox.com/v1o8arkpx1an
+#https://www.blazefile.co/embed-hlvkd4tjtofa.html   720
+#https://uptobox.com/f0e1lvllj4mo   720
+#https://openload.co/f/hYTHbSMmQJw/Wonder.2017.720p.WEB-DL.900MB.MkvCage.mkv.mp4
+#https://openload.co/f/3rl1jNYT0tg/Wonder.2017.HDTS.X264-NoGRP.mp4
+#https://openload.co/f/fR4CjUe3fnU/Wonder.2017.HDCAM.X264.HQ-DADDY.mkv.mp4
+type=video
+name=Wonder (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouYgAatYH4JzIThj6FI3UYf31RI.jpg
+date=2018-03-09
+URL=https://openload.co/f/AFmodyjtfCg/Wonder_%282017%29%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C.mp4
 
 
 type=video
