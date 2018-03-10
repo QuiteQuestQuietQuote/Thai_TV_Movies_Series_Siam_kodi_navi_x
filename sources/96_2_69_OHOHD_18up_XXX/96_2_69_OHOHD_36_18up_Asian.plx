@@ -56,6 +56,230 @@ URL=
 
 
 
+
+
+
+
+
+
+type=video
+name=132xxxxxxxxxxxxxxxxxxxxBal Chig Han Dong Geo (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Bal-Chig-Han-Dong-Geo-2017-Uncut.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/trtqnlbcdlbcokkb/
+
+type=video
+name=Couple Exchange Day (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Couple-Exchange-Day-2017-Uncut.png
+date=2018-03-10
+URL=https://streamcherry.com/embed/flrmdctrcbcrnmmb/
+
+type=video
+name=Good Form Factor 2 (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Good-Form-Factor-2-2017-Uncut.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/cdrptnkcrrfokceb/
+
+type=video
+name=Yomeniakitara Tonarino Onna (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Yomeniakitara-Tonarino-Onna-2016.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/mfrcepcfsmaeotpt/
+
+type=video
+name=The Taste Of Adultery Dc (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/The-Taste-Of-Adultery-Dc-2017.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/ldcmbaeaadfcslsf/
+
+
+type=video
+name=Damasareru Onna (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Damasareru-Onna-2016.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/epnloflsaknlpcon/
+
+type=video
+name=Neighbor’s Beautiful Wife (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Neighbors-Beautiful-Wife-2017.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/lalbktmseekbqanl/
+
+type=video
+name=A Lying Lover (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/A-Lying-Lover-2017.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/knepnlkeoqqpmpeq/
+
+type=video
+name=Otokodatini Yorokobarerutuma (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Otokodatini-Yorokobarerutuma-2017.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/rbcafladebtbaadt/
+
+type=video
+name=Step Mother 2 Be Her Man (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Step-Mother-2-Be-Her-Man-2017-Uncut.png
+date=2018-03-10
+URL=https://streamcherry.com/embed/epnfcrbtpflbqmpo/
+
+
+type=video
+name=Afternoon Of The Married Woman (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Afternoon-Of-The-Married-Woman-2016.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/laakatasqmtetlne/
+
+type=video
+name=Jeolm Eun Hyeongsu Hyeong Ui Yeojaleul Tamhada (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Jeolm-Eun-Hyeongsu-Hyeong-Ui-Yeojaleul-Tamhada-2017.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/lkqfbnmdotoeqqom/
+
+type=video
+name=Price Of Nude (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Price-Of-Nude-2016.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/osanclrlkmsqsfss/
+
+type=video
+name=My Friend’s Mother (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/My-Friends-Mother-2016.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/anbbqekbldretknc/
+
+type=video
+name=Wife Of Sex Life (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Wife-Of-Sex-Life-2016.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/dsnpdfffadocpnre/
+
+
+type=video
+name=Seduction Of the Mother-In-Law (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Seduction-Of-the-Mother-In-Law-2016.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/qbskapkfaptfaske/
+
+type=video
+name=Do M For Me (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Do-M-For-Me-2016.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/qtdkrsdkqmpkktqe/
+
+type=video
+name=A Condition Of The Divorce (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/A-Condition-Of-The-Divorce-2015.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/kckemlmkpatmopko/
+
+type=video
+name=Frustration Wife (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Frustration-Wife-2016.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/brdtbomkfbqbllsq/
+
+type=video
+name=Young Wife AV Actress Next (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Young-Wife-AV-Actress-Next-2017.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/qebsckttdtsacobb/
+
+
+type=video
+name=A Classmate Undermined Wife (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/A-Classmate-Undermined-Wife-2017.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/ceskecdntrlqdsql/
+
+type=video
+name=Sachon Nuna (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Sachon-Nuna-2017.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/tcaopapqbeqltdab/
+
+type=video
+name=Breast Milk Mothers (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Breast-Milk-Mothers-2017.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/knspdqbcplkqnafm/
+
+type=video
+name=Sing In Pure Heart Big Tits (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Sing-In-Pure-Heart-Big-Tits-2016.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/crapermenrqplsrc/
+
+
+
+
+
+
+
+
+
+type=video
+name=108xxxxxxxxxxxxxxxxxxxxMidarana Yokubo (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Midarana-Yokubo-2016.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/bcdnmskocdftmbns/
+
+type=video
+name=Affair Reunion (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Affair-Reunion-2017.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/rctrqrqbdneosabn/
+
+type=video
+name=An Obscene Lucky Wife’s Unusual Sexual Experience (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/An-Obscene-Lucky-Wifes-Unusual-Sexual-Experience-2016.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/cdqaoqqsmntlqqek/
+
+type=video
+name=Mil Ae Chingueomma (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Mil-Ae-Chingueomma-2017.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/ttlatktspbcpfcod/
+
+type=video
+name=Friends Mother Nursing Care For Her (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Friends-Mother-Nursing-Care-For-Her-2017-Uncut.png
+date=2018-03-10
+URL=https://streamcherry.com/embed/blqtbsltdkdlqmps/
+
+
+type=video
+name=Maiden Hunting (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Maiden-Hunting-2017.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/radbfderapqposks/
+
+type=video
+name=The Step Mothers Who Have Laundlies (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/The-Step-Mothers-Who-Have-Laundlies-2016.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/tnpkdkntbbnltmef/
+
+type=video
+name=My Wifes Friend (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/My-Wifes-Friend-2017-Uncut.png
+date=2018-03-10
+URL=https://streamcherry.com/embed/psrrfqppckceqrce/
+
+type=video
+name=Yuwaku Onna (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Yuwaku-Onna-2016.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/smeklqrrecafelql/
+
+
+
+
+
+
+
+
 type=video
 name=99xxxxxxxxxxxxxxxxxxxxHarassment (2016) 
 thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Harassment-2016.jpg

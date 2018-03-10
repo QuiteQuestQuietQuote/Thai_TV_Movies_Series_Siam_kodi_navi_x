@@ -61,6 +61,75 @@ URL=
 
 
 
+
+
+type=video
+name=101xxxxxxxxxxxxxxxxxxxxAsian Sex Diary [Filipina Sex Diary] Nica
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Nica.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/opqoebtekqctmmnb/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Sunset Potchie Thinking About Her
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Sunset-Potchie-Thinking-About-Her.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/rcddesppaodconaq/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Nica Sally Her Gf
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Nica-Sally-Her-Gf.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/kttkffnsbdlpmkob/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Shower Girl Dumped By Laiza Then Barfined To Forget Pain
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Shower-Girl-Dumped-By-Laiza-Then-Barfined-To-Forget-Pain.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/nfqdtcnbmefpmfma/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Rubi
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Rubi.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/bdsadaflbmebeeql/
+
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Zen Returns 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Zen-Returns.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/tlnsecebfmbqmnsc/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Veregit
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Veregit.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/otartpkacqoeksts/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Wendy
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Wendy.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/bnqfkcqnbqtnfmrm/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Tik Kam
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Tik-Kam.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/ndpodoesceempnpm/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Trixie In The Shower 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Trixie-In-The-Shower.jpg
+date=2018-03-10
+URL=https://streamcherry.com/embed/aqrlmsdnftlelern/
+
+
+
+
+
+
+
 type=video
 name=91xxxxxxxxxxxxxxxxxxxxAsian Sex Diary [Asian Candy Shop] Fuck Dolls Feat Wan
 thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Asian-Sex-Diary-Asian-Candy-Shop-Fuck-Dolls-Feat-Wan.jpg
