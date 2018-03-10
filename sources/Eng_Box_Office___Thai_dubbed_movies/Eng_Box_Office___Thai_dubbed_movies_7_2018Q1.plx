@@ -65,10 +65,11 @@ URL=
 
 
 type=video
-name=Red Sparrow (2018) ENG 720p.HDCAM.X264-Frozen
+name=Red Sparrow (2018) ENG HDCAM-X264-MP3-Zi%24
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZwnaMQTdwZz1kwtrrU3IOqxnDu.jpg
-date=2018-03-05
-URL=https://openload.co/f/nrK7723Q5s0/Red.Sparrow.2018.720p.HDCAM.X264-Frozen.mp4
+date=2018-03-10
+URL=https://openload.co/f/Pb3aZcRQqKY/Red_Sparrow_%282018%29_HDCAM-X264-MP3-Zi%24t.mkv.mp4
+#https://openload.co/f/nrK7723Q5s0/Red.Sparrow.2018.720p.HDCAM.X264-Frozen.mp4
 #https://openload.co/f/WsOAcfN1Fog/Red_Sparrow_2018.ENG.CAM.X264-BABY.mkv.mp4
 #https://openload.co/f/_e7MhJTAVHQ/Red.Sparrow_2018.CAM.X264-NOBITCOINSYESBANK_SeeHD.mp4
 #https://openload.co/f/7Wooyr39WX4/Red_Sparrow_2018.720p.HDCAM.X264-MyBankAccount.mp4
@@ -1289,9 +1290,16 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-08
+date=2018-03-10
 URL=
 
+
+type=video
+name=5 Doctors (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWjBMw43GEX0VejTVVOcIZ2gay6.jpg
+date=2018-03-10
+URL=https://openload.co/f/ZAHtrYwjhxU/5.Doctors.2016.1080p.BluRay.x264-%5BYTS.ME%5D.mp4
+#https://openload.co/f/vMVL2iTL-z4/5.Doctors.2016.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Prodigy (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1310,8 +1318,12 @@ URL=https://openload.co/f/hgysOOzI82k/Muse.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 type=video
 name=Paddington 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bU5pSpQfXRmqDd6jthmP8iWJOjd.jpg
-date=2018-03-08
-URL=https://openload.co/f/OUwN2l7g6Y8/Paddington.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-03-10
+URL=https://www.blazefile.co/embed-e3c1o0cdcanb.html
+#https://uptobox.com/hx35uve7ru4m
+#https://openload.co/f/YxEKxxIUFt8/Paddington.2.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/pJxAMHU7hpQ/Paddington.2.2017.1080p.BluRay.x264-%5BbbYTS.AM%5D.mp4
+#https://openload.co/f/OUwN2l7g6Y8/Paddington.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/fNwpvOiBDIM/Paddington.2.2017.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/uUsQkf2EAFM/Paddington.2.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/dCc_fJmpF4c/Paddington.2.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
@@ -1715,17 +1727,7 @@ URL=https://www.blazefile.co/embed-0rmnl4pvqm9a.html
 #https://openload.co/f/MkZiz_H6_x4/Marrowbone.2017.720p.BR_SeeHD.mp4
 #http://entervideo.net/watch/dc143d328339b28
 
-type=video
-name=Hangman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cf720YwBmp0roCVfBWjGXoWzZ6C.jpg
-date=2018-02-21
-URL=https://www.blazefile.co/embed-h583jzqorkmp.html
-#https://uptobox.com/1wgif0dxltgz
-#https://openload.co/f/A8sxe4Eo7Uo/hagman80.Ettv.st.mkv
-#https://openload.co/f/SY2jkjC0yYE/Hangman.2017.1080p.BluRay.X264-PSYCHD.mkv.mp4
-#https://openload.co/f/8Yj-RHMuSmk/Hangman.2017.BluRay.1080p.DTS.x264-CHD.mkv.mp4
-#https://openload.co/f/AgGTPka9kvM/Hangman.2017.1080p.Br_SeeHD.mp4
-#https://openload.co/f/MAjYkSAfDrw/Hangman.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Tragedy Girls (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2152,18 +2154,6 @@ date=2018-01-27
 URL=https://openload.co/f/g5nMGIBnEDI/Accident.2017.1080p.BluRay.x264-CURSE.mkv.mp4
 #https://www.blazefile.co/embed-dubdyr4uz2mb.html   720
 #https://uptobox.com/ubyfujug0bit   720
-
-type=video
-name=Suburbicon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg
-date=2018-01-27
-URL=https://www.blazefile.co/embed-humjtrd4zd8x.html
-#https://uptobox.com/susjkd4ldusx
-#https://openload.co/f/ihGgFiXY5sU/Suburbicon.2017.1080p.BluRay.x264-Replica.mkv.mp4
-#https://openload.co/f/bPs3KymYWeI/Suburbicon.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/bbq6q55gw-s/Suburbicon.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/o1StljESgxI/Suburbicon_2017_HDCAM_ENG_X264-DADDY.mkv.mp4
-#https://openload.co/f/r5XhzYpBWqc/Suburbicon.2017.Russian.CAMRip.1400MB-KOSHARA.avi.mp4
 
 
 type=video
@@ -3720,8 +3710,10 @@ URL=https://www.blazefile.co/embed-6pbmrqvkzl7l.html
 type=video
 name=The Feels (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4G3fDWlqw7J3SM43QPgGSYtwWKI.jpg
-date=2018-03-08
-URL=https://openload.co/f/rIOglQNtN-I/The.Feels.2017.720p.BRRip.XviD.AC3-XVID.avi.mp4
+date=2018-03-10
+URL=https://www.blazefile.co/embed-t8uprl0892vu.html
+#https://uptobox.com/q4r9xtefwfxb
+#https://openload.co/f/rIOglQNtN-I/The.Feels.2017.720p.BRRip.XviD.AC3-XVID.avi.mp4
 
 type=video
 name=Hotel Salvation (2016) [COLOR=FF00FF00]HIN BR 720p[/COLOR]
@@ -3731,12 +3723,27 @@ URL=https://www.blazefile.co/embed-m9yjvuuzs10h.html
 #https://uptobox.com/1kjh2dhrw0x2
 #https://openload.co/f/CXK7zH7HupE/hotel.salvation.2016.limited.720p.bluray.x264-cadaver.mkv.mp4
 
+type=video
+name=The Woman Who Left (2017) [COLOR=FF00FF00]PHL BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKBkoUW62DLZjo7ctJRflRTXe67.jpg
+date=2018-03-10
+URL=https://www.blazefile.co/embed-sz1ro0xb1e9i.html
+#https://uptobox.com/9kjv3xmfcf8f
+#https://openload.co/f/CaYYm4kcZlM/the.woman.who.left.2016.limited.720p.bluray.x264-usury.mkv.mp4
 
+type=video
+name=Immigration Game (2017) [COLOR=FF00FF00]GER BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdtIE2OU63cU6WOuMCsIjuMeiJL.jpg
+date=2018-03-10
+URL=https://www.blazefile.co/embed-i1q3x8fungvd.html
+#https://uptobox.com/8zpd8qeaohdj
 
-
-
-
-
+type=video
+name=High Society (2017) [COLOR=FF00FF00]GER BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SH9YdhPQBVsVJsqFNOay9lGYWd.jpg
+date=2018-03-10
+URL=https://www.blazefile.co/embed-p6kq5itrhm5j.html
+#https://uptobox.com/burtzl8zdi7v
 
 
 
@@ -3812,7 +3819,7 @@ URL=http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
 type=video
 name=
 thumb=
-date=2018-03-08
+date=2018-03-10
 URL=http://203.162.235.41:17819
 
 
@@ -3961,10 +3968,12 @@ URL=https://streamango.com/f/pbtbmqdafrscrmad/The_Commuter_2018_
 
 
 type=video
-name=Insidious: The Last Key (2018) ENG NEW_HDCAM_X264_HQ-CPG
+name=Insidious: The Last Key (2018) ENG 720P.WEB-DL.X264.MP3-P2P
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg
-date=2018-01-14
-URL=https://openload.co/f/Gi9eyQs7AIA/Insidious_The_Last_Key_2018_NEW_HDCAM_X264_HQ-CPG.mkv.mp4
+date=2018-03-10
+URL=https://openload.co/f/c-P7OnfBMEE/Insidious.The.Last.Key.2018.720P.WEB-DL.X264.MP3-P2P.mkv.mp4
+#https://openload.co/f/03zVVvboCyQ/Insidious_The_Last_Key_%282018%29_720PVOD_SeeHD.mkv.mp4
+#https://openload.co/f/Gi9eyQs7AIA/Insidious_The_Last_Key_2018_NEW_HDCAM_X264_HQ-CPG.mkv.mp4
 #https://openload.co/f/TBxLV3VCkmU/Insidious_The_Last_Key_2017_CAM_ENG_X264_HQMic-DADDY.mkv.mp4
 type=video
 name=Insidious: The Last Key (2018) THCAM
@@ -4006,10 +4015,17 @@ URL=https://streamango.com/f/lfepefddqscnfbrr/Jumanji_Welcome_to_the_Jungle_2017
 
 
 type=video
-name=Star Wars: The Last Jedi (2017) ENG 720p_HDTC_X264_-Superpila
+name=Star Wars: The Last Jedi (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
-date=2018-01-28
-URL=https://openload.co/f/Xwf8NvT7BNc/Star_Wars_The_Last_Jedi_2017_720p_HDTC_X264_-Superpila.mkv.mp4
+date=2018-03-10
+URL=https://www.blazefile.co/embed-zln1ggg35oub.html
+#https://uptobox.com/m6m3m9fbtxhs
+#https://openload.co/f/m0xu_SnYtEo/Star.Wars.The.Last.Jedi.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/enoxGvJ4-gU/Star.Wars.The.Last.Jedi.2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/5UoSoujLVjE/Star.Wars.The.Last.Jedi.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/UBpATvP7EQA/Star.Wars.The.Last.Jedi.2017.720p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/mdW-RQfQ9eM/Star.Wars.The.Last.Jedi.2017.720p.BluRay.x264-SPARKS.mkv   MKV6.6GB
+#https://openload.co/f/Xwf8NvT7BNc/Star_Wars_The_Last_Jedi_2017_720p_HDTC_X264_-Superpila.mkv.mp4
 #https://openload.co/f/s42Q4dGOlIo/Star_Wars%3A_The_Last_Jedi_%282017%29.1080p.TC_SeeHD.mkv.mp4
 #https://openload.co/f/LXbAGpyZFGM/Star_Wars_The_Last_Jedi_720P_New_HDTC_SeeHD.mp4
 #https://openload.co/f/kyTP9W4q7gY/Star.Wars.The.Last.Jedi.2017.E-SUB.HC-TS-X264-MP3-Zit.mp4
@@ -4121,6 +4137,24 @@ thumb=
 date=2018-03-08
 URL=
 
+
+
+type=video
+name=Hangman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cf720YwBmp0roCVfBWjGXoWzZ6C.jpg
+date=2018-02-21
+URL=https://www.blazefile.co/embed-h583jzqorkmp.html
+#https://uptobox.com/1wgif0dxltgz
+#https://openload.co/f/A8sxe4Eo7Uo/hagman80.Ettv.st.mkv
+#https://openload.co/f/SY2jkjC0yYE/Hangman.2017.1080p.BluRay.X264-PSYCHD.mkv.mp4
+#https://openload.co/f/8Yj-RHMuSmk/Hangman.2017.BluRay.1080p.DTS.x264-CHD.mkv.mp4
+#https://openload.co/f/AgGTPka9kvM/Hangman.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/MAjYkSAfDrw/Hangman.2017.HDRip.XviD.AC3-EVO.avi.mp4
+type=video
+name=Hangman (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cf720YwBmp0roCVfBWjGXoWzZ6C.jpg
+date=2018-03-10
+URL=https://openload.co/f/nWXjS4RkIEg/Hangman_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -5264,20 +5298,7 @@ URL=https://streamango.com/f/mfkdtmfnpelkfara/The_Son_of_Bigfoot_2017_
 
 
 
-type=video
-name=Better Watch Out (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
-date=2017-11-29
-URL=https://www.blazefile.co/embed-ystpfz1l9f0c.html
-#https://openload.co/f/ItPr-gpepsA/Better.Watch.Out.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/zRhfEaYL4NQ/Better.Watch.Out.2016.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
-type=video
-name=Better Watch Out (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
-date=2017-12-12
-URL=https://streamango.com/f/senracacnfdrqnfa/Better_Watch_Out_2017_
-#https://streamango.com/f/nrmdnadtrpnrpfma/Better_Watch_Out_2017_THCAM_SOUND_mp4
-#https://openload.co/f/-XtVUtoF8pc/Better_Watch_Out_%282017%29%E0%B9%82%E0%B8%94%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%94_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
 
 
 
@@ -5474,12 +5495,53 @@ URL=
 type=video
 name=
 thumb=
-date=2018-02-28
+date=2018-03-10
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
 
+
+type=video
+name=Better Watch Out (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
+date=2017-11-29
+URL=https://www.blazefile.co/embed-ystpfz1l9f0c.html
+#https://openload.co/f/ItPr-gpepsA/Better.Watch.Out.2017.LIMITED.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/zRhfEaYL4NQ/Better.Watch.Out.2016.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+type=video
+name=Better Watch Out (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JxWgIHdfMaS2u030j3giqRuVWS.jpg
+date=2018-03-10
+URL=https://openload.co/f/AQjzQGOK_X4/Better_Watch_Out_%282017%29%E0%B9%82%E0%B8%94%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7_%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B9%87%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+#https://streamango.com/f/senracacnfdrqnfa/Better_Watch_Out_2017_
+#https://streamango.com/f/nrmdnadtrpnrpfma/Better_Watch_Out_2017_THCAM_SOUND_mp4
+#https://openload.co/f/-XtVUtoF8pc/Better_Watch_Out_%282017%29%E0%B9%82%E0%B8%94%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%94_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Ajin: Demi-Human (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fINvKAGwJomcALdjB8DWmOC9ZQK.jpg
+date=2018-03-10
+URL=https://openload.co/f/OWY_svhdvVw/Ajin%3A_Demi-Human_%282017%29%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B8%B4%E0%B8%99_%E0%B8%85%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+
+
+type=video
+name=Suburbicon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg
+date=2018-01-27
+URL=https://www.blazefile.co/embed-humjtrd4zd8x.html
+#https://uptobox.com/susjkd4ldusx
+#https://openload.co/f/ihGgFiXY5sU/Suburbicon.2017.1080p.BluRay.x264-Replica.mkv.mp4
+#https://openload.co/f/bPs3KymYWeI/Suburbicon.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/bbq6q55gw-s/Suburbicon.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/o1StljESgxI/Suburbicon_2017_HDCAM_ENG_X264-DADDY.mkv.mp4
+#https://openload.co/f/r5XhzYpBWqc/Suburbicon.2017.Russian.CAMRip.1400MB-KOSHARA.avi.mp4
+type=video
+name=Suburbicon (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg
+date=2018-03-10
+URL=https://openload.co/f/eM5dlovqBfA/Suburbicon_%282017%29%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94.mp4
 
 
 type=video
