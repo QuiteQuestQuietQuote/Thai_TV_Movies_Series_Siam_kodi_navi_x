@@ -59,10 +59,22 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-03-03
+date=2018-03-11
 URL=
 
 
+
+type=video
+name=Early Man (2018) ENG HDCAM_Eng_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugw07fJIZMVrrIGeN1MO7Xecj5h.jpg
+date=2018-03-11
+URL=https://openload.co/f/pfbH4MrvDH4/Early_Man_2018_HDCAM_Eng_SeeHD.mkv.mp4
+
+type=video
+name=The Hurricane Heist (2018) ENG HDCAM.X264-VemMeChupar
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
+date=2018-03-11
+URL=https://openload.co/f/8YJOvr2Krpk/The_Hurricane_Heist_2018.HDCAM.X264-VemMeChupar.mp4
 
 type=video
 name=Red Sparrow (2018) ENG HDCAM-X264-MP3-Zi%24
@@ -114,10 +126,11 @@ URL=https://openload.co/f/OztM_HaRQX4/Peter.Rabbit.2018.HDCAM.x264-DiRG.mp4
 #https://openload.co/f/dTapIIDbV60/Peter_Rabbit_%282018%29_RUS.Cam.mp4
 
 type=video
-name=The 15:17 to Paris (2018) ENG HDCAM_720p_Layar
+name=The 15:17 to Paris (2018) ENG CAM_Layar
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg
-date=2018-02-12
-URL=https://openload.co/f/wK9RCbjRZMU/The_15%3A17_to_Paris_%282018%29_HDCAM_720p_Layar.mp4
+date=2018-03-11
+URL=https://openload.co/f/sXgYKJLlM2I/15.17_2018_CAM_Layar.mp4
+#https://openload.co/f/wK9RCbjRZMU/The_15%3A17_to_Paris_%282018%29_HDCAM_720p_Layar.mp4
 
 type=video
 name=Phantom Thread (2017) ENG DVDSCR.DrinkBetterWater
@@ -3745,7 +3758,11 @@ date=2018-03-10
 URL=https://www.blazefile.co/embed-p6kq5itrhm5j.html
 #https://uptobox.com/burtzl8zdi7v
 
-
+type=video
+name=Small Town Crime (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRGF1jWdCGlS8KWNxwckHKHuFKs.jpg
+date=2018-03-11
+URL=https://openload.co/f/1a73y3jTSHs/Small.Town.Crime.2017.720p.Br_SeeHD.mp4
 
 
 
@@ -3819,7 +3836,7 @@ URL=http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
 type=video
 name=
 thumb=
-date=2018-03-10
+date=2018-03-11
 URL=http://203.162.235.41:17819
 
 
@@ -4020,6 +4037,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGWVjewoXnJhvxKW619cMzppJD
 date=2018-03-10
 URL=https://www.blazefile.co/embed-zln1ggg35oub.html
 #https://uptobox.com/m6m3m9fbtxhs
+#https://openload.co/f/-q6pncOlIFg/Star.Wars.The.Last.Jedi.2017.1080p.BRRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/m0xu_SnYtEo/Star.Wars.The.Last.Jedi.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/enoxGvJ4-gU/Star.Wars.The.Last.Jedi.2017.720p.Br_SeeHD.mp4
 #https://openload.co/f/5UoSoujLVjE/Star.Wars.The.Last.Jedi.2017.720p.BluRay.H264.AAC-RARBG.mp4
