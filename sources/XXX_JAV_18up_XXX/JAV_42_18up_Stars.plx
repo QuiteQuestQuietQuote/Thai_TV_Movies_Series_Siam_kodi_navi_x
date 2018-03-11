@@ -112,7 +112,7 @@ type=video
 name=Star-622 Leave Is Inserted From Senna Matsuoka Morning Till Night Chi Po Gangbang Cock Big Penis Sp 
 thumb=http://javsex.net/wp-content/uploads/2017/01/12995.jpg
 date=2018-02-03
-URL=http://s789.yamvideo.com/thz3674e/003/appid-12995.mp4
+URL=http://80.82.77.190/001/appid-12995/hls.m3u8
 
 type=video
 name=Star-587 Matsuoka Senna Super Premium Rookie Soap Girl

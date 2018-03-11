@@ -423,8 +423,8 @@ URL=http://s789.yamvideo.com/thz3675e/004/appid-10665.mp4
 type=video
 name=Sqte-081 Erotic Too Girl038039s Body
 thumb=http://javsex.net/wp-content/uploads/2017/01/11725.jpg
-date=2018-02-05
-URL=http://videos.collectionofbestporn.com/videos/5/5/8/8/5/55885b112310e_2.mp4?itag=22
+date=2018-03-11
+URL=http://89.248.168.114/019-hls/appid-11725/hls.m3u8
 
 
 type=video

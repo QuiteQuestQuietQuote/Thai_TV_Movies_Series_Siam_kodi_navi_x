@@ -40,14 +40,47 @@ URL=
 type=video
 name=
 thumb=
-date=2017-11-28
+date=2018-03-11
 URL=
 
 
 
 
+type=video
+name=HEYZO-1516 Hina Makimura
+thumb=http://javsex.net/wp-content/uploads/2017/12/28016.jpg
+date=2018-03-11
+URL=http://185.216.140.24/033-hls/appid-28016/hls.m3u8
 
+type=video
+name=1Pondo 090717-577 Saya Tachibana
+thumb=http://javsex.net/wp-content/uploads/2017/10/26861.jpg
+date=2018-03-11
+URL=https://video-amt2-1.xx.fbcdn.net/v/t42.9040-2/10000000_153232571987860_4252440088908136448_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=b63e9d9c0200b4ed08727b336338461e&oe=5AA5BACE&itag=22
 
+type=video
+name=1PONDO 112714-929 Drama Collection Sara Yurikawa
+thumb=http://javsex.net/wp-content/uploads/2016/10/2791.jpg
+date=2018-03-11
+URL=http://185.216.140.24/033-hls/appid-2791/hls.m3u8
+
+type=video
+name=1pondo-092816-393 &#8211; Aika
+thumb=http://javsex.net/wp-content/uploads/2016/10/6359.jpg
+date=2018-03-11
+URL=http://89.248.160.154/003/appid-6359/hls.m3u8
+
+type=video
+name=1pondo 012114-741 Drama Collection Nakagawa Mika
+thumb=http://javsex.net/wp-content/uploads/2016/10/5039.jpg
+date=2018-03-11
+URL=http://89.248.160.154/003/appid-5039/hls.m3u8
+
+type=video
+name=
+thumb=
+date=2018-03-11
+URL=
 
 
 
@@ -120,7 +153,7 @@ type=video
 name=HEYZO-0957 Sex Heaven. Beauty&#039;s Gorgeous Body All To You 
 thumb=http://javsex.net/wp-content/uploads/2016/10/984.jpg
 date=2018-01-05
-URL=http://s001.yamvideo.com/3678-stream/e/vip720-005/380ce8d5f18b5c965f5391e97efdc2f0.mp4
+URL=http://89.248.171.132/004/appid-984/hls.m3u8
 
 
 type=video

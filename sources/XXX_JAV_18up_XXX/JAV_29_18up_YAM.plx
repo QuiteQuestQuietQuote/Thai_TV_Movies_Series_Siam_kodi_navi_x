@@ -39,7 +39,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-21
+date=2018-03-11
 URL=
 
 
@@ -1275,7 +1275,11 @@ thumb=http://javsex.net/wp-content/uploads/2015/10/3264.jpg
 date=2017-10-21
 URL=http://s001.yamvideo.com/3675-stream/thz-3-720-all-3/128c0f5eead9c8644240ef39326ef088.mp4
 
-
+type=video
+name=SOR-006 I Was Doing Really Chai, A Beautiful Girl On The Beach. 2013 Vol.3
+thumb=http://javsex.net/wp-content/uploads/2016/01/4375.jpg
+date=2018-03-11
+URL=http://185.216.140.23/036-hls/appid-4375/hls.m3u8
 
 
 
