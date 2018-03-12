@@ -59,10 +59,17 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-03-11
+date=2018-03-12
 URL=
 
 
+
+type=video
+name=Annihilation (2018) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3qcpfNwbAMCNqWDHzPQsUYiUgS.jpg
+date=2018-03-12
+URL=https://openload.co/f/z25T2Zx2OII/Annihilation.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
+#https://openload.co/f/FeIZIp8ES6E/Annihilation.2018.720p.HDRip.X264.AC3-EVO.mkv.mp4
 
 type=video
 name=Early Man (2018) ENG HDCAM_Eng_SeeHD
@@ -1303,9 +1310,30 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-10
+date=2018-03-12
 URL=
 
+
+
+type=video
+name=Small Town Crime (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRGF1jWdCGlS8KWNxwckHKHuFKs.jpg
+date=2018-03-12
+URL=https://www.blazefile.co/embed-umeajguo1596.html
+#https://uptobox.com/1sv7jr50237m
+#https://openload.co/f/1a73y3jTSHs/Small.Town.Crime.2017.720p.Br_SeeHD.mp4
+
+type=video
+name=Drinksgiving (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ew0Jl8t0XXDOpOsP4nJHZ04n3ZN.jpg
+date=2018-03-12
+URL=https://openload.co/f/cnVd_a7GmBg/Drinksgiving.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Nile Hilton Incident (2017) [COLOR=FF00FF00]SWE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5q4rDRt2JAEtU5B3kwYlBLYjHLa.jpg
+date=2018-03-12
+URL=https://openload.co/f/FYRicYgyy3s/The.Nile.Hilton.Incident.2017.1080p.BRRip.mp4
 
 type=video
 name=5 Doctors (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3757,12 +3785,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SH9YdhPQBVsVJsqFNOay9lGYW
 date=2018-03-10
 URL=https://www.blazefile.co/embed-p6kq5itrhm5j.html
 #https://uptobox.com/burtzl8zdi7v
+#https://openload.co/f/GAIxmfU5Tm0/high.society.2017.720p.bluray.x264-pussyfoot.mkv.mp4
 
-type=video
-name=Small Town Crime (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRGF1jWdCGlS8KWNxwckHKHuFKs.jpg
-date=2018-03-11
-URL=https://openload.co/f/1a73y3jTSHs/Small.Town.Crime.2017.720p.Br_SeeHD.mp4
+
 
 
 
@@ -4031,34 +4056,7 @@ URL=https://streamango.com/f/lfepefddqscnfbrr/Jumanji_Welcome_to_the_Jungle_2017
 
 
 
-type=video
-name=Star Wars: The Last Jedi (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
-date=2018-03-10
-URL=https://www.blazefile.co/embed-zln1ggg35oub.html
-#https://uptobox.com/m6m3m9fbtxhs
-#https://openload.co/f/-q6pncOlIFg/Star.Wars.The.Last.Jedi.2017.1080p.BRRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/m0xu_SnYtEo/Star.Wars.The.Last.Jedi.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/enoxGvJ4-gU/Star.Wars.The.Last.Jedi.2017.720p.Br_SeeHD.mp4
-#https://openload.co/f/5UoSoujLVjE/Star.Wars.The.Last.Jedi.2017.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/UBpATvP7EQA/Star.Wars.The.Last.Jedi.2017.720p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/mdW-RQfQ9eM/Star.Wars.The.Last.Jedi.2017.720p.BluRay.x264-SPARKS.mkv   MKV6.6GB
-#https://openload.co/f/Xwf8NvT7BNc/Star_Wars_The_Last_Jedi_2017_720p_HDTC_X264_-Superpila.mkv.mp4
-#https://openload.co/f/s42Q4dGOlIo/Star_Wars%3A_The_Last_Jedi_%282017%29.1080p.TC_SeeHD.mkv.mp4
-#https://openload.co/f/LXbAGpyZFGM/Star_Wars_The_Last_Jedi_720P_New_HDTC_SeeHD.mp4
-#https://openload.co/f/kyTP9W4q7gY/Star.Wars.The.Last.Jedi.2017.E-SUB.HC-TS-X264-MP3-Zit.mp4
-#https://openload.co/f/UsQnyhGkctY/Star_Wars_The_Last_Jedi_%282017%29.720p.CAM_NEW_SOURCES_XViD-26k_avi_mp4
-#https://openload.co/f/ZTakoaEg4C8/Star_Wars%3A_The_Last_Jedi_%282017%29.720p.hdcam_SeeHD.mkv.mp4
-#https://openload.co/f/UrK6v2uPmbQ/Star_Wars_The_Last_Jedi_2017_FULL_HDCAM_ENGLiSH_x264_HQMIC-DADDY.mkv.mp4
-#https://openload.co/f/US7D15Fv2OU/STAR_WARS_THE_LAST_JEDI_2017_FULL_ENGLISH_HDCAM_ste20.mp4
-#https://openload.co/f/yjFhavSK_eg/Star.Wars.The.Last.Jedi.2017.CAM.X264-BebeLeitinho.mkv
-type=video
-name=Star Wars: The Last Jedi (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
-date=2018-01-09
-URL=https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_HDTC_x264_AC-3_THR2_0_CpT_CtHts_mkv_mp4
-#https://streamango.com/f/pcqllspqemeqtrpl/Star_Wars_The_Last_Jedi_2017_
-#https://streamango.com/f/lndpracqdldepoqk/Star_Wars_The_Last_Jedi_2017_720p_TS_x264_AC-3_ThaiRong2_0_CpT_CtHts_mkv_mp4
+
 
 
 
@@ -4152,9 +4150,23 @@ URL=https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0
 type=video
 name=
 thumb=
-date=2018-03-08
+date=2018-03-12
 URL=
 
+
+
+
+type=video
+name=The Outsider (2018) ENG 1080p.web.x264-strife
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2riQcEzjVrkP8wKHDXwC5EQpHQ.jpg
+date=2018-03-12
+URL=https://openload.co/f/b8hzIb90eho/the.outsider.2018.internal.1080p.web.x264-strife.mkv.mp4
+#https://openload.co/f/Jv31c5sOejY/The.Outsider.2018.720p.HDRip.X264.AC3-EVO.mkv.mp4
+type=video
+name=The Outsider (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2riQcEzjVrkP8wKHDXwC5EQpHQ.jpg
+date=2018-03-12
+URL=https://streamango.com/f/dclclnarfrkresda/The_Outsider_2018_
 
 
 type=video
@@ -5169,6 +5181,37 @@ URL=
 
 
 
+
+
+type=video
+name=Star Wars: The Last Jedi (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
+date=2018-03-10
+URL=https://www.blazefile.co/embed-zln1ggg35oub.html
+#https://uptobox.com/m6m3m9fbtxhs
+#https://openload.co/f/-q6pncOlIFg/Star.Wars.The.Last.Jedi.2017.1080p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/m0xu_SnYtEo/Star.Wars.The.Last.Jedi.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/enoxGvJ4-gU/Star.Wars.The.Last.Jedi.2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/5UoSoujLVjE/Star.Wars.The.Last.Jedi.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/UBpATvP7EQA/Star.Wars.The.Last.Jedi.2017.720p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/mdW-RQfQ9eM/Star.Wars.The.Last.Jedi.2017.720p.BluRay.x264-SPARKS.mkv   MKV6.6GB
+#https://openload.co/f/Xwf8NvT7BNc/Star_Wars_The_Last_Jedi_2017_720p_HDTC_X264_-Superpila.mkv.mp4
+#https://openload.co/f/s42Q4dGOlIo/Star_Wars%3A_The_Last_Jedi_%282017%29.1080p.TC_SeeHD.mkv.mp4
+#https://openload.co/f/LXbAGpyZFGM/Star_Wars_The_Last_Jedi_720P_New_HDTC_SeeHD.mp4
+#https://openload.co/f/kyTP9W4q7gY/Star.Wars.The.Last.Jedi.2017.E-SUB.HC-TS-X264-MP3-Zit.mp4
+#https://openload.co/f/UsQnyhGkctY/Star_Wars_The_Last_Jedi_%282017%29.720p.CAM_NEW_SOURCES_XViD-26k_avi_mp4
+#https://openload.co/f/ZTakoaEg4C8/Star_Wars%3A_The_Last_Jedi_%282017%29.720p.hdcam_SeeHD.mkv.mp4
+#https://openload.co/f/UrK6v2uPmbQ/Star_Wars_The_Last_Jedi_2017_FULL_HDCAM_ENGLiSH_x264_HQMIC-DADDY.mkv.mp4
+#https://openload.co/f/US7D15Fv2OU/STAR_WARS_THE_LAST_JEDI_2017_FULL_ENGLISH_HDCAM_ste20.mp4
+#https://openload.co/f/yjFhavSK_eg/Star.Wars.The.Last.Jedi.2017.CAM.X264-BebeLeitinho.mkv
+type=video
+name=Star Wars: The Last Jedi (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
+date=2018-03-12
+URL=https://streamango.com/f/fdcpqnlmfntkrcce/Star_Wars_The_Last_Jedi_2017_
+#https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_HDTC_x264_AC-3_THR2_0_CpT_CtHts_mkv_mp4
+#https://streamango.com/f/pcqllspqemeqtrpl/Star_Wars_The_Last_Jedi_2017_
+#https://streamango.com/f/lndpracqdldepoqk/Star_Wars_The_Last_Jedi_2017_720p_TS_x264_AC-3_ThaiRong2_0_CpT_CtHts_mkv_mp4
 
 
 type=video
