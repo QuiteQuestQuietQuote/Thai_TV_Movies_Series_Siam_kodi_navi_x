@@ -59,17 +59,22 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-03-12
+date=2018-03-13
 URL=
 
 
 
 type=video
-name=Annihilation (2018) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3qcpfNwbAMCNqWDHzPQsUYiUgS.jpg
-date=2018-03-12
-URL=https://openload.co/f/z25T2Zx2OII/Annihilation.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
-#https://openload.co/f/FeIZIp8ES6E/Annihilation.2018.720p.HDRip.X264.AC3-EVO.mkv.mp4
+name=A Wrinkle in Time (2018) ESP 720p.HDCAM.E
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSb6B7pwiZbW7In6juYEYjZ4Bsw.jpg
+date=2018-03-13
+URL=https://openload.co/f/trkMR5Jm9Aw/A.Wrinkle.in.Time.2018.720p.HDCAM.E.mp4
+
+type=video
+name=Death Wish (2018) ENG HDCAM.x264-DiRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRpOwIlOXZZVWgDernbPbdHU5cl.jpg
+date=2018-03-13
+URL=https://openload.co/f/08UkBIEbOMg/Death.Wish.2018.HDCAM.x264-DiRG.mp4
 
 type=video
 name=Early Man (2018) ENG HDCAM_Eng_SeeHD
@@ -1310,10 +1315,18 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-12
+date=2018-03-13
 URL=
 
 
+
+
+
+type=video
+name=Cabin 28 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/crvqys951H0yVoPR38oSg6YAxSj.jpg
+date=2018-03-13
+URL=https://openload.co/f/3aeWPcxRQ4A/cabin.28.2017.1080p.bluray.x264-getit.mkv.mp4
 
 type=video
 name=Small Town Crime (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3787,6 +3800,19 @@ URL=https://www.blazefile.co/embed-p6kq5itrhm5j.html
 #https://uptobox.com/burtzl8zdi7v
 #https://openload.co/f/GAIxmfU5Tm0/high.society.2017.720p.bluray.x264-pussyfoot.mkv.mp4
 
+type=video
+name=Moomins and the Winter Wonderland (2017) [COLOR=FF00FF00]FIN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhsg8cVVtOdyeNs9u8E3xhaSMik.jpg
+date=2018-03-13
+URL=https://www.blazefile.co/embed-ag7gekcsi1fs.html
+#https://uptobox.com/kr6c6n8oq7vc
+#https://openload.co/f/9jycg7DcSlU/Moomins.and.the.Winter.Wonderland.2017.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Lu Over the Wall (2017) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6eNRuAWJhKB4r3r4pbMO7Pc3v6.jpg
+date=2018-03-13
+URL=https://openload.co/f/c8eLd6i86i4/Lu_Over_the_Wall_2017_720p_BRRip_EngSubs_Layar.mp4
 
 
 
@@ -3861,7 +3887,7 @@ URL=http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
 type=video
 name=
 thumb=
-date=2018-03-11
+date=2018-03-13
 URL=http://203.162.235.41:17819
 
 
@@ -4025,32 +4051,7 @@ URL=https://streamango.com/f/balkfoftmmbtdnsn/Insidious_The_Last_Key_2018_
 #https://streamango.com/f/qdbemflbepkodbkb/Insidious_The_Last_Key_2018_
 
 
-type=video
-name=Jumanji: Welcome to the Jungle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
-date=2018-03-08
-URL=https://www.blazefile.co/embed-n5v87h0lmhot.html
-#https://uptobox.com/v2vcn8lexteh
-#https://openload.co/f/Pkh2MPhaAus/jumanji.welcome.to.the.jungle.2017.1080p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/yeZrnSjz25Q/jumanji.welcome.to.the.jungle.2017.1080p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/MWH_zWb4uUg/Jumanji.Welcome.to.the.Jungle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/K3-f8QIlD2c/Jumanji.Welcome.to.the.Jungle.2017.720.HC.VODRip.XviD-JSC.mp4
-#https://openload.co/f/XKSiSQcZ1hU/Jumanji.Welcome.to.the.Jungle.2017.VODRip.XviD-JSC.mp4
-#https://openload.co/f/niifvdoAp7g/Jumanji_Welcome_To_The_Jungle_2017_NEW_720p_HD-TS_X264_HQ-CPG.mkv.mp4
-#https://openload.co/f/q-pag-xqFBc/Jumanji.Welcome.to.the.Jungle.2017.720p.TS.NEW.AUDIO.XViD-BL4CKP34RL.mp4
-#https://openload.co/f/GVnelBicD4M/Jumanji_2017_720p_NEW_HDTS_x264_AC3_TiTAN.mkv.mp4
-#https://openload.co/f/wIXuqwJxJd8/Jumanji_Welcome_To_The_Jungle_2017_NEW_720p_HD-TS_X264_HQ-CPG.mkv.mp4
-#https://openload.co/f/47uz-2dsxwI/Jumanji_Welcome_to_the_Jungle_.2017.TS.READNFO.XViD-BL4CKP34RL.avi.mp4
-#https://openload.co/f/WB1vO402gvQ/Jumanji.Welcome.to.the.Jungle.2017.720p.HDCAM.New-Source.x264-LoveHD.mkv.mp4
-#https://openload.co/f/QnlI8LFYvHY/Jumanji_2017_CAM_SeeHD.mkv.mp4
-#https://openload.co/f/w-FFXEtVDJM/Jumanji%3A_Welcome_to_the_Jungle.2017.CAM.XViD-NoGRP.avi
-#https://openload.co/f/CuEIqcXv5E8/Jumanji%3A_Welcome_to_the_Jungle_2017_ENG_CAM_XViD-P2P.avi.mp4
-#https://openload.co/f/cmK8GffxUSA/Jumanji_Welcome_to_the_Jungle_%282017%29_HDCAM_Latino_720p_Spacemov.io
-type=video
-name=Jumanji: Welcome to the Jungle (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
-date=2017-12-30
-URL=https://streamango.com/f/lfepefddqscnfbrr/Jumanji_Welcome_to_the_Jungle_2017_
+
 
 
 
@@ -4154,6 +4155,20 @@ date=2018-03-12
 URL=
 
 
+
+
+
+type=video
+name=Annihilation (2018) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3qcpfNwbAMCNqWDHzPQsUYiUgS.jpg
+date=2018-03-12
+URL=https://openload.co/f/z25T2Zx2OII/Annihilation.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
+#https://openload.co/f/FeIZIp8ES6E/Annihilation.2018.720p.HDRip.X264.AC3-EVO.mkv.mp4
+type=video
+name=Annihilation (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3qcpfNwbAMCNqWDHzPQsUYiUgS.jpg
+date=2018-03-13
+URL=https://streamango.com/f/frqqmeboeqcmbmsp/Annihilation_2018_
 
 
 type=video
@@ -5561,6 +5576,38 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+
+
+
+
+
+type=video
+name=Jumanji: Welcome to the Jungle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
+date=2018-03-08
+URL=https://www.blazefile.co/embed-n5v87h0lmhot.html
+#https://uptobox.com/v2vcn8lexteh
+#https://openload.co/f/Pkh2MPhaAus/jumanji.welcome.to.the.jungle.2017.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/yeZrnSjz25Q/jumanji.welcome.to.the.jungle.2017.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/MWH_zWb4uUg/Jumanji.Welcome.to.the.Jungle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/K3-f8QIlD2c/Jumanji.Welcome.to.the.Jungle.2017.720.HC.VODRip.XviD-JSC.mp4
+#https://openload.co/f/XKSiSQcZ1hU/Jumanji.Welcome.to.the.Jungle.2017.VODRip.XviD-JSC.mp4
+#https://openload.co/f/niifvdoAp7g/Jumanji_Welcome_To_The_Jungle_2017_NEW_720p_HD-TS_X264_HQ-CPG.mkv.mp4
+#https://openload.co/f/q-pag-xqFBc/Jumanji.Welcome.to.the.Jungle.2017.720p.TS.NEW.AUDIO.XViD-BL4CKP34RL.mp4
+#https://openload.co/f/GVnelBicD4M/Jumanji_2017_720p_NEW_HDTS_x264_AC3_TiTAN.mkv.mp4
+#https://openload.co/f/wIXuqwJxJd8/Jumanji_Welcome_To_The_Jungle_2017_NEW_720p_HD-TS_X264_HQ-CPG.mkv.mp4
+#https://openload.co/f/47uz-2dsxwI/Jumanji_Welcome_to_the_Jungle_.2017.TS.READNFO.XViD-BL4CKP34RL.avi.mp4
+#https://openload.co/f/WB1vO402gvQ/Jumanji.Welcome.to.the.Jungle.2017.720p.HDCAM.New-Source.x264-LoveHD.mkv.mp4
+#https://openload.co/f/QnlI8LFYvHY/Jumanji_2017_CAM_SeeHD.mkv.mp4
+#https://openload.co/f/w-FFXEtVDJM/Jumanji%3A_Welcome_to_the_Jungle.2017.CAM.XViD-NoGRP.avi
+#https://openload.co/f/CuEIqcXv5E8/Jumanji%3A_Welcome_to_the_Jungle_2017_ENG_CAM_XViD-P2P.avi.mp4
+#https://openload.co/f/cmK8GffxUSA/Jumanji_Welcome_to_the_Jungle_%282017%29_HDCAM_Latino_720p_Spacemov.io
+type=video
+name=Jumanji: Welcome to the Jungle (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg
+date=2018-03-13
+URL=https://openload.co/f/bLU96UBFMp0/Jumanji%3A_Welcome_to_the_Jungle_%282017%29%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81_%E0%B8%9A%E0%B8%B8%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C.mp4
+#https://streamango.com/f/lfepefddqscnfbrr/Jumanji_Welcome_to_the_Jungle_2017_
 
 
 type=video
