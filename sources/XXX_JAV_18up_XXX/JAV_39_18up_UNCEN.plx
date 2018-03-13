@@ -129,50 +129,50 @@ type=video
 name=81xxxxxxxxxxxxxxxxxxxxCARIB 021315-806 Anna Mihashi
 thumb=http://javsex.net/wp-content/uploads/2016/10/561.jpg
 date=2018-01-05
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/001/d4d70a1f9c174d0b3568182ba5309989.mp4
+URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_411020682684142_6614711971889545216_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=5850949a7561016930f574b5944ae66a&oe=5AA856A9&itag=22
 
 type=video
 name=CARIB 112914-747 Ray
 thumb=http://javsex.net/wp-content/uploads/2016/10/602.jpg
 date=2018-01-05
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/002/51fa59a84eec4c9953d74146fd99f996.mp4
+URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_356483638201827_2017932638190305280_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=b6c01577a873bc241172e6afbb522cbe&oe=5AA83F5F&itag=22
 
 type=video
 name=CARIB 110514-728 Yui Ayase
 thumb=http://javsex.net/wp-content/uploads/2016/10/644.jpg
 date=2018-01-05
-URL=http://s001.yamvideo.com/3678-stream/e/003/8bcf60e637c731d72b454a9fc4cb41ac.mp4
+URL=http://89.248.171.132/002/appid-644/hls.m3u8
 
 type=video
 name=CARIB 021915-811 Riku Nekota 
 thumb=http://javsex.net/wp-content/uploads/2016/10/691.jpg
 date=2018-01-05
-URL=http://s001.yamvideo.com/3678-stream/e/vip-ok-p720-co1080-fix/26ed8e7d684dc4377a2cf4bc4b6e3d03.mp4
+URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_410347189408593_2355408366328610816_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=d0266ce55ba27ee9c160093c51b3572d&oe=5AA8552D&itag=22
 
 type=video
 name=HEYZO-0957 Sex Heaven. Beauty&#039;s Gorgeous Body All To You 
 thumb=http://javsex.net/wp-content/uploads/2016/10/984.jpg
 date=2018-01-05
 URL=http://89.248.171.132/004/appid-984/hls.m3u8
-
+#https://video.xx.fbcdn.net/v/t42.9040-2/10000000_180591936053393_8832579645560848384_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=3aa3a03ecfa0be601536a793f1c875c9&oe=5AA8552D&itag=22
 
 type=video
 name=1PONDO 061014-824 Drama Collection Nami Itoshino
 thumb=http://javsex.net/wp-content/uploads/2016/10/1026.jpg
 date=2018-01-05
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/002/bb27090f733b07d4acc1e9e7cd716748.mp4
+URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_162886427700791_425778993023680512_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=9d2e526af2c99d9a9ada0f7d2d58387e&oe=5AA83E68&itag=22
 
 type=video
 name=1PONDO 081014-001 Princesss Collection Amiru Kinohana
 thumb=http://javsex.net/wp-content/uploads/2016/10/1195.jpg
 date=2018-01-05
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/002/fa6d2fe71903e7f77b3c2dc7646181ea.mp4
+URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_362188920925967_4243331472590635008_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=6817aec18b891c499aeb52d2204068c6&oe=5AA851F9&itag=22
 
 type=video
 name=1PONDO 102313-001 Drama Collection Tsubaki Kato
 thumb=http://javsex.net/wp-content/uploads/2016/10/1235.jpg
 date=2018-01-05
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/002/488f60da6b23b404b4d54f44c6dc3f69.mp4
+URL=http://89.248.168.114/3675e-031/appid-1235/hls.m3u8
 
 
 
@@ -605,20 +605,20 @@ type=video
 name=1pondo 091114-879 Drama Collection Aino Nami
 thumb=http://javsex.net/wp-content/uploads/2016/11/1380.jpg
 date=2017-12-20
-URL=http://s001.yamvideo.com/3675-stream/vip-720-mp4-2/e69c470662eb4d4e2d47dbd5d05655ab.mp4
+URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_171378293656808_5799573362892079104_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=e92d837a40f3943d2fdc5c43a1b0fa3c&oe=5AA8567A&itag=22
 
 type=video
 name=1PONDO 102512-457 Drama Collection Tsukasa Makino 
 thumb=http://javsex.net/wp-content/uploads/2016/10/1437.jpg
 date=2017-12-20
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/003/f31acc8b79d0f6a430c67877e2b13e54.mp4
+URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_203074647114821_6589459368075329536_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=aff9f825b9d5ec4d0300173e594cd3ef&oe=5AA8415B&itag=22
 
 
 type=video
 name=HEYZO-0625 Humiliation Of A Cosplayer 
 thumb=http://javsex.net/wp-content/uploads/2016/10/1516.jpg
 date=2017-12-20
-URL=http://s001.yamvideo.com/3678-stream/e/003/4998abb46241d931cb3961ee304d1ed3.mp4
+URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_248051549070476_2157867560366768128_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=0e786a27999193e07a7ba75ad06e138e&oe=5AA84250&itag=22
 
 
 
@@ -630,13 +630,13 @@ type=video
 name=3xxxxxxxxxxxxxxxxxxxxCarib 060714-616 Sara Yurikawa
 thumb=http://javsex.net/wp-content/uploads/2016/11/5428.jpg
 date=2017-12-20
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/001/fcb09b63d8d3bb4d71c5cfacbf6579e7.mp4
+URL=http://89.248.160.154/003/appid-5428/hls.m3u8
 
 type=video
 name=Carib 051916-165 Ryu Enami
 thumb=http://javsex.net/wp-content/uploads/2016/11/5535.jpg
 date=2017-12-20
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/001/40a6f3d05e3b80d8730dfe4993f745e5.mp4
+URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_155023898541845_6134979719952596992_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=eac18da6eb48ae97417f948dc15159a3&oe=5AA844F1&itag=22
 
 
 
@@ -645,4 +645,4 @@ type=video
 name=CARIB 011516-001 Miku Aoyama For Manko Lovers
 thumb=http://javsex.net/wp-content/uploads/2016/10/4303.jpg
 date=2017-12-20
-URL=http://s001.yamvideo.com/3678-stream/e/003/8fb2b7ba3ab36c31fffbd0d6b0b6a6b9.mp4
+URL=http://89.248.171.132/039-hls/appid-4303/hls.m3u8

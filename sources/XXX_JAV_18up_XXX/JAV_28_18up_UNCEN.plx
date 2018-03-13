@@ -80,31 +80,31 @@ type=video
 name=185xxxxxxxxxxxxxxxxxxxxCARIBPR 042915-190 Russian Girl
 thumb=http://javsex.net/wp-content/uploads/2016/10/185.jpg
 date=2017-10-28
-URL=http://s001.yamvideo.com/3675-stream/e/uncen/004/98d01e2ab9570675566f3720911cc792.mp4
+URL=http://89.248.168.114/3675e-031/appid-338/hls.m3u8
 
 type=video
 name=1PONDO 062615-104 Drama Collection Ann Takase
 thumb=http://javsex.net/wp-content/uploads/2016/10/169.jpg
 date=2017-10-28
-URL=http://s001.yamvideo.com/3675-stream/vip-720-mp4-2/e1ea4502d5deb2555c87adef86087af6.mp4
+URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_2005748053080614_1124974289850728448_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=93e8fc1a9b67efeefbfaacb31ec2edca&oe=5AA83EA8&itag=22
 
 type=video
 name=CARIBPR 042415-187 Ryu Enami
 thumb=http://javsex.net/wp-content/uploads/2016/10/187.jpg
 date=2017-10-28
-URL=http://s001.yamvideo.com/3675-stream/vip-720/d52838781c89d7a36caed7770d629a6e.mp4
+URL=http://185.216.140.167/004/appid-340/hls.m3u8
 
 type=video
 name=CARIB 062615-908 Saya Niiyama
 thumb=http://javsex.net/wp-content/uploads/2016/10/170.jpg
 date=2017-10-28
-URL=http://s001.yamvideo.com/3675-stream/vip-720p-c1080/33e33fde17f3ee8290dc1915f857f095.mp4
+URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_183311128950054_4630119219197902848_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=49c4bd4b5ec986fc466e5296c87f4fcf&oe=5AA85777&itag=22
 
 type=video
 name=10MU 072915-01 Mayu Ayase
 thumb=http://javsex.net/wp-content/uploads/2016/10/215.jpg
 date=2017-10-28
-URL=http://s001.yamvideo.com/3675-stream/vip-720/2672aef25025ea9fd00fa1a67ec32cde.mp4
+URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_269085886960134_4509733326000488448_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=80c596b0b62bc529f012765a8a8a10b4&oe=5AA841FA&itag=22
 
 
 type=video

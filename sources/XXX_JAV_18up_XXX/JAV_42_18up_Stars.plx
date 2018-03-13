@@ -64,26 +64,25 @@ type=video
 name=PPPD-305 Big Tits Housewife Tour
 thumb=http://javsex.net/wp-content/uploads/2015/12/31676.jpg
 date=2018-02-05
-URL=http://videos.collectionofbestporn.com/videos/5/2/f/d/9/52fd98a3393d2177550-lq.mp4?itag=18
-#http://s789.yamvideo.com/thz3674d/001/appid-3745.mp4
+URL=http://185.216.140.23/031-hls/appid-4734/hls.m3u8
 
 type=video
 name=PPPD-287 Big Tits Knit Situation SPECIAL
 thumb=http://javsex.net/wp-content/uploads/2015/12/3743.jpg
 date=2018-02-05
-URL=http://videos.collectionofbestporn.com/videos/5/9/d/e/7/59de71c653554_2.mp4?itag=22
+URL=http://80.82.77.190/030-hls/appid-4755/hls.m3u8
 
 type=video
 name=PPPD-298 Megu Fujiura Big Reverse Bus Tour
 thumb=http://javsex.net/wp-content/uploads/2015/12/31433.jpg
 date=2018-02-05
-URL=http://videos.collectionofbestporn.com/videos/5/6/a/5/5/56a5577855171_2.mp4?itag=22
+URL=http://185.216.140.167/018-hls/appid-4733/hls.m3u8
 
 type=video
 name=PPSD-046 Polygamy Special Girls 
 thumb=http://javsex.net/wp-content/uploads/2015/12/3842.jpg
 date=2018-02-05
-URL=http://videos.collectionofbestporn.com/videos/5/6/a/5/e/56a5e174eb9d7_2.mp4?itag=22
+URL=http://89.248.168.114/019-hls/appid-11598/hls.m3u8
 
 type=video
 name=PPPD-355 Megu Fujiura Big Tits and Temptation Tour
@@ -118,19 +117,19 @@ type=video
 name=Star-587 Matsuoka Senna Super Premium Rookie Soap Girl
 thumb=http://javsex.net/wp-content/uploads/2017/01/11733.jpg
 date=2018-02-03
-URL=http://s789.yamvideo.com/thz3674e/007/appid-11733.mp4
+URL=http://185.216.140.23/032-hls/appid-11733/hls.m3u8
 
 type=video
 name=Star-661 China Matsuoka Tamara Without All The Time Chablis Was Wants Obscene Octylphenyl 
 thumb=http://javsex.net/wp-content/uploads/2016/11/7978.jpg
 date=2018-02-03
-URL=http://s789.yamvideo.com/thz3675e/005/appid-7978.mp4
+URL=http://89.248.168.114/3675e-009/appid-7978/hls.m3u8
 
 type=video
 name=Star-709 Hot Flirt Hot Spring Trip Rolled Spear That Would Ejaculate 12 Shots In China Matsuoka Retirement Day
 thumb=http://javsex.net/wp-content/uploads/2016/10/7304.jpg
 date=2018-02-03
-URL=http://s789.yamvideo.com/thz3675e/007-op/appid-7304.mp4
+URL=http://185.216.140.24/002/appid-7304/hls.m3u8
 
 type=video
 name=Star-701 China Matsuoka Aphrodisiac Hypnotic Trance Large Cum Sex 
@@ -161,25 +160,25 @@ type=video
 name=Abp-138 Latest Super Addictive Este Momodani Erika Tends To Slave
 thumb=http://javsex.net/wp-content/uploads/2016/11/8612.jpg
 date=2018-02-02
-URL=http://s789.yamvideo.com/thz3678e/003/appid-8612.mp4
+URL=http://80.82.77.195/017-hls/appid-8612/hls.m3u8
 
 type=video
 name=Ppt-018 Momodani Erika 8 Hours Best Prestige Premium Treasure Vol 02
 thumb=http://javsex.net/wp-content/uploads/2017/03/19159.jpg
 date=2018-02-02
-URL=http://s789.yamvideo.com/thz3675e/007-op/appid-19159.mp4
+URL=http://89.248.168.114/032e-3675/appid-19159/hls.m3u8
 
 type=video
 name=Abp-108 New Tokyo Style 04 Momodani Erika
 thumb=http://javsex.net/wp-content/uploads/2017/03/17950.jpg
 date=2018-02-02
-URL=http://s789.yamvideo.com/thz3675e/004/appid-17950.mp4
+URL=http://89.248.167.140/018-hls/appid-17950/hls.m3u8
 
 type=video
 name=Chn-037 New Absolute Beautiful Girl, I Will Lend You Act 20 Momodani Erika
 thumb=http://javsex.net/wp-content/uploads/2017/01/10581.jpg
 date=2018-02-02
-URL=http://s789.yamvideo.com/thz3675e/004/appid-10581.mp4
+URL=http://185.216.140.24/027-hls/appid-10581/hls.m3u8
 
 type=video
 name=Krv-001 Mgs Treasured Erotic Video Prestige Kuradashi Tv Premium 01 
@@ -192,38 +191,38 @@ type=video
 name=ABP-178 Prestige Summer Festival Momodani Erika Nasty
 thumb=http://javsex.net/wp-content/uploads/2016/05/5457.jpg
 date=2018-02-02
-URL=http://s789.yamvideo.com/thz3678e/003/appid-5457.mp4
+URL=http://77.72.83.8/034-hls/appid-5457/hls.m3u8
 
 type=video
 name=ABP-171 Sister, Her Daughter Was Rising Temptation Spears. Momodani Erika 
 thumb=http://javsex.net/wp-content/uploads/2016/02/4524.jpg
 date=2018-02-02
-URL=http://s789.yamvideo.com/thz3678e/003/appid-4524.mp4
+URL=http://80.82.77.195/3678e-022/appid-4524/hls.m3u8
 
 type=video
 name=ABP-159 120% Derived From Natural Ingredients Momodani Erika Juice
 thumb=http://javsex.net/wp-content/uploads/2015/10/2934.jpg
 date=2018-02-02
-URL=http://s789.yamvideo.com/thz3675e/006/appid-2934.mp4
+URL=http://89.248.160.154/003/appid-2934/hls.m3u8
 
 type=video
 name=ABP-145 Horny Fuck BEROKISU-04 Momodani Erika And Dense Kiss
 thumb=http://javsex.net/wp-content/uploads/2015/10/3162.jpg
 date=2018-02-02
-URL=http://s789.yamvideo.com/thz3674e/008/appid-3162.mp4
+URL=http://185.216.140.167/037-3674e-hls/appid-3162/hls.m3u8
 
 type=video
 name=ABP-119 One Night Beautiful Girl By Appointment
 thumb=http://javsex.net/wp-content/uploads/2015/10/3164.jpg
 date=2018-02-02
-URL=http://s789.yamvideo.com/thz3674e/008/appid-3164.mp4
+URL=http://185.216.140.167/win-001-hls/appid-3164/hls_720_.m3u8
 
 
 type=video
 name=SRS-022 1 Person Senka Ya Take Off Amateur
 thumb=http://javsex.net/wp-content/uploads/2015/10/3183.jpg
 date=2018-02-02
-URL=http://s789.yamvideo.com/thz3674e/008/appid-3183.mp4
+URL=http://185.216.140.167/037-3674e-hls/appid-3183/hls_720_.m3u8
 
 
 type=video
@@ -244,57 +243,57 @@ type=video
 name=Ssni-079 Completely Restrained Large Forced To Leak By Large Large Incontinence Aoi Tsukasa
 thumb=http://javsex.net/wp-content/uploads/2018/01/28650.jpg
 date=2018-02-02
-URL=http://s789.yamvideo.com/thz3678e/004-new/appid-28650.mp4
+URL=http://89.248.171.132/002/appid-28650/hls.m3u8
 
 #   42
 type=video
 name=Ssni-033 Drunk Girl Orgy Ntr My Beloved Wife Is Normally A Neat And Clean Lady, But When She Goes To A Drinking Party She Turns Into A Horny Bitch Who Wants To Ride Some Dude039s Cock Aoi Tsukasa 
 thumb=http://javsex.net/wp-content/uploads/2017/11/27747.jpg
 date=2018-01-11
-URL=http://s789.yamvideo.com/thz3678e/001/appid-27747.mp4
+URL=http://77.72.83.8/033-hls/appid-27747/hls.m3u8
 
 type=video
 name=Dv-1682 Newlywed Life Aoi Tsukasa That Do Not Have Is Only With Tsukasa 
 thumb=http://javsex.net/wp-content/uploads/2017/01/11959.jpg
 date=2018-01-11
-URL=http://s789.yamvideo.com/thz3674e/007/appid-11959.mp4
+URL=http://89.248.168.114/010-hls-ok/appid-11959/hls.m3u8
 
 type=video
 name=Dv-1225 Tsukasa Aoi Ass Woman
 thumb=http://javsex.net/wp-content/uploads/2017/01/10274.jpg
 date=2018-01-11
-URL=http://s789.yamvideo.com/thz3675e/005/appid-10274.mp4
+URL=http://89.248.160.154/006/appid-10274/hls.m3u8
 
 type=video
 name=Dv-1641 Aoi Tsukasa And Let Suck In Your Vulgar Fellatio
 thumb=http://javsex.net/wp-content/uploads/2017/01/10275.jpg
 date=2018-01-11
-URL=http://s789.yamvideo.com/thz3675e/005/appid-10275.mp4
+URL=http://89.248.160.154/011/appid-10275/hls.m3u8
 
 type=video
 name=Snis-776 Night Aoi Tsukasa Is Disturbed Drunk Most In Life
 thumb=http://javsex.net/wp-content/uploads/2016/12/8831.jpg
 date=2018-01-11
-URL=http://s789.yamvideo.com/thz3674e/005/appid-8831.mp4
+URL=http://185.216.140.23/007-017-hls/appid-8831/hls.m3u8
 
 
 type=video
 name=Snis-874 Deca Ass Ol Commute Molester Is Forcibly Squid Be Alive Put Up In A Crowded Train Tsukasa Aoi
 thumb=http://javsex.net/wp-content/uploads/2017/06/24053.jpg
 date=2018-01-11
-URL=http://s789.yamvideo.com/thz3675e/002/appid-24053.mp4
+URL=http://89.248.168.114/014e-3675-hls/appid-24053/hls.m3u8
 
 type=video
 name=Snis-898 I Can Not Put Up Enough To Leak While Wearing Marginal Mass Pee Tsukasa Aoi
 thumb=http://javsex.net/wp-content/uploads/2017/05/23003.jpg
 date=2018-01-11
-URL=http://s789.yamvideo.com/thz3678e/001/appid-23003.mp4
+URL=http://80.82.77.195/3678e-022/appid-23003/hls.m3u8
 
 type=video
 name=Snis 801 Harsh Kiss, Deep Throat, Deep Throating Best Kuchma This Maniacs Tsukasa Aoi
 thumb=http://javsex.net/wp-content/uploads/2017/05/22711.jpg
 date=2018-01-11
-URL=http://s789.yamvideo.com/thz3675e/002/appid-22711.mp4
+URL=http://89.248.160.154/011/appid-22711/hls.m3u8
 
 type=video
 name=Snis-827 Quoti39ll Have Null Using The Butt Of Tsukasaquot Aoi Peach Mania Large Set Of Princes8 Shots In The Buttbig Off Meeting Rolled Disconnect Switch Port 
@@ -492,14 +491,14 @@ type=video
 name=SNIS-472 Super Premium Sex Miss Aoi Tsukasa
 thumb=http://javsex.net/wp-content/uploads/2015/10/3063.jpg
 date=2018-01-11
-URL=http://s789.yamvideo.com/thz3675e/006/appid-3063.mp4
+URL=http://89.248.160.154/011/appid-3063/hls.m3u8
 
 
 type=video
 name=DV-1602 Squirting Awakening Aoi Tsukasa
 thumb=http://javsex.net/wp-content/uploads/2015/10/3155.jpg
 date=2018-01-11
-URL=http://s789.yamvideo.com/thz3675e/006/appid-3155.mp4
+URL=http://89.248.168.114/3675e-031/appid-3155/hls_720_.m3u8
 
 
 
