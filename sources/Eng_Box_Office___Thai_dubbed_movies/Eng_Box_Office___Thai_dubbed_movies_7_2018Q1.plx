@@ -1315,12 +1315,18 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-13
+date=2018-03-14
 URL=
 
 
 
-
+type=video
+name=Kickboxer: Retaliation (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMWP4cAoy8WBauuKZAVTIfuY3Fw.jpg
+date=2018-03-14
+URL=https://openload.co/f/QYVolMPxjkE/Kickboxer.Retaliation.2018.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://www.blazefile.co/embed-6zm18ajknvgd.html   720
+#https://uptobox.com/zfilh4hg14bu   720
 
 type=video
 name=Cabin 28 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2393,6 +2399,7 @@ name=Veronica (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/koFWKftn4MQMuWySBkLfRQzxxrB.jpg
 date=2018-01-03
 URL=https://uptobox.com/tyxs4sjyp2fr
+#https://openload.co/f/GW0Gh90QL7A/Veronica.2017.1080p.Br_SeeHD.mp4
 
 type=video
 name=November Criminals (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2635,7 +2642,7 @@ date=2017-11-19
 URL=https://openload.co/f/-Wx91IiX_jg/Jackals.2017.1080p.BluRay.x264-SADPANDA.mkv.mp4
 
 type=video
-name=Behind the Blue Door (2016) [COLOR=FF00FF00]POL BR 720p 1080p[/COLOR] 
+name=Behind the Blue Door (2016) [COLOR=FF00FF00]POL BR 1080p[/COLOR]  720p
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/icoGUUnfQGu9XQJLlDv8zLQdM6N.jpg
 date=2018-03-04
 URL=https://www.blazefile.co/embed-h77duvk0g9ns.html
@@ -3082,7 +3089,7 @@ URL=https://www.blazefile.co/embed-0khosisjmx0m.html
 
 
 type=video
-name=Message from the King (2017) [COLOR=FF00FF00]ENG BR 720p 1080p[/COLOR] 
+name=Message from the King (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]  720p
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BxIqK8xwlwRXEpkNYEk2tWuZqR.jpg
 date=2018-03-04
 URL=https://www.blazefile.co/embed-68692bjf7900.html
@@ -3152,7 +3159,7 @@ URL=https://openload.co/f/IQFnuqiNcp8/berlin.syndrome.2017.proper.limited.1080p.
 #https://openload.co/f/lwSnQwtORlA/berlin.syndrome.2017.limited.1080p.bluray.x264-veto.mkv.mp4
 
 type=video
-name=The Chessplayer (2017) [COLOR=FF00FF00]ESP BR 720p 1080p[/COLOR] 
+name=The Chessplayer (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]  720p
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/li4gwTyZAwbCR2lgxLMf2e0s7Ro.jpg
 date=2018-03-04
 URL=https://www.blazefile.co/embed-ekazhc8jceq6.html
@@ -3161,7 +3168,7 @@ URL=https://www.blazefile.co/embed-ekazhc8jceq6.html
 #https://www.blazefile.co/embed-ekazhc8jceq6.html   720
 
 type=video
-name=Suntan (2016) [COLOR=FF00FF00]GRK BR 720p 1080p[/COLOR] 
+name=Suntan (2016) [COLOR=FF00FF00]GRK BR 1080p[/COLOR]  720p
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAknvVkyiGssLf20k4FAZB3FUnZ.jpg
 date=2018-03-04
 URL=https://www.blazefile.co/embed-c13k2v3p0vkf.html
@@ -3170,7 +3177,7 @@ URL=https://www.blazefile.co/embed-c13k2v3p0vkf.html
 #https://www.blazefile.co/embed-c13k2v3p0vkf.html   720
 
 type=video
-name=Boys in the Trees (2016) [COLOR=FF00FF00]ENG BR 720p 1080p[/COLOR] 
+name=Boys in the Trees (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]  720p
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YJgHHHYLcHHhewWjnHoPrUFKBw.jpg
 date=2018-03-04
 URL=https://www.blazefile.co/embed-cmtakrgt97cn.html 
@@ -5189,13 +5196,20 @@ URL=
 type=video
 name=
 thumb=
-date=2018-01-10
+date=2018-03-14
 URL=
 
 
 
 
 
+
+
+type=video
+name=Pokémon the Movie: I Choose You! (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmpOaiRtjnhLNF2iPslMXCOcVJ.jpg
+date=2018-03-14
+URL=https://streamango.com/f/pkodrrnnoneoretr/Pok_mon_the_Movie_I_Choose_You_2017_
 
 
 type=video
@@ -5273,6 +5287,11 @@ URL=https://streamango.com/f/mqbekpqfcepsmpcq/Ferdinand_2017_
 #https://streamango.com/f/msdndqpacntaolnl/Ferdinand_2017_
 
 
+type=video
+name=Fairy Tail Movie 2: Dragon Cry (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6GuwIVkNZYFkt7kiHSJRPiXAAA.jpg
+date=2018-03-14
+URL=https://openload.co/f/YNyerI8D4BI/Fairy.Tail.Dragon.Cry.2017.1080p.BluRay.x264-WaLMaRT.mkv.mp4
 type=video
 name=Fairy Tail Movie 2: Dragon Cry (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6GuwIVkNZYFkt7kiHSJRPiXAAA.jpg
