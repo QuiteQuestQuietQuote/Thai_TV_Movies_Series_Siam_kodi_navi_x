@@ -430,11 +430,7 @@ date=2018-02-17
 URL=https://openload.co/f/Nr1Rqjvug4Q/Final.Portrait.2017.1080p.NF.WEB_SeeHD.mkv.mp4
 #https://openload.co/f/_Zyb1K8QaAk/Final.Portrait.2017.1080p.NF.WEBRip.DDP.5.1.H264-CMRG.mkv.mp4
 
-type=video
-name=Acts of Violence (2018) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg
-date=2018-01-12
-URL=https://openload.co/f/OtVuIulR2_c/Acts.of.Violence.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 
 
@@ -1315,16 +1311,25 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-14
+date=2018-03-15
 URL=
 
 
 
+
+type=video
+name=The Director and The Jedi (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gH4lXy8FZC3uYTR4veqc9md8bGm.jpg
+date=2018-03-15
+URL=https://openload.co/f/OghsVH6N0K8/The.Director.and.the.Jedi.2018.1080p.BluRay.AC3.x264-CROBO%5BEtHD%5D.mkv.mp4
+
 type=video
 name=Kickboxer: Retaliation (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMWP4cAoy8WBauuKZAVTIfuY3Fw.jpg
-date=2018-03-14
-URL=https://openload.co/f/QYVolMPxjkE/Kickboxer.Retaliation.2018.1080p.BluRay.x264-PSYCHD.mkv.mp4
+date=2018-03-15
+URL=https://www.blazefile.co/embed-xqt54vby9hyf.html
+#https://uptobox.com/z3dut9pzcbs8
+#https://openload.co/f/QYVolMPxjkE/Kickboxer.Retaliation.2018.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://www.blazefile.co/embed-6zm18ajknvgd.html   720
 #https://uptobox.com/zfilh4hg14bu   720
 
@@ -1404,8 +1409,10 @@ URL=https://openload.co/f/18ITpiEhhmk/Abe.and.Phils.Last.Poker.Game.2017.1080p.B
 type=video
 name=Lego DC Comics Super Heroes: The Flash (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/peKFgffHTs6gzDgAWOjIfxziLbQ.jpg
-date=2018-03-07
-URL=https://openload.co/f/RlRRwxE4P9E/Lego.DC.Comics.Super.Heroes.The.Flash.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-03-15
+URL=https://openload.co/f/bMjOH_qtAPc/lego.dc.comics.super.heroes.the.flash.2018.1080p.bluray.x264-invandraren.mkv.mp4
+#https://openload.co/f/P0A2KNtyCFU/Lego.DC.Comics.Super.Heroes.The.Flash.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/RlRRwxE4P9E/Lego.DC.Comics.Super.Heroes.The.Flash.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/woAuxvDl6aQ/Lego.DC.Comics.Super.Heroes.The.Flash.2018.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
 #https://openload.co/f/kGfFbYomOOw/Lego.DC.Comics.Super.Heroes.The.Flash.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
 #https://www.blazefile.co/embed-6znwzokfognf.html   720
@@ -1777,15 +1784,6 @@ URL=https://www.blazefile.co/embed-tahln9fnm2zk.html
 #https://openload.co/f/qItzmC2ilFI/Same.Kind.of.Different.as.Me.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/ya7riPaKiWM/Same_Kind_of_Different_as_Me.2017.BRRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=Marrowbone (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRUToAEWbPtfOOgrs7ivk96DE7i.jpg
-date=2018-02-21
-URL=https://www.blazefile.co/embed-0rmnl4pvqm9a.html
-#https://uptobox.com/r1i4aj9565rc
-#https://openload.co/f/-YTh2hoDQsw/mrrowbone80.Ettv.st.mkv
-#https://openload.co/f/MkZiz_H6_x4/Marrowbone.2017.720p.BR_SeeHD.mp4
-#http://entervideo.net/watch/dc143d328339b28
 
 
 
@@ -2068,16 +2066,8 @@ URL=https://www.blazefile.co/embed-07sqwrtfrtci.html
 #https://uptobox.com/h58wwdbcvmyc   720
 #https://openload.co/f/bQMcS9x-ySk/The.Pirates.of.Somalia.2017.720p.BluRay.x264-PSYCHD.mkv.mp4
 
-type=video
-name=The Star (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEbDvivUfsCupngKIfMJJ725eAD.jpg
-date=2018-02-02
-URL=https://www.blazefile.co/embed-nkqoarqqooao.html
-#https://uptobox.com/agmd8bmbl4tf
-#https://openload.co/f/JU7M5PgVobU/The.Star.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/lleNZwJZKsc/The.Star.2017.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/8yNhaXL9Nb4/The.Star.2017.CAM.READNFO.XViD-26k.avi.mp4
-#https://openload.co/f/tYe0V1V8qcg/The.Star.2017.NOLOGO.HDTS.x264.AAC-AvEnTaD0R.mp4
+
+
 
 type=video
 name=West of Her (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2223,20 +2213,8 @@ date=2018-01-25
 URL=https://www.blazefile.co/embed-1j6uwn6l6it3.html
 
 
-type=video
-name=A Bad Moms Christmas (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPNHolu7AGnrB7r5kvJRRTfwMFR.jpg
-date=2018-01-25
-URL=https://www.blazefile.co/embed-7r3e585n4q2p.html
-#https://uptobox.com/x95fwxg27uz4
-#https://openload.co/f/dBBN2g3nDrc/A.Bad.Moms.Christmas.2017.1080p.Br_SeeHD.mp4
-#https://openload.co/f/f79GwZlDWvg/A.Bad.Moms.Christmas.2017.1080p.BluRay.x264-DRONES.mkv
-#https://openload.co/f/gB2pAqB30EY/A_Bad_Moms_Christmas.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/PQom4-EK7ls/A_Bad_Moms_Christmas.2017.HDRip.XviD.AC3-EVO.mp4
-#https://openload.co/f/0WatHfN8KKw/A.Bad.Moms.Christmas.2017.NEW.720p.HDCAM.X264.AC3.HQ-DADDY.mkv.mp4
-#https://openload.co/f/s9JvJo8vRdM/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
-#https://openload.co/f/itxz3-_HMO0/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
-#https://openload.co/f/wMFH7wlGkQE/A.Bad.Moms.Christmas.2017.1080p.BluRay.x264-DRONES.mkv   MKV7.7GB
+
+
 
 type=video
 name=Sweet Virginia (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2399,6 +2377,7 @@ name=Veronica (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/koFWKftn4MQMuWySBkLfRQzxxrB.jpg
 date=2018-01-03
 URL=https://uptobox.com/tyxs4sjyp2fr
+#https://openload.co/f/gioAiDvDxIQ/Veronica.2017.1080p.Br_SeeHD.mp4
 #https://openload.co/f/GW0Gh90QL7A/Veronica.2017.1080p.Br_SeeHD.mp4
 
 type=video
@@ -3822,7 +3801,12 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6eNRuAWJhKB4r3r4pbMO7Pc3v
 date=2018-03-13
 URL=https://openload.co/f/c8eLd6i86i4/Lu_Over_the_Wall_2017_720p_BRRip_EngSubs_Layar.mp4
 
-
+type=video
+name=Acts of Violence (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg
+date=2018-03-15
+URL=https://openload.co/f/sJvPO_7p7s4/Acts.of.Violence.2018.BluRay.720p.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/OtVuIulR2_c/Acts.of.Violence.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 
 
@@ -5197,14 +5181,18 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-14
+date=2018-03-15
 URL=
 
 
 
 
 
-
+type=video
+name=Innocent Curse (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/llsZHq7epuam6cJdqQUCzaA6YxI.jpg
+date=2018-03-15
+URL=https://streamango.com/f/cfemesplrkqedkna/Innocent_Curse_2017_
 
 type=video
 name=Pokémon the Movie: I Choose You! (2017) THCAM SOUND
@@ -5213,35 +5201,6 @@ date=2018-03-14
 URL=https://streamango.com/f/pkodrrnnoneoretr/Pok_mon_the_Movie_I_Choose_You_2017_
 
 
-type=video
-name=Star Wars: The Last Jedi (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
-date=2018-03-10
-URL=https://www.blazefile.co/embed-zln1ggg35oub.html
-#https://uptobox.com/m6m3m9fbtxhs
-#https://openload.co/f/-q6pncOlIFg/Star.Wars.The.Last.Jedi.2017.1080p.BRRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/m0xu_SnYtEo/Star.Wars.The.Last.Jedi.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/enoxGvJ4-gU/Star.Wars.The.Last.Jedi.2017.720p.Br_SeeHD.mp4
-#https://openload.co/f/5UoSoujLVjE/Star.Wars.The.Last.Jedi.2017.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/UBpATvP7EQA/Star.Wars.The.Last.Jedi.2017.720p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/mdW-RQfQ9eM/Star.Wars.The.Last.Jedi.2017.720p.BluRay.x264-SPARKS.mkv   MKV6.6GB
-#https://openload.co/f/Xwf8NvT7BNc/Star_Wars_The_Last_Jedi_2017_720p_HDTC_X264_-Superpila.mkv.mp4
-#https://openload.co/f/s42Q4dGOlIo/Star_Wars%3A_The_Last_Jedi_%282017%29.1080p.TC_SeeHD.mkv.mp4
-#https://openload.co/f/LXbAGpyZFGM/Star_Wars_The_Last_Jedi_720P_New_HDTC_SeeHD.mp4
-#https://openload.co/f/kyTP9W4q7gY/Star.Wars.The.Last.Jedi.2017.E-SUB.HC-TS-X264-MP3-Zit.mp4
-#https://openload.co/f/UsQnyhGkctY/Star_Wars_The_Last_Jedi_%282017%29.720p.CAM_NEW_SOURCES_XViD-26k_avi_mp4
-#https://openload.co/f/ZTakoaEg4C8/Star_Wars%3A_The_Last_Jedi_%282017%29.720p.hdcam_SeeHD.mkv.mp4
-#https://openload.co/f/UrK6v2uPmbQ/Star_Wars_The_Last_Jedi_2017_FULL_HDCAM_ENGLiSH_x264_HQMIC-DADDY.mkv.mp4
-#https://openload.co/f/US7D15Fv2OU/STAR_WARS_THE_LAST_JEDI_2017_FULL_ENGLISH_HDCAM_ste20.mp4
-#https://openload.co/f/yjFhavSK_eg/Star.Wars.The.Last.Jedi.2017.CAM.X264-BebeLeitinho.mkv
-type=video
-name=Star Wars: The Last Jedi (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
-date=2018-03-12
-URL=https://streamango.com/f/fdcpqnlmfntkrcce/Star_Wars_The_Last_Jedi_2017_
-#https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_HDTC_x264_AC-3_THR2_0_CpT_CtHts_mkv_mp4
-#https://streamango.com/f/pcqllspqemeqtrpl/Star_Wars_The_Last_Jedi_2017_
-#https://streamango.com/f/lndpracqdldepoqk/Star_Wars_The_Last_Jedi_2017_720p_TS_x264_AC-3_ThaiRong2_0_CpT_CtHts_mkv_mp4
 
 
 type=video
@@ -5252,10 +5211,11 @@ URL=https://streamango.com/f/laaqppbkadlbrado/Guardians_of_the_Tomb_2018_
 
 
 type=video
-name=The Monkey King 3 (2018) CHN HDTC_EngSub_Layar
+name=The Monkey King 3 (2018) CHN 1080P.X264.AAC.Mandarin.CHS-ENG.MF
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQw0pTWeplDn1TmiN4MjIxvyCR0.jpg
-date=2018-03-08
-URL=https://openload.co/f/6bxFcCnr7qE/The_Monkey_King_3_2018_HDTC_EngSub_Layar.mp4
+date=2018-03-15
+URL=https://openload.co/f/YKnct2h2Nxk/The.Monkey.King.3.Kingdom.of.Women.2018.HD1080P.X264.AAC.Mandarin.CHS-ENG.MF.mp4
+#https://openload.co/f/6bxFcCnr7qE/The_Monkey_King_3_2018_HDTC_EngSub_Layar.mp4
 #https://openload.co/f/YtZ2o5-0f0Q/The_Monkey_King_3_HDCAM.mp4
 #https://openload.co/f/gI8dWLIQTuk/The_Monkey_King_3_%282018%29_Cam.mp4
 type=video
@@ -5598,7 +5558,90 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+type=video
+name=Star Wars: The Last Jedi (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
+date=2018-03-10
+URL=https://www.blazefile.co/embed-zln1ggg35oub.html
+#https://uptobox.com/m6m3m9fbtxhs
+#https://openload.co/f/-q6pncOlIFg/Star.Wars.The.Last.Jedi.2017.1080p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/m0xu_SnYtEo/Star.Wars.The.Last.Jedi.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/enoxGvJ4-gU/Star.Wars.The.Last.Jedi.2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/5UoSoujLVjE/Star.Wars.The.Last.Jedi.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/UBpATvP7EQA/Star.Wars.The.Last.Jedi.2017.720p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/mdW-RQfQ9eM/Star.Wars.The.Last.Jedi.2017.720p.BluRay.x264-SPARKS.mkv   MKV6.6GB
+#https://openload.co/f/Xwf8NvT7BNc/Star_Wars_The_Last_Jedi_2017_720p_HDTC_X264_-Superpila.mkv.mp4
+#https://openload.co/f/s42Q4dGOlIo/Star_Wars%3A_The_Last_Jedi_%282017%29.1080p.TC_SeeHD.mkv.mp4
+#https://openload.co/f/LXbAGpyZFGM/Star_Wars_The_Last_Jedi_720P_New_HDTC_SeeHD.mp4
+#https://openload.co/f/kyTP9W4q7gY/Star.Wars.The.Last.Jedi.2017.E-SUB.HC-TS-X264-MP3-Zit.mp4
+#https://openload.co/f/UsQnyhGkctY/Star_Wars_The_Last_Jedi_%282017%29.720p.CAM_NEW_SOURCES_XViD-26k_avi_mp4
+#https://openload.co/f/ZTakoaEg4C8/Star_Wars%3A_The_Last_Jedi_%282017%29.720p.hdcam_SeeHD.mkv.mp4
+#https://openload.co/f/UrK6v2uPmbQ/Star_Wars_The_Last_Jedi_2017_FULL_HDCAM_ENGLiSH_x264_HQMIC-DADDY.mkv.mp4
+#https://openload.co/f/US7D15Fv2OU/STAR_WARS_THE_LAST_JEDI_2017_FULL_ENGLISH_HDCAM_ste20.mp4
+#https://openload.co/f/yjFhavSK_eg/Star.Wars.The.Last.Jedi.2017.CAM.X264-BebeLeitinho.mkv
+type=video
+name=Star Wars: The Last Jedi (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
+date=2018-03-14
+URL=https://openload.co/f/hnD5gGeS9aA/Star_Wars%3A_The_Last_Jedi_%282017%29%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%3A_%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%9A%E0%B8%97%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B9%84%E0%B8%94.mp4
+#https://streamango.com/f/fdcpqnlmfntkrcce/Star_Wars_The_Last_Jedi_2017_
+#https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_HDTC_x264_AC-3_THR2_0_CpT_CtHts_mkv_mp4
+#https://streamango.com/f/pcqllspqemeqtrpl/Star_Wars_The_Last_Jedi_2017_
+#https://streamango.com/f/lndpracqdldepoqk/Star_Wars_The_Last_Jedi_2017_720p_TS_x264_AC-3_ThaiRong2_0_CpT_CtHts_mkv_mp4
 
+
+type=video
+name=Marrowbone (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRUToAEWbPtfOOgrs7ivk96DE7i.jpg
+date=2018-02-21
+URL=https://www.blazefile.co/embed-0rmnl4pvqm9a.html
+#https://uptobox.com/r1i4aj9565rc
+#https://openload.co/f/-YTh2hoDQsw/mrrowbone80.Ettv.st.mkv
+#https://openload.co/f/MkZiz_H6_x4/Marrowbone.2017.720p.BR_SeeHD.mp4
+#http://entervideo.net/watch/dc143d328339b28
+type=video
+name=Marrowbone (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRUToAEWbPtfOOgrs7ivk96DE7i.jpg
+date=2018-03-15
+URL=https://openload.co/f/2zUPdRwBVPk/Marrowbone_%282017%29%E0%B8%95%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B9%E0%B8%A5%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88.mp4
+
+
+type=video
+name=The Star (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEbDvivUfsCupngKIfMJJ725eAD.jpg
+date=2018-02-02
+URL=https://www.blazefile.co/embed-nkqoarqqooao.html
+#https://uptobox.com/agmd8bmbl4tf
+#https://openload.co/f/JU7M5PgVobU/The.Star.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/lleNZwJZKsc/The.Star.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/8yNhaXL9Nb4/The.Star.2017.CAM.READNFO.XViD-26k.avi.mp4
+#https://openload.co/f/tYe0V1V8qcg/The.Star.2017.NOLOGO.HDTS.x264.AAC-AvEnTaD0R.mp4
+type=video
+name=The Star (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEbDvivUfsCupngKIfMJJ725eAD.jpg
+date=2018-02-15
+URL=https://openload.co/f/0sjJQwFOV5M/The_Star_%282017%29%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B2%E0%B8%A7.mp4
+
+
+type=video
+name=A Bad Moms Christmas (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPNHolu7AGnrB7r5kvJRRTfwMFR.jpg
+date=2018-01-25
+URL=https://www.blazefile.co/embed-7r3e585n4q2p.html
+#https://uptobox.com/x95fwxg27uz4
+#https://openload.co/f/dBBN2g3nDrc/A.Bad.Moms.Christmas.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/f79GwZlDWvg/A.Bad.Moms.Christmas.2017.1080p.BluRay.x264-DRONES.mkv
+#https://openload.co/f/gB2pAqB30EY/A_Bad_Moms_Christmas.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/PQom4-EK7ls/A_Bad_Moms_Christmas.2017.HDRip.XviD.AC3-EVO.mp4
+#https://openload.co/f/0WatHfN8KKw/A.Bad.Moms.Christmas.2017.NEW.720p.HDCAM.X264.AC3.HQ-DADDY.mkv.mp4
+#https://openload.co/f/s9JvJo8vRdM/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
+#https://openload.co/f/itxz3-_HMO0/A_Bad_Moms_Christmas_%282017%29_ENG_HDCAM-H264-AC3-Zi%24T.mkv.mp4
+#https://openload.co/f/wMFH7wlGkQE/A.Bad.Moms.Christmas.2017.1080p.BluRay.x264-DRONES.mkv   MKV7.7GB
+type=video
+name=A Bad Moms Christmas (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPNHolu7AGnrB7r5kvJRRTfwMFR.jpg
+date=2018-03-15
+URL=https://openload.co/f/EhEgZZn1seo/A_Bad_Moms_Christmas_%282017%29%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%8A%E0%B8%A7%E0%B8%99%E0%B8%84%E0%B8%B6%E0%B8%81.mp4
 
 
 type=video
