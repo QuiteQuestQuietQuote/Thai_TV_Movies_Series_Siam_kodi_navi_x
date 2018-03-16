@@ -59,10 +59,17 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-03-13
+date=2018-03-16
 URL=
 
 
+
+type=video
+name=Tomb Raider (2018) ENG 720p.HDCAM.X264-TomFaggot
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
+date=2018-03-16
+URL=https://openload.co/f/yeIY9gwoqo8/Tom_Raider.2018.720p.HDCAM.X264-TomFaggot.mp4
+#https://openload.co/f/Vu6eBXghw74/Tomb.Raider.2018.ENG.HDCAM.XViD-AKOAM.avi.mp4
 
 type=video
 name=A Wrinkle in Time (2018) ESP 720p.HDCAM.E
@@ -71,10 +78,11 @@ date=2018-03-13
 URL=https://openload.co/f/trkMR5Jm9Aw/A.Wrinkle.in.Time.2018.720p.HDCAM.E.mp4
 
 type=video
-name=Death Wish (2018) ENG HDCAM.x264-DiRG
+name=Death Wish (2018) ENG NEW_HDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRpOwIlOXZZVWgDernbPbdHU5cl.jpg
-date=2018-03-13
-URL=https://openload.co/f/08UkBIEbOMg/Death.Wish.2018.HDCAM.x264-DiRG.mp4
+date=2018-03-16
+URL=https://openload.co/f/woXxvTJV3xQ/Death.Wish.2018.NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/08UkBIEbOMg/Death.Wish.2018.HDCAM.x264-DiRG.mp4
 
 type=video
 name=Early Man (2018) ENG HDCAM_Eng_SeeHD
@@ -98,12 +106,7 @@ URL=https://openload.co/f/Pb3aZcRQqKY/Red_Sparrow_%282018%29_HDCAM-X264-MP3-Zi%2
 #https://openload.co/f/_e7MhJTAVHQ/Red.Sparrow_2018.CAM.X264-NOBITCOINSYESBANK_SeeHD.mp4
 #https://openload.co/f/7Wooyr39WX4/Red_Sparrow_2018.720p.HDCAM.X264-MyBankAccount.mp4
 
-type=video
-name=The Vanishing of Sidney Hall (2018) ENG 1080p.WEB-DL.DD5.1.H.264.CRO-DIAMOND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg
-date=2018-03-04
-URL=https://openload.co/f/oTh0hKKFjjI/The.Vanishing.of.Sidney.Hall.2017.1080p.WEB-DL.DD5.1.H.264.CRO-DIAMOND.mkv.mp4
-#https://openload.co/f/CPsV3ek6R3A/The.Vanishing.of.Sidney.Hall.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Game Night (2018) ENG HDCAM_ENG_X264-SeeHD
@@ -1316,6 +1319,24 @@ URL=
 
 
 
+type=video
+name=The Thousand Faces of Dunjia (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSjTnz7zVBEVfDkbwuzDRqTiVB8.jpg
+date=2018-03-16
+URL=https://openload.co/f/UVWUzRVruHw/the.thousand.faces.of.dunjia.2017.1080p.bluray.x264-rovers.mkv.mp4
+#https://openload.co/f/w7Kh8KrD0oM/the.thousand.faces.of.dunjia.2017.720p.bluray.x264-rovers.mkv.mp4
+#https://openload.co/f/DjCF5SOqd_8/the.thousand.faces.of.dunjia.2017.1080p.bluray.x264-rovers.mkv   MKV7.9GB
+
+type=video
+name=Acts of Violence (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg
+date=2018-03-16
+URL=https://openload.co/f/Y-6vmjxktfU/Acts.of.Violence.2018.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/KjvgVrjWnTs/Acts.of.Violence.2018.BluRay.720p.x264.DTS-HDC.mkv   MKV4.7MB
+#https://openload.co/f/sJvPO_7p7s4/Acts.of.Violence.2018.BluRay.720p.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/OtVuIulR2_c/Acts.of.Violence.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://www.blazefile.co/embed-h0vrqga3f33t.html   720
+#https://uptobox.com/8nghesudsxtu   720
 
 type=video
 name=The Director and The Jedi (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1604,7 +1625,10 @@ type=video
 name=The Clapper (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsm2gxPoZDzG3ocTArrK8ak7go4.jpg
 date=2018-02-24
-URL=https://openload.co/f/SWvPKYclD4U/The.Clapper.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+URL=https://openload.co/f/twgdjo5vekw/the.clapper.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/2MessDGhiOw/the.clapper.2017.1080p.bluray.dd5.1.hevc.x265.mkv   MKV911MB
+#https://openload.co/f/XJdHc1dFL5w/The.Clapper.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/SWvPKYclD4U/The.Clapper.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Wonder Wheel (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3801,23 +3825,46 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6eNRuAWJhKB4r3r4pbMO7Pc3v
 date=2018-03-13
 URL=https://openload.co/f/c8eLd6i86i4/Lu_Over_the_Wall_2017_720p_BRRip_EngSubs_Layar.mp4
 
+
+
 type=video
-name=Acts of Violence (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg
-date=2018-03-15
-URL=https://openload.co/f/sJvPO_7p7s4/Acts.of.Violence.2018.BluRay.720p.x264.DTS-HDC.mkv.mp4
-#https://openload.co/f/OtVuIulR2_c/Acts.of.Violence.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+name=The Vanishing of Sidney Hall (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg
+date=2018-03-16
+URL=https://openload.co/f/XKYTYzmTcyc/the.vanishing.of.sidney.hall.2017.limited.720p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/oTh0hKKFjjI/The.Vanishing.of.Sidney.Hall.2017.1080p.WEB-DL.DD5.1.H.264.CRO-DIAMOND.mkv.mp4
+#https://openload.co/f/CPsV3ek6R3A/The.Vanishing.of.Sidney.Hall.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Keep Watching (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/65UjzcdXlLcDzZQEidMN58BsFzg.jpg
+date=2018-03-16
+URL=https://openload.co/f/ca-c-mH530I/Keep.Watching.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/RtYeBLF3-RM/Keep.Watching.2017.720p.BluRay.x264-PFa.mkv.mp4
+#https://www.blazefile.co/embed-avo7yv4nrgxg.html   720
+#https://uptobox.com/r5b03zn2c193   720
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 type=video
 name=
-thumb=https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png
-date=
-URL=http://live.cgtn.com/cctv-d.m3u8
-#http://113.177.63.140:4022/rtp/232.84.1.115:10236
-#http://183.88.212.205:8010/play/a02z
+thumb=
+date=2018-03-16
+URL=http://203.162.235.41:17819
+
+
+
 
 
 
@@ -3875,12 +3922,14 @@ URL=http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
 
 
 
-
 type=video
 name=
-thumb=
-date=2018-03-13
-URL=http://203.162.235.41:17819
+thumb=https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png
+date=
+URL=http://live.cgtn.com/cctv-d.m3u8
+#http://113.177.63.140:4022/rtp/232.84.1.115:10236
+#http://183.88.212.205:8010/play/a02z
+
 
 
 
@@ -3920,10 +3969,11 @@ URL=https://streamango.com/f/kmeqqlkbfqosafts/Monster_Hunt_2_2018_2_
 
 
 type=video
-name=Winchester (2018) ENG HDCAM.x264-DiRG
+name=Winchester (2018) ENG 720p.HDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg
-date=2018-02-22
-URL=https://openload.co/f/c4esc5nzmqs/Winchester.2018.HDCAM.x264-DiRG.mp4
+date=2018-03-16
+URL=https://openload.co/f/MR70YVhvXwA/Winchester.2018.720p.HDCAM_SeeHD.mp4
+#https://openload.co/f/c4esc5nzmqs/Winchester.2018.HDCAM.x264-DiRG.mp4
 type=video
 name=Winchester (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg
@@ -4028,10 +4078,13 @@ URL=https://streamango.com/f/pbtbmqdafrscrmad/The_Commuter_2018_
 
 
 type=video
-name=Insidious: The Last Key (2018) ENG 720P.WEB-DL.X264.MP3-P2P
+name=Insidious: The Last Key (2018) ENG 1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg
-date=2018-03-10
-URL=https://openload.co/f/c-P7OnfBMEE/Insidious.The.Last.Key.2018.720P.WEB-DL.X264.MP3-P2P.mkv.mp4
+date=2018-03-16
+URL=https://openload.co/f/h5F5ckvNgI4/Insidious.The.Last.Key.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
+#https://openload.co/f/TMDihKq4tTo/Insidious_The_Last_Key.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/jKI_FSEZmXY/Insidious_The_Last_Key.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/c-P7OnfBMEE/Insidious.The.Last.Key.2018.720P.WEB-DL.X264.MP3-P2P.mkv.mp4
 #https://openload.co/f/03zVVvboCyQ/Insidious_The_Last_Key_%282018%29_720PVOD_SeeHD.mkv.mp4
 #https://openload.co/f/Gi9eyQs7AIA/Insidious_The_Last_Key_2018_NEW_HDCAM_X264_HQ-CPG.mkv.mp4
 #https://openload.co/f/TBxLV3VCkmU/Insidious_The_Last_Key_2017_CAM_ENG_X264_HQMic-DADDY.mkv.mp4
@@ -5191,8 +5244,9 @@ URL=
 type=video
 name=Innocent Curse (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/llsZHq7epuam6cJdqQUCzaA6YxI.jpg
-date=2018-03-15
-URL=https://streamango.com/f/cfemesplrkqedkna/Innocent_Curse_2017_
+date=2018-03-16
+URL=https://streamango.com/f/pbnfnftnekfstfkk/Innocent_Curse_2017_
+#https://streamango.com/f/cfemesplrkqedkna/Innocent_Curse_2017_
 
 type=video
 name=Pokémon the Movie: I Choose You! (2017) THCAM SOUND
@@ -5211,10 +5265,11 @@ URL=https://streamango.com/f/laaqppbkadlbrado/Guardians_of_the_Tomb_2018_
 
 
 type=video
-name=The Monkey King 3 (2018) CHN 1080P.X264.AAC.Mandarin.CHS-ENG.MF
+name=The Monkey King 3 (2018) CHN 1080p.WEBRip.AAC2.0.x264-HQC
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQw0pTWeplDn1TmiN4MjIxvyCR0.jpg
-date=2018-03-15
-URL=https://openload.co/f/YKnct2h2Nxk/The.Monkey.King.3.Kingdom.of.Women.2018.HD1080P.X264.AAC.Mandarin.CHS-ENG.MF.mp4
+date=2018-03-16
+URL=https://openload.co/f/NHbCRCfr52s/The.Monkey.King.3.Kingdom.of.Women.2018.CHINESE.1080p.WEBRip.AAC2.0.x264-HQC.mkv.mp4
+#https://openload.co/f/YKnct2h2Nxk/The.Monkey.King.3.Kingdom.of.Women.2018.HD1080P.X264.AAC.Mandarin.CHS-ENG.MF.mp4
 #https://openload.co/f/6bxFcCnr7qE/The_Monkey_King_3_2018_HDTC_EngSub_Layar.mp4
 #https://openload.co/f/YtZ2o5-0f0Q/The_Monkey_King_3_HDCAM.mp4
 #https://openload.co/f/gI8dWLIQTuk/The_Monkey_King_3_%282018%29_Cam.mp4
@@ -5582,7 +5637,7 @@ URL=https://www.blazefile.co/embed-zln1ggg35oub.html
 type=video
 name=Star Wars: The Last Jedi (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGWVjewoXnJhvxKW619cMzppJDQ.jpg
-date=2018-03-14
+date=2018-03-15
 URL=https://openload.co/f/hnD5gGeS9aA/Star_Wars%3A_The_Last_Jedi_%282017%29%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%3A_%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%9A%E0%B8%97%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B9%84%E0%B8%94.mp4
 #https://streamango.com/f/fdcpqnlmfntkrcce/Star_Wars_The_Last_Jedi_2017_
 #https://streamango.com/f/aablmrtfbkepmpls/Star_Wars_The_Last_Jedi_2017_720p_HDTC_x264_AC-3_THR2_0_CpT_CtHts_mkv_mp4
