@@ -58,6 +58,75 @@ URL=
 
 
 
+type=video
+name=112xxxxxxxxxxxxxxxxxxxxAsian Sex Diary [Filipina Sex Diary] Nhei 2 The Return 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Nhei-2-The-Return.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/ldtessopmnedtkbf/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Kim Morning 2
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Kim-Morning-2.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/ksccpfksoentnkdd/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Layka Morning
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Layka-Morning.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/bpekrqtopkpsstsc/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Juliet Part 1
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Juliet-Part-1.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/rtncedampkdkebrs/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Laiza S Friend Jonalyn For Photoshoot
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Laiza-S-Friend-Jonalyn-For-Photoshoot.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/mqldtnoaqqknaclp/
+
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Lingerie Show 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Lingerie-Show.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/aqasortsbqcploor/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Maymay Again
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Maymay-Again.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/mclttltmqersqbnq/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Maymay Perfect
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Maymay-Perfect.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/lbtocmdmmttfnmbr/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Layka
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Layka.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/mnkboefaspleprad/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Maricel
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Maricel.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/lemkqbdrlprsbdkl/
+
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Layka My Bed
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Layka-My-Bed.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/crkpfnpfpncbalmc/
+
+
 
 
 

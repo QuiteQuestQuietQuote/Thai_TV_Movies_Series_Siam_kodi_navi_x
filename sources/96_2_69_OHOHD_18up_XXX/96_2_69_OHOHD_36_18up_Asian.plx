@@ -56,6 +56,117 @@ URL=
 
 
 
+type=video
+name=150xxxxxxxxxxxxxxxxxxxxProstitution Default (1997) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Prostitution-Default-1997.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/epqtkbkeknklcleb/
+
+type=video
+name=Virgins In The Gynecology (1997) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Virgins-In-The-Gynecology-1997.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/fsnffplqnfdonaef/
+
+type=video
+name=The Life O Deviated Chun Hyang (1960)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/The-Life-O-Deviated-Chun-Hyang-1960.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/nlefsrqskspmdbqa/
+
+type=video
+name=Cow Wife (1996)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Cow-Wife-1996.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/bcalrmdrlbpnbncs/
+
+type=video
+name=My Friend Mom (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/My-Friend-Mom-2017.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/fbfossncnotrsbps/
+
+
+type=video
+name=My Students Mother 2 (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/My-Students-Mother-2-2017-Uncut.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/psakaefqkmrdromo/
+
+type=video
+name=Chaghanhyeongsu Tteugeoun Yuhog (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Chaghanhyeongsu-Tteugeoun-Yuhog-2017.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/aqmttfccrbekbtkt/
+
+type=video
+name=Chijyou (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Chijyou-2016.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/alrmqkpekmkskkar/
+
+type=video
+name=Himegoto (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Himegoto-2016.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/btslsrrqbcrtfdda/
+
+type=video
+name=Nunachingu Ihonhago On Nal (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Nunachingu-Ihonhago-On-Nal-2017.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/sqoqatbaslnskmlc/
+
+
+type=video
+name=Saeeomma Saenuna (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Saeeomma-Saenuna-2017.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/arnmldntrsoebmlr/
+
+type=video
+name=Deep Throat (1998)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Deep-Throat-1998.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/rcpclnclrkqtfnaa/
+
+type=video
+name=Porn Actress Starter (1998) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Porn-Actress-Starter-1998.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/lqtctccstdpmmekl/
+
+type=video
+name=Byun Kang Swoi And Two Cows 2 (1999)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Byun-Kang-Swoi-And-Two-Cows-2-1999.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/mletetbbbrrebrld/
+
+type=video
+name=Temptation Of Aunt (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Temptation-Of-Aunt-2018.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/pldecnoseacrbefc/
+
+
+type=video
+name=Young Wife’s Job (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Young-Wifes-Job-2017.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/qmmrbnocrkbbdpde/
+
+type=video
+name=Womens Insurance King Trade Secrets (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Womens-Insurance-King-Trade-Secrets-2017-Uncut.png
+date=2018-03-16
+URL=https://streamcherry.com/embed/pkospetntqbpbafl/
+
+type=video
+name=Love Chain (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/02/Love-Chain-2018.jpg
+date=2018-03-16
+URL=https://streamcherry.com/embed/padkbfqefrlnaqed/
+
 
 
 
