@@ -65,10 +65,11 @@ URL=
 
 
 type=video
-name=Tomb Raider (2018) ENG 720p.HDCAM.X264-TomFaggot
+name=Tomb Raider (2018) ENG 720p_FULL_HDCAM_X264_HQMic-CPG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
-date=2018-03-16
-URL=https://openload.co/f/yeIY9gwoqo8/Tom_Raider.2018.720p.HDCAM.X264-TomFaggot.mp4
+date=2018-03-17
+URL=https://openload.co/f/0fZwGeHZlIo/Tomb_Raider_2018_720p_FULL_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/yeIY9gwoqo8/Tom_Raider.2018.720p.HDCAM.X264-TomFaggot.mp4
 #https://openload.co/f/Vu6eBXghw74/Tomb.Raider.2018.ENG.HDCAM.XViD-AKOAM.avi.mp4
 
 type=video
@@ -580,6 +581,7 @@ name=Madame (2017) ENG WEB-DL.DD2.0.x264-BDP
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8DfNZSRDhv1faYPoldjglinmzi.jpg
 date=2017-12-05
 URL=https://openload.co/f/CQs95_555cI/Madame.2017.720p.WEB-DL.DD2.0.x264-BDP.mkv.mp4
+#https://openload.co/f/hTKvxBBbzo8/Madame.2017.DVDRip.XviD.AC3-iFT.avi.mp4
 #https://openload.co/f/WlPzb_Qg5kQ/Madame.2017.HDRip.XviD.AC3-EVO.mp4
 
 type=video
@@ -661,13 +663,7 @@ URL=https://openload.co/f/W2FwLqmgrmc/The.Elf.2017.WEB-DL.x264-RARBG.mp4
 
 
 
-type=video
-name=The Humanity Bureau (2017) ENG WEB-DL.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/85xioeF08JX4iYRUNMlEPjJWrPl.jpg
-date=2017-11-13
-URL=https://www.blazefile.co/embed-wncdast3r4z6.html
-#https://openload.co/f/gEajQqD6N2c/The.Humanity.Bureau.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/NL95Kk2HLJA/the.humanity.bureau.2017.dvdrip.x264-sabena.mkv.mp4
+
 
 
 
@@ -1210,7 +1206,14 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/62oRA7ghxL9HGFHe5Dd9IVljyK
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
-
+type=video
+name=The Humanity Bureau (2017) ENG BDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/85xioeF08JX4iYRUNMlEPjJWrPl.jpg
+date=2018-03-17
+URL=https://openload.co/f/naLgj72tNpo/The.Humanity.Bureau.2017.BDRip.XviD.AC3-EVO.avi.mp4
+#https://www.blazefile.co/embed-wncdast3r4z6.html
+#https://openload.co/f/gEajQqD6N2c/The.Humanity.Bureau.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/NL95Kk2HLJA/the.humanity.bureau.2017.dvdrip.x264-sabena.mkv.mp4
 
 
 
@@ -1262,7 +1265,11 @@ URL=https://openload.co/f/phEBgPTbT-Y/Diamond_Cartel_2017_HDRip_%5BLayar-21.com%
 player=default
 rating=-1.00
 
-
+type=video
+name=Porto (2017) POR hc_eng_subs_seeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jsNrAJx3z1uzrw4Jg1XIvOl7Cv.jpg
+date=2018-03-17
+URL=https://openload.co/f/Le2oHMSCKPA/Porto_%282016%29_hc_eng_subs_seeHD.mp4
 
 type=video
 name=Racer and the Jailbird (2017) FRE bdrip.x264-sabena
@@ -1314,10 +1321,21 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-15
+date=2018-03-17
 URL=
 
 
+
+
+
+type=video
+name=The Vanishing of Sidney Hall (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg
+date=2018-03-17
+URL=https://openload.co/f/TSJu8ogTYts/the.vanishing.of.sidney.hall.2017.limited.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/XKYTYzmTcyc/the.vanishing.of.sidney.hall.2017.limited.720p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/oTh0hKKFjjI/The.Vanishing.of.Sidney.Hall.2017.1080p.WEB-DL.DD5.1.H.264.CRO-DIAMOND.mkv.mp4
+#https://openload.co/f/CPsV3ek6R3A/The.Vanishing.of.Sidney.Hall.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
 name=The Thousand Faces of Dunjia (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
@@ -1666,8 +1684,9 @@ URL=https://openload.co/f/PBN-_zE6S-Q/My.Entire.High.School.Sinking.Into.the.Sea
 type=video
 name=Elements of Matter (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlOhlzDk2ipG3A3tv7E0KfTO17F.jpg
-date=2018-02-24
-URL=https://openload.co/f/epMX-skKdQU/Elements.of.Matter.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-03-17
+URL=https://openload.co/f/kZxaz7zoNGU/Elements.Of.Matter.2018.1080p.Br_SeeHD.mp4
+#https://openload.co/f/epMX-skKdQU/Elements.of.Matter.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/0cz7Iqulcj4/Elements.of.Matter.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
@@ -3827,13 +3846,7 @@ URL=https://openload.co/f/c8eLd6i86i4/Lu_Over_the_Wall_2017_720p_BRRip_EngSubs_L
 
 
 
-type=video
-name=The Vanishing of Sidney Hall (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg
-date=2018-03-16
-URL=https://openload.co/f/XKYTYzmTcyc/the.vanishing.of.sidney.hall.2017.limited.720p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/oTh0hKKFjjI/The.Vanishing.of.Sidney.Hall.2017.1080p.WEB-DL.DD5.1.H.264.CRO-DIAMOND.mkv.mp4
-#https://openload.co/f/CPsV3ek6R3A/The.Vanishing.of.Sidney.Hall.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Keep Watching (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -3844,7 +3857,11 @@ URL=https://openload.co/f/ca-c-mH530I/Keep.Watching.2017.720p.BluRay.H264.AAC-RA
 #https://www.blazefile.co/embed-avo7yv4nrgxg.html   720
 #https://uptobox.com/r5b03zn2c193   720
 
-
+type=video
+name=The Real Estate (2018) [COLOR=FF00FF00]SWE BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WUAEwTxyHZpsH3cQxIv2jmMiXe.jpg
+date=2018-03-17
+URL=https://openload.co/f/gpWb9ZxgW_Q/The.Real.Estate.2018.720p.BluRay.x264-APVRAL.mkv.mp4
 
 
 
@@ -3860,7 +3877,7 @@ URL=https://openload.co/f/ca-c-mH530I/Keep.Watching.2017.720p.BluRay.H264.AAC-RA
 type=video
 name=
 thumb=
-date=2018-03-16
+date=2018-03-17
 URL=http://203.162.235.41:17819
 
 
@@ -4387,10 +4404,11 @@ URL=https://streamango.com/f/bbsnolefdeqrsdfs/The_Snowman_2017_
 
 
 type=video
-name=Wonderstruck (2017) ENG WEB-DL.H264.AC3-EVO
+name=Wonderstruck (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjDAt9K3FKU1itABgIXl6YvLsVE.jpg
-date=2018-01-02
-URL=https://openload.co/f/OwTj4TCUTw4/Wonderstruck.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2018-03-17
+URL=https://openload.co/f/owg6IDJ_Gy4/Wonderstruck.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/OwTj4TCUTw4/Wonderstruck.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 type=video
 name=Wonderstruck (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjDAt9K3FKU1itABgIXl6YvLsVE.jpg
