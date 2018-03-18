@@ -65,10 +65,11 @@ URL=
 
 
 type=video
-name=Tomb Raider (2018) ENG 720p_FULL_HDCAM_X264_HQMic-CPG_SeeHD
+name=Tomb Raider (2018) ENG New_SRC_720p_HDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
-date=2018-03-17
-URL=https://openload.co/f/0fZwGeHZlIo/Tomb_Raider_2018_720p_FULL_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
+date=2018-03-18
+URL=https://openload.co/f/ab7mVAR6iAw/Tomb_Raider_2018_New_SRC_720p_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/0fZwGeHZlIo/Tomb_Raider_2018_720p_FULL_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/yeIY9gwoqo8/Tom_Raider.2018.720p.HDCAM.X264-TomFaggot.mp4
 #https://openload.co/f/Vu6eBXghw74/Tomb.Raider.2018.ENG.HDCAM.XViD-AKOAM.avi.mp4
 

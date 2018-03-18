@@ -73,7 +73,7 @@ type=video
 name=Resident Evil: Vendetta (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/88qfHWhlOBYXp69277QFhdPYnWf.jpg
 date=2018-03-04
-URL==https://www.blazefile.co/embed-1c137z1c5f67.html
+URL=https://www.blazefile.co/embed-1c137z1c5f67.html
 type=video
 name=Resident Evil: Vendetta (2017)
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/88qfHWhlOBYXp69277QFhdPYnWf.jpg
