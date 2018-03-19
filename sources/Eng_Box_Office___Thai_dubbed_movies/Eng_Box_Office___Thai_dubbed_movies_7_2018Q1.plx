@@ -1322,12 +1322,36 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-17
+date=2018-03-19
 URL=
 
 
 
 
+type=video
+name=Center of My World (2016) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gXgSBF3baQsHqDuIcuEzWt71Gv.jpg
+date=2018-03-19
+URL=https://openload.co/f/vbRJNMuNeG4/Center.of.My.World.2016.1080p.BluRay.x264-SADPANDA.mkv.mp4
+
+type=video
+name=Suck Me Shakespeer (2013) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GSGg4McYID6Ld0OMwimLr1Zx4J.jpg
+date=2018-03-19
+URL=https://openload.co/f/svE9hcOaTFE/Suck_Me_Shakespeer_%282013%29.exq-fjgoehte-1080p.mkv.mp4
+
+type=video
+name=Suck Me Shakespeer 2 (2015) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jI6sIScJXMNyXxxloSfGqXckRj.jpg
+date=2018-03-19
+URL=https://openload.co/f/NVwHZuwd8k8/Suck_Me_Shakespeer_2_%282015%29.Fack.ju.Goehte.2.2015.German.1080p.BluRay.x264-CONTRiBUTiON.mkv.mp4
+
+type=video
+name=Suck Me Shakespeer 3 (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywCWnSOndFqq9nhE563hm15YQe0.jpg
+date=2018-03-19
+URL=https://openload.co/f/JWIbA4iSew0/suck.me.shakespeer.3.fack.ju.goehte.3.2017.german.1080p.bluray.x264-details.mkv.mp4
+#https://openload.co/f/uiThVVaEip8/suck.me.shakespeer.3.2017.1080p.bluray.x264-unveil.mkv   MKV8.7GB
 
 type=video
 name=The Vanishing of Sidney Hall (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1345,6 +1369,8 @@ date=2018-03-16
 URL=https://openload.co/f/UVWUzRVruHw/the.thousand.faces.of.dunjia.2017.1080p.bluray.x264-rovers.mkv.mp4
 #https://openload.co/f/w7Kh8KrD0oM/the.thousand.faces.of.dunjia.2017.720p.bluray.x264-rovers.mkv.mp4
 #https://openload.co/f/DjCF5SOqd_8/the.thousand.faces.of.dunjia.2017.1080p.bluray.x264-rovers.mkv   MKV7.9GB
+#https://www.blazefile.co/embed-58gwslrf01fm.html   720
+#https://uptobox.com/rxpltrdvri5x   720
 
 type=video
 name=Acts of Violence (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1643,8 +1669,10 @@ URL=https://www.blazefile.co/embed-vt3w9ijj6nm2.html
 type=video
 name=The Clapper (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsm2gxPoZDzG3ocTArrK8ak7go4.jpg
-date=2018-02-24
-URL=https://openload.co/f/twgdjo5vekw/the.clapper.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+date=2018-03-19
+URL=https://www.blazefile.co/embed-bigu4s0n7k3s.html
+#https://uptobox.com/esyoely5ejxz
+#https://openload.co/f/twgdjo5vekw/the.clapper.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/2MessDGhiOw/the.clapper.2017.1080p.bluray.dd5.1.hevc.x265.mkv   MKV911MB
 #https://openload.co/f/XJdHc1dFL5w/The.Clapper.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/SWvPKYclD4U/The.Clapper.2017.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -3864,7 +3892,11 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WUAEwTxyHZpsH3cQxIv2jmMiX
 date=2018-03-17
 URL=https://openload.co/f/gpWb9ZxgW_Q/The.Real.Estate.2018.720p.BluRay.x264-APVRAL.mkv.mp4
 
-
+type=video
+name=Dark Beacon (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1y3o9ERpyQkxfjNm2JyIJOG0Jbc.jpg
+date=2018-03-19
+URL=https://openload.co/f/-ItLTNis_bI/Dark.Beacon.2017.720p.BluRay.H264.AAC.H264.AAC-RARBG.mp4
 
 
 
