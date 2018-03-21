@@ -445,7 +445,7 @@ type=video
 name=SQTE-089 S-Cute Girl RANKINGS-2015 TOP10
 thumb=http://javsex.net/wp-content/uploads/2016/01/4394.jpg
 date=2018-02-05
-URL=http://videos.collectionofbestporn.com/videos/5/7/e/d/a/57edaa790874b_2.mp4?itag=22
+URL=http://185.216.140.23/032-hls/appid-4394/hls.m3u8
 
 
 type=video
