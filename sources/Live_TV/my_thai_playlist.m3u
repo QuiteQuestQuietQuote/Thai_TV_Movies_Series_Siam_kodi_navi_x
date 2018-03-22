@@ -34,11 +34,11 @@ http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3
 http://103.77.116.191:443/news/money_channel_480p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 
 
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24
+#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24_violin
 http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308360140120_600/chunklist.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV
+#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV_nation
 http://live.nationtv.tv/hls/ntv_th_sd.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV
+#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV_violin
 http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308498221057_600/chunklist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV_adintrend
 http://p0.adintrend.com:443/live/ch37/i/ch37i.m3u8
@@ -1871,7 +1871,7 @@ http://203.162.235.41:17804
 
 
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI_27
 http://27.254.64.112:1935/thflixCH/Discovery_Science.stream/chunklist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery Asia HD
 http://27.254.64.112:1935/thflixCH/Discovery_HD_World.stream/chunklist.m3u8
@@ -1890,7 +1890,7 @@ http://27.254.64.112:1935/thflixCH/BBC_Earth.stream/chunklist.m3u8
 
 
 
-#EXTINF:-1,Asian Food Channel
+#EXTINF:-1,Asian Food Channel_fifa
 http://www.fifa55-live.com/fifa55m-53/00_homeandfood_480p/chunklist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
 http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
@@ -1918,13 +1918,15 @@ https://www.fifa55-live.com/fifa55m-41/0x222_lifestylehd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_27
 http://27.254.64.112:1935/thflixCH/BBC_Earth.stream/chunklist.m3u8
 
-#EXTINF:-1,BBC Earth
+#EXTINF:-1,BBC Earth_KOR
 http://211.225.68.27:9981/stream/channelid/194526663?ticket=C2E798B19EA046AC8137F3CB2033722253682EF3&profile=pass
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL
 http://live4.netdesignhost.com/moneychannellive/moneychannellive/playlist.m3u8
 
+#EXTINF:-1 group-title="news" tvg-logo="http://iptv-mobion.vn/Files/Image/admin/2017/12/08/temp_4096267081535225.jpg",Channel News Asia
+http://xemtivi24.000webhostapp.com/iptv-mobion.php?id=channelnewsasia
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News US HD
 https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV

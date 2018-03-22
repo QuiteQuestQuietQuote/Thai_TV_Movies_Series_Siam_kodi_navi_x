@@ -223,17 +223,7 @@ URL=https://openload.co/f/FQMXMzXmjXY/Molly%27s_Game_2017_720p_HC_HDRip_SeeHD.mk
 #https://openload.co/f/J9sWRgUuroU/Mollys.Game.2017.HDCAM.READNFO.x264-DiRG.mp4
 #https://openload.co/f/P8Txe4VXgyc/Mollys.Game.2017.CAM.ENG.x264-NoGRP.MP4.mp4
 
-type=video
-name=Father Figures (2017) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEHOthoB2UqCIiUzhnHnLMXbRuJ.jpg
-date=2018-03-20
-URL=https://openload.co/f/NfMF7vHwNJA/Father.Figures.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/RLbJtbfUQXE/Father.Figures.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/IJzXyWq9yJc/Father_Figures_%282017%29_New_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/xdYQoRZAg0Y/Father.Figures.2017.New.HDCAM-X264-MP3-Zit.mkv.mp4
-#https://openload.co/f/OA737OU-0ZM/Father_Figures_2018.HDCAM.X264-PilaMaravilha.mkv.mp4
-#https://openload.co/f/TvUQXGJF3Vw/Father.Figures.2017.CAM.x264-NoGRP.mp4
-#https://openload.co/f/uIv1hZlRdGo/Father.Figures.2017.CAM.XViD-P2P.avi.mp4
+
 
 
 
@@ -1210,15 +1200,13 @@ URL=https://openload.co/f/naLgj72tNpo/The.Humanity.Bureau.2017.BDRip.XviD.AC3-EV
 #https://openload.co/f/gEajQqD6N2c/The.Humanity.Bureau.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/NL95Kk2HLJA/the.humanity.bureau.2017.dvdrip.x264-sabena.mkv.mp4
 
+
+
 type=video
-name=Permanent (2017) ENG BDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrRT7xHUakZoEi6wAp8SIdeMNux.jpg
-date=2018-03-21
-URL=https://openload.co/f/HGXxefY7W-k/Permanent.2017.BDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/4O_RiDAKuh0/Permanent.2017.720p.WEB-DL.MkvCage.mkv.mp4
-#https://openload.co/f/jA-VSI9yoE0/Permanent_2017_720p_WEB-DL_SeeHD.mkv.mp4
-
-
+name=Children Of The Corn: Runaway (2018) ENG BDRip.x264-ROVERS
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mibVNUTPTrF8pZeOgdUkkU21KXG.jpg
+date=2018-03-22
+URL=https://openload.co/f/RMBU-anIiRc/Children.of.the.Corn.Runaway.2018.BDRip.x264-ROVERS.mkv.mp4
 
 
 
@@ -1322,9 +1310,69 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-21
+date=2018-03-22
 URL=
 
+
+
+
+type=video
+name=Thinner (1996) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmnTIiRf3Nl5jhMlqLRXQY5msN6.jpg
+date=2018-03-22
+URL=https://openload.co/f/eLThOGyHDEI/Stephens.Kings.Thinner.1996.1080p.BluRay.x264-MOOVEE.mkv.mp4
+
+type=video
+name=Mist & the Maiden (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3Qn32kJStS15HIBqCBu2g9umI9.jpg
+date=2018-03-22
+URL=https://openload.co/f/qdDrn240MUA/Mist.And.The.Maiden.2017.MULTi.1080p.BluRay.x264-LOST.mkv.mp4
+
+type=video
+name=Permanent (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrRT7xHUakZoEi6wAp8SIdeMNux.jpg
+date=2018-03-22
+URL=https://openload.co/f/H1L9gusX3zU/Permanent.2017.1080p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/HGXxefY7W-k/Permanent.2017.BDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/4O_RiDAKuh0/Permanent.2017.720p.WEB-DL.MkvCage.mkv.mp4
+#https://openload.co/f/jA-VSI9yoE0/Permanent_2017_720p_WEB-DL_SeeHD.mkv.mp4
+
+type=video
+name=Mercy Christmas (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6s8emkS15KxQutXBdgZZlH523X4.jpg
+date=2018-03-22
+URL=https://openload.co/f/vvkRza4GXUI/Mercy.Christmas.2017.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
+#https://openload.co/f/9WkaqOXgmLI/Mercy.Christmas.2017.1080p.BluRay.x264.DTS-MT.mkv.mp4
+
+type=video
+name=Father Figures (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEHOthoB2UqCIiUzhnHnLMXbRuJ.jpg
+date=2018-03-22
+URL=https://openload.co/f/Y0FqUojybyY/Father.Figures.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/uCG57uRKUm4/father.figures.2017.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/NfMF7vHwNJA/Father.Figures.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/RLbJtbfUQXE/Father.Figures.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/IJzXyWq9yJc/Father_Figures_%282017%29_New_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/xdYQoRZAg0Y/Father.Figures.2017.New.HDCAM-X264-MP3-Zit.mkv.mp4
+#https://openload.co/f/OA737OU-0ZM/Father_Figures_2018.HDCAM.X264-PilaMaravilha.mkv.mp4
+#https://openload.co/f/TvUQXGJF3Vw/Father.Figures.2017.CAM.x264-NoGRP.mp4
+#https://openload.co/f/uIv1hZlRdGo/Father.Figures.2017.CAM.XViD-P2P.avi.mp4
+
+type=video
+name=Dark Beacon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1y3o9ERpyQkxfjNm2JyIJOG0Jbc.jpg
+date=2018-03-22
+URL=https://openload.co/f/6QGm9gzJlvQ/Dark.Beacon.2017.1080p.Br_SeeHD.mp4
+#https://www.blazefile.co/embed-us8qn8r6882o.html   720
+#https://uptobox.com/ct21ver4run7   720
+#https://openload.co/f/-ItLTNis_bI/Dark.Beacon.2017.720p.BluRay.H264.AAC.H264.AAC-RARBG.mp4
+
+type=video
+name=Gold (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYzPNgqA97qkUKx9o4S2ObaMzCl.jpg
+date=2018-03-22
+URL=https://openload.co/f/nC6DJfrjFbI/gold.2017.1080p.bluray.x264-bipolar.mkv.mp4
+#https://openload.co/f/Jsj5DpyZNjs/gold.2017.720p.bluray.x264-bipolar.mkv   mkv4.4mb
 
 type=video
 name=Control (2017) [COLOR=FF00FF00]DUT BR 1080p[/COLOR]
@@ -1355,6 +1403,7 @@ name=Film Stars Don't Die in Liverpool (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMsY5rxZOAg11dQDUbuN99AYqi6.jpg
 date=2018-03-21
 URL=https://openload.co/f/eOxjQP47nAY/Film.Stars.Dont.Die.in.Liverpool.2017.RERIP.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/NywrM2feqp4/Film.Stars.Dont.Die.in.Liverpool.2017.PROPER.1080p.Br_SeeHD.mp4
 #https://openload.co/f/CrgaXOx8Gz0/Film.Stars.Dont.Die.in.Liverpool.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://www.blazefile.co/embed-n2dhyyq4ahm9.html   720
 #https://uptobox.com/44szaizdr0va   720
@@ -1500,6 +1549,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bU5pSpQfXRmqDd6jthmP8iWJOj
 date=2018-03-10
 URL=https://www.blazefile.co/embed-e3c1o0cdcanb.html
 #https://uptobox.com/hx35uve7ru4m
+#https://openload.co/f/mBpNImwqSNQ/Paddington.2.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/YxEKxxIUFt8/Paddington.2.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
 #https://openload.co/f/pJxAMHU7hpQ/Paddington.2.2017.1080p.BluRay.x264-%5BbbYTS.AM%5D.mp4
 #https://openload.co/f/OUwN2l7g6Y8/Paddington.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -3916,13 +3966,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WUAEwTxyHZpsH3cQxIv2jmMiX
 date=2018-03-17
 URL=https://openload.co/f/gpWb9ZxgW_Q/The.Real.Estate.2018.720p.BluRay.x264-APVRAL.mkv.mp4
 
-type=video
-name=Dark Beacon (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1y3o9ERpyQkxfjNm2JyIJOG0Jbc.jpg
-date=2018-03-20
-URL=https://www.blazefile.co/embed-us8qn8r6882o.html
-#https://uptobox.com/ct21ver4run7
-#https://openload.co/f/-ItLTNis_bI/Dark.Beacon.2017.720p.BluRay.H264.AAC.H264.AAC-RARBG.mp4
+
 
 type=video
 name=Beast of Burden (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
