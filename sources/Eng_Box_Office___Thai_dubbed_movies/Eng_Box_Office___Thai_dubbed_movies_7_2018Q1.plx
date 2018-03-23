@@ -59,11 +59,19 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-03-21
+date=2018-03-23
 URL=
 
 
 
+
+type=video
+name=I Kill Giants (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuyAtPuBiKhsmXCAozfrFyMAdc4.jpg
+date=2018-03-23
+URL=https://openload.co/f/vtrcS29RnhE/I.Kill.Giants.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/dCDmN6NPscA/I.Kill.Giants.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/1U_HAEH24WM/I_Kill_Giants720pHD.WEB-DL_SeeHD.mp4
 
 type=video
 name=Pacific Rim: Uprising (2018) ENG HC_HDCAM_-_AKOAM_SeeHD
@@ -1202,11 +1210,7 @@ URL=https://openload.co/f/naLgj72tNpo/The.Humanity.Bureau.2017.BDRip.XviD.AC3-EV
 
 
 
-type=video
-name=Children Of The Corn: Runaway (2018) ENG BDRip.x264-ROVERS
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mibVNUTPTrF8pZeOgdUkkU21KXG.jpg
-date=2018-03-22
-URL=https://openload.co/f/RMBU-anIiRc/Children.of.the.Corn.Runaway.2018.BDRip.x264-ROVERS.mkv.mp4
+
 
 
 
@@ -1310,11 +1314,29 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-22
+date=2018-03-23
 URL=
 
 
 
+type=video
+name=25th Hour (2002) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hf3KpQ13Z8HS0ZodzooMiR8PBqD.jpg
+date=2018-03-23
+URL=https://openload.co/f/qheK0wZUm80/25th.Hour.2002.1080p.mp4
+#https://www.blazefile.co/embed-b20tiyj1yk5n.html   720
+
+type=video
+name=The Boy with the Topknot (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCzmWSws3VICpxlkGKQF1msyS0N.jpg
+date=2018-03-23
+URL=https://openload.co/f/cxLYbq1oMfo/the.boy.with.the.topknot.2017.1080p.bluray.x264-ghouls.mkv.mp4
+
+type=video
+name=Atlantic Rim: Resurrection (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVqH9t1rdcK7REAYvmkUsKFlLKc.jpg
+date=2018-03-23
+URL=https://openload.co/f/b0CSBLxnWQM/atlantic.rim.2.2018.1080p.bluray.x264-rusted.mkv.mp4
 
 type=video
 name=Thinner (1996) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3388,13 +3410,6 @@ date=2017-09-08
 URL=https://www.blazefile.co/embed-o86wrkdneofy.html
 #https://openload.co/f/KsfMzuMDqcs/Throne.of.Elves.2016.1080p.BluRay.x264-EXCLUDED.mp4
 
-type=video
-name=The Big Sick (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg
-date=2017-09-08
-URL=https://www.blazefile.co/embed-34nf3q8teggf.html
-#https://openload.co/f/Gvwx5fGYSwk/The_Big_Sick_%282017%29_%5B1080p%5D.X264.AC3-YIN.mkv.mp4
-#https://openload.co/f/EkvIdTd4RJw/The.Big.Sick.2017.1080p.BluRay.x264-Replica.mp4
 
 
 type=video
@@ -3990,6 +4005,18 @@ date=2018-03-21
 URL=https://openload.co/f/E83ROFOu10o/Will.You.Be.There.2016.KOREAN.720p.BluRay.x264.DTS-HDC.mkv.mp4
 #https://openload.co/f/5tzrooNxJmQ/Will.You.Be.There.2016.KOREAN.720p.BluRay.x264.DTS-HDC.mkv   mkv6.6GB
 
+type=video
+name=The Competition (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7DtOmvuptoZz4s0vdg7BcAWbDS.jpg
+date=2018-03-23
+URL=https://openload.co/f/ww1YD3ukZ50/The.Competition.2018.720p.Br_SeeHD.mp4
+
+type=video
+name=Children Of The Corn: Runaway (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mibVNUTPTrF8pZeOgdUkkU21KXG.jpg
+date=2018-03-23
+URL=https://openload.co/f/CVvdNht7yYY/Children.of.the.Corn.Runaway.2018.720p.BluRay.x264-ROVERS.mkv.mp4
+#https://openload.co/f/RMBU-anIiRc/Children.of.the.Corn.Runaway.2018.BDRip.x264-ROVERS.mkv.mp4
 
 
 type=video
@@ -4227,10 +4254,11 @@ URL=https://streamango.com/f/faknmfefssdmtdre/Maze_Runner_The_Death_Cure_2018_
 
 
 type=video
-name=12 Strong (2018) ENG NEW_720p_HDCAM_SeeHD
+name=12 Strong (2018) ENG 720p_HDCAM-X264-MP3-Cr%40zyTribal
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
-date=2018-03-21
-URL=https://openload.co/f/OqhUPsY6YcQ/12_Strong_2018_NEW_720p_HDCAM_SeeHD.mkv.mp4
+date=2018-03-23
+URL=https://openload.co/f/6wP070I20Xw/12_Strong_2018_ENG_720p_HDCAM-X264-MP3-Cr%40zyTribal.mkv.mp4
+#https://openload.co/f/OqhUPsY6YcQ/12_Strong_2018_NEW_720p_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/hVOiY8yxQWg/12.Strong.2017.CAM.XViD-CMRG.avi.mp4
 type=video
 name=12 Strong (2018) THCAM
@@ -5415,12 +5443,20 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-15
+date=2018-03-23
 URL=
 
 
-
-
+type=video
+name=Earth: One Amazing Day (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OKStVtpeptnfIgxXEyQubMMTey.jpg
+date=2018-03-23
+URL=https://openload.co/f/1fwvWPU9BOM/Earth.One.Amazing.Day.2017.720p.BluRay.H264.AAC-RARBG.mp4
+type=video
+name=Earth: One Amazing Day (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OKStVtpeptnfIgxXEyQubMMTey.jpg
+date=2018-03-23
+URL=https://streamango.com/f/csnqemnrlmkbdaml/Earth_One_Amazing_Day_2017_1_
 
 
 type=video
@@ -5480,12 +5516,7 @@ URL=https://streamango.com/f/lqeeoanftnbspesq/Insidious_The_Last_Key_2018_
 #https://streamango.com/f/qdbemflbepkodbkb/Insidious_The_Last_Key_2018_
 
 
-type=video
-name=Innocent Curse (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/llsZHq7epuam6cJdqQUCzaA6YxI.jpg
-date=2018-03-16
-URL=https://streamango.com/f/pbnfnftnekfstfkk/Innocent_Curse_2017_
-#https://streamango.com/f/cfemesplrkqedkna/Innocent_Curse_2017_
+
 
 type=video
 name=Pokémon the Movie: I Choose You! (2017) THCAM SOUND
@@ -5724,16 +5755,7 @@ URL=https://openload.co/f/Pv0JpdraClA/Paradox.2017.4K.2160p.WEB-DL.x264.AC-3.Tha
 
 
 
-type=video
-name=Revolt (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg
-date=2017-09-21
-URL=https://openload.co/f/5Mf1pnovBYY/Revolt.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
-type=video
-name=Revolt (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg
-date=2017-07-29
-URL=https://openload.co/f/a12f7DHdFHk/Revolt_%282017%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95.mp4
+
 
 
 type=video
@@ -5830,12 +5852,53 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-21
+date=2018-03-23
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
 
+type=video
+name=Shock Wave (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BP4SO45s7P9ucmDgANwfXUCVDw.jpg
+date=2018-03-23
+URL=https://openload.co/f/lowAsOS5eDY/Shock_Wave_%282017%29%E0%B8%84%E0%B8%99%E0%B8%84%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87.mp4
+
+
+type=video
+name=Revolt (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg
+date=2017-09-21
+URL=https://openload.co/f/5Mf1pnovBYY/Revolt.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+type=video
+name=Revolt (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg
+date=2018-03-23
+URL=https://openload.co/f/X3unWAmEBx0/Revolt_%282017%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95.mp4
+#https://openload.co/f/a12f7DHdFHk/Revolt_%282017%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95.mp4
+
+
+type=video
+name=The Big Sick (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg
+date=2017-09-08
+URL=https://www.blazefile.co/embed-34nf3q8teggf.html
+#https://openload.co/f/Gvwx5fGYSwk/The_Big_Sick_%282017%29_%5B1080p%5D.X264.AC3-YIN.mkv.mp4
+#https://openload.co/f/EkvIdTd4RJw/The.Big.Sick.2017.1080p.BluRay.x264-Replica.mp4
+type=video
+name=The Big Sick (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg
+date=2018-03-23
+URL=https://openload.co/f/yFDxSRZ7KmU/The_Big_Sick_%282017%29%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%A2_%28%E0%B8%8B%E0%B8%A7%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%29.mp4
+
+
+type=video
+name=Innocent Curse (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/llsZHq7epuam6cJdqQUCzaA6YxI.jpg
+date=2018-03-23
+URL=https://openload.co/f/2VP-4doy5cQ/Innocent_Curse_%282017%29%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9C%E0%B8%B5.mp4
+#https://streamango.com/f/pbnfnftnekfstfkk/Innocent_Curse_2017_
+#https://streamango.com/f/cfemesplrkqedkna/Innocent_Curse_2017_
 
 type=video
 name=Monkey King: Hero Is Back (2015) TH
