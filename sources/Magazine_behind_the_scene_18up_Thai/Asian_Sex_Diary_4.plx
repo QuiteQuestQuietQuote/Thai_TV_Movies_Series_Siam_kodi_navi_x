@@ -58,6 +58,87 @@ URL=
 
 
 
+
+
+
+
+
+
+
+type=video
+name=123xxxxxxxxxxxxxxxxxxxxAsian Sex Diary [Filipina Sex Diary] Shakira
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Shakira.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/lscsmncdnetesbnt/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Rose 2
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Rose-2.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/orrodtsdebklndbs/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Missy Shower
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Missy-Shower.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/ndlmlmkloqktskrk/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Vincenikki 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Vincenikki.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/meffkmqrrkdfseao/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Paula Laiza S Friend
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Paula-Laiza-S-Friend.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/pscreccsmobmlbrs/
+
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Zen
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Zen.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/nnblpksprddlfcpl/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Jopay
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Jopay.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/qfppmlkeqbratcsr/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Katrina Ann S Chubby Friend
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Katrina-Ann-S-Chubby-Friend.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/bcrkpbcatkennmks/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Wan
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Wan.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/odcnrcpbtpkbasso/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Rubi Wild Encounter 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Rubi-Wild-Encounter.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/pdkkeqbpssfbnoqf/
+
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Khia Felicty Morning
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Khia-Felicty-Morning.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/doaretfqmpnoarod/
+
+
+
+
+
+
+
 type=video
 name=112xxxxxxxxxxxxxxxxxxxxAsian Sex Diary [Filipina Sex Diary] Nhei 2 The Return 
 thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Asian-Sex-Diary-Filipina-Sex-Diary-Nhei-2-The-Return.jpg

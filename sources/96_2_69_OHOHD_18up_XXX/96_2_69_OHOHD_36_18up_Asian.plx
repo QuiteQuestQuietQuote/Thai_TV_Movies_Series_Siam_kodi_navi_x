@@ -56,6 +56,73 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=159xxxxxxxxxxxxxxxxxxxxA Sexual Education Of A Beautiful And Irritating Lady 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/A-Sexual-Education-Of-A-Beautiful-And-Irritating-Lady-2-2017.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/ceepsrctmokffedf/
+
+type=video
+name=Dirty Complex Estate Wife (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Dirty-Complex-Estate-Wife-2017.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/foccbootanrcnllq/
+
+type=video
+name=Jugansilhwa (2001)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Jugansilhwa-2001.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/kqmnsmqrtqactafl/
+
+type=video
+name=Susanghan Jinlyosil Eommachinguui Teugbyeolhan Chilyo (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Susanghan-Jinlyosil-Eommachinguui-Teugbyeolhan-Chilyo-2017.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/cattrmqcdknbnren/
+
+type=video
+name=Sex In The Game (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Sex-In-The-Game-2017.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/oaobelafafpktacr/
+
+
+type=video
+name=Oxtutono Sinnyuutono Saikai (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Oxtutono-Sinnyuutono-Saikai-2016.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/fbrnknnplblelfee/
+
+type=video
+name=Charming Consultants Of Marriage Agency (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Charming-Consultants-Of-Marriage-Agency-2017.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/nlrnllkefbcarqee/
+
+type=video
+name=Naettal Ajjilhan Dong Geo (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Naettal-Ajjilhan-Dong-Geo-2018.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/rpcnnllbtemrodrk/
+
+type=video
+name=Wife Of The Neighbor’s Nobra (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Wife-Of-The-Neighbors-Nobra-2016.jpg
+date=2018-03-23
+URL=https://streamcherry.com/embed/aepslplrdpranrer/
+
+
+
+
+
+
+
+
+
 type=video
 name=150xxxxxxxxxxxxxxxxxxxxProstitution Default (1997) 
 thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Prostitution-Default-1997.jpg
