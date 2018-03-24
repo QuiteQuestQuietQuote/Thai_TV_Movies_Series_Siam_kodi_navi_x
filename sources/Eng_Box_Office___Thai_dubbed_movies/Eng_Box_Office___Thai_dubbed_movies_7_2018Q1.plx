@@ -66,18 +66,22 @@ URL=
 
 
 type=video
-name=I Kill Giants (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+name=I Kill Giants (2018) ENG 1080p_WEB_DL_DD5_1_H264_CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuyAtPuBiKhsmXCAozfrFyMAdc4.jpg
-date=2018-03-23
-URL=https://openload.co/f/vtrcS29RnhE/I.Kill.Giants.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2018-03-24
+URL=https://openload.co/f/SYhcD0EeGRU/I_Kill_Giants_2017_1080p_WEB_DL_DD5_1_H264_CMRG.mp4
+#https://openload.co/f/4V0YxSgSkWs/I_Kill_Giants720pHD.WEB-DL_SeeHD.mp4
+#https://openload.co/f/vtrcS29RnhE/I.Kill.Giants.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/dCDmN6NPscA/I.Kill.Giants.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/1U_HAEH24WM/I_Kill_Giants720pHD.WEB-DL_SeeHD.mp4
 
 type=video
-name=Pacific Rim: Uprising (2018) ENG HC_HDCAM_-_AKOAM_SeeHD
+name=Pacific Rim: Uprising (2018) ENG NEW_HDCAM_2D_X264_HQMic-CPG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
-date=2018-03-21
-URL=https://openload.co/f/Ugx9be0SomQ/Pacific_Rim__Uprising_2018_HC_HDCAM_-_AKOAM_SeeHD.avi.mp4
+date=2018-03-24
+URL=https://openload.co/f/G_bzG6nas54/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/At_l9Qy_hUw/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG.mp4
+#https://openload.co/f/Ugx9be0SomQ/Pacific_Rim__Uprising_2018_HC_HDCAM_-_AKOAM_SeeHD.avi.mp4
 
 type=video
 name=The Strangers: Prey at Night (2018) RUS Pk.TS.E
@@ -86,10 +90,11 @@ date=2018-03-20
 URL=https://openload.co/f/4gpOCH3Sy0k/The.Stranger.Prey.at.Night.2018.Pk.TS.E.mp4
 
 type=video
-name=A Wrinkle in Time (2018) ESP 720p.HDCAM.E
+name=A Wrinkle in Time (2018) ENG 720p_HD-TS_X264_Mr-Hive_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSb6B7pwiZbW7In6juYEYjZ4Bsw.jpg
-date=2018-03-13
-URL=https://openload.co/f/trkMR5Jm9Aw/A.Wrinkle.in.Time.2018.720p.HDCAM.E.mp4
+date=2018-03-24
+URL=https://openload.co/f/QF_HI0-frlo/A_Wrinkle_in_Time_2018_720p_HD-TS_X264_Mr-Hive_SeeHD.mkv.mp4
+#https://openload.co/f/trkMR5Jm9Aw/A.Wrinkle.in.Time.2018.720p.HDCAM.E.mp4
 
 type=video
 name=10x10 (2018) ENG 720p.WEB-DL.X264.AC3-EVO
@@ -187,14 +192,7 @@ URL=https://openload.co/f/9xfp6WPIibY/The_Clapper.2017.720p.WEB-DL.XviD.AC3-FGT.
 
 
 
-type=video
-name=Proud Mary (2018) ENG NEW_HD-TS_X264-CPG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5luceoVMU2FzWuyty7mZFcSY5ZW.jpg
-date=2018-01-24
-URL=https://openload.co/f/ASjDSaABhRk/Proud_Marry_2018_NEW_HD-TS_X264-CPG.mkv
-#https://openload.co/f/lufCvF3aNfE/Proud.Mary.2018.TS.XViD-BL4CKP34RL.avi.mp4
-#https://openload.co/f/UQh_JknDYSc/PROUD_MARY_CAMRIP_DVDKing.mp4
-#https://openload.co/f/631orZ24xIw/Proud.Mary_CAMRIP.mp4
+
 
 
 
@@ -235,20 +233,7 @@ URL=https://openload.co/f/FQMXMzXmjXY/Molly%27s_Game_2017_720p_HC_HDRip_SeeHD.mk
 
 
 
-type=video
-name=The Greatest Showman (2017)  ENG 1080p.WEB-DL.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfhztJRiElqmYW4kpvjYe1gENsD.jpg
-date=2018-03-20
-URL=https://openload.co/f/99DSySUDK78/The.Greatest.Showman.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/YGwwX8Xa6bs/The.Greatest.Showman.2017.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
-#https://openload.co/f/UwmRb6ABXiU/The_Greatest_Showman_2017_720p_WEB-DL_SeeHD.mkv.mp4
-#https://openload.co/f/lCFBoodf6EQ/The.Greatest.Showman.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/yOA_40FWzCw/The.Greatest.Showman.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/iuirsA-k0sk/The.Greatest.Showman.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/SNCwiigOC4Y/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv
-#https://openload.co/f/O708OmzRzsE/The_Greatest_Showman_2017_HDCAM_V.2_ENG_X264-DADDY.mkv.mp4
-#https://openload.co/f/A-NUvRiEbTE/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv.mp4
-#https://openload.co/f/pEHfMHoX0xc/The.Greatest.Showman.2017.RUSSIAN.LANG.CAM.MoViE1K.mp4
+
 
 
 
@@ -362,10 +347,16 @@ URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.
 type=video
 name=
 thumb=
-date=2018-02-19
+date=2018-03-24
 URL=
 
 
+
+type=video
+name=Bilal: A New Breed of Hero (2015) ARB HD.720P.ENG.SUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQFwkuUAYn112Q6RfISOgHx9Uiv.jpg
+date=2018-03-24
+URL=https://openload.co/f/loZZx4EAsiI/Bilal.A.New.Breed.of.Hero.2015.HD.720P.ENG.SUB.mp4
 
 type=video
 name=Wunderland (2018) ENG 1080p.WEB-DL.AAC.H264-CMRG
@@ -1319,6 +1310,37 @@ URL=
 
 
 
+
+
+type=video
+name=The Greatest Showman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfhztJRiElqmYW4kpvjYe1gENsD.jpg
+date=2018-03-24
+URL=https://openload.co/f/hg07JTlCAhE/the.greatest.showman.2017.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/yXNUyf611nA/the.greatest.showman.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/0V3HwGp1z7I/The.Greatest.Showman.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/99DSySUDK78/The.Greatest.Showman.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/YGwwX8Xa6bs/The.Greatest.Showman.2017.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/UwmRb6ABXiU/The_Greatest_Showman_2017_720p_WEB-DL_SeeHD.mkv.mp4
+#https://openload.co/f/lCFBoodf6EQ/The.Greatest.Showman.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/yOA_40FWzCw/The.Greatest.Showman.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/iuirsA-k0sk/The.Greatest.Showman.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/SNCwiigOC4Y/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv
+#https://openload.co/f/O708OmzRzsE/The_Greatest_Showman_2017_HDCAM_V.2_ENG_X264-DADDY.mkv.mp4
+#https://openload.co/f/A-NUvRiEbTE/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv.mp4
+#https://openload.co/f/pEHfMHoX0xc/The.Greatest.Showman.2017.RUSSIAN.LANG.CAM.MoViE1K.mp4
+
+type=video
+name=Proud Mary (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5luceoVMU2FzWuyty7mZFcSY5ZW.jpg
+date=2018-03-24
+URL=https://openload.co/f/wveKLJaGDgU/proud.mary.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/QrO1I5KctjU/Proud.Mary.2018.720p.BR_SeeHD.mp4
+#https://openload.co/f/ASjDSaABhRk/Proud_Marry_2018_NEW_HD-TS_X264-CPG.mkv
+#https://openload.co/f/lufCvF3aNfE/Proud.Mary.2018.TS.XViD-BL4CKP34RL.avi.mp4
+#https://openload.co/f/UQh_JknDYSc/PROUD_MARY_CAMRIP_DVDKing.mp4
+#https://openload.co/f/631orZ24xIw/Proud.Mary_CAMRIP.mp4
+
 type=video
 name=25th Hour (2002) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hf3KpQ13Z8HS0ZodzooMiR8PBqD.jpg
@@ -1628,19 +1650,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/VFq733NwXqk44Wrlmplx1CKL5I
 date=2018-03-06
 URL=https://openload.co/f/yS_D7pWR9Go/the.midnight.man.2016.1080p.bluray.x264-rusted.mkv.mp4
 
-type=video
-name=Downsizing (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
-date=2018-03-08
-URL=https://www.blazefile.co/embed-cunn2s8byvp6.html
-#https://uptobox.com/o53cmekouwn9
-#https://openload.co/f/B9N2TvEo9V8/downsizing.2017.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/Ji-H7B-d_jE/Downsizing.2017.1080p.Br_SeeHD.mp4
-#https://openload.co/f/Bt8PfwrbkwY/Downsizing.2017.720p.Br_SeeHD.mp4
-#https://openload.co/f/-yKYDG-0yO4/Downsizing.2017.720p.Bluray.x264-Geckos.mkv.mp4
-#https://openload.co/f/HFErJ2kdTP0/Downsizing.2017.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
-#https://openload.co/f/FnpHjO5a37w/Downsizing.2017.TS.XViD-BL4CKP34RL.avi.mp4
-#https://openload.co/f/H8IXHlo5aCk/Downsizing.2017.CLEAN.720p.HDCAM.x264.AAC-NEXUS.mp4
+
 
 type=video
 name=Braven (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2547,13 +2557,7 @@ date=2018-01-06
 URL=https://uptobox.com/jk4w1rbajjd4
 #https://openload.co/f/2h8cg_3MBuo/Tad_the_Lost_Explorer_and_the_Secret_of_King_Midas.2017.1080p.Bluray.X264-EVO.mkv.mp4
 
-type=video
-name=Veronica (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/koFWKftn4MQMuWySBkLfRQzxxrB.jpg
-date=2018-01-03
-URL=https://uptobox.com/tyxs4sjyp2fr
-#https://openload.co/f/gioAiDvDxIQ/Veronica.2017.1080p.Br_SeeHD.mp4
-#https://openload.co/f/GW0Gh90QL7A/Veronica.2017.1080p.Br_SeeHD.mp4
+
 
 type=video
 name=November Criminals (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4018,11 +4022,19 @@ date=2018-03-23
 URL=https://openload.co/f/CVvdNht7yYY/Children.of.the.Corn.Runaway.2018.720p.BluRay.x264-ROVERS.mkv.mp4
 #https://openload.co/f/RMBU-anIiRc/Children.of.the.Corn.Runaway.2018.BDRip.x264-ROVERS.mkv.mp4
 
+type=video
+name=Peace Breaker (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Uje4tPPipTK58x2hNkJobnSHL.jpg
+date=2018-03-24
+URL=https://openload.co/f/lEe0zST-g6w/Peace.Breaker.2017.CHINESE.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
+
+
+
 
 type=video
 name=
 thumb=
-date=2018-03-21
+date=2018-03-24
 URL=http://203.162.235.41:17819
 
 
@@ -4113,10 +4125,11 @@ URL=https://streamango.com/f/pbemkasrmnlorfdt/Tomb_Raider_2018_
 
 
 type=video
-name=The Hurricane Heist (2018) ENG HDCAM.X264-VemMeChupar
+name=The Hurricane Heist (2018) ENG HDCAM_ENG_X264_CPG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
-date=2018-03-11
-URL=https://openload.co/f/8YJOvr2Krpk/The_Hurricane_Heist_2018.HDCAM.X264-VemMeChupar.mp4
+date=2018-03-24
+URL=https://openload.co/f/gZ7_RC7JhXw/The_Hurricane_Heist_2018_HDCAM_ENG_X264_CPG.mp4
+#https://openload.co/f/8YJOvr2Krpk/The_Hurricane_Heist_2018.HDCAM.X264-VemMeChupar.mp4
 type=video
 name=The Hurricane Heist (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
@@ -4146,10 +4159,13 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 
 
 type=video
-name=All the Money in the World (2017) ENG CAM_SeeHD
+name=All the Money in the World (2017)  [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
-date=2018-01-24
-URL=https://openload.co/f/F76f7gqp9_Y/All.the.Money.in.the.World.2017.CAM_SeeHD.mp4
+date=2018-03-24
+URL=https://openload.co/f/Z_3OJ8oXOhM/all.the.money.in.the.world.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/L04zHRrVq1Y/all.the.money.in.the.world.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/3lctfM8mNPY/All.The.Money.In.The.World.2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/F76f7gqp9_Y/All.the.Money.in.the.World.2017.CAM_SeeHD.mp4
 #https://openload.co/f/Lefs8BNw8P0/All.the.Money.in.the.World.2017.HDCAM.x264-DiRG.mp4
 #https://openload.co/f/T0HIxal98u0/All.the.Money.in.the.World.2017.CAM.AAC.x264-THESTiG.mp4
 type=video
@@ -4385,11 +4401,62 @@ URL=https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0
 type=video
 name=
 thumb=
-date=2018-03-12
+date=2018-03-24
 URL=
 
 
 
+type=video
+name=Downsizing (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
+date=2018-03-08
+URL=https://www.blazefile.co/embed-cunn2s8byvp6.html
+#https://uptobox.com/o53cmekouwn9
+#https://openload.co/f/B9N2TvEo9V8/downsizing.2017.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/Ji-H7B-d_jE/Downsizing.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/Bt8PfwrbkwY/Downsizing.2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/-yKYDG-0yO4/Downsizing.2017.720p.Bluray.x264-Geckos.mkv.mp4
+#https://openload.co/f/HFErJ2kdTP0/Downsizing.2017.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
+#https://openload.co/f/FnpHjO5a37w/Downsizing.2017.TS.XViD-BL4CKP34RL.avi.mp4
+#https://openload.co/f/H8IXHlo5aCk/Downsizing.2017.CLEAN.720p.HDCAM.x264.AAC-NEXUS.mp4
+type=video
+name=Downsizing (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
+date=2018-03-24
+URL=https://streamango.com/f/fpfpdmrkderbnere/Downsizing_2017_
+
+
+type=video
+name=Benji (2018) ENG 1080p.webrip.x264-webtiful
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/79pacM3h5FoETnfuRC6O2qPfzn4.jpg
+date=2018-03-24
+URL=https://openload.co/f/f0_AFVp9Evc/benji.2018.1080p.webrip.x264-webtiful.mkv.mp4
+type=video
+name=Benji (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/79pacM3h5FoETnfuRC6O2qPfzn4.jpg
+date=2018-03-24
+URL=https://streamango.com/f/mempqlacsatldqns/Benji_2018_
+
+
+type=video
+name=Steel Rain (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qObdapVVdZHlJTOGQTTQ23A7TTw.jpg
+date=2018-03-24
+URL=https://streamango.com/f/kontfblmkamtpnck/Steel_Rain_2017_
+
+
+type=video
+name=Veronica (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/koFWKftn4MQMuWySBkLfRQzxxrB.jpg
+date=2018-01-03
+URL=https://uptobox.com/tyxs4sjyp2fr
+#https://openload.co/f/gioAiDvDxIQ/Veronica.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/GW0Gh90QL7A/Veronica.2017.1080p.Br_SeeHD.mp4
+type=video
+name=Veronica (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/koFWKftn4MQMuWySBkLfRQzxxrB.jpg
+date=2018-03-24
+URL=https://streamango.com/f/sfcpalodbtpbqmpr/Veronica_2017_
 
 
 type=video
