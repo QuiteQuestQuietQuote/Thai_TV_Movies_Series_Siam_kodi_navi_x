@@ -59,11 +59,17 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-03-23
+date=2018-03-25
 URL=
 
 
 
+
+type=video
+name=Sherlock Gnomes (2018) ENG HDCAM_X264_AC3-Bang
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHdf2wRgCSp9MrZRryikiZIH6jB.jpg
+date=2018-03-25
+URL=https://openload.co/f/aCDwq_C0Py8/Sherlock_Gnomes_2018_HDCAM_X264_AC3-Bang.mp4
 
 type=video
 name=I Kill Giants (2018) ENG 1080p_WEB_DL_DD5_1_H264_CMRG
@@ -90,10 +96,11 @@ date=2018-03-20
 URL=https://openload.co/f/4gpOCH3Sy0k/The.Stranger.Prey.at.Night.2018.Pk.TS.E.mp4
 
 type=video
-name=A Wrinkle in Time (2018) ENG 720p_HD-TS_X264_Mr-Hive_SeeHD
+name=A Wrinkle in Time (2018) ENG NOLOGO_720p_HD-TS_X264_Mr-Hive
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSb6B7pwiZbW7In6juYEYjZ4Bsw.jpg
-date=2018-03-24
-URL=https://openload.co/f/QF_HI0-frlo/A_Wrinkle_in_Time_2018_720p_HD-TS_X264_Mr-Hive_SeeHD.mkv.mp4
+date=2018-03-25
+URL=https://openload.co/f/mmEc4IOPpxw/A_Wrinkle_in_Time_2018_NOLOGO_720p_HD-TS_X264_Mr-Hive.mp4
+#https://openload.co/f/QF_HI0-frlo/A_Wrinkle_in_Time_2018_720p_HD-TS_X264_Mr-Hive_SeeHD.mkv.mp4
 #https://openload.co/f/trkMR5Jm9Aw/A.Wrinkle.in.Time.2018.720p.HDCAM.E.mp4
 
 type=video
@@ -1305,18 +1312,31 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-23
+date=2018-03-25
 URL=
 
 
 
+type=video
+name=A Beginner's Guide to Snuff (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kv0i6XqUULBcgCHwXedZZulOPyv.jpg
+date=2018-03-25
+URL=https://openload.co/f/Aed_C4nTkMM/a.beginners.guide.to.snuff.2016.1080p.bluray.x264-getit.mkv.mp4
 
+type=video
+name=The Silence of the Lambs (1991) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjAyTj2BSth1EQ89vNfo0JYVPFN.jpg
+date=2018-03-25
+URL=https://openload.co/f/WlQlW0OQwE0/The.Silence.of.the.Lambs.1991.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/4zq7yb6ycxoy   720
 
 type=video
 name=The Greatest Showman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfhztJRiElqmYW4kpvjYe1gENsD.jpg
-date=2018-03-24
-URL=https://openload.co/f/hg07JTlCAhE/the.greatest.showman.2017.1080p.bluray.x264-sparks.mkv.mp4
+date=2018-03-25
+URL=https://www.blazefile.co/embed-6dvmihtjvbte.html
+#https://uptobox.com/0c2n7iw34tnd
+#https://openload.co/f/hg07JTlCAhE/the.greatest.showman.2017.1080p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/yXNUyf611nA/the.greatest.showman.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/0V3HwGp1z7I/The.Greatest.Showman.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/99DSySUDK78/The.Greatest.Showman.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
@@ -1333,8 +1353,10 @@ URL=https://openload.co/f/hg07JTlCAhE/the.greatest.showman.2017.1080p.bluray.x26
 type=video
 name=Proud Mary (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5luceoVMU2FzWuyty7mZFcSY5ZW.jpg
-date=2018-03-24
-URL=https://openload.co/f/wveKLJaGDgU/proud.mary.2018.1080p.bluray.x264-geckos.mkv.mp4
+date=2018-03-25
+URL=https://www.blazefile.co/embed-7padbbo1cbyw.html
+#https://uptobox.com/krbjpdl4obks
+#https://openload.co/f/wveKLJaGDgU/proud.mary.2018.1080p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/QrO1I5KctjU/Proud.Mary.2018.720p.BR_SeeHD.mp4
 #https://openload.co/f/ASjDSaABhRk/Proud_Marry_2018_NEW_HD-TS_X264-CPG.mkv
 #https://openload.co/f/lufCvF3aNfE/Proud.Mary.2018.TS.XViD-BL4CKP34RL.avi.mp4
@@ -1417,6 +1439,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYzPNgqA97qkUKx9o4S2ObaMzC
 date=2018-03-22
 URL=https://openload.co/f/nC6DJfrjFbI/gold.2017.1080p.bluray.x264-bipolar.mkv.mp4
 #https://openload.co/f/Jsj5DpyZNjs/gold.2017.720p.bluray.x264-bipolar.mkv   mkv4.4mb
+#https://www.blazefile.co/embed-5b97blg8t1a2.html   720
+#https://uptobox.com/oymmbrskvqn7   720
 
 type=video
 name=Control (2017) [COLOR=FF00FF00]DUT BR 1080p[/COLOR]
@@ -4168,6 +4192,8 @@ URL=https://openload.co/f/Z_3OJ8oXOhM/all.the.money.in.the.world.2017.1080p.blur
 #https://openload.co/f/F76f7gqp9_Y/All.the.Money.in.the.World.2017.CAM_SeeHD.mp4
 #https://openload.co/f/Lefs8BNw8P0/All.the.Money.in.the.World.2017.HDCAM.x264-DiRG.mp4
 #https://openload.co/f/T0HIxal98u0/All.the.Money.in.the.World.2017.CAM.AAC.x264-THESTiG.mp4
+#https://www.blazefile.co/embed-14aetj21xzye.html   720
+#https://uptobox.com/17e1drzt72hh   720
 type=video
 name=All the Money in the World (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
@@ -5596,8 +5622,10 @@ URL=https://streamango.com/f/pkodrrnnoneoretr/Pok_mon_the_Movie_I_Choose_You_201
 type=video
 name=Guardians of the Tomb (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca799tQJwj4lkkQpBdXohlvEtuQ.jpg
-date=2018-03-21
-URL=https://openload.co/f/QJN6UNFeN78/Guardians.of.the.Tomb.2018.720p.BluRay.x264-VETO.mkv.mp4
+date=2018-03-25
+URL=https://www.blazefile.co/embed-vsnewp09wdja.html
+#https://uptobox.com/8wftr0zbtwle
+#https://openload.co/f/QJN6UNFeN78/Guardians.of.the.Tomb.2018.720p.BluRay.x264-VETO.mkv.mp4
 type=video
 name=Guardians of the Tomb (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca799tQJwj4lkkQpBdXohlvEtuQ.jpg

@@ -15,6 +15,8 @@
 
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-m0CQiNgIFsE/WdLYrwlVJvI/AAAAAAAAAGQ/LN6pm_WcDJ49YL-0K_ytg9L2yWfZw4r6ACLcBGAs/s200/009.png",Spring News (Full HD)
 http://122.155.184.11/T1457077260/ngrp:livestream_all/chunklist_w1537817334_b3628000.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24_fifa55
 http://www.fifa55-live.com/fifa55m-53/00_tnn24_480p/playlist.m3u8
@@ -22,8 +24,6 @@ http://www.fifa55-live.com/fifa55m-53/00_tnn24_480p/playlist.m3u8
 http://www.fifa55-live.com/fifa55m-53/00_nation_480p/playlist.m3u8
 
 
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL
 http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-m0CQiNgIFsE/WdLYrwlVJvI/AAAAAAAAAGQ/LN6pm_WcDJ49YL-0K_ytg9L2yWfZw4r6ACLcBGAs/s200/009.png",Spring News (Full HD)
@@ -1871,18 +1871,8 @@ http://203.162.235.41:17804
 
 
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI_27
-http://27.254.64.112:1935/thflixCH/Discovery_Science.stream/chunklist.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery Asia HD
-http://27.254.64.112:1935/thflixCH/Discovery_HD_World.stream/chunklist.m3u8
-#EXTINF:-1,Samrujlok
-http://27.254.64.112:1935/thflixCH/Samrujlok.stream/chunklist.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",Nat Geo People HD
-http://27.254.64.112:1935/thflixCH/NATGEO_PEOPLE.stream/playlist.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",asian_food_channel
-http://27.254.64.112:1935/thflixCH/Asian_Food_Channel.stream/chunklist.m3u8
-#EXTINF:-1,BBC Life Style_27
-http://27.254.64.112:1935/thflixCH/BBC_Life_Style.stream/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD
 http://27.254.64.112:1935/thflixCH/BBC_Earth.stream/chunklist.m3u8
 
@@ -1915,24 +1905,42 @@ https://www.fifa55-live.com/fifa55m-136/00_homeandfood_480p/chunklist.m3u8
 #EXTINF:-1,BBC Life Style_fifa55
 https://www.fifa55-live.com/fifa55m-41/0x222_lifestylehd_720p/chunklist.m3u8
 
+
+
+
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI_27
+http://27.254.64.112:1935/thflixCH/Discovery_Science.stream/chunklist.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery Asia HD
+http://27.254.64.112:1935/thflixCH/Discovery_HD_World.stream/chunklist.m3u8
+#EXTINF:-1,Samrujlok
+http://27.254.64.112:1935/thflixCH/Samrujlok.stream/chunklist.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",Nat Geo People HD
+http://27.254.64.112:1935/thflixCH/NATGEO_PEOPLE.stream/playlist.m3u8
+#EXTINF:-1,BBC Life Style_27
+http://27.254.64.112:1935/thflixCH/BBC_Life_Style.stream/chunklist.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",asian_food_channel
+http://27.254.64.112:1935/thflixCH/Asian_Food_Channel.stream/chunklist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_27
 http://27.254.64.112:1935/thflixCH/BBC_Earth.stream/chunklist.m3u8
+
 
 #EXTINF:-1,BBC Earth_KOR
 http://211.225.68.27:9981/stream/channelid/194526663?ticket=C2E798B19EA046AC8137F3CB2033722253682EF3&profile=pass
 
 
-#EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL
-http://live4.netdesignhost.com/moneychannellive/moneychannellive/playlist.m3u8
+
 
 #EXTINF:-1 group-title="news" tvg-logo="http://iptv-mobion.vn/Files/Image/admin/2017/12/08/temp_4096267081535225.jpg",Channel News Asia
 http://xemtivi24.000webhostapp.com/iptv-mobion.php?id=channelnewsasia
-#EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News US HD
-https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png",NHK WORLD HD
 http://203.162.235.41:17801
+#EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+
+#EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL
+http://live4.netdesignhost.com/moneychannellive/moneychannellive/playlist.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News US HD
+https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC
 http://203.162.235.41:17819
 
