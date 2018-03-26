@@ -1868,7 +1868,10 @@ http://203.162.235.41:17803
 http://203.162.235.41:17818
 #EXTINF:-1,JAPAN 1
 http://203.162.235.41:17804
-
+#EXTINF:-1,BBC Earth_KOR
+http://59.1.250.62:9981/stream/channelid/2046960515
+#EXTINF:-1,BBC Earth_KOR
+http://59.1.250.62:9981/stream/channelid/157194478
 
 
 

@@ -1312,10 +1312,44 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-25
+date=2018-03-26
 URL=
 
 
+type=video
+name=Children Of The Corn: Runaway (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mibVNUTPTrF8pZeOgdUkkU21KXG.jpg
+date=2018-03-26
+URL=https://www.blazefile.co/embed-5q4p06r90i7x.html
+#https://uptobox.com/izndfvblv721
+#https://openload.co/f/CVvdNht7yYY/Children.of.the.Corn.Runaway.2018.720p.BluRay.x264-ROVERS.mkv.mp4
+#https://openload.co/f/RMBU-anIiRc/Children.of.the.Corn.Runaway.2018.BDRip.x264-ROVERS.mkv.mp4
+
+type=video
+name=GoodFellas (1990) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAPeXBdGDGmXRPj4OZZ0poH65Iu.jpg
+date=2018-03-26
+URL=https://openload.co/f/TVlQzD6bL6U/Goodfellas_-_Remastered_Feature.1080p.BluRay.2017_%281990%29
+
+type=video
+name=Solace (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MkNIKVZxYkga4208RXdRZ76zjf.jpg
+date=2018-03-26
+URL=https://openload.co/f/qqXX3zqUqiA/Solace.2015.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Gauguin : Voyage de Tahiti (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkA7kDBjXWth6DzGVqOIkwjQQKZ.jpg
+date=2018-03-26
+URL=https://openload.co/f/81rUSrRtLTM/Gauguin.2017.FRENCH.1080p.BluRay.x264-worldmkv.mkv.mp4
+
+type=video
+name=Mary and the Witch's Flower (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQPujyTaD4F8P9NQZwls6gYjR3L.jpg
+date=2018-03-26
+URL=https://openload.co/f/iJ4CO7oAIRc/mary.and.the.witchs.flower.2017.1080p.bluray.x264-haiku.mkv.mp4
+#https://openload.co/f/g52oCe_L81g/mary.and.the.witchs.flower.2017.720p.bluray.x264-haiku.mkv.mp4
+#https://openload.co/f/ufNZy9F1oA8/mary.and.the.witchs.flower.2017.720p.bluray.x264-haiku.mkv   MKV3.3GB
 
 type=video
 name=A Beginner's Guide to Snuff (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1413,8 +1447,10 @@ URL=https://openload.co/f/vvkRza4GXUI/Mercy.Christmas.2017.1080p.BluRay.x264.DTS
 type=video
 name=Father Figures (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEHOthoB2UqCIiUzhnHnLMXbRuJ.jpg
-date=2018-03-22
-URL=https://openload.co/f/Y0FqUojybyY/Father.Figures.2017.1080p.BR_SeeHD.mp4
+date=2018-03-26
+URL=https://www.blazefile.co/embed-k8m6irotgqd6.html
+#https://uptobox.com/o7sbi71vtyko
+#https://openload.co/f/Y0FqUojybyY/Father.Figures.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/uCG57uRKUm4/father.figures.2017.1080p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/NfMF7vHwNJA/Father.Figures.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 #https://openload.co/f/RLbJtbfUQXE/Father.Figures.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
@@ -4036,21 +4072,20 @@ URL=https://openload.co/f/E83ROFOu10o/Will.You.Be.There.2016.KOREAN.720p.BluRay.
 type=video
 name=The Competition (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7DtOmvuptoZz4s0vdg7BcAWbDS.jpg
-date=2018-03-23
-URL=https://openload.co/f/ww1YD3ukZ50/The.Competition.2018.720p.Br_SeeHD.mp4
+date=2018-03-26
+URL=https://www.blazefile.co/embed-erbbr62zyxx2.html
+#https://uptobox.com/815dmjqxspxy
+#https://openload.co/f/ww1YD3ukZ50/The.Competition.2018.720p.Br_SeeHD.mp4
 
-type=video
-name=Children Of The Corn: Runaway (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mibVNUTPTrF8pZeOgdUkkU21KXG.jpg
-date=2018-03-23
-URL=https://openload.co/f/CVvdNht7yYY/Children.of.the.Corn.Runaway.2018.720p.BluRay.x264-ROVERS.mkv.mp4
-#https://openload.co/f/RMBU-anIiRc/Children.of.the.Corn.Runaway.2018.BDRip.x264-ROVERS.mkv.mp4
+
 
 type=video
 name=Peace Breaker (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Uje4tPPipTK58x2hNkJobnSHL.jpg
-date=2018-03-24
-URL=https://openload.co/f/lEe0zST-g6w/Peace.Breaker.2017.CHINESE.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
+date=2018-03-26
+URL=https://www.blazefile.co/embed-fqklq01idkff.html
+#https://uptobox.com/uemx3gfcye9d
+#https://openload.co/f/lEe0zST-g6w/Peace.Breaker.2017.CHINESE.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
 
 
 
@@ -4281,10 +4316,14 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 
 
 type=video
-name=Maze Runner: The Death Cure (2018) ENG HDTC-720P-X264-MP3
+name=Maze Runner: The Death Cure (2018) ENG 1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
-date=2018-03-07
-URL=https://openload.co/f/hzqRftuj1fA/Maze_Runner_The_Death_Cure_2018_HDTC-720P-X264-MP3.mkv.mp4
+date=2018-03-26
+URL=https://openload.co/f/sLASnIz8WG4/Maze.Runner.The.Death.Cure.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mp4
+#https://openload.co/f/8pEl-AGXn1M/Maze.Runner.The.Death.Cure.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://streamango.com/f/snmomkretqkpccbe/Maze_Runner_The_Death_Cure_2017_720p_HC_HDRip_X264_AC3-EVO_mkv_mp4
+#https://openload.co/f/-m5KP7AdL18/Maze.Runner.The.Death.Cure.2017.HC.HDRip.XviD.AC3-EVO.mp4
+#https://openload.co/f/hzqRftuj1fA/Maze_Runner_The_Death_Cure_2018_HDTC-720P-X264-MP3.mkv.mp4
 #https://openload.co/f/0wk0pmQT2RE/Maze_Runner_The_Death_Cure_2018_NEW_720p_HDCAM_X264-PAPA.mkv.mp4
 #https://openload.co/f/NcFRR2AcyZg/Maze_Runner_The_Death_Cure.2018.NEWSOURCE.HC.HDCAM.XviD-NoGRP.avi.mp4
 #https://openload.co/f/x3w1YyqQN2I/Maze.Runner.The.Death.Cure.2018.CAM.ENG.x264-NoGRP.MP4.mp4
@@ -4427,9 +4466,39 @@ URL=https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0
 type=video
 name=
 thumb=
-date=2018-03-24
+date=2018-03-26
 URL=
 
+
+type=video
+name=Game Over, Man! (2018) ENG 1080p.web.x264-strife
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/58BnnYeQOTzdMBghZIH1tSH0REx.jpg
+date=2018-03-26
+URL=https://openload.co/f/mZzzSI-OdIE/game.over.man.2018.internal.1080p.web.x264-strife.mkv.mp4
+type=video
+name=Game Over, Man! (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/58BnnYeQOTzdMBghZIH1tSH0REx.jpg
+date=2018-03-26
+URL=https://streamango.com/f/esecfmobkbfqfkna/Game_Over_Man_2018_
+
+
+type=video
+name=Roxanne, Roxanne (2017) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTG%5BN1C%5D
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6Ais90AtHlBelyQm7SxOaYkeHn.jpg
+date=2018-03-26
+URL=https://openload.co/f/fP-I7sx9B4k/Roxanne.Roxanne.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG%5BN1C%5D.mkv.mp4
+type=video
+name=Roxanne, Roxanne (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6Ais90AtHlBelyQm7SxOaYkeHn.jpg
+date=2018-03-26
+URL=https://streamango.com/f/qmrelrkplokmtmae/Roxanne_Roxanne_2017_
+
+
+type=video
+name=The Bar (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gpVdpC66BCqzY3adpFuIvy0lV5.jpg
+date=2018-03-26
+URL=https://streamango.com/f/cdpoacmfmtlpqcqm/The_Bar_2017_
 
 
 type=video
@@ -5947,11 +6016,17 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-23
+date=2018-03-26
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
+
+type=video
+name=Sagrada Reset Part 1 (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPEGGLwhAmL8XZDibj3dwYQJY1a.jpg
+date=2018-03-26
+URL=https://openload.co/f/rwv1xs5xNto/Sagrada_Reset_Part_1_%282017%29%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C_%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2.mp4
 
 type=video
 name=Shock Wave (2017) TH
