@@ -167,10 +167,12 @@ URL=https://openload.co/f/sXgYKJLlM2I/15.17_2018_CAM_Layar.mp4
 #https://openload.co/f/wK9RCbjRZMU/The_15%3A17_to_Paris_%282018%29_HDCAM_720p_Layar.mp4
 
 type=video
-name=Phantom Thread (2017) ENG DVDSCR.DrinkBetterWater
+name=Phantom Thread (2017) ENG 1080p.WEB-DL.DD5_1.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
-date=2018-02-07
-URL=https://openload.co/f/01d95nvQAeA/Phantom_Thread.2017.DVDSCR.DrinkBetterWater.mp4
+date=2018-03-27
+URL=https://openload.co/f/KiFaEMOtxnU/Phantom.Thread.2017.1080p.WEB-DL.DD5_1.H264-CMRG%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/BSWsAhU73S8/Phantom.Thread.2018.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/01d95nvQAeA/Phantom_Thread.2017.DVDSCR.DrinkBetterWater.mp4
 
 type=video
 name=Hostiles (2017) ENG NEW.720p.HDCAM.x264-CPG
@@ -227,10 +229,12 @@ URL=https://openload.co/f/Jbn08wdDUIg/Freak.Show.2017.1080p.WEB-DL.DD5.1.H264-FG
 
 
 type=video
-name=Molly's Game (2017) ENG 720p_HC_HDRip_SeeHD
+name=Molly's Game (2017) ENG 1080p.WEB-DL.AAC2.0.H264-DVDBOX
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YC8iVPxvRrz53FdfdejDgUUk2k.jpg
-date=2018-03-20
-URL=https://openload.co/f/FQMXMzXmjXY/Molly%27s_Game_2017_720p_HC_HDRip_SeeHD.mkv.mp4
+date=2018-03-27
+URL=https://openload.co/f/YH2QqP08B34/Mollys.Game.2017.1080p.WEB-DL.AAC2.0.H264-DVDBOX.mkv.mp4
+#https://openload.co/f/89l5vGnUY70/Mollys.Game.2017.720pHD.WEB-DL_SeeHD.mp4
+#https://openload.co/f/FQMXMzXmjXY/Molly%27s_Game_2017_720p_HC_HDRip_SeeHD.mkv.mp4
 #https://openload.co/f/_fbaDs2bYTk/Mollys.Game.2017.720p.HC.HDRip.X264-Jhulelal.mkv.mp4
 #https://openload.co/f/bDzBWi4g5EQ/Mollys_Game-DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/J9sWRgUuroU/Mollys.Game.2017.HDCAM.READNFO.x264-DiRG.mp4
@@ -1316,6 +1320,17 @@ date=2018-03-26
 URL=
 
 
+
+type=video
+name=Peace Breaker (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Uje4tPPipTK58x2hNkJobnSHL.jpg
+date=2018-03-27
+URL=https://www.blazefile.co/embed-kz8il6wvc7kd.html
+#https://uptobox.com/ugp1v7p61493
+#https://www.blazefile.co/embed-fqklq01idkff.html   720
+#https://uptobox.com/uemx3gfcye9d   720
+#https://openload.co/f/lEe0zST-g6w/Peace.Breaker.2017.CHINESE.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
+
 type=video
 name=Children Of The Corn: Runaway (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mibVNUTPTrF8pZeOgdUkkU21KXG.jpg
@@ -1350,6 +1365,8 @@ date=2018-03-26
 URL=https://openload.co/f/iJ4CO7oAIRc/mary.and.the.witchs.flower.2017.1080p.bluray.x264-haiku.mkv.mp4
 #https://openload.co/f/g52oCe_L81g/mary.and.the.witchs.flower.2017.720p.bluray.x264-haiku.mkv.mp4
 #https://openload.co/f/ufNZy9F1oA8/mary.and.the.witchs.flower.2017.720p.bluray.x264-haiku.mkv   MKV3.3GB
+#https://www.blazefile.co/embed-ngmgmd40pqwh.html   720
+#https://uptobox.com/9xsmtv2sdfql   720
 
 type=video
 name=A Beginner's Guide to Snuff (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4018,6 +4035,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhsg8cVVtOdyeNs9u8E3xhaSMi
 date=2018-03-13
 URL=https://www.blazefile.co/embed-ag7gekcsi1fs.html
 #https://uptobox.com/kr6c6n8oq7vc
+#https://openload.co/f/D31XdeG3ZtQ/moomins.and.the.winter.wonderland.2017.dubbed.720p.bluray.x264-regret.mkv.mp4
 #https://openload.co/f/9jycg7DcSlU/Moomins.and.the.Winter.Wonderland.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
@@ -4079,13 +4097,7 @@ URL=https://www.blazefile.co/embed-erbbr62zyxx2.html
 
 
 
-type=video
-name=Peace Breaker (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Uje4tPPipTK58x2hNkJobnSHL.jpg
-date=2018-03-26
-URL=https://www.blazefile.co/embed-fqklq01idkff.html
-#https://uptobox.com/uemx3gfcye9d
-#https://openload.co/f/lEe0zST-g6w/Peace.Breaker.2017.CHINESE.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
+
 
 
 
