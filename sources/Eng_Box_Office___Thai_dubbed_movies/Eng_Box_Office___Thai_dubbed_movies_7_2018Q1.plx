@@ -3821,8 +3821,8 @@ URL=http://download856.mediafire.com/7gu823gi6wqg/6dvrxjyvch75arr/shqmarsllbd72.
 type=video
 name=Trainspotting (1996) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1O3eFsdb0GEIYu87xlwV7P4jM1.jpg
-date=2018-03-14
-URL=http://download1483.mediafire.com/4dhb0dsgybcg/qc10f1tzwps5ay0/Trainspotting.1996.BluRay.720p.Ganool.se.mkv
+date=2018-03-27
+URL=http://192.99.67.192/home/movies29/tt0117951_hd.mp4
 
 
 
@@ -5560,6 +5560,11 @@ description=Park Tae-Soo was born to a difficult family, one day he wanted to be
 
 # 2769908
 type=video
+name=Allied (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/nzXzLFTnd0Zb3ExfhOxlQgizgSu.jpg
+date=2018-03-27
+URL=http://192.99.67.192/home/movies29/tt3640424_hd.mp4
+type=video
 name=Allied (2016) SUB
 thumb=http://image.tmdb.org/t/p/w500/nzXzLFTnd0Zb3ExfhOxlQgizgSu.jpg
 URL=https://openload.co/f/B8nRncceehA/Allied_%282016%29_%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3.mp4
@@ -6320,8 +6325,9 @@ URL=https://openload.co/f/fQXeeL8bKBc/Coco_%282017%29%E0%B8%A7%E0%B8%B1%E0%B8%99
 type=video
 name=Free State of Jones (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxutq7sXcaMy8b4OguaWZwWrchM.jpg
-date=2018-03-01
-URL=https://openload.co/embed/iCLqDeEgTXs
+date=2018-03-27
+URL=http://192.99.67.192/home/movies29/tt1124037_hd.mp4
+#https://openload.co/embed/iCLqDeEgTXs
 #http://entervideo.net/watch/2aafab347c33247
 #https://www.blazefile.co/embed-64mwv9cpyo6w.html
 #https://www.blazefile.co/embed-1rhkc51cx50m.html   720

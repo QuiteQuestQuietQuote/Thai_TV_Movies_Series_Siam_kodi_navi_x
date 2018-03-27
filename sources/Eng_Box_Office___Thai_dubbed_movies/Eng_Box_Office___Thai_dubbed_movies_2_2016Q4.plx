@@ -1646,9 +1646,10 @@ description=White Vengeance tells the story of two brothers contending for supre
 
 # 2753856
 type=video
-name=MORGAN (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=MORGAN (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] ganool
 thumb=http://image.tmdb.org/t/p/w500/3no0L0SjRkM4MrbMJ5psBcapWeb.jpg
-URL=https://www.blazefile.co/embed-rjmxh9l4c98d.html
+URL=http://192.99.67.192/home/movies29/tt4520364_hd.mp4
+#https://www.blazefile.co/embed-rjmxh9l4c98d.html
 type=video
 name=MORGAN (2016)
 thumb=http://image.tmdb.org/t/p/w500/3no0L0SjRkM4MrbMJ5psBcapWeb.jpg
