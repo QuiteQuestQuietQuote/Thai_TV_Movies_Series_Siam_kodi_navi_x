@@ -153,10 +153,11 @@ URL=https://openload.co/f/eWQIr3XNM5w/The_Lodgers_2017_1080p_WEB-DL_DD5.1_H264-C
 
 
 type=video
-name=Peter Rabbit (2018) ENG HDCAM.x264-DiRG
+name=Peter Rabbit (2018) ENG HDCAM.XViD.AC3-ETRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
-date=2018-02-22
-URL=https://openload.co/f/OztM_HaRQX4/Peter.Rabbit.2018.HDCAM.x264-DiRG.mp4
+date=2018-03-28
+URL=https://openload.co/f/OuW2gUHhTAU/Peter.Rabbit.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/OztM_HaRQX4/Peter.Rabbit.2018.HDCAM.x264-DiRG.mp4
 #https://openload.co/f/dTapIIDbV60/Peter_Rabbit_%282018%29_RUS.Cam.mp4
 
 type=video
@@ -1316,10 +1317,22 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-26
+date=2018-03-28
 URL=
 
 
+
+type=video
+name=The Great Buddha+ (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUVHENyEicvL25aaC03xnCk0XTs.jpg
+date=2018-03-28
+URL=https://openload.co/f/lbswjfDizgE/The.Great.Buddha.Plus.2017.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
+
+type=video
+name=Happy End (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KRt71uq5fspRvh0BR4TwOZKmBt.jpg
+date=2018-03-28
+URL=https://openload.co/f/csUWBG0L1uo/happy.end.2017.limited.1080p.bluray.x264-usury.mkv.mp4
 
 type=video
 name=Peace Breaker (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
@@ -4361,10 +4374,11 @@ URL=https://streamango.com/f/bcnspemlmbdmfcbk/12_Strong_2018_12_
 
 
 type=video
-name=The Commuter (2018) ENG 720p_NEW_HD-TS_X264-CPG
+name=The Commuter (2018) ENG V2.720p.HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
-date=2018-02-09
-URL=https://openload.co/f/s15NsuBO5J0/The_Commuter_2018_720p_NEW_HD-TS_X264-CPG.mkv.mp4
+date=2018-03-28
+URL=https://openload.co/f/mEJzHd-yTz4/The_Commuter.2018.V2.720p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/s15NsuBO5J0/The_Commuter_2018_720p_NEW_HD-TS_X264-CPG.mkv.mp4
 #https://openload.co/f/qQHqw_vax30/The_Commuter_2018_HDCAM_REPACK_X264-DADDY.mkv.mp4
 #https://openload.co/f/l_asVj98QaI/The.Commuter.2018.CAM.ENG.DADDY.mkv.mp4
 #https://openload.co/f/yq1GYYdbymo/Commuter.CAM.ENG_SeeHD.mkv.mp4

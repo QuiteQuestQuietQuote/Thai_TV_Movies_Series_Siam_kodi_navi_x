@@ -663,6 +663,7 @@ name=Blade Runner (1982) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p64TtbZGCElxQHpAMWmDHkWJlH2.jpg
 date=2017-10-25
 URL=https://www.blazefile.co/embed-91oykt5nog8i.html
+#https://openload.co/f/4Evo4-b6Tx4/Blade.Runner.1982.1080p.BRRip.x264-YIFY.mp4
 #https://openload.co/f/GQfX8x3J1qE/Blade.Runner.1982.The.Final.Cut.720p.iNTERNAL.BluRay.x264-MOOVEE.mkv.mp4
 type=video
 name=Blade Runner (1982) TH
