@@ -66,10 +66,11 @@ URL=
 
 
 type=video
-name=Sherlock Gnomes (2018) ENG HDCAM_X264_AC3-Bang
+name=Sherlock Gnomes (2018) ENG HDCAM.XviD-VAiN
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHdf2wRgCSp9MrZRryikiZIH6jB.jpg
-date=2018-03-25
-URL=https://openload.co/f/aCDwq_C0Py8/Sherlock_Gnomes_2018_HDCAM_X264_AC3-Bang.mp4
+date=2018-03-29
+URL=https://openload.co/f/RdAhbx9rRvA/Sherlock.Gnomes.2018.HDCAM.XviD-VAiN.avi.mp4
+#https://openload.co/f/aCDwq_C0Py8/Sherlock_Gnomes_2018_HDCAM_X264_AC3-Bang.mp4
 
 type=video
 name=I Kill Giants (2018) ENG 1080p_WEB_DL_DD5_1_H264_CMRG
@@ -81,13 +82,7 @@ URL=https://openload.co/f/SYhcD0EeGRU/I_Kill_Giants_2017_1080p_WEB_DL_DD5_1_H264
 #https://openload.co/f/dCDmN6NPscA/I.Kill.Giants.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/1U_HAEH24WM/I_Kill_Giants720pHD.WEB-DL_SeeHD.mp4
 
-type=video
-name=Pacific Rim: Uprising (2018) ENG NEW_HDCAM_2D_X264_HQMic-CPG_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
-date=2018-03-24
-URL=https://openload.co/f/G_bzG6nas54/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/At_l9Qy_hUw/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG.mp4
-#https://openload.co/f/Ugx9be0SomQ/Pacific_Rim__Uprising_2018_HC_HDCAM_-_AKOAM_SeeHD.avi.mp4
+
 
 type=video
 name=The Strangers: Prey at Night (2018) RUS Pk.TS.E
@@ -111,10 +106,11 @@ URL=https://openload.co/f/iQqZjyCB8og/10x10.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp
 
 
 type=video
-name=Early Man (2018) ENG HDCAM_Eng_SeeHD
+name=Early Man (2018) ENG NEW_HDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugw07fJIZMVrrIGeN1MO7Xecj5h.jpg
-date=2018-03-11
-URL=https://openload.co/f/pfbH4MrvDH4/Early_Man_2018_HDCAM_Eng_SeeHD.mkv.mp4
+date=2018-03-29
+URL=https://openload.co/f/P3L0Og4nEbU/Early_Man_2018_NEW_HDCAM_SeeHD.avi.mp4
+#https://openload.co/f/pfbH4MrvDH4/Early_Man_2018_HDCAM_Eng_SeeHD.mkv.mp4
 
 
 
@@ -153,27 +149,23 @@ URL=https://openload.co/f/eWQIr3XNM5w/The_Lodgers_2017_1080p_WEB-DL_DD5.1_H264-C
 
 
 type=video
-name=Peter Rabbit (2018) ENG HDCAM.XViD.AC3-ETRG
+name=Peter Rabbit (2018) ENG NEW_HDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
-date=2018-03-28
-URL=https://openload.co/f/OuW2gUHhTAU/Peter.Rabbit.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+date=2018-03-29
+URL=https://openload.co/f/mvM9KJ7lQ_k/Peter_Rabbit_2018._NEW_HDCAM_SeeHD.avi.mp4
+#https://openload.co/f/OuW2gUHhTAU/Peter.Rabbit.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/OztM_HaRQX4/Peter.Rabbit.2018.HDCAM.x264-DiRG.mp4
 #https://openload.co/f/dTapIIDbV60/Peter_Rabbit_%282018%29_RUS.Cam.mp4
 
 type=video
-name=The 15:17 to Paris (2018) ENG CAM_Layar
+name=The 15:17 to Paris (2018) ENG HDCAM.XViD.AC3-ETRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg
-date=2018-03-11
-URL=https://openload.co/f/sXgYKJLlM2I/15.17_2018_CAM_Layar.mp4
+date=2018-03-29
+URL=https://openload.co/f/bV_8RkHANJQ/The_15-17_to_Paris_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/sXgYKJLlM2I/15.17_2018_CAM_Layar.mp4
 #https://openload.co/f/wK9RCbjRZMU/The_15%3A17_to_Paris_%282018%29_HDCAM_720p_Layar.mp4
 
-type=video
-name=Phantom Thread (2017) ENG 1080p.WEB-DL.DD5_1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
-date=2018-03-27
-URL=https://openload.co/f/KiFaEMOtxnU/Phantom.Thread.2017.1080p.WEB-DL.DD5_1.H264-CMRG%5BEtHD%5D.mkv.mp4
-#https://openload.co/f/BSWsAhU73S8/Phantom.Thread.2018.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/01d95nvQAeA/Phantom_Thread.2017.DVDSCR.DrinkBetterWater.mp4
+
 
 type=video
 name=Hostiles (2017) ENG NEW.720p.HDCAM.x264-CPG
@@ -229,17 +221,7 @@ URL=https://openload.co/f/Jbn08wdDUIg/Freak.Show.2017.1080p.WEB-DL.DD5.1.H264-FG
 
 
 
-type=video
-name=Molly's Game (2017) ENG 1080p.WEB-DL.AAC2.0.H264-DVDBOX
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YC8iVPxvRrz53FdfdejDgUUk2k.jpg
-date=2018-03-27
-URL=https://openload.co/f/YH2QqP08B34/Mollys.Game.2017.1080p.WEB-DL.AAC2.0.H264-DVDBOX.mkv.mp4
-#https://openload.co/f/89l5vGnUY70/Mollys.Game.2017.720pHD.WEB-DL_SeeHD.mp4
-#https://openload.co/f/FQMXMzXmjXY/Molly%27s_Game_2017_720p_HC_HDRip_SeeHD.mkv.mp4
-#https://openload.co/f/_fbaDs2bYTk/Mollys.Game.2017.720p.HC.HDRip.X264-Jhulelal.mkv.mp4
-#https://openload.co/f/bDzBWi4g5EQ/Mollys_Game-DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
-#https://openload.co/f/J9sWRgUuroU/Mollys.Game.2017.HDCAM.READNFO.x264-DiRG.mp4
-#https://openload.co/f/P8Txe4VXgyc/Mollys.Game.2017.CAM.ENG.x264-NoGRP.MP4.mp4
+
 
 
 
@@ -613,12 +595,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iLKG1fxwqSwFKUbOj8BnBGt1E
 date=2017-11-29
 URL=https://openload.co/f/Xfeo1jdN-14/i.do.until.i.dont.limited.2017.dvdrip.x264-lpd.mkv.mp4
 
-type=video
-name=Slumber (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbq02c1HqpXsuoZfc07ZOig8mqi.jpg
-date=2017-11-29
-URL=https://openload.co/f/nLmL37rlOz4/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/b6dV5SfGMn8/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=The Price (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
@@ -1317,16 +1294,49 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-28
+date=2018-03-29
 URL=
 
 
+
+
+type=video
+name=Molly's Game (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YC8iVPxvRrz53FdfdejDgUUk2k.jpg
+date=2018-03-29
+URL=https://openload.co/f/cB8Gz7bfzbU/Mollys.Game.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/u42tMyXtOXU/mollys.game.2017.720p.bluray.x264-drones.mkv   MKV6.6GB
+#https://openload.co/f/YH2QqP08B34/Mollys.Game.2017.1080p.WEB-DL.AAC2.0.H264-DVDBOX.mkv.mp4
+#https://openload.co/f/89l5vGnUY70/Mollys.Game.2017.720pHD.WEB-DL_SeeHD.mp4
+#https://openload.co/f/FQMXMzXmjXY/Molly%27s_Game_2017_720p_HC_HDRip_SeeHD.mkv.mp4
+#https://openload.co/f/_fbaDs2bYTk/Mollys.Game.2017.720p.HC.HDRip.X264-Jhulelal.mkv.mp4
+#https://openload.co/f/bDzBWi4g5EQ/Mollys_Game-DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/J9sWRgUuroU/Mollys.Game.2017.HDCAM.READNFO.x264-DiRG.mp4
+#https://openload.co/f/P8Txe4VXgyc/Mollys.Game.2017.CAM.ENG.x264-NoGRP.MP4.mp4
+
+type=video
+name=Phantom Thread (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
+date=2018-03-29
+URL=https://openload.co/f/9x1ASTV_wBg/Phantom.Thread.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/4cTv2ODkB7Y/Phantom.Thread.2017.1080p.BRrip.AC3.H264-CMRG.mkv.mp4
+#https://openload.co/f/KiFaEMOtxnU/Phantom.Thread.2017.1080p.WEB-DL.DD5_1.H264-CMRG%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/BSWsAhU73S8/Phantom.Thread.2018.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/01d95nvQAeA/Phantom_Thread.2017.DVDSCR.DrinkBetterWater.mp4
+
+type=video
+name=Bornless Ones (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4V52bmZg4tR96hiuNX3r5h08GvN.jpg
+date=2018-03-29
+URL=https://openload.co/f/D2_UJpn1kEk/Bornless.Ones.2016.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
 
 type=video
 name=The Great Buddha+ (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUVHENyEicvL25aaC03xnCk0XTs.jpg
 date=2018-03-28
 URL=https://openload.co/f/lbswjfDizgE/The.Great.Buddha.Plus.2017.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
+#https://www.blazefile.co/embed-2kpc167w906u.html   720
+#https://uptobox.com/do83z6150o4f   720
 
 type=video
 name=Happy End (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
@@ -1371,15 +1381,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkA7kDBjXWth6DzGVqOIkwjQQK
 date=2018-03-26
 URL=https://openload.co/f/81rUSrRtLTM/Gauguin.2017.FRENCH.1080p.BluRay.x264-worldmkv.mkv.mp4
 
-type=video
-name=Mary and the Witch's Flower (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQPujyTaD4F8P9NQZwls6gYjR3L.jpg
-date=2018-03-26
-URL=https://openload.co/f/iJ4CO7oAIRc/mary.and.the.witchs.flower.2017.1080p.bluray.x264-haiku.mkv.mp4
-#https://openload.co/f/g52oCe_L81g/mary.and.the.witchs.flower.2017.720p.bluray.x264-haiku.mkv.mp4
-#https://openload.co/f/ufNZy9F1oA8/mary.and.the.witchs.flower.2017.720p.bluray.x264-haiku.mkv   MKV3.3GB
-#https://www.blazefile.co/embed-ngmgmd40pqwh.html   720
-#https://uptobox.com/9xsmtv2sdfql   720
+
+
 
 type=video
 name=A Beginner's Guide to Snuff (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4108,7 +4111,13 @@ URL=https://www.blazefile.co/embed-erbbr62zyxx2.html
 #https://uptobox.com/815dmjqxspxy
 #https://openload.co/f/ww1YD3ukZ50/The.Competition.2018.720p.Br_SeeHD.mp4
 
-
+type=video
+name=Slumber (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbq02c1HqpXsuoZfc07ZOig8mqi.jpg
+date=2018-03-29
+URL=https://openload.co/f/8zzE2sva_O0/Slumber_2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/nLmL37rlOz4/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/b6dV5SfGMn8/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
 
 
 
@@ -4193,6 +4202,20 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
+name=Pacific Rim: Uprising (2018) ENG NEW_HDCAM_2D_X264_HQMic-CPG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
+date=2018-03-24
+URL=https://openload.co/f/G_bzG6nas54/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/At_l9Qy_hUw/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG.mp4
+#https://openload.co/f/Ugx9be0SomQ/Pacific_Rim__Uprising_2018_HC_HDCAM_-_AKOAM_SeeHD.avi.mp4
+type=video
+name=Pacific Rim: Uprising (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
+date=2018-03-29
+URL=https://streamango.com/f/lscptnpfbacsobfa/Pacific_Rim_Uprising_2018_
+
+
+type=video
 name=Tomb Raider (2018) ENG New_SRC_720p_HDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
 date=2018-03-18
@@ -4209,10 +4232,11 @@ URL=https://streamango.com/f/pbemkasrmnlorfdt/Tomb_Raider_2018_
 
 
 type=video
-name=The Hurricane Heist (2018) ENG HDCAM_ENG_X264_CPG
+name=The Hurricane Heist (2018) ENG HDCAM_ENG_X264-CPG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
-date=2018-03-24
-URL=https://openload.co/f/gZ7_RC7JhXw/The_Hurricane_Heist_2018_HDCAM_ENG_X264_CPG.mp4
+date=2018-03-29
+URL=https://openload.co/f/aymgzQFqMOA/The_Hurricane_Heist_2018_HDCAM_ENG_X264-CPG.mkv.mp4
+#https://openload.co/f/gZ7_RC7JhXw/The_Hurricane_Heist_2018_HDCAM_ENG_X264_CPG.mp4
 #https://openload.co/f/8YJOvr2Krpk/The_Hurricane_Heist_2018.HDCAM.X264-VemMeChupar.mp4
 type=video
 name=The Hurricane Heist (2018) THCAM
@@ -4222,10 +4246,11 @@ URL=https://streamango.com/f/akqbnnmbcdlcccbm/The_Hurricane_Heist_2018_
 
 
 type=video
-name=Death Wish (2018) ENG NEW_HDCAM_Layar
+name=Death Wish (2018) ENG 720p_HD-TS_X264-CPG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRpOwIlOXZZVWgDernbPbdHU5cl.jpg
-date=2018-03-20
-URL=https://openload.co/f/zO6vHUtv0Uc/Death_Wish_2018_NEW_HDCAM_Layar.mp4
+date=2018-03-29
+URL=https://openload.co/f/hScYbg7JR6A/Death_Wish_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/zO6vHUtv0Uc/Death_Wish_2018_NEW_HDCAM_Layar.mp4
 #https://openload.co/f/woXxvTJV3xQ/Death.Wish.2018.NEW_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/08UkBIEbOMg/Death.Wish.2018.HDCAM.x264-DiRG.mp4
 type=video
@@ -4242,23 +4267,7 @@ date=2018-03-20
 URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 
 
-type=video
-name=All the Money in the World (2017)  [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
-date=2018-03-24
-URL=https://openload.co/f/Z_3OJ8oXOhM/all.the.money.in.the.world.2017.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/L04zHRrVq1Y/all.the.money.in.the.world.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/3lctfM8mNPY/All.The.Money.In.The.World.2017.720p.Br_SeeHD.mp4
-#https://openload.co/f/F76f7gqp9_Y/All.the.Money.in.the.World.2017.CAM_SeeHD.mp4
-#https://openload.co/f/Lefs8BNw8P0/All.the.Money.in.the.World.2017.HDCAM.x264-DiRG.mp4
-#https://openload.co/f/T0HIxal98u0/All.the.Money.in.the.World.2017.CAM.AAC.x264-THESTiG.mp4
-#https://www.blazefile.co/embed-14aetj21xzye.html   720
-#https://uptobox.com/17e1drzt72hh   720
-type=video
-name=All the Money in the World (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
-date=2018-02-26
-URL=https://streamango.com/f/faldccplekdnrrsb/All_the_Money_in_the_World_2017_
+
 
 
 type=video
@@ -4333,6 +4342,12 @@ URL=https://streamango.com/f/meketpbdbsqbabpa/Fifty_Shades_Freed_2018_
 
 
 type=video
+name=Along with the Gods: The Two Worlds (2017) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ2djaODo2IC4kBCvNvfTwV8ZpH.jpg
+date=2018-03-29
+URL=https://openload.co/f/cPbb0SCvzYc/Along.with.the.Gods.The.Two.Worlds.2017.720p.BluRay.x264.DD5.1-MT.mkv.mp4
+#https://openload.co/f/eSh-tToMcZE/Along.With.the.Gods.The.Two.Worlds.2017.1080p.FHDRip.H264.AAC.NonDRM.mp4
+type=video
 name=Along with the Gods: The Two Worlds (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ2djaODo2IC4kBCvNvfTwV8ZpH.jpg
 date=2018-02-17
@@ -4340,23 +4355,7 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 #https://streamango.com/f/sdrrrroqtqkkfsmc/Along_with_the_Gods_The_Two_Worlds_2017_7_
 
 
-type=video
-name=Maze Runner: The Death Cure (2018) ENG 1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
-date=2018-03-26
-URL=https://openload.co/f/sLASnIz8WG4/Maze.Runner.The.Death.Cure.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mp4
-#https://openload.co/f/8pEl-AGXn1M/Maze.Runner.The.Death.Cure.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://streamango.com/f/snmomkretqkpccbe/Maze_Runner_The_Death_Cure_2017_720p_HC_HDRip_X264_AC3-EVO_mkv_mp4
-#https://openload.co/f/-m5KP7AdL18/Maze.Runner.The.Death.Cure.2017.HC.HDRip.XviD.AC3-EVO.mp4
-#https://openload.co/f/hzqRftuj1fA/Maze_Runner_The_Death_Cure_2018_HDTC-720P-X264-MP3.mkv.mp4
-#https://openload.co/f/0wk0pmQT2RE/Maze_Runner_The_Death_Cure_2018_NEW_720p_HDCAM_X264-PAPA.mkv.mp4
-#https://openload.co/f/NcFRR2AcyZg/Maze_Runner_The_Death_Cure.2018.NEWSOURCE.HC.HDCAM.XviD-NoGRP.avi.mp4
-#https://openload.co/f/x3w1YyqQN2I/Maze.Runner.The.Death.Cure.2018.CAM.ENG.x264-NoGRP.MP4.mp4
-type=video
-name=Maze Runner: The Death Cure (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
-date=2018-01-28
-URL=https://streamango.com/f/faknmfefssdmtdre/Maze_Runner_The_Death_Cure_2018_
+
 
 
 type=video
@@ -4373,20 +4372,7 @@ date=2018-01-22
 URL=https://streamango.com/f/bcnspemlmbdmfcbk/12_Strong_2018_12_
 
 
-type=video
-name=The Commuter (2018) ENG V2.720p.HC.HDRip.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
-date=2018-03-28
-URL=https://openload.co/f/mEJzHd-yTz4/The_Commuter.2018.V2.720p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4
-#https://openload.co/f/s15NsuBO5J0/The_Commuter_2018_720p_NEW_HD-TS_X264-CPG.mkv.mp4
-#https://openload.co/f/qQHqw_vax30/The_Commuter_2018_HDCAM_REPACK_X264-DADDY.mkv.mp4
-#https://openload.co/f/l_asVj98QaI/The.Commuter.2018.CAM.ENG.DADDY.mkv.mp4
-#https://openload.co/f/yq1GYYdbymo/Commuter.CAM.ENG_SeeHD.mkv.mp4
-type=video
-name=The Commuter (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
-date=2018-01-22
-URL=https://streamango.com/f/pbtbmqdafrscrmad/The_Commuter_2018_
+
 
 
 
@@ -5640,6 +5626,67 @@ date=2018-03-23
 URL=
 
 
+
+
+type=video
+name=The Commuter (2018) ENG 1080p.WEBRip.DD5.1.x264-FGT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
+date=2018-03-29
+URL=https://openload.co/f/1nVbPE9Ci-c/The.Commuter.2018.1080p.WEBRip.DD5.1.x264-FGT.mkv.mp4
+#https://openload.co/f/HLCJnHYhtHQ/The.Commuter.2018.1080p.HDRIP.X264.AC3.5.1-TiTAN.mkv.mp4
+#https://openload.co/f/mEJzHd-yTz4/The_Commuter.2018.V2.720p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/s15NsuBO5J0/The_Commuter_2018_720p_NEW_HD-TS_X264-CPG.mkv.mp4
+#https://openload.co/f/qQHqw_vax30/The_Commuter_2018_HDCAM_REPACK_X264-DADDY.mkv.mp4
+#https://openload.co/f/l_asVj98QaI/The.Commuter.2018.CAM.ENG.DADDY.mkv.mp4
+#https://openload.co/f/yq1GYYdbymo/Commuter.CAM.ENG_SeeHD.mkv.mp4
+type=video
+name=The Commuter (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
+date=2018-03-29
+URL=https://streamango.com/f/doctmfotreeptkbp/The_Commuter_2018_
+#https://streamango.com/f/pbtbmqdafrscrmad/The_Commuter_2018_
+
+
+type=video
+name=All the Money in the World (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
+date=2018-03-24
+URL=https://openload.co/f/Z_3OJ8oXOhM/all.the.money.in.the.world.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/L04zHRrVq1Y/all.the.money.in.the.world.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/3lctfM8mNPY/All.The.Money.In.The.World.2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/F76f7gqp9_Y/All.the.Money.in.the.World.2017.CAM_SeeHD.mp4
+#https://openload.co/f/Lefs8BNw8P0/All.the.Money.in.the.World.2017.HDCAM.x264-DiRG.mp4
+#https://openload.co/f/T0HIxal98u0/All.the.Money.in.the.World.2017.CAM.AAC.x264-THESTiG.mp4
+#https://www.blazefile.co/embed-14aetj21xzye.html   720
+#https://uptobox.com/17e1drzt72hh   720
+type=video
+name=All the Money in the World (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
+date=2018-03-29
+URL=https://streamango.com/f/lotsrbtoeltsceod/All_the_Money_in_the_World_2017_
+#https://streamango.com/f/faldccplekdnrrsb/All_the_Money_in_the_World_2017_
+
+
+type=video
+name=Maze Runner: The Death Cure (2018) ENG 1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+date=2018-03-26
+URL=https://openload.co/f/sLASnIz8WG4/Maze.Runner.The.Death.Cure.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mp4
+#https://openload.co/f/8pEl-AGXn1M/Maze.Runner.The.Death.Cure.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://streamango.com/f/snmomkretqkpccbe/Maze_Runner_The_Death_Cure_2017_720p_HC_HDRip_X264_AC3-EVO_mkv_mp4
+#https://openload.co/f/-m5KP7AdL18/Maze.Runner.The.Death.Cure.2017.HC.HDRip.XviD.AC3-EVO.mp4
+#https://openload.co/f/hzqRftuj1fA/Maze_Runner_The_Death_Cure_2018_HDTC-720P-X264-MP3.mkv.mp4
+#https://openload.co/f/0wk0pmQT2RE/Maze_Runner_The_Death_Cure_2018_NEW_720p_HDCAM_X264-PAPA.mkv.mp4
+#https://openload.co/f/NcFRR2AcyZg/Maze_Runner_The_Death_Cure.2018.NEWSOURCE.HC.HDCAM.XviD-NoGRP.avi.mp4
+#https://openload.co/f/x3w1YyqQN2I/Maze.Runner.The.Death.Cure.2018.CAM.ENG.x264-NoGRP.MP4.mp4
+type=video
+name=Maze Runner: The Death Cure (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+date=2018-03-29
+URL=https://streamango.com/f/qolrcdcrbcqscnke/Maze_Runner_The_Death_Cure_2018_
+#https://streamango.com/f/faknmfefssdmtdre/Maze_Runner_The_Death_Cure_2018_
+
+
 type=video
 name=Earth: One Amazing Day (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OKStVtpeptnfIgxXEyQubMMTey.jpg
@@ -6047,11 +6094,31 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-26
+date=2018-03-29
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
+type=video
+name=Mary and the Witch's Flower (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQPujyTaD4F8P9NQZwls6gYjR3L.jpg
+date=2018-03-26
+URL=https://openload.co/f/iJ4CO7oAIRc/mary.and.the.witchs.flower.2017.1080p.bluray.x264-haiku.mkv.mp4
+#https://openload.co/f/g52oCe_L81g/mary.and.the.witchs.flower.2017.720p.bluray.x264-haiku.mkv.mp4
+#https://openload.co/f/ufNZy9F1oA8/mary.and.the.witchs.flower.2017.720p.bluray.x264-haiku.mkv   MKV3.3GB
+#https://www.blazefile.co/embed-ngmgmd40pqwh.html   720
+#https://uptobox.com/9xsmtv2sdfql   720
+type=video
+name=Mary and the Witch's Flower (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQPujyTaD4F8P9NQZwls6gYjR3L.jpg
+date=2018-03-29
+URL=https://openload.co/f/fXqC4SCGaQY/Mary_and_the_Witch%27s_Flower_%282017%29%E0%B9%81%E0%B8%A1%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%94.mp4
 
+
+type=video
+name=Sagrada Reset Part 2 (2017)
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqgU8jFtjC219rd7d6oGFWE6w99.jpg
+date=2018-03-29
+URL=https://openload.co/f/hLr4rdiSNkI/Sagrada_Reset_Part_2_%282017%29%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C_%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2_%E0%B8%9E%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97_2.mp4
 
 type=video
 name=Sagrada Reset Part 1 (2017) TH
@@ -6096,8 +6163,9 @@ URL=https://openload.co/f/yFDxSRZ7KmU/The_Big_Sick_%282017%29%E0%B8%A3%E0%B8%B1%
 type=video
 name=Innocent Curse (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/llsZHq7epuam6cJdqQUCzaA6YxI.jpg
-date=2018-03-23
-URL=https://openload.co/f/2VP-4doy5cQ/Innocent_Curse_%282017%29%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9C%E0%B8%B5.mp4
+date=2018-03-29
+URL=https://openload.co/f/Q4XzI_S3F-A/Innocent_Curse_%282017%29%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9C%E0%B8%B5.mp4
+#https://openload.co/f/2VP-4doy5cQ/Innocent_Curse_%282017%29%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9C%E0%B8%B5.mp4
 #https://streamango.com/f/pbnfnftnekfstfkk/Innocent_Curse_2017_
 #https://streamango.com/f/cfemesplrkqedkna/Innocent_Curse_2017_
 
