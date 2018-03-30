@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
+background=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_7_2018Q1
-logo=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
-icon_playlist=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
+logo=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
+icon_playlist=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, sockshare, fmovies, ganool, nanamovies./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -59,11 +59,30 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-03-25
+date=2018-03-30
 URL=
 
 
 
+
+
+
+
+
+type=video
+name=Ready Player One (2018) ENG 720p.HDCAM.X264
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
+date=2018-03-30
+URL=https://openload.co/f/Ryg8GBobLk8/Ready_Player_One_2018.720p.HDCAM.X264.mp4
+#https://openload.co/f/JWNqMnlNmcA/Ready_Player_One_2018.720p.HDCAM.X264-ThisOneYouWontSell.mp4
+#https://openload.co/f/ACaaIu3-zBc/Ready_Player_One.2018.HDCAM.X264_SeeHD.mkv.mp4
+
+type=video
+name=The Titan (2018) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rywjzbQbUgnv1izhWJYyZIm4M6m.jpg
+date=2018-03-30
+URL=https://openload.co/f/Qm8KBm49L5k/The.Titan.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
+#https://openload.co/f/nWsHrzcSuyQ/The.Titan.2018.720.HDRip.AC3-EVO.mkv.mp4
 
 type=video
 name=Sherlock Gnomes (2018) ENG HDCAM.XviD-VAiN
@@ -1294,11 +1313,27 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-29
+date=2018-03-30
 URL=
 
 
 
+
+
+type=video
+name=The Housemaid (2016) [COLOR=FF00FF00]VIET BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sYJDnC2iN1zcVfoqIkPtufV4L4.jpg
+date=2018-03-30
+URL=https://openload.co/f/WFH0vQYQ1XE/the.housemaid.2016.1080p.bluray.x264-ghouls.mkv.mp4
+#https://openload.co/f/4r_LWSLGnTw/The.Housemaid_2016_BDRip_EngSubs_Layar.mp4
+
+type=video
+name=Re: Born (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkIsBtjuf8q8hDQ9mxMEPzOYgPc.jpg
+date=2018-03-30
+URL=https://openload.co/f/J1uN-k0BEJU/Re.Born.2016.JAPANESE.1080p.BluRay.H264.AAC-VXT.mp4
+#https://openload.co/f/6IOjkbLNG98/re.born.2016.720p.bluray.x264-ghouls.mkv.mp4
+#https://openload.co/f/VouCatwCGH8/Re.Born.2016.BDRip.x264.HC-EngSubs.mp4
 
 type=video
 name=Molly's Game (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4116,10 +4151,17 @@ name=Slumber (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbq02c1HqpXsuoZfc07ZOig8mqi.jpg
 date=2018-03-29
 URL=https://openload.co/f/8zzE2sva_O0/Slumber_2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/pqY4wK8damQ/Slumber_2017.720p.Bluray.X264-EVO.mkv.mp4
+#https://openload.co/f/81uuooihRdI/Slumber.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/nLmL37rlOz4/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/b6dV5SfGMn8/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
 
-
+type=video
+name=Gone Are the Days (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJF23NdeB6DUgk8oBfeg2hr5hKc.jpg
+date=2018-03-30
+URL=https://openload.co/f/-S34pGyo0iA/Gone.Are.the.Days.2018.720p.BR_SeeHD.mp4
+#https://openload.co/f/WfT4zdDnpyE/Gone.Are.the.Days.2018.BluRay.720p.DTS.x264-MTeam.mkv.mp4
 
 
 
@@ -4127,7 +4169,7 @@ URL=https://openload.co/f/8zzE2sva_O0/Slumber_2017.720p.Br_SeeHD.mp4
 type=video
 name=
 thumb=
-date=2018-03-24
+date=2018-03-30
 URL=http://203.162.235.41:17819
 
 
@@ -5629,10 +5671,11 @@ URL=
 
 
 type=video
-name=The Commuter (2018) ENG 1080p.WEBRip.DD5.1.x264-FGT
+name=The Commuter (2018) ENG 1080p.WEB_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
-date=2018-03-29
-URL=https://openload.co/f/1nVbPE9Ci-c/The.Commuter.2018.1080p.WEBRip.DD5.1.x264-FGT.mkv.mp4
+date=2018-03-30
+URL=https://openload.co/f/RmvzIda8H-k/The.Commuter.2018.1080p.WEB_SeeHD.mp4
+#https://openload.co/f/1nVbPE9Ci-c/The.Commuter.2018.1080p.WEBRip.DD5.1.x264-FGT.mkv.mp4
 #https://openload.co/f/HLCJnHYhtHQ/The.Commuter.2018.1080p.HDRIP.X264.AC3.5.1-TiTAN.mkv.mp4
 #https://openload.co/f/mEJzHd-yTz4/The_Commuter.2018.V2.720p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4
 #https://openload.co/f/s15NsuBO5J0/The_Commuter_2018_720p_NEW_HD-TS_X264-CPG.mkv.mp4
