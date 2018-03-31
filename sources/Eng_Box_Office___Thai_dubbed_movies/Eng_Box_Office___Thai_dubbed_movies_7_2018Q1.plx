@@ -73,7 +73,9 @@ type=video
 name=Ready Player One (2018) ENG 720p.HDCAM.X264
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
 date=2018-03-30
-URL=https://openload.co/f/Ryg8GBobLk8/Ready_Player_One_2018.720p.HDCAM.X264.mp4
+URL=https://openload.co/f/6ynfED25UZk/Ready_Player_One_2018.720p.HDCAM.X264-LookingForGirls.mkv.mp4
+#https://openload.co/f/CzR4XZ1ZXto/Ready.Player.One.2018.NEW.720p.HDCAM.HQMic-CPG.mkv.mp4
+#https://openload.co/f/Ryg8GBobLk8/Ready_Player_One_2018.720p.HDCAM.X264.mp4
 #https://openload.co/f/JWNqMnlNmcA/Ready_Player_One_2018.720p.HDCAM.X264-ThisOneYouWontSell.mp4
 #https://openload.co/f/ACaaIu3-zBc/Ready_Player_One.2018.HDCAM.X264_SeeHD.mkv.mp4
 
@@ -4955,8 +4957,9 @@ URL=https://streamango.com/f/lbbbeonpreaqteqf/A_Futile_and_Stupid_Gesture_2018_
 type=video
 name=The Man from Earth: Holocene (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NAFA7ZyQqp2UDOddeoMPhravIQ.jpg
-date=2018-01-16
-URL=https://openload.co/f/HIyHcgzn51Q/The.Man.from.Earth.Holocene.2017.1080p.BluRay.x264-UNiVEARTH.mkv.mp4
+date=2018-03-31
+URL=https://openload.co/f/u7ktFM6dAlc/The.Man.from.Earth.Holocene.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/HIyHcgzn51Q/The.Man.from.Earth.Holocene.2017.1080p.BluRay.x264-UNiVEARTH.mkv.mp4
 type=video
 name=The Man from Earth: Holocene (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NAFA7ZyQqp2UDOddeoMPhravIQ.jpg
