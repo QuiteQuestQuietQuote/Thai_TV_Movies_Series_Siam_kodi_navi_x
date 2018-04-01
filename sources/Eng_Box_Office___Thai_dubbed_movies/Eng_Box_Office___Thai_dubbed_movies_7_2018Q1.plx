@@ -70,10 +70,11 @@ URL=
 
 
 type=video
-name=Ready Player One (2018) ENG 720p.HDCAM.X264
+name=Ready Player One (2018) ENG 720p_HDCAM-X264-MP3-Bobi
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
-date=2018-03-30
-URL=https://openload.co/f/6ynfED25UZk/Ready_Player_One_2018.720p.HDCAM.X264-LookingForGirls.mkv.mp4
+date=2018-04-01
+URL=https://openload.co/f/cRchGUs-NqE/Ready_Player_One_%282018%29_New_720p_HDCAM-X264-MP3-Bobi.mkv.mp4
+#https://openload.co/f/6ynfED25UZk/Ready_Player_One_2018.720p.HDCAM.X264-LookingForGirls.mkv.mp4
 #https://openload.co/f/CzR4XZ1ZXto/Ready.Player.One.2018.NEW.720p.HDCAM.HQMic-CPG.mkv.mp4
 #https://openload.co/f/Ryg8GBobLk8/Ready_Player_One_2018.720p.HDCAM.X264.mp4
 #https://openload.co/f/JWNqMnlNmcA/Ready_Player_One_2018.720p.HDCAM.X264-ThisOneYouWontSell.mp4
@@ -127,10 +128,11 @@ URL=https://openload.co/f/iQqZjyCB8og/10x10.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp
 
 
 type=video
-name=Early Man (2018) ENG NEW_HDCAM_SeeHD
+name=Early Man (2018) ENG HDCAM.XViD.AC3-ETRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugw07fJIZMVrrIGeN1MO7Xecj5h.jpg
-date=2018-03-29
-URL=https://openload.co/f/P3L0Og4nEbU/Early_Man_2018_NEW_HDCAM_SeeHD.avi.mp4
+date=2018-04-01
+URL=https://openload.co/f/04Hs5gzlZAo/Early_Man_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/P3L0Og4nEbU/Early_Man_2018_NEW_HDCAM_SeeHD.avi.mp4
 #https://openload.co/f/pfbH4MrvDH4/Early_Man_2018_HDCAM_Eng_SeeHD.mkv.mp4
 
 
@@ -1098,10 +1100,11 @@ date=2017-09-22
 URL=https://openload.co/f/0kmy7gSr4W8/Happy.Hunting.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
-name=Big Bear (2017) ENG HDRip.XviD.AC3-EVO
+name=Big Bear (2017) ENG dvdrip.x264.fragment
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukiyd1Z7gZQSsu2daAPEDQGtViC.jpg
-date=2017-09-22
-URL=https://openload.co/f/Zr-Xop-3p3c/Big.Bear.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2018-04-01
+URL=https://openload.co/f/dQRih98gg5c/big.bear.2017.dvdrip.x264.fragment.mkv.mp4
+#https://openload.co/f/Zr-Xop-3p3c/Big.Bear.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 
 
@@ -1315,12 +1318,18 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-30
+date=2018-04-01
 URL=
 
 
 
 
+
+type=video
+name=It Came from the Desert (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/31y9dPyZdzcQXq0mqAWHCyUcL2U.jpg
+date=2018-04-01
+URL=https://openload.co/f/NwMgZInqIog/it.came.from.the.desert.2017.1080p.bluray.x264-latency.mkv.mp4
 
 type=video
 name=The Housemaid (2016) [COLOR=FF00FF00]VIET BR 1080p[/COLOR]
@@ -1350,6 +1359,8 @@ URL=https://openload.co/f/cB8Gz7bfzbU/Mollys.Game.2017.1080p.BluRay.H264.AAC-RAR
 #https://openload.co/f/bDzBWi4g5EQ/Mollys_Game-DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/J9sWRgUuroU/Mollys.Game.2017.HDCAM.READNFO.x264-DiRG.mp4
 #https://openload.co/f/P8Txe4VXgyc/Mollys.Game.2017.CAM.ENG.x264-NoGRP.MP4.mp4
+#https://www.blazefile.co/embed-cb7ypzkk4xjq.html   720
+#https://uptobox.com/il4qzzy7ecxi   720
 
 type=video
 name=Phantom Thread (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4161,8 +4172,10 @@ URL=https://openload.co/f/8zzE2sva_O0/Slumber_2017.720p.Br_SeeHD.mp4
 type=video
 name=Gone Are the Days (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJF23NdeB6DUgk8oBfeg2hr5hKc.jpg
-date=2018-03-30
-URL=https://openload.co/f/-S34pGyo0iA/Gone.Are.the.Days.2018.720p.BR_SeeHD.mp4
+date=2018-04-01
+URL=https://www.blazefile.co/embed-f955jazvz1gb.html
+#https://uptobox.com/m94ov92g54l1
+#https://openload.co/f/-S34pGyo0iA/Gone.Are.the.Days.2018.720p.BR_SeeHD.mp4
 #https://openload.co/f/WfT4zdDnpyE/Gone.Are.the.Days.2018.BluRay.720p.DTS.x264-MTeam.mkv.mp4
 
 
@@ -4290,10 +4303,11 @@ URL=https://streamango.com/f/akqbnnmbcdlcccbm/The_Hurricane_Heist_2018_
 
 
 type=video
-name=Death Wish (2018) ENG 720p_HD-TS_X264-CPG_SeeHD
+name=Death Wish (2018) ENG HD-TS.XViD.AC3-ETRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRpOwIlOXZZVWgDernbPbdHU5cl.jpg
-date=2018-03-29
-URL=https://openload.co/f/hScYbg7JR6A/Death_Wish_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+date=2018-04-01
+URL=https://openload.co/f/k7KT8naQGo8/Death_Wish_2018.HD-TS.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/hScYbg7JR6A/Death_Wish_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/zO6vHUtv0Uc/Death_Wish_2018_NEW_HDCAM_Layar.mp4
 #https://openload.co/f/woXxvTJV3xQ/Death.Wish.2018.NEW_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/08UkBIEbOMg/Death.Wish.2018.HDCAM.x264-DiRG.mp4
@@ -4327,10 +4341,11 @@ URL=https://streamango.com/f/kmeqqlkbfqosafts/Monster_Hunt_2_2018_2_
 
 
 type=video
-name=Winchester (2018) ENG 720p.HDCAM_SeeHD
+name=Winchester (2018) ENG HDCAM.XViD.AC3-ETRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg
-date=2018-03-16
-URL=https://openload.co/f/MR70YVhvXwA/Winchester.2018.720p.HDCAM_SeeHD.mp4
+date=2018-04-01
+URL=https://openload.co/f/9oox3vHbdJQ/Winchester_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/MR70YVhvXwA/Winchester.2018.720p.HDCAM_SeeHD.mp4
 #https://openload.co/f/c4esc5nzmqs/Winchester.2018.HDCAM.x264-DiRG.mp4
 type=video
 name=Winchester (2018) THCAM
@@ -4388,8 +4403,10 @@ URL=https://streamango.com/f/meketpbdbsqbabpa/Fifty_Shades_Freed_2018_
 type=video
 name=Along with the Gods: The Two Worlds (2017) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ2djaODo2IC4kBCvNvfTwV8ZpH.jpg
-date=2018-03-29
-URL=https://openload.co/f/cPbb0SCvzYc/Along.with.the.Gods.The.Two.Worlds.2017.720p.BluRay.x264.DD5.1-MT.mkv.mp4
+date=2018-04-01
+URL=https://www.blazefile.co/embed-ep6yte1h39mc.html
+#https://uptobox.com/n8j2hk3vw11i
+#https://openload.co/f/cPbb0SCvzYc/Along.with.the.Gods.The.Two.Worlds.2017.720p.BluRay.x264.DD5.1-MT.mkv.mp4
 #https://openload.co/f/eSh-tToMcZE/Along.With.the.Gods.The.Two.Worlds.2017.1080p.FHDRip.H264.AAC.NonDRM.mp4
 type=video
 name=Along with the Gods: The Two Worlds (2017) THCAM
@@ -4957,9 +4974,11 @@ URL=https://streamango.com/f/lbbbeonpreaqteqf/A_Futile_and_Stupid_Gesture_2018_
 type=video
 name=The Man from Earth: Holocene (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NAFA7ZyQqp2UDOddeoMPhravIQ.jpg
-date=2018-03-31
+date=2018-04-01
 URL=https://openload.co/f/u7ktFM6dAlc/The.Man.from.Earth.Holocene.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/HIyHcgzn51Q/The.Man.from.Earth.Holocene.2017.1080p.BluRay.x264-UNiVEARTH.mkv.mp4
+#https://www.blazefile.co/embed-7qbkssx4eevi.html   720
+#https://uptobox.com/8muhguixxpa4   720
 type=video
 name=The Man from Earth: Holocene (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NAFA7ZyQqp2UDOddeoMPhravIQ.jpg
