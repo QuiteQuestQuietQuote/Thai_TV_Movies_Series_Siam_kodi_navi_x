@@ -1929,8 +1929,14 @@ http://27.254.64.112:1935/thflixCH/BBC_Earth.stream/chunklist.m3u8
 
 #EXTINF:-1,BBC Earth_KOR
 http://211.225.68.27:9981/stream/channelid/194526663?ticket=C2E798B19EA046AC8137F3CB2033722253682EF3&profile=pass
-
-
+#EXTINF:-1,BBC Earth_sak
+http://ssl2.sakkarinsai8.com:19358/footballfuck/0x777_bbcearth_720p/playlist.m3u8
+#EXTINF:-1,Asian Food Channel_sak
+http://ssl2.sakkarinsai8.com:19358/footballfuck/00_homeandfood_480p/playlist.m3u8  
+#EXTINF:-1,BBC Life Style_sak
+http://ssl2.sakkarinsai8.com:19358/footballfuck/0x222_lifestylehd_720p/playlist.m3u8 
+#EXTINF:-1,National Geographic People_sak
+http://ssl2.sakkarinsai8.com:19358/footballfuck/0x222_natgeopeople_720p/playlist.m3u8   
 
 
 #EXTINF:-1 group-title="news" tvg-logo="http://iptv-mobion.vn/Files/Image/admin/2017/12/08/temp_4096267081535225.jpg",Channel News Asia
