@@ -73,16 +73,7 @@ URL=
 
 
 
-type=video
-name=Ready Player One (2018) ENG 720p_HDCAM-X264-MP3-Bobi
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
-date=2018-04-01
-URL=https://openload.co/f/cRchGUs-NqE/Ready_Player_One_%282018%29_New_720p_HDCAM-X264-MP3-Bobi.mkv.mp4
-#https://openload.co/f/6ynfED25UZk/Ready_Player_One_2018.720p.HDCAM.X264-LookingForGirls.mkv.mp4
-#https://openload.co/f/CzR4XZ1ZXto/Ready.Player.One.2018.NEW.720p.HDCAM.HQMic-CPG.mkv.mp4
-#https://openload.co/f/Ryg8GBobLk8/Ready_Player_One_2018.720p.HDCAM.X264.mp4
-#https://openload.co/f/JWNqMnlNmcA/Ready_Player_One_2018.720p.HDCAM.X264-ThisOneYouWontSell.mp4
-#https://openload.co/f/ACaaIu3-zBc/Ready_Player_One.2018.HDCAM.X264_SeeHD.mkv.mp4
+
 
 type=video
 name=The Titan (2018) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTG
@@ -228,15 +219,7 @@ URL=https://openload.co/f/9xfp6WPIibY/The_Clapper.2017.720p.WEB-DL.XviD.AC3-FGT.
 
 
 
-type=video
-name=The Post (2017) ENG DVDScr.XVID.AC3.HQ.Hive-CM8
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5765ORvdKVX5bWmhEjjiOqLk3TH.jpg
-date=2018-01-23
-URL=https://openload.co/f/uiHorXBPdL0/The.Post.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
-#https://openload.co/f/vPOCXYjcMkI/The.Post.2017.TS.XViD-BL4CKP34RL.avi.mp4
-#https://openload.co/f/PZaWx9Hi3ZY/The.Post.2017.HDCAM.x264-DiRG.mp4
-#https://openload.co/f/_PnkG7ex6Ek/The_Post.HDCAM_SeeHD.mp4
-#https://openload.co/f/l55OhzL6WjA/The_Post_2017_ENG_HDCAM-X264-Zi%24t.mkv.mp4
+
 
 type=video
 name=Freak Show (2018) ENG WEB-DL.DD5.1.H264-FGT
@@ -1322,12 +1305,33 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-01
+date=2018-04-03
 URL=
 
 
 
+type=video
+name=The Post (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5765ORvdKVX5bWmhEjjiOqLk3TH.jpg
+date=2018-04-03
+URL=https://www.blazefile.co/embed-95qzary7bv5p.html
+#https://uptobox.com/nh20a9rx9fgl
+#https://openload.co/f/ObWczjk3m1E/The.Post.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/EFWlta82oYw/the.post.2017.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/tSApkpRG2PE/the.post.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/uiHorXBPdL0/The.Post.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/vPOCXYjcMkI/The.Post.2017.TS.XViD-BL4CKP34RL.avi.mp4
+#https://openload.co/f/PZaWx9Hi3ZY/The.Post.2017.HDCAM.x264-DiRG.mp4
+#https://openload.co/f/_PnkG7ex6Ek/The_Post.HDCAM_SeeHD.mp4
+#https://openload.co/f/l55OhzL6WjA/The_Post_2017_ENG_HDCAM-X264-Zi%24t.mkv.mp4
 
+type=video
+name=A Better Tomorrow (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiGt7crOueCfgqGlay4ZryRBRQF.jpg
+date=2018-04-03
+URL=https://www.blazefile.co/embed-pjefipst454c.html
+#https://uptobox.com/zub780k63629
+#https://openload.co/f/oz61UauiMro/A.Better.Tomorrow.2018.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
 
 type=video
 name=It Came from the Desert (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1353,8 +1357,10 @@ URL=https://openload.co/f/J1uN-k0BEJU/Re.Born.2016.JAPANESE.1080p.BluRay.H264.AA
 type=video
 name=Molly's Game (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YC8iVPxvRrz53FdfdejDgUUk2k.jpg
-date=2018-03-29
-URL=https://openload.co/f/cB8Gz7bfzbU/Mollys.Game.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-04-03
+URL=https://www.blazefile.co/embed-yri7w4uwhabh.html
+#https://uptobox.com/tq6hiq5m3i9z
+#https://openload.co/f/cB8Gz7bfzbU/Mollys.Game.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/u42tMyXtOXU/mollys.game.2017.720p.bluray.x264-drones.mkv   MKV6.6GB
 #https://openload.co/f/YH2QqP08B34/Mollys.Game.2017.1080p.WEB-DL.AAC2.0.H264-DVDBOX.mkv.mp4
 #https://openload.co/f/89l5vGnUY70/Mollys.Game.2017.720pHD.WEB-DL_SeeHD.mp4
@@ -4165,15 +4171,7 @@ URL=https://www.blazefile.co/embed-erbbr62zyxx2.html
 #https://uptobox.com/815dmjqxspxy
 #https://openload.co/f/ww1YD3ukZ50/The.Competition.2018.720p.Br_SeeHD.mp4
 
-type=video
-name=Slumber (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbq02c1HqpXsuoZfc07ZOig8mqi.jpg
-date=2018-03-29
-URL=https://openload.co/f/8zzE2sva_O0/Slumber_2017.720p.Br_SeeHD.mp4
-#https://openload.co/f/pqY4wK8damQ/Slumber_2017.720p.Bluray.X264-EVO.mkv.mp4
-#https://openload.co/f/81uuooihRdI/Slumber.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/nLmL37rlOz4/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/b6dV5SfGMn8/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Gone Are the Days (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -4265,6 +4263,23 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
+name=Ready Player One (2018) ENG 720p_HDCAM-X264-MP3-Bobi
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
+date=2018-04-01
+URL=https://openload.co/f/cRchGUs-NqE/Ready_Player_One_%282018%29_New_720p_HDCAM-X264-MP3-Bobi.mkv.mp4
+#https://openload.co/f/6ynfED25UZk/Ready_Player_One_2018.720p.HDCAM.X264-LookingForGirls.mkv.mp4
+#https://openload.co/f/CzR4XZ1ZXto/Ready.Player.One.2018.NEW.720p.HDCAM.HQMic-CPG.mkv.mp4
+#https://openload.co/f/Ryg8GBobLk8/Ready_Player_One_2018.720p.HDCAM.X264.mp4
+#https://openload.co/f/JWNqMnlNmcA/Ready_Player_One_2018.720p.HDCAM.X264-ThisOneYouWontSell.mp4
+#https://openload.co/f/ACaaIu3-zBc/Ready_Player_One.2018.HDCAM.X264_SeeHD.mkv.mp4
+type=video
+name=Ready Player One (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
+date=2018-04-03
+URL=https://streamango.com/f/esmtoktpnsnacelr/Ready_Player_One_2018_
+
+
+type=video
 name=Pacific Rim: Uprising (2018) ENG NEW_HDCAM_2D_X264_HQMic-CPG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
 date=2018-03-24
@@ -4295,10 +4310,11 @@ URL=https://streamango.com/f/pbemkasrmnlorfdt/Tomb_Raider_2018_
 
 
 type=video
-name=The Hurricane Heist (2018) ENG HDCAM_ENG_X264-CPG
+name=The Hurricane Heist (2018) ENG 720p.HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
-date=2018-03-29
-URL=https://openload.co/f/aymgzQFqMOA/The_Hurricane_Heist_2018_HDCAM_ENG_X264-CPG.mkv.mp4
+date=2018-04-03
+URL=https://openload.co/f/ODFyPDy-ycg/The_Hurricane_Heist.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/aymgzQFqMOA/The_Hurricane_Heist_2018_HDCAM_ENG_X264-CPG.mkv.mp4
 #https://openload.co/f/gZ7_RC7JhXw/The_Hurricane_Heist_2018_HDCAM_ENG_X264_CPG.mp4
 #https://openload.co/f/8YJOvr2Krpk/The_Hurricane_Heist_2018.HDCAM.X264-VemMeChupar.mp4
 type=video
@@ -4428,10 +4444,12 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 
 
 type=video
-name=12 Strong (2018) ENG 720p_HDCAM-X264-MP3-Cr%40zyTribal
+name=12 Strong (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
-date=2018-03-23
-URL=https://openload.co/f/6wP070I20Xw/12_Strong_2018_ENG_720p_HDCAM-X264-MP3-Cr%40zyTribal.mkv.mp4
+date=2018-04-03
+URL=https://openload.co/f/Kw7GSqUHLBo/12.Strong.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/lhdNevS9Wl8/12.Strong.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/6wP070I20Xw/12_Strong_2018_ENG_720p_HDCAM-X264-MP3-Cr%40zyTribal.mkv.mp4
 #https://openload.co/f/OqhUPsY6YcQ/12_Strong_2018_NEW_720p_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/hVOiY8yxQWg/12.Strong.2017.CAM.XViD-CMRG.avi.mp4
 type=video
@@ -5694,10 +5712,32 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-23
+date=2018-04-03
 URL=
 
 
+
+type=video
+name=Doraemon the Movie 2017: Nobita's Great Adventure in the Antarctic Kachi Kochi (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUvhVQ6wyO7qssQSJ1CiM93Di7P.jpg
+date=2018-04-03
+URL=https://streamango.com/f/snbfltkcqdpqnfcf/Doraemon_the_Movie_2017_Nobita_s_Great_Adventure_in_the_Antarctic_Kachi_Kochi_2017_-_
+
+
+type=video
+name=Slumber (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbq02c1HqpXsuoZfc07ZOig8mqi.jpg
+date=2018-03-29
+URL=https://openload.co/f/8zzE2sva_O0/Slumber_2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/pqY4wK8damQ/Slumber_2017.720p.Bluray.X264-EVO.mkv.mp4
+#https://openload.co/f/81uuooihRdI/Slumber.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/nLmL37rlOz4/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/b6dV5SfGMn8/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
+type=video
+name=Slumber (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbq02c1HqpXsuoZfc07ZOig8mqi.jpg
+date=2018-04-03
+URL=https://streamango.com/f/fenkmsaldecftpds/Slumber_2017_
 
 
 type=video
