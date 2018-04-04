@@ -462,11 +462,7 @@ URL=https://openload.co/f/cQyihtUfMoE/Love.Beats.Rhymes.2017.720p.WEB-DL.XviD.AC
 
 
 
-type=video
-name=The Tribes of Palos Verdes (2017) ENG WEB-DL.XviD.AC3-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w4JecmVtqcSMk4mdiHURzISsYz.jpg
-date=2017-12-01
-URL=https://openload.co/f/M6r-cHT1VtI/The.Tribes.of.Palos.Verdes.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+
 
 
 
@@ -1102,10 +1098,11 @@ date=2017-09-14
 URL=https://openload.co/f/mqvlmaYXBME/campus.caller.2017.1080p.hdtv.h264-plutonium.mkv.mp4
 
 type=video
-name=The Rizen (2017) ENG dvdrip.x264-spooks
+name=The Rizen (2017) ENG 1080p.WEB-DL.DD5.1.H.264.CRO-DIAMOND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0FJyq8lbqZDz32bvImIRBlT8bS.jpg
-date=2017-09-18
-URL=https://openload.co/f/7L_eh608gm4/the.rizen.2017.dvdrip.x264-spooks.mkv.mp4
+date=2018-04-04
+URL=https://openload.co/f/9KYfeAx4_9A/The.Rizen.2017.1080p.WEB-DL.DD5.1.H.264.CRO-DIAMOND.mkv.mp4
+#https://openload.co/f/7L_eh608gm4/the.rizen.2017.dvdrip.x264-spooks.mkv.mp4
 
 type=video
 name=AWOL (2017) ENG DVDRip.x264-RedBlade
@@ -1310,6 +1307,9 @@ URL=
 
 
 
+
+
+
 type=video
 name=The Post (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5765ORvdKVX5bWmhEjjiOqLk3TH.jpg
@@ -1375,8 +1375,9 @@ URL=https://www.blazefile.co/embed-yri7w4uwhabh.html
 type=video
 name=Phantom Thread (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
-date=2018-03-29
-URL=https://openload.co/f/9x1ASTV_wBg/Phantom.Thread.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+date=2018-04-04
+URL=https://uptobox.com/6bjsmzwcnozs
+#https://openload.co/f/9x1ASTV_wBg/Phantom.Thread.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/4cTv2ODkB7Y/Phantom.Thread.2017.1080p.BRrip.AC3.H264-CMRG.mkv.mp4
 #https://openload.co/f/KiFaEMOtxnU/Phantom.Thread.2017.1080p.WEB-DL.DD5_1.H264-CMRG%5BEtHD%5D.mkv.mp4
 #https://openload.co/f/BSWsAhU73S8/Phantom.Thread.2018.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
@@ -1905,6 +1906,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzYJ9X9oVybCIVAaTOUFHVwcjX
 date=2018-02-28
 URL=https://openload.co/f/AP65ldt2DdY/locked.up.2017.1080p.bluray.x264-rusted.mkv.mp4
 #https://openload.co/f/irT5PSw_TBs/locked.up.2017.1080p.bluray.x264-rusted.mkv   MKV6.5GB
+#https://openload.co/f/5eZwm0l6VYA/Locked.Up.2017.Uncut.WEBRip.x264-RBB.mp4
 
 type=video
 name=The Breadwinner (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4151,8 +4153,9 @@ URL=https://openload.co/f/yKG_lIP3gbE/Beast.of.Burden.2018.720p.BluRay.x264.DTS-
 type=video
 name=Looking Glass (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zSzaUmoUCwII2pGTqX1jaX8F0p.jpg
-date=2018-03-21
-URL=https://openload.co/f/nb1Lmh4w_zU/Looking.Glass.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
+date=2018-04-04
+URL=https://openload.co/f/KZ3hWvTnIAo/Looking.Glass.2018.720p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/nb1Lmh4w_zU/Looking.Glass.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
 #https://openload.co/f/zMCWRLRujw4/Looking.Glass.2018.720p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/eOQ8Q5Cjm5E/Looking.Glass.2018.720.WEB-DL_SeeHD.mkv.mp4
 
@@ -4182,13 +4185,34 @@ URL=https://www.blazefile.co/embed-f955jazvz1gb.html
 #https://openload.co/f/-S34pGyo0iA/Gone.Are.the.Days.2018.720p.BR_SeeHD.mp4
 #https://openload.co/f/WfT4zdDnpyE/Gone.Are.the.Days.2018.BluRay.720p.DTS.x264-MTeam.mkv.mp4
 
+type=video
+name=The Tribes of Palos Verdes (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w4JecmVtqcSMk4mdiHURzISsYz.jpg
+date=2018-04-04
+URL=https://uptobox.com/8oc8er2oomlk
+#https://openload.co/f/KMeG_4C-jUU/The.Tribes.of.Palos.Verdes.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/1EJiV70RPro/The.Tribes.of.Palos.Verdes.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/M6r-cHT1VtI/The.Tribes.of.Palos.Verdes.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+
+type=video
+name=Old Stone (2016) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEhHepHn00aQ0Dni8GrJHTRoFuP.jpg
+date=2018-04-04
+URL=https://openload.co/f/c09mr9_3aPo/old.stone.2016.limited.subbed.720p.bluray.x264-bipolar.mkv.mp4
+
+type=video
+name=The Bold, the Corrupt and the Beautiful (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CvEVro9xb3HHZOJ4alfNkEWryM.jpg
+date=2018-04-04
+URL=https://uptobox.com/lq727v4v2lgw
+
 
 
 
 type=video
 name=
 thumb=
-date=2018-03-30
+date=2018-04-04
 URL=http://203.162.235.41:17819
 
 
@@ -4728,6 +4752,12 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUKK8qNvdswWFknQycj5oQMzcE
 date=2018-03-08
 URL=https://streamango.com/f/snatlkdbpdfnalsb/The_Chase_2017_mp4
 
+
+type=video
+name=Love Per Square Foot (2018) ENG 1080p.NF.WEB-DL.DD5.1.H.264.CRO-DIAMOND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hELQ0htEiE0NHWvmVrPZ4sSrkBF.jpg
+date=2018-04-04
+URL=https://openload.co/f/tF_Nb9pecNU/Love.Per.Square.Foot.2018.1080p.NF.WEB-DL.DD5.1.H.264.CRO-DIAMOND.mkv.mp4
 type=video
 name=Love Per Square Foot (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hELQ0htEiE0NHWvmVrPZ4sSrkBF.jpg
