@@ -1302,13 +1302,30 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-03
+date=2018-04-05
 URL=
 
 
 
 
+type=video
+name=Bomb City (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kho48mWJ5xuiLn5bpuIvO6ZP7ep.jpg
+date=2018-04-05
+URL=https://openload.co/f/zqfEOBIM-9E/Bomb.City.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
+type=video
+name=Faces Places (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NX6NTj9FiiJwEgRUmEifSzE7Na.jpg
+date=2018-04-05
+URL=https://openload.co/f/9GNqaCGrRP8/faces.places.2017.limited.1080p.bluray.x264-usury.mkv.mp4
+#https://openload.co/f/3ERGswh7G9g/faces.places.2017.limited.720p.bluray.x264-usury.mkv.mp4
+
+type=video
+name=Death Wish (1974) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0MJPBLSCtt7DBYZGFsOfQkZCWt.jpg
+date=2018-04-05
+URL=https://openload.co/f/S4hEDGFqX6o/Death.Wish.1974.1080p.BR_SeeHD.mp4
 
 type=video
 name=The Post (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1525,8 +1542,10 @@ URL=https://openload.co/f/qdDrn240MUA/Mist.And.The.Maiden.2017.MULTi.1080p.BluRa
 type=video
 name=Permanent (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrRT7xHUakZoEi6wAp8SIdeMNux.jpg
-date=2018-03-22
-URL=https://openload.co/f/H1L9gusX3zU/Permanent.2017.1080p.BluRay.x264.DTS-MT.mkv.mp4
+date=2018-04-05
+URL=https://openload.co/f/jFsY1BMw5dc/permanent.2017.1080p.bluray.x264-cinefile.mkv.mp4
+#https://openload.co/f/ij_qVY1yUmA/permanent.2017.720p.bluray.x264-cinefile.mkv.mp4
+#https://openload.co/f/H1L9gusX3zU/Permanent.2017.1080p.BluRay.x264.DTS-MT.mkv.mp4
 #https://openload.co/f/HGXxefY7W-k/Permanent.2017.BDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/4O_RiDAKuh0/Permanent.2017.720p.WEB-DL.MkvCage.mkv.mp4
 #https://openload.co/f/jA-VSI9yoE0/Permanent_2017_720p_WEB-DL_SeeHD.mkv.mp4
@@ -4206,17 +4225,26 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CvEVro9xb3HHZOJ4alfNkEWry
 date=2018-04-04
 URL=https://uptobox.com/lq727v4v2lgw
 
+type=video
+name=Dead on Arrival (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DMChjrooXnJ3Rh9Az5xH0gKxXy.jpg
+date=2018-04-05
+URL=https://openload.co/f/HZ8JFTkD2aQ/Dead.on.Arrival.2017.720pHD_SeeHD.mkv.mp4
+
+
+
+
+
+
+
 
 
 
 type=video
 name=
 thumb=
-date=2018-04-04
+date=2018-04-05
 URL=http://203.162.235.41:17819
-
-
-
 
 
 
@@ -4287,10 +4315,11 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
-name=Ready Player One (2018) ENG 720p_HDCAM-X264-MP3-Bobi
+name=Ready Player One (2018) ENG 720p_NEW_HD-TS_X264_HQ_Mr.Hive_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
-date=2018-04-01
-URL=https://openload.co/f/cRchGUs-NqE/Ready_Player_One_%282018%29_New_720p_HDCAM-X264-MP3-Bobi.mkv.mp4
+date=2018-04-04
+URL=https://openload.co/f/dLbMsY6wF0Q/Ready_Player_One_2018_720p_NEW_HD-TS_X264_HQ_Mr.Hive_SeeHD.mkv.mp4
+#https://openload.co/f/cRchGUs-NqE/Ready_Player_One_%282018%29_New_720p_HDCAM-X264-MP3-Bobi.mkv.mp4
 #https://openload.co/f/6ynfED25UZk/Ready_Player_One_2018.720p.HDCAM.X264-LookingForGirls.mkv.mp4
 #https://openload.co/f/CzR4XZ1ZXto/Ready.Player.One.2018.NEW.720p.HDCAM.HQMic-CPG.mkv.mp4
 #https://openload.co/f/Ryg8GBobLk8/Ready_Player_One_2018.720p.HDCAM.X264.mp4
@@ -4349,10 +4378,11 @@ URL=https://streamango.com/f/akqbnnmbcdlcccbm/The_Hurricane_Heist_2018_
 
 
 type=video
-name=Death Wish (2018) ENG HD-TS.XViD.AC3-ETRG
+name=Death Wish (2018) ENG 720p_HD-TS_X264-CPG_SeeHD.
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRpOwIlOXZZVWgDernbPbdHU5cl.jpg
-date=2018-04-01
-URL=https://openload.co/f/k7KT8naQGo8/Death_Wish_2018.HD-TS.XViD.AC3-ETRG.avi.mp4
+date=2018-04-05
+URL=https://openload.co/f/m6H4BMp2miQ/Death_Wish_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/k7KT8naQGo8/Death_Wish_2018.HD-TS.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/hScYbg7JR6A/Death_Wish_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/zO6vHUtv0Uc/Death_Wish_2018_NEW_HDCAM_Layar.mp4
 #https://openload.co/f/woXxvTJV3xQ/Death.Wish.2018.NEW_HDCAM_SeeHD.mkv.mp4
@@ -4375,10 +4405,11 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 
 
 type=video
-name=Monster Hunt 2 (2018) CHN Cam
+name=Monster Hunt 2 (2018) CHN HC.HDRip.AC3.X264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
-date=2018-02-16
-URL=https://openload.co/f/6oGjRk_3toQ/Monster_Hunt_2_%282018%29_Cam.mp4
+date=2018-04-04
+URL=https://openload.co/f/xiI37NMVGYQ/Monster.Hunt.2.2018.HC.HDRip.AC3.X264-CMRG.mkv.mp4
+#https://openload.co/f/6oGjRk_3toQ/Monster_Hunt_2_%282018%29_Cam.mp4
 type=video
 name=Monster Hunt 2 (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
@@ -5771,10 +5802,14 @@ URL=https://streamango.com/f/fenkmsaldecftpds/Slumber_2017_
 
 
 type=video
-name=The Commuter (2018) ENG 1080p.WEB_SeeHD
+name=The Commuter (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
-date=2018-03-30
-URL=https://openload.co/f/RmvzIda8H-k/The.Commuter.2018.1080p.WEB_SeeHD.mp4
+date=2018-04-04
+URL=https://openload.co/f/RVZv7EDvmH0/The.Commuter.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/WXbOAZol0FI/The.Commuter.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/P81K6HeA9Vc/The.Commuter.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/m1t2tYmt8d8/The.Commuter.2018.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/RmvzIda8H-k/The.Commuter.2018.1080p.WEB_SeeHD.mp4
 #https://openload.co/f/1nVbPE9Ci-c/The.Commuter.2018.1080p.WEBRip.DD5.1.x264-FGT.mkv.mp4
 #https://openload.co/f/HLCJnHYhtHQ/The.Commuter.2018.1080p.HDRIP.X264.AC3.5.1-TiTAN.mkv.mp4
 #https://openload.co/f/mEJzHd-yTz4/The_Commuter.2018.V2.720p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4
