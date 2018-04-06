@@ -61,7 +61,35 @@ URL=
 
 
 
+type=video
+name=138xxxxxxxxxxxxxxxxxxxxAsian Sex Diary [Filipina Sex Diary] Rose An Anal Rose That Is
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Asian-Sex-Diary-Filipina-Sex-Diary-Rose-An-Anal-Rose-That-Is.jpg
+date=2018-04-06
+URL=https://streamcherry.com/embed/qdaqfkeeddmkacqf/
 
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Nicole Ashley S Morning Fuck
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Asian-Sex-Diary-Filipina-Sex-Diary-Nicole-Ashley-S-Morning-Fuck.jpg
+date=2018-04-06
+URL=https://streamcherry.com/embed/nnbneapbtadfdpqs/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Vincenikki Homemade Video
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Asian-Sex-Diary-Filipina-Sex-Diary-Vincenikki-Homemade-Video.jpg
+date=2018-04-06
+URL=https://streamcherry.com/embed/rffqcmdbemallfcq/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Roxanne
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Asian-Sex-Diary-Filipina-Sex-Diary-Roxanne.jpg
+date=2018-04-06
+URL=https://streamcherry.com/embed/leqmlntdrnlkboas/
+
+type=video
+name=Asian Sex Diary [Filipina Sex Diary] Morning On Disco Night
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Asian-Sex-Diary-Filipina-Sex-Diary-Morning-On-Disco-Night.jpg
+date=2018-04-06
+URL=https://streamcherry.com/embed/ftqccqfnfpknqqln/
 
 
 

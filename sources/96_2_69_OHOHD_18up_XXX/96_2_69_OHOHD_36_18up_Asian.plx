@@ -68,6 +68,75 @@ URL=
 
 
 
+type=video
+name=188xxxxxxxxxxxxxxxxxxxxJeojsobuin Balamnassne 5 (1996)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Jeojsobuin-Balamnassne-5-1996.jpg
+date=2018-04-06
+URL=https://streamcherry.com/embed/bepfrerdpbapctrr/
+
+type=video
+name=Jeojsobuin Balamnassne 4 (1996)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Jeojsobuin-Balamnassne-4-1996.jpg
+date=2018-04-06
+URL=https://streamcherry.com/embed/nmmkassrrnrralsp/
+
+type=video
+name=Jeojsobuin Balamnassne 3 (1996)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Jeojsobuin-Balamnassne-3-1996.jpg
+date=2018-04-06
+URL=https://streamcherry.com/embed/eraqpbqnfskpafed/
+
+type=video
+name=Jeojsobuin Balamnassne 2 (1995)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Jeojsobuin-Balamnassne-2-1995.jpg
+date=2018-04-06
+URL=https://streamcherry.com/embed/lemabekocmkcondq/
+
+type=video
+name=Jeojsobuin Balamnassne (1995)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Jeojsobuin-Balamnassne-1995.jpg
+date=2018-04-06
+URL=https://streamcherry.com/embed/lolrtcmsmmtsqpea/
+
+
+type=video
+name=Room College Girls (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Room-College-Girls-2018.jpg
+date=2018-04-06
+URL=https://streamcherry.com/embed/kmsctnpbfqctkddo/
+
+type=video
+name=Donarinohitoni Tasukerareta Watasi (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Donarinohitoni-Tasukerareta-Watasi-2016.jpg
+date=2018-04-06
+URL=https://streamcherry.com/embed/lblmmomlodnsdetl/
+
+type=video
+name=My Friends Wife 3 (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/My-Friends-Wife-3-2017-Uncut.jpg
+date=2018-04-06
+URL=https://streamcherry.com/embed/epnpnporetbdsbqp/
+
+type=video
+name=A Mistress Of Father (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/A-Mistress-Of-Father-2016.jpg
+date=2018-04-06
+URL=https://streamcherry.com/embed/nalskbnsnldcnsbk/
+
+type=video
+name=Chokyo Office (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Chokyo-Office-2016.jpg
+date=2018-04-06
+URL=https://streamcherry.com/embed/bppbpbsfnmtqfrbk/
+
+
+type=video
+name=Kind Mother (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/03/Kind-Mother-2017-Uncut.jpg
+date=2018-04-06
+URL=https://streamcherry.com/embed/stsssfnffooneqen/
+
+
 
 
 
