@@ -63,7 +63,7 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-03-30
+date=2018-04-06
 URL=
 
 
@@ -73,7 +73,11 @@ URL=
 
 
 
-
+type=video
+name=A Quiet Place (2018) ENG CAM_SpaceMov.is
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
+date=2018-04-06
+URL=https://openload.co/f/4oOgXQX4jy4/A_Quiet_Place_%282018%29_CAM_SpaceMov.is
 
 type=video
 name=The Titan (2018) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTG
@@ -1320,6 +1324,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NX6NTj9FiiJwEgRUmEifSzE7N
 date=2018-04-05
 URL=https://openload.co/f/9GNqaCGrRP8/faces.places.2017.limited.1080p.bluray.x264-usury.mkv.mp4
 #https://openload.co/f/3ERGswh7G9g/faces.places.2017.limited.720p.bluray.x264-usury.mkv.mp4
+#https://www.blazefile.co/embed-f4o1ux4lagme.html   720
+#https://uptobox.com/3gc1updez7zf   720
 
 type=video
 name=Death Wish (1974) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1549,6 +1555,8 @@ URL=https://openload.co/f/jFsY1BMw5dc/permanent.2017.1080p.bluray.x264-cinefile.
 #https://openload.co/f/HGXxefY7W-k/Permanent.2017.BDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/4O_RiDAKuh0/Permanent.2017.720p.WEB-DL.MkvCage.mkv.mp4
 #https://openload.co/f/jA-VSI9yoE0/Permanent_2017_720p_WEB-DL_SeeHD.mkv.mp4
+#https://www.blazefile.co/embed-7wfgmzf3ijp5.html   720
+#https://uptobox.com/oc1iky2032fj   720
 
 type=video
 name=Mercy Christmas (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3800,11 +3808,7 @@ date=2017-09-19
 URL=https://www.blazefile.co/embed-c2qsw3qzpvdi.html
 #https://openload.co/f/wU7g8EGDJX8/anomalous.2016.720p.bluray.x264-rusted.mkv.mp4
 
-type=video
-name=The Lure (2015) [COLOR=FF00FF00]POL BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwv8xd3bmxCNYZegB5VLpde3ADB.jpg
-date=2017-10-16
-URL=https://openload.co/f/8Zvnt2ZLjV0/the.lure.2015.720p.bluray.x264-killerhd.mkv.mp4
+
 
 type=video
 name=The Adventurers (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
@@ -4172,8 +4176,10 @@ URL=https://openload.co/f/yKG_lIP3gbE/Beast.of.Burden.2018.720p.BluRay.x264.DTS-
 type=video
 name=Looking Glass (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zSzaUmoUCwII2pGTqX1jaX8F0p.jpg
-date=2018-04-04
-URL=https://openload.co/f/KZ3hWvTnIAo/Looking.Glass.2018.720p.BluRay.x264-PSYCHD.mkv.mp4
+date=2018-04-06
+URL=https://www.blazefile.co/embed-klt0renqula5.html
+#https://uptobox.com/k8pli2j5k8wm
+#https://openload.co/f/KZ3hWvTnIAo/Looking.Glass.2018.720p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/nb1Lmh4w_zU/Looking.Glass.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
 #https://openload.co/f/zMCWRLRujw4/Looking.Glass.2018.720p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/eOQ8Q5Cjm5E/Looking.Glass.2018.720.WEB-DL_SeeHD.mkv.mp4
@@ -4362,19 +4368,7 @@ date=2018-03-20
 URL=https://streamango.com/f/pbemkasrmnlorfdt/Tomb_Raider_2018_
 
 
-type=video
-name=The Hurricane Heist (2018) ENG 720p.HC.HDRip.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
-date=2018-04-03
-URL=https://openload.co/f/ODFyPDy-ycg/The_Hurricane_Heist.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/aymgzQFqMOA/The_Hurricane_Heist_2018_HDCAM_ENG_X264-CPG.mkv.mp4
-#https://openload.co/f/gZ7_RC7JhXw/The_Hurricane_Heist_2018_HDCAM_ENG_X264_CPG.mp4
-#https://openload.co/f/8YJOvr2Krpk/The_Hurricane_Heist_2018.HDCAM.X264-VemMeChupar.mp4
-type=video
-name=The Hurricane Heist (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
-date=2018-03-20
-URL=https://streamango.com/f/akqbnnmbcdlcccbm/The_Hurricane_Heist_2018_
+
 
 
 type=video
@@ -4498,20 +4492,6 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 
 
 
-type=video
-name=12 Strong (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
-date=2018-04-03
-URL=https://openload.co/f/Kw7GSqUHLBo/12.Strong.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/lhdNevS9Wl8/12.Strong.2018.720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/6wP070I20Xw/12_Strong_2018_ENG_720p_HDCAM-X264-MP3-Cr%40zyTribal.mkv.mp4
-#https://openload.co/f/OqhUPsY6YcQ/12_Strong_2018_NEW_720p_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/hVOiY8yxQWg/12.Strong.2017.CAM.XViD-CMRG.avi.mp4
-type=video
-name=12 Strong (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
-date=2018-01-22
-URL=https://streamango.com/f/bcnspemlmbdmfcbk/12_Strong_2018_12_
 
 
 
@@ -4620,8 +4600,44 @@ URL=https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0
 type=video
 name=
 thumb=
-date=2018-03-26
+date=2018-04-06
 URL=
+
+
+type=video
+name=First Match (2018) ENG 1080p.web.x264-strife
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwmtK6A7jwriIY0gh0HUgvI1ETA.jpg
+date=2018-04-06
+URL=https://openload.co/f/1StUcQK4xz0/first.match.2018.1080p.web.x264-strife.mkv.mp4
+type=video
+name=First Match (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwmtK6A7jwriIY0gh0HUgvI1ETA.jpg
+date=2018-04-06
+URL=https://streamango.com/f/ddarssrrmoblnrtq/First_Match_2018_
+
+
+type=video
+name=Birdshot (2016) ENG 1080p.NF.WEBRip.DD5.1.x264-QOQ
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EuKlaYo53CDFAKbxzkQ8r2bSUP.jpg
+date=2018-04-06
+URL=https://openload.co/f/n1Rs1Gk52Gg/Birdshot.2016.1080p.NF.WEBRip.DD5.1.x264-QOQ.mkv.mp4
+type=video
+name=Birdshot (2016) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EuKlaYo53CDFAKbxzkQ8r2bSUP.jpg
+date=2018-04-06
+URL=https://streamango.com/f/nesqdcdrndbmdelq/Birdshot_2016_
+
+
+type=video
+name=Happy Anniversary (2018) ENG 720p.WEBRip.XviD.AC3-FGT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQYX248aotb6ma6QxJ14utYEYoD.jpg
+date=2018-04-06
+URL=https://openload.co/f/yUImPRDiIyE/Happy.Anniversary.2018.720p.WEBRip.XviD.AC3-FGT.avi.mp4
+type=video
+name=Happy Anniversary (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQYX248aotb6ma6QxJ14utYEYoD.jpg
+date=2018-04-06
+URL=https://streamango.com/f/cetecdspcpnrkfdl/Happy_Anniversary_2018_
 
 
 type=video
@@ -5778,6 +5794,40 @@ URL=
 
 
 
+
+type=video
+name=12 Strong (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
+date=2018-04-03
+URL=https://openload.co/f/Kw7GSqUHLBo/12.Strong.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/lhdNevS9Wl8/12.Strong.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/6wP070I20Xw/12_Strong_2018_ENG_720p_HDCAM-X264-MP3-Cr%40zyTribal.mkv.mp4
+#https://openload.co/f/OqhUPsY6YcQ/12_Strong_2018_NEW_720p_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/hVOiY8yxQWg/12.Strong.2017.CAM.XViD-CMRG.avi.mp4
+type=video
+name=12 Strong (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
+date=2018-04-06
+URL=https://streamango.com/f/edocarltlsqskbal/12_Strong_2018_12_
+#https://streamango.com/f/bcnspemlmbdmfcbk/12_Strong_2018_12_
+
+
+type=video
+name=The Hurricane Heist (2018) ENG 720p.HC.HDRip.X264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
+date=2018-04-03
+URL=https://openload.co/f/ODFyPDy-ycg/The_Hurricane_Heist.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/aymgzQFqMOA/The_Hurricane_Heist_2018_HDCAM_ENG_X264-CPG.mkv.mp4
+#https://openload.co/f/gZ7_RC7JhXw/The_Hurricane_Heist_2018_HDCAM_ENG_X264_CPG.mp4
+#https://openload.co/f/8YJOvr2Krpk/The_Hurricane_Heist_2018.HDCAM.X264-VemMeChupar.mp4
+type=video
+name=The Hurricane Heist (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
+date=2018-04-06
+URL=https://streamango.com/f/acqppnfbtdfkcelm/The_Hurricane_Heist_2018_
+#https://streamango.com/f/akqbnnmbcdlcccbm/The_Hurricane_Heist_2018_
+
+
 type=video
 name=Doraemon the Movie 2017: Nobita's Great Adventure in the Antarctic Kachi Kochi (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUvhVQ6wyO7qssQSJ1CiM93Di7P.jpg
@@ -5817,6 +5867,8 @@ URL=https://openload.co/f/RVZv7EDvmH0/The.Commuter.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/qQHqw_vax30/The_Commuter_2018_HDCAM_REPACK_X264-DADDY.mkv.mp4
 #https://openload.co/f/l_asVj98QaI/The.Commuter.2018.CAM.ENG.DADDY.mkv.mp4
 #https://openload.co/f/yq1GYYdbymo/Commuter.CAM.ENG_SeeHD.mkv.mp4
+#https://www.blazefile.co/embed-sxipw5375hu8.html   720
+#https://uptobox.com/0thy8s01s6kc   720
 type=video
 name=The Commuter (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
@@ -5911,29 +5963,7 @@ date=2018-03-20
 URL=https://streamango.com/f/bmldsbamrspanecq/Happy_Family_2017_
 
 
-type=video
-name=Insidious: The Last Key (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg
-date=2018-03-20
-URL=https://www.blazefile.co/embed-e9ks1awwru5a.html
-#https://uptobox.com/bfkmdvxant6u
-#https://openload.co/f/erlUbjhQH-Q/insidious.the.last.key.2018.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/G-KoGcto_Nk/insidious.the.last.key.2018.720p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/YsUwHfuxwbE/Insidious_The_Last_Key.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/h5F5ckvNgI4/Insidious.The.Last.Key.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
-#https://openload.co/f/TMDihKq4tTo/Insidious_The_Last_Key.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/jKI_FSEZmXY/Insidious_The_Last_Key.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/c-P7OnfBMEE/Insidious.The.Last.Key.2018.720P.WEB-DL.X264.MP3-P2P.mkv.mp4
-#https://openload.co/f/03zVVvboCyQ/Insidious_The_Last_Key_%282018%29_720PVOD_SeeHD.mkv.mp4
-#https://openload.co/f/Gi9eyQs7AIA/Insidious_The_Last_Key_2018_NEW_HDCAM_X264_HQ-CPG.mkv.mp4
-#https://openload.co/f/TBxLV3VCkmU/Insidious_The_Last_Key_2017_CAM_ENG_X264_HQMic-DADDY.mkv.mp4
-type=video
-name=Insidious: The Last Key (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg
-date=2018-03-20
-URL=https://streamango.com/f/lqeeoanftnbspesq/Insidious_The_Last_Key_2018_
-#https://streamango.com/f/balkfoftmmbtdnsn/Insidious_The_Last_Key_2018_
-#https://streamango.com/f/qdbemflbepkodbkb/Insidious_The_Last_Key_2018_
+
 
 
 
@@ -6274,7 +6304,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-29
+date=2018-04-06
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
@@ -6282,7 +6312,62 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+type=video
+name=Julieta (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIqR496Zu6Aj3oyVLB24qiMnVid.jpg
+date=2018-04-06
+URL=https://openload.co/f/afQAPUxFYrY/Julieta_%282016%29%E0%B8%88%E0%B8%B9%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%95%E0%B9%89%E0%B8%B2.mp4
 
+
+type=video
+name=Insidious: The Last Key (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg
+date=2018-03-20
+URL=https://www.blazefile.co/embed-e9ks1awwru5a.html
+#https://uptobox.com/bfkmdvxant6u
+#https://openload.co/f/erlUbjhQH-Q/insidious.the.last.key.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/G-KoGcto_Nk/insidious.the.last.key.2018.720p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/YsUwHfuxwbE/Insidious_The_Last_Key.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/h5F5ckvNgI4/Insidious.The.Last.Key.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
+#https://openload.co/f/TMDihKq4tTo/Insidious_The_Last_Key.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/jKI_FSEZmXY/Insidious_The_Last_Key.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/c-P7OnfBMEE/Insidious.The.Last.Key.2018.720P.WEB-DL.X264.MP3-P2P.mkv.mp4
+#https://openload.co/f/03zVVvboCyQ/Insidious_The_Last_Key_%282018%29_720PVOD_SeeHD.mkv.mp4
+#https://openload.co/f/Gi9eyQs7AIA/Insidious_The_Last_Key_2018_NEW_HDCAM_X264_HQ-CPG.mkv.mp4
+#https://openload.co/f/TBxLV3VCkmU/Insidious_The_Last_Key_2017_CAM_ENG_X264_HQMic-DADDY.mkv.mp4
+type=video
+name=Insidious: The Last Key (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg
+date=2018-04-06
+URL=https://openload.co/f/4zNyj1t7upU/Insidious%3A_The_Last_Key_%282018%29%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B4%E0%B8%94%3A_%E0%B8%81%E0%B8%B8%E0%B8%8D%E0%B9%81%E0%B8%88%E0%B8%9C%E0%B8%B5%E0%B8%9A%E0%B8%AD%E0%B8%81.mp4
+#https://streamango.com/f/lqeeoanftnbspesq/Insidious_The_Last_Key_2018_
+#https://streamango.com/f/balkfoftmmbtdnsn/Insidious_The_Last_Key_2018_
+#https://streamango.com/f/qdbemflbepkodbkb/Insidious_The_Last_Key_2018_
+
+
+type=video
+name=The Lure (2015) [COLOR=FF00FF00]POL BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwv8xd3bmxCNYZegB5VLpde3ADB.jpg
+date=2017-10-16
+URL=https://openload.co/f/8Zvnt2ZLjV0/the.lure.2015.720p.bluray.x264-killerhd.mkv.mp4
+type=video
+name=The Lure (2015) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwv8xd3bmxCNYZegB5VLpde3ADB.jpg
+date=2018-04-06
+URL=https://openload.co/f/K4OKMddO8UE/The_Lure_%282015%29%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%B2%E0%B8%A2.mp4
+
+
+type=video
+name=SORI: Voice from the Heart (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWPosBiPde1ykbY3vP1beOJsN4G.jpg
+date=2018-04-06
+URL=https://openload.co/f/xTUUZJS5Qyo/SORI%3A_Voice_from_the_Heart_%282016%29%E0%B9%82%E0%B8%8B%E0%B8%A3%E0%B8%B5%3A_%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88.mp4
+
+type=video
+name=Keeping Up with the Joneses (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekg8qeNidEQ1ylHeahLtsTLPe2k.jpg
+date=2018-04-06
+URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A.mp4
 
 
 
