@@ -3338,17 +3338,19 @@ date=2017-10-10
 URL=https://openload.co/f/zrOCNnrsKN0/justice.2017.limited.1080p.bluray.x264-geckos.mkv.mp4
 
 type=video
-name=Virtual Revolution (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.7GB
+name=Virtual Revolution (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] 
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxB6QUCLcmAgdYbSVhpdKYbTPQA.jpg
 date=2017-10-09
-URL=https://openload.co/f/CLTEuiOJEks/virtual.revolution.2016.1080p.bluray.x264-justwatch.mkv
+URL=https://openload.co/f/aR9UhO8ms1o/virtual.revolution.2016.1080p.bluray.x264-justwatch.mkv.mp4
+#https://openload.co/f/CLTEuiOJEks/virtual.revolution.2016.1080p.bluray.x264-justwatch.mkv   MKV 7.7GB
 #https://openload.co/f/aR9UhO8ms1o/virtual.revolution.2016.1080p.bluray.x264-justwatch.mkv.mp4
 
 type=video
-name=The Night Watchmen (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.2GB
+name=The Night Watchmen (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] 720
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVHF2J5J0DRr0X4kSgzvxJLJuKa.jpg
 date=2017-10-09
-URL=https://openload.co/f/FQDvXkYehl0/The.Night.Watchmen.2017.1080p.BluRay.x264.DTS-LOST.mkv
+URL=https://www.blazefile.co/embed-h9ffhpuucb10.html
+#https://openload.co/f/FQDvXkYehl0/The.Night.Watchmen.2017.1080p.BluRay.x264.DTS-LOST.mkv   MKV 7.2GB
 #https://openload.co/f/9O1b0Nag7fc/The.Night.Watchmen.2017.1080p.BluRay.x264.DTS-LOST.mkv.mp4
 #https://www.blazefile.co/embed-h9ffhpuucb10.html   720
 
@@ -3568,10 +3570,11 @@ URL=https://www.blazefile.co/embed-wl3aj45x1huo.html
 #https://openload.co/f/t0sqZBoEA3M/Complete.Unknown.2016.LiMiTED.1080p.BluRay.x264-SiNNERS.mkv.mp4
 
 type=video
-name=The Ghoul (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 6.6GB
+name=The Ghoul (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] 
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkzjc4Q7vPYXeIyaFIX4rFJImtJ.jpg
 date=2017-10-08
-URL=https://openload.co/f/HqB1MvIqFRs/The.Ghoul.2016.1080p.BluRay.x264-SPOOKS.mkv
+URL=https://openload.co/f/jpsXEOuvEOI/The.Ghoul.2016.1080p.BluRay.x264-SPOOKS.mkv.mp4
+#https://openload.co/f/HqB1MvIqFRs/The.Ghoul.2016.1080p.BluRay.x264-SPOOKS.mkv   MKV 6.6GB
 #https://openload.co/f/jpsXEOuvEOI/The.Ghoul.2016.1080p.BluRay.x264-SPOOKS.mkv.mp4
 #https://openload.co/f/5dfO-ckAQyM/The.Ghoul.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
@@ -3905,12 +3908,10 @@ date=2018-01-02
 URL=https://openload.co/f/yTKdvZi4tO0/don.quixote.2015.720p.bluray.x264-rusted.mkv.mp4
 
 type=video
-name=Marshall (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Marshall (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR] WEB 1080p
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2z9oNW3TE5H5woLozFwfxlRRc0b.jpg
 date=2018-03-14
-URL=http://download856.mediafire.com/7gu823gi6wqg/6dvrxjyvch75arr/shqmarsllbd72.Ganool.se.mkv
-#http://download1083.mediafire.com/i34mavla2xtg/ql7o8yn6v9cx3z1/ghpgomaalagain80.Ganool.se.mkv
-#https://openload.co/f/JGf43ccWqWg/Marshall.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+URL=https://openload.co/f/JGf43ccWqWg/Marshall.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/8vN3wlt8dR0/Marshall.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/RtjAPjl12-M/Marshall.2017.Movies.HD.TS.x264.Clean.Audio.AAC.New.Source.rDX.mkv.mp4
 #https://openload.co/f/8UKPBGPLaDk/Marshall.2017.CAM.READNFO.XViD-26k.avi.mp4
@@ -3923,7 +3924,7 @@ type=video
 name=Trainspotting (1996) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1O3eFsdb0GEIYu87xlwV7P4jM1.jpg
 date=2018-03-27
-URL=http://192.99.67.192/home/movies29/tt0117951_hd.mp4
+URL=http://192.99.67.192/home/movies31/tt0117951.mp4
 
 
 
