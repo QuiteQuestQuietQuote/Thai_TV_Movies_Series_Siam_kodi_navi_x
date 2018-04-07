@@ -307,10 +307,11 @@ URL=https://openload.co/f/_u1FMyoGufI/Woody.Woodpecker.2017.1080p.WEB-DL.DD5.1.H
 
 
 type=video
-name=You Were Never Really Here (2017) FRENCH.CAM.MD.XViD_STVFRV.E
+name=You Were Never Really Here (2017) ENG 1080p_Web_DL_x264_AC3_TiTAN
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvW4XbwdzWB5nCvSMA3ZDCZslCx.jpg
-date=2017-11-10
-URL=https://openload.co/f/_4z3LoSbk-Y/You.Were.Never.Really.Here.2017.FRENCH.CAM.MD.XViD_STVFRV.E.mp4
+date=2018-04-07
+URL=https://openload.co/f/3ehNw9Fp-n4/You_Were_Never_Really_Here_2017_1080p_Web_DL_x264_AC3_TiTAN%5BN1C%5D.mkv.mp4
+#https://openload.co/f/_4z3LoSbk-Y/You.Were.Never.Really.Here.2017.FRENCH.CAM.MD.XViD_STVFRV.E.mp4
 
 
 
@@ -1200,6 +1201,11 @@ URL=https://openload.co/f/naLgj72tNpo/The.Humanity.Bureau.2017.BDRip.XviD.AC3-EV
 #https://openload.co/f/gEajQqD6N2c/The.Humanity.Bureau.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/NL95Kk2HLJA/the.humanity.bureau.2017.dvdrip.x264-sabena.mkv.mp4
 
+type=video
+name=Humor Me (2017) ENG BDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6Za9a2Sn52bQQs0KkWPuFSAiNy.jpg
+date=2018-04-07
+URL=https://openload.co/f/aUBwTKJzJPU/Humor.Me.2017.BDRip.XviD.AC3-EVO.avi.mp4
 
 
 
@@ -1210,7 +1216,7 @@ URL=https://openload.co/f/naLgj72tNpo/The.Humanity.Bureau.2017.BDRip.XviD.AC3-EV
 type=video
 name=
 thumb=
-date=2018-02-15
+date=2018-04-07
 URL=
 
 
@@ -4231,6 +4237,7 @@ name=The Bold, the Corrupt and the Beautiful (2017) [COLOR=FF00FF00]CHN BR 720p[
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CvEVro9xb3HHZOJ4alfNkEWryM.jpg
 date=2018-04-04
 URL=https://uptobox.com/lq727v4v2lgw
+https://openload.co/f/sJmvK-ifWh0/The.Bold.the.Corrupt.and.the.Beautiful.2017.720p.BluRay.x264-WiKi.mkv.mp4
 
 type=video
 name=Dead on Arrival (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -4460,10 +4467,12 @@ URL=https://streamango.com/f/bdnqfkmfbaoartca/Den_of_Thieves_2018_
 
 
 type=video
-name=Fifty Shades Freed (2018) ENG 720p.HD-TS.X264-UNiQUE
+name=Fifty Shades Freed (2018) ENG 1080P.WEB-DL.X264.AC3-NeNi
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUDFe6B6bFPOAE13uoqH4eEU1cF.jpg
-date=2018-02-14
-URL=https://openload.co/f/IMwyvA9Xc6w/Fifty.Shades.Freed.2018_NEW.720p.HD-TS.X264-UNiQUE.mkv.mp4
+date=2018-04-07
+URL=https://openload.co/f/sKuTkuLI1V8/Fifty.Shades.Freed.2018.1080P.WEB-DL.X264.AC3-NeNi.mkv.mp4
+#https://openload.co/f/spvID5uSiFU/Fifty.Shades.Freed.2018.720P.WEB-DL-X264-Zi%24t_SeeHD.mkv.mp4
+#https://openload.co/f/IMwyvA9Xc6w/Fifty.Shades.Freed.2018_NEW.720p.HD-TS.X264-UNiQUE.mkv.mp4
 #https://openload.co/f/Ossdmi1Plnw/Fifty.Shades.Freed.2018_V2_720p_HDCAM_X264_-_MeFodeAna.%5BSN%5D.mkv.mp4
 type=video
 name=Fifty Shades Freed (2018) THCAM
@@ -5154,10 +5163,11 @@ URL=https://streamango.com/f/dmapderccctlmcpr/Fun_Mom_Dinner_2017_mp4
 
 
 type=video
-name=Bad Day for the Cut (2017) ENG WEB-DL.DD5.1.H264-FGT
+name=Bad Day for the Cut (2017) ENG dvdrip.x264-cadaver
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QvTi8rFF663o0JvuBGDTyRbnqq.jpg
-date=2017-10-20
-URL=https://openload.co/f/_1C1vqFC744/Bad.Day.for.the.Cut.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+date=2018-04-07
+URL=https://openload.co/f/jBpXAuwqu_A/bad.day.for.the.cut.2017.limited.dvdrip.x264-cadaver.mkv.mp4
+#https://openload.co/f/_1C1vqFC744/Bad.Day.for.the.Cut.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 type=video
 name=Bad Day for the Cut (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QvTi8rFF663o0JvuBGDTyRbnqq.jpg
@@ -5814,10 +5824,11 @@ URL=https://streamango.com/f/edocarltlsqskbal/12_Strong_2018_12_
 
 
 type=video
-name=The Hurricane Heist (2018) ENG 720p.HC.HDRip.X264.AC3-EVO
+name=The Hurricane Heist (2018) ENG 1080p.HDTV.x264-PLUTONiUM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
-date=2018-04-03
-URL=https://openload.co/f/ODFyPDy-ycg/The_Hurricane_Heist.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+date=2018-04-07
+URL=https://openload.co/f/0-ofoQwhdfU/The.Hurricane.Heist.2017.1080p.HDTV.x264-PLUTONiUM.mkv.mp4
+#https://openload.co/f/ODFyPDy-ycg/The_Hurricane_Heist.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/aymgzQFqMOA/The_Hurricane_Heist_2018_HDCAM_ENG_X264-CPG.mkv.mp4
 #https://openload.co/f/gZ7_RC7JhXw/The_Hurricane_Heist_2018_HDCAM_ENG_X264_CPG.mp4
 #https://openload.co/f/8YJOvr2Krpk/The_Hurricane_Heist_2018.HDCAM.X264-VemMeChupar.mp4
@@ -5901,10 +5912,12 @@ URL=https://streamango.com/f/lotsrbtoeltsceod/All_the_Money_in_the_World_2017_
 
 
 type=video
-name=Maze Runner: The Death Cure (2018) ENG 1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT
+name=Maze Runner: The Death Cure (2018) ENG 1080p.1080p.HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
-date=2018-03-26
-URL=https://openload.co/f/sLASnIz8WG4/Maze.Runner.The.Death.Cure.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mp4
+date=2018-04-07
+URL=https://openload.co/f/KKw_NHJZnvw/Maze.Runner.The.Death.Cure.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/7PVevWjxyNE/Maze.Runner.The.Death.Cure.2017.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/sLASnIz8WG4/Maze.Runner.The.Death.Cure.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mp4
 #https://openload.co/f/8pEl-AGXn1M/Maze.Runner.The.Death.Cure.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://streamango.com/f/snmomkretqkpccbe/Maze_Runner_The_Death_Cure_2017_720p_HC_HDRip_X264_AC3-EVO_mkv_mp4
 #https://openload.co/f/-m5KP7AdL18/Maze.Runner.The.Death.Cure.2017.HC.HDRip.XviD.AC3-EVO.mp4
