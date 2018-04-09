@@ -513,6 +513,8 @@ URL=https://www.blazefile.co/embed-njol5nxfkv8p.html
 #https://openload.co/f/6ZvZcs_wfXQ/Thor_Ragnarok_2017_NOLOGO_ENG_LQ_HDCAM.mp4
 #https://openload.co/f/N5CTkRYKr5g/Thor%3A_Ragnarok_2017_HDCAM_%5BLayar-21.com%5D.mp4
 #http://entervideo.net/watch/fbc6907370d0144
+#https://www.blazefile.co/embed-q9ptehgq122z.html   720
+#https://uptobox.com/7nnijzdde8l1   720
 type=video
 name=Thor: Ragnarok (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg

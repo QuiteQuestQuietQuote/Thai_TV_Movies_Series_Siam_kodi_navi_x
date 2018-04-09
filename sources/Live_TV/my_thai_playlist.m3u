@@ -1826,11 +1826,24 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 
 
 
-
-
-
-
-
+#EXTINF:-1,Blue Hustler
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/268/index.m3u8
+#EXTINF:-1,Brazzers TV Europe
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/346/index.m3u8
+#EXTINF:-1,Dorcel TV HD1
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/851/index.m3u8
+#EXTINF:-1,Dorcel TV HD2
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/852/index.m3u8
+#EXTINF:-1,Dorcel TV HD3
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/853/index.m3u8
+#EXTINF:-1,Dorcel TV HD4
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/854/index.m3u8
+#EXTINF:-1,Hustler HD
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/502/index.m3u8
+#EXTINF:-1,Playboy
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/142/index.m3u8
+#EXTINF:-1,PRIVATE TV
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/354/index.m3u8
 
 
 
@@ -1925,9 +1938,9 @@ http://27.254.64.112:1935/thflixCH/BBC_Earth.stream/chunklist.m3u8
 
 
 #EXTINF:-1,BBC Earth_KOR
-http://14.38.12.174:9981/stream/channelid/1234457111?ticket=12A0EA01B532E18F202F4531FFBE3BF55F85A0A5&profile=pass
-
-
+http://119.194.30.67:9981/stream/channelid/1550569005?ticket=F39C5EB1368D210C1C3972760F345AE57F270B93&profile=pass
+#EXTINF:-1,CNBC Europe
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/340/index.m3u8
 
 #EXTINF:-1 group-title="news" tvg-logo="http://iptv-mobion.vn/Files/Image/admin/2017/12/08/temp_4096267081535225.jpg",Channel News Asia
 http://xemtivi24.000webhostapp.com/iptv-mobion.php?id=channelnewsasia

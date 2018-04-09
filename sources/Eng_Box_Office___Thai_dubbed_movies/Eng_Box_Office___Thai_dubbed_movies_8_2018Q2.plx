@@ -63,7 +63,7 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-04-06
+date=2018-04-09
 URL=
 
 
@@ -71,13 +71,19 @@ URL=
 
 
 
-
+type=video
+name=Love, Simon (2018) ENG HDCAM-X264-MP3-Bobi
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg
+date=2018-04-09
+URL=https://openload.co/f/e5MNXzl3aog/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi.mkv.mp4
 
 type=video
-name=A Quiet Place (2018) ENG CAM_SpaceMov.is
+name=A Quiet Place (2018) ENG NEW_HDCAM_ENG_X264-Mr.HIVE
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
-date=2018-04-06
-URL=https://openload.co/f/4oOgXQX4jy4/A_Quiet_Place_%282018%29_CAM_SpaceMov.is
+date=2018-04-09
+URL=https://openload.co/f/DRoYF1zP1EI/A_Quiet_Place_2018_NEW_HDCAM_ENG_X264-Mr.HIVE.mkv.mp4
+#https://openload.co/f/bxT6UUfg6Cg/A_Quiet_Place_%282018%29_New_Movie_CAM_x264_AC3_by_Full4movies.mp4
+#https://openload.co/f/4oOgXQX4jy4/A_Quiet_Place_%282018%29_CAM_SpaceMov.is
 
 type=video
 name=The Titan (2018) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTG
@@ -360,6 +366,19 @@ date=2018-03-24
 URL=
 
 
+
+type=video
+name=Mrs. Hyde (2018) FRE TS.XviD_F4NTASTiC.E
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmBGn8QBWG8ojGdKemY959qjdMq.jpg
+date=2018-04-09
+URL=https://openload.co/f/ZYojgJ9AJJU/Madame.Hyde.2018.FRENCH.TS.XviD_F4NTASTiC.E.mp4
+
+type=video
+name=Paterno (2018) ENG 1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ad4y2Cc2FcY1wOk3DH7HVWlrgEM.jpg
+date=2018-04-09
+URL=https://openload.co/f/Tms4xy3wQmg/Paterno.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee.mkv.mp4
+#https://openload.co/f/L5IavymIoPs/Paterno.2018.720p.HD_SeeHD.mp4
 
 type=video
 name=Bilal: A New Breed of Hero (2015) ARB HD.720P.ENG.SUB
@@ -1192,20 +1211,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/62oRA7ghxL9HGFHe5Dd9IVljyK
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
-type=video
-name=The Humanity Bureau (2017) ENG BDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/85xioeF08JX4iYRUNMlEPjJWrPl.jpg
-date=2018-03-17
-URL=https://openload.co/f/naLgj72tNpo/The.Humanity.Bureau.2017.BDRip.XviD.AC3-EVO.avi.mp4
-#https://www.blazefile.co/embed-wncdast3r4z6.html
-#https://openload.co/f/gEajQqD6N2c/The.Humanity.Bureau.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/NL95Kk2HLJA/the.humanity.bureau.2017.dvdrip.x264-sabena.mkv.mp4
 
-type=video
-name=Humor Me (2017) ENG BDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6Za9a2Sn52bQQs0KkWPuFSAiNy.jpg
-date=2018-04-07
-URL=https://openload.co/f/aUBwTKJzJPU/Humor.Me.2017.BDRip.XviD.AC3-EVO.avi.mp4
+
+
 
 
 
@@ -1312,11 +1320,54 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-05
+date=2018-04-09
 URL=
 
 
 
+
+type=video
+name=Looking Glass (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zSzaUmoUCwII2pGTqX1jaX8F0p.jpg
+date=2018-04-09
+URL=https://www.blazefile.co/embed-8wua8vwu9d2c.html
+#https://uptobox.com/qd8rei11afdi
+#https://www.blazefile.co/embed-klt0renqula5.html   720
+#https://uptobox.com/k8pli2j5k8wm   720
+#https://openload.co/f/KZ3hWvTnIAo/Looking.Glass.2018.720p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/nb1Lmh4w_zU/Looking.Glass.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
+#https://openload.co/f/zMCWRLRujw4/Looking.Glass.2018.720p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/eOQ8Q5Cjm5E/Looking.Glass.2018.720.WEB-DL_SeeHD.mkv.mp4
+
+type=video
+name=The Humanity Bureau (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/85xioeF08JX4iYRUNMlEPjJWrPl.jpg
+date=2018-04-09
+URL=https://openload.co/f/YLtFf3FBZbo/The.Humanity.Bureau.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/AhCLXEgiL8w/The.Humanity.Bureau.2017.720p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/naLgj72tNpo/The.Humanity.Bureau.2017.BDRip.XviD.AC3-EVO.avi.mp4
+#https://www.blazefile.co/embed-wncdast3r4z6.html
+#https://openload.co/f/gEajQqD6N2c/The.Humanity.Bureau.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/NL95Kk2HLJA/the.humanity.bureau.2017.dvdrip.x264-sabena.mkv.mp4
+#https://www.blazefile.co/embed-vfvmyurzc8zu.html   720
+#https://uptobox.com/iups5gi5da83   720
+
+type=video
+name=Humor Me (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6Za9a2Sn52bQQs0KkWPuFSAiNy.jpg
+date=2018-04-09
+URL=https://openload.co/f/L53VutbGC3E/Humor.Me.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/aUBwTKJzJPU/Humor.Me.2017.BDRip.XviD.AC3-EVO.avi.mp4
+#https://www.blazefile.co/embed-19o49dznmjza.html   720
+#https://uptobox.com/ogf2pzcxkubo   720
+
+type=video
+name=Mother (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iR80pPMnSuX03g66Qo5u6poNyPA.jpg
+date=2018-04-09
+URL=https://openload.co/f/6mB0keWeNF4/madre.2016.1080p.bluray.x264-unveil.mkv.mp4
+#https://www.blazefile.co/embed-dow1rkhu03sv.html   720
+#https://uptobox.com/dhngcjmfnluw   720
 
 type=video
 name=Bomb City (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4180,16 +4231,7 @@ date=2018-03-21
 URL=https://openload.co/f/yKG_lIP3gbE/Beast.of.Burden.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
 #https://openload.co/f/d5hIJ1d4afY/Beast_of_Burden_2018_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
 
-type=video
-name=Looking Glass (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zSzaUmoUCwII2pGTqX1jaX8F0p.jpg
-date=2018-04-06
-URL=https://www.blazefile.co/embed-klt0renqula5.html
-#https://uptobox.com/k8pli2j5k8wm
-#https://openload.co/f/KZ3hWvTnIAo/Looking.Glass.2018.720p.BluRay.x264-PSYCHD.mkv.mp4
-#https://openload.co/f/nb1Lmh4w_zU/Looking.Glass.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
-#https://openload.co/f/zMCWRLRujw4/Looking.Glass.2018.720p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/eOQ8Q5Cjm5E/Looking.Glass.2018.720.WEB-DL_SeeHD.mkv.mp4
+
 
 type=video
 name=Will You Be There (2016) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
@@ -4245,19 +4287,40 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DMChjrooXnJ3Rh9Az5xH0gKxX
 date=2018-04-05
 URL=https://openload.co/f/HZ8JFTkD2aQ/Dead.on.Arrival.2017.720pHD_SeeHD.mkv.mp4
 
+type=video
+name=Beyond the Edge (2018) [COLOR=FF00FF00]RUS BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/treaCPP0kGCQmTSmaHKYedZFwOO.jpg
+date=2018-04-09
+URL=https://openload.co/f/ZYqlmR5Qkro/Beyond.the.Edge.2018.720p.BR_SeeHD.mp4
+#https://openload.co/f/fw3PepGzRvc/Beyond.the.edge_2017_720p_BRRip_AC3_X264-CMRG.mkv.mp4
 
+type=video
+name=The Music of Silence (2017) [COLOR=FF00FF00]ITA BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/btoHPtkDOEkHC27UpSpqzPXVT22.jpg
+date=2018-04-09
+URL=https://openload.co/f/zIFbeaJFL1U/The.Music.of.Silence.2017.720p.BluRay.x264.DTS-FGT.mkv.mp4
 
+type=video
+name=Perfect Strangers (2017) [COLOR=FF00FF00]ESP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYzsmKMhC7fXLubYSZx0Z8UnDFR.jpg
+date=2018-04-09
+URL=https://www.blazefile.co/embed-n878n2iehsx6.html
+#https://uptobox.com/a0z68pcuoqgy
+#https://openload.co/f/v3KFbLSE4p8/perfect.strangers.2017.720p.bluray.x264-usury.mkv.mp4
 
-
-
-
+type=video
+name=Basmati Blues (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jloGTycXSSkp1Gz1Nf5ZLNYOOHX.jpg
+date=2018-04-09
+URL=https://www.blazefile.co/embed-0sdj06l7jth6.html
+#https://uptobox.com/rtcz181cw03s
 
 
 
 type=video
 name=
 thumb=
-date=2018-04-05
+date=2018-04-09
 URL=http://203.162.235.41:17819
 
 
@@ -5824,10 +5887,11 @@ URL=https://streamango.com/f/edocarltlsqskbal/12_Strong_2018_12_
 
 
 type=video
-name=The Hurricane Heist (2018) ENG 1080p.HDTV.x264-PLUTONiUM
+name=The Hurricane Heist (2018) ENG 1080p_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
-date=2018-04-07
-URL=https://openload.co/f/0-ofoQwhdfU/The.Hurricane.Heist.2017.1080p.HDTV.x264-PLUTONiUM.mkv.mp4
+date=2018-04-09
+URL=https://openload.co/f/0Zs_IbIVQwQ/The.Hurricane.Heist.2017.1080p_SeeHD.mp4
+#https://openload.co/f/0-ofoQwhdfU/The.Hurricane.Heist.2017.1080p.HDTV.x264-PLUTONiUM.mkv.mp4
 #https://openload.co/f/ODFyPDy-ycg/The_Hurricane_Heist.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/aymgzQFqMOA/The_Hurricane_Heist_2018_HDCAM_ENG_X264-CPG.mkv.mp4
 #https://openload.co/f/gZ7_RC7JhXw/The_Hurricane_Heist_2018_HDCAM_ENG_X264_CPG.mp4
@@ -5866,8 +5930,10 @@ URL=https://streamango.com/f/fenkmsaldecftpds/Slumber_2017_
 type=video
 name=The Commuter (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
-date=2018-04-04
-URL=https://openload.co/f/RVZv7EDvmH0/The.Commuter.2018.1080p.BR_SeeHD.mp4
+date=2018-04-09
+URL=https://www.blazefile.co/embed-2qi62ksenzre.html
+#https://uptobox.com/2zaqbfy84d6v
+#https://openload.co/f/RVZv7EDvmH0/The.Commuter.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/WXbOAZol0FI/The.Commuter.2018.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/P81K6HeA9Vc/The.Commuter.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/m1t2tYmt8d8/The.Commuter.2018.720p.BluRay.x264-DRONES.mkv.mp4
@@ -5884,8 +5950,9 @@ URL=https://openload.co/f/RVZv7EDvmH0/The.Commuter.2018.1080p.BR_SeeHD.mp4
 type=video
 name=The Commuter (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
-date=2018-03-29
-URL=https://streamango.com/f/doctmfotreeptkbp/The_Commuter_2018_
+date=2018-04-09
+URL=https://openload.co/f/AGkAyHCpAwk/The_Commuter_%282018%29%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/doctmfotreeptkbp/The_Commuter_2018_
 #https://streamango.com/f/pbtbmqdafrscrmad/The_Commuter_2018_
 
 
