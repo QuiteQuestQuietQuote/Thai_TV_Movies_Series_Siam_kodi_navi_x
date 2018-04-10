@@ -63,7 +63,7 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-04-09
+date=2018-04-10
 URL=
 
 
@@ -84,6 +84,12 @@ date=2018-04-09
 URL=https://openload.co/f/DRoYF1zP1EI/A_Quiet_Place_2018_NEW_HDCAM_ENG_X264-Mr.HIVE.mkv.mp4
 #https://openload.co/f/bxT6UUfg6Cg/A_Quiet_Place_%282018%29_New_Movie_CAM_x264_AC3_by_Full4movies.mp4
 #https://openload.co/f/4oOgXQX4jy4/A_Quiet_Place_%282018%29_CAM_SpaceMov.is
+
+type=video
+name=Forever My Girl (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcushpAgo51nTpBAuTygLxiJ80h.jpg
+date=2018-04-10
+URL=https://openload.co/f/m5bXbfSbqRw/Forever_My_Girl_2018_1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 
 type=video
 name=The Titan (2018) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTG
@@ -196,10 +202,11 @@ URL=https://openload.co/f/bV_8RkHANJQ/The_15-17_to_Paris_2018.HDCAM.XViD.AC3-ETR
 
 
 type=video
-name=Hostiles (2017) ENG NEW.720p.HDCAM.x264-CPG
+name=Hostiles (2017) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqoezyB51GfhiloOB5ZErg5HXas.jpg
-date=2018-02-03
-URL=https://openload.co/f/KG8d68nqqOw/Hostiles.2018.NEW.720p.HDCAM.x264-CPG.mkv.mp4
+date=2018-04-10
+URL=https://openload.co/f/AdINiy7vOHw/Hostiles.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/KG8d68nqqOw/Hostiles.2018.NEW.720p.HDCAM.x264-CPG.mkv.mp4
 
 
 
@@ -312,12 +319,7 @@ URL=https://openload.co/f/_u1FMyoGufI/Woody.Woodpecker.2017.1080p.WEB-DL.DD5.1.H
 
 
 
-type=video
-name=You Were Never Really Here (2017) ENG 1080p_Web_DL_x264_AC3_TiTAN
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvW4XbwdzWB5nCvSMA3ZDCZslCx.jpg
-date=2018-04-07
-URL=https://openload.co/f/3ehNw9Fp-n4/You_Were_Never_Really_Here_2017_1080p_Web_DL_x264_AC3_TiTAN%5BN1C%5D.mkv.mp4
-#https://openload.co/f/_4z3LoSbk-Y/You.Were.Never.Really.Here.2017.FRENCH.CAM.MD.XViD_STVFRV.E.mp4
+
 
 
 
@@ -1324,7 +1326,13 @@ date=2018-04-09
 URL=
 
 
-
+type=video
+name=You Were Never Really Here (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvW4XbwdzWB5nCvSMA3ZDCZslCx.jpg
+date=2018-04-10
+URL=https://openload.co/f/A38DPxtWSvQ/You.Were.Never.Really.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/3ehNw9Fp-n4/You_Were_Never_Really_Here_2017_1080p_Web_DL_x264_AC3_TiTAN%5BN1C%5D.mkv.mp4
+#https://openload.co/f/_4z3LoSbk-Y/You.Were.Never.Really.Here.2017.FRENCH.CAM.MD.XViD_STVFRV.E.mp4
 
 type=video
 name=Looking Glass (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4516,10 +4524,11 @@ URL=https://streamango.com/f/qqoddkablatcrnbr/Black_Panther_2018_
 
 
 type=video
-name=Den of Thieves (2018) ENG NEW_720p_HD-TS_X264-CPG
+name=Den of Thieves (2018) ENG 1080p_WEB-DL_DD5_1_H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
-date=2018-03-02
-URL=https://openload.co/f/Lgk_VxDMTIw/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4
+date=2018-04-10
+URL=https://openload.co/f/y3Pf7plGu-I/Den_of_Thieves_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+#https://openload.co/f/Lgk_VxDMTIw/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4
 #https://openload.co/f/-B28tK5CPMY/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4
 #https://openload.co/f/I0a9aXjeZwo/Den.of.Thieves.2018.HDCAM.HQMIC.x264-DiRG.mp4
 type=video
@@ -5979,10 +5988,11 @@ URL=https://streamango.com/f/lotsrbtoeltsceod/All_the_Money_in_the_World_2017_
 
 
 type=video
-name=Maze Runner: The Death Cure (2018) ENG 1080p.1080p.HC.HDRip.X264.AC3-EVO
+name=Maze Runner: The Death Cure (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
-date=2018-04-07
-URL=https://openload.co/f/KKw_NHJZnvw/Maze.Runner.The.Death.Cure.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+date=2018-04-10
+URL=https://openload.co/f/af6-Q_Z60kI/Maze.Runner.The.Death.Cure.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/KKw_NHJZnvw/Maze.Runner.The.Death.Cure.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/7PVevWjxyNE/Maze.Runner.The.Death.Cure.2017.720pHD_SeeHD.mkv.mp4
 #https://openload.co/f/sLASnIz8WG4/Maze.Runner.The.Death.Cure.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mp4
 #https://openload.co/f/8pEl-AGXn1M/Maze.Runner.The.Death.Cure.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
