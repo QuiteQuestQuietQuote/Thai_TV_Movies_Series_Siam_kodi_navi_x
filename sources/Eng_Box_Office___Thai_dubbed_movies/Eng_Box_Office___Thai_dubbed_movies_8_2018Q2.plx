@@ -78,10 +78,11 @@ date=2018-04-09
 URL=https://openload.co/f/e5MNXzl3aog/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi.mkv.mp4
 
 type=video
-name=A Quiet Place (2018) ENG NEW_HDCAM_ENG_X264-Mr.HIVE
+name=A Quiet Place (2018) ENG NOLOGO.NEW.HDCAM.ENG.X264-Mr.HIVE
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
-date=2018-04-09
-URL=https://openload.co/f/DRoYF1zP1EI/A_Quiet_Place_2018_NEW_HDCAM_ENG_X264-Mr.HIVE.mkv.mp4
+date=2018-04-11
+URL=https://openload.co/f/4rP4kBfw7no/A.Quiet.Place.2018.NOLOGO.NEW.HDCAM.ENG.X264-Mr.HIVE.mkv.mp4
+#https://openload.co/f/DRoYF1zP1EI/A_Quiet_Place_2018_NEW_HDCAM_ENG_X264-Mr.HIVE.mkv.mp4
 #https://openload.co/f/bxT6UUfg6Cg/A_Quiet_Place_%282018%29_New_Movie_CAM_x264_AC3_by_Full4movies.mp4
 #https://openload.co/f/4oOgXQX4jy4/A_Quiet_Place_%282018%29_CAM_SpaceMov.is
 
@@ -1322,9 +1323,26 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-09
+date=2018-04-11
 URL=
 
+
+
+type=video
+name=Blood Road (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKlhQ07dLkpuke42sX51OMwQN0N.jpg
+date=2018-04-11
+URL=https://openload.co/f/mWr0fxgf0pE/Blood.Road.2017.1080p.BluRay.x264-OBiTS.mkv.mp4
+#https://openload.co/f/i45cssoqnx0/Blood.Road.2017.720p.BluRay.x264-OBiTS.mkv.mp4
+
+type=video
+name=Beast of Burden (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uexWTafwBClTU1qJTEHT0T8TZHb.jpg
+date=2018-04-11
+URL=https://openload.co/f/omw_J34A0B4/Beast.of.Burden.2018.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/EKOSIJQ0jKQ/Beast.of.Burden.2018.720p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/yKG_lIP3gbE/Beast.of.Burden.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/d5hIJ1d4afY/Beast_of_Burden_2018_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
 
 type=video
 name=You Were Never Really Here (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1333,6 +1351,8 @@ date=2018-04-10
 URL=https://openload.co/f/A38DPxtWSvQ/You.Were.Never.Really.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/3ehNw9Fp-n4/You_Were_Never_Really_Here_2017_1080p_Web_DL_x264_AC3_TiTAN%5BN1C%5D.mkv.mp4
 #https://openload.co/f/_4z3LoSbk-Y/You.Were.Never.Really.Here.2017.FRENCH.CAM.MD.XViD_STVFRV.E.mp4
+#https://www.blazefile.co/embed-8bc0ffl94g0a.html   720
+#https://uptobox.com/kwz7wswqjo0n   720
 
 type=video
 name=Looking Glass (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1382,6 +1402,8 @@ name=Bomb City (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kho48mWJ5xuiLn5bpuIvO6ZP7ep.jpg
 date=2018-04-05
 URL=https://openload.co/f/zqfEOBIM-9E/Bomb.City.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://www.blazefile.co/embed-keofg153y5ri.html   720
+#https://uptobox.com/odokwarbta5p   720
 
 type=video
 name=Faces Places (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
@@ -4232,12 +4254,7 @@ URL=https://openload.co/f/gpWb9ZxgW_Q/The.Real.Estate.2018.720p.BluRay.x264-APVR
 
 
 
-type=video
-name=Beast of Burden (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uexWTafwBClTU1qJTEHT0T8TZHb.jpg
-date=2018-03-21
-URL=https://openload.co/f/yKG_lIP3gbE/Beast.of.Burden.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
-#https://openload.co/f/d5hIJ1d4afY/Beast_of_Burden_2018_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
+
 
 
 

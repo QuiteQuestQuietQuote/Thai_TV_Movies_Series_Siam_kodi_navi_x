@@ -281,6 +281,13 @@ URL=https://openload.co/f/bLaW8K9_oss/Better_Watch_Out_%282017%29%E0%B9%82%E0%B8
 #https://openload.co/f/-XtVUtoF8pc/Better_Watch_Out_%282017%29%E0%B9%82%E0%B8%94%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%94_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
+
+type=video
+name=Ajin: Demi-Human (2017) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fINvKAGwJomcALdjB8DWmOC9ZQK.jpg
+date=2018-04-11
+URL=https://www.blazefile.co/embed-9kwzqdy3z2v0.html
+#https://uptobox.com/y2maiqji0qfc
 type=video
 name=Ajin: Demi-Human (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fINvKAGwJomcALdjB8DWmOC9ZQK.jpg
