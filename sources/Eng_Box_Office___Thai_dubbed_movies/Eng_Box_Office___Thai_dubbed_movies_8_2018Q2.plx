@@ -72,10 +72,11 @@ URL=
 
 
 type=video
-name=Love, Simon (2018) ENG HDCAM-X264-MP3-Bobi
+name=Love, Simon (2018) ENG HDCAM-X264-MP3-Bobi_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg
-date=2018-04-09
-URL=https://openload.co/f/e5MNXzl3aog/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi.mkv.mp4
+date=2018-04-12
+URL=https://openload.co/f/g46sjjNuT3g/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi_SeeHD.mkv.mp4
+#https://openload.co/f/e5MNXzl3aog/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi.mkv.mp4
 
 type=video
 name=A Quiet Place (2018) ENG NOLOGO.NEW.HDCAM.ENG.X264-Mr.HIVE
@@ -1214,7 +1215,11 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/62oRA7ghxL9HGFHe5Dd9IVljyK
 date=2017-09-12
 URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-FGT.mp4
 
-
+type=video
+name=Camera Obscura (2017) ENG BRRip.AC3.X264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/85kxkK6dU2DudXWfaUhTLu3pvU1.jpg
+date=2018-04-12
+URL=https://openload.co/f/UPi8CX1OeIw/Camera.Obscura.2017.BRRip.AC3.X264-CMRG.mkv.mp4
 
 
 
@@ -1227,7 +1232,7 @@ URL=https://openload.co/f/v1rB7Np22CI/Anti_Matter_2016_1080p_WEB-DL_AAC2.0_H264-
 type=video
 name=
 thumb=
-date=2018-04-07
+date=2018-04-12
 URL=
 
 
@@ -1323,10 +1328,23 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-11
+date=2018-04-12
 URL=
 
 
+
+
+type=video
+name=78/52 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3V0rimtIHFGIUkvRxrfpWF9UcB.jpg
+date=2018-04-12
+URL=https://openload.co/f/XCalX2CiZ8Q/78.52.hitchcocks.shower.scene.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+
+type=video
+name=Jasper Jones (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8STcHG95dwTG7s9tdVbJ27SwwRX.jpg
+date=2018-04-12
+URL=https://openload.co/f/GHMwxRNMVkY/Jasper.Jones.2017.1080p.BR_SeeHD.mp4
 
 type=video
 name=Blood Road (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1347,8 +1365,10 @@ URL=https://openload.co/f/omw_J34A0B4/Beast.of.Burden.2018.1080p.BluRay.x264-PSY
 type=video
 name=You Were Never Really Here (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvW4XbwdzWB5nCvSMA3ZDCZslCx.jpg
-date=2018-04-10
-URL=https://openload.co/f/A38DPxtWSvQ/You.Were.Never.Really.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-04-12
+URL=https://www.blazefile.co/embed-9hkt3yk8iljy.html
+#https://uptobox.com/qphoollzeoyi
+#https://openload.co/f/A38DPxtWSvQ/You.Were.Never.Really.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/3ehNw9Fp-n4/You_Were_Never_Really_Here_2017_1080p_Web_DL_x264_AC3_TiTAN%5BN1C%5D.mkv.mp4
 #https://openload.co/f/_4z3LoSbk-Y/You.Were.Never.Really.Here.2017.FRENCH.CAM.MD.XViD_STVFRV.E.mp4
 #https://www.blazefile.co/embed-8bc0ffl94g0a.html   720
@@ -4315,8 +4335,9 @@ URL=https://openload.co/f/HZ8JFTkD2aQ/Dead.on.Arrival.2017.720pHD_SeeHD.mkv.mp4
 type=video
 name=Beyond the Edge (2018) [COLOR=FF00FF00]RUS BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/treaCPP0kGCQmTSmaHKYedZFwOO.jpg
-date=2018-04-09
-URL=https://openload.co/f/ZYqlmR5Qkro/Beyond.the.Edge.2018.720p.BR_SeeHD.mp4
+date=2018-04-12
+URL=https://uptobox.com/vjac4sj1f2a4
+#https://openload.co/f/ZYqlmR5Qkro/Beyond.the.Edge.2018.720p.BR_SeeHD.mp4
 #https://openload.co/f/fw3PepGzRvc/Beyond.the.edge_2017_720p_BRRip_AC3_X264-CMRG.mkv.mp4
 
 type=video
@@ -4339,6 +4360,13 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jloGTycXSSkp1Gz1Nf5ZLNYOOH
 date=2018-04-09
 URL=https://www.blazefile.co/embed-0sdj06l7jth6.html
 #https://uptobox.com/rtcz181cw03s
+
+type=video
+name=Bajirao Mastani (2015) [COLOR=FF00FF00]HIN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xN0aGzekKL0g0RgDxFo1ZWGNOfO.jpg
+date=2018-04-12
+URL=https://openload.co/f/Vthxd5Vmfss/Bajirao_Mastani_%282015%29_BluRay_-_720p_-_%5BTelugu_%2B_Tamil_%2B_Hindi%5D.mkv.mp4
+
 
 
 
@@ -6005,10 +6033,13 @@ URL=https://streamango.com/f/lotsrbtoeltsceod/All_the_Money_in_the_World_2017_
 
 
 type=video
-name=Maze Runner: The Death Cure (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+name=Maze Runner: The Death Cure (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
-date=2018-04-10
-URL=https://openload.co/f/af6-Q_Z60kI/Maze.Runner.The.Death.Cure.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2018-04-12
+URL=https://openload.co/f/QhGckE_9scM/Maze.Runner.The.Death.Cure.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/F4a9cv7vf58/Maze.Runner.The.Death.Cure.2018.720p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/Mu66WFP4CmQ/Maze.Runner.The.Death.Cure.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/af6-Q_Z60kI/Maze.Runner.The.Death.Cure.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/KKw_NHJZnvw/Maze.Runner.The.Death.Cure.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/7PVevWjxyNE/Maze.Runner.The.Death.Cure.2017.720pHD_SeeHD.mkv.mp4
 #https://openload.co/f/sLASnIz8WG4/Maze.Runner.The.Death.Cure.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mp4
@@ -6019,6 +6050,8 @@ URL=https://openload.co/f/af6-Q_Z60kI/Maze.Runner.The.Death.Cure.2017.1080p.WEB-
 #https://openload.co/f/0wk0pmQT2RE/Maze_Runner_The_Death_Cure_2018_NEW_720p_HDCAM_X264-PAPA.mkv.mp4
 #https://openload.co/f/NcFRR2AcyZg/Maze_Runner_The_Death_Cure.2018.NEWSOURCE.HC.HDCAM.XviD-NoGRP.avi.mp4
 #https://openload.co/f/x3w1YyqQN2I/Maze.Runner.The.Death.Cure.2018.CAM.ENG.x264-NoGRP.MP4.mp4
+#https://www.blazefile.co/embed-jex872z7erar.html   720
+#https://uptobox.com/n5lo6gk2k4th   720
 type=video
 name=Maze Runner: The Death Cure (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
