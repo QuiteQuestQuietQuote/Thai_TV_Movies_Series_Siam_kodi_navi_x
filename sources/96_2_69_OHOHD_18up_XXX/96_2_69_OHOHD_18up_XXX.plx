@@ -26,6 +26,15 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
+
+type=playlist
+name=96_2_69_OHOHD_37_18up_Asian
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Eo-lin-Eom-Ma-2017-Uncut.jpg
+date=2018-04-13
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_37_18up_Asian.plx
+player=default
+rating=-1.00
+
 type=playlist
 name=96_2_69_OHOHD_36_18up_Asian
 thumb=https://erotic24hr.com/wp-content/uploads/2018/01/Ottodake-ga-Shiranai-2016.jpg
