@@ -63,13 +63,18 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-04-10
+date=2018-04-13
 URL=
 
 
 
 
-
+type=video
+name=Rampage (2018) ENG 720p.HDCAM.X264-WeWantToSell
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
+date=2018-04-13
+URL=https://openload.co/f/D2aEsbX76bg/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv.mp4
+#https://openload.co/f/J2dDGP5-huM/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv   MKV3.0GB
 
 type=video
 name=Love, Simon (2018) ENG HDCAM-X264-MP3-Bobi_SeeHD
@@ -184,14 +189,8 @@ URL=https://openload.co/f/eWQIr3XNM5w/The_Lodgers_2017_1080p_WEB-DL_DD5.1_H264-C
 
 
 
-type=video
-name=Peter Rabbit (2018) ENG NEW_HDCAM_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
-date=2018-03-29
-URL=https://openload.co/f/mvM9KJ7lQ_k/Peter_Rabbit_2018._NEW_HDCAM_SeeHD.avi.mp4
-#https://openload.co/f/OuW2gUHhTAU/Peter.Rabbit.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/OztM_HaRQX4/Peter.Rabbit.2018.HDCAM.x264-DiRG.mp4
-#https://openload.co/f/dTapIIDbV60/Peter_Rabbit_%282018%29_RUS.Cam.mp4
+
+
 
 type=video
 name=The 15:17 to Paris (2018) ENG HDCAM.XViD.AC3-ETRG
@@ -1328,11 +1327,21 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-12
+date=2018-04-13
 URL=
 
 
+type=video
+name=Phoenix (2014) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bI7SEgPy1SEZFmOeYmP8keskIrU.jpg
+date=2018-04-13
+URL=https://openload.co/f/xcn3JqLF85o/Phoenix_2014_GERMAN_1080p_BRRip_x264_DTS-JYK.RE.160612.mp4
 
+type=video
+name=Letters to Santa 3 (2017) [COLOR=FF00FF00]POL BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zZgfCQO0KtRsvKgtcFNgDKKRHk.jpg
+date=2018-04-13
+URL=https://openload.co/f/tVy-FHHXBa4/letters.to.santa.3.2017.1080p.bluray.x264-rovers.mkv.mp4
 
 type=video
 name=78/52 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1368,6 +1377,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvW4XbwdzWB5nCvSMA3ZDCZslC
 date=2018-04-12
 URL=https://www.blazefile.co/embed-9hkt3yk8iljy.html
 #https://uptobox.com/qphoollzeoyi
+#https://openload.co/f/CKMhge6DHOs/You.Were.Never.Really.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/A38DPxtWSvQ/You.Were.Never.Really.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/3ehNw9Fp-n4/You_Were_Never_Really_Here_2017_1080p_Web_DL_x264_AC3_TiTAN%5BN1C%5D.mkv.mp4
 #https://openload.co/f/_4z3LoSbk-Y/You.Were.Never.Really.Here.2017.FRENCH.CAM.MD.XViD_STVFRV.E.mp4
@@ -4444,6 +4454,22 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+type=video
+name=Peter Rabbit (2018) ENG NEW_HDCAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
+date=2018-03-29
+URL=https://openload.co/f/mvM9KJ7lQ_k/Peter_Rabbit_2018._NEW_HDCAM_SeeHD.avi.mp4
+#https://openload.co/f/OuW2gUHhTAU/Peter.Rabbit.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/OztM_HaRQX4/Peter.Rabbit.2018.HDCAM.x264-DiRG.mp4
+#https://openload.co/f/dTapIIDbV60/Peter_Rabbit_%282018%29_RUS.Cam.mp4
+type=video
+name=Peter Rabbit (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
+date=2018-04-13
+URL=https://streamango.com/f/dkserplddbclskqo/Peter_Rabbit_2018_Full_-_HD_
+
+
 type=video
 name=Ready Player One (2018) ENG 720p_NEW_HD-TS_X264_HQ_Mr.Hive_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
@@ -4569,10 +4595,11 @@ URL=https://streamango.com/f/qqoddkablatcrnbr/Black_Panther_2018_
 
 
 type=video
-name=Den of Thieves (2018) ENG 1080p_WEB-DL_DD5_1_H264-CMRG
+name=Den of Thieves (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
-date=2018-04-10
-URL=https://openload.co/f/y3Pf7plGu-I/Den_of_Thieves_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+date=2018-04-13
+URL=https://openload.co/f/gQQNC1ZM0_o/Den_of_Thieves.2018.UNRATED.720p.BR_SeeHD.mp4
+#https://openload.co/f/y3Pf7plGu-I/Den_of_Thieves_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
 #https://openload.co/f/Lgk_VxDMTIw/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4
 #https://openload.co/f/-B28tK5CPMY/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4
 #https://openload.co/f/I0a9aXjeZwo/Den.of.Thieves.2018.HDCAM.HQMIC.x264-DiRG.mp4
@@ -6035,8 +6062,9 @@ URL=https://streamango.com/f/lotsrbtoeltsceod/All_the_Money_in_the_World_2017_
 type=video
 name=Maze Runner: The Death Cure (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
-date=2018-04-12
-URL=https://openload.co/f/QhGckE_9scM/Maze.Runner.The.Death.Cure.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-04-13
+URL=https://openload.co/f/Z8HSfs4tgN0/Maze.Runner.The.Death.Cure.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/QhGckE_9scM/Maze.Runner.The.Death.Cure.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/F4a9cv7vf58/Maze.Runner.The.Death.Cure.2018.720p.BluRay.x264-SPARKS.mkv.mp4
 #https://openload.co/f/Mu66WFP4CmQ/Maze.Runner.The.Death.Cure.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/af6-Q_Z60kI/Maze.Runner.The.Death.Cure.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4

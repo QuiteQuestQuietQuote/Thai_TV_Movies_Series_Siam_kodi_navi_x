@@ -1843,6 +1843,36 @@ http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/354/inde
 
 
 
+
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI_27
+http://27.254.64.112:1935/thflixCH/Discovery_Science.stream/chunklist.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery Asia HD
+http://27.254.64.112:1935/thflixCH/Discovery_HD_World.stream/chunklist.m3u8
+#EXTINF:-1,Samrujlok
+http://27.254.64.112:1935/thflixCH/Samrujlok.stream/chunklist.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",Nat Geo People HD
+http://27.254.64.112:1935/thflixCH/NATGEO_PEOPLE.stream/playlist.m3u8
+#EXTINF:-1,BBC Life Style_27
+http://27.254.64.112:1935/thflixCH/BBC_Life_Style.stream/chunklist.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",asian_food_channel
+http://27.254.64.112:1935/thflixCH/Asian_Food_Channel.stream/chunklist.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_27
+http://27.254.64.112:1935/thflixCH/BBC_Earth.stream/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,Money Channel
 https://www.fifa55-live.com/fifa55m-136/00_moneychannel_480p/chunklist.m3u8
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/hbofm.png",HBO family
@@ -1877,22 +1907,12 @@ http://203.162.235.41:17818
 #EXTINF:-1,JAPAN 1
 http://203.162.235.41:17804
 
+#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png",NHK WORLD HD
+http://203.162.235.41:17801
 
 
 
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD
-http://27.254.64.112:1935/thflixCH/BBC_Earth.stream/chunklist.m3u8
-
-
-
-
-#EXTINF:-1,national_geographic_people_103
-http://103.77.116.184:8800/documentary/national_geographic_people_720p.stream/playlist.m3u8
-#EXTINF:-1,asian_food_channel_103
-http://103.77.116.184:8800/documentary/asian_food_channel_480p.stream/playlist.m3u8
-#EXTINF:-1,bbc_earth_103
-http://103.77.116.184:8800/documentary/bbc_earth_720p.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
 http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
@@ -1919,38 +1939,41 @@ https://www.fifa55-live.com/fifa55m-41/0x222_lifestylehd_720p/chunklist.m3u8
 
 
 
+#EXTINF:-1,National Geographic People_sakkarin
+http://ssl2.sakkarinsai8.com:19358/footballfuck/0x222_natgeopeople_720p/playlist.m3u8
+#EXTINF:-1,Asian Food Channel_sakkarin
+http://ssl2.sakkarinsai8.com:19358/footballfuck/00_homeandfood_480p/playlist.m3u8  
+#EXTINF:-1,BBC Life Style_sakkarin
+http://ssl2.sakkarinsai8.com:19358/footballfuck/0x222_lifestylehd_720p/playlist.m3u8  
+#EXTINF:-1,BBC Earth_sakkarin
+http://ssl2.sakkarinsai8.com:19358/footballfuck/0x777_bbcearth_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI_27
-http://27.254.64.112:1935/thflixCH/Discovery_Science.stream/chunklist.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery Asia HD
-http://27.254.64.112:1935/thflixCH/Discovery_HD_World.stream/chunklist.m3u8
-#EXTINF:-1,Samrujlok
-http://27.254.64.112:1935/thflixCH/Samrujlok.stream/chunklist.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",Nat Geo People HD
-http://27.254.64.112:1935/thflixCH/NATGEO_PEOPLE.stream/playlist.m3u8
-#EXTINF:-1,BBC Life Style_27
-http://27.254.64.112:1935/thflixCH/BBC_Life_Style.stream/chunklist.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",asian_food_channel
-http://27.254.64.112:1935/thflixCH/Asian_Food_Channel.stream/chunklist.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_27
-http://27.254.64.112:1935/thflixCH/BBC_Earth.stream/chunklist.m3u8
-#EXTINF:-1,national_geographic_people_center
+
+
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",national_geographic_people_center
 https://cdn-center.livestream-cdn.com/documentary/national_geographic_people_720p.stream/playlist.m3u8
-#EXTINF:-1,asian_food_channel_center
+#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",asian_food_channel_center
 https://cdn-center.livestream-cdn.com/documentary/asian_food_channel_480p.stream/playlist.m3u8
-#EXTINF:-1,bbc_earth_center
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",bbc_earth_center
 https://cdn-center.livestream-cdn.com/documentary/bbc_earth_720p.stream/playlist.m3u8
 
 
+#EXTINF:-1,Sky UHD
+http://119.194.30.67:9981/stream/channelid/1253361577?ticket=901C862CFA782938321E8ADE16ECD13061F98BFF&profile=pass
+#EXTINF:-1,Food Network_S
+http://94.46.245.190:8000/play/a01u 
+#EXTINF:-1,AFC
+http://61.58.60.247:9000/live/176.m3u8
 #EXTINF:-1,BBC Earth_KOR
 http://119.194.30.67:9981/stream/channelid/1550569005?ticket=F39C5EB1368D210C1C3972760F345AE57F270B93&profile=pass
 #EXTINF:-1,CNBC Europe
 http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/340/index.m3u8
 
+
 #EXTINF:-1 group-title="news" tvg-logo="http://iptv-mobion.vn/Files/Image/admin/2017/12/08/temp_4096267081535225.jpg",Channel News Asia
 http://xemtivi24.000webhostapp.com/iptv-mobion.php?id=channelnewsasia
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png",NHK WORLD HD
-http://203.162.235.41:17801
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
