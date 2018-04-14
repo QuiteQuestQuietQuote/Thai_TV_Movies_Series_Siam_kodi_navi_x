@@ -70,10 +70,11 @@ URL=
 
 
 type=video
-name=Rampage (2018) ENG 720p.HDCAM.X264-WeWantToSell
+name=Rampage (2018) ENG HDCAM.x264.AC3-TEAM69
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
-date=2018-04-13
-URL=https://openload.co/f/D2aEsbX76bg/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv.mp4
+date=2018-04-14
+URL=https://openload.co/f/Wrft5d0xj6A/Rampage.2018.HDCAM.x264.AC3-TEAM69.mkv.mp4
+#https://openload.co/f/D2aEsbX76bg/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv.mp4
 #https://openload.co/f/J2dDGP5-huM/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv   MKV3.0GB
 
 type=video
@@ -1327,7 +1328,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-13
+date=2018-04-14
 URL=
 
 
@@ -4377,13 +4378,33 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xN0aGzekKL0g0RgDxFo1ZWGNOf
 date=2018-04-12
 URL=https://openload.co/f/Vthxd5Vmfss/Bajirao_Mastani_%282015%29_BluRay_-_720p_-_%5BTelugu_%2B_Tamil_%2B_Hindi%5D.mkv.mp4
 
+type=video
+name=The Whiskey Bandit (2017) [COLOR=FF00FF00]HUN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPVjVUqng2R8nvGS695xWUYpI1L.jpg
+date=2018-04-14
+URL=https://openload.co/f/aWj_QgwJhi4/The_Whisky_Robber_2018_720p_BR_SeeHD.mp4
+
+type=video
+name=The Last Movie Star (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lG5dabMULAKGJ3xGAHsSjuRzmUB.jpg
+date=2018-04-14
+URL=https://openload.co/f/AhwoVRSnnQg/the.last.movie.star.2017.720p.bluray.x264-geckos.mkv.mp4
+
+type=video
+name=All At Once (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMdmIRi1fsccaFwhebd93FABOnC.jpg
+date=2018-04-14
+URL=https://openload.co/f/QHSU90nO-rU/All.At.Once.2016.BluRay.720p.DTS.x264-MTeam.mkv.mp4
+#https://openload.co/f/SM_5BNhM0to/All.At.Once.2016.BluRay.720p.DTS.x264-MTeam.mkv   MKV4.4GB
+
+
 
 
 
 type=video
 name=
 thumb=
-date=2018-04-09
+date=2018-04-14
 URL=http://203.162.235.41:17819
 
 
