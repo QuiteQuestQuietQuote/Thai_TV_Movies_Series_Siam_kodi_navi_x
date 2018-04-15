@@ -158,10 +158,14 @@ URL=https://openload.co/f/04Hs5gzlZAo/Early_Man_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 
 
 type=video
-name=Red Sparrow (2018) ENG HDCAM-X264-MP3-Zi%24
+name=Red Sparrow (2018) ENG 720p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZwnaMQTdwZz1kwtrrU3IOqxnDu.jpg
-date=2018-03-10
-URL=https://openload.co/f/Pb3aZcRQqKY/Red_Sparrow_%282018%29_HDCAM-X264-MP3-Zi%24t.mkv.mp4
+date=2018-04-15
+URL=https://openload.co/f/LvtkoWn5VRw/Red.Sparrow.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/ToWVwzII_TY/Red.Sparrow.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv   MKV2.7GB
+#https://openload.co/f/XqgJBLnWtas/Red.Sparrow.2018.HC.HDRip.AC3.x264-CMRG.mkv.mp4
+#https://openload.co/f/_g7R0CD6j5Q/Red.Sparrow.2018.HC.HDRip.XviD.AC3-EVO.mp4
+#https://openload.co/f/Pb3aZcRQqKY/Red_Sparrow_%282018%29_HDCAM-X264-MP3-Zi%24t.mkv.mp4
 #https://openload.co/f/nrK7723Q5s0/Red.Sparrow.2018.720p.HDCAM.X264-Frozen.mp4
 #https://openload.co/f/WsOAcfN1Fog/Red_Sparrow_2018.ENG.CAM.X264-BABY.mkv.mp4
 #https://openload.co/f/_e7MhJTAVHQ/Red.Sparrow_2018.CAM.X264-NOBITCOINSYESBANK_SeeHD.mp4
@@ -1328,9 +1332,19 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-14
+date=2018-04-15
 URL=
 
+
+
+
+
+type=video
+name=Blood Feast (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gg9PvKLhxH4oW9y0pazvScQu0jJ.jpg
+date=2018-04-15
+URL=https://openload.co/f/zB5J8WbZ-jM/Blood.Feast.2016.1080p.BRRip.x264-eSc.mp4
+#https://openload.co/f/xE1VWcRKdEo/Blood.Feast.2016.720p.BRRip.x264-eSc.mp4
 
 type=video
 name=Phoenix (2014) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
@@ -4397,6 +4411,14 @@ date=2018-04-14
 URL=https://openload.co/f/QHSU90nO-rU/All.At.Once.2016.BluRay.720p.DTS.x264-MTeam.mkv.mp4
 #https://openload.co/f/SM_5BNhM0to/All.At.Once.2016.BluRay.720p.DTS.x264-MTeam.mkv   MKV4.4GB
 
+type=video
+name=Suicide Squad: Hell to Pay (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqnqzJ2dVq4tdK1ICpWUVKSFHuR.jpg
+date=2018-04-15
+URL=https://openload.co/f/vhiiMEf-s9Q/Suicide.Squad.Hell.to.Pay.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/5fvzuSCTRSY/Suicide.Squad.Hell.to.Pay.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
+
+
 
 
 
@@ -4569,17 +4591,7 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 
 
 
-type=video
-name=Monster Hunt 2 (2018) CHN HC.HDRip.AC3.X264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
-date=2018-04-04
-URL=https://openload.co/f/xiI37NMVGYQ/Monster.Hunt.2.2018.HC.HDRip.AC3.X264-CMRG.mkv.mp4
-#https://openload.co/f/6oGjRk_3toQ/Monster_Hunt_2_%282018%29_Cam.mp4
-type=video
-name=Monster Hunt 2 (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
-date=2018-02-26
-URL=https://streamango.com/f/kmeqqlkbfqosafts/Monster_Hunt_2_2018_2_
+
 
 
 type=video
@@ -4611,39 +4623,15 @@ URL=https://openload.co/f/SPBOZokHuV0/Black_Panther_2018_720P_New_V.2_HDTS-X264-
 type=video
 name=Black Panther (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
-date=2018-02-18
-URL=https://streamango.com/f/qqoddkablatcrnbr/Black_Panther_2018_
+date=2018-04-15
+URL=https://streamango.com/f/msdcpnamoofemdpb/Black_Panther_2018_V_1_mp4
+#https://streamango.com/f/qqoddkablatcrnbr/Black_Panther_2018_
 
 
-type=video
-name=Den of Thieves (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
-date=2018-04-13
-URL=https://openload.co/f/gQQNC1ZM0_o/Den_of_Thieves.2018.UNRATED.720p.BR_SeeHD.mp4
-#https://openload.co/f/y3Pf7plGu-I/Den_of_Thieves_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
-#https://openload.co/f/Lgk_VxDMTIw/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4
-#https://openload.co/f/-B28tK5CPMY/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4
-#https://openload.co/f/I0a9aXjeZwo/Den.of.Thieves.2018.HDCAM.HQMIC.x264-DiRG.mp4
-type=video
-name=Den of Thieves (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
-date=2018-02-14
-URL=https://streamango.com/f/bdnqfkmfbaoartca/Den_of_Thieves_2018_
 
 
-type=video
-name=Fifty Shades Freed (2018) ENG 1080P.WEB-DL.X264.AC3-NeNi
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUDFe6B6bFPOAE13uoqH4eEU1cF.jpg
-date=2018-04-07
-URL=https://openload.co/f/sKuTkuLI1V8/Fifty.Shades.Freed.2018.1080P.WEB-DL.X264.AC3-NeNi.mkv.mp4
-#https://openload.co/f/spvID5uSiFU/Fifty.Shades.Freed.2018.720P.WEB-DL-X264-Zi%24t_SeeHD.mkv.mp4
-#https://openload.co/f/IMwyvA9Xc6w/Fifty.Shades.Freed.2018_NEW.720p.HD-TS.X264-UNiQUE.mkv.mp4
-#https://openload.co/f/Ossdmi1Plnw/Fifty.Shades.Freed.2018_V2_720p_HDCAM_X264_-_MeFodeAna.%5BSN%5D.mkv.mp4
-type=video
-name=Fifty Shades Freed (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUDFe6B6bFPOAE13uoqH4eEU1cF.jpg
-date=2018-02-14
-URL=https://streamango.com/f/meketpbdbsqbabpa/Fifty_Shades_Freed_2018_
+
+
 
 
 type=video
@@ -4743,19 +4731,7 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 
 
 
-type=video
-name=Birth of the Dragon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y29CEE9oukwhNT6INWVEOaINHpR.jpg
-date=2017-11-10
-URL=https://www.blazefile.co/embed-moc6zzp3c4g3.html
-#https://www.blazefile.co/embed-1494g8ck3kky.html
-#https://openload.co/f/XtLykmONrkw/Birth_of_the_Dragon_2017_720p_WEB-DL_X264_AC3_-EVO.mkv.mp4
-#https://openload.co/f/hczOVCdDAmM/Birth.Of.The.Dragon.2017.HDCAM.x264-DiRG.mp4
-type=video
-name=Birth of the Dragon (2017) TH CAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y29CEE9oukwhNT6INWVEOaINHpR.jpg
-date=2017-09-24
-URL=https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B8%8B%E0%B8%A5%E0%B8%B5_%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
 
 
 
@@ -5971,6 +5947,24 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=Monster Hunt 2 (2018) CHN HC.HDRip.AC3.X264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
+date=2018-04-04
+URL=https://openload.co/f/xiI37NMVGYQ/Monster.Hunt.2.2018.HC.HDRip.AC3.X264-CMRG.mkv.mp4
+#https://openload.co/f/6oGjRk_3toQ/Monster_Hunt_2_%282018%29_Cam.mp4
+type=video
+name=Monster Hunt 2 (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
+date=2018-04-15
+URL=https://streamango.com/f/bfetceqmnompadfa/Monster_Hunt_2_2018_2_V_2_mp4
+#https://streamango.com/f/kmeqqlkbfqosafts/Monster_Hunt_2_2018_2_
+
+
 type=video
 name=12 Strong (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
@@ -6494,12 +6488,65 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-06
+date=2018-04-15
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
+type=video
+name=Let Me Eat Your Pancreas (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/50tapu6LAgB4MNK7KoqbVxGtFn3.jpg
+date=2018-04-15
+URL=https://openload.co/f/ZgkJq5o_nlw/Let_Me_Eat_Your_Pancreas_%282017%29%E0%B8%95%E0%B8%B1%E0%B8%9A%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99_%E0%B8%82%E0%B8%AD%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0%E0%B8%99%E0%B8%B0.mp4
 
+
+type=video
+name=Fifty Shades Freed (2018) ENG 1080P.WEB-DL.X264.AC3-NeNi
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUDFe6B6bFPOAE13uoqH4eEU1cF.jpg
+date=2018-04-07
+URL=https://openload.co/f/sKuTkuLI1V8/Fifty.Shades.Freed.2018.1080P.WEB-DL.X264.AC3-NeNi.mkv.mp4
+#https://openload.co/f/spvID5uSiFU/Fifty.Shades.Freed.2018.720P.WEB-DL-X264-Zi%24t_SeeHD.mkv.mp4
+#https://openload.co/f/IMwyvA9Xc6w/Fifty.Shades.Freed.2018_NEW.720p.HD-TS.X264-UNiQUE.mkv.mp4
+#https://openload.co/f/Ossdmi1Plnw/Fifty.Shades.Freed.2018_V2_720p_HDCAM_X264_-_MeFodeAna.%5BSN%5D.mkv.mp4
+type=video
+name=Fifty Shades Freed (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUDFe6B6bFPOAE13uoqH4eEU1cF.jpg
+date=2018-04-15
+URL=https://streamango.com/f/cesnbaacreqdlbfc/Fifty_Shades_Freed_2018_mp4
+#https://streamango.com/f/meketpbdbsqbabpa/Fifty_Shades_Freed_2018_
+
+
+type=video
+name=Den of Thieves (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
+date=2018-04-13
+URL=https://openload.co/f/gQQNC1ZM0_o/Den_of_Thieves.2018.UNRATED.720p.BR_SeeHD.mp4
+#https://openload.co/f/y3Pf7plGu-I/Den_of_Thieves_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+#https://openload.co/f/Lgk_VxDMTIw/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4
+#https://openload.co/f/-B28tK5CPMY/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4
+#https://openload.co/f/I0a9aXjeZwo/Den.of.Thieves.2018.HDCAM.HQMIC.x264-DiRG.mp4
+type=video
+name=Den of Thieves (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
+date=2018-04-15
+URL=https://streamango.com/f/adkcplsosmdessee/Den_of_Thieves_2018_mp4
+#https://streamango.com/f/bdnqfkmfbaoartca/Den_of_Thieves_2018_
+
+
+type=video
+name=Birth of the Dragon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y29CEE9oukwhNT6INWVEOaINHpR.jpg
+date=2017-11-10
+URL=https://www.blazefile.co/embed-moc6zzp3c4g3.html
+#https://www.blazefile.co/embed-1494g8ck3kky.html
+#https://openload.co/f/XtLykmONrkw/Birth_of_the_Dragon_2017_720p_WEB-DL_X264_AC3_-EVO.mkv.mp4
+#https://openload.co/f/hczOVCdDAmM/Birth.Of.The.Dragon.2017.HDCAM.x264-DiRG.mp4
+type=video
+name=Birth of the Dragon (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y29CEE9oukwhNT6INWVEOaINHpR.jpg
+date=2018-04-15
+URL=https://streamango.com/f/ttkcmondaqalkdtr/Birth_of_the_Dragon_2016_mp4
+#https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B8%8B%E0%B8%A5%E0%B8%B5_%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
 type=video
