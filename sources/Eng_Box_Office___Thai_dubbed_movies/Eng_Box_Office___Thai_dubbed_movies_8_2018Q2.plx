@@ -70,10 +70,11 @@ URL=
 
 
 type=video
-name=Rampage (2018) ENG HDCAM.x264.AC3-TEAM69
+name=Rampage (2018) ENG 720p_NEW_HDCAM_X264_HQMic-CPG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
-date=2018-04-14
-URL=https://openload.co/f/Wrft5d0xj6A/Rampage.2018.HDCAM.x264.AC3-TEAM69.mkv.mp4
+date=2018-04-16
+URL=https://openload.co/f/O23sDjSCQ6s/Rampage_2018_720p_NEW_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/Wrft5d0xj6A/Rampage.2018.HDCAM.x264.AC3-TEAM69.mkv.mp4
 #https://openload.co/f/D2aEsbX76bg/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv.mp4
 #https://openload.co/f/J2dDGP5-huM/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv   MKV3.0GB
 
@@ -158,10 +159,12 @@ URL=https://openload.co/f/04Hs5gzlZAo/Early_Man_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 
 
 type=video
-name=Red Sparrow (2018) ENG 720p.HC.HDRip.X264.AC3-EVO_SeeHD
+name=Red Sparrow (2018) ENG 1080p.HC.HDRip.1.8.GB-iExTV
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZwnaMQTdwZz1kwtrrU3IOqxnDu.jpg
-date=2018-04-15
-URL=https://openload.co/f/LvtkoWn5VRw/Red.Sparrow.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-04-16
+URL=https://openload.co/f/d0dE2nFF9QA/Red_Sparrow.2018.1080p.HC.HDRip.1.8.GB-iExTV.mp4
+#https://openload.co/f/qTMmeHaK-sw/RED_SPARROW_2018_HC_720p_HDRip_AC3_x264-CMRG.mkv.mp4
+#https://openload.co/f/LvtkoWn5VRw/Red.Sparrow.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/ToWVwzII_TY/Red.Sparrow.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv   MKV2.7GB
 #https://openload.co/f/XqgJBLnWtas/Red.Sparrow.2018.HC.HDRip.AC3.x264-CMRG.mkv.mp4
 #https://openload.co/f/_g7R0CD6j5Q/Red.Sparrow.2018.HC.HDRip.XviD.AC3-EVO.mp4
@@ -1332,12 +1335,33 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-15
+date=2018-04-16
 URL=
 
 
 
+type=video
+name=Suicide Squad: Hell to Pay (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqnqzJ2dVq4tdK1ICpWUVKSFHuR.jpg
+date=2018-04-16
+URL=https://openload.co/f/vxSgygGVQ2U/Suicide.Squad.Hell.to.Pay.2018.1080p.BluRay.x264-SADPANDA.mkv.mp4
+#https://openload.co/f/2-Z6rDgyWxE/Suicide.Squad.Hell.to.Pay.2018.1080p.BluRay.x264.DTS-MTeam.mkv.mp4
+#https://openload.co/f/vhiiMEf-s9Q/Suicide.Squad.Hell.to.Pay.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/5fvzuSCTRSY/Suicide.Squad.Hell.to.Pay.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
 
+type=video
+name=89 (2017)
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV2AVmwcilu9mOBlZ2iw1gshWYV.jpg
+date=2018-04-16
+URL=https://openload.co/f/1Oln27M4CBE/89.2017.1080p.bluray.x264-ghouls.mkv.mp4
+#https://openload.co/f/oo6eP_PH2LQ/89.2017.720p.bluray.x264-ghouls.mkv.mp4
+#https://openload.co/f/tbKaQczW_4w/89.2017.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Deep Blue Sea 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGYZLSXiN4LfScxfrKMyR7VnmKI.jpg
+date=2018-04-16
+URL=https://openload.co/f/bY2HRl8gLu0/Deep.Blue.Sea.2.2018.1080p.BR_SeeHD.mp4
 
 type=video
 name=Blood Feast (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1445,8 +1469,10 @@ URL=https://openload.co/f/6mB0keWeNF4/madre.2016.1080p.bluray.x264-unveil.mkv.mp
 type=video
 name=Bomb City (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kho48mWJ5xuiLn5bpuIvO6ZP7ep.jpg
-date=2018-04-05
-URL=https://openload.co/f/zqfEOBIM-9E/Bomb.City.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-04-16
+URL=https://www.blazefile.co/embed-a5q1gcx6j0xu.html
+#https://uptobox.com/2pz2orimnwei
+#https://openload.co/f/zqfEOBIM-9E/Bomb.City.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://www.blazefile.co/embed-keofg153y5ri.html   720
 #https://uptobox.com/odokwarbta5p   720
 
@@ -1971,6 +1997,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/253Bw5I3Zj3e2thCThjO7byEUC
 date=2018-03-05
 URL=https://www.blazefile.co/embed-hvjjotcfxjk8.html
 #https://uptobox.com/ddf1tlqdcnn7
+#https://openload.co/f/hzO4_LMiBBs/Braven.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/UWNWSlyHgG4/Braven.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/pPr0vAIBuws/Braven.2018.1080p.BluRay.x264.DTS-HD.MA.5.1-FGT.mkv.mp4
 #https://openload.co/f/aCCejuzskk0/Braven.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
@@ -2075,6 +2102,7 @@ URL=https://www.blazefile.co/embed-r0i4wgnl1e0y.html
 #https://uptobox.com/fanfc5v6rufv
 #https://openload.co/f/yoAmsZwuqRI/The.Breadwinner.2017.1080p.BluRay.x264-GECKOS.mkv
 #https://openload.co/f/pXo_s1ZNRCA/The.Breadwinner.2017.1080p.BluRay.x264-GECKOS.mkv   MKV4.4GB
+#https://openload.co/f/9Qg5vuIHTRc/The.Breadwinner.2017.1080p.BR_SeeHD.mp4
 
 type=video
 name=Dummie the Mummy and the tomb of Achnetoet (2017) [COLOR=FF00FF00]DUT BR 1080p[/COLOR]
@@ -2161,6 +2189,7 @@ date=2018-02-25
 URL=https://www.blazefile.co/embed-ckvs32cm1sks.html
 #https://uptobox.com/u1cgnhmp2rxq
 #https://openload.co/f/iUUprBRRSmk/ghplydybird80.Ettv.st.mkv
+#https://openload.co/f/Edm5LJJ5z_Y/Lady.Bird.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/M08sN7NGghk/lady.bird.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/9BRJIYRayD4/Lady.Bird.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/Rwnbbrp6VmI/Lady.Bird.2017.1080p.BluRay.x264.DTS-HDChina.mkv.mp4
@@ -4411,12 +4440,7 @@ date=2018-04-14
 URL=https://openload.co/f/QHSU90nO-rU/All.At.Once.2016.BluRay.720p.DTS.x264-MTeam.mkv.mp4
 #https://openload.co/f/SM_5BNhM0to/All.At.Once.2016.BluRay.720p.DTS.x264-MTeam.mkv   MKV4.4GB
 
-type=video
-name=Suicide Squad: Hell to Pay (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqnqzJ2dVq4tdK1ICpWUVKSFHuR.jpg
-date=2018-04-15
-URL=https://openload.co/f/vhiiMEf-s9Q/Suicide.Squad.Hell.to.Pay.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/5fvzuSCTRSY/Suicide.Squad.Hell.to.Pay.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
+
 
 
 
@@ -6077,8 +6101,10 @@ URL=https://streamango.com/f/lotsrbtoeltsceod/All_the_Money_in_the_World_2017_
 type=video
 name=Maze Runner: The Death Cure (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
-date=2018-04-13
-URL=https://openload.co/f/Z8HSfs4tgN0/Maze.Runner.The.Death.Cure.2018.1080p.BR_SeeHD.mp4
+date=2018-04-16
+URL=https://www.blazefile.co/embed-bnrpzlqc3qwx.html
+#https://uptobox.com/2lqcartwylvo
+#https://openload.co/f/Z8HSfs4tgN0/Maze.Runner.The.Death.Cure.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/QhGckE_9scM/Maze.Runner.The.Death.Cure.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/F4a9cv7vf58/Maze.Runner.The.Death.Cure.2018.720p.BluRay.x264-SPARKS.mkv.mp4
 #https://openload.co/f/Mu66WFP4CmQ/Maze.Runner.The.Death.Cure.2018.720p.BluRay.H264.AAC-RARBG.mp4
