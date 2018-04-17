@@ -63,7 +63,7 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-04-13
+date=2018-04-17
 URL=
 
 
@@ -77,6 +77,12 @@ URL=https://openload.co/f/O23sDjSCQ6s/Rampage_2018_720p_NEW_HDCAM_X264_HQMic-CPG
 #https://openload.co/f/Wrft5d0xj6A/Rampage.2018.HDCAM.x264.AC3-TEAM69.mkv.mp4
 #https://openload.co/f/D2aEsbX76bg/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv.mp4
 #https://openload.co/f/J2dDGP5-huM/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv   MKV3.0GB
+
+type=video
+name=Blockers (2018) ENG CAM.XViD-T3RR0R_SQU4D_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qKMYfiJTcUQbuBl82yxrmLSCX5.jpg
+date=2018-04-17
+URL=https://openload.co/f/YVmsPcZ37Qc/Blockers.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
 
 type=video
 name=Love, Simon (2018) ENG HDCAM-X264-MP3-Bobi_SeeHD
@@ -98,7 +104,11 @@ type=video
 name=Forever My Girl (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcushpAgo51nTpBAuTygLxiJ80h.jpg
 date=2018-04-10
-URL=https://openload.co/f/m5bXbfSbqRw/Forever_My_Girl_2018_1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+URL=https://openload.co/f/4uXC5Xkr1BM/forever.my.girl.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/jntGcCw3YcU/forever.my.girl.2018.720p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/gK5lVEWUE5s/forever.my.girl.2018.1080p.bluray.x264-drones.mkv   MKV7.6GB
+#https://openload.co/f/qdg9hSm8H6k/forever.my.girl.2018.720p.bluray.x264-drones.mkv   KMV5.5GB
+#https://openload.co/f/m5bXbfSbqRw/Forever_My_Girl_2018_1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 
 type=video
 name=The Titan (2018) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTG
@@ -127,10 +137,12 @@ URL=https://openload.co/f/SYhcD0EeGRU/I_Kill_Giants_2017_1080p_WEB_DL_DD5_1_H264
 
 
 type=video
-name=The Strangers: Prey at Night (2018) RUS Pk.TS.E
+name=The Strangers: Prey at Night (2018) ENG 720p_HD-TS_X264-Mr.HIVE_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo3gu56JKRwZ2TpKt8mPjXLQK23.jpg
-date=2018-03-20
-URL=https://openload.co/f/4gpOCH3Sy0k/The.Stranger.Prey.at.Night.2018.Pk.TS.E.mp4
+date=2018-04-17
+URL=https://openload.co/f/njRKbU9O_xY/The_Strangers_Prey_at_Night_2018_720p_HD-TS_X264-Mr.HIVE_SeeHD.mkv.mp4
+#https://openload.co/f/CetPr_P4a0Y/The_Strangers_Prey_at_Night.2018.HD-TS.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/4gpOCH3Sy0k/The.Stranger.Prey.at.Night.2018.Pk.TS.E.mp4
 
 type=video
 name=A Wrinkle in Time (2018) ENG NOLOGO_720p_HD-TS_X264_Mr-Hive
@@ -210,12 +222,7 @@ URL=https://openload.co/f/bV_8RkHANJQ/The_15-17_to_Paris_2018.HDCAM.XViD.AC3-ETR
 
 
 
-type=video
-name=Hostiles (2017) ENG 1080p.WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqoezyB51GfhiloOB5ZErg5HXas.jpg
-date=2018-04-10
-URL=https://openload.co/f/AdINiy7vOHw/Hostiles.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
-#https://openload.co/f/KG8d68nqqOw/Hostiles.2018.NEW.720p.HDCAM.x264-CPG.mkv.mp4
+
 
 
 
@@ -1228,7 +1235,12 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/85kxkK6dU2DudXWfaUhTLu3pvU
 date=2018-04-12
 URL=https://openload.co/f/UPi8CX1OeIw/Camera.Obscura.2017.BRRip.AC3.X264-CMRG.mkv.mp4
 
-
+type=video
+name=Dear Dictator (2018) ENG BDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5S2tktUi9AMfaH8YihmbnDUSjiU.jpg
+date=2018-04-17
+URL=https://openload.co/f/_fjOJlAT6Vw/Dear_Dictator_2018.BDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/A-lfM19zupk/Dear.Dictator.2018.720p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 
 
@@ -1239,7 +1251,7 @@ URL=https://openload.co/f/UPi8CX1OeIw/Camera.Obscura.2017.BRRip.AC3.X264-CMRG.mk
 type=video
 name=
 thumb=
-date=2018-04-12
+date=2018-04-17
 URL=
 
 
@@ -1335,10 +1347,33 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-16
+date=2018-04-17
 URL=
 
 
+
+
+
+type=video
+name=The Motive (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnk5GpYiLzcp0FGfjZIvoBdjhOC.jpg
+date=2018-04-17
+URL=https://openload.co/f/Wr2_07CFP8k/the.motive.2017.1080p.bluray.x264-usury.mkv.mp4
+#https://openload.co/f/SijpZsJR_xo/the.motive.2017.720p.bluray.x264-usury.mkv.mp4
+
+type=video
+name=Hostiles (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqoezyB51GfhiloOB5ZErg5HXas.jpg
+date=2018-04-17
+URL=https://openload.co/f/o-fgQMW8KyE/Hostiles.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/zUBhLVUShrc/hostiles.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/4IYMiUIhN60/Hostiles.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/V2px4XkH9SU/Hostiles.2017.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/iHlgN1p3CKM/Hostiles.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/AdINiy7vOHw/Hostiles.2017.READNFO.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/KG8d68nqqOw/Hostiles.2018.NEW.720p.HDCAM.x264-CPG.mkv.mp4
+#https://www.blazefile.co/embed-1wcsp56ttt3r.html   720
+#https://uptobox.com/t7pop0ks6ekh   720
 
 type=video
 name=Suicide Squad: Hell to Pay (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2907,6 +2942,7 @@ name=November Criminals (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQ40BNgkwq8JchXYORkhTwvtLac.jpg
 date=2018-01-03
 URL=https://uptobox.com/2uowzpjnd9sd
+#https://openload.co/f/9uTv2XFXehE/November.Criminals.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/P5eHYf_j3z0/November.Criminals.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/dDnslCKT1Cw/November.Criminals.2017.720p.BluRay.H264.AAC-RARBG.mp4
 #https://www.blazefile.co/embed-v7xd0e74owia.html   web
@@ -4440,8 +4476,12 @@ date=2018-04-14
 URL=https://openload.co/f/QHSU90nO-rU/All.At.Once.2016.BluRay.720p.DTS.x264-MTeam.mkv.mp4
 #https://openload.co/f/SM_5BNhM0to/All.At.Once.2016.BluRay.720p.DTS.x264-MTeam.mkv   MKV4.4GB
 
-
-
+type=video
+name=Sky Hunter (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l5X7RsdazhDjK8O85LP7b4pgdc.jpg
+date=2018-04-17
+URL=https://openload.co/f/tJ18AUVjSdI/Sky.Hunter.2017.720p.BluRay.x264-WiKi.mkv.mp4
+#https://openload.co/f/xm-1t05_xmo/Sky.Hunter.2017.720p.BRRip.1GB.MkvCage.Com.mkv.mp4
 
 
 
@@ -4619,10 +4659,11 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 
 
 type=video
-name=Winchester (2018) ENG HDCAM.XViD.AC3-ETRG
+name=Winchester (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg
-date=2018-04-01
-URL=https://openload.co/f/9oox3vHbdJQ/Winchester_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+date=2018-04-17
+URL=https://openload.co/f/mYQHWpwDFwA/Winchester.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/9oox3vHbdJQ/Winchester_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/MR70YVhvXwA/Winchester.2018.720p.HDCAM_SeeHD.mp4
 #https://openload.co/f/c4esc5nzmqs/Winchester.2018.HDCAM.x264-DiRG.mp4
 type=video
@@ -4633,10 +4674,11 @@ URL=https://streamango.com/f/elfccpoabamnnmla/Winchester_2018_
 
 
 type=video
-name=Black Panther (2018) ENG 720P_New_V.2_HDTS-X264-MP3-Zi%24t
+name=Black Panther (2018) ENG HDTC.X264-FrangoAssado
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
-date=2018-03-03
-URL=https://openload.co/f/SPBOZokHuV0/Black_Panther_2018_720P_New_V.2_HDTS-X264-MP3-Zi%24t.mkv.mp4
+date=2018-04-17
+URL=https://openload.co/f/3CZe-kEmblA/Black.Panther.2018.HDTC.X264-FrangoAssado.mkv.mp4
+#https://openload.co/f/SPBOZokHuV0/Black_Panther_2018_720P_New_V.2_HDTS-X264-MP3-Zi%24t.mkv.mp4
 #https://openload.co/f/u9hqBeAjccM/Black.Panther.2018.NEW.720p.HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/-OZwCiXre9I/Black_Panther_2018_NEW_PROPER_HD-TS_X264-CPG.mkv.mp4
 #https://openload.co/f/WZ4OiGMkCYo/Black.Panther.2018.ENG.NEW.HDTS.X264.MP3-ZiSt.mkv.mp4
@@ -4696,88 +4738,33 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+type=video
+name=
+thumb=
+date=2018-04-17
+URL=
 
 
 
 
 
 type=video
-name=
-thumb=
-date=2018-04-06
-URL=
+name=Orbiter 9 (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MCdLeoR3WIBT5vItIT8iMhlso1.jpg
+date=2018-04-17
+URL=https://streamango.com/f/msoebslnqntqllnr/Orbiter_9_2017_
 
+type=video
+name=Amateur (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWUvlNxKSMdegAoY5eMOqPwMKIb.jpg
+date=2018-04-17
+URL=https://streamango.com/f/tdbdtnlealcccsnn/Amateur_2018_
+
+type=video
+name=Pickpockets (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JYpjCTvWRRcBF5pRO5ZQONsGgg.jpg
+date=2018-04-17
+URL=https://streamango.com/f/bmbleolooqffcscp/Pickpockets_2018_
 
 type=video
 name=First Match (2018) ENG 1080p.web.x264-strife
