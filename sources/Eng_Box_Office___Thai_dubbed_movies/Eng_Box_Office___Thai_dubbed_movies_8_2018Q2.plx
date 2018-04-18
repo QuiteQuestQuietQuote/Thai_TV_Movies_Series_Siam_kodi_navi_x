@@ -63,7 +63,7 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-04-17
+date=2018-04-18
 URL=
 
 
@@ -77,6 +77,12 @@ URL=https://openload.co/f/O23sDjSCQ6s/Rampage_2018_720p_NEW_HDCAM_X264_HQMic-CPG
 #https://openload.co/f/Wrft5d0xj6A/Rampage.2018.HDCAM.x264.AC3-TEAM69.mkv.mp4
 #https://openload.co/f/D2aEsbX76bg/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv.mp4
 #https://openload.co/f/J2dDGP5-huM/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv   MKV3.0GB
+
+type=video
+name=Acrimony (2018) ENG HDCAM.x264-DiRG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QA8rjbMqPcJXdHWEZE4Nxvktgx.jpg
+date=2018-04-18
+URL=https://openload.co/f/Ce7guXZgBS4/Acrimony.2018.HDCAM.x264-DiRG_SeeHD.mp4
 
 type=video
 name=Blockers (2018) ENG CAM.XViD-T3RR0R_SQU4D_SeeHD
@@ -160,10 +166,12 @@ URL=https://openload.co/f/iQqZjyCB8og/10x10.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp
 
 
 type=video
-name=Early Man (2018) ENG HDCAM.XViD.AC3-ETRG
+name=Early Man (2018) ENG 1080p.READNFO.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugw07fJIZMVrrIGeN1MO7Xecj5h.jpg
-date=2018-04-01
-URL=https://openload.co/f/04Hs5gzlZAo/Early_Man_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+date=2018-04-18
+URL=https://openload.co/f/YGlkgbDb3sY/Early.Man.2018.1080p.READNFO.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/Nt0YWa-SJko/Early_Man.2018.READNFO.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/04Hs5gzlZAo/Early_Man_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/P3L0Og4nEbU/Early_Man_2018_NEW_HDCAM_SeeHD.avi.mp4
 #https://openload.co/f/pfbH4MrvDH4/Early_Man_2018_HDCAM_Eng_SeeHD.mkv.mp4
 
@@ -1347,12 +1355,18 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-17
+date=2018-04-18
 URL=
 
 
 
 
+
+type=video
+name=Foreman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uE1IDhlFCpYXsmv7wnrLO6I25FH.jpg
+date=2018-04-18
+URL=https://openload.co/f/jZt20iGwffc/Foreman.2017.1080p.BluRay.x264-iFPD.mkv.mp4
 
 type=video
 name=The Motive (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
@@ -1364,8 +1378,10 @@ URL=https://openload.co/f/Wr2_07CFP8k/the.motive.2017.1080p.bluray.x264-usury.mk
 type=video
 name=Hostiles (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqoezyB51GfhiloOB5ZErg5HXas.jpg
-date=2018-04-17
-URL=https://openload.co/f/o-fgQMW8KyE/Hostiles.2017.1080p.BR_SeeHD.mp4
+date=2018-04-18
+URL=https://www.blazefile.co/embed-qtn3httyosx0.html
+#https://uptobox.com/6ndr9papgp3s
+#https://openload.co/f/o-fgQMW8KyE/Hostiles.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/zUBhLVUShrc/hostiles.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/4IYMiUIhN60/Hostiles.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/V2px4XkH9SU/Hostiles.2017.720p.BluRay.x264-GECKOS.mkv.mp4
@@ -1452,6 +1468,8 @@ date=2018-04-12
 URL=https://www.blazefile.co/embed-9hkt3yk8iljy.html
 #https://uptobox.com/qphoollzeoyi
 #https://openload.co/f/CKMhge6DHOs/You.Were.Never.Really.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/2BFjiES6x74/You.Were.Never.Really.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/kjwTzI9oyH8/you.were.never.really.here.2017.limited.720p.bluray.x264-usury.mkv.mp4
 #https://openload.co/f/A38DPxtWSvQ/You.Were.Never.Really.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/3ehNw9Fp-n4/You_Were_Never_Really_Here_2017_1080p_Web_DL_x264_AC3_TiTAN%5BN1C%5D.mkv.mp4
 #https://openload.co/f/_4z3LoSbk-Y/You.Were.Never.Really.Here.2017.FRENCH.CAM.MD.XViD_STVFRV.E.mp4
@@ -1507,6 +1525,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kho48mWJ5xuiLn5bpuIvO6ZP7e
 date=2018-04-16
 URL=https://www.blazefile.co/embed-a5q1gcx6j0xu.html
 #https://uptobox.com/2pz2orimnwei
+#https://openload.co/f/RSxveNJM3YQ/Bomb.City.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/n4EPd3zBSS0/Bomb.City.2017.720p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/zqfEOBIM-9E/Bomb.City.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://www.blazefile.co/embed-keofg153y5ri.html   720
 #https://uptobox.com/odokwarbta5p   720
@@ -4121,8 +4141,7 @@ type=video
 name=Trainspotting (1996) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1O3eFsdb0GEIYu87xlwV7P4jM1.jpg
 date=2018-03-27
-URL=http://192.99.67.192/home/movies31/tt0117951.mp4
-
+URL=http://192.99.67.192/home/movies34/tt0117951_hd.mp4
 
 
 type=video
@@ -4483,6 +4502,14 @@ date=2018-04-17
 URL=https://openload.co/f/tJ18AUVjSdI/Sky.Hunter.2017.720p.BluRay.x264-WiKi.mkv.mp4
 #https://openload.co/f/xm-1t05_xmo/Sky.Hunter.2017.720p.BRRip.1GB.MkvCage.Com.mkv.mp4
 
+type=video
+name=Backstabbing for Beginners (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvUX96OVgTsfgXF3xKgDdDQbGau.jpg
+date=2018-04-18
+URL=https://openload.co/f/2W9d5Z4h9Mc/Backstabbing.for.Beginners.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/1HTb53mmxPw/Backstabbing.for.Beginners.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
+
+
 
 
 
@@ -4490,7 +4517,7 @@ URL=https://openload.co/f/tJ18AUVjSdI/Sky.Hunter.2017.720p.BluRay.x264-WiKi.mkv.
 type=video
 name=
 thumb=
-date=2018-04-14
+date=2018-04-18
 URL=http://203.162.235.41:17819
 
 
@@ -4563,10 +4590,15 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
-name=Peter Rabbit (2018) ENG NEW_HDCAM_SeeHD
+name=Peter Rabbit (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
-date=2018-03-29
-URL=https://openload.co/f/mvM9KJ7lQ_k/Peter_Rabbit_2018._NEW_HDCAM_SeeHD.avi.mp4
+date=2018-04-18
+URL=https://openload.co/f/AcKE3s2gg2s/Peter.Rabbit.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/nerdCj-t0KA/Peter.Rabbit.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/DIWDzbD-k9I/peter.rabbit.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/PfHPzLCpqwM/peter.rabbit.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/-cCgN1iWs0E/peter.rabbit.2018.720p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/mvM9KJ7lQ_k/Peter_Rabbit_2018._NEW_HDCAM_SeeHD.avi.mp4
 #https://openload.co/f/OuW2gUHhTAU/Peter.Rabbit.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/OztM_HaRQX4/Peter.Rabbit.2018.HDCAM.x264-DiRG.mp4
 #https://openload.co/f/dTapIIDbV60/Peter_Rabbit_%282018%29_RUS.Cam.mp4
@@ -4596,10 +4628,12 @@ URL=https://streamango.com/f/esmtoktpnsnacelr/Ready_Player_One_2018_
 
 
 type=video
-name=Pacific Rim: Uprising (2018) ENG NEW_HDCAM_2D_X264_HQMic-CPG_SeeHD
+name=Pacific Rim: Uprising (2018) ENG 720p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
-date=2018-03-24
-URL=https://openload.co/f/G_bzG6nas54/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG_SeeHD.mkv.mp4
+date=2018-04-18
+URL=https://openload.co/f/ULC-jPIyFbc/Pacific_Rim_Uprising.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/EFgnOgvwcgA/Pacific.Rim.2.Uprising.2018.720p.HC.HDRiP.AC3.x264-LEGi0N.mkv   MKV3.2GB
+#https://openload.co/f/G_bzG6nas54/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/At_l9Qy_hUw/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG.mp4
 #https://openload.co/f/Ugx9be0SomQ/Pacific_Rim__Uprising_2018_HC_HDCAM_-_AKOAM_SeeHD.avi.mp4
 type=video
@@ -5977,10 +6011,14 @@ URL=https://streamango.com/f/bfetceqmnompadfa/Monster_Hunt_2_2018_2_V_2_mp4
 
 
 type=video
-name=12 Strong (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+name=12 Strong (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
-date=2018-04-03
-URL=https://openload.co/f/Kw7GSqUHLBo/12.Strong.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2018-04-18
+URL=https://openload.co/f/RwhZH5iYiBI/12.Strong.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/ogzXWqSbDPk/12.strong.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/TIdvUg3fVJE/12.strong.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/NC9uV0ORD0Y/12.strong.2018.720p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/Kw7GSqUHLBo/12.Strong.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/lhdNevS9Wl8/12.Strong.2018.720pHD_SeeHD.mkv.mp4
 #https://openload.co/f/6wP070I20Xw/12_Strong_2018_ENG_720p_HDCAM-X264-MP3-Cr%40zyTribal.mkv.mp4
 #https://openload.co/f/OqhUPsY6YcQ/12_Strong_2018_NEW_720p_HDCAM_SeeHD.mkv.mp4
