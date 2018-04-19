@@ -39,7 +39,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-12-25
+date=2018-04-19
 URL=
 
 
@@ -422,47 +422,86 @@ URL=http://s789.yamvideo.com/thz3675e/004/appid-10665.mp4
 
 type=video
 name=Sqte-081 Erotic Too Girl038039s Body
-thumb=http://javsex.net/wp-content/uploads/2017/01/11725.jpg
+thumb=http://javporn.to/wp-content/uploads/2017/01/11725.jpg
 date=2018-03-11
-URL=http://89.248.168.114/019-hls/appid-11725/hls.m3u8
+URL=http://n59.yamvideo.com/168114/106a6c241b8797f52e1e77317b96a201/019-hls/appid-11725/hls.m3u8
 
 
 type=video
 name=Sqte-082 Really Is A Naughty Innocent Beautiful Girl
-thumb=http://javsex.net/wp-content/uploads/2017/01/11726.jpg
+thumb=http://javporn.to/wp-content/uploads/2017/01/11726.jpg
 date=2018-02-05
-URL=http://185.216.140.23/012-hls/appid-11726/hls_720_.m3u8
+URL=http://n58.yamvideo.com/14023/106a6c241b8797f52e1e77317b96a201/012-hls/appid-11726/hls.m3u8
 
 
 type=video
 name=Sqte-151 S-cute Breasts Pretty Festival 8 Hours
-thumb=http://javsex.net/wp-content/uploads/2017/01/10303.jpg
+thumb=http://javporn.to/wp-content/uploads/2017/01/10303.jpg
 date=2018-02-05
-URL=http://89.248.168.114/020-hls-part-1/appid-10303/hls_720_.m3u8
+URL=http://n59.yamvideo.com/168114/106a6c241b8797f52e1e77317b96a201/020-hls-part-1/appid-10303/hls.m3u8
 
 
 type=video
 name=SQTE-089 S-Cute Girl RANKINGS-2015 TOP10
-thumb=http://javsex.net/wp-content/uploads/2016/01/4394.jpg
+thumb=http://javporn.to/wp-content/uploads/2016/01/4394.jpg
 date=2018-02-05
-URL=http://185.216.140.23/032-hls/appid-4394/hls.m3u8
+URL=http://n58.yamvideo.com/14023/106a6c241b8797f52e1e77317b96a201/032-hls/appid-4394/hls.m3u8
 
 
 type=video
 name=Sqte-190 S-cute Annual Sales Ranking 2017 Top 30
-thumb=http://javsex.net/wp-content/uploads/2017/12/28429.jpg
+thumb=http://javporn.to/wp-content/uploads/2017/12/28429.jpg
 date=2018-02-05
-URL=http://185.216.140.167/win-001-hls/appid-28429/hls_720_.m3u8
+URL=http://n57.yamvideo.com/140167/106a6c241b8797f52e1e77317b96a201/win-001-hls/appid-28429/hls.m3u8
 
 
 type=video
 name=Sqte-169 S-cute Girls Ranking-2017 Top 10
-thumb=http://javsex.net/wp-content/uploads/2017/06/24503.jpg
+thumb=http://javporn.to/wp-content/uploads/2017/06/24503.jpg
 date=2018-02-05
-URL=http://185.216.140.24/win-001-hls/appid-24503/hls_720_.m3u8
+URL=http://n61.yamvideo.com/14024/106a6c241b8797f52e1e77317b96a201/001-win/appid-24503/hls.m3u8
+
+
+type=video
+name=Sqte-186 I Love You And I39m More Excited Than Usual
+thumb=http://javporn.to/wp-content/uploads/2017/10/27042.jpg
+date=2018-04-19
+URL=http://n57.yamvideo.com/171132/106a6c241b8797f52e1e77317b96a201/003/appid-27042/hls.m3u8
 
 
 
+
+
+
+
+
+
+
+type=video
+name=Club-427 A Sea House Aiming For Big Tits Swimsuit Gals Only Nanpa Esthe 8
+thumb=http://javporn.to/wp-content/uploads/2018/03/29578.jpg
+date=2018-04-19
+URL=http://n59.yamvideo.com/168114/106a6c241b8797f52e1e77317b96a201/3674-new-001-ok/appid-29578/hls.m3u8
+
+
+type=video
+name=Scop-362 Scoop Specialties100 People 500 Minutes All Busty Full Assortment Sp
+thumb=http://javporn.to/wp-content/uploads/2018/03/29154.jpg
+date=2018-04-19
+URL=http://n58.yamvideo.com/14023/106a6c241b8797f52e1e77317b96a201/036-hls/appid-29154/hls.m3u8
+
+
+type=video
+name=Scop-375 Yukemuri Hot Flashes Glossy Beauty Best50 People 8 Hours To Hot Spring Bath, B Amp Yukata 8230 Chi Port Of Skin And Mind Are Healed 8211
+thumb=http://javporn.to/wp-content/uploads/2018/03/29158.jpg
+date=2018-04-19
+URL=http://n58.yamvideo.com/14023/106a6c241b8797f52e1e77317b96a201/036-hls/appid-29158/hls.m3u8
+
+type=video
+name=Scop-361 Mom Even Thing Woman 8230 Children Strange Soto-mai Mom There Is No Pond Would Accept The Switch Port Other Than The Husband Crazy Tingling Lower Body We Best50 People 1 500 Minutes Sp
+thumb=http://javporn.to/wp-content/uploads/2018/03/29153.jpg
+date=2018-04-19
+URL=http://n58.yamvideo.com/14023/106a6c241b8797f52e1e77317b96a201/036-hls/appid-29153/hls.m3u8
 
 
 
