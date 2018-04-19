@@ -3837,10 +3837,11 @@ URL=https://www.blazefile.co/embed-4cip00dzo4sv.html
 
 
 type=video
-name=Dead Again In Tombstone (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.7GB
+name=Dead Again In Tombstone (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.7GB thevideo
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6lEhEhSOdm0ku4I6h1do2KvBUi.jpg
 date=2017-08-30
-URL=https://openload.co/f/MSAmqFR1Z20/Dead.Again.in.Tombstone.2017.1080p.BluRay.x264-ROVERS.mkv
+URL=https://n3020.thevideo.me:8777/orcgm634iw3hu37wray635ihf3amzv7dgl2elaervjycskvlarys4ih6vnlc2m7s5fwhjlusqzigfpbasnu4ljrnqx2ex4xvbyrhd665xnt3jm7a577e4pieehkr5ac6klqgplt4cc3wgutihjxt5nfzmgisuyn37ona6dh3xm3r4rfhil3fsbklbwrhxl2nzadludozojrqkhddqbqhzuapluc3m4tng3uyj2sbmnvv6ta2wi26afszpl2td372ksz6jkuet34lthet47kz2e6njk3a/v.mp4
+#https://openload.co/f/MSAmqFR1Z20/Dead.Again.in.Tombstone.2017.1080p.BluRay.x264-ROVERS.mkv
 
 type=video
 name=Band Aid (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4138,10 +4139,11 @@ URL=https://openload.co/f/JGf43ccWqWg/Marshall.2017.1080p.WEB-DL.DD5.1.H264-FGT.
 
 
 type=video
-name=Trainspotting (1996) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Trainspotting (1996) [COLOR=FF00FF00]ENG BR 720p[/COLOR] fmovies
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1O3eFsdb0GEIYu87xlwV7P4jM1.jpg
 date=2018-03-27
-URL=http://192.99.67.192/home/movies34/tt0117951_hd.mp4
+URL=https://streamango.com/embed/qrardsnlkesdasnn
+#http://192.99.67.192/home/movies34/tt0117951_hd.mp4
 
 
 type=video
@@ -4592,8 +4594,10 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=Peter Rabbit (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
-date=2018-04-18
-URL=https://openload.co/f/AcKE3s2gg2s/Peter.Rabbit.2018.1080p.BR_SeeHD.mp4
+date=2018-04-19
+URL=https://www.blazefile.co/embed-7cctned36gk1.html
+#https://uptobox.com/ghwhz8nkdfu4
+#https://openload.co/f/AcKE3s2gg2s/Peter.Rabbit.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/nerdCj-t0KA/Peter.Rabbit.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/DIWDzbD-k9I/peter.rabbit.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/PfHPzLCpqwM/peter.rabbit.2018.1080p.bluray.x264-drones.mkv.mp4
@@ -5228,10 +5232,11 @@ URL=https://streamango.com/f/nrcfnrabloqbbrbr/Victoria_Abdul_2017_
 
 
 type=video
-name=Roman J. Israel, Esq. (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Roman J. Israel, Esq. (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] fmovies
 thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNjkxMTg2NV5BMl5BanBnXkFtZTgwNjkyNTk0MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg
 date=2018-01-27
-URL=https://openload.co/f/MymMhXdgOME/Roman.J.Israel.Esq.2017.1080p.BluRay.x264-DRONES.mkv
+URL=https://nl2.vidcdn.pro/hls/e8cae43b591ee9f95339797d1a1c2a03/sub.0.m3u8
+#https://openload.co/f/MymMhXdgOME/Roman.J.Israel.Esq.2017.1080p.BluRay.x264-DRONES.mkv
 #https://openload.co/f/ZUcZ5UgqD80/Roman.J.Israel.Esq.2017.1080p.BluRay.x264-DRONES.mkv   MKV8.7GB
 #https://openload.co/f/Sxn9_vuvfKM/Roman.J.Israel.Esq.2017.720p.ENG.HDCAM.H264-Zi%24t.mkv.mp4
 #https://openload.co/f/EtDmEWBVIow/Roman.J.Israel.Esq.2017.P.kol.TS.14OOMB_KOSHARA.E.mp4
@@ -5864,7 +5869,7 @@ type=video
 name=Baahubali: The Beginning (2015) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/5uurRfH9KdMiecCNTzO1MSi9Tqw.jpg
 date=2018-03-14
-URL=http://download1481.mediafire.com/w79j4lr5gsmg/18snaiuko7unzuz/Baahubali.The.Beginning.2015.BluRay.1080p.5.1CH.x264.Ganool.ag.mkv
+URL=https://nl9.vidcdn.pro/hls/518b14c96928e12869733a34e669b425/sub.1.m3u8
 type=video
 name=Baahubali: The Beginning (2015) SUB
 thumb=http://image.tmdb.org/t/p/w500/5uurRfH9KdMiecCNTzO1MSi9Tqw.jpg
@@ -5924,10 +5929,11 @@ description=Park Tae-Soo was born to a difficult family, one day he wanted to be
 
 # 2769908
 type=video
-name=Allied (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Allied (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] fmovies
 thumb=http://image.tmdb.org/t/p/w500/nzXzLFTnd0Zb3ExfhOxlQgizgSu.jpg
 date=2018-03-27
-URL=http://192.99.67.192/home/movies29/tt3640424_hd.mp4
+URL=https://nl3.vidcdn.pro/hls/3e32030dbbe2057f37a1388665781729/sub.0.m3u8
+#http://192.99.67.192/home/movies29/tt3640424_hd.mp4
 type=video
 name=Allied (2016) SUB
 thumb=http://image.tmdb.org/t/p/w500/nzXzLFTnd0Zb3ExfhOxlQgizgSu.jpg
@@ -5971,9 +5977,9 @@ description=This 3DCG film will cover the manga's Osaka Arc./description
 
 
 type=video
-name=Elle (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Elle (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] fmovies
 thumb=http://image.tmdb.org/t/p/w500/aRomjtoVqEZRjDHgLNvtj7c8ixG.jpg
-URL=https://www.blazefile.co/embed-jt6jzk342uxi.html
+URL=https://nl14.vidcdn.pro/hls/579ac51edc239c43427293a7167578de/sub.0.m3u8
 
 
 type=video
@@ -6013,8 +6019,10 @@ URL=https://streamango.com/f/bfetceqmnompadfa/Monster_Hunt_2_2018_2_V_2_mp4
 type=video
 name=12 Strong (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
-date=2018-04-18
-URL=https://openload.co/f/RwhZH5iYiBI/12.Strong.2018.1080p.BR_SeeHD.mp4
+date=2018-04-19
+URL=https://www.blazefile.co/embed-06h0ip077ted.html
+#https://uptobox.com/7morkf1qlybl
+#https://openload.co/f/RwhZH5iYiBI/12.Strong.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/ogzXWqSbDPk/12.strong.2018.1080p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/TIdvUg3fVJE/12.strong.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/NC9uV0ORD0Y/12.strong.2018.720p.bluray.x264-geckos.mkv.mp4

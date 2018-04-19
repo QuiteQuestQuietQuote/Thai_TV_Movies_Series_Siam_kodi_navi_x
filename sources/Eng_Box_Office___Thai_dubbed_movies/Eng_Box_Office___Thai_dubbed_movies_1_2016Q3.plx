@@ -247,9 +247,10 @@ rating=-1.00
 description=A group of teens break into a blind man's home thinking they'll get away with the perfect crime. They're wrong./description
 
 type=video
-name=Skiptrace (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] ganool
+name=Skiptrace (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] fmovies
 thumb=http://image.tmdb.org/t/p/w500/sDTGLqXanwudLeOXKqfNgkxjSdU.jpg
-URL=http://192.99.67.192/home/movies29/tt2238032_hd.mp4
+URL=https://nl19.vidcdn.pro/hls/78ba244ca95d927b5fb944438292c037/sub.0.m3u8
+#http://192.99.67.192/home/movies29/tt2238032_hd.mp4
 #https://www.blazefile.co/embed-kqlkwqfxkxhy.html
 type=video
 name=Skiptrace
@@ -543,9 +544,10 @@ rating=-1.00
 description=The USS Enterprise crew explores the furthest reaches of uncharted space, where they encounter a mysterious new enemy who puts them and everything the Federation stands for to the test./description
 
 type=video
-name=Lights Out (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] ganool
+name=Lights Out (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] fmovies
 thumb=http://image.tmdb.org/t/p/w500/rxXA5vwJElXQ8BgrB0pocUcuqFA.jpg
-URL=http://192.99.67.192/home/movies29/tt4786282_hd.mp4
+URL=https://nl13.vidcdn.pro/hls/29c55ea8a58e8d99a43fca605204c626/sub.0.m3u8
+#http://192.99.67.192/home/movies29/tt4786282_hd.mp4
 #https://www.blazefile.co/embed-mly4jt8h1kgl.html
 type=video
 name=Lights Out
