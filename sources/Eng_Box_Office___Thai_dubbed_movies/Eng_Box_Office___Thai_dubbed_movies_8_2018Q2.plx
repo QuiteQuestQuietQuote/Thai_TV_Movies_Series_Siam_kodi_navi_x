@@ -69,20 +69,15 @@ URL=
 
 
 
-type=video
-name=Rampage (2018) ENG 720p_NEW_HDCAM_X264_HQMic-CPG_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
-date=2018-04-16
-URL=https://openload.co/f/O23sDjSCQ6s/Rampage_2018_720p_NEW_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/Wrft5d0xj6A/Rampage.2018.HDCAM.x264.AC3-TEAM69.mkv.mp4
-#https://openload.co/f/D2aEsbX76bg/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv.mp4
-#https://openload.co/f/J2dDGP5-huM/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv   MKV3.0GB
+
+
 
 type=video
-name=Acrimony (2018) ENG HDCAM.x264-DiRG_SeeHD
+name=Acrimony (2018) ENG CAM.XViD-T3RR0R_SQU4D_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QA8rjbMqPcJXdHWEZE4Nxvktgx.jpg
-date=2018-04-18
-URL=https://openload.co/f/Ce7guXZgBS4/Acrimony.2018.HDCAM.x264-DiRG_SeeHD.mp4
+date=2018-04-21
+URL=https://openload.co/f/QD1fESnKSgA/Acrimony.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
+#https://openload.co/f/Ce7guXZgBS4/Acrimony.2018.HDCAM.x264-DiRG_SeeHD.mp4
 
 type=video
 name=Blockers (2018) ENG CAM.XViD-T3RR0R_SQU4D_SeeHD
@@ -1355,12 +1350,36 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-18
+date=2018-04-21
 URL=
 
 
 
 
+
+type=video
+name=Backstabbing for Beginners (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvUX96OVgTsfgXF3xKgDdDQbGau.jpg
+date=2018-04-21
+URL=https://www.blazefile.co/embed-p7xl3vc04a6j.html
+#https://uptobox.com/4ib34gskhijy
+#https://openload.co/f/2W9d5Z4h9Mc/Backstabbing.for.Beginners.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/1HTb53mmxPw/Backstabbing.for.Beginners.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
+
+type=video
+name=The Debt Collector (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XyuUPoIeEf3guWLQW9lATON84v.jpg
+date=2018-04-21
+URL=https://openload.co/f/-nlyCKMrClc/the.debt.collector.2018.1080p.bluray.x264-rusted.mkv.mp4
+#https://openload.co/f/ZNjCq6ms9MU/the.debt.collector.2018.720p.bluray.x264-rusted.mkv.mp4
+#https://www.blazefile.co/embed-n2yhgkbti1a8.html   720
+#https://uptobox.com/0be3jaur8hu5   720
+
+type=video
+name=Brotherhood: Final Fantasy XV (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvNlzLBxG7LPq3iOJvHaOjNvK9n.jpg
+date=2018-04-21
+URL=https://openload.co/f/Y7qZefyfMIs/Brotherhood_Final_Fantasy_XV.2016.1080p.BluRay.DD2.0.x264-HDS.mkv.mp4
 
 type=video
 name=Foreman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1413,12 +1432,14 @@ name=Deep Blue Sea 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGYZLSXiN4LfScxfrKMyR7VnmKI.jpg
 date=2018-04-16
 URL=https://openload.co/f/bY2HRl8gLu0/Deep.Blue.Sea.2.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/i_XuBH4JIA8/Deep.Blue.Sea.2.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Blood Feast (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gg9PvKLhxH4oW9y0pazvScQu0jJ.jpg
-date=2018-04-15
-URL=https://openload.co/f/zB5J8WbZ-jM/Blood.Feast.2016.1080p.BRRip.x264-eSc.mp4
+date=2018-04-21
+URL=https://openload.co/f/pJYgWtxTo-M/Blood.Feast.2016.1080p.BRRip.x264-eSc.mp4
+#https://openload.co/f/zB5J8WbZ-jM/Blood.Feast.2016.1080p.BRRip.x264-eSc.mp4
 #https://openload.co/f/xE1VWcRKdEo/Blood.Feast.2016.720p.BRRip.x264-eSc.mp4
 
 type=video
@@ -4504,13 +4525,21 @@ date=2018-04-17
 URL=https://openload.co/f/tJ18AUVjSdI/Sky.Hunter.2017.720p.BluRay.x264-WiKi.mkv.mp4
 #https://openload.co/f/xm-1t05_xmo/Sky.Hunter.2017.720p.BRRip.1GB.MkvCage.Com.mkv.mp4
 
-type=video
-name=Backstabbing for Beginners (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvUX96OVgTsfgXF3xKgDdDQbGau.jpg
-date=2018-04-18
-URL=https://openload.co/f/2W9d5Z4h9Mc/Backstabbing.for.Beginners.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/1HTb53mmxPw/Backstabbing.for.Beginners.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
 
+
+type=video
+name=The Condo (2015) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4NzJO0dEpc1ABXkQrcSjKWCa9bs.jpg
+date=2018-04-21
+URL=https://www.blazefile.co/embed-xkmbou9v6u7m.html
+#https://uptobox.com/xibwrue0yd6k
+
+type=video
+name=The Monster Project (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1E0JW9zqFwOO7w0HiuEPo6N7HBl.jpg
+date=2018-04-21
+URL=https://www.blazefile.co/embed-szx5w7zzgzpx.html
+#https://uptobox.com/d67tj1oqfxyo
 
 
 
@@ -4519,7 +4548,7 @@ URL=https://openload.co/f/2W9d5Z4h9Mc/Backstabbing.for.Beginners.2018.720p.BluRa
 type=video
 name=
 thumb=
-date=2018-04-18
+date=2018-04-21
 URL=http://203.162.235.41:17819
 
 
@@ -4592,25 +4621,21 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
-name=Peter Rabbit (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
-date=2018-04-19
-URL=https://www.blazefile.co/embed-7cctned36gk1.html
-#https://uptobox.com/ghwhz8nkdfu4
-#https://openload.co/f/AcKE3s2gg2s/Peter.Rabbit.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/nerdCj-t0KA/Peter.Rabbit.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/DIWDzbD-k9I/peter.rabbit.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/PfHPzLCpqwM/peter.rabbit.2018.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/-cCgN1iWs0E/peter.rabbit.2018.720p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/mvM9KJ7lQ_k/Peter_Rabbit_2018._NEW_HDCAM_SeeHD.avi.mp4
-#https://openload.co/f/OuW2gUHhTAU/Peter.Rabbit.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/OztM_HaRQX4/Peter.Rabbit.2018.HDCAM.x264-DiRG.mp4
-#https://openload.co/f/dTapIIDbV60/Peter_Rabbit_%282018%29_RUS.Cam.mp4
+name=Rampage (2018) ENG 720p_NEW_HDCAM_X264_HQMic-CPG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
+date=2018-04-16
+URL=https://openload.co/f/O23sDjSCQ6s/Rampage_2018_720p_NEW_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/Wrft5d0xj6A/Rampage.2018.HDCAM.x264.AC3-TEAM69.mkv.mp4
+#https://openload.co/f/D2aEsbX76bg/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv.mp4
+#https://openload.co/f/J2dDGP5-huM/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv   MKV3.0GB
 type=video
-name=Peter Rabbit (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
-date=2018-04-13
-URL=https://streamango.com/f/dkserplddbclskqo/Peter_Rabbit_2018_Full_-_HD_
+name=Rampage (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
+date=2018-04-21
+URL=https://streamango.com/f/acdstsasqbdafaef/Rampage_2018_
+
+
+
 
 
 type=video
@@ -4631,27 +4656,15 @@ date=2018-04-03
 URL=https://streamango.com/f/esmtoktpnsnacelr/Ready_Player_One_2018_
 
 
-type=video
-name=Pacific Rim: Uprising (2018) ENG 720p.HC.HDRip.X264.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
-date=2018-04-18
-URL=https://openload.co/f/ULC-jPIyFbc/Pacific_Rim_Uprising.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/EFgnOgvwcgA/Pacific.Rim.2.Uprising.2018.720p.HC.HDRiP.AC3.x264-LEGi0N.mkv   MKV3.2GB
-#https://openload.co/f/G_bzG6nas54/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/At_l9Qy_hUw/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG.mp4
-#https://openload.co/f/Ugx9be0SomQ/Pacific_Rim__Uprising_2018_HC_HDCAM_-_AKOAM_SeeHD.avi.mp4
-type=video
-name=Pacific Rim: Uprising (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
-date=2018-03-29
-URL=https://streamango.com/f/lscptnpfbacsobfa/Pacific_Rim_Uprising_2018_
+
 
 
 type=video
-name=Tomb Raider (2018) ENG New_SRC_720p_HDCAM_SeeHD
+name=Tomb Raider (2018) ENG 720p_HD-TC_NEW_X264-CPG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
-date=2018-03-18
-URL=https://openload.co/f/ab7mVAR6iAw/Tomb_Raider_2018_New_SRC_720p_HDCAM_SeeHD.mkv.mp4
+date=2018-03-21
+URL=https://openload.co/f/Ym5gxjVuFRY/Tomb_Raider_2018_720p_HD-TC_NEW_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/ab7mVAR6iAw/Tomb_Raider_2018_New_SRC_720p_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/HlMiyzb4nwY/Tomb_Raider.2018.CAM.XviD-VAiN.avi.mp4
 #https://openload.co/f/0fZwGeHZlIo/Tomb_Raider_2018_720p_FULL_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/yeIY9gwoqo8/Tom_Raider.2018.720p.HDCAM.X264-TomFaggot.mp4
@@ -4696,19 +4709,7 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 
 
 
-type=video
-name=Winchester (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg
-date=2018-04-17
-URL=https://openload.co/f/mYQHWpwDFwA/Winchester.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/9oox3vHbdJQ/Winchester_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/MR70YVhvXwA/Winchester.2018.720p.HDCAM_SeeHD.mp4
-#https://openload.co/f/c4esc5nzmqs/Winchester.2018.HDCAM.x264-DiRG.mp4
-type=video
-name=Winchester (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg
-date=2018-02-26
-URL=https://streamango.com/f/elfccpoabamnnmla/Winchester_2018_
+
 
 
 type=video
@@ -6000,6 +6001,64 @@ URL=
 
 
 
+type=video
+name=Peter Rabbit (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
+date=2018-04-19
+URL=https://www.blazefile.co/embed-7cctned36gk1.html
+#https://uptobox.com/ghwhz8nkdfu4
+#https://openload.co/f/AcKE3s2gg2s/Peter.Rabbit.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/nerdCj-t0KA/Peter.Rabbit.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/DIWDzbD-k9I/peter.rabbit.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/PfHPzLCpqwM/peter.rabbit.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/-cCgN1iWs0E/peter.rabbit.2018.720p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/mvM9KJ7lQ_k/Peter_Rabbit_2018._NEW_HDCAM_SeeHD.avi.mp4
+#https://openload.co/f/OuW2gUHhTAU/Peter.Rabbit.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/OztM_HaRQX4/Peter.Rabbit.2018.HDCAM.x264-DiRG.mp4
+#https://openload.co/f/dTapIIDbV60/Peter_Rabbit_%282018%29_RUS.Cam.mp4
+type=video
+name=Peter Rabbit (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
+date=2018-04-21
+URL=https://streamango.com/f/nnmdsqqllmcskfol/Peter_Rabbit_2018_
+#https://streamango.com/f/dkserplddbclskqo/Peter_Rabbit_2018_Full_-_HD_
+
+
+type=video
+name=Pacific Rim: Uprising (2018) ENG 720p.HC.HDRip.X264.AC3-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
+date=2018-04-18
+URL=https://openload.co/f/ULC-jPIyFbc/Pacific_Rim_Uprising.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/EFgnOgvwcgA/Pacific.Rim.2.Uprising.2018.720p.HC.HDRiP.AC3.x264-LEGi0N.mkv   MKV3.2GB
+#https://openload.co/f/G_bzG6nas54/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/At_l9Qy_hUw/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG.mp4
+#https://openload.co/f/Ugx9be0SomQ/Pacific_Rim__Uprising_2018_HC_HDCAM_-_AKOAM_SeeHD.avi.mp4
+type=video
+name=Pacific Rim: Uprising (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
+date=2018-04-21
+URL=https://streamango.com/f/nbkqnsctdkcrqbsk/Pacific_Rim_Uprising_2018_
+#https://streamango.com/f/lscptnpfbacsobfa/Pacific_Rim_Uprising_2018_
+
+
+type=video
+name=Winchester (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg
+date=2018-04-21
+URL=https://www.blazefile.co/embed-mpfnrec68izl.html
+#https://uptobox.com/3rbn0m19lvds
+#https://openload.co/f/JmEgLaK6uuE/Winchester.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/l8P64-Ec_2o/Winchester.2018.1080p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/mYQHWpwDFwA/Winchester.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/9oox3vHbdJQ/Winchester_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/MR70YVhvXwA/Winchester.2018.720p.HDCAM_SeeHD.mp4
+#https://openload.co/f/c4esc5nzmqs/Winchester.2018.HDCAM.x264-DiRG.mp4
+type=video
+name=Winchester (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg
+date=2018-04-21
+URL=https://streamango.com/f/rlcdffttdddaetmn/Winchester_2018_
+#https://streamango.com/f/elfccpoabamnnmla/Winchester_2018_
 
 
 type=video
@@ -6267,10 +6326,11 @@ URL=https://streamango.com/f/blonnaontoptfqls/Fairy_Tail_Movie_2_Dragon_Cry_2017
 
 
 type=video
-name=Bleeding Steel (2017) CHN 1080p.HC.WEBRip.x264.AAC2.0-SHITBOX
+name=Bleeding Steel (2017) CHN 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1O26qVwkhSlicycBBK731k8vPd.jpg
-date=2018-02-19
-URL=https://openload.co/f/x4auntQZjCw/Bleeding.Steel.2017.1080p.HC.WEBRip.x264.AAC2.0-SHITBOX.mp4
+date=2018-04-21
+URL=https://openload.co/f/WIadstM69XA/Bleeding%2520Steel.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/x4auntQZjCw/Bleeding.Steel.2017.1080p.HC.WEBRip.x264.AAC2.0-SHITBOX.mp4
 #https://openload.co/f/v-lZiSdTUWg/Bleeding.Steel.2017.720.V2.HC.HDRip.AC3-EVO.mkv.mp4
 #https://openload.co/f/rbcKgVNRwDo/Bleeding.Steel.2017.720P.HDTC.X264.AAC-Zi%24t.mkv.mp4
 #https://openload.co/f/haSIIRCGox8/BLEEDING_STEEL_2017_CAMRIP_X264_MP3_Zit.E.mp4
@@ -6578,8 +6638,10 @@ URL=https://streamango.com/f/cesnbaacreqdlbfc/Fifty_Shades_Freed_2018_mp4
 type=video
 name=Den of Thieves (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
-date=2018-04-13
-URL=https://openload.co/f/gQQNC1ZM0_o/Den_of_Thieves.2018.UNRATED.720p.BR_SeeHD.mp4
+date=2018-04-21
+URL=https://www.blazefile.co/embed-0o0420abqqq7.html
+#https://uptobox.com/2buikgwbfuwi
+#https://openload.co/f/gQQNC1ZM0_o/Den_of_Thieves.2018.UNRATED.720p.BR_SeeHD.mp4
 #https://openload.co/f/y3Pf7plGu-I/Den_of_Thieves_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
 #https://openload.co/f/Lgk_VxDMTIw/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4
 #https://openload.co/f/-B28tK5CPMY/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4

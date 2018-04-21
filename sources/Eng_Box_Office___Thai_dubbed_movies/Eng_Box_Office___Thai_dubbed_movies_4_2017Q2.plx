@@ -248,12 +248,19 @@ URL=https://openload.co/f/usjIDJupb1c/A_Tale_of_Legendary_Libido_2008.mp4
 player=default
 rating=-1.00
 
+
+type=video
+name=Resident Evil: Degeneration (2008) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcduy3H9RelaER3F7jn7OGby1ws.jpg
+URL=https://9gll3g.mcloud.to/q2/i0/h0/p24/J3VLXktUC-bQM6Wxb-g6Yg/1524416400/h/b/6/g9kylq/list.m3u8
+#https://openload.co/f/icZ8ZlAP3ZA/Resident_Evil_Degeneration.2008.HD_720p.160526.TK6ID.mp4
 type=video
 name=Resident Evil: Degeneration (2008)
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcduy3H9RelaER3F7jn7OGby1ws.jpg
 URL=https://openload.co/f/qtbK27MJfrQ/Resident_Evil_Degeneration_2008.mp4
 player=default
 rating=-1.00
+
 
 # 2772073
 type=video
@@ -264,12 +271,19 @@ player=default
 rating=-1.00
 description=During the Cold War, an organization called "Patriot" created a super-hero squad, which includes members of multiple soviet republics. For years, the heroes had to hide their identities, but in hard times they must show themselves again./description
 
+
+type=video
+name=Resident Evil Damnation (2012) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://1.bp.blogspot.com/-l8-f5cqR8TU/WR0mhReIn_I/AAAAAAAAIs4/3TgHUeRc55Mk3SrpDpTPEAPaaV8Gu3HLwCLcB/s320/Resident%2BEvil%2BDamnation%2B%25282012%2529.jpg
+URL=https://cdn.mcloud.to/q2/i0/h0/p24/XUsFUUFtSF7WTdJK30-VKA/1524416400/h/6/b/gr2m5m/list.m3u8
+#https://openload.co/f/b0xiJkW7LME/Resident_Evil_Damnation.2012.HD_720p.mp4
 type=video
 name=Resident Evil Damnation (2012)
 thumb=https://1.bp.blogspot.com/-l8-f5cqR8TU/WR0mhReIn_I/AAAAAAAAIs4/3TgHUeRc55Mk3SrpDpTPEAPaaV8Gu3HLwCLcB/s320/Resident%2BEvil%2BDamnation%2B%25282012%2529.jpg
 URL=https://openload.co/f/e6aS0URG8ns/Resident_Evil_Damnation_2012.mp4
 player=default
 rating=-1.00
+
 
 type=video
 name=The Age of Shadows (2017)
