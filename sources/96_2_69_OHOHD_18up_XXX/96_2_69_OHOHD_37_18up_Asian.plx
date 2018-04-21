@@ -47,6 +47,109 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=33xxxxxxxxxxxxxxxxxxxxTemptation Of Aunt (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Temptation-Of-Aunt-2018-Uncut.jpg
+date=2018-04-21
+URL=https://streamcherry.com/embed/lmdmmfppolmofear/
+
+type=video
+name=Ilban In (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Ilban-In-2018.jpg
+date=2018-04-21
+URL=https://streamcherry.com/embed/edpkrqctaqpmoqda/
+
+type=video
+name=Manager (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Manager-2018.jpg
+date=2018-04-21
+URL=https://streamcherry.com/embed/dsdrfessfnaosbeq/
+
+type=video
+name=Jeongsa Mother Of Friend 2 (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Jeongsa-Mother-Of-Friend-2-2018.jpg
+date=2018-04-21
+URL=https://streamcherry.com/embed/lectlceptekaanpr/
+
+type=video
+name=Conditions Of Secretary (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Conditions-Of-Secretary-2017.jpg
+date=2018-04-21
+URL=https://streamcherry.com/embed/tmkkrcddobtkenlk/
+
+
+type=video
+name=Saeeommaui Sex Gyoyug (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Saeeommaui-Sex-Gyoyug-2017-Uncut.jpg
+date=2018-04-21
+URL=https://streamcherry.com/embed/kfdcqorqmqbencnd/
+
+type=video
+name=Saimin Chokyo (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Saimin-Chokyo-2016.jpg
+date=2018-04-21
+URL=https://streamcherry.com/embed/mdqqsfnqsmeflcdt/
+
+type=video
+name=Nozokaretai Wakazuma (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Nozokaretai-Wakazuma-2017.jpg
+date=2018-04-21
+URL=https://streamcherry.com/embed/brpfpsocfaopblrt/
+
+type=video
+name=Kwaelag Ui Milsil (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Kwaelag-Ui-Milsil-2017-Uncut.jpg
+date=2018-04-21
+URL=https://streamcherry.com/embed/dbnsqeebeplobmqt/
+
+type=video
+name=Nappeun Eomma (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Nappeun-Eomma-2018.jpg
+date=2018-04-21
+URL=https://streamcherry.com/embed/qfoqmtmemrqssetd/
+
+
+type=video
+name=Nae Chingu Anae (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Nae-Chingu-Anae-2018.jpg
+date=2018-04-21
+URL=https://streamcherry.com/embed/llpseedcmklnsbdo/
+
+type=video
+name=Hahano Kontakutorennzu (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Hahano-Kontakutorennzu-2017.jpg
+date=2018-04-21
+URL=https://streamcherry.com/embed/blemecnacrcqloot/
+
+type=video
+name=Delicious Temptation (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Delicious-Temptation-2018.jpg
+date=2018-04-21
+URL=https://streamcherry.com/embed/febtndstersatffm/
+
+
+
+
+
+
+
+
+
+
+
+
+
 type=video
 name=20xxxxxxxxxxxxxxxxxxxxCouple Exchange Sex 3 (2017) 
 thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Couple-Exchange-Sex-3-2017.jpg
