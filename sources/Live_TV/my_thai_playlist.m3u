@@ -1964,16 +1964,16 @@ https://cdn-center.livestream-cdn.com/documentary/bbc_earth_720p.stream/playlist
 
 #EXTINF:-1,Sky UHD
 http://119.194.30.67:9981/stream/channelid/1253361577?ticket=901C862CFA782938321E8ADE16ECD13061F98BFF&profile=pass
-#EXTINF:-1,Discovery World
-http://servidor01.serverfulltv.com/DISCOVERYWORLDV-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BBC Earth
-http://xemtivi24.000webhostapp.com/iptv-hplus1.php?id=bbc-e
-#EXTINF:-1,BBC Lifestyle
-http://xemtivi24.000webhostapp.com/iptv-hplus1.php?id=bbc-ls
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
+http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
+#EXTINF:-1,CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
 #EXTINF:-1,AFC
 http://61.58.60.247:9000/live/176.m3u8
-#EXTINF:-1,BBC Earth_KOR2
-http://211.225.68.27:9981/stream/channelid/194526663?ticket=C2E798B19EA046AC8137F3CB2033722253682EF3&profile=pass
+#EXTINF:-1,BBC Earth HD Polska1
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/560/index.m3u8
+#EXTINF:-1,BBC Earth HD Polska2
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/561/index.m3u8
 #EXTINF:-1,BBC Earth_KOR
 http://119.194.30.67:9981/stream/channelid/1550569005?ticket=F39C5EB1368D210C1C3972760F345AE57F270B93&profile=pass
 #EXTINF:-1,CNBC Europe

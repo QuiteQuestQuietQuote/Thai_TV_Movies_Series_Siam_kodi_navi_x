@@ -249,7 +249,8 @@ description=A group of teens break into a blind man's home thinking they'll get 
 type=video
 name=Skiptrace (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] fmovies
 thumb=http://image.tmdb.org/t/p/w500/sDTGLqXanwudLeOXKqfNgkxjSdU.jpg
-URL=https://nl19.vidcdn.pro/hls/78ba244ca95d927b5fb944438292c037/sub.0.m3u8
+URL=https://docs.google.com/vt?id=0B3KqgBAETKuPVmtLZHhQTlpMTUE
+#http://entervideo.net/watch/9e552da4384a9fb
 #http://192.99.67.192/home/movies29/tt2238032_hd.mp4
 #https://www.blazefile.co/embed-kqlkwqfxkxhy.html
 type=video
@@ -544,9 +545,12 @@ rating=-1.00
 description=The USS Enterprise crew explores the furthest reaches of uncharted space, where they encounter a mysterious new enemy who puts them and everything the Federation stands for to the test./description
 
 type=video
-name=Lights Out (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] fmovies
+name=Lights Out (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] sock
 thumb=http://image.tmdb.org/t/p/w500/rxXA5vwJElXQ8BgrB0pocUcuqFA.jpg
-URL=https://nl13.vidcdn.pro/hls/29c55ea8a58e8d99a43fca605204c626/sub.0.m3u8
+URL=http://entervideo.net/watch/016849968ad71b9
+#https://nl13.vidcdn.pro/hls/29c55ea8a58e8d99a43fca605204c626/sub.0.720.m3u8
+#https://streamango.com/embed/mndermeafknqfbet/DD_Lights_Out_2016_1080p_WEB_DL_x264_AC3_JYK_mp4
+#https://oload.win/embed/1I2K1JJWrf0/Lights_Out_2016_1080p_WEB_DL_x264_AC3_JYK.mp4
 #http://192.99.67.192/home/movies29/tt4786282_hd.mp4
 #https://www.blazefile.co/embed-mly4jt8h1kgl.html
 type=video

@@ -231,11 +231,7 @@ URL=https://openload.co/f/bV_8RkHANJQ/The_15-17_to_Paris_2018.HDCAM.XViD.AC3-ETR
 
 
 
-type=video
-name=Please Stand By (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3MzUzMjIxMV5BMl5BanBnXkFtZTgwODY5MTIzNDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg
-date=2018-01-27
-URL=https://openload.co/f/pxILgMUOINM/Please_Stand_By.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 type=video
 name=The Clapper (2018) ENG 720p.WEB-DL.XviD.AC3-FGT
@@ -383,10 +379,16 @@ URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.
 type=video
 name=
 thumb=
-date=2018-03-24
+date=2018-04-22
 URL=
 
 
+
+type=video
+name=Detective Chinatown 2 (2018) CHN WEB-DL.1080P.H264.AAC
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JBftHNBnLHgqwHLiojuVSsRNpS.jpg
+date=2018-04-22
+URL=https://openload.co/f/s0IGNSki-Yc/Detective.Chinatown.Vol_2.2018.WEB-DL.1080P.H264.AAC.mp4
 
 type=video
 name=Mrs. Hyde (2018) FRE TS.XviD_F4NTASTiC.E
@@ -1245,7 +1247,12 @@ date=2018-04-17
 URL=https://openload.co/f/_fjOJlAT6Vw/Dear_Dictator_2018.BDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/A-lfM19zupk/Dear.Dictator.2018.720p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
-
+type=video
+name=Please Stand By (2017) ENG BRRip.AC3.X264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg
+date=2018-04-22
+URL=https://openload.co/f/Y-eSumROwkE/Please.Stand.By.2017.BRRip.AC3.X264-CMRG.mkv.mp4
+#https://openload.co/f/pxILgMUOINM/Please_Stand_By.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 
 
@@ -1350,12 +1357,38 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-21
+date=2018-04-22
 URL=
 
 
 
 
+
+
+
+
+
+
+type=video
+name=I Had A Bloody Good Time At House Harker (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWd7TVTvEfblStW1VHZvwYkXN0s.jpg
+date=2018-04-22
+URL=https://openload.co/f/S8E1YLAW8ro/i.had.a.bloody.good.time.at.house.harker.2016.1080p.bluray.x264-getit.mkv.mp4
+
+type=video
+name=Sugar Mountain (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj1cwfb6LFIIBcgBMZkbUjTvSPP.jpg
+date=2018-04-22
+URL=https://openload.co/f/6FYC0JKQLto/sugar.mountain.2016.1080p.bluray.x264-getit.mkv.mp4
+#https://openload.co/f/RJUVmKS2FUg/sugar.mountain.2016.720p.bluray.x264-getit.mkv.mp4
+
+type=video
+name=The Monster Project (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1E0JW9zqFwOO7w0HiuEPo6N7HBl.jpg
+date=2018-04-22
+URL=https://openload.co/f/rxMTb8Px6UQ/The.Monster.Project.2017.1080p.BR_SeeHD.mp4
+#https://www.blazefile.co/embed-szx5w7zzgzpx.html   720
+#https://uptobox.com/d67tj1oqfxyo   720
 
 type=video
 name=Backstabbing for Beginners (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1582,13 +1615,8 @@ URL=https://www.blazefile.co/embed-95qzary7bv5p.html
 #https://openload.co/f/_PnkG7ex6Ek/The_Post.HDCAM_SeeHD.mp4
 #https://openload.co/f/l55OhzL6WjA/The_Post_2017_ENG_HDCAM-X264-Zi%24t.mkv.mp4
 
-type=video
-name=A Better Tomorrow (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiGt7crOueCfgqGlay4ZryRBRQF.jpg
-date=2018-04-03
-URL=https://www.blazefile.co/embed-pjefipst454c.html
-#https://uptobox.com/zub780k63629
-#https://openload.co/f/oz61UauiMro/A.Better.Tomorrow.2018.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
+
+
 
 type=video
 name=It Came from the Desert (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1715,25 +1743,8 @@ date=2018-03-25
 URL=https://openload.co/f/WlQlW0OQwE0/The.Silence.of.the.Lambs.1991.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://uptobox.com/4zq7yb6ycxoy   720
 
-type=video
-name=The Greatest Showman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfhztJRiElqmYW4kpvjYe1gENsD.jpg
-date=2018-03-25
-URL=https://www.blazefile.co/embed-6dvmihtjvbte.html
-#https://uptobox.com/0c2n7iw34tnd
-#https://openload.co/f/hg07JTlCAhE/the.greatest.showman.2017.1080p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/yXNUyf611nA/the.greatest.showman.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/0V3HwGp1z7I/The.Greatest.Showman.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/99DSySUDK78/The.Greatest.Showman.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/YGwwX8Xa6bs/The.Greatest.Showman.2017.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
-#https://openload.co/f/UwmRb6ABXiU/The_Greatest_Showman_2017_720p_WEB-DL_SeeHD.mkv.mp4
-#https://openload.co/f/lCFBoodf6EQ/The.Greatest.Showman.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/yOA_40FWzCw/The.Greatest.Showman.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/iuirsA-k0sk/The.Greatest.Showman.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/SNCwiigOC4Y/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv
-#https://openload.co/f/O708OmzRzsE/The_Greatest_Showman_2017_HDCAM_V.2_ENG_X264-DADDY.mkv.mp4
-#https://openload.co/f/A-NUvRiEbTE/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv.mp4
-#https://openload.co/f/pEHfMHoX0xc/The.Greatest.Showman.2017.RUSSIAN.LANG.CAM.MoViE1K.mp4
+
+
 
 type=video
 name=Proud Mary (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4534,12 +4545,7 @@ date=2018-04-21
 URL=https://www.blazefile.co/embed-xkmbou9v6u7m.html
 #https://uptobox.com/xibwrue0yd6k
 
-type=video
-name=The Monster Project (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1E0JW9zqFwOO7w0HiuEPo6N7HBl.jpg
-date=2018-04-21
-URL=https://www.blazefile.co/embed-szx5w7zzgzpx.html
-#https://uptobox.com/d67tj1oqfxyo
+
 
 
 
@@ -5236,7 +5242,7 @@ type=video
 name=Roman J. Israel, Esq. (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] fmovies
 thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNjkxMTg2NV5BMl5BanBnXkFtZTgwNjkyNTk0MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg
 date=2018-01-27
-URL=https://nl2.vidcdn.pro/hls/e8cae43b591ee9f95339797d1a1c2a03/sub.0.m3u8
+URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_2026960664234188_6576315647163105280_n.mp4?_nc_cat=0&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJzdmVfaGQifQ%3D%3D&rl=1500&vabr=729&oh=fbd1e78adbaa9b7541fcf5a4c2821b92&oe=5ADE7EFF
 #https://openload.co/f/MymMhXdgOME/Roman.J.Israel.Esq.2017.1080p.BluRay.x264-DRONES.mkv
 #https://openload.co/f/ZUcZ5UgqD80/Roman.J.Israel.Esq.2017.1080p.BluRay.x264-DRONES.mkv   MKV8.7GB
 #https://openload.co/f/Sxn9_vuvfKM/Roman.J.Israel.Esq.2017.720p.ENG.HDCAM.H264-Zi%24t.mkv.mp4
@@ -5933,7 +5939,7 @@ type=video
 name=Allied (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] fmovies
 thumb=http://image.tmdb.org/t/p/w500/nzXzLFTnd0Zb3ExfhOxlQgizgSu.jpg
 date=2018-03-27
-URL=https://nl3.vidcdn.pro/hls/3e32030dbbe2057f37a1388665781729/sub.0.m3u8
+URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_1086763071464662_8288403535356231680_n.mp4?_nc_cat=0&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJzdmVfaGQifQ%3D%3D&rl=1500&vabr=586&oh=2a34e4ef2c5f2760089587b0c1a22ff7&oe=5ADE492E
 #http://192.99.67.192/home/movies29/tt3640424_hd.mp4
 type=video
 name=Allied (2016) SUB
@@ -5980,7 +5986,9 @@ description=This 3DCG film will cover the manga's Osaka Arc./description
 type=video
 name=Elle (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] fmovies
 thumb=http://image.tmdb.org/t/p/w500/aRomjtoVqEZRjDHgLNvtj7c8ixG.jpg
-URL=https://nl14.vidcdn.pro/hls/579ac51edc239c43427293a7167578de/sub.0.m3u8
+URL=https://openload.co/embed/bqnZQIJcq_s
+#https://streamango.com/embed/ofcmtlnlqlltblsb
+
 
 
 type=video
@@ -5993,12 +6001,32 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-03
+date=2018-04-22
 URL=
 
 
 
 
+
+type=video
+name=Fireworks, Should We See It from the Side or the Bottom? (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mh2NWCrdMYi2rF0vAp5WtWy2sm.jpg
+date=2018-04-22
+URL=https://streamango.com/f/ertnpmrmnncfrblp/Fireworks_Should_We_See_It_from_the_Side_or_the_Bottom_2017_
+
+
+type=video
+name=A Better Tomorrow (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiGt7crOueCfgqGlay4ZryRBRQF.jpg
+date=2018-04-03
+URL=https://www.blazefile.co/embed-pjefipst454c.html
+#https://uptobox.com/zub780k63629
+#https://openload.co/f/oz61UauiMro/A.Better.Tomorrow.2018.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
+type=video
+name=A Better Tomorrow (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiGt7crOueCfgqGlay4ZryRBRQF.jpg
+date=2018-04-22
+URL=https://streamango.com/f/nrpbpscqtnlldsfn/A_Better_Tomorrow_2018_
 
 
 type=video
@@ -6326,10 +6354,11 @@ URL=https://streamango.com/f/blonnaontoptfqls/Fairy_Tail_Movie_2_Dragon_Cry_2017
 
 
 type=video
-name=Bleeding Steel (2017) CHN 1080p.WEB-DL.H264.AC3-EVO
+name=Bleeding Steel (2017) CHN 720pHD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1O26qVwkhSlicycBBK731k8vPd.jpg
-date=2018-04-21
-URL=https://openload.co/f/WIadstM69XA/Bleeding%2520Steel.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2018-04-22
+URL=https://openload.co/f/29pJb9WpP1g/Bleeding.Steel.2017.720pHD_SeeHD.mp4
+#https://openload.co/f/WIadstM69XA/Bleeding%2520Steel.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/x4auntQZjCw/Bleeding.Steel.2017.1080p.HC.WEBRip.x264.AAC2.0-SHITBOX.mp4
 #https://openload.co/f/v-lZiSdTUWg/Bleeding.Steel.2017.720.V2.HC.HDRip.AC3-EVO.mkv.mp4
 #https://openload.co/f/rbcKgVNRwDo/Bleeding.Steel.2017.720P.HDTC.X264.AAC-Zi%24t.mkv.mp4
@@ -6612,6 +6641,34 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+
+
+type=video
+name=The Greatest Showman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfhztJRiElqmYW4kpvjYe1gENsD.jpg
+date=2018-03-25
+URL=https://www.blazefile.co/embed-6dvmihtjvbte.html
+#https://uptobox.com/0c2n7iw34tnd
+#https://openload.co/f/hg07JTlCAhE/the.greatest.showman.2017.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/yXNUyf611nA/the.greatest.showman.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/0V3HwGp1z7I/The.Greatest.Showman.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/99DSySUDK78/The.Greatest.Showman.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/YGwwX8Xa6bs/The.Greatest.Showman.2017.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/UwmRb6ABXiU/The_Greatest_Showman_2017_720p_WEB-DL_SeeHD.mkv.mp4
+#https://openload.co/f/lCFBoodf6EQ/The.Greatest.Showman.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/yOA_40FWzCw/The.Greatest.Showman.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/iuirsA-k0sk/The.Greatest.Showman.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/SNCwiigOC4Y/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv
+#https://openload.co/f/O708OmzRzsE/The_Greatest_Showman_2017_HDCAM_V.2_ENG_X264-DADDY.mkv.mp4
+#https://openload.co/f/A-NUvRiEbTE/The_Greatest_Showman_2017_HDCAM_ENG_X264-DADDY.mkv.mp4
+#https://openload.co/f/pEHfMHoX0xc/The.Greatest.Showman.2017.RUSSIAN.LANG.CAM.MoViE1K.mp4
+type=video
+name=The Greatest Showman (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfhztJRiElqmYW4kpvjYe1gENsD.jpg
+date=2018-04-22
+URL=https://openload.co/f/Vf0AjUQiyHE/The_Greatest_Showman_%282017%29%E0%B9%82%E0%B8%8A%E0%B8%A7%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+
+
 type=video
 name=Let Me Eat Your Pancreas (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/50tapu6LAgB4MNK7KoqbVxGtFn3.jpg
@@ -6636,11 +6693,12 @@ URL=https://streamango.com/f/cesnbaacreqdlbfc/Fifty_Shades_Freed_2018_mp4
 
 
 type=video
-name=Den of Thieves (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Den of Thieves (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
-date=2018-04-21
-URL=https://www.blazefile.co/embed-0o0420abqqq7.html
-#https://uptobox.com/2buikgwbfuwi
+date=2018-04-22
+URL=https://openload.co/f/I5N1xSvK7kg/Den.Of.Thieves.2018.UNRATED.1080p.BR_SeeHD.mp4
+#https://www.blazefile.co/embed-0o0420abqqq7.html   720
+#https://uptobox.com/2buikgwbfuwi   720
 #https://openload.co/f/gQQNC1ZM0_o/Den_of_Thieves.2018.UNRATED.720p.BR_SeeHD.mp4
 #https://openload.co/f/y3Pf7plGu-I/Den_of_Thieves_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
 #https://openload.co/f/Lgk_VxDMTIw/Den_of_Thieves_2018_NEW_720p_HD-TS_X264-CPG.mkv.mp4
