@@ -1018,10 +1018,11 @@ URL=https://openload.co/f/iHZZfH-CV1g/Landline.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 
 type=video
-name=Daphne (2017) ENG HDRip.XviD.AC3-EVO
+name=Daphne (2017) ENG dvdrip.x264-bipolar
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Z5hfRmasEUeypPczBjW92GzMgb.jpg
-date=2017-10-03
-URL=https://openload.co/f/bZOKMzdGzUs/Daphne_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
+date=2018-04-23
+URL=https://openload.co/f/_rZ_4xvvVUI/daphne.2017.limited.dvdrip.x264-bipolar.mkv.mp4
+#https://openload.co/f/bZOKMzdGzUs/Daphne_%282017%29.HDRip.XviD.AC3-EVO.avi.mp4
 
 
 
@@ -2211,6 +2212,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKBHo6WnRnUJ5qvWFWd3Fne9bK
 date=2018-02-25
 URL=https://www.blazefile.co/embed-vt3w9ijj6nm2.html
 #https://uptobox.com/nhc1zl9a8z3g
+#https://openload.co/f/q_ihmKaqVbM/The_Square_%282017%29.1080p_BluRay_x264-PSYCHD_ganool.mkv.mp4
 #https://openload.co/f/lK-shFWCZ1k/ghpthesqqre80.Ettv.st.mkv
 #https://openload.co/f/YPJwsjxxB0o/The.Square.2017.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/JzTqcBOeG-0/The.Square.2017.DVDRip.x264-PSYCHD.mkv.mp4

@@ -1970,9 +1970,11 @@ http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
 http://live.cgtn.com/cctv-d.m3u8
 #EXTINF:-1,AFC
 http://61.58.60.247:9000/live/176.m3u8
-#EXTINF:-1,BBC Earth HD Polska1
-http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/560/index.m3u8
-#EXTINF:-1,BBC Earth HD Polska2
+#EXTINF:-1,Food Network HD
+http://144.217.65.232:8080/BR1/foodnetworkhd-br/mpegts
+#EXTINF:-1,Food Network Russia
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/310/index.m3u8
+#EXTINF:-1,BBC Earth HD Polska
 http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/561/index.m3u8
 #EXTINF:-1,BBC Earth_KOR
 http://119.194.30.67:9981/stream/channelid/1550569005?ticket=F39C5EB1368D210C1C3972760F345AE57F270B93&profile=pass
