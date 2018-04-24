@@ -17,7 +17,8 @@
 http://122.155.184.11/T1457077260/ngrp:livestream_all/chunklist_w1537817334_b3628000.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS1080
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-
+#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS_violin
+http://symc-cdn05.bkk01.violin.co.th:1935/liveedge/308950239342_600/playlist.m3u8
 
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24_violin
 http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308360140120_600/chunklist.m3u8
@@ -80,8 +81,7 @@ http://103.77.116.191:443/documentary/asian_food_channel_480p.stream/chunklist.m
 #EXTINF:-1,MONEY CHANNEL_Myanmar
 http://183.89.3.45:8010/play/a02s
 
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS720
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+
 
 
 #EXTINF:-1,euro news
@@ -1962,6 +1962,10 @@ https://cdn-center.livestream-cdn.com/documentary/asian_food_channel_480p.stream
 https://cdn-center.livestream-cdn.com/documentary/bbc_earth_720p.stream/playlist.m3u8
 
 
+
+#EXTINF:-1,Discovery WORLD HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+
 #EXTINF:-1,Sky UHD
 http://119.194.30.67:9981/stream/channelid/1253361577?ticket=901C862CFA782938321E8ADE16ECD13061F98BFF&profile=pass
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
@@ -1970,8 +1974,8 @@ http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
 http://live.cgtn.com/cctv-d.m3u8
 #EXTINF:-1,AFC
 http://61.58.60.247:9000/live/176.m3u8
-#EXTINF:-1,Food Network HD
-http://144.217.65.232:8080/BR1/foodnetworkhd-br/mpegts
+#EXTINF:-1,Food Network Russia HD
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/861/index.m3u8
 #EXTINF:-1,Food Network Russia
 http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/310/index.m3u8
 #EXTINF:-1,BBC Earth HD Polska

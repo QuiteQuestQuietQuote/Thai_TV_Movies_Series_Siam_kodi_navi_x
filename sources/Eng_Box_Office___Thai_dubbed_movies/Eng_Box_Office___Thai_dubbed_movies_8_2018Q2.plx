@@ -1248,12 +1248,7 @@ date=2018-04-17
 URL=https://openload.co/f/_fjOJlAT6Vw/Dear_Dictator_2018.BDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/A-lfM19zupk/Dear.Dictator.2018.720p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
-type=video
-name=Please Stand By (2017) ENG BRRip.AC3.X264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg
-date=2018-04-22
-URL=https://openload.co/f/Y-eSumROwkE/Please.Stand.By.2017.BRRip.AC3.X264-CMRG.mkv.mp4
-#https://openload.co/f/pxILgMUOINM/Please_Stand_By.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 
 
@@ -1358,7 +1353,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-22
+date=2018-04-24
 URL=
 
 
@@ -1366,9 +1361,17 @@ URL=
 
 
 
+type=video
+name=Love And Other Cults (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocK2R5vFdwFrNNu4dG1EHPnrj9T.jpg
+date=2018-04-24
+URL=https://openload.co/f/wAExsvsydIM/Love.and.Other.Cults.2017.JAPANESE.1080p.BluRay.H264.AAC-VXT.mp4
 
-
-
+type=video
+name=Te Ata (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/b91C9YNC2GUv4VCPI4zBiKVkTZK.jpg
+date=2018-04-24
+URL=https://openload.co/f/vfeSHCz6Pd8/te.ata.2016.limited.1080p.bluray.x264-bipolar.mkv.mp4
 
 type=video
 name=I Had A Bloody Good Time At House Harker (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2553,7 +2556,7 @@ name=The Young Karl Marx (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxxDCQb3CJzXOh8rCT5CbsG1ikj.jpg
 date=2018-02-08
 URL=https://openload.co/f/86IZwnSfhpc/Le_jeune_Karl_Marx_2017_1080p_BluRay_DD5.1_x264-EA.mp4
-
+#https://openload.co/f/S8PpHRR9myA/the.young.karl.marx.2017.limited.720p.bluray.x264_usury.E.mp4
 
 
 type=video
@@ -3911,8 +3914,9 @@ URL=https://openload.co/f/rGMYBCFttzQ/All_Eyez_on_Me_2017_1080p_BluRay.mp4
 type=video
 name=Lady Macbeth (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6JQbHMtNz09Dysp2Ehwq18Iha.jpg
-date=2017-08-19
-URL=https://openload.co/f/LtWg2TwiFcg/Lady.Macbeth.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-04-24
+URL=https://openload.co/f/GKd976EHzUg/Lady.Macbeth.2016.1080p.BR_SeeHD.mp4
+#https://openload.co/f/LtWg2TwiFcg/Lady.Macbeth.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Inconceivable (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4547,6 +4551,19 @@ date=2018-04-21
 URL=https://www.blazefile.co/embed-xkmbou9v6u7m.html
 #https://uptobox.com/xibwrue0yd6k
 
+type=video
+name=Please Stand By (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg
+date=2018-04-24
+URL=https://openload.co/f/cb1a-rB_euw/Please.Stand.By.2017.720p.BRRip.850MB.MkvCage.Com.mkv.mp4
+#https://openload.co/f/Y-eSumROwkE/Please.Stand.By.2017.BRRip.AC3.X264-CMRG.mkv.mp4
+#https://openload.co/f/pxILgMUOINM/Please_Stand_By.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
+type=video
+name=Nostalgia (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbvexHHFLEonIuXul2AVpnwgrZw.jpg
+date=2018-04-24
+URL=https://openload.co/f/00Gew_eIWsM/Nostalgia_2018_BluRay_720pBR_SeeHD.mkv.mp4
 
 
 
@@ -5644,10 +5661,11 @@ URL=https://openload.co/f/FpZMt9Gz8jQ/Bon_Cop_Bad_Cop_2_%282017%29%E0%B8%84%E0%B
 
 
 type=video
-name=Mudbound (2017) ENG NF.WEB-DL.DD5.1.x264-NTG
+name=Mudbound (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cL7UgVMeP9xDSxU2NyAqeAQAbt.jpg
-date=2017-11-17
-URL=https://openload.co/f/-CzwyQleoyc/Mudbound.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
+date=2018-04-24
+URL=https://openload.co/f/txVO1jXll4k/Mudbound.2017.720p.BluRay.x264-YTS.AM.mp4
+#https://openload.co/f/-CzwyQleoyc/Mudbound.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
 type=video
 name=Mudbound (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cL7UgVMeP9xDSxU2NyAqeAQAbt.jpg
@@ -6679,10 +6697,12 @@ URL=https://openload.co/f/ZgkJq5o_nlw/Let_Me_Eat_Your_Pancreas_%282017%29%E0%B8%
 
 
 type=video
-name=Fifty Shades Freed (2018) ENG 1080P.WEB-DL.X264.AC3-NeNi
+name=Fifty Shades Freed (2018) ENG UNRATED.2018.720p_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUDFe6B6bFPOAE13uoqH4eEU1cF.jpg
-date=2018-04-07
-URL=https://openload.co/f/sKuTkuLI1V8/Fifty.Shades.Freed.2018.1080P.WEB-DL.X264.AC3-NeNi.mkv.mp4
+date=2018-04-24
+URL=https://openload.co/f/AH-MhKF_t3c/Fifty_Shades_Freed_.UNRATED.2018.720p_SeeHD.mp4
+#https://openload.co/f/uy6nZ4tKv4M/Fifty_Shades_Freed.2018.UNRATED.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/sKuTkuLI1V8/Fifty.Shades.Freed.2018.1080P.WEB-DL.X264.AC3-NeNi.mkv.mp4
 #https://openload.co/f/spvID5uSiFU/Fifty.Shades.Freed.2018.720P.WEB-DL-X264-Zi%24t_SeeHD.mkv.mp4
 #https://openload.co/f/IMwyvA9Xc6w/Fifty.Shades.Freed.2018_NEW.720p.HD-TS.X264-UNiQUE.mkv.mp4
 #https://openload.co/f/Ossdmi1Plnw/Fifty.Shades.Freed.2018_V2_720p_HDCAM_X264_-_MeFodeAna.%5BSN%5D.mkv.mp4
