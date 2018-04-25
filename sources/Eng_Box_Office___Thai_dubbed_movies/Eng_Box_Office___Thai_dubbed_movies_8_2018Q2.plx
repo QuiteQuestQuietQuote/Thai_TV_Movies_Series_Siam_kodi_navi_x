@@ -63,7 +63,7 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-04-18
+date=2018-04-25
 URL=
 
 
@@ -71,6 +71,13 @@ URL=
 
 
 
+
+
+type=video
+name=Truth or Dare (2018) ENG HD-TS_X264-Mr.Hive_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdkNaQYZ7dhM80LsnAGKpH8ca2g.jpg
+date=2018-04-25
+URL=https://openload.co/f/gsGj_lpB0Ho/Truth_or_Dare_2018_HD-TS_X264-Mr.Hive_SeeHD.mkv.mp4
 
 type=video
 name=Acrimony (2018) ENG CAM.XViD-T3RR0R_SQU4D_SeeHD
@@ -630,11 +637,7 @@ URL=https://openload.co/f/E1xpU_0UcTg/A.Bad.Idea.Gone.Wrong.2017.720p.WEB-DL.Xvi
 
 
 
-type=video
-name=Lazer Team 2 (2017) ENG WEBRip.x264-WEBTiFUL
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/21A6RTi9RgOdHmcwC1DSqgi2cIJ.jpg
-date=2017-11-29
-URL=https://openload.co/f/BS5jT_5IogU/Lazer.Team.2.2017.1080p.WEBRip.x264-WEBTiFUL.mkv.mp4
+
 
 type=video
 name=Ultimate Justice (2017) ENG HDRip.XviD.AC3-EVO
@@ -1353,13 +1356,25 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-24
+date=2018-04-25
 URL=
 
 
 
 
 
+type=video
+name=Tremors: A Cold Day in Hell (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFOdiHaRjeTmHG67e5B7md2Q1cq.jpg
+date=2018-04-25
+URL=https://openload.co/f/deFEKBnsZbo/Tremors.A.Cold.Day.in.Hell.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Lazer Team 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/21A6RTi9RgOdHmcwC1DSqgi2cIJ.jpg
+date=2018-04-25
+URL=https://openload.co/f/c7nHdUFI-_Y/Lazer.Team.2.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/BS5jT_5IogU/Lazer.Team.2.2017.1080p.WEBRip.x264-WEBTiFUL.mkv.mp4
 
 type=video
 name=Love And Other Cults (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
