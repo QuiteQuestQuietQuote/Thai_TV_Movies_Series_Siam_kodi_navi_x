@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
+background=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_8_2018Q2
-logo=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
-icon_playlist=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
+logo=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
+icon_playlist=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, sockshare, fmovies, ganool, nanamovies./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -63,7 +63,7 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-04-25
+date=2018-04-26
 URL=
 
 
@@ -71,7 +71,12 @@ URL=
 
 
 
-
+type=video
+name=Avengers: Infinity War (2018) ENG English_720p_HDCAM_x264_MP3_2.4GB_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
+date=2018-04-26
+URL=https://openload.co/f/g4yaMKGgmt4/Avengers_Infinity_War_%282018%29_English_720p_HDCAM_x264_MP3_2.4GB_SeeHD.mkv.mp4
+#https://openload.co/f/Guv3tEbenlY/aiw.mp4_Avengers%3A_Infinity_War
 
 type=video
 name=Truth or Dare (2018) ENG HD-TS_X264-Mr.Hive_SeeHD
@@ -1356,12 +1361,23 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-25
+date=2018-04-26
 URL=
 
 
 
 
+type=video
+name=Batman Ninja (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5gZEW1npI2DNE5G00LvPDDICnt.jpg
+date=2018-04-26
+URL=https://openload.co/f/D3cD0l2HbGM/Batman.Ninja.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Anna (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCornBF7cbWsLUg1FZxJ4goKK43.jpg
+date=2018-04-26
+URL=https://openload.co/f/33qM-AU8xZE/Anna.2017.UNCUT.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Tremors: A Cold Day in Hell (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1375,6 +1391,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/21A6RTi9RgOdHmcwC1DSqgi2cI
 date=2018-04-25
 URL=https://openload.co/f/c7nHdUFI-_Y/Lazer.Team.2.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/BS5jT_5IogU/Lazer.Team.2.2017.1080p.WEBRip.x264-WEBTiFUL.mkv.mp4
+#https://uptobox.com/bh33uip96mfa   720
 
 type=video
 name=Love And Other Cults (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
@@ -4569,16 +4586,24 @@ URL=https://www.blazefile.co/embed-xkmbou9v6u7m.html
 type=video
 name=Please Stand By (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg
-date=2018-04-24
-URL=https://openload.co/f/cb1a-rB_euw/Please.Stand.By.2017.720p.BRRip.850MB.MkvCage.Com.mkv.mp4
+date=2018-04-26
+URL=https://uptobox.com/69xczfrwrvd5
+#https://openload.co/f/cb1a-rB_euw/Please.Stand.By.2017.720p.BRRip.850MB.MkvCage.Com.mkv.mp4
 #https://openload.co/f/Y-eSumROwkE/Please.Stand.By.2017.BRRip.AC3.X264-CMRG.mkv.mp4
 #https://openload.co/f/pxILgMUOINM/Please_Stand_By.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
 type=video
 name=Nostalgia (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbvexHHFLEonIuXul2AVpnwgrZw.jpg
-date=2018-04-24
-URL=https://openload.co/f/00Gew_eIWsM/Nostalgia_2018_BluRay_720pBR_SeeHD.mkv.mp4
+date=2018-04-26
+URL=https://uptobox.com/vqehz5aijxju
+#https://openload.co/f/00Gew_eIWsM/Nostalgia_2018_BluRay_720pBR_SeeHD.mkv.mp4
+
+type=video
+name=The Swindlers (2017) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzxsCW4chkwXzfJPLXImpEpjtV.jpg
+date=2018-04-26
+URL=https://uptobox.com/1y3alu8fy3kq
 
 
 
@@ -4588,7 +4613,7 @@ URL=https://openload.co/f/00Gew_eIWsM/Nostalgia_2018_BluRay_720pBR_SeeHD.mkv.mp4
 type=video
 name=
 thumb=
-date=2018-04-21
+date=2018-04-26
 URL=http://203.162.235.41:17819
 
 
@@ -6671,7 +6696,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-15
+date=2018-04-26
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
@@ -6712,15 +6737,23 @@ URL=https://openload.co/f/ZgkJq5o_nlw/Let_Me_Eat_Your_Pancreas_%282017%29%E0%B8%
 
 
 type=video
-name=Fifty Shades Freed (2018) ENG UNRATED.2018.720p_SeeHD
+name=Fifty Shades Freed (2018) ENG [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUDFe6B6bFPOAE13uoqH4eEU1cF.jpg
-date=2018-04-24
-URL=https://openload.co/f/AH-MhKF_t3c/Fifty_Shades_Freed_.UNRATED.2018.720p_SeeHD.mp4
+date=2018-04-26
+URL=https://www.blazefile.co/embed-oc4bs1jo7f4t.html
+#
+#https://openload.co/f/AJdeJTygTp0/fifty.shades.freed.2018.unrated.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/KS_r6FZJNz8/Fifty.Shades.Freed.2018.UNRATED.1080p.BluRay.6CH.1.6GB.MoviesWbb.CoM.mkv.mp4
+#https://openload.co/f/jDduZsSjkjs/Fifty.Shades.Freed.2018.UNRATED.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/fok91ris6HE/Fifty.Shades.Freed.2018.UNRATED.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/AH-MhKF_t3c/Fifty_Shades_Freed_.UNRATED.2018.720p_SeeHD.mp4
 #https://openload.co/f/uy6nZ4tKv4M/Fifty_Shades_Freed.2018.UNRATED.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/sKuTkuLI1V8/Fifty.Shades.Freed.2018.1080P.WEB-DL.X264.AC3-NeNi.mkv.mp4
 #https://openload.co/f/spvID5uSiFU/Fifty.Shades.Freed.2018.720P.WEB-DL-X264-Zi%24t_SeeHD.mkv.mp4
 #https://openload.co/f/IMwyvA9Xc6w/Fifty.Shades.Freed.2018_NEW.720p.HD-TS.X264-UNiQUE.mkv.mp4
 #https://openload.co/f/Ossdmi1Plnw/Fifty.Shades.Freed.2018_V2_720p_HDCAM_X264_-_MeFodeAna.%5BSN%5D.mkv.mp4
+#https://www.blazefile.co/embed-6zqtv4m3snlt.html   720
+#https://uptobox.com/5su3rx65pa8u   720
 type=video
 name=Fifty Shades Freed (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUDFe6B6bFPOAE13uoqH4eEU1cF.jpg
@@ -6829,6 +6862,41 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Pan's Labyrinth (2006) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0TDsqbCTgSi0AL7k4baZrOYYhi.jpg
+date=2018-04-26
+URL=https://openload.co/f/FX-41DK5SO8/Pans.Labyrinth.2006.mHD.BluRay.DD5.1.x264_TRiM.mp4
+
+type=video
+name=Avatar (2009) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmcqlZGaSh20zpTbuoF0Cdn07dT.jpg
+date=2018-04-26
+URL=https://openload.co/f/8X9MdzLN65o/Avatar_%282009%29_1080p.mp4
+
+type=video
+name=Draft Day (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pb5FXL6pypVQbcs3TCzp5GqyTYr.jpg
+date=2018-04-26
+URL=https://openload.co/f/6OYxJ9ycBtE/Draft_Day_%282014%29
+
+type=video
+name=American Psycho (2000) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXsylPM4Lr5397R3eHrfqHhTUNc.jpg
+date=2018-04-26
+URL=https://openload.co/f/lE90in1UXPs/American_Psycho_%282000%29
 
 
 

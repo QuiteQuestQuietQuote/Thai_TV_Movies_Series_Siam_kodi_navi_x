@@ -15,8 +15,7 @@
 
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-m0CQiNgIFsE/WdLYrwlVJvI/AAAAAAAAAGQ/LN6pm_WcDJ49YL-0K_ytg9L2yWfZw4r6ACLcBGAs/s200/009.png",Spring News (Full HD)
 http://122.155.184.11/T1457077260/ngrp:livestream_all/chunklist_w1537817334_b3628000.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS1080
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS_violin
 http://symc-cdn05.bkk01.violin.co.th:1935/liveedge/308950239342_600/playlist.m3u8
 
@@ -36,7 +35,8 @@ http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3
 #EXTINF:-1,MONEY CHANNEL
 http://103.77.116.191:443/news/money_channel_480p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 
-
+#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS1080
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24_103
 http://103.77.116.184:8800/news/tnn24_480p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV_103
@@ -1978,13 +1978,18 @@ http://61.58.60.247:9000/live/176.m3u8
 http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/861/index.m3u8
 #EXTINF:-1,Food Network Russia
 http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/310/index.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/568947-BBC-Earth.png",BBC Earth
+http://xemtivi24.000webhostapp.com/iptv-hplus1.php?id=bbc-e
 #EXTINF:-1,BBC Earth HD Polska
 http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/561/index.m3u8
 #EXTINF:-1,BBC Earth_KOR
 http://119.194.30.67:9981/stream/channelid/1550569005?ticket=F39C5EB1368D210C1C3972760F345AE57F270B93&profile=pass
+#EXTINF:-1,BBC Earth_KOR_test
+http://221.141.191.70:9981/stream/channelid/1550569005?ticket=F39C5EB1368D210C1C3972760F345AE57F270B93&profile=pass
 #EXTINF:-1,CNBC Europe
 http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/340/index.m3u8
-
+#EXTINF:-1 group-title="news" tvg-logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_622.gif",SBS CNBC
+http://221.141.191.70:9981/stream/channelid/510605550?ticket=D5F05D7C4B39BE56FB3060B70045DA4F50859200&profile=pass
 
 #EXTINF:-1 group-title="news" tvg-logo="http://iptv-mobion.vn/Files/Image/admin/2017/12/08/temp_4096267081535225.jpg",Channel News Asia
 http://xemtivi24.000webhostapp.com/iptv-mobion.php?id=channelnewsasia
