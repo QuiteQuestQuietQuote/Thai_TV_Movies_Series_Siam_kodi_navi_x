@@ -63,7 +63,7 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-04-26
+date=2018-04-27
 URL=
 
 
@@ -72,10 +72,13 @@ URL=
 
 
 type=video
-name=Avengers: Infinity War (2018) ENG English_720p_HDCAM_x264_MP3_2.4GB_SeeHD
+name=Avengers: Infinity War (2018) ENG HDCAM-X264-AC3-Zi%24t_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
-date=2018-04-26
-URL=https://openload.co/f/g4yaMKGgmt4/Avengers_Infinity_War_%282018%29_English_720p_HDCAM_x264_MP3_2.4GB_SeeHD.mkv.mp4
+date=2018-04-27
+URL=https://openload.co/f/-M-DJyX1LmI/Avengers_Infinity_War_2018_HDCAM-X264-AC3-Zi%24t_SeeHD.mkv.mp4
+#https://openload.co/f/A78kswTr_qI/Avengers_Infinity_War_2018_Early_720p_HDCAM_ENG_x264-Mr.Hive_SeeHD.mkv.mp4
+#https://openload.co/f/1qOdu1_HvBM/Avengers_Infinity_War_%282018%29_English_HDTS.mp4
+#https://openload.co/f/g4yaMKGgmt4/Avengers_Infinity_War_%282018%29_English_720p_HDCAM_x264_MP3_2.4GB_SeeHD.mkv.mp4
 #https://openload.co/f/Guv3tEbenlY/aiw.mp4_Avengers%3A_Infinity_War
 
 type=video
@@ -463,17 +466,11 @@ URL=https://openload.co/f/jC0ByG9fGEs/Painted_Woman_2017_1080p_WEB-DL_DD5_1_H264
 
 
 
-type=video
-name=The Shanghai Job (2017) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BODQ3NzhmYmMtZmRiNy00YTE4LTliY2YtZTg3MWYwOGNkYTc0XkEyXkFqcGdeQXVyMzY2NTc3NjA@._V1_SY1000_SX750_AL_.jpg
-date=2018-01-29
-URL=https://openload.co/f/J6V1vuMVk5c/The.Shanghai.Job.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#http://entervideo.net/watch/663df7b4d19c193
-#https://openload.co/f/0CIUo1iyESA/SMART.Chase.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
+
 
 type=video
 name=The Neighbor (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMmI2YTFkNDktODhjYy00MzhhLWFmYTYtNGU3YjM4YmRiYjE4XkEyXkFqcGdeQXVyNTkyOTY2NTk@._V1_SY1000_SX675_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvv66k53knzs49wnzaOZjOPYj4r.jpg
 date=2018-01-27
 URL=https://openload.co/f/R_qB3U1HcU8/The.Neighbor.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
@@ -1256,7 +1253,14 @@ date=2018-04-17
 URL=https://openload.co/f/_fjOJlAT6Vw/Dear_Dictator_2018.BDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/A-lfM19zupk/Dear.Dictator.2018.720p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
-
+type=video
+name=S.M.A.R.T. Chase (2017) ENG BDRip_Layar
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2upUHuNpAZRIS8T2xgAmopGF3sR.jpg
+date=2018-04-27
+URL=https://openload.co/f/JxJSMoOr-7o/The_Shanghai_Job_2017_BDRip_Layar.mp4
+#https://openload.co/f/J6V1vuMVk5c/The.Shanghai.Job.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#http://entervideo.net/watch/663df7b4d19c193
+#https://openload.co/f/0CIUo1iyESA/SMART.Chase.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
 
 
 
@@ -1372,6 +1376,8 @@ name=Batman Ninja (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5gZEW1npI2DNE5G00LvPDDICnt.jpg
 date=2018-04-26
 URL=https://openload.co/f/D3cD0l2HbGM/Batman.Ninja.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://www.blazefile.co/embed-jbqvcm6qao0z.html   720
+#https://uptobox.com/vmx32usapk1j   720
 
 type=video
 name=Anna (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4605,6 +4611,14 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzxsCW4chkwXzfJPLXImpEpjtV
 date=2018-04-26
 URL=https://uptobox.com/1y3alu8fy3kq
 
+type=video
+name=Scarecrows (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHwGncXERyRfQUvPOReT66zrrXB.jpg
+date=2018-04-27
+URL=https://openload.co/f/ZTC7f9cWPCI/scarecrows.2017.720p.br_SeeHD.mp4
+
+
+
 
 
 
@@ -4613,7 +4627,7 @@ URL=https://uptobox.com/1y3alu8fy3kq
 type=video
 name=
 thumb=
-date=2018-04-26
+date=2018-04-27
 URL=http://203.162.235.41:17819
 
 
@@ -6696,7 +6710,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-26
+date=2018-04-27
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
@@ -6873,6 +6887,56 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 
 
 
+
+
+
+
+type=video
+name=The Avengers (2012) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cezWGskPY5x7GaglTTRN4Fugfb8.jpg
+date=2018-04-27
+URL=https://openload.co/f/SWYFLWOhRt8/The.Avengers.2012.1080p.BluRay.mp4
+
+type=video
+name=Avengers: Age of Ultron (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg
+date=2018-04-27
+URL=https://openload.co/f/wB4nirirshc/Avengers.Age.of.Ultron.2015.1080p.BluRay.mp4
+
+type=video
+name=Apocalypse Now (1979) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcvJ2xcVWU9Wh0hZAxcs103s8nN.jpg
+date=2018-04-27
+URL=https://openload.co/f/NQLDLNg2Zcg/Apocalypse.Now.Redux.1979.720p.BRRip.x264-x0r
+#https://openload.co/f/bo7veqqyKB0/Apocalypse.Now.Redux.1979.iNTERNAL.BDRip.x264-LiBRARiANS.mkv.mp4
+#https://openload.co/f/VHDYmGp1XSg/Apocalypse_Now_%281979%29_BDRip_x264
+#https://openload.co/f/NhEvnKswgVg/Apocalypse_Now_-_Full.rqo8o.mp4
+#https://openload.co/f/2hda7rj4yPg/Apocalypse_Now_%281979%29.mp4
+
+
+type=video
+name=Spider-Man (2002) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZd0y1X1Gw4t5B3f01Qzj8DYY66.jpg
+date=2018-04-27
+URL=https://openload.co/f/tYaNyfsfQYs/Spiderman_2002_1080p_BluRay_x265_HEVC_10bit_AAC_5.mp4
+
+type=video
+name=Spider-Man 2 (2004) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/avoSFHOMxddcitOgorL9rbXdCoF.jpg
+date=2018-04-27
+URL=https://openload.co/f/COFvVPJ8EE8/Spider.Man.2.2004.1080p.BluRay.x264
+
+type=video
+name=Spider-Man 3 (2007) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/btocnvK4l8a4BGS887ed3lsTFog.jpg
+date=2018-04-27
+URL=https://openload.co/f/LJEmNOmAERE/Spider-Man_3_%282007%29.mp4
+
+type=video
+name=Dawn of the Planet of the Apes (2014)
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EUAUIu5lHFlkj5FRryohlH6CRO.jpg
+date=2018-04-27
+URL=https://openload.co/f/skQo37w0D9A/Dawn.of.the.Planet.of.the.Apes.2014.1080p.BluRay.x264.YIFY.629.mp4
 
 type=video
 name=Pan's Labyrinth (2006) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]

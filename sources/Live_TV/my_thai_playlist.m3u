@@ -1963,8 +1963,17 @@ https://cdn-center.livestream-cdn.com/documentary/bbc_earth_720p.stream/playlist
 
 
 
-#EXTINF:-1,Discovery WORLD HD
+
+#EXTINF:-1,Discovery Science
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/01.m3u8
+#EXTINF:-1,FOOD FOOD TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225836/01.m3u8
+#EXTINF:-1,LF FOOD HD
+http://mhms8.airtel.tv/wh7f454c46tw2162781931_1815925993/PLTV/88888888/224/3221226329/03.m3u8
+#EXTINF:-1,Discovery WORLD HD_ind
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+#EXTINF:-1,SONY BBC EARTH HD
+http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/03.m3u8
 
 #EXTINF:-1,Sky UHD
 http://119.194.30.67:9981/stream/channelid/1253361577?ticket=901C862CFA782938321E8ADE16ECD13061F98BFF&profile=pass
@@ -1984,12 +1993,10 @@ http://xemtivi24.000webhostapp.com/iptv-hplus1.php?id=bbc-e
 http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/561/index.m3u8
 #EXTINF:-1,BBC Earth_KOR
 http://119.194.30.67:9981/stream/channelid/1550569005?ticket=F39C5EB1368D210C1C3972760F345AE57F270B93&profile=pass
-#EXTINF:-1,BBC Earth_KOR_test
-http://221.141.191.70:9981/stream/channelid/1550569005?ticket=F39C5EB1368D210C1C3972760F345AE57F270B93&profile=pass
+
 #EXTINF:-1,CNBC Europe
 http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/340/index.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_622.gif",SBS CNBC
-http://221.141.191.70:9981/stream/channelid/510605550?ticket=D5F05D7C4B39BE56FB3060B70045DA4F50859200&profile=pass
+
 
 #EXTINF:-1 group-title="news" tvg-logo="http://iptv-mobion.vn/Files/Image/admin/2017/12/08/temp_4096267081535225.jpg",Channel News Asia
 http://xemtivi24.000webhostapp.com/iptv-mobion.php?id=channelnewsasia
