@@ -58,6 +58,140 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+type=video
+name=52xxxxxxxxxxxxxxxxxxxxAunt (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Aunt-2017-Uncut.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/atmmadbqstrbckrf/
+
+type=video
+name=Temptation Of Insurance Salesperson (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Temptation-Of-Insurance-Salesperson-2017.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/cfomomepeqcqatto/
+
+type=video
+name=Mom Friend Confess Her Sex (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Mom-Friend-Confess-Her-Sex-2017-Uncut.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/eqcntbcfnpebefak/
+
+type=video
+name=Hottest Home Service (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Hottest-Home-Service-2017.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/deoqbcqoqrcnnloo/
+
+type=video
+name=Maxtusajiyasan (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Maxtusajiyasan-2017.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/kkfnpecrfsnqsblf/
+
+
+type=video
+name=Saeeommaneun Jeon Yeochin (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Saeeommaneun-Jeon-Yeochin-2017.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/alpnoffbqbrmmmkc/
+
+type=video
+name=Chunen Otoko Ni Koishita Watashi (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Chunen-Otoko-Ni-Koishita-Watashi-2016.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/qlbbktmqpkqkefee/
+
+type=video
+name=Hitoduma Tosatsu (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Hitoduma-Tosatsu-2016.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/nrkssrbsmfkqmptl/
+
+type=video
+name=Jeolm Eun Hyeongsu Hyeong Ui Yeojaleul Tamhada (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Jeolm-Eun-Hyeongsu-Hyeong-Ui-Yeojaleul-Tamhada-2017-Uncut.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/qtapqpffntnpnknt/
+
+type=video
+name=Anaewa Jejadeul Netolale (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Anaewa-Jejadeul-Netolale-2017.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/fmbfflllemmfposs/
+
+
+type=video
+name=Dirty Ear Cleaner Doll In Akihabara (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Dirty-Ear-Cleaner-Doll-In-Akihabara-2017.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/mkcfdalpnreftbfe/
+
+type=video
+name=Video Letter From The Wife (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Video-Letter-From-The-Wife-2016.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/cbssodondrkbbbrr/
+
+type=video
+name=Balamnan Yeojadeul 2 (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Balamnan-Yeojadeul-2-2017.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/patdaorotlmbbare/
+
+type=video
+name=Outing 2 (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Outing-2-2017-Uncut.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/kettfbklkfoteqds/
+
+type=video
+name=My Neighbors Wife 3 (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/My-Neighbors-Wife-3-2018-Uncut.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/qapftepsbateadls/
+
+
+type=video
+name=Purpose Of The Hostess ‘s Hostess De (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Purpose-Of-The-Hostess-s-Hostess-De-2017.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/loodfrklnfrldnkb/
+
+type=video
+name=Delivery Massage Owned By Sexy Housewife (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Delivery-Massage-Owned-By-Sexy-Housewife-2017.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/ctpetlolmfdsqclm/
+
+type=video
+name=Wants Children (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Wants-Children-2016.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/qlolqnascqqmsrbt/
+
+type=video
+name=Chag Han Sae Eom Ma (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Chag-Han-Sae-Eom-Ma-2017-Uncut.jpg
+date=2017-04-27
+URL=https://streamcherry.com/embed/mfaqcplncondroek/
+
+
+
+
+
+
+
+
+
+
 type=video
 name=33xxxxxxxxxxxxxxxxxxxxTemptation Of Aunt (2018) [Uncut] 
 thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Temptation-Of-Aunt-2018-Uncut.jpg
