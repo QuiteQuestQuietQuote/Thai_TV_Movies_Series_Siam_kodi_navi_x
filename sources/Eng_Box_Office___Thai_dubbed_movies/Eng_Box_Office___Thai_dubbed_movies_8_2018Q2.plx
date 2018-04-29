@@ -71,15 +71,7 @@ URL=
 
 
 
-type=video
-name=Avengers: Infinity War (2018) ENG HDCAM-X264-AC3-Zi%24t_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
-date=2018-04-27
-URL=https://openload.co/f/-M-DJyX1LmI/Avengers_Infinity_War_2018_HDCAM-X264-AC3-Zi%24t_SeeHD.mkv.mp4
-#https://openload.co/f/A78kswTr_qI/Avengers_Infinity_War_2018_Early_720p_HDCAM_ENG_x264-Mr.Hive_SeeHD.mkv.mp4
-#https://openload.co/f/1qOdu1_HvBM/Avengers_Infinity_War_%282018%29_English_HDTS.mp4
-#https://openload.co/f/g4yaMKGgmt4/Avengers_Infinity_War_%282018%29_English_720p_HDCAM_x264_MP3_2.4GB_SeeHD.mkv.mp4
-#https://openload.co/f/Guv3tEbenlY/aiw.mp4_Avengers%3A_Infinity_War
+
 
 type=video
 name=Truth or Dare (2018) ENG HD-TS_X264-Mr.Hive_SeeHD
@@ -1266,10 +1258,11 @@ URL=https://openload.co/f/JxJSMoOr-7o/The_Shanghai_Job_2017_BDRip_Layar.mp4
 
 
 
+
 type=video
 name=
 thumb=
-date=2018-04-17
+date=2018-04-29
 URL=
 
 
@@ -1365,11 +1358,33 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-26
+date=2018-04-29
 URL=
 
 
 
+
+type=video
+name=Submergence (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYhm5wpUdKSWHybNS5953q8r6jk.jpg
+date=2018-04-29
+URL=https://www.blazefile.co/embed-c30l73cf9dkh.html
+#https://uptobox.com/yhhgdlfxs49q
+#https://openload.co/f/QLfh4IFUDLc/Submergence.2018_BDRip_Layar.mp4
+
+type=video
+name=Legend of the Demon Cat (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH6E6VxljPXmnb9tan4fcC9NAeV.jpg
+date=2018-04-29
+URL=https://www.blazefile.co/embed-g354475obp9l.html
+#https://uptobox.com/be70dinlor33
+
+type=video
+name=Scarecrows (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHwGncXERyRfQUvPOReT66zrrXB.jpg
+date=2018-04-29
+URL=https://openload.co/f/Q4oKyy1m8mM/Scarecrows.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/ZTC7f9cWPCI/scarecrows.2017.720p.br_SeeHD.mp4
 
 type=video
 name=Batman Ninja (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2649,6 +2664,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/10vUnYEWuwcyT7uVMwyDlqDd5M
 date=2018-02-05
 URL=https://www.blazefile.co/embed-ahqrfgif8qod.html
 #https://uptobox.com/273erlksv13u
+https://openload.co/f/XUVh6PW9_xU/Mathilde_2017_1080p_WEB-DL_DD5_1_H_264_HDMovie8.mp4
 
 type=video
 name=Knights of the Damned (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4590,10 +4606,11 @@ date=2018-04-26
 URL=https://uptobox.com/1y3alu8fy3kq
 
 type=video
-name=Scarecrows (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHwGncXERyRfQUvPOReT66zrrXB.jpg
-date=2018-04-27
-URL=https://openload.co/f/ZTC7f9cWPCI/scarecrows.2017.720p.br_SeeHD.mp4
+name=Bombshell: The Hedy Lamarr Story (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPwo2CRfZzTQxWemoEh6NYR1ZfX.jpg
+date=2018-04-29
+URL=https://www.blazefile.co/embed-5fh5cyz858lm.html
+#https://uptobox.com/m9zonc63fm8x
 
 
 
@@ -4675,6 +4692,25 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+
+
+type=video
+name=Avengers: Infinity War (2018) ENG NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
+date=2018-04-29
+URL=https://openload.co/f/zWOrpbMVEhk/Avengers_Infinity_War_2018_NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/-M-DJyX1LmI/Avengers_Infinity_War_2018_HDCAM-X264-AC3-Zi%24t_SeeHD.mkv.mp4
+#https://openload.co/f/A78kswTr_qI/Avengers_Infinity_War_2018_Early_720p_HDCAM_ENG_x264-Mr.Hive_SeeHD.mkv.mp4
+#https://openload.co/f/1qOdu1_HvBM/Avengers_Infinity_War_%282018%29_English_HDTS.mp4
+#https://openload.co/f/g4yaMKGgmt4/Avengers_Infinity_War_%282018%29_English_720p_HDCAM_x264_MP3_2.4GB_SeeHD.mkv.mp4
+#https://openload.co/f/Guv3tEbenlY/aiw.mp4_Avengers%3A_Infinity_War
+type=video
+name=Avengers: Infinity War (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
+date=2018-04-29
+URL=https://streamango.com/f/cserlqmnldfqfoal/Avengers_Infinity_War_2018_
 
 
 type=video
@@ -6941,13 +6977,42 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 
 
 
+type=video
+name=Remo Williams: The Adventure Begins (1985) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTSrGyfmr3xbnnlT9d1SVYC4gtt.jpg
+date=2018-04-29
+URL=https://openload.co/f/8NARenFiTPo/Remo_Williams_The_Adventure_Begins.1985.HD_1080p.mp4
 
+type=video
+name=Percy Jackson & the Olympians: The Lightning Thief (2010) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NhyXkodMzDRW8uqtPqlxJsoBhf.jpg
+date=2018-04-29
+URL=https://openload.co/f/YR07LEttY0o/Percy.Jackson.And.The.Olympians.The.Lightning.Thief.2010.1080p.BluRay.H264.AAC-RARBG.mp4
 
+type=video
+name=Percy Jackson: Sea of Monsters (2013) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1bhUW7XM5X0yD3iewAEvloFBEo.jpg
+date=2018-04-29
+URL=https://openload.co/f/nv-Sh_hDVLc/Percy_Jackson_Sea_Of_Monsters.2013.HD_720p.mp4
 
+type=video
+name=Final Fantasy: The Spirits Within (2001) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQUf5XYZfGalPzwPHVDwCpSzUK.jpg
+date=2018-04-29
+URL=https://openload.co/f/GmyUaaUOCLM/Final_Fantasy_The_Spirits_Within_2001_720p_BluRay_x264_AAC_-_Ozlem.mp4
 
+type=video
+name=Final Fantasy VII: Advent Children (2005) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/udXX5MeEHEMDCKpww6NCjlwVAag.jpg
+date=2018-04-29
+URL=https://openload.co/f/nav9xaH2g_g/Final_Fantasy_VII_Advent_Children.2005.HD_720p.mp4
 
-
-
+type=video
+name=Kingsglaive: Final Fantasy XV (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHvxeaYRUABP4wHrg6xNDF7RxvD.jpg
+date=2018-04-29
+URL=https://openload.co/f/q-WIMLwbRKE/Kingsglaive_Final_Fantasy_Xv_2016_1080p
+#https://openload.co/f/SQbbmiOxqko/Kingsglaive_Final_Fantasy_XV.2016.HD_720p.mp4
 
 type=video
 name=The Avengers (2012) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]

@@ -428,7 +428,8 @@ type=video
 name=Batman and Harley Quinn (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ev90LOaW2COmsScsuVz5pPFzQSI.jpg
 date=2017-09-05
-URL=https://openload.co/f/83UsrOVkaGM/batman.and.harley.quinn.2017.1080p.bluray.x264-invandraren.mkv.mp4
+URL=https://openload.co/f/HNEJKaPOy08/Batman.and.Harley.Quinn.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/83UsrOVkaGM/batman.and.harley.quinn.2017.1080p.bluray.x264-invandraren.mkv.mp4
 type=video
 name=Batman and Harley Quinn (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ev90LOaW2COmsScsuVz5pPFzQSI.jpg

@@ -1985,10 +1985,6 @@ http://live.cgtn.com/cctv-d.m3u8
 http://61.58.60.247:9000/live/176.m3u8
 #EXTINF:-1,Food Network Russia HD
 http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/861/index.m3u8
-#EXTINF:-1,Food Network Russia
-http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/310/index.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/568947-BBC-Earth.png",BBC Earth
-http://xemtivi24.000webhostapp.com/iptv-hplus1.php?id=bbc-e
 #EXTINF:-1,BBC Earth HD Polska
 http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/561/index.m3u8
 #EXTINF:-1,BBC Earth_KOR
