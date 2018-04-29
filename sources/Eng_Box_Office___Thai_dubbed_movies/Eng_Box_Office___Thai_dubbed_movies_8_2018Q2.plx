@@ -2185,19 +2185,8 @@ URL=https://openload.co/f/Miq5oMWDUQM/Let.There.Be.Light.2017.1080p.BluRay.x264-
 
 
 
-type=video
-name=The Disaster Artist (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCH6FOFsDW6pfvbbmIIswuvuNtM.jpg
-date=2018-03-05
-URL=https://www.blazefile.co/embed-xiug1oas0f7z.html
-#https://uptobox.com/q2g6l0q8rapq
-#https://openload.co/f/lAIVogIVfa4/the.disaster.artist.2017.1080p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/HTbekZAzgj8/the.disaster.artist.2017.1080p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/VYjhPzUz16o/The.Disaster.Artist.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/O4T4tChlL8Y/The.Disaster.Artist.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
-#https://openload.co/f/g9018UKAwrA/The_Disaster_Artist_2017_HDCAM_X264_HQMic-CPG.mkv.mp4
-#https://www.blazefile.co/embed-8flr00oyi6rb.html   720
-#https://uptobox.com/fg28d5hr0ctt   720
+
+
 
 type=video
 name=Bed of the Dead (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3267,11 +3256,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrYPVqmUrmOolwh77bldbRfQdL
 date=2017-11-24
 URL=https://openload.co/f/I7HZ7o_-7Do/The.Good.Neighbor.2016.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
 
-type=video
-name=Jackals (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Iml1kYUCpDOkfpboU9g1hG9CLh.jpg
-date=2017-11-19
-URL=https://openload.co/f/-Wx91IiX_jg/Jackals.2017.1080p.BluRay.x264-SADPANDA.mkv.mp4
+
+
 
 type=video
 name=Behind the Blue Door (2016) [COLOR=FF00FF00]POL BR 1080p[/COLOR]  720p
@@ -4027,16 +4013,8 @@ player=default
 rating=-1.00
 description=A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company's ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity./description
 
-# 2773791
-type=video
-name=Colossal (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=http://image.tmdb.org/t/p/w500/4VOyofBd1pexblxtDZYtYIk7NI4.jpg
-date=2017-07-19
-URL=https://openload.co/f/c6ouHx5fiC8/Colossal.2016.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://www.blazefile.co/embed-gaw9sc1oxq0j.html   720
-player=default
-rating=-1.00
-description=A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering./description
+
+
 
 # 2772899
 type=video
@@ -4864,6 +4842,26 @@ URL=
 
 
 
+
+
+type=video
+name=The Disaster Artist (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCH6FOFsDW6pfvbbmIIswuvuNtM.jpg
+date=2018-03-05
+URL=https://www.blazefile.co/embed-xiug1oas0f7z.html
+#https://uptobox.com/q2g6l0q8rapq
+#https://openload.co/f/lAIVogIVfa4/the.disaster.artist.2017.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/HTbekZAzgj8/the.disaster.artist.2017.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/VYjhPzUz16o/The.Disaster.Artist.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/O4T4tChlL8Y/The.Disaster.Artist.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/g9018UKAwrA/The_Disaster_Artist_2017_HDCAM_X264_HQMic-CPG.mkv.mp4
+#https://www.blazefile.co/embed-8flr00oyi6rb.html   720
+#https://uptobox.com/fg28d5hr0ctt   720
+type=video
+name=The Disaster Artist (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCH6FOFsDW6pfvbbmIIswuvuNtM.jpg
+date=2018-04-29
+URL=https://streamango.com/f/lllctklanemfadap/The_Disaster_Artist_2017_
 
 
 type=video
@@ -6241,33 +6239,7 @@ date=2018-04-03
 URL=https://streamango.com/f/fenkmsaldecftpds/Slumber_2017_
 
 
-type=video
-name=The Commuter (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
-date=2018-04-09
-URL=https://www.blazefile.co/embed-2qi62ksenzre.html
-#https://uptobox.com/2zaqbfy84d6v
-#https://openload.co/f/RVZv7EDvmH0/The.Commuter.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/WXbOAZol0FI/The.Commuter.2018.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/P81K6HeA9Vc/The.Commuter.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/m1t2tYmt8d8/The.Commuter.2018.720p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/RmvzIda8H-k/The.Commuter.2018.1080p.WEB_SeeHD.mp4
-#https://openload.co/f/1nVbPE9Ci-c/The.Commuter.2018.1080p.WEBRip.DD5.1.x264-FGT.mkv.mp4
-#https://openload.co/f/HLCJnHYhtHQ/The.Commuter.2018.1080p.HDRIP.X264.AC3.5.1-TiTAN.mkv.mp4
-#https://openload.co/f/mEJzHd-yTz4/The_Commuter.2018.V2.720p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4
-#https://openload.co/f/s15NsuBO5J0/The_Commuter_2018_720p_NEW_HD-TS_X264-CPG.mkv.mp4
-#https://openload.co/f/qQHqw_vax30/The_Commuter_2018_HDCAM_REPACK_X264-DADDY.mkv.mp4
-#https://openload.co/f/l_asVj98QaI/The.Commuter.2018.CAM.ENG.DADDY.mkv.mp4
-#https://openload.co/f/yq1GYYdbymo/Commuter.CAM.ENG_SeeHD.mkv.mp4
-#https://www.blazefile.co/embed-sxipw5375hu8.html   720
-#https://uptobox.com/0thy8s01s6kc   720
-type=video
-name=The Commuter (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
-date=2018-04-09
-URL=https://openload.co/f/AGkAyHCpAwk/The_Commuter_%282018%29%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://streamango.com/f/doctmfotreeptkbp/The_Commuter_2018_
-#https://streamango.com/f/pbtbmqdafrscrmad/The_Commuter_2018_
+
 
 
 type=video
@@ -6292,35 +6264,7 @@ URL=https://streamango.com/f/lotsrbtoeltsceod/All_the_Money_in_the_World_2017_
 #https://streamango.com/f/faldccplekdnrrsb/All_the_Money_in_the_World_2017_
 
 
-type=video
-name=Maze Runner: The Death Cure (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
-date=2018-04-16
-URL=https://www.blazefile.co/embed-bnrpzlqc3qwx.html
-#https://uptobox.com/2lqcartwylvo
-#https://openload.co/f/Z8HSfs4tgN0/Maze.Runner.The.Death.Cure.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/QhGckE_9scM/Maze.Runner.The.Death.Cure.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/F4a9cv7vf58/Maze.Runner.The.Death.Cure.2018.720p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/Mu66WFP4CmQ/Maze.Runner.The.Death.Cure.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/af6-Q_Z60kI/Maze.Runner.The.Death.Cure.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/KKw_NHJZnvw/Maze.Runner.The.Death.Cure.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/7PVevWjxyNE/Maze.Runner.The.Death.Cure.2017.720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/sLASnIz8WG4/Maze.Runner.The.Death.Cure.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mp4
-#https://openload.co/f/8pEl-AGXn1M/Maze.Runner.The.Death.Cure.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://streamango.com/f/snmomkretqkpccbe/Maze_Runner_The_Death_Cure_2017_720p_HC_HDRip_X264_AC3-EVO_mkv_mp4
-#https://openload.co/f/-m5KP7AdL18/Maze.Runner.The.Death.Cure.2017.HC.HDRip.XviD.AC3-EVO.mp4
-#https://openload.co/f/hzqRftuj1fA/Maze_Runner_The_Death_Cure_2018_HDTC-720P-X264-MP3.mkv.mp4
-#https://openload.co/f/0wk0pmQT2RE/Maze_Runner_The_Death_Cure_2018_NEW_720p_HDCAM_X264-PAPA.mkv.mp4
-#https://openload.co/f/NcFRR2AcyZg/Maze_Runner_The_Death_Cure.2018.NEWSOURCE.HC.HDCAM.XviD-NoGRP.avi.mp4
-#https://openload.co/f/x3w1YyqQN2I/Maze.Runner.The.Death.Cure.2018.CAM.ENG.x264-NoGRP.MP4.mp4
-#https://www.blazefile.co/embed-jex872z7erar.html   720
-#https://uptobox.com/n5lo6gk2k4th   720
-type=video
-name=Maze Runner: The Death Cure (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
-date=2018-03-29
-URL=https://streamango.com/f/qolrcdcrbcqscnke/Maze_Runner_The_Death_Cure_2018_
-#https://streamango.com/f/faknmfefssdmtdre/Maze_Runner_The_Death_Cure_2018_
+
 
 
 type=video
@@ -6478,20 +6422,7 @@ date=2018-01-10
 URL=https://streamango.com/f/plcmptlmssflemdb/24_Hours_to_Live_2017_24_
 
 
-type=video
-name=Renegades (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
-date=2018-02-08
-URL=https://openload.co/f/XV-iGb1ef04/Renegades.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/DyatEMF7zmU/Renegades.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/JzSw1qm2gy0/Renegades.2017.CAM.READNFO.XViD-26k.avi.mp4
-type=video
-name=Renegades (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
-date=2018-01-09
-URL=https://streamango.com/f/pttkrrcdeelqtlts/Renegades_2017_
-#https://streamango.com/f/nksbqcoqffaeaqco/Renegades_2017_
-#https://streamango.com/f/bkbkoqdtleqkepkn/Renegades_2017_THCAM_mp4
+
 
 
 
@@ -6710,11 +6641,138 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-27
+date=2018-04-29
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
+
+
+
+
+
+
+
+# 2773791
+type=video
+name=Colossal (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/4VOyofBd1pexblxtDZYtYIk7NI4.jpg
+date=2017-07-19
+URL=https://openload.co/f/c6ouHx5fiC8/Colossal.2016.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://www.blazefile.co/embed-gaw9sc1oxq0j.html   720
+player=default
+rating=-1.00
+description=A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering./description
+type=video
+name=Colossal (2017) TH
+thumb=http://image.tmdb.org/t/p/w500/4VOyofBd1pexblxtDZYtYIk7NI4.jpg
+date=2018-04-29
+URL=https://openload.co/f/QEfZe7ouioY/Colossal_%282017%29%E0%B8%84%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B2%E0%B8%99_%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
+
+
+type=video
+name=Jackals (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Iml1kYUCpDOkfpboU9g1hG9CLh.jpg
+date=2017-11-19
+URL=https://openload.co/f/-Wx91IiX_jg/Jackals.2017.1080p.BluRay.x264-SADPANDA.mkv.mp4
+type=video
+name=Jackals (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Iml1kYUCpDOkfpboU9g1hG9CLh.jpg
+date=2018-04-29
+URL=https://openload.co/f/UOh7nDfkzqI/Jackals_%282017%29%E0%B8%84%E0%B8%99%E0%B9%82%E0%B8%89%E0%B8%94_%E0%B8%A5%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87.mp4
+
+
+type=video
+name=Renegades (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
+date=2018-02-08
+URL=https://openload.co/f/XV-iGb1ef04/Renegades.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/DyatEMF7zmU/Renegades.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/JzSw1qm2gy0/Renegades.2017.CAM.READNFO.XViD-26k.avi.mp4
+type=video
+name=Renegades (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
+date=2018-04-29
+URL=https://openload.co/f/pC3Up-94_tg/Renegades_%282017%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3.mp4
+#https://streamango.com/f/pttkrrcdeelqtlts/Renegades_2017_
+#https://streamango.com/f/nksbqcoqffaeaqco/Renegades_2017_
+#https://streamango.com/f/bkbkoqdtleqkepkn/Renegades_2017_THCAM_mp4
+
+
+type=video
+name=Love Off the Cuff (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fwJSlSAfEmj3Jk2wN0wguhP1RF.jpg
+date=2018-04-29
+URL=https://openload.co/f/JR0-63xPWH4/Love_Off_the_Cuff_%282017%29%E0%B8%A3%E0%B8%B1%E0%B8%81_7_%E0%B8%9B%E0%B8%B5_%E0%B8%82%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%94%E0%B8%B5%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%AA%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B8%99.mp4
+
+
+type=video
+name=Maze Runner: The Death Cure (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+date=2018-04-16
+URL=https://www.blazefile.co/embed-bnrpzlqc3qwx.html
+#https://uptobox.com/2lqcartwylvo
+#https://openload.co/f/Z8HSfs4tgN0/Maze.Runner.The.Death.Cure.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/QhGckE_9scM/Maze.Runner.The.Death.Cure.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/F4a9cv7vf58/Maze.Runner.The.Death.Cure.2018.720p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/Mu66WFP4CmQ/Maze.Runner.The.Death.Cure.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/af6-Q_Z60kI/Maze.Runner.The.Death.Cure.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/KKw_NHJZnvw/Maze.Runner.The.Death.Cure.2017.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/7PVevWjxyNE/Maze.Runner.The.Death.Cure.2017.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/sLASnIz8WG4/Maze.Runner.The.Death.Cure.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mp4
+#https://openload.co/f/8pEl-AGXn1M/Maze.Runner.The.Death.Cure.2017.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://streamango.com/f/snmomkretqkpccbe/Maze_Runner_The_Death_Cure_2017_720p_HC_HDRip_X264_AC3-EVO_mkv_mp4
+#https://openload.co/f/-m5KP7AdL18/Maze.Runner.The.Death.Cure.2017.HC.HDRip.XviD.AC3-EVO.mp4
+#https://openload.co/f/hzqRftuj1fA/Maze_Runner_The_Death_Cure_2018_HDTC-720P-X264-MP3.mkv.mp4
+#https://openload.co/f/0wk0pmQT2RE/Maze_Runner_The_Death_Cure_2018_NEW_720p_HDCAM_X264-PAPA.mkv.mp4
+#https://openload.co/f/NcFRR2AcyZg/Maze_Runner_The_Death_Cure.2018.NEWSOURCE.HC.HDCAM.XviD-NoGRP.avi.mp4
+#https://openload.co/f/x3w1YyqQN2I/Maze.Runner.The.Death.Cure.2018.CAM.ENG.x264-NoGRP.MP4.mp4
+#https://www.blazefile.co/embed-jex872z7erar.html   720
+#https://uptobox.com/n5lo6gk2k4th   720
+type=video
+name=Maze Runner: The Death Cure (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coss7RgL0NH6g4fC2s5atvf3dFO.jpg
+date=2018-04-29
+URL=https://openload.co/f/rsIdKoK1kNM/Maze_Runner%3A_The_Death_Cure_%282018%29%E0%B9%80%E0%B8%A1%E0%B8%8B_%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%84%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0.mp4
+#https://streamango.com/f/qolrcdcrbcqscnke/Maze_Runner_The_Death_Cure_2018_
+#https://streamango.com/f/faknmfefssdmtdre/Maze_Runner_The_Death_Cure_2018_
+
+
+type=video
+name=The Commuter (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
+date=2018-04-09
+URL=https://www.blazefile.co/embed-2qi62ksenzre.html
+#https://uptobox.com/2zaqbfy84d6v
+#https://openload.co/f/RVZv7EDvmH0/The.Commuter.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/WXbOAZol0FI/The.Commuter.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/P81K6HeA9Vc/The.Commuter.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/m1t2tYmt8d8/The.Commuter.2018.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/RmvzIda8H-k/The.Commuter.2018.1080p.WEB_SeeHD.mp4
+#https://openload.co/f/1nVbPE9Ci-c/The.Commuter.2018.1080p.WEBRip.DD5.1.x264-FGT.mkv.mp4
+#https://openload.co/f/HLCJnHYhtHQ/The.Commuter.2018.1080p.HDRIP.X264.AC3.5.1-TiTAN.mkv.mp4
+#https://openload.co/f/mEJzHd-yTz4/The_Commuter.2018.V2.720p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/s15NsuBO5J0/The_Commuter_2018_720p_NEW_HD-TS_X264-CPG.mkv.mp4
+#https://openload.co/f/qQHqw_vax30/The_Commuter_2018_HDCAM_REPACK_X264-DADDY.mkv.mp4
+#https://openload.co/f/l_asVj98QaI/The.Commuter.2018.CAM.ENG.DADDY.mkv.mp4
+#https://openload.co/f/yq1GYYdbymo/Commuter.CAM.ENG_SeeHD.mkv.mp4
+#https://www.blazefile.co/embed-sxipw5375hu8.html   720
+#https://uptobox.com/0thy8s01s6kc   720
+type=video
+name=The Commuter (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg
+date=2018-04-29
+URL=https://openload.co/f/Q9LypaCxVHY/The_Commuter_%282018%29%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94.mp4
+#https://openload.co/f/AGkAyHCpAwk/The_Commuter_%282018%29%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/doctmfotreeptkbp/The_Commuter_2018_
+#https://streamango.com/f/pbtbmqdafrscrmad/The_Commuter_2018_
+
+
+type=video
+name=Always Be with You (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbEP0O5huUlD37GY3n1Sc1DZAj4.jpg
+date=2018-04-29
+URL=https://openload.co/f/xiU9M4thBNk/Always_Be_with_You_%282017%29%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%9C%E0%B8%B1%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0.mp4
 
 
 type=video
