@@ -59,6 +59,7 @@ name=Spider-Man: Homecoming (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZrkA4aFcCCzatBJ2kqrLaCHd5t.jpg
 date=2018-03-04
 URL=https://www.blazefile.co/embed-ayo8vz7i2fip.html
+#https://openload.co/f/aej-OnREYrQ/Spider.Man.Homecoming.2017.ENG.1080p.BrRip.DTS.x264.mkv.mp4
 #https://openload.co/f/iqm63BOatDk/spider-man.homecoming.2017.1080p.bluray.x264-sparks.mkv   MKV9.8GB
 #https://openload.co/f/ucfMoAn8gTk/spider-man.homecoming.2017.1080p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/L_w51442pJY/Spider.Man.Homecoming.2017.ENG.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4

@@ -1364,6 +1364,15 @@ URL=
 
 
 
+
+type=video
+name=The Swindlers (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzxsCW4chkwXzfJPLXImpEpjtV.jpg
+date=2018-04-30
+URL=https://www.blazefile.co/embed-82kqntbr1nyk.html
+#https://uptobox.com/zn1ceuymxzf4
+#https://uptobox.com/1y3alu8fy3kq   720
+
 type=video
 name=Submergence (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYhm5wpUdKSWHybNS5953q8r6jk.jpg
@@ -4599,11 +4608,7 @@ date=2018-04-26
 URL=https://uptobox.com/vqehz5aijxju
 #https://openload.co/f/00Gew_eIWsM/Nostalgia_2018_BluRay_720pBR_SeeHD.mkv.mp4
 
-type=video
-name=The Swindlers (2017) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzxsCW4chkwXzfJPLXImpEpjtV.jpg
-date=2018-04-26
-URL=https://uptobox.com/1y3alu8fy3kq
+
 
 type=video
 name=Bombshell: The Hedy Lamarr Story (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5902,6 +5907,7 @@ name=Get Out (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg
 date=2017-09-13
 URL=https://www.blazefile.co/embed-m73p73glpkxc.html
+#https://openload.co/f/o5mSFS2gito/Get.Out.2017.1080p.BluRay.x264_FOXM.mp4
 #https://openload.co/f/ZzTv4nG6fPc/Get_Out_%282017%29_1080p_Blu-ray_H264.AAC-YIN.mkv.mp4
 type=video
 name=Get Out (2017) TH SUB
@@ -6677,7 +6683,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-29
+date=2018-04-30
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
@@ -6966,6 +6972,11 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 
 
 
+type=video
+name=
+thumb=
+date=2018-04-30
+URL=
 
 
 
@@ -6975,7 +6986,35 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 
 
 
+type=video
+name=Beetlejuice (1988) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWnW7vxm8yr01TVLQhL4aI02orp.jpg
+date=2018-04-30
+URL=https://openload.co/f/opwUwKmZHkg/Beetlejuice.1988.HD_720p.160519.mp4
 
+type=video
+name=The Exception (2017) [COLOR=FF00FF00]ENG WEB 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNCS7JdLFzLKaqtce4lzjtGfdp4.jpg
+date=2018-04-30
+URL=https://openload.co/f/RCWYSiDEtTg/The.Exception.2016.1080p.WEB_DL.DD5.1.H264_FGT.mp4
+
+type=video
+name=Soylent Green (1973) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIQVty3lbBzwuLemEDQic1Axfbd.jpg
+date=2018-04-30
+URL=https://openload.co/f/MLhM-Yygyzg/Soylent.Green.1973.1080p.BluRay.H264.AAC-RARBG.622.mp4
+
+type=video
+name=Song of the South (1946) [COLOR=FF00FF00]ENG DVD[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/opZPxPXF52M3ZZcQ0zGip9p5Vri.jpg
+date=2018-04-30
+URL=https://openload.co/f/poDEuKGE1h4/Song_of_the_South_1946-DVDRIp_Xvid-THC.encoded.mp4
+
+type=video
+name=Multiplicity (1996) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFbBQ55MkBxVxQPwALjzMu3y9rD.jpg
+date=2018-04-30
+URL=https://openload.co/f/oNHblrMy4Jk/Multiplicity.1996.HD_1080p.mp4
 
 type=video
 name=Remo Williams: The Adventure Begins (1985) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7027,7 +7066,7 @@ date=2018-04-27
 URL=https://openload.co/f/wB4nirirshc/Avengers.Age.of.Ultron.2015.1080p.BluRay.mp4
 
 type=video
-name=Apocalypse Now (1979) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Apocalypse Now (1979) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcvJ2xcVWU9Wh0hZAxcs103s8nN.jpg
 date=2018-04-27
 URL=https://openload.co/f/NQLDLNg2Zcg/Apocalypse.Now.Redux.1979.720p.BRRip.x264-x0r

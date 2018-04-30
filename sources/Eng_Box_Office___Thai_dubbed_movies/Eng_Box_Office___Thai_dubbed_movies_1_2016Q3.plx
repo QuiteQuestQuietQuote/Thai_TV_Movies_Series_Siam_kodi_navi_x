@@ -72,6 +72,7 @@ type=video
 name=Doctor Strange (ENG)
 thumb=http://image.tmdb.org/t/p/w500/xfWac8MTYDxujaxgPVcRD9yZaul.jpg
 URL=https://www.blazefile.co/embed-1ufvntvdj4b7.html
+#https://openload.co/f/VAHLh7RDbpc/Doctor.Strange.2016.1080p.BluRay.H264.AAC_RARBG.mp4
 type=video
 name=Doctor Strange
 thumb=http://image.tmdb.org/t/p/w500/xfWac8MTYDxujaxgPVcRD9yZaul.jpg
