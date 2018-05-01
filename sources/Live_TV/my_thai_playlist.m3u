@@ -22,7 +22,7 @@ http://symc-cdn05.bkk01.violin.co.th:1935/liveedge/308950239342_600/playlist.m3u
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24_violin
 http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308360140120_600/chunklist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV_violin
-http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308498221057_600/chunklist.m3u8
+http://symc-cdn01.bkk02.violin.co.th:1935/liveedge/308498221057_600/playlist.m3u8
 
 
 
@@ -43,9 +43,9 @@ http://103.77.116.184:8800/news/tnn24_480p.stream/chunklist.m3u8
 http://103.77.116.184:8800/news/nation_tv_480p.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV_nation
-http://live.nationtv.tv/hls/ntv_th_sd.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV_adintrend
-http://p0.adintrend.com:443/live/ch37/i/ch37i.m3u8
+http://live.nationtv.tv/hls/ntv_th_hd.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV_onlinethailand
+http://146.88.56.38:1935/liveedge/308498221057_600/playlist.m3u8
 
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg TV Europe_1
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8

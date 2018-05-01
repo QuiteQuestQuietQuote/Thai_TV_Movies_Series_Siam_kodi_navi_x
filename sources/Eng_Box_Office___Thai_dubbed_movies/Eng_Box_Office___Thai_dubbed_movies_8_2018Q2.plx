@@ -63,7 +63,7 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-04-27
+date=2018-05-01
 URL=
 
 
@@ -71,7 +71,12 @@ URL=
 
 
 
-
+type=video
+name=Samson (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7Zaj1IEzMMB7KzfglpxdXWB66u.jpg
+date=2018-05-01
+URL=https://openload.co/f/vigBmObtS6U/Samson.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/v5u4L1EyIV4/Samson.2018.720pHD_SeeHD.mp4
 
 type=video
 name=Truth or Dare (2018) ENG HD-TS_X264-Mr.Hive_SeeHD
@@ -223,10 +228,12 @@ URL=https://openload.co/f/eWQIr3XNM5w/The_Lodgers_2017_1080p_WEB-DL_DD5.1_H264-C
 
 
 type=video
-name=The 15:17 to Paris (2018) ENG HDCAM.XViD.AC3-ETRG
+name=The 15:17 to Paris (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg
-date=2018-03-29
-URL=https://openload.co/f/bV_8RkHANJQ/The_15-17_to_Paris_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+date=2018-05-01
+URL=https://openload.co/f/-N5Eqzwfb2I/The.15.17.to.Paris.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/MSpcpOW2xyQ/The.15.17.to.Paris.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/bV_8RkHANJQ/The_15-17_to_Paris_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/sXgYKJLlM2I/15.17_2018_CAM_Layar.mp4
 #https://openload.co/f/wK9RCbjRZMU/The_15%3A17_to_Paris_%282018%29_HDCAM_720p_Layar.mp4
 
@@ -1254,7 +1261,11 @@ URL=https://openload.co/f/JxJSMoOr-7o/The_Shanghai_Job_2017_BDRip_Layar.mp4
 #http://entervideo.net/watch/663df7b4d19c193
 #https://openload.co/f/0CIUo1iyESA/SMART.Chase.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
 
-
+type=video
+name=Hostile (2017) ENG DUBBED.BDRip.x264-PussyFoot
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCg9BqcQuj47iwP2PjlYAbGEiS2.jpg
+date=2018-05-01
+URL=https://openload.co/f/2a9BU1Ig4Yw/Hostile.2017.DUBBED.BDRip.x264-PussyFoot.mkv.mp4
 
 
 
@@ -1387,6 +1398,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH6E6VxljPXmnb9tan4fcC9NAe
 date=2018-04-29
 URL=https://www.blazefile.co/embed-g354475obp9l.html
 #https://uptobox.com/be70dinlor33
+#https://openload.co/f/7VW7eiG-2lc/Legend.of.the.Demon.Cat.2017.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
 
 type=video
 name=Scarecrows (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2118,17 +2130,7 @@ URL=https://openload.co/f/bMjOH_qtAPc/lego.dc.comics.super.heroes.the.flash.2018
 #https://www.blazefile.co/embed-6znwzokfognf.html   720
 #https://uptobox.com/b97yfiuc2d8w   720
 
-type=video
-name=Pitch Perfect 3 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg
-date=2018-03-08
-URL=https://www.blazefile.co/embed-obp2z2dqhicb.html
-#https://uptobox.com/hartxjc1c3ls
-#https://openload.co/f/1PiVGmz-b6w/Pitch.Perfect.3.2017.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/mj8457obiCg/Pitch.Perfect.3.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/gh2OyXp0iSQ/Pitch.Perfect.3.2017.1080pWEB-DL_SeeHD.mkv.mp4
-#https://openload.co/f/qxnjwUmlZW8/Pitch.Perfect.3.2017.HD720PHD_SeeHD.mp4
-#https://openload.co/f/ulAN5swR5RA/Pitch.Perfect.3.2017.HDCAM.MP4.mp4
+
 
 type=video
 name=Scorched Earth (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4617,8 +4619,18 @@ date=2018-04-29
 URL=https://www.blazefile.co/embed-5fh5cyz858lm.html
 #https://uptobox.com/m9zonc63fm8x
 
+type=video
+name=Memoir of a Murderer (2017) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTdvO9AwJrxq02iYf4Lu5qA0fNc.jpg
+date=2018-05-01
+URL=https://openload.co/f/qJ5rNjZREUY/Memoir.of.a.Murderer.2017.DC.KOREAN.720p.BR_SeeHD.mp4
 
-
+type=video
+name=Birds Without Names (2017) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/PrW2tGm1w0C5v68QNwjbR5p31p.jpg
+date=2018-05-01
+URL=https://www.blazefile.co/embed-8j2134kqmiam.html
+#https://uptobox.com/c0kaknu8seiv
 
 
 
@@ -4627,7 +4639,7 @@ URL=https://www.blazefile.co/embed-5fh5cyz858lm.html
 type=video
 name=
 thumb=
-date=2018-04-27
+date=2018-05-01
 URL=http://203.162.235.41:17819
 
 
@@ -4883,6 +4895,22 @@ URL=
 
 
 
+type=video
+name=Pitch Perfect 3 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg
+date=2018-03-08
+URL=https://www.blazefile.co/embed-obp2z2dqhicb.html
+#https://uptobox.com/hartxjc1c3ls
+#https://openload.co/f/1PiVGmz-b6w/Pitch.Perfect.3.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/mj8457obiCg/Pitch.Perfect.3.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/gh2OyXp0iSQ/Pitch.Perfect.3.2017.1080pWEB-DL_SeeHD.mkv.mp4
+#https://openload.co/f/qxnjwUmlZW8/Pitch.Perfect.3.2017.HD720PHD_SeeHD.mp4
+#https://openload.co/f/ulAN5swR5RA/Pitch.Perfect.3.2017.HDCAM.MP4.mp4
+type=video
+name=Pitch Perfect 3 (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg
+date=2018-05-01
+URL=https://streamango.com/f/sesdktemcdeaapak/Pitch_Perfect_3_2017_3_
 
 
 type=video
@@ -5208,6 +5236,13 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9r21jawIp226dlQ8dLzwSBrRDN
 date=2018-02-22
 URL=https://streamango.com/f/plpbbcfqtqftsqas/The_Siege_of_Jadotville_2016_
 
+
+type=video
+name=Fullmetal Alchemist (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmvCmIrpdw8qmRs1KDY8VjY7HpA.jpg
+date=2018-05-01
+URL=https://www.blazefile.co/embed-jn0ark3dmea4.html
+#https://uptobox.com/weoubj4mph9i
 type=video
 name=Fullmetal Alchemist (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmvCmIrpdw8qmRs1KDY8VjY7HpA.jpg
@@ -6414,10 +6449,11 @@ URL=https://streamango.com/f/blonnaontoptfqls/Fairy_Tail_Movie_2_Dragon_Cry_2017
 
 
 type=video
-name=Bleeding Steel (2017) CHN 720pHD_SeeHD
+name=Bleeding Steel (2017) CHN DUBBED.BDRip.x264-PussyFoot
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1O26qVwkhSlicycBBK731k8vPd.jpg
-date=2018-04-22
-URL=https://openload.co/f/29pJb9WpP1g/Bleeding.Steel.2017.720pHD_SeeHD.mp4
+date=2018-05-01
+URL=https://openload.co/f/4ZAW7exvbwc/Bleeding.Steel.2017.DUBBED.BDRip.x264-PussyFoot.mkv.mp4
+#https://openload.co/f/29pJb9WpP1g/Bleeding.Steel.2017.720pHD_SeeHD.mp4
 #https://openload.co/f/WIadstM69XA/Bleeding%2520Steel.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/x4auntQZjCw/Bleeding.Steel.2017.1080p.HC.WEBRip.x264.AAC2.0-SHITBOX.mp4
 #https://openload.co/f/v-lZiSdTUWg/Bleeding.Steel.2017.720.V2.HC.HDRip.AC3-EVO.mkv.mp4
@@ -6683,7 +6719,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-30
+date=2018-05-01
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
@@ -6693,6 +6729,18 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+
+type=video
+name=Wine Wars (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HTUxm1bHwPMtTY0cicTuZhiWem.jpg
+date=2018-05-01
+URL=https://openload.co/f/zLw4yjanQRQ/Wine_Wars_%282017%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A5%E0%B8%A5%E0%B8%A7%E0%B8%87.mp4
+
+type=video
+name=Vampire Cleanup Department (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Xd20jGNbbBbKArmPRb3oLdr2XO.jpg
+date=2018-05-01
+URL=https://openload.co/f/9EW7ZAcx508/Vampire_Cleanup_Department_%282017%29%E0%B8%9C%E0%B8%B5%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%95%E0%B8%AD%E0%B8%9A_%E0%B8%95%E0%B8%AD%E0%B8%99_%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B5%E0%B8%9A.mp4
 
 
 # 2773791
@@ -7095,7 +7143,7 @@ date=2018-04-27
 URL=https://openload.co/f/LJEmNOmAERE/Spider-Man_3_%282007%29.mp4
 
 type=video
-name=Dawn of the Planet of the Apes (2014)
+name=Dawn of the Planet of the Apes (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EUAUIu5lHFlkj5FRryohlH6CRO.jpg
 date=2018-04-27
 URL=https://openload.co/f/skQo37w0D9A/Dawn.of.the.Planet.of.the.Apes.2014.1080p.BluRay.x264.YIFY.629.mp4
