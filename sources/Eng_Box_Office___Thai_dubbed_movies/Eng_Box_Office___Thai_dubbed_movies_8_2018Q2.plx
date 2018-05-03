@@ -71,12 +71,7 @@ URL=
 
 
 
-type=video
-name=Samson (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7Zaj1IEzMMB7KzfglpxdXWB66u.jpg
-date=2018-05-01
-URL=https://openload.co/f/vigBmObtS6U/Samson.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/v5u4L1EyIV4/Samson.2018.720pHD_SeeHD.mp4
+
 
 type=video
 name=Truth or Dare (2018) ENG HD-TS_X264-Mr.Hive_SeeHD
@@ -232,6 +227,7 @@ name=The 15:17 to Paris (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg
 date=2018-05-01
 URL=https://openload.co/f/-N5Eqzwfb2I/The.15.17.to.Paris.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/duAEiMhsu4Y/The.15.17.to.Paris.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/MSpcpOW2xyQ/The.15.17.to.Paris.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/bV_8RkHANJQ/The_15-17_to_Paris_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/sXgYKJLlM2I/15.17_2018_CAM_Layar.mp4
@@ -1261,11 +1257,7 @@ URL=https://openload.co/f/JxJSMoOr-7o/The_Shanghai_Job_2017_BDRip_Layar.mp4
 #http://entervideo.net/watch/663df7b4d19c193
 #https://openload.co/f/0CIUo1iyESA/SMART.Chase.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
 
-type=video
-name=Hostile (2017) ENG DUBBED.BDRip.x264-PussyFoot
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCg9BqcQuj47iwP2PjlYAbGEiS2.jpg
-date=2018-05-01
-URL=https://openload.co/f/2a9BU1Ig4Yw/Hostile.2017.DUBBED.BDRip.x264-PussyFoot.mkv.mp4
+
 
 
 
@@ -1369,12 +1361,45 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-29
+date=2018-05-03
 URL=
 
 
 
 
+
+
+type=video
+name=Samson (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7Zaj1IEzMMB7KzfglpxdXWB66u.jpg
+date=2018-05-03
+URL=https://www.blazefile.co/embed-5xhu8td43kwv.html
+#https://uptobox.com/yvn0phwekbqw
+#https://openload.co/f/vigBmObtS6U/Samson.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/v5u4L1EyIV4/Samson.2018.720pHD_SeeHD.mp4
+
+type=video
+name=In the Fade (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaLbKxjHaOkY7lT6jmsS1lsRocy.jpg
+date=2018-05-03
+URL=https://www.blazefile.co/embed-oy5eyx9lw6yj.html
+#https://uptobox.com/h0yy69pvgajm
+#https://openload.co/f/fWx28y4q95M/In.the.Fade.2017.720p.BluRay.x264-SADPANDA.mkv.mp4
+
+type=video
+name=Hostile (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCg9BqcQuj47iwP2PjlYAbGEiS2.jpg
+date=2018-05-03
+URL=https://openload.co/f/clSKv6I-l-w/Hostile.2017.DUBBED.1080p.BR_SeeHD.mp4
+#https://openload.co/f/8eOP99KWmrs/hostile.2017.dubbed.1080p.bluray.x264-pussyfoot.mkv.mp4
+#https://openload.co/f/2a9BU1Ig4Yw/Hostile.2017.DUBBED.BDRip.x264-PussyFoot.mkv.mp4
+
+type=video
+name=The Leisure Seeker (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqkC47nwJrF0irilInyk6ObQ1UU.jpg
+date=2018-05-03
+URL=https://openload.co/f/TBzVdIkyvtI/The.Leisure.Seeker.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/2IvIsBPNwPc/the.leisure.seeker.2017.1080p.bluray.x264-theleisureseeker.mkv.mp4
 
 type=video
 name=The Swindlers (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
@@ -4632,6 +4657,26 @@ date=2018-05-01
 URL=https://www.blazefile.co/embed-8j2134kqmiam.html
 #https://uptobox.com/c0kaknu8seiv
 
+type=video
+name=Once Upon a Time (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3O8ZQrXS3WEZwVbzjtY7jXqMfw.jpg
+date=2018-05-03
+URL=https://openload.co/f/tt7UPya8er4/San.Sheng.San.Shi.Shi.Li.Tao.Hua.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
+
+type=video
+name=The Insult (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLQ9Lu9EFaoiamoosJCpUah1Zrv.jpg
+date=2018-05-03
+URL=https://www.blazefile.co/embed-gmbqn4293cmx.html
+#https://uptobox.com/nda68hg2nkvd
+#https://openload.co/f/9VOZs2aZ9As/the.insult.2017.720p.bluray.x264-cinefile.mkv.mp4
+
+
+
+
+
+
+
 
 
 
@@ -4639,7 +4684,7 @@ URL=https://www.blazefile.co/embed-8j2134kqmiam.html
 type=video
 name=
 thumb=
-date=2018-05-01
+date=2018-05-03
 URL=http://203.162.235.41:17819
 
 
@@ -4717,7 +4762,8 @@ type=video
 name=Avengers: Infinity War (2018) ENG NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
 date=2018-04-29
-URL=https://openload.co/f/zWOrpbMVEhk/Avengers_Infinity_War_2018_NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD.mkv.mp4
+URL=https://openload.co/f/Y_poP1g2OjY/Avengers_Infinity_War_2018_NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/zWOrpbMVEhk/Avengers_Infinity_War_2018_NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/-M-DJyX1LmI/Avengers_Infinity_War_2018_HDCAM-X264-AC3-Zi%24t_SeeHD.mkv.mp4
 #https://openload.co/f/A78kswTr_qI/Avengers_Infinity_War_2018_Early_720p_HDCAM_ENG_x264-Mr.Hive_SeeHD.mkv.mp4
 #https://openload.co/f/1qOdu1_HvBM/Avengers_Infinity_War_%282018%29_English_HDTS.mp4
@@ -4823,10 +4869,17 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 
 
 type=video
-name=Black Panther (2018) ENG HDTC.X264-FrangoAssado
+name=Black Panther (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
-date=2018-04-17
-URL=https://openload.co/f/3CZe-kEmblA/Black.Panther.2018.HDTC.X264-FrangoAssado.mkv.mp4
+date=2018-05-03
+URL=https://www.blazefile.co/embed-uu50ocb3n9fm.html
+#https://uptobox.com/2o99oidl84c9
+#https://openload.co/f/PWOgxTHj-Zo/Black.Panther.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/QzdnxUpbqkY/Black.Panther.2018.1080p.BluRay.x265.HEVC.6CH-MRN.mkv.mp4
+#https://openload.co/f/OaXtjnVl7iE/Please.Stand.By.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/Wv0YJ8d2yZE/black.panther.2018.720p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/5vvOVncxHpU/Black.Panther.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/3CZe-kEmblA/Black.Panther.2018.HDTC.X264-FrangoAssado.mkv.mp4
 #https://openload.co/f/SPBOZokHuV0/Black_Panther_2018_720P_New_V.2_HDTS-X264-MP3-Zi%24t.mkv.mp4
 #https://openload.co/f/u9hqBeAjccM/Black.Panther.2018.NEW.720p.HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/-OZwCiXre9I/Black_Panther_2018_NEW_PROPER_HD-TS_X264-CPG.mkv.mp4
@@ -6449,10 +6502,11 @@ URL=https://streamango.com/f/blonnaontoptfqls/Fairy_Tail_Movie_2_Dragon_Cry_2017
 
 
 type=video
-name=Bleeding Steel (2017) CHN DUBBED.BDRip.x264-PussyFoot
+name=Bleeding Steel (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1O26qVwkhSlicycBBK731k8vPd.jpg
-date=2018-05-01
-URL=https://openload.co/f/4ZAW7exvbwc/Bleeding.Steel.2017.DUBBED.BDRip.x264-PussyFoot.mkv.mp4
+date=2018-05-03
+URL=https://openload.co/f/ptiphinN5jw/bleeding.steel.2017.dubbed.1080p.bluray.x264-pussyfoot.mkv.mp4
+#https://openload.co/f/4ZAW7exvbwc/Bleeding.Steel.2017.DUBBED.BDRip.x264-PussyFoot.mkv.mp4
 #https://openload.co/f/29pJb9WpP1g/Bleeding.Steel.2017.720pHD_SeeHD.mp4
 #https://openload.co/f/WIadstM69XA/Bleeding%2520Steel.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/x4auntQZjCw/Bleeding.Steel.2017.1080p.HC.WEBRip.x264.AAC2.0-SHITBOX.mp4
@@ -7023,16 +7077,36 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-04-30
+date=2018-05-03
 URL=
 
 
 
 
 
+type=video
+name=Lonesome Dove (1989) 1
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXpA0VVB7IDuesAZB0ff0WmuxAc.jpg
+date=2018-05-03
+URL=https://openload.co/f/ZRM_0cvnXFE/Lonesome_Dove_1_Western_1989_Robert_Duvall_Tommy_Lee_Jones_amp_Danny_Glover_BR.mp4
 
+type=video
+name=Lonesome Dove (1989) 2
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXpA0VVB7IDuesAZB0ff0WmuxAc.jpg
+date=2018-05-03
+URL=https://openload.co/f/tDU2fY1B8Dw/Lonesome_Dove_2_Western_1989_Robert_Duvall_Tommy_Lee_Jones_amp_Danny_Glover_BR.mp4
 
+type=video
+name=Lonesome Dove (1989) 3
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXpA0VVB7IDuesAZB0ff0WmuxAc.jpg
+date=2018-05-03
+URL=https://openload.co/f/YLbTlI4TlRQ/Lonesome_Dove_3_Western_1989_Robert_Duvall_Tommy_Lee_Jones_amp_Danny_Glover_BR.mp4
 
+type=video
+name=Lonesome Dove (1989) 4 
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXpA0VVB7IDuesAZB0ff0WmuxAc.jpg
+date=2018-05-03
+URL=https://openload.co/f/CcmqIPn0rwo/Lonesome_Dove_4_Western_1989_Robert_Duvall_Tommy_Lee_Jones_amp_Danny_Glover_BR.mp4
 
 type=video
 name=Beetlejuice (1988) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
@@ -7105,13 +7179,15 @@ type=video
 name=The Avengers (2012) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cezWGskPY5x7GaglTTRN4Fugfb8.jpg
 date=2018-04-27
-URL=https://openload.co/f/SWYFLWOhRt8/The.Avengers.2012.1080p.BluRay.mp4
+URL=https://openload.co/f/62zenT856fw/The.Avengers.2012.1080p.BR_SeeHD.mp4
+#https://openload.co/f/SWYFLWOhRt8/The.Avengers.2012.1080p.BluRay.mp4
 
 type=video
 name=Avengers: Age of Ultron (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg
 date=2018-04-27
-URL=https://openload.co/f/wB4nirirshc/Avengers.Age.of.Ultron.2015.1080p.BluRay.mp4
+URL=https://openload.co/f/Jos6CtdJoq4/Avengers.Age.of.Ultron.2015.1080p.BR_SeeHD.mp4
+#https://openload.co/f/wB4nirirshc/Avengers.Age.of.Ultron.2015.1080p.BluRay.mp4
 
 type=video
 name=Apocalypse Now (1979) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
