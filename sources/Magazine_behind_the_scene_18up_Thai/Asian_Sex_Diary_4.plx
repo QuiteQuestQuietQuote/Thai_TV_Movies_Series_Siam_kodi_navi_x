@@ -59,6 +59,29 @@ URL=
 
 
 
+type=video
+name=147xxxxxxxxxxxxxxxxxxxxTuktuk Patrol Hanna Lee 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Tuktuk-Patrol-Hanna-Lee.jpg
+date=2018-05-05
+URL=https://streamcherry.com/embed/ddloqlasbsnkcrlc/
+
+type=video
+name=Tuktuk Patrol Kume
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Tuktuk-Patrol-Kume.jpg
+date=2018-05-05
+URL=https://streamcherry.com/embed/nmabksbsalnnsaqc/
+
+type=video
+name=Tuktuk Patrol Mon 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Tuktuk-Patrol-Mon.jpg
+date=2018-05-05
+URL=https://streamcherry.com/embed/nsplqkdnfaarnctb/
+
+type=video
+name=Tuktuk Patrol Pai
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Tuktuk-Patrol-Pai.jpg
+date=2018-05-05
+URL=https://streamcherry.com/embed/qnpkkqaodsacepns/
 
 
 

@@ -63,15 +63,24 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-05-01
+date=2018-05-05
 URL=
 
 
 
 
+type=video
+name=I Can Only Imagine (2018) ENG HDCAM_ENG_X264_HQMic-SugarTits_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/veZszwMZu8d3WMU6TJX9sV5w1Y4.jpg
+date=2018-05-05
+URL=https://openload.co/f/0pXMwyBF2m4/I_Can_Only_Imagine_2018_HDCAM_ENG_X264_HQMic-SugarTits_SeeHD.mkv.mp4
 
-
-
+type=video
+name=Anon (2018) ENG 720p.web.x264-strife_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIST7FwpELT1SXR3cVSy5JoOSby.jpg
+date=2018-05-05
+URL=https://openload.co/f/_7TdU2KCmvw/anon.2018.720p.web.x264-strife_SeeHD.mkv.mp4
+#https://openload.co/f/ldcELkiTR-8/Anon.2018.720p.HDRip.X264.AC3-EVO.mkv.mp4
 
 type=video
 name=Truth or Dare (2018) ENG HD-TS_X264-Mr.Hive_SeeHD
@@ -118,12 +127,7 @@ URL=https://openload.co/f/4uXC5Xkr1BM/forever.my.girl.2018.1080p.bluray.x264-dro
 #https://openload.co/f/qdg9hSm8H6k/forever.my.girl.2018.720p.bluray.x264-drones.mkv   KMV5.5GB
 #https://openload.co/f/m5bXbfSbqRw/Forever_My_Girl_2018_1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 
-type=video
-name=The Titan (2018) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rywjzbQbUgnv1izhWJYyZIm4M6m.jpg
-date=2018-03-30
-URL=https://openload.co/f/Qm8KBm49L5k/The.Titan.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
-#https://openload.co/f/nWsHrzcSuyQ/The.Titan.2018.720.HDRip.AC3-EVO.mkv.mp4
+
 
 type=video
 name=Sherlock Gnomes (2018) ENG HDCAM.XviD-VAiN
@@ -199,10 +203,12 @@ URL=https://openload.co/f/d0dE2nFF9QA/Red_Sparrow.2018.1080p.HC.HDRip.1.8.GB-iEx
 
 
 type=video
-name=Game Night (2018) ENG HDCAM_ENG_X264-SeeHD
+name=Game Night (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wS89vns6cseCn4UHSqj97xKEKW.jpg
-date=2018-02-28
-URL=https://openload.co/f/rIi1LPjfr8w/Game_Night_2018_HDCAM_ENG_X264-SeeHD.mkv.mp4
+date=2018-05-05
+URL=https://openload.co/f/IfaS_y8QGd4/Game.Night.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/xLjBXQxsf4w/Game_Night_2018_720p_WEB-DL_X264_6CH_HQ-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/rIi1LPjfr8w/Game_Night_2018_HDCAM_ENG_X264-SeeHD.mkv.mp4
 #https://openload.co/f/wBgkr8Vnb4s/Game.Night.2018.HDCAM.X264-PilaRosa.mkv.mp4
 
 
@@ -294,10 +300,11 @@ URL=https://openload.co/f/Jbn08wdDUIg/Freak.Show.2017.1080p.WEB-DL.DD5.1.H264-FG
 
 
 type=video
-name=Cocaine Godmother: The Griselda Blanco Story (2018) ENG 720p.HDTV.x264-CRiMSON
+name=Cocaine Godmother: The Griselda Blanco Story (2018) ENG DVDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lk3npUUYxLJCyaSSQHqGlH64Qxk.jpg
-date=2018-01-23
-URL=https://openload.co/f/rjVaME-qvRQ/Cocaine.Godmother.The.Griselda.Blanco.Story.2018.720p.HDTV.x264-CRiMSON.mkv.mp4
+date=2018-05-05
+URL=https://openload.co/f/6ueo04Petnc/Cocaine.Godmother.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/rjVaME-qvRQ/Cocaine.Godmother.The.Griselda.Blanco.Story.2018.720p.HDTV.x264-CRiMSON.mkv.mp4
 
 
 
@@ -897,13 +904,7 @@ URL=https://openload.co/f/O8gPiFYAZhU/Talon.Falls.2017.HDRip.XviD.AC3-EVO.avi.mp
 
 
 
-type=video
-name=Freehold (2017) ENG DVDRip.x264-RedBlade
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bITbGBGn7pUKJAF6U0dzNT33ZxU.jpg
-date=2018-01-18
-URL=https://openload.co/f/yIOUrQXSCCM/Freehold.2017.DVDRip.x264-RedBlade.mkv.mp4
-#https://openload.co/f/t1E8pQAnJaw/Freehold_2017_HDRip_XviD_AC3-EVO.avi.mp4
-#https://openload.co/f/I7UjFFBDk_g/Freehold.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Gremlin (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
@@ -1068,11 +1069,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkXoinYjvPz0G2MYW3igfJQoAx
 date=2017-09-29
 URL=https://openload.co/f/OfKFovY5wXs/Infinity.Chamber.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
 
-type=video
-name=Zombies (2017) ENG WEB-DL.x264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SXVRLtUcJqPrHC4x6vL3Arwwzk.jpg
-date=2017-09-29
-URL=https://openload.co/f/iEnVUcMakoE/Zombies.2017.WEB-DL.x264-FGT.mp4
+
 
 
 
@@ -1257,7 +1254,14 @@ URL=https://openload.co/f/JxJSMoOr-7o/The_Shanghai_Job_2017_BDRip_Layar.mp4
 #http://entervideo.net/watch/663df7b4d19c193
 #https://openload.co/f/0CIUo1iyESA/SMART.Chase.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
 
-
+type=video
+name=Freehold (2017) ENG BRRip_Dunia
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bITbGBGn7pUKJAF6U0dzNT33ZxU.jpg
+date=2018-05-05
+URL=https://openload.co/f/uSuv2cXkhXs/freehold_2017_BRRip_Dunia.mp4
+#https://openload.co/f/yIOUrQXSCCM/Freehold.2017.DVDRip.x264-RedBlade.mkv.mp4
+#https://openload.co/f/t1E8pQAnJaw/Freehold_2017_HDRip_XviD_AC3-EVO.avi.mp4
+#https://openload.co/f/I7UjFFBDk_g/Freehold.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 
 
@@ -1361,13 +1365,58 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-03
+date=2018-05-05
 URL=
 
 
 
 
+type=video
+name=Please Stand By (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg
+date=2018-05-05
+URL=https://www.blazefile.co/embed-q3nei6dzxgdc.html
+#https://uptobox.com/b73i4scid5qs
+#https://uptobox.com/69xczfrwrvd5   720
+#https://openload.co/f/cb1a-rB_euw/Please.Stand.By.2017.720p.BRRip.850MB.MkvCage.Com.mkv.mp4
+#https://openload.co/f/Y-eSumROwkE/Please.Stand.By.2017.BRRip.AC3.X264-CMRG.mkv.mp4
+#https://openload.co/f/pxILgMUOINM/Please_Stand_By.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
+type=video
+name=Zombies (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SXVRLtUcJqPrHC4x6vL3Arwwzk.jpg
+date=20178-05-05
+URL=https://openload.co/f/TnmwEtJs6aw/zombies.2017.1080p.bluray.x264-getit.mkv.mp4
+#https://openload.co/f/iEnVUcMakoE/Zombies.2017.WEB-DL.x264-FGT.mp4
+
+type=video
+name=The Inhabitants (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxr9KEodIgMeeyNCEH18E5cxNiF.jpg
+date=2018-05-05
+URL=https://openload.co/f/Ec5Qz_t_xm4/the.inhabitants.2015.1080p.bluray.x264-getit.mkv.mp4
+
+type=video
+name=The Northlander (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZNMuNe5EQiV7VUNbDmE9ovBln.jpg
+date=2018-05-05
+URL=https://openload.co/f/ZtiIjXBGE4A/The.Northlander.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Titan (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rywjzbQbUgnv1izhWJYyZIm4M6m.jpg
+date=2018-05-05
+URL=https://www.blazefile.co/embed-t169pd32bwp9.html
+#https://openload.co/f/NbXgRH2KadY/The.Titan.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/Qm8KBm49L5k/The.Titan.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
+#https://openload.co/f/nWsHrzcSuyQ/The.Titan.2018.720.HDRip.AC3-EVO.mkv.mp4
+
+type=video
+name=Crazy Famous (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVPUS6UTTtSszcCAVT9Ak40AqOr.jpg
+date=2018-05-05
+URL=https://openload.co/f/ZkOCfntVOF0/Crazy.Famous.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://www.blazefile.co/embed-5rx91z3sqgb3.html   720
+#https://uptobox.com/emq40fwda1wk   720
 
 type=video
 name=Samson (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1400,6 +1449,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqkC47nwJrF0irilInyk6ObQ1U
 date=2018-05-03
 URL=https://openload.co/f/TBzVdIkyvtI/The.Leisure.Seeker.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/2IvIsBPNwPc/the.leisure.seeker.2017.1080p.bluray.x264-theleisureseeker.mkv.mp4
+#https://www.blazefile.co/embed-e0yieh7af3bk.html   720
+#https://uptobox.com/ohw3p5w2seis   720
 
 type=video
 name=The Swindlers (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
@@ -3617,12 +3668,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hQPvhAZBF6qzMK0TMxG1rDWbu
 date=2017-10-17
 URL=https://openload.co/f/vOOsx2Vhqjg/Sun.Choke.2015.1080p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=A Family Man (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/612avgKpukTYLmrXLZmip2Hjwmv.jpg
-date=2017-10-16
-URL=https://openload.co/f/O6SQJF9Hbww/A.Family.Man.2016.1080p.BluRay.x264-PSYCHD.mkv.mp4
-#https://openload.co/f/ui2TnfZND9o/A.Family.Man.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+
 
 type=video
 name=American Gothic (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4619,14 +4665,7 @@ date=2018-04-21
 URL=https://www.blazefile.co/embed-xkmbou9v6u7m.html
 #https://uptobox.com/xibwrue0yd6k
 
-type=video
-name=Please Stand By (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg
-date=2018-04-26
-URL=https://uptobox.com/69xczfrwrvd5
-#https://openload.co/f/cb1a-rB_euw/Please.Stand.By.2017.720p.BRRip.850MB.MkvCage.Com.mkv.mp4
-#https://openload.co/f/Y-eSumROwkE/Please.Stand.By.2017.BRRip.AC3.X264-CMRG.mkv.mp4
-#https://openload.co/f/pxILgMUOINM/Please_Stand_By.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 type=video
 name=Nostalgia (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -4671,7 +4710,12 @@ URL=https://www.blazefile.co/embed-gmbqn4293cmx.html
 #https://uptobox.com/nda68hg2nkvd
 #https://openload.co/f/9VOZs2aZ9As/the.insult.2017.720p.bluray.x264-cinefile.mkv.mp4
 
-
+type=video
+name=Ghost Net (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtwJbCL8fahekBuYO6K2jvPs318.jpg
+date=2018-05-05
+URL=https://www.blazefile.co/embed-83qiwd7mo7hc.html
+#https://uptobox.com/1mlhrl16fhuy
 
 
 
@@ -4777,10 +4821,11 @@ URL=https://streamango.com/f/cserlqmnldfqfoal/Avengers_Infinity_War_2018_
 
 
 type=video
-name=Rampage (2018) ENG 720p_NEW_HDCAM_X264_HQMic-CPG_SeeHD
+name=Rampage (2018) ENG NEW_SOURCE_HDCAM_X264_HQMic-SugarTits_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
-date=2018-04-16
-URL=https://openload.co/f/O23sDjSCQ6s/Rampage_2018_720p_NEW_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
+date=2018-05-05
+URL=https://openload.co/f/8o7817XOc8Q/Rampage_2018_NEW_SOURCE_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
+#https://openload.co/f/O23sDjSCQ6s/Rampage_2018_720p_NEW_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/Wrft5d0xj6A/Rampage.2018.HDCAM.x264.AC3-TEAM69.mkv.mp4
 #https://openload.co/f/D2aEsbX76bg/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv.mp4
 #https://openload.co/f/J2dDGP5-huM/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv   MKV3.0GB
@@ -4816,10 +4861,11 @@ URL=https://streamango.com/f/esmtoktpnsnacelr/Ready_Player_One_2018_
 
 
 type=video
-name=Tomb Raider (2018) ENG 720p_HD-TC_NEW_X264-CPG_SeeHD
+name=Tomb Raider (2018) ENG NEW_TS.XViD.AC3-ETRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
-date=2018-03-21
-URL=https://openload.co/f/Ym5gxjVuFRY/Tomb_Raider_2018_720p_HD-TC_NEW_X264-CPG_SeeHD.mkv.mp4
+date=2018-05-05
+URL=https://openload.co/f/qakdUkA1W3U/Tomb_Raider_2018_NEW_TS.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/Ym5gxjVuFRY/Tomb_Raider_2018_720p_HD-TC_NEW_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/ab7mVAR6iAw/Tomb_Raider_2018_New_SRC_720p_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/HlMiyzb4nwY/Tomb_Raider.2018.CAM.XviD-VAiN.avi.mp4
 #https://openload.co/f/0fZwGeHZlIo/Tomb_Raider_2018_720p_FULL_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
@@ -4868,32 +4914,7 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 
 
 
-type=video
-name=Black Panther (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
-date=2018-05-03
-URL=https://www.blazefile.co/embed-uu50ocb3n9fm.html
-#https://uptobox.com/2o99oidl84c9
-#https://openload.co/f/PWOgxTHj-Zo/Black.Panther.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/QzdnxUpbqkY/Black.Panther.2018.1080p.BluRay.x265.HEVC.6CH-MRN.mkv.mp4
-#https://openload.co/f/OaXtjnVl7iE/Please.Stand.By.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
-#https://openload.co/f/Wv0YJ8d2yZE/black.panther.2018.720p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/5vvOVncxHpU/Black.Panther.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/3CZe-kEmblA/Black.Panther.2018.HDTC.X264-FrangoAssado.mkv.mp4
-#https://openload.co/f/SPBOZokHuV0/Black_Panther_2018_720P_New_V.2_HDTS-X264-MP3-Zi%24t.mkv.mp4
-#https://openload.co/f/u9hqBeAjccM/Black.Panther.2018.NEW.720p.HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/-OZwCiXre9I/Black_Panther_2018_NEW_PROPER_HD-TS_X264-CPG.mkv.mp4
-#https://openload.co/f/WZ4OiGMkCYo/Black.Panther.2018.ENG.NEW.HDTS.X264.MP3-ZiSt.mkv.mp4
-#https://openload.co/f/cpVwHgNhW4M/Black_Panther_2018_FULL_HDCAM_ENG_X264-UNiQUE.mkv.mp4
-#https://openload.co/f/bPsscKAQno4/Black.Panther.2018.HDCAM.x264-%5BSpaceMov.org%5D.MP4.mp4
-#https://openload.co/f/6_rW9szwkTs/Black.Panther.2018.HDCAM.x264.MP4.mp4
-#https://openload.co/f/9iJ4yzgCyZY/Black_Panther_%282018%29_English_HDCAM.mp4
-type=video
-name=Black Panther (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
-date=2018-04-15
-URL=https://streamango.com/f/msdcpnamoofemdpb/Black_Panther_2018_V_1_mp4
-#https://streamango.com/f/qqoddkablatcrnbr/Black_Panther_2018_
+
 
 
 
@@ -6211,6 +6232,35 @@ URL=
 
 
 type=video
+name=Black Panther (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
+date=2018-05-03
+URL=https://www.blazefile.co/embed-uu50ocb3n9fm.html
+#https://uptobox.com/2o99oidl84c9
+#https://openload.co/f/PWOgxTHj-Zo/Black.Panther.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/QzdnxUpbqkY/Black.Panther.2018.1080p.BluRay.x265.HEVC.6CH-MRN.mkv.mp4
+#https://openload.co/f/OaXtjnVl7iE/Please.Stand.By.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/Wv0YJ8d2yZE/black.panther.2018.720p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/5vvOVncxHpU/Black.Panther.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/3CZe-kEmblA/Black.Panther.2018.HDTC.X264-FrangoAssado.mkv.mp4
+#https://openload.co/f/SPBOZokHuV0/Black_Panther_2018_720P_New_V.2_HDTS-X264-MP3-Zi%24t.mkv.mp4
+#https://openload.co/f/u9hqBeAjccM/Black.Panther.2018.NEW.720p.HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/-OZwCiXre9I/Black_Panther_2018_NEW_PROPER_HD-TS_X264-CPG.mkv.mp4
+#https://openload.co/f/WZ4OiGMkCYo/Black.Panther.2018.ENG.NEW.HDTS.X264.MP3-ZiSt.mkv.mp4
+#https://openload.co/f/cpVwHgNhW4M/Black_Panther_2018_FULL_HDCAM_ENG_X264-UNiQUE.mkv.mp4
+#https://openload.co/f/bPsscKAQno4/Black.Panther.2018.HDCAM.x264-%5BSpaceMov.org%5D.MP4.mp4
+#https://openload.co/f/6_rW9szwkTs/Black.Panther.2018.HDCAM.x264.MP4.mp4
+#https://openload.co/f/9iJ4yzgCyZY/Black_Panther_%282018%29_English_HDCAM.mp4
+type=video
+name=Black Panther (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
+date=2018-05-05
+URL=https://streamango.com/f/pclbcesqmnbbdrkn/Black_Panther_2018_
+#https://streamango.com/f/msdcpnamoofemdpb/Black_Panther_2018_V_1_mp4
+#https://streamango.com/f/qqoddkablatcrnbr/Black_Panther_2018_
+
+
+type=video
 name=Fireworks, Should We See It from the Side or the Bottom? (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mh2NWCrdMYi2rF0vAp5WtWy2sm.jpg
 date=2018-04-22
@@ -6305,27 +6355,7 @@ URL=https://streamango.com/f/bfetceqmnompadfa/Monster_Hunt_2_2018_2_V_2_mp4
 #https://streamango.com/f/kmeqqlkbfqosafts/Monster_Hunt_2_2018_2_
 
 
-type=video
-name=12 Strong (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
-date=2018-04-19
-URL=https://www.blazefile.co/embed-06h0ip077ted.html
-#https://uptobox.com/7morkf1qlybl
-#https://openload.co/f/RwhZH5iYiBI/12.Strong.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/ogzXWqSbDPk/12.strong.2018.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/TIdvUg3fVJE/12.strong.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/NC9uV0ORD0Y/12.strong.2018.720p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/Kw7GSqUHLBo/12.Strong.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/lhdNevS9Wl8/12.Strong.2018.720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/6wP070I20Xw/12_Strong_2018_ENG_720p_HDCAM-X264-MP3-Cr%40zyTribal.mkv.mp4
-#https://openload.co/f/OqhUPsY6YcQ/12_Strong_2018_NEW_720p_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/hVOiY8yxQWg/12.Strong.2017.CAM.XViD-CMRG.avi.mp4
-type=video
-name=12 Strong (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
-date=2018-04-06
-URL=https://streamango.com/f/edocarltlsqskbal/12_Strong_2018_12_
-#https://streamango.com/f/bcnspemlmbdmfcbk/12_Strong_2018_12_
+
 
 
 type=video
@@ -6372,26 +6402,7 @@ URL=https://streamango.com/f/fenkmsaldecftpds/Slumber_2017_
 
 
 
-type=video
-name=All the Money in the World (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
-date=2018-04-02
-URL=https://www.blazefile.co/embed-x8mddhti37yj.html
-#https://uptobox.com/5yswk6icnkp2
-#https://openload.co/f/Z_3OJ8oXOhM/all.the.money.in.the.world.2017.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/L04zHRrVq1Y/all.the.money.in.the.world.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/3lctfM8mNPY/All.The.Money.In.The.World.2017.720p.Br_SeeHD.mp4
-#https://openload.co/f/F76f7gqp9_Y/All.the.Money.in.the.World.2017.CAM_SeeHD.mp4
-#https://openload.co/f/Lefs8BNw8P0/All.the.Money.in.the.World.2017.HDCAM.x264-DiRG.mp4
-#https://openload.co/f/T0HIxal98u0/All.the.Money.in.the.World.2017.CAM.AAC.x264-THESTiG.mp4
-#https://www.blazefile.co/embed-14aetj21xzye.html   720
-#https://uptobox.com/17e1drzt72hh   720
-type=video
-name=All the Money in the World (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
-date=2018-03-29
-URL=https://streamango.com/f/lotsrbtoeltsceod/All_the_Money_in_the_World_2017_
-#https://streamango.com/f/faldccplekdnrrsb/All_the_Money_in_the_World_2017_
+
 
 
 
@@ -6658,17 +6669,6 @@ URL=https://openload.co/f/bPl2nYIbsc0/Tell_Me_How_I_Die_%282016%29%E0%B8%99%E0%B
 
 
 
-type=video
-name=Paradox (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] MKV6.6GB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e7X4NjnioUoLMR74d0fUW1WSp9.jpg
-date=2018-02-18
-URL=https://openload.co/f/1Mfd9DelHfw/paradox.2017.1080p.bluray.x264-regret.mkv
-type=video
-name=Paradox (2017) TH CAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e7X4NjnioUoLMR74d0fUW1WSp9.jpg
-date=2017-11-20
-URL=https://openload.co/f/Pv0JpdraClA/Paradox.2017.4K.2160p.WEB-DL.x264.AC-3.ThaiRong2.0_CpT%40CtHts.mkv.mp4
-#https://openload.co/f/ZUSwNylVnPg/Paradox_%282017%29%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94_%E0%B8%8B%E0%B8%B1%E0%B8%94_%E0%B8%94%E0%B8%B4%E0%B8%9A_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
 
@@ -6781,7 +6781,78 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+type=video
+name=12 Strong (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
+date=2018-04-19
+URL=https://www.blazefile.co/embed-06h0ip077ted.html
+#https://uptobox.com/7morkf1qlybl
+#https://openload.co/f/RwhZH5iYiBI/12.Strong.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/ogzXWqSbDPk/12.strong.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/TIdvUg3fVJE/12.strong.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/NC9uV0ORD0Y/12.strong.2018.720p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/Kw7GSqUHLBo/12.Strong.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/lhdNevS9Wl8/12.Strong.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/6wP070I20Xw/12_Strong_2018_ENG_720p_HDCAM-X264-MP3-Cr%40zyTribal.mkv.mp4
+#https://openload.co/f/OqhUPsY6YcQ/12_Strong_2018_NEW_720p_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/hVOiY8yxQWg/12.Strong.2017.CAM.XViD-CMRG.avi.mp4
+type=video
+name=12 Strong (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg
+date=2018-05-05
+URL=https://openload.co/f/giHB3_1gDCw/12_Strong_%282018%2912_%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99.mp4
+#https://streamango.com/f/edocarltlsqskbal/12_Strong_2018_12_
+#https://streamango.com/f/bcnspemlmbdmfcbk/12_Strong_2018_12_
 
+
+type=video
+name=Paradox (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] MKV6.6GB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e7X4NjnioUoLMR74d0fUW1WSp9.jpg
+date=2018-02-18
+URL=https://openload.co/f/1Mfd9DelHfw/paradox.2017.1080p.bluray.x264-regret.mkv
+type=video
+name=Paradox (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e7X4NjnioUoLMR74d0fUW1WSp9.jpg
+date=2018-05-05
+URL=https://openload.co/f/vJNMqml5n38/Paradox_%282017%29%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94_%E0%B8%8B%E0%B8%B1%E0%B8%94_%E0%B8%94%E0%B8%B4%E0%B8%9A.mp4
+#https://openload.co/f/Pv0JpdraClA/Paradox.2017.4K.2160p.WEB-DL.x264.AC-3.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+#https://openload.co/f/ZUSwNylVnPg/Paradox_%282017%29%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94_%E0%B8%8B%E0%B8%B1%E0%B8%94_%E0%B8%94%E0%B8%B4%E0%B8%9A_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
+
+type=video
+name=All the Money in the World (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
+date=2018-04-02
+URL=https://www.blazefile.co/embed-x8mddhti37yj.html
+#https://uptobox.com/5yswk6icnkp2
+#https://openload.co/f/Z_3OJ8oXOhM/all.the.money.in.the.world.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/L04zHRrVq1Y/all.the.money.in.the.world.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/3lctfM8mNPY/All.The.Money.In.The.World.2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/F76f7gqp9_Y/All.the.Money.in.the.World.2017.CAM_SeeHD.mp4
+#https://openload.co/f/Lefs8BNw8P0/All.the.Money.in.the.World.2017.HDCAM.x264-DiRG.mp4
+#https://openload.co/f/T0HIxal98u0/All.the.Money.in.the.World.2017.CAM.AAC.x264-THESTiG.mp4
+#https://www.blazefile.co/embed-14aetj21xzye.html   720
+#https://uptobox.com/17e1drzt72hh   720
+type=video
+name=All the Money in the World (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oWOde1s6jPcbcoZK6JWHxYzOsP.jpg
+date=2018-05-05
+URL=https://openload.co/f/oZot380rb6Q/All_the_Money_in_the_World_%282017%29%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%96%E0%B9%88%E0%B8%AD%E0%B8%B3%E0%B8%A1%E0%B8%AB%E0%B8%B4%E0%B8%95.mp4
+#https://streamango.com/f/lotsrbtoeltsceod/All_the_Money_in_the_World_2017_
+#https://streamango.com/f/faldccplekdnrrsb/All_the_Money_in_the_World_2017_
+
+
+type=video
+name=A Family Man (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/612avgKpukTYLmrXLZmip2Hjwmv.jpg
+date=2017-10-16
+URL=https://openload.co/f/O6SQJF9Hbww/A.Family.Man.2016.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/ui2TnfZND9o/A.Family.Man.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+type=video
+name=A Family Man (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/612avgKpukTYLmrXLZmip2Hjwmv.jpg
+date=2018-05-05
+URL=https://openload.co/f/yDeoMzM3Ox0/A_Family_Man_%282017%29%E0%B8%AD%E0%B8%B0%E0%B9%81%E0%B8%9F%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%81%E0%B9%87%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
 
 
 type=video
@@ -7083,6 +7154,36 @@ URL=
 
 
 
+
+type=video
+name=Wayne's World (1992) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttv6BA0DOes1zXMnQSNXTGeGkdJ.jpg
+date=2018-05-05
+URL=https://openload.co/f/Wcw9nbAg1M4/Waynes.World.1992.1080p.BluRay.x264.AC3-ETRG.6877E.mp4
+
+type=video
+name=Hot Rod (2007) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LDKcAFFNJ3ra1a5LgPSiAbyJHC.jpg
+date=2018-05-05
+URL=https://openload.co/f/vJ1ynjb1JK4/Hot_Rod.2007.HD_720p.mp4
+
+type=video
+name=Bill & Ted's Excellent Adventure (1989) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2yKJ1STPklVSRtso2Tg4TPXK7u.jpg
+date=2018-05-05
+URL=https://openload.co/f/nFVksG1iekQ/Bill.and.Teds.Excellent.Adventu.1989.1080p.BrRip.x264.YIFY.RE.160605.mp4
+
+type=video
+name=Clue (1985) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/suzDcrxpuNPDnBwOOy8vBLsygwp.jpg
+date=2018-05-05
+URL=https://openload.co/f/_Q9IIugsL-Q/Clue_1985_1080p_BluRay_x264_AAC_-_Ozlem.RE.160610.Q10HH.mp4
+
+type=video
+name=Starship Troopers (1997) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeCD9WkhABFJmPq3SlTozXJGEtr.jpg
+date=2018-05-05
+URL=https://openload.co/f/8dJB0RohhHQ/Starship_Troopers.1997.HD_1080p.160526.mp4
 
 type=video
 name=Lonesome Dove (1989) 1

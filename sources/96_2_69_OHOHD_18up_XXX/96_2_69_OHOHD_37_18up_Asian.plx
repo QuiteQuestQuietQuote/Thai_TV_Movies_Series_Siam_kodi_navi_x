@@ -58,6 +58,80 @@ URL=
 
 
 
+type=video
+name=64xxxxxxxxxxxxxxxxxxxxSegnamsegnyeo (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Segnamsegnyeo-2018.jpg
+date=2018-05-05
+URL=https://streamcherry.com/embed/mcncraserrdelekq/
+
+type=video
+name=Geunyeoui Saegmas De (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Geunyeoui-Saegmas-De-2018.jpg
+date=2018-05-05
+URL=https://streamcherry.com/embed/ltsrmlkpmqpbplca/
+
+type=video
+name=Daughter-in-law’s Sister (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Daughter-in-laws-Sister-2016.jpg
+date=2018-05-05
+URL=https://streamcherry.com/embed/kplpelscdrkrrllp/
+
+type=video
+name=Geunyeoui Jeongsa (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Geunyeoui-Jeongsa-2017.jpg
+date=2018-05-05
+URL=https://streamcherry.com/embed/rrsqptcepkmpodnc/
+
+type=video
+name=19 Geum Teugbyeol Jeongsa (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/19-Geum-Teugbyeol-Jeongsa-2017.jpg
+date=2018-05-05
+URL=https://streamcherry.com/embed/qntrtskcndqrtaam/
+
+
+type=video
+name=Yahan Jeongsaui Mas (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Yahan-Jeongsaui-Mas-2018.jpg
+date=2018-05-05
+URL=https://streamcherry.com/embed/bnbomabqeemrmtos/
+
+type=video
+name=Batsuichi Onna to Kurasu (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Batsuichi-Onna-to-Kurasu-2016.jpg
+date=2018-05-05
+URL=https://streamcherry.com/embed/rccodkcrbccamnro/
+
+type=video
+name=Jyoryu Kanno Shosetsuka (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Jyoryu-Kanno-Shosetsuka-2016.jpg
+date=2018-05-05
+URL=https://streamcherry.com/embed/klfdftrpfktrfolc/
+
+type=video
+name=Gibono Hudeorosi (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Gibono-Hudeorosi-2017.jpg
+date=2018-05-05
+URL=https://streamcherry.com/embed/pcmolfmaocptqfom/
+
+type=video
+name=Eomma Aein (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Eomma-Aein-2017-Uncut.jpg
+date=2018-05-05
+URL=https://streamcherry.com/embed/flqepfdoncncskde/
+
+
+type=video
+name=Work Swapping Pretty Women (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Work-Swapping-Pretty-Women-2017-Uncut.jpg
+date=2018-05-05
+URL=https://streamcherry.com/embed/qfnkqdkebfmnanad/
+
+type=video
+name=Nae Hyeong Ui Yeojachingu (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Nae-Hyeong-Ui-Yeojachingu-2018.jpg
+date=2018-05-05
+URL=https://streamcherry.com/embed/nnfkfaptsotpmatk/
+
 
 
 
