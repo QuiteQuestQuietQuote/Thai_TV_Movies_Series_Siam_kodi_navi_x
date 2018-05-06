@@ -40,8 +40,61 @@ URL=
 type=video
 name=
 thumb=
-date=2018-03-11
+date=2018-05-06
 URL=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=HEYZO-0545 Popular Photo Model Captured By Photographers. She Is Taken From Every Angle
+thumb=http://javporn.to/wp-content/uploads/2016/10/1909.jpg
+date=2018-05-06
+URL=http://yamvideo.com/embed.php?id=1909&ads=1
+
+type=video
+name=HEYZO-0545 Popular Photo Model Captured By Photographers. She Is Taken From Every Angle
+thumb=http://javporn.to/wp-content/uploads/2016/10/1909.jpg
+date=2018-05-06
+URL=https://video.fhan5-2.fna.fbcdn.net/v/t42.9040-2/10000000_916416958528391_6755988057733726208_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=v1%3AAeFRhwmPql4K8vR2oizVnBqAjKDoYBAGrWmdBgvdFuOTDTgAfFJYXU5MRWgHfN3lTq-pFqS6t004IROjPTMU76FZhlZY7dWF3bMTULejaI8Q9g&oh=8cadab4cf1c7506948fbe50eb9596e01&oe=5AEF5CB2&itag=22
+
+type=video
+name=CARIB 012916-085 Hitomi Hayama
+thumb=http://javporn.to/wp-content/uploads/2016/10/4455.jpg
+date=2018-05-06
+URL=http://yamvideo.com/embed.php?id=4455&ads=1
+
+type=video
+name=CARIB 012916-085 Hitomi Hayama
+thumb=http://javporn.to/wp-content/uploads/2016/10/4455.jpg
+date=2018-05-06
+URL=https://video.fhan5-2.fna.fbcdn.net/v/t42.9040-2/10000000_2059375250972161_4026286863655370752_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=v1%3AAeHgklI8qD8G6kN98f9D7Ajt5QRA81qh--hC68RMXer8zIcoB-BZE4aTbD6xswZyZmI18qcrTtRejjN-Q11-rpXc_mpgQyZ-wdmC845qsn3nNw&oh=2cd8fb33ab531e33762ba348ac509014&oe=5AEF771E&itag=22
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

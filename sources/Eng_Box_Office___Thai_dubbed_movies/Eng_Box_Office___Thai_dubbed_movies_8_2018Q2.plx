@@ -1254,14 +1254,7 @@ URL=https://openload.co/f/JxJSMoOr-7o/The_Shanghai_Job_2017_BDRip_Layar.mp4
 #http://entervideo.net/watch/663df7b4d19c193
 #https://openload.co/f/0CIUo1iyESA/SMART.Chase.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
 
-type=video
-name=Freehold (2017) ENG BRRip_Dunia
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bITbGBGn7pUKJAF6U0dzNT33ZxU.jpg
-date=2018-05-05
-URL=https://openload.co/f/uSuv2cXkhXs/freehold_2017_BRRip_Dunia.mp4
-#https://openload.co/f/yIOUrQXSCCM/Freehold.2017.DVDRip.x264-RedBlade.mkv.mp4
-#https://openload.co/f/t1E8pQAnJaw/Freehold_2017_HDRip_XviD_AC3-EVO.avi.mp4
-#https://openload.co/f/I7UjFFBDk_g/Freehold.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 
 
@@ -1400,6 +1393,8 @@ name=The Northlander (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZNMuNe5EQiV7VUNbDmE9ovBln.jpg
 date=2018-05-05
 URL=https://openload.co/f/ZtiIjXBGE4A/The.Northlander.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://www.blazefile.co/embed-0vf6042exvxg.html   720
+#https://uptobox.com/etmbosc5151z   720
 
 type=video
 name=The Titan (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4717,7 +4712,16 @@ date=2018-05-05
 URL=https://www.blazefile.co/embed-83qiwd7mo7hc.html
 #https://uptobox.com/1mlhrl16fhuy
 
-
+type=video
+name=Freehold (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bITbGBGn7pUKJAF6U0dzNT33ZxU.jpg
+date=2018-05-06
+URL=https://www.blazefile.co/embed-xxk6l06kqb0u.html
+#https://uptobox.com/htpm6oz217le
+#https://openload.co/f/uSuv2cXkhXs/freehold_2017_BRRip_Dunia.mp4
+#https://openload.co/f/yIOUrQXSCCM/Freehold.2017.DVDRip.x264-RedBlade.mkv.mp4
+#https://openload.co/f/t1E8pQAnJaw/Freehold_2017_HDRip_XviD_AC3-EVO.avi.mp4
+#https://openload.co/f/I7UjFFBDk_g/Freehold.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 
 
@@ -6779,7 +6783,7 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
-
+#23---2018-05-06
 
 type=video
 name=12 Strong (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]

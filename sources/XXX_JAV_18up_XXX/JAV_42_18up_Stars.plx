@@ -64,13 +64,15 @@ type=video
 name=PPPD-305 Big Tits Housewife Tour
 thumb=http://javsex.net/wp-content/uploads/2015/12/31676.jpg
 date=2018-02-05
-URL=http://185.216.140.23/031-hls/appid-4734/hls.m3u8
+URL=http://yamvideo.com/embed.php?id=4734&ads=1
+#http://185.216.140.23/031-hls/appid-4734/hls.m3u8
 
 type=video
 name=PPPD-287 Big Tits Knit Situation SPECIAL
 thumb=http://javsex.net/wp-content/uploads/2015/12/3743.jpg
 date=2018-02-05
-URL=http://80.82.77.190/030-hls/appid-4755/hls.m3u8
+URL=https://video.fhan5-2.fna.fbcdn.net/v/t42.9040-2/10000000_616898132035855_4153866797008814080_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=v1%3AAeGPGoSHGoPtlGhG-s_CcHBHlThKdjEniAES8-_NeV5QMPCx8yg0qZXFnNL_doNcbVqpYtrsO3YddoxwjkLCpYlyP440fsQlbuuSR4SXkAETsQ&oh=83075a34f137dace6f527dcc19184c9f&oe=5AEF5F16&itag=22
+#http://80.82.77.190/030-hls/appid-4755/hls.m3u8
 
 type=video
 name=PPPD-298 Megu Fujiura Big Reverse Bus Tour
