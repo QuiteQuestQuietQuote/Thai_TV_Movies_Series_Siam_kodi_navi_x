@@ -1364,6 +1364,15 @@ URL=
 
 
 
+
+type=video
+name=Fishbowl California (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZvyFycmr1LzjmHTKuyiJDyhe2.jpg
+date=2018-05-07
+URL=https://www.blazefile.co/embed-llfdtlzo356s.html
+#https://uptobox.com/um98yc46el9k
+#https://openload.co/f/Ol46GADQZz4/Fishbowl.California.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
 type=video
 name=Please Stand By (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg
@@ -1810,7 +1819,8 @@ type=video
 name=Phantom Thread (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
 date=2018-04-04
-URL=https://uptobox.com/6bjsmzwcnozs
+URL=https://openload.co/f/9x1ASTV_wBg/Phantom.Thread.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://uptobox.com/6bjsmzwcnozs
 #https://openload.co/f/9x1ASTV_wBg/Phantom.Thread.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/4cTv2ODkB7Y/Phantom.Thread.2017.1080p.BRrip.AC3.H264-CMRG.mkv.mp4
 #https://openload.co/f/KiFaEMOtxnU/Phantom.Thread.2017.1080p.WEB-DL.DD5_1.H264-CMRG%5BEtHD%5D.mkv.mp4
@@ -3567,10 +3577,12 @@ URL=https://openload.co/f/6OfNo6I3p0E/Ali.and.Nino.2016.1080p.BluRay.x264-EXCLUD
 
 
 type=video
-name=Lord, Give Me Patience (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] MKV 7.7GB
+name=Lord, Give Me Patience (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] MKV 7.7GB fmovies
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYtmqQ0Q3zjTRa4COgePNQcxTcN.jpg
-date=2017-10-27
-URL=https://openload.co/f/Jd0GQ4lEOA4/lord.give.me.patience.2017.1080p.bluray.x264-bipolar.mkv
+date=2018-05-07
+URL=https://openload.co/f/QhOtHVlcfdo/Lord_Give_Me_Patience_2017_720p_BluRay_x264_AAC_ESub.E.mp4
+#https://cdn.mcloud.to/q2/i0/h0/p23/G5u3tzTFR-fWzpbxxBTaag/1525798800/i/b/1/mqv46v/list.m3u8
+#https://openload.co/f/Jd0GQ4lEOA4/lord.give.me.patience.2017.1080p.bluray.x264-bipolar.mkv
 
 type=video
 name=Vir Altyd (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.6GB
@@ -3991,10 +4003,12 @@ URL=https://www.blazefile.co/embed-4cip00dzo4sv.html
 
 
 type=video
-name=Dead Again In Tombstone (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.7GB thevideo
+name=Dead Again In Tombstone (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.7GB fmovies
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6lEhEhSOdm0ku4I6h1do2KvBUi.jpg
-date=2017-08-30
-URL=https://n3020.thevideo.me:8777/orcgm634iw3hu37wray635ihf3amzv7dgl2elaervjycskvlarys4ih6vnlc2m7s5fwhjlusqzigfpbasnu4ljrnqx2ex4xvbyrhd665xnt3jm7a577e4pieehkr5ac6klqgplt4cc3wgutihjxt5nfzmgisuyn37ona6dh3xm3r4rfhil3fsbklbwrhxl2nzadludozojrqkhddqbqhzuapluc3m4tng3uyj2sbmnvv6ta2wi26afszpl2td372ksz6jkuet34lthet47kz2e6njk3a/v.mp4
+date=2018-05-07
+URL=https://openload.co/f/SqhdojObUiE/Dead.Again.in.Tombstone.2017.720p.BRRip.900MB.MkvCage.E.mp4
+#https://cdn.mcloud.to/q2/i0/h0/p23/EAtnEA3zRsWdREE_w3OL2w/1525798800/f/3/b/kkmln4/list.m3u8
+#https://openload.co/f/SqhdojObUiE/Dead.Again.in.Tombstone.2017.720p.BRRip.900MB.MkvCage.E.mp4
 #https://openload.co/f/MSAmqFR1Z20/Dead.Again.in.Tombstone.2017.1080p.BluRay.x264-ROVERS.mkv
 
 type=video
@@ -4732,7 +4746,7 @@ URL=https://www.blazefile.co/embed-xxk6l06kqb0u.html
 type=video
 name=
 thumb=
-date=2018-05-03
+date=2018-05-07
 URL=http://203.162.235.41:17819
 
 
@@ -5464,11 +5478,10 @@ URL=https://streamango.com/f/nrcfnrabloqbbrbr/Victoria_Abdul_2017_
 
 
 type=video
-name=Roman J. Israel, Esq. (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] fmovies
+name=Roman J. Israel, Esq. (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNjkxMTg2NV5BMl5BanBnXkFtZTgwNjkyNTk0MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg
 date=2018-01-27
-URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_2026960664234188_6576315647163105280_n.mp4?_nc_cat=0&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJzdmVfaGQifQ%3D%3D&rl=1500&vabr=729&oh=fbd1e78adbaa9b7541fcf5a4c2821b92&oe=5ADE7EFF
-#https://openload.co/f/MymMhXdgOME/Roman.J.Israel.Esq.2017.1080p.BluRay.x264-DRONES.mkv
+URL=https://openload.co/f/MymMhXdgOME/Roman.J.Israel.Esq.2017.1080p.BluRay.x264-DRONES.mkv
 #https://openload.co/f/ZUcZ5UgqD80/Roman.J.Israel.Esq.2017.1080p.BluRay.x264-DRONES.mkv   MKV8.7GB
 #https://openload.co/f/Sxn9_vuvfKM/Roman.J.Israel.Esq.2017.720p.ENG.HDCAM.H264-Zi%24t.mkv.mp4
 #https://openload.co/f/EtDmEWBVIow/Roman.J.Israel.Esq.2017.P.kol.TS.14OOMB_KOSHARA.E.mp4
@@ -6147,10 +6160,10 @@ description=The upcoming installment's story takes place amidst signs of postwar
 
 
 type=video
-name=Office Christmas Party (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Office Christmas Party (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] fmovies
 thumb=http://image.tmdb.org/t/p/w500/7r3w3cPTbNEIr1imb8zXyeIJCJe.jpg
 URL=https://www.blazefile.co/embed-xyam3nws3rhb.html
-
+#https://openload.co/f/P8SnaQJiUys/Office.Christmas.Party.2016.1080p.BluRay.x264.E.mp4
 
 # 2769989
 type=video
@@ -6165,9 +6178,8 @@ description=Park Tae-Soo was born to a difficult family, one day he wanted to be
 type=video
 name=Allied (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] fmovies
 thumb=http://image.tmdb.org/t/p/w500/nzXzLFTnd0Zb3ExfhOxlQgizgSu.jpg
-date=2018-03-27
-URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_1086763071464662_8288403535356231680_n.mp4?_nc_cat=0&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJzdmVfaGQifQ%3D%3D&rl=1500&vabr=586&oh=2a34e4ef2c5f2760089587b0c1a22ff7&oe=5ADE492E
-#http://192.99.67.192/home/movies29/tt3640424_hd.mp4
+date=2018-05-07
+URL=https://openload.co/f/iVIZEHOlsig/Allied.2016.1080p.BRRip.x264.AAC_ETRG.mp4
 type=video
 name=Allied (2016) SUB
 thumb=http://image.tmdb.org/t/p/w500/nzXzLFTnd0Zb3ExfhOxlQgizgSu.jpg
@@ -6810,10 +6822,13 @@ URL=https://openload.co/f/giHB3_1gDCw/12_Strong_%282018%2912_%E0%B8%95%E0%B8%B2%
 
 
 type=video
-name=Paradox (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] MKV6.6GB
+name=Paradox (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] MKV6.6GB fmovies
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e7X4NjnioUoLMR74d0fUW1WSp9.jpg
-date=2018-02-18
-URL=https://openload.co/f/1Mfd9DelHfw/paradox.2017.1080p.bluray.x264-regret.mkv
+date=2018-05-07
+URL=https://openload.co/f/PjI_z8TLTNc/Paradox.2017.720p.BluRay.x264_WiKi.E.mp4
+#https://cdn.mcloud.to/q2/i0/h0/p27/CzHDG6kjyDgWLfDPuLYeyw/1525798800/j/4/d/809kwy/list.m3u8
+#https://openload.co/f/PjI_z8TLTNc/Paradox.2017.720p.BluRay.x264_WiKi.E.mp4
+#https://openload.co/f/1Mfd9DelHfw/paradox.2017.1080p.bluray.x264-regret.mkv
 type=video
 name=Paradox (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e7X4NjnioUoLMR74d0fUW1WSp9.jpg
@@ -7152,12 +7167,37 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-05-03
+date=2018-05-07
 URL=
 
 
 
 
+type=video
+name=Captain Phillips (2013) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnMTMPTUzeWNbYxzp29WqYf1br1.jpg
+date=2018-05-07
+URL=https://openload.co/f/Teu2nkTay4M/captain_phillips.2013.mp4
+#https://openload.co/f/UXoZCxEu4u8/Captain_Phillips_2013_720p_BR_x264-YIFY.mp4
+#https://openload.co/f/W8YohBbq5Jc/Captain_Phillips.2013.HD_720p.mp4
+
+type=video
+name=Suicide Squad (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1mjopzAS2KNsvpbpahQ1a6SkSn.jpg
+date=2018-05-07
+URL=https://openload.co/f/Wqp3O6sEz84/Suicide_Squad.2016.Extended.1080p.Bluray_SeeHD.mp4
+
+type=video
+name=Batman v Superman: Dawn of Justice (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGOPbv9wA5gEejkUN892JrveARt.jpg
+date=2018-05-07
+URL=https://openload.co/f/B2QRfRw2Q5I/Batman.V.Superman.Dawn.Of.Justice.2016.1080p.Br_SeeHD.mp4
+
+type=video
+name=Robin Hood (2010) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gH0vhyOcl7QV3t81653CpWjEB6.jpg
+date=2018-05-07
+URL=https://openload.co/f/nSQe3PFpPaA/Robin.Hood.2010.UNRATED.Directors.Cut.1080p.Br_SeeHD.mp4
 
 type=video
 name=Wayne's World (1992) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7339,7 +7379,8 @@ type=video
 name=Avatar (2009) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmcqlZGaSh20zpTbuoF0Cdn07dT.jpg
 date=2018-04-26
-URL=https://openload.co/f/8X9MdzLN65o/Avatar_%282009%29_1080p.mp4
+URL=https://openload.co/f/mY5oz51Jduk/Avatar.2009.EXTENDED.1080p.br_SeeHD.mp4
+#https://openload.co/f/8X9MdzLN65o/Avatar_%282009%29_1080p.mp4
 
 type=video
 name=Draft Day (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
