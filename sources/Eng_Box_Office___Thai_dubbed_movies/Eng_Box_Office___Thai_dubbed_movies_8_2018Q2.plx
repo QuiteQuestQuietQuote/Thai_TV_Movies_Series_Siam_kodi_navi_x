@@ -1358,12 +1358,18 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-05
+date=2018-05-08
 URL=
 
 
 
 
+
+type=video
+name=Bent (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUqimeu4KzFeqTvblNLvG8Y1DAo.jpg
+date=2018-05-08
+URL=https://openload.co/f/jdRoPrOfpRY/Bent.2018.1080p.BR_SeeHD.mp4
 
 type=video
 name=Fishbowl California (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7167,11 +7173,59 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-05-07
+date=2018-05-08
 URL=
 
 
 
+
+type=video
+name=Guardians of the Galaxy (2014) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y31QB9kn3XSudA15tV7UWQ9XLuW.jpg
+date=2018-05-08
+URL=https://openload.co/f/RWnXHTLwXdI/Guardians_Of_The_Galaxy.2014.HD_720p.mp4
+
+type=video
+name=Guardians of the Galaxy Vol. 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg
+date=2018-05-08
+URL=https://openload.co/f/fYtDWns5c_o/Guardians.of.the.Galaxy.Vol.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Boondock Saints (1999) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fg6fhyKg3vbdGtnf9Hq27Q5gS3r.jpg
+date=2018-05-08
+URL=https://openload.co/f/ImnznVhXCfc/The_Boondock_Saints.1999.HD_1080p.mp4
+
+type=video
+name=Monty Python and the Holy Grail (1975) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRx1nDUA4sb2NEKQaukXKBz6pCf.jpg
+date=2018-05-08
+URL=https://openload.co/f/oLxK0Gdt_tI/Monty_Python_and_the_Holy_Grail.1975.HD_720p.DRQT2.mp4
+
+type=video
+name=Comanche Moon (2008)1
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxRkaVvcvdg6OcLGI27WZuVLVHq.jpg
+date=2018-05-08
+URL=https://openload.co/f/72ES_-oF3gk/Comanche_Moon_1_Western_2008_Steve_Zahn_Ryan_Merriman_amp_Keith_Robinson_BR.mp4
+
+type=video
+name=Comanche Moon (2008)2
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxRkaVvcvdg6OcLGI27WZuVLVHq.jpg
+date=2018-05-08
+URL=https://openload.co/f/dhbXbwgLn9Q/Comanche_Moon_2_Western_2008_Steve_Zahn_Ryan_Merriman_amp_Keith_Robinson_BR.mp4
+
+type=video
+name=Comanche Moon (2008)3
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxRkaVvcvdg6OcLGI27WZuVLVHq.jpg
+date=2018-05-08
+URL=https://openload.co/f/crkfOCQa2wQ/Comanche_Moon_3_Western_2008_Steve_Zahn_Ryan_Merriman_amp_Keith_Robinson_BR.mp4
+
+type=video
+name=Ant-Man (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/D6e8RJf2qUstnfkTslTXNTUAlT.jpg
+date=2018-05-08
+URL=https://openload.co/f/1IYOCkaOq4w/Ant-Man.2015.1080p.BR_SeeHD.mp4
 
 type=video
 name=Captain Phillips (2013) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
