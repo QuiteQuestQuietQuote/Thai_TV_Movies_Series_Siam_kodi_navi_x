@@ -1989,7 +1989,8 @@ http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/861/inde
 http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/561/index.m3u8
 #EXTINF:-1,BBC Earth_KOR
 http://119.194.30.67:9981/stream/channelid/1550569005?ticket=F39C5EB1368D210C1C3972760F345AE57F270B93&profile=pass
-
+#EXTINF:-1,movie24
+rtmp://tv01.thaizatv.com/drm/movie1
 #EXTINF:-1,CNBC Europe
 http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/340/index.m3u8
 

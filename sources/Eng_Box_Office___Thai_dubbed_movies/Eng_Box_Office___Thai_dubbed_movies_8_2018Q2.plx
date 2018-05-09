@@ -63,11 +63,17 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-05-05
+date=2018-05-09
 URL=
 
 
 
+
+type=video
+name=Isle of Dogs (2018) ENG 720p_HDCAM_X264_HQMic-SugarTits_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
+date=2018-05-09
+URL=https://openload.co/f/1Vty-Ed3Gp0/Isle_of_Dogs_2018_720p_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
 
 type=video
 name=I Can Only Imagine (2018) ENG HDCAM_ENG_X264_HQMic-SugarTits_SeeHD
@@ -184,32 +190,11 @@ URL=https://openload.co/f/YGlkgbDb3sY/Early.Man.2018.1080p.READNFO.HDRip.X264.AC
 
 
 
-type=video
-name=Red Sparrow (2018) ENG 1080p.HC.HDRip.1.8.GB-iExTV
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZwnaMQTdwZz1kwtrrU3IOqxnDu.jpg
-date=2018-04-16
-URL=https://openload.co/f/d0dE2nFF9QA/Red_Sparrow.2018.1080p.HC.HDRip.1.8.GB-iExTV.mp4
-#https://openload.co/f/qTMmeHaK-sw/RED_SPARROW_2018_HC_720p_HDRip_AC3_x264-CMRG.mkv.mp4
-#https://openload.co/f/LvtkoWn5VRw/Red.Sparrow.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/ToWVwzII_TY/Red.Sparrow.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv   MKV2.7GB
-#https://openload.co/f/XqgJBLnWtas/Red.Sparrow.2018.HC.HDRip.AC3.x264-CMRG.mkv.mp4
-#https://openload.co/f/_g7R0CD6j5Q/Red.Sparrow.2018.HC.HDRip.XviD.AC3-EVO.mp4
-#https://openload.co/f/Pb3aZcRQqKY/Red_Sparrow_%282018%29_HDCAM-X264-MP3-Zi%24t.mkv.mp4
-#https://openload.co/f/nrK7723Q5s0/Red.Sparrow.2018.720p.HDCAM.X264-Frozen.mp4
-#https://openload.co/f/WsOAcfN1Fog/Red_Sparrow_2018.ENG.CAM.X264-BABY.mkv.mp4
-#https://openload.co/f/_e7MhJTAVHQ/Red.Sparrow_2018.CAM.X264-NOBITCOINSYESBANK_SeeHD.mp4
-#https://openload.co/f/7Wooyr39WX4/Red_Sparrow_2018.720p.HDCAM.X264-MyBankAccount.mp4
 
 
 
-type=video
-name=Game Night (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wS89vns6cseCn4UHSqj97xKEKW.jpg
-date=2018-05-05
-URL=https://openload.co/f/IfaS_y8QGd4/Game.Night.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/xLjBXQxsf4w/Game_Night_2018_720p_WEB-DL_X264_6CH_HQ-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/rIi1LPjfr8w/Game_Night_2018_HDCAM_ENG_X264-SeeHD.mkv.mp4
-#https://openload.co/f/wBgkr8Vnb4s/Game.Night.2018.HDCAM.X264-PilaRosa.mkv.mp4
+
+
 
 
 
@@ -228,16 +213,7 @@ URL=https://openload.co/f/eWQIr3XNM5w/The_Lodgers_2017_1080p_WEB-DL_DD5.1_H264-C
 
 
 
-type=video
-name=The 15:17 to Paris (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg
-date=2018-05-01
-URL=https://openload.co/f/-N5Eqzwfb2I/The.15.17.to.Paris.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/duAEiMhsu4Y/The.15.17.to.Paris.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/MSpcpOW2xyQ/The.15.17.to.Paris.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/bV_8RkHANJQ/The_15-17_to_Paris_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/sXgYKJLlM2I/15.17_2018_CAM_Layar.mp4
-#https://openload.co/f/wK9RCbjRZMU/The_15%3A17_to_Paris_%282018%29_HDCAM_720p_Layar.mp4
+
 
 
 
@@ -1358,18 +1334,77 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-08
+date=2018-05-09
 URL=
 
 
 
 
 
+
+type=video
+name=Birdboy: The Forgotten Children (2015) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xS6M8jigRzQ0oFG0SdAQBfmEYtd.jpg
+date=2018-05-09
+URL=https://openload.co/f/yeSiQQuwQTc/Birdboy.The.Forgotten.Children.BR_SeeHD.mp4
+
+type=video
+name=Red Sparrow (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZwnaMQTdwZz1kwtrrU3IOqxnDu.jpg
+date=2018-05-09
+URL=https://www.blazefile.co/embed-sbvbz07ulaem.html
+#https://uptobox.com/gfp59yvn0unu
+#https://openload.co/f/fUwpzNDOxs0/red.sparrow.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/gSQp6fkfvd4/Red.Sparrow.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/d_GbpJIHDhU/Red.Sparrow.2018.720p.BR_SeeHD.mp4
+#https://openload.co/f/X0SAy_b4z-k/red.sparrow.2018.720p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/mJ8Un2PItrU/Red.Sparrow.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/EI_ucRTW9hQ/red.sparrow.2018.720p.bluray.hevc.x265.mkv.mp4
+#https://openload.co/f/d0dE2nFF9QA/Red_Sparrow.2018.1080p.HC.HDRip.1.8.GB-iExTV.mp4
+#https://openload.co/f/qTMmeHaK-sw/RED_SPARROW_2018_HC_720p_HDRip_AC3_x264-CMRG.mkv.mp4
+#https://openload.co/f/LvtkoWn5VRw/Red.Sparrow.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/ToWVwzII_TY/Red.Sparrow.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv   MKV2.7GB
+#https://openload.co/f/XqgJBLnWtas/Red.Sparrow.2018.HC.HDRip.AC3.x264-CMRG.mkv.mp4
+#https://openload.co/f/_g7R0CD6j5Q/Red.Sparrow.2018.HC.HDRip.XviD.AC3-EVO.mp4
+#https://openload.co/f/Pb3aZcRQqKY/Red_Sparrow_%282018%29_HDCAM-X264-MP3-Zi%24t.mkv.mp4
+#https://openload.co/f/nrK7723Q5s0/Red.Sparrow.2018.720p.HDCAM.X264-Frozen.mp4
+#https://openload.co/f/WsOAcfN1Fog/Red_Sparrow_2018.ENG.CAM.X264-BABY.mkv.mp4
+#https://openload.co/f/_e7MhJTAVHQ/Red.Sparrow_2018.CAM.X264-NOBITCOINSYESBANK_SeeHD.mp4
+#https://openload.co/f/7Wooyr39WX4/Red_Sparrow_2018.720p.HDCAM.X264-MyBankAccount.mp4
+
+type=video
+name=The 15:17 to Paris (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg
+date=2018-05-09
+URL=https://openload.co/f/TNpUpl4GVC4/The.15.17.to.Paris.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/Jy35tFG0lFo/The.15.17.to.Paris.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/EbzZfP6lv9c/The.15.17.to.Paris.2018.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/-N5Eqzwfb2I/The.15.17.to.Paris.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/duAEiMhsu4Y/The.15.17.to.Paris.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/MSpcpOW2xyQ/The.15.17.to.Paris.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/bV_8RkHANJQ/The_15-17_to_Paris_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/sXgYKJLlM2I/15.17_2018_CAM_Layar.mp4
+#https://openload.co/f/wK9RCbjRZMU/The_15%3A17_to_Paris_%282018%29_HDCAM_720p_Layar.mp4
+
+type=video
+name=Game Night (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wS89vns6cseCn4UHSqj97xKEKW.jpg
+date=2018-05-09
+URL=https://openload.co/f/wjOete6pKGk/Game.Night.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/7l9JGfyc6_I/Game.Night.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/YfBPs-VgpuE/Game.Night.2018.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/IfaS_y8QGd4/Game.Night.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/xLjBXQxsf4w/Game_Night_2018_720p_WEB-DL_X264_6CH_HQ-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/rIi1LPjfr8w/Game_Night_2018_HDCAM_ENG_X264-SeeHD.mkv.mp4
+#https://openload.co/f/wBgkr8Vnb4s/Game.Night.2018.HDCAM.X264-PilaRosa.mkv.mp4
+
 type=video
 name=Bent (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUqimeu4KzFeqTvblNLvG8Y1DAo.jpg
-date=2018-05-08
-URL=https://openload.co/f/jdRoPrOfpRY/Bent.2018.1080p.BR_SeeHD.mp4
+date=2018-05-09
+URL=https://www.blazefile.co/embed-60ifda5atbwf.html
+#https://uptobox.com/1f1aay1k57r0
+#https://openload.co/f/jdRoPrOfpRY/Bent.2018.1080p.BR_SeeHD.mp4
 
 type=video
 name=Fishbowl California (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4723,6 +4758,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLQ9Lu9EFaoiamoosJCpUah1Zr
 date=2018-05-03
 URL=https://www.blazefile.co/embed-gmbqn4293cmx.html
 #https://uptobox.com/nda68hg2nkvd
+#https://openload.co/f/xvVshZnj15E/the.insult.2017.720pbr_SeeHD.mp4
 #https://openload.co/f/9VOZs2aZ9As/the.insult.2017.720p.bluray.x264-cinefile.mkv.mp4
 
 type=video
@@ -4743,8 +4779,19 @@ URL=https://www.blazefile.co/embed-xxk6l06kqb0u.html
 #https://openload.co/f/t1E8pQAnJaw/Freehold_2017_HDRip_XviD_AC3-EVO.avi.mp4
 #https://openload.co/f/I7UjFFBDk_g/Freehold.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
+type=video
+name=The Forgiven (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jp9B3fGLmON5BV28FjZipMVFPZg.jpg
+date=2018-05-09
+URL=https://www.blazefile.co/embed-44hi6dn76khy.html
+#https://uptobox.com/84vqpzshuxid
 
-
+type=video
+name=Girls VS Gangsters (2018) [COLOR=FF00FF00]VIET BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nK9AXSpB3Jh2xwwhxRvCfbNhqtL.jpg
+date=2018-05-09
+URL=https://www.blazefile.co/embed-ack3k95uzu31.html
+#https://uptobox.com/fos380ez2ht4
 
 
 
@@ -4752,7 +4799,7 @@ URL=https://www.blazefile.co/embed-xxk6l06kqb0u.html
 type=video
 name=
 thumb=
-date=2018-05-07
+date=2018-05-09
 URL=http://203.162.235.41:17819
 
 
@@ -4864,10 +4911,14 @@ URL=https://streamango.com/f/acdstsasqbdafaef/Rampage_2018_
 
 
 type=video
-name=Ready Player One (2018) ENG 720p_NEW_HD-TS_X264_HQ_Mr.Hive_SeeHD
+name=Ready Player One (2018) ENG 720pHD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
-date=2018-04-04
-URL=https://openload.co/f/dLbMsY6wF0Q/Ready_Player_One_2018_720p_NEW_HD-TS_X264_HQ_Mr.Hive_SeeHD.mkv.mp4
+date=2018-05-09
+URL=https://openload.co/f/N3iQ8KqoAF4/Ready.Player.One.2018.720pHD_SeeHD.mp4
+#https://openload.co/f/snEgxGoX-wU/Ready.Player.One.2018.V3.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/T79bHA3wYhA/Ready.Player.One.2018.720p.KOR.HDRip.AAC-PCHD_SeeHD.mp4
+#https://openload.co/f/iZ_0NyaqkgI/Ready.Player.One.2018.V3.720p.HC.HDRip.X264.AC3-EVO.mkv   MKV2.6GB
+#https://openload.co/f/dLbMsY6wF0Q/Ready_Player_One_2018_720p_NEW_HD-TS_X264_HQ_Mr.Hive_SeeHD.mkv.mp4
 #https://openload.co/f/cRchGUs-NqE/Ready_Player_One_%282018%29_New_720p_HDCAM-X264-MP3-Bobi.mkv.mp4
 #https://openload.co/f/6ynfED25UZk/Ready_Player_One_2018.720p.HDCAM.X264-LookingForGirls.mkv.mp4
 #https://openload.co/f/CzR4XZ1ZXto/Ready.Player.One.2018.NEW.720p.HDCAM.HQMic-CPG.mkv.mp4
