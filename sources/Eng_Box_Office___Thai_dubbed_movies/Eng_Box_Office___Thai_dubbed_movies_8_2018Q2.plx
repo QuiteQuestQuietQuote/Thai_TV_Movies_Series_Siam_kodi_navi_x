@@ -178,10 +178,11 @@ URL=https://openload.co/f/iQqZjyCB8og/10x10.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp
 
 
 type=video
-name=Early Man (2018) ENG 1080p.READNFO.HDRip.X264.AC3-EVO
+name=Early Man (2018) ENG 1080p.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugw07fJIZMVrrIGeN1MO7Xecj5h.jpg
-date=2018-04-18
-URL=https://openload.co/f/YGlkgbDb3sY/Early.Man.2018.1080p.READNFO.HDRip.X264.AC3-EVO.mkv.mp4
+date=2018-05-10
+URL=https://openload.co/f/lzgrbsqs8zo/Early.Man.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/YGlkgbDb3sY/Early.Man.2018.1080p.READNFO.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/Nt0YWa-SJko/Early_Man.2018.READNFO.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://openload.co/f/04Hs5gzlZAo/Early_Man_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/P3L0Og4nEbU/Early_Man_2018_NEW_HDCAM_SeeHD.avi.mp4
@@ -1375,8 +1376,10 @@ URL=https://www.blazefile.co/embed-sbvbz07ulaem.html
 type=video
 name=The 15:17 to Paris (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg
-date=2018-05-09
-URL=https://openload.co/f/TNpUpl4GVC4/The.15.17.to.Paris.2018.1080p.BR_SeeHD.mp4
+date=2018-05-10
+URL=https://www.blazefile.co/embed-2tw95xqilbri.html
+#http://uptobox.com/fy7n43j2anqf
+#https://openload.co/f/TNpUpl4GVC4/The.15.17.to.Paris.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/Jy35tFG0lFo/The.15.17.to.Paris.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/EbzZfP6lv9c/The.15.17.to.Paris.2018.720p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/-N5Eqzwfb2I/The.15.17.to.Paris.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
@@ -1389,8 +1392,10 @@ URL=https://openload.co/f/TNpUpl4GVC4/The.15.17.to.Paris.2018.1080p.BR_SeeHD.mp4
 type=video
 name=Game Night (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wS89vns6cseCn4UHSqj97xKEKW.jpg
-date=2018-05-09
-URL=https://openload.co/f/wjOete6pKGk/Game.Night.2018.1080p.BR_SeeHD.mp4
+date=2018-05-10
+URL=https://www.blazefile.co/embed-kxr6e4z5u30w.html
+#http://uptobox.com/3tni2takejd7
+#https://openload.co/f/wjOete6pKGk/Game.Night.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/7l9JGfyc6_I/Game.Night.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/YfBPs-VgpuE/Game.Night.2018.720p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/IfaS_y8QGd4/Game.Night.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
@@ -7224,11 +7229,55 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-05-08
+date=2018-05-10
 URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Casino (1995) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7y9LVIqCO4AQ0KmHiQ0CGMRb4gW.jpg
+date=2018-05-10
+URL=https://openload.co/f/ezkZ59Zn0nk/Casino.1995.HD_720p.mp4
+
+type=video
+name=Army of Darkness (1992) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eZKDIwLNnySbwqQtAaUz0kYDIL.jpg
+date=2018-05-10
+URL=https://openload.co/f/Nqkxk_0H0Kc/Army_Of_Darkness_-_Full.645yp.mp4
+
+type=video
+name=Vampire's Kiss (1988) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThT3QMiBC7ge8xePxXr8uruoJK.jpg
+date=2018-05-10
+URL=https://openload.co/f/oKFN3XDVO-k/Vampires.Kiss.1988.DVDRip.XviD.AC3-EBX.mp4
+
+type=video
+name=Bridge of Spies (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPCNA8zJxyyFKTj47QpvkXHukzB.jpg
+date=2018-05-10
+URL=https://openload.co/f/ZzDzrdRMusU/Bridge.of.Spies.2015.1080p.BluRay.H264.AAC_RARBG.mp4
+
+type=video
+name=October Sky (1999) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeFdjM0P3DMIKOloApLAn96GHiM.jpg
+date=2018-05-10
+URL=https://openload.co/f/ieCmYcM0Uv8/October.Sky.1999.720p.BluRay.x264.YIFY.627.mp4
 
 type=video
 name=Guardians of the Galaxy (2014) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
