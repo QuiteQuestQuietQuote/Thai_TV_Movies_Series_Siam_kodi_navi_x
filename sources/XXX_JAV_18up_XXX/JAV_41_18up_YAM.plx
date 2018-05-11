@@ -39,7 +39,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-19
+date=2018-05-11
 URL=
 
 
@@ -466,14 +466,39 @@ type=video
 name=Sqte-186 I Love You And I39m More Excited Than Usual
 thumb=http://javporn.to/wp-content/uploads/2017/10/27042.jpg
 date=2018-04-19
-URL=http://n57.yamvideo.com/171132/106a6c241b8797f52e1e77317b96a201/003/appid-27042/hls.m3u8
+URL=http://s82181.vodstream.xyz/3678/027-hls/appid-27042/hls.m3u8?v=3
 
 
 
+type=video
+name=Snis-949 Novelty No 1 Style Nanana Hinon Av Debut
+thumb=http://javdub.com/wp-content/uploads/2017/07/24944.jpg
+date=2018-05-11
+URL=http://s947.vodstream.xyz/3675/034-hls/appid-26323/hls.m3u8?v=3
 
+type=video
+name=SNIS-691 Dedicating NO.1 STYLE Yoshitake Tin Esuwan Debut
+thumb=http://javdub.com/wp-content/uploads/2017/01/10001.jpg
+date=2018-05-11
+URL=http://s82181.vodstream.xyz/3675/000-hls/appid-10001/hls.m3u8?v=3
 
+type=video
+name=Snis-925 Fluid Intersecting, Dense Sex Perfect Uncut Special Yui Miyu
+thumb=http://javdub.com/wp-content/uploads/2017/06/23934.jpg
+date=2018-05-11
+URL=http://s264.vodstream.xyz/3678/019-hls/appid-23934/hls.m3u8?v=3
 
+type=video
+name=Bazx-093 Bazooka Hentai Do M Daughter Carefully Selected Sss Class Pretty Girl Memorial Best
+thumb=http://javdub.com/wp-content/uploads/2017/11/27681.jpg
+date=2018-05-11
+URL=http://s947.vodstream.xyz/3678/031-hls/appid-27681/hls.m3u8?v=3
 
+type=video
+name=Iene-651 Always Skirt-sheer Bra Men39s Este
+thumb=http://javdub.com/wp-content/uploads/2017/01/10223.jpg
+date=2018-05-11
+URL=http://s82181.vodstream.xyz/3675/000-hls/appid-10223/hls.m3u8?v=3
 
 
 
