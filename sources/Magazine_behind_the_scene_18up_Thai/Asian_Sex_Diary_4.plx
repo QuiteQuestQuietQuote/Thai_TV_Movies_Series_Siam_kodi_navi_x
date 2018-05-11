@@ -59,6 +59,47 @@ URL=
 
 
 
+
+
+
+type=video
+name=152xxxxxxxxxxxxxxxxxxxxAsian Sex Diary Noo Nok 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Asian-Sex-Diary-Noo-Nok.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/omadslebfmcnmrss/
+
+type=video
+name=Asian Sex Diary Noo Milkand An
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Asian-Sex-Diary-Noo-Milkand-An.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/prkcdllcqpksqckk/
+
+type=video
+name=Asian Sex Diary Noo Gnoc 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Asian-Sex-Diary-Noo-Gnoc.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/endseoaqdqakrcao/
+
+type=video
+name=Asian Sex Diary Noo Ice 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Asian-Sex-Diary-Noo-Ice.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/cbbkflmdoradbrbp/
+
+type=video
+name=Asian Sex Diary Noo Beautiful and Sexy Bee
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Asian-Sex-Diary-Noo-Beautiful-and-Sexy-Bee.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/nnadtomasetqspbl/
+
+
+
+
+
+
+
+
+
 type=video
 name=147xxxxxxxxxxxxxxxxxxxxTuktuk Patrol Hanna Lee 
 thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Tuktuk-Patrol-Hanna-Lee.jpg

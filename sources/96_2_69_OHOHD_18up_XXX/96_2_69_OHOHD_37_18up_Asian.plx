@@ -49,6 +49,105 @@ URL=
 
 
 
+type=video
+name=80xxxxxxxxxxxxxxxxxxxxAnaeui Eomma (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Anaeui-Eomma-2018.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/aedofmtmlpkpbrof/
+
+type=video
+name=Eolinjangmo (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Eolinjangmo-2018.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/asaebetpfemmkmpd/
+
+type=video
+name=My Wifes Sister 2 (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/My-Wifes-Sister-2-2017-Uncut.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/pkmsependqaesdbf/
+
+type=video
+name=Hajimetenotaiken 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Hajimetenotaiken-2-2017.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/nkmerfosekatcbmk/
+
+type=video
+name=Sister In Laws Inside Affairs 2 (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Sister-In-Laws-Inside-Affairs-2-2018.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/sleppcsddrqraqba/
+
+
+type=video
+name=Sexless (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Sexless-2016.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/akacmralmnfqrefc/
+
+type=video
+name=Nae Eommaui Chingu Wansughan Yugcheleul Tamhada (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Nae-Eommaui-Chingu-Wansughan-Yugcheleul-Tamhada-2017-Uncut.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/ttbmlbttkfcnente/
+
+type=video
+name=Bimil Jeongsa Jag Eun Eomma (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Bimil-Jeongsa-Jag-Eun-Eomma-2017.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/nlpobdrlcblpmfol/
+
+type=video
+name=A Woman At An Inn (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/A-Woman-At-An-Inn-2017.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/tlakfqelorktqfrt/
+
+type=video
+name=The End (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/The-End-2017.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/cfcplabetllnscfq/
+
+
+type=video
+name=Infinite Release Sex Scandal (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Infinite-Release-Sex-Scandal-2016.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/sesdffkmseoqqlbr/
+
+type=video
+name=Infinite Emergence Sex Scandal-The Hottest Office Girl Violence (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Infinite-Emergence-Sex-Scandal-The-Hottest-Office-Girl-Violence-2016.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/oltmqmakfrqkkodl/
+
+type=video
+name=Manga 3D (2011) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Manga-3D-2011.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/tappbqreaqcemapk/
+
+type=video
+name=Chaghan Eomma Chingu 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Chaghan-Eomma-Chingu-2-2017.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/ledsloaeqmnqslrp/
+
+type=video
+name=Susanghan Jinlyosil Eommachinguui Teugbyeolhan Chilyo (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Susanghan-Jinlyosil-Eommachinguui-Teugbyeolhan-Chilyo-2017-Uncut.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/coerepekqfpnplfb/
+
+
+type=video
+name=Sister Couple Peeking (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/04/Sister-Couple-Peeking-2017.jpg
+date=2018-05-11
+URL=https://streamcherry.com/embed/csedfdmlmsqftrqn/
+
 
 
 
