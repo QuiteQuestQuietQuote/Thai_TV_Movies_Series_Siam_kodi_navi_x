@@ -63,11 +63,38 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-05-09
+date=2018-05-11
 URL=
 
 
 
+
+
+
+type=video
+name=Dark Crimes (2016) ENG HDRip_AC3_XviD_AIR
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJSsTFvccBmqp9t9IFauXA3wWK7.jpg
+date=2018-05-11
+URL=https://openload.co/f/wRdRLUn7iFE/Dark_Crimes_%282016%29_HDRip_AC3_XviD_AIR.avi.mp4
+
+type=video
+name=The Escape (2018) ENG 720p.WEB-DL.H264.AC3-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWETGfd6FEHGecnKE6JuWeXy90c.jpg
+date=2018-05-11
+URL=https://openload.co/f/tooiKVd6xNw/The_Escape.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+
+type=video
+name=Traffik (2018) ENG HDCAM_ENG_X264_-_SugarTits_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubSpsYP3WqljVPVSX2FbBNYZoR1.jpg
+date=2018-05-11
+URL=https://openload.co/f/AyYfn1TqAlI/Traffik_2018_HDCAM_ENG_X264_-_SugarTits_SeeHD.mkv.mp4
+
+type=video
+name=Terminal (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg
+date=2018-05-11
+URL=https://openload.co/f/BLFPcnQ94OM/Terminal.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mkv.mp4
+#https://openload.co/f/p2adG9K9gnQ/Terminal_2018_720pHD_SeeHD.mkv.mp4
 
 type=video
 name=Isle of Dogs (2018) ENG 720p_HDCAM_X264_HQMic-SugarTits_SeeHD
@@ -95,10 +122,11 @@ date=2018-04-25
 URL=https://openload.co/f/gsGj_lpB0Ho/Truth_or_Dare_2018_HD-TS_X264-Mr.Hive_SeeHD.mkv.mp4
 
 type=video
-name=Acrimony (2018) ENG CAM.XViD-T3RR0R_SQU4D_SeeHD
+name=Acrimony (2018) ENG HDCAM.x264.ENG.MP3.LLG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QA8rjbMqPcJXdHWEZE4Nxvktgx.jpg
-date=2018-04-21
-URL=https://openload.co/f/QD1fESnKSgA/Acrimony.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
+date=2018-05-11
+URL=https://openload.co/f/42Sfyana3Ew/Acrimony.2018.HDCAM.x264.ENG.MP3.LLG.mp4
+#https://openload.co/f/QD1fESnKSgA/Acrimony.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
 #https://openload.co/f/Ce7guXZgBS4/Acrimony.2018.HDCAM.x264-DiRG_SeeHD.mp4
 
 type=video
@@ -182,6 +210,7 @@ name=Early Man (2018) ENG 1080p.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugw07fJIZMVrrIGeN1MO7Xecj5h.jpg
 date=2018-05-10
 URL=https://openload.co/f/lzgrbsqs8zo/Early.Man.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/mxYhm6yavGw/Early_Man.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/YGlkgbDb3sY/Early.Man.2018.1080p.READNFO.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/Nt0YWa-SJko/Early_Man.2018.READNFO.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://openload.co/f/04Hs5gzlZAo/Early_Man_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
@@ -1341,7 +1370,11 @@ URL=
 
 
 
-
+type=video
+name=The Whispering Star (2015) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqlQSfJ4g0i4uzYeBWMypLYQKHh.jpg
+date=2018-05-11
+URL=https://openload.co/f/MqQtJ8bnNkg/the.whispering.star.2015.1080p.bluray.x264-usury.mkv.mp4
 
 type=video
 name=Birdboy: The Forgotten Children (2015) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
@@ -4800,11 +4833,19 @@ URL=https://www.blazefile.co/embed-ack3k95uzu31.html
 
 
 
+type=video
+name=Chasing the Dragon (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Lc0XGNZmsFe3uA1UMqhlBiJSY4.jpg
+date=2018-05-11
+URL=https://openload.co/f/QRaT1FrcoVg/chasing.the.dragon.2017.limited.720p.bluray.x264-usury.mkv.mp4
+
+
+
 
 type=video
 name=
 thumb=
-date=2018-05-09
+date=2018-05-11
 URL=http://203.162.235.41:17819
 
 
@@ -4879,10 +4920,11 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
-name=Avengers: Infinity War (2018) ENG NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD
+name=Avengers: Infinity War (2018) ENG 720p.TS.x264-TiTAN_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
-date=2018-04-29
-URL=https://openload.co/f/Y_poP1g2OjY/Avengers_Infinity_War_2018_NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD.mkv.mp4
+date=2018-05-11
+URL=https://openload.co/f/EUc49i9EnHQ/Avengers_Infinity_War.2018.720p.TS.x264-TiTAN_SeeHD.mkv.mp4
+#https://openload.co/f/Y_poP1g2OjY/Avengers_Infinity_War_2018_NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/zWOrpbMVEhk/Avengers_Infinity_War_2018_NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/-M-DJyX1LmI/Avengers_Infinity_War_2018_HDCAM-X264-AC3-Zi%24t_SeeHD.mkv.mp4
 #https://openload.co/f/A78kswTr_qI/Avengers_Infinity_War_2018_Early_720p_HDCAM_ENG_x264-Mr.Hive_SeeHD.mkv.mp4
