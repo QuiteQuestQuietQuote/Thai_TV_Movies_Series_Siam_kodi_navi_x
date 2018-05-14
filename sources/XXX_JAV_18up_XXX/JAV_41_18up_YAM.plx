@@ -422,49 +422,49 @@ URL=http://s789.yamvideo.com/thz3675e/004/appid-10665.mp4
 
 type=video
 name=Sqte-081 Erotic Too Girl038039s Body
-thumb=http://javporn.to/wp-content/uploads/2017/01/11725.jpg
+thumb=http://javdub.com/wp-content/uploads/2017/01/11725.jpg
 date=2018-03-11
-URL=http://n59.yamvideo.com/168114/106a6c241b8797f52e1e77317b96a201/019-hls/appid-11725/hls.m3u8
+URL=https://video.fhan5-2.fna.fbcdn.net/v/t42.9040-2/10000000_161306871232664_8215709981215817728_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeE3haO-4SepBo4cEF9nl8z1PgpotDgWudGkvW5McAbqIS7u4QeYdxNVMdXMW3rp-8MnUA5o3Wn3xYXDkny8bI0bn3PYSxxPH8eOc9g3wcSkfw&oh=97d05bbc802cd895a66e0c07788afbb6&oe=5AFA0DF9&itag=22
 
 
 type=video
 name=Sqte-082 Really Is A Naughty Innocent Beautiful Girl
-thumb=http://javporn.to/wp-content/uploads/2017/01/11726.jpg
+thumb=http://javdub.com/wp-content/uploads/2017/01/11726.jpg
 date=2018-02-05
-URL=http://n58.yamvideo.com/14023/106a6c241b8797f52e1e77317b96a201/012-hls/appid-11726/hls.m3u8
+URL=https://video.fhan5-2.fna.fbcdn.net/v/t42.9040-2/10000000_370624066772840_630485088630472704_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=c37e4736b6f0f2ff1bc323cdbdc45f53&oe=5AFA1834&itag=22
 
 
 type=video
 name=Sqte-151 S-cute Breasts Pretty Festival 8 Hours
-thumb=http://javporn.to/wp-content/uploads/2017/01/10303.jpg
+thumb=http://javdub.com/wp-content/uploads/2017/01/10303.jpg
 date=2018-02-05
-URL=http://n59.yamvideo.com/168114/106a6c241b8797f52e1e77317b96a201/020-hls-part-1/appid-10303/hls.m3u8
+URL=https://video.fhan5-2.fna.fbcdn.net/v/t42.9040-2/10000000_2144204152492314_186392823208083456_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_eui2=AeGqFhIZ28i_MbCFmMTsnluCqAVjS2cWigh3KA2Vy3WigxIdo3JFiliUrMf69JIv3oSSl2owoU3uA4wl9b7NfRfuBhJ9bH_Py6ed-zgPhscqMg&oh=35558c6397a31496837c21f1b1a1c04f&oe=5AFA1093&itag=18
 
 
 type=video
 name=SQTE-089 S-Cute Girl RANKINGS-2015 TOP10
-thumb=http://javporn.to/wp-content/uploads/2016/01/4394.jpg
+thumb=http://javdub.com/wp-content/uploads/2016/01/4394.jpg
 date=2018-02-05
-URL=http://n58.yamvideo.com/14023/106a6c241b8797f52e1e77317b96a201/032-hls/appid-4394/hls.m3u8
+URL=https://video.fhan5-2.fna.fbcdn.net/v/t42.9040-2/10000000_163720207658667_1637880345195970560_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeGXGJLLoxk9foTdaK0Fa68h9_bSnlgW4NXm4TIAJ16Y-the1-YWLlsafn9xzWwpaAm2qzx7Cb1Y1p0LbV-pfGV3mD9zeNvnOQcWSpWHgIZ8jg&oh=a6e64dc0e127459f7fa1a62ac2764a82&oe=5AFA1007&itag=22
 
 
 type=video
 name=Sqte-190 S-cute Annual Sales Ranking 2017 Top 30
-thumb=http://javporn.to/wp-content/uploads/2017/12/28429.jpg
+thumb=http://javdub.com/wp-content/uploads/2017/12/28429.jpg
 date=2018-02-05
-URL=http://n57.yamvideo.com/140167/106a6c241b8797f52e1e77317b96a201/win-001-hls/appid-28429/hls.m3u8
+URL=https://video.fhan5-2.fna.fbcdn.net/v/t42.9040-2/10000000_2054870651502499_3294455093893529600_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeEBHS_VCMmGtytm0vV1alkh_7g4XQ8-Bv0qD7Sxr9-nbQyKxbMd0OlsVuFkx5vYnTLWfSOmz5Hv8tRxKEu5HrGdcqJt9K-RNgU4XK20dFZiVA&oh=253799ea562b52836f4599b72746010c&oe=5AFA2252&itag=22
 
 
 type=video
 name=Sqte-169 S-cute Girls Ranking-2017 Top 10
-thumb=http://javporn.to/wp-content/uploads/2017/06/24503.jpg
+thumb=http://javdub.com/wp-content/uploads/2017/06/24503.jpg
 date=2018-02-05
-URL=http://n61.yamvideo.com/14024/106a6c241b8797f52e1e77317b96a201/001-win/appid-24503/hls.m3u8
+URL=https://video.fhan5-2.fna.fbcdn.net/v/t42.9040-2/10000000_163720207658667_1637880345195970560_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeGXGJLLoxk9foTdaK0Fa68h9_bSnlgW4NXm4TIAJ16Y-the1-YWLlsafn9xzWwpaAm2qzx7Cb1Y1p0LbV-pfGV3mD9zeNvnOQcWSpWHgIZ8jg&oh=a6e64dc0e127459f7fa1a62ac2764a82&oe=5AFA1007&itag=22
 
 
 type=video
 name=Sqte-186 I Love You And I39m More Excited Than Usual
-thumb=http://javporn.to/wp-content/uploads/2017/10/27042.jpg
+thumb=http://javdub.com/wp-content/uploads/2017/10/27042.jpg
 date=2018-04-19
 URL=http://s82181.vodstream.xyz/3678/027-hls/appid-27042/hls.m3u8?v=3
 
@@ -499,6 +499,47 @@ name=Iene-651 Always Skirt-sheer Bra Men39s Este
 thumb=http://javdub.com/wp-content/uploads/2017/01/10223.jpg
 date=2018-05-11
 URL=http://s82181.vodstream.xyz/3675/000-hls/appid-10223/hls.m3u8?v=3
+
+type=video
+name=
+thumb=
+date=2018-05-14
+URL=
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Bsama-001 2 Hi-quality Special Tokyo Schoolgirl Cream Pies Blu-ray Disc
+thumb=http://javdub.com/wp-content/uploads/2017/03/10118.jpg
+date=2018-05-14
+URL=http://s82181.vodstream.xyz/3675/000-hls/appid-10118/hls.m3u8
+
+type=video
+name=ABP-053 Konishi Yu, Female Applicants Are Tampered
+thumb=http://javdub.com/wp-content/uploads/2016/04/5165.jpg
+date=2018-05-14
+URL=http://s947.vodstream.xyz/3675/040-hls/appid-5165/hls.m3u8
+
+type=video
+name=Club-440 Take Away Two Good Friends Bikini Gals Who Made A Huge Punishment At The Sea Tavernwhen I39m Sick, A Guy Hard Girl Friend In The Next Room Will Let Me Get Rid Of It 1
+thumb=http://javdub.com/wp-content/uploads/2018/03/29328.jpg
+date=2018-05-14
+URL=http://s947.vodstream.xyz/3678/032-hls/appid-29328/hls.m3u8?v=3
+
+type=video
+name=Ipz-973 Rear Challenginga Demon Slut Committing And Committing A Boyfriend In Front Of Her
+thumb=http://javdub.com/wp-content/uploads/2017/07/25057.jpg
+date=2018-05-14
+URL=http://s264.vodstream.xyz/3678/021-hls/appid-25057/hls.m3u8?v=3
 
 
 
