@@ -1999,16 +1999,14 @@ rtmp://tv01.thaizatv.com/drm/movie1
 http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/340/index.m3u8
 
 
-#EXTINF:-1,CNBC_Viet
-http://42.119.129.133:4022/udp/225.1.1.227:30120
-#EXTINF:-1,BBC Earth_Viet
-http://42.119.129.133:4022/udp/225.1.2.24:30120
-#EXTINF:-1,BBC Lifestyle_Viet
-http://42.119.129.133:4022/udp/225.1.2.52:30120
-#EXTINF:-1,Asian Food Channel HD_Viet
-http://42.119.129.133:4022/udp/225.1.1.198:30120
-#EXTINF:-1,Asian Food Channel HD_Viet
-http://42.119.129.133:4022/udp/225.1.2.98:30120
+
+#EXTINF:-1,BBC Earth
+http://baochinh.ml/iptv-hplus.php?kenh=bbc-e
+#EXTINF:-1,BBC Lifestyle
+http://baochinh.ml/iptv-hplus.php?kenh=bbc-ls
+#EXTINF:-1,VIP Premium HD
+http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/72/index.m3u8
+
 
 
 

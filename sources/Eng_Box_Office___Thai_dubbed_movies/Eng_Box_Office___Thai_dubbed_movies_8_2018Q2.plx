@@ -63,13 +63,17 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-05-11
+date=2018-05-14
 URL=
 
 
 
 
-
+type=video
+name=Overboard (2018) ENG 720p_HDCAM_X264_HQMic-CPG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaHknuun1VPPugkTsSfB8PejKVg.jpg
+date=2018-05-14
+URL=https://openload.co/f/BWLyxtdeuzQ/Overboard_2018_720p_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
 
 type=video
 name=Dark Crimes (2016) ENG HDRip_AC3_XviD_AIR
@@ -205,17 +209,7 @@ date=2018-03-21
 URL=https://openload.co/f/iQqZjyCB8og/10x10.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 
 
-type=video
-name=Early Man (2018) ENG 1080p.HDRip.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugw07fJIZMVrrIGeN1MO7Xecj5h.jpg
-date=2018-05-10
-URL=https://openload.co/f/lzgrbsqs8zo/Early.Man.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/mxYhm6yavGw/Early_Man.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/YGlkgbDb3sY/Early.Man.2018.1080p.READNFO.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/Nt0YWa-SJko/Early_Man.2018.READNFO.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/04Hs5gzlZAo/Early_Man_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/P3L0Og4nEbU/Early_Man_2018_NEW_HDCAM_SeeHD.avi.mp4
-#https://openload.co/f/pfbH4MrvDH4/Early_Man_2018_HDCAM_Eng_SeeHD.mkv.mp4
+
 
 
 
@@ -1364,11 +1358,40 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-09
+date=2018-05-14
 URL=
 
 
 
+
+
+type=video
+name=Early Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugw07fJIZMVrrIGeN1MO7Xecj5h.jpg
+date=2018-05-14
+URL=https://openload.co/f/eidWhbG5Y7I/Early.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://www.blazefile.co/embed-5w7obmg8qhcg.html   720
+#http://uptobox.com/j7gdk4y0niw1   720
+#https://openload.co/f/sMpII_K4bug/Early_Man_%282018%29720p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
+#https://openload.co/f/eidWhbG5Y7I/Early.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/JB1CN4mXV5I/early.man.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/iLwwrlMsEOk/early.man.2018.720p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/lzgrbsqs8zo/Early.Man.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/mxYhm6yavGw/Early_Man.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/YGlkgbDb3sY/Early.Man.2018.1080p.READNFO.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/Nt0YWa-SJko/Early_Man.2018.READNFO.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/04Hs5gzlZAo/Early_Man_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/P3L0Og4nEbU/Early_Man_2018_NEW_HDCAM_SeeHD.avi.mp4
+#https://openload.co/f/pfbH4MrvDH4/Early_Man_2018_HDCAM_Eng_SeeHD.mkv.mp4
+
+type=video
+name=Naples in Veils (2017) [COLOR=FF00FF00]ITA BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMqbcI0SSyjodE13cz72d4mD1dv.jpg
+date=2018-05-14
+URL=https://www.blazefile.co/embed-mnx8px67axx5.html
+#http://uptobox.com/8brwrtszfk17
+#https://openload.co/f/GjNRZ3MEMcY/Naples_in_Veils_%282017%291080p_BluRay_x264-BiPOLAR.Ganool.im.mkv.mp4
+#https://openload.co/f/hlTQ64muHV8/naples.in.veils.2017.1080p.bluray.x264-bipolar.mkv.mp4
 
 type=video
 name=The Whispering Star (2015) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
@@ -4760,6 +4783,7 @@ name=Nostalgia (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbvexHHFLEonIuXul2AVpnwgrZw.jpg
 date=2018-04-26
 URL=https://uptobox.com/vqehz5aijxju
+#https://openload.co/f/7WePvpCWnDg/Nostalgia.2018.720p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/00Gew_eIWsM/Nostalgia_2018_BluRay_720pBR_SeeHD.mkv.mp4
 
 
@@ -6600,10 +6624,13 @@ URL=https://streamango.com/f/laaqppbkadlbrado/Guardians_of_the_Tomb_2018_
 
 
 type=video
-name=The Monkey King 3 (2018) CHN 1080p.WEBRip.AAC2.0.x264-HQC
+name=The Monkey King 3 (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQw0pTWeplDn1TmiN4MjIxvyCR0.jpg
-date=2018-03-16
-URL=https://openload.co/f/NHbCRCfr52s/The.Monkey.King.3.Kingdom.of.Women.2018.CHINESE.1080p.WEBRip.AAC2.0.x264-HQC.mkv.mp4
+date=2018-05-14
+URL=https://www.blazefile.co/embed-lz484j62vgcx.html
+#http://uptobox.com/nlrxtf3r3ny2
+#https://openload.co/f/Ky5cgorAWGU/The.Monkey.King.III.Kingdom.of.Women.2018.BluRay.720p.850MB.Ganool.im.mkv.mp4
+#https://openload.co/f/NHbCRCfr52s/The.Monkey.King.3.Kingdom.of.Women.2018.CHINESE.1080p.WEBRip.AAC2.0.x264-HQC.mkv.mp4
 #https://openload.co/f/YKnct2h2Nxk/The.Monkey.King.3.Kingdom.of.Women.2018.HD1080P.X264.AAC.Mandarin.CHS-ENG.MF.mp4
 #https://openload.co/f/6bxFcCnr7qE/The_Monkey_King_3_2018_HDTC_EngSub_Layar.mp4
 #https://openload.co/f/YtZ2o5-0f0Q/The_Monkey_King_3_HDCAM.mp4
@@ -7271,7 +7298,7 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-05-10
+date=2018-05-14
 URL=
 
 
@@ -7281,15 +7308,55 @@ URL=
 
 
 
+type=video
+name=Captain America: Civil War (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSBXou5Ac7vEqKd97wotJumyJvU.jpg
+date=2018-05-14
+URL=https://www.blazefile.co/embed-f5zwvbc8tfo0.html
+#http://uptobox.com/pydxqpka1y06
+#https://openload.co/f/Fke2V5xCThQ/Captain_America_Civil_War_%282016%29720p_BluRay_X264-AMIABLE.Ganool.im.mkv.mp4
 
+type=video
+name=Wonder Woman (2017) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/imekS7f1OuHyUP2LAiTEM0zBzUz.jpg
+date=2018-05-14
+URL=https://www.blazefile.co/embed-3d2hyhs4y278.html
 
+type=video
+name=The Lego Batman Movie (2017) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pHOqpdCYNmtRVJs6pGKQKttrPm.jpg
+date=2018-05-14
+URL=https://www.blazefile.co/embed-uvmtvpie540r.html
 
+type=video
+name=Suicide Squad (2016) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1mjopzAS2KNsvpbpahQ1a6SkSn.jpg
+date=2018-05-14
+URL=https://www.blazefile.co/embed-7vjhnk7rmbho.html
 
+type=video
+name=Star Wars: The Force Awakens (2015) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/weUSwMdQIa3NaXVzwUoIIcAi85d.jpg
+date=2018-05-14
+URL=https://www.blazefile.co/embed-vor00sux7q47.html
 
+type=video
+name=Star Trek Beyond (2016) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLrQMqyZgLeP8FrT5LCobKAiqmK.jpg
+date=2018-05-14
+URL=https://www.blazefile.co/embed-7s5osx7u8c0x.html
 
+type=video
+name=The Jungle Book (2016) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOipe2myi26UDwP978hsYOrnUWC.jpg
+date=2018-05-14
+URL=https://www.blazefile.co/embed-ut1nzuu15h56.html
 
-
-
+type=video
+name=Zero Dark Thirty (2012) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yg6IDNucLAEj7E5loTyTnUW2pgb.jpg
+date=2018-05-14
+URL=https://openload.co/f/odDa_oK3k4o/zero.dark.thirty.2012.open.matte.720p.bluray.x264-flame.mkv.mp4
 
 type=video
 name=Casino (1995) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
