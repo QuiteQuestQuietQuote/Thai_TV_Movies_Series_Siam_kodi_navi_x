@@ -63,11 +63,18 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-05-14
+date=2018-05-15
 URL=
 
 
 
+
+type=video
+name=Disobedience (2018) ENG 720p%2BHDCAM%2BX264-SugarTtis
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPsa2odqNRz4WJVd4f8yZWui3iu.jpg
+date=2018-05-15
+URL=https://openload.co/f/N8q8Tb5VoAw/Disobedience%2B2018%2B720p%2BHDCAM%2BX264-SugarTtis.mp4
+#https://openload.co/f/CdNj7UkZ2cQ/Disobedience_2018_720p_HDCAM_X264-Rano.mp4
 
 type=video
 name=Overboard (2018) ENG 720p_HDCAM_X264_HQMic-CPG_SeeHD
@@ -1254,7 +1261,11 @@ URL=https://openload.co/f/JxJSMoOr-7o/The_Shanghai_Job_2017_BDRip_Layar.mp4
 #http://entervideo.net/watch/663df7b4d19c193
 #https://openload.co/f/0CIUo1iyESA/SMART.Chase.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
 
-
+type=video
+name=Fate/stay night: Heaven's Feel I. presage flower (2017) JAP BRRip.H264-RBB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWNc8JfVRQpPlFfGsNOCsup9SNg.jpg
+date=2018-05-15
+URL=https://openload.co/f/KmlE4oAplkM/Fate.Stay.Night.Heavens.Feel.2017.BRRip.H264-RBB.mp4
 
 
 
@@ -1262,7 +1273,7 @@ URL=https://openload.co/f/JxJSMoOr-7o/The_Shanghai_Job_2017_BDRip_Layar.mp4
 type=video
 name=
 thumb=
-date=2018-04-29
+date=2018-05-15
 URL=
 
 
@@ -1358,12 +1369,19 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-14
+date=2018-05-15
 URL=
 
 
 
 
+
+type=video
+name=Kaleidoscope (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDzdWETXeocnj1DKKZuqZUVESub.jpg
+date=2018-05-15
+URL=https://openload.co/f/aypEMCKHVY8/Kaleidoscope.2016.1080p.BRRip.x264.AC3-eSc.mp4
+#https://openload.co/f/BYERsT0WCKA/Kaleidoscope.2016.720p.BRRip.x264.AAC-eSc.mp4
 
 type=video
 name=Early Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4863,6 +4881,14 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Lc0XGNZmsFe3uA1UMqhlBiJSY4
 date=2018-05-11
 URL=https://openload.co/f/QRaT1FrcoVg/chasing.the.dragon.2017.limited.720p.bluray.x264-usury.mkv.mp4
 
+type=video
+name=Daphne & Velma (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r87VuGiJ5TSgoLxHEdvYURdbtki.jpg
+date=2018-05-15
+URL=https://openload.co/f/P_NDNrIeDZk/Daphne.and.Velma.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
+
+
+
 
 
 
@@ -7298,7 +7324,7 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-05-14
+date=2018-05-15
 URL=
 
 
@@ -7307,6 +7333,11 @@ URL=
 
 
 
+type=video
+name=Super Troopers (2001) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8Uu4bqq21onmvQx4ZsTm7dqXwq.jpg
+date=2018-05-15
+URL=https://openload.co/f/ASeav2AG6kg/Super_Troopers.2001.HD_720p.160523.mp4
 
 type=video
 name=Captain America: Civil War (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
