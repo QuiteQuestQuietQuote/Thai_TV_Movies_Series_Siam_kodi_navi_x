@@ -181,15 +181,7 @@ date=2018-03-29
 URL=https://openload.co/f/RdAhbx9rRvA/Sherlock.Gnomes.2018.HDCAM.XviD-VAiN.avi.mp4
 #https://openload.co/f/aCDwq_C0Py8/Sherlock_Gnomes_2018_HDCAM_X264_AC3-Bang.mp4
 
-type=video
-name=I Kill Giants (2018) ENG 1080p_WEB_DL_DD5_1_H264_CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuyAtPuBiKhsmXCAozfrFyMAdc4.jpg
-date=2018-03-24
-URL=https://openload.co/f/SYhcD0EeGRU/I_Kill_Giants_2017_1080p_WEB_DL_DD5_1_H264_CMRG.mp4
-#https://openload.co/f/4V0YxSgSkWs/I_Kill_Giants720pHD.WEB-DL_SeeHD.mp4
-#https://openload.co/f/vtrcS29RnhE/I.Kill.Giants.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/dCDmN6NPscA/I.Kill.Giants.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/1U_HAEH24WM/I_Kill_Giants720pHD.WEB-DL_SeeHD.mp4
+
 
 
 
@@ -1350,12 +1342,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t46PFMfKp2f9t05zx2xk4iJe2j
 date=2018-03-08
 URL=https://openload.co/f/9KZfzBEg-Wg/The_Paradise_Suite_%282015%29_hc_eng_subs_seeHD.mp4
 
-type=video
-name=A Fantastic Woman (2017) ESP EngSubs_BRRip_Layar
-thumb=https://www.themoviedb.org/movie/429191-una-mujer-fant-stica#
-date=2018-03-08
-URL=https://openload.co/f/etHWprl-sNA/Una_Mujer_Fant%C3%A1stica_2017_EngSubs_BRRip_Layar.mp4
-#https://openload.co/f/7VUvKBH0FoA/A.Fantastic.Woman..DVDRip.ubs.
+
 
 
 
@@ -1369,12 +1356,57 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-15
+date=2018-05-16
 URL=
 
 
 
 
+
+type=video
+name=I Kill Giants (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuyAtPuBiKhsmXCAozfrFyMAdc4.jpg
+date=2018-05-16
+URL=https://www.blazefile.co/embed-ut19tb40mgc9.html
+#http://uptobox.com/x7j3zhae4c1s
+#https://openload.co/f/OKSV7_1vs4Q/I_Kill_Giants_%282017%291080p_BluRay_x264-ROVERS.Ganool.im.mkv.mp4
+#https://openload.co/f/5xdkEh5mkms/I.Kill.Giants.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+#https://openload.co/f/VnfYXanvgPE/I.Kill.Giants.2017.720p.BluRay.x264-ROVERS.mkv.mp4
+#https://openload.co/f/SYhcD0EeGRU/I_Kill_Giants_2017_1080p_WEB_DL_DD5_1_H264_CMRG.mp4
+#https://openload.co/f/4V0YxSgSkWs/I_Kill_Giants720pHD.WEB-DL_SeeHD.mp4
+#https://openload.co/f/vtrcS29RnhE/I.Kill.Giants.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/dCDmN6NPscA/I.Kill.Giants.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/1U_HAEH24WM/I_Kill_Giants720pHD.WEB-DL_SeeHD.mp4
+
+type=video
+name=Maya the Bee: The Honey Games (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBfeHekIIjC4mFlark5MWJWDyZn.jpg
+date=2018-05-16
+URL=https://openload.co/f/k5eJeqG4IrA/Maya.The.Bee.The.Honey.Games.2018.1080p.BluRay.x264-ROVERS.mkv.mp4
+#https://openload.co/f/qv_nIgCDEHc/Maya.The.Bee.The.Honey.Games.2018.720p.BluRay.x264-ROVERS.mkv.mp4
+#https://www.blazefile.co/embed-9l5qizdoky73.html   720
+#http://uptobox.com/ffweprmkg67b   720
+#https://openload.co/f/MjcrGWoFhn0/Maya_the_Bee_The_Honey_Games_%282018%29720p_BluRay_x264-ROVERS.Ganool.im.mkv.mp4
+
+type=video
+name=A Fantastic Woman (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://www.themoviedb.org/movie/429191-una-mujer-fant-stica#
+date=2018-05-16
+URL=https://openload.co/f/QhBuFqHrCHs/A.Fantastic.Woman.2017.1080p.BluRay.x264-DEPTH.mkv.mp4
+#https://openload.co/f/su-O0Dyn4ng/A.Fantastic.Woman.2017.720p.BluRay.x264-DEPTH.mkv.mp4
+#https://openload.co/f/lGs1znGv4Uo/A.Fantastic.Woman.2017.SPANISH.720p.BluRay.H264.AAC-VXT.mp4
+#https://openload.co/f/etHWprl-sNA/Una_Mujer_Fant%C3%A1stica_2017_EngSubs_BRRip_Layar.mp4
+#https://openload.co/f/7VUvKBH0FoA/A.Fantastic.Woman..DVDRip.ubs.
+#https://www.blazefile.co/embed-nfakf99q1pgv.html   720
+#http://uptobox.com/u40i7npl251p
+#https://openload.co/f/bE-8NmlzjzA/A_Fantastic_Woman_%282017%29720p_BluRay_x264-DEPTH.Ganool.im.mkv.mp4
+
+type=video
+name=Daphne & Velma (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r87VuGiJ5TSgoLxHEdvYURdbtki.jpg
+date=2018-05-16
+URL=https://openload.co/f/F4ucKvL_KHw/Daphne.and.Velma.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/P_NDNrIeDZk/Daphne.and.Velma.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
 
 type=video
 name=Kaleidoscope (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1386,8 +1418,11 @@ URL=https://openload.co/f/aypEMCKHVY8/Kaleidoscope.2016.1080p.BRRip.x264.AC3-eSc
 type=video
 name=Early Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugw07fJIZMVrrIGeN1MO7Xecj5h.jpg
-date=2018-05-14
-URL=https://openload.co/f/eidWhbG5Y7I/Early.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-05-16
+URL=https://www.blazefile.co/embed-59d4g8qkkyyy.html
+#http://uptobox.com/8c7vwbq6xw7q
+#https://openload.co/f/HxeCw8IbE1c/Early_Man_%282018%291080p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
+#https://openload.co/f/eidWhbG5Y7I/Early.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://www.blazefile.co/embed-5w7obmg8qhcg.html   720
 #http://uptobox.com/j7gdk4y0niw1   720
 #https://openload.co/f/sMpII_K4bug/Early_Man_%282018%29720p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
@@ -1590,6 +1625,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYhm5wpUdKSWHybNS5953q8r6j
 date=2018-04-29
 URL=https://www.blazefile.co/embed-c30l73cf9dkh.html
 #https://uptobox.com/yhhgdlfxs49q
+#https://openload.co/f/Wg93i63rjXw/Submergence.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/yKN3kDysiP4/Submergence.2017.720p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/QLfh4IFUDLc/Submergence.2018_BDRip_Layar.mp4
 
 type=video
@@ -1610,8 +1647,11 @@ URL=https://openload.co/f/Q4oKyy1m8mM/Scarecrows.2017.1080p.BluRay.H264.AAC-RARB
 type=video
 name=Batman Ninja (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5gZEW1npI2DNE5G00LvPDDICnt.jpg
-date=2018-04-26
-URL=https://openload.co/f/D3cD0l2HbGM/Batman.Ninja.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-05-16
+URL=https://openload.co/f/gUv2jxnHGUU/Batman.Ninja.2018.1080p.BluRay.x264-NODLABS.mkv.mp4
+#https://openload.co/f/Cfe5FWJJDzQ/batman.ninja.2018.multi.1080p.bluray.x264-lost.mkv.mp4
+#https://openload.co/f/qRXRqt9DpOg/Batman.Ninja.2018.720p.BluRay.x264-NODLABS.mkv.mp4
+#https://openload.co/f/D3cD0l2HbGM/Batman.Ninja.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://www.blazefile.co/embed-jbqvcm6qao0z.html   720
 #https://uptobox.com/vmx32usapk1j   720
 
@@ -4727,8 +4767,10 @@ URL=https://openload.co/f/HZ8JFTkD2aQ/Dead.on.Arrival.2017.720pHD_SeeHD.mkv.mp4
 type=video
 name=Beyond the Edge (2018) [COLOR=FF00FF00]RUS BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/treaCPP0kGCQmTSmaHKYedZFwOO.jpg
-date=2018-04-12
-URL=https://uptobox.com/vjac4sj1f2a4
+date=2018-05-16
+URL=https://openload.co/f/0_8gYiPWFbc/Beyond.the.Edge.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/Cj0sLU7UIcE/Beyond.the.Edge.2018.720p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://uptobox.com/vjac4sj1f2a4   720
 #https://openload.co/f/ZYqlmR5Qkro/Beyond.the.Edge.2018.720p.BR_SeeHD.mp4
 #https://openload.co/f/fw3PepGzRvc/Beyond.the.edge_2017_720p_BRRip_AC3_X264-CMRG.mkv.mp4
 
@@ -4881,11 +4923,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Lc0XGNZmsFe3uA1UMqhlBiJSY4
 date=2018-05-11
 URL=https://openload.co/f/QRaT1FrcoVg/chasing.the.dragon.2017.limited.720p.bluray.x264-usury.mkv.mp4
 
-type=video
-name=Daphne & Velma (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r87VuGiJ5TSgoLxHEdvYURdbtki.jpg
-date=2018-05-15
-URL=https://openload.co/f/P_NDNrIeDZk/Daphne.and.Velma.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
+
 
 
 
@@ -5335,10 +5373,14 @@ URL=https://streamango.com/f/spkclakrpocecdfl/The_Shape_of_Water_2017_
 
 
 type=video
-name=Annihilation (2018) ENG 1080p.HDRip.X264.AC3-EVO
+name=Annihilation (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3qcpfNwbAMCNqWDHzPQsUYiUgS.jpg
-date=2018-03-21
-URL=https://openload.co/f/fdqcPJxESqU/Annihilation.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
+date=2018-05-16
+URL=https://www.blazefile.co/embed-3pg9mrcygys7.html
+#http://uptobox.com/hriqql7zfdmx
+#https://openload.co/f/T6GBIFn2mDg/Annihilation_%282018%29720p_BluRay_x264_DD5.1-HDC.Ganool.im.mkv.mp4
+#https://openload.co/f/Ks6QEqAuTww/Annihilation.2018.720p.BluRay.x264.DD5.1-HDC.mkv.mp4
+#https://openload.co/f/fdqcPJxESqU/Annihilation.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/g7uKs24qFvQ/Annihilation.2018.1080p.NF.WEBRip.x265.HEVC.6CH-MRN.mkv.mp4
 #https://openload.co/f/z25T2Zx2OII/Annihilation.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
 #https://openload.co/f/FeIZIp8ES6E/Annihilation.2018.720p.HDRip.X264.AC3-EVO.mkv.mp4
@@ -6650,11 +6692,14 @@ URL=https://streamango.com/f/laaqppbkadlbrado/Guardians_of_the_Tomb_2018_
 
 
 type=video
-name=The Monkey King 3 (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+name=The Monkey King 3 (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQw0pTWeplDn1TmiN4MjIxvyCR0.jpg
-date=2018-05-14
-URL=https://www.blazefile.co/embed-lz484j62vgcx.html
-#http://uptobox.com/nlrxtf3r3ny2
+date=2018-05-16
+URL=https://www.blazefile.co/embed-oonc8i56w42a.html
+#http://uptobox.com/mayoeywq2jye
+#https://openload.co/f/rF7Rg7SiRyE/The.Monkey.King.III.Kingdom.of.Women.2018.BluRay.1080p.5.1CH.x264.Ganool.im.mkv   MKV1.7GB
+#https://www.blazefile.co/embed-lz484j62vgcx.html   720
+#http://uptobox.com/nlrxtf3r3ny2   720
 #https://openload.co/f/Ky5cgorAWGU/The.Monkey.King.III.Kingdom.of.Women.2018.BluRay.720p.850MB.Ganool.im.mkv.mp4
 #https://openload.co/f/NHbCRCfr52s/The.Monkey.King.3.Kingdom.of.Women.2018.CHINESE.1080p.WEBRip.AAC2.0.x264-HQC.mkv.mp4
 #https://openload.co/f/YKnct2h2Nxk/The.Monkey.King.3.Kingdom.of.Women.2018.HD1080P.X264.AAC.Mandarin.CHS-ENG.MF.mp4
@@ -7324,14 +7369,52 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-05-15
+date=2018-05-16
 URL=
 
 
 
 
 
+type=video
+name=Reservoir Dogs (1992) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7spS2Y4SZoQoC6Hn7zoqEqdYqR.jpg
+date=2018-05-16
+URL=https://openload.co/f/HcsEUg1EKfI/Reservoir_Dogs.1992.HD_1080p.mp4
 
+type=video
+name=Se7en (1995) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgB9CCTDlXRv50Z70ZI4elJtNEk.jpg
+date=2018-05-16
+URL=https://openload.co/f/D_T_kUSuspM/Se7en.1995.HD_1080p.mp4
+
+type=video
+name=Swordfish (2001) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJdI3eau8BHgTsrUbAeccnKn0ez.jpg
+date=2018-05-16
+URL=https://openload.co/f/gXR2jQBFcJk/Swordfish.2001.HD_720p.mp4
+
+type=video
+name=Titanic (1997) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHXEpyfl6zqn8a6YuozZUujufXf.jpg
+date=2018-05-16
+URL=https://www.blazefile.co/embed-34cj1qj1g6l2.html
+#http://uptobox.com/qwrkhmxu87k4
+#https://openload.co/f/YgVDBSXpptA/Titanic_%281997%29Open_Matte_1080p_BluRay_x264_DTS-FGT.Ganool.im.mkv.mp4
+
+type=video
+name=Enter the Dragon (1973) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6C006cxfwjWYkBW4fM3xCMyr7Yg.jpg
+date=2018-05-16
+URL=http://uptobox.com/clolwx3uh1td
+#https://openload.co/f/BAsqgT6pEXk/Enter.the.Dragon.1973.BluRay.1080p.5.1CH.x264.Ganool.im.mkv.mp4
+
+type=video
+name=Deadpool (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/inVq3FRqcYIRl2la8iZikYYxFNR.jpg
+date=2018-05-16
+URL=https://openload.co/f/3Trj1X1UdT0/Deadpool.2016.1080p.Br_SeeHD.mp4
+#https://openload.co/f/mL95UkuRR4A/Deadpool.2016.720p.Br_SeeHD.mp4
 
 type=video
 name=Super Troopers (2001) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
