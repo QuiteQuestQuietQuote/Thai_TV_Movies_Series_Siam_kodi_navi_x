@@ -63,11 +63,20 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-05-15
+date=2018-05-17
 URL=
 
 
 
+
+
+type=video
+name=Deadpool 2 (2018) ENG 720p_New_HDCAM-X264-AC3_Cleaned-Bobi_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
+date=2018-05-17
+URL=https://openload.co/f/NpRKO6OnUQ0/Deadpool_2_2018_720p_New_HDCAM-X264-AC3_Cleaned-Bobi_SeeHD.mkv.mp4
+#https://openload.co/f/UliAIS5sWpU/Deadpool_2_%282018%29_English_HDTS_-_720p_-_x264_-_AC3_-_2.4GB.mkv.mp4
+#https://openload.co/f/Zb_meIBKWic/Deadpool_2_%282018%29720p_TS_ENG_X264-1xbit.Ganool.im.mkv.mp4
 
 type=video
 name=Disobedience (2018) ENG 720p%2BHDCAM%2BX264-SugarTtis
@@ -162,15 +171,7 @@ URL=https://openload.co/f/4rP4kBfw7no/A.Quiet.Place.2018.NOLOGO.NEW.HDCAM.ENG.X2
 #https://openload.co/f/bxT6UUfg6Cg/A_Quiet_Place_%282018%29_New_Movie_CAM_x264_AC3_by_Full4movies.mp4
 #https://openload.co/f/4oOgXQX4jy4/A_Quiet_Place_%282018%29_CAM_SpaceMov.is
 
-type=video
-name=Forever My Girl (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcushpAgo51nTpBAuTygLxiJ80h.jpg
-date=2018-04-10
-URL=https://openload.co/f/4uXC5Xkr1BM/forever.my.girl.2018.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/jntGcCw3YcU/forever.my.girl.2018.720p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/gK5lVEWUE5s/forever.my.girl.2018.1080p.bluray.x264-drones.mkv   MKV7.6GB
-#https://openload.co/f/qdg9hSm8H6k/forever.my.girl.2018.720p.bluray.x264-drones.mkv   KMV5.5GB
-#https://openload.co/f/m5bXbfSbqRw/Forever_My_Girl_2018_1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+
 
 
 
@@ -1362,6 +1363,29 @@ URL=
 
 
 
+type=video
+name=Forever My Girl (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcushpAgo51nTpBAuTygLxiJ80h.jpg
+date=2018-05-17
+URL=https://openload.co/f/4uXC5Xkr1BM/forever.my.girl.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://www.blazefile.co/embed-ukub2jmm3osy.html   720
+#http://uptobox.com/qdg1anpr5t91   720
+#https://openload.co/embed/ss4a4ZNypNM/SHQFOREVERMYGIRLBD72.Ganool.im.mkv
+#https://openload.co/f/4uXC5Xkr1BM/forever.my.girl.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/jntGcCw3YcU/forever.my.girl.2018.720p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/gK5lVEWUE5s/forever.my.girl.2018.1080p.bluray.x264-drones.mkv   MKV7.6GB
+#https://openload.co/f/qdg9hSm8H6k/forever.my.girl.2018.720p.bluray.x264-drones.mkv   KMV5.5GB
+#https://openload.co/f/m5bXbfSbqRw/Forever_My_Girl_2018_1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+
+type=video
+name=Ghost Net (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtwJbCL8fahekBuYO6K2jvPs318.jpg
+date=2018-05-17
+URL=https://www.blazefile.co/embed-1hc6gk58rr3g.html
+#http://uptobox.com/o72wwb9vrx7q
+#https://openload.co/embed/uNETbIceHiE/Ghost.Net.2017.BluRay.1080p.5.1CH.x264.Ganool.im.mkv.mp4
+#https://www.blazefile.co/embed-83qiwd7mo7hc.html   720
+#https://uptobox.com/1mlhrl16fhuy   720
 
 type=video
 name=I Kill Giants (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1381,8 +1405,11 @@ URL=https://www.blazefile.co/embed-ut19tb40mgc9.html
 type=video
 name=Maya the Bee: The Honey Games (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBfeHekIIjC4mFlark5MWJWDyZn.jpg
-date=2018-05-16
-URL=https://openload.co/f/k5eJeqG4IrA/Maya.The.Bee.The.Honey.Games.2018.1080p.BluRay.x264-ROVERS.mkv.mp4
+date=2018-05-17
+URL=https://www.blazefile.co/embed-apfrq7q32nad.html
+#http://uptobox.com/phuulfpr0k6j
+#https://openload.co/embed/Pr4FevJL_mo/MAYATHEBEEHONEYGAMES80.Ganool.im.mkv
+#https://openload.co/f/k5eJeqG4IrA/Maya.The.Bee.The.Honey.Games.2018.1080p.BluRay.x264-ROVERS.mkv.mp4
 #https://openload.co/f/qv_nIgCDEHc/Maya.The.Bee.The.Honey.Games.2018.720p.BluRay.x264-ROVERS.mkv.mp4
 #https://www.blazefile.co/embed-9l5qizdoky73.html   720
 #http://uptobox.com/ffweprmkg67b   720
@@ -4883,12 +4910,7 @@ URL=https://www.blazefile.co/embed-gmbqn4293cmx.html
 #https://openload.co/f/xvVshZnj15E/the.insult.2017.720pbr_SeeHD.mp4
 #https://openload.co/f/9VOZs2aZ9As/the.insult.2017.720p.bluray.x264-cinefile.mkv.mp4
 
-type=video
-name=Ghost Net (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtwJbCL8fahekBuYO6K2jvPs318.jpg
-date=2018-05-05
-URL=https://www.blazefile.co/embed-83qiwd7mo7hc.html
-#https://uptobox.com/1mlhrl16fhuy
+
 
 type=video
 name=Freehold (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -6517,10 +6539,12 @@ URL=https://streamango.com/f/nnmdsqqllmcskfol/Peter_Rabbit_2018_
 
 
 type=video
-name=Pacific Rim: Uprising (2018) ENG 720p.HC.HDRip.X264.AC3-EVO_SeeHD
+name=Pacific Rim: Uprising (2018) ENG 1080.HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
-date=2018-04-18
-URL=https://openload.co/f/ULC-jPIyFbc/Pacific_Rim_Uprising.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-05-17
+URL=https://openload.co/f/KO_tepiSpW8/Pacific.Rim.2.Uprising.2018.1080.HD_SeeHD.mkv.mp4
+#https://openload.co/f/k7FQwIj8_-g/Pacific.Rim.2.Uprising.2018.1080p.WEB-DL.H264.AC3-EVO.HDMovie8.mp4
+#https://openload.co/f/ULC-jPIyFbc/Pacific_Rim_Uprising.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/EFgnOgvwcgA/Pacific.Rim.2.Uprising.2018.720p.HC.HDRiP.AC3.x264-LEGi0N.mkv   MKV3.2GB
 #https://openload.co/f/G_bzG6nas54/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/At_l9Qy_hUw/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG.mp4
@@ -6697,6 +6721,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQw0pTWeplDn1TmiN4MjIxvyCR
 date=2018-05-16
 URL=https://www.blazefile.co/embed-oonc8i56w42a.html
 #http://uptobox.com/mayoeywq2jye
+#https://openload.co/f/qIJDcA5lhH0/The.Monkey.King.III.Kingdom.of.Women.2018.BluRay.1080p.5.1CH.x264.Ganool.im.mkv.mp4
 #https://openload.co/f/rF7Rg7SiRyE/The.Monkey.King.III.Kingdom.of.Women.2018.BluRay.1080p.5.1CH.x264.Ganool.im.mkv   MKV1.7GB
 #https://www.blazefile.co/embed-lz484j62vgcx.html   720
 #http://uptobox.com/nlrxtf3r3ny2   720
@@ -6742,6 +6767,9 @@ URL=https://openload.co/f/ptiphinN5jw/bleeding.steel.2017.dubbed.1080p.bluray.x2
 #https://openload.co/f/v-lZiSdTUWg/Bleeding.Steel.2017.720.V2.HC.HDRip.AC3-EVO.mkv.mp4
 #https://openload.co/f/rbcKgVNRwDo/Bleeding.Steel.2017.720P.HDTC.X264.AAC-Zi%24t.mkv.mp4
 #https://openload.co/f/haSIIRCGox8/BLEEDING_STEEL_2017_CAMRIP_X264_MP3_Zit.E.mp4
+#https://www.blazefile.co/embed-9jac3g2cgwhn.html   720
+#http://uptobox.com/1wopcnqr3ib0   720
+#https://openload.co/embed/AhtkE21r9nY/Bleeding.Steel.2017.BluRay.720p.950MB.Ganool.im.mkv.mp4
 type=video
 name=Bleeding Steel (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1O26qVwkhSlicycBBK731k8vPd.jpg
@@ -7180,6 +7208,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMN
 date=2018-04-09
 URL=https://www.blazefile.co/embed-2qi62ksenzre.html
 #https://uptobox.com/2zaqbfy84d6v
+#https://openload.co/f/l3LLi3ndr8M/The.Commuter.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/BGzrw-TQX64/The.Commuter.2018.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/RVZv7EDvmH0/The.Commuter.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/WXbOAZol0FI/The.Commuter.2018.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/P81K6HeA9Vc/The.Commuter.2018.720p.BluRay.H264.AAC-RARBG.mp4
@@ -7369,12 +7399,29 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-05-16
+date=2018-05-17
 URL=
 
 
 
 
+type=video
+name=Labyrinth (1986) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/40D6CVNGYbIgg7Sdt1jAYkFA08d.jpg
+date=2018-05-17
+URL=https://openload.co/f/C8a5z1zGPcQ/Labyrinth.1986.HD_720p.mp4
+
+type=video
+name=Sicario (2015) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2SdfGmQRaw8xhFbexlHL7srMM8.jpg
+date=2018-05-17
+URL=https://openload.co/f/IDj0pgkasBc/Sicario.2015.HD_720p.mp4
+
+type=video
+name=Logan (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGBu0hKw9BGddG8RkRAMX7B6NDB.jpg
+date=2018-05-17
+URL=https://openload.co/f/-oVJXorpakA/Logan.2017.1080p.BR_SeeHD.mp4
 
 type=video
 name=Reservoir Dogs (1992) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7395,11 +7442,15 @@ date=2018-05-16
 URL=https://openload.co/f/gXR2jQBFcJk/Swordfish.2001.HD_720p.mp4
 
 type=video
-name=Titanic (1997) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Titanic (1997) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHXEpyfl6zqn8a6YuozZUujufXf.jpg
-date=2018-05-16
-URL=https://www.blazefile.co/embed-34cj1qj1g6l2.html
-#http://uptobox.com/qwrkhmxu87k4
+date=2018-05-17
+URL=https://www.blazefile.co/embed-54wgspowoq1o.html
+#http://uptobox.com/8so9a24zlpqf
+#https://openload.co/embed/i16Zj66q9j8/SHQTITANICOPENMATTE80.Ganool.im.mkv
+#https://www.blazefile.co/embed-34cj1qj1g6l2.html   720
+#http://uptobox.com/qwrkhmxu87k4   720
+#https://openload.co/f/neIn5m74A2c/Titanic_%281997%29Open_Matte_1080p_BluRay_x264_DTS-FGT.Ganool.im.mkv.mp4
 #https://openload.co/f/YgVDBSXpptA/Titanic_%281997%29Open_Matte_1080p_BluRay_x264_DTS-FGT.Ganool.im.mkv.mp4
 
 type=video
