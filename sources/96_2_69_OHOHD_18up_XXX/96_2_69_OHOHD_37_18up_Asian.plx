@@ -49,6 +49,312 @@ URL=
 
 
 
+
+
+
+
+
+
+
+type=video
+name=124xxxxxxxxxxxxxxxxxxxxMother Was Taken Down (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Mother-Was-Taken-Down-2017.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/reeadpbclrracepn/
+
+type=video
+name=Virgin
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Virgin.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/clmmfbssrpbrcqor/
+
+type=video
+name=Bupyong Karaoke first picture 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Bupyong-Karaoke-first-picture.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/lfrnpmrsrettrfoo/
+
+type=video
+name=Her wet panties
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Her-wet-panties.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/tbcqskcqskofdaqt/
+
+type=video
+name=Gender counseling 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Gender-counseling.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/omrkttktflsdsart/
+
+
+type=video
+name=A girlfriend in the wild 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/A-girlfriend-in-the-wild.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/dqfpcrnareptsepb/
+
+type=video
+name=Sleeping man
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Sleeping-man.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/odkqaqotktpmmmft/
+
+type=video
+name=Make sex videos of sexy couples
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Make-sex-videos-of-sexy-couples.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/tmeodoeeftsmoqkt/
+
+type=video
+name=Yadong study 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Yadong-study.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/kbkonosmpqaqrsfk/
+
+type=video
+name=I’m more excited to be here
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Im-more-excited-to-be-here.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/lrcqtmrepasecako/
+
+
+type=video
+name=Korean mi 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Korean-mi.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/ncndbbmbootlabdf/
+
+type=video
+name=A good-for-nothing 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/A-good-for-nothing.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/stkasbfloenkocdm/
+
+type=video
+name=Burning rookie actor M’s first shot 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Burning-rookie-actor-Ms-first-shot.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/lesfrkalklqnssat/
+
+type=video
+name=In auntie
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/In-auntie.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/rpoecapssdlamakf/
+
+type=video
+name=How to shoot sex 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/How-to-shoot-sex.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/pnfdcmqqcbtprcmq/
+
+
+type=video
+name=Good day to have sex 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Good-day-to-have-sex.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/nsdrkmocsmmscltp/
+
+type=video
+name=A friend I met at a motel
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/A-friend-I-met-at-a-motel.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/qbtqkkbmfrqepfko/
+
+type=video
+name=The girl sucks in imagination
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/The-girl-sucks-in-imagination.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/fsntbasbkapekqpt/
+
+type=video
+name=You and I, East and West
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/You-and-I-East-and-West.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/asornoqqpdqckmkt/
+
+type=video
+name=Because of him
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Because-of-him.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/lmltdkrrtslcqolt/
+
+
+
+
+
+
+
+
+
+type=video
+name=104xxxxxxxxxxxxxxxxxxxxSelf-crafted
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Self-crafted-%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%A7-Gonzo-0.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/kpnffnpeqtatbdaq/
+
+type=video
+name=How to become an erophy
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/How-to-become-an-erophy-%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%A7-0.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/ofrtrsrmblppklap/
+
+type=video
+name=What is your sex horoscope
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/What-is-your-sex-horoscope-%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%A2-0.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/aflrlpkckkbltksl/
+
+type=video
+name=Sex Games
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Sex-Games-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%A7-0.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/tpmqrpcesnderdmp/
+
+type=video
+name=Their Sex Therapy 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Their-Sex-Therapy-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B3%E0%B8%9A%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%A7%E0%B8%81%E0%B9%80%E0%B8%82%E0%B8%B2-0.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/fkdaaefsmafsapca/
+
+
+type=video
+name=I saw her
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/I-saw-her-%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%99%E0%B9%88%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B9-0.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/spslqsecodecdkrq/
+
+type=video
+name=Masturbation friend 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Masturbation-friend-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%9E%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B9%87%E0%B8%94-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%A7-0.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/etnsdokrfedbnorq/
+
+type=video
+name=Turn your self up
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Turn-your-self-up-%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%A2-0.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/trqmeaetnkbdnobc/
+
+type=video
+name=Jeongsa Anaeui Chingu (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Jeongsa-Anaeui-Chingu-2018.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/tqktrscpbdfrdems/
+
+type=video
+name=2 Days 1 Night (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/2-Days-1-Night-2017.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/ofeanknbfmnarnbf/
+
+
+type=video
+name=Ttal Ui Aein (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Ttal-Ui-Aein-2018.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/sqtmldloletsoptk/
+
+type=video
+name=Anaeui Oedo Gamdogpan (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Anaeui-Oedo-Gamdogpan-2018.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/skbqamoorqnfpard/
+
+type=video
+name=Delicious Sex And Girlfriend (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Delicious-Sex-And-Girlfriend-2018-Uncut.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/trrfboerplofbesn/
+
+type=video
+name=Yeodongsaengchingu (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Yeodongsaengchingu-2018.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/onnbpceflfbmcaps/
+
+type=video
+name=Dual life (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Dual-life-2017.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/rlnakkdraarkmofq/
+
+
+type=video
+name=Just Want to Fuck My Brother’s Wife (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Just-Want-to-Fuck-My-Brothers-Wife-2017.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/qrrmsbdeffnbomed/
+
+type=video
+name=Nae Eommaui Chingu (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Nae-Eommaui-Chingu-2017.jpg
+date=2018-05-18
+URL=https://openload.co/embed/X1ZP9VLVJ1Q/
+
+type=video
+name=Wan Byeog Han Seg S Ui Mas (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Wan-Byeog-Han-Seg-S-Ui-Mas-2017-Uncut.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/reqdsomsnespqrqr/
+
+type=video
+name=Tokyo Whore (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Tokyo-Whore-2016.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/pocalfcslltrnfek/
+
+type=video
+name=The Mother Of A Friend An Intolerable Day (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/The-Mother-Of-A-Friend-An-Intolerable-Day-2017-Uncut.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/akrpkssklsscfdqr/
+
+
+
+
+
+
+
+
+
+
+type=video
+name=84xxxxxxxxxxxxxxxxxxxxWomen Satisfaction With Sex (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Women-Satisfaction-With-Sex-2017-Uncut.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/cdkbqolrccbpcepk/
+
+type=video
+name=Tajjaui Mogjeog (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Tajjaui-Mogjeog-2017.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/nnoorssmaqafdbmp/
+
+type=video
+name=A Sexual Education Of A Beautiful And Irritating Lady 3 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/A-Sexual-Education-Of-A-Beautiful-And-Irritating-Lady-3-2017.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/aaqmppqadtmcqfos/
+
+type=video
+name=Tumagaonnanimierudoki (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Tumagaonnanimierudoki-2017.jpg
+date=2018-05-18
+URL=https://streamcherry.com/embed/bpecrmkceannpmfr/
+
+
+
+
+
+
+
+
+
+
+
+
+
 type=video
 name=80xxxxxxxxxxxxxxxxxxxxAnaeui Eomma (2018) 
 thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Anaeui-Eomma-2018.jpg
