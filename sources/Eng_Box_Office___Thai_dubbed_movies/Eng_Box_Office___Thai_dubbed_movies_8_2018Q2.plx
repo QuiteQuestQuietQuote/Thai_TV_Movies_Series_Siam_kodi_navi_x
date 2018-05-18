@@ -92,10 +92,11 @@ date=2018-05-14
 URL=https://openload.co/f/BWLyxtdeuzQ/Overboard_2018_720p_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
 
 type=video
-name=Dark Crimes (2016) ENG HDRip_AC3_XviD_AIR
+name=Dark Crimes (2016) ENG 1080p.AMZN.WEB-DL.DDP5.1.H.264-NTGb
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJSsTFvccBmqp9t9IFauXA3wWK7.jpg
-date=2018-05-11
-URL=https://openload.co/f/wRdRLUn7iFE/Dark_Crimes_%282016%29_HDRip_AC3_XviD_AIR.avi.mp4
+date=2018-05-18
+URL=https://openload.co/f/60EYPNT5tRE/True.Crimes.2016.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTGb.mp4
+#https://openload.co/f/wRdRLUn7iFE/Dark_Crimes_%282016%29_HDRip_AC3_XviD_AIR.avi.mp4
 
 type=video
 name=The Escape (2018) ENG 720p.WEB-DL.H264.AC3-EVO_SeeHD
@@ -1545,6 +1546,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUqimeu4KzFeqTvblNLvG8Y1DA
 date=2018-05-09
 URL=https://www.blazefile.co/embed-60ifda5atbwf.html
 #https://uptobox.com/1f1aay1k57r0
+#https://openload.co/f/AoDmWmwqNds/Bent.2018.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/jdRoPrOfpRY/Bent.2018.1080p.BR_SeeHD.mp4
 
 type=video
@@ -6758,8 +6760,11 @@ URL=https://streamango.com/f/blonnaontoptfqls/Fairy_Tail_Movie_2_Dragon_Cry_2017
 type=video
 name=Bleeding Steel (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1O26qVwkhSlicycBBK731k8vPd.jpg
-date=2018-05-03
-URL=https://openload.co/f/ptiphinN5jw/bleeding.steel.2017.dubbed.1080p.bluray.x264-pussyfoot.mkv.mp4
+date=2018-05-18
+URL=https://www.blazefile.co/embed-a3aem8nmrg0o.html
+#http://uptobox.com/eejykw27bdsv
+#https://openload.co/embed/DjjrG8YWGHQ/GHPBLEEDINGSTEEL80.Ganool.im.mkv.mp4
+#https://openload.co/f/ptiphinN5jw/bleeding.steel.2017.dubbed.1080p.bluray.x264-pussyfoot.mkv.mp4
 #https://openload.co/f/4ZAW7exvbwc/Bleeding.Steel.2017.DUBBED.BDRip.x264-PussyFoot.mkv.mp4
 #https://openload.co/f/29pJb9WpP1g/Bleeding.Steel.2017.720pHD_SeeHD.mp4
 #https://openload.co/f/WIadstM69XA/Bleeding%2520Steel.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
@@ -7399,11 +7404,18 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-05-17
+date=2018-05-18
 URL=
 
 
 
+
+
+type=video
+name=Hurricane Bianca (2016) [COLOR=FF00FF00]ENG HD 338MB[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1QM09R1TqwHTb5UA8X8jR2yh4x.jpg
+date=2018-05-18
+URL=https://openload.co/f/VVj_HEY-c0k/Hurricane_Bianca.mp4
 
 type=video
 name=Labyrinth (1986) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
