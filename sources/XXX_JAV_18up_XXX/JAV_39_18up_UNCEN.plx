@@ -40,7 +40,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-06
+date=2018-05-20
 URL=
 
 
@@ -50,6 +50,50 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=CARIB 101714-714 Tsubaki Kato
+thumb=http://javdub.com/wp-content/uploads/2016/10/547.jpg
+date=2018-05-20
+URL=http://s947.vodstream.xyz/3675/040-hls/appid-547/hls.m3u8
+
+type=video
+name=Tokyo Hot N1093 Big Boobs Hard Acme Play
+thumb=http://javdub.com/wp-content/uploads/2016/10/2910.jpg
+date=2018-05-20
+URL=http://s947.vodstream.xyz/3678/032-hls/appid-2910/hls.m3u8
+
+type=video
+name=HEYZO-0881 Mikuni Maisaki
+thumb=http://javdub.com/wp-content/uploads/2016/10/727.jpg
+date=2018-05-20
+URL=https://video.fhan5-2.fna.fbcdn.net/v/t42.9040-2/10000000_204975853585919_3195095780029366272_n.mp4?_nc_cat=0&efg=eyJybHIiOjE2NDcsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJzdmVfaGQifQ%3D%3D&rl=1647&vabr=1098&oh=9b44e53d570f567ccba3aa14dcfd0019&oe=5B046D25&itag=22
+
+type=video
+name=CARIBPR 041715-177 Minori Ichikawa
+thumb=http://javdub.com/wp-content/uploads/2016/10/702.jpg
+date=2018-05-20
+URL=http://s947.vodstream.xyz/3678/031-hls/appid-2827/hls.m3u8?v=3
+
+type=video
+name=CARIBPR 061215-253 Chihiro Akino
+thumb=http://javdub.com/wp-content/uploads/2016/10/705.jpg
+date=2018-05-20
+URL=http://s947.vodstream.xyz/3678/031-hls/appid-2834/hls.m3u8?v=3
 
 
 

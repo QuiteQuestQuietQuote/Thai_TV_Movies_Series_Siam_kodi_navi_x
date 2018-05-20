@@ -403,10 +403,11 @@ URL=
 
 
 type=video
-name=Detective Chinatown 2 (2018) CHN WEB-DL.1080P.H264.AAC
+name=Detective Chinatown 2 (2018) CHN 720p.WEB-DL.850MB.Ganool.im
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JBftHNBnLHgqwHLiojuVSsRNpS.jpg
 date=2018-04-22
-URL=https://openload.co/f/s0IGNSki-Yc/Detective.Chinatown.Vol_2.2018.WEB-DL.1080P.H264.AAC.mp4
+URL=https://openload.co/f/h2cqEPzYsco/Detective.Chinatown.Vol_2.2018.720p.WEB-DL.850MB.Ganool.im.mkv.mp4
+#https://openload.co/f/s0IGNSki-Yc/Detective.Chinatown.Vol_2.2018.WEB-DL.1080P.H264.AAC.mp4
 
 type=video
 name=Mrs. Hyde (2018) FRE TS.XviD_F4NTASTiC.E
@@ -1358,17 +1359,41 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-16
+date=2018-05-20
 URL=
 
 
 
 
+
+type=video
+name=Havenhurst (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXJt4mSbDcp7N08zePZuOSUZhFm.jpg
+date=2018-05-20
+URL=https://openload.co/f/yCdQOAzn6IE/Havenhurst.2016.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+#https://www.blazefile.co/embed-z5c62kuoj7yr.html   720
+#http://uptobox.com/tf079z9621k1   720
+#https://openload.co/embed/0rGMBMI-I1o/HANVENGURSTBD72.Ganool.im.mkv.mp4
+
+type=video
+name=Swinging Safari (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zs9wcNHidBPhcTmiWzXuFam823v.jpg
+date=2018-05-20
+URL=https://openload.co/f/sTDtqepM4F8/Swinging.Safari.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Misconduct (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2bxPatpVigWtvfR4VdmAdB3vUV.jpg
+date=2018-05-20
+URL=https://openload.co/f/roVapUHp39g/Misconduct.2016.1080p.BluRay.x264-ROVERS.mkv.mp4
+
 type=video
 name=Forever My Girl (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcushpAgo51nTpBAuTygLxiJ80h.jpg
-date=2018-05-17
-URL=https://openload.co/f/4uXC5Xkr1BM/forever.my.girl.2018.1080p.bluray.x264-drones.mkv.mp4
+date=2018-05-20
+URL=https://www.blazefile.co/embed-zu57ptxjh628.html
+#http://uptobox.com/gm856z2geti7
+#https://openload.co/f/4uXC5Xkr1BM/forever.my.girl.2018.1080p.bluray.x264-drones.mkv.mp4
 #https://www.blazefile.co/embed-ukub2jmm3osy.html   720
 #http://uptobox.com/qdg1anpr5t91   720
 #https://openload.co/embed/ss4a4ZNypNM/SHQFOREVERMYGIRLBD72.Ganool.im.mkv
@@ -4947,7 +4972,13 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Lc0XGNZmsFe3uA1UMqhlBiJSY4
 date=2018-05-11
 URL=https://openload.co/f/QRaT1FrcoVg/chasing.the.dragon.2017.limited.720p.bluray.x264-usury.mkv.mp4
 
-
+type=video
+name=Youth (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/G3mFcK0VfGpJ3wtNXDqJnYiG11.jpg
+date=2018-05-20
+URL=https://www.blazefile.co/embed-e395tlj5pcfx.html
+#http://uptobox.com/vr89sd3ls7ea
+#https://openload.co/f/PEKXbbLwZ-4/Fang.Hua.2017.BluRay.720p.950MB.Ganool.im.mkv.mp4
 
 
 
@@ -4957,7 +4988,7 @@ URL=https://openload.co/f/QRaT1FrcoVg/chasing.the.dragon.2017.limited.720p.blura
 type=video
 name=
 thumb=
-date=2018-05-11
+date=2018-05-20
 URL=http://203.162.235.41:17819
 
 
@@ -5397,11 +5428,18 @@ URL=https://streamango.com/f/spkclakrpocecdfl/The_Shape_of_Water_2017_
 
 
 type=video
-name=Annihilation (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Annihilation (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3qcpfNwbAMCNqWDHzPQsUYiUgS.jpg
-date=2018-05-16
-URL=https://www.blazefile.co/embed-3pg9mrcygys7.html
-#http://uptobox.com/hriqql7zfdmx
+date=2018-05-20
+URL=https://www.blazefile.co/embed-55komgt61nwl.html
+#http://uptobox.com/hoscyqdgvllx
+#https://openload.co/embed/5DPp_4cYLfw/GHPANNIHILATION80.Ganool.im.mkv
+#https://openload.co/f/3PT620__N18/annihilation.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/7ngfuLXJl2w/annihilation.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/MPj6vB_GCiE/annihilation.2018.720p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/Nouo8gei1PE/Annihilation.2018.720p.BluRay.x264.DD5.1-HDC.mkv.mp4
+#https://www.blazefile.co/embed-3pg9mrcygys7.html   720
+#http://uptobox.com/hriqql7zfdmx   720
 #https://openload.co/f/T6GBIFn2mDg/Annihilation_%282018%29720p_BluRay_x264_DD5.1-HDC.Ganool.im.mkv.mp4
 #https://openload.co/f/Ks6QEqAuTww/Annihilation.2018.720p.BluRay.x264.DD5.1-HDC.mkv.mp4
 #https://openload.co/f/fdqcPJxESqU/Annihilation.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
@@ -7818,8 +7856,11 @@ URL=https://openload.co/f/FX-41DK5SO8/Pans.Labyrinth.2006.mHD.BluRay.DD5.1.x264_
 type=video
 name=Avatar (2009) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmcqlZGaSh20zpTbuoF0Cdn07dT.jpg
-date=2018-04-26
-URL=https://openload.co/f/mY5oz51Jduk/Avatar.2009.EXTENDED.1080p.br_SeeHD.mp4
+date=2018-05-20
+URL=https://www.blazefile.co/embed-zmniagpyst79.html
+#http://uptobox.com/6v1izofduta1
+#https://openload.co/embed/KcIs4Me27FU/Avatar.2009.EXTENDED.BluRay.1080p.5.1CH.x264.Ganool.is.mkv.mp4
+#https://openload.co/f/mY5oz51Jduk/Avatar.2009.EXTENDED.1080p.br_SeeHD.mp4
 #https://openload.co/f/8X9MdzLN65o/Avatar_%282009%29_1080p.mp4
 
 type=video
