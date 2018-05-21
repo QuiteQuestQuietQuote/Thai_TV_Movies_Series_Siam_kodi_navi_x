@@ -1997,7 +1997,7 @@ rtmp://tv01.thaizatv.com/drm/movie1
 http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/340/index.m3u8
 
 #EXTINF:-1,saradee
-http://symc-cdn02.bkk02.violin.co.th:1935/liveedge/292277143069_600/chunklist_w1329996108.m3u8
+http://symc-cdn04.bkk02.violin.co.th:1935/liveedge/292277143069_600/chunklist_w1619719738.m3u8
 
 #EXTINF:-1,Toonami_ind
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD327L240P/playlist.m3u8
@@ -2014,7 +2014,7 @@ http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/30/index
 
 
 #EXTINF:-1,saradee
-rtmp://symc-cdn02.bkk02.violin.co.th:1935/liveedge
+rtmp://symc-cdn04.bkk02.violin.co.th:1935/liveedge
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
 http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth_KOR

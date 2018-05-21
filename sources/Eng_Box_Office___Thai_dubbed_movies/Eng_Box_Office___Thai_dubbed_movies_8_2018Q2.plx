@@ -70,13 +70,9 @@ URL=
 
 
 
-type=video
-name=Deadpool 2 (2018) ENG 720p_New_HDCAM-X264-AC3_Cleaned-Bobi_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
-date=2018-05-17
-URL=https://openload.co/f/NpRKO6OnUQ0/Deadpool_2_2018_720p_New_HDCAM-X264-AC3_Cleaned-Bobi_SeeHD.mkv.mp4
-#https://openload.co/f/UliAIS5sWpU/Deadpool_2_%282018%29_English_HDTS_-_720p_-_x264_-_AC3_-_2.4GB.mkv.mp4
-#https://openload.co/f/Zb_meIBKWic/Deadpool_2_%282018%29720p_TS_ENG_X264-1xbit.Ganool.im.mkv.mp4
+
+
+
 
 type=video
 name=Disobedience (2018) ENG 720p%2BHDCAM%2BX264-SugarTtis
@@ -129,18 +125,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/veZszwMZu8d3WMU6TJX9sV5w1Y
 date=2018-05-05
 URL=https://openload.co/f/0pXMwyBF2m4/I_Can_Only_Imagine_2018_HDCAM_ENG_X264_HQMic-SugarTits_SeeHD.mkv.mp4
 
-type=video
-name=Anon (2018) ENG 720p.web.x264-strife_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIST7FwpELT1SXR3cVSy5JoOSby.jpg
-date=2018-05-05
-URL=https://openload.co/f/_7TdU2KCmvw/anon.2018.720p.web.x264-strife_SeeHD.mkv.mp4
-#https://openload.co/f/ldcELkiTR-8/Anon.2018.720p.HDRip.X264.AC3-EVO.mkv.mp4
 
-type=video
-name=Truth or Dare (2018) ENG HD-TS_X264-Mr.Hive_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdkNaQYZ7dhM80LsnAGKpH8ca2g.jpg
-date=2018-04-25
-URL=https://openload.co/f/gsGj_lpB0Ho/Truth_or_Dare_2018_HD-TS_X264-Mr.Hive_SeeHD.mkv.mp4
+
 
 type=video
 name=Acrimony (2018) ENG HDCAM.x264.ENG.MP3.LLG
@@ -164,10 +150,11 @@ URL=https://openload.co/f/g46sjjNuT3g/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bo
 #https://openload.co/f/e5MNXzl3aog/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi.mkv.mp4
 
 type=video
-name=A Quiet Place (2018) ENG NOLOGO.NEW.HDCAM.ENG.X264-Mr.HIVE
+name=A Quiet Place (2018) ENG 720p.HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
-date=2018-04-11
-URL=https://openload.co/f/4rP4kBfw7no/A.Quiet.Place.2018.NOLOGO.NEW.HDCAM.ENG.X264-Mr.HIVE.mkv.mp4
+date=2018-05-21
+URL=https://openload.co/f/qIWKQG_1QjY/A.Quiet.Place.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/4rP4kBfw7no/A.Quiet.Place.2018.NOLOGO.NEW.HDCAM.ENG.X264-Mr.HIVE.mkv.mp4
 #https://openload.co/f/DRoYF1zP1EI/A_Quiet_Place_2018_NEW_HDCAM_ENG_X264-Mr.HIVE.mkv.mp4
 #https://openload.co/f/bxT6UUfg6Cg/A_Quiet_Place_%282018%29_New_Movie_CAM_x264_AC3_by_Full4movies.mp4
 #https://openload.co/f/4oOgXQX4jy4/A_Quiet_Place_%282018%29_CAM_SpaceMov.is
@@ -176,12 +163,6 @@ URL=https://openload.co/f/4rP4kBfw7no/A.Quiet.Place.2018.NOLOGO.NEW.HDCAM.ENG.X2
 
 
 
-type=video
-name=Sherlock Gnomes (2018) ENG HDCAM.XviD-VAiN
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHdf2wRgCSp9MrZRryikiZIH6jB.jpg
-date=2018-03-29
-URL=https://openload.co/f/RdAhbx9rRvA/Sherlock.Gnomes.2018.HDCAM.XviD-VAiN.avi.mp4
-#https://openload.co/f/aCDwq_C0Py8/Sherlock_Gnomes_2018_HDCAM_X264_AC3-Bang.mp4
 
 
 
@@ -1359,12 +1340,17 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-20
+date=2018-05-21
 URL=
 
 
 
-
+type=video
+name=Miami (2017) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/otQXSW0ufQmvflM16wPstx2zbUp.jpg
+date=2018-05-21
+URL=https://openload.co/f/bY9hpOyU7nM/Miami.2017.FINNISH.1080p.BR_SeeHD.mp4
+#https://openload.co/f/Fja4ULEWbXg/Miami.2017.BluRay.1080p.x264-FiCO.mkv.mp4
 
 type=video
 name=Havenhurst (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1420,6 +1406,7 @@ date=2018-05-16
 URL=https://www.blazefile.co/embed-ut19tb40mgc9.html
 #http://uptobox.com/x7j3zhae4c1s
 #https://openload.co/f/OKSV7_1vs4Q/I_Kill_Giants_%282017%291080p_BluRay_x264-ROVERS.Ganool.im.mkv.mp4
+#https://openload.co/f/d8x8cVsE9kg/I.Kill.Giants.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/5xdkEh5mkms/I.Kill.Giants.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 #https://openload.co/f/VnfYXanvgPE/I.Kill.Giants.2017.720p.BluRay.x264-ROVERS.mkv.mp4
 #https://openload.co/f/SYhcD0EeGRU/I_Kill_Giants_2017_1080p_WEB_DL_DD5_1_H264_CMRG.mp4
@@ -1475,6 +1462,7 @@ date=2018-05-16
 URL=https://www.blazefile.co/embed-59d4g8qkkyyy.html
 #http://uptobox.com/8c7vwbq6xw7q
 #https://openload.co/f/HxeCw8IbE1c/Early_Man_%282018%291080p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
+#https://openload.co/f/YKOya-W_QXk/Early.Man.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/eidWhbG5Y7I/Early.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://www.blazefile.co/embed-5w7obmg8qhcg.html   720
 #http://uptobox.com/j7gdk4y0niw1   720
@@ -1511,29 +1499,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xS6M8jigRzQ0oFG0SdAQBfmEYt
 date=2018-05-09
 URL=https://openload.co/f/yeSiQQuwQTc/Birdboy.The.Forgotten.Children.BR_SeeHD.mp4
 
-type=video
-name=Red Sparrow (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZwnaMQTdwZz1kwtrrU3IOqxnDu.jpg
-date=2018-05-09
-URL=https://www.blazefile.co/embed-sbvbz07ulaem.html
-#https://uptobox.com/gfp59yvn0unu
-#https://openload.co/f/fUwpzNDOxs0/red.sparrow.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/gSQp6fkfvd4/Red.Sparrow.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/d_GbpJIHDhU/Red.Sparrow.2018.720p.BR_SeeHD.mp4
-#https://openload.co/f/X0SAy_b4z-k/red.sparrow.2018.720p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/mJ8Un2PItrU/Red.Sparrow.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/EI_ucRTW9hQ/red.sparrow.2018.720p.bluray.hevc.x265.mkv.mp4
-#https://openload.co/f/d0dE2nFF9QA/Red_Sparrow.2018.1080p.HC.HDRip.1.8.GB-iExTV.mp4
-#https://openload.co/f/qTMmeHaK-sw/RED_SPARROW_2018_HC_720p_HDRip_AC3_x264-CMRG.mkv.mp4
-#https://openload.co/f/LvtkoWn5VRw/Red.Sparrow.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/ToWVwzII_TY/Red.Sparrow.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv   MKV2.7GB
-#https://openload.co/f/XqgJBLnWtas/Red.Sparrow.2018.HC.HDRip.AC3.x264-CMRG.mkv.mp4
-#https://openload.co/f/_g7R0CD6j5Q/Red.Sparrow.2018.HC.HDRip.XviD.AC3-EVO.mp4
-#https://openload.co/f/Pb3aZcRQqKY/Red_Sparrow_%282018%29_HDCAM-X264-MP3-Zi%24t.mkv.mp4
-#https://openload.co/f/nrK7723Q5s0/Red.Sparrow.2018.720p.HDCAM.X264-Frozen.mp4
-#https://openload.co/f/WsOAcfN1Fog/Red_Sparrow_2018.ENG.CAM.X264-BABY.mkv.mp4
-#https://openload.co/f/_e7MhJTAVHQ/Red.Sparrow_2018.CAM.X264-NOBITCOINSYESBANK_SeeHD.mp4
-#https://openload.co/f/7Wooyr39WX4/Red_Sparrow_2018.720p.HDCAM.X264-MyBankAccount.mp4
+
+
 
 type=video
 name=The 15:17 to Paris (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4980,7 +4947,11 @@ URL=https://www.blazefile.co/embed-e395tlj5pcfx.html
 #http://uptobox.com/vr89sd3ls7ea
 #https://openload.co/f/PEKXbbLwZ-4/Fang.Hua.2017.BluRay.720p.950MB.Ganool.im.mkv.mp4
 
-
+type=video
+name=Jailbreak (2017) [COLOR=FF00FF00]Khmer BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/48Evnm8qldagV5A75xGAqIo19Wb.jpg
+date=2018-05-21
+URL=https://openload.co/f/AqlBYBPv5Z4/Jailbreak.2017.720p.BR_SeeHD.mp4
 
 
 
@@ -5059,14 +5030,51 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
-
+type=video
+name=Deadpool 2 (2018) ENG 720p_New_HDCAM-X264-AC3_Cleaned-Bobi_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
+date=2018-05-17
+URL=https://openload.co/f/NpRKO6OnUQ0/Deadpool_2_2018_720p_New_HDCAM-X264-AC3_Cleaned-Bobi_SeeHD.mkv.mp4
+#https://openload.co/f/UliAIS5sWpU/Deadpool_2_%282018%29_English_HDTS_-_720p_-_x264_-_AC3_-_2.4GB.mkv.mp4
+#https://openload.co/f/Zb_meIBKWic/Deadpool_2_%282018%29720p_TS_ENG_X264-1xbit.Ganool.im.mkv.mp4
+type=video
+name=Deadpool 2 (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
+date=2018-05-21
+URL=https://streamango.com/f/oesosocnaeooaame/Deadpool_2_2018_2_
 
 
 type=video
-name=Avengers: Infinity War (2018) ENG 720p.TS.x264-TiTAN_SeeHD
+name=Truth or Dare (2018) ENG HD-TS_X264-Mr.Hive_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdkNaQYZ7dhM80LsnAGKpH8ca2g.jpg
+date=2018-04-25
+URL=https://openload.co/f/gsGj_lpB0Ho/Truth_or_Dare_2018_HD-TS_X264-Mr.Hive_SeeHD.mkv.mp4
+type=video
+name=Truth or Dare (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdkNaQYZ7dhM80LsnAGKpH8ca2g.jpg
+date=2018-05-21
+URL=https://streamango.com/f/ofspqsqdrfcfbbmk/Truth_or_Dare_2018_
+
+
+type=video
+name=Sherlock Gnomes (2018) ENG HDCAM.XviD-VAiN
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHdf2wRgCSp9MrZRryikiZIH6jB.jpg
+date=2018-03-29
+URL=https://openload.co/f/RdAhbx9rRvA/Sherlock.Gnomes.2018.HDCAM.XviD-VAiN.avi.mp4
+#https://openload.co/f/aCDwq_C0Py8/Sherlock_Gnomes_2018_HDCAM_X264_AC3-Bang.mp4
+type=video
+name=Sherlock Gnomes (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHdf2wRgCSp9MrZRryikiZIH6jB.jpg
+date=2018-05-21
+URL=https://streamango.com/f/cpbsdkfbbkllpsos/Sherlock_Gnomes_2018_
+
+
+type=video
+name=Avengers: Infinity War (2018) ENG NEW_720p_HD-TS_X264-CPG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
-date=2018-05-11
-URL=https://openload.co/f/EUc49i9EnHQ/Avengers_Infinity_War.2018.720p.TS.x264-TiTAN_SeeHD.mkv.mp4
+date=2018-05-21
+URL=https://openload.co/f/Owfl0kBmCfU/Avengers_Infinity_War_2018_NEW_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/EUc49i9EnHQ/Avengers_Infinity_War.2018.720p.TS.x264-TiTAN_SeeHD.mkv.mp4
 #https://openload.co/f/Y_poP1g2OjY/Avengers_Infinity_War_2018_NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/zWOrpbMVEhk/Avengers_Infinity_War_2018_NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/-M-DJyX1LmI/Avengers_Infinity_War_2018_HDCAM-X264-AC3-Zi%24t_SeeHD.mkv.mp4
@@ -5100,26 +5108,7 @@ URL=https://streamango.com/f/acdstsasqbdafaef/Rampage_2018_
 
 
 
-type=video
-name=Ready Player One (2018) ENG 720pHD_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
-date=2018-05-09
-URL=https://openload.co/f/N3iQ8KqoAF4/Ready.Player.One.2018.720pHD_SeeHD.mp4
-#https://openload.co/f/snEgxGoX-wU/Ready.Player.One.2018.V3.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/T79bHA3wYhA/Ready.Player.One.2018.720p.KOR.HDRip.AAC-PCHD_SeeHD.mp4
-#https://openload.co/f/iZ_0NyaqkgI/Ready.Player.One.2018.V3.720p.HC.HDRip.X264.AC3-EVO.mkv   MKV2.6GB
-#https://openload.co/f/dLbMsY6wF0Q/Ready_Player_One_2018_720p_NEW_HD-TS_X264_HQ_Mr.Hive_SeeHD.mkv.mp4
-#https://openload.co/f/cRchGUs-NqE/Ready_Player_One_%282018%29_New_720p_HDCAM-X264-MP3-Bobi.mkv.mp4
-#https://openload.co/f/6ynfED25UZk/Ready_Player_One_2018.720p.HDCAM.X264-LookingForGirls.mkv.mp4
-#https://openload.co/f/CzR4XZ1ZXto/Ready.Player.One.2018.NEW.720p.HDCAM.HQMic-CPG.mkv.mp4
-#https://openload.co/f/Ryg8GBobLk8/Ready_Player_One_2018.720p.HDCAM.X264.mp4
-#https://openload.co/f/JWNqMnlNmcA/Ready_Player_One_2018.720p.HDCAM.X264-ThisOneYouWontSell.mp4
-#https://openload.co/f/ACaaIu3-zBc/Ready_Player_One.2018.HDCAM.X264_SeeHD.mkv.mp4
-type=video
-name=Ready Player One (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
-date=2018-04-03
-URL=https://streamango.com/f/esmtoktpnsnacelr/Ready_Player_One_2018_
+
 
 
 
@@ -5438,6 +5427,7 @@ URL=https://www.blazefile.co/embed-55komgt61nwl.html
 #https://openload.co/f/7ngfuLXJl2w/annihilation.2018.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/MPj6vB_GCiE/annihilation.2018.720p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/Nouo8gei1PE/Annihilation.2018.720p.BluRay.x264.DD5.1-HDC.mkv.mp4
+#https://openload.co/f/_QYI_qQnPdE/Annihilation.2018.720p.BR_SeeHD.mp4
 #https://www.blazefile.co/embed-3pg9mrcygys7.html   720
 #http://uptobox.com/hriqql7zfdmx   720
 #https://openload.co/f/T6GBIFn2mDg/Annihilation_%282018%29720p_BluRay_x264_DD5.1-HDC.Ganool.im.mkv.mp4
@@ -6506,32 +6496,42 @@ URL=
 
 
 type=video
-name=Black Panther (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
-date=2018-05-03
-URL=https://www.blazefile.co/embed-uu50ocb3n9fm.html
-#https://uptobox.com/2o99oidl84c9
-#https://openload.co/f/PWOgxTHj-Zo/Black.Panther.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/QzdnxUpbqkY/Black.Panther.2018.1080p.BluRay.x265.HEVC.6CH-MRN.mkv.mp4
-#https://openload.co/f/OaXtjnVl7iE/Please.Stand.By.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
-#https://openload.co/f/Wv0YJ8d2yZE/black.panther.2018.720p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/5vvOVncxHpU/Black.Panther.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/3CZe-kEmblA/Black.Panther.2018.HDTC.X264-FrangoAssado.mkv.mp4
-#https://openload.co/f/SPBOZokHuV0/Black_Panther_2018_720P_New_V.2_HDTS-X264-MP3-Zi%24t.mkv.mp4
-#https://openload.co/f/u9hqBeAjccM/Black.Panther.2018.NEW.720p.HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/-OZwCiXre9I/Black_Panther_2018_NEW_PROPER_HD-TS_X264-CPG.mkv.mp4
-#https://openload.co/f/WZ4OiGMkCYo/Black.Panther.2018.ENG.NEW.HDTS.X264.MP3-ZiSt.mkv.mp4
-#https://openload.co/f/cpVwHgNhW4M/Black_Panther_2018_FULL_HDCAM_ENG_X264-UNiQUE.mkv.mp4
-#https://openload.co/f/bPsscKAQno4/Black.Panther.2018.HDCAM.x264-%5BSpaceMov.org%5D.MP4.mp4
-#https://openload.co/f/6_rW9szwkTs/Black.Panther.2018.HDCAM.x264.MP4.mp4
-#https://openload.co/f/9iJ4yzgCyZY/Black_Panther_%282018%29_English_HDCAM.mp4
+name=Ready Player One (2018) ENG 720pHD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
+date=2018-05-09
+URL=https://openload.co/f/N3iQ8KqoAF4/Ready.Player.One.2018.720pHD_SeeHD.mp4
+#https://openload.co/f/snEgxGoX-wU/Ready.Player.One.2018.V3.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/T79bHA3wYhA/Ready.Player.One.2018.720p.KOR.HDRip.AAC-PCHD_SeeHD.mp4
+#https://openload.co/f/iZ_0NyaqkgI/Ready.Player.One.2018.V3.720p.HC.HDRip.X264.AC3-EVO.mkv   MKV2.6GB
+#https://openload.co/f/dLbMsY6wF0Q/Ready_Player_One_2018_720p_NEW_HD-TS_X264_HQ_Mr.Hive_SeeHD.mkv.mp4
+#https://openload.co/f/cRchGUs-NqE/Ready_Player_One_%282018%29_New_720p_HDCAM-X264-MP3-Bobi.mkv.mp4
+#https://openload.co/f/6ynfED25UZk/Ready_Player_One_2018.720p.HDCAM.X264-LookingForGirls.mkv.mp4
+#https://openload.co/f/CzR4XZ1ZXto/Ready.Player.One.2018.NEW.720p.HDCAM.HQMic-CPG.mkv.mp4
+#https://openload.co/f/Ryg8GBobLk8/Ready_Player_One_2018.720p.HDCAM.X264.mp4
+#https://openload.co/f/JWNqMnlNmcA/Ready_Player_One_2018.720p.HDCAM.X264-ThisOneYouWontSell.mp4
+#https://openload.co/f/ACaaIu3-zBc/Ready_Player_One.2018.HDCAM.X264_SeeHD.mkv.mp4
 type=video
-name=Black Panther (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
+name=Ready Player One (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
+date=2018-05-21
+URL=https://streamango.com/f/rsfbefbedcroponc/Ready_Player_One_2018_
+#https://streamango.com/f/esmtoktpnsnacelr/Ready_Player_One_2018_
+
+
+type=video
+name=Anon (2018) ENG 720p.web.x264-strife_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIST7FwpELT1SXR3cVSy5JoOSby.jpg
 date=2018-05-05
-URL=https://streamango.com/f/pclbcesqmnbbdrkn/Black_Panther_2018_
-#https://streamango.com/f/msdcpnamoofemdpb/Black_Panther_2018_V_1_mp4
-#https://streamango.com/f/qqoddkablatcrnbr/Black_Panther_2018_
+URL=https://openload.co/f/_7TdU2KCmvw/anon.2018.720p.web.x264-strife_SeeHD.mkv.mp4
+#https://openload.co/f/ldcELkiTR-8/Anon.2018.720p.HDRip.X264.AC3-EVO.mkv.mp4
+type=video
+name=Anon (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIST7FwpELT1SXR3cVSy5JoOSby.jpg
+date=2018-05-21
+URL=https://streamango.com/f/efralsqmrnsrkqrm/Anon_2018_
+
+
+
 
 
 type=video
@@ -7068,6 +7068,98 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Red Sparrow (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZwnaMQTdwZz1kwtrrU3IOqxnDu.jpg
+date=2018-05-09
+URL=https://www.blazefile.co/embed-sbvbz07ulaem.html
+#https://uptobox.com/gfp59yvn0unu
+#https://openload.co/f/fUwpzNDOxs0/red.sparrow.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/gSQp6fkfvd4/Red.Sparrow.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/d_GbpJIHDhU/Red.Sparrow.2018.720p.BR_SeeHD.mp4
+#https://openload.co/f/X0SAy_b4z-k/red.sparrow.2018.720p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/mJ8Un2PItrU/Red.Sparrow.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/EI_ucRTW9hQ/red.sparrow.2018.720p.bluray.hevc.x265.mkv.mp4
+#https://openload.co/f/d0dE2nFF9QA/Red_Sparrow.2018.1080p.HC.HDRip.1.8.GB-iExTV.mp4
+#https://openload.co/f/qTMmeHaK-sw/RED_SPARROW_2018_HC_720p_HDRip_AC3_x264-CMRG.mkv.mp4
+#https://openload.co/f/LvtkoWn5VRw/Red.Sparrow.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/ToWVwzII_TY/Red.Sparrow.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv   MKV2.7GB
+#https://openload.co/f/XqgJBLnWtas/Red.Sparrow.2018.HC.HDRip.AC3.x264-CMRG.mkv.mp4
+#https://openload.co/f/_g7R0CD6j5Q/Red.Sparrow.2018.HC.HDRip.XviD.AC3-EVO.mp4
+#https://openload.co/f/Pb3aZcRQqKY/Red_Sparrow_%282018%29_HDCAM-X264-MP3-Zi%24t.mkv.mp4
+#https://openload.co/f/nrK7723Q5s0/Red.Sparrow.2018.720p.HDCAM.X264-Frozen.mp4
+#https://openload.co/f/WsOAcfN1Fog/Red_Sparrow_2018.ENG.CAM.X264-BABY.mkv.mp4
+#https://openload.co/f/_e7MhJTAVHQ/Red.Sparrow_2018.CAM.X264-NOBITCOINSYESBANK_SeeHD.mp4
+#https://openload.co/f/7Wooyr39WX4/Red_Sparrow_2018.720p.HDCAM.X264-MyBankAccount.mp4
+type=video
+name=Red Sparrow (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZwnaMQTdwZz1kwtrrU3IOqxnDu.jpg
+date=2018-05-21
+URL=https://openload.co/f/6KZBj7Qj_j8/Red_Sparrow_%282018%29%E0%B9%80%E0%B8%A3%E0%B8%94_%E0%B8%AA%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%A3%E0%B8%A7%E0%B9%8C_%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95.mp4
+
+
+type=video
+name=Black Panther (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
+date=2018-05-03
+URL=https://www.blazefile.co/embed-uu50ocb3n9fm.html
+#https://uptobox.com/2o99oidl84c9
+#https://openload.co/f/PWOgxTHj-Zo/Black.Panther.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/QzdnxUpbqkY/Black.Panther.2018.1080p.BluRay.x265.HEVC.6CH-MRN.mkv.mp4
+#https://openload.co/f/OaXtjnVl7iE/Please.Stand.By.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/Wv0YJ8d2yZE/black.panther.2018.720p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/5vvOVncxHpU/Black.Panther.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/3CZe-kEmblA/Black.Panther.2018.HDTC.X264-FrangoAssado.mkv.mp4
+#https://openload.co/f/SPBOZokHuV0/Black_Panther_2018_720P_New_V.2_HDTS-X264-MP3-Zi%24t.mkv.mp4
+#https://openload.co/f/u9hqBeAjccM/Black.Panther.2018.NEW.720p.HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/-OZwCiXre9I/Black_Panther_2018_NEW_PROPER_HD-TS_X264-CPG.mkv.mp4
+#https://openload.co/f/WZ4OiGMkCYo/Black.Panther.2018.ENG.NEW.HDTS.X264.MP3-ZiSt.mkv.mp4
+#https://openload.co/f/cpVwHgNhW4M/Black_Panther_2018_FULL_HDCAM_ENG_X264-UNiQUE.mkv.mp4
+#https://openload.co/f/bPsscKAQno4/Black.Panther.2018.HDCAM.x264-%5BSpaceMov.org%5D.MP4.mp4
+#https://openload.co/f/6_rW9szwkTs/Black.Panther.2018.HDCAM.x264.MP4.mp4
+#https://openload.co/f/9iJ4yzgCyZY/Black_Panther_%282018%29_English_HDCAM.mp4
+type=video
+name=Black Panther (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMys.jpg
+date=2018-05-21
+URL=https://openload.co/f/LYlA4kXeFU8/Black_Panther_%282018%29%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%84_%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C.mp4
+#https://streamango.com/f/pclbcesqmnbbdrkn/Black_Panther_2018_
+#https://streamango.com/f/msdcpnamoofemdpb/Black_Panther_2018_V_1_mp4
+#https://streamango.com/f/qqoddkablatcrnbr/Black_Panther_2018_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #23---2018-05-06
 
 type=video
@@ -7442,12 +7534,34 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-05-18
+date=2018-05-21
 URL=
 
 
 
+type=video
+name=Spider-Man: Homecoming (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg
+date=2018-05-21
+URL=https://openload.co/f/PPNa8ahoRu4/Spider-Man.Homecoming.2017.1080p.BR_SeeHD.mp4
 
+type=video
+name=Doctor Strange (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PiiNGXj1KENTmCBHeN6Mskj2Fq.jpg
+date=2018-05-21
+URL=https://openload.co/f/2OduaRRbUlM/Doctor.Strange.2016.1080p.BR_SeeHD.mp4
+
+type=video
+name=The Town (2010) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zX4fKmDXKGt4hlzhAJirdlRKFgO.jpg
+date=2018-05-21
+URL=https://openload.co/f/BNOYDDc7di0/The.Town.EXTENDED.mp4
+
+type=video
+name=Star Trek II: The Wrath of Khan (1982) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VKpj4Xl3hTzgAS3xpVuOyqNnSv.jpg
+date=2018-05-21
+URL=https://openload.co/f/ep7VO5obmM4/Star_Trek_II_The_Wrath_Of_Khan.1982.HD_720p.mp4
 
 type=video
 name=Hurricane Bianca (2016) [COLOR=FF00FF00]ENG HD 338MB[/COLOR]
@@ -7604,16 +7718,18 @@ date=2018-05-10
 URL=https://openload.co/f/ieCmYcM0Uv8/October.Sky.1999.720p.BluRay.x264.YIFY.627.mp4
 
 type=video
-name=Guardians of the Galaxy (2014) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Guardians of the Galaxy (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y31QB9kn3XSudA15tV7UWQ9XLuW.jpg
-date=2018-05-08
-URL=https://openload.co/f/RWnXHTLwXdI/Guardians_Of_The_Galaxy.2014.HD_720p.mp4
+date=2018-05-21
+URL=https://openload.co/f/ZgaO9D176N4/Guardians.of.the.Galaxy.2014.1080p.BR_SeeHD.mp4
+#https://openload.co/f/RWnXHTLwXdI/Guardians_Of_The_Galaxy.2014.HD_720p.mp4
 
 type=video
 name=Guardians of the Galaxy Vol. 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg
-date=2018-05-08
-URL=https://openload.co/f/fYtDWns5c_o/Guardians.of.the.Galaxy.Vol.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-05-21
+URL=https://openload.co/f/UQwY0Z6FOz8/Guardians.of.the.Galaxy.Vol.2.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/fYtDWns5c_o/Guardians.of.the.Galaxy.Vol.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Boondock Saints (1999) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
