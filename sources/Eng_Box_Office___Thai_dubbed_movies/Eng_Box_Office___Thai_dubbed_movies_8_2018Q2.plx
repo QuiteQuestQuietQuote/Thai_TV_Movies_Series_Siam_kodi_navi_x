@@ -63,7 +63,7 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-05-17
+date=2018-05-22
 URL=
 
 
@@ -71,8 +71,25 @@ URL=
 
 
 
+type=video
+name=Every Day (2018) ENG 720p.WEB-DL.H264.AC3-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UnME3icxSspwL0UoGZNSyyp7Xs.jpg
+date=2018-05-22
+URL=https://openload.co/f/aIW0ZBLOrto/Every.Day.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 
+type=video
+name=Thoroughbreds (2018) ENG 1080p.WEB-DL.DD5_1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIxZzTfITqBpZxbIGsV01DcoHsT.jpg
+date=2018-05-22
+URL=https://openload.co/f/3N_By8enxCY/Thoroughbreds.2017.1080p.WEB-DL.DD5_1.H264-CMRG.mkv.mp4
+#https://openload.co/f/fEVjQwiI-o8/Thoroughbreds_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
 
+type=video
+name=Gringo (2018) ENG 1080p_WEB-DL_DD5.1_H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxeVPklFwng2IowqRPNI4od6aXv.jpg
+date=2018-05-22
+URL=https://openload.co/f/GGsjpRfPruk/Gringo_2018_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
+#https://openload.co/f/5TsFOCFhy1I/Gringo.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 
 type=video
 name=Disobedience (2018) ENG 720p%2BHDCAM%2BX264-SugarTtis
@@ -95,10 +112,11 @@ URL=https://openload.co/f/60EYPNT5tRE/True.Crimes.2016.1080p.AMZN.WEB-DL.DDP5.1.
 #https://openload.co/f/wRdRLUn7iFE/Dark_Crimes_%282016%29_HDRip_AC3_XviD_AIR.avi.mp4
 
 type=video
-name=The Escape (2018) ENG 720p.WEB-DL.H264.AC3-EVO_SeeHD
+name=The Escape (2018) ENG 1080p_WEB-DL_DD5.1_H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWETGfd6FEHGecnKE6JuWeXy90c.jpg
-date=2018-05-11
-URL=https://openload.co/f/tooiKVd6xNw/The_Escape.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-05-22
+URL=https://openload.co/f/ClcPNhbQGoE/The_Escape_2018_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
+#https://openload.co/f/tooiKVd6xNw/The_Escape.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 
 type=video
 name=Traffik (2018) ENG HDCAM_ENG_X264_-_SugarTits_SeeHD
@@ -150,10 +168,12 @@ URL=https://openload.co/f/g46sjjNuT3g/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bo
 #https://openload.co/f/e5MNXzl3aog/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi.mkv.mp4
 
 type=video
-name=A Quiet Place (2018) ENG 720p.HC.HDRip.X264.AC3-EVO
+name=A Quiet Place (2018) ENG 720p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
-date=2018-05-21
-URL=https://openload.co/f/qIWKQG_1QjY/A.Quiet.Place.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+date=2018-05-22
+URL=https://openload.co/f/h8acclwszug/A_Quiet_Place.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/tgCRSk8Gg3o/A_Quiet_Place_%282018%29720p_HC_HDRip_X264_AC3-EVO.Ganool.im.mkv.mp4
+#https://openload.co/f/qIWKQG_1QjY/A.Quiet.Place.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/4rP4kBfw7no/A.Quiet.Place.2018.NOLOGO.NEW.HDCAM.ENG.X264-Mr.HIVE.mkv.mp4
 #https://openload.co/f/DRoYF1zP1EI/A_Quiet_Place_2018_NEW_HDCAM_ENG_X264-Mr.HIVE.mkv.mp4
 #https://openload.co/f/bxT6UUfg6Cg/A_Quiet_Place_%282018%29_New_Movie_CAM_x264_AC3_by_Full4movies.mp4
@@ -169,10 +189,12 @@ URL=https://openload.co/f/qIWKQG_1QjY/A.Quiet.Place.2018.720p.HC.HDRip.X264.AC3-
 
 
 type=video
-name=The Strangers: Prey at Night (2018) ENG 720p_HD-TS_X264-Mr.HIVE_SeeHD
+name=The Strangers: Prey at Night (2018) ENG 1080p_WEB-DL_DD5_1_H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo3gu56JKRwZ2TpKt8mPjXLQK23.jpg
-date=2018-04-17
-URL=https://openload.co/f/njRKbU9O_xY/The_Strangers_Prey_at_Night_2018_720p_HD-TS_X264-Mr.HIVE_SeeHD.mkv.mp4
+date=2018-04-22
+URL=https://openload.co/f/JbO-zGeM36A/The_Strangers_Prey_at_Night_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+#https://openload.co/f/lbVbF_0sJ_4/The_Strangers_Prey_at_Night_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
+#https://openload.co/f/njRKbU9O_xY/The_Strangers_Prey_at_Night_2018_720p_HD-TS_X264-Mr.HIVE_SeeHD.mkv.mp4
 #https://openload.co/f/CetPr_P4a0Y/The_Strangers_Prey_at_Night.2018.HD-TS.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/4gpOCH3Sy0k/The.Stranger.Prey.at.Night.2018.Pk.TS.E.mp4
 
@@ -1243,13 +1265,21 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWNc8JfVRQpPlFfGsNOCsup9SN
 date=2018-05-15
 URL=https://openload.co/f/KmlE4oAplkM/Fate.Stay.Night.Heavens.Feel.2017.BRRip.H264-RBB.mp4
 
+type=video
+name=The Bookshop (2017) ENG BDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMSDciBev8h9P6KvxnQDOnExg0j.jpg
+date=2018-05-22
+URL=https://openload.co/f/5-CCCx8yvI4/The.Bookshop.2017.BDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/5h8C42EmfQA/The.Bookshop.2017.DVDRip.XviD.AC3-iFT.avi.mp4
+
+
 
 
 
 type=video
 name=
 thumb=
-date=2018-05-15
+date=2018-05-22
 URL=
 
 
@@ -1340,10 +1370,18 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-21
+date=2018-05-22
 URL=
 
 
+
+
+
+type=video
+name=The Broken Key (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUtByH0xkohACU93yHtMhuGhZ7S.jpg
+date=2018-05-22
+URL=https://openload.co/f/z8AommVIy-k/The.Broken.Key.2017.1080p.BluRay.x264-NTROPiC.mkv.mp4
 
 type=video
 name=Miami (2017) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
@@ -1351,6 +1389,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/otQXSW0ufQmvflM16wPstx2zbU
 date=2018-05-21
 URL=https://openload.co/f/bY9hpOyU7nM/Miami.2017.FINNISH.1080p.BR_SeeHD.mp4
 #https://openload.co/f/Fja4ULEWbXg/Miami.2017.BluRay.1080p.x264-FiCO.mkv.mp4
+#https://www.blazefile.co/embed-rp8isuwxttro.html   720
+#http://uptobox.com/s3svqhqvcmf1   720
+#https://openload.co/embed/FW1LSrgXmF0/MIAMIBD72.Ganool.im.mkv
 
 type=video
 name=Havenhurst (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1933,11 +1974,7 @@ URL=https://openload.co/f/9GNqaCGrRP8/faces.places.2017.limited.1080p.bluray.x26
 #https://www.blazefile.co/embed-f4o1ux4lagme.html   720
 #https://uptobox.com/3gc1updez7zf   720
 
-type=video
-name=Death Wish (1974) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0MJPBLSCtt7DBYZGFsOfQkZCWt.jpg
-date=2018-04-05
-URL=https://openload.co/f/S4hEDGFqX6o/Death.Wish.1974.1080p.BR_SeeHD.mp4
+
 
 type=video
 name=The Post (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5074,6 +5111,7 @@ name=Avengers: Infinity War (2018) ENG NEW_720p_HD-TS_X264-CPG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
 date=2018-05-21
 URL=https://openload.co/f/Owfl0kBmCfU/Avengers_Infinity_War_2018_NEW_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/w_SI2svIMSo/Avengers%3A_Infinity_War_%282018%29NEW_720p_HD-TS_X264-CPG.Ganool.im.mkv.mp4
 #https://openload.co/f/EUc49i9EnHQ/Avengers_Infinity_War.2018.720p.TS.x264-TiTAN_SeeHD.mkv.mp4
 #https://openload.co/f/Y_poP1g2OjY/Avengers_Infinity_War_2018_NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/zWOrpbMVEhk/Avengers_Infinity_War_2018_NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD.mkv.mp4
@@ -5136,10 +5174,12 @@ URL=https://streamango.com/f/pbemkasrmnlorfdt/Tomb_Raider_2018_
 
 
 type=video
-name=Death Wish (2018) ENG 720p_HD-TS_X264-CPG_SeeHD.
+name=Death Wish (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRpOwIlOXZZVWgDernbPbdHU5cl.jpg
-date=2018-04-05
-URL=https://openload.co/f/m6H4BMp2miQ/Death_Wish_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+date=2018-05-22
+URL=https://openload.co/f/ZKSGUH86ztI/Death.Wish.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/mBpieI5UGn0/Death_Wish_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
+#https://openload.co/f/m6H4BMp2miQ/Death_Wish_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/k7KT8naQGo8/Death_Wish_2018.HD-TS.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/hScYbg7JR6A/Death_Wish_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/zO6vHUtv0Uc/Death_Wish_2018_NEW_HDCAM_Layar.mp4
@@ -7539,6 +7579,13 @@ URL=
 
 
 
+
+type=video
+name=Death Wish (1974) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0MJPBLSCtt7DBYZGFsOfQkZCWt.jpg
+date=2018-04-05
+URL=https://openload.co/f/S4hEDGFqX6o/Death.Wish.1974.1080p.BR_SeeHD.mp4
+
 type=video
 name=Spider-Man: Homecoming (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg
@@ -7630,6 +7677,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/inVq3FRqcYIRl2la8iZikYYxFN
 date=2018-05-16
 URL=https://openload.co/f/3Trj1X1UdT0/Deadpool.2016.1080p.Br_SeeHD.mp4
 #https://openload.co/f/mL95UkuRR4A/Deadpool.2016.720p.Br_SeeHD.mp4
+#https://www.blazefile.co/embed-dzb3omdo6kpq.html   720
+#http://uptobox.com/pp11nmerr9ul   720
 
 type=video
 name=Super Troopers (2001) [COLOR=FF00FF00]ENG BR 720p[/COLOR]

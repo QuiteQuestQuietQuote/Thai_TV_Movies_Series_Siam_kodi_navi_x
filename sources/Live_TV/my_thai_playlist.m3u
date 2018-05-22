@@ -1849,6 +1849,36 @@ http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/854/inde
 
 
 
+
+#EXTINF:-1,Erotic1 
+http://176.67.211.6:9000/udp/239.1.7.1:22701 
+#EXTINF:-1,Reality Kings 
+http://176.67.211.6:9000/udp/239.1.7.11:22711 
+#EXTINF:-1,Private TV HD 
+http://176.67.211.6:9000/udp/239.1.7.20:22720 
+#EXTINF:-1,Dorcel TV HD 
+http://176.67.211.6:9000/udp/239.1.7.22:22722 
+#EXTINF:-1,Dorcel HD 
+http://176.67.211.6:9000/udp/239.1.7.23:22723 
+#EXTINF:-1,New 
+http://176.67.211.6:9000/udp/239.1.7.25:22725 
+#EXTINF:-1,Stars XXX HD 
+http://176.67.211.6:9000/udp/239.1.7.24:22724 
+#EXTINF:-1,AS 1 HD 
+http://176.67.211.6:9000/udp/239.1.9.1:22901 
+#EXTINF:-1,AS 2 HD 
+http://176.67.211.6:9000/udp/239.1.9.2:22902 
+#EXTINF:-1,AS 3 HD 
+http://176.67.211.6:9000/udp/239.1.9.3:22903 
+#EXTINF:-1,AS 4 HD 
+http://176.67.211.6:9000/udp/239.1.9.4:22904 
+#EXTINF:-1,AS 5 HD 
+http://176.67.211.6:9000/udp/239.1.9.5:22905
+
+
+
+
+
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI_27
 http://27.254.64.112:1935/thflixCH/Discovery_Science.stream/chunklist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery Asia HD
@@ -1999,6 +2029,20 @@ http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/340/inde
 #EXTINF:-1,saradee
 http://symc-cdn04.bkk02.violin.co.th:1935/liveedge/292277143069_600/chunklist_w1619719738.m3u8
 
+
+
+#EXTINF:-1,CNBC
+http://209.182.228.22:8000/udp/239.255.12.9:1135
+#EXTINF:-1,MOVIE NETWORK
+http://209.182.228.22:8000/udp/230.50.0.38:8208
+#EXTINF:-1,TV MOVIES
+http://209.182.228.22:8000/udp/230.50.0.39:8208
+#EXTINF:-1,TELE TOON HD
+http://209.182.228.22:8000/udp/230.50.0.118:8208
+#EXTINF:-1,CN HD
+http://209.182.228.22:8000/udp/239.255.0.55:1136
+
+
 #EXTINF:-1,Toonami_ind
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD327L240P/playlist.m3u8
 #EXTINF:-1,Disney Channel_kor
@@ -2013,8 +2057,11 @@ http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/183/inde
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/30/index.m3u8
 
 
-#EXTINF:-1,saradee
-rtmp://symc-cdn04.bkk02.violin.co.th:1935/liveedge
+
+#EXTINF:-1,Nickelodeon Europe 
+http://5.101.7.161:5095/play/a0pf 
+#EXTINF:-1,HBO HD_RUS 
+http://5.101.7.161:5095/play/a0p9 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
 http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth_KOR
