@@ -2058,12 +2058,126 @@ http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/30/index
 
 
 
+
+
+
+#EXTINF:-1,hbo_hd
+https://live-cdn9.movieclub.tv/movie/hbo_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,hbo_hits
+https://live-cdn9.movieclub.tv/movie/hbo_hits_720p.stream/playlist.m3u8
+#EXTINF:-1,hbo_signature
+https://live-cdn9.movieclub.tv/movie/hbo_signature_720p.stream/playlist.m3u8
+#EXTINF:-1,hbo_family
+https://live-cdn9.movieclub.tv/movie/hbo_family_720p.stream/playlist.m3u8
+#EXTINF:-1,m_channel
+http://103.77.116.250/boboapp4/pb_55_mchannel/playlist.m3u8
+#EXTINF:-1,red_by_hbo
+https://live-cdn9.movieclub.tv/movie/red_by_hbo_720p.stream/playlist.m3u8
+#EXTINF:-1,warner_tv
+https://live-cdn9.movieclub.tv/movie/warner_tv_720p.stream/playlist.m3u8 
+#EXTINF:-1,cinemax
+https://live-cdn9.movieclub.tv/movie/cinemax_720p.stream/playlist.m3u8
+#EXTINF:-1,doonee
+https://live-cdn9.movieclub.tv/movie/ais_doonee_720p.stream/playlist.m3u8
+#EXTINF:-1,Doonee HD
+http://146.88.56.8:1935/liveedge/292277212865_600/chuklist.m3u8
+#EXTINF:-1,starworld
+https://live-cdn9.movieclub.tv/movie/starworld_720p.stream/playlist.m3u8
+#EXTINF:-1,true_thai_film
+https://live-cdn9.movieclub.tv/movie/true_thai_film_480p.stream/playlist.m3u8
+#EXTINF:-1,true_asian_series
+https://live-cdn9.movieclub.tv/movie/true_asian_series_480p.stream/playlist.m3u8
+#EXTINF:-1,true_series
+https://live-cdn9.movieclub.tv/movie/true_series_480p.stream/playlist.m3u8
+#EXTINF:-1,true_movie_hits
+https://live-cdn9.movieclub.tv/movie/true_movie_hits_480p.stream/playlist.m3u8
+#EXTINF:-1,true_film_asia
+http://cdn4-live.googlestreamming.com:443/movie/true_film_asia_480p.stream/playlist.m3u8
+#EXTINF:-1,fox_action_movies
+https://live-cdn9.movieclub.tv/movie/fox_action_movies_720p.stream/playlist.m3u8
+#EXTINF:-1,fox_movies_premium_hd
+https://live-cdn9.movieclub.tv/movie/fox_movies_premium_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,foxfamen
+https://live-cdn9.movieclub.tv/movie/ais_foxfamen_720p.stream/playlist.m3u8
+#EXTINF:-1,fox life
+http://cdn4-live.googlestreamming.com:443/movie/starworld_720p.stream/playlist.m3u8
+#EXTINF:-1,fox_crime
+http://103.77.116.233:443/movie/ais_foxcrimeen_720p.stream/playlist.m3u8
+#EXTINF:-1,fx
+https://live-cdn9.movieclub.tv/movie/fx_720p.stream/playlist.m3u8
+#EXTINF:-1,fox_thai
+https://live-cdn9.movieclub.tv/movie/fox_thai_480p.stream/playlist.m3u8
+#EXTINF:-1,thrill
+https://live-cdn9.movieclub.tv/movie/thrill_720p.stream/playlist.m3u8
+#EXTINF:-1,zeenung
+https://live-cdn9.movieclub.tv/movie/ais_zeenung_720p.stream/playlist.m3u8
+#EXTINF:-1,celestial_classic_movies
+https://live-cdn9.movieclub.tv/movie/celestial_classic_movies_720p.stream/playlist.m3u8
+
+
+#EXTINF:-1,h2
+https://live-cdn9.movieclub.tv/documentary/h2_720p.stream/playlist.m3u8
+#EXTINF:-1,history
+https://live-cdn9.movieclub.tv/documentary/history_channel_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,axn
+https://live-cdn9.movieclub.tv/documentary/axn_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,samrojlok hd
+https://live-cdn9.movieclub.tv/documentary/samrojlok_720p.stream/playlist.m3u8
+#EXTINF:-1,animal_planet
+https://live-cdn9.movieclub.tv/documentary/animal_planet_720p.stream/playlist.m3u8
+#EXTINF:-1,national_geographic_hd
+https://live-cdn9.movieclub.tv/documentary/national_geographic_hd_720p.stream/playlist.m3u8
+#EXTINF:-1,national_geographic_wild
+https://live-cdn9.movieclub.tv/documentary/national_geographic_wild_720p.stream/playlist.m3u8
+#EXTINF:-1,national_geographic_people
+https://live-cdn9.movieclub.tv/documentary/national_geographic_people_720p.stream/playlist.m3u8
+#EXTINF:-1,true_explore_wild
+https://live-cdn9.movieclub.tv/documentary/true_explore_wild_480p.stream/playlist.m3u8
+#EXTINF:-1,true_explore_life
+https://live-cdn9.movieclub.tv/documentary/true_explore_life_480p.stream/playlist.m3u8
+#EXTINF:-1,true_explore_sci
+https://live-cdn9.movieclub.tv/documentary/true_explore_sci_480p.stream/playlist.m3u8
+#EXTINF:-1,discovery_science
+https://live-cdn9.movieclub.tv/documentary/discovery_science_720p.stream/playlist.m3u8
+#EXTINF:-1,discovery_channel
+https://live-cdn9.movieclub.tv/documentary/discovery_channel_480p.stream/playlist.m3u8
+#EXTINF:-1,discovery_hd_world
+https://live-cdn9.movieclub.tv/documentary/discovery_hd_world_720p.stream/playlist.m3u8
+#EXTINF:-1,bbc_earth
+https://live-cdn9.movieclub.tv/documentary/bbc_earth_720p.stream/playlist.m3u8
+#EXTINF:-1,fyi
+https://live-cdn9.movieclub.tv/documentary/fyi_720p.stream/playlist.m3u8
+#EXTINF:-1,ci hd
+https://live-cdn9.movieclub.tv/foreign/ci_hd_720p.stream/chunklist.m3u8
+#EXTINF:-1,dmax
+https://live-cdn9.movieclub.tv/documentary/dmax_720p.stream/playlist.m3u8
+#EXTINF:-1,jkn_dramax
+https://live-cdn9.movieclub.tv/documentary/jkn_dramax_720p.stream/playlist.m3u8
+#EXTINF:-1,asian_food_channel
+https://live-cdn9.movieclub.tv/documentary/asian_food_channel_480p.stream/playlist.m3u8
+#EXTINF:-1,saradee
+http://symc-cdn01.bkk02.violin.co.th:1935/liveedge/292277143069_600/chunklist.m3u8
+
+
+
+#EXTINF:-1,TH_Flix_1
+http://www.playontube.com:1935/sport/thflix1/chunklist.m3u8
+#EXTINF:-1,TH_Flix_2
+http://www.playontube.com:1935/sport/thflix2/chunklist.m3u8
+#EXTINF:-1,TH_Flix_3
+http://www.playontube.com:1935/sport/thflix3/chunklist.m3u8
+
+
+
+
 #EXTINF:-1,Nickelodeon Europe 
 http://5.101.7.161:5095/play/a0pf 
 #EXTINF:-1,HBO HD_RUS 
 http://5.101.7.161:5095/play/a0p9 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
 http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/SJZjuqO.png" tvg-id="c73d988b5efc07dab514c0869eedda32",BBC Earth
+http://211.225.68.27:9981/stream/channelid/194526663?ticket=C2E798B19EA046AC8137F3CB2033722253682EF3&profile=pass
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth_KOR
 http://119.194.30.67:9981/stream/channelid/1550569005?ticket=F39C5EB1368D210C1C3972760F345AE57F270B93&profile=pass
 

@@ -63,13 +63,24 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-05-22
+date=2018-05-23
 URL=
 
 
 
 
 
+type=video
+name=Breaking In (2018) ENG HDCAM_ENG_X264-THAN0S_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKH7H4f5LPBQ5KOmHPcYtxCo7Od.jpg
+date=2018-05-23
+URL=https://openload.co/f/yuguQVD_tAM/Breaking_in_2018_HDCAM_ENG_X264-THAN0S_SeeHD.mkv.mp4
+
+type=video
+name=Kings (2017) ENG HDCAM_ENG_X264-THAN0S_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tA1mXJF75y57MvsZv2gDhbi0B4x.jpg
+date=2018-05-23
+URL=https://openload.co/f/NXxbOKq5Sus/Kings_2018_HDCAM_ENG_X264-THAN0S_SeeHD.mkv.mp4
 
 type=video
 name=Every Day (2018) ENG 720p.WEB-DL.H264.AC3-EVO_SeeHD
@@ -1265,12 +1276,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWNc8JfVRQpPlFfGsNOCsup9SN
 date=2018-05-15
 URL=https://openload.co/f/KmlE4oAplkM/Fate.Stay.Night.Heavens.Feel.2017.BRRip.H264-RBB.mp4
 
-type=video
-name=The Bookshop (2017) ENG BDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMSDciBev8h9P6KvxnQDOnExg0j.jpg
-date=2018-05-22
-URL=https://openload.co/f/5-CCCx8yvI4/The.Bookshop.2017.BDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/5h8C42EmfQA/The.Bookshop.2017.DVDRip.XviD.AC3-iFT.avi.mp4
+
 
 
 
@@ -1377,11 +1383,26 @@ URL=
 
 
 
+
+type=video
+name=The Bookshop (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMSDciBev8h9P6KvxnQDOnExg0j.jpg
+date=2018-05-23
+URL=https://openload.co/f/NQiCbl1YKm8/The.Bookshop.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/5-CCCx8yvI4/The.Bookshop.2017.BDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/5h8C42EmfQA/The.Bookshop.2017.DVDRip.XviD.AC3-iFT.avi.mp4
+#https://www.blazefile.co/embed-9ynkzjzk6318.html   720
+#https://uptobox.com/wu36vhctyffa   720
+#https://openload.co/embed/neyuN8_PpsA/THEBOOKSHOPBD72.Ganool.im.mkv
+
 type=video
 name=The Broken Key (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUtByH0xkohACU93yHtMhuGhZ7S.jpg
 date=2018-05-22
 URL=https://openload.co/f/z8AommVIy-k/The.Broken.Key.2017.1080p.BluRay.x264-NTROPiC.mkv.mp4
+#https://www.blazefile.co/embed-1isuafxd7kg5.html   720
+#http://uptobox.com/fo1vrg5wfn9e   720
+#https://openload.co/embed/rrWn0KUxlik/THEBROKENKEYBD72.Ganool.im.mkv.mp4
 
 type=video
 name=Miami (2017) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
@@ -1543,21 +1564,8 @@ URL=https://openload.co/f/yeSiQQuwQTc/Birdboy.The.Forgotten.Children.BR_SeeHD.mp
 
 
 
-type=video
-name=The 15:17 to Paris (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg
-date=2018-05-10
-URL=https://www.blazefile.co/embed-2tw95xqilbri.html
-#http://uptobox.com/fy7n43j2anqf
-#https://openload.co/f/TNpUpl4GVC4/The.15.17.to.Paris.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/Jy35tFG0lFo/The.15.17.to.Paris.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/EbzZfP6lv9c/The.15.17.to.Paris.2018.720p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/-N5Eqzwfb2I/The.15.17.to.Paris.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/duAEiMhsu4Y/The.15.17.to.Paris.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/MSpcpOW2xyQ/The.15.17.to.Paris.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/bV_8RkHANJQ/The_15-17_to_Paris_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/sXgYKJLlM2I/15.17_2018_CAM_Layar.mp4
-#https://openload.co/f/wK9RCbjRZMU/The_15%3A17_to_Paris_%282018%29_HDCAM_720p_Layar.mp4
+
+
 
 type=video
 name=Game Night (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2123,18 +2131,7 @@ URL=https://openload.co/f/WlQlW0OQwE0/The.Silence.of.the.Lambs.1991.REMASTERED.1
 
 
 
-type=video
-name=Proud Mary (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5luceoVMU2FzWuyty7mZFcSY5ZW.jpg
-date=2018-03-25
-URL=https://www.blazefile.co/embed-7padbbo1cbyw.html
-#https://uptobox.com/krbjpdl4obks
-#https://openload.co/f/wveKLJaGDgU/proud.mary.2018.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/QrO1I5KctjU/Proud.Mary.2018.720p.BR_SeeHD.mp4
-#https://openload.co/f/ASjDSaABhRk/Proud_Marry_2018_NEW_HD-TS_X264-CPG.mkv
-#https://openload.co/f/lufCvF3aNfE/Proud.Mary.2018.TS.XViD-BL4CKP34RL.avi.mp4
-#https://openload.co/f/UQh_JknDYSc/PROUD_MARY_CAMRIP_DVDKing.mp4
-#https://openload.co/f/631orZ24xIw/Proud.Mary_CAMRIP.mp4
+
 
 type=video
 name=25th Hour (2002) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2707,13 +2704,8 @@ URL=https://www.blazefile.co/embed-lh2b03e7ahrp.html
 #https://uptobox.com/ux069e3wplu5
 #https://openload.co/f/235mxEsrzMc/Reset.2017.1080p_BluRay_x264_DTS_-WiKi_Ganool.mkv.mp4
 
-type=video
-name=Legend of the Naga Pearls (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xX7Plx8yT2hL7jjvQGUYiBfUAww.jpg
-date=2018-02-21
-URL=https://www.blazefile.co/embed-o8vmjvqbcysd.html
-#https://uptobox.com/yb0ul9ypk012
-#https://openload.co/f/40o3tS9jDvA/Legend_of_the_Naga_Pearls_%282017%29Blu-ray_1080p_AVC_DTS-HD_MA_5.1-_Shadowman_Ganool.mkv.mp4
+
+
 
 type=video
 name=Mr. Frog (2016) [COLOR=FF00FF00]DUT BR 1080p[/COLOR]
@@ -2816,19 +2808,8 @@ URL=https://www.blazefile.co/embed-niw5rb1u5lay.html
 
 
 
-type=video
-name=Darkest Hour (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg
-date=2018-02-14
-URL=https://www.blazefile.co/embed-79ksytfi3jly.html
-#https://uptobox.com/lccmhalp0o37
-#https://openload.co/f/uOByRw0tBWY/Darkest.Hour.2017.1080p.Br_SeeHD.mp4
-#https://openload.co/f/VFXm1r4U504/darkest.hour.2017.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/1Wg2viwoYXE/The.darkest.hour.2017.720p.web-dl_SeeHD.mp4
-#https://openload.co/f/l9nI9JzbGLA/The.Darkest.Hour.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/MSD8G8qEISo/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
-#https://openload.co/f/e509QYay-QI/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
-#https://openload.co/f/c2aiOqF-6tg/Darkest_Hour_2017_HC_TS_x264-ChiLove.mp4
+
+
 
 type=video
 name=The Ballad of Lefty Brown (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3343,6 +3324,7 @@ name=Tad the Lost Explorer and the Secret of King Midas (2017) [COLOR=FF00FF00]E
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WtFoWtGp45PLNmajM8iGtjAA7B.jpg
 date=2018-01-06
 URL=https://uptobox.com/jk4w1rbajjd4
+#https://openload.co/f/3RVPAqpb5t0/Tad.The.Lost.Explorer.And.The.Secret.Of.King.Midas.2017.1080p.BluRay.x264-SNOW.mkv.mp4
 #https://openload.co/f/2h8cg_3MBuo/Tad_the_Lost_Explorer_and_the_Secret_of_King_Midas.2017.1080p.Bluray.X264-EVO.mkv.mp4
 
 
@@ -3469,13 +3451,7 @@ URL=https://openload.co/f/tT-Www94b0k/The.Middle.Finger.2017.1080p.BluRay.x264-R
 
 
 
-type=video
-name=Leatherface (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdRq1EygZK2LIYM6v29ai9uBOhE.jpg
-date=2017-12-08
-URL=https://www.blazefile.co/embed-byrcupw8roz4.html
-#https://openload.co/f/EPporE43L9s/leatherface.2017.1080p.bluray.x264-rovers.mkv.mp4
-#https://openload.co/f/jCLbmjYXZGc/Leatherface.2017.HDRip.XviD.AC3-TangoMango.avi.mp4
+
 
 type=video
 name=The Trip to Spain (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5261,6 +5237,52 @@ thumb=
 date=2018-04-17
 URL=
 
+
+
+
+
+
+
+type=video
+name=Darkest Hour (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg
+date=2018-02-14
+URL=https://www.blazefile.co/embed-79ksytfi3jly.html
+#https://uptobox.com/lccmhalp0o37
+#https://openload.co/f/uOByRw0tBWY/Darkest.Hour.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/VFXm1r4U504/darkest.hour.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/1Wg2viwoYXE/The.darkest.hour.2017.720p.web-dl_SeeHD.mp4
+#https://openload.co/f/l9nI9JzbGLA/The.Darkest.Hour.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/MSD8G8qEISo/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/e509QYay-QI/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/c2aiOqF-6tg/Darkest_Hour_2017_HC_TS_x264-ChiLove.mp4
+type=video
+name=Darkest Hour (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg
+date=2018-05-23
+URL=https://streamango.com/f/mflksmesbcmbqsad/Darkest_Hour_2017_
+
+
+type=video
+name=The 15:17 to Paris (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg
+date=2018-05-10
+URL=https://www.blazefile.co/embed-2tw95xqilbri.html
+#http://uptobox.com/fy7n43j2anqf
+#https://openload.co/f/TNpUpl4GVC4/The.15.17.to.Paris.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/Jy35tFG0lFo/The.15.17.to.Paris.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/EbzZfP6lv9c/The.15.17.to.Paris.2018.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/-N5Eqzwfb2I/The.15.17.to.Paris.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/duAEiMhsu4Y/The.15.17.to.Paris.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/MSpcpOW2xyQ/The.15.17.to.Paris.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/bV_8RkHANJQ/The_15-17_to_Paris_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/sXgYKJLlM2I/15.17_2018_CAM_Layar.mp4
+#https://openload.co/f/wK9RCbjRZMU/The_15%3A17_to_Paris_%282018%29_HDCAM_720p_Layar.mp4
+type=video
+name=The 15:17 to Paris (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg
+date=2018-05-23
+URL=https://streamango.com/f/bmqeqqqfofrtcrfk/The_15_17_to_Paris_2018_The_15_17_to_Paris_2018_
 
 
 type=video
@@ -7102,7 +7124,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-01
+date=2018-05-23
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
@@ -7112,14 +7134,88 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+type=video
+name=The Third Murder (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNKHZ5BWYTdUtfdHv4WAVoCWcxP.jpg
+date=2018-05-23
+URL=https://openload.co/f/xGHIDbxcH0g/The_Third_Murder_%282017%29%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B1%E0%B8%81%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88_3.mp4
 
 
+type=video
+name=Leatherface (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdRq1EygZK2LIYM6v29ai9uBOhE.jpg
+date=2017-12-08
+URL=https://www.blazefile.co/embed-byrcupw8roz4.html
+#https://openload.co/f/EPporE43L9s/leatherface.2017.1080p.bluray.x264-rovers.mkv.mp4
+#https://openload.co/f/jCLbmjYXZGc/Leatherface.2017.HDRip.XviD.AC3-TangoMango.avi.mp4
+type=video
+name=Leatherface (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdRq1EygZK2LIYM6v29ai9uBOhE.jpg
+date=2018-05-23
+URL=https://openload.co/f/K3sxTDPfyTI/Leatherface_%282017%29%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B8%9A_2017.mp4
 
 
+type=video
+name=Samui Song (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1apGVeQrKtge99kBdUJVP2rPNvT.jpg
+date=2018-05-23
+URL=https://openload.co/f/roXxsVvhXWQ/Samui_Song_%282017%29%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%A2%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
+#https://www.blazefile.co/embed-lwjh5stlvo0g.html   720
+#https://uptobox.com/zxju7u4idby8
+#https://openload.co/embed/Q8CN8ubFzSQ/Samui.Song.2017.BluRay.720p.800MB.Ganool.im.mkv.mp4
 
 
+type=video
+name=Proud Mary (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5luceoVMU2FzWuyty7mZFcSY5ZW.jpg
+date=2018-03-25
+URL=https://www.blazefile.co/embed-7padbbo1cbyw.html
+#https://uptobox.com/krbjpdl4obks
+#https://openload.co/f/wveKLJaGDgU/proud.mary.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/QrO1I5KctjU/Proud.Mary.2018.720p.BR_SeeHD.mp4
+#https://openload.co/f/ASjDSaABhRk/Proud_Marry_2018_NEW_HD-TS_X264-CPG.mkv
+#https://openload.co/f/lufCvF3aNfE/Proud.Mary.2018.TS.XViD-BL4CKP34RL.avi.mp4
+#https://openload.co/f/UQh_JknDYSc/PROUD_MARY_CAMRIP_DVDKing.mp4
+#https://openload.co/f/631orZ24xIw/Proud.Mary_CAMRIP.mp4
+type=video
+name=Proud Mary (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5luceoVMU2FzWuyty7mZFcSY5ZW.jpg
+date=2018-05-23
+URL=https://openload.co/f/GKSdHi9Amb4/Proud_Mary_%282018%29%E0%B9%81%E0%B8%A1%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C.mp4
 
 
+type=video
+name=Pop Aye (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTwE3Ff2LpCGBI4q7hsLzt2wnHP.jpg
+date=2018-05-23
+URL=https://openload.co/f/MKLFfif-IN0/Pop_Aye_%282017%29%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B%E0%B8%AD%E0%B8%B2%E0%B8%A2_%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%9F%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C.mp4
+
+
+type=video
+name=Legend of the Naga Pearls (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xX7Plx8yT2hL7jjvQGUYiBfUAww.jpg
+date=2018-02-21
+URL=https://www.blazefile.co/embed-o8vmjvqbcysd.html
+#https://uptobox.com/yb0ul9ypk012
+#https://openload.co/f/40o3tS9jDvA/Legend_of_the_Naga_Pearls_%282017%29Blu-ray_1080p_AVC_DTS-HD_MA_5.1-_Shadowman_Ganool.mkv.mp4
+type=video
+name=Legend of the Naga Pearls (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xX7Plx8yT2hL7jjvQGUYiBfUAww.jpg
+date=2018-05-23
+URL=https://openload.co/f/svXUoegPkMk/Legend_of_the_Naga_Pearls_%282017%29%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%B8%E0%B8%81%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B5.mp4
+
+
+type=video
+name=The Autopsy of Jane Doe (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvQgtEMXzQZDCZkkLFPK6cO1FIy.jpg
+date=2018-05-23
+URL=https://openload.co/f/bzjeALu0RUU/The_Autopsy_of_Jane_Doe_%282016%29%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%A8%E0%B8%9E%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B6%E0%B8%81.mp4
+
+type=video
+name=The Recall (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yq2DGzM0kNWtGwkplGAcEEM4eSH.jpg
+date=2018-05-23
+URL=https://openload.co/f/aA-bJW8vxaE/The_Recall_%282017%29%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%B7%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 
 
 type=video
@@ -7574,11 +7670,65 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-05-21
+date=2018-05-23
 URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=The Last Picture Show (1971) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfewjE8LYKoSluDlSszeZka2TCO.jpg
+date=2018-05-23
+URL=https://openload.co/f/mSA6ZS7q4pA/The_Last_Picture_Show_1971_CRITERION_720P_BRRiP_x264_AAC_Team_Nanban.mp4
+
+type=video
+name=Patton (1970) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6pyN7udgYaGr6uNIP2MuLUcqmPh.jpg
+date=2018-05-23
+URL=https://openload.co/f/8ysxah9r3Ck/Patton.1970.HD_720p.mp4
+
+type=video
+name=Guess Who's Coming to Dinner (1967) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhdXWhembE6a6q11NqpUcEdtAbw.jpg
+date=2018-05-23
+URL=https://openload.co/f/qDHxly6Vm68/Guess_Whos_Coming_to_Dinner_1967_720p_BRRip_x264_MP4_Multisubs_AAC-CC.mp4
+
+type=video
+name=The Best Years of Our Lives (1946) [COLOR=FF00FF00]ENG SD[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ba6GlZzRlh7OHUitFnzUF1U7gpu.jpg
+date=2018-05-23
+URL=https://openload.co/f/CohIjFIYYJQ/The_Best_Years_Of_Our_Lives.1946.SD.RE.160612.mp4
+
+type=video
+name=The Jazz Singer (1927) [COLOR=FF00FF00]ENG SD[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uw4yn5a8dQZA13mnmbKzRjEWerg.jpg
+date=2018-05-23
+URL=https://openload.co/f/hw2qVgf6NJs/The_Jazz_Singer.1927.mp4
+
+type=video
+name=Gravity (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPxtxhB2Fy9ihVqtBtNGHmknJqV.jpg
+date=2018-05-23
+URL=https://www.blazefile.co/embed-rwjwe5mftxs2.html
+#https://uptobox.com/gabni97k3uaz
+#https://openload.co/f/cSZVNzfTPAk/Gravity_%282013%29Diamond_Luxe_Edition_BluRay_1080p_TrueHD_Atmos_7.1_AVC_REMUX-FraMeSToR.Ganool.im.mkv.mp4
 
 type=video
 name=Death Wish (1974) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7675,7 +7825,10 @@ type=video
 name=Deadpool (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/inVq3FRqcYIRl2la8iZikYYxFNR.jpg
 date=2018-05-16
-URL=https://openload.co/f/3Trj1X1UdT0/Deadpool.2016.1080p.Br_SeeHD.mp4
+URL=https://www.blazefile.co/embed-q7t7qata6o7i.html
+#https://uptobox.com/y9vjmymvyf98
+#https://openload.co/f/3Trj1X1UdT0/Deadpool.2016.1080p.Br_SeeHD.mp4
+#https://openload.co/f/wC88n8Ap3Z0/Deadpool_%282016%291080p_BluRay_x264-SPARKS.Ganool.im.mkv.mp4
 #https://openload.co/f/mL95UkuRR4A/Deadpool.2016.720p.Br_SeeHD.mp4
 #https://www.blazefile.co/embed-dzb3omdo6kpq.html   720
 #http://uptobox.com/pp11nmerr9ul   720
