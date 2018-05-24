@@ -1879,6 +1879,66 @@ http://176.67.211.6:9000/udp/239.1.9.5:22905
 
 
 
+
+
+
+
+
+
+#EXTINF:-1,XX: Claro Adulto
+http://217.182.173.184:8000/live/micha/micha/2078.m3u8
+#EXTINF:-1,XX: Desire
+http://217.182.173.184:8000/live/micha/micha/2077.m3u8
+#EXTINF:-1,XX: Hot Redlight HD
+http://217.182.173.184:8000/live/micha/micha/2076.m3u8
+#EXTINF:-1,XX: Hustler HD
+http://217.182.173.184:8000/live/micha/micha/2075.m3u8
+#EXTINF:-1,XX: Hustler TV HD
+http://217.182.173.184:8000/live/micha/micha/2074.m3u8
+#EXTINF:-1,XX: Meiden Van Holland
+http://217.182.173.184:8000/live/micha/micha/2073.m3u8
+#EXTINF:-1,XX: PENTHOUSE 1 HD
+http://217.182.173.184:8000/live/micha/micha/2072.m3u8
+#EXTINF:-1,XX: Pink Erotic
+http://217.182.173.184:8000/live/micha/micha/2071.m3u8
+#EXTINF:-1,XX: Pink Erotic 2
+http://217.182.173.184:8000/live/micha/micha/2070.m3u8
+#EXTINF:-1,XX: Pink Erotic 3
+http://217.182.173.184:8000/live/micha/micha/2069.m3u8
+#EXTINF:-1,XX: Pink Erotic 4
+http://217.182.173.184:8000/live/micha/micha/2068.m3u8
+#EXTINF:-1,XX: Pink Erotik 5
+http://217.182.173.184:8000/live/micha/micha/2067.m3u8
+#EXTINF:-1,XX: Pink Erotik 6
+http://217.182.173.184:8000/live/micha/micha/2066.m3u8
+#EXTINF:-1,XX: Pink Erotik 7
+http://217.182.173.184:8000/live/micha/micha/2065.m3u8
+#EXTINF:-1,XX: Pink Erotik 8
+http://217.182.173.184:8000/live/micha/micha/2064.m3u8
+#EXTINF:-1,XX: Private
+http://217.182.173.184:8000/live/micha/micha/2063.m3u8
+#EXTINF:-1,XX: SuperOne HD
+http://217.182.173.184:8000/live/micha/micha/2062.m3u8
+#EXTINF:-1,XX: XXX 1
+http://217.182.173.184:8000/live/micha/micha/2061.m3u8
+#EXTINF:-1,XX: XXX Euro Dolls
+http://217.182.173.184:8000/live/micha/micha/2060.m3u8
+#EXTINF:-1,XX: XXX Nubiles Casting
+http://217.182.173.184:8000/live/micha/micha/2059.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI_27
 http://27.254.64.112:1935/thflixCH/Discovery_Science.stream/chunklist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery Asia HD
@@ -2168,8 +2228,22 @@ http://www.playontube.com:1935/sport/thflix2/chunklist.m3u8
 http://www.playontube.com:1935/sport/thflix3/chunklist.m3u8
 
 
-
-
+#EXTINF:-1,UK: NAT GEO HD
+http://217.182.173.184:8000/live/micha/micha/2172.m3u8
+#EXTINF:-1,UK: FOOD_NETWORK
+http://217.182.173.184:8000/live/micha/micha/2162.m3u8
+#EXTINF:-1,UK National Geographic UK
+http://217.182.173.184:8000/live/micha/micha/2160.m3u8
+#EXTINF:-1,UK: Discovery
+http://217.182.173.184:8000/live/micha/micha/2163.m3u8
+#EXTINF:-1,national_geographic_people TR
+http://217.182.173.184:8000/live/micha/micha/587.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth_rtmp
+rtmp://198.16.72.226/stream/2011?e=1522570726&st=AlJrRTrWkdmpn0mSzJPmOQ
+#EXTINF:-1,national_geographic_people_rtmp
+rtmp://198.16.72.242/stream/2412?e=1522570726&st=3A-5LmumSgee_25MbW-OSA
+#EXTINF:-1 group-title="docu" tvg-logo="http://static.skylife.co.kr/upload/channel/201605/logo_FoodTV.png",FoodTV
+http://221.141.191.70:9981/stream/channelid/2081535398?ticket=A1DBD516902085C9468D92EBE308D660CAAD0C89&profile=pass
 #EXTINF:-1,Nickelodeon Europe 
 http://5.101.7.161:5095/play/a0pf 
 #EXTINF:-1,HBO HD_RUS 
@@ -2177,7 +2251,7 @@ http://5.101.7.161:5095/play/a0p9
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
 http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
 #EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/SJZjuqO.png" tvg-id="c73d988b5efc07dab514c0869eedda32",BBC Earth
-http://211.225.68.27:9981/stream/channelid/194526663?ticket=C2E798B19EA046AC8137F3CB2033722253682EF3&profile=pass
+http://122.38.74.172:9981/stream/channelid/1836601049?ticket=487EA11E9B49DD54F9E73847EF1FE731BE7DEDFE&profile=pass
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth_KOR
 http://119.194.30.67:9981/stream/channelid/1550569005?ticket=F39C5EB1368D210C1C3972760F345AE57F270B93&profile=pass
 

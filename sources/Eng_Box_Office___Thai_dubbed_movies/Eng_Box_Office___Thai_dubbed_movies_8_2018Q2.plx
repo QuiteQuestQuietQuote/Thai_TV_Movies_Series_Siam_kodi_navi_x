@@ -63,12 +63,21 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-05-23
+date=2018-05-24
 URL=
 
 
 
 
+
+
+
+type=video
+name=Solo: A Star Wars Story (2018) ENG 720p.HDCAM.Eng.1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IGbjc5ZC5yxim5W0sFING2kdcz.jpg
+date=2018-05-24
+URL=https://openload.co/f/KbdK1ENYGkU/Solo.A_Star_Wars_Story.2018.720p.HDCAM.Eng.1XBET_SeeHD.mp4
+#https://openload.co/f/V_owx_hrBak/Solo%3A_A_Star_Wars_Story_%282018%29HDCAM_720p_x264_750MB_AAC_-_NoGroup.Ganool.im.mkv.mp4
 
 type=video
 name=Breaking In (2018) ENG HDCAM_ENG_X264-THAN0S_SeeHD
@@ -210,10 +219,11 @@ URL=https://openload.co/f/JbO-zGeM36A/The_Strangers_Prey_at_Night_2018_1080p_WEB
 #https://openload.co/f/4gpOCH3Sy0k/The.Stranger.Prey.at.Night.2018.Pk.TS.E.mp4
 
 type=video
-name=A Wrinkle in Time (2018) ENG NOLOGO_720p_HD-TS_X264_Mr-Hive
+name=A Wrinkle in Time (2018) ENG DVDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSb6B7pwiZbW7In6juYEYjZ4Bsw.jpg
-date=2018-03-25
-URL=https://openload.co/f/mmEc4IOPpxw/A_Wrinkle_in_Time_2018_NOLOGO_720p_HD-TS_X264_Mr-Hive.mp4
+date=2018-05-24
+URL=https://openload.co/f/8M3QJiEiLhY/A.Wrinkle.in.Time.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/mmEc4IOPpxw/A_Wrinkle_in_Time_2018_NOLOGO_720p_HD-TS_X264_Mr-Hive.mp4
 #https://openload.co/f/QF_HI0-frlo/A_Wrinkle_in_Time_2018_720p_HD-TS_X264_Mr-Hive_SeeHD.mkv.mp4
 #https://openload.co/f/trkMR5Jm9Aw/A.Wrinkle.in.Time.2018.720p.HDCAM.E.mp4
 
@@ -1376,13 +1386,37 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-22
+date=2018-05-24
 URL=
 
 
 
 
 
+type=video
+name=The Forgiven (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jp9B3fGLmON5BV28FjZipMVFPZg.jpg
+date=2018-05-24
+URL=https://www.blazefile.co/embed-7qh7x95o7fjl.html
+#https://uptobox.com/cz9o5c11r5g5
+#https://openload.co/embed/0CGUrTDlwf0/GHPTHEFORGIVEN80.Ganool.im.mkv.mp4
+#https://openload.co/f/zj-YCAEwIFU/The.Forgiven.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://www.blazefile.co/embed-44hi6dn76khy.html   720
+#https://uptobox.com/84vqpzshuxid   720
+
+type=video
+name=Winning Ticket (2018) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIefxl7ewozB6M2NbWhNC2q3niA.jpg
+date=2018-05-24
+URL=https://openload.co/f/cPgfOgyvMQA/Kaikki.Oikein.2018.BluRay.1080p.x264-FiCO.mkv.mp4
+
+type=video
+name=Jodhaa Akbar (2008) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fi2aEp8RpVoh4jYRsOUcTRinYNd.jpg
+date=2018-05-24
+URL=https://www.blazefile.co/embed-pkjrl8k3muz4.html
+#http://uptobox.com/9v8i6pb19fqd
+#https://openload.co/f/LG34G1QzC-s/Jodhaa_Akbar_%282008%291080p_BluRay_x264_DTS_5.1_ESub-Hony.Ganool.im.mkv.mp4
 
 type=video
 name=The Bookshop (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1687,6 +1721,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzxsCW4chkwXzfJPLXImpEpjtV
 date=2018-04-30
 URL=https://www.blazefile.co/embed-82kqntbr1nyk.html
 #https://uptobox.com/zn1ceuymxzf4
+#https://openload.co/f/rKX673adQVI/the.swindlers.2017.1080p.bluray.x264-regret.mkv.mp4
 #https://uptobox.com/1y3alu8fy3kq   720
 
 type=video
@@ -4930,12 +4965,7 @@ URL=https://www.blazefile.co/embed-xxk6l06kqb0u.html
 #https://openload.co/f/t1E8pQAnJaw/Freehold_2017_HDRip_XviD_AC3-EVO.avi.mp4
 #https://openload.co/f/I7UjFFBDk_g/Freehold.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=The Forgiven (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jp9B3fGLmON5BV28FjZipMVFPZg.jpg
-date=2018-05-09
-URL=https://www.blazefile.co/embed-44hi6dn76khy.html
-#https://uptobox.com/84vqpzshuxid
+
 
 type=video
 name=Girls VS Gangsters (2018) [COLOR=FF00FF00]VIET BR 720p[/COLOR]
@@ -5150,10 +5180,15 @@ URL=https://streamango.com/f/pbemkasrmnlorfdt/Tomb_Raider_2018_
 
 
 type=video
-name=Death Wish (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+name=Death Wish (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRpOwIlOXZZVWgDernbPbdHU5cl.jpg
-date=2018-05-22
-URL=https://openload.co/f/ZKSGUH86ztI/Death.Wish.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2018-05-24
+URL=https://www.blazefile.co/embed-xvcrpxnhrnou.html
+#https://uptobox.com/dd31nbu13cms
+#https://openload.co/embed/SXWIoN-WUEQ/GHPDEATHWISH80.Ganool.im.mkv
+#https://openload.co/f/XG6t1iDuzqM/Death.Wish.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/8GCrFK5XTeM/Death.Wish.2018.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/ZKSGUH86ztI/Death.Wish.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/mBpieI5UGn0/Death_Wish_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
 #https://openload.co/f/m6H4BMp2miQ/Death_Wish_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/k7KT8naQGo8/Death_Wish_2018.HD-TS.XViD.AC3-ETRG.avi.mp4
@@ -7690,7 +7725,23 @@ URL=
 
 
 
+type=video
+name=Central Station (1998) [COLOR=FF00FF00]POR DVD[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQj3kqTPOVnEFnWr7esi90ZyzTm.jpg
+date=2018-05-24
+URL=https://openload.co/f/2g_4CFPOvps/Central_Station_1998_DVDR.1024x576.Jesse_Jacqueline.encoded.mp4
 
+type=video
+name=Hard Eight (1996) [COLOR=FF00FF00]ENG HDTV 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlULHF25GAFc6F3xZhovctWkNCr.jpg
+date=2018-05-24
+URL=https://openload.co/f/lB6IRWCi838/Hard.Eight.1996.720p.HDTV.XviD.AC3-RARBG.E8FC1.mp4
+
+type=video
+name=The Spirit of the Beehive (1973) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VRMyYh259EqPaVFJOC3fN1iBRR.jpg
+date=2018-05-24
+URL=https://openload.co/f/cmqEmCDdqeo/The.Spirit.Of.The.Beehive.1973.1080p.BluRay.x264.DTS-SARTRE.encoded.mp4
 
 type=video
 name=The Last Picture Show (1971) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
