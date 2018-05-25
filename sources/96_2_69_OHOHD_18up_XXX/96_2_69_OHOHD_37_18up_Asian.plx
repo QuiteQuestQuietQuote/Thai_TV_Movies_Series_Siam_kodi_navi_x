@@ -56,6 +56,189 @@ URL=
 
 
 
+
+
+
+
+
+
+type=video
+name=150xxxxxxxxxxxxxxxxxxxxDisclosure (2013) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Disclosure-2013.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/fskcecalkqakknqs/
+
+type=video
+name=What Happened in a Fairy Tale (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/What-Happened-in-a-Fairy-Tale-2017.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/fsrbktkdaqbtmmad/
+
+type=video
+name=The amount of B shaking her ass (2014) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/The-amount-of-B-shaking-her-ass-2014.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/dmafonbrccmmntlb/
+
+type=video
+name=Critical sex (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Critical-sex-2013.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/rodrbmerntcmerqd/
+
+type=video
+name=Steal Perfect Conquest – Sun Kannon Club (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Steal-Perfect-Conquest-Sun-Kannon-Club-2016.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/eoktpkfmotaeqkln/
+
+
+type=video
+name=Wife’s ass (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Wifes-ass-2017.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/ldppqmkcknnpqlks/
+
+type=video
+name=Jangmohaggaelon (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Jangmohaggaelon-2018.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/mtmqclrfdraetqee/
+
+type=video
+name=Eolin Cheoje (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Eolin-Cheoje-2018.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/sttctsfbdddpmcqt/
+
+type=video
+name=Delicious Temptation (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Delicious-Temptation-2018-Uncut.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/skmosssellebbapm/
+
+type=video
+name=Gamennhujin (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Gamennhujin-2017.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/cfkdeklofrqsftof/
+
+
+type=video
+name=A Sexy Married Relative 2 (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/A-Sexy-Married-Relative-2-2017.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/lsclcndqfdbbnsmo/
+
+type=video
+name=The Beginning Of Desire (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/The-Beginning-Of-Desire-2017.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/lllebfakdoqoqdke/
+
+type=video
+name=Purpose Of Reunion 3 (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Purpose-Of-Reunion-3-2017-Uncut.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/oqnneoqafobenmbc/
+
+type=video
+name=On that day, a Japanese college student (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/On-that-day-a-Japanese-college-student-2017.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/olbckedcdbkopmmp/
+
+type=video
+name=A valley full of men (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/A-valley-full-of-men-2017.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/effoaebaarmptkcm/
+
+
+type=video
+name=Glamor virgins next door (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Glamor-virgins-next-door-2017.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/actlnlbsbdrakdlc/
+
+type=video
+name=A-grade shipbreaking flaming asshole (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/A-grade-shipbreaking-flaming-asshole-2017.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/mfceqktddnsncafk/
+
+type=video
+name=A loose wife (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/A-loose-wife-2017.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/nmcdndroaqsccbll/
+
+type=video
+name=Actors of the culminating culmination (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Actors-of-the-culminating-culmination-2017.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/nfncecmafnodfdbq/
+
+type=video
+name=Wife Wife Wants To Know (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Wife-Wife-Wants-To-Know-2017.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/nsprneofmqblddbs/
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=130xxxxxxxxxxxxxxxxxxxxImmaculate skin giving a lot of back and forth skin (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Immaculate-skin-giving-a-lot-of-back-and-forth-skin-2017.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/araprmomonbtdfrb/
+
+type=video
+name=Man’s Herbal – Honey Popping (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Mans-Herbal-Honey-Popping-2016.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/naplbpbpqlnemdns/
+
+type=video
+name=Yeojig Won Ui Mas (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Yeojig-Won-Ui-Mas-2018.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/caaasccfqdroffpr/
+
+type=video
+name=Chingueomma Nae Yeojaga Doedeon Nal (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Chingueomma-Nae-Yeojaga-Doedeon-Nal-2018.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/tckartdtendakeeo/
+
+type=video
+name=Jeongsa Chaghan Myeoneulideul (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Jeongsa-Chaghan-Myeoneulideul-2017-Uncut.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/dnrqcflfcscsqdrb/
+
+
+type=video
+name=Syncoped Oil Massage On Slippy Black Gal (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Syncoped-Oil-Massage-On-Slippy-Black-Gal-2017.jpg
+date=2018-05-25
+URL=https://streamcherry.com/embed/ebrcpcamodlbcndp/
+
+
+
+
+
+
+
 type=video
 name=124xxxxxxxxxxxxxxxxxxxxMother Was Taken Down (2017)
 thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Mother-Was-Taken-Down-2017.jpg
