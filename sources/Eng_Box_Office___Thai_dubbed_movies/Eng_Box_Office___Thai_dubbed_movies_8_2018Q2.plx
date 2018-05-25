@@ -97,19 +97,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UnME3icxSspwL0UoGZNSyyp7X
 date=2018-05-22
 URL=https://openload.co/f/aIW0ZBLOrto/Every.Day.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 
-type=video
-name=Thoroughbreds (2018) ENG 1080p.WEB-DL.DD5_1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIxZzTfITqBpZxbIGsV01DcoHsT.jpg
-date=2018-05-22
-URL=https://openload.co/f/3N_By8enxCY/Thoroughbreds.2017.1080p.WEB-DL.DD5_1.H264-CMRG.mkv.mp4
-#https://openload.co/f/fEVjQwiI-o8/Thoroughbreds_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
 
-type=video
-name=Gringo (2018) ENG 1080p_WEB-DL_DD5.1_H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxeVPklFwng2IowqRPNI4od6aXv.jpg
-date=2018-05-22
-URL=https://openload.co/f/GGsjpRfPruk/Gringo_2018_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
-#https://openload.co/f/5TsFOCFhy1I/Gringo.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+
+
 
 type=video
 name=Disobedience (2018) ENG 720p%2BHDCAM%2BX264-SugarTtis
@@ -187,17 +177,6 @@ date=2018-04-12
 URL=https://openload.co/f/g46sjjNuT3g/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi_SeeHD.mkv.mp4
 #https://openload.co/f/e5MNXzl3aog/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi.mkv.mp4
 
-type=video
-name=A Quiet Place (2018) ENG 720p.HC.HDRip.X264.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
-date=2018-05-22
-URL=https://openload.co/f/h8acclwszug/A_Quiet_Place.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/tgCRSk8Gg3o/A_Quiet_Place_%282018%29720p_HC_HDRip_X264_AC3-EVO.Ganool.im.mkv.mp4
-#https://openload.co/f/qIWKQG_1QjY/A.Quiet.Place.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/4rP4kBfw7no/A.Quiet.Place.2018.NOLOGO.NEW.HDCAM.ENG.X264-Mr.HIVE.mkv.mp4
-#https://openload.co/f/DRoYF1zP1EI/A_Quiet_Place_2018_NEW_HDCAM_ENG_X264-Mr.HIVE.mkv.mp4
-#https://openload.co/f/bxT6UUfg6Cg/A_Quiet_Place_%282018%29_New_Movie_CAM_x264_AC3_by_Full4movies.mp4
-#https://openload.co/f/4oOgXQX4jy4/A_Quiet_Place_%282018%29_CAM_SpaceMov.is
 
 
 
@@ -218,14 +197,7 @@ URL=https://openload.co/f/JbO-zGeM36A/The_Strangers_Prey_at_Night_2018_1080p_WEB
 #https://openload.co/f/CetPr_P4a0Y/The_Strangers_Prey_at_Night.2018.HD-TS.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/4gpOCH3Sy0k/The.Stranger.Prey.at.Night.2018.Pk.TS.E.mp4
 
-type=video
-name=A Wrinkle in Time (2018) ENG DVDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSb6B7pwiZbW7In6juYEYjZ4Bsw.jpg
-date=2018-05-24
-URL=https://openload.co/f/8M3QJiEiLhY/A.Wrinkle.in.Time.2018.DVDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/mmEc4IOPpxw/A_Wrinkle_in_Time_2018_NOLOGO_720p_HD-TS_X264_Mr-Hive.mp4
-#https://openload.co/f/QF_HI0-frlo/A_Wrinkle_in_Time_2018_720p_HD-TS_X264_Mr-Hive_SeeHD.mkv.mp4
-#https://openload.co/f/trkMR5Jm9Aw/A.Wrinkle.in.Time.2018.720p.HDCAM.E.mp4
+
 
 type=video
 name=10x10 (2018) ENG 720p.WEB-DL.X264.AC3-EVO
@@ -1386,12 +1358,90 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-24
+date=2018-05-25
 URL=
 
 
 
 
+
+
+
+type=video
+name=Godless Youth (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
+thumb=https://www.themoviedb.org/movie/418098-jugend-ohne-gott#
+date=2018-05-25
+URL=https://openload.co/f/6bho_d2Jxfw/godless.youth.2017.1080p.bluray.x264-bipolar.mkv.mp4
+#https://www.blazefile.co/embed-46wp0iad6sdu.html   720
+#https://uptobox.com/rn1l8lpd9d06   720
+#https://openload.co/embed/J94GdApMFfM/GODLESSYOUTHBD72.Ganool.im.mkv
+
+type=video
+name=Made in Italy (2018) [COLOR=FF00FF00]ITA BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzeFmkdPoxSisdTHvdgbR4p8ReM.jpg
+date=2018-05-25
+URL=https://openload.co/f/Ka_tn1IWcSw/made.in.italy.2018.1080p.bluray.x264-bipolar.mkv.mp4
+#https://www.blazefile.co/embed-k6uquhwmbddu.html   720
+#https://uptobox.com/696eucfgb49e   720
+#https://openload.co/embed/RcJaS_hlrAc/MADEINITALYBD72.Ganool.im.mkv.mp4
+
+type=video
+name=Sara's Notebook (2018) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7zGvuM2Z22m7gx0QKDNEnzWGQr.jpg
+date=2018-05-25
+URL=https://openload.co/f/ujg0fHIB170/saras.notebook.2018.1080p.bluray.x264-bipolar.mkv.mp4
+#https://www.blazefile.co/embed-vbn2vh9ceejb.html   720
+#https://uptobox.com/phsr6qvf7ni7   720
+#https://openload.co/embed/vfkASw4JR3Y/SARASNOTBEOOKBD72.Ganool.im.mkv.mp4
+
+type=video
+name=Berlin Falling (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTB9gDQOf6R9fIFcFvre2eYDeEi.jpg
+date=2018-05-25
+URL=https://openload.co/f/DSLkGRWaYIs/berlin.falling.2017.1080p.bluray.x264-bipolar.mkv.mp4
+
+type=video
+name=Summer 1993 (2017) [COLOR=FF00FF00]CAT BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/krdSl7IpDb9c31CXrzA5yfP1oYM.jpg
+date=2018-05-25
+URL=https://openload.co/f/VqKck0Qtg64/summer.1993.2017.1080p.bluray.x264-usury.mkv.mp4
+
+type=video
+name=Thoroughbreds (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIxZzTfITqBpZxbIGsV01DcoHsT.jpg
+date=2018-05-25
+URL=https://openload.co/f/R6wD5XRa8KY/Thoroughbreds.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/OT7aKhuybJM/Thoroughbreds.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/3N_By8enxCY/Thoroughbreds.2017.1080p.WEB-DL.DD5_1.H264-CMRG.mkv.mp4
+#https://openload.co/f/fEVjQwiI-o8/Thoroughbreds_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
+#https://www.blazefile.co/embed-wl6nvogo8r9x.html   720
+#https://uptobox.com/jemyjhsafrm9   720
+#https://openload.co/embed/yvnYmv6WCo4/SHQTHROUGBREDSBD72.Ganool.im.mkv.mp4
+
+type=video
+name=Gringo (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxeVPklFwng2IowqRPNI4od6aXv.jpg
+date=2018-05-25
+URL=https://openload.co/f/fWTOWcy5J0U/Gringo.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/GGsjpRfPruk/Gringo_2018_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
+#https://openload.co/f/5TsFOCFhy1I/Gringo.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://www.blazefile.co/embed-r3zihnf4thxo.html   720
+#https://uptobox.com/z5arppeq457p   720
+#https://openload.co/embed/dah227mTS5s/SHQGRIONGIBD72.Ganool.im.mkv
+
+type=video
+name=A Wrinkle in Time (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSb6B7pwiZbW7In6juYEYjZ4Bsw.jpg
+date=2018-05-25
+URL=https://www.blazefile.co/embed-jid1zr33fy8w.html
+#https://openload.co/embed/q8iMXXSVQtI/GHPAWRINGLEINTIME80.Ganool.im.mkv.mp4
+#https://openload.co/f/J3HPXX-j0xc/A_Wrinkle_in_Time_%282018%291080p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
+#https://openload.co/f/gPGBNpFHuL0/A.Wrinkle.in.Time.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/bRO-mdo0BlI/A.Wrinkle.in.Time.2018.720p.BR_SeeHD.mp4
+#https://openload.co/f/8M3QJiEiLhY/A.Wrinkle.in.Time.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/mmEc4IOPpxw/A_Wrinkle_in_Time_2018_NOLOGO_720p_HD-TS_X264_Mr-Hive.mp4
+#https://openload.co/f/QF_HI0-frlo/A_Wrinkle_in_Time_2018_720p_HD-TS_X264_Mr-Hive_SeeHD.mkv.mp4
+#https://openload.co/f/trkMR5Jm9Aw/A.Wrinkle.in.Time.2018.720p.HDCAM.E.mp4
 
 type=video
 name=The Forgiven (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1734,13 +1784,7 @@ URL=https://www.blazefile.co/embed-c30l73cf9dkh.html
 #https://openload.co/f/yKN3kDysiP4/Submergence.2017.720p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/QLfh4IFUDLc/Submergence.2018_BDRip_Layar.mp4
 
-type=video
-name=Legend of the Demon Cat (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH6E6VxljPXmnb9tan4fcC9NAeV.jpg
-date=2018-04-29
-URL=https://www.blazefile.co/embed-g354475obp9l.html
-#https://uptobox.com/be70dinlor33
-#https://openload.co/f/7VW7eiG-2lc/Legend.of.the.Demon.Cat.2017.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
+
 
 type=video
 name=Scarecrows (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3007,6 +3051,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyJEWYpSajeAMJxSiLhtCVhxiX
 date=2018-02-05
 URL=https://www.blazefile.co/embed-wxpjxvpewvpv.html
 #https://uptobox.com/flg2h3kr9nwd
+#https://openload.co/f/lywZlPUcG0A/The.Secret.Scripture.2016.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
 #https://openload.co/f/7r7SzFXsGB4/the.secret.scripture.2016.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/Bu2BqxOQcIw/The.Secret.Scripture.2016.720p.BluRay.x264.DTS-R23.mkv.mp4
 #https://openload.co/f/z7pRMKWjVN0/The.Secret.Scripture.2016.DVDRip.x264-PSYCHD.mkv.mp4
@@ -3789,11 +3834,7 @@ date=2017-10-30
 URL=https://www.blazefile.co/embed-74wvnfwgk3wg.html
 #https://openload.co/f/6rrOAhTmRPI/the.vault.2017.limited.1080p.bluray.x264-bipolar.mkv.mp4
 
-type=video
-name=All Nighter (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciNUrbNv871umQ3IqvIOjet4s4E.jpg
-date=2017-10-29
-URL=https://openload.co/f/VRFWP55dsdM/All.Nighter.2017.1080p.BluRay.x264-CONDITION.mkv.mp4
+
 
 type=video
 name=Ali and Nino (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5078,6 +5119,7 @@ name=Deadpool 2 (2018) ENG 720p_New_HDCAM-X264-AC3_Cleaned-Bobi_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
 date=2018-05-17
 URL=https://openload.co/f/NpRKO6OnUQ0/Deadpool_2_2018_720p_New_HDCAM-X264-AC3_Cleaned-Bobi_SeeHD.mkv.mp4
+#https://openload.co/f/D15b5KiAff4/Deadpool.2.2018.720p.HDTS.x264-SpaceMov.mp4
 #https://openload.co/f/UliAIS5sWpU/Deadpool_2_%282018%29_English_HDTS_-_720p_-_x264_-_AC3_-_2.4GB.mkv.mp4
 #https://openload.co/f/Zb_meIBKWic/Deadpool_2_%282018%29720p_TS_ENG_X264-1xbit.Ganool.im.mkv.mp4
 type=video
@@ -5179,28 +5221,7 @@ URL=https://streamango.com/f/pbemkasrmnlorfdt/Tomb_Raider_2018_
 
 
 
-type=video
-name=Death Wish (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRpOwIlOXZZVWgDernbPbdHU5cl.jpg
-date=2018-05-24
-URL=https://www.blazefile.co/embed-xvcrpxnhrnou.html
-#https://uptobox.com/dd31nbu13cms
-#https://openload.co/embed/SXWIoN-WUEQ/GHPDEATHWISH80.Ganool.im.mkv
-#https://openload.co/f/XG6t1iDuzqM/Death.Wish.2018.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/8GCrFK5XTeM/Death.Wish.2018.720p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/ZKSGUH86ztI/Death.Wish.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/mBpieI5UGn0/Death_Wish_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
-#https://openload.co/f/m6H4BMp2miQ/Death_Wish_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/k7KT8naQGo8/Death_Wish_2018.HD-TS.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/hScYbg7JR6A/Death_Wish_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/zO6vHUtv0Uc/Death_Wish_2018_NEW_HDCAM_Layar.mp4
-#https://openload.co/f/woXxvTJV3xQ/Death.Wish.2018.NEW_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/08UkBIEbOMg/Death.Wish.2018.HDCAM.x264-DiRG.mp4
-type=video
-name=Death Wish (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRpOwIlOXZZVWgDernbPbdHU5cl.jpg
-date=2018-03-20
-URL=https://streamango.com/f/asrrkenbdmknakap/Death_Wish_2018_
+
 
 
 type=video
@@ -5269,13 +5290,44 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-04-17
+date=2018-05-25
 URL=
 
 
 
 
 
+
+
+
+type=video
+name=The Kissing Booth (2018) ENG internal.1080p.web.x264-strife
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Dktk2ST6aL8h9Oe5rpk903VLhx.jpg
+date=2018-05-25
+URL=https://openload.co/f/_dhZpOVdf8U/the.kissing.booth.2018.internal.1080p.web.x264-strife.mkv.mp4
+type=video
+name=The Kissing Booth (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Dktk2ST6aL8h9Oe5rpk903VLhx.jpg
+date=2018-05-25
+URL=https://streamango.com/f/coabralqdkpdtmqf/The_Kissing_Booth_2018_
+
+
+type=video
+name=Cargo (2018) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdPSUck4tBRvRu6DFk6XciDrssn.jpg
+date=2018-05-25
+URL=https://openload.co/f/Qjn4A9UHrG8/Cargo.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG.mp4
+type=video
+name=Cargo (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdPSUck4tBRvRu6DFk6XciDrssn.jpg
+date=2018-05-25
+URL=https://streamango.com/f/apcpcsbansmfrcan/Cargo_2018_
+
+type=video
+name=V.I.P (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUgzvnPOVMXjrqIq9LtXYXosf3S.jpg
+date=2018-05-25
+URL=https://streamango.com/f/eamdktqemrqstept/V_I_P_2017_
 
 
 type=video
@@ -6592,6 +6644,50 @@ URL=
 
 
 
+
+type=video
+name=Death Wish (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRpOwIlOXZZVWgDernbPbdHU5cl.jpg
+date=2018-05-24
+URL=https://www.blazefile.co/embed-xvcrpxnhrnou.html
+#https://uptobox.com/dd31nbu13cms
+#https://openload.co/embed/SXWIoN-WUEQ/GHPDEATHWISH80.Ganool.im.mkv
+#https://openload.co/f/XG6t1iDuzqM/Death.Wish.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/8GCrFK5XTeM/Death.Wish.2018.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/ZKSGUH86ztI/Death.Wish.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/mBpieI5UGn0/Death_Wish_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
+#https://openload.co/f/m6H4BMp2miQ/Death_Wish_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/k7KT8naQGo8/Death_Wish_2018.HD-TS.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/hScYbg7JR6A/Death_Wish_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/zO6vHUtv0Uc/Death_Wish_2018_NEW_HDCAM_Layar.mp4
+#https://openload.co/f/woXxvTJV3xQ/Death.Wish.2018.NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/08UkBIEbOMg/Death.Wish.2018.HDCAM.x264-DiRG.mp4
+type=video
+name=Death Wish (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRpOwIlOXZZVWgDernbPbdHU5cl.jpg
+date=2018-05-25
+URL=https://streamango.com/f/osqbeaqeffctktas/Death_Wish_2018_
+#https://streamango.com/f/asrrkenbdmknakap/Death_Wish_2018_
+
+
+type=video
+name=A Quiet Place (2018) ENG 720p.HC.HDRip.X264.AC3-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
+date=2018-05-22
+URL=https://openload.co/f/h8acclwszug/A_Quiet_Place.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/tgCRSk8Gg3o/A_Quiet_Place_%282018%29720p_HC_HDRip_X264_AC3-EVO.Ganool.im.mkv.mp4
+#https://openload.co/f/qIWKQG_1QjY/A.Quiet.Place.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/4rP4kBfw7no/A.Quiet.Place.2018.NOLOGO.NEW.HDCAM.ENG.X264-Mr.HIVE.mkv.mp4
+#https://openload.co/f/DRoYF1zP1EI/A_Quiet_Place_2018_NEW_HDCAM_ENG_X264-Mr.HIVE.mkv.mp4
+#https://openload.co/f/bxT6UUfg6Cg/A_Quiet_Place_%282018%29_New_Movie_CAM_x264_AC3_by_Full4movies.mp4
+#https://openload.co/f/4oOgXQX4jy4/A_Quiet_Place_%282018%29_CAM_SpaceMov.is
+type=video
+name=A Quiet Place (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
+date=2018-05-25
+URL=https://streamango.com/f/cdmbdodclftcmmrt/A_Quiet_Place_2018_
+
+
 type=video
 name=Ready Player One (2018) ENG 720pHD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
@@ -6732,15 +6828,19 @@ URL=https://streamango.com/f/bfetceqmnompadfa/Monster_Hunt_2_2018_2_V_2_mp4
 
 
 type=video
-name=The Hurricane Heist (2018) ENG 1080p_SeeHD
+name=The Hurricane Heist (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
-date=2018-04-09
-URL=https://openload.co/f/0Zs_IbIVQwQ/The.Hurricane.Heist.2017.1080p_SeeHD.mp4
+date=2018-05-25
+URL=https://openload.co/f/9v1shZR7hLU/The.Hurricane.Heist.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/0Zs_IbIVQwQ/The.Hurricane.Heist.2017.1080p_SeeHD.mp4
 #https://openload.co/f/0-ofoQwhdfU/The.Hurricane.Heist.2017.1080p.HDTV.x264-PLUTONiUM.mkv.mp4
 #https://openload.co/f/ODFyPDy-ycg/The_Hurricane_Heist.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/aymgzQFqMOA/The_Hurricane_Heist_2018_HDCAM_ENG_X264-CPG.mkv.mp4
 #https://openload.co/f/gZ7_RC7JhXw/The_Hurricane_Heist_2018_HDCAM_ENG_X264_CPG.mp4
 #https://openload.co/f/8YJOvr2Krpk/The_Hurricane_Heist_2018.HDCAM.X264-VemMeChupar.mp4
+#https://www.blazefile.co/embed-qai07zrnhyw2.html   720
+#https://uptobox.com/yvfhc8n9frth   720
+#https://openload.co/embed/NGkiq4510UE/SHQTHEHURRICANEHESITBD72.Ganool.im.mkv
 type=video
 name=The Hurricane Heist (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
@@ -7089,13 +7189,7 @@ description=In this fully animated, all-new take on the Smurfs, a mysterious map
 
 
 
-type=video
-name=Sword Art Online The Movie: Ordinal Scale (2017) TH CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/7KHY9NbwDxjMiGQq8XodLzZdltZ.jpg
-URL=https://openload.co/f/HYBlGSOSuAo/Sword_Art_Online_The_Movie_Ordinal_Scale_%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95_%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95_%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_%E0%B8%AD%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AD%E0%B8%A5_%E0%B8%AA%E0%B9%80%E0%B8%81%E0%B8%A5_V1_%E0%B8%A0%E0%B8%B2%E0%B8%9E_Master_%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%94.mp4
-player=default
-rating=-1.00
-description=People everywhere were enjoying a new game called Ordinal Scale, an ARMMORPG developed exclusively for the Augma, a new wearable console designed for AR (augmented reality) gaming. But, the players had no idea that a nightmare from the virtual world was starting to spread into reality! As his fellow players find themselves in danger, the hero is called upon once again./description
+
 
 
 
@@ -7159,7 +7253,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-23
+date=2018-05-25
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
@@ -7168,6 +7262,44 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+
+
+
+type=video
+name=All Nighter (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciNUrbNv871umQ3IqvIOjet4s4E.jpg
+date=2017-10-29
+URL=https://openload.co/f/VRFWP55dsdM/All.Nighter.2017.1080p.BluRay.x264-CONDITION.mkv.mp4
+type=video
+name=All Nighter (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciNUrbNv871umQ3IqvIOjet4s4E.jpg
+date=2018-05-25
+URL=https://openload.co/f/rS-rUQHpans/All_Nighter_%282017%29%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99_%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88.mp4
+
+
+type=video
+name=Legend of the Demon Cat (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH6E6VxljPXmnb9tan4fcC9NAeV.jpg
+date=2018-04-29
+URL=https://www.blazefile.co/embed-g354475obp9l.html
+#https://uptobox.com/be70dinlor33
+#https://openload.co/f/7VW7eiG-2lc/Legend.of.the.Demon.Cat.2017.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
+type=video
+name=Legend of the Demon Cat (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH6E6VxljPXmnb9tan4fcC9NAeV.jpg
+date=2018-05-25
+URL=https://openload.co/f/TjPAmb5C4Os/Legend_of_the_Demon_Cat_%282017%29%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93.mp4
+
+
+type=video
+name=Sword Art Online The Movie: Ordinal Scale (2017) TH
+thumb=http://image.tmdb.org/t/p/w500/7KHY9NbwDxjMiGQq8XodLzZdltZ.jpg
+date=2018-05-25
+URL=https://openload.co/f/tOHPPky7os0/Sword_Art_Online_The_Movie%3A_Ordinal_Scale_%282017%29%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95_%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95_%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_%E0%B8%AD%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AD%E0%B8%A5_%E0%B8%AA%E0%B9%80%E0%B8%81%E0%B8%A5.mp4
+#https://openload.co/f/HYBlGSOSuAo/Sword_Art_Online_The_Movie_Ordinal_Scale_%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95_%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95_%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_%E0%B8%AD%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AD%E0%B8%A5_%E0%B8%AA%E0%B9%80%E0%B8%81%E0%B8%A5_V1_%E0%B8%A0%E0%B8%B2%E0%B8%9E_Master_%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%94.mp4
+player=default
+rating=-1.00
+description=People everywhere were enjoying a new game called Ordinal Scale, an ARMMORPG developed exclusively for the Augma, a new wearable console designed for AR (augmented reality) gaming. But, the players had no idea that a nightmare from the virtual world was starting to spread into reality! As his fellow players find themselves in danger, the hero is called upon once again./description
 
 type=video
 name=The Third Murder (2017) TH
@@ -7241,10 +7373,16 @@ URL=https://openload.co/f/svXUoegPkMk/Legend_of_the_Naga_Pearls_%282017%29%E0%B8
 
 
 type=video
+name=The Autopsy of Jane Doe (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvQgtEMXzQZDCZkkLFPK6cO1FIy.jpg
+date=2018-05-25
+URL=https://www.blazefile.co/embed-pb7njp7ovx6p.html
+type=video
 name=The Autopsy of Jane Doe (2016) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvQgtEMXzQZDCZkkLFPK6cO1FIy.jpg
 date=2018-05-23
 URL=https://openload.co/f/bzjeALu0RUU/The_Autopsy_of_Jane_Doe_%282016%29%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%A8%E0%B8%9E%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B6%E0%B8%81.mp4
+
 
 type=video
 name=The Recall (2017) TH
@@ -7621,8 +7759,9 @@ URL=https://openload.co/f/I5N1xSvK7kg/Den.Of.Thieves.2018.UNRATED.1080p.BR_SeeHD
 type=video
 name=Den of Thieves (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/onnxOne4EVdpqtuTpEBtD1I8tdJ.jpg
-date=2018-04-15
-URL=https://streamango.com/f/adkcplsosmdessee/Den_of_Thieves_2018_mp4
+date=2018-05-25
+URL=https://openload.co/f/C3JQU3j1toA/Den_of_Thieves_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%86.mp4
+#https://streamango.com/f/adkcplsosmdessee/Den_of_Thieves_2018_mp4
 #https://streamango.com/f/bdnqfkmfbaoartca/Den_of_Thieves_2018_
 
 
@@ -7637,8 +7776,9 @@ URL=https://www.blazefile.co/embed-moc6zzp3c4g3.html
 type=video
 name=Birth of the Dragon (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y29CEE9oukwhNT6INWVEOaINHpR.jpg
-date=2018-04-15
-URL=https://streamango.com/f/ttkcmondaqalkdtr/Birth_of_the_Dragon_2016_mp4
+date=2018-05-25
+URL=https://openload.co/f/0shPvoIAp4g/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B8%8B%E0%B8%A5%E0%B8%B5_%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+#https://streamango.com/f/ttkcmondaqalkdtr/Birth_of_the_Dragon_2016_mp4
 #https://openload.co/f/vj59EGIPOE4/Birth_of_the_Dragon_%282017%29%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B8%8B%E0%B8%A5%E0%B8%B5_%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
@@ -7705,7 +7845,7 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-05-23
+date=2018-05-25
 URL=
 
 
@@ -7720,10 +7860,36 @@ URL=
 
 
 
+type=video
+name=Star Wars: The Last Jedi (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg
+date=2018-05-25
+URL=https://openload.co/f/uxpuq4UktJ8/Star.Wars.The.Last.Jedi.2017.1080p.BluRay.H264.AAC_RARBG.mp4
 
+type=video
+name=Rogue One: A Star Wars Story (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjiskwlV1qQzRCjpV0cL9pEMF9a.jpg
+date=2018-05-25
+URL=https://streamango.com/f/aneettkeemosppba/Rogue_One_A_Star_Wars_Story_2016_1080p_BluRay_6CH_ShAaNiG_mp4
 
+type=video
+name=Star Wars: The Force Awakens (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/weUSwMdQIa3NaXVzwUoIIcAi85d.jpg
+date=2018-05-25
+URL=https://openload.co/f/4CBVUoYbNJI/Star.Wars.Episode.VII.The.Force.Awakens.2015_mux.mp4
 
+type=video
+name=The Scorpion King: Rise of a Warrior (2008) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/quqsgaoLSct4DzsKb6I7S5wmapw.jpg
+date=2018-05-25
+URL=https://openload.co/f/DhTwE1uM41Q/The_Scorpion_King%3A_Rise_of_a_Warrior_%282008%29BR.1080p.mp4
 
+type=video
+name=The Scorpion King (2002) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHHMo8Za53XK8qpsdarrxUoxBwn.jpg
+date=2018-05-25
+URL=https://openload.co/f/pgAJvnK8opk/The_Scorpion_King_%282002%29BR.720p.mp4
+#https://openload.co/f/0-_0yuTWlJo/The_Scorpion_King_2002.720p.BrRip.x264.YIFY.mp4
 
 type=video
 name=Central Station (1998) [COLOR=FF00FF00]POR DVD[/COLOR]
