@@ -1358,7 +1358,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-25
+date=2018-05-28
 URL=
 
 
@@ -1366,6 +1366,20 @@ URL=
 
 
 
+
+
+
+type=video
+name=Black Water (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIcZAB5AmRN8fIDXfDZ2aUok9qa.jpg
+date=2018-05-28
+URL=https://openload.co/f/ePkTjoORisw/Black.Water.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+
+type=video
+name=Tango one (2018) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oGrSyAdjQalDjiIEHWFHAn02I5.jpg
+date=2018-05-28
+URL=https://openload.co/f/uR_MLGb5HeY/Tango.One.2018.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
 
 type=video
 name=Godless Youth (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
@@ -1409,8 +1423,11 @@ URL=https://openload.co/f/VqKck0Qtg64/summer.1993.2017.1080p.bluray.x264-usury.m
 type=video
 name=Thoroughbreds (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIxZzTfITqBpZxbIGsV01DcoHsT.jpg
-date=2018-05-25
-URL=https://openload.co/f/R6wD5XRa8KY/Thoroughbreds.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-05-28
+URL=https://www.blazefile.co/embed-4yc47a8qgkbk.html
+#https://uptobox.com/75e19mcdc4hd
+#https://openload.co/embed/ahkZYW-c6KI/GHPTHROUGHBREDS80.Ganool.im.mkv
+#https://openload.co/f/R6wD5XRa8KY/Thoroughbreds.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/OT7aKhuybJM/Thoroughbreds.2017.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/3N_By8enxCY/Thoroughbreds.2017.1080p.WEB-DL.DD5_1.H264-CMRG.mkv.mp4
 #https://openload.co/f/fEVjQwiI-o8/Thoroughbreds_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
@@ -1689,6 +1706,7 @@ date=2018-05-05
 URL=https://www.blazefile.co/embed-q3nei6dzxgdc.html
 #https://uptobox.com/b73i4scid5qs
 #https://uptobox.com/69xczfrwrvd5   720
+#https://openload.co/f/OaXtjnVl7iE/Please.Stand.By.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/cb1a-rB_euw/Please.Stand.By.2017.720p.BRRip.850MB.MkvCage.Com.mkv.mp4
 #https://openload.co/f/Y-eSumROwkE/Please.Stand.By.2017.BRRip.AC3.X264-CMRG.mkv.mp4
 #https://openload.co/f/pxILgMUOINM/Please_Stand_By.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
@@ -5037,13 +5055,42 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/48Evnm8qldagV5A75xGAqIo19W
 date=2018-05-21
 URL=https://openload.co/f/AqlBYBPv5Z4/Jailbreak.2017.720p.BR_SeeHD.mp4
 
+type=video
+name=Breaking the Limits (2017) [COLOR=FF00FF00]POL BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMgCueGP8Qg24FWhS5AUn8ht2Ik.jpg
+date=2018-05-28
+URL=https://openload.co/f/Nrh1ceuzUT4/najlepszy.2017.720p.bluray.x264-rovers.mkv.mp4
+
+type=video
+name=Back to the Good Times (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pftuEBVw0WnWSBYeiw4aIhIVKfW.jpg
+date=2018-05-28
+URL=https://openload.co/f/9-epqk_5Sao/Back.to.the.Good.Times.2018.CHINESE.720p.BluRay.x264.DTS-HDC.mkv.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 type=video
 name=
 thumb=
-date=2018-05-20
+date=2018-05-28
 URL=http://203.162.235.41:17819
 
 
@@ -6830,8 +6877,11 @@ URL=https://streamango.com/f/bfetceqmnompadfa/Monster_Hunt_2_2018_2_V_2_mp4
 type=video
 name=The Hurricane Heist (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
-date=2018-05-25
-URL=https://openload.co/f/9v1shZR7hLU/The.Hurricane.Heist.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+date=2018-05-28
+URL=https://www.blazefile.co/embed-2gd2xkfste9z.html
+#https://uptobox.com/85ope8if7q6u
+#https://openload.co/embed/IOaW8JnkrN8/GHPTHEHURRICANEHEIST80.Ganoo.im.mkv
+#https://openload.co/f/9v1shZR7hLU/The.Hurricane.Heist.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/0Zs_IbIVQwQ/The.Hurricane.Heist.2017.1080p_SeeHD.mp4
 #https://openload.co/f/0-ofoQwhdfU/The.Hurricane.Heist.2017.1080p.HDTV.x264-PLUTONiUM.mkv.mp4
 #https://openload.co/f/ODFyPDy-ycg/The_Hurricane_Heist.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
@@ -7429,7 +7479,6 @@ URL=https://www.blazefile.co/embed-uu50ocb3n9fm.html
 #https://uptobox.com/2o99oidl84c9
 #https://openload.co/f/PWOgxTHj-Zo/Black.Panther.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/QzdnxUpbqkY/Black.Panther.2018.1080p.BluRay.x265.HEVC.6CH-MRN.mkv.mp4
-#https://openload.co/f/OaXtjnVl7iE/Please.Stand.By.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/Wv0YJ8d2yZE/black.panther.2018.720p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/5vvOVncxHpU/Black.Panther.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/3CZe-kEmblA/Black.Panther.2018.HDTC.X264-FrangoAssado.mkv.mp4
@@ -7845,7 +7894,7 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-05-25
+date=2018-05-28
 URL=
 
 
@@ -7855,10 +7904,35 @@ URL=
 
 
 
+type=video
+name=The Cooler (2003) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6H5B8BnNEDOFVe0mul1xtMdd2vS.jpg
+date=2018-05-28
+URL=https://openload.co/f/v7QKYsVxfCE/The_Cooler_BluRay_720p.626.mp4
 
+type=video
+name=The Mortal Instruments: City of Bones (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tUdKoNdBsu321nMpvQsj81DA8e.jpg
+date=2018-05-28
+URL=https://openload.co/f/MyJvzhx6FCQ/The_Mortal_Instruments_City_Of_Bones.2013.HD_1080p.mp4
 
+type=video
+name=Romeo + Juliet (1996) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VsRWzhx9i3FNcggVrNwYLMUdxa.jpg
+date=2018-05-28
+URL=https://openload.co/f/gpzSmeSevsA/Romeo.And.Juliet.1996.720p.BluRay.H264.AAC-RARBG.2E4E9.mp4
 
+type=video
+name=Leningrad Cowboys Go America (1989) [COLOR=FF00FF00]ENG SD[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/joK0XkQ7dso7cY8JpvziOWbH5dD.jpg
+date=2018-05-28
+URL=https://openload.co/f/vwBvyAnk5Ls/Leningrad_Cowboys_Go_America.E.mp4
 
+type=video
+name=Delicatessen (1991) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nD4v80ggEmqXFZtaLDSHA2vxZoR.jpg
+date=2018-05-28
+URL=https://openload.co/f/2wOQCW8rTQM/Delicatessen.1991.1080p.BluRayx264.D551D.mp4
 
 type=video
 name=Star Wars: The Last Jedi (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
