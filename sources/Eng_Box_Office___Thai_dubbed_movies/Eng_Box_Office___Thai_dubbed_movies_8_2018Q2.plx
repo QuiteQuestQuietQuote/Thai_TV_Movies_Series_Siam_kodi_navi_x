@@ -63,8 +63,9 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-05-24
+date=2018-05-29
 URL=
+
 
 
 
@@ -78,6 +79,14 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IGbjc5ZC5yxim5W0sFING2kdc
 date=2018-05-24
 URL=https://openload.co/f/KbdK1ENYGkU/Solo.A_Star_Wars_Story.2018.720p.HDCAM.Eng.1XBET_SeeHD.mp4
 #https://openload.co/f/V_owx_hrBak/Solo%3A_A_Star_Wars_Story_%282018%29HDCAM_720p_x264_750MB_AAC_-_NoGroup.Ganool.im.mkv.mp4
+
+type=video
+name=Unsane (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M1U5K4Vf1Cbtrjl9EkGNWpqahf.jpg
+date=2018-05-29
+URL=https://openload.co/f/rL1VW7OyBWo/Unsane.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/Lxgasaj43wE/Unsane_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
+
 
 type=video
 name=Breaking In (2018) ENG HDCAM_ENG_X264-THAN0S_SeeHD
@@ -171,10 +180,12 @@ date=2018-04-17
 URL=https://openload.co/f/YVmsPcZ37Qc/Blockers.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
 
 type=video
-name=Love, Simon (2018) ENG HDCAM-X264-MP3-Bobi_SeeHD
+name=Love, Simon (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg
-date=2018-04-12
-URL=https://openload.co/f/g46sjjNuT3g/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi_SeeHD.mkv.mp4
+date=2018-05-29
+URL=https://openload.co/f/PqSW99kpL_0/Love.Simon.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/SqhG5I5xJ3g/Love%2C_Simon_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
+#https://openload.co/f/g46sjjNuT3g/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi_SeeHD.mkv.mp4
 #https://openload.co/f/e5MNXzl3aog/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi.mkv.mp4
 
 
@@ -266,13 +277,7 @@ URL=https://openload.co/f/9xfp6WPIibY/The_Clapper.2017.720p.WEB-DL.XviD.AC3-FGT.
 
 
 
-type=video
-name=Freak Show (2018) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pMMe9uxileJBH2nDNlSPpk5xFH.jpg
-date=2018-01-15
-URL=https://openload.co/f/Jbn08wdDUIg/Freak.Show.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/vzm-Re6H8Vg/Freak_Show.2017.HDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/_uOMojn37wg/Freak.Show.720p.WEB-DL_SeeHD.mkv.mp4
+
 
 
 
@@ -1358,7 +1363,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-28
+date=2018-05-29
 URL=
 
 
@@ -1368,6 +1373,21 @@ URL=
 
 
 
+
+type=video
+name=Devil's Gate (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlguwriLf7PkG6jAzpnClkZKmHi.jpg
+date=2018-05-29
+URL=https://openload.co/f/KS4U4SB97cw/Devils.Gate.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+
+type=video
+name=Freak Show (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pMMe9uxileJBH2nDNlSPpk5xFH.jpg
+date=2018-05-29
+URL=https://openload.co/f/aJ2kkHZECaU/Freak.Show.2017.1080p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/Jbn08wdDUIg/Freak.Show.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/vzm-Re6H8Vg/Freak_Show.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/_uOMojn37wg/Freak.Show.720p.WEB-DL_SeeHD.mkv.mp4
 
 type=video
 name=Black Water (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1881,6 +1901,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvUX96OVgTsfgXF3xKgDdDQbGa
 date=2018-04-21
 URL=https://www.blazefile.co/embed-p7xl3vc04a6j.html
 #https://uptobox.com/4ib34gskhijy
+#https://openload.co/f/Gt0kEs20w6M/Backstabbing.For.Beginners.2018.720p.BluRay.x264-CONDITION.mkv.mp4
 #https://openload.co/f/2W9d5Z4h9Mc/Backstabbing.for.Beginners.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/1HTb53mmxPw/Backstabbing.for.Beginners.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
 
@@ -5248,10 +5269,12 @@ URL=https://streamango.com/f/acdstsasqbdafaef/Rampage_2018_
 
 
 type=video
-name=Tomb Raider (2018) ENG NEW_TS.XViD.AC3-ETRG
+name=Tomb Raider (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
-date=2018-05-05
-URL=https://openload.co/f/qakdUkA1W3U/Tomb_Raider_2018_NEW_TS.XViD.AC3-ETRG.avi.mp4
+date=2018-05-29
+URL=https://openload.co/f/3BgTuAlT3m0/Tomb.Raider.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/JkHcu0ypwIM/Tomb_Raider_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
+#https://openload.co/f/qakdUkA1W3U/Tomb_Raider_2018_NEW_TS.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/Ym5gxjVuFRY/Tomb_Raider_2018_720p_HD-TC_NEW_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/ab7mVAR6iAw/Tomb_Raider_2018_New_SRC_720p_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/HlMiyzb4nwY/Tomb_Raider.2018.CAM.XviD-VAiN.avi.mp4
@@ -7894,7 +7917,7 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-05-28
+date=2018-05-29
 URL=
 
 
@@ -7903,6 +7926,18 @@ URL=
 
 
 
+type=video
+name=Seven Samurai (1954) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6xrz4fr92KY1oNC3HsEvrsvR1n.jpg
+date=2018-05-29
+URL=https://openload.co/f/xRJCRS1D2EE/Seven.Samurai.1954.CRITERION.1080p.BluRay.x264.anoXmous.E.mp4
+#https://openload.co/f/nW-IQMIGXuI/Seven_Samurai_%281954%29_720p_BRRiP_x264_AAC_%5BTeam_Nanban%5D.mp4
+
+type=video
+name=Fairy Tail the Movie: Phoenix Priestess (2012) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKu5XKPQbe4hwW7PFXygpHPrk0o.jpg
+date=2018-05-29
+URL=https://openload.co/f/JvGdib9htRs/Fairy_Tail_Priestess_Of_The_Phoenix.2012.HD_720p.160521.mp4
 
 type=video
 name=The Cooler (2003) [COLOR=FF00FF00]ENG BR 720p[/COLOR]

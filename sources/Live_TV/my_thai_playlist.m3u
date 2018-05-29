@@ -24,8 +24,8 @@ http://live.nationtv.tv/hls/ntv_th_hd.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL_720
 http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-
-
+#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24_trueid
+http://tvsedge225.truevisions.tv/liveedge_app/135_th_m_auto.smil/chunklist_w1112708221_b984000.m3u8?appid=tvtruelife&visitor=web&uid=6PVpxvK6ZF&mpass=t0XrT%2FsRiDS8FLE2O6RrnMtQVhOG%2Fm2krTmCb%2FZTY4jKPbHVBfrfunvXIvoTNsDkLIDYrJINqj3Knme4yV1Xppf5Xb0A4SUfT6qvlY0sKEg6Og5LOXhNMFeqY8LIlOiIa0Q%3D
 
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-m0CQiNgIFsE/WdLYrwlVJvI/AAAAAAAAAGQ/LN6pm_WcDJ49YL-0K_ytg9L2yWfZw4r6ACLcBGAs/s200/009.png",Spring News (Full HD)
 http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
@@ -1168,101 +1168,11 @@ http://live-tx-hdl.huomaotv.cn/live/gEFTWY23105.m3u8
 
 
 
-#EXTINF:-1,Asian Food Channel HD
-http://113.177.63.140:4022/rtp/232.84.2.129:9570
-#EXTINF:-1,Nat Geo People HD
-http://113.177.63.140:4022/rtp/232.84.1.76:8430
-#EXTINF:-1,National Geographic HD
-http://113.177.63.140:4022/rtp/232.84.1.1:7980
-#EXTINF:-1,Star Movies HD
-http://113.177.63.140:4022/rtp/232.84.1.77:8436
-#EXTINF:-1,Red By HBO HD
-http://113.177.63.140:4022/rtp/232.84.1.9:8028
-#EXTINF:-1,HBO
-http://113.177.63.140:4022/rtp/232.84.1.19:8088
-#EXTINF:-1,CINEMAX
-http://113.177.63.140:4022/rtp/232.84.1.20:8094
-#EXTINF:-1,MEDIACORP
-http://113.177.63.140:4022/rtp/232.84.1.5:8004
 
 
 
 
 
-
-
-
-
-
-
-
-#EXTINF:-1,Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1,Fox Action Movies HD
-http://dung:pha@1l1.ddns.net:8008/5.ch
-#EXTINF:-1,HBO HD
-http://dung:pha@1l1.ddns.net:8008/6.ch
-#EXTINF: -1, Men's movie 
-http://185.66.68.2:14/btv/Muzskoe 
-#EXTINF:-1,movies4men 
-http://94.46.245.190:8000/play/a021 
-#EXTINF:-1,Hollywood 
-http://62.203.143.4:9981/play/a00d 
-#EXTINF:-1,OSN Movies Premiere HD 
-http://109.235.192.213:8000/play/a010 
-
-
-
-
-
-
-
-#EXTINF:-1,Asian Food Channel
-http://113.177.63.140:4022/rtp/232.84.1.115:10236
-#EXTINF:-1,Nat Geo People
-http://113.177.63.140:4022/rtp/232.84.2.121:8376
-#EXTINF:-1,National Geographic
-http://113.177.63.140:4022/rtp/232.84.2.122:8364
-#EXTINF:-1,DISCOVERY_viet
-http://113.177.63.140:4022/rtp/232.84.1.47:8262
-
-
-
-
-
-#EXTINF:-1,CGTN Documentary
-http://live.cgtn.com/cctv-d.m3u8
-#EXTINF:-1,24/7 Superhero Movies
-http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
-#EXTINF:-1,24/7 Blockbuster Movies
-http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
-#EXTINF:-1,24/7 Animated Movies
-http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
-#EXTINF:-1,Chinese_s2
-http://live-tx-hdl.huomaotv.cn/flvtx.plu.cn/onlive/e65e81838bdf45ecbff40bc7318bbf4e.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,Food Network 
-http://94.46.245.190:8000/play/a01u 
 
 
 #EXTINF:-1,doonee
@@ -2102,6 +2012,87 @@ http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_600/chunklist.m3
 
 
 
+
+
+
+
+
+
+#EXTINF:-1,Asian Food Channel HD
+http://113.177.63.140:4022/rtp/232.84.2.129:9570
+#EXTINF:-1,Nat Geo People HD
+http://113.177.63.140:4022/rtp/232.84.1.76:8430
+#EXTINF:-1,National Geographic HD
+http://113.177.63.140:4022/rtp/232.84.1.1:7980
+#EXTINF:-1,Star Movies HD
+http://113.177.63.140:4022/rtp/232.84.1.77:8436
+#EXTINF:-1,Red By HBO HD
+http://113.177.63.140:4022/rtp/232.84.1.9:8028
+#EXTINF:-1,HBO
+http://113.177.63.140:4022/rtp/232.84.1.19:8088
+#EXTINF:-1,CINEMAX
+http://113.177.63.140:4022/rtp/232.84.1.20:8094
+#EXTINF:-1,MEDIACORP
+http://113.177.63.140:4022/rtp/232.84.1.5:8004
+
+
+
+#EXTINF:-1,Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1,Fox Action Movies HD
+http://dung:pha@1l1.ddns.net:8008/5.ch
+#EXTINF:-1,HBO HD
+http://dung:pha@1l1.ddns.net:8008/6.ch
+#EXTINF: -1, Men's movie 
+http://185.66.68.2:14/btv/Muzskoe 
+#EXTINF:-1,movies4men 
+http://94.46.245.190:8000/play/a021 
+#EXTINF:-1,Hollywood 
+http://62.203.143.4:9981/play/a00d 
+#EXTINF:-1,OSN Movies Premiere HD 
+http://109.235.192.213:8000/play/a010 
+
+
+
+
+
+
+
+#EXTINF:-1,Asian Food Channel
+http://113.177.63.140:4022/rtp/232.84.1.115:10236
+#EXTINF:-1,Nat Geo People
+http://113.177.63.140:4022/rtp/232.84.2.121:8376
+#EXTINF:-1,National Geographic
+http://113.177.63.140:4022/rtp/232.84.2.122:8364
+#EXTINF:-1,DISCOVERY_viet
+http://113.177.63.140:4022/rtp/232.84.1.47:8262
+
+
+
+
+
+#EXTINF:-1,CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1,24/7 Superhero Movies
+http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
+#EXTINF:-1,24/7 Blockbuster Movies
+http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
+#EXTINF:-1,24/7 Animated Movies
+http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
+#EXTINF:-1,Chinese_s2
+http://live-tx-hdl.huomaotv.cn/flvtx.plu.cn/onlive/e65e81838bdf45ecbff40bc7318bbf4e.m3u8
+
+
+
+
+#EXTINF:-1,Food Network 
+http://94.46.245.190:8000/play/a01u 
+
+
+
+
+
+
 #EXTINF:-1,TH_Flix_1
 http://www.playontube.com:1935/sport/thflix1/chunklist.m3u8
 #EXTINF:-1,TH_Flix_2
@@ -2137,7 +2128,8 @@ http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
 http://122.38.74.172:9981/stream/channelid/1836601049?ticket=487EA11E9B49DD54F9E73847EF1FE731BE7DEDFE&profile=pass
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth_KOR
 http://119.194.30.67:9981/stream/channelid/1550569005?ticket=F39C5EB1368D210C1C3972760F345AE57F270B93&profile=pass
-
+#EXTINF:-1,saradee
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_600/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI_27

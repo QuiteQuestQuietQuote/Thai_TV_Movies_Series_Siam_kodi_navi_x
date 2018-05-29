@@ -352,7 +352,8 @@ type=video
 name=Security (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fG2SZwAAY4mNscLfvSiKyBxaVQy.jpg
 date=2017-08-16
-URL=https://openload.co/f/OyQjGshNbw4/Security.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+URL=https://www.blazefile.co/embed-8h66so9ljb6o.html
+#https://openload.co/f/OyQjGshNbw4/Security.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://www.blazefile.co/embed-8h66so9ljb6o.html   web
 type=video
 name=Security (2017) TH
