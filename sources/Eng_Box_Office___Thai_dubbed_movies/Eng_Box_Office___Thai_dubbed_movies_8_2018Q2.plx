@@ -157,10 +157,11 @@ date=2018-05-09
 URL=https://openload.co/f/1Vty-Ed3Gp0/Isle_of_Dogs_2018_720p_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
 
 type=video
-name=I Can Only Imagine (2018) ENG HDCAM_ENG_X264_HQMic-SugarTits_SeeHD
+name=I Can Only Imagine (2018) ENG DVDRip.XviD.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/veZszwMZu8d3WMU6TJX9sV5w1Y4.jpg
-date=2018-05-05
-URL=https://openload.co/f/0pXMwyBF2m4/I_Can_Only_Imagine_2018_HDCAM_ENG_X264_HQMic-SugarTits_SeeHD.mkv.mp4
+date=2018-06-01
+URL=https://openload.co/f/OcbfLCU3UUQ/I.Can.Only.Imagine.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/0pXMwyBF2m4/I_Can_Only_Imagine_2018_HDCAM_ENG_X264_HQMic-SugarTits_SeeHD.mkv.mp4
 
 
 
@@ -179,14 +180,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qKMYfiJTcUQbuBl82yxrmLSCX
 date=2018-04-17
 URL=https://openload.co/f/YVmsPcZ37Qc/Blockers.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
 
-type=video
-name=Love, Simon (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg
-date=2018-05-29
-URL=https://openload.co/f/PqSW99kpL_0/Love.Simon.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/SqhG5I5xJ3g/Love%2C_Simon_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
-#https://openload.co/f/g46sjjNuT3g/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi_SeeHD.mkv.mp4
-#https://openload.co/f/e5MNXzl3aog/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi.mkv.mp4
+
 
 
 
@@ -1362,7 +1356,27 @@ URL=
 
 
 
+type=video
+name=Love, Simon (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg
+date=2018-06-01
+URL=https://openload.co/f/aHlAhxvNCBc/Love.Simon.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/ffoLtKsVYa4/Love.Simon.2018.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/PqSW99kpL_0/Love.Simon.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/SqhG5I5xJ3g/Love%2C_Simon_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
+#https://openload.co/f/g46sjjNuT3g/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi_SeeHD.mkv.mp4
+#https://openload.co/f/e5MNXzl3aog/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi.mkv.mp4
+#https://www.blazefile.co/embed-yllks9j7sfxt.html   720
+#https://uptobox.com/1hi53aojbult   720
+#https://openload.co/embed/OKuf2qTr0kI/SHQL0VESIMONBD72.Ganool.im.mkv
 
+type=video
+name=The Heretics (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vK2Iwr4BEPLubdgQZAjo7yWQHts.jpg
+date=2018-06-01
+URL=https://openload.co/f/oGYH1H29H34/The.Heretics.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/9Wk_Uitf1hY/The.Heretics.2017.1080p.BluRay.x264-GUACAMOLE.mkv   MKV6.6GB
+#https://openload.co/f/KrdcyLFNtho/The_Heretics_2017.BluRay.720p.DTS.X264-CMRG.mkv.mp4
 
 type=video
 name=The Cured (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5087,11 +5101,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pftuEBVw0WnWSBYeiw4aIhIVKf
 date=2018-05-28
 URL=https://openload.co/f/9-epqk_5Sao/Back.to.the.Good.Times.2018.CHINESE.720p.BluRay.x264.DTS-HDC.mkv.mp4
 
-type=video
-name=The Heretics (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vK2Iwr4BEPLubdgQZAjo7yWQHts.jpg
-date=2018-05-30
-URL=https://openload.co/f/KrdcyLFNtho/The_Heretics_2017.BluRay.720p.DTS.X264-CMRG.mkv.mp4
+
 
 
 
@@ -5229,10 +5239,11 @@ URL=https://streamango.com/f/ofspqsqdrfcfbbmk/Truth_or_Dare_2018_
 
 
 type=video
-name=Sherlock Gnomes (2018) ENG HDCAM.XviD-VAiN
+name=Sherlock Gnomes (2018) ENG DVDRip.XviD.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHdf2wRgCSp9MrZRryikiZIH6jB.jpg
-date=2018-03-29
-URL=https://openload.co/f/RdAhbx9rRvA/Sherlock.Gnomes.2018.HDCAM.XviD-VAiN.avi.mp4
+date=2018-06-01
+URL=https://openload.co/f/4QrbiBIPo84/Sherlock.Gnomes.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/RdAhbx9rRvA/Sherlock.Gnomes.2018.HDCAM.XviD-VAiN.avi.mp4
 #https://openload.co/f/aCDwq_C0Py8/Sherlock_Gnomes_2018_HDCAM_X264_AC3-Bang.mp4
 type=video
 name=Sherlock Gnomes (2018) THCAM
@@ -5289,10 +5300,11 @@ URL=https://streamango.com/f/acdstsasqbdafaef/Rampage_2018_
 
 
 type=video
-name=Tomb Raider (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+name=Tomb Raider (2018) ENG BRRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
-date=2018-05-29
-URL=https://openload.co/f/3BgTuAlT3m0/Tomb.Raider.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+date=2018-06-01
+URL=https://openload.co/f/Dsb4qHMmR-4/Tomb.Raider.2018.BRRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/3BgTuAlT3m0/Tomb.Raider.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/JkHcu0ypwIM/Tomb_Raider_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
 #https://openload.co/f/qakdUkA1W3U/Tomb_Raider_2018_NEW_TS.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/Ym5gxjVuFRY/Tomb_Raider_2018_720p_HD-TC_NEW_X264-CPG_SeeHD.mkv.mp4
@@ -5380,12 +5392,21 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-05-30
+date=2018-06-01
 URL=
 
 
 
-
+type=video
+name=Ibiza (2018) ENG internal.1080p.web.x264-strife_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xm0QJ3eumZ5LSewpYKQe6KfwWRW.jpg
+date=2018-06-01
+URL=https://openload.co/f/8LkdOcwQHxQ/ibiza.2018.internal.1080p.web.x264-strife_SeeHD.mkv.mp4
+type=video
+name=Ibiza (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xm0QJ3eumZ5LSewpYKQe6KfwWRW.jpg
+date=2018-06-01
+URL=https://streamango.com/f/nttqfcqktoksapos/Ibiza_2018_
 
 
 type=video
@@ -7963,7 +7984,7 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-05-30
+date=2018-06-01
 URL=
 
 
@@ -7971,7 +7992,24 @@ URL=
 
 
 
+type=video
+name=Rush (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjEepHZOZAwmK6nAj5jis6HV75E.jpg
+date=2018-06-01
+URL=https://openload.co/f/thx-FeNp3_o/Rush.2013.1080p.BluRay.x264.E.mp4
+#https://openload.co/f/uEXG58u2Oys/Rush_-_Full.942qx.mp4
 
+type=video
+name=There Will Be Blood (2007) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFgqkuAFBHNuq0oTtewHwuLVWSO.jpg
+date=2018-06-01
+URL=https://openload.co/f/Lhm8jtuuMuE/There_Will_Be_Blood.2007.HD_720p.mp4
+
+type=video
+name=Thank You for Smoking (2005) [COLOR=FF00FF00]ENG WEB 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8PKsbAGIvAhKbbRUjdQ3jgFD2S.jpg
+date=2018-06-01
+URL=https://openload.co/f/JVv1tWSCt_I/Thank.You.for.Smoking.2005.720p.WEB-DL.DD5.1.H264-RARBG.mp4
 
 type=video
 name=Jackass Number Two (2006) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
