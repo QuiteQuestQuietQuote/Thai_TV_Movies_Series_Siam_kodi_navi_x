@@ -57,6 +57,93 @@ URL=
 
 
 
+type=video
+name=164xxxxxxxxxxxxxxxxxxxxThe Mother Of A Student The First Sex Day (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/The-Mother-Of-A-Student-The-First-Sex-Day-2017-Uncut.jpg
+date=2018-06-01
+URL=https://streamcherry.com/embed/rfmbrtrkbssqccbr/
+
+type=video
+name=Girls Share A Flat 3 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Girls-Share-A-Flat-3-2017.jpg
+date=2018-06-01
+URL=https://streamcherry.com/embed/ltdsaeoqsoksfrql/
+
+type=video
+name=Practical Experience Japan Image Club (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Practical-Experience-Japan-Image-Club-2016.jpg
+date=2018-06-01
+URL=https://streamcherry.com/embed/fcrtplpbolepqecs/
+
+type=video
+name=Hardcore adult movies (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Hardcore-adult-movies-2013.jpg
+date=2018-06-01
+URL=https://streamcherry.com/embed/nnsdfeeakmtlslbr/
+
+type=video
+name=To Seoul Man (2014) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/To-Seoul-Man-2014.jpg
+date=2018-06-01
+URL=https://streamcherry.com/embed/pactaoecaeprlfdr/
+
+
+type=video
+name=Women who can type by typing (2013) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Women-who-can-type-by-typing-2013.jpg
+date=2018-06-01
+URL=https://streamcherry.com/embed/atkdqbdcpoqadnrq/
+
+type=video
+name=SM cafe meeting sexual desire (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/SM-cafe-meeting-sexual-desire-2016.jpg
+date=2018-06-01
+URL=https://streamcherry.com/embed/bfrmklnmaakdmnek/
+
+type=video
+name=Sexy Beauty Porn (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Sexy-Beauty-Porn-2016.jpg
+date=2018-06-01
+URL=https://streamcherry.com/embed/plfefkccapcllafm/
+
+type=video
+name=Hot Spring Affair (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Hot-Spring-Affair-2017.jpg
+date=2018-06-01
+URL=https://streamcherry.com/embed/fsfksptcoqpknbft/
+
+type=video
+name=Cheated pure collage girl, oil massage To come up to Tokyo (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Cheated-pure-collage-girl-oil-massage-To-come-up-to-Tokyo-2017.jpg
+date=2018-06-01
+URL=https://streamcherry.com/embed/rsmteqcbtstdbttt/
+
+
+type=video
+name=Traces of Man in Hip (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Traces-of-Man-in-Hip-2013.jpg
+date=2018-06-01
+URL=https://streamcherry.com/embed/ermesnfenscteqpb/
+
+type=video
+name=Woman’s manual (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Womans-manual-2013.jpg
+date=2018-06-01
+URL=https://streamcherry.com/embed/pfsoafokmstqrqme/
+
+type=video
+name=Lady man’s hand on the lust of gigantic explosion (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Lady-mans-hand-on-the-lust-of-gigantic-explosion-2014.jpg
+date=2018-06-01
+URL=https://streamcherry.com/embed/mnappmoflkcqmaal/
+
+type=video
+name=Japan Sex Theme Club (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Japan-Sex-Theme-Club-2016.jpg
+date=2018-06-01
+URL=https://streamcherry.com/embed/pbcrtkpnseamatdk/
+
+
 
 
 

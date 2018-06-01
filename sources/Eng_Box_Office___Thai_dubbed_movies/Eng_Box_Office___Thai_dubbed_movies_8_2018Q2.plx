@@ -63,7 +63,7 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-05-30
+date=2018-06-01
 URL=
 
 
@@ -74,7 +74,12 @@ URL=
 
 
 
-
+type=video
+name=Mary Shelley (2018) ENG 720p.WEB-DL.DD5.1.H264-CMRG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnHutc9eDDrVXvlmYFohEougTHq.jpg
+date=2018-06-01
+URL=https://openload.co/f/d1B8SasklXA/Mary_Shelley.2017.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/I9U2WBTtxjI/Mary_Shelley_2017_720p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
 
 type=video
 name=Unsane (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
@@ -97,10 +102,11 @@ date=2018-05-23
 URL=https://openload.co/f/NXxbOKq5Sus/Kings_2018_HDCAM_ENG_X264-THAN0S_SeeHD.mkv.mp4
 
 type=video
-name=Every Day (2018) ENG 720p.WEB-DL.H264.AC3-EVO_SeeHD
+name=Every Day (2018) ENG BDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UnME3icxSspwL0UoGZNSyyp7Xs.jpg
-date=2018-05-22
-URL=https://openload.co/f/aIW0ZBLOrto/Every.Day.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-06-01
+URL=https://openload.co/f/mmr2pHR88gw/Every.Day.2018.BDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/aIW0ZBLOrto/Every.Day.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 
 
 type=video
@@ -1356,19 +1362,7 @@ URL=
 
 
 
-type=video
-name=Love, Simon (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg
-date=2018-06-01
-URL=https://openload.co/f/aHlAhxvNCBc/Love.Simon.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/ffoLtKsVYa4/Love.Simon.2018.720p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/PqSW99kpL_0/Love.Simon.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/SqhG5I5xJ3g/Love%2C_Simon_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
-#https://openload.co/f/g46sjjNuT3g/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi_SeeHD.mkv.mp4
-#https://openload.co/f/e5MNXzl3aog/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi.mkv.mp4
-#https://www.blazefile.co/embed-yllks9j7sfxt.html   720
-#https://uptobox.com/1hi53aojbult   720
-#https://openload.co/embed/OKuf2qTr0kI/SHQL0VESIMONBD72.Ganool.im.mkv
+
 
 type=video
 name=The Heretics (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1390,6 +1384,9 @@ name=Devil's Gate (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlguwriLf7PkG6jAzpnClkZKmHi.jpg
 date=2018-05-29
 URL=https://openload.co/f/KS4U4SB97cw/Devils.Gate.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://www.blazefile.co/embed-l4zv7pbe7iwx.html   720
+#https://uptobox.com/poimbfrlpftr   720
+#https://openload.co/embed/ctQuYX4p-UY/SHQDEVILGATEBD72.GGanool.im.mkv.mp4
 
 type=video
 name=Freak Show (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5198,10 +5195,11 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
-name=Solo: A Star Wars Story (2018) ENG NEW_720p_HD-TS_X264-CPG_SeeHD
+name=Solo: A Star Wars Story (2018) ENG NEW_720p_HD-TS_V.2_SeeHD MKV
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IGbjc5ZC5yxim5W0sFING2kdcz.jpg
-date=2018-05-30
-URL=https://openload.co/f/hHuxcYvQKRg/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+date=2018-06-01
+URL=https://openload.co/f/GdC4hcTBhBg/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_V.2_SeeHD.mkv
+#https://openload.co/f/hHuxcYvQKRg/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/KbdK1ENYGkU/Solo.A_Star_Wars_Story.2018.720p.HDCAM.Eng.1XBET_SeeHD.mp4
 #https://openload.co/f/V_owx_hrBak/Solo%3A_A_Star_Wars_Story_%282018%29HDCAM_720p_x264_750MB_AAC_-_NoGroup.Ganool.im.mkv.mp4
 type=video
@@ -5212,10 +5210,12 @@ URL=https://streamango.com/f/pkrtqtckdekrmeno/Solo_A_Star_Wars_Story_2018_
 
 
 type=video
-name=Deadpool 2 (2018) ENG 720p_New_HDCAM-X264-AC3_Cleaned-Bobi_SeeHD
+name=Deadpool 2 (2018) ENG NEW_720p_HD-TC_X264-CPG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
-date=2018-05-17
-URL=https://openload.co/f/NpRKO6OnUQ0/Deadpool_2_2018_720p_New_HDCAM-X264-AC3_Cleaned-Bobi_SeeHD.mkv.mp4
+date=2018-06-01
+URL=https://openload.co/f/TVGkldXG2ow/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/fQtS6g8eFP0/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG.mkv.mp4
+#https://openload.co/f/NpRKO6OnUQ0/Deadpool_2_2018_720p_New_HDCAM-X264-AC3_Cleaned-Bobi_SeeHD.mkv.mp4
 #https://openload.co/f/D15b5KiAff4/Deadpool.2.2018.720p.HDTS.x264-SpaceMov.mp4
 #https://openload.co/f/UliAIS5sWpU/Deadpool_2_%282018%29_English_HDTS_-_720p_-_x264_-_AC3_-_2.4GB.mkv.mp4
 #https://openload.co/f/Zb_meIBKWic/Deadpool_2_%282018%29720p_TS_ENG_X264-1xbit.Ganool.im.mkv.mp4
@@ -5253,10 +5253,11 @@ URL=https://streamango.com/f/cpbsdkfbbkllpsos/Sherlock_Gnomes_2018_
 
 
 type=video
-name=Avengers: Infinity War (2018) ENG NEW_720p_HD-TS_X264-CPG_SeeHD
+name=Avengers: Infinity War (2018) ENG 720p_TS_x264_AAC_TiTAN_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
-date=2018-05-21
-URL=https://openload.co/f/Owfl0kBmCfU/Avengers_Infinity_War_2018_NEW_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+date=2018-06-01
+URL=https://openload.co/f/uf7jMDDyzNM/Avengers_Infinity_War_2018_720p_TS_x264_AAC_TiTAN_SeeHD.mkv.mp4
+#https://openload.co/f/Owfl0kBmCfU/Avengers_Infinity_War_2018_NEW_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/w_SI2svIMSo/Avengers%3A_Infinity_War_%282018%29NEW_720p_HD-TS_X264-CPG.Ganool.im.mkv.mp4
 #https://openload.co/f/EUc49i9EnHQ/Avengers_Infinity_War.2018.720p.TS.x264-TiTAN_SeeHD.mkv.mp4
 #https://openload.co/f/Y_poP1g2OjY/Avengers_Infinity_War_2018_NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD.mkv.mp4
@@ -5299,25 +5300,7 @@ URL=https://streamango.com/f/acdstsasqbdafaef/Rampage_2018_
 
 
 
-type=video
-name=Tomb Raider (2018) ENG BRRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
-date=2018-06-01
-URL=https://openload.co/f/Dsb4qHMmR-4/Tomb.Raider.2018.BRRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/3BgTuAlT3m0/Tomb.Raider.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/JkHcu0ypwIM/Tomb_Raider_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
-#https://openload.co/f/qakdUkA1W3U/Tomb_Raider_2018_NEW_TS.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/Ym5gxjVuFRY/Tomb_Raider_2018_720p_HD-TC_NEW_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/ab7mVAR6iAw/Tomb_Raider_2018_New_SRC_720p_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/HlMiyzb4nwY/Tomb_Raider.2018.CAM.XviD-VAiN.avi.mp4
-#https://openload.co/f/0fZwGeHZlIo/Tomb_Raider_2018_720p_FULL_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/yeIY9gwoqo8/Tom_Raider.2018.720p.HDCAM.X264-TomFaggot.mp4
-#https://openload.co/f/Vu6eBXghw74/Tomb.Raider.2018.ENG.HDCAM.XViD-AKOAM.avi.mp4
-type=video
-name=Tomb Raider (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
-date=2018-03-20
-URL=https://streamango.com/f/pbemkasrmnlorfdt/Tomb_Raider_2018_
+
 
 
 
@@ -5395,6 +5378,38 @@ thumb=
 date=2018-06-01
 URL=
 
+
+
+
+
+
+
+type=video
+name=Love, Simon (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg
+date=2018-06-01
+URL=https://openload.co/f/qfgy-puPm1M/Love.Simon.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/aHlAhxvNCBc/Love.Simon.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/ffoLtKsVYa4/Love.Simon.2018.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/PqSW99kpL_0/Love.Simon.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/SqhG5I5xJ3g/Love%2C_Simon_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
+#https://openload.co/f/g46sjjNuT3g/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi_SeeHD.mkv.mp4
+#https://openload.co/f/e5MNXzl3aog/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi.mkv.mp4
+#https://www.blazefile.co/embed-yllks9j7sfxt.html   720
+#https://uptobox.com/1hi53aojbult   720
+#https://openload.co/embed/OKuf2qTr0kI/SHQL0VESIMONBD72.Ganool.im.mkv
+type=video
+name=Love, Simon (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg
+date=2018-06-01
+URL=https://streamango.com/f/onkmbmbsltotffsr/Love_Simon_2018_
+
+
+type=video
+name=Terrifier (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PQqC4SbY910VvyVad6mvsboILU.jpg
+date=2018-06-01
+URL=https://streamango.com/f/cpmodaskqmaqffte/Terrifier_2017_Terrifier_2017_
 
 
 type=video
@@ -6762,6 +6777,32 @@ URL=
 
 
 type=video
+name=Tomb Raider (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
+date=2018-06-01
+URL=https://openload.co/f/Tnmwwy9d6X8/Tomb.Raider.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/wmHs4JQx9wE/Tomb.Raider.2018.1080p.BrRip.6CH.x265.HEVC-PSA.mkv.mp4
+#https://openload.co/f/ADx-QeeEMlk/Tomb.Raider.2018.BluRay.720p.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/eod4myMVZQM/Tomb.Raider.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Dsb4qHMmR-4/Tomb.Raider.2018.BRRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/3BgTuAlT3m0/Tomb.Raider.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/JkHcu0ypwIM/Tomb_Raider_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
+#https://openload.co/f/qakdUkA1W3U/Tomb_Raider_2018_NEW_TS.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/Ym5gxjVuFRY/Tomb_Raider_2018_720p_HD-TC_NEW_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/ab7mVAR6iAw/Tomb_Raider_2018_New_SRC_720p_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/HlMiyzb4nwY/Tomb_Raider.2018.CAM.XviD-VAiN.avi.mp4
+#https://openload.co/f/0fZwGeHZlIo/Tomb_Raider_2018_720p_FULL_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/yeIY9gwoqo8/Tom_Raider.2018.720p.HDCAM.X264-TomFaggot.mp4
+#https://openload.co/f/Vu6eBXghw74/Tomb.Raider.2018.ENG.HDCAM.XViD-AKOAM.avi.mp4
+type=video
+name=Tomb Raider (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
+date=2018-06-01
+URL=https://streamango.com/f/tcsdqpbtnqrfdqdl/Tomb_Raider_2018_
+#https://streamango.com/f/pbemkasrmnlorfdt/Tomb_Raider_2018_
+
+
+type=video
 name=The Strangers: Prey at Night (2018) ENG 1080p_WEB-DL_DD5_1_H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo3gu56JKRwZ2TpKt8mPjXLQK23.jpg
 date=2018-04-22
@@ -7991,6 +8032,34 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Black Mass (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIVnNriiyl522hk3LFLJrrMovhP.jpg
+date=2018-06-01
+URL=https://openload.co/f/TIvVv4eMLvs/Black.Mass.2015.1080p.BR_SeeHD.mp4
+
+type=video
+name=Public Enemies (2009) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qisfF7ENdmGI8fpQJoCxIIU1QhH.jpg
+date=2018-06-01
+URL=https://openload.co/f/nFEDdGi5i1k/Public.Enemies.2008.1080p.BR_SeeHD.mp4
+
+type=video
+name=Donnie Brasco (1997) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg
+date=2018-06-01
+URL=https://openload.co/f/sKpWICwdt5I/Donnie.Brasco.1997.EXTENDED.CUT.1080p.Br_SeeHD.mp4
 
 type=video
 name=Rush (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
