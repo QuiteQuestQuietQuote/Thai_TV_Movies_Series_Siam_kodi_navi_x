@@ -57,6 +57,206 @@ URL=
 
 
 
+
+
+
+type=video
+name=194xxxxxxxxxxxxxxxxxxxxStranger to a stranger (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Stranger-to-a-stranger-2016.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/bcotfcblfkokaeem/
+
+type=video
+name=AV heaven, Japanese adult shop visit (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/AV-heaven-Japanese-adult-shop-visit-2016.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/nmkltfcdqeqfklcs/
+
+type=video
+name=Her deep rest (2012) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Her-deep-rest-2012.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/kbboemmblmsndrof/
+
+type=video
+name=A naughty girl (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/A-naughty-girl-2016.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/qlapasbtesdeobfe/
+
+type=video
+name=My nude model (2011) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/My-nude-model-2011.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/mapfenrndtmmnmmm/
+
+
+type=video
+name=Dreams that make me stand out (2012)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Dreams-that-make-me-stand-out-2012.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/bkadbrsdbksadfkl/
+
+type=video
+name=Try again with me (2013) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Try-again-with-me-2013.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/bqkpqccbkekbattb/
+
+type=video
+name=Unlimited ejaculation star actor (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Unlimited-ejaculation-star-actor-2017.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/pdbpttrtdbefnmne/
+
+type=video
+name=Well-managed Japanese housewife Mokka (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Well-managed-Japanese-housewife-Mokka-2017.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/cnklcemfrdrasffs/
+
+type=video
+name=Her hot desire (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Her-hot-desire-2014.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/bekbmbqobeqpsflp/
+
+
+type=video
+name=Adult cinematography of my wife (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Adult-cinematography-of-my-wife-2017.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/nspkllemnkbkatfq/
+
+type=video
+name=Touch the innocent woman who is all the money (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Touch-the-innocent-woman-who-is-all-the-money-2013.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/ctqeqnceckllnqsa/
+
+type=video
+name=Neighborhood hairdresser hunting sex (2011) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Neighborhood-hairdresser-hunting-sex-2011.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/sctccalndtlmnnsm/
+
+type=video
+name=Sweet white hive of Hyun-ah (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Sweet-white-hive-of-Hyun-ah-2017.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/psapcaneadffftkm/
+
+type=video
+name=Teguri poisoned woman who returned (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Teguri-poisoned-woman-who-returned-2017.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/etoqamrlknpmmarr/
+
+
+type=video
+name=Twenties and teens tame (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Twenties-and-teens-tame-2017.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/kbonlpckskaeopnk/
+
+type=video
+name=Your sister’s tits (2011)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Your-sisters-tits-2011.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/akoomftpelrntqrk/
+
+type=video
+name=Sex video taken by my girl (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Sex-video-taken-by-my-girl-2017.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/mmlnekmdockbpfca/
+
+type=video
+name=Next door man tempting his big wife (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Next-door-man-tempting-his-big-wife-2016.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/ftfrtbmbmcbftkdd/
+
+type=video
+name=Mature tattoo of married mature woman skills (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Mature-tattoo-of-married-mature-woman-skills-2017.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/tklsaflaarlncbtq/
+
+
+
+
+
+
+
+
+
+type=video
+name=174xxxxxxxxxxxxxxxxxxxxMy ex-girlfriends who were hated by hungry men (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/My-ex-girlfriends-who-were-hated-by-hungry-men-2017.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/nesecnnebroacdam/
+
+type=video
+name=Rejection forced married sex real sex (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Rejection-forced-married-sex-real-sex-2017.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/dmqssaqddrrtrdlm/
+
+type=video
+name=PD dare A-class goddess (2013) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/PD-dare-A-class-goddess-2013.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/lspqqksaklflpesc/
+
+type=video
+name=Emperor’s massage of 50’s sister (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Emperors-massage-of-50s-sister-2017.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/lrqcetsmcttsmtqs/
+
+type=video
+name=The 50’s are the stepmom of a friend (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/The-50s-are-the-stepmom-of-a-friend-2017.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/rpraqaqoskrlnpps/
+
+
+type=video
+name=Three older aunts who alternate in their 40s (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Three-older-aunts-who-alternate-in-their-40s-2017.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/btasnfoanemsdofo/
+
+type=video
+name=The rough tongue of their tongue (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/The-rough-tongue-of-their-tongue-2017.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/qraqkcscnmmmqqon/
+
+type=video
+name=Masseuse of red pepper (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Masseuse-of-red-pepper-2017.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/rlfqbatepqadndlr/
+
+type=video
+name=New Recruits (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/New-Recruits-2017-Uncut.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/neqeneorlcmlebls/
+
+type=video
+name=Nae Chingu Anae (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Nae-Chingu-Anae-2018-Uncut.jpg
+date=2018-06-02
+URL=https://streamcherry.com/embed/tmbkbeqmbsttcerd/
+
+
+
+
+
+
 type=video
 name=164xxxxxxxxxxxxxxxxxxxxThe Mother Of A Student The First Sex Day (2017) [Uncut]
 thumb=https://erotic24hr.com/wp-content/uploads/2018/05/The-Mother-Of-A-Student-The-First-Sex-Day-2017-Uncut.jpg
