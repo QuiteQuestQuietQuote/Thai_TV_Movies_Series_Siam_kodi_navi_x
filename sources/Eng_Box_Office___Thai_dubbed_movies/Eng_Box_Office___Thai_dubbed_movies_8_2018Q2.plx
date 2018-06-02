@@ -101,12 +101,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tA1mXJF75y57MvsZv2gDhbi0B4
 date=2018-05-23
 URL=https://openload.co/f/NXxbOKq5Sus/Kings_2018_HDCAM_ENG_X264-THAN0S_SeeHD.mkv.mp4
 
-type=video
-name=Every Day (2018) ENG BDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UnME3icxSspwL0UoGZNSyyp7Xs.jpg
-date=2018-06-01
-URL=https://openload.co/f/mmr2pHR88gw/Every.Day.2018.BDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/aIW0ZBLOrto/Every.Day.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+
 
 
 type=video
@@ -162,12 +157,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0nUX6Q1ZB0P2t1Jo6EeFSVnOG
 date=2018-05-09
 URL=https://openload.co/f/1Vty-Ed3Gp0/Isle_of_Dogs_2018_720p_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
 
-type=video
-name=I Can Only Imagine (2018) ENG DVDRip.XviD.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/veZszwMZu8d3WMU6TJX9sV5w1Y4.jpg
-date=2018-06-01
-URL=https://openload.co/f/OcbfLCU3UUQ/I.Can.Only.Imagine.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/0pXMwyBF2m4/I_Can_Only_Imagine_2018_HDCAM_ENG_X264_HQMic-SugarTits_SeeHD.mkv.mp4
+
 
 
 
@@ -1248,11 +1238,7 @@ URL=https://openload.co/f/JxJSMoOr-7o/The_Shanghai_Job_2017_BDRip_Layar.mp4
 #http://entervideo.net/watch/663df7b4d19c193
 #https://openload.co/f/0CIUo1iyESA/SMART.Chase.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
 
-type=video
-name=Fate/stay night: Heaven's Feel I. presage flower (2017) JAP BRRip.H264-RBB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWNc8JfVRQpPlFfGsNOCsup9SNg.jpg
-date=2018-05-15
-URL=https://openload.co/f/KmlE4oAplkM/Fate.Stay.Night.Heavens.Feel.2017.BRRip.H264-RBB.mp4
+
 
 
 
@@ -1354,15 +1340,40 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-30
+date=2018-06-02
 URL=
 
 
 
 
+type=video
+name=Every Day (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UnME3icxSspwL0UoGZNSyyp7Xs.jpg
+date=2018-06-02
+URL=https://openload.co/f/m3XHnWPLPkA/every.day.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/mmr2pHR88gw/Every.Day.2018.BDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/aIW0ZBLOrto/Every.Day.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 
+type=video
+name=I Can Only Imagine (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/veZszwMZu8d3WMU6TJX9sV5w1Y4.jpg
+date=2018-06-02
+URL=https://openload.co/f/ZafwzB1IZWo/I.Can.Only.Imagine.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/OcbfLCU3UUQ/I.Can.Only.Imagine.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/0pXMwyBF2m4/I_Can_Only_Imagine_2018_HDCAM_ENG_X264_HQMic-SugarTits_SeeHD.mkv.mp4
 
+type=video
+name=Fate/stay night: Heaven's Feel I. presage flower (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWNc8JfVRQpPlFfGsNOCsup9SNg.jpg
+date=2018-06-02
+URL=https://openload.co/f/M28d0KpqvNM/fate.stay.night.heavens.feel.i.presage.flower.2017.1080p.bluray.x264-haiku.mkv.mp4
+#https://openload.co/f/KmlE4oAplkM/Fate.Stay.Night.Heavens.Feel.2017.BRRip.H264-RBB.mp4
 
+type=video
+name=Antiporno (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7LXyhQcI5JbfjAAi8D7YfwdbiY.jpg
+date=2018-06-02
+URL=https://openload.co/f/PcnFEkxCIvA/antiporno.2016.limited.1080p.bluray.x264-cadaver.mkv.mp4
 
 type=video
 name=The Heretics (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5098,11 +5109,23 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pftuEBVw0WnWSBYeiw4aIhIVKf
 date=2018-05-28
 URL=https://openload.co/f/9-epqk_5Sao/Back.to.the.Good.Times.2018.CHINESE.720p.BluRay.x264.DTS-HDC.mkv.mp4
 
+type=video
+name=Mobile Suit Gundam: The Origin III - Dawn of Rebellion (2016) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BxAEAmpX3DX8vFJCvTwiAsfEuf.jpg
+date=2018-06-02
+URL=https://openload.co/f/NXL-14Sklh0/mobile.suit.gundam.the.origin.iii.2016.720p.bluray.x264-haiku.mkv.mp4
 
+type=video
+name=Journey's End (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gGkt84bCPt7XRo35FcsrOeer78.jpg
+date=2018-06-02
+URL=https://openload.co/f/vZrL0LwhrFk/Journeys.End.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
-
-
-
+type=video
+name=Downrange (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ucsLiXa9NHjlrwKMtI9ZgvJTQq.jpg
+date=2018-06-02
+URL=https://openload.co/f/efb2XVj9NkI/Downrange_2017_BRRip_720p_AC3_X264-CMRG.mkv.mp4
 
 
 
@@ -5121,7 +5144,7 @@ URL=https://openload.co/f/9-epqk_5Sao/Back.to.the.Good.Times.2018.CHINESE.720p.B
 type=video
 name=
 thumb=
-date=2018-05-28
+date=2018-06-02
 URL=http://203.162.235.41:17819
 
 
@@ -5195,10 +5218,11 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
-name=Solo: A Star Wars Story (2018) ENG NEW_720p_HD-TS_V.2_SeeHD MKV
+name=Solo: A Star Wars Story (2018) ENG NEW_720p_HD-TS_V.2
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IGbjc5ZC5yxim5W0sFING2kdcz.jpg
-date=2018-06-01
-URL=https://openload.co/f/GdC4hcTBhBg/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_V.2_SeeHD.mkv
+date=2018-06-02
+URL=https://openload.co/f/eIEskJge87c/Solo%3A_A_Star_Wars_Story_2018_NEW_720p_HD-TS_V.2.mp4
+#https://openload.co/f/GdC4hcTBhBg/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_V.2_SeeHD.mkv   MKV
 #https://openload.co/f/hHuxcYvQKRg/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/KbdK1ENYGkU/Solo.A_Star_Wars_Story.2018.720p.HDCAM.Eng.1XBET_SeeHD.mp4
 #https://openload.co/f/V_owx_hrBak/Solo%3A_A_Star_Wars_Story_%282018%29HDCAM_720p_x264_750MB_AAC_-_NoGroup.Ganool.im.mkv.mp4
@@ -5239,10 +5263,11 @@ URL=https://streamango.com/f/ofspqsqdrfcfbbmk/Truth_or_Dare_2018_
 
 
 type=video
-name=Sherlock Gnomes (2018) ENG DVDRip.XviD.AC3-EVO_SeeHD
+name=Sherlock Gnomes (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHdf2wRgCSp9MrZRryikiZIH6jB.jpg
-date=2018-06-01
-URL=https://openload.co/f/4QrbiBIPo84/Sherlock.Gnomes.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+date=2018-06-02
+URL=https://openload.co/f/kuDAEMb68Pc/Sherlock.Gnomes.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/4QrbiBIPo84/Sherlock.Gnomes.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://openload.co/f/RdAhbx9rRvA/Sherlock.Gnomes.2018.HDCAM.XviD-VAiN.avi.mp4
 #https://openload.co/f/aCDwq_C0Py8/Sherlock_Gnomes_2018_HDCAM_X264_AC3-Bang.mp4
 type=video
@@ -6776,11 +6801,16 @@ URL=
 
 
 
+
+
+
+
 type=video
 name=Tomb Raider (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
 date=2018-06-01
 URL=https://openload.co/f/Tnmwwy9d6X8/Tomb.Raider.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/52HGZCIu90w/tomb.raider.2018.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/wmHs4JQx9wE/Tomb.Raider.2018.1080p.BrRip.6CH.x265.HEVC-PSA.mkv.mp4
 #https://openload.co/f/ADx-QeeEMlk/Tomb.Raider.2018.BluRay.720p.x264.DTS-HDC.mkv.mp4
 #https://openload.co/f/eod4myMVZQM/Tomb.Raider.2018.720p.BluRay.H264.AAC-RARBG.mp4
@@ -6803,10 +6833,11 @@ URL=https://streamango.com/f/tcsdqpbtnqrfdqdl/Tomb_Raider_2018_
 
 
 type=video
-name=The Strangers: Prey at Night (2018) ENG 1080p_WEB-DL_DD5_1_H264-CMRG
+name=The Strangers: Prey at Night (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo3gu56JKRwZ2TpKt8mPjXLQK23.jpg
-date=2018-04-22
-URL=https://openload.co/f/JbO-zGeM36A/The_Strangers_Prey_at_Night_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+date=2018-06-02
+URL=https://openload.co/f/BSXMaM9IyQU/The.Strangers.Prey.at.Night.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/JbO-zGeM36A/The_Strangers_Prey_at_Night_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
 #https://openload.co/f/lbVbF_0sJ_4/The_Strangers_Prey_at_Night_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
 #https://openload.co/f/njRKbU9O_xY/The_Strangers_Prey_at_Night_2018_720p_HD-TS_X264-Mr.HIVE_SeeHD.mkv.mp4
 #https://openload.co/f/CetPr_P4a0Y/The_Strangers_Prey_at_Night.2018.HD-TS.XViD.AC3-ETRG.avi.mp4
@@ -7425,6 +7456,13 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+
+
+type=video
+name=Bad Genius (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgyvwqn5SYKhfg5kofZDfgH8R0q.jpg
+date=2018-06-02
+URL=https://openload.co/f/0rrjB7UGuYM/bad.genius.2017.1080p.bluray.x264-regret.mkv.mp4
 
 
 type=video
