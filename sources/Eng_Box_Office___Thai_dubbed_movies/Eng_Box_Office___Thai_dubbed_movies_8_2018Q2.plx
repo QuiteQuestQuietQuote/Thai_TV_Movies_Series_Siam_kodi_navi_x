@@ -211,11 +211,7 @@ URL=https://openload.co/f/iQqZjyCB8og/10x10.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp
 
 
 
-type=video
-name=The Lodgers (2018) ENG 1080p_WEB-DL_DD5.1_H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPePnxBFnlcfAMtxZdZNkLnOkqJ.jpg
-date=2018-02-24
-URL=https://openload.co/f/eWQIr3XNM5w/The_Lodgers_2017_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
+
 
 
 
@@ -1238,7 +1234,11 @@ URL=https://openload.co/f/JxJSMoOr-7o/The_Shanghai_Job_2017_BDRip_Layar.mp4
 #http://entervideo.net/watch/663df7b4d19c193
 #https://openload.co/f/0CIUo1iyESA/SMART.Chase.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
 
-
+type=video
+name=Mobile Suit Gundam: The Origin IV – Eve of Destiny (2016) JAP bdrip.x264-haiku
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Al0EdC3nOjIBmBnbJaHEGjJcZwm.jpg
+date=2018-06-03
+URL=https://openload.co/f/6AIcof819U0/mobile.suit.gundam.the.origin.iv.2016.bdrip.x264-haiku.mkv.mp4
 
 
 
@@ -1249,7 +1249,7 @@ URL=https://openload.co/f/JxJSMoOr-7o/The_Shanghai_Job_2017_BDRip_Layar.mp4
 type=video
 name=
 thumb=
-date=2018-05-22
+date=2018-06-03
 URL=
 
 
@@ -1340,17 +1340,33 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-02
+date=2018-06-03
 URL=
 
 
 
 
+
+
+type=video
+name=The Mercy (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rn170WmFUE4esoXvoOOAonDw16.jpg
+date=2018-06-03
+URL=https://openload.co/f/VxNRJqzFuhY/The.Mercy.2018.1080p.BR_SeeHD.mp4
+
+type=video
+name=Journey's End (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gGkt84bCPt7XRo35FcsrOeer78.jpg
+date=2018-06-03
+URL=https://openload.co/f/thf9UizUpZ4/Journeys.End.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/vZrL0LwhrFk/Journeys.End.2017.720p.BluRay.H264.AAC-RARBG.mp4
+
 type=video
 name=Every Day (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UnME3icxSspwL0UoGZNSyyp7Xs.jpg
-date=2018-06-02
-URL=https://openload.co/f/m3XHnWPLPkA/every.day.2018.1080p.bluray.x264-drones.mkv.mp4
+date=2018-06-03
+URL=https://openload.co/f/YTmjRFeRXzk/Every.Day.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/m3XHnWPLPkA/every.day.2018.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/mmr2pHR88gw/Every.Day.2018.BDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/aIW0ZBLOrto/Every.Day.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 
@@ -5115,11 +5131,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BxAEAmpX3DX8vFJCvTwiAsfEu
 date=2018-06-02
 URL=https://openload.co/f/NXL-14Sklh0/mobile.suit.gundam.the.origin.iii.2016.720p.bluray.x264-haiku.mkv.mp4
 
-type=video
-name=Journey's End (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gGkt84bCPt7XRo35FcsrOeer78.jpg
-date=2018-06-02
-URL=https://openload.co/f/vZrL0LwhrFk/Journeys.End.2017.720p.BluRay.H264.AAC-RARBG.mp4
+
 
 type=video
 name=Downrange (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5127,7 +5139,12 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ucsLiXa9NHjlrwKMtI9ZgvJTQ
 date=2018-06-02
 URL=https://openload.co/f/efb2XVj9NkI/Downrange_2017_BRRip_720p_AC3_X264-CMRG.mkv.mp4
 
-
+type=video
+name=The Lodgers (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPePnxBFnlcfAMtxZdZNkLnOkqJ.jpg
+date=2018-06-03
+URL=https://openload.co/f/XyRXjDIGbFY/The.Lodgers.2017.720p.BR_SeeHD.mp4
+#https://openload.co/f/eWQIr3XNM5w/The_Lodgers_2017_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
 
 
 
@@ -6835,8 +6852,9 @@ URL=https://streamango.com/f/tcsdqpbtnqrfdqdl/Tomb_Raider_2018_
 type=video
 name=The Strangers: Prey at Night (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo3gu56JKRwZ2TpKt8mPjXLQK23.jpg
-date=2018-06-02
-URL=https://openload.co/f/BSXMaM9IyQU/The.Strangers.Prey.at.Night.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+date=2018-06-03
+URL=https://openload.co/f/Ina6EQX7-ZU/The.Strangers.Prey.at.Night.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/BSXMaM9IyQU/The.Strangers.Prey.at.Night.2018.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/JbO-zGeM36A/The_Strangers_Prey_at_Night_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
 #https://openload.co/f/lbVbF_0sJ_4/The_Strangers_Prey_at_Night_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
 #https://openload.co/f/njRKbU9O_xY/The_Strangers_Prey_at_Night_2018_720p_HD-TS_X264-Mr.HIVE_SeeHD.mkv.mp4
@@ -7461,8 +7479,9 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=Bad Genius (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgyvwqn5SYKhfg5kofZDfgH8R0q.jpg
-date=2018-06-02
-URL=https://openload.co/f/0rrjB7UGuYM/bad.genius.2017.1080p.bluray.x264-regret.mkv.mp4
+date=2018-06-03
+URL=https://openload.co/f/Q1V0jytSYDQ/Bad.Genius.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/0rrjB7UGuYM/bad.genius.2017.1080p.bluray.x264-regret.mkv.mp4
 
 
 type=video
@@ -8063,7 +8082,7 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-06-01
+date=2018-06-03
 URL=
 
 
@@ -8076,10 +8095,35 @@ URL=
 
 
 
+type=video
+name=Hush... Hush, Sweet Charlotte (1964) D1 [COLOR=FF00FF00]ENG DVD[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwVGNaVXFblluLwUjGcJ7RgW1rV.jpg
+date=2018-06-03
+URL=https://openload.co/f/bfxeKTmcsH4/Hush..Hush_Sweet_Charlotte_Bette_Davis_1964_DVDrip_cOOt_1.E.mp4
 
+type=video
+name=Hush... Hush, Sweet Charlotte (1964) D2 [COLOR=FF00FF00]ENG DVD[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwVGNaVXFblluLwUjGcJ7RgW1rV.jpg
+date=2018-06-03
+URL=https://openload.co/f/Lh6eMyYPt4I/Hush..Hush_Sweet_Charlotte_Bette_Davis_1964_DVDrip_cOOt_2.E.mp4
 
+type=video
+name=Fantastic Beasts and Where to Find Them (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M91Bt3oGspda75H9eLqYZkJzgO.jpg
+date=2018-06-03
+URL=https://openload.co/f/O1TLA9zir8k/Fantastic.Beasts.and.Where.to.Find.Them.2016.1080p.BRRip.x264.AAC_ETRG.mp4
 
+type=video
+name=Now You See Me (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/A06e9YJ5ry3WXEIFIAD1mKBxcuZ.jpg
+date=2018-06-03
+URL=https://openload.co/f/BGO8FhJ5DqM/Now_You_See_Me_fix.mp4
 
+type=video
+name=Now You See Me 2 (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hU0E130tsGdsYa4K9lc3Xrn5Wyt.jpg
+date=2018-06-03
+URL=https://openload.co/f/eegSTa-yH78/Now.You.See.Me.2.2016.1080p.BluRay.H264.AAC_RARBG.mp4
 
 type=video
 name=Black Mass (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
