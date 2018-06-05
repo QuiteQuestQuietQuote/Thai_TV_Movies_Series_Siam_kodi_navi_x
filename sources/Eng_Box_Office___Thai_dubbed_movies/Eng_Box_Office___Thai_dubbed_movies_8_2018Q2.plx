@@ -1340,7 +1340,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-04
+date=2018-06-05
 URL=
 
 
@@ -1349,13 +1349,20 @@ URL=
 
 
 
-
+type=video
+name=The Last Note (2017) [COLOR=FF00FF00]GRK BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2m6NLbR3E7rtikEIWSL88YmSUeH.jpg
+date=2018-06-05
+URL=https://openload.co/f/2rcDF6naj8U/The.Last.Note.2017.1080p.BluRay.DD5.1.x264-Taleporos.mkv.mp4
 
 type=video
 name=The Mercy (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rn170WmFUE4esoXvoOOAonDw16.jpg
 date=2018-06-03
 URL=https://openload.co/f/VxNRJqzFuhY/The.Mercy.2018.1080p.BR_SeeHD.mp4
+#https://www.blazefile.co/embed-vaibv399qaw7.html   720
+#https://uptobox.com/7l9obcehqs5i   720
+#https://openload.co/embed/oCwQtNWqk00/SHQTHEMERCYBD72.Ganoo.im.mkv.mp4
 
 type=video
 name=Journey's End (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4988,8 +4995,11 @@ URL=https://streamango.com/f/ofspqsqdrfcfbbmk/Truth_or_Dare_2018_
 type=video
 name=Sherlock Gnomes (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHdf2wRgCSp9MrZRryikiZIH6jB.jpg
-date=2018-06-02
-URL=https://openload.co/f/kuDAEMb68Pc/Sherlock.Gnomes.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+date=2018-06-05
+URL=https://www.blazefile.co/embed-bt520jc04uxu.html
+#https://uptobox.com/9tsu6l0wvm69
+#https://openload.co/embed/NWqqEFot1HA/GHPSHERLOCKGNOMES80.Ganool.im.mkv.mp4
+#https://openload.co/f/kuDAEMb68Pc/Sherlock.Gnomes.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/4QrbiBIPo84/Sherlock.Gnomes.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://openload.co/f/RdAhbx9rRvA/Sherlock.Gnomes.2018.HDCAM.XviD-VAiN.avi.mp4
 #https://openload.co/f/aCDwq_C0Py8/Sherlock_Gnomes_2018_HDCAM_X264_AC3-Bang.mp4
@@ -7797,7 +7807,7 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-06-04
+date=2018-06-05
 URL=
 
 
@@ -7807,6 +7817,36 @@ URL=
 
 
 
+
+type=video
+name=¡Three Amigos! (1986) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuTwahw966MoFwD7B2SFujaT5yp.jpg
+date=2018-06-05
+URL=https://openload.co/f/I5y0Cp2BEF0/Three.Amigos.1986.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Jurassic World (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjBgi2r5cRt36xF6iNUEhzscEcb.jpg
+date=2018-06-05
+URL=https://openload.co/f/3HR2l0g907s/Jurassic.World.2015.1080p.BR_SeeHD.mp4
+
+type=video
+name=Jurassic Park III (2001) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/26L7XODsNlxX3VwkfuUnYOslbRF.jpg
+date=2018-06-05
+URL=https://openload.co/f/FqU3MkbaMQY/Jurassic.Park.III.2001.1080p.BR_SeeHD.mp4
+
+type=video
+name=The Lost World: Jurassic Park (1997) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1fXmEQUCI9CjyHCCYOPBSq2DYo.jpg
+date=2018-06-05
+URL=https://openload.co/f/i2M7R2ZKFCg/Jurassic.Park.II.The.Lost.World.1997.1080p.Br_SeeHD.mp4
+
+type=video
+name=Jurassic Park (1993) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c414cDeQ9b6qLPLeKmiJuLDUREJ.jpg
+date=2018-06-05
+URL=https://openload.co/f/cC9S92U5-wY/Jurassic.Park.1993.REMASTERED.1080p.BR_SeeHD.mp4
 
 type=video
 name=The World's End (2013) [COLOR=FF00FF00]ENG BR 720p[/COLOR]

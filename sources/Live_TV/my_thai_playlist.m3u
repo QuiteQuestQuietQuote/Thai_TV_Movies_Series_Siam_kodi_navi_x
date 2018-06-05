@@ -24,6 +24,10 @@ http://live.nationtv.tv/hls/ntv_th_hd.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL_720
 http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_720p/index.m3u8
 
+
+#EXTINF:-1 group-title="news" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_TNN.png",TNN24_3bb
+http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.stream/chunklist_w127911716.m3u8?username=EkgXOqgOOb6GIwU34SLAzrNzL5QLXdZp&password=SqKbLDcrawXdFi9o3hAbviBuPxOCTkjz
+
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24_violin21
 http://symc-cdn02.bkk01.violin.co.th:1935/liveedge/308360140120_300/chunklist_w1618664550.m3u8
 
@@ -38,7 +42,6 @@ http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308498221057_600/chunklist_w1
 
 #EXTINF:-1,MONEY CHANNEL
 http://103.77.116.191:443/news/money_channel_480p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
-
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS_violin
@@ -155,256 +158,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
 
 
-
-
-
-#EXTINF:-1,CH3 HD
-http://www.fifa55-live.com/fifa55m-41/0x777_3hd_720p/chunklist.m3u8   
-#EXTINF:-1,CH5 HD
-http://www.fifa55-live.com/fifa55m-41/0x777_2tv5_720p/chunklist.m3u8   
-#EXTINF:-1,CH7 HD
-http://www.fifa55-live.com/fifa55m-136/0x777_7hd_720p/chunklist.m3u8
-#EXTINF:-1,MCOT HD
-http://www.fifa55-live.com/fifa55m-41/0x777_mcothd_720p/chunklist.m3u8   
-#EXTINF:-1,CH3 SD
-http://www.fifa55-live.com/fifa55m-53/00_3sd_480p/chunklist.m3u8   
-#EXTINF:-1,CH 3 FAMILY
-http://www.fifa55-live.com/fifa55m-53/00_3fam_480p/chunklist.m3u8  
-#EXTINF:-1,MCOT Family
-http://www.fifa55-live.com/fifa55m-53/00_mcotfam_480p/chunklist.m3u8
-#EXTINF:-1,NBT
-http://www.fifa55-live.com/fifa55m-53/00_2nbt_480p/chunklist.m3u8
-#EXTINF:-1,TPBS HD 1080P
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1,NewTV
-http://www.fifa55-live.com/fifa55m-53/00_tvdigital_newtv_480p/chunklist.m3u8   
-#EXTINF:-1,NOW26
-http://www.fifa55-live.com/fifa55m-53/00_tvdigital_now_480p/chunklist.m3u8
-#EXTINF:-1,ONE HD
-http://www.fifa55-live.com/fifa55m-41/0x777_tvdigital_one_720p/chunklist.m3u8  
-#EXTINF:-1,Spring News
-http://www.fifa55-live.com/fifa55m-53/00_springnews_480p/chunklist.m3u8   
-#EXTINF:-1,Bright TV
-http://www.fifa55-live.com/fifa55m-53/00_tvdigital_bright_480p/chunklist.m3u8
-#EXTINF:-1,Workpoint TV
-http://www.fifa55-live.com/fifa55m-53/00_tvdigital_workpointtv_480p/chunklist.m3u8
-#EXTINF:-1,Nation TV
-http://www.fifa55-live.com/fifa55m-53/00_nation_480p/chunklist.m3u8
-#EXTINF:-1,Thairath TV
-http://www.fifa55-live.com/fifa55m-53/00_tvdigital_thairath_720p/chunklist.m3u8
-#EXTINF:-1,Amarin TV HD
-http://www.fifa55-live.com/fifa55m-53/00_tvdigital_amarin_480p/chunklist.m3u8   
-#EXTINF:-1,Mono29
-http://www.fifa55-live.com/fifa55m-53/00_tvdigital_mono_480p/chunklist.m3u8  
-#EXTINF:-1,PPTV HD
-http://www.fifa55-live.com/fifa55m-41/0x777_tvdigital_pptv_720p/chunklist.m3u8  
-#EXTINF:-1,Mcot1
-http://www.fifa55-live.com/fifa55m-53/00_mcot1_480p/chunklist.m3u8   
-#EXTINF:-1,GMM channel
-http://www.fifa55-live.com/fifa55m-53/00_gmm25_480p/chunklist.m3u8   
-#EXTINF:-1,True4U
-http://www.fifa55-live.com/fifa55m-53/00_true4u_480p/chunklist.m3u8  
-#EXTINF:-1,True Plookpanya
-http://www.fifa55-live.com/fifa55m-53/00_tppy_480p/chunklist.m3u8   
-#EXTINF:-1,VOICE
-http://www.fifa55-live.com/fifa55m-53/00_voice_480p/chunklist.m3u8   
-#EXTINF:-1,CH8
-http://www.fifa55-live.com/fifa55m-53/0x777_tvdigital_ch8_480p/chunklist.m3u8   
-#EXTINF:-1,You Channel
-http://www.fifa55-live.com/fifa55m-53/00_youchannel_480p/chunklist.m3u8   
-#EXTINF:-1,TNN24
-http://www.fifa55-live.com/fifa55m-53/00_tnn24_480p/chunklist.m3u8   
-#EXTINF:-1,Money Channel
-http://www.fifa55-live.com/fifa55m-53/00_moneychannel_480p/chunklist.m3u8  
-#EXTINF:-1,TNN2
-http://www.fifa55-live.com/fifa55m-53/00_tnn2_480p/chunklist.m3u8   
-#EXTINF:-1,M Channel
-http://www.fifa55-live.com/fifa55m-53/00_mchannel_480p/chunklist.m3u8   
-#EXTINF:-1,JKN TV
-http://www.fifa55-live.com/fifa55m-54/0x222_jkn_720p/chunklist.m3u8   
-#EXTINF:-1,T-Sports
-http://www.fifa55-live.com/fifa55m-53/0x539_tsports_480p/chunklist.m3u8  
-#EXTINF:-1,SMM TV
-http://www.fifa55-live.com/fifa55m-53/00_smmtv_480p/chunklist.m3u8   
-#EXTINF:-1,Miracle TV
-http://www.fifa55-live.com/fifa55m-53/00_miracle_480p/chunklist.m3u8  
-#EXTINF:-1,Reality TV
-http://www.fifa55-live.com/fifa55m-53/00_real_480p/chunklist.m3u8   
-#EXTINF:-1,Chic's TV
-http://www.fifa55-live.com/fifa55m-53/00_chicchannel_480p/chunklist.m3u8   
-#EXTINF:-1,Superbunteung TV
-http://www.fifa55-live.com/fifa55m-53/00_superbunteng_480p/chunklist.m3u8
-#EXTINF:-1,Travel TV
-http://www.fifa55-live.com/fifa55m-53/00_travelchannel_480p/chunklist.m3u8
-#EXTINF:-1,TGN TV
-http://www.fifa55-live.com/fifa55m-53/00_tgn_480p/chunklist.m3u8
-#EXTINF:-1,TGN2 TV
-http://www.fifa55-live.com/fifa55m-53/00_tgn2_480p/chunklist.m3u8   
-#EXTINF:-1,SME TV
-http://www.fifa55-live.com/fifa55m-53/00_smechannel_480p/chunklist.m3u8  
-#EXTINF:-1,ETV Channel
-http://www.fifa55-live.com/fifa55m-53/00_etv_480p/chunklist.m3u8  
-#EXTINF:-1,True Nick Jr.
-http://www.fifa55-live.com/fifa55m-54/0x222_nickjrthai_720p/chunklist.m3u8  
-#EXTINF:-1,True Spark play
-http://www.fifa55-live.com/fifa55m-53/00_spark_480p/chunklist.m3u8   
-#EXTINF:-1,True Spark Jump
-http://www.fifa55-live.com/fifa55m-53/00_sparkjump_480p/chunklist.m3u8
-#EXTINF:-1,Disney Channel
-http://www.fifa55-live.com/fifa55m-53/00_disney_480p/chunklist.m3u8   
-#EXTINF:-1,Discovery Kids
-http://www.fifa55-live.com/fifa55m-41/0x777_discoverykids_480p/chunklist.m3u8  
-#EXTINF:-1,Toonami
-http://www.fifa55-live.com/fifa55m-41/0x222_toonami_720p/chunklist.m3u8   
-#EXTINF:-1,Boomerang
-http://www.fifa55-live.com/fifa55m-53/00_boomerang_480p/chunklist.m3u8   
-#EXTINF:-1,Gang Cartoon
-http://www.fifa55-live.com/fifa55m-53/00_gangcartoon_480p/chunklist.m3u8   
-#EXTINF:-1,True Movie Hits
-http://www.fifa55-live.com/fifa55m-53/00_moviehits_480p/chunklist.m3u8  
-#EXTINF:-1,True Thai Film
-http://www.fifa55-live.com/fifa55m-53/00_2thaifilm_480p/chunklist.m3u8  
-#EXTINF:-1,True Film Asia  
-http://www.fifa55-live.com/fifa55m-53/00_filmasia_480p/chunklist.m3u8
-#EXTINF:-1,True Asian Series
-http://www.fifa55-live.com/fifa55m-53/00_2asianseries_480p/chunklist.m3u8  
-#EXTINF:-1,True Music
-http://www.fifa55-live.com/fifa55m-53/00_2music_480p/chunklist.m3u8   
-#EXTINF:-1,Trace Urban
-http://www.fifa55-live.com/fifa55m-54/0x222_traceurbanhd_720p/chunklist.m3u8   
-#EXTINF:-1,Fashion TV HD
-http://www.fifa55-live.com/fifa55m-54/0x222_fashiontvsd_720p/chunklist.m3u8  
-#EXTINF:-1,True X-zyte
-http://www.fifa55-live.com/fifa55m-53/00_xzyte_480p/chunklist.m3u8  
-#EXTINF:-1,Asian Food Channel
-http://www.fifa55-live.com/fifa55m-53/00_homeandfood_480p/chunklist.m3u8  
-#EXTINF:-1,Very TV
-http://www.fifa55-live.com/fifa55m-53/00_very_480p/chunklist.m3u8   
-#EXTINF:-1,MTV Asia
-http://www.fifa55-live.com/fifa55m-54/0x222_mtvasia_720p/chunklist.m3u8
-#EXTINF:-1,MTV Live HD
-http://www.fifa55-live.com/fifa55m-54/0x222_mtvlivehd_720p/chunklist.m3u8   
-#EXTINF:-1,MTV China
-http://www.fifa55-live.com/fifa55m-54/0x222_mtvchina_720p/chunklist.m3u8
-#EXTINF:-1,Channel V Thailand
-http://www.fifa55-live.com/fifa55m-54/0x222_chvinter_720p/chunklist.m3u8   
-#EXTINF:-1,True Explore Wild
-http://www.fifa55-live.com/fifa55m-53/00_exp1_480p/chunklist.m3u8   
-#EXTINF:-1,True Explore Life
-http://www.fifa55-live.com/fifa55m-53/00_exp2_480p/chunklist.m3u8
-#EXTINF:-1,True Explore Sci
-http://www.fifa55-live.com/fifa55m-53/00_exp3_480p/chunklist.m3u8
-#EXTINF:-1,RAMA
-http://www.fifa55-live.com/fifa55m-53/00_rama_480p/chunklist.m3u8
-#EXTINF:-1,Discovery Channel
-http://www.fifa55-live.com/fifa55m-41/00_dischannel_480p/chunklist.m3u8
-
-#EXTINF:-1,TLC
-http://www.fifa55-live.com/fifa55m-53/00_tlc_480p/chunklist.m3u8   
-#EXTINF:-1,Animal Planet
-http://www.fifa55-live.com/fifa55m-41/0x777_animalplanet_720p/chunklist.m3u8   
-#EXTINF:-1,BBC Earth
-http://www.fifa55-live.com/fifa55m-41/0x777_bbcearth_720p/chunklist.m3u8
-#EXTINF:-1,Discovery Science
-http://www.fifa55-live.com/fifa55m-41/0x777_dissci_720p/chunklist.m3u8  
-#EXTINF:-1,EVE
-http://www.fifa55-live.com/fifa55m-41/0x222_evehd_720p/chunklist.m3u8
-#EXTINF:-1,DMAX
-http://www.fifa55-live.com/fifa55m-41/0x777_dmaxhd_720p/chunklist.m3u8
-#EXTINF:-1,KBS World
-http://www.fifa55-live.com/fifa55m-53/00_kbs_480p/chunklist.m3u8   
-#EXTINF:-1,Celeatial Classic Movies
-http://www.fifa55-live.com/fifa55m-54/0x222_ccm_360p/chunklist.m3u8  
-#EXTINF:-1,AXN HD
-http://www.fifa55-live.com/fifa55m-41/0x777_axnhd_720p/chunklist.m3u8
-#EXTINF:-1,BBC Life Style
-http://www.fifa55-live.com/fifa55m-41/0x222_lifestylehd_720p/chunklist.m3u8  
-#EXTINF:-1,Discovery Asia
-http://www.fifa55-live.com/fifa55m-41/0x777_discoveryworldhd_720p/chunklist.m3u8  
-#EXTINF:-1,History Channel
-http://www.fifa55-live.com/fifa55m-41/0x777_historyhd_720p/chunklist.m3u8
-#EXTINF:-1,H2 Channel
-http://www.fifa55-live.com/fifa55m-41/0x777_h2hd_720p/chunklist.m3u8
-#EXTINF:-1,National Geographic
-http://www.fifa55-live.com/fifa55m-54/0x222_natgeographic_720p/chunklist.m3u8   
-#EXTINF:-1,National Geographic People
-http://www.fifa55-live.com/fifa55m-54/0x222_natgeopeople_720p/chunklist.m3u8   
-#EXTINF:-1,National Geographic Wild
-http://www.fifa55-live.com/fifa55m-54/0x222_natgeowild_720p/chunklist.m3u8   
-#EXTINF:-1,FYI
-http://www.fifa55-live.com/fifa55m-54/0x222_fyihdthai_720p/chunklist.m3u8
-#EXTINF:-1,CI HD
-http://www.fifa55-live.com/fifa55m-54/0x222_cihd_720p/chunklist.m3u8  
-#EXTINF:-1,HBO HD TH
-http://www.fifa55-live.com/fifa55m-53/0x222_ais_hbohdth_720p/chunklist.m3u8   
-#EXTINF:-1,HBO HD
-http://www.fifa55-live.com/fifa55m-53/0x222_ais_hbohd_720p/chunklist.m3u8
-#EXTINF:-1,HBO Signature
-http://www.fifa55-live.com/fifa55m-53/0x222_ais_hbosignature_720p/chunklist.m3u8  
-#EXTINF:-1,HBO Family
-http://www.fifa55-live.com/fifa55m-53/0x222_ais_hbofam_720p/chunklist.m3u8
-#EXTINF:-1,HBO Hits
-http://www.fifa55-live.com/fifa55m-53/0x222_ais_hbohit_720p/chunklist.m3u8
-#EXTINF:-1,Cinemax
-http://www.fifa55-live.com/fifa55m-53/0x222_ais_cinemax_720p/chunklist.m3u8   
-#EXTINF:-1,Red by HBO
-http://www.fifa55-live.com/fifa55m-53/0x222_ais_redbyhbo_720p/chunklist.m3u8
-#EXTINF:-1,FOX Thai
-http://www.fifa55-live.com/fifa55m-136/00_foxthai_480p/chunklist.m3u8   
-#EXTINF:-1,Fox Action Movies HD TH
-http://www.fifa55-live.com/fifa55m-53/0x222_foxactionmovieth_720p/chunklist.m3u8   
-#EXTINF:-1,Fox Action Movies HD
-http://www.fifa55-live.com/fifa55m-53/0x222_foxactionmovieen_720p/chunklist.m3u8
-#EXTINF:-1,Fox Family Movies HD TH
-http://www.fifa55-live.com/fifa55m-53/0x222_ais_foxfamth_720p/chunklist.m3u8  
-#EXTINF:-1,Fox Family Movies HD
-http://www.fifa55-live.com/fifa55m-53/0x222_ais_foxfamen_720p/chunklist.m3u8
-#EXTINF:-1,Fox Movies Premium HD TH
-http://www.fifa55-live.com/fifa55m-53/0x222_ais_foxpremiumth_720p/chunklist.m3u8
-#EXTINF:-1,Fox Movies Premium HD
-http://www.fifa55-live.com/fifa55m-136/0x777_foxpremiumtruly_720p/chunklist.m3u8 
-#EXTINF:-1,Fox Crime
-http://www.fifa55-live.com/fifa55m-54/0x222_foxcrimehdthai_720p/chunklist.m3u8   
-#EXTINF:-1,Thrill
-http://www.fifa55-live.com/fifa55m-54/0x222_thrill_720p/chunklist.m3u8
-#EXTINF:-1,Foxlife
-http://www.fifa55-live.com/fifa55m-54/0x222_starworldhdthai_720p/chunklist.m3u8
-#EXTINF:-1,FX
-http://www.fifa55-live.com/fifa55m-54/0x222_fxthailand_720p/chunklist.m3u8   
-#EXTINF:-1,Warner TV
-http://www.fifa55-live.com/fifa55m-54/0x777_warnertv_720p/chunklist.m3u8
-#EXTINF:-1,Samrojlok
-http://www.fifa55-live.com/fifa55m-41/0x777_samrujlok_720p/chunklist.m3u8 
-#EXTINF:-1,MyScience HD
-http://www.fifa55-live.com/fifa55m-41/0x222_mysci_720p/chunklist.m3u8
-#EXTINF:-1,Doonee HD
-http://www.fifa55-live.com/fifa55m-53/0x222_ais_doonee_720p/chunklist.m3u8   
-#EXTINF:-1,Zeenung HD
-http://www.fifa55-live.com/fifa55m-53/0x222_ais_zeenung_720p/chunklist.m3u8   
-#EXTINF:-1,CCTV4
-http://www.fifa55-live.com/fifa55m-53/00_cctv_480p/chunklist.m3u8
-#EXTINF:-1,Arirang
-http://www.fifa55-live.com/fifa55m-54/0x222_arirang_720p/chunklist.m3u8   
-#EXTINF:-1,DW
-http://www.fifa55-live.com/fifa55m-54/0x222_dwchannel_720p/chunklist.m3u8
-#EXTINF:-1,NHK World TV
-http://www.fifa55-live.com/fifa55m-54/0x222_nhkworldtv_720p/chunklist.m3u8   
-#EXTINF:-1,Euronews
-http://www.fifa55-live.com/fifa55m-54/0x222_euronews_720p/chunklist.m3u8
-#EXTINF:-1,Channel NewsAsia
-http://www.fifa55-live.com/fifa55m-54/0x222_newsasia_720p/chunklist.m3u8
-#EXTINF:-1,Sky News HD
-http://www.fifa55-live.com/fifa55m-54/0x222_skynewshd_720p/chunklist.m3u8   
-#EXTINF:-1,Fox News HD
-http://www.fifa55-live.com/fifa55m-54/0x222_foxnewsthai_720p/chunklist.m3u8
-#EXTINF:-1,Star Chinese Channel
-http://www.fifa55-live.com/fifa55m-54/0x222_scc_720p/chunklist.m3u8
-#EXTINF:-1,GVTV
-http://www.fifa55-live.com/fifa55m-53/0x222_ais_gvtv_720p/chunklist.m3u8
-#EXTINF:-1,GVV
-http://www.fifa55-live.com/fifa55m-53/0x222_ais_gvv_720p/chunklist.m3u8
-#EXTINF:-1,GVX
-http://www.fifa55-live.com/fifa55m-41/0x222_ais_gvx_720p/chunklist.m3u8   
+ 
 
 
 
@@ -429,38 +183,37 @@ http://www.fifa55-live.com/fifa55m-41/0x222_ais_gvx_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1,CHANNEL 3
-http://103.77.116.191:443/tvdigital/3_hd_720p.stream/playlist.m3u8?
-
-#EXTINF:-1,CHANNEL 3
-http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
-
-#EXTINF:-1,CHANNEL 5
-http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_3_SD.png",CHANNEL 3_HD
+http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza53_ch3hd_live1.stream/chunklist_w1370701278.m3u8?username=GmuhlcBLXko0KUWzRyb4mDrryu5SxTS8&password=Qdv9qj0yojJ0GYeaEvEe09XjTUSS8YiF
 
 
 
-
-#EXTINF:-1,CHANNEL 7
-http://103.77.116.191:443/tvdigital/7_hd_720p.stream/playlist.m3u8?
+#EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_5.jpg",CHANNEL 5
+http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza53_tv5hd_live1.stream/chunklist_w3286122.m3u8?username=py9YivmfRfkhr4b0DJ1jdlH0udAJQvg6&password=ha3E0MKVyTiu4T57UTI6DiYV6U63tnzy
 
 
 
 
-#EXTINF:-1,NEW TV 18
-http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
+#EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_7HD.png",CHANNEL 7
+http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza53_ch7hd_live1.stream/playlist.m3u8?username=DgO0Egv1DhMjTkIzVeZ179ZvNmGHg9IH&password=A32VfCvFPN1kthvrHCqcU4R8Ely20mLx
 
 
 
 
-#EXTINF:-1,NBT TV
-http://symc-cdn05.bkk02.violin.co.th:1935/liveedge/308806374084_600/playlist.m3u8
+#EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_New_tv.png",NEW TV 18
+http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza64_newstv_live1.stream/chunklist_w1785708674.m3u8?username=1KXgxF6yIEXFjJXlRgca2GnkI3prGbvE&password=mVgTP8bkzQuM29Iv5QpkHYED9wwlGCRQ
 
 
 
 
-#EXTINF:-1,CH 3 family
-http://103.77.116.191:443/tvdigital/3_family_480p.stream/playlist.m3u8?
+#EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_nbt.jpg",NBT TV
+http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcast73_nbt_live1.stream/chunklist_w743777620.m3u8?username=S80tfoJIHWGbnFIeHmhOha2cyBX2EgKm&password=u9Y1G15Zy0tYtHPtYMXxTRcmjAR1cxlv
+
+
+
+
+#EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_3_SD.png",CH 3 family
+http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_3family_live1.stream/chunklist_w269689018.m3u8?username=9EpePB8BxiPZ2YzqpgocWXYtD0pu4EBU&password=wLdeBTOav0vP86aot0gYf1BPd6v5OqFa
 
 
 
@@ -639,257 +392,7 @@ http://203.162.235.41:17819
 #EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
 http://203.162.235.41:17819
 
-#EXTINF:0,  IPTV MIX TV Channels Playlist
-http://
 
-#EXTINF:-1,FASHION ONE
-http://183.89.3.45:8010/play/a01v
-#EXTINF:-1,CARTOON NETWORK
-http://183.89.3.45:8010/play/a01b
-#EXTINF:-1,ZEE TV
-http://183.89.3.45:8010/play/a01z
-#EXTINF:-1,CNBC
-http://183.89.3.45:8010/play/a02c
-#EXTINF:-1,CINEMAX
-http://183.89.3.45:8010/play/a00n
-#EXTINF:-1,MRTV
-http://183.89.3.45:8010/play/a013
-#EXTINF:-1,NAT GEO PEOPLE
-http://183.89.3.45:8010/play/a02z
-#EXTINF:-1,CCTV 9
-http://183.89.3.45:8010/play/a02b
-#EXTINF:-1,MNTV
-http://183.89.3.45:8010/play/a017
-#EXTINF:-1,FOX SPORTS 1
-http://183.89.3.45:8010/play/a02m
-#EXTINF:-1,SKYNET SPORTS-2
-http://183.89.3.45:8010/play/a02k
-#EXTINF:-1,NHK WORLD PREMIUM
-http://183.89.3.45:8010/play/a027
-#EXTINF:-1,STATE&DIVISION HLUTTAW
-http://183.89.3.45:8010/play/a03h
-#EXTINF:-1,ZEE CINEMA ME
-http://183.89.3.45:8010/play/a01n
-#EXTINF:-1,BBC CBEEBIES
-http://183.89.3.45:8010/play/a03f
-#EXTINF:-1,BUDDHA
-http://183.89.3.45:8010/play/a012
-#EXTINF:-1,HISTORY HD
-http://183.89.3.45:8010/play/a00y
-#EXTINF:-1,ITV CHOICE
-http://183.89.3.45:8010/play/a038
-#EXTINF:-1,SHOPPING CHANNEL
-http://183.89.3.45:8010/play/a00p
-#EXTINF:-1,NICKELODEON
-http://183.89.3.45:8010/play/a01f
-#EXTINF:-1,DISCOVERY TLC
-http://183.89.3.45:8010/play/a032
-#EXTINF:-1,SKYNET MOVIES HD
-http://183.89.3.45:8010/play/a00v
-#EXTINF:-1,CHANNEL ONE
-http://183.89.3.45:8010/play/a019
-#EXTINF:-1,SKYNET KNOWLEDGE
-http://183.89.3.45:8010/play/a02w
-#EXTINF:-1,FIGHT SPORTS HD
-http://183.89.3.45:8010/play/a00z
-#EXTINF:-1,AGRICULTURE/FOREST
-http://183.89.3.45:8010/play/a03q
-#EXTINF:-1,EDUCATION CHANNEL
-http://183.89.3.45:8010/play/a03p
-#EXTINF:-1,CH-V
-http://183.89.3.45:8010/play/a01p
-#EXTINF:-1,E!
-http://183.89.3.45:8010/play/a03o
-#EXTINF:-1,FOX SPORTS 3
-http://183.89.3.45:8010/play/a02o
-#EXTINF:-1,SKYNET-HD-PAY PER VIEW
-http://183.89.3.45:8010/play/a00w
-#EXTINF:-1,SKY NEWS
-http://183.89.3.45:8010/play/a00e
-#EXTINF:-1,HADAYA
-http://183.89.3.45:8010/play/a01g
-#EXTINF:-1,DMAX
-http://183.89.3.45:8010/play/a035
-#EXTINF:-1,WORLD DRAMA
-http://183.89.3.45:8010/play/a01x
-#EXTINF:-1,DIVA UNIVERSAL
-http://183.89.3.45:8010/play/a03n
-#EXTINF:-1,BBC EARTH
-http://183.89.3.45:8010/play/a03e
-#EXTINF:-1,UNIVERSAL SD
-http://183.89.3.45:8010/play/a03m
-#EXTINF:-1,SKYNET MUSIC
-http://183.89.3.45:8010/play/a01o
-#EXTINF:-1,CNAI
-http://183.89.3.45:8010/play/a02f
-#EXTINF:-1,ASN
-http://183.89.3.45:8010/play/a02p
-#EXTINF:-1,M-BIZ
-http://183.89.3.45:8010/play/a018
-#EXTINF:-1,H2
-http://183.89.3.45:8010/play/a03k
-#EXTINF:-1,SKYNET CARTOON
-http://183.89.3.45:8010/play/a01d
-#EXTINF:-1,MOTORVISION
-http://183.89.3.45:8010/play/a03j
-#EXTINF:-1,MYANMAR MOVIES
-http://183.89.3.45:8010/play/a01h
-#EXTINF:-1,MYANMAR ARTS
-http://183.89.3.45:8010/play/a01i
-#EXTINF:-1,SUN TV
-http://183.89.3.45:8010/play/a00o
-#EXTINF:-1,FOX FAMILY MOVIES
-http://183.89.3.45:8010/play/a01m
-#EXTINF:-1,SKYNET SPORTS-6
-http://183.89.3.45:8010/play/a00c
-#EXTINF:-1,EDGE SPORTS
-http://183.89.3.45:8010/play/a03i
-#EXTINF:-1,HOME CHANNEL
-http://183.89.3.45:8010/play/a03t
-#EXTINF:-1,BBC WORLD NEWS
-http://183.89.3.45:8010/play/a03g
-#EXTINF:-1,OUTDOOR CHANNEL
-http://183.89.3.45:8010/play/a03d
-#EXTINF:-1,DISCOVERY HD WORLD
-http://183.89.3.45:8010/play/a00t
-#EXTINF:-1,CNN
-http://183.89.3.45:8010/play/a00l
-#EXTINF:-1,HBO
-http://183.89.3.45:8010/play/a00m
-#EXTINF:-1,EURO SPORTS NEWS
-http://183.89.3.45:8010/play/a00g
-#EXTINF:-1,INTERNATIONAL DRAMA
-http://183.89.3.45:8010/play/a01y
-#EXTINF:-1,FOX MOVIES PREMIUM
-http://183.89.3.45:8010/play/a01l
-#EXTINF:-1,MTV LIVE HD
-http://183.89.3.45:8010/play/a00s
-#EXTINF:-1,GLOBALNET
-http://183.89.3.45:8010/play/a039
-#EXTINF:-1,CCTV 4
-http://183.89.3.45:8010/play/a02a
-#EXTINF:-1,DISCOVERY KIDS
-http://183.89.3.45:8010/play/a036
-#EXTINF:-1,HLUTTAW
-http://183.89.3.45:8010/play/a037
-#EXTINF:-1,CI
-http://183.89.3.45:8010/play/a00j
-#EXTINF:-1,FOX SPORTS 2
-http://183.89.3.45:8010/play/a02n
-#EXTINF:-1,DISNEY JUNIOR ASIA
-http://183.89.3.45:8010/play/a02u
-#EXTINF:-1,DISCOVERY
-http://183.89.3.45:8010/play/a031
-#EXTINF:-1,SKYNET SPORTS-3
-http://183.89.3.45:8010/play/a02l
-#EXTINF:-1,WORLD MOVIES
-http://183.89.3.45:8010/play/a01k
-#EXTINF:-1,AXN
-http://183.89.3.45:8010/play/a00i
-#EXTINF:-1,NHK WORLD TV
-http://183.89.3.45:8010/play/a028
-#EXTINF:-1,FRANCE 24
-http://183.89.3.45:8010/play/a02h
-#EXTINF:-1,NICKJR
-http://183.89.3.45:8010/play/a01c
-#EXTINF:-1,SKYNET SPORTS HD
-http://183.89.3.45:8010/play/a00r
-#EXTINF:-1,SKYNET SPORTS-4
-http://183.89.3.45:8010/play/a00a
-#EXTINF:-1,FX
-http://183.89.3.45:8010/play/a023
-#EXTINF:-1,TINE-YIN-THAR
-http://183.89.3.45:8010/play/a03s
-#EXTINF:-1,EVE
-http://183.89.3.45:8010/play/a033
-#EXTINF:-1,NAT GEO MUSIC
-http://183.89.3.45:8010/play/a01q
-#EXTINF:-1,DISNEY CHANNEL ASIA
-http://183.89.3.45:8010/play/a02t
-#EXTINF:-1,HBO HD
-http://183.89.3.45:8010/play/a00u
-#EXTINF:-1,CCTV NEWS
-http://183.89.3.45:8010/play/a029
-#EXTINF:-1,BABY TV
-http://183.89.3.45:8010/play/a01e
-#EXTINF:-1,MONEY CHANNEL
-http://183.89.3.45:8010/play/a02s
-#EXTINF:-1,MTV SEA
-http://183.89.3.45:8010/play/a01t
-#EXTINF:-1,UP TO DATE
-http://183.89.3.45:8010/play/a03a
-#EXTINF:-1,GOLF
-http://183.89.3.45:8010/play/a02q
-#EXTINF:-1,LIFETIME
-http://183.89.3.45:8010/play/a03l
-#EXTINF:-1,DISCOVERY SCIENCE
-http://183.89.3.45:8010/play/a034
-#EXTINF:-1,DISNEY XD
-http://183.89.3.45:8010/play/a00x
-#EXTINF:-1,NGC WILD
-http://183.89.3.45:8010/play/a02y
-#EXTINF:-1,ASIAN MOVIES
-http://183.89.3.45:8010/play/a01j
-#EXTINF:-1,PHOENIX INFO NEWS
-http://183.89.3.45:8010/play/a02i
-#EXTINF:-1,DWTV
-http://183.89.3.45:8010/play/a02g
-#EXTINF:-1,EURO SPORTS
-http://183.89.3.45:8010/play/a00d
-#EXTINF:-1,STAR CHINESE MOVIES
-http://183.89.3.45:8010/play/a02e
-#EXTINF:-1,MRTV ENTERTAINTMENT
-http://183.89.3.45:8010/play/a015
-#EXTINF:-1,BLOOMBERG
-http://183.89.3.45:8010/play/a02d
-#EXTINF:-1,SKYNET SPORTS-1
-http://183.89.3.45:8010/play/a02j
-#EXTINF:-1,CHANNEL 9
-http://183.89.3.45:8010/play/a01a
-#EXTINF:-1,ANIMAL PLANET
-http://183.89.3.45:8010/play/a030
-#EXTINF:-1,ARIRANG
-http://183.89.3.45:8010/play/a026
-#EXTINF:-1,KBS WORLD
-http://183.89.3.45:8010/play/a025
-#EXTINF:-1,MWD
-http://183.89.3.45:8010/play/a014
-#EXTINF:-1,M
-http://183.89.3.45:8010/play/a024
-#EXTINF:-1,FOX SPORTS NEWS
-http://183.89.3.45:8010/play/a022
-#EXTINF:-1,STAR WORLD
-http://183.89.3.45:8010/play/a021
-#EXTINF:-1,FYI,
-http://183.89.3.45:8010/play/a00k
-#EXTINF:-1,FOX CRIME
-http://183.89.3.45:8010/play/a020
-#EXTINF:-1,MITV
-http://183.89.3.45:8010/play/a016
-#EXTINF:-1,ZING
-http://183.89.3.45:8010/play/a01r
-#EXTINF:-1,COMEDY CENTRAL
-http://183.89.3.45:8010/play/a03b
-#EXTINF:-1,RED BY HBO
-http://183.89.3.45:8010/play/a03c
-#EXTINF:-1,NGC
-http://183.89.3.45:8010/play/a02x
-#EXTINF:-1,FOX ACTION MOVIES HD
-http://183.89.3.45:8010/play/a010
-#EXTINF:-1,HEALTH
-http://183.89.3.45:8010/play/a03r
-#EXTINF:-1,SKYNET SPORTS-5
-http://183.89.3.45:8010/play/a00b
-#EXTINF:-1,MTV CHINA
-http://183.89.3.45:8010/play/a01s
-#EXTINF:-1,SKYNET TEEN
-http://183.89.3.45:8010/play/a01u
-#EXTINF:-1,SKYNET LIVE CHANNEL
-http://183.89.3.45:8010/play/a02r
-#EXTINF:-1,FOX NEWS
-http://183.89.3.45:8010/play/a00f
-#EXTINF:-1,ANIMAX
-http://183.89.3.45:8010/play/a00h
 
 
 
@@ -1095,29 +598,7 @@ http://113.175.179.15:4022/rtp/232.84.1.76:8430
 
 
 
-#EXTINF:-1,HISTORY
-http://103.77.116.191:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
-#EXTINF:-1,HBO HD
-http://103.77.116.191:443/movie/hbo_hd_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-
-#EXTINF:-1,HBO Hits
-http://103.77.116.191:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-
-#EXTINF:-1,hbo_signature
-http://103.77.116.191:443/movie/hbo_signature_720p.stream/chunklist.m3u8st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-
-#EXTINF:-1,Cinemax
-http://103.77.116.191:443/movie/cinemax_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-
-#EXTINF:-1,Fox Mov Pre HD 
-http://103.77.116.191:443/movie/fox_movies_premium_hd_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-
-#EXTINF:-1,Doonee HD
-http://103.77.116.191:443/movie/ais_doonee_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-
-#EXTINF:-1,RED by HBO
-http://103.77.116.191:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 
 
@@ -1179,38 +660,7 @@ http://live-tx-hdl.huomaotv.cn/live/gEFTWY23105.m3u8
 
 
 
-#EXTINF:-1,doonee
-http://103.77.116.191:443/movie/ais_doonee_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-#EXTINF:-1,true_thai_film
-http://103.77.116.191:443/movie/true_thai_film_480p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-#EXTINF:-1,true_asian_series
-http://103.77.116.191:443/movie/true_asian_series_480p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-#EXTINF:-1,true_series
-http://103.77.116.191:443/movie/true_series_480p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-#EXTINF:-1,true_movie_hits
-http://103.77.116.191:443/movie/true_movie_hits_480p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-#EXTINF:-1,true_film_asia
-http://cdn4-live.googlestreamming.com:443/movie/true_film_asia_480p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-#EXTINF:-1,fox_action_movies
-http://103.77.116.191:443/movie/fox_action_movies_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-#EXTINF:-1,fox_movies_premium_hd
-http://103.77.116.191:443/movie/fox_movies_premium_hd_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-#EXTINF:-1,fox family movies en
-http://103.77.116.191:443/movie/ais_foxfamen_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-#EXTINF:-1,fox family movies th
-http://103.77.116.191:443/movie/ais_foxfamth_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-#EXTINF:-1,hbo_hd
-http://103.77.116.191:443/movie/hbo_hd_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-#EXTINF:-1,hbo_hd
-http://103.77.116.191:443/movie/hbo_th_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-#EXTINF:-1,hbo_hits
-http://103.77.116.191:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-#EXTINF:-1,hbo_signature
-http://103.77.116.191:443/movie/hbo_signature_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-#EXTINF:-1,hbo_family
-http://103.77.116.191:443/movie/hbo_family_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-#EXTINF:-1,red_by_hbo
-http://103.77.116.191:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
+
 
 
 
@@ -1221,32 +671,7 @@ http://103.77.116.191:443/movie/red_by_hbo_720p.stream/playlist.m3u8?st=PGmwNhqS
 http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_300/chunklist.m3u8
 
 
-#EXTINF:-1,true_explore_sci
-http://103.77.116.191:443/documentary/true_explore_sci_480p.stream/chunklist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
-#EXTINF:-1,history_channel
-http://103.77.116.191:443/documentary/history_channel_hd_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-
-#EXTINF:-1,national_geographic
-http://103.77.116.191:443/documentary/national_geographic_hd_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-
-#EXTINF:-1,discovery_science
-http://103.77.116.191:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-
-#EXTINF:-1,discovery_channel
-http://103.77.116.191:443/documentary/discovery_channel_480p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-
-#EXTINF:-1,national_geographic_people
-http://103.77.116.191:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-
-#EXTINF:-1,asian_food_channel
-http://103.77.116.191:443/documentary/asian_food_channel_480p.stream/chunklist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-
-#EXTINF:-1,discovery_hd_world
-http://103.77.116.191:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-
-#EXTINF:-1,bbc_earth
-http://103.77.116.191:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 
 
 
@@ -2109,7 +1534,11 @@ http://203.162.235.41:17818
 http://203.162.235.41:17804
 
 
-#EXTINF:-1,saradee
+
+
+#EXTINF:-1,saradee_300
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_300/chunklist.m3u8
+#EXTINF:-1,saradee_600
 http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_600/chunklist.m3u8
 #EXTINF:-1,UK: NAT GEO HD
 http://217.182.173.184:8000/live/micha/micha/2172.m3u8
