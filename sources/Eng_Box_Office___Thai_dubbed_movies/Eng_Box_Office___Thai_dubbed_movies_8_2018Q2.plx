@@ -81,12 +81,7 @@ date=2018-06-01
 URL=https://openload.co/f/d1B8SasklXA/Mary_Shelley.2017.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 #https://openload.co/f/I9U2WBTtxjI/Mary_Shelley_2017_720p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
 
-type=video
-name=Unsane (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M1U5K4Vf1Cbtrjl9EkGNWpqahf.jpg
-date=2018-05-29
-URL=https://openload.co/f/rL1VW7OyBWo/Unsane.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/Lxgasaj43wE/Unsane_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
+
 
 
 type=video
@@ -566,11 +561,7 @@ URL=https://openload.co/f/IYX17ih3VDQ/Swing.Away.2016.HDRip.XviD.AC3-EVO.avi.mp4
 
 
 
-type=video
-name=The Layover (2017) ENG dvdrip.x264.fragment
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kb9osnqanXRpkpm1bnSqAhKoq5T.jpg
-date=2017-10-11
-URL=https://openload.co/f/_bCmA0g9Xu8/the.layover.2017.dvdrip.x264.fragment.mkv.mp4
+
 
 
 
@@ -1340,14 +1331,28 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-05
+date=2018-06-06
 URL=
 
 
 
 
 
+type=video
+name=The Layover (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kb9osnqanXRpkpm1bnSqAhKoq5T.jpg
+date=2018-06-06
+URL=https://openload.co/f/nBNsZsti7w0/The.Layover.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/_bCmA0g9Xu8/the.layover.2017.dvdrip.x264.fragment.mkv.mp4
 
+type=video
+name=Midnight Sun (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AchOrDSCMCAGiiY4QdBnNgvmWHq.jpg
+date=2018-06-06
+URL=https://www.blazefile.co/embed-a55r4137wfpt.html
+#https://uptobox.com/0taakpw5g4em
+#https://openload.co/embed/7jjEacpEsCs/GHPMIDNIGHTSUN80.Ganool.im.mkv
+#https://openload.co/f/cvUMM6IVbG8/Midnight_Sun_%282018%291080p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
 
 type=video
 name=The Last Note (2017) [COLOR=FF00FF00]GRK BR 1080p[/COLOR]
@@ -1601,6 +1606,7 @@ name=Swinging Safari (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zs9wcNHidBPhcTmiWzXuFam823v.jpg
 date=2018-05-20
 URL=https://openload.co/f/sTDtqepM4F8/Swinging.Safari.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/0aiwHLSwA7s/Swinging.Safari.2017.720p.BluRay.x264-PFa.mkv.mp4
 
 type=video
 name=Misconduct (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4863,6 +4869,44 @@ URL=https://www.blazefile.co/embed-oq2o2ozjaeo8.html
 #https://uptobox.com/d99yq7w92rbc
 #https://openload.co/embed/VMBICZoGSJ4/ATTACKSOUHERNZOMBIESBD72.Ganool.im.rar
 
+type=video
+name=The Merciless (2017) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMNGy8kfySmmNDHw3X4puqPIbx8.jpg
+date=2018-06-06
+URL=https://www.blazefile.co/embed-gz5ino396x8r.html
+#https://uptobox.com/p91vt5st1wru
+#https://openload.co/embed/Rzcmlsit0B4/The.Merciless.2017.BluRay.720p.900MB.Ganool.im.mkv
+#https://openload.co/f/49GqBwq-zB0/The.Merciless.2017.KOREAN.720p.BluRay.x264.DTS-HDC.mkv.mp4
+
+type=video
+name=Paul, Apostle of Christ (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDzLXgngB5DbiSmYSww5Rbg8kRA.jpg
+date=2018-06-06
+URL=https://www.blazefile.co/embed-yudnlgj4a4rr.html
+#https://uptobox.com/nkjdk6x4ifjw
+#https://openload.co/embed/rg46R4rm2bQ/PAULAPOSTLECHRISTBD72.Ganool.im.mkv.mp4
+#https://openload.co/f/tJ_KMKIyM9A/Paul.Apostle.of.Christ.2018.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/k1hPUy1rzQA/Paul.Apostle.of.Christ.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Child Eater (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/76FLOdNkHtEkvfkYhbWP1VLviQp.jpg
+date=2018-06-06
+URL=https://www.blazefile.co/embed-vkbqbbomkqrw.html
+#https://uptobox.com/878feka3hbyl
+#https://openload.co/embed/yRrmD1cP8b4/CHILDEATERBD72.Ganool.im.mkv.mp4
+#https://openload.co/f/XEr9vTlk0Xo/Child.Eater.2016.720p.BluRay.x264-GUACAMOLE.mkv.mp4
+
+type=video
+name=Unsane (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M1U5K4Vf1Cbtrjl9EkGNWpqahf.jpg
+date=2018-06-06
+URL=https://www.blazefile.co/embed-s7fp5j17mik3.html
+#https://uptobox.com/eh1hvkbqssto
+#https://openload.co/embed/iM2I_52pHjU/SHQUNSANEBD72.Ganool.im.mkv.mp4
+#https://openload.co/f/ERBlVi0axqQ/Unsane_%282018%29720p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
+#https://openload.co/f/rL1VW7OyBWo/Unsane.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/Lxgasaj43wE/Unsane_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
 
 
 
@@ -4874,7 +4918,7 @@ URL=https://www.blazefile.co/embed-oq2o2ozjaeo8.html
 type=video
 name=
 thumb=
-date=2018-06-04
+date=2018-06-06
 URL=http://203.162.235.41:17819
 
 
@@ -4992,25 +5036,7 @@ date=2018-05-21
 URL=https://streamango.com/f/ofspqsqdrfcfbbmk/Truth_or_Dare_2018_
 
 
-type=video
-name=Sherlock Gnomes (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHdf2wRgCSp9MrZRryikiZIH6jB.jpg
-date=2018-06-05
-URL=https://www.blazefile.co/embed-bt520jc04uxu.html
-#https://uptobox.com/9tsu6l0wvm69
-#https://openload.co/embed/NWqqEFot1HA/GHPSHERLOCKGNOMES80.Ganool.im.mkv.mp4
-#https://openload.co/f/kuDAEMb68Pc/Sherlock.Gnomes.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/4QrbiBIPo84/Sherlock.Gnomes.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/RdAhbx9rRvA/Sherlock.Gnomes.2018.HDCAM.XviD-VAiN.avi.mp4
-#https://openload.co/f/aCDwq_C0Py8/Sherlock_Gnomes_2018_HDCAM_X264_AC3-Bang.mp4
-#https://www.blazefile.co/embed-g3o3c1ozsjh0.html   720
-#https://uptobox.com/ly2xngjh1g61   720
-#https://openload.co/embed/bTz7SIRXgKU/SHQSHERLOCKGNOMESBD72.Ganool.im.mkv.mp4
-type=video
-name=Sherlock Gnomes (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHdf2wRgCSp9MrZRryikiZIH6jB.jpg
-date=2018-05-21
-URL=https://streamango.com/f/cpbsdkfbbkllpsos/Sherlock_Gnomes_2018_
+
 
 
 type=video
@@ -5146,10 +5172,20 @@ URL=
 
 
 type=video
+name=Revenge (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMv5ILxjzA9S930eLImSjfecETH.jpg
+date=2018-06-06
+URL=https://streamango.com/f/kaakpmqotkaqrpmq/Revenge_2018_
+
+
+type=video
 name=Love, Simon (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg
-date=2018-06-01
-URL=https://openload.co/f/qfgy-puPm1M/Love.Simon.2018.1080p.BR_SeeHD.mp4
+date=2018-06-06
+URL=https://www.blazefile.co/embed-i0wewr9eu78z.html
+#https://uptobox.com/ktrinlptj69g
+#https://openload.co/embed/PPQPTE5bVhc/GHPLOVESIMON80.Ganool.im.mkv.mp4
+#https://openload.co/f/qfgy-puPm1M/Love.Simon.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/aHlAhxvNCBc/Love.Simon.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/ffoLtKsVYa4/Love.Simon.2018.720p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/PqSW99kpL_0/Love.Simon.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
@@ -5357,10 +5393,11 @@ URL=https://streamango.com/f/cetecdspcpnrkfdl/Happy_Anniversary_2018_
 
 
 type=video
-name=Game Over, Man! (2018) ENG 1080p.web.x264-strife
+name=Game Over, Man! (2018) ENG 720p.NF.WEBRip.DD5.1.x264-NTb
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/58BnnYeQOTzdMBghZIH1tSH0REx.jpg
-date=2018-03-26
-URL=https://openload.co/f/mZzzSI-OdIE/game.over.man.2018.internal.1080p.web.x264-strife.mkv.mp4
+date=2018-06-06
+URL=https://openload.co/f/XsLme1Iqa7Q/Game.Over.Man.2018.720p.NF.WEBRip.DD5.1.x264-NTb.mkv.mp4
+#https://openload.co/f/mZzzSI-OdIE/game.over.man.2018.internal.1080p.web.x264-strife.mkv.mp4
 type=video
 name=Game Over, Man! (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/58BnnYeQOTzdMBghZIH1tSH0REx.jpg
@@ -6529,7 +6566,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-04-22
+date=2018-06-06
 URL=
 
 
@@ -6539,6 +6576,42 @@ URL=
 
 
 
+
+
+
+type=video
+name=Higher Power (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cplMeBlGdkpDzypHRKZ64BrpLoL.jpg
+date=2018-06-06
+URL=https://streamango.com/f/lddnarmlsrnlbnrm/Higher_Power_2018_
+
+type=video
+name=China Salesman (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/TmO5oywb87UwHBkpAulR13Y06m.jpg
+date=2018-06-06
+URL=https://streamango.com/f/ekkppdmoadnokoar/China_Salesman_2017_
+
+
+type=video
+name=Sherlock Gnomes (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHdf2wRgCSp9MrZRryikiZIH6jB.jpg
+date=2018-06-05
+URL=https://www.blazefile.co/embed-bt520jc04uxu.html
+#https://uptobox.com/9tsu6l0wvm69
+#https://openload.co/embed/NWqqEFot1HA/GHPSHERLOCKGNOMES80.Ganool.im.mkv.mp4
+#https://openload.co/f/kuDAEMb68Pc/Sherlock.Gnomes.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/4QrbiBIPo84/Sherlock.Gnomes.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/RdAhbx9rRvA/Sherlock.Gnomes.2018.HDCAM.XviD-VAiN.avi.mp4
+#https://openload.co/f/aCDwq_C0Py8/Sherlock_Gnomes_2018_HDCAM_X264_AC3-Bang.mp4
+#https://www.blazefile.co/embed-g3o3c1ozsjh0.html   720
+#https://uptobox.com/ly2xngjh1g61   720
+#https://openload.co/embed/bTz7SIRXgKU/SHQSHERLOCKGNOMESBD72.Ganool.im.mkv.mp4
+type=video
+name=Sherlock Gnomes (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHdf2wRgCSp9MrZRryikiZIH6jB.jpg
+date=2018-06-06
+URL=https://streamango.com/f/omlqadnqnmemdrec/Sherlock_Gnomes_2018_
+#https://streamango.com/f/cpbsdkfbbkllpsos/Sherlock_Gnomes_2018_
 
 
 type=video
@@ -6560,6 +6633,9 @@ URL=https://openload.co/f/Tnmwwy9d6X8/Tomb.Raider.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/0fZwGeHZlIo/Tomb_Raider_2018_720p_FULL_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/yeIY9gwoqo8/Tom_Raider.2018.720p.HDCAM.X264-TomFaggot.mp4
 #https://openload.co/f/Vu6eBXghw74/Tomb.Raider.2018.ENG.HDCAM.XViD-AKOAM.avi.mp4
+#https://www.blazefile.co/embed-79i87444vijo.html   720
+#https://uptobox.com/mfvdy974b2wq   720
+#https://openload.co/embed/tihNjYh_jlc/SHQTOMBRAIDERBD72.Ganool.im.mkv
 type=video
 name=Tomb Raider (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
@@ -6755,10 +6831,11 @@ URL=https://streamango.com/f/rlcdffttdddaetmn/Winchester_2018_
 
 
 type=video
-name=Monster Hunt 2 (2018) CHN HC.HDRip.AC3.X264-CMRG
+name=Monster Hunt 2 (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
-date=2018-04-04
-URL=https://openload.co/f/xiI37NMVGYQ/Monster.Hunt.2.2018.HC.HDRip.AC3.X264-CMRG.mkv.mp4
+date=2018-06-06
+URL=https://openload.co/f/-B6tEZLwh34/Monster.Hunt.2.2018.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
+#https://openload.co/f/xiI37NMVGYQ/Monster.Hunt.2.2018.HC.HDRip.AC3.X264-CMRG.mkv.mp4
 #https://openload.co/f/6oGjRk_3toQ/Monster_Hunt_2_%282018%29_Cam.mp4
 type=video
 name=Monster Hunt 2 (2018) THCAM SOUND
@@ -7189,13 +7266,35 @@ URL=
 type=video
 name=
 thumb=
-date=2018-05-25
+date=2018-06-06
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
 
 
+
+type=video
+name=Rescue Under Fire (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIi99YX0L6YzTHDzt8r7oLG01Ky.jpg
+date=2018-06-06
+URL=https://openload.co/f/K7a7MsCUmZ0/Rescue_Under_Fire_%282017%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%81%E0%B8%B9%E0%B9%89%E0%B8%8A%E0%B8%B5%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2.mp4
+
+
+# 2773803
+type=video
+name=The Circle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg
+date=2017-07-20
+URL=https://openload.co/f/JapDzi8flN8/The.Circle.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+player=default
+rating=-1.00
+description=A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company's ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity./description
+type=video
+name=The Circle (2017) TH
+thumb=http://image.tmdb.org/t/p/w500/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg
+date=2018-06-06
+URL=https://openload.co/f/hLUWGM4izuU/The_Circle_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%84%E0%B8%B4%E0%B8%A5.mp4
 
 
 type=video
@@ -7807,7 +7906,7 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-06-05
+date=2018-06-06
 URL=
 
 
@@ -7817,6 +7916,23 @@ URL=
 
 
 
+type=video
+name=Hard to Be a God (2013) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFjMNSXkG3TNHbJ5PC56APFS6rT.jpg
+date=2018-06-06
+URL=https://openload.co/f/gTGwcGT_ri4/Hard_to_be_a_God.2013.E.mp4
+
+type=video
+name=Osmosis Jones (2001) [COLOR=FF00FF00]ENG WEB 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NvnoaJflAEcT0zlzbS4hlwrDZX.jpg
+date=2018-06-06
+URL=https://openload.co/f/2EHr0JFatT0/Osmosis_Jones_2001_720p_WEB-DL_x264_AAC-KiNGDOM.mp4
+
+type=video
+name=Dahmer (2002) [COLOR=FF00FF00]ENG DVD[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/puwSViyVgtB5is1BEITb6mO6ROp.jpg
+date=2018-06-06
+URL=https://openload.co/f/tUNVRs34lw8/Dahmer._2002_.DVDRip.DivX_XPD.E.mp4
 
 type=video
 name=¡Three Amigos! (1986) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -8833,15 +8949,6 @@ player=default
 rating=-1.00
 description=A true-life drama, centering on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s./description
 
-# 2773803
-type=video
-name=The Circle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=http://image.tmdb.org/t/p/w500/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg
-date=2017-07-20
-URL=https://openload.co/f/JapDzi8flN8/The.Circle.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-player=default
-rating=-1.00
-description=A young tech worker takes a job at a powerful Internet corporation, quickly rises up the company's ranks, and soon finds herself in a perilous situation concerning privacy, surveillance and freedom. She comes to learn that her decisions and actions will determine the future of humanity./description
 
 
 

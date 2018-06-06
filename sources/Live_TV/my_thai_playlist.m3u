@@ -25,8 +25,6 @@ http://live.nationtv.tv/hls/ntv_th_hd.m3u8
 http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 
-#EXTINF:-1 group-title="news" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_TNN.png",TNN24_3bb
-http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.stream/chunklist_w127911716.m3u8?username=EkgXOqgOOb6GIwU34SLAzrNzL5QLXdZp&password=SqKbLDcrawXdFi9o3hAbviBuPxOCTkjz
 
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24_violin21
 http://symc-cdn02.bkk01.violin.co.th:1935/liveedge/308360140120_300/chunklist_w1618664550.m3u8
@@ -184,12 +182,12 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
 
 #EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_3_SD.png",CHANNEL 3_HD
-http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza53_ch3hd_live1.stream/chunklist_w1370701278.m3u8?username=GmuhlcBLXko0KUWzRyb4mDrryu5SxTS8&password=Qdv9qj0yojJ0GYeaEvEe09XjTUSS8YiF
+https://p0.adintrend.com/live/ch3/i/ch3i.m3u8?sid=fjeMjRiZjdiMjVhYzQ1ODlkZjFlODdhZmQ4ODAwNzNiN2M
 
 
 
 #EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_5.jpg",CHANNEL 5
-http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza53_tv5hd_live1.stream/chunklist_w3286122.m3u8?username=py9YivmfRfkhr4b0DJ1jdlH0udAJQvg6&password=ha3E0MKVyTiu4T57UTI6DiYV6U63tnzy
+https://p0.adintrend.com/live/ch5/i/ch5i.m3u8?sid=fjeODZjYTUwMTIwM2M5YjBmY2YzZjllZjRkNzEwZTdmNzk
 
 
 
@@ -213,7 +211,7 @@ http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcast73_nbt_live1.stream/ch
 
 
 #EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_3_SD.png",CH 3 family
-http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_3family_live1.stream/chunklist_w269689018.m3u8?username=9EpePB8BxiPZ2YzqpgocWXYtD0pu4EBU&password=wLdeBTOav0vP86aot0gYf1BPd6v5OqFa
+https://p0.adintrend.com/live/ch40/i/ch40i.m3u8?sid=fjeYTQ0ZGI1NTI2YWM3Y2JkNTBjNzAyNjZmNmU5ZDY2N2I
 
 
 
