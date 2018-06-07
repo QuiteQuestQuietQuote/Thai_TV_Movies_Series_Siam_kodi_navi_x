@@ -182,30 +182,30 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
 
 #EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_3_SD.png",CHANNEL 3_HD
-https://p0.adintrend.com/live/ch3/i/ch3i.m3u8?sid=fjeMjRiZjdiMjVhYzQ1ODlkZjFlODdhZmQ4ODAwNzNiN2M
+http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 
 
-#EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_5.jpg",CHANNEL 5
-https://p0.adintrend.com/live/ch5/i/ch5i.m3u8?sid=fjeODZjYTUwMTIwM2M5YjBmY2YzZjllZjRkNzEwZTdmNzk
-
-
-
-
-#EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_7HD.png",CHANNEL 7
-http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza53_ch7hd_live1.stream/playlist.m3u8?username=DgO0Egv1DhMjTkIzVeZ179ZvNmGHg9IH&password=A32VfCvFPN1kthvrHCqcU4R8Ely20mLx
+#EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_5.jpg",CHANNEL 5_ch5hd
+http://61.91.12.34:1935/live/smil:tv5adaptive.smil/chunklist_w969424773_b1024000.m3u8
 
 
 
 
-#EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_New_tv.png",NEW TV 18
-http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza64_newstv_live1.stream/chunklist_w1785708674.m3u8?username=1KXgxF6yIEXFjJXlRgca2GnkI3prGbvE&password=mVgTP8bkzQuM29Iv5QpkHYED9wwlGCRQ
+#EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_7HD.png",CHANNEL 7_ch7
+https://bbtvalive-a.bugaboo.tv/liveedgech7/_definst_/smil:auto.smil/chunklist_b2200000_sleng.m3u8
+#EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_7HD.png",CHANNEL 7_ch7
+https://bcovlive-a.akamaihd.net/ce0beb5d016c4323b3d69b9afff51936/ap-southeast-1/5282994675001/profile_1/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_New_tv.png",NEW TV 18_new
+http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 
 
 
 
-#EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_nbt.jpg",NBT TV
-http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcast73_nbt_live1.stream/chunklist_w743777620.m3u8?username=S80tfoJIHWGbnFIeHmhOha2cyBX2EgKm&password=u9Y1G15Zy0tYtHPtYMXxTRcmjAR1cxlv
+#EXTINF:-1 group-title="3BB" tvg-logo="http://cloudtv.3bb.co.th/tvonline//assets/images/channel/pic_icon_nbt.jpg",NBT TV_nbt
+http://202.122.40.219/livestream/nbt/chunklist_w258172922.m3u8
 
 
 
@@ -216,8 +216,8 @@ https://p0.adintrend.com/live/ch40/i/ch40i.m3u8?sid=fjeYTQ0ZGI1NTI2YWM3Y2JkNTBjN
 
 
 
-#EXTINF:-1,MCOT family
-http://lb-media.mcot.net:1935/mcotfamily_edge/smil:mcotfamily.smil/playlist.m3u8
+#EXTINF:-1,MCOT family_mcot
+http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w969608825_b2000000.m3u8
 
 
 
@@ -228,19 +228,22 @@ http://symc-cdn04.bkk01.violin.co.th:1935/liveedge/308235425316_600/chunklist_w5
 
 
 
-#EXTINF:-1,GMM 25
-http://202.43.34.234:1935/GMM/s1/playlist.m3u8
+#EXTINF:-1,GMM 25_gmm
+http://gmmservice.radical-enlighten.com/gmm/smil:gmm25.smil/chunklist_w375268354_b1628000.m3u8
 
 
 
 
-#EXTINF:-1,now 26
-http://symc-cdn02.bkk02.violin.co.th:1935/liveedge/315320886094_600/playlist.m3u8
+
+#EXTINF:-1,now 26_now1080
+http://nationstream.nationgroup.com/hls/th_high.m3u8
 
 
 
 
-#EXTINF:-1,CH 8
+#EXTINF:-1,CH 8_ch8
+http://111.223.51.4/desktop/ch8_720p/chunklist_w802807985.m3u8
+#EXTINF:-1,CH 8_rs
 http://stream.rs.co.th/ch8-hi/index.m3u8
 
 
@@ -252,19 +255,20 @@ http://103.77.116.191:443/tvdigital/3_sd_480p.stream/playlist.m3u8?
 
 
 
-#EXTINF:-1,MONO 29
-http://edge3-bkk.3bb.co.th:1935/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8
+#EXTINF:-1,MONO 29_mono1080
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1151192974.m3u8
 
 
 
 
-#EXTINF:-1,MCOT HD
-http://lb-media.mcot.net:1935/9mcot_edge/smil:9mcot.smil/playlist.m3u8
+#EXTINF:-1,MCOT HD_mcot1080
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w876848280_b5000000.m3u8
 
 
 
 
-#EXTINF:-1,Thairath TV
+
+#EXTINF:-1,Thairath TV_Thairath720
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 
 
@@ -1330,104 +1334,102 @@ http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/30/index
 
 
 #EXTINF:-1,hbo_hd
-https://live-cdn9.movieclub.tv/movie/hbo_hd_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/hbo_hd_720p.stream/playlist.m3u8
 #EXTINF:-1,hbo_hits
-https://live-cdn9.movieclub.tv/movie/hbo_hits_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/hbo_hits_720p.stream/playlist.m3u8
 #EXTINF:-1,hbo_signature
-https://live-cdn9.movieclub.tv/movie/hbo_signature_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/hbo_signature_720p.stream/playlist.m3u8
 #EXTINF:-1,hbo_family
-https://live-cdn9.movieclub.tv/movie/hbo_family_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/hbo_family_720p.stream/playlist.m3u8
 #EXTINF:-1,m_channel
 http://103.77.116.250/boboapp4/pb_55_mchannel/playlist.m3u8
 #EXTINF:-1,red_by_hbo
-https://live-cdn9.movieclub.tv/movie/red_by_hbo_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/red_by_hbo_720p.stream/playlist.m3u8
 #EXTINF:-1,warner_tv
-https://live-cdn9.movieclub.tv/movie/warner_tv_720p.stream/playlist.m3u8 
+http://cdn4-live.googlestreamming.com:443/movie/warner_tv_720p.stream/playlist.m3u8 
 #EXTINF:-1,cinemax
-https://live-cdn9.movieclub.tv/movie/cinemax_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/cinemax_720p.stream/playlist.m3u8
 #EXTINF:-1,doonee
-https://live-cdn9.movieclub.tv/movie/ais_doonee_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/ais_doonee_720p.stream/playlist.m3u8
 #EXTINF:-1,Doonee HD
 http://146.88.56.8:1935/liveedge/292277212865_600/chuklist.m3u8
 #EXTINF:-1,starworld
-https://live-cdn9.movieclub.tv/movie/starworld_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/starworld_720p.stream/playlist.m3u8
 #EXTINF:-1,true_thai_film
-https://live-cdn9.movieclub.tv/movie/true_thai_film_480p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/true_thai_film_480p.stream/playlist.m3u8
 #EXTINF:-1,true_asian_series
-https://live-cdn9.movieclub.tv/movie/true_asian_series_480p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/true_asian_series_480p.stream/playlist.m3u8
 #EXTINF:-1,true_series
-https://live-cdn9.movieclub.tv/movie/true_series_480p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/true_series_480p.stream/playlist.m3u8
 #EXTINF:-1,true_movie_hits
-https://live-cdn9.movieclub.tv/movie/true_movie_hits_480p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/true_movie_hits_480p.stream/playlist.m3u8
 #EXTINF:-1,true_film_asia
 http://cdn4-live.googlestreamming.com:443/movie/true_film_asia_480p.stream/playlist.m3u8
 #EXTINF:-1,fox_action_movies
-https://live-cdn9.movieclub.tv/movie/fox_action_movies_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/fox_action_movies_720p.stream/playlist.m3u8
 #EXTINF:-1,fox_movies_premium_hd
-https://live-cdn9.movieclub.tv/movie/fox_movies_premium_hd_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/fox_movies_premium_hd_720p.stream/playlist.m3u8
 #EXTINF:-1,foxfamen
-https://live-cdn9.movieclub.tv/movie/ais_foxfamen_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/ais_foxfamen_720p.stream/playlist.m3u8
 #EXTINF:-1,fox life
 http://cdn4-live.googlestreamming.com:443/movie/starworld_720p.stream/playlist.m3u8
 #EXTINF:-1,fox_crime
 http://103.77.116.233:443/movie/ais_foxcrimeen_720p.stream/playlist.m3u8
 #EXTINF:-1,fx
-https://live-cdn9.movieclub.tv/movie/fx_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/fx_720p.stream/playlist.m3u8
 #EXTINF:-1,fox_thai
-https://live-cdn9.movieclub.tv/movie/fox_thai_480p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/fox_thai_480p.stream/playlist.m3u8
 #EXTINF:-1,thrill
-https://live-cdn9.movieclub.tv/movie/thrill_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/thrill_720p.stream/playlist.m3u8
 #EXTINF:-1,zeenung
-https://live-cdn9.movieclub.tv/movie/ais_zeenung_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/ais_zeenung_720p.stream/playlist.m3u8
 #EXTINF:-1,celestial_classic_movies
-https://live-cdn9.movieclub.tv/movie/celestial_classic_movies_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/movie/celestial_classic_movies_720p.stream/playlist.m3u8
 
 
 
-#EXTINF:-1,Samrujlok
-http://27.254.64.112:1935/thflixCH/Samrujlok.stream/chunklist.m3u8
 #EXTINF:-1,h2
-https://live-cdn9.movieclub.tv/documentary/h2_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/h2_720p.stream/playlist.m3u8
 #EXTINF:-1,history
-https://live-cdn9.movieclub.tv/documentary/history_channel_hd_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/history_channel_hd_720p.stream/playlist.m3u8
 #EXTINF:-1,axn
-https://live-cdn9.movieclub.tv/documentary/axn_hd_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/axn_hd_720p.stream/playlist.m3u8
 #EXTINF:-1,samrojlok hd
-https://live-cdn9.movieclub.tv/documentary/samrojlok_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/samrojlok_720p.stream/playlist.m3u8
 #EXTINF:-1,animal_planet
-https://live-cdn9.movieclub.tv/documentary/animal_planet_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/animal_planet_720p.stream/playlist.m3u8
 #EXTINF:-1,national_geographic_hd
-https://live-cdn9.movieclub.tv/documentary/national_geographic_hd_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/national_geographic_hd_720p.stream/playlist.m3u8
 #EXTINF:-1,national_geographic_wild
-https://live-cdn9.movieclub.tv/documentary/national_geographic_wild_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/national_geographic_wild_720p.stream/playlist.m3u8
 #EXTINF:-1,national_geographic_people
-https://live-cdn9.movieclub.tv/documentary/national_geographic_people_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/national_geographic_people_720p.stream/playlist.m3u8
 #EXTINF:-1,true_explore_wild
-https://live-cdn9.movieclub.tv/documentary/true_explore_wild_480p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/true_explore_wild_480p.stream/playlist.m3u8
 #EXTINF:-1,true_explore_life
-https://live-cdn9.movieclub.tv/documentary/true_explore_life_480p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/true_explore_life_480p.stream/playlist.m3u8
 #EXTINF:-1,true_explore_sci
-https://live-cdn9.movieclub.tv/documentary/true_explore_sci_480p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/true_explore_sci_480p.stream/playlist.m3u8
 #EXTINF:-1,discovery_science
-https://live-cdn9.movieclub.tv/documentary/discovery_science_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/discovery_science_720p.stream/playlist.m3u8
 #EXTINF:-1,discovery_channel
-https://live-cdn9.movieclub.tv/documentary/discovery_channel_480p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/discovery_channel_480p.stream/playlist.m3u8
 #EXTINF:-1,discovery_hd_world
-https://live-cdn9.movieclub.tv/documentary/discovery_hd_world_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8
 #EXTINF:-1,bbc_earth
-https://live-cdn9.movieclub.tv/documentary/bbc_earth_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/bbc_earth_720p.stream/playlist.m3u8
 #EXTINF:-1,fyi
-https://live-cdn9.movieclub.tv/documentary/fyi_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/fyi_720p.stream/playlist.m3u8
 #EXTINF:-1,ci hd
-https://live-cdn9.movieclub.tv/foreign/ci_hd_720p.stream/chunklist.m3u8
+http://cdn4-live.googlestreamming.com:443/foreign/ci_hd_720p.stream/chunklist.m3u8
 #EXTINF:-1,dmax
-https://live-cdn9.movieclub.tv/documentary/dmax_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/dmax_720p.stream/playlist.m3u8
 #EXTINF:-1,jkn_dramax
-https://live-cdn9.movieclub.tv/documentary/jkn_dramax_720p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/jkn_dramax_720p.stream/playlist.m3u8
 #EXTINF:-1,asian_food_channel
-https://live-cdn9.movieclub.tv/documentary/asian_food_channel_480p.stream/playlist.m3u8
+http://cdn4-live.googlestreamming.com:443/documentary/asian_food_channel_480p.stream/playlist.m3u8
 #EXTINF:-1,saradee
-http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_600/chunklist.m3u8
+http://symc-cdn01.bkk02.violin.co.th:1935/liveedge/292277143069_600/chunklist.m3u8
 
 
 
@@ -1509,9 +1511,25 @@ http://live-tx-hdl.huomaotv.cn/flvtx.plu.cn/onlive/e65e81838bdf45ecbff40bc7318bb
 http://94.46.245.190:8000/play/a01u 
 
 
+#EXTINF:-1,movie24
+rtmp://tv01.thaizatv.com/drm/movie1
+#EXTINF:-1,CNBC Europe
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/340/index.m3u8
+#EXTINF:-1,Jasmin.Tv  
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
 
-
-
+#EXTINF:-1,Blue Hustler
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/268/index.m3u8
+#EXTINF:-1,Brazzers TV Europe
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/346/index.m3u8
+#EXTINF:-1,Hustler HD
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/502/index.m3u8
+#EXTINF:-1,Playboy
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/142/index.m3u8
+#EXTINF:-1,PRIVATE TV
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/354/index.m3u8
+#EXTINF:-1,Dorcel TV HD
+http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/854/index.m3u8
 
 #EXTINF:-1,TH_Flix_1
 http://www.playontube.com:1935/sport/thflix1/chunklist.m3u8
@@ -1533,11 +1551,13 @@ http://203.162.235.41:17804
 
 
 
-
+#EXTINF:-1,saradee_rtmp
+rtmp://edge9.psitv.tv:1935/liveedge
+#EXTINF:-1,saradee_12
+http://symc-cdn01.bkk02.violin.co.th:1935/liveedge/292277143069_600/chunklist.m3u8
 #EXTINF:-1,saradee_300
 http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_300/chunklist.m3u8
-#EXTINF:-1,saradee_600
-http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_600/chunklist.m3u8
+
 #EXTINF:-1,UK: NAT GEO HD
 http://217.182.173.184:8000/live/micha/micha/2172.m3u8
 #EXTINF:-1,UK: FOOD_NETWORK
@@ -1579,10 +1599,9 @@ http://185.59.221.136:9981/stream/channelid/382198530
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
 http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
 
-#EXTINF:-1,saradee_rtmp
-rtmp://edge9.psitv.tv:1935/liveedge
-#EXTINF:-1,saradee
-http://symc-cdn01.bkk02.violin.co.th:1935/liveedge/292277143069_600/chunklist.m3u8
+
+#EXTINF:-1,saradee_600
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_600/chunklist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI_27
 http://27.254.64.112:1935/thflixCH/Discovery_Science.stream/chunklist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery Asia HD

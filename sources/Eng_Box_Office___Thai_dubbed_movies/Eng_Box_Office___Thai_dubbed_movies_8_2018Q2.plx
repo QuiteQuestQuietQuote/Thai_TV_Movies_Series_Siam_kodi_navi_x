@@ -63,7 +63,7 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-06-01
+date=2018-06-07
 URL=
 
 
@@ -72,7 +72,14 @@ URL=
 
 
 
-
+type=video
+name=Jurassic World: Fallen Kingdom (2018) ENG 720p_HDCAM_HQMic_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
+date=2018-06-07
+URL=https://openload.co/f/jvF2_B5YrtI/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_HQMic_SeeHD.mkv.mp4
+#https://openload.co/f/2V0abkp6pRI/Jurassic_World_Fallen_Kingdom_2018_720p_English_HDCAM_Rip_x264.mp4
+#https://openload.co/f/R5CtFFLA2FY/Jurassic_World_Fallen_Kingdom_%282018%29_720p_English_HDCAM_x264_AAC_by_Full4movies.mkv.mp4
+#https://openload.co/f/DNwKj3Hb9vg/Jurassic_World_Fallen_Kingdom_%282018%29_720p_English_HDCAM_-x264_AAC_-_2.2GB.mkv.mp4
 
 type=video
 name=Mary Shelley (2018) ENG 720p.WEB-DL.DD5.1.H264-CMRG_SeeHD
@@ -1339,10 +1346,55 @@ URL=
 
 
 type=video
+name=The Merciless (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMNGy8kfySmmNDHw3X4puqPIbx8.jpg
+date=2018-06-07
+URL=https://www.blazefile.co/embed-yj5xytml65ys.html
+#https://uptobox.com/3qcq3ernuf8z
+#https://openload.co/embed/f80wmj1j0h4/The.Merciless.2017.BluRay.1080p.5.1CH.x264.Ganool.im.mkv
+#https://www.blazefile.co/embed-gz5ino396x8r.html   720
+#https://uptobox.com/p91vt5st1wru   720
+#https://openload.co/embed/Rzcmlsit0B4/The.Merciless.2017.BluRay.720p.900MB.Ganool.im.mkv
+#https://openload.co/f/49GqBwq-zB0/The.Merciless.2017.KOREAN.720p.BluRay.x264.DTS-HDC.mkv.mp4
+
+type=video
+name=Paul, Apostle of Christ (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDzLXgngB5DbiSmYSww5Rbg8kRA.jpg
+date=2018-06-07
+URL=https://openload.co/f/xQC6xIImISM/Paul.Apostle.of.Christ.2018.MULTi.1080p.BluRay.x264-VENUE.mkv.mp4
+#https://openload.co/f/TL3747ew91U/Paul.Apostle.of.Christ.2018.720p.BluRay.x264-DRONES.mkv.mp4
+#https://www.blazefile.co/embed-yudnlgj4a4rr.html
+#https://uptobox.com/nkjdk6x4ifjw
+#https://openload.co/embed/rg46R4rm2bQ/PAULAPOSTLECHRISTBD72.Ganool.im.mkv.mp4
+#https://openload.co/f/tJ_KMKIyM9A/Paul.Apostle.of.Christ.2018.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/k1hPUy1rzQA/Paul.Apostle.of.Christ.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Child Eater (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/76FLOdNkHtEkvfkYhbWP1VLviQp.jpg
+date=2018-06-07
+URL=https://openload.co/f/1JiXT-39aBA/Child.Eater.2016.1080p.BR_SeeHD.mp4
+#https://www.blazefile.co/embed-vkbqbbomkqrw.html   720
+#https://uptobox.com/878feka3hbyl   720
+#https://openload.co/embed/yRrmD1cP8b4/CHILDEATERBD72.Ganool.im.mkv.mp4
+#https://openload.co/f/XEr9vTlk0Xo/Child.Eater.2016.720p.BluRay.x264-GUACAMOLE.mkv.mp4
+
+type=video
+name=How to Talk to Girls at Parties (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O3C5ubC7dd1im89ISb6aGUR2AA.jpg
+date=2018-06-07
+URL=https://openload.co/f/o0oNbL7Eswk/How.to.Talk.to.Girls.at.Parties.2017.1080p.BR_SeeHD.mp4
+#https://www.blazefile.co/embed-qwwq7jgoy13n.html   720
+#https://uptobox.com/w4fk8f58zljp   720
+#https://openload.co/embed/qlIC0JCYSLY/SHQHOWTOTALKEGIRLSATPARTIESBD72.Ganool.im.mkv.mp4
+#https://openload.co/f/6y69djPHF1c/How.to.Talk.to.Girls.at.Parties.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
+
+type=video
 name=The Layover (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kb9osnqanXRpkpm1bnSqAhKoq5T.jpg
 date=2018-06-06
 URL=https://openload.co/f/nBNsZsti7w0/The.Layover.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/z1ZCVqsEl-o/the.layover.2017.1080p.bluray.x264-veto.mkv.mp4
 #https://openload.co/f/_bCmA0g9Xu8/the.layover.2017.dvdrip.x264.fragment.mkv.mp4
 
 type=video
@@ -1604,9 +1656,14 @@ URL=https://openload.co/f/yCdQOAzn6IE/Havenhurst.2016.1080p.BluRay.x264-GUACAMOL
 type=video
 name=Swinging Safari (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zs9wcNHidBPhcTmiWzXuFam823v.jpg
-date=2018-05-20
-URL=https://openload.co/f/sTDtqepM4F8/Swinging.Safari.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-06-07
+URL=https://openload.co/f/blSWa-w8_mM/Swinging.Safari.2017.1080p.BluRay.x264-PFa.mkv.mp4
+#https://openload.co/f/sTDtqepM4F8/Swinging.Safari.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/blSWa-w8_mM/Swinging.Safari.2017.1080p.BluRay.x264-PFa.mkv.mp4
 #https://openload.co/f/0aiwHLSwA7s/Swinging.Safari.2017.720p.BluRay.x264-PFa.mkv.mp4
+#https://www.blazefile.co/embed-6c3im5mul3cy.html   720
+#https://uptobox.com/e9zes1225naz   720
+#https://openload.co/embed/ltd_Y_mV5lw/SWINGGINGSAFARIBD72.Ganool.im.mkv.mp4
 
 type=video
 name=Misconduct (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1959,6 +2016,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvUX96OVgTsfgXF3xKgDdDQbGa
 date=2018-04-21
 URL=https://www.blazefile.co/embed-p7xl3vc04a6j.html
 #https://uptobox.com/4ib34gskhijy
+#https://openload.co/f/U1g5EQJlCa0/Backstabbing.for.Beginners.2018.1080p.Br_SeeHD.mp4
 #https://openload.co/f/G3OtZIXvfPs/Backstabbing.for.Beginners.2018.1080p.Br_SeeHD.mp4
 #https://openload.co/f/Gt0kEs20w6M/Backstabbing.For.Beginners.2018.720p.BluRay.x264-CONDITION.mkv.mp4
 #https://openload.co/f/2W9d5Z4h9Mc/Backstabbing.for.Beginners.2018.720p.BluRay.H264.AAC-RARBG.mp4
@@ -4852,14 +4910,7 @@ date=2018-06-03
 URL=https://openload.co/f/XyRXjDIGbFY/The.Lodgers.2017.720p.BR_SeeHD.mp4
 #https://openload.co/f/eWQIr3XNM5w/The_Lodgers_2017_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
 
-type=video
-name=How to Talk to Girls at Parties (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O3C5ubC7dd1im89ISb6aGUR2AA.jpg
-date=2018-06-04
-URL=https://www.blazefile.co/embed-qwwq7jgoy13n.html
-#https://uptobox.com/w4fk8f58zljp
-#https://openload.co/embed/qlIC0JCYSLY/SHQHOWTOTALKEGIRLSATPARTIESBD72.Ganool.im.mkv.mp4
-#https://openload.co/f/6y69djPHF1c/How.to.Talk.to.Girls.at.Parties.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
+
 
 type=video
 name=Attack Of The Southern Fried Zombies (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -4869,33 +4920,11 @@ URL=https://www.blazefile.co/embed-oq2o2ozjaeo8.html
 #https://uptobox.com/d99yq7w92rbc
 #https://openload.co/embed/VMBICZoGSJ4/ATTACKSOUHERNZOMBIESBD72.Ganool.im.rar
 
-type=video
-name=The Merciless (2017) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMNGy8kfySmmNDHw3X4puqPIbx8.jpg
-date=2018-06-06
-URL=https://www.blazefile.co/embed-gz5ino396x8r.html
-#https://uptobox.com/p91vt5st1wru
-#https://openload.co/embed/Rzcmlsit0B4/The.Merciless.2017.BluRay.720p.900MB.Ganool.im.mkv
-#https://openload.co/f/49GqBwq-zB0/The.Merciless.2017.KOREAN.720p.BluRay.x264.DTS-HDC.mkv.mp4
 
-type=video
-name=Paul, Apostle of Christ (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDzLXgngB5DbiSmYSww5Rbg8kRA.jpg
-date=2018-06-06
-URL=https://www.blazefile.co/embed-yudnlgj4a4rr.html
-#https://uptobox.com/nkjdk6x4ifjw
-#https://openload.co/embed/rg46R4rm2bQ/PAULAPOSTLECHRISTBD72.Ganool.im.mkv.mp4
-#https://openload.co/f/tJ_KMKIyM9A/Paul.Apostle.of.Christ.2018.720p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/k1hPUy1rzQA/Paul.Apostle.of.Christ.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Child Eater (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/76FLOdNkHtEkvfkYhbWP1VLviQp.jpg
-date=2018-06-06
-URL=https://www.blazefile.co/embed-vkbqbbomkqrw.html
-#https://uptobox.com/878feka3hbyl
-#https://openload.co/embed/yRrmD1cP8b4/CHILDEATERBD72.Ganool.im.mkv.mp4
-#https://openload.co/f/XEr9vTlk0Xo/Child.Eater.2016.720p.BluRay.x264-GUACAMOLE.mkv.mp4
+
+
+
 
 type=video
 name=Unsane (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -4908,7 +4937,11 @@ URL=https://www.blazefile.co/embed-s7fp5j17mik3.html
 #https://openload.co/f/rL1VW7OyBWo/Unsane.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/Lxgasaj43wE/Unsane_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
 
-
+type=video
+name=Incoming (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gb21lRTWA6uo1IdIIYotPCHHUP9.jpg
+date=2018-06-07
+URL=https://openload.co/f/iHbGqwCkfEY/incoming.2018.720p.bluray.x264-rusted.mkv.mp4
 
 
 
@@ -4918,7 +4951,7 @@ URL=https://www.blazefile.co/embed-s7fp5j17mik3.html
 type=video
 name=
 thumb=
-date=2018-06-06
+date=2018-06-07
 URL=http://203.162.235.41:17819
 
 
@@ -4992,10 +5025,11 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
-name=Solo: A Star Wars Story (2018) ENG NEW_720p_HD-TS_V.2
+name=Solo: A Star Wars Story (2018) ENG NEW_720p_HD-TS_V.2_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IGbjc5ZC5yxim5W0sFING2kdcz.jpg
-date=2018-06-02
-URL=https://openload.co/f/eIEskJge87c/Solo%3A_A_Star_Wars_Story_2018_NEW_720p_HD-TS_V.2.mp4
+date=2018-06-07
+URL=https://openload.co/f/0aE4MV2euUk/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_V.2_SeeHD.mkv.mp4
+#https://openload.co/f/eIEskJge87c/Solo%3A_A_Star_Wars_Story_2018_NEW_720p_HD-TS_V.2.mp4
 #https://openload.co/f/GdC4hcTBhBg/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_V.2_SeeHD.mkv   MKV
 #https://openload.co/f/hHuxcYvQKRg/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/KbdK1ENYGkU/Solo.A_Star_Wars_Story.2018.720p.HDCAM.Eng.1XBET_SeeHD.mp4
@@ -5178,28 +5212,7 @@ date=2018-06-06
 URL=https://streamango.com/f/kaakpmqotkaqrpmq/Revenge_2018_
 
 
-type=video
-name=Love, Simon (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg
-date=2018-06-06
-URL=https://www.blazefile.co/embed-i0wewr9eu78z.html
-#https://uptobox.com/ktrinlptj69g
-#https://openload.co/embed/PPQPTE5bVhc/GHPLOVESIMON80.Ganool.im.mkv.mp4
-#https://openload.co/f/qfgy-puPm1M/Love.Simon.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/aHlAhxvNCBc/Love.Simon.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/ffoLtKsVYa4/Love.Simon.2018.720p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/PqSW99kpL_0/Love.Simon.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/SqhG5I5xJ3g/Love%2C_Simon_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
-#https://openload.co/f/g46sjjNuT3g/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi_SeeHD.mkv.mp4
-#https://openload.co/f/e5MNXzl3aog/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi.mkv.mp4
-#https://www.blazefile.co/embed-yllks9j7sfxt.html   720
-#https://uptobox.com/1hi53aojbult   720
-#https://openload.co/embed/OKuf2qTr0kI/SHQL0VESIMONBD72.Ganool.im.mkv
-type=video
-name=Love, Simon (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg
-date=2018-06-01
-URL=https://streamango.com/f/onkmbmbsltotffsr/Love_Simon_2018_
+
 
 
 type=video
@@ -6599,6 +6612,7 @@ date=2018-06-05
 URL=https://www.blazefile.co/embed-bt520jc04uxu.html
 #https://uptobox.com/9tsu6l0wvm69
 #https://openload.co/embed/NWqqEFot1HA/GHPSHERLOCKGNOMES80.Ganool.im.mkv.mp4
+#https://openload.co/f/Vp9HyCajmNY/Sherlock.Gnomes.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/kuDAEMb68Pc/Sherlock.Gnomes.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/4QrbiBIPo84/Sherlock.Gnomes.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://openload.co/f/RdAhbx9rRvA/Sherlock.Gnomes.2018.HDCAM.XviD-VAiN.avi.mp4
@@ -6768,40 +6782,26 @@ date=2018-04-22
 URL=https://streamango.com/f/nrpbpscqtnlldsfn/A_Better_Tomorrow_2018_
 
 
-type=video
-name=Peter Rabbit (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
-date=2018-04-19
-URL=https://www.blazefile.co/embed-7cctned36gk1.html
-#https://uptobox.com/ghwhz8nkdfu4
-#https://openload.co/f/AcKE3s2gg2s/Peter.Rabbit.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/nerdCj-t0KA/Peter.Rabbit.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/DIWDzbD-k9I/peter.rabbit.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/PfHPzLCpqwM/peter.rabbit.2018.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/-cCgN1iWs0E/peter.rabbit.2018.720p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/mvM9KJ7lQ_k/Peter_Rabbit_2018._NEW_HDCAM_SeeHD.avi.mp4
-#https://openload.co/f/OuW2gUHhTAU/Peter.Rabbit.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/OztM_HaRQX4/Peter.Rabbit.2018.HDCAM.x264-DiRG.mp4
-#https://openload.co/f/dTapIIDbV60/Peter_Rabbit_%282018%29_RUS.Cam.mp4
-type=video
-name=Peter Rabbit (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
-date=2018-04-21
-URL=https://streamango.com/f/nnmdsqqllmcskfol/Peter_Rabbit_2018_
-#https://streamango.com/f/dkserplddbclskqo/Peter_Rabbit_2018_Full_-_HD_
+
 
 
 type=video
-name=Pacific Rim: Uprising (2018) ENG 1080.HD_SeeHD
+name=Pacific Rim: Uprising (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
-date=2018-05-17
-URL=https://openload.co/f/KO_tepiSpW8/Pacific.Rim.2.Uprising.2018.1080.HD_SeeHD.mkv.mp4
+date=2018-06-07
+URL=https://openload.co/f/UVMUKaAJu5A/Pacific.Rim.Uprising.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/73cqXjq5XPk/Pacific.Rim.Uprising.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/0aGe4JXn4SE/pacific.rim.uprising.2018.720p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/KO_tepiSpW8/Pacific.Rim.2.Uprising.2018.1080.HD_SeeHD.mkv.mp4
 #https://openload.co/f/k7FQwIj8_-g/Pacific.Rim.2.Uprising.2018.1080p.WEB-DL.H264.AC3-EVO.HDMovie8.mp4
 #https://openload.co/f/ULC-jPIyFbc/Pacific_Rim_Uprising.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/EFgnOgvwcgA/Pacific.Rim.2.Uprising.2018.720p.HC.HDRiP.AC3.x264-LEGi0N.mkv   MKV3.2GB
 #https://openload.co/f/G_bzG6nas54/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/At_l9Qy_hUw/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG.mp4
 #https://openload.co/f/Ugx9be0SomQ/Pacific_Rim__Uprising_2018_HC_HDCAM_-_AKOAM_SeeHD.avi.mp4
+#https://www.blazefile.co/embed-j20ntn2aefv9.html   720
+#https://uptobox.com/6jgjrbdqshpl   720
+#https://openload.co/embed/i0TKOV3j6vA/SHQPACIFIM2BD72.Ganool.im.mkv
 type=video
 name=Pacific Rim: Uprising (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
@@ -6837,6 +6837,9 @@ date=2018-06-06
 URL=https://openload.co/f/-B6tEZLwh34/Monster.Hunt.2.2018.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
 #https://openload.co/f/xiI37NMVGYQ/Monster.Hunt.2.2018.HC.HDRip.AC3.X264-CMRG.mkv.mp4
 #https://openload.co/f/6oGjRk_3toQ/Monster_Hunt_2_%282018%29_Cam.mp4
+#https://www.blazefile.co/embed-06swu4uc3nw1.html   720
+#https://uptobox.com/dm0683r0qnox   720
+#https://openload.co/embed/POkOm_UpeKE/Monster.Hunt.2.2018.BluRay.720p.900MB.Ganool.im.mkv.mp4
 type=video
 name=Monster Hunt 2 (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
@@ -7266,12 +7269,99 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-06
+date=2018-06-07
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
 
+
+
+
+type=video
+name=Peter Rabbit (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
+date=2018-04-19
+URL=https://www.blazefile.co/embed-7cctned36gk1.html
+#https://uptobox.com/ghwhz8nkdfu4
+#https://openload.co/f/AcKE3s2gg2s/Peter.Rabbit.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/nerdCj-t0KA/Peter.Rabbit.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/DIWDzbD-k9I/peter.rabbit.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/PfHPzLCpqwM/peter.rabbit.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/-cCgN1iWs0E/peter.rabbit.2018.720p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/mvM9KJ7lQ_k/Peter_Rabbit_2018._NEW_HDCAM_SeeHD.avi.mp4
+#https://openload.co/f/OuW2gUHhTAU/Peter.Rabbit.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/OztM_HaRQX4/Peter.Rabbit.2018.HDCAM.x264-DiRG.mp4
+#https://openload.co/f/dTapIIDbV60/Peter_Rabbit_%282018%29_RUS.Cam.mp4
+type=video
+name=Peter Rabbit (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
+date=2018-06-07
+URL=https://openload.co/f/PacW833dEGs/Peter_Rabbit_%282018%29%E0%B8%9B%E0%B8%B5%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%81%E0%B8%A3%E0%B8%9A%E0%B8%9A%E0%B8%B4%E0%B8%97.mp4
+#https://streamango.com/f/nnmdsqqllmcskfol/Peter_Rabbit_2018_
+#https://streamango.com/f/dkserplddbclskqo/Peter_Rabbit_2018_Full_-_HD_
+
+
+type=video
+name=The Last Recipe (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSQFNXDTuDHsjioDQUZ86CDlVO6.jpg
+date=2018-06-07
+URL=https://openload.co/f/dkzI5A9YecY/The_Last_Recipe_%282017%29%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%9F.mp4
+
+type=video
+name=My Teacher (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqpRNStGdG4t3EfKX0IWwbzjqz9.jpg
+date=2018-06-07
+URL=https://openload.co/f/-FyfewPvl6w/My_Teacher_%282017%29%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%89%E0%B8%B1%E0%B8%99_%E0%B9%81%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B9%8C.mp4
+
+type=video
+name=Asura Girl -Blood-C Side Story (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghTLE31mGmzwQ7npUmMc6wk3rjT.jpg
+date=2018-06-07
+URL=https://openload.co/f/OiOmvXpPmds/Asura_Girl_-Blood-C_Side_Story_%282017%29%E0%B8%AD%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B0_%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%A5.mp4
+
+type=video
+name=The Exclusive: Beat the Devil's Tattoo (2015) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWOwoepLGsZE5Vsxlb9sFhM8xbV.jpg
+date=2018-06-07
+URL=https://openload.co/f/Yi4iTDj8pXY/The_Exclusive%3A_Beat_the_Devil%27s_Tattoo_%282015%29%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88.mp4
+
+type=video
+name=Escobar: Paradise Lost (2014) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HngNLzCmUYCPB8FbxSZWN0eDKM.jpg
+date=2018-06-07
+URL=https://openload.co/f/YA7bY9ztE_4/Escobar%3A_Paradise_Lost_%282014%29%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B8%99%E0%B8%A3%E0%B8%81..%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99.mp4
+
+type=video
+name=Pressure (2015) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNEai0Rp50kIaq8pqqkgKxM2j5p.jpg
+date=2018-06-07
+URL=https://openload.co/f/jsBaylrhj-k/Pressure_%282015%29%E0%B8%94%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+
+
+type=video
+name=Love, Simon (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg
+date=2018-06-06
+URL=https://www.blazefile.co/embed-i0wewr9eu78z.html
+#https://uptobox.com/ktrinlptj69g
+#https://openload.co/embed/PPQPTE5bVhc/GHPLOVESIMON80.Ganool.im.mkv.mp4
+#https://openload.co/f/qfgy-puPm1M/Love.Simon.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/aHlAhxvNCBc/Love.Simon.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/ffoLtKsVYa4/Love.Simon.2018.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/PqSW99kpL_0/Love.Simon.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/SqhG5I5xJ3g/Love%2C_Simon_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
+#https://openload.co/f/g46sjjNuT3g/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi_SeeHD.mkv.mp4
+#https://openload.co/f/e5MNXzl3aog/Love%2C_Simon_%282018%29_HDCAM-X264-MP3-Bobi.mkv.mp4
+#https://www.blazefile.co/embed-yllks9j7sfxt.html   720
+#https://uptobox.com/1hi53aojbult   720
+#https://openload.co/embed/OKuf2qTr0kI/SHQL0VESIMONBD72.Ganool.im.mkv
+type=video
+name=Love, Simon (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg
+date=2018-06-07
+URL=https://openload.co/f/KIGWeEfxa6M/Love%2C_Simon_%282018%29%E0%B8%AD%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%2C_%E0%B9%84%E0%B8%8B%E0%B8%A1%E0%B8%AD%E0%B8%99.mp4
+#https://streamango.com/f/onkmbmbsltotffsr/Love_Simon_2018_
 
 
 type=video
@@ -8113,14 +8203,16 @@ URL=https://openload.co/f/uxpuq4UktJ8/Star.Wars.The.Last.Jedi.2017.1080p.BluRay.
 type=video
 name=Rogue One: A Star Wars Story (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjiskwlV1qQzRCjpV0cL9pEMF9a.jpg
-date=2018-05-25
-URL=https://streamango.com/f/aneettkeemosppba/Rogue_One_A_Star_Wars_Story_2016_1080p_BluRay_6CH_ShAaNiG_mp4
+date=2018-06-07
+URL=https://openload.co/f/W39-GHgohh4/Rogue.One.2016.1080p.BR_SeeHD.mp4
+#https://streamango.com/f/aneettkeemosppba/Rogue_One_A_Star_Wars_Story_2016_1080p_BluRay_6CH_ShAaNiG_mp4
 
 type=video
 name=Star Wars: The Force Awakens (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/weUSwMdQIa3NaXVzwUoIIcAi85d.jpg
 date=2018-05-25
 URL=https://openload.co/f/4CBVUoYbNJI/Star.Wars.Episode.VII.The.Force.Awakens.2015_mux.mp4
+#https://openload.co/f/SCeuObT8B40/Star.Wars.Episode.The.Force.Awakens.2015.1080p.BR_SeeHD.mp4
 
 type=video
 name=The Scorpion King: Rise of a Warrior (2008) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
