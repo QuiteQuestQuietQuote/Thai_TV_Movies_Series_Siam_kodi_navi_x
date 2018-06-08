@@ -63,7 +63,7 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-06-07
+date=2018-06-08
 URL=
 
 
@@ -71,12 +71,19 @@ URL=
 
 
 
+type=video
+name=Ocean's 8 (2018) ENG CAM.X264-IPT_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7caaqQjTkovwoZsEOPzgHvkzOWB.jpg
+date=2018-06-08
+URL=https://openload.co/f/egvFlNBBxlw/Oceans.8.2018.CAM.X264-IPT_SeeHD.mkv.mp4
+#https://openload.co/f/HNqXzm647eA/Oceans_8_2018_CAM_X264-CaixistaEstupido.mkv.mp4
 
 type=video
-name=Jurassic World: Fallen Kingdom (2018) ENG 720p_HDCAM_HQMic_SeeHD
+name=Jurassic World: Fallen Kingdom (2018) ENG 720p_HDCAM_V.2_X264-24HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
-date=2018-06-07
-URL=https://openload.co/f/jvF2_B5YrtI/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_HQMic_SeeHD.mkv.mp4
+date=2018-06-08
+URL=https://openload.co/f/qDjH228-Kpw/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_V.2_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/jvF2_B5YrtI/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_HQMic_SeeHD.mkv.mp4
 #https://openload.co/f/2V0abkp6pRI/Jurassic_World_Fallen_Kingdom_2018_720p_English_HDCAM_Rip_x264.mp4
 #https://openload.co/f/R5CtFFLA2FY/Jurassic_World_Fallen_Kingdom_%282018%29_720p_English_HDCAM_x264_AAC_by_Full4movies.mkv.mp4
 #https://openload.co/f/DNwKj3Hb9vg/Jurassic_World_Fallen_Kingdom_%282018%29_720p_English_HDCAM_-x264_AAC_-_2.2GB.mkv.mp4
@@ -1338,12 +1345,20 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-06
+date=2018-06-08
 URL=
 
 
 
 
+
+
+type=video
+name=Corbin Nash (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2B5LnI7tytfKk7SnHCyFTVkBFWy.jpg
+date=2018-06-08
+URL=https://openload.co/f/9RuRTNfRwWw/Corbin.Nash.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/18NLxADlWmM/corbin.nash.2018.720p.bluray.x264-latency.mkv.mp4
 
 type=video
 name=The Merciless (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
@@ -5042,10 +5057,11 @@ URL=https://streamango.com/f/pkrtqtckdekrmeno/Solo_A_Star_Wars_Story_2018_
 
 
 type=video
-name=Deadpool 2 (2018) ENG NEW_720p_HD-TC_X264-CPG_SeeHD
+name=Deadpool 2 (2018) ENG HD-TS.XViD.AC3-ETRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
-date=2018-06-01
-URL=https://openload.co/f/TVGkldXG2ow/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG_SeeHD.mkv.mp4
+date=2018-06-08
+URL=https://openload.co/f/re3bVE8sp-8/Deadpool_2_2018_HD-TS.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/TVGkldXG2ow/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/fQtS6g8eFP0/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG.mkv.mp4
 #https://openload.co/f/NpRKO6OnUQ0/Deadpool_2_2018_720p_New_HDCAM-X264-AC3_Cleaned-Bobi_SeeHD.mkv.mp4
 #https://openload.co/f/D15b5KiAff4/Deadpool.2.2018.720p.HDTS.x264-SpaceMov.mp4
@@ -5097,10 +5113,11 @@ URL=https://streamango.com/f/oambadpfmeebrtfa/Avengers_Infinity_War_2018_
 
 
 type=video
-name=Rampage (2018) ENG NEW_SOURCE_HDCAM_X264_HQMic-SugarTits_SeeHD
+name=Rampage (2018) ENG NEW_HD-TS_X264-24HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
-date=2018-05-05
-URL=https://openload.co/f/8o7817XOc8Q/Rampage_2018_NEW_SOURCE_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
+date=2018-06-08
+URL=https://openload.co/f/gehks6MqcEk/Rampage_2018_NEW_HD-TS_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/8o7817XOc8Q/Rampage_2018_NEW_SOURCE_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
 #https://openload.co/f/O23sDjSCQ6s/Rampage_2018_720p_NEW_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/Wrft5d0xj6A/Rampage.2018.HDCAM.x264.AC3-TEAM69.mkv.mp4
 #https://openload.co/f/D2aEsbX76bg/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv.mp4
@@ -6788,8 +6805,11 @@ URL=https://streamango.com/f/nrpbpscqtnlldsfn/A_Better_Tomorrow_2018_
 type=video
 name=Pacific Rim: Uprising (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
-date=2018-06-07
-URL=https://openload.co/f/UVMUKaAJu5A/Pacific.Rim.Uprising.2018.1080p.BR_SeeHD.mp4
+date=2018-06-08
+URL=https://www.blazefile.co/embed-mtxxsldalapo.html
+#https://uptobox.com/65cvvhsylosg
+#https://openload.co/embed/j-YzWHJ7yKU/GHPPACIFICUPRISING80.Ganool.im.mkv.mp4
+#https://openload.co/f/UVMUKaAJu5A/Pacific.Rim.Uprising.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/73cqXjq5XPk/Pacific.Rim.Uprising.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/0aGe4JXn4SE/pacific.rim.uprising.2018.720p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/KO_tepiSpW8/Pacific.Rim.2.Uprising.2018.1080.HD_SeeHD.mkv.mp4
@@ -7996,15 +8016,25 @@ URL=https://openload.co/f/WsxqsTe4AO8/Keeping_Up_with_the_Joneses_%282016%29%E0%
 type=video
 name=
 thumb=
-date=2018-06-06
+date=2018-06-08
 URL=
 
 
 
 
+type=video
+name=
+thumb=
+date=2018-06-08
+URL=
 
 
 
+type=video
+name=Zootopia (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM33SANp9z6rXW8Itn7NnG1GOEs.jpg
+date=2018-06-08
+URL=https://openload.co/f/gq_9yIFyR-A/Zootopia.2016.1080p.BluRay.x264.mp4
 
 type=video
 name=Hard to Be a God (2013) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
