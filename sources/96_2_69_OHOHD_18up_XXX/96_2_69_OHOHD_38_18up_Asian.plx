@@ -66,6 +66,67 @@ URL=
 
 
 
+type=video
+name=30xxxxxxxxxxxxxxxxxxxxGood Form Factor 3 (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Good-Form-Factor-3-2018.jpg
+date=2018-06-08
+URL=https://streamcherry.com/embed/dmefmnsoeppeloao/
+
+type=video
+name=Hyangdan I Naleusya Director Edition (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Hyangdan-I-Naleusya-Director-Edition-2018.jpg
+date=2018-06-08
+URL=https://streamcherry.com/embed/nkabqmponlnqansn/
+
+type=video
+name=Gamgeum (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Gamgeum-2017.jpg
+date=2018-06-08
+URL=https://streamcherry.com/embed/cmnooaqamqctbefp/
+
+type=video
+name=Brother Wife 4 Space Princess Chunhyang (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Brother-Wife-4-Space-Princess-Chunhyang-2017.jpg
+date=2018-06-08
+URL=https://streamcherry.com/embed/nslbkpsftlqkqftd/
+
+type=video
+name=Afternoon Busty Este (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Afternoon-Busty-Este-2017.jpg
+date=2018-06-08
+URL=https://streamcherry.com/embed/sbpoatbmmmeckqol/
+
+
+type=video
+name=Couple Exchange Day Covet Young Wife (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Couple-Exchange-Day-Covet-Young-Wife-2017-Uncut.jpg
+date=2018-06-08
+URL=https://streamcherry.com/embed/sdtllcofemdaaadf/
+
+type=video
+name=Jungdog Gwan Eumjeung De (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Jungdog-Gwan-Eumjeung-De-2018.jpg
+date=2018-06-08
+URL=https://streamcherry.com/embed/ttpqfdfbfcpnamsl/
+
+type=video
+name=Yahanjis De (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Yahanjis-De-2018.jpg
+date=2018-06-08
+URL=https://streamcherry.com/embed/qpknadmskmfdnclo/
+
+type=video
+name=Mystery Solving After SEX (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Mystery-Solving-After-SEX-2017.jpg
+date=2018-06-08
+URL=https://streamcherry.com/embed/leknpltmmtapfdmd/
+
+type=video
+name=Eolin Anae (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Eolin-Anae-2018-Uncut.jpg
+date=2018-06-08
+URL=https://streamcherry.com/embed/csalpmnlcsqbksto/
+
 
 
 
