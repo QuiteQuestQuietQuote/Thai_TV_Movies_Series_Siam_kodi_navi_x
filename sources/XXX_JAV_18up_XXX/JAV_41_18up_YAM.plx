@@ -503,7 +503,7 @@ URL=http://s82181.vodstream.xyz/3675/000-hls/appid-10223/hls.m3u8?v=3
 type=video
 name=
 thumb=
-date=2018-05-14
+date=2018-06-08
 URL=
 
 
@@ -514,6 +514,17 @@ URL=
 
 
 
+type=video
+name=CARIB 010115-772 Kaori Maeda
+thumb=http://javdub.com/wp-content/uploads/2016/10/592.jpg
+date=2018-06-08
+URL=http://cdn.vodstream.xyz/q586/3675/041-hls/appid-592/hls.m3u8
+
+type=video
+name=Mird-124 4 Hours Special Tomoda Color Noka Sato Haruka Rare Hibiki Ohtsuki Amber Uta Large Gangbang Stormed To Moodyz Fan Thanksgiving Home
+thumb=http://javdub.com/wp-content/uploads/2017/03/19154.jpg
+date=2018-06-08
+URL=http://cdn.vodstream.xyz/q585/3675/020-hls/appid-19154/hls.m3u8?v=3
 
 type=video
 name=Oneb-005 Nakadashi-48 Barrage Completebest240min

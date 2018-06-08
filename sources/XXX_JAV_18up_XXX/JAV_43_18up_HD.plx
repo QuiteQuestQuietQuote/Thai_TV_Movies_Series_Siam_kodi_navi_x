@@ -33,8 +33,74 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
-date=2018-03-05
+date=2018-06-08
 URL=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=ABP-376 48-hour Endurance Continuous Cock Acme Uehara Mizuho
+thumb=http://javdub.com/wp-content/uploads/2015/10/3189.jpg
+date=2018-06-08
+URL=http://cdn.vodstream.xyz/q581/3675/037-hls/appid-3189/hls.m3u8
+
+type=video
+name=ABP-384 Transformation Pet With Real Estate Winter
+thumb=http://javdub.com/wp-content/uploads/2015/10/3191.jpg
+date=2018-06-08
+URL=http://cdn.vodstream.xyz/q583/3674/044-hls/appid-4663/hls.m3u8
+
+type=video
+name=ABP-385 Kitano Nozomi&#8217;s A Namanaka
+thumb=http://javdub.com/wp-content/uploads/2015/10/3192.jpg
+date=2018-06-08
+URL=http://cdn.vodstream.xyz/q581/3675/037-hls/appid-3192/hls.m3u8
+
+type=video
+name=ABP-387 It Will Taste 100% Miracle Of Natural Girl
+thumb=http://javdub.com/wp-content/uploads/2015/10/3194.jpg
+date=2018-06-08
+URL=http://cdn.vodstream.xyz/q581/3675/037-hls/appid-3194/hls.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 type=video
