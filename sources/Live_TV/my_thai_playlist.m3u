@@ -1486,7 +1486,7 @@ http://122.38.74.172:9981/stream/channelid/1836601049?ticket=487EA11E9B49DD54F9E
 http://185.59.221.136:9981/stream/channelid/650783408
 #EXTINF:-1,BBC TWO HD
 http://185.59.221.136:9981/stream/channelid/382198530
-#EXTINF:-1movie 2
+#EXTINF:-1,movie 2
 http://usa.login.in.th:1935/ch8/ch8/chunklist.m3u8
 
 
