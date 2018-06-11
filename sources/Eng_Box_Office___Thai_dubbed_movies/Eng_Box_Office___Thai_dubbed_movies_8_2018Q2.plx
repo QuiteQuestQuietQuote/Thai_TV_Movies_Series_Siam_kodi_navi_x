@@ -1411,6 +1411,9 @@ date=2018-06-06
 URL=https://openload.co/f/nBNsZsti7w0/The.Layover.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/z1ZCVqsEl-o/the.layover.2017.1080p.bluray.x264-veto.mkv.mp4
 #https://openload.co/f/_bCmA0g9Xu8/the.layover.2017.dvdrip.x264.fragment.mkv.mp4
+#https://www.blazefile.co/embed-m5vz85b0ye3b.html   720
+#https://uptobox.com/ungp292xdx7l   720
+#https://openload.co/embed/Gv6nYY9IY2w/SHQTHEAYOVERBD72.Ganool.im.mkv.mp4
 
 type=video
 name=Midnight Sun (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4955,10 +4958,19 @@ URL=https://www.blazefile.co/embed-s7fp5j17mik3.html
 type=video
 name=Incoming (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gb21lRTWA6uo1IdIIYotPCHHUP9.jpg
-date=2018-06-07
-URL=https://openload.co/f/iHbGqwCkfEY/incoming.2018.720p.bluray.x264-rusted.mkv.mp4
+date=2018-06-11
+URL=https://www.blazefile.co/embed-9tl09mjesidg.html
+#https://uptobox.com/6rvxopg7p5wn
+#https://openload.co/embed/u4_AWPzFHs8/INCOMINGBD72.Ganool.im.mkv.mp4
+#https://openload.co/f/iHbGqwCkfEY/incoming.2018.720p.bluray.x264-rusted.mkv.mp4
 
-
+type=video
+name=The Boss (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8smnnIVlEeFwD4Z0pKPC3RN2xT.jpg
+date=2018-06-11
+URL=https://www.blazefile.co/embed-im416g3gy6u0.html
+#https://uptobox.com/gylb91ydvxzd
+#https://openload.co/embed/SsfsjOA_MfY/THEBOSSUMRATEDBD72.Ganool.im.mkv
 
 
 
@@ -4966,7 +4978,7 @@ URL=https://openload.co/f/iHbGqwCkfEY/incoming.2018.720p.bluray.x264-rusted.mkv.
 type=video
 name=
 thumb=
-date=2018-06-07
+date=2018-06-11
 URL=http://203.162.235.41:17819
 
 
@@ -6678,8 +6690,11 @@ URL=https://streamango.com/f/tcsdqpbtnqrfdqdl/Tomb_Raider_2018_
 type=video
 name=The Strangers: Prey at Night (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo3gu56JKRwZ2TpKt8mPjXLQK23.jpg
-date=2018-06-03
-URL=https://openload.co/f/Ina6EQX7-ZU/The.Strangers.Prey.at.Night.2018.1080p.BR_SeeHD.mp4
+date=2018-06-11
+URL=https://www.blazefile.co/embed-lbugmruurewj.html
+#https://uptobox.com/aqywsd0nuc05
+#https://openload.co/embed/WX7lo0b9w18/GHPTHESTRANGERSPREYATIGHT80.Ganool.im.mkv
+#https://openload.co/f/Ina6EQX7-ZU/The.Strangers.Prey.at.Night.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/BSXMaM9IyQU/The.Strangers.Prey.at.Night.2018.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/JbO-zGeM36A/The_Strangers_Prey_at_Night_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
 #https://openload.co/f/lbVbF_0sJ_4/The_Strangers_Prey_at_Night_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
