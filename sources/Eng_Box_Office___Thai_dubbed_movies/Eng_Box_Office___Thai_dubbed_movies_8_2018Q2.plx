@@ -78,15 +78,8 @@ date=2018-06-08
 URL=https://openload.co/f/egvFlNBBxlw/Oceans.8.2018.CAM.X264-IPT_SeeHD.mkv.mp4
 #https://openload.co/f/HNqXzm647eA/Oceans_8_2018_CAM_X264-CaixistaEstupido.mkv.mp4
 
-type=video
-name=Jurassic World: Fallen Kingdom (2018) ENG 720p_HDCAM_V.2_X264-24HD_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
-date=2018-06-08
-URL=https://openload.co/f/qDjH228-Kpw/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_V.2_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/jvF2_B5YrtI/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_HQMic_SeeHD.mkv.mp4
-#https://openload.co/f/2V0abkp6pRI/Jurassic_World_Fallen_Kingdom_2018_720p_English_HDCAM_Rip_x264.mp4
-#https://openload.co/f/R5CtFFLA2FY/Jurassic_World_Fallen_Kingdom_%282018%29_720p_English_HDCAM_x264_AAC_by_Full4movies.mkv.mp4
-#https://openload.co/f/DNwKj3Hb9vg/Jurassic_World_Fallen_Kingdom_%282018%29_720p_English_HDCAM_-x264_AAC_-_2.2GB.mkv.mp4
+
+
 
 type=video
 name=Mary Shelley (2018) ENG 720p.WEB-DL.DD5.1.H264-CMRG_SeeHD
@@ -1345,13 +1338,51 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-08
+date=2018-06-12
 URL=
 
 
 
 
 
+
+
+
+
+
+type=video
+name=Welcome to Willits (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KvFXyg3T3nQ94y7V14l9tbB6x9.jpg
+date=2018-06-12
+URL=https://openload.co/f/9slReYb7Oe4/Welcome.to.Willits.2016.1080p.BluRay.x264-UNVEiL.mkv.mp4
+#https://www.blazefile.co/embed-c583nfydtxse.html   720
+#https://uptobox.com/zeulwg67f45w   720
+
+type=video
+name=Bodysnatch (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/IGzCSXgIRvr1xsjzCagCSkXfYg.jpg
+date=2018-06-12
+URL=https://openload.co/f/sl3M1Iaagl0/Bodysnatch.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/q4RI18pm7xM/Bodysnatch.2018.1080p.BluRay.x264.DTS-MT.mkv   MKV6.0GB
+
+type=video
+name=The Night Eats the World (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/goVnUQHZopn07lXEJ3PAhOrktYG.jpg
+date=2018-06-12
+URL=https://openload.co/f/c1hIeakr-kI/The.Night.Eats.the.World.2018.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+
+type=video
+name=The Wedding Invitation (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iARCUwpqX5G21VZfxy5eRDBIJTP.jpg
+date=2018-06-12
+URL=https://openload.co/f/mTPgoWsvKJo/The.Wedding.Invitation.2017.1080p.BluRay.x264-SADPANDA.mkv.mp4
+
+type=video
+name=Apocalypse Rising (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2raCqucdXJeXHpGlUgValdldyb9.jpg
+date=2018-06-12
+URL=https://openload.co/f/IxXS_Bs0KfE/Apocalypse.Rising.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/8AN_InO6_co/Apocalypse.Rising.2018.1080p.BluRay.x264.DTS-MT.mkv   MKV9.0GB
 
 type=video
 name=Corbin Nash (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4475,8 +4506,9 @@ URL=https://uptobox.com/jp8wm6h8328o
 type=video
 name=BPM (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6fohIpyfvUOgAmNPu5bUgMuojG.jpg
-date=2018-02-25
-URL=https://openload.co/f/VO2UQiS6Vhk/120_battements_par_minute_%282017%29_hc_eng_subs.mp4
+date=2018-06-12
+URL=https://openload.co/f/-GadCfInCgc/120.beats.per.minute.2017.limited.720p.bluray.x264-cadaver.mkv.mp4
+#https://openload.co/f/VO2UQiS6Vhk/120_battements_par_minute_%282017%29_hc_eng_subs.mp4
 #https://openload.co/f/8EsLqE7gP68/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.x264-ZQ.mkv
 #https://openload.co/f/AxQONoO98ts/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.x264-ZQ.mkv   MKV6.1GB
 #https://openload.co/f/ttUsyLrGoH8/BPM_Beats_Per_Minute_2017_EngSub_WEB-DL_X264_AC3-24HD.mkv.mp4
@@ -4485,12 +4517,7 @@ URL=https://openload.co/f/VO2UQiS6Vhk/120_battements_par_minute_%282017%29_hc_en
 
 
 
-type=video
-name=Welcome to Willits (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KvFXyg3T3nQ94y7V14l9tbB6x9.jpg
-date=2018-02-04
-URL=https://www.blazefile.co/embed-c583nfydtxse.html
-#https://uptobox.com/zeulwg67f45w
+
 
 type=video
 name=Double Lover (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
@@ -5049,6 +5076,23 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+
+type=video
+name=Jurassic World: Fallen Kingdom (2018) ENG 720p_HDCAM_V.2_X264-24HD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
+date=2018-06-08
+URL=https://openload.co/f/qDjH228-Kpw/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_V.2_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/jvF2_B5YrtI/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_HQMic_SeeHD.mkv.mp4
+#https://openload.co/f/2V0abkp6pRI/Jurassic_World_Fallen_Kingdom_2018_720p_English_HDCAM_Rip_x264.mp4
+#https://openload.co/f/R5CtFFLA2FY/Jurassic_World_Fallen_Kingdom_%282018%29_720p_English_HDCAM_x264_AAC_by_Full4movies.mkv.mp4
+#https://openload.co/f/DNwKj3Hb9vg/Jurassic_World_Fallen_Kingdom_%282018%29_720p_English_HDCAM_-x264_AAC_-_2.2GB.mkv.mp4
+type=video
+name=Jurassic World: Fallen Kingdom (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
+date=2018-06-12
+URL=https://streamango.com/f/qfdpefrdpbdbbbbn/Jurassic_World_Fallen_Kingdom_2018_
 
 
 type=video
@@ -6229,6 +6273,12 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/he6s2dOWmzWXsZGa0QLbcMVZJn
 date=2017-11-25
 URL=https://openload.co/f/B29AzGhZ9OU/The_Killer_%282017%29%E0%B8%A5%E0%B9%88%E0%B8%B2_%E0%B8%86%E0%B9%88%E0%B8%B2_%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%94%E0%B8%B4%E0%B8%9A_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
+
+type=video
+name=Blame! (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNGR1oruTC9WWPraHatRyUZT2ii.jpg
+date=2018-06-12
+URL=https://openload.co/f/-cs7Ou2GvF0/blame.2017.1080p.bluray.x264-ghouls.mkv.mp4
 type=video
 name=Blame! (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNGR1oruTC9WWPraHatRyUZT2ii.jpg
@@ -7304,13 +7354,25 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-07
+date=2018-06-12
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
 
 
+
+type=video
+name=Inside Men (2015) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/46FKPiB5l1FJgbC6wfrtNjJJmLm.jpg
+date=2018-06-12
+URL=https://openload.co/f/yCGbsDFleUA/Inside_Men_%282015%29%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%89%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%A1.mp4
+
+type=video
+name=Tokyo Sonata (2008) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/armQvxcbvyyxTnhgGwk2IkqnUTa.jpg
+date=2018-06-12
+URL=https://openload.co/f/1yVSmXwzQOo/Tokyo_Sonata_%282008%29%E0%B9%83%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%9A.mp4
 
 
 type=video
