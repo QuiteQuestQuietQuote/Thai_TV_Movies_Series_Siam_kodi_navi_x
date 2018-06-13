@@ -1524,7 +1524,7 @@ http://baochinh.ml/iptv-hplus.php?kenh=foxhd
 
 
 
-#EXTINF:0, Canal + Film
+#EXTINF:0, Canal + Film_rtmp
 rtmp://185.142.236.81/stream/2811?e=1522570726&st=rErIjikpLmupYxF2WCXN6g
 #EXTINF:0, Canal + Family
 rtmp://185.142.236.83/stream/2813?e=1522570726&st=VW6ni9SVa6I04gGZ6xZxlQ
@@ -1534,7 +1534,7 @@ rtmp://198.16.77.42/stream/2112?e=1522570726&st=XwB16-dKArtkxoOFFVxtOQ
 rtmp://198.16.72.242/stream/2013?e=1522570726&st=zvFR5bXUAVZU46bWyKjZXg
 #EXTINF:0, HBO 3 HD
 rtmp://198.16.77.42/stream/2012?e=1523388286&st=TVlDDg3LbvPF77f6n7dORA
-#EXTINF:0, Discovery Channel HD
+#EXTINF:0, Discovery Channel HD_rtmp
 rtmp://198.16.72.242/stream/1121?e=1522570726&st=61nvP8AfZHJ-lfAirvXAUA
 #EXTINF:0, Discovery Life
 http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/884/index.m3u8
@@ -1544,9 +1544,9 @@ http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/557/inde
 http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/409/index.m3u8
 #EXTINF:0, National Geographic_TS
 http://universeiptv.com:8000/live/abady/abady123/5203.ts
-#EXTINF:0, National Geographic People HD
+#EXTINF:0, National Geographic People HD_rtmp
 rtmp://198.16.72.242/stream/2412?e=1522570726&st=3A-5LmumSgee_25MbW-OSA
-#EXTINF:0, National Geographic Wild
+#EXTINF:0, National Geographic Wild_rtmp
 rtmp://198.16.77.42/stream/1142?e=1522570726&st=P1oLEuKSM9uCRfiprIlREg
 #EXTINF:0, Animal Planet_TS
 http://universeiptv.com:8000/live/abady/abady123/5207.ts
@@ -1554,11 +1554,11 @@ http://universeiptv.com:8000/live/abady/abady123/5207.ts
 http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/386/index.m3u8
 #EXTINF:0, BBC HD
 http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/558/index.m3u8
-#EXTINF:0, BBC Earth
+#EXTINF:0, BBC Earth_rtmp
 rtmp://198.16.72.226/stream/2011?e=1522570726&st=AlJrRTrWkdmpn0mSzJPmOQ
 #EXTINF:0, Travel Channel
 rtmp://185.142.236.81/stream/3511?e=1522570726&st=_l89qqAwxz6mklTDOJKc_g
-#EXTINF:0, Lifetime
+#EXTINF:0, Lifetime_rtmp
 rtmp://198.16.72.242/stream/3012?e=1522570726&st=JsevuPhdujV2WbqxTW2xcA
 
 

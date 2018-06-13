@@ -485,12 +485,80 @@ http://203.162.235.41:17819
 
 
 
+
+#EXTINF:-1 tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1 HD" tvg-logo="" group-title="Entertainment Channels",Sky1 HD - Sky1 HD
+http://62.210.93.115:80/live?channelId=25&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1" tvg-logo="" group-title="Entertainment Channels",Sky1 - Sky1
+http://62.210.93.115:80/live?channelId=26&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky 2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky2" tvg-logo="" group-title="Entertainment Channels",Sky2 - Sky2
+http://62.210.93.115:80/live?channelId=27&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Discovery" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Discovery" tvg-logo="" group-title="Entertainment Channels",Discovery - Discovery
+http://62.210.93.115:80/live?channelId=32&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Animal Planet" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Animal Planet" tvg-logo="" group-title="Entertainment Channels",Animal Planet - Animal Planet
+http://62.210.93.115:80/live?channelId=42&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="HISTORY" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="HISTORY" tvg-logo="" group-title="Entertainment Channels",HISTORY - HISTORY
+http://62.210.93.115:80/live?channelId=43&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="H2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="H2" tvg-logo="" group-title="Entertainment Channels",H2 - H2
+http://62.210.93.115:80/live?channelId=44&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="National Geo Wild" tvg-logo="" group-title="Entertainment Channels",National Geo Wild - National Geo Wild
+http://62.210.93.115:80/live?channelId=45&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="National Geographic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="National Geographic" tvg-logo="" group-title="Entertainment Channels",National Geographic - National Geographic
+http://62.210.93.115:80/live?channelId=46&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="TLC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="TLC" tvg-logo="" group-title="Entertainment Channels",TLC - TLC
+http://62.210.93.115:80/live?channelId=47&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Syfy" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Syfy" tvg-logo="" group-title="Entertainment Channels",Syfy - Syfy
+http://62.210.93.115:80/live?channelId=48&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Lifetime" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Lifetime" tvg-logo="" group-title="Entertainment Channels",Lifetime - Lifetime
+http://62.210.93.115:80/live?channelId=49&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="MTV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="MTV" tvg-logo="" group-title="Entertainment Channels",MTV - MTV
+http://62.210.93.115:80/live?channelId=50&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Food Network" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Food Network" tvg-logo="" group-title="Entertainment Channels",Food Network - Food Network
+http://62.210.93.115:80/live?channelId=58&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="W" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="W" tvg-logo="" group-title="Entertainment Channels",W - W
+http://62.210.93.115:80/live?channelId=67&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Universal Channel" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Universal" tvg-logo="" group-title="Entertainment Channels",Universal - Universal
+http://62.210.93.115:80/live?channelId=68&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Baby TV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Baby TV" tvg-logo="" group-title="Kids Channels",Baby TV - Baby TV
+http://62.210.93.43:80/live?channelId=90&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="CBBC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CBBC" tvg-logo="" group-title="Kids Channels",CBBC - CBBC
+http://62.210.93.43:80/live?channelId=91&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Cartoon network" tvg-logo="" group-title="Kids Channels",Cartoon network - Cartoon network
+http://62.210.93.43:80/live?channelId=92&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Cbeeies" tvg-link="" tvg-name="Cbeeies" tvg-logo="" group-title="Kids Channels",Cbeeies - Cbeeies
+http://62.210.93.43:80/live?channelId=93&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Disney Channel" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney Channel" tvg-logo="" group-title="Kids Channels",Disney Channel - Disney Channel
+http://62.210.93.43:80/live?channelId=94&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Disney Junior" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney Jr" tvg-logo="" group-title="Kids Channels",Disney Jr - Disney Jr
+http://62.210.93.43:80/live?channelId=95&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Disney XD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney XD" tvg-logo="" group-title="Kids Channels",Disney XD - Disney XD
+http://62.210.93.43:80/live?channelId=96&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Nick Jr" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nick Jr" tvg-logo="" group-title="Kids Channels",Nick Jr - Nick Jr
+http://62.210.93.43:80/live?channelId=97&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Nicktoons" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nick Toons" tvg-logo="" group-title="Kids Channels",Nick Toons - Nick Toons
+http://62.210.93.43:80/live?channelId=98&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids Channels",Nickelodeon - Nickelodeon
+http://62.210.93.43:80/live?channelId=99&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Nick Jr Too" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="NickJr Too" tvg-logo="" group-title="Kids Channels",NickJr Too - NickJr Too
+http://62.210.93.43:80/live?channelId=100&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Boomerang" tvg-link="" tvg-name="Boomerang" tvg-logo="" group-title="Kids Channels",Boomerang - Boomerang
+http://62.210.93.43:80/live?channelId=101&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="True Vision"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CN
 http://128.199.140.219:1935/HD2live-S3/cn.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="True Vision"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
 http://main-a.for-our.info:8081/tv11//disney/chunks.m3u8
-
 
 #EXTINF:-1 group-title="True Vision"tvg-logo="https://teevee-hd.com/img/nickjr.png",NICK JR
 http://iheart-totiptv.better-than.tv:8080/iheart/2b72986be9314c139db95f6098d1c413.m3u8
@@ -516,7 +584,8 @@ http://iheart-totiptv.better-than.tv:8080/iheart/7773f3cef0334a28ad248552ea63d9e
 
 
 
-
+#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",asian_food_channel
+http://27.254.64.112:1935/thflixCH/Asian_Food_Channel.stream/chunklist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth_KOR
 http://119.194.30.67:9981/stream/channelid/1550569005?ticket=F39C5EB1368D210C1C3972760F345AE57F270B93&profile=pass
 #EXTINF:0,FilmBox_onlybest
@@ -527,6 +596,8 @@ http://203.162.235.41:17816
 https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
 #EXTINF:-1,movie 2
 http://usa.login.in.th:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 group-title="movies" tvg-logo="http://html.login.in.th/flashstreaming/img/ch8.jpg",channel8thailand
+https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
 #EXTINF:-1,CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
