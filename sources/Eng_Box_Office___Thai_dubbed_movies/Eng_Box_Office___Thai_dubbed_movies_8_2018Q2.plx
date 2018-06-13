@@ -72,10 +72,11 @@ URL=
 
 
 type=video
-name=Ocean's 8 (2018) ENG CAM.X264-IPT_SeeHD
+name=Ocean's 8 (2018) ENG 720p_HD-TS_X264-CPG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7caaqQjTkovwoZsEOPzgHvkzOWB.jpg
 date=2018-06-08
-URL=https://openload.co/f/egvFlNBBxlw/Oceans.8.2018.CAM.X264-IPT_SeeHD.mkv.mp4
+URL=https://openload.co/f/jils94FsuGM/Oceans_8_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/egvFlNBBxlw/Oceans.8.2018.CAM.X264-IPT_SeeHD.mkv.mp4
 #https://openload.co/f/HNqXzm647eA/Oceans_8_2018_CAM_X264-CaixistaEstupido.mkv.mp4
 
 
@@ -165,10 +166,11 @@ URL=https://openload.co/f/1Vty-Ed3Gp0/Isle_of_Dogs_2018_720p_HDCAM_X264_HQMic-Su
 
 
 type=video
-name=Acrimony (2018) ENG HDCAM.x264.ENG.MP3.LLG
+name=Acrimony (2018) ENG 1080p_WEB-DL_DD5_1_H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QA8rjbMqPcJXdHWEZE4Nxvktgx.jpg
-date=2018-05-11
-URL=https://openload.co/f/42Sfyana3Ew/Acrimony.2018.HDCAM.x264.ENG.MP3.LLG.mp4
+date=2018-06-13
+URL=https://openload.co/f/INUV24xFaQA/Acrimony_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+#https://openload.co/f/42Sfyana3Ew/Acrimony.2018.HDCAM.x264.ENG.MP3.LLG.mp4
 #https://openload.co/f/QD1fESnKSgA/Acrimony.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
 #https://openload.co/f/Ce7guXZgBS4/Acrimony.2018.HDCAM.x264-DiRG_SeeHD.mp4
 
@@ -1361,8 +1363,9 @@ URL=https://openload.co/f/9slReYb7Oe4/Welcome.to.Willits.2016.1080p.BluRay.x264-
 type=video
 name=Bodysnatch (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/IGzCSXgIRvr1xsjzCagCSkXfYg.jpg
-date=2018-06-12
-URL=https://openload.co/f/sl3M1Iaagl0/Bodysnatch.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
+date=2018-06-13
+URL=https://openload.co/f/HyhFO8hSZME/Bodysnatch.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/sl3M1Iaagl0/Bodysnatch.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
 #https://openload.co/f/q4RI18pm7xM/Bodysnatch.2018.1080p.BluRay.x264.DTS-MT.mkv   MKV6.0GB
 
 type=video
@@ -1380,8 +1383,9 @@ URL=https://openload.co/f/mTPgoWsvKJo/The.Wedding.Invitation.2017.1080p.BluRay.x
 type=video
 name=Apocalypse Rising (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2raCqucdXJeXHpGlUgValdldyb9.jpg
-date=2018-06-12
-URL=https://openload.co/f/IxXS_Bs0KfE/Apocalypse.Rising.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-06-13
+URL=https://openload.co/f/pZsd69Jh2_4/Apocalypse.Rising.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/IxXS_Bs0KfE/Apocalypse.Rising.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/8AN_InO6_co/Apocalypse.Rising.2018.1080p.BluRay.x264.DTS-MT.mkv   MKV9.0GB
 
 type=video
@@ -1791,8 +1795,9 @@ URL=https://openload.co/f/QhBuFqHrCHs/A.Fantastic.Woman.2017.1080p.BluRay.x264-D
 type=video
 name=Daphne & Velma (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r87VuGiJ5TSgoLxHEdvYURdbtki.jpg
-date=2018-05-16
-URL=https://openload.co/f/F4ucKvL_KHw/Daphne.and.Velma.2018.1080p.BR_SeeHD.mp4
+date=2018-06-13
+URL=https://openload.co/f/vkvhe3cMY9U/Daphne.and.Velma.2018.1080p.BluRay.x264-NODLABS.mkv.mp4
+#https://openload.co/f/F4ucKvL_KHw/Daphne.and.Velma.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/P_NDNrIeDZk/Daphne.and.Velma.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
 
 type=video
@@ -5146,10 +5151,11 @@ URL=https://streamango.com/f/ofspqsqdrfcfbbmk/Truth_or_Dare_2018_
 
 
 type=video
-name=Avengers: Infinity War (2018) ENG 720p_TS_x264_AAC_TiTAN_SeeHD
+name=Avengers: Infinity War (2018) ENG New_HDTC_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
-date=2018-06-01
-URL=https://openload.co/f/uf7jMDDyzNM/Avengers_Infinity_War_2018_720p_TS_x264_AAC_TiTAN_SeeHD.mkv.mp4
+date=2018-06-13
+URL=https://openload.co/f/3fCZIf3CRtI/Avengers_Infinity_War_2018_New_HDTC_SeeHD.mkv.mp4
+#https://openload.co/f/uf7jMDDyzNM/Avengers_Infinity_War_2018_720p_TS_x264_AAC_TiTAN_SeeHD.mkv.mp4
 #https://openload.co/f/Owfl0kBmCfU/Avengers_Infinity_War_2018_NEW_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/w_SI2svIMSo/Avengers%3A_Infinity_War_%282018%29NEW_720p_HD-TS_X264-CPG.Ganool.im.mkv.mp4
 #https://openload.co/f/EUc49i9EnHQ/Avengers_Infinity_War.2018.720p.TS.x264-TiTAN_SeeHD.mkv.mp4
@@ -6710,8 +6716,11 @@ URL=https://streamango.com/f/omlqadnqnmemdrec/Sherlock_Gnomes_2018_
 type=video
 name=Tomb Raider (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
-date=2018-06-01
-URL=https://openload.co/f/Tnmwwy9d6X8/Tomb.Raider.2018.1080p.BR_SeeHD.mp4
+date=2018-06-13
+URL=https://www.blazefile.co/embed-thybuv9fjr1y.html
+#https://uptobox.com/yet7clpcmmdy
+#https://openload.co/embed/pEBADEkLRGE/GHPT0MBRAIDER80.Ganool.im.mkv
+#https://openload.co/f/Tnmwwy9d6X8/Tomb.Raider.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/52HGZCIu90w/tomb.raider.2018.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/wmHs4JQx9wE/Tomb.Raider.2018.1080p.BrRip.6CH.x265.HEVC-PSA.mkv.mp4
 #https://openload.co/f/ADx-QeeEMlk/Tomb.Raider.2018.BluRay.720p.x264.DTS-HDC.mkv.mp4
@@ -6916,10 +6925,13 @@ URL=https://streamango.com/f/rlcdffttdddaetmn/Winchester_2018_
 
 
 type=video
-name=Monster Hunt 2 (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+name=Monster Hunt 2 (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
-date=2018-06-06
-URL=https://openload.co/f/-B6tEZLwh34/Monster.Hunt.2.2018.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
+date=2018-06-13
+URL=https://www.blazefile.co/embed-1dw3nuopr347.html
+#https://uptobox.com/d7xu2ndb1p6t
+#https://openload.co/embed/q6SruPXDWr0/Monster.Hunt.2.2018.BluRay.1080p.5.1CH.x264.Ganool.im.mkv.mp4
+#https://openload.co/f/-B6tEZLwh34/Monster.Hunt.2.2018.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
 #https://openload.co/f/xiI37NMVGYQ/Monster.Hunt.2.2018.HC.HDRip.AC3.X264-CMRG.mkv.mp4
 #https://openload.co/f/6oGjRk_3toQ/Monster_Hunt_2_%282018%29_Cam.mp4
 #https://www.blazefile.co/embed-06swu4uc3nw1.html   720
@@ -7354,13 +7366,28 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-12
+date=2018-06-13
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
 
 
 
+
+
+
+
+type=video
+name=The Birds (1963) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg
+date=2018-06-13
+URL=https://openload.co/f/2Ulh0HlY2x0/The_Birds_%281963%29%E0%B8%99%E0%B8%81.mp4
+
+type=video
+name=The Curse of Downers Grove (2015) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nrHz4dV81OPmQ9vSN9uQAi7Dtj.jpg
+date=2018-06-13
+URL=https://openload.co/f/KBi1FCzg2A4/The_Curse_of_Downers_Grove_%282015%29%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B2%E0%B8%9B.mp4
 
 type=video
 name=Inside Men (2015) TH
@@ -7393,8 +7420,9 @@ URL=https://www.blazefile.co/embed-7cctned36gk1.html
 type=video
 name=Peter Rabbit (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHQ694uFOfTKXjhBMB4PMEce8UD.jpg
-date=2018-06-07
-URL=https://openload.co/f/PacW833dEGs/Peter_Rabbit_%282018%29%E0%B8%9B%E0%B8%B5%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%81%E0%B8%A3%E0%B8%9A%E0%B8%9A%E0%B8%B4%E0%B8%97.mp4
+date=2018-06-13
+URL=https://openload.co/f/EM7MhH5k4y8/Peter_Rabbit_%282018%29%E0%B8%9B%E0%B8%B5%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%81%E0%B8%A3%E0%B8%9A%E0%B8%9A%E0%B8%B4%E0%B8%97.mp4
+#https://openload.co/f/PacW833dEGs/Peter_Rabbit_%282018%29%E0%B8%9B%E0%B8%B5%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%81%E0%B8%A3%E0%B8%9A%E0%B8%9A%E0%B8%B4%E0%B8%97.mp4
 #https://streamango.com/f/nnmdsqqllmcskfol/Peter_Rabbit_2018_
 #https://streamango.com/f/dkserplddbclskqo/Peter_Rabbit_2018_Full_-_HD_
 
@@ -7402,14 +7430,16 @@ URL=https://openload.co/f/PacW833dEGs/Peter_Rabbit_%282018%29%E0%B8%9B%E0%B8%B5%
 type=video
 name=The Last Recipe (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSQFNXDTuDHsjioDQUZ86CDlVO6.jpg
-date=2018-06-07
-URL=https://openload.co/f/dkzI5A9YecY/The_Last_Recipe_%282017%29%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%9F.mp4
+date=2018-06-13
+URL=https://openload.co/f/01wXkSOSEno/The_Last_Recipe_%282017%29%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%9F.mp4
+#https://openload.co/f/dkzI5A9YecY/The_Last_Recipe_%282017%29%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%9F.mp4
 
 type=video
 name=My Teacher (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqpRNStGdG4t3EfKX0IWwbzjqz9.jpg
-date=2018-06-07
-URL=https://openload.co/f/-FyfewPvl6w/My_Teacher_%282017%29%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%89%E0%B8%B1%E0%B8%99_%E0%B9%81%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B9%8C.mp4
+date=2018-06-13
+URL=https://openload.co/f/CA8WTxyV9t8/My_Teacher_%282017%29%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%89%E0%B8%B1%E0%B8%99_%E0%B9%81%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B9%8C.mp4
+#https://openload.co/f/-FyfewPvl6w/My_Teacher_%282017%29%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%89%E0%B8%B1%E0%B8%99_%E0%B9%81%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B9%8C.mp4
 
 type=video
 name=Asura Girl -Blood-C Side Story (2017) TH
@@ -8102,10 +8132,33 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-08
+date=2018-06-13
 URL=
 
 
+
+
+
+
+
+
+type=video
+name=Hellboy (2004) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fAWzI9MUosggdGMu7EaDhn44m6.jpg
+date=2018-06-13
+URL=https://openload.co/f/PwBCFDDfnPo/Hellboy.2004.1080p.BrRip.x264.E.mp4
+
+type=video
+name=Hellboy II: The Golden Army (2008) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFcZqnWDeQsImDAAIyAimc3SGEl.jpg
+date=2018-06-13
+URL=https://openload.co/f/U1uwIcuGVxc/Hellboy.The.Golden.Army.2008.1080p.BrRip.x264.YIFY.mp4
+
+type=video
+name=Troy (2004) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/edMlij7nw2NMla32xskDnzMCFBM.jpg
+date=2018-06-13
+URL=https://openload.co/f/n5o6wboMOnQ/Troy.2004.HD_720p.mp4
 
 type=video
 name=Zootopia (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]

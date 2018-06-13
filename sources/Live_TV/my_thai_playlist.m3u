@@ -1542,13 +1542,13 @@ http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/884/inde
 http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/557/index.m3u8
 #EXTINF:0, Discovery Turbo Xtra
 http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/409/index.m3u8
-#EXTINF:0, National Geographic
+#EXTINF:0, National Geographic_TS
 http://universeiptv.com:8000/live/abady/abady123/5203.ts
 #EXTINF:0, National Geographic People HD
 rtmp://198.16.72.242/stream/2412?e=1522570726&st=3A-5LmumSgee_25MbW-OSA
 #EXTINF:0, National Geographic Wild
 rtmp://198.16.77.42/stream/1142?e=1522570726&st=P1oLEuKSM9uCRfiprIlREg
-#EXTINF:0, Animal Planet
+#EXTINF:0, Animal Planet_TS
 http://universeiptv.com:8000/live/abady/abady123/5207.ts
 #EXTINF:0, Planete+
 http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/386/index.m3u8
@@ -1564,7 +1564,7 @@ rtmp://198.16.72.242/stream/3012?e=1522570726&st=JsevuPhdujV2WbqxTW2xcA
 
 #EXTINF:0, Filmbox Action
 http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/554/index.m3u8
-#EXTINF:0, Filmbox Family
+#EXTINF:0, Filmbox Family_TS
 http://universeiptv.com:8000/live/abady/abady123/5404.ts
 #EXTINF:0, Filmbox Premium
 http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/552/index.m3u8
@@ -1660,39 +1660,6 @@ http://62.210.93.43:80/live?channelId=101&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 
 
 
-#EXTINF:-1,Paramount Channel 
-http://2.36.82.119:8000/play/a032 
-#EXTINF:-1,Premium Action 
-http://2.36.82.119:8000/play/a03t 
-#EXTINF:-1,Premium Cinema 
-http://2.36.82.119:8000/play/a03v 
-#EXTINF:-1,Premium Comedy 
-http://2.36.82.119:8000/play/a03y 
-#EXTINF:-1,Premium Crime 
-http://2.36.82.119:8000/play/a03s 
-#EXTINF:-1,Premium Emotion 
-http://2.36.82.119:8000/play/a03x 
-#EXTINF:-1,Premium Energy 
-http://2.36.82.119:8000/play/a03w 
-#EXTINF:-1,Premium Joi 
-http://2.36.82.119:8000/play/a03p 
-
-#EXTINF:-1,Rai 1 HD 
-http://2.36.82.119:8000/play/a01k 
-#EXTINF:-1,Rai 2 HD 
-http://2.36.82.119:8000/play/a00v 
-#EXTINF:-1,Rai 3 HD 
-http://2.36.82.119:8000/play/a00w 
-#EXTINF:-1,Rai 4 
-http://2.36.82.119:8000/play/a01h 
-#EXTINF:-1,Rai 5 
-http://2.36.82.119:8000/play/a021 
-#EXTINF:-1,Rai Gulp 
-http://2.36.82.119:8000/play/a01i 
-#EXTINF:-1,Rai Movie 
-http://2.36.82.119:8000/play/a01j 
-#EXTINF:-1,Rai Premium 
-http://2.36.82.119:8000/play/a01f 
 
 
 
@@ -1739,8 +1706,8 @@ https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
 http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
 
-
-
+#EXTINF:-1,Samrojlok
+http://ssl2.sakkarinsai8.com:19358/footballfuck/0x222_monoplus_720p/playlist.m3u8
 #EXTINF:-1,saradee_12
 http://symc-cdn01.bkk02.violin.co.th:1935/liveedge/292277143069_600/chunklist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI_27
