@@ -63,13 +63,17 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-06-08
+date=2018-06-14
 URL=
 
 
 
 
-
+type=video
+name=Escape Plan 2: Hades (2018) ENG DVDRip.XviD.AC3-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6aVHV5Id47dlaEro9DsijzStIU.jpg
+date=2018-06-14
+URL=https://openload.co/f/RgvZg78lvH8/Escape_Plan_2_Hades.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 
 type=video
 name=Ocean's 8 (2018) ENG 720p_HD-TS_X264-CPG_SeeHD
@@ -1407,17 +1411,7 @@ URL=https://www.blazefile.co/embed-yj5xytml65ys.html
 #https://openload.co/embed/Rzcmlsit0B4/The.Merciless.2017.BluRay.720p.900MB.Ganool.im.mkv
 #https://openload.co/f/49GqBwq-zB0/The.Merciless.2017.KOREAN.720p.BluRay.x264.DTS-HDC.mkv.mp4
 
-type=video
-name=Paul, Apostle of Christ (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDzLXgngB5DbiSmYSww5Rbg8kRA.jpg
-date=2018-06-07
-URL=https://openload.co/f/xQC6xIImISM/Paul.Apostle.of.Christ.2018.MULTi.1080p.BluRay.x264-VENUE.mkv.mp4
-#https://openload.co/f/TL3747ew91U/Paul.Apostle.of.Christ.2018.720p.BluRay.x264-DRONES.mkv.mp4
-#https://www.blazefile.co/embed-yudnlgj4a4rr.html
-#https://uptobox.com/nkjdk6x4ifjw
-#https://openload.co/embed/rg46R4rm2bQ/PAULAPOSTLECHRISTBD72.Ganool.im.mkv.mp4
-#https://openload.co/f/tJ_KMKIyM9A/Paul.Apostle.of.Christ.2018.720p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/k1hPUy1rzQA/Paul.Apostle.of.Christ.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
 
 type=video
 name=Child Eater (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2330,19 +2324,7 @@ URL=https://www.blazefile.co/embed-yri7w4uwhabh.html
 #https://www.blazefile.co/embed-cb7ypzkk4xjq.html   720
 #https://uptobox.com/il4qzzy7ecxi   720
 
-type=video
-name=Phantom Thread (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
-date=2018-04-04
-URL=https://openload.co/f/9x1ASTV_wBg/Phantom.Thread.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://uptobox.com/6bjsmzwcnozs
-#https://openload.co/f/9x1ASTV_wBg/Phantom.Thread.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/4cTv2ODkB7Y/Phantom.Thread.2017.1080p.BRrip.AC3.H264-CMRG.mkv.mp4
-#https://openload.co/f/KiFaEMOtxnU/Phantom.Thread.2017.1080p.WEB-DL.DD5_1.H264-CMRG%5BEtHD%5D.mkv.mp4
-#https://openload.co/f/BSWsAhU73S8/Phantom.Thread.2018.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/01d95nvQAeA/Phantom_Thread.2017.DVDSCR.DrinkBetterWater.mp4
-#https://www.blazefile.co/embed-ipyds08l86bu.html   720
-#https://uptobox.com/roq8kjvw6v80   720
+
 
 type=video
 name=Bornless Ones (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4958,6 +4940,7 @@ name=The Lodgers (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPePnxBFnlcfAMtxZdZNkLnOkqJ.jpg
 date=2018-06-03
 URL=https://openload.co/f/XyRXjDIGbFY/The.Lodgers.2017.720p.BR_SeeHD.mp4
+#https://openload.co/embed/10cxU3USSJE/THELODGERSBD72.Ganool.im.mkv.mp4
 #https://openload.co/f/eWQIr3XNM5w/The_Lodgers_2017_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
 
 
@@ -5082,6 +5065,16 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+type=video
+name=Taxi 5 (2018) FRE DVDscr.AC3.XViDHDMovie8
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg
+date=2018-06-14
+URL=https://openload.co/f/XhBHNqkz6gU/Taxi.5.2018.FRENCH.DVDscr.AC3.XViDHDMovie8.mp4
+type=video
+name=Taxi 5 (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg
+date=2018-06-14
+URL=https://streamango.com/f/krmfsqkocolersbk/Taxi_5_2018_
 
 
 type=video
@@ -5282,6 +5275,24 @@ URL=
 
 
 
+type=video
+name=Phantom Thread (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
+date=2018-04-04
+URL=https://openload.co/f/9x1ASTV_wBg/Phantom.Thread.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://uptobox.com/6bjsmzwcnozs
+#https://openload.co/f/9x1ASTV_wBg/Phantom.Thread.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/4cTv2ODkB7Y/Phantom.Thread.2017.1080p.BRrip.AC3.H264-CMRG.mkv.mp4
+#https://openload.co/f/KiFaEMOtxnU/Phantom.Thread.2017.1080p.WEB-DL.DD5_1.H264-CMRG%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/BSWsAhU73S8/Phantom.Thread.2018.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/01d95nvQAeA/Phantom_Thread.2017.DVDSCR.DrinkBetterWater.mp4
+#https://www.blazefile.co/embed-ipyds08l86bu.html   720
+#https://uptobox.com/roq8kjvw6v80   720
+type=video
+name=Phantom Thread (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ8j8xKk2xQ1d88hB8YG6LZfRQj.jpg
+date=2018-06-14
+URL=https://streamango.com/f/nsocsskebcrbsesr/Phantom_Thread_2017_
 
 
 type=video
@@ -6664,7 +6675,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-06
+date=2018-06-14
 URL=
 
 
@@ -6673,8 +6684,17 @@ URL=
 
 
 
-
-
+type=video
+name=7 Days in Entebbe (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrC63ikbK4jDp3knvBqxPoWYEMM.jpg
+date=2018-06-14
+URL=https://openload.co/f/4orjr6uMSx4/7_Days_in_Entebbe.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/MGkJDoZElmo/7_Days_in_Entebbe.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+type=video
+name=7 Days in Entebbe (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrC63ikbK4jDp3knvBqxPoWYEMM.jpg
+date=2018-06-14
+URL=https://streamango.com/f/ftadpercopbllaec/7_Days_in_Entebbe_2018_
 
 
 type=video
@@ -6749,8 +6769,9 @@ URL=https://streamango.com/f/tcsdqpbtnqrfdqdl/Tomb_Raider_2018_
 type=video
 name=The Strangers: Prey at Night (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo3gu56JKRwZ2TpKt8mPjXLQK23.jpg
-date=2018-06-11
-URL=https://www.blazefile.co/embed-lbugmruurewj.html
+date=2018-06-14
+URL=https://openload.co/f/Ina6EQX7-ZU/The.Strangers.Prey.at.Night.2018.1080p.BR_SeeHD.mp4
+#https://www.blazefile.co/embed-lbugmruurewj.html
 #https://uptobox.com/aqywsd0nuc05
 #https://openload.co/embed/WX7lo0b9w18/GHPTHESTRANGERSPREYATIGHT80.Ganool.im.mkv
 #https://openload.co/f/Ina6EQX7-ZU/The.Strangers.Prey.at.Night.2018.1080p.BR_SeeHD.mp4
@@ -6770,29 +6791,7 @@ date=2018-05-30
 URL=https://streamango.com/f/nlcqdoenraatbppm/The_Strangers_Prey_at_Night_2018_
 
 
-type=video
-name=Death Wish (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRpOwIlOXZZVWgDernbPbdHU5cl.jpg
-date=2018-05-24
-URL=https://www.blazefile.co/embed-xvcrpxnhrnou.html
-#https://uptobox.com/dd31nbu13cms
-#https://openload.co/embed/SXWIoN-WUEQ/GHPDEATHWISH80.Ganool.im.mkv
-#https://openload.co/f/XG6t1iDuzqM/Death.Wish.2018.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/8GCrFK5XTeM/Death.Wish.2018.720p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/ZKSGUH86ztI/Death.Wish.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/mBpieI5UGn0/Death_Wish_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
-#https://openload.co/f/m6H4BMp2miQ/Death_Wish_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/k7KT8naQGo8/Death_Wish_2018.HD-TS.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/hScYbg7JR6A/Death_Wish_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/zO6vHUtv0Uc/Death_Wish_2018_NEW_HDCAM_Layar.mp4
-#https://openload.co/f/woXxvTJV3xQ/Death.Wish.2018.NEW_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/08UkBIEbOMg/Death.Wish.2018.HDCAM.x264-DiRG.mp4
-type=video
-name=Death Wish (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRpOwIlOXZZVWgDernbPbdHU5cl.jpg
-date=2018-05-25
-URL=https://streamango.com/f/osqbeaqeffctktas/Death_Wish_2018_
-#https://streamango.com/f/asrrkenbdmknakap/Death_Wish_2018_
+
 
 
 type=video
@@ -7366,7 +7365,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-13
+date=2018-06-14
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
@@ -7374,7 +7373,55 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+type=video
+name=Paul, Apostle of Christ (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDzLXgngB5DbiSmYSww5Rbg8kRA.jpg
+date=2018-06-07
+URL=https://openload.co/f/xQC6xIImISM/Paul.Apostle.of.Christ.2018.MULTi.1080p.BluRay.x264-VENUE.mkv.mp4
+#https://openload.co/f/TL3747ew91U/Paul.Apostle.of.Christ.2018.720p.BluRay.x264-DRONES.mkv.mp4
+#https://www.blazefile.co/embed-yudnlgj4a4rr.html   720
+#https://uptobox.com/nkjdk6x4ifjw   720
+#https://openload.co/embed/rg46R4rm2bQ/PAULAPOSTLECHRISTBD72.Ganool.im.mkv.mp4
+#https://openload.co/f/tJ_KMKIyM9A/Paul.Apostle.of.Christ.2018.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/k1hPUy1rzQA/Paul.Apostle.of.Christ.2018.720p.BluRay.H264.AAC-RARBG.mp4
+type=video
+name=Paul, Apostle of Christ (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDzLXgngB5DbiSmYSww5Rbg8kRA.jpg
+date=2018-06-14
+URL=https://openload.co/f/w_Z5oSgLsvg/Paul%2C_Apostle_of_Christ_%282018%29.mp4
 
+
+type=video
+name=Dragon Age: Dawn of the Seeker (2012) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ag9To3fACrxnml3IOsyZjqFj9Rz.jpg
+date=2018-06-14
+URL=https://openload.co/f/OirwlTDT6DA/Dragon_Age%3A_Dawn_of_the_Seeker_%282012%29%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9A%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3.mp4
+
+
+type=video
+name=Death Wish (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRpOwIlOXZZVWgDernbPbdHU5cl.jpg
+date=2018-05-24
+URL=https://www.blazefile.co/embed-xvcrpxnhrnou.html
+#https://uptobox.com/dd31nbu13cms
+#https://openload.co/embed/SXWIoN-WUEQ/GHPDEATHWISH80.Ganool.im.mkv
+#https://openload.co/f/XG6t1iDuzqM/Death.Wish.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/8GCrFK5XTeM/Death.Wish.2018.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/ZKSGUH86ztI/Death.Wish.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/mBpieI5UGn0/Death_Wish_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
+#https://openload.co/f/m6H4BMp2miQ/Death_Wish_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/k7KT8naQGo8/Death_Wish_2018.HD-TS.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/hScYbg7JR6A/Death_Wish_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/zO6vHUtv0Uc/Death_Wish_2018_NEW_HDCAM_Layar.mp4
+#https://openload.co/f/woXxvTJV3xQ/Death.Wish.2018.NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/08UkBIEbOMg/Death.Wish.2018.HDCAM.x264-DiRG.mp4
+type=video
+name=Death Wish (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRpOwIlOXZZVWgDernbPbdHU5cl.jpg
+date=2018-06-14
+URL=https://openload.co/f/1Kf1W-WMFfs/Death_Wish_%282018%29%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B8%B6%E0%B8%94.mp4
+#https://streamango.com/f/osqbeaqeffctktas/Death_Wish_2018_
+#https://streamango.com/f/asrrkenbdmknakap/Death_Wish_2018_
 
 
 type=video
@@ -8132,7 +8179,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-13
+date=2018-06-14
 URL=
 
 
@@ -8140,7 +8187,11 @@ URL=
 
 
 
-
+type=video
+name=Escape Plan (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3XZwBeWgoAbVmkW3JyOme79I2e.jpg
+date=2018-06-14
+URL=https://openload.co/f/Itpxz-r_0y4/Escape.Plan.2013.1080p.BluRay.x264.AAC_ETRG.mp4
 
 type=video
 name=Hellboy (2004) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
