@@ -1,14 +1,14 @@
 version=1
-background=http://javsex.net/wp-content/uploads/2016/10/6370.jpg
-title=JAV_28_18up_UNCEN
-logo=http://javsex.net/wp-content/uploads/2016/10/6370.jpg
-icon_playlist=http://javsex.net/wp-content/uploads/2016/10/6370.jpg
+background=http://javdub.com/wp-content/uploads/2017/06/24503.jpg
+title=JAV_28_18up_Sqte
+logo=http://javdub.com/wp-content/uploads/2017/06/24503.jpg
+icon_playlist=http://javdub.com/wp-content/uploads/2017/06/24503.jpg
 description=Thanks to satan18av, openload-d.co, movieerotic.net, erotic24hr, zeed24hrs, javsex.net/description
 
 type=playlist
 name=Sorted by user-assigned order
 icon=http://media.navixtreme.com/images/icons/2downarrow.png
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_28_18up_UNCEN.plx?action=sortsel&cur=ord
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_28_18up_Sqte.plx?action=sortsel&cur=ord
 
 # 2772540
 type=playlist
@@ -39,7 +39,7 @@ URL=
 type=video
 name=
 thumb=
-date=2017-10-16
+date=2018-06-15
 URL=
 
 
@@ -70,8 +70,320 @@ URL=
 
 
 
+type=video
+name=41xxxxxxxxxxxxxxxxxxxxSqte-188 Pretty Girl Is Just As Good As It Is Sex Circumstances Of Gentle Girls With Both Physical And Mind
+thumb=http://javdub.com/wp-content/uploads/2017/11/27432.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5185/3678/029-hls/appid-27432/hls.m3u8
+
+type=video
+name=Sqte-171 Lovely Love That Smiles Unexpectedly Spilling
+thumb=http://javdub.com/wp-content/uploads/2017/06/24505.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5188/3678/020-hls/appid-24505/hls.m3u8?v=3
+
+type=video
+name=Sqte-163 It Was A Serious Disadvantage Junjo Pretty Etch Confession
+thumb=http://javdub.com/wp-content/uploads/2017/06/24044.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5188/3678/020-hls/appid-24044/hls.m3u8
+
+type=video
+name=Sqte-159 A Favorite Girlfriend I Have To Gonzo
+thumb=http://javdub.com/wp-content/uploads/2017/04/20627.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q582/3675/024-hls/appid-20627/hls.m3u8
+
+type=video
+name=Sqte-080 Healing Your Service Horny Beautiful Girl
+thumb=http://javdub.com/wp-content/uploads/2017/01/12834.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5180/3674/010-hls/appid-12834/hls.m3u8
 
 
+type=video
+name=Sqte-205 How Pretty Little Perverts Enjoy Sex
+thumb=http://javdub.com/wp-content/uploads/2018/04/33770.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5182/3674/057-hls/appid-33770/hls.m3u8
+
+type=video
+name=qte-200 Abe Mikako S-cute Natural Body She Is Cute With Etch
+thumb=http://javdub.com/wp-content/uploads/2018/03/30117.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5184/3678/033-hls/appid-30117/hls.m3u8
+
+type=video
+name=Sqte-199 Embarrassingly, A Girl Who Loves Sex
+thumb=http://javdub.com/wp-content/uploads/2018/03/30116.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5184/3678/033-hls/appid-30116/hls.m3u8
+
+type=video
+name=Sqte-176 Her Slutty Curiosity Pure
+thumb=http://javdub.com/wp-content/uploads/2017/08/26227.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q583/3678/024-hls/appid-26227/hls.m3u8
+
+type=video
+name=Sqte-174 I Want To Make A Girl Even A Girl
+thumb=http://javdub.com/wp-content/uploads/2017/07/25448.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q586/3675/034-hls/appid-25448/hls.m3u8
+
+
+type=video
+name=Sqte-175 I Made A Gonzo Picture Of My Favorite Canojo Minori Kotani Immiya Izumi Ignorance
+thumb=http://javdub.com/wp-content/uploads/2017/08/26228.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q583/3678/024-hls/appid-26228/hls.m3u8
+
+type=video
+name=Sqte-173 Debut For Amateur Girls Who Have Applied To S-cute Themselves Hina
+thumb=http://javdub.com/wp-content/uploads/2017/07/25449.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q586/3675/034-hls/appid-25449/hls.m3u8
+
+type=video
+name=Sqte-186 I Love You And I39m More Excited Than Usual
+thumb=http://javdub.com/wp-content/uploads/2017/10/27042.jpg
+date=2018-06-15
+URL=http://s82181.vodstream.xyz/3678/027-hls/appid-27042/hls.m3u8?v=3
+
+
+
+
+
+
+
+
+
+type=video
+name=28xxxxxxxxxxxxxxxxxxxxSqte-170 An Awkwardness And A Beautiful Girl Remaining, Feeling Warmth Mr Kyun Sex
+thumb=http://javdub.com/wp-content/uploads/2017/06/24504.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5188/3678/020-hls/appid-24504/hls.m3u8
+
+type=video
+name=Sqte-166 A Favorite Girlfriend I Have To Gonzo Yuri Asada Mio Oshima Chihiro Tadakawa
+thumb=http://javdub.com/wp-content/uploads/2017/05/23012.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5184/3678/016-hls/appid-23012/hls.m3u8
+
+type=video
+name=Sqte-155 Sex Fall In Body Every Love
+thumb=http://javdub.com/wp-content/uploads/2017/04/21804.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_857033804481721_4622131121193222144_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=35ebd6d1fb34275a8348318497a2adcd&oe=5B2447E6&itag=22
+
+type=video
+name=Sqte-154 Girl Excessively Wet Embarrassing To
+thumb=http://javdub.com/wp-content/uploads/2017/04/21803.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5184/3678/013-hls/appid-21803/hls.m3u8
+
+type=video
+name=Sqte-196 Sex Circumstances Of Beautiful Girls Who Are Too Sensitive Beautiful Bodies
+thumb=http://javdub.com/wp-content/uploads/2018/01/29905.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5185/3674/039-hls/appid-29905/hls.m3u8
+
+
+type=video
+name=Sqte-197 Let Get Along Better With Her Funny Love Love Sex
+thumb=http://javdub.com/wp-content/uploads/2018/01/29906.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5185/3674/039-hls/appid-29906/hls.m3u8?v=3
+
+type=video
+name=Sqte-189 I Took A Girlfriend With A Horny Older Sister Lovely Love Affair With Just Two People Whose Beauties Are Becoming Aggressive And Sensitive
+thumb=http://javdub.com/wp-content/uploads/2018/01/29907.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5185/3674/039-hls/appid-29907/hls.m3u8
+
+type=video
+name=Sqte-193 Life-size Angel Supple And Fresh Beauty Elemental Sex
+thumb=http://javdub.com/wp-content/uploads/2018/01/28577.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5187/3674/033-hls/appid-28577/hls.m3u8
+
+type=video
+name=Sqte-190 S-cute Annual Sales Ranking 2017 Top 30
+thumb=http://javdub.com/wp-content/uploads/2017/12/28429.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5185/3674/032-hls/appid-28429/hls.m3u8
+
+type=video
+name=Sqte-191 She Is Pure And Too Sketchy Serious Sex Of Innocent Girls
+thumb=http://javdub.com/wp-content/uploads/2017/12/28215.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q583/3674/031-hls/appid-28215/hls.m3u8
+
+
+type=video
+name=Sqte 152 In Such A Beautiful Girl, Full Of A Sense Of Immorality When You Have Such A Thing
+thumb=http://javdub.com/wp-content/uploads/2017/05/22674.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q263/3675/027-hls/appid-22674/hls.m3u8
+
+type=video
+name=Sqte-136 Become Wet Because I Like Pounding Love Sex Of Shy Pretty
+thumb=http://javdub.com/wp-content/uploads/2017/06/24265.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q101/3675/031-hls/appid-24265/hls.m3u8
+
+type=video
+name=Sqte-156 Can Not Stop It Feels Good Dirty Little Lori Pretty
+thumb=http://javdub.com/wp-content/uploads/2017/04/21381.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q101/3678/012-hls/appid-21381/hls.m3u8?v=3
+
+type=video
+name=Sqte-169 S-cute Girls Ranking-2017 Top 10
+thumb=http://javdub.com/wp-content/uploads/2017/06/24503.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q585/3675/032-hls/appid-24503/hls.m3u8
+
+type=video
+name=Sqte-178 A Black Hairy Lolita Girl Sometimes Makes A Face Of An Adult
+thumb=http://javdub.com/wp-content/uploads/2017/08/25599.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q582/3674/025-hls/appid-25599/hls.m3u8
+
+
+
+
+
+
+
+
+
+type=video
+name=13xxxxxxxxxxxxxxxxxxxxSqte-172 Until Yesterday, He Was An Honor Student Clean And Nasty Uniform Etch
+thumb=http://javdub.com/wp-content/uploads/2017/07/24945.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q585/3675/033-hls/appid-24945/hls.m3u8
+
+type=video
+name=Sqte-143 Lewd Nowadays Beauty Of Sex Situation Looks Neat And Clean
+thumb=http://javdub.com/wp-content/uploads/2017/05/23729.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5184/3678/018-hls/appid-23729/hls.m3u8
+
+type=video
+name=Sqte-167 Sex Shame Of Naive Rorikko
+thumb=http://javdub.com/wp-content/uploads/2017/05/23013.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5184/3678/016-hls/appid-23013/hls.m3u8
+
+type=video
+name=Sqte-149 Beautiful People Of Boobs, Is It True That Naughty People Often
+thumb=http://javdub.com/wp-content/uploads/2017/05/22846.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q582/3675/028-hls/appid-22846/hls.m3u8
+
+type=video
+name=Sqte-150 Naive Passions Of Pure White Pretty
+thumb=http://javdub.com/wp-content/uploads/2017/05/22847.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q582/3675/028-hls/appid-22847/hls.m3u8
+
+
+type=video
+name=Sqte-157 I Love Sex Each Other Asked Gently
+thumb=http://javdub.com/wp-content/uploads/2017/04/21382.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q101/3678/012-hls/appid-21382/hls.m3u8
+
+type=video
+name=Sqte-158 Sex Circumstances Of Neat Beautiful Girl That Will Heal In Mind And Body
+thumb=http://javdub.com/wp-content/uploads/2017/04/20616.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5186/3678/010-hls/appid-20616/hls.m3u8
+
+type=video
+name=Sqte-161 Shy Pretty Sex Circumstances
+thumb=http://javdub.com/wp-content/uploads/2017/04/20520.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q582/3675/023-hls/appid-20520/hls.m3u8
+
+type=video
+name=Sqte-145 Today, I Will Be Honest With Horny Myself
+thumb=http://javdub.com/wp-content/uploads/2017/01/13407.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5179/3674/013-hls/appid-13407/hls.m3u8
+
+type=video
+name=Sqte-081 Erotic Too Girl038039s Body
+thumb=http://javdub.com/wp-content/uploads/2017/01/11725.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5181/3674/004-hls/appid-11725/hls.m3u8
+
+
+type=video
+name=Sqte-082 Really Is A Naughty Innocent Beautiful Girl
+thumb=http://javdub.com/wp-content/uploads/2017/01/11726.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5181/3674/004-hls/appid-11726/hls.m3u8
+
+type=video
+name=Sqte-151 S-cute Breasts Pretty Festival 8 Hours
+thumb=http://javdub.com/wp-content/uploads/2017/01/10303.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5182/3674/000-hls/appid-10303/hls.m3u8
+
+type=video
+name=SQTE-089 S-Cute Girl RANKINGS-2015 TOP10
+thumb=http://javdub.com/wp-content/uploads/2016/01/4394.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4394/hls.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=
+thumb=
+date=2018-06-15
+URL=
+
+type=video
+name=
+thumb=
+date=2018-06-15
+URL=
+
+type=video
+name=
+thumb=
+date=2018-06-15
+URL=
+
+type=video
+name=
+thumb=
+date=2018-06-15
+URL=
+
+type=video
+name=
+thumb=
+date=2018-06-15
+URL=
+
+type=video
+name=
+thumb=
+date=2018-06-15
+URL=
 
 
 

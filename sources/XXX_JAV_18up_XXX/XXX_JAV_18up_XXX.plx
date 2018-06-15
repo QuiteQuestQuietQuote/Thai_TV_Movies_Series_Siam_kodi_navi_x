@@ -145,10 +145,10 @@ player=default
 rating=-1.00
 
 type=playlist
-name=JAV_28_18up_UNCEN
-thumb=http://javsex.net/wp-content/uploads/2016/10/6370.jpg
-date=2017-10-16
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_28_18up_UNCEN.plx
+name=JAV_28_18up_Sqte
+thumb=http://javdub.com/wp-content/uploads/2017/06/24503.jpg
+date=2018-06-15
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_28_18up_Sqte.plx
 player=default
 rating=-1.00
 
