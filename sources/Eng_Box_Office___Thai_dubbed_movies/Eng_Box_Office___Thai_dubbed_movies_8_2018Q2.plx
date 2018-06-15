@@ -63,17 +63,20 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-06-14
+date=2018-06-15
 URL=
 
 
 
 
+
+
+
 type=video
-name=Escape Plan 2: Hades (2018) ENG DVDRip.XviD.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6aVHV5Id47dlaEro9DsijzStIU.jpg
-date=2018-06-14
-URL=https://openload.co/f/RgvZg78lvH8/Escape_Plan_2_Hades.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+name=Hereditary (2018) ENG HDCAM_ENG_x264-SugarTits_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GFPuL14eXi66V96xBWY73Y9PfR.jpg
+date=2018-06-15
+URL=https://openload.co/f/yo6qEXwj5Bs/Hereditary_2018_HDCAM_ENG_x264-SugarTits_SeeHD.mkv.mp4
 
 type=video
 name=Ocean's 8 (2018) ENG 720p_HD-TS_X264-CPG_SeeHD
@@ -169,14 +172,7 @@ URL=https://openload.co/f/1Vty-Ed3Gp0/Isle_of_Dogs_2018_720p_HDCAM_X264_HQMic-Su
 
 
 
-type=video
-name=Acrimony (2018) ENG 1080p_WEB-DL_DD5_1_H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QA8rjbMqPcJXdHWEZE4Nxvktgx.jpg
-date=2018-06-13
-URL=https://openload.co/f/INUV24xFaQA/Acrimony_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
-#https://openload.co/f/42Sfyana3Ew/Acrimony.2018.HDCAM.x264.ENG.MP3.LLG.mp4
-#https://openload.co/f/QD1fESnKSgA/Acrimony.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
-#https://openload.co/f/Ce7guXZgBS4/Acrimony.2018.HDCAM.x264-DiRG_SeeHD.mp4
+
 
 type=video
 name=Blockers (2018) ENG CAM.XViD-T3RR0R_SQU4D_SeeHD
@@ -1244,7 +1240,15 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Al0EdC3nOjIBmBnbJaHEGjJcZw
 date=2018-06-03
 URL=https://openload.co/f/6AIcof819U0/mobile.suit.gundam.the.origin.iv.2016.bdrip.x264-haiku.mkv.mp4
 
-
+type=video
+name=Acrimony (2018) ENG BRRip_Dunia21
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QA8rjbMqPcJXdHWEZE4Nxvktgx.jpg
+date=2018-06-15
+URL=https://openload.co/f/DgpYuIugP1E/Acrimony.2018.BRRip_Dunia21.mp4
+#https://openload.co/f/INUV24xFaQA/Acrimony_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+#https://openload.co/f/42Sfyana3Ew/Acrimony.2018.HDCAM.x264.ENG.MP3.LLG.mp4
+#https://openload.co/f/QD1fESnKSgA/Acrimony.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
+#https://openload.co/f/Ce7guXZgBS4/Acrimony.2018.HDCAM.x264-DiRG_SeeHD.mp4
 
 
 
@@ -1344,7 +1348,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-12
+date=2018-06-15
 URL=
 
 
@@ -1354,7 +1358,12 @@ URL=
 
 
 
-
+type=video
+name=Escape Plan 2: Hades (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6aVHV5Id47dlaEro9DsijzStIU.jpg
+date=2018-06-15
+URL=https://openload.co/f/dgJ5i3_FvZw/Escape_Plan_2_Hades_2018_1080p_BluRay_DTS-HD_x264-HDC.mkv.mp4
+#https://openload.co/f/RgvZg78lvH8/Escape_Plan_2_Hades.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 
 type=video
 name=Welcome to Willits (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4987,6 +4996,15 @@ URL=https://www.blazefile.co/embed-im416g3gy6u0.html
 #https://uptobox.com/gylb91ydvxzd
 #https://openload.co/embed/SsfsjOA_MfY/THEBOSSUMRATEDBD72.Ganool.im.mkv
 
+type=video
+name=Gemini (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GZ3d9aOf7Fwkma4B575F3ux8Vg.jpg
+date=2018-06-15
+URL=https://openload.co/f/kNQsigIq5KY/Gemini.2017.720p.BR_SeeHD.mp4
+
+
+
+
 
 
 
@@ -7422,6 +7440,30 @@ date=2018-06-14
 URL=https://openload.co/f/1Kf1W-WMFfs/Death_Wish_%282018%29%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B8%B6%E0%B8%94.mp4
 #https://streamango.com/f/osqbeaqeffctktas/Death_Wish_2018_
 #https://streamango.com/f/asrrkenbdmknakap/Death_Wish_2018_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#29---2018-06-15
 
 
 type=video
