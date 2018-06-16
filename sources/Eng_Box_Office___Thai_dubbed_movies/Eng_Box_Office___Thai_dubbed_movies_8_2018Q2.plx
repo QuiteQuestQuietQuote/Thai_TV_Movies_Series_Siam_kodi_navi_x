@@ -1218,12 +1218,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/85kxkK6dU2DudXWfaUhTLu3pvU
 date=2018-04-12
 URL=https://openload.co/f/UPi8CX1OeIw/Camera.Obscura.2017.BRRip.AC3.X264-CMRG.mkv.mp4
 
-type=video
-name=Dear Dictator (2018) ENG BDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5S2tktUi9AMfaH8YihmbnDUSjiU.jpg
-date=2018-04-17
-URL=https://openload.co/f/_fjOJlAT6Vw/Dear_Dictator_2018.BDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/A-lfM19zupk/Dear.Dictator.2018.720p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 type=video
 name=S.M.A.R.T. Chase (2017) ENG BDRip_Layar
@@ -1240,15 +1235,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Al0EdC3nOjIBmBnbJaHEGjJcZw
 date=2018-06-03
 URL=https://openload.co/f/6AIcof819U0/mobile.suit.gundam.the.origin.iv.2016.bdrip.x264-haiku.mkv.mp4
 
-type=video
-name=Acrimony (2018) ENG BRRip_Dunia21
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QA8rjbMqPcJXdHWEZE4Nxvktgx.jpg
-date=2018-06-15
-URL=https://openload.co/f/DgpYuIugP1E/Acrimony.2018.BRRip_Dunia21.mp4
-#https://openload.co/f/INUV24xFaQA/Acrimony_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
-#https://openload.co/f/42Sfyana3Ew/Acrimony.2018.HDCAM.x264.ENG.MP3.LLG.mp4
-#https://openload.co/f/QD1fESnKSgA/Acrimony.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
-#https://openload.co/f/Ce7guXZgBS4/Acrimony.2018.HDCAM.x264-DiRG_SeeHD.mp4
+
 
 
 
@@ -1348,7 +1335,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-15
+date=2018-06-16
 URL=
 
 
@@ -1356,7 +1343,25 @@ URL=
 
 
 
+type=video
+name=Dear Dictator (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5S2tktUi9AMfaH8YihmbnDUSjiU.jpg
+date=2018-06-16
+URL=https://openload.co/f/VvdxB_14HDs/Dear_Dictator_%282017%29_%5B1080p%5D_BluRay_x264-%5BYTS_AM%5D.mp4
+#https://openload.co/f/_fjOJlAT6Vw/Dear_Dictator_2018.BDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/A-lfM19zupk/Dear.Dictator.2018.720p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
+type=video
+name=Orange Fever (2018) [COLOR=FF00FF00]DUT BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAUPHokVY3kPaNudNeJQY5ghuks.jpg
+date=2018-06-16
+URL=https://openload.co/f/_xPc4AY1yJs/Gek_Van_Oranje_2018_1080p_BluRay_x264_BARGAiN.mkv.mp4
+
+type=video
+name=Ghostland (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tt9YSQlArAj6849SQQJ5ryNgcJs.jpg
+date=2018-06-15
+URL=https://openload.co/f/qr9AktDVjAA/Ghostland.2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
 
 type=video
 name=Escape Plan 2: Hades (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5002,16 +5007,29 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GZ3d9aOf7Fwkma4B575F3ux8V
 date=2018-06-15
 URL=https://openload.co/f/kNQsigIq5KY/Gemini.2017.720p.BR_SeeHD.mp4
 
+type=video
+name=Spinning Man (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvIIUOoY2PQRQ6syWchzkfNaXT1.jpg
+date=2018-06-16
+URL=https://openload.co/f/BACz7uqKXT8/Spinning.Man.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
-
-
+type=video
+name=Acrimony (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QA8rjbMqPcJXdHWEZE4Nxvktgx.jpg
+date=2018-06-16
+URL=https://openload.co/f/sggFOsfn0SE/Acrimony_%282018%29_%5B720p%5D_BluRay_x264-%5BYTS_AM%5D_mp4
+#https://openload.co/f/DgpYuIugP1E/Acrimony.2018.BRRip_Dunia21.mp4
+#https://openload.co/f/INUV24xFaQA/Acrimony_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+#https://openload.co/f/42Sfyana3Ew/Acrimony.2018.HDCAM.x264.ENG.MP3.LLG.mp4
+#https://openload.co/f/QD1fESnKSgA/Acrimony.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
+#https://openload.co/f/Ce7guXZgBS4/Acrimony.2018.HDCAM.x264-DiRG_SeeHD.mp4
 
 
 
 type=video
 name=
 thumb=
-date=2018-06-11
+date=2018-06-16
 URL=http://203.162.235.41:17819
 
 
@@ -5147,10 +5165,11 @@ URL=https://streamango.com/f/oesosocnaeooaame/Deadpool_2_2018_2_
 
 
 type=video
-name=Truth or Dare (2018) ENG HD-TS_X264-Mr.Hive_SeeHD
+name=Truth or Dare (2018) ENG 720p_WEB-DL_X264-CPG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdkNaQYZ7dhM80LsnAGKpH8ca2g.jpg
-date=2018-04-25
-URL=https://openload.co/f/gsGj_lpB0Ho/Truth_or_Dare_2018_HD-TS_X264-Mr.Hive_SeeHD.mkv.mp4
+date=2018-06-16
+URL=https://openload.co/f/XFi6Ch2wGl0/Truth_or_Dare_2018_720p_WEB-DL_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/gsGj_lpB0Ho/Truth_or_Dare_2018_HD-TS_X264-Mr.Hive_SeeHD.mkv.mp4
 type=video
 name=Truth or Dare (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdkNaQYZ7dhM80LsnAGKpH8ca2g.jpg
