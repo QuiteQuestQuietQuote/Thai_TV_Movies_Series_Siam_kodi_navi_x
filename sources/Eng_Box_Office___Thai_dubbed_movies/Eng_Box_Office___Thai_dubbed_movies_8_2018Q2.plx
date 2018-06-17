@@ -63,7 +63,7 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-06-15
+date=2018-06-17
 URL=
 
 
@@ -71,6 +71,21 @@ URL=
 
 
 
+
+
+
+type=video
+name=Incredibles 2 (2018) ENG 720p.TS.Eng.E
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL9Uz2vq93vi20oxZEBBaSs4w8U.jpg
+date=2018-06-17
+URL=https://openload.co/f/4SFCu-hB8m0/Incredibles.2.2018.720p.TS.Eng.E.mp4
+#https://openload.co/f/mUN8MVzw2d8/The_Incredibles_2_2018_NEW_HDCAM_X264-CPG_SeeHD.mkv.mp4
+
+type=video
+name=I Feel Pretty (2018) ENG HDCAM_ENG_X264-SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZe6x2fKtwVDsAvZQ9fnIJznBrc.jpg
+date=2018-06-17
+URL=https://openload.co/f/VSa6I5VbpSw/I_Feel_Pretty_2018_HDCAM_ENG_X264-SeeHD.mkv.mp4
 
 type=video
 name=Hereditary (2018) ENG HDCAM_ENG_x264-SugarTits_SeeHD
@@ -1335,13 +1350,34 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-16
+date=2018-06-17
 URL=
 
 
 
 
 
+
+
+
+
+type=video
+name=Attack Of The Southern Fried Zombies (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r05Mh8KW1BIPdbV1ayRectn4eZC.jpg
+date=2018-06-17
+URL=https://www.blazefile.co/embed-2m4b5es8g9ea.html
+#https://uptobox.com/h8d58xtcda6r
+#https://openload.co/embed/qrhTk0-DR44/ATTACKOFTHESOUTHERNZOMBIES80.Ganool.im.mkv
+#https://www.blazefile.co/embed-oq2o2ozjaeo8.html   720
+#https://uptobox.com/d99yq7w92rbc   720
+#https://openload.co/embed/VMBICZoGSJ4/ATTACKSOUHERNZOMBIESBD72.Ganool.im.rar
+
+type=video
+name=Gemini (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GZ3d9aOf7Fwkma4B575F3ux8Vg.jpg
+date=2018-06-17
+URL=https://openload.co/f/Syndc-a6TGI/Gemini.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/kNQsigIq5KY/Gemini.2017.720p.BR_SeeHD.mp4
 
 type=video
 name=Dear Dictator (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1362,6 +1398,9 @@ name=Ghostland (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tt9YSQlArAj6849SQQJ5ryNgcJs.jpg
 date=2018-06-15
 URL=https://openload.co/f/qr9AktDVjAA/Ghostland.2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://www.blazefile.co/embed-1cftumt6xcut.html   720
+#https://uptobox.com/amf1be2dou4y   720
+#https://openload.co/embed/NgAi3WtPCkM/SHQGHOSTLANDBD72.Ganool.im.mkv.mp4
 
 type=video
 name=Escape Plan 2: Hades (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1369,6 +1408,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6aVHV5Id47dlaEro9DsijzStI
 date=2018-06-15
 URL=https://openload.co/f/dgJ5i3_FvZw/Escape_Plan_2_Hades_2018_1080p_BluRay_DTS-HD_x264-HDC.mkv.mp4
 #https://openload.co/f/RgvZg78lvH8/Escape_Plan_2_Hades.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://www.blazefile.co/embed-6lhbd1gqm3lh.html   720
+#https://uptobox.com/jyi5m09bldhr   720
+#https://openload.co/embed/DAzFc7hD2d8/SHQESCAPEPAN2BD72.Ganoo.im.mkv.mp4
 
 type=video
 name=Welcome to Willits (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3229,10 +3271,13 @@ URL=https://openload.co/f/-GDTCeNjhLE/Smartass_%282017%29_%5B1080p%5D_BluRay_x26
 type=video
 name=Loveless (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/myFTOsVDxu5sAWcw8hr0LlxBLnq.jpg
-date=2018-02-08
+date=2018-06-17
 URL=https://openload.co/f/Iodnox4rkIs/Loveless.%5BNelyubov%5D.2017.ORIGINAL.1080p.BRRip.x264.AC3.HORiZON-ArtSubs.mkv.mp4
 #https://openload.co/f/ju0ziz2gjOg/Loveless_2017_MULTi_1080p_BRRip_x264_AAC_-_Hon3y.mkv.mp4
 #https://openload.co/f/2jwO2iG5GgQ/Loveless.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://www.blazefile.co/embed-wl01n0kn6oms.html   720
+#https://uptobox.com/mreuu6qq06k2   720
+#https://openload.co/embed/dfk8DhxU-Xc/SHQLOVEVLESSBD72.Ganool.im.mkv.mp4
 
 type=video
 name=Mathilde (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
@@ -4959,13 +5004,7 @@ URL=https://openload.co/f/XyRXjDIGbFY/The.Lodgers.2017.720p.BR_SeeHD.mp4
 
 
 
-type=video
-name=Attack Of The Southern Fried Zombies (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r05Mh8KW1BIPdbV1ayRectn4eZC.jpg
-date=2018-06-04
-URL=https://www.blazefile.co/embed-oq2o2ozjaeo8.html
-#https://uptobox.com/d99yq7w92rbc
-#https://openload.co/embed/VMBICZoGSJ4/ATTACKSOUHERNZOMBIESBD72.Ganool.im.rar
+
 
 
 
@@ -5001,11 +5040,7 @@ URL=https://www.blazefile.co/embed-im416g3gy6u0.html
 #https://uptobox.com/gylb91ydvxzd
 #https://openload.co/embed/SsfsjOA_MfY/THEBOSSUMRATEDBD72.Ganool.im.mkv
 
-type=video
-name=Gemini (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GZ3d9aOf7Fwkma4B575F3ux8Vg.jpg
-date=2018-06-15
-URL=https://openload.co/f/kNQsigIq5KY/Gemini.2017.720p.BR_SeeHD.mp4
+
 
 type=video
 name=Spinning Man (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5016,20 +5051,31 @@ URL=https://openload.co/f/BACz7uqKXT8/Spinning.Man.2018.720p.BluRay.H264.AAC-RAR
 type=video
 name=Acrimony (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QA8rjbMqPcJXdHWEZE4Nxvktgx.jpg
-date=2018-06-16
-URL=https://openload.co/f/sggFOsfn0SE/Acrimony_%282018%29_%5B720p%5D_BluRay_x264-%5BYTS_AM%5D_mp4
+date=2018-06-17
+URL=https://www.blazefile.co/embed-3z695hphrulb.html
+#https://uptobox.com/mh2tjkiko8zx
+#https://openload.co/embed/euqReOAmnrM/SHQACRIMONYBD72.Ganool.im.mkv
+#https://openload.co/f/sggFOsfn0SE/Acrimony_%282018%29_%5B720p%5D_BluRay_x264-%5BYTS_AM%5D_mp4
 #https://openload.co/f/DgpYuIugP1E/Acrimony.2018.BRRip_Dunia21.mp4
 #https://openload.co/f/INUV24xFaQA/Acrimony_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
 #https://openload.co/f/42Sfyana3Ew/Acrimony.2018.HDCAM.x264.ENG.MP3.LLG.mp4
 #https://openload.co/f/QD1fESnKSgA/Acrimony.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
 #https://openload.co/f/Ce7guXZgBS4/Acrimony.2018.HDCAM.x264-DiRG_SeeHD.mp4
 
+type=video
+name=Tamako Love Story (2014) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM0F1akfdDpbOpih8uIM1qvr2rl.jpg
+date=2018-06-17
+URL=https://openload.co/f/GXVcA2IYGR8/tamako.love.story.2014.720p.bluray.x264-haiku.mkv.mp4
+
+
+
 
 
 type=video
 name=
 thumb=
-date=2018-06-16
+date=2018-06-17
 URL=http://203.162.235.41:17819
 
 
@@ -8240,13 +8286,18 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-14
+date=2018-06-17
 URL=
 
 
 
 
 
+type=video
+name=The Incredibles (2004) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpfXWoyjdRlPkpJqxVNorH3VeU5.jpg
+date=2018-06-17
+URL=https://openload.co/f/2Nv5KBpjopI/The.Incredibles.2004.1080p.BR_SeeHD.mp4
 
 type=video
 name=Escape Plan (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
