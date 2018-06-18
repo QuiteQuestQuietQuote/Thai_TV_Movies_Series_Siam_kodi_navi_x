@@ -62,9 +62,9 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 
 type=video
 name=
-thumb=
-date=2018-06-17
-URL=
+thumb=https://cdn.mcloud.to/stream/sf:i0:q2:h4:p26:l1/nn3Jw1JlqBHRBw14VQYKiA/1529427600/h/4/6/6vj5m9/preview.jpg
+date=2018-06-18
+URL=https://cdn.mcloud.to/stream/sf:i0:q2:h4:p26:l1/nn3Jw1JlqBHRBw14VQYKiA/1529427600/h/4/6/6vj5m9/list.m3u8
 
 
 
@@ -75,10 +75,11 @@ URL=
 
 
 type=video
-name=Incredibles 2 (2018) ENG 720p.TS.Eng.E
+name=Incredibles 2 (2018) ENG 720p.HDCAM.NO.LOGO.X264.AC3.Fugitive
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL9Uz2vq93vi20oxZEBBaSs4w8U.jpg
-date=2018-06-17
-URL=https://openload.co/f/4SFCu-hB8m0/Incredibles.2.2018.720p.TS.Eng.E.mp4
+date=2018-06-18
+URL=https://openload.co/f/-TddfwsIN90/Incredibles.2.2018.New.720p.HDCAM.NO.LOGO.X264.AC3.Fugitive.mkv.mp4
+#https://openload.co/f/4SFCu-hB8m0/Incredibles.2.2018.720p.TS.Eng.E.mp4
 #https://openload.co/f/mUN8MVzw2d8/The_Incredibles_2_2018_NEW_HDCAM_X264-CPG_SeeHD.mkv.mp4
 
 type=video
@@ -93,15 +94,13 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GFPuL14eXi66V96xBWY73Y9Pf
 date=2018-06-15
 URL=https://openload.co/f/yo6qEXwj5Bs/Hereditary_2018_HDCAM_ENG_x264-SugarTits_SeeHD.mkv.mp4
 
+
+
 type=video
-name=Ocean's 8 (2018) ENG 720p_HD-TS_X264-CPG_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7caaqQjTkovwoZsEOPzgHvkzOWB.jpg
-date=2018-06-08
-URL=https://openload.co/f/jils94FsuGM/Oceans_8_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/egvFlNBBxlw/Oceans.8.2018.CAM.X264-IPT_SeeHD.mkv.mp4
-#https://openload.co/f/HNqXzm647eA/Oceans_8_2018_CAM_X264-CaixistaEstupido.mkv.mp4
-
-
+name=Life of the Party (2018) ENG HDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2S4p7mRt0iyClSLSldfjzdYSIp.jpg
+date=2018-06-18
+URL=https://openload.co/f/mgQzXoUtdE4/Life.of.the.Party.2018.HDRip.XviD.AC3-EVO.avi.mp4
 
 
 type=video
@@ -1378,6 +1377,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GZ3d9aOf7Fwkma4B575F3ux8V
 date=2018-06-17
 URL=https://openload.co/f/Syndc-a6TGI/Gemini.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/kNQsigIq5KY/Gemini.2017.720p.BR_SeeHD.mp4
+#https://www.blazefile.co/embed-7gvng9hii9gz.html   720
+#https://uptobox.com/qqg2qhdhwnyq   720
+#https://openload.co/embed/6AEB3nd_IY8/GEMINIBD72.Ganool.im.mkv.mp4
 
 type=video
 name=Dear Dictator (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1396,8 +1398,11 @@ URL=https://openload.co/f/_xPc4AY1yJs/Gek_Van_Oranje_2018_1080p_BluRay_x264_BARG
 type=video
 name=Ghostland (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tt9YSQlArAj6849SQQJ5ryNgcJs.jpg
-date=2018-06-15
-URL=https://openload.co/f/qr9AktDVjAA/Ghostland.2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
+date=2018-06-18
+URL=https://www.blazefile.co/embed-viaragx00usc.html
+#https://uptobox.com/a20q19wewthc
+#https://openload.co/embed/lZG2WbgHnZk/GHPGHOSTLAND80.Ganool.im.mkv
+#https://openload.co/f/qr9AktDVjAA/Ghostland.2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
 #https://www.blazefile.co/embed-1cftumt6xcut.html   720
 #https://uptobox.com/amf1be2dou4y   720
 #https://openload.co/embed/NgAi3WtPCkM/SHQGHOSTLANDBD72.Ganool.im.mkv.mp4
@@ -5146,6 +5151,19 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+type=video
+name=Ocean's 8 (2018) ENG 720p_HD-TS_X264-CPG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7caaqQjTkovwoZsEOPzgHvkzOWB.jpg
+date=2018-06-08
+URL=https://openload.co/f/jils94FsuGM/Oceans_8_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/egvFlNBBxlw/Oceans.8.2018.CAM.X264-IPT_SeeHD.mkv.mp4
+#https://openload.co/f/HNqXzm647eA/Oceans_8_2018_CAM_X264-CaixistaEstupido.mkv.mp4
+type=video
+name=Ocean's 8 (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7caaqQjTkovwoZsEOPzgHvkzOWB.jpg
+date=2018-06-18
+URL=https://streamango.com/f/adlroqadtdnccsqt/Ocean_s_8_2018_8_
+
 
 type=video
 name=Taxi 5 (2018) FRE DVDscr.AC3.XViDHDMovie8
@@ -5251,10 +5269,13 @@ URL=https://streamango.com/f/oambadpfmeebrtfa/Avengers_Infinity_War_2018_
 
 
 type=video
-name=Rampage (2018) ENG NEW_HD-TS_X264-24HD_SeeHD
+name=Rampage (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
-date=2018-06-08
-URL=https://openload.co/f/gehks6MqcEk/Rampage_2018_NEW_HD-TS_X264-24HD_SeeHD.mkv.mp4
+date=2018-06-18
+URL=https://openload.co/f/4150OhiKueU/Rampage.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/GO9hC3gl0eg/Rampage.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/2h_aRfMez0M/Rampage.2018.web.h264-webtiful.mkv.mp4
+#https://openload.co/f/gehks6MqcEk/Rampage_2018_NEW_HD-TS_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/8o7817XOc8Q/Rampage_2018_NEW_SOURCE_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
 #https://openload.co/f/O23sDjSCQ6s/Rampage_2018_720p_NEW_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/Wrft5d0xj6A/Rampage.2018.HDCAM.x264.AC3-TEAM69.mkv.mp4
@@ -6758,13 +6779,20 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-14
+date=2018-06-18
 URL=
 
 
 
 
 
+
+
+type=video
+name=Operation Red Sea (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbT5k8TcTDGVFxZbnc5FSGFTqeH.jpg
+date=2018-06-18
+URL=https://streamango.com/f/rcnscffcdpdcsksc/Operation_Red_Sea_2018_
 
 
 type=video
@@ -6896,10 +6924,13 @@ URL=https://streamango.com/f/cdmbdodclftcmmrt/A_Quiet_Place_2018_
 
 
 type=video
-name=Ready Player One (2018) ENG 720pHD_SeeHD
+name=Ready Player One (2018) ENG 1080p.HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
-date=2018-05-09
-URL=https://openload.co/f/N3iQ8KqoAF4/Ready.Player.One.2018.720pHD_SeeHD.mp4
+date=2018-06-18
+URL=https://openload.co/f/w-TCB-bCsyU/Ready_Player_One.2018.1080p.HD_SeeHD.mkv.mp4
+#https://openload.co/f/3e55S2fuMBQ/ready.player.one.2018.1080p.web.h264-webtiful.mkv.mp4
+#https://openload.co/f/Tp0UYjLFRcc/Ready_Player_One.2018.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/N3iQ8KqoAF4/Ready.Player.One.2018.720pHD_SeeHD.mp4
 #https://openload.co/f/snEgxGoX-wU/Ready.Player.One.2018.V3.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/T79bHA3wYhA/Ready.Player.One.2018.720p.KOR.HDRip.AAC-PCHD_SeeHD.mp4
 #https://openload.co/f/iZ_0NyaqkgI/Ready.Player.One.2018.V3.720p.HC.HDRip.X264.AC3-EVO.mkv   MKV2.6GB
@@ -8286,12 +8317,26 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-17
+date=2018-06-18
 URL=
 
 
 
 
+
+
+
+type=video
+name=DodgeBall: A True Underdog Story (2004) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgTJCyuZSJJt9LatGHolpCpqg1m.jpg
+date=2018-06-18
+URL=https://openload.co/f/QiyXuyZy91M/Dodgeball.A.True.Underdog.Story.2004.1080p.BrRip.x264.E.mp4
+
+type=video
+name=X-Men: Apocalypse (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSouWWrySXshPCT4t3UKCQGayyo.jpg
+date=2018-06-18
+URL=https://openload.co/f/zClUBjT0dmc/X_Men.Apocalypse.2016.1080p.BluRay.H264.AAC_RARBG.mp4
 
 type=video
 name=The Incredibles (2004) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
