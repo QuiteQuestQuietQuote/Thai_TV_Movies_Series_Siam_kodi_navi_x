@@ -97,10 +97,11 @@ URL=https://openload.co/f/yo6qEXwj5Bs/Hereditary_2018_HDCAM_ENG_x264-SugarTits_S
 
 
 type=video
-name=Life of the Party (2018) ENG HDRip.XviD.AC3-EVO
+name=Life of the Party (2018) ENG 720p.WEB-DL.H264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2S4p7mRt0iyClSLSldfjzdYSIp.jpg
-date=2018-06-18
-URL=https://openload.co/f/mgQzXoUtdE4/Life.of.the.Party.2018.HDRip.XviD.AC3-EVO.avi.mp4
+date=2018-06-19
+URL=https://openload.co/f/HBmFdZvnBYA/Life_of_the_Party.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/mgQzXoUtdE4/Life.of.the.Party.2018.HDRip.XviD.AC3-EVO.avi.mp4
 
 
 type=video
@@ -176,10 +177,11 @@ URL=https://openload.co/f/BLFPcnQ94OM/Terminal.2018.1080p.WEB-DL.DD5.1.H264-CMRG
 #https://openload.co/f/p2adG9K9gnQ/Terminal_2018_720pHD_SeeHD.mkv.mp4
 
 type=video
-name=Isle of Dogs (2018) ENG 720p_HDCAM_X264_HQMic-SugarTits_SeeHD
+name=Isle of Dogs (2018) ENG 1080p.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
-date=2018-05-09
-URL=https://openload.co/f/1Vty-Ed3Gp0/Isle_of_Dogs_2018_720p_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
+date=2018-06-19
+URL=https://openload.co/f/ZbyRG1ryFsI/Isle.of.Dogs.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/1Vty-Ed3Gp0/Isle_of_Dogs_2018_720p_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
 
 
 
@@ -189,10 +191,13 @@ URL=https://openload.co/f/1Vty-Ed3Gp0/Isle_of_Dogs_2018_720p_HDCAM_X264_HQMic-Su
 
 
 type=video
-name=Blockers (2018) ENG CAM.XViD-T3RR0R_SQU4D_SeeHD
+name=Blockers (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qKMYfiJTcUQbuBl82yxrmLSCX5.jpg
-date=2018-04-17
-URL=https://openload.co/f/YVmsPcZ37Qc/Blockers.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
+date=2018-06-19
+URL=https://openload.co/f/UulMW6Gpmsw/Blockers.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/_KdQ6h2tcuY/Blockers.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/ldRfsfT-Q7Q/Blockers_2018_720p_WEB-DL_X264_AC3-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/YVmsPcZ37Qc/Blockers.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
 
 
 
@@ -1349,7 +1354,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-17
+date=2018-06-19
 URL=
 
 
@@ -1359,6 +1364,22 @@ URL=
 
 
 
+type=video
+name=The Lodgers (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPePnxBFnlcfAMtxZdZNkLnOkqJ.jpg
+date=2018-06-19
+URL=https://www.blazefile.co/embed-kf5tkdz4aaju.html
+#https://uptobox.com/kz4v1acefgqg
+#https://openload.co/embed/n7T9u2DqH0s/THELODGERS80.Ganool.im.mkv
+#https://openload.co/f/XyRXjDIGbFY/The.Lodgers.2017.720p.BR_SeeHD.mp4
+#https://openload.co/embed/10cxU3USSJE/THELODGERSBD72.Ganool.im.mkv.mp4
+#https://openload.co/f/eWQIr3XNM5w/The_Lodgers_2017_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
+
+type=video
+name=Alien Invasion: S.U.M.1 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/seQLYvclDfR4UDfqGFDQWdbAy9M.jpg
+date=2018-06-19
+URL=https://openload.co/f/B68nfRGNjNo/alien.invasion.s.u.m.1.2017.1080p.dubbed.bluray.x264-getit.mkv.mp4
 
 type=video
 name=Attack Of The Southern Fried Zombies (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1410,8 +1431,11 @@ URL=https://www.blazefile.co/embed-viaragx00usc.html
 type=video
 name=Escape Plan 2: Hades (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6aVHV5Id47dlaEro9DsijzStIU.jpg
-date=2018-06-15
-URL=https://openload.co/f/dgJ5i3_FvZw/Escape_Plan_2_Hades_2018_1080p_BluRay_DTS-HD_x264-HDC.mkv.mp4
+date=2018-06-19
+URL=https://www.blazefile.co/embed-uq6ym96ywl95.html
+#https://uptobox.com/kfhcg596l2du
+#https://openload.co/embed/sQoyFXluybk/GHPESCPEPLAN280.Ganool.im.mkv
+#https://openload.co/f/dgJ5i3_FvZw/Escape_Plan_2_Hades_2018_1080p_BluRay_DTS-HD_x264-HDC.mkv.mp4
 #https://openload.co/f/RgvZg78lvH8/Escape_Plan_2_Hades.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://www.blazefile.co/embed-6lhbd1gqm3lh.html   720
 #https://uptobox.com/jyi5m09bldhr   720
@@ -1617,6 +1641,9 @@ name=Tango one (2018) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oGrSyAdjQalDjiIEHWFHAn02I5.jpg
 date=2018-05-28
 URL=https://openload.co/f/uR_MLGb5HeY/Tango.One.2018.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+#https://www.blazefile.co/embed-on97ep5ywvz4.html   720
+#https://uptobox.com/wovhh2s61epq    720
+#https://openload.co/embed/onEdxarFOzY/TAGONEBD72.Ganool.im.mkv.mp4
 
 type=video
 name=Godless Youth (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
@@ -1912,19 +1939,7 @@ URL=https://openload.co/f/yeSiQQuwQTc/Birdboy.The.Forgotten.Children.BR_SeeHD.mp
 
 
 
-type=video
-name=Game Night (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wS89vns6cseCn4UHSqj97xKEKW.jpg
-date=2018-05-10
-URL=https://www.blazefile.co/embed-kxr6e4z5u30w.html
-#http://uptobox.com/3tni2takejd7
-#https://openload.co/f/wjOete6pKGk/Game.Night.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/7l9JGfyc6_I/Game.Night.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/YfBPs-VgpuE/Game.Night.2018.720p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/IfaS_y8QGd4/Game.Night.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/xLjBXQxsf4w/Game_Night_2018_720p_WEB-DL_X264_6CH_HQ-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/rIi1LPjfr8w/Game_Night_2018_HDCAM_ENG_X264-SeeHD.mkv.mp4
-#https://openload.co/f/wBgkr8Vnb4s/Game.Night.2018.HDCAM.X264-PilaRosa.mkv.mp4
+
 
 type=video
 name=Bent (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2328,20 +2343,6 @@ URL=https://openload.co/f/9GNqaCGrRP8/faces.places.2017.limited.1080p.bluray.x26
 
 
 
-type=video
-name=The Post (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5765ORvdKVX5bWmhEjjiOqLk3TH.jpg
-date=2018-04-03
-URL=https://www.blazefile.co/embed-95qzary7bv5p.html
-#https://uptobox.com/nh20a9rx9fgl
-#https://openload.co/f/ObWczjk3m1E/The.Post.2017.1080p.BR_SeeHD.mp4
-#https://openload.co/f/EFWlta82oYw/the.post.2017.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/tSApkpRG2PE/the.post.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/uiHorXBPdL0/The.Post.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
-#https://openload.co/f/vPOCXYjcMkI/The.Post.2017.TS.XViD-BL4CKP34RL.avi.mp4
-#https://openload.co/f/PZaWx9Hi3ZY/The.Post.2017.HDCAM.x264-DiRG.mp4
-#https://openload.co/f/_PnkG7ex6Ek/The_Post.HDCAM_SeeHD.mp4
-#https://openload.co/f/l55OhzL6WjA/The_Post_2017_ENG_HDCAM-X264-Zi%24t.mkv.mp4
 
 
 
@@ -4999,13 +5000,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ucsLiXa9NHjlrwKMtI9ZgvJTQ
 date=2018-06-02
 URL=https://openload.co/f/efb2XVj9NkI/Downrange_2017_BRRip_720p_AC3_X264-CMRG.mkv.mp4
 
-type=video
-name=The Lodgers (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPePnxBFnlcfAMtxZdZNkLnOkqJ.jpg
-date=2018-06-03
-URL=https://openload.co/f/XyRXjDIGbFY/The.Lodgers.2017.720p.BR_SeeHD.mp4
-#https://openload.co/embed/10cxU3USSJE/THELODGERSBD72.Ganool.im.mkv.mp4
-#https://openload.co/f/eWQIr3XNM5w/The_Lodgers_2017_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
+
 
 
 
@@ -5073,6 +5068,26 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM0F1akfdDpbOpih8uIM1qvr2r
 date=2018-06-17
 URL=https://openload.co/f/GXVcA2IYGR8/tamako.love.story.2014.720p.bluray.x264-haiku.mkv.mp4
 
+type=video
+name=The Escape of Prisoner 614 (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2zDJe9MaBW7XYjRdbYNlIqRNvZ.jpg
+date=2018-06-19
+URL=https://www.blazefile.co/embed-syfwi6sp6brf.html
+#https://uptobox.com/3lhijr97trpc
+#https://openload.co/embed/_qAi2dejj4M/THEESACPEPRISONER614BD72.Ganool.im.mkv.mp4
+
+type=video
+name=Destiny: The Tale of Kamakura (2017) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/drKHW08lJ8TWneoAz97TesDmIgN.jpg
+date=2018-06-19
+URL=https://www.blazefile.co/embed-68nphjy36cwm.html
+#https://uptobox.com/w8srot13i81f
+#https://openload.co/embed/w2_JkgLYAds/Destiny.The.Tale.of.Kamakura.2017.BluRay.720p.900MB.Ganool.im.mkv
+
+
+
+
+
 
 
 
@@ -5080,7 +5095,7 @@ URL=https://openload.co/f/GXVcA2IYGR8/tamako.love.story.2014.720p.bluray.x264-ha
 type=video
 name=
 thumb=
-date=2018-06-17
+date=2018-06-19
 URL=http://203.162.235.41:17819
 
 
@@ -5268,24 +5283,7 @@ URL=https://streamango.com/f/oambadpfmeebrtfa/Avengers_Infinity_War_2018_
 #https://streamango.com/f/cserlqmnldfqfoal/Avengers_Infinity_War_2018_
 
 
-type=video
-name=Rampage (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
-date=2018-06-18
-URL=https://openload.co/f/4150OhiKueU/Rampage.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/GO9hC3gl0eg/Rampage.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/2h_aRfMez0M/Rampage.2018.web.h264-webtiful.mkv.mp4
-#https://openload.co/f/gehks6MqcEk/Rampage_2018_NEW_HD-TS_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/8o7817XOc8Q/Rampage_2018_NEW_SOURCE_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
-#https://openload.co/f/O23sDjSCQ6s/Rampage_2018_720p_NEW_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/Wrft5d0xj6A/Rampage.2018.HDCAM.x264.AC3-TEAM69.mkv.mp4
-#https://openload.co/f/D2aEsbX76bg/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv.mp4
-#https://openload.co/f/J2dDGP5-huM/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv   MKV3.0GB
-type=video
-name=Rampage (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
-date=2018-04-21
-URL=https://streamango.com/f/acdstsasqbdafaef/Rampage_2018_
+
 
 
 
@@ -5358,6 +5356,14 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 
 
 
+type=video
+name=
+thumb=
+date=2018-06-19
+URL=
+
+
+
 
 
 
@@ -5370,13 +5376,56 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 
 
 type=video
-name=
-thumb=
-date=2018-06-01
-URL=
+name=The Post (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5765ORvdKVX5bWmhEjjiOqLk3TH.jpg
+date=2018-04-03
+URL=https://www.blazefile.co/embed-95qzary7bv5p.html
+#https://uptobox.com/nh20a9rx9fgl
+#https://openload.co/f/ObWczjk3m1E/The.Post.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/EFWlta82oYw/the.post.2017.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/tSApkpRG2PE/the.post.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/uiHorXBPdL0/The.Post.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/vPOCXYjcMkI/The.Post.2017.TS.XViD-BL4CKP34RL.avi.mp4
+#https://openload.co/f/PZaWx9Hi3ZY/The.Post.2017.HDCAM.x264-DiRG.mp4
+#https://openload.co/f/_PnkG7ex6Ek/The_Post.HDCAM_SeeHD.mp4
+#https://openload.co/f/l55OhzL6WjA/The_Post_2017_ENG_HDCAM-X264-Zi%24t.mkv.mp4
+type=video
+name=The Post (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5765ORvdKVX5bWmhEjjiOqLk3TH.jpg
+date=2018-06-19
+URL=https://streamango.com/f/emcbcnckcmnamkla/The_Post_2017_
 
 
+type=video
+name=Set It Up (2018) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/XF5jV0UxKnYNPAimem0hbwPfCR.jpg
+date=2018-06-19
+URL=https://openload.co/f/PFj6KX0aBq8/Set_It_Up.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG_SeeHD.mkv.mp4
+type=video
+name=Set It Up (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/XF5jV0UxKnYNPAimem0hbwPfCR.jpg
+date=2018-06-19
+URL=https://streamango.com/f/kembapqooarmdkmc/Set_It_Up_2018_
 
+
+type=video
+name=Game Night (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wS89vns6cseCn4UHSqj97xKEKW.jpg
+date=2018-05-10
+URL=https://www.blazefile.co/embed-kxr6e4z5u30w.html
+#http://uptobox.com/3tni2takejd7
+#https://openload.co/f/wjOete6pKGk/Game.Night.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/7l9JGfyc6_I/Game.Night.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/YfBPs-VgpuE/Game.Night.2018.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/IfaS_y8QGd4/Game.Night.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/xLjBXQxsf4w/Game_Night_2018_720p_WEB-DL_X264_6CH_HQ-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/rIi1LPjfr8w/Game_Night_2018_HDCAM_ENG_X264-SeeHD.mkv.mp4
+#https://openload.co/f/wBgkr8Vnb4s/Game.Night.2018.HDCAM.X264-PilaRosa.mkv.mp4
+type=video
+name=Game Night (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wS89vns6cseCn4UHSqj97xKEKW.jpg
+date=2018-06-19
+URL=https://streamango.com/f/krdmtplcpfdfrskn/Game_Night_2018_Game_Night_2018_
 
 
 type=video
@@ -5517,7 +5566,7 @@ URL=https://www.blazefile.co/embed-obp2z2dqhicb.html
 #https://openload.co/f/mj8457obiCg/Pitch.Perfect.3.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/gh2OyXp0iSQ/Pitch.Perfect.3.2017.1080pWEB-DL_SeeHD.mkv.mp4
 #https://openload.co/f/qxnjwUmlZW8/Pitch.Perfect.3.2017.HD720PHD_SeeHD.mp4
-#https://openload.co/f/ulAN5swR5RA/Pitch.Perfect.3.2017.HDCAM.MP4.mp4
+#https://openload.co/f/ulAN5swR5RA/Pitch.Perfect.3.2017.HDCAM.MP4.mp
 type=video
 name=Pitch Perfect 3 (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg
@@ -5531,6 +5580,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCH6FOFsDW6pfvbbmIIswuvuNt
 date=2018-03-05
 URL=https://www.blazefile.co/embed-xiug1oas0f7z.html
 #https://uptobox.com/q2g6l0q8rapq
+#https://openload.co/f/VYjhPzUz16o/The.Disaster.Artist.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/lAIVogIVfa4/the.disaster.artist.2017.1080p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/HTbekZAzgj8/the.disaster.artist.2017.1080p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/VYjhPzUz16o/The.Disaster.Artist.2017.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
@@ -6789,6 +6839,27 @@ URL=
 
 
 type=video
+name=Rampage (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
+date=2018-06-18
+URL=https://openload.co/f/4150OhiKueU/Rampage.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/GO9hC3gl0eg/Rampage.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/2h_aRfMez0M/Rampage.2018.web.h264-webtiful.mkv.mp4
+#https://openload.co/f/gehks6MqcEk/Rampage_2018_NEW_HD-TS_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/8o7817XOc8Q/Rampage_2018_NEW_SOURCE_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
+#https://openload.co/f/O23sDjSCQ6s/Rampage_2018_720p_NEW_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/Wrft5d0xj6A/Rampage.2018.HDCAM.x264.AC3-TEAM69.mkv.mp4
+#https://openload.co/f/D2aEsbX76bg/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv.mp4
+#https://openload.co/f/J2dDGP5-huM/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv   MKV3.0GB
+type=video
+name=Rampage (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
+date=2018-06-19
+URL=https://streamango.com/f/plcqkotmffbfsntp/Rampage_2018_
+#https://streamango.com/f/acdstsasqbdafaef/Rampage_2018_
+
+
+type=video
 name=Operation Red Sea (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbT5k8TcTDGVFxZbnc5FSGFTqeH.jpg
 date=2018-06-18
@@ -7473,7 +7544,7 @@ URL=http://bjdobr14.s.llnwi.net/v1/3979/T11/13/Murder%20on%20the%20Orient%20Expr
 type=video
 name=
 thumb=
-date=2018-02-25
+date=2018-06-19
 URL=
 
 type=video
@@ -7485,6 +7556,27 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Wonder Woman (2009) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0YlQIDuWBX0cgkoWIFtPHcgg66.jpg
+date=2018-06-19
+URL=https://openload.co/f/ArTJc5WR9vY/Wonder_Woman_%282009%29%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%A7%E0%B8%B9%E0%B9%81%E0%B8%A1%E0%B8%99%3A_%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B3%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C.mp4
 
 
 type=video
