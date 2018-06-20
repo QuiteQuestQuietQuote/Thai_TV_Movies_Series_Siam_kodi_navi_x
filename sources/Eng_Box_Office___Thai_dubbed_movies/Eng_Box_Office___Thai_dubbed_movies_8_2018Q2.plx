@@ -62,9 +62,9 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 
 type=video
 name=
-thumb=https://cdn.mcloud.to/stream/sf:i0:q2:h4:p26:l1/nn3Jw1JlqBHRBw14VQYKiA/1529427600/h/4/6/6vj5m9/preview.jpg
+thumb=
 date=2018-06-18
-URL=https://cdn.mcloud.to/stream/sf:i0:q2:h4:p26:l1/nn3Jw1JlqBHRBw14VQYKiA/1529427600/h/4/6/6vj5m9/list.m3u8
+URL=
 
 
 
@@ -181,6 +181,7 @@ name=Isle of Dogs (2018) ENG 1080p.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
 date=2018-06-19
 URL=https://openload.co/f/ZbyRG1ryFsI/Isle.of.Dogs.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/vX1nEty5V8w/Isle_of_Dogs.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/1Vty-Ed3Gp0/Isle_of_Dogs_2018_720p_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
 
 
@@ -1354,7 +1355,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-19
+date=2018-06-20
 URL=
 
 
@@ -1363,6 +1364,12 @@ URL=
 
 
 
+type=video
+name=Double Lover (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7va7VtatGdaMbURnKTkwiQlGrX.jpg
+date=2018-06-20
+URL=https://openload.co/f/FhgHzxegz-c/Double.Lover.2017.1080p.BluRay.x264-NODLABS.mkv.mp4
+#https://openload.co/f/8PbIUxF4LPE/L%E2%80%99amant_Double_%28The_Double_Lover%29_%282017%29.FRENCH.720p.BRRip.999MB.MkvCage.mp4
 
 type=video
 name=The Lodgers (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1371,6 +1378,7 @@ date=2018-06-19
 URL=https://www.blazefile.co/embed-kf5tkdz4aaju.html
 #https://uptobox.com/kz4v1acefgqg
 #https://openload.co/embed/n7T9u2DqH0s/THELODGERS80.Ganool.im.mkv
+#https://openload.co/f/oKI83MHCpPk/The_Lodgers_%282017%291080p_BluRay_X264_DTS-FGT.Ganool.mkv.mp4
 #https://openload.co/f/XyRXjDIGbFY/The.Lodgers.2017.720p.BR_SeeHD.mp4
 #https://openload.co/embed/10cxU3USSJE/THELODGERSBD72.Ganool.im.mkv.mp4
 #https://openload.co/f/eWQIr3XNM5w/The_Lodgers_2017_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
@@ -4571,11 +4579,7 @@ URL=https://openload.co/f/-GadCfInCgc/120.beats.per.minute.2017.limited.720p.blu
 
 
 
-type=video
-name=Double Lover (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7va7VtatGdaMbURnKTkwiQlGrX.jpg
-date=2018-02-05
-URL=https://openload.co/f/8PbIUxF4LPE/L%E2%80%99amant_Double_%28The_Double_Lover%29_%282017%29.FRENCH.720p.BRRip.999MB.MkvCage.mp4
+
 
 type=video
 name=The Little Vampire 3D (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5083,9 +5087,13 @@ date=2018-06-19
 URL=https://www.blazefile.co/embed-68nphjy36cwm.html
 #https://uptobox.com/w8srot13i81f
 #https://openload.co/embed/w2_JkgLYAds/Destiny.The.Tale.of.Kamakura.2017.BluRay.720p.900MB.Ganool.im.mkv
+#https://openload.co/f/8QhGct9U2PE/Destiny.The.Tale.of.Kamakura.2017.BluRay.720p.900MB.Ganool.mkv.mp4
 
-
-
+type=video
+name=The Crash (2017)
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEu4OsF4Ol0kkB94AMRyEHfvTVf.jpg
+date=2018-06-20
+URL=https://openload.co/f/9VHN5pEwBJo/the.crash.2017.720p.bluray.x264-getit.mkv.mp4
 
 
 
@@ -5226,10 +5234,11 @@ URL=https://streamango.com/f/pkrtqtckdekrmeno/Solo_A_Star_Wars_Story_2018_
 
 
 type=video
-name=Deadpool 2 (2018) ENG HD-TS.XViD.AC3-ETRG
+name=Deadpool 2 (2018) ENG TS.720p.ENG.E
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
-date=2018-06-08
-URL=https://openload.co/f/re3bVE8sp-8/Deadpool_2_2018_HD-TS.XViD.AC3-ETRG.avi.mp4
+date=2018-06-20
+URL=https://openload.co/f/d9UDlTMQNlY/Deadpool.2.2018.TS.720p.ENG.E.mp4
+#https://openload.co/f/re3bVE8sp-8/Deadpool_2_2018_HD-TS.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/TVGkldXG2ow/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/fQtS6g8eFP0/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG.mkv.mp4
 #https://openload.co/f/NpRKO6OnUQ0/Deadpool_2_2018_720p_New_HDCAM-X264-AC3_Cleaned-Bobi_SeeHD.mkv.mp4
@@ -8409,7 +8418,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-18
+date=2018-06-20
 URL=
 
 
@@ -8417,6 +8426,11 @@ URL=
 
 
 
+type=video
+name=Les Misérables (2012) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEsrAHoxj746FRb7OLGYjrx1AI3.jpg
+date=2018-06-20
+URL=https://openload.co/f/TniJFIOG9sw/Les_Misrables.2012.HD_1080p.mp4
 
 type=video
 name=DodgeBall: A True Underdog Story (2004) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
