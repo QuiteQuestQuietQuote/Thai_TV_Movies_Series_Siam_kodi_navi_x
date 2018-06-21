@@ -191,14 +191,7 @@ URL=https://openload.co/f/ZbyRG1ryFsI/Isle.of.Dogs.2018.1080p.HDRip.X264.AC3-EVO
 
 
 
-type=video
-name=Blockers (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qKMYfiJTcUQbuBl82yxrmLSCX5.jpg
-date=2018-06-19
-URL=https://openload.co/f/UulMW6Gpmsw/Blockers.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/_KdQ6h2tcuY/Blockers.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/ldRfsfT-Q7Q/Blockers_2018_720p_WEB-DL_X264_AC3-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/YVmsPcZ37Qc/Blockers.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
+
 
 
 
@@ -1355,7 +1348,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-20
+date=2018-06-21
 URL=
 
 
@@ -1363,6 +1356,19 @@ URL=
 
 
 
+type=video
+name=The Endless (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVHPBTLb6Sj1Eso9HzyBAOMRheM.jpg
+date=2018-06-21
+URL=https://openload.co/f/m3ZjhH1ta90/The.Endless.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+
+type=video
+name=The Crash (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEu4OsF4Ol0kkB94AMRyEHfvTVf.jpg
+date=2018-06-21
+URL=https://openload.co/f/6eHaYaiCEmM/the.crash.2017.1080p.bluray.x264-getit.mkv.mp4
+#https://openload.co/f/68bhm8eWI1A/The.Crash.2017.720p.BDRip.AC3.X264.-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/9VHN5pEwBJo/the.crash.2017.720p.bluray.x264-getit.mkv.mp4
 
 type=video
 name=Double Lover (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
@@ -5089,13 +5095,17 @@ URL=https://www.blazefile.co/embed-68nphjy36cwm.html
 #https://openload.co/embed/w2_JkgLYAds/Destiny.The.Tale.of.Kamakura.2017.BluRay.720p.900MB.Ganool.im.mkv
 #https://openload.co/f/8QhGct9U2PE/Destiny.The.Tale.of.Kamakura.2017.BluRay.720p.900MB.Ganool.mkv.mp4
 
+
+
 type=video
-name=The Crash (2017)
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEu4OsF4Ol0kkB94AMRyEHfvTVf.jpg
-date=2018-06-20
-URL=https://openload.co/f/9VHN5pEwBJo/the.crash.2017.720p.bluray.x264-getit.mkv.mp4
-
-
+name=Blockers (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qKMYfiJTcUQbuBl82yxrmLSCX5.jpg
+date=2018-06-21
+URL=https://openload.co/f/lCMHIXtBj68/Blockers.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/UulMW6Gpmsw/Blockers.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/_KdQ6h2tcuY/Blockers.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/ldRfsfT-Q7Q/Blockers_2018_720p_WEB-DL_X264_AC3-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/YVmsPcZ37Qc/Blockers.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
 
 
 
@@ -5201,10 +5211,12 @@ URL=https://streamango.com/f/krmfsqkocolersbk/Taxi_5_2018_
 
 
 type=video
-name=Jurassic World: Fallen Kingdom (2018) ENG 720p_HDCAM_V.2_X264-24HD_SeeHD
+name=Jurassic World: Fallen Kingdom (2018) ENG NEW_TC_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
-date=2018-06-08
-URL=https://openload.co/f/qDjH228-Kpw/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_V.2_X264-24HD_SeeHD.mkv.mp4
+date=2018-06-21
+URL=https://openload.co/f/ee0BYggpv8w/Jurassic_World_Fallen_Kingdom_2018_NEW_TC_SeeHD.mkv.mp4
+#https://openload.co/f/g7ekyl53Btc/Jurassic_World_Fallen_Kingdom.2018.HDTS.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/qDjH228-Kpw/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_V.2_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/jvF2_B5YrtI/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_HQMic_SeeHD.mkv.mp4
 #https://openload.co/f/2V0abkp6pRI/Jurassic_World_Fallen_Kingdom_2018_720p_English_HDCAM_Rip_x264.mp4
 #https://openload.co/f/R5CtFFLA2FY/Jurassic_World_Fallen_Kingdom_%282018%29_720p_English_HDCAM_x264_AAC_by_Full4movies.mkv.mp4
@@ -5253,10 +5265,12 @@ URL=https://streamango.com/f/oesosocnaeooaame/Deadpool_2_2018_2_
 
 
 type=video
-name=Truth or Dare (2018) ENG 720p_WEB-DL_X264-CPG_SeeHD
+name=Truth or Dare (2018) ENG EXTENDED.1080p.WEB-DL.AAC2.0.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdkNaQYZ7dhM80LsnAGKpH8ca2g.jpg
-date=2018-06-16
-URL=https://openload.co/f/XFi6Ch2wGl0/Truth_or_Dare_2018_720p_WEB-DL_X264-CPG_SeeHD.mkv.mp4
+date=2018-06-21
+URL=https://openload.co/f/3yp2PHgKwaw/Truth.or.Dare.2018.EXTENDED.1080p.WEB-DL.AAC2.0.H264-FGT.mkv.mp4
+#https://openload.co/f/V2EBBQKTP7g/Truth.or.Dare.2018.EXTENDED_SeeHD.mkv.mp4
+#https://openload.co/f/XFi6Ch2wGl0/Truth_or_Dare_2018_720p_WEB-DL_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/gsGj_lpB0Ho/Truth_or_Dare_2018_HD-TS_X264-Mr.Hive_SeeHD.mkv.mp4
 type=video
 name=Truth or Dare (2018) THCAM
