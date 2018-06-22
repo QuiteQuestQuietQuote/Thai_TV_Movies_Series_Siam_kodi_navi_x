@@ -62,6 +62,321 @@ URL=
 
 
 
+type=video
+name=109xxxxxxxxxxxxxxxxxxxxHitoduma Sei Dorei Kaho Shibuya (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Hitoduma-Sei-Dorei-Kaho-Shibuya-2017.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/qrleandrnqmblnrr/
+
+type=video
+name=Secret Late-Night Massage Shop For Only Women 3 (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Secret-Late-Night-Massage-Shop-For-Only-Women-3-2017.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/mrpafoproskasofk/
+
+type=video
+name=Mandingo Massacre 14 (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Mandingo-Massacre-14-2018.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/deomekpstmpsetkc/
+
+type=video
+name=Pint Sized Cock Pocket 2 (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Pint-Sized-Cock-Pocket-2-2018.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/taanlnfebpqbrfed/
+
+type=video
+name=Moms Bang Teens 27 (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Moms-Bang-Teens-27-2018.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/rroeermbndncceto/
+
+
+type=video
+name=Black Anal Asses 3 (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Black-Anal-Asses-3-2018.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/ppbkqdlbffafsrcn/
+
+type=video
+name=A deserted woman (2014) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/A-deserted-woman-2014.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/eqqbbrdpanpsonnr/
+
+type=video
+name=Come here (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Come-here-2013.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/drdrerabdbpnklfm/
+
+type=video
+name=The Age of Women (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/The-Age-of-Women-2013.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/tltfmcnamdlaqaqm/
+
+type=video
+name=One-on-one car (2013) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/One-on-one-car-2013.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/ooefllcoppsffmtc/
+
+
+type=video
+name=Female students who stand on the basis of taxation (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Female-students-who-stand-on-the-basis-of-taxation-2017.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/npnrnstlpoofdrra/
+
+type=video
+name=My fingers allowed my fist (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/My-fingers-allowed-my-fist-2017.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/psremslobdcrsknm/
+
+type=video
+name=Erotic Performance (2013) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Erotic-Performance-2013.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/enktdbkdleqokqdo/
+
+type=video
+name=Wife’s sex manual (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Wifes-sex-manual-2017.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/kmnbfeqcsnpbpnrc/
+
+type=video
+name=I know that feeling of fetish (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/I-know-that-feeling-of-fetish-2013.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/kcnnelnntktnotff/
+
+
+type=video
+name=Sexually Transparent Sex (2013) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Sexually-Transparent-Sex-2013.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/otactmdckfpttraq/
+
+type=video
+name=A naive sex addict (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/A-naive-sex-addict-2017.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/kctkapempsedlqpk/
+
+type=video
+name=Drunk and caressed (2013) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Drunk-and-caressed-2013.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/fncbdtqeadfbrptd/
+
+type=video
+name=A friend of mine was touched by a petal friend (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/A-friend-of-mine-was-touched-by-a-petal-friend-2014.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/bqbdrdaemkolseaa/
+
+type=video
+name=A totally excited red panties girl (2014) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/A-totally-excited-red-panties-girl-2014.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/ooptpmoftakdkrlp/
+
+
+
+
+
+
+
+
+
+type=video
+name=89xxxxxxxxxxxxxxxxxxxxHalf-girlfriend (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Half-girlfriend-2017.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/ptladctdtaqnsmtr/
+
+type=video
+name=Red Shoes (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Red-Shoes-2014.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/maodfporedalmtea/
+
+type=video
+name=Excite your wife’s dick! (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Excite-your-wifes-dick-2016.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/mbbmcolmfnnedfqm/
+
+type=video
+name=Dean of the Kogyo-ji (2011)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Dean-of-the-Kogyo-ji-2011.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/lqpmslrrrtqarmta/
+
+type=video
+name=Wife secretly secretly with housekeeper sex (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Wife-secretly-secretly-with-housekeeper-sex-2017.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/trkscaqrkqnfpbde/
+
+
+type=video
+name=Beach Covert Sex (2012) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Beach-Covert-Sex-2012.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/eoaesfkbaasrefnk/
+
+type=video
+name=The Force Sunglasses Sunglasses (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/The-Force-Sunglasses-Sunglasses-2013.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/dqeeskcrpcdleabt/
+
+type=video
+name=Technique of killing girlfriend (2013)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Technique-of-killing-girlfriend-2013.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/ofncfpeqmcbrpmnk/
+
+type=video
+name=Sex Counselor (2013) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Sex-Counselor-2013.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/qeeobmcaocooasdk/
+
+type=video
+name=Aein Anaeui Namja (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Aein-Anaeui-Namja-2018.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/prqorkblnmeatcek/
+
+
+type=video
+name=Du Bubuui Jeongsa (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Du-Bubuui-Jeongsa-2018.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/rsdnbroleqmdmmem/
+
+type=video
+name=Infringe Your Virginity! (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Infringe-Your-Virginity-2017.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/dmqcpemqtmpmtmen/
+
+type=video
+name=Chaghan Jangmodeul (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Chaghan-Jangmodeul-2018.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/mnrdnpqapmtfkfcf/
+
+type=video
+name=Delicious Sex And That Woman De (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Delicious-Sex-And-That-Woman-De-2018.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/srbdbforedkeqqkb/
+
+type=video
+name=Lewdness Yoga Classroom (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Lewdness-Yoga-Classroom-2017.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/tndocfbeqfdnssrl/
+
+
+type=video
+name=Mothers Friends 4 (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Mothers-Friends-4-2017-Uncut.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/csolpanndksbcdaq/
+
+type=video
+name=Jejudo Yahanbam (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Jejudo-Yahanbam-2018-Uncut.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/tpnsprcdcsfnppep/
+
+type=video
+name=Sexual Guidance In Boss Of Sexual Harassment (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Sexual-Guidance-In-Boss-Of-Sexual-Harassment-2017.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/cnroecndarfbbrcb/
+
+type=video
+name=Pillow Train At Yukemura Onsen Geisha Oshiki (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Pillow-Train-At-Yukemura-Onsen-Geisha-Oshiki-2017.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/ecmqmodraqaeoqno/
+
+type=video
+name=Superb Delively Massage (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Superb-Delively-Massage-2017.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/ffskbrbmfdleaees/
+
+
+
+
+
+
+
+
+type=video
+name=69xxxxxxxxxxxxxxxxxxxxShura No Onna (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Shura-No-Onna-2017.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/btntkesddbsqkmll/
+
+type=video
+name=Private Massage Shop Owned By Mature Woman (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Private-Massage-Shop-Owned-By-Mature-Woman-2017.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/rkbrtpserdosqopr/
+
+type=video
+name=A baggy girl who gives a thirsty thirst easily (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/A-baggy-girl-who-gives-a-thirsty-thirst-easily-2014.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/bkoptekppnpkafta/
+
+type=video
+name=Into the mouth of the wife (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Into-the-mouth-of-the-wife-2017.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/cercposnckmbbmae/
+
+type=video
+name=Anyang XX Motel (2014) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Anyang-XX-Motel-2014.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/bpfkltopenfndnmp/
+
+
+type=video
+name=While the face is body (2014)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/While-the-face-is-body-2014.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/tmqoofqmrkoltsaq/
+
+type=video
+name=Female banker casual sex from day (2012) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Female-banker-casual-sex-from-day-2012.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/dnkrnaombaepenna/
+
+type=video
+name=Stop your brother. I’m hurting (2014) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Stop-your-brother.-Im-hurting-2014.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/bnbekdrkbcqpcscq/
+
+type=video
+name=High Sensitivity Caring Method (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/High-Sensitivity-Caring-Method-2017.jpg
+date=2018-06-22
+URL=https://streamcherry.com/embed/pocrmqldpqbdppmk/
 
 
 
