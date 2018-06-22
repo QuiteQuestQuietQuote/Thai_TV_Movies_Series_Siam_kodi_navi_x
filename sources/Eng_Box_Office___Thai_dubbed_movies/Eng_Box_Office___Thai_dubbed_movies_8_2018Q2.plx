@@ -63,8 +63,9 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-06-18
+date=2018-06-22
 URL=
+
 
 
 
@@ -94,7 +95,12 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GFPuL14eXi66V96xBWY73Y9Pf
 date=2018-06-15
 URL=https://openload.co/f/yo6qEXwj5Bs/Hereditary_2018_HDCAM_ENG_x264-SugarTits_SeeHD.mkv.mp4
 
-
+type=video
+name=Loving Pablo (2018) ESP 1080p_WEB-DL_DD5_1_H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4G6vvAvXDzHZl6rv4oHrmGBCIZ.jpg
+date=2018-06-22
+URL=https://openload.co/f/kSQxcBn9VR0/Loving_Pablo_2017_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+#https://openload.co/f/PH6BJQ3uQLA/Loving_Pablo.2017.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 
 type=video
 name=Life of the Party (2018) ENG 720p.WEB-DL.H264.AC3-EVO_SeeHD
@@ -1348,13 +1354,22 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-21
+date=2018-06-22
 URL=
 
 
 
 
-
+type=video
+name=Blockers (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qKMYfiJTcUQbuBl82yxrmLSCX5.jpg
+date=2018-06-22
+URL=https://openload.co/f/G3XAIZwY-eY/Blockers.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/lCMHIXtBj68/Blockers.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/UulMW6Gpmsw/Blockers.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/_KdQ6h2tcuY/Blockers.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/ldRfsfT-Q7Q/Blockers_2018_720p_WEB-DL_X264_AC3-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/YVmsPcZ37Qc/Blockers.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
 
 type=video
 name=The Endless (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1421,6 +1436,7 @@ name=Dear Dictator (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5S2tktUi9AMfaH8YihmbnDUSjiU.jpg
 date=2018-06-16
 URL=https://openload.co/f/VvdxB_14HDs/Dear_Dictator_%282017%29_%5B1080p%5D_BluRay_x264-%5BYTS_AM%5D.mp4
+#https://openload.co/f/EjIk-8oGs_g/Dear.Dictator.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/_fjOJlAT6Vw/Dear_Dictator_2018.BDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/A-lfM19zupk/Dear.Dictator.2018.720p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
@@ -5095,17 +5111,13 @@ URL=https://www.blazefile.co/embed-68nphjy36cwm.html
 #https://openload.co/embed/w2_JkgLYAds/Destiny.The.Tale.of.Kamakura.2017.BluRay.720p.900MB.Ganool.im.mkv
 #https://openload.co/f/8QhGct9U2PE/Destiny.The.Tale.of.Kamakura.2017.BluRay.720p.900MB.Ganool.mkv.mp4
 
-
-
 type=video
-name=Blockers (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qKMYfiJTcUQbuBl82yxrmLSCX5.jpg
-date=2018-06-21
-URL=https://openload.co/f/lCMHIXtBj68/Blockers.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/UulMW6Gpmsw/Blockers.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/_KdQ6h2tcuY/Blockers.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/ldRfsfT-Q7Q/Blockers_2018_720p_WEB-DL_X264_AC3-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/YVmsPcZ37Qc/Blockers.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
+name=Beirut (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2qIeFsI9TskZr1LkSwljQDh5nl.jpg
+date=2018-06-22
+URL=https://openload.co/f/cYSDaLgeurQ/Beirut.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
+
+
 
 
 
@@ -9654,7 +9666,11 @@ date=2018-02-14
 URL=https://openload.co/f/JQRBE27t544/Sophie_and_the_Rising_Sun_%282016%29_BRRip_720p_Layar.mp4
 
 
-
+type=video
+name=Tomb Raider (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] 3D
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
+date=2018-06-13
+URL=https://openload.co/f/0INyfX6r22A/Tomb.Raider.2018.3D.1080p.BluRay.x264-PSYCHD.mkv.mp4
 
 
 
