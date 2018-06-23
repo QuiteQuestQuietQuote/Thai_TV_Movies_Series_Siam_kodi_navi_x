@@ -17,15 +17,16 @@
 http://122.155.184.11/T1457077260/ngrp:livestream_all/chunklist_w1537817334_b3628000.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS_1080p
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24_violin22
-http://symc-cdn02.bkk02.violin.co.th:1935/liveedge/308360140120_300/chunklist_w1225057374.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24_thflixCH
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/108.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV_1080p
 http://live.nationtv.tv/hls/ntv_th_hd.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL_720
 http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 
-
+#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24_violin22
+http://symc-cdn02.bkk02.violin.co.th:1935/liveedge/308360140120_300/chunklist_w1225057374.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24_violin12
 http://symc-cdn01.bkk02.violin.co.th:1935/liveedge/308360140120_600/chunklist.m3u8
 
@@ -1931,12 +1932,214 @@ http://203.162.235.41:17818
 http://203.162.235.41:17804
 
 
-#EXTINF:0,HOLLYWOOD HD_onlybest
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/577/index.m3u8
-#EXTINF:0,FilmBox_onlybest
-http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/948/index.m3u8
-#EXTINF:0,BBC HD_onlybest
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/558/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,ALIBI_thflixCH
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/14.m3u8
+#EXTINF:-1,ANIMALPLANEL
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/15.m3u8
+#EXTINF:-1,ARIRANG
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/16.m3u8
+#EXTINF:-1,AFC
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/17.m3u8
+#EXTINF:-1,BBC EARTH
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/18.m3u8
+#EXTINF:-1,BBC LIFESTYLE
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/19.m3u8
+#EXTINF:-1,BBC PLAYER
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/22.m3u8
+#EXTINF:-1,BLOOMBERG
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/24.m3u8
+#EXTINF:-1,BRIGHT TV
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/25.m3u8
+#EXTINF:-1,CN
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/26.m3u8
+#EXTINF:-1,BBC
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/28.m3u8
+#EXTINF:-1,CBSO ACTION
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/29.m3u8
+#EXTINF:-1,CBSO DRAMA
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/30.m3u8
+#EXTINF:-1,CCTV4
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/32.m3u8
+#EXTINF:-1,CGTN
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/33.m3u8
+#EXTINF:-1,LIVE
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/35.m3u8
+#EXTINF:-1,DDTV
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/40.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/41.m3u8
+#EXTINF:-1,DISCOVER ASIA
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/42.m3u8
+#EXTINF:-1,TURBO LOVE
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/44.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/45.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/46.m3u8
+#EXTINF:-1,E NEWS
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/51.m3u8
+#EXTINF:-1,FIGHT SPORTS
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/55.m3u8
+#EXTINF:-1,FOX ACTION MOVIES
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/56.m3u8
+#EXTINF:-1,CI
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/57.m3u8
+#EXTINF:-1,FOX FAMILY
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/58.m3u8
+#EXTINF:-1,FOX MOVIES
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/59.m3u8
+#EXTINF:-1,FOX NEWS
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/60.m3u8
+#EXTINF:-1,FOX THAI
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/61.m3u8
+#EXTINF:-1,FRNCE24
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/62.m3u8
+#EXTINF:-1,FX
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/63.m3u8
+#EXTINF:-1,GMM25
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/64.m3u8
+#EXTINF:-1,H2
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/65.m3u8
+#EXTINF:-1,HBO HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/66.m3u8
+#EXTINF:-1,HBO HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/67.m3u8
+#EXTINF:-1,HISTORY HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/68.m3u8
+#EXTINF:-1,Huh?
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/69.m3u8
+#EXTINF:-1,ITV
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/70.m3u8
+#EXTINF:-1,MONEY
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/80.m3u8
+#EXTINF:-1,NET GEO PEOPLE
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/84.m3u8
+#EXTINF:-1,NET GEO WILD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/85.m3u8
+#EXTINF:-1,NATION
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/86.m3u8
+#EXTINF:-1,NATION GEOGRAPHIC
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/87.m3u8
+#EXTINF:-1,NICK JR.
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/89.m3u8
+#EXTINF:-1,NOW
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/90.m3u8
+#EXTINF:-1,Huh??
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/91.m3u8
+#EXTINF:-1,Huh??
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/101.m3u8
+#EXTINF:-1,FOX LIFE
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/102.m3u8
+#EXTINF:-1,THAI
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/106.m3u8
+#EXTINF:-1,TNN2
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/107.m3u8
+#EXTINF:-1,TNN24
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/108.m3u8
+#EXTINF:-1,TRAVEL
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/109.m3u8
+#EXTINF:-1,TRUE FILM ASIA
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/114.m3u8
+#EXTINF:-1,TRUE MOVIE HITS
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/115.m3u8
+#EXTINF:-1,TRUE SPARK JUMP
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/117.m3u8
+#EXTINF:-1,TRUE SPARK
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/118.m3u8
+#EXTINF:-1,TVB
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/122.m3u8
+#EXTINF:-1,VERY
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/123.m3u8
+#EXTINF:-1,WARNER TV
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/124.m3u8
+#EXTINF:-1,ZEE TV
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/125.m3u8
+#EXTINF:-1,3FAMILY
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/126.m3u8
+#EXTINF:-1,3HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/127.m3u8
+#EXTINF:-1,3SD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/128.m3u8
+#EXTINF:-1,5HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/129.m3u8
+#EXTINF:-1,7HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/130.m3u8
+#EXTINF:-1,8 CHANNAL
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/131.m3u8
+#EXTINF:-1,ONLINE HD10
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/136.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/144.m3u8
+#EXTINF:-1,MCOT HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/185.m3u8
+#EXTINF:-1,MCOT FAMILY
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/186.m3u8
+#EXTINF:-1,MONO29
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/187.m3u8
+#EXTINF:-1,NBTHD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/192.m3u8
+#EXTINF:-1,ONE HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/193.m3u8
+#EXTINF:-1,PPTV HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/194.m3u8
+#EXTINF:-1,THAIRAHT TV
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/218.m3u8
+#EXTINF:-1,SETANTA
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/232.m3u8
+#EXTINF:-1,AMARIN TV
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/239.m3u8
+#EXTINF:-1,NEW TV
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/240.m3u8
+#EXTINF:-1,VOICE TV
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/242.m3u8
+#EXTINF:-1,MOVIE TRAILER
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/243.m3u8
+#EXTINF:-1,MOVIE TRAILER
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/244.m3u8
+#EXTINF:-1,MOVIES
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/245.m3u8
+#EXTINF:-1,A FILM HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/246.m3u8
+#EXTINF:-1,I ASIA HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/247.m3u8
+#EXTINF:-1,I MOVIE HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/248.m3u8
+#EXTINF:-1,MOVIES
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/249.m3u8
+#EXTINF:-1,I HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/250.m3u8
+#EXTINF:-1,WORKPIONT_thflixCH
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/251.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

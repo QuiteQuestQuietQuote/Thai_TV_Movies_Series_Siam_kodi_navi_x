@@ -1360,6 +1360,18 @@ URL=
 
 
 
+
+type=video
+name=The Boss (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8smnnIVlEeFwD4Z0pKPC3RN2xT.jpg
+date=2018-06-23
+URL=https://www.blazefile.co/embed-t1rccdbbyo8s.html
+#https://uptobox.com/w4econ79cbz4
+#https://openload.co/embed/UwkNHhqF2kc/THEBOSSUNRATED80.Ganool.im.mkv.mp4
+#https://www.blazefile.co/embed-im416g3gy6u0.html   720
+#https://uptobox.com/gylb91ydvxzd   720
+#https://openload.co/embed/SsfsjOA_MfY/THEBOSSUMRATEDBD72.Ganool.im.mkv
+
 type=video
 name=Blockers (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qKMYfiJTcUQbuBl82yxrmLSCX5.jpg
@@ -5058,13 +5070,7 @@ URL=https://www.blazefile.co/embed-9tl09mjesidg.html
 #https://openload.co/embed/u4_AWPzFHs8/INCOMINGBD72.Ganool.im.mkv.mp4
 #https://openload.co/f/iHbGqwCkfEY/incoming.2018.720p.bluray.x264-rusted.mkv.mp4
 
-type=video
-name=The Boss (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8smnnIVlEeFwD4Z0pKPC3RN2xT.jpg
-date=2018-06-11
-URL=https://www.blazefile.co/embed-im416g3gy6u0.html
-#https://uptobox.com/gylb91ydvxzd
-#https://openload.co/embed/SsfsjOA_MfY/THEBOSSUMRATEDBD72.Ganool.im.mkv
+
 
 
 
@@ -5117,7 +5123,11 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2qIeFsI9TskZr1LkSwljQDh5n
 date=2018-06-22
 URL=https://openload.co/f/cYSDaLgeurQ/Beirut.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
 
-
+type=video
+name=Monster Island (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgpDoUnfXEQmtuMqbzhg8dG8xgZ.jpg
+date=2018-06-23
+URL=https://openload.co/f/lLx8y2mRaaQ/Monster_Island.2017.720p.BDRip.AC3.X264-CMRG_SeeHD.mkv.mp4
 
 
 
@@ -5125,7 +5135,7 @@ URL=https://openload.co/f/cYSDaLgeurQ/Beirut.2018.720p.BluRay.x264.DTS-HDC.mkv.m
 type=video
 name=
 thumb=
-date=2018-06-19
+date=2018-06-23
 URL=http://203.162.235.41:17819
 
 
@@ -5258,10 +5268,11 @@ URL=https://streamango.com/f/pkrtqtckdekrmeno/Solo_A_Star_Wars_Story_2018_
 
 
 type=video
-name=Deadpool 2 (2018) ENG TS.720p.ENG.E
+name=Deadpool 2 (2018) ENG NEW_720p_HD-TC_V.2_x264-CPG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
-date=2018-06-20
-URL=https://openload.co/f/d9UDlTMQNlY/Deadpool.2.2018.TS.720p.ENG.E.mp4
+date=2018-06-23
+URL=https://openload.co/f/WpAKmf_pPL4/Deadpool_2_2018_NEW_720p_HD-TC_V.2_x264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/d9UDlTMQNlY/Deadpool.2.2018.TS.720p.ENG.E.mp4
 #https://openload.co/f/re3bVE8sp-8/Deadpool_2_2018_HD-TS.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/TVGkldXG2ow/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/fQtS6g8eFP0/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG.mkv.mp4
@@ -6902,10 +6913,11 @@ URL=https://streamango.com/f/rcnscffcdpdcsksc/Operation_Red_Sea_2018_
 
 
 type=video
-name=7 Days in Entebbe (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+name=7 Days in Entebbe (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrC63ikbK4jDp3knvBqxPoWYEMM.jpg
-date=2018-06-14
-URL=https://openload.co/f/4orjr6uMSx4/7_Days_in_Entebbe.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2018-06-23
+URL=https://openload.co/f/eyceQFfY2LY/7.Days.in.Entebbe.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/4orjr6uMSx4/7_Days_in_Entebbe.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/MGkJDoZElmo/7_Days_in_Entebbe.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 type=video
 name=7 Days in Entebbe (2018) THCAM SOUND
@@ -8444,13 +8456,23 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-20
+date=2018-06-23
 URL=
 
 
 
 
 
+
+
+
+
+
+type=video
+name=Creed (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKzhV274pkZBSpXfCjUyzbyYKLl.jpg
+date=2018-06-23
+URL=https://openload.co/f/47FxlyppiyA/Creed.2015.1080p.BR_SeeHD.mp4
 
 type=video
 name=Les Misérables (2012) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
