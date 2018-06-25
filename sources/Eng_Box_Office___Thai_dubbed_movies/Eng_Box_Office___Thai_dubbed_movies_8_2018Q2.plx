@@ -1354,12 +1354,38 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-22
+date=2018-06-25
 URL=
 
 
 
 
+
+type=video
+name=Monster Island (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgpDoUnfXEQmtuMqbzhg8dG8xgZ.jpg
+date=2018-06-25
+URL=https://openload.co/f/Kly4JxpUFRM/Monster.Island.2017.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+#https://openload.co/f/lLx8y2mRaaQ/Monster_Island.2017.720p.BDRip.AC3.X264-CMRG_SeeHD.mkv.mp4
+
+type=video
+name=Dark River (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgzMPafOXa4wCGMvHGNpJLbr7Xv.jpg
+date=2018-06-25
+URL=https://openload.co/f/BDCFT-N18Mg/Dark.River.2017.1080p.BluRay.x264-EiDER.mkv.mp4
+#https://www.blazefile.co/embed-q61x88evufgh.html   720
+#https://uptobox.com/vlveyk0d5cq6   720
+#https://openload.co/embed/W178MWjf7zw/DARKRIVERBD72.Ganool.im.mkv.mp4
+
+type=video
+name=Sweet Country (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/szJdZCSiEIYybmPymoP2UTEvOUC.jpg
+date=2018-06-25
+URL=https://openload.co/f/fOAXp_ADqqM/Sweet.Country.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/ne_tngg2U18/Sweet.Country.2017.720p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://www.blazefile.co/embed-mwlf4bsb3zmo.html   720
+#https://uptobox.com/864i6t2nxzfe   720
+#https://openload.co/embed/uIeJDs3hQyw/SWEETCOUNTRYBD72.Ganool.im.mkv.mp4
 
 type=video
 name=The Boss (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1388,6 +1414,9 @@ name=The Endless (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVHPBTLb6Sj1Eso9HzyBAOMRheM.jpg
 date=2018-06-21
 URL=https://openload.co/f/m3ZjhH1ta90/The.Endless.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://www.blazefile.co/embed-v5v62iavt6aj.html   720
+#https://uptobox.com/1j8ea33j9kpj   720
+#https://openload.co/embed/qlahKoFlZAw/THEENDLESSBD72.Ganool.im.mkv.mp4
 
 type=video
 name=The Crash (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1396,6 +1425,9 @@ date=2018-06-21
 URL=https://openload.co/f/6eHaYaiCEmM/the.crash.2017.1080p.bluray.x264-getit.mkv.mp4
 #https://openload.co/f/68bhm8eWI1A/The.Crash.2017.720p.BDRip.AC3.X264.-CMRG_SeeHD.mkv.mp4
 #https://openload.co/f/9VHN5pEwBJo/the.crash.2017.720p.bluray.x264-getit.mkv.mp4
+#https://www.blazefile.co/embed-rrtvivs3c7nl.html   720
+#https://uptobox.com/956e6ihi4elq   720
+#https://openload.co/embed/D4NC_xDL9Q0/THECRASHBD72.Ganool.im.mkv
 
 type=video
 name=Double Lover (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
@@ -4775,7 +4807,8 @@ type=video
 name=Keep Watching (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/65UjzcdXlLcDzZQEidMN58BsFzg.jpg
 date=2018-03-16
-URL=https://openload.co/f/ca-c-mH530I/Keep.Watching.2017.720p.BluRay.H264.AAC-RARBG.mp4
+URL=https://www.blazefile.co/embed-avo7yv4nrgxg.html
+#https://openload.co/f/ca-c-mH530I/Keep.Watching.2017.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/RtYeBLF3-RM/Keep.Watching.2017.720p.BluRay.x264-PFa.mkv.mp4
 #https://www.blazefile.co/embed-avo7yv4nrgxg.html   720
 #https://uptobox.com/r5b03zn2c193   720
@@ -5123,11 +5156,10 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2qIeFsI9TskZr1LkSwljQDh5n
 date=2018-06-22
 URL=https://openload.co/f/cYSDaLgeurQ/Beirut.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
 
-type=video
-name=Monster Island (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgpDoUnfXEQmtuMqbzhg8dG8xgZ.jpg
-date=2018-06-23
-URL=https://openload.co/f/lLx8y2mRaaQ/Monster_Island.2017.720p.BDRip.AC3.X264-CMRG_SeeHD.mkv.mp4
+
+
+
+
 
 
 
@@ -5135,7 +5167,7 @@ URL=https://openload.co/f/lLx8y2mRaaQ/Monster_Island.2017.720p.BDRip.AC3.X264-CM
 type=video
 name=
 thumb=
-date=2018-06-23
+date=2018-06-25
 URL=http://203.162.235.41:17819
 
 
@@ -8456,7 +8488,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-23
+date=2018-06-25
 URL=
 
 
@@ -8467,6 +8499,11 @@ URL=
 
 
 
+type=video
+name=Halloween (1978) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjoOFOTBJcJvA1weJejlZ92LZD4.jpg
+date=2018-06-25
+URL=https://openload.co/f/0MZAwImfyCE/Halloween_1978_-_Full.57vzv.mp4
 
 type=video
 name=Creed (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
