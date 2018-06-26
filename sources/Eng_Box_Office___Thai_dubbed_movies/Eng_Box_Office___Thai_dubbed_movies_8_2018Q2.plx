@@ -75,13 +75,7 @@ URL=
 
 
 
-type=video
-name=Incredibles 2 (2018) ENG 720p.HDCAM.NO.LOGO.X264.AC3.Fugitive
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL9Uz2vq93vi20oxZEBBaSs4w8U.jpg
-date=2018-06-18
-URL=https://openload.co/f/-TddfwsIN90/Incredibles.2.2018.New.720p.HDCAM.NO.LOGO.X264.AC3.Fugitive.mkv.mp4
-#https://openload.co/f/4SFCu-hB8m0/Incredibles.2.2018.720p.TS.Eng.E.mp4
-#https://openload.co/f/mUN8MVzw2d8/The_Incredibles_2_2018_NEW_HDCAM_X264-CPG_SeeHD.mkv.mp4
+
 
 type=video
 name=I Feel Pretty (2018) ENG HDCAM_ENG_X264-SeeHD
@@ -183,10 +177,12 @@ URL=https://openload.co/f/BLFPcnQ94OM/Terminal.2018.1080p.WEB-DL.DD5.1.H264-CMRG
 #https://openload.co/f/p2adG9K9gnQ/Terminal_2018_720pHD_SeeHD.mkv.mp4
 
 type=video
-name=Isle of Dogs (2018) ENG 1080p.HDRip.X264.AC3-EVO
+name=Isle of Dogs (2018) ENG 1080p_WEB-DL_AAC_H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
-date=2018-06-19
-URL=https://openload.co/f/ZbyRG1ryFsI/Isle.of.Dogs.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
+date=2018-06-26
+URL=https://openload.co/f/rl-V0hLI0us/Isle_Of_Dogs_2018_1080p_WEB-DL_AAC_H264-CMRG.mkv.mp4
+#https://openload.co/f/GOhg7Xb9aEc/Isle.of.Dogs.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/ZbyRG1ryFsI/Isle.of.Dogs.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/vX1nEty5V8w/Isle_of_Dogs.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/1Vty-Ed3Gp0/Isle_of_Dogs_2018_720p_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
 
@@ -1371,8 +1367,9 @@ URL=https://openload.co/f/Kly4JxpUFRM/Monster.Island.2017.1080p.BluRay.x264-GUAC
 type=video
 name=Dark River (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgzMPafOXa4wCGMvHGNpJLbr7Xv.jpg
-date=2018-06-25
-URL=https://openload.co/f/BDCFT-N18Mg/Dark.River.2017.1080p.BluRay.x264-EiDER.mkv.mp4
+date=2018-06-26
+URL=https://openload.co/f/OBtazsY55DU/Dark.River.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/BDCFT-N18Mg/Dark.River.2017.1080p.BluRay.x264-EiDER.mkv.mp4
 #https://www.blazefile.co/embed-q61x88evufgh.html   720
 #https://uptobox.com/vlveyk0d5cq6   720
 #https://openload.co/embed/W178MWjf7zw/DARKRIVERBD72.Ganool.im.mkv.mp4
@@ -1380,8 +1377,12 @@ URL=https://openload.co/f/BDCFT-N18Mg/Dark.River.2017.1080p.BluRay.x264-EiDER.mk
 type=video
 name=Sweet Country (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/szJdZCSiEIYybmPymoP2UTEvOUC.jpg
-date=2018-06-25
-URL=https://openload.co/f/fOAXp_ADqqM/Sweet.Country.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-06-26
+URL=https://www.blazefile.co/embed-s346xuogcxdc.html
+#https://uptobox.com/1c4w6stuzp4f
+#https://openload.co/embed/qF1R6pcjUjI/SWEETCOUNTRY80.Ganool.im.mkv
+#https://openload.co/f/3g_HG2ece50/Sweet.Country.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/fOAXp_ADqqM/Sweet.Country.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/ne_tngg2U18/Sweet.Country.2017.720p.BluRay.x264.DTS-FGT.mkv.mp4
 #https://www.blazefile.co/embed-mwlf4bsb3zmo.html   720
 #https://uptobox.com/864i6t2nxzfe   720
@@ -1502,18 +1503,7 @@ URL=https://www.blazefile.co/embed-viaragx00usc.html
 #https://uptobox.com/amf1be2dou4y   720
 #https://openload.co/embed/NgAi3WtPCkM/SHQGHOSTLANDBD72.Ganool.im.mkv.mp4
 
-type=video
-name=Escape Plan 2: Hades (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6aVHV5Id47dlaEro9DsijzStIU.jpg
-date=2018-06-19
-URL=https://www.blazefile.co/embed-uq6ym96ywl95.html
-#https://uptobox.com/kfhcg596l2du
-#https://openload.co/embed/sQoyFXluybk/GHPESCPEPLAN280.Ganool.im.mkv
-#https://openload.co/f/dgJ5i3_FvZw/Escape_Plan_2_Hades_2018_1080p_BluRay_DTS-HD_x264-HDC.mkv.mp4
-#https://openload.co/f/RgvZg78lvH8/Escape_Plan_2_Hades.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://www.blazefile.co/embed-6lhbd1gqm3lh.html   720
-#https://uptobox.com/jyi5m09bldhr   720
-#https://openload.co/embed/DAzFc7hD2d8/SHQESCAPEPAN2BD72.Ganoo.im.mkv.mp4
+
 
 type=video
 name=Welcome to Willits (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5156,7 +5146,13 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2qIeFsI9TskZr1LkSwljQDh5n
 date=2018-06-22
 URL=https://openload.co/f/cYSDaLgeurQ/Beirut.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
 
-
+type=video
+name=Padmaavat (2018) [COLOR=FF00FF00]HIN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRe1bvYOZ3qYlhgQzbBKLSKLRhX.jpg
+date=2018-06-26
+URL=https://www.blazefile.co/embed-ui66l9vcawts.html
+#https://uptobox.com/4ir0uich1pkd
+#https://openload.co/embed/jp-RWhr76ek/SHQPADMAVAATBD72.Ganool.im.mkv
 
 
 
@@ -5167,7 +5163,7 @@ URL=https://openload.co/f/cYSDaLgeurQ/Beirut.2018.720p.BluRay.x264.DTS-HDC.mkv.m
 type=video
 name=
 thumb=
-date=2018-06-25
+date=2018-06-26
 URL=http://203.162.235.41:17819
 
 
@@ -5236,6 +5232,22 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+
+type=video
+name=Incredibles 2 (2018) ENG FULL_HDCAM_x264-24HD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL9Uz2vq93vi20oxZEBBaSs4w8U.jpg
+date=2018-06-26
+URL=https://openload.co/f/_hLpk18cxmo/The_Incredibles_2_2018_FULL_HDCAM_x264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/-TddfwsIN90/Incredibles.2.2018.New.720p.HDCAM.NO.LOGO.X264.AC3.Fugitive.mkv.mp4
+#https://openload.co/f/4SFCu-hB8m0/Incredibles.2.2018.720p.TS.Eng.E.mp4
+#https://openload.co/f/mUN8MVzw2d8/The_Incredibles_2_2018_NEW_HDCAM_X264-CPG_SeeHD.mkv.mp4
+type=video
+name=Incredibles 2 (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL9Uz2vq93vi20oxZEBBaSs4w8U.jpg
+date=2018-06-26
+URL=https://streamango.com/f/pmornaclntnlddoo/Incredibles_2_2018_2_
 
 
 type=video
@@ -5319,19 +5331,7 @@ date=2018-05-21
 URL=https://streamango.com/f/oesosocnaeooaame/Deadpool_2_2018_2_
 
 
-type=video
-name=Truth or Dare (2018) ENG EXTENDED.1080p.WEB-DL.AAC2.0.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdkNaQYZ7dhM80LsnAGKpH8ca2g.jpg
-date=2018-06-21
-URL=https://openload.co/f/3yp2PHgKwaw/Truth.or.Dare.2018.EXTENDED.1080p.WEB-DL.AAC2.0.H264-FGT.mkv.mp4
-#https://openload.co/f/V2EBBQKTP7g/Truth.or.Dare.2018.EXTENDED_SeeHD.mkv.mp4
-#https://openload.co/f/XFi6Ch2wGl0/Truth_or_Dare_2018_720p_WEB-DL_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/gsGj_lpB0Ho/Truth_or_Dare_2018_HD-TS_X264-Mr.Hive_SeeHD.mkv.mp4
-type=video
-name=Truth or Dare (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdkNaQYZ7dhM80LsnAGKpH8ca2g.jpg
-date=2018-05-21
-URL=https://streamango.com/f/ofspqsqdrfcfbbmk/Truth_or_Dare_2018_
+
 
 
 
@@ -6907,13 +6907,56 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-18
+date=2018-06-26
 URL=
 
 
 
 
 
+
+
+type=video
+name=Be With You (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEeH8ce2YeZHFng3AddqsQ2niLf.jpg
+date=2018-06-26
+URL=https://streamango.com/f/tekbdbtslobrkpkn/Be_With_You_2018_
+
+
+type=video
+name=Escape Plan 2: Hades (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6aVHV5Id47dlaEro9DsijzStIU.jpg
+date=2018-06-19
+URL=https://www.blazefile.co/embed-uq6ym96ywl95.html
+#https://uptobox.com/kfhcg596l2du
+#https://openload.co/embed/sQoyFXluybk/GHPESCPEPLAN280.Ganool.im.mkv
+#https://openload.co/f/EnUldWAXphw/Escape_Plan_2_Hades.2018.720p.BRRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/dgJ5i3_FvZw/Escape_Plan_2_Hades_2018_1080p_BluRay_DTS-HD_x264-HDC.mkv.mp4
+#https://openload.co/f/RgvZg78lvH8/Escape_Plan_2_Hades.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://www.blazefile.co/embed-6lhbd1gqm3lh.html   720
+#https://uptobox.com/jyi5m09bldhr   720
+#https://openload.co/embed/DAzFc7hD2d8/SHQESCAPEPAN2BD72.Ganoo.im.mkv.mp4
+type=video
+name=Escape Plan 2: Hades (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6aVHV5Id47dlaEro9DsijzStIU.jpg
+date=2018-06-26
+URL=https://streamango.com/f/dpsbpplmrbcdonpm/Escape_Plan_2_Hades_2018_2_
+
+
+type=video
+name=Truth or Dare (2018) ENG EXTENDED.1080p.WEB-DL.AAC2.0.H264-FGT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdkNaQYZ7dhM80LsnAGKpH8ca2g.jpg
+date=2018-06-21
+URL=https://openload.co/f/3yp2PHgKwaw/Truth.or.Dare.2018.EXTENDED.1080p.WEB-DL.AAC2.0.H264-FGT.mkv.mp4
+#https://openload.co/f/V2EBBQKTP7g/Truth.or.Dare.2018.EXTENDED_SeeHD.mkv.mp4
+#https://openload.co/f/XFi6Ch2wGl0/Truth_or_Dare_2018_720p_WEB-DL_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/gsGj_lpB0Ho/Truth_or_Dare_2018_HD-TS_X264-Mr.Hive_SeeHD.mkv.mp4
+type=video
+name=Truth or Dare (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdkNaQYZ7dhM80LsnAGKpH8ca2g.jpg
+date=2018-06-26
+URL=https://streamango.com/f/ofteedpkmecfkran/Truth_or_Dare_2018_
+#https://streamango.com/f/ofspqsqdrfcfbbmk/Truth_or_Dare_2018_
 
 
 type=video
@@ -7056,10 +7099,12 @@ URL=https://streamango.com/f/nlcqdoenraatbppm/The_Strangers_Prey_at_Night_2018_
 
 
 type=video
-name=A Quiet Place (2018) ENG 720p.HC.HDRip.X264.AC3-EVO_SeeHD
+name=A Quiet Place (2018) ENG 1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
-date=2018-05-22
-URL=https://openload.co/f/h8acclwszug/A_Quiet_Place.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-06-26
+URL=https://openload.co/f/zGe3APJU9NE/A_Quiet_Place.2018.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/ZrD7yHh0cmk/A_Quiet_Place.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/h8acclwszug/A_Quiet_Place.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/tgCRSk8Gg3o/A_Quiet_Place_%282018%29720p_HC_HDRip_X264_AC3-EVO.Ganool.im.mkv.mp4
 #https://openload.co/f/qIWKQG_1QjY/A.Quiet.Place.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/4rP4kBfw7no/A.Quiet.Place.2018.NOLOGO.NEW.HDCAM.ENG.X264-Mr.HIVE.mkv.mp4
@@ -7187,25 +7232,6 @@ URL=https://streamango.com/f/rlcdffttdddaetmn/Winchester_2018_
 #https://streamango.com/f/elfccpoabamnnmla/Winchester_2018_
 
 
-type=video
-name=Monster Hunt 2 (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
-date=2018-06-13
-URL=https://www.blazefile.co/embed-1dw3nuopr347.html
-#https://uptobox.com/d7xu2ndb1p6t
-#https://openload.co/embed/q6SruPXDWr0/Monster.Hunt.2.2018.BluRay.1080p.5.1CH.x264.Ganool.im.mkv.mp4
-#https://openload.co/f/-B6tEZLwh34/Monster.Hunt.2.2018.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
-#https://openload.co/f/xiI37NMVGYQ/Monster.Hunt.2.2018.HC.HDRip.AC3.X264-CMRG.mkv.mp4
-#https://openload.co/f/6oGjRk_3toQ/Monster_Hunt_2_%282018%29_Cam.mp4
-#https://www.blazefile.co/embed-06swu4uc3nw1.html   720
-#https://uptobox.com/dm0683r0qnox   720
-#https://openload.co/embed/POkOm_UpeKE/Monster.Hunt.2.2018.BluRay.720p.900MB.Ganool.im.mkv.mp4
-type=video
-name=Monster Hunt 2 (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
-date=2018-04-15
-URL=https://streamango.com/f/bfetceqmnompadfa/Monster_Hunt_2_2018_2_V_2_mp4
-#https://streamango.com/f/kmeqqlkbfqosafts/Monster_Hunt_2_2018_2_
 
 
 
@@ -7648,7 +7674,26 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
-
+type=video
+name=Monster Hunt 2 (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
+date=2018-06-13
+URL=https://www.blazefile.co/embed-1dw3nuopr347.html
+#https://uptobox.com/d7xu2ndb1p6t
+#https://openload.co/embed/q6SruPXDWr0/Monster.Hunt.2.2018.BluRay.1080p.5.1CH.x264.Ganool.im.mkv.mp4
+#https://openload.co/f/-B6tEZLwh34/Monster.Hunt.2.2018.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
+#https://openload.co/f/xiI37NMVGYQ/Monster.Hunt.2.2018.HC.HDRip.AC3.X264-CMRG.mkv.mp4
+#https://openload.co/f/6oGjRk_3toQ/Monster_Hunt_2_%282018%29_Cam.mp4
+#https://www.blazefile.co/embed-06swu4uc3nw1.html   720
+#https://uptobox.com/dm0683r0qnox   720
+#https://openload.co/embed/POkOm_UpeKE/Monster.Hunt.2.2018.BluRay.720p.900MB.Ganool.im.mkv.mp4
+type=video
+name=Monster Hunt 2 (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
+date=2018-06-26
+URL=https://openload.co/f/Ag2STuTXGOg/Monster_Hunt_2_%282018%29%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AE%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C_2.mp4
+#https://streamango.com/f/bfetceqmnompadfa/Monster_Hunt_2_2018_2_V_2_mp4
+#https://streamango.com/f/kmeqqlkbfqosafts/Monster_Hunt_2_2018_2_
 
 
 type=video
@@ -8946,10 +8991,11 @@ URL=https://www.blazefile.co/embed-q7t7qata6o7i.html
 #http://uptobox.com/pp11nmerr9ul   720
 
 type=video
-name=Super Troopers (2001) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Super Troopers (2001) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8Uu4bqq21onmvQx4ZsTm7dqXwq.jpg
-date=2018-05-15
-URL=https://openload.co/f/ASeav2AG6kg/Super_Troopers.2001.HD_720p.160523.mp4
+date=2018-06-26
+URL=https://openload.co/f/d5NkC-Vdkvg/Super.Troopers.2001.1080p.BR_SeeHD.mp4
+#https://openload.co/f/ASeav2AG6kg/Super_Troopers.2001.HD_720p.160523.mp4
 
 type=video
 name=Captain America: Civil War (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -9078,8 +9124,9 @@ URL=https://openload.co/f/crkfOCQa2wQ/Comanche_Moon_3_Western_2008_Steve_Zahn_Ry
 type=video
 name=Ant-Man (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/D6e8RJf2qUstnfkTslTXNTUAlT.jpg
-date=2018-05-08
-URL=https://openload.co/f/1IYOCkaOq4w/Ant-Man.2015.1080p.BR_SeeHD.mp4
+date=2018-06-26
+URL=https://openload.co/f/7M-dN1feEbA/Ant-Man.2015.1080p.BR_SeeHD.mp4
+#https://openload.co/f/1IYOCkaOq4w/Ant-Man.2015.1080p.BR_SeeHD.mp4
 
 type=video
 name=Captain Phillips (2013) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
