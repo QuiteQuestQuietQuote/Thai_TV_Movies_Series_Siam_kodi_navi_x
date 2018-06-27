@@ -355,8 +355,9 @@ URL=http://entervideo.net/watch/f32b56d23ec84ca
 type=video
 name=Diet Of Sex 2014
 thumb=https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&no_expand=1&refresh=604800&url=http://2.bp.blogspot.com/-WuFzEMJle9A/Voo8rCnzwPI/AAAAAAAAX1k/eQi3Z7_Z0K8/s0/
-date=2017-08-15
-URL=https://openload.co/f/MupJM1-szOM/Diet.of.Sex.2014.720p.WEB.DL.550MB.MkvCage.mkv.mp4
+date=2018-06-27
+URL=https://streamango.com/embed/eltbkmstmpkcroal/cihd-dietofsex_1080p_mkv_mp4
+#https://openload.co/f/MupJM1-szOM/Diet.of.Sex.2014.720p.WEB.DL.550MB.MkvCage.mkv.mp4
 
 type=video
 name=Diary of a Nymphomaniac (2008)

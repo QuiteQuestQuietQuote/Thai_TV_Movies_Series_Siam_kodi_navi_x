@@ -63,7 +63,7 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-06-22
+date=2018-06-27
 URL=
 
 
@@ -75,13 +75,19 @@ URL=
 
 
 
-
+type=video
+name=Gotti (2018) ENG HDRip.AC3.X264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJODtXkQBK0lEmD4x5KkALnSiN1.jpg
+date=2018-06-27
+URL=https://openload.co/f/cOxTWMClj58/Gotti.2018.HDRip.AC3.X264-CMRG.mkv.mp4
 
 type=video
-name=I Feel Pretty (2018) ENG HDCAM_ENG_X264-SeeHD
+name=I Feel Pretty (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZe6x2fKtwVDsAvZQ9fnIJznBrc.jpg
-date=2018-06-17
-URL=https://openload.co/f/VSa6I5VbpSw/I_Feel_Pretty_2018_HDCAM_ENG_X264-SeeHD.mkv.mp4
+date=2018-06-27
+URL=https://openload.co/f/k9PBsLCEBMw/I.Feel.Pretty.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/L6N00yigWWs/I_Feel_Pretty.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/VSa6I5VbpSw/I_Feel_Pretty_2018_HDCAM_ENG_X264-SeeHD.mkv.mp4
 
 type=video
 name=Hereditary (2018) ENG HDCAM_ENG_x264-SugarTits_SeeHD
@@ -169,12 +175,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubSpsYP3WqljVPVSX2FbBNYZoR
 date=2018-05-11
 URL=https://openload.co/f/AyYfn1TqAlI/Traffik_2018_HDCAM_ENG_X264_-_SugarTits_SeeHD.mkv.mp4
 
-type=video
-name=Terminal (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg
-date=2018-05-11
-URL=https://openload.co/f/BLFPcnQ94OM/Terminal.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mkv.mp4
-#https://openload.co/f/p2adG9K9gnQ/Terminal_2018_720pHD_SeeHD.mkv.mp4
+
 
 type=video
 name=Isle of Dogs (2018) ENG 1080p_WEB-DL_AAC_H264-CMRG
@@ -1350,12 +1351,42 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-25
+date=2018-06-27
 URL=
 
 
 
 
+type=video
+name=Let the Sunshine In (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ef4gmMkP4At2TZbHJ2lViwFG53S.jpg
+date=2018-06-27
+URL=https://openload.co/f/lZHzXTXC9q8/let.the.sunshine.in.2017.limited.1080p.bluray.x264-cadaver.mkv.mp4
+
+type=video
+name=Finding Your Feet (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iX9Shyt2NlczCn27KhhWintZ8xM.jpg
+date=2018-06-27
+URL=https://openload.co/f/DpUL-ARj0IM/finding.your.feet.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/1jzIXh8IdRE/Finding.Your.Feet.2017.720p.BluRay.X264-AMIABLE.mkv.mp4
+
+type=video
+name=Terminal (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg
+date=2018-06-27
+URL=https://openload.co/f/ahGc4j0-Fkw/Terminal.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/ApqijBF-WRc/terminal.2018.multi.1080p.bluray.x264-lost.mkv.mp4
+#https://openload.co/f/BLFPcnQ94OM/Terminal.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mkv.mp4
+#https://openload.co/f/p2adG9K9gnQ/Terminal_2018_720pHD_SeeHD.mkv.mp4
+
+type=video
+name=Spinning Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvIIUOoY2PQRQ6syWchzkfNaXT1.jpg
+date=2018-06-27
+URL=https://openload.co/f/veeYC4Cask4/Spinning.Man.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/AovtrwaX_Ck/spinning.man.2018.rerip.1080p.bluray.x264-brmp.mkv.mp4
+#https://openload.co/f/RZLwNuVGqLI/spinning.man.2018.1080p.bluray.x264-brmp.mkv.mp4
+#https://openload.co/f/BACz7uqKXT8/Spinning.Man.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Monster Island (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1472,6 +1503,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GZ3d9aOf7Fwkma4B575F3ux8V
 date=2018-06-17
 URL=https://openload.co/f/Syndc-a6TGI/Gemini.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/kNQsigIq5KY/Gemini.2017.720p.BR_SeeHD.mp4
+#https://openload.co/f/7pdtNl1psXU/gemini.2017.720p.bluray.x264-cinefile.mkv.mp4
 #https://www.blazefile.co/embed-7gvng9hii9gz.html   720
 #https://uptobox.com/qqg2qhdhwnyq   720
 #https://openload.co/embed/6AEB3nd_IY8/GEMINIBD72.Ganool.im.mkv.mp4
@@ -1508,8 +1540,9 @@ URL=https://www.blazefile.co/embed-viaragx00usc.html
 type=video
 name=Welcome to Willits (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KvFXyg3T3nQ94y7V14l9tbB6x9.jpg
-date=2018-06-12
-URL=https://openload.co/f/9slReYb7Oe4/Welcome.to.Willits.2016.1080p.BluRay.x264-UNVEiL.mkv.mp4
+date=2018-06-27
+URL=https://openload.co/f/C6aZRto94pQ/Welcome.to.Willits.2016.1080p.BR_SeeHD.mp4
+#https://openload.co/f/9slReYb7Oe4/Welcome.to.Willits.2016.1080p.BluRay.x264-UNVEiL.mkv.mp4
 #https://www.blazefile.co/embed-c583nfydtxse.html   720
 #https://uptobox.com/zeulwg67f45w   720
 
@@ -5097,11 +5130,7 @@ URL=https://www.blazefile.co/embed-9tl09mjesidg.html
 
 
 
-type=video
-name=Spinning Man (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvIIUOoY2PQRQ6syWchzkfNaXT1.jpg
-date=2018-06-16
-URL=https://openload.co/f/BACz7uqKXT8/Spinning.Man.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
 
 type=video
 name=Acrimony (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5236,10 +5265,11 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
-name=Incredibles 2 (2018) ENG FULL_HDCAM_x264-24HD_SeeHD
+name=Incredibles 2 (2018) ENG NEW.HDCAM.XViD.AC3-ETRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL9Uz2vq93vi20oxZEBBaSs4w8U.jpg
-date=2018-06-26
-URL=https://openload.co/f/_hLpk18cxmo/The_Incredibles_2_2018_FULL_HDCAM_x264-24HD_SeeHD.mkv.mp4
+date=2018-06-27
+URL=https://openload.co/f/k9SXQsc9kGg/The_Incredibles_2.2018.NEW.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/_hLpk18cxmo/The_Incredibles_2_2018_FULL_HDCAM_x264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/-TddfwsIN90/Incredibles.2.2018.New.720p.HDCAM.NO.LOGO.X264.AC3.Fugitive.mkv.mp4
 #https://openload.co/f/4SFCu-hB8m0/Incredibles.2.2018.720p.TS.Eng.E.mp4
 #https://openload.co/f/mUN8MVzw2d8/The_Incredibles_2_2018_NEW_HDCAM_X264-CPG_SeeHD.mkv.mp4
@@ -8998,10 +9028,11 @@ URL=https://openload.co/f/d5NkC-Vdkvg/Super.Troopers.2001.1080p.BR_SeeHD.mp4
 #https://openload.co/f/ASeav2AG6kg/Super_Troopers.2001.HD_720p.160523.mp4
 
 type=video
-name=Captain America: Civil War (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Captain America: Civil War (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSBXou5Ac7vEqKd97wotJumyJvU.jpg
-date=2018-05-14
-URL=https://www.blazefile.co/embed-f5zwvbc8tfo0.html
+date=2018-06-27
+URL=https://openload.co/f/EbTOyQCMnAE/Captain.America.Civil.War.2016.1080p.BR_SeeHD.mp4
+#https://www.blazefile.co/embed-f5zwvbc8tfo0.html
 #http://uptobox.com/pydxqpka1y06
 #https://openload.co/f/Fke2V5xCThQ/Captain_America_Civil_War_%282016%29720p_BluRay_X264-AMIABLE.Ganool.im.mkv.mp4
 

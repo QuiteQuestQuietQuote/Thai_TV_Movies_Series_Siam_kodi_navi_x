@@ -160,7 +160,344 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
  
 
 
-
+#EXTINF:-1,TRHILL
+http://cdn2.bear-tv.com/freetv/TOT_Thrill/playlist.m3u8
+#EXTINF:-1,CCM
+https://www.doohdbox.com/assets/201804041103021708743536.jpg
+#EXTINF:-1,WARNER TV
+http://main-a.for-our.info:8081/tv11/wbtv/chunks.m3u8
+#EXTINF:-1,TRUE ASIAN HD
+http://27.254.64.112:1935/thflixCH/True_Asian_Series.stream/chunklist.m3u8
+#EXTINF:-1,TRUE FILM HD
+http://iptvthai.webhop.biz:443/hd-tfilm_720/index.m3u8
+#EXTINF:-1,TRUE FILM ASIA
+http://iptvthai.webhop.biz:443/sd-filmasia_480/index.m3u8
+#EXTINF:-1,TRUE THAI FILM
+http://main-a.for-our.info:8081/tv11/thaifilm/chunks.m3u8
+#EXTINF:-1,TRUE Movie Hit
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/115.m3u8
+#EXTINF:-1,FOX ACTION MOVIE
+http://iptvthai.webhop.biz:443/hd-foxaction_720/index.m3u8
+#EXTINF:-1,FOX FAMILY MOVIE
+http://iptvthai.webhop.biz:443/hd-foxfamily_720/index.m3u8
+#EXTINF:-1,FOX MOVIE PREMIUM
+http://iptvthai.webhop.biz:443/hd-foxpremium_720/index.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="http://www.sine.tv/images/icon/foxaction.png",Fox Action Movies
+http://103.212.181.21:8080/hdlive/206105b34a1c44b886c6cd3c59105803.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="http://www.sine.tv/images/icon/foxaction.png",Fox Action Movies
+http://27.254.64.112:1935/thflixCH/FOX_ACTION_MOVIES_TH.stream/chunklist_w548809040.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="http://www.sine.tv/images/icon/foxaction.png",Fox Action Movies
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/56.m3u8
+#EXTINF:-1,TRUE SERIE
+http://iptvthai.webhop.biz:443/sd-series_480/index.m3u8
+#EXTINF:-1,FOX THAI
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/61.m3u8
+#EXTINF:-1,FOX CRIME
+http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_TH/playlist.m3u8
+#EXTINF:-1,CHANNEL 8
+http://usa.login.in.th:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1,IPM-A Film HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/246.m3u8
+#EXTINF:-1,IPM-Movie HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/248.m3u8
+#EXTINF:-1,IPM-Movie Sat HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/250.m3u8
+#EXTINF:-1,IPM-SERIE+ HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/249.m3u8
+#EXTINF:-1,IPM-Sky World 1 HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/243.m3u8
+#EXTINF:-1,IPM-Sky World 2 HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/245.m3u8
+#EXTINF:-1,Thflix Movie
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/245.m3u8
+#EXTINF:-1,KBS WORLD
+http://139.99.38.3:443/hd-kbsworld_720/index.m3u8
+#EXTINF:-1,M CHANNEL
+http://main-a.for-our.info:8081/tv1/ch19.m3u8
+#EXTINF:-1,Blue Ant
+http://139.99.38.2:443/hd-rtlcbs_720/index.m3u8
+#EXTINF:-1,SONY TV
+http://139.99.38.2:443/hd-sonytv_720/index.m3u8
+#EXTINF:-1,TVB
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/122.m3u8
+#EXTINF:-1,Cartoon Network
+http://main-a.for-our.info:8081/tv11/cartoonnetwork/chunks.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://main-a.for-our.info:8081/tv11//disney/chunks.m3u8
+#EXTINF:-1,NICK JR
+http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8
+#EXTINF:-1,DISNEY XD
+http://main-a.for-our.info:8081/tv11/disneyxd/chunks.m3u8
+#EXTINF:-1,TRUE SPARK JUMP
+http://main-a.for-our.info:8081/tv11/sparkjump/chunks.m3u8
+#EXTINF:-1,TRUE SPARK PLAY
+http://main-a.for-our.info:8081/tv11/sparkplay/chunks.m3u8
+#EXTINF:-1,BOOMERANG
+http://main-a.for-our.info:8081/tv1/ch18.m3u8
+#EXTINF:-1,CARTOON CLUB
+https://p0.adintrend.com/live/ch31/i/ch31i.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/15.m3u8
+#EXTINF:-1,BBC EARTH
+http://139.99.38.3:443/sd-bbcearth_720/index.m3u8
+#EXTINF:-1,BBC Lifestyle
+http://139.99.38.3:443/sd-bbclifestyle_720/index.m3u8
+#EXTINF:-1,Nat Geo People
+http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8
+#EXTINF:-1,Natgeo Wild
+http://cdn2.bear-tv.com/freetv/TOT_NATGEO_Wild_TH/chunks.m3u8
+#EXTINF:-1,Natgeo Graphic
+http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_th/chunks.m3u8
+#EXTINF:-1,DISCOVERY
+http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
+#EXTINF:-1,DISCOVERY ASIA
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/42.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/44.m3u8
+#EXTINF:-1,HITSTORY
+http://iptvthai.webhop.biz:443/hd-history_720/index.m3u8
+#EXTINF:-1,H2
+http://iptvthai.webhop.biz:443/hd-history2_720/index.m3u8
+#EXTINF:-1,TRUE EXPLORE LIFE
+http://main-a.for-our.info:8081/tv11/explorelife/chunks.m3u8
+#EXTINF:-1,TRUE EXPLORE SCINE
+http://27.254.64.112:1935/thflixCH/True_Explore_Sci.stream/chunklist.m3u8
+#EXTINF:-1,TRUE EXPLORE WILD
+http://main-a.for-our.info:8081/tv11/explorewild/chunks.m3u8
+#EXTINF:-1,SCI CRIME
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/57.m3u8
+#EXTINF:-1,Somrojrok
+http://191.96.38.54:19358/footballfuck/0x222_monoplus_720p/playlist.m3u8
+#EXTINF:-1,FYI
+http://cdn2.bear-tv.com/freetv/TOT_Fyi/playlist.m3u8
+#EXTINF:-1,BEIN SPORT 1
+http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8
+#EXTINF:-1,BEIN SPORT 2
+http://191.96.38.54:19358/footballfuck/0x777_beinsporthd2_720p/chunklist.m3u8
+#EXTINF:-1,BEIN SPORT 3
+http://main-a.for-our.info:8081/tv11/bein3/playlist.m3u8
+#EXTINF:-1,BEIN SPORT 4
+http://191.96.38.54:19358/footballfuck/0x777_beinsporthd4_720p/playlist.m3u8
+#EXTINF:-1,BEIN SPORT 5
+http://ssl2.sakkarinsai8.com:19358/footballfuck/0x222_beinsporthd5_720p/chunklist.m3u8
+#EXTINF:-1,BEIN SPORT 6
+https://cdn-center.livestream-cdn.com/sporttrue/bein_sports_6_720p.stream/media-uo3k1y9yp_1408.m3u8
+#EXTINF:-1,TRUE SPORT HD 1
+http://main-a.for-our.info:8081/tv11/sporthd1/chunks.m3u8
+#EXTINF:-1,TRUE SPORT HD 2
+http://main-a.for-our.info:8081/tv11/sporthd2/chunks.m3u8
+#EXTINF:-1,TRUE SPORT HD 3
+http://main-a.for-our.info:8081/tv11/sporthd3/chunks.m3u8
+#EXTINF:-1,TRUE SPORT HD 4
+http://128.199.155.69:2200/HD2live-S3/hd-tsport4.stream/chunklist.m3u8
+#EXTINF:-1,FOX SPORT 1
+http://main-a.for-our.info:8081/tv11/fox1/chunks.m3u8
+#EXTINF:-1,FOX SPORT 2
+http://main-a.for-our.info:8081/tv11/fox2/chunks.m3u8
+#EXTINF:-1,FOX SPORT 3
+http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
+#EXTINF:-1,TRUE SPORT HD 1
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/229.m3u8
+#EXTINF:-1,TRUE SPORT HD 2
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/230.m3u8
+#EXTINF:-1,TRUE SPORT HD 3
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/231.m3u8
+#EXTINF:-1,TRUE SPORT HD 4
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/232.m3u8
+#EXTINF:-1,T SPORT
+http://iheart-totiptv.better-than.tv:8080/iheart/3ee1e656d6ae417a914743328d44f20f.m3u8?s=ce83e24cd50c9ecb4361805c159df151
+#EXTINF:-1,SMM TV
+http://edge4-bkk.3bb.co.th:1935/SMMTV_Livestream/smmtv_high.stream/playlist.m3u8
+#EXTINF:-1,Skynet SPORT HD
+http://191.96.38.54:19358/footballfuck/0x777_skynetsporthd_720p/playlist.m3u8
+#EXTINF:-1,Skynet SPORT 1
+http://191.96.38.54:19358/footballfuck/00_skynetsport1_480p/playlist.m3u8
+#EXTINF:-1,Skynet SPORT 2
+http://191.96.38.54:19358/footballfuck/00_skynetsport2_480p/playlist.m3u8
+#EXTINF:-1,Skynet SPORT 3
+http://191.96.38.54:19358/footballfuck/00_skynetsport3_480p/playlist.m3u8
+#EXTINF:-1,Skynet SPORT 4
+http://191.96.38.54:19358/footballfuck/00_skynetsport4_480p/playlist.m3u8
+#EXTINF:-1,Skynet SPORT 5
+http://191.96.38.54:19358/footballfuck/00_skynetsport5_480p/playlist.m3u8
+#EXTINF:-1,Skynet SPORT 6
+http://191.96.38.54:19358/footballfuck/00_skynetsport6_480p/playlist.m3u8
+#EXTINF:-1,Motorvision
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/188.m3u8
+#EXTINF:-1,BT Sport ESPN
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/163.m3u8
+#EXTINF:-1,BT Sport 1
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/160.m3u8
+#EXTINF:-1,BT Sport 2
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/161.m3u8
+#EXTINF:-1,BT Sport 3
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/162.m3u8
+#EXTINF:-1,EURO SPORT 1
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1,EURO SPORT 2
+http://ssl2.sakkarinsai8.com:19358/footballfuck/0x444_eurosport2pl_360p/playlist.m3u8
+#EXTINF:-1,DUBAI RACING
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,DUBAI Sport 1
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
+#EXTINF:-1,DUBAI Sport 2
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
+#EXTINF:-1,Abu Dhabi 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,Abu Dhabi 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8?v=2734522597
+#EXTINF:-1,Abu Dhabi 3
+http://adtv.ercdn.net/adsportextra/adsportextra_480p.m3u8?v=2590751696
+#EXTINF:-1,Motor GP
+http://sg.doohdbox.com:8080/skymotor/mono.m3u8
+#EXTINF:-1,Sk Sport Football
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/208.m3u8
+#EXTINF:-1,Sky Sport F1
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/207.m3u8
+#EXTINF:-1,Sky Sport Premiere
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/213.m3u8
+#EXTINF:-1,Sky Sport Action
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/204.m3u8
+#EXTINF:-1,Arena Sport 1
+http://139.99.9.49:8084/iptvhero-inter/arenasport1.stream/chunks.m3u8
+#EXTINF:-1,Arena Sport 2
+http://139.99.9.49:8084/iptvhero-inter/arenasport2.stream/chunks.m3u8
+#EXTINF:-1,Arena Sport 3
+http://139.99.9.49:8084/iptvhero-inter/arenasport3.stream/chunks.m3u8
+#EXTINF:-1,Arena Sport 4
+http://139.99.9.49:8084/iptvhero-inter/arenasport4.stream/chunks.m3u8
+#EXTINF:-1,Arena Sport 5
+http://139.99.9.49:8084/iptvhero-inter/arenasport5.stream/chunks.m3u8
+#EXTINF:-1,Redbull HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,SABUYDEE TV
+http://stream.rs.co.th/sbd-hi/index.m3u8
+#EXTINF:-1,YOU CHANNEL
+http://stream.rs.co.th/you-hi/index.m3u8
+#EXTINF:-1,itv
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/70.m3u8
+#EXTINF:-1,3 HD
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/3hd.smil/chunklis.m3u8
+#EXTINF:-1,3 SD
+http://103.212.181.21:8080/hdlive/0296e16fac6149ed99004125f37fa2e4.m3u8
+#EXTINF:-1,3 FAMILY
+http://main-a.for-our.info:8081/tv2/ch1.m3u8
+#EXTINF:-1,5 HD
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/5hd.smil/chunklist.m3u8
+#EXTINF:-1,7 HD
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/7hd.smil/chunklist.m3u8
+#EXTINF:-1,MCOT HD
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/mcothd.smil/chunklist.m3u8
+#EXTINF:-1,MCOT FAMILY
+http://main-a.for-our.info:8081/tv2/ch4.m3u8
+#EXTINF:-1,NBT
+http://main-a.for-our.info:8081/tv1/ch14.m3u8
+#EXTINF:-1,TPBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1,WORKPOINT
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/workpointtv.smil/chunklist.m3u8
+#EXTINF:-1,WORKPOINT HD
+https://stream-03.sg1.dailymotion.com/48/dm/3/x6g9qjj/live-4.m3u8
+#EXTINF:-1,MONO29
+http://main-a.for-our.info:8081/tv1/ch3.m3u8
+#EXTINF:-1,CH8
+http://111.223.51.5/desktop/ch8_720p/playlist.m3u8
+#EXTINF:-1,THAI RATH HD
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1,ONE HD
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/onehd.smil/chunklist.m3u8
+#EXTINF:-1,TRUE4U
+http://191.96.38.54:19358/footballfuck/00_true4u_480p/playlist.m3u8
+#EXTINF:-1,AMARIN HD
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/amarinhd.smil/chunklist.m3u8
+#EXTINF:-1,NOW26
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/90.m3u8
+#EXTINF:-1,GMM 25
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/gmmchannel.smil/chunklist.m3u8
+#EXTINF:-1,NEW TV 18
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/newstv.smil/chunklist.m3u8
+#EXTINF:-1,NOW TV
+http://nationstream.nationgroup.com/hls/th_high.m3u8
+#EXTINF:-1,PPTV 36
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/pptvhd.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="http://www.thaiptv.com/img/monopluslogo.png",MONO Plus+
+http://103.212.181.21:8080/hdlive/9623847065ba466e90632cf686fade0b.m3u8
+#EXTINF:-1  tvg-logo="http://www.thaiptv.com/img/samrojlok.jpg", Samrujlok
+http://ssl2.sakkarinsai8.com:19358/footballfuck/0x222_monoplus_720p/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN1Thai.png",Bein Sport 1
+http://139.99.38.2:443/epl-bein1_1080/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN1Thai.png",Bein Sport 1
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/7.m3u8
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN1Thai.png",Bein Sport 1
+http://iptvthai.webhop.biz:443/epl-bein1_720/index.m3u8?
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN2Thai.png",Bein Sport 2
+http://139.99.38.2:443/epl-bein2_1080/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN2Thai.png",Bein Sport 2
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/150.m3u8
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN2Thai.png",Bein Sport 2
+http://iptvthai.webhop.biz:443/epl-bein2_720/index.m3u8?
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN3Thai.png",Bein Sport 3
+http://139.99.38.3:443/epl-bein3_1080/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN3Thai.png",Bein Sport 3
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/8.m3u8
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN3Thai.png",Bein Sport 3
+http://iptvthai.webhop.biz:443/epl-bein3_720/index.m3u8?
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN4Thai.png",Bein Sport 4
+http://139.99.38.2:443/epl-bein4_1080/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN4Thai.png",Bein Sport 4
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/155.m3u8
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN4Thai.png",Bein Sport 4
+http://iptvthai.webhop.biz:443/epl-bein4_720/index.m3u8?
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN5Thai.png",Bein Sport 5
+http://ssl2.sakkarinsai8.com:19358/footballfuck/0x222_beinsporthd5_720p/chunklist.m3u8?
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN6Thai.png",Bein Sport 6
+https://cdn-center.livestream-cdn.com/sporttrue/bein_sports_6_720p.stream/media-uo3k1y9yp_1408.m3u8?
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd.png",True Sport HD1
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/229.m3u8
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd.png",True Sport HD1
+http://iptvthai.webhop.biz:443/hd-tsport1_720/index.m3u8?
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd.png",True Sport HD1
+http://ssl2.sakkarinsai8.com:19358/footballfuck/0x777_2sporthd1_720p/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd2.png",True Sport HD2
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/230.m3u8
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd2.png",True Sport HD2
+http://iptvthai.webhop.biz:443/hd-tsport2_720/index.m3u8?
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd2.png",True Sport HD2
+http://ssl2.sakkarinsai8.com:19358/footballfuck/0x777_2sporthd2_720p/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd3.png",True Sport HD3
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/231.m3u8
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd3.png",True Sport HD3
+http://iptvthai.webhop.biz:443/hd-tsport3_720/index.m3u8?
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd3.png",True Sport HD3
+http://ssl2.sakkarinsai8.com:19358/footballfuck/0x777_2sporthd3_720p/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd3.png",True Sport HD4
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/232.m3u8
+#EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic
+http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_th/chunks.m3u8?
+#EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic
+http://103.212.181.21:8080/hdlive/29fb241f985c468e8e6ffa8942b00a69.m3u8
+#EXTINF:-1  tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/725_300.png",NatGeo People
+http://103.212.181.21:8080/hdlive/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8
+#EXTINF:-1  tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/725_300.png",NatGeo People
+http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8?
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",NatGeo Wild
+http://cdn2.bear-tv.com/freetv/TOT_NATGEO_Wild_TH/chunks.m3u8?
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",NatGeo Wild
+http://103.212.181.21:8080/hdlive/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8
+#EXTINF:-1  tvg-logo="https://pmcdeadline2.files.wordpress.com/2012/12/discovery-communications__121214124042.jpg",Discovery  
+http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8?
+#EXTINF:-1,Discovery Turbo
+http://27.254.64.112:1935/thflixCH/Discovery_Turbo.stream/chunklist_w857049800.m3u8
+#EXTINF:-1 group-title="DOCU" tvg-logo="https://football-hd.com/img_channel.php?c=ch_534568170546f4_06987830.png",H2 Channel
+http://27.254.64.112:1935/thflixCH/H2.stream/chunklist_w1031243617.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History
+http://139.99.38.2:443/hd-history_720/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/68.m3u8
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/Discovery_HD_old.png/revision/latest?cb=20100126202109",Discovery Asia
+http://139.99.38.2:443/hd-discovery_720/index.m3u8
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/Discovery_HD_old.png/revision/latest?cb=20100126202109",Discovery Asia
+http://27.254.64.112:1935/thflixCH/Discovery_HD_World.stream/playlist.m3u8
 
 
 
@@ -1033,30 +1370,8 @@ http://playlist.onlybest.tv/ru/channel/e5f27c7056f064eafe884e891bfb8f89/854/inde
 
 
 
-#EXTINF:-1,Erotic1 
-http://176.67.211.6:9000/udp/239.1.7.1:22701 
-#EXTINF:-1,Reality Kings 
-http://176.67.211.6:9000/udp/239.1.7.11:22711 
-#EXTINF:-1,Private TV HD 
-http://176.67.211.6:9000/udp/239.1.7.20:22720 
-#EXTINF:-1,Dorcel TV HD 
-http://176.67.211.6:9000/udp/239.1.7.22:22722 
-#EXTINF:-1,Dorcel HD 
-http://176.67.211.6:9000/udp/239.1.7.23:22723 
-#EXTINF:-1,New 
-http://176.67.211.6:9000/udp/239.1.7.25:22725 
-#EXTINF:-1,Stars XXX HD 
-http://176.67.211.6:9000/udp/239.1.7.24:22724 
-#EXTINF:-1,AS 1 HD 
-http://176.67.211.6:9000/udp/239.1.9.1:22901 
-#EXTINF:-1,AS 2 HD 
-http://176.67.211.6:9000/udp/239.1.9.2:22902 
-#EXTINF:-1,AS 3 HD 
-http://176.67.211.6:9000/udp/239.1.9.3:22903 
-#EXTINF:-1,AS 4 HD 
-http://176.67.211.6:9000/udp/239.1.9.4:22904 
-#EXTINF:-1,AS 5 HD 
-http://176.67.211.6:9000/udp/239.1.9.5:22905
+
+
 
 
 
@@ -2191,13 +2506,25 @@ http://217.107.192.37:9981/stream/channelid/880272774?ticket=4ABC2A834825A9F40EB
 
 
 
+#EXTINF:-1,Erotic1 
+http://176.67.211.6:9000/udp/239.1.7.1:22701 
+#EXTINF:-1,Reality Kings 
+http://176.67.211.6:9000/udp/239.1.7.11:22711 
+#EXTINF:-1,Private TV HD 
+http://176.67.211.6:9000/udp/239.1.7.20:22720 
+#EXTINF:-1,Dorcel TV HD 
+http://176.67.211.6:9000/udp/239.1.7.22:22722 
+#EXTINF:-1,Dorcel HD 
+http://176.67.211.6:9000/udp/239.1.7.23:22723 
+#EXTINF:-1,New 
+http://176.67.211.6:9000/udp/239.1.7.25:22725 
+#EXTINF:-1,Stars XXX HD 
+http://176.67.211.6:9000/udp/239.1.7.24:22724 
 
 
 
 
 
-#EXTINF:-1,movie24
-rtmp://tv01.thaizatv.com/drm/movie1
 #EXTINF:-1 group-title="movies" tvg-logo="http://html.login.in.th/flashstreaming/img/ch8.jpg",channel8thailand
 https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
 #EXTINF:-1,BBC PLAYER
@@ -2236,6 +2563,8 @@ http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/248.m3u8
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/249.m3u8
 #EXTINF:-1,I HD
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/250.m3u8
+#EXTINF:-1,movie24
+rtmp://tv01.thaizatv.com/drm/movie1
 
 
 
@@ -2244,14 +2573,14 @@ http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/250.m3u8
 
 
 
-#EXTINF:-1,BBC LIFESTYLE_thflixCH_103
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/19.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",DISCOVER ASIA_thflixCH_103
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/42.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE_thflixCH_103
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/84.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_thflixCH_103
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/17.m3u8
+#EXTINF:-1,BBC LIFESTYLE_thflixCH_103
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/19.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_thflixCH_103
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/18.m3u8
 
@@ -2275,8 +2604,8 @@ http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_480p/index.m3u8
 https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC
 http://203.162.235.41:17819
-
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_thflixCH
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/37.m3u8
 
 
 
