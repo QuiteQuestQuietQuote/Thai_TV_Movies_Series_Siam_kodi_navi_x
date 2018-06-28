@@ -76,10 +76,11 @@ URL=
 
 
 type=video
-name=Gotti (2018) ENG HDRip.AC3.X264-CMRG
+name=Gotti (2018) ENG 1080p.AMZN_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJODtXkQBK0lEmD4x5KkALnSiN1.jpg
-date=2018-06-27
-URL=https://openload.co/f/cOxTWMClj58/Gotti.2018.HDRip.AC3.X264-CMRG.mkv.mp4
+date=2018-06-28
+URL=https://openload.co/f/udn5jw48kLc/Gotti.2018.1080p.AMZN_SeeHD.mkv.mp4
+#https://openload.co/f/cOxTWMClj58/Gotti.2018.HDRip.AC3.X264-CMRG.mkv.mp4
 
 type=video
 name=I Feel Pretty (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
@@ -1358,6 +1359,25 @@ URL=
 
 
 type=video
+name=Beirut (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2qIeFsI9TskZr1LkSwljQDh5nl.jpg
+date=2018-06-28
+URL=https://www.blazefile.co/embed-wrnkboqzant2.html
+#https://uptobox.com/ydcfdm0wghkn
+#https://openload.co/embed/3FhUHDORCwY/GHPBEIRUT80.Ganool.im.mkv.mp4
+#https://openload.co/f/DiFM71ipDZk/Beirut_%282018%29_%5B1080p%5D_BluRay_x264-%5BYTS_AM%5D_mp4
+#https://openload.co/f/cYSDaLgeurQ/Beirut.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
+
+type=video
+name=The Escape of Prisoner 614 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2zDJe9MaBW7XYjRdbYNlIqRNvZ.jpg
+date=2018-06-28
+URL=https://openload.co/f/CxYjJtZxtkw/The.Escape.of.Prisoner.614.2018.1080p.BR_SeeHD.mp4
+#https://www.blazefile.co/embed-syfwi6sp6brf.html   720
+#https://uptobox.com/3lhijr97trpc   720
+#https://openload.co/embed/_qAi2dejj4M/THEESACPEPRISONER614BD72.Ganool.im.mkv.mp4
+
+type=video
 name=Let the Sunshine In (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ef4gmMkP4At2TZbHJ2lViwFG53S.jpg
 date=2018-06-27
@@ -1369,6 +1389,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iX9Shyt2NlczCn27KhhWintZ8x
 date=2018-06-27
 URL=https://openload.co/f/DpUL-ARj0IM/finding.your.feet.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/1jzIXh8IdRE/Finding.Your.Feet.2017.720p.BluRay.X264-AMIABLE.mkv.mp4
+#https://www.blazefile.co/embed-5h54xa2t3avx.html   720
+#https://uptobox.com/ytmgy97y2yud   720
+#https://openload.co/embed/odxucfDVm2s/FINDINGYOURFEETBD72.Ganool.im.mkv.mp4
 
 type=video
 name=Terminal (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1378,12 +1401,18 @@ URL=https://openload.co/f/ahGc4j0-Fkw/Terminal.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/ApqijBF-WRc/terminal.2018.multi.1080p.bluray.x264-lost.mkv.mp4
 #https://openload.co/f/BLFPcnQ94OM/Terminal.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mkv.mp4
 #https://openload.co/f/p2adG9K9gnQ/Terminal_2018_720pHD_SeeHD.mkv.mp4
+#https://www.blazefile.co/embed-dtqnx4hv4ip5.html   720
+#https://uptobox.com/xb2pnsduf5au   720
+#https://openload.co/embed/aSLMvuWqmZk/SHQTERMINABD72.Ganool.im.mkv
 
 type=video
 name=Spinning Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvIIUOoY2PQRQ6syWchzkfNaXT1.jpg
-date=2018-06-27
-URL=https://openload.co/f/veeYC4Cask4/Spinning.Man.2018.1080p.BR_SeeHD.mp4
+date=2018-06-28
+URL=https://www.blazefile.co/embed-rrr7aqz4sm96.html
+#https://uptobox.com/bq2t9ygn6308
+#https://openload.co/embed/LAQeXqwDyGE/GHPSPINNINGMAN80.Ganool.im.mkv
+#https://openload.co/f/veeYC4Cask4/Spinning.Man.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/AovtrwaX_Ck/spinning.man.2018.rerip.1080p.bluray.x264-brmp.mkv.mp4
 #https://openload.co/f/RZLwNuVGqLI/spinning.man.2018.1080p.bluray.x264-brmp.mkv.mp4
 #https://openload.co/f/BACz7uqKXT8/Spinning.Man.2018.720p.BluRay.H264.AAC-RARBG.mp4
@@ -1398,8 +1427,11 @@ URL=https://openload.co/f/Kly4JxpUFRM/Monster.Island.2017.1080p.BluRay.x264-GUAC
 type=video
 name=Dark River (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgzMPafOXa4wCGMvHGNpJLbr7Xv.jpg
-date=2018-06-26
-URL=https://openload.co/f/OBtazsY55DU/Dark.River.2017.1080p.BR_SeeHD.mp4
+date=2018-06-28
+URL=https://www.blazefile.co/embed-szpx74s9qzhm.html
+#https://uptobox.com/vj1svnh66ih5
+#https://openload.co/embed/5a-ivWaLKrM/GHPDARKRIVER80.anool.im.mkv
+#https://openload.co/f/OBtazsY55DU/Dark.River.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/BDCFT-N18Mg/Dark.River.2017.1080p.BluRay.x264-EiDER.mkv.mp4
 #https://www.blazefile.co/embed-q61x88evufgh.html   720
 #https://uptobox.com/vlveyk0d5cq6   720
@@ -1440,6 +1472,9 @@ URL=https://openload.co/f/G3XAIZwY-eY/Blockers.2018.1080p.BluRay.H264.AAC-RARBG.
 #https://openload.co/f/_KdQ6h2tcuY/Blockers.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/ldRfsfT-Q7Q/Blockers_2018_720p_WEB-DL_X264_AC3-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/YVmsPcZ37Qc/Blockers.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
+#https://www.blazefile.co/embed-dx8mtrcd5tw5.html   720
+#https://uptobox.com/1g5o09u8u4yp   720
+#https://openload.co/embed/6vkK4MXViWs/SHQBL0CKERSBD72.Ganool.im.mkv.mp4
 
 type=video
 name=The Endless (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5152,13 +5187,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM0F1akfdDpbOpih8uIM1qvr2r
 date=2018-06-17
 URL=https://openload.co/f/GXVcA2IYGR8/tamako.love.story.2014.720p.bluray.x264-haiku.mkv.mp4
 
-type=video
-name=The Escape of Prisoner 614 (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2zDJe9MaBW7XYjRdbYNlIqRNvZ.jpg
-date=2018-06-19
-URL=https://www.blazefile.co/embed-syfwi6sp6brf.html
-#https://uptobox.com/3lhijr97trpc
-#https://openload.co/embed/_qAi2dejj4M/THEESACPEPRISONER614BD72.Ganool.im.mkv.mp4
+
 
 type=video
 name=Destiny: The Tale of Kamakura (2017) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
@@ -5169,11 +5198,7 @@ URL=https://www.blazefile.co/embed-68nphjy36cwm.html
 #https://openload.co/embed/w2_JkgLYAds/Destiny.The.Tale.of.Kamakura.2017.BluRay.720p.900MB.Ganool.im.mkv
 #https://openload.co/f/8QhGct9U2PE/Destiny.The.Tale.of.Kamakura.2017.BluRay.720p.900MB.Ganool.mkv.mp4
 
-type=video
-name=Beirut (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2qIeFsI9TskZr1LkSwljQDh5nl.jpg
-date=2018-06-22
-URL=https://openload.co/f/cYSDaLgeurQ/Beirut.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
+
 
 type=video
 name=Padmaavat (2018) [COLOR=FF00FF00]HIN BR 720p[/COLOR]
@@ -5183,7 +5208,20 @@ URL=https://www.blazefile.co/embed-ui66l9vcawts.html
 #https://uptobox.com/4ir0uich1pkd
 #https://openload.co/embed/jp-RWhr76ek/SHQPADMAVAATBD72.Ganool.im.mkv
 
+type=video
+name=211 (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/81RColr4rau6DZ7z9eMsksokcfk.jpg
+date=2018-06-28
+URL=https://www.blazefile.co/embed-5gp6s2dla40u.html
+#https://uptobox.com/lrkuwglf5wss
+#https://openload.co/embed/OE23zSQC8ko/211BD72.Ganool.im.mkv.mp4
+#https://openload.co/f/ardRHxBIMkk/211.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
 
+type=video
+name=Mary Magdalene (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLbqnVAmD8ISel1SLTY3Ek0TWz8.jpg
+date=2018-06-28
+URL=https://openload.co/f/RhIhhtNO6f8/Mary_Magdalene.2018.720p.BDRip.X264.AC3-EVO.mkv.mp4
 
 
 
@@ -5192,7 +5230,7 @@ URL=https://www.blazefile.co/embed-ui66l9vcawts.html
 type=video
 name=
 thumb=
-date=2018-06-26
+date=2018-06-28
 URL=http://203.162.235.41:17819
 
 
@@ -7020,8 +7058,11 @@ URL=https://streamango.com/f/rcnscffcdpdcsksc/Operation_Red_Sea_2018_
 type=video
 name=7 Days in Entebbe (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrC63ikbK4jDp3knvBqxPoWYEMM.jpg
-date=2018-06-23
-URL=https://openload.co/f/eyceQFfY2LY/7.Days.in.Entebbe.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
+date=2018-06-28
+URL=https://www.blazefile.co/embed-0srt4lblfk6v.html
+#https://uptobox.com/3kebo4szjbth
+#https://openload.co/embed/wYpgCIiJXU0/SHQ7DAYSINETEBBEBD72.Ganool.im.mkv.mp4
+#https://openload.co/f/eyceQFfY2LY/7.Days.in.Entebbe.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
 #https://openload.co/f/4orjr6uMSx4/7_Days_in_Entebbe.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/MGkJDoZElmo/7_Days_in_Entebbe.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 type=video
@@ -7129,10 +7170,15 @@ URL=https://streamango.com/f/nlcqdoenraatbppm/The_Strangers_Prey_at_Night_2018_
 
 
 type=video
-name=A Quiet Place (2018) ENG 1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D
+name=A Quiet Place (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
-date=2018-06-26
-URL=https://openload.co/f/zGe3APJU9NE/A_Quiet_Place.2018.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
+date=2018-06-28
+URL=https://www.blazefile.co/embed-dvtva64u8b09.html
+#https://uptobox.com/lmyvc27quwlu
+#https://openload.co/embed/zl4k5UOeW6A/GHPAQUIETPLCE80.Ganool.im.mkv.mp4
+#https://openload.co/f/fh6wLIIsPwo/A.Quiet.Place.2018.1080p.Br_SeeHD.mp4
+#https://openload.co/f/1FZdaHJHC2U/A.Quiet.Place.2018.720p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/zGe3APJU9NE/A_Quiet_Place.2018.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
 #https://openload.co/f/ZrD7yHh0cmk/A_Quiet_Place.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/h8acclwszug/A_Quiet_Place.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/tgCRSk8Gg3o/A_Quiet_Place_%282018%29720p_HC_HDRip_X264_AC3-EVO.Ganool.im.mkv.mp4
@@ -8960,10 +9006,11 @@ date=2018-05-17
 URL=https://openload.co/f/C8a5z1zGPcQ/Labyrinth.1986.HD_720p.mp4
 
 type=video
-name=Sicario (2015) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Sicario (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2SdfGmQRaw8xhFbexlHL7srMM8.jpg
-date=2018-05-17
-URL=https://openload.co/f/IDj0pgkasBc/Sicario.2015.HD_720p.mp4
+date=2018-06-28
+URL=https://openload.co/f/YlVMgBhrMSE/Sicario.2015.1080p.BR_SeeHD.mp4
+#https://openload.co/f/IDj0pgkasBc/Sicario.2015.HD_720p.mp4
 
 type=video
 name=Logan (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
