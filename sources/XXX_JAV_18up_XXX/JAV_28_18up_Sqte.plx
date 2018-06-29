@@ -33,14 +33,14 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
-URL=
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_223908608382539_6269297331712032768_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&oh=65d4c267e8920c09a3adff8216d8d5d5&oe=5B36DF0C&itag=18
 
 
 type=video
 name=
 thumb=
 date=2018-06-15
-URL=
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1796426157074855_2424932814425161728_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=11877387acdbb8f96c180930351acd0b&oe=5B36CBCB&itag=22
 
 
 
@@ -330,7 +330,7 @@ type=video
 name=Sqte-151 S-cute Breasts Pretty Festival 8 Hours
 thumb=http://javdub.com/wp-content/uploads/2017/01/10303.jpg
 date=2018-06-15
-URL=http://cdn.vodstream.xyz/q5182/3674/000-hls/appid-10303/hls.m3u8
+URL=http://cdn.vodstream.xyz/q5182/3674/000-hls/appid-10303/hls.m3u8?v=3
 
 type=video
 name=SQTE-089 S-Cute Girl RANKINGS-2015 TOP10

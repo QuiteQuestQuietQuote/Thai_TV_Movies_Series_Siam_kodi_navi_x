@@ -58,6 +58,112 @@ URL=
 
 
 
+type=video
+name=126xxxxxxxxxxxxxxxxxxxxCum On My Tattoo 9 (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Cum-On-My-Tattoo-9-2018.jpg
+date=2018-06-29
+URL=https://streamcherry.com/embed/bptkredpqblfqlam/
+
+type=video
+name=Nae Yeojaui Jeongsa De (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Nae-Yeojaui-Jeongsa-De-2018.jpg
+date=2018-06-29
+URL=https://streamcherry.com/embed/dcqttksmqtlrmlok/
+
+type=video
+name=Chingu Ttaldeul Ui Mas (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Chingu-Ttaldeul-Ui-Mas-2018.jpg
+date=2018-06-29
+URL=https://streamcherry.com/embed/nptnrdsststtrbrl/
+
+type=video
+name=Bad Teens Punished 5 (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Bad-Teens-Punished-5-2018.jpg
+date=2018-06-29
+URL=https://streamcherry.com/embed/mpeqpampmbfonlec/
+
+type=video
+name=Friends Mother Her Nighttime Skill (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Friends-Mother-Her-Nighttime-Skill-2017-Uncut.jpg
+date=2018-06-29
+URL=https://streamcherry.com/embed/pdpaedrnaasotnnn/
+
+
+type=video
+name=Eolinjangmo (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Eolinjangmo-2018-Uncut.jpg
+date=2018-06-29
+URL=https://streamcherry.com/embed/mbtmlcblnemefpds/
+
+type=video
+name=Sexy Lingerie (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Sexy-Lingerie-2018.jpg
+date=2018-06-29
+URL=https://streamcherry.com/embed/mbrenkosqnpeobfl/
+
+type=video
+name=The Mixed Collage Girl Who Was Framed With Erotic Massage 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/The-Mixed-Collage-Girl-Who-Was-Framed-With-Erotic-Massage-2-2017.jpg
+date=2018-06-29
+URL=https://streamcherry.com/embed/mpeltnqfaqkbsamq/
+
+type=video
+name=Big Tits Hunter Genso Smile (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Big-Tits-Hunter-Genso-Smile-2017.jpg
+date=2018-06-29
+URL=https://streamcherry.com/embed/mtellorotrbocooa/
+
+type=video
+name=Rough And Ready (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Rough-And-Ready-2018.jpg
+date=2018-06-29
+URL=https://streamcherry.com/embed/bclrolqqsepdbmqm/
+
+
+type=video
+name=Sexy Massage For University Girls (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Sexy-Massage-For-University-Girls-2017.jpg
+date=2018-06-29
+URL=https://streamcherry.com/embed/cltkmnqpksaftsns/
+
+type=video
+name=Tales Of The Young And Busty (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Tales-Of-The-Young-And-Busty-2018.jpg
+date=2018-06-29
+URL=https://streamcherry.com/embed/alqnbcksrfnqeoek/
+
+type=video
+name=Chingueomma Yeojachinguui Eommaleul Tamhada (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Chingueomma-Yeojachinguui-Eommaleul-Tamhada-2018-Uncut.jpg
+date=2018-06-29
+URL=https://streamcherry.com/embed/lcfasdlpmkqbopss/
+
+type=video
+name=Binyogigwa Yeouisadeul (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Binyogigwa-Yeouisadeul-2017-Uncut.jpg
+date=2018-06-29
+URL=https://streamcherry.com/embed/dqbdtbodcrptrrpn/
+
+type=video
+name=It’s A Daddy Thing! 8 (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/It%E2%80%99s-A-Daddy-Thing-8-2018.jpg
+date=2018-06-29
+URL=https://streamcherry.com/embed/nttlbedkstmmrlla/
+
+
+type=video
+name=Three People Who Can Not Return Can Not Finish (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Three-People-Who-Can-Not-Return-Can-Not-Finish-2017.jpg
+date=2018-06-29
+URL=https://streamcherry.com/embed/ftpqbbrnqlsklpec/
+
+type=video
+name=YRICK NoroinoErovideo (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/YRICK-NoroinoErovideo-2015.jpg
+date=2018-06-29
+URL=https://streamcherry.com/embed/racobbsdnomdobmq/
+
+
 
 
 
