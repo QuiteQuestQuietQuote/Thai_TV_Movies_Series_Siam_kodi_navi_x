@@ -63,17 +63,24 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-06-27
+date=2018-06-29
 URL=
 
 
 
 
+type=video
+name=Sicario: Day of the Soldado (2018) ENG CAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XDlelZUNWmKgP2bcWL9c9G10eo.jpg
+date=2018-06-29
+URL=https://openload.co/f/8BFuQFmAJi8/Sicario_2_CAM_SeeHD.mkv.mp4
+#https://openload.co/f/r6Tadc5TwnM/Sicario_Day_of_the_Soldado_2018_720p_HDCAM_ENG_X264-P2P.mkv.mp4
 
-
-
-
-
+type=video
+name=Tag (2018) ENG 720p_HD-TS_x264_HQ-24HD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg
+date=2018-06-29
+URL=https://openload.co/f/A52Q2c9ui-4/TAG_2018_720p_HD-TS_x264_HQ-24HD_SeeHD.mkv.mp4
 
 type=video
 name=Gotti (2018) ENG 1080p.AMZN_SeeHD
@@ -1352,11 +1359,18 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-27
+date=2018-06-29
 URL=
 
 
 
+
+
+type=video
+name=Tarnation (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYSdvV1q7rbj3Nh5mTQKabeMmOk.jpg
+date=2018-06-29
+URL=https://openload.co/f/2t662AKPxhU/tarnation.2017.1080p.bluray.x264-getit.mkv.mp4
 
 type=video
 name=Beirut (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1365,6 +1379,7 @@ date=2018-06-28
 URL=https://www.blazefile.co/embed-wrnkboqzant2.html
 #https://uptobox.com/ydcfdm0wghkn
 #https://openload.co/embed/3FhUHDORCwY/GHPBEIRUT80.Ganool.im.mkv.mp4
+#https://openload.co/f/s8jvZ4kCSUQ/beirut.2018.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/DiFM71ipDZk/Beirut_%282018%29_%5B1080p%5D_BluRay_x264-%5BYTS_AM%5D_mp4
 #https://openload.co/f/cYSDaLgeurQ/Beirut.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
 
@@ -1465,8 +1480,9 @@ URL=https://www.blazefile.co/embed-t1rccdbbyo8s.html
 type=video
 name=Blockers (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qKMYfiJTcUQbuBl82yxrmLSCX5.jpg
-date=2018-06-22
-URL=https://openload.co/f/G3XAIZwY-eY/Blockers.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-06-29
+URL=https://openload.co/f/YfSYAN18n3o/Blockers.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/G3XAIZwY-eY/Blockers.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/lCMHIXtBj68/Blockers.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/UulMW6Gpmsw/Blockers.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/_KdQ6h2tcuY/Blockers.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
@@ -5223,6 +5239,27 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLbqnVAmD8ISel1SLTY3Ek0TWz
 date=2018-06-28
 URL=https://openload.co/f/RhIhhtNO6f8/Mary_Magdalene.2018.720p.BDRip.X264.AC3-EVO.mkv.mp4
 
+type=video
+name=Midnighters (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1j3NpA3NMbBKxbEFYYQu1fOGu1T.jpg
+date=2018-06-29
+URL=https://openload.co/f/1Anc9573Sf8/Midnighters.2017.720p.BR_SeeHD.mp4
+#https://openload.co/f/JUtfsSPrgxI/Midnighters.2017.720p.BluRay.x264.DTS-CHD.mkv.mp4
+
+type=video
+name=Rendel (2017) [COLOR=FF00FF00]FIN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHCzZEJWOw76ffhrnSQaRNHFNoq.jpg
+date=2018-06-29
+URL=https://openload.co/f/9fNtcdEl6Gg/Rendel_2017_720p_BDRip_AC3_X264-CMRG.mkv.mp4
+
+type=video
+name=The Wishing Forest (2018) [COLOR=FF00FF00]GER BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHP76nyVEhQ01JTFc6F7TtgCp4a.jpg
+date=2018-06-29
+URL=https://openload.co/f/hRPAq5DV9lQ/The.Wishing.Forest.2018.720p.BluRay.x264-GUACAMOLE.mkv.mp4
+
+
+
 
 
 
@@ -5230,7 +5267,7 @@ URL=https://openload.co/f/RhIhhtNO6f8/Mary_Magdalene.2018.720p.BDRip.X264.AC3-EV
 type=video
 name=
 thumb=
-date=2018-06-28
+date=2018-06-29
 URL=http://203.162.235.41:17819
 
 
@@ -5321,8 +5358,9 @@ URL=https://streamango.com/f/pmornaclntnlddoo/Incredibles_2_2018_2_
 type=video
 name=Ocean's 8 (2018) ENG 720p_HD-TS_X264-CPG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7caaqQjTkovwoZsEOPzgHvkzOWB.jpg
-date=2018-06-08
-URL=https://openload.co/f/jils94FsuGM/Oceans_8_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+date=2018-06-29
+URL=https://openload.co/f/7WkQfDnkctU/Oceans_8_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/jils94FsuGM/Oceans_8_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/egvFlNBBxlw/Oceans.8.2018.CAM.X264-IPT_SeeHD.mkv.mp4
 #https://openload.co/f/HNqXzm647eA/Oceans_8_2018_CAM_X264-CaixistaEstupido.mkv.mp4
 type=video
@@ -7062,6 +7100,7 @@ date=2018-06-28
 URL=https://www.blazefile.co/embed-0srt4lblfk6v.html
 #https://uptobox.com/3kebo4szjbth
 #https://openload.co/embed/wYpgCIiJXU0/SHQ7DAYSINETEBBEBD72.Ganool.im.mkv.mp4
+#https://openload.co/f/Xu2NVuH1Yg0/7.days.in.entebbe.2018.720p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/eyceQFfY2LY/7.Days.in.Entebbe.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
 #https://openload.co/f/4orjr6uMSx4/7_Days_in_Entebbe.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/MGkJDoZElmo/7_Days_in_Entebbe.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
@@ -8033,6 +8072,7 @@ date=2018-04-29
 URL=https://www.blazefile.co/embed-g354475obp9l.html
 #https://uptobox.com/be70dinlor33
 #https://openload.co/f/7VW7eiG-2lc/Legend.of.the.Demon.Cat.2017.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
+#https://openload.co/f/igWYtTVeZkU/legend.of.the.demon.cat.2017.1080p.bluray.x264-regret.mkv.mp4
 type=video
 name=Legend of the Demon Cat (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH6E6VxljPXmnb9tan4fcC9NAeV.jpg
@@ -8466,6 +8506,11 @@ URL=https://openload.co/f/Vf0AjUQiyHE/The_Greatest_Showman_%282017%29%E0%B9%82%E
 
 
 type=video
+name=Let Me Eat Your Pancreas (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/50tapu6LAgB4MNK7KoqbVxGtFn3.jpg
+date=2018-06-29
+URL=https://openload.co/f/nPMiyFirEDc/let.me.eat.your.pancreas.2017.1080p.bluray.x264-regret.mkv.mp4
+type=video
 name=Let Me Eat Your Pancreas (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/50tapu6LAgB4MNK7KoqbVxGtFn3.jpg
 date=2018-04-15
@@ -8473,7 +8518,7 @@ URL=https://openload.co/f/ZgkJq5o_nlw/Let_Me_Eat_Your_Pancreas_%282017%29%E0%B8%
 
 
 type=video
-name=Fifty Shades Freed (2018) ENG [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Fifty Shades Freed (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUDFe6B6bFPOAE13uoqH4eEU1cF.jpg
 date=2018-04-26
 URL=https://www.blazefile.co/embed-oc4bs1jo7f4t.html
