@@ -19,7 +19,13 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
-
+type=playlist
+name=Outlander (2014)
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCTSO32nTmJHkEFAv3qJLhVueEa.jpg
+date=2018-06-30
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Outlander_2014.plx
+player=default
+rating=-1.00
 
 type=playlist
 name=Big Little Lies (2017)

@@ -62,9 +62,9 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 
 type=video
 name=
-thumb=
+thumb=https://cdn.mcloud.to/stream/sf:i0:q2:h0:p24:l2/VciJO0nuI8L_9tmhJcMsZw/1530464400/f/1/3/vvo054/preview.jpg
 date=2018-06-29
-URL=
+URL=https://cdn.mcloud.to/stream/sf:i0:q2:h0:p24:l2/VciJO0nuI8L_9tmhJcMsZw/1530464400/f/1/3/vvo054/list.m3u8
 
 
 
@@ -1359,7 +1359,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-29
+date=2018-06-30
 URL=
 
 
@@ -1367,10 +1367,56 @@ URL=
 
 
 type=video
+name=Alex & Me (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nurw4kqyu2krOMbkQoKiZTMhEWJ.jpg
+date=2018-06-30
+URL=https://openload.co/f/jTS-qhR-Jms/Alex.and.Me.2018.1080p.BluRay.x264-SADPANDA.mkv.mp4
+
+type=video
+name=Lean on Pete (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Kx2NmaVYXerWLDyparssTWBFou.jpg
+date=2018-06-30
+URL=https://openload.co/f/nJ1BwFBCKAA/lean.on.pete.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/wO7YX73J-nQ/lean.on.pete.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/fF8zhiyai-0/lean.on.pete.2017.1080p.bluray.x264-drones.mkv.mp4
+
+type=video
+name=Future World (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/297jGjtWbi2sczPwSOiLbBc6xvj.jpg
+date=2018-06-30
+URL=https://openload.co/f/f3Ci7lzv6dA/Future.World.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/xI6GxHhOEJE/future.world.2018.1080p.bluray.x264-rovers.mkv.mp4
+
+type=video
+name=Mary Magdalene (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLbqnVAmD8ISel1SLTY3Ek0TWz8.jpg
+date=2018-06-30
+URL=https://openload.co/f/xkqnQ8DoVX8/Mary.Magdalene.2018.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+#https://openload.co/f/RhIhhtNO6f8/Mary_Magdalene.2018.720p.BDRip.X264.AC3-EVO.mkv.mp4
+
+type=video
+name=Gnome Alone (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIRGy46IqxqlHkOjCSjyP2tFAtP.jpg
+date=2018-06-30
+URL=https://openload.co/f/_uhahJl58lA/Gnome.Alone.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Xs-0pIsU6fg/gnome.alone.2017.1080p.bluray.x264-justwatch.mkv.mp4
+
+type=video
+name=Chappaquiddick (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkTD7ufZd7AqAnZP5IMnrQXKRpM.jpg
+date=2018-06-30
+URL=https://openload.co/f/Sup35jrjsWU/chappaquiddick.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/WNhjOegOmeE/Chappaquiddick.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/8WEXA1n-qlM/chappaquiddick.2017.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/m9g3yRe-5lU/Chappaquiddick.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/eXTEcaWGuIg/chappaquiddick.2017.1080p.bluray.x264-geckos.mkv   MKV7.6GB
+
+type=video
 name=Tarnation (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYSdvV1q7rbj3Nh5mTQKabeMmOk.jpg
-date=2018-06-29
-URL=https://openload.co/f/2t662AKPxhU/tarnation.2017.1080p.bluray.x264-getit.mkv.mp4
+date=2018-06-30
+URL=https://openload.co/f/ALvdGP7Ue80/Tarnation.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/2t662AKPxhU/tarnation.2017.1080p.bluray.x264-getit.mkv.mp4
 
 type=video
 name=Beirut (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1451,6 +1497,7 @@ URL=https://www.blazefile.co/embed-szpx74s9qzhm.html
 #https://www.blazefile.co/embed-q61x88evufgh.html   720
 #https://uptobox.com/vlveyk0d5cq6   720
 #https://openload.co/embed/W178MWjf7zw/DARKRIVERBD72.Ganool.im.mkv.mp4
+#https://openload.co/f/b3scT9fTaEE/Sweet.Country.2017.REPACK.720p.BluRay.x264-PFa.mkv.mp4
 
 type=video
 name=Sweet Country (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1847,30 +1894,8 @@ URL=https://www.blazefile.co/embed-4yc47a8qgkbk.html
 #https://uptobox.com/jemyjhsafrm9   720
 #https://openload.co/embed/yvnYmv6WCo4/SHQTHROUGBREDSBD72.Ganool.im.mkv.mp4
 
-type=video
-name=Gringo (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxeVPklFwng2IowqRPNI4od6aXv.jpg
-date=2018-05-25
-URL=https://openload.co/f/fWTOWcy5J0U/Gringo.2018.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/GGsjpRfPruk/Gringo_2018_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
-#https://openload.co/f/5TsFOCFhy1I/Gringo.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://www.blazefile.co/embed-r3zihnf4thxo.html   720
-#https://uptobox.com/z5arppeq457p   720
-#https://openload.co/embed/dah227mTS5s/SHQGRIONGIBD72.Ganool.im.mkv
 
-type=video
-name=A Wrinkle in Time (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSb6B7pwiZbW7In6juYEYjZ4Bsw.jpg
-date=2018-05-25
-URL=https://www.blazefile.co/embed-jid1zr33fy8w.html
-#https://openload.co/embed/q8iMXXSVQtI/GHPAWRINGLEINTIME80.Ganool.im.mkv.mp4
-#https://openload.co/f/J3HPXX-j0xc/A_Wrinkle_in_Time_%282018%291080p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
-#https://openload.co/f/gPGBNpFHuL0/A.Wrinkle.in.Time.2018.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/bRO-mdo0BlI/A.Wrinkle.in.Time.2018.720p.BR_SeeHD.mp4
-#https://openload.co/f/8M3QJiEiLhY/A.Wrinkle.in.Time.2018.DVDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/mmEc4IOPpxw/A_Wrinkle_in_Time_2018_NOLOGO_720p_HD-TS_X264_Mr-Hive.mp4
-#https://openload.co/f/QF_HI0-frlo/A_Wrinkle_in_Time_2018_720p_HD-TS_X264_Mr-Hive_SeeHD.mkv.mp4
-#https://openload.co/f/trkMR5Jm9Aw/A.Wrinkle.in.Time.2018.720p.HDCAM.E.mp4
+
 
 type=video
 name=The Forgiven (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3063,17 +3088,7 @@ URL=https://www.blazefile.co/embed-bigu4s0n7k3s.html
 #https://openload.co/f/XJdHc1dFL5w/The.Clapper.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/SWvPKYclD4U/The.Clapper.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Wonder Wheel (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPXn8SW4pa4kJErAIAJLmb3Znns.jpg
-date=2018-02-24
-URL=https://www.blazefile.co/embed-swajphjzq0sf.html
-#https://uptobox.com/0txsl67vqv43
-#https://openload.co/f/OaRm1ZXsSLA/ghpw0nderhel80.Ettv.st.mkv
-#https://openload.co/f/gRMWkbkcHyA/bbWonder.Wheel.2017.1080p.BRRip.6CH.1.9GB.MkvCage.mkv.mp4
-#https://openload.co/f/bVM3n_5EyFQ/bbWonder.Wheel.2017.1080p.BRRip.6CH.1.9GB.MkvCage.mkv
-#https://openload.co/f/x5N1woRYvPg/Wonder.Wheel.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/mfpvZQIhOW4/Wonder.Wheel.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+
 
 type=video
 name=The Man Who Invented Christmas (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5157,16 +5172,7 @@ URL=https://openload.co/f/efb2XVj9NkI/Downrange_2017_BRRip_720p_AC3_X264-CMRG.mk
 
 
 
-type=video
-name=Unsane (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M1U5K4Vf1Cbtrjl9EkGNWpqahf.jpg
-date=2018-06-06
-URL=https://www.blazefile.co/embed-s7fp5j17mik3.html
-#https://uptobox.com/eh1hvkbqssto
-#https://openload.co/embed/iM2I_52pHjU/SHQUNSANEBD72.Ganool.im.mkv.mp4
-#https://openload.co/f/ERBlVi0axqQ/Unsane_%282018%29720p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
-#https://openload.co/f/rL1VW7OyBWo/Unsane.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/Lxgasaj43wE/Unsane_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
+
 
 type=video
 name=Incoming (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5233,11 +5239,7 @@ URL=https://www.blazefile.co/embed-5gp6s2dla40u.html
 #https://openload.co/embed/OE23zSQC8ko/211BD72.Ganool.im.mkv.mp4
 #https://openload.co/f/ardRHxBIMkk/211.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
 
-type=video
-name=Mary Magdalene (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLbqnVAmD8ISel1SLTY3Ek0TWz8.jpg
-date=2018-06-28
-URL=https://openload.co/f/RhIhhtNO6f8/Mary_Magdalene.2018.720p.BDRip.X264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=Midnighters (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5258,8 +5260,11 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHP76nyVEhQ01JTFc6F7TtgCp4
 date=2018-06-29
 URL=https://openload.co/f/hRPAq5DV9lQ/The.Wishing.Forest.2018.720p.BluRay.x264-GUACAMOLE.mkv.mp4
 
-
-
+type=video
+name=The Other Side of Hope (2017) [COLOR=FF00FF00]FIN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfh8EYCFSRET2X9d2Wj8naXRKaW.jpg
+date=2018-06-30
+URL=https://openload.co/f/CxU-BDnMu38/The.Other.Side.of.Hope.2017.720p.BRRip.900MB.MkvCage.E.mp4
 
 
 
@@ -5267,7 +5272,7 @@ URL=https://openload.co/f/hRPAq5DV9lQ/The.Wishing.Forest.2018.720p.BluRay.x264-G
 type=video
 name=
 thumb=
-date=2018-06-29
+date=2018-06-30
 URL=http://203.162.235.41:17819
 
 
@@ -5556,7 +5561,24 @@ URL=
 
 
 
-
+type=video
+name=A Wrinkle in Time (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSb6B7pwiZbW7In6juYEYjZ4Bsw.jpg
+date=2018-05-25
+URL=https://www.blazefile.co/embed-jid1zr33fy8w.html
+#https://openload.co/embed/q8iMXXSVQtI/GHPAWRINGLEINTIME80.Ganool.im.mkv.mp4
+#https://openload.co/f/J3HPXX-j0xc/A_Wrinkle_in_Time_%282018%291080p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
+#https://openload.co/f/gPGBNpFHuL0/A.Wrinkle.in.Time.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/bRO-mdo0BlI/A.Wrinkle.in.Time.2018.720p.BR_SeeHD.mp4
+#https://openload.co/f/8M3QJiEiLhY/A.Wrinkle.in.Time.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/mmEc4IOPpxw/A_Wrinkle_in_Time_2018_NOLOGO_720p_HD-TS_X264_Mr-Hive.mp4
+#https://openload.co/f/QF_HI0-frlo/A_Wrinkle_in_Time_2018_720p_HD-TS_X264_Mr-Hive_SeeHD.mkv.mp4
+#https://openload.co/f/trkMR5Jm9Aw/A.Wrinkle.in.Time.2018.720p.HDCAM.E.mp4
+type=video
+name=A Wrinkle in Time (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSb6B7pwiZbW7In6juYEYjZ4Bsw.jpg
+date=2018-06-30
+URL=https://openload.co/f/yhEvVgIU8Hk/A_Wrinkle_in_Time_%282018%29%E0%B8%A2%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -7036,6 +7058,7 @@ date=2018-06-19
 URL=https://www.blazefile.co/embed-uq6ym96ywl95.html
 #https://uptobox.com/kfhcg596l2du
 #https://openload.co/embed/sQoyFXluybk/GHPESCPEPLAN280.Ganool.im.mkv
+#https://openload.co/f/ww0gjkL6NsM/escape.plan.2.hades.2018.1080p.bluray.x264-brmp.mkv.mp4
 #https://openload.co/f/EnUldWAXphw/Escape_Plan_2_Hades.2018.720p.BRRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/dgJ5i3_FvZw/Escape_Plan_2_Hades_2018_1080p_BluRay_DTS-HD_x264-HDC.mkv.mp4
 #https://openload.co/f/RgvZg78lvH8/Escape_Plan_2_Hades.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
@@ -7147,37 +7170,7 @@ URL=https://streamango.com/f/omlqadnqnmemdrec/Sherlock_Gnomes_2018_
 #https://streamango.com/f/cpbsdkfbbkllpsos/Sherlock_Gnomes_2018_
 
 
-type=video
-name=Tomb Raider (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
-date=2018-06-13
-URL=https://www.blazefile.co/embed-thybuv9fjr1y.html
-#https://uptobox.com/yet7clpcmmdy
-#https://openload.co/embed/pEBADEkLRGE/GHPT0MBRAIDER80.Ganool.im.mkv
-#https://openload.co/f/Tnmwwy9d6X8/Tomb.Raider.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/52HGZCIu90w/tomb.raider.2018.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/wmHs4JQx9wE/Tomb.Raider.2018.1080p.BrRip.6CH.x265.HEVC-PSA.mkv.mp4
-#https://openload.co/f/ADx-QeeEMlk/Tomb.Raider.2018.BluRay.720p.x264.DTS-HDC.mkv.mp4
-#https://openload.co/f/eod4myMVZQM/Tomb.Raider.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/Dsb4qHMmR-4/Tomb.Raider.2018.BRRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/3BgTuAlT3m0/Tomb.Raider.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/JkHcu0ypwIM/Tomb_Raider_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
-#https://openload.co/f/qakdUkA1W3U/Tomb_Raider_2018_NEW_TS.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/Ym5gxjVuFRY/Tomb_Raider_2018_720p_HD-TC_NEW_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/ab7mVAR6iAw/Tomb_Raider_2018_New_SRC_720p_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/HlMiyzb4nwY/Tomb_Raider.2018.CAM.XviD-VAiN.avi.mp4
-#https://openload.co/f/0fZwGeHZlIo/Tomb_Raider_2018_720p_FULL_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/yeIY9gwoqo8/Tom_Raider.2018.720p.HDCAM.X264-TomFaggot.mp4
-#https://openload.co/f/Vu6eBXghw74/Tomb.Raider.2018.ENG.HDCAM.XViD-AKOAM.avi.mp4
-#https://www.blazefile.co/embed-79i87444vijo.html   720
-#https://uptobox.com/mfvdy974b2wq   720
-#https://openload.co/embed/tihNjYh_jlc/SHQTOMBRAIDERBD72.Ganool.im.mkv
-type=video
-name=Tomb Raider (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
-date=2018-06-01
-URL=https://streamango.com/f/tcsdqpbtnqrfdqdl/Tomb_Raider_2018_
-#https://streamango.com/f/pbemkasrmnlorfdt/Tomb_Raider_2018_
+
 
 
 type=video
@@ -7299,32 +7292,7 @@ URL=https://streamango.com/f/nrpbpscqtnlldsfn/A_Better_Tomorrow_2018_
 
 
 
-type=video
-name=Pacific Rim: Uprising (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
-date=2018-06-08
-URL=https://www.blazefile.co/embed-mtxxsldalapo.html
-#https://uptobox.com/65cvvhsylosg
-#https://openload.co/embed/j-YzWHJ7yKU/GHPPACIFICUPRISING80.Ganool.im.mkv.mp4
-#https://openload.co/f/UVMUKaAJu5A/Pacific.Rim.Uprising.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/73cqXjq5XPk/Pacific.Rim.Uprising.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/0aGe4JXn4SE/pacific.rim.uprising.2018.720p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/KO_tepiSpW8/Pacific.Rim.2.Uprising.2018.1080.HD_SeeHD.mkv.mp4
-#https://openload.co/f/k7FQwIj8_-g/Pacific.Rim.2.Uprising.2018.1080p.WEB-DL.H264.AC3-EVO.HDMovie8.mp4
-#https://openload.co/f/ULC-jPIyFbc/Pacific_Rim_Uprising.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/EFgnOgvwcgA/Pacific.Rim.2.Uprising.2018.720p.HC.HDRiP.AC3.x264-LEGi0N.mkv   MKV3.2GB
-#https://openload.co/f/G_bzG6nas54/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/At_l9Qy_hUw/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG.mp4
-#https://openload.co/f/Ugx9be0SomQ/Pacific_Rim__Uprising_2018_HC_HDCAM_-_AKOAM_SeeHD.avi.mp4
-#https://www.blazefile.co/embed-j20ntn2aefv9.html   720
-#https://uptobox.com/6jgjrbdqshpl   720
-#https://openload.co/embed/i0TKOV3j6vA/SHQPACIFIM2BD72.Ganool.im.mkv
-type=video
-name=Pacific Rim: Uprising (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
-date=2018-04-21
-URL=https://streamango.com/f/nbkqnsctdkcrqbsk/Pacific_Rim_Uprising_2018_
-#https://streamango.com/f/lscptnpfbacsobfa/Pacific_Rim_Uprising_2018_
+
 
 
 type=video
@@ -7770,7 +7738,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-14
+date=2018-06-30
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
@@ -7780,13 +7748,133 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+type=video
+name=Wonder Wheel (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPXn8SW4pa4kJErAIAJLmb3Znns.jpg
+date=2018-02-24
+URL=https://www.blazefile.co/embed-swajphjzq0sf.html
+#https://uptobox.com/0txsl67vqv43
+#https://openload.co/f/OaRm1ZXsSLA/ghpw0nderhel80.Ettv.st.mkv
+#https://openload.co/f/gRMWkbkcHyA/bbWonder.Wheel.2017.1080p.BRRip.6CH.1.9GB.MkvCage.mkv.mp4
+#https://openload.co/f/bVM3n_5EyFQ/bbWonder.Wheel.2017.1080p.BRRip.6CH.1.9GB.MkvCage.mkv
+#https://openload.co/f/x5N1woRYvPg/Wonder.Wheel.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/mfpvZQIhOW4/Wonder.Wheel.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+type=video
+name=Wonder Wheel (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPXn8SW4pa4kJErAIAJLmb3Znns.jpg
+date=2018-06-30
+URL=https://openload.co/f/04AvEFmMI2w/Wonder_Wheel_%282017%29%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
 
 
+type=video
+name=Pacific Rim: Uprising (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
+date=2018-06-08
+URL=https://www.blazefile.co/embed-mtxxsldalapo.html
+#https://uptobox.com/65cvvhsylosg
+#https://openload.co/embed/j-YzWHJ7yKU/GHPPACIFICUPRISING80.Ganool.im.mkv.mp4
+#https://openload.co/f/UVMUKaAJu5A/Pacific.Rim.Uprising.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/73cqXjq5XPk/Pacific.Rim.Uprising.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/0aGe4JXn4SE/pacific.rim.uprising.2018.720p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/KO_tepiSpW8/Pacific.Rim.2.Uprising.2018.1080.HD_SeeHD.mkv.mp4
+#https://openload.co/f/k7FQwIj8_-g/Pacific.Rim.2.Uprising.2018.1080p.WEB-DL.H264.AC3-EVO.HDMovie8.mp4
+#https://openload.co/f/ULC-jPIyFbc/Pacific_Rim_Uprising.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/EFgnOgvwcgA/Pacific.Rim.2.Uprising.2018.720p.HC.HDRiP.AC3.x264-LEGi0N.mkv   MKV3.2GB
+#https://openload.co/f/G_bzG6nas54/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/At_l9Qy_hUw/Pacific_Rim_2_Uprising_2018_NEW_HDCAM_2D_X264_HQMic-CPG.mp4
+#https://openload.co/f/Ugx9be0SomQ/Pacific_Rim__Uprising_2018_HC_HDCAM_-_AKOAM_SeeHD.avi.mp4
+#https://www.blazefile.co/embed-j20ntn2aefv9.html   720
+#https://uptobox.com/6jgjrbdqshpl   720
+#https://openload.co/embed/i0TKOV3j6vA/SHQPACIFIM2BD72.Ganool.im.mkv
+type=video
+name=Pacific Rim: Uprising (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
+date=2018-06-30
+URL=https://openload.co/f/P1XZugWHu0Q/Pacific_Rim%3A_Uprising_%282018%29%E0%B9%81%E0%B8%9B%E0%B8%8B%E0%B8%B4%E0%B8%9F%E0%B8%B4%E0%B8%84-%E0%B8%A3%E0%B8%B4%E0%B8%A1_%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+#https://streamango.com/f/nbkqnsctdkcrqbsk/Pacific_Rim_Uprising_2018_
+#https://streamango.com/f/lscptnpfbacsobfa/Pacific_Rim_Uprising_2018_
 
 
+type=video
+name=DC Super Hero Girls: Intergalactic Games (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/29RuO5WZTVIA61nCKwMf5mi0uWo.jpg
+date=2018-06-30
+URL=https://openload.co/f/Y0shuKFIzUE/DC_Super_Hero_Girls%3A_Intergalactic_Games_%282017%29%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7_%E0%B8%94%E0%B8%B5%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%3A_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5.mp4
 
 
+type=video
+name=Unsane (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M1U5K4Vf1Cbtrjl9EkGNWpqahf.jpg
+date=2018-06-06
+URL=https://www.blazefile.co/embed-s7fp5j17mik3.html
+#https://uptobox.com/eh1hvkbqssto
+#https://openload.co/embed/iM2I_52pHjU/SHQUNSANEBD72.Ganool.im.mkv.mp4
+#https://openload.co/f/ERBlVi0axqQ/Unsane_%282018%29720p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
+#https://openload.co/f/rL1VW7OyBWo/Unsane.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/Lxgasaj43wE/Unsane_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
+type=video
+name=Unsane (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M1U5K4Vf1Cbtrjl9EkGNWpqahf.jpg
+date=2018-06-30
+URL=https://openload.co/f/smkIDauVJrw/Unsane_%282018%29%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2.mp4
 
+
+type=video
+name=Gringo (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxeVPklFwng2IowqRPNI4od6aXv.jpg
+date=2018-05-25
+URL=https://openload.co/f/fWTOWcy5J0U/Gringo.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/GGsjpRfPruk/Gringo_2018_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
+#https://openload.co/f/5TsFOCFhy1I/Gringo.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://www.blazefile.co/embed-r3zihnf4thxo.html   720
+#https://uptobox.com/z5arppeq457p   720
+#https://openload.co/embed/dah227mTS5s/SHQGRIONGIBD72.Ganool.im.mkv
+type=video
+name=Gringo (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxeVPklFwng2IowqRPNI4od6aXv.jpg
+date=2018-06-30
+URL=https://openload.co/f/xsHioeduHZc/Gringo_%282018%29%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%8B%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%94.mp4
+
+
+type=video
+name=Tomb Raider (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
+date=2018-06-13
+URL=https://www.blazefile.co/embed-thybuv9fjr1y.html
+#https://uptobox.com/yet7clpcmmdy
+#https://openload.co/embed/pEBADEkLRGE/GHPT0MBRAIDER80.Ganool.im.mkv
+#https://openload.co/f/Tnmwwy9d6X8/Tomb.Raider.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/52HGZCIu90w/tomb.raider.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/wmHs4JQx9wE/Tomb.Raider.2018.1080p.BrRip.6CH.x265.HEVC-PSA.mkv.mp4
+#https://openload.co/f/ADx-QeeEMlk/Tomb.Raider.2018.BluRay.720p.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/eod4myMVZQM/Tomb.Raider.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Dsb4qHMmR-4/Tomb.Raider.2018.BRRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/3BgTuAlT3m0/Tomb.Raider.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/JkHcu0ypwIM/Tomb_Raider_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
+#https://openload.co/f/qakdUkA1W3U/Tomb_Raider_2018_NEW_TS.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/Ym5gxjVuFRY/Tomb_Raider_2018_720p_HD-TC_NEW_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/ab7mVAR6iAw/Tomb_Raider_2018_New_SRC_720p_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/HlMiyzb4nwY/Tomb_Raider.2018.CAM.XviD-VAiN.avi.mp4
+#https://openload.co/f/0fZwGeHZlIo/Tomb_Raider_2018_720p_FULL_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/yeIY9gwoqo8/Tom_Raider.2018.720p.HDCAM.X264-TomFaggot.mp4
+#https://openload.co/f/Vu6eBXghw74/Tomb.Raider.2018.ENG.HDCAM.XViD-AKOAM.avi.mp4
+#https://www.blazefile.co/embed-79i87444vijo.html   720
+#https://uptobox.com/mfvdy974b2wq   720
+#https://openload.co/embed/tihNjYh_jlc/SHQTOMBRAIDERBD72.Ganool.im.mkv
+type=video
+name=Tomb Raider (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg
+date=2018-06-30
+URL=https://openload.co/f/CS4nNvFtCw4/Tomb_Raider_%282018%29%E0%B8%97%E0%B8%B9%E0%B8%A1_%E0%B9%80%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C.mp4
+#https://streamango.com/f/tcsdqpbtnqrfdqdl/Tomb_Raider_2018_
+#https://streamango.com/f/pbemkasrmnlorfdt/Tomb_Raider_2018_
+
+
+type=video
+name=Zombiology: Enjoy Yourself Tonight (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aS4UqKiuFKfIQPQUGxOGk3KQucf.jpg
+date=2018-06-30
+URL=https://openload.co/f/NNrWbkms5Hs/Zombiology%3A_Enjoy_Yourself_Tonight_%282017%29%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9C%E0%B8%B5%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%94.mp4
 
 
 type=video
@@ -8522,7 +8610,7 @@ name=Fifty Shades Freed (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUDFe6B6bFPOAE13uoqH4eEU1cF.jpg
 date=2018-04-26
 URL=https://www.blazefile.co/embed-oc4bs1jo7f4t.html
-#
+#https://openload.co/f/Y2eW2HgyPJA/Fifty.Shades.Freed.2018.THEATRICAL.1080p.BluRay.x264-FLAME.mkv.mp4
 #https://openload.co/f/AJdeJTygTp0/fifty.shades.freed.2018.unrated.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/KS_r6FZJNz8/Fifty.Shades.Freed.2018.UNRATED.1080p.BluRay.6CH.1.6GB.MoviesWbb.CoM.mkv.mp4
 #https://openload.co/f/jDduZsSjkjs/Fifty.Shades.Freed.2018.UNRATED.720p.BluRay.H264.AAC-RARBG.mp4
