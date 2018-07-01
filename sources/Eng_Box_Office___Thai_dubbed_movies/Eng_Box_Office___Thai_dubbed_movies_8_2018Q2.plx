@@ -70,10 +70,11 @@ URL=https://cdn.mcloud.to/stream/sf:i0:q2:h0:p24:l2/VciJO0nuI8L_9tmhJcMsZw/15304
 
 
 type=video
-name=Sicario: Day of the Soldado (2018) ENG CAM_SeeHD
+name=Sicario: Day of the Soldado (2018) ENG NEW_HDCAM_X264_Mr.Hive_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XDlelZUNWmKgP2bcWL9c9G10eo.jpg
-date=2018-06-29
-URL=https://openload.co/f/8BFuQFmAJi8/Sicario_2_CAM_SeeHD.mkv.mp4
+date=2018-07-01
+URL=https://openload.co/f/QXN1pvahVt8/Sicario_2_Day_of_the_Soldado_2018_NEW_HDCAM_X264_Mr.Hive_SeeHD.mkv.mp4
+#https://openload.co/f/8BFuQFmAJi8/Sicario_2_CAM_SeeHD.mkv.mp4
 #https://openload.co/f/r6Tadc5TwnM/Sicario_Day_of_the_Soldado_2018_720p_HDCAM_ENG_X264-P2P.mkv.mp4
 
 type=video
@@ -1359,12 +1360,16 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-30
+date=2018-07-01
 URL=
 
 
 
-
+type=video
+name=The Female Brain (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lAEIryHlAsvpVnmkqwKWhbmQwn.jpg
+date=2018-07-01
+URL=https://openload.co/f/CiwYw2fq30Q/The.Female.Brain.2018.1080p.BluRay.x264-DRONES.mkv.mp4
 
 type=video
 name=Alex & Me (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7089,10 +7094,12 @@ URL=https://streamango.com/f/ofteedpkmecfkran/Truth_or_Dare_2018_
 
 
 type=video
-name=Rampage (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+name=Rampage (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
-date=2018-06-18
-URL=https://openload.co/f/4150OhiKueU/Rampage.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+date=2018-07-01
+URL=https://openload.co/f/fqSPSAUjsso/Rampage.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/otDkJV_U0-8/Rampage.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/4150OhiKueU/Rampage.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/GO9hC3gl0eg/Rampage.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/2h_aRfMez0M/Rampage.2018.web.h264-webtiful.mkv.mp4
 #https://openload.co/f/gehks6MqcEk/Rampage_2018_NEW_HD-TS_X264-24HD_SeeHD.mkv.mp4
@@ -8742,7 +8749,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-25
+date=2018-07-01
 URL=
 
 
@@ -8751,7 +8758,11 @@ URL=
 
 
 
-
+type=video
+name=Sweet Smell of Success (1957) [COLOR=FF00FF00]ENG BD[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZBi7DSd3zjraZY1mxYeI5JohOr.jpg
+date=2018-07-01
+URL=https://openload.co/f/zAWB4zrZTpI/Sweet.Smell.of.Success.1957.BDRip.H264.mp4
 
 type=video
 name=Halloween (1978) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
