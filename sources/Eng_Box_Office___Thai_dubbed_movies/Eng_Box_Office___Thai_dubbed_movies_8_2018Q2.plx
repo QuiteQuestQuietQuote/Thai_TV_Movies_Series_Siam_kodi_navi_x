@@ -62,20 +62,13 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 
 type=video
 name=
-thumb=https://cdn.mcloud.to/stream/sf:i0:q2:h0:p24:l2/VciJO0nuI8L_9tmhJcMsZw/1530464400/f/1/3/vvo054/preview.jpg
+thumb=
 date=2018-06-29
-URL=https://cdn.mcloud.to/stream/sf:i0:q2:h0:p24:l2/VciJO0nuI8L_9tmhJcMsZw/1530464400/f/1/3/vvo054/list.m3u8
+URL=
 
 
 
 
-type=video
-name=Sicario: Day of the Soldado (2018) ENG NEW_HDCAM_X264_Mr.Hive_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XDlelZUNWmKgP2bcWL9c9G10eo.jpg
-date=2018-07-01
-URL=https://openload.co/f/QXN1pvahVt8/Sicario_2_Day_of_the_Soldado_2018_NEW_HDCAM_X264_Mr.Hive_SeeHD.mkv.mp4
-#https://openload.co/f/8BFuQFmAJi8/Sicario_2_CAM_SeeHD.mkv.mp4
-#https://openload.co/f/r6Tadc5TwnM/Sicario_Day_of_the_Soldado_2018_720p_HDCAM_ENG_X264-P2P.mkv.mp4
 
 type=video
 name=Tag (2018) ENG 720p_HD-TS_x264_HQ-24HD_SeeHD
@@ -1360,10 +1353,24 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-01
+date=2018-07-02
 URL=
 
 
+
+
+type=video
+name=Night is Short, Walk on Girl (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3reCs2whQK8aPrv29QmqGFtmA63.jpg
+date=2018-07-02
+URL=https://openload.co/f/hB2jox98Qwg/night.is.short.walk.on.girl.2017.limited.1080p.bluray.x264-cadaver.mkv.mp4
+
+type=video
+name=The Wishing Forest (2018) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHP76nyVEhQ01JTFc6F7TtgCp4a.jpg
+date=2018-07-02
+URL=https://openload.co/f/Ao9tF5MD6Bc/The_Wishing_Forest_2018_1080p_BluRay_x264_GUACAMOLE.mkv.mp4
+#https://openload.co/f/hRPAq5DV9lQ/The.Wishing.Forest.2018.720p.BluRay.x264-GUACAMOLE.mkv.mp4
 
 type=video
 name=The Female Brain (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4973,15 +4980,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DMChjrooXnJ3Rh9Az5xH0gKxX
 date=2018-04-05
 URL=https://openload.co/f/HZ8JFTkD2aQ/Dead.on.Arrival.2017.720pHD_SeeHD.mkv.mp4
 
-type=video
-name=Beyond the Edge (2018) [COLOR=FF00FF00]RUS BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/treaCPP0kGCQmTSmaHKYedZFwOO.jpg
-date=2018-05-16
-URL=https://openload.co/f/0_8gYiPWFbc/Beyond.the.Edge.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
-#https://openload.co/f/Cj0sLU7UIcE/Beyond.the.Edge.2018.720p.BluRay.x264.DTS-FGT.mkv.mp4
-#https://uptobox.com/vjac4sj1f2a4   720
-#https://openload.co/f/ZYqlmR5Qkro/Beyond.the.Edge.2018.720p.BR_SeeHD.mp4
-#https://openload.co/f/fw3PepGzRvc/Beyond.the.edge_2017_720p_BRRip_AC3_X264-CMRG.mkv.mp4
+
 
 type=video
 name=The Music of Silence (2017) [COLOR=FF00FF00]ITA BR 720p[/COLOR]
@@ -5259,11 +5258,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHCzZEJWOw76ffhrnSQaRNHFNo
 date=2018-06-29
 URL=https://openload.co/f/9fNtcdEl6Gg/Rendel_2017_720p_BDRip_AC3_X264-CMRG.mkv.mp4
 
-type=video
-name=The Wishing Forest (2018) [COLOR=FF00FF00]GER BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHP76nyVEhQ01JTFc6F7TtgCp4a.jpg
-date=2018-06-29
-URL=https://openload.co/f/hRPAq5DV9lQ/The.Wishing.Forest.2018.720p.BluRay.x264-GUACAMOLE.mkv.mp4
+
 
 type=video
 name=The Other Side of Hope (2017) [COLOR=FF00FF00]FIN BR 720p[/COLOR]
@@ -5347,6 +5342,22 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+
+
+type=video
+name=Sicario: Day of the Soldado (2018) ENG NEW_HDCAM_X264_Mr.Hive_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XDlelZUNWmKgP2bcWL9c9G10eo.jpg
+date=2018-07-01
+URL=https://openload.co/f/QXN1pvahVt8/Sicario_2_Day_of_the_Soldado_2018_NEW_HDCAM_X264_Mr.Hive_SeeHD.mkv.mp4
+#https://openload.co/f/8BFuQFmAJi8/Sicario_2_CAM_SeeHD.mkv.mp4
+#https://openload.co/f/r6Tadc5TwnM/Sicario_Day_of_the_Soldado_2018_720p_HDCAM_ENG_X264-P2P.mkv.mp4
+type=video
+name=Sicario: Day of the Soldado (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XDlelZUNWmKgP2bcWL9c9G10eo.jpg
+date=2018-07-02
+URL=https://streamango.com/f/kpktebfparrekqcd/Sicario_Day_of_the_Soldado_2018_2_
 
 
 type=video
@@ -5553,7 +5564,7 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-06-19
+date=2018-07-02
 URL=
 
 
@@ -5562,8 +5573,35 @@ URL=
 
 
 
+type=video
+name=Tau (2018) ENG internal.1080p.web.x264-strife_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqYOlCee3X7cKg05EOQH1htcHmy.jpg
+date=2018-07-02
+URL=https://openload.co/f/jHcGsxI3H9c/Tau.2018.internal.1080p.web.x264-strife_SeeHD.mkv.mp4
+type=video
+name=Tau (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqYOlCee3X7cKg05EOQH1htcHmy.jpg
+date=2018-07-02
+URL=https://streamango.com/f/lknftqccdcnmapaf/Tau_2018_
 
 
+type=video
+name=Calibre (2018) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTb
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4ErGjb9XXWH2EhcIploMaAfglE.jpg
+date=2018-07-02
+URL=https://openload.co/f/Wf8YqIvvuzg/Calibre.2018.1080p.NF.WEB-DL.DD5.1.x264-NTb.mkv.mp4
+type=video
+name=Calibre (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4ErGjb9XXWH2EhcIploMaAfglE.jpg
+date=2018-07-02
+URL=https://streamango.com/f/roqdkmpkpsccfrfd/Calibre_2018_
+
+
+type=video
+name=Hot Bot (2016) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9ivOG4aIoPuwsLvEAbsQr6UMgQ.jpg
+date=2018-07-02
+URL=https://streamango.com/f/ppnlqtrapqlparkq/Hot_Bot_2016_
 
 
 type=video
@@ -5580,7 +5618,7 @@ URL=https://www.blazefile.co/embed-jid1zr33fy8w.html
 #https://openload.co/f/QF_HI0-frlo/A_Wrinkle_in_Time_2018_720p_HD-TS_X264_Mr-Hive_SeeHD.mkv.mp4
 #https://openload.co/f/trkMR5Jm9Aw/A.Wrinkle.in.Time.2018.720p.HDCAM.E.mp4
 type=video
-name=A Wrinkle in Time (2018) TH
+name=A Wrinkle in Time (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSb6B7pwiZbW7In6juYEYjZ4Bsw.jpg
 date=2018-06-30
 URL=https://openload.co/f/yhEvVgIU8Hk/A_Wrinkle_in_Time_%282018%29%E0%B8%A2%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
@@ -7050,6 +7088,22 @@ URL=
 
 
 type=video
+name=Beyond the Edge (2018) [COLOR=FF00FF00]RUS BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/txYDZuBQ3W3fMlySwWyLsXH0zay.jpg
+date=2018-05-16
+URL=https://openload.co/f/0_8gYiPWFbc/Beyond.the.Edge.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/Cj0sLU7UIcE/Beyond.the.Edge.2018.720p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://uptobox.com/vjac4sj1f2a4   720
+#https://openload.co/f/ZYqlmR5Qkro/Beyond.the.Edge.2018.720p.BR_SeeHD.mp4
+#https://openload.co/f/fw3PepGzRvc/Beyond.the.edge_2017_720p_BRRip_AC3_X264-CMRG.mkv.mp4
+type=video
+name=Beyond the Edge (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/txYDZuBQ3W3fMlySwWyLsXH0zay.jpg
+date=2018-07-02
+URL=https://streamango.com/f/spferccqadbrqlfk/Beyond_the_Edge_2018_
+
+
+type=video
 name=Be With You (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEeH8ce2YeZHFng3AddqsQ2niLf.jpg
 date=2018-06-26
@@ -7796,12 +7850,19 @@ URL=https://www.blazefile.co/embed-mtxxsldalapo.html
 type=video
 name=Pacific Rim: Uprising (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
-date=2018-06-30
-URL=https://openload.co/f/P1XZugWHu0Q/Pacific_Rim%3A_Uprising_%282018%29%E0%B9%81%E0%B8%9B%E0%B8%8B%E0%B8%B4%E0%B8%9F%E0%B8%B4%E0%B8%84-%E0%B8%A3%E0%B8%B4%E0%B8%A1_%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+date=2018-07-02
+URL=https://openload.co/f/v6JOA7-pLkY/Pacific_Rim%3A_Uprising_%282018%29%E0%B9%81%E0%B8%9B%E0%B8%8B%E0%B8%B4%E0%B8%9F%E0%B8%B4%E0%B8%84_%E0%B8%A3%E0%B8%B4%E0%B8%A1_2%3A_%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+#https://openload.co/f/P1XZugWHu0Q/Pacific_Rim%3A_Uprising_%282018%29%E0%B9%81%E0%B8%9B%E0%B8%8B%E0%B8%B4%E0%B8%9F%E0%B8%B4%E0%B8%84-%E0%B8%A3%E0%B8%B4%E0%B8%A1_%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 #https://streamango.com/f/nbkqnsctdkcrqbsk/Pacific_Rim_Uprising_2018_
 #https://streamango.com/f/lscptnpfbacsobfa/Pacific_Rim_Uprising_2018_
 
 
+type=video
+name=DC Super Hero Girls: Intergalactic Games (2017) 1080p.NF.WEB-DL.DD5.1.x264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/29RuO5WZTVIA61nCKwMf5mi0uWo.jpg
+date=2018-07-02
+URL=https://openload.co/f/QZTqIhVos2c/DC.Super.Hero.Girls.Intergalactic.Games.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
+#https://openload.co/f/Q35LNnZS7Pk/DC_Super_Hero_Girls_Intergalactic_Games.2017.720p.NF.WEB-DL.DD5.1.x264-NTG_SeeHD.mkv.mp4
 type=video
 name=DC Super Hero Girls: Intergalactic Games (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/29RuO5WZTVIA61nCKwMf5mi0uWo.jpg
@@ -8749,14 +8810,18 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-01
+date=2018-07-02
 URL=
 
 
 
 
 
-
+type=video
+name=High Risk (1995) [COLOR=FF00FF00]CHN SD[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKYKW0RjnEegVQ4EAgtoBXFD0oK.jpg
+date=2018-07-02
+URL=https://openload.co/f/-tnSNInoBug/High_Risk_1995.encoded.mp4
 
 type=video
 name=Sweet Smell of Success (1957) [COLOR=FF00FF00]ENG BD[/COLOR]
