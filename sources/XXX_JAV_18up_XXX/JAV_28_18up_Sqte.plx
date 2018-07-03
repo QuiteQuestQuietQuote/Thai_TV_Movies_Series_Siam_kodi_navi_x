@@ -33,14 +33,14 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_223908608382539_6269297331712032768_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&oh=65d4c267e8920c09a3adff8216d8d5d5&oe=5B36DF0C&itag=18
+URL=
 
 
 type=video
 name=
 thumb=
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1796426157074855_2424932814425161728_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=11877387acdbb8f96c180930351acd0b&oe=5B36CBCB&itag=22
+URL=
 
 
 
@@ -351,27 +351,27 @@ URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4394/hls.m3u8
 
 type=video
 name=
-thumb=
+thumb=http://javdub.com/wp-content/uploads/2017/03/11961.jpg
 date=2018-06-15
-URL=
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1877471628929760_5498592092126969856_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=106f91c8c3db031b3ac7e26869898d96&oe=5B3C0F37&itag=22
 
 type=video
 name=
-thumb=
+thumb=http://javdub.com/wp-content/uploads/2017/01/11946.jpg
 date=2018-06-15
-URL=
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_362514757567200_4921889056423411712_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=ef1586b8738c182dabe6e8a331e91e17&oe=5B3C244F&itag=22
 
 type=video
 name=
-thumb=
+thumb=http://javdub.com/wp-content/uploads/2017/01/11988.jpg
 date=2018-06-15
-URL=
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_158252681664451_3163637008601972736_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=5a2beb6d0bfdd27e6ba8c8a682b5c1e9&oe=5B3C2892&itag=22
 
 type=video
 name=
-thumb=
+thumb=http://javdub.com/wp-content/uploads/2017/01/11999.jpg
 date=2018-06-15
-URL=
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_371788669986021_4713821036510969856_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=73b928e48ae93e0bec32eb9e27125058&oe=5B3C22F8&itag=22
 
 type=video
 name=
