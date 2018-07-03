@@ -63,12 +63,23 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 type=video
 name=
 thumb=
-date=2018-06-29
+date=2018-07-03
 URL=
 
 
 
 
+
+
+
+
+type=video
+name=Super Troopers 2 (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/57SZgdugVClIy22rfnANeBJ5KsN.jpg
+date=2018-07-03
+URL=https://openload.co/f/dQCgM0SURgQ/Super.Troopers.2.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/xP2SogALXWU/Supertroopers2_SeeHD.mkv.mp4
+#https://openload.co/f/8VXGqvqw0fc/Super.Troopers.2.2018.1080p.WEB-DL.H264.AC3-EVO.mkv   MKV3.9GB
 
 type=video
 name=Tag (2018) ENG 720p_HD-TS_x264_HQ-24HD_SeeHD
@@ -84,10 +95,11 @@ URL=https://openload.co/f/udn5jw48kLc/Gotti.2018.1080p.AMZN_SeeHD.mkv.mp4
 #https://openload.co/f/cOxTWMClj58/Gotti.2018.HDRip.AC3.X264-CMRG.mkv.mp4
 
 type=video
-name=I Feel Pretty (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+name=I Feel Pretty (2018) ENG 720phd_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZe6x2fKtwVDsAvZQ9fnIJznBrc.jpg
-date=2018-06-27
-URL=https://openload.co/f/k9PBsLCEBMw/I.Feel.Pretty.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2018-07-03
+URL=https://openload.co/f/gzZDHoio59k/I.Feel.Pretty.2018.720phd_SeeHD.mkv.mp4
+#https://openload.co/f/k9PBsLCEBMw/I.Feel.Pretty.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/L6N00yigWWs/I_Feel_Pretty.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/VSa6I5VbpSw/I_Feel_Pretty_2018_HDCAM_ENG_X264-SeeHD.mkv.mp4
 
@@ -1353,11 +1365,27 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-02
+date=2018-07-03
 URL=
 
 
 
+
+
+
+
+
+type=video
+name=
+thumb=
+date=2018-07-03
+URL=
+
+type=video
+name=Delirium (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2jIkjrASnjtwCmCNDwh9LDWvq9.jpg
+date=2018-07-03
+URL=https://openload.co/f/ntmRPq9UXhY/Delirium.2018.1080p.Bluray.X264-EVO.mkv.mp4
 
 type=video
 name=Night is Short, Walk on Girl (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
@@ -4296,6 +4324,7 @@ name=Free Fire (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/zSVRoZMce3skt6qR6JSD0IXQ8af.jpg
 date=2017-07-06
 URL=https://www.blazefile.co/embed-c1f6jb0d86iv.html
+#https://openload.co/f/ea2V3Qg9NFw/Free.Fire.2016.1080p.BR_SeeHD.mp4
 player=default
 rating=-1.00
 description=A crime drama set in 1970s Boston, about a gun sale which goes wrong./description
@@ -5266,13 +5295,39 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfh8EYCFSRET2X9d2Wj8naXRKa
 date=2018-06-30
 URL=https://openload.co/f/CxU-BDnMu38/The.Other.Side.of.Hope.2017.720p.BRRip.900MB.MkvCage.E.mp4
 
+type=video
+name=The Miracles of the Namiya General Store (2017) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckDioqChQb1aFpMJEOuTYOw0Q8N.jpg
+date=2018-07-03
+URL=https://openload.co/f/sab2_SCBVAw/miracles.of.the.namiya.general.store.2017.720p.bluray.x264-regret.mkv.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 type=video
 name=
 thumb=
-date=2018-06-30
+date=2018-07-03
 URL=http://203.162.235.41:17819
 
 
@@ -5347,10 +5402,11 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
-name=Sicario: Day of the Soldado (2018) ENG NEW_HDCAM_X264_Mr.Hive_SeeHD
+name=Sicario: Day of the Soldado (2018) ENG NEW_HDCAM_V.2_X264-24HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XDlelZUNWmKgP2bcWL9c9G10eo.jpg
-date=2018-07-01
-URL=https://openload.co/f/QXN1pvahVt8/Sicario_2_Day_of_the_Soldado_2018_NEW_HDCAM_X264_Mr.Hive_SeeHD.mkv.mp4
+date=2018-07-03
+URL=https://openload.co/f/mB6HunzA3hM/Sicario_2_Day_of_the_Soldado_2018_NEW_HDCAM_V.2_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/QXN1pvahVt8/Sicario_2_Day_of_the_Soldado_2018_NEW_HDCAM_X264_Mr.Hive_SeeHD.mkv.mp4
 #https://openload.co/f/8BFuQFmAJi8/Sicario_2_CAM_SeeHD.mkv.mp4
 #https://openload.co/f/r6Tadc5TwnM/Sicario_Day_of_the_Soldado_2018_720p_HDCAM_ENG_X264-P2P.mkv.mp4
 type=video
@@ -5404,10 +5460,11 @@ URL=https://streamango.com/f/krmfsqkocolersbk/Taxi_5_2018_
 
 
 type=video
-name=Jurassic World: Fallen Kingdom (2018) ENG NEW_TC_SeeHD
+name=Jurassic World: Fallen Kingdom (2018) ENG HDTS.720p.XviD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
-date=2018-06-21
-URL=https://openload.co/f/ee0BYggpv8w/Jurassic_World_Fallen_Kingdom_2018_NEW_TC_SeeHD.mkv.mp4
+date=2018-07-03
+URL=https://openload.co/f/32ksG80Q0pM/Jurassic_World_Fallen_Kingdom.2018.HDTS.720p.XviD.mp4
+#https://openload.co/f/ee0BYggpv8w/Jurassic_World_Fallen_Kingdom_2018_NEW_TC_SeeHD.mkv.mp4
 #https://openload.co/f/g7ekyl53Btc/Jurassic_World_Fallen_Kingdom.2018.HDTS.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/qDjH228-Kpw/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_V.2_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/jvF2_B5YrtI/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_HQMic_SeeHD.mkv.mp4
@@ -7132,10 +7189,11 @@ URL=https://streamango.com/f/dpsbpplmrbcdonpm/Escape_Plan_2_Hades_2018_2_
 
 
 type=video
-name=Truth or Dare (2018) ENG EXTENDED.1080p.WEB-DL.AAC2.0.H264-FGT
+name=Truth or Dare (2018) ENG 720p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdkNaQYZ7dhM80LsnAGKpH8ca2g.jpg
-date=2018-06-21
-URL=https://openload.co/f/3yp2PHgKwaw/Truth.or.Dare.2018.EXTENDED.1080p.WEB-DL.AAC2.0.H264-FGT.mkv.mp4
+date=2018-07-03
+URL=https://openload.co/f/rEigUF_-7IM/Truth.or.Dare.2018.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/3yp2PHgKwaw/Truth.or.Dare.2018.EXTENDED.1080p.WEB-DL.AAC2.0.H264-FGT.mkv.mp4
 #https://openload.co/f/V2EBBQKTP7g/Truth.or.Dare.2018.EXTENDED_SeeHD.mkv.mp4
 #https://openload.co/f/XFi6Ch2wGl0/Truth_or_Dare_2018_720p_WEB-DL_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/gsGj_lpB0Ho/Truth_or_Dare_2018_HD-TS_X264-Mr.Hive_SeeHD.mkv.mp4
@@ -7288,10 +7346,13 @@ URL=https://streamango.com/f/cdmbdodclftcmmrt/A_Quiet_Place_2018_
 
 
 type=video
-name=Ready Player One (2018) ENG 1080p.HD_SeeHD
+name=Ready Player One (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
-date=2018-06-18
-URL=https://openload.co/f/w-TCB-bCsyU/Ready_Player_One.2018.1080p.HD_SeeHD.mkv.mp4
+date=2018-07-03
+URL=https://openload.co/f/5F5TU_IjpkI/ready.player.one.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/Xq1xB3-SrgA/Ready_Player_One.2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/nd2tQTizVFE/ready.player.one.2018.720p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/w-TCB-bCsyU/Ready_Player_One.2018.1080p.HD_SeeHD.mkv.mp4
 #https://openload.co/f/3e55S2fuMBQ/ready.player.one.2018.1080p.web.h264-webtiful.mkv.mp4
 #https://openload.co/f/Tp0UYjLFRcc/Ready_Player_One.2018.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/N3iQ8KqoAF4/Ready.Player.One.2018.720pHD_SeeHD.mp4
