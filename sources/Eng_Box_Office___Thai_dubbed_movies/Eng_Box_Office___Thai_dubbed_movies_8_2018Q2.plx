@@ -73,13 +73,7 @@ URL=
 
 
 
-type=video
-name=Super Troopers 2 (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/57SZgdugVClIy22rfnANeBJ5KsN.jpg
-date=2018-07-03
-URL=https://openload.co/f/dQCgM0SURgQ/Super.Troopers.2.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/xP2SogALXWU/Supertroopers2_SeeHD.mkv.mp4
-#https://openload.co/f/8VXGqvqw0fc/Super.Troopers.2.2018.1080p.WEB-DL.H264.AC3-EVO.mkv   MKV3.9GB
+
 
 type=video
 name=Tag (2018) ENG 720p_HD-TS_x264_HQ-24HD_SeeHD
@@ -94,14 +88,7 @@ date=2018-06-28
 URL=https://openload.co/f/udn5jw48kLc/Gotti.2018.1080p.AMZN_SeeHD.mkv.mp4
 #https://openload.co/f/cOxTWMClj58/Gotti.2018.HDRip.AC3.X264-CMRG.mkv.mp4
 
-type=video
-name=I Feel Pretty (2018) ENG 720phd_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZe6x2fKtwVDsAvZQ9fnIJznBrc.jpg
-date=2018-07-03
-URL=https://openload.co/f/gzZDHoio59k/I.Feel.Pretty.2018.720phd_SeeHD.mkv.mp4
-#https://openload.co/f/k9PBsLCEBMw/I.Feel.Pretty.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/L6N00yigWWs/I_Feel_Pretty.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/VSa6I5VbpSw/I_Feel_Pretty_2018_HDCAM_ENG_X264-SeeHD.mkv.mp4
+
 
 type=video
 name=Hereditary (2018) ENG HDCAM_ENG_x264-SugarTits_SeeHD
@@ -191,15 +178,7 @@ URL=https://openload.co/f/AyYfn1TqAlI/Traffik_2018_HDCAM_ENG_X264_-_SugarTits_Se
 
 
 
-type=video
-name=Isle of Dogs (2018) ENG 1080p_WEB-DL_AAC_H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
-date=2018-06-26
-URL=https://openload.co/f/rl-V0hLI0us/Isle_Of_Dogs_2018_1080p_WEB-DL_AAC_H264-CMRG.mkv.mp4
-#https://openload.co/f/GOhg7Xb9aEc/Isle.of.Dogs.2018.720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/ZbyRG1ryFsI/Isle.of.Dogs.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/vX1nEty5V8w/Isle_of_Dogs.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/1Vty-Ed3Gp0/Isle_of_Dogs_2018_720p_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
+
 
 
 
@@ -1375,17 +1354,43 @@ URL=
 
 
 
+
 type=video
-name=
-thumb=
-date=2018-07-03
-URL=
+name=I Feel Pretty (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZe6x2fKtwVDsAvZQ9fnIJznBrc.jpg
+date=2018-07-04
+URL=https://openload.co/f/HO_Twe-iuBY/i.feel.pretty.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/gzZDHoio59k/I.Feel.Pretty.2018.720phd_SeeHD.mkv.mp4
+#https://openload.co/f/k9PBsLCEBMw/I.Feel.Pretty.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/L6N00yigWWs/I_Feel_Pretty.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/VSa6I5VbpSw/I_Feel_Pretty_2018_HDCAM_ENG_X264-SeeHD.mkv.mp4
+
+type=video
+name=Super Troopers 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/57SZgdugVClIy22rfnANeBJ5KsN.jpg
+date=2018-07-04
+URL=https://openload.co/f/FLrUwW_gu4w/super.troopers.2.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/dQCgM0SURgQ/Super.Troopers.2.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/xP2SogALXWU/Supertroopers2_SeeHD.mkv.mp4
+#https://openload.co/f/8VXGqvqw0fc/Super.Troopers.2.2018.1080p.WEB-DL.H264.AC3-EVO.mkv   MKV3.9GB
+
+type=video
+name=Isle of Dogs (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
+date=2018-07-04
+URL=https://openload.co/f/EocGxmZ-5po/Isle.of.Dogs.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/rl-V0hLI0us/Isle_Of_Dogs_2018_1080p_WEB-DL_AAC_H264-CMRG.mkv.mp4
+#https://openload.co/f/GOhg7Xb9aEc/Isle.of.Dogs.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/ZbyRG1ryFsI/Isle.of.Dogs.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/vX1nEty5V8w/Isle_of_Dogs.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/1Vty-Ed3Gp0/Isle_of_Dogs_2018_720p_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
 
 type=video
 name=Delirium (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2jIkjrASnjtwCmCNDwh9LDWvq9.jpg
-date=2018-07-03
-URL=https://openload.co/f/ntmRPq9UXhY/Delirium.2018.1080p.Bluray.X264-EVO.mkv.mp4
+date=2018-07-04
+URL=https://openload.co/f/LWpIZrCFano/Delirium.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/ntmRPq9UXhY/Delirium.2018.1080p.Bluray.X264-EVO.mkv.mp4
 
 type=video
 name=Night is Short, Walk on Girl (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
@@ -5301,7 +5306,11 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckDioqChQb1aFpMJEOuTYOw0Q8
 date=2018-07-03
 URL=https://openload.co/f/sab2_SCBVAw/miracles.of.the.namiya.general.store.2017.720p.bluray.x264-regret.mkv.mp4
 
-
+type=video
+name=Submission (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVAS7PzLs26Xig8fdHAOQPDFf9N.jpg
+date=2018-07-04
+URL=https://openload.co/f/bne1V53ptYE/Submission.2017.720p.BluRay.x264.DTS-FGT.mkv.mp4
 
 
 
@@ -5406,6 +5415,7 @@ name=Sicario: Day of the Soldado (2018) ENG NEW_HDCAM_V.2_X264-24HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XDlelZUNWmKgP2bcWL9c9G10eo.jpg
 date=2018-07-03
 URL=https://openload.co/f/mB6HunzA3hM/Sicario_2_Day_of_the_Soldado_2018_NEW_HDCAM_V.2_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/yUd5Hl8Eip4/Sicario.Day.of.the.Soldado.2018.NEW.HDCAM.X264-Mr.Hive.mkv.mp4
 #https://openload.co/f/QXN1pvahVt8/Sicario_2_Day_of_the_Soldado_2018_NEW_HDCAM_X264_Mr.Hive_SeeHD.mkv.mp4
 #https://openload.co/f/8BFuQFmAJi8/Sicario_2_CAM_SeeHD.mkv.mp4
 #https://openload.co/f/r6Tadc5TwnM/Sicario_Day_of_the_Soldado_2018_720p_HDCAM_ENG_X264-P2P.mkv.mp4
@@ -7348,8 +7358,9 @@ URL=https://streamango.com/f/cdmbdodclftcmmrt/A_Quiet_Place_2018_
 type=video
 name=Ready Player One (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
-date=2018-07-03
-URL=https://openload.co/f/5F5TU_IjpkI/ready.player.one.2018.1080p.bluray.x264-sparks.mkv.mp4
+date=2018-07-04
+URL=https://openload.co/f/VptOSI2M42A/Ready.Player.One.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/5F5TU_IjpkI/ready.player.one.2018.1080p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/Xq1xB3-SrgA/Ready_Player_One.2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/nd2tQTizVFE/ready.player.one.2018.720p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/w-TCB-bCsyU/Ready_Player_One.2018.1080p.HD_SeeHD.mkv.mp4
@@ -7366,6 +7377,8 @@ URL=https://openload.co/f/5F5TU_IjpkI/ready.player.one.2018.1080p.bluray.x264-sp
 #https://openload.co/f/Ryg8GBobLk8/Ready_Player_One_2018.720p.HDCAM.X264.mp4
 #https://openload.co/f/JWNqMnlNmcA/Ready_Player_One_2018.720p.HDCAM.X264-ThisOneYouWontSell.mp4
 #https://openload.co/f/ACaaIu3-zBc/Ready_Player_One.2018.HDCAM.X264_SeeHD.mkv.mp4
+#https://uptobox.com/ob45eo07fm90   720
+#https://openload.co/embed/7WEavhMZKGI/SHQREDYPLYER1BD72.Ganol.ru.mkv
 type=video
 name=Ready Player One (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
