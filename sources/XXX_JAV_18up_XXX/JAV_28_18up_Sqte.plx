@@ -357,27 +357,27 @@ URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_974946602664344_20
 
 type=video
 name=
-thumb=http://javdub.com/wp-content/uploads/2017/01/11984.jpg
+thumb=https://i2.wp.com/jav5u.com/wp-content/uploads/2018/04/ABP-408-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8AAV-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%87-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87XX-%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9A%E0%B9%82%E0%B8%9B%E0%B9%8A-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87.jpg?w=640&ssl=1
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1796426157074855_2424932814425161728_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=ef4117164d354a47f0884b4f4d40d80b&oe=5B3D472B&itag=22
+URL=https://streamcherry.com/embed/ffntcttcaebockeq/
 
 type=video
 name=
-thumb=http://javdub.com/wp-content/uploads/2017/01/11874.jpg
+thumb=https://i2.wp.com/jav5u.com/wp-content/uploads/2018/04/ABP-378-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A-AV-%E0%B8%AD%E0%B8%B1%E0%B8%9E%E0%B9%80%E0%B8%94%E0%B8%97%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%86-%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99-%E0%B8%9F%E0%B8%A3%E0%B8%B5.jpg?w=640&ssl=1
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_170953373719902_5377767184552427520_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=1f6bb929f42060785884f9a46fdcb26c&oe=5B3D4A8F&itag=22
+URL=https://streamcherry.com/embed/rdqanbnatnetdrbs/
 
 type=video
 name=
-thumb=http://javdub.com/wp-content/uploads/2017/01/11843.jpg
+thumb=https://i1.wp.com/jav5u.com/wp-content/uploads/2018/05/ABP-391-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%AD%E0%B8%B1%E0%B8%9E%E0%B9%80%E0%B8%94%E0%B8%97%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%86-%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99-%E0%B8%9F%E0%B8%A3%E0%B8%B5.jpg?w=640&ssl=1
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_782234541985964_4614056148885045248_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=e74110d0ca2deaf492be460762d8221c&oe=5B3D5F05&itag=22
+URL=https://streamcherry.com/embed/dmkrtblsstbcrerc/
 
 type=video
 name=
-thumb=http://javdub.com/wp-content/uploads/2017/01/11844.jpg
+thumb=https://i1.wp.com/jav5u.com/wp-content/uploads/2018/05/ABP-246-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-AV-%E0%B8%AD%E0%B8%B1%E0%B8%9E%E0%B9%80%E0%B8%94%E0%B8%97%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%86-%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99-%E0%B8%9F%E0%B8%A3%E0%B8%B5.jpg?w=640&ssl=1
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_165661894140534_4517395337203154944_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=1018eb38c45512bfde05493c666d46a8&oe=5B3D47A3&itag=22
+URL=https://streamcherry.com/embed/bebsnnmtcokodasq/
 
 type=video
 name=
