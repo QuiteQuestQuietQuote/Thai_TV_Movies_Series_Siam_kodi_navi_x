@@ -257,11 +257,7 @@ URL=https://openload.co/f/iQqZjyCB8og/10x10.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp
 
 
 
-type=video
-name=The Clapper (2018) ENG 720p.WEB-DL.XviD.AC3-FGT
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BZjAzYjE0YmItNjMzNy00NGYyLTlmYjMtOGNkYjBlMTAxMTM0XkEyXkFqcGdeQXVyMzEzNjQ4Mjg@._V1_.jpg
-date=2018-01-27
-URL=https://openload.co/f/9xfp6WPIibY/The_Clapper.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+
 
 
 
@@ -3178,7 +3174,7 @@ URL=https://www.blazefile.co/embed-bigu4s0n7k3s.html
 #https://openload.co/f/2MessDGhiOw/the.clapper.2017.1080p.bluray.dd5.1.hevc.x265.mkv   MKV911MB
 #https://openload.co/f/XJdHc1dFL5w/The.Clapper.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/SWvPKYclD4U/The.Clapper.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-
+#https://openload.co/f/9xfp6WPIibY/The_Clapper.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 
 type=video
