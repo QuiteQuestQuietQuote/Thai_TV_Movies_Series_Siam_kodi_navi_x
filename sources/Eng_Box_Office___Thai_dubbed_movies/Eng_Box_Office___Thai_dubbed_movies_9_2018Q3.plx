@@ -61,16 +61,16 @@ URL=http://61.58.60.247:9000/live/176.m3u8
 
 
 type=video
-name=https://www.rapidvideo.com/?v=FSZ4VSJ3V5
-thumb=https://ganol.ru/wp-content/uploads/2018/07/Ready-Player-One-2018-BluRay-255x323.jpg
+name=
+thumb=
 date=2018-07-05
-URL=https://www.rapidvideo.com/?v=FSZ4VSJ3V5
+URL=
 
 type=video
-name=https://www.rapidvideo.com/e/FSZ4VSJ3V5
-thumb=https://ganol.ru/wp-content/uploads/2018/07/Ready-Player-One-2018-BluRay-255x323.jpg
+name=
+thumb=
 date=2018-07-05
-URL=https://www.rapidvideo.com/e/FSZ4VSJ3V5
+URL=
 
 type=video
 name=
@@ -81,10 +81,12 @@ URL=
 
 
 type=video
-name=Ant-Man and the Wasp (2018) RUS TS_480p_x264
+name=Ant-Man and the Wasp (2018) ENG NEW-HDCAM_English_SpaceMov
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv1AWImgx386ULjcf62VYaW8zSt.jpg
-date=2018-07-05
-URL=https://openload.co/f/APWBCrzytdI/Ant-Man_and_the_Wasp_2018_RUS.TS_480p_x264.mkv.mp4
+date=2018-07-06
+URL=https://openload.co/f/kpCyHOUMNk0/Ant-Man_and_The_Wasp_%282018%29_NEW-HDCAM_English_SpaceMov.mp4
+#https://openload.co/f/HICHLEcJ2n8/Ant-Man.and.The.Wasp.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/APWBCrzytdI/Ant-Man_and_the_Wasp_2018_RUS.TS_480p_x264.mkv.mp4
 
 
 type=video
@@ -178,10 +180,11 @@ URL=https://openload.co/f/ClcPNhbQGoE/The_Escape_2018_1080p_WEB-DL_DD5.1_H264-CM
 #https://openload.co/f/tooiKVd6xNw/The_Escape.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 
 type=video
-name=Traffik (2018) ENG HDCAM_ENG_X264_-_SugarTits_SeeHD
+name=Traffik (2018) ENG DVDRip.XviD.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubSpsYP3WqljVPVSX2FbBNYZoR1.jpg
-date=2018-05-11
-URL=https://openload.co/f/AyYfn1TqAlI/Traffik_2018_HDCAM_ENG_X264_-_SugarTits_SeeHD.mkv.mp4
+date=2018-07-06
+URL=https://openload.co/f/3OXFivuFQn0/Traffik.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/AyYfn1TqAlI/Traffik_2018_HDCAM_ENG_X264_-_SugarTits_SeeHD.mkv.mp4
 
 
 
@@ -1351,7 +1354,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-05
+date=2018-07-06
 URL=
 
 
@@ -1362,13 +1365,19 @@ URL=
 
 
 
-
+type=video
+name=Tomb Invader (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTz0qaYuXIHBAUiwAqJZQxOgWlZ.jpg
+date=2018-07-06
+URL=https://openload.co/f/NRn9y7eXJHw/Tomb_Invader_2018_1080p_BluRay_x264_GUACAMOLE.mkv.mp4
+#https://openload.co/f/WQN7U1ijVdY/Tomb.Invader.2018.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
 
 type=video
 name=Where Is Kyra? (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t612LkZOGzpP9VRpSodI7R9S00K.jpg
-date=2018-07-05
-URL=https://openload.co/f/u9BuEpYUZVM/where.is.kyra.2017.1080p.bluray.x264-cinefile.mkv.mp4
+date=2018-07-06
+URL=https://openload.co/f/jr8QfaPXcbU/Where.Is.Kyra.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/u9BuEpYUZVM/where.is.kyra.2017.1080p.bluray.x264-cinefile.mkv.mp4
 #https://openload.co/f/c-SbCoiRCS0/where.is.kyra.2017.720p.bluray.x264-cinefile.mkv.mp4
 
 type=video
@@ -1376,6 +1385,7 @@ name=Palm Swings (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1YnKSZECx2mfCheJmmQOX3CaDn.jpg
 date=2018-07-05
 URL=https://openload.co/f/OHVdw944_ZY/palm.swings.2017.1080p.bluray.x264-getit.mkv.mp4
+#https://openload.co/f/a2lSwmmIIy4/Palm.Swings.2017.720p.BR_SeeHD.mp4
 
 type=video
 name=Disobedience (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1622,8 +1632,9 @@ URL=https://openload.co/f/YfSYAN18n3o/Blockers.2018.1080p.BluRay.x264-GECKOS.mkv
 type=video
 name=The Endless (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVHPBTLb6Sj1Eso9HzyBAOMRheM.jpg
-date=2018-06-21
-URL=https://openload.co/f/m3ZjhH1ta90/The.Endless.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+date=2018-07-06
+URL=https://openload.co/f/yn-ccdVwHkY/the.endless.2017.1080p.bluray.x264-cinefile.mkv.mp4
+#https://openload.co/f/m3ZjhH1ta90/The.Endless.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
 #https://www.blazefile.co/embed-v5v62iavt6aj.html   720
 #https://uptobox.com/1j8ea33j9kpj   720
 #https://openload.co/embed/qlahKoFlZAw/THEENDLESSBD72.Ganool.im.mkv.mp4
@@ -5338,7 +5349,9 @@ type=video
 name=Submission (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVAS7PzLs26Xig8fdHAOQPDFf9N.jpg
 date=2018-07-04
-URL=https://openload.co/f/bne1V53ptYE/Submission.2017.720p.BluRay.x264.DTS-FGT.mkv.mp4
+URL=https://uptobox.com/sx8sgdogbsx3
+#https://openload.co/embed/Eah7I9s_uHY/SUBMISSIONBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/bne1V53ptYE/Submission.2017.720p.BluRay.x264.DTS-FGT.mkv.mp4
 
 type=video
 name=West of Hell (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -7251,6 +7264,8 @@ URL=https://openload.co/f/gMrENzQL2Lo/Truth.or.Dare.2018.1080p.BluRay.x264-GECKO
 #https://openload.co/f/V2EBBQKTP7g/Truth.or.Dare.2018.EXTENDED_SeeHD.mkv.mp4
 #https://openload.co/f/XFi6Ch2wGl0/Truth_or_Dare_2018_720p_WEB-DL_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/gsGj_lpB0Ho/Truth_or_Dare_2018_HD-TS_X264-Mr.Hive_SeeHD.mkv.mp4
+#https://uptobox.com/gjn6pif1tamh   720
+#https://openload.co/embed/xocVvK_hR9c/SHQTRUTHOFDAREBD72.Ganol.ru.mkv.mp4
 type=video
 name=Truth or Dare (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdkNaQYZ7dhM80LsnAGKpH8ca2g.jpg
@@ -8034,8 +8049,9 @@ URL=https://www.blazefile.co/embed-s7fp5j17mik3.html
 type=video
 name=Unsane (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M1U5K4Vf1Cbtrjl9EkGNWpqahf.jpg
-date=2018-06-30
-URL=https://openload.co/f/smkIDauVJrw/Unsane_%282018%29%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2.mp4
+date=2018-07-06
+URL=https://openload.co/f/b02xqKirSyI/Unsane_%282018%29%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2.mp4
+#https://openload.co/f/smkIDauVJrw/Unsane_%282018%29%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2.mp4
 
 
 type=video
