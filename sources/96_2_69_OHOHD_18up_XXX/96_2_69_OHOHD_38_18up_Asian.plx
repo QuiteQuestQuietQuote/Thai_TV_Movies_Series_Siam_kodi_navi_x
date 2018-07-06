@@ -58,6 +58,73 @@ URL=
 
 
 
+
+
+
+
+
+
+type=video
+name=135xxxxxxxxxxxxxxxxxxxxChodaenyeo (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Chodaenyeo-2018.jpg
+date=2018-07-06
+URL=https://streamcherry.com/embed/anoappkcfasrbkla/
+
+type=video
+name=Widow Widow Tightly Holds (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Widow-Widow-Tightly-Holds-2017.jpg
+date=2018-07-06
+URL=https://streamcherry.com/embed/aklbqcckakrmdbtn/
+
+type=video
+name=Korean Erotic Movie Collection (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Korean-Erotic-Movie-Collection-2018.jpg
+date=2018-07-06
+URL=https://streamcherry.com/embed/rkdspdeaseqpdpll/
+
+type=video
+name=Korean Erotic Movie Collection (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Korean-Erotic-Movie-Collection-2017.jpg
+date=2018-07-06
+URL=https://openload.co/embed/IuMwia2ry8E/
+
+type=video
+name=Church Sister (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Church-Sister-2018.jpg
+date=2018-07-06
+URL=https://streamcherry.com/embed/dksberkbtcbmorto/
+
+
+type=video
+name=BAR TANGO (2015) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/BAR-TANGO-2015-Uncut.jpg
+date=2018-07-06
+URL=https://streamcherry.com/embed/crqspftonkpqarse/
+
+type=video
+name=Yeopjibnunadeul (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Yeopjibnunadeul-2018.jpg
+date=2018-07-06
+URL=https://streamcherry.com/embed/aebscrlncratrtcf/
+
+type=video
+name=Jeongsa Campus Couples (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Jeongsa-Campus-Couples-2018.jpg
+date=2018-07-06
+URL=https://streamcherry.com/embed/ffdksospslmomedc/
+
+type=video
+name=New Father (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/06/New-Father-2018.jpg
+date=2018-07-06
+URL=https://streamcherry.com/embed/aapmebrseqpescep/
+
+
+
+
+
+
+
 type=video
 name=126xxxxxxxxxxxxxxxxxxxxCum On My Tattoo 9 (2018) 
 thumb=https://erotic24hr.com/wp-content/uploads/2018/06/Cum-On-My-Tattoo-9-2018.jpg
