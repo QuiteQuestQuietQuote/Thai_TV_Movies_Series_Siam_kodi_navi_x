@@ -72,11 +72,7 @@ thumb=
 date=2018-07-05
 URL=
 
-type=video
-name=
-thumb=
-date=2018-07-05
-URL=
+
 
 
 
@@ -88,6 +84,11 @@ URL=https://openload.co/f/kpCyHOUMNk0/Ant-Man_and_The_Wasp_%282018%29_NEW-HDCAM_
 #https://openload.co/f/HICHLEcJ2n8/Ant-Man.and.The.Wasp.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/APWBCrzytdI/Ant-Man_and_the_Wasp_2018_RUS.TS_480p_x264.mkv.mp4
 
+type=video
+name=Book Club (2018) ENG 720p.HDCAM.ENG.X264-24HD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ORGBbOA45pfKQXvntPf46NoFGO.jpg
+date=2018-07-07
+URL=https://openload.co/f/x4D4ED3JoGc/Book.Club.2018.720p.HDCAM.ENG.X264-24HD_SeeHD.mp4
 
 type=video
 name=Tag (2018) ENG 720p_HD-TS_x264_HQ-24HD_SeeHD
@@ -1353,6 +1354,11 @@ thumb=
 date=2018-07-06
 URL=
 
+type=video
+name=
+thumb=
+date=2018-07-06
+URL=
 
 
 
@@ -1360,6 +1366,30 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Hannah (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nUxflQY2HTQ6NXBejyqK1ROQhE.jpg
+date=2018-07-06
+URL=https://openload.co/f/YhX3zV7uV2E/hannah.2017.1080p.bluray.x264-sprinter.mkv.mp4
+
+type=video
+name=Another WolfCop (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/amvOMZgMGCg7sxScBJZOFdirlqD.jpg
+date=2018-07-06
+URL=https://openload.co/f/DNxa_3-8FHg/another.wolfcop.2017.1080p.bluray.x264-sprinter.mkv.mp4
 
 type=video
 name=Tomb Invader (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
