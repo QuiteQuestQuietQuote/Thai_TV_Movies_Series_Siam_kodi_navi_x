@@ -76,13 +76,7 @@ URL=
 
 
 
-type=video
-name=Ant-Man and the Wasp (2018) ENG NEW-HDCAM_English_SpaceMov
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv1AWImgx386ULjcf62VYaW8zSt.jpg
-date=2018-07-06
-URL=https://openload.co/f/kpCyHOUMNk0/Ant-Man_and_The_Wasp_%282018%29_NEW-HDCAM_English_SpaceMov.mp4
-#https://openload.co/f/HICHLEcJ2n8/Ant-Man.and.The.Wasp.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/APWBCrzytdI/Ant-Man_and_the_Wasp_2018_RUS.TS_480p_x264.mkv.mp4
+
 
 type=video
 name=Book Club (2018) ENG 720p.HDCAM.ENG.X264-24HD_SeeHD
@@ -1357,7 +1351,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-06
+date=2018-07-08
 URL=
 
 
@@ -1373,11 +1367,26 @@ URL=
 
 
 
+type=video
+name=Memoir of a Murderer (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTdvO9AwJrxq02iYf4Lu5qA0fNc.jpg
+date=2018-07-08
+URL=https://openload.co/f/BlEhKldYP1M/memoir.of.a.murderer.2017.1080p.bluray.x264-regret.mkv.mp4
+#https://openload.co/f/qJ5rNjZREUY/Memoir.of.a.Murderer.2017.DC.KOREAN.720p.BR_SeeHD.mp4
 
+type=video
+name=ManHunt (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWWmqeC1jEAGl9Nj3W65PL7Bvon.jpg
+date=2018-07-08
+URL=https://openload.co/f/I9zhg_lC5mU/manhunt.2017.1080p.bluray.x264-regret.mkv.mp4
+#https://openload.co/f/fQJLIrurnuc/Manhunt.2017.720p.BluRay.x264-WiKi.mkv.mp4
 
-
-
-
+type=video
+name=Welcome to Curiosity (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3JnvpL39myn5Haq7vk9AoPrxce.jpg
+date=2018-07-08
+URL=https://openload.co/f/L-p2pXtTrw4/Welcome.to.Curiosity.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/qN71lx_xF4g/welcome.to.curiosity.2018.limited.1080p.bluray.x264-cadaver.mkv.mp4
 
 type=video
 name=Hannah (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
@@ -1388,8 +1397,9 @@ URL=https://openload.co/f/YhX3zV7uV2E/hannah.2017.1080p.bluray.x264-sprinter.mkv
 type=video
 name=Another WolfCop (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/amvOMZgMGCg7sxScBJZOFdirlqD.jpg
-date=2018-07-06
-URL=https://openload.co/f/DNxa_3-8FHg/another.wolfcop.2017.1080p.bluray.x264-sprinter.mkv.mp4
+date=2018-07-08
+URL=https://openload.co/f/WbC-C1c2wSM/Another.WolfCop.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/DNxa_3-8FHg/another.wolfcop.2017.1080p.bluray.x264-sprinter.mkv.mp4
 
 type=video
 name=Tomb Invader (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4880,11 +4890,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ob2ZEONKi2olYndsdVkjMueneO
 date=2018-02-17
 URL=https://openload.co/f/IxTB5OE2vEQ/To.Keep.the.Light.2016.720p.BluRay.x264.DTS-MT.mkv.mp4
 
-type=video
-name=ManHunt (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWWmqeC1jEAGl9Nj3W65PL7Bvon.jpg
-date=2018-02-17
-URL=https://openload.co/f/fQJLIrurnuc/Manhunt.2017.720p.BluRay.x264-WiKi.mkv.mp4
+
 
 type=video
 name=A Taxi Driver (2017) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
@@ -5162,11 +5168,7 @@ date=2018-04-29
 URL=https://www.blazefile.co/embed-5fh5cyz858lm.html
 #https://uptobox.com/m9zonc63fm8x
 
-type=video
-name=Memoir of a Murderer (2017) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTdvO9AwJrxq02iYf4Lu5qA0fNc.jpg
-date=2018-05-01
-URL=https://openload.co/f/qJ5rNjZREUY/Memoir.of.a.Murderer.2017.DC.KOREAN.720p.BR_SeeHD.mp4
+
 
 type=video
 name=Birds Without Names (2017) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
@@ -5385,7 +5387,11 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8ztWfbtgAsFNDcVtXel7DXIuf
 date=2018-07-05
 URL=https://openload.co/f/znPTw_cVBY4/West.of.Hell.2018.UNCUT.720p.BR_SeeHD.mp4
 
-
+type=video
+name=Milada (2017) [COLOR=FF00FF00]CZE BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLLWYdeygdtyb9nUzos7zbEVjcx.jpg
+date=2018-07-08
+URL=https://openload.co/f/rw80qP0KPYY/Milada.2017.720p.BluRay.x264.DTS-HDH.mkv.mp4
 
 
 
@@ -5407,7 +5413,7 @@ URL=https://openload.co/f/znPTw_cVBY4/West.of.Hell.2018.UNCUT.720p.BR_SeeHD.mp4
 type=video
 name=
 thumb=
-date=2018-07-05
+date=2018-07-08
 URL=http://203.162.235.41:17819
 
 
@@ -5479,6 +5485,21 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+type=video
+name=Ant-Man and the Wasp (2018) ENG NEW_720p_HDCAM_x264_AC3-24HD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv1AWImgx386ULjcf62VYaW8zSt.jpg
+date=2018-07-08
+URL=https://openload.co/f/snZBHMSAjuc/Ant-Man_and_The_Wasp_2018_NEW_720p_HDCAM_x264_AC3-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/kpCyHOUMNk0/Ant-Man_and_The_Wasp_%282018%29_NEW-HDCAM_English_SpaceMov.mp4
+#https://openload.co/f/HICHLEcJ2n8/Ant-Man.and.The.Wasp.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/APWBCrzytdI/Ant-Man_and_the_Wasp_2018_RUS.TS_480p_x264.mkv.mp4
+type=video
+name=Ant-Man and the Wasp (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv1AWImgx386ULjcf62VYaW8zSt.jpg
+date=2018-07-08
+URL=https://streamango.com/f/dordledefetessal/Ant-Man_and_the_Wasp_2018_-_
 
 
 type=video
@@ -5702,7 +5723,7 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-07-05
+date=2018-07-08
 URL=
 
 
@@ -5713,7 +5734,11 @@ URL=
 
 
 
-
+type=video
+name=King of Peking (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/15esaCDfn8Py1VqkkLF4zln7P3R.jpg
+date=2018-07-08
+URL=https://streamango.com/f/narcldsnkrkbofek/King_of_Peking_2017_
 
 type=video
 name=Duck Butter (2018) THSUB
@@ -5855,7 +5880,11 @@ URL=https://streamango.com/f/kaakpmqotkaqrpmq/Revenge_2018_
 
 
 
-
+type=video
+name=Terrifier (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PQqC4SbY910VvyVad6mvsboILU.jpg
+date=2018-07-08
+URL=https://openload.co/f/5dn8KNryxIA/Terrifier.2017.1080p.BluRay.x264-HANDJOB.mkv.mp4
 type=video
 name=Terrifier (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PQqC4SbY910VvyVad6mvsboILU.jpg
