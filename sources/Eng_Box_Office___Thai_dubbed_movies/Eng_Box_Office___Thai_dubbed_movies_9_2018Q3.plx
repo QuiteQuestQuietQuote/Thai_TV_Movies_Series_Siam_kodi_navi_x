@@ -174,12 +174,7 @@ date=2018-05-22
 URL=https://openload.co/f/ClcPNhbQGoE/The_Escape_2018_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
 #https://openload.co/f/tooiKVd6xNw/The_Escape.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 
-type=video
-name=Traffik (2018) ENG DVDRip.XviD.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubSpsYP3WqljVPVSX2FbBNYZoR1.jpg
-date=2018-07-06
-URL=https://openload.co/f/3OXFivuFQn0/Traffik.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/AyYfn1TqAlI/Traffik_2018_HDCAM_ENG_X264_-_SugarTits_SeeHD.mkv.mp4
+
 
 
 
@@ -415,10 +410,13 @@ URL=https://openload.co/f/Tms4xy3wQmg/Paterno.2018.1080p.AMZN.WEB-DL.DDP5.1.H.26
 #https://openload.co/f/L5IavymIoPs/Paterno.2018.720p.HD_SeeHD.mp4
 
 type=video
-name=Bilal: A New Breed of Hero (2015) ARB HD.720P.ENG.SUB
+name=Bilal: A New Breed of Hero (2015) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQFwkuUAYn112Q6RfISOgHx9Uiv.jpg
-date=2018-03-24
-URL=https://openload.co/f/loZZx4EAsiI/Bilal.A.New.Breed.of.Hero.2015.HD.720P.ENG.SUB.mp4
+date=2018-07-09
+URL=https://openload.co/f/nDS-1gJ41hg/Bilal.A.New.Breed.of.Hero.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/PK0787aslLU/Bilal_A_New_Breed_of_Hero.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/p9r-XW2TNMg/Bilal.A.New.Breed.of.Hero.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/loZZx4EAsiI/Bilal.A.New.Breed.of.Hero.2015.HD.720P.ENG.SUB.mp4
 
 type=video
 name=Wunderland (2018) ENG 1080p.WEB-DL.AAC.H264-CMRG
@@ -1365,7 +1363,14 @@ URL=
 
 
 
-
+type=video
+name=Traffik (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubSpsYP3WqljVPVSX2FbBNYZoR1.jpg
+date=2018-07-09
+URL=https://openload.co/f/zNLRErN2zlo/Traffik.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/fvMi6Du_T5s/traffik.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/3OXFivuFQn0/Traffik.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/AyYfn1TqAlI/Traffik_2018_HDCAM_ENG_X264_-_SugarTits_SeeHD.mkv.mp4
 
 type=video
 name=Memoir of a Murderer (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
@@ -5393,7 +5398,11 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLLWYdeygdtyb9nUzos7zbEVjc
 date=2018-07-08
 URL=https://openload.co/f/rw80qP0KPYY/Milada.2017.720p.BluRay.x264.DTS-HDH.mkv.mp4
 
-
+type=video
+name=Women of Mafia (2018) [COLOR=FF00FF00]POL BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/koAbclvtOsxl3ZEbr9D5ivNHJpt.jpg
+date=2018-07-09
+URL=https://openload.co/f/hXFCqHqdvKc/women.of.mafia.2018.720p.bluray.x264-rovers.mkv.mp4
 
 
 
@@ -5413,7 +5422,7 @@ URL=https://openload.co/f/rw80qP0KPYY/Milada.2017.720p.BluRay.x264.DTS-HDH.mkv.m
 type=video
 name=
 thumb=
-date=2018-07-08
+date=2018-07-09
 URL=http://203.162.235.41:17819
 
 
@@ -7335,6 +7344,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN2
 date=2018-07-01
 URL=https://openload.co/f/fqSPSAUjsso/Rampage.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/otDkJV_U0-8/Rampage.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/v0jxguJ8Ffc/Rampage.2018.3D.1080p.BluRay.x264-SPRiNTER.mkv.mp4
 #https://openload.co/f/4150OhiKueU/Rampage.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/GO9hC3gl0eg/Rampage.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/2h_aRfMez0M/Rampage.2018.web.h264-webtiful.mkv.mp4
