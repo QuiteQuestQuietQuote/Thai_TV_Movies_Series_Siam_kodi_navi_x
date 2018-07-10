@@ -1366,8 +1366,10 @@ URL=
 type=video
 name=Traffik (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubSpsYP3WqljVPVSX2FbBNYZoR1.jpg
-date=2018-07-09
-URL=https://openload.co/f/zNLRErN2zlo/Traffik.2018.1080p.BR_SeeHD.mp4
+date=2018-07-10
+URL=https://uptobox.com/9ogvtfj9kd05
+#https://openload.co/embed/V962IVKA81g/GHPTRAFIK80.Ganol.ru.mkv
+#https://openload.co/f/zNLRErN2zlo/Traffik.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/fvMi6Du_T5s/traffik.2018.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/3OXFivuFQn0/Traffik.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://openload.co/f/AyYfn1TqAlI/Traffik_2018_HDCAM_ENG_X264_-_SugarTits_SeeHD.mkv.mp4
@@ -1433,6 +1435,8 @@ name=Disobedience (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPsa2odqNRz4WJVd4f8yZWui3iu.jpg
 date=2018-07-05
 URL=https://openload.co/f/gq7J1RaEAaU/Disobedience.2017.1080p.BR_SeeHD.mp4
+#https://uptobox.com/f5ubc6ups2cm   720
+#https://openload.co/embed/I9_rxSvfhqQ/SHQDIS0BEDIENCEBD72.Ganol.ru.mkv.mp4
 #https://openload.co/f/N8q8Tb5VoAw/Disobedience%2B2018%2B720p%2BHDCAM%2BX264-SugarTtis.mp4
 #https://openload.co/f/CdNj7UkZ2cQ/Disobedience_2018_720p_HDCAM_X264-Rano.mp4
 
@@ -1465,6 +1469,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0nUX6Q1ZB0P2t1Jo6EeFSVnOG
 date=2018-07-05
 URL=https://openload.co/f/LKMfQnVeglo/Isle.of.Dogs.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/EocGxmZ-5po/Isle.of.Dogs.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/noh8h7b3rod2   720
+#https://openload.co/embed/JOPiJYrRDqA/SHQISLEODOGSBD72.Ganol.ru.mkv.mp4
 #https://openload.co/f/rl-V0hLI0us/Isle_Of_Dogs_2018_1080p_WEB-DL_AAC_H264-CMRG.mkv.mp4
 #https://openload.co/f/GOhg7Xb9aEc/Isle.of.Dogs.2018.720pHD_SeeHD.mkv.mp4
 #https://openload.co/f/ZbyRG1ryFsI/Isle.of.Dogs.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
@@ -1523,6 +1529,8 @@ name=Mary Magdalene (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLbqnVAmD8ISel1SLTY3Ek0TWz8.jpg
 date=2018-06-30
 URL=https://openload.co/f/xkqnQ8DoVX8/Mary.Magdalene.2018.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+#https://uptobox.com/yc6czgwb8iwg   720
+#https://openload.co/embed/CGM5665MP5Y/SHQMARYMAGLENEBD72.Ganol.ru.mkv.mp4
 #https://openload.co/f/RhIhhtNO6f8/Mary_Magdalene.2018.720p.BDRip.X264.AC3-EVO.mkv.mp4
 
 type=video
