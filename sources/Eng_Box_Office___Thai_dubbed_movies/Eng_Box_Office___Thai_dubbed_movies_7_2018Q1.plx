@@ -97,6 +97,7 @@ name=The Big Sick (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg
 date=2017-09-08
 URL=https://www.blazefile.co/embed-34nf3q8teggf.html
+#https://openload.co/f/szcUO9iEmRc/The.Big.Sick.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/Gvwx5fGYSwk/The_Big_Sick_%282017%29_%5B1080p%5D.X264.AC3-YIN.mkv.mp4
 #https://openload.co/f/EkvIdTd4RJw/The.Big.Sick.2017.1080p.BluRay.x264-Replica.mp4
 type=video

@@ -338,38 +338,70 @@ thumb=http://javdub.com/wp-content/uploads/2016/01/4394.jpg
 date=2018-06-15
 URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4394/hls.m3u8
 
+type=video
+name=
+thumb=
+date=2018-06-15
+URL=
+
+
+type=video
+name=Lztd-003
+thumb=http://javdub.com/wp-content/uploads/2017/01/11403.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_422524198217596_6569628430327873536_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeGG5gmbODwxNoONEnppG4EpHSg6Jlzxox4GU8Q0pzyZYAol2bsLsnOp8GIwnlZSiF8zz7TeNUYWY5yCOJNVosoeGcsZH8yxrLfKnF6x6PcwFw&oh=de3df0a2b6d4a87efcac4679a7efdd92&oe=5B468A5B&itag=22
+
+type=video
+name=Madm-019 10 Frustration Married Woman Knitting Erogenous Rezuesute
+thumb=http://javdub.com/wp-content/uploads/2017/01/11405.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_224624724768241_5900722389628485632_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeELZahHcKayzjGlFI9c_VKUCHPgETGg5AAeYNn5RYs4T3-HDBA15F0KiEYMYklZNFBcF6AJdToF4UPknM8wnQz2dnc23FDqSbU764Qd_p95aw&oh=0f501a480b307885dac96a2e521e3cbd&oe=5B4685FD&itag=22
+
+type=video
+name=Chn-018 New Amateur Daughter, I Will Lend You Vol 10
+thumb=http://javdub.com/wp-content/uploads/2017/01/10412.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_215411785717171_2284257882268499968_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=8ece8b0073d98c5b06a2392c43a59865&oe=5B46867A&itag=22
+
+type=video
+name=Krv-001 Mgs Treasured Erotic Video Prestige Kuradashi Tv Premium 01
+thumb=http://javdub.com/wp-content/uploads/2017/01/9496.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2125192551025470_7745856175534505984_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=229849331577c5fc7628efebd0ca9043&oe=5B468A50&itag=22
+
+type=video
+name=Kray-002 Kiray Collection 02 That Sex Is Beautifully Me
+thumb=http://javdub.com/wp-content/uploads/2016/12/8844.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2009978399214168_2859833063855095808_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=3203c251a094e7f6b3f165652672d9d7&oe=5B4670AB&itag=22
 
 
 
 type=video
-name=Sdde-449
-thumb=http://javdub.com/wp-content/uploads/2016/10/7022.jpg
+name=Ppt-039 Prestige Absolute Sailor Memorial Best 02 Of Legend
+thumb=http://javdub.com/wp-content/uploads/2016/11/8629.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_122404805288017_4149190621300523008_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=0e308eee8852f89aa73ea4b3a4545f5b&oe=5B4546F6&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1006155052868476_4966762986401169408_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=f1d1653248333a3136f8d995a8236ed3&oe=5B468BD2&itag=22
 
 type=video
-name=Abp-19
-thumb=http://javdub.com/wp-content/uploads/2017/01/11541.jpg
+name=
+thumb=
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1719870721382836_752019511917412352_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=fb6dfaee7b9b3fd4cb1fc8f23957a89a&oe=5B454854&itag=22
+URL=
 
 type=video
-name=Abp-167
-thumb=http://javdub.com/wp-content/uploads/2017/01/11528.jpg
+name=
+thumb=
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_197149564226294_9004581815771463680_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=490f154310bd604f80570fc7063c5a4e&oe=5B4547BD&itag=22
+URL=
 
-type=video
-name=Sdde-353
-thumb=http://javdub.com/wp-content/uploads/2017/01/11348.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_160942561394821_2845207338707582976_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=a9f11b1166f83481a47a770e46e885b9&oe=5B45480F&itag=22
 
-type=video
-name=Mxgs-814
-thumb=http://javdub.com/wp-content/uploads/2016/11/8518.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2135415790030141_3028878170557251584_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=08936c6030452a1f964c88e492111ae6&oe=5B454499&itag=22
+
+
+
+
+
+
 
 type=video
 name=

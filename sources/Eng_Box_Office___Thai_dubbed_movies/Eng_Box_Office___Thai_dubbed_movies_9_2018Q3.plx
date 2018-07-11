@@ -1349,7 +1349,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-08
+date=2018-07-11
 URL=
 
 
@@ -1357,11 +1357,26 @@ URL=
 
 
 
+type=video
+name=Submission (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVAS7PzLs26Xig8fdHAOQPDFf9N.jpg
+date=2018-07-11
+URL=https://openload.co/f/sfRwKToNP2g/Submission.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://uptobox.com/sx8sgdogbsx3   720
+#https://openload.co/embed/Eah7I9s_uHY/SUBMISSIONBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/bne1V53ptYE/Submission.2017.720p.BluRay.x264.DTS-FGT.mkv.mp4
 
+type=video
+name=Paths (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/woENkKoz16Oz7MMXJPOHAHdvS2H.jpg
+date=2018-07-11
+URL=https://openload.co/f/A6F6wsXQe-Q/paths.2017.1080p.bluray.x264-bipolar.mkv.mp4
 
-
-
-
+type=video
+name=In Pursuit of Silence (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3QazwvuwyywPogJDGueJpGgQHb.jpg
+date=2018-07-11
+URL=https://openload.co/f/CEla7PhksWA/in.pursuit.of.silence.2015.limited.1080p.bluray.x264-bipolar.mkv.mp4
 
 type=video
 name=Traffik (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1433,8 +1448,9 @@ URL=https://openload.co/f/OHVdw944_ZY/palm.swings.2017.1080p.bluray.x264-getit.m
 type=video
 name=Disobedience (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPsa2odqNRz4WJVd4f8yZWui3iu.jpg
-date=2018-07-05
-URL=https://openload.co/f/gq7J1RaEAaU/Disobedience.2017.1080p.BR_SeeHD.mp4
+date=2018-07-11
+URL=https://openload.co/f/06swD85X9Y4/Disobedience.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/gq7J1RaEAaU/Disobedience.2017.1080p.BR_SeeHD.mp4
 #https://uptobox.com/f5ubc6ups2cm   720
 #https://openload.co/embed/I9_rxSvfhqQ/SHQDIS0BEDIENCEBD72.Ganol.ru.mkv.mp4
 #https://openload.co/f/N8q8Tb5VoAw/Disobedience%2B2018%2B720p%2BHDCAM%2BX264-SugarTtis.mp4
@@ -1466,8 +1482,9 @@ URL=https://openload.co/f/CyaZhAF_jRM/Super.Troopers.2.2018.1080p.BR_SeeHD.mp4
 type=video
 name=Isle of Dogs (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
-date=2018-07-05
-URL=https://openload.co/f/LKMfQnVeglo/Isle.of.Dogs.2018.1080p.BR_SeeHD.mp4
+date=2018-07-11
+URL=https://openload.co/f/kHm7XocxNKc/Isle.of.Dogs.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/LKMfQnVeglo/Isle.of.Dogs.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/EocGxmZ-5po/Isle.of.Dogs.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://uptobox.com/noh8h7b3rod2   720
 #https://openload.co/embed/JOPiJYrRDqA/SHQISLEODOGSBD72.Ganol.ru.mkv.mp4
@@ -1699,12 +1716,7 @@ URL=https://openload.co/f/6eHaYaiCEmM/the.crash.2017.1080p.bluray.x264-getit.mkv
 #https://uptobox.com/956e6ihi4elq   720
 #https://openload.co/embed/D4NC_xDL9Q0/THECRASHBD72.Ganool.im.mkv
 
-type=video
-name=Double Lover (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7va7VtatGdaMbURnKTkwiQlGrX.jpg
-date=2018-06-20
-URL=https://openload.co/f/FhgHzxegz-c/Double.Lover.2017.1080p.BluRay.x264-NODLABS.mkv.mp4
-#https://openload.co/f/8PbIUxF4LPE/L%E2%80%99amant_Double_%28The_Double_Lover%29_%282017%29.FRENCH.720p.BRRip.999MB.MkvCage.mp4
+
 
 type=video
 name=The Lodgers (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1882,8 +1894,9 @@ URL=https://openload.co/f/2rcDF6naj8U/The.Last.Note.2017.1080p.BluRay.DD5.1.x264
 type=video
 name=The Mercy (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rn170WmFUE4esoXvoOOAonDw16.jpg
-date=2018-06-03
-URL=https://openload.co/f/VxNRJqzFuhY/The.Mercy.2018.1080p.BR_SeeHD.mp4
+date=2018-07-11
+URL=https://openload.co/f/5cru3s4h8sg/The.Mercy.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/VxNRJqzFuhY/The.Mercy.2018.1080p.BR_SeeHD.mp4
 #https://www.blazefile.co/embed-vaibv399qaw7.html   720
 #https://uptobox.com/7l9obcehqs5i   720
 #https://openload.co/embed/oCwQtNWqk00/SHQTHEMERCYBD72.Ganoo.im.mkv.mp4
@@ -2740,11 +2753,7 @@ URL=https://www.blazefile.co/embed-5q4p06r90i7x.html
 #https://openload.co/f/CVvdNht7yYY/Children.of.the.Corn.Runaway.2018.720p.BluRay.x264-ROVERS.mkv.mp4
 #https://openload.co/f/RMBU-anIiRc/Children.of.the.Corn.Runaway.2018.BDRip.x264-ROVERS.mkv.mp4
 
-type=video
-name=GoodFellas (1990) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAPeXBdGDGmXRPj4OZZ0poH65Iu.jpg
-date=2018-03-26
-URL=https://openload.co/f/TVlQzD6bL6U/Goodfellas_-_Remastered_Feature.1080p.BluRay.2017_%281990%29
+
 
 type=video
 name=Solace (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2766,13 +2775,6 @@ name=A Beginner's Guide to Snuff (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kv0i6XqUULBcgCHwXedZZulOPyv.jpg
 date=2018-03-25
 URL=https://openload.co/f/Aed_C4nTkMM/a.beginners.guide.to.snuff.2016.1080p.bluray.x264-getit.mkv.mp4
-
-type=video
-name=The Silence of the Lambs (1991) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjAyTj2BSth1EQ89vNfo0JYVPFN.jpg
-date=2018-03-25
-URL=https://openload.co/f/WlQlW0OQwE0/The.Silence.of.the.Lambs.1991.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://uptobox.com/4zq7yb6ycxoy   720
 
 
 
@@ -3890,14 +3892,6 @@ URL=https://openload.co/f/hnbzXd-lI-4/Tyler.Perrys.Boo.2.A.Madea.Halloween.2017.
 #https://openload.co/f/cisxIQQ1-xk/Boo.2.A.Madea.Halloween.2017.V2.CAM.x264-NEXUS.mp4
 #https://uptobox.com/dlx7l6mh7hoy   720
 
-type=video
-name=LBJ (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/38LjJv6ZvNsblF9ulSVGcMSIXfk.jpg
-date=2018-01-17
-URL=https://openload.co/f/mmt8x6Q4_3Q/LBJ.2016.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://www.blazefile.co/embed-7uot1i5zu90n.html   720
-#https://uptobox.com/l10z97j04a1q   720
-
 
 
 
@@ -4363,13 +4357,7 @@ URL=https://openload.co/f/6OfNo6I3p0E/Ali.and.Nino.2016.1080p.BluRay.x264-EXCLUD
 
 
 
-type=video
-name=Lord, Give Me Patience (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] MKV 7.7GB fmovies
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYtmqQ0Q3zjTRa4COgePNQcxTcN.jpg
-date=2018-05-07
-URL=https://openload.co/f/QhOtHVlcfdo/Lord_Give_Me_Patience_2017_720p_BluRay_x264_AAC_ESub.E.mp4
-#https://cdn.mcloud.to/q2/i0/h0/p23/G5u3tzTFR-fWzpbxxBTaag/1525798800/i/b/1/mqv46v/list.m3u8
-#https://openload.co/f/Jd0GQ4lEOA4/lord.give.me.patience.2017.1080p.bluray.x264-bipolar.mkv
+
 
 type=video
 name=Vir Altyd (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] MKV 7.6GB
@@ -4564,12 +4552,7 @@ URL=https://www.blazefile.co/embed-3gilqjbpg0qg.html
 #https://openload.co/f/KC5z9jF5Tgg/6.Days.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 
-type=video
-name=Hounds of Love (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4niGo8hpxIpmAZsGkpZK4mXiDo.jpg
-date=2017-10-03
-URL=https://www.blazefile.co/embed-0khosisjmx0m.html
-#https://openload.co/f/cCI2wifJHxA/Hounds.of.Love.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+
 
 
 
@@ -5386,13 +5369,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckDioqChQb1aFpMJEOuTYOw0Q8
 date=2018-07-03
 URL=https://openload.co/f/sab2_SCBVAw/miracles.of.the.namiya.general.store.2017.720p.bluray.x264-regret.mkv.mp4
 
-type=video
-name=Submission (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVAS7PzLs26Xig8fdHAOQPDFf9N.jpg
-date=2018-07-04
-URL=https://uptobox.com/sx8sgdogbsx3
-#https://openload.co/embed/Eah7I9s_uHY/SUBMISSIONBD72.Ganol.ru.mkv.mp4
-#https://openload.co/f/bne1V53ptYE/Submission.2017.720p.BluRay.x264.DTS-FGT.mkv.mp4
+
 
 type=video
 name=West of Hell (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5412,7 +5389,11 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/koAbclvtOsxl3ZEbr9D5ivNHJp
 date=2018-07-09
 URL=https://openload.co/f/hXFCqHqdvKc/women.of.mafia.2018.720p.bluray.x264-rovers.mkv.mp4
 
-
+type=video
+name=A Ciambra (2017) [COLOR=FF00FF00]ITA BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIkDmCWDIWyHAQgKCZpuD5d8kKl.jpg
+date=2018-07-11
+URL=https://openload.co/f/0WK5y9FohP0/A.Ciambra.2017.720p.BluRay.x264-DEPTH.mkv.mp4
 
 
 
@@ -8013,8 +7994,9 @@ URL=https://uptobox.com/5xj4d5723jk9
 type=video
 name=Ready Player One (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
-date=2018-07-05
-URL=https://openload.co/f/IhWSFaIYBfU/Ready_Player_One_%282018%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0.mp4
+date=2018-07-11
+URL=https://openload.co/f/Cny5sWMIH3o/Ready_Player_One_%282018%29%E0%B9%80%E0%B8%A3%E0%B8%94%E0%B8%94%E0%B8%B5%E0%B9%89_%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B9%80%E0%B8%A2%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%A7%E0%B8%B1%E0%B8%99_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0.mp4
+#https://openload.co/f/IhWSFaIYBfU/Ready_Player_One_%282018%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0.mp4
 #https://streamango.com/f/rsfbefbedcroponc/Ready_Player_One_2018_
 #https://streamango.com/f/esmtoktpnsnacelr/Ready_Player_One_2018_
 
@@ -8062,8 +8044,9 @@ URL=https://www.blazefile.co/embed-swajphjzq0sf.html
 type=video
 name=Wonder Wheel (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPXn8SW4pa4kJErAIAJLmb3Znns.jpg
-date=2018-06-30
-URL=https://openload.co/f/04AvEFmMI2w/Wonder_Wheel_%282017%29%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
+date=2018-07-11
+URL=https://openload.co/f/bNmgG7mhmS8/Wonder_Wheel_%282017%29%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
+#https://openload.co/f/04AvEFmMI2w/Wonder_Wheel_%282017%29%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
 
 
 type=video
@@ -8318,6 +8301,30 @@ URL=
 
 
 
+type=video
+name=Hotel Transylvania 2 (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BGjNYVHWynVNIbo3eF6XhPeB1J.jpg
+date=2018-07-11
+URL=https://openload.co/f/YrupfyUOfoo/Hotel.Transylvania.2.2015.1080p.Br_SeeHD.mp4
+
+type=video
+name=Hotel Transylvania (2012) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qugesYpAWHUpdrw2w8URSGkAPt.jpg
+date=2018-07-11
+URL=https://openload.co/f/jYN9CqTneNA/Hotel.Transylvania.2012.1080p.Br_SeeHD.mp4
+
+type=video
+name=City Hunter (1993) [COLOR=FF00FF00]CHN HD 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbiY9CMZOPt4ulfSFUcdYdRR2xz.jpg
+date=2018-07-11
+URL=https://openload.co/f/0sL6AyzP5Rc/City_Hunter.1993.HD_720p.encoded.mp4
+
+
+
+
+
+
+
 
 
 
@@ -8349,7 +8356,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-04
+date=2018-07-11
 URL=
 
 
@@ -8359,6 +8366,60 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Double Lover (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7va7VtatGdaMbURnKTkwiQlGrX.jpg
+date=2018-06-20
+URL=https://openload.co/f/FhgHzxegz-c/Double.Lover.2017.1080p.BluRay.x264-NODLABS.mkv.mp4
+#https://openload.co/f/8PbIUxF4LPE/L%E2%80%99amant_Double_%28The_Double_Lover%29_%282017%29.FRENCH.720p.BRRip.999MB.MkvCage.mp4
+
+type=video
+name=GoodFellas (1990) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAPeXBdGDGmXRPj4OZZ0poH65Iu.jpg
+date=2018-03-26
+URL=https://openload.co/f/TVlQzD6bL6U/Goodfellas_-_Remastered_Feature.1080p.BluRay.2017_%281990%29
+
+type=video
+name=The Silence of the Lambs (1991) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjAyTj2BSth1EQ89vNfo0JYVPFN.jpg
+date=2018-03-25
+URL=https://openload.co/f/WlQlW0OQwE0/The.Silence.of.the.Lambs.1991.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/4zq7yb6ycxoy   720
+
+type=video
+name=LBJ (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/38LjJv6ZvNsblF9ulSVGcMSIXfk.jpg
+date=2018-01-17
+URL=https://openload.co/f/mmt8x6Q4_3Q/LBJ.2016.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://www.blazefile.co/embed-7uot1i5zu90n.html   720
+#https://uptobox.com/l10z97j04a1q   720
+
+type=video
+name=Hounds of Love (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4niGo8hpxIpmAZsGkpZK4mXiDo.jpg
+date=2017-10-03
+URL=https://www.blazefile.co/embed-0khosisjmx0m.html
+#https://openload.co/f/cCI2wifJHxA/Hounds.of.Love.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Lord, Give Me Patience (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] MKV 7.7GB fmovies
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYtmqQ0Q3zjTRa4COgePNQcxTcN.jpg
+date=2018-05-07
+URL=https://openload.co/f/QhOtHVlcfdo/Lord_Give_Me_Patience_2017_720p_BluRay_x264_AAC_ESub.E.mp4
+#https://cdn.mcloud.to/q2/i0/h0/p23/G5u3tzTFR-fWzpbxxBTaag/1525798800/i/b/1/mqv46v/list.m3u8
+#https://openload.co/f/Jd0GQ4lEOA4/lord.give.me.patience.2017.1080p.bluray.x264-bipolar.mkv
 
 
 
