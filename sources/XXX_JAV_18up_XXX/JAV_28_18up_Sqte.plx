@@ -346,42 +346,42 @@ URL=
 
 
 type=video
-name=Lztd-003
-thumb=http://javdub.com/wp-content/uploads/2017/01/11403.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_422524198217596_6569628430327873536_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeGG5gmbODwxNoONEnppG4EpHSg6Jlzxox4GU8Q0pzyZYAol2bsLsnOp8GIwnlZSiF8zz7TeNUYWY5yCOJNVosoeGcsZH8yxrLfKnF6x6PcwFw&oh=de3df0a2b6d4a87efcac4679a7efdd92&oe=5B468A5B&itag=22
-
-type=video
-name=Madm-019 10 Frustration Married Woman Knitting Erogenous Rezuesute
-thumb=http://javdub.com/wp-content/uploads/2017/01/11405.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_224624724768241_5900722389628485632_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeELZahHcKayzjGlFI9c_VKUCHPgETGg5AAeYNn5RYs4T3-HDBA15F0KiEYMYklZNFBcF6AJdToF4UPknM8wnQz2dnc23FDqSbU764Qd_p95aw&oh=0f501a480b307885dac96a2e521e3cbd&oe=5B4685FD&itag=22
-
-type=video
-name=Chn-018 New Amateur Daughter, I Will Lend You Vol 10
-thumb=http://javdub.com/wp-content/uploads/2017/01/10412.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_215411785717171_2284257882268499968_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=8ece8b0073d98c5b06a2392c43a59865&oe=5B46867A&itag=22
-
-type=video
-name=Krv-001 Mgs Treasured Erotic Video Prestige Kuradashi Tv Premium 01
-thumb=http://javdub.com/wp-content/uploads/2017/01/9496.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2125192551025470_7745856175534505984_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=229849331577c5fc7628efebd0ca9043&oe=5B468A50&itag=22
-
-type=video
 name=Kray-002 Kiray Collection 02 That Sex Is Beautifully Me
 thumb=http://javdub.com/wp-content/uploads/2016/12/8844.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2009978399214168_2859833063855095808_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=3203c251a094e7f6b3f165652672d9d7&oe=5B4670AB&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2009978399214168_2859833063855095808_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=713f900b79f92c37237471ef644ab854&oe=5B47DE4B&itag=22
 
-
+type=video
+name=Kray-017 I Am A Sweet Boy On The Bed Erotic Appearance That Is Disturbed By Cute R
+thumb=http://javdub.com/wp-content/uploads/2017/12/28355.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_198055904314859_4883891192992890880_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&oh=22cdc4cf54eecaa347324108f83b94b1&oe=5B47EBCA&itag=18
 
 type=video
 name=Ppt-039 Prestige Absolute Sailor Memorial Best 02 Of Legend
 thumb=http://javdub.com/wp-content/uploads/2016/11/8629.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1006155052868476_4966762986401169408_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=f1d1653248333a3136f8d995a8236ed3&oe=5B468BD2&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1006155052868476_4966762986401169408_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=5b358d0425a371bc14fee8b0ed9601c2&oe=5B47F972&itag=22
+
+type=video
+name=Heyzo-1337 Mihono
+thumb=http://javdub.com/wp-content/uploads/2016/12/8795.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_199519167325937_6653809956833198080_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=7d861579c830630f1549c14d896b5edb&oe=5B47F946&itag=22
+
+type=video
+name=Caribpr 122316-003 Beaucoup Beach Fuck Special 3Hrs-14 Girls
+thumb=http://javdub.com/wp-content/uploads/2016/12/9425.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_206634790134373_2690650054343000064_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=fa1a265db3a2f0ad2292662c1e7e7df8&oe=5B47F320&itag=22
+
+
+
+type=video
+name=Tre-042 It Unearthed The Av Actress A New Generation Gachi Athl
+thumb=http://javdub.com/wp-content/uploads/2017/01/8817.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_200950043969109_3322495041288536064_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=e3cfbf548814a2f9863a86238a67cfcf&oe=5B47DEC4&itag=22
 
 type=video
 name=

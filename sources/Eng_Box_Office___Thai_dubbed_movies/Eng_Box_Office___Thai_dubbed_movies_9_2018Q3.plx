@@ -69,14 +69,18 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-05
+date=2018-07-12
 URL=
 
 
 
 
 
-
+type=video
+name=SuperFly (2018) ENG HDCAM.x264-DiRG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGk9H5PVpWzbsYkmnBeKevQkwwf.jpg
+date=2018-07-12
+URL=https://openload.co/f/G1UZshzRASM/Superfly.2018.HDCAM.x264-DiRG_SeeHD.mp4
 
 type=video
 name=Book Club (2018) ENG 720p.HDCAM.ENG.X264-24HD_SeeHD
@@ -1349,13 +1353,33 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-11
+date=2018-07-12
 URL=
 
 
 
 
 
+
+
+type=video
+name=Still Life (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fA25cQbflQeXRka9jAtYb7BwS4J.jpg
+date=2018-07-12
+URL=https://openload.co/f/jRBJ6et7uiQ/still.life.2013.japanese.1080p.bluray.x264-regret.mkv.mp4
+
+type=video
+name=Pyewacket (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcIYkSewH8h2wq9r614G71FHyBg.jpg
+date=2018-07-12
+URL=https://openload.co/f/D7LbKwZkD4M/Pyewacket.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/SXjoaE8V_Qk/pyewacket.2017.1080p.bluray.x264-veto.mkv.mp4
+
+type=video
+name=Adventures in Public School (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7prbaNnkmPlW3u87Yf8QYeJeNf.jpg
+date=2018-07-12
+URL=https://openload.co/f/-hPchWUV4BQ/Adventures.in.Public.School.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
 
 type=video
 name=Submission (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5699,6 +5723,7 @@ URL=https://www.blazefile.co/embed-k6ccfepfv1a7.html
 #https://uptobox.com/bb3dgg6yahi3
 #https://www.blazefile.co/embed-ep6yte1h39mc.html   720
 #https://uptobox.com/n8j2hk3vw11i   720
+#https://openload.co/f/f4e0Q_mErJ0/along.with.the.gods.the.two.worlds.2017.limited.720p.bluray.x264-usury.mkv.mp4
 #https://openload.co/f/cPbb0SCvzYc/Along.with.the.Gods.The.Two.Worlds.2017.720p.BluRay.x264.DD5.1-MT.mkv.mp4
 #https://openload.co/f/eSh-tToMcZE/Along.With.the.Gods.The.Two.Worlds.2017.1080p.FHDRip.H264.AAC.NonDRM.mp4
 type=video
@@ -5721,7 +5746,7 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-07-08
+date=2018-07-12
 URL=
 
 
@@ -5729,15 +5754,35 @@ URL=
 
 
 
+type=video
+name=The Death of Superman (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0uxSHaSFmt6XaBJgjkeLqe7aM.jpg
+date=2018-07-12
+URL=https://openload.co/f/6O1aR-8sYnA/The.Death.of.Superman.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+type=video720p_WEB-DL_X264_AC3-CPG_SeeHD
+name=The Death of Superman (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0uxSHaSFmt6XaBJgjkeLqe7aM.jpg
+date=2018-07-12
+URL=https://streamango.com/f/tolfccekoeotptle/The_Death_of_Superman_2018_
 
 
-
+type=video
+name=King of Peking (2017) CHN 1080p.NF.WEB-DL.DDP2.0.x264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/15esaCDfn8Py1VqkkLF4zln7P3R.jpg
+date=2018-07-12
+URL=https://openload.co/f/xepFa80gonI/King.of.Peking.2018.1080p.NF.WEB-DL.DDP2.0.x264-NTG.mkv.mp4
 type=video
 name=King of Peking (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/15esaCDfn8Py1VqkkLF4zln7P3R.jpg
 date=2018-07-08
 URL=https://streamango.com/f/narcldsnkrkbofek/King_of_Peking_2017_
 
+
+type=video
+name=Duck Butter (2018) ENG 1080p.WEB-DL.x264.AC3-eSc_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQkNvLOudRFzpmLfDY8q2fcSOtE.jpg
+date=2018-07-12
+URL=https://openload.co/f/D1diJmX_D5c/Duck.Butter.2018.1080p.WEB-DL.x264.AC3-eSc_SeeHD.mp4
 type=video
 name=Duck Butter (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQkNvLOudRFzpmLfDY8q2fcSOtE.jpg
@@ -5869,6 +5914,11 @@ date=2018-06-14
 URL=https://streamango.com/f/nsocsskebcrbsesr/Phantom_Thread_2017_
 
 
+type=video
+name=Revenge (2018) ENG 720p_WEB-DL_X264_AC3-CPG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMv5ILxjzA9S930eLImSjfecETH.jpg
+date=2018-07-12
+URL=https://openload.co/f/ItjiuFqD910/Revenge_2018_720p_WEB-DL_X264_AC3-CPG_SeeHD.mkv.mp4
 type=video
 name=Revenge (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMv5ILxjzA9S930eLImSjfecETH.jpg
@@ -7472,8 +7522,9 @@ URL=https://www.blazefile.co/embed-dvtva64u8b09.html
 type=video
 name=A Quiet Place (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
-date=2018-05-25
-URL=https://streamango.com/f/cdmbdodclftcmmrt/A_Quiet_Place_2018_
+date=2018-07-12
+URL=https://streamango.com/f/latcmblrpcacpomp/A_Quiet_Place_2018_V_2_
+#https://streamango.com/f/cdmbdodclftcmmrt/A_Quiet_Place_2018_
 
 
 
@@ -8300,6 +8351,12 @@ URL=
 
 
 
+
+type=video
+name=Resolution (2012) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aSPNKARW911kNiX9fmmwMG3bWH.jpg
+date=2018-07-12
+URL=https://openload.co/f/fK0q3tqMN9o/Resolution.2012.HD_1080p.mp4
 
 type=video
 name=Hotel Transylvania 2 (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
