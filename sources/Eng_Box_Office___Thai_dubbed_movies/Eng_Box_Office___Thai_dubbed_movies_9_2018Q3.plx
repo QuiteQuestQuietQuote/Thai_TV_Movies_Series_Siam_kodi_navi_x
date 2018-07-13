@@ -64,17 +64,43 @@ type=video
 name=
 thumb=
 date=2018-07-05
-URL=
+URL=https://www.rapidvideo.com/e/FT7CVMLF2R
 
 type=video
 name=
 thumb=
-date=2018-07-12
-URL=
+date=2018-07-13
+URL=https://www.rapidvideo.com/?v=FT8UY2HM8Z
 
 
 
+type=video
+name=
+thumb=
+date=2018-07-13
+URL=https://ok.ru/videoembed/376042818112
 
+
+
+type=video
+name=Skyscraper (2018) ENG 720p.HDCAM.NO.WATERMARK
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
+date=2018-07-13
+URL=https://openload.co/f/mGZxI3viZJs/Skyscraper.2018.720p.HDCAM.NO.WATERMARK.mp4
+#https://openload.co/f/iPsXl_oVKik/Skyscraper_2018_720p_English_HDCAM_Rip_x264_MP3_850MB.E.mp4
+
+type=video
+name=Siberia (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0ybv0jt4OrTFOHdzrSIssaE2xJ.jpg
+date=2018-07-13
+URL=https://openload.co/f/BJWukZFMdlw/Siberia.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/NlJm2Ahdoic/Siberia.2018.720p.WEB-DL.DD5.1.X264.AC3-CMRG_SeeHD.mkv.mp4
+
+type=video
+name=How It Ends (2018) ENG 1080p.NF.WEB-DL.DD5.1.H.264-SiGMA_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5Xf4RrQVrxSwV2MG3I5sSjBieX.jpg
+date=2018-07-13
+URL=https://openload.co/f/Lt5SYC2lJGo/How_It_Ends.2018.1080p.NF.WEB-DL.DD5.1.H.264-SiGMA_SeeHD.mkv.mp4
 
 type=video
 name=SuperFly (2018) ENG HDCAM.x264-DiRG_SeeHD
@@ -159,10 +185,13 @@ URL=https://openload.co/f/rf2jkbDsENc/King_Lear_2018.HDRip.X264.AC3-EVO.mkv.mp4
 
 
 type=video
-name=Overboard (2018) ENG 720p_HDCAM_X264_HQMic-CPG_SeeHD
+name=Overboard (2018) ENG 1080p_WEB-DL_DD5_1_H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaHknuun1VPPugkTsSfB8PejKVg.jpg
-date=2018-05-14
-URL=https://openload.co/f/BWLyxtdeuzQ/Overboard_2018_720p_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
+date=2018-07-13
+URL=https://openload.co/f/V63D0U550Mk/Overboard_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+#https://openload.co/f/3E8y8rfjvi8/overboard720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/8daIAOeMZQw/Overboard.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/BWLyxtdeuzQ/Overboard_2018_720p_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
 
 type=video
 name=Dark Crimes (2016) ENG 1080p.AMZN.WEB-DL.DDP5.1.H.264-NTGb
@@ -1353,14 +1382,23 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-12
+date=2018-07-13
 URL=
 
 
 
 
 
-
+type=video
+name=211 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/81RColr4rau6DZ7z9eMsksokcfk.jpg
+date=2018-07-13
+URL=https://uptobox.com/d4eklm91qbcy
+#https://openload.co/embed/u2nVxpZxDas/21180.Ganol.ru.mkv.mp4
+#https://www.blazefile.co/embed-5gp6s2dla40u.html   720
+#https://uptobox.com/lrkuwglf5wss   720
+#https://openload.co/embed/OE23zSQC8ko/211BD72.Ganool.im.mkv.mp4
+#https://openload.co/f/ardRHxBIMkk/211.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
 
 type=video
 name=Still Life (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1374,12 +1412,16 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcIYkSewH8h2wq9r614G71FHyB
 date=2018-07-12
 URL=https://openload.co/f/D7LbKwZkD4M/Pyewacket.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/SXjoaE8V_Qk/pyewacket.2017.1080p.bluray.x264-veto.mkv.mp4
+#https://uptobox.com/5ojy2aa1dtnk   720
+#https://openload.co/embed/BXo4Fal7kgo/PYMACKERBD72.Ganol.ru.mkv.mp4
 
 type=video
 name=Adventures in Public School (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7prbaNnkmPlW3u87Yf8QYeJeNf.jpg
 date=2018-07-12
 URL=https://openload.co/f/-hPchWUV4BQ/Adventures.in.Public.School.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://uptobox.com/7r4gmqgqame6   720
+#https://openload.co/embed/I3C5d5kNlI8/ADVENTUREINPUBLICSCHOLBD72.Ganol.ru.mkv.mp4
 
 type=video
 name=Submission (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5355,14 +5397,7 @@ URL=https://www.blazefile.co/embed-ui66l9vcawts.html
 #https://uptobox.com/4ir0uich1pkd
 #https://openload.co/embed/jp-RWhr76ek/SHQPADMAVAATBD72.Ganool.im.mkv
 
-type=video
-name=211 (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/81RColr4rau6DZ7z9eMsksokcfk.jpg
-date=2018-06-28
-URL=https://www.blazefile.co/embed-5gp6s2dla40u.html
-#https://uptobox.com/lrkuwglf5wss
-#https://openload.co/embed/OE23zSQC8ko/211BD72.Ganool.im.mkv.mp4
-#https://openload.co/f/ardRHxBIMkk/211.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
+
 
 
 
@@ -5419,7 +5454,12 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIkDmCWDIWyHAQgKCZpuD5d8kK
 date=2018-07-11
 URL=https://openload.co/f/0WK5y9FohP0/A.Ciambra.2017.720p.BluRay.x264-DEPTH.mkv.mp4
 
-
+type=video
+name=Party Bus To Hell (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/coza9nB4gApntuxFdHQGp5b6Wvz.jpg
+date=2018-07-13
+URL=https://uptobox.com/n74e6fvnhry6
+#https://openload.co/embed/9XtXssxRC4U/PARTYBUSHELLBD72.Ganol.ru.mkv.mp4
 
 
 
@@ -5541,10 +5581,11 @@ URL=https://streamango.com/f/kpktebfparrekqcd/Sicario_Day_of_the_Soldado_2018_2_
 
 
 type=video
-name=Incredibles 2 (2018) ENG NEW.HDCAM.XViD.AC3-ETRG
+name=Incredibles 2 (2018) ENG HDTC.XViD.AC3-ETRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL9Uz2vq93vi20oxZEBBaSs4w8U.jpg
-date=2018-06-27
-URL=https://openload.co/f/k9SXQsc9kGg/The_Incredibles_2.2018.NEW.HDCAM.XViD.AC3-ETRG.avi.mp4
+date=2018-07-13
+URL=https://openload.co/f/qblTDwlSOds/Incredibles.2.2018.HDTC.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/k9SXQsc9kGg/The_Incredibles_2.2018.NEW.HDCAM.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/_hLpk18cxmo/The_Incredibles_2_2018_FULL_HDCAM_x264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/-TddfwsIN90/Incredibles.2.2018.New.720p.HDCAM.NO.LOGO.X264.AC3.Fugitive.mkv.mp4
 #https://openload.co/f/4SFCu-hB8m0/Incredibles.2.2018.720p.TS.Eng.E.mp4
@@ -5746,12 +5787,23 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-07-12
+date=2018-07-13
 URL=
 
 
 
 
+
+type=video
+name=White Fang (2018) FRE 1080p.HDRip.X264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCz1abf6zZvFWSWK3AOblJgQ334.jpg
+date=2018-07-13
+URL=https://openload.co/f/rfXQ8fnBFnY/White.Fang.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
+type=video
+name=White Fang (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCz1abf6zZvFWSWK3AOblJgQ334.jpg
+date=2018-07-13
+URL=https://streamango.com/f/prqnsdtenracbnle/White_Fang_2018_
 
 
 type=video
@@ -5759,7 +5811,7 @@ name=The Death of Superman (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0uxSHaSFmt6XaBJgjkeLqe7aM.jpg
 date=2018-07-12
 URL=https://openload.co/f/6O1aR-8sYnA/The.Death.of.Superman.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-type=video720p_WEB-DL_X264_AC3-CPG_SeeHD
+type=video
 name=The Death of Superman (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0uxSHaSFmt6XaBJgjkeLqe7aM.jpg
 date=2018-07-12
@@ -7560,6 +7612,9 @@ date=2018-04-03
 URL=https://www.blazefile.co/embed-pjefipst454c.html
 #https://uptobox.com/zub780k63629
 #https://openload.co/f/oz61UauiMro/A.Better.Tomorrow.2018.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
+#https://openload.co/f/9o7K2RG6HLs/a.better.tomorrow.2018.720p.bluray.x264-regret.mkv.mp4
+#https://uptobox.com/k003zv3yqd4h   1080
+#https://openload.co/embed/mfw0HH1lD5I/ABETTERTOMORROW80.Ganol.ru.mkv
 type=video
 name=A Better Tomorrow (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiGt7crOueCfgqGlay4ZryRBRQF.jpg
@@ -8344,13 +8399,20 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-02
+date=2018-07-13
 URL=
 
 
 
 
 
+
+
+type=video
+name=San Andreas (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qey0tdcOp9kCDdEZuJ87yE3crSe.jpg
+date=2018-07-13
+URL=https://openload.co/f/38GXTyfqBPc/San.Andreas.2015.1080p.BR_SeeHD.mp4
 
 type=video
 name=Resolution (2012) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]

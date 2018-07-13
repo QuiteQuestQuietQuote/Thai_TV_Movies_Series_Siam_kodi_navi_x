@@ -350,6 +350,8 @@ date=2018-02-21
 URL=https://www.blazefile.co/embed-o8vmjvqbcysd.html
 #https://uptobox.com/yb0ul9ypk012
 #https://openload.co/f/40o3tS9jDvA/Legend_of_the_Naga_Pearls_%282017%29Blu-ray_1080p_AVC_DTS-HD_MA_5.1-_Shadowman_Ganool.mkv.mp4
+#https://openload.co/f/jc9nDv2SQXI/legend.of.the.naga.pearls.2017.limited.1080p.bluray.x264-bipolar.mkv.mp4
+#https://openload.co/f/vYzIR-VC2Qk/legend.of.the.naga.pearls.2017.limited.1080p.bluray.x264-bipolar.mkv   7.7GB
 type=video
 name=Legend of the Naga Pearls (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xX7Plx8yT2hL7jjvQGUYiBfUAww.jpg
