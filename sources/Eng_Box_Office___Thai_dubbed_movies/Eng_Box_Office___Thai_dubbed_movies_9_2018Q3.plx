@@ -64,13 +64,13 @@ type=video
 name=
 thumb=
 date=2018-07-05
-URL=https://www.rapidvideo.com/e/FT7CVMLF2R
+URL=
 
 type=video
 name=
 thumb=
 date=2018-07-13
-URL=https://www.rapidvideo.com/?v=FT8UY2HM8Z
+URL=
 
 
 
@@ -78,15 +78,17 @@ type=video
 name=
 thumb=
 date=2018-07-13
-URL=https://ok.ru/videoembed/376042818112
+URL=
 
 
 
 type=video
-name=Skyscraper (2018) ENG 720p.HDCAM.NO.WATERMARK
+name=Skyscraper (2018) ENG NEW_720p_FULL_HDCAM_X264_HQMic-24HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
-date=2018-07-13
-URL=https://openload.co/f/mGZxI3viZJs/Skyscraper.2018.720p.HDCAM.NO.WATERMARK.mp4
+date=2018-07-14
+URL=https://openload.co/f/rEktzWFk-m4/Skyscraper_2018_NEW_720p_FULL_HDCAM_X264_HQMic-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/gtJAVaxk6sw/Skyscraper.2018.New.720p.FULL.HDCAM.mkv.mp4
+#https://openload.co/f/mGZxI3viZJs/Skyscraper.2018.720p.HDCAM.NO.WATERMARK.mp4
 #https://openload.co/f/iPsXl_oVKik/Skyscraper_2018_720p_English_HDCAM_Rip_x264_MP3_850MB.E.mp4
 
 type=video
@@ -103,10 +105,11 @@ date=2018-07-13
 URL=https://openload.co/f/Lt5SYC2lJGo/How_It_Ends.2018.1080p.NF.WEB-DL.DD5.1.H.264-SiGMA_SeeHD.mkv.mp4
 
 type=video
-name=SuperFly (2018) ENG HDCAM.x264-DiRG_SeeHD
+name=SuperFly (2018) ENG NEW_V.2_HDCAM_X264-24HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGk9H5PVpWzbsYkmnBeKevQkwwf.jpg
-date=2018-07-12
-URL=https://openload.co/f/G1UZshzRASM/Superfly.2018.HDCAM.x264-DiRG_SeeHD.mp4
+date=2018-07-14
+URL=https://openload.co/f/Tj8DkrU7SJk/Superfly_2018_NEW_V.2_HDCAM_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/G1UZshzRASM/Superfly.2018.HDCAM.x264-DiRG_SeeHD.mp4
 
 type=video
 name=Book Club (2018) ENG 720p.HDCAM.ENG.X264-24HD_SeeHD
@@ -8399,7 +8402,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-13
+date=2018-07-14
 URL=
 
 
@@ -8407,6 +8410,23 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=Terminator 2: Judgment Day (1991) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2y4dmgWYRMYXdD1UyJVcn2HSd1D.jpg
+date=2018-07-14
+URL=https://openload.co/f/Q7t7QMguESw/Terminator_2_Judgment_Day.1991.HD_720p.mp4
+
+type=video
+name=Superman (1978) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2DOECThGG7h7m5AjLi2Nuh23u1.jpg
+date=2018-07-14
+URL=https://openload.co/f/fAVn0brYhmg/Superman.The.Movie.1978.1080p.mp4
+#https://openload.co/f/v04VgjEwl3s/Superman.1978.HD_720p.mp4
 
 type=video
 name=San Andreas (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
