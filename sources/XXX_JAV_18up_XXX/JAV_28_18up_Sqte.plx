@@ -40,18 +40,38 @@ type=video
 name=
 thumb=
 date=2018-06-15
-URL=
+URL=http://vodstream.xyz/fembed.php?id=lMp8WlM
 
 
+type=video
+name=
+thumb=
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4376/hls_720_.m3u8
 
+type=video
+name=
+thumb=
+date=2018-06-15
+URL=http://vodstream.xyz/fembed.php?id=lMp8WlM
 
+type=video
+name=
+thumb=
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4376/hls_720_.m3u8?id=lMp8WlM
 
+type=video
+name=
+thumb=
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4376/hls_720_.m3u8?ref=http://vodstream.xyz/fembed.php?id=lMp8WlM
 
-
-
-
-
-
+type=video
+name=
+thumb=
+date=2018-06-15
+URL=http://vodstream.xyz/051b0fed-c640-4ba8-be16-1e7b36da53d8
 
 
 
@@ -346,48 +366,48 @@ URL=
 
 
 type=video
-name=Kray-002 Kiray Collection 02 That Sex Is Beautifully Me
-thumb=http://javdub.com/wp-content/uploads/2016/12/8844.jpg
+name=Hnd-439
+thumb=http://javdub.com/wp-content/uploads/2018/04/31547.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2009978399214168_2859833063855095808_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=713f900b79f92c37237471ef644ab854&oe=5B47DE4B&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_974946602664344_2073837899610062848_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=296ee0a39cb872b2434d1c16607e6c09&oe=5B4BB9DC&itag=22
 
 type=video
-name=Kray-017 I Am A Sweet Boy On The Bed Erotic Appearance That Is Disturbed By Cute R
-thumb=http://javdub.com/wp-content/uploads/2017/12/28355.jpg
+name=Migd-596
+thumb=http://javdub.com/wp-content/uploads/2017/03/11838.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_198055904314859_4883891192992890880_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&oh=22cdc4cf54eecaa347324108f83b94b1&oe=5B47EBCA&itag=18
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1611804878923575_5268235506935660544_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHfhSw3Df_xD5csTTBI0o11LZDG2M3jOYE0yD7zQmLigV8eTVX0W4LncTBYIbj-yc9oZNsZk-aDBvauPwHWLWu77QYWXgm5EiyLJ5p69PY6Gw&oh=7f796353edb3c10f9537ebc612e35914&oe=5B4BDB5D&itag=22
 
 type=video
-name=Ppt-039 Prestige Absolute Sailor Memorial Best 02 Of Legend
-thumb=http://javdub.com/wp-content/uploads/2016/11/8629.jpg
+name=Abp-096
+thumb=http://javdub.com/wp-content/uploads/2017/01/11983.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1006155052868476_4966762986401169408_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=5b358d0425a371bc14fee8b0ed9601c2&oe=5B47F972&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2005264403057727_2308963977264103424_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeEbJIS2714QET59oXDg0IFMREmuVsUor7rhtjyFMCG7bhoRqDd5C0hzDZAKyUZMEIfImXsqR5CuUMynVePdsBPPljYFmHF_GG8xN72rO8LQVA&oh=923b1090bb12c8aca9aabc1d14653d8f&oe=5B4BD558&itag=22
+
+type=video
+name=Caribpr 011317-005 Emiri Okaz
+thumb=http://javdub.com/wp-content/uploads/2017/01/11067.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1769423596473334_1227440252344336384_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHGFIjnI1srbX0nU78TffFEfqXmNnhf82lsEsbcOwZridGpBZeXvWGVbSdX98r_n0q2-na1yKr4SgcZTFeYDkhUfHxMF2_S_OKZ4Xs_phq4Pg&oh=ccb77d1b61b326cbde591ee35dc8e264&oe=5B4BD4E4&itag=22
+
+type=video
+name=10Mu 122416-01 Tenmusu Sa
+thumb=http://javdub.com/wp-content/uploads/2016/12/9417.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_639558649711386_7846564164964188160_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeEiMQsx1KXE_MXYFkkHytEbrs-s7m2loU2N609fHLJ_Ql0YHIruOfO5bdWcFzJ7uGKGs7BamJKo_7w032OiQ7GouBn2EOzUsvmyJJ-WOwtoRA&oh=88a4c8f04a7de1497b5c4d1d6e9dcf3e&oe=5B4BD50B&itag=22
+
+
+
+type=video
+name=Caribpr 122316-003 Beaucoup Beach Fuck Special 3Hrs-14 Girls
+thumb=ttp://javdub.com/wp-content/uploads/2016/12/9425.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_206634790134373_2690650054343000064_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeH7SfZ7Bgev4ARP8tqz8NYd0IyaERsVZsJzK-oF1l2IHSTzfansM9lXk_UghysoY3z3u74wunftmGCPpMUre_kpPv8WWDaX5UIbATKy5RohLQ&oh=d2ec564c403dae5e574242e818d8611c&oe=5B4BD990&itag=22
 
 type=video
 name=Heyzo-1337 Mihono
 thumb=http://javdub.com/wp-content/uploads/2016/12/8795.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_199519167325937_6653809956833198080_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=7d861579c830630f1549c14d896b5edb&oe=5B47F946&itag=22
-
-type=video
-name=Caribpr 122316-003 Beaucoup Beach Fuck Special 3Hrs-14 Girls
-thumb=http://javdub.com/wp-content/uploads/2016/12/9425.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_206634790134373_2690650054343000064_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=fa1a265db3a2f0ad2292662c1e7e7df8&oe=5B47F320&itag=22
-
-
-
-type=video
-name=Tre-042 It Unearthed The Av Actress A New Generation Gachi Athl
-thumb=http://javdub.com/wp-content/uploads/2017/01/8817.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_200950043969109_3322495041288536064_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=e3cfbf548814a2f9863a86238a67cfcf&oe=5B47DEC4&itag=22
-
-type=video
-name=
-thumb=
-date=2018-06-15
-URL=
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_199519167325937_6653809956833198080_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeEITfYSQaJKw63Oa-PRCyrgRdBEyd1Oki-_H0rEawxpSnRglhX22HQbVY9zk5izXt5JbeKA8h556hX2_GQ3iZl4WP_lqVP7sIawBYVJAPwH8A&oh=2e8964bc8352b2b8b32cc0cec1eabe37&oe=5B4BDFB6&itag=22
 
 type=video
 name=
