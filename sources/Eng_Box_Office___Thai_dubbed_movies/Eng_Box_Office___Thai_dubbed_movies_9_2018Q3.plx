@@ -1849,6 +1849,7 @@ date=2018-06-18
 URL=https://www.blazefile.co/embed-viaragx00usc.html
 #https://uptobox.com/a20q19wewthc
 #https://openload.co/embed/lZG2WbgHnZk/GHPGHOSTLAND80.Ganool.im.mkv
+#https://openload.co/f/Mg3HwosUrJU/Ghostland.2018.INTERNAL.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/qr9AktDVjAA/Ghostland.2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
 #https://www.blazefile.co/embed-1cftumt6xcut.html   720
 #https://uptobox.com/amf1be2dou4y   720
@@ -7432,30 +7433,7 @@ URL=https://streamango.com/f/ofteedpkmecfkran/Truth_or_Dare_2018_
 #https://streamango.com/f/ofspqsqdrfcfbbmk/Truth_or_Dare_2018_
 
 
-type=video
-name=Rampage (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
-date=2018-07-01
-URL=https://openload.co/f/fqSPSAUjsso/Rampage.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/otDkJV_U0-8/Rampage.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/v0jxguJ8Ffc/Rampage.2018.3D.1080p.BluRay.x264-SPRiNTER.mkv.mp4
-#https://openload.co/f/4150OhiKueU/Rampage.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/GO9hC3gl0eg/Rampage.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/2h_aRfMez0M/Rampage.2018.web.h264-webtiful.mkv.mp4
-#https://openload.co/f/gehks6MqcEk/Rampage_2018_NEW_HD-TS_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/8o7817XOc8Q/Rampage_2018_NEW_SOURCE_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
-#https://openload.co/f/O23sDjSCQ6s/Rampage_2018_720p_NEW_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/Wrft5d0xj6A/Rampage.2018.HDCAM.x264.AC3-TEAM69.mkv.mp4
-#https://openload.co/f/D2aEsbX76bg/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv.mp4
-#https://openload.co/f/J2dDGP5-huM/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv   MKV3.0GB
-#https://uptobox.com/k55p8gcgh65q   720
-#https://openload.co/embed/LFxW5jWFdvw/SHQRMPAGEBD72.Ganol.ru.mkv.mp4
-type=video
-name=Rampage (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
-date=2018-06-19
-URL=https://streamango.com/f/plcqkotmffbfsntp/Rampage_2018_
-#https://streamango.com/f/acdstsasqbdafaef/Rampage_2018_
+
 
 
 type=video
@@ -7899,18 +7877,7 @@ URL=https://streamango.com/f/mfkdtmfnpelkfara/The_Son_of_Bigfoot_2017_
 
 
 
-type=video
-name=Wind River (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
-date=2017-11-04
-URL=https://www.blazefile.co/embed-68cdy7nrowcj.html
-#https://openload.co/f/PvkzQWxykww/Wind.River.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/KrtMkCMab98/Wind.River.2017.HDRip.XviD.AC3-iFT.avi.mp4
-type=video
-name=Wind River (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
-date=2017-12-02
-URL=https://streamango.com/f/pqlbelmdakeoecca/Wind_River_2017_
+
 
 
 
@@ -8073,6 +8040,52 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+
+
+
+
+type=video
+name=Rampage (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
+date=2018-07-01
+URL=https://openload.co/f/fqSPSAUjsso/Rampage.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/otDkJV_U0-8/Rampage.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/v0jxguJ8Ffc/Rampage.2018.3D.1080p.BluRay.x264-SPRiNTER.mkv.mp4
+#https://openload.co/f/4150OhiKueU/Rampage.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/GO9hC3gl0eg/Rampage.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/2h_aRfMez0M/Rampage.2018.web.h264-webtiful.mkv.mp4
+#https://openload.co/f/gehks6MqcEk/Rampage_2018_NEW_HD-TS_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/8o7817XOc8Q/Rampage_2018_NEW_SOURCE_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
+#https://openload.co/f/O23sDjSCQ6s/Rampage_2018_720p_NEW_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/Wrft5d0xj6A/Rampage.2018.HDCAM.x264.AC3-TEAM69.mkv.mp4
+#https://openload.co/f/D2aEsbX76bg/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv.mp4
+#https://openload.co/f/J2dDGP5-huM/Rampage_2018.720p.HDCAM.X264-WeWantToSell.mkv   MKV3.0GB
+#https://uptobox.com/k55p8gcgh65q   720
+#https://openload.co/embed/LFxW5jWFdvw/SHQRMPAGEBD72.Ganol.ru.mkv.mp4
+type=video
+name=Rampage (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
+date=2018-07-15
+URL=https://openload.co/f/SMuMjmL__C4/Rampage_%282018%29%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%9E%E0%B8%88_%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%8A%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C.mp4
+#https://streamango.com/f/plcqkotmffbfsntp/Rampage_2018_
+#https://streamango.com/f/acdstsasqbdafaef/Rampage_2018_
+
+
+type=video
+name=Wind River (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
+date=2017-11-04
+URL=https://www.blazefile.co/embed-68cdy7nrowcj.html
+#https://openload.co/f/PvkzQWxykww/Wind.River.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/KrtMkCMab98/Wind.River.2017.HDRip.XviD.AC3-iFT.avi.mp4
+type=video
+name=Wind River (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzsaNUcRH0cV2gg5rjQH83ZEI8M.jpg
+date=2018-07-15
+URL=https://openload.co/f/k183dGXnP9Q/Wind_River_%282017%29%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94_%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99.mp4
+#https://streamango.com/f/pqlbelmdakeoecca/Wind_River_2017_
+
+
 type=video
 name=Ready Player One (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
@@ -8119,8 +8132,9 @@ URL=https://www.blazefile.co/embed-b1ghmxgmqe2i.html
 type=video
 name=24 Hours to Live (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6kwunWUi52EjNhep33sJ9uEnqX.jpg
-date=2018-07-05
-URL=https://openload.co/f/dyfBbYikma4/24_Hours_to_Live_%282017%2924_%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A1%E0%B8%87_%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+date=2018-07-15
+URL=https://openload.co/f/Rb7SicxKN6U/24_Hours_to_Live_%282017%2924_%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A1%E0%B8%87_%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+#https://openload.co/f/dyfBbYikma4/24_Hours_to_Live_%282017%2924_%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A1%E0%B8%87_%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
 #https://streamango.com/f/plcmptlmssflemdb/24_Hours_to_Live_2017_24_
 
 
@@ -8402,7 +8416,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-14
+date=2018-07-15
 URL=
 
 
@@ -8413,13 +8427,24 @@ URL=
 
 
 
+type=video
+name=Ready Player One (2018) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg
+date=2018-07-15
+URL=https://openload.co/f/Nj4gjbrciIw/Ready_Player_One_%282018%29_3D_HSBS_BluRay_x264-%5BYTS_AM%5D_mp4
 
+type=video
+name=The Terminator (1984) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8ffBuxQlYOHrvPniLgCbmKK4Lv.jpg
+date=2018-07-15
+URL=https://openload.co/f/9GAwCa5PeiU/The.Terminator.1984.1080p.BRrip.x264.GAZ.YIFY.mp4
 
 type=video
 name=Terminator 2: Judgment Day (1991) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2y4dmgWYRMYXdD1UyJVcn2HSd1D.jpg
 date=2018-07-14
 URL=https://openload.co/f/Q7t7QMguESw/Terminator_2_Judgment_Day.1991.HD_720p.mp4
+#https://openload.co/f/Hg-DTJWiS-Q/Terminator.2.Judgement.Day.1991.DC.720p.BluRayx264.YIFY.mp4
 
 type=video
 name=Superman (1978) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]

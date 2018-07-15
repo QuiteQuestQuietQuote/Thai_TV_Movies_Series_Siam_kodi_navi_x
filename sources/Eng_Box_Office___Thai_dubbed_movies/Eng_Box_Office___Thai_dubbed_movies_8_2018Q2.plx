@@ -587,8 +587,9 @@ URL=https://openload.co/f/XV-iGb1ef04/Renegades.2017.1080p.WEB-DL.DD5.1.H264-FGT
 type=video
 name=Renegades (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gxVAn1YLYqXAwidGanTD4RxIJT.jpg
-date=2018-04-29
-URL=https://openload.co/f/pC3Up-94_tg/Renegades_%282017%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3.mp4
+date=2018-07-15
+URL=https://openload.co/f/eZCgQyn5L3U/Renegades_%282017%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3.mp4
+#https://openload.co/f/pC3Up-94_tg/Renegades_%282017%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3.mp4
 #https://streamango.com/f/pttkrrcdeelqtlts/Renegades_2017_
 #https://streamango.com/f/nksbqcoqffaeaqco/Renegades_2017_
 #https://streamango.com/f/bkbkoqdtleqkepkn/Renegades_2017_THCAM_mp4
