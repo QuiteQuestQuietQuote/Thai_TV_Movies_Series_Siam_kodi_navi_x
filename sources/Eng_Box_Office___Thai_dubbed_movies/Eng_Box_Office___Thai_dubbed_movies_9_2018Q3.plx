@@ -77,10 +77,19 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-13
+date=2018-07-16
 URL=
 
 
+
+
+
+type=video
+name=Hotel Transylvania 3: Summer Vacation (2018) ENG 720p_HDCAM_X264-24HD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg
+date=2018-07-16
+URL=https://openload.co/f/ZqftlMxzgW8/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/hSaXRiGF8S4/Hotel_Transylvania_3_Summer_Vacation_2018_New_720p_HDCAM-X264-AC3.mkv.mp4
 
 type=video
 name=Skyscraper (2018) ENG NEW_720p_FULL_HDCAM_X264_HQMic-24HD_SeeHD
@@ -5465,9 +5474,11 @@ date=2018-07-13
 URL=https://uptobox.com/n74e6fvnhry6
 #https://openload.co/embed/9XtXssxRC4U/PARTYBUSHELLBD72.Ganol.ru.mkv.mp4
 
-
-
-
+type=video
+name=
+thumb=
+date=2018-07-16
+URL=https://openload.co/f/QqlEcJpnA3o/avengers.grimm.2.time.wars.2018.720p.bluray.x264-getit.mkv.mp4
 
 
 
@@ -5479,7 +5490,7 @@ URL=https://uptobox.com/n74e6fvnhry6
 type=video
 name=
 thumb=
-date=2018-07-09
+date=2018-07-16
 URL=http://203.162.235.41:17819
 
 
