@@ -40,38 +40,10 @@ type=video
 name=
 thumb=
 date=2018-06-15
-URL=http://vodstream.xyz/fembed.php?id=lMp8WlM
+URL=
 
 
-type=video
-name=
-thumb=
-date=2018-06-15
-URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4376/hls_720_.m3u8
 
-type=video
-name=
-thumb=
-date=2018-06-15
-URL=http://vodstream.xyz/fembed.php?id=lMp8WlM
-
-type=video
-name=
-thumb=
-date=2018-06-15
-URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4376/hls_720_.m3u8?id=lMp8WlM
-
-type=video
-name=
-thumb=
-date=2018-06-15
-URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4376/hls_720_.m3u8?ref=http://vodstream.xyz/fembed.php?id=lMp8WlM
-
-type=video
-name=
-thumb=
-date=2018-06-15
-URL=http://vodstream.xyz/051b0fed-c640-4ba8-be16-1e7b36da53d8
 
 
 
@@ -375,7 +347,7 @@ type=video
 name=Migd-596
 thumb=http://javdub.com/wp-content/uploads/2017/03/11838.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1611804878923575_5268235506935660544_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHfhSw3Df_xD5csTTBI0o11LZDG2M3jOYE0yD7zQmLigV8eTVX0W4LncTBYIbj-yc9oZNsZk-aDBvauPwHWLWu77QYWXgm5EiyLJ5p69PY6Gw&oh=7f796353edb3c10f9537ebc612e35914&oe=5B4BDB5D&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1611804878923575_5268235506935660544_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHfhSw3Df_xD5csTTBI0o11LZDG2M3jOYE0yD7zQmLigV8eTVX0W4LncTBYIbj-yc9oZNsZk-aDBvauPwHWLWu77QYWXgm5EiyLJ5p69PY6Gw&oh=454f443696efbfeb95220531693b553a&oe=5B4E8C6D&itag=22
 
 type=video
 name=Abp-096
@@ -387,7 +359,7 @@ type=video
 name=Caribpr 011317-005 Emiri Okaz
 thumb=http://javdub.com/wp-content/uploads/2017/01/11067.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1769423596473334_1227440252344336384_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHGFIjnI1srbX0nU78TffFEfqXmNnhf82lsEsbcOwZridGpBZeXvWGVbSdX98r_n0q2-na1yKr4SgcZTFeYDkhUfHxMF2_S_OKZ4Xs_phq4Pg&oh=ccb77d1b61b326cbde591ee35dc8e264&oe=5B4BD4E4&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_639558649711386_7846564164964188160_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeEiMQsx1KXE_MXYFkkHytEbrs-s7m2loU2N609fHLJ_Ql0YHIruOfO5bdWcFzJ7uGKGs7BamJKo_7w032OiQ7GouBn2EOzUsvmyJJ-WOwtoRA&oh=eb95ef810950c72c27435b1ce4b1e8d5&oe=5B4E780B&itag=22
 
 type=video
 name=10Mu 122416-01 Tenmusu Sa
@@ -401,19 +373,19 @@ type=video
 name=Caribpr 122316-003 Beaucoup Beach Fuck Special 3Hrs-14 Girls
 thumb=ttp://javdub.com/wp-content/uploads/2016/12/9425.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_206634790134373_2690650054343000064_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeH7SfZ7Bgev4ARP8tqz8NYd0IyaERsVZsJzK-oF1l2IHSTzfansM9lXk_UghysoY3z3u74wunftmGCPpMUre_kpPv8WWDaX5UIbATKy5RohLQ&oh=d2ec564c403dae5e574242e818d8611c&oe=5B4BD990&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_206634790134373_2690650054343000064_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeH7SfZ7Bgev4ARP8tqz8NYd0IyaERsVZsJzK-oF1l2IHSTzfansM9lXk_UghysoY3z3u74wunftmGCPpMUre_kpPv8WWDaX5UIbATKy5RohLQ&oh=40e699a91ab9fda8ae3d349eb42512c0&oe=5B4E8AA0&itag=22
 
 type=video
 name=Heyzo-1337 Mihono
 thumb=http://javdub.com/wp-content/uploads/2016/12/8795.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_199519167325937_6653809956833198080_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeEITfYSQaJKw63Oa-PRCyrgRdBEyd1Oki-_H0rEawxpSnRglhX22HQbVY9zk5izXt5JbeKA8h556hX2_GQ3iZl4WP_lqVP7sIawBYVJAPwH8A&oh=2e8964bc8352b2b8b32cc0cec1eabe37&oe=5B4BDFB6&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_199519167325937_6653809956833198080_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeEITfYSQaJKw63Oa-PRCyrgRdBEyd1Oki-_H0rEawxpSnRglhX22HQbVY9zk5izXt5JbeKA8h556hX2_GQ3iZl4WP_lqVP7sIawBYVJAPwH8A&oh=62e9edd7a3df3a0617f3d5ad99a336d0&oe=5B4E90C6&itag=22
 
 type=video
 name=
 thumb=
 date=2018-06-15
-URL=
+URL=http://147.135.254.63:8063/ws/94a182d65ae302472d4873e17da14289.mp4?st=H2ysjkFSCRrvuMqPBvnKrA&e=1531873099
 
 
 

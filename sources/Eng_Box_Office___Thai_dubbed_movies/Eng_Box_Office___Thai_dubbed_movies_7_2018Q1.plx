@@ -126,8 +126,9 @@ URL=https://openload.co/f/meEfwUW74hM/Monkey_King%3A_Hero_Is_Back_%282015%29%E0%
 type=video
 name=Ferdinand (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg
-date=2018-02-27
-URL=https://www.blazefile.co/embed-xv1rckavwoqj.html
+date=2018-07-17
+URL=https://openload.co/f/eaxrfUp-kFA/Ferdinand.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://www.blazefile.co/embed-xv1rckavwoqj.html
 #https://uptobox.com/yy11nw6js42m
 #https://openload.co/f/0LW2cJ-Bj-0/ghpFD80.Ettv.st.mkv
 #https://openload.co/f/RyK3GJDez3Q/Ferdinand_%282017%291080p_BluRay_x264-DRONES_ganool.mkv.mp4

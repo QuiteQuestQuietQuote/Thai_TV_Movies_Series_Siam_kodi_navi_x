@@ -77,8 +77,13 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-16
+date=2018-07-17
 URL=
+
+
+
+
+
 
 
 
@@ -108,6 +113,12 @@ URL=https://openload.co/f/BJWukZFMdlw/Siberia.2018.1080p.WEB-DL.H264.AC3-EVO.mkv
 #https://openload.co/f/NlJm2Ahdoic/Siberia.2018.720p.WEB-DL.DD5.1.X264.AC3-CMRG_SeeHD.mkv.mp4
 
 type=video
+name=Billionaire Boys Club (2018) ENG 720pHD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwyXIzlHGkdMlpWSierm0MApmsN.jpg
+date=2018-07-17
+URL=https://openload.co/f/zOLm60jIaKk/Billionaire_Boys_Club.2018.720pHD_SeeHD.mkv.mp4
+
+type=video
 name=How It Ends (2018) ENG 1080p.NF.WEB-DL.DD5.1.H.264-SiGMA_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5Xf4RrQVrxSwV2MG3I5sSjBieX.jpg
 date=2018-07-13
@@ -119,6 +130,13 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGk9H5PVpWzbsYkmnBeKevQkww
 date=2018-07-14
 URL=https://openload.co/f/Tj8DkrU7SJk/Superfly_2018_NEW_V.2_HDCAM_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/G1UZshzRASM/Superfly.2018.HDCAM.x264-DiRG_SeeHD.mp4
+
+type=video
+name=Tully (2018) ENG 1080p_WEB-DL_DD5_1_H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDI4YXBXolMYi15Qx2kClvdSERM.jpg
+date=2018-07-17
+URL=https://openload.co/f/iCdsSIV5rVE/Tully_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+#https://openload.co/f/y05fL4j4h3U/Tully.2018.720pHD_SeeHD.mkv.mp4
 
 type=video
 name=Book Club (2018) ENG 720p.HDCAM.ENG.X264-24HD_SeeHD
@@ -5475,12 +5493,16 @@ URL=https://uptobox.com/n74e6fvnhry6
 #https://openload.co/embed/9XtXssxRC4U/PARTYBUSHELLBD72.Ganol.ru.mkv.mp4
 
 type=video
-name=
-thumb=
+name=Avengers Grimm: Time Wars (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfAcu74DRQXeM9XqFcE5MrSRzYP.jpg
 date=2018-07-16
 URL=https://openload.co/f/QqlEcJpnA3o/avengers.grimm.2.time.wars.2018.720p.bluray.x264-getit.mkv.mp4
 
-
+type=video
+name=As the Gods Will (2014) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pz7t6G4f6TNl7F7aspncfhS7sm1.jpg
+date=2018-07-17
+URL=https://openload.co/f/0t6OxBHRJUA/As.The.Gods.Will.2014.720p.BluRay.x264-RedBlade.mkv.mp4
 
 
 
@@ -5490,7 +5512,7 @@ URL=https://openload.co/f/QqlEcJpnA3o/avengers.grimm.2.time.wars.2018.720p.blura
 type=video
 name=
 thumb=
-date=2018-07-16
+date=2018-07-17
 URL=http://203.162.235.41:17819
 
 
@@ -5640,10 +5662,11 @@ URL=https://streamango.com/f/krmfsqkocolersbk/Taxi_5_2018_
 
 
 type=video
-name=Jurassic World: Fallen Kingdom (2018) ENG HDTS.720p.XviD
+name=Jurassic World: Fallen Kingdom (2018) ENG NEW_720p_HD-TS_X264_AC3_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
-date=2018-07-03
-URL=https://openload.co/f/32ksG80Q0pM/Jurassic_World_Fallen_Kingdom.2018.HDTS.720p.XviD.mp4
+date=2018-07-17
+URL=https://openload.co/f/a8bXJWfytMc/Jurassic_World_Fallen_Kingdom_2018_NEW_720p_HD-TS_X264_AC3_SeeHD.mkv.mp4
+#https://openload.co/f/32ksG80Q0pM/Jurassic_World_Fallen_Kingdom.2018.HDTS.720p.XviD.mp4
 #https://openload.co/f/ee0BYggpv8w/Jurassic_World_Fallen_Kingdom_2018_NEW_TC_SeeHD.mkv.mp4
 #https://openload.co/f/g7ekyl53Btc/Jurassic_World_Fallen_Kingdom.2018.HDTS.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/qDjH228-Kpw/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_V.2_X264-24HD_SeeHD.mkv.mp4
