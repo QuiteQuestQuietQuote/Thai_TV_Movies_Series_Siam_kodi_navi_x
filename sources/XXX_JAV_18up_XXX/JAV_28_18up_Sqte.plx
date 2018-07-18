@@ -338,54 +338,54 @@ URL=
 
 
 type=video
-name=Hnd-439
-thumb=http://javdub.com/wp-content/uploads/2018/04/31547.jpg
+name=Kray-002 Kiray Collection 02 That Sex Is Beautifully Me
+thumb=http://javdon.com/wp-content/uploads/2016/12/8844.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_974946602664344_2073837899610062848_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=296ee0a39cb872b2434d1c16607e6c09&oe=5B4BB9DC&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2009978399214168_2859833063855095808_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=e038c1de5d350041139f350d7494f5d1&oe=5B4FC74B&itag=22
 
 type=video
-name=Migd-596
-thumb=http://javdub.com/wp-content/uploads/2017/03/11838.jpg
+name=1PONDO 122113-719 Model Collection Mao Miyabi
+thumb=http://javdon.com/wp-content/uploads/2016/10/1338.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1611804878923575_5268235506935660544_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHfhSw3Df_xD5csTTBI0o11LZDG2M3jOYE0yD7zQmLigV8eTVX0W4LncTBYIbj-yc9oZNsZk-aDBvauPwHWLWu77QYWXgm5EiyLJ5p69PY6Gw&oh=454f443696efbfeb95220531693b553a&oe=5B4E8C6D&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_729633094091344_4134229678250524672_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=20be0d8554d2cc16e2d938b427a3b234&oe=5B4FBB0E&itag=22
 
 type=video
-name=Abp-096
-thumb=http://javdub.com/wp-content/uploads/2017/01/11983.jpg
+name=Tbd-058 Riko Tachibana Lesbian Hi-vision Collection Blu-ray Disc
+thumb=http://javdon.com/wp-content/uploads/2017/03/17991.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2005264403057727_2308963977264103424_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeEbJIS2714QET59oXDg0IFMREmuVsUor7rhtjyFMCG7bhoRqDd5C0hzDZAKyUZMEIfImXsqR5CuUMynVePdsBPPljYFmHF_GG8xN72rO8LQVA&oh=923b1090bb12c8aca9aabc1d14653d8f&oe=5B4BD558&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_163052264391480_8488826960158392320_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_eui2=AeEsNratFs9Z-M1MsEVLXvNDVGJVq4ZPfOx6uQDlqFztWh__M3VwEbykNNt8Y04IqBYrWH3OhtQ2xNde_-uqYUlRk8Fb7-C-zUMAf9FM7h1idA&oh=c73c093117b30081717107325cb735dc&oe=5B4FBA34&itag=18
 
 type=video
-name=Caribpr 011317-005 Emiri Okaz
-thumb=http://javdub.com/wp-content/uploads/2017/01/11067.jpg
+name=Vrtm-219 Av Actress Naked Collection Third Bullet
+thumb=http://javdon.com/wp-content/uploads/2017/06/24640.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_639558649711386_7846564164964188160_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeEiMQsx1KXE_MXYFkkHytEbrs-s7m2loU2N609fHLJ_Ql0YHIruOfO5bdWcFzJ7uGKGs7BamJKo_7w032OiQ7GouBn2EOzUsvmyJJ-WOwtoRA&oh=eb95ef810950c72c27435b1ce4b1e8d5&oe=5B4E780B&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_215185935773383_9100766160961404928_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHsqfiEIKUXXfyFzU8v3xZE4naNIkRXF_BJ7Xc27ApmYVhQmnr9udi5Imm9MlvodiGTlevP4Lxqdwyp1ceiR7kp2GHXGWCNxIF-hP90Fn7aDg&oh=ebde2725637601dd9e824c6a8171b853&oe=5B4FD153&itag=22
 
 type=video
-name=10Mu 122416-01 Tenmusu Sa
-thumb=http://javdub.com/wp-content/uploads/2016/12/9417.jpg
+name=1PONDO 060414-821 Drama Collection Kirari Suzumori
+thumb=http://javdon.com/wp-content/uploads/2016/10/1036.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_639558649711386_7846564164964188160_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeEiMQsx1KXE_MXYFkkHytEbrs-s7m2loU2N609fHLJ_Ql0YHIruOfO5bdWcFzJ7uGKGs7BamJKo_7w032OiQ7GouBn2EOzUsvmyJJ-WOwtoRA&oh=88a4c8f04a7de1497b5c4d1d6e9dcf3e&oe=5B4BD50B&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_578243622534776_2183279352848842752_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=1bc2aa0cd8f1faf7dfd294a96da99f6a&oe=5B4FAE0B&itag=22
 
 
 
 type=video
-name=Caribpr 122316-003 Beaucoup Beach Fuck Special 3Hrs-14 Girls
-thumb=ttp://javdub.com/wp-content/uploads/2016/12/9425.jpg
+name=1PONDO 070314-837 Drama Collection Mao Miyabi
+thumb=http://javdon.com/wp-content/uploads/2016/10/1021.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_206634790134373_2690650054343000064_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeH7SfZ7Bgev4ARP8tqz8NYd0IyaERsVZsJzK-oF1l2IHSTzfansM9lXk_UghysoY3z3u74wunftmGCPpMUre_kpPv8WWDaX5UIbATKy5RohLQ&oh=40e699a91ab9fda8ae3d349eb42512c0&oe=5B4E8AA0&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_950448161791650_2520116273321345024_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=cc43e0495a8ca6e41fbb365abc9cd8a4&oe=5B4FC5E1&itag=22
 
 type=video
-name=Heyzo-1337 Mihono
-thumb=http://javdub.com/wp-content/uploads/2016/12/8795.jpg
+name=1pondo 120216-438 Yu Nao Tachibana
+thumb=http://javdon.com/wp-content/uploads/2016/12/8766.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_199519167325937_6653809956833198080_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeEITfYSQaJKw63Oa-PRCyrgRdBEyd1Oki-_H0rEawxpSnRglhX22HQbVY9zk5izXt5JbeKA8h556hX2_GQ3iZl4WP_lqVP7sIawBYVJAPwH8A&oh=62e9edd7a3df3a0617f3d5ad99a336d0&oe=5B4E90C6&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1697549666955438_308444141514129408_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeFqQmZi4mzTS5iA6ummGM1v95EsTvkHL4ilzKcMdM7rJVpE6TKIcVMXjbPN6kQH_Z1nXcaNbpl9ajq_z4l6BFXwlxd18cSykT8hkv4j_C2I5Q&oh=10f1fef91c97f32948710acd5215f62d&oe=5B4FC18B&itag=22
 
 type=video
-name=
-thumb=
+name=Gvg-334 Celebrity Public Torture Pure White A
+thumb=http://javdon.com/wp-content/uploads/2017/01/10261.jpg
 date=2018-06-15
-URL=http://147.135.254.63:8063/ws/94a182d65ae302472d4873e17da14289.mp4?st=H2ysjkFSCRrvuMqPBvnKrA&e=1531873099
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1811778335795875_2436785403743698944_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=c98fbd3ab0d9e10a01ca96fe7153301a&oe=5B4FC6D6&itag=22
 
 
 
