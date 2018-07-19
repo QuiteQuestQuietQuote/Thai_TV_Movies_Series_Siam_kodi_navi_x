@@ -56,7 +56,7 @@ URL=
 
 
 
-
+http://cdn.vodstream.xyz/q5180/3675/015-hls/appid-17773/hls_720_.m3u8
 
 
 
@@ -338,59 +338,63 @@ URL=
 
 
 type=video
-name=Kray-002 Kiray Collection 02 That Sex Is Beautifully Me
-thumb=http://javdon.com/wp-content/uploads/2016/12/8844.jpg
+name=Juy-070
+thumb=http://javdon.com/wp-content/uploads/2017/04/22245.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2009978399214168_2859833063855095808_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=e038c1de5d350041139f350d7494f5d1&oe=5B4FC74B&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_384336218636868_6364369692689170432_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHpP0Wg9GRD4DEca0BsgIoeXscr4lgzcuOSs0ueK2IqjooYJDJp3BXlj4PpbOsku81A2GWM-DMAk4xkUqyd4oeRJAT6DvQxhfXK4KBraaUnCQ&oh=3c8924233bd41a08cc9cdc7167d8ec3d&oe=5B510734&itag=22
 
 type=video
-name=1PONDO 122113-719 Model Collection Mao Miyabi
-thumb=http://javdon.com/wp-content/uploads/2016/10/1338.jpg
+name=ebod-606
+thumb=http://javdon.com/wp-content/uploads/2018/03/28122.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_729633094091344_4134229678250524672_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=20be0d8554d2cc16e2d938b427a3b234&oe=5B4FBB0E&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_193099194662074_7516133759444320256_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHS7IoRxw9f3zqOEEnbJcGHZ57W8o93JNX9EUFj15EauiPIm6X75U5NP0CqZkoECgyYSZWIL0AJ43CKaYMaMfRkUuE4oU4RH3Hz0qLjBCsmqg&oh=7026edaa6ecac679190a4dc007595d71&oe=5B51070D&itag=22
 
 type=video
-name=Tbd-058 Riko Tachibana Lesbian Hi-vision Collection Blu-ray Disc
-thumb=http://javdon.com/wp-content/uploads/2017/03/17991.jpg
+name=Caribpr 010617-004 
+thumb=http://javdon.com/wp-content/uploads/2017/01/10045.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_163052264391480_8488826960158392320_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_eui2=AeEsNratFs9Z-M1MsEVLXvNDVGJVq4ZPfOx6uQDlqFztWh__M3VwEbykNNt8Y04IqBYrWH3OhtQ2xNde_-uqYUlRk8Fb7-C-zUMAf9FM7h1idA&oh=c73c093117b30081717107325cb735dc&oe=5B4FBA34&itag=18
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_473840489727964_576810349756416000_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHOZVAb4sSYNuGAFKYehSphbh9gFS_QKCZsW1bqC0RIGg3Axk-QrZX3t0PNwoIICe_nTQSYR8F6ZkJBl0jegANpdc4QSPCtjsd-FgZrYR1JqQ&oh=c1ac886cf30703d503ef63d5b8044d4f&oe=5B50F268&itag=22
 
 type=video
 name=Vrtm-219 Av Actress Naked Collection Third Bullet
 thumb=http://javdon.com/wp-content/uploads/2017/06/24640.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_215185935773383_9100766160961404928_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHsqfiEIKUXXfyFzU8v3xZE4naNIkRXF_BJ7Xc27ApmYVhQmnr9udi5Imm9MlvodiGTlevP4Lxqdwyp1ceiR7kp2GHXGWCNxIF-hP90Fn7aDg&oh=ebde2725637601dd9e824c6a8171b853&oe=5B4FD153&itag=22
+date=2018-07-19
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_215185935773383_9100766160961404928_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=c036fce8808710a4ff8ea49e62d8e300&oe=5B5114C3&itag=22
 
 type=video
-name=1PONDO 060414-821 Drama Collection Kirari Suzumori
-thumb=http://javdon.com/wp-content/uploads/2016/10/1036.jpg
+name=Ebod-237 
+thumb=http://javdon.com/wp-content/uploads/2017/03/20040.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_578243622534776_2183279352848842752_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=1bc2aa0cd8f1faf7dfd294a96da99f6a&oe=5B4FAE0B&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_164394641047398_5321042262983966720_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeFmxTNwXbIkxPAcL3vDGRS6TOWsEgiwytSG-2asvc-LWWfcZJ5y6rPis2_AegL1RWNJbwPFywg4aABe84o1vorPrZrAVkCBvKEYFgZlhJOtyA&oh=1e7ca7e1adb1f09ae78b59fe6b48ef0f&oe=5B50FCF1&itag=22
 
 
 
 type=video
-name=1PONDO 070314-837 Drama Collection Mao Miyabi
-thumb=http://javdon.com/wp-content/uploads/2016/10/1021.jpg
+name=Soe-935
+thumb=http://javdon.com/wp-content/uploads/2017/03/17144.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_950448161791650_2520116273321345024_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=cc43e0495a8ca6e41fbb365abc9cd8a4&oe=5B4FC5E1&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1977999459178644_409175753263939584_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=305659da95f3bdcbee046e831fc74f13&oe=5B510880&itag=22
 
 type=video
-name=1pondo 120216-438 Yu Nao Tachibana
-thumb=http://javdon.com/wp-content/uploads/2016/12/8766.jpg
+name=Fset-501
+thumb=http://javdon.com/wp-content/uploads/2017/01/11791-215x316.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1697549666955438_308444141514129408_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeFqQmZi4mzTS5iA6ummGM1v95EsTvkHL4ilzKcMdM7rJVpE6TKIcVMXjbPN6kQH_Z1nXcaNbpl9ajq_z4l6BFXwlxd18cSykT8hkv4j_C2I5Q&oh=10f1fef91c97f32948710acd5215f62d&oe=5B4FC18B&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_755791494808692_8073549243777810432_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeGhx29DaBNu8wfx0RuALpgOYnPTqna5Aiz1NDrAVYZTOW94Cw4EoV4CxU6oR7VxVMAo2jAJgtpkicmg2FX4KotRMBlU_PSvkw8ZSMHJpRY-5g&oh=9f8768f634449be117e8e80ff939100e&oe=5B50EDC7&itag=22
 
 type=video
-name=Gvg-334 Celebrity Public Torture Pure White A
-thumb=http://javdon.com/wp-content/uploads/2017/01/10261.jpg
+name=CARIBPR 061915-252
+thumb=http://javdon.com/wp-content/uploads/2016/10/2835-215x316.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1811778335795875_2436785403743698944_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=c98fbd3ab0d9e10a01ca96fe7153301a&oe=5B4FC6D6&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_487873711641292_1523323955274842112_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeEYVGv-7QxfX4JOYaxaKD_Axc6HdZ7UBmX1e6wbrENJv4pk65zR0mdbZ1y1xQi7V2AvkeT5lyTryZ-9wyXzLWKqGUz4wzEoAhMfCDFQAmOqow&oh=93bb9d36f888bdb5c4dd30330a337210&oe=5B5108CF&itag=22
 
 
 
 
-
+type=video
+name=Vrtm-307 
+thumb=http://javdon.com/wp-content/uploads/2018/01/28594-215x316.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_181472835808813_1005647307955240960_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=90061f5e4505b1e47e9123e69f18612a&oe=5B50F05D&itag=22
 
 
 

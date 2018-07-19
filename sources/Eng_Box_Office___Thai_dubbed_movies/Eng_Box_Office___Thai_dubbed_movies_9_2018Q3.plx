@@ -107,10 +107,11 @@ URL=https://openload.co/f/rEktzWFk-m4/Skyscraper_2018_NEW_720p_FULL_HDCAM_X264_H
 #https://openload.co/f/iPsXl_oVKik/Skyscraper_2018_720p_English_HDCAM_Rip_x264_MP3_850MB.E.mp4
 
 type=video
-name=Siberia (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+name=Siberia (2018) ENG 720hd_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0ybv0jt4OrTFOHdzrSIssaE2xJ.jpg
-date=2018-07-13
-URL=https://openload.co/f/BJWukZFMdlw/Siberia.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2018-07-19
+URL=https://openload.co/f/3rEkxjEUCZs/siberia720hd_SeeHD.mkv.mp4
+#https://openload.co/f/BJWukZFMdlw/Siberia.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/NlJm2Ahdoic/Siberia.2018.720p.WEB-DL.DD5.1.X264.AC3-CMRG_SeeHD.mkv.mp4
 
 type=video
@@ -161,10 +162,11 @@ URL=https://openload.co/f/udn5jw48kLc/Gotti.2018.1080p.AMZN_SeeHD.mkv.mp4
 
 
 type=video
-name=Hereditary (2018) ENG HDCAM_ENG_x264-SugarTits_SeeHD
+name=Hereditary (2018) ENG 720p_NEW_HDCAM_X264-24HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GFPuL14eXi66V96xBWY73Y9PfR.jpg
-date=2018-06-15
-URL=https://openload.co/f/yo6qEXwj5Bs/Hereditary_2018_HDCAM_ENG_x264-SugarTits_SeeHD.mkv.mp4
+date=2018-07-19
+URL=https://openload.co/f/4BYmDKGv1PQ/Hereditary_2018_720p_NEW_HDCAM_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/yo6qEXwj5Bs/Hereditary_2018_HDCAM_ENG_x264-SugarTits_SeeHD.mkv.mp4
 
 type=video
 name=Loving Pablo (2018) ESP 1080p_WEB-DL_DD5_1_H264-CMRG
@@ -1425,8 +1427,11 @@ URL=https://openload.co/f/0iFCMMFZw7M/The.Assassins.Code.2018.1080p.BluRay.x264.
 type=video
 name=Dark Crimes (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJSsTFvccBmqp9t9IFauXA3wWK7.jpg
-date=2018-07-18
-URL=https://openload.co/f/3DZUjLMvunk/Dark.Crimes.2016.1080p.BR_SeeHD.mp4
+date=2018-07-19
+URL=https://uptobox.com/7dtwyefwfjyf
+#https://www.rapidvideo.com/e/FTF6PEQY6V
+#https://openload.co/embed/PozQLTGZ2qo/GHPDARKCRIMES80.Ganol.ru.mkv
+#https://openload.co/f/3DZUjLMvunk/Dark.Crimes.2016.1080p.BR_SeeHD.mp4
 #https://openload.co/f/9KjOhM2f4nU/dark.crimes.2016.multi.1080p.bluray.x264-lost.mkv.mp4
 #https://openload.co/f/60EYPNT5tRE/True.Crimes.2016.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTGb.mp4
 #https://openload.co/f/wRdRLUn7iFE/Dark_Crimes_%282016%29_HDRip_AC3_XviD_AIR.avi.mp4
@@ -1592,10 +1597,13 @@ URL=https://openload.co/f/CyaZhAF_jRM/Super.Troopers.2.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/embed/GtQ30Hyh50M/SUPERSTROPERSBD72.Ganol.ru.mkv.mp4
 
 type=video
-name=Isle of Dogs (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+name=Isle of Dogs (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
-date=2018-07-11
-URL=https://openload.co/f/kHm7XocxNKc/Isle.of.Dogs.2018.1080p.BR_SeeHD.mp4
+date=2018-07-19
+URL=https://uptobox.com/d84saqs2dey4
+#https://www.rapidvideo.com/e/FTE2RUVGY9
+#https://openload.co/embed/5ptVTzLwkA8/GHPISLED0GS80.Ganol.ru.mkv.mp4
+#https://openload.co/f/kHm7XocxNKc/Isle.of.Dogs.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/LKMfQnVeglo/Isle.of.Dogs.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/EocGxmZ-5po/Isle.of.Dogs.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://uptobox.com/noh8h7b3rod2   720
@@ -7410,7 +7418,13 @@ URL=https://streamango.com/f/ofteedpkmecfkran/Truth_or_Dare_2018_
 
 
 
-
+type=video
+name=Operation Red Sea (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbT5k8TcTDGVFxZbnc5FSGFTqeH.jpg
+date=2018-07-19
+URL=https://uptobox.com/k9rymnaml7lj
+#https://www.rapidvideo.com/e/FTFGJB0XXK
+#https://openload.co/embed/BuC506tMVB8/Operation.Red.Sea.2018.BluRay.1080p.5.1CH.x264.Ganol.ru.mkv
 type=video
 name=Operation Red Sea (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbT5k8TcTDGVFxZbnc5FSGFTqeH.jpg
@@ -7451,8 +7465,11 @@ URL=https://streamango.com/f/lddnarmlsrnlbnrm/Higher_Power_2018_
 type=video
 name=China Salesman (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/TmO5oywb87UwHBkpAulR13Y06m.jpg
-date=2018-07-18
-URL=https://openload.co/f/SYxVWiNjbqk/China.Salesman.2017.720p.BluRay.x264-SADPANDA.mkv.mp4
+date=2018-07-19
+URL=https://uptobox.com/58r99exua80d
+#https://www.rapidvideo.com/e/FTF7U9EPEV
+#https://openload.co/embed/uCdvdfERKQI/CHINASALEMANBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/SYxVWiNjbqk/China.Salesman.2017.720p.BluRay.x264-SADPANDA.mkv.mp4
 type=video
 name=China Salesman (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/TmO5oywb87UwHBkpAulR13Y06m.jpg
