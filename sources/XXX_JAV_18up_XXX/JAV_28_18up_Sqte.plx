@@ -56,7 +56,7 @@ URL=
 
 
 
-http://cdn.vodstream.xyz/q5180/3675/015-hls/appid-17773/hls_720_.m3u8
+
 
 
 
@@ -338,63 +338,63 @@ URL=
 
 
 type=video
-name=Juy-070
-thumb=http://javdon.com/wp-content/uploads/2017/04/22245.jpg
+name=Wanz-723 A Real Life College Gir
+thumb=http://javdon.com/wp-content/uploads/2018/04/31410.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_384336218636868_6364369692689170432_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHpP0Wg9GRD4DEca0BsgIoeXscr4lgzcuOSs0ueK2IqjooYJDJp3BXlj4PpbOsku81A2GWM-DMAk4xkUqyd4oeRJAT6DvQxhfXK4KBraaUnCQ&oh=3c8924233bd41a08cc9cdc7167d8ec3d&oe=5B510734&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_173466716706430_6538118767832989696_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeGx_hmb1nhD23wWN5vdS2lo6nPlfRLv31jrwSV6rsOR_nSM1Uv5JqfPFYrFVHudK4v4UbYJVNdaIaiBgi4NNI2kDdva4rAUlW986LIWaQKuRw&oh=f438b035d32af27e73598ba68ce04675&oe=5B52742A&itag=22
 
 type=video
-name=ebod-606
-thumb=http://javdon.com/wp-content/uploads/2018/03/28122.jpg
+name=Carib 070916-204 Mihono
+thumb=http://javdon.com/wp-content/uploads/2016/11/6020.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_193099194662074_7516133759444320256_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHS7IoRxw9f3zqOEEnbJcGHZ57W8o93JNX9EUFj15EauiPIm6X75U5NP0CqZkoECgyYSZWIL0AJ43CKaYMaMfRkUuE4oU4RH3Hz0qLjBCsmqg&oh=7026edaa6ecac679190a4dc007595d71&oe=5B51070D&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1010026475826628_3569276384578633728_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeEQQqhjtiKD-s8YOPZfPI8iqaJfpkUedtXpgMRQqA6fR6C78Nw8EvFg5k66AvibjBCsYUKYcDAZ1apJXXABLBANoQsOMi1qZv8-x1n4nzZb1g&oh=bae9aa9132d54a59c02dd96b985f3386&oe=5B5269D7&itag=22
 
 type=video
-name=Caribpr 010617-004 
-thumb=http://javdon.com/wp-content/uploads/2017/01/10045.jpg
+name=club-426 it is a case that you hunte
+thumb=http://javdon.com/wp-content/uploads/2018/03/27558.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_473840489727964_576810349756416000_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHOZVAb4sSYNuGAFKYehSphbh9gFS_QKCZsW1bqC0RIGg3Axk-QrZX3t0PNwoIICe_nTQSYR8F6ZkJBl0jegANpdc4QSPCtjsd-FgZrYR1JqQ&oh=c1ac886cf30703d503ef63d5b8044d4f&oe=5B50F268&itag=22
+URL=http://cdn.vodstream.xyz/q581/3678/030-hls/appid-27558/hls.m3u8
 
 type=video
-name=Vrtm-219 Av Actress Naked Collection Third Bullet
-thumb=http://javdon.com/wp-content/uploads/2017/06/24640.jpg
+name=Pred-026 Exclusive Decisionlegend
+thumb=http://javdon.com/wp-content/uploads/2018/01/29823.jpg
 date=2018-07-19
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_215185935773383_9100766160961404928_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=c036fce8808710a4ff8ea49e62d8e300&oe=5B5114C3&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_358201211347988_2052005880764825600_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeG8VgINznnPh_gu5Hq8--xJLGZnA7bPkloZlXhHrj2LQy6BPuYzNI5tQzq3J011RqfpGZTWGFNwP5djmcgQZABI3Gp1P2u4DRD2DFg_f2O_Tw&oh=824cac1880444c15315534f3c661aa56&oe=5B52612A&itag=22
 
 type=video
-name=Ebod-237 
-thumb=http://javdon.com/wp-content/uploads/2017/03/20040.jpg
+name=Sw-238 I, Ji Port That Ere
+thumb=http://javdon.com/wp-content/uploads/2017/02/15827.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_164394641047398_5321042262983966720_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeFmxTNwXbIkxPAcL3vDGRS6TOWsEgiwytSG-2asvc-LWWfcZJ5y6rPis2_AegL1RWNJbwPFywg4aABe84o1vorPrZrAVkCBvKEYFgZlhJOtyA&oh=1e7ca7e1adb1f09ae78b59fe6b48ef0f&oe=5B50FCF1&itag=22
-
-
-
-type=video
-name=Soe-935
-thumb=http://javdon.com/wp-content/uploads/2017/03/17144.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1977999459178644_409175753263939584_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=305659da95f3bdcbee046e831fc74f13&oe=5B510880&itag=22
-
-type=video
-name=Fset-501
-thumb=http://javdon.com/wp-content/uploads/2017/01/11791-215x316.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_755791494808692_8073549243777810432_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeGhx29DaBNu8wfx0RuALpgOYnPTqna5Aiz1NDrAVYZTOW94Cw4EoV4CxU6oR7VxVMAo2jAJgtpkicmg2FX4KotRMBlU_PSvkw8ZSMHJpRY-5g&oh=9f8768f634449be117e8e80ff939100e&oe=5B50EDC7&itag=22
-
-type=video
-name=CARIBPR 061915-252
-thumb=http://javdon.com/wp-content/uploads/2016/10/2835-215x316.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_487873711641292_1523323955274842112_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeEYVGv-7QxfX4JOYaxaKD_Axc6HdZ7UBmX1e6wbrENJv4pk65zR0mdbZ1y1xQi7V2AvkeT5lyTryZ-9wyXzLWKqGUz4wzEoAhMfCDFQAmOqow&oh=93bb9d36f888bdb5c4dd30330a337210&oe=5B5108CF&itag=22
-
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_374534766358866_4653447935361548288_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeEO58iElCxO58kcGdPziOXrw-c_SDWGkDmhvJ9uKZA-XdMDBqVF4jQYSRVZwdYeefQ46_0VyziFFqWUeVjHq-t5F-pXeBZxoa0D6xZqfL72IA&oh=19ac3d80cee339917dfed97c7659705e&oe=5B527D88&itag=22
 
 
 
 type=video
-name=Vrtm-307 
-thumb=http://javdon.com/wp-content/uploads/2018/01/28594-215x316.jpg
+name=Abp-532 Now Yongkang Of Nao, Tame One
+thumb=http://javdon.com/wp-content/uploads/2017/01/13300.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_181472835808813_1005647307955240960_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=90061f5e4505b1e47e9123e69f18612a&oe=5B50F05D&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2310277425656540_1412146815557435392_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeFQhwktchD-m6cXoRIll3q4Sd7z_yHjX4ULqhGCS0uN4NIF5EIgwMLklbI3YDR3ux9hxNiCL1AutPIyUbS6IwcpQOyceuwuhiBGsvN_zFgJqQ&oh=5bae8562745899cf59bdad73d45fb54c&oe=5B528527&itag=22
+
+type=video
+name=SNIS-289 Pervert School Girl on Bus                            215x316
+thumb=http://javdon.com/wp-content/uploads/2015/12/3967-215x316.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_153518212165277_7675824869757419520_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHZJqRi3zmpMp9W1o2muDSa3gv_0Iy1MFfP2aU8pi4wWwG5xAlXEZnX_ou2A0kYf_Dlou9rj84C7uzGJ4LlxMtqyvEZaqel3hwkDVr_r3_XZA&oh=d7a9ce07302eb0b8ea4ba0665725a5f3&oe=5B526FFF&itag=22
+
+type=video
+name=CARIBPR 120415-439 Yuka Kaede
+thumb=http://javdon.com/wp-content/uploads/2016/10/3932-215x316.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_461161177653859_6144434145561935872_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeF0xwDaTh0gFQ-aUwEbugbTY0jpiVMBo35-m6X7QQdDsMHjErh2UUx-VTZfO_Jkskx45qkk5I0xnpdEbYB-LiaHo0hDC635-Ed7gFngOHGH6g&oh=d31944aee6ccec0b20fa0f26f6f42bc8&oe=5B5276F5&itag=22
+
+
+
+
+type=video
+name=Venu-513 S-class Mature Ultimate Collection 20 People Four Hours Iii
+thumb=http://javdon.com/wp-content/uploads/2018/03/29308-215x316.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_150515835800849_772729964477808640_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHx_RIu3-CbJUnC9u3paMyPi1dF36NqbFZL23rSS9xGKzB7CpyF_boa3RSx_F35xpX5fVrp--9ZeIQCL9vRworOyfdQFZMv-PiW4QlZvh4iyA&oh=20d77a44d9e836153446aabb4ab38b55&oe=5B526E94&itag=22
 
 
 

@@ -77,7 +77,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-17
+date=2018-07-20
 URL=
 
 
@@ -85,9 +85,11 @@ URL=
 
 
 
-
-
-
+type=video
+name=Mamma Mia! Here We Go Again (2018) ENG 720p.HDCAM.1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg
+date=2018-07-20
+URL=https://openload.co/f/4rQ-PpCodrE/Mamma.Mia%21.2.2018.720p.HDCAM.1XBET_SeeHD.mp4
 
 type=video
 name=Hotel Transylvania 3: Summer Vacation (2018) ENG 720p_HDCAM_NEW_SeeHD
@@ -1290,10 +1292,11 @@ URL=https://openload.co/f/UPi8CX1OeIw/Camera.Obscura.2017.BRRip.AC3.X264-CMRG.mk
 
 
 type=video
-name=S.M.A.R.T. Chase (2017) ENG BDRip_Layar
+name=S.M.A.R.T. Chase (2017) ENG DVDRip.x264-ARiES
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2upUHuNpAZRIS8T2xgAmopGF3sR.jpg
-date=2018-04-27
-URL=https://openload.co/f/JxJSMoOr-7o/The_Shanghai_Job_2017_BDRip_Layar.mp4
+date=2018-07-20
+URL=https://openload.co/f/qL7SF5j22es/The.Shanghai.Job.2017.DVDRip.x264-ARiES.mkv.mp4
+#https://openload.co/f/JxJSMoOr-7o/The_Shanghai_Job_2017_BDRip_Layar.mp4
 #https://openload.co/f/J6V1vuMVk5c/The.Shanghai.Job.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 #http://entervideo.net/watch/663df7b4d19c193
 #https://openload.co/f/0CIUo1iyESA/SMART.Chase.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
@@ -1410,13 +1413,28 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-18
+date=2018-07-20
 URL=
 
 
 
 
 
+
+
+
+
+type=video
+name=Big Fish & Begonia (2016) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRCdXh9MZutj1JJPZlUXMex6AuB.jpg
+date=2018-07-20
+URL=https://openload.co/f/vhJ52rWHpQY/big.fish.and.begonia.2016.limited.1080p.bluray.x264-cadaver.mkv.mp4
+
+type=video
+name=Dwelling (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sj0CQKUY0JVsjmYOGk3yBlHbxGd.jpg
+date=2018-07-20
+URL=https://openload.co/f/-HAHTorSq3c/dwelling.2016.1080p.bluray.x264-getit.mkv.mp4
 
 type=video
 name=The Assassin's Code (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5539,10 +5557,11 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
-name=Ant-Man and the Wasp (2018) ENG NEW_720p_HDCAM_x264_AC3-24HD_SeeHD
+name=Ant-Man and the Wasp (2018) ENG 720p_NEW_HDCAM_X264_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv1AWImgx386ULjcf62VYaW8zSt.jpg
-date=2018-07-08
-URL=https://openload.co/f/snZBHMSAjuc/Ant-Man_and_The_Wasp_2018_NEW_720p_HDCAM_x264_AC3-24HD_SeeHD.mkv.mp4
+date=2018-07-20
+URL=https://openload.co/f/7VWHw2S6ccM/AntMan_and_the_Wasp_2018_720p_NEW_HDCAM_X264_SeeHD.mkv.mp4
+#https://openload.co/f/snZBHMSAjuc/Ant-Man_and_The_Wasp_2018_NEW_720p_HDCAM_x264_AC3-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/kpCyHOUMNk0/Ant-Man_and_The_Wasp_%282018%29_NEW-HDCAM_English_SpaceMov.mp4
 #https://openload.co/f/HICHLEcJ2n8/Ant-Man.and.The.Wasp.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/APWBCrzytdI/Ant-Man_and_the_Wasp_2018_RUS.TS_480p_x264.mkv.mp4
@@ -7424,7 +7443,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbT5k8TcTDGVFxZbnc5FSGFTqe
 date=2018-07-19
 URL=https://uptobox.com/k9rymnaml7lj
 #https://www.rapidvideo.com/e/FTFGJB0XXK
+#https://openload.co/f/IVf-_RlzC48/Operation.Red.Sea.2018.BluRay.1080p.5.1CH.x264.mkv.mp4
 #https://openload.co/embed/BuC506tMVB8/Operation.Red.Sea.2018.BluRay.1080p.5.1CH.x264.Ganol.ru.mkv
+#https://openload.co/f/HGaQ4ip4wSA/Operation.Red.Sea.2018.BluRay.720p.DTS.x264-CHD.mkv.mp4
 type=video
 name=Operation Red Sea (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbT5k8TcTDGVFxZbnc5FSGFTqeH.jpg
@@ -8413,7 +8434,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-15
+date=2018-07-20
 URL=
 
 
@@ -8425,9 +8446,17 @@ URL=
 
 
 
+type=video
+name=Mamma Mia! (2008) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOm2iMMbC6EonrFzmSQ8xvCa4Ei.jpg
+date=2018-07-20
+URL=https://openload.co/f/UFQgVLWJIP0/Mamma.Mia.2008.1080p.BrRip.x264.BOKUTOX.mp4
 
-
-
+type=video
+name=The Slammin' Salmon (2009) [COLOR=FF00FF00]ENG SD[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjgHJZx5MewXrlZSSsH7fLrqb21.jpg
+date=2018-07-20
+URL=https://openload.co/f/6H2r3uHrK3w/The_Slammin%27_Salmon_-_Full.nokl8.mp4
 
 type=video
 name=Phoenix (2014) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
@@ -8489,11 +8518,6 @@ URL=https://openload.co/f/JWIbA4iSew0/suck.me.shakespeer.3.fack.ju.goehte.3.2017
 #https://uptobox.com/3i64gisdwvgp   720
 
 
-type=video
-name=
-thumb=
-date=2018-07-15
-URL=
 
 
 type=video

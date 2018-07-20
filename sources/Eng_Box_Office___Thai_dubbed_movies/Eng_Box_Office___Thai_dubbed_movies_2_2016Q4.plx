@@ -324,10 +324,11 @@ player=default
 rating=-1.00
 
 type=video
-name=John Wick (2014) [COLOR=FF00FF00]TH-ENG MKV 1.8GB[/COLOR]
+name=John Wick (2014) [COLOR=FF00FF00]ENG HD 977MB[/COLOR]
 thumb=https://image.tmdb.org/t/p/w640/5vHssUeVe25bMrof1HyaPyWgaP.jpg
-date=2017-09-22
-URL=https://openload.co/f/496nUfCD0j8/John.Wick.2014.RERIP.720p.BluRay.x264-SPARKS-HI.mkv
+date=2018-07-20
+URL=https://openload.co/f/fn-UBNNU-tY/John.Wick_muc.mp4
+#https://openload.co/f/496nUfCD0j8/John.Wick.2014.RERIP.720p.BluRay.x264-SPARKS-HI.mkv
 
 
 type=video

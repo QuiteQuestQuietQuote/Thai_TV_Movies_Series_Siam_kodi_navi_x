@@ -56,6 +56,72 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+type=video
+name=162xxxxxxxxxxxxxxxxxxxxConsolation Of A Married Woman Nurse (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Consolation-Of-A-Married-Woman-Nurse-2017.jpg
+date=2018-07-2
+URL=https://streamcherry.com/embed/qdrpflkcrosntcoe/
+
+type=video
+name=Sexy Women S Gambling Battle (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Sexy-Women-S-Gambling-Battle-2017.jpg
+date=2018-07-2
+URL=https://streamcherry.com/embed/mnofsptlsaqoeppm/
+
+type=video
+name=Koushoku Family Dorama (2015)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Koushoku-Family-Dorama-2015.jpg
+date=2018-07-2
+URL=https://streamcherry.com/embed/moclmnmbqpndlscp/
+
+type=video
+name=Hurinnseikoui (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Hurinnseikoui-2016.jpg
+date=2018-07-2
+URL=https://streamcherry.com/embed/dslrcpnakelparaf/
+
+type=video
+name=Cheoje Ui Eunmilhan Yuhog (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Cheoje-Ui-Eunmilhan-Yuhog-2018.jpg
+date=2018-07-2
+URL=https://streamcherry.com/embed/bctsfneecmftrmmp/
+
+
+type=video
+name=Jangmohaggaelon (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Jangmohaggaelon-2018-Uncut.jpg
+date=2018-07-2
+URL=https://streamcherry.com/embed/sqpaqpsnsfcftapr/
+
+type=video
+name=Creampie Challenge Throughout Japan 3 (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Creampie-Challenge-Throughout-Japan-3-2017.jpg
+date=2018-07-2
+URL=https://streamcherry.com/embed/ppqactqsplsnamnn/
+
+type=video
+name=Yeon Ae Eommachingu (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Yeon-Ae-Eommachingu-2018.jpg
+date=2018-07-2
+URL=https://streamcherry.com/embed/ekrnaafkdpmbpdfn/
+
+
+
+
+
+
+
+
 type=video
 name=154xxxxxxxxxxxxxxxxxxxxSeonnyeoneun Mom Eulo Unda De (2018)
 thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Seonnyeoneun-Mom-Eulo-Unda-De-2018.jpg
