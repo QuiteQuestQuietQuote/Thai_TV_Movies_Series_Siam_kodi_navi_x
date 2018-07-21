@@ -2765,21 +2765,27 @@ http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/248.m3u8
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/249.m3u8
 #EXTINF:-1,I HD
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/250.m3u8
-#EXTINF:-1,movie24
-rtmp://tv01.thaizatv.com/drm/movie1
+
 #EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/im/180628094301.png",HBO hd_103
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/66.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO hd_128
 http://128.199.155.69:2200/HD2live-S3/hdhbo.stream/chunklist.m3u8
 #EXTINF:-1 group-title="movies"tvg-id="Fox Action Movies HD(English)" tvg-logo="https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png",foxpremiumth
 http://iptvthai.webhop.biz:443/hd-foxpremium_720/index.m3u8
+#EXTINF:-1,24/7 Superhero Movies
+http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
+#EXTINF:-1,24/7 Blockbuster Movies
+http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
+#EXTINF:-1,24/7 Animated Movies
+http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/im/180701022041.png",Movie CH1
 http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTggMTI6Mjg6NTYgUE0maGFzaF92YWx1ZT1xVUhLaUl5aEQ0VHhHTklzdlQxdXd3PT0mdmFsaWRtaW51dGVzPTMwMA==
 #EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ie/180701022123.png",Movie CH2
 http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTggMTI6Mjg6NTYgUE0maGFzaF92YWx1ZT1xVUhLaUl5aEQ0VHhHTklzdlQxdXd3PT0mdmFsaWRtaW51dGVzPTMwMA==
 #EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/iu/180701022150.png",Movie CH3
 http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTggMTI6Mjg6NTYgUE0maGFzaF92YWx1ZT1xVUhLaUl5aEQ0VHhHTklzdlQxdXd3PT0mdmFsaWRtaW51dGVzPTMwMA==
-
+#EXTINF:-1,movie24
+rtmp://tv01.thaizatv.com/drm/movie1
 
 
 

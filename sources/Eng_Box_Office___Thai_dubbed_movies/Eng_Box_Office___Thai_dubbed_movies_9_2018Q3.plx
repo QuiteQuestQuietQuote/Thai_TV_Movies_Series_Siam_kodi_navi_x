@@ -77,19 +77,30 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-20
+date=2018-07-21
 URL=
 
 
 
 
+type=video
+name=The Equalizer 2 (2018) ENG 720p_low_CAMRip_X264_AC3_BlckNips.E
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg
+date=2018-07-21
+URL=https://openload.co/f/nZLFCvX2zWM/The_Equalizer_2_2018_720p_low_CAMRip_X264_AC3_BlckNips.E.mp4
 
+type=video
+name=The First Purge (2018) ENG 720p.HDCAM.1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2slvblTroiT1lY9bYLK7Amigo1k.jpg
+date=2018-07-21
+URL=https://openload.co/f/S0UjL9DNnp8/The.First.Purge.2018.720p.HDCAM.1XBET_SeeHD.mp4
 
 type=video
 name=Mamma Mia! Here We Go Again (2018) ENG 720p.HDCAM.1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg
 date=2018-07-20
 URL=https://openload.co/f/4rQ-PpCodrE/Mamma.Mia%21.2.2018.720p.HDCAM.1XBET_SeeHD.mp4
+#https://openload.co/f/-PY_xqQbWaE/Mamma.Mia%21.2.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 
 type=video
 name=Hotel Transylvania 3: Summer Vacation (2018) ENG 720p_HDCAM_NEW_SeeHD
@@ -99,14 +110,7 @@ URL=https://openload.co/f/eHv-fLRuh7A/Hotel_Transylvania_3_Summer_Vacation_2018_
 #https://openload.co/f/ZqftlMxzgW8/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/hSaXRiGF8S4/Hotel_Transylvania_3_Summer_Vacation_2018_New_720p_HDCAM-X264-AC3.mkv.mp4
 
-type=video
-name=Skyscraper (2018) ENG NEW_720p_FULL_HDCAM_X264_HQMic-24HD_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
-date=2018-07-14
-URL=https://openload.co/f/rEktzWFk-m4/Skyscraper_2018_NEW_720p_FULL_HDCAM_X264_HQMic-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/gtJAVaxk6sw/Skyscraper.2018.New.720p.FULL.HDCAM.mkv.mp4
-#https://openload.co/f/mGZxI3viZJs/Skyscraper.2018.720p.HDCAM.NO.WATERMARK.mp4
-#https://openload.co/f/iPsXl_oVKik/Skyscraper_2018_720p_English_HDCAM_Rip_x264_MP3_850MB.E.mp4
+
 
 type=video
 name=Siberia (2018) ENG 720hd_SeeHD
@@ -135,18 +139,14 @@ date=2018-07-14
 URL=https://openload.co/f/Tj8DkrU7SJk/Superfly_2018_NEW_V.2_HDCAM_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/G1UZshzRASM/Superfly.2018.HDCAM.x264-DiRG_SeeHD.mp4
 
-type=video
-name=Tully (2018) ENG 1080p_WEB-DL_DD5_1_H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDI4YXBXolMYi15Qx2kClvdSERM.jpg
-date=2018-07-17
-URL=https://openload.co/f/iCdsSIV5rVE/Tully_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
-#https://openload.co/f/y05fL4j4h3U/Tully.2018.720pHD_SeeHD.mkv.mp4
+
 
 type=video
-name=Book Club (2018) ENG 720p.HDCAM.ENG.X264-24HD_SeeHD
+name=Book Club (2018) ENG 720p.WEB-DL.X264.CAM.AUDIO.24HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ORGBbOA45pfKQXvntPf46NoFGO.jpg
-date=2018-07-07
-URL=https://openload.co/f/x4D4ED3JoGc/Book.Club.2018.720p.HDCAM.ENG.X264-24HD_SeeHD.mp4
+date=2018-07-21
+URL=https://openload.co/f/ew-qRUGNwNw/Book.Club.2018.720p.WEB-DL.X264.CAM.AUDIO.24HD_SeeHD.mp4
+#https://openload.co/f/x4D4ED3JoGc/Book.Club.2018.720p.HDCAM.ENG.X264-24HD_SeeHD.mp4
 
 type=video
 name=Tag (2018) ENG 720p_HD-TS_x264_HQ-24HD_SeeHD
@@ -154,12 +154,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXXpuW2xaq5Aen9N5prFlARVIv
 date=2018-06-29
 URL=https://openload.co/f/A52Q2c9ui-4/TAG_2018_720p_HD-TS_x264_HQ-24HD_SeeHD.mkv.mp4
 
-type=video
-name=Gotti (2018) ENG 1080p.AMZN_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJODtXkQBK0lEmD4x5KkALnSiN1.jpg
-date=2018-06-28
-URL=https://openload.co/f/udn5jw48kLc/Gotti.2018.1080p.AMZN_SeeHD.mkv.mp4
-#https://openload.co/f/cOxTWMClj58/Gotti.2018.HDRip.AC3.X264-CMRG.mkv.mp4
+
 
 
 
@@ -177,12 +172,7 @@ date=2018-06-22
 URL=https://openload.co/f/kSQxcBn9VR0/Loving_Pablo_2017_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
 #https://openload.co/f/PH6BJQ3uQLA/Loving_Pablo.2017.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 
-type=video
-name=Life of the Party (2018) ENG 720p.WEB-DL.H264.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2S4p7mRt0iyClSLSldfjzdYSIp.jpg
-date=2018-06-19
-URL=https://openload.co/f/HBmFdZvnBYA/Life_of_the_Party.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/mgQzXoUtdE4/Life.of.the.Party.2018.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 
 type=video
@@ -219,14 +209,7 @@ URL=https://openload.co/f/rf2jkbDsENc/King_Lear_2018.HDRip.X264.AC3-EVO.mkv.mp4
 
 
 
-type=video
-name=Overboard (2018) ENG 1080p_WEB-DL_DD5_1_H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaHknuun1VPPugkTsSfB8PejKVg.jpg
-date=2018-07-13
-URL=https://openload.co/f/V63D0U550Mk/Overboard_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
-#https://openload.co/f/3E8y8rfjvi8/overboard720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/8daIAOeMZQw/Overboard.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/BWLyxtdeuzQ/Overboard_2018_720p_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
+
 
 
 
@@ -662,7 +645,7 @@ URL=
 
 type=video
 name=Somebody's Mother (2016) ENG WEBRip.x264-RBB
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BZWUzYWQxMjItNTk0Yy00Mzk3LWJmODgtZjYzM2NkNjA5NTNhXkEyXkFqcGdeQXVyMzMwMjI2NA@@._V1_SY1000_CR0,0,676,1000_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpoJTggQhsYUgyiEAdfhBpWvrH7.jpg
 date=2017-12-03
 URL=https://openload.co/f/jjBQIZkgFFg/Somebodys.Mother.2016.WEBRip.x264-RBB.mp4
 
@@ -710,7 +693,7 @@ URL=https://openload.co/f/Xfeo1jdN-14/i.do.until.i.dont.limited.2017.dvdrip.x264
 
 type=video
 name=The Price (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BY2M5MjI1YjctNWI5Yi00MjVhLTgzNzYtNjg0OTNkNTEzZTY5XkEyXkFqcGdeQXVyMDY5NzA2Ng@@._V1_SY1000_CR0,0,666,1000_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSm4woSrLVErGNBZCCLOkBVjJjk.jpg
 date=2018-01-30
 URL=https://openload.co/f/rVfE7NSfZcU/The.Price.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/wns44eI1MzU/The_Price_2017.HDRip.XviD.AC3-EVO.avi.mp4
@@ -1231,11 +1214,7 @@ date=2018-03-04
 URL=https://www.blazefile.co/embed-uiybt8r12xbj.html
 #https://openload.co/f/-l3c1Uj30Ow/A.B.C.P.2016.WEB-DL.XviD.AC3-FGT.avi.mp4
 
-type=video
-name=The Atoning (2017) ENG WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuJUqSrfrGDAch1D2ncQNCfUD1N.jpg
-date=2017-09-05
-URL=https://openload.co/f/g7zpuGPUDgo/The.Atoning.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 
 
@@ -1413,7 +1392,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-20
+date=2018-07-21
 URL=
 
 
@@ -1423,6 +1402,73 @@ URL=
 
 
 
+type=video
+name=Duck Duck Goose (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XURM64DYa9DpS70I2rM4suvq1s.jpg
+date=2018-07-21
+URL=https://openload.co/f/ypParVXBTWc/Duck.Duck.Goose.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/ygcifvg2JJ8/Duck.Duck.Goose.2018.1080p.BluRay.X264-AMIABLE.mkv   MKV6.6GB
+
+type=video
+name=The Con Is On (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4ZzzFOokK356jf6L6vUp3RKNvM.jpg
+date=2018-07-21
+URL=https://openload.co/f/0dXMAZwEUKc/the.con.is.on.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/35a7NQuB3bE/The.Con.Is.On.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Bold, the Corrupt and the Beautiful (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CvEVro9xb3HHZOJ4alfNkEWryM.jpg
+date=2018-07-21
+URL=https://openload.co/f/5hXAuN2iDc8/the.bold.the.corrupt.and.the.beautiful.2017.1080p.bluray.x264-regret.mkv.mp4
+#https://uptobox.com/lq727v4v2lgw   720
+https://openload.co/f/sJmvK-ifWh0/The.Bold.the.Corrupt.and.the.Beautiful.2017.720p.BluRay.x264-WiKi.mkv.mp4
+
+type=video
+name=Gotti (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJODtXkQBK0lEmD4x5KkALnSiN1.jpg
+date=2018-07-21
+URL=https://openload.co/f/IPJMmmxGFk8/Gotti.2018.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+#https://openload.co/f/udn5jw48kLc/Gotti.2018.1080p.AMZN_SeeHD.mkv.mp4
+#https://openload.co/f/cOxTWMClj58/Gotti.2018.HDRip.AC3.X264-CMRG.mkv.mp4
+
+type=video
+name=Overboard (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaHknuun1VPPugkTsSfB8PejKVg.jpg
+date=2018-07-21
+URL=https://openload.co/f/dvYFUKRqXfs/overboard.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/V63D0U550Mk/Overboard_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+#https://openload.co/f/3E8y8rfjvi8/overboard720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/8daIAOeMZQw/Overboard.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/BWLyxtdeuzQ/Overboard_2018_720p_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
+
+type=video
+name=Life of the Party (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2S4p7mRt0iyClSLSldfjzdYSIp.jpg
+date=2018-07-21
+URL=https://openload.co/f/vGAKNixHlME/Life.Of.The.Party.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/eAGbYHvZOJM/life.of.the.party.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/XBwc8IRH4iY/Life.Of.The.Party.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/BF-r9Wb-MmA/life.of.the.party.2018.1080p.bluray.x264-geckos.mkv   MKV7.6GB
+#https://openload.co/f/HBmFdZvnBYA/Life_of_the_Party.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/mgQzXoUtdE4/Life.of.the.Party.2018.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=The Atoning (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuJUqSrfrGDAch1D2ncQNCfUD1N.jpg
+date=2018-07-21
+URL=https://openload.co/f/mqX5wKrYIDA/The.Atoning.2017.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+#https://openload.co/f/7xKFomKutks/The.Atoning.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/g7zpuGPUDgo/The.Atoning.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
+type=video
+name=Tully (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDI4YXBXolMYi15Qx2kClvdSERM.jpg
+date=2018-07-21
+URL=https://openload.co/f/V8SllvaQ4rc/tully.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/HGQot2knJho/tully.2018.1080p.bluray.x264-drones.mkv   MKV6.6GB
+#https://openload.co/f/iCdsSIV5rVE/Tully_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+#https://openload.co/f/y05fL4j4h3U/Tully.2018.720pHD_SeeHD.mkv.mp4
 
 type=video
 name=Big Fish & Begonia (2016) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
@@ -1457,17 +1503,7 @@ URL=https://uptobox.com/7dtwyefwfjyf
 #https://www.rapidvideo.com/e/FTDT7ZSVJK   720
 #https://openload.co/embed/6qUucweLKfs/SHQDARKCMESBD72.Ganol.ru.mkv
 
-type=video
-name=211 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/81RColr4rau6DZ7z9eMsksokcfk.jpg
-date=2018-07-13
-URL=https://uptobox.com/d4eklm91qbcy
-#https://openload.co/embed/u2nVxpZxDas/21180.Ganol.ru.mkv.mp4
-#https://openload.co/f/6NZT1AG-d9Y/211.2018.1080p.bluray.x264-cinefile.mkv.mp4
-#https://www.blazefile.co/embed-5gp6s2dla40u.html   720
-#https://uptobox.com/lrkuwglf5wss   720
-#https://openload.co/embed/OE23zSQC8ko/211BD72.Ganool.im.mkv.mp4
-#https://openload.co/f/ardRHxBIMkk/211.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
+
 
 type=video
 name=Still Life (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1672,21 +1708,9 @@ URL=https://openload.co/f/nJ1BwFBCKAA/lean.on.pete.2017.1080p.bluray.dd5.1.hevc.
 #https://openload.co/f/wO7YX73J-nQ/lean.on.pete.2017.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/fF8zhiyai-0/lean.on.pete.2017.1080p.bluray.x264-drones.mkv.mp4
 
-type=video
-name=Future World (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/297jGjtWbi2sczPwSOiLbBc6xvj.jpg
-date=2018-06-30
-URL=https://openload.co/f/f3Ci7lzv6dA/Future.World.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/xI6GxHhOEJE/future.world.2018.1080p.bluray.x264-rovers.mkv.mp4
 
-type=video
-name=Mary Magdalene (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLbqnVAmD8ISel1SLTY3Ek0TWz8.jpg
-date=2018-06-30
-URL=https://openload.co/f/xkqnQ8DoVX8/Mary.Magdalene.2018.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
-#https://uptobox.com/yc6czgwb8iwg   720
-#https://openload.co/embed/CGM5665MP5Y/SHQMARYMAGLENEBD72.Ganol.ru.mkv.mp4
-#https://openload.co/f/RhIhhtNO6f8/Mary_Magdalene.2018.720p.BDRip.X264.AC3-EVO.mkv.mp4
+
+
 
 type=video
 name=Gnome Alone (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2535,16 +2559,7 @@ date=2018-04-29
 URL=https://openload.co/f/Q4oKyy1m8mM/Scarecrows.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/ZTC7f9cWPCI/scarecrows.2017.720p.br_SeeHD.mp4
 
-type=video
-name=Batman Ninja (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5gZEW1npI2DNE5G00LvPDDICnt.jpg
-date=2018-05-16
-URL=https://openload.co/f/gUv2jxnHGUU/Batman.Ninja.2018.1080p.BluRay.x264-NODLABS.mkv.mp4
-#https://openload.co/f/Cfe5FWJJDzQ/batman.ninja.2018.multi.1080p.bluray.x264-lost.mkv.mp4
-#https://openload.co/f/qRXRqt9DpOg/Batman.Ninja.2018.720p.BluRay.x264-NODLABS.mkv.mp4
-#https://openload.co/f/D3cD0l2HbGM/Batman.Ninja.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://www.blazefile.co/embed-jbqvcm6qao0z.html   720
-#https://uptobox.com/vmx32usapk1j   720
+
 
 type=video
 name=Anna (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3747,33 +3762,33 @@ URL=https://www.blazefile.co/embed-07sqwrtfrtci.html
 
 type=video
 name=West of Her (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMzc4OTYxMDQ2Ml5BMl5BanBnXkFtZTgwMTA0MjI5NzE@._V1_SY1000_SX675_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kO3gkPUi2UgztlI7xevAIxKwguL.jpg
 date=2018-02-01
 URL=https://openload.co/f/LXI5oi-3L6o/West.of.Her.2016.BluRay.1080p.DTS-HD.MA.2.0.x264-MTeam%5BEtHD%5D.mkv.mp4
 #https://www.blazefile.co/embed-csalk8j9jhdz.html   720
 #https://uptobox.com/yfry3amgtl2h   720
 
 type=video
-name=Stop Over in Hell (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BYjk5N2ZiZTAtM2I1Yy00YjQzLTg1ODMtNWQ5NDE3YWIxZDUyXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_.jpg
+name=Road to Hell (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEGwblv8XbFLP0m4OCgqVp5hWfO.jpg
 date=2018-02-01
 URL=https://openload.co/f/DVex6xBHV3I/stop.over.in.hell.2016.1080p.bluray.x264-rusted.mkv.mp4
 
 type=video
 name=Kills on Wheels (2016) [COLOR=FF00FF00]HUN BR 1080p[/COLOR]
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BYTk0MGMwN2MtODVhZi00MGZkLThiYjUtZTM3NzUyNmRmNDNjXkEyXkFqcGdeQXVyODM3MjA1NA@@._V1_SY1000_CR0,0,675,1000_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uycU7uKMU5H5Un4DMPQXNV5IogI.jpg
 date=2018-02-01
 URL=https://openload.co/f/ruT0aOBKXWc/kills.on.wheels.2016.limited.1080p.bluray.x264-usury.mkv.mp4
 
 type=video
 name=Diverge (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BYjJlYjAwNTItY2RkYy00ODFhLWJmZmUtMTJhMGE1MWQwM2FkXkEyXkFqcGdeQXVyMjU1OTg2NDY@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMzRj9Z9hBdw4AKDzjTk6VXRzBN.jpg
 date=2018-01-31
 URL=https://openload.co/f/VnT4nPv-YQY/Diverge.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Cinderella the Cat (2017) [COLOR=FF00FF00]ITA BR 1080p[/COLOR]
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BY2UzNjdiYTEtMjE4OC00MGQzLWFmYzgtNzcyOTkwYTMxNWNiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_SY1000_SX750_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdrdJ9l5KCzdRhHIIMbNNEd8Oc3.jpg
 date=2018-01-30
 URL=https://www.blazefile.co/embed-6bvw6d8kg3ju.html
 #https://uptobox.com/qeo4pstmkyz2
@@ -3781,19 +3796,19 @@ URL=https://www.blazefile.co/embed-6bvw6d8kg3ju.html
 
 type=video
 name=The Stray (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMTBlZDJjNWMtYzExYi00MjM0LTkyMWEtYWVlODI5YTRhMzRmXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_SY1000_CR0,0,677,1000_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4wWz3r1oIU8BBKoEhRJgbig2ub.jpg
 date=2018-01-30
 URL=https://openload.co/f/HlbFHKOL_bw/The.Stray.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Victor Crowley (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMjk2OTI2OTYxN15BMl5BanBnXkFtZTgwMzQwMTQ1NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxdvsGsjT7WGQ7GzzhRvN7r4KiI.jpg
 date=2018-01-30
 URL=https://openload.co/f/QcuKILdEfU4/Victor.Crowley.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Crossing Point (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BYzM4MDY2MTItNTIwMS00ZGZmLTk1MWItZjExNDk3MDI3MzA4L2ltYWdlXkEyXkFqcGdeQXVyNzIzMTc2Mw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/j97Fd7Eidvpvat6r8lDKkX0p5iX.jpg
 date=2018-01-30
 URL=https://openload.co/f/Thb1i-FuCUE/Crossing.Point.2016.1080p.BluRay.x264-NTROPiC.mkv.mp4
 #https://www.blazefile.co/embed-yxuja39eptgt.html   720
@@ -3822,8 +3837,8 @@ URL=https://www.blazefile.co/embed-mjnldjyaw2zm.html
 #https://openload.co/f/uQ4W4rE1qZQ/All.I.See.Is.You.2017.LIMITED.BDRip.x264-DRONES.mkv.mp4
 
 type=video
-name=The Odyssey (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BNzIzNjZiZGItNTI2NC00NDg5LTk1YjEtMTYwNWRjZTAwZTQwXkEyXkFqcGdeQXVyMTk2MzkwMw@@._V1_.jpg
+name=The Odyssey (2016) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vulN3Ehh1m7kN7oAJnmhQ2V2hbw.jpg
 date=2018-01-29
 URL=https://openload.co/f/j0i9sodJosE/the.odyssey.2016.limited.1080p.bluray.x264-usury.mkv.mp4
 #https://openload.co/f/1hNffFeK07M/the.odyssey.2016.limited.720p.bluray.x264-usury.mkv.mp4
@@ -3845,21 +3860,11 @@ URL=https://www.blazefile.co/embed-wyntwpl4suil.html
 
 
 
-type=video
-name=Batman: Gotham by Gaslight (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BYTJhNjYyMGItODdhOC00ZTZmLTk1MTMtZDRhMmZkYTRiOGJkXkEyXkFqcGdeQXVyMTg2NjYzOA@@._V1_.jpg
-date=2018-01-27
-URL=https://www.blazefile.co/embed-ifqcrh15lxci.html
-#https://uptobox.com/oxhk3er0zt6i
-#https://openload.co/f/1adr2dRsK3Y/batman.gotham.by.gaslight.2018.1080p.bluray.x264-veto.mkv.mp4
-#https://openload.co/f/8YpAKDVQFBc/Batman.Gotham.by.Gaslight.2018.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
-#https://openload.co/f/YWvx1iydB_4/Batman.Gotham.by.Gaslight.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://www.blazefile.co/embed-hihlu3imeqzp.html   720
-#https://uptobox.com/gxehvjqizrdp   720
+
 
 type=video
 name=God's Own Country (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BNjRhYzk2NDAtYzA1Mi00MmNmLWE1ZjQtMDBhZmUyMTdjZjBiXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SY1000_SX675_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKShYyGsleXAZ6e6gK5jF6Wa2tW.jpg
 date=2018-01-27
 URL=https://www.blazefile.co/embed-dpj83w2fio5e.html
 #https://uptobox.com/2ysyfsbd9q8i
@@ -3867,7 +3872,7 @@ URL=https://www.blazefile.co/embed-dpj83w2fio5e.html
 
 type=video
 name=Scare Campaign (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BNTQyMzIwODg2Ml5BMl5BanBnXkFtZTgwMjg4MDExMDI@._V1_SY1000_CR0,0,666,1000_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiugoaP5BQK2w5xIdTTZft8OUin.jpg
 date=2018-01-27
 URL=https://openload.co/f/6fkpHdgFcJQ/Scare.Campaign.2016.1080p.BluRay.x264-CURSE.mkv.mp4
 #https://www.blazefile.co/embed-vak4x4fpjl9h.html   720
@@ -3875,7 +3880,7 @@ URL=https://openload.co/f/6fkpHdgFcJQ/Scare.Campaign.2016.1080p.BluRay.x264-CURS
 
 type=video
 name=Accident (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BZTQ5MWUyM2ItMmY5ZC00NWNjLTk1MDUtZDk1MzhjYzAxNmJiXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_SY1000_SX750_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnIFlouo4WwcBXdtcjX5WDUyVpx.jpg
 date=2018-01-27
 URL=https://openload.co/f/g5nMGIBnEDI/Accident.2017.1080p.BluRay.x264-CURSE.mkv.mp4
 #https://www.blazefile.co/embed-dubdyr4uz2mb.html   720
@@ -4882,11 +4887,7 @@ URL=https://www.blazefile.co/embed-lfk9504cbtzq.html
 
 
 
-type=video
-name=Day of the Dead: Bloodline (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jM4C1wJxHLWlF4tcSyyv6fnJPR.jpg
-date=2018-01-19
-URL=https://openload.co/f/LeLjodsWxDM/Day.of.the.Dead.Bloodline.2018.720p.BluRay.x264-GUACAMOLE.mkv.mp4
+
 
 type=video
 name=Boone: The Bounty Hunter (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5135,12 +5136,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEhHepHn00aQ0Dni8GrJHTRoFu
 date=2018-04-04
 URL=https://openload.co/f/c09mr9_3aPo/old.stone.2016.limited.subbed.720p.bluray.x264-bipolar.mkv.mp4
 
-type=video
-name=The Bold, the Corrupt and the Beautiful (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CvEVro9xb3HHZOJ4alfNkEWryM.jpg
-date=2018-04-04
-URL=https://uptobox.com/lq727v4v2lgw
-https://openload.co/f/sJmvK-ifWh0/The.Bold.the.Corrupt.and.the.Beautiful.2017.720p.BluRay.x264-WiKi.mkv.mp4
+
 
 type=video
 name=Dead on Arrival (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5474,6 +5470,19 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pz7t6G4f6TNl7F7aspncfhS7sm
 date=2018-07-17
 URL=https://openload.co/f/0t6OxBHRJUA/As.The.Gods.Will.2014.720p.BluRay.x264-RedBlade.mkv.mp4
 
+type=video
+name=Sekigahara (2017) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/juY76LvfACsS9AnKKktIKdzH1mR.jpg
+date=2018-07-21
+URL=https://openload.co/f/6hbK6PcJSR0/sekigahara.2017.720p.bluray.x264-regret.mkv.mp4
+
+type=video
+name=Warrior Road (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrLj3wAHGhnlSKQyeW9q29qw27t.jpg
+date=2018-07-21
+URL=https://openload.co/f/UQcUodQ6xAE/Warrior.Road.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
+
+
 
 
 
@@ -5482,7 +5491,7 @@ URL=https://openload.co/f/0t6OxBHRJUA/As.The.Gods.Will.2014.720p.BluRay.x264-Red
 type=video
 name=
 thumb=
-date=2018-07-17
+date=2018-07-21
 URL=http://203.162.235.41:17819
 
 
@@ -5554,6 +5563,37 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+
+
+
+type=video
+name=Skyscraper (2018) ENG NEW_720p_FULL_HDCAM_X264_HQMic-24HD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
+date=2018-07-14
+URL=https://openload.co/f/rEktzWFk-m4/Skyscraper_2018_NEW_720p_FULL_HDCAM_X264_HQMic-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/gtJAVaxk6sw/Skyscraper.2018.New.720p.FULL.HDCAM.mkv.mp4
+#https://openload.co/f/mGZxI3viZJs/Skyscraper.2018.720p.HDCAM.NO.WATERMARK.mp4
+#https://openload.co/f/iPsXl_oVKik/Skyscraper_2018_720p_English_HDCAM_Rip_x264_MP3_850MB.E.mp4
+type=video
+name=Skyscraper (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
+date=2018-07-21
+URL=https://streamango.com/f/aqqabkkkdlekfmrq/Skyscraper_2018_
+
+
+type=video
+name=Future World (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/297jGjtWbi2sczPwSOiLbBc6xvj.jpg
+date=2018-06-30
+URL=https://openload.co/f/f3Ci7lzv6dA/Future.World.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/xI6GxHhOEJE/future.world.2018.1080p.bluray.x264-rovers.mkv.mp4
+type=video
+name=Future World (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/297jGjtWbi2sczPwSOiLbBc6xvj.jpg
+date=2018-07-21
+URL=https://streamango.com/f/rsldanklbtskknbq/Future_World_2018_
 
 
 type=video
@@ -5797,11 +5837,96 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-07-13
+date=2018-07-21
 URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Detective K: Secret of the Living Dead (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSiDbQRGUTjMhgip65LfEnsmuVH.jpg
+date=2018-07-21
+URL=https://streamango.com/f/ddtnappcppdkdnar/Detective_K_Secret_of_the_Living_Dead_2018_
+
+
+type=video
+name=Batman: Gotham by Gaslight (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7souLi5zqQCnpZVghaXv0Wowi0y.jpg
+date=2018-01-27
+URL=https://www.blazefile.co/embed-ifqcrh15lxci.html
+#https://uptobox.com/oxhk3er0zt6i
+#https://openload.co/f/1adr2dRsK3Y/batman.gotham.by.gaslight.2018.1080p.bluray.x264-veto.mkv.mp4
+#https://openload.co/f/8YpAKDVQFBc/Batman.Gotham.by.Gaslight.2018.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
+#https://openload.co/f/YWvx1iydB_4/Batman.Gotham.by.Gaslight.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://www.blazefile.co/embed-hihlu3imeqzp.html   720
+#https://uptobox.com/gxehvjqizrdp   720
+type=video
+name=Batman: Gotham by Gaslight (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7souLi5zqQCnpZVghaXv0Wowi0y.jpg
+date=2018-07-21
+URL=https://streamango.com/f/elkkeqcormnqbfpp/Batman_Gotham_by_Gaslight_2018_Gotham_by_Gaslight_2018_
+
+
+type=video
+name=Batman Ninja (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5gZEW1npI2DNE5G00LvPDDICnt.jpg
+date=2018-05-16
+URL=https://openload.co/f/gUv2jxnHGUU/Batman.Ninja.2018.1080p.BluRay.x264-NODLABS.mkv.mp4
+#https://openload.co/f/Cfe5FWJJDzQ/batman.ninja.2018.multi.1080p.bluray.x264-lost.mkv.mp4
+#https://openload.co/f/qRXRqt9DpOg/Batman.Ninja.2018.720p.BluRay.x264-NODLABS.mkv.mp4
+#https://openload.co/f/D3cD0l2HbGM/Batman.Ninja.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://www.blazefile.co/embed-jbqvcm6qao0z.html   720
+#https://uptobox.com/vmx32usapk1j   720
+type=video
+name=Batman Ninja (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5gZEW1npI2DNE5G00LvPDDICnt.jpg
+date=2018-07-21
+URL=https://streamango.com/f/nlqotpbqqnlbrkqp/Batman_Ninja_2018_Batman_Ninja_2018_
+
+
+type=video
+name=Mary Magdalene (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLbqnVAmD8ISel1SLTY3Ek0TWz8.jpg
+date=2018-06-30
+URL=https://openload.co/f/xkqnQ8DoVX8/Mary.Magdalene.2018.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+#https://uptobox.com/yc6czgwb8iwg   720
+#https://openload.co/embed/CGM5665MP5Y/SHQMARYMAGLENEBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/RhIhhtNO6f8/Mary_Magdalene.2018.720p.BDRip.X264.AC3-EVO.mkv.mp4
+type=video
+name=Mary Magdalene (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLbqnVAmD8ISel1SLTY3Ek0TWz8.jpg
+date=2018-07-21
+URL=https://streamango.com/f/ncmoaeoflqlrqqtt/Mary_Magdalene_2018_Mary_Magdalene_2018_
+
+
+type=video
+name=Stratton (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRpFotBljdbhXKQJd1lzmS4Onyv.jpg
+date=2018-07-21
+URL=https://streamango.com/f/peaebqelrmdqnlmf/Stratton_2017_
 
 
 type=video
@@ -6599,7 +6724,7 @@ URL=https://streamango.com/f/nrcfnrabloqbbrbr/Victoria_Abdul_2017_
 
 type=video
 name=Roman J. Israel, Esq. (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNjkxMTg2NV5BMl5BanBnXkFtZTgwNjkyNTk0MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8e5IGlLrVjwrlDcRtzSQkXhJFWl.jpg
 date=2018-01-27
 URL=https://openload.co/f/MymMhXdgOME/Roman.J.Israel.Esq.2017.1080p.BluRay.x264-DRONES.mkv
 #https://openload.co/f/ZUcZ5UgqD80/Roman.J.Israel.Esq.2017.1080p.BluRay.x264-DRONES.mkv   MKV8.7GB
@@ -6607,7 +6732,7 @@ URL=https://openload.co/f/MymMhXdgOME/Roman.J.Israel.Esq.2017.1080p.BluRay.x264-
 #https://openload.co/f/EtDmEWBVIow/Roman.J.Israel.Esq.2017.P.kol.TS.14OOMB_KOSHARA.E.mp4
 type=video
 name=Roman J. Israel, Esq. (2017) THSUB
-thumb=https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNjkxMTg2NV5BMl5BanBnXkFtZTgwNjkyNTk0MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8e5IGlLrVjwrlDcRtzSQkXhJFWl.jpg
 date=2018-02-03
 URL=https://streamango.com/f/tfcbpfrcqdafllse/Roman_J_Israel_Esq_2017_
 
@@ -7445,6 +7570,7 @@ URL=https://uptobox.com/k9rymnaml7lj
 #https://www.rapidvideo.com/e/FTFGJB0XXK
 #https://openload.co/f/IVf-_RlzC48/Operation.Red.Sea.2018.BluRay.1080p.5.1CH.x264.mkv.mp4
 #https://openload.co/embed/BuC506tMVB8/Operation.Red.Sea.2018.BluRay.1080p.5.1CH.x264.Ganol.ru.mkv
+#https://openload.co/f/Y5a_1gjxaeE/Operation_Red_Sea.2018.720pBR_SeeHD.mkv.mp4
 #https://openload.co/f/HGaQ4ip4wSA/Operation.Red.Sea.2018.BluRay.720p.DTS.x264-CHD.mkv.mp4
 type=video
 name=Operation Red Sea (2018) THCAM SOUND
@@ -8061,6 +8187,35 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+type=video
+name=Day of the Dead: Bloodline (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jM4C1wJxHLWlF4tcSyyv6fnJPR.jpg
+date=2018-01-19
+URL=https://openload.co/f/LeLjodsWxDM/Day.of.the.Dead.Bloodline.2018.720p.BluRay.x264-GUACAMOLE.mkv.mp4
+type=video
+name=Day of the Dead: Bloodline (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jM4C1wJxHLWlF4tcSyyv6fnJPR.jpg
+date=2018-07-21
+URL=https://openload.co/f/d5wBIwENgig/Day_of_the_Dead%3A_Bloodline_%282018%29%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94_%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87.mp4
+
+
+type=video
+name=211 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/81RColr4rau6DZ7z9eMsksokcfk.jpg
+date=2018-07-13
+URL=https://uptobox.com/d4eklm91qbcy
+#https://openload.co/embed/u2nVxpZxDas/21180.Ganol.ru.mkv.mp4
+#https://openload.co/f/6NZT1AG-d9Y/211.2018.1080p.bluray.x264-cinefile.mkv.mp4
+#https://www.blazefile.co/embed-5gp6s2dla40u.html   720
+#https://uptobox.com/lrkuwglf5wss   720
+#https://openload.co/embed/OE23zSQC8ko/211BD72.Ganool.im.mkv.mp4
+#https://openload.co/f/ardRHxBIMkk/211.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
+type=video
+name=211 (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/81RColr4rau6DZ7z9eMsksokcfk.jpg
+date=2018-07-21
+URL=https://openload.co/f/pSs_jqOj1oA/211_%282018%29%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99_%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B8%AD%E0%B8%99.mp4
+
 
 type=video
 name=Rampage (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -8434,7 +8589,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-20
+date=2018-07-21
 URL=
 
 
@@ -8444,7 +8599,11 @@ URL=
 
 
 
-
+type=video
+name=The Equalizer (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eQfjqlvPAxd9aLDs8DvsKLnfed.jpg
+date=2018-07-21
+URL=https://openload.co/f/nARY5PZ-GMY/The.Equalizer.2014.1080p.BR_SeeHD.mp4
 
 type=video
 name=Mamma Mia! (2008) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]

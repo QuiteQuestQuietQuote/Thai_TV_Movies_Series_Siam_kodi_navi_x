@@ -338,16 +338,16 @@ URL=
 
 
 type=video
-name=Wanz-723 A Real Life College Gir
-thumb=http://javdon.com/wp-content/uploads/2018/04/31410.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_173466716706430_6538118767832989696_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeGx_hmb1nhD23wWN5vdS2lo6nPlfRLv31jrwSV6rsOR_nSM1Uv5JqfPFYrFVHudK4v4UbYJVNdaIaiBgi4NNI2kDdva4rAUlW986LIWaQKuRw&oh=f438b035d32af27e73598ba68ce04675&oe=5B52742A&itag=22
+name=Caribpr 122316-003 
+thumb=http://javdon.com/wp-content/uploads/2016/12/9425.jpg
+date=2018-07-21
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_206634790134373_2690650054343000064_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeH7SfZ7Bgev4ARP8tqz8NYd0IyaERsVZsJzK-oF1l2IHSTzfansM9lXk_UghysoY3z3u74wunftmGCPpMUre_kpPv8WWDaX5UIbATKy5RohLQ&oh=fdf94cbcad98d6a37faea455f6a82fdb&oe=5B53C290&itag=22
 
 type=video
-name=Carib 070916-204 Mihono
-thumb=http://javdon.com/wp-content/uploads/2016/11/6020.jpg
+name=Tokyo Hot K1400 Go Hunting
+thumb=http://javdon.com/wp-content/uploads/2016/12/8677.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1010026475826628_3569276384578633728_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeEQQqhjtiKD-s8YOPZfPI8iqaJfpkUedtXpgMRQqA6fR6C78Nw8EvFg5k66AvibjBCsYUKYcDAZ1apJXXABLBANoQsOMi1qZv8-x1n4nzZb1g&oh=bae9aa9132d54a59c02dd96b985f3386&oe=5B5269D7&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_203404697077415_7109315840146669568_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeH0-zrWicmeh_5rtPu2Zvd-S1nHcHNBPegEtU5NPT28RZoANzpFIym8O-fToWMklwcAXua9GG-CN2HCFtuwz13wYpHwyUHPxTtHLsOhT10JLA&oh=7646fd4cbb9d36e2fe841b364a823560&oe=5B53BB64&itag=22
 
 type=video
 name=club-426 it is a case that you hunte
@@ -356,45 +356,45 @@ date=2018-06-15
 URL=http://cdn.vodstream.xyz/q581/3678/030-hls/appid-27558/hls.m3u8
 
 type=video
-name=Pred-026 Exclusive Decisionlegend
-thumb=http://javdon.com/wp-content/uploads/2018/01/29823.jpg
+name=Caribpr 112516-005 Honoka Orihara
+thumb=http://javdon.com/wp-content/uploads/2016/11/8653.jpg
 date=2018-07-19
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_358201211347988_2052005880764825600_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeG8VgINznnPh_gu5Hq8--xJLGZnA7bPkloZlXhHrj2LQy6BPuYzNI5tQzq3J011RqfpGZTWGFNwP5djmcgQZABI3Gp1P2u4DRD2DFg_f2O_Tw&oh=824cac1880444c15315534f3c661aa56&oe=5B52612A&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_540334073034475_2338711028130381824_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeFzrruTEwL5DS9uJtv3SQ131H5N-Rou_wVh1-h8mxU_NX_zSM8bcrj_XYexgh53ArZuStDhyeFKfAFP0DYDQgmOe9xfZH6tGPaM5SwtRxOjZA&oh=8aa5036cb9e62ae14a23651ced15a758&oe=5B53D5E3&itag=22
 
 type=video
-name=Sw-238 I, Ji Port That Ere
-thumb=http://javdon.com/wp-content/uploads/2017/02/15827.jpg
+name=Carib 111516-303 Megumi Aiba
+thumb=http://javdon.com/wp-content/uploads/2016/11/8467.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_374534766358866_4653447935361548288_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeEO58iElCxO58kcGdPziOXrw-c_SDWGkDmhvJ9uKZA-XdMDBqVF4jQYSRVZwdYeefQ46_0VyziFFqWUeVjHq-t5F-pXeBZxoa0D6xZqfL72IA&oh=19ac3d80cee339917dfed97c7659705e&oe=5B527D88&itag=22
-
-
-
-type=video
-name=Abp-532 Now Yongkang Of Nao, Tame One
-thumb=http://javdon.com/wp-content/uploads/2017/01/13300.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2310277425656540_1412146815557435392_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeFQhwktchD-m6cXoRIll3q4Sd7z_yHjX4ULqhGCS0uN4NIF5EIgwMLklbI3YDR3ux9hxNiCL1AutPIyUbS6IwcpQOyceuwuhiBGsvN_zFgJqQ&oh=5bae8562745899cf59bdad73d45fb54c&oe=5B528527&itag=22
-
-type=video
-name=SNIS-289 Pervert School Girl on Bus                            215x316
-thumb=http://javdon.com/wp-content/uploads/2015/12/3967-215x316.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_153518212165277_7675824869757419520_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHZJqRi3zmpMp9W1o2muDSa3gv_0Iy1MFfP2aU8pi4wWwG5xAlXEZnX_ou2A0kYf_Dlou9rj84C7uzGJ4LlxMtqyvEZaqel3hwkDVr_r3_XZA&oh=d7a9ce07302eb0b8ea4ba0665725a5f3&oe=5B526FFF&itag=22
-
-type=video
-name=CARIBPR 120415-439 Yuka Kaede
-thumb=http://javdon.com/wp-content/uploads/2016/10/3932-215x316.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_461161177653859_6144434145561935872_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeF0xwDaTh0gFQ-aUwEbugbTY0jpiVMBo35-m6X7QQdDsMHjErh2UUx-VTZfO_Jkskx45qkk5I0xnpdEbYB-LiaHo0hDC635-Ed7gFngOHGH6g&oh=d31944aee6ccec0b20fa0f26f6f42bc8&oe=5B5276F5&itag=22
-
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1012618385562838_4443871849352265728_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeFRoPIgY5A2lXwc-nGRZyonJw8PrnucPG-7k0G0xCloaj9_u4ng_gxmAoBM42cTzb0u3KTrZi-ZoVDVX1EhwD4dRPVwuD_q7h9M1aL8FNBD9A&oh=c53f332555d95c91c65cc4701361adb1&oe=5B53C1F4&itag=22
 
 
 
 type=video
-name=Venu-513 S-class Mature Ultimate Collection 20 People Four Hours Iii
-thumb=http://javdon.com/wp-content/uploads/2018/03/29308-215x316.jpg
+name=Mird-137 Polygamy People Hatehana Hamasaki Nana Aoyama Mao Hosaka Collar Dream
+thumb=http://javdon.com/wp-content/uploads/2017/01/11843.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_150515835800849_772729964477808640_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHx_RIu3-CbJUnC9u3paMyPi1dF36NqbFZL23rSS9xGKzB7CpyF_boa3RSx_F35xpX5fVrp--9ZeIQCL9vRworOyfdQFZMv-PiW4QlZvh4iyA&oh=20d77a44d9e836153446aabb4ab38b55&oe=5B526E94&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_782234541985964_4614056148885045248_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeGLih9XaeewuQY3WTPQDqLOcXLR8E3bgqmZ5x2kfD5dyjLlsZI4nacI8mHTWOLRr8k99L_KzjvTwgmhWmBJJv3ePaFhbOH6HHn1KXk4EBu-Bg&oh=64bd67f1e6aab07a5e42c590af0a3e45&oe=5B53C885&itag=22
+
+type=video
+name=Mird-148 Boarding House Life Of Constriction Tits Family And Dreams
+thumb=http://javdon.com/wp-content/uploads/2017/01/11844.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_165661894140534_4517395337203154944_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeGdclfUABWHKf2nM1n4HuOyHl1NLp0suOu4wg5hIVSe7ljMtivcDmy0b5l4mbNZWQpmq3GlrKMyxOlXaH3IpbTs2cjWFxG7z5eQCHBKvVdF4Q&oh=39e0600e8eac07a5a73b099bc8f9b0eb&oe=5B53BF33&itag=22
+
+type=video
+name=Gvg-111 Sakurai Ayu Of Dirty Encyclopedia
+thumb=http://javdon.com/wp-content/uploads/2017/01/11804.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_189447125027951_8841472890743291904_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeGuypERcjO9agWnIF_TwWlfPbLxol25w39PQlo_mLP6WHq47kZ-jDY0geWEL--ZxtDZYvDfc2iLQNL9sePnXONnEZraJL3x8fXxG_5Na0wIlg&oh=11c4c6309dc074588c36cf0b7b07d278&oe=5B53C24E&itag=22
+
+
+
+
+type=video
+name=
+thumb=
+date=2018-06-15
+URL=
 
 
 

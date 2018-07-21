@@ -119,8 +119,14 @@ URL=https://openload.co/f/FJlEJnoDSV8/A_Silent_Voice_%282016%29%E0%B8%A3%E0%B8%B
 player=default
 rating=-1.00
 
+
 type=video
-name=Fabricated City (2017)
+name=Fabricated City (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tE4MhhuWHize6pNyxAtakUyNZc.jpg
+date=2018-07-21
+URL=https://openload.co/f/SsHlWN6WVnk/fabricated.city.2017.1080p.bluray.x264-regret.mkv.mp4
+type=video
+name=Fabricated City (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tE4MhhuWHize6pNyxAtakUyNZc.jpg
 date=2017-09-23
 URL=https://openload.co/f/YBXxrCi4zwM/%7BMINI_Super-HQ%7D_Fabricated.City.2017.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
