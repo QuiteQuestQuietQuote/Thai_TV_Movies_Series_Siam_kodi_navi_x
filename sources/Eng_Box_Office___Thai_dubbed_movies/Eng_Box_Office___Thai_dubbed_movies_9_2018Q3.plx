@@ -77,17 +77,31 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-21
+date=2018-07-23
 URL=
 
 
 
 
 type=video
-name=The Equalizer 2 (2018) ENG 720p_low_CAMRip_X264_AC3_BlckNips.E
+name=The Equalizer 2 (2018) ENG NEW_720p_HDCAM_X264-24HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg
-date=2018-07-21
-URL=https://openload.co/f/nZLFCvX2zWM/The_Equalizer_2_2018_720p_low_CAMRip_X264_AC3_BlckNips.E.mp4
+date=2018-07-23
+URL=https://openload.co/f/Ij5fcwc8tEM/The_Equalizer_2_2018_NEW_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/cz3TOL1pxMU/The.Equalizer.2.2018.720p.HDCAM.1XBET%5BWATERMARKED%5D.mp4
+#https://openload.co/f/nZLFCvX2zWM/The_Equalizer_2_2018_720p_low_CAMRip_X264_AC3_BlckNips.E.mp4
+
+type=video
+name=Adrift (2018) ENG 720p.HDCAM.1XBET
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gLDeADaETvwQlQow5szlyuhLbj.jpg
+date=2018-07-23
+URL=https://openload.co/f/4x6JpEt4FZA/Adrift.2018.720p.HDCAM.1XBETmp4
+
+type=video
+name=Uncle Drew (2018) ENG CAM-MaTinE
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lCNsfc1OEDNceGJTjfE0kBknEW.jpg
+date=2018-07-23
+URL=https://openload.co/f/uQ8R5HhL-iI/Uncle.Drew.2018.CAM-MaTinE.mkv.mp4
 
 type=video
 name=The First Purge (2018) ENG 720p.HDCAM.1XBET_SeeHD
@@ -1392,7 +1406,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-21
+date=2018-07-23
 URL=
 
 
@@ -1400,7 +1414,11 @@ URL=
 
 
 
-
+type=video
+name=Blood Hunt (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gC9Fzh8DWaWjAKuqQ5F8J0waVjk.jpg
+date=2018-07-23
+URL=https://openload.co/f/Sfg6ZAh-Lms/Blood.Hunt.2017.1080p.BluRay.x264-JustWatch.mkv.mp4
 
 type=video
 name=Duck Duck Goose (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -8589,7 +8607,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-21
+date=2018-07-23
 URL=
 
 
@@ -8598,6 +8616,13 @@ URL=
 
 
 
+
+
+type=video
+name=Your Name. (2016) [COLOR=FF00FF00]JAP EngDub BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq1Ugd62d23K2knRUx6xxuALTZB.jpg
+date=2018-07-23
+URL=https://openload.co/f/6VHJclS8Ij4/Your_Name_%5B720p%5D_EngDub.mp4
 
 type=video
 name=The Equalizer (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]

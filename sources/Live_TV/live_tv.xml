@@ -26,6 +26,144 @@
 
 
 
+<item>
+<title>Gdrive regex</title>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    fmturl = re.findall(',\[\"fmt_list\D+([0-9][0-9])[\w\W\s]*?url_encoded_fmt_stream_map', page_data)[0]
+    strurl = re.findall(str(fmturl) + '\|([^\|]+.videoplayback[^\,]+)', page_data)[0].replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>https://drive.google.com/file/d/14lmpN55CxM9EBzsWnBpBvsHD8fKNtMj6/view</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>drive.google</title>
+<thumbnail></thumbnail>
+<link>$doregex[link]</link>
+<regex>
+<name>link</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://drive.google.com/open?id=1a9B342IE-1H43YYNOFRJCGwl1VDAdloi'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+</regex> 
+</item>
+
+
+
+
+<item>
+<title>JAV test1</title>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    fmturl = re.findall(',\[\"fmt_list\D+([0-9][0-9])[\w\W\s]*?url_encoded_fmt_stream_map', page_data)[0]
+    strurl = re.findall(str(fmturl) + '\|([^\|]+.videoplayback[^\,]+)', page_data)[0].replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>http://vodstream.xyz/fembed.php?id=lMp8WlM</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>JAV test1</title>
+<thumbnail></thumbnail>
+<link>$doregex[link]</link>
+<regex>
+<name>link</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=lMp8WlM'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+</regex> 
+</item>
+
+
+
+
+<item>
+<title>JAV test2</title>
+<link>$doregex[url]|Cookie=$get_cookies$</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    fmturl = re.findall(',\[\"fmt_list\D+([0-9][0-9])[\w\W\s]*?url_encoded_fmt_stream_map', page_data)[0]
+    strurl = re.findall(str(fmturl) + '\|([^\|]+.videoplayback[^\,]+)', page_data)[0].replace('\\u0026', '&').replace('\\u003d', '=')
+    return strurl
+]]></expres>
+<page>http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4394/hls.m3u8</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>JAV test2</title>
+<thumbnail></thumbnail>
+<link>$doregex[link]</link>
+<regex>
+<name>link</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4394/hls.m3u8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+</regex> 
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
