@@ -57,7 +57,11 @@ URL=
 
 
 
-
+type=video
+name=Sqte-
+thumb=
+date=2018-06-15
+URL=
 
 
 
@@ -333,8 +337,101 @@ URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4394/hls.m3u8
 type=video
 name=
 thumb=
-date=2018-06-15
+date=2018-07-24
 URL=
+
+type=video
+name=
+thumb=
+date=2018-07-24
+URL=
+
+type=video
+name=Sor-
+thumb=
+date=2018-07-24
+URL=
+
+
+
+
+
+
+type=video
+name=Sor-017 I Was Doing Really Chai, A Girl Of The Beach 2014 Vol 2
+thumb=http://javdon.com/wp-content/uploads/2017/04/17154.jpg
+date=2018-07-24
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1824373784292546_9105457459249545216_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeFF1wSEfvdQ4FaYvN9wWIJ3yS-LQ4fBMB5sH9HyenVNy6MhvYt_kageap2CtMKAUbqIBn17fbs54i9jpWzXOa9QkTl3SqUKt8DibR5QA5cGvw&oh=0e4e334c654d4cb5003892c82f1a7acc&oe=5B57BAFC&itag=22
+
+type=video
+name=Sor-018 I Was Doing Really Chai, A Girl Of The Beach 2014 Vol 3
+thumb=http://javdon.com/wp-content/uploads/2017/03/17155.jpg
+date=2018-07-24
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2024034757918379_2717477755808645120_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHI90i8yyVCMX2IR-d84bsh-Acb92FY9L5ra_QF66OiVCZo71lrZej-cK217jh4G_aOwqGV3B3RlzafK0B-J-BglI-GuWr9DS3DBjN27gJhZw&oh=67e98881828bbc5c90b9d138bf0c81e4&oe=5B57B7EA&itag=22
+
+type=video
+name=SOR-004 I Was Doing Really Chai, A Beautiful Girl On The Beach. 2013 Vol.1
+thumb=http://javdon.com/wp-content/uploads/2016/01/4383.jpg
+date=2018-07-24
+URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4383/hls.m3u8
+
+type=video
+name=SOR-010 I Was Doing Really Chai, A Street Corner Girl. 2nd. Vol.05
+thumb=http://javdon.com/wp-content/uploads/2016/01/4384.jpg
+date=2018-07-24
+URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4384/hls.m3u8
+
+type=video
+name=SOR-005 I Was Doing Really Chai, A Beautiful Girl On The Beach. 2013 Vol.2
+thumb=http://javdon.com/wp-content/uploads/2016/01/4374.jpg
+date=2018-07-24
+URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4374/hls.m3u8
+
+type=video
+name=SOR-008 I Was Doing Really Chai, A Girl Of Beach. 2013 Vol.4
+thumb=http://javdon.com/wp-content/uploads/2016/01/4377.jpg
+date=2018-07-24
+URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4377/hls.m3u8
+
+type=video
+name=SOR-003 I Was Doing Really Chai, A Street Corner Girl
+thumb=http://javdon.com/wp-content/uploads/2016/01/4373.jpg
+date=2018-07-24
+URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4373/hls.m3u8
+
+type=video
+name=SOR-006 I Was Doing Really Chai, A Beautiful Girl On The Beach. 2013 Vol.3
+thumb=http://javdon.com/wp-content/uploads/2016/01/4375.jpg
+date=2018-07-24
+URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4375/hls.m3u8?v=3
+
+type=video
+name=SOR-007 I Was Doing Really Chai, A Street Corner Girl. 2nd. Vol.03
+thumb=http://javdon.com/wp-content/uploads/2016/01/4376.jpg
+date=2018-07-24
+URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4376/hls.m3u8?v=3
+
+type=video
+name=
+thumb=
+date=2018-07-24
+URL=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -346,13 +443,13 @@ URL=http://cdn.vodstream.xyz/q581/3678/030-hls/appid-27558/hls.m3u8
 
 type=video
 name=Abp-154 The Best Sex Ayami Shunhate
-thumb=http://javdon.com/wp-content/uploads/2017/01/11988-215x316.jpg
+thumb=http://javdon.com/wp-content/uploads/2017/01/11988.jpg
 date=2018-07-21
 URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_158252681664451_3163637008601972736_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHaENB88WV30cOBBwpJqsK2Nm5twELhXqJXIeJl_dD7Q3OviGRkeePIokzAZEHI4buMktd9FhdqO0KDr3Yr7HoXMKi4JC5AGKquyqMJNrlI2w&oh=e4b0861a36fcb2bb11d3197e0e5c65cc&oe=5B565C62&itag=22
 
 type=video
 name=Abp-143 Life39s First Deep-trance Alive Climax Sex Makoto Takeuchi
-thumb=http://javdon.com/wp-content/uploads/2017/01/11984-215x316.jpg
+thumb=http://javdon.com/wp-content/uploads/2017/01/11984.jpg
 date=2018-06-15
 URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1796426157074855_2424932814425161728_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeGfGWxv0xnD-eTkCC9J-aCqwyGIsViPiXC7nj-ARQeMeiJH5swrU0QHcOuZV08Dx_LZ21B7X6O8HD-spba32x4xwRblW8dtCSysUAAt9dfe2Q&oh=ffc9e9e39a1ce05b6114b2895e0f32cf&oe=5B56459B&itag=22
 
@@ -360,13 +457,13 @@ URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1796426157074855_2
 
 type=video
 name=Abp-167 Life39s First Deep-trance Alive Climax Sex Yuzutsuki Love
-thumb=http://javdon.com/wp-content/uploads/2017/01/11528-215x316.jpg
+thumb=http://javdon.com/wp-content/uploads/2017/01/11528.jpg
 date=2018-07-19
 URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_197149564226294_9004581815771463680_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHCp6Irpoc_FpHz40W5Y4UH_sacac2W6u1J4fjDIksJEEedDV79WqEe0AZiD5K1PsD_gQ8Vkhsoy1v1ZJAEZAwEU7G_oj6pq1Y3P8yaibaw9Q&oh=1163403f4b2fc4675a9e4eb7a179edd6&oe=5B565D2D&itag=22
 
 type=video
 name=Abp-574 The World Is Ending The Day, Airi Suzumura And 8230 2
-thumb=http://javdon.com/wp-content/uploads/2018/03/28687-215x316.jpg
+thumb=http://javdon.com/wp-content/uploads/2018/03/28687.jpg
 date=2018-06-15
 URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_187780282039235_5495637184692092928_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeG-z64VURn5VFG_ncfafJE78eYsx8CExuhtRfEGdYyB4uCoz4eEdHHqVkriwdj62IsN_j_xAHUGKUMAiRJZ9whQy6QL66Tr49iRZxMep1dhXw&oh=3929ee55d1a51d9c558f248fc7587507&oe=5B5667E3&itag=22
 

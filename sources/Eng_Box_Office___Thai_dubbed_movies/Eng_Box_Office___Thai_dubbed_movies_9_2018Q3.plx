@@ -77,7 +77,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-23
+date=2018-07-24
 URL=
 
 
@@ -124,7 +124,13 @@ URL=https://openload.co/f/eHv-fLRuh7A/Hotel_Transylvania_3_Summer_Vacation_2018_
 #https://openload.co/f/ZqftlMxzgW8/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/hSaXRiGF8S4/Hotel_Transylvania_3_Summer_Vacation_2018_New_720p_HDCAM-X264-AC3.mkv.mp4
 
-
+type=video
+name=Upgrade (2018) ENG 720p.TS.1XBET
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqistSlQGQVlvDZHweDP3qCplMP.jpg
+date=2018-07-24
+URL=https://openload.co/f/E6uTmxDQ3PY/Upgrade.2018.720p.TS.1XBET.mp4
+#https://openload.co/f/I8aHEdf6qPY/Upgrade.2018.720p.TS.1XBET.mp4
+#https://openload.co/f/dPSouJiBEWA/Upgrade.2018.HDTS.XviD-AVID.avi.mp4
 
 type=video
 name=Siberia (2018) ENG 720hd_SeeHD
@@ -200,10 +206,11 @@ URL=https://openload.co/f/d1B8SasklXA/Mary_Shelley.2017.720p.WEB-DL.DD5.1.H264-C
 
 
 type=video
-name=Breaking In (2018) ENG HDCAM_ENG_X264-THAN0S_SeeHD
+name=Breaking In (2018) ENG Unrated.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKH7H4f5LPBQ5KOmHPcYtxCo7Od.jpg
-date=2018-05-23
-URL=https://openload.co/f/yuguQVD_tAM/Breaking_in_2018_HDCAM_ENG_X264-THAN0S_SeeHD.mkv.mp4
+date=2018-07-24
+URL=https://openload.co/f/AvVl1XinRaM/Breaking_In.2018.Unrated.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/yuguQVD_tAM/Breaking_in_2018_HDCAM_ENG_X264-THAN0S_SeeHD.mkv.mp4
 
 type=video
 name=Kings (2017) ENG HDCAM_ENG_X264-THAN0S_SeeHD
@@ -1420,12 +1427,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gC9Fzh8DWaWjAKuqQ5F8J0waVj
 date=2018-07-23
 URL=https://openload.co/f/Sfg6ZAh-Lms/Blood.Hunt.2017.1080p.BluRay.x264-JustWatch.mkv.mp4
 
-type=video
-name=Duck Duck Goose (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XURM64DYa9DpS70I2rM4suvq1s.jpg
-date=2018-07-21
-URL=https://openload.co/f/ypParVXBTWc/Duck.Duck.Goose.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
-#https://openload.co/f/ygcifvg2JJ8/Duck.Duck.Goose.2018.1080p.BluRay.X264-AMIABLE.mkv   MKV6.6GB
+
 
 type=video
 name=The Con Is On (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1459,6 +1461,9 @@ URL=https://openload.co/f/dvYFUKRqXfs/overboard.2018.1080p.bluray.x264-drones.mk
 #https://openload.co/f/3E8y8rfjvi8/overboard720pHD_SeeHD.mkv.mp4
 #https://openload.co/f/8daIAOeMZQw/Overboard.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 #https://openload.co/f/BWLyxtdeuzQ/Overboard_2018_720p_HDCAM_X264_HQMic-CPG_SeeHD.mkv.mp4
+#https://uptobox.com/iwwt8xht5f4l   720
+#https://www.rapidvideo.com/e/FTKYN6QDPI   720
+#https://openload.co/embed/5JFU9tu18PI/SHQOVERBRDBD72.Ganol.ru.mkv
 
 type=video
 name=Life of the Party (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1487,6 +1492,9 @@ URL=https://openload.co/f/V8SllvaQ4rc/tully.2018.1080p.bluray.x264-drones.mkv.mp
 #https://openload.co/f/HGQot2knJho/tully.2018.1080p.bluray.x264-drones.mkv   MKV6.6GB
 #https://openload.co/f/iCdsSIV5rVE/Tully_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
 #https://openload.co/f/y05fL4j4h3U/Tully.2018.720pHD_SeeHD.mkv.mp4
+#https://uptobox.com/txn0sk1u01a1   720
+#https://www.rapidvideo.com/e/FTKYFTLEUT   720
+#https://openload.co/embed/H1aaF-Lpbi0/SHQTULLYBD72.Ganol.ru.mkv
 
 type=video
 name=Big Fish & Begonia (2016) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
@@ -4036,15 +4044,6 @@ URL=https://openload.co/f/xtqtInzqiXo/The_Last_Warrior_%282017%29_Posledniy_boga
 
 
 
-type=video
-name=England Is Mine (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ue3Zh4YRyJgQXj39tq8smr0iqOa.jpg
-date=2018-01-05
-URL=https://openload.co/f/nZxTgFETnik/England.Is.Mine.2017.LIMITED.1080p.BluRay.x264-SNOW.mkv.mp4
-#https://openload.co/f/HUIMp24az7M/England_Is_Mine_2017_LIMITED_720p_BluRay_x264-SNOW.mkv.mp4
-#https://openload.co/f/WLNNNGlZmog/England.Is.Mine.2017.LIMITED.1080p.BluRay.x264-SNOW.mkv
-#https://openload.co/f/BGg118JeaQk/England_Is_Mine_2017_LIMITED_720p_BluRay_x264-SNOW.mkv
-#https://uptobox.com/ifg77czoygmz   720
 
 
 
@@ -4728,14 +4727,7 @@ URL=https://www.blazefile.co/embed-ekazhc8jceq6.html
 #https://openload.co/f/laErFS_prBk/the.chessplayer.2017.1080p.bluray.x264-bipolar.mkv.mp4
 #https://www.blazefile.co/embed-ekazhc8jceq6.html   720
 
-type=video
-name=Suntan (2016) [COLOR=FF00FF00]GRK BR 1080p[/COLOR]  720p
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAknvVkyiGssLf20k4FAZB3FUnZ.jpg
-date=2018-03-04
-URL=https://www.blazefile.co/embed-c13k2v3p0vkf.html
-#https://openload.co/f/pfLfVK3OgTU/suntan.2016.limited.1080p.bluray.x264-usury.mkv   MKV 8.7GB
-#https://openload.co/f/Nx07luZaBZY/suntan.2016.limited.1080p.bluray.x264-usury.mkv.mp4
-#https://www.blazefile.co/embed-c13k2v3p0vkf.html   720
+
 
 
 
@@ -5498,9 +5490,16 @@ type=video
 name=Warrior Road (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrLj3wAHGhnlSKQyeW9q29qw27t.jpg
 date=2018-07-21
-URL=https://openload.co/f/UQcUodQ6xAE/Warrior.Road.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
+URL=https://uptobox.com/zldtrh3pfial
+#https://www.rapidvideo.com/e/FTKYWJHOIX
+#https://openload.co/embed/6nSojZKDXes/WARRIRROADBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/UQcUodQ6xAE/Warrior.Road.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
 
-
+type=video
+name=LEGO DC Super Heroes - Aquaman: Rage Of Atlantis (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNayc14I8UH9rywBXAp2Eh81za3.jpg
+date=2018-07-24
+URL=https://openload.co/f/BePkhUaU9Dw/LEGO.DC.Comics.Super.Heroes.Aquaman.rg.of.Atlantis.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
 
 
 
@@ -5509,7 +5508,7 @@ URL=https://openload.co/f/UQcUodQ6xAE/Warrior.Road.2017.720p.BluRay.x264.DTS-MT.
 type=video
 name=
 thumb=
-date=2018-07-21
+date=2018-07-24
 URL=http://203.162.235.41:17819
 
 
@@ -5855,7 +5854,7 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-07-21
+date=2018-07-24
 URL=
 
 
@@ -5877,10 +5876,28 @@ URL=
 
 
 
+type=video
+name=Father of the Year (2018) ENG 1080p.NF.WEB-DL.DDP5.1.x264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmBdCkZxHwQn5zM17cZmd3giJCY.jpg
+date=2018-07-24
+URL=https://openload.co/f/tjmKbEQHdPA/Father.of.the.Year.2018.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv.mp4
+type=video
+name=Father of the Year (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmBdCkZxHwQn5zM17cZmd3giJCY.jpg
+date=2018-07-24
+URL=https://streamango.com/f/ostctobsabnkfkeb/Father_of_the_Year_2018_
 
 
-
-
+type=video
+name=A Prayer Before Dawn (2018) ENG 720p.WEB-DL.DD5.1.H264-CMRG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/73KrcLh1DpnBP3HwGpqoUUwKWF4.jpg
+date=2018-07-24
+URL=https://openload.co/f/7C6DaGDh488/A_Prayer_Before_Dawn.2017.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+type=video
+name=A Prayer Before Dawn (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/73KrcLh1DpnBP3HwGpqoUUwKWF4.jpg
+date=2018-07-24
+URL=https://streamango.com/f/oepfpekbrdadlnan/A_Prayer_Before_Dawn_2018_
 
 
 type=video
@@ -6823,16 +6840,7 @@ date=2018-01-22
 URL=https://streamango.com/f/qcqkmetnscrrtfdd/Step_Sisters_2018_
 
 
-type=video
-name=Godzilla: Monster Planet (2017) ENG 1080pHD_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRBuVfdkeUCwDehfZ7Q7UQLyYFG.jpg
-date=2018-01-22
-URL=https://openload.co/f/nLcEgLkB-Qo/Godzilla.monster.planet.2017.ENG.1080pHD_SeeHD.mkv.mp4
-type=video
-name=Godzilla: Monster Planet (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRBuVfdkeUCwDehfZ7Q7UQLyYFG.jpg
-date=2018-01-22
-URL=https://streamango.com/f/rrcataoprotbbeoq/Godzilla_Monster_Planet_2017_1_mp4
+
 
 
 type=video
@@ -7796,29 +7804,7 @@ URL=https://streamango.com/f/rlcdffttdddaetmn/Winchester_2018_
 
 
 
-type=video
-name=The Hurricane Heist (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
-date=2018-05-28
-URL=https://www.blazefile.co/embed-2gd2xkfste9z.html
-#https://uptobox.com/85ope8if7q6u
-#https://openload.co/embed/IOaW8JnkrN8/GHPTHEHURRICANEHEIST80.Ganoo.im.mkv
-#https://openload.co/f/9v1shZR7hLU/The.Hurricane.Heist.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/0Zs_IbIVQwQ/The.Hurricane.Heist.2017.1080p_SeeHD.mp4
-#https://openload.co/f/0-ofoQwhdfU/The.Hurricane.Heist.2017.1080p.HDTV.x264-PLUTONiUM.mkv.mp4
-#https://openload.co/f/ODFyPDy-ycg/The_Hurricane_Heist.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/aymgzQFqMOA/The_Hurricane_Heist_2018_HDCAM_ENG_X264-CPG.mkv.mp4
-#https://openload.co/f/gZ7_RC7JhXw/The_Hurricane_Heist_2018_HDCAM_ENG_X264_CPG.mp4
-#https://openload.co/f/8YJOvr2Krpk/The_Hurricane_Heist_2018.HDCAM.X264-VemMeChupar.mp4
-#https://www.blazefile.co/embed-qai07zrnhyw2.html   720
-#https://uptobox.com/yvfhc8n9frth   720
-#https://openload.co/embed/NGkiq4510UE/SHQTHEHURRICANEHESITBD72.Ganool.im.mkv
-type=video
-name=The Hurricane Heist (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
-date=2018-04-06
-URL=https://streamango.com/f/acqppnfbtdfkcelm/The_Hurricane_Heist_2018_
-#https://streamango.com/f/akqbnnmbcdlcccbm/The_Hurricane_Heist_2018_
+
 
 
 type=video
@@ -7828,20 +7814,7 @@ date=2018-04-03
 URL=https://streamango.com/f/snbfltkcqdpqnfcf/Doraemon_the_Movie_2017_Nobita_s_Great_Adventure_in_the_Antarctic_Kachi_Kochi_2017_-_
 
 
-type=video
-name=Slumber (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbq02c1HqpXsuoZfc07ZOig8mqi.jpg
-date=2018-03-29
-URL=https://openload.co/f/8zzE2sva_O0/Slumber_2017.720p.Br_SeeHD.mp4
-#https://openload.co/f/pqY4wK8damQ/Slumber_2017.720p.Bluray.X264-EVO.mkv.mp4
-#https://openload.co/f/81uuooihRdI/Slumber.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/nLmL37rlOz4/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/b6dV5SfGMn8/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
-type=video
-name=Slumber (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbq02c1HqpXsuoZfc07ZOig8mqi.jpg
-date=2018-04-03
-URL=https://streamango.com/f/fenkmsaldecftpds/Slumber_2017_
+
 
 
 
@@ -8011,20 +7984,7 @@ URL=https://streamango.com/f/dmmfmrrolmnaakkn/Jigsaw_2017_
 
 
 
-type=video
-name=The Son of Bigfoot (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
-date=2017-12-13
-URL=https://www.blazefile.co/embed-lc01dmkeuh9o.html
-#https://openload.co/f/if2l-I3_ZQU/The.Son.Of.Bigfoot.2017.1080p.BluRay.x264-HDEX.mkv.mp4
-#https://openload.co/f/TBvJEkO7bJ0/The_Son_of_Bigfoot.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-type=video
-name=The Son of Bigfoot (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
-date=2017-12-18
-URL=https://streamango.com/f/mfkdtmfnpelkfara/The_Son_of_Bigfoot_2017_
-#https://openload.co/f/c_tptj0O6iU/The_Son_of_Bigfoot_%282017%29%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81%E0%B8%9F%E0%B8%B8%E0%B8%95_%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%8B%E0%B8%9F%E0%B8%9E%E0%B9%88%E0%B8%AD_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
-#https://openload.co/f/wcgrmDhWUA0/The.Son.of.Bigfoot.2017.HDCAM.Xvid.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+
 
 
 
@@ -8193,7 +8153,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-30
+date=2018-07-24
 URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
 
 
@@ -8203,6 +8163,134 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 
 
 
+
+
+
+type=video
+name=
+thumb=
+date=2018-07-24
+URL=
+
+
+
+
+
+
+
+
+type=video
+name=Slumber (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbq02c1HqpXsuoZfc07ZOig8mqi.jpg
+date=2018-03-29
+URL=https://openload.co/f/8zzE2sva_O0/Slumber_2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/pqY4wK8damQ/Slumber_2017.720p.Bluray.X264-EVO.mkv.mp4
+#https://openload.co/f/81uuooihRdI/Slumber.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/nLmL37rlOz4/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/b6dV5SfGMn8/Slumber_2017_HDRip.XviD.AC3-EVO.avi.mp4
+type=video
+name=Slumber (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbq02c1HqpXsuoZfc07ZOig8mqi.jpg
+date=2018-07-24
+URL=https://openload.co/f/qbLVCgMzsY0/Slumber_%282017%29%E0%B8%9C%E0%B8%B5%E0%B8%AD%E0%B8%B3%E0%B8%9C%E0%B8%A7%E0%B8%B2.mp4
+#https://streamango.com/f/fenkmsaldecftpds/Slumber_2017_
+
+
+type=video
+name=The Hurricane Heist (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
+date=2018-05-28
+URL=https://www.blazefile.co/embed-2gd2xkfste9z.html
+#https://uptobox.com/85ope8if7q6u
+#https://openload.co/embed/IOaW8JnkrN8/GHPTHEHURRICANEHEIST80.Ganoo.im.mkv
+#https://openload.co/f/9v1shZR7hLU/The.Hurricane.Heist.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/0Zs_IbIVQwQ/The.Hurricane.Heist.2017.1080p_SeeHD.mp4
+#https://openload.co/f/0-ofoQwhdfU/The.Hurricane.Heist.2017.1080p.HDTV.x264-PLUTONiUM.mkv.mp4
+#https://openload.co/f/ODFyPDy-ycg/The_Hurricane_Heist.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/aymgzQFqMOA/The_Hurricane_Heist_2018_HDCAM_ENG_X264-CPG.mkv.mp4
+#https://openload.co/f/gZ7_RC7JhXw/The_Hurricane_Heist_2018_HDCAM_ENG_X264_CPG.mp4
+#https://openload.co/f/8YJOvr2Krpk/The_Hurricane_Heist_2018.HDCAM.X264-VemMeChupar.mp4
+#https://www.blazefile.co/embed-qai07zrnhyw2.html   720
+#https://uptobox.com/yvfhc8n9frth   720
+#https://openload.co/embed/NGkiq4510UE/SHQTHEHURRICANEHESITBD72.Ganool.im.mkv
+type=video
+name=The Hurricane Heist (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1f7peigW0qUXXwynwVAt7axZd.jpg
+date=2018-07-24
+URL=https://openload.co/f/BwSSaTwsZdc/The_Hurricane_Heist_%282018%29%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%B2%E0%B8%A2%E0%B8%B8.mp4
+#https://streamango.com/f/acqppnfbtdfkcelm/The_Hurricane_Heist_2018_
+#https://streamango.com/f/akqbnnmbcdlcccbm/The_Hurricane_Heist_2018_
+
+
+type=video
+name=The Son of Bigfoot (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
+date=2017-12-13
+URL=https://www.blazefile.co/embed-lc01dmkeuh9o.html
+#https://openload.co/f/if2l-I3_ZQU/The.Son.Of.Bigfoot.2017.1080p.BluRay.x264-HDEX.mkv.mp4
+#https://openload.co/f/TBvJEkO7bJ0/The_Son_of_Bigfoot.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+type=video
+name=The Son of Bigfoot (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6stbYJynPLfXfe4kNLUNk9mcoD.jpg
+date=2018-07-24
+URL=https://openload.co/f/AUzxv-P92UI/The_Son_of_Bigfoot_%282017%29%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81%E0%B8%9F%E0%B8%B8%E0%B8%95_%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88_%E0%B9%80%E0%B8%8B%E0%B8%9F%E0%B8%9E%E0%B9%88%E0%B8%AD.mp4
+#https://streamango.com/f/mfkdtmfnpelkfara/The_Son_of_Bigfoot_2017_
+#https://openload.co/f/c_tptj0O6iU/The_Son_of_Bigfoot_%282017%29%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81%E0%B8%9F%E0%B8%B8%E0%B8%95_%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%8B%E0%B8%9F%E0%B8%9E%E0%B9%88%E0%B8%AD_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+#https://openload.co/f/wcgrmDhWUA0/The.Son.of.Bigfoot.2017.HDCAM.Xvid.ThaiRong2.0_CpT%40CtHts.mkv.mp4
+
+
+type=video
+name=Duck Duck Goose (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XURM64DYa9DpS70I2rM4suvq1s.jpg
+date=2018-07-21
+URL=https://openload.co/f/ypParVXBTWc/Duck.Duck.Goose.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/ygcifvg2JJ8/Duck.Duck.Goose.2018.1080p.BluRay.X264-AMIABLE.mkv   MKV6.6GB
+type=video
+name=Duck Duck Goose (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XURM64DYa9DpS70I2rM4suvq1s.jpg
+date=2018-07-24
+URL=https://openload.co/f/WmB8NCf9KP0/Duck_Duck_Goose_%282018%29%E0%B8%94%E0%B8%B1%E0%B9%8A%E0%B8%81_%E0%B8%94%E0%B8%B1%E0%B9%8A%E0%B8%81_%E0%B8%81%E0%B8%B9%E0%B9%8A%E0%B8%AA.mp4
+
+
+type=video
+name=England Is Mine (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ue3Zh4YRyJgQXj39tq8smr0iqOa.jpg
+date=2018-01-05
+URL=https://openload.co/f/nZxTgFETnik/England.Is.Mine.2017.LIMITED.1080p.BluRay.x264-SNOW.mkv.mp4
+#https://openload.co/f/HUIMp24az7M/England_Is_Mine_2017_LIMITED_720p_BluRay_x264-SNOW.mkv.mp4
+#https://openload.co/f/WLNNNGlZmog/England.Is.Mine.2017.LIMITED.1080p.BluRay.x264-SNOW.mkv
+#https://openload.co/f/BGg118JeaQk/England_Is_Mine_2017_LIMITED_720p_BluRay_x264-SNOW.mkv
+#https://uptobox.com/ifg77czoygmz   720
+type=video
+name=England Is Mine (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ue3Zh4YRyJgQXj39tq8smr0iqOa.jpg
+date=2018-07-24
+URL=https://openload.co/f/r30v_DQgf8Y/England_Is_Mine_%282017%29%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B9%8C_%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%88%E0%B8%B3.mp4
+
+
+type=video
+name=Godzilla: City on the Edge of Battle (2018) JAP 1080p.NF.WEB-DL.DDP5.1.x264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hF85hujJ4jelKtlSZ8YdthvjdZt.jpg
+date=2018-07-24
+URL=https://openload.co/f/3Ps_SURTHYI/Godzilla.City.on.the.Edge.of.Battle.2018.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv.mp4
+type=video
+name=Godzilla: City on the Edge of Battle (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hF85hujJ4jelKtlSZ8YdthvjdZt.jpg
+date=2018-07-24
+URL=https://openload.co/f/KVozEZ5B2jM/Godzilla%3A_City_on_the_Edge_of_Battle_%282018%29%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%94%E0%B8%8B%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B9%88%E0%B8%B2_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%83%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B8.mp4
+
+
+type=video
+name=Godzilla: Monster Planet (2017) ENG 1080pHD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRBuVfdkeUCwDehfZ7Q7UQLyYFG.jpg
+date=2018-01-22
+URL=https://openload.co/f/nLcEgLkB-Qo/Godzilla.monster.planet.2017.ENG.1080pHD_SeeHD.mkv.mp4
+type=video
+name=Godzilla: Monster Planet (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRBuVfdkeUCwDehfZ7Q7UQLyYFG.jpg
+date=2018-07-24
+URL=https://openload.co/f/71phwJ2xBLk/Godzilla%3A_Monster_Planet_%282017%29%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%94%E0%B8%8B%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B9%88%E0%B8%B2_%E0%B8%A0%E0%B8%B2%E0%B8%84_1.mp4
+#https://streamango.com/f/rrcataoprotbbeoq/Godzilla_Monster_Planet_2017_1_mp4
 
 
 type=video
@@ -8668,11 +8756,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmnTIiRf3Nl5jhMlqLRXQY5msN
 date=2018-03-22
 URL=https://openload.co/f/eLThOGyHDEI/Stephens.Kings.Thinner.1996.1080p.BluRay.x264-MOOVEE.mkv.mp4
 
-type=video
-name=Still the Water (2014) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YTJnZt7QM7MBxIHBlHeF0Eso6W.jpg
-date=2018-03-20
-URL=https://openload.co/f/oPCEXL-sVJ4/Still.the.Water.2014.1080p.BluRay.x264-NODLABS.mkv.mp4
+
 
 type=video
 name=Every Secret Thing (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -8811,7 +8895,20 @@ URL=
 
 
 
+type=video
+name=Still the Water (2014) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YTJnZt7QM7MBxIHBlHeF0Eso6W.jpg
+date=2018-03-20
+URL=https://openload.co/f/oPCEXL-sVJ4/Still.the.Water.2014.1080p.BluRay.x264-NODLABS.mkv.mp4
 
+type=video
+name=Suntan (2016) [COLOR=FF00FF00]GRK BR 1080p[/COLOR]  720p
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAknvVkyiGssLf20k4FAZB3FUnZ.jpg
+date=2018-03-04
+URL=https://www.blazefile.co/embed-c13k2v3p0vkf.html
+#https://openload.co/f/pfLfVK3OgTU/suntan.2016.limited.1080p.bluray.x264-usury.mkv   MKV 8.7GB
+#https://openload.co/f/Nx07luZaBZY/suntan.2016.limited.1080p.bluray.x264-usury.mkv.mp4
+#https://www.blazefile.co/embed-c13k2v3p0vkf.html   720
 
 type=video
 name=Puppy! (2017) Short [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
