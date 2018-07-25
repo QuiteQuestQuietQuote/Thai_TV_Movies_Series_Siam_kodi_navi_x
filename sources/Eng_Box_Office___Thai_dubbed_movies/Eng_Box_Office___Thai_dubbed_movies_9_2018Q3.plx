@@ -21,9 +21,15 @@ rating=-1.00
 
 
 
+type=addon
+name=[COLOR=FFFF5733]sendtoaxel[/COLOR]
+thumb=https://mrs0m30n3.github.io/youtube-dl-gui/images/logo.png
+URL=plugin.program.sendtoaxel
 
-
-
+type=addon
+name=[COLOR=FFFF5733]axel.downloader[/COLOR]
+thumb=https://mrs0m30n3.github.io/youtube-dl-gui/images/logo.png
+URL=script.module.axel.downloader
 
 type=video
 name=
@@ -205,12 +211,7 @@ URL=https://openload.co/f/d1B8SasklXA/Mary_Shelley.2017.720p.WEB-DL.DD5.1.H264-C
 
 
 
-type=video
-name=Breaking In (2018) ENG Unrated.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKH7H4f5LPBQ5KOmHPcYtxCo7Od.jpg
-date=2018-07-24
-URL=https://openload.co/f/AvVl1XinRaM/Breaking_In.2018.Unrated.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/yuguQVD_tAM/Breaking_in_2018_HDCAM_ENG_X264-THAN0S_SeeHD.mkv.mp4
+
 
 type=video
 name=Kings (2017) ENG HDCAM_ENG_X264-THAN0S_SeeHD
@@ -1413,13 +1414,44 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-23
+date=2018-07-25
 URL=
 
 
 
 
 
+
+type=video
+name=Breaking In (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKH7H4f5LPBQ5KOmHPcYtxCo7Od.jpg
+date=2018-07-25
+URL=https://uptobox.com/ahbp2oclxgqa
+#https://www.rapidvideo.com/e/FTMIG0LM5R
+#https://openload.co/embed/i0ur79e9jiE/GHPBREAKININ80.Ganol.ru.mkv
+#https://openload.co/f/7JEnsgL5lZA/Breaking.In.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/AvVl1XinRaM/Breaking_In.2018.Unrated.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/yuguQVD_tAM/Breaking_in_2018_HDCAM_ENG_X264-THAN0S_SeeHD.mkv.mp4
+
+type=video
+name=LEGO DC Super Heroes - Aquaman: Rage Of Atlantis (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNayc14I8UH9rywBXAp2Eh81za3.jpg
+date=2018-07-25
+URL=https://openload.co/f/9kuRVhCkwho/LEGO.DC.Comics.Super.Heroes.Aquaman.Rage.of.Atlantis.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/BePkhUaU9Dw/LEGO.DC.Comics.Super.Heroes.Aquaman.rg.of.Atlantis.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
+#https://uptobox.com/mhld147qncnt   720
+#https://www.rapidvideo.com/e/FTMCKTOPAL   720
+#https://openload.co/embed/uvRtoMPD58c/LEGOAQUAMANBD72.Ganol.ru.mkv
+
+type=video
+name=Keep the Change (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/syJPXMzZC0v3UKvFYkA5pVzBC2k.jpg
+date=2018-07-25
+URL=https://openload.co/f/junyxg0enf0/Keep.the.Change.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/6WFuZr5Pgdk/bbdneKeep.the.Change.2017.1080p.BluRay.x264-PSYCHD.mkv   MKV6.6MB
+#https://uptobox.com/h9137g1n7o2n   720
+#https://www.rapidvideo.com/e/FTMDCY0J8D   720
+#https://openload.co/embed/BO9jKr7KYk8/KEEPTHECHANGEBD72.Ganol.ru.mkv.mp4
 
 type=video
 name=Blood Hunt (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1435,6 +1467,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4ZzzFOokK356jf6L6vUp3RKNv
 date=2018-07-21
 URL=https://openload.co/f/0dXMAZwEUKc/the.con.is.on.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/35a7NQuB3bE/The.Con.Is.On.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/ppplsw0xgkto   720
+#https://www.rapidvideo.com/e/FTM53JZIRF   720
+#https://openload.co/embed/GUH8pfjt4ZU/THECONISONBD72.Ganol.ru.mkv.mp4
 
 type=video
 name=The Bold, the Corrupt and the Beautiful (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
@@ -1487,8 +1522,11 @@ URL=https://openload.co/f/mqX5wKrYIDA/The.Atoning.2017.1080p.BluRay.x264-GUACAMO
 type=video
 name=Tully (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDI4YXBXolMYi15Qx2kClvdSERM.jpg
-date=2018-07-21
-URL=https://openload.co/f/V8SllvaQ4rc/tully.2018.1080p.bluray.x264-drones.mkv.mp4
+date=2018-07-25
+URL=https://uptobox.com/q1ze6u6c853x
+#https://www.rapidvideo.com/e/FTM5DNB29O
+#https://openload.co/embed/-TtFxSHRd0Q/GHPTULLY80.Ganol.ru.mkv
+#https://openload.co/f/V8SllvaQ4rc/tully.2018.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/HGQot2knJho/tully.2018.1080p.bluray.x264-drones.mkv   MKV6.6GB
 #https://openload.co/f/iCdsSIV5rVE/Tully_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
 #https://openload.co/f/y05fL4j4h3U/Tully.2018.720pHD_SeeHD.mkv.mp4
@@ -5496,10 +5534,10 @@ URL=https://uptobox.com/zldtrh3pfial
 #https://openload.co/f/UQcUodQ6xAE/Warrior.Road.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
 
 type=video
-name=LEGO DC Super Heroes - Aquaman: Rage Of Atlantis (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNayc14I8UH9rywBXAp2Eh81za3.jpg
-date=2018-07-24
-URL=https://openload.co/f/BePkhUaU9Dw/LEGO.DC.Comics.Super.Heroes.Aquaman.rg.of.Atlantis.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
+name=On Chesil Beach (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uRdd5NawI9iTQ5oWIKYjqNkyc1.jpg
+date=2018-07-25
+URL=https://openload.co/f/tJ-B6Scjl-c/On.Chesil.Beach.2017.720p.BR_SeeHD.mp4
 
 
 
@@ -5728,10 +5766,14 @@ URL=https://streamango.com/f/pkrtqtckdekrmeno/Solo_A_Star_Wars_Story_2018_
 
 
 type=video
-name=Deadpool 2 (2018) ENG NEW_720p_HD-TC_V.2_x264-CPG_SeeHD
+name=Deadpool 2 (2018) ENG 720p.KORSUB.HDRip.x264-NON
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
-date=2018-06-23
-URL=https://openload.co/f/WpAKmf_pPL4/Deadpool_2_2018_NEW_720p_HD-TC_V.2_x264-CPG_SeeHD.mkv.mp4
+date=2018-06-25
+URL=https://openload.co/f/ieaJrN0RMqo/Deadpool.2.2018.720p.KORSUB.HDRip.x264-NON.mp4
+#https://openload.co/f/1RdA9X6UDcQ/DeadPool_2.720pHD_SeeHD.mp4
+#https://openload.co/f/WlAi7Qz8jGs/DeadPool_2.720pHDRip_SeeHD.mkv.mp4
+#https://openload.co/f/_ET4_325tGk/Deadpool.2.2018.720p.KORSUB.HDRip.x264-NON.mp4
+#https://openload.co/f/WpAKmf_pPL4/Deadpool_2_2018_NEW_720p_HD-TC_V.2_x264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/d9UDlTMQNlY/Deadpool.2.2018.TS.720p.ENG.E.mp4
 #https://openload.co/f/re3bVE8sp-8/Deadpool_2_2018_HD-TS.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/TVGkldXG2ow/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG_SeeHD.mkv.mp4
@@ -6137,10 +6179,11 @@ URL=https://streamango.com/f/nsocsskebcrbsesr/Phantom_Thread_2017_
 
 
 type=video
-name=Revenge (2018) ENG 720p_WEB-DL_X264_AC3-CPG_SeeHD
+name=Revenge (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMv5ILxjzA9S930eLImSjfecETH.jpg
-date=2018-07-12
-URL=https://openload.co/f/ItjiuFqD910/Revenge_2018_720p_WEB-DL_X264_AC3-CPG_SeeHD.mkv.mp4
+date=2018-07-25
+URL=https://openload.co/f/s6Mm0K2TWVs/Revenge.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
+#https://openload.co/f/ItjiuFqD910/Revenge_2018_720p_WEB-DL_X264_AC3-CPG_SeeHD.mkv.mp4
 type=video
 name=Revenge (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMv5ILxjzA9S930eLImSjfecETH.jpg
@@ -8245,6 +8288,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XURM64DYa9DpS70I2rM4suvq1
 date=2018-07-21
 URL=https://openload.co/f/ypParVXBTWc/Duck.Duck.Goose.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/ygcifvg2JJ8/Duck.Duck.Goose.2018.1080p.BluRay.X264-AMIABLE.mkv   MKV6.6GB
+#https://uptobox.com/i99ibyzrnw8k   720
+#https://www.rapidvideo.com/e/FTM4C1T9D5   720
+#https://openload.co/embed/UYSZfxMaIzE/DUCKDUCKGOOSEBD72.Ganol.ru.mkv.mp4
 type=video
 name=Duck Duck Goose (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XURM64DYa9DpS70I2rM4suvq1s.jpg
