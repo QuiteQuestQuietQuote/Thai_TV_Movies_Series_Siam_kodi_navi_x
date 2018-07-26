@@ -282,6 +282,12 @@ player=default
 rating=-1.00
 description=People everywhere were enjoying a new game called Ordinal Scale, an ARMMORPG developed exclusively for the Augma, a new wearable console designed for AR (augmented reality) gaming. But, the players had no idea that a nightmare from the virtual world was starting to spread into reality! As his fellow players find themselves in danger, the hero is called upon once again./description
 
+
+type=video
+name=The Third Murder (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNKHZ5BWYTdUtfdHv4WAVoCWcxP.jpg
+date=2018-07-26
+URL=https://openload.co/f/LGY4_-V6BDE/the.third.murder.2017.limited.1080p.bluray.x264-cadaver.mkv.mp4
 type=video
 name=The Third Murder (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNKHZ5BWYTdUtfdHv4WAVoCWcxP.jpg

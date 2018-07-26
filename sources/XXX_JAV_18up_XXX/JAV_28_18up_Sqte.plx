@@ -33,8 +33,19 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
+date=2018-06-15
 URL=
 
+type=video
+name=
+thumb=
+URL=http://javdon.com/download?url=aHR0cHM6Ly92aWRlby5maGFuNS0xLmZuYS5mYmNkbi5uZXQvdi90NDIuOTA0MC0yLzEwMDAwMDAwXzk2MjY2Mzc0MzkxMTc5OF85MDM2MzIxNTgxMTM5MjMwNzJfbi5tcDQ/X25jX2NhdD0wJmVmZz1leUoyWlc1amIyUmxYM1JoWnlJNkluTjJaVjl6WkNKOSZfbmNfZXVpMj1BZUVxblpmRUtlOGd1c1dMaUtFdnY0UEVWRkU0bktOaVBRNHdMMXF4M2pLX2thM1M0ZkJnQ2xWTDR5NlhFUDd3ZTdIanZZTjRwYlBHdTFrRTFsOWgzbVNTT0h5bjZoaTA0VEFjUVN6RmlHaEhBdyZvaD05NWQ5NjkwNmE0OGIzNjM5ZDE5NjIzZTMyYzYzOWI0ZiZvZT01QjVBNThFMyZpdGFnPTE4fGh0dHBzOi8vdmlkZW8uZmhhbjUtMS5mbmEuZmJjZG4ubmV0L3YvdDQyLjkwNDAtMi8xMDAwMDAwMF8yMDA5OTE2NDg1OTI2NjA1XzU5MDMyMDk5NzAyNjE4MTkzOTJfbi5tcDQ/X25jX2NhdD0wJmVmZz1leUoyWlc1amIyUmxYM1JoWnlJNkluTjJaVjlvWkNKOSZfbmNfZXVpMj1BZUhkaC0wZFF4ckxaSW03S3ktQW9MUF9UMDVZMGxEdkdtUnk4emtmZ093LVBaZWlLSGNfY3pjYjQxUS0tS3hvVW1sTXBMTEUxTGdERW5JNDhIOXM5MUgwSHJJWFR4Z2FabnBCYkdtY0IyREVVZyZvaD03OWU3ZDk5N2FhMDY2MDU0NDM5N2UwMTFlMTE5NDY1MiZvZT01QjVBNTc4MyZpdGFnPTIy
+
+type=video
+name=
+thumb=
+date=2018-06-15
+URL=http://vodstream.xyz/fembed.php?id=57bERKM&ref=http://javdon.com/watch-movie-mide-233-lovely-wife-dream-cum-true.html
 
 type=video
 name=
@@ -42,18 +53,12 @@ thumb=
 date=2018-06-15
 URL=
 
-
-
-
-
-
-
-
-
-
-
-
-
+type=video
+name=
+thumb=
+date=2018-06-15
+URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_568369566879010_4023059311696543744_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeG45vnVBF2ulFfLIHI7zp-XPlojXrCXLvfBlpFN7c-ahwBamLqC84eL5ZhoJXnuBWvgkVZL6MAH5Q_xs7MkpogQJbnso2VpyQ91pUhQquDVjg&oh=3b4fa8a8fa38aa9ca7ee0fc02393e2b8&oe=5B5A6F4C&itag=22
+                                    
 
 
 

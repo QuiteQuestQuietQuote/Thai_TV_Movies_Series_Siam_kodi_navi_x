@@ -21,20 +21,12 @@ rating=-1.00
 
 
 
-type=addon
-name=[COLOR=FFFF5733]sendtoaxel[/COLOR]
-thumb=https://mrs0m30n3.github.io/youtube-dl-gui/images/logo.png
-URL=plugin.program.sendtoaxel
 
-type=addon
-name=[COLOR=FFFF5733]axel.downloader[/COLOR]
-thumb=https://mrs0m30n3.github.io/youtube-dl-gui/images/logo.png
-URL=script.module.axel.downloader
 
 type=video
 name=
-thumb=https://4.bp.blogspot.com/-q3FCvo_BtWw/WdLY23tF_4I/AAAAAAAAAJE/PnQtW3AhDKcpITTVadnjDOyrsx5Vcb-nQCLcBGAs/s320/054.png
-URL=http://103.77.116.193:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
+thumb=https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png
+URL=http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 type=addon
 name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
@@ -43,26 +35,26 @@ URL=script.module.youtube.dl
 
 type=video
 name=
-thumb=https://2.bp.blogspot.com/-fON3PQ3epac/WdLY5DfEFmI/AAAAAAAAAJo/6vW7TQ_dVkIn26x9l9hx7kebzKg6AwS-ACLcBGAs/s320/063.png
-URL=http://103.77.116.193:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
+thumb=https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png
+URL=http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 type=video
 name=
-thumb=https://2.bp.blogspot.com/-gfLftrQzfyk/WdLY10QqpTI/AAAAAAAAAIw/hrCHo3pNsgkuvkL-X2uSqoQQwvo-0ioYgCLcBGAs/s320/049.png
+thumb=https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png
 date=2017-09-22
-URL=http://103.77.116.193:443/documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
+URL=http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
 type=video
 name=
-thumb=https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png
+thumb=http://www.doomovie4k.com/icon/bloomberg.png
 date=2017-10-29
-URL=http://103.77.116.193:443/documentary/bbc_earth_720p.stream/chunklist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
+URL=https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 type=video
 name=
-thumb=https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png
+thumb=https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png
 date=2018-01-09
-URL=http://61.58.60.247:9000/live/176.m3u8
+URL=http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
 
 
@@ -83,11 +75,19 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-24
+date=2018-07-26
 URL=
 
 
 
+
+
+type=video
+name=Mission: Impossible - Fallout (2018) ENG 720p_HDCAM_AC3-1XB3T_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
+date=2018-07-26
+URL=https://openload.co/f/1_OWrlgCXdI/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3-1XB3T_SeeHD.mp4
+#https://openload.co/f/r2MGpc703mg/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3.E.mp4
 
 type=video
 name=The Equalizer 2 (2018) ENG NEW_720p_HDCAM_X264-24HD_SeeHD
@@ -1414,13 +1414,25 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-25
+date=2018-07-26
 URL=
 
 
 
 
 
+
+
+
+
+type=video
+name=Another Soul (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDFTH6mNN0mOunZPUu3qH5zPtp2.jpg
+date=2018-07-26
+URL=https://openload.co/f/xQDipAH5dfE/Another.Soul.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
+#https://uptobox.com/z9rnkxuafz58   720
+#https://www.rapidvideo.com/e/FTN22UU9ZE   720
+#https://openload.co/embed/OoiDe8PN3Qc/ANOHTERSOULBD72.Ganol.ru.mkv.mp4
 
 type=video
 name=Breaking In (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1436,8 +1448,11 @@ URL=https://uptobox.com/ahbp2oclxgqa
 type=video
 name=LEGO DC Super Heroes - Aquaman: Rage Of Atlantis (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNayc14I8UH9rywBXAp2Eh81za3.jpg
-date=2018-07-25
-URL=https://openload.co/f/9kuRVhCkwho/LEGO.DC.Comics.Super.Heroes.Aquaman.Rage.of.Atlantis.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
+date=2018-07-26
+URL=https://uptobox.com/iipvx2w8u8y9
+#https://www.rapidvideo.com/e/FTN1XREJNR
+#https://openload.co/embed/JrGX9e9KfD4/GHPLEGOAQUMAN80.Ganol.ru.mkv.mp4
+#https://openload.co/f/9kuRVhCkwho/LEGO.DC.Comics.Super.Heroes.Aquaman.Rage.of.Atlantis.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
 #https://openload.co/f/BePkhUaU9Dw/LEGO.DC.Comics.Super.Heroes.Aquaman.rg.of.Atlantis.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
 #https://uptobox.com/mhld147qncnt   720
 #https://www.rapidvideo.com/e/FTMCKTOPAL   720
@@ -1613,16 +1628,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3QazwvuwyywPogJDGueJpGgQH
 date=2018-07-11
 URL=https://openload.co/f/CEla7PhksWA/in.pursuit.of.silence.2015.limited.1080p.bluray.x264-bipolar.mkv.mp4
 
-type=video
-name=Traffik (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubSpsYP3WqljVPVSX2FbBNYZoR1.jpg
-date=2018-07-10
-URL=https://uptobox.com/9ogvtfj9kd05
-#https://openload.co/embed/V962IVKA81g/GHPTRAFIK80.Ganol.ru.mkv
-#https://openload.co/f/zNLRErN2zlo/Traffik.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/fvMi6Du_T5s/traffik.2018.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/3OXFivuFQn0/Traffik.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/AyYfn1TqAlI/Traffik_2018_HDCAM_ENG_X264_-_SugarTits_SeeHD.mkv.mp4
+
 
 type=video
 name=Memoir of a Murderer (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
@@ -3890,15 +3896,7 @@ URL=https://www.blazefile.co/embed-jfoo2m4io29x.html
 #https://openload.co/f/yVgtG2a2nqw/crooked.house.2017.dvdrip.x264-wide.mkv.mp4
 #https://openload.co/f/2O-YHDEXidA/Crooked.House.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
-type=video
-name=All I See Is You (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wc9MgFWuBl3VS72w6VtiZXTgN79.jpg
-date=2018-01-27
-URL=https://www.blazefile.co/embed-mjnldjyaw2zm.html
-#https://uptobox.com/vfuz84o5jbik
-#https://www.blazefile.co/embed-btrwmqfsibol.html   720
-#https://uptobox.com/qwblylvdp1sa   720
-#https://openload.co/f/uQ4W4rE1qZQ/All.I.See.Is.You.2017.LIMITED.BDRip.x264-DRONES.mkv.mp4
+
 
 type=video
 name=The Odyssey (2016) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
@@ -5536,8 +5534,11 @@ URL=https://uptobox.com/zldtrh3pfial
 type=video
 name=On Chesil Beach (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uRdd5NawI9iTQ5oWIKYjqNkyc1.jpg
-date=2018-07-25
-URL=https://openload.co/f/tJ-B6Scjl-c/On.Chesil.Beach.2017.720p.BR_SeeHD.mp4
+date=2018-07-26
+URL=https://uptobox.com/tt85b7b9rj2d
+#https://www.rapidvideo.com/e/FTNHX7DONX
+#https://openload.co/embed/kAJ8IiFSodw/ONCHESILBEACHBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/tJ-B6Scjl-c/On.Chesil.Beach.2017.720p.BR_SeeHD.mp4
 
 
 
@@ -5553,24 +5554,24 @@ URL=http://203.162.235.41:17819
 
 # 2771674
 type=video
-name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO HD (TH)[/COLOR]
-thumb=https://2.bp.blogspot.com/--B12KllPjlg/WdLYwDgxhiI/AAAAAAAAAHU/4Z-r9r7vfh4LHBUUM9xiiU7TiagpDP6oACLcBGAs/s320/026.png
+name=[COLOR=FF00FF00]Thai_______Thai______Thai______Movie CH1 (TH)[/COLOR]
+thumb=http://image.free.in.th/v/2013/ii/180703075348.jpg
 date=2017-10-10
-URL=http://103.77.116.193:443/movie/hbo_th_720p.stream/chunklist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
+URL=http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
 #http://27.254.154.154:1935/cinema/HBO.stream/playlist.m3u8
 player=default
 rating=-1.00
 
 type=video
-name=[COLOR=FF00FF00]Thai_______Thai______Thai______HBO Hits (TH)[/COLOR]
-thumb=https://3.bp.blogspot.com/-6odnv7gpIHg/WdLYwzsUbhI/AAAAAAAAAHg/57LuDtNNU-8tPnnOyMW475QM2n2yDa2EQCLcBGAs/s320/029.png
-URL=http://103.77.116.193:443/movie/hbo_hits_720p.stream/playlist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
+name=[COLOR=FF00FF00]Thai_______Thai______Thai______Movie CH2 (TH)[/COLOR]
+thumb=http://image.free.in.th/v/2013/if/180703080244.jpg
+URL=http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
 #http://27.254.154.154:1935/cinema/HBOhits.stream/chunklist.m3u8
 
 type=video
-name=[COLOR=FF00FF00]Thai_______Thai______Thai______Fox Mov Pre HD (TH)[/COLOR]
-thumb=https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png
-URL=http://103.77.116.193:443/movie/ais_foxpremiumth_720p.stream/playlist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
+name=[COLOR=FF00FF00]Thai_______Thai______Thai______Movie CH3 (TH)[/COLOR]
+thumb=http://image.free.in.th/v/2013/iz/180703075241.jpg
+URL=http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
 
 type=video
 name=[COLOR=FF00FF00]Thai_______Thai______Thai______MOVIE24[/COLOR]
@@ -5580,9 +5581,9 @@ URL=rtmp://tv01.thaizatv.com/drm/movie1
 #http://27.131.166.195:1935/live/_definst_/movie1.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
 type=video
-name=[COLOR=FF00FF00]Thai_______Thai______Thai______red_by_hbo[/COLOR]
-thumb=https://www.redbyhbo.com/images/redlogo-image.jpg
-URL=http://103.77.116.193:443/movie/red_by_hbo_720p.stream/chunklist.m3u8?st=EOiqfDaM9fgZM9qnhFhjAw&username=20533&password=mmmm3d8068f9e50ee38ab155&e=1517073008
+name=[COLOR=FF00FF00]Thai_______Thai______Thai______upmovie[/COLOR]
+thumb=http://image.free.in.th/v/2013/iy/180723045313.jpg
+URL=http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
 #http://27.254.63.132:1935/live/_definst_/movie2.stream/playlist.m3u8?username=sid&password=id695464846498
 #http://27.131.166.195:1935/live/_definst_/movie2.stream/playlist.m3u8?username=test&password=asdfasdfasdf
 
@@ -5896,7 +5897,7 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-07-24
+date=2018-07-26
 URL=
 
 
@@ -5910,12 +5911,33 @@ URL=
 
 
 
+type=video
+name=Traffik (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubSpsYP3WqljVPVSX2FbBNYZoR1.jpg
+date=2018-07-10
+URL=https://uptobox.com/9ogvtfj9kd05
+#https://openload.co/embed/V962IVKA81g/GHPTRAFIK80.Ganol.ru.mkv
+#https://openload.co/f/zNLRErN2zlo/Traffik.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/fvMi6Du_T5s/traffik.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/3OXFivuFQn0/Traffik.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/AyYfn1TqAlI/Traffik_2018_HDCAM_ENG_X264_-_SugarTits_SeeHD.mkv.mp4
+type=video
+name=Traffik (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubSpsYP3WqljVPVSX2FbBNYZoR1.jpg
+date=2018-07-26
+URL=https://streamango.com/f/ebcqakctfppnmkne/Traffik_2018_
 
 
-
-
-
-
+type=video
+name=The Warning (2018) ESP 720.NF.WEB-DL.DDP5.1-NTG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpiXfao6p0JonETFaLVhrpIkPTy.jpg
+date=2018-07-26
+URL=https://openload.co/f/KwBhrUG01Zw/The.Warning.2018.720.NF.WEB-DL.DDP5.1-NTG_SeeHD.mkv.mp4
+type=video
+name=The Warning (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpiXfao6p0JonETFaLVhrpIkPTy.jpg
+date=2018-07-26
+URL=https://streamango.com/f/sfkcqerntrbnkean/The_Warning_2018_
 
 
 type=video
@@ -6179,10 +6201,11 @@ URL=https://streamango.com/f/nsocsskebcrbsesr/Phantom_Thread_2017_
 
 
 type=video
-name=Revenge (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Revenge (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMv5ILxjzA9S930eLImSjfecETH.jpg
-date=2018-07-25
-URL=https://openload.co/f/s6Mm0K2TWVs/Revenge.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
+date=2018-07-26
+URL=https://openload.co/f/-Rr4MQfqyZM/Revenge.2017.BluRay.1080p.DTS.x264-CHD.mkv.mp4
+#https://openload.co/f/s6Mm0K2TWVs/Revenge.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
 #https://openload.co/f/ItjiuFqD910/Revenge_2018_720p_WEB-DL_X264_AC3-CPG_SeeHD.mkv.mp4
 type=video
 name=Revenge (2018) THSUB
@@ -7648,22 +7671,7 @@ date=2018-06-18
 URL=https://streamango.com/f/rcnscffcdpdcsksc/Operation_Red_Sea_2018_
 
 
-type=video
-name=7 Days in Entebbe (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrC63ikbK4jDp3knvBqxPoWYEMM.jpg
-date=2018-06-28
-URL=https://www.blazefile.co/embed-0srt4lblfk6v.html
-#https://uptobox.com/3kebo4szjbth
-#https://openload.co/embed/wYpgCIiJXU0/SHQ7DAYSINETEBBEBD72.Ganool.im.mkv.mp4
-#https://openload.co/f/Xu2NVuH1Yg0/7.days.in.entebbe.2018.720p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/eyceQFfY2LY/7.Days.in.Entebbe.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
-#https://openload.co/f/4orjr6uMSx4/7_Days_in_Entebbe.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/MGkJDoZElmo/7_Days_in_Entebbe.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-type=video
-name=7 Days in Entebbe (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrC63ikbK4jDp3knvBqxPoWYEMM.jpg
-date=2018-06-14
-URL=https://streamango.com/f/ftadpercopbllaec/7_Days_in_Entebbe_2018_
+
 
 
 type=video
@@ -8221,6 +8229,40 @@ URL=
 
 
 
+type=video
+name=7 Days in Entebbe (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrC63ikbK4jDp3knvBqxPoWYEMM.jpg
+date=2018-06-28
+URL=https://www.blazefile.co/embed-0srt4lblfk6v.html
+#https://uptobox.com/3kebo4szjbth
+#https://openload.co/embed/wYpgCIiJXU0/SHQ7DAYSINETEBBEBD72.Ganool.im.mkv.mp4
+#https://openload.co/f/Xu2NVuH1Yg0/7.days.in.entebbe.2018.720p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/eyceQFfY2LY/7.Days.in.Entebbe.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/4orjr6uMSx4/7_Days_in_Entebbe.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/MGkJDoZElmo/7_Days_in_Entebbe.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+type=video
+name=7 Days in Entebbe (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrC63ikbK4jDp3knvBqxPoWYEMM.jpg
+date=2018-07-26
+URL=https://openload.co/f/5LJAnqmJdjY/7_Days_in_Entebbe_%282018%29%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B9%89.mp4
+#https://streamango.com/f/ftadpercopbllaec/7_Days_in_Entebbe_2018_
+
+
+type=video
+name=All I See Is You (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wc9MgFWuBl3VS72w6VtiZXTgN79.jpg
+date=2018-01-27
+URL=https://www.blazefile.co/embed-mjnldjyaw2zm.html
+#https://uptobox.com/vfuz84o5jbik
+#https://www.blazefile.co/embed-btrwmqfsibol.html   720
+#https://uptobox.com/qwblylvdp1sa   720
+#https://openload.co/f/uQ4W4rE1qZQ/All.I.See.Is.You.2017.LIMITED.BDRip.x264-DRONES.mkv.mp4
+type=video
+name=All I See Is You (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wc9MgFWuBl3VS72w6VtiZXTgN79.jpg
+date=2018-07-26
+URL=https://openload.co/f/sw2BdhtrDH4/All_I_See_Is_You_%282017%29%E0%B8%A3%E0%B8%B1%E0%B8%81_%E0%B8%A5%E0%B8%A7%E0%B8%87_%E0%B8%95%E0%B8%B2.mp4
+
 
 type=video
 name=Slumber (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -8741,16 +8783,53 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-23
+date=2018-07-26
 URL=
 
 
 
 
+type=video
+name=Vampire Hunter D: Bloodlust (2000) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aq2bGpoXowUfqWhp6aRMlmYuj2F.jpg
+date=2018-07-26
+URL=https://openload.co/f/ciZAQ87r2qw/Vampire.Hunter.D.Bloodlust.2000.1080p.BluRay.x264.AAC-ETRG.mp4
 
+type=video
+name=Vampire Hunter D (1985) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGbInFEr0QY7CsQpTR2N8pujKSD.jpg
+date=2018-07-26
+URL=https://openload.co/f/zJ_RecmsYw0/Vampire.Hunter.D.1985.1080p.BluRay.x264.AAC-ETRG.mp4
 
+type=video
+name=Mission: Impossible (1996) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmj2PzTLC6xJvshpq8SlaYE3gbd.jpg
+date=2018-07-26
+URL=https://openload.co/f/6JamCdPAAc0/Mission_Impossible_1996_1080p_BluRay_x264_AAC_5.1_Hon3y.mp4
 
+type=video
+name=Mission: Impossible II (2000) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRaEC0vf5q5TSvaoJPwGTt2wa9T.jpg
+date=2018-07-26
+URL=https://openload.co/f/1fHKSLGshQY/Mission%3A_Impossible_2_-_Full.08vn7.mp4
 
+type=video
+name=Mission: Impossible III (2006) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjy8ABAbWooV4jLG6UjzDHlv4RB.jpg
+date=2018-07-26
+URL=https://openload.co/f/xp1p7bBVfbg/Mission_Impossible_3.2006.HD_720p.160521.mp4
+
+type=video
+name=Mission: Impossible - Ghost Protocol (2011) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s58mMsgIVOFfoXPtwPWJ3hDYpXf.jpg
+date=2018-07-26
+URL=https://openload.co/f/kox9WPrNhxU/Mission_Impossible_Ghost_Protocol_2011_1080p_BluRay_x264_AAC_Ozlem.RE.mp4
+
+type=video
+name=Mission: Impossible - Rogue Nation (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2sJd1OvAGZLxgjBdSnQoLCfn3M.jpg
+date=2018-07-26
+URL=https://openload.co/f/mR6ZFtXONGI/Mission.Impossible.Rogue.Nation.2015.1080p.BluRay.x264...mp4
 
 type=video
 name=Your Name. (2016) [COLOR=FF00FF00]JAP EngDub BR 1080p[/COLOR]
