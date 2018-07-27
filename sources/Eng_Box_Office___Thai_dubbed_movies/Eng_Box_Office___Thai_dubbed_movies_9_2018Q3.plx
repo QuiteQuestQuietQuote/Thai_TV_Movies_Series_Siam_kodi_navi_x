@@ -4475,12 +4475,6 @@ URL=https://openload.co/f/ODliFn0IvSk/hickok.2017.1080p.bluray.x264-rusted.mkv.m
 #https://openload.co/f/29kXZgp_59w/Hickok.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://www.blazefile.co/embed-tqewakmwifrv.html   720
 
-type=video
-name=The Vault (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBJocluTrE9AiVdBLUPrvvBRCvQ.jpg
-date=2017-10-30
-URL=https://www.blazefile.co/embed-74wvnfwgk3wg.html
-#https://openload.co/f/6rrOAhTmRPI/the.vault.2017.limited.1080p.bluray.x264-bipolar.mkv.mp4
 
 
 
@@ -5540,6 +5534,16 @@ URL=https://uptobox.com/tt85b7b9rj2d
 #https://openload.co/embed/kAJ8IiFSodw/ONCHESILBEACHBD72.Ganol.ru.mkv.mp4
 #https://openload.co/f/tJ-B6Scjl-c/On.Chesil.Beach.2017.720p.BR_SeeHD.mp4
 
+type=video
+name=Radius (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BHYW2Wlcu9ES41Y4OTeSgkhYkD.jpg
+date=2018-07-27
+URL=https://uptobox.com/bipbt5r5dd4w
+#https://www.rapidvideo.com/e/FTOSA9RQNV
+#https://openload.co/embed/_cOe7E7rgkU/RADIUBD72.Ganol.ru.mkv
+
+
+
 
 
 
@@ -5547,7 +5551,7 @@ URL=https://uptobox.com/tt85b7b9rj2d
 type=video
 name=
 thumb=
-date=2018-07-24
+date=2018-07-27
 URL=http://203.162.235.41:17819
 
 
@@ -5729,10 +5733,13 @@ URL=https://streamango.com/f/krmfsqkocolersbk/Taxi_5_2018_
 
 
 type=video
-name=Jurassic World: Fallen Kingdom (2018) ENG NEW_720p_HD-TS_X264_AC3_SeeHD
+name=Jurassic World: Fallen Kingdom (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
-date=2018-07-17
-URL=https://openload.co/f/a8bXJWfytMc/Jurassic_World_Fallen_Kingdom_2018_NEW_720p_HD-TS_X264_AC3_SeeHD.mkv.mp4
+date=2018-07-27
+URL=https://openload.co/f/qDE3_SspI-0/Jurassic.World.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/hPa3Ymz4ULU/Jurassic_World_Fallen_Kingdom_2018_720p_HCHD_SeeHD.mkv.mp4
+#https://openload.co/f/tvAfQtqUgVM/Jurassic.World.2018.V2.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/a8bXJWfytMc/Jurassic_World_Fallen_Kingdom_2018_NEW_720p_HD-TS_X264_AC3_SeeHD.mkv.mp4
 #https://openload.co/f/32ksG80Q0pM/Jurassic_World_Fallen_Kingdom.2018.HDTS.720p.XviD.mp4
 #https://openload.co/f/ee0BYggpv8w/Jurassic_World_Fallen_Kingdom_2018_NEW_TC_SeeHD.mkv.mp4
 #https://openload.co/f/g7ekyl53Btc/Jurassic_World_Fallen_Kingdom.2018.HDTS.XViD.AC3-ETRG.avi.mp4
@@ -6041,10 +6048,13 @@ URL=https://streamango.com/f/prqnsdtenracbnle/White_Fang_2018_
 
 
 type=video
-name=The Death of Superman (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+name=The Death of Superman (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0uxSHaSFmt6XaBJgjkeLqe7aM.jpg
-date=2018-07-12
-URL=https://openload.co/f/6O1aR-8sYnA/The.Death.of.Superman.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+date=2018-07-27
+URL=https://uptobox.com/v664viv9a2bo
+#https://www.rapidvideo.com/e/FTODQT47PW
+#https://openload.co/embed/EcwO4qI-LCc/THEDEATHSUPERMANBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/6O1aR-8sYnA/The.Death.of.Superman.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 type=video
 name=The Death of Superman (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0uxSHaSFmt6XaBJgjkeLqe7aM.jpg
@@ -6203,8 +6213,11 @@ URL=https://streamango.com/f/nsocsskebcrbsesr/Phantom_Thread_2017_
 type=video
 name=Revenge (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMv5ILxjzA9S930eLImSjfecETH.jpg
-date=2018-07-26
-URL=https://openload.co/f/-Rr4MQfqyZM/Revenge.2017.BluRay.1080p.DTS.x264-CHD.mkv.mp4
+date=2018-07-27
+URL=https://uptobox.com/gftuu2tsynrl
+#https://www.rapidvideo.com/e/FTOAQ2K54G
+#https://openload.co/embed/vHj9qJPwQ48/GHPREVENGE80.Ganol.ru.mkv.mp4
+#https://openload.co/f/-Rr4MQfqyZM/Revenge.2017.BluRay.1080p.DTS.x264-CHD.mkv.mp4
 #https://openload.co/f/s6Mm0K2TWVs/Revenge.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
 #https://openload.co/f/ItjiuFqD910/Revenge_2018_720p_WEB-DL_X264_AC3-CPG_SeeHD.mkv.mp4
 type=video
@@ -8229,6 +8242,59 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+type=video
+name=The Vault (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBJocluTrE9AiVdBLUPrvvBRCvQ.jpg
+date=2017-10-30
+URL=https://www.blazefile.co/embed-74wvnfwgk3wg.html
+#https://openload.co/f/6rrOAhTmRPI/the.vault.2017.limited.1080p.bluray.x264-bipolar.mkv.mp4
+type=video
+name=The Vault (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBJocluTrE9AiVdBLUPrvvBRCvQ.jpg
+date=2018-07-27
+URL=https://openload.co/f/_1QtrCGGVKA/The_Vault_%282017%29%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#28---2018-07-27
+
 type=video
 name=7 Days in Entebbe (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrC63ikbK4jDp3knvBqxPoWYEMM.jpg
@@ -8562,8 +8628,9 @@ URL=https://www.blazefile.co/embed-mtxxsldalapo.html
 type=video
 name=Pacific Rim: Uprising (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
-date=2018-07-02
-URL=https://openload.co/f/v6JOA7-pLkY/Pacific_Rim%3A_Uprising_%282018%29%E0%B9%81%E0%B8%9B%E0%B8%8B%E0%B8%B4%E0%B8%9F%E0%B8%B4%E0%B8%84_%E0%B8%A3%E0%B8%B4%E0%B8%A1_2%3A_%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+date=2018-07-27
+URL=https://streamango.com/f/kcltqmkeclbaqfeb/Pacific_Rim_Uprising_2018_2_mp4
+#https://openload.co/f/v6JOA7-pLkY/Pacific_Rim%3A_Uprising_%282018%29%E0%B9%81%E0%B8%9B%E0%B8%8B%E0%B8%B4%E0%B8%9F%E0%B8%B4%E0%B8%84_%E0%B8%A3%E0%B8%B4%E0%B8%A1_2%3A_%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 #https://openload.co/f/P1XZugWHu0Q/Pacific_Rim%3A_Uprising_%282018%29%E0%B9%81%E0%B8%9B%E0%B8%8B%E0%B8%B4%E0%B8%9F%E0%B8%B4%E0%B8%84-%E0%B8%A3%E0%B8%B4%E0%B8%A1_%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 #https://streamango.com/f/nbkqnsctdkcrqbsk/Pacific_Rim_Uprising_2018_
 #https://streamango.com/f/lscptnpfbacsobfa/Pacific_Rim_Uprising_2018_

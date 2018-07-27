@@ -20,9 +20,14 @@
 
 
 <item>
-<title>JAV test</title>
-<link>http://vodstream.xyz/fembed.php?id=lMp8WlM</link>
+<title>JAV test20180727</title>
+<link>http://vodstream.xyz/fembed.php?id=bM5W03n&ads=1&thumb=http://pics.dmm.co.jp/mono/movie/adult/sqte151so/sqte151sopl.jpg</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png</thumbnail>
+
+<item>
+<title>JAV test20180727</title>
+<link>http://vodstream.xyz/fembed.php?id=lMpZ1Pn&ads=1&thumb=http://pics.dmm.co.jp/mono/movie/adult/mide160/mide160pl.jpg</link>
+<thumbnail>http://javdon.com/wp-content/uploads/2017/01/11832-215x316.jpg</thumbnail>
 
 
 
@@ -77,7 +82,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     strurl = re.findall(str(fmturl) + '\|([^\|]+.videoplayback[^\,]+)', page_data)[0].replace('\\u0026', '&').replace('\\u003d', '=')
     return strurl
 ]]></expres>
-<page>http://vodstream.xyz/fembed.php?id=lMp8WlM</page>
+<page>http://vodstream.xyz/fembed.php?id=bM5W03n&ads=1&thumb=http://pics.dmm.co.jp/mono/movie/adult/sqte151so/sqte151sopl.jpg</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -92,7 +97,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>link</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=lMp8WlM'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=bM5W03n&ads=1&thumb=http://pics.dmm.co.jp/mono/movie/adult/sqte151so/sqte151sopl.jpg'):
     import urlresolver
     u = urlresolver.resolve(url)
     return u
@@ -116,7 +121,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     strurl = re.findall(str(fmturl) + '\|([^\|]+.videoplayback[^\,]+)', page_data)[0].replace('\\u0026', '&').replace('\\u003d', '=')
     return strurl
 ]]></expres>
-<page>http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4394/hls.m3u8</page>
+<page>http://vodstream.xyz/fembed.php?id=57bERKM&ads=1&thumb=</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -131,7 +136,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>link</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4394/hls.m3u8'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=57bERKM&ads=1&thumb='):
     import urlresolver
     u = urlresolver.resolve(url)
     return u

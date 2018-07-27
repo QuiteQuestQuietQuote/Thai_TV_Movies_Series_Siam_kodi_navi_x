@@ -2780,9 +2780,8 @@ http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/866/inde
 
 
 
-
-
- 
+#EXTINF:-1,hustler HD
+http://85.132.71.6/ru/hust/index.m3u8
 #EXTINF:-1,Eroxx_nejtv
 http://81.200.50.4/hls/Eroxx_nejtv_portable_low.m3u8
 #EXTINF:-1,blue hustler
@@ -2896,6 +2895,18 @@ https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ii/180630033425.jpg",movie24
 rtmp://tv01.thaizatv.com/drm/movie1
 
+#EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO sd_php
+http://fpttv.tk/iptv/mytvnet.php?id=hbo
+#EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO sd
+http://s8196.cdn.mytvnet.vn/v5live.m3u8?c=vstv036&q=high&deviceType=4&userId=20646&deviceId=&type=tv&rkey=dGYdzqsV56fxAMIw&p=0&zn=net&ctl=3.31&sl=6&pkg=pkg0&profiles=high,medium&location=&rbk=123296849&pnode=172.16.10.61&isp=vn
+#EXTINF:-1,FOX MOVIES_php
+http://fpttv.tk/iptv/hplus.php?id=foxmovies-hd
+#EXTINF:-1,FOX MOVIES_vn
+http://hplusliveall.e96bbe18.sabai.vn/95378c5acf16a6790fa03e1ddfd6d5841532728808/foxmovies-720p.stream/playlist.m3u8
+
+#EXTINF:-1,HRT1_PLTV
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+
 
 
 #EXTINF:-1,AFC
@@ -2970,6 +2981,23 @@ http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/19.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_thflixCH_103
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/18.m3u8
 
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_php
+http://fpttv.tk/iptv/hplus.php?id=bbc-e
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_vn
+http://hplusliveall.e96bbe18.sabai.vn/3a954aeb2975ceb5253fd26ac7c1b3431532728280/bbcearth-480/playlist.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_php
+http://fpttv.tk/iptv/mytvnet.php?id=afc
+#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_vn
+http://s934.cdn.mytvnet.vn/v5live.m3u8?c=vstv319&q=high&deviceType=4&userId=3290&deviceId=&type=tv&rkey=axZdlLC0hxXyo1Bt&p=0&zn=net&ctl=3.31&sl=6&pkg=pkg0&profiles=high,medium&location=&rbk=123296849&pnode=172.16.10.61&isp=vn
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE_php
+http://fpttv.tk/iptv/mytvnet.php?id=ngphd
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE_vn
+http://s8196.cdn.mytvnet.vn/v5live.m3u8?c=vstv283&q=high&deviceType=4&userId=14068&deviceId=&type=tv&rkey=cPmotthUl887mCn0&p=0&zn=net&ctl=3.31&sl=6&pkg=pkg12&profiles=hd,sd&location=&rbk=123296849&pnode=172.16.10.61&isp=vn
+
+#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_TTVHD
+http://www.ssh101.com/m3u8/dyn/TTVHD/index.m3u8
+
+
 #EXTINF:-1,RenTV 
 http://178.134.204.19:9981/stream/channelid/1387696404 
 #EXTINF:-1,HBO HD
@@ -3023,8 +3051,8 @@ http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/340/index.m3u8
 
 
-
-
+#EXTINF:-1,jav_test
+http://vodstream.xyz/fembed.php?id=lMpZ1Pn&ads=1&thumb=http://pics.dmm.co.jp/mono/movie/adult/mide160/mide160pl.jpg
 
 
 

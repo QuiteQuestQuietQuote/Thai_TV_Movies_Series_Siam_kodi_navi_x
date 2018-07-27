@@ -51,6 +51,128 @@ URL=
 
 
 
+type=video
+name=190xxxxxxxxxxxxxxxxxxxxJeongsa Cheoje Ui Salang (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Jeongsa-Cheoje-Ui-Salang-2018.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/kdntkqkmlrdmsbcf/
+
+type=video
+name=Eumlanhan Model (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Eumlanhan-Model-2018.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/ecspfpsomfqmmknl/
+
+type=video
+name=Me Too Hidden Truth (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Me-Too-Hidden-Truth-2018-1.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/bqbpkrsbskrbasrd/
+
+type=video
+name=Temptation Of A Daughter In Law (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Temptation-Of-A-Daughter-In-Law-2017.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/fkptkpblsafscnbn/
+
+type=video
+name=Nae Eommaui Chingu (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Nae-Eommaui-Chingu-2017-Uncut.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/dkponfqspcpecmeo/
+
+
+type=video
+name=Island of Migrained Wet Tropical Night (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Island-of-Migrained-Wet-Tropical-Night-2017.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/bmsmtbeqlsfccems/
+
+type=video
+name=Red Hot Heavy-Breasted Mom & Daughter in Small Restaurant (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Red-Hot-Heavy-Breasted-Mom-Daughter-in-Small-Restaurant-2017.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/oosmpoqttbloskaq/
+
+type=video
+name=Wallet-Friendly Hand Job Shop (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Wallet-Friendly-Hand-Job-Shop-2017.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/caakdpomsnkbcccc/
+
+type=video
+name=Shinjuku Female Black Swan (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Shinjuku-Female-Black-Swan-2017.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/pftfodomdlqlnodf/
+
+type=video
+name=Dirty Obstetrician & Gynecologist 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Dirty-Obstetrician-Gynecologist-2-2017.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/tltadoqkofmemrtl/
+
+
+type=video
+name=Ero Peek Peeping And Yeah! (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Ero-Peek-Peeping-And-Yeah-2017.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/oapobplborqskckf/
+
+type=video
+name=Ixtukaosiirijikenn (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Ixtukaosiirijikenn-2017.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/frspfbmnltlrmqfs/
+
+type=video
+name=Japan Mama 2 (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Japan-Mama-2-2017-Uncut.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/rabkbfbrfntdbqfo/
+
+type=video
+name=Love Robot Drizzle Innocence Intelligence (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Love-Robot-Drizzle-Innocence-Intelligence-2017.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/ktnoaodbplblmdpb/
+
+type=video
+name=New Mother 2 (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/New-Mother-2-2017-Uncut.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/allftbabqoeakobf/
+
+
+type=video
+name=Twisted Stylish Magazine (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Twisted-Stylish-Magazine-2017.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/sllsnmedbtmfqpmq/
+
+type=video
+name=President’s Secretary-Wet Hole (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Presidents-Secretary-Wet-Hole-2018.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/ndskqkdslfdeplsk/
+
+type=video
+name=Swapping F Wife 2 (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Swapping-F-Wife-2-2018.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/dqfbcbtnapcocmnc/
+
+type=video
+name=Sinhonbubuui Seongsaenghwal (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Sinhonbubuui-Seongsaenghwal-2018.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/fnlodnrodtbneqpn/
+
+type=video
+name=Gyohoenuna (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Gyohoenuna-2018.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/eptcrafdnebrcell/
 
 
 
@@ -59,6 +181,57 @@ URL=
 
 
 
+
+
+
+type=video
+name=170xxxxxxxxxxxxxxxxxxxxIkebana Teacher Matsushima Kaori (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Ikebana-Teacher-Matsushima-Kaori-2017.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/tlpderqdfrerdfdc/
+
+type=video
+name=A Woman Who Wants To Be Held (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/A-Woman-Who-Wants-To-Be-Held-2017.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/qplslcoofrqndpfb/
+
+type=video
+name=Beauty Salon Special Services 2 (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Beauty-Salon-Special-Services-2-2017-Uncut.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/bmocdscmenlcamkq/
+
+type=video
+name=Sachon Yeodongsaengdeul Geumdan Ui Salang (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Sachon-Yeodongsaengdeul-Geumdan-Ui-Salang-2018-Uncut.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/oaapsstefcdkblmo/
+
+type=video
+name=You Re Not Even That Into Me (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/You-Re-Not-Even-That-Into-Me-2016.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/bknkmdoonpnerpdb/
+
+
+type=video
+name=Young Sister (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Young-Sister-2018-Uncut.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/lbdbpqbkoqtccaek/
+
+type=video
+name=Young Sister In Law The Day I Became A Woman (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Young-Sister-In-Law-The-Day-I-Became-A-Woman-2017.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/ptmksfdlrorbflcf/
+
+type=video
+name=Flirting at Apartment Complex (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Flirting-at-Apartment-Complex-2017.jpg
+date=2018-07-27
+URL=https://streamcherry.com/embed/fsmpeapernkodtcs/
 
 
 

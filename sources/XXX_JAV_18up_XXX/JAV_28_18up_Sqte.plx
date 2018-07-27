@@ -31,42 +31,66 @@ thumb=https://mrs0m30n3.github.io/youtube-dl-gui/images/logo.png
 URL=script.module.youtube.dl
 
 type=video
-name=
-thumb=
+name=Bban-036 Woman Undercover Officer Was Caught In Lesbian Underground Cat Fight Club Revenge Of Lesbian
+thumb=http://javdon.com/wp-content/uploads/2017/01/11889-215x316.jpg
 date=2018-06-15
-URL=
+URL=http://vodstream.xyz/fembed.php?id=xqrDDg7&ads=1&thumb=http://pics.dmm.co.jp/mono/movie/adult/bban036/bban036pl.jpg
 
 type=video
 name=
-thumb=
-URL=http://javdon.com/download?url=aHR0cHM6Ly92aWRlby5maGFuNS0xLmZuYS5mYmNkbi5uZXQvdi90NDIuOTA0MC0yLzEwMDAwMDAwXzk2MjY2Mzc0MzkxMTc5OF85MDM2MzIxNTgxMTM5MjMwNzJfbi5tcDQ/X25jX2NhdD0wJmVmZz1leUoyWlc1amIyUmxYM1JoWnlJNkluTjJaVjl6WkNKOSZfbmNfZXVpMj1BZUVxblpmRUtlOGd1c1dMaUtFdnY0UEVWRkU0bktOaVBRNHdMMXF4M2pLX2thM1M0ZkJnQ2xWTDR5NlhFUDd3ZTdIanZZTjRwYlBHdTFrRTFsOWgzbVNTT0h5bjZoaTA0VEFjUVN6RmlHaEhBdyZvaD05NWQ5NjkwNmE0OGIzNjM5ZDE5NjIzZTMyYzYzOWI0ZiZvZT01QjVBNThFMyZpdGFnPTE4fGh0dHBzOi8vdmlkZW8uZmhhbjUtMS5mbmEuZmJjZG4ubmV0L3YvdDQyLjkwNDAtMi8xMDAwMDAwMF8yMDA5OTE2NDg1OTI2NjA1XzU5MDMyMDk5NzAyNjE4MTkzOTJfbi5tcDQ/X25jX2NhdD0wJmVmZz1leUoyWlc1amIyUmxYM1JoWnlJNkluTjJaVjlvWkNKOSZfbmNfZXVpMj1BZUhkaC0wZFF4ckxaSW03S3ktQW9MUF9UMDVZMGxEdkdtUnk4emtmZ093LVBaZWlLSGNfY3pjYjQxUS0tS3hvVW1sTXBMTEUxTGdERW5JNDhIOXM5MUgwSHJJWFR4Z2FabnBCYkdtY0IyREVVZyZvaD03OWU3ZDk5N2FhMDY2MDU0NDM5N2UwMTFlMTE5NDY1MiZvZT01QjVBNTc4MyZpdGFnPTIy
+thumb=http://javdon.com/wp-content/uploads/2017/01/11889-215x316.jpg
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_440886816334759_3180673095165804544_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=1a49bd943133190c5e3de6dc63ad7af1&oe=5B5B9A9C&itag=22
+
+type=video
+name=Bban-026 Women Limited Share House Lesbian Mud Swamp Of To Go Triangular Relationship, Under One Roof 8230 Kotohara Miyu Yu Kawakami
+thumb=http://javdon.com/wp-content/uploads/2017/01/11887-215x316.jpg
+date=2018-06-15
+URL=http://vodstream.xyz/fembed.php?id=jqPbbz7&ads=1&thumb=http://pics.dmm.co.jp/mono/movie/adult/bban026/bban026pl.jpg
 
 type=video
 name=
-thumb=
+thumb=http://javdon.com/wp-content/uploads/2017/01/11887-215x316.jpg
 date=2018-06-15
-URL=http://vodstream.xyz/fembed.php?id=57bERKM&ref=http://javdon.com/watch-movie-mide-233-lovely-wife-dream-cum-true.html
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_333902977132665_199969717341913088_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=a8cee3ad199a0ee8c1831d0d30aea589&oe=5B5B9BF7&itag=22
 
 type=video
 name=
-thumb=
+thumb=http://javdon.com/wp-content/uploads/2017/01/11773-215x316.jpg
 date=2018-06-15
-URL=
-
-type=video
-name=
-thumb=
-date=2018-06-15
-URL=https://video.xx.fbcdn.net/v/t42.9040-2/10000000_568369566879010_4023059311696543744_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeG45vnVBF2ulFfLIHI7zp-XPlojXrCXLvfBlpFN7c-ahwBamLqC84eL5ZhoJXnuBWvgkVZL6MAH5Q_xs7MkpogQJbnso2VpyQ91pUhQquDVjg&oh=3b4fa8a8fa38aa9ca7ee0fc02393e2b8&oe=5B5A6F4C&itag=22
+URL=http://vodstream.xyz/fembed.php?id=PnYvayq&ads=1&thumb=http://pics.dmm.co.jp/mono/movie/adult/bban043/bban043pl.jpg
                                     
 
 
 
 type=video
-name=Sqte-
-thumb=
+name=
+thumb=http://javdon.com/wp-content/uploads/2017/01/11773-215x316.jpg
 date=2018-06-15
-URL=
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1027953330696940_4409102809190891520_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=dd8bf8118d1000dfa8389fb185536a0e&oe=5B5B9899&itag=22
+
+
+
+type=video
+name=Bban-016 Lesbian Share House
+thumb=http://javdon.com/wp-content/uploads/2017/01/11773-215x316.jpg
+date=2018-06-15
+URL=http://vodstream.xyz/fembed.php?id=R7QlEkM&ads=1&thumb=//pics.dmm.co.jp/mono/movie/adult/bban016/bban016pl.jpg
+
+type=video
+name=
+thumb=http://javdon.com/wp-content/uploads/2017/01/11773-215x316.jpg
+date=2018-06-15
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2060072487354969_8324164184682004480_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=cd7eef31e63b5998d25a56910175fc75&oe=5B5BA54C&itag=22
+
+
+
+
+
+
+
+
+
+
 
 
 
