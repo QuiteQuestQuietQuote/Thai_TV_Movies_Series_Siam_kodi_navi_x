@@ -31,56 +31,55 @@ thumb=https://mrs0m30n3.github.io/youtube-dl-gui/images/logo.png
 URL=script.module.youtube.dl
 
 type=video
-name=Bban-036 Woman Undercover Officer Was Caught In Lesbian Underground Cat Fight Club Revenge Of Lesbian
-thumb=http://javdon.com/wp-content/uploads/2017/01/11889-215x316.jpg
-date=2018-06-15
-URL=http://vodstream.xyz/fembed.php?id=xqrDDg7&ads=1&thumb=http://pics.dmm.co.jp/mono/movie/adult/bban036/bban036pl.jpg
-
-type=video
-name=
-thumb=http://javdon.com/wp-content/uploads/2017/01/11889-215x316.jpg
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_440886816334759_3180673095165804544_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=1a49bd943133190c5e3de6dc63ad7af1&oe=5B5B9A9C&itag=22
-
-type=video
-name=Bban-026 Women Limited Share House Lesbian Mud Swamp Of To Go Triangular Relationship, Under One Roof 8230 Kotohara Miyu Yu Kawakami
-thumb=http://javdon.com/wp-content/uploads/2017/01/11887-215x316.jpg
-date=2018-06-15
-URL=http://vodstream.xyz/fembed.php?id=jqPbbz7&ads=1&thumb=http://pics.dmm.co.jp/mono/movie/adult/bban026/bban026pl.jpg
-
-type=video
-name=
-thumb=http://javdon.com/wp-content/uploads/2017/01/11887-215x316.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_333902977132665_199969717341913088_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=a8cee3ad199a0ee8c1831d0d30aea589&oe=5B5B9BF7&itag=22
-
-type=video
-name=
+name=Bban-043 Lesbian Manipulative Council That Women Athletes In The Buckwheat Sports University Attend
 thumb=http://javdon.com/wp-content/uploads/2017/01/11773-215x316.jpg
 date=2018-06-15
-URL=http://vodstream.xyz/fembed.php?id=PnYvayq&ads=1&thumb=http://pics.dmm.co.jp/mono/movie/adult/bban043/bban043pl.jpg
-                                    
-
-
-
-type=video
-name=
-thumb=http://javdon.com/wp-content/uploads/2017/01/11773-215x316.jpg
-date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1027953330696940_4409102809190891520_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=dd8bf8118d1000dfa8389fb185536a0e&oe=5B5B9899&itag=22
-
-
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1027953330696940_4409102809190891520_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=26760f5cceb38eab3091af1fad6f0a78&oe=5B5CBFE9&itag=22
 
 type=video
 name=Bban-016 Lesbian Share House
 thumb=http://javdon.com/wp-content/uploads/2017/01/11773-215x316.jpg
-date=2018-06-15
-URL=http://vodstream.xyz/fembed.php?id=R7QlEkM&ads=1&thumb=//pics.dmm.co.jp/mono/movie/adult/bban016/bban016pl.jpg
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2060072487354969_8324164184682004480_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=57b07cb6263daa4a91dfb0076c433e8f&oe=5B5CCC9C&itag=22
 
 type=video
-name=
-thumb=http://javdon.com/wp-content/uploads/2017/01/11773-215x316.jpg
+name=Bban-086 Lesbattle Royale- Lesbian Battle Royale 8211
+thumb=http://javdon.com/wp-content/uploads/2017/02/15860-215x316.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2060072487354969_8324164184682004480_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=cd7eef31e63b5998d25a56910175fc75&oe=5B5BA54C&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_256853328202213_3818138845682073600_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=662aee1981d36fe75fa50fdef7faa3f2&oe=5B5CE132&itag=22
+
+type=video
+name=Bban-025 Lesbian Lingerie Model 8211 Woman Of Obstinacy Collideno Plot 123 Minutes Non-stop Lesbian Battle
+thumb=http://javdon.com/wp-content/uploads/2017/02/15852-215x316.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5182/3678/003-hls/appid-15852/hls.m3u8
+
+type=video
+name=Bban-163 Lesbian Technique No1 Non-scripted Cum-off Battle Document Lesbian 2018 Super Lesbian Sex Orgy
+thumb=http://javdon.com/wp-content/uploads/2018/04/33212-215x316.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q585/3674/054-hls/appid-33212/hls.m3u8
+                                    
+type=video
+name=
+thumb=http://javdon.com/wp-content/uploads/2017/02/15780-215x316.jpg
+date=2018-06-15
+URL=http://vodstream.xyz/3ea353fb-2269-41cf-9448-c4c8850b904c
+
+type=video
+name=Bban-052 The Lesbian World Lesbian Only Woman On The World 8211 The Earth39s Naturalwoman That No Longer Views Of The Descendants Prosperity Is Going To Dohamari To Lesbian Sex For Libido Eliminate
+thumb=http://javdon.com/wp-content/uploads/2017/02/15780-215x316.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5186/3674/020-hls/appid-15780/hls.m3u8
+
+
+
+
+
+type=video
+name=Bban-065 Lesbian Athlete Glamorous Women Valley Borer-bloodednon-stop Lesbian
+thumb=http://javdon.com/wp-content/uploads/2017/01/12346-215x316.jpg
+date=2018-06-15
+URL=http://cdn.vodstream.xyz/q5183/3674/007-hls/appid-12346/hls.m3u8
 
 
 

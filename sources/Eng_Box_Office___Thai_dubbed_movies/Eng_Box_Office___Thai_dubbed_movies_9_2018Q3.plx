@@ -83,10 +83,11 @@ URL=
 
 
 type=video
-name=Mission: Impossible - Fallout (2018) ENG 720p_HDCAM_AC3-1XB3T_SeeHD
+name=Mission: Impossible - Fallout (2018) ENG 720p.HDCAM.V2.1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
-date=2018-07-26
-URL=https://openload.co/f/1_OWrlgCXdI/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3-1XB3T_SeeHD.mp4
+date=2018-07-28
+URL=https://openload.co/f/lbnxpJ8IU7A/Mission.Impossible.Fallout.2018.720p.HDCAM.V2.1XBET_SeeHD.mp4
+#https://openload.co/f/1_OWrlgCXdI/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3-1XB3T_SeeHD.mp4
 #https://openload.co/f/r2MGpc703mg/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3.E.mp4
 
 type=video
@@ -1414,16 +1415,28 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-26
+date=2018-07-28
 URL=
 
 
 
 
 
+type=video
+name=On Chesil Beach (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uRdd5NawI9iTQ5oWIKYjqNkyc1.jpg
+date=2018-07-28
+URL=https://openload.co/f/wxz9srW-bc0/On_Chesil_Beach_%282017%29_%5B1080p%5D_BluRay_x264-YTS-AM_mp4
+#https://uptobox.com/tt85b7b9rj2d   720
+#https://www.rapidvideo.com/e/FTNHX7DONX   720
+#https://openload.co/embed/kAJ8IiFSodw/ONCHESILBEACHBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/tJ-B6Scjl-c/On.Chesil.Beach.2017.720p.BR_SeeHD.mp4
 
-
-
+type=video
+name=Suffering of Ninko (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPYhk6v0uZsCL5sCFFdg8GRYpJ8.jpg
+date=2018-07-28
+URL=https://openload.co/f/V3syBon1YUU/suffering.of.ninko.2016.1080p.bluray.x264-ghouls.mkv.mp4
 
 type=video
 name=Another Soul (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5525,14 +5538,7 @@ URL=https://uptobox.com/zldtrh3pfial
 #https://openload.co/embed/6nSojZKDXes/WARRIRROADBD72.Ganol.ru.mkv.mp4
 #https://openload.co/f/UQcUodQ6xAE/Warrior.Road.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
 
-type=video
-name=On Chesil Beach (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uRdd5NawI9iTQ5oWIKYjqNkyc1.jpg
-date=2018-07-26
-URL=https://uptobox.com/tt85b7b9rj2d
-#https://www.rapidvideo.com/e/FTNHX7DONX
-#https://openload.co/embed/kAJ8IiFSodw/ONCHESILBEACHBD72.Ganol.ru.mkv.mp4
-#https://openload.co/f/tJ-B6Scjl-c/On.Chesil.Beach.2017.720p.BR_SeeHD.mp4
+
 
 type=video
 name=Radius (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5542,6 +5548,17 @@ URL=https://uptobox.com/bipbt5r5dd4w
 #https://www.rapidvideo.com/e/FTOSA9RQNV
 #https://openload.co/embed/_cOe7E7rgkU/RADIUBD72.Ganol.ru.mkv
 
+type=video
+name=Lucky (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fy2K8jqCV9rNC8fHx9muPJTNaqs.jpg
+date=2018-07-28
+URL=https://openload.co/f/4aWUP0GyDag/lucky.2017.720p.bluray.x264-getit.mkv.mp4
+
+type=video
+name=New Initial D the Movie Legend 3 - Dream (2016) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7tmOMVqqPU37rugbfEQR5h1sjC.jpg
+date=2018-07-28
+URL=https://openload.co/f/il-1zw3QAOU/new.initial.d.the.movie.legend.3.dream.2016.720p.bluray.x264-ghouls.mkv.mp4
 
 
 
@@ -8233,7 +8250,7 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=
 thumb=
-date=2018-07-24
+date=2018-07-28
 URL=
 
 
@@ -8248,8 +8265,16 @@ URL=
 
 
 
-
-
+type=video
+name=Everybody Wants Some!! (2016) ENG 720p.WEB_DL.900MBCage
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIpd0rGxruvxCnMSmh4gd8wuhmv.jpg
+date=2018-07-28
+URL=https://openload.co/f/77PPu8pQM80/Everybody.Wants.Some.2016.720p.WEB_DL.900MBCage.mp4
+type=video
+name=Everybody Wants Some!! (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIpd0rGxruvxCnMSmh4gd8wuhmv.jpg
+date=2018-07-28
+URL=https://openload.co/f/xTUaExSSPAo/Everybody_Wants_Some%21%21_%282016%29%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%84%E0%B8%AB%E0%B8%A1_%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%B1%E0%B8%81%E0%B8%84%E0%B8%99.mp4
 
 
 type=video
@@ -8850,11 +8875,33 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-26
+date=2018-07-28
 URL=
 
 
 
+
+
+
+
+
+type=video
+name=The Lord of the Rings (1978) [COLOR=FF00FF00]ENG CD1[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1l3WpoF7TX9pOprX4XepCXjQXUV.jpg
+date=2018-07-28
+URL=https://openload.co/f/4M5UYvpkhlE/The_Lord_Of_The_Rings_1978_CD1.mp4
+
+type=video
+name=The Lord of the Rings (1978) [COLOR=FF00FF00]ENG CD2[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1l3WpoF7TX9pOprX4XepCXjQXUV.jpg
+date=2018-07-28
+URL=https://openload.co/f/sS8a3w8allo/The_Lord_Of_The_Rings_1978_-_CD2.mp4
+
+type=video
+name=DragonHeart (1996) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bqI54aIyPDzPKkScwJprzbAsIi.jpg
+date=2018-07-28
+URL=https://openload.co/f/t-HO4FFI_k0/Dragonheart.1996.1080p.BrRip.x264.BOKUTOX.E.mp4
 
 type=video
 name=Vampire Hunter D: Bloodlust (2000) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
