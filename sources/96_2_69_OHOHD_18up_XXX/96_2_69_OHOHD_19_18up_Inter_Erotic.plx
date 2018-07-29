@@ -31,15 +31,39 @@ name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
 thumb=https://mrs0m30n3.github.io/youtube-dl-gui/images/logo.png
 URL=script.module.youtube.dl
 
+
 type=video
 name=
-thumb=
+thumb=https://static.akacdn.ru/static/images/2018/07/768c32876febb08f5710fc7837dc9fab.jpg
 date=2017-10-24
-URL=https://www.googleapis.com/drive/v3/files/0B1Qx2ZSbvQF0a1BrWmhmWHNHbHM?alt=media&key=AIzaSyBXV3qGJ2rwDaxvUmAzaVpZMmn1t6PyU0E
+URL=https://cdn.mcloud.to/stream/sf:i0:q2:h0:p24:l2/cMaegH3Fxte2Q1iUV18gdw/1532926800/f/8/2/rjy4oy/list.m3u8
 
 
-  
 
+type=video
+name=Gas, Food Lodging
+thumb=https://static.akacdn.ru/static/images/2018/07/768c32876febb08f5710fc7837dc9fab.jpg
+date=2017-10-24
+URL=https://mcloud.to/embed/@4@2LQBR4QL5WOE5?sub.file=https%253A%252F%252Fwww7.fmovies.se%252Fsubtitle%252F39329.vtt%253Fv1&a.url=https%3A%2F%2Fwww7.fmovies.se%2Fassets%2Facode%2Faplayer.html%3Frandom%3D1532882212.1214&a.close=1&ui=pg985qDz6OUEjIOOLKwOwpBb2PaWUPu2yl3cCtm%40v8ZplgPu%2FdiS1Y3Or%2Fau2CS%2FxNVZtHLfjLE%3D
+
+type=video
+name=Wide Sargasso Sea
+thumb=https://static.akacdn.ru/static/images/2018/02/5dfcc859a06ed99fbbe53f03fe05d141.jpg
+date=2017-10-24
+URL=https://mcloud.to/embed/@S@93PCR6Q652O05?a.url=https%3A%2F%2Fwww7.fmovies.se%2Fassets%2Facode%2Faplayer.html%3Frandom%3D1532882079.2055&a.close=1&ui=pg985qDz6OUEjIOOLKwOwpBb2PaWUPu2yl3cCtm%40v8ZplgPu%2FdiS1Y28r%2F3E3zu%2FxtU2tArf7rE%3D
+
+
+type=video
+name=Different Strokes_https://vidcloud.icu/streaming.php
+thumb=https://cdn.fmovies.io/cover/different-strokes.png
+date=2017-10-24
+URL=https://vidcloud.icu/streaming.php?id=MjA4NjQ2&title=Different%20Strokes
+
+type=video
+name=Different Strokes
+thumb=https://cdn.fmovies.io/cover/different-strokes.png
+date=2017-10-24
+URL=https://openload.co/embed/--ocb2Al2cc
 
 type=video
 name=

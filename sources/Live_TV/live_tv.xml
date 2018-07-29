@@ -78,6 +78,42 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://drive.google.com/open?id=1a
 
 
 
+<item>
+<title>Luang Phee Jazz 5G (2018) Luang Phee Jazz 5G</title>
+<thumbnail>https://www.037hd.com/wp-content/uploads/2018/04/Luang-Pee-Jazz-5G-2018.jpg</thumbnail>
+<link>plugin://plugin.video.vstream/?function=play&amp;site=cHosterGui&amp;sFileName=&amp;sHosterIdentifier=openload&amp;sMediaUrl=$doregex[getlink]</link>
+
+<regex>
+<name>code2</name>
+<expres>height="400" src="(.+?)"</expres>
+<page>https://www.037hd.com/%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%88%E0%B9%8A%E0%B8%AA-5g-2018-luang-phee-jazz-5g/</page>
+<referer>https://www.037hd.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>code1</name>
+<expres><![CDATA[href="(https[^"']+)">Openload<]]></expres>
+<page>$doregex[code2]</page>
+<referer>https://www.037hd.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getlink</name>
+<expres>iframe src="(.*?)"</expres>                                        
+<page>$doregex[code1]</page>
+<referer>https://www.037hd.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/5.0 Chrome/55.0.2883.75 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
 
 
 

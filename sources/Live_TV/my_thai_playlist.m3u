@@ -2778,8 +2778,8 @@ http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/866/inde
 
 
 
-
-
+#EXTINF:-1,hustler
+http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
 #EXTINF:-1,hustler HD
 http://85.132.71.6/ru/hust/index.m3u8
 #EXTINF:-1,Eroxx_nejtv
@@ -3048,10 +3048,11 @@ http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/37.m3u8
 http://ipsatpro.com:8080/live/ivan003/ivan003/466.ts
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_hd
 http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_electric
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
-
-
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_climate_rtmp
+rtmp://climate.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://newschat.tv/player.swf pageUrl=http://www.livenewschat.eu/stocks/
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_fries_rtmp
+rtmp://fries.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://newschat.tv/player.swf pageUrl=http://www.livenewschat.eu/stocks/
 
