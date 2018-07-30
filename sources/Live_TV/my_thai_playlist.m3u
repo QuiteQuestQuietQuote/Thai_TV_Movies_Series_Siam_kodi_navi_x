@@ -2796,6 +2796,12 @@ http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
 #EXTINF:-1,ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1,livesexlatinas_rtsp
+rtsp://51.254.198.110:1935/leved/livesexlatinas
+#EXTINF:-1,XXX_CHN
+http://59.124.220.46:554/live/tv284198321.stream/index.m3u8
+
+
 
 
 #EXTINF:-1,Chinese1
@@ -2897,12 +2903,10 @@ rtmp://tv01.thaizatv.com/drm/movie1
 
 #EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO sd_php
 http://fpttv.tk/iptv/mytvnet.php?id=hbo
-#EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO sd
-http://s8196.cdn.mytvnet.vn/v5live.m3u8?c=vstv036&q=high&deviceType=4&userId=20646&deviceId=&type=tv&rkey=dGYdzqsV56fxAMIw&p=0&zn=net&ctl=3.31&sl=6&pkg=pkg0&profiles=high,medium&location=&rbk=123296849&pnode=172.16.10.61&isp=vn
 #EXTINF:-1,FOX MOVIES_php
 http://fpttv.tk/iptv/hplus.php?id=foxmovies-hd
-
-
+#EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO hits
+http://iss06.ott.net.tw:8086/live/coship_DCTV2291445940028640_1200.m3u8
 #EXTINF:-1,HRT1_PLTV
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 
@@ -3050,9 +3054,56 @@ http://ipsatpro.com:8080/live/ivan003/ivan003/466.ts
 http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_electric
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_climate
+http://climate.cdn.newschat.tv/hls/cnbc_live/index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_fries
+http://fries.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_climate_rtmp
-rtmp://climate.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://newschat.tv/player.swf pageUrl=http://www.livenewschat.eu/stocks/
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_fries_rtmp
-rtmp://fries.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://newschat.tv/player.swf pageUrl=http://www.livenewschat.eu/stocks/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

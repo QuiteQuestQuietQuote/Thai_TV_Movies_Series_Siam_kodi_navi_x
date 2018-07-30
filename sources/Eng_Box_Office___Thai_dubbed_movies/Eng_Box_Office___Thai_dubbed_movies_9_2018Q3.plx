@@ -87,6 +87,7 @@ name=Mission: Impossible - Fallout (2018) ENG 720p.HDCAM.V2.1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
 date=2018-07-28
 URL=https://openload.co/f/lbnxpJ8IU7A/Mission.Impossible.Fallout.2018.720p.HDCAM.V2.1XBET_SeeHD.mp4
+#https://openload.co/f/jRzDGi0XWFg/Mission.Impossible.Fallout.2018.New.FULL.HDCAM-X264-AC3-Bobi.mkv.mp4
 #https://openload.co/f/1_OWrlgCXdI/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3-1XB3T_SeeHD.mp4
 #https://openload.co/f/r2MGpc703mg/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3.E.mp4
 
@@ -132,10 +133,11 @@ URL=https://openload.co/f/eHv-fLRuh7A/Hotel_Transylvania_3_Summer_Vacation_2018_
 #https://openload.co/f/hSaXRiGF8S4/Hotel_Transylvania_3_Summer_Vacation_2018_New_720p_HDCAM-X264-AC3.mkv.mp4
 
 type=video
-name=Upgrade (2018) ENG 720p.TS.1XBET
+name=Upgrade (2018) ENG NEW_720p_HDCAM_X264-SugarTiTs_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqistSlQGQVlvDZHweDP3qCplMP.jpg
-date=2018-07-24
-URL=https://openload.co/f/E6uTmxDQ3PY/Upgrade.2018.720p.TS.1XBET.mp4
+date=2018-07-30
+URL=https://openload.co/f/HAuj73DaREo/Upgrade_2018_NEW_720p_HDCAM_X264-SugarTiTs_SeeHD.mkv.mp4
+#https://openload.co/f/E6uTmxDQ3PY/Upgrade.2018.720p.TS.1XBET.mp4
 #https://openload.co/f/I8aHEdf6qPY/Upgrade.2018.720p.TS.1XBET.mp4
 #https://openload.co/f/dPSouJiBEWA/Upgrade.2018.HDTS.XviD-AVID.avi.mp4
 
@@ -160,10 +162,11 @@ date=2018-07-13
 URL=https://openload.co/f/Lt5SYC2lJGo/How_It_Ends.2018.1080p.NF.WEB-DL.DD5.1.H.264-SiGMA_SeeHD.mkv.mp4
 
 type=video
-name=SuperFly (2018) ENG NEW_V.2_HDCAM_X264-24HD_SeeHD
+name=SuperFly (2018) ENG 720p_NEW_HDCAM_X264-CPG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGk9H5PVpWzbsYkmnBeKevQkwwf.jpg
-date=2018-07-14
-URL=https://openload.co/f/Tj8DkrU7SJk/Superfly_2018_NEW_V.2_HDCAM_X264-24HD_SeeHD.mkv.mp4
+date=2018-07-30
+URL=https://openload.co/f/Zyqdy1NgIPE/Superfly_2018_720p_NEW_HDCAM_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/Tj8DkrU7SJk/Superfly_2018_NEW_V.2_HDCAM_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/G1UZshzRASM/Superfly.2018.HDCAM.x264-DiRG_SeeHD.mp4
 
 
@@ -1492,8 +1495,9 @@ URL=https://openload.co/f/Sfg6ZAh-Lms/Blood.Hunt.2017.1080p.BluRay.x264-JustWatc
 type=video
 name=The Con Is On (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4ZzzFOokK356jf6L6vUp3RKNvM.jpg
-date=2018-07-21
-URL=https://openload.co/f/0dXMAZwEUKc/the.con.is.on.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+date=2018-07-30
+URL=https://openload.co/f/sllK1giRYNE/The.Con.Is.On.2018.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/0dXMAZwEUKc/the.con.is.on.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/35a7NQuB3bE/The.Con.Is.On.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://uptobox.com/ppplsw0xgkto   720
 #https://www.rapidvideo.com/e/FTM53JZIRF   720
@@ -5560,7 +5564,11 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7tmOMVqqPU37rugbfEQR5h1sj
 date=2018-07-28
 URL=https://openload.co/f/il-1zw3QAOU/new.initial.d.the.movie.legend.3.dream.2016.720p.bluray.x264-ghouls.mkv.mp4
 
-
+type=video
+name=Apostasy (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjhVHDCCl2nwR1yCPZX4xw819Se.jpg
+date=2018-07-30
+URL=https://openload.co/f/66EiV0OJ5V8/Apostasy.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
 
 
 
@@ -5568,7 +5576,7 @@ URL=https://openload.co/f/il-1zw3QAOU/new.initial.d.the.movie.legend.3.dream.201
 type=video
 name=
 thumb=
-date=2018-07-27
+date=2018-07-30
 URL=http://203.162.235.41:17819
 
 
@@ -5821,10 +5829,13 @@ URL=https://streamango.com/f/oesosocnaeooaame/Deadpool_2_2018_2_
 
 
 type=video
-name=Avengers: Infinity War (2018) ENG New_HDTC_SeeHD
+name=Avengers: Infinity War (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
 date=2018-06-13
-URL=https://openload.co/f/3fCZIf3CRtI/Avengers_Infinity_War_2018_New_HDTC_SeeHD.mkv.mp4
+URL=https://openload.co/f/d0KnB8kOgQU/Avengers.Infinity.War.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/-Ep-bDC8Fyw/Avengers__Infinity_War_720p_HDRip_1.3GB_SeeHD.mp4
+#https://openload.co/f/vFIOmxbNELU/Avengers__Infinity_War_720p_HD_SeeHD.mkv.mp4
+#https://openload.co/f/3fCZIf3CRtI/Avengers_Infinity_War_2018_New_HDTC_SeeHD.mkv.mp4
 #https://openload.co/f/uf7jMDDyzNM/Avengers_Infinity_War_2018_720p_TS_x264_AAC_TiTAN_SeeHD.mkv.mp4
 #https://openload.co/f/Owfl0kBmCfU/Avengers_Infinity_War_2018_NEW_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/w_SI2svIMSo/Avengers%3A_Infinity_War_%282018%29NEW_720p_HD-TS_X264-CPG.Ganool.im.mkv.mp4
