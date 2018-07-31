@@ -82,14 +82,7 @@ URL=
 
 
 
-type=video
-name=Mission: Impossible - Fallout (2018) ENG 720p.HDCAM.V2.1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
-date=2018-07-28
-URL=https://openload.co/f/lbnxpJ8IU7A/Mission.Impossible.Fallout.2018.720p.HDCAM.V2.1XBET_SeeHD.mp4
-#https://openload.co/f/jRzDGi0XWFg/Mission.Impossible.Fallout.2018.New.FULL.HDCAM-X264-AC3-Bobi.mkv.mp4
-#https://openload.co/f/1_OWrlgCXdI/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3-1XB3T_SeeHD.mp4
-#https://openload.co/f/r2MGpc703mg/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3.E.mp4
+
 
 type=video
 name=The Equalizer 2 (2018) ENG NEW_720p_HDCAM_X264-24HD_SeeHD
@@ -1418,7 +1411,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-28
+date=2018-07-31
 URL=
 
 
@@ -1426,10 +1419,17 @@ URL=
 
 
 type=video
+name=Furious (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XCA70oDgYSBLJDvOgYs1Ca4rBm.jpg
+date=2018-07-31
+URL=https://openload.co/f/UK1Cre4WxUU/Furious_2017_BDRip_10Bit_1080p_DD5.1_H265-d3g.mkv.mp4
+
+type=video
 name=On Chesil Beach (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uRdd5NawI9iTQ5oWIKYjqNkyc1.jpg
-date=2018-07-28
-URL=https://openload.co/f/wxz9srW-bc0/On_Chesil_Beach_%282017%29_%5B1080p%5D_BluRay_x264-YTS-AM_mp4
+date=2018-07-31
+URL=https://openload.co/f/VxtEOqUyoUU/on.chesil.beach.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/wxz9srW-bc0/On_Chesil_Beach_%282017%29_%5B1080p%5D_BluRay_x264-YTS-AM_mp4
 #https://uptobox.com/tt85b7b9rj2d   720
 #https://www.rapidvideo.com/e/FTNHX7DONX   720
 #https://openload.co/embed/kAJ8IiFSodw/ONCHESILBEACHBD72.Ganol.ru.mkv.mp4
@@ -2202,12 +2202,7 @@ URL=https://openload.co/f/oGYH1H29H34/The.Heretics.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/9Wk_Uitf1hY/The.Heretics.2017.1080p.BluRay.x264-GUACAMOLE.mkv   MKV6.6GB
 #https://openload.co/f/KrdcyLFNtho/The_Heretics_2017.BluRay.720p.DTS.X264-CMRG.mkv.mp4
 
-type=video
-name=The Cured (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u56EI8gpAvvm4NE5dqdBeP7cD6d.jpg
-date=2018-05-30
-URL=https://openload.co/f/cZIiT2guD6w/The.Cured.2017.1080p.BR_SeeHD.mp4
-#https://openload.co/f/H2WgX-KAREc/The.Cured.2017.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+
 
 type=video
 name=Devil's Gate (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5567,8 +5562,18 @@ URL=https://openload.co/f/il-1zw3QAOU/new.initial.d.the.movie.legend.3.dream.201
 type=video
 name=Apostasy (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjhVHDCCl2nwR1yCPZX4xw819Se.jpg
-date=2018-07-30
-URL=https://openload.co/f/66EiV0OJ5V8/Apostasy.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
+date=2018-07-31
+URL=https://uptobox.com/vwxvkdznb3dk
+#https://www.rapidvideo.com/e/FTT0K8TCI2
+#https://openload.co/embed/dIQbksb9Xso/APOTASYBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/66EiV0OJ5V8/Apostasy.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
+
+type=video
+name=November (2017) [COLOR=FF00FF00]EST BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wp4FtvPyZ3KUhKJnRLuYnuBzGYt.jpg
+date=2018-07-31
+URL=https://openload.co/f/7CLMB517qJU/november.2017.internal.720p.bluray.x264-emx.mkv.mp4
+
 
 
 
@@ -5576,7 +5581,7 @@ URL=https://openload.co/f/66EiV0OJ5V8/Apostasy.2017.BluRay.720p.DTS.x264-CHD.mkv
 type=video
 name=
 thumb=
-date=2018-07-30
+date=2018-07-31
 URL=http://203.162.235.41:17819
 
 
@@ -5651,6 +5656,40 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+type=video
+name=Animal World (2018) CHN ENG-CH.720p.HDTC.X264-NeNi
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxc25B05Gq4CbCoWbyTFf9iF0wn.jpg
+date=2018-07-31
+URL=https://openload.co/f/yyPHW_9-rSA/Animal.World.2018.ENG-CH.720p.HDTC.X264-NeNi.mkv.mp4
+type=video
+name=Animal World (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxc25B05Gq4CbCoWbyTFf9iF0wn.jpg
+date=2018-07-31
+URL=https://streamango.com/f/kkafqdmfscfdklql/Animal_World_2018_
+
+
+type=video
+name=Mission: Impossible - Fallout (2018) ENG 720p.HDCAM.V2.1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
+date=2018-07-28
+URL=https://openload.co/f/lbnxpJ8IU7A/Mission.Impossible.Fallout.2018.720p.HDCAM.V2.1XBET_SeeHD.mp4
+#https://openload.co/f/jRzDGi0XWFg/Mission.Impossible.Fallout.2018.New.FULL.HDCAM-X264-AC3-Bobi.mkv.mp4
+#https://openload.co/f/1_OWrlgCXdI/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3-1XB3T_SeeHD.mp4
+#https://openload.co/f/r2MGpc703mg/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3.E.mp4
+type=video
+name=Mission: Impossible - Fallout (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
+date=2018-07-31
+URL=https://streamango.com/f/qnnbpkkrntfpplkn/Mission_Impossible_-_Fallout_2018_
 
 
 type=video
@@ -5757,27 +5796,7 @@ date=2018-06-14
 URL=https://streamango.com/f/krmfsqkocolersbk/Taxi_5_2018_
 
 
-type=video
-name=Jurassic World: Fallen Kingdom (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
-date=2018-07-27
-URL=https://openload.co/f/qDE3_SspI-0/Jurassic.World.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/hPa3Ymz4ULU/Jurassic_World_Fallen_Kingdom_2018_720p_HCHD_SeeHD.mkv.mp4
-#https://openload.co/f/tvAfQtqUgVM/Jurassic.World.2018.V2.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/a8bXJWfytMc/Jurassic_World_Fallen_Kingdom_2018_NEW_720p_HD-TS_X264_AC3_SeeHD.mkv.mp4
-#https://openload.co/f/32ksG80Q0pM/Jurassic_World_Fallen_Kingdom.2018.HDTS.720p.XviD.mp4
-#https://openload.co/f/ee0BYggpv8w/Jurassic_World_Fallen_Kingdom_2018_NEW_TC_SeeHD.mkv.mp4
-#https://openload.co/f/g7ekyl53Btc/Jurassic_World_Fallen_Kingdom.2018.HDTS.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/qDjH228-Kpw/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_V.2_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/jvF2_B5YrtI/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_HQMic_SeeHD.mkv.mp4
-#https://openload.co/f/2V0abkp6pRI/Jurassic_World_Fallen_Kingdom_2018_720p_English_HDCAM_Rip_x264.mp4
-#https://openload.co/f/R5CtFFLA2FY/Jurassic_World_Fallen_Kingdom_%282018%29_720p_English_HDCAM_x264_AAC_by_Full4movies.mkv.mp4
-#https://openload.co/f/DNwKj3Hb9vg/Jurassic_World_Fallen_Kingdom_%282018%29_720p_English_HDCAM_-x264_AAC_-_2.2GB.mkv.mp4
-type=video
-name=Jurassic World: Fallen Kingdom (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
-date=2018-06-12
-URL=https://streamango.com/f/qfdpefrdpbdbbbbn/Jurassic_World_Fallen_Kingdom_2018_
+
 
 
 type=video
@@ -5798,28 +5817,7 @@ date=2018-05-30
 URL=https://streamango.com/f/pkrtqtckdekrmeno/Solo_A_Star_Wars_Story_2018_
 
 
-type=video
-name=Deadpool 2 (2018) ENG 720p.KORSUB.HDRip.x264-NON
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
-date=2018-06-25
-URL=https://openload.co/f/ieaJrN0RMqo/Deadpool.2.2018.720p.KORSUB.HDRip.x264-NON.mp4
-#https://openload.co/f/1RdA9X6UDcQ/DeadPool_2.720pHD_SeeHD.mp4
-#https://openload.co/f/WlAi7Qz8jGs/DeadPool_2.720pHDRip_SeeHD.mkv.mp4
-#https://openload.co/f/_ET4_325tGk/Deadpool.2.2018.720p.KORSUB.HDRip.x264-NON.mp4
-#https://openload.co/f/WpAKmf_pPL4/Deadpool_2_2018_NEW_720p_HD-TC_V.2_x264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/d9UDlTMQNlY/Deadpool.2.2018.TS.720p.ENG.E.mp4
-#https://openload.co/f/re3bVE8sp-8/Deadpool_2_2018_HD-TS.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/TVGkldXG2ow/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/fQtS6g8eFP0/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG.mkv.mp4
-#https://openload.co/f/NpRKO6OnUQ0/Deadpool_2_2018_720p_New_HDCAM-X264-AC3_Cleaned-Bobi_SeeHD.mkv.mp4
-#https://openload.co/f/D15b5KiAff4/Deadpool.2.2018.720p.HDTS.x264-SpaceMov.mp4
-#https://openload.co/f/UliAIS5sWpU/Deadpool_2_%282018%29_English_HDTS_-_720p_-_x264_-_AC3_-_2.4GB.mkv.mp4
-#https://openload.co/f/Zb_meIBKWic/Deadpool_2_%282018%29720p_TS_ENG_X264-1xbit.Ganool.im.mkv.mp4
-type=video
-name=Deadpool 2 (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
-date=2018-05-21
-URL=https://streamango.com/f/oesosocnaeooaame/Deadpool_2_2018_2_
+
 
 
 
@@ -5829,10 +5827,11 @@ URL=https://streamango.com/f/oesosocnaeooaame/Deadpool_2_2018_2_
 
 
 type=video
-name=Avengers: Infinity War (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+name=Avengers: Infinity War (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
-date=2018-06-13
-URL=https://openload.co/f/d0KnB8kOgQU/Avengers.Infinity.War.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2018-07-31
+URL=https://openload.co/f/Mbn3kcuatbw/Avengers.Infinity.War.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/d0KnB8kOgQU/Avengers.Infinity.War.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/-Ep-bDC8Fyw/Avengers__Infinity_War_720p_HDRip_1.3GB_SeeHD.mp4
 #https://openload.co/f/vFIOmxbNELU/Avengers__Infinity_War_720p_HD_SeeHD.mkv.mp4
 #https://openload.co/f/3fCZIf3CRtI/Avengers_Infinity_War_2018_New_HDTC_SeeHD.mkv.mp4
@@ -7629,6 +7628,69 @@ URL=
 
 
 
+
+type=video
+name=The Cured (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u56EI8gpAvvm4NE5dqdBeP7cD6d.jpg
+date=2018-05-30
+URL=https://openload.co/f/cZIiT2guD6w/The.Cured.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/H2WgX-KAREc/The.Cured.2017.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+type=video
+name=The Cured (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u56EI8gpAvvm4NE5dqdBeP7cD6d.jpg
+date=2018-07-31
+URL=https://streamango.com/f/aecberatadpcfkqe/The_Cured_2018_
+
+
+type=video
+name=Deadpool 2 (2018) ENG 720p.KORSUB.HDRip.x264-NON
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
+date=2018-06-25
+URL=https://openload.co/f/ieaJrN0RMqo/Deadpool.2.2018.720p.KORSUB.HDRip.x264-NON.mp4
+#https://openload.co/f/1RdA9X6UDcQ/DeadPool_2.720pHD_SeeHD.mp4
+#https://openload.co/f/WlAi7Qz8jGs/DeadPool_2.720pHDRip_SeeHD.mkv.mp4
+#https://openload.co/f/_ET4_325tGk/Deadpool.2.2018.720p.KORSUB.HDRip.x264-NON.mp4
+#https://openload.co/f/WpAKmf_pPL4/Deadpool_2_2018_NEW_720p_HD-TC_V.2_x264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/d9UDlTMQNlY/Deadpool.2.2018.TS.720p.ENG.E.mp4
+#https://openload.co/f/re3bVE8sp-8/Deadpool_2_2018_HD-TS.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/TVGkldXG2ow/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/fQtS6g8eFP0/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG.mkv.mp4
+#https://openload.co/f/NpRKO6OnUQ0/Deadpool_2_2018_720p_New_HDCAM-X264-AC3_Cleaned-Bobi_SeeHD.mkv.mp4
+#https://openload.co/f/D15b5KiAff4/Deadpool.2.2018.720p.HDTS.x264-SpaceMov.mp4
+#https://openload.co/f/UliAIS5sWpU/Deadpool_2_%282018%29_English_HDTS_-_720p_-_x264_-_AC3_-_2.4GB.mkv.mp4
+#https://openload.co/f/Zb_meIBKWic/Deadpool_2_%282018%29720p_TS_ENG_X264-1xbit.Ganool.im.mkv.mp4
+type=video
+name=Deadpool 2 (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
+date=2018-07-31
+URL=https://streamango.com/f/ndttdobqnfqqtpmp/Deadpool_2_2018_2_
+#https://streamango.com/f/oesosocnaeooaame/Deadpool_2_2018_2_
+
+
+type=video
+name=Jurassic World: Fallen Kingdom (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
+date=2018-07-27
+URL=https://openload.co/f/qDE3_SspI-0/Jurassic.World.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/hPa3Ymz4ULU/Jurassic_World_Fallen_Kingdom_2018_720p_HCHD_SeeHD.mkv.mp4
+#https://openload.co/f/tvAfQtqUgVM/Jurassic.World.2018.V2.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/a8bXJWfytMc/Jurassic_World_Fallen_Kingdom_2018_NEW_720p_HD-TS_X264_AC3_SeeHD.mkv.mp4
+#https://openload.co/f/32ksG80Q0pM/Jurassic_World_Fallen_Kingdom.2018.HDTS.720p.XviD.mp4
+#https://openload.co/f/ee0BYggpv8w/Jurassic_World_Fallen_Kingdom_2018_NEW_TC_SeeHD.mkv.mp4
+#https://openload.co/f/g7ekyl53Btc/Jurassic_World_Fallen_Kingdom.2018.HDTS.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/qDjH228-Kpw/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_V.2_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/jvF2_B5YrtI/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_HQMic_SeeHD.mkv.mp4
+#https://openload.co/f/2V0abkp6pRI/Jurassic_World_Fallen_Kingdom_2018_720p_English_HDCAM_Rip_x264.mp4
+#https://openload.co/f/R5CtFFLA2FY/Jurassic_World_Fallen_Kingdom_%282018%29_720p_English_HDCAM_x264_AAC_by_Full4movies.mkv.mp4
+#https://openload.co/f/DNwKj3Hb9vg/Jurassic_World_Fallen_Kingdom_%282018%29_720p_English_HDCAM_-x264_AAC_-_2.2GB.mkv.mp4
+type=video
+name=Jurassic World: Fallen Kingdom (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
+date=2018-07-31
+URL=https://streamango.com/f/lnnbdbadecooasqk/Jurassic_World_Fallen_Kingdom_2018_
+#https://streamango.com/f/qfdpefrdpbdbbbbn/Jurassic_World_Fallen_Kingdom_2018_
+
+
 type=video
 name=Beyond the Edge (2018) [COLOR=FF00FF00]RUS BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/txYDZuBQ3W3fMlySwWyLsXH0zay.jpg
@@ -8886,7 +8948,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-28
+date=2018-07-31
 URL=
 
 
@@ -8895,6 +8957,23 @@ URL=
 
 
 
+type=video
+name=Eragon (2006) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YOPiILsHw2Onsqyev9IYhSZ4Vy.jpg
+date=2018-07-31
+URL=https://openload.co/f/swnqQlUnRCA/Eragon.2006.HD_720p.160519.mp4
+
+type=video
+name=Legend (1985) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNWs9LM46vJWwf1q0VGPOccTKg4.jpg
+date=2018-07-31
+URL=https://openload.co/f/Ru0A745CSgM/Legend.1985.HD_720p.mp4
+
+type=video
+name=Dragonslayer (1981) [COLOR=FF00FF00]ENG WEB 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tceaiNtwktGKzw4AIrZ2Hz6iK9u.jpg
+date=2018-07-31
+URL=https://openload.co/f/t8KhZCvnbuQ/Dragonslayer_1981_720p_WEB-DL_x264_AAC-KiNGDOM.mp4
 
 type=video
 name=The Lord of the Rings (1978) [COLOR=FF00FF00]ENG CD1[/COLOR]
