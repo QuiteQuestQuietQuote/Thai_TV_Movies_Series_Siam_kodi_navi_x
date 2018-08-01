@@ -34,9 +34,9 @@ URL=script.module.youtube.dl
 
 type=video
 name=
-thumb=https://static.akacdn.ru/static/images/2018/07/768c32876febb08f5710fc7837dc9fab.jpg
+thumb=
 date=2017-10-24
-URL=https://cdn.mcloud.to/stream/sf:i0:q2:h0:p24:l2/cMaegH3Fxte2Q1iUV18gdw/1532926800/f/8/2/rjy4oy/list.m3u8
+URL=
 
 
 
@@ -70,6 +70,42 @@ name=
 thumb=
 date=2017-10-30
 URL=https://www.rapidvideo.com/?v=FJU3TNCAUT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=
+thumb=
+date=2017-10-30
+URL=
+type=video
+name=
+thumb=
+date=2017-10-30
+URL=
+
+type=video
+name=Russian Lolita (2007)
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXQa4fpOj8ab79ByTd4sGAqz36o.jpg
+date=2017-10-30
+URL=https://openload.co/f/kyH4iGK4Vos/Russkaya.Lolita.2007.DivX.DVDRip.byAlex10011967_BigFANgroup.avi.mp4
 
 type=video
 name=Desearás al Hombre De Tu Hermana (2017)

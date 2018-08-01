@@ -1823,16 +1823,7 @@ date=2018-06-30
 URL=https://openload.co/f/ALvdGP7Ue80/Tarnation.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/2t662AKPxhU/tarnation.2017.1080p.bluray.x264-getit.mkv.mp4
 
-type=video
-name=Beirut (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2qIeFsI9TskZr1LkSwljQDh5nl.jpg
-date=2018-06-28
-URL=https://www.blazefile.co/embed-wrnkboqzant2.html
-#https://uptobox.com/ydcfdm0wghkn
-#https://openload.co/embed/3FhUHDORCwY/GHPBEIRUT80.Ganool.im.mkv.mp4
-#https://openload.co/f/s8jvZ4kCSUQ/beirut.2018.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/DiFM71ipDZk/Beirut_%282018%29_%5B1080p%5D_BluRay_x264-%5BYTS_AM%5D_mp4
-#https://openload.co/f/cYSDaLgeurQ/Beirut.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
+
 
 type=video
 name=The Escape of Prisoner 614 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2126,14 +2117,7 @@ URL=https://openload.co/f/nBNsZsti7w0/The.Layover.2017.1080p.BluRay.H264.AAC-RAR
 #https://uptobox.com/ungp292xdx7l   720
 #https://openload.co/embed/Gv6nYY9IY2w/SHQTHEAYOVERBD72.Ganool.im.mkv.mp4
 
-type=video
-name=Midnight Sun (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AchOrDSCMCAGiiY4QdBnNgvmWHq.jpg
-date=2018-06-06
-URL=https://www.blazefile.co/embed-a55r4137wfpt.html
-#https://uptobox.com/0taakpw5g4em
-#https://openload.co/embed/7jjEacpEsCs/GHPMIDNIGHTSUN80.Ganool.im.mkv
-#https://openload.co/f/cvUMM6IVbG8/Midnight_Sun_%282018%291080p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
+
 
 type=video
 name=The Last Note (2017) [COLOR=FF00FF00]GRK BR 1080p[/COLOR]
@@ -3227,24 +3211,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlDFEhlBon98itV43QOPCk7r0I
 date=2018-03-08
 URL=https://openload.co/f/hgysOOzI82k/Muse.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Paddington 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bU5pSpQfXRmqDd6jthmP8iWJOjd.jpg
-date=2018-03-10
-URL=https://www.blazefile.co/embed-e3c1o0cdcanb.html
-#https://uptobox.com/hx35uve7ru4m
-#https://openload.co/f/mBpNImwqSNQ/Paddington.2.2017.1080p.BR_SeeHD.mp4
-#https://openload.co/f/YxEKxxIUFt8/Paddington.2.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
-#https://openload.co/f/pJxAMHU7hpQ/Paddington.2.2017.1080p.BluRay.x264-%5BbbYTS.AM%5D.mp4
-#https://openload.co/f/OUwN2l7g6Y8/Paddington.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/fNwpvOiBDIM/Paddington.2.2017.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/uUsQkf2EAFM/Paddington.2.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/dCc_fJmpF4c/Paddington.2.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/RqXwupoJyYY/Paddington_2_2017_720p_HDTS_x264_AC3_TiTAN.mkv
-#https://openload.co/f/qfpasQHuWo4/Paddington.2.2017.TS.XViD-26k.avi.mp4
-#https://openload.co/f/lqi9R7FoGoQ/Paddington_2_%282017%29_SeeHD.mp4
-#https://openload.co/f/DphGbZSuthQ/Paddington_2_2017_Russian_TELESYNC.avi.mp4
-#https://openload.co/f/O5MG7v4Xa2E/Paddington.2.2017.iTALiAN.LD.TELESYNC.XviD_CriMiNaL.mp4
+
 
 type=video
 name=Abe & Phil's Last Poker Game (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5826,32 +5793,6 @@ URL=https://streamango.com/f/pkrtqtckdekrmeno/Solo_A_Star_Wars_Story_2018_
 
 
 
-type=video
-name=Avengers: Infinity War (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
-date=2018-07-31
-URL=https://openload.co/f/Mbn3kcuatbw/Avengers.Infinity.War.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/d0KnB8kOgQU/Avengers.Infinity.War.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/-Ep-bDC8Fyw/Avengers__Infinity_War_720p_HDRip_1.3GB_SeeHD.mp4
-#https://openload.co/f/vFIOmxbNELU/Avengers__Infinity_War_720p_HD_SeeHD.mkv.mp4
-#https://openload.co/f/3fCZIf3CRtI/Avengers_Infinity_War_2018_New_HDTC_SeeHD.mkv.mp4
-#https://openload.co/f/uf7jMDDyzNM/Avengers_Infinity_War_2018_720p_TS_x264_AAC_TiTAN_SeeHD.mkv.mp4
-#https://openload.co/f/Owfl0kBmCfU/Avengers_Infinity_War_2018_NEW_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/w_SI2svIMSo/Avengers%3A_Infinity_War_%282018%29NEW_720p_HD-TS_X264-CPG.Ganool.im.mkv.mp4
-#https://openload.co/f/EUc49i9EnHQ/Avengers_Infinity_War.2018.720p.TS.x264-TiTAN_SeeHD.mkv.mp4
-#https://openload.co/f/Y_poP1g2OjY/Avengers_Infinity_War_2018_NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/zWOrpbMVEhk/Avengers_Infinity_War_2018_NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/-M-DJyX1LmI/Avengers_Infinity_War_2018_HDCAM-X264-AC3-Zi%24t_SeeHD.mkv.mp4
-#https://openload.co/f/A78kswTr_qI/Avengers_Infinity_War_2018_Early_720p_HDCAM_ENG_x264-Mr.Hive_SeeHD.mkv.mp4
-#https://openload.co/f/1qOdu1_HvBM/Avengers_Infinity_War_%282018%29_English_HDTS.mp4
-#https://openload.co/f/g4yaMKGgmt4/Avengers_Infinity_War_%282018%29_English_720p_HDCAM_x264_MP3_2.4GB_SeeHD.mkv.mp4
-#https://openload.co/f/Guv3tEbenlY/aiw.mp4_Avengers%3A_Infinity_War
-type=video
-name=Avengers: Infinity War (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
-date=2018-05-30
-URL=https://streamango.com/f/oambadpfmeebrtfa/Avengers_Infinity_War_2018_
-#https://streamango.com/f/cserlqmnldfqfoal/Avengers_Infinity_War_2018_
 
 
 
@@ -7858,30 +7799,7 @@ URL=https://streamango.com/f/nlcqdoenraatbppm/The_Strangers_Prey_at_Night_2018_
 
 
 
-type=video
-name=A Quiet Place (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
-date=2018-06-28
-URL=https://www.blazefile.co/embed-dvtva64u8b09.html
-#https://uptobox.com/lmyvc27quwlu
-#https://openload.co/embed/zl4k5UOeW6A/GHPAQUIETPLCE80.Ganool.im.mkv.mp4
-#https://openload.co/f/fh6wLIIsPwo/A.Quiet.Place.2018.1080p.Br_SeeHD.mp4
-#https://openload.co/f/1FZdaHJHC2U/A.Quiet.Place.2018.720p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/zGe3APJU9NE/A_Quiet_Place.2018.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
-#https://openload.co/f/ZrD7yHh0cmk/A_Quiet_Place.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/h8acclwszug/A_Quiet_Place.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/tgCRSk8Gg3o/A_Quiet_Place_%282018%29720p_HC_HDRip_X264_AC3-EVO.Ganool.im.mkv.mp4
-#https://openload.co/f/qIWKQG_1QjY/A.Quiet.Place.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/4rP4kBfw7no/A.Quiet.Place.2018.NOLOGO.NEW.HDCAM.ENG.X264-Mr.HIVE.mkv.mp4
-#https://openload.co/f/DRoYF1zP1EI/A_Quiet_Place_2018_NEW_HDCAM_ENG_X264-Mr.HIVE.mkv.mp4
-#https://openload.co/f/bxT6UUfg6Cg/A_Quiet_Place_%282018%29_New_Movie_CAM_x264_AC3_by_Full4movies.mp4
-#https://openload.co/f/4oOgXQX4jy4/A_Quiet_Place_%282018%29_CAM_SpaceMov.is
-type=video
-name=A Quiet Place (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
-date=2018-07-12
-URL=https://streamango.com/f/latcmblrpcacpomp/A_Quiet_Place_2018_V_2_
-#https://streamango.com/f/cdmbdodclftcmmrt/A_Quiet_Place_2018_
+
 
 
 
@@ -8323,7 +8241,7 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=
 thumb=
-date=2018-07-28
+date=2018-08-01
 URL=
 
 
@@ -8335,7 +8253,134 @@ URL=
 
 
 
+type=video
+name=Avengers: Infinity War (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
+date=2018-08-01
+URL=https://uptobox.com/3gbz4rcek30j
+#https://www.rapidvideo.com/e/FTUT3MW42N
+#https://openload.co/embed/KafJ5i8TSHI/GHPAVENGRSIFNITYWARS80.Ganol.ru.mkv
+#https://openload.co/f/_dpRfJAYPoc/Avengers.Infinity.War.2018.1080p.BrRip.6CH.x265.HEVC-PSA.mkv.mp4
+#https://openload.co/f/R5HU3hACSig/Avengers.Infinity.War.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/kdRlmGTjkYs/Avengers.Infinity.War.2018.PROPER.720p.BluRay.x264-Replica.mkv.mp4
+#https://openload.co/f/4UXXUP2ka3I/Avengers.Infinity.War.2018.PROPER.BDRip.x264-DiAMOND.mkv.mp4
+#https://openload.co/f/Mbn3kcuatbw/Avengers.Infinity.War.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/d0KnB8kOgQU/Avengers.Infinity.War.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/-Ep-bDC8Fyw/Avengers__Infinity_War_720p_HDRip_1.3GB_SeeHD.mp4
+#https://openload.co/f/vFIOmxbNELU/Avengers__Infinity_War_720p_HD_SeeHD.mkv.mp4
+#https://openload.co/f/3fCZIf3CRtI/Avengers_Infinity_War_2018_New_HDTC_SeeHD.mkv.mp4
+#https://openload.co/f/uf7jMDDyzNM/Avengers_Infinity_War_2018_720p_TS_x264_AAC_TiTAN_SeeHD.mkv.mp4
+#https://openload.co/f/Owfl0kBmCfU/Avengers_Infinity_War_2018_NEW_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/w_SI2svIMSo/Avengers%3A_Infinity_War_%282018%29NEW_720p_HD-TS_X264-CPG.Ganool.im.mkv.mp4
+#https://openload.co/f/EUc49i9EnHQ/Avengers_Infinity_War.2018.720p.TS.x264-TiTAN_SeeHD.mkv.mp4
+#https://openload.co/f/Y_poP1g2OjY/Avengers_Infinity_War_2018_NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/zWOrpbMVEhk/Avengers_Infinity_War_2018_NEW_PROPER_720p_HD-CAM_X264_HQ-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/-M-DJyX1LmI/Avengers_Infinity_War_2018_HDCAM-X264-AC3-Zi%24t_SeeHD.mkv.mp4
+#https://openload.co/f/A78kswTr_qI/Avengers_Infinity_War_2018_Early_720p_HDCAM_ENG_x264-Mr.Hive_SeeHD.mkv.mp4
+#https://openload.co/f/1qOdu1_HvBM/Avengers_Infinity_War_%282018%29_English_HDTS.mp4
+#https://openload.co/f/g4yaMKGgmt4/Avengers_Infinity_War_%282018%29_English_720p_HDCAM_x264_MP3_2.4GB_SeeHD.mkv.mp4
+#https://openload.co/f/Guv3tEbenlY/aiw.mp4_Avengers%3A_Infinity_War
+#https://uptobox.com/0d794lvx6gvr   720
+#https://www.rapidvideo.com/e/FTUHUBL9TZ   720
+#https://openload.co/embed/L8aZxoMerFI/SHQAVGIFINITYWBD72.Ganol.ru.mkv
+type=video
+name=Avengers: Infinity War (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
+date=2018-08-01
+URL=https://openload.co/f/0L4CkqvRzcc/Avengers%3A_Infinity_War_%282018%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5.mp4
+#https://streamango.com/f/oambadpfmeebrtfa/Avengers_Infinity_War_2018_
+#https://streamango.com/f/cserlqmnldfqfoal/Avengers_Infinity_War_2018_
 
+
+type=video
+name=Beirut (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2qIeFsI9TskZr1LkSwljQDh5nl.jpg
+date=2018-06-28
+URL=https://www.blazefile.co/embed-wrnkboqzant2.html
+#https://uptobox.com/ydcfdm0wghkn
+#https://openload.co/embed/3FhUHDORCwY/GHPBEIRUT80.Ganool.im.mkv.mp4
+#https://openload.co/f/s8jvZ4kCSUQ/beirut.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/DiFM71ipDZk/Beirut_%282018%29_%5B1080p%5D_BluRay_x264-%5BYTS_AM%5D_mp4
+#https://openload.co/f/cYSDaLgeurQ/Beirut.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
+type=video
+name=Beirut (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2qIeFsI9TskZr1LkSwljQDh5nl.jpg
+date=2018-08-01
+URL=https://openload.co/f/K5P-_meiV6k/Beirut_%282018%29%E0%B9%80%E0%B8%9A%E0%B8%A3%E0%B8%B8%E0%B8%95%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%95%E0%B8%81.mp4
+
+
+type=video
+name=My Blind Brother (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMlgKXJr7Y2UI2E3Nt3AEunchFH.jpg
+date=2018-08-01
+URL=https://openload.co/f/Wv05riqIPpw/My_Blind_Brother_%282016%29My_Blind_Brother_%282016%29.mp4
+
+
+type=video
+name=Midnight Sun (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AchOrDSCMCAGiiY4QdBnNgvmWHq.jpg
+date=2018-06-06
+URL=https://www.blazefile.co/embed-a55r4137wfpt.html
+#https://uptobox.com/0taakpw5g4em
+#https://openload.co/embed/7jjEacpEsCs/GHPMIDNIGHTSUN80.Ganool.im.mkv
+#https://openload.co/f/cvUMM6IVbG8/Midnight_Sun_%282018%291080p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
+type=video
+name=Midnight Sun (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AchOrDSCMCAGiiY4QdBnNgvmWHq.jpg
+date=2018-08-01
+URL=https://openload.co/f/j76Cbii-Z6A/Midnight_Sun_%282018%29%E0%B8%AB%E0%B8%A5%E0%B8%9A%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99_%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%98%E0%B8%AD.mp4
+
+
+type=video
+name=A Quiet Place (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
+date=2018-06-28
+URL=https://www.blazefile.co/embed-dvtva64u8b09.html
+#https://uptobox.com/lmyvc27quwlu
+#https://openload.co/embed/zl4k5UOeW6A/GHPAQUIETPLCE80.Ganool.im.mkv.mp4
+#https://openload.co/f/fh6wLIIsPwo/A.Quiet.Place.2018.1080p.Br_SeeHD.mp4
+#https://openload.co/f/1FZdaHJHC2U/A.Quiet.Place.2018.720p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/zGe3APJU9NE/A_Quiet_Place.2018.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/ZrD7yHh0cmk/A_Quiet_Place.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/h8acclwszug/A_Quiet_Place.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/tgCRSk8Gg3o/A_Quiet_Place_%282018%29720p_HC_HDRip_X264_AC3-EVO.Ganool.im.mkv.mp4
+#https://openload.co/f/qIWKQG_1QjY/A.Quiet.Place.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/4rP4kBfw7no/A.Quiet.Place.2018.NOLOGO.NEW.HDCAM.ENG.X264-Mr.HIVE.mkv.mp4
+#https://openload.co/f/DRoYF1zP1EI/A_Quiet_Place_2018_NEW_HDCAM_ENG_X264-Mr.HIVE.mkv.mp4
+#https://openload.co/f/bxT6UUfg6Cg/A_Quiet_Place_%282018%29_New_Movie_CAM_x264_AC3_by_Full4movies.mp4
+#https://openload.co/f/4oOgXQX4jy4/A_Quiet_Place_%282018%29_CAM_SpaceMov.is
+type=video
+name=A Quiet Place (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
+date=2018-08-01
+URL=https://openload.co/f/HqlxPlMMar8/A_Quiet_Place_%282018%29%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87.mp4
+#https://streamango.com/f/latcmblrpcacpomp/A_Quiet_Place_2018_V_2_
+#https://streamango.com/f/cdmbdodclftcmmrt/A_Quiet_Place_2018_
+
+
+type=video
+name=Paddington 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bU5pSpQfXRmqDd6jthmP8iWJOjd.jpg
+date=2018-03-10
+URL=https://www.blazefile.co/embed-e3c1o0cdcanb.html
+#https://uptobox.com/hx35uve7ru4m
+#https://openload.co/f/mBpNImwqSNQ/Paddington.2.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/YxEKxxIUFt8/Paddington.2.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/pJxAMHU7hpQ/Paddington.2.2017.1080p.BluRay.x264-%5BbbYTS.AM%5D.mp4
+#https://openload.co/f/OUwN2l7g6Y8/Paddington.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/fNwpvOiBDIM/Paddington.2.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/uUsQkf2EAFM/Paddington.2.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/dCc_fJmpF4c/Paddington.2.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/RqXwupoJyYY/Paddington_2_2017_720p_HDTS_x264_AC3_TiTAN.mkv
+#https://openload.co/f/qfpasQHuWo4/Paddington.2.2017.TS.XViD-26k.avi.mp4
+#https://openload.co/f/lqi9R7FoGoQ/Paddington_2_%282017%29_SeeHD.mp4
+#https://openload.co/f/DphGbZSuthQ/Paddington_2_2017_Russian_TELESYNC.avi.mp4
+#https://openload.co/f/O5MG7v4Xa2E/Paddington.2.2017.iTALiAN.LD.TELESYNC.XviD_CriMiNaL.mp4
+type=video
+name=Paddington 2 (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bU5pSpQfXRmqDd6jthmP8iWJOjd.jpg
+date=2018-08-01
+URL=https://openload.co/f/fdv2G4ScDbM/Paddington_2_%282017%29%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B8%94%E0%B8%B4%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%99_2%3A_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%9B.mp4
 
 
 type=video
@@ -8948,14 +8993,21 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-31
+date=2018-08-01
 URL=
 
 
 
 
 
-
+type=video
+name=Princess Mononoke (1997) [COLOR=FF00FF00]JAP EngDub HD 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNqZOtJIQfFQPjo3hmYLIn8Qqhf.jpg
+date=2018-08-01
+URL=https://openload.co/f/dHoHl0ZZdZA/Princess_Mononoke_%281997%29_%28720p%29_Eng.mp4
+#https://openload.co/f/7wBzEiW2Muo/Princess.Mononoke.1997.HDTV.720p.AC3.x264.RoSub.iNT.mp4
+#https://openload.co/f/bFzBvwYKGhw/Mononoke.hime.%5BPrincess.Mononoke%5D.%5BDUAL.AUDIO%5D1997.HDTVRip.x264.YIFY.mkv.mp4
+#https://openload.co/f/AUA0YxoG4XQ/Princess_Mononoke_-_JAP_Full.on498.mp4
 
 type=video
 name=Eragon (2006) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
