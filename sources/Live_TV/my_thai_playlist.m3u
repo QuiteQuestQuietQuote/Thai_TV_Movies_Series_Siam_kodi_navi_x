@@ -2815,8 +2815,8 @@ http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel22/pl
 http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel32/playlist.m3u8
 #EXTINF:-1,bs24
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-
-
+#EXTINF:-1,FRENCHLOVER
+http://213.59.136.48:9990/play/FRENCHLOVER/index.m3u8
 
 
 #EXTINF:-1,Chinese1
@@ -2929,6 +2929,8 @@ http://iss06.ott.net.tw:8086/live/coship_DCTV2291445940028640_1200.m3u8
 #EXTINF:-1,HRT1_PLTV
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 
+#EXTINF:-1,KIX_TH
+http://210.210.155.35/uq2663/h/h07/index1.m3u8
 
 
 #EXTINF:-1,AFC

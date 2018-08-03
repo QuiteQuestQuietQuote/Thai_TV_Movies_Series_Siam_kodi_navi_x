@@ -28,6 +28,15 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
+
+type=playlist
+name=96_2_69_OHOHD_39_18up_Asian
+thumb=https://erotic24hr.com/wp-content/uploads/2018/07/Horny-Adventure-Of-Momojiri-Girl-2017.jpg
+date=2018-08-03
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_39_18up_Asian.plx
+player=default
+rating=-1.00
+
 type=playlist
 name=96_2_69_OHOHD_38_18up_Asian
 thumb=https://erotic24hr.com/wp-content/uploads/2018/05/Jeongsa-Eolin-Saeeomma-2018.jpg

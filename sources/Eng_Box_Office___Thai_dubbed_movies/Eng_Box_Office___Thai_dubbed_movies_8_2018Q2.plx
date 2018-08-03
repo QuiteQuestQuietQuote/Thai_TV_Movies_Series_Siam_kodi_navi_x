@@ -2091,10 +2091,11 @@ URL=https://streamango.com/embed/qrardsnlkesdasnn
 #http://192.99.67.192/home/movies34/tt0117951_hd.mp4
 
 type=video
-name=Scott Pilgrim vs. the World (2010) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Scott Pilgrim vs. the World (2010) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lafRuPbjEQrrHG9QEaoyV2znZC.jpg
-date=2018-01-25
-URL=https://uptobox.com/cthdww9q4vaf
+date=2018-08-03
+URL=https://openload.co/f/UakORP0lKDU/Scott_Pilgrim_vs._the_World_2010_mHD_1080p.BluRay_DD5.1_x264_TRiM.E.mp4
+#https://uptobox.com/cthdww9q4vaf
 
 type=video
 name=Sophie and the Rising Sun (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]

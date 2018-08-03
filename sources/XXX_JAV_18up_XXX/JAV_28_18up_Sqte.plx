@@ -37,48 +37,48 @@ date=2018-06-15
 URL=
 
 type=video
-name=SNIS-573 Esuwan Seven Sisters And Cohabitation Harem Of Active
-thumb=http://javdon.com/wp-content/uploads/2016/04/5130.jpg
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1798616517112807_6439326879278170112_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=e2f0fb98d3598bc141ca0e372cc236b4&oe=5B6248E6&itag=22
+name=Bban-043 Lesbian Manipulative Council That Women Athletes In The Buckwheat Sports University Attend
+thumb=http://javdon.com/wp-content/uploads/2017/01/11773.jpg
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1027953330696940_4409102809190891520_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=aa362d6ab0e921751bf2ae82bcf6bbf5&oe=5B64B6F9&itag=22
 
 type=video
-name=Snis-156 Body Juice Lazy Tear
-thumb=http://javdon.com/wp-content/uploads/2016/12/8828.jpg
+name=Bban-016 Lesbian Share House
+thumb=http://javdon.com/wp-content/uploads/2018/03/28744.jpg
 date=2018-06-15
-URL=http://cdn.vodstream.xyz/s49/3675/044-hls/appid-8828/hls.m3u8
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2060072487354969_8324164184682004480_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=5ae92ae75073c6ecd03029d2e8f6c354&oe=5B64C3AC&itag=22
 
 type=video
-name=Snis-221 Body Fluids Of Intersection, Dense Sex Aya Sakurai
-thumb=http://javdon.com/wp-content/uploads/2017/01/11453.jpg
+name=Bban-105 Lingerie Shop Rolled Massaging Milk Are A Lesbian Clerk
+thumb=http://javdon.com/wp-content/uploads/2017/02/15783.jpg
 date=2018-06-15
-URL=http://cdn.vodstream.xyz/s50/3674/003-hls/appid-11453/hls.m3u8
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_242381699835175_2611763475189334016_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=4a70293a57473ca887ae3223c2201a7e&oe=5B64D9DE&itag=22
 
 type=video
-name=Snis-886 Style Boast Of Slut Three Sisters Is Harlem Cohabitation Of Active Rolled Saddle From Morning Till Night To Compete For Me Alone Blu-ray Disc
-thumb=http://javdon.com/wp-content/uploads/2017/06/24019.jpg
+name=Bban-086 Lesbattle Royale- Lesbian Battle Royale 8211
+thumb=http://javdon.com/wp-content/uploads/2017/02/15860.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_250106415606653_4202322995999408128_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=0fbd9b55f958adfc66435b0898d49086&oe=5B6242EA&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_256853328202213_3818138845682073600_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=3a3c34ab4154bfd4933a2dc334c42ef6&oe=5B64D842&itag=22
                                     
 type=video
-name=Snis-882 Glossy Sexy 3919-year-old Adult39 Is Mecha Alivefirst Experience 4 Production Special Miyu Yanagi
-thumb=http://javdon.com/wp-content/uploads/2017/06/24076.jpg
+name=Bban-025 Lesbian Lingerie Model 8211 Woman Of Obstinacy Collideno Plot 123 Minutes Non-stop Lesbian Battle
+thumb=http://javdon.com/wp-content/uploads/2017/02/15852.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_213266999524334_4327611405386645504_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=691e011c1f360be6ae85946fead27fa2&oe=5B6240F1&itag=22  
+URL=http://cdn.vodstream.xyz/s111/3678/003-hls/appid-15852/hls.m3u8?v=3
 
 type=video
-name=Snis-310 Intersect Body Fluids, Dense Sex Aizawa Jun
-thumb=http://javdon.com/wp-content/uploads/2017/01/12861.jpg
+name=Bban-163 Lesbian Technique No1 Non-scripted Cum-off Battle Document Lesbian 2018 Super Lesbian Sex Orgy
+thumb=http://javdon.com/wp-content/uploads/2018/04/33212.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_799666730223995_4329914164987297792_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=920a4ac6da6290bba4cac7460aa4de39&oe=5B624475&itag=22  
+URL=http://cdn.vodstream.xyz/s113/3674/054-hls/appid-33212/hls.m3u8?v=3
 
 
 
 
 type=video
-name=
+name=php
 thumb=
 date=2018-06-15
-URL=
+URL=http://vodstream.xyz/fembed.php?id=mn4LNLn
 
 
 

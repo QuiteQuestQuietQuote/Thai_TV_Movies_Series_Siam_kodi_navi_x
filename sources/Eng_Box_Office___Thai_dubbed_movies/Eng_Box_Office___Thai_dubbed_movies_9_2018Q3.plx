@@ -165,10 +165,11 @@ URL=https://openload.co/f/Zyqdy1NgIPE/Superfly_2018_720p_NEW_HDCAM_X264-CPG_SeeH
 
 
 type=video
-name=Book Club (2018) ENG 720p.WEB-DL.X264.CAM.AUDIO.24HD_SeeHD
+name=Book Club (2018) ENG 720p.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ORGBbOA45pfKQXvntPf46NoFGO.jpg
-date=2018-07-21
-URL=https://openload.co/f/ew-qRUGNwNw/Book.Club.2018.720p.WEB-DL.X264.CAM.AUDIO.24HD_SeeHD.mp4
+date=2018-08-02
+URL=https://openload.co/f/imc3VA4vZkk/Book.Club.2018.720p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/ew-qRUGNwNw/Book.Club.2018.720p.WEB-DL.X264.CAM.AUDIO.24HD_SeeHD.mp4
 #https://openload.co/f/x4D4ED3JoGc/Book.Club.2018.720p.HDCAM.ENG.X264-24HD_SeeHD.mp4
 
 type=video
@@ -210,11 +211,7 @@ URL=https://openload.co/f/d1B8SasklXA/Mary_Shelley.2017.720p.WEB-DL.DD5.1.H264-C
 
 
 
-type=video
-name=Kings (2017) ENG HDCAM_ENG_X264-THAN0S_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tA1mXJF75y57MvsZv2gDhbi0B4x.jpg
-date=2018-05-23
-URL=https://openload.co/f/NXxbOKq5Sus/Kings_2018_HDCAM_ENG_X264-THAN0S_SeeHD.mkv.mp4
+
 
 
 
@@ -582,10 +579,11 @@ URL=https://openload.co/f/cQyihtUfMoE/Love.Beats.Rhymes.2017.720p.WEB-DL.XviD.AC
 
 
 type=video
-name='Til Death Do Us Part (2017) ENG 720p.HDTV.x264-CRiMSON
+name='Til Death Do Us Part (2017) ENG 720p.NF.WEB-DL.DD5.1.x264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfCAFkZV39l1TnNazAmmLgWu4c1.jpg
-date=2018-02-12
-URL=https://openload.co/f/UYWVSfrrER0/Til.Death.Do.Us.Part.2017.720p.HDTV.x264-CRiMSON.mkv.mp4
+date=2018-08-02
+URL=https://openload.co/f/k7jU6SiRZNs/Til.Death.Do.Us.Part.2017.720p.NF.WEB-DL.DD5.1.x264-CMRG.mkv.mp4
+#https://openload.co/f/UYWVSfrrER0/Til.Death.Do.Us.Part.2017.720p.HDTV.x264-CRiMSON.mkv.mp4
 #https://openload.co/f/0DPv1IxHDsA/Til.Death.Do.Us.Part.2017.HDCAM.x264-DiRG.mp4
 
 type=video
@@ -1411,12 +1409,28 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-31
+date=2018-08-03
 URL=
 
 
 
 
+
+
+
+
+type=video
+name=Bad Samaritan (2018)
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojCu9SLxAPwhhC2tXtHNdrTmxCH.jpg
+date=2018-08-03
+URL=https://openload.co/f/s2P-GxSxhWc/Bad.Samaritan.2018.1080p.BR_SeeHD.mp4
+
+type=video
+name=Kings (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tA1mXJF75y57MvsZv2gDhbi0B4x.jpg
+date=2018-08-02
+URL=https://openload.co/f/QSjEiPmdlVU/Kings.2018.1080p.BR.mp4
+#https://openload.co/f/NXxbOKq5Sus/Kings_2018_HDCAM_ENG_X264-THAN0S_SeeHD.mkv.mp4
 
 type=video
 name=Furious (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
@@ -1495,8 +1509,9 @@ URL=https://openload.co/f/Sfg6ZAh-Lms/Blood.Hunt.2017.1080p.BluRay.x264-JustWatc
 type=video
 name=The Con Is On (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4ZzzFOokK356jf6L6vUp3RKNvM.jpg
-date=2018-07-30
-URL=https://openload.co/f/sllK1giRYNE/The.Con.Is.On.2018.1080p.BluRay.x264-PSYCHD.mkv.mp4
+date=2018-08-03
+URL=https://openload.co/f/6-onMn1ygEg/The.Con.Is.On.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/sllK1giRYNE/The.Con.Is.On.2018.1080p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/0dXMAZwEUKc/the.con.is.on.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/35a7NQuB3bE/The.Con.Is.On.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://uptobox.com/ppplsw0xgkto   720
@@ -3268,6 +3283,8 @@ name=Thelma (2017) [COLOR=FF00FF00]NOR BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzSfG8TLAqw7nMQh2lxirQkQpgs.jpg
 date=2018-03-04
 URL=https://www.blazefile.co/embed-kg1wo4xaov8y.html
+#https://openload.co/f/77St3KgBSJE/Thelma.2017.ENGSUB.BRRip
+#https://openload.co/f/sImIge1ZYQo/Thelma.2017.LiMiTED.720p.BluRay.x264-EiDER.mkv.mp4
 #https://openload.co/f/TkWiX4SBcaQ/Thelma.2017.LiMiTED.720p.BluRay.x264-EiDER.mkv.mp4
 
 type=video
@@ -8260,6 +8277,10 @@ date=2018-08-01
 URL=https://uptobox.com/3gbz4rcek30j
 #https://www.rapidvideo.com/e/FTUT3MW42N
 #https://openload.co/embed/KafJ5i8TSHI/GHPAVENGRSIFNITYWARS80.Ganol.ru.mkv
+#https://openload.co/f/1uyNRmvf12U/Avengers.Infinity.War.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/_78EMeVvDuE/Avengers.Infinity.War.2018.1080p_SeeHD.mkv.mp4
+#https://openload.co/f/uX0r9XdFFoE/Avengers%3A_Infinity_War_%282018%291080p_BluRay_x264-SPARKS.ganool.mkv.mp4
+#https://openload.co/f/k1BTWxm6uYc/Avengers%3A_Infinity_War_%282018%291080p_BluRay_x264-SPARKS.ganool.mkv   MKV2.2GB
 #https://openload.co/f/_dpRfJAYPoc/Avengers.Infinity.War.2018.1080p.BrRip.6CH.x265.HEVC-PSA.mkv.mp4
 #https://openload.co/f/R5HU3hACSig/Avengers.Infinity.War.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/kdRlmGTjkYs/Avengers.Infinity.War.2018.PROPER.720p.BluRay.x264-Replica.mkv.mp4
@@ -8286,8 +8307,9 @@ URL=https://uptobox.com/3gbz4rcek30j
 type=video
 name=Avengers: Infinity War (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
-date=2018-08-01
-URL=https://openload.co/f/0L4CkqvRzcc/Avengers%3A_Infinity_War_%282018%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5.mp4
+date=2018-08-02
+URL=https://openload.co/f/w0zuzSvrMd4/Avengers%3A_Infinity_War_%282018%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5.mp4
+#https://openload.co/f/0L4CkqvRzcc/Avengers%3A_Infinity_War_%282018%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5.mp4
 #https://streamango.com/f/oambadpfmeebrtfa/Avengers_Infinity_War_2018_
 #https://streamango.com/f/cserlqmnldfqfoal/Avengers_Infinity_War_2018_
 
@@ -8452,8 +8474,9 @@ URL=https://www.blazefile.co/embed-0srt4lblfk6v.html
 type=video
 name=7 Days in Entebbe (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrC63ikbK4jDp3knvBqxPoWYEMM.jpg
-date=2018-07-26
-URL=https://openload.co/f/5LJAnqmJdjY/7_Days_in_Entebbe_%282018%29%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B9%89.mp4
+date=2018-08-02
+URL=https://openload.co/f/TjStrgKEzS0/7_Days_in_Entebbe_%282018%29%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B9%89.mp4
+#https://openload.co/f/5LJAnqmJdjY/7_Days_in_Entebbe_%282018%29%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B9%89.mp4
 #https://streamango.com/f/ftadpercopbllaec/7_Days_in_Entebbe_2018_
 
 
@@ -8993,12 +9016,19 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-01
+date=2018-08-02
 URL=
 
 
 
 
+
+
+type=video
+name=Project Almanac (2015) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMzjoLBYulLCdmIKEdHeyZODzXf.jpg
+date=2018-08-02
+URL=https://openload.co/f/TL_bN6h4_5A/Project_Almanac.mp4
 
 type=video
 name=Princess Mononoke (1997) [COLOR=FF00FF00]JAP EngDub HD 720p[/COLOR]
