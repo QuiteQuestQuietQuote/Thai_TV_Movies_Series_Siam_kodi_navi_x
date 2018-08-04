@@ -75,7 +75,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-26
+date=2018-08-04
 URL=
 
 
@@ -84,11 +84,22 @@ URL=
 
 
 
+
 type=video
-name=The Equalizer 2 (2018) ENG NEW_720p_HDCAM_X264-24HD_SeeHD
+name=Christopher Robin (2018) ENG 720p_HDCAM-1xBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR5w0he6czZkcAz459a4iPBqXGe.jpg
+date=2018-08-04
+URL=https://openload.co/f/bTipjRNrvP8/Christopher_Robin_2018_720p_HDCAM-1xBET_SeeHD.mp4
+#https://openload.co/f/6qOtYMgj21Y/Christopher.Robin.2018.NO-WATERMARK.720p.HDCAMCopy.XVID.AC3-YIN.avi.mp4
+#https://openload.co/f/2HPrMRw6_ng/Christopher.Robin.2018.HDCAM.XviD-AVID.avi.mp4
+
+type=video
+name=The Equalizer 2 (2018) ENG NEW_HD-TS_X264-24HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg
-date=2018-07-23
-URL=https://openload.co/f/Ij5fcwc8tEM/The_Equalizer_2_2018_NEW_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
+date=2018-08-04
+URL=https://openload.co/f/YkZ8kURFtbQ/The_Equalizer_2_2018_NEW_HD-TS_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/kPk0y57HdkU/The.Equalizer.2.2018.NEW.HD-TS.X264-24HD.mkv.mp4
+#https://openload.co/f/Ij5fcwc8tEM/The_Equalizer_2_2018_NEW_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/cz3TOL1pxMU/The.Equalizer.2.2018.720p.HDCAM.1XBET%5BWATERMARKED%5D.mp4
 #https://openload.co/f/nZLFCvX2zWM/The_Equalizer_2_2018_720p_low_CAMRip_X264_AC3_BlckNips.E.mp4
 
@@ -165,10 +176,11 @@ URL=https://openload.co/f/Zyqdy1NgIPE/Superfly_2018_720p_NEW_HDCAM_X264-CPG_SeeH
 
 
 type=video
-name=Book Club (2018) ENG 720p.HDRip.X264.AC3-EVO
+name=Book Club (2018) ENG 720p.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ORGBbOA45pfKQXvntPf46NoFGO.jpg
-date=2018-08-02
-URL=https://openload.co/f/imc3VA4vZkk/Book.Club.2018.720p.HDRip.X264.AC3-EVO.mkv.mp4
+date=2018-08-04
+URL=https://openload.co/f/_WdqHaNYPms/Book.Club.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/imc3VA4vZkk/Book.Club.2018.720p.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/ew-qRUGNwNw/Book.Club.2018.720p.WEB-DL.X264.CAM.AUDIO.24HD_SeeHD.mp4
 #https://openload.co/f/x4D4ED3JoGc/Book.Club.2018.720p.HDCAM.ENG.X264-24HD_SeeHD.mp4
 
@@ -358,13 +370,7 @@ URL=https://openload.co/f/6ueo04Petnc/Cocaine.Godmother.2018.DVDRip.XviD.AC3-EVO
 
 
 
-type=video
-name=Woody Woodpecker (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9crXSxVpQmw4kdmtKrvizmWwBG.jpg
-date=2018-01-25
-URL=https://openload.co/f/_u1FMyoGufI/Woody.Woodpecker.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/VvIKyEzSb7A/Woody.Woodpecker.2017.V2.HDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/X0yOzJfYXyA/Woody_Woodpecker_%282017%29.tshq.latino.mp4
+
 
 
 
@@ -1303,7 +1309,11 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Al0EdC3nOjIBmBnbJaHEGjJcZw
 date=2018-06-03
 URL=https://openload.co/f/6AIcof819U0/mobile.suit.gundam.the.origin.iv.2016.bdrip.x264-haiku.mkv.mp4
 
-
+type=video
+name=The House of Tomorrow (2018) ENG BDRip.XviD.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5D9mvVo7nJ7YYZXoNKQiABYAR55.jpg
+date=2018-08-04
+URL=https://openload.co/f/iutxoTTe6k4/The.House.Of.Tomorrow.2018.BDRip.XviD.AC3-EVO.avi.mp4
 
 
 
@@ -1312,7 +1322,7 @@ URL=https://openload.co/f/6AIcof819U0/mobile.suit.gundam.the.origin.iv.2016.bdri
 type=video
 name=
 thumb=
-date=2018-06-03
+date=2018-08-04
 URL=
 
 
@@ -1409,7 +1419,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-03
+date=2018-08-04
 URL=
 
 
@@ -1418,9 +1428,20 @@ URL=
 
 
 
+type=video
+name=The Miracle Season (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIVYjwi8QcZ9AQk4WRYgW4iUmXb.jpg
+date=2018-08-04
+URL=https://openload.co/f/idiE4Sh3Hpg/The_Miracle_Season_%282018%29_%5B1080p%5D_BluRay_x264-YTS-AM.mp4
 
 type=video
-name=Bad Samaritan (2018)
+name=The Barn (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://m.media-amazon.com/images/M/MV5BZTk2NDhjNDUtMTQxMi00ZDY1LTk2MTAtZWIyMThkZDAwOGM4XkEyXkFqcGdeQXVyNDkwNTA3Njg@._V1_SY1000_CR0,0,666,1000_AL_.jpg
+date=2018-08-04
+URL=https://openload.co/f/skwb6NRzcx0/the.barn.2018.1080p.bluray.x264-getit.mkv.mp4
+
+type=video
+name=Bad Samaritan (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojCu9SLxAPwhhC2tXtHNdrTmxCH.jpg
 date=2018-08-03
 URL=https://openload.co/f/s2P-GxSxhWc/Bad.Samaritan.2018.1080p.BR_SeeHD.mp4
@@ -5557,6 +5578,16 @@ name=November (2017) [COLOR=FF00FF00]EST BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wp4FtvPyZ3KUhKJnRLuYnuBzGYt.jpg
 date=2018-07-31
 URL=https://openload.co/f/7CLMB517qJU/november.2017.internal.720p.bluray.x264-emx.mkv.mp4
+
+type=video
+name=Woody Woodpecker (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9crXSxVpQmw4kdmtKrvizmWwBG.jpg
+date=2018-08-04
+URL=https://openload.co/f/lwM_cMfnx_k/Woody_Woodpecker_%282017%29_%5B720p%5D_BRRip_700_MB_-_iExTV_mp4
+#https://openload.co/f/_u1FMyoGufI/Woody.Woodpecker.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/VvIKyEzSb7A/Woody.Woodpecker.2017.V2.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/X0yOzJfYXyA/Woody_Woodpecker_%282017%29.tshq.latino.mp4
+
 
 
 
