@@ -37,21 +37,21 @@ date=2018-06-15
 URL=
 
 type=video
-name=Bban-043 Lesbian Manipulative Council That Women Athletes In The Buckwheat Sports University Attend
-thumb=http://javdon.com/wp-content/uploads/2017/01/11773.jpg
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1027953330696940_4409102809190891520_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=aa362d6ab0e921751bf2ae82bcf6bbf5&oe=5B64B6F9&itag=22
+name=Abp-154 The Best Sex Ayami Shunhate
+thumb=http://javdon.com/wp-content/uploads/2017/01/11988.jpg
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_158252681664451_3163637008601972736_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=4beb48214b320936aeb5bb2bc36fe76c&oe=5B679C02&itag=22
 
 type=video
-name=Bban-016 Lesbian Share House
-thumb=http://javdon.com/wp-content/uploads/2018/03/28744.jpg
+name=
+thumb=http://javdon.com/wp-content/uploads/2017/01/11988.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2060072487354969_8324164184682004480_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=5ae92ae75073c6ecd03029d2e8f6c354&oe=5B64C3AC&itag=22
+URL=http://vodstream.xyz/fembed.php?id=R7QxW2M&ads=1&thumb=http://pics.dmm.co.jp/mono/movie/adult/118abp154/118abp154pl.jpg
 
 type=video
-name=Bban-105 Lingerie Shop Rolled Massaging Milk Are A Lesbian Clerk
-thumb=http://javdon.com/wp-content/uploads/2017/02/15783.jpg
+name=Abp-143 Life39s First Deep-trance Alive Climax Sex Makoto Takeuchi
+thumb=http://javdon.com/wp-content/uploads/2017/01/11984.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_242381699835175_2611763475189334016_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=4a70293a57473ca887ae3223c2201a7e&oe=5B64D9DE&itag=22
+URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1796426157074855_2424932814425161728_n.mp4?_nc_cat=0&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&amp;oh=b927ee6ba63fa4868c9bacb7c6e48af7&amp;oe=5B67853B&amp;itag=22
 
 type=video
 name=Bban-086 Lesbattle Royale- Lesbian Battle Royale 8211
@@ -380,21 +380,29 @@ date=2018-07-24
 URL=
 
 
+type=video
+name=Amazing Japanese whore Kirara Asuka in Best Masturbation/Onanii, Solo Girl
+thumb=https://12111541.pix-cdn.org/contents/videos_screenshots/66000/66471/240x180/9.jpg
+date=2018-07-24
+URL=https://vjav.ahcdn.com/key=zjQ3EuqIzP5bPVMmAD61Ew,end=1533588488/speed=0/c3/videos/4635000/4635447/4635447.m3u8
 
-
-
+type=video
+name=Horny Japanese whore Yuma Asami, Akiho Yoshizawa in Hottest Wife, Group Sex JAV clip
+thumb=https://12111541.pix-cdn.org/contents/videos_screenshots/98000/98777/240x180/7.jpg
+date=2018-07-24
+URL=https://vjav.ahcdn.com/key=DvX+z6KnG8etCcjmKaox2g,end=1533588209/speed=0/min_speed=109278/media=hls/c11/videos/5327000/5327477/5327477_hq.mp4
 
 type=video
 name=Sor-017 I Was Doing Really Chai, A Girl Of The Beach 2014 Vol 2
 thumb=http://javdon.com/wp-content/uploads/2017/04/17154.jpg
 date=2018-07-24
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1824373784292546_9105457459249545216_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeFF1wSEfvdQ4FaYvN9wWIJ3yS-LQ4fBMB5sH9HyenVNy6MhvYt_kageap2CtMKAUbqIBn17fbs54i9jpWzXOa9QkTl3SqUKt8DibR5QA5cGvw&oh=0e4e334c654d4cb5003892c82f1a7acc&oe=5B57BAFC&itag=22
+URL=https://vjav.ahcdn.com/key=oT89I2JrvdUJrrIqMiDacQ,end=1533587129/speed=0/c11/videos/5060000/5060039/5060039.m3u8
 
 type=video
-name=Sor-018 I Was Doing Really Chai, A Girl Of The Beach 2014 Vol 3
-thumb=http://javdon.com/wp-content/uploads/2017/03/17155.jpg
+name=Horny Japanese chick Erika Momotani in Amazing
+thumb=https://www.vjav.com/get_file/0/a94461843f1cf913fc739bd4ed629aa75f08908886/43000/43242/screenshots/28.jpg/
 date=2018-07-24
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2024034757918379_2717477755808645120_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&_nc_eui2=AeHI90i8yyVCMX2IR-d84bsh-Acb92FY9L5ra_QF66OiVCZo71lrZej-cK217jh4G_aOwqGV3B3RlzafK0B-J-BglI-GuWr9DS3DBjN27gJhZw&oh=67e98881828bbc5c90b9d138bf0c81e4&oe=5B57B7EA&itag=22
+URL=https://ip7060212.ahcdn.com/key=4EYVMTKJGGHykT-p6DZm8Q,s=,end=1533587757/state=t1k4/reftag=057661720/media=hls/1/121/2/36351472.m3u8
 
 type=video
 name=SOR-004 I Was Doing Really Chai, A Beautiful Girl On The Beach. 2013 Vol.1

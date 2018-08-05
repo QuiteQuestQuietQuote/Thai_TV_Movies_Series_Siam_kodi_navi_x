@@ -46,7 +46,7 @@ URL=http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
 type=video
 name=
-thumb=http://www.doomovie4k.com/icon/bloomberg.png
+thumb=https://api.mytvnet.vn/static/channel/60.png
 date=2017-10-29
 URL=https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
@@ -75,7 +75,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-04
+date=2018-08-05
 URL=
 
 
@@ -83,7 +83,12 @@ URL=
 
 
 
-
+type=video
+name=The Darkest Minds (2018) ENG HDCAM-NO.WATERMARK
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg
+date=2018-08-05
+URL=https://openload.co/f/77_TOO9MDnA/The.Darkest.Minds.2018.HDCAM-NO.WATERMARK.mp4
+#https://openload.co/f/nam9pW6U36A/The_Darkest_Minds_2018_HDCAM-1XBET.mp4
 
 type=video
 name=Christopher Robin (2018) ENG 720p_HDCAM-1xBET_SeeHD
@@ -1419,20 +1424,47 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-04
+date=2018-08-05
 URL=
 
 
 
 
 
+type=video
+name=Apostasy (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjhVHDCCl2nwR1yCPZX4xw819Se.jpg
+date=2018-08-05
+URL=https://openload.co/f/aF-R1KUE_9M/Apostasy.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/vwxvkdznb3dk   720
+#https://www.rapidvideo.com/e/FTT0K8TCI2   720
+#https://openload.co/embed/dIQbksb9Xso/APOTASYBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/66EiV0OJ5V8/Apostasy.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
 
+type=video
+name=Journeyman (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vM0n8B8CULT0zxljdDRi1KuCYc8.jpg
+date=2018-08-05
+URL=https://openload.co/f/WGQ3k-jCrC8/Journeyman.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=One on One (2014) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyZBZRV4ol5b3JikuSEiNXrlAL3.jpg
+date=2018-08-05
+URL=https://openload.co/f/jMl-DmmDVj4/one.on.one.2014.1080p.bluray.x264-regret.mkv.mp4
+
+type=video
+name=Bitter Sweet (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5NWZQaLCJNQgyTHF7dte2Zo4gd.jpg
+date=2018-08-05
+URL=https://openload.co/f/chwL7lVpRAI/bitter.sweet.2016.1080p.bluray.x264-regret.mkv.mp4
 
 type=video
 name=The Miracle Season (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIVYjwi8QcZ9AQk4WRYgW4iUmXb.jpg
-date=2018-08-04
-URL=https://openload.co/f/idiE4Sh3Hpg/The_Miracle_Season_%282018%29_%5B1080p%5D_BluRay_x264-YTS-AM.mp4
+date=2018-08-05
+URL=https://openload.co/f/pcL87dGnozc/The.Miracle.Season.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/idiE4Sh3Hpg/The_Miracle_Season_%282018%29_%5B1080p%5D_BluRay_x264-YTS-AM.mp4
 
 type=video
 name=The Barn (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5564,14 +5596,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7tmOMVqqPU37rugbfEQR5h1sj
 date=2018-07-28
 URL=https://openload.co/f/il-1zw3QAOU/new.initial.d.the.movie.legend.3.dream.2016.720p.bluray.x264-ghouls.mkv.mp4
 
-type=video
-name=Apostasy (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjhVHDCCl2nwR1yCPZX4xw819Se.jpg
-date=2018-07-31
-URL=https://uptobox.com/vwxvkdznb3dk
-#https://www.rapidvideo.com/e/FTT0K8TCI2
-#https://openload.co/embed/dIQbksb9Xso/APOTASYBD72.Ganol.ru.mkv.mp4
-#https://openload.co/f/66EiV0OJ5V8/Apostasy.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
+
 
 type=video
 name=November (2017) [COLOR=FF00FF00]EST BR 720p[/COLOR]
@@ -6064,11 +6089,12 @@ URL=https://streamango.com/f/prqnsdtenracbnle/White_Fang_2018_
 
 
 type=video
-name=The Death of Superman (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=The Death of Superman (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0uxSHaSFmt6XaBJgjkeLqe7aM.jpg
-date=2018-07-27
-URL=https://uptobox.com/v664viv9a2bo
-#https://www.rapidvideo.com/e/FTODQT47PW
+date=2018-08-05
+URL=https://openload.co/f/qpzPjBlZFl4/The_Death_of_Superman_%282018%29.1080p.BluRay.x265-RZeroX.mkv.mp4
+#https://uptobox.com/v664viv9a2bo   720
+#https://www.rapidvideo.com/e/FTODQT47PW   720
 #https://openload.co/embed/EcwO4qI-LCc/THEDEATHSUPERMANBD72.Ganol.ru.mkv.mp4
 #https://openload.co/f/6O1aR-8sYnA/The.Death.of.Superman.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 type=video
@@ -9047,13 +9073,19 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-02
+date=2018-08-05
 URL=
 
 
 
 
 
+
+type=video
+name=Sunday Bloody Sunday (1971) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qY7ItJ1tdxLw5rp63qOzJSa1f7m.jpg
+date=2018-08-05
+URL=https://openload.co/f/ssGhJCJ1g-o/Sunday_Bloody_Sunday_%281971%29_movie_75897.mp4
 
 type=video
 name=Project Almanac (2015) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
@@ -9254,6 +9286,7 @@ name=Superman (1978) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2DOECThGG7h7m5AjLi2Nuh23u1.jpg
 date=2018-07-14
 URL=https://openload.co/f/fAVn0brYhmg/Superman.The.Movie.1978.1080p.mp4
+#https://openload.co/f/9sbCHWFcI3o/Superman.1978.Special.Edition.720.BluRay.x264-x0r.mkv.mp4
 #https://openload.co/f/v04VgjEwl3s/Superman.1978.HD_720p.mp4
 
 type=video
