@@ -75,7 +75,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-05
+date=2018-08-06
 URL=
 
 
@@ -83,11 +83,28 @@ URL=
 
 
 
+
+
+
 type=video
-name=The Darkest Minds (2018) ENG HDCAM-NO.WATERMARK
+name=Blindspotting (2018) ENG HDCAM.XviD-AVID
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMQTd5g2NnYiS32Dcl75TqGSyrn.jpg
+date=2018-08-06
+URL=https://openload.co/f/azKIM3efkXo/Blindspotting.2018.HDCAM.XviD-AVID.avi.mp4
+
+type=video
+name=Teen Titans Go! To the Movies (2018) ENG 720p_TS-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiEuNw3Lg0PIPNUQ3PIWWElwGcY.jpg
+date=2018-08-06
+URL=https://openload.co/f/R3z_dvaWqUA/Teen_Titans_Go_To_the_Movie_2018_720p_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/zgQ-t1LrA8w/Teen.Titans.Go.To.the.Movie.2018.720p.TS-1XBET.mp4   2.4GB
+
+type=video
+name=The Darkest Minds (2018) ENG HDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg
-date=2018-08-05
-URL=https://openload.co/f/77_TOO9MDnA/The.Darkest.Minds.2018.HDCAM-NO.WATERMARK.mp4
+date=2018-08-06
+URL=https://openload.co/f/8JBLH1I3I5w/The_Darkest_Minds_2018_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/77_TOO9MDnA/The.Darkest.Minds.2018.HDCAM-NO.WATERMARK.mp4
 #https://openload.co/f/nam9pW6U36A/The_Darkest_Minds_2018_HDCAM-1XBET.mp4
 
 type=video
@@ -134,10 +151,11 @@ URL=https://openload.co/f/4rQ-PpCodrE/Mamma.Mia%21.2.2018.720p.HDCAM.1XBET_SeeHD
 #https://openload.co/f/-PY_xqQbWaE/Mamma.Mia%21.2.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 
 type=video
-name=Hotel Transylvania 3: Summer Vacation (2018) ENG 720p_HDCAM_NEW_SeeHD
+name=Hotel Transylvania 3: Summer Vacation (2018) ENG CAM.XViD-T3RR0RSQU4
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg
-date=2018-07-18
-URL=https://openload.co/f/eHv-fLRuh7A/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_NEW_SeeHD.mkv.mp4
+date=2018-08-06
+URL=https://openload.co/f/u2JQ5amQDaU/Hotel.Transylvania.3.Summer.Vacation.2018.CAM.XViD-T3RR0RSQU4.avi.mp4
+#https://openload.co/f/eHv-fLRuh7A/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_NEW_SeeHD.mkv.mp4
 #https://openload.co/f/ZqftlMxzgW8/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/hSaXRiGF8S4/Hotel_Transylvania_3_Summer_Vacation_2018_New_720p_HDCAM-X264-AC3.mkv.mp4
 
@@ -1424,12 +1442,40 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-05
+date=2018-08-06
 URL=
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Concerto of the Bully (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3r6iXPJVN009NPflxkFnDYJ94I.jpg
+date=2018-08-06
+URL=https://openload.co/f/nhwb73wOhUY/concerto.of.the.bully.2018.1080p.bluray.x264-regret.mkv.mp4
+
+type=video
+name=Affairs of State (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jw3CFmGrfs4qUf3Aih9xgN5BTqu.jpg
+date=2018-08-06
+URL=https://openload.co/f/R7ZLuiQnIo0/Affairs.of.State.2018.1080p.BR_SeeHD.mp4
 
 type=video
 name=Apostasy (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1468,9 +1514,10 @@ URL=https://openload.co/f/pcL87dGnozc/The.Miracle.Season.2018.1080p.BluRay.X264-
 
 type=video
 name=The Barn (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://m.media-amazon.com/images/M/MV5BZTk2NDhjNDUtMTQxMi00ZDY1LTk2MTAtZWIyMThkZDAwOGM4XkEyXkFqcGdeQXVyNDkwNTA3Njg@._V1_SY1000_CR0,0,666,1000_AL_.jpg
-date=2018-08-04
-URL=https://openload.co/f/skwb6NRzcx0/the.barn.2018.1080p.bluray.x264-getit.mkv.mp4
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7fAx8DMom3cNTHU9xh7Rz8M4qA.jpg
+date=2018-08-06
+URL=https://openload.co/f/B3A6KJJkDjU/The.Barn.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/skwb6NRzcx0/the.barn.2018.1080p.bluray.x264-getit.mkv.mp4
 
 type=video
 name=Bad Samaritan (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5613,6 +5660,35 @@ URL=https://openload.co/f/lwM_cMfnx_k/Woody_Woodpecker_%282017%29_%5B720p%5D_BRR
 #https://openload.co/f/VvIKyEzSb7A/Woody.Woodpecker.2017.V2.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/X0yOzJfYXyA/Woody_Woodpecker_%282017%29.tshq.latino.mp4
 
+type=video
+name=PLOEY: You Never Fly Alone (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2o66Gze91m9Q3xDdC1fc1IJj52B.jpg
+date=2018-08-06
+URL=https://openload.co/f/Nj0deuael9I/PLOEY.You.Never.Fly.Alone.2018.720p.BDRip.X264.AC3-EVO.mkv.mp4
+
+type=video
+name=Kissing Candice (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzQg6WxLU6EyPffWJJzZd86wI0I.jpg
+date=2018-08-06
+URL=https://openload.co/f/dPj-_BRwQQg/Kissing_Candice_2018_Movies_720p_BluRay_x264_5.1.mkv.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5621,7 +5697,7 @@ URL=https://openload.co/f/lwM_cMfnx_k/Woody_Woodpecker_%282017%29_%5B720p%5D_BRR
 type=video
 name=
 thumb=
-date=2018-07-31
+date=2018-08-06
 URL=http://203.162.235.41:17819
 
 
@@ -5718,10 +5794,11 @@ URL=https://streamango.com/f/kkafqdmfscfdklql/Animal_World_2018_
 
 
 type=video
-name=Mission: Impossible - Fallout (2018) ENG 720p.HDCAM.V2.1XBET_SeeHD
+name=Mission: Impossible - Fallout (2018) ENG CAM.XViD-T3RR0RSQU4D
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
-date=2018-07-28
-URL=https://openload.co/f/lbnxpJ8IU7A/Mission.Impossible.Fallout.2018.720p.HDCAM.V2.1XBET_SeeHD.mp4
+date=2018-08-06
+URL=https://openload.co/f/mRAxBM1R1VE/Mission_Impossible_Fallout.2018.CAM.XViD-T3RR0RSQU4D.avi.mp4
+#https://openload.co/f/lbnxpJ8IU7A/Mission.Impossible.Fallout.2018.720p.HDCAM.V2.1XBET_SeeHD.mp4
 #https://openload.co/f/jRzDGi0XWFg/Mission.Impossible.Fallout.2018.New.FULL.HDCAM-X264-AC3-Bobi.mkv.mp4
 #https://openload.co/f/1_OWrlgCXdI/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3-1XB3T_SeeHD.mp4
 #https://openload.co/f/r2MGpc703mg/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3.E.mp4
@@ -5945,7 +6022,7 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-07-26
+date=2018-08-06
 URL=
 
 
@@ -5955,9 +6032,29 @@ URL=
 
 
 
+type=video
+name=Psychic Kusuo (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8vgcpYYOs1ZmF47KJLnxeSQytc.jpg
+date=2018-08-06
+URL=https://streamango.com/f/nmqllqomccnctbaf/Psychic_Kusuo_2017_
 
+type=video
+name=That Is Not a Child But a Minor (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXvgP1Qzv7gSXx3oh715DsY0ctr.jpg
+date=2018-08-06
+URL=https://streamango.com/f/lpbeqlfrqdlfropm/That_Is_Not_a_Child_But_a_Minor_2017_
 
+type=video
+name=The Fortress (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rupDAPmiM0k09h68q8WqHfsKOhu.jpg
+date=2018-08-06
+URL=https://streamango.com/f/ooqcbbmcsqqetqpm/The_Fortress_2017_
 
+type=video
+name=Our Shining Days (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAeJtAUXPoqwVOlLPQ6pQkqndYN.jpg
+date=2018-08-06
+URL=https://streamango.com/f/trnpdttokoptrkdq/Our_Shining_Days_2017_
 
 type=video
 name=Traffik (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5970,7 +6067,7 @@ URL=https://uptobox.com/9ogvtfj9kd05
 #https://openload.co/f/3OXFivuFQn0/Traffik.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://openload.co/f/AyYfn1TqAlI/Traffik_2018_HDCAM_ENG_X264_-_SugarTits_SeeHD.mkv.mp4
 type=video
-name=Traffik (2018) TH
+name=Traffik (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubSpsYP3WqljVPVSX2FbBNYZoR1.jpg
 date=2018-07-26
 URL=https://streamango.com/f/ebcqakctfppnmkne/Traffik_2018_
