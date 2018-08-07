@@ -2961,9 +2961,12 @@ http://139.99.38.3:443/sd-bbcearth_720/index.m3u8
 #EXTINF:-1,BBC Lifestyle_139
 http://139.99.38.3:443/sd-bbclifestyle_720/index.m3u8
 
-
-
-
+#EXTINF:-1,CBSN
+http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/605803-BBC-World-News.png",BBC NEWS_php
+http://fpttv.tk/iptv/hplus.php?id=bbc-wn
+#EXTINF:-1 group-title="news" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCNEWS.png",BBC NEWS_IND
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226051/01.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC
 http://203.162.235.41:17819
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_thflixCH
@@ -3086,10 +3089,6 @@ https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/605803-BBC-World-News.png",BBC NEWS_php
-http://fpttv.tk/iptv/hplus.php?id=bbc-wn
-#EXTINF:-1 group-title="news" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCNEWS.png",BBC NEWS_IND
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226051/01.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCNEWS.png",BBC NEWS_HD
 http://95.107.132.104/out/u/131_1.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL

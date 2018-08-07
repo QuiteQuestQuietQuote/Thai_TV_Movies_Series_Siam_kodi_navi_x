@@ -174,7 +174,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
   <link>$doregex[link]</link>
   <thumbnail></thumbnail>
   ]]></listrepeat>
-  <expres><![CDATA[<h1.*">(.*?)<.*\n.*src="(.*?)"]]></expres>
+  <expres><![CDATA[<a.*">(.*?)<.*\n.*href="(.*?)"]]></expres>
   <page>http://javdon.com/watch-movie-sqte-186-i-love-you-and-i39m-more-excited-than-usual.html</page>
   <referer></referer>
   <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36</agent>
@@ -194,39 +194,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
 
 
 
-
-
-
-<item>
-<title>Sqte-186 I Love You And I39m More Excited Than Usual_cookie</title>
-<thumbnail>http://javdon.com/wp-content/uploads/2017/10/27042.jpg</thumbnail>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[makelist.param1]</title>
-  <link>$doregex[link]</link>
-  <thumbnail></thumbnail>
-  ]]></listrepeat>
-  <expres><![CDATA[<h1.*">(.*?)<.*\n.*src="(.*?)"]]></expres>
-  <page>http://javdon.com/watch-movie-sqte-186-i-love-you-and-i39m-more-excited-than-usual.html</page>
-  <referer></referer>
-  <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36</agent>
-  <cookieJar>__cfduid=d52859b96f1e0920184feff679d8071291532714585; __atuvc=11%7C30%2C53%7C31%2C4%7C32; __atuvs=5b688c3f0ac476c4000</cookieJar>
-</regex>
-<regex>
-<name>link</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-</regex> 
-</item>
-
-
+file: '
 
 
 
@@ -241,73 +209,9 @@ def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
   <link>$doregex[link]</link>
   <thumbnail></thumbnail>
   ]]></listrepeat>
-  <expres><![CDATA[<h1.*">(.*?)<.*\n.*src="(.*?)"]]></expres>
+  <expres><![CDATA[<.*\n.*file: '(.*?)', label: '720p']]></expres>
   <page>http://vodstream.xyz/fembed.php?id=Yn0BbLM&ads=1&thumb=//pics.dmm.co.jp/mono/movie/adult/sqte186so/sqte186sopl.jpg</page>
   <referer></referer>
-  <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36</agent>
-  <cookieJar></cookieJar>
-</regex>
-<regex>
-<name>link</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-</regex> 
-</item>
-
-
-
-
-
-<item>
-<title>Sqte-186 I Love You And I39m More Excited Than Usual_php_ref</title>
-<thumbnail>http://javdon.com/wp-content/uploads/2017/10/27042.jpg</thumbnail>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[makelist.param1]</title>
-  <link>$doregex[link]</link>
-  <thumbnail></thumbnail>
-  ]]></listrepeat>
-  <expres><![CDATA[<h1.*">(.*?)<.*\n.*src="(.*?)"]]></expres>
-  <page>http://vodstream.xyz/fembed.php?id=Yn0BbLM&ads=1&thumb=//pics.dmm.co.jp/mono/movie/adult/sqte186so/sqte186sopl.jpg</page>
-  <referer>http://javdon.com/watch-movie-sqte-186-i-love-you-and-i39m-more-excited-than-usual.html</referer>
-  <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36</agent>
-  <cookieJar></cookieJar>
-</regex>
-<regex>
-<name>link</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-</regex> 
-</item>
-
-
-
-<item>
-<title>Sqte-186 I Love You And I39m More Excited Than Usual_php_ref_id</title>
-<thumbnail>http://javdon.com/wp-content/uploads/2017/10/27042.jpg</thumbnail>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[makelist.param1]</title>
-  <link>$doregex[link]</link>
-  <thumbnail></thumbnail>
-  ]]></listrepeat>
-  <expres><![CDATA[<h1.*">(.*?)<.*\n.*src="(.*?)"]]></expres>
-  <page>http://vodstream.xyz/fembed.php?id=Yn0BbLM&ads=1&thumb=//pics.dmm.co.jp/mono/movie/adult/sqte186so/sqte186sopl.jpg</page>
-  <referer>http://javdon.com/watch-movie-sqte-186-i-love-you-and-i39m-more-excited-than-usual.html?id=9B336BE5EBCEE018B95DC7FE8A8B24AA</referer>
   <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36</agent>
   <cookieJar></cookieJar>
 </regex>

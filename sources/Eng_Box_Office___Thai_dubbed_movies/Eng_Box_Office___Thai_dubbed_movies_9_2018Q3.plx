@@ -87,10 +87,11 @@ URL=
 
 
 type=video
-name=Blindspotting (2018) ENG HDCAM.XviD-AVID
+name=Blindspotting (2018) ENG 720p.HDCAM.X264.24HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMQTd5g2NnYiS32Dcl75TqGSyrn.jpg
-date=2018-08-06
-URL=https://openload.co/f/azKIM3efkXo/Blindspotting.2018.HDCAM.XviD-AVID.avi.mp4
+date=2018-08-07
+URL=https://openload.co/f/FoA3E5P600A/Blindspotting.2018.720p.HDCAM.X264.24HD_SeeHD.mp4
+#https://openload.co/f/azKIM3efkXo/Blindspotting.2018.HDCAM.XviD-AVID.avi.mp4
 
 type=video
 name=Teen Titans Go! To the Movies (2018) ENG 720p_TS-1XBET_SeeHD
@@ -1442,7 +1443,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-06
+date=2018-08-07
 URL=
 
 
@@ -1457,13 +1458,32 @@ URL=
 
 
 
+type=video
+name=Josie (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXwATbG3eJjkteGh1YaqV1PGeGb.jpg
+date=2018-08-07
+URL=https://openload.co/f/gLJYGWlRThc/Josie.2018.1080p.BluRay.x264.DTS-HD.MA.5.1-FGT.mkv.mp4
 
+type=video
+name=The Tag-Along 2 (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kJizTQoHW9Tj1QvuGkRmySUiY1.jpg
+date=2018-08-07
+URL=https://openload.co/f/bbpeV17xGIk/The.Tag-Along.2.2017.1080p.BluRay.x264.DTS-HD.MA.5.1-CHD.mkv.mp4
 
+type=video
+name=The Tag-Along (2015) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lrnKOsJoJeEDb7MlD2eoy9XQfp4.jpg
+date=2018-08-07
+URL=https://openload.co/f/3mlm1ILNQL4/The.Tag-Along.2015.1080p.BluRay.x264-WiKi.mkv.mp4
 
-
-
-
-
+type=video
+name=Wildling (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZQR6hKRUBqHRL4lfECFES68zGF.jpg
+date=2018-08-07
+URL=https://openload.co/f/NaOeZkZNUKs/Wildling_%282018%29_%5B1080p%5D_BluRay_x264-%5BYTS_AM%5D_mp4
+#https://uptobox.com/2fjamoyylxru   720
+#https://www.rapidvideo.com/e/FU1DM5RYNE   720
+#https://openload.co/embed/bskuDFczey8/WILDINGBD72.Ganol.ru.mkv.mp4
 
 type=video
 name=Concerto of the Bully (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
@@ -1476,6 +1496,9 @@ name=Affairs of State (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jw3CFmGrfs4qUf3Aih9xgN5BTqu.jpg
 date=2018-08-06
 URL=https://openload.co/f/R7ZLuiQnIo0/Affairs.of.State.2018.1080p.BR_SeeHD.mp4
+#https://uptobox.com/q49hdxtldqyj   720
+#https://www.rapidvideo.com/e/FU15XU43IV   720
+#https://openload.co/embed/zuxB1zTebe0/AFFAIRSSTATEBD72.Ganol.ru.mkv.mp4
 
 type=video
 name=Apostasy (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1511,6 +1534,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIVYjwi8QcZ9AQk4WRYgW4iUmX
 date=2018-08-05
 URL=https://openload.co/f/pcL87dGnozc/The.Miracle.Season.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/idiE4Sh3Hpg/The_Miracle_Season_%282018%29_%5B1080p%5D_BluRay_x264-YTS-AM.mp4
+#https://uptobox.com/48hgvb3xoing   720
+#https://www.rapidvideo.com/e/FU1JDHR46A   720
+#https://openload.co/embed/kv1q5P3GpBA/THEMIRACLESEASONBD72.Ganol.ru.mkv.mp4
 
 type=video
 name=The Barn (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1524,6 +1550,9 @@ name=Bad Samaritan (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojCu9SLxAPwhhC2tXtHNdrTmxCH.jpg
 date=2018-08-03
 URL=https://openload.co/f/s2P-GxSxhWc/Bad.Samaritan.2018.1080p.BR_SeeHD.mp4
+#https://uptobox.com/xe6k3jb1ua4b   720
+#https://www.rapidvideo.com/e/FU1DV03FUW   720
+#https://openload.co/embed/AXBSWgNQm4c/BADSAMRITANBD72.Ganol.ru.mkv.mp4
 
 type=video
 name=Kings (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5672,11 +5701,29 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzQg6WxLU6EyPffWJJzZd86wI0
 date=2018-08-06
 URL=https://openload.co/f/dPj-_BRwQQg/Kissing_Candice_2018_Movies_720p_BluRay_x264_5.1.mkv.mp4
 
+type=video
+name=Dead Shack (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjhl7lzyUDVj5pvJSFSN6JvSWOW.jpg
+date=2018-08-07
+URL=https://uptobox.com/2zlziygtdb9i
+#https://www.rapidvideo.com/e/FU160JJAW1
+#https://openload.co/embed/kqe9awnmfTE/DEADSHACKBD72.Ganol.ru.mkv.mp4
 
+type=video
+name=The Yellow Birds (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCJwKafIkkt1Z0sMhhJWGox99hB.jpg
+date=2018-08-07
+URL=https://uptobox.com/woityt0t0hn0
+#https://www.rapidvideo.com/e/FU1FXBNGVV
+#https://openload.co/embed/ouG5TkV6wzU/THEYELLOWBIRDSBD72.Ganol.ru.mkv.mp4
 
-
-
-
+type=video
+name=No Good Heroes (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRiKZR9aQZ3vmj2efbUWIGFWJiL.jpg
+date=2018-08-07
+URL=https://uptobox.com/qlzih851xsiq
+#https://www.rapidvideo.com/e/FU1G6M19R6
+#https://openload.co/embed/wSpTKMGeG00/NOGOODHEROESBD72.Ganol.ru.mkv.mp4
 
 
 
@@ -5697,7 +5744,7 @@ URL=https://openload.co/f/dPj-_BRwQQg/Kissing_Candice_2018_Movies_720p_BluRay_x2
 type=video
 name=
 thumb=
-date=2018-08-06
+date=2018-08-07
 URL=http://203.162.235.41:17819
 
 
@@ -5902,10 +5949,11 @@ URL=https://streamango.com/f/adlroqadtdnccsqt/Ocean_s_8_2018_8_
 
 
 type=video
-name=Taxi 5 (2018) FRE DVDscr.AC3.XViDHDMovie8
+name=Taxi 5 (2018)  [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg
-date=2018-06-14
-URL=https://openload.co/f/XhBHNqkz6gU/Taxi.5.2018.FRENCH.DVDscr.AC3.XViDHDMovie8.mp4
+date=2018-08-07
+URL=https://openload.co/f/cKlPCxzGa5A/taxi.5.2018.french.1080p.bluray.x264-HDMovie8.mkv.mp4
+#https://openload.co/f/XhBHNqkz6gU/Taxi.5.2018.FRENCH.DVDscr.AC3.XViDHDMovie8.mp4
 type=video
 name=Taxi 5 (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg
@@ -7755,10 +7803,13 @@ URL=https://streamango.com/f/aecberatadpcfkqe/The_Cured_2018_
 
 
 type=video
-name=Deadpool 2 (2018) ENG 720p.KORSUB.HDRip.x264-NON
+name=Deadpool 2 (2018) ENG Super.Duper.Cut.1080p.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
 date=2018-06-25
-URL=https://openload.co/f/ieaJrN0RMqo/Deadpool.2.2018.720p.KORSUB.HDRip.x264-NON.mp4
+URL=https://openload.co/f/UBDzeXvmvRA/Deadpool.2.2018.Super.Duper.Cut.1080p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/FDWWBWwv1qk/Deadpool.2.2018.Super.Duper.Cut.1080p.AMZN-CBR.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/g58SefBKVqM/Deadpool.2.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/ieaJrN0RMqo/Deadpool.2.2018.720p.KORSUB.HDRip.x264-NON.mp4
 #https://openload.co/f/1RdA9X6UDcQ/DeadPool_2.720pHD_SeeHD.mp4
 #https://openload.co/f/WlAi7Qz8jGs/DeadPool_2.720pHDRip_SeeHD.mkv.mp4
 #https://openload.co/f/_ET4_325tGk/Deadpool.2.2018.720p.KORSUB.HDRip.x264-NON.mp4
@@ -9167,16 +9218,36 @@ name=
 thumb=
 date=2018-07-02
 URL=
+
 type=video
 name=
 thumb=
-date=2018-08-05
+date=2018-08-07
 URL=
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Deadpool (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/inVq3FRqcYIRl2la8iZikYYxFNR.jpg
+date=2018-08-07
+URL=https://openload.co/f/ec2XEslQ6n0/Deadpool.2016.1080p.Br_SeeHD.mp4
+#https://openload.co/f/0iwmF7OIoJg/Deadpool.2016.720p.Br_SeeHD.mp4
 
 type=video
 name=Sunday Bloody Sunday (1971) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
