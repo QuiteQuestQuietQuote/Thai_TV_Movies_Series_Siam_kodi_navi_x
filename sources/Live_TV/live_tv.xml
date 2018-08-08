@@ -205,24 +205,19 @@ def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
 <item>
 <title>Sqte-186 I Love You And I39m More Excited Than Usual</title>
 <thumbnail>http://javdon.com/wp-content/uploads/2017/10/27042.jpg</thumbnail>
-<link>$doregex[makelist]</link>
+<link>$doregex[link]</link>
 <regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[makelist.param1]</title>
-  <link>$doregex[link]</link>
-  <thumbnail></thumbnail>
-  ]]></listrepeat>
-  <expres><![CDATA[<a.*">(.*?)<.*\n.*href="(.*?)"]]></expres>
-  <page>http://javdon.com/watch-movie-sqte-186-i-love-you-and-i39m-more-excited-than-usual.html</page>
-  <referer></referer>
-  <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36</agent>
-  <cookieJar></cookieJar>
+<name>stream</name>
+<expres>360p</a.*"(.*?)</expres>
+<page>http://javdon.com/download/?id=Yn0BbLM</page>
+<referer></referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36</agent>
+<cookieJar></cookieJar>
 </regex>
 <regex>
 <name>link</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
+def GetLSProData(page_data,Cookie_Jar,m,url='[stream]'):
     import urlresolver
     u = urlresolver.resolve(url)
     return u

@@ -7,8 +7,8 @@
 
 
 
-
-
+#EXTINF:-1,xxxtest
+https://video.xx.fbcdn.net/v/t42.9040-2/10000000_225875504720578_1669009069861502976_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=945b2e26edcf4b71c49231dbf9277d28&oe=5B6B6B89&itag=22
 
 
 
@@ -27,10 +27,13 @@ http://nationstream.nationgroup.com/hls/th_high.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL_720p
 http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_720p/index.m3u8
 
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png",now 26_php_adintrend
+https://www.adintrend.com/hd/live/i.php?ch=32&cxid=bjeNTc1YWQ3ZWQ0NTQ0YmYwM2E1NAMTY5MTI5MDhkYjFmMjU3&tmpx=180.183.47.222&ccc=TH&device=desktop&isp=3BB
+#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",NATION_php_adintrend
+https://www.adintrend.com/hd/live/i.php?ch=37&cxid=bjeM2IyM2QxNGJkOTZjOTIxY2UyNQNzA5MjQwYWMzNzZiZjNk&tmpx=180.183.47.222&ccc=TH&device=desktop&isp=3BB
+
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://www.doohdbox.com/assets/20170710190257130955573.jpg",NATION CHANNEL_for-our
 http://main-a.for-our.info:8081/tv1/ch8.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",NATION_adintrend
-https://p0.adintrend.com/live/ch37/i/ch37i.m3u8?sid=ajeNjgxOWU4ZDQ5YTYyNzQ0YjA2ZgMmU2OGRjMzQyN2NjZGJj
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24_thflixCH
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/108.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",NATION_thflixCH
@@ -2778,8 +2781,8 @@ http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/866/inde
 
 
 
-
-
+#EXTINF:-1,miamitv
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1,hustler
 http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
 #EXTINF:-1,hustler HD
@@ -2800,6 +2803,8 @@ http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1,livesexlatinas_rtsp
 rtsp://51.254.198.110:1935/leved/livesexlatinas
+#EXTINF:-1,XXX_CHN_ERR
+http://59.124.220.46:554/live/tv184198481.stream/index.m3u8
 #EXTINF:-1,XXX_CHN
 http://59.124.220.46:554/live/tv284198321.stream/index.m3u8
 #EXTINF:-1,cr831-zcswdybsh-1.mp4_JAPxxx
@@ -2826,7 +2831,8 @@ http://95.107.132.104/out/u/103_1.m3u8
 http://95.107.132.104/out/u/107_1.m3u8 
 #EXTINF:-1,unk 
 http://95.107.132.104/out/u/181_1.m3u8
-
+#EXTINF:-1,Pink
+http://85.132.71.6/ru/pink/index.m3u8
 
 
 
@@ -2924,6 +2930,8 @@ http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/iy/180723045313.jpg",upmovie
 http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
 
+#EXTINF:-1,simulcast
+http://210.210.155.35/uq2663/h/h02/02.m3u8
 #EXTINF:-1,aniplus
 http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
 #EXTINF:-1 group-title="movies" tvg-logo="http://html.login.in.th/flashstreaming/img/ch8.jpg",channel8thailand
@@ -2935,6 +2943,8 @@ rtmp://tv01.thaizatv.com/drm/movie1
 http://fpttv.tk/iptv/mytvnet.php?id=hbo
 #EXTINF:-1,FOX MOVIES_php
 http://fpttv.tk/iptv/hplus.php?id=foxmovies-hd
+#EXTINF:-1,FOX ACTION MOVIES
+http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/01.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO hits
 http://iss06.ott.net.tw:8086/live/coship_DCTV2291445940028640_1200.m3u8
 #EXTINF:-1,HRT1_PLTV

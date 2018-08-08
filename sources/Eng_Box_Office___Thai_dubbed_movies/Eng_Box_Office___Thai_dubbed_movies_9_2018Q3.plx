@@ -66,9 +66,9 @@ URL=
 
 type=video
 name=
-thumb=
+thumb=https://ganol.ru/wp-content/uploads/2018/08/The-Limit-of-Sleeping-Beauty-2017-229x323.jpg
 date=2018-07-13
-URL=
+URL=https://www.rapidvideo.com/e/FTYWT8PZK3
 
 
 
@@ -100,13 +100,7 @@ date=2018-08-06
 URL=https://openload.co/f/R3z_dvaWqUA/Teen_Titans_Go_To_the_Movie_2018_720p_TS-1XBET_SeeHD.mp4
 #https://openload.co/f/zgQ-t1LrA8w/Teen.Titans.Go.To.the.Movie.2018.720p.TS-1XBET.mp4   2.4GB
 
-type=video
-name=The Darkest Minds (2018) ENG HDCAM_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg
-date=2018-08-06
-URL=https://openload.co/f/8JBLH1I3I5w/The_Darkest_Minds_2018_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/77_TOO9MDnA/The.Darkest.Minds.2018.HDCAM-NO.WATERMARK.mp4
-#https://openload.co/f/nam9pW6U36A/The_Darkest_Minds_2018_HDCAM-1XBET.mp4
+
 
 type=video
 name=Christopher Robin (2018) ENG 720p_HDCAM-1xBET_SeeHD
@@ -1461,8 +1455,9 @@ URL=
 type=video
 name=Josie (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXwATbG3eJjkteGh1YaqV1PGeGb.jpg
-date=2018-08-07
-URL=https://openload.co/f/gLJYGWlRThc/Josie.2018.1080p.BluRay.x264.DTS-HD.MA.5.1-FGT.mkv.mp4
+date=2018-08-08
+URL=https://openload.co/f/boLfS0n6HaA/Josie.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/gLJYGWlRThc/Josie.2018.1080p.BluRay.x264.DTS-HD.MA.5.1-FGT.mkv.mp4
 
 type=video
 name=The Tag-Along 2 (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
@@ -4184,13 +4179,7 @@ date=2018-01-09
 URL=https://uptobox.com/dqamv68pehmt
 #https://openload.co/f/4cxVOsi3o0U/Bullet.Head.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
 
-type=video
-name=Loving Vincent (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlrhwUDe7YOZujAYanK6ij2vbY5.jpg
-date=2018-01-07
-URL=https://openload.co/f/szcjlS1fZBQ/Loving_Vincent_%282017%29.1080p.BluRay_x264-YTS_AG.mp4
-#https://openload.co/f/RmadNkiaL1g/Loving_Vincent_2017_BRRip.mp4
-#https://openload.co/f/YZFeBPiDAMY/Loving_Vincent.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=The Last Warrior (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
@@ -5683,8 +5672,11 @@ URL=https://openload.co/f/7CLMB517qJU/november.2017.internal.720p.bluray.x264-em
 type=video
 name=Woody Woodpecker (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9crXSxVpQmw4kdmtKrvizmWwBG.jpg
-date=2018-08-04
-URL=https://openload.co/f/lwM_cMfnx_k/Woody_Woodpecker_%282017%29_%5B720p%5D_BRRip_700_MB_-_iExTV_mp4
+date=2018-08-08
+URL=https://uptobox.com/0elo4jar2nlv
+#https://www.rapidvideo.com/e/FU2PQ41GOQ
+#https://openload.co/embed/8jgaV2lZGy8/WOODYWOODPCKERBD72.Ganol.ru.mkv
+#https://openload.co/f/lwM_cMfnx_k/Woody_Woodpecker_%282017%29_%5B720p%5D_BRRip_700_MB_-_iExTV_mp4
 #https://openload.co/f/_u1FMyoGufI/Woody.Woodpecker.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/VvIKyEzSb7A/Woody.Woodpecker.2017.V2.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/X0yOzJfYXyA/Woody_Woodpecker_%282017%29.tshq.latino.mp4
@@ -5825,7 +5817,18 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
-
+type=video
+name=The Darkest Minds (2018) ENG HDCAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg
+date=2018-08-06
+URL=https://openload.co/f/8JBLH1I3I5w/The_Darkest_Minds_2018_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/77_TOO9MDnA/The.Darkest.Minds.2018.HDCAM-NO.WATERMARK.mp4
+#https://openload.co/f/nam9pW6U36A/The_Darkest_Minds_2018_HDCAM-1XBET.mp4
+type=video
+name=The Darkest Minds (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg
+date=2018-08-08
+URL=https://streamango.com/f/cdckomebmtmsrmdq/The_Darkest_Minds_2018_
 
 
 type=video
@@ -5948,17 +5951,7 @@ date=2018-06-18
 URL=https://streamango.com/f/adlroqadtdnccsqt/Ocean_s_8_2018_8_
 
 
-type=video
-name=Taxi 5 (2018)  [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg
-date=2018-08-07
-URL=https://openload.co/f/cKlPCxzGa5A/taxi.5.2018.french.1080p.bluray.x264-HDMovie8.mkv.mp4
-#https://openload.co/f/XhBHNqkz6gU/Taxi.5.2018.FRENCH.DVDscr.AC3.XViDHDMovie8.mp4
-type=video
-name=Taxi 5 (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg
-date=2018-06-14
-URL=https://streamango.com/f/krmfsqkocolersbk/Taxi_5_2018_
+
 
 
 
@@ -6070,15 +6063,32 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-08-06
+date=2018-08-08
 URL=
 
 
 
 
 
+type=video
+name=Loving Vincent (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlrhwUDe7YOZujAYanK6ij2vbY5.jpg
+date=2018-01-07
+URL=https://openload.co/f/szcjlS1fZBQ/Loving_Vincent_%282017%29.1080p.BluRay_x264-YTS_AG.mp4
+#https://openload.co/f/RmadNkiaL1g/Loving_Vincent_2017_BRRip.mp4
+#https://openload.co/f/YZFeBPiDAMY/Loving_Vincent.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
+type=video
+name=Loving Vincent (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlrhwUDe7YOZujAYanK6ij2vbY5.jpg
+date=2018-08-08
+URL=https://streamango.com/f/dlqemeflterkrapb/Loving_Vincent_2017_
 
 
+type=video
+name=Forgive Us Our Debts (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6b1XcIAYrxITFuLBbhxttPmwpyM.jpg
+date=2018-08-08
+URL=https://streamango.com/f/mdnmktdclnqfanen/Forgive_Us_Our_Debts_2018_
 
 type=video
 name=Psychic Kusuo (2017) THSUB
@@ -6404,6 +6414,7 @@ date=2018-07-27
 URL=https://uptobox.com/gftuu2tsynrl
 #https://www.rapidvideo.com/e/FTOAQ2K54G
 #https://openload.co/embed/vHj9qJPwQ48/GHPREVENGE80.Ganol.ru.mkv.mp4
+#https://openload.co/f/Q7Kb86pDvPQ/Revenge.2017.720p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/-Rr4MQfqyZM/Revenge.2017.BluRay.1080p.DTS.x264-CHD.mkv.mp4
 #https://openload.co/f/s6Mm0K2TWVs/Revenge.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
 #https://openload.co/f/ItjiuFqD910/Revenge_2018_720p_WEB-DL_X264_AC3-CPG_SeeHD.mkv.mp4
@@ -7788,6 +7799,19 @@ URL=
 
 
 
+type=video
+name=Taxi 5 (2018)  [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg
+date=2018-08-07
+URL=https://openload.co/f/cKlPCxzGa5A/taxi.5.2018.french.1080p.bluray.x264-HDMovie8.mkv.mp4
+#https://openload.co/f/XhBHNqkz6gU/Taxi.5.2018.FRENCH.DVDscr.AC3.XViDHDMovie8.mp4
+type=video
+name=Taxi 5 (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg
+date=2018-08-08
+URL=https://streamango.com/f/msamccmbeqoonrsm/Taxi_5_2018_
+#https://streamango.com/f/krmfsqkocolersbk/Taxi_5_2018_
+
 
 type=video
 name=The Cured (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7803,10 +7827,16 @@ URL=https://streamango.com/f/aecberatadpcfkqe/The_Cured_2018_
 
 
 type=video
-name=Deadpool 2 (2018) ENG Super.Duper.Cut.1080p.HDRip.X264.AC3-EVO
+name=Deadpool 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
-date=2018-06-25
-URL=https://openload.co/f/UBDzeXvmvRA/Deadpool.2.2018.Super.Duper.Cut.1080p.HDRip.X264.AC3-EVO.mkv.mp4
+date=2018-08-08
+URL=https://openload.co/f/1jvjkDxniIw/Deadpool.2.2018.Super.Duper.Cut.UNRATED.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/BHhE5nOiwes/Deadpool.2.2018.Super.Duper.Cut.720p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/crpuwHvJLug/Deadpool.2.2018.Super.Duper.Cut.720p.BluRay.x264.DTS-HDC.mkv   MKV7.8GB
+#https://openload.co/f/EiSd4cTgCy8/Deadpool.2.2018.Super.Duper.Cut.1080p.AMZN_CBR.WEB_DL.x264.MkvCage.ws.mp4
+#https://openload.co/f/gc6bK2ZFPKg/Deadpool.2.2018.Super.Duper.Cut.720p.AMZN-CBR.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
+#https://openload.co/f/SEQSgVYoVJQ/Deadpool.2.2018.Super.Duper.Cut.720p.HD_SeeHD.mkv.mp4
+#https://openload.co/f/UBDzeXvmvRA/Deadpool.2.2018.Super.Duper.Cut.1080p.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/FDWWBWwv1qk/Deadpool.2.2018.Super.Duper.Cut.1080p.AMZN-CBR.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
 #https://openload.co/f/g58SefBKVqM/Deadpool.2.720pHD_SeeHD.mkv.mp4
 #https://openload.co/f/ieaJrN0RMqo/Deadpool.2.2018.720p.KORSUB.HDRip.x264-NON.mp4
@@ -8532,8 +8562,9 @@ URL=https://www.blazefile.co/embed-wrnkboqzant2.html
 type=video
 name=Beirut (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2qIeFsI9TskZr1LkSwljQDh5nl.jpg
-date=2018-08-01
-URL=https://openload.co/f/K5P-_meiV6k/Beirut_%282018%29%E0%B9%80%E0%B8%9A%E0%B8%A3%E0%B8%B8%E0%B8%95%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%95%E0%B8%81.mp4
+date=2018-08-08
+URL=https://openload.co/f/ecwU13OBafM/Beirut_%282018%29%E0%B9%80%E0%B8%9A%E0%B8%A3%E0%B8%B8%E0%B8%95%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%95%E0%B8%81.mp4
+#https://openload.co/f/K5P-_meiV6k/Beirut_%282018%29%E0%B9%80%E0%B8%9A%E0%B8%A3%E0%B8%B8%E0%B8%95%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%95%E0%B8%81.mp4
 
 
 type=video
