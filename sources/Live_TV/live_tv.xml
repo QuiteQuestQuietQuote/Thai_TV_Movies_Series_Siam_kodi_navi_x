@@ -182,7 +182,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
   ]]></listrepeat>
   <expres><![CDATA[<a.*">(.*?)<.*href="(.*?)"]]></expres>
   <page>http://javdon.com/download/?id=Yn0BbLM</page>
-  <referer></referer>
+  <referer>http://javdon.com/watch-movie-sqte-186-i-love-you-and-i39m-more-excited-than-usual.html</referer>
   <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36</agent>
   <cookieJar></cookieJar>
 </regex>
