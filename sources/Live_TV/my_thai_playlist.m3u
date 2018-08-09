@@ -7,8 +7,6 @@
 
 
 
-#EXTINF:-1,xxxtest
-https://video.xx.fbcdn.net/v/t42.9040-2/10000000_225875504720578_1669009069861502976_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=945b2e26edcf4b71c49231dbf9277d28&oe=5B6B6B89&itag=22
 
 
 
@@ -3089,6 +3087,8 @@ http://mhms6.airtel.tv/wh7f454c46tw1157635511_2090870016/PLTV/88888888/224/32212
 #EXTINF:-1 group-title="news" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/748952-australia-Plus.png",australia-plus_php
 http://fpttv.tk/iptv/hplus.php?id=australia-plus
 
+#EXTINF:-1,MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-b.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://www.cgtn.com/public/bundle/images/event/live_DO.png",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://www.cgtn.com/public/bundle/images/event/live_EN.png",CGTN

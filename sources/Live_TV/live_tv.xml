@@ -28,7 +28,7 @@
 
 <item>
 <title>Sqte-186 I Love You And I39m More Excited Than Usual</title>
-<link>https://video.xx.fbcdn.net/v/t42.9040-2/10000000_225875504720578_1669009069861502976_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=945b2e26edcf4b71c49231dbf9277d28&oe=5B6B6B89&itag=22</link>
+<link>https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_225875504720578_1669009069861502976_n.mp4?_nc_cat=0&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&amp;oh=0e93762488fff161f79267830d91c57b&amp;oe=5B6CCB19&amp;itag=22</link>
 <thumbnail>http://javdon.com/wp-content/uploads/2017/10/27042.jpg</thumbnail>
 
 
@@ -182,7 +182,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
   ]]></listrepeat>
   <expres><![CDATA[<a.*">(.*?)<.*href="(.*?)"]]></expres>
   <page>http://javdon.com/download/?id=Yn0BbLM</page>
-  <referer>http://javdon.com/watch-movie-sqte-186-i-love-you-and-i39m-more-excited-than-usual.html</referer>
+  <referer></referer>
   <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36</agent>
   <cookieJar></cookieJar>
 </regex>
@@ -209,7 +209,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
 <regex>
 <name>link</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='https://video.xx.fbcdn.net/v/t42.9040-2/10000000_225875504720578_1669009069861502976_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=945b2e26edcf4b71c49231dbf9277d28&oe=5B6B6B89&itag=22'):
+def GetLSProData(page_data,Cookie_Jar,m,url='https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_225875504720578_1669009069861502976_n.mp4?_nc_cat=0&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&amp;oh=0e93762488fff161f79267830d91c57b&amp;oe=5B6CCB19&amp;itag=22'):
     import urlresolver
     u = urlresolver.resolve(url)
     return u

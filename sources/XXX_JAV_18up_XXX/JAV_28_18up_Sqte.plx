@@ -37,33 +37,33 @@ date=2018-06-15
 URL=
 
 type=video
-name=Abp-154 The Best Sex Ayami Shunhate
-thumb=http://javdon.com/wp-content/uploads/2017/01/11988.jpg
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_158252681664451_3163637008601972736_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=4beb48214b320936aeb5bb2bc36fe76c&oe=5B679C02&itag=22
+name=Rctd-111 Super Serious Fully Nude Lesbian Battle DYNAMITE 2018
+thumb=http://javdon.com/wp-content/uploads/2018/08/1rctd00111pl-crop-215x316.jpg
+URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_308266569944397_5357664637368139776_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=730e972093310db1eb038bae167123d0&oe=5B6CCD63&itag=22
 
 type=video
-name=
-thumb=http://javdon.com/wp-content/uploads/2017/01/11988.jpg
+name=Scop-359 Once You Have A Local Classmate Who Became A Married Woman In The Class Reunion And Sugoku H A King Game, Longing Of Tits And Panties Of That Child Has Become Unlimited Viewing, It Rolled Further Spear Two
+thumb=http://javdon.com/wp-content/uploads/2018/03/29152-215x316.jpg
 date=2018-06-15
-URL=http://vodstream.xyz/fembed.php?id=R7QxW2M&ads=1&thumb=http://pics.dmm.co.jp/mono/movie/adult/118abp154/118abp154pl.jpg
+URL=http://cdn.vodstream.xyz/s49/3674/036-hls/appid-29152/hls.m3u8?v=3
 
 type=video
-name=Abp-143 Life39s First Deep-trance Alive Climax Sex Makoto Takeuchi
-thumb=http://javdon.com/wp-content/uploads/2017/01/11984.jpg
+name=Caribpr 122316-003 Beaucoup Beach Fuck Special 3Hrs-14 Girls
+thumb=http://javdon.com/wp-content/uploads/2016/12/9425-215x316.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1796426157074855_2424932814425161728_n.mp4?_nc_cat=0&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&amp;oh=b927ee6ba63fa4868c9bacb7c6e48af7&amp;oe=5B67853B&amp;itag=22
+URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_206634790134373_2690650054343000064_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=a0477efebfbf7ca7598c99fb8fc51538&oe=5B6CCF10&itag=22
 
 type=video
-name=Bban-086 Lesbattle Royale- Lesbian Battle Royale 8211
-thumb=http://javdon.com/wp-content/uploads/2017/02/15860.jpg
+name=Tre-042 It Unearthed The Av Actress A New Generation Gachi Athlete Best Sweat Sex Special01
+thumb=http://javdon.com/wp-content/uploads/2017/01/8817-215x316.jpg
 date=2018-06-15
-URL=https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_256853328202213_3818138845682073600_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=3a3c34ab4154bfd4933a2dc334c42ef6&oe=5B64D842&itag=22
-                                    
+URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_200950043969109_3322495041288536064_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=2887ac1469768d6579c2c4857d57dbb7&oe=5B6CC8C4&itag=22
+
 type=video
-name=Bban-025 Lesbian Lingerie Model 8211 Woman Of Obstinacy Collideno Plot 123 Minutes Non-stop Lesbian Battle
-thumb=http://javdon.com/wp-content/uploads/2017/02/15852.jpg
+name=10Mu 122416-01 Tenmusu Santa Best Part 2
+thumb=http://javdon.com/wp-content/uploads/2016/12/9417-215x316.jpg
 date=2018-06-15
-URL=http://cdn.vodstream.xyz/s111/3678/003-hls/appid-15852/hls.m3u8?v=3
+URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_639558649711386_7846564164964188160_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=3135727c83581998ba8f152a16463c9a&oe=5B6CCA8B&itag=22
 
 type=video
 name=Bban-163 Lesbian Technique No1 Non-scripted Cum-off Battle Document Lesbian 2018 Super Lesbian Sex Orgy
@@ -78,7 +78,7 @@ type=video
 name=php
 thumb=
 date=2018-06-15
-URL=http://vodstream.xyz/fembed.php?id=mn4LNLn
+URL=http://javdon.com/download?id=6qJP987&href=720p
 
 
 

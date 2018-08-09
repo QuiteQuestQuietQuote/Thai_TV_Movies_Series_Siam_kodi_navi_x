@@ -74,9 +74,9 @@ URL=https://www.rapidvideo.com/e/FTYWT8PZK3
 
 type=video
 name=
-thumb=
+thumb=http://www.idxx1.com/wp-content/uploads/2018/08/Artificial-Intelligence-Sex-2018.jpg
 date=2018-08-06
-URL=
+URL=https://gounlimited.to/embed-alnk2x3k5ybi.html
 
 
 
@@ -271,114 +271,6 @@ URL=https://openload.co/f/ClcPNhbQGoE/The_Escape_2018_1080p_WEB-DL_DD5.1_H264-CM
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-type=video
-name=10x10 (2018) ENG 720p.WEB-DL.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3k5Qs53VlD9BuuijeSAsrj97PEy.jpg
-date=2018-03-21
-URL=https://openload.co/f/iQqZjyCB8og/10x10.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 type=video
 name=Cocaine Godmother: The Griselda Blanco Story (2018) ENG DVDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lk3npUUYxLJCyaSSQHqGlH64Qxk.jpg
@@ -391,72 +283,12 @@ URL=https://openload.co/f/6ueo04Petnc/Cocaine.Godmother.2018.DVDRip.XviD.AC3-EVO
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 type=video
 name=9/11 (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGkjEL7RkMogMI6aznsKmZOhd8I.jpg
 date=2018-01-31
 URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/WA9zqyMmKlA/9.11.2017.DVDRip.x264-PSYCHD.mkv.mp4
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1450,7 +1282,17 @@ URL=
 
 
 
-
+type=video
+name=Padmaavat (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRe1bvYOZ3qYlhgQzbBKLSKLRhX.jpg
+date=2018-08-09
+URL=https://uptobox.com/h97bvfpzzkia
+#https://www.rapidvideo.com/e/FU2R0F6MAC
+#https://openload.co/f/4h8V9m8oCQU/Padmaavat_%282018%291080p_BluRay_x264-Chakra_Ganool.mkv.mp4
+#https://openload.co/embed/SfWeNurg0OQ/GHPPADMAVAT80.Ganol.ru.mkv.mp4
+#https://www.blazefile.co/embed-ui66l9vcawts.html   720
+#https://uptobox.com/4ir0uich1pkd   720
+#https://openload.co/embed/jp-RWhr76ek/SHQPADMAVAATBD72.Ganool.im.mkv
 
 type=video
 name=Josie (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1458,6 +1300,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXwATbG3eJjkteGh1YaqV1PGeG
 date=2018-08-08
 URL=https://openload.co/f/boLfS0n6HaA/Josie.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/gLJYGWlRThc/Josie.2018.1080p.BluRay.x264.DTS-HD.MA.5.1-FGT.mkv.mp4
+#https://uptobox.com/v96d5b32g7x3   720
+#https://www.rapidvideo.com/e/FU3O16G1G3   720
+#https://openload.co/embed/oCJyNhCb44A/JOSIEBD72.Ganol.ru.mkv.mp4
 
 type=video
 name=The Tag-Along 2 (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
@@ -5540,13 +5385,7 @@ URL=https://www.blazefile.co/embed-68nphjy36cwm.html
 
 
 
-type=video
-name=Padmaavat (2018) [COLOR=FF00FF00]HIN BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRe1bvYOZ3qYlhgQzbBKLSKLRhX.jpg
-date=2018-06-26
-URL=https://www.blazefile.co/embed-ui66l9vcawts.html
-#https://uptobox.com/4ir0uich1pkd
-#https://openload.co/embed/jp-RWhr76ek/SHQPADMAVAATBD72.Ganool.im.mkv
+
 
 
 
@@ -5717,8 +5556,31 @@ URL=https://uptobox.com/qlzih851xsiq
 #https://www.rapidvideo.com/e/FU1G6M19R6
 #https://openload.co/embed/wSpTKMGeG00/NOGOODHEROESBD72.Ganol.ru.mkv.mp4
 
+type=video
+name=The Princess and the Matchmaker (2018) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov3MQvtvT1lIaRcuZldJz8NUw5K.jpg
+date=2018-08-09
+URL=https://uptobox.com/v55rczx0ivf6
+#https://www.rapidvideo.com/e/FU2PYXMQB5
 
+type=video
+name=The Leakers (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UCdpI5wU2bMtcx5Z2c4HmQNiP.jpg
+date=2018-08-09
+URL=https://uptobox.com/hz4v2q11puha
+#https://www.rapidvideo.com/e/FU2QAMDI28
+#https://openload.co/f/_5M7zNGfozk/The.Leakers.2018.BluRay.720p.800MB.Ganool.mkv.mp4
+#https://openload.co/embed/UeyMicBdqOc/The.Leakers.2018.BluRay.720p.800MB.Ganol.ru.mkv.mp4
 
+type=video
+name=10x10 (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3k5Qs53VlD9BuuijeSAsrj97PEy.jpg
+date=2018-08-09
+URL=https://uptobox.com/pa1xcza5122x
+#https://www.rapidvideo.com/e/FU3NKZYO4R
+#https://openload.co/f/sxHT22Q6zu0/10%C3%9710_%282018%29720p_BluRay_x264-PSYCHD_Ganool.mkv.mp4
+#https://openload.co/embed/r1bO94V-MgI/10X10BD72.Ganol.ru.mkv
+#https://openload.co/f/iQqZjyCB8og/10x10.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 
 
 
@@ -5736,7 +5598,19 @@ URL=https://uptobox.com/qlzih851xsiq
 type=video
 name=
 thumb=
-date=2018-08-07
+date=2018-08-09
+URL=
+
+type=video
+name=
+thumb=
+date=2018-08-09
+URL=
+
+type=video
+name=
+thumb=
+date=2018-08-09
 URL=http://203.162.235.41:17819
 
 
@@ -6063,11 +5937,33 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-08-08
+date=2018-08-09
 URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+type=video
+name=A Dog's Purpose (2017)  [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=http://image.tmdb.org/t/p/w500/vKSRUwwknhFzY1HRBr0iYc55pVu.jpg
+URL=https://openload.co/f/cSChmRlhgUo/A_Dogs_Purpose_%282017%29_%5B1080p%5D_%5BBluRay%5D_%5B1GB%5D.mp4
+type=video
+name=A Dog's Purpose (2017) THSUB 
+thumb=http://image.tmdb.org/t/p/w500/vKSRUwwknhFzY1HRBr0iYc55pVu.jpg
+URL=https://streamango.com/f/beaotsfkeactkllf/A_Dog_s_Purpose_2017_
+#https://openload.co/f/6gvseO84Iew/A_Dog%27s_Purpose_%282017%29_%E0%B8%AB%E0%B8%A1%E0%B8%B2_%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2_%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%A1.flv.mp4
+player=default
+rating=-1.00
+description=A dog goes on quest to discover his purpose in life over the course of several lifetimes with multiple owners./description
 
 
 type=video
@@ -7831,6 +7727,10 @@ name=Deadpool 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
 date=2018-08-08
 URL=https://openload.co/f/1jvjkDxniIw/Deadpool.2.2018.Super.Duper.Cut.UNRATED.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/KUYM9oxfeJw/Deadpool.2.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/0YLJFXCvP_s/Deadpool.2.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/yhtJxZtJRZc/Deadpool.2.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/fsRJttgE8tA/Deadpool.2.2018.Super.Duper.Cut.720p.BluRay.x264.DTS-HDC.mkv.mp4
 #https://openload.co/f/BHhE5nOiwes/Deadpool.2.2018.Super.Duper.Cut.720p.BluRay.x264.DTS-HDC.mkv.mp4
 #https://openload.co/f/crpuwHvJLug/Deadpool.2.2018.Super.Duper.Cut.720p.BluRay.x264.DTS-HDC.mkv   MKV7.8GB
 #https://openload.co/f/EiSd4cTgCy8/Deadpool.2.2018.Super.Duper.Cut.1080p.AMZN_CBR.WEB_DL.x264.MkvCage.ws.mp4
@@ -8493,7 +8393,7 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=
 thumb=
-date=2018-08-01
+date=2018-08-09
 URL=
 
 
@@ -8502,7 +8402,11 @@ URL=
 
 
 
-
+type=video
+name=The Hundred-Foot Journey (2014) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQWT270zHKC4xVs0ogUwrU8EwqB.jpg
+date=2018-08-09
+URL=https://openload.co/f/VI6tAWbwepI/The_Hundred-Foot_Journey_%282014%29%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95_%E0%B8%A5%E0%B8%B4%E0%B8%82%E0%B8%B4%E0%B8%95%E0%B8%9D%E0%B8%B1%E0%B8%99.mp4
 
 
 type=video
