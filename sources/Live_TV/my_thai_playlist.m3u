@@ -25,10 +25,6 @@ http://nationstream.nationgroup.com/hls/th_high.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL_720p
 http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-#EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png",now 26_php_adintrend
-https://www.adintrend.com/hd/live/i.php?ch=32&cxid=bjeNTc1YWQ3ZWQ0NTQ0YmYwM2E1NAMTY5MTI5MDhkYjFmMjU3&tmpx=180.183.47.222&ccc=TH&device=desktop&isp=3BB
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",NATION_php_adintrend
-https://www.adintrend.com/hd/live/i.php?ch=37&cxid=bjeM2IyM2QxNGJkOTZjOTIxY2UyNQNzA5MjQwYWMzNzZiZjNk&tmpx=180.183.47.222&ccc=TH&device=desktop&isp=3BB
 
 #EXTINF:-1 group-title="Free TV"tvg-logo="https://www.doohdbox.com/assets/20170710190257130955573.jpg",NATION CHANNEL_for-our
 http://main-a.for-our.info:8081/tv1/ch8.m3u8
@@ -2684,10 +2680,7 @@ http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/45.ts
 #EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/redlight.png" group-title="XXX Adultos", RedlightX (Wiseplay) 
 http://37.187.128.169:8000/live/88a3aola44lech33e12ho/NMar88o33b23g/49.ts 
 
-#EXTINF:-1,Hustler_TV 
-http://89.28.21.90/Hustler_TV/tracks-v1a1/index.m3u8?token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a 
-#EXTINF:-1,Dorcel HD 
-http://89.28.21.90/Dorcel_HD/tracks-v1a1/index.m3u8?token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a 
+
 #EXTINF:-1,nuart 
 http://srv1.telek.me:8080/2098/3714/2285ed5d17a9bebdf18c3164d876ba32787f8081 
 #EXTINF:-1,PinkO TV 
@@ -2785,18 +2778,22 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
 #EXTINF:-1,hustler HD
 http://85.132.71.6/ru/hust/index.m3u8
-#EXTINF:-1,Eroxx_nejtv
-http://81.200.50.4/hls/Eroxx_nejtv_portable_low.m3u8
 #EXTINF:-1,blue hustler
 http://85.132.71.6/ru/blue/index.m3u8
 #EXTINF:-1,Brazzers_TV_Europe
 http://193.93.236.121:9991/play/Brazzers_TV_Europe/index.m3u8
 #EXTINF:-1,Brazzers_TV_Europe_iptvspy
 http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/910/index.m3u8
+
+#EXTINF:-1,Eroxx_nejtv
+http://81.200.50.4/hls/Eroxx_nejtv_portable_low.m3u8
 #EXTINF:-1,visit-x
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1,HOT
-http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
+#EXTINF:-1,hustler TV
+http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
+#EXTINF:-1,DorcelHD
+http://185.10.211.14:54980/udp/DorcelHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+
 #EXTINF:-1,ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1,livesexlatinas_rtsp
@@ -2805,10 +2802,7 @@ rtsp://51.254.198.110:1935/leved/livesexlatinas
 http://59.124.220.46:554/live/tv184198481.stream/index.m3u8
 #EXTINF:-1,XXX_CHN
 http://59.124.220.46:554/live/tv284198321.stream/index.m3u8
-#EXTINF:-1,cr831-zcswdybsh-1.mp4_JAPxxx
-http://s.aoplayer.com/content/cr831-zcswdybsh-1.mp4/index.m3u8
-#EXTINF:-1,h264.mp4_JAPxxx
-http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/7/c/7c40f89f26fd650889465bfd08d9e7361486995613-1280-720-1526-h264.mp4/master.m3u8
+
 
 #EXTINF:-1,studio66tv_Channel 1
 http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel11/playlist.m3u8
@@ -2821,14 +2815,7 @@ http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 #EXTINF:-1,FRENCHLOVER
 http://213.59.136.48:9990/play/FRENCHLOVER/index.m3u8
 
-#EXTINF:-1,parent-code="7979,"X Desire" 
-http://5.135.92.130:58143/out/u/294_1.m3u8 
-#EXTINF:-1,parent-code="7979,"Xbizarre" 
-http://95.107.132.104/out/u/103_1.m3u8 
-#EXTINF:-1,parent-code="7979,"Bungd Bungd" 
-http://95.107.132.104/out/u/107_1.m3u8 
-#EXTINF:-1,unk 
-http://95.107.132.104/out/u/181_1.m3u8
+
 #EXTINF:-1,Pink
 http://85.132.71.6/ru/pink/index.m3u8
 

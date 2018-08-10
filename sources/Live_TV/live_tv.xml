@@ -27,9 +27,9 @@
 
 
 <item>
-<title>Sqte-186 I Love You And I39m More Excited Than Usual</title>
-<link>https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_225875504720578_1669009069861502976_n.mp4?_nc_cat=0&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&amp;oh=0e93762488fff161f79267830d91c57b&amp;oe=5B6CCB19&amp;itag=22</link>
-<thumbnail>http://javdon.com/wp-content/uploads/2017/10/27042.jpg</thumbnail>
+<title>Abp-143 Life39s First Deep-trance Alive Climax Sex Makoto Takeuchi</title>
+<link>https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_1796426157074855_2424932814425161728_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=4ea39603d40685f477b215b034246e40&oe=5B6E1CBB&itag=22</link>
+<thumbnail>http://javdon.com/wp-content/uploads/2017/01/11984.jpg</thumbnail>
 
 
 
@@ -189,11 +189,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
 <regex>
 <name>link</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
+def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]')]]></expres>
 <page></page>
 </regex> 
 </item>
@@ -226,23 +222,94 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://video.fhan5-1.fna.fbcdn.net
 <thumbnail>http://javdon.com/wp-content/uploads/2017/10/27042.jpg</thumbnail>
 <link>$doregex[link]</link>
 <regex>
-<name>code1</name>
+<name>link</name>
 <expres>360p</a><a href="(.*?)"</expres>
 <page>http://javdon.com/download/?id=Yn0BbLM</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
+</item>
+
+
+
+
+
+<item>
+<title>Bban-016 Lesbian Share House</title>
+<thumbnail>http://javdon.com/wp-content/uploads/2018/03/28744.jpg</thumbnail>
+<link>$doregex[link]</link>
 <regex>
 <name>link</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='[code1]'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-</regex> 
+<expres>360p</a><a href="(.*?)"</expres>
+<page>http://javdon.com/download?id=R7QlEkM</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
 </item>
+
+
+
+
+
+<item>
+<title>Caribpr 122316-003 Beaucoup Beach Fuck Special 3Hrs-14 Girls</title>
+<thumbnail>http://javdon.com/wp-content/uploads/2016/12/9425.jpg</thumbnail>
+<link>$doregex[link]</link>
+<regex>
+<name>link</name>
+<expres>360p</a><a href="(.*?)"</expres>
+<page>http://javdon.com/download?id=Zn1PJo7</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>Abp-143 Life39s First Deep-trance Alive Climax Sex Makoto Takeuchi</title>
+<thumbnail>http://javdon.com/wp-content/uploads/2017/01/11984.jpg</thumbnail>
+<link>$doregex[link]</link>
+<regex>
+<name>link</name>
+<expres>360p</a><a href="(.*?)"</expres>
+<page>http://javdon.com/download?id=en2dE1M</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

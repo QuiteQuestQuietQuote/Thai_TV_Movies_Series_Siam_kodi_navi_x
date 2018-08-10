@@ -61,7 +61,7 @@ URL=http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m
 type=video
 name=
 thumb=
-date=2018-07-05
+date=2018-08-10
 URL=
 
 type=video
@@ -85,6 +85,22 @@ URL=https://gounlimited.to/embed-alnk2x3k5ybi.html
 
 
 
+
+
+
+type=video
+name=The Meg (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
+date=2018-08-10
+URL=https://openload.co/f/YTAbhQ2056c/The_Meg_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/PVqdnXY_6PU/The_Meg_2018_720p_HDCAM-SeeHD.one.mp4
+
+type=video
+name=Hotel Artemis (2018) ENG 720p_HDCAM_X264-24HD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg
+date=2018-08-10
+URL=https://openload.co/f/Xks0l93TgZg/Hotel_Artemis_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
+#https://openload.co/f/ensVsB79Sz0/Hotel.Artemis.2018.720p.HDCAM.X264-24HD.mp4
 
 type=video
 name=Blindspotting (2018) ENG 720p.HDCAM.X264.24HD_SeeHD
@@ -1269,7 +1285,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-07
+date=2018-08-10
 URL=
 
 
@@ -1280,7 +1296,11 @@ URL=
 
 
 
-
+type=video
+name=Beyond the Clouds (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HvQ7UEngiSQ7Nxj1lH0HW8kOpj.jpg
+date=2018-08-10
+URL=https://openload.co/f/flqzDb_uhaQ/Beyond.The.Clouds.2017.1080p.10bit.BluRay.x265.HEVC.6CH-MRN.mkv.mp4
 
 type=video
 name=Padmaavat (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
@@ -5734,10 +5754,13 @@ URL=https://streamango.com/f/qnnbpkkrntfpplkn/Mission_Impossible_-_Fallout_2018_
 
 
 type=video
-name=Skyscraper (2018) ENG NEW_720p_FULL_HDCAM_X264_HQMic-24HD_SeeHD
+name=Skyscraper (2018) ENG 720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
 date=2018-07-14
-URL=https://openload.co/f/rEktzWFk-m4/Skyscraper_2018_NEW_720p_FULL_HDCAM_X264_HQMic-24HD_SeeHD.mkv.mp4
+URL=https://openload.co/f/1o7zJrDRq9A/Skyscaper.2018.720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
+#https://openload.co/f/rhK9dqpTTrg/Skyscraper.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/Yuc9h5YDNd4/Skyscraper.2018.720p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/rEktzWFk-m4/Skyscraper_2018_NEW_720p_FULL_HDCAM_X264_HQMic-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/gtJAVaxk6sw/Skyscraper.2018.New.720p.FULL.HDCAM.mkv.mp4
 #https://openload.co/f/mGZxI3viZJs/Skyscraper.2018.720p.HDCAM.NO.WATERMARK.mp4
 #https://openload.co/f/iPsXl_oVKik/Skyscraper_2018_720p_English_HDCAM_Rip_x264_MP3_850MB.E.mp4
@@ -7726,10 +7749,15 @@ type=video
 name=Deadpool 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
 date=2018-08-08
-URL=https://openload.co/f/1jvjkDxniIw/Deadpool.2.2018.Super.Duper.Cut.UNRATED.1080p.BluRay.H264.AAC-RARBG.mp4
+URL=https://uptobox.com/3thtn55dnrly
+#https://www.rapidvideo.com/e/FU4VG91VZ1
+#https://openload.co/embed/bzj9X3SPrl0/GHPDEADPOL80.Ganol.ru.mkv
+#https://openload.co/f/aK6Xy4Scrlk/Deadpool_2_%282018%29UNRATED_1080p_BluRay_x264-SPARKS_Ganool.mkv.mp4
+#https://openload.co/f/1jvjkDxniIw/Deadpool.2.2018.Super.Duper.Cut.UNRATED.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/KUYM9oxfeJw/Deadpool.2.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/0YLJFXCvP_s/Deadpool.2.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/yhtJxZtJRZc/Deadpool.2.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/QoR4Se2y5po/Deadpool.2.2018.UNRATED.720p.BluRay.x264-SPARKS.mkv.mp4
 #https://openload.co/f/fsRJttgE8tA/Deadpool.2.2018.Super.Duper.Cut.720p.BluRay.x264.DTS-HDC.mkv.mp4
 #https://openload.co/f/BHhE5nOiwes/Deadpool.2.2018.Super.Duper.Cut.720p.BluRay.x264.DTS-HDC.mkv.mp4
 #https://openload.co/f/crpuwHvJLug/Deadpool.2.2018.Super.Duper.Cut.720p.BluRay.x264.DTS-HDC.mkv   MKV7.8GB
