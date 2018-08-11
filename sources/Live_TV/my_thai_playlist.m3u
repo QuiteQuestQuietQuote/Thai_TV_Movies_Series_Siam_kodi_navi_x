@@ -2793,6 +2793,8 @@ http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
 #EXTINF:-1,DorcelHD
 http://185.10.211.14:54980/udp/DorcelHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,PassionXXX
+http://185.10.211.14:54980/udp/PassionXXX:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
 
 #EXTINF:-1,ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
@@ -2934,6 +2936,8 @@ http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/
 http://iss06.ott.net.tw:8086/live/coship_DCTV2291445940028640_1200.m3u8
 #EXTINF:-1,HRT1_PLTV
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-1,transtv
+http://185.21.216.166:8554/whale/transtv/playlist.m3u8
 
 #EXTINF:-1,KIX_TH
 http://210.210.155.35/uq2663/h/h07/index1.m3u8
@@ -3044,8 +3048,6 @@ http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/18.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8 
 #EXTINF:-1,cnex
 http://61.58.60.230:9000/live/257.m3u8
-#EXTINF:-1,TRUE EXPLORE LIFE
-http://main-a.for-our.info:8081/tv11/explorelife/chunks.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/il/180806015437.jpg",Thai CCTV
 http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_php
@@ -3071,8 +3073,6 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 http://mhms6.airtel.tv/wh7f454c46tw1157635511_2090870016/PLTV/88888888/224/3221226329/index.m3u8?icpid=88888888&RTS=1532455469&from=0&hms_devid=83,163
 
 
-#EXTINF:-1 group-title="news" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/748952-australia-Plus.png",australia-plus_php
-http://fpttv.tk/iptv/hplus.php?id=australia-plus
 
 #EXTINF:-1,MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-b.m3u8

@@ -289,10 +289,27 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://video.fhan5-1.fna.fbcdn.net
 
 
 
+<item>
+<title>Abp-154 The Best Sex Ayami Shunhate</title>
+<thumbnail>http://javdon.com/wp-content/uploads/2017/01/11988.jpg</thumbnail>
+<link>$doregex[link]</link>
+<regex>
+<name>link</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=R7QxW2M&ads=1&thumb=http://pics.dmm.co.jp/mono/movie/adult/118abp154/118abp154pl.jpg'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+</regex> 
+</item>
 
 
-
-
+<item>
+<title>Abp-154 The Best Sex Ayami Shunhate</title>
+<link>http://cdn.vodstream.xyz/s47/3674/006-hls/appid-11988/hls.m3u8?v=3</link>
+<thumbnail>http://javdon.com/wp-content/uploads/2017/01/11988.jpg</thumbnail>
 
 
 

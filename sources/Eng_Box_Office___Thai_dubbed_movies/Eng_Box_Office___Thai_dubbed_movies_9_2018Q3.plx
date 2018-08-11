@@ -74,9 +74,9 @@ URL=https://www.rapidvideo.com/e/FTYWT8PZK3
 
 type=video
 name=
-thumb=http://www.idxx1.com/wp-content/uploads/2018/08/Artificial-Intelligence-Sex-2018.jpg
-date=2018-08-06
-URL=https://gounlimited.to/embed-alnk2x3k5ybi.html
+thumb=
+date=2018-08-11
+URL=
 
 
 
@@ -86,7 +86,12 @@ URL=https://gounlimited.to/embed-alnk2x3k5ybi.html
 
 
 
-
+type=video
+name=The Spy Who Dumped Me (2018) ENG 720p.HDCAM.1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
+date=2018-08-11
+URL=https://openload.co/f/_UTH_XC0K4o/The.Spy.Who.Dumped.Me.2018.720p.HDCAM.1XBET_SeeHD.mp4
+#https://openload.co/f/wHv_A2QTR80/The.Spy.Who.Dumped.Me.2018.HDCAM.XviD-AV.2018.HDCAM.XviD-AVID.avi.mp4
 
 type=video
 name=The Meg (2018) ENG 720p_HDCAM-1XBET_SeeHD
@@ -209,20 +214,9 @@ URL=https://openload.co/f/Zyqdy1NgIPE/Superfly_2018_720p_NEW_HDCAM_X264-CPG_SeeH
 
 
 
-type=video
-name=Book Club (2018) ENG 720p.HDRip.X264.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ORGBbOA45pfKQXvntPf46NoFGO.jpg
-date=2018-08-04
-URL=https://openload.co/f/_WdqHaNYPms/Book.Club.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/imc3VA4vZkk/Book.Club.2018.720p.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/ew-qRUGNwNw/Book.Club.2018.720p.WEB-DL.X264.CAM.AUDIO.24HD_SeeHD.mp4
-#https://openload.co/f/x4D4ED3JoGc/Book.Club.2018.720p.HDCAM.ENG.X264-24HD_SeeHD.mp4
 
-type=video
-name=Tag (2018) ENG 720p_HD-TS_x264_HQ-24HD_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg
-date=2018-06-29
-URL=https://openload.co/f/A52Q2c9ui-4/TAG_2018_720p_HD-TS_x264_HQ-24HD_SeeHD.mkv.mp4
+
+
 
 
 
@@ -1285,16 +1279,37 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-10
+date=2018-08-11
 URL=
 
 
 
 
 
+type=video
+name=John From (2015) [COLOR=FF00FF00]POR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNeAPcIRdKeSqVHVB3naHtFZf0z.jpg
+date=2018-08-11
+URL=https://openload.co/f/UmBky27DhGo/john.from.2015.1080p.bluray.x264-ghouls.mkv.mp4
 
+type=video
+name=Book Club (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ORGBbOA45pfKQXvntPf46NoFGO.jpg
+date=2018-08-11
+URL=https://openload.co/f/Yr1yTc-jWnE/Book.Club.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/_WdqHaNYPms/Book.Club.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/imc3VA4vZkk/Book.Club.2018.720p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/ew-qRUGNwNw/Book.Club.2018.720p.WEB-DL.X264.CAM.AUDIO.24HD_SeeHD.mp4
+#https://openload.co/f/x4D4ED3JoGc/Book.Club.2018.720p.HDCAM.ENG.X264-24HD_SeeHD.mp4
 
-
+type=video
+name=Tag (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg
+date=2018-08-11
+URL=https://openload.co/f/iDj7iqqhKu0/Tag.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/JdoYJAyTUkE/Tag.2018.1080p.BluRay.x264-GECKOS.mp4
+#https://openload.co/f/Y9JCxwZjw9A/Tag.2018.1080p.BluRay_x264-GECKOS.mkv   MKV7.7GB
+#https://openload.co/f/A52Q2c9ui-4/TAG_2018_720p_HD-TS_x264_HQ-24HD_SeeHD.mkv.mp4
 
 type=video
 name=Beyond the Clouds (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
@@ -5602,11 +5617,24 @@ URL=https://uptobox.com/pa1xcza5122x
 #https://openload.co/embed/r1bO94V-MgI/10X10BD72.Ganol.ru.mkv
 #https://openload.co/f/iQqZjyCB8og/10x10.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 
+type=video
+name=Of Gods and Warriors (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mmvqMBEkiOQyF9nutmhTWoCqDC.jpg
+date=2018-08-11
+URL=https://openload.co/f/VPztFelStvc/Viking.Destiny.2018.720p.BR_SeeHD.mp4
+#https://openload.co/f/5KGVpzurFDE/Viking.Destiny.2018.720p.BluRay.x264-SPOOKS.mkv.mp4
 
+type=video
+name=Action Point (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lqJx0uNKrD1cEKgaqF1LBsLAoi.jpg
+date=2018-08-11
+URL=https://openload.co/f/UdI-KVWKIyA/Action_Point_2018_BluRay_720p_DTS_x264-MTeam%5BEtHD%5D.mkv.mp4
 
-
-
-
+type=video
+name=Shock and Awe (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdPQPRMIMp3Gcc83Dq1EjOgOgLT.jpg
+date=2018-08-11
+URL=https://openload.co/f/Bca2WtfQ8XE/Shock.and.Awe.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
 
 
@@ -5618,7 +5646,7 @@ URL=https://uptobox.com/pa1xcza5122x
 type=video
 name=
 thumb=
-date=2018-08-09
+date=2018-08-11
 URL=
 
 type=video
