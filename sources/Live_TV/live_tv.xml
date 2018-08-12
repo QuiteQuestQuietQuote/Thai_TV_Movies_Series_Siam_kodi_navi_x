@@ -243,7 +243,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://video.fhan5-1.fna.fbcdn.net
 <expres>360p</a><a href="(.*?)"</expres>
 <page>http://javdon.com/download?id=R7QlEkM</page>
 <referer></referer>
-<cookieJar></cookieJar>
 </regex>
 </item>
 
@@ -259,7 +258,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://video.fhan5-1.fna.fbcdn.net
 <name>link</name>
 <expres>360p</a><a href="(.*?)"</expres>
 <page>http://javdon.com/download?id=Zn1PJo7</page>
-<referer></referer>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -275,8 +273,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://video.fhan5-1.fna.fbcdn.net
 <name>link</name>
 <expres>360p</a><a href="(.*?)"</expres>
 <page>http://javdon.com/download?id=en2dE1M</page>
-<referer></referer>
-<cookieJar></cookieJar>
 </regex>
 </item>
 

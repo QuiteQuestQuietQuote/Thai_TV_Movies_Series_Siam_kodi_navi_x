@@ -60,9 +60,9 @@ URL=http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m
 
 type=video
 name=
-thumb=
+thumb=https://cdn.fmovies.io/cover/lu-over-the-wall.png
 date=2018-08-10
-URL=
+URL=https://vidcloud.icu/streaming.php?id=MTY5NDY5&title=Lu%20Over%20the%20Wall
 
 type=video
 name=
@@ -75,7 +75,7 @@ URL=https://www.rapidvideo.com/e/FTYWT8PZK3
 type=video
 name=
 thumb=
-date=2018-08-11
+date=2018-08-12
 URL=
 
 
@@ -84,7 +84,11 @@ URL=
 
 
 
-
+type=video
+name=Slender Man (2018) ENG 720p.HDCAM.1XBET
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg
+date=2018-08-12
+URL=https://openload.co/f/4i4Zo8czRuE/Slenderman.2018.720p.HDCAM.1XBET.mp4
 
 type=video
 name=The Spy Who Dumped Me (2018) ENG 720p.HDCAM.1XBET_SeeHD
@@ -1017,10 +1021,11 @@ URL=https://openload.co/f/rQWFrau4Bz8/Andys.Rainbow.2016.1080p.WEBRip.x264-iNTEN
 
 
 type=video
-name=Easy Living (2017) ENG HDRip.XviD.AC3-EVO
+name=Easy Living (2017) ENG 720p.AMZN.WEB-DL.DDP5.1.H.264-NTG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqfvqrNXfDAbuAjZBbQ9MFhtLOl.jpg
-date=2018-01-30
-URL=https://openload.co/f/A5x_vL8XSOc/Easy.Living.2017.HDRip.XviD.AC3-EVO.avi.mp4
+date=2018-08-12
+URL=https://openload.co/f/5dOogDQdAZw/Easy.Living.2017.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/A5x_vL8XSOc/Easy.Living.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/MeVz2LFyD8w/Easy.Living.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
@@ -1279,12 +1284,49 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-11
+date=2018-08-12
 URL=
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Paint It Red (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkHMLEFB3ecs3giMbT5h9tDMGhR.jpg
+date=2018-08-12
+URL=https://openload.co/f/vuMFCTTYAHk/Paint.It.Red.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Gatao 2: Rise of the King (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyAr9mLsohMW8V2yEkVIRThuH5e.jpg
+date=2018-08-12
+URL=https://openload.co/f/oceGf9CA1rk/Gatao.2.Rise.of.the.King.2018.CHINESE.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
+
+type=video
+name=Of Gods and Warriors (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mmvqMBEkiOQyF9nutmhTWoCqDC.jpg
+date=2018-08-12
+URL=https://openload.co/f/k68QkFueK2o/viking.destiny.2018.1080p.bluray.x264.HDMovie8.mkv.mp4
+#https://openload.co/f/VPztFelStvc/Viking.Destiny.2018.720p.BR_SeeHD.mp4
+#https://openload.co/f/5KGVpzurFDE/Viking.Destiny.2018.720p.BluRay.x264-SPOOKS.mkv.mp4
+
+type=video
+name=Action Point (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lqJx0uNKrD1cEKgaqF1LBsLAoi.jpg
+date=2018-08-12
+URL=https://openload.co/f/0MkeNe4o-mI/Action.Point.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/UdI-KVWKIyA/Action_Point_2018_BluRay_720p_DTS_x264-MTeam%5BEtHD%5D.mkv.mp4
 
 type=video
 name=John From (2015) [COLOR=FF00FF00]POR BR 1080p[/COLOR]
@@ -1295,8 +1337,10 @@ URL=https://openload.co/f/UmBky27DhGo/john.from.2015.1080p.bluray.x264-ghouls.mk
 type=video
 name=Book Club (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ORGBbOA45pfKQXvntPf46NoFGO.jpg
-date=2018-08-11
-URL=https://openload.co/f/Yr1yTc-jWnE/Book.Club.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-08-12
+URL=https://openload.co/f/e7pMa8kRrHU/book.club.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/Rkqb6kKv1KY/Book.Club.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Yr1yTc-jWnE/Book.Club.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/_WdqHaNYPms/Book.Club.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/imc3VA4vZkk/Book.Club.2018.720p.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/ew-qRUGNwNw/Book.Club.2018.720p.WEB-DL.X264.CAM.AUDIO.24HD_SeeHD.mp4
@@ -5617,18 +5661,9 @@ URL=https://uptobox.com/pa1xcza5122x
 #https://openload.co/embed/r1bO94V-MgI/10X10BD72.Ganol.ru.mkv
 #https://openload.co/f/iQqZjyCB8og/10x10.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 
-type=video
-name=Of Gods and Warriors (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mmvqMBEkiOQyF9nutmhTWoCqDC.jpg
-date=2018-08-11
-URL=https://openload.co/f/VPztFelStvc/Viking.Destiny.2018.720p.BR_SeeHD.mp4
-#https://openload.co/f/5KGVpzurFDE/Viking.Destiny.2018.720p.BluRay.x264-SPOOKS.mkv.mp4
 
-type=video
-name=Action Point (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lqJx0uNKrD1cEKgaqF1LBsLAoi.jpg
-date=2018-08-11
-URL=https://openload.co/f/UdI-KVWKIyA/Action_Point_2018_BluRay_720p_DTS_x264-MTeam%5BEtHD%5D.mkv.mp4
+
+
 
 type=video
 name=Shock and Awe (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -9213,7 +9248,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-07
+date=2018-08-12
 URL=
 
 
@@ -9227,11 +9262,23 @@ URL=
 
 
 
+type=video
+name=Monsters (2010) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfwDoVtWElt1ecLv9NrQryOn6Rl.jpg
+date=2018-08-12
+URL=https://openload.co/f/NSVLnv2XZS4/Monsters.2010.HD_1080p.mp4
 
+type=video
+name=The Theory of Everything (2014) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jspr8hLLuju59bCnMiefzRW4p0.jpg
+date=2018-08-12
+URL=https://openload.co/f/Oh-5-M4B3is/The_Theory_Of_Everything.2014.HD_720p.160519.mp4
 
-
-
-
+type=video
+name=Legend of the Millennium Dragon (2011) [COLOR=FF00FF00]JAP EngDub HD 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/80f68j4bNwlWN9kad2XtQyQGZoZ.jpg
+date=2018-08-12
+URL=https://openload.co/f/A92KbGw6lqw/Legend_of_the_Millennium_Dragon_%282011%29ENG.mp4
 
 type=video
 name=Deadpool (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
