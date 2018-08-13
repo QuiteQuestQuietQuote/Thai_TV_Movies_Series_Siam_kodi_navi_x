@@ -136,10 +136,11 @@ URL=https://openload.co/f/bTipjRNrvP8/Christopher_Robin_2018_720p_HDCAM-1xBET_Se
 #https://openload.co/f/2HPrMRw6_ng/Christopher.Robin.2018.HDCAM.XviD-AVID.avi.mp4
 
 type=video
-name=The Equalizer 2 (2018) ENG NEW_HD-TS_X264-24HD_SeeHD
+name=The Equalizer 2 (2018) ENG 720p_HD-TS_x264-24HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg
-date=2018-08-04
-URL=https://openload.co/f/YkZ8kURFtbQ/The_Equalizer_2_2018_NEW_HD-TS_X264-24HD_SeeHD.mkv.mp4
+date=2018-08-13
+URL=https://openload.co/f/pul-OiRrhII/Equalizer_2_2018_720p_HD-TS_x264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/YkZ8kURFtbQ/The_Equalizer_2_2018_NEW_HD-TS_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/kPk0y57HdkU/The.Equalizer.2.2018.NEW.HD-TS.X264-24HD.mkv.mp4
 #https://openload.co/f/Ij5fcwc8tEM/The_Equalizer_2_2018_NEW_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/cz3TOL1pxMU/The.Equalizer.2.2018.720p.HDCAM.1XBET%5BWATERMARKED%5D.mp4
@@ -1284,7 +1285,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-12
+date=2018-08-13
 URL=
 
 
@@ -1324,8 +1325,9 @@ URL=https://openload.co/f/k68QkFueK2o/viking.destiny.2018.1080p.bluray.x264.HDMo
 type=video
 name=Action Point (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lqJx0uNKrD1cEKgaqF1LBsLAoi.jpg
-date=2018-08-12
-URL=https://openload.co/f/0MkeNe4o-mI/Action.Point.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-08-13
+URL=https://openload.co/f/RC2PD7FgIIU/Action.Point.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/0MkeNe4o-mI/Action.Point.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/UdI-KVWKIyA/Action_Point_2018_BluRay_720p_DTS_x264-MTeam%5BEtHD%5D.mkv.mp4
 
 type=video
@@ -1800,23 +1802,7 @@ URL=https://openload.co/f/CyaZhAF_jRM/Super.Troopers.2.2018.1080p.BR_SeeHD.mp4
 #https://uptobox.com/gn3lz6ufr1yz   720
 #https://openload.co/embed/GtQ30Hyh50M/SUPERSTROPERSBD72.Ganol.ru.mkv.mp4
 
-type=video
-name=Isle of Dogs (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
-date=2018-07-19
-URL=https://uptobox.com/d84saqs2dey4
-#https://www.rapidvideo.com/e/FTE2RUVGY9
-#https://openload.co/embed/5ptVTzLwkA8/GHPISLED0GS80.Ganol.ru.mkv.mp4
-#https://openload.co/f/kHm7XocxNKc/Isle.of.Dogs.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/LKMfQnVeglo/Isle.of.Dogs.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/EocGxmZ-5po/Isle.of.Dogs.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://uptobox.com/noh8h7b3rod2   720
-#https://openload.co/embed/JOPiJYrRDqA/SHQISLEODOGSBD72.Ganol.ru.mkv.mp4
-#https://openload.co/f/rl-V0hLI0us/Isle_Of_Dogs_2018_1080p_WEB-DL_AAC_H264-CMRG.mkv.mp4
-#https://openload.co/f/GOhg7Xb9aEc/Isle.of.Dogs.2018.720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/ZbyRG1ryFsI/Isle.of.Dogs.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/vX1nEty5V8w/Isle_of_Dogs.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/1Vty-Ed3Gp0/Isle_of_Dogs_2018_720p_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
+
 
 type=video
 name=Delirium (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1983,20 +1969,7 @@ URL=https://www.blazefile.co/embed-t1rccdbbyo8s.html
 #https://uptobox.com/gylb91ydvxzd   720
 #https://openload.co/embed/SsfsjOA_MfY/THEBOSSUMRATEDBD72.Ganool.im.mkv
 
-type=video
-name=Blockers (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qKMYfiJTcUQbuBl82yxrmLSCX5.jpg
-date=2018-06-29
-URL=https://openload.co/f/YfSYAN18n3o/Blockers.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/G3XAIZwY-eY/Blockers.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/lCMHIXtBj68/Blockers.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/UulMW6Gpmsw/Blockers.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/_KdQ6h2tcuY/Blockers.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/ldRfsfT-Q7Q/Blockers_2018_720p_WEB-DL_X264_AC3-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/YVmsPcZ37Qc/Blockers.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
-#https://www.blazefile.co/embed-dx8mtrcd5tw5.html   720
-#https://uptobox.com/1g5o09u8u4yp   720
-#https://openload.co/embed/6vkK4MXViWs/SHQBL0CKERSBD72.Ganool.im.mkv.mp4
+
 
 type=video
 name=The Endless (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5816,22 +5789,7 @@ date=2018-07-31
 URL=https://streamango.com/f/qnnbpkkrntfpplkn/Mission_Impossible_-_Fallout_2018_
 
 
-type=video
-name=Skyscraper (2018) ENG 720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
-date=2018-07-14
-URL=https://openload.co/f/1o7zJrDRq9A/Skyscaper.2018.720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
-#https://openload.co/f/rhK9dqpTTrg/Skyscraper.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/Yuc9h5YDNd4/Skyscraper.2018.720p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4
-#https://openload.co/f/rEktzWFk-m4/Skyscraper_2018_NEW_720p_FULL_HDCAM_X264_HQMic-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/gtJAVaxk6sw/Skyscraper.2018.New.720p.FULL.HDCAM.mkv.mp4
-#https://openload.co/f/mGZxI3viZJs/Skyscraper.2018.720p.HDCAM.NO.WATERMARK.mp4
-#https://openload.co/f/iPsXl_oVKik/Skyscraper_2018_720p_English_HDCAM_Rip_x264_MP3_850MB.E.mp4
-type=video
-name=Skyscraper (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
-date=2018-07-21
-URL=https://streamango.com/f/aqqabkkkdlekfmrq/Skyscraper_2018_
+
 
 
 type=video
@@ -6023,7 +5981,7 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-08-09
+date=2018-08-13
 URL=
 
 
@@ -6031,11 +5989,62 @@ URL=
 
 
 
+type=video
+name=Blockers (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qKMYfiJTcUQbuBl82yxrmLSCX5.jpg
+date=2018-06-29
+URL=https://openload.co/f/YfSYAN18n3o/Blockers.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/G3XAIZwY-eY/Blockers.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/lCMHIXtBj68/Blockers.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/UulMW6Gpmsw/Blockers.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/_KdQ6h2tcuY/Blockers.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/ldRfsfT-Q7Q/Blockers_2018_720p_WEB-DL_X264_AC3-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/YVmsPcZ37Qc/Blockers.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
+#https://www.blazefile.co/embed-dx8mtrcd5tw5.html   720
+#https://uptobox.com/1g5o09u8u4yp   720
+#https://openload.co/embed/6vkK4MXViWs/SHQBL0CKERSBD72.Ganool.im.mkv.mp4
+type=video
+name=Blockers (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qKMYfiJTcUQbuBl82yxrmLSCX5.jpg
+date=2018-08-13
+URL=https://streamango.com/f/ccpmtaoborbmnlse/Blockers_2018_
 
 
+type=video
+name=The Package (2018) ENG 1080p.NF.WEB-DL.DDP5.1.x264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/70mP0nwUmtaL44Y8aoUn6uBjJON.jpg
+date=2018-08-13
+URL=https://openload.co/f/TB4Mwte6Qbw/The.Package.2018.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv.mp4
+#https://openload.co/f/JNUcSA0lGBA/The.Package.2018.720p.NF.WEB-DL.DDP5.1.x264-NTG_SeeHD.mkv.mp4
+type=video
+name=The Package (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/70mP0nwUmtaL44Y8aoUn6uBjJON.jpg
+date=2018-08-13
+URL=https://streamango.com/f/foadntbdmslbfdao/The_Package_2018_
 
 
+type=video
+name=Perdida (2018) ESP 1080p.NF.WEB-DL.DD5.1.x264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFT28QwIEfQNWFn5200ZNKrgJ9q.jpg
+date=2018-08-13
+URL=https://openload.co/f/zIscg9GgO8k/Perdida.2018.1080p.NF.WEB-DL.DD5.1.x264-CMRG.mkv.mp4
+type=video
+name=Perdida (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFT28QwIEfQNWFn5200ZNKrgJ9q.jpg
+date=2018-08-13
+URL=https://streamango.com/f/fotsqnrltaaneest/Perdida_2018_
 
+
+type=video
+name=The Guernsey Literary & Potato Peel Pie Society (2018) ENG 720p_WEB-DL_DD5_1_H264-CMRG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/55oz5d6NdH7ohbM1I1Euh1Tt6PN.jpg
+date=2018-08-13
+URL=https://openload.co/f/KIGr5RXMaUE/The_Guernsey_Literary_and_Potato_Peel_Pie_Society_2018_720p_WEB-DL_DD5_1_H264-CMRG_SeeHD.mkv.mp4
+type=video
+name=The Guernsey Literary & Potato Peel Pie Society (2018) THSUB 
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/55oz5d6NdH7ohbM1I1Euh1Tt6PN.jpg
+date=2018-08-13
+URL=https://streamango.com/f/cttqbtqlebkkrbrk/The_Guernsey_Literary_Potato_Peel_Pie_Society_2018_
 
 
 type=video
@@ -7782,6 +7791,25 @@ URL=
 
 
 type=video
+name=Skyscraper (2018) ENG 720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
+date=2018-07-14
+URL=https://openload.co/f/1o7zJrDRq9A/Skyscaper.2018.720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
+#https://openload.co/f/rhK9dqpTTrg/Skyscraper.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/Yuc9h5YDNd4/Skyscraper.2018.720p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/rEktzWFk-m4/Skyscraper_2018_NEW_720p_FULL_HDCAM_X264_HQMic-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/gtJAVaxk6sw/Skyscraper.2018.New.720p.FULL.HDCAM.mkv.mp4
+#https://openload.co/f/mGZxI3viZJs/Skyscraper.2018.720p.HDCAM.NO.WATERMARK.mp4
+#https://openload.co/f/iPsXl_oVKik/Skyscraper_2018_720p_English_HDCAM_Rip_x264_MP3_850MB.E.mp4
+type=video
+name=Skyscraper (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
+date=2018-08-13
+URL=https://streamango.com/f/oasonmnbklbmkpbr/Skyscraper_2018_
+#https://streamango.com/f/aqqabkkkdlekfmrq/Skyscraper_2018_
+
+
+type=video
 name=Taxi 5 (2018)  [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg
 date=2018-08-07
@@ -7846,8 +7874,9 @@ URL=https://uptobox.com/3thtn55dnrly
 type=video
 name=Deadpool 2 (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
-date=2018-07-31
-URL=https://streamango.com/f/ndttdobqnfqqtpmp/Deadpool_2_2018_2_
+date=2018-08-13
+URL=https://streamango.com/f/bqsddmeerkkboers/Deadpool_2_2018_2_
+#https://streamango.com/f/ndttdobqnfqqtpmp/Deadpool_2_2018_2_
 #https://streamango.com/f/oesosocnaeooaame/Deadpool_2_2018_2_
 
 
@@ -8484,13 +8513,53 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=
 thumb=
-date=2018-08-09
+date=2018-08-13
 URL=
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Doraemon the Movie: Nobita and the Birth of Japan (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kem2VJomPJwmJzLEeOQcDccHesQ.jpg
+date=2018-08-13
+URL=https://openload.co/f/QalerbaJzCE/Doraemon_the_Movie%3A_Nobita_and_the_Birth_of_Japan_%282016%29%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%99_%E0%B8%95%E0%B8%AD%E0%B8%99_%E0%B9%82%E0%B8%99%E0%B8%9A%E0%B8%B4%E0%B8%95%E0%B8%B0%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99.mp4
+
+
+type=video
+name=Isle of Dogs (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
+date=2018-07-19
+URL=https://uptobox.com/d84saqs2dey4
+#https://www.rapidvideo.com/e/FTE2RUVGY9
+#https://openload.co/embed/5ptVTzLwkA8/GHPISLED0GS80.Ganol.ru.mkv.mp4
+#https://openload.co/f/kHm7XocxNKc/Isle.of.Dogs.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/LKMfQnVeglo/Isle.of.Dogs.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/EocGxmZ-5po/Isle.of.Dogs.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/noh8h7b3rod2   720
+#https://openload.co/embed/JOPiJYrRDqA/SHQISLEODOGSBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/rl-V0hLI0us/Isle_Of_Dogs_2018_1080p_WEB-DL_AAC_H264-CMRG.mkv.mp4
+#https://openload.co/f/GOhg7Xb9aEc/Isle.of.Dogs.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/ZbyRG1ryFsI/Isle.of.Dogs.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/vX1nEty5V8w/Isle_of_Dogs.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/1Vty-Ed3Gp0/Isle_of_Dogs_2018_720p_HDCAM_X264_HQMic-SugarTits_SeeHD.mkv.mp4
+type=video
+name=Isle of Dogs (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
+date=2018-08-13
+URL=https://openload.co/f/lc2zDLM81EE/Isle_of_Dogs_%282018%29%E0%B9%84%E0%B8%AD%E0%B8%A5%E0%B8%A2%E0%B9%8C_%E0%B8%AD%E0%B8%AD%E0%B8%9F_%E0%B8%94%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B9%8C_%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%95%E0%B8%8B%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%AB%E0%B8%A1%E0%B8%B2.mp4
 
 
 type=video

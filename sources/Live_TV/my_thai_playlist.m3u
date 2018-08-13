@@ -2769,8 +2769,8 @@ http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/866/inde
 
 
 
-
-
+#EXTINF:-1,miamitv
+http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1,miamitv
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1,hustler
@@ -3045,10 +3045,6 @@ http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/18.m3u8
 
 #EXTINF:-1,Fish Channel 
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8 
-#EXTINF:-1,cnex
-http://61.58.60.230:9000/live/257.m3u8
-#EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
-http://sbobetlive.ddns.net:443/free54/0x222_monoplus_720p/playlist.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/il/180806015437.jpg",Thai CCTV
 http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_php
@@ -3063,6 +3059,16 @@ http://fpttv.tk/iptv/hplus.php?id=bbc-ls
 http://fpttv.tk/iptv/mytvnet.php?id=afc
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE_php
 http://fpttv.tk/iptv/mytvnet.php?id=ngphd
+#EXTINF:-1,cnex
+http://61.58.60.230:9000/live/257.m3u8
+#EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
+http://sbobetlive.ddns.net:443/free54/0x222_monoplus_720p/playlist.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="http://image.free.in.th/v/2013/id/180629082925.png",true LIFE
+http://main-a.for-our.info:8081/tv11/explorelife/chunks.m3u8
+#EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_for-our
+http://main-a.for-our.info:8081/tv11/natgeo/playlist.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE_bear-tv
+http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_TTVHD
 http://www.ssh101.com/m3u8/dyn/TTVHD/index.m3u8
 

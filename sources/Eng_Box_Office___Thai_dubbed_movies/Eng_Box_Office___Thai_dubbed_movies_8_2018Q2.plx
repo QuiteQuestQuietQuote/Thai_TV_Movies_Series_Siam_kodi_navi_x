@@ -141,12 +141,19 @@ date=2018-06-13
 URL=https://openload.co/f/01wXkSOSEno/The_Last_Recipe_%282017%29%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%9F.mp4
 #https://openload.co/f/dkzI5A9YecY/The_Last_Recipe_%282017%29%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%9F.mp4
 
+
+type=video
+name=My Teacher (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqpRNStGdG4t3EfKX0IWwbzjqz9.jpg
+date=2018-08-13
+URL=https://openload.co/f/BZqOIV2_HhI/my.teacher.2017.1080p.bluray.x264-regret.mkv.mp4
 type=video
 name=My Teacher (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqpRNStGdG4t3EfKX0IWwbzjqz9.jpg
 date=2018-06-13
 URL=https://openload.co/f/CA8WTxyV9t8/My_Teacher_%282017%29%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%89%E0%B8%B1%E0%B8%99_%E0%B9%81%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B9%8C.mp4
 #https://openload.co/f/-FyfewPvl6w/My_Teacher_%282017%29%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%89%E0%B8%B1%E0%B8%99_%E0%B9%81%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B9%8C.mp4
+
 
 type=video
 name=Asura Girl -Blood-C Side Story (2017) TH
