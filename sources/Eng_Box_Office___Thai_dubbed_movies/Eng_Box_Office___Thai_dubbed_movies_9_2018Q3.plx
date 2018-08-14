@@ -98,10 +98,11 @@ URL=https://openload.co/f/_UTH_XC0K4o/The.Spy.Who.Dumped.Me.2018.720p.HDCAM.1XBE
 #https://openload.co/f/wHv_A2QTR80/The.Spy.Who.Dumped.Me.2018.HDCAM.XviD-AV.2018.HDCAM.XviD-AVID.avi.mp4
 
 type=video
-name=The Meg (2018) ENG 720p_HDCAM-1XBET_SeeHD
+name=The Meg (2018) ENG TC720P.X264.AAC.English.CHS_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
-date=2018-08-10
-URL=https://openload.co/f/YTAbhQ2056c/The_Meg_2018_720p_HDCAM-1XBET_SeeHD.mp4
+date=2018-08-14
+URL=https://openload.co/f/2r45hsli8SE/The%2CMeg.2018.TC720P.X264.AAC.English.CHS_SeeHD.mp4
+#https://openload.co/f/YTAbhQ2056c/The_Meg_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/PVqdnXY_6PU/The_Meg_2018_720p_HDCAM-SeeHD.one.mp4
 
 type=video
@@ -147,10 +148,12 @@ URL=https://openload.co/f/pul-OiRrhII/Equalizer_2_2018_720p_HD-TS_x264-24HD_SeeH
 #https://openload.co/f/nZLFCvX2zWM/The_Equalizer_2_2018_720p_low_CAMRip_X264_AC3_BlckNips.E.mp4
 
 type=video
-name=Adrift (2018) ENG 720p.HDCAM.1XBET
+name=Adrift (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gLDeADaETvwQlQow5szlyuhLbj.jpg
-date=2018-07-23
-URL=https://openload.co/f/4x6JpEt4FZA/Adrift.2018.720p.HDCAM.1XBETmp4
+date=2018-08-14
+URL=https://openload.co/f/V6SpeUeBgIY/Adrift.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/crK40YfKElQ/Adrift.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/4x6JpEt4FZA/Adrift.2018.720p.HDCAM.1XBETmp4
 
 type=video
 name=Uncle Drew (2018) ENG CAM-MaTinE
@@ -181,10 +184,12 @@ URL=https://openload.co/f/u2JQ5amQDaU/Hotel.Transylvania.3.Summer.Vacation.2018.
 #https://openload.co/f/hSaXRiGF8S4/Hotel_Transylvania_3_Summer_Vacation_2018_New_720p_HDCAM-X264-AC3.mkv.mp4
 
 type=video
-name=Upgrade (2018) ENG NEW_720p_HDCAM_X264-SugarTiTs_SeeHD
+name=Upgrade (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqistSlQGQVlvDZHweDP3qCplMP.jpg
-date=2018-07-30
-URL=https://openload.co/f/HAuj73DaREo/Upgrade_2018_NEW_720p_HDCAM_X264-SugarTiTs_SeeHD.mkv.mp4
+date=2018-08-14
+URL=https://openload.co/f/QLWQqRpYVbY/Upgrade.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/6P5qPmpNAYo/Upgrade.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.MKV.mp4
+#https://openload.co/f/HAuj73DaREo/Upgrade_2018_NEW_720p_HDCAM_X264-SugarTiTs_SeeHD.mkv.mp4
 #https://openload.co/f/E6uTmxDQ3PY/Upgrade.2018.720p.TS.1XBET.mp4
 #https://openload.co/f/I8aHEdf6qPY/Upgrade.2018.720p.TS.1XBET.mp4
 #https://openload.co/f/dPSouJiBEWA/Upgrade.2018.HDTS.XviD-AVID.avi.mp4
@@ -1241,11 +1246,7 @@ date=2018-02-06
 URL=https://openload.co/f/wy2qGsU37Rc/racer.and.the.jailbird.2017.bdrip.x264-sabena.mkv.mp4
 #https://openload.co/f/UXz9ne-N9z0/racer.and.the.jailbird.2017.bdrip.x264-sabena.mkv.mp4
 
-type=video
-name=On Body and Soul (2017) HUN 1080p.WEB-DL.HC.x264.AC3.HORiZON-ArtSubs
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uguWEoZelSSckxgiQctlkZ6gpfU.jpg
-date=2018-02-01
-URL=https://openload.co/f/B9CVgtZLccM/On.Body.and.Soul.2017.1080p.WEB-DL.HC.x264.AC3.HORiZON-ArtSubs.mkv.mp4
+
 
 type=video
 name=Arrhythmia (2017) RUS EngSub.WEB-DL
@@ -1285,7 +1286,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-13
+date=2018-08-14
 URL=
 
 
@@ -1294,13 +1295,30 @@ URL=
 
 
 
+type=video
+name=On Body and Soul (2017) [COLOR=FF00FF00]HUN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uguWEoZelSSckxgiQctlkZ6gpfU.jpg
+date=2018-08-14
+URL=https://openload.co/f/iZm9PT80MB4/On_Body_And_Soul_%282017%29_%5B1080p%5D_BluRay_x264-%5BYTS_AM%5D_mp4
+#https://openload.co/f/B9CVgtZLccM/On.Body.and.Soul.2017.1080p.WEB-DL.HC.x264.AC3.HORiZON-ArtSubs.mkv.mp4
 
+type=video
+name=Court (2015) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYf9u5aaKcZ6FwZq2tAubvPH2PV.jpg
+date=2018-08-14
+URL=https://openload.co/f/GwegOM8XHM4/Court.2014.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
+type=video
+name=Heavy Trip (2018) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qfAZ7pn3FoEjkbWBXwZHuFb6VL.jpg
+date=2018-08-14
+URL=https://openload.co/f/RBVCqYGimD0/Heavy_Trip_2018_1080p_BluRay_x264_FiCO.mkv.mp4
 
-
-
-
-
+type=video
+name=The Unity of Heroes (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/15lynat4SPCmMnfXdFiEpS1syl2.jpg
+date=2018-08-14
+URL=https://openload.co/f/qmWAVlRZMEs/The.Unity.Of.Heroes.2018.BluRay.1080p.Dolby.TrueHD5.1.2Audio.x264-CHD.mkv.mp4
 
 type=video
 name=Paint It Red (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1356,6 +1374,9 @@ URL=https://openload.co/f/iDj7iqqhKu0/Tag.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/JdoYJAyTUkE/Tag.2018.1080p.BluRay.x264-GECKOS.mp4
 #https://openload.co/f/Y9JCxwZjw9A/Tag.2018.1080p.BluRay_x264-GECKOS.mkv   MKV7.7GB
 #https://openload.co/f/A52Q2c9ui-4/TAG_2018_720p_HD-TS_x264_HQ-24HD_SeeHD.mkv.mp4
+#https://uptobox.com/3cd2hbfhvkp3   720
+#https://www.rapidvideo.com/e/FU9AWPNELP   720
+#https://openload.co/embed/dX8adjYGus8/SHQTAGBD72.Ganol.ru.mkv.mp4
 
 type=video
 name=Beyond the Clouds (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
@@ -5636,13 +5657,32 @@ URL=https://uptobox.com/pa1xcza5122x
 
 
 
-
-
 type=video
 name=Shock and Awe (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdPQPRMIMp3Gcc83Dq1EjOgOgLT.jpg
 date=2018-08-11
 URL=https://openload.co/f/Bca2WtfQ8XE/Shock.and.Awe.2017.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=First Reformed (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2UylV0hPefEuWPFMo1r56vu2nb.jpg
+date=2018-08-14
+URL=https://openload.co/f/SJDacDpM7k8/First.Reformed.2017.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Time Trap (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e60WvvJzHwWCvnAylP307Q1jMHw.jpg
+date=2018-08-14
+URL=https://openload.co/f/4FR6OWQnRqg/Time.Trap.2017.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Marrowbone (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykn2GWDINcbunWPoNVRQtMaybo7.jpg
+date=2018-08-14
+URL=https://uptobox.com/xe5twktxqagc
+#https://www.rapidvideo.com/e/FU9AXJ15MM
+#https://openload.co/embed/N1-8IOjK9uw/SHQMARROWBONEBD72.Ganol.ru.mkv
+#https://openload.co/f/L5MKEyY9or4/The_Secret_of_Marrowbone_%282017%29720p_BluRay_X264-AMIABLE_Ganool.mkv.mp4
 
 
 
@@ -5654,7 +5694,7 @@ URL=https://openload.co/f/Bca2WtfQ8XE/Shock.and.Awe.2017.720p.BluRay.H264.AAC-RA
 type=video
 name=
 thumb=
-date=2018-08-11
+date=2018-08-14
 URL=
 
 type=video
@@ -5774,10 +5814,12 @@ URL=https://streamango.com/f/kkafqdmfscfdklql/Animal_World_2018_
 
 
 type=video
-name=Mission: Impossible - Fallout (2018) ENG CAM.XViD-T3RR0RSQU4D
+name=Mission: Impossible - Fallout (2018) ENG NEW_V.3_720p_HDCAM_X264_AC3-UN1QUE_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
-date=2018-08-06
-URL=https://openload.co/f/mRAxBM1R1VE/Mission_Impossible_Fallout.2018.CAM.XViD-T3RR0RSQU4D.avi.mp4
+date=2018-08-14
+URL=https://openload.co/f/f4yWmbzdT9M/Mission_Impossible_Fallout_2018_NEW_V.3_720p_HDCAM_X264_AC3-UN1QUE_SeeHD.mkv.mp4
+#https://openload.co/f/7D3PDogUtrM/Mission_Impossible_Fallout_2018_NEW_720p_HDCAM-24HD.mkv.mp4
+#https://openload.co/f/mRAxBM1R1VE/Mission_Impossible_Fallout.2018.CAM.XViD-T3RR0RSQU4D.avi.mp4
 #https://openload.co/f/lbnxpJ8IU7A/Mission.Impossible.Fallout.2018.720p.HDCAM.V2.1XBET_SeeHD.mp4
 #https://openload.co/f/jRzDGi0XWFg/Mission.Impossible.Fallout.2018.New.FULL.HDCAM-X264-AC3-Bobi.mkv.mp4
 #https://openload.co/f/1_OWrlgCXdI/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3-1XB3T_SeeHD.mp4
@@ -6036,10 +6078,13 @@ URL=https://streamango.com/f/fotsqnrltaaneest/Perdida_2018_
 
 
 type=video
-name=The Guernsey Literary & Potato Peel Pie Society (2018) ENG 720p_WEB-DL_DD5_1_H264-CMRG_SeeHD
+name=The Guernsey Literary & Potato Peel Pie Society (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/55oz5d6NdH7ohbM1I1Euh1Tt6PN.jpg
-date=2018-08-13
-URL=https://openload.co/f/KIGr5RXMaUE/The_Guernsey_Literary_and_Potato_Peel_Pie_Society_2018_720p_WEB-DL_DD5_1_H264-CMRG_SeeHD.mkv.mp4
+date=2018-08-14
+URL=https://openload.co/f/pHiZRCnWrtA/The.Guernsey.Literary.and.Potato.Peel.Pie.Society.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/xWr2H9Qph2c/The.Guernsey.Literary.and.Potato.Peel.Pie.Society.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/-09g807URoE/The.Guernsey.Literary.and.Potato.Peel.Pie.Society.2018.720p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/KIGr5RXMaUE/The_Guernsey_Literary_and_Potato_Peel_Pie_Society_2018_720p_WEB-DL_DD5_1_H264-CMRG_SeeHD.mkv.mp4
 type=video
 name=The Guernsey Literary & Potato Peel Pie Society (2018) THSUB 
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/55oz5d6NdH7ohbM1I1Euh1Tt6PN.jpg
@@ -6048,7 +6093,7 @@ URL=https://streamango.com/f/cttqbtqlebkkrbrk/The_Guernsey_Literary_Potato_Peel_
 
 
 type=video
-name=A Dog's Purpose (2017)  [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=A Dog's Purpose (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/vKSRUwwknhFzY1HRBr0iYc55pVu.jpg
 URL=https://openload.co/f/cSChmRlhgUo/A_Dogs_Purpose_%282017%29_%5B1080p%5D_%5BBluRay%5D_%5B1GB%5D.mp4
 type=video
