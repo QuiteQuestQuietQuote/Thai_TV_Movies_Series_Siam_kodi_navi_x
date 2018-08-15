@@ -101,6 +101,15 @@ thumb=
 date=2017-10-30
 URL=
 
+
+
+
+type=video
+name=Erotic Ghost Story III (1992)
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAnK8YInicn0CgbvtYkJPVq5uma.jpg
+date=2018-08-15
+URL=https://openload.co/f/-MEt-LaIz5o/Erotic_Ghost_Story_III.1992.SUB.WEB-DL.x264.mp4
+
 type=video
 name=Russian Lolita (2007)
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXQa4fpOj8ab79ByTd4sGAqz36o.jpg

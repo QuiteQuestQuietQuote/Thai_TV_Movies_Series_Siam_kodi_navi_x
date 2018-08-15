@@ -3029,6 +3029,8 @@ http://145.129.238.137:7000/play/a00l
 #EXTINF:-1,Food Network_RU
 http://ott-cdn.ucom.am/s18/04.m3u8 
 
+#EXTINF:-1,mancaveiptv
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/2740.ts
 #EXTINF:-1,FANTASY TV 
 http://188.138.125.41/hls/FantasY55/index.m3u8 
 

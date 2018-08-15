@@ -38,26 +38,26 @@ URL=
 
 type=video
 name=
-thumb=http://javdon.com/wp-content/uploads/2017/03/11838.jpg
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_1611804878923575_5268235506935660544_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=6e7475de9c7ef4fc90407d24b869af34&oe=5B70D36D&itag=22
+thumb=http://javdon.com/wp-content/uploads/2016/10/6677.jpg
+URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_929297000573688_8621292006494175232_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=c8f3193207751bbb459d6b9b05e1356e&oe=5B74A4FB&itag=22
 
 type=video
 name=
-thumb=http://javdon.com/wp-content/uploads/2017/01/11710.jpg
+thumb=http://javdon.com/wp-content/uploads/2017/12/28215.jpg
 date=2018-06-15
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_169962200333679_6645351375226011648_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=9f6e3ce7d16e1f0ee9df82cd4c8ba08a&oe=5B70D6DF&itag=22
+URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_191711338183537_7318699202383446016_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=90247298be7ab6b16915ef12223c18ee&oe=5B74B7D7&itag=22
 
 type=video
 name=
-thumb=http://javdon.com/wp-content/uploads/2018/03/28744.jpg
+thumb=http://javdon.com/wp-content/uploads/2017/03/20096.jpg
 date=2018-06-15
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_2060072487354969_8324164184682004480_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=a1de370922bc39ebad83345c82cb05a9&oe=5B70CB5C&itag=22
+URL=http://cdn.vodstream.xyz/s48/3678/008-hls/appid-20096/hls_720_.m3u8?v=3
 
 type=video
 name=
-thumb=http://javdon.com/wp-content/uploads/2017/01/11991.jpg
+thumb=http://javdon.com/wp-content/uploads/2017/02/14711.jpg
 date=2018-06-15
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_1596161180483165_3983490370703982592_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=bf29980cd66b557e149ad026dc9ceca9&oe=5B70C14B&itag=22
+URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_242161523244806_8154354754189787136_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=28c5acad21c9edbd37e15f7fe10bd466&oe=5B74C806&itag=22
 
 type=video
 name=

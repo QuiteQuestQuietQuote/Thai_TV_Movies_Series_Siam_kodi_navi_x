@@ -23,6 +23,7 @@ rating=-1.00
 
 
 
+
 type=video
 name=
 thumb=https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png
@@ -90,27 +91,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/huSncs4RyvQDBmHjBBYHSBYJbS
 date=2018-08-12
 URL=https://openload.co/f/4i4Zo8czRuE/Slenderman.2018.720p.HDCAM.1XBET.mp4
 
-type=video
-name=The Spy Who Dumped Me (2018) ENG 720p.HDCAM.1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
-date=2018-08-11
-URL=https://openload.co/f/_UTH_XC0K4o/The.Spy.Who.Dumped.Me.2018.720p.HDCAM.1XBET_SeeHD.mp4
-#https://openload.co/f/wHv_A2QTR80/The.Spy.Who.Dumped.Me.2018.HDCAM.XviD-AV.2018.HDCAM.XviD-AVID.avi.mp4
 
-type=video
-name=The Meg (2018) ENG TC720P.X264.AAC.English.CHS_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
-date=2018-08-14
-URL=https://openload.co/f/2r45hsli8SE/The%2CMeg.2018.TC720P.X264.AAC.English.CHS_SeeHD.mp4
-#https://openload.co/f/YTAbhQ2056c/The_Meg_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/PVqdnXY_6PU/The_Meg_2018_720p_HDCAM-SeeHD.one.mp4
-
-type=video
-name=Hotel Artemis (2018) ENG 720p_HDCAM_X264-24HD_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg
-date=2018-08-10
-URL=https://openload.co/f/Xks0l93TgZg/Hotel_Artemis_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
-#https://openload.co/f/ensVsB79Sz0/Hotel.Artemis.2018.720p.HDCAM.X264-24HD.mp4
 
 type=video
 name=Blindspotting (2018) ENG 720p.HDCAM.X264.24HD_SeeHD
@@ -1347,6 +1328,9 @@ date=2018-08-13
 URL=https://openload.co/f/RC2PD7FgIIU/Action.Point.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/0MkeNe4o-mI/Action.Point.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/UdI-KVWKIyA/Action_Point_2018_BluRay_720p_DTS_x264-MTeam%5BEtHD%5D.mkv.mp4
+#https://uptobox.com/38jcxf8n312w   720
+#https://www.rapidvideo.com/e/FUAT7WU6U5   720
+#https://openload.co/embed/KOvpJ2b9SYc/ACTIONPOINTBD72.Gano.ru.mkv.mp4
 
 type=video
 name=John From (2015) [COLOR=FF00FF00]POR BR 1080p[/COLOR]
@@ -1365,6 +1349,9 @@ URL=https://openload.co/f/e7pMa8kRrHU/book.club.2018.1080p.bluray.dd5.1.hevc.x26
 #https://openload.co/f/imc3VA4vZkk/Book.Club.2018.720p.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/ew-qRUGNwNw/Book.Club.2018.720p.WEB-DL.X264.CAM.AUDIO.24HD_SeeHD.mp4
 #https://openload.co/f/x4D4ED3JoGc/Book.Club.2018.720p.HDCAM.ENG.X264-24HD_SeeHD.mp4
+#https://uptobox.com/fd8qvu9p089b   720
+#https://www.rapidvideo.com/e/FUAT32FWBC   720
+#https://openload.co/embed/Azb8BZ_SqDA/SHQBOOKCLUBBD72.Ganol.ru.mkv.mp4
 
 type=video
 name=Tag (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2737,17 +2724,7 @@ URL=https://openload.co/f/rxMTb8Px6UQ/The.Monster.Project.2017.1080p.BR_SeeHD.mp
 #https://www.blazefile.co/embed-szx5w7zzgzpx.html   720
 #https://uptobox.com/d67tj1oqfxyo   720
 
-type=video
-name=Backstabbing for Beginners (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvUX96OVgTsfgXF3xKgDdDQbGau.jpg
-date=2018-04-21
-URL=https://www.blazefile.co/embed-p7xl3vc04a6j.html
-#https://uptobox.com/4ib34gskhijy
-#https://openload.co/f/U1g5EQJlCa0/Backstabbing.for.Beginners.2018.1080p.Br_SeeHD.mp4
-#https://openload.co/f/G3OtZIXvfPs/Backstabbing.for.Beginners.2018.1080p.Br_SeeHD.mp4
-#https://openload.co/f/Gt0kEs20w6M/Backstabbing.For.Beginners.2018.720p.BluRay.x264-CONDITION.mkv.mp4
-#https://openload.co/f/2W9d5Z4h9Mc/Backstabbing.for.Beginners.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/1HTb53mmxPw/Backstabbing.for.Beginners.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
+
 
 type=video
 name=The Debt Collector (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5784,7 +5761,42 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+type=video
+name=The Spy Who Dumped Me (2018) ENG 720p.HDCAM.1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
+date=2018-08-11
+URL=https://openload.co/f/_UTH_XC0K4o/The.Spy.Who.Dumped.Me.2018.720p.HDCAM.1XBET_SeeHD.mp4
+#https://openload.co/f/wHv_A2QTR80/The.Spy.Who.Dumped.Me.2018.HDCAM.XviD-AV.2018.HDCAM.XviD-AVID.avi.mp4
+type=video
+name=The Spy Who Dumped Me (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
+date=2018-08-15
+URL=https://streamango.com/f/dcrafonlelcdrtlo/The_Spy_Who_Dumped_Me_2018_
 
+type=video
+name=The Meg (2018) ENG TC720P.X264.AAC.English.CHS_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
+date=2018-08-14
+URL=https://openload.co/f/2r45hsli8SE/The%2CMeg.2018.TC720P.X264.AAC.English.CHS_SeeHD.mp4
+#https://openload.co/f/YTAbhQ2056c/The_Meg_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/PVqdnXY_6PU/The_Meg_2018_720p_HDCAM-SeeHD.one.mp4
+type=video
+name=The Meg (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
+date=2018-08-15
+URL=https://streamango.com/f/rclrdecrqftelefb/The_Meg_2018_
+
+type=video
+name=Hotel Artemis (2018) ENG 720p_HDCAM_X264-24HD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg
+date=2018-08-10
+URL=https://openload.co/f/Xks0l93TgZg/Hotel_Artemis_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
+#https://openload.co/f/ensVsB79Sz0/Hotel.Artemis.2018.720p.HDCAM.X264-24HD.mp4
+type=video
+name=Hotel Artemis (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg
+date=2018-08-15
+URL=https://streamango.com/f/dfqbdqfrceeleplc/Hotel_Artemis_2018_
 
 
 type=video
@@ -8573,7 +8585,22 @@ URL=
 
 
 
-
+type=video
+name=Backstabbing for Beginners (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvUX96OVgTsfgXF3xKgDdDQbGau.jpg
+date=2018-04-21
+URL=https://www.blazefile.co/embed-p7xl3vc04a6j.html
+#https://uptobox.com/4ib34gskhijy
+#https://openload.co/f/U1g5EQJlCa0/Backstabbing.for.Beginners.2018.1080p.Br_SeeHD.mp4
+#https://openload.co/f/G3OtZIXvfPs/Backstabbing.for.Beginners.2018.1080p.Br_SeeHD.mp4
+#https://openload.co/f/Gt0kEs20w6M/Backstabbing.For.Beginners.2018.720p.BluRay.x264-CONDITION.mkv.mp4
+#https://openload.co/f/2W9d5Z4h9Mc/Backstabbing.for.Beginners.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/1HTb53mmxPw/Backstabbing.for.Beginners.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
+type=video
+name=Backstabbing for Beginners (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvUX96OVgTsfgXF3xKgDdDQbGau.jpg
+date=2018-08-15
+URL=https://openload.co/f/W_srIkhDQBo/Backstabbing_for_Beginners_%282018%29%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%A3%E0%B8%A2%E0%B8%A8.mp4
 
 
 type=video
@@ -8679,8 +8706,9 @@ URL=https://openload.co/f/ecwU13OBafM/Beirut_%282018%29%E0%B9%80%E0%B8%9A%E0%B8%
 type=video
 name=My Blind Brother (2016) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMlgKXJr7Y2UI2E3Nt3AEunchFH.jpg
-date=2018-08-01
-URL=https://openload.co/f/Wv05riqIPpw/My_Blind_Brother_%282016%29My_Blind_Brother_%282016%29.mp4
+date=2018-08-15
+URL=https://openload.co/f/L4fHnXSbpqI/My_Blind_Brother_%282016%29My_Blind_Brother_%282016%29.mp4
+#https://openload.co/f/Wv05riqIPpw/My_Blind_Brother_%282016%29My_Blind_Brother_%282016%29.mp4
 
 
 type=video
