@@ -164,16 +164,7 @@ URL=https://openload.co/f/u2JQ5amQDaU/Hotel.Transylvania.3.Summer.Vacation.2018.
 #https://openload.co/f/ZqftlMxzgW8/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/hSaXRiGF8S4/Hotel_Transylvania_3_Summer_Vacation_2018_New_720p_HDCAM-X264-AC3.mkv.mp4
 
-type=video
-name=Upgrade (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqistSlQGQVlvDZHweDP3qCplMP.jpg
-date=2018-08-14
-URL=https://openload.co/f/QLWQqRpYVbY/Upgrade.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/6P5qPmpNAYo/Upgrade.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.MKV.mp4
-#https://openload.co/f/HAuj73DaREo/Upgrade_2018_NEW_720p_HDCAM_X264-SugarTiTs_SeeHD.mkv.mp4
-#https://openload.co/f/E6uTmxDQ3PY/Upgrade.2018.720p.TS.1XBET.mp4
-#https://openload.co/f/I8aHEdf6qPY/Upgrade.2018.720p.TS.1XBET.mp4
-#https://openload.co/f/dPSouJiBEWA/Upgrade.2018.HDTS.XviD-AVID.avi.mp4
+
 
 type=video
 name=Siberia (2018) ENG 720hd_SeeHD
@@ -1267,7 +1258,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-14
+date=2018-08-16
 URL=
 
 
@@ -1275,6 +1266,38 @@ URL=
 
 
 
+
+type=video
+name=American Animals (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg
+date=2018-08-16
+URL=https://openload.co/f/_2XwWhgXjjI/american.animals.2018.1080p.bluray.x264-drones%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/ZXU_makG_d4/American.Animals.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=A Thought of Ecstasy (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZO4dNAfmVvY1tpEhuyjYFgqHh.jpg
+date=2018-08-16
+URL=https://openload.co/f/JMnHA_tCGGE/A.Thought.of.Ecstasy.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Upgrade (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqistSlQGQVlvDZHweDP3qCplMP.jpg
+date=2018-08-16
+URL=https://openload.co/f/b_BM2OBi9g0/Upgrade.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/QLWQqRpYVbY/Upgrade.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/6P5qPmpNAYo/Upgrade.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.MKV.mp4
+#https://openload.co/f/HAuj73DaREo/Upgrade_2018_NEW_720p_HDCAM_X264-SugarTiTs_SeeHD.mkv.mp4
+#https://openload.co/f/E6uTmxDQ3PY/Upgrade.2018.720p.TS.1XBET.mp4
+#https://openload.co/f/I8aHEdf6qPY/Upgrade.2018.720p.TS.1XBET.mp4
+#https://openload.co/f/dPSouJiBEWA/Upgrade.2018.HDTS.XviD-AVID.avi.mp4
+
+type=video
+name=Shock and Awe (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdPQPRMIMp3Gcc83Dq1EjOgOgLT.jpg
+date=2018-08-16
+URL=https://openload.co/f/aO9QCA6uiTI/Shock.and.Awe.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/Bca2WtfQ8XE/Shock.and.Awe.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=On Body and Soul (2017) [COLOR=FF00FF00]HUN BR 1080p[/COLOR]
@@ -2057,18 +2080,6 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAUPHokVY3kPaNudNeJQY5ghuk
 date=2018-06-16
 URL=https://openload.co/f/_xPc4AY1yJs/Gek_Van_Oranje_2018_1080p_BluRay_x264_BARGAiN.mkv.mp4
 
-type=video
-name=Ghostland (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tt9YSQlArAj6849SQQJ5ryNgcJs.jpg
-date=2018-06-18
-URL=https://www.blazefile.co/embed-viaragx00usc.html
-#https://uptobox.com/a20q19wewthc
-#https://openload.co/embed/lZG2WbgHnZk/GHPGHOSTLAND80.Ganool.im.mkv
-#https://openload.co/f/Mg3HwosUrJU/Ghostland.2018.INTERNAL.1080p.BluRay.x264-PSYCHD.mkv.mp4
-#https://openload.co/f/qr9AktDVjAA/Ghostland.2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
-#https://www.blazefile.co/embed-1cftumt6xcut.html   720
-#https://uptobox.com/amf1be2dou4y   720
-#https://openload.co/embed/NgAi3WtPCkM/SHQGHOSTLANDBD72.Ganool.im.mkv.mp4
 
 
 
@@ -2145,6 +2156,7 @@ name=How to Talk to Girls at Parties (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O3C5ubC7dd1im89ISb6aGUR2AA.jpg
 date=2018-06-07
 URL=https://openload.co/f/o0oNbL7Eswk/How.to.Talk.to.Girls.at.Parties.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/RoeyWOJzibk/How.to.Talk.to.Girls.at.Parties.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://www.blazefile.co/embed-qwwq7jgoy13n.html   720
 #https://uptobox.com/w4fk8f58zljp   720
 #https://openload.co/embed/qlIC0JCYSLY/SHQHOWTOTALKEGIRLSATPARTIESBD72.Ganool.im.mkv.mp4
@@ -5634,11 +5646,7 @@ URL=https://uptobox.com/pa1xcza5122x
 
 
 
-type=video
-name=Shock and Awe (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdPQPRMIMp3Gcc83Dq1EjOgOgLT.jpg
-date=2018-08-11
-URL=https://openload.co/f/Bca2WtfQ8XE/Shock.and.Awe.2017.720p.BluRay.H264.AAC-RARBG.mp4
+
 
 type=video
 name=First Reformed (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5661,7 +5669,12 @@ URL=https://uptobox.com/xe5twktxqagc
 #https://openload.co/embed/N1-8IOjK9uw/SHQMARROWBONEBD72.Ganol.ru.mkv
 #https://openload.co/f/L5MKEyY9or4/The_Secret_of_Marrowbone_%282017%29720p_BluRay_X264-AMIABLE_Ganool.mkv.mp4
 
-
+type=video
+name=Woman Walks Ahead (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qI5NcQHR0nsykPqlG2qnfFyMgW6.jpg
+date=2018-08-16
+URL=https://openload.co/f/Ogry1taRlRk/Woman.Walks.Ahead.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/QHPFJJidKY4/woman.walks.ahead.2017.720p.bluray.x264-rovers.mkv.mp4
 
 
 
@@ -5671,7 +5684,7 @@ URL=https://uptobox.com/xe5twktxqagc
 type=video
 name=
 thumb=
-date=2018-08-14
+date=2018-08-16
 URL=
 
 type=video
@@ -5773,11 +5786,13 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6
 date=2018-08-15
 URL=https://streamango.com/f/dcrafonlelcdrtlo/The_Spy_Who_Dumped_Me_2018_
 
+
 type=video
-name=The Meg (2018) ENG TC720P.X264.AAC.English.CHS_SeeHD
+name=The Meg (2018) ENG New_1080p_HDTC_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
-date=2018-08-14
-URL=https://openload.co/f/2r45hsli8SE/The%2CMeg.2018.TC720P.X264.AAC.English.CHS_SeeHD.mp4
+date=2018-08-16
+URL=https://openload.co/f/MUFIWuInpKQ/The_Meg_2018_New_1080p_HDTC_SeeHD.mkv.mp4
+#https://openload.co/f/2r45hsli8SE/The%2CMeg.2018.TC720P.X264.AAC.English.CHS_SeeHD.mp4
 #https://openload.co/f/YTAbhQ2056c/The_Meg_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/PVqdnXY_6PU/The_Meg_2018_720p_HDCAM-SeeHD.one.mp4
 type=video
@@ -5785,6 +5800,7 @@ name=The Meg (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
 date=2018-08-15
 URL=https://streamango.com/f/rclrdecrqftelefb/The_Meg_2018_
+
 
 type=video
 name=Hotel Artemis (2018) ENG 720p_HDCAM_X264-24HD_SeeHD
@@ -6092,8 +6108,10 @@ URL=https://streamango.com/f/fotsqnrltaaneest/Perdida_2018_
 type=video
 name=The Guernsey Literary & Potato Peel Pie Society (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/55oz5d6NdH7ohbM1I1Euh1Tt6PN.jpg
-date=2018-08-14
-URL=https://openload.co/f/pHiZRCnWrtA/The.Guernsey.Literary.and.Potato.Peel.Pie.Society.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+date=2018-08-16
+URL=https://openload.co/f/9bpZfrWhP2I/The.Guernsey.Literary.and.Potato.Peel.Pie.Society.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/kdCA8-tLgK8/The.Guernsey.Literary.and.Potato.Peel.Pie.Society.2018.1080p.BluRay.X264-AMIABLE.mkv   MKV7.7GB
+#https://openload.co/f/pHiZRCnWrtA/The.Guernsey.Literary.and.Potato.Peel.Pie.Society.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/xWr2H9Qph2c/The.Guernsey.Literary.and.Potato.Peel.Pie.Society.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/-09g807URoE/The.Guernsey.Literary.and.Potato.Peel.Pie.Society.2018.720p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/KIGr5RXMaUE/The_Guernsey_Literary_and_Potato_Peel_Pie_Society_2018_720p_WEB-DL_DD5_1_H264-CMRG_SeeHD.mkv.mp4
@@ -7866,18 +7884,7 @@ URL=https://streamango.com/f/oasonmnbklbmkpbr/Skyscraper_2018_
 #https://streamango.com/f/aqqabkkkdlekfmrq/Skyscraper_2018_
 
 
-type=video
-name=Taxi 5 (2018)  [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg
-date=2018-08-07
-URL=https://openload.co/f/cKlPCxzGa5A/taxi.5.2018.french.1080p.bluray.x264-HDMovie8.mkv.mp4
-#https://openload.co/f/XhBHNqkz6gU/Taxi.5.2018.FRENCH.DVDscr.AC3.XViDHDMovie8.mp4
-type=video
-name=Taxi 5 (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg
-date=2018-08-08
-URL=https://streamango.com/f/msamccmbeqoonrsm/Taxi_5_2018_
-#https://streamango.com/f/krmfsqkocolersbk/Taxi_5_2018_
+
 
 
 type=video
@@ -8579,10 +8586,38 @@ URL=
 
 
 
+type=video
+name=Taxi 5 (2018)  [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg
+date=2018-08-07
+URL=https://openload.co/f/cKlPCxzGa5A/taxi.5.2018.french.1080p.bluray.x264-HDMovie8.mkv.mp4
+#https://openload.co/f/XhBHNqkz6gU/Taxi.5.2018.FRENCH.DVDscr.AC3.XViDHDMovie8.mp4
+type=video
+name=Taxi 5 (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg
+date=2018-08-16
+URL=https://openload.co/f/9ttQAhwQRQA/Taxi_5_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B8%B5%E0%B9%88_%E0%B8%82%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%94.mp4
+#https://streamango.com/f/msamccmbeqoonrsm/Taxi_5_2018_
+#https://streamango.com/f/krmfsqkocolersbk/Taxi_5_2018_
 
 
-
-
+type=video
+name=Ghostland (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tt9YSQlArAj6849SQQJ5ryNgcJs.jpg
+date=2018-06-18
+URL=https://www.blazefile.co/embed-viaragx00usc.html
+#https://uptobox.com/a20q19wewthc
+#https://openload.co/embed/lZG2WbgHnZk/GHPGHOSTLAND80.Ganool.im.mkv
+#https://openload.co/f/Mg3HwosUrJU/Ghostland.2018.INTERNAL.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/qr9AktDVjAA/Ghostland.2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://www.blazefile.co/embed-1cftumt6xcut.html   720
+#https://uptobox.com/amf1be2dou4y   720
+#https://openload.co/embed/NgAi3WtPCkM/SHQGHOSTLANDBD72.Ganool.im.mkv.mp4
+type=video
+name=Ghostland (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tt9YSQlArAj6849SQQJ5ryNgcJs.jpg
+date=2018-08-16
+URL=https://openload.co/f/-B0CjBnRjB8/Ghostland_%282018%29%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%94%E0%B8%B8.mp4
 
 
 type=video
@@ -9390,7 +9425,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-12
+date=2018-08-16
 URL=
 
 
@@ -9403,6 +9438,92 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+type=video
+name=The Lord of the Rings: The Fellowship of the Ring (2001) [COLOR=FF00FF00]ENG EXTENDED BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDkDYEUIHEp5qavNa5k6XsMHgbf.jpg
+date=2018-08-16
+URL=https://openload.co/f/2tInpsSbdEQ/The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.2001.EXTENDED.1080p.BluRay.H264.AAC_RARBG.mp4
+
+type=video
+name=The Lord of the Rings: The Two Towers (2002) [COLOR=FF00FF00]ENG EXTENDED BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg
+date=2018-08-16
+URL=https://openload.co/f/6cAx6Ql0MCU/The_Lord_of_the_Rings_The_Two_Towers_muc.mp4
+
+type=video
+name=The Lord of the Rings: The Return of the King (2003) [COLOR=FF00FF00]ENG EXTENDED BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg
+date=2018-08-16
+URL=https://openload.co/f/HlHm1aEd2NY/The_Lord_of_the_Rings_The_Return_of_the_King_EXTENDED_2003_1080p.mp4
+
+type=video
+name=Star Wars (1977) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/btTdmkgIvOi0FFip1sPuZI2oQG6.jpg
+date=2018-08-16
+URL=https://openload.co/f/iMkkVbrg7Q0/Star.Wars.Episode.4.A.New.Hope.1977.1080p.BrRip.x264.BOKUTOX.mp4
+
+type=video
+name=The Empire Strikes Back (1980) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SKDSFbaM6LuGqG1aPWN3wYGEyD.jpg
+date=2018-08-16
+URL=https://openload.co/f/VL0CAu9sMvo/Star.Wars.Episode.V.The.Empire.Strikes.Back.1980.1080p.BluRay.H264.AAC_RARBG.mp4
+
+type=video
+name=Return of the Jedi (1983) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lrJWyjOVjPhghl4KyAMtOepAxs.jpg
+date=2018-08-16
+URL=https://openload.co/f/FsGi1ieZkpA/Star.Wars.Episode.VI.Return.of.the.Jedi.1983.1080p.BluRay.H264.AAC_RARBG.mp4
+
+type=video
+name=T2 Trainspotting (2017) [COLOR=FF00FF00]ENG WEB 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbHXfr2N4pI2j7i9RLYiddjotBl.jpg
+date=2018-08-16
+URL=https://openload.co/f/dN5yAcS3Q0Q/T2.Trainspotting.2017.1080p.WEB_DL.DD5.1.H264_FGT.mp4
+
+type=video
+name=It Follows (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MrwJZr0R9LbyOgZqwLNmtzzxbu.jpg
+date=2018-08-16
+URL=https://openload.co/f/f7bTKiKfsNI/It.Follows.2014.1080p.BluRay.x264.E.mp4
+
+
+type=video
+name=Solo (1996) [COLOR=FF00FF00]ENG SD [/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qqdpyYVnU5zY5KsTKCIp5gpZoV.jpg
+date=2018-08-16
+URL=https://openload.co/f/d_wO3CQxA8g/Solo.1996.SD.mp4
+
+type=video
+name=Monsters, Inc. (2001) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/93Y9BGx8blzmZOPSoivkFfaifqU.jpg
+date=2018-08-16
+URL=https://openload.co/f/-pvHP5Xp8aA/Monsters_Inc.mp4
+
+type=video
+name=The Secret Life of Walter Mitty (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0nIj7dr2bcLAn3erYhql7f6aUm.jpg
+date=2018-08-16
+URL=https://openload.co/f/4BDwZImX7os/The.Secret.Life.of.Walter.Mitty.2013.1080p.BluRay.x264.mp4
+
+type=video
+name=The Breakfast Club (1985) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZejrrCpfoypR5lHoT3pq6yVldW.jpg
+date=2018-08-16
+URL=https://openload.co/f/2ILxCcMp-TE/The_Breakfast_Club.1985.HD_1080p.mp4
+
+type=video
+name=Some Kind of Wonderful (1987) [COLOR=FF00FF00]ENG SD [/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5trXgQn0B6Un8JeGGWhwek95f6.jpg
+date=2018-08-16
+URL=https://openload.co/f/SH1wsuw4rC8/Some_Kind_of_Wonderful.mp4
 
 type=video
 name=Monsters (2010) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]

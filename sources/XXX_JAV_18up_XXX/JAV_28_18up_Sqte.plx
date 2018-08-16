@@ -38,32 +38,32 @@ URL=
 
 type=video
 name=
-thumb=http://javdon.com/wp-content/uploads/2016/10/6677.jpg
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_929297000573688_8621292006494175232_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=c8f3193207751bbb459d6b9b05e1356e&oe=5B74A4FB&itag=22
+thumb=http://javdon.com/wp-content/uploads/2018/04/31613.jpg
+URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_961609940663994_1133200019805962240_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=e35c17c954c1be436dbc85bb6c8dfc4f&oe=5B75FE01&itag=22
 
 type=video
 name=
-thumb=http://javdon.com/wp-content/uploads/2017/12/28215.jpg
+thumb=http://javdon.com/wp-content/uploads/2017/01/11871.jpg
 date=2018-06-15
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_191711338183537_7318699202383446016_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=90247298be7ab6b16915ef12223c18ee&oe=5B74B7D7&itag=22
+URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_1945982802080461_4683924284559589376_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=5d8096e948bca382e95c5c213a096237&oe=5B75E6CF&itag=22
 
 type=video
 name=
-thumb=http://javdon.com/wp-content/uploads/2017/03/20096.jpg
+thumb=http://javdon.com/wp-content/uploads/2018/04/31648.jpg
 date=2018-06-15
-URL=http://cdn.vodstream.xyz/s48/3678/008-hls/appid-20096/hls_720_.m3u8?v=3
+URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_2017294785257912_1078843291664908288_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=b25110747754a12a6488f499abb73a0f&oe=5B75F7F4&itag=22
 
 type=video
 name=
-thumb=http://javdon.com/wp-content/uploads/2017/02/14711.jpg
+thumb=http://javdon.com/wp-content/uploads/2018/03/28744.jpg
 date=2018-06-15
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_242161523244806_8154354754189787136_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=28c5acad21c9edbd37e15f7fe10bd466&oe=5B74C806&itag=22
+URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_2060072487354969_8324164184682004480_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=c6e432599f3103bbcb579ea01ca5a10e&oe=5B75F53C&itag=22
 
 type=video
 name=
-thumb=http://javdon.com/wp-content/uploads/2017/01/11984.jpg
+thumb=http://javdon.com/wp-content/uploads/2017/11/27480.jpg
 date=2018-06-15
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_1796426157074855_2424932814425161728_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=e07bc7141c5fa07538bff3bee0b8591e&oe=5B70BFBB&itag=22
+URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_251250688753525_5989537786414235648_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=7a96c5d9470b1c69646b49ef21699e9a&oe=5B760E40&itag=22
 
 type=video
 name=
