@@ -2442,171 +2442,6 @@ http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8?
 
 
 
-#EXTINF:-1,Animal Planet____VT
-http://14.175.229.216:4022/rtp/232.84.1.48:8268
-#EXTINF:-1,arirang
-http://14.175.229.216:4022/rtp/232.84.1.43:8238
-#EXTINF:-1,Asian Food Channel
-http://14.175.229.216:4022/rtp/232.84.1.115:10236
-#EXTINF:-1,Asian Food Channel HD
-http://14.175.229.216:4022/rtp/232.84.2.129:9570
-#EXTINF:-1,AXN
-http://14.175.229.216:4022/rtp/232.84.1.14:8058
-#EXTINF:-1,Bloomberg
-http://14.175.229.216:4022/rtp/232.84.1.7:8016
-#EXTINF:-1,CARTOON NETWORK
-http://14.175.229.216:4022/rtp/232.84.1.16:8070
-#EXTINF:-1,CCTV4
-http://14.175.229.216:4022/rtp/232.84.1.3:7992
-#EXTINF:-1,CINEMAX
-http://14.175.229.216:4022/rtp/232.84.1.20:8094
-#EXTINF:-1,CNN
-http://14.175.229.216:4022/rtp/232.84.2.126:8076
-#EXTINF:-1,Channel V
-http://14.175.229.216:4022/rtp/232.84.1.13:8052
-#EXTINF:-1,Channel V HD
-http://14.175.229.216:4022/rtp/232.84.2.132:9588
-#EXTINF:-1,Da Vinci Learning
-http://14.175.229.216:4022/rtp/232.84.1.108:10224
-#EXTINF:-1,Da Vinci Learning HD
-http://14.175.229.216:4022/rtp/232.84.2.131:9582
-#EXTINF:-1,DISCOVERY
-http://14.175.229.216:4022/rtp/232.84.1.47:8262
-#EXTINF:-1,DISNEY
-http://14.175.229.216:4022/rtp/232.84.1.18:8082
-#EXTINF:-1,Disney Junior
-http://14.175.229.216:4022/rtp/232.84.1.90:10398
-#EXTINF:-1,Diva Universal
-http://14.175.229.216:4022/rtp/232.84.1.109:10230
-#EXTINF:-1,Diva Universal HD
-http://14.175.229.216:4022/rtp/232.84.2.130:9576
-#EXTINF:-1,DW-TV
-http://14.175.229.216:4022/rtp/232.84.1.6:8010
-#EXTINF:-1,DW-TV HD
-http://14.175.229.216:4022/rtp/232.84.2.233:10416
-#EXTINF:-1,FASHION
-http://14.175.229.216:4022/rtp/232.84.1.2:7986
-#EXTINF:-1,FOX
-http://14.175.229.216:4022/rtp/232.84.1.66:8370
-#EXTINF:-1,FOX HD
-http://14.175.229.216:4022/rtp/232.84.2.120:8448
-#EXTINF:-1,FOX SPORTS
-http://14.175.229.216:4022/rtp/232.84.1.11:8040
-#EXTINF:-1,FOX SPORTS 2
-http://14.175.229.216:4022/rtp/232.84.1.12:8046
-#EXTINF:-1,France 24
-http://14.175.229.216:4022/rtp/232.84.2.135:9606
-#EXTINF:-1,GEM
-http://14.175.229.216:4022/rtp/232.84.1.84:10392
-#EXTINF:-1,HBO
-http://14.175.229.216:4022/rtp/232.84.1.19:8088
-#EXTINF:-1,KBS World
-http://14.175.229.216:4022/rtp/232.84.2.136:9612
-#EXTINF:-1,MEDIACORP
-http://14.175.229.216:4022/rtp/232.84.1.5:8004
-#EXTINF:-1,Nat Geo People
-http://14.175.229.216:4022/rtp/232.84.2.121:8376
-#EXTINF:-1,Nat Geo People HD
-http://14.175.229.216:4022/rtp/232.84.1.76:8430
-#EXTINF:-1,Nat Geo Wild HD
-http://14.175.229.216:4022/rtp/232.84.2.123:8454
-#EXTINF:-1,Nat Geo Wild HD
-http://14.175.229.216:4022/rtp/232.84.1.80:8454
-#EXTINF:-1,National Geographic
-http://14.175.229.216:4022/rtp/232.84.2.122:8364
-#EXTINF:-1,National Geographic HD
-http://14.175.229.216:4022/rtp/232.84.1.1:7980
-#EXTINF:-1,NHK WORLD
-http://14.175.229.216:4022/rtp/232.84.1.8:8022
-#EXTINF:-1,NHK WORLD HD
-http://14.175.229.216:4022/rtp/232.84.1.72:8406
-#EXTINF:-1,OPT 1
-http://14.175.229.216:4022/rtp/232.84.1.63:8352
-#EXTINF:-1,Outdoor Channel HD
-http://14.175.229.216:4022/rtp/232.84.1.107:10218
-#EXTINF:-1,POCCNR PTP
-http://14.175.229.216:4022/rtp/232.84.2.127:8544
-#EXTINF:-1,Rai Italia
-http://14.175.229.216:4022/rtp/232.84.2.124:8358
-#EXTINF:-1,Red By HBO
-http://14.175.229.216:4022/rtp/232.84.1.44:8244
-#EXTINF:-1,Red By HBO HD
-http://14.175.229.216:4022/rtp/232.84.1.9:8028
-#EXTINF:-1,RT
-http://14.175.229.216:4022/rtp/232.84.2.125:8538
-#EXTINF:-1,STAR MOVIES
-http://14.175.229.216:4022/rtp/232.84.1.10:8034
-#EXTINF:-1,Star Movies HD
-http://14.175.229.216:4022/rtp/232.84.1.77:8436
-#EXTINF:-1,Star World
-http://14.175.229.216:4022/rtp/232.84.2.119:8382
-#EXTINF:-1,Star World HD
-http://14.175.229.216:4022/rtp/232.84.1.78:8442
-#EXTINF:-1,TOONAMI
-http://14.175.229.216:4022/rtp/232.84.1.91:10404
-#EXTINF:-1,TV5MONDE
-http://14.175.229.216:4022/rtp/232.84.1.45:8250
-#EXTINF:-1,Travel & Living
-http://14.175.229.216:4022/rtp/232.84.1.49:8274
-#EXTINF:-1,Discovery Asia HD
-http://14.175.229.216:4022/rtp/232.84.2.53:10528
-#EXTINF:-1,FASHION TV HD
-http://14.175.229.216:4022/rtp/232.84.2.52:10522
-#EXTINF:-1,Warner Bros
-http://14.175.229.216:4022/rtp/232.84.2.50:10510
-#EXTINF:-1,Warner Bros HD
-http://14.175.229.216:4022/rtp/232.84.2.51:10516
-#EXTINF:-1,Channel News Asia HD
-http://14.175.229.216:4022/rtp/232.84.2.55:10540
-#EXTINF:-1,Animal Planet HD
-http://14.175.229.216:4022/rtp/232.84.2.147:10702
-#EXTINF:-1,AXN HD
-http://14.175.229.216:4022/rtp/232.84.2.140:10660
-#EXTINF:-1,Baby TV HD
-http://14.175.229.216:4022/rtp/232.84.2.36:10624
-#EXTINF:-1,CARTOON NETWORK HD
-http://14.175.229.216:4022/rtp/232.84.2.144:10684
-#EXTINF:-1,MAX BY HBO HD
-http://14.175.229.216:4022/rtp/232.84.2.139:10654
-#EXTINF:-1,CNN HD
-http://14.175.229.216:4022/rtp/32.84.2.145:10690
-#EXTINF:-1,DISNEY CHANNEL HD
-http://14.175.229.216:4022/rtp/232.84.2.143:10678
-#EXTINF:-1,FOX SPORTS HD
-http://14.175.229.216:4022/rtp/232.84.2.141:10666
-#EXTINF:-1,FOX SPORTS 2 HD
-http://14.175.229.216:4022/rtp/232.84.2.142:10672
-#EXTINF:-1,HBO HD
-http://14.175.229.216:4022/rtp/232.84.2.138:10648
-#EXTINF:-1,CNN
-http://14.175.229.216:4022/rtp/232.84.1.17:8076
-#EXTINF:-1,CNN HD
-http://14.175.229.216:4022/rtp/232.84.2.145:10690
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://14.175.229.216:4022/rtp/232.84.1.65:8364
-#EXTINF:-1,NAT GEO PEOPLE
-http://14.175.229.216:4022/rtp/232.84.1.67:8376
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2815,7 +2650,8 @@ http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 #EXTINF:-1,FRENCHLOVER
 http://213.59.136.48:9990/play/FRENCHLOVER/index.m3u8
 
-
+#EXTINF:-1,XXX18+
+http://37.9.0.196:9002/playlist.m3u8
 #EXTINF:-1,Pink
 http://85.132.71.6/ru/pink/index.m3u8
 
@@ -2930,15 +2766,23 @@ http://fpttv.tk/iptv/mytvnet.php?id=hbo
 http://fpttv.tk/iptv/hplus.php?id=foxmovies-hd
 #EXTINF:-1,FOX ACTION MOVIES
 http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/01.m3u8
-#EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO hits
+#EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/hbo_hits.png",HBO hits
 http://iss06.ott.net.tw:8086/live/coship_DCTV2291445940028640_1200.m3u8
 #EXTINF:-1,HRT1_PLTV
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1,transtv
 http://185.21.216.166:8554/whale/transtv/playlist.m3u8
 
+#EXTINF:-1,transtv
+https://stream-01.sg1.dailymotion.com/dm/3/x5b99vx/live-3.m3u8
+#EXTINF:-1,trans7
+https://stream-01.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
 #EXTINF:-1,KIX_TH
 http://210.210.155.35/uq2663/h/h07/index1.m3u8
+#EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO
+http://gameriptv.com/chan/sd54fIs21ds654/hbosub.php?index.m3u8
+#EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/foxpremium.png",Fox Movie Premium
+http://210.210.155.35/uq2663/h/h14/index.m3u8
 
 
 #EXTINF:-1,AFC
@@ -3085,6 +2929,8 @@ https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
 http://main-a.for-our.info:8081/tv11/explorelife/chunks.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_for-our
 http://main-a.for-our.info:8081/tv11/natgeo/playlist.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC 
+http://45.126.83.51/uq2663/h/h11/index.m3u8 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
 http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE_bear-tv

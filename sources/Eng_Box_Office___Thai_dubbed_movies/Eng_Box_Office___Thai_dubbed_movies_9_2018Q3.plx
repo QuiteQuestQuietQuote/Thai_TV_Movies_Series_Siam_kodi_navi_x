@@ -76,7 +76,7 @@ URL=https://www.rapidvideo.com/e/FTYWT8PZK3
 type=video
 name=
 thumb=
-date=2018-08-12
+date=2018-08-18
 URL=
 
 
@@ -84,6 +84,24 @@ URL=
 
 
 
+type=video
+name=Mile 22 (2018) ENG 720p.HDCAM.1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
+date=2018-08-18
+URL=https://openload.co/f/aug72S8Qov8/Mile.22.2018.720p.HDCAM.1XBET_SeeHD.mp4
+#https://openload.co/f/m7HdxWgn5SY/Mile.22.2018.720p.HDCAM.1XBET.mp4
+
+type=video
+name=A.X.L. (2018) ENG 720p_RUS_HDCAM_HC_ENG_SUB-1XBET
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg
+date=2018-08-18
+URL=https://openload.co/f/7DFmc1VnHF0/A.X.L_2018_720p_RUS_HDCAM_HC_ENG_SUB-1XBET.mp4
+
+type=video
+name=Alpha (2018) ENG CAM_x264-1XBET
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
+date=2018-08-18
+URL=https://openload.co/f/TDsbq--aNhA/Alpha_2018_CAM_x264-1XBET.mp4
 
 type=video
 name=Slender Man (2018) ENG 720p.HDCAM.1XBET
@@ -557,10 +575,11 @@ URL=https://openload.co/f/Xfeo1jdN-14/i.do.until.i.dont.limited.2017.dvdrip.x264
 
 
 type=video
-name=The Price (2017) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+name=The Price (2017) ENG 1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSm4woSrLVErGNBZCCLOkBVjJjk.jpg
-date=2018-01-30
-URL=https://openload.co/f/rVfE7NSfZcU/The.Price.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+date=2018-08-18
+URL=https://openload.co/f/oe-S1XqW70c/The_Price.2017.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/rVfE7NSfZcU/The.Price.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/wns44eI1MzU/The_Price_2017.HDRip.XviD.AC3-EVO.avi.mp4
 
 type=video
@@ -1258,14 +1277,19 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-16
+date=2018-08-18
 URL=
 
 
 
 
 
-
+type=video
+name=God's Not Dead: A Light in Darkness (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MwoZ4U8SGm7yIzfPFcTTbiiOYY.jpg
+date=2018-08-18
+URL=https://openload.co/f/7Utvt3YzDbA/Gods.Not.Dead.A.Light.in.Darkness.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/5A3RxIa2MTU/Gods.Not.Dead.A.Light.in.Darkness.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=American Animals (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2443,21 +2467,7 @@ URL=https://www.blazefile.co/embed-1hc6gk58rr3g.html
 #https://www.blazefile.co/embed-83qiwd7mo7hc.html   720
 #https://uptobox.com/1mlhrl16fhuy   720
 
-type=video
-name=I Kill Giants (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuyAtPuBiKhsmXCAozfrFyMAdc4.jpg
-date=2018-05-16
-URL=https://www.blazefile.co/embed-ut19tb40mgc9.html
-#http://uptobox.com/x7j3zhae4c1s
-#https://openload.co/f/OKSV7_1vs4Q/I_Kill_Giants_%282017%291080p_BluRay_x264-ROVERS.Ganool.im.mkv.mp4
-#https://openload.co/f/d8x8cVsE9kg/I.Kill.Giants.2017.1080p.BR_SeeHD.mp4
-#https://openload.co/f/5xdkEh5mkms/I.Kill.Giants.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
-#https://openload.co/f/VnfYXanvgPE/I.Kill.Giants.2017.720p.BluRay.x264-ROVERS.mkv.mp4
-#https://openload.co/f/SYhcD0EeGRU/I_Kill_Giants_2017_1080p_WEB_DL_DD5_1_H264_CMRG.mp4
-#https://openload.co/f/4V0YxSgSkWs/I_Kill_Giants720pHD.WEB-DL_SeeHD.mp4
-#https://openload.co/f/vtrcS29RnhE/I.Kill.Giants.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/dCDmN6NPscA/I.Kill.Giants.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/1U_HAEH24WM/I_Kill_Giants720pHD.WEB-DL_SeeHD.mp4
+
 
 type=video
 name=Maya the Bee: The Honey Games (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5657,8 +5667,11 @@ URL=https://openload.co/f/SJDacDpM7k8/First.Reformed.2017.720p.BluRay.H264.AAC-R
 type=video
 name=Time Trap (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e60WvvJzHwWCvnAylP307Q1jMHw.jpg
-date=2018-08-14
-URL=https://openload.co/f/4FR6OWQnRqg/Time.Trap.2017.720p.BluRay.H264.AAC-RARBG.mp4
+date=2018-08-18
+URL=https://uptobox.com/pz34yrjjy4lr
+#https://www.rapidvideo.com/e/FUE5VXS7FN
+#https://openload.co/embed/6koCXxOyz9Q/TIMETRAPBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/4FR6OWQnRqg/Time.Trap.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Marrowbone (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5676,6 +5689,33 @@ date=2018-08-16
 URL=https://openload.co/f/Ogry1taRlRk/Woman.Walks.Ahead.2017.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/QHPFJJidKY4/woman.walks.ahead.2017.720p.bluray.x264-rovers.mkv.mp4
 
+type=video
+name=Furlough (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cw1RkjmbNfIbujkPGh6a8J9Lrf1.jpg
+date=2018-08-18
+URL=https://openload.co/f/DaG5mMU-6nY/furlough.2018.720p.bluray.hevc.x265.mkv.mp4
+#https://openload.co/f/LVopRhjFFsQ/furlough.2018.480p.bluray.x264.mkv.mp4
+
+type=video
+name=Breath (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/29zGlWbgpqP1RVSttdE0zqS5YQ1.jpg
+date=2018-08-18
+URL=https://uptobox.com/n1blk5gg34xq
+#https://www.rapidvideo.com/e/FUE5XDAOXW
+#https://openload.co/embed/BHs1e48x0XA/BREATHBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/ZOIjpCqXY_Q/Breath_%282017%29720p_BluRay_x264-PFa_Ganool.mkv.mp4
+
+type=video
+name=The House of Tomorrow (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5D9mvVo7nJ7YYZXoNKQiABYAR55.jpg
+date=2018-08-18
+URL=https://uptobox.com/7fxmpo873fi5
+#https://www.rapidvideo.com/e/FUE6BMDTO5
+#https://openload.co/embed/MTYWDaPG1c8/THEHOUSEOFTOMORROWBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/WIroJpftI58/The_House_of_Tomorrow_%282017%29BluRay_720p_DTS_x264-MT_Ganool.mkv.mp4
+
+
+
 
 
 
@@ -5684,7 +5724,7 @@ URL=https://openload.co/f/Ogry1taRlRk/Woman.Walks.Ahead.2017.720p.BluRay.H264.AA
 type=video
 name=
 thumb=
-date=2018-08-16
+date=2018-08-18
 URL=
 
 type=video
@@ -6057,6 +6097,30 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=I Kill Giants (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuyAtPuBiKhsmXCAozfrFyMAdc4.jpg
+date=2018-05-16
+URL=https://www.blazefile.co/embed-ut19tb40mgc9.html
+#http://uptobox.com/x7j3zhae4c1s
+#https://openload.co/f/OKSV7_1vs4Q/I_Kill_Giants_%282017%291080p_BluRay_x264-ROVERS.Ganool.im.mkv.mp4
+#https://openload.co/f/d8x8cVsE9kg/I.Kill.Giants.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/5xdkEh5mkms/I.Kill.Giants.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+#https://openload.co/f/VnfYXanvgPE/I.Kill.Giants.2017.720p.BluRay.x264-ROVERS.mkv.mp4
+#https://openload.co/f/SYhcD0EeGRU/I_Kill_Giants_2017_1080p_WEB_DL_DD5_1_H264_CMRG.mp4
+#https://openload.co/f/4V0YxSgSkWs/I_Kill_Giants720pHD.WEB-DL_SeeHD.mp4
+#https://openload.co/f/vtrcS29RnhE/I.Kill.Giants.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/dCDmN6NPscA/I.Kill.Giants.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/1U_HAEH24WM/I_Kill_Giants720pHD.WEB-DL_SeeHD.mp4
+type=video
+name=I Kill Giants (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuyAtPuBiKhsmXCAozfrFyMAdc4.jpg
+date=2018-08-18
+URL=https://streamango.com/f/bfecefcenoftedlo/I_Kill_Giants_2018_
 
 
 type=video
@@ -9425,7 +9489,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-16
+date=2018-08-18
 URL=
 
 
@@ -9442,9 +9506,17 @@ URL=
 
 
 
+type=video
+name=Fight Club (1999) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/adw6Lq9FiC9zjYEpOqfq03ituwp.jpg
+date=2018-08-18
+URL=https://openload.co/f/3fhYQZzAFjw/Fight.Club.1999.REMASTERED.720p.BluRay.H264.AAC-RARBG.mp4
 
-
-
+type=video
+name=Good Will Hunting (1997) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jq8LjngZ7XZEQge5JFTdOGMrHyZ.jpg
+date=2018-08-18
+URL=https://openload.co/f/KMMIYrzgGRA/Good_Will_Hunting.1997.HD_720p.mp4
 
 type=video
 name=The Lord of the Rings: The Fellowship of the Ring (2001) [COLOR=FF00FF00]ENG EXTENDED BR 1080p[/COLOR]
