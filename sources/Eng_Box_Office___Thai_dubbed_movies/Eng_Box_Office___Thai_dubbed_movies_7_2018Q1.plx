@@ -183,13 +183,17 @@ URL=https://openload.co/f/FK79r3jzMPU/Star_Wars%3A_The_Last_Jedi_%282017%29%E0%B
 
 type=video
 name=Marrowbone (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRUToAEWbPtfOOgrs7ivk96DE7i.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykn2GWDINcbunWPoNVRQtMaybo7.jpg
 date=2018-02-21
 URL=https://www.blazefile.co/embed-0rmnl4pvqm9a.html
 #https://uptobox.com/r1i4aj9565rc
 #https://openload.co/f/-YTh2hoDQsw/mrrowbone80.Ettv.st.mkv
 #https://openload.co/f/MkZiz_H6_x4/Marrowbone.2017.720p.BR_SeeHD.mp4
 #http://entervideo.net/watch/dc143d328339b28
+https://uptobox.com/xe5twktxqagc   720
+#https://www.rapidvideo.com/e/FU9AXJ15MM   720
+#https://openload.co/embed/N1-8IOjK9uw/SHQMARROWBONEBD72.Ganol.ru.mkv
+#https://openload.co/f/L5MKEyY9or4/The_Secret_of_Marrowbone_%282017%29720p_BluRay_X264-AMIABLE_Ganool.mkv.mp4
 type=video
 name=Marrowbone (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRUToAEWbPtfOOgrs7ivk96DE7i.jpg

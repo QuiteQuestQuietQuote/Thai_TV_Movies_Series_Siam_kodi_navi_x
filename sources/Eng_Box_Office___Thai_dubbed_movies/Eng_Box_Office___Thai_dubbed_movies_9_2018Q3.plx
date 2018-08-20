@@ -76,13 +76,20 @@ URL=https://www.rapidvideo.com/e/FTYWT8PZK3
 type=video
 name=
 thumb=
-date=2018-08-18
+date=2018-08-20
 URL=
 
 
 
 
 
+
+
+type=video
+name=Crazy Rich Asians (2018) ENG CAM.1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnTqi4nhIi1eesT5uYMmhEPGNih.jpg
+date=2018-08-20
+URL=https://openload.co/f/g6uOlCEZREc/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
 
 type=video
 name=Mile 22 (2018) ENG 720p.HDCAM.1XBET_SeeHD
@@ -92,16 +99,19 @@ URL=https://openload.co/f/aug72S8Qov8/Mile.22.2018.720p.HDCAM.1XBET_SeeHD.mp4
 #https://openload.co/f/m7HdxWgn5SY/Mile.22.2018.720p.HDCAM.1XBET.mp4
 
 type=video
-name=A.X.L. (2018) ENG 720p_RUS_HDCAM_HC_ENG_SUB-1XBET
+name=A.X.L. (2018) ENG RUS.HDCAM.HC.ENG.SUB-NO.WATERMARK
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg
-date=2018-08-18
-URL=https://openload.co/f/7DFmc1VnHF0/A.X.L_2018_720p_RUS_HDCAM_HC_ENG_SUB-1XBET.mp4
+date=2018-08-20
+URL=https://openload.co/f/IdRiWQZUTME/A.X.L.2018.RUS.HDCAM.HC.ENG.SUB-NO.WATERMARK.mp4
+#https://openload.co/f/7DFmc1VnHF0/A.X.L_2018_720p_RUS_HDCAM_HC_ENG_SUB-1XBET.mp4
 
 type=video
-name=Alpha (2018) ENG CAM_x264-1XBET
+name=Alpha (2018) ENG NEW_720p_HDCAM_ENG_SUB-24HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
-date=2018-08-18
-URL=https://openload.co/f/TDsbq--aNhA/Alpha_2018_CAM_x264-1XBET.mp4
+date=2018-08-20
+URL=https://openload.co/f/0kwFGuTf9LY/Alpha_2018_NEW_720p_HDCAM_ENG_SUB-24HD_SeeHD.mp4
+#https://openload.co/f/E-KpG1hlEXY/Alpha_2018_NOLOGO_CAM-1XBET.mp4
+#https://openload.co/f/TDsbq--aNhA/Alpha_2018_CAM_x264-1XBET.mp4
 
 type=video
 name=Slender Man (2018) ENG 720p.HDCAM.1XBET
@@ -109,7 +119,12 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/huSncs4RyvQDBmHjBBYHSBYJbS
 date=2018-08-12
 URL=https://openload.co/f/4i4Zo8czRuE/Slenderman.2018.720p.HDCAM.1XBET.mp4
 
-
+type=video
+name=The Little Mermaid (2018) ENG 1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/PN42hurfIoTRBntRMu2McHXyHb.jpg
+date=2018-08-20
+URL=https://openload.co/f/MTIj7shXvFw/The.Little.Mermaid.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/74DNspHO7os/The.Little.Mermaid.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 
 type=video
 name=Blindspotting (2018) ENG 720p.HDCAM.X264.24HD_SeeHD
@@ -160,11 +175,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lCNsfc1OEDNceGJTjfE0kBknE
 date=2018-07-23
 URL=https://openload.co/f/uQ8R5HhL-iI/Uncle.Drew.2018.CAM-MaTinE.mkv.mp4
 
-type=video
-name=The First Purge (2018) ENG 720p.HDCAM.1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2slvblTroiT1lY9bYLK7Amigo1k.jpg
-date=2018-07-21
-URL=https://openload.co/f/S0UjL9DNnp8/The.First.Purge.2018.720p.HDCAM.1XBET_SeeHD.mp4
+
+
 
 type=video
 name=Mamma Mia! Here We Go Again (2018) ENG 720p.HDCAM.1XBET_SeeHD
@@ -173,14 +185,6 @@ date=2018-07-20
 URL=https://openload.co/f/4rQ-PpCodrE/Mamma.Mia%21.2.2018.720p.HDCAM.1XBET_SeeHD.mp4
 #https://openload.co/f/-PY_xqQbWaE/Mamma.Mia%21.2.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 
-type=video
-name=Hotel Transylvania 3: Summer Vacation (2018) ENG CAM.XViD-T3RR0RSQU4
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg
-date=2018-08-06
-URL=https://openload.co/f/u2JQ5amQDaU/Hotel.Transylvania.3.Summer.Vacation.2018.CAM.XViD-T3RR0RSQU4.avi.mp4
-#https://openload.co/f/eHv-fLRuh7A/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_NEW_SeeHD.mkv.mp4
-#https://openload.co/f/ZqftlMxzgW8/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/hSaXRiGF8S4/Hotel_Transylvania_3_Summer_Vacation_2018_New_720p_HDCAM-X264-AC3.mkv.mp4
 
 
 
@@ -1277,12 +1281,48 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-18
+date=2018-08-20
 URL=
 
 
 
 
+
+
+
+
+type=video
+name=Aardvark (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dBxPZRtoqA2qq9wKxRPBSwqdKi.jpg
+date=2018-08-20
+URL=https://openload.co/f/p15JlrKAggM/Aardvark.2017.1080p.BluRay_SeeHD.mp4
+
+type=video
+name=Euthanizer (2017) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2JcwM4C1vciVgCYlQhicRcuFib.jpg
+date=2018-08-20
+URL=https://openload.co/f/GAoGyixtN8A/Euthanizer.2017.1080p.BluRay.x264-FiCO.mkv.mp4
+
+type=video
+name=The Mimic (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrQ46RQkPQ07Ozmx4nzXZDOYfIN.jpg
+date=2018-08-20
+URL=https://openload.co/f/FVewTdYDAqE/The.Mimic.2017.1080p.BluRay.x264-SADPANDA.mkv.mp4
+
+type=video
+name=Beast (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZdncyp1IKhEqwv5zdmUpK5Dc7S.jpg
+date=2018-08-20
+URL=https://openload.co/f/FGhzvT816LY/Beast.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://uptobox.com/3lppk0zbrpai   720
+#https://www.rapidvideo.com/e/FUEYONJID9   720
+#https://openload.co/embed/3OSF2AjmJXc/BEASTBD72.Ganol.ru.mkv.mp4
+
+type=video
+name=Beauty and the Dogs (2017) [COLOR=FF00FF00]ARAB BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezh0cl1OxUINcXnT04z8cGUJiAG.jpg
+date=2018-08-20
+URL=https://openload.co/f/r2YZCb-lDFA/Beauty.and.the.Dogs.2017.1080p.BluRay.x264-DEPTH.mkv.mp4
 
 type=video
 name=God's Not Dead: A Light in Darkness (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1297,6 +1337,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLbdKxgxuOPvs6CTlmzoOQ4Yg3
 date=2018-08-16
 URL=https://openload.co/f/_2XwWhgXjjI/american.animals.2018.1080p.bluray.x264-drones%5BEtHD%5D.mkv.mp4
 #https://openload.co/f/ZXU_makG_d4/American.Animals.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/y05y30l8b58y   720
+#https://www.rapidvideo.com/e/FUEYRT5GO0   720
+#https://openload.co/embed/Kbsce4CpTX0/SHQAMERICANANIMLASBD72.Ganol.ru.mkv.mp4
 
 type=video
 name=A Thought of Ecstasy (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1304,17 +1347,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZO4dNAfmVvY1tpEhuyjYFgqH
 date=2018-08-16
 URL=https://openload.co/f/JMnHA_tCGGE/A.Thought.of.Ecstasy.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Upgrade (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqistSlQGQVlvDZHweDP3qCplMP.jpg
-date=2018-08-16
-URL=https://openload.co/f/b_BM2OBi9g0/Upgrade.2018.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/QLWQqRpYVbY/Upgrade.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/6P5qPmpNAYo/Upgrade.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.MKV.mp4
-#https://openload.co/f/HAuj73DaREo/Upgrade_2018_NEW_720p_HDCAM_X264-SugarTiTs_SeeHD.mkv.mp4
-#https://openload.co/f/E6uTmxDQ3PY/Upgrade.2018.720p.TS.1XBET.mp4
-#https://openload.co/f/I8aHEdf6qPY/Upgrade.2018.720p.TS.1XBET.mp4
-#https://openload.co/f/dPSouJiBEWA/Upgrade.2018.HDTS.XviD-AVID.avi.mp4
+
 
 type=video
 name=Shock and Awe (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1322,6 +1355,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdPQPRMIMp3Gcc83Dq1EjOgOgL
 date=2018-08-16
 URL=https://openload.co/f/aO9QCA6uiTI/Shock.and.Awe.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/Bca2WtfQ8XE/Shock.and.Awe.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/gnosmun7tod1   720
+#https://www.rapidvideo.com/e/FUE5ZSGF89   720
+#https://openload.co/embed/uZEAQdwyHgE/SHOCKANDAWEBD72.Ganol.ru.mkv.mp4
 
 type=video
 name=On Body and Soul (2017) [COLOR=FF00FF00]HUN BR 1080p[/COLOR]
@@ -1686,11 +1722,7 @@ URL=https://uptobox.com/q1ze6u6c853x
 #https://www.rapidvideo.com/e/FTKYFTLEUT   720
 #https://openload.co/embed/H1aaF-Lpbi0/SHQTULLYBD72.Ganol.ru.mkv
 
-type=video
-name=Big Fish & Begonia (2016) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRCdXh9MZutj1JJPZlUXMex6AuB.jpg
-date=2018-07-20
-URL=https://openload.co/f/vhJ52rWHpQY/big.fish.and.begonia.2016.limited.1080p.bluray.x264-cadaver.mkv.mp4
+
 
 type=video
 name=Dwelling (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1845,17 +1877,6 @@ URL=https://openload.co/f/uLUdK3KMciY/I.Feel.Pretty.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/L6N00yigWWs/I_Feel_Pretty.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/VSa6I5VbpSw/I_Feel_Pretty_2018_HDCAM_ENG_X264-SeeHD.mkv.mp4
 
-type=video
-name=Super Troopers 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/57SZgdugVClIy22rfnANeBJ5KsN.jpg
-date=2018-07-05
-URL=https://openload.co/f/CyaZhAF_jRM/Super.Troopers.2.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/FLrUwW_gu4w/super.troopers.2.2018.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/dQCgM0SURgQ/Super.Troopers.2.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/xP2SogALXWU/Supertroopers2_SeeHD.mkv.mp4
-#https://openload.co/f/8VXGqvqw0fc/Super.Troopers.2.2018.1080p.WEB-DL.H264.AC3-EVO.mkv   MKV3.9GB
-#https://uptobox.com/gn3lz6ufr1yz   720
-#https://openload.co/embed/GtQ30Hyh50M/SUPERSTROPERSBD72.Ganol.ru.mkv.mp4
 
 
 
@@ -2704,6 +2725,14 @@ name=Tremors: A Cold Day in Hell (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFOdiHaRjeTmHG67e5B7md2Q1cq.jpg
 date=2018-04-25
 URL=https://openload.co/f/deFEKBnsZbo/Tremors.A.Cold.Day.in.Hell.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+
+
+type=video
+name=Lazer Team (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqTVXHVdR9FrSWAn58WOC73uLmx.jpg
+date=2018-08-20
+URL=https://openload.co/f/yryaR0noeUs/lazer.team.2015.dc.1080p.bluray.x264-unveil.mkv.mp4
 
 type=video
 name=Lazer Team 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5559,6 +5588,7 @@ date=2018-07-27
 URL=https://uptobox.com/bipbt5r5dd4w
 #https://www.rapidvideo.com/e/FTOSA9RQNV
 #https://openload.co/embed/_cOe7E7rgkU/RADIUBD72.Ganol.ru.mkv
+#https://openload.co/f/tciv_MfKb90/Radius.2017.720p.BluRay.x264-PFa.mkv.mp4
 
 type=video
 name=Lucky (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5604,13 +5634,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzQg6WxLU6EyPffWJJzZd86wI0
 date=2018-08-06
 URL=https://openload.co/f/dPj-_BRwQQg/Kissing_Candice_2018_Movies_720p_BluRay_x264_5.1.mkv.mp4
 
-type=video
-name=Dead Shack (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjhl7lzyUDVj5pvJSFSN6JvSWOW.jpg
-date=2018-08-07
-URL=https://uptobox.com/2zlziygtdb9i
-#https://www.rapidvideo.com/e/FU160JJAW1
-#https://openload.co/embed/kqe9awnmfTE/DEADSHACKBD72.Ganol.ru.mkv.mp4
+
 
 type=video
 name=The Yellow Birds (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5619,6 +5643,7 @@ date=2018-08-07
 URL=https://uptobox.com/woityt0t0hn0
 #https://www.rapidvideo.com/e/FU1FXBNGVV
 #https://openload.co/embed/ouG5TkV6wzU/THEYELLOWBIRDSBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/HUdsCfpe2uA/The_Yellow_Birds_2017_%5B720p%5D_BluRay_x264-%5BYTS_AM%5D_mp4
 
 type=video
 name=No Good Heroes (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5661,26 +5686,22 @@ URL=https://uptobox.com/pa1xcza5122x
 type=video
 name=First Reformed (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2UylV0hPefEuWPFMo1r56vu2nb.jpg
-date=2018-08-14
-URL=https://openload.co/f/SJDacDpM7k8/First.Reformed.2017.720p.BluRay.H264.AAC-RARBG.mp4
+date=2018-08-20
+URL=https://uptobox.com/hf4fr8l1eqtj
+#https://www.rapidvideo.com/e/FUE63LUU1U
+#https://openload.co/embed/SlmWc6Bfzfk/FIRSTREFORMEDBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/SJDacDpM7k8/First.Reformed.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
-name=Time Trap (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Time Trap (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e60WvvJzHwWCvnAylP307Q1jMHw.jpg
-date=2018-08-18
-URL=https://uptobox.com/pz34yrjjy4lr
+date=2018-08-20
+URL=https://openload.co/f/-AU70jHGCrk/Time_Trap_2017_%5B1080p%5D_BluRay_x264-%5BYTS_AM%5D_mp4
+#https://uptobox.com/pz34yrjjy4lr
 #https://www.rapidvideo.com/e/FUE5VXS7FN
 #https://openload.co/embed/6koCXxOyz9Q/TIMETRAPBD72.Ganol.ru.mkv.mp4
 #https://openload.co/f/4FR6OWQnRqg/Time.Trap.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Marrowbone (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykn2GWDINcbunWPoNVRQtMaybo7.jpg
-date=2018-08-14
-URL=https://uptobox.com/xe5twktxqagc
-#https://www.rapidvideo.com/e/FU9AXJ15MM
-#https://openload.co/embed/N1-8IOjK9uw/SHQMARROWBONEBD72.Ganol.ru.mkv
-#https://openload.co/f/L5MKEyY9or4/The_Secret_of_Marrowbone_%282017%29720p_BluRay_X264-AMIABLE_Ganool.mkv.mp4
 
 type=video
 name=Woman Walks Ahead (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5714,7 +5735,11 @@ URL=https://uptobox.com/7fxmpo873fi5
 #https://openload.co/embed/MTYWDaPG1c8/THEHOUSEOFTOMORROWBD72.Ganol.ru.mkv.mp4
 #https://openload.co/f/WIroJpftI58/The_House_of_Tomorrow_%282017%29BluRay_720p_DTS_x264-MT_Ganool.mkv.mp4
 
-
+type=video
+name=Boar (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tLATFdlft7syZo2dK3CujPWxwi.jpg
+date=2018-08-20
+URL=https://openload.co/f/JcT8xkxONaY/Boar.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
 
 
@@ -5724,7 +5749,7 @@ URL=https://uptobox.com/7fxmpo873fi5
 type=video
 name=
 thumb=
-date=2018-08-18
+date=2018-08-20
 URL=
 
 type=video
@@ -5808,10 +5833,31 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+type=video
+name=The First Purge (2018) ENG 720p.HDCAM.1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2slvblTroiT1lY9bYLK7Amigo1k.jpg
+date=2018-07-21
+URL=https://openload.co/f/S0UjL9DNnp8/The.First.Purge.2018.720p.HDCAM.1XBET_SeeHD.mp4
+type=video
+name=The First Purge (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2slvblTroiT1lY9bYLK7Amigo1k.jpg
+date=2018-08-20
+URL=https://streamango.com/f/opcbtkktpceskbnr/The_First_Purge_2018_
 
 
-
-
+type=video
+name=Hotel Transylvania 3: Summer Vacation (2018) ENG CAM.XViD-T3RR0RSQU4
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg
+date=2018-08-06
+URL=https://openload.co/f/u2JQ5amQDaU/Hotel.Transylvania.3.Summer.Vacation.2018.CAM.XViD-T3RR0RSQU4.avi.mp4
+#https://openload.co/f/eHv-fLRuh7A/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_NEW_SeeHD.mkv.mp4
+#https://openload.co/f/ZqftlMxzgW8/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/hSaXRiGF8S4/Hotel_Transylvania_3_Summer_Vacation_2018_New_720p_HDCAM-X264-AC3.mkv.mp4
+type=video
+name=Hotel Transylvania 3: Summer Vacation (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg
+date=2018-08-20
+URL=https://streamango.com/f/mplcmnpmflrrqabl/Hotel_Transylvania_3_Summer_Vacation_2018_3_
 
 
 type=video
@@ -6091,7 +6137,7 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-08-13
+date=2018-08-20
 URL=
 
 
@@ -6099,6 +6145,60 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=Big Fish & Begonia (2016) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRCdXh9MZutj1JJPZlUXMex6AuB.jpg
+date=2018-07-20
+URL=https://openload.co/f/vhJ52rWHpQY/big.fish.and.begonia.2016.limited.1080p.bluray.x264-cadaver.mkv.mp4
+type=video
+name=Big Fish & Begonia (2016) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRCdXh9MZutj1JJPZlUXMex6AuB.jpg
+date=2018-08-20
+URL=https://streamango.com/f/fqekkfffqnsrokef/Big_Fish_Begonia_2016_Big_Fish_Begonia_2016_
+
+
+type=video
+name=Upgrade (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqistSlQGQVlvDZHweDP3qCplMP.jpg
+date=2018-08-16
+URL=https://openload.co/f/b_BM2OBi9g0/Upgrade.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/gSIid1dslG4/Upgrade_%282018%29_%5B1080p%5D_BluRay_x264-%5BYTS_AM%5D_mp4
+#https://openload.co/f/QLWQqRpYVbY/Upgrade.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/6P5qPmpNAYo/Upgrade.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.MKV.mp4
+#https://openload.co/f/HAuj73DaREo/Upgrade_2018_NEW_720p_HDCAM_X264-SugarTiTs_SeeHD.mkv.mp4
+#https://openload.co/f/E6uTmxDQ3PY/Upgrade.2018.720p.TS.1XBET.mp4
+#https://openload.co/f/I8aHEdf6qPY/Upgrade.2018.720p.TS.1XBET.mp4
+#https://openload.co/f/dPSouJiBEWA/Upgrade.2018.HDTS.XviD-AVID.avi.mp4
+type=video
+name=Upgrade (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqistSlQGQVlvDZHweDP3qCplMP.jpg
+date=2018-08-20
+URL=https://streamango.com/f/lqscttqqrpqaoorc/Upgrade_2018_
+
+
+type=video
+name=Dead Shack (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjhl7lzyUDVj5pvJSFSN6JvSWOW.jpg
+date=2018-08-07
+URL=https://uptobox.com/2zlziygtdb9i
+#https://www.rapidvideo.com/e/FU160JJAW1
+#https://openload.co/embed/kqe9awnmfTE/DEADSHACKBD72.Ganol.ru.mkv.mp4
+type=video
+name=Dead Shack (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjhl7lzyUDVj5pvJSFSN6JvSWOW.jpg
+date=2018-08-20
+URL=https://streamango.com/f/snbmlqsslorpeqoe/Dead_Shack_2017_Dead_Shack_2017_
+
+
+type=video
+name=To All the Boys I've Loved Before (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg
+date=2018-08-20
+URL=https://streamango.com/f/rrkrlnllaqetpsto/To_All_the_Boys_I_ve_Loved_Before_2018_
 
 
 type=video
@@ -8650,6 +8750,27 @@ URL=
 
 
 
+
+
+
+type=video
+name=Super Troopers 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/57SZgdugVClIy22rfnANeBJ5KsN.jpg
+date=2018-07-05
+URL=https://openload.co/f/CyaZhAF_jRM/Super.Troopers.2.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/FLrUwW_gu4w/super.troopers.2.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/dQCgM0SURgQ/Super.Troopers.2.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/xP2SogALXWU/Supertroopers2_SeeHD.mkv.mp4
+#https://openload.co/f/8VXGqvqw0fc/Super.Troopers.2.2018.1080p.WEB-DL.H264.AC3-EVO.mkv   MKV3.9GB
+#https://uptobox.com/gn3lz6ufr1yz   720
+#https://openload.co/embed/GtQ30Hyh50M/SUPERSTROPERSBD72.Ganol.ru.mkv.mp4
+type=video
+name=Super Troopers 2 (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/57SZgdugVClIy22rfnANeBJ5KsN.jpg
+date=2018-08-20
+URL=https://openload.co/f/_r5TwhXgT4I/Super_Troopers_2_%282018%29Super_Troopers_2_%282018%29.mp4
+
+
 type=video
 name=Taxi 5 (2018)  [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg
@@ -9246,8 +9367,9 @@ URL=https://openload.co/f/bNmgG7mhmS8/Wonder_Wheel_%282017%29%E0%B8%AA%E0%B8%A7%
 type=video
 name=Pacific Rim: Uprising (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg
-date=2018-06-08
-URL=https://www.blazefile.co/embed-mtxxsldalapo.html
+date=2018-08-20
+URL=https://openload.co/f/UVMUKaAJu5A/Pacific.Rim.Uprising.2018.1080p.BR_SeeHD.mp4
+#https://www.blazefile.co/embed-mtxxsldalapo.html
 #https://uptobox.com/65cvvhsylosg
 #https://openload.co/embed/j-YzWHJ7yKU/GHPPACIFICUPRISING80.Ganool.im.mkv.mp4
 #https://openload.co/f/UVMUKaAJu5A/Pacific.Rim.Uprising.2018.1080p.BR_SeeHD.mp4
@@ -9288,11 +9410,12 @@ URL=https://openload.co/f/Y0shuKFIzUE/DC_Super_Hero_Girls%3A_Intergalactic_Games
 
 
 type=video
-name=Unsane (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Unsane (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M1U5K4Vf1Cbtrjl9EkGNWpqahf.jpg
-date=2018-06-06
-URL=https://www.blazefile.co/embed-s7fp5j17mik3.html
-#https://uptobox.com/eh1hvkbqssto
+date=2018-08-20
+URL=https://openload.co/f/Bo2xbbwwkMA/Unsane.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://www.blazefile.co/embed-s7fp5j17mik3.html   720
+#https://uptobox.com/eh1hvkbqssto   720
 #https://openload.co/embed/iM2I_52pHjU/SHQUNSANEBD72.Ganool.im.mkv.mp4
 #https://openload.co/f/ERBlVi0axqQ/Unsane_%282018%29720p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
 #https://openload.co/f/rL1VW7OyBWo/Unsane.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
@@ -9395,8 +9518,9 @@ URL=https://openload.co/f/ArTJc5WR9vY/Wonder_Woman_%282009%29%E0%B8%A7%E0%B8%B1%
 type=video
 name=Paul, Apostle of Christ (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDzLXgngB5DbiSmYSww5Rbg8kRA.jpg
-date=2018-06-07
-URL=https://openload.co/f/xQC6xIImISM/Paul.Apostle.of.Christ.2018.MULTi.1080p.BluRay.x264-VENUE.mkv.mp4
+date=2018-08-20
+URL=https://openload.co/f/tVPQNw0oDJY/Paul.Apostle.of.Christ.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/xQC6xIImISM/Paul.Apostle.of.Christ.2018.MULTi.1080p.BluRay.x264-VENUE.mkv.mp4
 #https://openload.co/f/TL3747ew91U/Paul.Apostle.of.Christ.2018.720p.BluRay.x264-DRONES.mkv.mp4
 #https://www.blazefile.co/embed-yudnlgj4a4rr.html   720
 #https://uptobox.com/nkjdk6x4ifjw   720
@@ -9502,9 +9626,35 @@ URL=
 
 
 
+type=video
+name=Big Trouble in Little China (1986) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yorjHTeWauQd81QeWoqMAHXAcCj.jpg
+date=2018-08-20
+URL=https://openload.co/f/sK-7F11znOc/Big.Trouble.in.Little.China.1986.1080p.BluRay.H264.AAC-RARBG.628.mp4
 
+type=video
+name=Clerks II (2006) [COLOR=FF00FF00]ENG HD 1020MB[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/luPEGTlN8egktVeomdf2nEap5SP.jpg
+date=2018-08-20
+URL=https://openload.co/f/nnS9IL9Sdew/Clerks_2_-_Full.z4qkm.mp4
 
+type=video
+name=Cloverfield (2008) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIegUGJqyMMCRjkKV1s7A9MqdJ8.jpg
+date=2018-08-20
+URL=https://openload.co/f/Kry6k_W8wIw/Cloverfield_2008_720p
 
+type=video
+name=Porco Rosso (1992) [COLOR=FF00FF00]JAP EngDub BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8J98dLZkfTpJY64VvtCOH2UkXP.jpg
+date=2018-08-20
+URL=https://openload.co/f/NZAAjKnp6K8/Porco_Rosso_1992_720p_BRRip_x264-PLAYNOW.mp4
+
+type=video
+name=Whisper of the Heart (1995) [COLOR=FF00FF00]JAP EngDub SD 382MB[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jOSJYsIdUs4zXugIk4hF4jUeGO.jpg
+date=2018-08-20
+URL=https://openload.co/f/K6HaNe8xTIM/Mimi_wo_sumaseba_AKA_Whisper_Of_The_Heart_%28_1995_%29.mp4
 
 type=video
 name=Fight Club (1999) [COLOR=FF00FF00]ENG BR 720p[/COLOR]

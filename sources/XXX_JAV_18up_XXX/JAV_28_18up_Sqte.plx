@@ -37,48 +37,48 @@ date=2018-06-15
 URL=
 
 type=video
-name=
-thumb=http://javdon.com/wp-content/uploads/2017/04/20608.jpg
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_2134888523409997_3875582164955299840_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=b3836e6ae11d3814993699f3982b1d51&oe=5B78BDC7&itag=22
+name=[SMDV-11] S Model DV 11
+thumb=http://flsxx.xyz/upload/vod/2018-04-26/152467883519.jpg
+URL=http://cdn1.polaroidchina.com:8091/20170913/BKm0AcQF/index.m3u8 
 
 type=video
 name=
 thumb=http://javdon.com/wp-content/uploads/2016/11/8629.jpg
 date=2018-06-15
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_1006155052868476_4966762986401169408_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=1312ecf905268d6ff38c8c729784c3ab&oe=5B78B2E2&itag=22
+URL=http://cdnf.fsmalaban.com:9168/20180819/TBJcbGnW/index.m3u8
 
 type=video
-name=
-thumb=http://javdon.com/wp-content/uploads/2016/10/7022.jpg
+name=[BBAN-065]
+thumb=http://www.zfbav.top/upload/vod/2018-07-14/15315733260.jpg
 date=2018-06-15
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_122404805288017_4149190621300523008_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=353a813b4ed3fdf9bfd64f06138ca217&oe=5B78B176&itag=22
+URL=http://cdn1.polaroidchina.com:8091/20170927/kTUzcjjo/index.m3u8
 
 type=video
-name=
-thumb=http://javdon.com/wp-content/uploads/2018/03/29156.jpg
+name=abp644
+thumb=http://www.zfbav.top/upload/vod/2018-07-14/15315747008.jpg
 date=2018-06-15
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_156039945076039_1379712957704830976_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=03b8d3a3826c1d1e4da52a7d1aa0346f&oe=5B78BECD&itag=22
+URL=http://cdn2.polaroidchina.com:8091/20171213/N8h0V4OL/index.m3u8
 
 type=video
-name=
-thumb=http://javdon.com/wp-content/uploads/2018/03/29157.jpg
+name=abp659
+thumb=http://www.zfbav.top/upload/vod/2018-07-14/15315747009.jpg
 date=2018-06-15
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_1554498877938017_2310591194343669760_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=0b3d780054992867293b982f5270d6ee&oe=5B78A53C&itag=22
+URL=http://cdn2.polaroidchina.com:8091/20171213/GbWW34F3/index.m3u8
 
 type=video
-name=
-thumb=http://javdon.com/wp-content/uploads/2017/03/18265.jpg
+name=SQTE-078
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201802/ed32243fc82ee82b.jpg
 date=2018-06-15
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_377760099296549_2184017709266632704_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=ba19a3a735a2788316dd3c480fc6d0b5&oe=5B78BA8A&itag=22
+URL=http://cdn2.polaroidchina.com:8091/20180210/BhKAe4fX/index.m3u8
 
 
 
 
 type=video
-name=
-thumb=http://javdon.com/wp-content/uploads/2017/04/18262.jpg
+name=SQTE-077
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201802/f8c1853f54b7db31.jpg
 date=2018-06-15
-URL=http://cdn.vodstream.xyz/s111/3678/005-hls/appid-18262/hls_720_.m3u8?v=3
+URL=http://cdn2.polaroidchina.com:8091/20180210/2nmGXfUo/index.m3u8
 
 
 
