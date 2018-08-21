@@ -2648,11 +2648,17 @@ http://59.124.220.46:554/live/tv284198321.stream/index.m3u8
 http://82.209.207.119:8905/play/a00l?m3u8
 #EXTINF:-1,XXX18+_udp
 http://5.137.42.51:1234/udp/225.54.23.158:5000
-#EXTINF:-1,XXX18+
+#EXTINF:-1,XXX18+_private
 http://194.28.154.32:81/udp/225.0.0.104:1234
 #EXTINF:-1,XXX18+
-http://62.78.63.79:4022/udp/224.0.91.13:1234
+http://31.41.98.29:81/udp/225.0.0.104:1234
 #EXTINF:-1,XXX18+
+http://62.78.63.79:4022/udp/224.0.91.13:1234
+#EXTINF:-1,XXX18+_French Lover TV
+http://193.233.180.35:34040/udp/239.191.254.251:15285
+#EXTINF:-1,XXX18+_olala
+http://193.233.180.35:34040/udp/239.191.254.161:15285
+#EXTINF:-1,XXX18+_Brazzers
 http://193.233.180.35:34040/udp/239.191.254.170:15285
 #EXTINF:-1,XXX18+_udp
 http://109.248.74.186:15999/udp/239.195.2.3:1234
@@ -2778,10 +2784,43 @@ https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ii/180630033425.jpg",movie24
 rtmp://tv01.thaizatv.com/drm/movie1
 
-#EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO sd_php
-http://fpttv.tk/iptv/mytvnet.php?id=hbo
-#EXTINF:-1,FOX MOVIES_php
-http://fpttv.tk/iptv/hplus.php?id=foxmovies-hd
+
+
+#EXTINF:-1,Metro TV 
+http://45.126.83.51/uq2663/h/h05/index.m3u8 
+#EXTINF:-1,Sony Channel 
+http://45.126.83.51/uq2663/h/h06/index.m3u8 
+#EXTINF:-1,KIX 
+http://45.126.83.51/uq2663/h/h07/index.m3u8 
+#EXTINF:-1,K 
+http://45.126.83.51/uq2663/h/h08/index.m3u8 
+#EXTINF:-1,AXN 
+http://45.126.83.51/uq2663/h/h09/index.m3u8 
+#EXTINF:-1,NATIONAL GEOGRAPHIC 
+http://45.126.83.51/uq2663/h/h11/index.m3u8 
+#EXTINF:-1,NATGEO WILD 
+http://45.126.83.51/uq2663/h/h12/index.m3u8 
+#EXTINF:-1,SONY ONE 
+http://45.126.83.51/uq2663/h/h13/index.m3u8 
+#EXTINF:-1,FOX MOVIES 
+http://45.126.83.51/uq2663/h/h14/index.m3u8
+#EXTINF:-1,ANIPLUS 
+http://45.126.83.51/uq2663/h/h02/index.m3u8 
+#EXTINF:-1,FOXlife 
+http://45.126.83.51/uq2663/h/h03/index.m3u8 
+#EXTINF:-1,FOX 
+http://45.126.83.51/uq2663/h/h04/index.m3u8 
+#EXTINF:-1,FOX MOVIES ACTION 
+http://45.126.83.51/uq2663/h/h15/index.m3u8 
+#EXTINF:-1,FOX MOVIES FAMILY HD 
+http://45.126.83.51/uq2663/h/h16/index.m3u8 
+#EXTINF:-1,ANIMAX 
+http://45.126.83.51/uq2663/h/h18/index.m3u8
+#EXTINF:-1,FOX MOVIES 
+http://45.126.83.51/uq2663/h/h24/index.m3u8 
+
+
+
 #EXTINF:-1,FOX ACTION MOVIES
 http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/01.m3u8
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/hbo_hits.png",HBO hits
@@ -2801,7 +2840,14 @@ http://210.210.155.35/uq2663/h/h07/index1.m3u8
 http://gameriptv.com/chan/sd54fIs21ds654/hbosub.php?index.m3u8
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/foxpremium.png",Fox Movie Premium
 http://210.210.155.35/uq2663/h/h14/index.m3u8
-
+#EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO_sub
+http://gameriptv.com/chan/sd54fIs21ds654/hbosub.php?index.m3u8
+#EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO_ts
+http://listaccess.me:8880/live/te8/te8/2267.ts
+#EXTINF:-1,JAPSUB_movies
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
+#EXTINF:-1,JAP_movies
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
 
 #EXTINF:-1,AFC
 http://61.58.60.247:9000/live/176.m3u8
@@ -2939,6 +2985,26 @@ http://fpttv.tk/iptv/hplus.php?id=bbc-ls
 http://fpttv.tk/iptv/mytvnet.php?id=afc
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE_php
 http://fpttv.tk/iptv/mytvnet.php?id=ngphd
+
+#EXTINF:-1,History HD_ts
+http://5.189.187.55:8000/live/Fadil/skype/1702.ts
+#EXTINF:-1,History HD_ts
+http://5.189.187.55:8000/live/Fadil/skype/1113.ts
+#EXTINF:-1,Discovery Science 
+http://5.189.187.55:8000/live/Fadil/skype/1122.ts
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE_ts
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1075.ts
+#EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_ts
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/773.ts
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CH_ts
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/767.ts
+
+
+
+
+
+
+
 #EXTINF:-1,cnex
 http://61.58.60.230:9000/live/257.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok

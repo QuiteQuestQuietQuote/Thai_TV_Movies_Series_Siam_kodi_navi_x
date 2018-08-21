@@ -227,10 +227,15 @@ URL=https://openload.co/f/Zyqdy1NgIPE/Superfly_2018_720p_NEW_HDCAM_X264-CPG_SeeH
 
 
 type=video
-name=Hereditary (2018) ENG 720p_NEW_HDCAM_X264-24HD_SeeHD
+name=Hereditary (2018) ENG 1080p.web.dl.dd5.1.hevc.x265
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GFPuL14eXi66V96xBWY73Y9PfR.jpg
-date=2018-07-19
-URL=https://openload.co/f/4BYmDKGv1PQ/Hereditary_2018_720p_NEW_HDCAM_X264-24HD_SeeHD.mkv.mp4
+date=2018-08-21
+URL=https://openload.co/f/cxYcTTYry-A/hereditary.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/Eg87e4DCvO8/Hereditary.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/p673QkMs-A4/Hereditary.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/-WDaGQEWX78/Hereditary.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/hVMOOikOXzY/Hereditary.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/4BYmDKGv1PQ/Hereditary_2018_720p_NEW_HDCAM_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/yo6qEXwj5Bs/Hereditary_2018_HDCAM_ENG_x264-SugarTits_SeeHD.mkv.mp4
 
 type=video
@@ -488,12 +493,8 @@ URL=https://openload.co/f/Zf18_Paljkk/Cook.Off.2017.1080p.WEB-DL.DD5.1.H264-FGT.
 
 
 
-type=video
-name=The Only Living Boy in New York (2017) ENG WEB-DL.x264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8e6Q7N2qJ7utBrf6pyf3EiLADja.jpg
-date=2017-10-20
-URL=https://openload.co/f/OTg3g1vgdG0/The_Only_Living_Boy_in_New_York_%282017%29_%5B1080p%5D_WEB-DL_DD5_1_H264-FGT_mkv_mp4
-#https://openload.co/f/2FIdzfMEsV4/The.Only.Living.Boy.in.New.York.2017.WEB-DL.x264-FGT.mp4
+
+
 
 type=video
 name=Swing Away (2017) ENG HDRip.XviD.AC3-EVO
@@ -4734,13 +4735,6 @@ URL=https://openload.co/f/_9YTPj5PITo/Open.Water.3.Cage.Dive.2017.1080p.BluRay.x
 
 
 
-type=video
-name=6 Days (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRbC0uRj1RDmF0JLon83il2dkR0.jpg
-date=2017-10-04
-URL=https://www.blazefile.co/embed-3gilqjbpg0qg.html
-#https://openload.co/f/Ib_9hObk2EY/6.Days.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
-#https://openload.co/f/KC5z9jF5Tgg/6.Days.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 
 
@@ -6011,10 +6005,13 @@ URL=https://streamango.com/f/pmornaclntnlddoo/Incredibles_2_2018_2_
 
 
 type=video
-name=Ocean's 8 (2018) ENG 720p_HD-TS_X264-CPG_SeeHD
+name=Ocean's 8 (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7caaqQjTkovwoZsEOPzgHvkzOWB.jpg
-date=2018-06-29
-URL=https://openload.co/f/7WkQfDnkctU/Oceans_8_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+date=2018-08-21
+URL=https://openload.co/f/0s7KEQsrK5I/Oceans.8.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/d9_axrgH26o/Ocean%27s.Eight.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/VuCdquMUFLY/Oceans.8.2018.720p.WEB-DL.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/7WkQfDnkctU/Oceans_8_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/jils94FsuGM/Oceans_8_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/egvFlNBBxlw/Oceans.8.2018.CAM.X264-IPT_SeeHD.mkv.mp4
 #https://openload.co/f/HNqXzm647eA/Oceans_8_2018_CAM_X264-CaixistaEstupido.mkv.mp4
@@ -6080,7 +6077,11 @@ URL=https://streamango.com/f/pkrtqtckdekrmeno/Solo_A_Star_Wars_Story_2018_
 
 
 
-
+type=video
+name=Satan's Slaves (2017) [COLOR=FF00FF00]INDO BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/k16xOaI9x5fqepxVwBwUJAozsW8.jpg
+date=2018-08-21
+URL=https://openload.co/f/f8P7xDpHj3c/Satans.Slaves.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 type=video
 name=Satan's Slaves (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XB9EO9L8t0ryipAoB9WlsxXOIl.jpg
@@ -6146,7 +6147,17 @@ URL=
 
 
 
-
+type=video
+name=The Only Living Boy in New York (2017) ENG WEB-DL.x264-FGT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8e6Q7N2qJ7utBrf6pyf3EiLADja.jpg
+date=2017-10-20
+URL=https://openload.co/f/OTg3g1vgdG0/The_Only_Living_Boy_in_New_York_%282017%29_%5B1080p%5D_WEB-DL_DD5_1_H264-FGT_mkv_mp4
+#https://openload.co/f/2FIdzfMEsV4/The.Only.Living.Boy.in.New.York.2017.WEB-DL.x264-FGT.mp4
+type=video
+name=The Only Living Boy in New York (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8e6Q7N2qJ7utBrf6pyf3EiLADja.jpg
+date=2018-08-21
+URL=https://streamango.com/f/lofsdlrmdbkbdtbc/The_Only_Living_Boy_in_New_York_2017_
 
 
 type=video
@@ -8750,7 +8761,18 @@ URL=
 
 
 
-
+type=video
+name=6 Days (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRbC0uRj1RDmF0JLon83il2dkR0.jpg
+date=2017-10-04
+URL=https://www.blazefile.co/embed-3gilqjbpg0qg.html
+#https://openload.co/f/Ib_9hObk2EY/6.Days.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/KC5z9jF5Tgg/6.Days.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+type=video
+name=6 Days (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRbC0uRj1RDmF0JLon83il2dkR0.jpg
+date=2018-08-21
+URL=https://openload.co/f/LacPCsXuOOQ/6_Days_%282017%29%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99_6_%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 
 
 type=video
@@ -9613,7 +9635,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-18
+date=2018-08-21
 URL=
 
 
@@ -9624,7 +9646,11 @@ URL=
 
 
 
-
+type=video
+name=Guardians of the Galaxy Vol. 2 (2017) [COLOR=FF00FF00]ENG IMAX BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg
+date=2018-08-21
+URL=https://openload.co/f/2iiqeItRJXg/Guardians_of_the_Galaxy_Vol_2_%28%282017%29%29_IMAX_%28%5B1080p%5D_BluRay_x265_10bit_Tigole%29_mkv.mp4
 
 type=video
 name=Big Trouble in Little China (1986) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
