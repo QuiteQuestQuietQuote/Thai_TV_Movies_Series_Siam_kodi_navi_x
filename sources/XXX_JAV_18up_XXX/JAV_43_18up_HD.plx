@@ -33,8 +33,201 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
-date=2018-06-08
+date=2018-08-22
 URL=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Bakugan
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/35205797ddc36f56.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180728/HeYND20P/index.m3u8
+
+type=video
+name=Original shaved girl Hoshino Kawasaki
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/272b0ac8fb07cfff.png
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180728/ExbUJVFs/index.m3u8
+
+type=video
+name=Young Japanese Baby, True White Love Pear
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/07ae01885d988934.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180728/sExJem81/index.m3u8
+
+type=video
+name=Mei Mizuhara
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/c31964311c5dd0f3.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180726/41fVjNwj/index.m3u8
+
+type=video
+name=MERU
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/e987c82bd5fcffe3.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180726/fe9S0ye4/index.m3u8
+
+type=video
+name=Yui Uehara
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/5e1c4829655ac0c8.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180726/2fH5SfDC/index.m3u8
+
+type=video
+name=Ayumu Ishihara
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/4cc4365ba3fa88c8.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180726/oJRyKM96/index.m3u8
+
+type=video
+name=Ayumu Ishihara
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/69ea6c23094f65ab.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180726/zUhYPB4y/index.m3u8
+
+
+type=video
+name=Mikuru Shiina
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/a0ee990eab513aef.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180726/e9P9ucGP/index.m3u8
+
+type=video
+name=Young Xiao Wei
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/f0101bec945bdfbb.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180727/g11McsDN/index.m3u8
+
+type=video
+name=Aoki enjoys Asian amateur sex in the bathtub
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/f8559c2dc71ed79a.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180727/dywEmZ6I/index.m3u8
+
+type=video
+name=Anna An City Amateur Asian Girl in Original Solo
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/b3334418fb1bd076.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180727/ourkZpyI/index.m3u8
+
+type=video
+name=Girl with glasses
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/412a1ad53b5ba422.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180727/wMmFM5oB/index.m3u8
+
+
+type=video
+name=Charm of the beautiful buttocks
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/e4c624446ec57239.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180727/MGAwBfOv/index.m3u8
+
+type=video
+name=Sexy Mature Woman Kinky Kohashi Saki
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/a5693ba888b0577f.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180727/naUvbsja/index.m3u8
+
+type=video
+name=Asian amateur Harumi Asano needs a good
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/accc17a8485d7db0.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180727/mMSfUKgw/index.m3u8
+
+type=video
+name=Asian Amateur Porn Special with Yuri Sato
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/470c467154d0b890.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180728/ynPnkYwe/index.m3u8
+
+type=video
+name=Amazing Asian Female Shimazaki Yuki
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/99dfd263b583f127.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180728/ynPnkYwe/index.m3u8
+
+
+type=video
+name=Asian amateur beauty curvaceous ass long
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/0b50219ec061006f.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180728/Ri1KA40u/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Harumi Asano
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/aa9ab6b344982195.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180726/nWHtkbzj/index.m3u8
+
+type=video
+name=Saki Kozakura
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/aa38e36911ae9439.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180726/FKJ0ZM76/index.m3u8
+
+type=video
+name=Rei Mizuna
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/1ff560fabf6ae57b.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180726/hwh3b1U5/index.m3u8
+
+type=video
+name=Kotone Amamiya
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201807/b7215310b23f04ab.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180726/tO0neFQc/index.m3u8
 
 
 
@@ -87,8 +280,6 @@ name=ABP-387 It Will Taste 100% Miracle Of Natural Girl
 thumb=http://javdub.com/wp-content/uploads/2015/10/3194.jpg
 date=2018-06-08
 URL=http://cdn.vodstream.xyz/q581/3675/037-hls/appid-3194/hls.m3u8
-
-
 
 
 

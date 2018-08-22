@@ -2660,8 +2660,11 @@ http://193.233.180.35:34040/udp/239.191.254.251:15285
 http://193.233.180.35:34040/udp/239.191.254.161:15285
 #EXTINF:-1,XXX18+_Brazzers
 http://193.233.180.35:34040/udp/239.191.254.170:15285
+#EXTINF:-1,XXX18+_Free-x tv
+http://79.133.120.87:81/udp/239.191.254.38:15285
 #EXTINF:-1,XXX18+_udp
 http://109.248.74.186:15999/udp/239.195.2.3:1234
+
 
 #EXTINF:-1,studio66tv_Channel 1
 http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel11/playlist.m3u8
@@ -2937,23 +2940,7 @@ http://145.129.238.137:7000/play/a00l
 #EXTINF:-1,Food Network_RU
 http://ott-cdn.ucom.am/s18/04.m3u8 
 
-#EXTINF:-1,mancaveiptv
-http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/2740.ts
-#EXTINF:-1,FANTASY TV 
-http://188.138.125.41/hls/FantasY55/index.m3u8 
 
-#EXTINF:-1,History Channel _romania
-http://zzyiptv.tk:3000/stream/romania/54 
-#EXTINF:-1,Discovery Channel 
-http://zzyiptv.tk:3000/stream/romania/55 
-#EXTINF:-1,Discovery Science 
-http://zzyiptv.tk:3000/stream/romania/56 
-#EXTINF:-1,National Geographic 
-http://zzyiptv.tk:3000/stream/romania/57 
-#EXTINF:-1,Digi World 
-http://zzyiptv.tk:3000/stream/romania/61 
-#EXTINF:-1,BBC Earth _romania
-http://zzyiptv.tk:3000/stream/romania/67 
 
 
 
@@ -2985,20 +2972,6 @@ http://fpttv.tk/iptv/hplus.php?id=bbc-ls
 http://fpttv.tk/iptv/mytvnet.php?id=afc
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE_php
 http://fpttv.tk/iptv/mytvnet.php?id=ngphd
-
-#EXTINF:-1,History HD_ts
-http://5.189.187.55:8000/live/Fadil/skype/1702.ts
-#EXTINF:-1,History HD_ts
-http://5.189.187.55:8000/live/Fadil/skype/1113.ts
-#EXTINF:-1,Discovery Science 
-http://5.189.187.55:8000/live/Fadil/skype/1122.ts
-#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE_ts
-http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1075.ts
-#EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_ts
-http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/773.ts
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CH_ts
-http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/767.ts
-
 
 
 
@@ -3043,7 +3016,7 @@ https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCNEWS.png",BBC NEWS_HD
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ia/180712050027.png",BBC NEWS_HD
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226051/01.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL
 http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_480p/index.m3u8

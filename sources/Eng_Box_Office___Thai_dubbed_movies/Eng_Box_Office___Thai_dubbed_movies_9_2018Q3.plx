@@ -238,12 +238,7 @@ URL=https://openload.co/f/cxYcTTYry-A/hereditary.2018.1080p.web.dl.dd5.1.hevc.x2
 #https://openload.co/f/4BYmDKGv1PQ/Hereditary_2018_720p_NEW_HDCAM_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/yo6qEXwj5Bs/Hereditary_2018_HDCAM_ENG_x264-SugarTits_SeeHD.mkv.mp4
 
-type=video
-name=Loving Pablo (2018) ESP 1080p_WEB-DL_DD5_1_H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4G6vvAvXDzHZl6rv4oHrmGBCIZ.jpg
-date=2018-06-22
-URL=https://openload.co/f/kSQxcBn9VR0/Loving_Pablo_2017_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
-#https://openload.co/f/PH6BJQ3uQLA/Loving_Pablo.2017.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+
 
 
 
@@ -1282,15 +1277,35 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-20
+date=2018-08-22
 URL=
 
 
 
 
 
+type=video
+name=In Darkness (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5w3fkua6BYjDzs0bbOXYbWCrlF.jpg
+date=2018-08-22
+URL=https://openload.co/f/gfo5l2BJSUE/in.darkness.2018.1080p.bluray.x264-rcdivx%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/VzkWr4gndNQ/in.darkness.2018.1080p.bluray.x264-rcdivx%5BEtHD%5D.mkv   MKV6.6GB
+#https://openload.co/f/fbYQm0QA3sE/in.darkness.2018.720p.bluray.x264-rcdivx%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/dt0k_mvHKLk/in.darkness.2018.720p.bluray.x264-rcdivx%5BEtHD%5D.mkv   MKV4.4GB
 
+type=video
+name=Loving Pablo (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFc8RCsQGQv016ELpggiEKoBNAe.jpg
+date=2018-08-22
+URL=https://openload.co/f/nZoJQGXxtBs/Loving_Pablo.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/kSQxcBn9VR0/Loving_Pablo_2017_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+#https://openload.co/f/PH6BJQ3uQLA/Loving_Pablo.2017.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 
+type=video
+name=Parmanu: The Story of Pokhran (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/58X8iBxgT5n4aVBLkDFSnOrIHlD.jpg
+date=2018-08-22
+URL=https://openload.co/f/LYycaLWGldw/Parmanu.The.Story.Of.Pokhran.2018.1080p.BluRay.x264.mp4
 
 type=video
 name=Aardvark (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5735,6 +5750,16 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tLATFdlft7syZo2dK3CujPWxw
 date=2018-08-20
 URL=https://openload.co/f/JcT8xkxONaY/Boar.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
+type=video
+name=Gogol. Viy (2018) [COLOR=FF00FF00]RUS EngSub BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3ZVkRfqX3cviDOLPOliON9Tkzl.jpg
+date=2018-08-22
+URL=https://openload.co/f/UopBL7MbZ80/Gogol.Viy.2018.ENGSUB.720p.BluRay.DTS.x264-HDH.mp4
+
+
+
+
+
 
 
 
@@ -5743,7 +5768,7 @@ URL=https://openload.co/f/JcT8xkxONaY/Boar.2017.720p.BluRay.H264.AAC-RARBG.mp4
 type=video
 name=
 thumb=
-date=2018-08-20
+date=2018-08-22
 URL=
 
 type=video
@@ -5988,10 +6013,11 @@ URL=https://streamango.com/f/kpktebfparrekqcd/Sicario_Day_of_the_Soldado_2018_2_
 
 
 type=video
-name=Incredibles 2 (2018) ENG HDTC.XViD.AC3-ETRG
+name=Incredibles 2 (2018) ENG 720p_NEW_HDCAM_X264_AC3-24HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL9Uz2vq93vi20oxZEBBaSs4w8U.jpg
-date=2018-07-13
-URL=https://openload.co/f/qblTDwlSOds/Incredibles.2.2018.HDTC.XViD.AC3-ETRG.avi.mp4
+date=2018-08-22
+URL=https://openload.co/f/U8SRgkjAEwA/Incredibles_2_2018_720p_NEW_HDCAM_X264_AC3-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/qblTDwlSOds/Incredibles.2.2018.HDTC.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/k9SXQsc9kGg/The_Incredibles_2.2018.NEW.HDCAM.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/_hLpk18cxmo/The_Incredibles_2_2018_FULL_HDCAM_x264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/-TddfwsIN90/Incredibles.2.2018.New.720p.HDCAM.NO.LOGO.X264.AC3.Fugitive.mkv.mp4

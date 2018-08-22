@@ -33,8 +33,28 @@ URL=script.module.youtube.dl
 type=video
 name=
 thumb=
-date=2018-06-15
+date=2018-08-22
 URL=
+
+
+
+
+
+
+
+
+
+type=video
+name=SDMT-988 Couples in the Mirror, let the proud girlfriend be sleeping
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201808/3daaa54376747829.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180821/ua4qAMhB/index.m3u8
+
+
+
+
+
+
 
 type=video
 name=[SMDV-11] S Model DV 11
