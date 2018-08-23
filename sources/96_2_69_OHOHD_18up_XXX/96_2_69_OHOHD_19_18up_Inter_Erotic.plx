@@ -95,20 +95,48 @@ name=
 thumb=
 date=2017-10-30
 URL=
+
 type=video
 name=
 thumb=
-date=2017-10-30
+date=2018-08-23
 URL=
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Erotic Ghost Story (1987)
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jMLZn6Xh2cIz5DOgLxvvTsZkCf.jpg
+date=2018-08-23
+URL=http://entervideo.net/watch/404f23187106ba6
+#https://openload.co/embed/7B5makfQWZk
+
+type=video
+name=Erotic Ghost Story II (1991)
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KDmEsawKF9Gve2QfC9lbIlCNh6.jpg
+date=2018-08-23
+URL=http://entervideo.net/watch/8451f05043eddd8
+#https://openload.co/embed/YXUv6mQAs0A
+
 type=video
 name=Erotic Ghost Story III (1992)
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAnK8YInicn0CgbvtYkJPVq5uma.jpg
-date=2018-08-15
-URL=https://openload.co/f/-MEt-LaIz5o/Erotic_Ghost_Story_III.1992.SUB.WEB-DL.x264.mp4
+date=2018-08-23
+URL=http://entervideo.net/watch/d2b29dc3c6eb806
+#https://openload.co/f/-MEt-LaIz5o/Erotic_Ghost_Story_III.1992.SUB.WEB-DL.x264.mp4
 
 type=video
 name=Russian Lolita (2007)

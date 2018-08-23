@@ -161,13 +161,7 @@ URL=https://openload.co/f/pul-OiRrhII/Equalizer_2_2018_720p_HD-TS_x264-24HD_SeeH
 #https://openload.co/f/cz3TOL1pxMU/The.Equalizer.2.2018.720p.HDCAM.1XBET%5BWATERMARKED%5D.mp4
 #https://openload.co/f/nZLFCvX2zWM/The_Equalizer_2_2018_720p_low_CAMRip_X264_AC3_BlckNips.E.mp4
 
-type=video
-name=Adrift (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gLDeADaETvwQlQow5szlyuhLbj.jpg
-date=2018-08-14
-URL=https://openload.co/f/V6SpeUeBgIY/Adrift.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/crK40YfKElQ/Adrift.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/4x6JpEt4FZA/Adrift.2018.720p.HDCAM.1XBETmp4
+
 
 type=video
 name=Uncle Drew (2018) ENG CAM-MaTinE
@@ -1283,6 +1277,19 @@ URL=
 
 
 
+
+
+type=video
+name=Adrift (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gLDeADaETvwQlQow5szlyuhLbj.jpg
+date=2018-08-23
+URL=https://openload.co/f/5u5zXSDXUPg/adrift.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/Di2Gqo-20U0/adrift.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/bkgAcjqVcbo/adrift.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/K81IGOSa3fE/Adrift.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/V6SpeUeBgIY/Adrift.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/crK40YfKElQ/Adrift.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/4x6JpEt4FZA/Adrift.2018.720p.HDCAM.1XBETmp4
 
 type=video
 name=In Darkness (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2837,14 +2844,7 @@ URL=https://www.blazefile.co/embed-qtn3httyosx0.html
 #https://www.blazefile.co/embed-1wcsp56ttt3r.html   720
 #https://uptobox.com/t7pop0ks6ekh   720
 
-type=video
-name=Suicide Squad: Hell to Pay (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqnqzJ2dVq4tdK1ICpWUVKSFHuR.jpg
-date=2018-04-16
-URL=https://openload.co/f/vxSgygGVQ2U/Suicide.Squad.Hell.to.Pay.2018.1080p.BluRay.x264-SADPANDA.mkv.mp4
-#https://openload.co/f/2-Z6rDgyWxE/Suicide.Squad.Hell.to.Pay.2018.1080p.BluRay.x264.DTS-MTeam.mkv.mp4
-#https://openload.co/f/vhiiMEf-s9Q/Suicide.Squad.Hell.to.Pay.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/5fvzuSCTRSY/Suicide.Squad.Hell.to.Pay.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
+
 
 type=video
 name=89 (2017)
@@ -4303,14 +4303,7 @@ date=2017-11-30
 URL=https://openload.co/f/R5Bp567SYVU/The.Party.2017.1080p.BluRay.x264-JustWatch.mkv.mp4
 #https://www.blazefile.co/embed-zi4wp00eqwnt.html   720
 
-type=video
-name=Detroit (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7APLVpsGzXPJw16ZuBtXICxq8B9.jpg
-date=2017-11-30
-URL=https://www.blazefile.co/embed-5a2qza2ljynp.html
-#https://openload.co/f/Tf9pqu0f13c/Detroit.2017.720p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/fiGn17hslMI/Detroit.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/-k0NTJi1-Hk/Detroit.2017.CAM.x264-THESTiG.mkv.mp4
+
 
 type=video
 name=Home Again (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4588,14 +4581,10 @@ URL=https://www.blazefile.co/embed-a90mc72athte.html
 #https://openload.co/f/5vQHB3YcUJ8/ingrid.goes.west.2017.1080p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/l8ENhc-dVME/Ingrid.Goes.West.2017.720p.BluRay.x264-GECKOS.mkv.mp4
 
-# 2772370
-type=video
-name=The Belko Experiment (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=http://image.tmdb.org/t/p/w500/knAqP7qDos8sWQpmPiGYFYwbdcK.jpg
-URL=https://www.blazefile.co/embed-280jz2s8ir9f.html
-player=default
-rating=-1.00
-description=In a twisted social experiment, a group of 80 Americans are locked in their high-rise corporate office in Bogotá, Colombia and ordered by an unknown voice coming from the company's intercom system to participate in a deadly game of kill or be killed./description
+
+
+
+
 
 # 2771591
 type=video
@@ -5756,7 +5745,11 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3ZVkRfqX3cviDOLPOliON9Tkz
 date=2018-08-22
 URL=https://openload.co/f/UopBL7MbZ80/Gogol.Viy.2018.ENGSUB.720p.BluRay.DTS.x264-HDH.mp4
 
-
+type=video
+name=Crow (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT2UXZBPkGyqlnDLrxfL30I4DRI.jpg
+date=2018-08-23
+URL=https://openload.co/f/feP06IV4INg/Crow.2016.720p.BluRay.H264.AAC-RARBG.mp4
 
 
 
@@ -5768,7 +5761,7 @@ URL=https://openload.co/f/UopBL7MbZ80/Gogol.Viy.2018.ENGSUB.720p.BluRay.DTS.x264
 type=video
 name=
 thumb=
-date=2018-08-22
+date=2018-08-23
 URL=
 
 type=video
@@ -6013,10 +6006,14 @@ URL=https://streamango.com/f/kpktebfparrekqcd/Sicario_Day_of_the_Soldado_2018_2_
 
 
 type=video
-name=Incredibles 2 (2018) ENG 720p_NEW_HDCAM_X264_AC3-24HD_SeeHD
+name=Incredibles 2 (2018) ENG 720p.TS
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL9Uz2vq93vi20oxZEBBaSs4w8U.jpg
-date=2018-08-22
-URL=https://openload.co/f/U8SRgkjAEwA/Incredibles_2_2018_720p_NEW_HDCAM_X264_AC3-24HD_SeeHD.mkv.mp4
+date=2018-08-23
+URL=https://openload.co/f/CHeGGWwWQpg/Incredibles.2.2018.720p.TS.mp4
+#https://openload.co/f/rJku_Twltkg/Incredibles_2_2018_720p_HDTC_x264_MW.mp4
+#https://openload.co/f/U8SRgkjAEwA/Incredibles_2_2018_720p_NEW_HDCAM_X264_AC3-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/B1uiv7DCobk/Incredibles.2.2018.NOLOGO.720p.TELECINE.mkv.mp4
+#https://openload.co/f/GGtdcDy2JpQ/Incredibles_2_2018_720p_NEW_HDCAM_X264_AC3.mkv.mp4
 #https://openload.co/f/qblTDwlSOds/Incredibles.2.2018.HDTC.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/k9SXQsc9kGg/The_Incredibles_2.2018.NEW.HDCAM.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/_hLpk18cxmo/The_Incredibles_2_2018_FULL_HDCAM_x264-24HD_SeeHD.mkv.mp4
@@ -6173,6 +6170,22 @@ URL=
 
 
 
+
+type=video
+name=Suicide Squad: Hell to Pay (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqnqzJ2dVq4tdK1ICpWUVKSFHuR.jpg
+date=2018-04-16
+URL=https://openload.co/f/vxSgygGVQ2U/Suicide.Squad.Hell.to.Pay.2018.1080p.BluRay.x264-SADPANDA.mkv.mp4
+#https://openload.co/f/2-Z6rDgyWxE/Suicide.Squad.Hell.to.Pay.2018.1080p.BluRay.x264.DTS-MTeam.mkv.mp4
+#https://openload.co/f/vhiiMEf-s9Q/Suicide.Squad.Hell.to.Pay.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/5fvzuSCTRSY/Suicide.Squad.Hell.to.Pay.2018.720p.BluRay.x264.DTS-MT.mkv.mp4
+type=video
+name=Suicide Squad: Hell to Pay (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqnqzJ2dVq4tdK1ICpWUVKSFHuR.jpg
+date=2018-08-23
+URL=https://streamango.com/f/ckocflamnbrqselb/Suicide_Squad_Hell_to_Pay_2018_Suicide_Squad_Hell_to_Pay_2018_
+
+
 type=video
 name=The Only Living Boy in New York (2017) ENG WEB-DL.x264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8e6Q7N2qJ7utBrf6pyf3EiLADja.jpg
@@ -6238,26 +6251,7 @@ date=2018-08-20
 URL=https://streamango.com/f/rrkrlnllaqetpsto/To_All_the_Boys_I_ve_Loved_Before_2018_
 
 
-type=video
-name=I Kill Giants (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuyAtPuBiKhsmXCAozfrFyMAdc4.jpg
-date=2018-05-16
-URL=https://www.blazefile.co/embed-ut19tb40mgc9.html
-#http://uptobox.com/x7j3zhae4c1s
-#https://openload.co/f/OKSV7_1vs4Q/I_Kill_Giants_%282017%291080p_BluRay_x264-ROVERS.Ganool.im.mkv.mp4
-#https://openload.co/f/d8x8cVsE9kg/I.Kill.Giants.2017.1080p.BR_SeeHD.mp4
-#https://openload.co/f/5xdkEh5mkms/I.Kill.Giants.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
-#https://openload.co/f/VnfYXanvgPE/I.Kill.Giants.2017.720p.BluRay.x264-ROVERS.mkv.mp4
-#https://openload.co/f/SYhcD0EeGRU/I_Kill_Giants_2017_1080p_WEB_DL_DD5_1_H264_CMRG.mp4
-#https://openload.co/f/4V0YxSgSkWs/I_Kill_Giants720pHD.WEB-DL_SeeHD.mp4
-#https://openload.co/f/vtrcS29RnhE/I.Kill.Giants.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/dCDmN6NPscA/I.Kill.Giants.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/1U_HAEH24WM/I_Kill_Giants720pHD.WEB-DL_SeeHD.mp4
-type=video
-name=I Kill Giants (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuyAtPuBiKhsmXCAozfrFyMAdc4.jpg
-date=2018-08-18
-URL=https://streamango.com/f/bfecefcenoftedlo/I_Kill_Giants_2018_
+
 
 
 type=video
@@ -8788,6 +8782,56 @@ URL=
 
 
 type=video
+name=Detroit (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7APLVpsGzXPJw16ZuBtXICxq8B9.jpg
+date=2017-11-30
+URL=https://www.blazefile.co/embed-5a2qza2ljynp.html
+#https://openload.co/f/Tf9pqu0f13c/Detroit.2017.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/fiGn17hslMI/Detroit.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/-k0NTJi1-Hk/Detroit.2017.CAM.x264-THESTiG.mkv.mp4
+type=video
+name=Detroit (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7APLVpsGzXPJw16ZuBtXICxq8B9.jpg
+date=2018-08-23
+URL=https://openload.co/f/GKKSCpHqL-s/Detroit_%282017%29%E0%B8%88%E0%B8%A5%E0%B8%B2%E0%B8%88%E0%B8%A5%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94.mp4
+
+
+type=video
+name=The Belko Experiment (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/faJK0dP3S92kQoKtO4LZMjy41kf.jpg
+date=2018-08-23
+URL=https://www.blazefile.co/embed-280jz2s8ir9f.html
+type=video
+name=The Belko Experiment (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/faJK0dP3S92kQoKtO4LZMjy41kf.jpg
+date=2018-08-23
+URL=https://openload.co/f/OJznFbHEQqE/The_Belko_Experiment_%282017%29%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AD%E0%B8%AD%E0%B8%9F%E0%B8%9F%E0%B8%B4%E0%B8%A8_%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B8%86%E0%B9%88%E0%B8%B2.mp4
+
+
+type=video
+name=I Kill Giants (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuyAtPuBiKhsmXCAozfrFyMAdc4.jpg
+date=2018-05-16
+URL=https://www.blazefile.co/embed-ut19tb40mgc9.html
+#http://uptobox.com/x7j3zhae4c1s
+#https://openload.co/f/OKSV7_1vs4Q/I_Kill_Giants_%282017%291080p_BluRay_x264-ROVERS.Ganool.im.mkv.mp4
+#https://openload.co/f/d8x8cVsE9kg/I.Kill.Giants.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/5xdkEh5mkms/I.Kill.Giants.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
+#https://openload.co/f/VnfYXanvgPE/I.Kill.Giants.2017.720p.BluRay.x264-ROVERS.mkv.mp4
+#https://openload.co/f/SYhcD0EeGRU/I_Kill_Giants_2017_1080p_WEB_DL_DD5_1_H264_CMRG.mp4
+#https://openload.co/f/4V0YxSgSkWs/I_Kill_Giants720pHD.WEB-DL_SeeHD.mp4
+#https://openload.co/f/vtrcS29RnhE/I.Kill.Giants.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/dCDmN6NPscA/I.Kill.Giants.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/1U_HAEH24WM/I_Kill_Giants720pHD.WEB-DL_SeeHD.mp4
+type=video
+name=I Kill Giants (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuyAtPuBiKhsmXCAozfrFyMAdc4.jpg
+date=2018-08-23
+URL=https://openload.co/f/kzHvH15X_kM/I_Kill_Giants_%282018%29%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A5%E0%B9%89%E0%B8%A1%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C.mp4
+#https://streamango.com/f/bfecefcenoftedlo/I_Kill_Giants_2018_
+
+
+type=video
 name=6 Days (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRbC0uRj1RDmF0JLon83il2dkR0.jpg
 date=2017-10-04
@@ -8815,8 +8859,9 @@ URL=https://openload.co/f/CyaZhAF_jRM/Super.Troopers.2.2018.1080p.BR_SeeHD.mp4
 type=video
 name=Super Troopers 2 (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/57SZgdugVClIy22rfnANeBJ5KsN.jpg
-date=2018-08-20
-URL=https://openload.co/f/_r5TwhXgT4I/Super_Troopers_2_%282018%29Super_Troopers_2_%282018%29.mp4
+date=2018-08-23
+URL=https://openload.co/f/5AlbpT43Pu0/Super_Troopers_2_%282018%29%E0%B8%8B%E0%B8%B8%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%97%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C_2.mp4
+#https://openload.co/f/_r5TwhXgT4I/Super_Troopers_2_%282018%29Super_Troopers_2_%282018%29.mp4
 
 
 type=video
@@ -9661,7 +9706,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-21
+date=2018-08-23
 URL=
 
 
@@ -9669,8 +9714,11 @@ URL=
 
 
 
-
-
+type=video
+name=Big Hero 6 (2014) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gLu47Zw5ertuFTZaxXOvNfy78T.jpg
+date=2018-08-23
+URL=https://openload.co/f/KRDxAKeCD9g/Big_Hero_6.2014.HD_1080p.mp4
 
 type=video
 name=Guardians of the Galaxy Vol. 2 (2017) [COLOR=FF00FF00]ENG IMAX BR 1080p[/COLOR]
