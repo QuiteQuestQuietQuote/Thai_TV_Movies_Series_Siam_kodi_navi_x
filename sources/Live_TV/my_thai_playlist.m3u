@@ -2644,7 +2644,7 @@ http://59.124.220.46:554/live/tv284198321.stream/index.m3u8
 
 
 
-#EXTINF:-1,XXX18+_play
+#EXTINF:-1,XXX18+_nuart tv
 http://82.209.207.119:8905/play/a00l?m3u8
 #EXTINF:-1,XXX18+_udp
 http://5.137.42.51:1234/udp/225.54.23.158:5000
@@ -2684,8 +2684,14 @@ http://37.9.0.196:9002/playlist.m3u8
 #EXTINF:-1,CANDY
 http://6bc79edb.ulkakak.pw/iptv/CHPLNSPSC3DXKY/923/index.m3u8
 
-
-
+#EXTINF:-1 group-title="xxx" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/07/Varmint-TV.png",varmint1
+http://212.47.244.173:8081/live/varmint1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDQ6Mzk6NDEgUE0maGFzaF92YWx1ZT1samwxMm1NSVpwejNhU1cwdWpEYzh3PT0mdmFsaWRtaW51dGVzPTMw
+#EXTINF:-1 group-title="xxx" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Phoenix-Marie-TV.png",phoenixmarie
+http://212.47.244.173:8081/live/phoenixmarie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDQ6NDE6NDIgUE0maGFzaF92YWx1ZT1HTWcya1RBalJQZm8wNktVQzFZNG53PT0mdmFsaWRtaW51dGVzPTMw
+#EXTINF:-1 group-title="xxx" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Hustler-HD-18.jpg",hustlerhd
+http://212.47.244.173:8081/live/hustlerhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDQ6NDQ6MDMgUE0maGFzaF92YWx1ZT1XNlJ3ck1QOXhjejM4ZHo3dXhSdU5nPT0mdmFsaWRtaW51dGVzPTMw
+#EXTINF:-1 group-title="xxx" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Pink-Erotic-TV.jpg",fap
+http://212.47.244.173:8081/live/fap/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDQ6NDg6MDQgUE0maGFzaF92YWx1ZT1JWVVjdmswcXg4elczeU80SFFERHpnPT0mdmFsaWRtaW51dGVzPTMw
 
 #EXTINF:-1,Chinese1
 http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8

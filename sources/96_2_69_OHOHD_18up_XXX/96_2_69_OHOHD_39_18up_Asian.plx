@@ -52,6 +52,127 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=52xxxxxxxxxxxxxxxxxxxxA Relationship (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/A-Relationship-2017.jpg
+date=2018-08-24
+URL=https://streamcherry.com/embed/betcqnfndtqmaeap/
+
+type=video
+name=Eolin Cheoje 2 (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Eolin-Cheoje-2-2018.jpg
+date=2018-08-24
+URL=https://streamcherry.com/embed/ctckpkrtlfmfalob/
+
+type=video
+name=Delicious Swapping (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Delicious-Swapping-2018.jpg
+date=2018-08-24
+URL=https://streamcherry.com/embed/ttpemsqaocenlrcl/
+
+type=video
+name=Yeopjibnunadeul (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Yeopjibnunadeul-2018-Uncut.jpg
+date=2018-08-24
+URL=https://streamcherry.com/embed/ecmselnkkfqonnkt/
+
+type=video
+name=Flirting At Apartment Complex 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Flirting-At-Apartment-Complex-2-2017.jpg
+date=2018-08-24
+URL=https://streamcherry.com/embed/emqtmopeqtbrparm/
+
+
+type=video
+name=Famous University Educated Tutor Loves Dirty Things (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Famous-University-Educated-Tutor-Loves-Dirty-Things-2017.jpg
+date=2018-08-24
+URL=https://streamcherry.com/embed/tkbopralpdcfqbtn/
+
+type=video
+name=Midarayome 4 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Midarayome-4-2017.jpg
+date=2018-08-24
+URL=https://streamcherry.com/embed/dnqlptennstctanr/
+
+type=video
+name=Jeongsa Jamaeui Yuhog (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Jeongsa-Jamaeui-Yuhog-2018.jpg
+date=2018-08-24
+URL=https://streamcherry.com/embed/pplmnmoctccmfrkt/
+
+type=video
+name=A I Sexdoll (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/A-I-Sexdoll-2018.jpg
+date=2018-08-24
+URL=https://streamcherry.com/embed/mdrmqnfefsnmqkbo/
+
+type=video
+name=Eolin Cheoje (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Eolin-Cheoje-2018-Uncut.jpg
+date=2018-08-24
+URL=https://streamcherry.com/embed/rrbfklppfkbeefml/
+
+
+type=video
+name=Chaghan Jangmonimdeulgwaui Jeongsa (2018) [De] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Chaghan-Jangmonimdeulgwaui-Jeongsa-2018-De.jpg
+date=2018-08-24
+URL=https://streamcherry.com/embed/lmctnmlalsmlasod/
+
+type=video
+name=Brother In Law 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Brother-In-Law-2-2017.jpg
+date=2018-08-24
+URL=https://streamcherry.com/embed/tqakroknnalmtrtb/
+
+type=video
+name=Farmers Of Sisters (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Farmers-Of-Sisters-2017.jpg
+date=2018-08-24
+URL=https://streamcherry.com/embed/lllalnbtaobdpsna/
+
+type=video
+name=Mamano Rabusutori (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Mamano-Rabusutori-2017.jpg
+date=2018-08-24
+URL=https://streamcherry.com/embed/foaksfmpdnokrdob/
+
+type=video
+name=Secret Behind Popularity Of Body Spa For Men (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Secret-Behind-Popularity-Of-Body-Spa-For-Men-2017.jpg
+date=2018-08-24
+URL=https://streamcherry.com/embed/brspfadktrcsdkte/
+
+
+
+
+
+
+
+
+
+
+
 type=video
 name=37xxxxxxxxxxxxxxxxxxxxCreampie Challenge Throughout Japan (2017)
 thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Creampie-Challenge-Throughout-Japan-2017.jpg
