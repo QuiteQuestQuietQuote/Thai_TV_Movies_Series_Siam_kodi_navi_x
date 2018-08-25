@@ -1261,7 +1261,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-22
+date=2018-08-25
 URL=
 
 
@@ -1273,11 +1273,54 @@ URL=
 
 
 
+
+type=video
+name=Stephanie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/saH984W3ZGjRX0NMCEsuKh8VUP9.jpg
+date=2018-08-25
+URL=https://openload.co/f/RBqeXwT_pdY/stephanie.2017.1080p.bluray.x264-getit.mkv.mp4
+#https://openload.co/f/aHCCmGw0SHA/stephanie.2017.720p.bluray.x264-getit.mkv.mp4
+
+type=video
+name=Utopians (2016) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/os8ezpT9twtMgYKzSw1TbnFpRjU.jpg
+date=2018-08-25
+URL=https://openload.co/f/3J0fCk_48nY/Utopians_2015_CHINESE_1080p_BluRay_x264_DD5_1_FGT.mp4
+
+type=video
+name=Parks (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsrVwiD8J0iU9VJCFcQfY4tKXG3.jpg
+date=2018-08-25
+URL=https://openload.co/f/irjwBDVs1kY/parks.2017.1080p.bluray.x264-regret.mkv.mp4
+
+type=video
+name=Hereditary (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GFPuL14eXi66V96xBWY73Y9PfR.jpg
+date=2018-08-25
+URL=https://uptobox.com/cvt9i864nibi
+#https://www.rapidvideo.com/e/FUMJBC2ZR9
+#https://openload.co/embed/qQiWN1eSBV8/GHPHEREDITAY80.Ganool.si.mkv
+#https://openload.co/f/IBJwX-LdjjM/hereditary.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/Veisb1pNr_Q/hereditary.2018.1080p.bluray.x264-geckos.mkv   MKV9.8GB
+#https://openload.co/f/LV0PRaB4-Kg/Hereditary.2018.720p.BluRay.H264.AACRARBG.mp4
+#https://openload.co/f/xz3LKpciiHs/hereditary.2018.720p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/FzGSD5pB9wU/hereditary.2018.720p.bluray.x264-geckos.mkv   MKV5.5GB
+#https://openload.co/f/cxYcTTYry-A/hereditary.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/Eg87e4DCvO8/Hereditary.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/p673QkMs-A4/Hereditary.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/-WDaGQEWX78/Hereditary.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/hVMOOikOXzY/Hereditary.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/4BYmDKGv1PQ/Hereditary_2018_720p_NEW_HDCAM_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/yo6qEXwj5Bs/Hereditary_2018_HDCAM_ENG_x264-SugarTits_SeeHD.mkv.mp4
+
 type=video
 name=Adrift (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gLDeADaETvwQlQow5szlyuhLbj.jpg
-date=2018-08-23
-URL=https://openload.co/f/5u5zXSDXUPg/adrift.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+date=2018-08-25
+URL=https://uptobox.com/00nbvcpmx2ch
+#https://www.rapidvideo.com/e/FULREPR5RD
+#https://openload.co/embed/G8UlruIEIDw/GHPADRIFT80.Ganool.si.mkv
+#https://openload.co/f/5u5zXSDXUPg/adrift.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/Di2Gqo-20U0/adrift.2018.1080p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/bkgAcjqVcbo/adrift.2018.1080p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/K81IGOSa3fE/Adrift.2018.720p.BluRay.H264.AAC-RARBG.mp4
@@ -5766,20 +5809,6 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGxK5FgBB2u8lFWf4Lx7dT8t1o
 date=2018-08-24
 URL=https://openload.co/f/uSaIYnTNgVY/Cardinals.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
 
-type=video
-name=Hereditary (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GFPuL14eXi66V96xBWY73Y9PfR.jpg
-date=2018-08-24
-URL=https://openload.co/f/LV0PRaB4-Kg/Hereditary.2018.720p.BluRay.H264.AACRARBG.mp4
-#https://openload.co/f/xz3LKpciiHs/hereditary.2018.720p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/FzGSD5pB9wU/hereditary.2018.720p.bluray.x264-geckos.mkv   MKV5.5GB
-#https://openload.co/f/cxYcTTYry-A/hereditary.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/Eg87e4DCvO8/Hereditary.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/p673QkMs-A4/Hereditary.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/-WDaGQEWX78/Hereditary.2018.720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/hVMOOikOXzY/Hereditary.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
-#https://openload.co/f/4BYmDKGv1PQ/Hereditary_2018_720p_NEW_HDCAM_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/yo6qEXwj5Bs/Hereditary_2018_HDCAM_ENG_x264-SugarTits_SeeHD.mkv.mp4
 
 
 
@@ -6001,10 +6030,11 @@ URL=https://streamango.com/f/rsldanklbtskknbq/Future_World_2018_
 
 
 type=video
-name=Ant-Man and the Wasp (2018) ENG SeeHD
+name=Ant-Man and the Wasp (2018) ENG TS
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv1AWImgx386ULjcf62VYaW8zSt.jpg
-date=2018-08-24
-URL=https://openload.co/f/I0uTwZVoRMY/AntMan_and_the_Wasp_SeeHD.mkv.mp4
+date=2018-08-25
+URL=https://openload.co/f/AJOQydE4Mk8/Antman_and_the_Wasp_2018.TS.mp4
+#https://openload.co/f/I0uTwZVoRMY/AntMan_and_the_Wasp_SeeHD.mkv.mp4
 #https://openload.co/f/7VWHw2S6ccM/AntMan_and_the_Wasp_2018_720p_NEW_HDCAM_X264_SeeHD.mkv.mp4
 #https://openload.co/f/snZBHMSAjuc/Ant-Man_and_The_Wasp_2018_NEW_720p_HDCAM_x264_AC3-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/kpCyHOUMNk0/Ant-Man_and_The_Wasp_%282018%29_NEW-HDCAM_English_SpaceMov.mp4
