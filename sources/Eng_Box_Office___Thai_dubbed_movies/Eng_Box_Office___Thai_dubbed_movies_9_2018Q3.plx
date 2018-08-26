@@ -61,9 +61,9 @@ URL=http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m
 
 type=video
 name=
-thumb=https://cdn.fmovies.io/cover/lu-over-the-wall.png
+thumb=
 date=2018-08-10
-URL=https://vidcloud.icu/streaming.php?id=MTY5NDY5&title=Lu%20Over%20the%20Wall
+URL=
 
 type=video
 name=
@@ -76,7 +76,7 @@ URL=https://www.rapidvideo.com/e/FTYWT8PZK3
 type=video
 name=
 thumb=
-date=2018-08-20
+date=2018-08-26
 URL=
 
 
@@ -84,6 +84,13 @@ URL=
 
 
 
+
+
+type=video
+name=The Happytime Murders (2018) ENG 720p.HDCAM.1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWxkur51srfVnMn2QOFjE7mbq6h.jpg
+date=2018-08-26
+URL=https://openload.co/f/NKbJ8AueDe4/The.Happytime.Murders.2018.720p.HDCAM.1XBET_SeeHD.mp4
 
 type=video
 name=Crazy Rich Asians (2018) ENG CAM.1XBET_SeeHD
@@ -1272,7 +1279,13 @@ URL=
 
 
 
-
+type=video
+name=Ghost Stories (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7a0sai9k5jr7YJRP5S3YIDErMVY.jpg
+date=2018-08-26
+URL=https://openload.co/f/QiDlu7kD8Go/Ghost.Stories.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/t-u_FGUu4lA/Ghost.Stories.2017.1080p.BluRay.X264-AMIABLE.mkv   MKV6.6GB
+#https://openload.co/f/bfRJJc7xwgo/Ghost.Stories.2017.720p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
 name=Stephanie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1320,6 +1333,7 @@ date=2018-08-25
 URL=https://uptobox.com/00nbvcpmx2ch
 #https://www.rapidvideo.com/e/FULREPR5RD
 #https://openload.co/embed/G8UlruIEIDw/GHPADRIFT80.Ganool.si.mkv
+#https://openload.co/f/NPUUIIA3OmI/Adrift.2018.1080p.BluRay_SeeHD.mp4
 #https://openload.co/f/5u5zXSDXUPg/adrift.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/Di2Gqo-20U0/adrift.2018.1080p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/bkgAcjqVcbo/adrift.2018.1080p.bluray.x264-geckos.mkv.mp4
@@ -2663,17 +2677,7 @@ URL=https://www.blazefile.co/embed-llfdtlzo356s.html
 #https://uptobox.com/um98yc46el9k
 #https://openload.co/f/Ol46GADQZz4/Fishbowl.California.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Please Stand By (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg
-date=2018-05-05
-URL=https://www.blazefile.co/embed-q3nei6dzxgdc.html
-#https://uptobox.com/b73i4scid5qs
-#https://uptobox.com/69xczfrwrvd5   720
-#https://openload.co/f/OaXtjnVl7iE/Please.Stand.By.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
-#https://openload.co/f/cb1a-rB_euw/Please.Stand.By.2017.720p.BRRip.850MB.MkvCage.Com.mkv.mp4
-#https://openload.co/f/Y-eSumROwkE/Please.Stand.By.2017.BRRip.AC3.X264-CMRG.mkv.mp4
-#https://openload.co/f/pxILgMUOINM/Please_Stand_By.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 type=video
 name=Zombies (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5011,14 +5015,6 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOsJaWgUGIjCbqz8WVYgo5fNqf
 date=2017-12-20
 URL=https://www.blazefile.co/embed-z8etbijph8ls.html
 
-type=video
-name=Rebel in the Rye (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjmMtBIqg65MPOJXOtoLCKYjVUn.jpg
-date=2017-12-24
-URL=https://www.blazefile.co/embed-lfk9504cbtzq.html
-#https://openload.co/f/-zrXaN0ZkDk/Rebel.in.the.Rye.2017.LIMITED.720p.BluRay.x264-GECKOS.mkv
-#https://openload.co/f/Dz3XigJcYv8/Rebel_In_the_Rye_2017.HDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/eVz83l-nx4c/Rebel_in_the_Rye_%282017%29_%5B1080p%5D_%5BBluRay%5D_%5B1GB%5D.mp4
 
 
 
@@ -5797,11 +5793,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tI1BO7YUGUBFlTnVGZN0wPnC4Y
 date=2018-08-24
 URL=https://openload.co/f/TI25Jb0OD2A/Skif_2018_720p_BluRay_DD5.1_x264-SPEED.mkv.mp4
 
-type=video
-name=Ghost Stories (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7a0sai9k5jr7YJRP5S3YIDErMVY.jpg
-date=2018-08-24
-URL=https://openload.co/f/bfRJJc7xwgo/Ghost.Stories.2017.720p.BluRay.X264-AMIABLE.mkv.mp4
+
 
 type=video
 name=Cardinals (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5996,10 +5988,11 @@ URL=https://streamango.com/f/kkafqdmfscfdklql/Animal_World_2018_
 
 
 type=video
-name=Mission: Impossible - Fallout (2018) ENG NEW_V.3_720p_HDCAM_X264_AC3-UN1QUE_SeeHD
+name=Mission: Impossible - Fallout (2018) ENG NEW_V.3.720p_HDCAM_X264_AC3-UN1QUE_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
-date=2018-08-14
-URL=https://openload.co/f/f4yWmbzdT9M/Mission_Impossible_Fallout_2018_NEW_V.3_720p_HDCAM_X264_AC3-UN1QUE_SeeHD.mkv.mp4
+date=2018-08-26
+URL=https://openload.co/f/JxI4Yaki6EM/Mission_Impossible_Fallout_2018_NEW_V.3.720p_HDCAM_X264_AC3-UN1QUE_SeeHD.mkv.mp4
+#https://openload.co/f/f4yWmbzdT9M/Mission_Impossible_Fallout_2018_NEW_V.3_720p_HDCAM_X264_AC3-UN1QUE_SeeHD.mkv.mp4
 #https://openload.co/f/7D3PDogUtrM/Mission_Impossible_Fallout_2018_NEW_720p_HDCAM-24HD.mkv.mp4
 #https://openload.co/f/mRAxBM1R1VE/Mission_Impossible_Fallout.2018.CAM.XViD-T3RR0RSQU4D.avi.mp4
 #https://openload.co/f/lbnxpJ8IU7A/Mission.Impossible.Fallout.2018.720p.HDCAM.V2.1XBET_SeeHD.mp4
@@ -6085,22 +6078,7 @@ date=2018-06-26
 URL=https://streamango.com/f/pmornaclntnlddoo/Incredibles_2_2018_2_
 
 
-type=video
-name=Ocean's 8 (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7caaqQjTkovwoZsEOPzgHvkzOWB.jpg
-date=2018-08-21
-URL=https://openload.co/f/0s7KEQsrK5I/Oceans.8.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/d9_axrgH26o/Ocean%27s.Eight.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/VuCdquMUFLY/Oceans.8.2018.720p.WEB-DL.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/7WkQfDnkctU/Oceans_8_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/jils94FsuGM/Oceans_8_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/egvFlNBBxlw/Oceans.8.2018.CAM.X264-IPT_SeeHD.mkv.mp4
-#https://openload.co/f/HNqXzm647eA/Oceans_8_2018_CAM_X264-CaixistaEstupido.mkv.mp4
-type=video
-name=Ocean's 8 (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7caaqQjTkovwoZsEOPzgHvkzOWB.jpg
-date=2018-06-18
-URL=https://streamango.com/f/adlroqadtdnccsqt/Ocean_s_8_2018_8_
+
 
 
 
@@ -6219,7 +6197,7 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-08-20
+date=2018-08-26
 URL=
 
 
@@ -6227,6 +6205,13 @@ URL=
 
 
 
+
+
+type=video
+name=Occupation (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr7MFQAmP30IJZP2FXKhPKbe8IW.jpg
+date=2018-08-26
+URL=https://streamango.com/f/frtrkqkfmclaostd/Occupation_2018_
 
 
 type=video
@@ -6245,11 +6230,19 @@ URL=https://streamango.com/f/ckocflamnbrqselb/Suicide_Squad_Hell_to_Pay_2018_Sui
 
 
 type=video
-name=The Only Living Boy in New York (2017) ENG WEB-DL.x264-FGT
+name=The Only Living Boy in New York (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8e6Q7N2qJ7utBrf6pyf3EiLADja.jpg
-date=2017-10-20
-URL=https://openload.co/f/OTg3g1vgdG0/The_Only_Living_Boy_in_New_York_%282017%29_%5B1080p%5D_WEB-DL_DD5_1_H264-FGT_mkv_mp4
+date=2018-08-26
+URL=https://openload.co/f/fJ5OIKxnKi4/the.only.living.boy.in.new.york.2017.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/8gW-3tVvntI/The.Only.Living.Boy.in.New.York.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/lx92dc1zatc/The.Only.Living.Boy.in.New.York.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/oba3BvWK5eo/The.Only.Living.Boy.in.New.York.2017.720p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/seONEvXTnfM/The.Only.Living.Boy.in.New.York.2017.BDRip.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/OTg3g1vgdG0/The_Only_Living_Boy_in_New_York_%282017%29_%5B1080p%5D_WEB-DL_DD5_1_H264-FGT_mkv_mp4
 #https://openload.co/f/2FIdzfMEsV4/The.Only.Living.Boy.in.New.York.2017.WEB-DL.x264-FGT.mp4
+#https://uptobox.com/m6s66okmphlk   720
+#https://www.rapidvideo.com/e/FUN334BYCO   720
+#https://openload.co/embed/-xfa62mai24/THEONLYLIVINGBOTNEWYORKBD72.Ganool.si.mkv.mp4
 type=video
 name=The Only Living Boy in New York (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8e6Q7N2qJ7utBrf6pyf3EiLADja.jpg
@@ -8122,6 +8115,25 @@ URL=
 
 
 type=video
+name=Ocean's 8 (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7caaqQjTkovwoZsEOPzgHvkzOWB.jpg
+date=2018-08-21
+URL=https://openload.co/f/0s7KEQsrK5I/Oceans.8.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/d9_axrgH26o/Ocean%27s.Eight.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/VuCdquMUFLY/Oceans.8.2018.720p.WEB-DL.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/7WkQfDnkctU/Oceans_8_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/jils94FsuGM/Oceans_8_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/egvFlNBBxlw/Oceans.8.2018.CAM.X264-IPT_SeeHD.mkv.mp4
+#https://openload.co/f/HNqXzm647eA/Oceans_8_2018_CAM_X264-CaixistaEstupido.mkv.mp4
+type=video
+name=Ocean's 8 (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7caaqQjTkovwoZsEOPzgHvkzOWB.jpg
+date=2018-08-26
+URL=https://streamango.com/f/kobkcptnsbbbtpqa/Ocean_s_8_2018_8_
+#https://streamango.com/f/adlroqadtdnccsqt/Ocean_s_8_2018_8_
+
+
+type=video
 name=Skyscraper (2018) ENG 720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
 date=2018-07-14
@@ -8156,48 +8168,7 @@ date=2018-07-31
 URL=https://streamango.com/f/aecberatadpcfkqe/The_Cured_2018_
 
 
-type=video
-name=Deadpool 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
-date=2018-08-08
-URL=https://uptobox.com/3thtn55dnrly
-#https://www.rapidvideo.com/e/FU4VG91VZ1
-#https://openload.co/embed/bzj9X3SPrl0/GHPDEADPOL80.Ganol.ru.mkv
-#https://openload.co/f/aK6Xy4Scrlk/Deadpool_2_%282018%29UNRATED_1080p_BluRay_x264-SPARKS_Ganool.mkv.mp4
-#https://openload.co/f/1jvjkDxniIw/Deadpool.2.2018.Super.Duper.Cut.UNRATED.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/KUYM9oxfeJw/Deadpool.2.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/0YLJFXCvP_s/Deadpool.2.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/yhtJxZtJRZc/Deadpool.2.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/QoR4Se2y5po/Deadpool.2.2018.UNRATED.720p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/fsRJttgE8tA/Deadpool.2.2018.Super.Duper.Cut.720p.BluRay.x264.DTS-HDC.mkv.mp4
-#https://openload.co/f/BHhE5nOiwes/Deadpool.2.2018.Super.Duper.Cut.720p.BluRay.x264.DTS-HDC.mkv.mp4
-#https://openload.co/f/crpuwHvJLug/Deadpool.2.2018.Super.Duper.Cut.720p.BluRay.x264.DTS-HDC.mkv   MKV7.8GB
-#https://openload.co/f/EiSd4cTgCy8/Deadpool.2.2018.Super.Duper.Cut.1080p.AMZN_CBR.WEB_DL.x264.MkvCage.ws.mp4
-#https://openload.co/f/gc6bK2ZFPKg/Deadpool.2.2018.Super.Duper.Cut.720p.AMZN-CBR.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
-#https://openload.co/f/SEQSgVYoVJQ/Deadpool.2.2018.Super.Duper.Cut.720p.HD_SeeHD.mkv.mp4
-#https://openload.co/f/UBDzeXvmvRA/Deadpool.2.2018.Super.Duper.Cut.1080p.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/FDWWBWwv1qk/Deadpool.2.2018.Super.Duper.Cut.1080p.AMZN-CBR.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
-#https://openload.co/f/g58SefBKVqM/Deadpool.2.720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/ieaJrN0RMqo/Deadpool.2.2018.720p.KORSUB.HDRip.x264-NON.mp4
-#https://openload.co/f/1RdA9X6UDcQ/DeadPool_2.720pHD_SeeHD.mp4
-#https://openload.co/f/WlAi7Qz8jGs/DeadPool_2.720pHDRip_SeeHD.mkv.mp4
-#https://openload.co/f/_ET4_325tGk/Deadpool.2.2018.720p.KORSUB.HDRip.x264-NON.mp4
-#https://openload.co/f/WpAKmf_pPL4/Deadpool_2_2018_NEW_720p_HD-TC_V.2_x264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/d9UDlTMQNlY/Deadpool.2.2018.TS.720p.ENG.E.mp4
-#https://openload.co/f/re3bVE8sp-8/Deadpool_2_2018_HD-TS.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/TVGkldXG2ow/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/fQtS6g8eFP0/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG.mkv.mp4
-#https://openload.co/f/NpRKO6OnUQ0/Deadpool_2_2018_720p_New_HDCAM-X264-AC3_Cleaned-Bobi_SeeHD.mkv.mp4
-#https://openload.co/f/D15b5KiAff4/Deadpool.2.2018.720p.HDTS.x264-SpaceMov.mp4
-#https://openload.co/f/UliAIS5sWpU/Deadpool_2_%282018%29_English_HDTS_-_720p_-_x264_-_AC3_-_2.4GB.mkv.mp4
-#https://openload.co/f/Zb_meIBKWic/Deadpool_2_%282018%29720p_TS_ENG_X264-1xbit.Ganool.im.mkv.mp4
-type=video
-name=Deadpool 2 (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
-date=2018-08-13
-URL=https://streamango.com/f/bqsddmeerkkboers/Deadpool_2_2018_2_
-#https://streamango.com/f/ndttdobqnfqqtpmp/Deadpool_2_2018_2_
-#https://streamango.com/f/oesosocnaeooaame/Deadpool_2_2018_2_
+
 
 
 type=video
@@ -8840,6 +8811,88 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=Please Stand By (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg
+date=2018-05-05
+URL=https://www.blazefile.co/embed-q3nei6dzxgdc.html
+#https://uptobox.com/b73i4scid5qs
+#https://uptobox.com/69xczfrwrvd5   720
+#https://openload.co/f/OaXtjnVl7iE/Please.Stand.By.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/cb1a-rB_euw/Please.Stand.By.2017.720p.BRRip.850MB.MkvCage.Com.mkv.mp4
+#https://openload.co/f/Y-eSumROwkE/Please.Stand.By.2017.BRRip.AC3.X264-CMRG.mkv.mp4
+#https://openload.co/f/pxILgMUOINM/Please_Stand_By.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+type=video
+name=Please Stand By (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKhrjxmbdCjdxROc7lJhmfZ9trx.jpg
+date=2018-08-26
+URL=https://openload.co/f/jqJR4h4iPXA/Please_Stand_By_%282017%29Please_Stand_By_%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%84%E0%B8%87_%E0%B8%A1%E0%B8%B5%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%99%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B9%89%E0%B8%A2.mp4
+
+
+type=video
+name=Deadpool 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
+date=2018-08-08
+URL=https://uptobox.com/3thtn55dnrly
+#https://www.rapidvideo.com/e/FU4VG91VZ1
+#https://openload.co/embed/bzj9X3SPrl0/GHPDEADPOL80.Ganol.ru.mkv
+#https://openload.co/f/uF6jGpXxMnU/Deadpool.2.2018.Super.Duper.Cut.UNRATED.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/aK6Xy4Scrlk/Deadpool_2_%282018%29UNRATED_1080p_BluRay_x264-SPARKS_Ganool.mkv.mp4
+#https://openload.co/f/1jvjkDxniIw/Deadpool.2.2018.Super.Duper.Cut.UNRATED.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/KUYM9oxfeJw/Deadpool.2.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/0YLJFXCvP_s/Deadpool.2.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/yhtJxZtJRZc/Deadpool.2.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/QoR4Se2y5po/Deadpool.2.2018.UNRATED.720p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/fsRJttgE8tA/Deadpool.2.2018.Super.Duper.Cut.720p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/BHhE5nOiwes/Deadpool.2.2018.Super.Duper.Cut.720p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/crpuwHvJLug/Deadpool.2.2018.Super.Duper.Cut.720p.BluRay.x264.DTS-HDC.mkv   MKV7.8GB
+#https://openload.co/f/EiSd4cTgCy8/Deadpool.2.2018.Super.Duper.Cut.1080p.AMZN_CBR.WEB_DL.x264.MkvCage.ws.mp4
+#https://openload.co/f/gc6bK2ZFPKg/Deadpool.2.2018.Super.Duper.Cut.720p.AMZN-CBR.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
+#https://openload.co/f/SEQSgVYoVJQ/Deadpool.2.2018.Super.Duper.Cut.720p.HD_SeeHD.mkv.mp4
+#https://openload.co/f/UBDzeXvmvRA/Deadpool.2.2018.Super.Duper.Cut.1080p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/FDWWBWwv1qk/Deadpool.2.2018.Super.Duper.Cut.1080p.AMZN-CBR.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/g58SefBKVqM/Deadpool.2.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/ieaJrN0RMqo/Deadpool.2.2018.720p.KORSUB.HDRip.x264-NON.mp4
+#https://openload.co/f/1RdA9X6UDcQ/DeadPool_2.720pHD_SeeHD.mp4
+#https://openload.co/f/WlAi7Qz8jGs/DeadPool_2.720pHDRip_SeeHD.mkv.mp4
+#https://openload.co/f/_ET4_325tGk/Deadpool.2.2018.720p.KORSUB.HDRip.x264-NON.mp4
+#https://openload.co/f/WpAKmf_pPL4/Deadpool_2_2018_NEW_720p_HD-TC_V.2_x264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/d9UDlTMQNlY/Deadpool.2.2018.TS.720p.ENG.E.mp4
+#https://openload.co/f/re3bVE8sp-8/Deadpool_2_2018_HD-TS.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/TVGkldXG2ow/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/fQtS6g8eFP0/Deadpool_2_2018_NEW_720p_HD-TC_X264-CPG.mkv.mp4
+#https://openload.co/f/NpRKO6OnUQ0/Deadpool_2_2018_720p_New_HDCAM-X264-AC3_Cleaned-Bobi_SeeHD.mkv.mp4
+#https://openload.co/f/D15b5KiAff4/Deadpool.2.2018.720p.HDTS.x264-SpaceMov.mp4
+#https://openload.co/f/UliAIS5sWpU/Deadpool_2_%282018%29_English_HDTS_-_720p_-_x264_-_AC3_-_2.4GB.mkv.mp4
+#https://openload.co/f/Zb_meIBKWic/Deadpool_2_%282018%29720p_TS_ENG_X264-1xbit.Ganool.im.mkv.mp4
+type=video
+name=Deadpool 2 (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
+date=2018-08-26
+URL=https://openload.co/f/OYyKGYDICBA/Deadpool_2_%282018%29%E0%B9%80%E0%B8%94%E0%B8%94%E0%B8%9E%E0%B8%B9%E0%B8%A5_2.mp4
+#https://openload.co/f/fG96--c1z3Q/Deadpool_2_%282018%29%E0%B9%80%E0%B8%94%E0%B8%94%E0%B8%9E%E0%B8%B9%E0%B8%A5_2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
+#https://streamango.com/f/bqsddmeerkkboers/Deadpool_2_2018_2_
+#https://streamango.com/f/ndttdobqnfqqtpmp/Deadpool_2_2018_2_
+#https://streamango.com/f/oesosocnaeooaame/Deadpool_2_2018_2_
+
+
+type=video
+name=Rebel in the Rye (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjmMtBIqg65MPOJXOtoLCKYjVUn.jpg
+date=2017-12-24
+URL=https://www.blazefile.co/embed-lfk9504cbtzq.html
+#https://openload.co/f/-zrXaN0ZkDk/Rebel.in.the.Rye.2017.LIMITED.720p.BluRay.x264-GECKOS.mkv
+#https://openload.co/f/Dz3XigJcYv8/Rebel_In_the_Rye_2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/eVz83l-nx4c/Rebel_in_the_Rye_%282017%29_%5B1080p%5D_%5BBluRay%5D_%5B1GB%5D.mp4
+type=video
+name=Rebel in the Rye (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjmMtBIqg65MPOJXOtoLCKYjVUn.jpg
+date=2018-08-26
+URL=https://openload.co/f/0rfWBx6PenY/Rebel_in_the_Rye_%282017%29%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B6%E0%B8%81.mp4
 
 
 type=video
@@ -9767,13 +9820,53 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-23
+date=2018-08-26
 URL=
 
 
 
 
 
+
+
+
+
+
+
+type=video
+name=Avengers: Infinity War (2018) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
+date=2018-08-26
+URL=https://uptobox.com/8f9vxmr6ec5o
+#https://www.rapidvideo.com/e/FUMZ2SI2D5
+#https://openload.co/embed/E1oNZLinkdg/GHPAVENRSWAR3D80.Ganool.si.mkv
+#https://openload.co/f/DeCZkboMrzU/Avengers%3A_Infinity_War_%282018%293D_1080p_BluRay_x264-SPRiNTER.Ganool.mkv.mp4
+
+type=video
+name=TRON: Legacy (2010) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vllvystwQjmXzy5OvBKnGl1JREF.jpg
+date=2018-08-26
+URL=https://openload.co/f/GI55ihz-N8I/TRON_Legacy.2010.HD_720p.mp4
+
+type=video
+name=O Brother, Where Art Thou? (2000) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIqSzq6j3yuxNmifiUOh6iTpG9N.jpg
+date=2018-08-26
+URL=https://openload.co/f/-frPODu8QeM/O_Brother_Where_Art_Thou.2000.HD_1080p.mp4
+
+type=video
+name=Hogfather (2006) [COLOR=FF00FF00]ENG SD Part 1[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvNnxkHBqUDSWuIts5jcG07lbJO.jpg
+date=2018-08-26
+URL=https://openload.co/f/vlZr9iojYa8/Hogfather.2006.Part1.BRRip.XviD.MP3-RARBG.avi.mp4
+#https://openload.co/f/K4iyxDdW9ck/Hogfather.2006.Part1.BRRip.XviD.MP3-RARBG.avi.mp4
+
+type=video
+name=Hogfather (2006) [COLOR=FF00FF00]ENG SD Part 2[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvNnxkHBqUDSWuIts5jcG07lbJO.jpg
+date=2018-08-26
+URL=https://openload.co/f/5GX0i9YCeCY/Terry_Pratchett%27s_Hogfather_-_part2.9nm4n.mp4
+#https://openload.co/f/X85fb9coTAo/Terry_Pratchett%27s_Hogfather_-_part2.l78kq.mp4
 
 type=video
 name=Big Hero 6 (2014) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]

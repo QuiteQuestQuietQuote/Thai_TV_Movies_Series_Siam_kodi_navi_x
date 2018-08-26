@@ -2684,7 +2684,8 @@ http://6bc79edb.ulkakak.pw/iptv/CHPLNSPSC3DXKY/923/index.m3u8
 
 #EXTINF:-1,DUSK
 http://195.230.115.18:65080/play/a8101
-
+#EXTINF:-1,XXX18+_rtsp
+rtsp://ss1.firestormmedia.tv:1935/ingest_cellcast/encoder31?channelID=252
 
 
 #EXTINF:-1,Chinese1
@@ -2996,6 +2997,23 @@ http://www.ssh101.com/m3u8/dyn/TTVHD/index.m3u8
 #EXTINF:-1,FYI_bear-tv
 http://cdn2.bear-tv.com/freetv/TOT_Fyi/playlist.m3u8
 
+
+#EXTINF:-1,BBC HD_Poland
+http://145.129.238.137:8000/play/a06b
+#EXTINF:-1,History HD
+http://145.129.238.137:8000/play/a048
+#EXTINF:-1,BBC Earth HD_Poland
+http://145.129.238.137:8000/play/a06c
+
+#EXTINF:-1,SE: Discovery Channel_Scandinav_ts
+http://62.210.101.57:8000/live/supra/supra/73852.ts
+#EXTINF:-1,SE: Discovery Science
+http://62.210.101.57:8000/live/supra/supra/73800.ts
+#EXTINF:-1,SE: Discovery World
+http://62.210.101.57:8000/live/supra/supra/73813.ts
+#EXTINF:-1,SE: BBC Earth_Scandinav_ts
+http://62.210.101.57:8000/live/supra/supra/73783.ts
+
 #EXTINF:-1,BBC Earth HD_viet
 http://1.54.119.126:9981/stream/channelid/1785553231
 #EXTINF:-1,Discovery Science
@@ -3008,6 +3026,10 @@ http://mhms6.airtel.tv/wh7f454c46tw1157635511_2090870016/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226329/index.m3u8
 
 
+
+
+#EXTINF:-1,music-choice
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
 #EXTINF:-1,MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-b.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://www.cgtn.com/public/bundle/images/event/live_DO.png",CGTN Documentary
