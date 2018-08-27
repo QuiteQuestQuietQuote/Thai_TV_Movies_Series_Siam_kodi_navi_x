@@ -2647,7 +2647,7 @@ http://82.209.207.119:8905/play/a00l?m3u8
 #EXTINF:-1,XXX18+_udp
 http://5.137.42.51:1234/udp/225.54.23.158:5000
 #EXTINF:-1,XXX18+_private
-http://194.28.154.32:81/udp/225.0.0.104:1234
+http://31.41.98.29:81/udp/225.0.0.104:1234
 #EXTINF:-1,XXX18+
 http://31.41.98.29:81/udp/225.0.0.104:1234
 #EXTINF:-1,XXX18+
@@ -2684,8 +2684,26 @@ http://6bc79edb.ulkakak.pw/iptv/CHPLNSPSC3DXKY/923/index.m3u8
 
 #EXTINF:-1,DUSK
 http://195.230.115.18:65080/play/a8101
-#EXTINF:-1,XXX18+_rtsp
-rtsp://ss1.firestormmedia.tv:1935/ingest_cellcast/encoder31?channelID=252
+
+#EXTINF:-1,lovestreamhappy_rtmp
+rtmp://172.104.126.152/lovestreamhappy
+#EXTINF:-1,lovestreamhot
+rtmp://172.104.126.152/lovestreamhot
+#EXTINF:-1,lovestreammilf
+rtmp://172.104.126.152/lovestreammilf
+#EXTINF:-1,lovestream
+rtmp://172.104.126.152/lovestream
+#EXTINF:-1,lovestreamhappy2_rtmp
+rtmp://172.104.126.152/lovestreamhappy2
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1,Chinese1
@@ -2946,6 +2964,26 @@ http://ott-cdn.ucom.am/s18/04.m3u8
 
 
 
+#EXTINF:-1,NR1 4K
+http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8
+#EXTINF:-1,Rai Premium
+https://raipremium1-live.akamaized.net/hls/live/598328/raipremium1/raipremium_1800/chunklist.m3u8
+#EXTINF:-1,HBO Hits
+http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8
+#EXTINF:-1,HBO
+http://telekomtv.ro.edgesuite.net/shls/LIVE$HBOHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,HBO 2
+http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,HBO 3
+http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO3HD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,Cinemax 1
+http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO_Cinemax_HD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,Cinemax 2
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Cinemax2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,Paramount Channel
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Paramount/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",DISCOVER ASIA_thflixCH_103
@@ -2988,31 +3026,27 @@ http://45.126.83.51/uq2663/h/h11/index.m3u8
 http://61.58.60.230:9000/live/257.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
 https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
+#EXTINF:-1,FYI_bear-tv
+http://cdn2.bear-tv.com/freetv/TOT_Fyi/playlist.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_bear
 http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE_bear-tv
 http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_TTVHD
 http://www.ssh101.com/m3u8/dyn/TTVHD/index.m3u8
-#EXTINF:-1,FYI_bear-tv
-http://cdn2.bear-tv.com/freetv/TOT_Fyi/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TheHistoryChannel/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Discovery/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI
+http://telekomtv.ro.edgesuite.net/shls/LIVE$DiscoveryScience/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/12.m3u8/Level(3670016)?start=LIVE&end=END
 
 
-#EXTINF:-1,BBC HD_Poland
-http://145.129.238.137:8000/play/a06b
-#EXTINF:-1,History HD
-http://145.129.238.137:8000/play/a048
-#EXTINF:-1,BBC Earth HD_Poland
-http://145.129.238.137:8000/play/a06c
 
-#EXTINF:-1,SE: Discovery Channel_Scandinav_ts
-http://62.210.101.57:8000/live/supra/supra/73852.ts
-#EXTINF:-1,SE: Discovery Science
-http://62.210.101.57:8000/live/supra/supra/73800.ts
-#EXTINF:-1,SE: Discovery World
-http://62.210.101.57:8000/live/supra/supra/73813.ts
-#EXTINF:-1,SE: BBC Earth_Scandinav_ts
-http://62.210.101.57:8000/live/supra/supra/73783.ts
+
 
 #EXTINF:-1,BBC Earth HD_viet
 http://1.54.119.126:9981/stream/channelid/1785553231

@@ -1268,7 +1268,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-25
+date=2018-08-27
 URL=
 
 
@@ -1277,7 +1277,14 @@ URL=
 
 
 
-
+type=video
+name=Pitbull. Ostatni pies (2018) [COLOR=FF00FF00]POL BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNfFE5psykzVr8IbdUQMa75P3In.jpg
+date=2018-08-27
+URL=https://openload.co/f/zteDM1ldWVA/pitbull.last.dog.2018.1080p.bluray.x264-sprinter.mkv.mp4
+#https://uptobox.com/lgg5ubbgkj7b   720
+#https://www.rapidvideo.com/e/FUO7D7CNQ9   720
+#https://openload.co/embed/D6GxeXyRZuA/PITBULLLASTDOGBD72.Ganool.si.mkv
 
 type=video
 name=Ghost Stories (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
