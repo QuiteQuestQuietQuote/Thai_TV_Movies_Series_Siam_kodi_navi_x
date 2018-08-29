@@ -2629,6 +2629,8 @@ http://185.10.211.14:54980/udp/DorcelHD:100000/BCTynAu'_B_rpynny-http://vk.com/x
 #EXTINF:-1,PassionXXX
 http://185.10.211.14:54980/udp/PassionXXX:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
 
+#EXTINF:-1,ftv_paris_pg
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1,ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1,livesexlatinas_rtsp
@@ -2672,6 +2674,8 @@ http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel11/pl
 http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel22/playlist.m3u8
 #EXTINF:-1,studio66tv_Channel 5
 http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel32/playlist.m3u8
+#EXTINF:-1,bs24
+http://sdn-global-live-http-cache.3qsdn.com/2346/_definst_///mp4:Ct6zG7Nrj3v2JxD/manifest.m3u8
 #EXTINF:-1,bs24
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 #EXTINF:-1,FRENCHLOVER

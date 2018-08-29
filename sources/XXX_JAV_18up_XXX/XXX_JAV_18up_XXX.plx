@@ -41,10 +41,10 @@ player=default
 rating=-1.00
 
 type=playlist
-name=JAV_41_18up_YAM
+name=JAV_41_18up_ABP
 thumb=http://javsex.net/wp-content/uploads/2016/02/4734.jpg
-date=2017-12-28
-URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_41_18up_YAM.plx
+date=2018-08-29
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/XXX_JAV_18up_XXX/JAV_41_18up_ABP.plx
 player=default
 rating=-1.00
 

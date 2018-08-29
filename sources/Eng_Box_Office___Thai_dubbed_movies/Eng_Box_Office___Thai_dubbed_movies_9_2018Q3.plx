@@ -5813,6 +5813,14 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGxK5FgBB2u8lFWf4Lx7dT8t1o
 date=2018-08-24
 URL=https://openload.co/f/uSaIYnTNgVY/Cardinals.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
 
+type=video
+name=RBG (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIenhDe9DuvxODJOIpMjBheYlcS.jpg
+date=2018-08-29
+URL=https://openload.co/f/9Mqx8y_HYZU/rbg.2018.720p.bluray.hevc.x265.mkv.mp4
+#https://openload.co/f/ekgLX3At4to/rbg.2018.720p.bluray.x264-cinefile.mkv.mp4
+#https://openload.co/f/RqxwxR2aaE0/rbg.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
+
 
 
 
@@ -5821,7 +5829,7 @@ URL=https://openload.co/f/uSaIYnTNgVY/Cardinals.2017.BluRay.720p.DTS.x264-CHD.mk
 type=video
 name=
 thumb=
-date=2018-08-24
+date=2018-08-29
 URL=
 
 type=video
@@ -8150,8 +8158,11 @@ URL=https://openload.co/f/-g0pJTJq1wY/Detective_Dee%3A_The_Four_Heavenly_Kings_%
 type=video
 name=Ocean's 8 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7caaqQjTkovwoZsEOPzgHvkzOWB.jpg
-date=2018-08-28
-URL=https://openload.co/f/XuAr0XjcGrI/oceans.eight.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+date=2018-08-29
+URL=https://uptobox.com/al0veo58x7xy
+#https://www.rapidvideo.com/e/FUPUGNMVF0
+#https://openload.co/embed/SYvzqPnVNrY/GHPOCEAN880.Ganool.si.mkv.mp4
+#https://openload.co/f/XuAr0XjcGrI/oceans.eight.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/Ki5wmCxogRI/Oceans.Eight.2018.1080p.BluRay_SeeHD.mp4
 #https://openload.co/f/i6NfosNCbOc/Ocean%27s.Eight.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/CihxtAUAVb4/Oceans.Eight.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
@@ -9876,7 +9887,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-28
+date=2018-08-29
 URL=
 
 
@@ -9904,11 +9915,26 @@ URL=
 
 
 
+type=video
+name=Breakfast at Tiffany's (1961) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c95lbDwL5WT8PV9DZsdSvRtXKNA.jpg
+date=2018-08-29
+URL=https://openload.co/f/CkwMAYc7-70/Breakfast.At.Tiffanys.1961.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://uptobox.com/m5bno9m0i210
+#https://www.rapidvideo.com/e/FUPDR7WWNN
+#https://openload.co/embed/SYfClnjt1xg/BREAKFASTATTITANYBD72.Ganool.si.mkv.mp4
 
+type=video
+name=The Amazing Spider-Man (2012) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eA2D86Y6VPWuUzZyatiLBwpTilQ.jpg
+date=2018-08-30
+URL=https://openload.co/f/GJ-ykFGF6g0/The_Amazing_Spider-Man.2012.HD_1080p.mp4
 
-
-
-
+type=video
+name=The Amazing Spider-Man 2 (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUjWof8LHDgCZC9mFp0UYKBf1Dm.jpg
+date=2018-08-30
+URL=https://openload.co/f/wRYvFQwbMzc/The.Amazing.Spider.Man.2.2014.1080p.BluRay.x264.YIFY.mp4
 
 type=video
 name=PK (2014) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
