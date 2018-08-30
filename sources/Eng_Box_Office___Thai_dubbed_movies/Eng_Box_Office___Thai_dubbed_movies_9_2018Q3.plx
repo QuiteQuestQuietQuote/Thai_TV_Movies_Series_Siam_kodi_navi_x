@@ -171,10 +171,11 @@ URL=https://openload.co/f/pul-OiRrhII/Equalizer_2_2018_720p_HD-TS_x264-24HD_SeeH
 
 
 type=video
-name=Uncle Drew (2018) ENG CAM-MaTinE
+name=Uncle Drew (2018) ENG DVDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lCNsfc1OEDNceGJTjfE0kBknEW.jpg
-date=2018-07-23
-URL=https://openload.co/f/uQ8R5HhL-iI/Uncle.Drew.2018.CAM-MaTinE.mkv.mp4
+date=2018-08-30
+URL=https://openload.co/f/4FYrC7sYS2Q/Uncle.Drew.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/uQ8R5HhL-iI/Uncle.Drew.2018.CAM-MaTinE.mkv.mp4
 
 
 
@@ -209,15 +210,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5Xf4RrQVrxSwV2MG3I5sSjBie
 date=2018-07-13
 URL=https://openload.co/f/Lt5SYC2lJGo/How_It_Ends.2018.1080p.NF.WEB-DL.DD5.1.H.264-SiGMA_SeeHD.mkv.mp4
 
-type=video
-name=SuperFly (2018) ENG 1080p.WEB-DL.H264.AC3-HDMovie8
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGk9H5PVpWzbsYkmnBeKevQkwwf.jpg
-date=2018-08-28
-URL=https://openload.co/f/pnT4h0pAeHI/Superfly.2018.1080p.WEB-DL.H264.AC3-HDMovie8.mkv.mp4
-#https://openload.co/f/b_TpqTIyKJI/Superfly.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/Zyqdy1NgIPE/Superfly_2018_720p_NEW_HDCAM_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/Tj8DkrU7SJk/Superfly_2018_NEW_V.2_HDCAM_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/G1UZshzRASM/Superfly.2018.HDCAM.x264-DiRG_SeeHD.mp4
+
 
 
 
@@ -1279,10 +1272,22 @@ URL=
 
 
 
+
+type=video
+name=SuperFly (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGk9H5PVpWzbsYkmnBeKevQkwwf.jpg
+date=2018-08-30
+URL=https://openload.co/f/vHCXKk-auAY/SuperFly.2018.1080p.BluRay.x264-YTS.mp4
+#https://openload.co/f/pnT4h0pAeHI/Superfly.2018.1080p.WEB-DL.H264.AC3-HDMovie8.mkv.mp4
+#https://openload.co/f/b_TpqTIyKJI/Superfly.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/Zyqdy1NgIPE/Superfly_2018_720p_NEW_HDCAM_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/Tj8DkrU7SJk/Superfly_2018_NEW_V.2_HDCAM_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/G1UZshzRASM/Superfly.2018.HDCAM.x264-DiRG_SeeHD.mp4
+
 type=video
 name=Pitbull. Ostatni pies (2018) [COLOR=FF00FF00]POL BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNfFE5psykzVr8IbdUQMa75P3In.jpg
-date=2018-08-27
+date=2018-08-28
 URL=https://openload.co/f/zteDM1ldWVA/pitbull.last.dog.2018.1080p.bluray.x264-sprinter.mkv.mp4
 #https://uptobox.com/lgg5ubbgkj7b   720
 #https://www.rapidvideo.com/e/FUO7D7CNQ9   720
@@ -1338,21 +1343,7 @@ URL=https://uptobox.com/cvt9i864nibi
 #https://openload.co/f/4BYmDKGv1PQ/Hereditary_2018_720p_NEW_HDCAM_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/yo6qEXwj5Bs/Hereditary_2018_HDCAM_ENG_x264-SugarTits_SeeHD.mkv.mp4
 
-type=video
-name=Adrift (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gLDeADaETvwQlQow5szlyuhLbj.jpg
-date=2018-08-25
-URL=https://uptobox.com/00nbvcpmx2ch
-#https://www.rapidvideo.com/e/FULREPR5RD
-#https://openload.co/embed/G8UlruIEIDw/GHPADRIFT80.Ganool.si.mkv
-#https://openload.co/f/NPUUIIA3OmI/Adrift.2018.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/5u5zXSDXUPg/adrift.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/Di2Gqo-20U0/adrift.2018.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/bkgAcjqVcbo/adrift.2018.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/K81IGOSa3fE/Adrift.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/V6SpeUeBgIY/Adrift.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/crK40YfKElQ/Adrift.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/4x6JpEt4FZA/Adrift.2018.720p.HDCAM.1XBETmp4
+
 
 type=video
 name=In Darkness (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1417,15 +1408,7 @@ date=2018-08-18
 URL=https://openload.co/f/7Utvt3YzDbA/Gods.Not.Dead.A.Light.in.Darkness.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
 #https://openload.co/f/5A3RxIa2MTU/Gods.Not.Dead.A.Light.in.Darkness.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=American Animals (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg
-date=2018-08-16
-URL=https://openload.co/f/_2XwWhgXjjI/american.animals.2018.1080p.bluray.x264-drones%5BEtHD%5D.mkv.mp4
-#https://openload.co/f/ZXU_makG_d4/American.Animals.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://uptobox.com/y05y30l8b58y   720
-#https://www.rapidvideo.com/e/FUEYRT5GO0   720
-#https://openload.co/embed/Kbsce4CpTX0/SHQAMERICANANIMLASBD72.Ganol.ru.mkv.mp4
+
 
 type=video
 name=A Thought of Ecstasy (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1657,6 +1640,7 @@ name=Kings (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tA1mXJF75y57MvsZv2gDhbi0B4x.jpg
 date=2018-08-02
 URL=https://openload.co/f/QSjEiPmdlVU/Kings.2018.1080p.BR.mp4
+#https://openload.co/f/jwAl6jTBSRQ/Kings.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/NXxbOKq5Sus/Kings_2018_HDCAM_ENG_X264-THAN0S_SeeHD.mkv.mp4
 
 type=video
@@ -6220,13 +6204,71 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-08-28
+date=2018-08-30
 URL=
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=American Animals (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg
+date=2018-08-16
+URL=https://openload.co/f/_2XwWhgXjjI/american.animals.2018.1080p.bluray.x264-drones%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/ZXU_makG_d4/American.Animals.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/y05y30l8b58y   720
+#https://www.rapidvideo.com/e/FUEYRT5GO0   720
+#https://openload.co/embed/Kbsce4CpTX0/SHQAMERICANANIMLASBD72.Ganol.ru.mkv.mp4
+type=video
+name=American Animals (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg
+date=2018-08-30
+URL=https://openload.co/f/Ro-qH0WMdys/American_Animals_%282018%29%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99_%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%94%E0%B9%89_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Adrift (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gLDeADaETvwQlQow5szlyuhLbj.jpg
+date=2018-08-25
+URL=https://uptobox.com/00nbvcpmx2ch
+#https://www.rapidvideo.com/e/FULREPR5RD
+#https://openload.co/embed/G8UlruIEIDw/GHPADRIFT80.Ganool.si.mkv
+#https://openload.co/f/NPUUIIA3OmI/Adrift.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/5u5zXSDXUPg/adrift.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/Di2Gqo-20U0/adrift.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/bkgAcjqVcbo/adrift.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/K81IGOSa3fE/Adrift.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/V6SpeUeBgIY/Adrift.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/crK40YfKElQ/Adrift.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/4x6JpEt4FZA/Adrift.2018.720p.HDCAM.1XBETmp4
+type=video
+name=Adrift (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gLDeADaETvwQlQow5szlyuhLbj.jpg
+date=2018-08-30
+URL=https://openload.co/f/yC6HmuE3IRU/Adrift_%282018%29%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%AE%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Wet Woman in the Wind (2016) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2UlmNAx6qiRe9cS3bcaX25839c.jpg
+date=2018-08-30
+URL=https://openload.co/f/H0k9RtYO6Qs/Wet_Woman_in_the_Wind_%282016%29Kaze_ni_nureta_onna_%282016%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -7284,17 +7326,7 @@ date=2018-02-17
 URL=https://streamango.com/f/bbsnolefdeqrsdfs/The_Snowman_2017_
 
 
-type=video
-name=Wonderstruck (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjDAt9K3FKU1itABgIXl6YvLsVE.jpg
-date=2018-03-17
-URL=https://openload.co/f/owg6IDJ_Gy4/Wonderstruck.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
-#https://openload.co/f/OwTj4TCUTw4/Wonderstruck.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-type=video
-name=Wonderstruck (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjDAt9K3FKU1itABgIXl6YvLsVE.jpg
-date=2018-02-17
-URL=https://streamango.com/f/npnmsfnprfsaarlb/Wonderstruck_2017_
+
 
 
 type=video
@@ -8343,27 +8375,7 @@ date=2018-06-06
 URL=https://streamango.com/f/ekkppdmoadnokoar/China_Salesman_2017_
 
 
-type=video
-name=Sherlock Gnomes (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHdf2wRgCSp9MrZRryikiZIH6jB.jpg
-date=2018-06-05
-URL=https://www.blazefile.co/embed-bt520jc04uxu.html
-#https://uptobox.com/9tsu6l0wvm69
-#https://openload.co/embed/NWqqEFot1HA/GHPSHERLOCKGNOMES80.Ganool.im.mkv.mp4
-#https://openload.co/f/Vp9HyCajmNY/Sherlock.Gnomes.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/kuDAEMb68Pc/Sherlock.Gnomes.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/4QrbiBIPo84/Sherlock.Gnomes.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/RdAhbx9rRvA/Sherlock.Gnomes.2018.HDCAM.XviD-VAiN.avi.mp4
-#https://openload.co/f/aCDwq_C0Py8/Sherlock_Gnomes_2018_HDCAM_X264_AC3-Bang.mp4
-#https://www.blazefile.co/embed-g3o3c1ozsjh0.html   720
-#https://uptobox.com/ly2xngjh1g61   720
-#https://openload.co/embed/bTz7SIRXgKU/SHQSHERLOCKGNOMESBD72.Ganool.im.mkv.mp4
-type=video
-name=Sherlock Gnomes (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHdf2wRgCSp9MrZRryikiZIH6jB.jpg
-date=2018-06-06
-URL=https://streamango.com/f/omlqadnqnmemdrec/Sherlock_Gnomes_2018_
-#https://streamango.com/f/cpbsdkfbbkllpsos/Sherlock_Gnomes_2018_
+
 
 
 
@@ -8851,6 +8863,43 @@ URL=
 
 
 
+
+type=video
+name=Wonderstruck (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjDAt9K3FKU1itABgIXl6YvLsVE.jpg
+date=2018-03-17
+URL=https://openload.co/f/owg6IDJ_Gy4/Wonderstruck.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/OwTj4TCUTw4/Wonderstruck.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+type=video
+name=Wonderstruck (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjDAt9K3FKU1itABgIXl6YvLsVE.jpg
+date=2018-08-30
+URL=https://openload.co/f/cUHZi8q7DiA/Wonderstruck_%282017%29%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2.mp4
+#https://streamango.com/f/npnmsfnprfsaarlb/Wonderstruck_2017_
+
+
+type=video
+name=Sherlock Gnomes (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHdf2wRgCSp9MrZRryikiZIH6jB.jpg
+date=2018-06-05
+URL=https://www.blazefile.co/embed-bt520jc04uxu.html
+#https://uptobox.com/9tsu6l0wvm69
+#https://openload.co/embed/NWqqEFot1HA/GHPSHERLOCKGNOMES80.Ganool.im.mkv.mp4
+#https://openload.co/f/Vp9HyCajmNY/Sherlock.Gnomes.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/kuDAEMb68Pc/Sherlock.Gnomes.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/4QrbiBIPo84/Sherlock.Gnomes.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/RdAhbx9rRvA/Sherlock.Gnomes.2018.HDCAM.XviD-VAiN.avi.mp4
+#https://openload.co/f/aCDwq_C0Py8/Sherlock_Gnomes_2018_HDCAM_X264_AC3-Bang.mp4
+#https://www.blazefile.co/embed-g3o3c1ozsjh0.html   720
+#https://uptobox.com/ly2xngjh1g61   720
+#https://openload.co/embed/bTz7SIRXgKU/SHQSHERLOCKGNOMESBD72.Ganool.im.mkv.mp4
+type=video
+name=Sherlock Gnomes (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHdf2wRgCSp9MrZRryikiZIH6jB.jpg
+date=2018-08-30
+URL=https://openload.co/f/55BPk6tE1TI/Sherlock_Gnomes_%282018%29%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%84_%E0%B9%82%E0%B8%99%E0%B8%A1%E0%B8%AA%E0%B9%8C.mp4
+#https://streamango.com/f/omlqadnqnmemdrec/Sherlock_Gnomes_2018_
+#https://streamango.com/f/cpbsdkfbbkllpsos/Sherlock_Gnomes_2018_
 
 
 type=video
@@ -9887,7 +9936,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-29
+date=2018-08-30
 URL=
 
 
@@ -9909,11 +9958,41 @@ URL=
 
 
 
+type=video
+name=Soylent Green (1973) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIQVty3lbBzwuLemEDQic1Axfbd.jpg
+date=2018-08-30
+URL=https://openload.co/f/wioZsw9JVdU/Soylent.Green.1973.1080p.BluRay.H264.AAC-RARBG.mp4
 
+type=video
+name=The Hidden (1987) [COLOR=FF00FF00]ENG HD 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CEVBtcNEhz9zJxAKpdaYUAL700.jpg
+date=2018-08-30
+URL=https://openload.co/f/bSx76q0_eJE/The_Hidden.1987.HD_720p.D204D.mp4
 
+type=video
+name=Predator (1987) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6fhq04t75yCfE0kSTNZGQvWuQ1.jpg
+date=2018-08-30
+URL=https://openload.co/f/TzCobuVhlGw/Predator.1987.1080p.BluRay.mp4
 
+type=video
+name=The Omega Man (1971) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHd0BZtBfOTph7YUggtDF6EoQ9W.jpg
+date=2018-08-30
+URL=https://openload.co/f/Dz135lGOyks/The.Omega.Man.1971.BluRay.720p.H264.mp4
 
+type=video
+name=Repo Man (1984) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3I831drBvpHe6FFb93geZxqU5c.jpg
+date=2018-08-30
+URL=https://openload.co/f/YPbyBWwHZyM/Repo_Man.1984.HD_1080p.mp4
 
+type=video
+name=Scanners (1981) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gl7uT1nm7kpi4Fv0YMgv2C1dGj3.jpg
+date=2018-08-30
+URL=https://openload.co/f/BoObqZZ8B5s/Scanners.1981.HD_1080p.mp4
 
 type=video
 name=Breakfast at Tiffany's (1961) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
