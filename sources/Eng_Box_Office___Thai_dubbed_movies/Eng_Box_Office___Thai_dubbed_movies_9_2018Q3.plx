@@ -1277,7 +1277,11 @@ type=video
 name=SuperFly (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGk9H5PVpWzbsYkmnBeKevQkwwf.jpg
 date=2018-08-30
-URL=https://openload.co/f/vHCXKk-auAY/SuperFly.2018.1080p.BluRay.x264-YTS.mp4
+URL=https://uptobox.com/wq6ufpnhsa8h
+#https://www.rapidvideo.com/e/FURLO6A50O
+#https://openload.co/embed/sd9dTa8ZRBI/SUPERFLY80.Ganool.si.mkv.mp4
+#https://openload.co/f/AfKAc-zU-nU/SuperFly_%282018%291080p_BluRay_x264-Replica_Ganool.mkv.mp4
+#https://openload.co/f/vHCXKk-auAY/SuperFly.2018.1080p.BluRay.x264-YTS.mp4
 #https://openload.co/f/pnT4h0pAeHI/Superfly.2018.1080p.WEB-DL.H264.AC3-HDMovie8.mkv.mp4
 #https://openload.co/f/b_TpqTIyKJI/Superfly.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/Zyqdy1NgIPE/Superfly_2018_720p_NEW_HDCAM_X264-CPG_SeeHD.mkv.mp4
@@ -8902,6 +8906,13 @@ URL=https://openload.co/f/55BPk6tE1TI/Sherlock_Gnomes_%282018%29%E0%B9%80%E0%B8%
 #https://streamango.com/f/cpbsdkfbbkllpsos/Sherlock_Gnomes_2018_
 
 
+type=video
+name=Tonight, At the Movies (2018) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUwXKRjMrFxoK9lwgypLcHqlZP9.jpg
+date=2018-08-30
+URL=https://uptobox.com/674wt686ouqm
+#https://www.rapidvideo.com/e/FURTTIU7WI
+#https://openload.co/embed/3aRK1OsvS-E/Romance.Gekijo.2018.BluRay.720p.800MB.Ganol.st.mkv
 type=video
 name=Tonight, At the Movies (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUwXKRjMrFxoK9lwgypLcHqlZP9.jpg
