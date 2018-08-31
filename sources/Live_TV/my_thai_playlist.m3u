@@ -2690,8 +2690,7 @@ http://6bc79edb.ulkakak.pw/iptv/CHPLNSPSC3DXKY/923/index.m3u8
 http://195.230.115.18:65080/play/a8101
 
 
-#EXTINF:-1,lovestreamhappy_rtmp
-rtmp://172.104.126.152/lovestreamhappy
+
 #EXTINF:-1,lovestreamhot
 rtmp://172.104.126.152/lovestreamhot
 #EXTINF:-1,lovestreammilf
@@ -2700,9 +2699,10 @@ rtmp://172.104.126.152/lovestreammilf
 rtmp://172.104.126.152/lovestream
 #EXTINF:-1,lovestreamhappy2_rtmp
 rtmp://172.104.126.152/lovestreamhappy2
-
-#EXTINF:-1,_Carlo_rtmp
-rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1,lovestreamhappy_rtmp
+rtmp://172.104.126.152/lovestreamhappy
+#EXTINF:-1,lovestream_rtmp
+rtmp://5-direct555-axd-10-xx.hnwzzy.com:1935/live/999888
 
 
 
@@ -2718,6 +2718,96 @@ http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
 http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
 #EXTINF:-1,Chinese5
 http://live-tx-hdl.huomaotv.cn/live/2epqPZ24085.m3u8
+
+
+
+
+
+#EXTINF:-1,CHN 1
+http://alhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+#EXTINF:-1,CHN 2
+http://alhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+#EXTINF:-1,CHN 4
+http://alhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+#EXTINF:-1,CHN 5
+http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:-1,CHN 6
+http://alhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8
+#EXTINF:-1,CHN 7
+http://alhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8
+#EXTINF:-1,CHN 9
+http://alhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
+#EXTINF:-1,CHN 11
+http://alhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
+#EXTINF:-1,CHN 12
+http://alhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8
+#EXTINF:-1,CHN 13
+http://alhls.cdn.zhanqi.tv/zqlive/246422_GSpB2.m3u8
+#EXTINF:-1,CHN 14
+http://alhls.cdn.zhanqi.tv/zqlive/93774_g0UdM.m3u8
+#EXTINF:-1,CHN 17
+http://alhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+#EXTINF:-1,CHN 18
+http://alhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
+#EXTINF:-1,CHN 20
+http://alhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
+#EXTINF:-1,CHN 21
+http://alhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
+#EXTINF:-1,CHN 24
+http://alhls.cdn.zhanqi.tv/zqlive/115384_jC7nR.m3u8
+#EXTINF:-1,CHN 28
+http://alhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+#EXTINF:-1,CHN 29
+http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
+#EXTINF:-1,CHN 30
+http://alhls.cdn.zhanqi.tv/zqlive/174685_XWnGj.m3u8
+#EXTINF:-1,CHN 31
+http://alhls.cdn.zhanqi.tv/zqlive/118948_F0Rim.m3u8
+#EXTINF:-1,CHN 32
+http://alhls.cdn.zhanqi.tv/zqlive/213167_Dw1GU.m3u8
+#EXTINF:-1,CHN 33
+http://alhls.cdn.zhanqi.tv/zqlive/241840_hRxc9.m3u8
+#EXTINF:-1,CHN 35
+http://alhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ.m3u8
+#EXTINF:-1,CHN 38
+http://alhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
+#EXTINF:-1,CHN 42
+http://alhls.cdn.zhanqi.tv/zqlive/130564_7PZZr.m3u8
+#EXTINF:-1,CHN 43
+http://alhls.cdn.zhanqi.tv/zqlive/96851_ZeePd.m3u8
+#EXTINF:-1,CHN 45
+http://alhls.cdn.zhanqi.tv/zqlive/245602_ApoFG.m3u8
+#EXTINF:-1,CHN 46
+http://alhls.cdn.zhanqi.tv/zqlive/182988_cn66n.m3u8
+#EXTINF:-1,CHN 47
+http://alhls.cdn.zhanqi.tv/zqlive/81077_ZRWAB.m3u8
+#EXTINF:-1,CHN 48
+http://alhls.cdn.zhanqi.tv/zqlive/210915_Mg4QM.m3u8
+#EXTINF:-1,CHN 49
+http://alhls.cdn.zhanqi.tv/zqlive/219628_O3y9l.m3u8
+#EXTINF:-1,CHN 50
+http://alhls.cdn.zhanqi.tv/zqlive/182325_z3jRr.m3u8
+#EXTINF:-1,CHN 51
+http://alhls.cdn.zhanqi.tv/zqlive/185488_aff4a.m3u8
+#EXTINF:-1,CHN 52
+http://alhls.cdn.zhanqi.tv/zqlive/160122_5swCD.m3u8
+#EXTINF:-1,CHN 53
+http://alhls.cdn.zhanqi.tv/zqlive/260346_AvFC9.m3u8
+#EXTINF:-1,CHN 54
+http://alhls.cdn.zhanqi.tv/zqlive/199301_y2bWG.m3u8
+#EXTINF:-1,CHN 56
+http://alhls.cdn.zhanqi.tv/zqlive/228492_Dia5C.m3u8
+#EXTINF:-1,CHN 59
+http://alhls.cdn.zhanqi.tv/zqlive/264421_0rVE9.m3u8
+#EXTINF:-1,CHN 62
+http://alhls.cdn.zhanqi.tv/zqlive/264395_mnbIi.m3u8
+#EXTINF:-1,CHN 63
+http://alhls.cdn.zhanqi.tv/zqlive/264417_dPUXM.m3u8
+#EXTINF:-1,CHN 66
+http://alhls.cdn.zhanqi.tv/zqlive/264147_VU1iK.m3u8
+
+
+
 
 
 
@@ -3067,6 +3157,12 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 
 
 
+
+Nat Geo People HD
+http://mytv.vungtau.ml:4022/rtp/232.84.1.76:8430
+AFC HD
+http://mytv.vungtau.ml:4022/rtp/232.84.2.129:9570
+
 #EXTINF:-1,music-choice
 http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
 #EXTINF:-1,MSNBC
@@ -3082,7 +3178,7 @@ http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ia/180712050027.png",BBC NEWS_HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226051/01.m3u8
+http://c0.cdn.trinity-tv.net/hls/89/stream.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL
 http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News US HD

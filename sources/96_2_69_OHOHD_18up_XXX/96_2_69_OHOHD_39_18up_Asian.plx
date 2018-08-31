@@ -56,6 +56,128 @@ URL=
 
 
 
+type=video
+name=86xxxxxxxxxxxxxxxxxxxxUnique Naked Cure (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Unique-Naked-Cure-2009.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/fkllkpcreseefffm/
+
+type=video
+name=Object self cat (2011)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Object-self-cat-2011.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/apltabdsrebkccas/
+
+type=video
+name=Two girls imaginative sex (2009) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Two-girls-imaginative-sex-2009.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/domelmftfaedealp/
+
+type=video
+name=I like sex more than songs (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/I-like-sex-more-than-songs-2009.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/qnqsanaofemstonk/
+
+type=video
+name=I’m better than you (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Im-better-than-you-2009.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/dqlsnoeokcttfmbf/
+
+
+type=video
+name=Live karaoke sex (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Live-karaoke-sex-2009.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/sobmtfqlbfefrsea/
+
+type=video
+name=Speak to your body (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Speak-to-your-body-2010.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/tqrollosskosqeqt/
+
+type=video
+name=Ability of sex (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Ability-of-sex-2010.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/knltbmfdbdaeaekq/
+
+type=video
+name=She is a sister (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/She-is-a-sister-2010.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/atblkoacmfpcsefb/
+
+type=video
+name=Her moaning (2010) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Her-moaning-2010.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/flsnpbsordlttnda/
+
+
+type=video
+name=Because of him (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Because-of-him-2010.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/knqdmcbedtdabmff/
+
+type=video
+name=Sprinkle water on my body (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Sprinkle-water-on-my-body-2010.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/kbmaaaefasanmdtt/
+
+type=video
+name=My girlfriend is a girl (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/My-girlfriend-is-a-girl-2009.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/bafafpaamqabtooc/
+
+type=video
+name=Sex instinct in memory (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Sex-instinct-in-memory-2010.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/eoneddekndrksaoo/
+
+type=video
+name=Yeochin Eomma 2 (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Yeochin-Eomma-2-2018.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/fpopadfstfqpdddr/
+
+
+type=video
+name=Hottest Home Service (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Hottest-Home-Service-2017-Uncut.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/nfsmleddrspfmdpa/
+
+type=video
+name=Chingu Eommadeul Ui Mas (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Chingu-Eommadeul-Ui-Mas-2018.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/pqntemnsabdfoqfl/
+
+type=video
+name=Jinjuui Sungyeolsangsil (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Jinjuui-Sungyeolsangsil-2018.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/krnkofrflmrdnbns/
+
+type=video
+name=Nae Chinguui Eommadeul (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Nae-Chinguui-Eommadeul-2018.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/qfmcenakcloqlmae/
+
+type=video
+name=Geunyeoui Saegmas (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Geunyeoui-Saegmas-2018-Uncut.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/rmeakpbkapbktnne/
 
 
 
@@ -63,6 +185,93 @@ URL=
 
 
 
+
+
+type=video
+name=66xxxxxxxxxxxxxxxxxxxxOkamisan 01 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Okamisan-01-2017.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/fkenasmkpascabod/
+
+type=video
+name=Pleasure Eroding Me With That Day (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Pleasure-Eroding-Me-With-That-Day-2017.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/tkecbmfocnmfaefa/
+
+type=video
+name=Athletic Trainer & Lovable Female Athlete 3 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Athletic-Trainer-Lovable-Female-Athlete-3-2017.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/teqebslnqkepqnfc/
+
+type=video
+name=Manicurist’s Lesbian Doubt (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Manicurists-Lesbian-Doubt-2017.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/ctqrklctdfnrqcmo/
+
+type=video
+name=Atarasii HAHA (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Atarasii-HAHA-2017.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/pecpmlmnfcpqftfo/
+
+
+type=video
+name=Friend Sister 2 (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Friend-Sister-2-2017-Uncut.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/asotdctfosbrpdbq/
+
+type=video
+name=Jeongsa Siabeojiwa Dolyeonnim (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Jeongsa-Siabeojiwa-Dolyeonnim-2017-Uncut.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/kkobnfleondalcnn/
+
+type=video
+name=Great Encounter at Alumni Reunion (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Great-Encounter-at-Alumni-Reunion-2017.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/mcesmbnqqdaeneca/
+
+type=video
+name=Gozikarano Makura Eigyoubu (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Gozikarano-Makura-Eigyoubu-2016.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/pdppmcckrrlrrdst/
+
+type=video
+name=My Mothers Friend 5 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/My-Mothers-Friend-5-2017.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/ceafaaarlfmfbaob/
+
+
+type=video
+name=Eomma Chingudeulgwaui Jeongsa (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Eomma-Chingudeulgwaui-Jeongsa-2018.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/ebampppbsasfmass/
+
+type=video
+name=DIRTY WEDDING (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/DIRTY-WEDDING-2017.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/sbobcqtnopcpqqlt/
+
+type=video
+name=Neomu Balghineun Sachon Nunadeul (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Neomu-Balghineun-Sachon-Nunadeul-2018.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/fdmnkeanpsppfelp/
+
+type=video
+name=Housewife Prostitution (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Housewife-Prostitution-2017.jpg
+date=2018-08-31
+URL=https://streamcherry.com/embed/pbpbaskafmcfmcms/
 
 
 

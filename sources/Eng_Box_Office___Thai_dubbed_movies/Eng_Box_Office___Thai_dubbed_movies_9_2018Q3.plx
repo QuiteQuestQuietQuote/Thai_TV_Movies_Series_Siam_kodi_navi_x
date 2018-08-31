@@ -171,10 +171,11 @@ URL=https://openload.co/f/pul-OiRrhII/Equalizer_2_2018_720p_HD-TS_x264-24HD_SeeH
 
 
 type=video
-name=Uncle Drew (2018) ENG DVDRip.XviD.AC3-EVO
+name=Uncle Drew (2018) ENG DVDRip.XviD.AC3-EVO%5BEtMovies%5D_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lCNsfc1OEDNceGJTjfE0kBknEW.jpg
-date=2018-08-30
-URL=https://openload.co/f/4FYrC7sYS2Q/Uncle.Drew.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+date=2018-08-31
+URL=https://openload.co/f/la5rPWuXS7A/Uncle.Drew.2018.DVDRip.XviD.AC3-EVO%5BEtMovies%5D_SeeHD.avi.mp4
+#https://openload.co/f/4FYrC7sYS2Q/Uncle.Drew.2018.DVDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/uQ8R5HhL-iI/Uncle.Drew.2018.CAM-MaTinE.mkv.mp4
 
 
@@ -1263,7 +1264,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-27
+date=2018-08-31
 URL=
 
 
@@ -1272,6 +1273,19 @@ URL=
 
 
 
+
+type=video
+name=Agent Mr. Chan (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GsM8WkgFeqjWoxFId6G4itEWco.jpg
+date=2018-08-31
+URL=https://openload.co/f/ZQObP6sU3rQ/Agent.Mr.Chan.2018.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
+#https://openload.co/f/PTY7yFY1hMU/Agent.Mr.Chan.2018.720p.BluRay.x264.950MB-Pahe.in.mkv.mp4
+
+type=video
+name=Gonjiam: Haunted Asylum (2018) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rhdnM0fvflhU6spI5dw8D0CWrQ.jpg
+date=2018-08-31
+URL=https://openload.co/f/y2HVqMg_cro/Gonjiam.Haunted.Asylum.2018.BluRay.1080p.5.1CH.x264.Ganool.mkv.mp4
 
 type=video
 name=SuperFly (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5809,6 +5823,11 @@ URL=https://openload.co/f/9Mqx8y_HYZU/rbg.2018.720p.bluray.hevc.x265.mkv.mp4
 #https://openload.co/f/ekgLX3At4to/rbg.2018.720p.bluray.x264-cinefile.mkv.mp4
 #https://openload.co/f/RqxwxR2aaE0/rbg.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
 
+type=video
+name=Kodachrome (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mseyc8v3UD1DhaZ3kSdXs4Dj9Xf.jpg
+date=2018-08-31
+URL=https://openload.co/f/zrY63GzajjE/Kodachrome.2017.720p.BluRay.DD5.1.x264-SPEED.mkv.mp4
 
 
 
@@ -5817,7 +5836,7 @@ URL=https://openload.co/f/9Mqx8y_HYZU/rbg.2018.720p.bluray.hevc.x265.mkv.mp4
 type=video
 name=
 thumb=
-date=2018-08-29
+date=2018-08-31
 URL=
 
 type=video
