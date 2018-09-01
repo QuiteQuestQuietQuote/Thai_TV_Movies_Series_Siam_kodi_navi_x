@@ -2198,14 +2198,7 @@ URL=https://openload.co/f/Syndc-a6TGI/Gemini.2017.1080p.BluRay.H264.AAC-RARBG.mp
 #https://uptobox.com/qqg2qhdhwnyq   720
 #https://openload.co/embed/6AEB3nd_IY8/GEMINIBD72.Ganool.im.mkv.mp4
 
-type=video
-name=Dear Dictator (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5S2tktUi9AMfaH8YihmbnDUSjiU.jpg
-date=2018-06-16
-URL=https://openload.co/f/VvdxB_14HDs/Dear_Dictator_%282017%29_%5B1080p%5D_BluRay_x264-%5BYTS_AM%5D.mp4
-#https://openload.co/f/EjIk-8oGs_g/Dear.Dictator.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/_fjOJlAT6Vw/Dear_Dictator_2018.BDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/A-lfM19zupk/Dear.Dictator.2018.720p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 type=video
 name=Orange Fever (2018) [COLOR=FF00FF00]DUT BR 1080p[/COLOR]
@@ -3869,18 +3862,6 @@ https://uptobox.com/j7289p2alzk4
 #https://openload.co/f/vpL7f9btUG4/Daddys.Home.2.2017.HDCAM.XVID.HQ.Hive-CM8.avi
 #https://openload.co/f/IfYB8OGuPfM/Daddys.Home.2.2017.ENG.720p.CAM.x264-NoGRP.mkv.mp4
 
-type=video
-name=The Florida Project (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg
-date=2018-02-10
-URL=https://www.blazefile.co/embed-l6lu7jpscfe2.html
-#https://uptobox.com/n1e7hrn8sn5x
-#https://openload.co/f/rBLPDMqpMDE/The.Florida.Project.2017.REPACK.LIMITED.720p.BluRay.x264-SNOW.mkv.mp4
-#https://openload.co/f/6pzIA-uG7XI/The.Florida.Project.2017.1080p.Br_SeeHD.mp4
-#https://openload.co/f/2y6Cgff5XRc/The.Florida.Project.2017.720p.WEB-DL.900MB.MkvCage.mkv.mp4
-#https://openload.co/f/I0v3vaBhz6Q/The.Florida.Project.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
-#https://www.blazefile.co/embed-tsdw17n8ryyc.html   720
-#https://uptobox.com/dei51isb3vqz   720
 
 
 
@@ -5201,6 +5182,7 @@ date=2018-03-10
 URL=https://www.blazefile.co/embed-p6kq5itrhm5j.html
 #https://uptobox.com/burtzl8zdi7v
 #https://openload.co/f/GAIxmfU5Tm0/high.society.2017.720p.bluray.x264-pussyfoot.mkv.mp4
+#https://openload.co/f/K2s5qUyhn-g/high.society.2017.720p.bluray.x264-pussyfoot.mkv.mp4
 
 type=video
 name=Moomins and the Winter Wonderland (2017) [COLOR=FF00FF00]FIN BR 720p[/COLOR]
@@ -6052,10 +6034,11 @@ URL=https://streamango.com/f/rsldanklbtskknbq/Future_World_2018_
 
 
 type=video
-name=Ant-Man and the Wasp (2018) ENG HDTC.1080P.X264.AAC.CHS_SeeHD
+name=Ant-Man and the Wasp (2018) ENG PROPER.HDTC.XviD-SHiVA
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv1AWImgx386ULjcf62VYaW8zSt.jpg
-date=2018-08-28
-URL=https://openload.co/f/x7G-qvqJ1Vg/Ant-Man_and_the_Wasp.2018.HDTC.1080P.X264.AAC.CHS_SeeHD.mp4
+date=2018-09-01
+URL=https://openload.co/f/85MaoyjQMqU/AntMan.and.The.Wasp.2018.PROPER.HDTC.XviD-SHiVA.avi.mp4
+#https://openload.co/f/x7G-qvqJ1Vg/Ant-Man_and_the_Wasp.2018.HDTC.1080P.X264.AAC.CHS_SeeHD.mp4
 #https://openload.co/f/AJOQydE4Mk8/Antman_and_the_Wasp_2018.TS.mp4
 #https://openload.co/f/I0uTwZVoRMY/AntMan_and_the_Wasp_SeeHD.mkv.mp4
 #https://openload.co/f/7VWHw2S6ccM/AntMan_and_the_Wasp_2018_720p_NEW_HDCAM_X264_SeeHD.mkv.mp4
@@ -6846,6 +6829,7 @@ name=Terrifier (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PQqC4SbY910VvyVad6mvsboILU.jpg
 date=2018-07-08
 URL=https://openload.co/f/5dn8KNryxIA/Terrifier.2017.1080p.BluRay.x264-HANDJOB.mkv.mp4
+#https://openload.co/f/UlmdGepOg0U/Terrifier.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 type=video
 name=Terrifier (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PQqC4SbY910VvyVad6mvsboILU.jpg
@@ -8202,11 +8186,15 @@ URL=
 
 
 
-
+type=video
+name=Detective Dee: The Four Heavenly Kings (2018) CHN HD1080P.X264.AAC.CHS-ENG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhJhgOsSIcN5RiRS8js4mv7K3iA.jpg
+date=2018-09-01
+URL=https://openload.co/f/j7YY2yiZHhU/Detective.Dee.The.Four.Heavenly.Kings.2018.HD1080P.X264.AAC.CHS-ENG.mp4
 type=video
 name=Detective Dee: The Four Heavenly Kings (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhJhgOsSIcN5RiRS8js4mv7K3iA.jpg
-date=2018-06-28
+date=2018-09-01
 URL=https://openload.co/f/-g0pJTJq1wY/Detective_Dee%3A_The_Four_Heavenly_Kings_%282018%29%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B9%8B%E0%B8%A2_%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%9F%E0%B9%89%E0%B8%B2_4_%E0%B8%88%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B9%80%E0%B8%97%E0%B8%9E_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
@@ -8881,10 +8869,38 @@ URL=
 
 
 
+type=video
+name=Dear Dictator (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5S2tktUi9AMfaH8YihmbnDUSjiU.jpg
+date=2018-06-16
+URL=https://openload.co/f/VvdxB_14HDs/Dear_Dictator_%282017%29_%5B1080p%5D_BluRay_x264-%5BYTS_AM%5D.mp4
+#https://openload.co/f/EjIk-8oGs_g/Dear.Dictator.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/_fjOJlAT6Vw/Dear_Dictator_2018.BDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/A-lfM19zupk/Dear.Dictator.2018.720p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+type=video
+name=Dear Dictator (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5S2tktUi9AMfaH8YihmbnDUSjiU.jpg
+date=2018-09-01
+URL=https://openload.co/f/uAqQzU9rYZE/Dear_Dictator_%282018%29Dear_Dictator_%282017%29.mp4
 
 
-
-
+type=video
+name=The Florida Project (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg
+date=2018-02-10
+URL=https://www.blazefile.co/embed-l6lu7jpscfe2.html
+#https://uptobox.com/n1e7hrn8sn5x
+#https://openload.co/f/rBLPDMqpMDE/The.Florida.Project.2017.REPACK.LIMITED.720p.BluRay.x264-SNOW.mkv.mp4
+#https://openload.co/f/6pzIA-uG7XI/The.Florida.Project.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/2y6Cgff5XRc/The.Florida.Project.2017.720p.WEB-DL.900MB.MkvCage.mkv.mp4
+#https://openload.co/f/I0v3vaBhz6Q/The.Florida.Project.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://www.blazefile.co/embed-tsdw17n8ryyc.html   720
+#https://uptobox.com/dei51isb3vqz   720
+type=video
+name=The Florida Project (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg
+date=2018-09-01
+URL=https://openload.co/f/Ld3UBwfpaTw/The_Florida_Project_%282017%29%E0%B9%81%E0%B8%94%E0%B8%99%28%E0%B9%84%E0%B8%A1%E0%B9%88%29%E0%B9%80%E0%B8%99%E0%B8%A3%E0%B8%A1%E0%B8%B4%E0%B8%95.mp4
 
 
 type=video
@@ -9966,7 +9982,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-30
+date=2018-09-01
 URL=
 
 
@@ -9986,7 +10002,11 @@ URL=
 
 
 
-
+type=video
+name=The Dark Knight (2008) [COLOR=FF00FF00]ENG IMAX BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg
+date=2018-09-01
+URL=https://openload.co/f/i_b4mVRbLMY/The_Dark_Knight_%282008%29.IMAX.1080p.BluRay.DTS.dxva.x264.D-Z0N3_Ganool.mp4
 
 type=video
 name=Soylent Green (1973) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
