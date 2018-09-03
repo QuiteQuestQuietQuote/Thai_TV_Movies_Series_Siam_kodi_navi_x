@@ -98,19 +98,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnTqi4nhIi1eesT5uYMmhEPGNi
 date=2018-08-20
 URL=https://openload.co/f/g6uOlCEZREc/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
 
-type=video
-name=Mile 22 (2018) ENG 720p.HDCAM.1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
-date=2018-08-18
-URL=https://openload.co/f/aug72S8Qov8/Mile.22.2018.720p.HDCAM.1XBET_SeeHD.mp4
-#https://openload.co/f/m7HdxWgn5SY/Mile.22.2018.720p.HDCAM.1XBET.mp4
 
-type=video
-name=A.X.L. (2018) ENG RUS.HDCAM.HC.ENG.SUB-NO.WATERMARK
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg
-date=2018-08-20
-URL=https://openload.co/f/IdRiWQZUTME/A.X.L.2018.RUS.HDCAM.HC.ENG.SUB-NO.WATERMARK.mp4
-#https://openload.co/f/7DFmc1VnHF0/A.X.L_2018_720p_RUS_HDCAM_HC_ENG_SUB-1XBET.mp4
 
 type=video
 name=Alpha (2018) ENG NEW_720p_HDCAM_ENG_SUB-24HD_SeeHD
@@ -157,16 +145,15 @@ URL=https://openload.co/f/bTipjRNrvP8/Christopher_Robin_2018_720p_HDCAM-1xBET_Se
 #https://openload.co/f/6qOtYMgj21Y/Christopher.Robin.2018.NO-WATERMARK.720p.HDCAMCopy.XVID.AC3-YIN.avi.mp4
 #https://openload.co/f/2HPrMRw6_ng/Christopher.Robin.2018.HDCAM.XviD-AVID.avi.mp4
 
-type=video
-name=The Equalizer 2 (2018) ENG 720p_HD-TS_x264-24HD_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg
-date=2018-08-13
-URL=https://openload.co/f/pul-OiRrhII/Equalizer_2_2018_720p_HD-TS_x264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/YkZ8kURFtbQ/The_Equalizer_2_2018_NEW_HD-TS_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/kPk0y57HdkU/The.Equalizer.2.2018.NEW.HD-TS.X264-24HD.mkv.mp4
-#https://openload.co/f/Ij5fcwc8tEM/The_Equalizer_2_2018_NEW_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/cz3TOL1pxMU/The.Equalizer.2.2018.720p.HDCAM.1XBET%5BWATERMARKED%5D.mp4
-#https://openload.co/f/nZLFCvX2zWM/The_Equalizer_2_2018_720p_low_CAMRip_X264_AC3_BlckNips.E.mp4
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5811,6 +5798,20 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mseyc8v3UD1DhaZ3kSdXs4Dj9X
 date=2018-08-31
 URL=https://openload.co/f/zrY63GzajjE/Kodachrome.2017.720p.BluRay.DD5.1.x264-SPEED.mkv.mp4
 
+type=video
+name=The Jurassic Games (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfenHmVDk50m1b7onVyFbVJMWvJ.jpg
+date=2018-09-03
+URL=https://openload.co/f/XooGdmVXJQg/The.Jurassic.Games.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=A Gentle Creature (2017) [COLOR=FF00FF00]RUS BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EfNuERL9weFWblnMUabinB2Gwb.jpg
+date=2018-09-03
+URL=https://openload.co/f/PfZkTTDGE8U/a.gentle.creature.2017.limited.720p.bluray.x264-cadaver.mkv.mp4
+
+
+
 
 
 
@@ -5818,7 +5819,7 @@ URL=https://openload.co/f/zrY63GzajjE/Kodachrome.2017.720p.BluRay.DD5.1.x264-SPE
 type=video
 name=
 thumb=
-date=2018-08-31
+date=2018-09-03
 URL=
 
 type=video
@@ -5900,6 +5901,60 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Mile 22 (2018) ENG 720p.HDCAM.1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
+date=2018-08-18
+URL=https://openload.co/f/aug72S8Qov8/Mile.22.2018.720p.HDCAM.1XBET_SeeHD.mp4
+#https://openload.co/f/m7HdxWgn5SY/Mile.22.2018.720p.HDCAM.1XBET.mp4
+type=video
+name=Mile 22 (2018) ENG THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
+date=2018-09-03
+URL=https://openload.co/f/EN0pPmSU45M/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=A.X.L. (2018) ENG RUS.HDCAM.HC.ENG.SUB-NO.WATERMARK
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg
+date=2018-08-20
+URL=https://openload.co/f/IdRiWQZUTME/A.X.L.2018.RUS.HDCAM.HC.ENG.SUB-NO.WATERMARK.mp4
+#https://openload.co/f/7DFmc1VnHF0/A.X.L_2018_720p_RUS_HDCAM_HC_ENG_SUB-1XBET.mp4
+type=video
+name=A.X.L. (2018) ENG THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg
+date=2018-09-03
+URL=https://openload.co/f/xKvKQKeBi5I/A.X.L._%282018%29%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B8%A5%3A_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=The Equalizer 2 (2018) ENG 720p_HD-TS_x264-24HD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg
+date=2018-08-13
+URL=https://openload.co/f/pul-OiRrhII/Equalizer_2_2018_720p_HD-TS_x264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/YkZ8kURFtbQ/The_Equalizer_2_2018_NEW_HD-TS_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/kPk0y57HdkU/The.Equalizer.2.2018.NEW.HD-TS.X264-24HD.mkv.mp4
+#https://openload.co/f/Ij5fcwc8tEM/The_Equalizer_2_2018_NEW_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/cz3TOL1pxMU/The.Equalizer.2.2018.720p.HDCAM.1XBET%5BWATERMARKED%5D.mp4
+#https://openload.co/f/nZLFCvX2zWM/The_Equalizer_2_2018_720p_low_CAMRip_X264_AC3_BlckNips.E.mp4
+type=video
+name=The Equalizer 2 (2018) ENG THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg
+date=2018-09-03
+URL=https://openload.co/f/2lCZjxZ3Ww4/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -6033,11 +6088,14 @@ date=2018-07-21
 URL=https://streamango.com/f/rsldanklbtskknbq/Future_World_2018_
 
 
+
 type=video
-name=Ant-Man and the Wasp (2018) ENG PROPER.HDTC.XviD-SHiVA
+name=Ant-Man and the Wasp (2018) ENG NEW.720p.HD-TC.V2.1XBET
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv1AWImgx386ULjcf62VYaW8zSt.jpg
-date=2018-09-01
-URL=https://openload.co/f/85MaoyjQMqU/AntMan.and.The.Wasp.2018.PROPER.HDTC.XviD-SHiVA.avi.mp4
+date=2018-09-03
+URL=https://openload.co/f/xmTtoov4gpQ/Ant-Man.and.The.Wasp.2018.NEW.720p.HD-TC.V2.1XBET.mp4
+#https://openload.co/f/PKlB9UmJWxc/Ant-Man.and.the.Wasp.2018.HDCAM.V.2.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/85MaoyjQMqU/AntMan.and.The.Wasp.2018.PROPER.HDTC.XviD-SHiVA.avi.mp4
 #https://openload.co/f/x7G-qvqJ1Vg/Ant-Man_and_the_Wasp.2018.HDTC.1080P.X264.AAC.CHS_SeeHD.mp4
 #https://openload.co/f/AJOQydE4Mk8/Antman_and_the_Wasp_2018.TS.mp4
 #https://openload.co/f/I0uTwZVoRMY/AntMan_and_the_Wasp_SeeHD.mkv.mp4
@@ -8267,10 +8325,12 @@ URL=https://streamango.com/f/aecberatadpcfkqe/The_Cured_2018_
 
 
 type=video
-name=Jurassic World: Fallen Kingdom (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO
+name=Jurassic World: Fallen Kingdom (2018) ENG V2.720p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
-date=2018-07-27
-URL=https://openload.co/f/qDE3_SspI-0/Jurassic.World.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+date=2018-09-03
+URL=https://openload.co/f/thOUqLbJemU/Jurassic.World.2018.V2.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/aMt6KLSywjQ/Jurassic_World_Fallen_Kingdom_2018_720p_HCHD_SeeHD.mkv.mp4
+#https://openload.co/f/qDE3_SspI-0/Jurassic.World.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/hPa3Ymz4ULU/Jurassic_World_Fallen_Kingdom_2018_720p_HCHD_SeeHD.mkv.mp4
 #https://openload.co/f/tvAfQtqUgVM/Jurassic.World.2018.V2.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/a8bXJWfytMc/Jurassic_World_Fallen_Kingdom_2018_NEW_720p_HD-TS_X264_AC3_SeeHD.mkv.mp4
@@ -9982,7 +10042,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-01
+date=2018-09-03
 URL=
 
 
@@ -10001,6 +10061,11 @@ URL=
 
 
 
+type=video
+name=The Notebook (2004) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMfstesBXKdsHToAUXVPHujUDfb.jpg
+date=2018-09-03
+URL=https://openload.co/f/fkvVHqCXfQo/The.Notebook.2004.1080p.BluRay.x264.E.mp4
 
 type=video
 name=The Dark Knight (2008) [COLOR=FF00FF00]ENG IMAX BR 1080p[/COLOR]

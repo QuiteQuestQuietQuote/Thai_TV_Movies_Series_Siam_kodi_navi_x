@@ -3144,8 +3144,6 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$FoodNetwork/6.m3u8/Level(1677721)?st
 #EXTINF:-1,cnex
 http://61.58.60.230:9000/live/257.m3u8
 #EXTINF:-1,Documentary_CHN
-http://111.48.34.221/wh7f454c46tw1227613198_1085078827/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
-#EXTINF:-1,Documentary_CHN
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
 
 #EXTINF:-1,Discovery Science
@@ -3153,18 +3151,13 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:-1,Discovery WORLD HD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
 #EXTINF:-1,LIVING FOODZ HD
-http://mhms6.airtel.tv/wh7f454c46tw1157635511_2090870016/PLTV/88888888/224/3221226329/index.m3u8?icpid=88888888&RTS=1532455469&from=0&hms_devid=83,163
-#EXTINF:-1,LIVING FOODZ HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226329/index.m3u8
 
+#EXTINF:-1,opensky_CHN
+http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
 
 
-
-#EXTINF:-1,Nat Geo People HD
-http://mytv.vungtau.ml:4022/rtp/232.84.1.76:8430
-#EXTINF:-1,AFC HD
-http://mytv.vungtau.ml:4022/rtp/232.84.2.129:9570
 
 #EXTINF:-1,music-choice
 http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
