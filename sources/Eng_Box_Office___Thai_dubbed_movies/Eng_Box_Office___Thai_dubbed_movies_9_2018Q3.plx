@@ -109,10 +109,12 @@ URL=https://openload.co/f/0kwFGuTf9LY/Alpha_2018_NEW_720p_HDCAM_ENG_SUB-24HD_See
 #https://openload.co/f/TDsbq--aNhA/Alpha_2018_CAM_x264-1XBET.mp4
 
 type=video
-name=Slender Man (2018) ENG 720p.HDCAM.1XBET
+name=Slender Man (2018) ENG 720p_TS-1XBET
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg
-date=2018-08-12
-URL=https://openload.co/f/4i4Zo8czRuE/Slenderman.2018.720p.HDCAM.1XBET.mp4
+date=2018-09-04
+URL=https://openload.co/f/aTk4c0qAFsI/Slenderman_2018_720p_TS-1XBET.mkv.mp4
+#https://openload.co/f/kRIsUUsL7Vo/Slender_Man_720p_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/4i4Zo8czRuE/Slenderman.2018.720p.HDCAM.1XBET.mp4
 
 type=video
 name=The Little Mermaid (2018) ENG 1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG
@@ -1259,7 +1261,12 @@ URL=
 
 
 
-
+type=video
+name=Cardinals (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGxK5FgBB2u8lFWf4Lx7dT8t1oC.jpg
+date=2018-09-04
+URL=https://openload.co/f/UmJohNcAbLs/Cardinals.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/uSaIYnTNgVY/Cardinals.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
 
 type=video
 name=Agent Mr. Chan (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
@@ -5778,11 +5785,7 @@ URL=https://openload.co/f/TI25Jb0OD2A/Skif_2018_720p_BluRay_DD5.1_x264-SPEED.mkv
 
 
 
-type=video
-name=Cardinals (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGxK5FgBB2u8lFWf4Lx7dT8t1oC.jpg
-date=2018-08-24
-URL=https://openload.co/f/uSaIYnTNgVY/Cardinals.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
+
 
 type=video
 name=RBG (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -5801,14 +5804,20 @@ URL=https://openload.co/f/zrY63GzajjE/Kodachrome.2017.720p.BluRay.DD5.1.x264-SPE
 type=video
 name=The Jurassic Games (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfenHmVDk50m1b7onVyFbVJMWvJ.jpg
-date=2018-09-03
-URL=https://openload.co/f/XooGdmVXJQg/The.Jurassic.Games.2018.720p.BluRay.H264.AAC-RARBG.mp4
+date=2018-09-04
+URL=https://uptobox.com/juk56iwwi6nv
+#https://www.rapidvideo.com/e/FUWRAN85O2
+#https://openload.co/embed/4hzQCfiG0uA/THEJURASICGAMESBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/XooGdmVXJQg/The.Jurassic.Games.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=A Gentle Creature (2017) [COLOR=FF00FF00]RUS BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EfNuERL9weFWblnMUabinB2Gwb.jpg
-date=2018-09-03
-URL=https://openload.co/f/PfZkTTDGE8U/a.gentle.creature.2017.limited.720p.bluray.x264-cadaver.mkv.mp4
+date=2018-09-04
+URL=https://uptobox.com/1ph1rkt6p4hq
+#https://www.rapidvideo.com/e/FUVKQIZLVU
+#https://openload.co/embed/OjZh6gP7DwU/AGENTLECREATUREB7D2.Ganol.st.mkv.mp4
+#https://openload.co/f/PfZkTTDGE8U/a.gentle.creature.2017.limited.720p.bluray.x264-cadaver.mkv.mp4
 
 
 
@@ -8325,10 +8334,13 @@ URL=https://streamango.com/f/aecberatadpcfkqe/The_Cured_2018_
 
 
 type=video
-name=Jurassic World: Fallen Kingdom (2018) ENG V2.720p.HC.HDRip.X264.AC3-EVO_SeeHD
+name=Jurassic World: Fallen Kingdom (2018) ENG 1080p.web.dl.dd5.1.hevc.x265
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
-date=2018-09-03
-URL=https://openload.co/f/thOUqLbJemU/Jurassic.World.2018.V2.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-09-04
+URL=https://openload.co/f/J_zRzPPeL5o/jurassic.world.fallen.kingdom.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/pEWd9lR3410/Jurassic.World.Fallen.Kingdom.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/gkfQJvpXsXE/Jurassic.World.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/thOUqLbJemU/Jurassic.World.2018.V2.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/aMt6KLSywjQ/Jurassic_World_Fallen_Kingdom_2018_720p_HCHD_SeeHD.mkv.mp4
 #https://openload.co/f/qDE3_SspI-0/Jurassic.World.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/hPa3Ymz4ULU/Jurassic_World_Fallen_Kingdom_2018_720p_HCHD_SeeHD.mkv.mp4
@@ -10042,7 +10054,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-03
+date=2018-09-04
 URL=
 
 
@@ -10057,9 +10069,39 @@ URL=
 
 
 
+type=video
+name=Captain America: The First Avenger (2011) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg
+date=2018-09-04
+URL=https://uptobox.com/zor05ue1v40r
+#https://www.rapidvideo.com/e/FUWNWPHWB5
+#https://openload.co/embed/0OpsonvF6Bw/GHPCAPTAINAMRICA80.Ganol.st.mkv
+#https://openload.co/f/4zF9f3kM1Rg/Captain_America%3A_The_First_Avenger_%282011%29RERip_1080p_BluRay_x264-MaxHD.Ganool.mkv.mp4
 
+type=video
+name=Captain America: The Winter Soldier (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TQ6YDmymBpnF005OyoB7ohZps9.jpg
+date=2018-09-04
+URL=https://uptobox.com/wjf22o1eczmj
+#https://www.rapidvideo.com/e/FUWNY9IFLM
+#https://openload.co/embed/Y_bH2GoiAsY/GHPCAPTAINAMRICAWNTERSOLDIE80.Ganol.st.mkv
+#https://openload.co/f/L_mJv6I5tW0/Captain_America%3A_The_Winter_Soldier_%282014%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
 
+type=video
+name=Captain America: Civil War (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSBXou5Ac7vEqKd97wotJumyJvU.jpg
+date=2018-09-04
+URL=https://openload.co/f/F4_xwVI-pOA/Captain_America%3A_Civil_War_%282016%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://openload.co/embed/cmobkwtgPPI/GHPCAPTAINAMRICACIVILWAR80.Ganol.st.mkv.mp4
+#https://www.rapidvideo.com/e/FUWPY0D0FE
 
+type=video
+name=Guardians of the Galaxy (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y31QB9kn3XSudA15tV7UWQ9XLuW.jpg
+date=2018-09-04
+URL=https://uptobox.com/mtxzpe0ok7ir
+#https://openload.co/embed/LBqPssUGTEM/GHPGUARDIANOFGLXY80.Ganol.st.mkv
+#https://openload.co/f/-OKjRAQyMfk/Guardians_of_the_Galaxy_%282014%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
 
 type=video
 name=The Notebook (2004) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -10121,14 +10163,22 @@ URL=https://openload.co/f/CkwMAYc7-70/Breakfast.At.Tiffanys.1961.1080p.BluRay.x2
 type=video
 name=The Amazing Spider-Man (2012) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eA2D86Y6VPWuUzZyatiLBwpTilQ.jpg
-date=2018-08-30
-URL=https://openload.co/f/GJ-ykFGF6g0/The_Amazing_Spider-Man.2012.HD_1080p.mp4
+date=2018-09-04
+URL=https://uptobox.com/of2z1lfii67p
+#https://www.rapidvideo.com/e/FUVHHPLMCQ
+#https://openload.co/embed/AVU0r2Kljjs/GHPTHEAMZINGSPMAN80.Ganol.st.mkv.mp4
+#https://openload.co/f/4MWrcAFdNC4/The_Amazing_Spider-Man_%282012%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://openload.co/f/GJ-ykFGF6g0/The_Amazing_Spider-Man.2012.HD_1080p.mp4
 
 type=video
 name=The Amazing Spider-Man 2 (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUjWof8LHDgCZC9mFp0UYKBf1Dm.jpg
-date=2018-08-30
-URL=https://openload.co/f/wRYvFQwbMzc/The.Amazing.Spider.Man.2.2014.1080p.BluRay.x264.YIFY.mp4
+date=2018-09-04
+URL=https://uptobox.com/4nbvlw2f7rmh
+#https://www.rapidvideo.com/e/FUVHLXSHWA
+#https://openload.co/embed/Q9yyIwkbr_0/GHPTHEAMZINGSPMAN280.Ganol.st.mkv.mp4
+#https://openload.co/f/DnQiVNeh0r4/The_Amazing_Spider-Man_2_%282014%291080p_BluRay_x264-BLOW.Ganool.mkv.mp4
+#https://openload.co/f/wRYvFQwbMzc/The.Amazing.Spider.Man.2.2014.1080p.BluRay.x264.YIFY.mp4
 
 type=video
 name=PK (2014) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]

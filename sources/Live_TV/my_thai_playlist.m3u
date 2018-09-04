@@ -2706,7 +2706,8 @@ rtmp://5-direct555-axd-10-xx.hnwzzy.com:1935/live/999888
 
 #EXTINF:-1, PLAYBOY TV (RU|ENG|18+)
 http://37.9.0.196:9000/play/a044
-
+#EXTINF:-1, WAAYH
+http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/922/index.m3u8
 
 
 #EXTINF:-1,Chinese1
@@ -3079,6 +3080,10 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$Paramount/6.m3u8/Level(1677721)?star
 http://dlhls.cdn.zhanqi.tv/zqlive/182325_z3jRr.m3u8
 #EXTINF:-1,Chinese_Movies_toon
 http://dlhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
+#EXTINF:-1,goat_Movies
+http://91.134.238.137/live/goat/index.m3u8
+#EXTINF:-1,LTV
+http://live-dft-hls-yf.jstv.com/live/ch0001/online.m3u8
 
 
 

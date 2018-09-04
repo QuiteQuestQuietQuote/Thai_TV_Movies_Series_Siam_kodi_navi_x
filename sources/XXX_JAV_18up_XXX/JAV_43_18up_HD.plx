@@ -47,11 +47,23 @@ URL=
 
 
 
+type=video
+name=SIV-012A
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201809/92d6df731fb86ba1.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180903/x7isChbB/index.m3u8
 
+type=video
+name=SIV-012B
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201809/92d6df731fb86ba1.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180903/wBTSF5uv/index.m3u8
 
-
-
-
+type=video
+name=SIV-012C
+thumb=https://p1.jals1rfsfo.com/uploads/allimg/201809/92d6df731fb86ba1.jpg
+date=2018-08-22
+URL=http://cdn3.polaroidchina.com:8091/20180903/fefUHINg/index.m3u8
 
 
 
