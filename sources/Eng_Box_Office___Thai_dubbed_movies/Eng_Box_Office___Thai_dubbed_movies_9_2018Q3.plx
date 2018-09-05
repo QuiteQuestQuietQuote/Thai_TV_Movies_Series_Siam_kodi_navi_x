@@ -76,7 +76,7 @@ URL=https://www.rapidvideo.com/e/FTYWT8PZK3
 type=video
 name=
 thumb=
-date=2018-08-26
+date=2018-08-05
 URL=
 
 
@@ -84,7 +84,12 @@ URL=
 
 
 
-
+type=video
+name=Kin (2018) ENG 720p_HDCAM_X264-24HD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg
+date=2018-08-05
+URL=https://openload.co/f/gzmFS9oLl18/Kin_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/sRU_ZEJHE28/Kin_2018_720p_HDCAM_X264.mkv.mp4
 
 type=video
 name=The Happytime Murders (2018) ENG 720p.HDCAM.1XBET_SeeHD
@@ -95,8 +100,9 @@ URL=https://openload.co/f/NKbJ8AueDe4/The.Happytime.Murders.2018.720p.HDCAM.1XBE
 type=video
 name=Crazy Rich Asians (2018) ENG CAM.1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnTqi4nhIi1eesT5uYMmhEPGNih.jpg
-date=2018-08-20
-URL=https://openload.co/f/g6uOlCEZREc/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
+date=2018-09-05
+URL=https://openload.co/f/DxmbGuLNA7M/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
+#https://openload.co/f/g6uOlCEZREc/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
 
 
 
@@ -1253,13 +1259,19 @@ URL=
 type=video
 name=
 thumb=
-date=2018-08-31
+date=2018-09-05
 URL=
 
 
 
 
 
+
+type=video
+name=Curve (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ylei4CzaA8XFTir1ocWxVzHWTQ.jpg
+date=2018-09-05
+URL=https://openload.co/f/rNGJOALdd_k/Curve.2015.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Cardinals (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5819,6 +5831,23 @@ URL=https://uptobox.com/1ph1rkt6p4hq
 #https://openload.co/embed/OjZh6gP7DwU/AGENTLECREATUREB7D2.Ganol.st.mkv.mp4
 #https://openload.co/f/PfZkTTDGE8U/a.gentle.creature.2017.limited.720p.bluray.x264-cadaver.mkv.mp4
 
+type=video
+name=Ares (2016) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/332hhEolIiGkPjebb162iOobSIi.jpg
+date=2018-09-05
+URL=https://openload.co/f/afevUp3wppY/Ares.2016.FRENCH.720p.BluRay.x264.DTS-AKME.mkv.mp4
+
+type=video
+name=Ideal Home (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nG1LGKXuxhzgmheGxZqDYekCzCr.jpg
+date=2018-09-05
+URL=https://uptobox.com/sh2jbcq8242y
+#https://www.rapidvideo.com/e/FUZ1YM6KGZ
+#https://openload.co/embed/SNh6cgQxFQY/IDEAHOMEBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/wupcZ0s7myQ/Ideal_Home_%282018%29720p_BluRay_x264-CADAVER.Ganool.mkv.mp4
+
+
+
 
 
 
@@ -5828,7 +5857,7 @@ URL=https://uptobox.com/1ph1rkt6p4hq
 type=video
 name=
 thumb=
-date=2018-09-03
+date=2018-09-05
 URL=
 
 type=video
@@ -8334,10 +8363,13 @@ URL=https://streamango.com/f/aecberatadpcfkqe/The_Cured_2018_
 
 
 type=video
-name=Jurassic World: Fallen Kingdom (2018) ENG 1080p.web.dl.dd5.1.hevc.x265
+name=Jurassic World: Fallen Kingdom (2018) ENG 1080p WEB 2.2GB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
 date=2018-09-04
-URL=https://openload.co/f/J_zRzPPeL5o/jurassic.world.fallen.kingdom.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
+URL=https://openload.co/f/6ysRd1MnOBY/Jurassic.World.2018.1080p.mp4
+#https://openload.co/f/1m4IPuKQQJ4/Jurassic.World.2018.1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/eHybg2q5qFw/Jurassic.World.2018.1080pHD_SeeHD.mkv   MKV2.9GB
+#https://openload.co/f/J_zRzPPeL5o/jurassic.world.fallen.kingdom.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/pEWd9lR3410/Jurassic.World.Fallen.Kingdom.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/gkfQJvpXsXE/Jurassic.World.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/thOUqLbJemU/Jurassic.World.2018.V2.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
@@ -10054,7 +10086,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-04
+date=2018-09-05
 URL=
 
 
@@ -10068,6 +10100,45 @@ URL=
 
 
 
+
+
+
+
+
+
+
+type=video
+name=Iron Man (2008) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2IG9qXfhJYxIttKyroYFBsHwzQ.jpg
+date=2018-09-05
+URL=https://uptobox.com/f1m2xn8m69rh
+#https://www.rapidvideo.com/e/FUYZQGGOFL
+#https://openload.co/embed/54eyBw2LNiU/GHPIRONMAN80.Ganol.st.mkv
+#https://openload.co/f/OiWc45EsqZY/Iron_Man_%282008%29REPACK_1080p_BluRay_x264-1920.Ganool.mkv.mp4
+
+type=video
+name=Iron Man 2 (2010) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArqpkNYGfcTIA6umWt6xihfIZZv.jpg
+date=2018-09-05
+URL=https://uptobox.com/drjrytdrus6l
+#https://www.rapidvideo.com/e/FUYZRG7U2B
+#https://openload.co/embed/EBRGjmATQY4/GHPIRONMAN280.Ganol.st.mkv
+#https://openload.co/f/h3yzp_I3Ohk/Iron_Man_2_%282010%29REAL_PROPER_1080p_BluRay_x264-TONYSTARK.Ganool.mkv.mp4
+
+type=video
+name=Iron Man 3 (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ilv6ryHUv6rt9zIsbSEJUmmbEi.jpg
+date=2018-09-05
+URL=https://uptobox.com/vl8nm58mk3iu
+#https://www.rapidvideo.com/e/FUYZXGVCL1
+#https://openload.co/embed/3C9l1UbKV4U/GHPIRONMAN380.Ganol.st.mkv
+#https://openload.co/f/Tg8dS7es4DM/Iron_Man_3_%282013%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
+
+type=video
+name=Speed Racer (2008) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKx5lckYIQh0MpnsXxYbSkhASK2.jpg
+date=2018-09-05
+URL=https://openload.co/f/n3HIcR40elo/Speed.Racer.2008.1080p.BluRay.H264.AAC_RARBG.E.mp4
 
 type=video
 name=Captain America: The First Avenger (2011) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
