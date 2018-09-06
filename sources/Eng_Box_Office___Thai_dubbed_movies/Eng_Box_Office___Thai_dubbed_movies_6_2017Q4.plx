@@ -634,10 +634,15 @@ URL=https://openload.co/f/VDZN45BVu_4/Napping_Princess_%282017%29%E0%B8%AA%E0%B8
 
 
 
-
+type=video
+name=Two Is a Family (2016) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/muwaDIv5cLv2Z07CZFWOsL7lYuO.jpg
+date=2018-09-06
+URL=https://openload.co/f/vCaAwgKbQlY/two.is.a.family.2016.1080p.bluray.x264-regret.mkv.mp4
+#https://openload.co/f/Aa84ny9E3WE/two.is.a.family.2016.1080p.bluray.x264-regret.mkv   MKV7.6GB
 type=video
 name=Two Is a Family (2016) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/muwaDIv5cLv2Z07CZFWOsL7lYuO.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlJspjZsjcT6WAVfZg64WEA6b4T.jpg
 date=2017-10-20
 URL=https://openload.co/f/BpKbPNFbtAY/Two_Is_a_Family_%282016%29%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%88_%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99.mp4
 #https://openload.co/f/mqpFoIhxKTw/%7BMINI_Super-HQ%7D_Two.Is.A.Family.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4

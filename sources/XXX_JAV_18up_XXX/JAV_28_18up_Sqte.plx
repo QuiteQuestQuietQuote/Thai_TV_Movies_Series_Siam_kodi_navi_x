@@ -34,11 +34,7 @@ type=video
 name=
 thumb=
 date=2018-08-22
-URL=
-
-
-
-
+URL=https://stream.xjav.to/s45/3678/033-hls/appid-30127/hls_720_.m3u8?v=3
 
 
 
@@ -46,15 +42,27 @@ URL=
 
 type=video
 name=
-thumb=https://www.xjav.to/wp-content/uploads/2017/01/11991.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2017/01/9642-215x316.jpg
 date=2018-08-22
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_1596161180483165_3983490370703982592_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=38cf9643b695ae92b1df7ccd0f4ec2a7&oe=5B90654B&itag=22
+URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_2138711249728932_473916277807644672_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=d2c8468bd3314167b1249adbb4cbbd94&oe=5B91A5D6&itag=22
 
 type=video
 name=
-thumb=https://www.xjav.to/wp-content/uploads/2017/01/11988.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2017/01/13576-215x316.jpg
 date=2018-08-22
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_158252681664451_3163637008601972736_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=83956ffe85ef9d3315d5cf5c7e13f10b&oe=5B905052&itag=22
+URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_2091826614389199_8822337372625567744_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=6907a2a5167dfc711d9a9ed0e4fc8154&oe=5B91A8F7&itag=22
+
+type=video
+name=
+thumb=https://www.xjav.to/wp-content/uploads/2016/12/9425-215x316.jpg
+date=2018-08-22
+URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_206634790134373_2690650054343000064_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=0cf4c93e24d33b1165008177509b7acb&oe=5B91B910&itag=22
+
+type=video
+name=
+thumb=https://www.xjav.to/wp-content/uploads/2017/01/8817-215x316.jpg
+date=2018-08-22
+URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_200950043969109_3322495041288536064_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=fc3ff43812a9bfed9bc7c76211dd871b&oe=5B91A4B4&itag=22
 
 
 type=video
@@ -65,6 +73,70 @@ URL=http://cdn3.polaroidchina.com:8091/20180821/ua4qAMhB/index.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+type=video
+name=
+thumb=
+date=2018-08-22
+URL=
+
+type=video
+name=
+thumb=https://pic.5ppav.com/Uploads/vod/2018-09-06/3002.mp4.jpg
+date=2018-08-22
+URL=https://d.eeoai.com/20180906/94/3002/3002.mp4
+
+type=video
+name=
+thumb=https://pppp.642p.com/100/2018/13/GE8M3tNy.jpg
+date=2018-08-22
+URL=https://d1.xia12345.com/d/100/2018/13/GE8M3tNy.mp4
+
+
+type=video
+name=
+thumb=http://www.zfbav.top/upload/vod/2018-08-13/15340945171.jpg
+date=2018-08-22
+URL=http://cdnc.yzjxjxsc.com:9168/20180612/6E3QsnNC/index.m3u8
+
+type=video
+name=
+thumb=http://www.zfbav.top/upload/vod/2018-08-13/15340945173.jpg
+date=2018-08-22
+URL=http://cdnc.yzjxjxsc.com:9168/20180612/OAUrRvl6/index.m3u8
+
+type=video
+name=
+thumb=http://www.zfbav.top/upload/vod/2018-08-13/15340965590.jpg
+date=2018-08-22
+URL=http://cdnc.yzjxjxsc.com:9168/20180612/bCKMbiQ9/index.m3u8
+
+type=video
+name=
+thumb=http://www.zfbav.top/upload/vod/2018-08-13/15340966000.jpg
+date=2018-08-22
+URL=http://cdnc.yzjxjxsc.com:9168/20180611/tsblulvY/index.m3u8
+
+
+type=video
+name=
+thumb=http://www.ats17.com/upload/vod/20180826/987e79d195ea3144d0a4a247c0157cdc.jpg
+date=2018-08-22
+URL=https://cdn1.midas-hitech.com:8081/20180825/2FieVPyT/index.m3u8
+
+type=video
+name=
+thumb=http://www.ats17.com/upload/vod/20180826/37e46484346769d9a40d4e771d88538e.jpg
+date=2018-08-22
+URL=https://cdn1.midas-hitech.com:8081/20180825/2aPo2bHB/index.m3u8
 
 
 

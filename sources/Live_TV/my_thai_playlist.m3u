@@ -2709,6 +2709,11 @@ http://37.9.0.196:9000/play/a044
 #EXTINF:-1, WAAYH
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/922/index.m3u8
 
+#EXTINF:-1,Hustler TV 
+http://178.68.232.49:81/play/a01l 
+#EXTINF:-1,CTC Love 
+http://178.68.232.49:81/play/a008 
+
 
 #EXTINF:-1,Chinese1
 http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
@@ -3093,6 +3098,11 @@ http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8
 http://80.80.160.168/live/7/live.m3u8
 #EXTINF:-1 group-title="movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png",Sony Movie Channel
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+#EXTINF:-1,Movies_Chinese_
+http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8
+
+
+
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",DISCOVER ASIA_thflixCH_103
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/42.m3u8

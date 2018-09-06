@@ -66,7 +66,7 @@ date=2018-08-10
 URL=
 
 type=video
-name=
+name=e
 thumb=https://ganol.ru/wp-content/uploads/2018/08/The-Limit-of-Sleeping-Beauty-2017-229x323.jpg
 date=2018-07-13
 URL=https://www.rapidvideo.com/e/FTYWT8PZK3
@@ -74,10 +74,12 @@ URL=https://www.rapidvideo.com/e/FTYWT8PZK3
 
 
 type=video
-name=
-thumb=
-date=2018-08-05
-URL=
+name=v
+thumb=https://ganol.st/wp-content/uploads/2018/09/Captain-America-The-First-Avenger-2011-BluRay-248x323.jpg
+date=2018-09-06
+URL=https://www.rapidvideo.com/r/FUWNWPHWB5
+
+
 
 
 
@@ -85,9 +87,17 @@ URL=
 
 
 type=video
+name=Searching (2018) ENG 720p.TS.1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
+date=2018-09-06
+URL=https://openload.co/f/QtZ0byRHk3k/Searching.2018.720p.TS.1XBET_SeeHD.mp4
+#https://openload.co/f/g6owtvE_D9s/Searching.2018.720p.TS.1XBET.mp4
+#https://openload.co/f/m4dVjOHEyDQ/Searching.2018.HDTS.XviD-AVID.avi.mp4
+
+type=video
 name=Kin (2018) ENG 720p_HDCAM_X264-24HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg
-date=2018-08-05
+date=2018-09-05
 URL=https://openload.co/f/gzmFS9oLl18/Kin_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/sRU_ZEJHE28/Kin_2018_720p_HDCAM_X264.mkv.mp4
 
@@ -226,10 +236,11 @@ URL=https://openload.co/f/Lt5SYC2lJGo/How_It_Ends.2018.1080p.NF.WEB-DL.DD5.1.H.2
 
 
 type=video
-name=Mary Shelley (2018) ENG 720p.WEB-DL.DD5.1.H264-CMRG_SeeHD
+name=Mary Shelley (2018) ENG limited.dvdrip.x264-cadaver
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnHutc9eDDrVXvlmYFohEougTHq.jpg
-date=2018-06-01
-URL=https://openload.co/f/d1B8SasklXA/Mary_Shelley.2017.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+date=2018-09-06
+URL=https://openload.co/f/w4aabk_7RiA/mary.shelley.2017.limited.dvdrip.x264-cadaver.mkv.mp4
+#https://openload.co/f/d1B8SasklXA/Mary_Shelley.2017.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 #https://openload.co/f/I9U2WBTtxjI/Mary_Shelley_2017_720p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
 
 
@@ -1265,7 +1276,15 @@ URL=
 
 
 
-
+type=video
+name=Ideal Home (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nG1LGKXuxhzgmheGxZqDYekCzCr.jpg
+date=2018-09-06
+URL=https://openload.co/f/m0TI0rBGk1c/Ideal.Home.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://uptobox.com/sh2jbcq8242y
+#https://www.rapidvideo.com/e/FUZ1YM6KGZ
+#https://openload.co/embed/SNh6cgQxFQY/IDEAHOMEBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/wupcZ0s7myQ/Ideal_Home_%282018%29720p_BluRay_x264-CADAVER.Ganool.mkv.mp4
 
 type=video
 name=Curve (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5838,13 +5857,25 @@ date=2018-09-05
 URL=https://openload.co/f/afevUp3wppY/Ares.2016.FRENCH.720p.BluRay.x264.DTS-AKME.mkv.mp4
 
 type=video
-name=Ideal Home (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nG1LGKXuxhzgmheGxZqDYekCzCr.jpg
-date=2018-09-05
-URL=https://uptobox.com/sh2jbcq8242y
-#https://www.rapidvideo.com/e/FUZ1YM6KGZ
-#https://openload.co/embed/SNh6cgQxFQY/IDEAHOMEBD72.Ganol.st.mkv.mp4
-#https://openload.co/f/wupcZ0s7myQ/Ideal_Home_%282018%29720p_BluRay_x264-CADAVER.Ganool.mkv.mp4
+name=High Fantasy (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJ5cGk1OaW02vlSqwciNlZJkCZK.jpg
+date=2018-09-06
+URL=https://openload.co/f/U7E0PUBVeOM/High.Fantasy.2017.720p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=Skybound (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXene5mEHRovj7ZfMZpLxKSiv5n.jpg
+date=2018-09-06
+URL=https://uptobox.com/1tkuozvu6pco
+#https://www.rapidvideo.com/e/FV049IYBVK
+#https://openload.co/embed/3tqmNHx6uhM/SKYBOUNDBD72.Ganol.st.mkv
+#https://openload.co/f/ObpSnfMUYgM/Skybound_%282017%29720p_BluRay_x264-LATENCY.Ganool.mkv.mp4
+
+
+
+
+
+
 
 
 
@@ -5857,7 +5888,7 @@ URL=https://uptobox.com/sh2jbcq8242y
 type=video
 name=
 thumb=
-date=2018-09-05
+date=2018-09-06
 URL=
 
 type=video
@@ -5959,20 +5990,22 @@ date=2018-08-18
 URL=https://openload.co/f/aug72S8Qov8/Mile.22.2018.720p.HDCAM.1XBET_SeeHD.mp4
 #https://openload.co/f/m7HdxWgn5SY/Mile.22.2018.720p.HDCAM.1XBET.mp4
 type=video
-name=Mile 22 (2018) ENG THCAM
+name=Mile 22 (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
 date=2018-09-03
 URL=https://openload.co/f/EN0pPmSU45M/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
-name=A.X.L. (2018) ENG RUS.HDCAM.HC.ENG.SUB-NO.WATERMARK
+name=A.X.L. (2018) ENG 1080pHDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg
-date=2018-08-20
-URL=https://openload.co/f/IdRiWQZUTME/A.X.L.2018.RUS.HDCAM.HC.ENG.SUB-NO.WATERMARK.mp4
+date=2018-09-06
+URL=https://openload.co/f/vHlB1P-_1tU/A.X.L1080pHDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/Kj439guATEg/AXL.2018.HDCAM.XviD-AVID.avi.mp4
+#https://openload.co/f/IdRiWQZUTME/A.X.L.2018.RUS.HDCAM.HC.ENG.SUB-NO.WATERMARK.mp4
 #https://openload.co/f/7DFmc1VnHF0/A.X.L_2018_720p_RUS_HDCAM_HC_ENG_SUB-1XBET.mp4
 type=video
-name=A.X.L. (2018) ENG THCAM
+name=A.X.L. (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg
 date=2018-09-03
 URL=https://openload.co/f/xKvKQKeBi5I/A.X.L._%282018%29%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B8%A5%3A_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
@@ -5989,7 +6022,7 @@ URL=https://openload.co/f/pul-OiRrhII/Equalizer_2_2018_720p_HD-TS_x264-24HD_SeeH
 #https://openload.co/f/cz3TOL1pxMU/The.Equalizer.2.2018.720p.HDCAM.1XBET%5BWATERMARKED%5D.mp4
 #https://openload.co/f/nZLFCvX2zWM/The_Equalizer_2_2018_720p_low_CAMRip_X264_AC3_BlckNips.E.mp4
 type=video
-name=The Equalizer 2 (2018) ENG THCAM
+name=The Equalizer 2 (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg
 date=2018-09-03
 URL=https://openload.co/f/2lCZjxZ3Ww4/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
@@ -6036,10 +6069,11 @@ URL=https://streamango.com/f/dcrafonlelcdrtlo/The_Spy_Who_Dumped_Me_2018_
 
 
 type=video
-name=The Meg (2018) ENG CAM.SUBBED.V2.READNFO.XViD-T3RR0RSQU4D
+name=The Meg (2018) ENG NEW.HDTC.XviD.B4ND1T69_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
-date=2018-08-28
-URL=https://openload.co/f/jQPi1mZbb0M/The.Meg.2018.CAM.SUBBED.V2.READNFO.XViD-T3RR0RSQU4D.avi.mp4
+date=2018-09-06
+URL=https://openload.co/f/j4183vstFoA/The.Meg.2018.NEW.HDTC.XviD.B4ND1T69_SeeHD.avi.mp4
+#https://openload.co/f/jQPi1mZbb0M/The.Meg.2018.CAM.SUBBED.V2.READNFO.XViD-T3RR0RSQU4D.avi.mp4
 #https://openload.co/f/P4Fkr3ffImw/The.Meg.2018.CAM.SUBBED.V2READNFO.XViD.avi.mp4
 #https://openload.co/f/MUFIWuInpKQ/The_Meg_2018_New_1080p_HDTC_SeeHD.mkv.mp4
 #https://openload.co/f/2r45hsli8SE/The%2CMeg.2018.TC720P.X264.AAC.English.CHS_SeeHD.mp4
@@ -6649,10 +6683,11 @@ URL=https://streamango.com/f/ostctobsabnkfkeb/Father_of_the_Year_2018_
 
 
 type=video
-name=A Prayer Before Dawn (2018) ENG 720p.WEB-DL.DD5.1.H264-CMRG_SeeHD
+name=A Prayer Before Dawn (2018) ENG 720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/73KrcLh1DpnBP3HwGpqoUUwKWF4.jpg
-date=2018-07-24
-URL=https://openload.co/f/7C6DaGDh488/A_Prayer_Before_Dawn.2017.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+date=2018-09-06
+URL=https://openload.co/f/X-MCQIj_ZAU/A.Prayer.Before.Dawn.2017.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
+#https://openload.co/f/7C6DaGDh488/A_Prayer_Before_Dawn.2017.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 type=video
 name=A Prayer Before Dawn (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/73KrcLh1DpnBP3HwGpqoUUwKWF4.jpg
@@ -6965,10 +7000,14 @@ URL=https://streamango.com/f/coabralqdkpdtmqf/The_Kissing_Booth_2018_
 
 
 type=video
-name=Cargo (2018) ENG 1080p.NF.WEB-DL.DD5.1.x264-NTG
+name=Cargo (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdPSUck4tBRvRu6DFk6XciDrssn.jpg
-date=2018-05-25
-URL=https://openload.co/f/Qjn4A9UHrG8/Cargo.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG.mp4
+date=2018-09-06
+URL=https://uptobox.com/7m50io9l278o
+#https://www.rapidvideo.com/e/FUZYWYA7ZR
+#https://openload.co/embed/3IgSIeaxAgs/SHQCARGOBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/IuDSp2ubjOU/Cargo_%282017%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
+#https://openload.co/f/Qjn4A9UHrG8/Cargo.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG.mp4
 type=video
 name=Cargo (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdPSUck4tBRvRu6DFk6XciDrssn.jpg
@@ -8325,10 +8364,12 @@ URL=https://streamango.com/f/kobkcptnsbbbtpqa/Ocean_s_8_2018_8_
 
 
 type=video
-name=Skyscraper (2018) ENG 720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT
+name=Skyscraper (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
-date=2018-07-14
-URL=https://openload.co/f/1o7zJrDRq9A/Skyscaper.2018.720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
+date=2018-09-06
+URL=https://openload.co/f/KZEvP3F4BaA/Skyscraper.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/kdaRMymt6QM/Skyscraper.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/1o7zJrDRq9A/Skyscaper.2018.720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
 #https://openload.co/f/rhK9dqpTTrg/Skyscraper.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/Yuc9h5YDNd4/Skyscraper.2018.720p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4
 #https://openload.co/f/rEktzWFk-m4/Skyscraper_2018_NEW_720p_FULL_HDCAM_X264_HQMic-24HD_SeeHD.mkv.mp4
@@ -10086,7 +10127,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-05
+date=2018-09-06
 URL=
 
 
@@ -10103,9 +10144,18 @@ URL=
 
 
 
+type=video
+name=Harry Potter and the Chamber of Secrets (2002) [COLOR=FF00FF00]ENG Extended BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg
+date=2018-09-06
+URL=https://openload.co/f/_LdLJNlJkMs/Harry.Potter.And.The.Chamber.Of.Secrets.2002.UEE.1080p.Bluray.x264.mp4
+#https://openload.co/f/K53B1VPaECM/Harry_Potter_and_the_Chamber_of_Secrets_mux.mp4
 
-
-
+type=video
+name=Scooby-Doo! and the Cyber Chase (2001) [COLOR=FF00FF00]ENG DVD[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/poAzQ1fRYTsTDYYKuQBXCrP28qG.jpg
+date=2018-09-06
+URL=https://openload.co/f/uUoKVvEdKXE/Scooby-Doo_and_the_Cyber_Chase_DVD-Rip._2001.mp4
 
 type=video
 name=Iron Man (2008) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
