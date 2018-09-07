@@ -56,6 +56,117 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=101xxxxxxxxxxxxxxxxxxxxSensual Insurance Saleswomen (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Sensual-Insurance-Saleswomen-2017.jpg
+date=2018-09-07
+URL=https://streamcherry.com/embed/ebsteqtffrpnqssr/
+
+type=video
+name=Inside Story of Female Spicy Novelist (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Inside-Story-of-Female-Spicy-Novelist-2017.jpg
+date=2018-09-07
+URL=https://streamcherry.com/embed/fmsmmktfkbrnkclb/
+
+type=video
+name=Yahanjis Nc (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Yahanjis-Nc-2018.jpg
+date=2018-09-07
+URL=https://streamcherry.com/embed/qclkfmfottrtaqdf/
+
+type=video
+name=Ttal Ui Aein (2018) [Nc]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Ttal-Ui-Aein-2018-Nc.jpg
+date=2018-09-07
+URL=https://streamcherry.com/embed/pdqcemaccmescalk/
+
+type=video
+name=It’s not that sex (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Its-not-that-sex-2010.jpg
+date=2018-09-07
+URL=https://streamcherry.com/embed/temdakspnrklfbqd/
+
+
+type=video
+name=Gikenna Hukusyu (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Gikenna-Hukusyu-2016.jpg
+date=2018-09-07
+URL=https://streamcherry.com/embed/kqcmnqcllptfredk/
+
+type=video
+name=Job Interview of Housewife Sex Shop (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Job-Interview-of-Housewife-Sex-Shop-2017.jpg
+date=2018-09-07
+URL=https://streamcherry.com/embed/demfemptddscknbn/
+
+type=video
+name=Kogyaku No Lkenie Ai Uehara (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Kogyaku-No-Lkenie-Ai-Uehara-2017.jpg
+date=2018-09-07
+URL=https://streamcherry.com/embed/ralpaqokqnbnksll/
+
+type=video
+name=I envy his sex (2010) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/I-envy-his-sex-2010.jpg
+date=2018-09-07
+URL=https://streamcherry.com/embed/bfkndfmlssfddent/
+
+type=video
+name=Unusual Sexual Preferences (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Unusual-Sexual-Preferences-2009.jpg
+date=2018-09-07
+URL=https://streamcherry.com/embed/pbqlffdqscdcktnr/
+
+
+type=video
+name=Her sex reminders (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Her-sex-reminders-2010.jpg
+date=2018-09-07
+URL=https://streamcherry.com/embed/ndeaalofcraemdpn/
+
+type=video
+name=Wallet-Friendly Hand Job Shop 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Wallet-Friendly-Hand-Job-Shop-2-2017.jpg
+date=2018-09-07
+URL=https://streamcherry.com/embed/mmqmbafpeafoctcs/
+
+type=video
+name=Peeping Girls at Men’s Masturbating Room (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Peeping-Girls-at-Mens-Masturbating-Room-2017.jpg
+date=2018-09-07
+URL=https://streamcherry.com/embed/mpcpfopkqstqflak/
+
+type=video
+name=Taishu is the sister (2006)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Taishu-is-the-sister-2006.jpg
+date=2018-09-07
+URL=https://streamcherry.com/embed/odrnrsfdsdobqrro/
+
+type=video
+name=A hot killer sex killer (2009) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/A-hot-killer-sex-killer-2009.jpg
+date=2018-09-07
+URL=https://streamcherry.com/embed/acmdafrnabteloao/
+
+
+
+
+
+
 type=video
 name=86xxxxxxxxxxxxxxxxxxxxUnique Naked Cure (2009)
 thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Unique-Naked-Cure-2009.jpg

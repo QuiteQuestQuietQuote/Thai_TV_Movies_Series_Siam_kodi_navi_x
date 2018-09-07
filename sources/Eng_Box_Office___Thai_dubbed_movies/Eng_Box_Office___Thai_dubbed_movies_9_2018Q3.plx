@@ -66,18 +66,18 @@ date=2018-08-10
 URL=
 
 type=video
-name=e
-thumb=https://ganol.ru/wp-content/uploads/2018/08/The-Limit-of-Sleeping-Beauty-2017-229x323.jpg
+name=
+thumb=
 date=2018-07-13
-URL=https://www.rapidvideo.com/e/FTYWT8PZK3
+URL=
 
 
 
 type=video
-name=v
-thumb=https://ganol.st/wp-content/uploads/2018/09/Captain-America-The-First-Avenger-2011-BluRay-248x323.jpg
-date=2018-09-06
-URL=https://www.rapidvideo.com/r/FUWNWPHWB5
+name=
+thumb=
+date=2018-09-07
+URL=
 
 
 
@@ -85,6 +85,20 @@ URL=https://www.rapidvideo.com/r/FUWNWPHWB5
 
 
 
+
+
+
+type=video
+name=The Nun (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg
+date=2018-09-07
+URL=https://openload.co/f/yLNCEbVeYIM/The_Nun_2018_720p_HDCAM-1XBET_SeeHD.mp4
+
+type=video
+name=BlacKkKlansman (2018) ENG 720p_HDCAM_X264-24HD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/55W6mUVv4CXMMQHHhV2zXtLSpXQ.jpg
+date=2018-09-07
+URL=https://openload.co/f/Rf7BISAZHx4/BlacKkKlansman_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
 
 type=video
 name=Searching (2018) ENG 720p.TS.1XBET_SeeHD
@@ -618,12 +632,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCy74z0ipr3SiodWGOz21b4pBG
 date=2017-11-09
 URL=https://openload.co/f/A7QYiU4ru8s/champion.limited.2017.dvdrip.x264-lpd.mkv.mp4
 
-type=video
-name=The 60 Yard Line (2017) ENG HDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6egvfUVQQxxfPMYHAQfqaQPgL8X.jpg
-date=2018-01-30
-URL=https://openload.co/f/UXXuSe4jnzk/The.60.Yard.Line.2017.HDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/f2JLS6k7LaI/The.60.Yard.Line.2017.HDRip.XviD.AC3-EVO.avi
+
 
 type=video
 name=La Barracuda (2017) ENG HDRip.XviD.AC3-EVO
@@ -1270,11 +1279,52 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-05
+date=2018-09-07
 URL=
 
 
 
+
+
+
+type=video
+name=High Fantasy (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJ5cGk1OaW02vlSqwciNlZJkCZK.jpg
+date=2018-09-07
+URL=https://openload.co/f/xT1YfadHPUI/High.Fantasy.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/U7E0PUBVeOM/High.Fantasy.2017.720p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=Natural Vice (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJUGvSkS77nin2qlf6szAsjTDdq.jpg
+date=2018-09-07
+URL=https://openload.co/f/fpLv0ljZmNw/Natural.Vice.2018.BluRay.1080p.DTS.x264-CHD.mkv.mp4
+
+type=video
+name=Serpent (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HC71kjFTFTC2nNe7YCoqPW2pbA.jpg
+date=2018-09-07
+URL=https://openload.co/f/N44x2e1ptSc/serpent.2017.1080p.bluray.x264-rusted.mkv.mp4
+
+type=video
+name=Global Meltdown (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3msVFWalwQyfXQONXh9dRM0FLpD.jpg
+date=2018-09-07
+URL=https://openload.co/f/HUkWRZ0g7rY/global.meltdown.2017.1080p.bluray.x264-getit.mkv.mp4
+
+type=video
+name=The 8-Year Engagement (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8U2bPJMeNYKvQ9RkttiZJ5Jl5D1.jpg
+date=2018-09-07
+URL=https://openload.co/f/1URVAby99DA/The.8-Year.Engagement.2017.JAPANESE.1080p.BluRay.H264.AAC-VXT.mp4
+
+type=video
+name=The 60 Yard Line (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6egvfUVQQxxfPMYHAQfqaQPgL8X.jpg
+date=2018-09-07
+URL=https://openload.co/f/803eD0LP1D4/the.60.yard.line.2017.1080p.bluray.x264-sprinter.mkv.mp4
+#https://openload.co/f/UXXuSe4jnzk/The.60.Yard.Line.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/f2JLS6k7LaI/The.60.Yard.Line.2017.HDRip.XviD.AC3-EVO.avi
 
 type=video
 name=Ideal Home (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3088,23 +3138,6 @@ URL=https://openload.co/f/J1uN-k0BEJU/Re.Born.2016.JAPANESE.1080p.BluRay.H264.AA
 #https://openload.co/f/6IOjkbLNG98/re.born.2016.720p.bluray.x264-ghouls.mkv.mp4
 #https://openload.co/f/VouCatwCGH8/Re.Born.2016.BDRip.x264.HC-EngSubs.mp4
 
-type=video
-name=Molly's Game (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YC8iVPxvRrz53FdfdejDgUUk2k.jpg
-date=2018-04-03
-URL=https://www.blazefile.co/embed-yri7w4uwhabh.html
-#https://uptobox.com/tq6hiq5m3i9z
-#https://openload.co/f/cB8Gz7bfzbU/Mollys.Game.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/u42tMyXtOXU/mollys.game.2017.720p.bluray.x264-drones.mkv   MKV6.6GB
-#https://openload.co/f/YH2QqP08B34/Mollys.Game.2017.1080p.WEB-DL.AAC2.0.H264-DVDBOX.mkv.mp4
-#https://openload.co/f/89l5vGnUY70/Mollys.Game.2017.720pHD.WEB-DL_SeeHD.mp4
-#https://openload.co/f/FQMXMzXmjXY/Molly%27s_Game_2017_720p_HC_HDRip_SeeHD.mkv.mp4
-#https://openload.co/f/_fbaDs2bYTk/Mollys.Game.2017.720p.HC.HDRip.X264-Jhulelal.mkv.mp4
-#https://openload.co/f/bDzBWi4g5EQ/Mollys_Game-DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
-#https://openload.co/f/J9sWRgUuroU/Mollys.Game.2017.HDCAM.READNFO.x264-DiRG.mp4
-#https://openload.co/f/P8Txe4VXgyc/Mollys.Game.2017.CAM.ENG.x264-NoGRP.MP4.mp4
-#https://www.blazefile.co/embed-cb7ypzkk4xjq.html   720
-#https://uptobox.com/il4qzzy7ecxi   720
 
 
 
@@ -5856,11 +5889,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/332hhEolIiGkPjebb162iOobSI
 date=2018-09-05
 URL=https://openload.co/f/afevUp3wppY/Ares.2016.FRENCH.720p.BluRay.x264.DTS-AKME.mkv.mp4
 
-type=video
-name=High Fantasy (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJ5cGk1OaW02vlSqwciNlZJkCZK.jpg
-date=2018-09-06
-URL=https://openload.co/f/U7E0PUBVeOM/High.Fantasy.2017.720p.BluRay.x264-%5BYTS.AM%5D.mp4
+
 
 type=video
 name=Skybound (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -7000,11 +7029,15 @@ URL=https://streamango.com/f/coabralqdkpdtmqf/The_Kissing_Booth_2018_
 
 
 type=video
-name=Cargo (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Cargo (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdPSUck4tBRvRu6DFk6XciDrssn.jpg
-date=2018-09-06
-URL=https://uptobox.com/7m50io9l278o
-#https://www.rapidvideo.com/e/FUZYWYA7ZR
+date=2018-09-07
+URL=https://uptobox.com/snwjm457ibk1
+#https://www.rapidvideo.com/e/FUZZPAOV7E
+#https://openload.co/embed/ZYbvTbi7JuQ/GHPCARG080.Ganol.st.mkv.mp4
+#https://openload.co/f/IcTJAgDL5qY/Cargo_%282017%291080p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
+#https://uptobox.com/7m50io9l278o   720
+#https://www.rapidvideo.com/e/FUZYWYA7ZR   720
 #https://openload.co/embed/3IgSIeaxAgs/SHQCARGOBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/IuDSp2ubjOU/Cargo_%282017%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
 #https://openload.co/f/Qjn4A9UHrG8/Cargo.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG.mp4
@@ -8333,34 +8366,7 @@ date=2018-09-01
 URL=https://openload.co/f/-g0pJTJq1wY/Detective_Dee%3A_The_Four_Heavenly_Kings_%282018%29%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B9%8B%E0%B8%A2_%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%9F%E0%B9%89%E0%B8%B2_4_%E0%B8%88%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B9%80%E0%B8%97%E0%B8%9E_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
-type=video
-name=Ocean's 8 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7caaqQjTkovwoZsEOPzgHvkzOWB.jpg
-date=2018-08-29
-URL=https://uptobox.com/al0veo58x7xy
-#https://www.rapidvideo.com/e/FUPUGNMVF0
-#https://openload.co/embed/SYvzqPnVNrY/GHPOCEAN880.Ganool.si.mkv.mp4
-#https://openload.co/f/XuAr0XjcGrI/oceans.eight.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/Ki5wmCxogRI/Oceans.Eight.2018.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/i6NfosNCbOc/Ocean%27s.Eight.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/CihxtAUAVb4/Oceans.Eight.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/xuJcFKP6ngk/Oceans.Eight.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/0s7KEQsrK5I/Oceans.8.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/d9_axrgH26o/Ocean%27s.Eight.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/VuCdquMUFLY/Oceans.8.2018.720p.WEB-DL.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/7WkQfDnkctU/Oceans_8_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/jils94FsuGM/Oceans_8_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/egvFlNBBxlw/Oceans.8.2018.CAM.X264-IPT_SeeHD.mkv.mp4
-#https://openload.co/f/HNqXzm647eA/Oceans_8_2018_CAM_X264-CaixistaEstupido.mkv.mp4
-#https://uptobox.com/dxz52qbi205h   720
-#https://www.rapidvideo.com/e/FUPCWXBFN7   720
-#https://openload.co/embed/poLWSpWLoOI/SHQOCEAN8BD72.Ganool.si.mkv
-type=video
-name=Ocean's 8 (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7caaqQjTkovwoZsEOPzgHvkzOWB.jpg
-date=2018-08-26
-URL=https://streamango.com/f/kobkcptnsbbbtpqa/Ocean_s_8_2018_8_
-#https://streamango.com/f/adlroqadtdnccsqt/Ocean_s_8_2018_8_
+
 
 
 type=video
@@ -8404,10 +8410,18 @@ URL=https://streamango.com/f/aecberatadpcfkqe/The_Cured_2018_
 
 
 type=video
-name=Jurassic World: Fallen Kingdom (2018) ENG 1080p WEB 2.2GB
+name=Jurassic World: Fallen Kingdom (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
-date=2018-09-04
-URL=https://openload.co/f/6ysRd1MnOBY/Jurassic.World.2018.1080p.mp4
+date=2018-09-07
+URL=https://uptobox.com/a5ca2ny62ydr
+#https://www.rapidvideo.com/e/FV18WMFUVV
+#https://openload.co/embed/Cm4fuT4ppg0/GHPJURSICWORLDKINDOM80.Ganol.st.mkv
+#https://openload.co/f/cIhQBF_lUOc/Jurassic_World%3A_Fallen_Kingdom_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
+#https://openload.co/f/IatQZ0yzDlE/jurassic.world.fallen.kingdom.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/4vpUuh-bROo/jurassic.world.fallen.kingdom.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/uZt_zZX5fyE/Jurassic.World.Fallen.Kingdom.2018.720p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/Lw2jnPrdsOA/boJurassic.World.Fallen.Kingdom.2018.720p.BluRay.H264.AACRARBG.mp4
+#https://openload.co/f/6ysRd1MnOBY/Jurassic.World.2018.1080p.mp4
 #https://openload.co/f/1m4IPuKQQJ4/Jurassic.World.2018.1080pHD_SeeHD.mkv.mp4
 #https://openload.co/f/eHybg2q5qFw/Jurassic.World.2018.1080pHD_SeeHD.mkv   MKV2.9GB
 #https://openload.co/f/J_zRzPPeL5o/jurassic.world.fallen.kingdom.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
@@ -8430,8 +8444,9 @@ URL=https://openload.co/f/6ysRd1MnOBY/Jurassic.World.2018.1080p.mp4
 type=video
 name=Jurassic World: Fallen Kingdom (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
-date=2018-07-31
-URL=https://streamango.com/f/lnnbdbadecooasqk/Jurassic_World_Fallen_Kingdom_2018_
+date=2018-09-07
+URL=https://openload.co/f/9b-uB8QJ5rY/Jurassic_World%3A_Fallen_Kingdom_%282018%29%E0%B8%88%E0%B8%B9%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%84_%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B9%8C_%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%A5%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/lnnbdbadecooasqk/Jurassic_World_Fallen_Kingdom_2018_
 #https://streamango.com/f/qfdpefrdpbdbbbbn/Jurassic_World_Fallen_Kingdom_2018_
 
 
@@ -8504,16 +8519,7 @@ URL=https://streamango.com/f/rcnscffcdpdcsksc/Operation_Red_Sea_2018_
 
 
 
-type=video
-name=Higher Power (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cplMeBlGdkpDzypHRKZ64BrpLoL.jpg
-date=2018-07-05
-URL=https://openload.co/f/oTLVDs9dn_Y/Higher.Power.2018.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
-type=video
-name=Higher Power (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cplMeBlGdkpDzypHRKZ64BrpLoL.jpg
-date=2018-06-06
-URL=https://streamango.com/f/lddnarmlsrnlbnrm/Higher_Power_2018_
+
 
 
 type=video
@@ -8657,7 +8663,18 @@ URL=https://streamango.com/f/snbfltkcqdpqnfcf/Doraemon_the_Movie_2017_Nobita_s_G
 
 
 
-
+type=video
+name=The Show (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1O9hTngTf6oghVAPp5l79yYJ04J.jpg
+date=2017-11-03
+URL=https://www.blazefile.co/embed-bw648kmpxqj7.html
+#https://openload.co/f/9cjGcrK6xeQ/The.Show.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
+#https://openload.co/f/CYKxRx3bjic/This_Is_Your_Death_2017_720p_WEB-DL_H264_AC3-EVO.mp4
+type=video
+name=The Show (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1O9hTngTf6oghVAPp5l79yYJ04J.jpg
+date=2018-03-20
+URL=https://streamango.com/f/otrftsncocqtomfe/The_Show_2017_
 
 
 
@@ -8676,36 +8693,10 @@ date=2018-03-23
 URL=https://streamango.com/f/csnqemnrlmkbdaml/Earth_One_Amazing_Day_2017_1_
 
 
-type=video
-name=The Show (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1O9hTngTf6oghVAPp5l79yYJ04J.jpg
-date=2017-11-03
-URL=https://www.blazefile.co/embed-bw648kmpxqj7.html
-#https://openload.co/f/9cjGcrK6xeQ/The.Show.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
-#https://openload.co/f/CYKxRx3bjic/This_Is_Your_Death_2017_720p_WEB-DL_H264_AC3-EVO.mp4
-type=video
-name=The Show (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1O9hTngTf6oghVAPp5l79yYJ04J.jpg
-date=2018-03-20
-URL=https://streamango.com/f/otrftsncocqtomfe/The_Show_2017_
 
 
-type=video
-name=Happy Family (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp1kMdB5TVZ5ZN7BdpGQbVhAbfh.jpg
-date=2018-02-21
-URL=https://www.blazefile.co/embed-ikkj4i59usiw.html
-#https://uptobox.com/34d3ow8vjgsh
-#https://openload.co/f/oo9ERcTDNFk/happyfamily80.Ettv.st.mkv
-#https://openload.co/f/EjWV2xGBA5k/Happy.Family.2017.1080p.Bluray.X264-EVO.mkv.mp4
-#https://openload.co/f/5AArtWLZb2I/DD_Happy.Family.2017.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
-#http://entervideo.net/watch/78214b8b8f6c507
-#https://openload.co/f/sDKaKTnsdrU/Happy.Family.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
-type=video
-name=Happy Family (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp1kMdB5TVZ5ZN7BdpGQbVhAbfh.jpg
-date=2018-03-20
-URL=https://streamango.com/f/bmldsbamrspanecq/Happy_Family_2017_
+
+
 
 
 
@@ -9007,11 +8998,110 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=
 thumb=
-date=2018-08-28
+date=2018-09-07
 URL=
 
 
 
+
+
+
+
+
+
+
+type=video
+name=Ocean's 8 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7caaqQjTkovwoZsEOPzgHvkzOWB.jpg
+date=2018-08-29
+URL=https://uptobox.com/al0veo58x7xy
+#https://www.rapidvideo.com/e/FUPUGNMVF0
+#https://openload.co/embed/SYvzqPnVNrY/GHPOCEAN880.Ganool.si.mkv.mp4
+#https://openload.co/f/XuAr0XjcGrI/oceans.eight.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/Ki5wmCxogRI/Oceans.Eight.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/i6NfosNCbOc/Ocean%27s.Eight.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/CihxtAUAVb4/Oceans.Eight.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/xuJcFKP6ngk/Oceans.Eight.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/0s7KEQsrK5I/Oceans.8.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/d9_axrgH26o/Ocean%27s.Eight.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/VuCdquMUFLY/Oceans.8.2018.720p.WEB-DL.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/7WkQfDnkctU/Oceans_8_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/jils94FsuGM/Oceans_8_2018_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/egvFlNBBxlw/Oceans.8.2018.CAM.X264-IPT_SeeHD.mkv.mp4
+#https://openload.co/f/HNqXzm647eA/Oceans_8_2018_CAM_X264-CaixistaEstupido.mkv.mp4
+#https://uptobox.com/dxz52qbi205h   720
+#https://www.rapidvideo.com/e/FUPCWXBFN7   720
+#https://openload.co/embed/poLWSpWLoOI/SHQOCEAN8BD72.Ganool.si.mkv
+type=video
+name=Ocean's 8 (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7caaqQjTkovwoZsEOPzgHvkzOWB.jpg
+date=2018-09-07
+URL=https://openload.co/f/BOoTO3SpZeU/Ocean%27s_8_%282018%29%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%99_8.mp4
+#https://streamango.com/f/kobkcptnsbbbtpqa/Ocean_s_8_2018_8_
+#https://streamango.com/f/adlroqadtdnccsqt/Ocean_s_8_2018_8_
+
+
+type=video
+name=Marauders (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iOYH67ZPflBMDMMkEv2tKRX4xe.jpg
+date=2018-09-07
+URL=https://openload.co/f/fgmindac0aQ/Marauders_%282016%29Marauders_%282016%29.mp4
+
+
+type=video
+name=Molly's Game (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YC8iVPxvRrz53FdfdejDgUUk2k.jpg
+date=2018-04-03
+URL=https://www.blazefile.co/embed-yri7w4uwhabh.html
+#https://uptobox.com/tq6hiq5m3i9z
+#https://openload.co/f/cB8Gz7bfzbU/Mollys.Game.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/u42tMyXtOXU/mollys.game.2017.720p.bluray.x264-drones.mkv   MKV6.6GB
+#https://openload.co/f/YH2QqP08B34/Mollys.Game.2017.1080p.WEB-DL.AAC2.0.H264-DVDBOX.mkv.mp4
+#https://openload.co/f/89l5vGnUY70/Mollys.Game.2017.720pHD.WEB-DL_SeeHD.mp4
+#https://openload.co/f/FQMXMzXmjXY/Molly%27s_Game_2017_720p_HC_HDRip_SeeHD.mkv.mp4
+#https://openload.co/f/_fbaDs2bYTk/Mollys.Game.2017.720p.HC.HDRip.X264-Jhulelal.mkv.mp4
+#https://openload.co/f/bDzBWi4g5EQ/Mollys_Game-DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/J9sWRgUuroU/Mollys.Game.2017.HDCAM.READNFO.x264-DiRG.mp4
+#https://openload.co/f/P8Txe4VXgyc/Mollys.Game.2017.CAM.ENG.x264-NoGRP.MP4.mp4
+#https://www.blazefile.co/embed-cb7ypzkk4xjq.html   720
+#https://uptobox.com/il4qzzy7ecxi   720
+type=video
+name=Molly's Game (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YC8iVPxvRrz53FdfdejDgUUk2k.jpg
+date=2018-09-07
+URL=https://openload.co/f/5MUvLZyQSQc/Molly%27s_Game_%282017%29%E0%B9%80%E0%B8%81%E0%B8%A1_%E0%B9%82%E0%B8%81%E0%B8%87_%E0%B8%A3%E0%B8%A7%E0%B8%A2.mp4
+
+
+type=video
+name=Higher Power (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cplMeBlGdkpDzypHRKZ64BrpLoL.jpg
+date=2018-07-05
+URL=https://openload.co/f/oTLVDs9dn_Y/Higher.Power.2018.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+type=video
+name=Higher Power (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cplMeBlGdkpDzypHRKZ64BrpLoL.jpg
+date=2018-09-07
+URL=https://openload.co/f/tj47xhFhUDI/Higher_Power_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B9%88%E0%B8%B2.mp4
+#https://streamango.com/f/lddnarmlsrnlbnrm/Higher_Power_2018_
+
+
+type=video
+name=Happy Family (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp1kMdB5TVZ5ZN7BdpGQbVhAbfh.jpg
+date=2018-02-21
+URL=https://www.blazefile.co/embed-ikkj4i59usiw.html
+#https://uptobox.com/34d3ow8vjgsh
+#https://openload.co/f/oo9ERcTDNFk/happyfamily80.Ettv.st.mkv
+#https://openload.co/f/EjWV2xGBA5k/Happy.Family.2017.1080p.Bluray.X264-EVO.mkv.mp4
+#https://openload.co/f/5AArtWLZb2I/DD_Happy.Family.2017.1080p.WEB-DL.H264.AC3-EVO%5BEtHD%5D.mkv.mp4
+#http://entervideo.net/watch/78214b8b8f6c507
+#https://openload.co/f/sDKaKTnsdrU/Happy.Family.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
+type=video
+name=Happy Family (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp1kMdB5TVZ5ZN7BdpGQbVhAbfh.jpg
+date=2018-09-07
+URL=https://openload.co/f/BVkS0a2eT4M/Happy_Family_%282017%29%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88.mp4
+#https://streamango.com/f/bmldsbamrspanecq/Happy_Family_2017_
 
 
 type=video
@@ -10127,22 +10217,36 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-06
+date=2018-09-07
 URL=
 
 
 
 
 
+type=video
+name=RED (2010) [COLOR=FF00FF00]ENG BR 2160p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2mwTRKrq1etP9S4SZVDIJq0wI2.jpg
+date=2018-09-07
+URL=https://openload.co/f/jBYuc30dqdc/RED.2010.2160p.x265.10bit.FS89.Joy%29.mkv.mp4
 
+type=video
+name=It (2017) [COLOR=FF00FF00]ENG BR 2160p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg
+date=2018-09-07
+URL=https://openload.co/f/4kQSam7P4Zk/IT.2017.2160p.x265.10bit.FS83.Joy.mkv.mp4
 
+type=video
+name=No Country for Old Men (2007) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBaqryObPuxmuAndWUjDE5rriTd.jpg
+date=2018-09-07
+URL=https://openload.co/f/UkooEYGPGBI/No_Country_For_Old_Men.2007.HD_1080p.mp4
 
-
-
-
-
-
-
+type=video
+name=The Conjuring (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejrD1lkCIQX26TO8k4gePsFpcyX.jpg
+date=2018-09-07
+URL=https://openload.co/f/LCZgK8Rkc2s/The.Conjuring.2013.1080p.Br_SeeHD.mp4
 
 type=video
 name=Harry Potter and the Chamber of Secrets (2002) [COLOR=FF00FF00]ENG Extended BR 1080p[/COLOR]

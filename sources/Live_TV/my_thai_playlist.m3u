@@ -2609,11 +2609,11 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 group-title="xxx" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Hustler-HD-18.jpg",hustlerhd
 http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
-#EXTINF:-1,hustler HD
+#EXTINF:-1,hustler HD_ru
 http://85.132.71.6/ru/hust/index.m3u8
-#EXTINF:-1,blue hustler
+#EXTINF:-1,blue hustler_ru
 http://85.132.71.6/ru/blue/index.m3u8
-#EXTINF:-1,Brazzers_TV_Europe_RU
+#EXTINF:-1,Brazzers_TV_Europe_ru
 http://85.132.71.6/ru/braz/index.m3u8
 #EXTINF:-1,Brazzers_TV_Europe
 http://193.93.236.121:9991/play/Brazzers_TV_Europe/index.m3u8
@@ -2709,10 +2709,6 @@ http://37.9.0.196:9000/play/a044
 #EXTINF:-1, WAAYH
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/922/index.m3u8
 
-#EXTINF:-1,Hustler TV 
-http://178.68.232.49:81/play/a01l 
-#EXTINF:-1,CTC Love 
-http://178.68.232.49:81/play/a008 
 
 
 #EXTINF:-1,Chinese1
@@ -3002,8 +2998,6 @@ http://203.162.235.41:17819
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/37.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",UK: Sky CNBC_ts
 http://ipsatpro.com:8080/live/ivan003/ivan003/466.ts
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_hd
-http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_climate
 http://climate.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_fries
@@ -3209,7 +3203,8 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?
 http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News US HD
 https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_hd
+http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_electric
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
