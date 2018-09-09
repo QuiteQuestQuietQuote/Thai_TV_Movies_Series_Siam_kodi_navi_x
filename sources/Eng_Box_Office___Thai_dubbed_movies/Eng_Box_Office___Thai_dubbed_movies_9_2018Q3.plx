@@ -76,7 +76,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-07
+date=2018-09-09
 URL=
 
 
@@ -86,7 +86,12 @@ URL=
 
 
 
-
+type=video
+name=Papillon (2018) ENG New.720p.HDCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahF5c6vyP8HWMqIwlhecbRALkjq.jpg
+date=2018-09-09
+URL=https://openload.co/f/6KA5yHZmYjo/Papillon.2018.New.720p.HDCAM.mkv.mp4
+#https://openload.co/f/Fh3NM-aqVXU/Papillon.2018.CAM.1XBET_SeeHD.mp4
 
 type=video
 name=The Nun (2018) ENG 720p_HDCAM-1XBET_SeeHD
@@ -210,13 +215,7 @@ URL=https://openload.co/f/4rQ-PpCodrE/Mamma.Mia%21.2.2018.720p.HDCAM.1XBET_SeeHD
 
 
 
-type=video
-name=Siberia (2018) ENG 720hd_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0ybv0jt4OrTFOHdzrSIssaE2xJ.jpg
-date=2018-07-19
-URL=https://openload.co/f/3rEkxjEUCZs/siberia720hd_SeeHD.mkv.mp4
-#https://openload.co/f/BJWukZFMdlw/Siberia.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/NlJm2Ahdoic/Siberia.2018.720p.WEB-DL.DD5.1.X264.AC3-CMRG_SeeHD.mkv.mp4
+
 
 type=video
 name=Billionaire Boys Club (2018) ENG 720pHD_SeeHD
@@ -1004,12 +1003,7 @@ date=2018-03-04
 URL=https://www.blazefile.co/embed-7ajf2svepdpe.html
 #https://openload.co/f/ydS6ih9sgJ0/king.charles.iii.2017.dvdrip.x264-ghouls.mkv.mp4
 
-type=video
-name=The Child in Time (2017) ENG dvdrip.x264-ghouls
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCoCMVvhEmW1Xo0G8oZQH7DDnGP.jpg
-date=2017-11-20
-URL=https://openload.co/f/1HXKvHwSqkg/the.child.in.time.2017.dvdrip.x264-ghouls.mkv.mp4
-#https://openload.co/f/bPny44tZekE/the.child.in.time.2017.1080p.hdtv.h264-mtb.mkv.mp4
+
 
 type=video
 name=Andy's Rainbow (2016) ENG WEBRip.x264-iNTENSO
@@ -1279,13 +1273,54 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-07
+date=2018-09-09
 URL=
 
 
 
 
 
+
+
+type=video
+name=Silencer (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Cr8cZhtiu9evgkp3IGajIdbM4b.jpg
+date=2018-09-09
+URL=https://openload.co/f/YAXmd4nrESs/Silencer.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Ignacio de Loyola (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnqSY7PNXXNH1v3zcrEknn1S8Y2.jpg
+date=2018-09-09
+URL=https://openload.co/f/jPR6feJAcH4/Ignacio.of.Loyola.2016.1080p.BluRay.H264.AAC-HDMovie8.mp4
+
+type=video
+name=The Child in Time (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCoCMVvhEmW1Xo0G8oZQH7DDnGP.jpg
+date=2018-09-09
+URL=https://openload.co/f/3_sHgO9XUPY/The.Child.In.Time.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/5G6J1l-LJu0/The.Child.In.Time.2017.720p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/1HXKvHwSqkg/the.child.in.time.2017.dvdrip.x264-ghouls.mkv.mp4
+#https://openload.co/f/bPny44tZekE/the.child.in.time.2017.1080p.hdtv.h264-mtb.mkv.mp4
+
+type=video
+name=Nightworld (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYlv5AHOY9R7NE31JcMbadDkXTo.jpg
+date=2018-09-09
+URL=https://openload.co/f/Cogeg1N85_g/Nightworld.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=Siberia (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0ybv0jt4OrTFOHdzrSIssaE2xJ.jpg
+date=2018-09-09
+URL=https://openload.co/f/gGKTl9I1gC8/Siberia.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/0hjybczdcRA/Siberia.2018.720p.BR_SeeHD.mp4
+#https://uptobox.com/p7xffd8dekzo   720
+#https://www.rapidvideo.com/e/FV2FH82HK3   720
+#https://openload.co/embed/-5bTN8R-iYQ/SIBRIABD72.Ganol.st.mkv.mp4
+#https://openload.co/f/3rEkxjEUCZs/siberia720hd_SeeHD.mkv.mp4
+#https://openload.co/f/BJWukZFMdlw/Siberia.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/NlJm2Ahdoic/Siberia.2018.720p.WEB-DL.DD5.1.X264.AC3-CMRG_SeeHD.mkv.mp4
 
 type=video
 name=High Fantasy (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5900,13 +5935,36 @@ URL=https://uptobox.com/1tkuozvu6pco
 #https://openload.co/embed/3tqmNHx6uhM/SKYBOUNDBD72.Ganol.st.mkv
 #https://openload.co/f/ObpSnfMUYgM/Skybound_%282017%29720p_BluRay_x264-LATENCY.Ganool.mkv.mp4
 
+type=video
+name=Butterfly Caught (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjSkJ22Xe4lVjoPeYf8LceHmvwv.jpg
+date=2018-09-09
+URL=https://openload.co/f/AADdaUou4XQ/Butterfly.Caught.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
+type=video
+name=The Incredible Monk (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1qqCjoKX6mnt1L7OlbHXblHEKq.jpg
+date=2018-09-09
+URL=https://openload.co/f/wNt_SzUXxLc/The_Incredible_Monk_2018_BluRay_720p_AC3_2Audio_x264-HDMovie8.mp4
 
+type=video
+name=Godard Mon Amour (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/JfAE5Pj1Qqv7Ij5DaUG0QoZC97.jpg
+date=2018-09-09
+URL=https://uptobox.com/9e9qml8dycu3
+#https://www.rapidvideo.com/e/FV3N0ZLSRS
+#https://openload.co/embed/x0mdXvUQ-c4/GODARDAMOURBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/eMDerosRCm8/Godard_Mon_Amour_%282017%29720p_BluRay_x264-CADAVER.Ganool.mkv.mp4
+#https://openload.co/f/B1UTkiCfNwI/godard.mon.amour.2017.limited.bdrip.x264.engsub-cadaver.mp4
 
-
-
-
-
+type=video
+name=Studio 54 (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJcV3ZBL2feWkHytILaxcp6r8kf.jpg
+date=2018-09-09
+URL=https://uptobox.com/jt5n27x8t1a3
+#https://www.rapidvideo.com/e/FV2CQ2V8RS
+#https://openload.co/embed/6fhyYcx5hoo/STUDIO54BD72.Ganol.st.mkv.mp4
+#https://openload.co/f/PyfQNtw1lEw/Studio_54_%282018%29720p_BluRay_x264-CADAVER.Ganool.mkv.mp4
 
 
 
@@ -5917,7 +5975,7 @@ URL=https://uptobox.com/1tkuozvu6pco
 type=video
 name=
 thumb=
-date=2018-09-06
+date=2018-09-09
 URL=
 
 type=video
@@ -6369,7 +6427,7 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-08-30
+date=2018-09-09
 URL=
 
 
@@ -6386,9 +6444,16 @@ URL=
 
 
 
-
-
-
+type=video
+name=Sierra Burgess Is a Loser (2018) ENG 1080p.NF.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjnHRySiVM4YcBYzjCxw344y9g.jpg
+date=2018-09-09
+URL=https://openload.co/f/eDLf9ZHH5oo/Sierra.Burgess.Is.a.Loser.2018.1080p.NF.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+type=video
+name=Sierra Burgess Is a Loser (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjnHRySiVM4YcBYzjCxw344y9g.jpg
+date=2018-09-09
+URL=https://openload.co/f/jziLqnh6s-0/Sierra_Burgess_Is_a_Loser_%282018%29%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B2_%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%88%E0%B8%AA%E0%B8%AA%E0%B9%8C_%E0%B9%81%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%87%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%9B%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -6887,8 +6952,9 @@ URL=https://www.blazefile.co/embed-jid1zr33fy8w.html
 type=video
 name=A Wrinkle in Time (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSb6B7pwiZbW7In6juYEYjZ4Bsw.jpg
-date=2018-06-30
-URL=https://openload.co/f/yhEvVgIU8Hk/A_Wrinkle_in_Time_%282018%29%E0%B8%A2%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+date=2018-09-09
+URL=https://openload.co/f/xVPtfd5FeRc/A_Wrinkle_in_Time_%282018%29%E0%B8%A2%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+#https://openload.co/f/yhEvVgIU8Hk/A_Wrinkle_in_Time_%282018%29%E0%B8%A2%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -8417,6 +8483,10 @@ URL=https://uptobox.com/a5ca2ny62ydr
 #https://www.rapidvideo.com/e/FV18WMFUVV
 #https://openload.co/embed/Cm4fuT4ppg0/GHPJURSICWORLDKINDOM80.Ganol.st.mkv
 #https://openload.co/f/cIhQBF_lUOc/Jurassic_World%3A_Fallen_Kingdom_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
+#https://openload.co/f/aVrzZyw1pgU/jurassic.world.fallen.kingdom.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/sUcFY_l_QyA/Jurassic.World.Fallen.Kingdom.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/9hbOZTG48-U/Jurassic.World.Fallen.Kingdom.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/WoLPE03rgYg/jurassic.world.fallen.kingdom.2018.1080p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/IatQZ0yzDlE/jurassic.world.fallen.kingdom.2018.1080p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/4vpUuh-bROo/jurassic.world.fallen.kingdom.2018.1080p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/uZt_zZX5fyE/Jurassic.World.Fallen.Kingdom.2018.720p.BluRay.x264-SPARKS.mkv.mp4
@@ -8998,7 +9068,7 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=
 thumb=
-date=2018-09-07
+date=2018-09-09
 URL=
 
 
@@ -9008,6 +9078,24 @@ URL=
 
 
 
+
+type=video
+name=9 Satra (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5l0LDAb1BqbQoc2SvKhp2H2WSE.jpg
+date=2018-09-09
+URL=https://openload.co/f/yOqMCt07Ftc/9_Satra_%282018%299_%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B2.mp4
+
+
+type=video
+name=Next Gen (2018) ENG 1080p.NF.WEB-DL.DDP5.1.x264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUDDo5MPWM6rc6COQYhaoRNqvhE.jpg
+date=2018-09-09
+URL=https://openload.co/f/avO-cCGl1Ho/Next.Gen.2018.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv.mp4
+type=video
+name=Next Gen (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUDDo5MPWM6rc6COQYhaoRNqvhE.jpg
+date=2018-09-09
+URL=https://openload.co/f/YxhWcYwi9hY/Next_Gen_%282018%29%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B9%80%E0%B8%88%E0%B8%99.mp4
 
 
 type=video
@@ -10773,8 +10861,12 @@ URL=https://openload.co/f/nARY5PZ-GMY/The.Equalizer.2014.1080p.BR_SeeHD.mp4
 type=video
 name=Mamma Mia! (2008) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOm2iMMbC6EonrFzmSQ8xvCa4Ei.jpg
-date=2018-07-20
-URL=https://openload.co/f/UFQgVLWJIP0/Mamma.Mia.2008.1080p.BrRip.x264.BOKUTOX.mp4
+date=2018-09-09
+URL=https://uptobox.com/id5m1gasylol
+#https://www.rapidvideo.com/e/FV2BWZEEKL
+#https://openload.co/embed/GhTUueS1To8/GHPMAMAMIA80.Ganol.st.mkv.mp4
+#https://openload.co/f/FTdAfzbArnU/Mamma_Mia%21_%282008%291080p_BluRay_x264_DTS-SWTYBLZ.Ganool.mkv.mp4
+#https://openload.co/f/UFQgVLWJIP0/Mamma.Mia.2008.1080p.BrRip.x264.BOKUTOX.mp4
 
 type=video
 name=The Slammin' Salmon (2009) [COLOR=FF00FF00]ENG SD[/COLOR]
