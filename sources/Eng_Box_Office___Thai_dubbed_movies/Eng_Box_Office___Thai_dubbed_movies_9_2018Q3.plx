@@ -76,7 +76,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-09
+date=2018-09-10
 URL=
 
 
@@ -84,20 +84,22 @@ URL=
 
 
 
-
+type=video
+name=Peppermint (2018) ENG TS-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg
+date=2018-09-10
+URL=https://openload.co/f/QO7jpwtEtCI/Peppermint_2018_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/OqNJndekThw/Peppermint.2018.TS-1XBET.mp4
 
 type=video
-name=Papillon (2018) ENG New.720p.HDCAM
+name=Papillon (2018) ENG New.Src.720p.HDCAM.x264.AC3-NeNi
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahF5c6vyP8HWMqIwlhecbRALkjq.jpg
-date=2018-09-09
-URL=https://openload.co/f/6KA5yHZmYjo/Papillon.2018.New.720p.HDCAM.mkv.mp4
+date=2018-09-10
+URL=https://openload.co/f/7qBeaEcLP2A/Papillon.2018.New.Src.720p.HDCAM.x264.AC3-NeNi.mkv.mp4
+#https://openload.co/f/6KA5yHZmYjo/Papillon.2018.New.720p.HDCAM.mkv.mp4
 #https://openload.co/f/Fh3NM-aqVXU/Papillon.2018.CAM.1XBET_SeeHD.mp4
 
-type=video
-name=The Nun (2018) ENG 720p_HDCAM-1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg
-date=2018-09-07
-URL=https://openload.co/f/yLNCEbVeYIM/The_Nun_2018_720p_HDCAM-1XBET_SeeHD.mp4
+
 
 type=video
 name=BlacKkKlansman (2018) ENG 720p_HDCAM_X264-24HD_SeeHD
@@ -105,20 +107,10 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/55W6mUVv4CXMMQHHhV2zXtLSpX
 date=2018-09-07
 URL=https://openload.co/f/Rf7BISAZHx4/BlacKkKlansman_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
 
-type=video
-name=Searching (2018) ENG 720p.TS.1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
-date=2018-09-06
-URL=https://openload.co/f/QtZ0byRHk3k/Searching.2018.720p.TS.1XBET_SeeHD.mp4
-#https://openload.co/f/g6owtvE_D9s/Searching.2018.720p.TS.1XBET.mp4
-#https://openload.co/f/m4dVjOHEyDQ/Searching.2018.HDTS.XviD-AVID.avi.mp4
 
-type=video
-name=Kin (2018) ENG 720p_HDCAM_X264-24HD_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg
-date=2018-09-05
-URL=https://openload.co/f/gzmFS9oLl18/Kin_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/sRU_ZEJHE28/Kin_2018_720p_HDCAM_X264.mkv.mp4
+
+
+
 
 type=video
 name=The Happytime Murders (2018) ENG 720p.HDCAM.1XBET_SeeHD
@@ -1312,8 +1304,12 @@ URL=https://openload.co/f/Cogeg1N85_g/Nightworld.2017.1080p.BluRay.x264-%5BYTS.A
 type=video
 name=Siberia (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0ybv0jt4OrTFOHdzrSIssaE2xJ.jpg
-date=2018-09-09
-URL=https://openload.co/f/gGKTl9I1gC8/Siberia.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+date=2018-09-10
+URL=https://uptobox.com/w7sdmhz8c7ve
+#https://www.rapidvideo.com/e/FV4P4X1UHI
+#https://openload.co/embed/4dlS1ukXVtY/SIBERIA80.Ganol.st.mkv.mp4
+#https://openload.co/f/oIMwlbL47ME/Siberia_%282018%291080p_BluRay_x264-ROVERS.Ganool.mkv.mp4
+#https://openload.co/f/gGKTl9I1gC8/Siberia.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/0hjybczdcRA/Siberia.2018.720p.BR_SeeHD.mp4
 #https://uptobox.com/p7xffd8dekzo   720
 #https://www.rapidvideo.com/e/FV2FH82HK3   720
@@ -6067,7 +6063,45 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+type=video
+name=The Nun (2018) ENG NEW.TS-1XBET
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg
+date=2018-09-10
+URL=https://openload.co/f/l9zdAMiAJZM/The.Nun.2018.NEW.TS-1XBET.mp4
+#https://openload.co/f/H7GLWgUQJFU/THE_NUN_2018_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/yLNCEbVeYIM/The_Nun_2018_720p_HDCAM-1XBET_SeeHD.mp4
+type=video
+name=The Nun (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg
+date=2018-09-10
+URL=https://openload.co/f/qqcMbSMTqMM/The_Nun_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%99%E0%B8%B1%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
+
+type=video
+name=Kin (2018) ENG 720p_HDCAM_X264-24HD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg
+date=2018-09-05
+URL=https://openload.co/f/gzmFS9oLl18/Kin_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/sRU_ZEJHE28/Kin_2018_720p_HDCAM_X264.mkv.mp4
+type=video
+name=Kin (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg
+date=2018-09-10
+URL=https://openload.co/f/6aVEUo3AkIQ/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=Searching (2018) ENG 720p.TS.1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
+date=2018-09-06
+URL=https://openload.co/f/QtZ0byRHk3k/Searching.2018.720p.TS.1XBET_SeeHD.mp4
+#https://openload.co/f/g6owtvE_D9s/Searching.2018.720p.TS.1XBET.mp4
+#https://openload.co/f/m4dVjOHEyDQ/Searching.2018.HDTS.XviD-AVID.avi.mp4
+type=video
+name=Searching (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
+date=2018-09-10
+URL=https://openload.co/f/yaZ8FoesSNg/Searching_%282018%29%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%AB%E0%B8%B2....%E0%B8%AA%E0%B8%B9%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%A2%21%3F_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -6249,10 +6283,11 @@ URL=https://streamango.com/f/rsldanklbtskknbq/Future_World_2018_
 
 
 type=video
-name=Ant-Man and the Wasp (2018) ENG NEW.720p.HD-TC.V2.1XBET
+name=Ant-Man and the Wasp (2018) ENG NEW.RESYNCED.HDTC.XviD.B4ND1T69_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv1AWImgx386ULjcf62VYaW8zSt.jpg
-date=2018-09-03
-URL=https://openload.co/f/xmTtoov4gpQ/Ant-Man.and.The.Wasp.2018.NEW.720p.HD-TC.V2.1XBET.mp4
+date=2018-09-10
+URL=https://openload.co/f/z_HwaxMLBMY/Ant-Man.and.The.Wasp.2018.NEW.RESYNCED.HDTC.XviD.B4ND1T69_SeeHD.avi.mp4
+#https://openload.co/f/xmTtoov4gpQ/Ant-Man.and.The.Wasp.2018.NEW.720p.HD-TC.V2.1XBET.mp4
 #https://openload.co/f/PKlB9UmJWxc/Ant-Man.and.the.Wasp.2018.HDCAM.V.2.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/85MaoyjQMqU/AntMan.and.The.Wasp.2018.PROPER.HDTC.XviD-SHiVA.avi.mp4
 #https://openload.co/f/x7G-qvqJ1Vg/Ant-Man_and_the_Wasp.2018.HDTC.1080P.X264.AAC.CHS_SeeHD.mp4
@@ -6318,10 +6353,14 @@ URL=https://streamango.com/f/pmornaclntnlddoo/Incredibles_2_2018_2_
 
 
 type=video
-name=Solo: A Star Wars Story (2018) ENG NEW_720p_TS_V.2_SeeHD
+name=Solo: A Star Wars Story (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IGbjc5ZC5yxim5W0sFING2kdcz.jpg
-date=2018-07-18
-URL=https://openload.co/f/pC3oDm5pnQ8/Solo_A_Star_Wars_Story_2018_NEW_720p_TS_V.2_SeeHD.mkv.mp4
+date=2018-09-10
+URL=https://openload.co/f/M-9CNK3sbfg/Solo.A.Star.Wars.Story.2018.720p.BRRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/Rr_VeMHU7pQ/Solo.A.Star.Wars.Story.2018.720p.BRRip.HEVC.MkvCage.ws.mp4
+#https://openload.co/f/qVyz_6tZdto/Solo.A.Star.Wars.Story.2018.720p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/LTo3Nn902WA/Solo.A.Star.Wars.Story.2018.BRRip.XviD.MP3_XVID.mp4
+#https://openload.co/f/pC3oDm5pnQ8/Solo_A_Star_Wars_Story_2018_NEW_720p_TS_V.2_SeeHD.mkv.mp4
 #https://openload.co/f/0aE4MV2euUk/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_V.2_SeeHD.mkv.mp4
 #https://openload.co/f/eIEskJge87c/Solo%3A_A_Star_Wars_Story_2018_NEW_720p_HD-TS_V.2.mp4
 #https://openload.co/f/GdC4hcTBhBg/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_V.2_SeeHD.mkv   MKV
@@ -9978,6 +10017,7 @@ URL=https://uptobox.com/5xj4d5723jk9
 #https://www.rapidvideo.com/e/FSZ4VSJ3V5
 #https://openload.co/embed/qvixRYH3xnw/GHPPLYER180.Ganol.ru.mkv.mp4
 #https://openload.co/f/VptOSI2M42A/Ready.Player.One.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/vckPKjGewbs/Ready.Player.One.2018.1080p.Blu-ray.H264.AAC-YIN.mkv.mp4
 #https://openload.co/f/5F5TU_IjpkI/ready.player.one.2018.1080p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/Xq1xB3-SrgA/Ready_Player_One.2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/nd2tQTizVFE/ready.player.one.2018.720p.bluray.x264-sparks.mkv.mp4
@@ -10305,12 +10345,36 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-07
+date=2018-09-10
 URL=
 
 
 
 
+
+
+
+
+type=video
+name=The Book of Eli (2010) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qL3FnEug9DyBcaBXVb0oT3DJMJu.jpg
+date=2018-09-10
+URL=https://openload.co/f/OjjXlyDMDTA/The_Book_Of_Eli.2010.HD_1080p.mp4
+
+type=video
+name=Jurassic World: Fallen Kingdom (2018) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
+date=2018-09-10
+URL=https://uptobox.com/4xhmio5pc1iv
+#https://www.rapidvideo.com/e/FV4OKQS8KU
+#https://openload.co/embed/3G_jlZf0F-U/GHPJURRASICFLENKINDOM3D80.Ganol.st.mkv
+#https://openload.co/f/p9s4f39dAq0/Jurassic_World%3A_Fallen_Kingdom_%282018%293D_1080p_BluRay_x264-SPRiNTER.Ganool.mkv.mp4
+
+type=video
+name=Below Her Mouth (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTGbq37hYLuNy7YgMg0gVLma0NS.jpg
+date=2018-09-10
+URL=https://openload.co/f/gRLR33wmJ9g/Below.Her.Mouth.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=RED (2010) [COLOR=FF00FF00]ENG BR 2160p[/COLOR]
@@ -10403,8 +10467,12 @@ URL=https://uptobox.com/wjf22o1eczmj
 type=video
 name=Captain America: Civil War (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSBXou5Ac7vEqKd97wotJumyJvU.jpg
-date=2018-09-04
-URL=https://openload.co/f/F4_xwVI-pOA/Captain_America%3A_Civil_War_%282016%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+date=2018-09-10
+URL=https://uptobox.com/jaxnij699sah
+#https://www.rapidvideo.com/e/FUWPY0D0FE
+#https://openload.co/embed/cmobkwtgPPI/GHPCAPTAINAMRICACIVILWAR80.Ganol.st.mkv.mp4
+#https://openload.co/f/Ao1hUR8ZahI/Captain_America%3A_Civil_War_%282016%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://openload.co/f/F4_xwVI-pOA/Captain_America%3A_Civil_War_%282016%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
 #https://openload.co/embed/cmobkwtgPPI/GHPCAPTAINAMRICACIVILWAR80.Ganol.st.mkv.mp4
 #https://www.rapidvideo.com/e/FUWPY0D0FE
 
