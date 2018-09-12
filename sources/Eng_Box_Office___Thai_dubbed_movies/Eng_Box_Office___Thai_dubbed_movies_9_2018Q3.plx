@@ -128,10 +128,11 @@ URL=https://openload.co/f/DxmbGuLNA7M/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD
 
 
 type=video
-name=Alpha (2018) ENG NEW_720p_HDCAM_ENG_SUB-24HD_SeeHD
+name=Alpha (2018) ENG NEW_720p_HDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
-date=2018-08-20
-URL=https://openload.co/f/0kwFGuTf9LY/Alpha_2018_NEW_720p_HDCAM_ENG_SUB-24HD_SeeHD.mp4
+date=2018-09-12
+URL=https://openload.co/f/WmQZlIG_tHk/Alpha_2018_NEW_720p_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/0kwFGuTf9LY/Alpha_2018_NEW_720p_HDCAM_ENG_SUB-24HD_SeeHD.mp4
 #https://openload.co/f/E-KpG1hlEXY/Alpha_2018_NOLOGO_CAM-1XBET.mp4
 #https://openload.co/f/TDsbq--aNhA/Alpha_2018_CAM_x264-1XBET.mp4
 
@@ -187,10 +188,13 @@ URL=https://openload.co/f/bTipjRNrvP8/Christopher_Robin_2018_720p_HDCAM-1xBET_Se
 
 
 type=video
-name=Uncle Drew (2018) ENG DVDRip.XviD.AC3-EVO%5BEtMovies%5D_SeeHD
+name=Uncle Drew (2018) ENG 1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lCNsfc1OEDNceGJTjfE0kBknEW.jpg
-date=2018-08-31
-URL=https://openload.co/f/la5rPWuXS7A/Uncle.Drew.2018.DVDRip.XviD.AC3-EVO%5BEtMovies%5D_SeeHD.avi.mp4
+date=2018-09-12
+URL=https://openload.co/f/dBb9LOphxhs/Uncle.Drew.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/SUeVPQ0KIcw/Uncle_Drew_720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/-68nqZ3eGTA/Uncle.Drew.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/la5rPWuXS7A/Uncle.Drew.2018.DVDRip.XviD.AC3-EVO%5BEtMovies%5D_SeeHD.avi.mp4
 #https://openload.co/f/4FYrC7sYS2Q/Uncle.Drew.2018.DVDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/uQ8R5HhL-iI/Uncle.Drew.2018.CAM-MaTinE.mkv.mp4
 
@@ -1265,14 +1269,18 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-09
+date=2018-09-12
 URL=
 
 
 
 
 
-
+type=video
+name=Cat Collection's House (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GvapUlah3EDxu4kuFx6l4o2fDs.jpg
+date=2018-09-12
+URL=https://openload.co/f/eEVcxiTvlAA/Neko.Atsume.House.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Silencer (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1393,20 +1401,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rhdnM0fvflhU6spI5dw8D0CWr
 date=2018-08-31
 URL=https://openload.co/f/y2HVqMg_cro/Gonjiam.Haunted.Asylum.2018.BluRay.1080p.5.1CH.x264.Ganool.mkv.mp4
 
-type=video
-name=SuperFly (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGk9H5PVpWzbsYkmnBeKevQkwwf.jpg
-date=2018-08-30
-URL=https://uptobox.com/wq6ufpnhsa8h
-#https://www.rapidvideo.com/e/FURLO6A50O
-#https://openload.co/embed/sd9dTa8ZRBI/SUPERFLY80.Ganool.si.mkv.mp4
-#https://openload.co/f/AfKAc-zU-nU/SuperFly_%282018%291080p_BluRay_x264-Replica_Ganool.mkv.mp4
-#https://openload.co/f/vHCXKk-auAY/SuperFly.2018.1080p.BluRay.x264-YTS.mp4
-#https://openload.co/f/pnT4h0pAeHI/Superfly.2018.1080p.WEB-DL.H264.AC3-HDMovie8.mkv.mp4
-#https://openload.co/f/b_TpqTIyKJI/Superfly.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/Zyqdy1NgIPE/Superfly_2018_720p_NEW_HDCAM_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/Tj8DkrU7SJk/Superfly_2018_NEW_V.2_HDCAM_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/G1UZshzRASM/Superfly.2018.HDCAM.x264-DiRG_SeeHD.mp4
+
 
 type=video
 name=Pitbull. Ostatni pies (2018) [COLOR=FF00FF00]POL BR 1080p[/COLOR]
@@ -5832,8 +5827,9 @@ URL=https://openload.co/f/Ogry1taRlRk/Woman.Walks.Ahead.2017.720p.BluRay.H264.AA
 type=video
 name=Furlough (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cw1RkjmbNfIbujkPGh6a8J9Lrf1.jpg
-date=2018-08-18
-URL=https://openload.co/f/DaG5mMU-6nY/furlough.2018.720p.bluray.hevc.x265.mkv.mp4
+date=2018-09-12
+URL=https://openload.co/f/KCKD-xvkXso/Furlough.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/DaG5mMU-6nY/furlough.2018.720p.bluray.hevc.x265.mkv.mp4
 #https://openload.co/f/LVopRhjFFsQ/furlough.2018.480p.bluray.x264.mkv.mp4
 
 type=video
@@ -5962,6 +5958,19 @@ URL=https://uptobox.com/jt5n27x8t1a3
 #https://openload.co/embed/6fhyYcx5hoo/STUDIO54BD72.Ganol.st.mkv.mp4
 #https://openload.co/f/PyfQNtw1lEw/Studio_54_%282018%29720p_BluRay_x264-CADAVER.Ganool.mkv.mp4
 
+type=video
+name=Alien Siege (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/crjEnEwbmhXg6g3EjiEIbjU5YfK.jpg
+date=2018-09-12
+URL=https://openload.co/f/lBBCs0ZVCHs/Alien.Siege.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=What's for Dinner, Mom? (2016) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sblspeMr7e9oTpGAnQriIvHOpbj.jpg
+date=2018-09-12
+URL=https://openload.co/f/SKAvICNUwro/Whats.For.Dinner%2C.Mom2016.720p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+
 
 
 
@@ -5971,7 +5980,7 @@ URL=https://uptobox.com/jt5n27x8t1a3
 type=video
 name=
 thumb=
-date=2018-09-09
+date=2018-09-12
 URL=
 
 type=video
@@ -6177,10 +6186,11 @@ URL=https://streamango.com/f/mplcmnpmflrrqabl/Hotel_Transylvania_3_Summer_Vacati
 
 
 type=video
-name=The Spy Who Dumped Me (2018) ENG 720p.HDCAM.1XBET_SeeHD
+name=The Spy Who Dumped Me (2018) ENG 720p_HDCAM_PROPER_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
-date=2018-08-11
-URL=https://openload.co/f/_UTH_XC0K4o/The.Spy.Who.Dumped.Me.2018.720p.HDCAM.1XBET_SeeHD.mp4
+date=2018-09-12
+URL=https://openload.co/f/x51Bm-O3jbU/The_Spy_Who_Dumped_Me_2018_720p_HDCAM_PROPER_SeeHD.mkv.mp4
+#https://openload.co/f/_UTH_XC0K4o/The.Spy.Who.Dumped.Me.2018.720p.HDCAM.1XBET_SeeHD.mp4
 #https://openload.co/f/wHv_A2QTR80/The.Spy.Who.Dumped.Me.2018.HDCAM.XviD-AV.2018.HDCAM.XviD-AVID.avi.mp4
 type=video
 name=The Spy Who Dumped Me (2018) THCAM
@@ -6306,10 +6316,16 @@ URL=https://streamango.com/f/dordledefetessal/Ant-Man_and_the_Wasp_2018_-_
 
 
 type=video
-name=Sicario: Day of the Soldado (2018) ENG NEW_HDCAM_V.2_X264-24HD_SeeHD
+name=Sicario: Day of the Soldado (2018) ENG 1080p.web.dl.hevc.x265
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XDlelZUNWmKgP2bcWL9c9G10eo.jpg
-date=2018-07-03
-URL=https://openload.co/f/mB6HunzA3hM/Sicario_2_Day_of_the_Soldado_2018_NEW_HDCAM_V.2_X264-24HD_SeeHD.mkv.mp4
+date=2018-09-12
+URL=https://openload.co/f/SOa2JHii3jQ/sicario.day.of.the.soldado.2018.1080p.web.dl.hevc.x265.mkv.mp4
+#https://openload.co/f/SwhtSLVkwwE/Sicario.Day.of.the.Soldado.2018.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/zMNZk-zywTw/Sicario.Day.of.the.Soldado.2018.720p.WEB-DL.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/E-LUBe2hNP8/Sicario.Day.of.the.Soldado.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/35NqcOg-z2A/Sicario.Day.of.the.Soldado.2018.720p.AMZN.WEBRip.DDP5.1.x264-NTG.mkv.mp4
+#https://openload.co/f/MoItgNO_4Ck/Sicario.Day.of.the.Soldado.2018.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/mB6HunzA3hM/Sicario_2_Day_of_the_Soldado_2018_NEW_HDCAM_V.2_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/yUd5Hl8Eip4/Sicario.Day.of.the.Soldado.2018.NEW.HDCAM.X264-Mr.Hive.mkv.mp4
 #https://openload.co/f/QXN1pvahVt8/Sicario_2_Day_of_the_Soldado_2018_NEW_HDCAM_X264_Mr.Hive_SeeHD.mkv.mp4
 #https://openload.co/f/8BFuQFmAJi8/Sicario_2_CAM_SeeHD.mkv.mp4
@@ -6353,10 +6369,19 @@ URL=https://streamango.com/f/pmornaclntnlddoo/Incredibles_2_2018_2_
 
 
 type=video
-name=Solo: A Star Wars Story (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Solo: A Star Wars Story (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IGbjc5ZC5yxim5W0sFING2kdcz.jpg
-date=2018-09-10
-URL=https://openload.co/f/M-9CNK3sbfg/Solo.A.Star.Wars.Story.2018.720p.BRRip.X264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-09-12
+URL=https://openload.co/f/XHAbAKwwBeA/Solo.A.Star.Wars.Story.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/h5YlUj1crXs/Solo.A.Star.Wars.Story.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/tEpcljd_Y18/Solo.A.Star.Wars.Story.2018.1080p.BluRay.H264.AAC-HDMovie8.mp4
+#https://openload.co/f/riA1bay8IrU/Solo-A.Star.Wars.Story.2018.BluRay.1080p.DD5.1.H265-d3g.mkv.mp4
+#https://openload.co/f/qbryRFyKBYQ/solo.a.star.wars.story.2018.bluray.720p.bluray.hevc.x265.mkv.mp4
+#https://openload.co/f/gqcODZ25q-8/solo.a.star.wars.story.2018.720p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/HsnQLTPcR78/Solo.A.Star.Wars.Story.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/LAKzQuJ-nSw/Solo.A.Star.Wars.Story.2018.720p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/XLlDLk6UkF0/solo.a.star.wars.story.2018.bdrip.x264-sparks.mkv.mp4
+#https://openload.co/f/M-9CNK3sbfg/Solo.A.Star.Wars.Story.2018.720p.BRRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/Rr_VeMHU7pQ/Solo.A.Star.Wars.Story.2018.720p.BRRip.HEVC.MkvCage.ws.mp4
 #https://openload.co/f/qVyz_6tZdto/Solo.A.Star.Wars.Story.2018.720p.BRRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/LTo3Nn902WA/Solo.A.Star.Wars.Story.2018.BRRip.XviD.MP3_XVID.mp4
@@ -6367,6 +6392,9 @@ URL=https://openload.co/f/M-9CNK3sbfg/Solo.A.Star.Wars.Story.2018.720p.BRRip.X26
 #https://openload.co/f/hHuxcYvQKRg/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
 #https://openload.co/f/KbdK1ENYGkU/Solo.A_Star_Wars_Story.2018.720p.HDCAM.Eng.1XBET_SeeHD.mp4
 #https://openload.co/f/V_owx_hrBak/Solo%3A_A_Star_Wars_Story_%282018%29HDCAM_720p_x264_750MB_AAC_-_NoGroup.Ganool.im.mkv.mp4
+#https://uptobox.com/hx1qx4f40fk6   720
+#https://www.rapidvideo.com/e/FV77NPBWIS   720
+#https://openload.co/embed/bS1R_fS6cG4/SHQSOLOSTRWARSSTORYBD72.Ganol.st.mkv.mp4
 type=video
 name=Solo: A Star Wars Story (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IGbjc5ZC5yxim5W0sFING2kdcz.jpg
@@ -6480,7 +6508,25 @@ URL=
 
 
 
-
+type=video
+name=SuperFly (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGk9H5PVpWzbsYkmnBeKevQkwwf.jpg
+date=2018-08-30
+URL=https://uptobox.com/wq6ufpnhsa8h
+#https://www.rapidvideo.com/e/FURLO6A50O
+#https://openload.co/embed/sd9dTa8ZRBI/SUPERFLY80.Ganool.si.mkv.mp4
+#https://openload.co/f/AfKAc-zU-nU/SuperFly_%282018%291080p_BluRay_x264-Replica_Ganool.mkv.mp4
+#https://openload.co/f/vHCXKk-auAY/SuperFly.2018.1080p.BluRay.x264-YTS.mp4
+#https://openload.co/f/pnT4h0pAeHI/Superfly.2018.1080p.WEB-DL.H264.AC3-HDMovie8.mkv.mp4
+#https://openload.co/f/b_TpqTIyKJI/Superfly.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/Zyqdy1NgIPE/Superfly_2018_720p_NEW_HDCAM_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/Tj8DkrU7SJk/Superfly_2018_NEW_V.2_HDCAM_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/G1UZshzRASM/Superfly.2018.HDCAM.x264-DiRG_SeeHD.mp4
+type=video
+name=SuperFly (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGk9H5PVpWzbsYkmnBeKevQkwwf.jpg
+date=2018-09-12
+URL=https://openload.co/f/gKV318omdmM/SuperFly_%282018%29%E0%B8%8B%E0%B8%B8%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9F%E0%B8%A5%E0%B8%B2%E0%B8%A2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -10345,7 +10391,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-10
+date=2018-09-12
 URL=
 
 
@@ -10353,7 +10399,11 @@ URL=
 
 
 
-
+type=video
+name=Unfriended (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfEBlhvVWFt61EWjNbjlKdDilBI.jpg
+date=2018-09-12
+URL=https://openload.co/f/GXwZg7ID-58/Unfriended.2014.1080p.BR_SeeHD.mp4
 
 type=video
 name=The Book of Eli (2010) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]

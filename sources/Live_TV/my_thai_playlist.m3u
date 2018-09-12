@@ -2615,6 +2615,8 @@ http://85.132.71.6/ru/hust/index.m3u8
 http://85.132.71.6/ru/blue/index.m3u8
 #EXTINF:-1,Brazzers_TV_Europe_ru
 http://85.132.71.6/ru/braz/index.m3u8
+#EXTINF:-1,pink_ru
+http://85.132.71.6/ru/pink/index.m3u8
 #EXTINF:-1,Brazzers_TV_Europe
 http://193.93.236.121:9991/play/Brazzers_TV_Europe/index.m3u8
 #EXTINF:-1,Brazzers_TV_Europe_iptvspy
@@ -2685,7 +2687,8 @@ http://213.59.136.48:9990/play/FRENCHLOVER/index.m3u8
 http://37.9.0.196:9002/playlist.m3u8
 #EXTINF:-1,CANDY
 http://6bc79edb.ulkakak.pw/iptv/CHPLNSPSC3DXKY/923/index.m3u8
-
+#EXTINF:-1,CANDY_tv159
+http://91.204.136.139:8080/tv159/index.m3u8
 #EXTINF:-1,DUSK
 http://195.230.115.18:65080/play/a8101
 
