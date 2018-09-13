@@ -1276,6 +1276,13 @@ URL=
 
 
 
+
+type=video
+name=A Hard Day (2014) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGWYAU8QMTDN8hclCoxX6UzYPIb.jpg
+date=2018-09-13
+URL=https://openload.co/f/Bc6c1HRS-No/A.Hard.Day.2014.PROPER.KOREAN.1080p.BluRay.H264.AAC-VXT_SeeHD.mp4
+
 type=video
 name=Cat Collection's House (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GvapUlah3EDxu4kuFx6l4o2fDs.jpg
@@ -5970,6 +5977,14 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sblspeMr7e9oTpGAnQriIvHOpb
 date=2018-09-12
 URL=https://openload.co/f/SKAvICNUwro/Whats.For.Dinner%2C.Mom2016.720p.BluRay.x264-%5BYTS.AM%5D.mp4
 
+type=video
+name=The Row (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR2PZ92HTZDFuEpxePJhf0WBCyJ.jpg
+date=2018-09-13
+URL=https://openload.co/f/V5htasBg_jg/The.Row.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
+
+
 
 
 
@@ -5980,7 +5995,7 @@ URL=https://openload.co/f/SKAvICNUwro/Whats.For.Dinner%2C.Mom2016.720p.BluRay.x2
 type=video
 name=
 thumb=
-date=2018-09-12
+date=2018-09-13
 URL=
 
 type=video
@@ -6257,10 +6272,13 @@ URL=https://streamango.com/f/kkafqdmfscfdklql/Animal_World_2018_
 
 
 type=video
-name=Mission: Impossible - Fallout (2018) ENG NEW_V.3.720p_HDCAM_X264_AC3-UN1QUE_SeeHD
+name=Mission: Impossible - Fallout (2018) ENG 720p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
-date=2018-08-26
-URL=https://openload.co/f/JxI4Yaki6EM/Mission_Impossible_Fallout_2018_NEW_V.3.720p_HDCAM_X264_AC3-UN1QUE_SeeHD.mkv.mp4
+date=2018-09-13
+URL=https://openload.co/f/3N5oYfnL714/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/68luywf77mA/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO.mp4
+#https://openload.co/f/EB0p8ZIdj80/Mission.Impossible.Fallout.2018.HC.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/JxI4Yaki6EM/Mission_Impossible_Fallout_2018_NEW_V.3.720p_HDCAM_X264_AC3-UN1QUE_SeeHD.mkv.mp4
 #https://openload.co/f/f4yWmbzdT9M/Mission_Impossible_Fallout_2018_NEW_V.3_720p_HDCAM_X264_AC3-UN1QUE_SeeHD.mkv.mp4
 #https://openload.co/f/7D3PDogUtrM/Mission_Impossible_Fallout_2018_NEW_720p_HDCAM-24HD.mkv.mp4
 #https://openload.co/f/mRAxBM1R1VE/Mission_Impossible_Fallout.2018.CAM.XViD-T3RR0RSQU4D.avi.mp4
@@ -6371,8 +6389,12 @@ URL=https://streamango.com/f/pmornaclntnlddoo/Incredibles_2_2018_2_
 type=video
 name=Solo: A Star Wars Story (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IGbjc5ZC5yxim5W0sFING2kdcz.jpg
-date=2018-09-12
-URL=https://openload.co/f/XHAbAKwwBeA/Solo.A.Star.Wars.Story.2018.1080p.BR_SeeHD.mp4
+date=2018-09-13
+URL=https://uptobox.com/r1er22noe48t
+#https://www.rapidvideo.com/e/FV7EKHAFWK
+#https://openload.co/embed/WHl7X1zJqGo/GHPSOLO80.Ganol.st.mkv
+#https://openload.co/f/XHAbAKwwBeA/Solo.A.Star.Wars.Story.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/Monb32lgYro/Solo%3A_A_Star_Wars_Story_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
 #https://openload.co/f/h5YlUj1crXs/Solo.A.Star.Wars.Story.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/tEpcljd_Y18/Solo.A.Star.Wars.Story.2018.1080p.BluRay.H264.AAC-HDMovie8.mp4
 #https://openload.co/f/riA1bay8IrU/Solo-A.Star.Wars.Story.2018.BluRay.1080p.DD5.1.H265-d3g.mkv.mp4
@@ -6598,6 +6620,11 @@ date=2018-08-28
 URL=https://openload.co/f/cYZlKc7ru90/The_After_Party_%282018%29%E0%B8%AD%E0%B8%B2%E0%B8%9F%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B5%E0%B9%89_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
+type=video
+name=Occupation (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr7MFQAmP30IJZP2FXKhPKbe8IW.jpg
+date=2018-09-13
+URL=https://openload.co/f/i0YN9ybpYUE/Occupation.2018.720p.BluRay.H264.AAC-RARBG.mp4
 type=video
 name=Occupation (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr7MFQAmP30IJZP2FXKhPKbe8IW.jpg
@@ -9190,6 +9217,9 @@ date=2018-08-29
 URL=https://uptobox.com/al0veo58x7xy
 #https://www.rapidvideo.com/e/FUPUGNMVF0
 #https://openload.co/embed/SYvzqPnVNrY/GHPOCEAN880.Ganool.si.mkv.mp4
+#https://openload.co/f/eYCFSrGlSf0/oceans.eight.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/JfQeahVHsWg/Oceans.Eight.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/YnkTX4Rfj2Q/Oceans.Eight.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
 #https://openload.co/f/XuAr0XjcGrI/oceans.eight.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/Ki5wmCxogRI/Oceans.Eight.2018.1080p.BluRay_SeeHD.mp4
 #https://openload.co/f/i6NfosNCbOc/Ocean%27s.Eight.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
