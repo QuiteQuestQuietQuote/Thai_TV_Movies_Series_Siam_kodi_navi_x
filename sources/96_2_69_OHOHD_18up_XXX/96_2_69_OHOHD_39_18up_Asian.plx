@@ -71,6 +71,263 @@ URL=
 
 
 type=video
+name=140xxxxxxxxxxxxxxxxxxxxSiaui Mongjeong Gi (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Siaui-Mongjeong-Gi-2018-Uncut.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/ffpsqerstqpqroll/
+
+type=video
+name=Creampie Challenge Throughout Japan 4 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Creampie-Challenge-Throughout-Japan-4-2017.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/dfkamqcrsdfnknob/
+
+type=video
+name=KINBAKU Chapter Moon (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/KINBAKU-Chapter-Moon-2016.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/omqaknooretkdrsc/
+
+type=video
+name=Let’s stick to sex (2010) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Lets-stick-to-sex-2010.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/llaofftceaaommdr/
+
+type=video
+name=To the world of extreme sex (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/To-the-world-of-extreme-sex-2009.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/odpqflbanbsqnnnn/
+
+
+type=video
+name=Alba’s experience (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Albas-experience-2009.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/blodskakqcespaer/
+
+type=video
+name=Great guest of videoban (2009) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Great-guest-of-videoban-2009.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/sqffnfblasprosmn/
+
+type=video
+name=Sex in the head (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Sex-in-the-head-2010.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/ssosknnotetksfor/
+
+type=video
+name=Same floor same dream (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Same-floor-same-dream-2018.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/aocpcdsoskqmlcnm/
+
+type=video
+name=Sex for revenge (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Sex-for-revenge-2010.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/aoeebktsdldstdbc/
+
+
+type=video
+name=Mother Friends 2 (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Mother-Friends-2-2018.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/epcpqkclcbbfalok/
+
+type=video
+name=Everyday wet ax (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Everyday-wet-ax-2017.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/plflbsodadkqklpt/
+
+type=video
+name=Magic sex (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Magic-sex-2009.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/kceedffnldpblkps/
+
+type=video
+name=Flavor (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Flavor-2009.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/sorenbaondbtnnco/
+
+type=video
+name=Motel helper shock report (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Motel-helper-shock-report-2009.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/atsqmlqbabpctedm/
+
+
+type=video
+name=Ms. Choi’s Legs (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Ms.-Chois-Legs-2009.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/apatlqakqmoanonm/
+
+type=video
+name=Friend (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Friend-2009.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/qmsctflrrmrpfqcb/
+
+type=video
+name=Eating and frying (2009) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Eating-and-frying-2009.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/empkpslfkqdrdmcm/
+
+type=video
+name=The double life of sisters who reveal (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/The-double-life-of-sisters-who-reveal-2009.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/doqqckonttpscqns/
+
+type=video
+name=My Students Mother 3 (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/My-Students-Mother-3-2018.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/bcbfropspcttlpmd/
+
+
+
+
+
+
+
+
+
+
+type=video
+name=120xxxxxxxxxxxxxxxxxxxxNae Adeul Ui Yeojadeul (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Nae-Adeul-Ui-Yeojadeul-2018.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/aqmrfcrccfoqfftc/
+
+type=video
+name=Sachungiyeodongsaeng (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Sachungiyeodongsaeng-2018.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/mobmaqalkclkfeks/
+
+type=video
+name=Jeolm Eun Eommane Hasugjib (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Jeolm-Eun-Eommane-Hasugjib-2018.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/kqtdqmkdpkdkeemc/
+
+type=video
+name=Chingu Eommadeul Mas Issneun Segseu (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Chingu-Eommadeul-Mas-Issneun-Segseu-2018.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/qnprplnaqsmdntbn/
+
+type=video
+name=Lady Ninja – Blue Shadow (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Lady-Ninja-Blue-Shadow-2018.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/rkoftsatnqamlask/
+
+
+type=video
+name=Onnakateikyoushi-Dokuyano Gangu (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Onnakateikyoushi-Dokuyano-Gangu-2018.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/emscafpmobseoedb/
+
+type=video
+name=Reunion Mature women lustful after a long absence 2 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Reunion-Mature-women-lustful-after-a-long-absence-2-2016.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/kdembrrafenocnmp/
+
+type=video
+name=Creampie Challenge Throughout Japan 6 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Creampie-Challenge-Throughout-Japan-6-2017.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/ooprdsaepoeofkrq/
+
+type=video
+name=The Devil Hands Of The Countryside Episode4 (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/The-Devil-Hands-Of-The-Countryside-Episode4-2016.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/blmelnskttekfqpr/
+
+type=video
+name=Confidential Ward-Chapter 4 Area (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Confidential-Ward-Chapter-4-Area-2016.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/bkqaslqfdotmeotl/
+
+
+type=video
+name=Secret Late-Night Massage Shop For Only Women 6 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Secret-Late-Night-Massage-Shop-For-Only-Women-6-2017.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/nfopkoankpoqdttt/
+
+type=video
+name=Secret Late-Night Massage Shop For Only Women 7 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Secret-Late-Night-Massage-Shop-For-Only-Women-7-2017.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/bkqcktkmtaoeddrq/
+
+type=video
+name=The Actress live Together (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/The-Actress-live-Together-2017-Uncut.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/mffsoosecfsempfc/
+
+type=video
+name=Chaghan Jangmo (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Chaghan-Jangmo-2017-Uncut.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/npbakpqrmmpccodk/
+
+type=video
+name=Gwaoeui Chueog (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Gwaoeui-Chueog-2018.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/bqpkdosssfraenol/
+
+
+type=video
+name=Chaghan Hyeongsu Nae Yeojaga Doedeon Nal (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Chaghan-Hyeongsu-Nae-Yeojaga-Doedeon-Nal-2018.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/kalbkntmqsndfkbc/
+
+type=video
+name=Ilsang Ui Gwangye (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Ilsang-Ui-Gwangye-2018.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/pbrkdllckcbabbec/
+
+type=video
+name=Chaghan Eomma Chingu 2 (2017) [Nc] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Chaghan-Eomma-Chingu-2-2017-Nc.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/lpcnlnabcaatrmla/
+
+type=video
+name=Young Sister In Law The Day I Became A woman (2017) [Nc]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Young-Sister-In-Law-The-Day-I-Became-A-woman-2017-Nc.jpg
+date=2018-09-14
+URL=https://streamcherry.com/embed/qqlqpnceperlpcqf/
+
+
+
+
+
+
+
+
+
+type=video
 name=101xxxxxxxxxxxxxxxxxxxxSensual Insurance Saleswomen (2017)
 thumb=https://erotic24hr.com/wp-content/uploads/2018/08/Sensual-Insurance-Saleswomen-2017.jpg
 date=2018-09-07
