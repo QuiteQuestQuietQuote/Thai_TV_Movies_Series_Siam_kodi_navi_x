@@ -76,13 +76,23 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-10
+date=2018-09-15
 URL=
 
 
 
 
 
+
+
+type=video
+name=The Predator (2018) ENG TS-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
+date=2018-09-15
+URL=https://openload.co/f/x3c5W9f8jUc/The_Predator_2018_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/-4OAnxDQ6nw/The.Predator.2018.TS-1XBET.mp4
+#https://openload.co/f/TFCD6jtwgUM/The.Predator.2018.HDTS.XviD-AVID.avi.mp4
+#https://openload.co/f/t11kc2vcOC4/The.Predator.2018.HDTS.XViD.AC3-ETRG.avi.mp4
 
 type=video
 name=Peppermint (2018) ENG TS-1XBET_SeeHD
@@ -108,15 +118,21 @@ date=2018-09-07
 URL=https://openload.co/f/Rf7BISAZHx4/BlacKkKlansman_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
 
 
-
+type=video
+name=Mandy (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0yf7J7HsKeK6E81SMRcX8vx6mH.jpg
+date=2018-09-15
+URL=https://openload.co/f/wGZ9UTyufpU/Mandy.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/bIkp4oovlBY/Mandy.720pHD_SeeHD.mkv.mp4
 
 
 
 type=video
-name=The Happytime Murders (2018) ENG 720p.HDCAM.1XBET_SeeHD
+name=The Happytime Murders (2018) ENG HDcam_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWxkur51srfVnMn2QOFjE7mbq6h.jpg
-date=2018-08-26
-URL=https://openload.co/f/NKbJ8AueDe4/The.Happytime.Murders.2018.720p.HDCAM.1XBET_SeeHD.mp4
+date=2018-09-15
+URL=https://openload.co/f/mo5HTgGEhFQ/The_Happytime_Murders_HDcam_SeeHD.avi.mp4
+#https://openload.co/f/NKbJ8AueDe4/The.Happytime.Murders.2018.720p.HDCAM.1XBET_SeeHD.mp4
 
 type=video
 name=Crazy Rich Asians (2018) ENG CAM.1XBET_SeeHD
@@ -187,16 +203,7 @@ URL=https://openload.co/f/bTipjRNrvP8/Christopher_Robin_2018_720p_HDCAM-1xBET_Se
 
 
 
-type=video
-name=Uncle Drew (2018) ENG 1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lCNsfc1OEDNceGJTjfE0kBknEW.jpg
-date=2018-09-12
-URL=https://openload.co/f/dBb9LOphxhs/Uncle.Drew.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
-#https://openload.co/f/SUeVPQ0KIcw/Uncle_Drew_720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/-68nqZ3eGTA/Uncle.Drew.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
-#https://openload.co/f/la5rPWuXS7A/Uncle.Drew.2018.DVDRip.XviD.AC3-EVO%5BEtMovies%5D_SeeHD.avi.mp4
-#https://openload.co/f/4FYrC7sYS2Q/Uncle.Drew.2018.DVDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/uQ8R5HhL-iI/Uncle.Drew.2018.CAM-MaTinE.mkv.mp4
+
 
 
 
@@ -1269,13 +1276,39 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-12
+date=2018-09-15
 URL=
 
 
 
 
 
+
+type=video
+name=The Row (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR2PZ92HTZDFuEpxePJhf0WBCyJ.jpg
+date=2018-09-15
+URL=https://openload.co/f/bqefmmAJZAM/The.Row.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/V5htasBg_jg/The.Row.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Varasto 2 (2018) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MOVgmnlhTgnI39Z342ZBfHu3Hb.jpg
+date=2018-09-15
+URL=https://openload.co/f/Sb7YmXE5jJY/Varasto_2_2018_1080p_BluRay_x264_FiCO.mkv.mp4
+
+type=video
+name=Uncle Drew (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lCNsfc1OEDNceGJTjfE0kBknEW.jpg
+date=2018-09-15
+URL=https://streamango.com/f/snllcpflpetscbok/Uncle_Drew_2018_1080p_BR_SeeHD_mp4
+#https://openload.co/f/cXuhXuuAbcA/Uncle.Drew.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/dBb9LOphxhs/Uncle.Drew.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/SUeVPQ0KIcw/Uncle_Drew_720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/-68nqZ3eGTA/Uncle.Drew.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/la5rPWuXS7A/Uncle.Drew.2018.DVDRip.XviD.AC3-EVO%5BEtMovies%5D_SeeHD.avi.mp4
+#https://openload.co/f/4FYrC7sYS2Q/Uncle.Drew.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/uQ8R5HhL-iI/Uncle.Drew.2018.CAM-MaTinE.mkv.mp4
 
 type=video
 name=A Hard Day (2014) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
@@ -5978,12 +6011,16 @@ date=2018-09-12
 URL=https://openload.co/f/SKAvICNUwro/Whats.For.Dinner%2C.Mom2016.720p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
-name=The Row (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR2PZ92HTZDFuEpxePJhf0WBCyJ.jpg
-date=2018-09-13
-URL=https://openload.co/f/V5htasBg_jg/The.Row.2018.720p.BluRay.H264.AAC-RARBG.mp4
+name=The Guardians (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nkfTsQrlyVh6r2Jik5hl86OLhz.jpg
+date=2018-09-15
+URL=https://openload.co/f/cMrAzG1dq_I/The.Guardians.2017.720p.BluRay.x264-%5BYTS.AM%5D.mp4
 
-
+type=video
+name=Champions (2018) [COLOR=FF00FF00]ESP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5z4Ud6Ya5EY3Eg3OBbVBaDKWK.jpg
+date=2018-09-15
+URL=https://openload.co/f/ABOLRzGX9Do/Champions.2018.ENGSUB.720p.BluRay.x264-HDH.mp4
 
 
 
@@ -5995,7 +6032,7 @@ URL=https://openload.co/f/V5htasBg_jg/The.Row.2018.720p.BluRay.H264.AAC-RARBG.mp
 type=video
 name=
 thumb=
-date=2018-09-13
+date=2018-09-15
 URL=
 
 type=video
@@ -6129,10 +6166,11 @@ URL=https://openload.co/f/yaZ8FoesSNg/Searching_%282018%29%E0%B9%80%E0%B8%AA%E0%
 
 
 type=video
-name=Mile 22 (2018) ENG 720p.HDCAM.1XBET_SeeHD
+name=Mile 22 (2018) ENG NEW_HDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
-date=2018-08-18
-URL=https://openload.co/f/aug72S8Qov8/Mile.22.2018.720p.HDCAM.1XBET_SeeHD.mp4
+date=2018-09-15
+URL=https://openload.co/f/GyD2vOAKqzA/Mile_22_2018_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/aug72S8Qov8/Mile.22.2018.720p.HDCAM.1XBET_SeeHD.mp4
 #https://openload.co/f/m7HdxWgn5SY/Mile.22.2018.720p.HDCAM.1XBET.mp4
 type=video
 name=Mile 22 (2018) THCAM
@@ -6274,8 +6312,9 @@ URL=https://streamango.com/f/kkafqdmfscfdklql/Animal_World_2018_
 type=video
 name=Mission: Impossible - Fallout (2018) ENG 720p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
-date=2018-09-13
-URL=https://openload.co/f/3N5oYfnL714/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-09-15
+URL=https://openload.co/f/8nGOGqeSUlU/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/3N5oYfnL714/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/68luywf77mA/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO.mp4
 #https://openload.co/f/EB0p8ZIdj80/Mission.Impossible.Fallout.2018.HC.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://openload.co/f/JxI4Yaki6EM/Mission_Impossible_Fallout_2018_NEW_V.3.720p_HDCAM_X264_AC3-UN1QUE_SeeHD.mkv.mp4
@@ -6394,6 +6433,7 @@ URL=https://uptobox.com/r1er22noe48t
 #https://www.rapidvideo.com/e/FV7EKHAFWK
 #https://openload.co/embed/WHl7X1zJqGo/GHPSOLO80.Ganol.st.mkv
 #https://openload.co/f/XHAbAKwwBeA/Solo.A.Star.Wars.Story.2018.1080p.BR_SeeHD.mp4
+https://openload.co/f/KDHkzG4z4HI/Solo%3A_A_Star_Wars_Story_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
 #https://openload.co/f/Monb32lgYro/Solo%3A_A_Star_Wars_Story_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
 #https://openload.co/f/h5YlUj1crXs/Solo.A.Star.Wars.Story.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/tEpcljd_Y18/Solo.A.Star.Wars.Story.2018.1080p.BluRay.H264.AAC-HDMovie8.mp4
@@ -10421,13 +10461,28 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-12
+date=2018-09-15
 URL=
 
 
 
 
 
+
+
+
+
+type=video
+name=Predator (1987) [COLOR=FF00FF00]ENG REMASTERED BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCa7uRFeoIdKWpoOrZY6OUW9vk6.jpg
+date=2018-09-15
+URL=https://openload.co/f/b69ZMGGWgbI/Predator.1987.NEW.REMASTERED.1080p.BR_SeeHD.mp4
+
+type=video
+name=Predator 2 (1990) [COLOR=FF00FF00]ENG REMASTERED BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cAQgbIPislEeBJahLO5BsqAUZN.jpg
+date=2018-09-15
+URL=https://openload.co/f/L7RMrN0XskY/Predator.2.1990.REMASTERED.1080p.BR_SeeHD.mp4
 
 type=video
 name=Unfriended (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
