@@ -3221,10 +3221,10 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$Discovery/6.m3u8/Level(1677721)?star
 #EXTINF:-1,Documentary_CHN
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
 
-#EXTINF:-1,World_onlybest
-http://playlist.onlybest.tv/ru/channel/a090d5571a614d21233762fa058da2cf/381/index.m3u8
+
 #EXTINF:-1,Nuart TV_onlybest
 http://playlist.onlybest.tv/ru/channel/a090d5571a614d21233762fa058da2cf/264/index.m3u8 
+
 
 #EXTINF:-1  tvg-logo="https://miro.medium.com/fit/c/240/240/1*aQfL6JrXMI-kCNNt-1DFsQ.png",Tastemade
 https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index_7.m3u8

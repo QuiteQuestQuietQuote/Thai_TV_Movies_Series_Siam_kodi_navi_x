@@ -76,7 +76,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-15
+date=2018-09-16
 URL=
 
 
@@ -86,10 +86,24 @@ URL=
 
 
 type=video
-name=The Predator (2018) ENG TS-1XBET_SeeHD
+name=Johnny English Strikes Again (2018) ESP CAM.LATINO.1XBE-314p
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg
+date=2018-09-16
+URL=https://openload.co/f/wa-j50y9Jh8/Johnny.English.Strikes.Again.2018.CAM.LATINO.1XBE-314p.mp4
+
+type=video
+name=White Boy Rick (2018) ENG 720p_TS-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/376lzYd3vE04qBA5Js93UAKrnvj.jpg
+date=2018-09-16
+URL=https://openload.co/f/gkdpwns7nyY/White_Boy_Rick_2018_720p_TS-1XBET_SeeHD.mp4
+
+type=video
+name=The Predator (2018) ENG NEW_720p_HDCAM_V2-1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
-date=2018-09-15
-URL=https://openload.co/f/x3c5W9f8jUc/The_Predator_2018_TS-1XBET_SeeHD.mp4
+date=2018-09-16
+URL=https://openload.co/f/JzqururTlsI/The_Predator_2018_NEW_720p_HDCAM_V2-1XBET_SeeHD.mp4
+#https://openload.co/f/rroY7-gdIXA/The_Predator_2018_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/x3c5W9f8jUc/The_Predator_2018_TS-1XBET_SeeHD.mp4
 #https://openload.co/f/-4OAnxDQ6nw/The.Predator.2018.TS-1XBET.mp4
 #https://openload.co/f/TFCD6jtwgUM/The.Predator.2018.HDTS.XviD-AVID.avi.mp4
 #https://openload.co/f/t11kc2vcOC4/The.Predator.2018.HDTS.XViD.AC3-ETRG.avi.mp4
@@ -165,6 +179,7 @@ name=The Little Mermaid (2018) ENG 1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/PN42hurfIoTRBntRMu2McHXyHb.jpg
 date=2018-08-20
 URL=https://openload.co/f/MTIj7shXvFw/The.Little.Mermaid.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/Wyd52TiyQgc/The.Little.Mermaid.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
 #https://openload.co/f/74DNspHO7os/The.Little.Mermaid.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 
 type=video
@@ -1276,13 +1291,40 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-15
+date=2018-09-16
 URL=
 
 
 
 
 
+
+
+
+
+type=video
+name=Baja (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IHwx6PMtf68ZiFGlreIyq3QyU3.jpg
+date=2018-09-16
+URL=https://openload.co/f/Vd091T3btTQ/Baja.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/nzv62pEBiU8/Baja_%282018%29BluRay_720p_DTS_x264-CHD.Ganool.mkv.mp4
+#https://openload.co/f/hEjR9vIdCJ8/Baja.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/xb0x8q3iff4k   720
+#https://www.rapidvideo.com/e/FVBSTGH5UV   720
+#https://openload.co/embed/hKonNH3NpgU/BAJABD72.Ganol.st.mkv
+
+type=video
+name=The Guardians (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nkfTsQrlyVh6r2Jik5hl86OLhz.jpg
+date=2018-09-16
+URL=https://openload.co/f/YRIIl2GoVT0/The.Guardians.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/cMrAzG1dq_I/The.Guardians.2017.720p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=Growing Up (2018) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0EbhQxOkmMbJxiujdU55Eh9Dz6.jpg
+date=2018-09-16
+URL=https://openload.co/f/YJ-SfYRNags/growing.up.2018.1080p.bluray.x264-bipolar.mkv.mp4
 
 type=video
 name=The Row (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -6010,17 +6052,20 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sblspeMr7e9oTpGAnQriIvHOpb
 date=2018-09-12
 URL=https://openload.co/f/SKAvICNUwro/Whats.For.Dinner%2C.Mom2016.720p.BluRay.x264-%5BYTS.AM%5D.mp4
 
-type=video
-name=The Guardians (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nkfTsQrlyVh6r2Jik5hl86OLhz.jpg
-date=2018-09-15
-URL=https://openload.co/f/cMrAzG1dq_I/The.Guardians.2017.720p.BluRay.x264-%5BYTS.AM%5D.mp4
+
 
 type=video
 name=Champions (2018) [COLOR=FF00FF00]ESP BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5z4Ud6Ya5EY3Eg3OBbVBaDKWK.jpg
 date=2018-09-15
 URL=https://openload.co/f/ABOLRzGX9Do/Champions.2018.ENGSUB.720p.BluRay.x264-HDH.mp4
+
+type=video
+name=Andover (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5kQwV4ts7xkMInzO4eM94LLc6H.jpg
+date=2018-09-16
+URL=https://openload.co/f/f_VP_6RMHcs/Andover.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
 
 
 
@@ -6032,7 +6077,7 @@ URL=https://openload.co/f/ABOLRzGX9Do/Champions.2018.ENGSUB.720p.BluRay.x264-HDH
 type=video
 name=
 thumb=
-date=2018-09-15
+date=2018-09-16
 URL=
 
 type=video
@@ -6224,10 +6269,12 @@ URL=https://streamango.com/f/opcbtkktpceskbnr/The_First_Purge_2018_
 
 
 type=video
-name=Hotel Transylvania 3: Summer Vacation (2018) ENG CAM.XViD-T3RR0RSQU4
+name=Hotel Transylvania 3: Summer Vacation (2018) ENG V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg
-date=2018-08-06
-URL=https://openload.co/f/u2JQ5amQDaU/Hotel.Transylvania.3.Summer.Vacation.2018.CAM.XViD-T3RR0RSQU4.avi.mp4
+date=2018-09-16
+URL=https://openload.co/f/QFtpaJbxibo/Hotel_Transylvania_3_A_Monster_Vacation.2018.V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv
+#https://openload.co/f/xeaQloaxyQk/Hotel_Transylvania_3_A_Monster_Vacation.2018.V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv   MKV3.0GB
+#https://openload.co/f/u2JQ5amQDaU/Hotel.Transylvania.3.Summer.Vacation.2018.CAM.XViD-T3RR0RSQU4.avi.mp4
 #https://openload.co/f/eHv-fLRuh7A/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_NEW_SeeHD.mkv.mp4
 #https://openload.co/f/ZqftlMxzgW8/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/hSaXRiGF8S4/Hotel_Transylvania_3_Summer_Vacation_2018_New_720p_HDCAM-X264-AC3.mkv.mp4
@@ -6253,10 +6300,14 @@ URL=https://streamango.com/f/dcrafonlelcdrtlo/The_Spy_Who_Dumped_Me_2018_
 
 
 type=video
-name=The Meg (2018) ENG NEW.HDTC.XviD.B4ND1T69_SeeHD
+name=The Meg (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
-date=2018-09-06
-URL=https://openload.co/f/j4183vstFoA/The.Meg.2018.NEW.HDTC.XviD.B4ND1T69_SeeHD.avi.mp4
+date=2018-09-16
+URL=https://openload.co/f/F1gEbsctjSc/The.Meg.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/xVYurn_r6oA/The.Meg.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv   MKV3.7GB
+#https://openload.co/f/PMUQfER5ZIw/The.Meg.2018.720p.HC.HDRip.AC3.X264-CMRG.mkv.mp4
+#https://openload.co/f/MIDmprqPvUM/The.Meg.2018.720p.HC.HDRip.AC3.X264-CMRG.mkv   MKV2.1GB
+#https://openload.co/f/j4183vstFoA/The.Meg.2018.NEW.HDTC.XviD.B4ND1T69_SeeHD.avi.mp4
 #https://openload.co/f/jQPi1mZbb0M/The.Meg.2018.CAM.SUBBED.V2.READNFO.XViD-T3RR0RSQU4D.avi.mp4
 #https://openload.co/f/P4Fkr3ffImw/The.Meg.2018.CAM.SUBBED.V2READNFO.XViD.avi.mp4
 #https://openload.co/f/MUFIWuInpKQ/The_Meg_2018_New_1080p_HDTC_SeeHD.mkv.mp4
@@ -10461,7 +10512,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-15
+date=2018-09-16
 URL=
 
 
@@ -10471,6 +10522,28 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=The Last Lions (2011) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQRKJhkmVun6ByaF3ZPXxCJaofn.jpg
+date=2018-09-16
+URL=https://openload.co/f/HsDdnEIkzwE/The.Last.Lions.2011.1080p.BR_SeeHD.mp4
+
+type=video
+name=Johnny English (2003) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvFOJFDwgtINOxxtrFFiCMUrGdR.jpg
+date=2018-09-16
+URL=https://openload.co/f/nbjxzuCCXGI/Johnny.English.2003.1080p.BR_SeeHD.mp4
+
+type=video
+name=Johnny English Reborn (2011) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnS4Lb5rNx2ZucVdrW3TQd6n2AL.jpg
+date=2018-09-16
+URL=https://openload.co/f/iCBHeS4WfPA/Johnny.English.Reborn.2011.1080p.BR_SeeHD.mp4
 
 type=video
 name=Predator (1987) [COLOR=FF00FF00]ENG REMASTERED BR 1080p[/COLOR]
