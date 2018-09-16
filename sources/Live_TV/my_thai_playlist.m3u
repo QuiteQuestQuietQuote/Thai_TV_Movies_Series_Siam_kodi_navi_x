@@ -2530,14 +2530,7 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 group-title="xxx" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Hustler-HD-18.jpg",hustlerhd
 http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
-#EXTINF:-1,hustler HD_ru
-http://85.132.71.6/ru/hust/index.m3u8
-#EXTINF:-1,blue hustler_ru
-http://85.132.71.6/ru/blue/index.m3u8
-#EXTINF:-1,Brazzers_TV_Europe_ru
-http://85.132.71.6/ru/braz/index.m3u8
-#EXTINF:-1,pink_ru
-http://85.132.71.6/ru/pink/index.m3u8
+
 #EXTINF:-1,Brazzers_TV_Europe
 http://193.93.236.121:9991/play/Brazzers_TV_Europe/index.m3u8
 #EXTINF:-1,Brazzers_TV_Europe_iptvspy
@@ -2611,20 +2604,33 @@ http://213.59.136.48:9990/play/FRENCHLOVER/index.m3u8
 http://37.9.0.196:9002/playlist.m3u8
 #EXTINF:-1,CANDY
 http://6bc79edb.ulkakak.pw/iptv/CHPLNSPSC3DXKY/923/index.m3u8
+
 #EXTINF:-1,CANDY_tv159
 http://91.204.136.139:8080/tv159/index.m3u8
 #EXTINF:-1,Brazzers_tv158
 http://91.204.136.139:8080/tv158/index.m3u8
+#EXTINF:-1,Daisy_tv157
+http://91.204.136.139:8080/tv157/index.m3u8
+
+#EXTINF:-1,hustler HD_ru
+http://85.132.71.6/ru/hust/index.m3u8
+#EXTINF:-1,blue hustler_ru
+http://85.132.71.6/ru/blue/index.m3u8
+#EXTINF:-1,Brazzers_TV_Europe_ru
+http://85.132.71.6/ru/braz/index.m3u8
+#EXTINF:-1,pink_ru
+http://85.132.71.6/ru/pink/index.m3u8
+
 #EXTINF:-1,DUSK
 http://195.230.115.18:65080/play/a8101
 
 
 
-#EXTINF:-1,lovestreamhot
+#EXTINF:-1,lovestreamhot_rtmp
 rtmp://172.104.126.152/lovestreamhot
-#EXTINF:-1,lovestreammilf
+#EXTINF:-1,lovestreammilf_rtmp
 rtmp://172.104.126.152/lovestreammilf
-#EXTINF:-1,lovestream
+#EXTINF:-1,lovestream_rtmp
 rtmp://172.104.126.152/lovestream
 #EXTINF:-1,lovestreamhappy2_rtmp
 rtmp://172.104.126.152/lovestreamhappy2
@@ -2637,6 +2643,8 @@ rtmp://5-direct555-axd-10-xx.hnwzzy.com:1935/live/999888
 http://37.9.0.196:9000/play/a044
 #EXTINF:-1, WAAYH
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/922/index.m3u8
+#EXTINF:-1,PenthouseHD
+http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
 #EXTINF:-1,Playhouse
 http://89.212.214.162:7781/udp/239.18.1.235:5000
 #EXTINF:-1,XXX
@@ -3213,8 +3221,10 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$Discovery/6.m3u8/Level(1677721)?star
 #EXTINF:-1,Documentary_CHN
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
 
+#EXTINF:-1,World_onlybest
+http://playlist.onlybest.tv/ru/channel/a090d5571a614d21233762fa058da2cf/381/index.m3u8
 #EXTINF:-1,Nuart TV_onlybest
-http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/264/index.m3u8 
+http://playlist.onlybest.tv/ru/channel/a090d5571a614d21233762fa058da2cf/264/index.m3u8 
 
 #EXTINF:-1  tvg-logo="https://miro.medium.com/fit/c/240/240/1*aQfL6JrXMI-kCNNt-1DFsQ.png",Tastemade
 https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index_7.m3u8
