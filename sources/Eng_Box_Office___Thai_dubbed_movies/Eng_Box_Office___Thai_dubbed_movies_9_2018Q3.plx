@@ -90,6 +90,7 @@ name=Johnny English Strikes Again (2018) ESP CAM.LATINO.1XBE-314p
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg
 date=2018-09-16
 URL=https://openload.co/f/wa-j50y9Jh8/Johnny.English.Strikes.Again.2018.CAM.LATINO.1XBE-314p.mp4
+#https://openload.co/f/s2ehJnBuZnA/Johnny_English_Strikes_Again_2018_Movies_HD_Cam_x264_LAT_Clean_Audio_AAC_New_Source_rDX.mp4
 
 type=video
 name=White Boy Rick (2018) ENG 720p_TS-1XBET_SeeHD
@@ -97,16 +98,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/376lzYd3vE04qBA5Js93UAKrnv
 date=2018-09-16
 URL=https://openload.co/f/gkdpwns7nyY/White_Boy_Rick_2018_720p_TS-1XBET_SeeHD.mp4
 
-type=video
-name=The Predator (2018) ENG NEW_720p_HDCAM_V2-1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
-date=2018-09-16
-URL=https://openload.co/f/JzqururTlsI/The_Predator_2018_NEW_720p_HDCAM_V2-1XBET_SeeHD.mp4
-#https://openload.co/f/rroY7-gdIXA/The_Predator_2018_NEW_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/x3c5W9f8jUc/The_Predator_2018_TS-1XBET_SeeHD.mp4
-#https://openload.co/f/-4OAnxDQ6nw/The.Predator.2018.TS-1XBET.mp4
-#https://openload.co/f/TFCD6jtwgUM/The.Predator.2018.HDTS.XviD-AVID.avi.mp4
-#https://openload.co/f/t11kc2vcOC4/The.Predator.2018.HDTS.XViD.AC3-ETRG.avi.mp4
+
+
 
 type=video
 name=Peppermint (2018) ENG TS-1XBET_SeeHD
@@ -149,10 +142,12 @@ URL=https://openload.co/f/mo5HTgGEhFQ/The_Happytime_Murders_HDcam_SeeHD.avi.mp4
 #https://openload.co/f/NKbJ8AueDe4/The.Happytime.Murders.2018.720p.HDCAM.1XBET_SeeHD.mp4
 
 type=video
-name=Crazy Rich Asians (2018) ENG CAM.1XBET_SeeHD
+name=Crazy Rich Asians (2018) ENG NEW_720p_TS-1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnTqi4nhIi1eesT5uYMmhEPGNih.jpg
-date=2018-09-05
-URL=https://openload.co/f/DxmbGuLNA7M/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
+date=2018-09-17
+URL=https://openload.co/f/ah3SoVM7hjM/Crazy_Rich_Asians_2018_NEW_720p_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/tvN8COoFZYQ/Crazy.Rich.Asians.2018.HDTS.XviD-AVID.avi.mp4
+#https://openload.co/f/DxmbGuLNA7M/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
 #https://openload.co/f/g6uOlCEZREc/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
 
 
@@ -345,12 +340,7 @@ URL=
 
 
 
-type=video
-name=Detective Chinatown 2 (2018) CHN 720p.WEB-DL.850MB.Ganool.im
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JBftHNBnLHgqwHLiojuVSsRNpS.jpg
-date=2018-04-22
-URL=https://openload.co/f/h2cqEPzYsco/Detective.Chinatown.Vol_2.2018.720p.WEB-DL.850MB.Ganool.im.mkv.mp4
-#https://openload.co/f/s0IGNSki-Yc/Detective.Chinatown.Vol_2.2018.WEB-DL.1080P.H264.AAC.mp4
+
 
 type=video
 name=Mrs. Hyde (2018) FRE TS.XviD_F4NTASTiC.E
@@ -1332,6 +1322,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR2PZ92HTZDFuEpxePJhf0WBCy
 date=2018-09-15
 URL=https://openload.co/f/bqefmmAJZAM/The.Row.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/V5htasBg_jg/The.Row.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/h75w4watj1yy   720
+#https://www.rapidvideo.com/e/FVCMOWMSQM   720
+#https://openload.co/embed/0vSJoDsNKWY/THEROWBD72.Ganol.st.mkv.mp4
 
 type=video
 name=Varasto 2 (2018) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
@@ -1351,6 +1344,9 @@ URL=https://streamango.com/f/snllcpflpetscbok/Uncle_Drew_2018_1080p_BR_SeeHD_mp4
 #https://openload.co/f/la5rPWuXS7A/Uncle.Drew.2018.DVDRip.XviD.AC3-EVO%5BEtMovies%5D_SeeHD.avi.mp4
 #https://openload.co/f/4FYrC7sYS2Q/Uncle.Drew.2018.DVDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/uQ8R5HhL-iI/Uncle.Drew.2018.CAM-MaTinE.mkv.mp4
+#https://uptobox.com/kv5a28615cks   720
+#https://www.rapidvideo.com/e/FVCMG68TBJ   720
+#https://openload.co/embed/_dGbBAnfmbk/UNCLEDREWBD72.Ganol.st.mkv.mp4
 
 type=video
 name=A Hard Day (2014) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
@@ -1488,8 +1484,9 @@ URL=https://openload.co/f/y2HVqMg_cro/Gonjiam.Haunted.Asylum.2018.BluRay.1080p.5
 type=video
 name=Pitbull. Ostatni pies (2018) [COLOR=FF00FF00]POL BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNfFE5psykzVr8IbdUQMa75P3In.jpg
-date=2018-08-28
-URL=https://openload.co/f/zteDM1ldWVA/pitbull.last.dog.2018.1080p.bluray.x264-sprinter.mkv.mp4
+date=2018-09-17
+URL=https://openload.co/f/gKBMM2yiv_I/Pitbull.Last.Dog.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/zteDM1ldWVA/pitbull.last.dog.2018.1080p.bluray.x264-sprinter.mkv.mp4
 #https://uptobox.com/lgg5ubbgkj7b   720
 #https://www.rapidvideo.com/e/FUO7D7CNQ9   720
 #https://openload.co/embed/D6GxeXyRZuA/PITBULLLASTDOGBD72.Ganool.si.mkv
@@ -1941,8 +1938,9 @@ https://openload.co/f/sJmvK-ifWh0/The.Bold.the.Corrupt.and.the.Beautiful.2017.72
 type=video
 name=Gotti (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJODtXkQBK0lEmD4x5KkALnSiN1.jpg
-date=2018-07-21
-URL=https://openload.co/f/IPJMmmxGFk8/Gotti.2018.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+date=2018-09-17
+URL=https://openload.co/f/yAZm6Xx0Nhs/Gotti.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/IPJMmmxGFk8/Gotti.2018.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
 #https://openload.co/f/udn5jw48kLc/Gotti.2018.1080p.AMZN_SeeHD.mkv.mp4
 #https://openload.co/f/cOxTWMClj58/Gotti.2018.HDRip.AC3.X264-CMRG.mkv.mp4
 
@@ -2675,8 +2673,9 @@ URL=https://www.blazefile.co/embed-pkjrl8k3muz4.html
 type=video
 name=The Bookshop (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMSDciBev8h9P6KvxnQDOnExg0j.jpg
-date=2018-05-23
-URL=https://openload.co/f/NQiCbl1YKm8/The.Bookshop.2017.1080p.BR_SeeHD.mp4
+date=2018-09-17
+URL=https://openload.co/f/7huLfJOiwU0/The.Bookshop.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/NQiCbl1YKm8/The.Bookshop.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/5-CCCx8yvI4/The.Bookshop.2017.BDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/5h8C42EmfQA/The.Bookshop.2017.DVDRip.XviD.AC3-iFT.avi.mp4
 #https://www.blazefile.co/embed-9ynkzjzk6318.html   720
@@ -4730,14 +4729,6 @@ date=2017-10-31
 URL=https://openload.co/f/9O9V2D1tqr8/the.healer.2017.1080p.bluray.x264-rusted.mkv.mp4
 #https://www.blazefile.co/embed-dgw5ehyqc2b2.html
 
-type=video
-name=Jungle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg
-date=2017-10-30
-URL=https://www.blazefile.co/embed-vsl8zx0l5aun.html
-#https://openload.co/f/gQa_qNa-48M/jungle.2017.720p.bluray.x264-veto.mkv.mp4
-#https://openload.co/f/uu0n2mVkoK8/Jungle.2017.BRRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/qioNwiUuxkM/Jungle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 
 
 
@@ -6066,6 +6057,36 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5kQwV4ts7xkMInzO4eM94LLc6
 date=2018-09-16
 URL=https://openload.co/f/f_VP_6RMHcs/Andover.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
+type=video
+name=The Incantation (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIJlcGgDfAE4yzro5pKoGsOCkCK.jpg
+date=2018-09-17
+URL=https://uptobox.com/zfqi7n6dpraw
+#https://www.rapidvideo.com/e/FVCM00MZ1S
+#https://openload.co/embed/XvWyfPGc5k8/THEINCANATATIONBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/0y1tUnZ8tRM/The.Incantation.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/HEYty7y2_qU/The_Incantation_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+
+type=video
+name=Delinquent (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://m.media-amazon.com/images/M/MV5BYWJiNTIxOTUtM2RjMy00ZWZlLTllMzItMzQzNmUwMDc4ODRkXkEyXkFqcGdeQXVyNjA2NDIyMzU@._V1_SY1000_CR0,0,694,1000_AL_.jpg
+date=2018-09-17
+URL=https://openload.co/f/Y982nIv3t4I/Delinquent.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Detective Chinatown 2 (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JBftHNBnLHgqwHLiojuVSsRNpS.jpg
+date=2018-09-17
+URL=https://uptobox.com/gli6q9c3a5kc
+#https://www.rapidvideo.com/e/FVD3CU19UP
+#https://openload.co/embed/DjfDOtTjRqU/Detective.Chinatown.2.2018.BluRay.720p.900MB.Ganol.st.mkv
+#https://openload.co/f/INi8ZdcgMGE/Detective.Chinatown.2.2018.BluRay.720p.900MB.Ganool.mkv.mp4
+#https://openload.co/f/h2cqEPzYsco/Detective.Chinatown.Vol_2.2018.720p.WEB-DL.850MB.Ganool.im.mkv.mp4
+#https://openload.co/f/s0IGNSki-Yc/Detective.Chinatown.Vol_2.2018.WEB-DL.1080P.H264.AAC.mp4
+
+
+
+
 
 
 
@@ -6077,7 +6098,7 @@ URL=https://openload.co/f/f_VP_6RMHcs/Andover.2018.720p.BluRay.H264.AAC-RARBG.mp
 type=video
 name=
 thumb=
-date=2018-09-16
+date=2018-09-17
 URL=
 
 type=video
@@ -6166,7 +6187,21 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
-
+type=video
+name=The Predator (2018) ENG NEW_720p_HDCAM_V2-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
+date=2018-09-16
+URL=https://openload.co/f/JzqururTlsI/The_Predator_2018_NEW_720p_HDCAM_V2-1XBET_SeeHD.mp4
+#https://openload.co/f/rroY7-gdIXA/The_Predator_2018_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/x3c5W9f8jUc/The_Predator_2018_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/-4OAnxDQ6nw/The.Predator.2018.TS-1XBET.mp4
+#https://openload.co/f/TFCD6jtwgUM/The.Predator.2018.HDTS.XviD-AVID.avi.mp4
+#https://openload.co/f/t11kc2vcOC4/The.Predator.2018.HDTS.XViD.AC3-ETRG.avi.mp4
+type=video
+name=The Predator (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
+date=2018-09-17
+URL=https://openload.co/f/lid3G4MglmY/The_Predator_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%94%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -6423,26 +6458,7 @@ date=2018-07-08
 URL=https://streamango.com/f/dordledefetessal/Ant-Man_and_the_Wasp_2018_-_
 
 
-type=video
-name=Sicario: Day of the Soldado (2018) ENG 1080p.web.dl.hevc.x265
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XDlelZUNWmKgP2bcWL9c9G10eo.jpg
-date=2018-09-12
-URL=https://openload.co/f/SOa2JHii3jQ/sicario.day.of.the.soldado.2018.1080p.web.dl.hevc.x265.mkv.mp4
-#https://openload.co/f/SwhtSLVkwwE/Sicario.Day.of.the.Soldado.2018.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/zMNZk-zywTw/Sicario.Day.of.the.Soldado.2018.720p.WEB-DL.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/E-LUBe2hNP8/Sicario.Day.of.the.Soldado.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/35NqcOg-z2A/Sicario.Day.of.the.Soldado.2018.720p.AMZN.WEBRip.DDP5.1.x264-NTG.mkv.mp4
-#https://openload.co/f/MoItgNO_4Ck/Sicario.Day.of.the.Soldado.2018.HDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/mB6HunzA3hM/Sicario_2_Day_of_the_Soldado_2018_NEW_HDCAM_V.2_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/yUd5Hl8Eip4/Sicario.Day.of.the.Soldado.2018.NEW.HDCAM.X264-Mr.Hive.mkv.mp4
-#https://openload.co/f/QXN1pvahVt8/Sicario_2_Day_of_the_Soldado_2018_NEW_HDCAM_X264_Mr.Hive_SeeHD.mkv.mp4
-#https://openload.co/f/8BFuQFmAJi8/Sicario_2_CAM_SeeHD.mkv.mp4
-#https://openload.co/f/r6Tadc5TwnM/Sicario_Day_of_the_Soldado_2018_720p_HDCAM_ENG_X264-P2P.mkv.mp4
-type=video
-name=Sicario: Day of the Soldado (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XDlelZUNWmKgP2bcWL9c9G10eo.jpg
-date=2018-07-02
-URL=https://streamango.com/f/kpktebfparrekqcd/Sicario_Day_of_the_Soldado_2018_2_
+
 
 
 type=video
@@ -6607,7 +6623,7 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-09-09
+date=2018-09-17
 URL=
 
 
@@ -6618,7 +6634,11 @@ URL=
 
 
 
-
+type=video
+name=The Mountain II (2016) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlUgdj90WoRoOYokRKNWnWYbINV.jpg
+date=2018-09-17
+URL=https://openload.co/f/qgMIPUyzPfg/The_Mountain_II_%282016%29%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%A3%E0%B8%9A%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B8%E0%B8%A9_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -6670,26 +6690,7 @@ date=2018-08-30
 URL=https://openload.co/f/Ro-qH0WMdys/American_Animals_%282018%29%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99_%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%94%E0%B9%89_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
-type=video
-name=Adrift (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gLDeADaETvwQlQow5szlyuhLbj.jpg
-date=2018-08-25
-URL=https://uptobox.com/00nbvcpmx2ch
-#https://www.rapidvideo.com/e/FULREPR5RD
-#https://openload.co/embed/G8UlruIEIDw/GHPADRIFT80.Ganool.si.mkv
-#https://openload.co/f/NPUUIIA3OmI/Adrift.2018.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/5u5zXSDXUPg/adrift.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/Di2Gqo-20U0/adrift.2018.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/bkgAcjqVcbo/adrift.2018.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/K81IGOSa3fE/Adrift.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/V6SpeUeBgIY/Adrift.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/crK40YfKElQ/Adrift.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/4x6JpEt4FZA/Adrift.2018.720p.HDCAM.1XBETmp4
-type=video
-name=Adrift (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gLDeADaETvwQlQow5szlyuhLbj.jpg
-date=2018-08-30
-URL=https://openload.co/f/yC6HmuE3IRU/Adrift_%282018%29%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%AE%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
 
 
 type=video
@@ -6712,10 +6713,14 @@ URL=https://openload.co/f/cYZlKc7ru90/The_After_Party_%282018%29%E0%B8%AD%E0%B8%
 
 
 type=video
-name=Occupation (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Occupation (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr7MFQAmP30IJZP2FXKhPKbe8IW.jpg
 date=2018-09-13
-URL=https://openload.co/f/i0YN9ybpYUE/Occupation.2018.720p.BluRay.H264.AAC-RARBG.mp4
+URL=https://openload.co/f/xM2tVd0BWFI/Occupation.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/i0YN9ybpYUE/Occupation.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/f0p45p6mrv6i   720
+#https://www.rapidvideo.com/e/FVCNBW27YL   720
+#https://openload.co/embed/UzQLYm23R9o/OCCUPATIONBD72.Ganol.st.mkv.mp4
 type=video
 name=Occupation (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr7MFQAmP30IJZP2FXKhPKbe8IW.jpg
@@ -8623,6 +8628,34 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=Sicario: Day of the Soldado (2018) ENG 1080p.web.dl.hevc.x265
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XDlelZUNWmKgP2bcWL9c9G10eo.jpg
+date=2018-09-12
+URL=https://openload.co/f/SOa2JHii3jQ/sicario.day.of.the.soldado.2018.1080p.web.dl.hevc.x265.mkv.mp4
+#https://openload.co/f/SwhtSLVkwwE/Sicario.Day.of.the.Soldado.2018.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/zMNZk-zywTw/Sicario.Day.of.the.Soldado.2018.720p.WEB-DL.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/E-LUBe2hNP8/Sicario.Day.of.the.Soldado.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/35NqcOg-z2A/Sicario.Day.of.the.Soldado.2018.720p.AMZN.WEBRip.DDP5.1.x264-NTG.mkv.mp4
+#https://openload.co/f/MoItgNO_4Ck/Sicario.Day.of.the.Soldado.2018.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/mB6HunzA3hM/Sicario_2_Day_of_the_Soldado_2018_NEW_HDCAM_V.2_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/yUd5Hl8Eip4/Sicario.Day.of.the.Soldado.2018.NEW.HDCAM.X264-Mr.Hive.mkv.mp4
+#https://openload.co/f/QXN1pvahVt8/Sicario_2_Day_of_the_Soldado_2018_NEW_HDCAM_X264_Mr.Hive_SeeHD.mkv.mp4
+#https://openload.co/f/8BFuQFmAJi8/Sicario_2_CAM_SeeHD.mkv.mp4
+#https://openload.co/f/r6Tadc5TwnM/Sicario_Day_of_the_Soldado_2018_720p_HDCAM_ENG_X264-P2P.mkv.mp4
+type=video
+name=Sicario: Day of the Soldado (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XDlelZUNWmKgP2bcWL9c9G10eo.jpg
+date=2018-09-17
+URL=https://openload.co/f/ncwEdmqjeBg/Sicario%3A_Day_of_the_Soldado_%282018%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/kpktebfparrekqcd/Sicario_Day_of_the_Soldado_2018_2_
+
+
 type=video
 name=Detective Dee: The Four Heavenly Kings (2018) CHN HD1080P.X264.AAC.CHS-ENG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhJhgOsSIcN5RiRS8js4mv7K3iA.jpg
@@ -9279,7 +9312,42 @@ URL=
 
 
 
+type=video
+name=Adrift (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gLDeADaETvwQlQow5szlyuhLbj.jpg
+date=2018-08-25
+URL=https://uptobox.com/00nbvcpmx2ch
+#https://www.rapidvideo.com/e/FULREPR5RD
+#https://openload.co/embed/G8UlruIEIDw/GHPADRIFT80.Ganool.si.mkv
+#https://openload.co/f/NPUUIIA3OmI/Adrift.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/5u5zXSDXUPg/adrift.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/Di2Gqo-20U0/adrift.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/bkgAcjqVcbo/adrift.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/K81IGOSa3fE/Adrift.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/V6SpeUeBgIY/Adrift.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/crK40YfKElQ/Adrift.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/4x6JpEt4FZA/Adrift.2018.720p.HDCAM.1XBETmp4
+type=video
+name=Adrift (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gLDeADaETvwQlQow5szlyuhLbj.jpg
+date=2018-09-17
+URL=https://openload.co/f/cyx43nQxx7w/Adrift_%282018%29%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%AE%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%99.mp4
+#https://openload.co/f/yC6HmuE3IRU/Adrift_%282018%29%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%AE%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
+
+type=video
+name=Jungle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg
+date=2017-10-30
+URL=https://www.blazefile.co/embed-vsl8zx0l5aun.html
+#https://openload.co/f/gQa_qNa-48M/jungle.2017.720p.bluray.x264-veto.mkv.mp4
+#https://openload.co/f/uu0n2mVkoK8/Jungle.2017.BRRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/qioNwiUuxkM/Jungle.2017.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+type=video
+name=Jungle (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg
+date=2018-09-17
+URL=https://openload.co/f/xuQm8eulclc/Jungle_%282017%29%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%AD%E0%B8%94.mp4
 
 
 type=video
