@@ -86,10 +86,13 @@ URL=
 
 
 type=video
-name=Johnny English Strikes Again (2018) ESP CAM.LATINO.1XBE-314p
+name=Johnny English Strikes Again (2018) ENG New_Src_HDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg
-date=2018-09-16
-URL=https://openload.co/f/wa-j50y9Jh8/Johnny.English.Strikes.Again.2018.CAM.LATINO.1XBE-314p.mp4
+date=2018-09-18
+URL=https://openload.co/f/2MqSe98cW1I/Johnny_English_Strikes_Again_2018_New_Src_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/UskKUo3454o/Johnny.English.Strikes.Again.2018.NOLOGO.ENG.CAM.mp4
+#https://openload.co/f/_9UhDKqWNdE/Johnny.English.Strikes.Again.2018.ENG.CAM.x264-1XBET.mp4
+#https://openload.co/f/wa-j50y9Jh8/Johnny.English.Strikes.Again.2018.CAM.LATINO.1XBE-314p.mp4
 #https://openload.co/f/s2ehJnBuZnA/Johnny_English_Strikes_Again_2018_Movies_HD_Cam_x264_LAT_Clean_Audio_AAC_New_Source_rDX.mp4
 
 type=video
@@ -101,12 +104,7 @@ URL=https://openload.co/f/gkdpwns7nyY/White_Boy_Rick_2018_720p_TS-1XBET_SeeHD.mp
 
 
 
-type=video
-name=Peppermint (2018) ENG TS-1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg
-date=2018-09-10
-URL=https://openload.co/f/QO7jpwtEtCI/Peppermint_2018_TS-1XBET_SeeHD.mp4
-#https://openload.co/f/OqNJndekThw/Peppermint.2018.TS-1XBET.mp4
+
 
 type=video
 name=Papillon (2018) ENG New.Src.720p.HDCAM.x264.AC3-NeNi
@@ -327,6 +325,46 @@ URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.
 
 
 
+type=video
+name=The Wind Guardians (2018) CHN WEB-4K%5D%5BHEVC%5D%5BCHI%5D%5BDD5.1%5D
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiqNwe7BNkUJyPLOgPxYZLdcA8y.jpg
+date=2018-09-18
+URL=https://openload.co/f/BkQiBo75j44/The_Wind_Guardians_%5B2018%5D%5BWEB-4K%5D%5BHEVC%5D%5BCHI%5D%5BDD5.1%5D.mp4
+
+type=video
+name=Along With the Gods: The Last 49 Days (2018) KOR 1080p.FHDRip.H264.AAC-HDMovie8
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg
+date=2018-09-18
+URL=https://openload.co/f/xzTM53Ul5Ds/Along.with.the.Gods_The.Last.49.Days.2017.1080p.FHDRip.H264.AAC-HDMovie8.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -335,7 +373,7 @@ URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.
 type=video
 name=
 thumb=
-date=2018-04-22
+date=2018-09-18
 URL=
 
 
@@ -343,10 +381,11 @@ URL=
 
 
 type=video
-name=Mrs. Hyde (2018) FRE TS.XviD_F4NTASTiC.E
+name=Mrs. Hyde (2018) FRE 1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmBGn8QBWG8ojGdKemY959qjdMq.jpg
-date=2018-04-09
-URL=https://openload.co/f/ZYojgJ9AJJU/Madame.Hyde.2018.FRENCH.TS.XviD_F4NTASTiC.E.mp4
+date=2018-09-18
+URL=https://openload.co/f/6m5bc4V6_X4/Madame.Hyde.2017.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/ZYojgJ9AJJU/Madame.Hyde.2018.FRENCH.TS.XviD_F4NTASTiC.E.mp4
 
 type=video
 name=Paterno (2018) ENG 1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee
@@ -1281,7 +1320,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-16
+date=2018-09-18
 URL=
 
 
@@ -1290,7 +1329,27 @@ URL=
 
 
 
+type=video
+name=Evil and The Mask (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OETtumSlRxUVwxwBXsJdzTj7LP.jpg
+date=2018-09-18
+URL=https://openload.co/f/qPT4AngDh3s/Evil.and.the.Mask.2018.1080p.BluRay.x264-WiKi.mkv.mp4
 
+type=video
+name=Delinquent (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ANtdyxa9ralMe0CNg45LNFXeMW.jpg
+date=2018-09-18
+URL=https://openload.co/f/CNi0rC61v_s/Delinquent.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Y982nIv3t4I/Delinquent.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Fahrenheit 451 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/urH9H50gKbUK8U6qTVd89SLQPjx.jpg
+date=2018-09-18
+URL=https://openload.co/f/zQJLDjBNuzA/Fahrenheit.451.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/PhJdHIglkyo/Fahrenheit.451.2018.1080p.BR.mp4
+#https://openload.co/f/JtgvwBXwTuQ/Fahrenheit.451.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/xR12nCCa3aI/Fahrenheit.451.2018.720p.WEB-DL.X264.AC3-EVO_SeeHD.mkv.mp4
 
 type=video
 name=Baja (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1429,11 +1488,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3msVFWalwQyfXQONXh9dRM0FLp
 date=2018-09-07
 URL=https://openload.co/f/HUkWRZ0g7rY/global.meltdown.2017.1080p.bluray.x264-getit.mkv.mp4
 
-type=video
-name=The 8-Year Engagement (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8U2bPJMeNYKvQ9RkttiZJ5Jl5D1.jpg
-date=2018-09-07
-URL=https://openload.co/f/1URVAby99DA/The.8-Year.Engagement.2017.JAPANESE.1080p.BluRay.H264.AAC-VXT.mp4
+
 
 type=video
 name=The 60 Yard Line (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -6067,11 +6122,7 @@ URL=https://uptobox.com/zfqi7n6dpraw
 #https://openload.co/f/0y1tUnZ8tRM/The.Incantation.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/HEYty7y2_qU/The_Incantation_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
 
-type=video
-name=Delinquent (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://m.media-amazon.com/images/M/MV5BYWJiNTIxOTUtM2RjMy00ZWZlLTllMzItMzQzNmUwMDc4ODRkXkEyXkFqcGdeQXVyNjA2NDIyMzU@._V1_SY1000_CR0,0,694,1000_AL_.jpg
-date=2018-09-17
-URL=https://openload.co/f/Y982nIv3t4I/Delinquent.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
 
 type=video
 name=Detective Chinatown 2 (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
@@ -6184,7 +6235,17 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
-
+type=video
+name=Peppermint (2018) ENG TS-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg
+date=2018-09-10
+URL=https://openload.co/f/QO7jpwtEtCI/Peppermint_2018_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/OqNJndekThw/Peppermint.2018.TS-1XBET.mp4
+type=video
+name=Peppermint (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg
+date=2018-09-18
+URL=https://openload.co/f/-2e2dhkFJX0/Peppermint_%282018%29%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -6292,10 +6353,12 @@ URL=https://openload.co/f/2lCZjxZ3Ww4/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%
 
 
 type=video
-name=The First Purge (2018) ENG 720p.HDCAM.1XBET_SeeHD
+name=The First Purge (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2slvblTroiT1lY9bYLK7Amigo1k.jpg
-date=2018-07-21
-URL=https://openload.co/f/S0UjL9DNnp8/The.First.Purge.2018.720p.HDCAM.1XBET_SeeHD.mp4
+date=2018-09-18
+URL=https://openload.co/f/8voZV_xy2WQ/The.First.Purge.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/SaBg-K6W5lY/The.First.Purge.2018.1080p.WEB-DL.DD5.1.H264-HDMovie8.mkv.mp4
+#https://openload.co/f/S0UjL9DNnp8/The.First.Purge.2018.720p.HDCAM.1XBET_SeeHD.mp4
 type=video
 name=The First Purge (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2slvblTroiT1lY9bYLK7Amigo1k.jpg
@@ -6492,45 +6555,6 @@ URL=https://streamango.com/f/pmornaclntnlddoo/Incredibles_2_2018_2_
 
 
 
-type=video
-name=Solo: A Star Wars Story (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IGbjc5ZC5yxim5W0sFING2kdcz.jpg
-date=2018-09-13
-URL=https://uptobox.com/r1er22noe48t
-#https://www.rapidvideo.com/e/FV7EKHAFWK
-#https://openload.co/embed/WHl7X1zJqGo/GHPSOLO80.Ganol.st.mkv
-#https://openload.co/f/XHAbAKwwBeA/Solo.A.Star.Wars.Story.2018.1080p.BR_SeeHD.mp4
-https://openload.co/f/KDHkzG4z4HI/Solo%3A_A_Star_Wars_Story_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
-#https://openload.co/f/Monb32lgYro/Solo%3A_A_Star_Wars_Story_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
-#https://openload.co/f/h5YlUj1crXs/Solo.A.Star.Wars.Story.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/tEpcljd_Y18/Solo.A.Star.Wars.Story.2018.1080p.BluRay.H264.AAC-HDMovie8.mp4
-#https://openload.co/f/riA1bay8IrU/Solo-A.Star.Wars.Story.2018.BluRay.1080p.DD5.1.H265-d3g.mkv.mp4
-#https://openload.co/f/qbryRFyKBYQ/solo.a.star.wars.story.2018.bluray.720p.bluray.hevc.x265.mkv.mp4
-#https://openload.co/f/gqcODZ25q-8/solo.a.star.wars.story.2018.720p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/HsnQLTPcR78/Solo.A.Star.Wars.Story.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
-#https://openload.co/f/LAKzQuJ-nSw/Solo.A.Star.Wars.Story.2018.720p.BRRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/XLlDLk6UkF0/solo.a.star.wars.story.2018.bdrip.x264-sparks.mkv.mp4
-#https://openload.co/f/M-9CNK3sbfg/Solo.A.Star.Wars.Story.2018.720p.BRRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/Rr_VeMHU7pQ/Solo.A.Star.Wars.Story.2018.720p.BRRip.HEVC.MkvCage.ws.mp4
-#https://openload.co/f/qVyz_6tZdto/Solo.A.Star.Wars.Story.2018.720p.BRRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/LTo3Nn902WA/Solo.A.Star.Wars.Story.2018.BRRip.XviD.MP3_XVID.mp4
-#https://openload.co/f/pC3oDm5pnQ8/Solo_A_Star_Wars_Story_2018_NEW_720p_TS_V.2_SeeHD.mkv.mp4
-#https://openload.co/f/0aE4MV2euUk/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_V.2_SeeHD.mkv.mp4
-#https://openload.co/f/eIEskJge87c/Solo%3A_A_Star_Wars_Story_2018_NEW_720p_HD-TS_V.2.mp4
-#https://openload.co/f/GdC4hcTBhBg/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_V.2_SeeHD.mkv   MKV
-#https://openload.co/f/hHuxcYvQKRg/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/KbdK1ENYGkU/Solo.A_Star_Wars_Story.2018.720p.HDCAM.Eng.1XBET_SeeHD.mp4
-#https://openload.co/f/V_owx_hrBak/Solo%3A_A_Star_Wars_Story_%282018%29HDCAM_720p_x264_750MB_AAC_-_NoGroup.Ganool.im.mkv.mp4
-#https://uptobox.com/hx1qx4f40fk6   720
-#https://www.rapidvideo.com/e/FV77NPBWIS   720
-#https://openload.co/embed/bS1R_fS6cG4/SHQSOLOSTRWARSSTORYBD72.Ganol.st.mkv.mp4
-type=video
-name=Solo: A Star Wars Story (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IGbjc5ZC5yxim5W0sFING2kdcz.jpg
-date=2018-05-30
-URL=https://streamango.com/f/pkrtqtckdekrmeno/Solo_A_Star_Wars_Story_2018_
-
-
 
 
 
@@ -6623,16 +6647,29 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-09-17
+date=2018-09-18
 URL=
 
 
 
 
+type=video
+name=Bleach (2018) JAP 1080p.NF.WEB-DL.DDP5.1.x264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1fV61h5mLO5dSTU09zhgG7IRp4.jpg
+date=2018-09-18
+URL=https://openload.co/f/3uErTU29myE/Bleach.2018.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv.mp4
+type=video
+name=Bleach (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1fV61h5mLO5dSTU09zhgG7IRp4.jpg
+date=2018-09-18
+URL=https://openload.co/f/9A-eSopSgno/Bleach_%282018%29%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
-
-
+type=video
+name=The Angel (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5vBixJD1coOvHvr8N2pbyffxFU.jpg
+date=2018-09-18
+URL=https://openload.co/f/Uc60D5sR83U/The_Angel_%282018%29%E0%B8%94%E0%B8%B4_%E0%B9%81%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%B4%E0%B8%A5_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 type=video
 name=The Mountain II (2016) THSUB
@@ -8711,49 +8748,9 @@ URL=https://streamango.com/f/aecberatadpcfkqe/The_Cured_2018_
 
 
 
-type=video
-name=Jurassic World: Fallen Kingdom (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
-date=2018-09-07
-URL=https://uptobox.com/a5ca2ny62ydr
-#https://www.rapidvideo.com/e/FV18WMFUVV
-#https://openload.co/embed/Cm4fuT4ppg0/GHPJURSICWORLDKINDOM80.Ganol.st.mkv
-#https://openload.co/f/cIhQBF_lUOc/Jurassic_World%3A_Fallen_Kingdom_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
-#https://openload.co/f/aVrzZyw1pgU/jurassic.world.fallen.kingdom.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/sUcFY_l_QyA/Jurassic.World.Fallen.Kingdom.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/9hbOZTG48-U/Jurassic.World.Fallen.Kingdom.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/WoLPE03rgYg/jurassic.world.fallen.kingdom.2018.1080p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/IatQZ0yzDlE/jurassic.world.fallen.kingdom.2018.1080p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/4vpUuh-bROo/jurassic.world.fallen.kingdom.2018.1080p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/uZt_zZX5fyE/Jurassic.World.Fallen.Kingdom.2018.720p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/Lw2jnPrdsOA/boJurassic.World.Fallen.Kingdom.2018.720p.BluRay.H264.AACRARBG.mp4
-#https://openload.co/f/6ysRd1MnOBY/Jurassic.World.2018.1080p.mp4
-#https://openload.co/f/1m4IPuKQQJ4/Jurassic.World.2018.1080pHD_SeeHD.mkv.mp4
-#https://openload.co/f/eHybg2q5qFw/Jurassic.World.2018.1080pHD_SeeHD.mkv   MKV2.9GB
-#https://openload.co/f/J_zRzPPeL5o/jurassic.world.fallen.kingdom.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/pEWd9lR3410/Jurassic.World.Fallen.Kingdom.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/gkfQJvpXsXE/Jurassic.World.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/thOUqLbJemU/Jurassic.World.2018.V2.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/aMt6KLSywjQ/Jurassic_World_Fallen_Kingdom_2018_720p_HCHD_SeeHD.mkv.mp4
-#https://openload.co/f/qDE3_SspI-0/Jurassic.World.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/hPa3Ymz4ULU/Jurassic_World_Fallen_Kingdom_2018_720p_HCHD_SeeHD.mkv.mp4
-#https://openload.co/f/tvAfQtqUgVM/Jurassic.World.2018.V2.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/a8bXJWfytMc/Jurassic_World_Fallen_Kingdom_2018_NEW_720p_HD-TS_X264_AC3_SeeHD.mkv.mp4
-#https://openload.co/f/32ksG80Q0pM/Jurassic_World_Fallen_Kingdom.2018.HDTS.720p.XviD.mp4
-#https://openload.co/f/ee0BYggpv8w/Jurassic_World_Fallen_Kingdom_2018_NEW_TC_SeeHD.mkv.mp4
-#https://openload.co/f/g7ekyl53Btc/Jurassic_World_Fallen_Kingdom.2018.HDTS.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/qDjH228-Kpw/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_V.2_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/jvF2_B5YrtI/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_HQMic_SeeHD.mkv.mp4
-#https://openload.co/f/2V0abkp6pRI/Jurassic_World_Fallen_Kingdom_2018_720p_English_HDCAM_Rip_x264.mp4
-#https://openload.co/f/R5CtFFLA2FY/Jurassic_World_Fallen_Kingdom_%282018%29_720p_English_HDCAM_x264_AAC_by_Full4movies.mkv.mp4
-#https://openload.co/f/DNwKj3Hb9vg/Jurassic_World_Fallen_Kingdom_%282018%29_720p_English_HDCAM_-x264_AAC_-_2.2GB.mkv.mp4
-type=video
-name=Jurassic World: Fallen Kingdom (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
-date=2018-09-07
-URL=https://openload.co/f/9b-uB8QJ5rY/Jurassic_World%3A_Fallen_Kingdom_%282018%29%E0%B8%88%E0%B8%B9%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%84_%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B9%8C_%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%A5%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://streamango.com/f/lnnbdbadecooasqk/Jurassic_World_Fallen_Kingdom_2018_
-#https://streamango.com/f/qfdpefrdpbdbbbbn/Jurassic_World_Fallen_Kingdom_2018_
+
+
+
 
 
 type=video
@@ -9312,6 +9309,107 @@ URL=
 
 
 
+
+
+
+type=video
+name=Jurassic World: Fallen Kingdom (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
+date=2018-09-07
+URL=https://uptobox.com/a5ca2ny62ydr
+#https://www.rapidvideo.com/e/FV18WMFUVV
+#https://openload.co/embed/Cm4fuT4ppg0/GHPJURSICWORLDKINDOM80.Ganol.st.mkv
+#https://openload.co/f/cIhQBF_lUOc/Jurassic_World%3A_Fallen_Kingdom_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
+#https://openload.co/f/aVrzZyw1pgU/jurassic.world.fallen.kingdom.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/sUcFY_l_QyA/Jurassic.World.Fallen.Kingdom.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/9hbOZTG48-U/Jurassic.World.Fallen.Kingdom.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/WoLPE03rgYg/jurassic.world.fallen.kingdom.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/IatQZ0yzDlE/jurassic.world.fallen.kingdom.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/4vpUuh-bROo/jurassic.world.fallen.kingdom.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/uZt_zZX5fyE/Jurassic.World.Fallen.Kingdom.2018.720p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/Lw2jnPrdsOA/boJurassic.World.Fallen.Kingdom.2018.720p.BluRay.H264.AACRARBG.mp4
+#https://openload.co/f/6ysRd1MnOBY/Jurassic.World.2018.1080p.mp4
+#https://openload.co/f/1m4IPuKQQJ4/Jurassic.World.2018.1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/eHybg2q5qFw/Jurassic.World.2018.1080pHD_SeeHD.mkv   MKV2.9GB
+#https://openload.co/f/J_zRzPPeL5o/jurassic.world.fallen.kingdom.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/pEWd9lR3410/Jurassic.World.Fallen.Kingdom.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/gkfQJvpXsXE/Jurassic.World.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/thOUqLbJemU/Jurassic.World.2018.V2.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/aMt6KLSywjQ/Jurassic_World_Fallen_Kingdom_2018_720p_HCHD_SeeHD.mkv.mp4
+#https://openload.co/f/qDE3_SspI-0/Jurassic.World.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/hPa3Ymz4ULU/Jurassic_World_Fallen_Kingdom_2018_720p_HCHD_SeeHD.mkv.mp4
+#https://openload.co/f/tvAfQtqUgVM/Jurassic.World.2018.V2.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/a8bXJWfytMc/Jurassic_World_Fallen_Kingdom_2018_NEW_720p_HD-TS_X264_AC3_SeeHD.mkv.mp4
+#https://openload.co/f/32ksG80Q0pM/Jurassic_World_Fallen_Kingdom.2018.HDTS.720p.XviD.mp4
+#https://openload.co/f/ee0BYggpv8w/Jurassic_World_Fallen_Kingdom_2018_NEW_TC_SeeHD.mkv.mp4
+#https://openload.co/f/g7ekyl53Btc/Jurassic_World_Fallen_Kingdom.2018.HDTS.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/qDjH228-Kpw/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_V.2_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/jvF2_B5YrtI/Jurassic_World_Fallen_Kingdom_2018_720p_HDCAM_HQMic_SeeHD.mkv.mp4
+#https://openload.co/f/2V0abkp6pRI/Jurassic_World_Fallen_Kingdom_2018_720p_English_HDCAM_Rip_x264.mp4
+#https://openload.co/f/R5CtFFLA2FY/Jurassic_World_Fallen_Kingdom_%282018%29_720p_English_HDCAM_x264_AAC_by_Full4movies.mkv.mp4
+#https://openload.co/f/DNwKj3Hb9vg/Jurassic_World_Fallen_Kingdom_%282018%29_720p_English_HDCAM_-x264_AAC_-_2.2GB.mkv.mp4
+type=video
+name=Jurassic World: Fallen Kingdom (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg
+date=2018-09-18
+URL=https://openload.co/f/ZkROtx6LhIU/Jurassic_World%3A_Fallen_Kingdom_%282018%29%E0%B8%88%E0%B8%B9%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%84_%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B9%8C%3A_%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%A5%E0%B8%B2%E0%B8%A2.mp4
+#https://openload.co/f/9b-uB8QJ5rY/Jurassic_World%3A_Fallen_Kingdom_%282018%29%E0%B8%88%E0%B8%B9%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%84_%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B9%8C_%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%A5%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/lnnbdbadecooasqk/Jurassic_World_Fallen_Kingdom_2018_
+#https://streamango.com/f/qfdpefrdpbdbbbbn/Jurassic_World_Fallen_Kingdom_2018_
+
+
+type=video
+name=Solo: A Star Wars Story (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IGbjc5ZC5yxim5W0sFING2kdcz.jpg
+date=2018-09-13
+URL=https://uptobox.com/r1er22noe48t
+#https://www.rapidvideo.com/e/FV7EKHAFWK
+#https://openload.co/embed/WHl7X1zJqGo/GHPSOLO80.Ganol.st.mkv
+#https://openload.co/f/XHAbAKwwBeA/Solo.A.Star.Wars.Story.2018.1080p.BR_SeeHD.mp4
+https://openload.co/f/KDHkzG4z4HI/Solo%3A_A_Star_Wars_Story_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
+#https://openload.co/f/Monb32lgYro/Solo%3A_A_Star_Wars_Story_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
+#https://openload.co/f/h5YlUj1crXs/Solo.A.Star.Wars.Story.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/tEpcljd_Y18/Solo.A.Star.Wars.Story.2018.1080p.BluRay.H264.AAC-HDMovie8.mp4
+#https://openload.co/f/riA1bay8IrU/Solo-A.Star.Wars.Story.2018.BluRay.1080p.DD5.1.H265-d3g.mkv.mp4
+#https://openload.co/f/qbryRFyKBYQ/solo.a.star.wars.story.2018.bluray.720p.bluray.hevc.x265.mkv.mp4
+#https://openload.co/f/gqcODZ25q-8/solo.a.star.wars.story.2018.720p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/HsnQLTPcR78/Solo.A.Star.Wars.Story.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/LAKzQuJ-nSw/Solo.A.Star.Wars.Story.2018.720p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/XLlDLk6UkF0/solo.a.star.wars.story.2018.bdrip.x264-sparks.mkv.mp4
+#https://openload.co/f/M-9CNK3sbfg/Solo.A.Star.Wars.Story.2018.720p.BRRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/Rr_VeMHU7pQ/Solo.A.Star.Wars.Story.2018.720p.BRRip.HEVC.MkvCage.ws.mp4
+#https://openload.co/f/qVyz_6tZdto/Solo.A.Star.Wars.Story.2018.720p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/LTo3Nn902WA/Solo.A.Star.Wars.Story.2018.BRRip.XviD.MP3_XVID.mp4
+#https://openload.co/f/pC3oDm5pnQ8/Solo_A_Star_Wars_Story_2018_NEW_720p_TS_V.2_SeeHD.mkv.mp4
+#https://openload.co/f/0aE4MV2euUk/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_V.2_SeeHD.mkv.mp4
+#https://openload.co/f/eIEskJge87c/Solo%3A_A_Star_Wars_Story_2018_NEW_720p_HD-TS_V.2.mp4
+#https://openload.co/f/GdC4hcTBhBg/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_V.2_SeeHD.mkv   MKV
+#https://openload.co/f/hHuxcYvQKRg/Solo_A_Star_Wars_Story_2018_NEW_720p_HD-TS_X264-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/KbdK1ENYGkU/Solo.A_Star_Wars_Story.2018.720p.HDCAM.Eng.1XBET_SeeHD.mp4
+#https://openload.co/f/V_owx_hrBak/Solo%3A_A_Star_Wars_Story_%282018%29HDCAM_720p_x264_750MB_AAC_-_NoGroup.Ganool.im.mkv.mp4
+#https://uptobox.com/hx1qx4f40fk6   720
+#https://www.rapidvideo.com/e/FV77NPBWIS   720
+#https://openload.co/embed/bS1R_fS6cG4/SHQSOLOSTRWARSSTORYBD72.Ganol.st.mkv.mp4
+type=video
+name=Solo: A Star Wars Story (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IGbjc5ZC5yxim5W0sFING2kdcz.jpg
+date=2018-09-18
+URL=https://openload.co/f/gt8XjnsMuRM/Solo%3A_A_Star_Wars_Story_%282018%29%E0%B8%AE%E0%B8%B2%E0%B8%99_%E0%B9%82%E0%B8%8B%E0%B9%82%E0%B8%A5%3A_%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA.mp4
+#https://streamango.com/f/pkrtqtckdekrmeno/Solo_A_Star_Wars_Story_2018_
+
+
+type=video
+name=The 8-Year Engagement (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8U2bPJMeNYKvQ9RkttiZJ5Jl5D1.jpg
+date=2018-09-07
+URL=https://openload.co/f/1URVAby99DA/The.8-Year.Engagement.2017.JAPANESE.1080p.BluRay.H264.AAC-VXT.mp4
+type=video
+name=The 8-Year Engagement (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8U2bPJMeNYKvQ9RkttiZJ5Jl5D1.jpg
+date=2018-09-18
+URL=https://openload.co/f/tGw6ahHj-34/The_8-Year_Engagement_%282017%29%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81_8_%E0%B8%9B%E0%B8%B5.mp4
+
+
 type=video
 name=Adrift (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gLDeADaETvwQlQow5szlyuhLbj.jpg
@@ -9474,6 +9572,9 @@ URL=https://openload.co/f/VvdxB_14HDs/Dear_Dictator_%282017%29_%5B1080p%5D_BluRa
 #https://openload.co/f/EjIk-8oGs_g/Dear.Dictator.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/_fjOJlAT6Vw/Dear_Dictator_2018.BDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/A-lfM19zupk/Dear.Dictator.2018.720p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://uptobox.com/lnh0x0kc6kj2   720
+#https://www.rapidvideo.com/e/FVDVZPGECU   720
+#https://openload.co/embed/tKl46P3nhWg/DEARDICTATORBD72.Ganol.st.mkv.mp4
 type=video
 name=Dear Dictator (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5S2tktUi9AMfaH8YihmbnDUSjiU.jpg
@@ -10469,8 +10570,9 @@ URL=https://www.blazefile.co/embed-1dw3nuopr347.html
 type=video
 name=Monster Hunt 2 (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ7jDMKU1EyTXDsbwk3ouLxeOfP.jpg
-date=2018-06-26
-URL=https://openload.co/f/Ag2STuTXGOg/Monster_Hunt_2_%282018%29%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AE%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C_2.mp4
+date=2018-09-18
+URL=https://openload.co/f/7synP9qobF0/Monster_Hunt_2_%282018%29%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%AE%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C_2.mp4
+#https://openload.co/f/Ag2STuTXGOg/Monster_Hunt_2_%282018%29%E0%B8%A1%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AE%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C_2.mp4
 #https://streamango.com/f/bfetceqmnompadfa/Monster_Hunt_2_2018_2_V_2_mp4
 #https://streamango.com/f/kmeqqlkbfqosafts/Monster_Hunt_2_2018_2_
 
@@ -10580,7 +10682,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-16
+date=2018-09-18
 URL=
 
 
@@ -10591,9 +10693,17 @@ URL=
 
 
 
+type=video
+name=Premium Rush (2012) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/khfyc8Yeub0JvD9kk29vqYsPsIi.jpg
+date=2018-09-18
+URL=https://openload.co/f/2Z1-X9PdfLQ/Premium.Rush.2012.1080p.BR_SeeHD.mp4
 
-
-
+type=video
+name=The Lone Ranger (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4vil5ueYJNBNypHmo1tpuevh4z.jpg
+date=2018-09-18
+URL=https://openload.co/f/FqeN2qmakFs/The.Lone.Ranger.2013.1080p.BR_SeeHD.mp4
 
 type=video
 name=The Last Lions (2011) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]

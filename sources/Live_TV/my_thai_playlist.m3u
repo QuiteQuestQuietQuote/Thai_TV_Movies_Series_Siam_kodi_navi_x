@@ -2651,10 +2651,23 @@ http://89.212.214.162:7781/udp/239.18.1.235:5000
 http://89.212.51.85:8443/udp/239.18.1.181:5000
 #EXTINF:-1,Vividred
 http://89.212.51.85:8443/udp/239.10.14.241:5000
+#EXTINF:-1,Super
+http://89.212.214.162:7781/udp/239.18.1.242:5000
+#EXTINF:-1,kor.15+
+http://122.38.74.172:9981/stream/channelid/339312133
+#EXTINF:-1,kor.19+
+http://122.38.74.172:9981/stream/channelid/339312133
+#EXTINF:-1,2001LIVE_MS
+https://5964ed3e60741.streamlock.net/2001edge/2001MS_RTSP.stream/.m3u8
+#EXTINF:-1,2001LIVE_DR
+https://5964ed3e60741.streamlock.net/2001edge/2001DR_RTSP.stream/.m3u8
 
-
-
-
+#EXTINF:-1,Ibiza TV3_1919HDTV.com
+https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8
+#EXTINF:-1,Ibiza TV2_1919HDTV.com
+https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream2/playlist.m3u8
+#EXTINF:-1,Ibiza TV1_1919HDTV.com
+https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream1/playlist.m3u8
 
 
 #EXTINF:-1,Playboy _onlybest
