@@ -6397,26 +6397,7 @@ date=2018-08-15
 URL=https://streamango.com/f/dcrafonlelcdrtlo/The_Spy_Who_Dumped_Me_2018_
 
 
-type=video
-name=The Meg (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
-date=2018-09-16
-URL=https://openload.co/f/F1gEbsctjSc/The.Meg.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/xVYurn_r6oA/The.Meg.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv   MKV3.7GB
-#https://openload.co/f/PMUQfER5ZIw/The.Meg.2018.720p.HC.HDRip.AC3.X264-CMRG.mkv.mp4
-#https://openload.co/f/MIDmprqPvUM/The.Meg.2018.720p.HC.HDRip.AC3.X264-CMRG.mkv   MKV2.1GB
-#https://openload.co/f/j4183vstFoA/The.Meg.2018.NEW.HDTC.XviD.B4ND1T69_SeeHD.avi.mp4
-#https://openload.co/f/jQPi1mZbb0M/The.Meg.2018.CAM.SUBBED.V2.READNFO.XViD-T3RR0RSQU4D.avi.mp4
-#https://openload.co/f/P4Fkr3ffImw/The.Meg.2018.CAM.SUBBED.V2READNFO.XViD.avi.mp4
-#https://openload.co/f/MUFIWuInpKQ/The_Meg_2018_New_1080p_HDTC_SeeHD.mkv.mp4
-#https://openload.co/f/2r45hsli8SE/The%2CMeg.2018.TC720P.X264.AAC.English.CHS_SeeHD.mp4
-#https://openload.co/f/YTAbhQ2056c/The_Meg_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/PVqdnXY_6PU/The_Meg_2018_720p_HDCAM-SeeHD.one.mp4
-type=video
-name=The Meg (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
-date=2018-08-15
-URL=https://streamango.com/f/rclrdecrqftelefb/The_Meg_2018_
+
 
 
 type=video
@@ -6458,27 +6439,7 @@ date=2018-07-31
 URL=https://streamango.com/f/kkafqdmfscfdklql/Animal_World_2018_
 
 
-type=video
-name=Mission: Impossible - Fallout (2018) ENG 720p.HC.HDRip.X264.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
-date=2018-09-15
-URL=https://openload.co/f/8nGOGqeSUlU/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/3N5oYfnL714/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/68luywf77mA/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO.mp4
-#https://openload.co/f/EB0p8ZIdj80/Mission.Impossible.Fallout.2018.HC.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/JxI4Yaki6EM/Mission_Impossible_Fallout_2018_NEW_V.3.720p_HDCAM_X264_AC3-UN1QUE_SeeHD.mkv.mp4
-#https://openload.co/f/f4yWmbzdT9M/Mission_Impossible_Fallout_2018_NEW_V.3_720p_HDCAM_X264_AC3-UN1QUE_SeeHD.mkv.mp4
-#https://openload.co/f/7D3PDogUtrM/Mission_Impossible_Fallout_2018_NEW_720p_HDCAM-24HD.mkv.mp4
-#https://openload.co/f/mRAxBM1R1VE/Mission_Impossible_Fallout.2018.CAM.XViD-T3RR0RSQU4D.avi.mp4
-#https://openload.co/f/lbnxpJ8IU7A/Mission.Impossible.Fallout.2018.720p.HDCAM.V2.1XBET_SeeHD.mp4
-#https://openload.co/f/jRzDGi0XWFg/Mission.Impossible.Fallout.2018.New.FULL.HDCAM-X264-AC3-Bobi.mkv.mp4
-#https://openload.co/f/1_OWrlgCXdI/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3-1XB3T_SeeHD.mp4
-#https://openload.co/f/r2MGpc703mg/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3.E.mp4
-type=video
-name=Mission: Impossible - Fallout (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
-date=2018-07-31
-URL=https://streamango.com/f/qnnbpkkrntfpplkn/Mission_Impossible_-_Fallout_2018_
+
 
 
 
@@ -8667,7 +8628,51 @@ URL=
 
 
 
+type=video
+name=The Meg (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
+date=2018-09-16
+URL=https://openload.co/f/F1gEbsctjSc/The.Meg.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/xVYurn_r6oA/The.Meg.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv   MKV3.7GB
+#https://openload.co/f/PMUQfER5ZIw/The.Meg.2018.720p.HC.HDRip.AC3.X264-CMRG.mkv.mp4
+#https://openload.co/f/MIDmprqPvUM/The.Meg.2018.720p.HC.HDRip.AC3.X264-CMRG.mkv   MKV2.1GB
+#https://openload.co/f/j4183vstFoA/The.Meg.2018.NEW.HDTC.XviD.B4ND1T69_SeeHD.avi.mp4
+#https://openload.co/f/jQPi1mZbb0M/The.Meg.2018.CAM.SUBBED.V2.READNFO.XViD-T3RR0RSQU4D.avi.mp4
+#https://openload.co/f/P4Fkr3ffImw/The.Meg.2018.CAM.SUBBED.V2READNFO.XViD.avi.mp4
+#https://openload.co/f/MUFIWuInpKQ/The_Meg_2018_New_1080p_HDTC_SeeHD.mkv.mp4
+#https://openload.co/f/2r45hsli8SE/The%2CMeg.2018.TC720P.X264.AAC.English.CHS_SeeHD.mp4
+#https://openload.co/f/YTAbhQ2056c/The_Meg_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/PVqdnXY_6PU/The_Meg_2018_720p_HDCAM-SeeHD.one.mp4
+type=video
+name=The Meg (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
+date=2018-09-19
+URL=https://openload.co/f/ejKxGoHCFxE/The_Meg_%282018%29%E0%B9%80%E0%B8%A1%E0%B9%87%E0%B8%81_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9B%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/rclrdecrqftelefb/The_Meg_2018_
 
+
+type=video
+name=Mission: Impossible - Fallout (2018) ENG 720p.HC.HDRip.X264.AC3-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
+date=2018-09-15
+URL=https://openload.co/f/8nGOGqeSUlU/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/3N5oYfnL714/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/68luywf77mA/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO.mp4
+#https://openload.co/f/EB0p8ZIdj80/Mission.Impossible.Fallout.2018.HC.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/JxI4Yaki6EM/Mission_Impossible_Fallout_2018_NEW_V.3.720p_HDCAM_X264_AC3-UN1QUE_SeeHD.mkv.mp4
+#https://openload.co/f/f4yWmbzdT9M/Mission_Impossible_Fallout_2018_NEW_V.3_720p_HDCAM_X264_AC3-UN1QUE_SeeHD.mkv.mp4
+#https://openload.co/f/7D3PDogUtrM/Mission_Impossible_Fallout_2018_NEW_720p_HDCAM-24HD.mkv.mp4
+#https://openload.co/f/mRAxBM1R1VE/Mission_Impossible_Fallout.2018.CAM.XViD-T3RR0RSQU4D.avi.mp4
+#https://openload.co/f/lbnxpJ8IU7A/Mission.Impossible.Fallout.2018.720p.HDCAM.V2.1XBET_SeeHD.mp4
+#https://openload.co/f/jRzDGi0XWFg/Mission.Impossible.Fallout.2018.New.FULL.HDCAM-X264-AC3-Bobi.mkv.mp4
+#https://openload.co/f/1_OWrlgCXdI/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3-1XB3T_SeeHD.mp4
+#https://openload.co/f/r2MGpc703mg/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3.E.mp4
+type=video
+name=Mission: Impossible - Fallout (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
+date=2018-09-19
+URL=https://openload.co/f/iHBpgLrC2WQ/Mission%3A_Impossible_-_Fallout_%282018%29%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%3A%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5_%E0%B8%9F%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/qnnbpkkrntfpplkn/Mission_Impossible_-_Fallout_2018_
 
 
 type=video
@@ -9301,7 +9306,7 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=
 thumb=
-date=2018-09-09
+date=2018-09-19
 URL=
 
 
@@ -9310,6 +9315,51 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#41---2018-09-19
+
+type=video
+name=Stretch Armstrong: The Breakout (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTNiLlOui6rlF2Gtsujywn1Ec1A.jpg
+date=2018-09-19
+URL=https://openload.co/f/sekAfbSJf9U/Stretch_Armstrong%3A_The_Breakout_%282018%29%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B8%8A_%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B8%87%3A_%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B9%81%E0%B8%95%E0%B8%81.mp4
 
 
 type=video
@@ -9433,6 +9483,9 @@ URL=https://openload.co/f/cyx43nQxx7w/Adrift_%282018%29%E0%B8%A3%E0%B8%B1%E0%B8%
 #https://openload.co/f/yC6HmuE3IRU/Adrift_%282018%29%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%AE%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
+
+
+
 type=video
 name=Jungle (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg
@@ -9506,6 +9559,9 @@ name=Marauders (2016) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iOYH67ZPflBMDMMkEv2tKRX4xe.jpg
 date=2018-09-07
 URL=https://openload.co/f/fgmindac0aQ/Marauders_%282016%29Marauders_%282016%29.mp4
+
+
+
 
 
 type=video
@@ -9601,6 +9657,9 @@ date=2018-09-01
 URL=https://openload.co/f/Ld3UBwfpaTw/The_Florida_Project_%282017%29%E0%B9%81%E0%B8%94%E0%B8%99%28%E0%B9%84%E0%B8%A1%E0%B9%88%29%E0%B9%80%E0%B8%99%E0%B8%A3%E0%B8%A1%E0%B8%B4%E0%B8%95.mp4
 
 
+
+
+
 type=video
 name=Wonderstruck (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjDAt9K3FKU1itABgIXl6YvLsVE.jpg
@@ -9691,6 +9750,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKhrjxmbdCjdxROc7lJhmfZ9tr
 date=2018-08-28
 URL=https://openload.co/f/j0jExUXQK0Q/Please_Stand_By_%282017%29%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%84%E0%B8%87%21_%E0%B8%A1%E0%B8%B5%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%99%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B9%89%E0%B8%A2.mp4
 #https://openload.co/f/jqJR4h4iPXA/Please_Stand_By_%282017%29Please_Stand_By_%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%84%E0%B8%87_%E0%B8%A1%E0%B8%B5%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%99%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B9%89%E0%B8%A2.mp4
+
+
+
 
 
 type=video
@@ -9805,6 +9867,9 @@ URL=https://openload.co/f/kzHvH15X_kM/I_Kill_Giants_%282018%29%E0%B8%AA%E0%B8%B2
 #https://streamango.com/f/bfecefcenoftedlo/I_Kill_Giants_2018_
 
 
+
+
+
 type=video
 name=6 Days (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRbC0uRj1RDmF0JLon83il2dkR0.jpg
@@ -9888,6 +9953,9 @@ name=Backstabbing for Beginners (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvUX96OVgTsfgXF3xKgDdDQbGau.jpg
 date=2018-08-15
 URL=https://openload.co/f/W_srIkhDQBo/Backstabbing_for_Beginners_%282018%29%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%A3%E0%B8%A2%E0%B8%A8.mp4
+
+
+
 
 
 type=video
@@ -9990,6 +10058,9 @@ URL=https://openload.co/f/ecwU13OBafM/Beirut_%282018%29%E0%B9%80%E0%B8%9A%E0%B8%
 #https://openload.co/f/K5P-_meiV6k/Beirut_%282018%29%E0%B9%80%E0%B8%9A%E0%B8%A3%E0%B8%B8%E0%B8%95%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%95%E0%B8%81.mp4
 
 
+
+
+
 type=video
 name=My Blind Brother (2016) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMlgKXJr7Y2UI2E3Nt3AEunchFH.jpg
@@ -10075,6 +10146,9 @@ name=Everybody Wants Some!! (2016) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIpd0rGxruvxCnMSmh4gd8wuhmv.jpg
 date=2018-07-28
 URL=https://openload.co/f/xTUaExSSPAo/Everybody_Wants_Some%21%21_%282016%29%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%84%E0%B8%AB%E0%B8%A1_%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%B1%E0%B8%81%E0%B8%84%E0%B8%99.mp4
+
+
+
 
 
 type=video
@@ -10682,7 +10756,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-18
+date=2018-09-19
 URL=
 
 
@@ -10691,7 +10765,11 @@ URL=
 
 
 
-
+type=video
+name=The Possession (2012) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QjzFuaZmB4btGnLwAgdp23BzIU.jpg
+date=2018-09-19
+URL=https://openload.co/f/DF6Q5lwpcJY/The.Possession.2012.UNCUT.1080p.BR_SeeHD.mp4
 
 type=video
 name=Premium Rush (2012) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]

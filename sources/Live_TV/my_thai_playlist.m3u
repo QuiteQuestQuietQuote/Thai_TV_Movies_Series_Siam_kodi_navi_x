@@ -2624,6 +2624,10 @@ http://85.132.71.6/ru/pink/index.m3u8
 #EXTINF:-1,DUSK
 http://195.230.115.18:65080/play/a8101
 
+#EXTINF:-1,xxx_345
+http://109.224.64.146/master_345.m3u8
+#EXTINF:-1,xxx_344
+http://109.224.64.146/master_344.m3u8
 
 
 #EXTINF:-1,lovestreamhot_rtmp
@@ -2639,24 +2643,20 @@ rtmp://172.104.126.152/lovestreamhappy
 #EXTINF:-1,lovestream_rtmp
 rtmp://5-direct555-axd-10-xx.hnwzzy.com:1935/live/999888
 
-#EXTINF:-1, PLAYBOY TV (RU|ENG|18+)
-http://37.9.0.196:9000/play/a044
+
 #EXTINF:-1, WAAYH
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/922/index.m3u8
 #EXTINF:-1,PenthouseHD
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
 #EXTINF:-1,Playhouse
 http://89.212.214.162:7781/udp/239.18.1.235:5000
-#EXTINF:-1,XXX
+#EXTINF:-1,XXL
 http://89.212.51.85:8443/udp/239.18.1.181:5000
 #EXTINF:-1,Vividred
 http://89.212.51.85:8443/udp/239.10.14.241:5000
 #EXTINF:-1,Super
 http://89.212.214.162:7781/udp/239.18.1.242:5000
-#EXTINF:-1,kor.15+
-http://122.38.74.172:9981/stream/channelid/339312133
-#EXTINF:-1,kor.19+
-http://122.38.74.172:9981/stream/channelid/339312133
+
 #EXTINF:-1,2001LIVE_MS
 https://5964ed3e60741.streamlock.net/2001edge/2001MS_RTSP.stream/.m3u8
 #EXTINF:-1,2001LIVE_DR
@@ -3253,6 +3253,8 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$DiscoveryScience/6.m3u8/Level(167772
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/12.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
 https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
+#EXTINF:-1,PSI_Saradee_rtmp
+rtmp://symc-cdn04.bkk02.violin.co.th:1935/liveedge
 #EXTINF:-1,cnex
 http://61.58.60.230:9000/live/257.m3u8
 #EXTINF:-1,opensky_CHN
