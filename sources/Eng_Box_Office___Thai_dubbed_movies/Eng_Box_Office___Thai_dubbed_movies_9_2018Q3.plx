@@ -76,7 +76,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-16
+date=2018-09-20
 URL=
 
 
@@ -84,6 +84,16 @@ URL=
 
 
 
+
+
+type=video
+name=The House with a Clock in Its Walls (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
+date=2018-09-20
+URL=https://openload.co/f/5VmvSCnLG3U/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/U1vqLDgenNU/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET.mp4-536p.mp4
+#https://openload.co/f/WJCwV2VC7Y8/The_House_with_a_Clock_in_Its_Walls_2018_HDCAM_NO_WATERMARK_Layar.mp4
+#https://openload.co/f/qsPshoGW8PY/The.House.with.a.Clock.in.its.Walls.2018.HDCAM.XviD-AVID.avi.mp4
 
 type=video
 name=Johnny English Strikes Again (2018) ENG New_Src_HDCAM_SeeHD
@@ -259,13 +269,7 @@ URL=https://openload.co/f/Lt5SYC2lJGo/How_It_Ends.2018.1080p.NF.WEB-DL.DD5.1.H.2
 
 
 
-type=video
-name=Mary Shelley (2018) ENG limited.dvdrip.x264-cadaver
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnHutc9eDDrVXvlmYFohEougTHq.jpg
-date=2018-09-06
-URL=https://openload.co/f/w4aabk_7RiA/mary.shelley.2017.limited.dvdrip.x264-cadaver.mkv.mp4
-#https://openload.co/f/d1B8SasklXA/Mary_Shelley.2017.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/I9U2WBTtxjI/Mary_Shelley_2017_720p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+
 
 
 
@@ -1320,14 +1324,49 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-18
+date=2018-09-20
 URL=
 
 
 
 
 
+type=video
+name=Detective Chinatown 2 (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JBftHNBnLHgqwHLiojuVSsRNpS.jpg
+date=2018-09-20
+URL=https://uptobox.com/3i5xdroehca1
+#https://www.rapidvideo.com/e/FVDVQ1JVK0
+#https://openload.co/embed/65xyyWUbpXk/Detective.Chinatown.2.2018.BluRay.1080p.5.1CH.x264.Ganol.st.mkv.mp4
+#https://openload.co/f/nFaWgsbzBWM/Detective.Chinatown.2.2018.1080p_BluRay_DD_5.1_x264-WiKi.Ganool.mkv.mp4
+#https://uptobox.com/gli6q9c3a5kc   720
+#https://www.rapidvideo.com/e/FVD3CU19UP   720
+#https://openload.co/embed/DjfDOtTjRqU/Detective.Chinatown.2.2018.BluRay.720p.900MB.Ganol.st.mkv
+#https://openload.co/f/INi8ZdcgMGE/Detective.Chinatown.2.2018.BluRay.720p.900MB.Ganool.mkv.mp4
+#https://openload.co/f/rR-pUx2DVMA/Detective_Chinatown_2_2018_ENGSUB_BluRay_720p_x264.mp4
+#https://openload.co/f/h2cqEPzYsco/Detective.Chinatown.Vol_2.2018.720p.WEB-DL.850MB.Ganool.im.mkv.mp4
+#https://openload.co/f/s0IGNSki-Yc/Detective.Chinatown.Vol_2.2018.WEB-DL.1080P.H264.AAC.mp4
 
+type=video
+name=Spitfire: The Plane That Saved the World (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUVBuF3TNO77GxZQZMq2l99jCwd.jpg
+date=2018-09-20
+URL=https://openload.co/f/-c5uRY0ozZk/Spitfire.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/A38gmjAoj_U/Spitfire.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=Mary Shelley (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnHutc9eDDrVXvlmYFohEougTHq.jpg
+date=2018-09-20
+URL=https://openload.co/f/VbiCQrLxnvg/Mary.Shelley.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/fzTJ2SRLJm0/Mary_Shelley_%282017%29720p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://openload.co/f/OAlB4LqzlU4/Mary.Shelley.2017.720p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/w4aabk_7RiA/mary.shelley.2017.limited.dvdrip.x264-cadaver.mkv.mp4
+#https://openload.co/f/d1B8SasklXA/Mary_Shelley.2017.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/I9U2WBTtxjI/Mary_Shelley_2017_720p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+#https://uptobox.com/wz9jrnwi97bp   720
+#https://www.rapidvideo.com/e/FVGJLJQLG2   720
+#https://openload.co/embed/n4-DJCVL0r4/MARRYSHELLEYBD72.Ganol.st.mkv.mp4
 
 type=video
 name=Evil and The Mask (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
@@ -1349,7 +1388,11 @@ date=2018-09-18
 URL=https://openload.co/f/zQJLDjBNuzA/Fahrenheit.451.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/PhJdHIglkyo/Fahrenheit.451.2018.1080p.BR.mp4
 #https://openload.co/f/JtgvwBXwTuQ/Fahrenheit.451.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/MVBl4_HYWwM/Fahrenheit_451_%282018%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
 #https://openload.co/f/xR12nCCa3aI/Fahrenheit.451.2018.720p.WEB-DL.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://uptobox.com/fqkebgz7dk6x   720
+#https://www.rapidvideo.com/e/FVGK5TB8YI   720
+#https://openload.co/embed/FystWi38Viw/FAHRENHETBD72.Ganol.st.mkv.mp4
 
 type=video
 name=Baja (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1368,6 +1411,10 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nkfTsQrlyVh6r2Jik5hl86OLh
 date=2018-09-16
 URL=https://openload.co/f/YRIIl2GoVT0/The.Guardians.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/cMrAzG1dq_I/The.Guardians.2017.720p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/PX9NsWqC8Rg/The_Guardians_%282017%29720p_BluRay_x264-DEPTH.Ganool.mkv.mp4
+#https://uptobox.com/3ab1yd5vr9um   720
+#https://www.rapidvideo.com/e/FVG9ETG3DV   720
+#https://openload.co/embed/a6Igqr8Oz58/THEGUARDIANSBD72.Ganol.st.mkv.mp4
 
 type=video
 name=Growing Up (2018) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
@@ -5903,11 +5950,12 @@ URL=https://uptobox.com/v55rczx0ivf6
 #https://www.rapidvideo.com/e/FU2PYXMQB5
 
 type=video
-name=The Leakers (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+name=The Leakers (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UCdpI5wU2bMtcx5Z2c4HmQNiP.jpg
-date=2018-08-09
-URL=https://uptobox.com/hz4v2q11puha
-#https://www.rapidvideo.com/e/FU2QAMDI28
+date=2018-09-20
+URL=https://openload.co/f/SVSMC7QpsD0/The.Leakers.2018.CHINESE.1080p.BR_SeeHD.mp4
+#https://uptobox.com/hz4v2q11puha   720
+#https://www.rapidvideo.com/e/FU2QAMDI28   720
 #https://openload.co/f/_5M7zNGfozk/The.Leakers.2018.BluRay.720p.800MB.Ganool.mkv.mp4
 #https://openload.co/embed/UeyMicBdqOc/The.Leakers.2018.BluRay.720p.800MB.Ganol.ru.mkv.mp4
 
@@ -6124,18 +6172,13 @@ URL=https://uptobox.com/zfqi7n6dpraw
 
 
 
+
+
 type=video
-name=Detective Chinatown 2 (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JBftHNBnLHgqwHLiojuVSsRNpS.jpg
-date=2018-09-17
-URL=https://uptobox.com/gli6q9c3a5kc
-#https://www.rapidvideo.com/e/FVD3CU19UP
-#https://openload.co/embed/DjfDOtTjRqU/Detective.Chinatown.2.2018.BluRay.720p.900MB.Ganol.st.mkv
-#https://openload.co/f/INi8ZdcgMGE/Detective.Chinatown.2.2018.BluRay.720p.900MB.Ganool.mkv.mp4
-#https://openload.co/f/h2cqEPzYsco/Detective.Chinatown.Vol_2.2018.720p.WEB-DL.850MB.Ganool.im.mkv.mp4
-#https://openload.co/f/s0IGNSki-Yc/Detective.Chinatown.Vol_2.2018.WEB-DL.1080P.H264.AAC.mp4
-
-
+name=October (2018) [COLOR=FF00FF00]HIN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHUBPUwXkHinq2rIXnnCHsPylD1.jpg
+date=2018-09-20
+URL=https://openload.co/f/cDuX0n-TSIc/October.2018.ENGSUB.BluRay.720p.x264-CHD.mp4
 
 
 
@@ -6149,7 +6192,7 @@ URL=https://uptobox.com/gli6q9c3a5kc
 type=video
 name=
 thumb=
-date=2018-09-17
+date=2018-09-20
 URL=
 
 type=video
@@ -6713,8 +6756,9 @@ URL=https://openload.co/f/cYZlKc7ru90/The_After_Party_%282018%29%E0%B8%AD%E0%B8%
 type=video
 name=Occupation (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr7MFQAmP30IJZP2FXKhPKbe8IW.jpg
-date=2018-09-13
-URL=https://openload.co/f/xM2tVd0BWFI/Occupation.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+date=2018-09-20
+URL=https://openload.co/f/Urx-Nl84nos/Occupation.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/xM2tVd0BWFI/Occupation.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/i0YN9ybpYUE/Occupation.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://uptobox.com/f0p45p6mrv6i   720
 #https://www.rapidvideo.com/e/FVCNBW27YL   720
@@ -8774,11 +8818,7 @@ date=2018-07-02
 URL=https://streamango.com/f/spferccqadbrqlfk/Beyond_the_Edge_2018_
 
 
-type=video
-name=Be With You (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEeH8ce2YeZHFng3AddqsQ2niLf.jpg
-date=2018-06-26
-URL=https://streamango.com/f/tekbdbtslobrkpkn/Be_With_You_2018_
+
 
 
 type=video
@@ -8908,21 +8948,7 @@ date=2018-04-22
 URL=https://streamango.com/f/ertnpmrmnncfrblp/Fireworks_Should_We_See_It_from_the_Side_or_the_Bottom_2017_
 
 
-type=video
-name=A Better Tomorrow (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiGt7crOueCfgqGlay4ZryRBRQF.jpg
-date=2018-04-03
-URL=https://www.blazefile.co/embed-pjefipst454c.html
-#https://uptobox.com/zub780k63629
-#https://openload.co/f/oz61UauiMro/A.Better.Tomorrow.2018.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
-#https://openload.co/f/9o7K2RG6HLs/a.better.tomorrow.2018.720p.bluray.x264-regret.mkv.mp4
-#https://uptobox.com/k003zv3yqd4h   1080
-#https://openload.co/embed/mfw0HH1lD5I/ABETTERTOMORROW80.Ganol.ru.mkv
-type=video
-name=A Better Tomorrow (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiGt7crOueCfgqGlay4ZryRBRQF.jpg
-date=2018-04-22
-URL=https://streamango.com/f/nrpbpscqtnlldsfn/A_Better_Tomorrow_2018_
+
 
 
 
@@ -9306,7 +9332,7 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=
 thumb=
-date=2018-09-19
+date=2018-09-20
 URL=
 
 
@@ -9317,17 +9343,49 @@ URL=
 
 
 
+type=video
+name=Batman: Assault on Arkham (2014) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYOoqnGuiUUNE4gccO0JJigfACP.jpg
+date=2018-09-20
+URL=https://openload.co/f/P3_etkEMmF8/Batman%3A_Assault_on_Arkham_%282014%29%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%84%E0%B9%81%E0%B8%84%E0%B8%A1.mp4
+
+type=video
+name=Be With You (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEeH8ce2YeZHFng3AddqsQ2niLf.jpg
+date=2018-09-20
+URL=https://openload.co/f/w2IIwvjoiWE/Be_With_You_%282018%29%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C_%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81_%E0%B8%A4%E0%B8%94%E0%B8%B9%E0%B8%9D%E0%B8%99.mp4
+#https://streamango.com/f/tekbdbtslobrkpkn/Be_With_You_2018_
 
 
+type=video
+name=A Better Tomorrow (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiGt7crOueCfgqGlay4ZryRBRQF.jpg
+date=2018-04-03
+URL=https://www.blazefile.co/embed-pjefipst454c.html
+#https://uptobox.com/zub780k63629
+#https://openload.co/f/oz61UauiMro/A.Better.Tomorrow.2018.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
+#https://openload.co/f/9o7K2RG6HLs/a.better.tomorrow.2018.720p.bluray.x264-regret.mkv.mp4
+#https://uptobox.com/k003zv3yqd4h   1080
+#https://openload.co/embed/mfw0HH1lD5I/ABETTERTOMORROW80.Ganol.ru.mkv
+type=video
+name=A Better Tomorrow (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiGt7crOueCfgqGlay4ZryRBRQF.jpg
+date=2018-09-20
+URL=https://openload.co/f/P4ZYZLPU3Us/A_Better_Tomorrow_%282018%29%E0%B9%82%E0%B8%AB%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%A7%E0%B8%94%E0%B8%B5.mp4
+#https://streamango.com/f/nrpbpscqtnlldsfn/A_Better_Tomorrow_2018_
 
 
+type=video
+name=Wheeler (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v33vDxkRPFFyg1f3znSHAo6NWod.jpg
+date=2018-09-20
+URL=https://openload.co/f/RqxpCWLLysY/Wheeler_%282017%29%E0%B8%84%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%9D%E0%B8%B1%E0%B8%99.mp4
 
-
-
-
-
-
-
+type=video
+name=Kids on the Slope (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/erux0IGClraMJmoyyrwn8BsMA0k.jpg
+date=2018-09-20
+URL=https://openload.co/f/D6zWw_kFuN8/Kids_on_the_Slope_%282018%29%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%81_%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%A3%E0%B8%81_%E0%B8%88%E0%B8%B9%E0%B8%9A%E0%B9%81%E0%B8%A3%E0%B8%81.mp4
 
 
 
@@ -9904,7 +9962,7 @@ URL=https://openload.co/f/5AlbpT43Pu0/Super_Troopers_2_%282018%29%E0%B8%8B%E0%B8
 
 
 type=video
-name=Taxi 5 (2018)  [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+name=Taxi 5 (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg
 date=2018-08-07
 URL=https://openload.co/f/cKlPCxzGa5A/taxi.5.2018.french.1080p.bluray.x264-HDMovie8.mkv.mp4

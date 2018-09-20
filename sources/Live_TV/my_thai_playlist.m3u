@@ -2624,7 +2624,7 @@ http://85.132.71.6/ru/pink/index.m3u8
 #EXTINF:-1,DUSK
 http://195.230.115.18:65080/play/a8101
 
-#EXTINF:-1,xxx_345
+#EXTINF:-1,xxx_345_EROX
 http://109.224.64.146/master_345.m3u8
 #EXTINF:-1,xxx_344
 http://109.224.64.146/master_344.m3u8
@@ -2654,8 +2654,12 @@ http://89.212.214.162:7781/udp/239.18.1.235:5000
 http://89.212.51.85:8443/udp/239.18.1.181:5000
 #EXTINF:-1,Vividred
 http://89.212.51.85:8443/udp/239.10.14.241:5000
+#EXTINF:-1,Vividred
+http://93.103.146.62:83/udp/239.18.2.246:5000
 #EXTINF:-1,Super
 http://89.212.214.162:7781/udp/239.18.1.242:5000
+#EXTINF:-1,Super
+http://93.103.146.62:83/udp/239.18.2.242:5000
 
 #EXTINF:-1,2001LIVE_MS
 https://5964ed3e60741.streamlock.net/2001edge/2001MS_RTSP.stream/.m3u8
