@@ -53,6 +53,128 @@ URL=
 
 
 
+type=video
+name=166xxxxxxxxxxxxxxxxxxxxThe imaginary boyfriend of self-defense women (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/The-imaginary-boyfriend-of-self-defense-women-2009.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/bsfoetlqsdqetops/
+
+type=video
+name=Sister’s secret sex (2009) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Sisters-secret-sex-2009.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/dfklbkrfbnoceftd/
+
+type=video
+name=Thrilling sex (2011) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Thrilling-sex-2011.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/betllltdoepempma/
+
+type=video
+name=Adhesive chest shield (2006)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Adhesive-chest-shield-2006.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/pdspdcbofakkklpn/
+
+type=video
+name=Sexy girl in a chat (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Sexy-girl-in-a-chat-2009.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/slfrctmmpsleleqo/
+
+
+type=video
+name=Casanova’s Killing Sex (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Casanovas-Killing-Sex-2010.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/bfmredrqordqlbck/
+
+type=video
+name=Chaghan Yeodongsaeng (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Chaghan-Yeodongsaeng-2018.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/laqfdtsrnkecnfta/
+
+type=video
+name=New dick (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/New-dick-2010.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/faqfrpdmratpsetr/
+
+type=video
+name=My Cousin Sisters (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/My-Cousin-Sisters-2018.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/elmqqlbblmnptspo/
+
+type=video
+name=Breast-Enhancing Salon Treatments (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Breast-Enhancing-Salon-Treatments-2017.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/mpbdlasdppcdqala/
+
+
+type=video
+name=Friends Mom The Day I Had Sex (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Friends-Mom-The-Day-I-Had-Sex-2017-Uncut.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/sradqecomaoktspn/
+
+type=video
+name=Oxtutonoiei (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Oxtutonoiei-2016.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/cmroeskkrtednaqs/
+
+type=video
+name=Sagittarius (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Sagittarius-2010.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/clsrfrplprntccso/
+
+type=video
+name=Disguised instinct (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Disguised-instinct-2009.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/cdbnofftkcneodan/
+
+type=video
+name=Sex is the best I have (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Sex-is-the-best-I-have-2009.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/mqpdskrfotdrtdla/
+
+
+type=video
+name=Sex meeting (2010) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Sex-meeting-2010.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/rlsrsbcqeaebdatf/
+
+type=video
+name=Sex life (2010) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Sex-life-2010.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/ptpbccecmntqtrrq/
+
+type=video
+name=Sex doll (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Sex-doll-2010.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/bkccqmfomecbntan/
+
+type=video
+name=Sex Concept (2010) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Sex-Concept-2010.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/lcrftkfpdnnsncbn/
+
+type=video
+name=Sex experience learning (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Sex-experience-learning-2010.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/oqmfnpfabbrcnbon/
 
 
 
@@ -62,6 +184,42 @@ URL=
 
 
 
+type=video
+name=146xxxxxxxxxxxxxxxxxxxxImagine Sex South (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Imagine-Sex-South-2009.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/tenskacoonmkmdkc/
+
+type=video
+name=Proposal to have sex (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Proposal-to-have-sex-2009.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/mkeqemoqortacskf/
+
+type=video
+name=How to be good at sex (2010)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/How-to-be-good-at-sex-2010.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/nrfqpsamrrblqfpn/
+
+type=video
+name=Adorable Booty Cousin (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Adorable-Booty-Cousin-2017.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/aqpfptdbsntbrero/
+
+type=video
+name=It’s better than candy (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Its-better-than-candy-2009.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/lnelmbocnafstotm/
+
+
+type=video
+name=Sneak to Fuck with Girlfriend’s Sister (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Sneak-to-Fuck-with-Girlfriends-Sister-2017.jpg
+date=2018-09-21
+URL=https://streamcherry.com/embed/qfacrcbqqfnmrotl/
 
 
 

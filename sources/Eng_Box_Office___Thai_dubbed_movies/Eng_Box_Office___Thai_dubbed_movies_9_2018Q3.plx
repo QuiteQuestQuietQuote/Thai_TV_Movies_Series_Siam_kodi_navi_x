@@ -76,7 +76,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-20
+date=2018-09-21
 URL=
 
 
@@ -84,7 +84,11 @@ URL=
 
 
 
-
+type=video
+name=A Simple Favor (2018) ENG 720p.HDCAM.1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIYsjQM0piKc0ibPBCTWv3sqshj.jpg
+date=2018-09-21
+URL=https://openload.co/f/jPbnk4LGxvg/A.Simple.Favor.2018.720p.HDCAM.1XBET_SeeHD.mp4
 
 type=video
 name=The House with a Clock in Its Walls (2018) ENG 720p_HDCAM-1XBET_SeeHD
@@ -160,14 +164,7 @@ URL=https://openload.co/f/ah3SoVM7hjM/Crazy_Rich_Asians_2018_NEW_720p_TS-1XBET_S
 
 
 
-type=video
-name=Alpha (2018) ENG NEW_720p_HDCAM_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
-date=2018-09-12
-URL=https://openload.co/f/WmQZlIG_tHk/Alpha_2018_NEW_720p_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/0kwFGuTf9LY/Alpha_2018_NEW_720p_HDCAM_ENG_SUB-24HD_SeeHD.mp4
-#https://openload.co/f/E-KpG1hlEXY/Alpha_2018_NOLOGO_CAM-1XBET.mp4
-#https://openload.co/f/TDsbq--aNhA/Alpha_2018_CAM_x264-1XBET.mp4
+
 
 type=video
 name=Slender Man (2018) ENG 720p_TS-1XBET
@@ -335,11 +332,6 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiqNwe7BNkUJyPLOgPxYZLdcA8
 date=2018-09-18
 URL=https://openload.co/f/BkQiBo75j44/The_Wind_Guardians_%5B2018%5D%5BWEB-4K%5D%5BHEVC%5D%5BCHI%5D%5BDD5.1%5D.mp4
 
-type=video
-name=Along With the Gods: The Last 49 Days (2018) KOR 1080p.FHDRip.H264.AAC-HDMovie8
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg
-date=2018-09-18
-URL=https://openload.co/f/xzTM53Ul5Ds/Along.with.the.Gods_The.Last.49.Days.2017.1080p.FHDRip.H264.AAC-HDMovie8.mp4
 
 
 
@@ -6180,7 +6172,14 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHUBPUwXkHinq2rIXnnCHsPylD
 date=2018-09-20
 URL=https://openload.co/f/cDuX0n-TSIc/October.2018.ENGSUB.BluRay.720p.x264-CHD.mp4
 
-
+type=video
+name=Distorted (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnvBQzWlh0Dd9vWq4l0ZmkrM34F.jpg
+date=2018-09-21
+URL=https://uptobox.com/xf2du8gixfdd
+#https://www.rapidvideo.com/e/FVHMFZZY8X
+#https://openload.co/embed/qduswLHMynY/DISTORTEDBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/3TXgH7E0N9k/Distorted_%282018%29720p_BluRay_x264-PSYCHD.Ganool.mkv.mp4
 
 
 
@@ -6192,7 +6191,7 @@ URL=https://openload.co/f/cDuX0n-TSIc/October.2018.ENGSUB.BluRay.720p.x264-CHD.m
 type=video
 name=
 thumb=
-date=2018-09-20
+date=2018-09-21
 URL=
 
 type=video
@@ -6276,6 +6275,24 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+
+
+
+type=video
+name=Alpha (2018) ENG NEW_720p_HDCAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
+date=2018-09-12
+URL=https://openload.co/f/WmQZlIG_tHk/Alpha_2018_NEW_720p_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/0kwFGuTf9LY/Alpha_2018_NEW_720p_HDCAM_ENG_SUB-24HD_SeeHD.mp4
+#https://openload.co/f/E-KpG1hlEXY/Alpha_2018_NOLOGO_CAM-1XBET.mp4
+#https://openload.co/f/TDsbq--aNhA/Alpha_2018_CAM_x264-1XBET.mp4
+type=video
+name=Alpha (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
+date=2018-09-21
+URL=https://openload.co/f/VGbz3dsmCxQ/Alpha_%282018%29%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_20%2C000_%E0%B8%9B%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -8673,6 +8690,18 @@ URL=
 
 
 type=video
+name=Along With the Gods: The Last 49 Days (2018) KOR 1080p.FHDRip.H264.AAC-HDMovie8
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg
+date=2018-09-18
+URL=https://openload.co/f/xzTM53Ul5Ds/Along.with.the.Gods_The.Last.49.Days.2017.1080p.FHDRip.H264.AAC-HDMovie8.mp4
+type=video
+name=Along With the Gods: The Last 49 Days (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg
+date=2018-09-21
+URL=https://openload.co/f/qv611gUWxpE/Along_With_the_Gods%3A_The_Last_49_Days_%282018%29%E0%B8%9D%E0%B9%88%E0%B8%B2_7_%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
+type=video
 name=The Meg (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
 date=2018-09-16
@@ -8720,10 +8749,18 @@ URL=https://openload.co/f/iHBpgLrC2WQ/Mission%3A_Impossible_-_Fallout_%282018%29
 
 
 type=video
-name=Sicario: Day of the Soldado (2018) ENG 1080p.web.dl.hevc.x265
+name=Sicario: Day of the Soldado (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XDlelZUNWmKgP2bcWL9c9G10eo.jpg
-date=2018-09-12
-URL=https://openload.co/f/SOa2JHii3jQ/sicario.day.of.the.soldado.2018.1080p.web.dl.hevc.x265.mkv.mp4
+date=2018-09-21
+URL=https://uptobox.com/sg85vv7pgcrm
+#https://www.rapidvideo.com/e/FVHFSXDUVO
+#https://openload.co/embed/aa8BmONyI6A/GHPSICARIOSOLDADO80.Ganol.st.mkv.mp4
+#https://openload.co/f/A2U2QNvAkIo/Sicario.Day.Of.The.Soldado.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/AZFTIeI-9pw/Sicario%3A_Day_of_the_Soldado_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+#https://openload.co/f/W8MZNankwxc/Sicario.Day.Of.The.Soldado.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/c8_j0XnJ5nA/sicario.day.of.the.soldado.2018.1080p.bluray.x264-geckos%255BEtHD%255D.mkv.mp4
+#https://openload.co/f/Bsynftc__3c/sicario.day.of.the.soldado.2018.720p.bluray.hevc.x265.mkv.mp4
+#https://openload.co/f/SOa2JHii3jQ/sicario.day.of.the.soldado.2018.1080p.web.dl.hevc.x265.mkv.mp4
 #https://openload.co/f/SwhtSLVkwwE/Sicario.Day.of.the.Soldado.2018.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/zMNZk-zywTw/Sicario.Day.of.the.Soldado.2018.720p.WEB-DL.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/E-LUBe2hNP8/Sicario.Day.of.the.Soldado.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
@@ -10814,14 +10851,18 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-19
+date=2018-09-21
 URL=
 
 
 
 
 
-
+type=video
+name=Solo: A Star Wars Story (2018) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg
+date=2018-09-21
+URL=https://openload.co/f/slt3dszvcOs/Solo.A.Star.Wars.Story.2018.3D.HSBS.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=The Possession (2012) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -11455,6 +11496,7 @@ date=2018-09-09
 URL=https://uptobox.com/id5m1gasylol
 #https://www.rapidvideo.com/e/FV2BWZEEKL
 #https://openload.co/embed/GhTUueS1To8/GHPMAMAMIA80.Ganol.st.mkv.mp4
+#https://openload.co/f/YwdZwnSzWhY/Mamma.Mia.2008.1080p.BR_SeeHD.mp4
 #https://openload.co/f/FTdAfzbArnU/Mamma_Mia%21_%282008%291080p_BluRay_x264_DTS-SWTYBLZ.Ganool.mkv.mp4
 #https://openload.co/f/UFQgVLWJIP0/Mamma.Mia.2008.1080p.BrRip.x264.BOKUTOX.mp4
 
