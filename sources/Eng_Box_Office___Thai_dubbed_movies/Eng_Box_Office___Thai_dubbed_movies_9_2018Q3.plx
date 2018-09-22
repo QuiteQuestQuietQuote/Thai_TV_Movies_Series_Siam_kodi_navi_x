@@ -89,6 +89,8 @@ name=A Simple Favor (2018) ENG 720p.HDCAM.1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIYsjQM0piKc0ibPBCTWv3sqshj.jpg
 date=2018-09-21
 URL=https://openload.co/f/jPbnk4LGxvg/A.Simple.Favor.2018.720p.HDCAM.1XBET_SeeHD.mp4
+#https://openload.co/f/-mBMR4b7itM/A.Simple.Favor.2018.720p.HDCAM.x264-1XBET.mp4
+#https://openload.co/f/Gfi7xy3Yt6A/A.Simple.Favor.2018.NOLOGO.720p.HDCAM.mp4
 
 type=video
 name=The House with a Clock in Its Walls (2018) ENG 720p_HDCAM-1XBET_SeeHD
@@ -226,8 +228,10 @@ URL=https://openload.co/f/bTipjRNrvP8/Christopher_Robin_2018_720p_HDCAM-1xBET_Se
 type=video
 name=Mamma Mia! Here We Go Again (2018) ENG 720p.HDCAM.1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg
-date=2018-07-20
-URL=https://openload.co/f/4rQ-PpCodrE/Mamma.Mia%21.2.2018.720p.HDCAM.1XBET_SeeHD.mp4
+date=2018-09-22
+URL=https://openload.co/f/kMaDKUhPbzw/Mamma.Mia.Here.We.Go.Again.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/tEGouttmdug/Mamma.Mia.Here.We.Go.Again.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/4rQ-PpCodrE/Mamma.Mia%21.2.2018.720p.HDCAM.1XBET_SeeHD.mp4
 #https://openload.co/f/-PY_xqQbWaE/Mamma.Mia%21.2.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 
 
@@ -2350,17 +2354,7 @@ URL=https://openload.co/f/ahGc4j0-Fkw/Terminal.2018.1080p.BR_SeeHD.mp4
 #https://uptobox.com/xb2pnsduf5au   720
 #https://openload.co/embed/aSLMvuWqmZk/SHQTERMINABD72.Ganool.im.mkv
 
-type=video
-name=Spinning Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvIIUOoY2PQRQ6syWchzkfNaXT1.jpg
-date=2018-06-28
-URL=https://www.blazefile.co/embed-rrr7aqz4sm96.html
-#https://uptobox.com/bq2t9ygn6308
-#https://openload.co/embed/LAQeXqwDyGE/GHPSPINNINGMAN80.Ganool.im.mkv
-#https://openload.co/f/veeYC4Cask4/Spinning.Man.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/AovtrwaX_Ck/spinning.man.2018.rerip.1080p.bluray.x264-brmp.mkv.mp4
-#https://openload.co/f/RZLwNuVGqLI/spinning.man.2018.1080p.bluray.x264-brmp.mkv.mp4
-#https://openload.co/f/BACz7uqKXT8/Spinning.Man.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
 
 type=video
 name=Monster Island (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -6181,7 +6175,11 @@ URL=https://uptobox.com/xf2du8gixfdd
 #https://openload.co/embed/qduswLHMynY/DISTORTEDBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/3TXgH7E0N9k/Distorted_%282018%29720p_BluRay_x264-PSYCHD.Ganool.mkv.mp4
 
-
+type=video
+name=Puppet Master: The Littlest Reich (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieacN7bxZWnkJjPdXGF5Lui4RaS.jpg
+date=2018-09-22
+URL=https://openload.co/f/dyd91CiIF6k/Puppet_Master%3A_The_Littlest_Reich_%282018%29720p.bluray_21CNPX.mp4
 
 
 
@@ -6191,7 +6189,7 @@ URL=https://uptobox.com/xf2du8gixfdd
 type=video
 name=
 thumb=
-date=2018-09-21
+date=2018-09-22
 URL=
 
 type=video
@@ -6412,18 +6410,7 @@ date=2018-09-03
 URL=https://openload.co/f/2lCZjxZ3Ww4/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=The First Purge (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2slvblTroiT1lY9bYLK7Amigo1k.jpg
-date=2018-09-18
-URL=https://openload.co/f/8voZV_xy2WQ/The.First.Purge.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/SaBg-K6W5lY/The.First.Purge.2018.1080p.WEB-DL.DD5.1.H264-HDMovie8.mkv.mp4
-#https://openload.co/f/S0UjL9DNnp8/The.First.Purge.2018.720p.HDCAM.1XBET_SeeHD.mp4
-type=video
-name=The First Purge (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2slvblTroiT1lY9bYLK7Amigo1k.jpg
-date=2018-08-20
-URL=https://streamango.com/f/opcbtkktpceskbnr/The_First_Purge_2018_
+
 
 
 type=video
@@ -6668,10 +6655,39 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-09-18
+date=2018-09-22
 URL=
 
 
+
+
+
+
+
+
+type=video
+name=Spinning Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvIIUOoY2PQRQ6syWchzkfNaXT1.jpg
+date=2018-06-28
+URL=https://www.blazefile.co/embed-rrr7aqz4sm96.html
+#https://uptobox.com/bq2t9ygn6308
+#https://openload.co/embed/LAQeXqwDyGE/GHPSPINNINGMAN80.Ganool.im.mkv
+#https://openload.co/f/veeYC4Cask4/Spinning.Man.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/AovtrwaX_Ck/spinning.man.2018.rerip.1080p.bluray.x264-brmp.mkv.mp4
+#https://openload.co/f/RZLwNuVGqLI/spinning.man.2018.1080p.bluray.x264-brmp.mkv.mp4
+#https://openload.co/f/BACz7uqKXT8/Spinning.Man.2018.720p.BluRay.H264.AAC-RARBG.mp4
+type=video
+name=Spinning Man (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvIIUOoY2PQRQ6syWchzkfNaXT1.jpg
+date=2018-09-22
+URL=https://openload.co/f/gmwX0iQtcOI/Spinning_Man_%282018%29%E0%B8%84%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%81_%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%A7%E0%B8%87_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=I Don't Feel at Home in This World Anymore (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1stdUlXBc3nxqhdWvZ6wWWEbCQW.jpg
+date=2018-09-22
+URL=https://openload.co/f/-TJM-uNUoLM/I_Don%27t_Feel_at_Home_in_This_World_Anymore_%282017%29%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%89%E0%B8%B1%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -8687,6 +8703,30 @@ URL=
 
 
 
+
+
+type=video
+name=The First Purge (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2slvblTroiT1lY9bYLK7Amigo1k.jpg
+date=2018-09-22
+URL=https://openload.co/f/39i12XirUWs/The.First.Purge.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/oKkUOEDNDdM/The.First.Purge.2018.1080p.BR_21CNPX.mp4
+#https://openload.co/f/D2mazuOPpfw/the.first.purge.2018.1080p.bluray.x264.6ch-pahe.in_21CNPX.mkv.mp4
+#https://openload.co/f/dVf-xsopkhM/the.first.purge.2018.1080p.bluray.x264.6ch-pahe.in_21CNPX.mkv   MKV1.9GB
+#https://uptobox.com/v6v755hmcdec   720
+#https://www.rapidvideo.com/e/FVIIQGG0UM   720
+#https://openload.co/embed/7S3B_L2dmY0/SHQTHEFIRSTPURGEBDD72.Ganol.st.mkv.mp4
+#https://openload.co/f/gHbTeyLxNRQ/The.First.Purge.2018.720p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/V1hEWGjt1h0/The_First_Purge_%282018%29720p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/8voZV_xy2WQ/The.First.Purge.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/SaBg-K6W5lY/The.First.Purge.2018.1080p.WEB-DL.DD5.1.H264-HDMovie8.mkv.mp4
+#https://openload.co/f/S0UjL9DNnp8/The.First.Purge.2018.720p.HDCAM.1XBET_SeeHD.mp4
+type=video
+name=The First Purge (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2slvblTroiT1lY9bYLK7Amigo1k.jpg
+date=2018-09-22
+URL=https://openload.co/f/8gz6u1Vj2ME/The_First_Purge_%282018%29%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%AD%E0%B8%B3%E0%B8%A1%E0%B8%AB%E0%B8%B4%E0%B8%95_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/opcbtkktpceskbnr/The_First_Purge_2018_
 
 
 type=video

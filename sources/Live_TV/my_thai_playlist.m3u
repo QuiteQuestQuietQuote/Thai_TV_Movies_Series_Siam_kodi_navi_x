@@ -2675,6 +2675,23 @@ https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream2/playlist.m3u8
 #EXTINF:-1,Ibiza TV1_1919HDTV.com
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream1/playlist.m3u8
 
+#EXTINF:-1,KOR_XXX
+http://122.38.74.172:9981/stream/channelid/1463854277
+#EXTINF:-1,VENUS
+http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/63.m3u8
+#EXTINF:-1,Penthouse 1 HD CZ 
+http://79.117.225.96:8000/play/a035 
+#EXTINF:-1,Penthouse 1 HD 
+http://79.117.225.96:8000/play/a034 
+#EXTINF:-1,Penthouse 2 HD CZ 
+http://79.117.225.96:8000/play/a037 
+#EXTINF:-1,Penthouse 2 HD 
+http://79.117.225.96:8000/play/a036 
+#EXTINF:-1,Happy Channel. 
+http://79.117.225.96:16000/play/a04b 
+
+
+
 
 #EXTINF:-1,Playboy _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/142/index.m3u8 
@@ -3241,9 +3258,10 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$Discovery/6.m3u8/Level(1677721)?star
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
 
 
-#EXTINF:-1,Nuart TV_onlybest
-http://playlist.onlybest.tv/ru/channel/a090d5571a614d21233762fa058da2cf/264/index.m3u8 
-
+#EXTINF:-1,Nuart TV_onlybest_4ac
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/264/index.m3u8 
+#EXTINF:-1,Nuart TV_onlybest_73f
+http:// playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/264/index.m3u8 
 
 #EXTINF:-1  tvg-logo="https://miro.medium.com/fit/c/240/240/1*aQfL6JrXMI-kCNNt-1DFsQ.png",Tastemade
 https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index_7.m3u8
