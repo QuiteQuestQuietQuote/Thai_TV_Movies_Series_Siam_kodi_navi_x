@@ -85,10 +85,12 @@ URL=
 
 
 type=video
-name=A Simple Favor (2018) ENG 720p.HDCAM.1XBET_SeeHD
+name=A Simple Favor (2018) ENG NEW_720p_TS-1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIYsjQM0piKc0ibPBCTWv3sqshj.jpg
 date=2018-09-21
-URL=https://openload.co/f/jPbnk4LGxvg/A.Simple.Favor.2018.720p.HDCAM.1XBET_SeeHD.mp4
+URL=https://openload.co/f/xsHGLKOMjkI/A_Simple_Favor_2018_NEW_720p_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/M6sBfNsr2Aw/A.Simple.Favor.2018.NOLOGO.720p.HDCAM.1XBET.mp4
+#https://openload.co/f/jPbnk4LGxvg/A.Simple.Favor.2018.720p.HDCAM.1XBET_SeeHD.mp4
 #https://openload.co/f/-mBMR4b7itM/A.Simple.Favor.2018.720p.HDCAM.x264-1XBET.mp4
 #https://openload.co/f/Gfi7xy3Yt6A/A.Simple.Favor.2018.NOLOGO.720p.HDCAM.mp4
 
@@ -229,7 +231,8 @@ type=video
 name=Mamma Mia! Here We Go Again (2018) ENG 720p.HDCAM.1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg
 date=2018-09-22
-URL=https://openload.co/f/kMaDKUhPbzw/Mamma.Mia.Here.We.Go.Again.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+URL=https://openload.co/f/IW1yONbl8K8/Mamma_Mia_Here_We_Go_Again_2018_1080p_HC_HDRip_X264_AC3-EVO.mkv.mp4
+#https://openload.co/f/kMaDKUhPbzw/Mamma.Mia.Here.We.Go.Again.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/tEGouttmdug/Mamma.Mia.Here.We.Go.Again.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/4rQ-PpCodrE/Mamma.Mia%21.2.2018.720p.HDCAM.1XBET_SeeHD.mp4
 #https://openload.co/f/-PY_xqQbWaE/Mamma.Mia%21.2.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
@@ -240,10 +243,11 @@ URL=https://openload.co/f/kMaDKUhPbzw/Mamma.Mia.Here.We.Go.Again.2018.1080p.HC.H
 
 
 type=video
-name=Billionaire Boys Club (2018) ENG 720pHD_SeeHD
+name=Billionaire Boys Club (2018) ENG 720p.WEB_DL.MkvCage
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwyXIzlHGkdMlpWSierm0MApmsN.jpg
-date=2018-07-17
-URL=https://openload.co/f/zOLm60jIaKk/Billionaire_Boys_Club.2018.720pHD_SeeHD.mkv.mp4
+date=2018-09-24
+URL=https://openload.co/f/AgT4rDazPUo/Billionaire.Boys.Club.2018.720p.WEB_DL.MkvCage.ws.mp4
+#https://openload.co/f/zOLm60jIaKk/Billionaire_Boys_Club.2018.720pHD_SeeHD.mkv.mp4
 
 type=video
 name=How It Ends (2018) ENG 1080p.NF.WEB-DL.DD5.1.H.264-SiGMA_SeeHD
@@ -1288,11 +1292,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m800lQEOeSB8xHCSDVPvllxqdM
 date=2018-01-17
 URL=https://openload.co/f/QZ2N84nNYf0/Aritmiya_AKA_Arrhythmia_2017.EngSub.WEB-DL.mkv.mp4
 
-type=video
-name=Eva (2018) FRE FRENCH.CAM.x264_UNiKORN.E
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wToGTUAJREIFWWa28erOM8gQ7c.jpg
-date=2018-03-08
-URL=https://openload.co/f/QuRiZTbeg8s/Eva.2018.FRENCH.CAM.x264_UNiKORN.E.mp4
+
 
 type=video
 name=The Paradise Suite (2015) DUT hc_eng_subs_seeHD
@@ -1320,12 +1320,46 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-20
+date=2018-09-24
 URL=
 
 
 
 
+type=video
+name=Distorted (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnvBQzWlh0Dd9vWq4l0ZmkrM34F.jpg
+date=2018-09-24
+URL=https://uptobox.com/chutariqydqo
+#https://www.rapidvideo.com/e/FVI6R996HW
+#https://openload.co/embed/1Z5RZT-P4sU/DISTORTED80.Ganol.st.mkv.mp4
+#https://openload.co/f/h0SI9qVSGE0/Distorted_%282018%291080p_BluRay_x264-PSYCHD.Ganool.mkv.mp4
+#https://uptobox.com/xf2du8gixfdd   720
+#https://www.rapidvideo.com/e/FVHMFZZY8X   720
+#https://openload.co/embed/qduswLHMynY/DISTORTEDBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/3TXgH7E0N9k/Distorted_%282018%29720p_BluRay_x264-PSYCHD.Ganool.mkv.mp4
+
+type=video
+name=Eva (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wToGTUAJREIFWWa28erOM8gQ7c.jpg
+date=2018-09-24
+URL=https://openload.co/f/mn3fDai4dtQ/Eva.2018.FRENCH.1080p.BluRay.DTS.x264-EXTREME.mkv.mp4
+#https://openload.co/f/QuRiZTbeg8s/Eva.2018.FRENCH.CAM.x264_UNiKORN.E.mp4
+
+type=video
+name=Flora (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRX2P7h27DVtcWapcdssvkWdPg1.jpg
+date=2018-09-24
+URL=https://openload.co/f/j9P_UhnImtg/Flora.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/Nxd0UC5k2kU/Flora.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/2I5QYo9ONiE/flora.2017.720p.bluray.hevc.x265.mkv.mp4
+
+type=video
+name=Hearts Beat Loud (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1wKptD8iXJbtAUSz9OlXS3q4Co.jpg
+date=2018-09-24
+URL=https://openload.co/f/juEopqv3Mnw/Hearts.Beat.Loud.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/upAV_Dn2G_4/Hearts.Beat.Loud.2018.720p.BR_SeeHD.mp4
 
 type=video
 name=Detective Chinatown 2 (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
@@ -6166,20 +6200,39 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHUBPUwXkHinq2rIXnnCHsPylD
 date=2018-09-20
 URL=https://openload.co/f/cDuX0n-TSIc/October.2018.ENGSUB.BluRay.720p.x264-CHD.mp4
 
-type=video
-name=Distorted (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnvBQzWlh0Dd9vWq4l0ZmkrM34F.jpg
-date=2018-09-21
-URL=https://uptobox.com/xf2du8gixfdd
-#https://www.rapidvideo.com/e/FVHMFZZY8X
-#https://openload.co/embed/qduswLHMynY/DISTORTEDBD72.Ganol.st.mkv.mp4
-#https://openload.co/f/3TXgH7E0N9k/Distorted_%282018%29720p_BluRay_x264-PSYCHD.Ganool.mkv.mp4
+
 
 type=video
 name=Puppet Master: The Littlest Reich (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieacN7bxZWnkJjPdXGF5Lui4RaS.jpg
 date=2018-09-22
 URL=https://openload.co/f/dyd91CiIF6k/Puppet_Master%3A_The_Littlest_Reich_%282018%29720p.bluray_21CNPX.mp4
+
+type=video
+name=American Hero (2015) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbpv3Ocs772JVRLT6xlRJsiPwFp.jpg
+date=2018-09-24
+URL=https://openload.co/f/HxaL5Z1lg_o/american.hero.2015.720p.bluray.hevc.x265.mkv.mp4
+
+type=video
+name=Marmalade Boy (2018) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ96nM425RidGm6efWOUHIQUTij.jpg
+date=2018-09-24
+URL=https://uptobox.com/aqk4jdefd45p
+#https://www.rapidvideo.com/e/FVL4LBVZDS
+#https://openload.co/embed/3mLCCUd9NgI/Marmalade.Boy.2018.BluRay.720p.900MB.Ganol.st.mkv.mp4
+
+type=video
+name=Custody (2018) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcitn7crZP5ufX2ZWMhyByW68XZ.jpg
+date=2018-09-24
+URL=https://uptobox.com/zmpy3w3s85gt
+#https://www.rapidvideo.com/e/FVL7GYIYVK
+#https://openload.co/embed/jK3WHskkypo/CUSTODYBD72.Ganol.ts.mkv.mp4
+#https://openload.co/f/s0AJ94dDttI/Custody_%282017%29720p_BluRay_x264-DEPTH.Ganool.mkv.mp4
+
+
+
 
 
 
@@ -6189,7 +6242,7 @@ URL=https://openload.co/f/dyd91CiIF6k/Puppet_Master%3A_The_Littlest_Reich_%28201
 type=video
 name=
 thumb=
-date=2018-09-22
+date=2018-09-24
 URL=
 
 type=video
@@ -7060,10 +7113,11 @@ URL=https://streamango.com/f/ostctobsabnkfkeb/Father_of_the_Year_2018_
 
 
 type=video
-name=A Prayer Before Dawn (2018) ENG 720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD
+name=A Prayer Before Dawn (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/73KrcLh1DpnBP3HwGpqoUUwKWF4.jpg
-date=2018-09-06
-URL=https://openload.co/f/X-MCQIj_ZAU/A.Prayer.Before.Dawn.2017.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
+date=2018-09-24
+URL=https://openload.co/f/opTs4Z5EliM/A.Prayer.Before.Dawn.2017.720p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/X-MCQIj_ZAU/A.Prayer.Before.Dawn.2017.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
 #https://openload.co/f/7C6DaGDh488/A_Prayer_Before_Dawn.2017.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 type=video
 name=A Prayer Before Dawn (2018) THSUB
@@ -8708,8 +8762,12 @@ URL=
 type=video
 name=The First Purge (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2slvblTroiT1lY9bYLK7Amigo1k.jpg
-date=2018-09-22
-URL=https://openload.co/f/39i12XirUWs/The.First.Purge.2018.1080p.BR_SeeHD.mp4
+date=2018-09-24
+URL=https://uptobox.com/yfecurvjz3r3
+#https://www.rapidvideo.com/e/FVIJDHYAMG
+#https://openload.co/embed/gZ5vcTC8-Jw/GHPTHE1PUIRGE80.Ganol.st.mkv.mp4
+#https://openload.co/f/W6b23BlHP6w/The_First_Purge_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/39i12XirUWs/The.First.Purge.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/oKkUOEDNDdM/The.First.Purge.2018.1080p.BR_21CNPX.mp4
 #https://openload.co/f/D2mazuOPpfw/the.first.purge.2018.1080p.bluray.x264.6ch-pahe.in_21CNPX.mkv.mp4
 #https://openload.co/f/dVf-xsopkhM/the.first.purge.2018.1080p.bluray.x264.6ch-pahe.in_21CNPX.mkv   MKV1.9GB
@@ -8749,6 +8807,7 @@ URL=https://openload.co/f/F1gEbsctjSc/The.Meg.2018.1080p.HC.HDRip.X264.AC3-EVO.m
 #https://openload.co/f/xVYurn_r6oA/The.Meg.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv   MKV3.7GB
 #https://openload.co/f/PMUQfER5ZIw/The.Meg.2018.720p.HC.HDRip.AC3.X264-CMRG.mkv.mp4
 #https://openload.co/f/MIDmprqPvUM/The.Meg.2018.720p.HC.HDRip.AC3.X264-CMRG.mkv   MKV2.1GB
+#https://openload.co/f/ohDlUkNIhko/The.Meg.2018.1080p.HDRip.x264.%5BExYu-Subs%5D.mp4
 #https://openload.co/f/j4183vstFoA/The.Meg.2018.NEW.HDTC.XviD.B4ND1T69_SeeHD.avi.mp4
 #https://openload.co/f/jQPi1mZbb0M/The.Meg.2018.CAM.SUBBED.V2.READNFO.XViD-T3RR0RSQU4D.avi.mp4
 #https://openload.co/f/P4Fkr3ffImw/The.Meg.2018.CAM.SUBBED.V2READNFO.XViD.avi.mp4
@@ -8930,6 +8989,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbT5k8TcTDGVFxZbnc5FSGFTqe
 date=2018-07-19
 URL=https://uptobox.com/k9rymnaml7lj
 #https://www.rapidvideo.com/e/FTFGJB0XXK
+#https://openload.co/f/mq3C2glbj-U/Operation.Red.Sea.2018.BluRay.1080p.5.1CH.x264.mkv.mp4
+#https://openload.co/f/2u9Eay8y7zw/Operation_Red_Sea.2018.720pBR_SeeHD.mkv.mp4
 #https://openload.co/f/IVf-_RlzC48/Operation.Red.Sea.2018.BluRay.1080p.5.1CH.x264.mkv.mp4
 #https://openload.co/embed/BuC506tMVB8/Operation.Red.Sea.2018.BluRay.1080p.5.1CH.x264.Ganol.ru.mkv
 #https://openload.co/f/Y5a_1gjxaeE/Operation_Red_Sea.2018.720pBR_SeeHD.mkv.mp4
