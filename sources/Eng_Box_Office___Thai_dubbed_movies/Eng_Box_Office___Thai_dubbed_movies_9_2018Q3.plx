@@ -76,13 +76,28 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-21
+date=2018-09-25
 URL=
 
 
 
 
 
+
+
+type=video
+name=London Fields (2018) RUS 720p_RUS_TS_ENG_SUB-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ap6Vqfw2VYHpLnijxCDJq0L8Uuw.jpg
+date=2018-09-25
+URL=https://openload.co/f/eWuh3hFh4-A/London_Fields_2018_720p_RUS_TS_ENG_SUB-1XBET_SeeHD.mp4
+
+type=video
+name=Eighth Grade (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg
+date=2018-09-25
+URL=https://openload.co/f/slZsZ5QATxI/eight.grade.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/3RS8iQrtbts/eight.grade.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/GzutIvlSKyU/Eighth.Grade.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 
 type=video
 name=A Simple Favor (2018) ENG NEW_720p_TS-1XBET_SeeHD
@@ -1320,11 +1335,20 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-24
+date=2018-09-25
 URL=
 
 
 
+
+
+
+
+type=video
+name=The Last Sharknado: It's About Time (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UvjXMdBdmf8wrYcDfi41Mt1DIY.jpg
+date=2018-09-25
+URL=https://openload.co/f/3EpaTtDE4nw/The.Last.Sharknado.Its.About.Time.2018.1080p.BR_SeeHD.mp4
 
 type=video
 name=Distorted (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -6231,6 +6255,15 @@ URL=https://uptobox.com/zmpy3w3s85gt
 #https://openload.co/embed/jK3WHskkypo/CUSTODYBD72.Ganol.ts.mkv.mp4
 #https://openload.co/f/s0AJ94dDttI/Custody_%282017%29720p_BluRay_x264-DEPTH.Ganool.mkv.mp4
 
+type=video
+name=Feral (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ72SsxEP9XSx3StaazsMwBi9C0.jpg
+date=2018-09-25
+URL=https://uptobox.com/2uvbo90vrj9c
+#https://www.rapidvideo.com/e/FVMAXSMEDF
+#https://openload.co/embed/ke34MhQB7EE/FERALBD72.Ganol.st.mkv
+#https://openload.co/f/3J1hnm0Ju1Q/feral.2018.720p.bluray.hevc.x265.mkv.mp4
+#https://openload.co/f/GR4zu3Vt2BQ/Feral_%282017%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
 
 
 
@@ -6242,7 +6275,7 @@ URL=https://uptobox.com/zmpy3w3s85gt
 type=video
 name=
 thumb=
-date=2018-09-24
+date=2018-09-25
 URL=
 
 type=video
@@ -6467,10 +6500,14 @@ URL=https://openload.co/f/2lCZjxZ3Ww4/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%
 
 
 type=video
-name=Hotel Transylvania 3: Summer Vacation (2018) ENG V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD
+name=Hotel Transylvania 3: Summer Vacation (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg
-date=2018-09-16
-URL=https://openload.co/f/QFtpaJbxibo/Hotel_Transylvania_3_A_Monster_Vacation.2018.V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv
+date=2018-09-25
+URL=https://openload.co/f/L6m8jsq9qOM/Hotel_Transylvania_3_A_Monster_Vacation.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/FcAFts9nhcs/Hotel.Transylvania.3.A.Monster.Vacation.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/bK1cjfsz7Eg/Hotel.Transylvania.3.A.Monster.Vacation.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/0iJ1P87Tuxg/Hotel.Transylvania.3.A.Monster.Vacation.2018.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/QFtpaJbxibo/Hotel_Transylvania_3_A_Monster_Vacation.2018.V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv
 #https://openload.co/f/xeaQloaxyQk/Hotel_Transylvania_3_A_Monster_Vacation.2018.V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv   MKV3.0GB
 #https://openload.co/f/u2JQ5amQDaU/Hotel.Transylvania.3.Summer.Vacation.2018.CAM.XViD-T3RR0RSQU4.avi.mp4
 #https://openload.co/f/eHv-fLRuh7A/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_NEW_SeeHD.mkv.mp4
@@ -6715,7 +6752,18 @@ URL=
 
 
 
-
+type=video
+name=Salyut 7 (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Uwt6lz4nUXtui4iDjvaOYYMNIH.jpg
+date=2018-01-06
+URL=https://uptobox.com/ujrip0r8bduf
+#https://uptobox.com/0qkzsuxrjzzo   720
+#https://openload.co/f/ZUT_MKGUhYI/Salyut-7.2017.BluRay.720p.x264.DTS-HDChina.mkv.mp4
+type=video
+name=Salyut 7 (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Uwt6lz4nUXtui4iDjvaOYYMNIH.jpg
+date=2018-09-25
+URL=https://openload.co/f/QpotXddqcls/Salyut_7_%282017%29Salyut-7_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -8894,10 +8942,13 @@ URL=https://openload.co/f/-g0pJTJq1wY/Detective_Dee%3A_The_Four_Heavenly_Kings_%
 
 
 type=video
-name=Skyscraper (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+name=Skyscraper (2018) ENG PROPER.1080p.WEB-DL.DD5.1.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
-date=2018-09-06
-URL=https://openload.co/f/KZEvP3F4BaA/Skyscraper.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2018-09-25
+URL=https://openload.co/f/cKNyJ2WAghY/Skycraper.2018.PROPER.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/RJQK9wOjXUU/Skyscraper.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/tmy4n91nr8w/Skyscraper_720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/KZEvP3F4BaA/Skyscraper.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/kdaRMymt6QM/Skyscraper.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/1o7zJrDRq9A/Skyscaper.2018.720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
 #https://openload.co/f/rhK9dqpTTrg/Skyscraper.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4

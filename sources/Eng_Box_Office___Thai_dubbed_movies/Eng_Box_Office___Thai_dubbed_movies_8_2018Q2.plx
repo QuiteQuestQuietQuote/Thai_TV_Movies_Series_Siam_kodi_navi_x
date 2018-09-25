@@ -1641,20 +1641,23 @@ URL=https://openload.co/f/NQLDLNg2Zcg/Apocalypse.Now.Redux.1979.720p.BRRip.x264-
 type=video
 name=Spider-Man (2002) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZd0y1X1Gw4t5B3f01Qzj8DYY66.jpg
-date=2018-04-27
-URL=https://openload.co/f/tYaNyfsfQYs/Spiderman_2002_1080p_BluRay_x265_HEVC_10bit_AAC_5.mp4
+date=2018-09-25
+URL=https://openload.co/f/1prOHGDTD_c/Spider-Man_%282002%291080p_Bluray_x264-hV.Ganool.mkv.mp4
+#https://openload.co/f/tYaNyfsfQYs/Spiderman_2002_1080p_BluRay_x265_HEVC_10bit_AAC_5.mp4
 
 type=video
 name=Spider-Man 2 (2004) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/avoSFHOMxddcitOgorL9rbXdCoF.jpg
-date=2018-04-27
-URL=https://openload.co/f/COFvVPJ8EE8/Spider.Man.2.2004.1080p.BluRay.x264
+date=2018-09-25
+URL=https://openload.co/f/I0Kv3SjOKYc/Spider-Man_2_%282004%291080p_BluRay_x264-HDEX.Ganool.mkv.mp4
+#https://openload.co/f/COFvVPJ8EE8/Spider.Man.2.2004.1080p.BluRay.x264
 
 type=video
 name=Spider-Man 3 (2007) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/btocnvK4l8a4BGS887ed3lsTFog.jpg
-date=2018-04-27
-URL=https://openload.co/f/LJEmNOmAERE/Spider-Man_3_%282007%29.mp4
+date=2018-09-25
+URL=https://openload.co/f/iWQfEX-Qa2g/Spider-Man_3_%282007%291080p_BluRay_x264-hV.Ganool.mkv.mp4
+#https://openload.co/f/LJEmNOmAERE/Spider-Man_3_%282007%29.mp4
 
 type=video
 name=Dawn of the Planet of the Apes (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1744,13 +1747,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEvtGhNY2DQ4L8Ma6rpMhL6IbK
 date=2018-01-25
 URL=https://www.blazefile.co/embed-1j6uwn6l6it3.html
 
-type=video
-name=Salyut 7 (2017) [COLOR=FF00FF00]RUS BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Uwt6lz4nUXtui4iDjvaOYYMNIH.jpg
-date=2018-01-06
-URL=https://uptobox.com/ujrip0r8bduf
-#https://uptobox.com/0qkzsuxrjzzo   720
-#https://openload.co/f/ZUT_MKGUhYI/Salyut-7.2017.BluRay.720p.x264.DTS-HDChina.mkv.mp4
+
 
 type=video
 name=Tad the Lost Explorer and the Secret of King Midas (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
