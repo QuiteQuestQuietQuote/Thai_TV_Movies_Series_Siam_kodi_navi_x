@@ -3147,6 +3147,8 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$Paramount/6.m3u8/Level(1677721)?star
 http://dlhls.cdn.zhanqi.tv/zqlive/182325_z3jRr.m3u8
 #EXTINF:-1,Chinese_Movies_toon
 http://dlhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
+#EXTINF:-1,Chinese_Movies_hitz
+http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
 #EXTINF:-1,goat_Movies
 http://91.134.238.137/live/goat/index.m3u8
 #EXTINF:-1,LTV

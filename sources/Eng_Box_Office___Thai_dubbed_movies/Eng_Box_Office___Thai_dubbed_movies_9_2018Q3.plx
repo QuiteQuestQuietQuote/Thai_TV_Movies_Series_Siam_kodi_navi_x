@@ -1335,7 +1335,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-25
+date=2018-09-26
 URL=
 
 
@@ -1343,6 +1343,13 @@ URL=
 
 
 
+
+
+type=video
+name=Finding Oscar (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/btoiZliAR7NTtxzRBOpReKaOCcC.jpg
+date=2018-09-26
+URL=https://openload.co/f/AzmXxXxE6L4/finding.oscar.2016.limited.1080p.bluray.x264-cadaver.mkv.mp4
 
 type=video
 name=The Last Sharknado: It's About Time (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4993,15 +5000,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhTvFd6TsfyPCKChOFvlLBgpnD
 date=2017-10-14
 URL=https://openload.co/f/9KQVC9SllTs/american.gothic.2017.1080p.bluray.x264-justwatch.mkv.mp4
 
-type=video
-name=HHhH (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PivpTn4OoP3YcP0NaBKSLlHQCz.jpg
-date=2017-10-12
-URL=https://www.blazefile.co/embed-1hx2siopw4xb.html
-#https://openload.co/f/zvYUgvFDoQ4/HHhH_%282017%29.1080p.BluRay.Cmovieshd.se.mkv.mp4
-#https://openload.co/f/nOQ-KngEvfo/HHhH.2017.720p.BRRip.XviD.AC3-RARBG.avi.mp4
-#https://openload.co/f/DhYTYFewzAE/The_Man_With_The_Iron_Heart_%282017%29_%5B720p%5D_BluRay_x264-%5BYTS_AG%5D_mp4
-#https://openload.co/f/ItyXNxkJSlo/The.Man.with.the.Iron.Heart.2017.BDRip.x264-PSYCHD.mkv.mp4
+
 
 type=video
 name=Batman vs. Two-Face (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -6265,7 +6264,11 @@ URL=https://uptobox.com/2uvbo90vrj9c
 #https://openload.co/f/3J1hnm0Ju1Q/feral.2018.720p.bluray.hevc.x265.mkv.mp4
 #https://openload.co/f/GR4zu3Vt2BQ/Feral_%282017%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
 
-
+type=video
+name=Tales from the Hood 2 (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjT70BYtU4YhLM4iFDG6Ba8BMp0.jpg
+date=2018-09-26
+URL=https://openload.co/f/BmfMnC1L500/Tales.from.the.Hood.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
 
 
@@ -6275,7 +6278,7 @@ URL=https://uptobox.com/2uvbo90vrj9c
 type=video
 name=
 thumb=
-date=2018-09-25
+date=2018-09-26
 URL=
 
 type=video
@@ -6538,10 +6541,11 @@ URL=https://streamango.com/f/dcrafonlelcdrtlo/The_Spy_Who_Dumped_Me_2018_
 
 
 type=video
-name=Hotel Artemis (2018) ENG 720p_HDCAM_X264-24HD_SeeHD
+name=Hotel Artemis (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg
-date=2018-08-10
-URL=https://openload.co/f/Xks0l93TgZg/Hotel_Artemis_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
+date=2018-09-26
+URL=https://openload.co/f/v8gCDjk1_4A/Hotel_Artemis_%282018%29_720p_BRRip_%5B.vc%5D.mkv.mp4
+#https://openload.co/f/Xks0l93TgZg/Hotel_Artemis_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
 #https://openload.co/f/ensVsB79Sz0/Hotel.Artemis.2018.720p.HDCAM.X264-24HD.mp4
 type=video
 name=Hotel Artemis (2018) THCAM
@@ -6745,11 +6749,40 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-09-22
+date=2018-09-26
 URL=
 
 
 
+
+
+
+type=video
+name=The Man with the Iron Heart (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZVQfCY2DgCjrm8w2saXvT8Ao3B.jpg
+date=2017-10-12
+URL=https://www.blazefile.co/embed-1hx2siopw4xb.html
+#https://openload.co/f/zvYUgvFDoQ4/HHhH_%282017%29.1080p.BluRay.Cmovieshd.se.mkv.mp4
+#https://openload.co/f/nOQ-KngEvfo/HHhH.2017.720p.BRRip.XviD.AC3-RARBG.avi.mp4
+#https://openload.co/f/DhYTYFewzAE/The_Man_With_The_Iron_Heart_%282017%29_%5B720p%5D_BluRay_x264-%5BYTS_AG%5D_mp4
+#https://openload.co/f/ItyXNxkJSlo/The.Man.with.the.Iron.Heart.2017.BDRip.x264-PSYCHD.mkv.mp4
+type=video
+name=The Man with the Iron Heart (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZVQfCY2DgCjrm8w2saXvT8Ao3B.jpg
+date=2018-09-26
+URL=https://openload.co/f/PxLXLDVBgyo/The_Man_with_the_Iron_Heart_%282017%29%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B9%84%E0%B8%AE%E0%B8%94%E0%B8%A3%E0%B8%B4%E0%B8%8A_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Nappily Ever After (2018) ENG 720p.NF.WEB-DL.DD%252B5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxXsGqxUwSxypffv8hn3r332jf4.jpg
+date=2018-09-26
+URL=https://openload.co/f/FEfbAbk6G6k/Nappily.Ever.After.2018.720p.NF.WEB-DL.DD%252B5.1.H264-CMRG.mkv.mp4
+type=video
+name=Nappily Ever After (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxXsGqxUwSxypffv8hn3r332jf4.jpg
+date=2018-09-26
+URL=https://openload.co/f/J86MY5EWH7Q/Nappily_Ever_After_%282018%29%E0%B8%82%E0%B8%AD%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%A3%E0%B9%8C_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -9559,8 +9592,9 @@ URL=https://www.blazefile.co/embed-pjefipst454c.html
 type=video
 name=A Better Tomorrow (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiGt7crOueCfgqGlay4ZryRBRQF.jpg
-date=2018-09-20
-URL=https://openload.co/f/P4ZYZLPU3Us/A_Better_Tomorrow_%282018%29%E0%B9%82%E0%B8%AB%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%A7%E0%B8%94%E0%B8%B5.mp4
+date=2018-09-26
+URL=https://openload.co/f/jhmK51H4fv0/A_Better_Tomorrow_%282018%29%E0%B9%82%E0%B8%AB%E0%B8%94_%E0%B9%80%E0%B8%A5%E0%B8%A7_%E0%B8%94%E0%B8%B5.mp4
+#https://openload.co/f/P4ZYZLPU3Us/A_Better_Tomorrow_%282018%29%E0%B9%82%E0%B8%AB%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%A7%E0%B8%94%E0%B8%B5.mp4
 #https://streamango.com/f/nrpbpscqtnlldsfn/A_Better_Tomorrow_2018_
 
 
