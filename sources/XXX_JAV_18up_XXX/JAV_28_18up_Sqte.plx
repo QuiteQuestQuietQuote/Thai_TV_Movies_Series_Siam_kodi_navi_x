@@ -34,7 +34,7 @@ type=video
 name=
 thumb=
 date=2018-08-22
-URL=https://stream.xjav.to/s45/3678/033-hls/appid-30127/hls_720_.m3u8?v=3
+URL=
 
 
 
@@ -42,25 +42,25 @@ URL=https://stream.xjav.to/s45/3678/033-hls/appid-30127/hls_720_.m3u8?v=3
 
 type=video
 name=
-thumb=https://www.xjav.to/wp-content/uploads/2017/01/9642-215x316.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2016/12/9425.jpg
 date=2018-08-22
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_2138711249728932_473916277807644672_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=d2c8468bd3314167b1249adbb4cbbd94&oe=5B91A5D6&itag=22
+URL=https://cdn2.xjav.to/s113/3675/046-hls/appid-9425/hls_720_.m3u8
 
 type=video
 name=
-thumb=https://www.xjav.to/wp-content/uploads/2017/01/13576-215x316.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2017/01/8817.jpg
 date=2018-08-22
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_2091826614389199_8822337372625567744_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=6907a2a5167dfc711d9a9ed0e4fc8154&oe=5B91A8F7&itag=22
+URL=https://cdn2.xjav.to/s113/3675/046-hls/appid-9415/hls_720_.m3u8
 
 type=video
 name=
-thumb=https://www.xjav.to/wp-content/uploads/2016/12/9425-215x316.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2016/12/8795.jpg
 date=2018-08-22
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_206634790134373_2690650054343000064_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=0cf4c93e24d33b1165008177509b7acb&oe=5B91B910&itag=22
+URL=https://cdn2.xjav.to/s113/4.101/3678/047-hls/appid-8795/hls_720_.m3u8
 
 type=video
 name=
-thumb=https://www.xjav.to/wp-content/uploads/2017/01/8817-215x316.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2017/01/8817.jpg
 date=2018-08-22
 URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_200950043969109_3322495041288536064_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=fc3ff43812a9bfed9bc7c76211dd871b&oe=5B91A4B4&itag=22
 
@@ -206,9 +206,9 @@ URL=http://cdn.vodstream.xyz/q5185/3678/029-hls/appid-27432/hls.m3u8
 
 type=video
 name=Sqte-171 Lovely Love That Smiles Unexpectedly Spilling
-thumb=http://javdub.com/wp-content/uploads/2017/06/24505.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2017/06/24505.jpg
 date=2018-06-15
-URL=http://cdn.vodstream.xyz/q5188/3678/020-hls/appid-24505/hls.m3u8?v=3
+URL=https://cdn.xjav.to/s46/3678/020-hls/appid-24505/hls_720_.m3u8
 
 type=video
 name=Sqte-163 It Was A Serious Disadvantage Junjo Pretty Etch Confession
@@ -224,9 +224,9 @@ URL=http://cdn.vodstream.xyz/q582/3675/024-hls/appid-20627/hls.m3u8
 
 type=video
 name=Sqte-080 Healing Your Service Horny Beautiful Girl
-thumb=http://javdub.com/wp-content/uploads/2017/01/12834.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2017/01/12834.jpg
 date=2018-06-15
-URL=http://cdn.vodstream.xyz/q5180/3674/010-hls/appid-12834/hls.m3u8
+URL=https://cdn.xjav.to/s49/3674/010-hls/appid-12834/hls_720_.m3u8
 
 
 type=video
@@ -243,21 +243,21 @@ URL=http://cdn.vodstream.xyz/q5184/3678/033-hls/appid-30117/hls.m3u8
 
 type=video
 name=Sqte-199 Embarrassingly, A Girl Who Loves Sex
-thumb=http://javdub.com/wp-content/uploads/2018/03/30116.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2018/03/30116.jpg
 date=2018-06-15
-URL=http://cdn.vodstream.xyz/q5184/3678/033-hls/appid-30116/hls.m3u8
+URL=https://cdn2.xjav.to/s45/3678/033-hls/appid-30116/hls_720_.m3u8
 
 type=video
 name=Sqte-176 Her Slutty Curiosity Pure
-thumb=http://javdub.com/wp-content/uploads/2017/08/26227.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2017/08/26227.jpg
 date=2018-06-15
-URL=http://cdn.vodstream.xyz/q583/3678/024-hls/appid-26227/hls.m3u8
+URL=hhttps://cdn2.xjav.to/s45/3678/024-hls/appid-26227/hls_720_.m3u8
 
 type=video
 name=Sqte-174 I Want To Make A Girl Even A Girl
-thumb=http://javdub.com/wp-content/uploads/2017/07/25448.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2017/07/25448.jpg
 date=2018-06-15
-URL=http://cdn.vodstream.xyz/q586/3675/034-hls/appid-25448/hls.m3u8
+URL=https://cdn.xjav.to/s46/3678/022-hls/appid-25448/hls_720_.m3u8
 
 
 type=video
@@ -274,9 +274,9 @@ URL=http://cdn.vodstream.xyz/q586/3675/034-hls/appid-25449/hls.m3u8
 
 type=video
 name=Sqte-186 I Love You And I39m More Excited Than Usual
-thumb=http://javdub.com/wp-content/uploads/2017/10/27042.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2017/10/27042.jpg
 date=2018-06-15
-URL=http://s82181.vodstream.xyz/3678/027-hls/appid-27042/hls.m3u8?v=3
+URL=https://cdn.xjav.to/s71/3678/027-hls/appid-27042/hls_720_.m3u8
 
 
 
@@ -337,9 +337,9 @@ URL=http://cdn.vodstream.xyz/q5187/3674/033-hls/appid-28577/hls.m3u8
 
 type=video
 name=Sqte-190 S-cute Annual Sales Ranking 2017 Top 30
-thumb=http://javdub.com/wp-content/uploads/2017/12/28429.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2017/12/28429.jpg
 date=2018-06-15
-URL=http://cdn.vodstream.xyz/q5185/3674/032-hls/appid-28429/hls.m3u8
+URL=https://cdn.xjav.to/s48/3674/032-hls/appid-28429/hls_720_.m3u8
 
 type=video
 name=Sqte-191 She Is Pure And Too Sketchy Serious Sex Of Innocent Girls
@@ -368,9 +368,9 @@ URL=http://cdn.vodstream.xyz/q101/3678/012-hls/appid-21381/hls.m3u8?v=3
 
 type=video
 name=Sqte-169 S-cute Girls Ranking-2017 Top 10
-thumb=http://javdub.com/wp-content/uploads/2017/06/24503.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2017/06/24503.jpg
 date=2018-06-15
-URL=http://cdn.vodstream.xyz/q585/3675/032-hls/appid-24503/hls.m3u8
+URL=https://cdn2.xjav.to/s45/3675/032-hls/appid-24503/hls_720_.m3u8
 
 type=video
 name=Sqte-178 A Black Hairy Lolita Girl Sometimes Makes A Face Of An Adult
@@ -443,28 +443,28 @@ URL=http://cdn.vodstream.xyz/q5179/3674/013-hls/appid-13407/hls.m3u8
 
 type=video
 name=Sqte-081 Erotic Too Girl038039s Body
-thumb=http://javdub.com/wp-content/uploads/2017/01/11725.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2017/01/11725.jpg
 date=2018-06-15
-URL=http://cdn.vodstream.xyz/q5181/3674/004-hls/appid-11725/hls.m3u8
+URL=https://cdn2.xjav.to/s50/3674/004-hls/appid-11725/hls_720_.m3u8
 
 
 type=video
 name=Sqte-082 Really Is A Naughty Innocent Beautiful Girl
-thumb=http://javdub.com/wp-content/uploads/2017/01/11726.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2017/01/11726.jpg
 date=2018-06-15
-URL=http://cdn.vodstream.xyz/q5181/3674/004-hls/appid-11726/hls.m3u8
+URL=https://cdn2.xjav.to/s50/3674/004-hls/appid-11726/hls_720_.m3u8
 
 type=video
 name=Sqte-151 S-cute Breasts Pretty Festival 8 Hours
-thumb=http://javdub.com/wp-content/uploads/2017/01/10303.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2017/01/10303.jpg
 date=2018-06-15
-URL=http://cdn.vodstream.xyz/q5182/3674/000-hls/appid-10303/hls.m3u8?v=3
+URL=https://cdn2.xjav.to/s50/3674/000-hls/appid-10303/hls_720_.m3u8
 
 type=video
 name=SQTE-089 S-Cute Girl RANKINGS-2015 TOP10
-thumb=http://javdub.com/wp-content/uploads/2016/01/4394.jpg
+thumb=https://www.xjav.to/wp-content/uploads/2016/01/4394.jpg
 date=2018-06-15
-URL=http://cdn.vodstream.xyz/q5187/3674/043-hls/appid-4394/hls.m3u8
+URL=https://cdn2.xjav.to/s114/3674/043-hls/appid-4394/hls_720_.m3u8
 
 type=video
 name=
