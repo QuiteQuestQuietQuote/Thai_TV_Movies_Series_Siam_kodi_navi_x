@@ -257,12 +257,8 @@ URL=https://openload.co/f/IW1yONbl8K8/Mamma_Mia_Here_We_Go_Again_2018_1080p_HC_H
 
 
 
-type=video
-name=Billionaire Boys Club (2018) ENG 720p.WEB_DL.MkvCage
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwyXIzlHGkdMlpWSierm0MApmsN.jpg
-date=2018-09-24
-URL=https://openload.co/f/AgT4rDazPUo/Billionaire.Boys.Club.2018.720p.WEB_DL.MkvCage.ws.mp4
-#https://openload.co/f/zOLm60jIaKk/Billionaire_Boys_Club.2018.720pHD_SeeHD.mkv.mp4
+
+
 
 type=video
 name=How It Ends (2018) ENG 1080p.NF.WEB-DL.DD5.1.H.264-SiGMA_SeeHD
@@ -1335,7 +1331,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-26
+date=2018-09-27
 URL=
 
 
@@ -1344,12 +1340,30 @@ URL=
 
 
 
+type=video
+name=Three Identical Strangers (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXJBUzbmYvZRrAdnQU3dBvOktew.jpg
+date=2018-09-27
+URL=https://openload.co/f/dmrhx7ILwN0/Three.Identical.Strangers.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/o54BBPMOQuc/Three.Identical.Strangers.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=Feral (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ72SsxEP9XSx3StaazsMwBi9C0.jpg
+date=2018-09-27
+URL=https://openload.co/f/jqWp9TQm_xU/Feral.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://uptobox.com/2uvbo90vrj9c   720
+#https://www.rapidvideo.com/e/FVMAXSMEDF   720
+#https://openload.co/embed/ke34MhQB7EE/FERALBD72.Ganol.st.mkv
+#https://openload.co/f/3J1hnm0Ju1Q/feral.2018.720p.bluray.hevc.x265.mkv.mp4
+#https://openload.co/f/GR4zu3Vt2BQ/Feral_%282017%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
 
 type=video
 name=Finding Oscar (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/btoiZliAR7NTtxzRBOpReKaOCcC.jpg
 date=2018-09-26
 URL=https://openload.co/f/AzmXxXxE6L4/finding.oscar.2016.limited.1080p.bluray.x264-cadaver.mkv.mp4
+#https://openload.co/f/4qdaD1zzfdg/Finding.Oscar.2016.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=The Last Sharknado: It's About Time (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3102,15 +3116,6 @@ URL=https://www.blazefile.co/embed-82kqntbr1nyk.html
 #https://openload.co/f/rKX673adQVI/the.swindlers.2017.1080p.bluray.x264-regret.mkv.mp4
 #https://uptobox.com/1y3alu8fy3kq   720
 
-type=video
-name=Submergence (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYhm5wpUdKSWHybNS5953q8r6jk.jpg
-date=2018-04-29
-URL=https://www.blazefile.co/embed-c30l73cf9dkh.html
-#https://uptobox.com/yhhgdlfxs49q
-#https://openload.co/f/Wg93i63rjXw/Submergence.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
-#https://openload.co/f/yKN3kDysiP4/Submergence.2017.720p.BluRay.x264-PSYCHD.mkv.mp4
-#https://openload.co/f/QLfh4IFUDLc/Submergence.2018_BDRip_Layar.mp4
 
 
 
@@ -6254,15 +6259,7 @@ URL=https://uptobox.com/zmpy3w3s85gt
 #https://openload.co/embed/jK3WHskkypo/CUSTODYBD72.Ganol.ts.mkv.mp4
 #https://openload.co/f/s0AJ94dDttI/Custody_%282017%29720p_BluRay_x264-DEPTH.Ganool.mkv.mp4
 
-type=video
-name=Feral (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ72SsxEP9XSx3StaazsMwBi9C0.jpg
-date=2018-09-25
-URL=https://uptobox.com/2uvbo90vrj9c
-#https://www.rapidvideo.com/e/FVMAXSMEDF
-#https://openload.co/embed/ke34MhQB7EE/FERALBD72.Ganol.st.mkv
-#https://openload.co/f/3J1hnm0Ju1Q/feral.2018.720p.bluray.hevc.x265.mkv.mp4
-#https://openload.co/f/GR4zu3Vt2BQ/Feral_%282017%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
+
 
 type=video
 name=Tales from the Hood 2 (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -6503,10 +6500,17 @@ URL=https://openload.co/f/2lCZjxZ3Ww4/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%
 
 
 type=video
-name=Hotel Transylvania 3: Summer Vacation (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
+name=Hotel Transylvania 3: Summer Vacation (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg
-date=2018-09-25
-URL=https://openload.co/f/L6m8jsq9qOM/Hotel_Transylvania_3_A_Monster_Vacation.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-09-27
+URL=https://openload.co/f/w9bUqy-SRPM/hotel.transylvania.3.summer.vacation.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/dr1YFUWs94Q/Hotel.Transylvania.3.Summer.Vacation.2018.1080p.BluRay.x264-BLOW.mkv.mp4
+#https://openload.co/f/fnPEhfZ8xLE/Hotel_Transylvania_3_Summer_Vacation_2018_1080p_BluRay_x264_BLOW.mkv.mp4
+#https://openload.co/f/SmDjnEclIrg/Hotel.Transylvania.3.Summer.Vacation.2018.720p.BluRay.x264-BLOW.mkv.mp4
+#https://openload.co/f/pBgc6KYL3XI/Hotel.Transylvania.3.Summer.Vacation.2018.720p.BRRip.x264.mkv.mp4
+#https://openload.co/f/qem-dkbEWhU/Hotel.Transylvania.3.A.Monster.Vacation.2018.1080p_21CNPX.mp4
+#https://openload.co/f/F9U_LiARH9E/Hotel.Transylvania.3.A.Monster.Vacation.2018.1080p.mp4
+#https://openload.co/f/L6m8jsq9qOM/Hotel_Transylvania_3_A_Monster_Vacation.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/FcAFts9nhcs/Hotel.Transylvania.3.A.Monster.Vacation.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/bK1cjfsz7Eg/Hotel.Transylvania.3.A.Monster.Vacation.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/0iJ1P87Tuxg/Hotel.Transylvania.3.A.Monster.Vacation.2018.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
@@ -6541,10 +6545,14 @@ URL=https://streamango.com/f/dcrafonlelcdrtlo/The_Spy_Who_Dumped_Me_2018_
 
 
 type=video
-name=Hotel Artemis (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Hotel Artemis (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg
-date=2018-09-26
-URL=https://openload.co/f/v8gCDjk1_4A/Hotel_Artemis_%282018%29_720p_BRRip_%5B.vc%5D.mkv.mp4
+date=2018-09-27
+URL=https://openload.co/f/P4lVLWj1CTE/Hotel.Artemis.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/zZdU-tbCKwc/Hotel.Artemis.2018.1080p.BluRay.x264-Replica.mp4
+#https://openload.co/f/tG6I9jzj2qY/Hotel_Artemis_2018_1080p_BluRay_x264_Replica.mkv.mp4
+#https://openload.co/f/ZmEWt8eC0Dk/Hotel.Artemis.2018.720p.720p.BRRip.x264.mkv.mp4
+#https://openload.co/f/v8gCDjk1_4A/Hotel_Artemis_%282018%29_720p_BRRip_%5B.vc%5D.mkv.mp4
 #https://openload.co/f/Xks0l93TgZg/Hotel_Artemis_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
 #https://openload.co/f/ensVsB79Sz0/Hotel.Artemis.2018.720p.HDCAM.X264-24HD.mp4
 type=video
@@ -8974,28 +8982,7 @@ URL=https://openload.co/f/-g0pJTJq1wY/Detective_Dee%3A_The_Four_Heavenly_Kings_%
 
 
 
-type=video
-name=Skyscraper (2018) ENG PROPER.1080p.WEB-DL.DD5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
-date=2018-09-25
-URL=https://openload.co/f/cKNyJ2WAghY/Skycraper.2018.PROPER.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/RJQK9wOjXUU/Skyscraper.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/tmy4n91nr8w/Skyscraper_720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/KZEvP3F4BaA/Skyscraper.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/kdaRMymt6QM/Skyscraper.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/1o7zJrDRq9A/Skyscaper.2018.720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
-#https://openload.co/f/rhK9dqpTTrg/Skyscraper.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/Yuc9h5YDNd4/Skyscraper.2018.720p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4
-#https://openload.co/f/rEktzWFk-m4/Skyscraper_2018_NEW_720p_FULL_HDCAM_X264_HQMic-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/gtJAVaxk6sw/Skyscraper.2018.New.720p.FULL.HDCAM.mkv.mp4
-#https://openload.co/f/mGZxI3viZJs/Skyscraper.2018.720p.HDCAM.NO.WATERMARK.mp4
-#https://openload.co/f/iPsXl_oVKik/Skyscraper_2018_720p_English_HDCAM_Rip_x264_MP3_850MB.E.mp4
-type=video
-name=Skyscraper (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
-date=2018-08-13
-URL=https://streamango.com/f/oasonmnbklbmkpbr/Skyscraper_2018_
-#https://streamango.com/f/aqqabkkkdlekfmrq/Skyscraper_2018_
+
 
 
 
@@ -9562,7 +9549,58 @@ URL=
 
 
 
+type=video
+name=Skyscraper (2018) ENG PROPER.1080p.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
+date=2018-09-25
+URL=https://openload.co/f/cKNyJ2WAghY/Skycraper.2018.PROPER.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/RJQK9wOjXUU/Skyscraper.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/tmy4n91nr8w/Skyscraper_720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/KZEvP3F4BaA/Skyscraper.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/kdaRMymt6QM/Skyscraper.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/1o7zJrDRq9A/Skyscaper.2018.720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
+#https://openload.co/f/rhK9dqpTTrg/Skyscraper.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/Yuc9h5YDNd4/Skyscraper.2018.720p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/rEktzWFk-m4/Skyscraper_2018_NEW_720p_FULL_HDCAM_X264_HQMic-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/gtJAVaxk6sw/Skyscraper.2018.New.720p.FULL.HDCAM.mkv.mp4
+#https://openload.co/f/mGZxI3viZJs/Skyscraper.2018.720p.HDCAM.NO.WATERMARK.mp4
+#https://openload.co/f/iPsXl_oVKik/Skyscraper_2018_720p_English_HDCAM_Rip_x264_MP3_850MB.E.mp4
+type=video
+name=Skyscraper (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
+date=2018-09-27
+URL=https://openload.co/f/qvy83YHhrew/Skyscraper_%282018%29%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%9F%E0%B9%89%E0%B8%B2.mp4
+#https://streamango.com/f/oasonmnbklbmkpbr/Skyscraper_2018_
+#https://streamango.com/f/aqqabkkkdlekfmrq/Skyscraper_2018_
 
+
+type=video
+name=Billionaire Boys Club (2018) ENG 720p.WEB_DL.MkvCage
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwyXIzlHGkdMlpWSierm0MApmsN.jpg
+date=2018-09-24
+URL=https://openload.co/f/AgT4rDazPUo/Billionaire.Boys.Club.2018.720p.WEB_DL.MkvCage.ws.mp4
+#https://openload.co/f/zOLm60jIaKk/Billionaire_Boys_Club.2018.720pHD_SeeHD.mkv.mp4
+type=video
+name=Billionaire Boys Club (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwyXIzlHGkdMlpWSierm0MApmsN.jpg
+date=2018-09-27
+URL=https://openload.co/f/i_ToZpuXQY8/Billionaire_Boys_Club_%282018%29%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%A3%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0.mp4
+
+
+type=video
+name=Submergence (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYhm5wpUdKSWHybNS5953q8r6jk.jpg
+date=2018-04-29
+URL=https://www.blazefile.co/embed-c30l73cf9dkh.html
+#https://uptobox.com/yhhgdlfxs49q
+#https://openload.co/f/Wg93i63rjXw/Submergence.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/yKN3kDysiP4/Submergence.2017.720p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/QLfh4IFUDLc/Submergence.2018_BDRip_Layar.mp4
+type=video
+name=Submergence (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYhm5wpUdKSWHybNS5953q8r6jk.jpg
+date=2018-09-27
+URL=https://openload.co/f/hp7r4klLxtg/Submergence_%282018%29%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B9%E0%B8%88%E0%B8%99%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
 
 
 type=video
