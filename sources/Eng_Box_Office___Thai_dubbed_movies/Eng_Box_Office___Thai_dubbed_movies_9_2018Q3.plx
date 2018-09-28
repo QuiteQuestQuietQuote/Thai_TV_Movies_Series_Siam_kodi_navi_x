@@ -298,10 +298,12 @@ URL=https://openload.co/f/Lt5SYC2lJGo/How_It_Ends.2018.1080p.NF.WEB-DL.DD5.1.H.2
 
 
 type=video
-name=King Lear (2018) ENG HDRip.X264.AC3-EVO
+name=King Lear (2018) ENG 1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/li1xcPowPJTIhAdy2ZY0bQvAkBf.jpg
-date=2018-05-30
-URL=https://openload.co/f/rf2jkbDsENc/King_Lear_2018.HDRip.X264.AC3-EVO.mkv.mp4
+date=2018-09-28
+URL=https://openload.co/f/wtuPFpMkp74/King.Lear.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/yIuG9VEAfbM/King.Lear.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
+#https://openload.co/f/rf2jkbDsENc/King_Lear_2018.HDRip.X264.AC3-EVO.mkv.mp4
 
 
 
@@ -1331,7 +1333,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-27
+date=2018-09-28
 URL=
 
 
@@ -1339,6 +1341,32 @@ URL=
 
 
 
+
+type=video
+name=Toilet - Ek Prem Katha (2017) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YUBka56t4HcHLVMGnGA1WizpMV.jpg
+date=2018-09-28
+URL=https://openload.co/f/5cJDv45poTk/Toilet.Ek.Prem.Katha.2017.Hindi.1080p.BluRay.x264.mp4
+
+type=video
+name=Leave No Trace (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/awGdHLQdPARAWyiT4hzu1ZFdsHO.jpg
+date=2018-09-28
+URL=https://uptobox.com/7ead2a0jdeme
+#https://www.rapidvideo.com/e/FVPOZV7Z0R
+#https://openload.co/embed/qEsJQG0Xh4Y/GHPLEAVENOTRACE80.Ganol.st.mkv
+#https://openload.co/f/T4-0M-cIzY8/Leave_No_Trace_%282018%291080p_BluRay_x264-SAPHiRE.Ganool.mkv.mp4
+
+type=video
+name=Don't Worry, He Won't Get Far on Foot (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKsiN37qMt8jad5GikZzSeevyI9.jpg
+date=2018-09-28
+URL=https://openload.co/f/TbA0ksOoXgg/Dont.Worry.He.Wont.Get.Far.On.Foot.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/RRk9jUf7388/dont.worry.he.wont.get.far.on.foot.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/SSqUiQScQKY/Don%E2%80%99t_Worry%2C_He_Won%E2%80%99t_Get_Far_on_Foot_%282018%29BluRay.720p.Ganool.mkv.mp4
+#https://uptobox.com/3q5wcej0iwkb   720
+#https://www.rapidvideo.com/e/FVPTE71TON   720
+#https://openload.co/embed/SBjS4e1BTPA/DONTWORRHEWONGETFOOTBD72.Ganol.st.mkv
 
 type=video
 name=Three Identical Strangers (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -5124,12 +5152,6 @@ URL=https://www.blazefile.co/embed-yroidpd7xprm.html
 #https://openload.co/f/qtCGn2v91C0/Paris.Can.Wait.2016.1080p.BluRay.X264-AMIABLE.mkv
 #https://openload.co/f/sqOx_-AOWLY/Paris.Can.Wait.2016.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
-type=video
-name=Una (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvEhxYOHf7eKzLWeorlyrg3Dpru.jpg
-date=2017-09-29
-URL=https://www.blazefile.co/embed-y35w3prjrks2.html
-#https://openload.co/f/_AzvKUoSqRs/Una.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 
 
@@ -6502,8 +6524,13 @@ URL=https://openload.co/f/2lCZjxZ3Ww4/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%
 type=video
 name=Hotel Transylvania 3: Summer Vacation (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg
-date=2018-09-27
-URL=https://openload.co/f/w9bUqy-SRPM/hotel.transylvania.3.summer.vacation.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+date=2018-09-28
+URL=https://uptobox.com/57mag8piky8j
+#https://www.rapidvideo.com/e/FVPPW0WUEK
+#https://openload.co/embed/8AsD7rPPBZw/GHPHOTEL3SUMERVACATION80.Ganol.st.mkv.mp4
+#https://openload.co/f/4ruj3NyEoxM/Hotel.Transylvania.3.Summer.Vacation.2018.1080p.BluRay.H264.AAC-RARBG_21CNPX.mp4
+#https://openload.co/f/1SpcO0B8C8g/Hotel_Transylvania_3%3A_Summer_Vacation_%282018%291080p_BluRay_x264-BLOW.Ganool.mkv.mp4
+#https://openload.co/f/w9bUqy-SRPM/hotel.transylvania.3.summer.vacation.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/dr1YFUWs94Q/Hotel.Transylvania.3.Summer.Vacation.2018.1080p.BluRay.x264-BLOW.mkv.mp4
 #https://openload.co/f/fnPEhfZ8xLE/Hotel_Transylvania_3_Summer_Vacation_2018_1080p_BluRay_x264_BLOW.mkv.mp4
 #https://openload.co/f/SmDjnEclIrg/Hotel.Transylvania.3.Summer.Vacation.2018.720p.BluRay.x264-BLOW.mkv.mp4
@@ -6550,11 +6577,17 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwg
 date=2018-09-27
 URL=https://openload.co/f/P4lVLWj1CTE/Hotel.Artemis.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/zZdU-tbCKwc/Hotel.Artemis.2018.1080p.BluRay.x264-Replica.mp4
+#https://openload.co/f/FSEgqQPkY6c/Hotel.Artemis.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/1-PZaWihKKo/Hotel.Artemis.2018.1080p.BluRay.x264-Replica_21CNPX.mp4
 #https://openload.co/f/tG6I9jzj2qY/Hotel_Artemis_2018_1080p_BluRay_x264_Replica.mkv.mp4
+#https://openload.co/f/yzS3HTRoSGM/Hotel_Artemis_%282018%29720p_BluRay_x264-Replica.Ganool.mkv.mp4
 #https://openload.co/f/ZmEWt8eC0Dk/Hotel.Artemis.2018.720p.720p.BRRip.x264.mkv.mp4
 #https://openload.co/f/v8gCDjk1_4A/Hotel_Artemis_%282018%29_720p_BRRip_%5B.vc%5D.mkv.mp4
 #https://openload.co/f/Xks0l93TgZg/Hotel_Artemis_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
 #https://openload.co/f/ensVsB79Sz0/Hotel.Artemis.2018.720p.HDCAM.X264-24HD.mp4
+#https://uptobox.com/qjplhxzov47m   720
+#https://www.rapidvideo.com/e/FVP8HUHJ2F   720
+#https://openload.co/embed/FPt8JKoGWcY/HOTELARTEMISBD72.Ganol.st.mkv
 type=video
 name=Hotel Artemis (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg
@@ -6757,12 +6790,35 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-09-26
+date=2018-09-28
 URL=
 
 
 
 
+
+
+
+
+
+type=video
+name=Una (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvEhxYOHf7eKzLWeorlyrg3Dpru.jpg
+date=2017-09-29
+URL=https://www.blazefile.co/embed-y35w3prjrks2.html
+#https://openload.co/f/_AzvKUoSqRs/Una.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+type=video
+name=Una (2016) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvEhxYOHf7eKzLWeorlyrg3Dpru.jpg
+date=2018-09-28
+URL=https://openload.co/f/_tsfw80M6w0/Una_%282016%29Una_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Genocidal Organ (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aL5mNV5UgUoQ00qsC6dvwgQcIbA.jpg
+date=2018-09-28
+URL=https://openload.co/f/YRBmIB_X2-4/Genocidal_Organ_%282017%29%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%A7%E0%B8%B0%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -7204,8 +7260,12 @@ URL=https://streamango.com/f/ostctobsabnkfkeb/Father_of_the_Year_2018_
 type=video
 name=A Prayer Before Dawn (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/73KrcLh1DpnBP3HwGpqoUUwKWF4.jpg
-date=2018-09-24
-URL=https://openload.co/f/opTs4Z5EliM/A.Prayer.Before.Dawn.2017.720p.BRRip.X264.AC3-EVO.mkv.mp4
+date=2018-09-28
+URL=https://uptobox.com/ipsytgj7mvu0
+#https://www.rapidvideo.com/e/FVPP0B54OG
+#https://openload.co/embed/nxDzU-ej6Po/SHQAPRAYERBEFOREDAWNWEB72.Ganol.ru.mkv.mp4
+#https://openload.co/f/_O2v_i6X59M/A_Prayer_Before_Dawn_%282017%29720p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://openload.co/f/opTs4Z5EliM/A.Prayer.Before.Dawn.2017.720p.BRRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/X-MCQIj_ZAU/A.Prayer.Before.Dawn.2017.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
 #https://openload.co/f/7C6DaGDh488/A_Prayer_Before_Dawn.2017.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 type=video
@@ -9550,10 +9610,20 @@ URL=
 
 
 type=video
-name=Skyscraper (2018) ENG PROPER.1080p.WEB-DL.DD5.1.H264-CMRG
+name=Skyscraper (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
-date=2018-09-25
-URL=https://openload.co/f/cKNyJ2WAghY/Skycraper.2018.PROPER.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+date=2018-09-28
+URL=https://uptobox.com/8vof6opglarq
+#https://www.rapidvideo.com/e/FVPORY8MAZ
+#https://openload.co/embed/AXop4hT93xg/GHPSKYSCAPER80.Ganol.st.mkv
+#https://openload.co/f/vhCbqGHrUJg/Skyscraper.2018.1080p.BluRay.H264.AAC-RARBG_21CNPX.mp4
+#https://openload.co/f/fapXix-LABI/Skyscraper_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
+#https://openload.co/f/jICOBL7Oguw/skyscraper.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/Dfdmhkc7aJY/Skyscraper.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/OT5IoUA3UaU/skyscraper.2018.720p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/P6n2XdeKVK8/Skyscraper.2018.720p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/cS6UX8HPgZg/skyscraper.2018.720p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/cKNyJ2WAghY/Skycraper.2018.PROPER.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 #https://openload.co/f/RJQK9wOjXUU/Skyscraper.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/tmy4n91nr8w/Skyscraper_720pHD_SeeHD.mkv.mp4
 #https://openload.co/f/KZEvP3F4BaA/Skyscraper.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
@@ -9612,8 +9682,9 @@ URL=https://openload.co/f/P3_etkEMmF8/Batman%3A_Assault_on_Arkham_%282014%29%E0%
 type=video
 name=Be With You (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEeH8ce2YeZHFng3AddqsQ2niLf.jpg
-date=2018-09-20
-URL=https://openload.co/f/w2IIwvjoiWE/Be_With_You_%282018%29%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C_%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81_%E0%B8%A4%E0%B8%94%E0%B8%B9%E0%B8%9D%E0%B8%99.mp4
+date=2018-09-28
+URL=https://openload.co/f/q-ZuEbdk_X8/Be_With_You_%282018%29%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C_%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81_%E0%B8%A4%E0%B8%94%E0%B8%B9%E0%B8%9D%E0%B8%99.mp4
+#https://openload.co/f/w2IIwvjoiWE/Be_With_You_%282018%29%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C_%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81_%E0%B8%A4%E0%B8%94%E0%B8%B9%E0%B8%9D%E0%B8%99.mp4
 #https://streamango.com/f/tekbdbtslobrkpkn/Be_With_You_2018_
 
 
@@ -10699,8 +10770,12 @@ URL=https://openload.co/f/pSs_jqOj1oA/211_%282018%29%E0%B9%81%E0%B8%9C%E0%B8%99%
 type=video
 name=Rampage (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30oXQKwibh0uANGMs0Sytw3uN22.jpg
-date=2018-07-01
-URL=https://openload.co/f/fqSPSAUjsso/Rampage.2018.1080p.BR_SeeHD.mp4
+date=2018-09-28
+URL=https://uptobox.com/mfk8veowbxlw
+#https://www.rapidvideo.com/e/FVOAHXUZWG
+#https://openload.co/embed/ZFsGAd-4kmk/GHRMPAGE80.Ganol.st.mkv.mp4
+#https://openload.co/f/fqSPSAUjsso/Rampage.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/qu0fEzlFC8U/Rampage_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
 #https://openload.co/f/otDkJV_U0-8/Rampage.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
 #https://openload.co/f/v0jxguJ8Ffc/Rampage.2018.3D.1080p.BluRay.x264-SPRiNTER.mkv.mp4
 #https://openload.co/f/4150OhiKueU/Rampage.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
@@ -11075,12 +11150,45 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-21
+date=2018-09-28
 URL=
 
 
 
 
+
+
+
+
+type=video
+name=28 Weeks Later (2007) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcJ99AtUykDhpzfQOApsViQa3fj.jpg
+date=2018-09-28
+URL=https://openload.co/f/4GIUjtyGu44/28.Weeks.Later.2007.1080p.BR_SeeHD.mp4
+
+type=video
+name=The Punisher (2004) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLeje0AueCpJBDW7pmg4Gv7cO1h.jpg
+date=2018-09-28
+URL=https://openload.co/f/0EXjFAl10SY/The.Punisher.2004.REMASTERED.1080p.BR_SeeHD.mp4
+
+type=video
+name=Punisher: War Zone (2008) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrBl7FvGZFicZoMXtlSZ04duTL9.jpg
+date=2018-09-28
+URL=https://openload.co/f/TxvdTZccn6g/Punisher.War.Zone.2008.1080p.BR_SeeHD.mp4
+
+type=video
+name=Logan (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGBu0hKw9BGddG8RkRAMX7B6NDB.jpg
+date=2018-09-28
+URL=https://openload.co/f/DRuoQXvTjAY/Logan.2017.1080p.BR_SeeHD.mp4
+
+type=video
+name=The Shawshank Redemption (1994) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9O7gLzmreU0nGkIB6K3BsJbzvNv.jpg
+date=2018-09-28
+URL=https://openload.co/f/4MAtk2vvsm0/The.Shawshank.Redemption.1994.1080p.BR_SeeHD.mp4
 
 type=video
 name=Solo: A Star Wars Story (2018) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR]

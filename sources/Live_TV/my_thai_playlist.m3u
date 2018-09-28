@@ -2573,6 +2573,8 @@ http://81.200.50.5/hls/Erox_nejtv_portable_low.m3u8
 
 #EXTINF:-1,XXX18+_nuart tv
 http://82.209.207.119:8905/play/a00l?m3u8
+#EXTINF:-1,nuart tv
+https://dmlive.vo.llnwd.net/dm/3/x5b99vx/live.m3u8
 #EXTINF:-1,XXX18+
 http://86.57.182.131:8905/play/a00l?m3u8
 

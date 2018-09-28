@@ -53,6 +53,82 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=175xxxxxxxxxxxxxxxxxxxxKogyaku No Ikenie Nozomi Haduki (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Kogyaku-No-Ikenie-Nozomi-Haduki-2017.jpg
+date=2018-09-28
+URL=https://streamcherry.com/embed/knnknatenofftlrm/
+
+type=video
+name=Nerawareta Bijinngibo 3 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Nerawareta-Bijinngibo-3-2017.jpg
+date=2018-09-28
+URL=https://streamcherry.com/embed/fbtrspprpdfaoarb/
+
+type=video
+name=One Hundred Sweetheart Scenes (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/One-Hundred-Sweetheart-Scenes-2017.jpg
+date=2018-09-28
+URL=https://streamcherry.com/embed/ammplppckdnkaknn/
+
+type=video
+name=Sex and divorce (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Sex-and-divorce-2009.jpg
+date=2018-09-28
+URL=https://streamcherry.com/embed/famroqonelfpfmbm/
+
+type=video
+name=Saeeommaneun Jeon Yeochin (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Saeeommaneun-Jeon-Yeochin-2017-Uncut.jpg
+date=2018-09-28
+URL=https://streamcherry.com/embed/pbrtpfrqespsslrc/
+
+
+type=video
+name=Secret Late-Night Massage Shop for Only Women (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Secret-Late-Night-Massage-Shop-for-Only-Women-2017.jpg
+date=2018-09-28
+URL=https://streamcherry.com/embed/lemnacptepclpalb/
+
+type=video
+name=Secret Late-Night Massage Shop for Only Women 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Secret-Late-Night-Massage-Shop-for-Only-Women-2-2017.jpg
+date=2018-09-28
+URL=https://streamcherry.com/embed/qenknrntmolkdodb/
+
+type=video
+name=Find a good motel (2009) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Find-a-good-motel-2009.jpg
+date=2018-09-28
+URL=https://streamcherry.com/embed/ropcfcobdoslolkt/
+
+type=video
+name=Sleeping man (2010) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Sleeping-man-2010.jpg
+date=2018-09-28
+URL=https://streamcherry.com/embed/blcobcrslclpfrab/
+
+
+
+
+
+
+
+
 type=video
 name=166xxxxxxxxxxxxxxxxxxxxThe imaginary boyfriend of self-defense women (2009)
 thumb=https://erotic24hr.com/wp-content/uploads/2018/09/The-imaginary-boyfriend-of-self-defense-women-2009.jpg
