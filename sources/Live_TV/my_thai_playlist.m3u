@@ -278,106 +278,6 @@ http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/57.m3u8
 http://191.96.38.54:19358/footballfuck/0x222_monoplus_720p/playlist.m3u8
 #EXTINF:-1,FYI
 http://cdn2.bear-tv.com/freetv/TOT_Fyi/playlist.m3u8
-#EXTINF:-1,BEIN SPORT 1
-http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8
-#EXTINF:-1,BEIN SPORT 2
-http://191.96.38.54:19358/footballfuck/0x777_beinsporthd2_720p/chunklist.m3u8
-#EXTINF:-1,BEIN SPORT 3
-http://main-a.for-our.info:8081/tv11/bein3/playlist.m3u8
-#EXTINF:-1,BEIN SPORT 4
-http://191.96.38.54:19358/footballfuck/0x777_beinsporthd4_720p/playlist.m3u8
-#EXTINF:-1,BEIN SPORT 5
-http://ssl2.sakkarinsai8.com:19358/footballfuck/0x222_beinsporthd5_720p/chunklist.m3u8
-#EXTINF:-1,BEIN SPORT 6
-https://cdn-center.livestream-cdn.com/sporttrue/bein_sports_6_720p.stream/media-uo3k1y9yp_1408.m3u8
-#EXTINF:-1,TRUE SPORT HD 1
-http://main-a.for-our.info:8081/tv11/sporthd1/chunks.m3u8
-#EXTINF:-1,TRUE SPORT HD 2
-http://main-a.for-our.info:8081/tv11/sporthd2/chunks.m3u8
-#EXTINF:-1,TRUE SPORT HD 3
-http://main-a.for-our.info:8081/tv11/sporthd3/chunks.m3u8
-#EXTINF:-1,TRUE SPORT HD 4
-http://128.199.155.69:2200/HD2live-S3/hd-tsport4.stream/chunklist.m3u8
-#EXTINF:-1,FOX SPORT 1
-http://main-a.for-our.info:8081/tv11/fox1/chunks.m3u8
-#EXTINF:-1,FOX SPORT 2
-http://main-a.for-our.info:8081/tv11/fox2/chunks.m3u8
-#EXTINF:-1,FOX SPORT 3
-http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
-#EXTINF:-1,TRUE SPORT HD 1
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/229.m3u8
-#EXTINF:-1,TRUE SPORT HD 2
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/230.m3u8
-#EXTINF:-1,TRUE SPORT HD 3
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/231.m3u8
-#EXTINF:-1,TRUE SPORT HD 4
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/232.m3u8
-#EXTINF:-1,T SPORT
-http://iheart-totiptv.better-than.tv:8080/iheart/3ee1e656d6ae417a914743328d44f20f.m3u8?s=ce83e24cd50c9ecb4361805c159df151
-#EXTINF:-1,SMM TV
-http://edge4-bkk.3bb.co.th:1935/SMMTV_Livestream/smmtv_high.stream/playlist.m3u8
-#EXTINF:-1,Skynet SPORT HD
-http://191.96.38.54:19358/footballfuck/0x777_skynetsporthd_720p/playlist.m3u8
-#EXTINF:-1,Skynet SPORT 1
-http://191.96.38.54:19358/footballfuck/00_skynetsport1_480p/playlist.m3u8
-#EXTINF:-1,Skynet SPORT 2
-http://191.96.38.54:19358/footballfuck/00_skynetsport2_480p/playlist.m3u8
-#EXTINF:-1,Skynet SPORT 3
-http://191.96.38.54:19358/footballfuck/00_skynetsport3_480p/playlist.m3u8
-#EXTINF:-1,Skynet SPORT 4
-http://191.96.38.54:19358/footballfuck/00_skynetsport4_480p/playlist.m3u8
-#EXTINF:-1,Skynet SPORT 5
-http://191.96.38.54:19358/footballfuck/00_skynetsport5_480p/playlist.m3u8
-#EXTINF:-1,Skynet SPORT 6
-http://191.96.38.54:19358/footballfuck/00_skynetsport6_480p/playlist.m3u8
-#EXTINF:-1,Motorvision
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/188.m3u8
-#EXTINF:-1,BT Sport ESPN
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/163.m3u8
-#EXTINF:-1,BT Sport 1
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/160.m3u8
-#EXTINF:-1,BT Sport 2
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/161.m3u8
-#EXTINF:-1,BT Sport 3
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/162.m3u8
-#EXTINF:-1,EURO SPORT 1
-http://65.254.55.10:4000/live/197/197.m3u8
-#EXTINF:-1,EURO SPORT 2
-http://ssl2.sakkarinsai8.com:19358/footballfuck/0x444_eurosport2pl_360p/playlist.m3u8
-#EXTINF:-1,DUBAI RACING
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,DUBAI Sport 1
-http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
-#EXTINF:-1,DUBAI Sport 2
-http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
-#EXTINF:-1,Abu Dhabi 1
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,Abu Dhabi 2
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8?v=2734522597
-#EXTINF:-1,Abu Dhabi 3
-http://adtv.ercdn.net/adsportextra/adsportextra_480p.m3u8?v=2590751696
-#EXTINF:-1,Motor GP
-http://sg.doohdbox.com:8080/skymotor/mono.m3u8
-#EXTINF:-1,Sk Sport Football
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/208.m3u8
-#EXTINF:-1,Sky Sport F1
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/207.m3u8
-#EXTINF:-1,Sky Sport Premiere
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/213.m3u8
-#EXTINF:-1,Sky Sport Action
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/204.m3u8
-#EXTINF:-1,Arena Sport 1
-http://139.99.9.49:8084/iptvhero-inter/arenasport1.stream/chunks.m3u8
-#EXTINF:-1,Arena Sport 2
-http://139.99.9.49:8084/iptvhero-inter/arenasport2.stream/chunks.m3u8
-#EXTINF:-1,Arena Sport 3
-http://139.99.9.49:8084/iptvhero-inter/arenasport3.stream/chunks.m3u8
-#EXTINF:-1,Arena Sport 4
-http://139.99.9.49:8084/iptvhero-inter/arenasport4.stream/chunks.m3u8
-#EXTINF:-1,Arena Sport 5
-http://139.99.9.49:8084/iptvhero-inter/arenasport5.stream/chunks.m3u8
-#EXTINF:-1,Redbull HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1,SABUYDEE TV
 http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:-1,YOU CHANNEL
@@ -432,54 +332,6 @@ http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/pptvhd.smil/chunklist
 http://103.212.181.21:8080/hdlive/9623847065ba466e90632cf686fade0b.m3u8
 #EXTINF:-1  tvg-logo="http://www.thaiptv.com/img/samrojlok.jpg", Samrujlok
 http://ssl2.sakkarinsai8.com:19358/footballfuck/0x222_monoplus_720p/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN1Thai.png",Bein Sport 1
-http://139.99.38.2:443/epl-bein1_1080/index.m3u8
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN1Thai.png",Bein Sport 1
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/7.m3u8
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN1Thai.png",Bein Sport 1
-http://iptvthai.webhop.biz:443/epl-bein1_720/index.m3u8?
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN2Thai.png",Bein Sport 2
-http://139.99.38.2:443/epl-bein2_1080/index.m3u8
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN2Thai.png",Bein Sport 2
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/150.m3u8
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN2Thai.png",Bein Sport 2
-http://iptvthai.webhop.biz:443/epl-bein2_720/index.m3u8?
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN3Thai.png",Bein Sport 3
-http://139.99.38.3:443/epl-bein3_1080/index.m3u8
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN3Thai.png",Bein Sport 3
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/8.m3u8
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN3Thai.png",Bein Sport 3
-http://iptvthai.webhop.biz:443/epl-bein3_720/index.m3u8?
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN4Thai.png",Bein Sport 4
-http://139.99.38.2:443/epl-bein4_1080/index.m3u8
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN4Thai.png",Bein Sport 4
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/155.m3u8
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN4Thai.png",Bein Sport 4
-http://iptvthai.webhop.biz:443/epl-bein4_720/index.m3u8?
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN5Thai.png",Bein Sport 5
-http://ssl2.sakkarinsai8.com:19358/footballfuck/0x222_beinsporthd5_720p/chunklist.m3u8?
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/beIN6Thai.png",Bein Sport 6
-https://cdn-center.livestream-cdn.com/sporttrue/bein_sports_6_720p.stream/media-uo3k1y9yp_1408.m3u8?
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd.png",True Sport HD1
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/229.m3u8
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd.png",True Sport HD1
-http://iptvthai.webhop.biz:443/hd-tsport1_720/index.m3u8?
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd.png",True Sport HD1
-http://ssl2.sakkarinsai8.com:19358/footballfuck/0x777_2sporthd1_720p/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd2.png",True Sport HD2
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/230.m3u8
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd2.png",True Sport HD2
-http://iptvthai.webhop.biz:443/hd-tsport2_720/index.m3u8?
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd2.png",True Sport HD2
-http://ssl2.sakkarinsai8.com:19358/footballfuck/0x777_2sporthd2_720p/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd3.png",True Sport HD3
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/231.m3u8
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd3.png",True Sport HD3
-http://iptvthai.webhop.biz:443/hd-tsport3_720/index.m3u8?
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd3.png",True Sport HD3
-http://ssl2.sakkarinsai8.com:19358/footballfuck/0x777_2sporthd3_720p/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.lineballsod.com/chanel/icon/truesporthd3.png",True Sport HD4
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/232.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic
 http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_th/chunks.m3u8?
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic
@@ -1538,10 +1390,6 @@ http://live-tx-hdl.huomaotv.cn/flvtx.plu.cn/onlive/e65e81838bdf45ecbff40bc7318bb
 #EXTINF:-1,Food Network 
 http://94.46.245.190:8000/play/a01u 
 
-#EXTINF:-1,BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8
-#EXTINF:-1,BBC TWO
-https://ovh.easyview.eu/hls/bbc2.m3u8
 
 #EXTINF:-1,movie24
 rtmp://tv01.thaizatv.com/drm/movie1
@@ -2573,8 +2421,6 @@ http://81.200.50.5/hls/Erox_nejtv_portable_low.m3u8
 
 #EXTINF:-1,XXX18+_nuart tv
 http://82.209.207.119:8905/play/a00l?m3u8
-#EXTINF:-1,nuart tv
-https://dmlive.vo.llnwd.net/dm/3/x5b99vx/live.m3u8
 #EXTINF:-1,XXX18+
 http://86.57.182.131:8905/play/a00l?m3u8
 

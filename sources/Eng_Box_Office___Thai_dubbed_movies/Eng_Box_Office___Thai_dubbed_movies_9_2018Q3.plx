@@ -91,13 +91,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ap6Vqfw2VYHpLnijxCDJq0L8Uu
 date=2018-09-25
 URL=https://openload.co/f/eWuh3hFh4-A/London_Fields_2018_720p_RUS_TS_ENG_SUB-1XBET_SeeHD.mp4
 
-type=video
-name=Eighth Grade (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg
-date=2018-09-25
-URL=https://openload.co/f/slZsZ5QATxI/eight.grade.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4
-#https://openload.co/f/3RS8iQrtbts/eight.grade.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/GzutIvlSKyU/Eighth.Grade.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+
 
 type=video
 name=A Simple Favor (2018) ENG NEW_720p_TS-1XBET_SeeHD
@@ -1333,7 +1327,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-28
+date=2018-09-29
 URL=
 
 
@@ -1341,6 +1335,24 @@ URL=
 
 
 
+
+type=video
+name=Won't You Be My Neighbor? (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qE8NZjiP2M884baH0VoLF828Vp.jpg
+date=2018-09-29
+URL=https://openload.co/f/yRU3gRSB3I8/Wont.You.Be.My.Neighbor2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=Red Army Hooligans (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pN4MILFoeDmzhQzuzUXxVtDoYnK.jpg
+date=2018-09-29
+URL=https://openload.co/f/oc2lgp2zgN4/red.army.hooligans.2018.1080p.bluray.x264-rusted.mkv.mp4
+
+type=video
+name=Adrenochrome (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GFJjMyXhjozwwB89FWqEHYqpYz.jpg
+date=2018-09-29
+URL=https://openload.co/f/EDKe4meYxIY/misirlou.2017.1080p.bluray.x264-justwatch.mkv.mp4
 
 type=video
 name=Toilet - Ek Prem Katha (2017) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
@@ -1356,12 +1368,14 @@ URL=https://uptobox.com/7ead2a0jdeme
 #https://www.rapidvideo.com/e/FVPOZV7Z0R
 #https://openload.co/embed/qEsJQG0Xh4Y/GHPLEAVENOTRACE80.Ganol.st.mkv
 #https://openload.co/f/T4-0M-cIzY8/Leave_No_Trace_%282018%291080p_BluRay_x264-SAPHiRE.Ganool.mkv.mp4
+#https://openload.co/f/J1WvVU3KyS0/Leave.No.Trace.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Don't Worry, He Won't Get Far on Foot (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKsiN37qMt8jad5GikZzSeevyI9.jpg
 date=2018-09-28
 URL=https://openload.co/f/TbA0ksOoXgg/Dont.Worry.He.Wont.Get.Far.On.Foot.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/U407LBe8w64/dont.worry.he.wont.get.far.on.foot.2018.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/RRk9jUf7388/dont.worry.he.wont.get.far.on.foot.2018.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/SSqUiQScQKY/Don%E2%80%99t_Worry%2C_He_Won%E2%80%99t_Get_Far_on_Foot_%282018%29BluRay.720p.Ganool.mkv.mp4
 #https://uptobox.com/3q5wcej0iwkb   720
@@ -6289,6 +6303,18 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjT70BYtU4YhLM4iFDG6Ba8BMp
 date=2018-09-26
 URL=https://openload.co/f/BmfMnC1L500/Tales.from.the.Hood.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
+type=video
+name=Eighth Grade (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg
+date=2018-09-29
+URL=https://openload.co/f/SxHFbWhwkVc/Eighth.Grade.2018.720p.BRRip.x264.mkv.mp4
+#https://openload.co/f/slZsZ5QATxI/eight.grade.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/3RS8iQrtbts/eight.grade.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/GzutIvlSKyU/Eighth.Grade.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+
+
+
+
 
 
 
@@ -9619,6 +9645,7 @@ URL=https://uptobox.com/8vof6opglarq
 #https://openload.co/f/vhCbqGHrUJg/Skyscraper.2018.1080p.BluRay.H264.AAC-RARBG_21CNPX.mp4
 #https://openload.co/f/fapXix-LABI/Skyscraper_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
 #https://openload.co/f/jICOBL7Oguw/skyscraper.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/z5or_cRIkYo/Skyscraper.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/Dfdmhkc7aJY/Skyscraper.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/OT5IoUA3UaU/skyscraper.2018.720p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/P6n2XdeKVK8/Skyscraper.2018.720p.BluRay.x264-SPARKS.mkv.mp4
