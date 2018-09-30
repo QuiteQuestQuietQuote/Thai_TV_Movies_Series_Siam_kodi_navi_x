@@ -2474,6 +2474,8 @@ http://213.59.128.162:9996/play/Hustler_HD/index.m3u8
 http://213.59.128.162:9996/play/Playboy/index.m3u8
 #EXTINF:-1,Pink_O_TV_play
 http://213.59.128.162:9996/play/Pink_O_TV/index.m3u8
+#EXTINF:-1,Passion_play
+http://213.59.128.162:9996/play/Passion_XXX/index.m3u8
 
 #EXTINF:-1,CANDY_tv159
 http://91.204.136.139:8080/tv159/index.m3u8
@@ -3183,8 +3185,6 @@ http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/558/inde
 http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News US HD
 https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_boxtv
-http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/wnfjf1pn/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_hd
 http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_electric

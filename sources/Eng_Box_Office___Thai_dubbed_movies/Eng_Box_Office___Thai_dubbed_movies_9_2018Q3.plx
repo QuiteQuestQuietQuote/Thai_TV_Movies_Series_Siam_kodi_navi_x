@@ -76,7 +76,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-25
+date=2018-09-30
 URL=
 
 
@@ -84,6 +84,22 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=Smallfoot (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nKoB6wMVXfsYgRZK5lHZ5VMQ6J.jpg
+date=2018-09-30
+URL=https://openload.co/f/iZDs99VvCC8/Smallfoot_2018_720p_HDCAM-1XBET_SeeHD.mp4
+
+type=video
+name=Hell Fest (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tjyPwIqeYzho7fHWqBKIn2gyWg.jpg
+date=2018-09-30
+URL=https://openload.co/f/ar5jfgUtWA8/Hellfest_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
 type=video
 name=London Fields (2018) RUS 720p_RUS_TS_ENG_SUB-1XBET_SeeHD
@@ -1327,7 +1343,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-29
+date=2018-09-30
 URL=
 
 
@@ -1335,6 +1351,26 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=Aliens Ate My Homework (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SlQPLBhaB7EF3FlEgcjtMIZ7WK.jpg
+date=2018-09-30
+URL=https://openload.co/f/QIRzYqkKcGM/Aliens.Ate.My.Homework.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=The Tribes of Palos Verdes (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w4JecmVtqcSMk4mdiHURzISsYz.jpg
+date=2018-09-30
+URL=https://openload.co/f/xKovf0ZW0JM/The.Tribes.Of.Palos.Verdes.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://uptobox.com/8oc8er2oomlk   720
+#https://openload.co/f/KMeG_4C-jUU/The.Tribes.of.Palos.Verdes.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/1EJiV70RPro/The.Tribes.of.Palos.Verdes.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/M6r-cHT1VtI/The.Tribes.of.Palos.Verdes.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
 
 type=video
 name=Won't You Be My Neighbor? (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1347,12 +1383,14 @@ name=Red Army Hooligans (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pN4MILFoeDmzhQzuzUXxVtDoYnK.jpg
 date=2018-09-29
 URL=https://openload.co/f/oc2lgp2zgN4/red.army.hooligans.2018.1080p.bluray.x264-rusted.mkv.mp4
+#https://openload.co/f/tAKboLgSFp4/Red.Army.Hooligans.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Adrenochrome (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GFJjMyXhjozwwB89FWqEHYqpYz.jpg
-date=2018-09-29
-URL=https://openload.co/f/EDKe4meYxIY/misirlou.2017.1080p.bluray.x264-justwatch.mkv.mp4
+date=2018-09-30
+URL=https://openload.co/f/ehnwfnAksiQ/Adrenochrome.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/EDKe4meYxIY/misirlou.2017.1080p.bluray.x264-justwatch.mkv.mp4
 
 type=video
 name=Toilet - Ek Prem Katha (2017) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
@@ -1377,6 +1415,7 @@ date=2018-09-28
 URL=https://openload.co/f/TbA0ksOoXgg/Dont.Worry.He.Wont.Get.Far.On.Foot.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/U407LBe8w64/dont.worry.he.wont.get.far.on.foot.2018.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/RRk9jUf7388/dont.worry.he.wont.get.far.on.foot.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/zJSsvuVX-p4/Dont.Worry%2C.He.Wont.Get.Far.On.Foot.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/SSqUiQScQKY/Don%E2%80%99t_Worry%2C_He_Won%E2%80%99t_Get_Far_on_Foot_%282018%29BluRay.720p.Ganool.mkv.mp4
 #https://uptobox.com/3q5wcej0iwkb   720
 #https://www.rapidvideo.com/e/FVPTE71TON   720
@@ -5594,14 +5633,7 @@ URL=https://www.blazefile.co/embed-f955jazvz1gb.html
 #https://openload.co/f/-S34pGyo0iA/Gone.Are.the.Days.2018.720p.BR_SeeHD.mp4
 #https://openload.co/f/WfT4zdDnpyE/Gone.Are.the.Days.2018.BluRay.720p.DTS.x264-MTeam.mkv.mp4
 
-type=video
-name=The Tribes of Palos Verdes (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w4JecmVtqcSMk4mdiHURzISsYz.jpg
-date=2018-04-04
-URL=https://uptobox.com/8oc8er2oomlk
-#https://openload.co/f/KMeG_4C-jUU/The.Tribes.of.Palos.Verdes.2017.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/1EJiV70RPro/The.Tribes.of.Palos.Verdes.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
-#https://openload.co/f/M6r-cHT1VtI/The.Tribes.of.Palos.Verdes.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+
 
 type=video
 name=Old Stone (2016) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
@@ -6306,8 +6338,12 @@ URL=https://openload.co/f/BmfMnC1L500/Tales.from.the.Hood.2.2018.720p.BluRay.H26
 type=video
 name=Eighth Grade (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg
-date=2018-09-29
-URL=https://openload.co/f/SxHFbWhwkVc/Eighth.Grade.2018.720p.BRRip.x264.mkv.mp4
+date=2018-09-30
+URL=https://uptobox.com/3awk1osvmfea
+#https://www.rapidvideo.com/e/FVRECJV1C8
+#https://openload.co/embed/C27fPnLL64w/SHQEIDGTGRADEBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/c_n1vXx3Y2A/Eighth_Grade_%282018%29720p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/SxHFbWhwkVc/Eighth.Grade.2018.720p.BRRip.x264.mkv.mp4
 #https://openload.co/f/slZsZ5QATxI/eight.grade.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4
 #https://openload.co/f/3RS8iQrtbts/eight.grade.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 #https://openload.co/f/GzutIvlSKyU/Eighth.Grade.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
@@ -6816,7 +6852,7 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-09-28
+date=2018-09-30
 URL=
 
 
@@ -6825,6 +6861,16 @@ URL=
 
 
 
+type=video
+name=Hold the Dark (2018) ENG 1080p.NF.WEB-DL.DDP5.1.x264-NTG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1etEySwZQnBJpzgplgadPi5y4PL.jpg
+date=2018-09-30
+URL=https://openload.co/f/5N9Y6SHf64s/Hold.the.Dark.2018.1080p.NF.WEB-DL.DDP5.1.x264-NTG_SeeHD.mkv.mp4
+type=video
+name=Hold the Dark (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1etEySwZQnBJpzgplgadPi5y4PL.jpg
+date=2018-09-30
+URL=https://openload.co/f/U5bZk9gt158/Hold_the_Dark_%282018%29Hold_the_Dark_%282018%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -7098,11 +7144,12 @@ URL=https://streamango.com/f/lqscttqqrpqaoorc/Upgrade_2018_
 
 
 type=video
-name=Dead Shack (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Dead Shack (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjhl7lzyUDVj5pvJSFSN6JvSWOW.jpg
-date=2018-08-07
-URL=https://uptobox.com/2zlziygtdb9i
-#https://www.rapidvideo.com/e/FU160JJAW1
+date=2018-09-30
+URL=https://openload.co/f/SLVPB_3uP1I/Dead.Shack.2017.1080p.BR_SeeHD.mp4
+#https://uptobox.com/2zlziygtdb9i   720
+#https://www.rapidvideo.com/e/FU160JJAW1   720
 #https://openload.co/embed/kqe9awnmfTE/DEADSHACKBD72.Ganol.ru.mkv.mp4
 type=video
 name=Dead Shack (2017) THSUB
@@ -9221,11 +9268,17 @@ URL=https://streamango.com/f/nlcqdoenraatbppm/The_Strangers_Prey_at_Night_2018_
 
 
 type=video
-name=Anon (2018) ENG 720p.web.x264-strife_SeeHD
+name=Anon (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIST7FwpELT1SXR3cVSy5JoOSby.jpg
-date=2018-05-05
-URL=https://openload.co/f/_7TdU2KCmvw/anon.2018.720p.web.x264-strife_SeeHD.mkv.mp4
+date=2018-09-30
+URL=https://openload.co/f/wWqvx32dyfg/Anon.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/iMAIshdx9FQ/Anon_%282018%29720p_BluRay_x264-Felony.Ganool.mkv.mp4
+#https://openload.co/f/2qsSQDuidVY/Anon.2018.720p.BRRip.x264.mkv.mp4
+#https://openload.co/f/_7TdU2KCmvw/anon.2018.720p.web.x264-strife_SeeHD.mkv.mp4
 #https://openload.co/f/ldcELkiTR-8/Anon.2018.720p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://uptobox.com/1fb7ov2it16e   720
+#https://www.rapidvideo.com/e/FVRIEPYD18   720
+#https://openload.co/embed/uBEsyuAAMdg/ANONBD72.Ganol.st.mkv
 type=video
 name=Anon (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIST7FwpELT1SXR3cVSy5JoOSby.jpg
@@ -9665,8 +9718,9 @@ URL=https://uptobox.com/8vof6opglarq
 type=video
 name=Skyscraper (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
-date=2018-09-27
-URL=https://openload.co/f/qvy83YHhrew/Skyscraper_%282018%29%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%9F%E0%B9%89%E0%B8%B2.mp4
+date=2018-09-30
+URL=https://openload.co/f/oPp_tzpCV2Y/Skyscraper_%282018%29%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%9F%E0%B9%89%E0%B8%B2.mp4
+#https://openload.co/f/qvy83YHhrew/Skyscraper_%282018%29%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%9F%E0%B9%89%E0%B8%B2.mp4
 #https://streamango.com/f/oasonmnbklbmkpbr/Skyscraper_2018_
 #https://streamango.com/f/aqqabkkkdlekfmrq/Skyscraper_2018_
 
