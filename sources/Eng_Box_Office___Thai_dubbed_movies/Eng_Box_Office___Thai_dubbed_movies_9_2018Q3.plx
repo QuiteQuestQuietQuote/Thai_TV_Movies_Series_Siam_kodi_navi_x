@@ -1343,7 +1343,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-30
+date=2018-10-02
 URL=
 
 
@@ -1354,7 +1354,21 @@ URL=
 
 
 
-
+type=video
+name=Eighth Grade (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg
+date=2018-10-02
+URL=https://openload.co/f/ZrI0R82vN_I/Eighth_Grade_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://www.rapidvideo.com/e/FVTNWO2VB0
+#https://openload.co/embed/10V4drvIHrg/GHPEIDHGTGRADE80.Ganol.st.mkv.mp4
+#https://uptobox.com/3awk1osvmfea   720
+#https://www.rapidvideo.com/e/FVRECJV1C8   720
+#https://openload.co/embed/C27fPnLL64w/SHQEIDGTGRADEBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/c_n1vXx3Y2A/Eighth_Grade_%282018%29720p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/SxHFbWhwkVc/Eighth.Grade.2018.720p.BRRip.x264.mkv.mp4
+#https://openload.co/f/slZsZ5QATxI/eight.grade.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/3RS8iQrtbts/eight.grade.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/GzutIvlSKyU/Eighth.Grade.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 
 type=video
 name=Aliens Ate My Homework (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4224,6 +4238,7 @@ name=Cold Skin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/65qvQ13CoNxIYHvxGXWFtKc93sX.jpg
 date=2018-02-09
 URL=https://openload.co/f/zKBMJ3p-y0M/Cold.Skin.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/CED07Fs45xU/Cold.Skin.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/r9ner3SJ0EU/Cold.Skin.2017.720p.Br_SeeHD.mp4
 #https://openload.co/f/lympTi6U3sc/Cold_Skin.2017.dvdrip.x264-spooks_SeeHD.mkv.mp4
 #https://openload.co/f/7ywKmj1Cbso/Atlantida.2O17.D.TS.14OOMB_KOSHARA.E.mp4
@@ -6336,17 +6351,10 @@ date=2018-09-26
 URL=https://openload.co/f/BmfMnC1L500/Tales.from.the.Hood.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
-name=Eighth Grade (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg
-date=2018-09-30
-URL=https://uptobox.com/3awk1osvmfea
-#https://www.rapidvideo.com/e/FVRECJV1C8
-#https://openload.co/embed/C27fPnLL64w/SHQEIDGTGRADEBD72.Ganol.st.mkv.mp4
-#https://openload.co/f/c_n1vXx3Y2A/Eighth_Grade_%282018%29720p_BluRay_x264-DRONES.Ganool.mkv.mp4
-#https://openload.co/f/SxHFbWhwkVc/Eighth.Grade.2018.720p.BRRip.x264.mkv.mp4
-#https://openload.co/f/slZsZ5QATxI/eight.grade.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4
-#https://openload.co/f/3RS8iQrtbts/eight.grade.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/GzutIvlSKyU/Eighth.Grade.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+name=Dogman (2018) [COLOR=FF00FF00]ITA BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzCkOIvxgVTsE9EbRW9mojN4MYP.jpg
+date=2018-10-02
+URL=https://openload.co/f/i3g3GQbE56o/Dogman_2018_EngSub_720p_BluRay.mp4
 
 
 
@@ -6359,7 +6367,7 @@ URL=https://uptobox.com/3awk1osvmfea
 type=video
 name=
 thumb=
-date=2018-09-26
+date=2018-10-02
 URL=
 
 type=video
@@ -6437,6 +6445,11 @@ date=
 URL=http://live.cgtn.com/cctv-d.m3u8
 #http://113.177.63.140:4022/rtp/232.84.1.115:10236
 #http://183.88.212.205:8010/play/a02z
+
+
+
+
+
 
 
 
@@ -6658,10 +6671,12 @@ URL=https://streamango.com/f/dfqbdqfrceeleplc/Hotel_Artemis_2018_
 
 
 type=video
-name=The Darkest Minds (2018) ENG HDCAM_SeeHD
+name=The Darkest Minds (2018) ENG 720p.WEB-DL.H264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg
-date=2018-08-06
-URL=https://openload.co/f/8JBLH1I3I5w/The_Darkest_Minds_2018_HDCAM_SeeHD.mkv.mp4
+date=2018-10-02
+URL=https://openload.co/f/YyE3DKncETM/Darkest.Minds.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/RGwPLK5iiNI/The.Darkest.Minds.2018.720p.WEBRip.mkv.mp4
+#https://openload.co/f/8JBLH1I3I5w/The_Darkest_Minds_2018_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/77_TOO9MDnA/The.Darkest.Minds.2018.HDCAM-NO.WATERMARK.mp4
 #https://openload.co/f/nam9pW6U36A/The_Darkest_Minds_2018_HDCAM-1XBET.mp4
 type=video
@@ -6704,10 +6719,13 @@ URL=https://streamango.com/f/rsldanklbtskknbq/Future_World_2018_
 
 
 type=video
-name=Ant-Man and the Wasp (2018) ENG NEW.RESYNCED.HDTC.XviD.B4ND1T69_SeeHD
+name=Ant-Man and the Wasp (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv1AWImgx386ULjcf62VYaW8zSt.jpg
-date=2018-09-10
-URL=https://openload.co/f/z_HwaxMLBMY/Ant-Man.and.The.Wasp.2018.NEW.RESYNCED.HDTC.XviD.B4ND1T69_SeeHD.avi.mp4
+date=2018-10-02
+URL=https://openload.co/f/CSm0t_-HERY/Ant.Man.and.the.Wasp.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/s4AeoMPRc1o/AntmanWasp720Phd_SeeHD.mkv.mp4
+#https://openload.co/f/Rp_sTMYPSko/Ant-man_And_The_Wasp_2018_720p_HDRip_SeeHD.mkv.mp4
+#https://openload.co/f/z_HwaxMLBMY/Ant-Man.and.The.Wasp.2018.NEW.RESYNCED.HDTC.XviD.B4ND1T69_SeeHD.avi.mp4
 #https://openload.co/f/xmTtoov4gpQ/Ant-Man.and.The.Wasp.2018.NEW.720p.HD-TC.V2.1XBET.mp4
 #https://openload.co/f/PKlB9UmJWxc/Ant-Man.and.the.Wasp.2018.HDCAM.V.2.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/85MaoyjQMqU/AntMan.and.The.Wasp.2018.PROPER.HDTC.XviD-SHiVA.avi.mp4
@@ -6852,13 +6870,25 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-09-30
+date=2018-10-02
 URL=
 
 
 
 
 
+
+
+type=video
+name=The Land of Steady Habits (2018) ENG 1080p.NF.WEBRip.DDP5.1.x264-PiA
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2cdubbzgDBIVG8lELeQUq50qiZ.jpg
+date=2018-10-02
+URL=https://openload.co/f/N8EqVFNPfG0/The.Land.of.Steady.Habits.2018.1080p.NF.WEBRip.DDP5.1.x264-PiA.mkv.mp4
+type=video
+name=The Land of Steady Habits (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2cdubbzgDBIVG8lELeQUq50qiZ.jpg
+date=2018-10-02
+URL=https://openload.co/f/q1hqkqhPYXE/The_Land_of_Steady_Habits_%282018%29%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%84%E0%B8%87_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -7331,11 +7361,15 @@ URL=https://streamango.com/f/ostctobsabnkfkeb/Father_of_the_Year_2018_
 
 
 type=video
-name=A Prayer Before Dawn (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=A Prayer Before Dawn (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/73KrcLh1DpnBP3HwGpqoUUwKWF4.jpg
-date=2018-09-28
-URL=https://uptobox.com/ipsytgj7mvu0
-#https://www.rapidvideo.com/e/FVPP0B54OG
+date=2018-10-02
+URL=https://uptobox.com/7wv8ryajqk6s
+#https://www.rapidvideo.com/e/FVTNUFU6G6
+#https://openload.co/embed/Yan0oQ4HfDQ/GHPAPRAYERBEFOREDAWN80.Ganol.st.mkv
+#https://openload.co/f/DLdZdIe00F0/A_Prayer_Before_Dawn_%282017%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://uptobox.com/ipsytgj7mvu0   720
+#https://www.rapidvideo.com/e/FVPP0B54OG   720
 #https://openload.co/embed/nxDzU-ej6Po/SHQAPRAYERBEFOREDAWNWEB72.Ganol.ru.mkv.mp4
 #https://openload.co/f/_O2v_i6X59M/A_Prayer_Before_Dawn_%282017%29720p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
 #https://openload.co/f/opTs4Z5EliM/A.Prayer.Before.Dawn.2017.720p.BRRip.X264.AC3-EVO.mkv.mp4
@@ -8640,20 +8674,7 @@ date=2017-11-19
 URL=https://openload.co/f/JwY0AqV5rPQ/Brigsby_Bear_%282017%29%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%AA%E0%B8%9A%E0%B8%B5%E0%B9%89_%E0%B9%81%E0%B8%9A%E0%B8%A3%E0%B9%8C_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
-type=video
-name=Brawl in Cell Block 99 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
-date=2017-12-28
-URL=https://uptobox.com/w5wytjigcoqw
-#https://openload.co/f/nolvaU5ZQNA/Brawl_In_Cell_Block_99_%282017%29.1080p.BluRay_x264-%5BYTS_AG%5D_mp4
-#https://openload.co/f/-CHm5KLFBCo/Brawl.in.Cell.Block.99.2017.1080p.BluRay.x264.DTS.-.Hon3y.mkv.mp4
-#https://openload.co/f/am4891uFxJ4/Brawl.in.Cell.Block.99.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
-#https://openload.co/f/aT6jWYPHnBk/Brawl.in.Cell.Block.99.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
-type=video
-name=Brawl in Cell Block 99 (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
-date=2017-11-19
-URL=https://openload.co/f/g-h3yWNgLC8/Brawl_in_Cell_Block_99_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
+
 
 
 type=video
@@ -8980,6 +9001,17 @@ URL=
 
 
 
+type=video
+name=Final Score (2018) ENG 1080p.HDTV.x264-PLUTONiUM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jawqGBrUOHyXSyT7HknITUnL98.jpg
+date=2018-10-02
+URL=https://openload.co/f/y2kzjVUEXsI/Final.Score.2018.1080p.HDTV.x264-PLUTONiUM.mkv.mp4
+type=video
+name=Final Score (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jawqGBrUOHyXSyT7HknITUnL98.jpg
+date=2018-10-02
+URL=https://openload.co/f/K4joqrl2EDA/Final_Score_%282018%29%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%9C%E0%B8%99_%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%95%E0%B8%8A%E0%B9%8C%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
 
 type=video
 name=The First Purge (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -9272,6 +9304,7 @@ name=Anon (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIST7FwpELT1SXR3cVSy5JoOSby.jpg
 date=2018-09-30
 URL=https://openload.co/f/wWqvx32dyfg/Anon.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/fdjn_03BDJk/Anon.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/iMAIshdx9FQ/Anon_%282018%29720p_BluRay_x264-Felony.Ganool.mkv.mp4
 #https://openload.co/f/2qsSQDuidVY/Anon.2018.720p.BRRip.x264.mkv.mp4
 #https://openload.co/f/_7TdU2KCmvw/anon.2018.720p.web.x264-strife_SeeHD.mkv.mp4
@@ -9680,12 +9713,47 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=
 thumb=
-date=2018-09-20
+date=2018-10-02
 URL=
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Brawl in Cell Block 99 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
+date=2017-12-28
+URL=https://uptobox.com/w5wytjigcoqw
+#https://openload.co/f/nolvaU5ZQNA/Brawl_In_Cell_Block_99_%282017%29.1080p.BluRay_x264-%5BYTS_AG%5D_mp4
+#https://openload.co/f/-CHm5KLFBCo/Brawl.in.Cell.Block.99.2017.1080p.BluRay.x264.DTS.-.Hon3y.mkv.mp4
+#https://openload.co/f/am4891uFxJ4/Brawl.in.Cell.Block.99.2017.720p.WEB-DL.XviD.AC3-FGT.avi.mp4
+#https://openload.co/f/aT6jWYPHnBk/Brawl.in.Cell.Block.99.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
+type=video
+name=Brawl in Cell Block 99 (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfB1J6jsjdGWKjXxKQ5hNd1OyAs.jpg
+date=2018-10-02
+URL=https://openload.co/f/xASsRhW8voE/Brawl_in_Cell_Block_99_%282017%29%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94_%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%94%E0%B8%99.mp4
+#https://openload.co/f/g-h3yWNgLC8/Brawl_in_Cell_Block_99_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
 
 
 type=video
@@ -9734,8 +9802,9 @@ URL=https://openload.co/f/AgT4rDazPUo/Billionaire.Boys.Club.2018.720p.WEB_DL.Mkv
 type=video
 name=Billionaire Boys Club (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwyXIzlHGkdMlpWSierm0MApmsN.jpg
-date=2018-09-27
-URL=https://openload.co/f/i_ToZpuXQY8/Billionaire_Boys_Club_%282018%29%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%A3%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0.mp4
+date=2018-10-02
+URL=https://openload.co/f/x09aXHh5yvQ/Billionaire_Boys_Club_%282018%29%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%A3%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0.mp4
+#https://openload.co/f/i_ToZpuXQY8/Billionaire_Boys_Club_%282018%29%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%A3%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0.mp4
 
 
 type=video
@@ -9750,8 +9819,9 @@ URL=https://www.blazefile.co/embed-c30l73cf9dkh.html
 type=video
 name=Submergence (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYhm5wpUdKSWHybNS5953q8r6jk.jpg
-date=2018-09-27
-URL=https://openload.co/f/hp7r4klLxtg/Submergence_%282018%29%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B9%E0%B8%88%E0%B8%99%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
+date=2018-10-02
+URL=https://openload.co/f/GEAeerOh2CM/Submergence_%282018%29%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B9%E0%B8%88%E0%B8%99%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
+#https://openload.co/f/hp7r4klLxtg/Submergence_%282018%29%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B9%E0%B8%88%E0%B8%99%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
 
 
 type=video
@@ -11231,7 +11301,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-09-28
+date=2018-10-02
 URL=
 
 
@@ -11240,6 +11310,44 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+type=video
+name=Get Hard (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRzUSrN4p6B7fzA5XGm4ebFg3co.jpg
+date=2018-10-02
+URL=https://openload.co/f/67q1jVJJ_eY/Get.Hard.2015.1080p.BR_SeeHD.mp4
+
+type=video
+name=Ride Along (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLXPcxZ1fJjxqUg94FFb8wwM9YN.jpg
+date=2018-10-02
+URL=https://openload.co/f/QZR6pQrxOLM/Ride.Along.2014.1080p.BR_SeeHD.mp4
+
+type=video
+name=Ant-Man (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/D6e8RJf2qUstnfkTslTXNTUAlT.jpg
+date=2018-10-02
+URL=https://openload.co/f/b688MItlBcI/Ant-Man.2015.1080p.BR_SeeHD.mp4
+
+type=video
+name=Thor (2011) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIuOWTtyFPjsFDevqvF3QrD1aun.jpg
+date=2018-10-02
+URL=https://openload.co/f/3RGuz8qDIPw/Thor_%282011%291080p_PROPER_BluRay_x264-MOOVEE.Ganool.mkv.mp4
+
+type=video
+name=Thor: The Dark World (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnX5PqAdQZRXSw3aX3DutDcdso5.jpg
+date=2018-10-02
+URL=https://openload.co/f/JYcBtjhTMcQ/Thor%3A_The_Dark_World_%282013%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
 
 type=video
 name=28 Weeks Later (2007) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
