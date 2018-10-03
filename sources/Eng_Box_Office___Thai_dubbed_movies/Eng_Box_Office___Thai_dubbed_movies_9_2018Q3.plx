@@ -6356,7 +6356,14 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzCkOIvxgVTsE9EbRW9mojN4MY
 date=2018-10-02
 URL=https://openload.co/f/i3g3GQbE56o/Dogman_2018_EngSub_720p_BluRay.mp4
 
-
+type=video
+name=Death Race 4: Beyond Anarchy (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PrlKvPUbDQAqFQBCyyt68hLLl.jpg
+date=2018-10-03
+URL=https://uptobox.com/hhnf0p4vcz2b
+#https://www.rapidvideo.com/e/FVV0RGD3NI
+#https://openload.co/embed/3_wAFw-tMUQ/DEATHRACE4ANACHYBD72.Ganol.st.mkv
+#https://openload.co/f/yxUYmOiyKXA/Death_Race_4%3A_Beyond_Anarchy_%282018%29720p_BluRay_x264-NODLABS.Ganool.mkv.mp4
 
 
 
@@ -6367,7 +6374,7 @@ URL=https://openload.co/f/i3g3GQbE56o/Dogman_2018_EngSub_720p_BluRay.mp4
 type=video
 name=
 thumb=
-date=2018-10-02
+date=2018-10-03
 URL=
 
 type=video
@@ -6671,10 +6678,11 @@ URL=https://streamango.com/f/dfqbdqfrceeleplc/Hotel_Artemis_2018_
 
 
 type=video
-name=The Darkest Minds (2018) ENG 720p.WEB-DL.H264.AC3-EVO_SeeHD
+name=The Darkest Minds (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg
-date=2018-10-02
-URL=https://openload.co/f/YyE3DKncETM/Darkest.Minds.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-10-03
+URL=https://openload.co/f/tmnjNLIY9_0/The.Darkest.Minds.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/YyE3DKncETM/Darkest.Minds.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/RGwPLK5iiNI/The.Darkest.Minds.2018.720p.WEBRip.mkv.mp4
 #https://openload.co/f/8JBLH1I3I5w/The_Darkest_Minds_2018_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/77_TOO9MDnA/The.Darkest.Minds.2018.HDCAM-NO.WATERMARK.mp4
@@ -11301,7 +11309,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-02
+date=2018-10-03
 URL=
 
 
@@ -11315,9 +11323,17 @@ URL=
 
 
 
+type=video
+name=Fantastic Four (2005) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJwUBmUA11lkNVSJ3if3h3xHSFd.jpg
+date=2018-10-03
+URL=https://openload.co/f/9-GnpmjYs4Q/Fantastic_Four_%282005%291080p_BluRay_x264-GRiMRPR.Ganool.mkv.mp4
 
-
-
+type=video
+name=Fantastic 4: Rise of the Silver Surfer (2007) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXpziQgnBnB4bLgjKhjTbLQumE5.jpg
+date=2018-10-03
+URL=https://openload.co/f/Rnff5u6sbxs/Fantastic_4%3A_Rise_of_the_Silver_Surfer_%282007%291080p_BluRay_DTS.x264-hV.Ganool.mkv.mp4
 
 type=video
 name=Get Hard (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -11366,6 +11382,7 @@ name=Punisher: War Zone (2008) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrBl7FvGZFicZoMXtlSZ04duTL9.jpg
 date=2018-09-28
 URL=https://openload.co/f/TxvdTZccn6g/Punisher.War.Zone.2008.1080p.BR_SeeHD.mp4
+#https://openload.co/f/QuxFq9UzekE/Punisher%3A_War_Zone_%282008%291080p_BluRay_x264-SECTOR7.Ganool.mkv.mp4
 
 type=video
 name=Logan (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
