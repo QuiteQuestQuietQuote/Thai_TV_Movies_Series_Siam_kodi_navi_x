@@ -2542,14 +2542,8 @@ http://93.103.146.62:83/udp/239.18.2.242:5000
 #EXTINF:-1,hustler HD
 http://194.28.155.63:81/udp/225.0.2.61:1234
 
-#EXTINF:-1,xxx4
-http://178.132.220.51:1005/xxx4
-#EXTINF:-1,xxx3
-http://178.132.220.51:1005/xxx3
-#EXTINF:-1,xxx2
-http://178.132.220.51:1005/xxx2
-#EXTINF:-1,xxx1
-http://178.132.220.51:1005/xxx1
+#EXTINF:-1,PenthouseHD_4005
+http://31.41.20.14:4005
 
 #EXTINF:-1,2001LIVE_MS
 https://5964ed3e60741.streamlock.net/2001edge/2001MS_RTSP.stream/.m3u8
@@ -3201,8 +3195,6 @@ http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ia/180712050027.png",BBC NEWS_HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="news" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCNEWS.png",BBC NEWS_HD_onlybest
-http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/558/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL
 http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News US HD
