@@ -61,6 +61,74 @@ URL=
 
 
 
+type=video
+name=186xxxxxxxxxxxxxxxxxxxxChaghan Imoui Eunmilhan Aleubaiteu (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Chaghan-Imoui-Eunmilhan-Aleubaiteu-2018.jpg
+date=2018-10-05
+URL=https://streamcherry.com/embed/fekdprdeemasbmep/
+
+type=video
+name=Jeolm Eun Eomma Chingu (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Jeolm-Eun-Eomma-Chingu-2018.jpg
+date=2018-10-05
+URL=https://streamcherry.com/embed/rsfbqbdnkcqaoabq/
+
+type=video
+name=Landlord Is A Pervert (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Landlord-Is-A-Pervert-2017.jpg
+date=2018-10-05
+URL=https://streamcherry.com/embed/anadbkrbtalrcomt/
+
+type=video
+name=Sex comparison (2011)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Sex-comparison-2011.jpg
+date=2018-10-05
+URL=https://streamcherry.com/embed/kqmfcrpnpobfftbr/
+
+type=video
+name=Good day to have sex (2009)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Good-day-to-have-sex-2009.jpg
+date=2018-10-05
+URL=https://streamcherry.com/embed/prdqkembdlokqblb/
+
+
+type=video
+name=Jeongsa Chaghan Sugmo (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Jeongsa-Chaghan-Sugmo-2018.jpg
+date=2018-10-05
+URL=https://streamcherry.com/embed/rrbcrfomblambdtb/
+
+type=video
+name=Jangmonim Ui Gaeingyoseub (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Jangmonim-Ui-Gaeingyoseub-2018.jpg
+date=2018-10-05
+URL=https://streamcherry.com/embed/ldnttbcptctcscom/
+
+type=video
+name=Dongsaeng Ui Chaghan Anae (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Dongsaeng-Ui-Chaghan-Anae-2018.jpg
+date=2018-10-05
+URL=https://streamcherry.com/embed/fdetptnfnqqbcdbd/
+
+type=video
+name=Swapping Chingububuui Kwaelag 2 (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Swapping-Chingububuui-Kwaelag-2-2018.jpg
+date=2018-10-05
+URL=https://streamcherry.com/embed/eomporqrlocplron/
+
+type=video
+name=Jeolm Eun Cheohyeong Geunyeoleul Tamhada (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Jeolm-Eun-Cheohyeong-Geunyeoleul-Tamhada-2018-Uncut.jpg
+date=2018-10-05
+URL=https://streamcherry.com/embed/rqqrmnlrctqnbbdk/
+
+
+type=video
+name=Sex In The Game (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Sex-In-The-Game-2017-Uncut.jpg
+date=2018-10-05
+URL=https://streamcherry.com/embed/qptsfbplkncdnknm/
+
 
 
 

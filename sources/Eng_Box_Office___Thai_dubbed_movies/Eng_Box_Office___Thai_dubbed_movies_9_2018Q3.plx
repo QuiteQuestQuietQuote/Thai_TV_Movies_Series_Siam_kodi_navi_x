@@ -76,7 +76,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-04
+date=2018-10-05
 URL=
 
 
@@ -87,7 +87,12 @@ URL=
 
 
 
-
+type=video
+name=Venom (2018) ENG TS.X264-PLAYNOW
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
+date=2018-10-05
+URL=https://openload.co/f/rn3A5sEjzOk/Venom.2018.TS.X264-PLAYNOW.mp4
+#https://openload.co/f/V6nW7VG6u8I/Venom_%282018%29_Cam
 
 type=video
 name=Smallfoot (2018) ENG New_Src_TSRip-H264-AC3-Meow_SeeHD
@@ -1336,7 +1341,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-04
+date=2018-10-05
 URL=
 
 
@@ -1344,6 +1349,85 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=An American in Texas (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZvwcUzonxBKtWjBBpOZOfnyMWC.jpg
+date=2018-10-05
+URL=https://openload.co/f/8CjaVlgSgqY/An.American.In.Texas.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=Sonu Ke Titu Ki Sweety (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqeyYPG5hlzjXPu1breeFkREEJZ.jpg
+date=2018-10-05
+URL=https://openload.co/f/py96q7NMdCI/Sonu.Ke.Titu.Ki.Sweety.2018.BluRay.1080p.HEVC.DDP.5.1-DTOne.mkv.mp4
+
+type=video
+name=Raid (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qx3m9mRUmDZUVQeAe7CAzFX7xCB.jpg
+date=2018-10-05
+URL=https://openload.co/f/Y_gpiFZ-uZg/RAID.2018.BluRay.1080p.HEVC.DDP.5.1-DTOne.mkv.mp4
+#https://openload.co/f/YwiRTzwdsSc/Raid.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=Blackmail (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fu4zJfknZzxcX6ELWRaMwAAqXyc.jpg
+date=2018-10-05
+URL=https://openload.co/f/FFl9Orl0B3c/Blackmail.2018.BluRay.1080p.HEVC.DDP.5.1-DTOne.mkv.mp4
+#https://openload.co/f/T1UbLbwFFWI/Blackmail.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=Ismael's Ghosts (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQc8aGHeJ65pkFabXVjPZpcodVh.jpg
+date=2018-10-05
+URL=https://openload.co/f/AtbEpvDWbb4/Ismaels.Ghosts.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/h9O4SQ2jWoo/Ismael%E2%80%99s_Ghosts_%282017%29DC_720p_BluRay_x264-USURY.Ganool.mkv.mp4
+#https://uptobox.com/q7fra1zyswgv   720
+#https://www.rapidvideo.com/e/FVX7ZIH9I5   720
+#https://openload.co/embed/C84eCwlykKw/ISMAELSGHOSTBD72.Ganol.st.mkv
+
+type=video
+name=Swimming with Men (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bo29zsZWN4ny8TjQ0qkqjco3zIW.jpg
+date=2018-10-05
+URL=https://openload.co/f/JXmjIUq2JhM/Swimming.with.Men.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Ve4HBGBFrY0/Swimming.with.Men.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=L'Extraordinaire Voyage du fakir (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx0I4swb55GPZwEPcS0gAo3QowV.jpg
+date=2018-10-05
+URL=https://openload.co/f/iXYGFDtpwfc/The.Extraordinary.Journey.of.the.Fakir.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/rpL3wUxnkCI/The.Extraordinary.Journey.Of.The.Fakir.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/DZv4qkwRJv0/The.Extraordinary.Journey.of.the.Fakir.2018.720p.BluRay.x264-CiNEFiLE.mkv.mp4
+#https://openload.co/f/jQB04jLW39g/The.Extraordinary.Journey.Of.The.Fakir.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Iceman (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
@@ -6378,11 +6462,28 @@ URL=https://uptobox.com/cuhetw93ia1v
 #https://openload.co/f/0CIUo1iyESA/SMART.Chase.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
 
 type=video
-name=L'Extraordinaire Voyage du fakir (2018) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx0I4swb55GPZwEPcS0gAo3QowV.jpg
-date=2018-10-04
-URL=https://openload.co/f/DZv4qkwRJv0/The.Extraordinary.Journey.of.the.Fakir.2018.720p.BluRay.x264-CiNEFiLE.mkv.mp4
-#https://openload.co/f/jQB04jLW39g/The.Extraordinary.Journey.Of.The.Fakir.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
+name=Arizona (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzeoTO2GoOvnBsYGxE4iJq1hrc8.jpg
+date=2018-10-05
+URL=https://uptobox.com/u0eb6c80425e
+#https://www.rapidvideo.com/e/FVX13PGAVY
+#https://openload.co/embed/ntKC2EXVSoU/ARIZONABD72.Ganol.st.mkv.mp4
+#https://openload.co/f/RH32EuFdNXI/Arizona_%282018%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
+
+type=video
+name=Whitney (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1c6dTycYBMZs2T1wKA6bknLLa6.jpg
+date=2018-10-05
+URL=https://openload.co/f/Ui6YxzCfhKU/Whitney.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The 12th Man (2017) [COLOR=FF00FF00]NOR BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxZ8iGf5jQoLcNqBJL6uzNTivp.jpg
+date=2018-10-05
+URL=https://uptobox.com/6y4gnbp9o7ky
+#https://www.rapidvideo.com/e/FVX8IPFPUX
+#https://openload.co/embed/lsFWM84-v5A/THE12MANBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/a8pcmQmvrFs/The_12th_Man_%282017%29720p_BluRay_x264-CiNEFiLE.Ganool.mkv.mp4
 
 
 
@@ -6392,7 +6493,7 @@ URL=https://openload.co/f/DZv4qkwRJv0/The.Extraordinary.Journey.of.the.Fakir.201
 type=video
 name=
 thumb=
-date=2018-10-04
+date=2018-10-05
 URL=
 
 type=video
@@ -6515,10 +6616,11 @@ URL=https://openload.co/f/-2e2dhkFJX0/Peppermint_%282018%29%E0%B8%99%E0%B8%B2%E0
 
 
 type=video
-name=The Predator (2018) ENG NEW_720p_HDCAM_V2-1XBET_SeeHD
+name=The Predator (2018) ENG NEW_720p_HDCAM-24HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
-date=2018-09-16
-URL=https://openload.co/f/JzqururTlsI/The_Predator_2018_NEW_720p_HDCAM_V2-1XBET_SeeHD.mp4
+date=2018-10-05
+URL=https://openload.co/f/1W4qs2550Sc/The_Predator_2018_NEW_720p_HDCAM-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/JzqururTlsI/The_Predator_2018_NEW_720p_HDCAM_V2-1XBET_SeeHD.mp4
 #https://openload.co/f/rroY7-gdIXA/The_Predator_2018_NEW_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/x3c5W9f8jUc/The_Predator_2018_TS-1XBET_SeeHD.mp4
 #https://openload.co/f/-4OAnxDQ6nw/The.Predator.2018.TS-1XBET.mp4
@@ -6671,28 +6773,7 @@ URL=https://streamango.com/f/dcrafonlelcdrtlo/The_Spy_Who_Dumped_Me_2018_
 
 
 
-type=video
-name=Hotel Artemis (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg
-date=2018-09-27
-URL=https://openload.co/f/P4lVLWj1CTE/Hotel.Artemis.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/zZdU-tbCKwc/Hotel.Artemis.2018.1080p.BluRay.x264-Replica.mp4
-#https://openload.co/f/FSEgqQPkY6c/Hotel.Artemis.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/1-PZaWihKKo/Hotel.Artemis.2018.1080p.BluRay.x264-Replica_21CNPX.mp4
-#https://openload.co/f/tG6I9jzj2qY/Hotel_Artemis_2018_1080p_BluRay_x264_Replica.mkv.mp4
-#https://openload.co/f/yzS3HTRoSGM/Hotel_Artemis_%282018%29720p_BluRay_x264-Replica.Ganool.mkv.mp4
-#https://openload.co/f/ZmEWt8eC0Dk/Hotel.Artemis.2018.720p.720p.BRRip.x264.mkv.mp4
-#https://openload.co/f/v8gCDjk1_4A/Hotel_Artemis_%282018%29_720p_BRRip_%5B.vc%5D.mkv.mp4
-#https://openload.co/f/Xks0l93TgZg/Hotel_Artemis_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
-#https://openload.co/f/ensVsB79Sz0/Hotel.Artemis.2018.720p.HDCAM.X264-24HD.mp4
-#https://uptobox.com/qjplhxzov47m   720
-#https://www.rapidvideo.com/e/FVP8HUHJ2F   720
-#https://openload.co/embed/FPt8JKoGWcY/HOTELARTEMISBD72.Ganol.st.mkv
-type=video
-name=Hotel Artemis (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg
-date=2018-08-15
-URL=https://streamango.com/f/dfqbdqfrceeleplc/Hotel_Artemis_2018_
+
 
 
 type=video
@@ -8992,6 +9073,33 @@ URL=
 
 
 
+
+
+type=video
+name=Hotel Artemis (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg
+date=2018-09-27
+URL=https://openload.co/f/P4lVLWj1CTE/Hotel.Artemis.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/zZdU-tbCKwc/Hotel.Artemis.2018.1080p.BluRay.x264-Replica.mp4
+#https://openload.co/f/FSEgqQPkY6c/Hotel.Artemis.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/1-PZaWihKKo/Hotel.Artemis.2018.1080p.BluRay.x264-Replica_21CNPX.mp4
+#https://openload.co/f/tG6I9jzj2qY/Hotel_Artemis_2018_1080p_BluRay_x264_Replica.mkv.mp4
+#https://openload.co/f/yzS3HTRoSGM/Hotel_Artemis_%282018%29720p_BluRay_x264-Replica.Ganool.mkv.mp4
+#https://openload.co/f/ZmEWt8eC0Dk/Hotel.Artemis.2018.720p.720p.BRRip.x264.mkv.mp4
+#https://openload.co/f/v8gCDjk1_4A/Hotel_Artemis_%282018%29_720p_BRRip_%5B.vc%5D.mkv.mp4
+#https://openload.co/f/Xks0l93TgZg/Hotel_Artemis_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
+#https://openload.co/f/ensVsB79Sz0/Hotel.Artemis.2018.720p.HDCAM.X264-24HD.mp4
+#https://uptobox.com/qjplhxzov47m   720
+#https://www.rapidvideo.com/e/FVP8HUHJ2F   720
+#https://openload.co/embed/FPt8JKoGWcY/HOTELARTEMISBD72.Ganol.st.mkv
+type=video
+name=Hotel Artemis (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg
+date=2018-10-05
+URL=https://openload.co/f/OVxG0TT7qfc/Hotel_Artemis_%282018%29%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B9%82%E0%B8%88%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/dfqbdqfrceeleplc/Hotel_Artemis_2018_
+
+
 type=video
 name=Final Score (2018) ENG 1080p.HDTV.x264-PLUTONiUM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jawqGBrUOHyXSyT7HknITUnL98.jpg
@@ -9045,10 +9153,11 @@ URL=https://openload.co/f/qv611gUWxpE/Along_With_the_Gods%3A_The_Last_49_Days_%2
 
 
 type=video
-name=The Meg (2018) ENG V2.HC.HDRip.XviD.AC3-EVO
+name=The Meg (2018) ENG V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
-date=2018-10-04
-URL=https://openload.co/f/gQMeXejTxnY/The.Meg.2018.V2.HC.HDRip.XviD.AC3-EVO.avi.mp4
+date=2018-10-05
+URL=https://openload.co/f/pKqHWNtzhGU/The.Meg.2018.V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/gQMeXejTxnY/The.Meg.2018.V2.HC.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/F1gEbsctjSc/The.Meg.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/xVYurn_r6oA/The.Meg.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv   MKV3.7GB
 #https://openload.co/f/PMUQfER5ZIw/The.Meg.2018.720p.HC.HDRip.AC3.X264-CMRG.mkv.mp4
@@ -9739,8 +9848,10 @@ URL=https://uptobox.com/8tv0cqe121op
 #https://www.rapidvideo.com/e/FVWNII20YB
 #https://openload.co/embed/Ljk9QuaDP5U/GHPANTMANWASP80.Ganol.st.mkv
 #https://openload.co/f/6MkisfTAU0U/Ant-Man.and.the.Wasp.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/0_CD-5T0WjE/Ant-Man.and.the.Wasp.2018.1080p.BluRay.x264-SPARKS.mkv.mp4.mp4
 #https://openload.co/f/PD99IGZsj7s/Ant-Man.and.the.Wasp.2018.1080p.BluRay.x264-SPARKS.mkv.mp4.mp4
 #https://openload.co/f/_seppis8hqc/Ant-Man.and.the.Wasp.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/LOwb1G7Ivj0/Ant-Man.And.The.Wasp.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/2Lo4gJG-hpc/Ant-Man_and_the_Wasp_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
 #https://openload.co/f/fuQSiyTZ7c0/Ant-Man.and.the.Wasp.2018.720p.BluRay.x264-SPARKS.mkv.mp4
 #https://openload.co/f/E66pIlUTJN4/Ant.Man.and.the.Wasp.2018.1080p.WEB-DL.x264.6CH.MkvCage.ws.mkv.mp4
@@ -9762,8 +9873,9 @@ URL=https://uptobox.com/8tv0cqe121op
 type=video
 name=Ant-Man and the Wasp (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv1AWImgx386ULjcf62VYaW8zSt.jpg
-date=2018-10-04
-URL=https://openload.co/f/ClpbIwcsbvE/Ant-Man_and_the_Wasp_%282018%29%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%81%E0%B8%A5%E0%B8%B0_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A7%E0%B8%AD%E0%B8%AA%E0%B8%9E%E0%B9%8C.mp4
+date=2018-10-05
+URL=https://openload.co/f/RbH5oyv5bo4/Ant-Man_and_the_Wasp_%282018%29%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%81%E0%B8%A5%E0%B8%B0_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A7%E0%B8%AD%E0%B8%AA%E0%B8%9E%E0%B9%8C.mp4
+#https://openload.co/f/ClpbIwcsbvE/Ant-Man_and_the_Wasp_%282018%29%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%81%E0%B8%A5%E0%B8%B0_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A7%E0%B8%AD%E0%B8%AA%E0%B8%9E%E0%B9%8C.mp4
 #https://streamango.com/f/dordledefetessal/Ant-Man_and_the_Wasp_2018_-_
 
 
