@@ -1341,7 +1341,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-05
+date=2018-10-06
 URL=
 
 
@@ -1373,9 +1373,19 @@ URL=
 
 
 
+type=video
+name=The Etruscan Smile (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQlXqCepMrAJCYgZSPcYEuwpzWk.jpg
+date=2018-10-06
+URL=https://openload.co/f/KgeZ1Ahgebo/The.Etruscan.Smile.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/wjpxdJz8BFo/The.Etruscan.Smile.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
-
-
+type=video
+name=Mission Control: The Unsung Heroes of Apollo (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pBpq1fieUBcoFUM4lbGp8dUKR6.jpg
+date=2018-10-06
+URL=https://openload.co/f/199lcmzKU6c/Mission.Control.The.Unsung.Heroes.of.Apollo.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/9VekyBmeReY/Mission.Control.The.Unsung.Heroes.of.Apollo.2017.720p.BR_SeeHD.mp4
 
 type=video
 name=An American in Texas (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1406,8 +1416,9 @@ URL=https://openload.co/f/FFl9Orl0B3c/Blackmail.2018.BluRay.1080p.HEVC.DDP.5.1-D
 type=video
 name=Ismael's Ghosts (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQc8aGHeJ65pkFabXVjPZpcodVh.jpg
-date=2018-10-05
-URL=https://openload.co/f/AtbEpvDWbb4/Ismaels.Ghosts.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+date=2018-10-06
+URL=https://openload.co/f/aziDowxaQ8A/Ismaels.Ghosts.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/AtbEpvDWbb4/Ismaels.Ghosts.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/h9O4SQ2jWoo/Ismael%E2%80%99s_Ghosts_%282017%29DC_720p_BluRay_x264-USURY.Ganool.mkv.mp4
 #https://uptobox.com/q7fra1zyswgv   720
 #https://www.rapidvideo.com/e/FVX7ZIH9I5   720
@@ -6616,10 +6627,12 @@ URL=https://openload.co/f/-2e2dhkFJX0/Peppermint_%282018%29%E0%B8%99%E0%B8%B2%E0
 
 
 type=video
-name=The Predator (2018) ENG NEW_720p_HDCAM-24HD_SeeHD
+name=The Predator (2018) ENG NOLOGO.NEW.720p.Telesync
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
-date=2018-10-05
-URL=https://openload.co/f/1W4qs2550Sc/The_Predator_2018_NEW_720p_HDCAM-24HD_SeeHD.mkv.mp4
+date=2018-10-06
+URL=https://openload.co/f/pWpbXzEqrwI/The.Predator.2018.NOLOGO.NEW.720p.Telesync.mp4
+#https://openload.co/f/v01aS6svE6E/The.Predator.2018.CLEAN.NEW.720p.TELESYNC.mkv.mp4
+#https://openload.co/f/1W4qs2550Sc/The_Predator_2018_NEW_720p_HDCAM-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/JzqururTlsI/The_Predator_2018_NEW_720p_HDCAM_V2-1XBET_SeeHD.mp4
 #https://openload.co/f/rroY7-gdIXA/The_Predator_2018_NEW_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/x3c5W9f8jUc/The_Predator_2018_TS-1XBET_SeeHD.mp4
@@ -6634,10 +6647,11 @@ URL=https://openload.co/f/lid3G4MglmY/The_Predator_%282018%29%E0%B9%80%E0%B8%94%
 
 
 type=video
-name=The Nun (2018) ENG NEW.TS-1XBET
+name=The Nun (2018) ENG NEW.HDCAM-24HD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg
-date=2018-09-10
-URL=https://openload.co/f/l9zdAMiAJZM/The.Nun.2018.NEW.TS-1XBET.mp4
+date=2018-10-06
+URL=https://openload.co/f/X84sXDhrTMs/THE.NUN.2018.NEW.HDCAM-24HD.mkv.mp4
+#https://openload.co/f/l9zdAMiAJZM/The.Nun.2018.NEW.TS-1XBET.mp4
 #https://openload.co/f/H7GLWgUQJFU/THE_NUN_2018_NEW_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/yLNCEbVeYIM/The_Nun_2018_720p_HDCAM-1XBET_SeeHD.mp4
 type=video
@@ -9847,12 +9861,14 @@ date=2018-10-04
 URL=https://uptobox.com/8tv0cqe121op
 #https://www.rapidvideo.com/e/FVWNII20YB
 #https://openload.co/embed/Ljk9QuaDP5U/GHPANTMANWASP80.Ganol.st.mkv
+#https://openload.co/f/9zzOojgRrI4/ant-man.and.the.wasp.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/6MkisfTAU0U/Ant-Man.and.the.Wasp.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/0_CD-5T0WjE/Ant-Man.and.the.Wasp.2018.1080p.BluRay.x264-SPARKS.mkv.mp4.mp4
 #https://openload.co/f/PD99IGZsj7s/Ant-Man.and.the.Wasp.2018.1080p.BluRay.x264-SPARKS.mkv.mp4.mp4
 #https://openload.co/f/_seppis8hqc/Ant-Man.and.the.Wasp.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
 #https://openload.co/f/LOwb1G7Ivj0/Ant-Man.And.The.Wasp.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/2Lo4gJG-hpc/Ant-Man_and_the_Wasp_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
+#https://openload.co/f/hGe8XZiY6pg/Ant-Man.and.the.Wasp.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/fuQSiyTZ7c0/Ant-Man.and.the.Wasp.2018.720p.BluRay.x264-SPARKS.mkv.mp4
 #https://openload.co/f/E66pIlUTJN4/Ant.Man.and.the.Wasp.2018.1080p.WEB-DL.x264.6CH.MkvCage.ws.mkv.mp4
 #https://openload.co/f/CSm0t_-HERY/Ant.Man.and.the.Wasp.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
