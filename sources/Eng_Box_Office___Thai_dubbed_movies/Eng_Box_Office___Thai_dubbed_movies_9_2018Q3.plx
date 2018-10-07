@@ -1341,7 +1341,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-06
+date=2018-10-07
 URL=
 
 
@@ -1379,6 +1379,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQlXqCepMrAJCYgZSPcYEuwpzW
 date=2018-10-06
 URL=https://openload.co/f/KgeZ1Ahgebo/The.Etruscan.Smile.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/wjpxdJz8BFo/The.Etruscan.Smile.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/byokLbwugj8/The.Etruscan.Smile.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Mission Control: The Unsung Heroes of Apollo (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2803,6 +2804,7 @@ date=2018-06-07
 URL=https://www.blazefile.co/embed-yj5xytml65ys.html
 #https://uptobox.com/3qcq3ernuf8z
 #https://openload.co/embed/f80wmj1j0h4/The.Merciless.2017.BluRay.1080p.5.1CH.x264.Ganool.im.mkv
+#https://openload.co/f/BRXNJG2Buik/The.Merciless.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://www.blazefile.co/embed-gz5ino396x8r.html   720
 #https://uptobox.com/p91vt5st1wru   720
 #https://openload.co/embed/Rzcmlsit0B4/The.Merciless.2017.BluRay.720p.900MB.Ganool.im.mkv
@@ -6457,20 +6459,7 @@ URL=https://uptobox.com/hhnf0p4vcz2b
 #https://openload.co/embed/3_wAFw-tMUQ/DEATHRACE4ANACHYBD72.Ganol.st.mkv
 #https://openload.co/f/yxUYmOiyKXA/Death_Race_4%3A_Beyond_Anarchy_%282018%29720p_BluRay_x264-NODLABS.Ganool.mkv.mp4
 
-type=video
-name=S.M.A.R.T. Chase (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2upUHuNpAZRIS8T2xgAmopGF3sR.jpg
-date=2018-10-04
-URL=https://uptobox.com/cuhetw93ia1v
-#https://www.rapidvideo.com/e/FVVZRU1DTF
-#https://openload.co/embed/2uTWsFk4WAo/SMARTCHASEBD72.Ganol.st.mkv
-#https://openload.co/f/9vOZFdLojRU/S.M.A.R.TChase.2017.720p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/FC4NYWotjhU/S.M.A.R.T._Chase_%282017%29720p_BluRay_x264-JRP.Ganool.mkv.mp4
-#https://openload.co/f/qL7SF5j22es/The.Shanghai.Job.2017.DVDRip.x264-ARiES.mkv.mp4
-#https://openload.co/f/JxJSMoOr-7o/The_Shanghai_Job_2017_BDRip_Layar.mp4
-#https://openload.co/f/J6V1vuMVk5c/The.Shanghai.Job.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#http://entervideo.net/watch/663df7b4d19c193
-#https://openload.co/f/0CIUo1iyESA/SMART.Chase.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
+
 
 type=video
 name=Arizona (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -6496,6 +6485,11 @@ URL=https://uptobox.com/6y4gnbp9o7ky
 #https://openload.co/embed/lsFWM84-v5A/THE12MANBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/a8pcmQmvrFs/The_12th_Man_%282017%29720p_BluRay_x264-CiNEFiLE.Ganool.mkv.mp4
 
+type=video
+name=The Boxcar Children: Surprise Island (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6IOTVyG1t3zrKinuEG1GC0b7Sp.jpg
+date=2018-10-07
+URL=https://openload.co/f/E_n8y61GH5o/The.Boxcar.Children.Surprise.Island.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 
 
@@ -6956,13 +6950,25 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-10-02
+date=2018-10-07
 URL=
 
 
 
 
 
+
+
+type=video
+name=Operation Finale (2018) ENG 1080p.NF.WEB-DL.DD_5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlIdPeH5IrR1qRErschnVQeZAQu.jpg
+date=2018-10-07
+URL=https://openload.co/f/P26wzQbHZhQ/Operation_Finale.2018.1080p.NF.WEB-DL.DD_5.1.H264-CMRG.mkv.mp4
+type=video
+name=Operation Finale (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlIdPeH5IrR1qRErschnVQeZAQu.jpg
+date=2018-10-07
+URL=https://openload.co/f/Lwu6NlpsQA0/Operation_Finale_%282018%29%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%89%E0%B8%B2%E0%B8%81%E0%B8%9B%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%88%E0%B8%99%E0%B8%B2%E0%B8%8B%E0%B8%B5_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -9819,7 +9825,25 @@ URL=
 
 
 
-
+type=video
+name=S.M.A.R.T. Chase (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2upUHuNpAZRIS8T2xgAmopGF3sR.jpg
+date=2018-10-04
+URL=https://uptobox.com/cuhetw93ia1v
+#https://www.rapidvideo.com/e/FVVZRU1DTF
+#https://openload.co/embed/2uTWsFk4WAo/SMARTCHASEBD72.Ganol.st.mkv
+#https://openload.co/f/9vOZFdLojRU/S.M.A.R.TChase.2017.720p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/FC4NYWotjhU/S.M.A.R.T._Chase_%282017%29720p_BluRay_x264-JRP.Ganool.mkv.mp4
+#https://openload.co/f/qL7SF5j22es/The.Shanghai.Job.2017.DVDRip.x264-ARiES.mkv.mp4
+#https://openload.co/f/JxJSMoOr-7o/The_Shanghai_Job_2017_BDRip_Layar.mp4
+#https://openload.co/f/J6V1vuMVk5c/The.Shanghai.Job.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#http://entervideo.net/watch/663df7b4d19c193
+#https://openload.co/f/0CIUo1iyESA/SMART.Chase.2017.Russian.TS.1400MB-KOSHARA.avi.mp4
+type=video
+name=S.M.A.R.T. Chase (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2upUHuNpAZRIS8T2xgAmopGF3sR.jpg
+date=2018-10-07
+URL=https://openload.co/f/aFj2BlWALiQ/S.M.A.R.T._Chase_%282017%29S.M.A.R.T_Chase_%282017%29.mp4
 
 
 type=video
