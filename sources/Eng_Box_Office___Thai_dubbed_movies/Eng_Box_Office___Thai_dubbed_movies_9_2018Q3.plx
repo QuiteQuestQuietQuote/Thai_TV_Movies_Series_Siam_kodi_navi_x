@@ -88,10 +88,12 @@ URL=
 
 
 type=video
-name=Venom (2018) ENG TS.X264-PLAYNOW
+name=Venom (2018) ENG 720p.TS-1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
-date=2018-10-05
-URL=https://openload.co/f/rn3A5sEjzOk/Venom.2018.TS.X264-PLAYNOW.mp4
+date=2018-10-08
+URL=https://openload.co/f/7QVJgXbfcvQ/Venom.2018.720p.TS-1XBET_SeeHD.mp4
+#https://openload.co/f/SW-MXnRL-J4/Venom.2018.NOLOGO.720p.HDCAM.English.LINE.1XBET.mp4
+#https://openload.co/f/rn3A5sEjzOk/Venom.2018.TS.X264-PLAYNOW.mp4
 #https://openload.co/f/V6nW7VG6u8I/Venom_%282018%29_Cam
 
 type=video
@@ -101,11 +103,7 @@ date=2018-10-04
 URL=https://openload.co/f/XINdJVekZzg/Smallfoot_2018_New_Src_TSRip-H264-AC3-Meow_SeeHD.mkv.mp4
 #https://openload.co/f/iZDs99VvCC8/Smallfoot_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
-type=video
-name=Hell Fest (2018) ENG 720p_HDCAM-1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tjyPwIqeYzho7fHWqBKIn2gyWg.jpg
-date=2018-09-30
-URL=https://openload.co/f/ar5jfgUtWA8/Hellfest_2018_720p_HDCAM-1XBET_SeeHD.mp4
+
 
 type=video
 name=London Fields (2018) RUS 720p_RUS_TS_ENG_SUB-1XBET_SeeHD
@@ -134,15 +132,7 @@ URL=https://openload.co/f/5VmvSCnLG3U/The_House_with_a_Clock_in_Its_Walls_2018_7
 #https://openload.co/f/WJCwV2VC7Y8/The_House_with_a_Clock_in_Its_Walls_2018_HDCAM_NO_WATERMARK_Layar.mp4
 #https://openload.co/f/qsPshoGW8PY/The.House.with.a.Clock.in.its.Walls.2018.HDCAM.XviD-AVID.avi.mp4
 
-type=video
-name=Johnny English Strikes Again (2018) ENG New_Src_HDCAM_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg
-date=2018-09-18
-URL=https://openload.co/f/2MqSe98cW1I/Johnny_English_Strikes_Again_2018_New_Src_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/UskKUo3454o/Johnny.English.Strikes.Again.2018.NOLOGO.ENG.CAM.mp4
-#https://openload.co/f/_9UhDKqWNdE/Johnny.English.Strikes.Again.2018.ENG.CAM.x264-1XBET.mp4
-#https://openload.co/f/wa-j50y9Jh8/Johnny.English.Strikes.Again.2018.CAM.LATINO.1XBE-314p.mp4
-#https://openload.co/f/s2ehJnBuZnA/Johnny_English_Strikes_Again_2018_Movies_HD_Cam_x264_LAT_Clean_Audio_AAC_New_Source_rDX.mp4
+
 
 type=video
 name=White Boy Rick (2018) ENG 720p_TS-1XBET_SeeHD
@@ -1341,7 +1331,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-07
+date=2018-10-08
 URL=
 
 
@@ -1367,11 +1357,25 @@ URL=
 
 
 
+type=video
+name=Buyer Beware (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/IJ6rxpdoTviQ7kKQ77XuLXv6Tl.jpg
+date=2018-10-08
+URL=https://openload.co/f/ZO7ZOfnrquI/Buyer.Beware.2018.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
+#https://openload.co/f/eQ2LKf_CaBI/Buyer.Beware.2018.720p_BluRay_DD5.1_x264-WiKi.Ganool.mkv.mp4
 
+type=video
+name=The Divine Order (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkdnTSj3Zia0rik1wh6agIf2jNF.jpg
+date=2018-10-08
+URL=https://openload.co/f/rqFPTrqp9wM/the.divine.order.2017.limited.1080p.bluray.x264-usury.mkv.mp4
 
-
-
-
+type=video
+name=Whitney (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1c6dTycYBMZs2T1wKA6bknLLa6.jpg
+date=2018-10-08
+URL=https://openload.co/f/HBj4tAlppDI/Whitney.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/Ui6YxzCfhKU/Whitney.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Etruscan Smile (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1380,6 +1384,7 @@ date=2018-10-06
 URL=https://openload.co/f/KgeZ1Ahgebo/The.Etruscan.Smile.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/wjpxdJz8BFo/The.Etruscan.Smile.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/byokLbwugj8/The.Etruscan.Smile.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/7D4b0CV2s1M/the.etruscan.smile.2018.1080p.bluray.x264-getit.mkv.mp4
 
 type=video
 name=Mission Control: The Unsung Heroes of Apollo (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -6470,11 +6475,7 @@ URL=https://uptobox.com/u0eb6c80425e
 #https://openload.co/embed/ntKC2EXVSoU/ARIZONABD72.Ganol.st.mkv.mp4
 #https://openload.co/f/RH32EuFdNXI/Arizona_%282018%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
 
-type=video
-name=Whitney (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1c6dTycYBMZs2T1wKA6bknLLa6.jpg
-date=2018-10-05
-URL=https://openload.co/f/Ui6YxzCfhKU/Whitney.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
 
 type=video
 name=The 12th Man (2017) [COLOR=FF00FF00]NOR BR 720p[/COLOR]
@@ -6495,10 +6496,16 @@ URL=https://openload.co/f/E_n8y61GH5o/The.Boxcar.Children.Surprise.Island.2018.7
 
 
 
+
+
+
+
+
+
 type=video
 name=
 thumb=
-date=2018-10-05
+date=2018-10-08
 URL=
 
 type=video
@@ -6586,10 +6593,44 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+type=video
+name=Johnny English Strikes Again (2018) ENG New_Src_HDCAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg
+date=2018-09-18
+URL=https://openload.co/f/2MqSe98cW1I/Johnny_English_Strikes_Again_2018_New_Src_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/UskKUo3454o/Johnny.English.Strikes.Again.2018.NOLOGO.ENG.CAM.mp4
+#https://openload.co/f/_9UhDKqWNdE/Johnny.English.Strikes.Again.2018.ENG.CAM.x264-1XBET.mp4
+#https://openload.co/f/wa-j50y9Jh8/Johnny.English.Strikes.Again.2018.CAM.LATINO.1XBE-314p.mp4
+#https://openload.co/f/s2ehJnBuZnA/Johnny_English_Strikes_Again_2018_Movies_HD_Cam_x264_LAT_Clean_Audio_AAC_New_Source_rDX.mp4
+type=video
+name=Johnny English Strikes Again (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg
+date=2018-10-08
+URL=https://openload.co/f/o7Lz3ohcezc/Johnny_English_Strikes_Again_%282018%29%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%88_%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%B4%E0%B8%8A_%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%81_%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
+type=video
+name=Luis and the Aliens (2018) ENG HDRip.XviD.AC3-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oq7s5ru4hjp83mi4fWSJ0L7yUA.jpg
+date=2018-10-08
+URL=https://openload.co/f/7ltlNdNVdjA/Luis_and_His_Friends_from_Outer_Space.2018.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+type=video
+name=Luis and the Aliens (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oq7s5ru4hjp83mi4fWSJ0L7yUA.jpg
+date=2018-10-08
+URL=https://openload.co/f/qo3RsswIa80/Luis_and_the_Aliens_%282018%29%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%AA%E0%B9%8C%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
+type=video
+name=Hell Fest (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tjyPwIqeYzho7fHWqBKIn2gyWg.jpg
+date=2018-09-30
+URL=https://openload.co/f/ar5jfgUtWA8/Hellfest_2018_720p_HDCAM-1XBET_SeeHD.mp4
+type=video
+name=Hell Fest (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tjyPwIqeYzho7fHWqBKIn2gyWg.jpg
+date=2018-10-08
+URL=https://openload.co/f/NzNS1jlT1t4/Hell_Fest_%282018%29%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -6784,21 +6825,7 @@ URL=https://streamango.com/f/dcrafonlelcdrtlo/The_Spy_Who_Dumped_Me_2018_
 
 
 
-type=video
-name=The Darkest Minds (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg
-date=2018-10-03
-URL=https://openload.co/f/tmnjNLIY9_0/The.Darkest.Minds.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/YyE3DKncETM/Darkest.Minds.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/RGwPLK5iiNI/The.Darkest.Minds.2018.720p.WEBRip.mkv.mp4
-#https://openload.co/f/8JBLH1I3I5w/The_Darkest_Minds_2018_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/77_TOO9MDnA/The.Darkest.Minds.2018.HDCAM-NO.WATERMARK.mp4
-#https://openload.co/f/nam9pW6U36A/The_Darkest_Minds_2018_HDCAM-1XBET.mp4
-type=video
-name=The Darkest Minds (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg
-date=2018-08-08
-URL=https://streamango.com/f/cdckomebmtmsrmdq/The_Darkest_Minds_2018_
+
 
 
 type=video
@@ -8586,19 +8613,7 @@ date=2017-12-18
 URL=https://streamango.com/f/dnlfcpqkkskoetke/Shimmer_Lake_2017_
 
 
-type=video
-name=Logan Lucky (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
-date=2017-11-15
-URL=https://www.blazefile.co/embed-ejxanhrtjykc.html
-#https://openload.co/f/M5nddhfGiHA/logan.lucky.2017.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/TvrXnw4T4Eg/Logan.Lucky.2017.720p.WEB-DL.H264.AC3-EVO.mkv
-#https://openload.co/f/sT2jB8zTaVQ/LC.2017.TS.x264-CPG.mkv.mp4
-type=video
-name=Logan Lucky (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
-date=2017-12-16
-URL=https://streamango.com/f/srfnnbtbntenbede/Logan_Lucky_2017_SUB
+
 
 
 type=video
@@ -9084,7 +9099,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-06-28
+date=2018-10-08
 URL=
 
 
@@ -9093,6 +9108,31 @@ URL=
 
 
 
+
+
+type=video
+name=Europe Raiders (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BEikhobwXkTS78dmgNQZNPg20n.jpg
+date=2018-10-08
+URL=https://openload.co/f/l3SNZ1BYN0I/Europe_Raiders_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B3%E0%B8%AD%E0%B8%B2%E0%B8%87_%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B9%80%E0%B8%97%E0%B8%81%E0%B8%A2%E0%B8%B8%E0%B9%82%E0%B8%A3%E0%B8%9B_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
+type=video
+name=The Darkest Minds (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg
+date=2018-10-03
+URL=https://openload.co/f/tmnjNLIY9_0/The.Darkest.Minds.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/YyE3DKncETM/Darkest.Minds.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/RGwPLK5iiNI/The.Darkest.Minds.2018.720p.WEBRip.mkv.mp4
+#https://openload.co/f/8JBLH1I3I5w/The_Darkest_Minds_2018_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/77_TOO9MDnA/The.Darkest.Minds.2018.HDCAM-NO.WATERMARK.mp4
+#https://openload.co/f/nam9pW6U36A/The_Darkest_Minds_2018_HDCAM-1XBET.mp4
+type=video
+name=The Darkest Minds (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg
+date=2018-10-08
+URL=https://openload.co/f/rD7yIbd-slc/The_Darkest_Minds_%282018%29%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AA%E0%B8%97%E0%B9%8C_%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B9%8C%E0%B8%AA_%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/cdckomebmtmsrmdq/The_Darkest_Minds_2018_
 
 
 type=video
@@ -9822,7 +9862,20 @@ URL=
 
 
 
-
+type=video
+name=Logan Lucky (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
+date=2017-11-15
+URL=https://www.blazefile.co/embed-ejxanhrtjykc.html
+#https://openload.co/f/M5nddhfGiHA/logan.lucky.2017.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/TvrXnw4T4Eg/Logan.Lucky.2017.720p.WEB-DL.H264.AC3-EVO.mkv
+#https://openload.co/f/sT2jB8zTaVQ/LC.2017.TS.x264-CPG.mkv.mp4
+type=video
+name=Logan Lucky (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg
+date=2018-10-08
+URL=https://openload.co/f/lPH9Wqa9n_E/Logan_Lucky_%282017%29%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%84%E0%B8%81%E0%B8%B5%E0%B9%89_%E0%B9%82%E0%B8%8A%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%99%E0%B8%B0%E0%B9%82%E0%B8%A5%E0%B9%81%E0%B8%81%E0%B8%99.mp4
+#https://streamango.com/f/srfnnbtbntenbede/Logan_Lucky_2017_SUB
 
 
 type=video
@@ -9872,8 +9925,9 @@ URL=https://uptobox.com/sg85vv7pgcrm
 type=video
 name=Sicario: Day of the Soldado (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XDlelZUNWmKgP2bcWL9c9G10eo.jpg
-date=2018-10-04
-URL=https://openload.co/f/vE4CayqbP2A/Sicario%3A_Day_of_the_Soldado_%282018%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94_2.mp4
+date=2018-10-08
+URL=https://openload.co/f/ePR4gBOLmaQ/Sicario%3A_Day_of_the_Soldado_%282018%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94_2.mp4
+#https://openload.co/f/vE4CayqbP2A/Sicario%3A_Day_of_the_Soldado_%282018%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94_2.mp4
 #https://openload.co/f/ncwEdmqjeBg/Sicario%3A_Day_of_the_Soldado_%282018%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://streamango.com/f/kpktebfparrekqcd/Sicario_Day_of_the_Soldado_2018_2_
 
@@ -9928,8 +9982,9 @@ URL=https://openload.co/f/f3Ci7lzv6dA/Future.World.2018.1080p.BluRay.H264.AAC-RA
 type=video
 name=Future World (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/297jGjtWbi2sczPwSOiLbBc6xvj.jpg
-date=2018-10-04
-URL=https://openload.co/f/aXn7YPhhExE/Future_World_%282018%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81.mp4
+date=2018-10-08
+URL=https://openload.co/f/zp7Ecz9G3uw/Future_World_%282018%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81.mp4
+#https://openload.co/f/aXn7YPhhExE/Future_World_%282018%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81.mp4
 #https://openload.co/f/g4CSL7X9rco/Future_World_%282018%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 #https://streamango.com/f/rsldanklbtskknbq/Future_World_2018_
 
