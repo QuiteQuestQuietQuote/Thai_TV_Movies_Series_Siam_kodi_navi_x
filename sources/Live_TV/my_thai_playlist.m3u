@@ -2527,7 +2527,7 @@ rtmp://5-direct555-axd-10-xx.hnwzzy.com:1935/live/999888
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/922/index.m3u8
 #EXTINF:-1,PenthouseHD
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
-#EXTINF:-1,Playboy_play
+#EXTINF:-1,Playboy_udp
 http://91.203.209.92:3371/udp/239.195.2.5:1234
 #EXTINF:-1,Playhouse
 http://89.212.214.162:7781/udp/239.18.1.235:5000
@@ -2553,6 +2553,8 @@ http://31.41.20.14:4005
 http://31.41.20.14:4051 
 #EXTINF:-1,erotic3
 http://176.67.202.21:6201/erotic3
+#EXTINF:-1,Playboy_play
+http://213.59.128.162:9996/play/Playboy/index.m3u8
 
 
 #EXTINF:-1,Ibiza TV3_streamlock.net

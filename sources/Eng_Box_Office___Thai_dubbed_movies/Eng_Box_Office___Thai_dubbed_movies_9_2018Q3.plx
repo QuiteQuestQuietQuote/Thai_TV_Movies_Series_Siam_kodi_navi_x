@@ -76,7 +76,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-05
+date=2018-10-09
 URL=
 
 
@@ -88,10 +88,13 @@ URL=
 
 
 type=video
-name=Venom (2018) ENG 720p.TS-1XBET_SeeHD
+name=Venom (2018) ENG 1080p.HD-TS.X264-24HD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
-date=2018-10-08
-URL=https://openload.co/f/7QVJgXbfcvQ/Venom.2018.720p.TS-1XBET_SeeHD.mp4
+date=2018-10-09
+URL=https://openload.co/f/TTHAn4-3YFs/Venom.2018.1080p.HD-TS.X264-24HD.mkv.mp4
+#https://openload.co/f/w86H5YUMlTg/Venom_2018_720p_HD-TS_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/_OVSTt1VN-k/Venom.2018.PROPER.HDTS.XviD-AVID.avi.mp4
+#https://openload.co/f/7QVJgXbfcvQ/Venom.2018.720p.TS-1XBET_SeeHD.mp4
 #https://openload.co/f/SW-MXnRL-J4/Venom.2018.NOLOGO.720p.HDCAM.English.LINE.1XBET.mp4
 #https://openload.co/f/rn3A5sEjzOk/Venom.2018.TS.X264-PLAYNOW.mp4
 #https://openload.co/f/V6nW7VG6u8I/Venom_%282018%29_Cam
@@ -103,7 +106,11 @@ date=2018-10-04
 URL=https://openload.co/f/XINdJVekZzg/Smallfoot_2018_New_Src_TSRip-H264-AC3-Meow_SeeHD.mkv.mp4
 #https://openload.co/f/iZDs99VvCC8/Smallfoot_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
-
+type=video
+name=A Star Is Born (2018) ENG 720p.HDCAM.1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg
+date=2018-10-09
+URL=https://openload.co/f/n4-PVqD7M-8/A.Star.Is.Born.2018.720p.HDCAM.1XBET_SeeHD.mp4
 
 type=video
 name=London Fields (2018) RUS 720p_RUS_TS_ENG_SUB-1XBET_SeeHD
@@ -249,15 +256,15 @@ URL=https://openload.co/f/bTipjRNrvP8/Christopher_Robin_2018_720p_HDCAM-1xBET_Se
 
 
 type=video
-name=Mamma Mia! Here We Go Again (2018) ENG 720p.HDCAM.1XBET_SeeHD
+name=Mamma Mia! Here We Go Again (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg
-date=2018-09-22
-URL=https://openload.co/f/IW1yONbl8K8/Mamma_Mia_Here_We_Go_Again_2018_1080p_HC_HDRip_X264_AC3-EVO.mkv.mp4
+date=2018-10-09
+URL=https://openload.co/f/2bm-OjziphU/Mamma.Mia.Here.We.Go.Again.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/IW1yONbl8K8/Mamma_Mia_Here_We_Go_Again_2018_1080p_HC_HDRip_X264_AC3-EVO.mkv.mp4
 #https://openload.co/f/kMaDKUhPbzw/Mamma.Mia.Here.We.Go.Again.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/tEGouttmdug/Mamma.Mia.Here.We.Go.Again.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/4rQ-PpCodrE/Mamma.Mia%21.2.2018.720p.HDCAM.1XBET_SeeHD.mp4
 #https://openload.co/f/-PY_xqQbWaE/Mamma.Mia%21.2.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
-
 
 
 
@@ -277,7 +284,13 @@ URL=https://openload.co/f/Lt5SYC2lJGo/How_It_Ends.2018.1080p.NF.WEB-DL.DD5.1.H.2
 
 
 
-
+type=video
+name=Sorry to Bother You (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg
+date=2018-10-09
+URL=https://openload.co/f/1nDipDBP13Y/Sorry.to.Bother.You.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/csQ9HDLv4z0/Sorry.to.Bother.You.2018.720p.WEBRip.mkv.mp4
+#https://openload.co/f/rn1TDVeQFwo/Sorry_to_Bother_You_SeeHD.mkv.mp4
 
 
 
@@ -1331,7 +1344,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-08
+date=2018-10-09
 URL=
 
 
@@ -1351,11 +1364,29 @@ URL=
 
 
 
+type=video
+name=Unfriended: Dark Web (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/q27yNUaEt6ohcQMEVHwvPaoKBT8.jpg
+date=2018-10-09
+URL=https://uptobox.com/gbmq1xre6z6n
+#https://www.rapidvideo.com/e/FW20TBVKUP
+#https://openload.co/embed/I5aVgmuMk9E/UNFRIENDED80.Ganol.st.mkv
+#https://openload.co/f/OZl7nhYrccw/Unfriended.Dark.Web.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/ofkFw6_50OA/Unfriended%3A_Dark_Web_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
 
+type=video
+name=Kids on the Slope (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6ePJSqUkrez9DXKejigOgGSpaw.jpg
+date=2018-10-09
+URL=https://openload.co/f/HIyBTL1CzS4/Kids.On.The.Slope.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/74zSzVv9gDE/Kids.On.The.Slope.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
 
-
-
-
+type=video
+name=Constantine: City of Demons The Movie (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXXVaKZYzUVwqJTRYmgWza9hFPh.jpg
+date=2018-10-09
+URL=https://openload.co/f/3y92vGZwUXo/Constantine.City.of.Demons.The.Movie.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
+#https://openload.co/f/SxUpkwA5Nto/Constantine.City.of.Demons.The.Movie.2018.BDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 
 type=video
 name=Buyer Beware (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
@@ -6492,9 +6523,18 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6IOTVyG1t3zrKinuEG1GC0b7S
 date=2018-10-07
 URL=https://openload.co/f/E_n8y61GH5o/The.Boxcar.Children.Surprise.Island.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
 
+type=video
+name=King Arthur: Excalibur Rising (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUa5CmvFDoUU02KnG9ic58BC5iN.jpg
+date=2018-10-09
+URL=https://openload.co/f/zdPkSTWa97Y/King.Arthur.Excalibur.Rising.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
-
-
+type=video
+name=Between Worlds (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/csQhofFqJbOrpg5QrG7xPXuyyc3.jpg
+date=2018-10-09
+URL=https://openload.co/f/VhLB5Jg74mQ/Between.Worlds.2018.720pBR_SeeHD.mkv.mp4
+#https://openload.co/f/bn2k_lfHbao/Between.Worlds.2018.720p.BRRip.x264.mkv.mp4
 
 
 
@@ -6505,7 +6545,7 @@ URL=https://openload.co/f/E_n8y61GH5o/The.Boxcar.Children.Surprise.Island.2018.7
 type=video
 name=
 thumb=
-date=2018-10-08
+date=2018-10-09
 URL=
 
 type=video
