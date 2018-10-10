@@ -222,10 +222,11 @@ URL=https://openload.co/f/FoA3E5P600A/Blindspotting.2018.720p.HDCAM.X264.24HD_Se
 #https://openload.co/f/azKIM3efkXo/Blindspotting.2018.HDCAM.XviD-AVID.avi.mp4
 
 type=video
-name=Teen Titans Go! To the Movies (2018) ENG 720p_TS-1XBET_SeeHD
+name=Teen Titans Go! To the Movies (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiEuNw3Lg0PIPNUQ3PIWWElwGcY.jpg
-date=2018-08-06
-URL=https://openload.co/f/R3z_dvaWqUA/Teen_Titans_Go_To_the_Movie_2018_720p_TS-1XBET_SeeHD.mp4
+date=2018-10-10
+URL=https://openload.co/f/owzkqG6yDQc/Teen.Titans.Go.To.the.Movies.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/R3z_dvaWqUA/Teen_Titans_Go_To_the_Movie_2018_720p_TS-1XBET_SeeHD.mp4
 #https://openload.co/f/zgQ-t1LrA8w/Teen.Titans.Go.To.the.Movie.2018.720p.TS-1XBET.mp4   2.4GB
 
 
@@ -284,13 +285,7 @@ URL=https://openload.co/f/Lt5SYC2lJGo/How_It_Ends.2018.1080p.NF.WEB-DL.DD5.1.H.2
 
 
 
-type=video
-name=Sorry to Bother You (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg
-date=2018-10-09
-URL=https://openload.co/f/1nDipDBP13Y/Sorry.to.Bother.You.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/csQ9HDLv4z0/Sorry.to.Bother.You.2018.720p.WEBRip.mkv.mp4
-#https://openload.co/f/rn1TDVeQFwo/Sorry_to_Bother_You_SeeHD.mkv.mp4
+
 
 
 
@@ -1362,7 +1357,14 @@ URL=
 
 
 
-
+type=video
+name=Between Worlds (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/csQhofFqJbOrpg5QrG7xPXuyyc3.jpg
+date=2018-10-10
+URL=https://openload.co/f/vvFYOg7CQzw/Between.Worlds.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/jQET3znsDnw/Between.Worlds.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/VhLB5Jg74mQ/Between.Worlds.2018.720pBR_SeeHD.mkv.mp4
+#https://openload.co/f/bn2k_lfHbao/Between.Worlds.2018.720p.BRRip.x264.mkv.mp4
 
 type=video
 name=Unfriended: Dark Web (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1384,8 +1386,9 @@ URL=https://openload.co/f/HIyBTL1CzS4/Kids.On.The.Slope.2018.1080p.BluRay.x264-%
 type=video
 name=Constantine: City of Demons The Movie (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXXVaKZYzUVwqJTRYmgWza9hFPh.jpg
-date=2018-10-09
-URL=https://openload.co/f/3y92vGZwUXo/Constantine.City.of.Demons.The.Movie.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
+date=2018-10-10
+URL=https://openload.co/f/8hNrCDpfvgM/Constantine.City.of.Demons.The.Movie.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
+#https://openload.co/f/3y92vGZwUXo/Constantine.City.of.Demons.The.Movie.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
 #https://openload.co/f/SxUpkwA5Nto/Constantine.City.of.Demons.The.Movie.2018.BDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 
 type=video
@@ -6530,14 +6533,20 @@ date=2018-10-09
 URL=https://openload.co/f/zdPkSTWa97Y/King.Arthur.Excalibur.Rising.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
-name=Between Worlds (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/csQhofFqJbOrpg5QrG7xPXuyyc3.jpg
-date=2018-10-09
-URL=https://openload.co/f/VhLB5Jg74mQ/Between.Worlds.2018.720pBR_SeeHD.mkv.mp4
-#https://openload.co/f/bn2k_lfHbao/Between.Worlds.2018.720p.BRRip.x264.mkv.mp4
+name=Sorry to Bother You (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg
+date=2018-10-10
+URL=https://openload.co/f/cauAmDV8gKE/Sorry.to.Bother.You.2018.720p.BRRip.X264.mkv.mp4
+#https://openload.co/f/1nDipDBP13Y/Sorry.to.Bother.You.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/csQ9HDLv4z0/Sorry.to.Bother.You.2018.720p.WEBRip.mkv.mp4
+#https://openload.co/f/rn1TDVeQFwo/Sorry_to_Bother_You_SeeHD.mkv.mp4
 
-
-
+type=video
+name=Summer of 84 (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zastd8zM2ftOJpC7Y6gRFqAB7r.jpg
+date=2018-10-10
+URL=https://openload.co/f/USfqylt7I3M/SUMMER.OF.84.2018.720P.BLURAY.mp4
+#https://openload.co/f/HoIKf6zMrz8/Summer.Of.84.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
 
 
@@ -6545,7 +6554,7 @@ URL=https://openload.co/f/VhLB5Jg74mQ/Between.Worlds.2018.720pBR_SeeHD.mkv.mp4
 type=video
 name=
 thumb=
-date=2018-10-09
+date=2018-10-10
 URL=
 
 type=video
@@ -6750,10 +6759,11 @@ URL=https://openload.co/f/6aVEUo3AkIQ/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%
 
 
 type=video
-name=Searching (2018) ENG 720p.TS.1XBET_SeeHD
+name=Searching (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
-date=2018-09-06
-URL=https://openload.co/f/QtZ0byRHk3k/Searching.2018.720p.TS.1XBET_SeeHD.mp4
+date=2018-10-10
+URL=https://openload.co/f/AbXrs14E-Ew/Searching.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/QtZ0byRHk3k/Searching.2018.720p.TS.1XBET_SeeHD.mp4
 #https://openload.co/f/g6owtvE_D9s/Searching.2018.720p.TS.1XBET.mp4
 #https://openload.co/f/m4dVjOHEyDQ/Searching.2018.HDTS.XviD-AVID.avi.mp4
 type=video
