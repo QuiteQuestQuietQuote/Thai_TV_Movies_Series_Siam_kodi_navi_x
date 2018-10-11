@@ -88,10 +88,11 @@ URL=
 
 
 type=video
-name=Venom (2018) ENG 1080p.HD-TS.X264-24HD
+name=Venom (2018) ENG V3_New_Src_HDTS_x264_AC3
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
-date=2018-10-09
-URL=https://openload.co/f/TTHAn4-3YFs/Venom.2018.1080p.HD-TS.X264-24HD.mkv.mp4
+date=2018-10-11
+URL=https://openload.co/f/a3E_UhJHLrQ/Venom_2018_V3_New_Src_HDTS_x264_AC3.mkv.mp4
+#https://openload.co/f/TTHAn4-3YFs/Venom.2018.1080p.HD-TS.X264-24HD.mkv.mp4
 #https://openload.co/f/w86H5YUMlTg/Venom_2018_720p_HD-TS_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/_OVSTt1VN-k/Venom.2018.PROPER.HDTS.XviD-AVID.avi.mp4
 #https://openload.co/f/7QVJgXbfcvQ/Venom.2018.720p.TS-1XBET_SeeHD.mp4
@@ -261,6 +262,7 @@ name=Mamma Mia! Here We Go Again (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg
 date=2018-10-09
 URL=https://openload.co/f/2bm-OjziphU/Mamma.Mia.Here.We.Go.Again.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/kYVcXvjBX7U/Mamma.Mia.Here.We.Go.Again.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/IW1yONbl8K8/Mamma_Mia_Here_We_Go_Again_2018_1080p_HC_HDRip_X264_AC3-EVO.mkv.mp4
 #https://openload.co/f/kMaDKUhPbzw/Mamma.Mia.Here.We.Go.Again.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/tEGouttmdug/Mamma.Mia.Here.We.Go.Again.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
@@ -1339,7 +1341,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-09
+date=2018-10-11
 URL=
 
 
@@ -1352,10 +1354,21 @@ URL=
 
 
 
+type=video
+name=Sorry to Bother You (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg
+date=2018-10-11
+URL=https://openload.co/f/vZ-eM1B6o1Y/Sorry.to.Bother.You.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/cauAmDV8gKE/Sorry.to.Bother.You.2018.720p.BRRip.X264.mkv.mp4
+#https://openload.co/f/1nDipDBP13Y/Sorry.to.Bother.You.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/csQ9HDLv4z0/Sorry.to.Bother.You.2018.720p.WEBRip.mkv.mp4
+#https://openload.co/f/rn1TDVeQFwo/Sorry_to_Bother_You_SeeHD.mkv.mp4
 
-
-
-
+type=video
+name=Rodin (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bQGnpTM2uluIMC1wfZWW5ldunp.jpg
+date=2018-10-11
+URL=https://openload.co/f/MWn6gjB0oXE/rodin.2017.1080p.bluray.x264-cinefile.mkv.mp4
 
 type=video
 name=Between Worlds (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1373,6 +1386,7 @@ date=2018-10-09
 URL=https://uptobox.com/gbmq1xre6z6n
 #https://www.rapidvideo.com/e/FW20TBVKUP
 #https://openload.co/embed/I5aVgmuMk9E/UNFRIENDED80.Ganol.st.mkv
+#https://openload.co/f/J112BzF5wr0/Unfriended.Dark.Web.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/OZl7nhYrccw/Unfriended.Dark.Web.2018.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/ofkFw6_50OA/Unfriended%3A_Dark_Web_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
 
@@ -6527,14 +6541,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUa5CmvFDoUU02KnG9ic58BC5i
 date=2018-10-09
 URL=https://openload.co/f/zdPkSTWa97Y/King.Arthur.Excalibur.Rising.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Sorry to Bother You (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg
-date=2018-10-10
-URL=https://openload.co/f/cauAmDV8gKE/Sorry.to.Bother.You.2018.720p.BRRip.X264.mkv.mp4
-#https://openload.co/f/1nDipDBP13Y/Sorry.to.Bother.You.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/csQ9HDLv4z0/Sorry.to.Bother.You.2018.720p.WEBRip.mkv.mp4
-#https://openload.co/f/rn1TDVeQFwo/Sorry_to_Bother_You_SeeHD.mkv.mp4
+
 
 type=video
 name=Summer of 84 (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -6754,10 +6761,11 @@ URL=https://openload.co/f/6aVEUo3AkIQ/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%
 
 
 type=video
-name=Searching (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
+name=Searching (2018) ENG 720p.HDRip.BLURRED.AC3.X264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
-date=2018-10-10
-URL=https://openload.co/f/AbXrs14E-Ew/Searching.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-10-11
+URL=https://openload.co/f/8gMt1dKsYHo/Searching.2018.720p.HDRip.BLURRED.AC3.X264-CMRG.mkv.mp4
+#https://openload.co/f/AbXrs14E-Ew/Searching.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/QtZ0byRHk3k/Searching.2018.720p.TS.1XBET_SeeHD.mp4
 #https://openload.co/f/g6owtvE_D9s/Searching.2018.720p.TS.1XBET.mp4
 #https://openload.co/f/m4dVjOHEyDQ/Searching.2018.HDTS.XviD-AVID.avi.mp4
