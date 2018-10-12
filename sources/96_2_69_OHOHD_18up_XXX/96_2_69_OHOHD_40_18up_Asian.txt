@@ -1,0 +1,177 @@
+version=1
+background=https://erotic24hr.com/wp-content/uploads/2018/10/I-have-crossed-a-line-2017.jpg
+title=96_2_69_OHOHD_40_18up_Asian
+logo=https://erotic24hr.com/wp-content/uploads/2018/10/I-have-crossed-a-line-2017.jpg
+icon_playlist=https://erotic24hr.com/wp-content/uploads/2018/10/I-have-crossed-a-line-2017.jpg
+description=thanks to OHOHD, Nunghd, ThaiMovie4K, satan18av, erotic24hr/description
+
+type=playlist
+name=Sorted by user-assigned order
+icon=http://media.navixtreme.com/images/icons/2downarrow.png
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_40_18up_Asian.plx?action=sortsel&cur=ord
+
+
+type=playlist
+name=96_2_69_OHOHD_18up_XXX
+thumb=https://4.bp.blogspot.com/-_5ioyzmX5T8/WN8H64OWkYI/AAAAAAAAHN4/_43g2SHgg8ocoYiCZTr9sMpwwNEIjF8aQCLcB/s320/4SSS.jpg
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/96_2_69_OHOHD_18up_XXX/96_2_69_OHOHD_18up_XXX.plx
+player=default
+rating=-1.00
+
+
+
+
+type=video
+name=
+thumb=
+URL=
+
+type=addon
+name=[COLOR=FFFF5733]youtube.dl (while playing can download here)[/COLOR]
+thumb=https://mrs0m30n3.github.io/youtube-dl-gui/images/logo.png
+URL=script.module.youtube.dl
+
+type=video
+name=
+thumb=
+URL=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=16xxxxxxxxxxxxxxxxxxxxJeolm Eun Hyeongsunimdeul (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Jeolm-Eun-Hyeongsunimdeul-2018.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/cafpcpostsltrfde/
+
+type=video
+name=Mas Issneun Sejamae (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Mas-Issneun-Sejamae-2018.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/spcbbcntslandebt/
+
+type=video
+name=Obaasannno Aijyou (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Obaasannno-Aijyou-2017.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/tsqpkeaopkmbttln/
+
+type=video
+name=Jeongsa Mother Of Friend (2018) 2 [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Jeongsa-Mother-Of-Friend-2018-2-Uncut.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/octsackdrldtfptn/
+
+type=video
+name=Hitoduma Kokan (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Hitoduma-Kokan-2017.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/eqdksctkkmldefcl/
+
+
+type=video
+name=Chaghan Chingueomma (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Chaghan-Chingueomma-2017.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/bmnfmcetmmmdacbo/
+
+type=video
+name=I have crossed a line (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/I-have-crossed-a-line-2017.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/asllkkkpefkbcrde/
+
+type=video
+name=Jinjuui Sungyeolsangsil (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Jinjuui-Sungyeolsangsil-2018-Uncut.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/mlmeosobroloscmd/
+
+type=video
+name=Bimil Jeongsa Jag Eun Eomma (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Bimil-Jeongsa-Jag-Eun-Eomma-2017-Uncut.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/qpsrtnrdlndcraks/
+
+type=video
+name=Trap Of The Special Affairs Division Female Prisoner (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Trap-Of-The-Special-Affairs-Division-Female-Prisoner-2017.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/aplkllssrskseqlp/
+
+
+type=video
+name=The mixed collage girl who was framed with erotic massage (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/The-mixed-collage-girl-who-was-framed-with-erotic-massage-2016.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/rcsknmkeqfopsolc/
+
+type=video
+name=Yeochin Eonni (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Yeochin-Eonni-2018.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/efdkntbnqsoqdtld/
+
+type=video
+name=Wanjeonhan Sayug Gamgeum Ui Mihag (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Wanjeonhan-Sayug-Gamgeum-Ui-Mihag-2018.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/mmfppdrnenamnprb/
+
+type=video
+name=Yeppeun Cheojedeul (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Yeppeun-Cheojedeul-2018.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/orommkkqonstfkpr/
+
+type=video
+name=MIDARAYOME 05 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/MIDARAYOME-05-2017.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/mfpcnnclcamepftd/
+
+
+type=video
+name=Molest Train Horn Course Is Filled With Dreams (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Molest-Train-Horn-Course-Is-Filled-With-Dreams-2017.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/ttsbatdftakbcnbn/

@@ -187,10 +187,11 @@ URL=https://openload.co/f/mo5HTgGEhFQ/The_Happytime_Murders_HDcam_SeeHD.avi.mp4
 #https://openload.co/f/NKbJ8AueDe4/The.Happytime.Murders.2018.720p.HDCAM.1XBET_SeeHD.mp4
 
 type=video
-name=Crazy Rich Asians (2018) ENG NEW_720p_TS-1XBET_SeeHD
+name=Crazy Rich Asians (2018) ENG NEW_1080p_HDCAM_HQ-K1NGPU_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnTqi4nhIi1eesT5uYMmhEPGNih.jpg
-date=2018-09-17
-URL=https://openload.co/f/ah3SoVM7hjM/Crazy_Rich_Asians_2018_NEW_720p_TS-1XBET_SeeHD.mp4
+date=2018-10-12
+URL=https://openload.co/f/SV38rv5nr70/Crazy_Rich_Asians_2018_NEW_1080p_HDCAM_HQ-K1NGPU_SeeHD.mkv.mp4
+#https://openload.co/f/ah3SoVM7hjM/Crazy_Rich_Asians_2018_NEW_720p_TS-1XBET_SeeHD.mp4
 #https://openload.co/f/tvN8COoFZYQ/Crazy.Rich.Asians.2018.HDTS.XviD-AVID.avi.mp4
 #https://openload.co/f/DxmbGuLNA7M/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
 #https://openload.co/f/g6uOlCEZREc/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
@@ -1359,16 +1360,23 @@ name=Sorry to Bother You (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg
 date=2018-10-11
 URL=https://openload.co/f/vZ-eM1B6o1Y/Sorry.to.Bother.You.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/87TuoFkcUoQ/Sorry.to.Bother.You.2018.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/cauAmDV8gKE/Sorry.to.Bother.You.2018.720p.BRRip.X264.mkv.mp4
 #https://openload.co/f/1nDipDBP13Y/Sorry.to.Bother.You.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 #https://openload.co/f/csQ9HDLv4z0/Sorry.to.Bother.You.2018.720p.WEBRip.mkv.mp4
 #https://openload.co/f/rn1TDVeQFwo/Sorry_to_Bother_You_SeeHD.mkv.mp4
+#https://uptobox.com/icyuhpa0g6cx   720
+#https://www.rapidvideo.com/e/FW5XKNGUZ5   720
+#https://openload.co/embed/0rUdcdyT24Y/SORRBORTHERYOUBD72.Ganol.st.mkv.mp4
 
 type=video
 name=Rodin (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bQGnpTM2uluIMC1wfZWW5ldunp.jpg
 date=2018-10-11
 URL=https://openload.co/f/MWn6gjB0oXE/rodin.2017.1080p.bluray.x264-cinefile.mkv.mp4
+#https://uptobox.com/y8753huxcfee   720
+#https://www.rapidvideo.com/e/FW5XPDRHM9   720
+#https://openload.co/embed/s8vWP-2Ul0g/RODINBD72.Ganol.st.mkv.mp4
 
 type=video
 name=Between Worlds (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -9188,29 +9196,7 @@ URL=https://openload.co/f/rD7yIbd-slc/The_Darkest_Minds_%282018%29%E0%B8%94%E0%B
 #https://streamango.com/f/cdckomebmtmsrmdq/The_Darkest_Minds_2018_
 
 
-type=video
-name=Hotel Artemis (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg
-date=2018-09-27
-URL=https://openload.co/f/P4lVLWj1CTE/Hotel.Artemis.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/zZdU-tbCKwc/Hotel.Artemis.2018.1080p.BluRay.x264-Replica.mp4
-#https://openload.co/f/FSEgqQPkY6c/Hotel.Artemis.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/1-PZaWihKKo/Hotel.Artemis.2018.1080p.BluRay.x264-Replica_21CNPX.mp4
-#https://openload.co/f/tG6I9jzj2qY/Hotel_Artemis_2018_1080p_BluRay_x264_Replica.mkv.mp4
-#https://openload.co/f/yzS3HTRoSGM/Hotel_Artemis_%282018%29720p_BluRay_x264-Replica.Ganool.mkv.mp4
-#https://openload.co/f/ZmEWt8eC0Dk/Hotel.Artemis.2018.720p.720p.BRRip.x264.mkv.mp4
-#https://openload.co/f/v8gCDjk1_4A/Hotel_Artemis_%282018%29_720p_BRRip_%5B.vc%5D.mkv.mp4
-#https://openload.co/f/Xks0l93TgZg/Hotel_Artemis_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
-#https://openload.co/f/ensVsB79Sz0/Hotel.Artemis.2018.720p.HDCAM.X264-24HD.mp4
-#https://uptobox.com/qjplhxzov47m   720
-#https://www.rapidvideo.com/e/FVP8HUHJ2F   720
-#https://openload.co/embed/FPt8JKoGWcY/HOTELARTEMISBD72.Ganol.st.mkv
-type=video
-name=Hotel Artemis (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg
-date=2018-10-05
-URL=https://openload.co/f/OVxG0TT7qfc/Hotel_Artemis_%282018%29%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B9%82%E0%B8%88%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://streamango.com/f/dfqbdqfrceeleplc/Hotel_Artemis_2018_
+
 
 
 type=video
@@ -9642,17 +9628,7 @@ URL=https://streamango.com/f/tstcsnsskldaccnm/The_Monkey_King_3_2018_3_
 
 
 
-type=video
-name=Fairy Tail Movie 2: Dragon Cry (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6GuwIVkNZYFkt7kiHSJRPiXAAA.jpg
-date=2018-03-14
-URL=https://openload.co/f/YNyerI8D4BI/Fairy.Tail.Dragon.Cry.2017.1080p.BluRay.x264-WaLMaRT.mkv.mp4
-type=video
-name=Fairy Tail Movie 2: Dragon Cry (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6GuwIVkNZYFkt7kiHSJRPiXAAA.jpg
-date=2018-02-14
-URL=https://streamango.com/f/blonnaontoptfqls/Fairy_Tail_Movie_2_Dragon_Cry_2017_
-#https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97_%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3.mp4
+
 
 
 type=video
@@ -9910,9 +9886,44 @@ URL=
 
 
 
+type=video
+name=Fairy Tail Movie 2: Dragon Cry (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6GuwIVkNZYFkt7kiHSJRPiXAAA.jpg
+date=2018-03-14
+URL=https://openload.co/f/YNyerI8D4BI/Fairy.Tail.Dragon.Cry.2017.1080p.BluRay.x264-WaLMaRT.mkv.mp4
+type=video
+name=Fairy Tail Movie 2: Dragon Cry (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6GuwIVkNZYFkt7kiHSJRPiXAAA.jpg
+date=2018-10-12
+URL=https://openload.co/f/ztN-TXrLbko/Fairy_Tail_Movie_2%3A_Dragon_Cry_%282017%29%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97_%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3.mp4
+#https://streamango.com/f/blonnaontoptfqls/Fairy_Tail_Movie_2_Dragon_Cry_2017_
+#https://openload.co/f/_WLZJ72bwSs/Fairy_Tail_Dragon_Cry_%282017%29_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97_%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3.mp4
 
 
-
+type=video
+name=Hotel Artemis (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg
+date=2018-09-27
+URL=https://openload.co/f/P4lVLWj1CTE/Hotel.Artemis.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/zZdU-tbCKwc/Hotel.Artemis.2018.1080p.BluRay.x264-Replica.mp4
+#https://openload.co/f/FSEgqQPkY6c/Hotel.Artemis.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/1-PZaWihKKo/Hotel.Artemis.2018.1080p.BluRay.x264-Replica_21CNPX.mp4
+#https://openload.co/f/tG6I9jzj2qY/Hotel_Artemis_2018_1080p_BluRay_x264_Replica.mkv.mp4
+#https://openload.co/f/yzS3HTRoSGM/Hotel_Artemis_%282018%29720p_BluRay_x264-Replica.Ganool.mkv.mp4
+#https://openload.co/f/ZmEWt8eC0Dk/Hotel.Artemis.2018.720p.720p.BRRip.x264.mkv.mp4
+#https://openload.co/f/v8gCDjk1_4A/Hotel_Artemis_%282018%29_720p_BRRip_%5B.vc%5D.mkv.mp4
+#https://openload.co/f/Xks0l93TgZg/Hotel_Artemis_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
+#https://openload.co/f/ensVsB79Sz0/Hotel.Artemis.2018.720p.HDCAM.X264-24HD.mp4
+#https://uptobox.com/qjplhxzov47m   720
+#https://www.rapidvideo.com/e/FVP8HUHJ2F   720
+#https://openload.co/embed/FPt8JKoGWcY/HOTELARTEMISBD72.Ganol.st.mkv
+type=video
+name=Hotel Artemis (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg
+date=2018-10-12
+URL=https://openload.co/f/-EDYQ3A0Bww/Hotel_Artemis_%282018%29%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B9%82%E0%B8%88%E0%B8%A3.mp4
+#https://openload.co/f/OVxG0TT7qfc/Hotel_Artemis_%282018%29%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B9%82%E0%B8%88%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/dfqbdqfrceeleplc/Hotel_Artemis_2018_
 
 
 type=video

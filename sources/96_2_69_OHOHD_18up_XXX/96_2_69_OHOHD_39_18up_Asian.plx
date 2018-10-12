@@ -47,7 +47,29 @@ URL=
 
 
 
+type=video
+name=190xxxxxxxxxxxxxxxxxxxxHitoduma Sei Dorei Yui Nishikawa (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Hitoduma-Sei-Dorei-Yui-Nishikawa-2017.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/sdqptpdmkkflnqto/
 
+type=video
+name=Jag Eun Eommadeul (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Jag-Eun-Eommadeul-2018-Uncut.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/npemfoldnnmatfmt/
+
+type=video
+name=A Love Picture Book I Have Flying (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/A-Love-Picture-Book-I-Have-Flying-2017.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/rkoofkclmbdfeomd/
+
+type=video
+name=Laboratory For Strengthening Extinction (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/09/Laboratory-For-Strengthening-Extinction-2017.jpg
+date=2018-10-12
+URL=https://streamcherry.com/embed/kpdqkmetdkksptrc/
 
 
 

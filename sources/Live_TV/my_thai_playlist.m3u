@@ -2419,10 +2419,7 @@ http://81.200.50.5/hls/Erox_nejtv_portable_low.m3u8
 
 
 
-#EXTINF:-1,XXX18+_nuart tv
-http://82.209.207.119:8905/play/a00l?m3u8
-#EXTINF:-1,XXX18+
-http://86.57.182.131:8905/play/a00l?m3u8
+
 
 #EXTINF:-1,XXX18+_udp
 http://5.137.42.51:1234/udp/225.54.23.158:5000
@@ -2510,10 +2507,7 @@ http://109.224.64.146/master_344.m3u8
 
 
 
-#EXTINF:-1,lovestreamhappy_rtmp
-rtmp://172.104.126.152/lovestreamhappy
-#EXTINF:-1,lovestream_rtmp
-rtmp://5-direct555-axd-10-xx.hnwzzy.com:1935/live/999888
+
 
 
 #EXTINF:-1, WAAYH
@@ -2573,15 +2567,29 @@ http://172.104.114.178/vod/live/3/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 #EXTINF:-1,OURS_HD4
 http://172.104.114.178/vod/live/4/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 
-#EXTINF:-1,CH_rtmp
+#EXTINF:-1,lovestreamhappy_rtmp
+rtmp://172.104.126.152/lovestreamhappy
+#EXTINF:-1,lovestream_rtmp
+rtmp://5-direct555-axd-10-xx.hnwzzy.com:1935/live/999888
+#EXTINF:-1,CHN_rtmp
 rtmp://125.227.27.196/385214775/tv/ttv11
+#EXTINF:-1,Happy_CH_CHN_rtmp
+rtmp://125.227.27.196/385214775/tv/ttv12
 
 #EXTINF:-1,KOR_XXX
 http://122.38.74.172:9981/stream/channelid/1463854277
 #EXTINF:-1,VENUS
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/63.m3u8
+
 #EXTINF:-1,XXX_a00l
 http://86.57.182.131:8905/play/a00l?m3u8
+#EXTINF:-1,XXX18+_nuart tv
+http://82.209.207.119:8905/play/a00l?m3u8
+#EXTINF:-1,XXX18+
+http://86.57.182.131:8905/play/a00l?m3u8
+#EXTINF:-1,h&h
+http://94.46.245.190:8007/play/a009
+
 
 #EXTINF:-1,FRENCHLOVER_powernet
 http://test.powernet.com.ru:5000/channel_239.1.13.4/index.m3u8
