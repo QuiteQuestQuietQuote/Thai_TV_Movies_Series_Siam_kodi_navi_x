@@ -76,7 +76,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-09
+date=2018-10-13
 URL=
 
 
@@ -86,6 +86,21 @@ URL=
 
 
 
+
+
+type=video
+name=First Man (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
+date=2018-10-13
+URL=https://openload.co/f/AwQGBb1XjbM/First_Man_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/7mOSc3yTvAM/First_Man_2018_720p_HDCAM-1XBET.mp4
+
+type=video
+name=Bad Times at the El Royale (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg
+date=2018-10-13
+URL=https://openload.co/f/nLYd3wx0TdA/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/tkfG_HP1Geg/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET.mp4
 
 type=video
 name=Venom (2018) ENG V3_New_Src_HDTS_x264_AC3
@@ -258,17 +273,7 @@ URL=https://openload.co/f/bTipjRNrvP8/Christopher_Robin_2018_720p_HDCAM-1xBET_Se
 
 
 
-type=video
-name=Mamma Mia! Here We Go Again (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg
-date=2018-10-09
-URL=https://openload.co/f/2bm-OjziphU/Mamma.Mia.Here.We.Go.Again.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/kYVcXvjBX7U/Mamma.Mia.Here.We.Go.Again.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/IW1yONbl8K8/Mamma_Mia_Here_We_Go_Again_2018_1080p_HC_HDRip_X264_AC3-EVO.mkv.mp4
-#https://openload.co/f/kMaDKUhPbzw/Mamma.Mia.Here.We.Go.Again.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/tEGouttmdug/Mamma.Mia.Here.We.Go.Again.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/4rQ-PpCodrE/Mamma.Mia%21.2.2018.720p.HDCAM.1XBET_SeeHD.mp4
-#https://openload.co/f/-PY_xqQbWaE/Mamma.Mia%21.2.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+
 
 
 
@@ -1342,7 +1347,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-11
+date=2018-10-13
 URL=
 
 
@@ -1350,10 +1355,40 @@ URL=
 
 
 
+type=video
+name=14 Cameras (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzitlCN6BSddbhOyyLetgCmkjAQ.jpg
+date=2018-10-13
+URL=https://openload.co/f/yfOS3qf-fa8/14.cameras.2018.limited.1080p.bluray.x264-cadaver.mkv.mp4
 
+type=video
+name=6-Headed Shark Attack (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS37m9pRBG0QYTeCEtzNBVVVL3H.jpg
+date=2018-10-13
+URL=https://openload.co/f/1Lcjl0mIE7s/6.headed.shark.attack.2018.1080p.bluray.x264-rusted.mkv.mp4
 
+type=video
+name=With A Kiss I Die (2018) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/PoEF9xNNBGnmbp0loiEMoUMBN.jpg
+date=2018-10-13
+URL=https://openload.co/f/hXtYN-Kixqo/With.a.Kiss.I.Die.2018.1080p.BluRay.x264.DTS-CHD.mkv.mp4
 
-
+type=video
+name=Mamma Mia! Here We Go Again (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg
+date=2018-10-13
+URL=https://openload.co/f/_kOr_l7UYGU/mamma.mia.here.we.go.again.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/uby_OvgIw4k/Mamma.Mia.Here.We.Go.Again.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/nQOQMe9Q_tc/mamma.mia.here.we.go.again.2018.720p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/2xgPIDDA0_g/Mamma.Mia.Here.We.Go.Again.2018.720p.BRRip.x264.mkv.mp4
+#https://openload.co/f/i4zUhcL9Eps/Mamma.Mia.Here.We.Go.Again.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/2bm-OjziphU/Mamma.Mia.Here.We.Go.Again.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/kYVcXvjBX7U/Mamma.Mia.Here.We.Go.Again.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/IW1yONbl8K8/Mamma_Mia_Here_We_Go_Again_2018_1080p_HC_HDRip_X264_AC3-EVO.mkv.mp4
+#https://openload.co/f/kMaDKUhPbzw/Mamma.Mia.Here.We.Go.Again.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/tEGouttmdug/Mamma.Mia.Here.We.Go.Again.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/4rQ-PpCodrE/Mamma.Mia%21.2.2018.720p.HDCAM.1XBET_SeeHD.mp4
+#https://openload.co/f/-PY_xqQbWaE/Mamma.Mia%21.2.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 
 type=video
 name=Sorry to Bother You (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2209,6 +2244,7 @@ name=Apostasy (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjhVHDCCl2nwR1yCPZX4xw819Se.jpg
 date=2018-08-05
 URL=https://openload.co/f/aF-R1KUE_9M/Apostasy.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/XqbXthaHwKE/Apostasy.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://uptobox.com/vwxvkdznb3dk   720
 #https://www.rapidvideo.com/e/FTT0K8TCI2   720
 #https://openload.co/embed/dIQbksb9Xso/APOTASYBD72.Ganol.ru.mkv.mp4
@@ -6554,8 +6590,12 @@ URL=https://openload.co/f/zdPkSTWa97Y/King.Arthur.Excalibur.Rising.2017.720p.Blu
 type=video
 name=Summer of 84 (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zastd8zM2ftOJpC7Y6gRFqAB7r.jpg
-date=2018-10-10
-URL=https://openload.co/f/USfqylt7I3M/SUMMER.OF.84.2018.720P.BLURAY.mp4
+date=2018-10-13
+URL=https://uptobox.com/1hnape7bkzj0
+#https://www.rapidvideo.com/e/FW5XQMIYD3
+#https://openload.co/embed/1284G1iKm6I/SUMMER84BD72.Ganol.st.mkv.mp4
+#https://openload.co/f/L7pmWQZjMbA/Summer_of_84_%282018%29720p_BluRay_x264-CREEPSHOW.Ganool.mkv.mp4
+#https://openload.co/f/USfqylt7I3M/SUMMER.OF.84.2018.720P.BLURAY.mp4
 #https://openload.co/f/HoIKf6zMrz8/Summer.Of.84.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
 
@@ -6867,10 +6907,12 @@ URL=https://streamango.com/f/mplcmnpmflrrqabl/Hotel_Transylvania_3_Summer_Vacati
 
 
 type=video
-name=The Spy Who Dumped Me (2018) ENG 720p_HDCAM_PROPER_SeeHD
+name=The Spy Who Dumped Me (2018) ENG 720p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
-date=2018-09-12
-URL=https://openload.co/f/x51Bm-O3jbU/The_Spy_Who_Dumped_Me_2018_720p_HDCAM_PROPER_SeeHD.mkv.mp4
+date=2018-09-13
+URL=https://openload.co/f/43pcRtmffLE/The.Spy.Who.Dumped.Me.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/QZPA21mDd-4/The.Spy.Who.Dumped.Me.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/x51Bm-O3jbU/The_Spy_Who_Dumped_Me_2018_720p_HDCAM_PROPER_SeeHD.mkv.mp4
 #https://openload.co/f/_UTH_XC0K4o/The.Spy.Who.Dumped.Me.2018.720p.HDCAM.1XBET_SeeHD.mp4
 #https://openload.co/f/wHv_A2QTR80/The.Spy.Who.Dumped.Me.2018.HDCAM.XviD-AV.2018.HDCAM.XviD-AVID.avi.mp4
 type=video
@@ -9255,7 +9297,10 @@ type=video
 name=The Meg (2018) ENG V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
 date=2018-10-05
-URL=https://openload.co/f/pKqHWNtzhGU/The.Meg.2018.V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+URL=https://openload.co/f/_paYAZ_UHbo/The_Meg_2018_1080p_WEB-DL-H264-DD_5.1-Zi%24t.mkv.mp4
+#https://openload.co/f/hSFdLOExZeI/The.Meg.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/iqJVfD5uF3w/The.Meg.2018.1080p.HDRip.X264.AC3-EVO.mkv   MKV3.3GB
+#https://openload.co/f/pKqHWNtzhGU/The.Meg.2018.V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/gQMeXejTxnY/The.Meg.2018.V2.HC.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/F1gEbsctjSc/The.Meg.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/xVYurn_r6oA/The.Meg.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv   MKV3.7GB

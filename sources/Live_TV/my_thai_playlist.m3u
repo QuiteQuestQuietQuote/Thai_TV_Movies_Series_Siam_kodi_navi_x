@@ -2567,8 +2567,7 @@ http://172.104.114.178/vod/live/3/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 #EXTINF:-1,OURS_HD4
 http://172.104.114.178/vod/live/4/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 
-#EXTINF:-1,lovestreamhappy_rtmp
-rtmp://172.104.126.152/lovestreamhappy
+
 #EXTINF:-1,lovestream_rtmp
 rtmp://5-direct555-axd-10-xx.hnwzzy.com:1935/live/999888
 #EXTINF:-1,CHN_rtmp
@@ -2587,8 +2586,6 @@ http://86.57.182.131:8905/play/a00l?m3u8
 http://82.209.207.119:8905/play/a00l?m3u8
 #EXTINF:-1,XXX18+
 http://86.57.182.131:8905/play/a00l?m3u8
-#EXTINF:-1,h&h
-http://94.46.245.190:8007/play/a009
 
 
 #EXTINF:-1,FRENCHLOVER_powernet
@@ -2611,6 +2608,8 @@ http://213.59.128.162:9996/play/Pink_O_TV/index.m3u8
 http://213.59.128.162:9996/play/Russkaya_noch/index.m3u8
 #EXTINF:-1,Passion_XXX
 http://213.59.128.162:9996/play/Passion_XXX/index.m3u8
+#EXTINF:-1,O-la-la
+http://213.59.128.162:9996/play/O-la-la/index.m3u8
 
 
 
