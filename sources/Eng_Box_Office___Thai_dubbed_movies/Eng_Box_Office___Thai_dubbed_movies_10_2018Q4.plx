@@ -94,6 +94,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZz
 date=2018-10-13
 URL=https://openload.co/f/AwQGBb1XjbM/First_Man_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/7mOSc3yTvAM/First_Man_2018_720p_HDCAM-1XBET.mp4
+#https://openload.co/f/I5V3WzV1etQ/First.Man.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 
 type=video
 name=Bad Times at the El Royale (2018) ENG 720p_HDCAM-1XBET_SeeHD
@@ -101,6 +102,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNtFgXqXPRMkm1QO8CHn5sHfUg
 date=2018-10-13
 URL=https://openload.co/f/nLYd3wx0TdA/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/tkfG_HP1Geg/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET.mp4
+#https://openload.co/f/fhhlvQypFAQ/Bad.Times.at.the.El.Royale.2018.HDCAM.XviD-AVID.avi.mp4
 
 type=video
 name=Venom (2018) ENG V3_New_Src_HDTS_x264_AC3
@@ -146,14 +148,6 @@ URL=https://openload.co/f/xsHGLKOMjkI/A_Simple_Favor_2018_NEW_720p_TS-1XBET_SeeH
 #https://openload.co/f/-mBMR4b7itM/A.Simple.Favor.2018.720p.HDCAM.x264-1XBET.mp4
 #https://openload.co/f/Gfi7xy3Yt6A/A.Simple.Favor.2018.NOLOGO.720p.HDCAM.mp4
 
-type=video
-name=The House with a Clock in Its Walls (2018) ENG 720p_HDCAM-1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
-date=2018-09-20
-URL=https://openload.co/f/5VmvSCnLG3U/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/U1vqLDgenNU/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET.mp4-536p.mp4
-#https://openload.co/f/WJCwV2VC7Y8/The_House_with_a_Clock_in_Its_Walls_2018_HDCAM_NO_WATERMARK_Layar.mp4
-#https://openload.co/f/qsPshoGW8PY/The.House.with.a.Clock.in.its.Walls.2018.HDCAM.XviD-AVID.avi.mp4
 
 
 
@@ -232,10 +226,12 @@ URL=https://openload.co/f/MTIj7shXvFw/The.Little.Mermaid.2018.1080p.AMZN.WEB-DL.
 #https://openload.co/f/74DNspHO7os/The.Little.Mermaid.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 
 type=video
-name=Blindspotting (2018) ENG 720p.HDCAM.X264.24HD_SeeHD
+name=Blindspotting (2018) ENG 1080p.WEB-DL.READ.INFO.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMQTd5g2NnYiS32Dcl75TqGSyrn.jpg
-date=2018-08-07
-URL=https://openload.co/f/FoA3E5P600A/Blindspotting.2018.720p.HDCAM.X264.24HD_SeeHD.mp4
+date=2018-10-14
+URL=https://openload.co/f/ix3TYEcLll4/Blindspotting.2018.1080p.WEB-DL.READ.INFO.H264-CMRG.mkv.mp4
+#https://openload.co/f/mMVHfFdzJIs/Blindspotting.1080p.HD.CAMA_SeeHD.mkv.mp4
+#https://openload.co/f/FoA3E5P600A/Blindspotting.2018.720p.HDCAM.X264.24HD_SeeHD.mp4
 #https://openload.co/f/azKIM3efkXo/Blindspotting.2018.HDCAM.XviD-AVID.avi.mp4
 
 type=video
@@ -1347,7 +1343,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-13
+date=2018-10-14
 URL=
 
 
@@ -1356,10 +1352,23 @@ URL=
 
 
 type=video
+name=The Happy Prince (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXivK7WYX784TiarvX7qL0232T8.jpg
+date=2018-10-14
+URL=https://openload.co/f/LnN4lsHFJaw/The.Happy.Prince.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Dust 2 Glory (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNHFJRKog2YA2IUNbG5INvKDMuK.jpg
+date=2018-10-14
+URL=https://openload.co/f/fwGbL0ugqro/Dust.2.Glory.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
 name=14 Cameras (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzitlCN6BSddbhOyyLetgCmkjAQ.jpg
 date=2018-10-13
 URL=https://openload.co/f/yfOS3qf-fa8/14.cameras.2018.limited.1080p.bluray.x264-cadaver.mkv.mp4
+#https://openload.co/f/VE4Uc_n2Kt8/14.Cameras.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=6-Headed Shark Attack (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -6598,13 +6607,18 @@ URL=https://uptobox.com/1hnape7bkzj0
 #https://openload.co/f/USfqylt7I3M/SUMMER.OF.84.2018.720P.BLURAY.mp4
 #https://openload.co/f/HoIKf6zMrz8/Summer.Of.84.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
+type=video
+name=Chicken (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOcsSuoPwEpM8CSPzBRhR78a7Kf.jpg
+date=2018-10-14
+URL=https://openload.co/f/osQ3dH38bNg/Chicken.2015.720p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 
 
 type=video
 name=
 thumb=
-date=2018-10-10
+date=2018-10-14
 URL=
 
 type=video
@@ -6689,7 +6703,19 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
-
+type=video
+name=The House with a Clock in Its Walls (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
+date=2018-09-20
+URL=https://openload.co/f/5VmvSCnLG3U/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/U1vqLDgenNU/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET.mp4-536p.mp4
+#https://openload.co/f/WJCwV2VC7Y8/The_House_with_a_Clock_in_Its_Walls_2018_HDCAM_NO_WATERMARK_Layar.mp4
+#https://openload.co/f/qsPshoGW8PY/The.House.with.a.Clock.in.its.Walls.2018.HDCAM.XviD-AVID.avi.mp4
+type=video
+name=The House with a Clock in Its Walls (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
+date=2018-10-14
+URL=https://openload.co/f/tqS3UUEV60s/The_House_with_a_Clock_in_Its_Walls_%282018%29%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -7080,13 +7106,27 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-10-07
+date=2018-10-14
 URL=
 
 
 
 
 
+
+
+
+type=video
+name=22 July (2018) ENG 1080p.NF.WEB-DL.DD%2B5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/34osIViLgpz6lEnkxXpTJMbNRBW.jpg
+date=2018-10-14
+URL=https://openload.co/f/Vt6goF_KSVE/22.July.2018.1080p.NF.WEB-DL.DD%2B5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/XVDWXYs1r5A/22.July.2018.720p.WEBRip.X264-METCON_SeeHD.mkv.mp4
+type=video
+name=22 July (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/34osIViLgpz6lEnkxXpTJMbNRBW.jpg
+date=2018-10-14
+URL=https://openload.co/f/MqYMJJ7K43w/22_July_%282018%2922_%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%8E%E0%B8%B2%E0%B8%84%E0%B8%A1_%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B9%82%E0%B8%AB%E0%B8%94_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -9294,10 +9334,12 @@ URL=https://openload.co/f/qv611gUWxpE/Along_With_the_Gods%3A_The_Last_49_Days_%2
 
 
 type=video
-name=The Meg (2018) ENG V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD
+name=The Meg (2018) ENG 1080p_WEB-DL-H264-DD_5.1-Zi%24t
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
-date=2018-10-05
+date=2018-10-14
 URL=https://openload.co/f/_paYAZ_UHbo/The_Meg_2018_1080p_WEB-DL-H264-DD_5.1-Zi%24t.mkv.mp4
+#https://openload.co/f/n68dVqz6c-4/The_Meg_2018_1080p_WEB-DL-H264-DD_5.1-Zi%24t.mkv.mp4
+#https://openload.co/f/fRPmt25Ox4U/The.Meg.2018.720pHD_SeeHD.mkv.mp4
 #https://openload.co/f/hSFdLOExZeI/The.Meg.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/iqJVfD5uF3w/The.Meg.2018.1080p.HDRip.X264.AC3-EVO.mkv   MKV3.3GB
 #https://openload.co/f/pKqHWNtzhGU/The.Meg.2018.V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
