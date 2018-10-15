@@ -76,7 +76,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-13
+date=2018-10-15
 URL=
 
 
@@ -86,7 +86,13 @@ URL=
 
 
 
-
+type=video
+name=Goosebumps 2: Haunted Halloween (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bcpki9GfXdXj9esFpPtlate8v0.jpg
+date=2018-10-15
+URL=https://openload.co/f/GtI7xMmd9wc/Goosebumps_2_Haunted_Halloween_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/EMVTZeiE6BE/Goosebumps.2.Haunted.Halloween.2018.720p.HDCAM-1XBET.mp4
+#https://openload.co/f/GEUXPedKLpk/Goosebumps.2.Haunted.Halloween.2018.NOLOGO.720p.HDCAM-1XBET.mp4
 
 type=video
 name=First Man (2018) ENG 720p_HDCAM-1XBET_SeeHD
@@ -1343,13 +1349,37 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-14
+date=2018-10-15
 URL=
 
 
 
 
+type=video
+name=Chicken (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOcsSuoPwEpM8CSPzBRhR78a7Kf.jpg
+date=2018-10-15
+URL=https://openload.co/f/pH5KXnqMqEc/Chicken.2015.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/osQ3dH38bNg/Chicken.2015.720p.BluRay.x264-%5BYTS.AM%5D.mp4
 
+type=video
+name=Down a Dark Hall (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wErHaJrD1QZ2FEVneH6w0GZUz2L.jpg
+date=2018-10-15
+URL=https://openload.co/f/5Vx3Zy-ae-Y/Down.a.Dark.Hall.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/JqSKB6cDqqQ/Down.A.Dark.Hall.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=The King (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Tgv0kLi8obD2bfiGyErp4BJMeH.jpg
+date=2018-10-15
+URL=https://openload.co/f/qJS0R8DVC7c/the.king.2017.USA.1080p.bluray.x264-cinefile.mkv.mp4
+
+type=video
+name=Mademoiselle Paradis (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGMDmXLj6G3M5btGrLLVMgUDMKO.jpg
+date=2018-10-15
+URL=https://openload.co/f/Kc5LOx1yp3Q/mademoiselle.paradis.2017.1080p.bluray.x264-bipolar.mkv.mp4
 
 type=video
 name=The Happy Prince (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1570,8 +1600,9 @@ URL=https://openload.co/f/ZrI0R82vN_I/Eighth_Grade_%282018%291080p_BluRay_x264-D
 type=video
 name=Aliens Ate My Homework (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SlQPLBhaB7EF3FlEgcjtMIZ7WK.jpg
-date=2018-09-30
-URL=https://openload.co/f/QIRzYqkKcGM/Aliens.Ate.My.Homework.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+date=2018-10-15
+URL=https://openload.co/f/IbPo0p-kFfY/Aliens.Ate.My.Homework.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/QIRzYqkKcGM/Aliens.Ate.My.Homework.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=The Tribes of Palos Verdes (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2254,6 +2285,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjhVHDCCl2nwR1yCPZX4xw819S
 date=2018-08-05
 URL=https://openload.co/f/aF-R1KUE_9M/Apostasy.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/XqbXthaHwKE/Apostasy.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/lYLX14nOalg/Apostasy.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://uptobox.com/vwxvkdznb3dk   720
 #https://www.rapidvideo.com/e/FTT0K8TCI2   720
 #https://openload.co/embed/dIQbksb9Xso/APOTASYBD72.Ganol.ru.mkv.mp4
@@ -6350,6 +6382,7 @@ date=2018-08-18
 URL=https://uptobox.com/7fxmpo873fi5
 #https://www.rapidvideo.com/e/FUE6BMDTO5
 #https://openload.co/embed/MTYWDaPG1c8/THEHOUSEOFTOMORROWBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/AYBBukyu5Pk/The_House_of_Tomorrow_%282017%29BluRay_720p_DTS_x264-MT_Ganool.mkv.mp4
 #https://openload.co/f/WIroJpftI58/The_House_of_Tomorrow_%282017%29BluRay_720p_DTS_x264-MT_Ganool.mkv.mp4
 
 type=video
@@ -6607,11 +6640,7 @@ URL=https://uptobox.com/1hnape7bkzj0
 #https://openload.co/f/USfqylt7I3M/SUMMER.OF.84.2018.720P.BLURAY.mp4
 #https://openload.co/f/HoIKf6zMrz8/Summer.Of.84.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Chicken (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOcsSuoPwEpM8CSPzBRhR78a7Kf.jpg
-date=2018-10-14
-URL=https://openload.co/f/osQ3dH38bNg/Chicken.2015.720p.BluRay.x264-%5BYTS.AM%5D.mp4
+
 
 
 
@@ -10322,7 +10351,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-10
+date=2018-10-15
 URL=
 
 
@@ -10331,7 +10360,11 @@ URL=
 
 
 
-
+type=video
+name=Goosebumps (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvuNet2rxPiTf9L0eQRNpBi7zgp.jpg
+date=2018-10-15
+URL=https://openload.co/f/a_8k-yWvRFs/Goosebumps.2015.1080p.BR_SeeHD.mp4
 
 
 
