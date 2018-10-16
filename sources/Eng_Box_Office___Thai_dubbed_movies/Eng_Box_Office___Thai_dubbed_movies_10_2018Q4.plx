@@ -87,10 +87,11 @@ URL=
 
 
 type=video
-name=Goosebumps 2: Haunted Halloween (2018) ENG 720p_HDCAM-1XBET_SeeHD
+name=Goosebumps 2: Haunted Halloween (2018) ENG NEW_720p_TS-1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bcpki9GfXdXj9esFpPtlate8v0.jpg
-date=2018-10-15
-URL=https://openload.co/f/GtI7xMmd9wc/Goosebumps_2_Haunted_Halloween_2018_720p_HDCAM-1XBET_SeeHD.mp4
+date=2018-10-16
+URL=https://openload.co/f/qKS6GcI4-xk/Goosebumps_2_Haunted_Halloween_2018_NEW_720p_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/GtI7xMmd9wc/Goosebumps_2_Haunted_Halloween_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/EMVTZeiE6BE/Goosebumps.2.Haunted.Halloween.2018.720p.HDCAM-1XBET.mp4
 #https://openload.co/f/GEUXPedKLpk/Goosebumps.2.Haunted.Halloween.2018.NOLOGO.720p.HDCAM-1XBET.mp4
 
@@ -110,18 +111,7 @@ URL=https://openload.co/f/nLYd3wx0TdA/Bad_Times_at_the_El_Royale_2018_720p_HDCAM
 #https://openload.co/f/tkfG_HP1Geg/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET.mp4
 #https://openload.co/f/fhhlvQypFAQ/Bad.Times.at.the.El.Royale.2018.HDCAM.XviD-AVID.avi.mp4
 
-type=video
-name=Venom (2018) ENG V3_New_Src_HDTS_x264_AC3
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
-date=2018-10-11
-URL=https://openload.co/f/a3E_UhJHLrQ/Venom_2018_V3_New_Src_HDTS_x264_AC3.mkv.mp4
-#https://openload.co/f/TTHAn4-3YFs/Venom.2018.1080p.HD-TS.X264-24HD.mkv.mp4
-#https://openload.co/f/w86H5YUMlTg/Venom_2018_720p_HD-TS_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/_OVSTt1VN-k/Venom.2018.PROPER.HDTS.XviD-AVID.avi.mp4
-#https://openload.co/f/7QVJgXbfcvQ/Venom.2018.720p.TS-1XBET_SeeHD.mp4
-#https://openload.co/f/SW-MXnRL-J4/Venom.2018.NOLOGO.720p.HDCAM.English.LINE.1XBET.mp4
-#https://openload.co/f/rn3A5sEjzOk/Venom.2018.TS.X264-PLAYNOW.mp4
-#https://openload.co/f/V6nW7VG6u8I/Venom_%282018%29_Cam
+
 
 type=video
 name=Smallfoot (2018) ENG New_Src_TSRip-H264-AC3-Meow_SeeHD
@@ -215,13 +205,7 @@ URL=https://openload.co/f/SV38rv5nr70/Crazy_Rich_Asians_2018_NEW_1080p_HDCAM_HQ-
 
 
 
-type=video
-name=Slender Man (2018) ENG 720p_TS-1XBET
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg
-date=2018-09-04
-URL=https://openload.co/f/aTk4c0qAFsI/Slenderman_2018_720p_TS-1XBET.mkv.mp4
-#https://openload.co/f/kRIsUUsL7Vo/Slender_Man_720p_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/4i4Zo8czRuE/Slenderman.2018.720p.HDCAM.1XBET.mp4
+
 
 type=video
 name=The Little Mermaid (2018) ENG 1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG
@@ -1247,11 +1231,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Al0EdC3nOjIBmBnbJaHEGjJcZw
 date=2018-06-03
 URL=https://openload.co/f/6AIcof819U0/mobile.suit.gundam.the.origin.iv.2016.bdrip.x264-haiku.mkv.mp4
 
-type=video
-name=The House of Tomorrow (2018) ENG BDRip.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5D9mvVo7nJ7YYZXoNKQiABYAR55.jpg
-date=2018-08-04
-URL=https://openload.co/f/iutxoTTe6k4/The.House.Of.Tomorrow.2018.BDRip.XviD.AC3-EVO.avi.mp4
+
 
 
 
@@ -1349,11 +1329,60 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-15
+date=2018-10-16
 URL=
 
 
 
+
+
+
+type=video
+name=Lowlife (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tquk3KoKtVo5D40gZYjlWWr0mt.jpg
+date=2018-10-16
+URL=https://openload.co/f/PYov8IjTP48/Lowlife.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=Reprisal (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBsQUK5QSeZjRPLFUVgSGHxj2PI.jpg
+date=2018-10-16
+URL=https://uptobox.com/wqblfe8hu24h
+#https://www.rapidvideo.com/e/FWA2BESXX9
+#https://openload.co/embed/ls1d2UM0gFk/REPRISAL80.Ganol.st.mkv
+#https://openload.co/f/wBZvCpgEwXc/Reprisal_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+
+type=video
+name=The House of Tomorrow (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5D9mvVo7nJ7YYZXoNKQiABYAR55.jpg
+date=2018-10-16
+URL=https://openload.co/f/NodVVqxzaKM/The_House_of_Tomorrow_%282017%291080p_BluRay_x264-BiPOLAR.Ganool.mkv.mp4
+#https://uptobox.com/7fxmpo873fi5
+#https://www.rapidvideo.com/e/FUE6BMDTO5
+#https://openload.co/embed/MTYWDaPG1c8/THEHOUSEOFTOMORROWBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/AYBBukyu5Pk/The_House_of_Tomorrow_%282017%29BluRay_720p_DTS_x264-MT_Ganool.mkv.mp4
+#https://openload.co/f/WIroJpftI58/The_House_of_Tomorrow_%282017%29BluRay_720p_DTS_x264-MT_Ganool.mkv.mp4
+#https://openload.co/f/iutxoTTe6k4/The.House.Of.Tomorrow.2018.BDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=The Asian Connection (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oiljqVeMxVnKJ7rQUS3Ww1odpp.jpg
+date=2018-10-16
+URL=https://openload.co/f/9RkP367vpIU/The.Asian.Connection.2016.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=Slender Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg
+date=2018-10-16
+URL=https://uptobox.com/mqo4zrxh4fw8
+#https://www.rapidvideo.com/e/FWAKIF9JY3
+#https://openload.co/embed/IgoljfirHmo/GHPSLENDERMAN80.Ganol.st.mkv
+#https://openload.co/f/UOTZuP0bhxg/Slender.Man.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/OPaEWCOVgrM/Slender.Man.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/VgZkWE9MXjw/Slender_Man_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/aTk4c0qAFsI/Slenderman_2018_720p_TS-1XBET.mkv.mp4
+#https://openload.co/f/kRIsUUsL7Vo/Slender_Man_720p_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/4i4Zo8czRuE/Slenderman.2018.720p.HDCAM.1XBET.mp4
 
 type=video
 name=Chicken (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1368,6 +1397,10 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wErHaJrD1QZ2FEVneH6w0GZUz2
 date=2018-10-15
 URL=https://openload.co/f/5Vx3Zy-ae-Y/Down.a.Dark.Hall.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/JqSKB6cDqqQ/Down.A.Dark.Hall.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/3JMDzftDVYs/Down_a_Dark_Hall_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+#https://uptobox.com/98hne2fug1uf   720
+#https://www.rapidvideo.com/e/FWA1VGNWO6   720
+#https://openload.co/embed/AejhGe0-nnw/DOWNADARKHALLBD72.Ganol.st.mkv.mp4
 
 type=video
 name=The King (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1386,6 +1419,10 @@ name=The Happy Prince (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXivK7WYX784TiarvX7qL0232T8.jpg
 date=2018-10-14
 URL=https://openload.co/f/LnN4lsHFJaw/The.Happy.Prince.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/mLp0gahFh4A/The_Happy_Prince_%282018%29720p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://uptobox.com/rehn1xhx1u3s   720
+#https://www.rapidvideo.com/e/FWA1JLOAXE   720
+#https://openload.co/embed/Xbe6zGpeI18/THEHAPPYPRINCEBD72.Ganol.st.mkv.mp4
 
 type=video
 name=Dust 2 Glory (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1397,8 +1434,12 @@ type=video
 name=14 Cameras (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzitlCN6BSddbhOyyLetgCmkjAQ.jpg
 date=2018-10-13
-URL=https://openload.co/f/yfOS3qf-fa8/14.cameras.2018.limited.1080p.bluray.x264-cadaver.mkv.mp4
+URL=https://uptobox.com/nyu8conzdufx
+#https://www.rapidvideo.com/e/FWA3DC5WU6
+#https://openload.co/embed/_9GKmiYFDaE/14CAMERAS80.Ganol.st.mkv.mp4
+#https://openload.co/f/yfOS3qf-fa8/14.cameras.2018.limited.1080p.bluray.x264-cadaver.mkv.mp4
 #https://openload.co/f/VE4Uc_n2Kt8/14.Cameras.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/hTIiaejClOE/14_Cameras_%282018%291080p_BluRay_x264-CADAVER.Ganool.mkv.mp4
 
 type=video
 name=6-Headed Shark Attack (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1428,12 +1469,21 @@ URL=https://openload.co/f/_kOr_l7UYGU/mamma.mia.here.we.go.again.2018.1080p.blur
 #https://openload.co/f/tEGouttmdug/Mamma.Mia.Here.We.Go.Again.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/4rQ-PpCodrE/Mamma.Mia%21.2.2018.720p.HDCAM.1XBET_SeeHD.mp4
 #https://openload.co/f/-PY_xqQbWaE/Mamma.Mia%21.2.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/0GMiNTnnP7U/Mamma_Mia%21_Here_We_Go_Again_%282018%29720p_BluRay_x264-SPARKS.Ganool.mkv.mp4
+#https://uptobox.com/4q4q2uyf9ngy   720
+#https://www.rapidvideo.com/e/FW6WTZGEQQ   720
+#https://openload.co/embed/xFqCGSoc3QU/SHQMAMMAMIAWEGOAGAINBD72.Ganol.st.mkv.mp4
 
 type=video
 name=Sorry to Bother You (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg
-date=2018-10-11
+date=2018-10-16
 URL=https://openload.co/f/vZ-eM1B6o1Y/Sorry.to.Bother.You.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/h5XknkWswAM/Sorry_to_Bother_You_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://uptobox.com/f8yi6zje6t5i
+#https://www.rapidvideo.com/e/FWALMR2OZX
+#https://openload.co/embed/k-PFglnqHO0/SORRYTOBOTHERYOU80.Ganol.st.mkv
+#https://openload.co/f/vZ-eM1B6o1Y/Sorry.to.Bother.You.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/87TuoFkcUoQ/Sorry.to.Bother.You.2018.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/cauAmDV8gKE/Sorry.to.Bother.You.2018.720p.BRRip.X264.mkv.mp4
 #https://openload.co/f/1nDipDBP13Y/Sorry.to.Bother.You.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
@@ -1647,6 +1697,7 @@ date=2018-09-28
 URL=https://uptobox.com/7ead2a0jdeme
 #https://www.rapidvideo.com/e/FVPOZV7Z0R
 #https://openload.co/embed/qEsJQG0Xh4Y/GHPLEAVENOTRACE80.Ganol.st.mkv
+#https://openload.co/f/ajTlFPPcjr8/Leave.No.Trace.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/T4-0M-cIzY8/Leave_No_Trace_%282018%291080p_BluRay_x264-SAPHiRE.Ganool.mkv.mp4
 #https://openload.co/f/J1WvVU3KyS0/Leave.No.Trace.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
 
@@ -1673,8 +1724,9 @@ URL=https://openload.co/f/dmrhx7ILwN0/Three.Identical.Strangers.2018.1080p.BR_Se
 type=video
 name=Feral (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ72SsxEP9XSx3StaazsMwBi9C0.jpg
-date=2018-09-27
-URL=https://openload.co/f/jqWp9TQm_xU/Feral.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+date=2018-10-16
+URL=https://openload.co/f/kDQLy26LVbQ/Feral.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/jqWp9TQm_xU/Feral.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://uptobox.com/2uvbo90vrj9c   720
 #https://www.rapidvideo.com/e/FVMAXSMEDF   720
 #https://openload.co/embed/ke34MhQB7EE/FERALBD72.Ganol.st.mkv
@@ -1727,6 +1779,7 @@ name=Hearts Beat Loud (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1wKptD8iXJbtAUSz9OlXS3q4Co.jpg
 date=2018-09-24
 URL=https://openload.co/f/juEopqv3Mnw/Hearts.Beat.Loud.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/2x4yfFiTIOA/Hearts.Beat.Loud.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/upAV_Dn2G_4/Hearts.Beat.Loud.2018.720p.BR_SeeHD.mp4
 
 type=video
@@ -2290,6 +2343,10 @@ URL=https://openload.co/f/aF-R1KUE_9M/Apostasy.2017.1080p.BluRay.H264.AAC-RARBG.
 #https://www.rapidvideo.com/e/FTT0K8TCI2   720
 #https://openload.co/embed/dIQbksb9Xso/APOTASYBD72.Ganol.ru.mkv.mp4
 #https://openload.co/f/66EiV0OJ5V8/Apostasy.2017.BluRay.720p.DTS.x264-CHD.mkv.mp4
+#https://openload.co/f/r2xwxS8qpb4/Apostasy_%282017%29720p_BluRay_x264-CADAVER.Ganool.mkv.mp4
+#https://uptobox.com/1idy44qbfqud
+#https://www.rapidvideo.com/e/FWA16K1UX7
+#https://openload.co/embed/FKIZMaeciEI/APOSTASYBD72.Ganol.st.mkv
 
 type=video
 name=Journeyman (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -6375,15 +6432,8 @@ URL=https://uptobox.com/n1blk5gg34xq
 #https://openload.co/embed/BHs1e48x0XA/BREATHBD72.Ganol.ru.mkv.mp4
 #https://openload.co/f/ZOIjpCqXY_Q/Breath_%282017%29720p_BluRay_x264-PFa_Ganool.mkv.mp4
 
-type=video
-name=The House of Tomorrow (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5D9mvVo7nJ7YYZXoNKQiABYAR55.jpg
-date=2018-08-18
-URL=https://uptobox.com/7fxmpo873fi5
-#https://www.rapidvideo.com/e/FUE6BMDTO5
-#https://openload.co/embed/MTYWDaPG1c8/THEHOUSEOFTOMORROWBD72.Ganol.ru.mkv.mp4
-#https://openload.co/f/AYBBukyu5Pk/The_House_of_Tomorrow_%282017%29BluRay_720p_DTS_x264-MT_Ganool.mkv.mp4
-#https://openload.co/f/WIroJpftI58/The_House_of_Tomorrow_%282017%29BluRay_720p_DTS_x264-MT_Ganool.mkv.mp4
+
+
 
 type=video
 name=Boar (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -6640,6 +6690,13 @@ URL=https://uptobox.com/1hnape7bkzj0
 #https://openload.co/f/USfqylt7I3M/SUMMER.OF.84.2018.720P.BLURAY.mp4
 #https://openload.co/f/HoIKf6zMrz8/Summer.Of.84.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
+type=video
+name=The Dead and the Damned 3: Ravaged (2018) [COLOR=FF00FF00]GER BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cCIouuvlz4jypg3Dtseq2EYNUK.jpg
+date=2018-10-16
+URL=https://openload.co/f/A2AmYxEd0GU/the.dead.and.the.damned.ravaged.2018.720p.bluray.x264-getit.mkv.mp4
+
+
 
 
 
@@ -6647,7 +6704,7 @@ URL=https://uptobox.com/1hnape7bkzj0
 type=video
 name=
 thumb=
-date=2018-10-14
+date=2018-10-16
 URL=
 
 type=video
@@ -6730,6 +6787,26 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+
+type=video
+name=Venom (2018) ENG V3_New_Src_HDTS_x264_AC3
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
+date=2018-10-11
+URL=https://openload.co/f/a3E_UhJHLrQ/Venom_2018_V3_New_Src_HDTS_x264_AC3.mkv.mp4
+#https://openload.co/f/TTHAn4-3YFs/Venom.2018.1080p.HD-TS.X264-24HD.mkv.mp4
+#https://openload.co/f/w86H5YUMlTg/Venom_2018_720p_HD-TS_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/_OVSTt1VN-k/Venom.2018.PROPER.HDTS.XviD-AVID.avi.mp4
+#https://openload.co/f/7QVJgXbfcvQ/Venom.2018.720p.TS-1XBET_SeeHD.mp4
+#https://openload.co/f/SW-MXnRL-J4/Venom.2018.NOLOGO.720p.HDCAM.English.LINE.1XBET.mp4
+#https://openload.co/f/rn3A5sEjzOk/Venom.2018.TS.X264-PLAYNOW.mp4
+#https://openload.co/f/V6nW7VG6u8I/Venom_%282018%29_Cam
+type=video
+name=Venom (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
+date=2018-10-16
+URL=https://openload.co/f/8HjWNItz084/Venom_%282018%29%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A1_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -6863,20 +6940,7 @@ date=2018-09-10
 URL=https://openload.co/f/6aVEUo3AkIQ/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=Searching (2018) ENG 720p.HDRip.BLURRED.AC3.X264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
-date=2018-10-11
-URL=https://openload.co/f/8gMt1dKsYHo/Searching.2018.720p.HDRip.BLURRED.AC3.X264-CMRG.mkv.mp4
-#https://openload.co/f/AbXrs14E-Ew/Searching.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/QtZ0byRHk3k/Searching.2018.720p.TS.1XBET_SeeHD.mp4
-#https://openload.co/f/g6owtvE_D9s/Searching.2018.720p.TS.1XBET.mp4
-#https://openload.co/f/m4dVjOHEyDQ/Searching.2018.HDTS.XviD-AVID.avi.mp4
-type=video
-name=Searching (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
-date=2018-09-10
-URL=https://openload.co/f/yaZ8FoesSNg/Searching_%282018%29%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%AB%E0%B8%B2....%E0%B8%AA%E0%B8%B9%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%A2%21%3F_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
@@ -6962,10 +7026,12 @@ URL=https://streamango.com/f/mplcmnpmflrrqabl/Hotel_Transylvania_3_Summer_Vacati
 
 
 type=video
-name=The Spy Who Dumped Me (2018) ENG 720p.HC.HDRip.X264.AC3-EVO_SeeHD
+name=The Spy Who Dumped Me (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
-date=2018-09-13
-URL=https://openload.co/f/43pcRtmffLE/The.Spy.Who.Dumped.Me.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-09-16
+URL=https://openload.co/f/2U2wDLK7Rh4/The.Spy.Who.Dumped.Me.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/EpUAqlYDTYs/The.Spy.Who.Dumped.Me.2018.1080pHD_SeeHD.mkv   MKV2.7GB
+#https://openload.co/f/43pcRtmffLE/The.Spy.Who.Dumped.Me.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/QZPA21mDd-4/The.Spy.Who.Dumped.Me.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/x51Bm-O3jbU/The_Spy_Who_Dumped_Me_2018_720p_HDCAM_PROPER_SeeHD.mkv.mp4
 #https://openload.co/f/_UTH_XC0K4o/The.Spy.Who.Dumped.Me.2018.720p.HDCAM.1XBET_SeeHD.mp4
@@ -7659,6 +7725,7 @@ URL=https://uptobox.com/7wv8ryajqk6s
 #https://www.rapidvideo.com/e/FVTNUFU6G6
 #https://openload.co/embed/Yan0oQ4HfDQ/GHPAPRAYERBEFOREDAWN80.Ganol.st.mkv
 #https://openload.co/f/DLdZdIe00F0/A_Prayer_Before_Dawn_%282017%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://openload.co/f/vDbhOTk-KCs/A.Prayer.Before.Dawn.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://uptobox.com/ipsytgj7mvu0   720
 #https://www.rapidvideo.com/e/FVPP0B54OG   720
 #https://openload.co/embed/nxDzU-ej6Po/SHQAPRAYERBEFOREDAWNWEB72.Ganol.ru.mkv.mp4
@@ -9283,6 +9350,23 @@ URL=
 
 
 type=video
+name=Searching (2018) ENG 720p.HDRip.BLURRED.AC3.X264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
+date=2018-10-11
+URL=https://openload.co/f/8gMt1dKsYHo/Searching.2018.720p.HDRip.BLURRED.AC3.X264-CMRG.mkv.mp4
+#https://openload.co/f/AbXrs14E-Ew/Searching.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/QtZ0byRHk3k/Searching.2018.720p.TS.1XBET_SeeHD.mp4
+#https://openload.co/f/g6owtvE_D9s/Searching.2018.720p.TS.1XBET.mp4
+#https://openload.co/f/m4dVjOHEyDQ/Searching.2018.HDTS.XviD-AVID.avi.mp4
+type=video
+name=Searching (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
+date=2018-10-16
+URL=https://openload.co/f/6cSOArwGNnY/Searching_%282018%29%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%AB%E0%B8%B2....%E0%B8%AA%E0%B8%B9%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%A2%21%3F_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/yaZ8FoesSNg/Searching_%282018%29%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%AB%E0%B8%B2....%E0%B8%AA%E0%B8%B9%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%A2%21%3F_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
 name=Europe Raiders (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BEikhobwXkTS78dmgNQZNPg20n.jpg
 date=2018-10-08
@@ -9388,8 +9472,9 @@ URL=https://openload.co/f/_paYAZ_UHbo/The_Meg_2018_1080p_WEB-DL-H264-DD_5.1-Zi%2
 type=video
 name=The Meg (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
-date=2018-09-19
-URL=https://openload.co/f/ejKxGoHCFxE/The_Meg_%282018%29%E0%B9%80%E0%B8%A1%E0%B9%87%E0%B8%81_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9B%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+date=2018-10-16
+URL=https://openload.co/f/hNDOAPbXsRQ/The_Meg_%282018%29%E0%B9%80%E0%B8%A1%E0%B9%87%E0%B8%81_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9B%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/ejKxGoHCFxE/The_Meg_%282018%29%E0%B9%80%E0%B8%A1%E0%B9%87%E0%B8%81_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9B%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://streamango.com/f/rclrdecrqftelefb/The_Meg_2018_
 
 
@@ -10025,6 +10110,7 @@ URL=https://openload.co/f/P4lVLWj1CTE/Hotel.Artemis.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/FSEgqQPkY6c/Hotel.Artemis.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/1-PZaWihKKo/Hotel.Artemis.2018.1080p.BluRay.x264-Replica_21CNPX.mp4
 #https://openload.co/f/tG6I9jzj2qY/Hotel_Artemis_2018_1080p_BluRay_x264_Replica.mkv.mp4
+#https://openload.co/f/7WMEBd2M_0E/Hotel.Artemis.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/yzS3HTRoSGM/Hotel_Artemis_%282018%29720p_BluRay_x264-Replica.Ganool.mkv.mp4
 #https://openload.co/f/ZmEWt8eC0Dk/Hotel.Artemis.2018.720p.720p.BRRip.x264.mkv.mp4
 #https://openload.co/f/v8gCDjk1_4A/Hotel_Artemis_%282018%29_720p_BRRip_%5B.vc%5D.mkv.mp4
@@ -10036,8 +10122,9 @@ URL=https://openload.co/f/P4lVLWj1CTE/Hotel.Artemis.2018.1080p.BR_SeeHD.mp4
 type=video
 name=Hotel Artemis (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg
-date=2018-10-12
-URL=https://openload.co/f/-EDYQ3A0Bww/Hotel_Artemis_%282018%29%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B9%82%E0%B8%88%E0%B8%A3.mp4
+date=2018-10-16
+URL=https://openload.co/f/OLU4NW5zbU0/Hotel_Artemis_%282018%29%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B9%82%E0%B8%88%E0%B8%A3.mp4
+#https://openload.co/f/-EDYQ3A0Bww/Hotel_Artemis_%282018%29%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B9%82%E0%B8%88%E0%B8%A3.mp4
 #https://openload.co/f/OVxG0TT7qfc/Hotel_Artemis_%282018%29%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B9%82%E0%B8%88%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://streamango.com/f/dfqbdqfrceeleplc/Hotel_Artemis_2018_
 
@@ -10090,6 +10177,7 @@ URL=https://uptobox.com/sg85vv7pgcrm
 #https://openload.co/f/AZFTIeI-9pw/Sicario%3A_Day_of_the_Soldado_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
 #https://openload.co/f/W8MZNankwxc/Sicario.Day.Of.The.Soldado.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/c8_j0XnJ5nA/sicario.day.of.the.soldado.2018.1080p.bluray.x264-geckos%255BEtHD%255D.mkv.mp4
+#https://openload.co/f/lE1xLE_5JdI/Sicario.Day.Of.The.Soldado.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/Bsynftc__3c/sicario.day.of.the.soldado.2018.720p.bluray.hevc.x265.mkv.mp4
 #https://openload.co/f/SOa2JHii3jQ/sicario.day.of.the.soldado.2018.1080p.web.dl.hevc.x265.mkv.mp4
 #https://openload.co/f/SwhtSLVkwwE/Sicario.Day.of.the.Soldado.2018.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4

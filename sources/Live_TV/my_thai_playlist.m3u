@@ -2586,6 +2586,8 @@ http://86.57.182.131:8905/play/a00l?m3u8
 http://82.209.207.119:8905/play/a00l?m3u8
 #EXTINF:-1,XXX18+
 http://86.57.182.131:8905/play/a00l?m3u8
+#EXTINF:-1,61.ch
+http://104.251.212.50:33363/live/stream/61.ch
 
 
 #EXTINF:-1,FRENCHLOVER_powernet
