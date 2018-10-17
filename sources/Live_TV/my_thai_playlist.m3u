@@ -2579,6 +2579,8 @@ rtmp://125.227.27.196/385214775/tv/ttv12
 http://122.38.74.172:9981/stream/channelid/1463854277
 #EXTINF:-1,VENUS
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/63.m3u8
+#EXTINF:-1,redlight
+http://51.15.49.176:8081/ygYW03AENuY8xa/redlight.m3u8
 
 #EXTINF:-1,XXX_a00l
 http://86.57.182.131:8905/play/a00l?m3u8
@@ -2586,7 +2588,7 @@ http://86.57.182.131:8905/play/a00l?m3u8
 http://82.209.207.119:8905/play/a00l?m3u8
 #EXTINF:-1,XXX18+
 http://86.57.182.131:8905/play/a00l?m3u8
-#EXTINF:-1,61.ch
+#EXTINF:-1,61.ch_nuart tv
 http://104.251.212.50:33363/live/stream/61.ch
 
 
@@ -2603,6 +2605,7 @@ http://185.168.15.240:8888/eroxxx/index.m3u8
 http://89.187.189.11:85/sirina3/index.m3u8
 #EXTINF:-1,Meiden Holland
 http://89.187.189.11:85/hot/index.m3u8
+
 
 #EXTINF:-1,Pink_O_TV
 http://213.59.128.162:9996/play/Pink_O_TV/index.m3u8
@@ -3218,6 +3221,8 @@ http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/cbpz1qrf/index.m3u8
 #EXTINF:-1,TLC HD World
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/03.m3u8
 
+#EXTINF:-1,61.ch_nuart tv
+http://104.251.212.50:33363/live/stream/61.ch
 #EXTINF:-1,music-choice
 http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
 #EXTINF:-1,hit_tv

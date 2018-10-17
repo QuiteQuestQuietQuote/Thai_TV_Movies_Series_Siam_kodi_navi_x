@@ -175,12 +175,7 @@ date=2018-09-07
 URL=https://openload.co/f/Rf7BISAZHx4/BlacKkKlansman_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
 
 
-type=video
-name=Mandy (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0yf7J7HsKeK6E81SMRcX8vx6mH.jpg
-date=2018-09-15
-URL=https://openload.co/f/wGZ9UTyufpU/Mandy.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/bIkp4oovlBY/Mandy.720pHD_SeeHD.mkv.mp4
+
 
 
 
@@ -1329,13 +1324,44 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-16
+date=2018-10-17
 URL=
 
 
 
 
 
+
+
+type=video
+name=Before Someone Gets Hurt (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUgoy8qSCZ5Y5pBiu5ipufvS16d.jpg
+date=2018-10-17
+URL=https://openload.co/f/hT793ra0ato/Before.Someone.Gets.Hurt.2018.BluRay.1080p.DTS.x264-CHD.mkv.mp4
+#https://openload.co/f/OOKpdXQPSWc/Before_Someone_Gets_Hurt_%282018%29BluRay_720p_DTS_x264-CHD.Ganool.mkv.mp4
+#https://uptobox.com/hccf46xdis1i   720
+#https://www.rapidvideo.com/e/FWB5QW73RR   720
+#https://openload.co/embed/HiWSNMdVtQ8/BEFORESOMEONEGETHURTBD72.Ganol.st.mkv.mp4
+
+type=video
+name=Wedding Wonderland (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/91nVggXSyqEOK0u3rPKX5qQ5G7O.jpg
+date=2018-10-17
+URL=https://openload.co/f/fQuEOQv_fHM/A.Family.for.the.Holidays.2017.1080p.BluRay.x264-GETiT.mkv.mp4
+#https://openload.co/f/0xuaPYkEayA/A.Family.for.the.Holidays.2017.1080p.BluRay.x264-GETiT_hdmovie.mkv.mp4
+
+type=video
+name=Mandy (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0yf7J7HsKeK6E81SMRcX8vx6mH.jpg
+date=2018-10-17
+URL=https://uptobox.com/zii7ts2ws0y7
+#https://www.rapidvideo.com/e/FWBP52SAQ7
+#https://openload.co/embed/nT6IainjDLI/GHPMANDY80.Ganol.st.mkv
+#https://openload.co/f/3lJwmgQq1m8/Mandy_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+#https://openload.co/f/ImWJqTCLRDA/Mandy.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/GyhYVYMVeko/Mandy_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv   MKV1.7GB
+#https://openload.co/f/wGZ9UTyufpU/Mandy.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/bIkp4oovlBY/Mandy.720pHD_SeeHD.mkv.mp4
 
 type=video
 name=Lowlife (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1456,8 +1482,12 @@ URL=https://openload.co/f/hXtYN-Kixqo/With.a.Kiss.I.Die.2018.1080p.BluRay.x264.D
 type=video
 name=Mamma Mia! Here We Go Again (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg
-date=2018-10-13
-URL=https://openload.co/f/_kOr_l7UYGU/mamma.mia.here.we.go.again.2018.1080p.bluray.x264-sparks.mkv.mp4
+date=2018-10-17
+URL=https://uptobox.com/dy80m9yaua4a
+#https://www.rapidvideo.com/e/FWB73IYQSZ
+#https://openload.co/embed/dlz7yxRGI3k/GHPMAMAMIAGOAGAIN80.Ganol.st.mkv.mp4
+#https://openload.co/f/_kOr_l7UYGU/mamma.mia.here.we.go.again.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/PcEm2R_ddoQ/Mamma_Mia%21_Here_We_Go_Again_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
 #https://openload.co/f/uby_OvgIw4k/Mamma.Mia.Here.We.Go.Again.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/nQOQMe9Q_tc/mamma.mia.here.we.go.again.2018.720p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/2xgPIDDA0_g/Mamma.Mia.Here.We.Go.Again.2018.720p.BRRip.x264.mkv.mp4
@@ -1530,6 +1560,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXXVaKZYzUVwqJTRYmgWza9hFP
 date=2018-10-10
 URL=https://openload.co/f/8hNrCDpfvgM/Constantine.City.of.Demons.The.Movie.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
 #https://openload.co/f/3y92vGZwUXo/Constantine.City.of.Demons.The.Movie.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
+#https://openload.co/f/GTpvmgzKM8g/Constantine.City.of.Demons.The.Movie.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
 #https://openload.co/f/SxUpkwA5Nto/Constantine.City.of.Demons.The.Movie.2018.BDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 
 type=video
@@ -3111,8 +3142,9 @@ URL=https://openload.co/f/oGYH1H29H34/The.Heretics.2017.1080p.BR_SeeHD.mp4
 type=video
 name=Devil's Gate (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlguwriLf7PkG6jAzpnClkZKmHi.jpg
-date=2018-05-29
-URL=https://openload.co/f/KS4U4SB97cw/Devils.Gate.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+date=2018-10-17
+URL=https://openload.co/f/zbihlTNYiAg/Devils.Gate.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/KS4U4SB97cw/Devils.Gate.2017.1080p.BluRay.x264.DTS-FGT.mkv.mp4
 #https://www.blazefile.co/embed-l4zv7pbe7iwx.html   720
 #https://uptobox.com/poimbfrlpftr   720
 #https://openload.co/embed/ctQuYX4p-UY/SHQDEVILGATEBD72.GGanool.im.mkv.mp4
@@ -6485,6 +6517,7 @@ URL=https://uptobox.com/juk56iwwi6nv
 #https://www.rapidvideo.com/e/FUWRAN85O2
 #https://openload.co/embed/4hzQCfiG0uA/THEJURASICGAMESBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/XooGdmVXJQg/The.Jurassic.Games.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/3AZS_huz-1I/The.Jurassic.Games.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=A Gentle Creature (2017) [COLOR=FF00FF00]RUS BR 720p[/COLOR]
@@ -7030,6 +7063,7 @@ name=The Spy Who Dumped Me (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
 date=2018-09-16
 URL=https://openload.co/f/2U2wDLK7Rh4/The.Spy.Who.Dumped.Me.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/rrdw56k5sqY/The.Spy.Who.Dumped.Me.2018.1080pHD_SeeHD.mkv.mp4
 #https://openload.co/f/EpUAqlYDTYs/The.Spy.Who.Dumped.Me.2018.1080pHD_SeeHD.mkv   MKV2.7GB
 #https://openload.co/f/43pcRtmffLE/The.Spy.Who.Dumped.Me.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/QZPA21mDd-4/The.Spy.Who.Dumped.Me.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
