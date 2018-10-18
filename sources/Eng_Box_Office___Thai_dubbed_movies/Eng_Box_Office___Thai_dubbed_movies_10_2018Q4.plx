@@ -1331,7 +1331,16 @@ URL=
 
 
 
-
+type=video
+name=I Can Speak (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtN0xx93lNkfA7dwEmpBfbq79Dq.jpg
+date=2018-10-18
+URL=https://uptobox.com/jqcvbl66xy1c
+#https://www.rapidvideo.com/e/FWCEG0SII1
+#https://openload.co/embed/S174iaRFyLc/I.Can.Speak.2017.BluRay.1080p.5.1CH.x264.Ganol.st.mkv.mp4
+#https://openload.co/f/-Mc39gs7g9k/I.Can.Speak.2017.1080p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
+#https://www.blazefile.co/embed-72nukbrs608q.html
+#https://uptobox.com/eycg8quzqp6g
 
 type=video
 name=Before Someone Gets Hurt (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1562,6 +1571,10 @@ URL=https://openload.co/f/8hNrCDpfvgM/Constantine.City.of.Demons.The.Movie.2018.
 #https://openload.co/f/3y92vGZwUXo/Constantine.City.of.Demons.The.Movie.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
 #https://openload.co/f/GTpvmgzKM8g/Constantine.City.of.Demons.The.Movie.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
 #https://openload.co/f/SxUpkwA5Nto/Constantine.City.of.Demons.The.Movie.2018.BDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/Fl6WPCBUWgw/Constantine%3A_City_of_Demons_%282018%29720p_BluRay_x264.DTS-FGT.Ganool.mkv.mp4
+#https://uptobox.com/0cwoaijjgutb   720
+#https://www.rapidvideo.com/e/FWBOKOPY26   720
+#https://openload.co/embed/2q3xvVNwObw/CONTSTATINECITOFDEMONBD72.Ganol.st.mkv.mp4
 
 type=video
 name=Buyer Beware (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
@@ -5834,12 +5847,7 @@ URL=https://www.blazefile.co/embed-huxlmjpi31vk.html
 #https://uptobox.com/7uorii6lgobj
 #https://openload.co/f/QnLt__XIfJQ/the.man.with.the.magic.box.2017.1080p.bluray.x264-rovers.mkv.mp4
 
-type=video
-name=I Can Speak (2017) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtN0xx93lNkfA7dwEmpBfbq79Dq.jpg
-date=2018-03-05
-URL=https://www.blazefile.co/embed-72nukbrs608q.html
-#https://uptobox.com/eycg8quzqp6g
+
 
 type=video
 name=Rising Fear (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -6443,9 +6451,13 @@ URL=https://openload.co/f/-AU70jHGCrk/Time_Trap_2017_%5B1080p%5D_BluRay_x264-%5B
 type=video
 name=Woman Walks Ahead (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qI5NcQHR0nsykPqlG2qnfFyMgW6.jpg
-date=2018-08-16
-URL=https://openload.co/f/Ogry1taRlRk/Woman.Walks.Ahead.2017.720p.BluRay.H264.AAC-RARBG.mp4
+date=2018-10-18
+URL=https://uptobox.com/zgpjlmh6we4c
+#https://www.rapidvideo.com/e/FWCDIDRTON
+#https://openload.co/embed/NMmGT2DI4aI/WOMANWALKAHEADBD72.Ganol.st.mkv
+#https://openload.co/f/Ogry1taRlRk/Woman.Walks.Ahead.2017.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/QHPFJJidKY4/woman.walks.ahead.2017.720p.bluray.x264-rovers.mkv.mp4
+#https://openload.co/f/xqoTUtI_u2c/Woman_Walks_Ahead_%282017%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
 
 type=video
 name=Furlough (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -6729,6 +6741,41 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cCIouuvlz4jypg3Dtseq2EYNU
 date=2018-10-16
 URL=https://openload.co/f/A2AmYxEd0GU/the.dead.and.the.damned.ravaged.2018.720p.bluray.x264-getit.mkv.mp4
 
+type=video
+name=I Think We're Alone Now (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sNsmC8FKgr4hTfnGCS49WY20k4.jpg
+date=2018-10-18
+URL=https://uptobox.com/1lfnmkply0dd
+#https://www.rapidvideo.com/e/FWCDXCLHQZ
+#https://openload.co/embed/OWWY9IqVOc4/ITHINKWEREALONENOWBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/VD5NWG2QWS4/I_Think_We%E2%80%99re_Alone_Now_%282018%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
+
+type=video
+name=Patient Zero (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jOqatpfh0aKYhl6fN83RK69UtC.jpg
+date=2018-10-18
+URL=https://uptobox.com/2zul0gmt9rz0
+#https://www.rapidvideo.com/e/FWCDYQIAY0
+#https://openload.co/embed/sa2AoCm9iYA/PATIENTZEROBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/-_f6sd0v7b8/Patient_Zero_%282018%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
+
+type=video
+name=Permission (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YIGIS0Imzi5S2bbkjlQOhEJthS.jpg
+date=2018-10-18
+URL=https://uptobox.com/rnyr725w3doe
+#https://www.rapidvideo.com/e/FWCEBGCZWR
+#https://openload.co/embed/HcSKfd3yT6k/PERMISSIONBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/0p_RNgYr710/Permission_%282017%29720p_BluRay_DTS_X264-iFT.Ganool.mkv.mp4
+
+type=video
+name=Freedom Fighters: The Ray (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jo6ItNdatsIJuIN6WNXI94q74Yq.jpg
+date=2018-10-18
+URL=https://uptobox.com/nidfwbabl93n
+#https://www.rapidvideo.com/e/FWC72OBB4E
+#https://openload.co/embed/SDd5gXpjCfI/THERAYFREEDOMFIGTERSBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/2Uv_nM_IQxs/Freedom_Fighters%3A_The_Ray_%282018%29720p_BluRay_x264-SADPANDA.Ganool.mkv.mp4
 
 
 
@@ -6737,7 +6784,7 @@ URL=https://openload.co/f/A2AmYxEd0GU/the.dead.and.the.damned.ravaged.2018.720p.
 type=video
 name=
 thumb=
-date=2018-10-16
+date=2018-10-18
 URL=
 
 type=video
@@ -7058,23 +7105,7 @@ date=2018-08-20
 URL=https://streamango.com/f/mplcmnpmflrrqabl/Hotel_Transylvania_3_Summer_Vacation_2018_3_
 
 
-type=video
-name=The Spy Who Dumped Me (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
-date=2018-09-16
-URL=https://openload.co/f/2U2wDLK7Rh4/The.Spy.Who.Dumped.Me.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/rrdw56k5sqY/The.Spy.Who.Dumped.Me.2018.1080pHD_SeeHD.mkv.mp4
-#https://openload.co/f/EpUAqlYDTYs/The.Spy.Who.Dumped.Me.2018.1080pHD_SeeHD.mkv   MKV2.7GB
-#https://openload.co/f/43pcRtmffLE/The.Spy.Who.Dumped.Me.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/QZPA21mDd-4/The.Spy.Who.Dumped.Me.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/x51Bm-O3jbU/The_Spy_Who_Dumped_Me_2018_720p_HDCAM_PROPER_SeeHD.mkv.mp4
-#https://openload.co/f/_UTH_XC0K4o/The.Spy.Who.Dumped.Me.2018.720p.HDCAM.1XBET_SeeHD.mp4
-#https://openload.co/f/wHv_A2QTR80/The.Spy.Who.Dumped.Me.2018.HDCAM.XviD-AV.2018.HDCAM.XviD-AVID.avi.mp4
-type=video
-name=The Spy Who Dumped Me (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
-date=2018-08-15
-URL=https://streamango.com/f/dcrafonlelcdrtlo/The_Spy_Who_Dumped_Me_2018_
+
 
 
 
@@ -9380,7 +9411,30 @@ URL=
 
 
 
-
+type=video
+name=The Spy Who Dumped Me (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
+date=2018-10-18
+URL=https://uptobox.com/6t38teon7330
+#https://www.rapidvideo.com/e/FWCW6CAQ9X
+#https://openload.co/embed/s_-CmBi4Mic/GHPTHESPYWHODUMPEDME80.Ganol.st.mkv
+#https://openload.co/f/VeihPBAup4c/The.Spy.Who.Dumped.Me.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/Ot03AR-GpCk/The_Spy_Who_Dumped_Me_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv   MKV1.6GB
+#https://openload.co/f/sijMblb4dwk/The.Spy.Who.Dumped.Me.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/2U2wDLK7Rh4/The.Spy.Who.Dumped.Me.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/rrdw56k5sqY/The.Spy.Who.Dumped.Me.2018.1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/EpUAqlYDTYs/The.Spy.Who.Dumped.Me.2018.1080pHD_SeeHD.mkv   MKV2.7GB
+#https://openload.co/f/43pcRtmffLE/The.Spy.Who.Dumped.Me.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/QZPA21mDd-4/The.Spy.Who.Dumped.Me.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/x51Bm-O3jbU/The_Spy_Who_Dumped_Me_2018_720p_HDCAM_PROPER_SeeHD.mkv.mp4
+#https://openload.co/f/_UTH_XC0K4o/The.Spy.Who.Dumped.Me.2018.720p.HDCAM.1XBET_SeeHD.mp4
+#https://openload.co/f/wHv_A2QTR80/The.Spy.Who.Dumped.Me.2018.HDCAM.XviD-AV.2018.HDCAM.XviD-AVID.avi.mp4
+type=video
+name=The Spy Who Dumped Me (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
+date=2018-10-18
+URL=https://openload.co/f/2cUxMTdQSAg/The_Spy_Who_Dumped_Me_%282018%29%E0%B8%AA%E0%B8%9B%E0%B8%B2%E0%B8%A2_%E0%B8%AA%E0%B8%A7%E0%B8%A1%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/dcrafonlelcdrtlo/The_Spy_Who_Dumped_Me_2018_
 
 
 type=video
@@ -9408,10 +9462,14 @@ URL=https://openload.co/f/l3SNZ1BYN0I/Europe_Raiders_%282018%29%E0%B8%9E%E0%B8%A
 
 
 type=video
-name=The Darkest Minds (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+name=The Darkest Minds (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg
-date=2018-10-03
-URL=https://openload.co/f/tmnjNLIY9_0/The.Darkest.Minds.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+date=2018-10-18
+URL=https://uptobox.com/abom9wbmj1zu
+#https://www.rapidvideo.com/e/FWCYXVTI46
+#https://openload.co/embed/L3N8NpvyRrY/SHQTHEDARKESTMINDSBD72.Ganol.st.mkv
+#https://openload.co/f/OmwihPje-U4/The_Darkest_Minds_%282018%29720p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+#https://openload.co/f/tmnjNLIY9_0/The.Darkest.Minds.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/YyE3DKncETM/Darkest.Minds.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/RGwPLK5iiNI/The.Darkest.Minds.2018.720p.WEBRip.mkv.mp4
 #https://openload.co/f/8JBLH1I3I5w/The_Darkest_Minds_2018_HDCAM_SeeHD.mkv.mp4
@@ -9625,23 +9683,7 @@ URL=https://streamango.com/f/dpsbpplmrbcdonpm/Escape_Plan_2_Hades_2018_2_
 
 
 
-type=video
-name=Operation Red Sea (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbT5k8TcTDGVFxZbnc5FSGFTqeH.jpg
-date=2018-07-19
-URL=https://uptobox.com/k9rymnaml7lj
-#https://www.rapidvideo.com/e/FTFGJB0XXK
-#https://openload.co/f/mq3C2glbj-U/Operation.Red.Sea.2018.BluRay.1080p.5.1CH.x264.mkv.mp4
-#https://openload.co/f/2u9Eay8y7zw/Operation_Red_Sea.2018.720pBR_SeeHD.mkv.mp4
-#https://openload.co/f/IVf-_RlzC48/Operation.Red.Sea.2018.BluRay.1080p.5.1CH.x264.mkv.mp4
-#https://openload.co/embed/BuC506tMVB8/Operation.Red.Sea.2018.BluRay.1080p.5.1CH.x264.Ganol.ru.mkv
-#https://openload.co/f/Y5a_1gjxaeE/Operation_Red_Sea.2018.720pBR_SeeHD.mkv.mp4
-#https://openload.co/f/HGaQ4ip4wSA/Operation.Red.Sea.2018.BluRay.720p.DTS.x264-CHD.mkv.mp4
-type=video
-name=Operation Red Sea (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbT5k8TcTDGVFxZbnc5FSGFTqeH.jpg
-date=2018-06-18
-URL=https://streamango.com/f/rcnscffcdpdcsksc/Operation_Red_Sea_2018_
+
 
 
 
@@ -9744,24 +9786,7 @@ URL=https://streamango.com/f/ertnpmrmnncfrblp/Fireworks_Should_We_See_It_from_th
 
 
 
-type=video
-name=Winchester (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg
-date=2018-04-21
-URL=https://www.blazefile.co/embed-mpfnrec68izl.html
-#https://uptobox.com/3rbn0m19lvds
-#https://openload.co/f/JmEgLaK6uuE/Winchester.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/l8P64-Ec_2o/Winchester.2018.1080p.BluRay.x264.DTS-HDC.mkv.mp4
-#https://openload.co/f/mYQHWpwDFwA/Winchester.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/9oox3vHbdJQ/Winchester_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/MR70YVhvXwA/Winchester.2018.720p.HDCAM_SeeHD.mp4
-#https://openload.co/f/c4esc5nzmqs/Winchester.2018.HDCAM.x264-DiRG.mp4
-type=video
-name=Winchester (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg
-date=2018-04-21
-URL=https://streamango.com/f/rlcdffttdddaetmn/Winchester_2018_
-#https://streamango.com/f/elfccpoabamnnmla/Winchester_2018_
+
 
 
 
@@ -10119,6 +10144,45 @@ URL=
 
 
 
+type=video
+name=Winchester (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg
+date=2018-04-21
+URL=https://www.blazefile.co/embed-mpfnrec68izl.html
+#https://uptobox.com/3rbn0m19lvds
+#https://openload.co/f/JmEgLaK6uuE/Winchester.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/l8P64-Ec_2o/Winchester.2018.1080p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/mYQHWpwDFwA/Winchester.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/9oox3vHbdJQ/Winchester_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/MR70YVhvXwA/Winchester.2018.720p.HDCAM_SeeHD.mp4
+#https://openload.co/f/c4esc5nzmqs/Winchester.2018.HDCAM.x264-DiRG.mp4
+type=video
+name=Winchester (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg
+date=2018-10-18
+URL=https://openload.co/f/7b7Z2cleYgs/Winchester_%282018%29%E0%B8%84%E0%B8%A4%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%8C%E0%B8%82%E0%B8%B1%E0%B8%87%E0%B8%9C%E0%B8%B5.mp4
+#https://streamango.com/f/rlcdffttdddaetmn/Winchester_2018_
+#https://streamango.com/f/elfccpoabamnnmla/Winchester_2018_
+
+
+type=video
+name=Operation Red Sea (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbT5k8TcTDGVFxZbnc5FSGFTqeH.jpg
+date=2018-07-19
+URL=https://uptobox.com/k9rymnaml7lj
+#https://www.rapidvideo.com/e/FTFGJB0XXK
+#https://openload.co/f/mq3C2glbj-U/Operation.Red.Sea.2018.BluRay.1080p.5.1CH.x264.mkv.mp4
+#https://openload.co/f/2u9Eay8y7zw/Operation_Red_Sea.2018.720pBR_SeeHD.mkv.mp4
+#https://openload.co/f/IVf-_RlzC48/Operation.Red.Sea.2018.BluRay.1080p.5.1CH.x264.mkv.mp4
+#https://openload.co/embed/BuC506tMVB8/Operation.Red.Sea.2018.BluRay.1080p.5.1CH.x264.Ganol.ru.mkv
+#https://openload.co/f/Y5a_1gjxaeE/Operation_Red_Sea.2018.720pBR_SeeHD.mkv.mp4
+#https://openload.co/f/HGaQ4ip4wSA/Operation.Red.Sea.2018.BluRay.720p.DTS.x264-CHD.mkv.mp4
+type=video
+name=Operation Red Sea (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbT5k8TcTDGVFxZbnc5FSGFTqeH.jpg
+date=2018-10-18
+URL=https://openload.co/f/PhdetkdVTQc/Operation_Red_Sea_%282018%29%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B9%81%E0%B8%94%E0%B8%87.mp4
+#https://streamango.com/f/rcnscffcdpdcsksc/Operation_Red_Sea_2018_
 
 
 type=video

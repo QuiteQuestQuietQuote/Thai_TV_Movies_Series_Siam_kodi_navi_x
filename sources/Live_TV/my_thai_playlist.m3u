@@ -2558,6 +2558,14 @@ http://streamnossl.1919hdtv.com:8880/live/_definst_/Stream2/playlist.m3u8
 #EXTINF:-1,Ibiza TV1_1919HDTV.com
 http://streamnossl.1919hdtv.com:8880/live/_definst_/Stream1/playlist.m3u8
 
+#EXTINF:-1,18av.mm-cg.com1
+http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/6/b/6b98b062f77a8e84f53354190f96ac7a1476353709-1280-720-899-h264.mp4/master.m3u8
+#EXTINF:-1,18av.mm-cg.com2
+http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/7/f/7f478a87469d38746eec654880db3ea71476218102-1280-720-1287-h264.mp4/master.m3u8
+#EXTINF:-1,18av.mm-cg.com3
+http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/4/b/4bb3f1e47426bbffdade6f130a73bb081476324309-1280-720-1311-h264.mp4/master.m3u8
+
+
 #EXTINF:-1,OURS_HD1
 http://172.104.114.178/vod/live/1/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 #EXTINF:-1,OURS_HD2
@@ -3221,8 +3229,8 @@ http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/cbpz1qrf/index.m3u8
 #EXTINF:-1,TLC HD World
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/03.m3u8
 
-#EXTINF:-1,61.ch_nuart tv
-http://104.251.212.50:33363/live/stream/61.ch
+#EXTINF:-1,persik_nuart tv
+http://persik.by/stream/1418/252987/10003.m3u8
 #EXTINF:-1,music-choice
 http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
 #EXTINF:-1,hit_tv
