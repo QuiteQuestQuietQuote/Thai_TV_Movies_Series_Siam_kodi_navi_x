@@ -2543,7 +2543,8 @@ http://176.67.202.21:6201/erotic3
 #EXTINF:-1,Playboy_play
 http://213.59.128.162:9996/play/Playboy/index.m3u8
 
-
+#EXTINF:-1,Ibiza TV4_streamlock.net
+https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream4/playlist.m3u8
 #EXTINF:-1,Ibiza TV3_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8
 #EXTINF:-1,Ibiza TV2_streamlock.net
@@ -2558,12 +2559,6 @@ http://streamnossl.1919hdtv.com:8880/live/_definst_/Stream2/playlist.m3u8
 #EXTINF:-1,Ibiza TV1_1919HDTV.com
 http://streamnossl.1919hdtv.com:8880/live/_definst_/Stream1/playlist.m3u8
 
-#EXTINF:-1,18av.mm-cg.com1
-http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/6/b/6b98b062f77a8e84f53354190f96ac7a1476353709-1280-720-899-h264.mp4/master.m3u8
-#EXTINF:-1,18av.mm-cg.com2
-http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/7/f/7f478a87469d38746eec654880db3ea71476218102-1280-720-1287-h264.mp4/master.m3u8
-#EXTINF:-1,18av.mm-cg.com3
-http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/4/b/4bb3f1e47426bbffdade6f130a73bb081476324309-1280-720-1311-h264.mp4/master.m3u8
 
 
 #EXTINF:-1,OURS_HD1
@@ -2614,7 +2609,10 @@ http://89.187.189.11:85/sirina3/index.m3u8
 #EXTINF:-1,Meiden Holland
 http://89.187.189.11:85/hot/index.m3u8
 
-
+#EXTINF:-1,Private
+http://213.59.128.162:9996/play/Private/index.m3u8
+#EXTINF:-1,Hustler_HD
+http://213.59.128.162:9996/play/Hustler_HD/index.m3u8
 #EXTINF:-1,Pink_O_TV
 http://213.59.128.162:9996/play/Pink_O_TV/index.m3u8
 #EXTINF:-1,Russkaya_noch
@@ -3231,6 +3229,9 @@ http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 
 #EXTINF:-1,persik_nuart tv
 http://persik.by/stream/1418/252987/10003.m3u8
+#EXTINF:-1,persik_nuart tv_ID
+http://foreign-default.persik.by:82/live/Ch105/playlist.m3u8?securehash=UtzvCN11lzm9wKvUzV5jXL_zd9lJtXF8VpP_kcASFTo%3D&secureendtime=1540057304&securestarttime=1539970904&secureuserid=252987&securestreams=5&UserID=252987&device_code=playlist&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210003%22%7D
+
 #EXTINF:-1,music-choice
 http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
 #EXTINF:-1,hit_tv

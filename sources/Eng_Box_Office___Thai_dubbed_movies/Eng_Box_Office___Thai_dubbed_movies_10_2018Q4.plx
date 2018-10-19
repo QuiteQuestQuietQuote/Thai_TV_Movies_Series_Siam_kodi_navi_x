@@ -6750,14 +6750,7 @@ URL=https://uptobox.com/1lfnmkply0dd
 #https://openload.co/embed/OWWY9IqVOc4/ITHINKWEREALONENOWBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/VD5NWG2QWS4/I_Think_We%E2%80%99re_Alone_Now_%282018%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
 
-type=video
-name=Patient Zero (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jOqatpfh0aKYhl6fN83RK69UtC.jpg
-date=2018-10-18
-URL=https://uptobox.com/2zul0gmt9rz0
-#https://www.rapidvideo.com/e/FWCDYQIAY0
-#https://openload.co/embed/sa2AoCm9iYA/PATIENTZEROBD72.Ganol.st.mkv.mp4
-#https://openload.co/f/-_f6sd0v7b8/Patient_Zero_%282018%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
+
 
 type=video
 name=Permission (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -7273,7 +7266,19 @@ URL=
 
 
 
-
+type=video
+name=Patient Zero (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jOqatpfh0aKYhl6fN83RK69UtC.jpg
+date=2018-10-18
+URL=https://uptobox.com/2zul0gmt9rz0
+#https://www.rapidvideo.com/e/FWCDYQIAY0
+#https://openload.co/embed/sa2AoCm9iYA/PATIENTZEROBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/-_f6sd0v7b8/Patient_Zero_%282018%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
+type=video
+name=Patient Zero (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jOqatpfh0aKYhl6fN83RK69UtC.jpg
+date=2018-10-19
+URL=https://openload.co/f/Vz5c9vCOA_0/Patient_Zero_%282018%29%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -9418,9 +9423,12 @@ date=2018-10-18
 URL=https://uptobox.com/6t38teon7330
 #https://www.rapidvideo.com/e/FWCW6CAQ9X
 #https://openload.co/embed/s_-CmBi4Mic/GHPTHESPYWHODUMPEDME80.Ganol.st.mkv
+#https://openload.co/f/6veGzVibtdA/the.spy.who.dumped.me.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/Xv9UuyjNC1c/The_Spy_Who_Dumped_Me_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
 #https://openload.co/f/VeihPBAup4c/The.Spy.Who.Dumped.Me.2018.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/Ot03AR-GpCk/The_Spy_Who_Dumped_Me_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv   MKV1.6GB
 #https://openload.co/f/sijMblb4dwk/The.Spy.Who.Dumped.Me.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/qAd6ajwMqkE/The.Spy.Who.Dumped.Me.2018.720p.BluRay.x265.HEVC-Pahe.in_21Cineplex.mkv.mp4
 #https://openload.co/f/2U2wDLK7Rh4/The.Spy.Who.Dumped.Me.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 #https://openload.co/f/rrdw56k5sqY/The.Spy.Who.Dumped.Me.2018.1080pHD_SeeHD.mkv.mp4
 #https://openload.co/f/EpUAqlYDTYs/The.Spy.Who.Dumped.Me.2018.1080pHD_SeeHD.mkv   MKV2.7GB
@@ -9462,11 +9470,16 @@ URL=https://openload.co/f/l3SNZ1BYN0I/Europe_Raiders_%282018%29%E0%B8%9E%E0%B8%A
 
 
 type=video
-name=The Darkest Minds (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=The Darkest Minds (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg
-date=2018-10-18
-URL=https://uptobox.com/abom9wbmj1zu
-#https://www.rapidvideo.com/e/FWCYXVTI46
+date=2018-10-19
+URL=https://uptobox.com/9o7jep75wjwk
+#https://www.rapidvideo.com/e/FWDGNIHB1D
+#https://openload.co/embed/XDZojI0gfcs/GHPTHEDARKKESMINDS80.Ganol.st.mkv
+#https://openload.co/f/H9XqPwRkqns/The.Darkest.Minds.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/XYK_rUmAkuQ/The_Darkest_Minds_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+#https://uptobox.com/abom9wbmj1zu   720
+#https://www.rapidvideo.com/e/FWCYXVTI46   720
 #https://openload.co/embed/L3N8NpvyRrY/SHQTHEDARKESTMINDSBD72.Ganol.st.mkv
 #https://openload.co/f/OmwihPje-U4/The_Darkest_Minds_%282018%29720p_BluRay_x264-GECKOS.Ganool.mkv.mp4
 #https://openload.co/f/tmnjNLIY9_0/The.Darkest.Minds.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
@@ -9770,11 +9783,7 @@ URL=https://streamango.com/f/efralsqmrnsrkqrm/Anon_2018_
 
 
 
-type=video
-name=Fireworks, Should We See It from the Side or the Bottom? (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mh2NWCrdMYi2rF0vAp5WtWy2sm.jpg
-date=2018-04-22
-URL=https://streamango.com/f/ertnpmrmnncfrblp/Fireworks_Should_We_See_It_from_the_Side_or_the_Bottom_2017_
+
 
 
 
@@ -10142,6 +10151,17 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=Fireworks, Should We See It from the Side or the Bottom? (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mh2NWCrdMYi2rF0vAp5WtWy2sm.jpg
+date=2018-10-19
+URL=https://openload.co/f/dA8H8gH0RG8/Fireworks%2C_Should_We_See_It_from_the_Side_or_the_Bottom%3F_%282017%29%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B2_%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B9%84%E0%B8%9F.mp4
+#https://streamango.com/f/ertnpmrmnncfrblp/Fireworks_Should_We_See_It_from_the_Side_or_the_Bottom_2017_
 
 
 type=video
