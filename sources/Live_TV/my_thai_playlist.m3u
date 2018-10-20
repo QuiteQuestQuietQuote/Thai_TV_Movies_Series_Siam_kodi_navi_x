@@ -2482,10 +2482,7 @@ http://91.204.136.139:8080/tv158/index.m3u8
 #EXTINF:-1,Daisy_tv157
 http://91.204.136.139:8080/tv157/index.m3u8
 
-#EXTINF:-1,Daisy
-http://foreign-default.persik.by:82/live/Ch104/playlist.m3u8?securehash=bm1uFXewbbdvczzlgyUiwhCTBvtwoGSl_R7GX7TI_N8%3D&secureendtime=1537829682&securestarttime=1537743282&secureuserid=252987&securestreams=5&UserID=252987&device_code=playlist&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%22296%22%7D
-#EXTINF:-1,nuart tv
-http://foreign-default.persik.by:82/live/Ch105/playlist.m3u8?securehash=qdJwUE47unY9fB6-CiCS4orqpWXk42_ymjlv6ZsAJ40%3D&secureendtime=1537829858&securestarttime=1537743458&secureuserid=252987&securestreams=5&UserID=252987&device_code=playlist&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210003%22%7D
+
 
 
 #EXTINF:-1,hustler HD_ru
@@ -2584,6 +2581,17 @@ http://122.38.74.172:9981/stream/channelid/1463854277
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/63.m3u8
 #EXTINF:-1,redlight
 http://51.15.49.176:8081/ygYW03AENuY8xa/redlight.m3u8
+#EXTINF:-1,LEO TV
+http://78.141.113.63:8001/1:0:16:3725:C8E:3:EB0000:0:0:0:
+
+#EXTINF:-1,21+ 
+http://128.74.235.251:34040/udp/233.33.210.41:5050 
+#EXTINF:-1 ,Playboy 
+http://178.35.21.57:4022/udp/224.1.1.98:6000 
+#EXTINF:-1 ,Blue Hustler 
+http://178.35.21.57:4022/udp/224.1.1.97:6000 
+#EXTINF:-1 ,XXL 
+http://178.35.21.57:4022/udp/224.1.1.99:6000 
 
 #EXTINF:-1,XXX_a00l
 http://86.57.182.131:8905/play/a00l?m3u8
@@ -2594,6 +2602,12 @@ http://86.57.182.131:8905/play/a00l?m3u8
 #EXTINF:-1,61.ch_nuart tv
 http://104.251.212.50:33363/live/stream/61.ch
 
+#EXTINF:-1,Passiexxx_live
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2062.m3u8
+#EXTINF:-1,anysex_live
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2077.m3u8
+#EXTINF:-1,xxx Stars_live
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2072.m3u8
 
 #EXTINF:-1,FRENCHLOVER_powernet
 http://test.powernet.com.ru:5000/channel_239.1.13.4/index.m3u8
@@ -3229,8 +3243,14 @@ http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 
 #EXTINF:-1,persik_nuart tv
 http://persik.by/stream/1418/252987/10003.m3u8
+
 #EXTINF:-1,persik_nuart tv_ID
 http://foreign-default.persik.by:82/live/Ch105/playlist.m3u8?securehash=UtzvCN11lzm9wKvUzV5jXL_zd9lJtXF8VpP_kcASFTo%3D&secureendtime=1540057304&securestarttime=1539970904&secureuserid=252987&securestreams=5&UserID=252987&device_code=playlist&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210003%22%7D
+
+#EXTINF:-1,persik_nuart tv_ID2
+http://foreign-default.persik.by:82/live/Ch105/playlist.m3u8?securehash=fsUOezjRc-bZfR8ajYt9X2YF9kERHEgQujs8CTMpm8k%3D&secureendtime=1540140215&securestarttime=1540053815&secureuserid=252987&securestreams=5&UserID=252987&device_code=playlist&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210003%22%7D
+
+
 
 #EXTINF:-1,music-choice
 http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8

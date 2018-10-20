@@ -76,7 +76,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-15
+date=2018-10-20
 URL=
 
 
@@ -84,7 +84,12 @@ URL=
 
 
 
-
+type=video
+name=Halloween (2018) ENG 720p_HDCAM_ENG-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNkDYKmrVem1J0aAfCnQlJOCKnT.jpg
+date=2018-10-20
+URL=https://openload.co/f/ixJajUSxXgY/Halloween_2018_720p_HDCAM_ENG-1XBET_SeeHD.mp4
+#https://openload.co/f/0oGS72PoxZk/Halloween.2018.720p.HDCAM.ENG-1XBET.mp4
 
 type=video
 name=Goosebumps 2: Haunted Halloween (2018) ENG NEW_720p_TS-1XBET_SeeHD
@@ -2300,17 +2305,7 @@ URL=https://openload.co/f/e7pMa8kRrHU/book.club.2018.1080p.bluray.dd5.1.hevc.x26
 #https://www.rapidvideo.com/e/FUAT32FWBC   720
 #https://openload.co/embed/Azb8BZ_SqDA/SHQBOOKCLUBBD72.Ganol.ru.mkv.mp4
 
-type=video
-name=Tag (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg
-date=2018-08-11
-URL=https://openload.co/f/iDj7iqqhKu0/Tag.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/JdoYJAyTUkE/Tag.2018.1080p.BluRay.x264-GECKOS.mp4
-#https://openload.co/f/Y9JCxwZjw9A/Tag.2018.1080p.BluRay_x264-GECKOS.mkv   MKV7.7GB
-#https://openload.co/f/A52Q2c9ui-4/TAG_2018_720p_HD-TS_x264_HQ-24HD_SeeHD.mkv.mp4
-#https://uptobox.com/3cd2hbfhvkp3   720
-#https://www.rapidvideo.com/e/FU9AWPNELP   720
-#https://openload.co/embed/dX8adjYGus8/SHQTAGBD72.Ganol.ru.mkv.mp4
+
 
 type=video
 name=Beyond the Clouds (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
@@ -6670,8 +6665,9 @@ URL=https://uptobox.com/zmpy3w3s85gt
 type=video
 name=Tales from the Hood 2 (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjT70BYtU4YhLM4iFDG6Ba8BMp0.jpg
-date=2018-09-26
-URL=https://openload.co/f/BmfMnC1L500/Tales.from.the.Hood.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
+date=2018-10-20
+URL=https://openload.co/f/K0Da74T6DzI/Tales.from.the.Hood.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/BmfMnC1L500/Tales.from.the.Hood.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Dogman (2018) [COLOR=FF00FF00]ITA BR 720p[/COLOR]
@@ -7264,6 +7260,25 @@ URL=
 
 
 
+
+
+
+type=video
+name=Tag (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg
+date=2018-08-11
+URL=https://openload.co/f/iDj7iqqhKu0/Tag.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/JdoYJAyTUkE/Tag.2018.1080p.BluRay.x264-GECKOS.mp4
+#https://openload.co/f/Y9JCxwZjw9A/Tag.2018.1080p.BluRay_x264-GECKOS.mkv   MKV7.7GB
+#https://openload.co/f/A52Q2c9ui-4/TAG_2018_720p_HD-TS_x264_HQ-24HD_SeeHD.mkv.mp4
+#https://uptobox.com/3cd2hbfhvkp3   720
+#https://www.rapidvideo.com/e/FU9AWPNELP   720
+#https://openload.co/embed/dX8adjYGus8/SHQTAGBD72.Ganol.ru.mkv.mp4
+type=video
+name=Tag (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg
+date=2018-10-20
+URL=https://openload.co/f/D7cK02rDms8/Tag_%282018%29%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%84%E0%B9%80%E0%B8%81%E0%B8%A1_%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%89_%E0%B9%81%E0%B8%9E%E0%B9%89%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
