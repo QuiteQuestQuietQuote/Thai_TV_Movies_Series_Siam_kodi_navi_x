@@ -2363,14 +2363,11 @@ http://87.246.0.130:88/m3u8/pinko.m3u8
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8 
 #EXTINF:0,fundorado 
 http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8 
-#EXTINF:0,Jasmin 
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8 
 #EXTINF:0,Red Light Central TV 
 http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8 
 
 
-
-
+ 
 
 #EXTINF:-1,miamitv
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
@@ -2505,8 +2502,6 @@ http://109.224.64.146/master_344.m3u8
 
 
 
-
-
 #EXTINF:-1, WAAYH
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/922/index.m3u8
 #EXTINF:-1,PenthouseHD
@@ -2557,7 +2552,6 @@ http://streamnossl.1919hdtv.com:8880/live/_definst_/Stream2/playlist.m3u8
 http://streamnossl.1919hdtv.com:8880/live/_definst_/Stream1/playlist.m3u8
 
 
-
 #EXTINF:-1,OURS_HD1
 http://172.104.114.178/vod/live/1/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 #EXTINF:-1,OURS_HD2
@@ -2584,14 +2578,6 @@ http://51.15.49.176:8081/ygYW03AENuY8xa/redlight.m3u8
 #EXTINF:-1,LEO TV
 http://78.141.113.63:8001/1:0:16:3725:C8E:3:EB0000:0:0:0:
 
-#EXTINF:-1,21+ 
-http://128.74.235.251:34040/udp/233.33.210.41:5050 
-#EXTINF:-1 ,Playboy 
-http://178.35.21.57:4022/udp/224.1.1.98:6000 
-#EXTINF:-1 ,Blue Hustler 
-http://178.35.21.57:4022/udp/224.1.1.97:6000 
-#EXTINF:-1 ,XXL 
-http://178.35.21.57:4022/udp/224.1.1.99:6000 
 
 #EXTINF:-1,XXX_a00l
 http://86.57.182.131:8905/play/a00l?m3u8
@@ -2609,12 +2595,6 @@ http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2077.m3u8
 #EXTINF:-1,xxx Stars_live
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2072.m3u8
 
-#EXTINF:-1,FRENCHLOVER_powernet
-http://test.powernet.com.ru:5000/channel_239.1.13.4/index.m3u8
-#EXTINF:-1,#EXTINF:-1,blue hustler_powernet
-http://test.powernet.com.ru:5000/channel_239.1.12.13/index.m3u8
-#EXTINF:-1,Barely legal_powernet
-http://test.powernet.com.ru:5000/channel_239.1.12.14/index.m3u8
 
 #EXTINF:-1,Eroxxx_8888
 http://185.168.15.240:8888/eroxxx/index.m3u8
@@ -3241,16 +3221,16 @@ http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/cbpz1qrf/index.m3u8
 #EXTINF:-1,TLC HD World
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/03.m3u8
 
-#EXTINF:-1,persik_nuart tv
+#EXTINF:-1,miamitv
+http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1,persik_nuart tv_A
 http://persik.by/stream/1418/252987/10003.m3u8
-
-#EXTINF:-1,persik_nuart tv_ID
-http://foreign-default.persik.by:82/live/Ch105/playlist.m3u8?securehash=UtzvCN11lzm9wKvUzV5jXL_zd9lJtXF8VpP_kcASFTo%3D&secureendtime=1540057304&securestarttime=1539970904&secureuserid=252987&securestreams=5&UserID=252987&device_code=playlist&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210003%22%7D
-
-#EXTINF:-1,persik_nuart tv_ID2
-http://foreign-default.persik.by:82/live/Ch105/playlist.m3u8?securehash=fsUOezjRc-bZfR8ajYt9X2YF9kERHEgQujs8CTMpm8k%3D&secureendtime=1540140215&securestarttime=1540053815&secureuserid=252987&securestreams=5&UserID=252987&device_code=playlist&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210003%22%7D
-
-
+#EXTINF:-1,persik_nuart tv_B
+http://persik.by/stream/1418/252987/10003.m3u8
+#EXTINF:-1,ftv_midnite_secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:0, Jasmin Tv 
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 #EXTINF:-1,music-choice
 http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8

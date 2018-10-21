@@ -1558,6 +1558,10 @@ name=Ant-Man (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/D6e8RJf2qUstnfkTslTXNTUAlT.jpg
 date=2018-10-02
 URL=https://openload.co/f/b688MItlBcI/Ant-Man.2015.1080p.BR_SeeHD.mp4
+#https://uptobox.com/1fh3kxkm2y6l
+#https://www.rapidvideo.com/e/FWDIIA4U5B
+#https://openload.co/embed/m-DUH0zJ1_s/GHPANTMAN201580.Ganol.st.mkv.mp4
+#https://openload.co/f/CT-8MQwDJUE/Ant-Man_%282015%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
 
 type=video
 name=Thor (2011) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]

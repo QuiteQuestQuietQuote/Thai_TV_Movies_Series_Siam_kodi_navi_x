@@ -76,13 +76,23 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-20
+date=2018-10-21
 URL=
 
 
 
 
 
+
+
+
+
+type=video
+name=Night School (2018) ENG 720p_TS-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NSMAaBPSbWv7sGmF8oLGMNb8Qm.jpg
+date=2018-10-21
+URL=https://openload.co/f/rdeQMat_PxU/Night_School_2018_720p_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/vmWxHB1gsaI/Night_School_2018_720p_TS-1XBET.mp4
 
 type=video
 name=Halloween (2018) ENG 720p_HDCAM_ENG-1XBET_SeeHD
@@ -1335,6 +1345,26 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=The Dead and the Damned 3: Ravaged (2018) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cCIouuvlz4jypg3Dtseq2EYNUK.jpg
+date=2018-10-21
+URL=https://openload.co/f/wbXilXDZJLs/The.Dead.And.The.Damned.3.Ravaged.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/A2AmYxEd0GU/the.dead.and.the.damned.ravaged.2018.720p.bluray.x264-getit.mkv.mp4
+
+type=video
+name=I Think We're Alone Now (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sNsmC8FKgr4hTfnGCS49WY20k4.jpg
+date=2018-10-21
+URL=https://openload.co/f/1XGFq8S5UwQ/I.Think.We%27re.Alone.Now.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://uptobox.com/1lfnmkply0dd
+#https://www.rapidvideo.com/e/FWCDXCLHQZ
+#https://openload.co/embed/OWWY9IqVOc4/ITHINKWEREALONENOWBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/VD5NWG2QWS4/I_Think_We%E2%80%99re_Alone_Now_%282018%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
 
 type=video
 name=I Can Speak (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
@@ -6731,20 +6761,7 @@ URL=https://uptobox.com/1hnape7bkzj0
 #https://openload.co/f/USfqylt7I3M/SUMMER.OF.84.2018.720P.BLURAY.mp4
 #https://openload.co/f/HoIKf6zMrz8/Summer.Of.84.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=The Dead and the Damned 3: Ravaged (2018) [COLOR=FF00FF00]GER BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cCIouuvlz4jypg3Dtseq2EYNUK.jpg
-date=2018-10-16
-URL=https://openload.co/f/A2AmYxEd0GU/the.dead.and.the.damned.ravaged.2018.720p.bluray.x264-getit.mkv.mp4
 
-type=video
-name=I Think We're Alone Now (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sNsmC8FKgr4hTfnGCS49WY20k4.jpg
-date=2018-10-18
-URL=https://uptobox.com/1lfnmkply0dd
-#https://www.rapidvideo.com/e/FWCDXCLHQZ
-#https://openload.co/embed/OWWY9IqVOc4/ITHINKWEREALONENOWBD72.Ganol.st.mkv.mp4
-#https://openload.co/f/VD5NWG2QWS4/I_Think_We%E2%80%99re_Alone_Now_%282018%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
 
 
 
@@ -6766,6 +6783,15 @@ URL=https://uptobox.com/nidfwbabl93n
 #https://openload.co/embed/SDd5gXpjCfI/THERAYFREEDOMFIGTERSBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/2Uv_nM_IQxs/Freedom_Fighters%3A_The_Ray_%282018%29720p_BluRay_x264-SADPANDA.Ganool.mkv.mp4
 
+type=video
+name=Hurricane (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTpmZORhYswd9YinB23wV9QE2cx.jpg
+date=2018-10-21
+URL=https://openload.co/f/vi5wI_0dBSs/Hurricane_%282018%29720p_BluRay_x264-EiDER.Ganool.mkv.mp4
+
+
+
+
 
 
 
@@ -6773,7 +6799,7 @@ URL=https://uptobox.com/nidfwbabl93n
 type=video
 name=
 thumb=
-date=2018-10-18
+date=2018-10-21
 URL=
 
 type=video
@@ -7255,12 +7281,33 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-10-14
+date=2018-10-21
 URL=
 
 
 
 
+
+
+
+
+
+type=video
+name=Illang: The Wolf Brigade (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDYlYEkTbuwoYAA2EgMb9VlRGYh.jpg
+date=2018-10-21
+URL=https://openload.co/f/buUCgtShMh8/Illang%3A_The_Wolf_Brigade_%282018%29%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%A5%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+type=video
+name=The Night Comes for Us (2018) INDO 1080p.NF.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lI1p5cPqgXN2qrKZrmI3mhKBfs.jpg
+date=2018-10-21
+URL=https://openload.co/f/RkmstW6gv38/The.Night.Comes.For.Us.2018.1080p.NF.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+type=video
+name=The Night Comes for Us (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lI1p5cPqgXN2qrKZrmI3mhKBfs.jpg
+date=2018-10-21
+URL=https://openload.co/f/GO055X4tlHA/The_Night_Comes_for_Us_%282018%29%E0%B8%84%E0%B9%88%E0%B8%B3%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%A5%E0%B9%88%E0%B8%A5%E0%B9%88%E0%B8%B2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
 
 
 type=video
@@ -7696,6 +7743,10 @@ URL=https://openload.co/f/9bpZfrWhP2I/The.Guernsey.Literary.and.Potato.Peel.Pie.
 #https://openload.co/f/xWr2H9Qph2c/The.Guernsey.Literary.and.Potato.Peel.Pie.Society.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/-09g807URoE/The.Guernsey.Literary.and.Potato.Peel.Pie.Society.2018.720p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/KIGr5RXMaUE/The_Guernsey_Literary_and_Potato_Peel_Pie_Society_2018_720p_WEB-DL_DD5_1_H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/G263oAntiEs/The_Guernsey_Literary_and_Potato_Peel_Pie_Society_%282018%29720p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://uptobox.com/7dkatyzrm8t1   720
+#https://www.rapidvideo.com/e/FWG5WHVTO9   720
+#https://openload.co/embed/2YsD6jWPYWA/THEGHUERSEYLITERARYBD72.Ganol.st.mkv.mp4
 type=video
 name=The Guernsey Literary & Potato Peel Pie Society (2018) THSUB 
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/55oz5d6NdH7ohbM1I1Euh1Tt6PN.jpg
