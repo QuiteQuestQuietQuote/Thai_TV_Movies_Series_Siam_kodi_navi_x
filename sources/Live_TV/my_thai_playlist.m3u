@@ -2583,8 +2583,6 @@ http://78.141.113.63:8001/1:0:16:3725:C8E:3:EB0000:0:0:0:
 http://86.57.182.131:8905/play/a00l?m3u8
 #EXTINF:-1,XXX18+_nuart tv
 http://82.209.207.119:8905/play/a00l?m3u8
-#EXTINF:-1,XXX18+
-http://86.57.182.131:8905/play/a00l?m3u8
 #EXTINF:-1,61.ch_nuart tv
 http://104.251.212.50:33363/live/stream/61.ch
 
@@ -2616,6 +2614,17 @@ http://213.59.128.162:9996/play/Passion_XXX/index.m3u8
 #EXTINF:-1,O-la-la
 http://213.59.128.162:9996/play/O-la-la/index.m3u8
 
+
+#EXTINF:-1,ERO_X
+http://80.87.208.158:80/dna-4631-tv-pc.m3u8
+#EXTINF:-1,ERO_XXX
+http://80.87.208.158:80/dna-4671-tv-pc.m3u8
+#EXTINF:-1,LEO_TV
+http://80.87.208.158:80/dna-141-tv-pc.m3u8
+#EXTINF:-1,Hustler_HD
+http://80.87.208.158:80/dna-91-tv-pc.m3u8
+#EXTINF:-1,EXTASY
+http://80.87.208.158:80/dna-416-tv-pc.m3u8
 
 
 #EXTINF:-1,Playboy _onlybest
@@ -2951,10 +2960,13 @@ http://210.210.155.35/uq2663/h/h14/index.m3u8
 http://gameriptv.com/chan/sd54fIs21ds654/hbosub.php?index.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO_ts
 http://listaccess.me:8880/live/te8/te8/2267.ts
+
 #EXTINF:-1,JAPSUB_movies
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:-1,JAP_movies
-http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1,JAP_WOWOW
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 #EXTINF:-1,AFC
 http://61.58.60.247:9000/live/176.m3u8
@@ -3221,12 +3233,14 @@ http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/cbpz1qrf/index.m3u8
 #EXTINF:-1,TLC HD World
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/03.m3u8
 
+#EXTINF:-1,PhoneCam
+https://alhls-cdn.zhanqi.tv/zqlive/246422_GSpB2.m3u8
 #EXTINF:-1,miamitv
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1,persik_nuart tv_A
 http://persik.by/stream/1418/252987/10003.m3u8
 #EXTINF:-1,persik_nuart tv_B
-http://persik.by/stream/1418/252987/10003.m3u8
+http://persik.by/stream/8460/291680/10003.m3u8
 #EXTINF:-1,ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:0, Jasmin Tv 
@@ -3259,7 +3273,6 @@ https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source
 http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_electric
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
-
 
 
 

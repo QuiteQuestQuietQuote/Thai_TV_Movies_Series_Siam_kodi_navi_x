@@ -110,13 +110,7 @@ URL=https://openload.co/f/qKS6GcI4-xk/Goosebumps_2_Haunted_Halloween_2018_NEW_72
 #https://openload.co/f/EMVTZeiE6BE/Goosebumps.2.Haunted.Halloween.2018.720p.HDCAM-1XBET.mp4
 #https://openload.co/f/GEUXPedKLpk/Goosebumps.2.Haunted.Halloween.2018.NOLOGO.720p.HDCAM-1XBET.mp4
 
-type=video
-name=First Man (2018) ENG 720p_HDCAM-1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
-date=2018-10-13
-URL=https://openload.co/f/AwQGBb1XjbM/First_Man_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/7mOSc3yTvAM/First_Man_2018_720p_HDCAM-1XBET.mp4
-#https://openload.co/f/I5V3WzV1etQ/First.Man.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+
 
 type=video
 name=Bad Times at the El Royale (2018) ENG 720p_HDCAM-1XBET_SeeHD
@@ -1339,7 +1333,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-17
+date=2018-10-22
 URL=
 
 
@@ -1347,7 +1341,28 @@ URL=
 
 
 
+type=video
+name=Egon Schiele: Death and the Maiden (2016) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NjTS3FDcGYzC0L5yaMkfQ3mULm.jpg
+date=2018-10-22
+URL=https://openload.co/f/eRoQTQ68yqg/egon.schiele.death.and.the.maiden.2016.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/2oNv7-2e480/egon.schiele.death.and.the.maiden.2016.1080p.bluray.x264-bipolar.mkv.mp4
 
+type=video
+name=Meatball Machine Kodoku (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvEyStSBUHBBNCV5QZ821wJG19C.jpg
+date=2018-10-22
+URL=https://openload.co/f/o7X0fWQTsDY/meatball.machine.kodoku.2017.1080p.bluray.x264-ghouls.mkv.mp4
+
+type=video
+name=Hurricane (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTpmZORhYswd9YinB23wV9QE2cx.jpg
+date=2018-10-22
+URL=https://uptobox.com/cep1j4majb6l
+#https://www.rapidvideo.com/e/FWH6FVJ06J
+#https://openload.co/embed/zQeV2CSjJfs/GHPHURRIAEN80.Ganol.st.mkv
+#https://openload.co/f/r-UWCmGDS44/Hurricane_%282018%291080p_BluRay_x264-EiDER.Ganool.mkv.mp4
+#https://openload.co/f/vi5wI_0dBSs/Hurricane_%282018%29720p_BluRay_x264-EiDER.Ganool.mkv.mp4
 
 type=video
 name=The Dead and the Damned 3: Ravaged (2018) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
@@ -1487,8 +1502,12 @@ URL=https://openload.co/f/Kc5LOx1yp3Q/mademoiselle.paradis.2017.1080p.bluray.x26
 type=video
 name=The Happy Prince (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXivK7WYX784TiarvX7qL0232T8.jpg
-date=2018-10-14
-URL=https://openload.co/f/LnN4lsHFJaw/The.Happy.Prince.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-10-22
+URL=https://uptobox.com/tjzkrgevw0iq
+#https://www.rapidvideo.com/e/FWG6BO0YF8
+#https://openload.co/embed/1E4qXTx-IwE/GHPTHEHAPPYPRINCE80.Ganol.st.mkv.mp4
+#https://openload.co/f/LnN4lsHFJaw/The.Happy.Prince.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/d3ey5hMXO-k/The_Happy_Prince_%282018%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
 #https://openload.co/f/mLp0gahFh4A/The_Happy_Prince_%282018%29720p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
 #https://uptobox.com/rehn1xhx1u3s   720
 #https://www.rapidvideo.com/e/FWA1JLOAXE   720
@@ -3702,12 +3721,7 @@ URL=https://openload.co/f/1Oln27M4CBE/89.2017.1080p.bluray.x264-ghouls.mkv.mp4
 #https://openload.co/f/oo6eP_PH2LQ/89.2017.720p.bluray.x264-ghouls.mkv.mp4
 #https://openload.co/f/tbKaQczW_4w/89.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Deep Blue Sea 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGYZLSXiN4LfScxfrKMyR7VnmKI.jpg
-date=2018-04-16
-URL=https://openload.co/f/bY2HRl8gLu0/Deep.Blue.Sea.2.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/i_XuBH4JIA8/Deep.Blue.Sea.2.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
 
 type=video
 name=Blood Feast (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -6783,11 +6797,7 @@ URL=https://uptobox.com/nidfwbabl93n
 #https://openload.co/embed/SDd5gXpjCfI/THERAYFREEDOMFIGTERSBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/2Uv_nM_IQxs/Freedom_Fighters%3A_The_Ray_%282018%29720p_BluRay_x264-SADPANDA.Ganool.mkv.mp4
 
-type=video
-name=Hurricane (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTpmZORhYswd9YinB23wV9QE2cx.jpg
-date=2018-10-21
-URL=https://openload.co/f/vi5wI_0dBSs/Hurricane_%282018%29720p_BluRay_x264-EiDER.Ganool.mkv.mp4
+
 
 
 
@@ -6883,6 +6893,20 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+type=video
+name=First Man (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
+date=2018-10-13
+URL=https://openload.co/f/AwQGBb1XjbM/First_Man_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/7mOSc3yTvAM/First_Man_2018_720p_HDCAM-1XBET.mp4
+#https://openload.co/f/I5V3WzV1etQ/First.Man.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+type=video
+name=First Man (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
+date=2018-10-22
+URL=https://openload.co/f/5EVxFMyOWyw/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -7087,37 +7111,7 @@ URL=https://openload.co/f/2lCZjxZ3Ww4/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%
 
 
 
-type=video
-name=Hotel Transylvania 3: Summer Vacation (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg
-date=2018-09-28
-URL=https://uptobox.com/57mag8piky8j
-#https://www.rapidvideo.com/e/FVPPW0WUEK
-#https://openload.co/embed/8AsD7rPPBZw/GHPHOTEL3SUMERVACATION80.Ganol.st.mkv.mp4
-#https://openload.co/f/4ruj3NyEoxM/Hotel.Transylvania.3.Summer.Vacation.2018.1080p.BluRay.H264.AAC-RARBG_21CNPX.mp4
-#https://openload.co/f/1SpcO0B8C8g/Hotel_Transylvania_3%3A_Summer_Vacation_%282018%291080p_BluRay_x264-BLOW.Ganool.mkv.mp4
-#https://openload.co/f/w9bUqy-SRPM/hotel.transylvania.3.summer.vacation.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/dr1YFUWs94Q/Hotel.Transylvania.3.Summer.Vacation.2018.1080p.BluRay.x264-BLOW.mkv.mp4
-#https://openload.co/f/fnPEhfZ8xLE/Hotel_Transylvania_3_Summer_Vacation_2018_1080p_BluRay_x264_BLOW.mkv.mp4
-#https://openload.co/f/SmDjnEclIrg/Hotel.Transylvania.3.Summer.Vacation.2018.720p.BluRay.x264-BLOW.mkv.mp4
-#https://openload.co/f/pBgc6KYL3XI/Hotel.Transylvania.3.Summer.Vacation.2018.720p.BRRip.x264.mkv.mp4
-#https://openload.co/f/qem-dkbEWhU/Hotel.Transylvania.3.A.Monster.Vacation.2018.1080p_21CNPX.mp4
-#https://openload.co/f/F9U_LiARH9E/Hotel.Transylvania.3.A.Monster.Vacation.2018.1080p.mp4
-#https://openload.co/f/L6m8jsq9qOM/Hotel_Transylvania_3_A_Monster_Vacation.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/FcAFts9nhcs/Hotel.Transylvania.3.A.Monster.Vacation.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/bK1cjfsz7Eg/Hotel.Transylvania.3.A.Monster.Vacation.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/0iJ1P87Tuxg/Hotel.Transylvania.3.A.Monster.Vacation.2018.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/QFtpaJbxibo/Hotel_Transylvania_3_A_Monster_Vacation.2018.V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv
-#https://openload.co/f/xeaQloaxyQk/Hotel_Transylvania_3_A_Monster_Vacation.2018.V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv   MKV3.0GB
-#https://openload.co/f/u2JQ5amQDaU/Hotel.Transylvania.3.Summer.Vacation.2018.CAM.XViD-T3RR0RSQU4.avi.mp4
-#https://openload.co/f/eHv-fLRuh7A/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_NEW_SeeHD.mkv.mp4
-#https://openload.co/f/ZqftlMxzgW8/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/hSaXRiGF8S4/Hotel_Transylvania_3_Summer_Vacation_2018_New_720p_HDCAM-X264-AC3.mkv.mp4
-type=video
-name=Hotel Transylvania 3: Summer Vacation (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg
-date=2018-08-20
-URL=https://streamango.com/f/mplcmnpmflrrqabl/Hotel_Transylvania_3_Summer_Vacation_2018_3_
+
 
 
 
@@ -7159,10 +7153,13 @@ URL=https://streamango.com/f/kkafqdmfscfdklql/Animal_World_2018_
 
 
 type=video
-name=Incredibles 2 (2018) ENG 720p.TS
+name=Incredibles 2 (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL9Uz2vq93vi20oxZEBBaSs4w8U.jpg
-date=2018-08-23
-URL=https://openload.co/f/CHeGGWwWQpg/Incredibles.2.2018.720p.TS.mp4
+date=2018-10-22
+URL=https://openload.co/f/yEvlc-Q9jZI/Incredibles.2.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/_-__Ebqgadk/The.Incredibles.2.2018.720p.WEB-DL.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/y69L166rcUo/The.Incredibles.2.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/CHeGGWwWQpg/Incredibles.2.2018.720p.TS.mp4
 #https://openload.co/f/rJku_Twltkg/Incredibles_2_2018_720p_HDTC_x264_MW.mp4
 #https://openload.co/f/U8SRgkjAEwA/Incredibles_2_2018_720p_NEW_HDCAM_X264_AC3-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/B1uiv7DCobk/Incredibles.2.2018.NOLOGO.720p.TELECINE.mkv.mp4
@@ -7292,11 +7289,26 @@ URL=
 
 
 
+
+type=video
+name=Deep Blue Sea 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGYZLSXiN4LfScxfrKMyR7VnmKI.jpg
+date=2018-04-16
+URL=https://openload.co/f/bY2HRl8gLu0/Deep.Blue.Sea.2.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/i_XuBH4JIA8/Deep.Blue.Sea.2.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+type=video
+name=Deep Blue Sea 2 (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGYZLSXiN4LfScxfrKMyR7VnmKI.jpg
+date=2018-10-22
+URL=https://openload.co/f/V3L-MIaPVw4/Deep_Blue_Sea_2_%282018%29Deep_Blue_Sea_2_%282018%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
 type=video
 name=Illang: The Wolf Brigade (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDYlYEkTbuwoYAA2EgMb9VlRGYh.jpg
 date=2018-10-21
 URL=https://openload.co/f/buUCgtShMh8/Illang%3A_The_Wolf_Brigade_%282018%29%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%A5%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
 
 type=video
 name=The Night Comes for Us (2018) INDO 1080p.NF.WEB-DL.DD5.1.H264-CMRG
@@ -7736,8 +7748,12 @@ URL=https://streamango.com/f/fotsqnrltaaneest/Perdida_2018_
 type=video
 name=The Guernsey Literary & Potato Peel Pie Society (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/55oz5d6NdH7ohbM1I1Euh1Tt6PN.jpg
-date=2018-08-16
-URL=https://openload.co/f/9bpZfrWhP2I/The.Guernsey.Literary.and.Potato.Peel.Pie.Society.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+date=2018-10-22
+URL=https://uptobox.com/rlqtv3l5srph
+#https://www.rapidvideo.com/e/FWG649STU2
+#https://openload.co/embed/Ta4ugyTrJIo/THEGUERNSEYPOTATOPEEPIE80.Ganol.st.mkv.mp4
+#https://openload.co/f/Uvg3nxt5FEk/The_Guernsey_Literary_and_Potato_Peel_Pie_Society_%282018%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://openload.co/f/9bpZfrWhP2I/The.Guernsey.Literary.and.Potato.Peel.Pie.Society.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/kdCA8-tLgK8/The.Guernsey.Literary.and.Potato.Peel.Pie.Society.2018.1080p.BluRay.X264-AMIABLE.mkv   MKV7.7GB
 #https://openload.co/f/pHiZRCnWrtA/The.Guernsey.Literary.and.Potato.Peel.Pie.Society.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/xWr2H9Qph2c/The.Guernsey.Literary.and.Potato.Peel.Pie.Society.2018.720p.BluRay.H264.AAC-RARBG.mp4
@@ -9066,10 +9082,11 @@ URL=https://openload.co/f/NHa1i6xUahM/The_Fundamentals_of_Caring_%282016%29%E0%B
 
 
 type=video
-name=Gerald's Game (2017) ENG web.x264-strife
+name=Gerald's Game (2017) ENG 720p_NF_WEBRip_DD5.1_x264-NTb.Ganool
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/54a8fBmUrHHsI64etGdtT6n9Lzf.jpg
-date=2017-09-29
-URL=https://openload.co/f/M0wgcuSsAHs/Gerald%27s_Game_%282017%29.web.x264-strife.mkv.mp4
+date=2018-10-22
+URL=https://openload.co/f/1WPCAZ1PTQ0/Gerald%E2%80%99s_Game_%282017%29720p_NF_WEBRip_DD5.1_x264-NTb.Ganool.mkv.mp4
+#https://openload.co/f/M0wgcuSsAHs/Gerald%27s_Game_%282017%29.web.x264-strife.mkv.mp4
 type=video
 name=Gerald's Game (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/54a8fBmUrHHsI64etGdtT6n9Lzf.jpg
@@ -9676,10 +9693,14 @@ URL=https://openload.co/f/iHBpgLrC2WQ/Mission%3A_Impossible_-_Fallout_%282018%29
 
 
 type=video
-name=Detective Dee: The Four Heavenly Kings (2018) CHN HD1080P.X264.AAC.CHS-ENG
+name=Detective Dee: The Four Heavenly Kings (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhJhgOsSIcN5RiRS8js4mv7K3iA.jpg
-date=2018-09-01
-URL=https://openload.co/f/j7YY2yiZHhU/Detective.Dee.The.Four.Heavenly.Kings.2018.HD1080P.X264.AAC.CHS-ENG.mp4
+date=2018-10-22
+URL=https://uptobox.com/t2inhcqvzbm3
+#https://www.rapidvideo.com/e/FWHGBP1WED
+#https://openload.co/embed/rP3eR-_EpBQ/Detective.Dee.The.Four.Heavenly.Kings.2018.BluRay.720p.900MB.Ganol.st.mkv.mp4
+#https://openload.co/f/DTXHyzkel_U/Detective.Dee.The.Four.Heavenly.Kings.2018.BluRay_720p_x264_DTS-HDChina.Ganool.mkv.mp4
+#https://openload.co/f/j7YY2yiZHhU/Detective.Dee.The.Four.Heavenly.Kings.2018.HD1080P.X264.AAC.CHS-ENG.mp4
 type=video
 name=Detective Dee: The Four Heavenly Kings (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhJhgOsSIcN5RiRS8js4mv7K3iA.jpg
@@ -10219,7 +10240,38 @@ URL=
 
 
 
-
+type=video
+name=Hotel Transylvania 3: Summer Vacation (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg
+date=2018-09-28
+URL=https://uptobox.com/57mag8piky8j
+#https://www.rapidvideo.com/e/FVPPW0WUEK
+#https://openload.co/embed/8AsD7rPPBZw/GHPHOTEL3SUMERVACATION80.Ganol.st.mkv.mp4
+#https://openload.co/f/4ruj3NyEoxM/Hotel.Transylvania.3.Summer.Vacation.2018.1080p.BluRay.H264.AAC-RARBG_21CNPX.mp4
+#https://openload.co/f/1SpcO0B8C8g/Hotel_Transylvania_3%3A_Summer_Vacation_%282018%291080p_BluRay_x264-BLOW.Ganool.mkv.mp4
+#https://openload.co/f/w9bUqy-SRPM/hotel.transylvania.3.summer.vacation.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/dr1YFUWs94Q/Hotel.Transylvania.3.Summer.Vacation.2018.1080p.BluRay.x264-BLOW.mkv.mp4
+#https://openload.co/f/fnPEhfZ8xLE/Hotel_Transylvania_3_Summer_Vacation_2018_1080p_BluRay_x264_BLOW.mkv.mp4
+#https://openload.co/f/SmDjnEclIrg/Hotel.Transylvania.3.Summer.Vacation.2018.720p.BluRay.x264-BLOW.mkv.mp4
+#https://openload.co/f/pBgc6KYL3XI/Hotel.Transylvania.3.Summer.Vacation.2018.720p.BRRip.x264.mkv.mp4
+#https://openload.co/f/qem-dkbEWhU/Hotel.Transylvania.3.A.Monster.Vacation.2018.1080p_21CNPX.mp4
+#https://openload.co/f/F9U_LiARH9E/Hotel.Transylvania.3.A.Monster.Vacation.2018.1080p.mp4
+#https://openload.co/f/L6m8jsq9qOM/Hotel_Transylvania_3_A_Monster_Vacation.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/FcAFts9nhcs/Hotel.Transylvania.3.A.Monster.Vacation.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/bK1cjfsz7Eg/Hotel.Transylvania.3.A.Monster.Vacation.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/0iJ1P87Tuxg/Hotel.Transylvania.3.A.Monster.Vacation.2018.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/QFtpaJbxibo/Hotel_Transylvania_3_A_Monster_Vacation.2018.V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv
+#https://openload.co/f/xeaQloaxyQk/Hotel_Transylvania_3_A_Monster_Vacation.2018.V2.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv   MKV3.0GB
+#https://openload.co/f/u2JQ5amQDaU/Hotel.Transylvania.3.Summer.Vacation.2018.CAM.XViD-T3RR0RSQU4.avi.mp4
+#https://openload.co/f/eHv-fLRuh7A/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_NEW_SeeHD.mkv.mp4
+#https://openload.co/f/ZqftlMxzgW8/Hotel_Transylvania_3_Summer_Vacation_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/hSaXRiGF8S4/Hotel_Transylvania_3_Summer_Vacation_2018_New_720p_HDCAM-X264-AC3.mkv.mp4
+type=video
+name=Hotel Transylvania 3: Summer Vacation (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg
+date=2018-10-22
+URL=https://openload.co/f/6iXc02h_WNE/Hotel_Transylvania_3%3A_Summer_Vacation_%282018%29%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B8%9C%E0%B8%B5%E0%B8%AB%E0%B8%99%E0%B8%B5_%E0%B9%84%E0%B8%9B%E0%B8%9E%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99_3%3A_%E0%B8%8B%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AB%E0%B8%A4%E0%B8%AB%E0%B8%A3%E0%B8%A3%E0%B8%A9%E0%B9%8C.mp4
+#https://streamango.com/f/mplcmnpmflrrqabl/Hotel_Transylvania_3_Summer_Vacation_2018_3_
 
 
 type=video
@@ -10266,8 +10318,9 @@ URL=https://uptobox.com/k9rymnaml7lj
 type=video
 name=Operation Red Sea (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbT5k8TcTDGVFxZbnc5FSGFTqeH.jpg
-date=2018-10-18
-URL=https://openload.co/f/PhdetkdVTQc/Operation_Red_Sea_%282018%29%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B9%81%E0%B8%94%E0%B8%87.mp4
+date=2018-10-22
+URL=https://openload.co/f/SuX0xJWSK2w/Operation_Red_Sea_%282018%29%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B9%81%E0%B8%94%E0%B8%87.mp4
+#https://openload.co/f/PhdetkdVTQc/Operation_Red_Sea_%282018%29%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B9%81%E0%B8%94%E0%B8%87.mp4
 #https://streamango.com/f/rcnscffcdpdcsksc/Operation_Red_Sea_2018_
 
 
@@ -10512,10 +10565,11 @@ URL=https://openload.co/f/oPp_tzpCV2Y/Skyscraper_%282018%29%E0%B8%A3%E0%B8%B0%E0
 
 
 type=video
-name=Billionaire Boys Club (2018) ENG 720p.WEB_DL.MkvCage
+name=Billionaire Boys Club (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwyXIzlHGkdMlpWSierm0MApmsN.jpg
-date=2018-09-24
-URL=https://openload.co/f/AgT4rDazPUo/Billionaire.Boys.Club.2018.720p.WEB_DL.MkvCage.ws.mp4
+date=2018-10-22
+URL=https://openload.co/f/n6xoIrDP1u0/Billionaire.Boys.Club.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/AgT4rDazPUo/Billionaire.Boys.Club.2018.720p.WEB_DL.MkvCage.ws.mp4
 #https://openload.co/f/zOLm60jIaKk/Billionaire_Boys_Club.2018.720pHD_SeeHD.mkv.mp4
 type=video
 name=Billionaire Boys Club (2018) TH
