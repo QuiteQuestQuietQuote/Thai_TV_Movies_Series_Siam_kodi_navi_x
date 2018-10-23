@@ -178,10 +178,11 @@ URL=https://openload.co/f/7qBeaEcLP2A/Papillon.2018.New.Src.720p.HDCAM.x264.AC3-
 
 
 type=video
-name=BlacKkKlansman (2018) ENG 720p_HDCAM_X264-24HD_SeeHD
+name=BlacKkKlansman (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/55W6mUVv4CXMMQHHhV2zXtLSpXQ.jpg
-date=2018-09-07
-URL=https://openload.co/f/Rf7BISAZHx4/BlacKkKlansman_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
+date=2018-10-23
+URL=https://openload.co/f/1c10hC7FoyY/BlacKkKlansman.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/Rf7BISAZHx4/BlacKkKlansman_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
 
 
 
@@ -7063,10 +7064,12 @@ URL=https://openload.co/f/6aVEUo3AkIQ/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%
 
 
 type=video
-name=Mile 22 (2018) ENG NEW_HDCAM_SeeHD
+name=Mile 22 (2018) ENG 1080p.HDRip
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
-date=2018-09-15
-URL=https://openload.co/f/GyD2vOAKqzA/Mile_22_2018_NEW_HDCAM_SeeHD.mkv.mp4
+date=2018-10-23
+URL=https://openload.co/f/yLdLfVPKaOs/Mile.22.2018.1080p.HDRip.mkv.mp4
+#https://openload.co/f/M3ZVsZxHZ7c/Mile.22.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/GyD2vOAKqzA/Mile_22_2018_NEW_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/aug72S8Qov8/Mile.22.2018.720p.HDCAM.1XBET_SeeHD.mp4
 #https://openload.co/f/m7HdxWgn5SY/Mile.22.2018.720p.HDCAM.1XBET.mp4
 type=video
@@ -7278,7 +7281,7 @@ URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds
 type=video
 name=
 thumb=
-date=2018-10-21
+date=2018-10-23
 URL=
 
 
@@ -7286,8 +7289,17 @@ URL=
 
 
 
-
-
+type=video
+name=Galveston (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZnPtTHw7TfOQoLz3MeAUSLvNK5.jpg
+date=2018-10-23
+URL=https://openload.co/f/OBNnbvHPAP0/Galveston.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/nUt7IaM4LnA/Galveston_1080p_WEB-DL_SeeHD.mkv.mp4
+type=video
+name=Galveston (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZnPtTHw7TfOQoLz3MeAUSLvNK5.jpg
+date=2018-10-23
+URL=https://openload.co/f/bSBosr9PEjg/Galveston_%282018%29%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -10297,8 +10309,9 @@ URL=https://www.blazefile.co/embed-mpfnrec68izl.html
 type=video
 name=Winchester (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHDtskokZeO9B3JBdR1dSH0uqad.jpg
-date=2018-10-18
-URL=https://openload.co/f/7b7Z2cleYgs/Winchester_%282018%29%E0%B8%84%E0%B8%A4%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%8C%E0%B8%82%E0%B8%B1%E0%B8%87%E0%B8%9C%E0%B8%B5.mp4
+date=2018-10-23
+URL=https://openload.co/f/zT3sSPAv5Wg/Winchester_%282018%29%E0%B8%84%E0%B8%A4%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%8C%E0%B8%82%E0%B8%B1%E0%B8%87%E0%B8%9C%E0%B8%B5.mp4
+#https://openload.co/f/7b7Z2cleYgs/Winchester_%282018%29%E0%B8%84%E0%B8%A4%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%8C%E0%B8%82%E0%B8%B1%E0%B8%87%E0%B8%9C%E0%B8%B5.mp4
 #https://streamango.com/f/rlcdffttdddaetmn/Winchester_2018_
 #https://streamango.com/f/elfccpoabamnnmla/Winchester_2018_
 
