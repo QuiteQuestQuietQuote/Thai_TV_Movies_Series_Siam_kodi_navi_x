@@ -168,10 +168,12 @@ URL=https://openload.co/f/gkdpwns7nyY/White_Boy_Rick_2018_720p_TS-1XBET_SeeHD.mp
 
 
 type=video
-name=Papillon (2018) ENG New.Src.720p.HDCAM.x264.AC3-NeNi
+name=Papillon (2018) ENG READNFO.DVDRip.XviD.AC3-iFT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahF5c6vyP8HWMqIwlhecbRALkjq.jpg
-date=2018-09-10
-URL=https://openload.co/f/7qBeaEcLP2A/Papillon.2018.New.Src.720p.HDCAM.x264.AC3-NeNi.mkv.mp4
+date=2018-10-24
+URL=https://openload.co/f/BXDCsMomC9Y/Papillon.2018.READNFO.DVDRip.XviD.AC3-iFT.avi.mp4
+#https://openload.co/f/EvbdTR71ukY/Papillon.2018.READNFO.DVDRip.x264-SuperSync.mkv.mp4
+#https://openload.co/f/7qBeaEcLP2A/Papillon.2018.New.Src.720p.HDCAM.x264.AC3-NeNi.mkv.mp4
 #https://openload.co/f/6KA5yHZmYjo/Papillon.2018.New.720p.HDCAM.mkv.mp4
 #https://openload.co/f/Fh3NM-aqVXU/Papillon.2018.CAM.1XBET_SeeHD.mp4
 
@@ -182,6 +184,8 @@ name=BlacKkKlansman (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/55W6mUVv4CXMMQHHhV2zXtLSpXQ.jpg
 date=2018-10-23
 URL=https://openload.co/f/1c10hC7FoyY/BlacKkKlansman.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/5rIEW8h1fh4/BlacKkKlansman.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/2Okq7chgLvI/BlacKkKlansman.2018.720pHD_SeeHD.mkv   MKV2.8GB
 #https://openload.co/f/Rf7BISAZHx4/BlacKkKlansman_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
 
 
@@ -1334,13 +1338,27 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-22
+date=2018-10-24
 URL=
 
 
 
 
 
+
+
+
+
+
+
+
+type=video
+name=Indian Horse (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PRmK9svHolvZ2CLNoBkmViYlrB.jpg
+date=2018-10-24
+URL=https://openload.co/f/YUEggjT96NE/Indian.Horse.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/z30oZO9oNts/Indian.Horse.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/JjhH_PA1kDc/Indian.Horse.2017.720p.BluRay.x264-NODLABS.mkv.mp4
 
 type=video
 name=Egon Schiele: Death and the Maiden (2016) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
@@ -1483,6 +1501,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wErHaJrD1QZ2FEVneH6w0GZUz2
 date=2018-10-15
 URL=https://openload.co/f/5Vx3Zy-ae-Y/Down.a.Dark.Hall.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/JqSKB6cDqqQ/Down.A.Dark.Hall.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/CEuHyYqCAnU/Down.a.Dark.Hall.2018.720p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/3JMDzftDVYs/Down_a_Dark_Hall_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
 #https://uptobox.com/98hne2fug1uf   720
 #https://www.rapidvideo.com/e/FWA1VGNWO6   720
@@ -6797,6 +6816,17 @@ URL=https://uptobox.com/nidfwbabl93n
 #https://www.rapidvideo.com/e/FWC72OBB4E
 #https://openload.co/embed/SDd5gXpjCfI/THERAYFREEDOMFIGTERSBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/2Uv_nM_IQxs/Freedom_Fighters%3A_The_Ray_%282018%29720p_BluRay_x264-SADPANDA.Ganool.mkv.mp4
+
+type=video
+name=Warning Shot (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyuwlk2Exa3WfcvxUAghJau4luW.jpg
+date=2018-10-24
+URL=https://uptobox.com/1ptj2jdkww7a
+#https://www.rapidvideo.com/e/FWJDJINBW5
+#https://openload.co/embed/gHvZ0XoGsZo/WARNINGSHOTBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/Ruq9xPRo684/Warning_Shot_%282018%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
+
+
 
 
 
