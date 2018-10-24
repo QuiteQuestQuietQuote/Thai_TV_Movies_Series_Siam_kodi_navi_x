@@ -366,11 +366,7 @@ thumb=http://javdub.com/wp-content/uploads/2017/04/21381.jpg
 date=2018-06-15
 URL=http://cdn.vodstream.xyz/q101/3678/012-hls/appid-21381/hls.m3u8?v=3
 
-type=video
-name=Sqte-169 S-cute Girls Ranking-2017 Top 10
-thumb=https://www.xjav.to/wp-content/uploads/2017/06/24503.jpg
-date=2018-06-15
-URL=https://cdn2.xjav.to/s45/3675/032-hls/appid-24503/hls_720_.m3u8
+
 
 type=video
 name=Sqte-178 A Black Hairy Lolita Girl Sometimes Makes A Face Of An Adult
@@ -455,6 +451,13 @@ date=2018-06-15
 URL=https://cdn2.xjav.to/s50/3674/004-hls/appid-11726/hls_720_.m3u8
 
 type=video
+name=Sqte-169 S-cute Girls Ranking-2017 Top 10
+thumb=https://www.xjav.to/wp-content/uploads/2017/06/24503.jpg
+date=2018-06-15
+URL=https://cdn2.xjav.to/s45/3675/032-hls/appid-24503/hls_720_.m3u8
+#https://cdn.xjav.to/s45/3675/032-hls/appid-24503/hls_720_.m3u8
+
+type=video
 name=Sqte-151 S-cute Breasts Pretty Festival 8 Hours
 thumb=https://www.xjav.to/wp-content/uploads/2017/01/10303.jpg
 date=2018-06-15
@@ -470,19 +473,19 @@ type=video
 name=
 thumb=
 date=2018-07-24
-URL=
+URL=https://www.fembed.com/v/dworr3m1pog
 
 type=video
 name=
 thumb=
 date=2018-07-24
-URL=
+URL=https://www.fembed.com/v/pm951e2l8ol
 
 type=video
 name=Sor-
 thumb=
 date=2018-07-24
-URL=
+URL=https://www.fembed.com/v/54vyd47kxvl
 
 
 type=video
