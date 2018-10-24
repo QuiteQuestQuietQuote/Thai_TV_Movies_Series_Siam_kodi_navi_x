@@ -3237,16 +3237,6 @@ http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD
 http://i0320.lnmtzv.boxtv.win/live/kwzq1rse/cbpz1qrf/index.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_TH_token
-http://191.96.38.237:443/android/02_BBCEARTH_720p/playlist.m3u8?token=4b937b1b4e4551f82d792ea77c6625f2
-#EXTINF:-1 group-title="docu" tvg-logo="http://image.free.in.th/v/2013/io/180629043620.jpg",BBC LIFESTYLE HD_TH_token
-http://191.96.38.237:443/android/02_LIFETYLEHD_720p/playlist.m3u8?token=4b937b1b4e4551f82d792ea77c6625f2
-#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE_480_TH_token
-http://191.96.38.237:443/android/7ad09373f65c48d5bb6aa6c3b2ca519a_480p/playlist.m3u8?token=4b937b1b4e4551f82d792ea77c6625f2
-#EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png",now 26_token
-http://191.96.38.237:443/android/732ace1b4983472097eedb0d415dc231/playlist.m3u8?token=4b937b1b4e4551f82d792ea77c6625f2
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_token
-http://191.96.38.237:443/android/77774220bb8e40aa94e549e29ff3ed8a/playlist.m3u8?token=4b937b1b4e4551f82d792ea77c6625f2
 #EXTINF:-1,TLC HD World
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/03.m3u8
 

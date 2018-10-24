@@ -763,8 +763,9 @@ URL=https://openload.co/f/qpNAZE5__z0/%7BMiniHQ%7D_Haruko.Azumi.Is.Missing.2016.
 type=video
 name=The Shack (2017)
 thumb=http://image.tmdb.org/t/p/w500/doAzav9kfdtsoSdw1MDFvjKq3J4.jpg
-date=2017-07-06
-URL=https://streamango.com/f/tftmsbpkkpolaokk/The_Shack_mp4
+date=2018-10-24
+URL=https://openload.co/f/EFByMjEhB8I/The_Shack_%282017%29%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C.mp4
+#https://streamango.com/f/tftmsbpkkpolaokk/The_Shack_mp4
 player=default
 rating=-1.00
 description=After suffering a family tragedy, Mack Phillips spirals into a deep depression causing him to question his innermost beliefs. Facing a crisis of faith, he receives a mysterious letter urging him to an abandoned shack deep in the Oregon wilderness. Despite his doubts, Mack journeys to the shack and encounters an enigmatic trio of strangers led by a woman named Papa. Through this meeting, Mack finds important truths that will transform his understanding of his tragedy and change his life forever./description
