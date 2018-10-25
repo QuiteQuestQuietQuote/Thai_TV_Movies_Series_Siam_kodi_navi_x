@@ -244,10 +244,11 @@ URL=https://openload.co/f/owzkqG6yDQc/Teen.Titans.Go.To.the.Movies.2018.1080p.WE
 
 
 type=video
-name=Christopher Robin (2018) ENG 720p_HDCAM-1xBET_SeeHD
+name=Christopher Robin (2018) ENG DVDRip.XviD.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR5w0he6czZkcAz459a4iPBqXGe.jpg
-date=2018-08-04
-URL=https://openload.co/f/bTipjRNrvP8/Christopher_Robin_2018_720p_HDCAM-1xBET_SeeHD.mp4
+date=2018-10-25
+URL=https://openload.co/f/6pjcCQel_S4/Christopher.Robin.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/bTipjRNrvP8/Christopher_Robin_2018_720p_HDCAM-1xBET_SeeHD.mp4
 #https://openload.co/f/6qOtYMgj21Y/Christopher.Robin.2018.NO-WATERMARK.720p.HDCAMCopy.XVID.AC3-YIN.avi.mp4
 #https://openload.co/f/2HPrMRw6_ng/Christopher.Robin.2018.HDCAM.XviD-AVID.avi.mp4
 
@@ -735,11 +736,7 @@ date=2018-01-30
 URL=https://openload.co/f/rQ4_bX9s74Y/Halloween.Pussy.Trap.Kill.Kill.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/32qyYSh1KXU/Halloween.Pussy.Trap.Kill%21.Kill%21.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=Wolf Mother (2016) ENG WEBRip.x264-iNTENSO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/htoD1BJC9dcC9E43K0f4ZJ0M0sT.jpg
-date=2017-11-01
-URL=https://openload.co/f/9FjyQeOnc4Q/Wolf.Mother.2016.1080p.WEBRip.x264-iNTENSO.mkv.mp4
+
 
 
 
@@ -1338,7 +1335,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-24
+date=2018-10-25
 URL=
 
 
@@ -1348,9 +1345,28 @@ URL=
 
 
 
+type=video
+name=Malevolence 3: Killer (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSrHuikNSKTQyb5C6EbQiZtVgsA.jpg
+date=2018-10-25
+URL=https://openload.co/f/dYNJD9YHjzI/Malevolence.3.Killer.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/HZ6OJD88fSM/Malevolence.3.Killer.2018.1080p.BluRay.x264.DD5.1-FGT.mkv.mp4
+#https://openload.co/f/XXeLqjJ_F6c/Malevolence.3.Killer.2018.720p.BluRay.x264.DD5.1-FGT.mkv.mp4
+#https://openload.co/f/tvtIftFYUYA/Malevolence_3%3A_Killer_%282018%29720p_BluRay_x264_DD5.1-FGT.Ganool.mkv.mp4
+#https://uptobox.com/qy5g2kgyicms   720
+#https://www.rapidvideo.com/e/FWKXVRW83T   720
+#https://openload.co/embed/WnSDafT-fHY/MALEVOLENCE3KILLERBD72.Ganol.st.mkv.mp4
 
-
-
+type=video
+name=The School (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVd5Aj2eAntlmdJIztp62J5rQmt.jpg
+date=2018-10-25
+URL=https://uptobox.com/q4wrfppdxd4j
+#https://www.rapidvideo.com/e/FWKZ418MXV
+#https://openload.co/embed/DIbrqs0l1xg/THESCHOOL80.Ganol.st.mkv
+#https://openload.co/f/m6RMSsi6jWc/The.School.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/YdodzKcYswo/The.School.2018.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+#https://openload.co/f/vNamRvOO6Zw/The_School_%282018%291080p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
 
 type=video
 name=Indian Horse (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1382,6 +1398,7 @@ URL=https://uptobox.com/cep1j4majb6l
 #https://openload.co/embed/zQeV2CSjJfs/GHPHURRIAEN80.Ganol.st.mkv
 #https://openload.co/f/r-UWCmGDS44/Hurricane_%282018%291080p_BluRay_x264-EiDER.Ganool.mkv.mp4
 #https://openload.co/f/vi5wI_0dBSs/Hurricane_%282018%29720p_BluRay_x264-EiDER.Ganool.mkv.mp4
+#https://openload.co/f/ai6fzssxbHc/Hurricane_%282018%29720p_BluRay_x264-EiDER.Ganool.mkv.mp4
 
 type=video
 name=The Dead and the Damned 3: Ravaged (2018) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
@@ -1474,19 +1491,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oiljqVeMxVnKJ7rQUS3Ww1odp
 date=2018-10-16
 URL=https://openload.co/f/9RkP367vpIU/The.Asian.Connection.2016.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
-type=video
-name=Slender Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg
-date=2018-10-16
-URL=https://uptobox.com/mqo4zrxh4fw8
-#https://www.rapidvideo.com/e/FWAKIF9JY3
-#https://openload.co/embed/IgoljfirHmo/GHPSLENDERMAN80.Ganol.st.mkv
-#https://openload.co/f/UOTZuP0bhxg/Slender.Man.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/OPaEWCOVgrM/Slender.Man.2018.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/VgZkWE9MXjw/Slender_Man_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
-#https://openload.co/f/aTk4c0qAFsI/Slenderman_2018_720p_TS-1XBET.mkv.mp4
-#https://openload.co/f/kRIsUUsL7Vo/Slender_Man_720p_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/4i4Zo8czRuE/Slenderman.2018.720p.HDCAM.1XBET.mp4
+
 
 type=video
 name=Chicken (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1498,8 +1503,12 @@ URL=https://openload.co/f/pH5KXnqMqEc/Chicken.2015.1080p.BluRay.x264-%5BYTS.AM%5
 type=video
 name=Down a Dark Hall (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wErHaJrD1QZ2FEVneH6w0GZUz2L.jpg
-date=2018-10-15
-URL=https://openload.co/f/5Vx3Zy-ae-Y/Down.a.Dark.Hall.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-10-25
+URL=https://uptobox.com/rb66guq322aq
+#https://www.rapidvideo.com/e/FWKACRMNKV
+#https://openload.co/embed/ra0BjtQP7Dc/DONADARKHALL80.Ganol.st.mkv
+#https://openload.co/f/PMLyBgbBdxg/Down_a_Dark_Hall_%282018%291080p_BluRay_x264-PSYCHD.Ganool.mkv.mp4
+#https://openload.co/f/5Vx3Zy-ae-Y/Down.a.Dark.Hall.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/JqSKB6cDqqQ/Down.A.Dark.Hall.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/CEuHyYqCAnU/Down.a.Dark.Hall.2018.720p.BluRay.x264-PSYCHD.mkv.mp4
 #https://openload.co/f/3JMDzftDVYs/Down_a_Dark_Hall_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
@@ -6826,9 +6835,24 @@ URL=https://uptobox.com/1ptj2jdkww7a
 #https://openload.co/embed/gHvZ0XoGsZo/WARNINGSHOTBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/Ruq9xPRo684/Warning_Shot_%282018%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
 
+type=video
+name=Wolf Mother (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/htoD1BJC9dcC9E43K0f4ZJ0M0sT.jpg
+date=2018-10-25
+URL=https://uptobox.com/hq8mu5ij1t9d
+#https://www.rapidvideo.com/e/FWKQQAF853
+#https://openload.co/embed/QO3JT8EFGnw/WOLFMOTHERBD72.Ganol.st.mkv
+#https://openload.co/f/cgbxn-9nW50/Wolf_Mother_%282016%29720p_BluRay_x264-RUSTED.Ganool.mkv.mp4
+#https://openload.co/f/9FjyQeOnc4Q/Wolf.Mother.2016.1080p.WEBRip.x264-iNTENSO.mkv.mp4
 
-
-
+type=video
+name=The Unknown Soldier (2017) [COLOR=FF00FF00]FIN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zw5w15njhenm6Sq0Q6tjYOaRk7n.jpg
+date=2018-10-25
+URL=https://uptobox.com/gc50v4rqbuem
+#https://www.rapidvideo.com/e/FWKYQPAP1Q
+#https://openload.co/embed/jP52FRAOAOM/THEUNKNOWSOLDIERBD72.Ganol.st.mkv
+#https://openload.co/f/G0K4QSG5d4g/The_Unknown_Soldier_%282017%29BluRay_720p_x264_TrueHD_7_1-HDC.Ganool.mkv.mp4
 
 
 
@@ -7383,11 +7407,15 @@ URL=https://openload.co/f/D7cK02rDms8/Tag_%282018%29%E0%B8%81%E0%B9%8A%E0%B8%A7%
 
 
 type=video
-name=Patient Zero (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Patient Zero (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jOqatpfh0aKYhl6fN83RK69UtC.jpg
-date=2018-10-18
-URL=https://uptobox.com/2zul0gmt9rz0
-#https://www.rapidvideo.com/e/FWCDYQIAY0
+date=2018-10-25
+URL=https://uptobox.com/s09cel66itwp
+#https://www.rapidvideo.com/e/FWKNF8R5M3
+#https://openload.co/embed/gWhPlVoAeR8/PATIENTZERO80.Ganol.st.mkv.mp4
+#https://openload.co/f/JbXoTo8KbNE/Patient_Zero_%282018%291080p_BluRay_X264-iNVANDRAREN.Ganool.mkv.mp4
+#https://uptobox.com/2zul0gmt9rz0   720
+#https://www.rapidvideo.com/e/FWCDYQIAY0   720
 #https://openload.co/embed/sa2AoCm9iYA/PATIENTZEROBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/-_f6sd0v7b8/Patient_Zero_%282018%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
 type=video
@@ -10280,6 +10308,27 @@ URL=
 
 
 
+
+
+
+type=video
+name=Slender Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg
+date=2018-10-16
+URL=https://uptobox.com/mqo4zrxh4fw8
+#https://www.rapidvideo.com/e/FWAKIF9JY3
+#https://openload.co/embed/IgoljfirHmo/GHPSLENDERMAN80.Ganol.st.mkv
+#https://openload.co/f/UOTZuP0bhxg/Slender.Man.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/OPaEWCOVgrM/Slender.Man.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/VgZkWE9MXjw/Slender_Man_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/aTk4c0qAFsI/Slenderman_2018_720p_TS-1XBET.mkv.mp4
+#https://openload.co/f/kRIsUUsL7Vo/Slender_Man_720p_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/4i4Zo8czRuE/Slenderman.2018.720p.HDCAM.1XBET.mp4
+type=video
+name=Slender Man (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg
+date=2018-10-25
+URL=https://openload.co/f/tE4y_5sBjOw/Slender_Man_%282018%29%E0%B8%AA%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%81%E0%B8%A1%E0%B8%99.mp4
 
 
 type=video
