@@ -76,7 +76,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-21
+date=2018-10-26
 URL=
 
 
@@ -85,7 +85,11 @@ URL=
 
 
 
-
+type=video
+name=King of Thieves (2018) ENG 720p_TS-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aANJRBtm75nw8fNlITAIvAOAGha.jpg
+date=2018-10-26
+URL=https://openload.co/f/HM-dmohGv4g/King_of_Thieves_2018_720p_TS-1XBET_SeeHD.mp4
 
 type=video
 name=Night School (2018) ENG 720p_TS-1XBET_SeeHD
@@ -168,10 +172,11 @@ URL=https://openload.co/f/gkdpwns7nyY/White_Boy_Rick_2018_720p_TS-1XBET_SeeHD.mp
 
 
 type=video
-name=Papillon (2018) ENG READNFO.DVDRip.XviD.AC3-iFT
+name=Papillon (2018) ENG REAL.DVDRip.XviD.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahF5c6vyP8HWMqIwlhecbRALkjq.jpg
-date=2018-10-24
-URL=https://openload.co/f/BXDCsMomC9Y/Papillon.2018.READNFO.DVDRip.XviD.AC3-iFT.avi.mp4
+date=2018-10-26
+URL=https://openload.co/f/-3em3klpSAs/Papillon.2018.REAL.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/BXDCsMomC9Y/Papillon.2018.READNFO.DVDRip.XviD.AC3-iFT.avi.mp4
 #https://openload.co/f/EvbdTR71ukY/Papillon.2018.READNFO.DVDRip.x264-SuperSync.mkv.mp4
 #https://openload.co/f/7qBeaEcLP2A/Papillon.2018.New.Src.720p.HDCAM.x264.AC3-NeNi.mkv.mp4
 #https://openload.co/f/6KA5yHZmYjo/Papillon.2018.New.720p.HDCAM.mkv.mp4
@@ -243,14 +248,7 @@ URL=https://openload.co/f/owzkqG6yDQc/Teen.Titans.Go.To.the.Movies.2018.1080p.WE
 
 
 
-type=video
-name=Christopher Robin (2018) ENG DVDRip.XviD.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR5w0he6czZkcAz459a4iPBqXGe.jpg
-date=2018-10-25
-URL=https://openload.co/f/6pjcCQel_S4/Christopher.Robin.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/bTipjRNrvP8/Christopher_Robin_2018_720p_HDCAM-1xBET_SeeHD.mp4
-#https://openload.co/f/6qOtYMgj21Y/Christopher.Robin.2018.NO-WATERMARK.720p.HDCAMCopy.XVID.AC3-YIN.avi.mp4
-#https://openload.co/f/2HPrMRw6_ng/Christopher.Robin.2018.HDCAM.XviD-AVID.avi.mp4
+
 
 
 
@@ -1335,7 +1333,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-25
+date=2018-10-26
 URL=
 
 
@@ -1343,7 +1341,36 @@ URL=
 
 
 
+type=video
+name=The Unknown Soldier (2017) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zw5w15njhenm6Sq0Q6tjYOaRk7n.jpg
+date=2018-10-26
+URL=https://uptobox.com/m7b4xsd9d1ec
+#https://www.rapidvideo.com/e/FWLN4NI11U
+#https://openload.co/embed/kZM8wfsBeQA/GHPTHEUNKNOWSOLDIER80.Ganol.st.mkv
+#https://openload.co/f/5C5OF0BOyJw/The_Unknown_Soldier_%282017%29BluRay_1080p_x264_TrueHD_7_1-HDC.Ganool.mkv.mp4
+#https://uptobox.com/gc50v4rqbuem   720
+#https://www.rapidvideo.com/e/FWKYQPAP1Q   720
+#https://openload.co/embed/jP52FRAOAOM/THEUNKNOWSOLDIERBD72.Ganol.st.mkv
+#https://openload.co/f/G0K4QSG5d4g/The_Unknown_Soldier_%282017%29BluRay_720p_x264_TrueHD_7_1-HDC.Ganool.mkv.mp4
 
+type=video
+name=McQueen (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bc5kAqhNfLitH7zMlLvLRbxV0xD.jpg
+date=2018-10-26
+URL=https://openload.co/f/CRvK3dpZK4M/mcqueen.2018.limited.1080p.bluray.x264-cadaver.mkv.mp4
+
+type=video
+name=Christopher Robin (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR5w0he6czZkcAz459a4iPBqXGe.jpg
+date=2018-10-26
+URL=https://openload.co/f/qH7nPQD2lMI/Christopher.Robin.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/pYEwXUf1li4/Christopher_Robin_2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/OZ-wRl6Zbjw/Christopher.Robin.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/6pjcCQel_S4/Christopher.Robin.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/bTipjRNrvP8/Christopher_Robin_2018_720p_HDCAM-1xBET_SeeHD.mp4
+#https://openload.co/f/6qOtYMgj21Y/Christopher.Robin.2018.NO-WATERMARK.720p.HDCAMCopy.XVID.AC3-YIN.avi.mp4
+#https://openload.co/f/2HPrMRw6_ng/Christopher.Robin.2018.HDCAM.XviD-AVID.avi.mp4
 
 type=video
 name=Malevolence 3: Killer (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1351,6 +1378,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSrHuikNSKTQyb5C6EbQiZtVgs
 date=2018-10-25
 URL=https://openload.co/f/dYNJD9YHjzI/Malevolence.3.Killer.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/HZ6OJD88fSM/Malevolence.3.Killer.2018.1080p.BluRay.x264.DD5.1-FGT.mkv.mp4
+#https://openload.co/f/l2SZJ2ASxco/Malevolence.3.Killer.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/XXeLqjJ_F6c/Malevolence.3.Killer.2018.720p.BluRay.x264.DD5.1-FGT.mkv.mp4
 #https://openload.co/f/tvtIftFYUYA/Malevolence_3%3A_Killer_%282018%29720p_BluRay_x264_DD5.1-FGT.Ganool.mkv.mp4
 #https://uptobox.com/qy5g2kgyicms   720
@@ -3926,15 +3954,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KRt71uq5fspRvh0BR4TwOZKmB
 date=2018-03-28
 URL=https://openload.co/f/csUWBG0L1uo/happy.end.2017.limited.1080p.bluray.x264-usury.mkv.mp4
 
-type=video
-name=Peace Breaker (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Uje4tPPipTK58x2hNkJobnSHL.jpg
-date=2018-03-27
-URL=https://www.blazefile.co/embed-kz8il6wvc7kd.html
-#https://uptobox.com/ugp1v7p61493
-#https://www.blazefile.co/embed-fqklq01idkff.html   720
-#https://uptobox.com/uemx3gfcye9d   720
-#https://openload.co/f/lEe0zST-g6w/Peace.Breaker.2017.CHINESE.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
+
 
 type=video
 name=Children Of The Corn: Runaway (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -6845,16 +6865,13 @@ URL=https://uptobox.com/hq8mu5ij1t9d
 #https://openload.co/f/cgbxn-9nW50/Wolf_Mother_%282016%29720p_BluRay_x264-RUSTED.Ganool.mkv.mp4
 #https://openload.co/f/9FjyQeOnc4Q/Wolf.Mother.2016.1080p.WEBRip.x264-iNTENSO.mkv.mp4
 
+
+
 type=video
-name=The Unknown Soldier (2017) [COLOR=FF00FF00]FIN BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zw5w15njhenm6Sq0Q6tjYOaRk7n.jpg
-date=2018-10-25
-URL=https://uptobox.com/gc50v4rqbuem
-#https://www.rapidvideo.com/e/FWKYQPAP1Q
-#https://openload.co/embed/jP52FRAOAOM/THEUNKNOWSOLDIERBD72.Ganol.st.mkv
-#https://openload.co/f/G0K4QSG5d4g/The_Unknown_Soldier_%282017%29BluRay_720p_x264_TrueHD_7_1-HDC.Ganool.mkv.mp4
-
-
+name=Benched (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRrS6rOxJ5dSfCWkLvR4c5qwxc.jpg
+date=2018-10-26
+URL=https://openload.co/f/iypG4u4aDmc/Benched.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
 
 
@@ -6864,7 +6881,7 @@ URL=https://uptobox.com/gc50v4rqbuem
 type=video
 name=
 thumb=
-date=2018-10-21
+date=2018-10-26
 URL=
 
 type=video
@@ -7039,10 +7056,16 @@ URL=https://openload.co/f/NzNS1jlT1t4/Hell_Fest_%282018%29%E0%B8%AA%E0%B8%A7%E0%
 
 
 type=video
-name=Alpha (2018) ENG NEW_720p_HDCAM_SeeHD
+name=Alpha (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
-date=2018-09-12
-URL=https://openload.co/f/WmQZlIG_tHk/Alpha_2018_NEW_720p_HDCAM_SeeHD.mkv.mp4
+date=2018-10-26
+URL=https://openload.co/f/YBg5krE5b3Y/Alpha.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/xs6o0XjLu2U/Alpha.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/unLIJ-Z7HiM/Alpha.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/Qiqs4I-DyCs/Alpha.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv   MKV3.3GB
+#https://openload.co/f/H0Al6Q6dUo0/Alpha.2018.720pHD_SeeHD.mkv   MKV3.0GB
+#https://openload.co/f/dVjiLJIbNOU/Alpha.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv   MKV3.0GB
+#https://openload.co/f/WmQZlIG_tHk/Alpha_2018_NEW_720p_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/0kwFGuTf9LY/Alpha_2018_NEW_720p_HDCAM_ENG_SUB-24HD_SeeHD.mp4
 #https://openload.co/f/E-KpG1hlEXY/Alpha_2018_NOLOGO_CAM-1XBET.mp4
 #https://openload.co/f/TDsbq--aNhA/Alpha_2018_CAM_x264-1XBET.mp4
@@ -7117,27 +7140,15 @@ URL=https://openload.co/f/6aVEUo3AkIQ/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%
 
 
 
-type=video
-name=Mile 22 (2018) ENG 1080p.HDRip
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
-date=2018-10-23
-URL=https://openload.co/f/yLdLfVPKaOs/Mile.22.2018.1080p.HDRip.mkv.mp4
-#https://openload.co/f/M3ZVsZxHZ7c/Mile.22.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/GyD2vOAKqzA/Mile_22_2018_NEW_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/aug72S8Qov8/Mile.22.2018.720p.HDCAM.1XBET_SeeHD.mp4
-#https://openload.co/f/m7HdxWgn5SY/Mile.22.2018.720p.HDCAM.1XBET.mp4
-type=video
-name=Mile 22 (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
-date=2018-09-03
-URL=https://openload.co/f/EN0pPmSU45M/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
-name=A.X.L. (2018) ENG 1080pHDCAM_SeeHD
+name=A.X.L. (2018) ENG 720p.NF.WEB-DL.DD5.1.H264-CMRG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg
-date=2018-09-06
-URL=https://openload.co/f/vHlB1P-_1tU/A.X.L1080pHDCAM_SeeHD.mkv.mp4
+date=2018-10-26
+URL=https://openload.co/f/Fz_xPEw8Wm0/A-X-L.2018.720p.NF.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/vHlB1P-_1tU/A.X.L1080pHDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/Kj439guATEg/AXL.2018.HDCAM.XviD-AVID.avi.mp4
 #https://openload.co/f/IdRiWQZUTME/A.X.L.2018.RUS.HDCAM.HC.ENG.SUB-NO.WATERMARK.mp4
 #https://openload.co/f/7DFmc1VnHF0/A.X.L_2018_720p_RUS_HDCAM_HC_ENG_SUB-1XBET.mp4
@@ -7209,29 +7220,7 @@ URL=https://streamango.com/f/kkafqdmfscfdklql/Animal_World_2018_
 
 
 
-type=video
-name=Incredibles 2 (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL9Uz2vq93vi20oxZEBBaSs4w8U.jpg
-date=2018-10-22
-URL=https://openload.co/f/yEvlc-Q9jZI/Incredibles.2.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/_-__Ebqgadk/The.Incredibles.2.2018.720p.WEB-DL.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/y69L166rcUo/The.Incredibles.2.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/CHeGGWwWQpg/Incredibles.2.2018.720p.TS.mp4
-#https://openload.co/f/rJku_Twltkg/Incredibles_2_2018_720p_HDTC_x264_MW.mp4
-#https://openload.co/f/U8SRgkjAEwA/Incredibles_2_2018_720p_NEW_HDCAM_X264_AC3-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/B1uiv7DCobk/Incredibles.2.2018.NOLOGO.720p.TELECINE.mkv.mp4
-#https://openload.co/f/GGtdcDy2JpQ/Incredibles_2_2018_720p_NEW_HDCAM_X264_AC3.mkv.mp4
-#https://openload.co/f/qblTDwlSOds/Incredibles.2.2018.HDTC.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/k9SXQsc9kGg/The_Incredibles_2.2018.NEW.HDCAM.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/_hLpk18cxmo/The_Incredibles_2_2018_FULL_HDCAM_x264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/-TddfwsIN90/Incredibles.2.2018.New.720p.HDCAM.NO.LOGO.X264.AC3.Fugitive.mkv.mp4
-#https://openload.co/f/4SFCu-hB8m0/Incredibles.2.2018.720p.TS.Eng.E.mp4
-#https://openload.co/f/mUN8MVzw2d8/The_Incredibles_2_2018_NEW_HDCAM_X264-CPG_SeeHD.mkv.mp4
-type=video
-name=Incredibles 2 (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL9Uz2vq93vi20oxZEBBaSs4w8U.jpg
-date=2018-06-26
-URL=https://streamango.com/f/pmornaclntnlddoo/Incredibles_2_2018_2_
+
 
 
 
@@ -9569,6 +9558,25 @@ URL=
 
 
 
+
+
+type=video
+name=Mile 22 (2018) ENG 1080p.HDRip
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
+date=2018-10-23
+URL=https://openload.co/f/yLdLfVPKaOs/Mile.22.2018.1080p.HDRip.mkv.mp4
+#https://openload.co/f/M3ZVsZxHZ7c/Mile.22.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/GyD2vOAKqzA/Mile_22_2018_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/aug72S8Qov8/Mile.22.2018.720p.HDCAM.1XBET_SeeHD.mp4
+#https://openload.co/f/m7HdxWgn5SY/Mile.22.2018.720p.HDCAM.1XBET.mp4
+type=video
+name=Mile 22 (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
+date=2018-10-26
+URL=https://openload.co/f/wNuqZS5UCIU/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/EN0pPmSU45M/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
 type=video
 name=The Spy Who Dumped Me (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
@@ -9787,17 +9795,7 @@ URL=https://openload.co/f/-g0pJTJq1wY/Detective_Dee%3A_The_Four_Heavenly_Kings_%
 
 
 
-type=video
-name=The Cured (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u56EI8gpAvvm4NE5dqdBeP7cD6d.jpg
-date=2018-05-30
-URL=https://openload.co/f/cZIiT2guD6w/The.Cured.2017.1080p.BR_SeeHD.mp4
-#https://openload.co/f/H2WgX-KAREc/The.Cured.2017.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
-type=video
-name=The Cured (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u56EI8gpAvvm4NE5dqdBeP7cD6d.jpg
-date=2018-07-31
-URL=https://streamango.com/f/aecberatadpcfkqe/The_Cured_2018_
+
 
 
 
@@ -9963,11 +9961,7 @@ URL=https://streamango.com/f/efralsqmrnsrkqrm/Anon_2018_
 
 
 
-type=video
-name=Doraemon the Movie 2017: Nobita's Great Adventure in the Antarctic Kachi Kochi (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUvhVQ6wyO7qssQSJ1CiM93Di7P.jpg
-date=2018-04-03
-URL=https://streamango.com/f/snbfltkcqdpqnfcf/Doraemon_the_Movie_2017_Nobita_s_Great_Adventure_in_the_Antarctic_Kachi_Kochi_2017_-_
+
 
 
 
@@ -10027,28 +10021,7 @@ URL=https://streamango.com/f/pkodrrnnoneoretr/Pok_mon_the_Movie_I_Choose_You_201
 
 
 
-type=video
-name=The Monkey King 3 (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQw0pTWeplDn1TmiN4MjIxvyCR0.jpg
-date=2018-05-16
-URL=https://www.blazefile.co/embed-oonc8i56w42a.html
-#http://uptobox.com/mayoeywq2jye
-#https://openload.co/f/qIJDcA5lhH0/The.Monkey.King.III.Kingdom.of.Women.2018.BluRay.1080p.5.1CH.x264.Ganool.im.mkv.mp4
-#https://openload.co/f/rF7Rg7SiRyE/The.Monkey.King.III.Kingdom.of.Women.2018.BluRay.1080p.5.1CH.x264.Ganool.im.mkv   MKV1.7GB
-#https://www.blazefile.co/embed-lz484j62vgcx.html   720
-#http://uptobox.com/nlrxtf3r3ny2   720
-#https://openload.co/f/Ky5cgorAWGU/The.Monkey.King.III.Kingdom.of.Women.2018.BluRay.720p.850MB.Ganool.im.mkv.mp4
-#https://openload.co/f/NHbCRCfr52s/The.Monkey.King.3.Kingdom.of.Women.2018.CHINESE.1080p.WEBRip.AAC2.0.x264-HQC.mkv.mp4
-#https://openload.co/f/YKnct2h2Nxk/The.Monkey.King.3.Kingdom.of.Women.2018.HD1080P.X264.AAC.Mandarin.CHS-ENG.MF.mp4
-#https://openload.co/f/6bxFcCnr7qE/The_Monkey_King_3_2018_HDTC_EngSub_Layar.mp4
-#https://openload.co/f/YtZ2o5-0f0Q/The_Monkey_King_3_HDCAM.mp4
-#https://openload.co/f/gI8dWLIQTuk/The_Monkey_King_3_%282018%29_Cam.mp4
-type=video
-name=The Monkey King 3 (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQw0pTWeplDn1TmiN4MjIxvyCR0.jpg
-date=2018-03-21
-URL=https://streamango.com/f/tstcsnsskldaccnm/The_Monkey_King_3_2018_3_
-#https://streamango.com/f/ndskdkornckbqper/The_Monkey_King_3_2018_
+
 
 
 
@@ -10307,8 +10280,93 @@ URL=
 
 
 
+type=video
+name=Incredibles 2 (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL9Uz2vq93vi20oxZEBBaSs4w8U.jpg
+date=2018-10-22
+URL=https://openload.co/f/yEvlc-Q9jZI/Incredibles.2.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/_-__Ebqgadk/The.Incredibles.2.2018.720p.WEB-DL.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/y69L166rcUo/The.Incredibles.2.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/CHeGGWwWQpg/Incredibles.2.2018.720p.TS.mp4
+#https://openload.co/f/rJku_Twltkg/Incredibles_2_2018_720p_HDTC_x264_MW.mp4
+#https://openload.co/f/U8SRgkjAEwA/Incredibles_2_2018_720p_NEW_HDCAM_X264_AC3-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/B1uiv7DCobk/Incredibles.2.2018.NOLOGO.720p.TELECINE.mkv.mp4
+#https://openload.co/f/GGtdcDy2JpQ/Incredibles_2_2018_720p_NEW_HDCAM_X264_AC3.mkv.mp4
+#https://openload.co/f/qblTDwlSOds/Incredibles.2.2018.HDTC.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/k9SXQsc9kGg/The_Incredibles_2.2018.NEW.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/_hLpk18cxmo/The_Incredibles_2_2018_FULL_HDCAM_x264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/-TddfwsIN90/Incredibles.2.2018.New.720p.HDCAM.NO.LOGO.X264.AC3.Fugitive.mkv.mp4
+#https://openload.co/f/4SFCu-hB8m0/Incredibles.2.2018.720p.TS.Eng.E.mp4
+#https://openload.co/f/mUN8MVzw2d8/The_Incredibles_2_2018_NEW_HDCAM_X264-CPG_SeeHD.mkv.mp4
+type=video
+name=Incredibles 2 (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL9Uz2vq93vi20oxZEBBaSs4w8U.jpg
+date=2018-10-26
+URL=https://openload.co/f/hv3NUtjwfWk/Incredibles_2_%282018%29%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%84%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%82%E0%B8%A5%E0%B8%81_2.mp4
+#https://streamango.com/f/pmornaclntnlddoo/Incredibles_2_2018_2_
 
 
+type=video
+name=The Monkey King 3 (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQw0pTWeplDn1TmiN4MjIxvyCR0.jpg
+date=2018-05-16
+URL=https://www.blazefile.co/embed-oonc8i56w42a.html
+#http://uptobox.com/mayoeywq2jye
+#https://openload.co/f/qIJDcA5lhH0/The.Monkey.King.III.Kingdom.of.Women.2018.BluRay.1080p.5.1CH.x264.Ganool.im.mkv.mp4
+#https://openload.co/f/rF7Rg7SiRyE/The.Monkey.King.III.Kingdom.of.Women.2018.BluRay.1080p.5.1CH.x264.Ganool.im.mkv   MKV1.7GB
+#https://www.blazefile.co/embed-lz484j62vgcx.html   720
+#http://uptobox.com/nlrxtf3r3ny2   720
+#https://openload.co/f/Ky5cgorAWGU/The.Monkey.King.III.Kingdom.of.Women.2018.BluRay.720p.850MB.Ganool.im.mkv.mp4
+#https://openload.co/f/NHbCRCfr52s/The.Monkey.King.3.Kingdom.of.Women.2018.CHINESE.1080p.WEBRip.AAC2.0.x264-HQC.mkv.mp4
+#https://openload.co/f/YKnct2h2Nxk/The.Monkey.King.3.Kingdom.of.Women.2018.HD1080P.X264.AAC.Mandarin.CHS-ENG.MF.mp4
+#https://openload.co/f/6bxFcCnr7qE/The_Monkey_King_3_2018_HDTC_EngSub_Layar.mp4
+#https://openload.co/f/YtZ2o5-0f0Q/The_Monkey_King_3_HDCAM.mp4
+#https://openload.co/f/gI8dWLIQTuk/The_Monkey_King_3_%282018%29_Cam.mp4
+type=video
+name=The Monkey King 3 (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQw0pTWeplDn1TmiN4MjIxvyCR0.jpg
+date=2018-10-26
+URL=https://openload.co/f/wYiF3nf-Wdw/The_Monkey_King_3_%282018%29%E0%B9%84%E0%B8%8B%E0%B8%AD%E0%B8%B4%E0%B9%8B%E0%B8%A7_3_%E0%B8%95%E0%B8%AD%E0%B8%99_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B9%88%E0%B8%B2%E0%B8%A2.mp4
+#https://streamango.com/f/tstcsnsskldaccnm/The_Monkey_King_3_2018_3_
+#https://streamango.com/f/ndskdkornckbqper/The_Monkey_King_3_2018_
+
+
+type=video
+name=The Cured (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u56EI8gpAvvm4NE5dqdBeP7cD6d.jpg
+date=2018-05-30
+URL=https://openload.co/f/cZIiT2guD6w/The.Cured.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/H2WgX-KAREc/The.Cured.2017.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+type=video
+name=The Cured (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u56EI8gpAvvm4NE5dqdBeP7cD6d.jpg
+date=2018-10-26
+URL=https://openload.co/f/3lelV8e3dt4/The_Cured_%282018%29%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B8%9A%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87.mp4
+#https://streamango.com/f/aecberatadpcfkqe/The_Cured_2018_
+
+
+type=video
+name=Peace Breaker (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Uje4tPPipTK58x2hNkJobnSHL.jpg
+date=2018-03-27
+URL=https://www.blazefile.co/embed-kz8il6wvc7kd.html
+#https://uptobox.com/ugp1v7p61493
+#https://www.blazefile.co/embed-fqklq01idkff.html   720
+#https://uptobox.com/uemx3gfcye9d   720
+#https://openload.co/f/lEe0zST-g6w/Peace.Breaker.2017.CHINESE.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
+type=video
+name=Peace Breaker (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Uje4tPPipTK58x2hNkJobnSHL.jpg
+date=2018-10-26
+URL=https://openload.co/f/gopsR_qfzxM/Peace_Breaker_%282017%29%E0%B8%AB%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B9%82%E0%B8%AB%E0%B8%94%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3.mp4
+
+
+type=video
+name=Doraemon the Movie 2017: Nobita's Great Adventure in the Antarctic Kachi Kochi (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUvhVQ6wyO7qssQSJ1CiM93Di7P.jpg
+date=2018-10-26
+URL=https://openload.co/f/hjG6DQu9B10/Doraemon_the_Movie_2017%3A_Nobita%27s_Great_Adventure_in_the_Antarctic_Kachi_Kochi_%282017%29%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%99_%E0%B8%95%E0%B8%AD%E0%B8%99_%E0%B8%84%E0%B8%B2%E0%B8%8A%E0%B8%B4-%E0%B9%82%E0%B8%84%E0%B8%8A%E0%B8%B4_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%A7%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%99%E0%B8%9A%E0%B8%B4%E0%B8%95%E0%B8%B0.mp4
+#https://streamango.com/f/snbfltkcqdpqnfcf/Doraemon_the_Movie_2017_Nobita_s_Great_Adventure_in_the_Antarctic_Kachi_Kochi_2017_-_
 
 
 type=video

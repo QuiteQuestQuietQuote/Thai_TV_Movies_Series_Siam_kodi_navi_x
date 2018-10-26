@@ -60,6 +60,128 @@ URL=
 
 
 
+type=video
+name=54xxxxxxxxxxxxxxxxxxxxBalamnan Anaedeul (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Balamnan-Anaedeul-2018.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/nkefcrsomltnnfqd/
+
+type=video
+name=Sachonnunadeul (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Sachonnunadeul-2018-Uncut.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/sfofbenskloflnsl/
+
+type=video
+name=Can I Fuck Dirty Beautician (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Can-I-Fuck-Dirty-Beautician-2017.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/qssctbdbnprsakqa/
+
+type=video
+name=Too Sexy Girlfriend’s Mother (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Too-Sexy-Girlfriends-Mother-2017.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/oqkqdnslmorenank/
+
+type=video
+name=Eolin Saeeomma (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Eolin-Saeeomma-2018-Uncut.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/capbrfllkcobbcpb/
+
+
+type=video
+name=Gajeongbu Mas Issneun Seobiseu (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Gajeongbu-Mas-Issneun-Seobiseu-2018.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/nsetmoqbkdoofdmc/
+
+type=video
+name=Gaeingyosu Seongjeog Olligi (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Gaeingyosu-Seongjeog-Olligi-2018.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/drnenfrmsekqebca/
+
+type=video
+name=Iusjib Anae (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Iusjib-Anae-2018.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/oroqfqebbcmldfcn/
+
+type=video
+name=Boyne’s Old Milf Grand Banquet! (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Boynes-Old-Milf-Grand-Banquet-2017.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/qrdnptrqnpsmtspl/
+
+type=video
+name=I will tie up the secret of a female teacher (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/I-will-tie-up-the-secret-of-a-female-teacher-2017.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/copkdnmblreondac/
+
+
+type=video
+name=The secret to the esthetic salon (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/The-secret-to-the-esthetic-salon-2017.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/pqcrcdrattfdencs/
+
+type=video
+name=Chaghan Eomma 2 (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Chaghan-Eomma-2-2018.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/tednoppqrsstrcqr/
+
+type=video
+name=Chingu Eommadeul (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Chingu-Eommadeul-2018.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/nfnsendrotpbmotm/
+
+type=video
+name=Jeolm Eun Cheojedeul (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Jeolm-Eun-Cheojedeul-2018.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/topbakskmtmndosb/
+
+type=video
+name=Female Flashers of Hospital Nurse (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Female-Flashers-of-Hospital-Nurse-2017.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/fptpkcpfpmfsrobq/
+
+
+type=video
+name=Nae Adeul Ui Yeojadeul (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Nae-Adeul-Ui-Yeojadeul-2018-Uncut.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/fokaarcfnonsktcd/
+
+type=video
+name=Aanata, Gomennasai 4 (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Aanata-Gomennasai-4-2016.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/aokpcsfbrocrmdlm/
+
+type=video
+name=Ong Gigol Ppongnyeo (1987)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Ong-Gigol-Ppongnyeo-1987.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/rslfqeettklbmpna/
+
+type=video
+name=Omadam Ui Oechul (1983)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Omadam-Ui-Oechul-1983.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/srsqssdboapdfara/
+
+type=video
+name=Hong Do (1992)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Hong-Do-1992.jpg
+date=2018-10-26
+URL=https://streamcherry.com/embed/dqdnlssbmeqtbpal/
 
 
 
