@@ -7144,10 +7144,11 @@ URL=https://openload.co/f/6aVEUo3AkIQ/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%
 
 
 type=video
-name=A.X.L. (2018) ENG 720p.NF.WEB-DL.DD5.1.H264-CMRG_SeeHD
+name=A.X.L. (2018) ENG 1080p.NF.WEB-DL.DD5.1.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg
-date=2018-10-26
-URL=https://openload.co/f/Fz_xPEw8Wm0/A-X-L.2018.720p.NF.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+date=2018-10-27
+URL=https://openload.co/f/PmYk_fesKMw/A-X-L.2018.1080p.NF.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/Fz_xPEw8Wm0/A-X-L.2018.720p.NF.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 #https://openload.co/f/vHlB1P-_1tU/A.X.L1080pHDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/Kj439guATEg/AXL.2018.HDCAM.XviD-AVID.avi.mp4
 #https://openload.co/f/IdRiWQZUTME/A.X.L.2018.RUS.HDCAM.HC.ENG.SUB-NO.WATERMARK.mp4
@@ -9630,31 +9631,6 @@ date=2018-10-08
 URL=https://openload.co/f/l3SNZ1BYN0I/Europe_Raiders_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B3%E0%B8%AD%E0%B8%B2%E0%B8%87_%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B9%80%E0%B8%97%E0%B8%81%E0%B8%A2%E0%B8%B8%E0%B9%82%E0%B8%A3%E0%B8%9B_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
-type=video
-name=The Darkest Minds (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg
-date=2018-10-19
-URL=https://uptobox.com/9o7jep75wjwk
-#https://www.rapidvideo.com/e/FWDGNIHB1D
-#https://openload.co/embed/XDZojI0gfcs/GHPTHEDARKKESMINDS80.Ganol.st.mkv
-#https://openload.co/f/H9XqPwRkqns/The.Darkest.Minds.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/XYK_rUmAkuQ/The_Darkest_Minds_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
-#https://uptobox.com/abom9wbmj1zu   720
-#https://www.rapidvideo.com/e/FWCYXVTI46   720
-#https://openload.co/embed/L3N8NpvyRrY/SHQTHEDARKESTMINDSBD72.Ganol.st.mkv
-#https://openload.co/f/OmwihPje-U4/The_Darkest_Minds_%282018%29720p_BluRay_x264-GECKOS.Ganool.mkv.mp4
-#https://openload.co/f/tmnjNLIY9_0/The.Darkest.Minds.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/YyE3DKncETM/Darkest.Minds.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/RGwPLK5iiNI/The.Darkest.Minds.2018.720p.WEBRip.mkv.mp4
-#https://openload.co/f/8JBLH1I3I5w/The_Darkest_Minds_2018_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/77_TOO9MDnA/The.Darkest.Minds.2018.HDCAM-NO.WATERMARK.mp4
-#https://openload.co/f/nam9pW6U36A/The_Darkest_Minds_2018_HDCAM-1XBET.mp4
-type=video
-name=The Darkest Minds (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg
-date=2018-10-08
-URL=https://openload.co/f/rD7yIbd-slc/The_Darkest_Minds_%282018%29%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AA%E0%B8%97%E0%B9%8C_%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B9%8C%E0%B8%AA_%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://streamango.com/f/cdckomebmtmsrmdq/The_Darkest_Minds_2018_
 
 
 
@@ -10278,6 +10254,47 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=The Darkest Minds (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg
+date=2018-10-19
+URL=https://uptobox.com/9o7jep75wjwk
+#https://www.rapidvideo.com/e/FWDGNIHB1D
+#https://openload.co/embed/XDZojI0gfcs/GHPTHEDARKKESMINDS80.Ganol.st.mkv
+#https://openload.co/f/H9XqPwRkqns/The.Darkest.Minds.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/XYK_rUmAkuQ/The_Darkest_Minds_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+#https://uptobox.com/abom9wbmj1zu   720
+#https://www.rapidvideo.com/e/FWCYXVTI46   720
+#https://openload.co/embed/L3N8NpvyRrY/SHQTHEDARKESTMINDSBD72.Ganol.st.mkv
+#https://openload.co/f/OmwihPje-U4/The_Darkest_Minds_%282018%29720p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+#https://openload.co/f/tmnjNLIY9_0/The.Darkest.Minds.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/YyE3DKncETM/Darkest.Minds.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/RGwPLK5iiNI/The.Darkest.Minds.2018.720p.WEBRip.mkv.mp4
+#https://openload.co/f/8JBLH1I3I5w/The_Darkest_Minds_2018_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/77_TOO9MDnA/The.Darkest.Minds.2018.HDCAM-NO.WATERMARK.mp4
+#https://openload.co/f/nam9pW6U36A/The_Darkest_Minds_2018_HDCAM-1XBET.mp4
+type=video
+name=The Darkest Minds (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/94RaS52zmsqaiAe1TG20pdbJCZr.jpg
+date=2018-10-27
+URL=https://openload.co/f/UNTT6EbuTCc/The_Darkest_Minds_%282018%29%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC.mp4
+#https://openload.co/f/rD7yIbd-slc/The_Darkest_Minds_%282018%29%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AA%E0%B8%97%E0%B9%8C_%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B9%8C%E0%B8%AA_%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/cdckomebmtmsrmdq/The_Darkest_Minds_2018_
 
 
 type=video
