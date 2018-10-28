@@ -1197,13 +1197,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjQ1PlIy28PgMz9Vrra1X61kHU
 date=2017-08-25
 URL=https://openload.co/f/hEe55YrjiTM/DN.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=Deep (2017) ENG dvdrip.x264.fragment
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/14mEMC6rRNedvaz1d5sfLX8uRGt.jpg
-date=2017-12-20
-URL=https://openload.co/f/smkyhOXIZKc/deep.2017.dvdrip.x264.fragment.mkv.mp4
-#https://openload.co/f/-qn2CAAEOWY/Deep.2017.WEBRip.x264-RARBG.mp4
-#https://openload.co/f/_s_f41ayWNo/Deep.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Unleashed (2017) ENG 1080p.WEB-DL.DD5.1.H.264.CRO-DIAMOND
@@ -1333,13 +1327,35 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-26
+date=2018-10-28
 URL=
 
 
 
 
 
+type=video
+name=Tempus Tormentum (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZbJ7bDmcKr8GzqoKI00awhjqyH.jpg
+date=2018-10-28
+URL=https://openload.co/f/CqzK5LBnbZU/Tempus.Tormentum.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=Wolf Mother (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/htoD1BJC9dcC9E43K0f4ZJ0M0sT.jpg
+date=2018-10-28
+URL=https://openload.co/f/hp33EBxqvz8/Wolf.Mother.2016.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://uptobox.com/hq8mu5ij1t9d
+#https://www.rapidvideo.com/e/FWKQQAF853
+#https://openload.co/embed/QO3JT8EFGnw/WOLFMOTHERBD72.Ganol.st.mkv
+#https://openload.co/f/cgbxn-9nW50/Wolf_Mother_%282016%29720p_BluRay_x264-RUSTED.Ganool.mkv.mp4
+#https://openload.co/f/9FjyQeOnc4Q/Wolf.Mother.2016.1080p.WEBRip.x264-iNTENSO.mkv.mp4
+
+type=video
+name=Edie (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oDyvCIkf1C6aQ7yAug5kkT0q01.jpg
+date=2018-10-28
+URL=https://openload.co/f/GEjTNxc6kXs/Edie.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Unknown Soldier (2017) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
@@ -1366,6 +1382,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR5w0he6czZkcAz459a4iPBqXG
 date=2018-10-26
 URL=https://openload.co/f/qH7nPQD2lMI/Christopher.Robin.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/pYEwXUf1li4/Christopher_Robin_2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/5QVylv0xahs/Christopher.Robin.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/OZ-wRl6Zbjw/Christopher.Robin.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/6pjcCQel_S4/Christopher.Robin.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://openload.co/f/bTipjRNrvP8/Christopher_Robin_2018_720p_HDCAM-1xBET_SeeHD.mp4
@@ -6413,14 +6430,7 @@ URL=https://uptobox.com/zldtrh3pfial
 
 
 
-type=video
-name=Radius (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BHYW2Wlcu9ES41Y4OTeSgkhYkD.jpg
-date=2018-07-27
-URL=https://uptobox.com/bipbt5r5dd4w
-#https://www.rapidvideo.com/e/FTOSA9RQNV
-#https://openload.co/embed/_cOe7E7rgkU/RADIUBD72.Ganol.ru.mkv
-#https://openload.co/f/tciv_MfKb90/Radius.2017.720p.BluRay.x264-PFa.mkv.mp4
+
 
 type=video
 name=Lucky (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -6855,15 +6865,7 @@ URL=https://uptobox.com/1ptj2jdkww7a
 #https://openload.co/embed/gHvZ0XoGsZo/WARNINGSHOTBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/Ruq9xPRo684/Warning_Shot_%282018%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
 
-type=video
-name=Wolf Mother (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/htoD1BJC9dcC9E43K0f4ZJ0M0sT.jpg
-date=2018-10-25
-URL=https://uptobox.com/hq8mu5ij1t9d
-#https://www.rapidvideo.com/e/FWKQQAF853
-#https://openload.co/embed/QO3JT8EFGnw/WOLFMOTHERBD72.Ganol.st.mkv
-#https://openload.co/f/cgbxn-9nW50/Wolf_Mother_%282016%29720p_BluRay_x264-RUSTED.Ganool.mkv.mp4
-#https://openload.co/f/9FjyQeOnc4Q/Wolf.Mother.2016.1080p.WEBRip.x264-iNTENSO.mkv.mp4
+
 
 
 
@@ -6873,6 +6875,74 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRrS6rOxJ5dSfCWkLvR4c5qwxc
 date=2018-10-26
 URL=https://openload.co/f/iypG4u4aDmc/Benched.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
+type=video
+name=Deep (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/14mEMC6rRNedvaz1d5sfLX8uRGt.jpg
+date=2018-10-28
+URL=https://uptobox.com/rl9z0lbiggzc
+#https://openload.co/embed/YwMiito2-kA/DEEPBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/LQ8SU4DErWg/Deep_%282017%29720p_BluRay_x264-RUSTED.Ganool.mkv.mp4
+#https://openload.co/f/smkyhOXIZKc/deep.2017.dvdrip.x264.fragment.mkv.mp4
+#https://openload.co/f/-qn2CAAEOWY/Deep.2017.WEBRip.x264-RARBG.mp4
+#https://openload.co/f/_s_f41ayWNo/Deep.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Sollers Point (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xrcXJDA2v4nAiKIHW2iEfukdve.jpg
+date=2018-10-28
+URL=https://uptobox.com/uy7nxl71x2ek
+#https://www.rapidvideo.com/e/FWO8946GJ8
+#https://openload.co/f/P1f_vrq2L5w/Sollers_Point_%282017%29720p_BluRay_x264-PSYCHD.Ganool.mkv.mp4
+
+type=video
+name=Charming (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yayzDar0dL3AvNoP1vPDFtinNYc.jpg
+date=2018-10-28
+URL=https://uptobox.com/ie9j2416pi6o
+#https://openload.co/f/uNSaKubDuqw/Charming.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/rMJcnawhQZc/Charming_%282018%29.720p_BluRay_x264-GETiT.Ganool.mkv.mp4
+
+type=video
+name=Our House (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1Qt0HtO4ZYY2qcgM42XUd8xgtA.jpg
+date=2018-10-28
+URL=https://uptobox.com/i8kfkc1o0iz8
+#https://openload.co/embed/_ZTdu2wxgXQ/OURHOUSEBD72.Ganol.st.mkv
+#https://openload.co/f/d0I5vQP3rJ4/Our_House_%282018%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
+
+type=video
+name=The Scorpion King: Book of Souls (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSviUMejPmerwoQxdj7wR4Ky1Fd.jpg
+date=2018-10-28
+URL=https://uptobox.com/9c2oo11v7eq7
+#https://openload.co/embed/PrzhxaPzdXI/THESCORPIONKINGBOOKBD72.Ganol.st.mkv
+#https://openload.co/f/I9SJLoEMJlg/The_Scorpion_King%3A_Book_of_Souls_%282018%29720p_BluRay_x264-NODLABS.Ganool.mkv.mp4
+
+type=video
+name=An Evening with Beverly Luff Linn (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3IdKhGBBSwq8aAPPhKee4NDNWi.jpg
+date=2018-10-28
+URL=https://openload.co/f/CJ_pcR0v7gs/An_Evening_with_Beverly_Luff_Linn.2018.720p.BRRip.X264.AC3-EVO.mkv.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -6881,7 +6951,7 @@ URL=https://openload.co/f/iypG4u4aDmc/Benched.2018.720p.BluRay.H264.AAC-RARBG.mp
 type=video
 name=
 thumb=
-date=2018-10-26
+date=2018-10-28
 URL=
 
 type=video
@@ -7032,10 +7102,13 @@ URL=https://openload.co/f/o7Lz3ohcezc/Johnny_English_Strikes_Again_%282018%29%E0
 
 
 type=video
-name=Luis and the Aliens (2018) ENG HDRip.XviD.AC3-EVO_SeeHD
+name=Luis and the Aliens (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oq7s5ru4hjp83mi4fWSJ0L7yUA.jpg
-date=2018-10-08
-URL=https://openload.co/f/7ltlNdNVdjA/Luis_and_His_Friends_from_Outer_Space.2018.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+date=2018-10-28
+URL=https://uptobox.com/kdgue6nab7ur
+#https://openload.co/embed/5rOV8XdMl64/LUISANDTHEALINESBD72.Ganol.st.mkv
+#https://openload.co/f/S6CQRWvKfF4/Luis_%26_the_Aliens_%282018%29720p_BluRay_x264-SNOW.Ganool.mkv.mp4
+#https://openload.co/f/7ltlNdNVdjA/Luis_and_His_Friends_from_Outer_Space.2018.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 type=video
 name=Luis and the Aliens (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oq7s5ru4hjp83mi4fWSJ0L7yUA.jpg
@@ -7055,25 +7128,7 @@ date=2018-10-08
 URL=https://openload.co/f/NzNS1jlT1t4/Hell_Fest_%282018%29%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=Alpha (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
-date=2018-10-26
-URL=https://openload.co/f/YBg5krE5b3Y/Alpha.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/xs6o0XjLu2U/Alpha.2018.720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/unLIJ-Z7HiM/Alpha.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/Qiqs4I-DyCs/Alpha.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv   MKV3.3GB
-#https://openload.co/f/H0Al6Q6dUo0/Alpha.2018.720pHD_SeeHD.mkv   MKV3.0GB
-#https://openload.co/f/dVjiLJIbNOU/Alpha.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv   MKV3.0GB
-#https://openload.co/f/WmQZlIG_tHk/Alpha_2018_NEW_720p_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/0kwFGuTf9LY/Alpha_2018_NEW_720p_HDCAM_ENG_SUB-24HD_SeeHD.mp4
-#https://openload.co/f/E-KpG1hlEXY/Alpha_2018_NOLOGO_CAM-1XBET.mp4
-#https://openload.co/f/TDsbq--aNhA/Alpha_2018_CAM_x264-1XBET.mp4
-type=video
-name=Alpha (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
-date=2018-09-21
-URL=https://openload.co/f/VGbz3dsmCxQ/Alpha_%282018%29%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_20%2C000_%E0%B8%9B%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
@@ -7331,6 +7386,23 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=Radius (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BHYW2Wlcu9ES41Y4OTeSgkhYkD.jpg
+date=2018-07-27
+URL=https://uptobox.com/bipbt5r5dd4w
+#https://www.rapidvideo.com/e/FTOSA9RQNV
+#https://openload.co/embed/_cOe7E7rgkU/RADIUBD72.Ganol.ru.mkv
+#https://openload.co/f/tciv_MfKb90/Radius.2017.720p.BluRay.x264-PFa.mkv.mp4
+type=video
+name=Radius (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BHYW2Wlcu9ES41Y4OTeSgkhYkD.jpg
+date=2018-10-28
+URL=https://openload.co/f/xEBSYA1wsGI/Radius_%282017%29%E0%B8%A3%E0%B8%B1%E0%B8%A8%E0%B8%A1%E0%B8%B5%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -9561,6 +9633,29 @@ URL=
 
 
 
+
+type=video
+name=Alpha (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
+date=2018-10-26
+URL=https://openload.co/f/YBg5krE5b3Y/Alpha.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/xs6o0XjLu2U/Alpha.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/unLIJ-Z7HiM/Alpha.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/Qiqs4I-DyCs/Alpha.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv   MKV3.3GB
+#https://openload.co/f/H0Al6Q6dUo0/Alpha.2018.720pHD_SeeHD.mkv   MKV3.0GB
+#https://openload.co/f/dVjiLJIbNOU/Alpha.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv   MKV3.0GB
+#https://openload.co/f/WmQZlIG_tHk/Alpha_2018_NEW_720p_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/0kwFGuTf9LY/Alpha_2018_NEW_720p_HDCAM_ENG_SUB-24HD_SeeHD.mp4
+#https://openload.co/f/E-KpG1hlEXY/Alpha_2018_NOLOGO_CAM-1XBET.mp4
+#https://openload.co/f/TDsbq--aNhA/Alpha_2018_CAM_x264-1XBET.mp4
+type=video
+name=Alpha (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
+date=2018-10-28
+URL=https://openload.co/f/SDY3S92DgtE/Alpha_%282018%29%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_20%2C000_%E0%B8%9B%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/VGbz3dsmCxQ/Alpha_%282018%29%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_20%2C000_%E0%B8%9B%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
 type=video
 name=Mile 22 (2018) ENG 1080p.HDRip
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
@@ -10844,7 +10939,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-15
+date=2018-10-28
 URL=
 
 
@@ -10852,6 +10947,49 @@ URL=
 
 
 
+
+
+
+
+
+
+type=video
+name=The Demons (1973) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrxMWQBHx6At6CNz0vhJSVVnkkT.jpg
+date=2018-10-28
+URL=https://openload.co/f/mrGJyuKEiv0/The.Demons.1973.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=Jennifer's Body (2009) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdNlGoHmz77XQlBB21tL8qtxFHq.jpg
+date=2018-10-28
+URL=https://openload.co/f/fi75hB3qRr0/Jennifers.Body.2009.EXTENDED.1080p.BR.mp4
+
+type=video
+name=Papillon (1973) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1tmTQvEWbJgf8eccX1XWXxWKkK.jpg
+date=2018-10-28
+URL=https://openload.co/f/hGJc5L1Op_0/Papillon.1973.1080p.BluRay.x265.LION.mkv.mp4
+
+type=video
+name=The Matrix Reloaded (2003) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezIurBz2fdUc68d98Fp9dRf5ihv.jpg
+date=2018-10-28
+URL=https://openload.co/f/QbnyiedZnCE/The.Matrix.Reloaded.2003.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/gYauUesCeKE/The.Matrix.Reloaded.2003.REMASTERED.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Matrix Revolutions (2003) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKogjhfs5q3azmpW7DFKKAeLEG8.jpg
+date=2018-10-28
+URL=https://openload.co/f/Fm1HkcrMQ44/The.Matrix.Revolutions.2003.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/l2lVbcKzWX4/The.Matrix.Revolutions.2003.REMASTERED.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Halloween (1978) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjoOFOTBJcJvA1weJejlZ92LZD4.jpg
+date=2018-10-28
+URL=https://openload.co/f/Q8tPJ8JJipM/Halloween.1978.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Goosebumps (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]

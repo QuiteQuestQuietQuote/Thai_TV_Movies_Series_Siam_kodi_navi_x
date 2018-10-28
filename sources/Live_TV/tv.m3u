@@ -1008,8 +1008,11 @@ http://dlhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
 http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
 #EXTINF:-1,Movies_Chinese_
 http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8
+#EXTINF:-1,HBO
+http://80.87.208.158:80/dna-151-tv-pc.m3u8
 #EXTINF:-1,HBO2
-http://linkbaru.com/iptv/008.m3u8 
+http://80.87.208.158:80/dna-576-tv-pc.m3u8
+
 
 #EXTINF:-1,movie24
 rtmp://tv01.thaizatv.com/drm/movie1
