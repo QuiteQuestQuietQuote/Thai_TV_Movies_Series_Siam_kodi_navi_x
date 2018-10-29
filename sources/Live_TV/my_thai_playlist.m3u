@@ -2549,8 +2549,6 @@ http://31.41.20.14:4005
 http://31.41.20.14:4051 
 #EXTINF:-1,erotic3
 http://176.67.202.21:6201/erotic3
-#EXTINF:-1,Playboy_play
-http://213.59.128.162:9996/play/Playboy/index.m3u8
 
 #EXTINF:-1,Ibiza TV4_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream4/playlist.m3u8
@@ -2594,6 +2592,8 @@ http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/63.m3u8
 http://51.15.49.176:8081/ygYW03AENuY8xa/redlight.m3u8
 #EXTINF:-1,LEO TV
 http://78.141.113.63:8001/1:0:16:3725:C8E:3:EB0000:0:0:0:
+#EXTINF:-1,Bunga Bunga 
+http://5.135.92.138:58143/out/i/109_1.m3u8
 
 
 #EXTINF:-1,XXX_a00l
@@ -2632,6 +2632,8 @@ http://213.59.128.162:9996/play/Passion_XXX/index.m3u8
 http://213.59.128.162:9996/play/O-la-la/index.m3u8
 #EXTINF:-1,Brazzers_TV
 http://213.59.128.162:9996/play/Brazzers_TV/index.m3u8
+#EXTINF:-1,Playboy_play
+http://213.59.128.162:9996/play/Playboy/index.m3u8
 
 
 #EXTINF:-1,ERO_X
@@ -3110,7 +3112,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u
 #EXTINF:-1 group-title="movies" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg",Pluto TV Movies 2
 http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 group-title="movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1570px-Showtime.svg.png",Showtime
-http://80.80.160.168/live/7/live.m3u8
+http://80.80.160.168/live/7/2500000/live.m3u8
 #EXTINF:-1 group-title="movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png",Sony Movie Channel
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 #EXTINF:-1,Movies_Chinese_
@@ -3230,9 +3232,10 @@ http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DiscoveryScience/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
-https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
 
+
+#EXTINF:0,DiscoveryWorld 
+http://190.2.130.6:8080/DiscoveryWorld/index.m3u8 
 #EXTINF:-1,cnex
 http://61.58.60.230:9000/live/257.m3u8
 #EXTINF:-1,opensky_CHN
@@ -3251,6 +3254,8 @@ http://103.7.57.17:1935/live1/H2HDrut.stream/chunklist_w1690635951_tkd293emF0b2t
 http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE_bear-tv
 http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8
+#EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
+https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
 
 
 #EXTINF:-1,PhoneCam
@@ -3263,8 +3268,6 @@ http://persik.by/stream/1418/252987/10003.m3u8
 http://persik.by/stream/8460/291680/10003.m3u8
 #EXTINF:-1,ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1,Playboy_play
-http://213.59.128.162:9996/play/Playboy/index.m3u8
 #EXTINF:0, Jasmin Tv 
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
@@ -3292,7 +3295,6 @@ http://alhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
 http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 
 
-
 #EXTINF:-1,Documentary_CHN
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://www.cgtn.com/public/bundle/images/event/live_DO.png",CGTN Documentary
@@ -3317,8 +3319,6 @@ http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
-#EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV_youtube
-https://www.youtube.com/watch?v=m5Nst2zMZVY&ab_channel=DWEnglish
 
 
 

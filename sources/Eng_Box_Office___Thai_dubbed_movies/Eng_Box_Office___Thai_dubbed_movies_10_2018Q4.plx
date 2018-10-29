@@ -76,14 +76,19 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-26
+date=2018-10-29
 URL=
 
 
 
 
 
-
+type=video
+name=Hunter Killer (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
+date=2018-10-29
+URL=https://openload.co/f/WH4Ch_m3VuA/Hunter_Killer_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/tyPWaIr0L6I/Hunter_Killer_%282018%29HDCAM_XViD_AC3-ETRG.Ganool.mkv.mp4
 
 type=video
 name=King of Thieves (2018) ENG 720p_TS-1XBET_SeeHD
@@ -117,10 +122,11 @@ URL=https://openload.co/f/qKS6GcI4-xk/Goosebumps_2_Haunted_Halloween_2018_NEW_72
 
 
 type=video
-name=Bad Times at the El Royale (2018) ENG 720p_HDCAM-1XBET_SeeHD
+name=Bad Times at the El Royale (2018) ENG 720p.HDCAM.V2.1XBET
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg
-date=2018-10-13
-URL=https://openload.co/f/nLYd3wx0TdA/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET_SeeHD.mp4
+date=2018-10-29
+URL=https://openload.co/f/bMb92lrgQ9M/Bad.Times.at.the.El.Royale.2018.720p.HDCAM.V2.1XBET.mp4
+#https://openload.co/f/nLYd3wx0TdA/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/tkfG_HP1Geg/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET.mp4
 #https://openload.co/f/fhhlvQypFAQ/Bad.Times.at.the.El.Royale.2018.HDCAM.XviD-AVID.avi.mp4
 
@@ -238,13 +244,7 @@ URL=https://openload.co/f/ix3TYEcLll4/Blindspotting.2018.1080p.WEB-DL.READ.INFO.
 #https://openload.co/f/FoA3E5P600A/Blindspotting.2018.720p.HDCAM.X264.24HD_SeeHD.mp4
 #https://openload.co/f/azKIM3efkXo/Blindspotting.2018.HDCAM.XviD-AVID.avi.mp4
 
-type=video
-name=Teen Titans Go! To the Movies (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiEuNw3Lg0PIPNUQ3PIWWElwGcY.jpg
-date=2018-10-10
-URL=https://openload.co/f/owzkqG6yDQc/Teen.Titans.Go.To.the.Movies.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/R3z_dvaWqUA/Teen_Titans_Go_To_the_Movie_2018_720p_TS-1XBET_SeeHD.mp4
-#https://openload.co/f/zgQ-t1LrA8w/Teen.Titans.Go.To.the.Movie.2018.720p.TS-1XBET.mp4   2.4GB
+
 
 
 
@@ -1327,12 +1327,58 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-28
+date=2018-10-29
 URL=
 
 
 
 
+
+
+
+
+
+type=video
+name=The Gateway (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Gp2lj5jnP08Sie6j0gNL3zfiSE.jpg
+date=2018-10-29
+URL=https://openload.co/f/QJToKKKfYds/The.Gateway.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=The Devil's Doorway (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXZsv8e9Q5mdYjsdNjch8cZzcUs.jpg
+date=2018-10-29
+URL=https://openload.co/f/hwGX6ghWAYk/The.Devil%27s.Doorway.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=Our House (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1Qt0HtO4ZYY2qcgM42XUd8xgtA.jpg
+date=2018-10-29
+URL=https://openload.co/f/XNPHsgrvCq4/Our.House.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://uptobox.com/i8kfkc1o0iz8   720
+#https://openload.co/embed/_ZTdu2wxgXQ/OURHOUSEBD72.Ganol.st.mkv
+#https://openload.co/f/d0I5vQP3rJ4/Our_House_%282018%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
+
+type=video
+name=Teen Titans Go! To the Movies (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiEuNw3Lg0PIPNUQ3PIWWElwGcY.jpg
+date=2018-10-29
+URL=https://openload.co/f/kuxxilUJ1es/Teen.Titans.Go.To.the.Movies.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/wbtosjJudQc/Teen.Titans.Go.To.the.Movies.2018.720p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/owzkqG6yDQc/Teen.Titans.Go.To.the.Movies.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/R3z_dvaWqUA/Teen_Titans_Go_To_the_Movie_2018_720p_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/zgQ-t1LrA8w/Teen.Titans.Go.To.the.Movie.2018.720p.TS-1XBET.mp4   2.4GB
+
+type=video
+name=An Evening with Beverly Luff Linn (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3IdKhGBBSwq8aAPPhKee4NDNWi.jpg
+date=2018-10-29
+URL=https://openload.co/f/wDpMMiRhM9Y/An.Evening.With.Beverly.Luff.Linn.2018.1080p.BluRay.x264-EiDER.mkv.mp4
+#https://openload.co/f/unko51qu6s8/An_Evening_with_Beverly_Luff_Linn_%282018%29720p_BluRay_x264-EiDER.Ganool.mkv.mp4
+#https://openload.co/f/CJ_pcR0v7gs/An_Evening_with_Beverly_Luff_Linn.2018.720p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://uptobox.com/v86wf0gubu4b   720
+#https://www.rapidvideo.com/e/FWPCALBA1N   720
+#https://openload.co/embed/m5v2De1FvC0/ANEVENINGWITHBEVERLYLUFFLINNBD72.Ganol.st.mkv
 
 type=video
 name=Tempus Tormentum (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1356,6 +1402,7 @@ name=Edie (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oDyvCIkf1C6aQ7yAug5kkT0q01.jpg
 date=2018-10-28
 URL=https://openload.co/f/GEjTNxc6kXs/Edie.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/scfqCSN32Ik/Edie.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=The Unknown Soldier (2017) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
@@ -6778,14 +6825,6 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzCkOIvxgVTsE9EbRW9mojN4MY
 date=2018-10-02
 URL=https://openload.co/f/i3g3GQbE56o/Dogman_2018_EngSub_720p_BluRay.mp4
 
-type=video
-name=Death Race 4: Beyond Anarchy (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PrlKvPUbDQAqFQBCyyt68hLLl.jpg
-date=2018-10-03
-URL=https://uptobox.com/hhnf0p4vcz2b
-#https://www.rapidvideo.com/e/FVV0RGD3NI
-#https://openload.co/embed/3_wAFw-tMUQ/DEATHRACE4ANACHYBD72.Ganol.st.mkv
-#https://openload.co/f/yxUYmOiyKXA/Death_Race_4%3A_Beyond_Anarchy_%282018%29720p_BluRay_x264-NODLABS.Ganool.mkv.mp4
 
 
 
@@ -6902,13 +6941,7 @@ URL=https://uptobox.com/ie9j2416pi6o
 #https://openload.co/f/uNSaKubDuqw/Charming.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/rMJcnawhQZc/Charming_%282018%29.720p_BluRay_x264-GETiT.Ganool.mkv.mp4
 
-type=video
-name=Our House (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1Qt0HtO4ZYY2qcgM42XUd8xgtA.jpg
-date=2018-10-28
-URL=https://uptobox.com/i8kfkc1o0iz8
-#https://openload.co/embed/_ZTdu2wxgXQ/OURHOUSEBD72.Ganol.st.mkv
-#https://openload.co/f/d0I5vQP3rJ4/Our_House_%282018%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
+
 
 type=video
 name=The Scorpion King: Book of Souls (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -6918,13 +6951,16 @@ URL=https://uptobox.com/9c2oo11v7eq7
 #https://openload.co/embed/PrzhxaPzdXI/THESCORPIONKINGBOOKBD72.Ganol.st.mkv
 #https://openload.co/f/I9SJLoEMJlg/The_Scorpion_King%3A_Book_of_Souls_%282018%29720p_BluRay_x264-NODLABS.Ganool.mkv.mp4
 
+
+
 type=video
-name=An Evening with Beverly Luff Linn (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3IdKhGBBSwq8aAPPhKee4NDNWi.jpg
-date=2018-10-28
-URL=https://openload.co/f/CJ_pcR0v7gs/An_Evening_with_Beverly_Luff_Linn.2018.720p.BRRip.X264.AC3-EVO.mkv.mp4
-
-
+name=The Last Witness (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4d6UHuQ2gpsaN38pMSZ42Fj6hi.jpg
+date=2018-10-29
+URL=https://uptobox.com/t33i7y03amtg
+#https://www.rapidvideo.com/e/FWPC9C6YI4
+#https://openload.co/embed/1JbaoLnDxCo/THELASTWITNESSBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/fallHRZIjaM/The_Last_Witness_%282018%29720p_BluRay_DTS_x264-HDS.Ganool.mkv.mp4
 
 
 
@@ -6951,7 +6987,7 @@ URL=https://openload.co/f/CJ_pcR0v7gs/An_Evening_with_Beverly_Luff_Linn.2018.720
 type=video
 name=
 thumb=
-date=2018-10-28
+date=2018-10-29
 URL=
 
 type=video
@@ -7388,6 +7424,22 @@ URL=
 
 
 
+
+
+
+type=video
+name=Death Race 4: Beyond Anarchy (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PrlKvPUbDQAqFQBCyyt68hLLl.jpg
+date=2018-10-03
+URL=https://uptobox.com/hhnf0p4vcz2b
+#https://www.rapidvideo.com/e/FVV0RGD3NI
+#https://openload.co/embed/3_wAFw-tMUQ/DEATHRACE4ANACHYBD72.Ganol.st.mkv
+#https://openload.co/f/yxUYmOiyKXA/Death_Race_4%3A_Beyond_Anarchy_%282018%29720p_BluRay_x264-NODLABS.Ganool.mkv.mp4
+type=video
+name=Death Race 4: Beyond Anarchy (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PrlKvPUbDQAqFQBCyyt68hLLl.jpg
+date=2018-10-29
+URL=https://openload.co/f/2wuuVkN6eUM/Death_Race_4%3A_Beyond_Anarchy_%282018%29%E0%B9%80%E0%B8%94%E0%B8%98_%E0%B9%80%E0%B8%A3%E0%B8%8B_%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87_%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87_%E0%B8%95%E0%B8%B2%E0%B8%A2_4_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
