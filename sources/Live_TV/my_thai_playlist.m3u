@@ -3127,6 +3127,8 @@ http://80.87.208.158:80/dna-576-tv-pc.m3u8
 http://80.87.208.158:80/dna-151-tv-pc.m3u8
 #EXTINF:-1,HBO_PLTV
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:-1,HBO_transvision_indo
+http://210.210.155.35/session/98bcfbb2-cd03-11e8-8197-b82a72d63267/uq2663/h/h231/index2.m3u8
 
 
 #EXTINF:-1,Food Network Russia HD_onlybest
@@ -3256,6 +3258,8 @@ http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8
 http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
 https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
+#EXTINF:-1,DA Vinci
+http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
 
 
 #EXTINF:-1,PhoneCam

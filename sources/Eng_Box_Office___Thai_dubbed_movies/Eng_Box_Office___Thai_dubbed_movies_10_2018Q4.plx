@@ -76,7 +76,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-29
+date=2018-10-30
 URL=
 
 
@@ -84,11 +84,19 @@ URL=
 
 
 type=video
+name=Replicas (2018) ENG 720p_HDCAM_ENG-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUG8gxJTcXXdDrbdlmDAIJMFghO.jpg
+date=2018-10-30
+URL=https://openload.co/f/_lHIqerPKeY/Replicas_2018_720p_HDCAM_ENG-1XBET_SeeHD.mp4
+#https://openload.co/f/ouVmWbgJ1lM/Replicas_2018_720p_HDCAM_ENG-1XBET.mp4
+
+type=video
 name=Hunter Killer (2018) ENG 720p_HDCAM-1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
 date=2018-10-29
 URL=https://openload.co/f/WH4Ch_m3VuA/Hunter_Killer_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/tyPWaIr0L6I/Hunter_Killer_%282018%29HDCAM_XViD_AC3-ETRG.Ganool.mkv.mp4
+#https://openload.co/f/cxzuS6C8BUI/Hunter.Killer.2018.HDCAM.XviD-AVID.avi.mp4
 
 type=video
 name=King of Thieves (2018) ENG 720p_TS-1XBET_SeeHD
@@ -178,10 +186,13 @@ URL=https://openload.co/f/gkdpwns7nyY/White_Boy_Rick_2018_720p_TS-1XBET_SeeHD.mp
 
 
 type=video
-name=Papillon (2018) ENG REAL.DVDRip.XviD.AC3-EVO_SeeHD
+name=Papillon (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahF5c6vyP8HWMqIwlhecbRALkjq.jpg
-date=2018-10-26
-URL=https://openload.co/f/-3em3klpSAs/Papillon.2018.REAL.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+date=2018-10-30
+URL=https://openload.co/f/itFcG3nlxnI/Papillon.2018.1080p.WEB-DL.DD5.1.H264-FGT_SeeHD.mkv.mp4
+#
+#https://openload.co/f/yqfEhbXqA-Q/Papillon.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/-3em3klpSAs/Papillon.2018.REAL.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://openload.co/f/BXDCsMomC9Y/Papillon.2018.READNFO.DVDRip.XviD.AC3-iFT.avi.mp4
 #https://openload.co/f/EvbdTR71ukY/Papillon.2018.READNFO.DVDRip.x264-SuperSync.mkv.mp4
 #https://openload.co/f/7qBeaEcLP2A/Papillon.2018.New.Src.720p.HDCAM.x264.AC3-NeNi.mkv.mp4
@@ -1327,7 +1338,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-29
+date=2018-10-30
 URL=
 
 
@@ -1337,6 +1348,22 @@ URL=
 
 
 
+type=video
+name=Oh Lucy! (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPHRSPUXEjep756HiBVwKygMa3.jpg
+date=2018-10-30
+URL=https://openload.co/f/nSEmEOd9Wi8/oh.lucy.2017.limited.1080p.bluray.x264-usury.mkv.mp4
+
+type=video
+name=Charming (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yayzDar0dL3AvNoP1vPDFtinNYc.jpg
+date=2018-10-30
+URL=https://openload.co/f/Y-Fb-IrA7BE/charming.2018.1080p.bluray.x264-getit.mkv.mp4
+#https://uptobox.com/ie9j2416pi6o   720
+#https://openload.co/f/uNSaKubDuqw/Charming.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/rMJcnawhQZc/Charming_%282018%29.720p_BluRay_x264-GETiT.Ganool.mkv.mp4
+#https://openload.co/f/Wetu-vGT1VA/Charming.2018.720p.BluRay.x264-x0r.mkv.mp4
+#https://openload.co/f/hVeo8tKDydM/Charming.2018.720p.BluRay.x264-x0r.mkv   MKV1.8GB
 
 type=video
 name=The Gateway (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1368,6 +1395,9 @@ URL=https://openload.co/f/kuxxilUJ1es/Teen.Titans.Go.To.the.Movies.2018.1080p.Bl
 #https://openload.co/f/owzkqG6yDQc/Teen.Titans.Go.To.the.Movies.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/R3z_dvaWqUA/Teen_Titans_Go_To_the_Movie_2018_720p_TS-1XBET_SeeHD.mp4
 #https://openload.co/f/zgQ-t1LrA8w/Teen.Titans.Go.To.the.Movie.2018.720p.TS-1XBET.mp4   2.4GB
+#https://uptobox.com/k8ohllnz52hv   720
+#https://www.rapidvideo.com/e/FWQIAFU3BL   720
+#https://openload.co/embed/28Aq3g3l2vo/TEENTITANSGOTHEMOVIEBD72.Ganol.st.mkv
 
 type=video
 name=An Evening with Beverly Luff Linn (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1402,6 +1432,7 @@ name=Edie (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oDyvCIkf1C6aQ7yAug5kkT0q01.jpg
 date=2018-10-28
 URL=https://openload.co/f/GEjTNxc6kXs/Edie.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/fDdOIdyUHMY/Edie.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/scfqCSN32Ik/Edie.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
@@ -6933,23 +6964,10 @@ URL=https://uptobox.com/uy7nxl71x2ek
 #https://www.rapidvideo.com/e/FWO8946GJ8
 #https://openload.co/f/P1f_vrq2L5w/Sollers_Point_%282017%29720p_BluRay_x264-PSYCHD.Ganool.mkv.mp4
 
-type=video
-name=Charming (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yayzDar0dL3AvNoP1vPDFtinNYc.jpg
-date=2018-10-28
-URL=https://uptobox.com/ie9j2416pi6o
-#https://openload.co/f/uNSaKubDuqw/Charming.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/rMJcnawhQZc/Charming_%282018%29.720p_BluRay_x264-GETiT.Ganool.mkv.mp4
 
 
 
-type=video
-name=The Scorpion King: Book of Souls (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSviUMejPmerwoQxdj7wR4Ky1Fd.jpg
-date=2018-10-28
-URL=https://uptobox.com/9c2oo11v7eq7
-#https://openload.co/embed/PrzhxaPzdXI/THESCORPIONKINGBOOKBD72.Ganol.st.mkv
-#https://openload.co/f/I9SJLoEMJlg/The_Scorpion_King%3A_Book_of_Souls_%282018%29720p_BluRay_x264-NODLABS.Ganool.mkv.mp4
+
 
 
 
@@ -7138,10 +7156,11 @@ URL=https://openload.co/f/o7Lz3ohcezc/Johnny_English_Strikes_Again_%282018%29%E0
 
 
 type=video
-name=Luis and the Aliens (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Luis and the Aliens (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oq7s5ru4hjp83mi4fWSJ0L7yUA.jpg
-date=2018-10-28
-URL=https://uptobox.com/kdgue6nab7ur
+date=2018-10-30
+URL=https://openload.co/f/aLZ0rJ1Whkw/Luis.And.The.Aliens.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/kdgue6nab7ur   720
 #https://openload.co/embed/5rOV8XdMl64/LUISANDTHEALINESBD72.Ganol.st.mkv
 #https://openload.co/f/S6CQRWvKfF4/Luis_%26_the_Aliens_%282018%29720p_BluRay_x264-SNOW.Ganool.mkv.mp4
 #https://openload.co/f/7ltlNdNVdjA/Luis_and_His_Friends_from_Outer_Space.2018.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
@@ -7201,10 +7220,12 @@ URL=https://openload.co/f/lid3G4MglmY/The_Predator_%282018%29%E0%B9%80%E0%B8%94%
 
 
 type=video
-name=The Nun (2018) ENG NEW.HDCAM-24HD
+name=The Nun (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg
-date=2018-10-06
-URL=https://openload.co/f/X84sXDhrTMs/THE.NUN.2018.NEW.HDCAM-24HD.mkv.mp4
+date=2018-10-30
+URL=https://openload.co/f/OGVM6oCA3yc/The.Nun.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/fY5KyQ89FBs/The.Nun.2018.1080p.HC.HDRip.X264.AC3-EVO.mp4
+#https://openload.co/f/X84sXDhrTMs/THE.NUN.2018.NEW.HDCAM-24HD.mkv.mp4
 #https://openload.co/f/l9zdAMiAJZM/The.Nun.2018.NEW.TS-1XBET.mp4
 #https://openload.co/f/H7GLWgUQJFU/THE_NUN_2018_NEW_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/yLNCEbVeYIM/The_Nun_2018_720p_HDCAM-1XBET_SeeHD.mp4
@@ -7252,10 +7273,13 @@ URL=https://openload.co/f/xKvKQKeBi5I/A.X.L._%282018%29%E0%B9%81%E0%B8%AD%E0%B8%
 
 
 type=video
-name=The Equalizer 2 (2018) ENG 720p_HD-TS_x264-24HD_SeeHD
+name=The Equalizer 2 (2018) ENG 1080p_WEB-DL_X264-24HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg
-date=2018-08-13
-URL=https://openload.co/f/pul-OiRrhII/Equalizer_2_2018_720p_HD-TS_x264-24HD_SeeHD.mkv.mp4
+date=2018-08-30
+URL=https://openload.co/f/5zxgEe8wZSU/The_Equalizer_2_2018_1080p_WEB-DL_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/yCHpgnvj7p0/The.Equalizer.2.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/guaYhTNrJ6k/the.equalizer.2.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/pul-OiRrhII/Equalizer_2_2018_720p_HD-TS_x264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/YkZ8kURFtbQ/The_Equalizer_2_2018_NEW_HD-TS_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/kPk0y57HdkU/The.Equalizer.2.2018.NEW.HD-TS.X264-24HD.mkv.mp4
 #https://openload.co/f/Ij5fcwc8tEM/The_Equalizer_2_2018_NEW_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
@@ -7424,7 +7448,18 @@ URL=
 
 
 
-
+type=video
+name=The Scorpion King: Book of Souls (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSviUMejPmerwoQxdj7wR4Ky1Fd.jpg
+date=2018-10-28
+URL=https://uptobox.com/9c2oo11v7eq7
+#https://openload.co/embed/PrzhxaPzdXI/THESCORPIONKINGBOOKBD72.Ganol.st.mkv
+#https://openload.co/f/I9SJLoEMJlg/The_Scorpion_King%3A_Book_of_Souls_%282018%29720p_BluRay_x264-NODLABS.Ganool.mkv.mp4
+type=video
+name=The Scorpion King: Book of Souls (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSviUMejPmerwoQxdj7wR4Ky1Fd.jpg
+date=2018-10-30
+URL=https://openload.co/f/E5-4XA26BjE/The_Scorpion_King%3A_Book_of_Souls_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%AA%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99_%E0%B8%84%E0%B8%B4%E0%B8%87_5_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B8%B5%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -9709,10 +9744,12 @@ URL=https://openload.co/f/SDY3S92DgtE/Alpha_%282018%29%E0%B8%9C%E0%B8%88%E0%B8%8
 
 
 type=video
-name=Mile 22 (2018) ENG 1080p.HDRip
+name=Mile 22 (2018) ENG 1080p.web.dl.dd5.1.hevc.x265
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
-date=2018-10-23
-URL=https://openload.co/f/yLdLfVPKaOs/Mile.22.2018.1080p.HDRip.mkv.mp4
+date=2018-10-30
+URL=https://openload.co/f/yIocH9qI0Dw/mile.22.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/CKWA5RoXQl0/Mile.22.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/yLdLfVPKaOs/Mile.22.2018.1080p.HDRip.mkv.mp4
 #https://openload.co/f/M3ZVsZxHZ7c/Mile.22.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/GyD2vOAKqzA/Mile_22_2018_NEW_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/aug72S8Qov8/Mile.22.2018.720p.HDCAM.1XBET_SeeHD.mp4
@@ -9836,10 +9873,12 @@ URL=https://openload.co/f/qv611gUWxpE/Along_With_the_Gods%3A_The_Last_49_Days_%2
 
 
 type=video
-name=The Meg (2018) ENG 1080p_WEB-DL-H264-DD_5.1-Zi%24t
+name=The Meg (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
-date=2018-10-14
-URL=https://openload.co/f/_paYAZ_UHbo/The_Meg_2018_1080p_WEB-DL-H264-DD_5.1-Zi%24t.mkv.mp4
+date=2018-10-30
+URL=https://openload.co/f/2Jr9Bt4IXwU/The.Meg.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/INefzMU6ac0/The.Meg.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/_paYAZ_UHbo/The_Meg_2018_1080p_WEB-DL-H264-DD_5.1-Zi%24t.mkv.mp4
 #https://openload.co/f/n68dVqz6c-4/The_Meg_2018_1080p_WEB-DL-H264-DD_5.1-Zi%24t.mkv.mp4
 #https://openload.co/f/fRPmt25Ox4U/The.Meg.2018.720pHD_SeeHD.mkv.mp4
 #https://openload.co/f/hSFdLOExZeI/The.Meg.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
@@ -10489,8 +10528,9 @@ URL=https://www.blazefile.co/embed-oonc8i56w42a.html
 type=video
 name=The Monkey King 3 (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQw0pTWeplDn1TmiN4MjIxvyCR0.jpg
-date=2018-10-26
-URL=https://openload.co/f/wYiF3nf-Wdw/The_Monkey_King_3_%282018%29%E0%B9%84%E0%B8%8B%E0%B8%AD%E0%B8%B4%E0%B9%8B%E0%B8%A7_3_%E0%B8%95%E0%B8%AD%E0%B8%99_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B9%88%E0%B8%B2%E0%B8%A2.mp4
+date=2018-10-30
+URL=https://openload.co/f/Nrcoyr8tl0M/The_Monkey_King_3_%282018%29%E0%B9%84%E0%B8%8B%E0%B8%AD%E0%B8%B4%E0%B9%8B%E0%B8%A7_3_%E0%B8%95%E0%B8%AD%E0%B8%99_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B9%88%E0%B8%B2%E0%B8%A2.mp4
+#https://openload.co/f/wYiF3nf-Wdw/The_Monkey_King_3_%282018%29%E0%B9%84%E0%B8%8B%E0%B8%AD%E0%B8%B4%E0%B9%8B%E0%B8%A7_3_%E0%B8%95%E0%B8%AD%E0%B8%99_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B9%88%E0%B8%B2%E0%B8%A2.mp4
 #https://streamango.com/f/tstcsnsskldaccnm/The_Monkey_King_3_2018_3_
 #https://streamango.com/f/ndskdkornckbqper/The_Monkey_King_3_2018_
 
