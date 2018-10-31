@@ -190,7 +190,7 @@ name=Papillon (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahF5c6vyP8HWMqIwlhecbRALkjq.jpg
 date=2018-10-30
 URL=https://openload.co/f/itFcG3nlxnI/Papillon.2018.1080p.WEB-DL.DD5.1.H264-FGT_SeeHD.mkv.mp4
-#
+#https://openload.co/f/CTMOgeUd5sg/papillon.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/yqfEhbXqA-Q/Papillon.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/-3em3klpSAs/Papillon.2018.REAL.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://openload.co/f/BXDCsMomC9Y/Papillon.2018.READNFO.DVDRip.XviD.AC3-iFT.avi.mp4
@@ -1390,7 +1390,11 @@ type=video
 name=Teen Titans Go! To the Movies (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiEuNw3Lg0PIPNUQ3PIWWElwGcY.jpg
 date=2018-10-29
-URL=https://openload.co/f/kuxxilUJ1es/Teen.Titans.Go.To.the.Movies.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+URL=https://uptobox.com/rxtzmvdw4r06
+#https://www.rapidvideo.com/e/FWRDCOD6HP
+#https://openload.co/embed/E_ICX0zVgQI/TEENTITANSGOTHEMOVIES80.Ganol.st.mkv
+#https://openload.co/f/kuxxilUJ1es/Teen.Titans.Go.To.the.Movies.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/kfaxJp5N71g/Teen_Titans_Go%21_To_the_Movies_%282018%291080p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
 #https://openload.co/f/wbtosjJudQc/Teen.Titans.Go.To.the.Movies.2018.720p.BluRay.x264.DTS-FGT.mkv.mp4
 #https://openload.co/f/owzkqG6yDQc/Teen.Titans.Go.To.the.Movies.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/R3z_dvaWqUA/Teen_Titans_Go_To_the_Movie_2018_720p_TS-1XBET_SeeHD.mp4
@@ -1404,6 +1408,7 @@ name=An Evening with Beverly Luff Linn (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3IdKhGBBSwq8aAPPhKee4NDNWi.jpg
 date=2018-10-29
 URL=https://openload.co/f/wDpMMiRhM9Y/An.Evening.With.Beverly.Luff.Linn.2018.1080p.BluRay.x264-EiDER.mkv.mp4
+#https://openload.co/f/lSvivQzPev0/An.Evening.With.Beverly.Luff.Linn.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/unko51qu6s8/An_Evening_with_Beverly_Luff_Linn_%282018%29720p_BluRay_x264-EiDER.Ganool.mkv.mp4
 #https://openload.co/f/CJ_pcR0v7gs/An_Evening_with_Beverly_Luff_Linn.2018.720p.BRRip.X264.AC3-EVO.mkv.mp4
 #https://uptobox.com/v86wf0gubu4b   720
@@ -1595,6 +1600,7 @@ URL=https://uptobox.com/wqblfe8hu24h
 #https://www.rapidvideo.com/e/FWA2BESXX9
 #https://openload.co/embed/ls1d2UM0gFk/REPRISAL80.Ganol.st.mkv
 #https://openload.co/f/wBZvCpgEwXc/Reprisal_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+#https://openload.co/f/69aN-8Ut_ZE/Reprisal.2018.1080p.BluRay.x264-PSYCHD.mkv.mp4
 
 type=video
 name=The House of Tomorrow (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4745,15 +4751,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1fG8mi6CVm9KACEA6ED1EWcJC
 date=2018-02-09
 URL=https://openload.co/f/n2H-QYbg7PQ/The.Time.Of.Their.Lives.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 
-type=video
-name=Cold Skin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/65qvQ13CoNxIYHvxGXWFtKc93sX.jpg
-date=2018-02-09
-URL=https://openload.co/f/zKBMJ3p-y0M/Cold.Skin.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/CED07Fs45xU/Cold.Skin.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/r9ner3SJ0EU/Cold.Skin.2017.720p.Br_SeeHD.mp4
-#https://openload.co/f/lympTi6U3sc/Cold_Skin.2017.dvdrip.x264-spooks_SeeHD.mkv.mp4
-#https://openload.co/f/7ywKmj1Cbso/Atlantida.2O17.D.TS.14OOMB_KOSHARA.E.mp4
+
 
 type=video
 name=The Young Karl Marx (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -6980,7 +6978,14 @@ URL=https://uptobox.com/t33i7y03amtg
 #https://openload.co/embed/1JbaoLnDxCo/THELASTWITNESSBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/fallHRZIjaM/The_Last_Witness_%282018%29720p_BluRay_DTS_x264-HDS.Ganool.mkv.mp4
 
-
+type=video
+name=Padman (2018) [COLOR=FF00FF00]HIN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHyoFs6BIJJwCaFlWu6P5Bnpa70.jpg
+date=2018-10-31
+URL=https://uptobox.com/uiy6n6f2r48x
+#https://www.rapidvideo.com/e/FWRTDR7OB7
+#https://openload.co/embed/c7a2z00mnqE/PADMANBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/0f-llf6kduo/Padman_%282018%29720p_BluRay_x264-DTOne.Ganool.mkv.mp4
 
 
 
@@ -10452,7 +10457,20 @@ URL=
 
 
 
-
+type=video
+name=Cold Skin (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/65qvQ13CoNxIYHvxGXWFtKc93sX.jpg
+date=2018-02-09
+URL=https://openload.co/f/zKBMJ3p-y0M/Cold.Skin.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/CED07Fs45xU/Cold.Skin.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/r9ner3SJ0EU/Cold.Skin.2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/lympTi6U3sc/Cold_Skin.2017.dvdrip.x264-spooks_SeeHD.mkv.mp4
+#https://openload.co/f/7ywKmj1Cbso/Atlantida.2O17.D.TS.14OOMB_KOSHARA.E.mp4
+type=video
+name=Cold Skin (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/65qvQ13CoNxIYHvxGXWFtKc93sX.jpg
+date=2018-10-31
+URL=https://openload.co/f/yPF1nyMFdIs/Cold_Skin_%282017%29%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81_%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC.mp4
 
 
 type=video
@@ -11031,7 +11049,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-28
+date=2018-10-31
 URL=
 
 
@@ -11042,8 +11060,37 @@ URL=
 
 
 
+type=video
+name=The Man in the Iron Mask (1998) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNbLk9qdBMnzBFWBrjy3Nuw9Ovi.jpg
+date=2018-10-31
+URL=https://openload.co/f/2txC_kdHWBY/the.man.in.the.iron.mask.1998.remastered.720p.bluray.hevc.x265.mkv.mp4
+#https://openload.co/f/dVhPRJwJ0Dc/The.Man.in.the.Iron.Mask.1998.REMASTERED.720p.BluRay.H264.AAC-RARBG.mp4
 
+type=video
+name=They Live (1988) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8N8BnBGwgsxXXwZ2q9eVFFIKFL1.jpg
+date=2018-10-31
+URL=https://openload.co/f/RjAmlh3NbKc/they.live.1988.remastered.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/1k7o7H4YKPw/They.Live.1988.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
 
+type=video
+name=The Fog (1980) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9wAIHya0BHJvGJh3mBPr010U7C.jpg
+date=2018-10-31
+URL=https://openload.co/f/LawpA9zH8Mg/The.Fog.1980.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Boogeyman (2005) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uG61rNRVfBx7sHJp42wlN5yLouU.jpg
+date=2018-10-31
+URL=https://openload.co/f/V5Cglgj77jw/Boogeyman.2005.1080p.Br_SeeHD.mp4
+
+type=video
+name=Marfa Girl (2012) [COLOR=FF00FF00]ENG DVD[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjmOaPR7210bWhzW6uvNEJh8fLT.jpg
+date=2018-10-31
+URL=https://openload.co/f/k4XmeUBonHo/marfa.girl.2012.dvdrip.x264_bipolar.E.mp4
 
 type=video
 name=The Demons (1973) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
