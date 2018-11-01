@@ -76,12 +76,28 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-30
+date=2018-11-01
 URL=
 
 
 
 
+
+
+
+
+
+type=video
+name=The Nutcracker and the Four Realms (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/OphaHihfuXhUGmpNIRIsO3oMgm.jpg
+date=2018-11-01
+URL=https://openload.co/f/W8e57zl-ZDc/The_Nutcracker_and_the_Four_Realms_2018_720p_HDCAM-1XBET_SeeHD.mp4
+
+type=video
+name=Bohemian Rhapsody (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf7jiy0rDVn1ljUwv3pWKousQ1p.jpg
+date=2018-11-01
+URL=https://openload.co/f/QCRboGzcoRY/Bohemian_Rhapsody_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
 type=video
 name=Replicas (2018) ENG 720p_HDCAM_ENG-1XBET_SeeHD
@@ -1338,21 +1354,44 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-30
+date=2018-11-01
 URL=
 
 
 
 
+type=video
+name=Deep (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/14mEMC6rRNedvaz1d5sfLX8uRGt.jpg
+date=2018-11-01
+URL=https://openload.co/f/Mo3tu2gvWHQ/Deep.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://uptobox.com/rl9z0lbiggzc   720
+#https://openload.co/embed/YwMiito2-kA/DEEPBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/LQ8SU4DErWg/Deep_%282017%29720p_BluRay_x264-RUSTED.Ganool.mkv.mp4
+#https://openload.co/f/smkyhOXIZKc/deep.2017.dvdrip.x264.fragment.mkv.mp4
+#https://openload.co/f/-qn2CAAEOWY/Deep.2017.WEBRip.x264-RARBG.mp4
+#https://openload.co/f/_s_f41ayWNo/Deep.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
+type=video
+name=Running Wild (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tfc2ga4JnWjZGvhKlAPIvOVMBy.jpg
+date=2018-11-01
+URL=https://openload.co/f/5G_WuOtPZuo/Running.Wild.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
-
+type=video
+name=Jailbreak (2017) [COLOR=FF00FF00]Khmer BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/48Evnm8qldagV5A75xGAqIo19Wb.jpg
+date=2018-11-01
+URL=https://openload.co/f/EgRGr3W9k3k/Jailbreak.2017.1080p.BluRay.x264-REGRET.mkv.mp4
+#https://openload.co/f/0bU4vA8eEFI/Jailbreak.2017.1080p.BluRay.x264-REGRET.mkv   MKV6.6GB
+#https://openload.co/f/AqlBYBPv5Z4/Jailbreak.2017.720p.BR_SeeHD.mp4
 
 type=video
 name=Oh Lucy! (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPHRSPUXEjep756HiBVwKygMa3.jpg
 date=2018-10-30
 URL=https://openload.co/f/nSEmEOd9Wi8/oh.lucy.2017.limited.1080p.bluray.x264-usury.mkv.mp4
+#https://openload.co/f/ttCOJhOiEmU/Oh.Lucy%21.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Charming (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -6314,11 +6353,7 @@ URL=https://www.blazefile.co/embed-e395tlj5pcfx.html
 #http://uptobox.com/vr89sd3ls7ea
 #https://openload.co/f/PEKXbbLwZ-4/Fang.Hua.2017.BluRay.720p.950MB.Ganool.im.mkv.mp4
 
-type=video
-name=Jailbreak (2017) [COLOR=FF00FF00]Khmer BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/48Evnm8qldagV5A75xGAqIo19Wb.jpg
-date=2018-05-21
-URL=https://openload.co/f/AqlBYBPv5Z4/Jailbreak.2017.720p.BR_SeeHD.mp4
+
 
 type=video
 name=Breaking the Limits (2017) [COLOR=FF00FF00]POL BR 720p[/COLOR]
@@ -6943,16 +6978,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRrS6rOxJ5dSfCWkLvR4c5qwxc
 date=2018-10-26
 URL=https://openload.co/f/iypG4u4aDmc/Benched.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Deep (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/14mEMC6rRNedvaz1d5sfLX8uRGt.jpg
-date=2018-10-28
-URL=https://uptobox.com/rl9z0lbiggzc
-#https://openload.co/embed/YwMiito2-kA/DEEPBD72.Ganol.st.mkv.mp4
-#https://openload.co/f/LQ8SU4DErWg/Deep_%282017%29720p_BluRay_x264-RUSTED.Ganool.mkv.mp4
-#https://openload.co/f/smkyhOXIZKc/deep.2017.dvdrip.x264.fragment.mkv.mp4
-#https://openload.co/f/-qn2CAAEOWY/Deep.2017.WEBRip.x264-RARBG.mp4
-#https://openload.co/f/_s_f41ayWNo/Deep.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Sollers Point (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -7165,6 +7191,7 @@ name=Luis and the Aliens (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oq7s5ru4hjp83mi4fWSJ0L7yUA.jpg
 date=2018-10-30
 URL=https://openload.co/f/aLZ0rJ1Whkw/Luis.And.The.Aliens.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/LYfTv3lOBcg/Luis.%26.The.Aliens.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://uptobox.com/kdgue6nab7ur   720
 #https://openload.co/embed/5rOV8XdMl64/LUISANDTHEALINESBD72.Ganol.st.mkv
 #https://openload.co/f/S6CQRWvKfF4/Luis_%26_the_Aliens_%282018%29720p_BluRay_x264-SNOW.Ganool.mkv.mp4

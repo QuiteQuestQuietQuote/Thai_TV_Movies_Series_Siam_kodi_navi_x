@@ -2513,6 +2513,7 @@ http://109.224.64.146/master_344.m3u8
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/922/index.m3u8
 #EXTINF:-1,PenthouseHD
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
+
 #EXTINF:-1,Playhouse
 http://89.212.214.162:7781/udp/239.18.1.235:5000
 #EXTINF:-1,XXL
@@ -2529,10 +2530,6 @@ http://93.103.146.62:83/udp/239.18.2.242:5000
 http://46.160.166.9:81/udp/239.254.2.232:1234
 #EXTINF:-1,hustler HD
 http://194.28.155.63:81/udp/225.0.2.61:1234
-#EXTINF:-1,Playboy_udp
-http://91.203.209.92:3371/udp/239.195.2.5:1234
-
-
 #EXTINF:-1,hustler HD_udp
 http://194.28.152.123:81/udp/225.0.2.61:1234
 #EXTINF:-1,Private_udp
@@ -2541,6 +2538,8 @@ http://194.28.152.123:81/udp/225.0.0.104:1234
 http://194.28.152.123:81/udp/225.0.0.107:1234
 #EXTINF:-1,Brazzers_TV_udp
 http://194.28.152.123:81/udp/225.0.0.103:1234
+#EXTINF:-1,Playboy_udp
+http://91.203.209.92:3371/udp/239.195.2.5:1234
 
 
 #EXTINF:-1,PenthouseHD_4005
@@ -2665,7 +2664,10 @@ http://78.141.113.63:8001/1:0:16:3725:C8E:3:EB0000:0:0:0:
 http://5.135.92.138:58143/out/i/109_1.m3u8
 
 
-#EXTINF:-1,XXX_a00l
+
+#EXTINF:-1,nuart tv_a00l
+http://86.57.182.131:8905/play/a00l
+#EXTINF:-1,nuart tv_a00l?m3u8
 http://86.57.182.131:8905/play/a00l?m3u8
 #EXTINF:-1,XXX18+_nuart tv
 http://82.209.207.119:8905/play/a00l?m3u8
@@ -2717,7 +2719,7 @@ http://80.87.208.158:80/dna-91-tv-pc.m3u8
 http://80.87.208.158:80/dna-416-tv-pc.m3u8
 
 
-#EXTINF:-1,Playboy _onlybest
+#EXTINF:-1,Playboy _onlybestxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/142/index.m3u8 
 #EXTINF:-1,Nuart TV _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/264/index.m3u8 
@@ -2797,7 +2799,7 @@ http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/501/inde
 
 
 
-#EXTINF:-1,Chinese1
+#EXTINF:-1,Chinese1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
 #EXTINF:-1,Chinese2
 http://live-tx-hdl.huomaotv.cn/live/2inGSW24083.m3u8
@@ -2909,7 +2911,7 @@ http://alhls.cdn.zhanqi.tv/zqlive/264147_VU1iK.m3u8
 
 #EXTINF:-1 group-title="movies" tvg-logo="http://html.login.in.th/flashstreaming/img/ch8.jpg",channel8thailand
 https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
-#EXTINF:-1,BBC PLAYER
+#EXTINF:-1,BBC PLAYERxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/22.m3u8
 #EXTINF:-1,CBSO ACTION
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/29.m3u8
@@ -2999,7 +3001,7 @@ rtmp://tv01.thaizatv.com/drm/movie1
 
 
 
-#EXTINF:-1,Metro TV 
+#EXTINF:-1,Metro TV xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://45.126.83.51/uq2663/h/h05/index.m3u8 
 #EXTINF:-1,Sony Channel 
 http://45.126.83.51/uq2663/h/h06/index.m3u8 
@@ -3118,7 +3120,74 @@ http://122.38.74.172:9981/stream/channelid/1836601049?ticket=487EA11E9B49DD54F9E
 
 
 
-#EXTINF:-1,AXN HD_POL
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, DRAMA HD1 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+http://89.38.96.146:5890/said01/01said/6000 
+#EXTINF:-1, SERIES HD1 
+http://89.38.96.146:5890/said01/01said/2705 
+#EXTINF:-1, SERIES HD2 
+http://89.38.96.146:5890/said01/01said/6031 
+#EXTINF:-1, MOVIES HD1 (PREMIERE) 
+http://89.38.96.146:5890/said01/01said/3119 
+#EXTINF:-1, MOVIES HD2 (ACTION) 
+http://89.38.96.146:5890/said01/01said/3120 
+#EXTINF:-1, MOVIES HD3 (DRAMA) 
+http://89.38.96.146:5890/said01/01said/3121 
+#EXTINF:-1, MOVIES HD4 (FAMILY) 
+http://89.38.96.146:5890/said01/01said/3122 
+#EXTINF:-1, AMC HD 
+http://89.38.96.146:5890/said01/01said/9011 
+#EXTINF:-1, FX HD 
+http://89.38.96.146:5890/said01/01said/7571 
+#EXTINF:-1, FOX HD 
+http://89.38.96.146:5890/said01/01said/3348 
+#EXTINF:-1, FOX MOVIES HD 
+http://89.38.96.146:5890/said01/01said/2645 
+#EXTINF:-1, FOX MOVIES ACTION HD 
+http://89.38.96.146:5890/said01/01said/7570 
+#EXTINF:-1, FOX MOVIES FAMILY HD 
+http://89.38.96.146:5890/said01/01said/7569 
+#EXTINF:-1, STAR WORLD HD 
+http://89.38.96.146:5890/said01/01said/7636 
+#EXTINF:-1, Fatafeat HD 
+http://89.38.96.146:5890/said01/01said/2651 
+#EXTINF:-1, GOURMET HD 
+http://89.38.96.146:5890/said01/01said/3692 
+#EXTINF:-1, DTX 
+http://89.38.96.146:5890/said01/01said/2653 
+#EXTINF:-1, DMAX HD 
+http://89.38.96.146:5890/said01/01said/2646 
+#EXTINF:-1, TRAVEL HD 
+http://89.38.96.146:5890/said01/01said/2647 
+#EXTINF:-1, Nat Geo Wild 
+http://89.38.96.146:5890/said01/01said/7631 
+#EXTINF:-1, NAT GEO PEOPLE HD 
+http://89.38.96.146:5890/said01/01said/7635 
+#EXTINF:-1, Animal Planet HD 
+http://89.38.96.146:5890/said01/01said/6032 
+#EXTINF:-1, FINE LIVING HD 
+http://89.38.96.146:5890/said01/01said/7998 
+#EXTINF:-1, JEEM KIDS 
+http://89.38.96.146:5890/said01/01said/2649 
+#EXTINF:-1, JUNIOR KIDS 
+http://89.38.96.146:5890/said01/01said/2648 
+#EXTINF:-1, DREAM WORK HD 
+http://89.38.96.146:5890/said01/01said/2652 
+#EXTINF:-1, BARAEM KIDS 
+http://89.38.96.146:5890/said01/01said/2650
+
+
+
+
+#EXTINF:-1,AXN HD_POLxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://145.129.238.137:8000/play/a045 
 #EXTINF:-1,BBC Earth HD 
 http://145.129.238.137:8000/play/a06c 
@@ -3200,7 +3269,7 @@ http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
 http://210.210.155.35/session/98bcfbb2-cd03-11e8-8197-b82a72d63267/uq2663/h/h231/index2.m3u8
 
 
-#EXTINF:-1,Food Network Russia HD_onlybest
+#EXTINF:-1,Food Network Russia HD_onlybestxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/861/index.m3u8
 #EXTINF:-1,BBC Earth HD Polska_onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/561/index.m3u8
