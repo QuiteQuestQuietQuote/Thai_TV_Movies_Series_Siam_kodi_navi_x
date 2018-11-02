@@ -2514,7 +2514,7 @@ http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/922/index.m3u8
 #EXTINF:-1,PenthouseHD
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
 
-#EXTINF:-1,Playhouse
+#EXTINF:-1,Playhousexxxxxxxxxxxxxxxxxxxxxxxx
 http://89.212.214.162:7781/udp/239.18.1.235:5000
 #EXTINF:-1,XXL
 http://89.212.51.85:8443/udp/239.18.1.181:5000
@@ -2550,7 +2550,7 @@ http://31.41.20.14:4051
 http://176.67.202.21:6201/erotic3
 
 
-#EXTINF:-1,Hustler FHD
+#EXTINF:-1,Hustler FHDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6442.m3u8
 #EXTINF:-1,Red Light FHD
 http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6444.m3u8
@@ -2697,7 +2697,7 @@ http://213.59.128.162:9996/play/Hustler_HD/index.m3u8
 http://213.59.128.162:9996/play/Pink_O_TV/index.m3u8
 #EXTINF:-1,Russkaya_noch
 http://213.59.128.162:9996/play/Russkaya_noch/index.m3u8
-#EXTINF:-1,Passion_XXX
+#EXTINF:-1,Passion_XXX_babes_tv
 http://213.59.128.162:9996/play/Passion_XXX/index.m3u8
 #EXTINF:-1,O-la-la
 http://213.59.128.162:9996/play/O-la-la/index.m3u8
@@ -3129,63 +3129,6 @@ http://122.38.74.172:9981/stream/channelid/1836601049?ticket=487EA11E9B49DD54F9E
 
 
 
-#EXTINF:-1, DRAMA HD1 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-http://89.38.96.146:5890/said01/01said/6000 
-#EXTINF:-1, SERIES HD1 
-http://89.38.96.146:5890/said01/01said/2705 
-#EXTINF:-1, SERIES HD2 
-http://89.38.96.146:5890/said01/01said/6031 
-#EXTINF:-1, MOVIES HD1 (PREMIERE) 
-http://89.38.96.146:5890/said01/01said/3119 
-#EXTINF:-1, MOVIES HD2 (ACTION) 
-http://89.38.96.146:5890/said01/01said/3120 
-#EXTINF:-1, MOVIES HD3 (DRAMA) 
-http://89.38.96.146:5890/said01/01said/3121 
-#EXTINF:-1, MOVIES HD4 (FAMILY) 
-http://89.38.96.146:5890/said01/01said/3122 
-#EXTINF:-1, AMC HD 
-http://89.38.96.146:5890/said01/01said/9011 
-#EXTINF:-1, FX HD 
-http://89.38.96.146:5890/said01/01said/7571 
-#EXTINF:-1, FOX HD 
-http://89.38.96.146:5890/said01/01said/3348 
-#EXTINF:-1, FOX MOVIES HD 
-http://89.38.96.146:5890/said01/01said/2645 
-#EXTINF:-1, FOX MOVIES ACTION HD 
-http://89.38.96.146:5890/said01/01said/7570 
-#EXTINF:-1, FOX MOVIES FAMILY HD 
-http://89.38.96.146:5890/said01/01said/7569 
-#EXTINF:-1, STAR WORLD HD 
-http://89.38.96.146:5890/said01/01said/7636 
-#EXTINF:-1, Fatafeat HD 
-http://89.38.96.146:5890/said01/01said/2651 
-#EXTINF:-1, GOURMET HD 
-http://89.38.96.146:5890/said01/01said/3692 
-#EXTINF:-1, DTX 
-http://89.38.96.146:5890/said01/01said/2653 
-#EXTINF:-1, DMAX HD 
-http://89.38.96.146:5890/said01/01said/2646 
-#EXTINF:-1, TRAVEL HD 
-http://89.38.96.146:5890/said01/01said/2647 
-#EXTINF:-1, Nat Geo Wild 
-http://89.38.96.146:5890/said01/01said/7631 
-#EXTINF:-1, NAT GEO PEOPLE HD 
-http://89.38.96.146:5890/said01/01said/7635 
-#EXTINF:-1, Animal Planet HD 
-http://89.38.96.146:5890/said01/01said/6032 
-#EXTINF:-1, FINE LIVING HD 
-http://89.38.96.146:5890/said01/01said/7998 
-#EXTINF:-1, JEEM KIDS 
-http://89.38.96.146:5890/said01/01said/2649 
-#EXTINF:-1, JUNIOR KIDS 
-http://89.38.96.146:5890/said01/01said/2648 
-#EXTINF:-1, DREAM WORK HD 
-http://89.38.96.146:5890/said01/01said/2652 
-#EXTINF:-1, BARAEM KIDS 
-http://89.38.96.146:5890/said01/01said/2650
-
-
-
 
 #EXTINF:-1,AXN HD_POLxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://145.129.238.137:8000/play/a045 
@@ -3243,6 +3186,8 @@ http://dlhls.cdn.zhanqi.tv/zqlive/182325_z3jRr.m3u8
 http://dlhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
 #EXTINF:-1,Chinese_Movies_hitz
 http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+#EXTINF:-1,Chinese_Movies_prem
+http://dlhls.cdn.zhanqi.tv/zqlive/160122_5swCD.m3u8
 
 
 #EXTINF:-1 group-title="movies" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg",Pluto TV Movies 1
@@ -3453,6 +3398,8 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL
 http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:-1,China_News
+http://live.italkdd.com/cds160/hls/channel023/channel023_2000.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News US HD
 https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_hd

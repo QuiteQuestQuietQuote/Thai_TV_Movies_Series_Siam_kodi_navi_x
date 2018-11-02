@@ -56,6 +56,102 @@ URL=
 
 
 
+type=video
+name=69xxxxxxxxxxxxxxxxxxxxJeongsa Sachon Yeodongsaengdeul (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Jeongsa-Sachon-Yeodongsaengdeul-2018.jpg
+date=2018-11-02
+URL=https://streamcherry.com/embed/otaodrskcqnofcoo/
+
+type=video
+name=Mil Ae Chinguui Anae (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Mil-Ae-Chinguui-Anae-2018.jpg
+date=2018-11-02
+URL=https://streamcherry.com/embed/scnkklmdqcnaefln/
+
+type=video
+name=Yubunyeodeul Ui Mas (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Yubunyeodeul-Ui-Mas-2018.jpg
+date=2018-11-02
+URL=https://streamcherry.com/embed/antrbobcdfodlrts/
+
+type=video
+name=Father-in-law’s helper (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Father-in-laws-helper-2017.jpg
+date=2018-11-02
+URL=https://streamcherry.com/embed/tporlfmqdrctfptd/
+
+type=video
+name=The Climax One (1989) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/The-Climax-One-1989.jpg
+date=2018-11-02
+URL=https://streamcherry.com/embed/cbsasccqllesmatd/
+
+
+type=video
+name=Uligajoggat I (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Uligajoggat-I-2018.jpg
+date=2018-11-02
+URL=https://streamcherry.com/embed/faptkbbdckspbnkn/
+
+type=video
+name=Jangmonimdeul (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Jangmonimdeul-2018.jpg
+date=2018-11-02
+URL=https://streamcherry.com/embed/rmrnmnndepqfdbld/
+
+type=video
+name=Yeopjibsonyeo 2 (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Yeopjibsonyeo-2-2018.jpg
+date=2018-11-02
+URL=https://streamcherry.com/embed/eefedtmmcrcortbp/
+
+type=video
+name=Two Mothers (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Two-Mothers-2018.jpg
+date=2018-11-02
+URL=https://streamcherry.com/embed/olplklnmeqfaqfdq/
+
+type=video
+name=Anaeui Aein 2 (2018) [Nocut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Anaeui-Aein-2-2018-Nocut.jpg
+date=2018-11-02
+URL=https://streamcherry.com/embed/rlmfqompamsbammt/
+
+
+type=video
+name=Tasty Sex Sister (2018) [Nocut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Tasty-Sex-Sister-2018-Nocut.jpg
+date=2018-11-02
+URL=https://streamcherry.com/embed/eetnqdaqrqkatdck/
+
+type=video
+name=Majimag Jeongsa Yeoleos I Dagat I (2018) [Nocut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Majimag-Jeongsa-Yeoleos-I-Dagat-I-2018-Nocut.jpg
+date=2018-11-02
+URL=https://streamcherry.com/embed/crkotflcarssnote/
+
+type=video
+name=Sensual Insurance Saleswomen 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Sensual-Insurance-Saleswomen-2-2017.jpg
+date=2018-11-02
+URL=https://streamcherry.com/embed/taqtpfoltbkatmpn/
+
+type=video
+name=Wakaduma Hentai Ganbo (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Wakaduma-Hentai-Ganbo-2017.jpg
+date=2018-11-02
+URL=https://streamcherry.com/embed/dlnlmokdfmsdqorf/
+
+type=video
+name=Uwaki-ga-shidai Hitodumatati (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Uwaki-ga-shidai-Hitodumatati-2017.jpg
+date=2018-11-02
+URL=https://streamcherry.com/embed/skcmpfqmaedkprrt/
+
+
+
+
+
 
 
 

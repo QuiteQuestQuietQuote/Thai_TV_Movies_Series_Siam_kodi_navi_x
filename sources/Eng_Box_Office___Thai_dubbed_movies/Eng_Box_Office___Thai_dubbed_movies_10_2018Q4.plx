@@ -1354,11 +1354,25 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-01
+date=2018-11-02
 URL=
 
 
 
+
+
+
+type=video
+name=Primal Rage (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FAxj6N9JsvB390qSIn82rvQIS7.jpg
+date=2018-11-02
+URL=https://openload.co/f/Q8pN4mcx0M4/Primal.Rage.2018.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+
+type=video
+name=Chihayafuru Part III (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQew6IX92T2z5WA8zOXyzGvYh3X.jpg
+date=2018-11-02
+URL=https://openload.co/f/_DK3xRE1oX8/Chihayafuru.Part.3.2018.1080p.BluRay.x265.DTS.mkv.mp4
 
 type=video
 name=Deep (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1381,8 +1395,12 @@ URL=https://openload.co/f/5G_WuOtPZuo/Running.Wild.2017.1080p.BluRay.x264-%5BYTS
 type=video
 name=Jailbreak (2017) [COLOR=FF00FF00]Khmer BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/48Evnm8qldagV5A75xGAqIo19Wb.jpg
-date=2018-11-01
-URL=https://openload.co/f/EgRGr3W9k3k/Jailbreak.2017.1080p.BluRay.x264-REGRET.mkv.mp4
+date=2018-11-02
+URL=https://uptobox.com/dkt7r596gzax
+#https://www.rapidvideo.com/e/FWTNJPKO3Z
+#https://openload.co/embed/9_BQIS9reGw/Jailbreak.2017.BluRay.1080p.5.1CH.x264.Ganol.st.mkv.mp4
+#https://openload.co/f/c17RZxWeCTE/Jailbreak.2017.1080p_BluRay_x264-REGRET.Ganool.mkv.mp4
+#https://openload.co/f/EgRGr3W9k3k/Jailbreak.2017.1080p.BluRay.x264-REGRET.mkv.mp4
 #https://openload.co/f/0bU4vA8eEFI/Jailbreak.2017.1080p.BluRay.x264-REGRET.mkv   MKV6.6GB
 #https://openload.co/f/AqlBYBPv5Z4/Jailbreak.2017.720p.BR_SeeHD.mp4
 
@@ -1503,8 +1521,10 @@ name=Christopher Robin (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR5w0he6czZkcAz459a4iPBqXGe.jpg
 date=2018-10-26
 URL=https://openload.co/f/qH7nPQD2lMI/Christopher.Robin.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/IOytJsc6Lus/christopher.robin.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/pYEwXUf1li4/Christopher_Robin_2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/5QVylv0xahs/Christopher.Robin.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/5CF8lT0LZ28/Christopher.Robin.2018.720p.BluRay.x264.DTS-FGT.mkv.mp4
 #https://openload.co/f/OZ-wRl6Zbjw/Christopher.Robin.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/6pjcCQel_S4/Christopher.Robin.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://openload.co/f/bTipjRNrvP8/Christopher_Robin_2018_720p_HDCAM-1xBET_SeeHD.mp4
@@ -9893,10 +9913,14 @@ URL=https://openload.co/f/8gz6u1Vj2ME/The_First_Purge_%282018%29%E0%B8%9B%E0%B8%
 
 
 type=video
-name=Along With the Gods: The Last 49 Days (2018) KOR 1080p.FHDRip.H264.AAC-HDMovie8
+name=Along With the Gods: The Last 49 Days (2018) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg
-date=2018-09-18
-URL=https://openload.co/f/xzTM53Ul5Ds/Along.with.the.Gods_The.Last.49.Days.2017.1080p.FHDRip.H264.AAC-HDMovie8.mp4
+date=2018-11-02
+URL=https://uptobox.com/dmzr8u1t3zm0
+#https://www.rapidvideo.com/e/FWU6T1ERZU
+#https://openload.co/embed/MLpwFSxO5po/Along.with.the.Gods.The.Last.49.Days.2017.BluRay.1080p.5.1CH.x264.Ganol.st.mkv
+#https://openload.co/f/Q11iMzwB7F8/Along.with.the.Gods.The.Last.49.Days.2017.1080p_BluRay_x264-WiKi.Ganool.mkv.mp4
+#https://openload.co/f/xzTM53Ul5Ds/Along.with.the.Gods_The.Last.49.Days.2017.1080p.FHDRip.H264.AAC-HDMovie8.mp4
 type=video
 name=Along With the Gods: The Last 49 Days (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg
@@ -10529,10 +10553,18 @@ URL=https://openload.co/f/UNTT6EbuTCc/The_Darkest_Minds_%282018%29%E0%B8%88%E0%B
 
 
 type=video
-name=Incredibles 2 (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
+name=Incredibles 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL9Uz2vq93vi20oxZEBBaSs4w8U.jpg
-date=2018-10-22
-URL=https://openload.co/f/yEvlc-Q9jZI/Incredibles.2.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+date=2018-11-02
+URL=https://uptobox.com/jmswkhdcmjcl
+#https://www.rapidvideo.com/e/FWTTNDVPE3
+#https://openload.co/embed/9NEnXZi62E4/GHPINCREDIBELS80.Ganol.st.mkv
+#https://openload.co/f/h4TOwT8XfG0/Incredibles.2.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/YfRuXqpqmGs/incredibles.2.2018.1080p.bluray.x264-sector7.mkv.mp4
+#https://openload.co/f/ekpRHFo6OKo/Incredibles_2_%282018%291080p_BluRay_x264-SECTOR7.Ganool.mkv.mp4
+#https://openload.co/f/KlJXMSBeCU4/Incredibles.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/RxC_htlt1zI/incredibles.2.2018.720p.bluray.x264-felony.mkv.mp4
+#https://openload.co/f/yEvlc-Q9jZI/Incredibles.2.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 #https://openload.co/f/_-__Ebqgadk/The.Incredibles.2.2018.720p.WEB-DL.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/y69L166rcUo/The.Incredibles.2.2018.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/CHeGGWwWQpg/Incredibles.2.2018.720p.TS.mp4
@@ -10549,8 +10581,9 @@ URL=https://openload.co/f/yEvlc-Q9jZI/Incredibles.2.2018.1080p.WEB-DL.DD5.1.H264
 type=video
 name=Incredibles 2 (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL9Uz2vq93vi20oxZEBBaSs4w8U.jpg
-date=2018-10-26
-URL=https://openload.co/f/hv3NUtjwfWk/Incredibles_2_%282018%29%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%84%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%82%E0%B8%A5%E0%B8%81_2.mp4
+date=2018-11-02
+URL=https://openload.co/f/8usOK2_MUK0/Incredibles_2_%282018%29%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%84%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%82%E0%B8%A5%E0%B8%81_2.mp4
+#https://openload.co/f/hv3NUtjwfWk/Incredibles_2_%282018%29%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%84%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%82%E0%B8%A5%E0%B8%81_2.mp4
 #https://streamango.com/f/pmornaclntnlddoo/Incredibles_2_2018_2_
 
 
@@ -10606,15 +10639,17 @@ URL=https://www.blazefile.co/embed-kz8il6wvc7kd.html
 type=video
 name=Peace Breaker (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Uje4tPPipTK58x2hNkJobnSHL.jpg
-date=2018-10-26
-URL=https://openload.co/f/gopsR_qfzxM/Peace_Breaker_%282017%29%E0%B8%AB%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B9%82%E0%B8%AB%E0%B8%94%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3.mp4
+date=2018-11-02
+URL=https://openload.co/f/Opq2jtGVRtw/Peace_Breaker_%282017%29%E0%B8%AB%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B9%82%E0%B8%AB%E0%B8%94%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3.mp4
+#https://openload.co/f/gopsR_qfzxM/Peace_Breaker_%282017%29%E0%B8%AB%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B9%82%E0%B8%AB%E0%B8%94%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3.mp4
 
 
 type=video
 name=Doraemon the Movie 2017: Nobita's Great Adventure in the Antarctic Kachi Kochi (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUvhVQ6wyO7qssQSJ1CiM93Di7P.jpg
-date=2018-10-26
-URL=https://openload.co/f/hjG6DQu9B10/Doraemon_the_Movie_2017%3A_Nobita%27s_Great_Adventure_in_the_Antarctic_Kachi_Kochi_%282017%29%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%99_%E0%B8%95%E0%B8%AD%E0%B8%99_%E0%B8%84%E0%B8%B2%E0%B8%8A%E0%B8%B4-%E0%B9%82%E0%B8%84%E0%B8%8A%E0%B8%B4_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%A7%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%99%E0%B8%9A%E0%B8%B4%E0%B8%95%E0%B8%B0.mp4
+date=2018-11-02
+URL=https://openload.co/f/50twiMhimO4/Doraemon_the_Movie_2017%3A_Nobita%27s_Great_Adventure_in_the_Antarctic_Kachi_Kochi_%282017%29%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%99_%E0%B8%95%E0%B8%AD%E0%B8%99_%E0%B8%84%E0%B8%B2%E0%B8%8A%E0%B8%B4-%E0%B9%82%E0%B8%84%E0%B8%8A%E0%B8%B4_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%A7%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%99%E0%B8%9A%E0%B8%B4%E0%B8%95%E0%B8%B0.mp4
+#https://openload.co/f/hjG6DQu9B10/Doraemon_the_Movie_2017%3A_Nobita%27s_Great_Adventure_in_the_Antarctic_Kachi_Kochi_%282017%29%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%99_%E0%B8%95%E0%B8%AD%E0%B8%99_%E0%B8%84%E0%B8%B2%E0%B8%8A%E0%B8%B4-%E0%B9%82%E0%B8%84%E0%B8%8A%E0%B8%B4_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%A7%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%99%E0%B8%9A%E0%B8%B4%E0%B8%95%E0%B8%B0.mp4
 #https://streamango.com/f/snbfltkcqdpqnfcf/Doraemon_the_Movie_2017_Nobita_s_Great_Adventure_in_the_Antarctic_Kachi_Kochi_2017_-_
 
 
@@ -11076,7 +11111,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-10-31
+date=2018-11-02
 URL=
 
 
@@ -11086,6 +11121,19 @@ URL=
 
 
 
+
+
+type=video
+name=The Princess Bride (1987) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpxjoE0yvRwIhFEJgNArtKtaN7S.jpg
+date=2018-11-02
+URL=https://openload.co/f/lueVq3aBSCg/The.Princess.Bride.1987.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Three Caballeros (1944) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cejsYPl5u9k9PY5WvIo62UdvZP.jpg
+date=2018-11-02
+URL=https://openload.co/f/vIM00ubiPKs/The.Three.Caballeros.1944.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Man in the Iron Mask (1998) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
