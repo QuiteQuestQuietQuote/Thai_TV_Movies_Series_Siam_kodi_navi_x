@@ -22,6 +22,8 @@ http://nationstream.nationgroup.com/hls/th_high.m3u8
 http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-m0CQiNgIFsE/WdLYrwlVJvI/AAAAAAAAAGQ/LN6pm_WcDJ49YL-0K_ytg9L2yWfZw4r6ACLcBGAs/s200/009.png",Spring News (Full HD)
 http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24
+http://27.254.130.64/live01/ch5.m3u8?p=
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_for-our
 http://main-a.for-our.info:8081/tv1/ch5.m3u8
 
@@ -2651,6 +2653,8 @@ rtmp://5-direct555-axd-10-xx.hnwzzy.com:1935/live/999888
 rtmp://125.227.27.196/385214775/tv/ttv11
 #EXTINF:-1,Happy_CH_CHN_rtmp
 rtmp://125.227.27.196/385214775/tv/ttv12
+#EXTINF:-1,French_rtsp
+rtsp://ss1.firestormmedia.tv:1935/ingest_cellcast/encoder31?channelID=252
 
 #EXTINF:-1,KOR_XXX
 http://122.38.74.172:9981/stream/channelid/1463854277
@@ -3169,7 +3173,7 @@ https://raipremium1-live.akamaized.net/hls/live/598328/raipremium1/raipremium_18
 #EXTINF:-1,HBO Hits
 http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8
 #EXTINF:-1,HBO
-http://telekomtv.ro.edgesuite.net/shls/LIVE$HBOHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+http://telekomtv.ro.edgesuite.net/shls/LIVE$HBOHD/6.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1,HBO 2
 http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1,HBO 3
@@ -3177,7 +3181,7 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO3HD/12.m3u8/Level(3670016)?start=
 #EXTINF:-1,Cinemax 1
 http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO_Cinemax_HD/12.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1,Cinemax 2
-http://telekomtv.ro.edgesuite.net/shls/LIVE$Cinemax2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Cinemax2HD/6.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1,Paramount Channel
 http://telekomtv.ro.edgesuite.net/shls/LIVE$Paramount/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,Chinese_Movies_hero
@@ -3287,39 +3291,213 @@ http://45.126.83.51/uq2663/h/h11/index.m3u8
 http://cdn2.bear-tv.com/freetv/TOT_Fyi/playlist.m3u8
 
 
-#EXTINF:-1,Discovery Science
+#EXTINF:-1,Discovery Science_airtelxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/index.m3u8
-#EXTINF:-1,Discovery WORLD HD
+#EXTINF:-1,Discovery WORLD HD_airtel
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
-#EXTINF:-1,LIVING FOODZ HD
+#EXTINF:-1,LIVING FOODZ HD_airtel
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226329/index.m3u8
-#EXTINF:-1,Sony BBC Earth HD
+#EXTINF:-1,Sony BBC Earth HD_airtel
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226280/03.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png",Discovery Channel
 http://80.80.160.168/live/8/live.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History
-http://telekomtv.ro.edgesuite.net/shls/LIVE$TheHistoryChannel/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
-http://telekomtv.ro.edgesuite.net/shls/LIVE$Discovery/6.m3u8/Level(1677721)?start=LIVE&end=END
-
-
-
-
 #EXTINF:-1  tvg-logo="https://miro.medium.com/fit/c/240/240/1*aQfL6JrXMI-kCNNt-1DFsQ.png",Tastemade
 https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index_7.m3u8
-#EXTINF:-1, Food Network
-http://telekomtv.ro.edgesuite.net/shls/LIVE$FoodNetwork/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1  tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png",Cooking Channel
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI
+
+
+#EXTINF:-1, Food Network_telekomtvxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+http://telekomtv.ro.edgesuite.net/shls/LIVE$FoodNetwork/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History_telekomtv
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TheHistoryChannel/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA_telekomtv
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Discovery/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI_telekomtv
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DiscoveryScience/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/12.m3u8/Level(3670016)?start=LIVE&end=END
 
 
-#EXTINF:0,DiscoveryWorld 
+
+
+
+
+
+
+
+#EXTINF:-1,CHN 1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+http://alhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+#EXTINF:-1,CHN 2
+http://alhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+#EXTINF:-1,CHN 50
+http://alhls.cdn.zhanqi.tv/zqlive/182325_z3jRr.m3u8
+#EXTINF:-1,CHN 52
+http://alhls.cdn.zhanqi.tv/zqlive/160122_5swCD.m3u8
+#EXTINF:-1,CHN 66
+http://alhls.cdn.zhanqi.tv/zqlive/264147_VU1iK.m3u8
+#EXTINF:-1,CHN 4
+http://alhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+#EXTINF:-1,CHN 5
+http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+
+
+#EXTINF:-1,US: Fox Buisiness _dreamiptvxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+http://dreamiptv.dyndns.tv:27444/aziz/123/103485 
+#EXTINF:-1,US: Fox News HD 
+http://dreamiptv.dyndns.tv:27444/aziz/123/80415 
+#EXTINF:-1,US: BBC AMERICA 
+http://dreamiptv.dyndns.tv:27444/aziz/123/99073 
+#EXTINF:-1,US: CNBC 
+http://dreamiptv.dyndns.tv:27444/aziz/123/76322 
+#EXTINF:-1,US: CNN News 
+http://dreamiptv.dyndns.tv:27444/aziz/123/75308 
+#EXTINF:-1,US: DISCOVERY CHANNEL 
+http://dreamiptv.dyndns.tv:27444/aziz/123/99030 
+#EXTINF:-1,US: DISCOVERY FAMILY 
+http://dreamiptv.dyndns.tv:27444/aziz/123/99029 
+#EXTINF:-1,US: DISCOVERY HD 
+http://dreamiptv.dyndns.tv:27444/aziz/123/75305 
+#EXTINF:-1,US: DISCOVERY SCIENCE 
+http://dreamiptv.dyndns.tv:27444/aziz/123/75304 
+#EXTINF:-1,US: DISCOVERY VELOCITY _dreamiptv
+http://dreamiptv.dyndns.tv:27444/aziz/123/94601 
+
+
+#EXTINF:-1,BBC News Channel _UKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+http://163.172.83.203:25461/emil/emil/48877 
+#EXTINF:-1,Discovery 
+http://163.172.83.203:25461/emil/emil/48898 
+#EXTINF:-1,Discovery Investigation 
+http://163.172.83.203:25461/emil/emil/48897 
+#EXTINF:-1,Discovery Science 
+http://163.172.83.203:25461/emil/emil/48896 
+#EXTINF:-1,Discovery-History 
+http://163.172.83.203:25461/emil/emil/48895 
+#EXTINF:-1,Discovery-Home-&Health 
+http://163.172.83.203:25461/emil/emil/48894 
+#EXTINF:-1,Nat Geographic HD 
+http://163.172.83.203:25461/emil/emil/48885 
+#EXTINF:-1,Sky Movies Premiere 
+http://163.172.83.203:25461/emil/emil/48931 
+#EXTINF:-1,Sky Movies Comedy 
+http://163.172.83.203:25461/emil/emil/48926 
+#EXTINF:-1,Sky Movies Crime & Thriller 
+http://163.172.83.203:25461/emil/emil/48925 
+#EXTINF:-1,Sky Movies Drama 
+http://163.172.83.203:25461/emil/emil/48928 
+#EXTINF:-1,Sky Movies Drama & Romance 
+http://163.172.83.203:25461/emil/emil/48927 
+#EXTINF:-1,Sky Movies Family 
+http://163.172.83.203:25461/emil/emil/48929 
+#EXTINF:-1,Sky Movies Modern Great 
+http://163.172.83.203:25461/emil/emil/48930 
+#EXTINF:-1,Sky Movies SciFi & Horror 
+http://163.172.83.203:25461/emil/emil/48935 
+#EXTINF:-1,Sky Movies Select 
+http://163.172.83.203:25461/emil/emil/48933 
+#EXTINF:-1,Sky Movies ShowCase 
+http://163.172.83.203:25461/emil/emil/48934 
+#EXTINF:-1,True Movies 1 
+http://163.172.83.203:25461/emil/emil/48915 
+#EXTINF:-1,True Movies 2 
+http://163.172.83.203:25461/emil/emil/48914 
+#EXTINF:-1,UK-L: BOX OFFICE SD/HD 
+http://163.172.83.203:25461/emil/emil/48936 
+#EXTINF:-1,UK-L: BOX OFFICE 1 SD/HD 
+http://163.172.83.203:25461/emil/emil/48940 
+#EXTINF:-1,UK-L: BOX OFFICE 2 SD/HD 
+http://163.172.83.203:25461/emil/emil/48939 
+#EXTINF:-1,UK-L: BOX OFFICE 3 SD/HD _UK
+http://163.172.83.203:25461/emil/emil/48938 
+
+
+
+
+#EXTINF:-1, DRAMA HD1 xxxxxxxxxxxxxxxxxxxxxxxxxxx
+http://89.38.96.146:5890/said01/01said/6000 
+#EXTINF:-1, SERIES HD1 
+http://89.38.96.146:5890/said01/01said/2705 
+#EXTINF:-1, SERIES HD2 
+http://89.38.96.146:5890/said01/01said/6031 
+#EXTINF:-1, MOVIES HD1 (PREMIERE) 
+http://89.38.96.146:5890/said01/01said/3119 
+#EXTINF:-1, MOVIES HD2 (ACTION) 
+http://89.38.96.146:5890/said01/01said/3120 
+#EXTINF:-1, MOVIES HD3 (DRAMA) 
+http://89.38.96.146:5890/said01/01said/3121 
+#EXTINF:-1, MOVIES HD4 (FAMILY) 
+http://89.38.96.146:5890/said01/01said/3122 
+#EXTINF:-1, AMC HD 
+http://89.38.96.146:5890/said01/01said/9011 
+#EXTINF:-1, FX HD 
+http://89.38.96.146:5890/said01/01said/7571 
+#EXTINF:-1, FOX HD 
+http://89.38.96.146:5890/said01/01said/3348 
+#EXTINF:-1, FOX MOVIES HD 
+http://89.38.96.146:5890/said01/01said/2645 
+#EXTINF:-1, FOX MOVIES ACTION HD 
+http://89.38.96.146:5890/said01/01said/7570 
+#EXTINF:-1, FOX MOVIES FAMILY HD 
+http://89.38.96.146:5890/said01/01said/7569 
+#EXTINF:-1, STAR WORLD HD 
+http://89.38.96.146:5890/said01/01said/7636 
+#EXTINF:-1, Fatafeat HD 
+http://89.38.96.146:5890/said01/01said/2651 
+#EXTINF:-1, GOURMET HD 
+http://89.38.96.146:5890/said01/01said/3692 
+#EXTINF:-1, DTX 
+http://89.38.96.146:5890/said01/01said/2653 
+#EXTINF:-1, DMAX HD 
+http://89.38.96.146:5890/said01/01said/2646 
+#EXTINF:-1, TRAVEL HD 
+http://89.38.96.146:5890/said01/01said/2647 
+#EXTINF:-1, Nat Geo Wild 
+http://89.38.96.146:5890/said01/01said/7631 
+#EXTINF:-1, NAT GEO PEOPLE HD 
+http://89.38.96.146:5890/said01/01said/7635 
+#EXTINF:-1, Animal Planet HD 
+http://89.38.96.146:5890/said01/01said/6032 
+#EXTINF:-1, FINE LIVING HD 
+http://89.38.96.146:5890/said01/01said/7998 
+#EXTINF:-1, JEEM KIDS 
+http://89.38.96.146:5890/said01/01said/2649 
+#EXTINF:-1, JUNIOR KIDS 
+http://89.38.96.146:5890/said01/01said/2648 
+#EXTINF:-1, DREAM WORK HD 
+http://89.38.96.146:5890/said01/01said/2652 
+#EXTINF:-1, BARAEM KIDS 
+http://89.38.96.146:5890/said01/01said/2650
+
+
+
+
+
+
+
+#EXTINF:0,DiscoveryWorld xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+http://190.2.130.6:8080/DiscoveryWorld/index.m3u8 
+#EXTINF:0,FineLivingHD 
+http://190.2.130.6:8080/FineLivingHD/index.m3u8 
+#EXTINF:0,BabyTV 
+http://190.2.130.6:8080/BabyTV/index.m3u8 
+#EXTINF:0,AMCHD 
+http://190.2.130.6:8080/AMCHD/index.m3u8 
+#EXTINF:0,CartoonNetwork 
+http://190.2.130.6:8080/CartoonNetwork/index.m3u8 
+#EXTINF:0,TLCHD 
+http://190.2.130.6:8080/TLCHD/index.m3u8 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0,DiscoveryWorld xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://190.2.130.6:8080/DiscoveryWorld/index.m3u8 
 #EXTINF:-1,cnex
 http://61.58.60.230:9000/live/257.m3u8
@@ -3341,6 +3519,8 @@ http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8
 http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
 https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_telekomtv
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1,DA Vinci
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
 
@@ -3353,6 +3533,8 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 http://persik.by/stream/1418/252987/10003.m3u8
 #EXTINF:-1,persik_nuart tv_B
 http://persik.by/stream/8460/291680/10003.m3u8
+#EXTINF:-1,nuart tv_udp
+http://212.19.14.230:81/udp/239.191.254.250:15285
 #EXTINF:-1,ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:0, Jasmin Tv 
@@ -3365,23 +3547,21 @@ http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunk
 #EXTINF:-1,hit_tv
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 
-
-#EXTINF:-1,CHN 1
-http://alhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
-#EXTINF:-1,CHN 2
-http://alhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
-#EXTINF:-1,CHN 50
-http://alhls.cdn.zhanqi.tv/zqlive/182325_z3jRr.m3u8
-#EXTINF:-1,CHN 52
-http://alhls.cdn.zhanqi.tv/zqlive/160122_5swCD.m3u8
-#EXTINF:-1,CHN 66
-http://alhls.cdn.zhanqi.tv/zqlive/264147_VU1iK.m3u8
-#EXTINF:-1,CHN 4
-http://alhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
-#EXTINF:-1,CHN 5
-http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:-1,andflixhd
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,andprivehd
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1,movie1
+http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
 
 
+
+
+
+#EXTINF:-1,CCTV10
+http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
+#EXTINF:-1,CCTV9
+http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
 #EXTINF:-1,Documentary_CHN
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://www.cgtn.com/public/bundle/images/event/live_DO.png",CGTN Documentary
@@ -3398,8 +3578,6 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL
 http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1,China_News
-http://live.italkdd.com/cds160/hls/channel023/channel023_2000.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News US HD
 https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_hd
