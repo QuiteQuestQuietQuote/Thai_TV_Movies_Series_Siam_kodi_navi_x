@@ -1342,12 +1342,18 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-04
+date=2018-11-05
 URL=
 
 
 
 
+
+type=video
+name=In the Aisles (2018) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrMAmjbexi6a0lUKT3LgBD3kpy8.jpg
+date=2018-11-05
+URL=https://openload.co/f/Uejv77RrVis/in.the.aisles.2018.1080p.bluray.x264-usury.mkv.mp4
 
 type=video
 name=Bao (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] Short
@@ -7208,10 +7214,11 @@ URL=https://openload.co/f/8HjWNItz084/Venom_%282018%29%E0%B9%80%E0%B8%A7%E0%B8%9
 
 
 type=video
-name=The House with a Clock in Its Walls (2018) ENG 720p_HDCAM-1XBET_SeeHD
+name=The House with a Clock in Its Walls (2018) ENG HDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
-date=2018-09-20
-URL=https://openload.co/f/5VmvSCnLG3U/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET_SeeHD.mp4
+date=2018-11-05
+URL=https://openload.co/f/wEeCU8Vy4Vk/housewithclockinitswall.HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/5VmvSCnLG3U/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/U1vqLDgenNU/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET.mp4-536p.mp4
 #https://openload.co/f/WJCwV2VC7Y8/The_House_with_a_Clock_in_Its_Walls_2018_HDCAM_NO_WATERMARK_Layar.mp4
 #https://openload.co/f/qsPshoGW8PY/The.House.with.a.Clock.in.its.Walls.2018.HDCAM.XviD-AVID.avi.mp4
@@ -10026,10 +10033,12 @@ URL=https://openload.co/f/qv611gUWxpE/Along_With_the_Gods%3A_The_Last_49_Days_%2
 
 
 type=video
-name=The Meg (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
+name=The Meg (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
-date=2018-10-30
-URL=https://openload.co/f/2Jr9Bt4IXwU/The.Meg.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-11-05
+URL=https://openload.co/f/BwnqNR_nTK0/The.Meg.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/wjlI484I7pE/The.Meg.2018.720p.BRRip.x264.mkv.mp4
+#https://openload.co/f/2Jr9Bt4IXwU/The.Meg.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/INefzMU6ac0/The.Meg.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/_paYAZ_UHbo/The_Meg_2018_1080p_WEB-DL-H264-DD_5.1-Zi%24t.mkv.mp4
 #https://openload.co/f/n68dVqz6c-4/The_Meg_2018_1080p_WEB-DL-H264-DD_5.1-Zi%24t.mkv.mp4

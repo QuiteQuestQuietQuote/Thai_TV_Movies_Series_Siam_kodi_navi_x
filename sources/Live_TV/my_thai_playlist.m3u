@@ -20,10 +20,13 @@ http://live.nationtv.tv/hls/ntv_th_hd.m3u8
 http://nationstream.nationgroup.com/hls/th_high.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL_720p
 http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-m0CQiNgIFsE/WdLYrwlVJvI/AAAAAAAAAGQ/LN6pm_WcDJ49YL-0K_ytg9L2yWfZw4r6ACLcBGAs/s200/009.png",Spring News (Full HD)
-http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24
 http://27.254.130.64/live01/ch5.m3u8?p=
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png",now 26
+http://27.254.130.64/live01/ch12.m3u8?p=
+
+#EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-m0CQiNgIFsE/WdLYrwlVJvI/AAAAAAAAAGQ/LN6pm_WcDJ49YL-0K_ytg9L2yWfZw4r6ACLcBGAs/s200/009.png",Spring News (Full HD)
+http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_for-our
 http://main-a.for-our.info:8081/tv1/ch5.m3u8
 
@@ -162,10 +165,6 @@ http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1,NewsmaxTV HD
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-
-
-
-
 
 
 
@@ -2542,6 +2541,8 @@ http://194.28.152.123:81/udp/225.0.0.107:1234
 http://194.28.152.123:81/udp/225.0.0.103:1234
 #EXTINF:-1,Playboy_udp
 http://91.203.209.92:3371/udp/239.195.2.5:1234
+#EXTINF:-1,VENUS_udp
+http://148.71.7.211:4022/udp/239.100.26.10:1234
 
 
 #EXTINF:-1,PenthouseHD_4005
@@ -2552,72 +2553,12 @@ http://31.41.20.14:4051
 http://176.67.202.21:6201/erotic3
 
 
-#EXTINF:-1,Hustler FHDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6442.m3u8
-#EXTINF:-1,Red Light FHD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6444.m3u8
-#EXTINF:-1,PENTHOUSE 1 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6412.m3u8
-#EXTINF:-1,PENTHOUSE 2 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6415.m3u8
-#EXTINF:-1,XXL
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6413.m3u8
-#EXTINF:-1,Sext Cento
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6439.m3u8
-#EXTINF:-1,BRAZZERS
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6414.m3u8
-#EXTINF:-1,Alba XXX-1
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6436.m3u8
-#EXTINF:-1,Alba XXX-2
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6437.m3u8
-#EXTINF:-1,Alba XXX-3
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6438.m3u8
-#EXTINF:-1,Alba XXX-4
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6443.m3u8
-#EXTINF:-1,Alba XXX-6
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/7945.m3u8
-#EXTINF:-1,Alba XXX-HD1
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/7946.m3u8
-#EXTINF:-1,Alba XXX-HD2
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/7947.m3u8
-#EXTINF:-1,CiNEBOX ADULT 1HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11588.m3u8
-#EXTINF:-1,CiNEBOX ADULT 2HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11589.m3u8
-#EXTINF:-1,CiNEBOX ADULT 3HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/11590.m3u8
-#EXTINF:-1,CiNEBOX PARTY HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/7948.m3u8
-#EXTINF:-1,CiNEBOX ASIAN HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/7949.m3u8
-#EXTINF:-1,CiNEBOX PUBLiC HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6421.m3u8
-#EXTINF:-1,CiNEBOX ANAL HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6422.m3u8
-#EXTINF:-1,CiNEBOX BLONDE HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6423.m3u8
-#EXTINF:-1,CiNEBOX HARDCORE HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6424.m3u8
-#EXTINF:-1,CiNEBOX GROUP HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6425.m3u8
-#EXTINF:-1,Hot Club 2 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6427.m3u8
-#EXTINF:-1,Hot Club 3 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6428.m3u8
-#EXTINF:-1,Hot Club 4 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6429.m3u8
-#EXTINF:-1,Hot Club 5 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6430.m3u8
-#EXTINF:-1,Hot Club 6 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6431.m3u8
-#EXTINF:-1,Hot Club 7 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6432.m3u8
-#EXTINF:-1,Hot Club 8 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6433.m3u8
-#EXTINF:-1,Hot Club 9 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6434.m3u8
-#EXTINF:-1,Hot Club 10 HD
-http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/6435.m3u8
+#EXTINF:-1,Ibiza TV3_1919HDTV.com
+http://streamnossl.1919hdtv.com:8880/live/_definst_/Stream3/playlist.m3u8
+#EXTINF:-1,Ibiza TV2_1919HDTV.com
+http://streamnossl.1919hdtv.com:8880/live/_definst_/Stream2/playlist.m3u8
+#EXTINF:-1,Ibiza TV1_1919HDTV.com
+http://streamnossl.1919hdtv.com:8880/live/_definst_/Stream1/playlist.m3u8
 
 
 #EXTINF:-1,Ibiza TV4_streamlock.net
@@ -2629,12 +2570,18 @@ https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream2/playlist.m3u8
 #EXTINF:-1,Ibiza TV1_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream1/playlist.m3u8
 
-#EXTINF:-1,Ibiza TV3_1919HDTV.com
-http://streamnossl.1919hdtv.com:8880/live/_definst_/Stream3/playlist.m3u8
-#EXTINF:-1,Ibiza TV2_1919HDTV.com
-http://streamnossl.1919hdtv.com:8880/live/_definst_/Stream2/playlist.m3u8
-#EXTINF:-1,Ibiza TV1_1919HDTV.com
-http://streamnossl.1919hdtv.com:8880/live/_definst_/Stream1/playlist.m3u8
+
+
+#EXTINF:-1,Ibiza TV3_1919HDTV.com_VIP
+http://ibiza-tv.1919hdtv.com:8880/lfh/Stream3/playlist.m3u8
+#EXTINF:-1,Ibiza TV2_1919HDTV.com_VIP
+http://ibiza-tv.1919hdtv.com:8880/lfh/Stream2/playlist.m3u8
+#EXTINF:-1,Ibiza TV1_1919HDTV.com_VIP
+http://ibiza-tv.1919hdtv.com:8880/lfh/Stream1/playlist.m3u8
+
+
+
+
 
 
 #EXTINF:-1,OURS_HD1
@@ -2668,6 +2615,10 @@ http://78.141.113.63:8001/1:0:16:3725:C8E:3:EB0000:0:0:0:
 http://5.135.92.138:58143/out/i/109_1.m3u8
 
 
+#EXTINF:-1,nuart
+http://84.236.90.124:9000/play/nuart
+#EXTINF:-1,Private
+http://84.236.90.124:9000/play/private
 
 #EXTINF:-1,nuart tv_a00l
 http://86.57.182.131:8905/play/a00l
@@ -3000,8 +2951,14 @@ http://210.210.155.35/uq2663/h/h02/02.m3u8
 http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
 #EXTINF:-1 group-title="movies" tvg-logo="http://html.login.in.th/flashstreaming/img/ch8.jpg",channel8thailand
 https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
-#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ii/180630033425.jpg",movie24
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ii/180630033425.jpg",movie24_rtmp
 rtmp://tv01.thaizatv.com/drm/movie1
+#EXTINF:-1,andflixhd
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,andprivehd
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1,movie1
+http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
 
 
 
@@ -3323,9 +3280,6 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$DiscoveryScience/6.m3u8/Level(167772
 
 
 
-
-
-
 #EXTINF:-1,CHN 1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://alhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
 #EXTINF:-1,CHN 2
@@ -3340,134 +3294,6 @@ http://alhls.cdn.zhanqi.tv/zqlive/264147_VU1iK.m3u8
 http://alhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
 #EXTINF:-1,CHN 5
 http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-
-
-#EXTINF:-1,US: Fox Buisiness _dreamiptvxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-http://dreamiptv.dyndns.tv:27444/aziz/123/103485 
-#EXTINF:-1,US: Fox News HD 
-http://dreamiptv.dyndns.tv:27444/aziz/123/80415 
-#EXTINF:-1,US: BBC AMERICA 
-http://dreamiptv.dyndns.tv:27444/aziz/123/99073 
-#EXTINF:-1,US: CNBC 
-http://dreamiptv.dyndns.tv:27444/aziz/123/76322 
-#EXTINF:-1,US: CNN News 
-http://dreamiptv.dyndns.tv:27444/aziz/123/75308 
-#EXTINF:-1,US: DISCOVERY CHANNEL 
-http://dreamiptv.dyndns.tv:27444/aziz/123/99030 
-#EXTINF:-1,US: DISCOVERY FAMILY 
-http://dreamiptv.dyndns.tv:27444/aziz/123/99029 
-#EXTINF:-1,US: DISCOVERY HD 
-http://dreamiptv.dyndns.tv:27444/aziz/123/75305 
-#EXTINF:-1,US: DISCOVERY SCIENCE 
-http://dreamiptv.dyndns.tv:27444/aziz/123/75304 
-#EXTINF:-1,US: DISCOVERY VELOCITY _dreamiptv
-http://dreamiptv.dyndns.tv:27444/aziz/123/94601 
-
-
-#EXTINF:-1,BBC News Channel _UKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-http://163.172.83.203:25461/emil/emil/48877 
-#EXTINF:-1,Discovery 
-http://163.172.83.203:25461/emil/emil/48898 
-#EXTINF:-1,Discovery Investigation 
-http://163.172.83.203:25461/emil/emil/48897 
-#EXTINF:-1,Discovery Science 
-http://163.172.83.203:25461/emil/emil/48896 
-#EXTINF:-1,Discovery-History 
-http://163.172.83.203:25461/emil/emil/48895 
-#EXTINF:-1,Discovery-Home-&Health 
-http://163.172.83.203:25461/emil/emil/48894 
-#EXTINF:-1,Nat Geographic HD 
-http://163.172.83.203:25461/emil/emil/48885 
-#EXTINF:-1,Sky Movies Premiere 
-http://163.172.83.203:25461/emil/emil/48931 
-#EXTINF:-1,Sky Movies Comedy 
-http://163.172.83.203:25461/emil/emil/48926 
-#EXTINF:-1,Sky Movies Crime & Thriller 
-http://163.172.83.203:25461/emil/emil/48925 
-#EXTINF:-1,Sky Movies Drama 
-http://163.172.83.203:25461/emil/emil/48928 
-#EXTINF:-1,Sky Movies Drama & Romance 
-http://163.172.83.203:25461/emil/emil/48927 
-#EXTINF:-1,Sky Movies Family 
-http://163.172.83.203:25461/emil/emil/48929 
-#EXTINF:-1,Sky Movies Modern Great 
-http://163.172.83.203:25461/emil/emil/48930 
-#EXTINF:-1,Sky Movies SciFi & Horror 
-http://163.172.83.203:25461/emil/emil/48935 
-#EXTINF:-1,Sky Movies Select 
-http://163.172.83.203:25461/emil/emil/48933 
-#EXTINF:-1,Sky Movies ShowCase 
-http://163.172.83.203:25461/emil/emil/48934 
-#EXTINF:-1,True Movies 1 
-http://163.172.83.203:25461/emil/emil/48915 
-#EXTINF:-1,True Movies 2 
-http://163.172.83.203:25461/emil/emil/48914 
-#EXTINF:-1,UK-L: BOX OFFICE SD/HD 
-http://163.172.83.203:25461/emil/emil/48936 
-#EXTINF:-1,UK-L: BOX OFFICE 1 SD/HD 
-http://163.172.83.203:25461/emil/emil/48940 
-#EXTINF:-1,UK-L: BOX OFFICE 2 SD/HD 
-http://163.172.83.203:25461/emil/emil/48939 
-#EXTINF:-1,UK-L: BOX OFFICE 3 SD/HD _UK
-http://163.172.83.203:25461/emil/emil/48938 
-
-
-
-
-#EXTINF:-1, DRAMA HD1 xxxxxxxxxxxxxxxxxxxxxxxxxxx
-http://89.38.96.146:5890/said01/01said/6000 
-#EXTINF:-1, SERIES HD1 
-http://89.38.96.146:5890/said01/01said/2705 
-#EXTINF:-1, SERIES HD2 
-http://89.38.96.146:5890/said01/01said/6031 
-#EXTINF:-1, MOVIES HD1 (PREMIERE) 
-http://89.38.96.146:5890/said01/01said/3119 
-#EXTINF:-1, MOVIES HD2 (ACTION) 
-http://89.38.96.146:5890/said01/01said/3120 
-#EXTINF:-1, MOVIES HD3 (DRAMA) 
-http://89.38.96.146:5890/said01/01said/3121 
-#EXTINF:-1, MOVIES HD4 (FAMILY) 
-http://89.38.96.146:5890/said01/01said/3122 
-#EXTINF:-1, AMC HD 
-http://89.38.96.146:5890/said01/01said/9011 
-#EXTINF:-1, FX HD 
-http://89.38.96.146:5890/said01/01said/7571 
-#EXTINF:-1, FOX HD 
-http://89.38.96.146:5890/said01/01said/3348 
-#EXTINF:-1, FOX MOVIES HD 
-http://89.38.96.146:5890/said01/01said/2645 
-#EXTINF:-1, FOX MOVIES ACTION HD 
-http://89.38.96.146:5890/said01/01said/7570 
-#EXTINF:-1, FOX MOVIES FAMILY HD 
-http://89.38.96.146:5890/said01/01said/7569 
-#EXTINF:-1, STAR WORLD HD 
-http://89.38.96.146:5890/said01/01said/7636 
-#EXTINF:-1, Fatafeat HD 
-http://89.38.96.146:5890/said01/01said/2651 
-#EXTINF:-1, GOURMET HD 
-http://89.38.96.146:5890/said01/01said/3692 
-#EXTINF:-1, DTX 
-http://89.38.96.146:5890/said01/01said/2653 
-#EXTINF:-1, DMAX HD 
-http://89.38.96.146:5890/said01/01said/2646 
-#EXTINF:-1, TRAVEL HD 
-http://89.38.96.146:5890/said01/01said/2647 
-#EXTINF:-1, Nat Geo Wild 
-http://89.38.96.146:5890/said01/01said/7631 
-#EXTINF:-1, NAT GEO PEOPLE HD 
-http://89.38.96.146:5890/said01/01said/7635 
-#EXTINF:-1, Animal Planet HD 
-http://89.38.96.146:5890/said01/01said/6032 
-#EXTINF:-1, FINE LIVING HD 
-http://89.38.96.146:5890/said01/01said/7998 
-#EXTINF:-1, JEEM KIDS 
-http://89.38.96.146:5890/said01/01said/2649 
-#EXTINF:-1, JUNIOR KIDS 
-http://89.38.96.146:5890/said01/01said/2648 
-#EXTINF:-1, DREAM WORK HD 
-http://89.38.96.146:5890/said01/01said/2652 
-#EXTINF:-1, BARAEM KIDS 
-http://89.38.96.146:5890/said01/01said/2650
 
 
 
@@ -3494,15 +3320,8 @@ http://190.2.130.6:8080/TLCHD/index.m3u8
 
 
 
-
-
-
 #EXTINF:0,DiscoveryWorld xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://190.2.130.6:8080/DiscoveryWorld/index.m3u8 
-#EXTINF:-1,cnex
-http://61.58.60.230:9000/live/257.m3u8
-#EXTINF:-1,opensky_CHN
-http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 #EXTINF:-1,Fish Channel 
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI
@@ -3523,6 +3342,10 @@ https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1,DA Vinci
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
+#EXTINF:-1,cnex
+http://61.58.60.230:9000/live/257.m3u8
+#EXTINF:-1,opensky_CHN
+http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
 
 #EXTINF:-1,PhoneCam
@@ -3547,21 +3370,13 @@ http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunk
 #EXTINF:-1,hit_tv
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 
-#EXTINF:-1,andflixhd
-http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1,andprivehd
-http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1,movie1
-http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
+
+
+#EXTINF:-1,nuart tv_udp_test
+http://148.71.7.211:4022/udp/239.191.254.250:15285
 
 
 
-
-
-#EXTINF:-1,CCTV10
-http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
-#EXTINF:-1,CCTV9
-http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
 #EXTINF:-1,Documentary_CHN
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://www.cgtn.com/public/bundle/images/event/live_DO.png",CGTN Documentary
