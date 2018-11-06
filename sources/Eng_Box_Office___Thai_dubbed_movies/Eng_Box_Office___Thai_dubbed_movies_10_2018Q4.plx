@@ -76,8 +76,11 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-04
+date=2018-11-06
 URL=
+
+
+
 
 
 
@@ -227,10 +230,12 @@ URL=https://openload.co/f/mo5HTgGEhFQ/The_Happytime_Murders_HDcam_SeeHD.avi.mp4
 #https://openload.co/f/NKbJ8AueDe4/The.Happytime.Murders.2018.720p.HDCAM.1XBET_SeeHD.mp4
 
 type=video
-name=Crazy Rich Asians (2018) ENG NEW_1080p_HDCAM_HQ-K1NGPU_SeeHD
+name=Crazy Rich Asians (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnTqi4nhIi1eesT5uYMmhEPGNih.jpg
-date=2018-10-12
-URL=https://openload.co/f/SV38rv5nr70/Crazy_Rich_Asians_2018_NEW_1080p_HDCAM_HQ-K1NGPU_SeeHD.mkv.mp4
+date=2018-11-06
+URL=https://openload.co/f/PUakpqQA_p0/Crazy.Rich.Asians.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/ECD5jP5b_2Y/Crazy.Rich.Asians.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/SV38rv5nr70/Crazy_Rich_Asians_2018_NEW_1080p_HDCAM_HQ-K1NGPU_SeeHD.mkv.mp4
 #https://openload.co/f/ah3SoVM7hjM/Crazy_Rich_Asians_2018_NEW_720p_TS-1XBET_SeeHD.mp4
 #https://openload.co/f/tvN8COoFZYQ/Crazy.Rich.Asians.2018.HDTS.XviD-AVID.avi.mp4
 #https://openload.co/f/DxmbGuLNA7M/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
@@ -251,16 +256,23 @@ URL=https://openload.co/f/MTIj7shXvFw/The.Little.Mermaid.2018.1080p.AMZN.WEB-DL.
 #https://openload.co/f/74DNspHO7os/The.Little.Mermaid.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 
 type=video
-name=Blindspotting (2018) ENG 1080p.WEB-DL.READ.INFO.H264-CMRG
+name=Blindspotting (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMQTd5g2NnYiS32Dcl75TqGSyrn.jpg
-date=2018-10-14
-URL=https://openload.co/f/ix3TYEcLll4/Blindspotting.2018.1080p.WEB-DL.READ.INFO.H264-CMRG.mkv.mp4
+date=2018-11-06
+URL=https://openload.co/f/ZwFpgwngKTU/Blindspotting.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/ujqsAe4JanQ/Blindspotting.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/ix3TYEcLll4/Blindspotting.2018.1080p.WEB-DL.READ.INFO.H264-CMRG.mkv.mp4
 #https://openload.co/f/mMVHfFdzJIs/Blindspotting.1080p.HD.CAMA_SeeHD.mkv.mp4
 #https://openload.co/f/FoA3E5P600A/Blindspotting.2018.720p.HDCAM.X264.24HD_SeeHD.mp4
 #https://openload.co/f/azKIM3efkXo/Blindspotting.2018.HDCAM.XviD-AVID.avi.mp4
 
 
-
+type=video
+name=The Miseducation of Cameron Post (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oraMTiBy5I7nTRmTtF2WoF7iNUy.jpg
+date=2018-11-06
+URL=https://openload.co/f/R1iFbhzjl5M/The.Miseducation.of.Cameron.Post.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/p1qEhhhRif0/The_Miseducation_of_Cameron_Post_720pHD_SeeHD.mkv.mp4
 
 
 
@@ -4197,6 +4209,10 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6s8emkS15KxQutXBdgZZlH523X
 date=2018-03-22
 URL=https://openload.co/f/vvkRza4GXUI/Mercy.Christmas.2017.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
 #https://openload.co/f/9WkaqOXgmLI/Mercy.Christmas.2017.1080p.BluRay.x264.DTS-MT.mkv.mp4
+#https://uptobox.com/5iur6jdxitx4   720
+#https://www.rapidvideo.com/e/FWYQSSZMHF   720
+#https://openload.co/embed/sogH4xb2a7U/MERRYCHRISTMASBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/Biv1a3m1K1g/Mercy_Christmas_%282017%29720p_BluRay_x264-JustWatch.Ganool.mkv.mp4
 
 type=video
 name=Father Figures (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7041,6 +7057,11 @@ URL=https://uptobox.com/uiy6n6f2r48x
 #https://openload.co/f/0f-llf6kduo/Padman_%282018%29720p_BluRay_x264-DTOne.Ganool.mkv.mp4
 
 
+type=video
+name=The Veil (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6xZjzexBG94KOsoGJQ8USRA8SS.jpg
+date=2018-11-06
+URL=https://openload.co/f/0X60l-Us9u0/The.Veil.2017.720p.BluRay.x264-PFa.mkv.mp4
 
 
 
@@ -7063,7 +7084,7 @@ URL=https://uptobox.com/uiy6n6f2r48x
 type=video
 name=
 thumb=
-date=2018-10-29
+date=2018-11-06
 URL=
 
 type=video
@@ -7154,10 +7175,11 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
-name=Hunter Killer (2018) ENG 720p_HDCAM-1XBET_SeeHD
+name=Hunter Killer (2018) ENG CAM.XViD-T3RR0R.SQU4D
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
-date=2018-10-29
-URL=https://openload.co/f/WH4Ch_m3VuA/Hunter_Killer_2018_720p_HDCAM-1XBET_SeeHD.mp4
+date=2018-11-06
+URL=https://openload.co/f/Vr_CK7ocuNw/Hunter.Killer.2018.CAM.XViD-T3RR0R.SQU4D.mp4
+#https://openload.co/f/WH4Ch_m3VuA/Hunter_Killer_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/tyPWaIr0L6I/Hunter_Killer_%282018%29HDCAM_XViD_AC3-ETRG.Ganool.mkv.mp4
 #https://openload.co/f/cxzuS6C8BUI/Hunter.Killer.2018.HDCAM.XviD-AVID.avi.mp4
 type=video
@@ -7314,10 +7336,12 @@ URL=https://openload.co/f/lid3G4MglmY/The_Predator_%282018%29%E0%B9%80%E0%B8%94%
 
 
 type=video
-name=Kin (2018) ENG 720p_HDCAM_X264-24HD_SeeHD
+name=Kin (2018) ENG 1080pHD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg
-date=2018-09-05
-URL=https://openload.co/f/gzmFS9oLl18/Kin_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
+date=2018-11-06
+URL=https://openload.co/f/aTzNLU8FTDM/Kin_1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/ugMV8Vk0VEs/Kin_2018_1080p_WEB_DL_DD5_1_H264_FGT.mkv.mp4
+#https://openload.co/f/gzmFS9oLl18/Kin_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/sRU_ZEJHE28/Kin_2018_720p_HDCAM_X264.mkv.mp4
 type=video
 name=Kin (2018) THCAM
@@ -9642,6 +9666,9 @@ name=Baahubali 2: The Conclusion (2017) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/sXf30F2HFpsFPXlNz7jpOySSV9I.jpg
 date=2018-03-04
 URL=https://www.blazefile.co/embed-t9vysu6dxiix.html
+#https://uptobox.com/ef9fotl1ah00   720
+#https://www.rapidvideo.com/e/FWYQMYDIOQ   720
+#https://openload.co/embed/briqMSQJOfI/SHQBAAHUBALITHECONCLUSION2BD72.Ganol.st.mkv.mp4
 type=video
 name=Baahubali 2: The Conclusion (2017) SUB
 thumb=http://image.tmdb.org/t/p/w500/sXf30F2HFpsFPXlNz7jpOySSV9I.jpg
@@ -9658,6 +9685,9 @@ name=Baahubali: The Beginning (2015) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
 thumb=http://image.tmdb.org/t/p/w500/5uurRfH9KdMiecCNTzO1MSi9Tqw.jpg
 date=2018-03-14
 URL=https://nl9.vidcdn.pro/hls/518b14c96928e12869733a34e669b425/sub.1.m3u8
+#https://www.blazefile.co/embed-pdwphxiwxjws.html   720
+#https://uptobox.com/7ol6j0sxhqvb   720
+#https://openload.co/embed/vbP6aAELgxk/BAAHUBALITHEBEGINNINGBD72.Ganol.st.mkv.mp4
 type=video
 name=Baahubali: The Beginning (2015) SUB
 thumb=http://image.tmdb.org/t/p/w500/5uurRfH9KdMiecCNTzO1MSi9Tqw.jpg
@@ -9977,10 +10007,14 @@ URL=https://openload.co/f/l3SNZ1BYN0I/Europe_Raiders_%282018%29%E0%B8%9E%E0%B8%A
 
 
 type=video
-name=Final Score (2018) ENG 1080p.HDTV.x264-PLUTONiUM
+name=Final Score (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jawqGBrUOHyXSyT7HknITUnL98.jpg
-date=2018-10-02
-URL=https://openload.co/f/y2kzjVUEXsI/Final.Score.2018.1080p.HDTV.x264-PLUTONiUM.mkv.mp4
+date=2018-11-06
+URL=https://uptobox.com/a99pwltbysg0
+#https://www.rapidvideo.com/e/FWYPO9QL5P
+#https://openload.co/embed/QCqMD0KV9WU/FINALSCROE80.Ganol.st.mkv
+#https://openload.co/f/VbPO8Iwz6GU/Final_Score_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+#https://openload.co/f/y2kzjVUEXsI/Final.Score.2018.1080p.HDTV.x264-PLUTONiUM.mkv.mp4
 type=video
 name=Final Score (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jawqGBrUOHyXSyT7HknITUnL98.jpg
@@ -10037,6 +10071,7 @@ name=The Meg (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg
 date=2018-11-05
 URL=https://openload.co/f/BwnqNR_nTK0/The.Meg.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/CBGvu0y5JME/The.Meg.2018.1080p.BluRay.x264.DD5.1-Pahe.in.mkv.mp4
 #https://openload.co/f/wjlI484I7pE/The.Meg.2018.720p.BRRip.x264.mkv.mp4
 #https://openload.co/f/2Jr9Bt4IXwU/The.Meg.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/INefzMU6ac0/The.Meg.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
@@ -10071,8 +10106,11 @@ URL=https://openload.co/f/hNDOAPbXsRQ/The_Meg_%282018%29%E0%B9%80%E0%B8%A1%E0%B9
 type=video
 name=Mission: Impossible - Fallout (2018) ENG 720p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
-date=2018-09-15
-URL=https://openload.co/f/8nGOGqeSUlU/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-11-06
+URL=
+#https://openload.co/f/cYuZ2R7maEQ/Mission_Impossible_Fallout_2018_1080p_WEB-DL_DD5.1_X264-24HD_SeeHD.mkv   MKV5.7GB
+#https://openload.co/f/Dul-gg1lJEU/Mission.Impossible.Fallout.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/8nGOGqeSUlU/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/3N5oYfnL714/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/68luywf77mA/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO.mp4
 #https://openload.co/f/EB0p8ZIdj80/Mission.Impossible.Fallout.2018.HC.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
