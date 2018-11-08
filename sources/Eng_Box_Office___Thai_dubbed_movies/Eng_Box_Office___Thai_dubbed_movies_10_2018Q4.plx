@@ -20,7 +20,7 @@ rating=-1.00
 
 
 
-
+ro
 
 
 
@@ -1342,12 +1342,43 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-07
+date=2018-11-08
 URL=
 
 
 
 
+
+
+
+type=video
+name=Pope Francis: A Man of His Word (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pGMnjyebbDY33AkWqaJbvC5eEo.jpg
+date=2018-11-08
+URL=https://openload.co/f/Ai_jwRL_t08/Pope.Francis.A.Man.of.His.Word.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Zoe (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5OwwhOCTF86cboGc4SgbOP4gKs.jpg
+date=2018-11-08
+URL=https://openload.co/f/c0ePKbZ1yPc/Zoe.2018.1080p.BR_SeeHD.mp4
+#https://uptobox.com/04zijg9byvh7   720
+#https://www.rapidvideo.com/e/FX1AMLBTSU   720
+#https://openload.co/embed/xQHp8p0bEZk/ZOEBD72.Ganol.st.mkv
+#https://openload.co/f/cAQEIF2PcY8/Zoe_%282018%29720p_BluRay_x264-GETiT.Ganool.mkv.mp4
+
+type=video
+name=Bel Canto (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pRvnOhFdANmdzDXfuLlZV9jwSb.jpg
+date=2018-11-08
+URL=https://uptobox.com/6mpwz24pbz4x
+#https://www.rapidvideo.com/e/FX0J9SJ3ZJ
+#https://openload.co/embed/k8FOLbUrWGs/BELCANTO80.Ganol.st.mkv.mp4
+#https://openload.co/f/BZlkY8JMt-c/Bel_Canto_%282018%291080p_BluRay_x264-CiNEFiLE.Ganool.mkv.mp4
+#https://uptobox.com/mso3r07nhpw5   720
+#https://www.rapidvideo.com/e/FX01LDF3BI   720
+#https://openload.co/embed/ZU2Y9bg1F00/BELCANTOBD72.Ganol.st.mkv
+#https://openload.co/f/2vp327RiEIs/Bel_Canto_%282018%29720p_BluRay_x264-CiNEFiLE.Ganool.mkv.mp4
 
 type=video
 name=The Veil (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7070,14 +7101,7 @@ URL=https://uptobox.com/uiy6n6f2r48x
 
 
 
-type=video
-name=Bel Canto (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pRvnOhFdANmdzDXfuLlZV9jwSb.jpg
-date=2018-11-07
-URL=https://uptobox.com/mso3r07nhpw5
-#https://www.rapidvideo.com/e/FX01LDF3BI
-#https://openload.co/embed/ZU2Y9bg1F00/BELCANTOBD72.Ganol.st.mkv
-#https://openload.co/f/2vp327RiEIs/Bel_Canto_%282018%29720p_BluRay_x264-CiNEFiLE.Ganool.mkv.mp4
+
 
 
 
@@ -10013,11 +10037,15 @@ URL=https://openload.co/f/6cSOArwGNnY/Searching_%282018%29%E0%B9%80%E0%B8%AA%E0%
 
 
 type=video
-name=Europe Raiders (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+name=Europe Raiders (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BEikhobwXkTS78dmgNQZNPg20n.jpg
-date=2018-11-07
-URL=https://uptobox.com/vx58e386e9h9
-#https://www.rapidvideo.com/e/FWZWL70V4V
+date=2018-11-08
+URL=https://uptobox.com/jn6r9yhul137
+#https://www.rapidvideo.com/e/FX0P8NSZHH
+#https://openload.co/embed/pvEKc2txN8g/Europe.Raiders.2018.BluRay.1080p.5.1CH.x264.Ganol.st.mkv.mp4
+#https://openload.co/f/NeJY6y3r06E/Europe.Raiders.2018.1080p_BluRay_AC3_x264-WiKi.Ganool.mkv.mp4
+#https://uptobox.com/vx58e386e9h9   720
+#https://www.rapidvideo.com/e/FWZWL70V4V   720
 #https://openload.co/embed/Vfde1xsUXkE/Europe.Raiders.2018.BluRay.720p.750MB.Ganol.st.mkv.mp4
 #https://openload.co/f/AFNOzgW_erk/Europe.Raiders.2018.720p_BluRay_AC3_x264-WiKi.Ganool.mkv.mp4
 type=video

@@ -13,6 +13,50 @@
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS_1080p
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV_1080p
+http://live.nationtv.tv/hls/ntv_th_hd.m3u8
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png",now 26_1080p
+http://nationstream.nationgroup.com/hls/th_high.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL_720p
+http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24
+http://27.254.130.64/live01/ch5.m3u8?p=
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png",now 26
+http://27.254.130.64/live01/ch12.m3u8?p=
+
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://1.bp.blogspot.com/-EXQx5Dd5E9U/WdLYuI86vUI/AAAAAAAAAGw/CBg2Q3TQJFIzZM9V5xf8TdVQJgh5UEksgCLcBGAs/s200/017.png",1MONO 29_mono1080
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1151192974.m3u8
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,1MCOT HD_mcot1080
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Free_TV" tvg-logo="http://www.thaiptv.com/img/thairathtv%20small.jpg",1Thairath TV_Thairath720
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD
+http://119.59.125.74/stream/totnew.php?channel_id=623d009180394c528880c14e2254452a&.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://3.bp.blogspot.com/-B5v7X3YA0iM/WdLYqp9VLyI/AAAAAAAAAF4/supjFV2u7IkebpGlnSsG6_23pBXillgrgCLcBGAs/s200/001.png",CHANNEL 3_HD
 http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 
@@ -62,8 +106,7 @@ http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil
 #EXTINF:-1 group-title="Free_TV" tvg-logo="http://www.thaiptv.com/img/thairathtv%20small.jpg",Thairath TV_Thairath720
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 
-#EXTINF:-1,CTB
-http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+
 
 
 
@@ -1008,12 +1051,19 @@ http://dlhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
 http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
 #EXTINF:-1,Movies_Chinese_
 http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8
-#EXTINF:-1,HBO
-http://80.87.208.158:80/dna-151-tv-pc.m3u8
-#EXTINF:-1,HBO2
-http://80.87.208.158:80/dna-576-tv-pc.m3u8
+#EXTINF:-1,HBO_PLTV
+http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:-1,HBO_transvision_indo
+http://210.210.155.35/session/98bcfbb2-cd03-11e8-8197-b82a72d63267/uq2663/h/h231/index2.m3u8
+#EXTINF:-1,HBO_rahman
+http://194.88.107.101:6204/rahman/rahman/8344
 
 
+
+#EXTINF:-1,KIX_TH
+http://210.210.155.35/uq2663/h/h07/index1.m3u8
+#EXTINF:-1,movie1
+http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
 #EXTINF:-1,movie24
 rtmp://tv01.thaizatv.com/drm/movie1
 #EXTINF:-1 group-title="movies" tvg-logo="http://html.login.in.th/flashstreaming/img/ch8.jpg",channel8thailand
@@ -1023,6 +1073,10 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
 
 
+
+
+#EXTINF:-1,Chinese1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
 #EXTINF:-1,CHN 1
 http://alhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
 #EXTINF:-1,CHN 2
@@ -1043,6 +1097,38 @@ http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 
 
 
+
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_telekomtv
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,cnex
+http://61.58.60.230:9000/live/257.m3u8
+#EXTINF:-1,opensky_CHN
+http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
+#EXTINF:-1,DA Vinci
+http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History_TH
+http://103.7.57.17:1935/live1/Rhistory.stream/chunklist_w767108699_tkd293emF0b2tlbmVuZHRpbWU9MTUzMzY2NDE3OSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9N2g1ZVNVVEw3Vmp6QXFoMktqYTVScGZmVVEtZkxhaWY5M1JLdmxtOXZJaz0=.m3u8
+#EXTINF:-1  tvg-logo="http://image.free.in.th/v/2013/ir/180628100717.png",History2_TH
+http://103.7.57.17:1935/live1/H2HDrut.stream/chunklist_w1690635951_tkd293emF0b2tlbmVuZHRpbWU9MTUzMzY2NDMwNSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9UlVUUzZuU2dFT1I1M25MN3pFdk1CdENLbDVhb25MY1B5VlF5RlRHbmN3az0=.m3u8
+#EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_bear-tv
+http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE_bear-tv
+http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8
+#EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
+https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://www.cgtn.com/public/bundle/images/event/live_DO.png",CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://www.cgtn.com/public/bundle/images/event/live_EN.png",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/CNA-logo.gif",Channel News Asia
+https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png",NHK WORLD HD
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ia/180712050027.png",BBC NEWS_HD
+http://jabber.divan.tv:8008/tv.m3u8
 
 
 
