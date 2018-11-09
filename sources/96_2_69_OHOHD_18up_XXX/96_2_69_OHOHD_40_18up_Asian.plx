@@ -56,6 +56,74 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+type=video
+name=78xxxxxxxxxxxxxxxxxxxxOkusama Denwa Sodan (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Okusama-Denwa-Sodan-2017.jpg
+date=2018-11-09
+URL=https://streamcherry.com/embed/kfmcmkfcofamntsr/
+
+type=video
+name=Mil Ae Chingueomma (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Mil-Ae-Chingueomma-2017-Uncut.jpg
+date=2018-11-09
+URL=https://streamcherry.com/embed/doefskqeeemttske/
+
+type=video
+name=Dannano Jyousitohurin (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Dannano-Jyousitohurin-2016.jpg
+date=2018-11-09
+URL=https://streamcherry.com/embed/kllkleafdbtqcmfm/
+
+type=video
+name=Seiyoku Yosojitumatati-no Yokubo (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Seiyoku-Yosojitumatati-no-Yokubo-2017.jpg
+date=2018-11-09
+URL=https://streamcherry.com/embed/qstskampleqkfkfd/
+
+type=video
+name=Wandering swallowtail butterfly trout (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Wandering-swallowtail-butterfly-trout-2017.jpg
+date=2018-11-09
+URL=https://streamcherry.com/embed/dktefnqdbsnoaonn/
+
+
+type=video
+name=The price of the female president who betrayed her husband (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/The-price-of-the-female-president-who-betrayed-her-husband-2017.jpg
+date=2018-11-09
+URL=https://streamcherry.com/embed/mskspmltdbqsfnms/
+
+type=video
+name=Playing with fire of wife (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Playing-with-fire-of-wife-2017.jpg
+date=2018-11-09
+URL=https://streamcherry.com/embed/ptedrascotaetbmd/
+
+type=video
+name=Eomma Chingudeulgwaui Jeongsa (2018) [Nocut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Eomma-Chingudeulgwaui-Jeongsa-2018-Nocut.jpg
+date=2018-11-09
+URL=https://streamcherry.com/embed/fmqsfqtbedbodonr/
+
+type=video
+name=Nae Chinguui Eommadeul (2018) [Nocut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Nae-Chinguui-Eommadeul-2018-Nocut.jpg
+date=2018-11-09
+URL=https://streamcherry.com/embed/saeqrnsbcflbnese/
+
+
+
+
+
 type=video
 name=69xxxxxxxxxxxxxxxxxxxxJeongsa Sachon Yeodongsaengdeul (2018)
 thumb=https://erotic24hr.com/wp-content/uploads/2018/10/Jeongsa-Sachon-Yeodongsaengdeul-2018.jpg

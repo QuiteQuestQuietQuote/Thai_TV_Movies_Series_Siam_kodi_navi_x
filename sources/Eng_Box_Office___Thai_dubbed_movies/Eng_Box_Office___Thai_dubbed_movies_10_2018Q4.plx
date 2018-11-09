@@ -20,7 +20,6 @@ rating=-1.00
 
 
 
-ro
 
 
 
@@ -124,10 +123,11 @@ date=2018-10-26
 URL=https://openload.co/f/HM-dmohGv4g/King_of_Thieves_2018_720p_TS-1XBET_SeeHD.mp4
 
 type=video
-name=Night School (2018) ENG 720p_TS-1XBET_SeeHD
+name=Night School (2018) ENG 1080p_TC_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NSMAaBPSbWv7sGmF8oLGMNb8Qm.jpg
-date=2018-10-21
-URL=https://openload.co/f/rdeQMat_PxU/Night_School_2018_720p_TS-1XBET_SeeHD.mp4
+date=2018-11-09
+URL=https://openload.co/f/7PBX4T1L4pw/Night_School_2018_1080p_TC_SeeHD.mkv.mp4
+#https://openload.co/f/rdeQMat_PxU/Night_School_2018_720p_TS-1XBET_SeeHD.mp4
 #https://openload.co/f/vmWxHB1gsaI/Night_School_2018_720p_TS-1XBET.mp4
 
 
@@ -2095,16 +2095,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YUBka56t4HcHLVMGnGA1WizpM
 date=2018-09-28
 URL=https://openload.co/f/5cJDv45poTk/Toilet.Ek.Prem.Katha.2017.Hindi.1080p.BluRay.x264.mp4
 
-type=video
-name=Leave No Trace (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/awGdHLQdPARAWyiT4hzu1ZFdsHO.jpg
-date=2018-09-28
-URL=https://uptobox.com/7ead2a0jdeme
-#https://www.rapidvideo.com/e/FVPOZV7Z0R
-#https://openload.co/embed/qEsJQG0Xh4Y/GHPLEAVENOTRACE80.Ganol.st.mkv
-#https://openload.co/f/ajTlFPPcjr8/Leave.No.Trace.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/T4-0M-cIzY8/Leave_No_Trace_%282018%291080p_BluRay_x264-SAPHiRE.Ganool.mkv.mp4
-#https://openload.co/f/J1WvVU3KyS0/Leave.No.Trace.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
+
 
 type=video
 name=Don't Worry, He Won't Get Far on Foot (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3072,8 +3063,12 @@ URL=https://openload.co/f/06swD85X9Y4/Disobedience.2017.1080p.BR_SeeHD.mp4
 type=video
 name=I Feel Pretty (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZe6x2fKtwVDsAvZQ9fnIJznBrc.jpg
-date=2018-07-05
-URL=https://openload.co/f/uLUdK3KMciY/I.Feel.Pretty.2018.1080p.BR_SeeHD.mp4
+date=2018-11-09
+URL=https://uptobox.com/t6b5cieymvqk
+#https://www.rapidvideo.com/e/FX1ZPXO0UN
+#https://openload.co/embed/GJIbZy2acGc/GHPIFEELPRETTY80.Ganol.st.mkv.mp4
+#https://openload.co/f/85BoxfZ6wmg/I_Feel_Pretty_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+#https://openload.co/f/uLUdK3KMciY/I.Feel.Pretty.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/HO_Twe-iuBY/i.feel.pretty.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/gzZDHoio59k/I.Feel.Pretty.2018.720phd_SeeHD.mkv.mp4
 #https://openload.co/f/k9PBsLCEBMw/I.Feel.Pretty.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
@@ -7211,10 +7206,11 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
-name=Hunter Killer (2018) ENG CAM.XViD-T3RR0R.SQU4D
+name=Hunter Killer (2018) ENG CAM.XViD-T3RR0R_SQU4D_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
-date=2018-11-06
-URL=https://openload.co/f/Vr_CK7ocuNw/Hunter.Killer.2018.CAM.XViD-T3RR0R.SQU4D.mp4
+date=2018-11-09
+URL=https://openload.co/f/I9_ENs0lU-A/Hunter.Killer.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
+#https://openload.co/f/Vr_CK7ocuNw/Hunter.Killer.2018.CAM.XViD-T3RR0R.SQU4D.mp4
 #https://openload.co/f/WH4Ch_m3VuA/Hunter_Killer_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/tyPWaIr0L6I/Hunter_Killer_%282018%29HDCAM_XViD_AC3-ETRG.Ganool.mkv.mp4
 #https://openload.co/f/cxzuS6C8BUI/Hunter.Killer.2018.HDCAM.XviD-AVID.avi.mp4
@@ -7349,10 +7345,12 @@ URL=https://openload.co/f/-2e2dhkFJX0/Peppermint_%282018%29%E0%B8%99%E0%B8%B2%E0
 
 
 type=video
-name=The Predator (2018) ENG NOLOGO.NEW.720p.Telesync
+name=The Predator (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
-date=2018-10-06
-URL=https://openload.co/f/pWpbXzEqrwI/The.Predator.2018.NOLOGO.NEW.720p.Telesync.mp4
+date=2018-11-09
+URL=https://openload.co/f/Sq_bHkOyhsg/The.Predator.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/KhCTO6F_AwU/The.Predator.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
+#https://openload.co/f/pWpbXzEqrwI/The.Predator.2018.NOLOGO.NEW.720p.Telesync.mp4
 #https://openload.co/f/v01aS6svE6E/The.Predator.2018.CLEAN.NEW.720p.TELESYNC.mkv.mp4
 #https://openload.co/f/1W4qs2550Sc/The_Predator_2018_NEW_720p_HDCAM-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/JzqururTlsI/The_Predator_2018_NEW_720p_HDCAM_V2-1XBET_SeeHD.mp4
@@ -7512,23 +7510,7 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 
 
 
-type=video
-name=Along with the Gods: The Two Worlds (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ2djaODo2IC4kBCvNvfTwV8ZpH.jpg
-date=2018-04-02
-URL=https://www.blazefile.co/embed-k6ccfepfv1a7.html
-#https://uptobox.com/bb3dgg6yahi3
-#https://www.blazefile.co/embed-ep6yte1h39mc.html   720
-#https://uptobox.com/n8j2hk3vw11i   720
-#https://openload.co/f/f4e0Q_mErJ0/along.with.the.gods.the.two.worlds.2017.limited.720p.bluray.x264-usury.mkv.mp4
-#https://openload.co/f/cPbb0SCvzYc/Along.with.the.Gods.The.Two.Worlds.2017.720p.BluRay.x264.DD5.1-MT.mkv.mp4
-#https://openload.co/f/eSh-tToMcZE/Along.With.the.Gods.The.Two.Worlds.2017.1080p.FHDRip.H264.AAC.NonDRM.mp4
-type=video
-name=Along with the Gods: The Two Worlds (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ2djaODo2IC4kBCvNvfTwV8ZpH.jpg
-date=2018-02-17
-URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds_2017_7_
-#https://streamango.com/f/sdrrrroqtqkkfsmc/Along_with_the_Gods_The_Two_Worlds_2017_7_
+
 
 
 
@@ -9949,26 +9931,7 @@ URL=https://openload.co/f/a8uGQjWj-7M/A.X.L._%282018%29%E0%B9%81%E0%B8%AD%E0%B8%
 #https://openload.co/f/xKvKQKeBi5I/A.X.L._%282018%29%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B8%A5%3A_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=Alpha (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
-date=2018-10-26
-URL=https://openload.co/f/YBg5krE5b3Y/Alpha.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/xs6o0XjLu2U/Alpha.2018.720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/unLIJ-Z7HiM/Alpha.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/Qiqs4I-DyCs/Alpha.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv   MKV3.3GB
-#https://openload.co/f/H0Al6Q6dUo0/Alpha.2018.720pHD_SeeHD.mkv   MKV3.0GB
-#https://openload.co/f/dVjiLJIbNOU/Alpha.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv   MKV3.0GB
-#https://openload.co/f/WmQZlIG_tHk/Alpha_2018_NEW_720p_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/0kwFGuTf9LY/Alpha_2018_NEW_720p_HDCAM_ENG_SUB-24HD_SeeHD.mp4
-#https://openload.co/f/E-KpG1hlEXY/Alpha_2018_NOLOGO_CAM-1XBET.mp4
-#https://openload.co/f/TDsbq--aNhA/Alpha_2018_CAM_x264-1XBET.mp4
-type=video
-name=Alpha (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
-date=2018-10-28
-URL=https://openload.co/f/SDY3S92DgtE/Alpha_%282018%29%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_20%2C000_%E0%B8%9B%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/VGbz3dsmCxQ/Alpha_%282018%29%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_20%2C000_%E0%B8%9B%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
@@ -9990,33 +9953,7 @@ URL=https://openload.co/f/wNuqZS5UCIU/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8
 #https://openload.co/f/EN0pPmSU45M/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=The Spy Who Dumped Me (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
-date=2018-10-18
-URL=https://uptobox.com/6t38teon7330
-#https://www.rapidvideo.com/e/FWCW6CAQ9X
-#https://openload.co/embed/s_-CmBi4Mic/GHPTHESPYWHODUMPEDME80.Ganol.st.mkv
-#https://openload.co/f/6veGzVibtdA/the.spy.who.dumped.me.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/Xv9UuyjNC1c/The_Spy_Who_Dumped_Me_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
-#https://openload.co/f/VeihPBAup4c/The.Spy.Who.Dumped.Me.2018.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/Ot03AR-GpCk/The_Spy_Who_Dumped_Me_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv   MKV1.6GB
-#https://openload.co/f/sijMblb4dwk/The.Spy.Who.Dumped.Me.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/qAd6ajwMqkE/The.Spy.Who.Dumped.Me.2018.720p.BluRay.x265.HEVC-Pahe.in_21Cineplex.mkv.mp4
-#https://openload.co/f/2U2wDLK7Rh4/The.Spy.Who.Dumped.Me.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/rrdw56k5sqY/The.Spy.Who.Dumped.Me.2018.1080pHD_SeeHD.mkv.mp4
-#https://openload.co/f/EpUAqlYDTYs/The.Spy.Who.Dumped.Me.2018.1080pHD_SeeHD.mkv   MKV2.7GB
-#https://openload.co/f/43pcRtmffLE/The.Spy.Who.Dumped.Me.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/QZPA21mDd-4/The.Spy.Who.Dumped.Me.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/x51Bm-O3jbU/The_Spy_Who_Dumped_Me_2018_720p_HDCAM_PROPER_SeeHD.mkv.mp4
-#https://openload.co/f/_UTH_XC0K4o/The.Spy.Who.Dumped.Me.2018.720p.HDCAM.1XBET_SeeHD.mp4
-#https://openload.co/f/wHv_A2QTR80/The.Spy.Who.Dumped.Me.2018.HDCAM.XviD-AV.2018.HDCAM.XviD-AVID.avi.mp4
-type=video
-name=The Spy Who Dumped Me (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
-date=2018-10-18
-URL=https://openload.co/f/2cUxMTdQSAg/The_Spy_Who_Dumped_Me_%282018%29%E0%B8%AA%E0%B8%9B%E0%B8%B2%E0%B8%A2_%E0%B8%AA%E0%B8%A7%E0%B8%A1%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://streamango.com/f/dcrafonlelcdrtlo/The_Spy_Who_Dumped_Me_2018_
+
 
 
 type=video
@@ -10079,20 +10016,7 @@ URL=https://openload.co/f/K4joqrl2EDA/Final_Score_%282018%29%E0%B8%A2%E0%B8%B8%E
 
 
 
-type=video
-name=Along With the Gods: The Last 49 Days (2018) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg
-date=2018-11-02
-URL=https://uptobox.com/dmzr8u1t3zm0
-#https://www.rapidvideo.com/e/FWU6T1ERZU
-#https://openload.co/embed/MLpwFSxO5po/Along.with.the.Gods.The.Last.49.Days.2017.BluRay.1080p.5.1CH.x264.Ganol.st.mkv
-#https://openload.co/f/Q11iMzwB7F8/Along.with.the.Gods.The.Last.49.Days.2017.1080p_BluRay_x264-WiKi.Ganool.mkv.mp4
-#https://openload.co/f/xzTM53Ul5Ds/Along.with.the.Gods_The.Last.49.Days.2017.1080p.FHDRip.H264.AAC-HDMovie8.mp4
-type=video
-name=Along With the Gods: The Last 49 Days (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg
-date=2018-09-21
-URL=https://openload.co/f/qv611gUWxpE/Along_With_the_Gods%3A_The_Last_49_Days_%282018%29%E0%B8%9D%E0%B9%88%E0%B8%B2_7_%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
 
 
 
@@ -10566,6 +10490,27 @@ rating=-1.00
 description=In this Pokémon adventure, a mysterious force binds Ash to the Mythical Pokémon Volcanion when it falls from the sky. Volcanion can�??t get away, and Ash is dragged along as it continues on its mission. They arrive in a city of cogs and gears, where a corrupt minister has stolen the ultimate invention: the Artificial Pokémon Magearna, created 500 years ago. The minister plans to use Magearna�??s mysterious power to take control of the mechanical kingdom. Can Ash and Volcanion work together to rescue Magearna? One of the greatest battles in Pokémon history is about to unfold!/description
 
 
+type=video
+name=Along with the Gods: The Two Worlds (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ2djaODo2IC4kBCvNvfTwV8ZpH.jpg
+date=2018-04-02
+URL=https://www.blazefile.co/embed-k6ccfepfv1a7.html
+#https://uptobox.com/bb3dgg6yahi3
+#https://www.blazefile.co/embed-ep6yte1h39mc.html   720
+#https://uptobox.com/n8j2hk3vw11i   720
+#https://openload.co/f/f4e0Q_mErJ0/along.with.the.gods.the.two.worlds.2017.limited.720p.bluray.x264-usury.mkv.mp4
+#https://openload.co/f/cPbb0SCvzYc/Along.with.the.Gods.The.Two.Worlds.2017.720p.BluRay.x264.DD5.1-MT.mkv.mp4
+#https://openload.co/f/eSh-tToMcZE/Along.With.the.Gods.The.Two.Worlds.2017.1080p.FHDRip.H264.AAC.NonDRM.mp4
+type=video
+name=Along with the Gods: The Two Worlds (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ2djaODo2IC4kBCvNvfTwV8ZpH.jpg
+date=2018-02-17
+URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds_2017_7_
+#https://streamango.com/f/sdrrrroqtqkkfsmc/Along_with_the_Gods_The_Two_Worlds_2017_7_
+
+
+
+
 
 
 
@@ -10617,7 +10562,7 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=
 thumb=
-date=2018-11-07
+date=2018-11-09
 URL=
 
 
@@ -10626,7 +10571,98 @@ URL=
 
 
 
+type=video
+name=Alpha (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
+date=2018-10-26
+URL=https://openload.co/f/YBg5krE5b3Y/Alpha.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/xs6o0XjLu2U/Alpha.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/unLIJ-Z7HiM/Alpha.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/Qiqs4I-DyCs/Alpha.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv   MKV3.3GB
+#https://openload.co/f/H0Al6Q6dUo0/Alpha.2018.720pHD_SeeHD.mkv   MKV3.0GB
+#https://openload.co/f/dVjiLJIbNOU/Alpha.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv   MKV3.0GB
+#https://openload.co/f/WmQZlIG_tHk/Alpha_2018_NEW_720p_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/0kwFGuTf9LY/Alpha_2018_NEW_720p_HDCAM_ENG_SUB-24HD_SeeHD.mp4
+#https://openload.co/f/E-KpG1hlEXY/Alpha_2018_NOLOGO_CAM-1XBET.mp4
+#https://openload.co/f/TDsbq--aNhA/Alpha_2018_CAM_x264-1XBET.mp4
+type=video
+name=Alpha (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
+date=2018-11-09
+URL=https://openload.co/f/GMA2jNk4hJ0/Alpha_%282018%29%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_20%2C000_%E0%B8%9B%E0%B8%B5.mp4
+#https://openload.co/f/SDY3S92DgtE/Alpha_%282018%29%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_20%2C000_%E0%B8%9B%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/VGbz3dsmCxQ/Alpha_%282018%29%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_20%2C000_%E0%B8%9B%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
+
+type=video
+name=Along With the Gods: The Last 49 Days (2018) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg
+date=2018-11-02
+URL=https://uptobox.com/dmzr8u1t3zm0
+#https://www.rapidvideo.com/e/FWU6T1ERZU
+#https://openload.co/embed/MLpwFSxO5po/Along.with.the.Gods.The.Last.49.Days.2017.BluRay.1080p.5.1CH.x264.Ganol.st.mkv
+#https://openload.co/f/Q11iMzwB7F8/Along.with.the.Gods.The.Last.49.Days.2017.1080p_BluRay_x264-WiKi.Ganool.mkv.mp4
+#https://openload.co/f/xzTM53Ul5Ds/Along.with.the.Gods_The.Last.49.Days.2017.1080p.FHDRip.H264.AAC-HDMovie8.mp4
+type=video
+name=Along With the Gods: The Last 49 Days (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg
+date=2018-11-09
+URL=https://openload.co/f/GIT0Ufp2eNQ/Along_With_the_Gods%3A_The_Last_49_Days_%282018%29%E0%B8%9D%E0%B9%88%E0%B8%B2_7_%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2_2.mp4
+#https://openload.co/f/qv611gUWxpE/Along_With_the_Gods%3A_The_Last_49_Days_%282018%29%E0%B8%9D%E0%B9%88%E0%B8%B2_7_%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
+type=video
+name=The Spy Who Dumped Me (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
+date=2018-10-18
+URL=https://uptobox.com/6t38teon7330
+#https://www.rapidvideo.com/e/FWCW6CAQ9X
+#https://openload.co/embed/s_-CmBi4Mic/GHPTHESPYWHODUMPEDME80.Ganol.st.mkv
+#https://openload.co/f/6veGzVibtdA/the.spy.who.dumped.me.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/Xv9UuyjNC1c/The_Spy_Who_Dumped_Me_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/VeihPBAup4c/The.Spy.Who.Dumped.Me.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/Ot03AR-GpCk/The_Spy_Who_Dumped_Me_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv   MKV1.6GB
+#https://openload.co/f/sijMblb4dwk/The.Spy.Who.Dumped.Me.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/qAd6ajwMqkE/The.Spy.Who.Dumped.Me.2018.720p.BluRay.x265.HEVC-Pahe.in_21Cineplex.mkv.mp4
+#https://openload.co/f/2U2wDLK7Rh4/The.Spy.Who.Dumped.Me.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/rrdw56k5sqY/The.Spy.Who.Dumped.Me.2018.1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/EpUAqlYDTYs/The.Spy.Who.Dumped.Me.2018.1080pHD_SeeHD.mkv   MKV2.7GB
+#https://openload.co/f/43pcRtmffLE/The.Spy.Who.Dumped.Me.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/QZPA21mDd-4/The.Spy.Who.Dumped.Me.2018.720p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/x51Bm-O3jbU/The_Spy_Who_Dumped_Me_2018_720p_HDCAM_PROPER_SeeHD.mkv.mp4
+#https://openload.co/f/_UTH_XC0K4o/The.Spy.Who.Dumped.Me.2018.720p.HDCAM.1XBET_SeeHD.mp4
+#https://openload.co/f/wHv_A2QTR80/The.Spy.Who.Dumped.Me.2018.HDCAM.XviD-AV.2018.HDCAM.XviD-AVID.avi.mp4
+type=video
+name=The Spy Who Dumped Me (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
+date=2018-11-09
+URL=https://openload.co/f/6e0_MYWXLoA/The_Spy_Who_Dumped_Me_%282018%29%E0%B8%AA%E0%B8%9B%E0%B8%B2%E0%B8%A2_%E0%B8%AA%E0%B8%A7%E0%B8%A1%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+#https://openload.co/f/2cUxMTdQSAg/The_Spy_Who_Dumped_Me_%282018%29%E0%B8%AA%E0%B8%9B%E0%B8%B2%E0%B8%A2_%E0%B8%AA%E0%B8%A7%E0%B8%A1%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/dcrafonlelcdrtlo/The_Spy_Who_Dumped_Me_2018_
+
+
+type=video
+name=Keys to the Heart (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzyXjMh4vLpAMyWmedGEEbjtN2B.jpg
+date=2018-11-09
+URL=https://openload.co/f/x8_NkPKwhHg/Keys_to_the_Heart_%282018%29%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99.mp4
+
+
+type=video
+name=Leave No Trace (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/awGdHLQdPARAWyiT4hzu1ZFdsHO.jpg
+date=2018-09-28
+URL=https://uptobox.com/7ead2a0jdeme
+#https://www.rapidvideo.com/e/FVPOZV7Z0R
+#https://openload.co/embed/qEsJQG0Xh4Y/GHPLEAVENOTRACE80.Ganol.st.mkv
+#https://openload.co/f/ajTlFPPcjr8/Leave.No.Trace.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/T4-0M-cIzY8/Leave_No_Trace_%282018%291080p_BluRay_x264-SAPHiRE.Ganool.mkv.mp4
+#https://openload.co/f/J1WvVU3KyS0/Leave.No.Trace.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
+type=video
+name=Leave No Trace (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/awGdHLQdPARAWyiT4hzu1ZFdsHO.jpg
+date=2018-11-09
+URL=https://openload.co/f/tQIC7_l1qaM/Leave_No_Trace_%282018%29%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%99%E0%B8%B2%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%99.mp4
 
 
 type=video
