@@ -75,7 +75,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-06
+date=2018-11-10
 URL=
 
 
@@ -86,6 +86,20 @@ URL=
 
 
 
+
+type=video
+name=The Grinch (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQVj6Z8kPdsbt7XPjVBCltxq90.jpg
+date=2018-11-10
+URL=https://openload.co/f/dydMukHY19Q/The_Grinch_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/1aWfXZqz-Wk/The_Grinch_2018_720p_HDCAM-1XBET.mp4
+
+type=video
+name=Overlord (2018) ENG 720pHDCAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l76Rgp32z2UxjULApxGXAPpYdAP.jpg
+date=2018-11-10
+URL=https://openload.co/f/yjzsysnh8Rg/overlord720pHDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/N6wSGezQFf8/Overlord_2018_HDCAM_x264.mkv.mp4
 
 type=video
 name=The Hate U Give (2018) ENG 1080p.HC.WEBRip.x264.AAC2.0-STUTTERSHIT
@@ -217,17 +231,7 @@ date=2018-09-15
 URL=https://openload.co/f/mo5HTgGEhFQ/The_Happytime_Murders_HDcam_SeeHD.avi.mp4
 #https://openload.co/f/NKbJ8AueDe4/The.Happytime.Murders.2018.720p.HDCAM.1XBET_SeeHD.mp4
 
-type=video
-name=Crazy Rich Asians (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnTqi4nhIi1eesT5uYMmhEPGNih.jpg
-date=2018-11-06
-URL=https://openload.co/f/PUakpqQA_p0/Crazy.Rich.Asians.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/ECD5jP5b_2Y/Crazy.Rich.Asians.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/SV38rv5nr70/Crazy_Rich_Asians_2018_NEW_1080p_HDCAM_HQ-K1NGPU_SeeHD.mkv.mp4
-#https://openload.co/f/ah3SoVM7hjM/Crazy_Rich_Asians_2018_NEW_720p_TS-1XBET_SeeHD.mp4
-#https://openload.co/f/tvN8COoFZYQ/Crazy.Rich.Asians.2018.HDTS.XviD-AVID.avi.mp4
-#https://openload.co/f/DxmbGuLNA7M/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
-#https://openload.co/f/g6uOlCEZREc/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
+
 
 
 
@@ -243,16 +247,7 @@ URL=https://openload.co/f/MTIj7shXvFw/The.Little.Mermaid.2018.1080p.AMZN.WEB-DL.
 #https://openload.co/f/Wyd52TiyQgc/The.Little.Mermaid.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
 #https://openload.co/f/74DNspHO7os/The.Little.Mermaid.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 
-type=video
-name=Blindspotting (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMQTd5g2NnYiS32Dcl75TqGSyrn.jpg
-date=2018-11-06
-URL=https://openload.co/f/ZwFpgwngKTU/Blindspotting.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/ujqsAe4JanQ/Blindspotting.2018.720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/ix3TYEcLll4/Blindspotting.2018.1080p.WEB-DL.READ.INFO.H264-CMRG.mkv.mp4
-#https://openload.co/f/mMVHfFdzJIs/Blindspotting.1080p.HD.CAMA_SeeHD.mkv.mp4
-#https://openload.co/f/FoA3E5P600A/Blindspotting.2018.720p.HDCAM.X264.24HD_SeeHD.mp4
-#https://openload.co/f/azKIM3efkXo/Blindspotting.2018.HDCAM.XviD-AVID.avi.mp4
+
 
 
 type=video
@@ -1349,7 +1344,22 @@ URL=
 
 
 
-
+type=video
+name=Blindspotting (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMQTd5g2NnYiS32Dcl75TqGSyrn.jpg
+date=2018-11-10
+URL=https://openload.co/f/Dlav9JE5d0o/Blindspotting.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/tqErmuBkIiQ/Blindspotting.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://uptobox.com/ag6gjm7gkzxg   720
+#https://www.rapidvideo.com/e/FX39L0PGUF   720
+#https://openload.co/embed/hQZ82gn_slM/BLINDSPOTTINGBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/IdbGGNx-kSs/Blindspotting_%282018%29720p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+#https://openload.co/f/ZwFpgwngKTU/Blindspotting.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/ujqsAe4JanQ/Blindspotting.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/ix3TYEcLll4/Blindspotting.2018.1080p.WEB-DL.READ.INFO.H264-CMRG.mkv.mp4
+#https://openload.co/f/mMVHfFdzJIs/Blindspotting.1080p.HD.CAMA_SeeHD.mkv.mp4
+#https://openload.co/f/FoA3E5P600A/Blindspotting.2018.720p.HDCAM.X264.24HD_SeeHD.mp4
+#https://openload.co/f/azKIM3efkXo/Blindspotting.2018.HDCAM.XviD-AVID.avi.mp4
 
 type=video
 name=Pope Francis: A Man of His Word (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7095,9 +7105,27 @@ URL=https://uptobox.com/uiy6n6f2r48x
 
 
 
+type=video
+name=Crazy Rich Asians (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnTqi4nhIi1eesT5uYMmhEPGNih.jpg
+date=2018-11-10
+URL=https://openload.co/f/oIU0rdXJYWI/crazy.rich.asians.2018.720p.bluray.hevc.x265.mkv.mp4
+#https://openload.co/f/jk7YfyndNvg/Crazy.Rich.Asians.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/A1Bjb52CM4U/Crazy.Rich.Asians.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/PUakpqQA_p0/Crazy.Rich.Asians.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/ECD5jP5b_2Y/Crazy.Rich.Asians.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/SV38rv5nr70/Crazy_Rich_Asians_2018_NEW_1080p_HDCAM_HQ-K1NGPU_SeeHD.mkv.mp4
+#https://openload.co/f/ah3SoVM7hjM/Crazy_Rich_Asians_2018_NEW_720p_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/tvN8COoFZYQ/Crazy.Rich.Asians.2018.HDTS.XviD-AVID.avi.mp4
+#https://openload.co/f/DxmbGuLNA7M/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
+#https://openload.co/f/g6uOlCEZREc/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
 
-
-
+type=video
+name=Little Italy (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdSSmzYKqViKH7mkQwgOVSALrOO.jpg
+date=2018-11-10
+URL=https://openload.co/f/iFb7CYhGoh8/Little.Italy.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/P4CoV8PdzAQ/Little.Italy.2018.720p.BluRay.x264-DRONES.mkv.mp4
 
 
 
@@ -7115,7 +7143,7 @@ URL=https://uptobox.com/uiy6n6f2r48x
 type=video
 name=
 thumb=
-date=2018-11-07
+date=2018-11-10
 URL=
 
 type=video
@@ -7370,10 +7398,15 @@ URL=https://openload.co/f/lid3G4MglmY/The_Predator_%282018%29%E0%B9%80%E0%B8%94%
 
 
 type=video
-name=Kin (2018) ENG 1080pHD_SeeHD
+name=Kin (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg
-date=2018-11-06
-URL=https://openload.co/f/aTzNLU8FTDM/Kin_1080pHD_SeeHD.mkv.mp4
+date=2018-11-10
+URL=https://uptobox.com/dfrm5fkdw1ez
+#https://www.rapidvideo.com/e/FX39NU53XB
+#https://openload.co/embed/vCiErrTSQPA/SHQKINBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/FgLw85UALbc/Kin.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Hk7_a4ES5NI/Kin_%282018%29720p_BluRay_x264-BLOW.Ganool.mkv.mp4
+#https://openload.co/f/aTzNLU8FTDM/Kin_1080pHD_SeeHD.mkv.mp4
 #https://openload.co/f/ugMV8Vk0VEs/Kin_2018_1080p_WEB_DL_DD5_1_H264_FGT.mkv.mp4
 #https://openload.co/f/gzmFS9oLl18/Kin_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/sRU_ZEJHE28/Kin_2018_720p_HDCAM_X264.mkv.mp4
@@ -10562,7 +10595,7 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=
 thumb=
-date=2018-11-09
+date=2018-11-10
 URL=
 
 
@@ -10571,11 +10604,27 @@ URL=
 
 
 
+
 type=video
-name=Alpha (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
+name=The Villainess (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lv8RPk7vDaJPCBMJUa6BdJq86n.jpg
+date=2018-11-10
+URL=https://openload.co/f/fyVr6Rvs0BI/The_Villainess_%282017%29%E0%B8%AA%E0%B8%A7%E0%B8%A2_%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99_%E0%B9%82%E0%B8%AB%E0%B8%94.mp4
+
+
+type=video
+name=Alpha (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
-date=2018-10-26
-URL=https://openload.co/f/YBg5krE5b3Y/Alpha.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+date=2018-11-10
+URL=https://openload.co/f/OSRkWhz5guw/alpha.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/yNvNIehv5T4/Alpha.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/R6nsPfKe15Y/alpha.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/V7SkhVGdEEk/alpha.2018.720p.bluray.x264-drones.mkv.mp4
+#https://uptobox.com/mze97fth7mxn   720
+#https://www.rapidvideo.com/e/FX39FV5I2H   720
+#https://openload.co/embed/6rDPs_WYw5o/SHQALPHABD72.Ganol.st.mkv.mp4
+#https://openload.co/f/qbbkXqFHUOA/Alpha_%282018%29720p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/YBg5krE5b3Y/Alpha.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 #https://openload.co/f/xs6o0XjLu2U/Alpha.2018.720pHD_SeeHD.mkv.mp4
 #https://openload.co/f/unLIJ-Z7HiM/Alpha.2018.720p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 #https://openload.co/f/Qiqs4I-DyCs/Alpha.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv   MKV3.3GB
@@ -10728,8 +10777,9 @@ URL=https://openload.co/f/i-SaY4xfdmc/November_Criminals_%282017%29%E0%B8%84%E0%
 type=video
 name=Mazinger Z: Infinity (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aw3MjkJVKmh5B0VHpEC4ITyyyTt.jpg
-date=2018-11-07
-URL=https://openload.co/f/EA26NGrKBKM/Mazinger_Z%3A_Infinity_%282017%29%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%81%E0%B9%89%E0%B8%B2_%E0%B9%81%E0%B8%8B%E0%B8%94_%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%9F%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B5%E0%B9%89_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95.mp4
+date=2018-11-10
+URL=https://openload.co/f/mFj5LjXlNMA/Mazinger_Z%3A_Infinity_%282017%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95.mp4
+#https://openload.co/f/EA26NGrKBKM/Mazinger_Z%3A_Infinity_%282017%29%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%81%E0%B9%89%E0%B8%B2_%E0%B9%81%E0%B8%8B%E0%B8%94_%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%9F%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B5%E0%B9%89_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95.mp4
 
 
 type=video
@@ -11441,7 +11491,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-02
+date=2018-11-10
 URL=
 
 
@@ -11452,6 +11502,18 @@ URL=
 
 
 
+
+type=video
+name=Rambo III (1988) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCD41FfUs1OMCdPaf5EcJ6dxxMW.jpg
+date=2018-11-10
+URL=https://openload.co/f/qshwZNa1Srs/Rambo.III.1988.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Rambo: First Blood Part II (1985) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6zUaYqaQ5TFokesv3BPzBvSN0.jpg
+date=2018-11-10
+URL=https://openload.co/f/OZnj-duMEqU/Rambo.First.Blood.Part.II.1985.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Princess Bride (1987) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]

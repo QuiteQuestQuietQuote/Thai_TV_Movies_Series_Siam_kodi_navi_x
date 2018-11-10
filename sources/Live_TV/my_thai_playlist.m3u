@@ -985,7 +985,6 @@ http://62.203.143.4:9981/play/a029
 #EXTINF:-1,HOT 
 http://62.203.143.4:9981/play/a03u 
 #EXTINF:-1,Miami TV (18+)
-
 http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1,Venus 
 http://62.203.143.4:9981/play/a016 
@@ -2579,8 +2578,7 @@ http://188.6.147.240:8081/play/a00l
 http://86.57.182.131:8905/play/a00l
 #EXTINF:-1,nuart tv_a00l?m3u8
 http://86.57.182.131:8905/play/a00l?m3u8
-#EXTINF:-1,XXX18+_nuart tv
-http://82.209.207.119:8905/play/a00l?m3u8
+
 
 
 #EXTINF:-1,Passiexxx_live
@@ -2593,6 +2591,8 @@ http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2072.m3u8
 
 #EXTINF:-1,Eroxxx_8888
 http://185.168.15.240:8888/eroxxx/index.m3u8
+#EXTINF:-1,Playboy_ts
+http://144.217.39.29:80/live/soares/soares/37061.ts
 
 
 #EXTINF:-1,Redlight_HD
@@ -3126,6 +3126,8 @@ http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
 http://210.210.155.35/session/98bcfbb2-cd03-11e8-8197-b82a72d63267/uq2663/h/h231/index2.m3u8
 #EXTINF:-1,HBO_rahman
 http://194.88.107.101:6204/rahman/rahman/8344
+#EXTINF:-1,Q_LIFE
+http://5.135.92.138:58143/out/u/29_1.m3u8
 
 
 #EXTINF:-1,Food Network Russia HD_onlybestxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -3259,14 +3261,14 @@ http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI
 http://80.80.160.168/live/9/live.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_TTVHD
-http://www.ssh101.com/m3u8/dyn/TTVHD/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History_TH
 http://103.7.57.17:1935/live1/Rhistory.stream/chunklist_w767108699_tkd293emF0b2tlbmVuZHRpbWU9MTUzMzY2NDE3OSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9N2g1ZVNVVEw3Vmp6QXFoMktqYTVScGZmVVEtZkxhaWY5M1JLdmxtOXZJaz0=.m3u8
 #EXTINF:-1  tvg-logo="http://image.free.in.th/v/2013/ir/180628100717.png",History2_TH
 http://103.7.57.17:1935/live1/H2HDrut.stream/chunklist_w1690635951_tkd293emF0b2tlbmVuZHRpbWU9MTUzMzY2NDMwNSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9UlVUUzZuU2dFT1I1M25MN3pFdk1CdENLbDVhb25MY1B5VlF5RlRHbmN3az0=.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_bear-tv
 http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_TTVHD
+http://www.ssh101.com/m3u8/dyn/TTVHD/index.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE_bear-tv
 http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
@@ -3293,10 +3295,6 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 http://persik.by/stream/1418/252987/10003.m3u8
 #EXTINF:-1,nuart tv_udp
 http://212.19.14.230:81/udp/239.191.254.250:15285
-#EXTINF:-1,NUART TV_limehd
-http://hlsarchive.limehd.tv:8191/nuart/index.m3u8
-#EXTINF:-1,HU: Nuart
-http://niobzca.cf:8080/casa/1234/120224
 #EXTINF:-1,nuart tv_a00l
 http://86.57.182.131:8905/play/a00l
 #EXTINF:-1,ftv_midnite_secrets
