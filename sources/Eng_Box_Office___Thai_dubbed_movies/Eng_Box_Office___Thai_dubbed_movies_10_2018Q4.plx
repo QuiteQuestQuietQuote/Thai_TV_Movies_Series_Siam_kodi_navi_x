@@ -1337,12 +1337,35 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-08
+date=2018-11-11
 URL=
 
 
 
 
+
+
+
+type=video
+name=Raazi (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fF2xXApETxZqyluokyJ1x4gIiTf.jpg
+date=2018-11-11
+URL=https://uptobox.com/ow6i43y8d6qk
+#https://www.rapidvideo.com/e/FWSJQ29Y06
+#https://openload.co/embed/dZc2Kk958EM/GHPRAAZI80.Ganol.st.mkv
+#https://openload.co/f/Bk6edHNbw9o/Raazi_%282018%291080p_BluRay_x264_DTS.-.Ho3y.Ganool.mkv.mp4
+
+type=video
+name=Padman (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHyoFs6BIJJwCaFlWu6P5Bnpa70.jpg
+date=2018-11-11
+URL=https://uptobox.com/c0tvbfx68h1o
+#https://openload.co/embed/fePMOmDU_l4/GHPPADMAN80.Ganol.st.mkv
+#https://openload.co/f/XkOQqWWRVQs/Padman_%282018%291080p_BluRay_Atmos7.1_x264-DTOne.Ganool.mkv.mp4
+#https://uptobox.com/uiy6n6f2r48x   720
+#https://www.rapidvideo.com/e/FWRTDR7OB7   720
+#https://openload.co/embed/c7a2z00mnqE/PADMANBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/0f-llf6kduo/Padman_%282018%29720p_BluRay_x264-DTOne.Ganool.mkv.mp4
 
 type=video
 name=Blindspotting (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7094,22 +7117,19 @@ URL=https://uptobox.com/t33i7y03amtg
 #https://openload.co/embed/1JbaoLnDxCo/THELASTWITNESSBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/fallHRZIjaM/The_Last_Witness_%282018%29720p_BluRay_DTS_x264-HDS.Ganool.mkv.mp4
 
-type=video
-name=Padman (2018) [COLOR=FF00FF00]HIN BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHyoFs6BIJJwCaFlWu6P5Bnpa70.jpg
-date=2018-10-31
-URL=https://uptobox.com/uiy6n6f2r48x
-#https://www.rapidvideo.com/e/FWRTDR7OB7
-#https://openload.co/embed/c7a2z00mnqE/PADMANBD72.Ganol.st.mkv.mp4
-#https://openload.co/f/0f-llf6kduo/Padman_%282018%29720p_BluRay_x264-DTOne.Ganool.mkv.mp4
+
 
 
 
 type=video
 name=Crazy Rich Asians (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnTqi4nhIi1eesT5uYMmhEPGNih.jpg
-date=2018-11-10
-URL=https://openload.co/f/oIU0rdXJYWI/crazy.rich.asians.2018.720p.bluray.hevc.x265.mkv.mp4
+date=2018-11-11
+URL=https://uptobox.com/idituireetbw
+#https://www.rapidvideo.com/e/FX42O9MOZC
+#https://openload.co/embed/ZlBAc0rt1m8/SHQCRAZYRICHASIANSBD72.Ganol.st.mkv
+#https://openload.co/f/J4W0VBaY27w/Crazy_Rich_Asians_%282018%29720p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
+#https://openload.co/f/oIU0rdXJYWI/crazy.rich.asians.2018.720p.bluray.hevc.x265.mkv.mp4
 #https://openload.co/f/jk7YfyndNvg/Crazy.Rich.Asians.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/A1Bjb52CM4U/Crazy.Rich.Asians.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
 #https://openload.co/f/PUakpqQA_p0/Crazy.Rich.Asians.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
@@ -7127,10 +7147,41 @@ date=2018-11-10
 URL=https://openload.co/f/iFb7CYhGoh8/Little.Italy.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/P4CoV8PdzAQ/Little.Italy.2018.720p.BluRay.x264-DRONES.mkv.mp4
 
+type=video
+name=Death of a Nation (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayUSOpmiPZOARCklJdDnIWPa2QE.jpg
+date=2018-11-11
+URL=https://uptobox.com/cwo44gmame3r
+#https://www.rapidvideo.com/e/FX4AQLCPTZ
+#https://openload.co/embed/QkW7Td-UU7s/DEADTHOFANATIONBD72.Ganol.st.mkv
+#https://openload.co/f/PDIf4-j7WAs/Death_of_a_Nation_%282018%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
 
+type=video
+name=Blood Fest (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iy6mJ8EvVQrrSrSblK7GRYFq1Mp.jpg
+date=2018-11-11
+URL=https://uptobox.com/twwt48iarq0w
+#https://www.rapidvideo.com/e/FX4B6BUJ3F
+#https://openload.co/embed/2SmDEOHIKDk/BLOODFESTBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/EzGBIv1_k08/Blood_Fest_%282018%29720p_BluRay_x264-SADPANDA.Ganool.mkv.mp4
 
+type=video
+name=Status Update (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0oE0hzQoWxC8XaoNKidNkMBz2U.jpg
+date=2018-11-11
+URL=https://uptobox.com/9e4e8mrpxi5s
+#https://www.rapidvideo.com/e/FX4DR3XJL0
+#https://openload.co/embed/4GM9j0YjP80/STATUSUPDATEBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/yU6iVmUJxaU/Status_Update_%282018%29720p_BluRay_x264-VETO.Ganool.mkv.mp4
 
-
+type=video
+name=Dead Men (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1lXnVFMAX1XBfINN9BFVAXK5V9.jpg
+date=2018-11-11
+URL=https://uptobox.com/r3e5qfn63v70
+#https://www.rapidvideo.com/e/FX4FCIVYXO
+#https://openload.co/embed/X6CHbQwhKZY/DEADMENBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/YhUK1gLgPmU/Dead_Men_%282018%29720p.BluRay.x264.DTS-FGT.Ganool.mkv.mp4
 
 
 
@@ -7143,7 +7194,7 @@ URL=https://openload.co/f/iFb7CYhGoh8/Little.Italy.2018.720p.BluRay.H264.AAC-RAR
 type=video
 name=
 thumb=
-date=2018-11-10
+date=2018-11-11
 URL=
 
 type=video
@@ -7398,11 +7449,15 @@ URL=https://openload.co/f/lid3G4MglmY/The_Predator_%282018%29%E0%B9%80%E0%B8%94%
 
 
 type=video
-name=Kin (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Kin (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg
-date=2018-11-10
-URL=https://uptobox.com/dfrm5fkdw1ez
-#https://www.rapidvideo.com/e/FX39NU53XB
+date=2018-11-11
+URL=https://uptobox.com/v2hwdxmiykac
+#https://www.rapidvideo.com/e/FX39TN08UJ
+#https://openload.co/embed/9v8p0pl6KTg/GHPKIN80.Ganol.st.mkv.mp4
+#https://openload.co/f/g2xz8hVYLaQ/Kin_%282018%291080p_BluRay_x264-BLOW.Ganool.mkv.mp4
+#https://uptobox.com/dfrm5fkdw1ez   720
+#https://www.rapidvideo.com/e/FX39NU53XB   720
 #https://openload.co/embed/vCiErrTSQPA/SHQKINBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/FgLw85UALbc/Kin.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/Hk7_a4ES5NI/Kin_%282018%29720p_BluRay_x264-BLOW.Ganool.mkv.mp4
@@ -9990,10 +10045,11 @@ URL=https://openload.co/f/wNuqZS5UCIU/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8
 
 
 type=video
-name=Searching (2018) ENG 720p.HDRip.BLURRED.AC3.X264-CMRG
+name=Searching (2018) ENG READNFO.1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
-date=2018-10-11
-URL=https://openload.co/f/8gMt1dKsYHo/Searching.2018.720p.HDRip.BLURRED.AC3.X264-CMRG.mkv.mp4
+date=2018-11-11
+URL=https://openload.co/f/HFjYe18Vi_M/Searching.2018.READNFO.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/8gMt1dKsYHo/Searching.2018.720p.HDRip.BLURRED.AC3.X264-CMRG.mkv.mp4
 #https://openload.co/f/AbXrs14E-Ew/Searching.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/QtZ0byRHk3k/Searching.2018.720p.TS.1XBET_SeeHD.mp4
 #https://openload.co/f/g6owtvE_D9s/Searching.2018.720p.TS.1XBET.mp4
@@ -10615,8 +10671,13 @@ URL=https://openload.co/f/fyVr6Rvs0BI/The_Villainess_%282017%29%E0%B8%AA%E0%B8%A
 type=video
 name=Alpha (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
-date=2018-11-10
-URL=https://openload.co/f/OSRkWhz5guw/alpha.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+date=2018-11-11
+URL=https://uptobox.com/wprmsaewlkan
+#https://www.rapidvideo.com/e/FX42NSDORG
+#https://openload.co/embed/jkMKfeXpU-g/GHPALPHA80.Ganol.st.mkv.mp4
+#https://openload.co/f/3ZIrvUJ36BY/Alpha_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/hqM4EU8ualc/Alpha.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/OSRkWhz5guw/alpha.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/yNvNIehv5T4/Alpha.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/R6nsPfKe15Y/alpha.2018.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/V7SkhVGdEEk/alpha.2018.720p.bluray.x264-drones.mkv.mp4

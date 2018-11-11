@@ -2564,13 +2564,13 @@ http://78.141.113.63:8001/1:0:16:3725:C8E:3:EB0000:0:0:0:
 http://5.135.92.138:58143/out/i/109_1.m3u8
 
 
-
+#EXTINF:-1,Private
+http://84.236.90.124:9000/play/private
 #EXTINF:-1,Hustler 
 http://84.236.90.124:9000/play/hustler 
 #EXTINF:-1,Blue Hustler 
-http://84.236.90.124:9000/play/bluehustler 
-#EXTINF:-1,Private
-http://84.236.90.124:9000/play/private
+http://46.32.64.42/s/live/705/86.169.51.136/1/0.m3u8 
+
 
 #EXTINF:-1,nuart tv_a00l_188
 http://188.6.147.240:8081/play/a00l
@@ -2591,8 +2591,6 @@ http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2072.m3u8
 
 #EXTINF:-1,Eroxxx_8888
 http://185.168.15.240:8888/eroxxx/index.m3u8
-#EXTINF:-1,Playboy_ts
-http://144.217.39.29:80/live/soares/soares/37061.ts
 
 
 #EXTINF:-1,Redlight_HD
@@ -2914,6 +2912,8 @@ rtmp://tv01.thaizatv.com/drm/movie1
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,andprivehd
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1,andprivehd_playlist.m3u8
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,movie1
 http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
 
@@ -3124,8 +3124,6 @@ http://80.87.208.158:80/dna-151-tv-pc.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1,HBO_transvision_indo
 http://210.210.155.35/session/98bcfbb2-cd03-11e8-8197-b82a72d63267/uq2663/h/h231/index2.m3u8
-#EXTINF:-1,HBO_rahman
-http://194.88.107.101:6204/rahman/rahman/8344
 #EXTINF:-1,Q_LIFE
 http://5.135.92.138:58143/out/u/29_1.m3u8
 
@@ -3325,10 +3323,10 @@ https://live.cgtn.com/1000/prog_index.m3u8
 https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png",NHK WORLD HD
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ia/180712050027.png",BBC NEWS_HD
 http://jabber.divan.tv:8008/tv.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png",MONEY CHANNEL
 http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News US HD
