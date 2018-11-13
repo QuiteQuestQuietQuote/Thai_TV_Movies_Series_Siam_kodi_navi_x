@@ -2541,7 +2541,10 @@ http://172.104.114.178/vod/live/3/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 #EXTINF:-1,OURS_HD4
 http://172.104.114.178/vod/live/4/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 
-
+#EXTINF:-1,planetahd
+http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:-1,GER_XXX
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 #EXTINF:-1,lovestream_rtmp
 rtmp://5-direct555-axd-10-xx.hnwzzy.com:1935/live/999888
 #EXTINF:-1,CHN_rtmp
@@ -2553,8 +2556,6 @@ rtsp://ss1.firestormmedia.tv:1935/ingest_cellcast/encoder31?channelID=252
 
 #EXTINF:-1,KOR_XXX
 http://122.38.74.172:9981/stream/channelid/1463854277
-#EXTINF:-1,KOR_???
-http://1.232.68.129:9981/stream/channelid/1920324811
 #EXTINF:-1,VENUS
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/63.m3u8
 #EXTINF:-1,redlight
@@ -2600,7 +2601,7 @@ http://185.168.15.240:8888/eroxxx/index.m3u8
 http://185.168.15.240:8888/erox/index.m3u8
 
 
-#EXTINF:-1,Redlight_HD
+#EXTINF:-1,Redlight_HD_play
 http://213.59.128.162:9996/play/Redlight_HD/index.m3u8
 #EXTINF:-1,Brazzers_play
 http://213.59.128.162:9996/play/Brazzers_TV/index.m3u8
@@ -2610,29 +2611,31 @@ http://213.59.128.162:9996/play/Hustler_HD/index.m3u8
 http://213.59.128.162:9996/play/Playboy/index.m3u8
 #EXTINF:-1,Pink_O_TV_play
 http://213.59.128.162:9996/play/Pink_O_TV/index.m3u8
-#EXTINF:-1,FRENCHLOVER
+#EXTINF:-1,FRENCHLOVER_play
 http://213.59.128.162:9996/play/FRENCHLOVER/index.m3u8
-#EXTINF:-1,Private
+#EXTINF:-1,Private_play
 http://213.59.128.162:9996/play/Private/index.m3u8
-#EXTINF:-1,Russkaya_noch
+#EXTINF:-1,Russkaya_noch_play
 http://213.59.128.162:9996/play/Russkaya_noch/index.m3u8
-#EXTINF:-1,Passion_XXX_babes_tv
+#EXTINF:-1,Passion_XXX_babes_tv_play
 http://213.59.128.162:9996/play/Passion_XXX/index.m3u8
-#EXTINF:-1,O-la-la
+#EXTINF:-1,O-la-la_play
 http://213.59.128.162:9996/play/O-la-la/index.m3u8
 
 
-
-
-#EXTINF:-1,ERO_X
+#EXTINF:-1,Brazzers_dna
+http://80.87.208.158:80/dna-1302-tv-pc.m3u8
+#EXTINF:-1,Private_dna
+http://80.87.208.158:80/dna-405-tv-pc.m3u8
+#EXTINF:-1,ERO_X_dna
 http://80.87.208.158:80/dna-4631-tv-pc.m3u8
-#EXTINF:-1,ERO_XXX
+#EXTINF:-1,ERO_XXX_dna
 http://80.87.208.158:80/dna-4671-tv-pc.m3u8
-#EXTINF:-1,LEO_TV
+#EXTINF:-1,LEO_TV_dna
 http://80.87.208.158:80/dna-141-tv-pc.m3u8
-#EXTINF:-1,Hustler_HD
+#EXTINF:-1,Hustler_HD_dna
 http://80.87.208.158:80/dna-91-tv-pc.m3u8
-#EXTINF:-1,EXTASY
+#EXTINF:-1,EXTASY_dna
 http://80.87.208.158:80/dna-416-tv-pc.m3u8
 
 
@@ -3307,10 +3310,12 @@ http://persik.by/stream/1418/252987/10003.m3u8
 http://212.19.14.230:81/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_a00l
 http://86.57.182.131:8905/play/a00l
+
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_AdultTVLive.net
-http://51.15.201.17:8081/live/nuart/chunks.m3u8?nimblesessionid=1836560&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxOCA5OjM5OjIwIFBNJmhhc2hfdmFsdWU9aFM3WEpQZXV2a1RuRDRGRk90Q3RWdz09JnZhbGlkbWludXRlcz0xODA=
+http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAxOCA4OjI0OjIwIFBNJmhhc2hfdmFsdWU9YUlxZVUvY3pib29ubHpyOUdWdXg2Zz09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_hochu.tv
-http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggaa8bde68418608945043e1c94a321734T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg93614ff02485e45a1cc7e4fa9df70c65T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg",ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Jasmin-TV.png",Jasmin Tv 

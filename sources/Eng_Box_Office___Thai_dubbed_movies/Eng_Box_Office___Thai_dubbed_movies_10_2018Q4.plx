@@ -94,6 +94,8 @@ name=The Girl in the Spider's Web (2018) ENG 720p_HDCAM-1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg
 date=2018-11-12
 URL=https://openload.co/f/vnHx1c86_sA/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/drPr9ef6yU4/The.Girl.in.the.Spiders.Web.2018.NOLOGO.720p.HDCAM.1XBET.mp4
+#https://openload.co/f/_8vleyK_oJg/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET.mp4
 
 type=video
 name=The Hate U Give (2018) ENG 1080p.HC.WEBRip.x264.AAC2.0-STUTTERSHIT
@@ -1331,7 +1333,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-11
+date=2018-11-13
 URL=
 
 
@@ -1340,11 +1342,35 @@ URL=
 
 
 
+
+
+
+type=video
+name=Little Italy (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdSSmzYKqViKH7mkQwgOVSALrOO.jpg
+date=2018-11-13
+URL=https://uptobox.com/e30hh4fi1izk
+#https://openload.co/embed/s10GinAU6Ro/LITTLEITALY80.Ganol.st.mkv
+#https://openload.co/f/IdK0Y-Vktlo/Little_Italy_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/iFb7CYhGoh8/Little.Italy.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/P4CoV8PdzAQ/Little.Italy.2018.720p.BluRay.x264-DRONES.mkv.mp4
+
+type=video
+name=The Way We Dance (2013) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYDeK5fbH3JYLbOOuwErunZv6uA.jpg
+date=2018-11-13
+URL=https://openload.co/f/E0H8f_cOQVs/the.way.we.dance.2013.1080p.bluray.x264-bipolar.mkv.mp4
+
 type=video
 name=Crazy Rich Asians (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnTqi4nhIi1eesT5uYMmhEPGNih.jpg
-date=2018-11-12
-URL=https://openload.co/f/GMKc2Z5D4IQ/Crazy.Rich.Asians.2018.1080p.BR_SeeHD.mp4
+date=2018-11-13
+URL=https://uptobox.com/k41h2ug5abpm
+#https://www.rapidvideo.com/e/FX6I5HO2S0
+#https://openload.co/embed/LnOyt6LUJxU/GHCRAZYRICHASIAN80.Ganol.st.mkv
+#https://openload.co/f/uNLnuTOaOX0/Crazy_Rich_Asians_%282018%291080p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
+#https://openload.co/f/GMKc2Z5D4IQ/Crazy.Rich.Asians.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/TMQNm3DvP_I/Crazy.Rich.Asians.2018.1080p.BluRay.x264.DD5.1-indoxxi.vip.mp4
 #https://uptobox.com/idituireetbw   720
 #https://www.rapidvideo.com/e/FX42O9MOZC   720
 #https://openload.co/embed/ZlBAc0rt1m8/SHQCRAZYRICHASIANSBD72.Ganol.st.mkv
@@ -7126,12 +7152,7 @@ URL=https://uptobox.com/t33i7y03amtg
 
 
 
-type=video
-name=Little Italy (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdSSmzYKqViKH7mkQwgOVSALrOO.jpg
-date=2018-11-10
-URL=https://openload.co/f/iFb7CYhGoh8/Little.Italy.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/P4CoV8PdzAQ/Little.Italy.2018.720p.BluRay.x264-DRONES.mkv.mp4
+
 
 type=video
 name=Death of a Nation (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -7169,7 +7190,13 @@ URL=https://uptobox.com/r3e5qfn63v70
 #https://openload.co/embed/X6CHbQwhKZY/DEADMENBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/YhUK1gLgPmU/Dead_Men_%282018%29720p.BluRay.x264.DTS-FGT.Ganool.mkv.mp4
 
-
+type=video
+name=Cut Shoot Kill (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDJAZWq7kS1G6eps4oJCKOgutHU.jpg
+date=2018-11-13
+URL=https://uptobox.com/a1mp9tp3xly2
+#https://openload.co/embed/I7JodYqGOBc/CUTSHOOTKILBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/IwThhLqJL_U/Cut_Shoot_Kill_%282017%29720p_BluRay_x264-JustWatch.Ganool.mkv.mp4
 
 
 
@@ -10029,6 +10056,10 @@ date=2018-11-12
 URL=https://openload.co/f/t0FEeTqDWuY/The.Equalizer.2.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/hPvmmxLf1fw/The.Equalizer.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/mTzShlqLWR8/The.Equalizer.2.2018.720p.Bluray.X264-EVO.mkv.mp4
+#https://uptobox.com/g150youdvi1u   720
+#https://www.rapidvideo.com/e/FX6J2MP3UB   720
+#https://openload.co/embed/6HdVz-zqXiE/SHQTHEEQUAILER2BD72.Ganol.st.mkv.mp4
+#https://openload.co/f/3CyQU1aaKEY/The_Equalizer_2_%282018%29720p_BluRay_X264-DEFLATE.Ganool.mkv.mp4
 #https://openload.co/f/5zxgEe8wZSU/The_Equalizer_2_2018_1080p_WEB-DL_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/yCHpgnvj7p0/The.Equalizer.2.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/guaYhTNrJ6k/the.equalizer.2.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
@@ -10068,10 +10099,11 @@ URL=https://openload.co/f/a8uGQjWj-7M/A.X.L._%282018%29%E0%B9%81%E0%B8%AD%E0%B8%
 
 
 type=video
-name=Mile 22 (2018) ENG 1080p.web.dl.dd5.1.hevc.x265
+name=Mile 22 (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
-date=2018-10-30
-URL=https://openload.co/f/yIocH9qI0Dw/mile.22.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
+date=2018-11-13
+URL=https://openload.co/f/ji_IF6DbStA/Mile.22.2018.720p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/yIocH9qI0Dw/mile.22.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/CKWA5RoXQl0/Mile.22.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 #https://openload.co/f/yLdLfVPKaOs/Mile.22.2018.1080p.HDRip.mkv.mp4
 #https://openload.co/f/M3ZVsZxHZ7c/Mile.22.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
@@ -10090,10 +10122,12 @@ URL=https://openload.co/f/wNuqZS5UCIU/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8
 
 
 type=video
-name=Searching (2018) ENG READNFO.1080p.WEB-DL.H264.AC3-EVO
+name=Searching (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
-date=2018-11-11
-URL=https://openload.co/f/HFjYe18Vi_M/Searching.2018.READNFO.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2018-11-13
+URL=https://openload.co/f/9FUs7SbrQxg/Searching.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/ok__eM7mAqo/Searching.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/HFjYe18Vi_M/Searching.2018.READNFO.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/8gMt1dKsYHo/Searching.2018.720p.HDRip.BLURRED.AC3.X264-CMRG.mkv.mp4
 #https://openload.co/f/AbXrs14E-Ew/Searching.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/QtZ0byRHk3k/Searching.2018.720p.TS.1XBET_SeeHD.mp4
