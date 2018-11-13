@@ -75,7 +75,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-10
+date=2018-11-12
 URL=
 
 
@@ -87,19 +87,13 @@ URL=
 
 
 
-type=video
-name=The Grinch (2018) ENG 720p_HDCAM-1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQVj6Z8kPdsbt7XPjVBCltxq90.jpg
-date=2018-11-10
-URL=https://openload.co/f/dydMukHY19Q/The_Grinch_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/1aWfXZqz-Wk/The_Grinch_2018_720p_HDCAM-1XBET.mp4
+
 
 type=video
-name=Overlord (2018) ENG 720pHDCAM_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l76Rgp32z2UxjULApxGXAPpYdAP.jpg
-date=2018-11-10
-URL=https://openload.co/f/yjzsysnh8Rg/overlord720pHDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/N6wSGezQFf8/Overlord_2018_HDCAM_x264.mkv.mp4
+name=The Girl in the Spider's Web (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg
+date=2018-11-12
+URL=https://openload.co/f/vnHx1c86_sA/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
 type=video
 name=The Hate U Give (2018) ENG 1080p.HC.WEBRip.x264.AAC2.0-STUTTERSHIT
@@ -1347,6 +1341,26 @@ URL=
 
 
 type=video
+name=Crazy Rich Asians (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnTqi4nhIi1eesT5uYMmhEPGNih.jpg
+date=2018-11-12
+URL=https://openload.co/f/GMKc2Z5D4IQ/Crazy.Rich.Asians.2018.1080p.BR_SeeHD.mp4
+#https://uptobox.com/idituireetbw   720
+#https://www.rapidvideo.com/e/FX42O9MOZC   720
+#https://openload.co/embed/ZlBAc0rt1m8/SHQCRAZYRICHASIANSBD72.Ganol.st.mkv
+#https://openload.co/f/J4W0VBaY27w/Crazy_Rich_Asians_%282018%29720p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
+#https://openload.co/f/oIU0rdXJYWI/crazy.rich.asians.2018.720p.bluray.hevc.x265.mkv.mp4
+#https://openload.co/f/jk7YfyndNvg/Crazy.Rich.Asians.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/A1Bjb52CM4U/Crazy.Rich.Asians.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/PUakpqQA_p0/Crazy.Rich.Asians.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/ECD5jP5b_2Y/Crazy.Rich.Asians.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/SV38rv5nr70/Crazy_Rich_Asians_2018_NEW_1080p_HDCAM_HQ-K1NGPU_SeeHD.mkv.mp4
+#https://openload.co/f/ah3SoVM7hjM/Crazy_Rich_Asians_2018_NEW_720p_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/tvN8COoFZYQ/Crazy.Rich.Asians.2018.HDTS.XviD-AVID.avi.mp4
+#https://openload.co/f/DxmbGuLNA7M/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
+#https://openload.co/f/g6uOlCEZREc/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
+
+type=video
 name=Raazi (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fF2xXApETxZqyluokyJ1x4gIiTf.jpg
 date=2018-11-11
@@ -1957,18 +1971,7 @@ URL=https://uptobox.com/gbmq1xre6z6n
 
 
 
-type=video
-name=Constantine: City of Demons The Movie (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXXVaKZYzUVwqJTRYmgWza9hFPh.jpg
-date=2018-10-10
-URL=https://openload.co/f/8hNrCDpfvgM/Constantine.City.of.Demons.The.Movie.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
-#https://openload.co/f/3y92vGZwUXo/Constantine.City.of.Demons.The.Movie.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
-#https://openload.co/f/GTpvmgzKM8g/Constantine.City.of.Demons.The.Movie.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
-#https://openload.co/f/SxUpkwA5Nto/Constantine.City.of.Demons.The.Movie.2018.BDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/Fl6WPCBUWgw/Constantine%3A_City_of_Demons_%282018%29720p_BluRay_x264.DTS-FGT.Ganool.mkv.mp4
-#https://uptobox.com/0cwoaijjgutb   720
-#https://www.rapidvideo.com/e/FWBOKOPY26   720
-#https://openload.co/embed/2q3xvVNwObw/CONTSTATINECITOFDEMONBD72.Ganol.st.mkv.mp4
+
 
 type=video
 name=Buyer Beware (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
@@ -7121,24 +7124,7 @@ URL=https://uptobox.com/t33i7y03amtg
 
 
 
-type=video
-name=Crazy Rich Asians (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnTqi4nhIi1eesT5uYMmhEPGNih.jpg
-date=2018-11-11
-URL=https://uptobox.com/idituireetbw
-#https://www.rapidvideo.com/e/FX42O9MOZC
-#https://openload.co/embed/ZlBAc0rt1m8/SHQCRAZYRICHASIANSBD72.Ganol.st.mkv
-#https://openload.co/f/J4W0VBaY27w/Crazy_Rich_Asians_%282018%29720p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
-#https://openload.co/f/oIU0rdXJYWI/crazy.rich.asians.2018.720p.bluray.hevc.x265.mkv.mp4
-#https://openload.co/f/jk7YfyndNvg/Crazy.Rich.Asians.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/A1Bjb52CM4U/Crazy.Rich.Asians.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
-#https://openload.co/f/PUakpqQA_p0/Crazy.Rich.Asians.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/ECD5jP5b_2Y/Crazy.Rich.Asians.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/SV38rv5nr70/Crazy_Rich_Asians_2018_NEW_1080p_HDCAM_HQ-K1NGPU_SeeHD.mkv.mp4
-#https://openload.co/f/ah3SoVM7hjM/Crazy_Rich_Asians_2018_NEW_720p_TS-1XBET_SeeHD.mp4
-#https://openload.co/f/tvN8COoFZYQ/Crazy.Rich.Asians.2018.HDTS.XviD-AVID.avi.mp4
-#https://openload.co/f/DxmbGuLNA7M/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
-#https://openload.co/f/g6uOlCEZREc/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
+
 
 type=video
 name=Little Italy (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -7194,7 +7180,7 @@ URL=https://uptobox.com/r3e5qfn63v70
 type=video
 name=
 thumb=
-date=2018-11-11
+date=2018-11-12
 URL=
 
 type=video
@@ -7282,6 +7268,32 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+type=video
+name=The Grinch (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQVj6Z8kPdsbt7XPjVBCltxq90.jpg
+date=2018-11-10
+URL=https://openload.co/f/dydMukHY19Q/The_Grinch_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/1aWfXZqz-Wk/The_Grinch_2018_720p_HDCAM-1XBET.mp4
+type=video
+name=The Grinch (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lK3BZcdmfQWvOSQeJa6Oes79LXB.jpg
+date=2018-11-12
+URL=https://openload.co/f/3Dg-BA4Dz-A/The_Grinch_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B9%8A%E0%B8%99%E0%B8%8A%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=Overlord (2018) ENG 720pHDCAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l76Rgp32z2UxjULApxGXAPpYdAP.jpg
+date=2018-11-10
+URL=https://openload.co/f/yjzsysnh8Rg/overlord720pHDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/N6wSGezQFf8/Overlord_2018_HDCAM_x264.mkv.mp4
+type=video
+name=Overlord (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l76Rgp32z2UxjULApxGXAPpYdAP.jpg
+date=2018-11-12
+URL=https://openload.co/f/y56p0f0Dy8g/Overlord_%282018%29%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -7423,53 +7435,13 @@ date=2018-09-18
 URL=https://openload.co/f/-2e2dhkFJX0/Peppermint_%282018%29%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=The Predator (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
-date=2018-11-09
-URL=https://openload.co/f/Sq_bHkOyhsg/The.Predator.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/KhCTO6F_AwU/The.Predator.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
-#https://openload.co/f/pWpbXzEqrwI/The.Predator.2018.NOLOGO.NEW.720p.Telesync.mp4
-#https://openload.co/f/v01aS6svE6E/The.Predator.2018.CLEAN.NEW.720p.TELESYNC.mkv.mp4
-#https://openload.co/f/1W4qs2550Sc/The_Predator_2018_NEW_720p_HDCAM-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/JzqururTlsI/The_Predator_2018_NEW_720p_HDCAM_V2-1XBET_SeeHD.mp4
-#https://openload.co/f/rroY7-gdIXA/The_Predator_2018_NEW_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/x3c5W9f8jUc/The_Predator_2018_TS-1XBET_SeeHD.mp4
-#https://openload.co/f/-4OAnxDQ6nw/The.Predator.2018.TS-1XBET.mp4
-#https://openload.co/f/TFCD6jtwgUM/The.Predator.2018.HDTS.XviD-AVID.avi.mp4
-#https://openload.co/f/t11kc2vcOC4/The.Predator.2018.HDTS.XViD.AC3-ETRG.avi.mp4
-type=video
-name=The Predator (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
-date=2018-09-17
-URL=https://openload.co/f/lid3G4MglmY/The_Predator_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%94%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 
 
 
-type=video
-name=Kin (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg
-date=2018-11-11
-URL=https://uptobox.com/v2hwdxmiykac
-#https://www.rapidvideo.com/e/FX39TN08UJ
-#https://openload.co/embed/9v8p0pl6KTg/GHPKIN80.Ganol.st.mkv.mp4
-#https://openload.co/f/g2xz8hVYLaQ/Kin_%282018%291080p_BluRay_x264-BLOW.Ganool.mkv.mp4
-#https://uptobox.com/dfrm5fkdw1ez   720
-#https://www.rapidvideo.com/e/FX39NU53XB   720
-#https://openload.co/embed/vCiErrTSQPA/SHQKINBD72.Ganol.st.mkv.mp4
-#https://openload.co/f/FgLw85UALbc/Kin.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/Hk7_a4ES5NI/Kin_%282018%29720p_BluRay_x264-BLOW.Ganool.mkv.mp4
-#https://openload.co/f/aTzNLU8FTDM/Kin_1080pHD_SeeHD.mkv.mp4
-#https://openload.co/f/ugMV8Vk0VEs/Kin_2018_1080p_WEB_DL_DD5_1_H264_FGT.mkv.mp4
-#https://openload.co/f/gzmFS9oLl18/Kin_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/sRU_ZEJHE28/Kin_2018_720p_HDCAM_X264.mkv.mp4
-type=video
-name=Kin (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg
-date=2018-09-10
-URL=https://openload.co/f/6aVEUo3AkIQ/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
 
 
 
@@ -7619,6 +7591,28 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=Constantine: City of Demons The Movie (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXXVaKZYzUVwqJTRYmgWza9hFPh.jpg
+date=2018-10-10
+URL=https://openload.co/f/8hNrCDpfvgM/Constantine.City.of.Demons.The.Movie.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
+#https://openload.co/f/3y92vGZwUXo/Constantine.City.of.Demons.The.Movie.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
+#https://openload.co/f/GTpvmgzKM8g/Constantine.City.of.Demons.The.Movie.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
+#https://openload.co/f/SxUpkwA5Nto/Constantine.City.of.Demons.The.Movie.2018.BDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/Fl6WPCBUWgw/Constantine%3A_City_of_Demons_%282018%29720p_BluRay_x264.DTS-FGT.Ganool.mkv.mp4
+#https://uptobox.com/0cwoaijjgutb   720
+#https://www.rapidvideo.com/e/FWBOKOPY26   720
+#https://openload.co/embed/2q3xvVNwObw/CONTSTATINECITOFDEMONBD72.Ganol.st.mkv.mp4
+type=video
+name=Constantine: City of Demons The Movie (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXXVaKZYzUVwqJTRYmgWza9hFPh.jpg
+date=2018-11-12
+URL=https://openload.co/f/GRagHYfO_U8/Constantine%3A_City_of_Demons_The_Movie_%282018%29Constantine_City_of_Demons_%282018%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -9929,6 +9923,54 @@ URL=
 
 
 type=video
+name=The Predator (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
+date=2018-11-09
+URL=https://openload.co/f/Sq_bHkOyhsg/The.Predator.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/KhCTO6F_AwU/The.Predator.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
+#https://openload.co/f/pWpbXzEqrwI/The.Predator.2018.NOLOGO.NEW.720p.Telesync.mp4
+#https://openload.co/f/v01aS6svE6E/The.Predator.2018.CLEAN.NEW.720p.TELESYNC.mkv.mp4
+#https://openload.co/f/1W4qs2550Sc/The_Predator_2018_NEW_720p_HDCAM-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/JzqururTlsI/The_Predator_2018_NEW_720p_HDCAM_V2-1XBET_SeeHD.mp4
+#https://openload.co/f/rroY7-gdIXA/The_Predator_2018_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/x3c5W9f8jUc/The_Predator_2018_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/-4OAnxDQ6nw/The.Predator.2018.TS-1XBET.mp4
+#https://openload.co/f/TFCD6jtwgUM/The.Predator.2018.HDTS.XviD-AVID.avi.mp4
+#https://openload.co/f/t11kc2vcOC4/The.Predator.2018.HDTS.XViD.AC3-ETRG.avi.mp4
+type=video
+name=The Predator (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
+date=2018-11-12
+URL=https://openload.co/f/Ecq3clLaBMw/The_Predator_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%94%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/lid3G4MglmY/The_Predator_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%94%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=Kin (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg
+date=2018-11-11
+URL=https://uptobox.com/v2hwdxmiykac
+#https://www.rapidvideo.com/e/FX39TN08UJ
+#https://openload.co/embed/9v8p0pl6KTg/GHPKIN80.Ganol.st.mkv.mp4
+#https://openload.co/f/g2xz8hVYLaQ/Kin_%282018%291080p_BluRay_x264-BLOW.Ganool.mkv.mp4
+#https://uptobox.com/dfrm5fkdw1ez   720
+#https://www.rapidvideo.com/e/FX39NU53XB   720
+#https://openload.co/embed/vCiErrTSQPA/SHQKINBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/FgLw85UALbc/Kin.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Hk7_a4ES5NI/Kin_%282018%29720p_BluRay_x264-BLOW.Ganool.mkv.mp4
+#https://openload.co/f/aTzNLU8FTDM/Kin_1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/ugMV8Vk0VEs/Kin_2018_1080p_WEB_DL_DD5_1_H264_FGT.mkv.mp4
+#https://openload.co/f/gzmFS9oLl18/Kin_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/sRU_ZEJHE28/Kin_2018_720p_HDCAM_X264.mkv.mp4
+type=video
+name=Kin (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg
+date=2018-11-12
+URL=https://openload.co/f/FlrEAeVIcf8/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/6aVEUo3AkIQ/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
 name=The Nun (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg
 date=2018-10-30
@@ -9981,10 +10023,13 @@ URL=https://openload.co/f/7AJRG45ucng/Christopher_Robin_%282018%29%E0%B8%84%E0%B
 
 
 type=video
-name=The Equalizer 2 (2018) ENG 1080p_WEB-DL_X264-24HD_SeeHD
+name=The Equalizer 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg
-date=2018-08-30
-URL=https://openload.co/f/5zxgEe8wZSU/The_Equalizer_2_2018_1080p_WEB-DL_X264-24HD_SeeHD.mkv.mp4
+date=2018-11-12
+URL=https://openload.co/f/t0FEeTqDWuY/The.Equalizer.2.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/hPvmmxLf1fw/The.Equalizer.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/mTzShlqLWR8/The.Equalizer.2.2018.720p.Bluray.X264-EVO.mkv.mp4
+#https://openload.co/f/5zxgEe8wZSU/The_Equalizer_2_2018_1080p_WEB-DL_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/yCHpgnvj7p0/The.Equalizer.2.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/guaYhTNrJ6k/the.equalizer.2.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/pul-OiRrhII/Equalizer_2_2018_720p_HD-TS_x264-24HD_SeeHD.mkv.mp4
@@ -10651,7 +10696,7 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=
 thumb=
-date=2018-11-10
+date=2018-11-12
 URL=
 
 
@@ -10659,7 +10704,11 @@ URL=
 
 
 
-
+type=video
+name=Hanson and the Beast (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vWakNJt07YJFtWbGWz7isvEint.jpg
+date=2018-11-12
+URL=https://openload.co/f/KJV9K0AYCSc/Hanson_and_the_Beast_%282017%29%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%A2%E0%B8%B1%E0%B8%A2%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88.mp4
 
 type=video
 name=The Villainess (2017) TH
@@ -10698,8 +10747,9 @@ URL=https://uptobox.com/wprmsaewlkan
 type=video
 name=Alpha (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg
-date=2018-11-09
-URL=https://openload.co/f/GMA2jNk4hJ0/Alpha_%282018%29%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_20%2C000_%E0%B8%9B%E0%B8%B5.mp4
+date=2018-11-12
+URL=https://openload.co/f/TtzI8QsTDeA/Alpha_%282018%29%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_20%2C000_%E0%B8%9B%E0%B8%B5.mp4
+#https://openload.co/f/GMA2jNk4hJ0/Alpha_%282018%29%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_20%2C000_%E0%B8%9B%E0%B8%B5.mp4
 #https://openload.co/f/SDY3S92DgtE/Alpha_%282018%29%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_20%2C000_%E0%B8%9B%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://openload.co/f/VGbz3dsmCxQ/Alpha_%282018%29%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC_20%2C000_%E0%B8%9B%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
@@ -10716,8 +10766,9 @@ URL=https://uptobox.com/dmzr8u1t3zm0
 type=video
 name=Along With the Gods: The Last 49 Days (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg
-date=2018-11-09
-URL=https://openload.co/f/GIT0Ufp2eNQ/Along_With_the_Gods%3A_The_Last_49_Days_%282018%29%E0%B8%9D%E0%B9%88%E0%B8%B2_7_%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2_2.mp4
+date=2018-11-12
+URL=https://openload.co/f/8iKjkqq6C2c/Along_With_the_Gods%3A_The_Last_49_Days_%282018%29%E0%B8%9D%E0%B9%88%E0%B8%B2_7_%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2_2.mp4
+#https://openload.co/f/GIT0Ufp2eNQ/Along_With_the_Gods%3A_The_Last_49_Days_%282018%29%E0%B8%9D%E0%B9%88%E0%B8%B2_7_%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2_2.mp4
 #https://openload.co/f/qv611gUWxpE/Along_With_the_Gods%3A_The_Last_49_Days_%282018%29%E0%B8%9D%E0%B9%88%E0%B8%B2_7_%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
@@ -10771,8 +10822,9 @@ URL=https://uptobox.com/7ead2a0jdeme
 type=video
 name=Leave No Trace (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/awGdHLQdPARAWyiT4hzu1ZFdsHO.jpg
-date=2018-11-09
-URL=https://openload.co/f/tQIC7_l1qaM/Leave_No_Trace_%282018%29%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%99%E0%B8%B2%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%99.mp4
+date=2018-11-12
+URL=https://openload.co/f/Vtyv2PsMU0U/Leave_No_Trace_%282018%29%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%99%E0%B8%B2%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%99.mp4
+#https://openload.co/f/tQIC7_l1qaM/Leave_No_Trace_%282018%29%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%99%E0%B8%B2%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%99.mp4
 
 
 type=video
@@ -11552,7 +11604,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-10
+date=2018-11-12
 URL=
 
 
@@ -11563,6 +11615,19 @@ URL=
 
 
 
+
+
+type=video
+name=The Girl with the Dragon Tattoo (2011) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/voxRWFTtagLiqnJQs9tWQLB0MN.jpg
+date=2018-11-12
+URL=https://openload.co/f/AkneHq1qwcw/The_Girl_With_The_Dragon_Tattoo.2011.HD_1080p.mp4
+
+type=video
+name=The Girl with the Dragon Tattoo (2009) [COLOR=FF00FF00]SWE HD 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pRod9YBfBwC0tPfMijhYSdSlwU.jpg
+date=2018-11-12
+URL=https://openload.co/f/hjB8JxrVyVM/The_Girl_with_the_Dragon_Tattoo.2009.HD_1080p.mp4
 
 type=video
 name=Rambo III (1988) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]

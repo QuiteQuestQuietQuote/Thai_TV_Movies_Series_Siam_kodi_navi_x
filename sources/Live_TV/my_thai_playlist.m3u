@@ -2418,8 +2418,7 @@ http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel22/pl
 http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel32/playlist.m3u8
 #EXTINF:-1,bs24
 http://sdn-global-live-http-cache.3qsdn.com/2346/_definst_///mp4:Ct6zG7Nrj3v2JxD/manifest.m3u8
-#EXTINF:-1,bs24
-http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+
 
 
 #EXTINF:-1,XXX18+
@@ -2554,6 +2553,8 @@ rtsp://ss1.firestormmedia.tv:1935/ingest_cellcast/encoder31?channelID=252
 
 #EXTINF:-1,KOR_XXX
 http://122.38.74.172:9981/stream/channelid/1463854277
+#EXTINF:-1,KOR_???
+http://1.232.68.129:9981/stream/channelid/1920324811
 #EXTINF:-1,VENUS
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/63.m3u8
 #EXTINF:-1,redlight
@@ -2562,6 +2563,10 @@ http://51.15.49.176:8081/ygYW03AENuY8xa/redlight.m3u8
 http://78.141.113.63:8001/1:0:16:3725:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,Bunga Bunga 
 http://5.135.92.138:58143/out/i/109_1.m3u8
+#EXTINF:-1,bs24
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+#EXTINF:-1,Hustler_nibbletv
+http://tvg.nibbletv.info/CH/Ckhs49ihZzZu/Hustler.m3u8
 
 
 #EXTINF:-1,Private
@@ -2591,6 +2596,8 @@ http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2072.m3u8
 
 #EXTINF:-1,Eroxxx_8888
 http://185.168.15.240:8888/eroxxx/index.m3u8
+#EXTINF:-1,Erox_8888
+http://185.168.15.240:8888/erox/index.m3u8
 
 
 #EXTINF:-1,Redlight_HD
@@ -3127,6 +3134,11 @@ http://210.210.155.35/session/98bcfbb2-cd03-11e8-8197-b82a72d63267/uq2663/h/h231
 #EXTINF:-1,Q_LIFE
 http://5.135.92.138:58143/out/u/29_1.m3u8
 
+#EXTINF:-1,HBO_nibbletv
+http://tvg.nibbletv.info/CH/Ckhs49ihZzZu/HBO.m3u8
+#EXTINF:-1,Fox-Action_nibbletv
+http://tvg.nibbletv.info/CH/Ckhs49ihZzZu/Fox-Action.m3u8
+
 
 #EXTINF:-1,Food Network Russia HD_onlybestxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/861/index.m3u8
@@ -3273,41 +3285,49 @@ http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8
 https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_telekomtv
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,DA Vinci
+#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
 
 
 
-#EXTINF:-1,cnex
+#EXTINF:-1  tvg-logo="http://www.taiwancinema.com/ImageData/322/2018/79185/t_79185.png",cnex
 http://61.58.60.230:9000/live/257.m3u8
-#EXTINF:-1,opensky_CHN
+#EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/d2/37/1dd237c0-dc9f-43a2-a6f5-3b2e7f31e8ff/source/512x512bb.jpg",opensky_CHN
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
 
 
 #EXTINF:-1,PhoneCam
 https://alhls-cdn.zhanqi.tv/zqlive/246422_GSpB2.m3u8
-#EXTINF:-1,miamitv
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Miami-TV.jpg",miamitv
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1,persik_nuart tv
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",persik_nuart tv
 http://persik.by/stream/1418/252987/10003.m3u8
-#EXTINF:-1,nuart tv_udp
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp
 http://212.19.14.230:81/udp/239.191.254.250:15285
-#EXTINF:-1,nuart tv_a00l
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_a00l
 http://86.57.182.131:8905/play/a00l
-#EXTINF:-1,ftv_midnite_secrets
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_AdultTVLive.net
+http://51.15.201.17:8081/live/nuart/chunks.m3u8?nimblesessionid=1836560&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxOCA5OjM5OjIwIFBNJmhhc2hfdmFsdWU9aFM3WEpQZXV2a1RuRDRGRk90Q3RWdz09JnZhbGlkbWludXRlcz0xODA=
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_hochu.tv
+http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggaa8bde68418608945043e1c94a321734T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg",ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:0, Jasmin Tv 
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Jasmin-TV.png",Jasmin Tv 
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:-1,NR1 4K
+#EXTINF:-1,BesTV4K_CHN
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000499/index.m3u8
+#EXTINF:-1  tvg-logo="http://samara11x11.ucoz.ru/music/NR1_4K_ULTRA_HD_TV.png",NR1 4K
 http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8
-#EXTINF:-1,music-choice
+#EXTINF:-1  tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784160_logo_djing_wild_edm.png",djing
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1  tvg-logo="http://3.bp.blogspot.com/-5Wbwt_uIAu0/TyhcHDsR3hI/AAAAAAAAEAc/B30c1R_Rd44/s1600/Music+Choice+logo+2012.jpg",music-choice
 http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
-#EXTINF:-1,hit_tv
+#EXTINF:-1  tvg-logo="http://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png",hit_tv
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 
-#EXTINF:-1,100automoto
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/551035274344402946/ywxl9pq3_400x400.jpeg",100automoto
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 
@@ -3315,15 +3335,15 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 #EXTINF:-1,Documentary_CHN
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://www.cgtn.com/public/bundle/images/event/live_DO.png",CGTN Documentary
+#EXTINF:-1 group-title="docu" tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/02/CGTN_Documentary_logo-1.png",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://www.cgtn.com/public/bundle/images/event/live_EN.png",CGTN
+#EXTINF:-1 group-title="news" tvg-logo="http://america.cgtn.com/wp-content/uploads/2016/12/af61fb95-f5cb-418b-b24a-61c6b1991dd4-640x640.jpg",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/CNA-logo.gif",Channel News Asia
 https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png",NHK WORLD HD
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ia/180712050027.png",BBC NEWS_HD
+#EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS_HD
 http://jabber.divan.tv:8008/tv.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
