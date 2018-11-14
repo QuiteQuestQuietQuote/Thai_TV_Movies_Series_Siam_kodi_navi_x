@@ -2584,7 +2584,10 @@ http://188.6.147.240:8081/play/a00l
 http://86.57.182.131:8905/play/a00l
 #EXTINF:-1,nuart tv_a00l?m3u8
 http://86.57.182.131:8905/play/a00l?m3u8
-
+#EXTINF:-1,Playboy TV 
+http://195.88.126.168:8008/play/a083/index.m3u8 
+#EXTINF:-1,Hustler HD 
+http://195.88.126.168:8008/play/a0cp/index.m3u8
 
 
 #EXTINF:-1,Passiexxx_live
@@ -3312,9 +3315,9 @@ http://212.19.14.230:81/udp/239.191.254.250:15285
 http://86.57.182.131:8905/play/a00l
 
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_AdultTVLive.net
-http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAxOCAxMDo0Mjo0NCBQTSZoYXNoX3ZhbHVlPXhheG94SFRQQ2ZtcU5FSHUxVG1EUkE9PSZ2YWxpZG1pbnV0ZXM9MTgw
+http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxOCA5OjQ5OjQ2IEFNJmhhc2hfdmFsdWU9dUpsbEtBeW00OTEzdTRZcmxQem9KUT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_hochu.tv
-http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg01641064017238d6e9549a08be98d02dT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg3d97a03aaff9cfed19544c1b583a7b05T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg",ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
