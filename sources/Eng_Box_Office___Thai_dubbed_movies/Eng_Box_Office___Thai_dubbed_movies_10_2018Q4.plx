@@ -1333,7 +1333,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-13
+date=2018-11-14
 URL=
 
 
@@ -1344,6 +1344,49 @@ URL=
 
 
 
+
+type=video
+name=Cut Shoot Kill (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDJAZWq7kS1G6eps4oJCKOgutHU.jpg
+date=2018-11-14
+URL=https://openload.co/f/lUiQHD8oJFI/Cut_Shoot_Kill.2017.1080p.BlRy.x264-%5BYTS.M%5D.mp4
+#https://uptobox.com/a1mp9tp3xly2
+#https://openload.co/embed/I7JodYqGOBc/CUTSHOOTKILBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/IwThhLqJL_U/Cut_Shoot_Kill_%282017%29720p_BluRay_x264-JustWatch.Ganool.mkv.mp4
+
+type=video
+name=What Still Remains (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5CarXbHeeCCd4x2pTvez3dV39p.jpg
+date=2018-11-14
+URL=https://openload.co/f/s1m_gMjQMDU/What.Still.Remains.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Thousand Yard Stare (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOnW5DYWwHyU0oeGmqaLbgnK1sJ.jpg
+date=2018-11-14
+URL=https://openload.co/f/krXATB5Q_6k/thousand.yard.stare.2018.1080p.bluray.x264-getit.mkv.mp4
+
+type=video
+name=Izzy Gets the F*ck Across Town (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/PB9GF6RkDNVPhuk4hl1WICeomU.jpg
+date=2018-11-14
+URL=https://openload.co/f/6iw_z3cjngg/Izzy.Gets.the.Fuck.Across.Town.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Cold War (2018) [COLOR=FF00FF00]POL BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsv6vWhJyRhwzmDN4kjs3ACV97Q.jpg
+date=2018-11-14
+URL=https://openload.co/f/wCVzloWBo2c/Cold.War.2018.1080p.BRRip.x264.AC3.HORiZON-ArtSubs.mp4
+
+type=video
+name=Mara (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQDmXAef1Oc1SXci5mui2x5DJwt.jpg
+date=2018-11-14
+URL=https://uptobox.com/98yswn0ykk3e
+#https://www.rapidvideo.com/e/FX7V1P6IUA
+#https://openload.co/embed/1cXgHyU4v1I/GHPMARA80.Ganol.st.mkv
+#https://openload.co/f/GIo_tcqtP3g/Mara_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+#https://openload.co/f/dZk2xWMx1HA/Mara.2018.1080p.BR_SeeHD.mp4
 
 type=video
 name=Little Italy (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1922,30 +1965,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/PoEF9xNNBGnmbp0loiEMoUMBN.
 date=2018-10-13
 URL=https://openload.co/f/hXtYN-Kixqo/With.a.Kiss.I.Die.2018.1080p.BluRay.x264.DTS-CHD.mkv.mp4
 
-type=video
-name=Mamma Mia! Here We Go Again (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg
-date=2018-10-17
-URL=https://uptobox.com/dy80m9yaua4a
-#https://www.rapidvideo.com/e/FWB73IYQSZ
-#https://openload.co/embed/dlz7yxRGI3k/GHPMAMAMIAGOAGAIN80.Ganol.st.mkv.mp4
-#https://openload.co/f/_kOr_l7UYGU/mamma.mia.here.we.go.again.2018.1080p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/PcEm2R_ddoQ/Mamma_Mia%21_Here_We_Go_Again_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
-#https://openload.co/f/uby_OvgIw4k/Mamma.Mia.Here.We.Go.Again.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/nQOQMe9Q_tc/mamma.mia.here.we.go.again.2018.720p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/2xgPIDDA0_g/Mamma.Mia.Here.We.Go.Again.2018.720p.BRRip.x264.mkv.mp4
-#https://openload.co/f/i4zUhcL9Eps/Mamma.Mia.Here.We.Go.Again.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/2bm-OjziphU/Mamma.Mia.Here.We.Go.Again.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/kYVcXvjBX7U/Mamma.Mia.Here.We.Go.Again.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/IW1yONbl8K8/Mamma_Mia_Here_We_Go_Again_2018_1080p_HC_HDRip_X264_AC3-EVO.mkv.mp4
-#https://openload.co/f/kMaDKUhPbzw/Mamma.Mia.Here.We.Go.Again.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/tEGouttmdug/Mamma.Mia.Here.We.Go.Again.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/4rQ-PpCodrE/Mamma.Mia%21.2.2018.720p.HDCAM.1XBET_SeeHD.mp4
-#https://openload.co/f/-PY_xqQbWaE/Mamma.Mia%21.2.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/0GMiNTnnP7U/Mamma_Mia%21_Here_We_Go_Again_%282018%29720p_BluRay_x264-SPARKS.Ganool.mkv.mp4
-#https://uptobox.com/4q4q2uyf9ngy   720
-#https://www.rapidvideo.com/e/FW6WTZGEQQ   720
-#https://openload.co/embed/xFqCGSoc3QU/SHQMAMMAMIAWEGOAGAINBD72.Ganol.st.mkv.mp4
+
 
 type=video
 name=Sorry to Bother You (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7190,15 +7210,16 @@ URL=https://uptobox.com/r3e5qfn63v70
 #https://openload.co/embed/X6CHbQwhKZY/DEADMENBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/YhUK1gLgPmU/Dead_Men_%282018%29720p.BluRay.x264.DTS-FGT.Ganool.mkv.mp4
 
+
+
 type=video
-name=Cut Shoot Kill (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDJAZWq7kS1G6eps4oJCKOgutHU.jpg
-date=2018-11-13
-URL=https://uptobox.com/a1mp9tp3xly2
-#https://openload.co/embed/I7JodYqGOBc/CUTSHOOTKILBD72.Ganol.st.mkv.mp4
-#https://openload.co/f/IwThhLqJL_U/Cut_Shoot_Kill_%282017%29720p_BluRay_x264-JustWatch.Ganool.mkv.mp4
-
-
+name=American Dresser (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPTz8HzLFSrPRxek9TwVk9H9UlU.jpg
+date=2018-11-14
+URL=https://uptobox.com/vt6ss0gugngs
+#https://www.rapidvideo.com/e/FX7YG2B148
+#https://openload.co/embed/SdfYIJnWtMQ/AMERICANDRESSERBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/TcW2XgvaFbk/American_Dresser_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
 
 
 
@@ -7207,7 +7228,7 @@ URL=https://uptobox.com/a1mp9tp3xly2
 type=video
 name=
 thumb=
-date=2018-11-12
+date=2018-11-14
 URL=
 
 type=video
@@ -7612,7 +7633,7 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 type=video
 name=
 thumb=
-date=2018-11-04
+date=2018-11-14
 URL=
 
 
@@ -7621,6 +7642,55 @@ URL=
 
 
 
+type=video
+name=Beyond The Sky (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MSEsfiJ7Bh2BXahF0rpXbOryzp.jpg
+date=2018-11-14
+URL=https://openload.co/f/WYWHd-mFGA8/Beyond_The_Sky_%282018%29Beyond_The_Sky_%282018%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=First Kill (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoia9YSg82UNYbtum9QYjKSqdLw.jpg
+date=2017-08-26
+URL=https://www.blazefile.co/embed-27rfapn20mrg.html
+#https://openload.co/f/kRXMBZLd5rQ/First.Kill.2017.720p.BluRay.x264-ROVERS.mkv.mp4
+type=video
+name=First Kill (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoia9YSg82UNYbtum9QYjKSqdLw.jpg
+date=2018-11-14
+URL=https://openload.co/f/aaQIaLwuAP0/First_Kill_%282017%29First_Kill_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Mamma Mia! Here We Go Again (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg
+date=2018-10-17
+URL=https://uptobox.com/dy80m9yaua4a
+#https://www.rapidvideo.com/e/FWB73IYQSZ
+#https://openload.co/embed/dlz7yxRGI3k/GHPMAMAMIAGOAGAIN80.Ganol.st.mkv.mp4
+#https://openload.co/f/_kOr_l7UYGU/mamma.mia.here.we.go.again.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/PcEm2R_ddoQ/Mamma_Mia%21_Here_We_Go_Again_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
+#https://openload.co/f/uby_OvgIw4k/Mamma.Mia.Here.We.Go.Again.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/nQOQMe9Q_tc/mamma.mia.here.we.go.again.2018.720p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/2xgPIDDA0_g/Mamma.Mia.Here.We.Go.Again.2018.720p.BRRip.x264.mkv.mp4
+#https://openload.co/f/i4zUhcL9Eps/Mamma.Mia.Here.We.Go.Again.2018.720p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/2bm-OjziphU/Mamma.Mia.Here.We.Go.Again.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/kYVcXvjBX7U/Mamma.Mia.Here.We.Go.Again.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/IW1yONbl8K8/Mamma_Mia_Here_We_Go_Again_2018_1080p_HC_HDRip_X264_AC3-EVO.mkv.mp4
+#https://openload.co/f/kMaDKUhPbzw/Mamma.Mia.Here.We.Go.Again.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/tEGouttmdug/Mamma.Mia.Here.We.Go.Again.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/4rQ-PpCodrE/Mamma.Mia%21.2.2018.720p.HDCAM.1XBET_SeeHD.mp4
+#https://openload.co/f/-PY_xqQbWaE/Mamma.Mia%21.2.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/0GMiNTnnP7U/Mamma_Mia%21_Here_We_Go_Again_%282018%29720p_BluRay_x264-SPARKS.Ganool.mkv.mp4
+#https://uptobox.com/4q4q2uyf9ngy   720
+#https://www.rapidvideo.com/e/FW6WTZGEQQ   720
+#https://openload.co/embed/xFqCGSoc3QU/SHQMAMMAMIAWEGOAGAINBD72.Ganol.st.mkv.mp4
+type=video
+name=Mamma Mia! Here We Go Again (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg
+date=2018-11-14
+URL=https://openload.co/f/iAAmMILl5WA/Mamma_Mia%21_Here_We_Go_Again_%282018%29Mamma_Mia%21_Here_We_Go_Again_%282018%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -10052,8 +10122,13 @@ URL=https://openload.co/f/7AJRG45ucng/Christopher_Robin_%282018%29%E0%B8%84%E0%B
 type=video
 name=The Equalizer 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg
-date=2018-11-12
-URL=https://openload.co/f/t0FEeTqDWuY/The.Equalizer.2.2018.1080p.BR_SeeHD.mp4
+date=2018-11-14
+URL=https://uptobox.com/n3qpq3b9xzv9
+#https://www.rapidvideo.com/e/FX7OGNRI5J
+#https://openload.co/embed/SB2cMc0Mj88/GHPTHEEQUALIZER280.Ganol.st.mkv.mp4
+#https://openload.co/f/cbmbRth8b8I/The_Equalizer_2_%282018%291080p_BluRay_X264-DEFLATE.Ganool.mkv.mp4
+#https://openload.co/f/7SLHqHYyluM/The.Equalizer.2.2018.1080p.BluRay.6CH.x264.MkvCage.ws.mkv.mp4
+#https://openload.co/f/t0FEeTqDWuY/The.Equalizer.2.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/hPvmmxLf1fw/The.Equalizer.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/mTzShlqLWR8/The.Equalizer.2.2018.720p.Bluray.X264-EVO.mkv.mp4
 #https://uptobox.com/g150youdvi1u   720
@@ -10099,10 +10174,15 @@ URL=https://openload.co/f/a8uGQjWj-7M/A.X.L._%282018%29%E0%B9%81%E0%B8%AD%E0%B8%
 
 
 type=video
-name=Mile 22 (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=Mile 22 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
-date=2018-11-13
-URL=https://openload.co/f/ji_IF6DbStA/Mile.22.2018.720p.BluRay.X264-AMIABLE.mkv.mp4
+date=2018-11-14
+URL=https://uptobox.com/igie3h0pwv9m
+#https://www.rapidvideo.com/e/FX7TTGNEGZ
+#https://openload.co/embed/F9ZFLJPDK7A/GHPMILE2280.Ganol.st.mkv
+#https://openload.co/f/Pj3gPJeZsF0/Mile_22_%282018%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://openload.co/f/UJn-FeLB0pE/Mile.22.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/ji_IF6DbStA/Mile.22.2018.720p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/yIocH9qI0Dw/mile.22.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/CKWA5RoXQl0/Mile.22.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 #https://openload.co/f/yLdLfVPKaOs/Mile.22.2018.1080p.HDRip.mkv.mp4

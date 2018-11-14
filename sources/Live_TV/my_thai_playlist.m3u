@@ -2458,10 +2458,7 @@ http://109.224.64.146/master_344.m3u8
 
 
 
-#EXTINF:-1, WAAYH
-http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/922/index.m3u8
-#EXTINF:-1,PenthouseHD
-http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
+
 
 #EXTINF:-1,Playhousexxxxxxxxxxxxxxxxxxxxxxxx
 http://89.212.214.162:7781/udp/239.18.1.235:5000
@@ -2543,8 +2540,12 @@ http://172.104.114.178/vod/live/4/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 
 #EXTINF:-1,planetahd
 http://84.43.207.130/planetahd/planetahd.m3u8
-#EXTINF:-1,GER_XXX
-http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+
+#EXTINF:-1, WAAYH
+http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/922/index.m3u8
+#EXTINF:-1,PenthouseHD
+http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
+
 #EXTINF:-1,lovestream_rtmp
 rtmp://5-direct555-axd-10-xx.hnwzzy.com:1935/live/999888
 #EXTINF:-1,CHN_rtmp
@@ -3315,9 +3316,9 @@ http://212.19.14.230:81/udp/239.191.254.250:15285
 http://86.57.182.131:8905/play/a00l
 
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_AdultTVLive.net
-http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxOCA5OjQ5OjQ2IEFNJmhhc2hfdmFsdWU9dUpsbEtBeW00OTEzdTRZcmxQem9KUT09JnZhbGlkbWludXRlcz0xODA=
+http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxOCAxMToxOToxOCBQTSZoYXNoX3ZhbHVlPURXL1BxSGZMN2NZcEhSWWRHdHZtZnc9PSZ2YWxpZG1pbnV0ZXM9MTgw
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_hochu.tv
-http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg3d97a03aaff9cfed19544c1b583a7b05T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg4e787fdd3d714b9e3798295990eb9c7eT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg",ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8

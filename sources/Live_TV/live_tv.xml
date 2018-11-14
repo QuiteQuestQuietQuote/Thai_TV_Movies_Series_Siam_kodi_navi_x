@@ -361,7 +361,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=
 <name>link</name>
 <expres></expres>
 <page>http://www.adulttvlive.net/channels/nuarttv.php/</page>
-<referer>http://www.adulttvlive.net/nuart-tv-live/</referer>
+<referer>http://www.adulttvlive.net/nuart-tv-embed/</referer>
 <cookieJar></cookieJar>
 </regex>
 </item>
