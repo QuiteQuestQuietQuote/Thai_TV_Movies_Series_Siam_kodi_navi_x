@@ -2567,8 +2567,7 @@ http://78.141.113.63:8001/1:0:16:3725:C8E:3:EB0000:0:0:0:
 http://5.135.92.138:58143/out/i/109_1.m3u8
 #EXTINF:-1,bs24
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-#EXTINF:-1,Hustler_nibbletv
-http://tvg.nibbletv.info/CH/Ckhs49ihZzZu/Hustler.m3u8
+
 
 
 #EXTINF:-1,Private
@@ -3141,10 +3140,6 @@ http://210.210.155.35/session/98bcfbb2-cd03-11e8-8197-b82a72d63267/uq2663/h/h231
 #EXTINF:-1,Q_LIFE
 http://5.135.92.138:58143/out/u/29_1.m3u8
 
-#EXTINF:-1,HBO_nibbletv
-http://tvg.nibbletv.info/CH/Ckhs49ihZzZu/HBO.m3u8
-#EXTINF:-1,Fox-Action_nibbletv
-http://tvg.nibbletv.info/CH/Ckhs49ihZzZu/Fox-Action.m3u8
 
 
 #EXTINF:-1,Food Network Russia HD_onlybestxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -3316,15 +3311,21 @@ http://212.19.14.230:81/udp/239.191.254.250:15285
 http://86.57.182.131:8905/play/a00l
 
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_AdultTVLive.net
-http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxOCAxMToxOToxOCBQTSZoYXNoX3ZhbHVlPURXL1BxSGZMN2NZcEhSWWRHdHZtZnc9PSZ2YWxpZG1pbnV0ZXM9MTgw
+http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxOCA5OjEzOjE1IFBNJmhhc2hfdmFsdWU9dkFrZkF0a29zMXlPWWFYWnhTcXBXdz09JnZhbGlkbWludXRlcz0xODA=
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_AdultTVLive.net_embed
+http://www.adulttvlive.net/nuart-tv-embed/
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_hochu.tv
-http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg4e787fdd3d714b9e3798295990eb9c7eT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggeb5d5e8a05072c1b0267a370d78c6dbbT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,[18+] Nuart TV
+http://astra.climetv.eu:35471/play/nuart?token=testplaylistCLIMETV
 
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg",ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Jasmin-TV.png",Jasmin Tv 
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
+#EXTINF:-1,GONG_movie
+http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
 #EXTINF:-1,BesTV4K_CHN
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000499/index.m3u8
 #EXTINF:-1  tvg-logo="http://samara11x11.ucoz.ru/music/NR1_4K_ULTRA_HD_TV.png",NR1 4K

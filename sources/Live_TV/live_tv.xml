@@ -361,7 +361,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=
 <name>link</name>
 <expres></expres>
 <page>http://www.adulttvlive.net/channels/nuarttv.php/</page>
-<referer>http://www.adulttvlive.net/nuart-tv-embed/</referer>
+<referer>http://www.adulttvlive.net/nuart-tv-live/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36</agent>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -376,14 +377,26 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=
 <expres></expres>
 <page>http://cdntvnet.com/nuart.php</page>
 <referer>http://hochu.tv/nuart-tv.html</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36</agent>
 <cookieJar></cookieJar>
 </regex>
 </item>
 
 
 
-
-
+<item>
+<title>nuart</title>
+<thumbnail>http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png</thumbnail>
+<link>$doregex[link]</link>
+<regex>
+<name>link</name>
+<expres></expres>
+<page>http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxOCA5OjEzOjE1IFBNJmhhc2hfdmFsdWU9dkFrZkF0a29zMXlPWWFYWnhTcXBXdz09JnZhbGlkbWludXRlcz0xODA=</page>
+<referer>http://www.adulttvlive.net/channels/nuarttv.php/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
 
 

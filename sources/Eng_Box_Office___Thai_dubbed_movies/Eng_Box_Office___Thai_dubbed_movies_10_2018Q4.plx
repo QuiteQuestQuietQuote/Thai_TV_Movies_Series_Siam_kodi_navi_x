@@ -111,10 +111,11 @@ date=2018-11-01
 URL=https://openload.co/f/W8e57zl-ZDc/The_Nutcracker_and_the_Four_Realms_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
 type=video
-name=Bohemian Rhapsody (2018) ENG 720p_HDCAM-1XBET_SeeHD
+name=Bohemian Rhapsody (2018) ENG 720p_HD-TS_X264-Arahant_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf7jiy0rDVn1ljUwv3pWKousQ1p.jpg
-date=2018-11-01
-URL=https://openload.co/f/QCRboGzcoRY/Bohemian_Rhapsody_2018_720p_HDCAM-1XBET_SeeHD.mp4
+date=2018-11-15
+URL=https://openload.co/f/mne9LXmE8II/Bohemian_Rhapsody_2018_720p_HD-TS_X264-Arahant_SeeHD.mkv.mp4
+#https://openload.co/f/QCRboGzcoRY/Bohemian_Rhapsody_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
 type=video
 name=Replicas (2018) ENG HDCAM.NEWSOURCE.x264-PHOENiX
@@ -172,10 +173,12 @@ URL=https://openload.co/f/XINdJVekZzg/Smallfoot_2018_New_Src_TSRip-H264-AC3-Meow
 #https://openload.co/f/iZDs99VvCC8/Smallfoot_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
 type=video
-name=A Star Is Born (2018) ENG 720p.HDCAM.1XBET_SeeHD
+name=A Star Is Born (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg
-date=2018-10-09
-URL=https://openload.co/f/n4-PVqD7M-8/A.Star.Is.Born.2018.720p.HDCAM.1XBET_SeeHD.mp4
+date=2018-11-15
+URL=https://openload.co/f/F-FUmjRW-E8/A.Star.is.Born.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/YXp9ToPlKR8/A.Star.is.Born.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/n4-PVqD7M-8/A.Star.Is.Born.2018.720p.HDCAM.1XBET_SeeHD.mp4
 
 type=video
 name=London Fields (2018) RUS 720p_RUS_TS_ENG_SUB-1XBET_SeeHD
@@ -1333,7 +1336,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-14
+date=2018-11-15
 URL=
 
 
@@ -1343,14 +1346,47 @@ URL=
 
 
 
+type=video
+name=Everyday Rebellion (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9Pu2h6xBNVbrYdvc13Y8mGUc2H.jpg
+date=2018-11-15
+URL=https://openload.co/f/JYR8EUNDex0/Everyday_Rebellion.2013.1080p.BlRy.x264-%5BYTS.M%5D.mp4
 
+type=video
+name=Status Update (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0oE0hzQoWxC8XaoNKidNkMBz2U.jpg
+date=2018-11-15
+URL=https://openload.co/f/PdBzc8jBho0/Status_Update.2018.1080p.BlRy.x264-%5BYTS.M%5D.mp4
+#https://uptobox.com/9e4e8mrpxi5s   720
+#https://www.rapidvideo.com/e/FX4DR3XJL0   720
+#https://openload.co/embed/4GM9j0YjP80/STATUSUPDATEBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/yU6iVmUJxaU/Status_Update_%282018%29720p_BluRay_x264-VETO.Ganool.mkv.mp4
+
+type=video
+name=American Dresser (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPTz8HzLFSrPRxek9TwVk9H9UlU.jpg
+date=2018-11-15
+URL=https://openload.co/f/iZ2smkqU6PY/American_Dresser.2018.1080p.BlRy.x264-%5BYTS.M%5D.mp4
+#https://uptobox.com/vt6ss0gugngs   720
+#https://www.rapidvideo.com/e/FX7YG2B148   720
+#https://openload.co/embed/SdfYIJnWtMQ/AMERICANDRESSERBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/TcW2XgvaFbk/American_Dresser_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+
+type=video
+name=Dick (1999) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYvJOoh6mviQcfHNbo3Y9fRoRp8.jpg
+date=2018-11-15
+URL=https://openload.co/f/8gdpfecUajo/Dick.1999.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://uptobox.com/ijgojja15hrp   720
+#https://www.rapidvideo.com/e/FX8EPPHSOW   720
+#https://openload.co/embed/OHXhHtWuodY/DICK1999BD72.Ganol.st.mkv.mp4
 
 type=video
 name=Cut Shoot Kill (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDJAZWq7kS1G6eps4oJCKOgutHU.jpg
 date=2018-11-14
 URL=https://openload.co/f/lUiQHD8oJFI/Cut_Shoot_Kill.2017.1080p.BlRy.x264-%5BYTS.M%5D.mp4
-#https://uptobox.com/a1mp9tp3xly2
+#https://uptobox.com/a1mp9tp3xly2   720
 #https://openload.co/embed/I7JodYqGOBc/CUTSHOOTKILBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/IwThhLqJL_U/Cut_Shoot_Kill_%282017%29720p_BluRay_x264-JustWatch.Ganool.mkv.mp4
 
@@ -1365,6 +1401,9 @@ name=Thousand Yard Stare (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOnW5DYWwHyU0oeGmqaLbgnK1sJ.jpg
 date=2018-11-14
 URL=https://openload.co/f/krXATB5Q_6k/thousand.yard.stare.2018.1080p.bluray.x264-getit.mkv.mp4
+#https://uptobox.com/v4rxg8hh9woa   720
+#https://www.rapidvideo.com/e/FX8EQLZNH6   720
+#https://openload.co/embed/kIcEIC3hyz0/THOUSANDYARDSTRAREBD72.Ganol.st.mkv.mp4
 
 type=video
 name=Izzy Gets the F*ck Across Town (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1412,12 +1451,14 @@ URL=https://uptobox.com/k41h2ug5abpm
 #https://www.rapidvideo.com/e/FX6I5HO2S0
 #https://openload.co/embed/LnOyt6LUJxU/GHCRAZYRICHASIAN80.Ganol.st.mkv
 #https://openload.co/f/uNLnuTOaOX0/Crazy_Rich_Asians_%282018%291080p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
+#https://openload.co/f/SQPBKoKDDp0/Crazy.Rich.Asians.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/GMKc2Z5D4IQ/Crazy.Rich.Asians.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/TMQNm3DvP_I/Crazy.Rich.Asians.2018.1080p.BluRay.x264.DD5.1-indoxxi.vip.mp4
 #https://uptobox.com/idituireetbw   720
 #https://www.rapidvideo.com/e/FX42O9MOZC   720
 #https://openload.co/embed/ZlBAc0rt1m8/SHQCRAZYRICHASIANSBD72.Ganol.st.mkv
 #https://openload.co/f/J4W0VBaY27w/Crazy_Rich_Asians_%282018%29720p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
+#https://openload.co/f/-mRds1sLizU/Crazy.Rich.Asians.2018.720p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/oIU0rdXJYWI/crazy.rich.asians.2018.720p.bluray.hevc.x265.mkv.mp4
 #https://openload.co/f/jk7YfyndNvg/Crazy.Rich.Asians.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/A1Bjb52CM4U/Crazy.Rich.Asians.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
@@ -7192,14 +7233,7 @@ URL=https://uptobox.com/twwt48iarq0w
 #https://openload.co/embed/2SmDEOHIKDk/BLOODFESTBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/EzGBIv1_k08/Blood_Fest_%282018%29720p_BluRay_x264-SADPANDA.Ganool.mkv.mp4
 
-type=video
-name=Status Update (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0oE0hzQoWxC8XaoNKidNkMBz2U.jpg
-date=2018-11-11
-URL=https://uptobox.com/9e4e8mrpxi5s
-#https://www.rapidvideo.com/e/FX4DR3XJL0
-#https://openload.co/embed/4GM9j0YjP80/STATUSUPDATEBD72.Ganol.st.mkv.mp4
-#https://openload.co/f/yU6iVmUJxaU/Status_Update_%282018%29720p_BluRay_x264-VETO.Ganool.mkv.mp4
+
 
 type=video
 name=Dead Men (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -7213,13 +7247,15 @@ URL=https://uptobox.com/r3e5qfn63v70
 
 
 type=video
-name=American Dresser (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPTz8HzLFSrPRxek9TwVk9H9UlU.jpg
-date=2018-11-14
-URL=https://uptobox.com/vt6ss0gugngs
-#https://www.rapidvideo.com/e/FX7YG2B148
-#https://openload.co/embed/SdfYIJnWtMQ/AMERICANDRESSERBD72.Ganol.st.mkv.mp4
-#https://openload.co/f/TcW2XgvaFbk/American_Dresser_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+name=The Marine 6: Close Quarters (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/clpvZaPqGb35gKChikfhOoLbnbo.jpg
+date=2018-11-15
+URL=https://uptobox.com/3p1m0o0uq5yi
+#https://www.rapidvideo.com/e/FX96IOD0RS
+#https://openload.co/embed/Wi29pF3UWB4/THEMARINE6CLOSEQUATESRSBD72.Gano.st.mkv
+#https://openload.co/f/YNubEolopbc/The_Marine_6%3A_Close_Quarters_%282018%29720p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
+
+
 
 
 
@@ -7228,7 +7264,7 @@ URL=https://uptobox.com/vt6ss0gugngs
 type=video
 name=
 thumb=
-date=2018-11-14
+date=2018-11-15
 URL=
 
 type=video
@@ -7641,7 +7677,14 @@ URL=
 
 
 
-
+type=video
+name=Beyond The Sky (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MSEsfiJ7Bh2BXahF0rpXbOryzp.jpg
+date=2018-11-15
+URL=https://uptobox.com/bho761ie3zhh
+#https://www.rapidvideo.com/e/FX8ELWL7PM
+#https://openload.co/embed/qrekxIh40AQ/BEYONDSTHESKYBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/jsaQq49qkxE/Beyond_The_Sky_%282018%29720p_BluRay_x264_DTS-MT.Ganool.mkv.mp4
 type=video
 name=Beyond The Sky (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MSEsfiJ7Bh2BXahF0rpXbOryzp.jpg
@@ -10092,31 +10135,7 @@ date=2018-11-04
 URL=https://openload.co/f/LqODIQc1TMU/Monstrum_%282018%29%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
-type=video
-name=Christopher Robin (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR5w0he6czZkcAz459a4iPBqXGe.jpg
-date=2018-11-07
-URL=https://uptobox.com/cursyiih5tjf
-#https://www.rapidvideo.com/e/FWZWXJZXYV
-#https://openload.co/embed/N_PVD511bko/GHPCHRISTOPHERROBIN80.Ganol.st.mkv
-#https://openload.co/f/2e02JQ_gY0s/Christopher_Robin_%282018%291080p_BluRay_x264-Replica.Ganool.mkv.mp4
-#https://openload.co/f/qH7nPQD2lMI/Christopher.Robin.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/a61g3Zbn-EQ/Christopher.Robin.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/TPCq3YTEWwU/christopher.robin.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/IOytJsc6Lus/christopher.robin.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/pYEwXUf1li4/Christopher_Robin_2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/5QVylv0xahs/Christopher.Robin.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/5CF8lT0LZ28/Christopher.Robin.2018.720p.BluRay.x264.DTS-FGT.mkv.mp4
-#https://openload.co/f/OZ-wRl6Zbjw/Christopher.Robin.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/6pjcCQel_S4/Christopher.Robin.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/bTipjRNrvP8/Christopher_Robin_2018_720p_HDCAM-1xBET_SeeHD.mp4
-#https://openload.co/f/6qOtYMgj21Y/Christopher.Robin.2018.NO-WATERMARK.720p.HDCAMCopy.XVID.AC3-YIN.avi.mp4
-#https://openload.co/f/2HPrMRw6_ng/Christopher.Robin.2018.HDCAM.XviD-AVID.avi.mp4
-type=video
-name=Christopher Robin (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR5w0he6czZkcAz459a4iPBqXGe.jpg
-date=2018-11-04
-URL=https://openload.co/f/7AJRG45ucng/Christopher_Robin_%282018%29%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B9%82%E0%B8%95%E0%B9%80%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
 
 
 type=video
@@ -10271,10 +10290,13 @@ URL=https://openload.co/f/K4joqrl2EDA/Final_Score_%282018%29%E0%B8%A2%E0%B8%B8%E
 
 
 type=video
-name=Mission: Impossible - Fallout (2018) ENG 1080p_WEB-DL_DD5.1_X264-24HD_SeeHD
+name=Mission: Impossible - Fallout (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
-date=2018-11-06
-URL=https://openload.co/f/J7EJz7v-a_Y/Mission_Impossible_Fallout_2018_1080p_WEB-DL_DD5.1_X264-24HD_SeeHD.mkv.mp4
+date=2018-11-15
+URL=https://openload.co/f/EbjXDVfaJYg/Mission.Impossible.Fallout.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/Nmjv9h0Pd98/Mission.Impossible.Fallout.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/YfkZmiJYuwI/Mission.Impossible.Fallout.2018.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
+#https://openload.co/f/J7EJz7v-a_Y/Mission_Impossible_Fallout_2018_1080p_WEB-DL_DD5.1_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/cYuZ2R7maEQ/Mission_Impossible_Fallout_2018_1080p_WEB-DL_DD5.1_X264-24HD_SeeHD.mkv   MKV5.7GB
 #https://openload.co/f/Dul-gg1lJEU/Mission.Impossible.Fallout.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4
 #https://openload.co/f/8nGOGqeSUlU/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
@@ -10818,6 +10840,39 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=Christopher Robin (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR5w0he6czZkcAz459a4iPBqXGe.jpg
+date=2018-11-07
+URL=https://uptobox.com/cursyiih5tjf
+#https://www.rapidvideo.com/e/FWZWXJZXYV
+#https://openload.co/embed/N_PVD511bko/GHPCHRISTOPHERROBIN80.Ganol.st.mkv
+#https://openload.co/f/2e02JQ_gY0s/Christopher_Robin_%282018%291080p_BluRay_x264-Replica.Ganool.mkv.mp4
+#https://openload.co/f/qH7nPQD2lMI/Christopher.Robin.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/a61g3Zbn-EQ/Christopher.Robin.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/TPCq3YTEWwU/christopher.robin.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/IOytJsc6Lus/christopher.robin.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/pYEwXUf1li4/Christopher_Robin_2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/5QVylv0xahs/Christopher.Robin.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/5CF8lT0LZ28/Christopher.Robin.2018.720p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/OZ-wRl6Zbjw/Christopher.Robin.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/6pjcCQel_S4/Christopher.Robin.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/bTipjRNrvP8/Christopher_Robin_2018_720p_HDCAM-1xBET_SeeHD.mp4
+#https://openload.co/f/6qOtYMgj21Y/Christopher.Robin.2018.NO-WATERMARK.720p.HDCAMCopy.XVID.AC3-YIN.avi.mp4
+#https://openload.co/f/2HPrMRw6_ng/Christopher.Robin.2018.HDCAM.XviD-AVID.avi.mp4
+type=video
+name=Christopher Robin (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR5w0he6czZkcAz459a4iPBqXGe.jpg
+date=2018-11-15
+URL=https://openload.co/f/-veJ5G7-35I/Christopher_Robin_%282018%29%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B9%82%E0%B8%95%E0%B9%80%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99.mp4
+#https://openload.co/f/7AJRG45ucng/Christopher_Robin_%282018%29%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B9%82%E0%B8%95%E0%B9%80%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
 type=video
 name=Hanson and the Beast (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vWakNJt07YJFtWbGWz7isvEint.jpg
@@ -10910,8 +10965,9 @@ URL=https://uptobox.com/6t38teon7330
 type=video
 name=The Spy Who Dumped Me (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lIr27lBdxCpzYDl6WUHzzD6l6H.jpg
-date=2018-11-09
-URL=https://openload.co/f/6e0_MYWXLoA/The_Spy_Who_Dumped_Me_%282018%29%E0%B8%AA%E0%B8%9B%E0%B8%B2%E0%B8%A2_%E0%B8%AA%E0%B8%A7%E0%B8%A1%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+date=2018-11-15
+URL=https://openload.co/f/NihdU0Inn24/The_Spy_Who_Dumped_Me_%282018%292_%E0%B8%AA%E0%B8%9B%E0%B8%B2%E0%B8%A2_%E0%B8%AA%E0%B8%A7%E0%B8%A1%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+#https://openload.co/f/6e0_MYWXLoA/The_Spy_Who_Dumped_Me_%282018%29%E0%B8%AA%E0%B8%9B%E0%B8%B2%E0%B8%A2_%E0%B8%AA%E0%B8%A7%E0%B8%A1%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 #https://openload.co/f/2cUxMTdQSAg/The_Spy_Who_Dumped_Me_%282018%29%E0%B8%AA%E0%B8%9B%E0%B8%B2%E0%B8%A2_%E0%B8%AA%E0%B8%A7%E0%B8%A1%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://streamango.com/f/dcrafonlelcdrtlo/The_Spy_Who_Dumped_Me_2018_
 
@@ -11718,7 +11774,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-12
+date=2018-11-15
 URL=
 
 
@@ -11730,6 +11786,25 @@ URL=
 
 
 
+
+
+type=video
+name=Fantastic Beasts and Where to Find Them (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M91Bt3oGspda75H9eLqYZkJzgO.jpg
+date=2018-11-15
+URL=https://openload.co/f/Huw0-yyr-0U/Fantastic.Beasts.And.Where.To.Find.Them.2016.1080p.Br_SeeHD.mp4
+
+type=video
+name=Cliffhanger (1993) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XefYka77ypAnPJvaVlfUGBBs4a.jpg
+date=2018-11-15
+URL=https://openload.co/f/HCHSoIr-CWY/Cliffhanger.1993.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Sisters (1972) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8uuN0Ad09pdgh5q0da0ihikJnb.jpg
+date=2018-11-15
+URL=https://openload.co/f/3-SeJGga8qE/Sisters.1972.REMASTERED.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
 name=The Girl with the Dragon Tattoo (2011) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
