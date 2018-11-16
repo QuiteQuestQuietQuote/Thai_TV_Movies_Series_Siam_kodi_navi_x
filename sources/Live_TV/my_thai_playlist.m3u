@@ -2541,6 +2541,13 @@ http://172.104.114.178/vod/live/4/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 #EXTINF:-1,planetahd
 http://84.43.207.130/planetahd/planetahd.m3u8
 
+#EXTINF:-1,mxmx_udp
+http://193.233.186.76:81/udp/239.191.254.170:15285
+#EXTINF:-1,Russkaya_noch_udp
+http://193.233.186.76:81/udp/239.191.254.13:15285
+#EXTINF:-1,FRENCHLOVER_udp
+http://193.233.186.76:81/udp/239.191.254.251:15285
+
 #EXTINF:-1, WAAYH
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/922/index.m3u8
 #EXTINF:-1,PenthouseHD
@@ -2578,12 +2585,16 @@ http://84.236.90.124:9000/play/hustler
 http://46.32.64.42/s/live/705/86.169.51.136/1/0.m3u8 
 
 
-#EXTINF:-1,nuart tv_a00l_188
-http://188.6.147.240:8081/play/a00l
-#EXTINF:-1,nuart tv_a00l
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp
+http://193.233.186.76:81/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_a00l
 http://86.57.182.131:8905/play/a00l
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",persik_nuart tv
+http://persik.by/stream/1418/252987/10003.m3u8
 #EXTINF:-1,nuart tv_a00l?m3u8
 http://86.57.182.131:8905/play/a00l?m3u8
+#EXTINF:-1,Russkaya_noch_a00n
+http://86.57.182.131:8905/play/a00n
 #EXTINF:-1,Playboy TV 
 http://195.88.126.168:8008/play/a083/index.m3u8 
 #EXTINF:-1,Hustler HD 
@@ -3298,17 +3309,16 @@ http://61.58.60.230:9000/live/257.m3u8
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
 
-
+#EXTINF:-1,JAPcs19
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=156632922
 #EXTINF:-1,PhoneCam
 https://alhls-cdn.zhanqi.tv/zqlive/246422_GSpB2.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Miami-TV.jpg",miamitv
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",persik_nuart tv
-http://persik.by/stream/1418/252987/10003.m3u8
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp212
 http://212.19.14.230:81/udp/239.191.254.250:15285
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_a00l
-http://86.57.182.131:8905/play/a00l
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp193
+http://193.233.186.76:81/udp/239.191.254.250:15285
 
 
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_AdultTVLive.net

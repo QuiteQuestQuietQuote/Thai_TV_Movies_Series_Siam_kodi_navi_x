@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
+background=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_10_2018Q4
-logo=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
-icon_playlist=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
+logo=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
+icon_playlist=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, sockshare, hdmovie8, fmovies, ganool, nanamovies./description
 
 type=playlist
@@ -13,7 +13,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -59,10 +59,10 @@ URL=http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m
 
 
 type=video
-name=nuart tv_AdultTVLive.net
-thumb=http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png
+name=
+thumb=
 date=2018-11-16
-URL=http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAxOCA3OjUzOjQ5IEFNJmhhc2hfdmFsdWU9M1QwSzhmeDZGeXlURUtKMU9OeUhJUT09JnZhbGlkbWludXRlcz0xODA=
+URL=
 
 type=video
 name=
@@ -75,7 +75,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-12
+date=2018-11-16
 URL=
 
 
@@ -86,7 +86,13 @@ URL=
 
 
 
-
+type=video
+name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG 720p_English_DVDScr_x264_AAC_850MB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
+date=2018-11-16
+URL=https://openload.co/f/STtBv3Ur_Og/Fantastic_Beasts_The_Crimes_of_Grindelwal_%282018%29_720p_English_DVDScr_x264_AAC_850MB.mp4
+#https://openload.co/f/vSuSifI7q2Q/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET_SeeHD.mp4
+#https://openload.co/f/YyacPWT0DVs/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET.mp4
 
 type=video
 name=The Girl in the Spider's Web (2018) ENG 720p_HDCAM-1XBET_SeeHD
@@ -1335,7 +1341,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-15
+date=2018-11-16
 URL=
 
 
@@ -1343,7 +1349,18 @@ URL=
 
 
 
-
+type=video
+name=The Marine 6: Close Quarters (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/clpvZaPqGb35gKChikfhOoLbnbo.jpg
+date=2018-11-16
+URL=https://uptobox.com/0fwty0parng8
+#https://www.rapidvideo.com/e/FX9XXY0CW3
+#https://openload.co/embed/Uj2-pD8MDcg/THEMARINE680.Ganol.st.mkv
+#https://openload.co/f/H8Sge9hwRZY/The_Marine_6%3A_Close_Quarters_%282018%291080p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
+#https://uptobox.com/3p1m0o0uq5yi   720
+#https://www.rapidvideo.com/e/FX96IOD0RS   720
+#https://openload.co/embed/Wi29pF3UWB4/THEMARINE6CLOSEQUATESRSBD72.Gano.st.mkv
+#https://openload.co/f/YNubEolopbc/The_Marine_6%3A_Close_Quarters_%282018%29720p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
 
 type=video
 name=Everyday Rebellion (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7243,16 +7260,16 @@ URL=https://uptobox.com/r3e5qfn63v70
 #https://openload.co/embed/X6CHbQwhKZY/DEADMENBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/YhUK1gLgPmU/Dead_Men_%282018%29720p.BluRay.x264.DTS-FGT.Ganool.mkv.mp4
 
-
-
 type=video
-name=The Marine 6: Close Quarters (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/clpvZaPqGb35gKChikfhOoLbnbo.jpg
-date=2018-11-15
-URL=https://uptobox.com/3p1m0o0uq5yi
-#https://www.rapidvideo.com/e/FX96IOD0RS
-#https://openload.co/embed/Wi29pF3UWB4/THEMARINE6CLOSEQUATESRSBD72.Gano.st.mkv
-#https://openload.co/f/YNubEolopbc/The_Marine_6%3A_Close_Quarters_%282018%29720p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
+name=The Breaker Upperers (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCo7lfLRe7BtxGvbwtyIsv5jgh6.jpg
+date=2018-11-16
+URL=https://uptobox.com/s58gvlzyws2r
+#https://www.rapidvideo.com/e/FXACHEWO0H
+#https://openload.co/embed/LTQQEZsHqoM/THEBREAKERUPPERERSBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/aq2o24Yy29c/The_Breaker_Upperers_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+
+
 
 
 
@@ -7263,7 +7280,7 @@ URL=https://uptobox.com/3p1m0o0uq5yi
 type=video
 name=
 thumb=
-date=2018-11-15
+date=2018-11-16
 URL=
 
 type=video

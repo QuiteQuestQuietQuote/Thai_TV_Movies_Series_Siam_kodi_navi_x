@@ -384,19 +384,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=
 
 
 
-<item>
-<title>nuart</title>
-<thumbnail>http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png</thumbnail>
-<link>$doregex[link]</link>
-<regex>
-<name>link</name>
-<expres></expres>
-<page>http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxOCA5OjEzOjE1IFBNJmhhc2hfdmFsdWU9dkFrZkF0a29zMXlPWWFYWnhTcXBXdz09JnZhbGlkbWludXRlcz0xODA=</page>
-<referer>http://www.adulttvlive.net/channels/nuarttv.php/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36</agent>
-<cookieJar></cookieJar>
-</regex>
-</item>
+
 
 
 
@@ -414,14 +402,14 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=
 
 <item>
 <title>nuart_adulttvlive_doregex</title>
-<link>http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=$doregex[reg1]</link>
+<link>http://51.15.201.17:8081/live/nuart/chunks.m3u8?nimblesessionid=2161948&wmsAuthSign=$doregex[reg1]</link>
 <regex>
 <name>reg1</name>
 <expres>wmsAuthSign=(.*?)"</expres>
 <page>http://www.adulttvlive.net/channels/nuarttv.php/</page>
 <referer>http://www.adulttvlive.net/nuart-tv-live/</referer>
 </regex>
-<thumbnail>http://hochu.tv/images/nuart-tv.png</thumbnail>
+<thumbnail>http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png</thumbnail>
 </item>
 
 
