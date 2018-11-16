@@ -59,10 +59,10 @@ URL=http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m
 
 
 type=video
-name=
-thumb=
-date=2018-08-10
-URL=
+name=nuart tv_AdultTVLive.net
+thumb=http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png
+date=2018-11-16
+URL=http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAxOCA3OjUzOjQ5IEFNJmhhc2hfdmFsdWU9M1QwSzhmeDZGeXlURUtKMU9OeUhJUT09JnZhbGlkbWludXRlcz0xODA=
 
 type=video
 name=
@@ -77,7 +77,6 @@ name=
 thumb=
 date=2018-11-12
 URL=
-
 
 
 

@@ -375,8 +375,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=
 <regex>
 <name>link</name>
 <expres></expres>
-<page>http://cdntvnet.com/nuart.php</page>
-<referer>http://hochu.tv/nuart-tv.html</referer>
+<page>http://cdntvnet.com/nuart.php/</page>
+<referer>http://hochu.tv/nuart-tv.html/</referer>
 <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -400,9 +400,29 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=
 
 
 
+<item>
+<title>nuart_hochu_doregex</title>
+<link>http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=$doregex[reg1]</link>
+<regex>
+<name>reg1</name>
+<expres>wmsAuthSign=(.*?)"</expres>
+<page>http://cdntvnet.com/nuart.php/</page>
+<referer>http://hochu.tv/nuart-tv.html/</referer>
+</regex>
+<thumbnail>http://hochu.tv/images/nuart-tv.png</thumbnail>
+</item>
 
-
-
+<item>
+<title>nuart_adulttvlive_doregex</title>
+<link>http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=$doregex[reg1]</link>
+<regex>
+<name>reg1</name>
+<expres>wmsAuthSign=(.*?)"</expres>
+<page>http://www.adulttvlive.net/channels/nuarttv.php/</page>
+<referer>http://www.adulttvlive.net/nuart-tv-live/</referer>
+</regex>
+<thumbnail>http://hochu.tv/images/nuart-tv.png</thumbnail>
+</item>
 
 
 

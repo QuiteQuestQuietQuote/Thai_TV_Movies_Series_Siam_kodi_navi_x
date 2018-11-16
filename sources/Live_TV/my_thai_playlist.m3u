@@ -3310,14 +3310,12 @@ http://212.19.14.230:81/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_a00l
 http://86.57.182.131:8905/play/a00l
 
+
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_AdultTVLive.net
-http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAxOCA5OjEzOjE1IFBNJmhhc2hfdmFsdWU9dkFrZkF0a29zMXlPWWFYWnhTcXBXdz09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_AdultTVLive.net_embed
-http://www.adulttvlive.net/nuart-tv-embed/
+http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAxOCA3OjUzOjQ5IEFNJmhhc2hfdmFsdWU9M1QwSzhmeDZGeXlURUtKMU9OeUhJUT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_hochu.tv
 http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggeb5d5e8a05072c1b0267a370d78c6dbbT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,[18+] Nuart TV
-http://astra.climetv.eu:35471/play/nuart?token=testplaylistCLIMETV
+
 
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg",ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
