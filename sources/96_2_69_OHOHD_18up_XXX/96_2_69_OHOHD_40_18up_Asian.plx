@@ -59,6 +59,48 @@ URL=
 
 
 
+type=video
+name=85xxxxxxxxxxxxxxxxxxxxDaughter-in-law and mother-in-law (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Daughter-in-law-and-mother-in-law-2017.jpg
+date=2018-11-17
+URL=https://streamcherry.com/embed/qmbdsplmkmtdtnek/
+
+type=video
+name=Torture has been married woman (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Torture-has-been-married-woman-2017.jpg
+date=2018-11-17
+URL=https://streamcherry.com/embed/baqbmpktnbrqnbrq/
+
+type=video
+name=Saeeomma Saenuna (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Saeeomma-Saenuna-2017-Uncut.jpg
+date=2018-11-17
+URL=https://streamcherry.com/embed/btrasnalcblklkrr/
+
+type=video
+name=Jeongsa Chinguui Yeojaleul Tamhada (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Jeongsa-Chinguui-Yeojaleul-Tamhada-2017.jpg
+date=2018-11-17
+URL=https://streamcherry.com/embed/kacdkltppnpkoerm/
+
+type=video
+name=MIDARAYOME-02 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/MIDARAYOME-02-2017.jpg
+date=2018-11-17
+URL=https://streamcherry.com/embed/tpptmqdpkekmndnr/
+
+
+type=video
+name=Housewives’ Creampie Affairs 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Housewives-Creampie-Affairs-2-2017.jpg
+date=2018-11-17
+URL=https://streamcherry.com/embed/fbqmlembbepbdcqm/
+
+type=video
+name=Sex Service in Aromatherapist School (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Sex-Service-in-Aromatherapist-School-2017.jpg
+date=2018-11-17
+URL=https://streamcherry.com/embed/tptpqmacradlarpf/
 
 
 

@@ -2547,6 +2547,11 @@ http://193.233.186.76:81/udp/239.191.254.170:15285
 http://193.233.186.76:81/udp/239.191.254.13:15285
 #EXTINF:-1,FRENCHLOVER_udp
 http://193.233.186.76:81/udp/239.191.254.251:15285
+#EXTINF:-1,Brazzers_udp
+http://193.233.186.76:81/udp/239.191.254.170:15285
+#EXTINF:-1,#EXTINF:-1,DorcelHD_udp
+http://91.82.71.123:4000/udp/239.1.1.40:5000
+
 
 #EXTINF:-1, WAAYH
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/922/index.m3u8
@@ -2615,26 +2620,7 @@ http://185.168.15.240:8888/eroxxx/index.m3u8
 http://185.168.15.240:8888/erox/index.m3u8
 
 
-#EXTINF:-1,Redlight_HD_play
-http://213.59.128.162:9996/play/Redlight_HD/index.m3u8
-#EXTINF:-1,Brazzers_play
-http://213.59.128.162:9996/play/Brazzers_TV/index.m3u8
-#EXTINF:-1,Hustler_HD_play
-http://213.59.128.162:9996/play/Hustler_HD/index.m3u8
-#EXTINF:-1,Playboy_play
-http://213.59.128.162:9996/play/Playboy/index.m3u8
-#EXTINF:-1,Pink_O_TV_play
-http://213.59.128.162:9996/play/Pink_O_TV/index.m3u8
-#EXTINF:-1,FRENCHLOVER_play
-http://213.59.128.162:9996/play/FRENCHLOVER/index.m3u8
-#EXTINF:-1,Private_play
-http://213.59.128.162:9996/play/Private/index.m3u8
-#EXTINF:-1,Russkaya_noch_play
-http://213.59.128.162:9996/play/Russkaya_noch/index.m3u8
-#EXTINF:-1,Passion_XXX_babes_tv_play
-http://213.59.128.162:9996/play/Passion_XXX/index.m3u8
-#EXTINF:-1,O-la-la_play
-http://213.59.128.162:9996/play/O-la-la/index.m3u8
+
 
 
 #EXTINF:-1,Brazzers_dna
@@ -3334,6 +3320,8 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 #EXTINF:-1,GONG_movie
 http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
+#EXTINF:-1,mediacorp8
+http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_5.m3u8
 #EXTINF:-1,BesTV4K_CHN
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000499/index.m3u8
 #EXTINF:-1  tvg-logo="http://samara11x11.ucoz.ru/music/NR1_4K_ULTRA_HD_TV.png",NR1 4K

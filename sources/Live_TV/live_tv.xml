@@ -360,8 +360,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=
 <regex>
 <name>link</name>
 <expres></expres>
-<page>http://www.adulttvlive.net/channels/nuarttv.php/</page>
-<referer>http://www.adulttvlive.net/nuart-tv-live/</referer>
+<page>http://51.15.201.17:8081/live/nuart/chunks.m3u8?nimblesessionid=2245247&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxOCA1OjEzOjEyIFBNJmhhc2hfdmFsdWU9MHhlckRNWEthamNUODZYMzR3eWcxQT09JnZhbGlkbWludXRlcz0xODA=</page>
+<referer>http://www.adulttvlive.net/channels/nuarttv.php/</referer>
 <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -387,7 +387,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=
 
 
 
-
 <item>
 <title>nuart_hochu_doregex</title>
 <link>http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=$doregex[reg1]</link>
@@ -402,7 +401,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=
 
 <item>
 <title>nuart_adulttvlive_doregex</title>
-<link>http://51.15.201.17:8081/live/nuart/chunks.m3u8?nimblesessionid=2161948&wmsAuthSign=$doregex[reg1]</link>
+<link>http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=$doregex[reg1]</link>
 <regex>
 <name>reg1</name>
 <expres>wmsAuthSign=(.*?)"</expres>
@@ -413,7 +412,17 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=
 </item>
 
 
-
+<item>
+<title>nuart_adulttvlive_doregex_nimblesessionid=</title>
+<link>http://51.15.201.17:8081/live/nuart/chunks.m3u8?nimblesessionid=$doregex[reg1]</link>
+<regex>
+<name>reg1</name>
+<expres>nimblesessionid=(.*?)"</expres>
+<page>http://www.adulttvlive.net/channels/nuarttv.php/</page>
+<referer>http://www.adulttvlive.net/nuart-tv-live/</referer>
+</regex>
+<thumbnail>http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png</thumbnail>
+</item>
 
 
 

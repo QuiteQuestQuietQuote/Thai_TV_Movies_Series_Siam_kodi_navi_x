@@ -75,7 +75,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-16
+date=2018-11-17
 URL=
 
 
@@ -87,12 +87,19 @@ URL=
 
 
 type=video
-name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG 720p_English_DVDScr_x264_AAC_850MB
+name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG NEW_HDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
-date=2018-11-16
-URL=https://openload.co/f/STtBv3Ur_Og/Fantastic_Beasts_The_Crimes_of_Grindelwal_%282018%29_720p_English_DVDScr_x264_AAC_850MB.mp4
+date=2018-11-17
+URL=https://openload.co/f/0hy9UKwm1H8/fantastic_beast_2_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/STtBv3Ur_Og/Fantastic_Beasts_The_Crimes_of_Grindelwal_%282018%29_720p_English_DVDScr_x264_AAC_850MB.mp4
 #https://openload.co/f/vSuSifI7q2Q/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET_SeeHD.mp4
 #https://openload.co/f/YyacPWT0DVs/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET.mp4
+
+type=video
+name=Nobody's Fool (2018) ENG HDCAM.x264-Unknown_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VTHRTwLlnFDlNUxc8MEeFwCQTm.jpg
+date=2018-11-17
+URL=https://openload.co/f/2dgk1j6AzMc/Nobodys.Fool.2018.HDCAM.x264-Unknown_SeeHD.mkv.mp4
 
 type=video
 name=The Girl in the Spider's Web (2018) ENG 720p_HDCAM-1XBET_SeeHD
@@ -1341,13 +1348,21 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-16
+date=2018-11-17
 URL=
 
 
 
 
 
+
+
+
+type=video
+name=Videoman (2018) [COLOR=FF00FF00]SWE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QMoWFMKOC6y2rtZmy3GzWOY7tt.jpg
+date=2018-11-17
+URL=https://openload.co/f/G-Oi2969e78/Videoman.2018.1080p.BluRay.x264-APVRAL.mkv.mp4
 
 type=video
 name=The Marine 6: Close Quarters (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -10154,37 +10169,7 @@ URL=https://openload.co/f/LqODIQc1TMU/Monstrum_%282018%29%E0%B8%9E%E0%B8%B1%E0%B
 
 
 
-type=video
-name=The Equalizer 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg
-date=2018-11-14
-URL=https://uptobox.com/n3qpq3b9xzv9
-#https://www.rapidvideo.com/e/FX7OGNRI5J
-#https://openload.co/embed/SB2cMc0Mj88/GHPTHEEQUALIZER280.Ganol.st.mkv.mp4
-#https://openload.co/f/cbmbRth8b8I/The_Equalizer_2_%282018%291080p_BluRay_X264-DEFLATE.Ganool.mkv.mp4
-#https://openload.co/f/7SLHqHYyluM/The.Equalizer.2.2018.1080p.BluRay.6CH.x264.MkvCage.ws.mkv.mp4
-#https://openload.co/f/t0FEeTqDWuY/The.Equalizer.2.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/hPvmmxLf1fw/The.Equalizer.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/mTzShlqLWR8/The.Equalizer.2.2018.720p.Bluray.X264-EVO.mkv.mp4
-#https://uptobox.com/g150youdvi1u   720
-#https://www.rapidvideo.com/e/FX6J2MP3UB   720
-#https://openload.co/embed/6HdVz-zqXiE/SHQTHEEQUAILER2BD72.Ganol.st.mkv.mp4
-#https://openload.co/f/3CyQU1aaKEY/The_Equalizer_2_%282018%29720p_BluRay_X264-DEFLATE.Ganool.mkv.mp4
-#https://openload.co/f/5zxgEe8wZSU/The_Equalizer_2_2018_1080p_WEB-DL_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/yCHpgnvj7p0/The.Equalizer.2.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/guaYhTNrJ6k/the.equalizer.2.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/pul-OiRrhII/Equalizer_2_2018_720p_HD-TS_x264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/YkZ8kURFtbQ/The_Equalizer_2_2018_NEW_HD-TS_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/kPk0y57HdkU/The.Equalizer.2.2018.NEW.HD-TS.X264-24HD.mkv.mp4
-#https://openload.co/f/Ij5fcwc8tEM/The_Equalizer_2_2018_NEW_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/cz3TOL1pxMU/The.Equalizer.2.2018.720p.HDCAM.1XBET%5BWATERMARKED%5D.mp4
-#https://openload.co/f/nZLFCvX2zWM/The_Equalizer_2_2018_720p_low_CAMRip_X264_AC3_BlckNips.E.mp4
-type=video
-name=The Equalizer 2 (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg
-date=2018-11-04
-URL=https://openload.co/f/zbJzLyHqNUA/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/2lCZjxZ3Ww4/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
@@ -10208,29 +10193,7 @@ URL=https://openload.co/f/a8uGQjWj-7M/A.X.L._%282018%29%E0%B9%81%E0%B8%AD%E0%B8%
 
 
 
-type=video
-name=Mile 22 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
-date=2018-11-14
-URL=https://uptobox.com/igie3h0pwv9m
-#https://www.rapidvideo.com/e/FX7TTGNEGZ
-#https://openload.co/embed/F9ZFLJPDK7A/GHPMILE2280.Ganol.st.mkv
-#https://openload.co/f/Pj3gPJeZsF0/Mile_22_%282018%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
-#https://openload.co/f/UJn-FeLB0pE/Mile.22.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/ji_IF6DbStA/Mile.22.2018.720p.BluRay.X264-AMIABLE.mkv.mp4
-#https://openload.co/f/yIocH9qI0Dw/mile.22.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/CKWA5RoXQl0/Mile.22.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/yLdLfVPKaOs/Mile.22.2018.1080p.HDRip.mkv.mp4
-#https://openload.co/f/M3ZVsZxHZ7c/Mile.22.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/GyD2vOAKqzA/Mile_22_2018_NEW_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/aug72S8Qov8/Mile.22.2018.720p.HDCAM.1XBET_SeeHD.mp4
-#https://openload.co/f/m7HdxWgn5SY/Mile.22.2018.720p.HDCAM.1XBET.mp4
-type=video
-name=Mile 22 (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
-date=2018-10-26
-URL=https://openload.co/f/wNuqZS5UCIU/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/EN0pPmSU45M/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 
@@ -10859,6 +10822,65 @@ URL=
 
 
 
+
+type=video
+name=The Equalizer 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg
+date=2018-11-14
+URL=https://uptobox.com/n3qpq3b9xzv9
+#https://www.rapidvideo.com/e/FX7OGNRI5J
+#https://openload.co/embed/SB2cMc0Mj88/GHPTHEEQUALIZER280.Ganol.st.mkv.mp4
+#https://openload.co/f/cbmbRth8b8I/The_Equalizer_2_%282018%291080p_BluRay_X264-DEFLATE.Ganool.mkv.mp4
+#https://openload.co/f/7SLHqHYyluM/The.Equalizer.2.2018.1080p.BluRay.6CH.x264.MkvCage.ws.mkv.mp4
+#https://openload.co/f/t0FEeTqDWuY/The.Equalizer.2.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/hPvmmxLf1fw/The.Equalizer.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/mTzShlqLWR8/The.Equalizer.2.2018.720p.Bluray.X264-EVO.mkv.mp4
+#https://uptobox.com/g150youdvi1u   720
+#https://www.rapidvideo.com/e/FX6J2MP3UB   720
+#https://openload.co/embed/6HdVz-zqXiE/SHQTHEEQUAILER2BD72.Ganol.st.mkv.mp4
+#https://openload.co/f/3CyQU1aaKEY/The_Equalizer_2_%282018%29720p_BluRay_X264-DEFLATE.Ganool.mkv.mp4
+#https://openload.co/f/5zxgEe8wZSU/The_Equalizer_2_2018_1080p_WEB-DL_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/yCHpgnvj7p0/The.Equalizer.2.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/guaYhTNrJ6k/the.equalizer.2.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/pul-OiRrhII/Equalizer_2_2018_720p_HD-TS_x264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/YkZ8kURFtbQ/The_Equalizer_2_2018_NEW_HD-TS_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/kPk0y57HdkU/The.Equalizer.2.2018.NEW.HD-TS.X264-24HD.mkv.mp4
+#https://openload.co/f/Ij5fcwc8tEM/The_Equalizer_2_2018_NEW_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/cz3TOL1pxMU/The.Equalizer.2.2018.720p.HDCAM.1XBET%5BWATERMARKED%5D.mp4
+#https://openload.co/f/nZLFCvX2zWM/The_Equalizer_2_2018_720p_low_CAMRip_X264_AC3_BlckNips.E.mp4
+type=video
+name=The Equalizer 2 (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg
+date=2018-11-17
+URL=https://openload.co/f/JV-K56Sq9Mw/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2_2.mp4
+#https://openload.co/f/zbJzLyHqNUA/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/2lCZjxZ3Ww4/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=Mile 22 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
+date=2018-11-14
+URL=https://uptobox.com/igie3h0pwv9m
+#https://www.rapidvideo.com/e/FX7TTGNEGZ
+#https://openload.co/embed/F9ZFLJPDK7A/GHPMILE2280.Ganol.st.mkv
+#https://openload.co/f/Pj3gPJeZsF0/Mile_22_%282018%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://openload.co/f/UJn-FeLB0pE/Mile.22.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/ji_IF6DbStA/Mile.22.2018.720p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/yIocH9qI0Dw/mile.22.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/CKWA5RoXQl0/Mile.22.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/yLdLfVPKaOs/Mile.22.2018.1080p.HDRip.mkv.mp4
+#https://openload.co/f/M3ZVsZxHZ7c/Mile.22.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/GyD2vOAKqzA/Mile_22_2018_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/aug72S8Qov8/Mile.22.2018.720p.HDCAM.1XBET_SeeHD.mp4
+#https://openload.co/f/m7HdxWgn5SY/Mile.22.2018.720p.HDCAM.1XBET.mp4
+type=video
+name=Mile 22 (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
+date=2018-11-17
+URL=https://openload.co/f/jgvg5DQIOG0/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2.mp4
+#https://openload.co/f/wNuqZS5UCIU/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/EN0pPmSU45M/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -11790,7 +11812,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-15
+date=2018-11-17
 URL=
 
 
@@ -11802,7 +11824,14 @@ URL=
 
 
 
-
+type=video
+name=The Meg (2018) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg
+date=2018-11-17
+URL=https://uptobox.com/vea9tju974qs
+#https://www.rapidvideo.com/e/FXAZFRWQOP
+#https://openload.co/embed/6-BSidWXqIg/GHPTHEMEGD80.Ganol.st.mkv
+#https://openload.co/f/UhW-GYSzztQ/The_Meg_%282018%293D_1080p_BluRay_x264-PSYCHD.Ganool.mkv.mp4
 
 type=video
 name=Fantastic Beasts and Where to Find Them (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
