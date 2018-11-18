@@ -5,7 +5,7 @@
 #EXTM3U
 #EXTINF:0,My TV
 
-
+#EXTINF:0,
 
 
 
@@ -520,8 +520,6 @@ http://121.156.62.136:1935/chc09/_definst_/s5.stream/chunklist.m3u8
 
 
 
-#EXTINF:-1,CNBC
-http://zorro.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
 
@@ -537,41 +535,6 @@ http://203.162.235.41:17819
 
 
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
-http://203.162.235.41:17819
-
-
-
-
-
-#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
-http://203.162.235.41:17819
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
-http://203.162.235.41:17819
 
 
 
@@ -589,7 +552,7 @@ rtmp://tv01.thaizatv.com/drm/movie1
 
 
 #EXTINF:-1,movie3
-zzzrtmp://tv01.thaizatv.com/drm/movie3.stream
+rtmp://tv01.thaizatv.com/drm/movie3.stream
 
 
 
@@ -614,14 +577,6 @@ http://203.162.235.41:17819
 
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
 http://203.162.235.41:17819
 
@@ -631,203 +586,9 @@ http://203.162.235.41:17819
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
-http://203.162.235.41:17819
-#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
-http://203.162.235.41:17819
-#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
-http://203.162.235.41:17819
-
-
-
-
-
-
-#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
-http://203.162.235.41:17819
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
-http://203.162.235.41:17819
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
-http://203.162.235.41:17819
-
-
-
-
-
-
-#EXTINF:-1,xxxxxxxxxxxxxxxxxxxx
-http://203.162.235.41:17819
 
 #EXTINF:-1,movie24
 rtmp://tv01.thaizatv.com/drm/movie1
-
-
-
-
-
-
-#EXTINF:-1,NAT GEO PEOPLE HD
-http://113.175.179.15:4022/rtp/232.84.1.76:8430
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,Chinese_s1
-http://live-tx-hdl.huomaotv.cn/flvtx.plu.cn/onlive/e6621f4835f54b6c8c73b8e00ed3512b.m3u8
-#EXTINF:-1,Chinese_s2
-http://live-tx-hdl.huomaotv.cn/flvtx.plu.cn/onlive/e65e81838bdf45ecbff40bc7318bbf4e.m3u8
-#EXTINF:-1,Chinese7
-http://live-tx-hdl.huomaotv.cn/live/gEFTWY23105.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,saradee
-http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_300/chunklist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -969,288 +730,6 @@ http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
 http://usa.login.in.th:1935/ch8/ch8/chunklist.m3u8
 
 
-#EXTINF:-1,Polo PARTY TV
-http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
-
-
-
-#EXTINF:-1,Play Boy 
-http://109.235.192.213:8000/play/a019 
-#EXTINF:-1,Brazzers TV 
-http://109.235.192.213:8000/play/a034 
-#EXTINF:-1,Penthouse 
-http://145.255.202.20:5050/udp/239.100.102.77:8888 
-#EXTINF:-1,Playboy TV 
-http://62.203.143.4:9981/play/a029 
-#EXTINF:-1,HOT 
-http://62.203.143.4:9981/play/a03u 
-#EXTINF:-1,Miami TV (18+)
-http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1,Venus 
-http://62.203.143.4:9981/play/a016 
-#EXTINF:-1,KOREA_Penthouse
-http://edge1.everyon.tv:1935/etv1sb/phd927/chunklist_w109627451.m3u8
-#EXTINF:-1,KOREA _Pink TV
-http://edge2.everyon.tv:1935/etv2sb/phd62/chunklist_w1362493488.m3u8
-#EXTINF:-1,KOREA_honey
-http://edge1.everyon.tv:1935/etv1sb/phd928/chunklist_w1837891198.m3u8
-#EXTINF:-1,KOREA_Girls tv  
-http://edge2.everyon.tv:1935/etv2sb/phd501/chunklist_w1002163843.m3u8
-#EXTINF:-1,Korea _VIKI TV
-http://edge2.everyon.tv:1935/etv2sb/phd765/chunklist_w911498634.m3u8
-#EXTINF:-1,KOREA_ButGo
-http://edge2.everyon.tv/etv2sb/pld772/chunklist_w1948812165.m3u8
-#EXTINF:-1,KOREA_Spice
-http://edge2.everyon.tv:1935/etv2sb/phd499/chunklist_w1051118884.m3u8
-#EXTINF:-1,KOREA_Brazzers
-http://edge2.everyon.tv:1935/etv2sb/phd61/chunklist_w86336562.m3u8
-#EXTINF:-1,Jasmin.Tv  
-rtmp://109.71.162.112/live//sd.jasminchannel.stream
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png"group-title="SWIM", Babestation
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
-
-
- 
-#EXTINF:0, OLALA XXX
-http://78.111.176.132:8082
-#EXTINF:0, Dusk TECNO-WILL
-http://37.9.0.201:8890
-#EXTINF:0, Evil angel
-http://37.9.0.201:8889
-#EXTINF:0, Cento X Cento XXX
-http://37.9.0.201:8811
- 
-
-
-
-#EXTINF:-1 tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png", Studio 66 TV
-http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel21/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png", Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png", Visit X TV
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation
-http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Soxm1RO.png" group-title="IPTV",ButGO
-http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",DP
-http://62.210.113.177:19000/udp/238.0.100.6:5000
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0POW26v.png" group-title="IPTV",FunDorado TV
-http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/J0njVq9.png" group-title="IPTV",Girls TV
-http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey TV
-http://edge1.everyon.tv:1935/etv1sb/phd928/paz.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6gckOd1.png" group-title="IPTV",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oU1nwLE.png" group-title="IPTV",Live Sex Latinas
-http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV (Spain)
-http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6Nr8Bqk.png",Passione
-http://37.9.0.201:8888
- 
-
-
-
-
-
-
-#EXTINF:-1,Sex Zone
-http://tv.redecanais.com:1935/redecanaishot/myStream/chunklist.m3u8
- 
-#EXTINF:-1,,Candy TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
- 
-#EXTINF:-1,But Go
-http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
- 
-#EXTINF:-1,But Go!
-http://edge2.everyon.tv:1935/etv2sb/pld10772/chunklist_w1599318248.m3u8
- 
-#EXTINF:-1,Ask TV
-http://edge2.everyon.tv/etv2sb/phd10771/HasBahCa.m3u8
- 
-#EXTINF:-1,Penthouse
-http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
- 
-#EXTINF:-1,Sakura Porn TV
-http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
- 
-#EXTINF:-1,Jasmin TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
- 
-#EXTINF:-1,Liveting TV
-http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
- 
-#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png",  +18
-http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
- 
-#EXTINF:-1,Playboy Tv
-rtmp://edge2.everyon.tv/etv2sb//pld10499?MWINFO
- 
-#EXTINF:-1,Sex Sat
-http://publish.thewebstream.co:1935/leved/studio66tv_channel41/chunklist.m3u8
- 
-#EXTINF:-1,Redlight HD  
-rtmp://5.196.189.39/live/ playpath=c_916 swfUrl=http://ero-tv.org/uppod/uppod32.swf pageUrl=http://ero-tv.org/redlight_online/
- 
-#EXTINF:-1,Private TV
-rtmp://5.196.189.39/live/ playpath=n2409 swfUrl=http://ero-tv.org/uppod/uppod32.swf pageUrl=http://ero-tv.org/hallo-tv_online/
- 
-#EXTINF:-1,+18
-http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
- 
-#EXTINF:-1,+18.+.
-http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
- 
-#EXTINF:-1,Penthouse Asia
-http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
- 
-#EXTINF:-1,Live Ting
-http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
- 
-#EXTINF:-1,Fundorado Tv
-http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
- 
-#EXTINF:-1 ,Sexy Sat TV
-rtmp://81.89.48.215:1935/xyz444wkz/ playpath=xy4_360p swfUrl=http://ero-tv.org/uppod/uppod_u.swf pageUrl=http://ero-tv.org/sexysat-tv_online/
- 
-#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/01/wp-1452618158933.jpg",SEX ZONE
-http://tv.redecanais.com:1935/redecanaishot/myStream/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/CJVrTy",Candy TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/iay7x8",BUTGO
-http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/iay7x8" , BUTGO!
-http://edge2.everyon.tv:1935/etv2sb/pld10772/chunklist_w1599318248.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/OtWcrT",ASK TV
-http://edge2.everyon.tv/etv2sb/phd10771/HasBahCa.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/wcAObA",PENTHOUSE ASIA 18+
-http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/GtyTQH",SAKURA PORN TV
-http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/b2ZEuF",JASMIN TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
- 
-#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png",LIVETING TV
-http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/ZELUfu",VISIT-X TV
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png",  +18
-http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/08/PLAYBOY-TV-HD.png", PLAYBOY TV
-rtmp://edge2.everyon.tv/etv2sb//pld10499?MWINFO
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/2mdBfN" group-title="ADULTO", SEXY SAT 1
-http://publish.thewebstream.co:1935/leved/studio66tv_channel41/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/0UwJ98",Redlight HD [COLOR
-rtmp://5.196.189.39/live/ playpath=c_916 swfUrl=http://ero-tv.org/uppod/uppod32.swf pageUrl=http://ero-tv.org/redlight_online/
- 
-#EXTINF:-1 tvg-logo="http://s10.postimg.org/wkyrrzns9/PrivateTV.png",PRIVATE TV
-rtmp://5.196.189.39/live/ playpath=n2409 swfUrl=http://ero-tv.org/uppod/uppod32.swf pageUrl=http://ero-tv.org/hallo-tv_online/
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/iay7x8",  +18
-http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/sF00Y6",  +18
-http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/4F36aX" , PENTHOUSE ASIA
-http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/OSRPRM", LIVE TING
-http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/9lLezT",FUNDORADO TV
-http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/2mdBfN",SEXY SAT TV
-rtmp://81.89.48.215:1935/xyz444wkz/ playpath=xy4_360p swfUrl=http://ero-tv.org/uppod/uppod_u.swf pageUrl=http://ero-tv.org/sexysat-tv_online/
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/j2ppNr",BRASILEIRINHAS TV
-rtmp://81.89.48.215:1935/xyz666wkz/ playpath=xy6_360p swfUrl=http://ero-tv.org/uppod/uppod_u.swf pageUrl=http://ero-tv.org/brasileirinhas_tv_online/
-
-
-
-#EXTINF:-1,Jasmin.Tv  
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1268,8 +747,7 @@ http://live.cgtn.com/cctv-d.m3u8
 
 
 
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png",NHK WORLD HD
-http://203.162.235.41:17801
+
 
 
 
@@ -1277,11 +755,6 @@ http://203.162.235.41:17801
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
 http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
-
-
-
-
-
 
 
 
@@ -1300,44 +773,6 @@ http://61.58.60.247:9000/live/176.m3u8
 rtmp://tv01.thaizatv.com/drm/movie1
 
 
-#EXTINF:-1,saradee
-http://symc-cdn04.bkk02.violin.co.th:1935/liveedge/292277143069_600/chunklist_w1619719738.m3u8
-
-
-
-#EXTINF:-1,CNBC
-http://209.182.228.22:8000/udp/239.255.12.9:1135
-#EXTINF:-1,MOVIE NETWORK
-http://209.182.228.22:8000/udp/230.50.0.38:8208
-#EXTINF:-1,TV MOVIES
-http://209.182.228.22:8000/udp/230.50.0.39:8208
-#EXTINF:-1,TELE TOON HD
-http://209.182.228.22:8000/udp/230.50.0.118:8208
-#EXTINF:-1,CN HD
-http://209.182.228.22:8000/udp/239.255.0.55:1136
-
-
-#EXTINF:-1,Toonami_ind
-http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD327L240P/playlist.m3u8
-#EXTINF:-1,Disney Channel_kor
-http://221.141.191.70:9981/stream/channelid/1956277935?ticket=60571CD0DC2912BC869EC607F9B2723DAD196B26&profile=pass
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1351,12 +786,6 @@ http://www.playontube.com:1935/sport/thflix2/chunklist.m3u8
 #EXTINF:-1,TH_Flix_3
 http://www.playontube.com:1935/sport/thflix3/chunklist.m3u8
 
-#EXTINF:-1,saradee_rtmp
-rtmp://edge9.psitv.tv:1935/liveedge
-#EXTINF:-1,saradee_600
-http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_600/chunklist.m3u8
-#EXTINF:-1,saradee_300
-http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277143069_300/chunklist.m3u8
 
 #EXTINF:-1,CGTN Documentary
 http://live.cgtn.com/cctv-d.m3u8
@@ -1368,53 +797,6 @@ http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
 http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
 #EXTINF:-1,Chinese_s2
 http://live-tx-hdl.huomaotv.cn/flvtx.plu.cn/onlive/e65e81838bdf45ecbff40bc7318bbf4e.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,Food Network 
-http://94.46.245.190:8000/play/a01u 
-
-
-#EXTINF:-1,movie24
-rtmp://tv01.thaizatv.com/drm/movie1
-
-
-
-#EXTINF:-1,Jasmin.Tv  
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1642,54 +1024,6 @@ http://iheart-totiptv.better-than.tv:8080/iheart/7773f3cef0334a28ad248552ea63d9e
 
 
 
-
-
-#EXTINF:0, Canal + Film_rtmp
-rtmp://185.142.236.81/stream/2811?e=1522570726&st=rErIjikpLmupYxF2WCXN6g
-#EXTINF:0, Canal + Family
-rtmp://185.142.236.83/stream/2813?e=1522570726&st=VW6ni9SVa6I04gGZ6xZxlQ
-#EXTINF:0, HBO
-rtmp://198.16.77.42/stream/2112?e=1522570726&st=XwB16-dKArtkxoOFFVxtOQ
-#EXTINF:0, HBO 2
-rtmp://198.16.72.242/stream/2013?e=1522570726&st=zvFR5bXUAVZU46bWyKjZXg
-#EXTINF:0, HBO 3 HD
-rtmp://198.16.77.42/stream/2012?e=1523388286&st=TVlDDg3LbvPF77f6n7dORA
-#EXTINF:0, Discovery Channel HD_rtmp
-rtmp://198.16.72.242/stream/1121?e=1522570726&st=61nvP8AfZHJ-lfAirvXAUA
-
-#EXTINF:0, National Geographic_TS
-http://universeiptv.com:8000/live/abady/abady123/5203.ts
-#EXTINF:0, National Geographic People HD_rtmp
-rtmp://198.16.72.242/stream/2412?e=1522570726&st=3A-5LmumSgee_25MbW-OSA
-#EXTINF:0, National Geographic Wild_rtmp
-rtmp://198.16.77.42/stream/1142?e=1522570726&st=P1oLEuKSM9uCRfiprIlREg
-#EXTINF:0, Animal Planet_TS_BBC EARTH
-http://universeiptv.com:8000/live/abady/abady123/5207.ts
-
-#EXTINF:0, BBC Earth_rtmp
-rtmp://198.16.72.226/stream/2011?e=1522570726&st=AlJrRTrWkdmpn0mSzJPmOQ
-#EXTINF:0, Travel Channel
-rtmp://185.142.236.81/stream/3511?e=1522570726&st=_l89qqAwxz6mklTDOJKc_g
-#EXTINF:0, Lifetime_rtmp
-rtmp://198.16.72.242/stream/3012?e=1522570726&st=JsevuPhdujV2WbqxTW2xcA
-
-
-
-#EXTINF:0, Filmbox Family_TS
-http://universeiptv.com:8000/live/abady/abady123/5404.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1 HD" tvg-logo="" group-title="Entertainment Channels",Sky1 HD - Sky1 HD
 http://62.210.93.115:80/live?channelId=25&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1" tvg-logo="" group-title="Entertainment Channels",Sky1 - Sky1
@@ -1746,37 +1080,6 @@ http://62.210.93.43:80/live?channelId=99&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 http://62.210.93.43:80/live?channelId=100&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 tvg-id="Boomerang" tvg-link="" tvg-name="Boomerang" tvg-logo="" group-title="Kids Channels",Boomerang - Boomerang
 http://62.210.93.43:80/live?channelId=101&uid=4292&deviceMac=00:1a:79:3c:c0:9c
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,WOWOW
-http://203.162.235.41:17816
-#EXTINF:-1,Discovey sc
-http://203.162.235.41:17803
-#EXTINF:-1,CNN
-http://203.162.235.41:17818
-#EXTINF:-1,JAPAN 1
-http://203.162.235.41:17804
 
 
 
@@ -1969,205 +1272,6 @@ http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/245.m3u8
 
 
 
-#EXTINF:-1,ALIBI_thflixCH
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/14.m3u8
-#EXTINF:-1,ANIMALPLANEL
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/15.m3u8
-#EXTINF:-1,ARIRANG
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/16.m3u8
-#EXTINF:-1,AFC
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/17.m3u8
-#EXTINF:-1,BBC EARTH
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/18.m3u8
-#EXTINF:-1,BBC LIFESTYLE
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/19.m3u8
-#EXTINF:-1,BBC PLAYER
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/22.m3u8
-#EXTINF:-1,BLOOMBERG
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/24.m3u8
-#EXTINF:-1,BRIGHT TV
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/25.m3u8
-#EXTINF:-1,CN
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/26.m3u8
-#EXTINF:-1,BBC
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/28.m3u8
-#EXTINF:-1,CBSO ACTION
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/29.m3u8
-#EXTINF:-1,CBSO DRAMA
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/30.m3u8
-#EXTINF:-1,CCTV4
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/32.m3u8
-#EXTINF:-1,CGTN
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/33.m3u8
-#EXTINF:-1,LIVE
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/35.m3u8
-#EXTINF:-1,DDTV
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/40.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/41.m3u8
-#EXTINF:-1,DISCOVER ASIA
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/42.m3u8
-#EXTINF:-1,TURBO LOVE
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/44.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/45.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/46.m3u8
-#EXTINF:-1,E NEWS
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/51.m3u8
-#EXTINF:-1,FIGHT SPORTS
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/55.m3u8
-#EXTINF:-1,FOX ACTION MOVIES
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/56.m3u8
-#EXTINF:-1,CI
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/57.m3u8
-#EXTINF:-1,FOX FAMILY
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/58.m3u8
-#EXTINF:-1,FOX MOVIES
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/59.m3u8
-#EXTINF:-1,FOX NEWS
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/60.m3u8
-#EXTINF:-1,FOX THAI
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/61.m3u8
-#EXTINF:-1,FRNCE24
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/62.m3u8
-#EXTINF:-1,FX
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/63.m3u8
-#EXTINF:-1,GMM25
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/64.m3u8
-#EXTINF:-1,H2
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/65.m3u8
-#EXTINF:-1,HBO HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/66.m3u8
-#EXTINF:-1,HBO HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/67.m3u8
-#EXTINF:-1,HISTORY HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/68.m3u8
-#EXTINF:-1,Huh?
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/69.m3u8
-#EXTINF:-1,ITV
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/70.m3u8
-#EXTINF:-1,MONEY
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/80.m3u8
-#EXTINF:-1,NET GEO PEOPLE
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/84.m3u8
-#EXTINF:-1,NET GEO WILD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/85.m3u8
-#EXTINF:-1,NATION
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/86.m3u8
-#EXTINF:-1,NATION GEOGRAPHIC
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/87.m3u8
-#EXTINF:-1,NICK JR.
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/89.m3u8
-#EXTINF:-1,NOW
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/90.m3u8
-#EXTINF:-1,Huh??
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/91.m3u8
-#EXTINF:-1,Huh??
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/101.m3u8
-#EXTINF:-1,FOX LIFE
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/102.m3u8
-#EXTINF:-1,THAI
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/106.m3u8
-#EXTINF:-1,TNN2
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/107.m3u8
-#EXTINF:-1,TNN24
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/108.m3u8
-#EXTINF:-1,TRAVEL
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/109.m3u8
-#EXTINF:-1,TRUE FILM ASIA
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/114.m3u8
-#EXTINF:-1,TRUE MOVIE HITS
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/115.m3u8
-#EXTINF:-1,TRUE SPARK JUMP
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/117.m3u8
-#EXTINF:-1,TRUE SPARK
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/118.m3u8
-#EXTINF:-1,TVB
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/122.m3u8
-#EXTINF:-1,VERY
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/123.m3u8
-#EXTINF:-1,WARNER TV
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/124.m3u8
-#EXTINF:-1,ZEE TV
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/125.m3u8
-#EXTINF:-1,3FAMILY
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/126.m3u8
-#EXTINF:-1,3HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/127.m3u8
-#EXTINF:-1,3SD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/128.m3u8
-#EXTINF:-1,5HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/129.m3u8
-#EXTINF:-1,7HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/130.m3u8
-#EXTINF:-1,8 CHANNAL
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/131.m3u8
-#EXTINF:-1,ONLINE HD10
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/136.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/144.m3u8
-#EXTINF:-1,MCOT HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/185.m3u8
-#EXTINF:-1,MCOT FAMILY
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/186.m3u8
-#EXTINF:-1,MONO29
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/187.m3u8
-#EXTINF:-1,NBTHD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/192.m3u8
-#EXTINF:-1,ONE HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/193.m3u8
-#EXTINF:-1,PPTV HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/194.m3u8
-#EXTINF:-1,THAIRAHT TV
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/218.m3u8
-#EXTINF:-1,SETANTA
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/232.m3u8
-#EXTINF:-1,AMARIN TV
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/239.m3u8
-#EXTINF:-1,NEW TV
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/240.m3u8
-#EXTINF:-1,VOICE TV
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/242.m3u8
-#EXTINF:-1,MOVIE TRAILER
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/243.m3u8
-#EXTINF:-1,MOVIE TRAILER
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/244.m3u8
-#EXTINF:-1,MOVIES
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/245.m3u8
-#EXTINF:-1,A FILM HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/246.m3u8
-#EXTINF:-1,I ASIA HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/247.m3u8
-#EXTINF:-1,I MOVIE HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/248.m3u8
-#EXTINF:-1,MOVIES
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/249.m3u8
-#EXTINF:-1,I HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/250.m3u8
-#EXTINF:-1,WORKPIONT_thflixCH
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/251.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/SJZjuqO.png" tvg-id="c73d988b5efc07dab514c0869eedda32",BBC Earth
-http://122.38.74.172:9981/stream/channelid/1836601049?ticket=487EA11E9B49DD54F9E73847EF1FE731BE7DEDFE&profile=pass
-
-
-
 #EXTINF:-1,movie24
 rtmp://tv01.thaizatv.com/drm/movie1
 #EXTINF:-1 group-title="movies" tvg-logo="http://html.login.in.th/flashstreaming/img/ch8.jpg",channel8thailand
@@ -2235,6 +1339,119 @@ http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8?
 
 
 
+
+
+#EXTINF:-1,Polo PARTY TV
+http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Soxm1RO.png" group-title="IPTV",ButGO
+http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",DP
+http://62.210.113.177:19000/udp/238.0.100.6:5000
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0POW26v.png" group-title="IPTV",FunDorado TV
+http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J0njVq9.png" group-title="IPTV",Girls TV
+http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey TV
+http://edge1.everyon.tv:1935/etv1sb/phd928/paz.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6gckOd1.png" group-title="IPTV",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oU1nwLE.png" group-title="IPTV",Live Sex Latinas
+http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NbK86y5.png" group-title="IPTV",Miami TV (Spain)
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6Nr8Bqk.png",Passione
+http://37.9.0.201:8888
+ 
+
+
+
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/01/wp-1452618158933.jpg",SEX ZONE
+http://tv.redecanais.com:1935/redecanaishot/myStream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/CJVrTy",Candy TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/iay7x8",BUTGO
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/iay7x8" , BUTGO!
+http://edge2.everyon.tv:1935/etv2sb/pld10772/chunklist_w1599318248.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/OtWcrT",ASK TV
+http://edge2.everyon.tv/etv2sb/phd10771/HasBahCa.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/wcAObA",PENTHOUSE ASIA 18+
+http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/GtyTQH",SAKURA PORN TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/b2ZEuF",JASMIN TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png",LIVETING TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/ZELUfu",VISIT-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png",  +18
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/08/PLAYBOY-TV-HD.png", PLAYBOY TV
+rtmp://edge2.everyon.tv/etv2sb//pld10499?MWINFO
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/2mdBfN" group-title="ADULTO", SEXY SAT 1
+http://publish.thewebstream.co:1935/leved/studio66tv_channel41/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/0UwJ98",Redlight HD [COLOR
+rtmp://5.196.189.39/live/ playpath=c_916 swfUrl=http://ero-tv.org/uppod/uppod32.swf pageUrl=http://ero-tv.org/redlight_online/
+ 
+#EXTINF:-1 tvg-logo="http://s10.postimg.org/wkyrrzns9/PrivateTV.png",PRIVATE TV
+rtmp://5.196.189.39/live/ playpath=n2409 swfUrl=http://ero-tv.org/uppod/uppod32.swf pageUrl=http://ero-tv.org/hallo-tv_online/
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/iay7x8",  +18
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/sF00Y6",  +18
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/4F36aX" , PENTHOUSE ASIA
+http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/OSRPRM", LIVE TING
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/9lLezT",FUNDORADO TV
+http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/2mdBfN",SEXY SAT TV
+rtmp://81.89.48.215:1935/xyz444wkz/ playpath=xy4_360p swfUrl=http://ero-tv.org/uppod/uppod_u.swf pageUrl=http://ero-tv.org/sexysat-tv_online/
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/j2ppNr",BRASILEIRINHAS TV
+rtmp://81.89.48.215:1935/xyz666wkz/ playpath=xy6_360p swfUrl=http://ero-tv.org/uppod/uppod_u.swf pageUrl=http://ero-tv.org/brasileirinhas_tv_online/
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:1,Eroxx TV HD
 http://81.200.50.4/hls/Eroxx_nejtv_portable_low.m3u8
 #EXTINF:1,Erox TV HD
@@ -2267,18 +1484,6 @@ http://93.95.158.65:4040/udp/239.254.2.90:1234
  
            
  
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2596,8 +1801,7 @@ http://193.233.186.76:81/udp/239.191.254.250:15285
 http://86.57.182.131:8905/play/a00l
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",persik_nuart tv
 http://persik.by/stream/1418/252987/10003.m3u8
-#EXTINF:-1,nuart tv_a00l?m3u8
-http://86.57.182.131:8905/play/a00l?m3u8
+
 #EXTINF:-1,Russkaya_noch_a00n
 http://86.57.182.131:8905/play/a00n
 #EXTINF:-1,Playboy TV 
@@ -2831,42 +2035,7 @@ http://alhls.cdn.zhanqi.tv/zqlive/264147_VU1iK.m3u8
 
 #EXTINF:-1 group-title="movies" tvg-logo="http://html.login.in.th/flashstreaming/img/ch8.jpg",channel8thailand
 https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
-#EXTINF:-1,BBC PLAYERxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/22.m3u8
-#EXTINF:-1,CBSO ACTION
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/29.m3u8
-#EXTINF:-1,CBSO DRAMA
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/30.m3u8
-#EXTINF:-1,FOX ACTION MOVIES
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/56.m3u8
-#EXTINF:-1,FOX FAMILY
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/58.m3u8
-#EXTINF:-1,FOX MOVIES
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/59.m3u8
-#EXTINF:-1,HBO HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/66.m3u8
-#EXTINF:-1,HBO HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/67.m3u8
-#EXTINF:-1,TRUE FILM ASIA
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/114.m3u8
-#EXTINF:-1,TRUE MOVIE HITS
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/115.m3u8
-#EXTINF:-1,MOVIE TRAILER
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/243.m3u8
-#EXTINF:-1,MOVIE TRAILER
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/244.m3u8
-#EXTINF:-1,MOVIES
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/245.m3u8
-#EXTINF:-1,A FILM HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/246.m3u8
-#EXTINF:-1,I ASIA HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/247.m3u8
-#EXTINF:-1,I MOVIE HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/248.m3u8
-#EXTINF:-1,MOVIES
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/249.m3u8
-#EXTINF:-1,I HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/250.m3u8
+
 
 
 
@@ -2910,10 +2079,7 @@ http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/iy/180723045313.jpg",upmovie
 http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
 
-#EXTINF:-1,simulcast
-http://210.210.155.35/uq2663/h/h02/02.m3u8
-#EXTINF:-1,aniplus
-http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
+
 #EXTINF:-1 group-title="movies" tvg-logo="http://html.login.in.th/flashstreaming/img/ch8.jpg",channel8thailand
 https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ii/180630033425.jpg",movie24_rtmp
@@ -2922,8 +2088,6 @@ rtmp://tv01.thaizatv.com/drm/movie1
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,andprivehd
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1,andprivehd_playlist.m3u8
-http://z5ams.akamaized.net/andprivehd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,movie1
 http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
 
@@ -3012,14 +2176,6 @@ http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u
 http://fpttv.tk/iptv/hplus.php?id=bbc-wn
 #EXTINF:-1 group-title="news" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCNEWS.png",BBC NEWS_IND
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226051/01.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC
-http://203.162.235.41:17819
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_thflixCH
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/37.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_climate
-http://climate.cdn.newschat.tv/hls/cnbc_live/index.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_fries
-http://fries.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC Europe_onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/340/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC
@@ -3039,12 +2195,6 @@ http://203.162.235.41:17817
 http://122.38.74.172:9981/stream/channelid/1321864709?ticket=CD14638C0D4AACB2F2C05349569578E5F4F175E3&profile=pass
 #EXTINF:0,BBC earth_KOR
 http://122.38.74.172:9981/stream/channelid/1836601049?ticket=487EA11E9B49DD54F9E73847EF1FE731BE7DEDFE&profile=pass
-
-
-
-
-
-
 
 
 
@@ -3301,18 +2451,10 @@ http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329
 https://alhls-cdn.zhanqi.tv/zqlive/246422_GSpB2.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Miami-TV.jpg",miamitv
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp212
-http://212.19.14.230:81/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv__a00l
+http://86.57.182.131:8905/play/a00l
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp193
 http://193.233.186.76:81/udp/239.191.254.250:15285
-#EXTINF:0,NUART TV HD
-http://95.181.234.116:81/udp/239.191.254.250:15285
-#EXTINF:0,NUART TV HD
-http://193.233.182.71:81/udp/239.191.254.250:15285
-#EXTINF:0,NUART TV HD
-http://95.85.78.76:81/udp/239.191.254.250:15285
-#EXTINF:-1,Nuart TV
-http://s1.satcardserver.com:8000/live/nerius_mag_5/GfAsmbPugV/12.ts
 
 
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_AdultTVLive.net
@@ -3369,8 +2511,6 @@ https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source
 http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_electric
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
-#EXTINF:-1,World Busines Channel HD 
-http://79.132.116.55:1212/udp/233.12.144.120:5050 
 
 
 

@@ -1054,7 +1054,8 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/CNA-logo.gif",Channel News Asia
 https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
-
+#EXTINF:-1,mediacorp8
+http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_5.m3u8
 
 
 

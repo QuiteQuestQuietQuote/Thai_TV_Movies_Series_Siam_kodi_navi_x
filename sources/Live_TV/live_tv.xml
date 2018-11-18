@@ -48,10 +48,7 @@
 
 
 
-<item>
-<title>Abp-731 Natural Airhead Ingredients 120 Asuna Kawai Juices 50 Slathered In Bodily Juices, From Her Head To Her Toenails</title>
-<link>https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_2059417927707478_1984113881018007552_n.mp4?_nc_cat=0&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&amp;oh=30b27c0a82356fd4d9caafa0a75553e4&amp;oe=5B721399&amp;itag=22</link>
-<thumbnail>http://javdon.com/wp-content/uploads/2018/08/118abp00731pl-crop-215x316.jpg</thumbnail>
+
 
 
 
@@ -188,115 +185,46 @@ def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
 
 
 
-
-
+<item>
+<title>and flix hd</title>
+<link>http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8</link>
+<thumbnail>http://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/05/andflix-logo_4.jpg&w=620&h=350&zc=1&q=100</thumbnail>
 
 <item>
-<title>Sqte-186 I Love You And I39m More Excited Than Usual</title>
-<thumbnail>http://javdon.com/wp-content/uploads/2017/10/27042.jpg</thumbnail>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[makelist.param1]</title>
-  <link>$doregex[link]</link>
-  <thumbnail></thumbnail>
-  ]]></listrepeat>
-  <expres><![CDATA[<a.*">(.*?)<.*href="(.*?)"]]></expres>
-  <page>http://javdon.com/download/?id=Yn0BbLM</page>
-  <referer></referer>
-  <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36</agent>
-  <cookieJar></cookieJar>
-</regex>
-<regex>
-<name>link</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]')]]></expres>
-<page></page>
-</regex> 
-</item>
+<title>and prive hd</title>
+<link>http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8</link>
+<thumbnail>https://storage.googleapis.com/news-photo/1505284911_sI2Bzt_70469.jpg</thumbnail>
+
 
 
 
 
 
 <item>
-<title>Sqte-186</title>
-<thumbnail></thumbnail>
-<link>$doregex[link]</link>
-<regex>
-<name>link</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='https://video.fhan5-1.fna.fbcdn.net/v/t42.9040-2/10000000_225875504720578_1669009069861502976_n.mp4?_nc_cat=0&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&amp;oh=0e93762488fff161f79267830d91c57b&amp;oe=5B6CCB19&amp;itag=22'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-</regex> 
-</item>
-
-
-
+<title>BBC EARTH HD_token</title>
+<link>http://191.96.38.237:443/android/02_BBCEARTH_720p/playlist.m3u8?token=6e9134ac38b2367c24ca27aa46ad7d68</link>
+<thumbnail>https://football-hd.com/img_channel.php?c=ch_583594ab6de1f3_13712548.png</thumbnail>
 
 <item>
-<title>tttSqte-186 I Love You And I39m More Excited Than Usual</title>
-<thumbnail>http://javdon.com/wp-content/uploads/2017/10/27042.jpg</thumbnail>
-<link>$doregex[link]</link>
-<regex>
-<name>link</name>
-<expres>360p</a><a href="(.*?)"</expres>
-<page>http://javdon.com/download/?id=Yn0BbLM</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
+<title>BBC LIFETYLE HD_token</title>
+<link>http://191.96.38.237:443/android/02_LIFETYLEHD_720p/playlist.m3u8?token=bbc9a9c8ccb9f084a7944b45ea5936b</link>
+<thumbnail>https://football-hd.com/img_channel.php?c=ch_589e3eb65d4a78_15601988.png</thumbnail>
+
 
 
 
 
 
 <item>
-<title>Bban-016 Lesbian Share House</title>
-<thumbnail>http://javdon.com/wp-content/uploads/2018/03/28744.jpg</thumbnail>
-<link>$doregex[link]</link>
+<title>BBC EARTH HD_doregex</title>
+<link>http://191.96.38.237:443/android/02_BBCEARTH_720p/playlist.m3u8?token=$doregex[reg1]</link>
 <regex>
-<name>link</name>
-<expres>360p</a><a href="(.*?)"</expres>
-<page>http://javdon.com/download?id=R7QlEkM</page>
+<name>reg1</name>
+<expres>token=(.*?)"</expres>
+<page>https://football-hd.com/?r=live-channel/577/0/BBC_EARTH</page>
 <referer></referer>
 </regex>
-</item>
-
-
-
-
-
-<item>
-<title>Caribpr 122316-003 Beaucoup Beach Fuck Special 3Hrs-14 Girls</title>
-<thumbnail>http://javdon.com/wp-content/uploads/2016/12/9425.jpg</thumbnail>
-<link>$doregex[link]</link>
-<regex>
-<name>link</name>
-<expres>360p</a><a href="(.*?)"</expres>
-<page>http://javdon.com/download?id=Zn1PJo7</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-
-
-
-<item>
-<title>test_Krv-001 Mgs Treasured Erotic Video Prestige Kuradashi Tv Premium 01</title>
-<thumbnail>http://javdon.com/wp-content/uploads/2017/01/9496-215x316.jpg</thumbnail>
-<link>$doregex[link]</link>
-<regex>
-<name>link</name>
-<expres>360p', type: 'mp4'   },
-{file: '(.*?)'</expres>
-<page>http://vodstream.xyz/fembed.php?id=oMDzG4n&ads=1&thumb=http://pics.dmm.co.jp/mono/movie/adult/118krv001/118krv001pl.jpg</page>
-</regex>
+<thumbnail>https://football-hd.com/img_channel.php?c=ch_583594ab6de1f3_13712548.png</thumbnail>
 </item>
 
 
@@ -308,79 +236,14 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://video.fhan5-1.fna.fbcdn.net
 
 
 
-<item>
-<title>Abp-154 The Best Sex Ayami Shunhate</title>
-<thumbnail>http://javdon.com/wp-content/uploads/2017/01/11988.jpg</thumbnail>
-<link>$doregex[link]</link>
-<regex>
-<name>link</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=R7QxW2M&ads=1&thumb=http://pics.dmm.co.jp/mono/movie/adult/118abp154/118abp154pl.jpg'):
-    import urlresolver
-    u = urlresolver.resolve(url)
-    return u
-]]></expres>
-<page></page>
-</regex> 
-</item>
-
 
 <item>
-<title></title>
-<link>https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_2125192551025470_7745856175534505984_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=a663c83992820ee9651d8bbf3ca4370a&oe=5B736B60&itag=22</link>
-<thumbnail>http://javdon.com/wp-content/uploads/2017/01/9496-215x316.jpg</thumbnail>
-
-
-
-
-
-<item>
-<title>Ipz-533 160 Minutes Of Marginal Mass Tide Sprayed Acme Raging Special Airi Kijima</title>
-<link>http://cdn.vodstream.xyz/s47/3674/007-hls/appid-12269/hls.m3u8?v=3</link>
-<thumbnail>http://javdon.com/wp-content/uploads/2017/01/12269-215x316.jpg</thumbnail>
-
-
-
-
-<item>
-<title></title>
-<link>https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_195975351179590_1328108925643390976_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=c8333b54728181f23ac640ed5f38c41c&oe=5B73606F&itag=22</link>
-<thumbnail>http://javdon.com/wp-content/uploads/2017/01/10119-215x316.jpg</thumbnail>
-
-
-
-
-
-
-
-<item>
-<title>nuart</title>
-<thumbnail>http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png</thumbnail>
-<link>$doregex[link]</link>
-<regex>
-<name>link</name>
-<expres></expres>
-<page>http://51.15.201.17:8081/live/nuart/chunks.m3u8?nimblesessionid=2245247&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxOCA1OjEzOjEyIFBNJmhhc2hfdmFsdWU9MHhlckRNWEthamNUODZYMzR3eWcxQT09JnZhbGlkbWludXRlcz0xODA=</page>
-<referer>http://www.adulttvlive.net/channels/nuarttv.php/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36</agent>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-
-<item>
-<title>nuart</title>
+<title>nuart tv_udp193</title>
+<link>http://193.233.186.76:81/udp/239.191.254.250:15285</link>
 <thumbnail>http://hochu.tv/images/nuart-tv.png</thumbnail>
-<link>$doregex[link]</link>
-<regex>
-<name>link</name>
-<expres></expres>
-<page>http://cdntvnet.com/nuart.php/</page>
-<referer>http://hochu.tv/nuart-tv.html/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36</agent>
-<cookieJar></cookieJar>
-</regex>
-</item>
+
+
+
 
 
 
@@ -412,17 +275,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://vodstream.xyz/fembed.php?id=
 </item>
 
 
-<item>
-<title>nuart_adulttvlive_doregex_nimblesessionid=</title>
-<link>http://51.15.201.17:8081/live/nuart/chunks.m3u8?nimblesessionid=$doregex[reg1]</link>
-<regex>
-<name>reg1</name>
-<expres>nimblesessionid=(.*?)"</expres>
-<page>http://www.adulttvlive.net/channels/nuarttv.php/</page>
-<referer>http://www.adulttvlive.net/nuart-tv-live/</referer>
-</regex>
-<thumbnail>http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png</thumbnail>
-</item>
+
 
 
 
