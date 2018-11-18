@@ -221,8 +221,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
 <regex>
 <name>reg1</name>
 <expres>token=(.*?)"</expres>
-<page>https://football-hd.com/?r=live-channel/577/0/BBC_EARTH</page>
-<referer></referer>
+<page>https://football-hd.com/index.php?ajax=invoke</page>
+<referer>https://football-hd.com/?r=live-channel/577/0/BBC_EARTH</referer>
 </regex>
 <thumbnail>https://football-hd.com/img_channel.php?c=ch_583594ab6de1f3_13712548.png</thumbnail>
 </item>
@@ -231,15 +231,25 @@ def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
 
 
 
-
+<item>
+<title>True Explore Sci_doregex</title>
+<link>http://191.96.38.237:443/android/00_exp3_480p/chunklist_w497263589.m3u8?token=$doregex[reg1]</link>
+<regex>
+<name>reg1</name>
+<expres>token=(.*?)"</expres>
+<page>https://football-hd.com/index.php?ajax=invoke</page>
+<referer>https://football-hd.com/?r=live-channel/421/5/True_Explore_Sci</referer>
+</regex>
+<thumbnail>https://football-hd.com/img_channel.php?c=ch_5baeb7970a7809_44621691.png</thumbnail>
+</item>
 
 
 
 
 
 <item>
-<title>nuart tv_udp193</title>
-<link>http://193.233.186.76:81/udp/239.191.254.250:15285</link>
+<title>nuart tv_udp92</title>
+<link>http://92.42.14.217:4022/udp/233.1.1.251:1234 </link>
 <thumbnail>http://hochu.tv/images/nuart-tv.png</thumbnail>
 
 
@@ -269,10 +279,140 @@ def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
 <name>reg1</name>
 <expres>wmsAuthSign=(.*?)"</expres>
 <page>http://www.adulttvlive.net/channels/nuarttv.php/</page>
-<referer>http://www.adulttvlive.net/nuart-tv-live/</referer>
+<referer>http://www.adulttvlive.net/nuart-tv-embed/</referer>
 </regex>
 <thumbnail>http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png</thumbnail>
 </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>Two and a Half Men</title>
+<link>$doregex[get-RTMP] playpath=$doregex[get-playpath] pageUrl=$doregex[get-pageUrl]</link>
+<regex>
+<name>get-playpath</name>
+<expres>file=(.*?)\.</expres>
+<page>$doregex[get-pageUrl]</page>
+</regex>
+<regex>
+<name>get-RTMP</name>
+<expres>streamer=(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>url=(.*?)"</expres>
+<page>$doregex[get-embed-html]</page>
+</regex>
+<regex>
+<name>get-embed-html</name>
+<expres>iframe.*src="(.*?)"</expres>
+<page>$doregex[get-embed1]</page>
+</regex>
+<regex>
+<name>get-embed1</name>
+<expres>iframe.*src="(.*?)"</expres>
+<page>http://canaistv.net/Two-and-a-Half-men-ao-vivo</page>
+</regex>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>nuart_adulttvlive_doregex_rtmp</title>
+<link>$doregex[get-RTMP] playpath=$doregex[get-playpath] pageUrl=$doregex[get-pageUrl]</link>
+<regex>
+<name>get-playpath</name>
+<expres>file=(.*?)\.</expres>
+<page>$doregex[get-pageUrl]</page>
+</regex>
+<regex>
+<name>get-RTMP</name>
+<expres>streamer=(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>url=(.*?)"</expres>
+<page>http://51.15.201.17:8081/live/nuart/chunks.m3u8?nimblesessionid=$doregex[reg2]</page>
+</regex>
+<regex>
+<name>reg2</name>
+<expres>nimblesessionid=(.*?)"</expres>
+<page>http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=$doregex[reg1]</page>
+<referer>http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=$doregex[reg1]</referer>
+</regex>
+<name>reg1</name>
+<expres>wmsAuthSign=(.*?)"</expres>
+<page>http://www.adulttvlive.net/channels/nuarttv.php/</page>
+<referer>http://www.adulttvlive.net/nuart-tv-embed/</referer>
+</regex>
+<thumbnail>http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>nuart_adulttvlive_doregex_nimblesessionid_ts</title>
+<link>http://51.15.201.17:8081/live/nuart/l_93466_60312446_18710.ts?nimblesessionid=$doregex[reg2]</link>
+<regex>
+<name>reg2</name>
+<expres>nimblesessionid=(.*?)"</expres>
+<page>http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=$doregex[reg1]</page>
+<referer>http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=$doregex[reg1]</referer>
+</regex>
+<name>reg1</name>
+<expres>wmsAuthSign=(.*?)"</expres>
+<page>http://www.adulttvlive.net/channels/nuarttv.php/</page>
+<referer>http://www.adulttvlive.net/nuart-tv-embed/</referer>
+</regex>
+<thumbnail>http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1743,8 +1743,7 @@ http://172.104.114.178/vod/live/3/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 #EXTINF:-1,OURS_HD4
 http://172.104.114.178/vod/live/4/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 
-#EXTINF:-1,planetahd
-http://84.43.207.130/planetahd/planetahd.m3u8
+
 
 #EXTINF:-1,mxmx_udp
 http://193.233.186.76:81/udp/239.191.254.170:15285
@@ -1756,6 +1755,11 @@ http://193.233.186.76:81/udp/239.191.254.251:15285
 http://193.233.186.76:81/udp/239.191.254.170:15285
 #EXTINF:-1,#EXTINF:-1,DorcelHD_udp
 http://91.82.71.123:4000/udp/239.1.1.40:5000
+#EXTINF:-1,Playboy TV 
+http://92.42.14.217:4022/udp/233.1.1.249:1234 
+#EXTINF:-1,Hustler TV 
+http://92.42.14.217:4022/udp/233.1.1.250:1234 
+
 
 
 #EXTINF:-1, WAAYH
@@ -1801,6 +1805,8 @@ http://193.233.186.76:81/udp/239.191.254.250:15285
 http://86.57.182.131:8905/play/a00l
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",persik_nuart tv
 http://persik.by/stream/1418/252987/10003.m3u8
+#EXTINF:-1,nuart 
+http://92.42.14.217:4022/udp/233.1.1.251:1234 
 
 #EXTINF:-1,Russkaya_noch_a00n
 http://86.57.182.131:8905/play/a00n
@@ -2447,6 +2453,8 @@ http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
 #EXTINF:-1,JAPcs19
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=156632922
+#EXTINF:-1,planetahd
+http://84.43.207.130/planetahd/planetahd.m3u8
 #EXTINF:-1,PhoneCam
 https://alhls-cdn.zhanqi.tv/zqlive/246422_GSpB2.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Miami-TV.jpg",miamitv
@@ -2455,6 +2463,8 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 http://86.57.182.131:8905/play/a00l
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp193
 http://193.233.186.76:81/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp92
+http://92.42.14.217:4022/udp/233.1.1.251:1234 
 
 
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_AdultTVLive.net

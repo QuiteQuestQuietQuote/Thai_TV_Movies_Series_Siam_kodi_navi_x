@@ -87,10 +87,11 @@ URL=
 
 
 type=video
-name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG NEW_HDCAM_SeeHD
+name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG NEW.720p.HDCAM.x264-SugarTiTS
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
-date=2018-11-17
-URL=https://openload.co/f/0hy9UKwm1H8/fantastic_beast_2_NEW_HDCAM_SeeHD.mkv.mp4
+date=2018-11-18
+URL=https://openload.co/f/VHRwE1C7oO0/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.NEW.720p.HDCAM.x264-SugarTiTS.mkv.mp4
+#https://openload.co/f/0hy9UKwm1H8/fantastic_beast_2_NEW_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/STtBv3Ur_Og/Fantastic_Beasts_The_Crimes_of_Grindelwal_%282018%29_720p_English_DVDScr_x264_AAC_850MB.mp4
 #https://openload.co/f/vSuSifI7q2Q/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET_SeeHD.mp4
 #https://openload.co/f/YyacPWT0DVs/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET.mp4
@@ -1348,7 +1349,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-17
+date=2018-11-18
 URL=
 
 
@@ -1356,7 +1357,11 @@ URL=
 
 
 
-
+type=video
+name=Boarding School (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lun3G1IU6AYgXlXP649amULMPpv.jpg
+date=2018-11-18
+URL=https://openload.co/f/r388nugfEEg/Boarding.School.2018.1080p.BluRay.x264-JustWatch.mp4
 
 type=video
 name=Videoman (2018) [COLOR=FF00FF00]SWE BR 1080p[/COLOR]
@@ -1554,6 +1559,14 @@ URL=https://openload.co/f/c0ePKbZ1yPc/Zoe.2018.1080p.BR_SeeHD.mp4
 #https://www.rapidvideo.com/e/FX1AMLBTSU   720
 #https://openload.co/embed/xQHp8p0bEZk/ZOEBD72.Ganol.st.mkv
 #https://openload.co/f/cAQEIF2PcY8/Zoe_%282018%29720p_BluRay_x264-GETiT.Ganool.mkv.mp4
+
+type=video
+name=Tales from the Hood 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjT70BYtU4YhLM4iFDG6Ba8BMp0.jpg
+date=2018-11-18
+URL=https://openload.co/f/Tzn8ARSqiuw/Tales.From.The.Hood.2.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/K0Da74T6DzI/Tales.from.the.Hood.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/BmfMnC1L500/Tales.from.the.Hood.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Bel Canto (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7110,12 +7123,7 @@ URL=https://uptobox.com/zmpy3w3s85gt
 
 
 
-type=video
-name=Tales from the Hood 2 (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjT70BYtU4YhLM4iFDG6Ba8BMp0.jpg
-date=2018-10-20
-URL=https://openload.co/f/K0Da74T6DzI/Tales.from.the.Hood.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/BmfMnC1L500/Tales.from.the.Hood.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
 
 type=video
 name=Dogman (2018) [COLOR=FF00FF00]ITA BR 720p[/COLOR]
@@ -7700,12 +7708,24 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 type=video
 name=
 thumb=
-date=2018-11-14
+date=2018-11-18
 URL=
 
 
 
 
+
+
+type=video
+name=Cam (2018) ENG 1080p.NF.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdMkq7OrLSbG7t61BVNvmWuX1mJ.jpg
+date=2018-11-18
+URL=https://openload.co/f/BMn2UdoZOco/Cam.2018.1080p.NF.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+type=video
+name=Cam (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdMkq7OrLSbG7t61BVNvmWuX1mJ.jpg
+date=2018-11-18
+URL=https://openload.co/f/aRF180FHvVI/Cam_%282018%29%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B8%8B%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -10851,8 +10871,9 @@ URL=https://uptobox.com/n3qpq3b9xzv9
 type=video
 name=The Equalizer 2 (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg
-date=2018-11-17
-URL=https://openload.co/f/JV-K56Sq9Mw/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2_2.mp4
+date=2018-11-18
+URL=https://openload.co/f/r8dVioRv118/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2_2.mp4
+#https://openload.co/f/JV-K56Sq9Mw/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2_2.mp4
 #https://openload.co/f/zbJzLyHqNUA/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://openload.co/f/2lCZjxZ3Ww4/The_Equalizer_2_%282018%29%E0%B8%A1%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
@@ -10877,8 +10898,9 @@ URL=https://uptobox.com/igie3h0pwv9m
 type=video
 name=Mile 22 (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg
-date=2018-11-17
-URL=https://openload.co/f/jgvg5DQIOG0/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2.mp4
+date=2018-11-18
+URL=https://openload.co/f/JwFpEq2zxD0/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC_%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2.mp4
+#https://openload.co/f/jgvg5DQIOG0/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2.mp4
 #https://openload.co/f/wNuqZS5UCIU/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://openload.co/f/EN0pPmSU45M/Mile_22_%282018%29%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
@@ -11702,8 +11724,9 @@ URL=https://openload.co/f/oPp_tzpCV2Y/Skyscraper_%282018%29%E0%B8%A3%E0%B8%B0%E0
 type=video
 name=Billionaire Boys Club (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwyXIzlHGkdMlpWSierm0MApmsN.jpg
-date=2018-10-22
-URL=https://openload.co/f/n6xoIrDP1u0/Billionaire.Boys.Club.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+date=2018-11-18
+URL=https://openload.co/f/UOm93dgsBxg/Billionaire.Boys.Club.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/n6xoIrDP1u0/Billionaire.Boys.Club.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/AgT4rDazPUo/Billionaire.Boys.Club.2018.720p.WEB_DL.MkvCage.ws.mp4
 #https://openload.co/f/zOLm60jIaKk/Billionaire_Boys_Club.2018.720pHD_SeeHD.mkv.mp4
 type=video
