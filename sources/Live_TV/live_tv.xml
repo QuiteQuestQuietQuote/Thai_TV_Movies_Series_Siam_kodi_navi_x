@@ -232,15 +232,15 @@ def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
 
 
 <item>
-<title>True Explore Sci_doregex</title>
-<link>http://191.96.38.237:443/android/00_exp3_480p/chunklist_w497263589.m3u8?token=$doregex[reg1]</link>
+<title>Nat_Geo_People_HD_doregex</title>
+<link>http://191.96.38.237:443/android/7ad09373f65c48d5bb6aa6c3b2ca519a/playlist.m3u8?token=$doregex[reg1]</link>
 <regex>
 <name>reg1</name>
 <expres>token=(.*?)"</expres>
 <page>https://football-hd.com/index.php?ajax=invoke</page>
-<referer>https://football-hd.com/?r=live-channel/421/5/True_Explore_Sci</referer>
+<referer>https://football-hd.com/?r=live-channel/80/0/Nat_Geo_People_HD</referer>
 </regex>
-<thumbnail>https://football-hd.com/img_channel.php?c=ch_5baeb7970a7809_44621691.png</thumbnail>
+<thumbnail>https://football-hd.com/img_channel.php?c=hdnatgeoadventure.png</thumbnail>
 </item>
 
 
@@ -412,11 +412,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
 <title>pxstream.tv</title>
 <link>http://edge10.pxstream.tv/loadbalance/slv10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDE2IDc6MDE6MzMgQU0maGFzaF92YWx1ZT16YjNlUXBseVVJNmdpQTF2czJNNlBBPT0mdmFsaWRtaW51dGVzPTEw$OPT:http-user-agent=Mozilla/5.0$OPT:http-referrer=http://pxstream.tv/embed.php?file=235f117880dee0df5-tnt34&referrer=http://ekostreams.co/ch/espnbrasil.php&width=468&height=386&jwplayer=flash</link>
 <thumbnail></thumbnail>
-
-
-
-
-
 
 
 
