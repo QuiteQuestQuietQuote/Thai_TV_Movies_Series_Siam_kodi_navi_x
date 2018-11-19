@@ -274,7 +274,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
 
 <item>
 <title>nuart_adulttvlive_doregex</title>
-<link>http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=$doregex[reg1]</link>
+<link>http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=$doregex[reg1]|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36</link>
 <regex>
 <name>reg1</name>
 <expres>wmsAuthSign=(.*?)"</expres>
@@ -394,13 +394,24 @@ def GetLSProData(page_data,Cookie_Jar,m,url='[makelist.param2]'):
 
 
 
+<item>
+<title>http://ekostreams.co/ch/bobo.php</title> [^]
+<link>$doregex[file]|User-Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>sources.*\n.*HLS.*\n.*file: "(.*?)"</expres>
+<page>http://pxstream.tv/embed.php?file=ea30a2d19ce4a69d2-globospputz&referrer=http://ekostreams.co/ch/bobo.php&width=468&height=386&jwplayer=mpegdash</page> [^]
+<referer>http://ekostreams.co/ch/bobo.php</referer></regex> [^]
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 
-
-
-
-
+<item>
+<title>pxstream.tv</title>
+<link>http://edge10.pxstream.tv/loadbalance/slv10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDE2IDc6MDE6MzMgQU0maGFzaF92YWx1ZT16YjNlUXBseVVJNmdpQTF2czJNNlBBPT0mdmFsaWRtaW51dGVzPTEw$OPT:http-user-agent=Mozilla/5.0$OPT:http-referrer=http://pxstream.tv/embed.php?file=235f117880dee0df5-tnt34&referrer=http://ekostreams.co/ch/espnbrasil.php&width=468&height=386&jwplayer=flash</link>
+<thumbnail></thumbnail>
 
 
 

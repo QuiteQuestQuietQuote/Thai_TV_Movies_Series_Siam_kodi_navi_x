@@ -2442,13 +2442,13 @@ https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
-
-
-
 #EXTINF:-1  tvg-logo="http://www.taiwancinema.com/ImageData/322/2018/79185/t_79185.png",cnex
 http://61.58.60.230:9000/live/257.m3u8
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/d2/37/1dd237c0-dc9f-43a2-a6f5-3b2e7f31e8ff/source/512x512bb.jpg",opensky_CHN
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
+
+
+http://51.15.201.17:8081/live/nuart/chunks.m3u8?nimblesessionid=2409502&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAxOCAzOjE0OjE1IFBNJmhhc2hfdmFsdWU9ZnRPRjJ1MnZIeG5MNFJDbFRZZXZzZz09JnZhbGlkbWludXRlcz0xODA=
 
 
 #EXTINF:-1,JAPcs19
@@ -2465,6 +2465,8 @@ http://86.57.182.131:8905/play/a00l
 http://193.233.186.76:81/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp92
 http://92.42.14.217:4022/udp/233.1.1.251:1234 
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp134
+http://134.19.150.42:81/udp/239.195.6.33:1234
 
 
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_AdultTVLive.net

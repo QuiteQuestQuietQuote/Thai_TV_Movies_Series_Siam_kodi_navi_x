@@ -86,15 +86,7 @@ URL=
 
 
 
-type=video
-name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG NEW.720p.HDCAM.x264-SugarTiTS
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
-date=2018-11-18
-URL=https://openload.co/f/VHRwE1C7oO0/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.NEW.720p.HDCAM.x264-SugarTiTS.mkv.mp4
-#https://openload.co/f/0hy9UKwm1H8/fantastic_beast_2_NEW_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/STtBv3Ur_Og/Fantastic_Beasts_The_Crimes_of_Grindelwal_%282018%29_720p_English_DVDScr_x264_AAC_850MB.mp4
-#https://openload.co/f/vSuSifI7q2Q/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET_SeeHD.mp4
-#https://openload.co/f/YyacPWT0DVs/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET.mp4
+
 
 type=video
 name=Nobody's Fool (2018) ENG HDCAM.x264-Unknown_SeeHD
@@ -236,12 +228,7 @@ URL=https://openload.co/f/gkdpwns7nyY/White_Boy_Rick_2018_720p_TS-1XBET_SeeHD.mp
 
 
 
-type=video
-name=The Happytime Murders (2018) ENG HDcam_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWxkur51srfVnMn2QOFjE7mbq6h.jpg
-date=2018-09-15
-URL=https://openload.co/f/mo5HTgGEhFQ/The_Happytime_Murders_HDcam_SeeHD.avi.mp4
-#https://openload.co/f/NKbJ8AueDe4/The.Happytime.Murders.2018.720p.HDCAM.1XBET_SeeHD.mp4
+
 
 
 
@@ -1349,7 +1336,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-18
+date=2018-11-19
 URL=
 
 
@@ -1358,10 +1345,34 @@ URL=
 
 
 type=video
+name=Sara Baras, All Her Voices (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
+thumb=https://m.media-amazon.com/images/M/MV5BYmQ2YTAzODktZmNmOS00ZDgyLWI0YWYtNDVjODRiYTVhZWNjXkEyXkFqcGdeQXVyNjQ5MDA3NjE@._V1_SY1000_CR0,0,707,1000_AL_.jpg
+date=2018-11-19
+URL=https://openload.co/f/yF5XAUofXkE/Sara.Baras.All.Her.Voices.2017.SPANISH.1080p.BluRay.H264.AAC-VXT.mp4
+
+type=video
+name=The Happytime Murders (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWxkur51srfVnMn2QOFjE7mbq6h.jpg
+date=2018-11-19
+URL=https://openload.co/f/WHzVvMhsVK0/The.Happytime.Murders.2018.1080p.Bluray_SeeHD.mkv.mp4
+#https://openload.co/f/G0xjZRLx8C0/The.Happytime.Murders.2018.1080p.Bluray_SeeHD.mkv   MKV4.1GB
+#https://openload.co/f/XnQIfb7lwok/The.Happytime.Murders.2018.720p.BRRip.x264.mkv.mp4
+#https://openload.co/f/mo5HTgGEhFQ/The_Happytime_Murders_HDcam_SeeHD.avi.mp4
+#https://openload.co/f/NKbJ8AueDe4/The.Happytime.Murders.2018.720p.HDCAM.1XBET_SeeHD.mp4
+
+type=video
+name=Kodachrome (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mseyc8v3UD1DhaZ3kSdXs4Dj9Xf.jpg
+date=2018-11-19
+URL=https://openload.co/f/NyHrcLQco7I/Kodachrome.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/zrY63GzajjE/Kodachrome.2017.720p.BluRay.DD5.1.x264-SPEED.mkv.mp4
+
+type=video
 name=Boarding School (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lun3G1IU6AYgXlXP649amULMPpv.jpg
-date=2018-11-18
-URL=https://openload.co/f/r388nugfEEg/Boarding.School.2018.1080p.BluRay.x264-JustWatch.mp4
+date=2018-11-19
+URL=https://openload.co/f/EKT44SvBmx8/Boarding.School.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/r388nugfEEg/Boarding.School.2018.1080p.BluRay.x264-JustWatch.mp4
 
 type=video
 name=Videoman (2018) [COLOR=FF00FF00]SWE BR 1080p[/COLOR]
@@ -1369,18 +1380,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QMoWFMKOC6y2rtZmy3GzWOY7t
 date=2018-11-17
 URL=https://openload.co/f/G-Oi2969e78/Videoman.2018.1080p.BluRay.x264-APVRAL.mkv.mp4
 
-type=video
-name=The Marine 6: Close Quarters (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/clpvZaPqGb35gKChikfhOoLbnbo.jpg
-date=2018-11-16
-URL=https://uptobox.com/0fwty0parng8
-#https://www.rapidvideo.com/e/FX9XXY0CW3
-#https://openload.co/embed/Uj2-pD8MDcg/THEMARINE680.Ganol.st.mkv
-#https://openload.co/f/H8Sge9hwRZY/The_Marine_6%3A_Close_Quarters_%282018%291080p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
-#https://uptobox.com/3p1m0o0uq5yi   720
-#https://www.rapidvideo.com/e/FX96IOD0RS   720
-#https://openload.co/embed/Wi29pF3UWB4/THEMARINE6CLOSEQUATESRSBD72.Gano.st.mkv
-#https://openload.co/f/YNubEolopbc/The_Marine_6%3A_Close_Quarters_%282018%29720p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
+
 
 type=video
 name=Everyday Rebellion (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -6971,11 +6971,7 @@ URL=https://openload.co/f/9Mqx8y_HYZU/rbg.2018.720p.bluray.hevc.x265.mkv.mp4
 #https://openload.co/f/ekgLX3At4to/rbg.2018.720p.bluray.x264-cinefile.mkv.mp4
 #https://openload.co/f/RqxwxR2aaE0/rbg.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
 
-type=video
-name=Kodachrome (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mseyc8v3UD1DhaZ3kSdXs4Dj9Xf.jpg
-date=2018-08-31
-URL=https://openload.co/f/zrY63GzajjE/Kodachrome.2017.720p.BluRay.DD5.1.x264-SPEED.mkv.mp4
+
 
 type=video
 name=The Jurassic Games (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -7390,7 +7386,20 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
-
+type=video
+name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG NEW.720p.HDCAM.x264-SugarTiTS
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
+date=2018-11-18
+URL=https://openload.co/f/VHRwE1C7oO0/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.NEW.720p.HDCAM.x264-SugarTiTS.mkv.mp4
+#https://openload.co/f/0hy9UKwm1H8/fantastic_beast_2_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/STtBv3Ur_Og/Fantastic_Beasts_The_Crimes_of_Grindelwal_%282018%29_720p_English_DVDScr_x264_AAC_850MB.mp4
+#https://openload.co/f/vSuSifI7q2Q/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET_SeeHD.mp4
+#https://openload.co/f/YyacPWT0DVs/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET.mp4
+type=video
+name=Fantastic Beasts: The Crimes of Grindelwald (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
+date=2018-11-19
+URL=https://openload.co/f/FjqJHOdzwNI/Fantastic_Beasts%3A_The_Crimes_of_Grindelwald_%282018%29%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%3A_%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%94%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -7716,13 +7725,36 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=The Marine 6: Close Quarters (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/clpvZaPqGb35gKChikfhOoLbnbo.jpg
+date=2018-11-16
+URL=https://uptobox.com/0fwty0parng8
+#https://www.rapidvideo.com/e/FX9XXY0CW3
+#https://openload.co/embed/Uj2-pD8MDcg/THEMARINE680.Ganol.st.mkv
+#https://openload.co/f/H8Sge9hwRZY/The_Marine_6%3A_Close_Quarters_%282018%291080p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
+#https://uptobox.com/3p1m0o0uq5yi   720
+#https://www.rapidvideo.com/e/FX96IOD0RS   720
+#https://openload.co/embed/Wi29pF3UWB4/THEMARINE6CLOSEQUATESRSBD72.Gano.st.mkv
+#https://openload.co/f/YNubEolopbc/The_Marine_6%3A_Close_Quarters_%282018%29720p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
+type=video
+name=The Marine 6: Close Quarters (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/clpvZaPqGb35gKChikfhOoLbnbo.jpg
+date=2018-11-19
+URL=https://openload.co/f/R9hY3jiQg8A/The_Marine_6%3A_Close_Quarters_%282018%29The_Marine_6%3A_Close_Quarters_%282018%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
 type=video
 name=Cam (2018) ENG 1080p.NF.WEB-DL.DD5.1.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdMkq7OrLSbG7t61BVNvmWuX1mJ.jpg
 date=2018-11-18
 URL=https://openload.co/f/BMn2UdoZOco/Cam.2018.1080p.NF.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 type=video
-name=Cam (2018) THCAM
+name=Cam (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdMkq7OrLSbG7t61BVNvmWuX1mJ.jpg
 date=2018-11-18
 URL=https://openload.co/f/aRF180FHvVI/Cam_%282018%29%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B8%8B%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
@@ -10098,7 +10130,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-04
+date=2018-11-19
 URL=
 
 
@@ -10110,7 +10142,11 @@ URL=
 
 
 
-
+type=video
+name=Kuntilanak (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/64b5CSGsnmnx9oiWR6hzadsjWME.jpg
+date=2018-11-19
+URL=https://openload.co/f/KtL9I2sJhw0/Kuntilanak_%282018%29%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%81%E0%B8%AA%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
 type=video
@@ -10293,6 +10329,7 @@ name=Mission: Impossible - Fallout (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
 date=2018-11-15
 URL=https://openload.co/f/EbjXDVfaJYg/Mission.Impossible.Fallout.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/xnLMmGIoXog/Mission.Impossible.Fallout.2018.720p.BluRay.X264-DEFLATE.mkv.mp4
 #https://openload.co/f/Nmjv9h0Pd98/Mission.Impossible.Fallout.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/YfkZmiJYuwI/Mission.Impossible.Fallout.2018.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
 #https://openload.co/f/J7EJz7v-a_Y/Mission_Impossible_Fallout_2018_1080p_WEB-DL_DD5.1_X264-24HD_SeeHD.mkv.mp4
