@@ -4,7 +4,7 @@
 
 #EXTM3U
 #EXTINF:0,My TV
-
+#EXTINF:0,
 
 
 
@@ -1038,9 +1038,13 @@ http://62.210.93.43:80/live?channelId=101&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 
 
 
-#EXTINF:-1,music-choice
+#EXTINF:-1  tvg-logo="http://samara11x11.ucoz.ru/music/NR1_4K_ULTRA_HD_TV.png",NR1 4K
+http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784160_logo_djing_wild_edm.png",djing
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1  tvg-logo="http://3.bp.blogspot.com/-5Wbwt_uIAu0/TyhcHDsR3hI/AAAAAAAAEAc/B30c1R_Rd44/s1600/Music+Choice+logo+2012.jpg",music-choice
 http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
-#EXTINF:-1,hit_tv
+#EXTINF:-1  tvg-logo="http://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png",hit_tv
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 
 
@@ -1066,12 +1070,16 @@ http://dlhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
 http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
 #EXTINF:-1,Movies_Chinese_
 http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8
+#EXTINF:-1,Hollywood
+http://iss01.ott.net.tw:8081/live/coship_DCTV0001421917254069_1200.m3u8
+#EXTINF:-1,HBO2_dna
+http://80.87.208.158:80/dna-576-tv-pc.m3u8
+#EXTINF:-1,HBO_dna
+http://80.87.208.158:80/dna-151-tv-pc.m3u8
 #EXTINF:-1,HBO_PLTV
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1,HBO_transvision_indo
 http://210.210.155.35/session/98bcfbb2-cd03-11e8-8197-b82a72d63267/uq2663/h/h231/index2.m3u8
-#EXTINF:-1,HBO_rahman
-http://194.88.107.101:6204/rahman/rahman/8344
 
 
 

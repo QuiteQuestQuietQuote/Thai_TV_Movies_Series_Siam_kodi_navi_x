@@ -809,12 +809,7 @@ date=2018-01-29
 URL=https://openload.co/f/jsX7UBJY8-k/Espionage.Tonight.2017.720p.Hulu.WEB-DL.AAC2.0.H.264-Antifa.mkv.mp4
 #https://openload.co/f/ohlpTYnAgls/Espionage_Tonight_2017_HDRip_XviD_AC3-EVO.avi.mp4
 
-type=video
-name=Columbus (2017) ENG WEB-DL.X264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YM144vixTdsrCzSmGUjdsRmL4D.jpg
-date=2017-10-24
-URL=https://openload.co/f/yPVfLG-6hkg/Columbus.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/8MhKKUghaYo/Columbus.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=Shortwave (2016) ENG WEB-DL.XviD.AC3-FGT
@@ -1336,13 +1331,37 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-19
+date=2018-11-20
 URL=
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Columbus (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx.jpg
+date=2018-11-20
+URL=https://openload.co/f/JJB3WKSHuVE/Columbus.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/yPVfLG-6hkg/Columbus.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/8MhKKUghaYo/Columbus.2017.HDRip.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Colors of Wind (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnmEFtrhA8pRwNmXo7zkPx5yXl8.jpg
+date=2018-11-20
+URL=https://openload.co/f/KSz_Z5aW34A/colors.of.wind.2017.1080p.bluray.x264-regret.mkv.mp4
 
 type=video
 name=Sara Baras, All Her Voices (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
@@ -1356,6 +1375,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWxkur51srfVnMn2QOFjE7mbq6
 date=2018-11-19
 URL=https://openload.co/f/WHzVvMhsVK0/The.Happytime.Murders.2018.1080p.Bluray_SeeHD.mkv.mp4
 #https://openload.co/f/G0xjZRLx8C0/The.Happytime.Murders.2018.1080p.Bluray_SeeHD.mkv   MKV4.1GB
+#https://openload.co/f/6YzorivjV-w/The_Happytime_Murders_2018_1080p_BluRay_x264_DTS_HD_MA_5_1_FGT.mkv.mp4
 #https://openload.co/f/XnQIfb7lwok/The.Happytime.Murders.2018.720p.BRRip.x264.mkv.mp4
 #https://openload.co/f/mo5HTgGEhFQ/The_Happytime_Murders_HDcam_SeeHD.avi.mp4
 #https://openload.co/f/NKbJ8AueDe4/The.Happytime.Murders.2018.720p.HDCAM.1XBET_SeeHD.mp4
@@ -1366,6 +1386,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mseyc8v3UD1DhaZ3kSdXs4Dj9X
 date=2018-11-19
 URL=https://openload.co/f/NyHrcLQco7I/Kodachrome.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/zrY63GzajjE/Kodachrome.2017.720p.BluRay.DD5.1.x264-SPEED.mkv.mp4
+#https://uptobox.com/vgtetdfcx3gd   720
+#https://www.rapidvideo.com/e/FXCL28AEU7   720
+#https://openload.co/embed/tkZOQoOgfyA/KODACHROMEBD72.Ganol.st.mkv.mp4
 
 type=video
 name=Boarding School (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1373,6 +1396,9 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lun3G1IU6AYgXlXP649amULMPp
 date=2018-11-19
 URL=https://openload.co/f/EKT44SvBmx8/Boarding.School.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/r388nugfEEg/Boarding.School.2018.1080p.BluRay.x264-JustWatch.mp4
+#https://uptobox.com/ompnwbyhb6zx   720
+#https://www.rapidvideo.com/e/FXCFCS2TNX   720
+#https://openload.co/embed/jlGKY2RllR0/BOARDINGSCHOOLBD72.Ganol.st.mkv.mp4
 
 type=video
 name=Videoman (2018) [COLOR=FF00FF00]SWE BR 1080p[/COLOR]
@@ -7288,9 +7314,23 @@ URL=https://uptobox.com/s58gvlzyws2r
 #https://openload.co/embed/LTQQEZsHqoM/THEBREAKERUPPERERSBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/aq2o24Yy29c/The_Breaker_Upperers_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
 
+type=video
+name=The Outlaws (2017) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/khJo0VTt1uDHOqgI4igXHNPj2LW.jpg
+date=2018-11-20
+URL=https://uptobox.com/9sw41y7q4l57
+#https://www.rapidvideo.com/e/FXCF763O3X
+#https://openload.co/embed/tUwcXKhIIdU/The.Outlaws.2017.BluRay.720p.900MB.Ganol.st.mkv.mp4
+#https://openload.co/f/GlvyKpaPmZw/The.Outlaws.2017.720p.BluRay_x264_DTS-CHD.Ganool.mkv.mp4
 
-
-
+type=video
+name=He's Out There (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/790BUqG80oOyMRmTjDINW7lepTG.jpg
+date=2018-11-20
+URL=https://uptobox.com/o1093ytztz63
+#https://www.rapidvideo.com/e/FXCHTE16JB
+#https://openload.co/embed/Iyt4rbVOGjM/HEREOUTTHEREBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/z7c2nM4RPtk/He%E2%80%99s_Out_There_%282018%29.720.BluRay_x264-LATENCY.Ganool.mkv.mp4
 
 
 
@@ -7299,7 +7339,7 @@ URL=https://uptobox.com/s58gvlzyws2r
 type=video
 name=
 thumb=
-date=2018-11-16
+date=2018-11-20
 URL=
 
 type=video
@@ -7458,10 +7498,11 @@ URL=https://openload.co/f/zYob6IKdLuo/Halloween_%282018%29%E0%B8%AE%E0%B8%B2%E0%
 
 
 type=video
-name=First Man (2018) ENG 720p_HDCAM-1XBET_SeeHD
+name=First Man (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
-date=2018-10-13
-URL=https://openload.co/f/AwQGBb1XjbM/First_Man_2018_720p_HDCAM-1XBET_SeeHD.mp4
+date=2018-11-20
+URL=https://openload.co/f/LMJ_mquiaps/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/AwQGBb1XjbM/First_Man_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/7mOSc3yTvAM/First_Man_2018_720p_HDCAM-1XBET.mp4
 #https://openload.co/f/I5V3WzV1etQ/First.Man.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
 type=video
@@ -7555,10 +7596,12 @@ URL=https://openload.co/f/NzNS1jlT1t4/Hell_Fest_%282018%29%E0%B8%AA%E0%B8%A7%E0%
 
 
 type=video
-name=Peppermint (2018) ENG TS-1XBET_SeeHD
+name=Peppermint (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg
-date=2018-09-10
-URL=https://openload.co/f/QO7jpwtEtCI/Peppermint_2018_TS-1XBET_SeeHD.mp4
+date=2018-11-20
+URL=https://openload.co/f/lFf8Rsl9KPc/Peppermint.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/QZF3ax4T33U/Peppermint.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/QO7jpwtEtCI/Peppermint_2018_TS-1XBET_SeeHD.mp4
 #https://openload.co/f/OqNJndekThw/Peppermint.2018.TS-1XBET.mp4
 type=video
 name=Peppermint (2018) THCAM
@@ -10198,10 +10241,12 @@ URL=https://openload.co/f/FlrEAeVIcf8/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%
 
 
 type=video
-name=The Nun (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
+name=The Nun (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg
-date=2018-10-30
-URL=https://openload.co/f/OGVM6oCA3yc/The.Nun.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-11-20
+URL=https://openload.co/f/N229PcLCeBY/The.Nun.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/oe1DD-k-8gI/The.Nun.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/OGVM6oCA3yc/The.Nun.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/fY5KyQ89FBs/The.Nun.2018.1080p.HC.HDRip.X264.AC3-EVO.mp4
 #https://openload.co/f/X84sXDhrTMs/THE.NUN.2018.NEW.HDCAM-24HD.mkv.mp4
 #https://openload.co/f/l9zdAMiAJZM/The.Nun.2018.NEW.TS-1XBET.mp4
@@ -11872,7 +11917,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-17
+date=2018-11-20
 URL=
 
 
@@ -11882,7 +11927,12 @@ URL=
 
 
 
-
+type=video
+name=The Ice Harvest (2005) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bfSePHdku1tKKpreByQ2g0aSHb.jpg
+date=2018-11-20
+URL=https://openload.co/f/z5OMwKiCoM4/the.ice.harvest.2005.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/uwTKwP79LqY/The.Ice.Harvest.2005.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Meg (2018) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR]

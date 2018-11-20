@@ -1450,22 +1450,6 @@ rtmp://81.89.48.215:1935/xyz666wkz/ playpath=xy6_360p swfUrl=http://ero-tv.org/u
 
 
 
-
-
-#EXTINF:1,Eroxx TV HD
-http://81.200.50.4/hls/Eroxx_nejtv_portable_low.m3u8
-#EXTINF:1,Erox TV HD
-http://81.200.50.4/hls/Erox_nejtv_portable_low.m3u8
-#EXTINF:0,Erox HD
-http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/813/index.m3u8
-#EXTINF:1,Hustler TV +18
-http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
-#EXTINF:-1,Brazzers Europe
-http://81.200.50.4/hls/Brazzers_nejtv_portable_low.m3u8
-#EXTINF:0,Brazzers Europe TV
-http://81.200.50.4/hls/Brazzers_nejtv_portable_low.m3u8
-#EXTINF:0,Brazzers TV Europe
-http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/910/index.m3u8
  
 #EXTINF:-1,French Lover TV
 http://93.95.158.65:4040/udp/239.254.2.50:1234
@@ -1475,8 +1459,6 @@ http://93.95.158.65:4040/udp/239.254.2.231:1234
 http://93.95.158.65:4040/udp/239.254.2.232:1234
 #EXTINF:-1,Redlight HD
 http://93.95.158.65:4040/udp/239.254.3.93:1234
-#EXTINF:0,Penthouse TV
-http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/1073/index.m3u8
 #EXTINF:-1,Playboy TV
 http://93.95.158.65:4040/udp/239.254.2.242:1234
 #EXTINF:-1,O-La-La
@@ -1484,19 +1466,17 @@ http://93.95.158.65:4040/udp/239.254.2.90:1234
  
            
  
-
-
-
-
-
+#EXTINF:0,Penthouse TV
+http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/1073/index.m3u8
  #EXTINF:0,Erox HD 
 http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/813/index.m3u8 
-#EXTINF:0,Penthouse TV 
-http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/1073/index.m3u8 
 #EXTINF:0,xxxxxx
 http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/919/index.m3u8 
-#EXTINF:0,Brazzers TV Europe 
-http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/910/index.m3u8 
+#EXTINF:-1,CANDY
+http://6bc79edb.ulkakak.pw/iptv/CHPLNSPSC3DXKY/923/index.m3u8
+#EXTINF:-1,Brazzers_TV_Europe_iptvspy
+http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/910/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", Privatex (Wiseplay) 
@@ -1549,8 +1529,7 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
 #EXTINF:-1,Brazzers_TV_Europe
 http://193.93.236.121:9991/play/Brazzers_TV_Europe/index.m3u8
-#EXTINF:-1,Brazzers_TV_Europe_iptvspy
-http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/910/index.m3u8
+
 
 
 #EXTINF:-1,visit-x
@@ -1564,33 +1543,13 @@ http://185.10.211.14:54980/udp/PassionXXX:100000/BCTynAu'_B_rpynny-http://vk.com
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1,ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1,livesexlatinas_rtsp
-rtsp://51.254.198.110:1935/leved/livesexlatinas
-#EXTINF:-1,XXX_CHN_ERR
-http://59.124.220.46:554/live/tv184198481.stream/index.m3u8
-#EXTINF:-1,XXX_CHN
-http://59.124.220.46:554/live/tv284198321.stream/index.m3u8
-
-#EXTINF:-1 group-title="xxx" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Hustler-HD-18.jpg",hustlerhd_nejtv
-http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
-#EXTINF:-1,Eroxx_nejtv
-http://81.200.50.4/hls/Eroxx_nejtv_portable_low.m3u8
-#EXTINF:-1,Eroxxx HD_nejtv
-http://81.200.50.5/hls/Eroxx_nejtv_portable_low.m3u8
-#EXTINF:-1,Hustler TV_nejtv
-http://81.200.50.5/hls/Hustler_nejtv_portable_low.m3u8
-#EXTINF:-1,Brazzers Europe_nejtv
-http://81.200.50.5/hls/Brazzers_nejtv_portable_low.m3u8
-#EXTINF:-1,Playboy_nejtv
-http://81.200.50.5/hls/Playboy_nejtv_portable_low.m3u8
-#EXTINF:-1,Erox HD_nejtv
-http://81.200.50.5/hls/Erox_nejtv_portable_low.m3u8
 
 
 
 
 
-#EXTINF:-1,XXX18+_udp
+
+#EXTINF:-1,XXX18+_udp   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://5.137.42.51:1234/udp/225.54.23.158:5000
 #EXTINF:-1,XXX18+_private
 http://31.41.98.29:81/udp/225.0.0.104:1234
@@ -1613,59 +1572,7 @@ http://79.133.120.87:81/udp/239.191.254.173:15285
 #EXTINF:-1,Daisy_udp
 http://109.248.91.27:4022/udp/239.195.2.3:1234
 
-
-
-#EXTINF:-1,studio66tv_Channel 1
-http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel11/playlist.m3u8
-#EXTINF:-1,studio66tv_Channel 9
-http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel22/playlist.m3u8
-#EXTINF:-1,studio66tv_Channel 5
-http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel32/playlist.m3u8
-#EXTINF:-1,bs24
-http://sdn-global-live-http-cache.3qsdn.com/2346/_definst_///mp4:Ct6zG7Nrj3v2JxD/manifest.m3u8
-
-
-
-#EXTINF:-1,XXX18+
-http://37.9.0.196:9002/playlist.m3u8
-#EXTINF:-1,CANDY
-http://6bc79edb.ulkakak.pw/iptv/CHPLNSPSC3DXKY/923/index.m3u8
-
-
-
-#EXTINF:-1,CANDY_tv159
-http://91.204.136.139:8080/tv159/index.m3u8
-#EXTINF:-1,Brazzers_tv158
-http://91.204.136.139:8080/tv158/index.m3u8
-#EXTINF:-1,Daisy_tv157
-http://91.204.136.139:8080/tv157/index.m3u8
-
-
-
-
-#EXTINF:-1,hustler HD_ru
-http://85.132.71.6/ru/hust/index.m3u8
-#EXTINF:-1,blue hustler_ru
-http://85.132.71.6/ru/blue/index.m3u8
-#EXTINF:-1,Brazzers_TV_Europe_ru
-http://85.132.71.6/ru/braz/index.m3u8
-#EXTINF:-1,pink_ru
-http://85.132.71.6/ru/pink/index.m3u8
-
-#EXTINF:-1,DUSK
-http://195.230.115.18:65080/play/a8101
-
-#EXTINF:-1,xxx_345_EROX
-http://109.224.64.146/master_345.m3u8
-#EXTINF:-1,xxx_344
-http://109.224.64.146/master_344.m3u8
-
-
-
-
-
-
-#EXTINF:-1,Playhousexxxxxxxxxxxxxxxxxxxxxxxx
+#EXTINF:-1,Playhouse_udp   xxxxxxxxxxxxxxxxxxxxxxxx
 http://89.212.214.162:7781/udp/239.18.1.235:5000
 #EXTINF:-1,XXL
 http://89.212.51.85:8443/udp/239.18.1.181:5000
@@ -1711,7 +1618,7 @@ http://streamnossl.1919hdtv.com:8880/live/_definst_/Stream2/playlist.m3u8
 http://streamnossl.1919hdtv.com:8880/live/_definst_/Stream1/playlist.m3u8
 
 
-#EXTINF:-1,Ibiza TV4_streamlock.net
+#EXTINF:-1,Ibiza TV4_streamlock.net   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream4/playlist.m3u8
 #EXTINF:-1,Ibiza TV3_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8
@@ -1722,11 +1629,11 @@ https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream1/playlist.m3u8
 
 
 
-#EXTINF:-1,Ibiza TV3_1919HDTV.com_VIP
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV3_VIP
 http://ibiza-tv.1919hdtv.com:8880/lfh/Stream3/playlist.m3u8
-#EXTINF:-1,Ibiza TV2_1919HDTV.com_VIP
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_VIP
 http://ibiza-tv.1919hdtv.com:8880/lfh/Stream2/playlist.m3u8
-#EXTINF:-1,Ibiza TV1_1919HDTV.com_VIP
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_VIP
 http://ibiza-tv.1919hdtv.com:8880/lfh/Stream1/playlist.m3u8
 
 
@@ -1734,13 +1641,13 @@ http://ibiza-tv.1919hdtv.com:8880/lfh/Stream1/playlist.m3u8
 
 
 
-#EXTINF:-1,OURS_HD1
+#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",OURS_HD1   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://172.104.114.178/vod/live/1/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
-#EXTINF:-1,OURS_HD2
+#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",OURS_HD2
 http://172.104.114.178/vod/live/2/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
-#EXTINF:-1,OURS_HD3
+#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",OURS_HD3
 http://172.104.114.178/vod/live/3/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
-#EXTINF:-1,OURS_HD4
+#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",OURS_HD4
 http://172.104.114.178/vod/live/4/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 
 
@@ -1775,6 +1682,9 @@ rtmp://125.227.27.196/385214775/tv/ttv11
 rtmp://125.227.27.196/385214775/tv/ttv12
 #EXTINF:-1,French_rtsp
 rtsp://ss1.firestormmedia.tv:1935/ingest_cellcast/encoder31?channelID=252
+#EXTINF:-1,livesexlatinas_rtsp
+rtsp://51.254.198.110:1935/leved/livesexlatinas
+
 
 #EXTINF:-1,KOR_XXX
 http://122.38.74.172:9981/stream/channelid/1463854277
@@ -1788,40 +1698,128 @@ http://78.141.113.63:8001/1:0:16:3725:C8E:3:EB0000:0:0:0:
 http://5.135.92.138:58143/out/i/109_1.m3u8
 #EXTINF:-1,bs24
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-
-
-
-#EXTINF:-1,Private
-http://84.236.90.124:9000/play/private
-#EXTINF:-1,Hustler 
-http://84.236.90.124:9000/play/hustler 
+#EXTINF:-1,bs24
+http://sdn-global-live-http-cache.3qsdn.com/2346/_definst_///mp4:Ct6zG7Nrj3v2JxD/manifest.m3u8
 #EXTINF:-1,Blue Hustler 
 http://46.32.64.42/s/live/705/86.169.51.136/1/0.m3u8 
 
 
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp193   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://193.233.186.76:81/udp/239.191.254.250:15285
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_a00l
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_play/a00l
 http://86.57.182.131:8905/play/a00l
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",persik_nuart tv
 http://persik.by/stream/1418/252987/10003.m3u8
-#EXTINF:-1,nuart 
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_ udp92
 http://92.42.14.217:4022/udp/233.1.1.251:1234 
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp193
+http://193.233.186.76:81/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp92
+http://92.42.14.217:4022/udp/233.1.1.251:1234 
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_AdultTVLive.net_nimblesessionid
+http://51.15.201.17:8081/live/nuart/chunks.m3u8?nimblesessionid=2409502&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAxOCAzOjE0OjE1IFBNJmhhc2hfdmFsdWU9ZnRPRjJ1MnZIeG5MNFJDbFRZZXZzZz09JnZhbGlkbWludXRlcz0xODA=
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_AdultTVLive.net
+http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAxOCA3OjUzOjQ5IEFNJmhhc2hfdmFsdWU9M1QwSzhmeDZGeXlURUtKMU9OeUhJUT09JnZhbGlkbWludXRlcz0xODA=
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_hochu.tv
+http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggeb5d5e8a05072c1b0267a370d78c6dbbT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 
-#EXTINF:-1,Russkaya_noch_a00n
+
+
+
+
+#EXTINF:-1,xxx_err_380xxxxxxxxxxxxxxxxxxxxxxxxxxx
+http://163.172.105.25:9989/live?channelId=380&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,xxx_err_454
+http://163.172.105.25:9989/live?channelId=454&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,xxx_err_368
+http://163.172.105.25:9989/live?channelId=368&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,xxx_err_451
+http://163.172.105.25:9989/live?channelId=451&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,xxx_err_311
+http://163.172.105.25:9989/live?channelId=311&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,xxx_err_321
+http://163.172.105.25:9989/live?channelId=321&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,xxx_err_361
+http://163.172.105.25:9989/live?channelId=361&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,xxx_err_301
+http://163.172.105.25:9989/live?channelId=301&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,xxx_err_201
+http://163.172.105.25:9989/live?channelId=201&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,xxx_err_449
+http://163.172.105.25:9989/live?channelId=449&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,xxx_err_448
+http://163.172.105.25:9989/live?channelId=448&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,xxx_err_446
+http://163.172.105.25:9989/live?channelId=446&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,xxx_err_445
+http://163.172.105.25:9989/live?channelId=445&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,xxx_err_431
+http://163.172.105.25:9989/live?channelId=431&deviceMac=00:1A:79:37:C2:FD&uid=4302
+
+
+
+
+
+#EXTINF:-1,XXX_446xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+http://163.172.105.25:9989/live?channelId=446&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,XXX_447
+http://163.172.105.25:9989/live?channelId=447&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,DP
+http://163.172.105.25:9989/live?channelId=444&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,erotic4
+http://163.172.105.25:9989/live?channelId=443&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,erotic3
+http://163.172.105.25:9989/live?channelId=442&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,erotic2
+http://163.172.105.25:9989/live?channelId=441&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,Dorcel TV
+http://163.172.105.25:9989/live?channelId=440&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,JAV
+http://163.172.105.25:9989/live?channelId=439&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,DUSK
+http://163.172.105.25:9989/live?channelId=438&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,XXX_437
+http://163.172.105.25:9989/live?channelId=437&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,XXXHD_436
+http://163.172.105.25:9989/live?channelId=436&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,XXX_435
+http://163.172.105.25:9989/live?channelId=435&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,XXX_434
+http://163.172.105.25:9989/live?channelId=434&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,erotic
+http://163.172.105.25:9989/live?channelId=433&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,XXX_432
+http://163.172.105.25:9989/live?channelId=432&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1,XXX_429
+http://163.172.105.25:9989/live?channelId=429&deviceMac=00:1A:79:37:C2:FD&uid=4302
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,SeXtreme_play/a02o   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+http://181.224.164.249:8000/play/a02o
+#EXTINF:-1,Playboy TV_play/a02n
+http://181.224.164.249:8000/play/a02n
+#EXTINF:-1,Russkaya_noch_play/a00n
 http://86.57.182.131:8905/play/a00n
-#EXTINF:-1,Playboy TV 
-http://195.88.126.168:8008/play/a083/index.m3u8 
-#EXTINF:-1,Hustler HD 
-http://195.88.126.168:8008/play/a0cp/index.m3u8
+#EXTINF:-1,DUSK_play/a8101
+http://195.230.115.18:65080/play/a8101
 
 
-#EXTINF:-1,Passiexxx_live
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2062.m3u8
-#EXTINF:-1,anysex_live
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2077.m3u8
-#EXTINF:-1,xxx Stars_live
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2072.m3u8
+#EXTINF:-1,Private_play/private
+http://84.236.90.124:9000/play/private
+#EXTINF:-1,Hustler_play/hustler 
+http://84.236.90.124:9000/play/hustler 
+
+
 
 
 #EXTINF:-1,Eroxxx_8888
@@ -1833,88 +1831,89 @@ http://185.168.15.240:8888/erox/index.m3u8
 
 
 
-#EXTINF:-1,Brazzers_dna
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/03/Brazzers-TV-18.png",Brazzers_dna   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://80.87.208.158:80/dna-1302-tv-pc.m3u8
-#EXTINF:-1,Private_dna
+#EXTINF:-1  tvg-logo="http://bgtop100.net/wp-content/uploads/2017/10/Private-tv.png",Private_dna
 http://80.87.208.158:80/dna-405-tv-pc.m3u8
-#EXTINF:-1,ERO_X_dna
+#EXTINF:-1  tvg-logo="http://bgtop100.net/wp-content/uploads/2017/10/EroX-tv.png",ERO_X_dna
 http://80.87.208.158:80/dna-4631-tv-pc.m3u8
-#EXTINF:-1,ERO_XXX_dna
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Eroxxx-TV.png",ERO_XXX_dna
 http://80.87.208.158:80/dna-4671-tv-pc.m3u8
-#EXTINF:-1,LEO_TV_dna
+#EXTINF:-1  tvg-logo="https://www.satelitnatv.sk/wp-content/uploads/2014/03/leo_TV.jpg",LEO_TV_dna
 http://80.87.208.158:80/dna-141-tv-pc.m3u8
-#EXTINF:-1,Hustler_HD_dna
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/hustler_hd.png",Hustler_HD_dna
 http://80.87.208.158:80/dna-91-tv-pc.m3u8
-#EXTINF:-1,EXTASY_dna
+#EXTINF:-1  tvg-logo="http://www.poruba.net/wp-content/uploads/2016/09/Extasy_logo.png",EXTASY_dna
 http://80.87.208.158:80/dna-416-tv-pc.m3u8
 
 
-#EXTINF:-1,Playboy _onlybestxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/playboy_tv.png",Playboy _onlybestxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/142/index.m3u8 
-#EXTINF:-1,Nuart TV _onlybest
+#EXTINF:-1  tvg-logo="http://bgtop100.net/wp-content/uploads/2017/10/Nuart-tv.jpg",Nuart TV _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/264/index.m3u8 
 #EXTINF:-1,xxxxx_onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/266/index.m3u8 
 #EXTINF:-1,xxxx_onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/267/index.m3u8 
-#EXTINF:-1,Blue Hustler _onlybest
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/blue-hustler.png",Blue Hustler _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/268/index.m3u8 
-#EXTINF:-1,Brazzers TV Europe _onlybest
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/brazzers_tv_europe.png",Brazzers TV Europe _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/346/index.m3u8 
-#EXTINF:-1,Private TV HD _onlybest
+#EXTINF:-1  tvg-logo="http://bgtop100.net/wp-content/uploads/2017/10/Private-tv.png",Private TV HD _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/354/index.m3u8 
 #EXTINF:-1,Ev*lAng*lTV _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/358/index.m3u8 
-#EXTINF:-1,DUSK _onlybest
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/dusk-tv.png",DUSK _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/359/index.m3u8 
-#EXTINF:-1,SCT _onlybest
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/sct_tv.png",SCT _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/360/index.m3u8 
-#EXTINF:-1,C*nto X C*nto _onlybest
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/centoxcento.png",Cento X Cento TV _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/361/index.m3u8 
-#EXTINF:-1,S*sto S*nso _onlybest
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/sextosenso.png",Sextosenso _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/362/index.m3u8 
-#EXTINF:-1,PassionX** _onlybest
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/passionxxx.png",PassionXXX _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/363/index.m3u8 
 #EXTINF:-1,Livechannel _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/364/index.m3u8 
-#EXTINF:-1,Pink O TV _onlybest
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/pinkotv.png",Pink O TV _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/365/index.m3u8 
-#EXTINF:-1,XXL _onlybest
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/XXL-TV.png",XXL _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/500/index.m3u8 
-#EXTINF:-1,Redlight HD _onlybest
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/redlight-hd.png",Redlight HD _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/501/index.m3u8 
-#EXTINF:-1,Hustler HD _onlybest
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/hustler_hd.png",Hustler HD _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/502/index.m3u8 
-#EXTINF:-1,Vivid TV Europe _onlybest
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/vivid-red.png",Vivid TV Europe _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/754/index.m3u8 
-#EXTINF:-1,Brazzers TV CZ _onlybest
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/brazzers-tv.png",Brazzers TV _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/755/index.m3u8 
-#EXTINF:-1,Dorcel TV HD _onlybest
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Dorcel-TV.jpg",Dorcel TV HD _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/851/index.m3u8 
-#EXTINF:-1,Dorcel TV HD _onlybest
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Dorcel-TV.jpg",Dorcel TV HD _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/852/index.m3u8 
-#EXTINF:-1,Dorcel TV HD _onlybest
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/dorcel-tv.png",Dorcel TV HD _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/853/index.m3u8 
-#EXTINF:-1,Dorcel TV HD _onlybest
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/dorcel-tv.png",Dorcel TV HD _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/854/index.m3u8 
-#EXTINF:-1,Zest TV _onlybest
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2018/06/Zest-TV.png",Zest TV _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/855/index.m3u8 
-#EXTINF:-1,Barely Legal TV _onlybest
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2018/09/Barely-Legal-TV.png",Barely Legal TV _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/862/index.m3u8 
-#EXTINF:-1,EROX HD _onlybest
+#EXTINF:-1  tvg-logo="http://bgtop100.net/wp-content/uploads/2017/10/EroX-tv.png",EROX HD _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/866/index.m3u8
-#EXTINF:-1,Nuart TV _onlybest
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",Nuart TV _onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/264/index.m3u8 
-#EXTINF:-1 tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png", Playboy TV_onlybest
+#EXTINF:-1 tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Playboy-Latino-TV.png", Playboy TV_onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/142/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png", Hustler_onlybest
+#EXTINF:-1 tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Hustler-TV.jpg", Hustler_onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/502/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png",XXL_onlybest
+#EXTINF:-1 tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/XXL-TV.png",XXL_onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/500/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png", Redlight_onlybest
+#EXTINF:-1 tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Red-Light-Central-TV.jpg", Redlight_onlybest
 http://playlist.onlybest.tv/en/channel/50146c1e4915ca4c8d0e0a56a34faa6a/501/index.m3u8
 
-
+#EXTINF:-1  tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png",adultsOnly
+http://193.233.186.76:81/udp/239.191.254.250:15285
 
 
 
@@ -2096,6 +2095,8 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,movie1
 http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
+#EXTINF:-1,movie_huya
+http://ws4.streamhls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-1524041857-1_1200/playlist.m3u8
 
 
 
@@ -2361,8 +2362,7 @@ http://fpttv.tk/iptv/mytvnet.php?id=ngphd
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
 http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC 
-http://45.126.83.51/uq2663/h/h11/index.m3u8 
+
 
 #EXTINF:-1,FYI_bear-tv
 http://cdn2.bear-tv.com/freetv/TOT_Fyi/playlist.m3u8
@@ -2448,44 +2448,33 @@ http://61.58.60.230:9000/live/257.m3u8
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
 
-http://51.15.201.17:8081/live/nuart/chunks.m3u8?nimblesessionid=2409502&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAxOCAzOjE0OjE1IFBNJmhhc2hfdmFsdWU9ZnRPRjJ1MnZIeG5MNFJDbFRZZXZzZz09JnZhbGlkbWludXRlcz0xODA=
 
 
-#EXTINF:-1,JAPcs19
+#EXTINF:-1,GONG_movie
+http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
+#EXTINF:-1,JAP_cs19
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=156632922
-#EXTINF:-1,planetahd
-http://84.43.207.130/planetahd/planetahd.m3u8
+
 #EXTINF:-1,PhoneCam
 https://alhls-cdn.zhanqi.tv/zqlive/246422_GSpB2.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Miami-TV.jpg",miamitv
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv__a00l
 http://86.57.182.131:8905/play/a00l
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp193
-http://193.233.186.76:81/udp/239.191.254.250:15285
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp92
-http://92.42.14.217:4022/udp/233.1.1.251:1234 
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp134
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp134
 http://134.19.150.42:81/udp/239.195.6.33:1234
-
-
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_AdultTVLive.net
-http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAxOCA3OjUzOjQ5IEFNJmhhc2hfdmFsdWU9M1QwSzhmeDZGeXlURUtKMU9OeUhJUT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_hochu.tv
-http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggeb5d5e8a05072c1b0267a370d78c6dbbT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-
 
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg",ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Jasmin-TV.png",Jasmin Tv 
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:-1,GONG_movie
-http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
-#EXTINF:-1,mediacorp8
-http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_5.m3u8
-#EXTINF:-1,BesTV4K_CHN
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000499/index.m3u8
+#EXTINF:-1,udp_???
+http://109.61.45.245:4022/udp/234.81.109.2:1102
+
+
+#EXTINF:-1,planetahd
+http://84.43.207.130/planetahd/planetahd.m3u8
 #EXTINF:-1  tvg-logo="http://samara11x11.ucoz.ru/music/NR1_4K_ULTRA_HD_TV.png",NR1 4K
 http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784160_logo_djing_wild_edm.png",djing
@@ -2500,7 +2489,10 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 
 
-
+#EXTINF:-1,mediacorp8
+http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_5.m3u8
+#EXTINF:-1,BesTV4K_CHN
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000499/index.m3u8
 #EXTINF:-1,Documentary_CHN
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/02/CGTN_Documentary_logo-1.png",CGTN Documentary
