@@ -1331,7 +1331,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-20
+date=2018-11-21
 URL=
 
 
@@ -1345,15 +1345,34 @@ URL=
 
 
 
+type=video
+name=What a Wonderful Family! (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KarFzFYCUTLKKnUJ9L7Bo51Q2o.jpg
+date=2018-11-21
+URL=https://openload.co/f/90ACWB_LI4Y/what.a.wonderful.family.2016.1080p.bluray.x264-regret.mkv.mp4
 
-
-
+type=video
+name=The Outlaws (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/khJo0VTt1uDHOqgI4igXHNPj2LW.jpg
+date=2018-11-21
+URL=https://uptobox.com/t9lce7cxpfq3
+#https://www.rapidvideo.com/e/FXCF9W5A3N
+#https://openload.co/embed/GLb3jqDBWYo/The.Outlaws.2017.BluRay.1080p.5.1CH.x264.Ganol.st.mkv.mp4
+#https://openload.co/f/v1ntGc-KRjE/The.Outlaws.2017.1080p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+#https://uptobox.com/9sw41y7q4l57   720
+#https://www.rapidvideo.com/e/FXCF763O3X   720
+#https://openload.co/embed/tUwcXKhIIdU/The.Outlaws.2017.BluRay.720p.900MB.Ganol.st.mkv.mp4
+#https://openload.co/f/GlvyKpaPmZw/The.Outlaws.2017.720p.BluRay_x264_DTS-CHD.Ganool.mkv.mp4
 
 type=video
 name=Columbus (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx.jpg
-date=2018-11-20
-URL=https://openload.co/f/JJB3WKSHuVE/Columbus.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-11-21
+URL=https://openload.co/f/9GQysHU3GpQ/Columbus.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/JJB3WKSHuVE/Columbus.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/c5a91dwomohq   720
+#https://www.rapidvideo.com/e/FXFU7D78WE   720
+#https://openload.co/embed/hVkZ8Ok-pV4/COLUMBUSBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/yPVfLG-6hkg/Columbus.2017.720p.WEB-DL.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/8MhKKUghaYo/Columbus.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
@@ -1372,11 +1391,18 @@ URL=https://openload.co/f/yF5XAUofXkE/Sara.Baras.All.Her.Voices.2017.SPANISH.108
 type=video
 name=The Happytime Murders (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWxkur51srfVnMn2QOFjE7mbq6h.jpg
-date=2018-11-19
-URL=https://openload.co/f/WHzVvMhsVK0/The.Happytime.Murders.2018.1080p.Bluray_SeeHD.mkv.mp4
+date=2018-11-21
+URL=https://uptobox.com/gecmrl35sz9y
+#https://www.rapidvideo.com/e/FXG5015NK8
+#https://openload.co/embed/AG8T115O3DM/THEHAPPYTIMEMURDERS80.Ganol.st.mkv
+#https://openload.co/f/tyvwKkxiA2Y/The_Happytime_Murders_%282018%291080p_BluRay_X264-DEFLATE.Ganool.mkv.mp4
+#https://openload.co/f/WHzVvMhsVK0/The.Happytime.Murders.2018.1080p.Bluray_SeeHD.mkv.mp4
 #https://openload.co/f/G0xjZRLx8C0/The.Happytime.Murders.2018.1080p.Bluray_SeeHD.mkv   MKV4.1GB
 #https://openload.co/f/6YzorivjV-w/The_Happytime_Murders_2018_1080p_BluRay_x264_DTS_HD_MA_5_1_FGT.mkv.mp4
 #https://openload.co/f/XnQIfb7lwok/The.Happytime.Murders.2018.720p.BRRip.x264.mkv.mp4
+#https://uptobox.com/doaajy1g46w9   720
+#https://www.rapidvideo.com/e/FXFU2GRKC7   720
+#https://openload.co/embed/pmAStCeRIZA/THEHAPPYTIMEMURDERSBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/mo5HTgGEhFQ/The_Happytime_Murders_HDcam_SeeHD.avi.mp4
 #https://openload.co/f/NKbJ8AueDe4/The.Happytime.Murders.2018.720p.HDCAM.1XBET_SeeHD.mp4
 
@@ -4004,14 +4030,7 @@ URL=https://openload.co/f/ZtiIjXBGE4A/The.Northlander.2016.1080p.BluRay.H264.AAC
 #https://www.blazefile.co/embed-0vf6042exvxg.html   720
 #https://uptobox.com/etmbosc5151z   720
 
-type=video
-name=The Titan (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rywjzbQbUgnv1izhWJYyZIm4M6m.jpg
-date=2018-05-05
-URL=https://www.blazefile.co/embed-t169pd32bwp9.html
-#https://openload.co/f/NbXgRH2KadY/The.Titan.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/Qm8KBm49L5k/The.Titan.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
-#https://openload.co/f/nWsHrzcSuyQ/The.Titan.2018.720.HDRip.AC3-EVO.mkv.mp4
+
 
 type=video
 name=Crazy Famous (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7314,14 +7333,7 @@ URL=https://uptobox.com/s58gvlzyws2r
 #https://openload.co/embed/LTQQEZsHqoM/THEBREAKERUPPERERSBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/aq2o24Yy29c/The_Breaker_Upperers_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
 
-type=video
-name=The Outlaws (2017) [COLOR=FF00FF00]KOR BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/khJo0VTt1uDHOqgI4igXHNPj2LW.jpg
-date=2018-11-20
-URL=https://uptobox.com/9sw41y7q4l57
-#https://www.rapidvideo.com/e/FXCF763O3X
-#https://openload.co/embed/tUwcXKhIIdU/The.Outlaws.2017.BluRay.720p.900MB.Ganol.st.mkv.mp4
-#https://openload.co/f/GlvyKpaPmZw/The.Outlaws.2017.720p.BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+
 
 type=video
 name=He's Out There (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -7332,6 +7344,17 @@ URL=https://uptobox.com/o1093ytztz63
 #https://openload.co/embed/Iyt4rbVOGjM/HEREOUTTHEREBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/z7c2nM4RPtk/He%E2%80%99s_Out_There_%282018%29.720.BluRay_x264-LATENCY.Ganool.mkv.mp4
 
+type=video
+name=On Happiness Road (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFG92fc6VxxY6vJOC7qMiv2wosU.jpg
+date=2018-11-21
+URL=https://uptobox.com/la7s69aajdd7
+#https://www.rapidvideo.com/e/FXFZGCVAZU
+#https://openload.co/embed/MhpReRS5gao/On.Happiness.Road.2017.BluRay.720p.800MB.Ganol.st.mkv
+#https://openload.co/f/e1L2PTxIjzw/On.Happiness.Road.2017.720p_BluRay_x264-WiKi.Ganool.mkv.mp4
+
+
+
 
 
 
@@ -7339,7 +7362,7 @@ URL=https://uptobox.com/o1093ytztz63
 type=video
 name=
 thumb=
-date=2018-11-20
+date=2018-11-21
 URL=
 
 type=video
@@ -7498,10 +7521,11 @@ URL=https://openload.co/f/zYob6IKdLuo/Halloween_%282018%29%E0%B8%AE%E0%B8%B2%E0%
 
 
 type=video
-name=First Man (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO
+name=First Man (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
-date=2018-11-20
-URL=https://openload.co/f/LMJ_mquiaps/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+date=2018-11-21
+URL=https://openload.co/f/Q-IpbQFdeGc/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/LMJ_mquiaps/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/AwQGBb1XjbM/First_Man_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/7mOSc3yTvAM/First_Man_2018_720p_HDCAM-1XBET.mp4
 #https://openload.co/f/I5V3WzV1etQ/First.Man.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
@@ -7760,7 +7784,7 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 type=video
 name=
 thumb=
-date=2018-11-18
+date=2018-11-21
 URL=
 
 
@@ -7768,8 +7792,50 @@ URL=
 
 
 
+type=video
+name=May the Devil Take You (2018) INDO 1080pHD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7q9dTcXizr9RL3FhUu57iF53Pl.jpg
+date=2018-11-21
+URL=https://openload.co/f/aoJ61KU83iE/May.the.Devil.Take.You.1080pHD_SeeHD.mkv.mp4
+type=video
+name=May the Devil Take You (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7q9dTcXizr9RL3FhUu57iF53Pl.jpg
+date=2018-11-21
+URL=https://openload.co/f/lgMTBtOmoeE/May_the_Devil_Take_You_%282018%29%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%AE%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99_%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B9%82%E0%B8%AB%E0%B8%94_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
+type=video
+name=The Sandman (2017) ENG 720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iak7mWZNIoYYS6KI4bzcIKONX2w.jpg
+date=2018-11-21
+URL=https://openload.co/f/7D4OqH8blaw/The.Sandman.2017.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
+type=video
+name=The Sandman (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iak7mWZNIoYYS6KI4bzcIKONX2w.jpg
+date=2018-11-21
+URL=https://openload.co/f/O1o2DpqokW8/The_Sandman_%282017%29The_Sandman_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Cook Up a Storm (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHMVa4VWLxggvbDo2Ol1ln4obJs.jpg
+date=2018-11-21
+URL=https://openload.co/f/4VqLr6wgPu0/Cook_Up_a_Storm_%282017%29Cook_Up_a_Storm_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=The Titan (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rywjzbQbUgnv1izhWJYyZIm4M6m.jpg
+date=2018-05-05
+URL=https://www.blazefile.co/embed-t169pd32bwp9.html
+#https://openload.co/f/NbXgRH2KadY/The.Titan.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/Qm8KBm49L5k/The.Titan.2018.1080p.NF.WEB-DL.DD5.1.x264-NTG.mkv.mp4
+#https://openload.co/f/nWsHrzcSuyQ/The.Titan.2018.720.HDRip.AC3-EVO.mkv.mp4
+type=video
+name=The Titan (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rywjzbQbUgnv1izhWJYyZIm4M6m.jpg
+date=2018-11-21
+URL=https://openload.co/f/Px_MqtSBDFw/The_Titan_%282018%29The_Titan_%282018%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -10372,8 +10438,13 @@ URL=https://openload.co/f/K4joqrl2EDA/Final_Score_%282018%29%E0%B8%A2%E0%B8%B8%E
 type=video
 name=Mission: Impossible - Fallout (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
-date=2018-11-15
-URL=https://openload.co/f/EbjXDVfaJYg/Mission.Impossible.Fallout.2018.1080p.BR_SeeHD.mp4
+date=2018-11-21
+URL=https://uptobox.com/4glkmmxrl6oq
+#https://www.rapidvideo.com/e/FXG0MR1UK5
+#https://openload.co/embed/sWizX0qofqk/GHPMISSIONIMPOSSBILEIMAX80.Ganol.st.mkv
+#
+#https://openload.co/f/1_9XBYbUPUI/Mission%3A_Impossible_%E2%80%93_Fallout_%282018%291080p_BluRay_X264-DEFLATE.Ganool.mkv   MKV2.2GB
+#https://openload.co/f/EbjXDVfaJYg/Mission.Impossible.Fallout.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/xnLMmGIoXog/Mission.Impossible.Fallout.2018.720p.BluRay.X264-DEFLATE.mkv.mp4
 #https://openload.co/f/Nmjv9h0Pd98/Mission.Impossible.Fallout.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/YfkZmiJYuwI/Mission.Impossible.Fallout.2018.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
@@ -11917,7 +11988,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-20
+date=2018-11-21
 URL=
 
 
@@ -11926,6 +11997,14 @@ URL=
 
 
 
+
+
+
+type=video
+name=Some Like It Hot (1959) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxc9EFCMYkItESpqqrI783yl8Gh.jpg
+date=2018-11-21
+URL=https://openload.co/f/UmFZqANLyds/Some.Like.It.Hot.1959.REMASTERED.720p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
 name=The Ice Harvest (2005) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
