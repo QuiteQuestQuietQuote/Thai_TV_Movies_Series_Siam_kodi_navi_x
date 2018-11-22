@@ -1722,7 +1722,6 @@ http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE
 
 
 
-
 #EXTINF:-1,xxx_err_380xxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://163.172.105.25:9989/live?channelId=380&deviceMac=00:1A:79:37:C2:FD&uid=4302
 #EXTINF:-1,xxx_err_454
@@ -1814,6 +1813,8 @@ http://84.236.90.124:9000/play/hustler
 
 #EXTINF:-1,XDream TV
 http://178.132.220.51:1005/xxx3
+#EXTINF:-1,FreeXTV
+http://178.132.220.51:1005/xxx2
 
 #EXTINF:-1,Eroxxx_8888
 http://185.168.15.240:8888/eroxxx/index.m3u8
@@ -2456,10 +2457,6 @@ https://alhls-cdn.zhanqi.tv/zqlive/246422_GSpB2.m3u8
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv__a00l
 http://86.57.182.131:8905/play/a00l
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_AdultTVLive.net
-http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAxOCA3OjUzOjQ5IEFNJmhhc2hfdmFsdWU9M1QwSzhmeDZGeXlURUtKMU9OeUhJUT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_hochu.tv
-http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggeb5d5e8a05072c1b0267a370d78c6dbbT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp134
 http://134.19.150.42:81/udp/239.195.6.33:1234
 

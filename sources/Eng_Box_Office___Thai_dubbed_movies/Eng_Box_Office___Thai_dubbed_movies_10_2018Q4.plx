@@ -94,13 +94,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VTHRTwLlnFDlNUxc8MEeFwCQT
 date=2018-11-17
 URL=https://openload.co/f/2dgk1j6AzMc/Nobodys.Fool.2018.HDCAM.x264-Unknown_SeeHD.mkv.mp4
 
-type=video
-name=The Girl in the Spider's Web (2018) ENG 720p_HDCAM-1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg
-date=2018-11-12
-URL=https://openload.co/f/vnHx1c86_sA/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/drPr9ef6yU4/The.Girl.in.the.Spiders.Web.2018.NOLOGO.720p.HDCAM.1XBET.mp4
-#https://openload.co/f/_8vleyK_oJg/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET.mp4
+
 
 type=video
 name=The Hate U Give (2018) ENG 1080p.HC.WEBRip.x264.AAC2.0-STUTTERSHIT
@@ -1341,9 +1335,26 @@ URL=
 
 
 
+type=video
+name=The Breaker Upperers (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCo7lfLRe7BtxGvbwtyIsv5jgh6.jpg
+date=2018-11-22
+URL=https://openload.co/f/z8pe7mNSxSs/The_Breaker_Upperers.2018.1080p.BlRy.x264-%5BYTS.M%5D.mp4
+#https://uptobox.com/s58gvlzyws2r
+#https://www.rapidvideo.com/e/FXACHEWO0H
+#https://openload.co/embed/LTQQEZsHqoM/THEBREAKERUPPERERSBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/aq2o24Yy29c/The_Breaker_Upperers_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
 
-
-
+type=video
+name=The Domestics (2018)
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/j64I3u1wwgPct3stvvKU2ikl14w.jpg
+date=2018-11-22
+URL=https://openload.co/f/SMD371wtshE/The.Domestics.2018.1080p.BR_SeeHD.mp4
+#https://www.blazefile.co/embed-77ersqaisq8a.html   720
+#https://uptobox.com/ofifawpru8q7   720
+#https://www.rapidvideo.com/e/FXGMWGN685   720
+#https://openload.co/embed/_oc1lSPHjX8/THEDOMESTICSBD72.Ganol.st.mkv
+#https://openload.co/f/42y0LdtKHnY/The_Domestics_%282018%29720p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
 
 type=video
 name=What a Wonderful Family! (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
@@ -7324,14 +7335,7 @@ URL=https://uptobox.com/r3e5qfn63v70
 #https://openload.co/embed/X6CHbQwhKZY/DEADMENBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/YhUK1gLgPmU/Dead_Men_%282018%29720p.BluRay.x264.DTS-FGT.Ganool.mkv.mp4
 
-type=video
-name=The Breaker Upperers (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCo7lfLRe7BtxGvbwtyIsv5jgh6.jpg
-date=2018-11-16
-URL=https://uptobox.com/s58gvlzyws2r
-#https://www.rapidvideo.com/e/FXACHEWO0H
-#https://openload.co/embed/LTQQEZsHqoM/THEBREAKERUPPERERSBD72.Ganol.st.mkv.mp4
-#https://openload.co/f/aq2o24Yy29c/The_Breaker_Upperers_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+
 
 
 
@@ -7353,6 +7357,19 @@ URL=https://uptobox.com/la7s69aajdd7
 #https://openload.co/embed/MhpReRS5gao/On.Happiness.Road.2017.BluRay.720p.800MB.Ganol.st.mkv
 #https://openload.co/f/e1L2PTxIjzw/On.Happiness.Road.2017.720p_BluRay_x264-WiKi.Ganool.mkv.mp4
 
+type=video
+name=Skate Kitchen (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXoxxRVbCyQkW8oEYlKVHBPJTlm.jpg
+date=2018-11-22
+URL=https://www.blazefile.co/embed-abe72bvy91fy.html
+#https://uptobox.com/b6qpbs32g78i
+#https://www.rapidvideo.com/e/FXGKPGCJ1Z
+#https://openload.co/embed/JSaTKMTscCQ/SKATEKITCHENBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/3BJCZzWIbmE/Skate_Kitchen_%282018%29720p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+
+
+
+
 
 
 
@@ -7362,7 +7379,7 @@ URL=https://uptobox.com/la7s69aajdd7
 type=video
 name=
 thumb=
-date=2018-11-21
+date=2018-11-22
 URL=
 
 type=video
@@ -7447,6 +7464,21 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+
+type=video
+name=The Girl in the Spider's Web (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg
+date=2018-11-12
+URL=https://openload.co/f/vnHx1c86_sA/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/drPr9ef6yU4/The.Girl.in.the.Spiders.Web.2018.NOLOGO.720p.HDCAM.1XBET.mp4
+#https://openload.co/f/_8vleyK_oJg/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET.mp4
+type=video
+name=The Girl in the Spider's Web (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg
+date=2018-11-22
+URL=https://openload.co/f/Xumjso_Og_M/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -10239,7 +10271,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-19
+date=2018-11-22
 URL=
 
 
@@ -10248,8 +10280,11 @@ URL=
 
 
 
-
-
+type=video
+name=Inuyashiki (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIJJsJSt5PFKM4cqbRlzgZ7Jk12.jpg
+date=2018-11-22
+URL=https://openload.co/f/ywVKgSxULO4/Inuyashiki_%282018%29%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%B8%E0%B8%A2%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%81%E0%B8%B4%3A_%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A5%E0%B8%B8%E0%B8%87%E0%B9%84%E0%B8%8B%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 type=video
 name=Kuntilanak (2018) THCAM SOUND
@@ -10367,10 +10402,19 @@ URL=https://openload.co/f/a8uGQjWj-7M/A.X.L._%282018%29%E0%B9%81%E0%B8%AD%E0%B8%
 
 
 type=video
-name=Searching (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+name=Searching (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
-date=2018-11-13
-URL=https://openload.co/f/9FUs7SbrQxg/Searching.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+date=2018-11-22
+URL=https://uptobox.com/zk9nvgofxwrx
+#https://www.rapidvideo.com/e/FXH2V96JES
+#https://openload.co/embed/kXt47x12vAA/GHPSEARCHING80.Ganol.st.mkv
+#https://openload.co/f/f-ZMdPlgC7I/Searching_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/gLs-gFg3-tU/searching.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/6qsu_I0UsMk/Searching.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/PqedKvzCcUA/Searching.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/anTkE8YGOIg/Searching.2018.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/mkAUPrhIu-o/Searching.2018.BDRip.x264-DRONES.mkv.mp4
+#https://openload.co/f/9FUs7SbrQxg/Searching.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/ok__eM7mAqo/Searching.2018.720pHD_SeeHD.mkv.mp4
 #https://openload.co/f/HFjYe18Vi_M/Searching.2018.READNFO.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/8gMt1dKsYHo/Searching.2018.720p.HDRip.BLURRED.AC3.X264-CMRG.mkv.mp4
@@ -10435,40 +10479,7 @@ URL=https://openload.co/f/K4joqrl2EDA/Final_Score_%282018%29%E0%B8%A2%E0%B8%B8%E
 
 
 
-type=video
-name=Mission: Impossible - Fallout (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
-date=2018-11-21
-URL=https://uptobox.com/4glkmmxrl6oq
-#https://www.rapidvideo.com/e/FXG0MR1UK5
-#https://openload.co/embed/sWizX0qofqk/GHPMISSIONIMPOSSBILEIMAX80.Ganol.st.mkv
-#
-#https://openload.co/f/1_9XBYbUPUI/Mission%3A_Impossible_%E2%80%93_Fallout_%282018%291080p_BluRay_X264-DEFLATE.Ganool.mkv   MKV2.2GB
-#https://openload.co/f/EbjXDVfaJYg/Mission.Impossible.Fallout.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/xnLMmGIoXog/Mission.Impossible.Fallout.2018.720p.BluRay.X264-DEFLATE.mkv.mp4
-#https://openload.co/f/Nmjv9h0Pd98/Mission.Impossible.Fallout.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/YfkZmiJYuwI/Mission.Impossible.Fallout.2018.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
-#https://openload.co/f/J7EJz7v-a_Y/Mission_Impossible_Fallout_2018_1080p_WEB-DL_DD5.1_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/cYuZ2R7maEQ/Mission_Impossible_Fallout_2018_1080p_WEB-DL_DD5.1_X264-24HD_SeeHD.mkv   MKV5.7GB
-#https://openload.co/f/Dul-gg1lJEU/Mission.Impossible.Fallout.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4
-#https://openload.co/f/8nGOGqeSUlU/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/3N5oYfnL714/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/68luywf77mA/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO.mp4
-#https://openload.co/f/EB0p8ZIdj80/Mission.Impossible.Fallout.2018.HC.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/JxI4Yaki6EM/Mission_Impossible_Fallout_2018_NEW_V.3.720p_HDCAM_X264_AC3-UN1QUE_SeeHD.mkv.mp4
-#https://openload.co/f/f4yWmbzdT9M/Mission_Impossible_Fallout_2018_NEW_V.3_720p_HDCAM_X264_AC3-UN1QUE_SeeHD.mkv.mp4
-#https://openload.co/f/7D3PDogUtrM/Mission_Impossible_Fallout_2018_NEW_720p_HDCAM-24HD.mkv.mp4
-#https://openload.co/f/mRAxBM1R1VE/Mission_Impossible_Fallout.2018.CAM.XViD-T3RR0RSQU4D.avi.mp4
-#https://openload.co/f/lbnxpJ8IU7A/Mission.Impossible.Fallout.2018.720p.HDCAM.V2.1XBET_SeeHD.mp4
-#https://openload.co/f/jRzDGi0XWFg/Mission.Impossible.Fallout.2018.New.FULL.HDCAM-X264-AC3-Bobi.mkv.mp4
-#https://openload.co/f/1_OWrlgCXdI/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3-1XB3T_SeeHD.mp4
-#https://openload.co/f/r2MGpc703mg/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3.E.mp4
-type=video
-name=Mission: Impossible - Fallout (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
-date=2018-09-19
-URL=https://openload.co/f/iHBpgLrC2WQ/Mission%3A_Impossible_-_Fallout_%282018%29%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%3A%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5_%E0%B8%9F%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://streamango.com/f/qnnbpkkrntfpplkn/Mission_Impossible_-_Fallout_2018_
+
 
 
 
@@ -10994,6 +11005,44 @@ URL=
 
 
 
+
+
+
+type=video
+name=Mission: Impossible - Fallout (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
+date=2018-11-21
+URL=https://uptobox.com/4glkmmxrl6oq
+#https://www.rapidvideo.com/e/FXG0MR1UK5
+#https://openload.co/embed/sWizX0qofqk/GHPMISSIONIMPOSSBILEIMAX80.Ganol.st.mkv
+#https://openload.co/f/92RuQLTjLfs/Mission%3A_Impossible_%E2%80%93_Fallout_%282018%291080p_BluRay_X264-DEFLATE.Ganool.mkv.mp4
+#https://openload.co/f/1_9XBYbUPUI/Mission%3A_Impossible_%E2%80%93_Fallout_%282018%291080p_BluRay_X264-DEFLATE.Ganool.mkv   MKV2.2GB
+#https://openload.co/f/EbjXDVfaJYg/Mission.Impossible.Fallout.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/xnLMmGIoXog/Mission.Impossible.Fallout.2018.720p.BluRay.X264-DEFLATE.mkv.mp4
+#https://openload.co/f/Nmjv9h0Pd98/Mission.Impossible.Fallout.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/YfkZmiJYuwI/Mission.Impossible.Fallout.2018.720p.BluRay.x264.DD5.1-CHD.mkv.mp4
+#https://openload.co/f/J7EJz7v-a_Y/Mission_Impossible_Fallout_2018_1080p_WEB-DL_DD5.1_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/cYuZ2R7maEQ/Mission_Impossible_Fallout_2018_1080p_WEB-DL_DD5.1_X264-24HD_SeeHD.mkv   MKV5.7GB
+#https://openload.co/f/Dul-gg1lJEU/Mission.Impossible.Fallout.2018.1080p.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/8nGOGqeSUlU/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/3N5oYfnL714/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/68luywf77mA/Mission.Impossible.Fallout.2018.720p.HC.HDRip.X264.AC3-EVO.mp4
+#https://openload.co/f/EB0p8ZIdj80/Mission.Impossible.Fallout.2018.HC.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/JxI4Yaki6EM/Mission_Impossible_Fallout_2018_NEW_V.3.720p_HDCAM_X264_AC3-UN1QUE_SeeHD.mkv.mp4
+#https://openload.co/f/f4yWmbzdT9M/Mission_Impossible_Fallout_2018_NEW_V.3_720p_HDCAM_X264_AC3-UN1QUE_SeeHD.mkv.mp4
+#https://openload.co/f/7D3PDogUtrM/Mission_Impossible_Fallout_2018_NEW_720p_HDCAM-24HD.mkv.mp4
+#https://openload.co/f/mRAxBM1R1VE/Mission_Impossible_Fallout.2018.CAM.XViD-T3RR0RSQU4D.avi.mp4
+#https://openload.co/f/lbnxpJ8IU7A/Mission.Impossible.Fallout.2018.720p.HDCAM.V2.1XBET_SeeHD.mp4
+#https://openload.co/f/jRzDGi0XWFg/Mission.Impossible.Fallout.2018.New.FULL.HDCAM-X264-AC3-Bobi.mkv.mp4
+#https://openload.co/f/1_OWrlgCXdI/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3-1XB3T_SeeHD.mp4
+#https://openload.co/f/r2MGpc703mg/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3.E.mp4
+type=video
+name=Mission: Impossible - Fallout (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
+date=2018-11-22
+URL=https://openload.co/f/8FWJ3onE-mc/Mission%3A_Impossible_-_Fallout_%282018%29%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%3A%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5_%E0%B8%9F%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B9%8C.mp4
+#https://openload.co/f/iHBpgLrC2WQ/Mission%3A_Impossible_-_Fallout_%282018%29%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%3A%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5_%E0%B8%9F%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/qnnbpkkrntfpplkn/Mission_Impossible_-_Fallout_2018_
 
 
 type=video
@@ -11988,7 +12037,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-21
+date=2018-11-22
 URL=
 
 
@@ -11999,6 +12048,40 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=Creed (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKzhV274pkZBSpXfCjUyzbyYKLl.jpg
+date=2018-11-22
+URL=https://openload.co/f/Eo3nH-qfZaw/Creed.2015.1080p.BR_SeeHD.mp4
+
+type=video
+name=Drive (2011) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nu7XIa67cXc2t7frXCE5voXUJcN.jpg
+date=2018-11-22
+URL=https://openload.co/f/7GR_gyA5AY0/Drive.2011.1080p.Br_SeeHD.mp4
+
+type=video
+name=Drive Angry (2011) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/afYwV0EAO8YLRyrTnNaSRysDrCh.jpg
+date=2018-11-22
+URL=https://openload.co/f/Ae-cyfx4szI/Drive.Angry.2011.1080p.BR_SeeHD.mp4
+
+type=video
+name=Wreck-It Ralph (2012) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/93FsllrXXWncp7BQYTdOU1XMRXo.jpg
+date=2018-11-22
+URL=https://openload.co/f/5-nKsMGVQro/Wreck-It.Ralph.2012.1080p.BR_SeeHD.mp4
+
+type=video
+name=Mr. Go (2013) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kxG7HTsIAGWaCCTvpZwfzId7fB.jpg
+date=2018-11-22
+URL=https://openload.co/f/rcu2JnwC-Iw/Mr.Go.2013.KOREAN.1080p.BR_SeeHD.mp4
 
 type=video
 name=Some Like It Hot (1959) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -12045,6 +12128,7 @@ name=The Girl with the Dragon Tattoo (2011) [COLOR=FF00FF00]ENG HD 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/voxRWFTtagLiqnJQs9tWQLB0MN.jpg
 date=2018-11-12
 URL=https://openload.co/f/AkneHq1qwcw/The_Girl_With_The_Dragon_Tattoo.2011.HD_1080p.mp4
+#https://openload.co/embed/BL_D1R5jesQ/Th.Grl.Wth.Th.Drgn.Ttt.2011.720p.BlRy.x264.YFY.mp4
 
 type=video
 name=The Girl with the Dragon Tattoo (2009) [COLOR=FF00FF00]SWE HD 1080p[/COLOR]
