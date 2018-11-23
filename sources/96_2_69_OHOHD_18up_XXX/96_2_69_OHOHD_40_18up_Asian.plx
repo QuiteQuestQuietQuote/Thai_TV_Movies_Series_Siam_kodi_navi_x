@@ -38,6 +38,15 @@ URL=
 
 
 
+type=video
+name=hls_Mide-571 An Ultra High Class Little Devil Mens Massage Parlor Sakura Mito
+thumb=https://javsin.com/wp-content/uploads/2018/11/517d6c4ef20614a73966be5ae5e33458-215x316.jpg
+URL=https://cdn2.xjav.to/s114/thz2018/018-hls/appid-35908/hls_720_.m3u8
+
+type=video
+name=key_Mide-571 An Ultra High Class Little Devil Mens Massage Parlor Sakura Mito
+thumb=https://javsin.com/wp-content/uploads/2018/11/517d6c4ef20614a73966be5ae5e33458-215x316.jpg
+URL=https://fck-c20.tnaflix.com/dev20/0/021/544/0021544936.mp4?key=148b5362b9ca680d744afec15576d00c&src=tna&hd=1&domain=tna480p&seek=range
 
 
 
@@ -53,6 +62,203 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=114xxxxxxxxxxxxxxxxxxxxDonggabnaegieomma (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Donggabnaegieomma-2018.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/dsqolkqqksstqddm/
+
+type=video
+name=Eunmilhan Yeojaggaui Sasaenghwal (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Eunmilhan-Yeojaggaui-Sasaenghwal-2018.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/rsqnnpbnfoqdseqr/
+
+type=video
+name=Good Form Factor 3 (2018) [Nocut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Good-Form-Factor-3-2018-Nocut.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/tpeataeereafdbct/
+
+type=video
+name=Chingu Eommadeul Ui Mas (2018) [Nocut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Chingu-Eommadeul-Ui-Mas-2018-Nocut.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/bltfneamambkdrso/
+
+type=video
+name=Jangmonim Ui Gaeingyoseub (2018) [Nocut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Jangmonim-Ui-Gaeingyoseub-2018-Nocut.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/dmeeocaerkbrrcfs/
+
+
+type=video
+name=Affair Reunion (2017) [Nocut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Affair-Reunion-2017-Nocut.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/qrqfrqclqbckekre/
+
+type=video
+name=Kimbonjwaui Yadongnamnyeo (2018) [Nocut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Kimbonjwaui-Yadongnamnyeo-2018-Nocut.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/dlcrclmncocseanl/
+
+type=video
+name=Female Workers 2 To 2 Sex (2018) [Nocut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Female-Workers-2-To-2-Sex-2018-Nocut.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/qmccssflfnkapcro/
+
+type=video
+name=Real Night Life with Spy Cam 4 (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Real-Night-Life-with-Spy-Cam-4-2017.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/ktetbdmqpdsrlrnc/
+
+type=video
+name=Dad Friend 2 (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Dad-Friend-2-2018.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/lptontlmckbmkqff/
+
+
+type=video
+name=Yeppeunnuna (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Yeppeunnuna-2018.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/dsrenkppnpfamkor/
+
+type=video
+name=Mil Ae Anaeui Yeodongsaeng (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Mil-Ae-Anaeui-Yeodongsaeng-2018.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/qqrkcoqtkkkcatsb/
+
+type=video
+name=Jogeon Eomma Sugar Mam (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Jogeon-Eomma-Sugar-Mam-2018.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/rtopafbeklfdkmba/
+
+type=video
+name=Eolin Cheohyeong (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Eolin-Cheohyeong-2018.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/tnfcqmeqsperteqo/
+
+type=video
+name=Tanin-no-tsumahodo Iyarashii (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Tanin-no-tsumahodo-Iyarashii-2018.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/brsbnereqottalfk/
+
+
+type=video
+name=Nolaebang Hwakkeunhan Seobiseu (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Nolaebang-Hwakkeunhan-Seobiseu-2018.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/dnrprrkpbkrfffpb/
+
+type=video
+name=Chaghan Cheojedeul 2018 (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Chaghan-Cheojedeul-2018-2018.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/mdscoltbeeadmqfp/
+
+type=video
+name=Anaeui Eomma (2018) [Nocut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Anaeui-Eomma-2018-Nocut.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/qqeafqdqbrdlfmbo/
+
+type=video
+name=Dongsaeng Ui Chaghan Anae (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Dongsaeng-Ui-Chaghan-Anae-2018-Uncut.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/fcmaepsmneodrlce/
+
+type=video
+name=Hasukjip Yeojadle (2018) [Nocut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Hasukjip-Yeojadle-2018-Nocut.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/lmcnbqqndnndapqm/
+
+
+
+
+
+
+
+
+type=video
+name=94xxxxxxxxxxxxxxxxxxxxChingu Eommadeul Mas Issneun Segseu (2018) [Nocut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Chingu-Eommadeul-Mas-Issneun-Segseu-2018-Nocut.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/rbbseramnrdkcatt/
+
+type=video
+name=Yahan Jeongsaui Mas (2018) [Nocut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Yahan-Jeongsaui-Mas-2018-Nocut.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/nlfrclpsononnekn/
+
+type=video
+name=Cheoje Ui Eunmilhan Yuhog (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Cheoje-Ui-Eunmilhan-Yuhog-2018-Uncut.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/cbcdqfcskdptormn/
+
+type=video
+name=Gwaoeui Chueog (2018) [Nocut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Gwaoeui-Chueog-2018-Nocut.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/tfodlmokpmecaqkk/
+
+type=video
+name=Dannani kakurete suru Okusama tono (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Dannani-kakurete-suru-Okusama-tono-2017.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/olodorntmtqbosct/
+
+
+type=video
+name=Haitoku Furin-jigoku (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Haitoku-Furin-jigoku-2017.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/kolreopeblfktbes/
+
+type=video
+name=MIDARAYOME-03 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/MIDARAYOME-03-2017.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/akffpetndsctbrtm/
+
+type=video
+name=Yuwaku Kotobanannte Iranai (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Yuwaku-Kotobanannte-Iranai-2017.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/cdeecadnctbsbens/
+
+type=video
+name=Hitoduma Futei Sodanshitsu (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Hitoduma-Futei-Sodanshitsu-2017.jpg
+date=2018-11-23
+URL=https://streamcherry.com/embed/ptsanqmbaeoafrcp/
 
 
 
