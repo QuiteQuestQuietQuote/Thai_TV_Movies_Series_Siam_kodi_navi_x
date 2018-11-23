@@ -75,7 +75,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-17
+date=2018-11-23
 URL=
 
 
@@ -86,7 +86,11 @@ URL=
 
 
 
-
+type=video
+name=Widows (2018) ENG 720p_HDCAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f27RTnWEc2bhVtfSlKmxxypznfR.jpg
+date=2018-11-23
+URL=https://openload.co/f/egukV81Gjwo/Widows_2018_720p_HDCAM_SeeHD.mkv.mp4
 
 type=video
 name=Nobody's Fool (2018) ENG HDCAM.x264-Unknown_SeeHD
@@ -1325,7 +1329,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-21
+date=2018-11-23
 URL=
 
 
@@ -1333,7 +1337,11 @@ URL=
 
 
 
-
+type=video
+name=We the Animals (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSMcNOpihv6U4JlNAaxfbl2qUj7.jpg
+date=2018-11-23
+URL=https://openload.co/f/VL5Ip23AUIU/We.the.Animals.2018.1080p.BluRay.H264.AAC-RARBG.mp4.mp4
 
 type=video
 name=The Breaker Upperers (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7367,6 +7375,29 @@ URL=https://www.blazefile.co/embed-abe72bvy91fy.html
 #https://openload.co/embed/JSaTKMTscCQ/SKATEKITCHENBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/3BJCZzWIbmE/Skate_Kitchen_%282018%29720p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
 
+type=video
+name=Arbor Demon (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4aEl7xg9W1ThXa7GH8uAbrGrRE.jpg
+date=2018-11-23
+URL=https://openload.co/f/9UF1xH9V8HI/enclosure.2016.720p.bluray.x264-getit.mkv.mp4
+
+type=video
+name=The Sun at Midnight (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/97y44kqinTnhOxCStfy3PUUtC0q.jpg
+date=2018-11-23
+URL=https://openload.co/f/l88HoU4Yv24/The.Sun.at.Midnight.2016.720p.BluRay.H264.AAC-RARBG.mp4
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -7379,7 +7410,7 @@ URL=https://www.blazefile.co/embed-abe72bvy91fy.html
 type=video
 name=
 thumb=
-date=2018-11-22
+date=2018-11-23
 URL=
 
 type=video
@@ -7588,10 +7619,12 @@ URL=https://openload.co/f/8HjWNItz084/Venom_%282018%29%E0%B9%80%E0%B8%A7%E0%B8%9
 
 
 type=video
-name=The House with a Clock in Its Walls (2018) ENG HDCAM_SeeHD
+name=The House with a Clock in Its Walls (2018) ENG 720p.WEBRip.1XBET
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
-date=2018-11-05
-URL=https://openload.co/f/wEeCU8Vy4Vk/housewithclockinitswall.HDCAM_SeeHD.mkv.mp4
+date=2018-11-23
+URL=https://openload.co/f/bbsEl9Bd23U/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.1XBET.mp4
+#https://openload.co/f/TeEYnby1KLk/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.mp4
+#https://openload.co/f/wEeCU8Vy4Vk/housewithclockinitswall.HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/5VmvSCnLG3U/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/U1vqLDgenNU/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET.mp4-536p.mp4
 #https://openload.co/f/WJCwV2VC7Y8/The_House_with_a_Clock_in_Its_Walls_2018_HDCAM_NO_WATERMARK_Layar.mp4
@@ -7822,6 +7855,13 @@ URL=
 
 
 
+
+
+type=video
+name=The End? (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sx8F9NOTQ0RthZN8Baun7qGb435.jpg
+date=2018-11-23
+URL=https://openload.co/f/jTnZTlkHrPI/The_End%3F_%282018%29%E0%B8%AB%E0%B8%A5%E0%B8%9A...%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -10995,7 +11035,7 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=
 thumb=
-date=2018-11-12
+date=2018-11-23
 URL=
 
 
@@ -11004,12 +11044,32 @@ URL=
 
 
 
+type=video
+name=The Christmas Chronicles (2018) ENG 720p.NF.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg
+date=2018-11-23
+URL=https://openload.co/f/o6LJmgyaMLk/The.Christmas.Chronicles.2018.720p.NF.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D_SeeHD.mkv.mp4
+type=video
+name=The Christmas Chronicles (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg
+date=2018-11-23
+URL=https://openload.co/f/41B0dOCWXt8/The_Christmas_Chronicles_%282018%29%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%A1%E0%B8%B2%E0%B8%AA.mp4
 
+type=video
+name=Saving Mr. Wu (2015) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYkbFpjvhjin4Q1gIHrsIaTh9bV.jpg
+date=2018-11-23
+URL=https://openload.co/f/NkJjAcUiVZM/Saving_Mr._Wu_%282015%29%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99.mp4
 
+type=video
+name=Chuck (2017) TH   3.5GB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRowWuf8Q5bazuPRIqYLaKRxxs.jpg
+date=2018-11-23
+URL=https://openload.co/f/OBWSGVFA1gw/Chuck_%282017%29%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B8%E0%B8%A9%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%99.mp4
 
 
 type=video
-name=Mission: Impossible - Fallout (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Mission: Impossible - Fallout (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]   5.3GB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
 date=2018-11-21
 URL=https://uptobox.com/4glkmmxrl6oq
@@ -11037,10 +11097,11 @@ URL=https://uptobox.com/4glkmmxrl6oq
 #https://openload.co/f/1_OWrlgCXdI/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3-1XB3T_SeeHD.mp4
 #https://openload.co/f/r2MGpc703mg/Mission_Impossible_Fallout_2018_720p_HDCAM_AC3.E.mp4
 type=video
-name=Mission: Impossible - Fallout (2018) TH
+name=Mission: Impossible - Fallout (2018) TH   5.3GB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
-date=2018-11-22
-URL=https://openload.co/f/8FWJ3onE-mc/Mission%3A_Impossible_-_Fallout_%282018%29%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%3A%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5_%E0%B8%9F%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B9%8C.mp4
+date=2018-11-23
+URL=https://openload.co/f/lKvzpgYPwjA/Mission%3A_Impossible_-_Fallout_%282018%29%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%3A_%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5_%E0%B8%9F%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B9%8C.mp4
+#https://openload.co/f/8FWJ3onE-mc/Mission%3A_Impossible_-_Fallout_%282018%29%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%3A%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5_%E0%B8%9F%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B9%8C.mp4
 #https://openload.co/f/iHBpgLrC2WQ/Mission%3A_Impossible_-_Fallout_%282018%29%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%3A%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5_%E0%B8%9F%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://streamango.com/f/qnnbpkkrntfpplkn/Mission_Impossible_-_Fallout_2018_
 

@@ -2434,7 +2434,8 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_5.m3u8
 #EXTINF:-1,BesTV4K_CHN
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000499/index.m3u8
-
+#EXTINF:-1,CINEMA 4K 
+http://painel.soeu.kim:8080/marcelo/12345/8009 
 
 
 #EXTINF:-1,Fish Channel xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
