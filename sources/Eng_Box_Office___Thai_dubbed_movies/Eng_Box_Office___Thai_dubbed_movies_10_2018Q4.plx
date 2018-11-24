@@ -1337,11 +1337,16 @@ URL=
 
 
 
+
 type=video
 name=We the Animals (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSMcNOpihv6U4JlNAaxfbl2qUj7.jpg
 date=2018-11-23
 URL=https://openload.co/f/VL5Ip23AUIU/We.the.Animals.2018.1080p.BluRay.H264.AAC-RARBG.mp4.mp4
+#https://www.blazefile.co/embed-7kesrw4atmnf.html   720
+#https://uptobox.com/mrm5x4mp01z0   720
+#https://www.rapidvideo.com/e/FXJ56VNIAI   720
+#https://openload.co/embed/7eIpo6j4UPk/WETHEANIMALSBD72.Ganol.st.mkv
 
 type=video
 name=The Breaker Upperers (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7600,10 +7605,12 @@ URL=https://openload.co/f/5EVxFMyOWyw/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%
 
 
 type=video
-name=Venom (2018) ENG V3_New_Src_HDTS_x264_AC3
+name=Venom (2018) ENG HD1080P.X264.AAC.CHS_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
-date=2018-10-11
-URL=https://openload.co/f/a3E_UhJHLrQ/Venom_2018_V3_New_Src_HDTS_x264_AC3.mkv.mp4
+date=2018-11-24
+URL=https://openload.co/f/EPW6kUKWMfw/Venom.2018.HD1080P.X264.AAC.CHS_SeeHD.mp4
+#https://openload.co/f/Ai7_bSmiseY/Venom.2018.1080p.HDTC.x264-MiniBT.mp4
+#https://openload.co/f/a3E_UhJHLrQ/Venom_2018_V3_New_Src_HDTS_x264_AC3.mkv.mp4
 #https://openload.co/f/TTHAn4-3YFs/Venom.2018.1080p.HD-TS.X264-24HD.mkv.mp4
 #https://openload.co/f/w86H5YUMlTg/Venom_2018_720p_HD-TS_X264-24HD_SeeHD.mkv.mp4
 #https://openload.co/f/_OVSTt1VN-k/Venom.2018.PROPER.HDTS.XviD-AVID.avi.mp4
@@ -11045,10 +11052,11 @@ URL=
 
 
 type=video
-name=The Christmas Chronicles (2018) ENG 720p.NF.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D_SeeHD
+name=The Christmas Chronicles (2018) ENG 1080p.NF.WEB-DL.DD5.1.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg
-date=2018-11-23
-URL=https://openload.co/f/o6LJmgyaMLk/The.Christmas.Chronicles.2018.720p.NF.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D_SeeHD.mkv.mp4
+date=2018-11-24
+URL=https://openload.co/f/jvN7z7rEfWc/The.Christmas.Chronicles.2018.1080p.NF.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/o6LJmgyaMLk/The.Christmas.Chronicles.2018.720p.NF.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D_SeeHD.mkv.mp4
 type=video
 name=The Christmas Chronicles (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg

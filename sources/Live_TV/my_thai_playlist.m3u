@@ -2429,7 +2429,8 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 
-
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv__a00l
+http://86.57.182.131:8905/play/a00l
 #EXTINF:-1,mediacorp8
 http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_5.m3u8
 #EXTINF:-1,BesTV4K_CHN
@@ -2471,12 +2472,9 @@ http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
 #EXTINF:-1,JAP_cs19
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=156632922
 
-#EXTINF:-1,PhoneCam
-https://alhls-cdn.zhanqi.tv/zqlive/246422_GSpB2.m3u8
+
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Miami-TV.jpg",miamitv
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv__a00l
-http://86.57.182.131:8905/play/a00l
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp134
 http://134.19.150.42:81/udp/239.195.6.33:1234
 
@@ -2510,12 +2508,6 @@ https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source
 http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_newschat_electric
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
-
-
-
-
-
-
 
 
 
