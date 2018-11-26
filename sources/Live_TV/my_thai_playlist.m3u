@@ -2414,10 +2414,11 @@ http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 
 
 
-#EXTINF:-1,planetahdxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-http://84.43.207.130/planetahd/planetahd.m3u8
-#EXTINF:-1  tvg-logo="http://samara11x11.ucoz.ru/music/NR1_4K_ULTRA_HD_TV.png",NR1 4K
+
+#EXTINF:-1  tvg-logo="http://samara11x11.ucoz.ru/music/NR1_4K_ULTRA_HD_TV.png",NR1 4K   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://peka2.tv/images/profile/272176/avatar.jpg",Ritsa TV
+https://hls.goodgame.ru/hls/122431.m3u8
 #EXTINF:-1  tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784160_logo_djing_wild_edm.png",djing
 https://www.djing.com/tv/hits.m3u8
 #EXTINF:-1  tvg-logo="http://3.bp.blogspot.com/-5Wbwt_uIAu0/TyhcHDsR3hI/AAAAAAAAEAc/B30c1R_Rd44/s1600/Music+Choice+logo+2012.jpg",music-choice
@@ -2466,24 +2467,30 @@ http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_VIP
+http://ibiza-tv.1919hdtv.com:8880/lfh/Stream2/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_VIP
+http://ibiza-tv.1919hdtv.com:8880/lfh/Stream1/playlist.m3u8
 
-#EXTINF:-1,GONG_movie
-http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
-#EXTINF:-1,JAP_cs19
-http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=156632922
-
-
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Miami-TV.jpg",miamitv
-http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp134
-http://134.19.150.42:81/udp/239.195.6.33:1234
 
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg",ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Jasmin-TV.png",Jasmin Tv 
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Miami-TV.jpg",miamitv
+http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp134
+http://134.19.150.42:81/udp/239.195.6.33:1234
+#EXTINF:0  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_kanalas
+http://pr2pr.net/kanalas/4hHmPJ/334
 
+#EXTINF:-1,GONG_movie
+http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
+#EXTINF:-1,JAP_cs19
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=156632922
+#EXTINF:-1,VIKI_KOR
+http://58.79.206.245:9981/stream/channelid/1322659108
 
 
 #EXTINF:-1,Documentary_CHN

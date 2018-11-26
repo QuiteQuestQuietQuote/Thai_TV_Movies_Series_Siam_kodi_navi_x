@@ -75,7 +75,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-23
+date=2018-11-26
 URL=
 
 
@@ -85,6 +85,35 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Robin Hood (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg
+date=2018-11-26
+URL=https://openload.co/f/QfQW0tLAnzs/Robin_Hood_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/YbVJ7tkFxd4/Robin_Hood_2018_720p_HDCAM..mp4
+
+type=video
+name=Ralph Breaks the Internet (2018) ENG HDCAMV2_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m110vLaDDOCca4hfOcS5mK5cDke.jpg
+date=2018-11-26
+URL=https://openload.co/f/VKSLAw9hR3c/ralphbreaktheinternetHDCAMV2_SeeHD.mkv.mp4
+#https://openload.co/f/om5EaCqO18o/Ralph_Breaks_the_Internet_ENG_2018_720p_HDCAM-1XBET.mp4
 
 type=video
 name=Widows (2018) ENG 720p_HDCAM_SeeHD
@@ -1329,7 +1358,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-23
+date=2018-11-26
 URL=
 
 
@@ -1337,6 +1366,24 @@ URL=
 
 
 
+type=video
+name=Arbor Demon (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4aEl7xg9W1ThXa7GH8uAbrGrRE.jpg
+date=2018-11-26
+URL=https://openload.co/f/ml8sTj7zhx0/Arbor_Demon.2016.1080p.BlRy.x264-%5BYTS.M%5D.mp4
+#https://openload.co/f/9UF1xH9V8HI/enclosure.2016.720p.bluray.x264-getit.mkv.mp4
+
+type=video
+name=The Dawn Wall (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZQCNGb1II5eWASBhEgJBGxOPUM.jpg
+date=2018-11-26
+URL=https://openload.co/f/ioonyQT007w/The.Dawn.Wall.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Tokyo Night Sky Is Always the Densest Shade of Blue (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iO3X8J4lzDfFkNzbrlBXi4D9zV1.jpg
+date=2018-11-26
+URL=https://openload.co/f/me6PidGGnms/the.tokyo.night.sky.is.always.the.densest.shade.of.blue.2017.1080p.bluray.x264-regret.mkv.mp4
 
 type=video
 name=We the Animals (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1374,6 +1421,12 @@ name=What a Wonderful Family! (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KarFzFYCUTLKKnUJ9L7Bo51Q2o.jpg
 date=2018-11-21
 URL=https://openload.co/f/90ACWB_LI4Y/what.a.wonderful.family.2016.1080p.bluray.x264-regret.mkv.mp4
+
+type=video
+name=What a Wonderful Family! 2 (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykDqdC51oLeqz5uo17C1VnITZOF.jpg
+date=2018-11-26
+URL=https://openload.co/f/N8lMVG0a3qs/What_a_Wonderful_Family%21_2..2017.1080p.BlRy.x264-%5BYTS.M%5D.mp4
 
 type=video
 name=The Outlaws (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
@@ -7380,11 +7433,7 @@ URL=https://www.blazefile.co/embed-abe72bvy91fy.html
 #https://openload.co/embed/JSaTKMTscCQ/SKATEKITCHENBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/3BJCZzWIbmE/Skate_Kitchen_%282018%29720p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
 
-type=video
-name=Arbor Demon (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4aEl7xg9W1ThXa7GH8uAbrGrRE.jpg
-date=2018-11-23
-URL=https://openload.co/f/9UF1xH9V8HI/enclosure.2016.720p.bluray.x264-getit.mkv.mp4
+
 
 type=video
 name=The Sun at Midnight (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -7392,7 +7441,11 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/97y44kqinTnhOxCStfy3PUUtC0
 date=2018-11-23
 URL=https://openload.co/f/l88HoU4Yv24/The.Sun.at.Midnight.2016.720p.BluRay.H264.AAC-RARBG.mp4
 
-
+type=video
+name=House of the Rising Sons (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6paaaifXjAPAvXdpKk3LxpNJ0Iv.jpg
+date=2018-11-26
+URL=https://openload.co/f/FLg7g2fua2A/House.of.The.Rising.Sons.2018.720p_BluRay_DD_5.1_x264-WiKi.Ganool.mkv.mp4
 
 
 
@@ -7415,7 +7468,7 @@ URL=https://openload.co/f/l88HoU4Yv24/The.Sun.at.Midnight.2016.720p.BluRay.H264.
 type=video
 name=
 thumb=
-date=2018-11-23
+date=2018-11-26
 URL=
 
 type=video
@@ -7588,20 +7641,7 @@ date=2018-11-04
 URL=https://openload.co/f/zYob6IKdLuo/Halloween_%282018%29%E0%B8%AE%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=First Man (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
-date=2018-11-21
-URL=https://openload.co/f/Q-IpbQFdeGc/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/LMJ_mquiaps/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/AwQGBb1XjbM/First_Man_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/7mOSc3yTvAM/First_Man_2018_720p_HDCAM-1XBET.mp4
-#https://openload.co/f/I5V3WzV1etQ/First.Man.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
-type=video
-name=First Man (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
-date=2018-10-22
-URL=https://openload.co/f/5EVxFMyOWyw/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
@@ -7691,19 +7731,7 @@ URL=https://openload.co/f/NzNS1jlT1t4/Hell_Fest_%282018%29%E0%B8%AA%E0%B8%A7%E0%
 
 
 
-type=video
-name=Peppermint (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg
-date=2018-11-20
-URL=https://openload.co/f/lFf8Rsl9KPc/Peppermint.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/QZF3ax4T33U/Peppermint.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/QO7jpwtEtCI/Peppermint_2018_TS-1XBET_SeeHD.mp4
-#https://openload.co/f/OqNJndekThw/Peppermint.2018.TS-1XBET.mp4
-type=video
-name=Peppermint (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg
-date=2018-09-18
-URL=https://openload.co/f/-2e2dhkFJX0/Peppermint_%282018%29%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 
@@ -7816,6 +7844,8 @@ name=Satan's Slaves (2017) [COLOR=FF00FF00]INDO BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/k16xOaI9x5fqepxVwBwUJAozsW8.jpg
 date=2018-08-21
 URL=https://openload.co/f/f8P7xDpHj3c/Satans.Slaves.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/embed/_wyrRiUOr34/GHPSATANSLAVES80.Ganol.st.mkv.mp4
+#https://fruithosts.net/embed/qacqkfcetrmsdebo/GHPSATANSLAVES80_Ganol_st_mkv_mp4
 type=video
 name=Satan's Slaves (2017) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XB9EO9L8t0ryipAoB9WlsxXOIl.jpg
@@ -10318,13 +10348,56 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-22
+date=2018-11-26
 URL=
 
 
 
 
 
+
+
+
+
+
+type=video
+name=Rampant (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8u0AKGj52SQeeKW4d56rWr2XLX.jpg
+date=2018-11-26
+URL=https://openload.co/f/F50fZoE0fog/Rampant_%282018%29%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
+type=video
+name=First Man (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
+date=2018-11-21
+URL=https://openload.co/f/Q-IpbQFdeGc/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/LMJ_mquiaps/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/AwQGBb1XjbM/First_Man_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/7mOSc3yTvAM/First_Man_2018_720p_HDCAM-1XBET.mp4
+#https://openload.co/f/I5V3WzV1etQ/First.Man.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+type=video
+name=First Man (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
+date=2018-11-26
+URL=https://openload.co/f/aHTXtE3yc8Q/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/5EVxFMyOWyw/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=Peppermint (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg
+date=2018-11-20
+URL=https://openload.co/f/lFf8Rsl9KPc/Peppermint.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/QZF3ax4T33U/Peppermint.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/QO7jpwtEtCI/Peppermint_2018_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/OqNJndekThw/Peppermint.2018.TS-1XBET.mp4
+type=video
+name=Peppermint (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg
+date=2018-11-26
+URL=https://openload.co/f/dMQQUTqnwx4/Peppermint_%282018%29%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/-2e2dhkFJX0/Peppermint_%282018%29%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -11042,13 +11115,21 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=
 thumb=
-date=2018-11-23
+date=2018-11-26
 URL=
 
 
 
 
 
+
+
+
+type=video
+name=The Institute (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaBRwLaBTVuMOXJs8vvKwr452XZ.jpg
+date=2018-11-26
+URL=https://openload.co/f/-QOiqiuxjQ0/The_Institute_%282017%29%E0%B8%96%E0%B8%AD%E0%B8%94%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%87.mp4
 
 
 type=video
@@ -12106,7 +12187,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-22
+date=2018-11-26
 URL=
 
 
@@ -12120,7 +12201,12 @@ URL=
 
 
 
-
+type=video
+name=Escape from New York (1981) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1xx0wtWXTL82VJmA1Y5DHndL3H.jpg
+date=2018-11-26
+URL=https://openload.co/f/qEvPHey57JM/Escape.From.New.York.1981.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/pWZIGm4COiQ/Escape.from.New.York.1981.REMASTERED.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
 name=Creed (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
