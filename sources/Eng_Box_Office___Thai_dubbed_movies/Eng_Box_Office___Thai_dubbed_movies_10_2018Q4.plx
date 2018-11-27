@@ -101,12 +101,7 @@ URL=
 
 
 
-type=video
-name=Robin Hood (2018) ENG 720p_HDCAM-1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg
-date=2018-11-26
-URL=https://openload.co/f/QfQW0tLAnzs/Robin_Hood_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/YbVJ7tkFxd4/Robin_Hood_2018_720p_HDCAM..mp4
+
 
 type=video
 name=Ralph Breaks the Internet (2018) ENG HDCAMV2_SeeHD
@@ -1358,13 +1353,30 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-26
+date=2018-11-27
 URL=
 
 
 
 
 
+type=video
+name=Laugh or Die (2018) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7L0QhTjs5dmOxbPUt5GCsrn0OF1.jpg
+date=2018-11-27
+URL=https://openload.co/f/ehIWJ5r15PU/Laugh.Or.Die.2018.1080p.BluRay.x264-FiCO.mkv.mp4
+#https://www.blazefile.co/embed-8i7ynrolis2r.html   720
+#https://uptobox.com/q6n4pwd5z8vt   720
+#https://fruithosts.net/embed/ooebrosmrelmpcdn/LAUGHORDIEBD72_Ganol_st_mkv_mp4
+#https://openload.co/f/GYFtYp8gQPY/Laugh_or_Die_%282018%29720p_BluRay_x264-FiCO.Ganool.mkv.mp4
+
+type=video
+name=Utøya: July 22 (2018) [COLOR=FF00FF00]NOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpa91Opnvl4XxUCycyNGvhwRWqC.jpg
+date=2018-11-27
+URL=https://uptobox.com/6q3g35ealf3f
+#https://fruithosts.net/embed/neclqenqkeeknsrm/GHPUTOYA22JULY80_Ganol_st_mkv
+#https://openload.co/f/6ce_KLpbEkc/Utoya%3A_July_22_%282018%29NORWEGIAN_1080p_BluRay_x264-WASTE.Ganool.mkv.mp4
 
 type=video
 name=Arbor Demon (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1384,6 +1396,7 @@ name=The Tokyo Night Sky Is Always the Densest Shade of Blue (2017) [COLOR=FF00F
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iO3X8J4lzDfFkNzbrlBXi4D9zV1.jpg
 date=2018-11-26
 URL=https://openload.co/f/me6PidGGnms/the.tokyo.night.sky.is.always.the.densest.shade.of.blue.2017.1080p.bluray.x264-regret.mkv.mp4
+#https://openload.co/f/aSjf7jDvnnU/Tky.Nght.Sky.s.lwys.Th.Dnsst.Shd.f.Bl.2017.1080p.BlRy.x264-%5BYTS.M%5D.mp4
 
 type=video
 name=We the Animals (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -2766,25 +2779,6 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsrVwiD8J0iU9VJCFcQfY4tKXG
 date=2018-08-25
 URL=https://openload.co/f/irjwBDVs1kY/parks.2017.1080p.bluray.x264-regret.mkv.mp4
 
-type=video
-name=Hereditary (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GFPuL14eXi66V96xBWY73Y9PfR.jpg
-date=2018-08-25
-URL=https://uptobox.com/cvt9i864nibi
-#https://www.rapidvideo.com/e/FUMJBC2ZR9
-#https://openload.co/embed/qQiWN1eSBV8/GHPHEREDITAY80.Ganool.si.mkv
-#https://openload.co/f/IBJwX-LdjjM/hereditary.2018.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/Veisb1pNr_Q/hereditary.2018.1080p.bluray.x264-geckos.mkv   MKV9.8GB
-#https://openload.co/f/LV0PRaB4-Kg/Hereditary.2018.720p.BluRay.H264.AACRARBG.mp4
-#https://openload.co/f/xz3LKpciiHs/hereditary.2018.720p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/FzGSD5pB9wU/hereditary.2018.720p.bluray.x264-geckos.mkv   MKV5.5GB
-#https://openload.co/f/cxYcTTYry-A/hereditary.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/Eg87e4DCvO8/Hereditary.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/p673QkMs-A4/Hereditary.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/-WDaGQEWX78/Hereditary.2018.720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/hVMOOikOXzY/Hereditary.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
-#https://openload.co/f/4BYmDKGv1PQ/Hereditary_2018_720p_NEW_HDCAM_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/yo6qEXwj5Bs/Hereditary_2018_HDCAM_ENG_x264-SugarTits_SeeHD.mkv.mp4
 
 
 
@@ -7422,6 +7416,7 @@ URL=https://uptobox.com/la7s69aajdd7
 #https://www.rapidvideo.com/e/FXFZGCVAZU
 #https://openload.co/embed/MhpReRS5gao/On.Happiness.Road.2017.BluRay.720p.800MB.Ganol.st.mkv
 #https://openload.co/f/e1L2PTxIjzw/On.Happiness.Road.2017.720p_BluRay_x264-WiKi.Ganool.mkv.mp4
+#https://openload.co/f/YnZJSXDqU_c/On.Happiness.Road.2017.CHINESE.720p.BluRay.H264.AAC-VXT.mp4
 
 type=video
 name=Skate Kitchen (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -7468,7 +7463,7 @@ URL=https://openload.co/f/FLg7g2fua2A/House.of.The.Rising.Sons.2018.720p_BluRay_
 type=video
 name=
 thumb=
-date=2018-11-26
+date=2018-11-27
 URL=
 
 type=video
@@ -7553,7 +7548,17 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
-
+type=video
+name=Robin Hood (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg
+date=2018-11-26
+URL=https://openload.co/f/QfQW0tLAnzs/Robin_Hood_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/YbVJ7tkFxd4/Robin_Hood_2018_720p_HDCAM..mp4
+type=video
+name=Robin Hood (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg
+date=2018-11-27
+URL=https://openload.co/f/lObXO4Iqg0s/Robin_Hood_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%AE%E0%B8%B9%E0%B9%89%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -7661,15 +7666,18 @@ URL=https://openload.co/f/EPW6kUKWMfw/Venom.2018.HD1080P.X264.AAC.CHS_SeeHD.mp4
 type=video
 name=Venom (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
-date=2018-10-16
-URL=https://openload.co/f/8HjWNItz084/Venom_%282018%29%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A1_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+date=2018-11-27
+URL=https://openload.co/f/mDgvTf333Zw/Venom_%282018%29%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A1_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1_V.2%29
+#https://openload.co/f/8HjWNItz084/Venom_%282018%29%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A1_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
-name=The House with a Clock in Its Walls (2018) ENG 720p.WEBRip.1XBET
+name=The House with a Clock in Its Walls (2018) ENG 1080pHD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
-date=2018-11-23
-URL=https://openload.co/f/bbsEl9Bd23U/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.1XBET.mp4
+date=2018-11-27
+URL=https://openload.co/f/ZOURk9yzRu0/The_House_With_a_Clock_In_Its_Walls_1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/-5AMq1L5PfA/The_House_with_a_Clock_in_Its_Walls_2018_1080p_WEB_DL_DD5_1_H264_FGT.mkv.mp4
+#https://openload.co/f/bbsEl9Bd23U/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.1XBET.mp4
 #https://openload.co/f/TeEYnby1KLk/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.mp4
 #https://openload.co/f/wEeCU8Vy4Vk/housewithclockinitswall.HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/5VmvSCnLG3U/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET_SeeHD.mp4
@@ -10414,10 +10422,12 @@ URL=https://openload.co/f/KtL9I2sJhw0/Kuntilanak_%282018%29%E0%B8%81%E0%B8%A3%E0
 
 
 type=video
-name=The Predator (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
+name=The Predator (2018) ENG 1080pHD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
-date=2018-11-09
-URL=https://openload.co/f/Sq_bHkOyhsg/The.Predator.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-11-27
+URL=https://openload.co/f/Wh1AfKyJCRQ/The_Predator_1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/sn38GCbKob8/The.Predator.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/Sq_bHkOyhsg/The.Predator.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/KhCTO6F_AwU/The.Predator.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
 #https://openload.co/f/pWpbXzEqrwI/The.Predator.2018.NOLOGO.NEW.720p.Telesync.mp4
 #https://openload.co/f/v01aS6svE6E/The.Predator.2018.CLEAN.NEW.720p.TELESYNC.mkv.mp4
@@ -10462,10 +10472,16 @@ URL=https://openload.co/f/FlrEAeVIcf8/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%
 
 
 type=video
-name=The Nun (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
+name=The Nun (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg
-date=2018-11-20
-URL=https://openload.co/f/N229PcLCeBY/The.Nun.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-11-27
+URL=https://uptobox.com/f3ajr1b2hjds
+#https://fruithosts.net/embed/teapabmdtfmdbeeo/GHPTHENUN80_Ganol_st_mkv
+#https://openload.co/f/fW2Okctgff0/The_Nun_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+#https://openload.co/f/H1thQg2OvcM/The.Nun.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/aXq5OLiwCiw/The.Nun.2018.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/in9e_wEC_0M/The.Nun.2018.720p.BluRay.x264.750MB-Pahe.in.mkv.mp4
+#https://openload.co/f/N229PcLCeBY/The.Nun.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/oe1DD-k-8gI/The.Nun.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/OGVM6oCA3yc/The.Nun.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/fY5KyQ89FBs/The.Nun.2018.1080p.HC.HDRip.X264.AC3-EVO.mp4
@@ -11123,6 +11139,48 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Hereditary (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GFPuL14eXi66V96xBWY73Y9PfR.jpg
+date=2018-08-25
+URL=https://uptobox.com/cvt9i864nibi
+#https://www.rapidvideo.com/e/FUMJBC2ZR9
+#https://openload.co/embed/qQiWN1eSBV8/GHPHEREDITAY80.Ganool.si.mkv
+#https://openload.co/f/IBJwX-LdjjM/hereditary.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/Veisb1pNr_Q/hereditary.2018.1080p.bluray.x264-geckos.mkv   MKV9.8GB
+#https://openload.co/f/LV0PRaB4-Kg/Hereditary.2018.720p.BluRay.H264.AACRARBG.mp4
+#https://openload.co/f/xz3LKpciiHs/hereditary.2018.720p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/FzGSD5pB9wU/hereditary.2018.720p.bluray.x264-geckos.mkv   MKV5.5GB
+#https://openload.co/f/cxYcTTYry-A/hereditary.2018.1080p.web.dl.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/Eg87e4DCvO8/Hereditary.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/p673QkMs-A4/Hereditary.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/-WDaGQEWX78/Hereditary.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/hVMOOikOXzY/Hereditary.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/4BYmDKGv1PQ/Hereditary_2018_720p_NEW_HDCAM_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/yo6qEXwj5Bs/Hereditary_2018_HDCAM_ENG_x264-SugarTits_SeeHD.mkv.mp4
+type=video
+name=Hereditary (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GFPuL14eXi66V96xBWY73Y9PfR.jpg
+date=2018-11-27
+URL=https://openload.co/f/XZMn98Hx7WA/Hereditary_%282018%29%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
 
 
 type=video
