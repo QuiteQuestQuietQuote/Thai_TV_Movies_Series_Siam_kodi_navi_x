@@ -1353,12 +1353,27 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-27
+date=2018-11-28
 URL=
 
 
 
 
+
+
+
+type=video
+name=Mission Kathmandu: The Adventures of Nelly & Simon (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/do1jfxL8liNVOfpsfrFZhAHjRTL.jpg
+date=2018-11-28
+URL=https://openload.co/f/UQeTFp3IW5w/mission.kathmandu.the.adventures.of.nelly.and.simon.2017.dubbed.1080p.bluray.x264-pussyfoot.mkv.mp4
+#https://openload.co/f/bsL5y2TAClI/mission.kathmandu.the.adventures.of.nelly.and.simon.2017.dubbed.1080p.bluray.x264-pussyfoot.mkv   MKV6.6GB
+
+type=video
+name=Megalodon (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ruqBOf0agpyK45N0IEvr7miIF8.jpg
+date=2018-11-28
+URL=https://openload.co/f/rN41p7J6Wg0/megalodon.2018.1080p.bluray.x264-getit.mkv.mp4
 
 type=video
 name=Laugh or Die (2018) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
@@ -7650,10 +7665,12 @@ URL=https://openload.co/f/zYob6IKdLuo/Halloween_%282018%29%E0%B8%AE%E0%B8%B2%E0%
 
 
 type=video
-name=Venom (2018) ENG HD1080P.X264.AAC.CHS_SeeHD
+name=Venom (2018) ENG 1080p.HDRip.X264-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
-date=2018-11-24
-URL=https://openload.co/f/EPW6kUKWMfw/Venom.2018.HD1080P.X264.AAC.CHS_SeeHD.mp4
+date=2018-11-28
+URL=https://openload.co/f/CTlIxILEHAA/Venom.2018.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/KGG_0lvQHvk/Venom.2018.1080p.HDRip.X264-EVO.mkv.mp4
+#https://openload.co/f/EPW6kUKWMfw/Venom.2018.HD1080P.X264.AAC.CHS_SeeHD.mp4
 #https://openload.co/f/Ai7_bSmiseY/Venom.2018.1080p.HDTC.x264-MiniBT.mp4
 #https://openload.co/f/a3E_UhJHLrQ/Venom_2018_V3_New_Src_HDTS_x264_AC3.mkv.mp4
 #https://openload.co/f/TTHAn4-3YFs/Venom.2018.1080p.HD-TS.X264-24HD.mkv.mp4
@@ -12245,7 +12262,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-26
+date=2018-11-28
 URL=
 
 
@@ -12257,7 +12274,12 @@ URL=
 
 
 
-
+type=video
+name=The Magnificent Ambersons (1942) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaZ7g6Noyw4B1W46GZF7ostbQCP.jpg
+date=2018-11-28
+URL=https://openload.co/f/d_chBWh-umI/The.Magnificent.Ambersons.1942.REMASTERED.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/o_DFfm4EXHc/the.magnificent.ambersons.1942.remastered.720p.bluray.hevc.x265.mkv.mp4
 
 type=video
 name=Escape from New York (1981) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
