@@ -56,19 +56,39 @@ thumb=https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw
 date=2018-01-09
 URL=http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
-
-
 type=video
 name=
-thumb=
+thumb=http://hochu.tv/images/nuart-tv.png
 date=2018-11-16
-URL=
+URL=http://134.19.150.42:81/udp/239.195.6.33:1234
 
 type=video
 name=
-thumb=
+thumb=http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg
 date=2018-07-13
-URL=
+URL=http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
+
+type=video
+name=
+thumb=https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png
+date=2018-11-26
+URL=http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)?start=LIVE&end=END
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -77,26 +97,6 @@ name=
 thumb=
 date=2018-11-26
 URL=
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -193,10 +193,12 @@ URL=https://openload.co/f/bMb92lrgQ9M/Bad.Times.at.the.El.Royale.2018.720p.HDCAM
 
 
 type=video
-name=Smallfoot (2018) ENG New_Src_TSRip-H264-AC3-Meow_SeeHD
+name=Smallfoot (2018) ENG DVDRip.XviD.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nKoB6wMVXfsYgRZK5lHZ5VMQ6J.jpg
-date=2018-10-04
-URL=https://openload.co/f/XINdJVekZzg/Smallfoot_2018_New_Src_TSRip-H264-AC3-Meow_SeeHD.mkv.mp4
+date=2018-11-29
+URL=https://openload.co/f/2UvhhRZPRgo/Smallfoot.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/64O6MzqCBIo/Smallfoot.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/XINdJVekZzg/Smallfoot_2018_New_Src_TSRip-H264-AC3-Meow_SeeHD.mkv.mp4
 #https://openload.co/f/iZDs99VvCC8/Smallfoot_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
 type=video
@@ -1353,7 +1355,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-28
+date=2018-11-29
 URL=
 
 
@@ -1361,6 +1363,26 @@ URL=
 
 
 
+
+
+type=video
+name=Destination Wedding (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioj2FMnMgD0eHgYfd31HtWOtBWU.jpg
+date=2018-11-29
+URL=https://openload.co/f/DGyAkOEyUys/destination.wedding.2018.1080p.bluray.x264-veto.mkv.mp4
+
+type=video
+name=Unhinged (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgniCEPwReRKkvDwgvDr1lnuLFg.jpg
+date=2018-11-29
+URL=https://openload.co/f/1UT8I5VjM7w/unhinged.2017.1080p.bluray.x264-getit.mkv.mp4
+
+type=video
+name=The Sun at Midnight (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/97y44kqinTnhOxCStfy3PUUtC0q.jpg
+date=2018-11-29
+URL=https://openload.co/f/y6FZlqoloo0/The.Sun.at.Midnight.2016.1080p.BlRy.x264-%5BYTS.M%5D.mp4
+#https://openload.co/f/l88HoU4Yv24/The.Sun.at.Midnight.2016.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Mission Kathmandu: The Adventures of Nelly & Simon (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
@@ -2764,16 +2786,7 @@ URL=https://openload.co/f/gKBMM2yiv_I/Pitbull.Last.Dog.2018.1080p.BluRay.x264-%5
 #https://www.rapidvideo.com/e/FUO7D7CNQ9   720
 #https://openload.co/embed/D6GxeXyRZuA/PITBULLLASTDOGBD72.Ganool.si.mkv
 
-type=video
-name=Ghost Stories (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7a0sai9k5jr7YJRP5S3YIDErMVY.jpg
-date=2018-08-28
-URL=https://uptobox.com/fyyfl512r4cc
-#https://www.rapidvideo.com/e/FUOR4WKF5M
-#https://openload.co/embed/_qPQFuOSGKQ/GHOSTSTORIES80.Ganool.si.mkv.mp4
-#https://openload.co/f/QiDlu7kD8Go/Ghost.Stories.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
-#https://openload.co/f/t-u_FGUu4lA/Ghost.Stories.2017.1080p.BluRay.X264-AMIABLE.mkv   MKV6.6GB
-#https://openload.co/f/bfRJJc7xwgo/Ghost.Stories.2017.720p.BluRay.X264-AMIABLE.mkv.mp4
+
 
 type=video
 name=Stephanie (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7445,11 +7458,7 @@ URL=https://www.blazefile.co/embed-abe72bvy91fy.html
 
 
 
-type=video
-name=The Sun at Midnight (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/97y44kqinTnhOxCStfy3PUUtC0q.jpg
-date=2018-11-23
-URL=https://openload.co/f/l88HoU4Yv24/The.Sun.at.Midnight.2016.720p.BluRay.H264.AAC-RARBG.mp4
+
 
 type=video
 name=House of the Rising Sons (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
@@ -7457,12 +7466,39 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6paaaifXjAPAvXdpKk3LxpNJ0I
 date=2018-11-26
 URL=https://openload.co/f/FLg7g2fua2A/House.of.The.Rising.Sons.2018.720p_BluRay_DD_5.1_x264-WiKi.Ganool.mkv.mp4
 
+type=video
+name=High Voltage (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/44TEBlWUctxG9K3T1niiLdBINSx.jpg
+date=2018-11-29
+URL=https://openload.co/f/NLuey_4a_wU/High.Voltage.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
 
+type=video
+name=Orphan Horse (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsUZtMUlijtPecDy3wZEfwqN7mN.jpg
+date=2018-11-29
+URL=https://www.blazefile.co/embed-l40caxgirjnc.html
+#https://uptobox.com/n0kltg0h3yom
+#https://fruithosts.net/embed/focsrpaqqpoodpqc/ORPHANHORSEBD72_Ganol_st_mkv_mp4
+#https://openload.co/f/g0thx2Bbx6c/Orphan_Horse_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+#https://openload.co/f/7Ouw3MKJsUY/Orphan.Horse.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
 
+type=video
+name=The Little Stranger (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/izPtQ2relqT5LWflL7x4JLTbLxy.jpg
+date=2018-11-29
+URL=https://openload.co/f/WlFsa9gsgw8/The.Little.Stranger.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
 
+type=video
+name=Pin Cushion (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTfa0IHWyFivMoLKIey9aduuT8d.jpg
+date=2018-11-29
+URL=https://openload.co/f/bHZh0EEtYMA/Pin.Cushion.2017.720p.BluRay.x264-GUACAMOLE.mkv.mp4
 
-
-
+type=video
+name=The Immortal Wars (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OnTNJ85OIMnzlQJTAyWivb6MeN.jpg
+date=2018-11-29
+URL=https://openload.co/f/0ULfSDWnbUE/The.Immortal.Wars.2018.720p.BluRay.DTS.x264-HDH.mkv.mp4
 
 
 
@@ -7478,7 +7514,7 @@ URL=https://openload.co/f/FLg7g2fua2A/House.of.The.Rising.Sons.2018.720p_BluRay_
 type=video
 name=
 thumb=
-date=2018-11-27
+date=2018-11-29
 URL=
 
 type=video
@@ -7649,10 +7685,12 @@ URL=https://openload.co/f/Nrdk2YpYEwk/Hunter_Killer_%282018%29%E0%B8%AA%E0%B8%87
 
 
 type=video
-name=Halloween (2018) ENG 720p_HDCAM_ENG-1XBET_SeeHD
+name=Halloween (2018) ENG HC.1080p.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNkDYKmrVem1J0aAfCnQlJOCKnT.jpg
-date=2018-10-20
-URL=https://openload.co/f/ixJajUSxXgY/Halloween_2018_720p_HDCAM_ENG-1XBET_SeeHD.mp4
+date=2018-11-29
+URL=https://openload.co/f/4YzDS_eeJSo/Halloween.2018.HC.1080p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/dpCxDuf-SmI/Halloween_2018_HC_1080p_HDRip_X264_AC3-EVO.mp4
+#https://openload.co/f/ixJajUSxXgY/Halloween_2018_720p_HDCAM_ENG-1XBET_SeeHD.mp4
 #https://openload.co/f/0oGS72PoxZk/Halloween.2018.720p.HDCAM.ENG-1XBET.mp4
 type=video
 name=Halloween (2018) THCAM
@@ -8105,18 +8143,6 @@ date=2018-11-04
 URL=https://openload.co/f/fUjA_Z_83jg/Been_So_Long_%282018%29%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%84%E0%B8%AB%E0%B8%99_%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%AB%E0%B8%A2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
-type=video
-name=The Scorpion King: Book of Souls (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSviUMejPmerwoQxdj7wR4Ky1Fd.jpg
-date=2018-10-28
-URL=https://uptobox.com/9c2oo11v7eq7
-#https://openload.co/embed/PrzhxaPzdXI/THESCORPIONKINGBOOKBD72.Ganol.st.mkv
-#https://openload.co/f/I9SJLoEMJlg/The_Scorpion_King%3A_Book_of_Souls_%282018%29720p_BluRay_x264-NODLABS.Ganool.mkv.mp4
-type=video
-name=The Scorpion King: Book of Souls (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSviUMejPmerwoQxdj7wR4Ky1Fd.jpg
-date=2018-10-30
-URL=https://openload.co/f/E5-4XA26BjE/The_Scorpion_King%3A_Book_of_Souls_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%AA%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99_%E0%B8%84%E0%B8%B4%E0%B8%87_5_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B8%B5%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -10463,29 +10489,7 @@ URL=https://openload.co/f/Ecq3clLaBMw/The_Predator_%282018%29%E0%B9%80%E0%B8%94%
 #https://openload.co/f/lid3G4MglmY/The_Predator_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%94%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=Kin (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg
-date=2018-11-11
-URL=https://uptobox.com/v2hwdxmiykac
-#https://www.rapidvideo.com/e/FX39TN08UJ
-#https://openload.co/embed/9v8p0pl6KTg/GHPKIN80.Ganol.st.mkv.mp4
-#https://openload.co/f/g2xz8hVYLaQ/Kin_%282018%291080p_BluRay_x264-BLOW.Ganool.mkv.mp4
-#https://uptobox.com/dfrm5fkdw1ez   720
-#https://www.rapidvideo.com/e/FX39NU53XB   720
-#https://openload.co/embed/vCiErrTSQPA/SHQKINBD72.Ganol.st.mkv.mp4
-#https://openload.co/f/FgLw85UALbc/Kin.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/Hk7_a4ES5NI/Kin_%282018%29720p_BluRay_x264-BLOW.Ganool.mkv.mp4
-#https://openload.co/f/aTzNLU8FTDM/Kin_1080pHD_SeeHD.mkv.mp4
-#https://openload.co/f/ugMV8Vk0VEs/Kin_2018_1080p_WEB_DL_DD5_1_H264_FGT.mkv.mp4
-#https://openload.co/f/gzmFS9oLl18/Kin_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/sRU_ZEJHE28/Kin_2018_720p_HDCAM_X264.mkv.mp4
-type=video
-name=Kin (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg
-date=2018-11-12
-URL=https://openload.co/f/FlrEAeVIcf8/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/6aVEUo3AkIQ/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
@@ -10554,33 +10558,6 @@ URL=https://openload.co/f/a8uGQjWj-7M/A.X.L._%282018%29%E0%B9%81%E0%B8%AD%E0%B8%
 
 
 
-type=video
-name=Searching (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
-date=2018-11-22
-URL=https://uptobox.com/zk9nvgofxwrx
-#https://www.rapidvideo.com/e/FXH2V96JES
-#https://openload.co/embed/kXt47x12vAA/GHPSEARCHING80.Ganol.st.mkv
-#https://openload.co/f/f-ZMdPlgC7I/Searching_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
-#https://openload.co/f/gLs-gFg3-tU/searching.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/6qsu_I0UsMk/Searching.2018.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/PqedKvzCcUA/Searching.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/anTkE8YGOIg/Searching.2018.720p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/mkAUPrhIu-o/Searching.2018.BDRip.x264-DRONES.mkv.mp4
-#https://openload.co/f/9FUs7SbrQxg/Searching.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/ok__eM7mAqo/Searching.2018.720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/HFjYe18Vi_M/Searching.2018.READNFO.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/8gMt1dKsYHo/Searching.2018.720p.HDRip.BLURRED.AC3.X264-CMRG.mkv.mp4
-#https://openload.co/f/AbXrs14E-Ew/Searching.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/QtZ0byRHk3k/Searching.2018.720p.TS.1XBET_SeeHD.mp4
-#https://openload.co/f/g6owtvE_D9s/Searching.2018.720p.TS.1XBET.mp4
-#https://openload.co/f/m4dVjOHEyDQ/Searching.2018.HDTS.XviD-AVID.avi.mp4
-type=video
-name=Searching (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
-date=2018-10-16
-URL=https://openload.co/f/6cSOArwGNnY/Searching_%282018%29%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%AB%E0%B8%B2....%E0%B8%AA%E0%B8%B9%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%A2%21%3F_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/yaZ8FoesSNg/Searching_%282018%29%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%AB%E0%B8%B2....%E0%B8%AA%E0%B8%B9%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%A2%21%3F_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -10733,31 +10710,6 @@ URL=https://streamango.com/f/ekkppdmoadnokoar/China_Salesman_2017_
 
 
 
-
-
-type=video
-name=The Strangers: Prey at Night (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo3gu56JKRwZ2TpKt8mPjXLQK23.jpg
-date=2018-06-14
-URL=https://openload.co/f/Ina6EQX7-ZU/The.Strangers.Prey.at.Night.2018.1080p.BR_SeeHD.mp4
-#https://www.blazefile.co/embed-lbugmruurewj.html
-#https://uptobox.com/aqywsd0nuc05
-#https://openload.co/embed/WX7lo0b9w18/GHPTHESTRANGERSPREYATIGHT80.Ganool.im.mkv
-#https://openload.co/f/Ina6EQX7-ZU/The.Strangers.Prey.at.Night.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/BSXMaM9IyQU/The.Strangers.Prey.at.Night.2018.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/JbO-zGeM36A/The_Strangers_Prey_at_Night_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
-#https://openload.co/f/lbVbF_0sJ_4/The_Strangers_Prey_at_Night_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
-#https://openload.co/f/njRKbU9O_xY/The_Strangers_Prey_at_Night_2018_720p_HD-TS_X264-Mr.HIVE_SeeHD.mkv.mp4
-#https://openload.co/f/CetPr_P4a0Y/The_Strangers_Prey_at_Night.2018.HD-TS.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/4gpOCH3Sy0k/The.Stranger.Prey.at.Night.2018.Pk.TS.E.mp4
-#https://www.blazefile.co/embed-lipbuhj56a7m.html   720
-#https://uptobox.com/c42hs672cr0t
-#https://openload.co/embed/xCcgTrh8f-8/SHQTHESTRANGERSNIGHTBD72.Ganool.im.mkv
-type=video
-name=The Strangers: Prey at Night (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo3gu56JKRwZ2TpKt8mPjXLQK23.jpg
-date=2018-05-30
-URL=https://streamango.com/f/nlcqdoenraatbppm/The_Strangers_Prey_at_Night_2018_
 
 
 
@@ -11168,10 +11120,118 @@ URL=
 
 
 
+type=video
+name=Searching (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
+date=2018-11-22
+URL=https://uptobox.com/zk9nvgofxwrx
+#https://www.rapidvideo.com/e/FXH2V96JES
+#https://openload.co/embed/kXt47x12vAA/GHPSEARCHING80.Ganol.st.mkv
+#https://openload.co/f/f-ZMdPlgC7I/Searching_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/gLs-gFg3-tU/searching.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/6qsu_I0UsMk/Searching.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/PqedKvzCcUA/Searching.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/anTkE8YGOIg/Searching.2018.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/mkAUPrhIu-o/Searching.2018.BDRip.x264-DRONES.mkv.mp4
+#https://openload.co/f/9FUs7SbrQxg/Searching.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/ok__eM7mAqo/Searching.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/HFjYe18Vi_M/Searching.2018.READNFO.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/8gMt1dKsYHo/Searching.2018.720p.HDRip.BLURRED.AC3.X264-CMRG.mkv.mp4
+#https://openload.co/f/AbXrs14E-Ew/Searching.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/QtZ0byRHk3k/Searching.2018.720p.TS.1XBET_SeeHD.mp4
+#https://openload.co/f/g6owtvE_D9s/Searching.2018.720p.TS.1XBET.mp4
+#https://openload.co/f/m4dVjOHEyDQ/Searching.2018.HDTS.XviD-AVID.avi.mp4
+type=video
+name=Searching (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
+date=2018-11-29
+URL=https://openload.co/f/ozRvzgATkR0/Searching_%282018%29%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%AB%E0%B8%B2....%E0%B8%AA%E0%B8%B9%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%A2%21%3F.mp4
+#https://openload.co/f/6cSOArwGNnY/Searching_%282018%29%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%AB%E0%B8%B2....%E0%B8%AA%E0%B8%B9%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%A2%21%3F_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/yaZ8FoesSNg/Searching_%282018%29%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%AB%E0%B8%B2....%E0%B8%AA%E0%B8%B9%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%A2%21%3F_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
+type=video
+name=Ghost Stories (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7a0sai9k5jr7YJRP5S3YIDErMVY.jpg
+date=2018-08-28
+URL=https://uptobox.com/fyyfl512r4cc
+#https://www.rapidvideo.com/e/FUOR4WKF5M
+#https://openload.co/embed/_qPQFuOSGKQ/GHOSTSTORIES80.Ganool.si.mkv.mp4
+#https://openload.co/f/QiDlu7kD8Go/Ghost.Stories.2017.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/t-u_FGUu4lA/Ghost.Stories.2017.1080p.BluRay.X264-AMIABLE.mkv   MKV6.6GB
+#https://openload.co/f/bfRJJc7xwgo/Ghost.Stories.2017.720p.BluRay.X264-AMIABLE.mkv.mp4
+type=video
+name=Ghost Stories (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7a0sai9k5jr7YJRP5S3YIDErMVY.jpg
+date=2018-11-29
+URL=https://openload.co/f/MLM3hlfuNMw/Ghost_Stories_%282018%29%E0%B9%82%E0%B8%81%E0%B8%AA%E0%B8%95%E0%B9%8C_%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88_%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B9%E0%B8%88%E0%B8%99%E0%B9%8C%E0%B8%9C%E0%B8%B5.mp4
 
 
+type=video
+name=The Scorpion King: Book of Souls (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSviUMejPmerwoQxdj7wR4Ky1Fd.jpg
+date=2018-10-28
+URL=https://uptobox.com/9c2oo11v7eq7
+#https://openload.co/embed/PrzhxaPzdXI/THESCORPIONKINGBOOKBD72.Ganol.st.mkv
+#https://openload.co/f/I9SJLoEMJlg/The_Scorpion_King%3A_Book_of_Souls_%282018%29720p_BluRay_x264-NODLABS.Ganool.mkv.mp4
+type=video
+name=The Scorpion King: Book of Souls (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSviUMejPmerwoQxdj7wR4Ky1Fd.jpg
+date=2018-11-29
+URL=https://openload.co/f/oHanviCbHS4/The_Scorpion_King%3A_Book_of_Souls_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%AA%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99_%E0%B8%84%E0%B8%B4%E0%B8%87_5%3A_%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B8%B5%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93.mp4
+#https://openload.co/f/E5-4XA26BjE/The_Scorpion_King%3A_Book_of_Souls_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%AA%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99_%E0%B8%84%E0%B8%B4%E0%B8%87_5_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B8%B5%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=The Strangers: Prey at Night (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo3gu56JKRwZ2TpKt8mPjXLQK23.jpg
+date=2018-06-14
+URL=https://openload.co/f/Ina6EQX7-ZU/The.Strangers.Prey.at.Night.2018.1080p.BR_SeeHD.mp4
+#https://www.blazefile.co/embed-lbugmruurewj.html
+#https://uptobox.com/aqywsd0nuc05
+#https://openload.co/embed/WX7lo0b9w18/GHPTHESTRANGERSPREYATIGHT80.Ganool.im.mkv
+#https://openload.co/f/Ina6EQX7-ZU/The.Strangers.Prey.at.Night.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/BSXMaM9IyQU/The.Strangers.Prey.at.Night.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/JbO-zGeM36A/The_Strangers_Prey_at_Night_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+#https://openload.co/f/lbVbF_0sJ_4/The_Strangers_Prey_at_Night_2018_720p_WEB-DL_X264_AC3-SeeHD.mkv.mp4
+#https://openload.co/f/njRKbU9O_xY/The_Strangers_Prey_at_Night_2018_720p_HD-TS_X264-Mr.HIVE_SeeHD.mkv.mp4
+#https://openload.co/f/CetPr_P4a0Y/The_Strangers_Prey_at_Night.2018.HD-TS.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/4gpOCH3Sy0k/The.Stranger.Prey.at.Night.2018.Pk.TS.E.mp4
+#https://www.blazefile.co/embed-lipbuhj56a7m.html   720
+#https://uptobox.com/c42hs672cr0t
+#https://openload.co/embed/xCcgTrh8f-8/SHQTHESTRANGERSNIGHTBD72.Ganool.im.mkv
+type=video
+name=The Strangers: Prey at Night (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo3gu56JKRwZ2TpKt8mPjXLQK23.jpg
+date=2018-11-29
+URL=https://openload.co/f/ZDVAqqejx0o/The_Strangers%3A_Prey_at_Night_%282018%29%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2_%E0%B8%82%E0%B8%AD%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%B4.mp4
+#https://streamango.com/f/nlcqdoenraatbppm/The_Strangers_Prey_at_Night_2018_
+
+
+type=video
+name=Kin (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg
+date=2018-11-11
+URL=https://uptobox.com/v2hwdxmiykac
+#https://www.rapidvideo.com/e/FX39TN08UJ
+#https://openload.co/embed/9v8p0pl6KTg/GHPKIN80.Ganol.st.mkv.mp4
+#https://openload.co/f/g2xz8hVYLaQ/Kin_%282018%291080p_BluRay_x264-BLOW.Ganool.mkv.mp4
+#https://uptobox.com/dfrm5fkdw1ez   720
+#https://www.rapidvideo.com/e/FX39NU53XB   720
+#https://openload.co/embed/vCiErrTSQPA/SHQKINBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/FgLw85UALbc/Kin.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Hk7_a4ES5NI/Kin_%282018%29720p_BluRay_x264-BLOW.Ganool.mkv.mp4
+#https://openload.co/f/aTzNLU8FTDM/Kin_1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/ugMV8Vk0VEs/Kin_2018_1080p_WEB_DL_DD5_1_H264_FGT.mkv.mp4
+#https://openload.co/f/gzmFS9oLl18/Kin_2018_720p_HDCAM_X264-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/sRU_ZEJHE28/Kin_2018_720p_HDCAM_X264.mkv.mp4
+type=video
+name=Kin (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg
+date=2018-11-29
+URL=https://openload.co/f/cocXTe2PYf0/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99.mp4
+#https://openload.co/f/FlrEAeVIcf8/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/6aVEUo3AkIQ/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -12262,7 +12322,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-28
+date=2018-11-29
 URL=
 
 
@@ -12272,7 +12332,11 @@ URL=
 
 
 
-
+type=video
+name=Queen of the Desert (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zCCgF60bEEMPLgFNdcBYousFrw.jpg
+date=2018-11-29
+URL=https://openload.co/f/Dh-Ysb1VhGQ/queen.of.the.desert.2015.1080p.bluray.x264-usury.mkv.mp4
 
 type=video
 name=The Magnificent Ambersons (1942) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]

@@ -2492,6 +2492,13 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp134
 http://134.19.150.42:81/udp/239.195.6.33:1234
 
+#EXTINF:-1,NUART 
+http://109.95.211.251:8080/udp/231.0.4.247:22000 
+#EXTINF:-1,GER_xxx
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+#EXTINF:-1,937 - Discovery Science (original) HD 
+http://212.164.19.110:1234/udp/225.54.43.35:5000 
+
 
 #EXTINF:-1,GONG_movie
 http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
