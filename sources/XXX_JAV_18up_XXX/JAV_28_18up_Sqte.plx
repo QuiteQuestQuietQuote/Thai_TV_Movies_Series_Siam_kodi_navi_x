@@ -42,27 +42,27 @@ URL=
 
 type=video
 name=
-thumb=https://www.xjav.to/wp-content/uploads/2016/12/9425.jpg
+thumb=https://javsin.com/wp-content/uploads/2018/11/d55371c2d6dca2d5fb6e4218fc546665-215x316.jpg
 date=2018-08-22
-URL=https://cdn2.xjav.to/s113/3675/046-hls/appid-9425/hls_720_.m3u8
+URL=https://cdn2.xjav.to/s114/thz2018/018-hls/appid-36012/hls_720_.m3u8
 
 type=video
 name=
-thumb=https://www.xjav.to/wp-content/uploads/2017/01/8817.jpg
+thumb=https://javsin.com/wp-content/uploads/2018/11/d55371c2d6dca2d5fb6e4218fc546665-215x316.jpg
 date=2018-08-22
-URL=https://cdn2.xjav.to/s113/3675/046-hls/appid-9415/hls_720_.m3u8
+URL=https://fck-c23.tnaflix.com/dev23/0/021/944/0021944077.mp4?key=9e5b980e14ab8d786638f903b346d7a0&src=tna&hd=1&domain=tna480p&seek=range
 
 type=video
 name=
-thumb=https://www.xjav.to/wp-content/uploads/2016/12/8795.jpg
+thumb=https://javsin.com/wp-content/uploads/2018/11/d55371c2d6dca2d5fb6e4218fc546665-215x316.jpg
 date=2018-08-22
-URL=https://cdn2.xjav.to/s113/4.101/3678/047-hls/appid-8795/hls_720_.m3u8
+URL=https://ww1.xjav.to/hls.php?id=kM85xa7
 
 type=video
 name=
-thumb=https://www.xjav.to/wp-content/uploads/2017/01/8817.jpg
+thumb=
 date=2018-08-22
-URL=https://scontent.fhan5-5.fna.fbcdn.net/v/t42.9040-2/10000000_200950043969109_3322495041288536064_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9oZCJ9&oh=fc3ff43812a9bfed9bc7c76211dd871b&oe=5B91A4B4&itag=22
+URL=
 
 
 type=video

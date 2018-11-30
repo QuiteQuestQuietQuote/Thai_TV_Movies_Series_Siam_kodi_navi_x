@@ -2438,8 +2438,7 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv__a00l
-http://86.57.182.131:8905/play/a00l
+
 #EXTINF:-1,mediacorp8
 http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_5.m3u8
 #EXTINF:-1,BesTV4K_CHN
@@ -2491,13 +2490,12 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp134
 http://134.19.150.42:81/udp/239.195.6.33:1234
-
-#EXTINF:-1,NUART 
-http://109.95.211.251:8080/udp/231.0.4.247:22000 
-#EXTINF:-1,GER_xxx
-http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-#EXTINF:-1,937 - Discovery Science (original) HD 
-http://212.164.19.110:1234/udp/225.54.43.35:5000 
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv__a00l
+http://86.57.182.131:8905/play/a00l
+#EXTINF:0,NUART TV HD
+http://79.133.109.199:999/udp/239.191.254.250:15285
+#EXTINF:0,NUART TV HD
+http://193.233.182.43:999/udp/239.191.254.250:15285
 
 
 #EXTINF:-1,GONG_movie

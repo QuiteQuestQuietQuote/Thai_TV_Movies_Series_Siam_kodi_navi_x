@@ -70,6 +70,81 @@ URL=https://fck-c20.tnaflix.com/dev20/0/021/544/0021544936.mp4?key=148b5362b9ca6
 
 
 
+type=video
+name=126xxxxxxxxxxxxxxxxxxxxA Delicious Wife (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/A-Delicious-Wife-2018.jpg
+date=2018-11-30
+URL=https://streamcherry.com/embed/skafctqmlqcetskc/
+
+type=video
+name=Sachon Nuna (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Sachon-Nuna-2017-Uncut.jpg
+date=2018-11-30
+URL=https://streamcherry.com/embed/frcnmcbcbkkecktm/
+
+type=video
+name=Mil Ae Bubukapul (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Mil-Ae-Bubukapul-2018-Uncut.jpg
+date=2018-11-30
+URL=https://streamcherry.com/embed/laqfoqtqlomoqfls/
+
+type=video
+name=Otto-ha Ikijigoku (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Otto-ha-Ikijigoku-2017.jpg
+date=2018-11-30
+URL=https://streamcherry.com/embed/pbsbktrpctmooanm/
+
+type=video
+name=Swapping Chingububuui Kwaelag 2 (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Swapping-Chingububuui-Kwaelag-2-2018-Uncut.jpg
+date=2018-11-30
+URL=https://streamcherry.com/embed/fqpcnfpsrqrnrbar/
+
+
+type=video
+name=Mother Friends 2 (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Mother-Friends-2-2018-Uncut.jpg
+date=2018-11-30
+URL=https://streamcherry.com/embed/sapqtlbefqeeadad/
+
+type=video
+name=Kaomisirihujyo 3 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Kaomisirihujyo-3-2017.jpg
+date=2018-11-30
+URL=https://streamcherry.com/embed/lsroaebqcncbmktq/
+
+type=video
+name=Niiduma Kuzushi (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Niiduma-Kuzushi-2017.jpg
+date=2018-11-30
+URL=https://streamcherry.com/embed/nttcoptqaksanabd/
+
+type=video
+name=Yeochin Eomma 2 (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Yeochin-Eomma-2-2018-Uncut.jpg
+date=2018-11-30
+URL=https://streamcherry.com/embed/ffdpakpbpnqcosaa/
+
+type=video
+name=Eommaui Yeon Ae (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Eommaui-Yeon-Ae-2018-Uncut.jpg
+date=2018-11-30
+URL=https://streamcherry.com/embed/bmtqrqlmmpdsdltb/
+
+
+type=video
+name=Easy Fucking, Easy Insurance Contract (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Easy-Fucking-Easy-Insurance-Contract-2017.jpg
+date=2018-11-30
+URL=https://streamcherry.com/embed/sfqmmpocslcfbtol/
+
+type=video
+name=Chaghan Yeodongsaeng (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Chaghan-Yeodongsaeng-2018-Uncut.jpg
+date=2018-11-30
+URL=https://streamcherry.com/embed/cdklfracrtrckado/
+
+
 
 
 
