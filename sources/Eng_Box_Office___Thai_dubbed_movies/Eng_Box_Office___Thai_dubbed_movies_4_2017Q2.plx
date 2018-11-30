@@ -100,8 +100,9 @@ URL=https://openload.co/f/MAZsalmtWLA/%7BMINI_Super-HQ%7D_Tomorrow.I.Will.Date.w
 type=video
 name=Sky on Fire (2016)
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hN064L5uBou7wdMbQaENNPcJxK5.jpg
-date=2017-06-22
-URL=https://openload.co/f/eZqP6Ya6eOU/%7BMINI_Super-HQ%7D_Sky.On.Fire.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+date=2018-11-30
+URL=https://openload.co/f/OdKBqOFcNyQ/Sky_on_Fire_%282016%29%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%88%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94.mp4
+#https://openload.co/f/eZqP6Ya6eOU/%7BMINI_Super-HQ%7D_Sky.On.Fire.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
 type=video
 name=Wind Blast (2010)

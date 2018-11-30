@@ -710,7 +710,7 @@ http://203.162.235.41:17819
 
 
 
-#EXTINF:-1,ALIBI_thflixCH
+#EXTINF:-1,ALIBI_thflixCHxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/14.m3u8
 #EXTINF:-1,ANIMALPLANEL
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/15.m3u8
@@ -905,7 +905,426 @@ http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/251.m3u8
 
 
 
-#EXTINF:-1 group-title="True Vision"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CN
+
+
+
+
+
+
+#EXTINF:-1,Cinemax 1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/670.m3u8
+#EXTINF:-1,Cinemax 2
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/671.m3u8
+#EXTINF:-1,Cinestar Action Thriller
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/3481.m3u8
+#EXTINF:-1,CINESTAR FANTASY
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/3482.m3u8
+#EXTINF:-1,Cinestar Premiere 1
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/434.m3u8
+#EXTINF:-1,Cinestar Premiere 2
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/435.m3u8
+#EXTINF:-1,Cinestar TV
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/457.m3u8
+#EXTINF:-1,FilmBox
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1053.m3u8
+#EXTINF:-1,HBO
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/436.m3u8
+#EXTINF:-1,HBO 2
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/437.m3u8
+#EXTINF:-1,HBO 3
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/821.m3u8
+#EXTINF:-1,Cinemacious 1
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/807.m3u8
+#EXTINF:-1,Cinemacious 2
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/808.m3u8
+#EXTINF:-1,Cinemacious 3
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/809.m3u8
+#EXTINF:-1,Cinemacious 4
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/810.m3u8
+#EXTINF:-1,Cinemacious 5
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/811.m3u8
+#EXTINF:-1,Cinemacious 6
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/812.m3u8
+#EXTINF:-1,Cinemacious 7
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/813.m3u8
+#EXTINF:-1,Cinemacious 8
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/814.m3u8
+#EXTINF:-1,AMC
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/3043.m3u8
+#EXTINF:-1,Animal Planet
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/453.m3u8
+#EXTINF:-1,AXN
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/551.m3u8
+#EXTINF:-1,Comedy Central
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/458.m3u8
+#EXTINF:-1,Crime Investigation
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/734.m3u8
+#EXTINF:-1,Discovery Channel
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/459.m3u8
+#EXTINF:-1,Discovery ID
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/416.m3u8
+#EXTINF:-1,Discovery Science
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/460.m3u8
+#EXTINF:-1,Disney Channel
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/452.m3u8
+#EXTINF:-1,FOX
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/544.m3u8
+#EXTINF:-1,FOX Crime
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/462.m3u8
+#EXTINF:-1,FOX Life
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/463.m3u8
+#EXTINF:-1,FOX Movies
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/662.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/998.m3u8
+#EXTINF:-1,Nat Geographic
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/999.m3u8
+#EXTINF:-1,National Geographic
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/466.m3u8
+#EXTINF:-1,National Geographic Wild
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/467.m3u8
+#EXTINF:-1,Travel Channel
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/609.m3u8
+#EXTINF:-1,Viasat History
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/471.m3u8
+#EXTINF:-1,Viasat Nature
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/472.m3u8
+#EXTINF:-1,Zdrava Hrvatska
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/3329.m3u8
+#EXTINF:-1,Zdrava Slovenija
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/3407.m3u8
+#EXTINF:-1,Zdrava Srbija
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/3406.m3u8
+#EXTINF:-1,24 Kitchen
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/448.m3u8
+#EXTINF:-1,Animal Planet
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/453.m3u8
+#EXTINF:-1,Nick Jr Croatia
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/607.m3u8
+#EXTINF:-1,Nickelodeon
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/615.m3u8
+#EXTINF:-1,Nickelodeon srb
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/468.m3u8
+#EXTINF:-1,Orlando Kids
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/856.m3u8
+#EXTINF:-1,Pink Super Kids
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/483.m3u8
+#EXTINF:-1,Pikaboo
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/6954.m3u8
+#EXTINF:-1,RTL Kockica
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/535.m3u8
+#EXTINF:-1,TV Ultra
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/752.m3u8
+#EXTINF:-1,MiniMax
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/4284.m3u8
+#EXTINF:-1,Baby TV
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/417.m3u8
+#EXTINF:-1,A1 Kids HD
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/3400.m3u8
+#EXTINF:-1,Hayatovci
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/473.m3u8
+#EXTINF:-1,Balkanika
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/399.m3u8
+#EXTINF:-1,BN Music
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/397.m3u8
+#EXTINF:-1,City TV
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1017.m3u8
+#EXTINF:-1,CMC
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/390.m3u8
+#EXTINF:-1,DM Sat
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/398.m3u8
+#EXTINF:-1,Hayat Folk
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/480.m3u8
+#EXTINF:-1,Hayat Music
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/590.m3u8
+#EXTINF:-1,Jugoton
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/370.m3u8
+#EXTINF:-1,KCN 1
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/402.m3u8
+#EXTINF:-1,KCN 2
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/403.m3u8
+#EXTINF:-1,NTV 101 Prijedor
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/653.m3u8
+#EXTINF:-1,Pink Music
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/574.m3u8
+#EXTINF:-1,Pink Music 2
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/575.m3u8
+#EXTINF:-1,Pink Music 3
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/576.m3u8
+#EXTINF:-1,Pink Music 4
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/577.m3u8
+#EXTINF:-1,Pink Music 5
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/578.m3u8
+#EXTINF:-1,RTS Kolo
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/3325.m3u8
+#EXTINF:-1,RTS Muzika
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/870.m3u8
+#EXTINF:-1,RTV HIT
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/748.m3u8
+#EXTINF:-1,RTV KISS
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/749.m3u8
+#EXTINF:-1,TV Banovina
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/725.m3u8
+#EXTINF:-1,TV Duga
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/405.m3u8
+#EXTINF:-1,TV Glas Drine
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/589.m3u8
+#EXTINF:-1,VH1 Adria
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1002.m3u8
+#EXTINF:-1,Vikom
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/720.m3u8
+#EXTINF:-1,Pink Bravo
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/428.m3u8
+#EXTINF:-1,A1 Balkan
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/649.m3u8
+#EXTINF:-1,A1 Bosnia
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/3413.m3u8
+#EXTINF:-1,A1 Cinema TV
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/3399.m3u8
+#EXTINF:-1,A1 Espana
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/692.m3u8
+#EXTINF:-1,A1 Exclusive
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/694.m3u8
+#EXTINF:-1,A1 Islam
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/689.m3u8
+#EXTINF:-1,A1 Shqiptare
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/739.m3u8
+#EXTINF:-1,A1 Srbija
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/4267.m3u8
+#EXTINF:-1,A1 World
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/693.m3u8
+#EXTINF:-1,Pink 2
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/423.m3u8
+#EXTINF:-1,Pink 3 Info
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/424.m3u8
+#EXTINF:-1,Pink Action
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/425.m3u8
+#EXTINF:-1,Pink Thriller
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/426.m3u8
+#EXTINF:-1,Pink CrimeMistery
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/427.m3u8
+#EXTINF:-1,Pink Classic
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/429.m3u8
+#EXTINF:-1,Pink Comedy
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/430.m3u8
+#EXTINF:-1,Pink Extra
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/431.m3u8
+#EXTINF:-1,Pink Family
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/432.m3u8
+#EXTINF:-1,Pink Fashion
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/433.m3u8
+#EXTINF:-1,Pink Film
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/491.m3u8
+#EXTINF:-1,Pink HA-HA
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/2227.m3u8
+#EXTINF:-1,Pink Horror
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/569.m3u8
+#EXTINF:-1,Pink Kuvar
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/481.m3u8
+#EXTINF:-1,Pink Live
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/570.m3u8
+#EXTINF:-1,Pink Movies
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/571.m3u8
+#EXTINF:-1,Pink Nostalgija
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/579.m3u8
+#EXTINF:-1,Pink Pedia
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/580.m3u8
+#EXTINF:-1,Pink Premium
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/492.m3u8
+#EXTINF:-1,Pink Romance
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/572.m3u8
+#EXTINF:-1,Pink Sci Fi & Fantasy
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/573.m3u8
+#EXTINF:-1,Pink Serije
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/583.m3u8
+#EXTINF:-1,Pink Show
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/482.m3u8
+#EXTINF:-1,Pink Soap
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/584.m3u8
+#EXTINF:-1,Pink Style
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/585.m3u8
+#EXTINF:-1,Pink Western
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/496.m3u8
+#EXTINF:-1,Pink World
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/586.m3u8
+#EXTINF:-1,Pink World Cinema
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/587.m3u8
+#EXTINF:-1,Pink Zabava
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/588.m3u8
+#EXTINF:-1,Pink Erotic
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/633.m3u8
+#EXTINF:-1,Pink Erotic 2
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/410.m3u8
+#EXTINF:-1,Pink Erotic 3
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/632.m3u8
+#EXTINF:-1,Pink Erotik 4
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/630.m3u8
+#EXTINF:-1,Balkan Erotic
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/412.m3u8
+#EXTINF:-1,Hustler HD
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/413.m3u8
+#EXTINF:-1,HRT 3
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/386.m3u8
+#EXTINF:-1,HRT 4
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/387.m3u8
+#EXTINF:-1,HRT 5
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/3417.m3u8
+#EXTINF:-1,JABUKA TV
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1146.m3u8
+#EXTINF:-1,Jadran TV
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/4299.m3u8
+#EXTINF:-1,Klasik TV
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/388.m3u8
+#EXTINF:-1,N1 Croatia
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1355.m3u8
+#EXTINF:-1,Osje?ka TV
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/722.m3u8
+#EXTINF:-1,RTL Crime Hrvatska
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/383.m3u8
+#EXTINF:-1,RTL Living Hrvatska
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/381.m3u8
+#EXTINF:-1,Slavonska
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/392.m3u8
+#EXTINF:-1,Vinkovacka tv
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/637.m3u8
+#EXTINF:-1,RTRS
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/407.m3u8
+#EXTINF:-1,RTRS Plus
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/474.m3u8
+#EXTINF:-1, RTS 1
+http://tv.trexiptv.com:8000/yohan/yohan/15688
+#EXTINF:-1,RTS 2
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/395.m3u8
+#EXTINF:-1,RTS 3
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1193.m3u8
+#EXTINF:-1,RTCG Sat
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/497.m3u8
+#EXTINF:-1,ATV
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/598.m3u8
+#EXTINF:-1,O2 TV
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/396.m3u8
+#EXTINF:-1,Prva CG
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1195.m3u8
+#EXTINF:-1,Prva MAX
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/746.m3u8
+#EXTINF:-1,Prva Plus
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/406.m3u8
+#EXTINF:-1,Prva World
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1194.m3u8
+#EXTINF:-1,RTV1
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/487.m3u8
+#EXTINF:-1,RTV2
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/488.m3u8
+#EXTINF:-1,Top TV
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/3398.m3u8
+#EXTINF:-1,TV 1
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/498.m3u8
+#EXTINF:-1,Alfa TV
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/365.m3u8
+#EXTINF:-1,Nova M
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/7078.m3u8
+#EXTINF:-1,Istok
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/636.m3u8
+#EXTINF:-1,MIR TV HD
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1040.m3u8
+#EXTINF:-1,NOVA RS
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/409.m3u8
+#EXTINF:-1,Novi Pazar
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/634.m3u8
+#EXTINF:-1,a1 TV CG
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1076.m3u8
+#EXTINF:-1,NTV 101 Prijedor
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/653.m3u8
+#EXTINF:-1,NTV Amna
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/4294.m3u8
+#EXTINF:-1,NTV IC Kakanj
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/499.m3u8
+#EXTINF:-1,OSM Pale
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1027.m3u8
+#EXTINF:-1,Palma Plus
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/869.m3u8
+#EXTINF:-1,Nova BH
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/7082.m3u8
+#EXTINF:-1,Posavina TV
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/401.m3u8
+#EXTINF:-1,RTCG 2
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1006.m3u8
+#EXTINF:-1,RTV Branicevo
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/7108.m3u8
+#EXTINF:-1,RTV CAZIN
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/6949.m3u8
+#EXTINF:-1,RTV USK
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/414.m3u8
+#EXTINF:-1,RTV Zenica
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/415.m3u8
+#EXTINF:-1,Sandzak TV
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/489.m3u8
+#EXTINF:-1,TV Srpska CG
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/517.m3u8
+#EXTINF:-1,Slon Extra
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/408.m3u8
+#EXTINF:-1,Smart TV Te?anj
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/536.m3u8
+#EXTINF:-1,TATABRADA TV
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1052.m3u8
+#EXTINF:-1,TV Bor
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/3486.m3u8
+#EXTINF:-1,TV Bugojno
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/709.m3u8
+#EXTINF:-1,TV Gorazde
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/6822.m3u8
+#EXTINF:-1,TV Kladovo
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/726.m3u8
+#EXTINF:-1,TV Mlava
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/2226.m3u8
+#EXTINF:-1,TV Petrovec
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/956.m3u8
+#EXTINF:-1,TV Sarajevo
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/451.m3u8
+#EXTINF:-1,TV Sezam
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/556.m3u8
+#EXTINF:-1,TV TK
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/442.m3u8
+#EXTINF:-1,TV Vijesti
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/606.m3u8
+#EXTINF:-1,TV Visoko
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1019.m3u8
+#EXTINF:-1,TV Vogo??a
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/727.m3u8
+#EXTINF:-1,TVCG1
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/747.m3u8
+#EXTINF:-1,Zivinice TV
+http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/685.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="True Vision"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CNxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://128.199.140.219:1935/HD2live-S3/cn.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="True Vision"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
@@ -939,7 +1358,7 @@ http://iheart-totiptv.better-than.tv:8080/iheart/7773f3cef0334a28ad248552ea63d9e
 
 
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_telekomtv
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_telekomtvxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1,cnex
 http://61.58.60.230:9000/live/257.m3u8
@@ -978,7 +1397,7 @@ http://jabber.divan.tv:8008/tv.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1 HD" tvg-logo="" group-title="Entertainment Channels",Sky1 HD - Sky1 HD
+#EXTINF:-1 tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1 HD" tvg-logo="" group-title="Entertainment Channels",Sky1 HD - Sky1 HDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://62.210.93.115:80/live?channelId=25&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1 tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1" tvg-logo="" group-title="Entertainment Channels",Sky1 - Sky1
 http://62.210.93.115:80/live?channelId=26&uid=4292&deviceMac=00:1a:79:3c:c0:9c
@@ -1038,7 +1457,7 @@ http://62.210.93.43:80/live?channelId=101&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 
 
 
-#EXTINF:-1  tvg-logo="http://samara11x11.ucoz.ru/music/NR1_4K_ULTRA_HD_TV.png",NR1 4K
+#EXTINF:-1  tvg-logo="http://samara11x11.ucoz.ru/music/NR1_4K_ULTRA_HD_TV.png",NR1 4Kxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784160_logo_djing_wild_edm.png",djing
 https://www.djing.com/tv/live.m3u8

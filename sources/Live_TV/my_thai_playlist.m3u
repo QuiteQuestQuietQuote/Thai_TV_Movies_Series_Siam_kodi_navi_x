@@ -2433,10 +2433,13 @@ https://www.djing.com/tv/hits.m3u8
 http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png",hit_tv
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+#EXTINF:-1,hitmusic
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/551035274344402946/ywxl9pq3_400x400.jpeg",100automoto
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-
+#EXTINF:-1,automotorsport
+http://unicast.bbxnet.sk/live/automotorsport-hd/playlist.m3u8
 
 
 #EXTINF:-1,mediacorp8
@@ -2473,8 +2476,8 @@ http://61.58.60.230:9000/live/257.m3u8
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
 
-
-
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Dorcel-TV.jpg",Dorcel TV HD _onlybest
+http://unicast.bbxnet.sk/live/dorcel-hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_VIP
 http://ibiza-tv.1919hdtv.com:8880/lfh/Stream2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_VIP

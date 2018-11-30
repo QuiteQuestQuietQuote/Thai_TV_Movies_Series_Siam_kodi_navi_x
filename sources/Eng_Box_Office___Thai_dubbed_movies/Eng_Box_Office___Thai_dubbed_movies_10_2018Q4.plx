@@ -1355,7 +1355,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-29
+date=2018-11-30
 URL=
 
 
@@ -1364,6 +1364,34 @@ URL=
 
 
 
+
+
+
+type=video
+name=The Lingering (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRgkdxuDpP1OugWVchRtqJJuznF.jpg
+date=2018-11-30
+URL=https://openload.co/f/wWotQ0rv8SI/The.Lingering.2018.CHINESE.1080p.BluRay.x264-WiKi.mkv.mp4
+
+type=video
+name=Pony and Birdboy (2018) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/j065CQvEsbMI25CS3xeBIMP3sqQ.jpg
+date=2018-11-30
+URL=https://openload.co/f/73l4qsIQGg4/Pony.And.Birdboy.2018.1080p.BluRay.x264-FiCO.mkv.mp4
+
+type=video
+name=Love, Cecil (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqUojWG4DiNx11ozZj012VRFp7z.jpg
+date=2018-11-30
+URL=https://openload.co/f/N7xtewwu9lY/Love.Cecil.2017.1080p.BluRay.x264.DTS-HDH.mkv.mp4
+#https://openload.co/f/SnioA4WCmSE/Love.Cecil.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Immortal Wars (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OnTNJ85OIMnzlQJTAyWivb6MeN.jpg
+date=2018-11-30
+URL=https://openload.co/f/59ZIwO51qkY/The.Immortal.Wars.2018.1080p.BluRay.x264.DTS-HDH.mkv.mp4
+#https://openload.co/f/0ULfSDWnbUE/The.Immortal.Wars.2018.720p.BluRay.DTS.x264-HDH.mkv.mp4
 
 type=video
 name=Destination Wedding (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1658,32 +1686,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYDeK5fbH3JYLbOOuwErunZv6u
 date=2018-11-13
 URL=https://openload.co/f/E0H8f_cOQVs/the.way.we.dance.2013.1080p.bluray.x264-bipolar.mkv.mp4
 
-type=video
-name=Crazy Rich Asians (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnTqi4nhIi1eesT5uYMmhEPGNih.jpg
-date=2018-11-13
-URL=https://uptobox.com/k41h2ug5abpm
-#https://www.rapidvideo.com/e/FX6I5HO2S0
-#https://openload.co/embed/LnOyt6LUJxU/GHCRAZYRICHASIAN80.Ganol.st.mkv
-#https://openload.co/f/uNLnuTOaOX0/Crazy_Rich_Asians_%282018%291080p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
-#https://openload.co/f/SQPBKoKDDp0/Crazy.Rich.Asians.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/GMKc2Z5D4IQ/Crazy.Rich.Asians.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/TMQNm3DvP_I/Crazy.Rich.Asians.2018.1080p.BluRay.x264.DD5.1-indoxxi.vip.mp4
-#https://uptobox.com/idituireetbw   720
-#https://www.rapidvideo.com/e/FX42O9MOZC   720
-#https://openload.co/embed/ZlBAc0rt1m8/SHQCRAZYRICHASIANSBD72.Ganol.st.mkv
-#https://openload.co/f/J4W0VBaY27w/Crazy_Rich_Asians_%282018%29720p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
-#https://openload.co/f/-mRds1sLizU/Crazy.Rich.Asians.2018.720p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/oIU0rdXJYWI/crazy.rich.asians.2018.720p.bluray.hevc.x265.mkv.mp4
-#https://openload.co/f/jk7YfyndNvg/Crazy.Rich.Asians.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/A1Bjb52CM4U/Crazy.Rich.Asians.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
-#https://openload.co/f/PUakpqQA_p0/Crazy.Rich.Asians.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/ECD5jP5b_2Y/Crazy.Rich.Asians.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/SV38rv5nr70/Crazy_Rich_Asians_2018_NEW_1080p_HDCAM_HQ-K1NGPU_SeeHD.mkv.mp4
-#https://openload.co/f/ah3SoVM7hjM/Crazy_Rich_Asians_2018_NEW_720p_TS-1XBET_SeeHD.mp4
-#https://openload.co/f/tvN8COoFZYQ/Crazy.Rich.Asians.2018.HDTS.XviD-AVID.avi.mp4
-#https://openload.co/f/DxmbGuLNA7M/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
-#https://openload.co/f/g6uOlCEZREc/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
+
 
 type=video
 name=Raazi (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
@@ -2516,13 +2519,7 @@ URL=https://openload.co/f/j9P_UhnImtg/Flora.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/Nxd0UC5k2kU/Flora.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/2I5QYo9ONiE/flora.2017.720p.bluray.hevc.x265.mkv.mp4
 
-type=video
-name=Hearts Beat Loud (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1wKptD8iXJbtAUSz9OlXS3q4Co.jpg
-date=2018-09-24
-URL=https://openload.co/f/juEopqv3Mnw/Hearts.Beat.Loud.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/2x4yfFiTIOA/Hearts.Beat.Loud.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/upAV_Dn2G_4/Hearts.Beat.Loud.2018.720p.BR_SeeHD.mp4
+
 
 type=video
 name=Detective Chinatown 2 (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
@@ -7495,12 +7492,16 @@ date=2018-11-29
 URL=https://openload.co/f/bHZh0EEtYMA/Pin.Cushion.2017.720p.BluRay.x264-GUACAMOLE.mkv.mp4
 
 type=video
-name=The Immortal Wars (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OnTNJ85OIMnzlQJTAyWivb6MeN.jpg
-date=2018-11-29
-URL=https://openload.co/f/0ULfSDWnbUE/The.Immortal.Wars.2018.720p.BluRay.DTS.x264-HDH.mkv.mp4
+name=Support the Girls (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXfwrs8g3pY4mmaO5WDAowWLqBg.jpg
+date=2018-11-30
+URL=https://openload.co/f/GWDE-GcHLek/Support.the.Girls.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
 
-
+type=video
+name=Maquia: When the Promised Flower Blooms (2018) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcnOKCPleLOTWPPgYI0YT1MOQwR.jpg
+date=2018-11-30
+URL=https://openload.co/f/kKe4XpGvj30/Maquia.When.the.Promised.Flower.Blooms.2018.JAPANESE.720p.BluRay.H264.AAC-VXT.mp4
 
 
 
@@ -7514,7 +7515,7 @@ URL=https://openload.co/f/0ULfSDWnbUE/The.Immortal.Wars.2018.720p.BluRay.DTS.x26
 type=video
 name=
 thumb=
-date=2018-11-29
+date=2018-11-30
 URL=
 
 type=video
@@ -7726,24 +7727,7 @@ URL=https://openload.co/f/mDgvTf333Zw/Venom_%282018%29%E0%B9%80%E0%B8%A7%E0%B8%9
 #https://openload.co/f/8HjWNItz084/Venom_%282018%29%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A1_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=The House with a Clock in Its Walls (2018) ENG 1080pHD_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
-date=2018-11-27
-URL=https://openload.co/f/ZOURk9yzRu0/The_House_With_a_Clock_In_Its_Walls_1080pHD_SeeHD.mkv.mp4
-#https://openload.co/f/-5AMq1L5PfA/The_House_with_a_Clock_in_Its_Walls_2018_1080p_WEB_DL_DD5_1_H264_FGT.mkv.mp4
-#https://openload.co/f/bbsEl9Bd23U/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.1XBET.mp4
-#https://openload.co/f/TeEYnby1KLk/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.mp4
-#https://openload.co/f/wEeCU8Vy4Vk/housewithclockinitswall.HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/5VmvSCnLG3U/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/U1vqLDgenNU/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET.mp4-536p.mp4
-#https://openload.co/f/WJCwV2VC7Y8/The_House_with_a_Clock_in_Its_Walls_2018_HDCAM_NO_WATERMARK_Layar.mp4
-#https://openload.co/f/qsPshoGW8PY/The.House.with.a.Clock.in.its.Walls.2018.HDCAM.XviD-AVID.avi.mp4
-type=video
-name=The House with a Clock in Its Walls (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
-date=2018-10-14
-URL=https://openload.co/f/tqS3UUEV60s/The_House_with_a_Clock_in_Its_Walls_%282018%29%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
@@ -7833,16 +7817,7 @@ URL=https://openload.co/f/NzNS1jlT1t4/Hell_Fest_%282018%29%E0%B8%AA%E0%B8%A7%E0%
 
 
 
-type=video
-name=Animal World (2018) CHN ENG-CH.720p.HDTC.X264-NeNi
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxc25B05Gq4CbCoWbyTFf9iF0wn.jpg
-date=2018-07-31
-URL=https://openload.co/f/yyPHW_9-rSA/Animal.World.2018.ENG-CH.720p.HDTC.X264-NeNi.mkv.mp4
-type=video
-name=Animal World (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxc25B05Gq4CbCoWbyTFf9iF0wn.jpg
-date=2018-07-31
-URL=https://streamango.com/f/kkafqdmfscfdklql/Animal_World_2018_
+
 
 
 
@@ -7955,6 +7930,54 @@ URL=
 
 
 
+
+
+
+type=video
+name=Crazy Rich Asians (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnTqi4nhIi1eesT5uYMmhEPGNih.jpg
+date=2018-11-13
+URL=https://uptobox.com/k41h2ug5abpm
+#https://www.rapidvideo.com/e/FX6I5HO2S0
+#https://openload.co/embed/LnOyt6LUJxU/GHCRAZYRICHASIAN80.Ganol.st.mkv
+#https://openload.co/f/uNLnuTOaOX0/Crazy_Rich_Asians_%282018%291080p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
+#https://openload.co/f/SQPBKoKDDp0/Crazy.Rich.Asians.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/GMKc2Z5D4IQ/Crazy.Rich.Asians.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/TMQNm3DvP_I/Crazy.Rich.Asians.2018.1080p.BluRay.x264.DD5.1-indoxxi.vip.mp4
+#https://uptobox.com/idituireetbw   720
+#https://www.rapidvideo.com/e/FX42O9MOZC   720
+#https://openload.co/embed/ZlBAc0rt1m8/SHQCRAZYRICHASIANSBD72.Ganol.st.mkv
+#https://openload.co/f/J4W0VBaY27w/Crazy_Rich_Asians_%282018%29720p_BluRay_x264_DTS-HDC.Ganool.mkv.mp4
+#https://openload.co/f/-mRds1sLizU/Crazy.Rich.Asians.2018.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/oIU0rdXJYWI/crazy.rich.asians.2018.720p.bluray.hevc.x265.mkv.mp4
+#https://openload.co/f/jk7YfyndNvg/Crazy.Rich.Asians.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/A1Bjb52CM4U/Crazy.Rich.Asians.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/PUakpqQA_p0/Crazy.Rich.Asians.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/ECD5jP5b_2Y/Crazy.Rich.Asians.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/SV38rv5nr70/Crazy_Rich_Asians_2018_NEW_1080p_HDCAM_HQ-K1NGPU_SeeHD.mkv.mp4
+#https://openload.co/f/ah3SoVM7hjM/Crazy_Rich_Asians_2018_NEW_720p_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/tvN8COoFZYQ/Crazy.Rich.Asians.2018.HDTS.XviD-AVID.avi.mp4
+#https://openload.co/f/DxmbGuLNA7M/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
+#https://openload.co/f/g6uOlCEZREc/Crazy.Rich.Asians.2018.ENG.CAM.1XBET_SeeHD.mp4
+type=video
+name=Crazy Rich Asians (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnTqi4nhIi1eesT5uYMmhEPGNih.jpg
+date=2018-11-30
+URL=https://openload.co/f/u1e7x2sHEmI/Crazy_Rich_Asians_%282018%29%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%8B%E0%B8%B5%E0%B9%88_%E0%B8%A3%E0%B8%B4%E0%B8%8A_%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B9%8C_%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B9%82%E0%B8%9A%E0%B8%95%E0%B8%B1%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Hearts Beat Loud (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1wKptD8iXJbtAUSz9OlXS3q4Co.jpg
+date=2018-09-24
+URL=https://openload.co/f/juEopqv3Mnw/Hearts.Beat.Loud.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/2x4yfFiTIOA/Hearts.Beat.Loud.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/upAV_Dn2G_4/Hearts.Beat.Loud.2018.720p.BR_SeeHD.mp4
+type=video
+name=Hearts Beat Loud (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1wKptD8iXJbtAUSz9OlXS3q4Co.jpg
+date=2018-11-30
+URL=https://openload.co/f/Pv3-C_T5cl8/Hearts_Beat_Loud_%282018%29%E0%B8%81%E0%B8%B9%E0%B9%88%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B0%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -10410,6 +10433,39 @@ URL=
 
 
 
+type=video
+name=Animal World (2018) CHN ENG-CH.720p.HDTC.X264-NeNi
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxc25B05Gq4CbCoWbyTFf9iF0wn.jpg
+date=2018-07-31
+URL=https://openload.co/f/yyPHW_9-rSA/Animal.World.2018.ENG-CH.720p.HDTC.X264-NeNi.mkv.mp4
+type=video
+name=Animal World (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxc25B05Gq4CbCoWbyTFf9iF0wn.jpg
+date=2018-11-30
+URL=https://openload.co/f/yHnvNOtzaro/Animal_World_%282018%29%E0%B9%80%E0%B8%88%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B9%84%E0%B8%84_%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%81%E0%B8%B9%E0%B9%89%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://streamango.com/f/kkafqdmfscfdklql/Animal_World_2018_
+
+
+type=video
+name=The House with a Clock in Its Walls (2018) ENG 1080pHD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
+date=2018-11-27
+URL=https://openload.co/f/ZOURk9yzRu0/The_House_With_a_Clock_In_Its_Walls_1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/-5AMq1L5PfA/The_House_with_a_Clock_in_Its_Walls_2018_1080p_WEB_DL_DD5_1_H264_FGT.mkv.mp4
+#https://openload.co/f/bbsEl9Bd23U/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.1XBET.mp4
+#https://openload.co/f/TeEYnby1KLk/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.mp4
+#https://openload.co/f/wEeCU8Vy4Vk/housewithclockinitswall.HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/5VmvSCnLG3U/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/U1vqLDgenNU/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET.mp4-536p.mp4
+#https://openload.co/f/WJCwV2VC7Y8/The_House_with_a_Clock_in_Its_Walls_2018_HDCAM_NO_WATERMARK_Layar.mp4
+#https://openload.co/f/qsPshoGW8PY/The.House.with.a.Clock.in.its.Walls.2018.HDCAM.XviD-AVID.avi.mp4
+type=video
+name=The House with a Clock in Its Walls (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
+date=2018-11-30
+URL=https://openload.co/f/tx0niutUSFM/The_House_with_a_Clock_in_Its_Walls_%282018%29%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/tqS3UUEV60s/The_House_with_a_Clock_in_Its_Walls_%282018%29%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 type=video
 name=Rampant (2018) THCAM SOUND
@@ -10568,6 +10624,7 @@ URL=https://uptobox.com/jn6r9yhul137
 #https://www.rapidvideo.com/e/FX0P8NSZHH
 #https://openload.co/embed/pvEKc2txN8g/Europe.Raiders.2018.BluRay.1080p.5.1CH.x264.Ganol.st.mkv.mp4
 #https://openload.co/f/NeJY6y3r06E/Europe.Raiders.2018.1080p_BluRay_AC3_x264-WiKi.Ganool.mkv.mp4
+#https://openload.co/f/B35PZsw5uos/Europe.Raiders.2018.1080p.BluRay.x264-WiKi.mkv.mp4
 #https://uptobox.com/vx58e386e9h9   720
 #https://www.rapidvideo.com/e/FWZWL70V4V   720
 #https://openload.co/embed/Vfde1xsUXkE/Europe.Raiders.2018.BluRay.720p.750MB.Ganol.st.mkv.mp4
@@ -11028,23 +11085,7 @@ rating=-1.00
 description=In this Pokémon adventure, a mysterious force binds Ash to the Mythical Pokémon Volcanion when it falls from the sky. Volcanion can�??t get away, and Ash is dragged along as it continues on its mission. They arrive in a city of cogs and gears, where a corrupt minister has stolen the ultimate invention: the Artificial Pokémon Magearna, created 500 years ago. The minister plans to use Magearna�??s mysterious power to take control of the mechanical kingdom. Can Ash and Volcanion work together to rescue Magearna? One of the greatest battles in Pokémon history is about to unfold!/description
 
 
-type=video
-name=Along with the Gods: The Two Worlds (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ2djaODo2IC4kBCvNvfTwV8ZpH.jpg
-date=2018-04-02
-URL=https://www.blazefile.co/embed-k6ccfepfv1a7.html
-#https://uptobox.com/bb3dgg6yahi3
-#https://www.blazefile.co/embed-ep6yte1h39mc.html   720
-#https://uptobox.com/n8j2hk3vw11i   720
-#https://openload.co/f/f4e0Q_mErJ0/along.with.the.gods.the.two.worlds.2017.limited.720p.bluray.x264-usury.mkv.mp4
-#https://openload.co/f/cPbb0SCvzYc/Along.with.the.Gods.The.Two.Worlds.2017.720p.BluRay.x264.DD5.1-MT.mkv.mp4
-#https://openload.co/f/eSh-tToMcZE/Along.With.the.Gods.The.Two.Worlds.2017.1080p.FHDRip.H264.AAC.NonDRM.mp4
-type=video
-name=Along with the Gods: The Two Worlds (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ2djaODo2IC4kBCvNvfTwV8ZpH.jpg
-date=2018-02-17
-URL=https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds_2017_7_
-#https://streamango.com/f/sdrrrroqtqkkfsmc/Along_with_the_Gods_The_Two_Worlds_2017_7_
+
 
 
 
@@ -11100,7 +11141,7 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=
 thumb=
-date=2018-11-26
+date=2018-11-30
 URL=
 
 
@@ -11117,7 +11158,11 @@ URL=
 
 
 
-
+type=video
+name=
+thumb=
+date=2018-11-30
+URL=
 
 
 type=video
@@ -11232,6 +11277,128 @@ date=2018-11-29
 URL=https://openload.co/f/cocXTe2PYf0/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99.mp4
 #https://openload.co/f/FlrEAeVIcf8/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://openload.co/f/6aVEUo3AkIQ/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#55---2018-11-30
+
+
+
+
+
+
+
+
+
+type=video
+name=Along with the Gods: The Two Worlds (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ2djaODo2IC4kBCvNvfTwV8ZpH.jpg
+date=2018-04-02
+URL=https://www.blazefile.co/embed-k6ccfepfv1a7.html
+#https://uptobox.com/bb3dgg6yahi3
+#https://www.blazefile.co/embed-ep6yte1h39mc.html   720
+#https://uptobox.com/n8j2hk3vw11i   720
+#https://openload.co/f/f4e0Q_mErJ0/along.with.the.gods.the.two.worlds.2017.limited.720p.bluray.x264-usury.mkv.mp4
+#https://openload.co/f/cPbb0SCvzYc/Along.with.the.Gods.The.Two.Worlds.2017.720p.BluRay.x264.DD5.1-MT.mkv.mp4
+#https://openload.co/f/eSh-tToMcZE/Along.With.the.Gods.The.Two.Worlds.2017.1080p.FHDRip.H264.AAC.NonDRM.mp4
+type=video
+name=Along with the Gods: The Two Worlds (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ2djaODo2IC4kBCvNvfTwV8ZpH.jpg
+date=2018-11-30
+URL=https://openload.co/f/XekrU6bfvEM/Along_with_the_Gods%3A_The_Two_Worlds_%282017%29%E0%B8%9D%E0%B9%88%E0%B8%B2_7_%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2.mp4
+#https://streamango.com/f/nsflrmnbkfmcfrkc/Along_with_the_Gods_The_Two_Worlds_2017_7_
+#https://streamango.com/f/sdrrrroqtqkkfsmc/Along_with_the_Gods_The_Two_Worlds_2017_7_
+
+
+type=video
+name=Ant-Man and the Wasp (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv1AWImgx386ULjcf62VYaW8zSt.jpg
+date=2018-10-04
+URL=https://uptobox.com/8tv0cqe121op
+#https://www.rapidvideo.com/e/FVWNII20YB
+#https://openload.co/embed/Ljk9QuaDP5U/GHPANTMANWASP80.Ganol.st.mkv
+#https://openload.co/f/9zzOojgRrI4/ant-man.and.the.wasp.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/6MkisfTAU0U/Ant-Man.and.the.Wasp.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/0_CD-5T0WjE/Ant-Man.and.the.Wasp.2018.1080p.BluRay.x264-SPARKS.mkv.mp4.mp4
+#https://openload.co/f/PD99IGZsj7s/Ant-Man.and.the.Wasp.2018.1080p.BluRay.x264-SPARKS.mkv.mp4.mp4
+#https://openload.co/f/_seppis8hqc/Ant-Man.and.the.Wasp.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/LOwb1G7Ivj0/Ant-Man.And.The.Wasp.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/2Lo4gJG-hpc/Ant-Man_and_the_Wasp_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
+#https://openload.co/f/hGe8XZiY6pg/Ant-Man.and.the.Wasp.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/fuQSiyTZ7c0/Ant-Man.and.the.Wasp.2018.720p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/E66pIlUTJN4/Ant.Man.and.the.Wasp.2018.1080p.WEB-DL.x264.6CH.MkvCage.ws.mkv.mp4
+#https://openload.co/f/CSm0t_-HERY/Ant.Man.and.the.Wasp.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/s4AeoMPRc1o/AntmanWasp720Phd_SeeHD.mkv.mp4
+#https://openload.co/f/Rp_sTMYPSko/Ant-man_And_The_Wasp_2018_720p_HDRip_SeeHD.mkv.mp4
+#https://openload.co/f/z_HwaxMLBMY/Ant-Man.and.The.Wasp.2018.NEW.RESYNCED.HDTC.XviD.B4ND1T69_SeeHD.avi.mp4
+#https://openload.co/f/xmTtoov4gpQ/Ant-Man.and.The.Wasp.2018.NEW.720p.HD-TC.V2.1XBET.mp4
+#https://openload.co/f/PKlB9UmJWxc/Ant-Man.and.the.Wasp.2018.HDCAM.V.2.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/85MaoyjQMqU/AntMan.and.The.Wasp.2018.PROPER.HDTC.XviD-SHiVA.avi.mp4
+#https://openload.co/f/x7G-qvqJ1Vg/Ant-Man_and_the_Wasp.2018.HDTC.1080P.X264.AAC.CHS_SeeHD.mp4
+#https://openload.co/f/AJOQydE4Mk8/Antman_and_the_Wasp_2018.TS.mp4
+#https://openload.co/f/I0uTwZVoRMY/AntMan_and_the_Wasp_SeeHD.mkv.mp4
+#https://openload.co/f/7VWHw2S6ccM/AntMan_and_the_Wasp_2018_720p_NEW_HDCAM_X264_SeeHD.mkv.mp4
+#https://openload.co/f/snZBHMSAjuc/Ant-Man_and_The_Wasp_2018_NEW_720p_HDCAM_x264_AC3-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/kpCyHOUMNk0/Ant-Man_and_The_Wasp_%282018%29_NEW-HDCAM_English_SpaceMov.mp4
+#https://openload.co/f/HICHLEcJ2n8/Ant-Man.and.The.Wasp.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/APWBCrzytdI/Ant-Man_and_the_Wasp_2018_RUS.TS_480p_x264.mkv.mp4
+type=video
+name=Ant-Man and the Wasp (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv1AWImgx386ULjcf62VYaW8zSt.jpg
+date=2018-11-30
+URL=https://openload.co/f/dzotIoeBPyM/Ant-Man_and_the_Wasp_%282018%29%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%81%E0%B8%A5%E0%B8%B0_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A7%E0%B8%AD%E0%B8%AA%E0%B8%9E%E0%B9%8C.mp4
+#https://openload.co/f/RbH5oyv5bo4/Ant-Man_and_the_Wasp_%282018%29%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%81%E0%B8%A5%E0%B8%B0_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A7%E0%B8%AD%E0%B8%AA%E0%B8%9E%E0%B9%8C.mp4
+#https://openload.co/f/ClpbIwcsbvE/Ant-Man_and_the_Wasp_%282018%29%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%81%E0%B8%A5%E0%B8%B0_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A7%E0%B8%AD%E0%B8%AA%E0%B8%9E%E0%B9%8C.mp4
+#https://streamango.com/f/dordledefetessal/Ant-Man_and_the_Wasp_2018_-_
+
+type=video
+name=Batman: Assault on Arkham (2014) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYOoqnGuiUUNE4gccO0JJigfACP.jpg
+date=2018-11-30
+URL=https://openload.co/f/VjeEAZjco9o/Batman__Assault_on_Arkham_%282014%29%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%84%E0%B9%81%E0%B8%84%E0%B8%A1.mp4
+#https://openload.co/f/P3_etkEMmF8/Batman%3A_Assault_on_Arkham_%282014%29%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%84%E0%B9%81%E0%B8%84%E0%B8%A1.mp4
+
+type=video
+name=Wheeler (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v33vDxkRPFFyg1f3znSHAo6NWod.jpg
+date=2018-11-30
+URL=https://openload.co/f/hGvsfn2xxlE/Wheeler_%282017%29%E0%B8%84%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%9D%E0%B8%B1%E0%B8%99.mp4
+#https://openload.co/f/RqxpCWLLysY/Wheeler_%282017%29%E0%B8%84%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%9D%E0%B8%B1%E0%B8%99.mp4
+
+
 
 
 type=video
@@ -12081,45 +12248,7 @@ URL=https://openload.co/f/ePR4gBOLmaQ/Sicario%3A_Day_of_the_Soldado_%282018%29%E
 #https://streamango.com/f/kpktebfparrekqcd/Sicario_Day_of_the_Soldado_2018_2_
 
 
-type=video
-name=Ant-Man and the Wasp (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv1AWImgx386ULjcf62VYaW8zSt.jpg
-date=2018-10-04
-URL=https://uptobox.com/8tv0cqe121op
-#https://www.rapidvideo.com/e/FVWNII20YB
-#https://openload.co/embed/Ljk9QuaDP5U/GHPANTMANWASP80.Ganol.st.mkv
-#https://openload.co/f/9zzOojgRrI4/ant-man.and.the.wasp.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
-#https://openload.co/f/6MkisfTAU0U/Ant-Man.and.the.Wasp.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/0_CD-5T0WjE/Ant-Man.and.the.Wasp.2018.1080p.BluRay.x264-SPARKS.mkv.mp4.mp4
-#https://openload.co/f/PD99IGZsj7s/Ant-Man.and.the.Wasp.2018.1080p.BluRay.x264-SPARKS.mkv.mp4.mp4
-#https://openload.co/f/_seppis8hqc/Ant-Man.and.the.Wasp.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/LOwb1G7Ivj0/Ant-Man.And.The.Wasp.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/2Lo4gJG-hpc/Ant-Man_and_the_Wasp_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
-#https://openload.co/f/hGe8XZiY6pg/Ant-Man.and.the.Wasp.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/fuQSiyTZ7c0/Ant-Man.and.the.Wasp.2018.720p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/E66pIlUTJN4/Ant.Man.and.the.Wasp.2018.1080p.WEB-DL.x264.6CH.MkvCage.ws.mkv.mp4
-#https://openload.co/f/CSm0t_-HERY/Ant.Man.and.the.Wasp.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/s4AeoMPRc1o/AntmanWasp720Phd_SeeHD.mkv.mp4
-#https://openload.co/f/Rp_sTMYPSko/Ant-man_And_The_Wasp_2018_720p_HDRip_SeeHD.mkv.mp4
-#https://openload.co/f/z_HwaxMLBMY/Ant-Man.and.The.Wasp.2018.NEW.RESYNCED.HDTC.XviD.B4ND1T69_SeeHD.avi.mp4
-#https://openload.co/f/xmTtoov4gpQ/Ant-Man.and.The.Wasp.2018.NEW.720p.HD-TC.V2.1XBET.mp4
-#https://openload.co/f/PKlB9UmJWxc/Ant-Man.and.the.Wasp.2018.HDCAM.V.2.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/85MaoyjQMqU/AntMan.and.The.Wasp.2018.PROPER.HDTC.XviD-SHiVA.avi.mp4
-#https://openload.co/f/x7G-qvqJ1Vg/Ant-Man_and_the_Wasp.2018.HDTC.1080P.X264.AAC.CHS_SeeHD.mp4
-#https://openload.co/f/AJOQydE4Mk8/Antman_and_the_Wasp_2018.TS.mp4
-#https://openload.co/f/I0uTwZVoRMY/AntMan_and_the_Wasp_SeeHD.mkv.mp4
-#https://openload.co/f/7VWHw2S6ccM/AntMan_and_the_Wasp_2018_720p_NEW_HDCAM_X264_SeeHD.mkv.mp4
-#https://openload.co/f/snZBHMSAjuc/Ant-Man_and_The_Wasp_2018_NEW_720p_HDCAM_x264_AC3-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/kpCyHOUMNk0/Ant-Man_and_The_Wasp_%282018%29_NEW-HDCAM_English_SpaceMov.mp4
-#https://openload.co/f/HICHLEcJ2n8/Ant-Man.and.The.Wasp.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/APWBCrzytdI/Ant-Man_and_the_Wasp_2018_RUS.TS_480p_x264.mkv.mp4
-type=video
-name=Ant-Man and the Wasp (2018) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv1AWImgx386ULjcf62VYaW8zSt.jpg
-date=2018-10-05
-URL=https://openload.co/f/RbH5oyv5bo4/Ant-Man_and_the_Wasp_%282018%29%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%81%E0%B8%A5%E0%B8%B0_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A7%E0%B8%AD%E0%B8%AA%E0%B8%9E%E0%B9%8C.mp4
-#https://openload.co/f/ClpbIwcsbvE/Ant-Man_and_the_Wasp_%282018%29%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%81%E0%B8%A5%E0%B8%B0_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%A7%E0%B8%AD%E0%B8%AA%E0%B8%9E%E0%B9%8C.mp4
-#https://streamango.com/f/dordledefetessal/Ant-Man_and_the_Wasp_2018_-_
+
 
 
 type=video
@@ -12241,11 +12370,7 @@ URL=https://openload.co/f/GEAeerOh2CM/Submergence_%282018%29%E0%B8%AB%E0%B9%89%E
 #https://openload.co/f/hp7r4klLxtg/Submergence_%282018%29%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B9%E0%B8%88%E0%B8%99%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
 
 
-type=video
-name=Batman: Assault on Arkham (2014) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYOoqnGuiUUNE4gccO0JJigfACP.jpg
-date=2018-09-20
-URL=https://openload.co/f/P3_etkEMmF8/Batman%3A_Assault_on_Arkham_%282014%29%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%84%E0%B9%81%E0%B8%84%E0%B8%A1.mp4
+
 
 type=video
 name=Be With You (2018) TH
@@ -12275,11 +12400,7 @@ URL=https://openload.co/f/jhmK51H4fv0/A_Better_Tomorrow_%282018%29%E0%B9%82%E0%B
 #https://streamango.com/f/nrpbpscqtnlldsfn/A_Better_Tomorrow_2018_
 
 
-type=video
-name=Wheeler (2017) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v33vDxkRPFFyg1f3znSHAo6NWod.jpg
-date=2018-09-20
-URL=https://openload.co/f/RqxpCWLLysY/Wheeler_%282017%29%E0%B8%84%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%9D%E0%B8%B1%E0%B8%99.mp4
+
 
 
 type=video
@@ -12293,6 +12414,17 @@ name=Kids on the Slope (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/erux0IGClraMJmoyyrwn8BsMA0k.jpg
 date=2018-09-20
 URL=https://openload.co/f/D6zWw_kFuN8/Kids_on_the_Slope_%282018%29%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%81_%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%A3%E0%B8%81_%E0%B8%88%E0%B8%B9%E0%B8%9A%E0%B9%81%E0%B8%A3%E0%B8%81.mp4
+
+
+
+
+
+
+
+
+
+
+
 
 
 
