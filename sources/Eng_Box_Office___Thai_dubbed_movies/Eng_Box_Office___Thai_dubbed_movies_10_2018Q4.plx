@@ -192,14 +192,7 @@ URL=https://openload.co/f/bMb92lrgQ9M/Bad.Times.at.the.El.Royale.2018.720p.HDCAM
 
 
 
-type=video
-name=Smallfoot (2018) ENG DVDRip.XviD.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nKoB6wMVXfsYgRZK5lHZ5VMQ6J.jpg
-date=2018-11-29
-URL=https://openload.co/f/2UvhhRZPRgo/Smallfoot.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/64O6MzqCBIo/Smallfoot.2018.DVDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/XINdJVekZzg/Smallfoot_2018_New_Src_TSRip-H264-AC3-Meow_SeeHD.mkv.mp4
-#https://openload.co/f/iZDs99VvCC8/Smallfoot_2018_720p_HDCAM-1XBET_SeeHD.mp4
+
 
 type=video
 name=A Star Is Born (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
@@ -654,13 +647,7 @@ URL=https://openload.co/f/jjBQIZkgFFg/Somebodys.Mother.2016.WEBRip.x264-RBB.mp4
 
 
 
-type=video
-name=Madame (2017) ENG WEB-DL.DD2.0.x264-BDP
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8DfNZSRDhv1faYPoldjglinmzi.jpg
-date=2017-12-05
-URL=https://openload.co/f/CQs95_555cI/Madame.2017.720p.WEB-DL.DD2.0.x264-BDP.mkv.mp4
-#https://openload.co/f/hTKvxBBbzo8/Madame.2017.DVDRip.XviD.AC3-iFT.avi.mp4
-#https://openload.co/f/WlPzb_Qg5kQ/Madame.2017.HDRip.XviD.AC3-EVO.mp4
+
 
 type=video
 name=A Bad Idea Gone Wrong (2017) ENG WEB-DL.XviD.AC3-FGT
@@ -1355,7 +1342,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-30
+date=2018-12-01
 URL=
 
 
@@ -1364,14 +1351,65 @@ URL=
 
 
 
+type=video
+name=Madame (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8DfNZSRDhv1faYPoldjglinmzi.jpg
+date=2018-12-01
+URL=https://openload.co/f/VrkftgLDF64/Madame.2017.1080p.BlRy.x264-%5BYTS.M%5D.mp4
+#https://openload.co/f/CQs95_555cI/Madame.2017.720p.WEB-DL.DD2.0.x264-BDP.mkv.mp4
+#https://openload.co/f/hTKvxBBbzo8/Madame.2017.DVDRip.XviD.AC3-iFT.avi.mp4
+#https://openload.co/f/WlPzb_Qg5kQ/Madame.2017.HDRip.XviD.AC3-EVO.mp4
 
+type=video
+name=Dead in a Week (Or Your Money Back) (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4ANVEuEaGy2oP5M0Y2P1dwxUNn.jpg
+date=2018-12-01
+URL=
+#https://openload.co/f/hRk-WiiD1m0/dead.in.week.2018.1080p.bluray.x264-getit.mkv   MKV6.6GB
 
+type=video
+name=Born Racer (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbhHJPs2BhrFcT2gwXo77d9UA6R.jpg
+date=2018-12-01
+URL=https://openload.co/f/5Mv1YfFBVBo/Born.Racer.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Support the Girls (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXfwrs8g3pY4mmaO5WDAowWLqBg.jpg
+date=2018-12-01
+URL=https://openload.co/f/KTeqyZj78aA/Support.the.Girls.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://www.blazefile.co/embed-uji1za3846kj.html
+#https://uptobox.com/oaxpc2fdk1qw
+#https://fruithosts.net/embed/ckllapsstdlblbrt/SUPPORTHEGIRLSBD72_Ganol_st_mkv_mp4
+#https://openload.co/f/GWDE-GcHLek/Support.the.Girls.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
+#https://openload.co/f/p-anXCp2LiU/Support_the_Girls_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+
+type=video
+name=Smallfoot (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nKoB6wMVXfsYgRZK5lHZ5VMQ6J.jpg
+date=2018-12-01
+URL=https://uptobox.com/optyhfq42x88
+#https://fruithosts.net/embed/crfcllsfrsfepqco/GHPSMALLFOOT80_Ganol_si_mkv_mp4
+#https://openload.co/embed/XaRmeUtGVMo/GHPSMALLFOOT80.Ganol.si.mkv
+#https://openload.co/f/DylNMXQIoUg/Smallfoot_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/MPakReARDVQ/Smallfoot.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/5e29gM_yzfI/smallfoot.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/2UvhhRZPRgo/Smallfoot.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/64O6MzqCBIo/Smallfoot.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/XINdJVekZzg/Smallfoot_2018_New_Src_TSRip-H264-AC3-Meow_SeeHD.mkv.mp4
+#https://openload.co/f/iZDs99VvCC8/Smallfoot_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
 type=video
 name=The Lingering (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRgkdxuDpP1OugWVchRtqJJuznF.jpg
 date=2018-11-30
 URL=https://openload.co/f/wWotQ0rv8SI/The.Lingering.2018.CHINESE.1080p.BluRay.x264-WiKi.mkv.mp4
+#https://openload.co/f/TKAZcpUoX0s/The.Lingering.2018.CHINESE.1080p.BluRay.x264-WiKi.mkv.mp4
+#https://www.blazefile.co/embed-0r19fvp6qzyi.html   720
+#https://uptobox.com/cc6x9id93oil   720
+#https://fruithosts.net/embed/lflslpbktepqkkma/The_Lingering_2018_BluRay_720p_800NB_Ganol_li_mkv
+#https://openload.co/embed/o0FVrymU3N4/The.Lingering.2018.BluRay.720p.800NB.Ganol.li.mkv.mp4
+#https://openload.co/f/TqMv59sNHbQ/The.Lingering.2018.720p_BluRay_x264-WiKi.Ganool.mkv.mp4
 
 type=video
 name=Pony and Birdboy (2018) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
@@ -1398,6 +1436,10 @@ name=Destination Wedding (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioj2FMnMgD0eHgYfd31HtWOtBWU.jpg
 date=2018-11-29
 URL=https://openload.co/f/DGyAkOEyUys/destination.wedding.2018.1080p.bluray.x264-veto.mkv.mp4
+#https://www.blazefile.co/embed-fsfe16ycfiqr.html   720
+#https://uptobox.com/y5knsvhm9iwj   720
+#https://fruithosts.net/embed/mmaebntloepmbmbt/DESTINATIONWEDDINGBD72_Ganol_st_mkv_mp4
+#https://openload.co/embed/yqXdbCb2MyI/DESTINATIONWEDDINGBD72.Ganol.st.mkv.mp4
 
 type=video
 name=Unhinged (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7482,20 +7524,24 @@ URL=https://www.blazefile.co/embed-l40caxgirjnc.html
 type=video
 name=The Little Stranger (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/izPtQ2relqT5LWflL7x4JLTbLxy.jpg
-date=2018-11-29
-URL=https://openload.co/f/WlFsa9gsgw8/The.Little.Stranger.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
+date=2018-12-01
+URL=https://www.blazefile.co/embed-c5kw5a71ushj.html
+#https://uptobox.com/cp1ackf6x2tu
+#https://fruithosts.net/embed/seekkkbedqmlsrma/THELITTLESTRANGERVBD72_Ganol_st_mkv_mp4
+#https://openload.co/embed/HsDNn284wwI/THELITTLESTRANGERVBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/WlFsa9gsgw8/The.Little.Stranger.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
 
 type=video
 name=Pin Cushion (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTfa0IHWyFivMoLKIey9aduuT8d.jpg
-date=2018-11-29
-URL=https://openload.co/f/bHZh0EEtYMA/Pin.Cushion.2017.720p.BluRay.x264-GUACAMOLE.mkv.mp4
+date=2018-12-01
+URL=https://www.blazefile.co/embed-1l6wybupclmh.html
+#https://uptobox.com/jsi9j3wz5owk
+#https://fruithosts.net/embed/rrpcrcsotkmectda/PINCUSHIONBD72_Ganol_st_mkv_mp4
+#https://openload.co/embed/hRF6SSqhdjE/PINCUSHIONBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/bHZh0EEtYMA/Pin.Cushion.2017.720p.BluRay.x264-GUACAMOLE.mkv.mp4
 
-type=video
-name=Support the Girls (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXfwrs8g3pY4mmaO5WDAowWLqBg.jpg
-date=2018-11-30
-URL=https://openload.co/f/GWDE-GcHLek/Support.the.Girls.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
+
 
 type=video
 name=Maquia: When the Promised Flower Blooms (2018) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
@@ -7924,13 +7970,29 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 type=video
 name=
 thumb=
-date=2018-11-21
+date=2018-12-01
 URL=
 
 
 
 
 
+
+
+
+
+
+
+type=video
+name=L Storm (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3s00u139bzaYRxY8vyrH1AEZS7j.jpg
+date=2018-12-01
+URL=https://openload.co/f/UQTDtZZk_7M/L.Storm.2018.BluRay.1080p.5.1CH.x264.Ganool.mkv.mp4
+type=video
+name=L Storm (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3s00u139bzaYRxY8vyrH1AEZS7j.jpg
+date=2018-12-01
+URL=https://openload.co/f/4oSUbTQIQM0/L_Storm_%282018%29L_Storm_%282018%29_%28Google_Translate%29
 
 
 type=video
@@ -10467,6 +10529,11 @@ URL=https://openload.co/f/tx0niutUSFM/The_House_with_a_Clock_in_Its_Walls_%28201
 #https://openload.co/f/tqS3UUEV60s/The_House_with_a_Clock_in_Its_Walls_%282018%29%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
+type=video
+name=Rampant (2018) KOR 
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8u0AKGj52SQeeKW4d56rWr2XLX.jpg
+date=2018-12-01
+URL=https://openload.co/f/HD76ssL0jYo/Rampant%2C_2018.mp4
 type=video
 name=Rampant (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8u0AKGj52SQeeKW4d56rWr2XLX.jpg
