@@ -103,12 +103,7 @@ URL=
 
 
 
-type=video
-name=Ralph Breaks the Internet (2018) ENG HDCAMV2_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m110vLaDDOCca4hfOcS5mK5cDke.jpg
-date=2018-11-26
-URL=https://openload.co/f/VKSLAw9hR3c/ralphbreaktheinternetHDCAMV2_SeeHD.mkv.mp4
-#https://openload.co/f/om5EaCqO18o/Ralph_Breaks_the_Internet_ENG_2018_720p_HDCAM-1XBET.mp4
+
 
 type=video
 name=Widows (2018) ENG 720p_HDCAM_SeeHD
@@ -1342,7 +1337,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-01
+date=2018-12-02
 URL=
 
 
@@ -1350,6 +1345,37 @@ URL=
 
 
 
+
+
+type=video
+name=Maquia: When the Promised Flower Blooms (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcnOKCPleLOTWPPgYI0YT1MOQwR.jpg
+date=2018-12-02
+URL=https://openload.co/f/Y4SYU9zPifo/Maquia.When.the.Promised.Flower.Blooms.2018.JAPANESE.1080p.BluRay.H264.AAC-VXT.mp4
+#https://openload.co/f/kKe4XpGvj30/Maquia.When.the.Promised.Flower.Blooms.2018.JAPANESE.720p.BluRay.H264.AAC-VXT.mp4
+
+type=video
+name=Laplace's Witch (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eY1HH7ImT8hxf5N8aBAAbaXuAA6.jpg
+date=2018-12-02
+URL=https://openload.co/f/QZzDHM20fgE/Laplaces.Witch.2018.JAPANESE.1080p.BluRay.H264.AAC-VXT.mp4
+
+type=video
+name=Death of a Nation (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayUSOpmiPZOARCklJdDnIWPa2QE.jpg
+date=2018-12-02
+URL=https://openload.co/f/orbojWjQxSQ/death.of.a.nation.2018.1080p.bluray.x264-cinefile.mkv.mp4
+#https://uptobox.com/cwo44gmame3r   720
+#https://www.rapidvideo.com/e/FX4AQLCPTZ   720
+#https://openload.co/embed/QkW7Td-UU7s/DEADTHOFANATIONBD72.Ganol.st.mkv
+#https://openload.co/f/PDIf4-j7WAs/Death_of_a_Nation_%282018%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
+
+type=video
+name=Dog Days (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KudtRPx5IXJ0VQrzIpBmvUrrvj.jpg
+date=2018-12-02
+URL=https://openload.co/f/5nAgyc7j2SA/Dog.Days.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/dVJIoAWSpUY/Dog_Days_%282018%29720p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
 
 type=video
 name=Madame (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1394,6 +1420,7 @@ URL=https://uptobox.com/optyhfq42x88
 #https://openload.co/f/DylNMXQIoUg/Smallfoot_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
 #https://openload.co/f/MPakReARDVQ/Smallfoot.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/5e29gM_yzfI/smallfoot.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/la0rWtHKMV4/Smallfoot.2018.720p.BluRay.x264.850MB-Pahe.in.mkv.mp4
 #https://openload.co/f/2UvhhRZPRgo/Smallfoot.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://openload.co/f/64O6MzqCBIo/Smallfoot.2018.DVDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/XINdJVekZzg/Smallfoot_2018_New_Src_TSRip-H264-AC3-Meow_SeeHD.mkv.mp4
@@ -7433,14 +7460,7 @@ URL=https://uptobox.com/t33i7y03amtg
 
 
 
-type=video
-name=Death of a Nation (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayUSOpmiPZOARCklJdDnIWPa2QE.jpg
-date=2018-11-11
-URL=https://uptobox.com/cwo44gmame3r
-#https://www.rapidvideo.com/e/FX4AQLCPTZ
-#https://openload.co/embed/QkW7Td-UU7s/DEADTHOFANATIONBD72.Ganol.st.mkv
-#https://openload.co/f/PDIf4-j7WAs/Death_of_a_Nation_%282018%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
+
 
 type=video
 name=Blood Fest (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
@@ -7543,11 +7563,7 @@ URL=https://www.blazefile.co/embed-1l6wybupclmh.html
 
 
 
-type=video
-name=Maquia: When the Promised Flower Blooms (2018) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcnOKCPleLOTWPPgYI0YT1MOQwR.jpg
-date=2018-11-30
-URL=https://openload.co/f/kKe4XpGvj30/Maquia.When.the.Promised.Flower.Blooms.2018.JAPANESE.720p.BluRay.H264.AAC-VXT.mp4
+
 
 
 
@@ -7646,11 +7662,30 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+
+
 type=video
-name=Robin Hood (2018) ENG 720p_HDCAM-1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg
+name=Ralph Breaks the Internet (2018) ENG HDCAMV2_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m110vLaDDOCca4hfOcS5mK5cDke.jpg
 date=2018-11-26
-URL=https://openload.co/f/QfQW0tLAnzs/Robin_Hood_2018_720p_HDCAM-1XBET_SeeHD.mp4
+URL=https://openload.co/f/VKSLAw9hR3c/ralphbreaktheinternetHDCAMV2_SeeHD.mkv.mp4
+#https://openload.co/f/om5EaCqO18o/Ralph_Breaks_the_Internet_ENG_2018_720p_HDCAM-1XBET.mp4
+type=video
+name=Ralph Breaks the Internet (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m110vLaDDOCca4hfOcS5mK5cDke.jpg
+date=2018-12-02
+URL=https://openload.co/f/d6K_cM2GBfM/Ralph_Breaks_the_Internet_%282018%29%E0%B8%A3%E0%B8%B2%E0%B8%A5%E0%B9%8C%E0%B8%9F%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95_%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=Robin Hood (2018) ENG NEW.720p.HDCAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg
+date=2018-12-02
+URL=https://openload.co/f/ZLA1sbu0P0Y/Robin.Hood.2018.NEW.720p.HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/TI4dCM2M4UE/Robin.Hood.2018.NEW.720p.HDCAM.mkv.mp4
+#https://openload.co/f/QfQW0tLAnzs/Robin_Hood_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/YbVJ7tkFxd4/Robin_Hood_2018_720p_HDCAM..mp4
 type=video
 name=Robin Hood (2018) THCAM
@@ -10484,7 +10519,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-26
+date=2018-12-02
 URL=
 
 
@@ -10493,6 +10528,14 @@ URL=
 
 
 
+
+
+
+type=video
+name=The Wrath (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wS1iYgHtrHMAXycq5U7ZsW1y7CG.jpg
+date=2018-12-02
+URL=https://openload.co/f/uP5BAD7J7-8/The_Wrath_%282018%29%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%86%E0%B8%B2%E0%B8%95_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
 type=video
@@ -11226,10 +11269,11 @@ URL=
 
 
 type=video
-name=
-thumb=
-date=2018-11-30
-URL=
+name=Brother of the Year (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Sd3hmV1cUglaRCjTPXDrvA8tCp.jpg
+date=2018-12-02
+URL=https://openload.co/f/2AOG6w4oxkQ/Brother_of_the_Year_%282018%29%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87.%E0%B8%9E%E0%B8%B5%E0%B9%88.%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
+#https://openload.co/f/XW3OnDKCsMo/Brother_of_the_Year_%282018%29.mp4
 
 
 type=video
@@ -11275,8 +11319,9 @@ URL=https://uptobox.com/fyyfl512r4cc
 type=video
 name=Ghost Stories (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7a0sai9k5jr7YJRP5S3YIDErMVY.jpg
-date=2018-11-29
-URL=https://openload.co/f/MLM3hlfuNMw/Ghost_Stories_%282018%29%E0%B9%82%E0%B8%81%E0%B8%AA%E0%B8%95%E0%B9%8C_%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88_%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B9%E0%B8%88%E0%B8%99%E0%B9%8C%E0%B8%9C%E0%B8%B5.mp4
+date=2018-12-02
+URL=https://openload.co/f/391VHC6ZGRk/Ghost_Stories_%282018%29%E0%B9%82%E0%B8%81%E0%B8%AA%E0%B8%95%E0%B9%8C_%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88_%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B9%E0%B8%88%E0%B8%99%E0%B9%8C%E0%B8%9C%E0%B8%B5.mp4
+#https://openload.co/f/MLM3hlfuNMw/Ghost_Stories_%282018%29%E0%B9%82%E0%B8%81%E0%B8%AA%E0%B8%95%E0%B9%8C_%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88_%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B9%E0%B8%88%E0%B8%99%E0%B9%8C%E0%B8%9C%E0%B8%B5.mp4
 
 
 type=video
@@ -11315,8 +11360,9 @@ URL=https://openload.co/f/Ina6EQX7-ZU/The.Strangers.Prey.at.Night.2018.1080p.BR_
 type=video
 name=The Strangers: Prey at Night (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo3gu56JKRwZ2TpKt8mPjXLQK23.jpg
-date=2018-11-29
-URL=https://openload.co/f/ZDVAqqejx0o/The_Strangers%3A_Prey_at_Night_%282018%29%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2_%E0%B8%82%E0%B8%AD%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%B4.mp4
+date=2018-12-02
+URL=https://openload.co/f/MXxIbVjAyWU/The_Strangers%3A_Prey_at_Night_%282018%29%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2_%E0%B8%82%E0%B8%AD%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%B4.mp4
+#https://openload.co/f/ZDVAqqejx0o/The_Strangers%3A_Prey_at_Night_%282018%29%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2_%E0%B8%82%E0%B8%AD%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%B4.mp4
 #https://streamango.com/f/nlcqdoenraatbppm/The_Strangers_Prey_at_Night_2018_
 
 
@@ -11838,6 +11884,11 @@ date=2018-11-07
 URL=https://openload.co/f/i-SaY4xfdmc/November_Criminals_%282017%29%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D.mp4
 
 
+type=video
+name=Mazinger Z: Infinity (2017) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aw3MjkJVKmh5B0VHpEC4ITyyyTt.jpg
+date=2018-12-02
+URL=https://openload.co/f/29F2lNKA7dU/Mazinger.Z.Infinity.2017.720p.ENG.HC.BluRay.x264-Ganool.mp4
 type=video
 name=Mazinger Z: Infinity (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aw3MjkJVKmh5B0VHpEC4ITyyyTt.jpg

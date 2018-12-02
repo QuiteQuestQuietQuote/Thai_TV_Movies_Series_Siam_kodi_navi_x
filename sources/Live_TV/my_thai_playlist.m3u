@@ -1633,8 +1633,7 @@ http://ibiza-tv.1919hdtv.com:8880/lfh/Stream2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_VIP
 http://ibiza-tv.1919hdtv.com:8880/lfh/Stream1/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",OURS_HD1
-http://172.104.114.178/vod/live/1/live.m3u8?key=epps55mnrhipbjpm4fq2to8l34
+
 
 #EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",OURS_HD1   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://172.104.114.178/vod/live/1/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
@@ -1644,6 +1643,18 @@ http://172.104.114.178/vod/live/2/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 http://172.104.114.178/vod/live/3/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 #EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",OURS_HD4
 http://172.104.114.178/vod/live/4/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
+
+
+
+#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",OURS_HD1_php
+http://wen9898.000webhostapp.com/ava/live.php?vid=1
+#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",OURS_HD1
+http://172.104.114.178/vod/live/1/live.m3u8?key=epps55mnrhipbjpm4fq2to8l34
+#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",OURS_HD3_php
+http://wtv29898.000webhostapp.com/ava/live.php?vid=3
+#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",OURS_HD3
+http://172.104.114.178/vod/live/3/live.m3u8?key=t7i8lb7dkm6v7hci3rtvtrbna3
+
 
 
 
@@ -2425,15 +2436,6 @@ http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 
 
 
-#EXTINF:-1,passiexxx
-http://tv.iptv5region.com:25461/geraldine/123456/2096
-#EXTINF:-1,venus
-http://tv.iptv5region.com:25461/geraldine/123456/2095
-#EXTINF:-1,penthouse
-http://tv.iptv5region.com:25461/geraldine/123456/2094
-#EXTINF:-1,hustler
-http://tv.iptv5region.com:25461/geraldine/123456/2097
-
 
 
 
@@ -2498,14 +2500,11 @@ http://61.58.60.230:9000/live/257.m3u8
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/d2/37/1dd237c0-dc9f-43a2-a6f5-3b2e7f31e8ff/source/512x512bb.jpg",opensky_CHN
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
-#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",OURS_HD1_php
-http://wen9898.000webhostapp.com/ava/live.php?vid=1
-#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",OURS_HD1
-http://172.104.114.178/vod/live/1/live.m3u8?key=epps55mnrhipbjpm4fq2to8l34
-#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",OURS_HD3_php
-http://wtv29898.000webhostapp.com/ava/live.php?vid=3
-#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",OURS_HD3
-http://172.104.114.178/vod/live/3/live.m3u8?key=t7i8lb7dkm6v7hci3rtvtrbna3
+
+
+#EXTINF:-1,JAV_iptv5region
+http://tv.iptv5region.com:25461/geraldine/123456/2096
+
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV3_VIP
 http://ibiza-tv.1919hdtv.com:8880/lfh/Stream3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_VIP
