@@ -1364,7 +1364,7 @@ type=video
 name=Dead in a Week (Or Your Money Back) (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4ANVEuEaGy2oP5M0Y2P1dwxUNn.jpg
 date=2018-12-01
-URL=
+URL=https://openload.co/f/IIAaHTxKHmU/dead.in.week.2018.1080p.bluray.x264-getit.mkv.mp4
 #https://openload.co/f/hRk-WiiD1m0/dead.in.week.2018.1080p.bluray.x264-getit.mkv   MKV6.6GB
 
 type=video
