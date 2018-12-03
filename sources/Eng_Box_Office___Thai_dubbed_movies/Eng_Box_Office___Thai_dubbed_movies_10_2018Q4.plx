@@ -1345,7 +1345,19 @@ URL=
 
 
 
-
+type=video
+name=The Little Stranger (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/izPtQ2relqT5LWflL7x4JLTbLxy.jpg
+date=2018-12-03
+URL=https://uptobox.com/dns7r0bafpn0
+#https://fruithosts.net/embed/crtdeemrnnrbmpmo/THELITTLESTRANGER80_Ganol_si_mkv
+#https://oload.fun/embed/aiXPdT-1EKs/THELITTLESTRANGER80.Ganol.si.mkv
+#https://openload.co/f/7ubfc3bhG8c/The_Little_Stranger_%282018%29BluRay_1080p_x264_DTS-HDC.Ganool.mkv.mp4
+#https://www.blazefile.co/embed-c5kw5a71ushj.html   720
+#https://uptobox.com/cp1ackf6x2tu   720
+#https://fruithosts.net/embed/seekkkbedqmlsrma/THELITTLESTRANGERVBD72_Ganol_st_mkv_mp4
+#https://openload.co/embed/HsDNn284wwI/THELITTLESTRANGERVBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/WlFsa9gsgw8/The.Little.Stranger.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
 
 type=video
 name=Maquia: When the Promised Flower Blooms (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
@@ -1353,6 +1365,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcnOKCPleLOTWPPgYI0YT1MOQw
 date=2018-12-02
 URL=https://openload.co/f/Y4SYU9zPifo/Maquia.When.the.Promised.Flower.Blooms.2018.JAPANESE.1080p.BluRay.H264.AAC-VXT.mp4
 #https://openload.co/f/kKe4XpGvj30/Maquia.When.the.Promised.Flower.Blooms.2018.JAPANESE.720p.BluRay.H264.AAC-VXT.mp4
+#https://www.blazefile.co/embed-ccai7qnqn80t.html   720
+#https://fruithosts.net/embed/dearomossnotfdrn/Maquia_When_the_Promised_Flower_Blooms_2018_BluRay_720p_800MB_Ganol_si_mkv_mp4
 
 type=video
 name=Laplace's Witch (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
@@ -1363,8 +1377,12 @@ URL=https://openload.co/f/QZzDHM20fgE/Laplaces.Witch.2018.JAPANESE.1080p.BluRay.
 type=video
 name=Death of a Nation (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayUSOpmiPZOARCklJdDnIWPa2QE.jpg
-date=2018-12-02
-URL=https://openload.co/f/orbojWjQxSQ/death.of.a.nation.2018.1080p.bluray.x264-cinefile.mkv.mp4
+date=2018-12-03
+URL=https://uptobox.com/xvl9ruqiux6r
+#https://fruithosts.net/embed/nabpsoceskakrpnq/DEATHOFANATION80_Ganol_si_mkv_mp4
+#https://oload.fun/embed/KYGEJl5X_Fo/DEATHOFANATION80.Ganol.si.mkv
+#https://openload.co/f/o8fv3rHJVOA/Death_of_a_Nation_%282018%29_1080p_BluRay_x264-CiNEFiLE.Ganool.mkv.mp4
+#https://openload.co/f/orbojWjQxSQ/death.of.a.nation.2018.1080p.bluray.x264-cinefile.mkv.mp4
 #https://uptobox.com/cwo44gmame3r   720
 #https://www.rapidvideo.com/e/FX4AQLCPTZ   720
 #https://openload.co/embed/QkW7Td-UU7s/DEADTHOFANATIONBD72.Ganol.st.mkv
@@ -1392,6 +1410,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4ANVEuEaGy2oP5M0Y2P1dwxUN
 date=2018-12-01
 URL=https://openload.co/f/IIAaHTxKHmU/dead.in.week.2018.1080p.bluray.x264-getit.mkv.mp4
 #https://openload.co/f/hRk-WiiD1m0/dead.in.week.2018.1080p.bluray.x264-getit.mkv   MKV6.6GB
+#https://www.blazefile.co/embed-9pdfkym0qxj5.html   720
+#https://fruithosts.net/embed/fccafcmtdqltqcac/DEADINWEEKBD72_Ganol_si_mkv_mp4
 
 type=video
 name=Born Racer (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1429,8 +1449,12 @@ URL=https://uptobox.com/optyhfq42x88
 type=video
 name=The Lingering (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRgkdxuDpP1OugWVchRtqJJuznF.jpg
-date=2018-11-30
-URL=https://openload.co/f/wWotQ0rv8SI/The.Lingering.2018.CHINESE.1080p.BluRay.x264-WiKi.mkv.mp4
+date=2018-12-03
+URL=https://uptobox.com/5tv623xlt4uk
+#https://fruithosts.net/embed/bsqtrffddklepobk/The_Lingering_2018_BluRay_1080p_5_1CH_x264_Ganol_si_mkv
+#https://oload.fun/embed/-A9Krg6lcMo/The.Lingering.2018.BluRay.1080p.5.1CH.x264.Ganol.si.mkv
+#https://openload.co/f/u7gzulJFuBE/The.Lingering.2018.1080p_BluRay_x264-WiKi.Ganool.mkv.mp4
+#https://openload.co/f/wWotQ0rv8SI/The.Lingering.2018.CHINESE.1080p.BluRay.x264-WiKi.mkv.mp4
 #https://openload.co/f/TKAZcpUoX0s/The.Lingering.2018.CHINESE.1080p.BluRay.x264-WiKi.mkv.mp4
 #https://www.blazefile.co/embed-0r19fvp6qzyi.html   720
 #https://uptobox.com/cc6x9id93oil   720
@@ -1443,6 +1467,8 @@ name=Pony and Birdboy (2018) [COLOR=FF00FF00]FIN BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/j065CQvEsbMI25CS3xeBIMP3sqQ.jpg
 date=2018-11-30
 URL=https://openload.co/f/73l4qsIQGg4/Pony.And.Birdboy.2018.1080p.BluRay.x264-FiCO.mkv.mp4
+#https://uptobox.com/9kznd256h4r4   720
+#https://fruithosts.net/embed/srofrksdqpksabac/PONYANDBIRDBOYBD72_Ganol_si_mkv_mp4
 
 type=video
 name=Love, Cecil (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7541,15 +7567,7 @@ URL=https://www.blazefile.co/embed-l40caxgirjnc.html
 #https://openload.co/f/g0thx2Bbx6c/Orphan_Horse_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
 #https://openload.co/f/7Ouw3MKJsUY/Orphan.Horse.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
 
-type=video
-name=The Little Stranger (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/izPtQ2relqT5LWflL7x4JLTbLxy.jpg
-date=2018-12-01
-URL=https://www.blazefile.co/embed-c5kw5a71ushj.html
-#https://uptobox.com/cp1ackf6x2tu
-#https://fruithosts.net/embed/seekkkbedqmlsrma/THELITTLESTRANGERVBD72_Ganol_st_mkv_mp4
-#https://openload.co/embed/HsDNn284wwI/THELITTLESTRANGERVBD72.Ganol.st.mkv.mp4
-#https://openload.co/f/WlFsa9gsgw8/The.Little.Stranger.2018.720p.BluRay.x264.DTS-HDC.mkv.mp4
+
 
 type=video
 name=Pin Cushion (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
