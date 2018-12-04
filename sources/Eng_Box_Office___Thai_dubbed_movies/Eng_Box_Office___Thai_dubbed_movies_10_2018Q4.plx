@@ -78,12 +78,23 @@ URL=http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)
 
 
 
+type=video
+name=test
+thumb=
+date=2018-12-04
+URL=https://vshare.eu/9r7w1jjb8b8d.htm
 
+type=video
+name=test
+thumb=
+date=2018-12-04
+URL=https://douploads.com/d7n2ophsabri
 
-
-
-
-
+type=video
+name=test
+thumb=
+date=2018-12-04
+URL=https://www.file-upload.com/4a7g3is73mkj
 
 
 
@@ -95,7 +106,7 @@ URL=http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)
 type=video
 name=
 thumb=
-date=2018-11-26
+date=2018-12-04
 URL=
 
 
@@ -1339,6 +1350,38 @@ URL=
 
 
 
+
+type=video
+name=Little Men (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOInh2NRemhAo5mSZLDRil4o1Zp.jpg
+date=2018-12-04
+URL=https://openload.co/f/2QGax_rUNhg/Little.Men.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/hld3guw995an   720
+#https://fruithosts.net/embed/bqflcqnpasqobqko/LITTLEMANBD72_Ganol_si_mkv_mp4
+#https://oload.fun/embed/7i3-gRZHhmQ/LITTLEMANBD72.Ganol.si.mkv.mp4
+#https://openload.co/f/1Ot9Dh10dc4/Little_Men_%282016%29720p_BluRay_x264.DTS-FGT.Ganool.mkv.mp4
+
+type=video
+name=Orphan Horse (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsUZtMUlijtPecDy3wZEfwqN7mN.jpg
+date=2018-12-04
+URL=https://openload.co/f/B48QdnRFw6Y/Orphan.Horse.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://www.blazefile.co/embed-l40caxgirjnc.html   720
+#https://uptobox.com/n0kltg0h3yom   720
+#https://fruithosts.net/embed/focsrpaqqpoodpqc/ORPHANHORSEBD72_Ganol_st_mkv_mp4
+#https://openload.co/f/g0thx2Bbx6c/Orphan_Horse_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+#https://openload.co/f/7Ouw3MKJsUY/Orphan.Horse.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
+
+type=video
+name=River Runs Red (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxzDqQKNmNJPukTK7zux7gqaY6D.jpg
+date=2018-12-04
+URL=https://openload.co/f/H2H2J8u5aZg/River.Runs.Red.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/6h6kler6qpzb   720
+#https://fruithosts.net/embed/qarnfeflcppebrld/RIVERRUNSREDBD72_Ganol_si_mkv_mp4
+#https://oload.fun/embed/RnRRtJKj8PQ/RIVERRUNSREDBD72.Ganol.si.mkv.mp4
+#https://openload.co/f/1dLwtMHdXpw/River_Runs_Red_%282018%29720p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+
 type=video
 name=Ouija Seance: The Final Game (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMI6QV8DZE47ZObC5VxSCUSDVBP.jpg
@@ -1363,6 +1406,7 @@ URL=https://uptobox.com/dns7r0bafpn0
 #https://fruithosts.net/embed/crtdeemrnnrbmpmo/THELITTLESTRANGER80_Ganol_si_mkv
 #https://oload.fun/embed/aiXPdT-1EKs/THELITTLESTRANGER80.Ganol.si.mkv
 #https://openload.co/f/7ubfc3bhG8c/The_Little_Stranger_%282018%29BluRay_1080p_x264_DTS-HDC.Ganool.mkv.mp4
+#https://openload.co/f/-8VbuTRvWaQ/The.Little.Stranger.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://www.blazefile.co/embed-c5kw5a71ushj.html   720
 #https://uptobox.com/cp1ackf6x2tu   720
 #https://fruithosts.net/embed/seekkkbedqmlsrma/THELITTLESTRANGERVBD72_Ganol_st_mkv_mp4
@@ -7572,18 +7616,13 @@ URL=https://openload.co/f/FLg7g2fua2A/House.of.The.Rising.Sons.2018.720p_BluRay_
 type=video
 name=High Voltage (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/44TEBlWUctxG9K3T1niiLdBINSx.jpg
-date=2018-11-29
-URL=https://openload.co/f/NLuey_4a_wU/High.Voltage.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
+date=2018-12-04
+URL=https://uptobox.com/8g7ldbe0urj1
+#https://fruithosts.net/embed/srccqafemrssnkmc/HIGHVOLTAGEBD72_Ganol_si_mkv_mp4
+#https://oload.fun/embed/_BThoPkZ2AE/HIGHVOLTAGEBD72.Ganol.si.mkv.mp4
+#https://openload.co/f/NLuey_4a_wU/High.Voltage.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
 
-type=video
-name=Orphan Horse (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsUZtMUlijtPecDy3wZEfwqN7mN.jpg
-date=2018-11-29
-URL=https://www.blazefile.co/embed-l40caxgirjnc.html
-#https://uptobox.com/n0kltg0h3yom
-#https://fruithosts.net/embed/focsrpaqqpoodpqc/ORPHANHORSEBD72_Ganol_st_mkv_mp4
-#https://openload.co/f/g0thx2Bbx6c/Orphan_Horse_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
-#https://openload.co/f/7Ouw3MKJsUY/Orphan.Horse.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
+
 
 
 
@@ -7606,14 +7645,10 @@ URL=https://www.blazefile.co/embed-1l6wybupclmh.html
 
 
 
-
-
-
-
 type=video
 name=
 thumb=
-date=2018-11-30
+date=2018-12-04
 URL=
 
 type=video
@@ -8427,10 +8462,11 @@ URL=https://openload.co/f/MqYMJJ7K43w/22_July_%282018%2922_%E0%B8%81%E0%B8%A3%E0
 
 
 type=video
-name=Operation Finale (2018) ENG 1080p.NF.WEB-DL.DD_5.1.H264-CMRG
+name=Operation Finale (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlIdPeH5IrR1qRErschnVQeZAQu.jpg
-date=2018-10-07
-URL=https://openload.co/f/P26wzQbHZhQ/Operation_Finale.2018.1080p.NF.WEB-DL.DD_5.1.H264-CMRG.mkv.mp4
+date=2018-12-04
+URL=https://openload.co/f/BDpI_RtysV8/Operation.Finale.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/P26wzQbHZhQ/Operation_Finale.2018.1080p.NF.WEB-DL.DD_5.1.H264-CMRG.mkv.mp4
 type=video
 name=Operation Finale (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlIdPeH5IrR1qRErschnVQeZAQu.jpg
