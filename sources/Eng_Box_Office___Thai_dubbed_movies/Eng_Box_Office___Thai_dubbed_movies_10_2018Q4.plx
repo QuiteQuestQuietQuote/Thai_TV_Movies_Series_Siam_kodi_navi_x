@@ -448,14 +448,7 @@ date=2018-04-09
 URL=https://openload.co/f/Tms4xy3wQmg/Paterno.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee.mkv.mp4
 #https://openload.co/f/L5IavymIoPs/Paterno.2018.720p.HD_SeeHD.mp4
 
-type=video
-name=Bilal: A New Breed of Hero (2015) ENG 1080p.WEB-DL.DD5.1.H264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQFwkuUAYn112Q6RfISOgHx9Uiv.jpg
-date=2018-07-09
-URL=https://openload.co/f/nDS-1gJ41hg/Bilal.A.New.Breed.of.Hero.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/PK0787aslLU/Bilal_A_New_Breed_of_Hero.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/p9r-XW2TNMg/Bilal.A.New.Breed.of.Hero.2018.720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/loZZx4EAsiI/Bilal.A.New.Breed.of.Hero.2015.HD.720P.ENG.SUB.mp4
+
 
 type=video
 name=Wunderland (2018) ENG 1080p.WEB-DL.AAC.H264-CMRG
@@ -1337,13 +1330,30 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-02
+date=2018-12-04
 URL=
 
 
 
 
 
+
+
+type=video
+name=Ouija Seance: The Final Game (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMI6QV8DZE47ZObC5VxSCUSDVBP.jpg
+date=2018-12-04
+URL=https://openload.co/f/2yHiB0xrnxo/Ouija.Seance.The.Final.Game.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Bilal: A New Breed of Hero (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQFwkuUAYn112Q6RfISOgHx9Uiv.jpg
+date=2018-12-04
+URL=https://openload.co/f/6MrwiS2mWfs/Bilal.A.New.Breed.of.Hero.2015.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/nDS-1gJ41hg/Bilal.A.New.Breed.of.Hero.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/PK0787aslLU/Bilal_A_New_Breed_of_Hero.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/p9r-XW2TNMg/Bilal.A.New.Breed.of.Hero.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/loZZx4EAsiI/Bilal.A.New.Breed.of.Hero.2015.HD.720P.ENG.SUB.mp4
 
 type=video
 name=The Little Stranger (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -1407,8 +1417,12 @@ URL=https://openload.co/f/VrkftgLDF64/Madame.2017.1080p.BlRy.x264-%5BYTS.M%5D.mp
 type=video
 name=Dead in a Week (Or Your Money Back) (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4ANVEuEaGy2oP5M0Y2P1dwxUNn.jpg
-date=2018-12-01
-URL=https://openload.co/f/IIAaHTxKHmU/dead.in.week.2018.1080p.bluray.x264-getit.mkv.mp4
+date=2018-12-04
+URL=https://uptobox.com/2h42wz7scq0a
+#https://fruithosts.net/embed/cbfsnmcdfttsrekq/DEADINAWEEK80_Ganol_si_mkv
+#https://oload.fun/embed/6tJ1JKc_89M/DEADINAWEEK80.Ganol.si.mkv
+#https://openload.co/f/S3ZVcLbggb0/Dead_in_a_Week%3A_Or_Your_Money_Back_%282018%291080p_BluRay_x264-GETiT.Ganool.mkv.mp4
+#https://openload.co/f/IIAaHTxKHmU/dead.in.week.2018.1080p.bluray.x264-getit.mkv.mp4
 #https://openload.co/f/hRk-WiiD1m0/dead.in.week.2018.1080p.bluray.x264-getit.mkv   MKV6.6GB
 #https://www.blazefile.co/embed-9pdfkym0qxj5.html   720
 #https://fruithosts.net/embed/fccafcmtdqltqcac/DEADINWEEKBD72_Ganol_si_mkv_mp4
@@ -1487,8 +1501,12 @@ URL=https://openload.co/f/59ZIwO51qkY/The.Immortal.Wars.2018.1080p.BluRay.x264.D
 type=video
 name=Destination Wedding (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioj2FMnMgD0eHgYfd31HtWOtBWU.jpg
-date=2018-11-29
-URL=https://openload.co/f/DGyAkOEyUys/destination.wedding.2018.1080p.bluray.x264-veto.mkv.mp4
+date=2018-12-04
+URL=https://uptobox.com/9jkli3h97nlv
+#https://fruithosts.net/embed/tepbfqmfpdttpftk/GHPDESTINATIONWEDDING80_Ganol_si_mkv
+#https://oload.fun/embed/lpjSCw-5WVI/GHPDESTINATIONWEDDING80.Ganol.si.mkv
+#https://openload.co/f/haqxczOfJJY/Destination_Wedding_%282018%291080p_BluRay_x264-VETO.Ganool.mkv.mp4
+#https://openload.co/f/DGyAkOEyUys/destination.wedding.2018.1080p.bluray.x264-veto.mkv.mp4
 #https://www.blazefile.co/embed-fsfe16ycfiqr.html   720
 #https://uptobox.com/y5knsvhm9iwj   720
 #https://fruithosts.net/embed/mmaebntloepmbmbt/DESTINATIONWEDDINGBD72_Ganol_st_mkv_mp4
@@ -11318,8 +11336,9 @@ URL=https://uptobox.com/zk9nvgofxwrx
 type=video
 name=Searching (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9N0T3BaHZNdUCcMZQIM3yMUFwEh.jpg
-date=2018-11-29
-URL=https://openload.co/f/ozRvzgATkR0/Searching_%282018%29%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%AB%E0%B8%B2....%E0%B8%AA%E0%B8%B9%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%A2%21%3F.mp4
+date=2018-12-04
+URL=https://openload.co/f/--RrStR3V08/Searching_%282018%29%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%AB%E0%B8%B2...%E0%B8%AA%E0%B8%B9%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%A2.mp4
+#https://openload.co/f/ozRvzgATkR0/Searching_%282018%29%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%AB%E0%B8%B2....%E0%B8%AA%E0%B8%B9%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%A2%21%3F.mp4
 #https://openload.co/f/6cSOArwGNnY/Searching_%282018%29%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%AB%E0%B8%B2....%E0%B8%AA%E0%B8%B9%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%A2%21%3F_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://openload.co/f/yaZ8FoesSNg/Searching_%282018%29%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%AB%E0%B8%B2....%E0%B8%AA%E0%B8%B9%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%A2%21%3F_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
@@ -11404,8 +11423,9 @@ URL=https://uptobox.com/v2hwdxmiykac
 type=video
 name=Kin (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg
-date=2018-11-29
-URL=https://openload.co/f/cocXTe2PYf0/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99.mp4
+date=2018-12-04
+URL=https://openload.co/f/lObpV7nIQ8s/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99.mp4
+#https://openload.co/f/cocXTe2PYf0/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99.mp4
 #https://openload.co/f/FlrEAeVIcf8/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://openload.co/f/6aVEUo3AkIQ/Kin_%282018%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
@@ -11903,10 +11923,11 @@ URL=https://openload.co/f/i-SaY4xfdmc/November_Criminals_%282017%29%E0%B8%84%E0%
 
 
 type=video
-name=Mazinger Z: Infinity (2017) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
+name=Mazinger Z: Infinity (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aw3MjkJVKmh5B0VHpEC4ITyyyTt.jpg
-date=2018-12-02
-URL=https://openload.co/f/29F2lNKA7dU/Mazinger.Z.Infinity.2017.720p.ENG.HC.BluRay.x264-Ganool.mp4
+date=2018-12-04
+URL=https://openload.co/f/lzGgTZexa5k/Mazinger.Z.Infinity.2017.JAPANESE.1080p.BluRay.H264.AAC.mp4
+#https://openload.co/f/29F2lNKA7dU/Mazinger.Z.Infinity.2017.720p.ENG.HC.BluRay.x264-Ganool.mp4
 type=video
 name=Mazinger Z: Infinity (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aw3MjkJVKmh5B0VHpEC4ITyyyTt.jpg
