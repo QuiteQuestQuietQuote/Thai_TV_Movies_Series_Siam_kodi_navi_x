@@ -79,22 +79,22 @@ URL=http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)
 
 
 type=video
-name=test
+name=test.vshare
 thumb=
 date=2018-12-04
-URL=https://vshare.eu/9r7w1jjb8b8d.htm
+URL=https://vs061.vshare.eu:182/d/kuenv33e7hnroluv5garspngkzxov3wrobag2cdcttp52g6njvr26aqz/vid.mp4
 
 type=video
-name=test
+name=test.fileflares
 thumb=
 date=2018-12-04
-URL=https://douploads.com/d7n2ophsabri
+URL=http://fileflares.com/olcg3dxu9uu9/Dark.Ride.2006.720p.BluRay.H264.AAC-RARBG.mp4.html
 
 type=video
-name=test
+name=
 thumb=
 date=2018-12-04
-URL=https://www.file-upload.com/4a7g3is73mkj
+URL=
 
 
 
@@ -1341,7 +1341,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-04
+date=2018-12-05
 URL=
 
 
@@ -1351,11 +1351,31 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=At First Light (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/91hdecEDCnQgZUwSZGQaDH4iAh2.jpg
+date=2018-12-05
+URL=https://openload.co/f/VmdssdV8LBI/At.First.Light.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/ld8ixd2w3j5p   720
+#https://fruithosts.net/embed/ledacbktnecpmerk/ATFIRSTLIGHTBD72_Ganol_si_mkv_mp4
+#https://oload.fun/embed/IWh7dy6XLd0/ATFIRSTLIGHTBD72.Ganol.si.mkv
+
+type=video
+name=Snowflake (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMtnBuD4kdgKO2rh9LNiUyTg3C3.jpg
+date=2018-12-05
+URL=https://openload.co/f/C1V6ec8UJ-4/Snowflake.2017.GERMAN.1080p.BluRay.H264.AAC.mp4
+
 type=video
 name=Little Men (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOInh2NRemhAo5mSZLDRil4o1Zp.jpg
 date=2018-12-04
 URL=https://openload.co/f/2QGax_rUNhg/Little.Men.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/EwFXR8mwDfM/Little.Men.2016.1080p.BluRay.x264.DTS-FGT.mkv.mp4
 #https://uptobox.com/hld3guw995an   720
 #https://fruithosts.net/embed/bqflcqnpasqobqko/LITTLEMANBD72_Ganol_si_mkv_mp4
 #https://oload.fun/embed/7i3-gRZHhmQ/LITTLEMANBD72.Ganol.si.mkv.mp4
@@ -1723,6 +1743,7 @@ name=Kodachrome (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mseyc8v3UD1DhaZ3kSdXs4Dj9Xf.jpg
 date=2018-11-19
 URL=https://openload.co/f/NyHrcLQco7I/Kodachrome.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/XsXbfMRji8M/kodachrome.2017.limited.1080p.bluray.x264-cadaver.mkv.mp4
 #https://openload.co/f/zrY63GzajjE/Kodachrome.2017.720p.BluRay.DD5.1.x264-SPEED.mkv.mp4
 #https://uptobox.com/vgtetdfcx3gd   720
 #https://www.rapidvideo.com/e/FXCL28AEU7   720
@@ -7636,7 +7657,14 @@ URL=https://www.blazefile.co/embed-1l6wybupclmh.html
 #https://openload.co/embed/hRF6SSqhdjE/PINCUSHIONBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/bHZh0EEtYMA/Pin.Cushion.2017.720p.BluRay.x264-GUACAMOLE.mkv.mp4
 
-
+type=video
+name=Blue Iguana (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ixLHMV9RoyBGJz2yRuggsr0vyX.jpg
+date=2018-12-05
+URL=https://uptobox.com/ld06gtkowatq
+#https://fruithosts.net/embed/spdspbatrnkqdqrl/BLUEIGUANABD72_Ganol_si_mkv_mp4
+#https://oload.fun/embed/09rt47CDG2s/BLUEIGUANABD72.Ganol.si.mkv.mp4
+#https://openload.co/f/zsucKX_xadQ/Blue_Iguana_%282018%29720p_BluRay_x264-PSYCHD.Ganool.mkv.mp4
 
 
 
@@ -7648,7 +7676,7 @@ URL=https://www.blazefile.co/embed-1l6wybupclmh.html
 type=video
 name=
 thumb=
-date=2018-12-04
+date=2018-12-05
 URL=
 
 type=video
@@ -7837,19 +7865,7 @@ date=2018-11-04
 URL=https://openload.co/f/Nrdk2YpYEwk/Hunter_Killer_%282018%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=Halloween (2018) ENG HC.1080p.HDRip.X264.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNkDYKmrVem1J0aAfCnQlJOCKnT.jpg
-date=2018-11-29
-URL=https://openload.co/f/4YzDS_eeJSo/Halloween.2018.HC.1080p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/dpCxDuf-SmI/Halloween_2018_HC_1080p_HDRip_X264_AC3-EVO.mp4
-#https://openload.co/f/ixJajUSxXgY/Halloween_2018_720p_HDCAM_ENG-1XBET_SeeHD.mp4
-#https://openload.co/f/0oGS72PoxZk/Halloween.2018.720p.HDCAM.ENG-1XBET.mp4
-type=video
-name=Halloween (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNkDYKmrVem1J0aAfCnQlJOCKnT.jpg
-date=2018-11-04
-URL=https://openload.co/f/zYob6IKdLuo/Halloween_%282018%29%E0%B8%AE%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 
@@ -8466,6 +8482,9 @@ name=Operation Finale (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlIdPeH5IrR1qRErschnVQeZAQu.jpg
 date=2018-12-04
 URL=https://openload.co/f/BDpI_RtysV8/Operation.Finale.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/bjwjyhkkzl53   720
+#https://fruithosts.net/embed/ekfqedklamonsaec/OPERATIONFINALEBD72_Ganol_si_mkv_mp4_mp4_mp4
+#https://oload.fun/embed/oynMba8ymUk/OPERATIONFINALEBD72.Ganol.si.mkv.mp4
 #https://openload.co/f/P26wzQbHZhQ/Operation_Finale.2018.1080p.NF.WEB-DL.DD_5.1.H264-CMRG.mkv.mp4
 type=video
 name=Operation Finale (2018) THSUB
@@ -10591,7 +10610,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-02
+date=2018-12-05
 URL=
 
 
@@ -10601,6 +10620,34 @@ URL=
 
 
 
+
+
+type=video
+name=Shadow (2018) CHN WEB-DL.2160P.H264.AAC
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4AUvO8XzFUC6UwJqrNiAAD61OA.jpg
+date=2018-12-05
+URL=https://openload.co/f/rJybMQv56C0/Shadow.2018.WEB-DL.2160P.H264.AAC.mp4
+type=video
+name=Shadow (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4AUvO8XzFUC6UwJqrNiAAD61OA.jpg
+date=2018-12-05
+URL=https://openload.co/f/vPOr6tOit7M/Shadow_%282018%29%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%84%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%87%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
+
+
+type=video
+name=Halloween (2018) ENG HC.1080p.HDRip.X264.AC3-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNkDYKmrVem1J0aAfCnQlJOCKnT.jpg
+date=2018-11-29
+URL=https://openload.co/f/4YzDS_eeJSo/Halloween.2018.HC.1080p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/dpCxDuf-SmI/Halloween_2018_HC_1080p_HDRip_X264_AC3-EVO.mp4
+#https://openload.co/f/ixJajUSxXgY/Halloween_2018_720p_HDCAM_ENG-1XBET_SeeHD.mp4
+#https://openload.co/f/0oGS72PoxZk/Halloween.2018.720p.HDCAM.ENG-1XBET.mp4
+type=video
+name=Halloween (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNkDYKmrVem1J0aAfCnQlJOCKnT.jpg
+date=2018-12-05
+URL=https://openload.co/f/MBR3BW1kV0U/Halloween_%282018%29%E0%B8%AE%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/zYob6IKdLuo/Halloween_%282018%29%E0%B8%AE%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -12647,7 +12694,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-11-29
+date=2018-12-05
 URL=
 
 
@@ -12656,6 +12703,14 @@ URL=
 
 
 
+
+
+
+type=video
+name=The Edge of Seventeen (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxK80WUwkQePpXpzRdpob0i7DD5.jpg
+date=2018-12-05
+URL=https://openload.co/f/snOA1T20sig/The.Edge.of.Seventeen.2016.1080p.BR_SeeHD.mp4
 
 type=video
 name=Queen of the Desert (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
