@@ -82,13 +82,13 @@ type=video
 name=test.vshare
 thumb=
 date=2018-12-04
-URL=https://vs061.vshare.eu:182/d/kuenv33e7hnroluv5garspngkzxov3wrobag2cdcttp52g6njvr26aqz/vid.mp4
+URL=https://vs061.vshare.eu:182/d/kueeml3h7hnroluv4wargkvrdzq2smgetwbf2fzrxjvuoexd5tsnan66/vid.mp4
 
 type=video
-name=test.fileflares
+name=test.realtalksociety
 thumb=
 date=2018-12-04
-URL=http://fileflares.com/olcg3dxu9uu9/Dark.Ride.2006.720p.BluRay.H264.AAC-RARBG.mp4.html
+URL=http://realtalksociety.com/videos/_YPTuniqid_5c084d162708c2.16672485_HD.mp4
 
 type=video
 name=
@@ -217,10 +217,11 @@ URL=https://openload.co/f/eWuh3hFh4-A/London_Fields_2018_720p_RUS_TS_ENG_SUB-1XB
 
 
 type=video
-name=A Simple Favor (2018) ENG NEW_720p_TS-1XBET_SeeHD
+name=A Simple Favor (2018) ENG DVDRip.XviD.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIYsjQM0piKc0ibPBCTWv3sqshj.jpg
-date=2018-09-21
-URL=https://openload.co/f/xsHGLKOMjkI/A_Simple_Favor_2018_NEW_720p_TS-1XBET_SeeHD.mp4
+date=2018-12-06
+URL=https://openload.co/f/-sftEyhGMfE/A_Simple_Favor.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/xsHGLKOMjkI/A_Simple_Favor_2018_NEW_720p_TS-1XBET_SeeHD.mp4
 #https://openload.co/f/M6sBfNsr2Aw/A.Simple.Favor.2018.NOLOGO.720p.HDCAM.1XBET.mp4
 #https://openload.co/f/jPbnk4LGxvg/A.Simple.Favor.2018.720p.HDCAM.1XBET_SeeHD.mp4
 #https://openload.co/f/-mBMR4b7itM/A.Simple.Favor.2018.720p.HDCAM.x264-1XBET.mp4
@@ -7872,10 +7873,17 @@ URL=https://openload.co/f/Nrdk2YpYEwk/Hunter_Killer_%282018%29%E0%B8%AA%E0%B8%87
 
 
 type=video
-name=Venom (2018) ENG 1080p.HDRip.X264-EVO_SeeHD
+name=Venom (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
-date=2018-11-28
-URL=https://openload.co/f/CTlIxILEHAA/Venom.2018.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
+date=2018-12-06
+URL=https://openload.co/f/DiG3PAwW6oo/Venom.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/HtOYhVE8kNI/Venom.2018.BluRay.1080p.DD5.1.x264-MTeam.mkv.mp4
+#https://openload.co/f/LtypoKDDJJo/Venom.2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/1UZO-T6GhPw/Venom.2018.BluRay.1080p.DD5.1.x264-MTeam.mkv   MKV9.6GB
+#https://openload.co/f/4L-Q1D5zzlc/Venom.2018.1080p.BRRip.X264.AC3-EVO.mkv   MKV4.1GB
+#https://openload.co/f/orscinUd888/Venom.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/speNaoLD6QU/Venom.2018.720p.BRRip.AC3.X264-CMRG.mkv.mp4
+#https://openload.co/f/CTlIxILEHAA/Venom.2018.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/KGG_0lvQHvk/Venom.2018.1080p.HDRip.X264-EVO.mkv.mp4
 #https://openload.co/f/EPW6kUKWMfw/Venom.2018.HD1080P.X264.AAC.CHS_SeeHD.mp4
 #https://openload.co/f/Ai7_bSmiseY/Venom.2018.1080p.HDTC.x264-MiniBT.mp4
@@ -8480,8 +8488,12 @@ URL=https://openload.co/f/MqYMJJ7K43w/22_July_%282018%2922_%E0%B8%81%E0%B8%A3%E0
 type=video
 name=Operation Finale (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlIdPeH5IrR1qRErschnVQeZAQu.jpg
-date=2018-12-04
-URL=https://openload.co/f/BDpI_RtysV8/Operation.Finale.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-12-06
+URL=https://uptobox.com/51rzjkjxuer5
+#https://fruithosts.net/embed/aakakfperaqppkck/GHPOPERATIONFINALE80_Ganol_si_mkv
+#https://oload.fun/embed/NbRe1PAvrp0/GHPOPERATIONFINALE80.Ganol.si.mkv
+#https://openload.co/f/8sLAkmzLnJ0/Operation_Finale_%282018%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://openload.co/f/BDpI_RtysV8/Operation.Finale.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://uptobox.com/bjwjyhkkzl53   720
 #https://fruithosts.net/embed/ekfqedklamonsaec/OPERATIONFINALEBD72_Ganol_si_mkv_mp4_mp4_mp4
 #https://oload.fun/embed/oynMba8ymUk/OPERATIONFINALEBD72.Ganol.si.mkv.mp4
@@ -12694,7 +12706,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-05
+date=2018-12-06
 URL=
 
 
@@ -12702,9 +12714,17 @@ URL=
 
 
 
+type=video
+name=The Evil Dead (1981) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cpSdCrBY7UhiygkcP57dpixXsW.jpg
+date=2018-12-06
+URL=https://openload.co/f/gtDZJBXcPkw/The.Evil.Dead.1981.REMASTERED.1080p.Br_SeeHD.mp4
 
-
-
+type=video
+name=Evil Dead II (1987) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n49mpgUsPgBfRg2qIEj31HX0chu.jpg
+date=2018-12-06
+URL=https://openload.co/f/120fZL29EPk/Evil.Dead.2.1987.REMASTERED.1080p.BR_SeeHD.mp4
 
 type=video
 name=The Edge of Seventeen (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
