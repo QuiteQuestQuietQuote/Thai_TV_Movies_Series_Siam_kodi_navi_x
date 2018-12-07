@@ -79,16 +79,16 @@ URL=http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)
 
 
 type=video
-name=test.vshare
+name=
 thumb=
 date=2018-12-04
-URL=https://vs061.vshare.eu:182/d/kueeml3h7hnroluv4wargkvrdzq2smgetwbf2fzrxjvuoexd5tsnan66/vid.mp4
+URL=
 
 type=video
-name=test.realtalksociety
-thumb=
+name=test
+thumb=https://i.imgur.com/oPJddN3.jpg?1
 date=2018-12-04
-URL=http://realtalksociety.com/videos/_YPTuniqid_5c084d162708c2.16672485_HD.mp4
+URL=https://vshare.eu/rubimuernet3.htm
 
 type=video
 name=
@@ -106,7 +106,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-04
+date=2018-12-07
 URL=
 
 
@@ -115,6 +115,26 @@ URL=
 
 
 
+type=video
+name=Aquaman (2018) ENG HDCAM_ENG_X264_AC3_HQMic_Hive-CM8_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
+date=2018-12-07
+URL=https://openload.co/f/4eoZetdCYpY/Aquaman_2018_HDCAM_ENG_X264_AC3_HQMic_Hive-CM8_SeeHD.mkv.mp4
+#https://openload.co/f/F_dSjC73jCU/Aquaman_2018_TC_V2.mp4
+
+type=video
+name=Mowgli: Legend of the Jungle (2018) ENG Repack.1080p.NF.WEB-DL.DDP5.1.H264-CMRG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/clRnzMsFoMIdC7I5JsG6dnnHH8l.jpg
+date=2018-12-07
+URL=https://openload.co/f/ga28rLnb3-A/Mowgli.Legend.of.the.Jungle.2018.Repack.1080p.NF.WEB-DL.DDP5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/QHxcI3O-sks/Mowgli.Legend.of.the.Jungle.2018.1080p.NF.WEB-DL.DDP5.1.H264-CMRG.mkv.mp4
+
+type=video
+name=Mortal Engines (2018) ENG NEW_HDCAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg
+date=2018-12-07
+URL=https://openload.co/f/yt4IB4owQQQ/Mortal_Engines_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/jfh2kDhtXNI/Mortal_Engines_2018_720p_HDCAM-1XBET.mp4
 
 type=video
 name=Widows (2018) ENG 720p_HDCAM_SeeHD
@@ -217,10 +237,11 @@ URL=https://openload.co/f/eWuh3hFh4-A/London_Fields_2018_720p_RUS_TS_ENG_SUB-1XB
 
 
 type=video
-name=A Simple Favor (2018) ENG DVDRip.XviD.AC3-EVO
+name=A Simple Favor (2018) ENG DVDRip.XviD.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIYsjQM0piKc0ibPBCTWv3sqshj.jpg
-date=2018-12-06
-URL=https://openload.co/f/-sftEyhGMfE/A_Simple_Favor.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+date=2018-12-07
+URL=https://openload.co/f/MRe8hXS-Qg4/A_Simple_Favor.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/-sftEyhGMfE/A_Simple_Favor.2018.DVDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/xsHGLKOMjkI/A_Simple_Favor_2018_NEW_720p_TS-1XBET_SeeHD.mp4
 #https://openload.co/f/M6sBfNsr2Aw/A.Simple.Favor.2018.NOLOGO.720p.HDCAM.1XBET.mp4
 #https://openload.co/f/jPbnk4LGxvg/A.Simple.Favor.2018.720p.HDCAM.1XBET_SeeHD.mp4
@@ -1342,7 +1363,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-05
+date=2018-12-07
 URL=
 
 
@@ -1352,9 +1373,18 @@ URL=
 
 
 
+type=video
+name=Ride (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] 69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/skyZpGolECdQD3KrtqjYHLHC4to.jpg
+date=2018-12-07
+URL=https://openload.co/f/cfh9sBWjqx0/Ride.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/J9SHkpnHPnA/Ride.2018.1080p.BluRay.x264.DTS-FGT.mkv   MKV6.9GB
 
-
-
+type=video
+name=Extraordinary Mission (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMRVJ41dihj4pIpJ4UbArK1IXrg.jpg
+date=2018-12-07
+URL=https://openload.co/f/_cvJ0_GIkSc/extraordinary.mission.2017.1080p.bluray.x264-sprinter.mkv.mp4
 
 type=video
 name=At First Light (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3988,12 +4018,7 @@ URL=https://openload.co/f/eton_OJVu5k/Freak.Show.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/vzm-Re6H8Vg/Freak_Show.2017.HDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/_uOMojn37wg/Freak.Show.720p.WEB-DL_SeeHD.mkv.mp4
 
-type=video
-name=Black Water (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIcZAB5AmRN8fIDXfDZ2aUok9qa.jpg
-date=2018-05-30
-URL=https://openload.co/f/EGasqysDdgA/black.water.2018.1080p.bluray.x264-getit.mkv.mp4
-#https://openload.co/f/ePkTjoORisw/Black.Water.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+
 
 type=video
 name=Tango one (2018) [COLOR=FF00FF00]ESP BR 1080p[/COLOR]
@@ -7667,7 +7692,11 @@ URL=https://uptobox.com/ld06gtkowatq
 #https://oload.fun/embed/09rt47CDG2s/BLUEIGUANABD72.Ganol.si.mkv.mp4
 #https://openload.co/f/zsucKX_xadQ/Blue_Iguana_%282018%29720p_BluRay_x264-PSYCHD.Ganool.mkv.mp4
 
-
+type=video
+name=The Mermaid: Lake of the Dead (2018) [COLOR=FF00FF00]RUS BR 720p[/COLOR] 63
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcAMY0zGhNYg8tk6mjt9NlHFnj5.jpg
+date=2018-12-07
+URL=https://openload.co/f/nUseZd8NpRc/The.Mermaid.The.Lake.of.the.Dead.2018.BluRay.720p.DTS.x264.mkv.mp4
 
 
 
@@ -7677,7 +7706,7 @@ URL=https://uptobox.com/ld06gtkowatq
 type=video
 name=
 thumb=
-date=2018-12-05
+date=2018-12-07
 URL=
 
 type=video
@@ -7809,10 +7838,12 @@ URL=https://openload.co/f/Xumjso_Og_M/The_Girl_in_the_Spider%27s_Web_%282018%29%
 
 
 type=video
-name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG NEW.720p.HDCAM.x264-SugarTiTS
+name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG 720p_HD-TS_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
-date=2018-11-18
-URL=https://openload.co/f/VHRwE1C7oO0/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.NEW.720p.HDCAM.x264-SugarTiTS.mkv.mp4
+date=2018-12-07
+URL=https://openload.co/f/iuHuIdv_D4I/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_720p_HD-TS_SeeHD.mkv.mp4
+#https://openload.co/f/zxQXeYHHfGI/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_720p_HD-TS.mkv.mp4
+#https://openload.co/f/VHRwE1C7oO0/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.NEW.720p.HDCAM.x264-SugarTiTS.mkv.mp4
 #https://openload.co/f/0hy9UKwm1H8/fantastic_beast_2_NEW_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/STtBv3Ur_Og/Fantastic_Beasts_The_Crimes_of_Grindelwal_%282018%29_720p_English_DVDScr_x264_AAC_850MB.mp4
 #https://openload.co/f/vSuSifI7q2Q/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET_SeeHD.mp4
@@ -7879,6 +7910,7 @@ date=2018-12-06
 URL=https://openload.co/f/DiG3PAwW6oo/Venom.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/HtOYhVE8kNI/Venom.2018.BluRay.1080p.DD5.1.x264-MTeam.mkv.mp4
 #https://openload.co/f/LtypoKDDJJo/Venom.2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/t01gRfBxvDw/Venom.2018.1080p.BRRip.X264.AC3.mp4
 #https://openload.co/f/1UZO-T6GhPw/Venom.2018.BluRay.1080p.DD5.1.x264-MTeam.mkv   MKV9.6GB
 #https://openload.co/f/4L-Q1D5zzlc/Venom.2018.1080p.BRRip.X264.AC3-EVO.mkv   MKV4.1GB
 #https://openload.co/f/orscinUd888/Venom.2018.720p.BluRay.H264.AAC-RARBG.mp4
@@ -8100,7 +8132,7 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 type=video
 name=
 thumb=
-date=2018-12-01
+date=2018-12-07
 URL=
 
 
@@ -8111,6 +8143,25 @@ URL=
 
 
 
+
+type=video
+name=The Guilty (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/42QPG6p7oLcLd4LQOPeSTLhqfMx.jpg
+date=2018-12-07
+URL=https://openload.co/f/6nNRf8BineM/The_Guilty_%282018%29%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2_%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B6%E0%B8%81_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Black Water (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIcZAB5AmRN8fIDXfDZ2aUok9qa.jpg
+date=2018-05-30
+URL=https://openload.co/f/EGasqysDdgA/black.water.2018.1080p.bluray.x264-getit.mkv.mp4
+#https://openload.co/f/ePkTjoORisw/Black.Water.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+type=video
+name=Black Water (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIcZAB5AmRN8fIDXfDZ2aUok9qa.jpg
+date=2018-12-07
+URL=https://openload.co/f/tIbQyQPuKaQ/Black_Water_%282018%29Black_Water_%282018%29_%28Google_Translate%29
 
 
 type=video
@@ -10243,6 +10294,13 @@ URL=https://streamango.com/f/ctfrtesfncterrao/A_Christmas_Prince_2017_HD_535FMVK
 #https://openload.co/f/qyGLP-SEr74/A_Christmas_Prince_%282017%29%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%A1%E0%B8%B2%E0%B8%AA_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 type=video
+name=A Christmas Prince: The Royal Wedding (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wn0jjhgN9KhVXFpcw6uIcFh1IXg.jpg
+date=2018-12-07
+URL=https://openload.co/f/8pqno2xYYwk/A_Christmas_Prince%3A_The_Royal_Wedding_%282018%29%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%A1%E0%B8%B2%E0%B8%AA_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
 name=The Killer (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/he6s2dOWmzWXsZGa0QLbcMVZJnx.jpg
 date=2017-11-25
@@ -11466,8 +11524,9 @@ URL=https://uptobox.com/9c2oo11v7eq7
 type=video
 name=The Scorpion King: Book of Souls (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSviUMejPmerwoQxdj7wR4Ky1Fd.jpg
-date=2018-11-29
-URL=https://openload.co/f/oHanviCbHS4/The_Scorpion_King%3A_Book_of_Souls_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%AA%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99_%E0%B8%84%E0%B8%B4%E0%B8%87_5%3A_%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B8%B5%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93.mp4
+date=2018-12-07
+URL=https://openload.co/f/oyjjOT7T9PA/The_Scorpion_King%3A_Book_of_Souls_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%AA%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99_%E0%B8%84%E0%B8%B4%E0%B8%87_5%3A_%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B8%B5%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93.mp4
+#https://openload.co/f/oHanviCbHS4/The_Scorpion_King%3A_Book_of_Souls_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%AA%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99_%E0%B8%84%E0%B8%B4%E0%B8%87_5%3A_%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B8%B5%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93.mp4
 #https://openload.co/f/E5-4XA26BjE/The_Scorpion_King%3A_Book_of_Souls_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%AA%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99_%E0%B8%84%E0%B8%B4%E0%B8%87_5_%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B8%B5%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
@@ -12706,13 +12765,20 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-06
+date=2018-12-07
 URL=
 
 
 
 
 
+
+
+type=video
+name=Attraction (2017) [COLOR=FF00FF00]RUS EngSub BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lz2GVDsgMlGYSzPl8BeKqqU7MQ.jpg
+date=2018-12-07
+URL=https://openload.co/f/r70In0OCGO4/Attraction.2018.720pBRDUBBED_SeeHD.mkv.mp4
 
 type=video
 name=The Evil Dead (1981) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]

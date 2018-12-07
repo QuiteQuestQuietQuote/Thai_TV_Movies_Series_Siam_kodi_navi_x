@@ -2457,7 +2457,7 @@ https://www.djing.com/tv/hits.m3u8
 http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png",hit_tv
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
-#EXTINF:-1,music
+#EXTINF:-1,latin_music
 http://eu1.servers10.com:1935/8118/8118/playlist.m3u8
 
 
@@ -2477,6 +2477,8 @@ http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://painel.soeu.kim:8080/marcelo/12345/8009 
 #EXTINF:-1,GRTN_4K
 http://stream1.grtn.cn/4K/playlist.m3u8
+#EXTINF:-1,ultrahd_CINEMA_rus
+http://85.112.114.12:8080/ch799/mpegts
 
 
 
@@ -2545,7 +2547,7 @@ http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329
 
 
 
-#EXTINF:-1,VOA
+#EXTINF:-1,VOA_CHN
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1,Documentary_CHN
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225791/index.m3u8
@@ -2574,8 +2576,8 @@ http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_pluto
+http://stitcher.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 
 

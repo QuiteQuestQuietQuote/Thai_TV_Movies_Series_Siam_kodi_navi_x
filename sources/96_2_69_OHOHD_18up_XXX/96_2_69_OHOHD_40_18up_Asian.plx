@@ -39,14 +39,13 @@ URL=
 
 
 type=video
-name=hls_Mide-571 An Ultra High Class Little Devil Mens Massage Parlor Sakura Mito
-thumb=https://javsin.com/wp-content/uploads/2018/11/517d6c4ef20614a73966be5ae5e33458-215x316.jpg
-URL=https://cdn2.xjav.to/s114/thz2018/018-hls/appid-35908/hls_720_.m3u8
+name=
+thumb=
+URL=
 
 type=video
-name=key_Mide-571 An Ultra High Class Little Devil Mens Massage Parlor Sakura Mito
-thumb=https://javsin.com/wp-content/uploads/2018/11/517d6c4ef20614a73966be5ae5e33458-215x316.jpg
-URL=https://fck-c20.tnaflix.com/dev20/0/021/544/0021544936.mp4?key=148b5362b9ca680d744afec15576d00c&src=tna&hd=1&domain=tna480p&seek=range
+name=
+thumb=
 
 
 
@@ -63,6 +62,172 @@ URL=https://fck-c20.tnaflix.com/dev20/0/021/544/0021544936.mp4?key=148b5362b9ca6
 
 
 
+
+
+
+
+
+type=video
+name=150xxxxxxxxxxxxxxxxxxxxDongsaeng Ui Yeoja (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Dongsaeng-Ui-Yeoja-2018.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/bceacldpsaqafpdp/
+
+type=video
+name=Chaghan Jamaedeul (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Chaghan-Jamaedeul-2018-Uncut.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/ambcfdcrakpncfmq/
+
+type=video
+name=Jeongsa Chaghan Myeoneulideul 2 (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Jeongsa-Chaghan-Myeoneulideul-2-2018.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/lsclotefdeaetdmp/
+
+type=video
+name=Eolin Nuna 2 (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Eolin-Nuna-2-2018.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/mrecplndsqmmalsp/
+
+type=video
+name=Brutal Private Teacher for Female Sex Shop Starter (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Brutal-Private-Teacher-for-Female-Sex-Shop-Starter-2017.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/aplknsafpsdnlofo/
+
+
+type=video
+name=Muljoh Eun Hasugjib (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Muljoh-Eun-Hasugjib-2018.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/cedncqddbrtpdaqp/
+
+type=video
+name=Rentarutuma 5 (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Rentarutuma-5-2017.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/pfeqrmaesdmerpbr/
+
+type=video
+name=Jeongsa Cheoje Ui Salang (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Jeongsa-Cheoje-Ui-Salang-2018-Uncut.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/esqnpodeetkmdpel/
+
+type=video
+name=Chaghan Yeoseonsaeng (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Chaghan-Yeoseonsaeng-2018-Uncut.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/nssbpmottleeskre/
+
+type=video
+name=Chingueommadeul (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Chingueommadeul-2018-Uncut.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/cdcpordkmlotknpa/
+
+
+type=video
+name=Hitoduma Sei Dorei Mei Kurose (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Hitoduma-Sei-Dorei-Mei-Kurose-2017.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/qtpobddrlbnqkeal/
+
+type=video
+name=Sukimono Yome (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Sukimono-Yome-2017.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/bpbqbblltqbessoa/
+
+type=video
+name=Yeppeun Cheojedeul (2018) [De] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Yeppeun-Cheojedeul-2018-De.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/acdafpespaelatdq/
+
+type=video
+name=Jeongsa Sachon Yeodongsaengdeul (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Jeongsa-Sachon-Yeodongsaengdeul-2018-Uncut.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/dmonqfmqtnpapqkd/
+
+type=video
+name=A Girl House 2 (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/A-Girl-House-2-2018-Uncut.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/ssrtcrtnorqopekn/
+
+
+type=video
+name=Yeogyosa Jejawaui Salang (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Yeogyosa-Jejawaui-Salang-2018-Uncut.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/dssklfbcddspftee/
+
+type=video
+name=Eolin Cheoje 2 (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Eolin-Cheoje-2-2018-Uncut.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/edotoqrfecftcack/
+
+type=video
+name=Sinhonbubuui Seongsaenghwal (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Sinhonbubuui-Seongsaenghwal-2018-Uncut.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/bdpcmkftbcclqkse/
+
+type=video
+name=Aein Anaeui Namja (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Aein-Anaeui-Namja-2018-Uncut.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/pkcldbltcmroepdt/
+
+type=video
+name=New Mom Friends (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/New-Mom-Friends-2018-Uncut.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/snqkobtmednaeqbt/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=130xxxxxxxxxxxxxxxxxxxxBalamnan Yeojadeul 2 (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Balamnan-Yeojadeul-2-2017-Uncut.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/atqfcsqdbkmcknfm/
+
+type=video
+name=Roomsarong Delicious Service (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Roomsarong-Delicious-Service-2018-Uncut.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/refbkalerbodrbqa/
+
+type=video
+name=Nae Chingueommadeul (2018) [De]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Nae-Chingueommadeul-2018-De.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/nqffmnoroqkdfepq/
+
+type=video
+name=Gajeongbu Mas Issneun Seobiseu (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/11/Gajeongbu-Mas-Issneun-Seobiseu-2018-Uncut.jpg
+date=2018-12-07
+URL=https://streamcherry.com/embed/elftknotkckldqms/
 
 
 
