@@ -85,10 +85,10 @@ date=2018-12-04
 URL=
 
 type=video
-name=test
-thumb=https://i.imgur.com/oPJddN3.jpg?1
+name=
+thumb=
 date=2018-12-04
-URL=https://vshare.eu/rubimuernet3.htm
+URL=
 
 type=video
 name=
@@ -122,12 +122,7 @@ date=2018-12-07
 URL=https://openload.co/f/4eoZetdCYpY/Aquaman_2018_HDCAM_ENG_X264_AC3_HQMic_Hive-CM8_SeeHD.mkv.mp4
 #https://openload.co/f/F_dSjC73jCU/Aquaman_2018_TC_V2.mp4
 
-type=video
-name=Mowgli: Legend of the Jungle (2018) ENG Repack.1080p.NF.WEB-DL.DDP5.1.H264-CMRG_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/clRnzMsFoMIdC7I5JsG6dnnHH8l.jpg
-date=2018-12-07
-URL=https://openload.co/f/ga28rLnb3-A/Mowgli.Legend.of.the.Jungle.2018.Repack.1080p.NF.WEB-DL.DDP5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/QHxcI3O-sks/Mowgli.Legend.of.the.Jungle.2018.1080p.NF.WEB-DL.DDP5.1.H264-CMRG.mkv.mp4
+
 
 type=video
 name=Mortal Engines (2018) ENG NEW_HDCAM_SeeHD
@@ -283,13 +278,6 @@ URL=https://openload.co/f/gkdpwns7nyY/White_Boy_Rick_2018_720p_TS-1XBET_SeeHD.mp
 
 
 
-type=video
-name=The Little Mermaid (2018) ENG 1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/PN42hurfIoTRBntRMu2McHXyHb.jpg
-date=2018-08-20
-URL=https://openload.co/f/MTIj7shXvFw/The.Little.Mermaid.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
-#https://openload.co/f/Wyd52TiyQgc/The.Little.Mermaid.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
-#https://openload.co/f/74DNspHO7os/The.Little.Mermaid.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 
 
 
@@ -1539,21 +1527,7 @@ URL=https://openload.co/f/KTeqyZj78aA/Support.the.Girls.2018.1080p.BluRay.H264.A
 #https://openload.co/f/GWDE-GcHLek/Support.the.Girls.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
 #https://openload.co/f/p-anXCp2LiU/Support_the_Girls_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
 
-type=video
-name=Smallfoot (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nKoB6wMVXfsYgRZK5lHZ5VMQ6J.jpg
-date=2018-12-01
-URL=https://uptobox.com/optyhfq42x88
-#https://fruithosts.net/embed/crfcllsfrsfepqco/GHPSMALLFOOT80_Ganol_si_mkv_mp4
-#https://openload.co/embed/XaRmeUtGVMo/GHPSMALLFOOT80.Ganol.si.mkv
-#https://openload.co/f/DylNMXQIoUg/Smallfoot_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
-#https://openload.co/f/MPakReARDVQ/Smallfoot.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/5e29gM_yzfI/smallfoot.2018.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/la0rWtHKMV4/Smallfoot.2018.720p.BluRay.x264.850MB-Pahe.in.mkv.mp4
-#https://openload.co/f/2UvhhRZPRgo/Smallfoot.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/64O6MzqCBIo/Smallfoot.2018.DVDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/XINdJVekZzg/Smallfoot_2018_New_Src_TSRip-H264-AC3-Meow_SeeHD.mkv.mp4
-#https://openload.co/f/iZDs99VvCC8/Smallfoot_2018_720p_HDCAM-1XBET_SeeHD.mp4
+
 
 type=video
 name=The Lingering (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
@@ -2974,11 +2948,6 @@ date=2018-08-31
 URL=https://openload.co/f/ZQObP6sU3rQ/Agent.Mr.Chan.2018.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
 #https://openload.co/f/PTY7yFY1hMU/Agent.Mr.Chan.2018.720p.BluRay.x264.950MB-Pahe.in.mkv.mp4
 
-type=video
-name=Gonjiam: Haunted Asylum (2018) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rhdnM0fvflhU6spI5dw8D0CWrQ.jpg
-date=2018-08-31
-URL=https://openload.co/f/y2HVqMg_cro/Gonjiam.Haunted.Asylum.2018.BluRay.1080p.5.1CH.x264.Ganool.mkv.mp4
 
 
 
@@ -3425,20 +3394,6 @@ URL=https://openload.co/f/mqX5wKrYIDA/The.Atoning.2017.1080p.BluRay.x264-GUACAMO
 #https://openload.co/f/7xKFomKutks/The.Atoning.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/g7zpuGPUDgo/The.Atoning.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 
-type=video
-name=Tully (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDI4YXBXolMYi15Qx2kClvdSERM.jpg
-date=2018-07-25
-URL=https://uptobox.com/q1ze6u6c853x
-#https://www.rapidvideo.com/e/FTM5DNB29O
-#https://openload.co/embed/-TtFxSHRd0Q/GHPTULLY80.Ganol.ru.mkv
-#https://openload.co/f/V8SllvaQ4rc/tully.2018.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/HGQot2knJho/tully.2018.1080p.bluray.x264-drones.mkv   MKV6.6GB
-#https://openload.co/f/iCdsSIV5rVE/Tully_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
-#https://openload.co/f/y05fL4j4h3U/Tully.2018.720pHD_SeeHD.mkv.mp4
-#https://uptobox.com/txn0sk1u01a1   720
-#https://www.rapidvideo.com/e/FTKYFTLEUT   720
-#https://openload.co/embed/H1aaF-Lpbi0/SHQTULLYBD72.Ganol.ru.mkv
 
 
 
@@ -8132,7 +8087,7 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 type=video
 name=
 thumb=
-date=2018-12-07
+date=2018-12-10
 URL=
 
 
@@ -8142,6 +8097,85 @@ URL=
 
 
 
+type=video
+name=Gonjiam: Haunted Asylum (2018) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rhdnM0fvflhU6spI5dw8D0CWrQ.jpg
+date=2018-08-31
+URL=https://openload.co/f/y2HVqMg_cro/Gonjiam.Haunted.Asylum.2018.BluRay.1080p.5.1CH.x264.Ganool.mkv.mp4
+type=video
+name=Gonjiam: Haunted Asylum (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rhdnM0fvflhU6spI5dw8D0CWrQ.jpg
+date=2018-12-10
+URL=https://openload.co/f/QNK8R_Xqfcw/Gonjiam%3A_Haunted_Asylum_%282018%29Gonjiam%3A_Haunted_Asylum_%282018%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=The Little Mermaid (2018) ENG 1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/PN42hurfIoTRBntRMu2McHXyHb.jpg
+date=2018-08-20
+URL=https://openload.co/f/MTIj7shXvFw/The.Little.Mermaid.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/Wyd52TiyQgc/The.Little.Mermaid.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
+#https://openload.co/f/74DNspHO7os/The.Little.Mermaid.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+type=video
+name=The Little Mermaid (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/PN42hurfIoTRBntRMu2McHXyHb.jpg
+date=2018-12-10
+URL=https://openload.co/f/zh3z77Nv5Cw/The_Little_Mermaid_%282018%29%E0%B9%80%E0%B8%87%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Dumplin' (2018) ENG 1080p.NF.WEB-DL.DDP5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJAB1HrFUuOf2VkWPaZ4N2DACCo.jpg
+date=2018-12-10
+URL=https://openload.co/f/QK-vNyXBiVs/Dumplin.2018.1080p.NF.WEB-DL.DDP5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/5eeygM2EJEE/Dumplin.2018.720p.NF.WEB-DL.DDP5.1.H264-CMRG_SeeHD.mkv.mp4
+type=video
+name=Dumplin' (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJAB1HrFUuOf2VkWPaZ4N2DACCo.jpg
+date=2018-12-10
+URL=https://openload.co/f/FLSEEoVGLUM/Dumplin%27_%282018%29%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B9%84%E0%B8%8B%E0%B8%AA%E0%B9%8C%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Bad Cat (2016) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9T9wp2fjwW6C9bZjrHMCL0mZ954.jpg
+date=2018-12-10
+URL=https://openload.co/f/vtiRavvJegw/Bad_Cat_%282016%29%E0%B9%81%E0%B8%A1%E0%B8%A7%E0%B9%80%E0%B8%81%E0%B9%8B%E0%B8%B2_%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87_%28Google_Translate%29
+
+
+type=video
+name=Smallfoot (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nKoB6wMVXfsYgRZK5lHZ5VMQ6J.jpg
+date=2018-12-01
+URL=https://uptobox.com/optyhfq42x88
+#https://fruithosts.net/embed/crfcllsfrsfepqco/GHPSMALLFOOT80_Ganol_si_mkv_mp4
+#https://openload.co/embed/XaRmeUtGVMo/GHPSMALLFOOT80.Ganol.si.mkv
+#https://openload.co/f/DylNMXQIoUg/Smallfoot_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/MPakReARDVQ/Smallfoot.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/5e29gM_yzfI/smallfoot.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/la0rWtHKMV4/Smallfoot.2018.720p.BluRay.x264.850MB-Pahe.in.mkv.mp4
+#https://openload.co/f/2UvhhRZPRgo/Smallfoot.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/64O6MzqCBIo/Smallfoot.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/XINdJVekZzg/Smallfoot_2018_New_Src_TSRip-H264-AC3-Meow_SeeHD.mkv.mp4
+#https://openload.co/f/iZDs99VvCC8/Smallfoot_2018_720p_HDCAM-1XBET_SeeHD.mp4
+type=video
+name=Smallfoot (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nKoB6wMVXfsYgRZK5lHZ5VMQ6J.jpg
+date=2018-12-10
+URL=https://openload.co/f/9VGem2VTpXw/Smallfoot_%282018%29Smallfoot_%282018%29_%28Google_Translate%29
+
+
+type=video
+name=Mowgli: Legend of the Jungle (2018) ENG Repack.1080p.NF.WEB-DL.DDP5.1.H264-CMRG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/clRnzMsFoMIdC7I5JsG6dnnHH8l.jpg
+date=2018-12-07
+URL=https://openload.co/f/ga28rLnb3-A/Mowgli.Legend.of.the.Jungle.2018.Repack.1080p.NF.WEB-DL.DDP5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/QHxcI3O-sks/Mowgli.Legend.of.the.Jungle.2018.1080p.NF.WEB-DL.DDP5.1.H264-CMRG.mkv.mp4
+type=video
+name=Mowgli: Legend of the Jungle (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/clRnzMsFoMIdC7I5JsG6dnnHH8l.jpg
+date=2018-12-10
+URL=https://openload.co/f/A67HNBSrRQA/Mowgli%3A_Legend_of_the_Jungle_%282018%29%E0%B9%80%E0%B8%A1%E0%B8%B2%E0%B8%84%E0%B8%A5%E0%B8%B5%3A_%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%B2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -10819,58 +10853,13 @@ date=2018-11-19
 URL=https://openload.co/f/KtL9I2sJhw0/Kuntilanak_%282018%29%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%81%E0%B8%AA%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
-type=video
-name=The Predator (2018) ENG 1080pHD_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
-date=2018-11-27
-URL=https://openload.co/f/Wh1AfKyJCRQ/The_Predator_1080pHD_SeeHD.mkv.mp4
-#https://openload.co/f/sn38GCbKob8/The.Predator.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/Sq_bHkOyhsg/The.Predator.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/KhCTO6F_AwU/The.Predator.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
-#https://openload.co/f/pWpbXzEqrwI/The.Predator.2018.NOLOGO.NEW.720p.Telesync.mp4
-#https://openload.co/f/v01aS6svE6E/The.Predator.2018.CLEAN.NEW.720p.TELESYNC.mkv.mp4
-#https://openload.co/f/1W4qs2550Sc/The_Predator_2018_NEW_720p_HDCAM-24HD_SeeHD.mkv.mp4
-#https://openload.co/f/JzqururTlsI/The_Predator_2018_NEW_720p_HDCAM_V2-1XBET_SeeHD.mp4
-#https://openload.co/f/rroY7-gdIXA/The_Predator_2018_NEW_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/x3c5W9f8jUc/The_Predator_2018_TS-1XBET_SeeHD.mp4
-#https://openload.co/f/-4OAnxDQ6nw/The.Predator.2018.TS-1XBET.mp4
-#https://openload.co/f/TFCD6jtwgUM/The.Predator.2018.HDTS.XviD-AVID.avi.mp4
-#https://openload.co/f/t11kc2vcOC4/The.Predator.2018.HDTS.XViD.AC3-ETRG.avi.mp4
-type=video
-name=The Predator (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
-date=2018-11-12
-URL=https://openload.co/f/Ecq3clLaBMw/The_Predator_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%94%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/lid3G4MglmY/The_Predator_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%94%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 
 
 
-type=video
-name=The Nun (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg
-date=2018-11-27
-URL=https://uptobox.com/f3ajr1b2hjds
-#https://fruithosts.net/embed/teapabmdtfmdbeeo/GHPTHENUN80_Ganol_st_mkv
-#https://openload.co/f/fW2Okctgff0/The_Nun_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
-#https://openload.co/f/H1thQg2OvcM/The.Nun.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/aXq5OLiwCiw/The.Nun.2018.720p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/in9e_wEC_0M/The.Nun.2018.720p.BluRay.x264.750MB-Pahe.in.mkv.mp4
-#https://openload.co/f/N229PcLCeBY/The.Nun.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/oe1DD-k-8gI/The.Nun.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/OGVM6oCA3yc/The.Nun.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/fY5KyQ89FBs/The.Nun.2018.1080p.HC.HDRip.X264.AC3-EVO.mp4
-#https://openload.co/f/X84sXDhrTMs/THE.NUN.2018.NEW.HDCAM-24HD.mkv.mp4
-#https://openload.co/f/l9zdAMiAJZM/The.Nun.2018.NEW.TS-1XBET.mp4
-#https://openload.co/f/H7GLWgUQJFU/THE_NUN_2018_NEW_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/yLNCEbVeYIM/The_Nun_2018_720p_HDCAM-1XBET_SeeHD.mp4
-type=video
-name=The Nun (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg
-date=2018-11-04
-URL=https://openload.co/f/mVEFUff86zQ/The_Nun_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%99%E0%B8%B1%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/qqcMbSMTqMM/The_Nun_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%99%E0%B8%B1%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
 
 
 type=video
@@ -11440,7 +11429,7 @@ URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9mo
 type=video
 name=
 thumb=
-date=2018-11-30
+date=2018-12-10
 URL=
 
 
@@ -11448,13 +11437,85 @@ URL=
 
 
 
+type=video
+name=Krut: The Himmaphan Warriors (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCZ5QbfnKc2Kcv4wauZkXfdHtLT.jpg
+date=2018-12-10
+URL=https://openload.co/f/We9NaiZJRcA/Krut%3A_The_Himmaphan_Warriors_%282018%29%E0%B8%84%E0%B8%A3%E0%B8%B8%E0%B8%91_%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98_%E0%B8%AB%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C.mp4
 
 
+type=video
+name=The Predator (2018) ENG 1080pHD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
+date=2018-11-27
+URL=https://openload.co/f/Wh1AfKyJCRQ/The_Predator_1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/sn38GCbKob8/The.Predator.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/Sq_bHkOyhsg/The.Predator.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/KhCTO6F_AwU/The.Predator.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
+#https://openload.co/f/pWpbXzEqrwI/The.Predator.2018.NOLOGO.NEW.720p.Telesync.mp4
+#https://openload.co/f/v01aS6svE6E/The.Predator.2018.CLEAN.NEW.720p.TELESYNC.mkv.mp4
+#https://openload.co/f/1W4qs2550Sc/The_Predator_2018_NEW_720p_HDCAM-24HD_SeeHD.mkv.mp4
+#https://openload.co/f/JzqururTlsI/The_Predator_2018_NEW_720p_HDCAM_V2-1XBET_SeeHD.mp4
+#https://openload.co/f/rroY7-gdIXA/The_Predator_2018_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/x3c5W9f8jUc/The_Predator_2018_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/-4OAnxDQ6nw/The.Predator.2018.TS-1XBET.mp4
+#https://openload.co/f/TFCD6jtwgUM/The.Predator.2018.HDTS.XviD-AVID.avi.mp4
+#https://openload.co/f/t11kc2vcOC4/The.Predator.2018.HDTS.XViD.AC3-ETRG.avi.mp4
+type=video
+name=The Predator (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg
+date=2018-12-10
+URL=https://openload.co/f/Qv0pvexByYY/The_Predator_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%94%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C.mp4
+#https://openload.co/f/Ecq3clLaBMw/The_Predator_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%94%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/lid3G4MglmY/The_Predator_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%94%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
+type=video
+name=Tully (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDI4YXBXolMYi15Qx2kClvdSERM.jpg
+date=2018-07-25
+URL=https://uptobox.com/q1ze6u6c853x
+#https://www.rapidvideo.com/e/FTM5DNB29O
+#https://openload.co/embed/-TtFxSHRd0Q/GHPTULLY80.Ganol.ru.mkv
+#https://openload.co/f/V8SllvaQ4rc/tully.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/HGQot2knJho/tully.2018.1080p.bluray.x264-drones.mkv   MKV6.6GB
+#https://openload.co/f/iCdsSIV5rVE/Tully_2018_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+#https://openload.co/f/y05fL4j4h3U/Tully.2018.720pHD_SeeHD.mkv.mp4
+#https://uptobox.com/txn0sk1u01a1   720
+#https://www.rapidvideo.com/e/FTKYFTLEUT   720
+#https://openload.co/embed/H1aaF-Lpbi0/SHQTULLYBD72.Ganol.ru.mkv
+type=video
+name=Tully (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDI4YXBXolMYi15Qx2kClvdSERM.jpg
+date=2018-12-10
+URL=https://openload.co/f/1A0zMicqkw8/Tully_%282018%29%E0%B8%97%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B5%E0%B9%88.mp4
 
 
-
+type=video
+name=The Nun (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg
+date=2018-11-27
+URL=https://uptobox.com/f3ajr1b2hjds
+#https://fruithosts.net/embed/teapabmdtfmdbeeo/GHPTHENUN80_Ganol_st_mkv
+#https://openload.co/f/fW2Okctgff0/The_Nun_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+#https://openload.co/f/H1thQg2OvcM/The.Nun.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/aXq5OLiwCiw/The.Nun.2018.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/in9e_wEC_0M/The.Nun.2018.720p.BluRay.x264.750MB-Pahe.in.mkv.mp4
+#https://openload.co/f/N229PcLCeBY/The.Nun.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/oe1DD-k-8gI/The.Nun.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/OGVM6oCA3yc/The.Nun.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/fY5KyQ89FBs/The.Nun.2018.1080p.HC.HDRip.X264.AC3-EVO.mp4
+#https://openload.co/f/X84sXDhrTMs/THE.NUN.2018.NEW.HDCAM-24HD.mkv.mp4
+#https://openload.co/f/l9zdAMiAJZM/The.Nun.2018.NEW.TS-1XBET.mp4
+#https://openload.co/f/H7GLWgUQJFU/THE_NUN_2018_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/yLNCEbVeYIM/The_Nun_2018_720p_HDCAM-1XBET_SeeHD.mp4
+type=video
+name=The Nun (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg
+date=2018-12-10
+URL=https://openload.co/f/I6iNtA66OWQ/The_Nun_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%99%E0%B8%B1%E0%B8%99.mp4
+#https://openload.co/f/mVEFUff86zQ/The_Nun_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%99%E0%B8%B1%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/qqcMbSMTqMM/The_Nun_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%99%E0%B8%B1%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
