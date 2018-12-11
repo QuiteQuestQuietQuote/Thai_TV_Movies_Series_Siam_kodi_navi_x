@@ -2379,16 +2379,7 @@ http://fpttv.tk/iptv/mytvnet.php?id=afc
 http://fpttv.tk/iptv/mytvnet.php?id=ngphd
 
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth_HUN5.1
-http://151.80.27.107:8080/503/1681/0762554da0e44c8d64bf81d309b7bc72c5cccac3?BBCEARTH_tu_mas_sa_nedoser
-#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
-http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
-http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
 
-
-#EXTINF:-1,FYI_bear-tv
-http://cdn2.bear-tv.com/freetv/TOT_Fyi/playlist.m3u8
 
 
 #EXTINF:-1,Discovery Science_airtelxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -2441,7 +2432,16 @@ http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 
 
 
-
+#EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS_HD
+http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/545/index.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth_HUN5.1
+http://151.80.27.107:8080/503/1681/0762554da0e44c8d64bf81d309b7bc72c5cccac3?BBCEARTH_tu_mas_sa_nedoser
+#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
+http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
+http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
+#EXTINF:-1,FYI_bear-tv
+http://cdn2.bear-tv.com/freetv/TOT_Fyi/playlist.m3u8
 
 
 
@@ -2563,7 +2563,7 @@ https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png",NHK WORLD HD
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS_HD
-http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/545/index.m3u8
+http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
@@ -2579,8 +2579,7 @@ http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
 
-#EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS_HD
-http://ott-cdn.ucom.am/s24/index.m3u8
+
 
 
 

@@ -106,7 +106,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-10
+date=2018-12-11
 URL=
 
 
@@ -115,7 +115,12 @@ URL=
 
 
 
-
+type=video
+name=Instant Family (2018) ENG 720p.HDTC.1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y1AlIP3SIOTje3ky9p68XhQmHU.jpg
+date=2018-12-11
+URL=https://openload.co/f/nWYsUdZz_Ag/Instant.Family.2018.720p.HDTC.1XBET_SeeHD.mp4
+#https://openload.co/f/PyEQhmLYTPU/Instant.Family.2018.720p.HDTC.1XBET.mp4
 
 type=video
 name=Creed II (2018) ENG HDCAM_X264-UNiQUE_SeeHD
@@ -193,10 +198,12 @@ date=2018-10-26
 URL=https://openload.co/f/HM-dmohGv4g/King_of_Thieves_2018_720p_TS-1XBET_SeeHD.mp4
 
 type=video
-name=Night School (2018) ENG 1080p_TC_SeeHD
+name=Night School (2018) ENG 1080pHD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NSMAaBPSbWv7sGmF8oLGMNb8Qm.jpg
-date=2018-11-09
-URL=https://openload.co/f/7PBX4T1L4pw/Night_School_2018_1080p_TC_SeeHD.mkv.mp4
+date=2018-12-11
+URL=https://openload.co/f/dcfty9LdeFk/Night_School_2018_1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/ihIb1uy6RQE/Night.School.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/7PBX4T1L4pw/Night_School_2018_1080p_TC_SeeHD.mkv.mp4
 #https://openload.co/f/rdeQMat_PxU/Night_School_2018_720p_TS-1XBET_SeeHD.mp4
 #https://openload.co/f/vmWxHB1gsaI/Night_School_2018_720p_TS-1XBET.mp4
 
@@ -251,10 +258,12 @@ URL=https://openload.co/f/eWuh3hFh4-A/London_Fields_2018_720p_RUS_TS_ENG_SUB-1XB
 
 
 type=video
-name=White Boy Rick (2018) ENG 720p_TS-1XBET_SeeHD
+name=White Boy Rick (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/376lzYd3vE04qBA5Js93UAKrnvj.jpg
-date=2018-09-16
-URL=https://openload.co/f/gkdpwns7nyY/White_Boy_Rick_2018_720p_TS-1XBET_SeeHD.mp4
+date=2018-12-11
+URL=https://openload.co/f/bk4akqB0ncM/White.Boy.Rick.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/wwjzVQD9mVA/White.Boy.Rick.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/gkdpwns7nyY/White_Boy_Rick_2018_720p_TS-1XBET_SeeHD.mp4
 
 
 
@@ -1365,13 +1374,40 @@ URL=
 
 
 
+type=video
+name=Colette (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGiUIkcTOEn2CwE5CUBFxWkcyxO.jpg
+date=2018-12-11
+URL=https://openload.co/f/OGHdDVcKYXc/Colette.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/zR9_HT_dbow/Colette.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://uptobox.com/gixa0yynna6k   720
+#https://fruithosts.net/embed/ocqmcqknfatqtbno/COLETTEBD72_Ganol_si_mkv_mp4
+#https://oload.fun/embed/Ut-uRJEZw5I/COLETTEBD72.Ganol.si.mkv.mp4
+#https://openload.co/f/JRX2SsIOQDY/Colette_%282018%29720p_BluRay_x264-DRONES.Ganool.mkv.mp4
 
+type=video
+name=Await Further Instructions (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTmeqqn8f6HjRbxshx9T3zoVYdq.jpg
+date=2018-12-11
+URL=https://openload.co/f/ltITbR7YeVY/Await.Further.Instructions.2018.1080p.BluRay.x264-ROVERS.mkv.mp4
+#https://uptobox.com/rp23bjhj217r   720
+#https://fruithosts.net/embed/oqrflrbpnreqadcm/AWAITFUTHERINSTRUCTIONSBD72_Ganol_si_mkv_mp4
+#https://oload.fun/embed/AJfXSkLjbAk/AWAITFUTHERINSTRUCTIONSBD72.Ganol%2Csi.mkv.mp4
+#https://openload.co/f/fYQnNNfDj74/Await_Further_Instructions_%282018%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
+
+type=video
+name=The Mermaid: Lake of the Dead (2018) [COLOR=FF00FF00]RUS BR 1080p[/COLOR] | TMDB-63
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcAMY0zGhNYg8tk6mjt9NlHFnj5.jpg
+date=2018-12-11
+URL=https://openload.co/f/6iEKCELt358/The.Mermaid.Lake.Of.The.Dead.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/nUseZd8NpRc/The.Mermaid.The.Lake.of.the.Dead.2018.BluRay.720p.DTS.x264.mkv.mp4
 
 type=video
 name=Blue Iguana (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ixLHMV9RoyBGJz2yRuggsr0vyX.jpg
-date=2018-12-05
-URL=https://uptobox.com/ld06gtkowatq
+date=2018-12-10
+URL=https://openload.co/f/bdYPVeDmArg/Blue_Iguana.2018.1080p.BlRy.x264-%5BYTS.M%5D.mp4
+#https://uptobox.com/ld06gtkowatq   720
 #https://fruithosts.net/embed/spdspbatrnkqdqrl/BLUEIGUANABD72_Ganol_si_mkv_mp4
 #https://oload.fun/embed/09rt47CDG2s/BLUEIGUANABD72.Ganol.si.mkv.mp4
 #https://openload.co/f/zsucKX_xadQ/Blue_Iguana_%282018%29720p_BluRay_x264-PSYCHD.Ganool.mkv.mp4
@@ -1405,8 +1441,13 @@ URL=https://openload.co/f/rI87RelgMk8/Dynamite.Graffiti.2018.JAPANESE.1080p.BluR
 type=video
 name=A Simple Favor (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIYsjQM0piKc0ibPBCTWv3sqshj.jpg
-date=2018-12-10
-URL=https://openload.co/f/WE5FUyIv82c/A.Simple.Favor.2018.1080p.BR_SeeHD.mp4
+date=2018-12-11
+URL=https://uptobox.com/b5i94hfbj29g
+#https://fruithosts.net/embed/efdfbkcrrftlbdqo/GHPASIMPLEFAVOR80_Ganol_si_mkv
+#https://oload.fun/embed/wgLi64ohHjc/GHPASIMPLEFAVOR80.Ganol.si.mkv
+#https://openload.co/f/MeCbgMtdQnk/A_Simple_Favor_%282018%291080p_BluRay_X264-DEFLATE.Ganool.mkv.mp4
+#https://openload.co/f/-Wv6hFe1HQY/A.Simple.Favor.2018.1080p.BluRay.X264-DEFLATE.mkv.mp4
+#https://openload.co/f/WE5FUyIv82c/A.Simple.Favor.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/82wTYwwDkkU/A.Simple.Favor.2018.PROPER.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/rEKk0HxSzJE/A.Simple.Favor.2018.1080p.BluRay.X264-DEFLATE.mkv.mp4
 #https://openload.co/f/MRe8hXS-Qg4/A_Simple_Favor.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
@@ -7770,17 +7811,40 @@ URL=https://www.blazefile.co/embed-1l6wybupclmh.html
 
 
 
-type=video
-name=The Mermaid: Lake of the Dead (2018) [COLOR=FF00FF00]RUS BR 720p[/COLOR] | TMDB-63
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcAMY0zGhNYg8tk6mjt9NlHFnj5.jpg
-date=2018-12-07
-URL=https://openload.co/f/nUseZd8NpRc/The.Mermaid.The.Lake.of.the.Dead.2018.BluRay.720p.DTS.x264.mkv.mp4
+
 
 type=video
 name=Lizzie (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR] | TMDB-42
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7pCf7WQudPMFfsK7AztHNmBccj.jpg
 date=2018-12-10
 URL=https://openload.co/f/VhK8O2WnE8Y/Lizzie.2018.720p.BDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+
+type=video
+name=The Steam Engines of Oz (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR] | TMDB-95
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fY97nBHRex9UI2mZQzubuWXjfM.jpg
+date=2018-12-11
+URL=https://uptobox.com/jcp3ig0mk17n
+#https://fruithosts.net/embed/mpnnmstkkpsnrdcn/THESTEAMENGONESOFOZBD72_Ganol_si_mkv_mp4
+#https://oload.fun/embed/DYvn7ct6M-E/THESTEAMENGONESOFOZBD72.Ganol.si.mkv.mp4
+#https://openload.co/f/qWNrxkGnQBE/The_Steam_Engines_of_Oz_%282018%29720p_BluRay_x264-SPRiNTER.Ganool.mkv.mp4
+#https://openload.co/f/i2a5MDaKZ1g/The.Steam.Engines.of.Oz.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
+
+
+type=video
+name=I Still See You (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR] | TMDB-75
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fqzZs922V8OmwgO11Eqclof2mQ.jpg
+date=2018-12-11
+URL=https://uptobox.com/74s9emw55rze
+#https://fruithosts.net/embed/qloslenbfdlkslrn/ISTILLSEEYOUBD72_Ganol_si_mkv_mp4
+#https://oload.fun/embed/S52Y12DnF-w/ISTILLSEEYOUBD72.Ganol.si.mkv.mp4
+#https://openload.co/f/XGFOsvtPjFQ/I_Still_See_You_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+
+type=video
+name=The Children Act (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUZA9uLAhEOmO7WemICodTxXokS.jpg
+date=2018-12-11
+URL=https://openload.co/f/FGhXa4ggvf0/The.children.Act.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
 
 
@@ -7792,7 +7856,7 @@ URL=https://openload.co/f/VhK8O2WnE8Y/Lizzie.2018.720p.BDRip.X264.AC3-EVO_SeeHD.
 type=video
 name=
 thumb=
-date=2018-12-10
+date=2018-12-11
 URL=
 
 type=video
@@ -8622,10 +8686,17 @@ URL=https://openload.co/f/xEBSYA1wsGI/Radius_%282017%29%E0%B8%A3%E0%B8%B1%E0%B8%
 
 
 type=video
-name=Galveston (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+name=Galveston (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZnPtTHw7TfOQoLz3MeAUSLvNK5.jpg
-date=2018-10-23
-URL=https://openload.co/f/OBNnbvHPAP0/Galveston.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+date=2018-12-11
+URL=https://uptobox.com/cljwytlo2uzi
+#https://fruithosts.net/embed/acolqarnfolpnftk/GALVESTON80_Ganol_si_mkv
+#https://oload.fun/embed/GHHGHCBWYYU/GALVESTON80.Ganol.si.mkv
+#https://openload.co/f/qr63kx78arU/Galveston_%282018%291080p_BluRay_x264-ROVERS.Ganool.mkv.mp4
+#https://openload.co/f/YmK2pVVYGrs/Galveston.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/13T_aKXLVDg/Galveston.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/GJlVGpLuE3w/galveston.2018.1080p.bluray.x264-rovers.mkv.mp4
+#https://openload.co/f/OBNnbvHPAP0/Galveston.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/nUt7IaM4LnA/Galveston_1080p_WEB-DL_SeeHD.mkv.mp4
 type=video
 name=Galveston (2018) THSUB
@@ -8635,7 +8706,7 @@ URL=https://openload.co/f/bSBosr9PEjg/Galveston_%282018%29%E0%B9%81%E0%B8%84%E0%
 
 
 type=video
-name=Deep Blue Sea 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Deep Blue Sea 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-45
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGYZLSXiN4LfScxfrKMyR7VnmKI.jpg
 date=2018-04-16
 URL=https://openload.co/f/bY2HRl8gLu0/Deep.Blue.Sea.2.2018.1080p.BR_SeeHD.mp4
@@ -8725,6 +8796,7 @@ URL=https://uptobox.com/51rzjkjxuer5
 #https://oload.fun/embed/NbRe1PAvrp0/GHPOPERATIONFINALE80.Ganol.si.mkv
 #https://openload.co/f/8sLAkmzLnJ0/Operation_Finale_%282018%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
 #https://openload.co/f/BDpI_RtysV8/Operation.Finale.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/mD3OthfGTUE/Operation.Finale.2018.BluRay.1080p.x264.DTS.-.Hon3yHD.mkv.mp4
 #https://uptobox.com/bjwjyhkkzl53   720
 #https://fruithosts.net/embed/ekfqedklamonsaec/OPERATIONFINALEBD72_Ganol_si_mkv_mp4_mp4_mp4
 #https://oload.fun/embed/oynMba8ymUk/OPERATIONFINALEBD72.Ganol.si.mkv.mp4
@@ -10866,7 +10938,14 @@ URL=
 
 
 
-
+type=video
+name=One Cut of the Dead (2017) [COLOR=FF00FF00]JAP BR 720p[/COLOR] | TMDB-89
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0ZB59m0kio95VClKoq95s1QYbu.jpg
+date=2018-12-11
+URL=https://uptobox.com/iepk2vsfzjgx
+#https://fruithosts.net/embed/btodlenncsqsaekl/One_Cut_of_the_Dead_2017_BluRay_720p_750MB_Ganol_si_mkv
+#https://oload.fun/embed/Rhl7Q96J1y4/One.Cut.of.the.Dead.2017.BluRay.720p.750MB.Ganol.si.mkv
+#https://openload.co/f/ijinZJu-g1M/One.Cut.of.the.Dead.2017.Blu-ray_720p_AVC_LPCM_2.0-Huan%40HDS.Ganool.mkv.mp4
 type=video
 name=One Cut of the Dead (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0ZB59m0kio95VClKoq95s1QYbu.jpg
