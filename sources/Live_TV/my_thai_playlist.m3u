@@ -2379,7 +2379,8 @@ http://fpttv.tk/iptv/mytvnet.php?id=afc
 http://fpttv.tk/iptv/mytvnet.php?id=ngphd
 
 
-
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth_HUN5.1
+http://151.80.27.107:8080/503/1681/0762554da0e44c8d64bf81d309b7bc72c5cccac3?BBCEARTH_tu_mas_sa_nedoser
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
@@ -2577,10 +2578,9 @@ http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth
-http://151.80.27.107:8080/503/1681/0762554da0e44c8d64bf81d309b7bc72c5cccac3?BBCEARTH_tu_mas_sa_nedoser
 
-
+#EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS_HD
+http://ott-cdn.ucom.am/s24/index.m3u8
 
 
 

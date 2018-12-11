@@ -140,12 +140,7 @@ URL=https://openload.co/f/4eoZetdCYpY/Aquaman_2018_HDCAM_ENG_X264_AC3_HQMic_Hive
 
 
 
-type=video
-name=Mortal Engines (2018) ENG NEW_HDCAM_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg
-date=2018-12-07
-URL=https://openload.co/f/yt4IB4owQQQ/Mortal_Engines_NEW_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/jfh2kDhtXNI/Mortal_Engines_2018_720p_HDCAM-1XBET.mp4
+
 
 type=video
 name=Widows (2018) ENG 720p_HDCAM_SeeHD
@@ -7883,7 +7878,17 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
-
+type=video
+name=Mortal Engines (2018) ENG NEW_HDCAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg
+date=2018-12-07
+URL=https://openload.co/f/yt4IB4owQQQ/Mortal_Engines_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/jfh2kDhtXNI/Mortal_Engines_2018_720p_HDCAM-1XBET.mp4
+type=video
+name=Mortal Engines (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg
+date=2018-12-11
+URL=https://openload.co/f/I3e9adDqUk8/Mortal_Engines_%282018%29%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%3A_%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
 type=video
@@ -10799,19 +10804,7 @@ player=default
 rating=-1.00
 description=Park Tae-Soo was born to a difficult family, one day he wanted to be a prosecutor. He was able to achieve his dream accepted in one of the best university in South Korea and became a prosecutor. Park Tae-Soo is one of the best prosecutor although he is the youngest among them. Than everything changed when he meet Han Kang-Sik, prosecutor that has the power of the king, but then Tae-Soo see what's behind the curtain, the movie reflected the power of the prosecutors on the 90s./description
 
-# 2769908
-type=video
-name=Allied (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] fmovies
-thumb=http://image.tmdb.org/t/p/w500/nzXzLFTnd0Zb3ExfhOxlQgizgSu.jpg
-date=2018-05-07
-URL=https://openload.co/f/iVIZEHOlsig/Allied.2016.1080p.BRRip.x264.AAC_ETRG.mp4
-type=video
-name=Allied (2016) SUB
-thumb=http://image.tmdb.org/t/p/w500/nzXzLFTnd0Zb3ExfhOxlQgizgSu.jpg
-URL=https://openload.co/f/B8nRncceehA/Allied_%282016%29_%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3.mp4
-player=default
-rating=-1.00
-description=In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war./description
+
 
 # 2769537
 type=video
@@ -10865,7 +10858,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-05
+date=2018-12-11
 URL=
 
 
@@ -10874,7 +10867,11 @@ URL=
 
 
 
-
+type=video
+name=One Cut of the Dead (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0ZB59m0kio95VClKoq95s1QYbu.jpg
+date=2018-12-11
+URL=https://openload.co/f/QFSTYNH4Lks/One_Cut_of_the_Dead_%282017%29%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%B1%E0%B8%97_%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%87%E0%B8%B1%E0%B8%9A%E0%B9%86%E0%B9%86%E0%B9%86_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
 type=video
@@ -11591,6 +11588,29 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+# 2769908
+type=video
+name=Allied (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] fmovies
+thumb=http://image.tmdb.org/t/p/w500/nzXzLFTnd0Zb3ExfhOxlQgizgSu.jpg
+date=2018-05-07
+URL=https://openload.co/f/iVIZEHOlsig/Allied.2016.1080p.BRRip.x264.AAC_ETRG.mp4
+type=video
+name=Allied (2016) TH
+thumb=http://image.tmdb.org/t/p/w500/nzXzLFTnd0Zb3ExfhOxlQgizgSu.jpg
+URL=https://openload.co/f/8-uKZbXwDLA/Allied_%282016%29%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3.mp4
+#https://openload.co/f/B8nRncceehA/Allied_%282016%29_%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3.mp4
+player=default
+rating=-1.00
+description=In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war./description
 
 
 type=video
