@@ -80,25 +80,33 @@ URL=http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)
 
 type=video
 name=
-thumb=
+thumb=https://1.bp.blogspot.com/-lxDpx1gXkAM/W59HKibG-2I/AAAAAAAAX6U/NJ2sX8nUB6YJrLkTMUxx9plNCjiSkoA2wCLcBGAs/s1600/1.jpg
 date=2018-12-04
-URL=
+URL=http://fileflares.com/hnbbxkrr2lej/The.Predator.2018.1080p.BluRay.H264.AAC-RARBG.mp4.html
 
 type=video
 name=
 thumb=
 date=2018-12-04
-URL=
+URL=https://openload.co/f/jWhSDWnIkFo/The.Predator.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=
 thumb=
 date=2018-12-04
-URL=
+URL=http://rockfile.co/4zbj58qziykp.html
 
+type=video
+name=
+thumb=
+date=2018-12-11
+URL=https://turbobit.net/v0xpa9he98b0.html
 
-
-
+type=video
+name=
+thumb=https://1.bp.blogspot.com/-lxDpx1gXkAM/W59HKibG-2I/AAAAAAAAX6U/NJ2sX8nUB6YJrLkTMUxx9plNCjiSkoA2wCLcBGAs/s1600/1.jpg
+date=2018-12-11
+URL=https://ayefiles.com/bimdaytcm7y9/The.Predator.2018.1080p.BluRay.H264.AAC-RARBG.mp4.html
 
 
 
@@ -1364,7 +1372,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-10
+date=2018-12-12
 URL=
 
 
@@ -1373,6 +1381,39 @@ URL=
 
 
 
+
+type=video
+name=Lizzie (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-42
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7pCf7WQudPMFfsK7AztHNmBccj.jpg
+date=2018-12-12
+URL=https://uptobox.com/0asy3biwk63g
+#https://fruithosts.net/embed/fbpqrbcebntqtpsd/LIZZIE80_Ganol_si_mkv_mp4
+#https://oload.fun/embed/7b4Z5L6I-IU/LIZZIE80.Ganol.si.mkv.mp4
+#https://openload.co/f/jtA3CmZmv68/Lizzie_%282018%29PROPER_1080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://openload.co/f/k201DgnF_fU/Lizzie.2018.PROPER.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/VhK8O2WnE8Y/Lizzie.2018.720p.BDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+
+type=video
+name=I Still See You (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-75
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fqzZs922V8OmwgO11Eqclof2mQ.jpg
+date=2018-12-12
+URL=https://uptobox.com/vrql6y6b7nmk
+#https://fruithosts.net/embed/tbpffbcatelkroqr/ISTILLSEEYOU80_Ganol_si_mkv
+#https://oload.fun/embed/KypKTNZXZZQ/ISTILLSEEYOU80.Ganol.si.mkv
+#https://openload.co/f/Odn_D5Vmq44/I_Still_See_You_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+#https://uptobox.com/74s9emw55rze   720
+#https://fruithosts.net/embed/qloslenbfdlkslrn/ISTILLSEEYOUBD72_Ganol_si_mkv_mp4
+#https://oload.fun/embed/S52Y12DnF-w/ISTILLSEEYOUBD72.Ganol.si.mkv.mp4
+#https://openload.co/f/XGFOsvtPjFQ/I_Still_See_You_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+
+type=video
+name=Mr. Long (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-85
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xbuK3Y8zonLCuce89gbjXlRcdw.jpg
+date=2018-12-12
+URL=https://uptobox.com/8xy1d1dfttch
+#https://fruithosts.net/embed/qoktbmotsbfofcpc/Mr_Long_2017_BluRay_1080p_5_1CH_x264_Ganol_si_mkv_mp4
+#https://oload.fun/embed/0f-n2i0XMW8/Mr.Long.2017.BluRay.1080p.5.1CH.x264.Ganol.si.mkv.mp4
+#https://openload.co/f/AgjpT20DBO4/Mr.Long.2017.BluRay_1080p_REMUX_AVC_DTS-HD_MA_5.1-sattam.Ganool.mkv.mp4
 
 type=video
 name=Colette (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
@@ -7813,11 +7854,7 @@ URL=https://www.blazefile.co/embed-1l6wybupclmh.html
 
 
 
-type=video
-name=Lizzie (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR] | TMDB-42
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7pCf7WQudPMFfsK7AztHNmBccj.jpg
-date=2018-12-10
-URL=https://openload.co/f/VhK8O2WnE8Y/Lizzie.2018.720p.BDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+
 
 type=video
 name=The Steam Engines of Oz (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR] | TMDB-95
@@ -7831,14 +7868,9 @@ URL=https://uptobox.com/jcp3ig0mk17n
 
 
 
-type=video
-name=I Still See You (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR] | TMDB-75
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fqzZs922V8OmwgO11Eqclof2mQ.jpg
-date=2018-12-11
-URL=https://uptobox.com/74s9emw55rze
-#https://fruithosts.net/embed/qloslenbfdlkslrn/ISTILLSEEYOUBD72_Ganol_si_mkv_mp4
-#https://oload.fun/embed/S52Y12DnF-w/ISTILLSEEYOUBD72.Ganol.si.mkv.mp4
-#https://openload.co/f/XGFOsvtPjFQ/I_Still_See_You_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+
+
+
 
 type=video
 name=The Children Act (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR] | TMDB-70
@@ -7846,7 +7878,11 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUZA9uLAhEOmO7WemICodTxXok
 date=2018-12-11
 URL=https://openload.co/f/FGhXa4ggvf0/The.children.Act.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
-
+type=video
+name=The Wild Pear Tree (2018) [COLOR=FF00FF00]TUR BR 720p[/COLOR] | TMDB-79
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QNUj1e6MdyuRKxWg4v2riG97In.jpg
+date=2018-12-12
+URL=https://openload.co/f/ZI-F5ktfVhU/The_Wild_Pear_Tree_%282018%29_BluRay_720p_x264-XpoZ.mkv.mp4
 
 
 
@@ -7856,7 +7892,7 @@ URL=https://openload.co/f/FGhXa4ggvf0/The.children.Act.2017.720p.BluRay.H264.AAC
 type=video
 name=
 thumb=
-date=2018-12-11
+date=2018-12-12
 URL=
 
 type=video
