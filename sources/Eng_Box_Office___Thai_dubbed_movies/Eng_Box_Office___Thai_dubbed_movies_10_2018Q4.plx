@@ -114,7 +114,7 @@ URL=https://ayefiles.com/bimdaytcm7y9/The.Predator.2018.1080p.BluRay.H264.AAC-RA
 type=video
 name=
 thumb=
-date=2018-12-11
+date=2018-12-13
 URL=
 
 
@@ -122,6 +122,15 @@ URL=
 
 
 
+
+
+
+type=video
+name=Spider-Man: Into the Spider-Verse (2018) ENG CAM.X264-SuperSpy_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
+date=2018-12-13
+URL=https://openload.co/f/qDwvb4h3Mho/Spider-Man_Into_The_Spider_Versee.2018.CAM.X264-SuperSpy_SeeHD.mkv.mp4
+#https://openload.co/f/Acp3BMFlPyA/Spider-Man.Into.The.Spider.Versee.2018.CAM.X264-SuperSpy.mkv.mp4
 
 type=video
 name=Instant Family (2018) ENG 720p.HDTC.1XBET_SeeHD
@@ -1372,7 +1381,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-12
+date=2018-12-13
 URL=
 
 
@@ -1382,6 +1391,63 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=Black '47 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZiu9RIcMeQLUaDVqQffQTl6bhy.jpg
+date=2018-12-13
+URL=https://openload.co/f/lMfGDswF9fA/Black.47.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
+
+type=video
+name=The Man from Mo'Wax (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-77
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/asdB30SchUqVL0Y0Z2rzVaSJEFR.jpg
+date=2018-12-13
+URL=https://openload.co/f/6Txc8FNGaPU/the.man.from.mo.wax.2016.limited.1080p.bluray.x264-cadaver.mkv.mp4
+
+type=video
+name=Air Strike (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-48
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ve7xmUK167YZloN8LnSyhKmmNgE.jpg
+date=2018-12-13
+URL=https://openload.co/f/zQKVWRtea0w/Air.Strike.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=The Cliff (2016) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] | TMDB-52
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7A0Jcj59LpeecONpeekQQOlwVA.jpg
+date=2018-12-13
+URL=https://openload.co/f/LavXjZXDeb4/Acantilado.2016.SPANISH.1080p.BluRay.H264.AAC.mp4
+
+type=video
+name=The Steam Engines of Oz (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-95
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fY97nBHRex9UI2mZQzubuWXjfM.jpg
+date=2018-12-13
+URL=https://openload.co/f/yT52NKoCiok/The.Steam.Engines.of.Oz.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/jcp3ig0mk17n   720
+#https://fruithosts.net/embed/mpnnmstkkpsnrdcn/THESTEAMENGONESOFOZBD72_Ganol_si_mkv_mp4
+#https://oload.fun/embed/DYvn7ct6M-E/THESTEAMENGONESOFOZBD72.Ganol.si.mkv.mp4
+#https://openload.co/f/qWNrxkGnQBE/The_Steam_Engines_of_Oz_%282018%29720p_BluRay_x264-SPRiNTER.Ganool.mkv.mp4
+#https://openload.co/f/i2a5MDaKZ1g/The.Steam.Engines.of.Oz.2018.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=High Voltage (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/44TEBlWUctxG9K3T1niiLdBINSx.jpg
+date=2018-12-13
+URL=https://openload.co/f/36rSoSYqg1I/High.Voltage.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://uptobox.com/8g7ldbe0urj1   720
+#https://fruithosts.net/embed/srccqafemrssnkmc/HIGHVOLTAGEBD72_Ganol_si_mkv_mp4
+#https://oload.fun/embed/_BThoPkZ2AE/HIGHVOLTAGEBD72.Ganol.si.mkv.mp4
+#https://openload.co/f/NLuey_4a_wU/High.Voltage.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
+
+type=video
+name=The Children Act (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUZA9uLAhEOmO7WemICodTxXokS.jpg
+date=2018-12-13
+URL=https://openload.co/f/d8ZsrwzZtCs/The.Children.Act.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/FGhXa4ggvf0/The.children.Act.2017.720p.BluRay.H264.AAC-RARBG.mp4
+
 type=video
 name=Lizzie (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-42
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7pCf7WQudPMFfsK7AztHNmBccj.jpg
@@ -1390,6 +1456,7 @@ URL=https://uptobox.com/0asy3biwk63g
 #https://fruithosts.net/embed/fbpqrbcebntqtpsd/LIZZIE80_Ganol_si_mkv_mp4
 #https://oload.fun/embed/7b4Z5L6I-IU/LIZZIE80.Ganol.si.mkv.mp4
 #https://openload.co/f/jtA3CmZmv68/Lizzie_%282018%29PROPER_1080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://openload.co/f/ww9rVDLXsTU/Lizzie.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/k201DgnF_fU/Lizzie.2018.PROPER.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/VhK8O2WnE8Y/Lizzie.2018.720p.BDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 
@@ -1401,6 +1468,7 @@ URL=https://uptobox.com/vrql6y6b7nmk
 #https://fruithosts.net/embed/tbpffbcatelkroqr/ISTILLSEEYOU80_Ganol_si_mkv
 #https://oload.fun/embed/KypKTNZXZZQ/ISTILLSEEYOU80.Ganol.si.mkv
 #https://openload.co/f/Odn_D5Vmq44/I_Still_See_You_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+#https://openload.co/f/83CgWrrBaSo/I.Still.See.You.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://uptobox.com/74s9emw55rze   720
 #https://fruithosts.net/embed/qloslenbfdlkslrn/ISTILLSEEYOUBD72_Ganol_si_mkv_mp4
 #https://oload.fun/embed/S52Y12DnF-w/ISTILLSEEYOUBD72.Ganol.si.mkv.mp4
@@ -1420,6 +1488,7 @@ name=Colette (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGiUIkcTOEn2CwE5CUBFxWkcyxO.jpg
 date=2018-12-11
 URL=https://openload.co/f/OGHdDVcKYXc/Colette.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/WYZOkcMZVsY/Colette.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/zR9_HT_dbow/Colette.2018.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://uptobox.com/gixa0yynna6k   720
 #https://fruithosts.net/embed/ocqmcqknfatqtbno/COLETTEBD72_Ganol_si_mkv_mp4
@@ -1429,8 +1498,9 @@ URL=https://openload.co/f/OGHdDVcKYXc/Colette.2018.1080p.BluRay.H264.AAC-RARBG.m
 type=video
 name=Await Further Instructions (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTmeqqn8f6HjRbxshx9T3zoVYdq.jpg
-date=2018-12-11
-URL=https://openload.co/f/ltITbR7YeVY/Await.Further.Instructions.2018.1080p.BluRay.x264-ROVERS.mkv.mp4
+date=2018-12-13
+URL=https://openload.co/f/4HUJdiSFeu4/Await.Further.Instructions.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/ltITbR7YeVY/Await.Further.Instructions.2018.1080p.BluRay.x264-ROVERS.mkv.mp4
 #https://uptobox.com/rp23bjhj217r   720
 #https://fruithosts.net/embed/oqrflrbpnreqadcm/AWAITFUTHERINSTRUCTIONSBD72_Ganol_si_mkv_mp4
 #https://oload.fun/embed/AJfXSkLjbAk/AWAITFUTHERINSTRUCTIONSBD72.Ganol%2Csi.mkv.mp4
@@ -3342,14 +3412,12 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNeAPcIRdKeSqVHVB3naHtFZf0
 date=2018-08-11
 URL=https://openload.co/f/UmBky27DhGo/john.from.2015.1080p.bluray.x264-ghouls.mkv.mp4
 
-
-
-
 type=video
-name=Beyond the Clouds (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
+name=Beyond the Clouds (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR] I TMDB-60
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HvQ7UEngiSQ7Nxj1lH0HW8kOpj.jpg
-date=2018-08-10
-URL=https://openload.co/f/flqzDb_uhaQ/Beyond.The.Clouds.2017.1080p.10bit.BluRay.x265.HEVC.6CH-MRN.mkv.mp4
+date=2018-12-13
+URL=https://openload.co/f/0KEciqABlLM/Beyond.The.Clouds.2017.LIMITED.1080p.BluRay.x264-Chakra.mkv.mp4
+#https://openload.co/f/flqzDb_uhaQ/Beyond.The.Clouds.2017.1080p.10bit.BluRay.x265.HEVC.6CH-MRN.mkv.mp4
 
 type=video
 name=Padmaavat (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
@@ -7827,14 +7895,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6paaaifXjAPAvXdpKk3LxpNJ0I
 date=2018-11-26
 URL=https://openload.co/f/FLg7g2fua2A/House.of.The.Rising.Sons.2018.720p_BluRay_DD_5.1_x264-WiKi.Ganool.mkv.mp4
 
-type=video
-name=High Voltage (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/44TEBlWUctxG9K3T1niiLdBINSx.jpg
-date=2018-12-04
-URL=https://uptobox.com/8g7ldbe0urj1
-#https://fruithosts.net/embed/srccqafemrssnkmc/HIGHVOLTAGEBD72_Ganol_si_mkv_mp4
-#https://oload.fun/embed/_BThoPkZ2AE/HIGHVOLTAGEBD72.Ganol.si.mkv.mp4
-#https://openload.co/f/NLuey_4a_wU/High.Voltage.2018.720p.BluRay.x264.DTS-CHD.mkv.mp4
+
 
 
 
@@ -7856,27 +7917,7 @@ URL=https://www.blazefile.co/embed-1l6wybupclmh.html
 
 
 
-type=video
-name=The Steam Engines of Oz (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR] | TMDB-95
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fY97nBHRex9UI2mZQzubuWXjfM.jpg
-date=2018-12-11
-URL=https://uptobox.com/jcp3ig0mk17n
-#https://fruithosts.net/embed/mpnnmstkkpsnrdcn/THESTEAMENGONESOFOZBD72_Ganol_si_mkv_mp4
-#https://oload.fun/embed/DYvn7ct6M-E/THESTEAMENGONESOFOZBD72.Ganol.si.mkv.mp4
-#https://openload.co/f/qWNrxkGnQBE/The_Steam_Engines_of_Oz_%282018%29720p_BluRay_x264-SPRiNTER.Ganool.mkv.mp4
-#https://openload.co/f/i2a5MDaKZ1g/The.Steam.Engines.of.Oz.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
-
-
-
-
-
-
-type=video
-name=The Children Act (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR] | TMDB-70
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUZA9uLAhEOmO7WemICodTxXokS.jpg
-date=2018-12-11
-URL=https://openload.co/f/FGhXa4ggvf0/The.children.Act.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Wild Pear Tree (2018) [COLOR=FF00FF00]TUR BR 720p[/COLOR] | TMDB-79
@@ -8730,6 +8771,7 @@ URL=https://uptobox.com/cljwytlo2uzi
 #https://oload.fun/embed/GHHGHCBWYYU/GALVESTON80.Ganol.si.mkv
 #https://openload.co/f/qr63kx78arU/Galveston_%282018%291080p_BluRay_x264-ROVERS.Ganool.mkv.mp4
 #https://openload.co/f/YmK2pVVYGrs/Galveston.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/eg-vm9ATq2U/Galveston.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/13T_aKXLVDg/Galveston.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/GJlVGpLuE3w/galveston.2018.1080p.bluray.x264-rovers.mkv.mp4
 #https://openload.co/f/OBNnbvHPAP0/Galveston.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
@@ -11073,8 +11115,9 @@ URL=https://openload.co/f/F50fZoE0fog/Rampant_%282018%29%E0%B8%99%E0%B8%84%E0%B8
 type=video
 name=First Man (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
-date=2018-11-21
-URL=https://openload.co/f/Q-IpbQFdeGc/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-12-13
+URL=https://openload.co/f/JQ-sf2xhroo/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/Q-IpbQFdeGc/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/LMJ_mquiaps/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/AwQGBb1XjbM/First_Man_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/7mOSc3yTvAM/First_Man_2018_720p_HDCAM-1XBET.mp4
