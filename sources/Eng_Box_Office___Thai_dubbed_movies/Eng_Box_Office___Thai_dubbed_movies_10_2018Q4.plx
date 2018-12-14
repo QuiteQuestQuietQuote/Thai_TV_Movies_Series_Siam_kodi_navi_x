@@ -80,33 +80,33 @@ URL=http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)
 
 type=video
 name=
-thumb=https://1.bp.blogspot.com/-lxDpx1gXkAM/W59HKibG-2I/AAAAAAAAX6U/NJ2sX8nUB6YJrLkTMUxx9plNCjiSkoA2wCLcBGAs/s1600/1.jpg
+thumb=
 date=2018-12-04
-URL=http://fileflares.com/hnbbxkrr2lej/The.Predator.2018.1080p.BluRay.H264.AAC-RARBG.mp4.html
+URL=
 
 type=video
 name=
 thumb=
 date=2018-12-04
-URL=https://openload.co/f/jWhSDWnIkFo/The.Predator.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+URL=
 
 type=video
 name=
 thumb=
 date=2018-12-04
-URL=http://rockfile.co/4zbj58qziykp.html
+URL=
 
 type=video
 name=
 thumb=
 date=2018-12-11
-URL=https://turbobit.net/v0xpa9he98b0.html
+URL=
 
 type=video
 name=
-thumb=https://1.bp.blogspot.com/-lxDpx1gXkAM/W59HKibG-2I/AAAAAAAAX6U/NJ2sX8nUB6YJrLkTMUxx9plNCjiSkoA2wCLcBGAs/s1600/1.jpg
+thumb=
 date=2018-12-11
-URL=https://ayefiles.com/bimdaytcm7y9/The.Predator.2018.1080p.BluRay.H264.AAC-RARBG.mp4.html
+URL=
 
 
 
@@ -114,7 +114,7 @@ URL=https://ayefiles.com/bimdaytcm7y9/The.Predator.2018.1080p.BluRay.H264.AAC-RA
 type=video
 name=
 thumb=
-date=2018-12-13
+date=2018-12-14
 URL=
 
 
@@ -122,8 +122,12 @@ URL=
 
 
 
-
-
+type=video
+name=Bumblebee (2018) ENG 720p_HDCAM_ENG_SUB-ORCA88_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
+date=2018-12-14
+URL=https://openload.co/f/pzUifM0ZNTY/Bumblebee_2018_720p_HDCAM_ENG_SUB_ORCA88_SeeHD.mp4
+#https://openload.co/f/sFhmjyX2ynM/Bumblebee_2018_720p_HDCAM_ENG_SUB-ORCA88_SeeHD.mp4
 
 type=video
 name=Spider-Man: Into the Spider-Verse (2018) ENG CAM.X264-SuperSpy_SeeHD
@@ -1399,8 +1403,9 @@ URL=
 type=video
 name=Black '47 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZiu9RIcMeQLUaDVqQffQTl6bhy.jpg
-date=2018-12-13
-URL=https://openload.co/f/lMfGDswF9fA/Black.47.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
+date=2018-12-14
+URL=https://openload.co/f/ec1fNWlW43s/Black.47.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/lMfGDswF9fA/Black.47.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
 
 type=video
 name=The Man from Mo'Wax (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-77
@@ -1456,6 +1461,7 @@ URL=https://uptobox.com/0asy3biwk63g
 #https://fruithosts.net/embed/fbpqrbcebntqtpsd/LIZZIE80_Ganol_si_mkv_mp4
 #https://oload.fun/embed/7b4Z5L6I-IU/LIZZIE80.Ganol.si.mkv.mp4
 #https://openload.co/f/jtA3CmZmv68/Lizzie_%282018%29PROPER_1080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://openload.co/f/rNYIKr9ySeQ/Lizzie.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/ww9rVDLXsTU/Lizzie.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/k201DgnF_fU/Lizzie.2018.PROPER.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/VhK8O2WnE8Y/Lizzie.2018.720p.BDRip.X264.AC3-EVO_SeeHD.mkv.mp4
@@ -1486,8 +1492,12 @@ URL=https://uptobox.com/8xy1d1dfttch
 type=video
 name=Colette (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGiUIkcTOEn2CwE5CUBFxWkcyxO.jpg
-date=2018-12-11
-URL=https://openload.co/f/OGHdDVcKYXc/Colette.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-12-14
+URL=https://uptobox.com/i32latzm16y1
+#https://fruithosts.net/embed/npmtsknectasekdo/COLLETE80_Ganol_si_mkv_mp4
+#https://oload.fun/embed/T7SAD3_JT30/COLLETE80.Ganol.si.mkv.mp4
+#https://openload.co/f/tJnIQ0k2JkQ/Colette_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/OGHdDVcKYXc/Colette.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/WYZOkcMZVsY/Colette.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/zR9_HT_dbow/Colette.2018.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://uptobox.com/gixa0yynna6k   720
@@ -1498,8 +1508,12 @@ URL=https://openload.co/f/OGHdDVcKYXc/Colette.2018.1080p.BluRay.H264.AAC-RARBG.m
 type=video
 name=Await Further Instructions (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTmeqqn8f6HjRbxshx9T3zoVYdq.jpg
-date=2018-12-13
-URL=https://openload.co/f/4HUJdiSFeu4/Await.Further.Instructions.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-12-14
+URL=https://uptobox.com/f6j3vss1vv5r
+#https://fruithosts.net/embed/akqpmbecplaocapt/AWAITFUTHERINSCUSTIONS80_Ganol_st_mkv_mp4
+#https://oload.fun/embed/CGcJwhTofE0/AWAITFUTHERINSCUSTIONS80.Ganol.st.mkv.mp4
+#https://openload.co/f/etRYqdu8-kI/Await_Further_Instructions_%282018%291080p_BluRay_x264-ROVERS.Ganool.mkv.mp4
+#https://openload.co/f/4HUJdiSFeu4/Await.Further.Instructions.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/ltITbR7YeVY/Await.Further.Instructions.2018.1080p.BluRay.x264-ROVERS.mkv.mp4
 #https://uptobox.com/rp23bjhj217r   720
 #https://fruithosts.net/embed/oqrflrbpnreqadcm/AWAITFUTHERINSTRUCTIONSBD72_Ganol_si_mkv_mp4
@@ -1605,8 +1619,12 @@ URL=https://uptobox.com/dtvndwfjpp8p
 type=video
 name=Elizabeth Harvest (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCDfQn6OOjecwKd9AZb0nGQbsgs.jpg
-date=2018-12-10
-URL=https://openload.co/f/WzhUJ0GA540/Elizabeth.Harvest.2018.1080p.BluRay.x264-ROVERS.mkv.mp4
+date=2018-12-14
+URL=https://uptobox.com/owizozu1kb1k
+#https://fruithosts.net/embed/kopqdsrtdelffcca/ELIZABETHHARVES80_Ganol_si_mkv_mp4
+#https://oload.fun/embed/EpF0AFVtV9c/ELIZABETHHARVES80.Ganol.si.mkv.mp4
+#https://openload.co/f/usV9ItzMD3U/Elizabeth_Harvest_%282018%291080p_BluRay_x264-ROVERS.Ganool.mkv.mp4
+#https://openload.co/f/WzhUJ0GA540/Elizabeth.Harvest.2018.1080p.BluRay.x264-ROVERS.mkv.mp4
 #https://uptobox.com/10yx2fgqc7si   720
 #https://fruithosts.net/embed/ndnarombnfokosos/ELIZABETHHARVESTVD72_Ganol_si_mkv_mp4
 #https://oload.fun/embed/6hG_SHvtlCI/ELIZABETHHARVESTVD72.Ganol.si.mkv.mp4
@@ -2286,6 +2304,7 @@ URL=https://uptobox.com/996r5juxyaek
 #https://www.rapidvideo.com/e/FWV0K09FZ0
 #https://openload.co/embed/rCPndNvG6DA/BAO80.Ganol.st.mkv
 #https://openload.co/f/aZqLH-ZrF4I/Bao_%282018%291080p_Bluray_X264-EVO.Ganool.mkv.mp4
+#https://openload.co/f/b8Hwwksg8x0/Bao.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/iCAj6PyhKjM/Bao.2018.1080p.Bluray.X264-EVO.mkv.mp4
 
 type=video
@@ -4804,6 +4823,7 @@ URL=https://www.blazefile.co/embed-9hkt3yk8iljy.html
 #https://uptobox.com/qphoollzeoyi
 #https://openload.co/f/CKMhge6DHOs/You.Were.Never.Really.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/2BFjiES6x74/You.Were.Never.Really.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/wlI_yiXETfo/You.Were.Never.Really.Here.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/kjwTzI9oyH8/you.were.never.really.here.2017.limited.720p.bluray.x264-usury.mkv.mp4
 #https://openload.co/f/A38DPxtWSvQ/You.Were.Never.Really.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/3ehNw9Fp-n4/You_Were_Never_Really_Here_2017_1080p_Web_DL_x264_AC3_TiTAN%5BN1C%5D.mkv.mp4
@@ -8119,10 +8139,11 @@ URL=https://openload.co/f/y56p0f0Dy8g/Overlord_%282018%29%E0%B8%9B%E0%B8%8F%E0%B
 
 
 type=video
-name=Hunter Killer (2018) ENG CAM.XViD-T3RR0R_SQU4D_SeeHD
+name=Hunter Killer (2018) ENG HC.1080p.HDRip.X264-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
-date=2018-11-09
-URL=https://openload.co/f/I9_ENs0lU-A/Hunter.Killer.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
+date=2018-12-14
+URL=https://openload.co/f/TXo0rwp8Axw/Hunter_Killer.2018.HC.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/I9_ENs0lU-A/Hunter.Killer.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
 #https://openload.co/f/Vr_CK7ocuNw/Hunter.Killer.2018.CAM.XViD-T3RR0R.SQU4D.mp4
 #https://openload.co/f/WH4Ch_m3VuA/Hunter_Killer_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/tyPWaIr0L6I/Hunter_Killer_%282018%29HDCAM_XViD_AC3-ETRG.Ganool.mkv.mp4
@@ -11017,10 +11038,14 @@ URL=
 
 
 type=video
-name=One Cut of the Dead (2017) [COLOR=FF00FF00]JAP BR 720p[/COLOR] | TMDB-89
+name=One Cut of the Dead (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-89
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0ZB59m0kio95VClKoq95s1QYbu.jpg
-date=2018-12-11
-URL=https://uptobox.com/iepk2vsfzjgx
+date=2018-12-14
+URL=https://uptobox.com/m34mblfgiyn0
+#https://fruithosts.net/embed/bcbsfmsqrekocnkb/One_Cut_of_the_Dead_2017_BluRay_1080p_x264_Ganol_si_mkv
+#https://oload.fun/embed/xTqMEORGw9Y/One.Cut.of.the.Dead.2017.BluRay.1080p.x264.Ganol.si.mkv
+#https://openload.co/f/tfq4iF3M_VA/One.Cut.of.the.Dead.2017.Blu-ray_1080p_AVC_LPCM_2.0-Huan%40HDS.Ganool.mkv.mp4
+#https://uptobox.com/iepk2vsfzjgx   720
 #https://fruithosts.net/embed/btodlenncsqsaekl/One_Cut_of_the_Dead_2017_BluRay_720p_750MB_Ganol_si_mkv
 #https://oload.fun/embed/Rhl7Q96J1y4/One.Cut.of.the.Dead.2017.BluRay.720p.750MB.Ganol.si.mkv
 #https://openload.co/f/ijinZJu-g1M/One.Cut.of.the.Dead.2017.Blu-ray_720p_AVC_LPCM_2.0-Huan%40HDS.Ganool.mkv.mp4

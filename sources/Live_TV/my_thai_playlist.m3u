@@ -1745,71 +1745,6 @@ http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE
 
 
 
-#EXTINF:-1,xxx_err_380xxxxxxxxxxxxxxxxxxxxxxxxxxx
-http://163.172.105.25:9989/live?channelId=380&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,xxx_err_454
-http://163.172.105.25:9989/live?channelId=454&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,xxx_err_368
-http://163.172.105.25:9989/live?channelId=368&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,xxx_err_451
-http://163.172.105.25:9989/live?channelId=451&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,xxx_err_311
-http://163.172.105.25:9989/live?channelId=311&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,xxx_err_321
-http://163.172.105.25:9989/live?channelId=321&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,xxx_err_361
-http://163.172.105.25:9989/live?channelId=361&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,xxx_err_301
-http://163.172.105.25:9989/live?channelId=301&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,xxx_err_201
-http://163.172.105.25:9989/live?channelId=201&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,xxx_err_449
-http://163.172.105.25:9989/live?channelId=449&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,xxx_err_448
-http://163.172.105.25:9989/live?channelId=448&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,xxx_err_446
-http://163.172.105.25:9989/live?channelId=446&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,xxx_err_445
-http://163.172.105.25:9989/live?channelId=445&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,xxx_err_431
-http://163.172.105.25:9989/live?channelId=431&deviceMac=00:1A:79:37:C2:FD&uid=4302
-
-
-
-
-
-#EXTINF:-1,XXX_446xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-http://163.172.105.25:9989/live?channelId=446&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,XXX_447
-http://163.172.105.25:9989/live?channelId=447&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,DP
-http://163.172.105.25:9989/live?channelId=444&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,erotic4
-http://163.172.105.25:9989/live?channelId=443&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,erotic3
-http://163.172.105.25:9989/live?channelId=442&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,erotic2
-http://163.172.105.25:9989/live?channelId=441&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,Dorcel TV
-http://163.172.105.25:9989/live?channelId=440&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,JAV
-http://163.172.105.25:9989/live?channelId=439&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,DUSK
-http://163.172.105.25:9989/live?channelId=438&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,XXX_437
-http://163.172.105.25:9989/live?channelId=437&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,XXXHD_436
-http://163.172.105.25:9989/live?channelId=436&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,XXX_435
-http://163.172.105.25:9989/live?channelId=435&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,XXX_434
-http://163.172.105.25:9989/live?channelId=434&deviceMac=00:1A:79:37:C2:FD&uid=4302
-#EXTINF:-1,erotic
-http://163.172.105.25:9989/live?channelId=433&deviceMac=00:1A:79:37:C2:FD&uid=4302
-
-
-
-
 
 
 
@@ -2230,41 +2165,12 @@ http://122.38.74.172:9981/stream/channelid/1836601049?ticket=487EA11E9B49DD54F9E
 
 
 
-#EXTINF:-1,AXN HD_POLxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-http://145.129.238.137:8000/play/a045 
-#EXTINF:-1,BBC Earth HD 
-http://145.129.238.137:8000/play/a06c 
-#EXTINF:-1,BBC HD 
-http://145.129.238.137:8000/play/a06b 
-#EXTINF:-1,CI Polsat HD 
-http://145.129.238.137:8000/play/a049 
-#EXTINF:-1,Cinemax 2 HD 
-http://145.129.238.137:8000/play/a046 
-#EXTINF:-1,Cinemax HD 
-http://145.129.238.137:8000/play/a03t 
-#EXTINF:-1,FOX HD 
-http://145.129.238.137:8000/play/a047 
-#EXTINF:-1,Fox Comedy HD 
-http://145.129.238.137:8000/play/a040 
-#EXTINF:-1,HBO2 HD 
-http://145.129.238.137:8000/play/a05i 
-#EXTINF:-1,HBO3 HD 
-http://145.129.238.137:8000/play/a05j 
-#EXTINF:-1,History HD 
-http://145.129.238.137:8000/play/a048
-#EXTINF:-1,Discovery Science 
-http://145.129.238.137:7000/play/a017 
-#EXTINF:-1,Food Network HD 
-http://145.129.238.137:7000/play/a00e 
-#EXTINF:-1,NATIONAL GEO HD 
-http://145.129.238.137:7000/play/a00l 
-#EXTINF:-1,Food Network_RU
-http://ott-cdn.ucom.am/s18/04.m3u8 
 
 
 
 
-#EXTINF:-1,Rai Premium
+
+#EXTINF:-1,Rai Premiumxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 https://raipremium1-live.akamaized.net/hls/live/598328/raipremium1/raipremium_1800/chunklist.m3u8
 #EXTINF:-1,HBO Hits
 http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8
@@ -2487,6 +2393,18 @@ http://painel.soeu.kim:8080/marcelo/12345/8009
 http://stream1.grtn.cn/4K/playlist.m3u8
 #EXTINF:-1,ultrahd_CINEMA_rus
 http://85.112.114.12:8080/ch799/mpegts
+#EXTINF:-1,4K UHD 
+http://37.193.189.70:81/udp/239.1.22.1:1234 
+#EXTINF:-1,4K UHD 
+http://37.193.189.70:81/udp/239.1.22.3:1234 
+#EXTINF:-1,4K UHD 
+http://37.193.189.70:81/udp/239.1.22.2:1234 
+#EXTINF:-1,HOME 4K (UltraHD) 
+http://37.193.189.70:81/udp/239.1.22.4:1234 
+#EXTINF:-1,RUS (4K UltraHD) 
+http://37.193.189.70:81/udp/239.1.22.5:1234 
+#EXTINF:-1,INSIGHT UHD 
+http://37.193.189.70:81/udp/239.1.20.63:1234 
 
 #EXTINF:-1 group-title="True Vision"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL_TH
 http://27.254.63.132:8081/tumlive/Disney/playlist.m3u8
@@ -2529,8 +2447,7 @@ http://61.58.60.230:9000/live/257.m3u8
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/d2/37/1dd237c0-dc9f-43a2-a6f5-3b2e7f31e8ff/source/512x512bb.jpg",opensky_CHN
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
-#EXTINF:-1,de-origin
-http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+
 #EXTINF:-1,Ibiza TV3_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8
 #EXTINF:-1,Ibiza TV2_streamlock.net
@@ -2597,36 +2514,10 @@ http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
-#EXTINF:0,CNBC 
-http://89.212.51.85:8443/udp/239.12.2.174:5000 
-#EXTINF:0,BBC World News 
-http://89.212.51.85:8443/udp/239.11.2.77:5000 
-#EXTINF:-1,Big Asia 
-http://37.235.226.13:81/udp/225.50.64.47:1234 
-#EXTINF:0,Medical Channel 
-http://89.212.51.85:8443/udp/239.11.2.132:5000 
-#EXTINF:0,Discovery Science 
-http://89.212.51.85:8443/udp/239.12.2.141:5000 
-#EXTINF:0,Discovery World 
-http://89.212.51.85:8443/udp/239.12.2.148:5000 
-#EXTINF:-1,Discovery Science HD 
-http://37.193.189.70:81/udp/239.1.20.143:1234 
-#EXTINF:-1,Da Vinci 
-http://37.193.189.70:81/udp/239.1.5.6:1234 
-#EXTINF:-1,4K UHD 
-http://37.193.189.70:81/udp/239.1.22.1:1234 
-#EXTINF:-1,4K UHD 
-http://37.193.189.70:81/udp/239.1.22.3:1234 
-#EXTINF:-1,4K UHD 
-http://37.193.189.70:81/udp/239.1.22.2:1234 
-#EXTINF:-1,HOME 4K (UltraHD) 
-http://37.193.189.70:81/udp/239.1.22.4:1234 
-#EXTINF:-1,RUS (4K UltraHD) 
-http://37.193.189.70:81/udp/239.1.22.5:1234 
-#EXTINF:-1,INSIGHT UHD 
-http://37.193.189.70:81/udp/239.1.20.63:1234 
 
 
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_INDO
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 
 
