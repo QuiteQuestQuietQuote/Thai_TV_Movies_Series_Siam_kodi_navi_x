@@ -157,12 +157,6 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDDb0H0uJp2wjoJBbBHbKlYRbu
 date=2018-12-10
 URL=https://openload.co/f/8STRsbaq3Eo/The_Possession_of_Hannah_Grace_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
-type=video
-name=Aquaman (2018) ENG HDCAM_ENG_X264_AC3_HQMic_Hive-CM8_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
-date=2018-12-07
-URL=https://openload.co/f/4eoZetdCYpY/Aquaman_2018_HDCAM_ENG_X264_AC3_HQMic_Hive-CM8_SeeHD.mkv.mp4
-#https://openload.co/f/F_dSjC73jCU/Aquaman_2018_TC_V2.mp4
 
 
 
@@ -1385,7 +1379,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-13
+date=2018-12-15
 URL=
 
 
@@ -1398,7 +1392,11 @@ URL=
 
 
 
-
+type=video
+name=Mandy the Haunted Doll (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-30
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/miYWeCyI6PJvYeaD95cSiuo46fR.jpg
+date=2018-12-15
+URL=https://openload.co/f/-KpyAp0PoAM/Mandy.the.Doll.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Black '47 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76
@@ -8037,6 +8035,23 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+
+
+
+
+type=video
+name=Aquaman (2018) ENG HDCAM_ENG_X264_AC3_HQMic_Hive-CM8_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
+date=2018-12-07
+URL=https://openload.co/f/4eoZetdCYpY/Aquaman_2018_HDCAM_ENG_X264_AC3_HQMic_Hive-CM8_SeeHD.mkv.mp4
+#https://openload.co/f/F_dSjC73jCU/Aquaman_2018_TC_V2.mp4
+type=video
+name=Aquaman (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
+date=2018-12-15
+URL=https://openload.co/f/9ejB1m2RPiw/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
