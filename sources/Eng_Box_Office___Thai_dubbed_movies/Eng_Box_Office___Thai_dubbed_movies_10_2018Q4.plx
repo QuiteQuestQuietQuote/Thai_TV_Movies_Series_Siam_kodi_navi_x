@@ -123,10 +123,11 @@ URL=
 
 
 type=video
-name=Bumblebee (2018) ENG 720p_HDCAM_ENG_SUB-ORCA88_SeeHD
+name=Bumblebee (2018) ENG CAM.X264-MrTaco
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
 date=2018-12-14
-URL=https://openload.co/f/pzUifM0ZNTY/Bumblebee_2018_720p_HDCAM_ENG_SUB_ORCA88_SeeHD.mp4
+URL=https://openload.co/f/bXbPDliWIww/Bumblebee.2018.CAM.X264-MrTaco.mkv.mp4
+#https://openload.co/f/pzUifM0ZNTY/Bumblebee_2018_720p_HDCAM_ENG_SUB_ORCA88_SeeHD.mp4
 #https://openload.co/f/sFhmjyX2ynM/Bumblebee_2018_720p_HDCAM_ENG_SUB-ORCA88_SeeHD.mp4
 
 type=video
@@ -272,13 +273,7 @@ URL=https://openload.co/f/eWuh3hFh4-A/London_Fields_2018_720p_RUS_TS_ENG_SUB-1XB
 
 
 
-type=video
-name=White Boy Rick (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/376lzYd3vE04qBA5Js93UAKrnvj.jpg
-date=2018-12-11
-URL=https://openload.co/f/bk4akqB0ncM/White.Boy.Rick.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/wwjzVQD9mVA/White.Boy.Rick.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/gkdpwns7nyY/White_Boy_Rick_2018_720p_TS-1XBET_SeeHD.mp4
+
 
 
 
@@ -1379,7 +1374,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-15
+date=2018-12-16
 URL=
 
 
@@ -1388,9 +1383,23 @@ URL=
 
 
 
+type=video
+name=White Boy Rick (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/376lzYd3vE04qBA5Js93UAKrnvj.jpg
+date=2018-12-16
+URL=https://openload.co/f/wexrSHSN_pw/White.Boy.Rick.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Q2pH_a9NJ0Q/White.Boy.Rick.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/5F-HRzfc2-I/White.Boy.Rick.2018.720p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/bk4akqB0ncM/White.Boy.Rick.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/wwjzVQD9mVA/White.Boy.Rick.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/gkdpwns7nyY/White_Boy_Rick_2018_720p_TS-1XBET_SeeHD.mp4
 
-
-
+type=video
+name=What Keeps You Alive (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHrNKFoG3XOy5oPygR90TR5nfJt.jpg
+date=2018-12-16
+URL=https://openload.co/f/jg5YqCU0ePI/What.Keeps.You.Alive.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/tKrC0SvR3dM/what.keeps.you.alive.2018.720p.bluray.x264-invandraren.mkv.mp4
 
 type=video
 name=Mandy the Haunted Doll (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-30
@@ -1744,6 +1753,7 @@ URL=https://uptobox.com/dns7r0bafpn0
 #https://oload.fun/embed/aiXPdT-1EKs/THELITTLESTRANGER80.Ganol.si.mkv
 #https://openload.co/f/7ubfc3bhG8c/The_Little_Stranger_%282018%29BluRay_1080p_x264_DTS-HDC.Ganool.mkv.mp4
 #https://openload.co/f/-8VbuTRvWaQ/The.Little.Stranger.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/xb24APAPOiM/The.Little.Stranger.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://www.blazefile.co/embed-c5kw5a71ushj.html   720
 #https://uptobox.com/cp1ackf6x2tu   720
 #https://fruithosts.net/embed/seekkkbedqmlsrma/THELITTLESTRANGERVBD72_Ganol_st_mkv_mp4
@@ -6989,15 +6999,7 @@ URL=https://openload.co/f/c8eLd6i86i4/Lu_Over_the_Wall_2017_720p_BRRip_EngSubs_L
 
 
 
-type=video
-name=Keep Watching (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/65UjzcdXlLcDzZQEidMN58BsFzg.jpg
-date=2018-03-16
-URL=https://www.blazefile.co/embed-avo7yv4nrgxg.html
-#https://openload.co/f/ca-c-mH530I/Keep.Watching.2017.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/RtYeBLF3-RM/Keep.Watching.2017.720p.BluRay.x264-PFa.mkv.mp4
-#https://www.blazefile.co/embed-avo7yv4nrgxg.html   720
-#https://uptobox.com/r5b03zn2c193   720
+
 
 type=video
 name=The Real Estate (2018) [COLOR=FF00FF00]SWE BR 720p[/COLOR]
@@ -8042,10 +8044,12 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
-name=Aquaman (2018) ENG HDCAM_ENG_X264_AC3_HQMic_Hive-CM8_SeeHD
+name=Aquaman (2018) ENG CAMRip_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
-date=2018-12-07
-URL=https://openload.co/f/4eoZetdCYpY/Aquaman_2018_HDCAM_ENG_X264_AC3_HQMic_Hive-CM8_SeeHD.mkv.mp4
+date=2018-12-16
+URL=https://openload.co/f/R2YzKr6Q5Y0/Aquaman.2018.CAMRip_SeeHD.mkv.mp4
+#https://openload.co/f/enbK-_AFGro/Aquaman.2018.CAM.X264-Cueca_SeeHD.mkv.mp4
+#https://openload.co/f/4eoZetdCYpY/Aquaman_2018_HDCAM_ENG_X264_AC3_HQMic_Hive-CM8_SeeHD.mkv.mp4
 #https://openload.co/f/F_dSjC73jCU/Aquaman_2018_TC_V2.mp4
 type=video
 name=Aquaman (2018) THCAM
@@ -8110,10 +8114,11 @@ URL=https://openload.co/f/Xumjso_Og_M/The_Girl_in_the_Spider%27s_Web_%282018%29%
 
 
 type=video
-name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG 720p_HD-TS_SeeHD
+name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG 1080p.Korsub.Webrip_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
-date=2018-12-07
-URL=https://openload.co/f/iuHuIdv_D4I/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_720p_HD-TS_SeeHD.mkv.mp4
+date=2018-12-16
+URL=https://openload.co/f/VNADQVO4EQQ/Fantastic.Beasts.The.Crimes.of.Grindelwald_2018.1080p.Korsub.Webrip_SeeHD.mkv.mp4
+#https://openload.co/f/iuHuIdv_D4I/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_720p_HD-TS_SeeHD.mkv.mp4
 #https://openload.co/f/zxQXeYHHfGI/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_720p_HD-TS.mkv.mp4
 #https://openload.co/f/VHRwE1C7oO0/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.NEW.720p.HDCAM.x264-SugarTiTS.mkv.mp4
 #https://openload.co/f/0hy9UKwm1H8/fantastic_beast_2_NEW_HDCAM_SeeHD.mkv.mp4
@@ -8410,14 +8415,23 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 type=video
 name=
 thumb=
-date=2018-12-10
+date=2018-12-16
 URL=
 
 
 
 
 
-
+type=video
+name=Roma (2018) ESP 720p.NF.WEB-DL.DDP5.1.x264-NTG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtIIyQyALk57ko5bjac7hi01YQ.jpg
+date=2018-12-16
+URL=https://openload.co/f/s7dkAZZfJ6U/ROMA.2018.720p.NF.WEB-DL.DDP5.1.x264-NTG_SeeHD.mkv.mp4
+type=video
+name=Roma (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtIIyQyALk57ko5bjac7hi01YQ.jpg
+date=2018-12-16
+URL=https://openload.co/f/-0Gbq31MBvc/Roma_%282018%29%E0%B9%82%E0%B8%A3%E0%B8%A1%E0%B9%88%E0%B8%B2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -11120,10 +11134,11 @@ URL=https://openload.co/f/yHnvNOtzaro/Animal_World_%282018%29%E0%B9%80%E0%B8%88%
 
 
 type=video
-name=The House with a Clock in Its Walls (2018) ENG 1080pHD_SeeHD
+name=The House with a Clock in Its Walls (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
-date=2018-11-27
-URL=https://openload.co/f/ZOURk9yzRu0/The_House_With_a_Clock_In_Its_Walls_1080pHD_SeeHD.mkv.mp4
+date=2018-12-16
+URL=https://openload.co/f/I6UWgTEu_Yg/The.House.with.a.Clock.in.Its.Walls.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/ZOURk9yzRu0/The_House_With_a_Clock_In_Its_Walls_1080pHD_SeeHD.mkv.mp4
 #https://openload.co/f/-5AMq1L5PfA/The_House_with_a_Clock_in_Its_Walls_2018_1080p_WEB_DL_DD5_1_H264_FGT.mkv.mp4
 #https://openload.co/f/bbsEl9Bd23U/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.1XBET.mp4
 #https://openload.co/f/TeEYnby1KLk/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.mp4
@@ -11792,7 +11807,20 @@ URL=
 
 
 
-
+type=video
+name=Keep Watching (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/65UjzcdXlLcDzZQEidMN58BsFzg.jpg
+date=2018-03-16
+URL=https://www.blazefile.co/embed-avo7yv4nrgxg.html
+#https://openload.co/f/ca-c-mH530I/Keep.Watching.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/RtYeBLF3-RM/Keep.Watching.2017.720p.BluRay.x264-PFa.mkv.mp4
+#https://www.blazefile.co/embed-avo7yv4nrgxg.html   720
+#https://uptobox.com/r5b03zn2c193   720
+type=video
+name=Keep Watching (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/65UjzcdXlLcDzZQEidMN58BsFzg.jpg
+date=2018-10-16
+URL=https://openload.co/f/eUhgHRw3dT0/Keep_Watching_%282017%29Keep_Watching_%282017%29.mp4
 
 
 # 2769908
