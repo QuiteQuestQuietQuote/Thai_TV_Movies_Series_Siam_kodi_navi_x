@@ -123,18 +123,20 @@ URL=
 
 
 type=video
-name=Bumblebee (2018) ENG CAM.X264-MrTaco
+name=Bumblebee (2018) ENG NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
-date=2018-12-14
-URL=https://openload.co/f/bXbPDliWIww/Bumblebee.2018.CAM.X264-MrTaco.mkv.mp4
+date=2018-12-17
+URL=https://openload.co/f/sP15gNQ2QtQ/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD.mp4
+#https://openload.co/f/bXbPDliWIww/Bumblebee.2018.CAM.X264-MrTaco.mkv.mp4
 #https://openload.co/f/pzUifM0ZNTY/Bumblebee_2018_720p_HDCAM_ENG_SUB_ORCA88_SeeHD.mp4
 #https://openload.co/f/sFhmjyX2ynM/Bumblebee_2018_720p_HDCAM_ENG_SUB-ORCA88_SeeHD.mp4
 
 type=video
-name=Spider-Man: Into the Spider-Verse (2018) ENG CAM.X264-SuperSpy_SeeHD
+name=Spider-Man: Into the Spider-Verse (2018) ENG 720p_PROPER_HDCAM-ORCA88_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
-date=2018-12-13
-URL=https://openload.co/f/qDwvb4h3Mho/Spider-Man_Into_The_Spider_Versee.2018.CAM.X264-SuperSpy_SeeHD.mkv.mp4
+date=2018-12-17
+URL=https://openload.co/f/v7GjU1HV47Q/Spider-Man_Into_the_Spider-Verse_2018_720p_PROPER_HDCAM-ORCA88_SeeHD.mp4
+#https://openload.co/f/qDwvb4h3Mho/Spider-Man_Into_The_Spider_Versee.2018.CAM.X264-SuperSpy_SeeHD.mkv.mp4
 #https://openload.co/f/Acp3BMFlPyA/Spider-Man.Into.The.Spider.Versee.2018.CAM.X264-SuperSpy.mkv.mp4
 
 type=video
@@ -1374,7 +1376,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-16
+date=2018-12-17
 URL=
 
 
@@ -1383,12 +1385,41 @@ URL=
 
 
 
+
+
+
+type=video
+name=They Shall Not Grow Old (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-90
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xK5aQyY8WED2vzLlsKNAFPVLUaB.jpg
+date=2018-12-17
+URL=https://openload.co/f/Ldqp5RFlN6k/they.shall.not.grow.old.2018.limited.1080p.bluray.x264-cadaver.mkv.mp4
+
+type=video
+name=Del Playa (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-30
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0MnsaEdNQvXVBOUbkorcLZd6i4.jpg
+date=2018-12-17
+URL=https://openload.co/f/-FRy_2KVBSg/Del.Playa.2017.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+
+type=video
+name=Auntie Edna (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70 Short
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Io23H59IkMVmDSEZQcGcOIJnuR.jpg
+date=2018-12-17
+URL=https://openload.co/f/j75oJHbo9s8/Auntie.Edna.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=God Bless the Broken Road (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-40
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZY8Ct22ahtx56EOvtNZvPny5Ea.jpg
+date=2018-12-17
+URL=https://openload.co/f/97JSKRLtyPc/god.bless.the.broken.road.2018.1080p.bluray.x264-cinefile.mkv.mp4
+#https://openload.co/f/6mDLEuNA4bk/god.bless.the.broken.road.2018.1080p.bluray.x264-cinefile.mkv.mp4
+
 type=video
 name=White Boy Rick (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/376lzYd3vE04qBA5Js93UAKrnvj.jpg
 date=2018-12-16
 URL=https://openload.co/f/wexrSHSN_pw/White.Boy.Rick.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/Q2pH_a9NJ0Q/White.Boy.Rick.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/u2qygEA61lU/White.Boy.Rick.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/5F-HRzfc2-I/White.Boy.Rick.2018.720p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/bk4akqB0ncM/White.Boy.Rick.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/wwjzVQD9mVA/White.Boy.Rick.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
@@ -1399,6 +1430,7 @@ name=What Keeps You Alive (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHrNKFoG3XOy5oPygR90TR5nfJt.jpg
 date=2018-12-16
 URL=https://openload.co/f/jg5YqCU0ePI/What.Keeps.You.Alive.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/0mEyN8S7a1o/What.Keeps.You.Alive.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/tKrC0SvR3dM/what.keeps.you.alive.2018.720p.bluray.x264-invandraren.mkv.mp4
 
 type=video
@@ -1406,6 +1438,7 @@ name=Mandy the Haunted Doll (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-3
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/miYWeCyI6PJvYeaD95cSiuo46fR.jpg
 date=2018-12-15
 URL=https://openload.co/f/-KpyAp0PoAM/Mandy.the.Doll.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/ZUKUGPn-Cng/Mandy.The.Doll.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Black '47 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76
@@ -1458,6 +1491,7 @@ name=The Children Act (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUZA9uLAhEOmO7WemICodTxXokS.jpg
 date=2018-12-13
 URL=https://openload.co/f/d8ZsrwzZtCs/The.Children.Act.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Ywu2Eo1CdQ4/The.Children.Act.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/FGhXa4ggvf0/The.children.Act.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
@@ -1470,6 +1504,7 @@ URL=https://uptobox.com/0asy3biwk63g
 #https://openload.co/f/jtA3CmZmv68/Lizzie_%282018%29PROPER_1080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
 #https://openload.co/f/rNYIKr9ySeQ/Lizzie.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/ww9rVDLXsTU/Lizzie.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Svb2JOjlmb4/Lizzie.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/k201DgnF_fU/Lizzie.2018.PROPER.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/VhK8O2WnE8Y/Lizzie.2018.720p.BDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 
@@ -1507,6 +1542,7 @@ URL=https://uptobox.com/i32latzm16y1
 #https://openload.co/f/OGHdDVcKYXc/Colette.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/WYZOkcMZVsY/Colette.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/zR9_HT_dbow/Colette.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/WNE_b_Cg7Og/Colette.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://uptobox.com/gixa0yynna6k   720
 #https://fruithosts.net/embed/ocqmcqknfatqtbno/COLETTEBD72_Ganol_si_mkv_mp4
 #https://oload.fun/embed/Ut-uRJEZw5I/COLETTEBD72.Ganol.si.mkv.mp4
@@ -1522,6 +1558,7 @@ URL=https://uptobox.com/f6j3vss1vv5r
 #https://openload.co/f/etRYqdu8-kI/Await_Further_Instructions_%282018%291080p_BluRay_x264-ROVERS.Ganool.mkv.mp4
 #https://openload.co/f/4HUJdiSFeu4/Await.Further.Instructions.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/ltITbR7YeVY/Await.Further.Instructions.2018.1080p.BluRay.x264-ROVERS.mkv.mp4
+#https://openload.co/f/vChgUxJx1z4/Await.Further.Instructions.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://uptobox.com/rp23bjhj217r   720
 #https://fruithosts.net/embed/oqrflrbpnreqadcm/AWAITFUTHERINSTRUCTIONSBD72_Ganol_si_mkv_mp4
 #https://oload.fun/embed/AJfXSkLjbAk/AWAITFUTHERINSTRUCTIONSBD72.Ganol%2Csi.mkv.mp4
@@ -1582,6 +1619,7 @@ URL=https://uptobox.com/b5i94hfbj29g
 #https://openload.co/f/WE5FUyIv82c/A.Simple.Favor.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/82wTYwwDkkU/A.Simple.Favor.2018.PROPER.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/rEKk0HxSzJE/A.Simple.Favor.2018.1080p.BluRay.X264-DEFLATE.mkv.mp4
+#https://openload.co/f/1Qh5F1RJIYE/A.Simple.Favor.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/MRe8hXS-Qg4/A_Simple_Favor.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://openload.co/f/-sftEyhGMfE/A_Simple_Favor.2018.DVDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/xsHGLKOMjkI/A_Simple_Favor_2018_NEW_720p_TS-1XBET_SeeHD.mp4
@@ -1610,6 +1648,7 @@ URL=https://uptobox.com/6w1vulwjgr9h
 #https://openload.co/f/TnBKdWAop-o/Under_the_Silver_Lake_%282018%291080p_BluRay_x264-PSYCHD.Ganool.mkv.mp4
 #https://openload.co/f/DoB-UBp4giM/Under.the.Silver.Lake.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/slN-XV0a41k/Under.the.Silver.Lake.2018.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/LiAFArac7vg/Under.The.Silver.Lake.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=The Festival (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
@@ -1622,6 +1661,7 @@ URL=https://uptobox.com/dtvndwfjpp8p
 #https://openload.co/f/0Xx8oxc2x_Q/The.Festival.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/hj5nNjx2W2M/The.Festival.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/Xj2ZzsVQ8-8/The.Festival.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/qvg_0QRxCTc/The.Festival.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Elizabeth Harvest (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
@@ -1632,6 +1672,7 @@ URL=https://uptobox.com/owizozu1kb1k
 #https://oload.fun/embed/EpF0AFVtV9c/ELIZABETHHARVES80.Ganol.si.mkv.mp4
 #https://openload.co/f/usV9ItzMD3U/Elizabeth_Harvest_%282018%291080p_BluRay_x264-ROVERS.Ganool.mkv.mp4
 #https://openload.co/f/WzhUJ0GA540/Elizabeth.Harvest.2018.1080p.BluRay.x264-ROVERS.mkv.mp4
+#https://openload.co/f/1qex4EYvhws/Elizabeth.Harvest.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://uptobox.com/10yx2fgqc7si   720
 #https://fruithosts.net/embed/ndnarombnfokosos/ELIZABETHHARVESTVD72_Ganol_si_mkv_mp4
 #https://oload.fun/embed/6hG_SHvtlCI/ELIZABETHHARVESTVD72.Ganol.si.mkv.mp4
@@ -1654,6 +1695,7 @@ URL=https://uptobox.com/ihaudh497wew
 #https://fruithosts.net/embed/fldtdoqpacntapfo/GHPUNBROKENPATHREDEPTION80_Ganol_si_mkv
 #https://oload.fun/embed/XC4M-XUe--0/GHPUNBROKENPATHREDEPTION80.Ganol.si.mkv
 #https://openload.co/f/WVYnkMmimv8/Unbroken%3A_Path_to_Redemption_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+#https://openload.co/f/ZG-zDXOvfDA/Unbroken.Path.To.Redemption.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/dxBXxjkfHRw/Unbroken.Path.to.Redemption.2018.720p.BluRay.x264-GECKOS.mkv.mp4
 
 type=video
@@ -1723,6 +1765,7 @@ URL=https://uptobox.com/hlg6m8fy7wk5
 #https://oload.fun/embed/42K8MDdei5Q/RIVERRUNSRED80.Ganol.si.mkv
 #https://openload.co/f/nEZRff7K8CY/River_Runs_Red_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
 #https://openload.co/f/H2H2J8u5aZg/River.Runs.Red.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/np33U6LaNFA/River.Runs.Red.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://uptobox.com/6h6kler6qpzb   720
 #https://fruithosts.net/embed/qarnfeflcppebrld/RIVERRUNSREDBD72_Ganol_si_mkv_mp4
 #https://oload.fun/embed/RnRRtJKj8PQ/RIVERRUNSREDBD72.Ganol.si.mkv.mp4
@@ -8118,6 +8161,7 @@ name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG 1080p.Korsub.Webrip_
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
 date=2018-12-16
 URL=https://openload.co/f/VNADQVO4EQQ/Fantastic.Beasts.The.Crimes.of.Grindelwald_2018.1080p.Korsub.Webrip_SeeHD.mkv.mp4
+#https://openload.co/f/5WEur57mzKk/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HC.HDRip.MkvCage.ws.mkv.mp4
 #https://openload.co/f/iuHuIdv_D4I/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_720p_HD-TS_SeeHD.mkv.mp4
 #https://openload.co/f/zxQXeYHHfGI/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_720p_HD-TS.mkv.mp4
 #https://openload.co/f/VHRwE1C7oO0/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.NEW.720p.HDCAM.x264-SugarTiTS.mkv.mp4
@@ -8824,6 +8868,7 @@ URL=https://uptobox.com/cljwytlo2uzi
 #https://openload.co/f/eg-vm9ATq2U/Galveston.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/13T_aKXLVDg/Galveston.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/GJlVGpLuE3w/galveston.2018.1080p.bluray.x264-rovers.mkv.mp4
+#https://openload.co/f/ygxN2EpXye8/Galveston.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/OBNnbvHPAP0/Galveston.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/nUt7IaM4LnA/Galveston_1080p_WEB-DL_SeeHD.mkv.mp4
 type=video
@@ -11138,7 +11183,9 @@ name=The House with a Clock in Its Walls (2018) [COLOR=FF00FF00]ENG BR 1080p[/CO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
 date=2018-12-16
 URL=https://openload.co/f/I6UWgTEu_Yg/The.House.with.a.Clock.in.Its.Walls.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/hcOBGroGxcA/The.House.With.A.Clock.In.Its.Walls.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/ZOURk9yzRu0/The_House_With_a_Clock_In_Its_Walls_1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/hcOBGroGxcA/The.House.With.A.Clock.In.Its.Walls.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/-5AMq1L5PfA/The_House_with_a_Clock_in_Its_Walls_2018_1080p_WEB_DL_DD5_1_H264_FGT.mkv.mp4
 #https://openload.co/f/bbsEl9Bd23U/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.1XBET.mp4
 #https://openload.co/f/TeEYnby1KLk/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.mp4
@@ -11856,6 +11903,7 @@ URL=https://uptobox.com/07susdp21spy
 #https://openload.co/f/OxnY77ANxm0/The_Predator_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
 #https://openload.co/f/cfqI_IzJCKs/The.Predator.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/ghs5EBZ5V8M/the.predator.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/UemZig_rTvM/The.Predator.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/Wh1AfKyJCRQ/The_Predator_1080pHD_SeeHD.mkv.mp4
 #https://openload.co/f/sn38GCbKob8/The.Predator.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/Sq_bHkOyhsg/The.Predator.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
