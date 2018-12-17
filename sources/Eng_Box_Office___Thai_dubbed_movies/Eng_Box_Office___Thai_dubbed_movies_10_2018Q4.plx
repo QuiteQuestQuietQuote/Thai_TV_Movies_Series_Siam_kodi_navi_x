@@ -1386,7 +1386,11 @@ URL=
 
 
 
-
+type=video
+name=Ladies in Black (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBCO7Z4hC1yaROj49SI8z9SVF6V.jpg
+date=2018-12-17
+URL=https://openload.co/f/OOLSpEGwNX0/Ladies.in.Black.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=They Shall Not Grow Old (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-90
@@ -1398,7 +1402,8 @@ type=video
 name=Del Playa (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-30
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0MnsaEdNQvXVBOUbkorcLZd6i4.jpg
 date=2018-12-17
-URL=https://openload.co/f/-FRy_2KVBSg/Del.Playa.2017.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+URL=https://openload.co/f/OlPCMeZzJvg/Del.Playa.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/-FRy_2KVBSg/Del.Playa.2017.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
 
 type=video
 name=Auntie Edna (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70 Short
@@ -8266,10 +8271,16 @@ URL=https://openload.co/f/mDgvTf333Zw/Venom_%282018%29%E0%B9%80%E0%B8%A7%E0%B8%9
 
 
 type=video
-name=Johnny English Strikes Again (2018) ENG New_Src_HDCAM_SeeHD
+name=Johnny English Strikes Again (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg
-date=2018-09-18
-URL=https://openload.co/f/2MqSe98cW1I/Johnny_English_Strikes_Again_2018_New_Src_HDCAM_SeeHD.mkv.mp4
+date=2018-12-17
+URL=https://openload.co/f/v8_Xkcp28YQ/Johnny.English.Strikes.Again.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/5_CW4NN26gk/Johnny_English_Strikes_Again_2018_1080p_BluRay_x264_DTS-FGT.mkv.mp4
+#https://openload.co/f/5a1KrdDDoZ4/Johnny.English.Strikes.Again.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
+#https://openload.co/f/y3o5oYljr9g/Johnny.English.Strikes.Again.2018.1080p.BluRay.DTS.X264-CMRG.mkv   MKV7.7GB
+#https://openload.co/f/Z8vsSSRDjqM/Johnny_English_Strikes_Again_2018.720p.BDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/Y-PpEgDzzxA/Johnny_English_Strikes_Again_2018.720p.BDRip.X264.AC3-EVO.mkv   MKV2.6GB
+#https://openload.co/f/2MqSe98cW1I/Johnny_English_Strikes_Again_2018_New_Src_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/UskKUo3454o/Johnny.English.Strikes.Again.2018.NOLOGO.ENG.CAM.mp4
 #https://openload.co/f/_9UhDKqWNdE/Johnny.English.Strikes.Again.2018.ENG.CAM.x264-1XBET.mp4
 #https://openload.co/f/wa-j50y9Jh8/Johnny.English.Strikes.Again.2018.CAM.LATINO.1XBE-314p.mp4
