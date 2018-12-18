@@ -255,7 +255,8 @@ type=video
 name=All Nighter (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciNUrbNv871umQ3IqvIOjet4s4E.jpg
 date=2017-10-29
-URL=https://openload.co/f/VRFWP55dsdM/All.Nighter.2017.1080p.BluRay.x264-CONDITION.mkv.mp4
+URL=https://openload.co/f/8jwBUgsTW5c/All.Nighter.2017.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
+#https://openload.co/f/VRFWP55dsdM/All.Nighter.2017.1080p.BluRay.x264-CONDITION.mkv.mp4
 type=video
 name=All Nighter (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciNUrbNv871umQ3IqvIOjet4s4E.jpg

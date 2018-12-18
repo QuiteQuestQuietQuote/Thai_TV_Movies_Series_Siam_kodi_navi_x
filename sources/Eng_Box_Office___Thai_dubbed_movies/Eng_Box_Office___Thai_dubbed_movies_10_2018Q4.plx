@@ -79,34 +79,34 @@ URL=http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)
 
 
 type=video
-name=
+name=test
 thumb=
 date=2018-12-04
-URL=
+URL=https://uploadgig.com/file/download/592040466f3bbA6b/GHPTHEHOUSEWITHACLOCKITSWALLS80.Ganol.si.mkv
 
 type=video
 name=
 thumb=
 date=2018-12-04
-URL=
+URL=https://rapidgator.net/file/25b5460b2e38e29b97cc4c1f70081b0c
 
 type=video
 name=
 thumb=
 date=2018-12-04
-URL=
+URL=http://nitroflare.com/view/EC318A137E0F7F0/GHPTHEHOUSEWITHACLOCKITSWALLS80.Ganol.si.mkv
 
 type=video
-name=
+name=testpart1
 thumb=
 date=2018-12-11
-URL=
+URL=https://openload.co/f/h40eJUc0BjU/GHPTHEHOUSEWITHACLOCKITSWALLS80.Ganol.si.part1.rar
 
 type=video
-name=
+name=part2
 thumb=
 date=2018-12-11
-URL=
+URL=https://openload.co/f/4gruZyNJFOw/GHPTHEHOUSEWITHACLOCKITSWALLS80.Ganol.si.part2.rar
 
 
 
@@ -115,7 +115,7 @@ type=video
 name=
 thumb=
 date=2018-12-14
-URL=
+URL=https://clicknupload.org/heyma1ltl2el
 
 
 
@@ -242,10 +242,11 @@ URL=https://openload.co/f/tFWcxWIJYkk/Goosebumps.Haunted_Halloween.2018.1080p.WE
 
 
 type=video
-name=Bad Times at the El Royale (2018) ENG 720p.HDCAM.V2.1XBET
+name=Bad Times at the El Royale (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg
-date=2018-10-29
-URL=https://openload.co/f/bMb92lrgQ9M/Bad.Times.at.the.El.Royale.2018.720p.HDCAM.V2.1XBET.mp4
+date=2018-12-18
+URL=https://openload.co/f/s_HTF-gUpZs/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/bMb92lrgQ9M/Bad.Times.at.the.El.Royale.2018.720p.HDCAM.V2.1XBET.mp4
 #https://openload.co/f/nLYd3wx0TdA/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/tkfG_HP1Geg/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET.mp4
 #https://openload.co/f/fhhlvQypFAQ/Bad.Times.at.the.El.Royale.2018.HDCAM.XviD-AVID.avi.mp4
@@ -1376,7 +1377,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-17
+date=2018-12-18
 URL=
 
 
@@ -1384,19 +1385,27 @@ URL=
 
 
 
-
+type=video
+name=1945 (2017) [COLOR=FF00FF00]HUN BR 1080p[/COLOR] | TMDB-77
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/meuykFNb80ys6K0CZ9y0ZPZxCaW.jpg
+date=2018-12-18
+URL=https://openload.co/f/Fh3fcXG0X2A/1945.2017.1080p.bluray.x264-cinefile.mkv.mp4
 
 type=video
 name=Ladies in Black (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBCO7Z4hC1yaROj49SI8z9SVF6V.jpg
-date=2018-12-17
-URL=https://openload.co/f/OOLSpEGwNX0/Ladies.in.Black.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-12-18
+URL=https://openload.co/f/-jquhUunYEA/Ladies.in.Black.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/OOLSpEGwNX0/Ladies.in.Black.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/8Mv9-Uxmpcg/Ladies.in.Black.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/4qXE-50Yxgg/Ladies.In.Black.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=They Shall Not Grow Old (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-90
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xK5aQyY8WED2vzLlsKNAFPVLUaB.jpg
 date=2018-12-17
 URL=https://openload.co/f/Ldqp5RFlN6k/they.shall.not.grow.old.2018.limited.1080p.bluray.x264-cadaver.mkv.mp4
+#https://openload.co/f/V8suN0ORkZ0/They.Shall.Not.Grow.Old.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Del Playa (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-30
@@ -1417,6 +1426,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZY8Ct22ahtx56EOvtNZvPny5E
 date=2018-12-17
 URL=https://openload.co/f/97JSKRLtyPc/god.bless.the.broken.road.2018.1080p.bluray.x264-cinefile.mkv.mp4
 #https://openload.co/f/6mDLEuNA4bk/god.bless.the.broken.road.2018.1080p.bluray.x264-cinefile.mkv.mp4
+#https://openload.co/f/y9ZOQP1Alus/God.Bless.The.Broken.Road.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=White Boy Rick (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
@@ -8092,10 +8102,11 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
-name=Aquaman (2018) ENG CAMRip_SeeHD
+name=Aquaman (2018) ENG TC.1080p_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
-date=2018-12-16
-URL=https://openload.co/f/R2YzKr6Q5Y0/Aquaman.2018.CAMRip_SeeHD.mkv.mp4
+date=2018-12-18
+URL=https://openload.co/f/3TEP9kEmy-w/Aquaman.TC.1080p_SeeHD.mp4
+#https://openload.co/f/R2YzKr6Q5Y0/Aquaman.2018.CAMRip_SeeHD.mkv.mp4
 #https://openload.co/f/enbK-_AFGro/Aquaman.2018.CAM.X264-Cueca_SeeHD.mkv.mp4
 #https://openload.co/f/4eoZetdCYpY/Aquaman_2018_HDCAM_ENG_X264_AC3_HQMic_Hive-CM8_SeeHD.mkv.mp4
 #https://openload.co/f/F_dSjC73jCU/Aquaman_2018_TC_V2.mp4
@@ -8161,24 +8172,6 @@ date=2018-11-22
 URL=https://openload.co/f/Xumjso_Og_M/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG 1080p.Korsub.Webrip_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
-date=2018-12-16
-URL=https://openload.co/f/VNADQVO4EQQ/Fantastic.Beasts.The.Crimes.of.Grindelwald_2018.1080p.Korsub.Webrip_SeeHD.mkv.mp4
-#https://openload.co/f/5WEur57mzKk/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HC.HDRip.MkvCage.ws.mkv.mp4
-#https://openload.co/f/iuHuIdv_D4I/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_720p_HD-TS_SeeHD.mkv.mp4
-#https://openload.co/f/zxQXeYHHfGI/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_720p_HD-TS.mkv.mp4
-#https://openload.co/f/VHRwE1C7oO0/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.NEW.720p.HDCAM.x264-SugarTiTS.mkv.mp4
-#https://openload.co/f/0hy9UKwm1H8/fantastic_beast_2_NEW_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/STtBv3Ur_Og/Fantastic_Beasts_The_Crimes_of_Grindelwal_%282018%29_720p_English_DVDScr_x264_AAC_850MB.mp4
-#https://openload.co/f/vSuSifI7q2Q/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET_SeeHD.mp4
-#https://openload.co/f/YyacPWT0DVs/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET.mp4
-type=video
-name=Fantastic Beasts: The Crimes of Grindelwald (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
-date=2018-11-19
-URL=https://openload.co/f/FjqJHOdzwNI/Fantastic_Beasts%3A_The_Crimes_of_Grindelwald_%282018%29%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%3A_%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%94%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -8207,21 +8200,7 @@ date=2018-11-12
 URL=https://openload.co/f/y56p0f0Dy8g/Overlord_%282018%29%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=Hunter Killer (2018) ENG HC.1080p.HDRip.X264-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
-date=2018-12-14
-URL=https://openload.co/f/TXo0rwp8Axw/Hunter_Killer.2018.HC.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/I9_ENs0lU-A/Hunter.Killer.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
-#https://openload.co/f/Vr_CK7ocuNw/Hunter.Killer.2018.CAM.XViD-T3RR0R.SQU4D.mp4
-#https://openload.co/f/WH4Ch_m3VuA/Hunter_Killer_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/tyPWaIr0L6I/Hunter_Killer_%282018%29HDCAM_XViD_AC3-ETRG.Ganool.mkv.mp4
-#https://openload.co/f/cxzuS6C8BUI/Hunter.Killer.2018.HDCAM.XviD-AVID.avi.mp4
-type=video
-name=Hunter Killer (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
-date=2018-11-04
-URL=https://openload.co/f/Nrdk2YpYEwk/Hunter_Killer_%282018%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 
@@ -8275,9 +8254,12 @@ name=Johnny English Strikes Again (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | 
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg
 date=2018-12-17
 URL=https://openload.co/f/v8_Xkcp28YQ/Johnny.English.Strikes.Again.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/VYwEfQ4wT1I/Johnny.English.Strikes.Again.2018.1080p.BluRay.X264-DEFLATE.mkv.mp4
 #https://openload.co/f/5_CW4NN26gk/Johnny_English_Strikes_Again_2018_1080p_BluRay_x264_DTS-FGT.mkv.mp4
 #https://openload.co/f/5a1KrdDDoZ4/Johnny.English.Strikes.Again.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
 #https://openload.co/f/y3o5oYljr9g/Johnny.English.Strikes.Again.2018.1080p.BluRay.DTS.X264-CMRG.mkv   MKV7.7GB
+#https://openload.co/f/wJd01mbimp4/Johnny.English.Strikes.Again.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/TWMP-4EEMsU/Johnny.English.Strikes.Again.2018.1080p.BluRay.AC3.MkvCage.ws.mkv.mp4
 #https://openload.co/f/Z8vsSSRDjqM/Johnny_English_Strikes_Again_2018.720p.BDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/Y-PpEgDzzxA/Johnny_English_Strikes_Again_2018.720p.BDRip.X264.AC3-EVO.mkv   MKV2.6GB
 #https://openload.co/f/2MqSe98cW1I/Johnny_English_Strikes_Again_2018_New_Src_HDCAM_SeeHD.mkv.mp4
@@ -8310,10 +8292,11 @@ URL=https://openload.co/f/qo3RsswIa80/Luis_and_the_Aliens_%282018%29%E0%B8%AB%E0
 
 
 type=video
-name=Hell Fest (2018) ENG 720p_HDCAM-1XBET_SeeHD
+name=Hell Fest (2018) ENG HC.1080p.HDRip.X264-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tjyPwIqeYzho7fHWqBKIn2gyWg.jpg
-date=2018-09-30
-URL=https://openload.co/f/ar5jfgUtWA8/Hellfest_2018_720p_HDCAM-1XBET_SeeHD.mp4
+date=2018-12-18
+URL=https://openload.co/f/RFdovqf2WFk/Hell.Fest.2018.HC.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/ar5jfgUtWA8/Hellfest_2018_720p_HDCAM-1XBET_SeeHD.mp4
 type=video
 name=Hell Fest (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tjyPwIqeYzho7fHWqBKIn2gyWg.jpg
@@ -8489,16 +8472,7 @@ date=2018-12-16
 URL=https://openload.co/f/-0Gbq31MBvc/Roma_%282018%29%E0%B9%82%E0%B8%A3%E0%B8%A1%E0%B9%88%E0%B8%B2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
-type=video
-name=Gonjiam: Haunted Asylum (2018) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rhdnM0fvflhU6spI5dw8D0CWrQ.jpg
-date=2018-08-31
-URL=https://openload.co/f/y2HVqMg_cro/Gonjiam.Haunted.Asylum.2018.BluRay.1080p.5.1CH.x264.Ganool.mkv.mp4
-type=video
-name=Gonjiam: Haunted Asylum (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rhdnM0fvflhU6spI5dw8D0CWrQ.jpg
-date=2018-12-10
-URL=https://openload.co/f/QNK8R_Xqfcw/Gonjiam%3A_Haunted_Asylum_%282018%29Gonjiam%3A_Haunted_Asylum_%282018%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
 
 
 type=video
@@ -11122,6 +11096,46 @@ URL=
 
 
 
+
+type=video
+name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG 1080p.Korsub.Webrip_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
+date=2018-12-16
+URL=https://openload.co/f/VNADQVO4EQQ/Fantastic.Beasts.The.Crimes.of.Grindelwald_2018.1080p.Korsub.Webrip_SeeHD.mkv.mp4
+#https://openload.co/f/5WEur57mzKk/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HC.HDRip.MkvCage.ws.mkv.mp4
+#https://openload.co/f/iuHuIdv_D4I/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_720p_HD-TS_SeeHD.mkv.mp4
+#https://openload.co/f/zxQXeYHHfGI/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_720p_HD-TS.mkv.mp4
+#https://openload.co/f/VHRwE1C7oO0/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.NEW.720p.HDCAM.x264-SugarTiTS.mkv.mp4
+#https://openload.co/f/0hy9UKwm1H8/fantastic_beast_2_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/STtBv3Ur_Og/Fantastic_Beasts_The_Crimes_of_Grindelwal_%282018%29_720p_English_DVDScr_x264_AAC_850MB.mp4
+#https://openload.co/f/vSuSifI7q2Q/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET_SeeHD.mp4
+#https://openload.co/f/YyacPWT0DVs/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET.mp4
+type=video
+name=Fantastic Beasts: The Crimes of Grindelwald (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
+date=2018-12-18
+URL=https://openload.co/f/oj3kxxzijvc/Fantastic_Beasts%3A_The_Crimes_of_Grindelwald_%282018%29%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%3A_%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%94%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/FjqJHOdzwNI/Fantastic_Beasts%3A_The_Crimes_of_Grindelwald_%282018%29%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%3A_%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%94%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=Hunter Killer (2018) ENG HC.1080p.HDRip.X264-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
+date=2018-12-14
+URL=https://openload.co/f/TXo0rwp8Axw/Hunter_Killer.2018.HC.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/I9_ENs0lU-A/Hunter.Killer.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
+#https://openload.co/f/Vr_CK7ocuNw/Hunter.Killer.2018.CAM.XViD-T3RR0R.SQU4D.mp4
+#https://openload.co/f/WH4Ch_m3VuA/Hunter_Killer_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/tyPWaIr0L6I/Hunter_Killer_%282018%29HDCAM_XViD_AC3-ETRG.Ganool.mkv.mp4
+#https://openload.co/f/cxzuS6C8BUI/Hunter.Killer.2018.HDCAM.XviD-AVID.avi.mp4
+type=video
+name=Hunter Killer (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
+date=2018-12-18
+URL=https://openload.co/f/6cxOsPYo_pg/Hunter_Killer_%282018%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/Nrdk2YpYEwk/Hunter_Killer_%282018%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
 type=video
 name=One Cut of the Dead (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-89
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0ZB59m0kio95VClKoq95s1QYbu.jpg
@@ -11197,6 +11211,7 @@ URL=https://openload.co/f/I6UWgTEu_Yg/The.House.with.a.Clock.in.Its.Walls.2018.1
 #https://openload.co/f/hcOBGroGxcA/The.House.With.A.Clock.In.Its.Walls.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/ZOURk9yzRu0/The_House_With_a_Clock_In_Its_Walls_1080pHD_SeeHD.mkv.mp4
 #https://openload.co/f/hcOBGroGxcA/The.House.With.A.Clock.In.Its.Walls.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/KKE_4IkrpDI/The.House.with.a.Clock.in.Its.Walls.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/-5AMq1L5PfA/The_House_with_a_Clock_in_Its_Walls_2018_1080p_WEB_DL_DD5_1_H264_FGT.mkv.mp4
 #https://openload.co/f/bbsEl9Bd23U/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.1XBET.mp4
 #https://openload.co/f/TeEYnby1KLk/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.mp4
@@ -11862,7 +11877,17 @@ URL=
 
 
 
-
+type=video
+name=Gonjiam: Haunted Asylum (2018) [COLOR=FF00FF00]KOR BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rhdnM0fvflhU6spI5dw8D0CWrQ.jpg
+date=2018-08-31
+URL=https://openload.co/f/y2HVqMg_cro/Gonjiam.Haunted.Asylum.2018.BluRay.1080p.5.1CH.x264.Ganool.mkv.mp4
+type=video
+name=Gonjiam: Haunted Asylum (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rhdnM0fvflhU6spI5dw8D0CWrQ.jpg
+date=2018-12-18
+URL=https://openload.co/f/Q5VGZMY0HYQ/Gonjiam%3A_Haunted_Asylum_%282018%29%E0%B8%81%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A1%3A_%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B8.mp4
+#https://openload.co/f/QNK8R_Xqfcw/Gonjiam%3A_Haunted_Asylum_%282018%29Gonjiam%3A_Haunted_Asylum_%282018%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
