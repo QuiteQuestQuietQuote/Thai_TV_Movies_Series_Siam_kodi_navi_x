@@ -271,49 +271,49 @@ URL=https://openload.co/f/eWuh3hFh4-A/London_Fields_2018_720p_RUS_TS_ENG_SUB-1XB
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 type=video
-name=The Miseducation of Cameron Post (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oraMTiBy5I7nTRmTtF2WoF7iNUy.jpg
-date=2018-11-06
-URL=https://openload.co/f/R1iFbhzjl5M/The.Miseducation.of.Cameron.Post.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/p1qEhhhRif0/The_Miseducation_of_Cameron_Post_720pHD_SeeHD.mkv.mp4
+name=The Sisters Brothers (2018) ENG 1080pHD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTgomqYRTXT3BXQScnIo8uHDyWC.jpg
+date=2018-12-19
+URL=https://openload.co/f/1IqteFDN-yY/The_Sisters_Brothers_1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/MtL7T1o0iQY/The_Sisters_Brothers_2018_1080p_WEB-DL_X264_5.1.mkv.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1377,13 +1377,53 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-18
+date=2018-12-19
 URL=
 
 
 
 
 
+
+
+
+
+
+
+
+
+type=video
+name=Postcards from London (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-55
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8tvQxZEUw0vWXDRZmzdDA5rhUc.jpg
+date=2018-12-19
+URL=https://uptobox.com/ivz9a291txq1
+#https://fruithosts.net/embed/kcbomfmeksdcocsp/GHPPOSTCARDFROMLONDON80_Ganol_si_mkv
+#https://oload.fun/embed/2HZ3p8y5Lew/GHPPOSTCARDFROMLONDON80.Ganol.si.mkv
+#https://openload.co/f/vOJfJY5Z4BE/Postcards_from_London_%282018%291080p.BR.Ganool.mkv.mp4
+#https://openload.co/f/ffd0AMDRzlo/Postcards.From.London.2018.1080p.BluRay.x264-EiDER.mkv.mp4
+
+type=video
+name=Life Itself (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-74
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE2hxC8bPbIi9tGyhFg5xiFW6dA.jpg
+date=2018-12-19
+URL=https://uptobox.com/r9oivcukrhhp
+#https://fruithosts.net/embed/qtembtdkccalsadf/LIFEITSELF80_Ganol_si_mkv
+#https://oload.fun/embed/8ZkLsQYfgqM/LIFEITSELF80.Ganol.si.mkv
+#https://openload.co/f/V7K9ZAoyR7Q/Life_Itself_%282018%291080p.BR.Ganool.mkv.mp4
+#https://openload.co/f/YW245hcbB2g/Life.Itself.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/tTZ5PuzaDJ0/Life.Itself.2018.1080p.BluRay.X264-AMIABLE.mkv   MKV7.7GB
+
+type=video
+name=The Miseducation of Cameron Post (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-74
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oraMTiBy5I7nTRmTtF2WoF7iNUy.jpg
+date=2018-12-19
+URL=https://uptobox.com/aekcvsxfsu0k
+#https://fruithosts.net/embed/nmtaalopspfapaab/GHPTHEMISEDUCATIONCAMREN80_Ganol_si_mkv
+#https://oload.fun/embed/npzDtLNWr4I/GHPTHEMISEDUCATIONCAMREN80.Ganol.si.mkv
+#https://openload.co/f/KODuqJCOMW8/The_Miseducation_of_Cameron_Post_%282018%291080p.BR.Ganool.mkv.mp4
+#https://openload.co/f/YvnD6-juaLs/The.Miseducation.of.Cameron.Post.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/R1iFbhzjl5M/The.Miseducation.of.Cameron.Post.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/p1qEhhhRif0/The_Miseducation_of_Cameron_Post_720pHD_SeeHD.mkv.mp4
 
 type=video
 name=1945 (2017) [COLOR=FF00FF00]HUN BR 1080p[/COLOR] | TMDB-77
@@ -1394,8 +1434,9 @@ URL=https://openload.co/f/Fh3fcXG0X2A/1945.2017.1080p.bluray.x264-cinefile.mkv.m
 type=video
 name=Ladies in Black (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBCO7Z4hC1yaROj49SI8z9SVF6V.jpg
-date=2018-12-18
-URL=https://openload.co/f/-jquhUunYEA/Ladies.in.Black.2018.1080p.BR_SeeHD.mp4
+date=2018-12-19
+URL=https://uptobox.com/vpvfwb684fph
+#https://openload.co/f/-jquhUunYEA/Ladies.in.Black.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/OOLSpEGwNX0/Ladies.in.Black.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/8Mv9-Uxmpcg/Ladies.in.Black.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/4qXE-50Yxgg/Ladies.In.Black.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
@@ -1431,8 +1472,9 @@ URL=https://openload.co/f/97JSKRLtyPc/god.bless.the.broken.road.2018.1080p.blura
 type=video
 name=White Boy Rick (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/376lzYd3vE04qBA5Js93UAKrnvj.jpg
-date=2018-12-16
-URL=https://openload.co/f/wexrSHSN_pw/White.Boy.Rick.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2018-12-19
+URL=https://uptobox.com/c3gryzilzgiw
+#https://openload.co/f/wexrSHSN_pw/White.Boy.Rick.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/Q2pH_a9NJ0Q/White.Boy.Rick.2018.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/u2qygEA61lU/White.Boy.Rick.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/5F-HRzfc2-I/White.Boy.Rick.2018.720p.BluRay.x264-DRONES.mkv.mp4
@@ -1447,6 +1489,7 @@ date=2018-12-16
 URL=https://openload.co/f/jg5YqCU0ePI/What.Keeps.You.Alive.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/0mEyN8S7a1o/What.Keeps.You.Alive.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/tKrC0SvR3dM/what.keeps.you.alive.2018.720p.bluray.x264-invandraren.mkv.mp4
+#https://openload.co/f/anddxn22CKA/what.keeps.you.alive.2018.1080p.bluray.x264-invandraren.mkv.mp4
 
 type=video
 name=Mandy the Haunted Doll (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-30
@@ -8249,29 +8292,7 @@ URL=https://openload.co/f/mDgvTf333Zw/Venom_%282018%29%E0%B9%80%E0%B8%A7%E0%B8%9
 
 
 
-type=video
-name=Johnny English Strikes Again (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg
-date=2018-12-17
-URL=https://openload.co/f/v8_Xkcp28YQ/Johnny.English.Strikes.Again.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/VYwEfQ4wT1I/Johnny.English.Strikes.Again.2018.1080p.BluRay.X264-DEFLATE.mkv.mp4
-#https://openload.co/f/5_CW4NN26gk/Johnny_English_Strikes_Again_2018_1080p_BluRay_x264_DTS-FGT.mkv.mp4
-#https://openload.co/f/5a1KrdDDoZ4/Johnny.English.Strikes.Again.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
-#https://openload.co/f/y3o5oYljr9g/Johnny.English.Strikes.Again.2018.1080p.BluRay.DTS.X264-CMRG.mkv   MKV7.7GB
-#https://openload.co/f/wJd01mbimp4/Johnny.English.Strikes.Again.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/TWMP-4EEMsU/Johnny.English.Strikes.Again.2018.1080p.BluRay.AC3.MkvCage.ws.mkv.mp4
-#https://openload.co/f/Z8vsSSRDjqM/Johnny_English_Strikes_Again_2018.720p.BDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/Y-PpEgDzzxA/Johnny_English_Strikes_Again_2018.720p.BDRip.X264.AC3-EVO.mkv   MKV2.6GB
-#https://openload.co/f/2MqSe98cW1I/Johnny_English_Strikes_Again_2018_New_Src_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/UskKUo3454o/Johnny.English.Strikes.Again.2018.NOLOGO.ENG.CAM.mp4
-#https://openload.co/f/_9UhDKqWNdE/Johnny.English.Strikes.Again.2018.ENG.CAM.x264-1XBET.mp4
-#https://openload.co/f/wa-j50y9Jh8/Johnny.English.Strikes.Again.2018.CAM.LATINO.1XBE-314p.mp4
-#https://openload.co/f/s2ehJnBuZnA/Johnny_English_Strikes_Again_2018_Movies_HD_Cam_x264_LAT_Clean_Audio_AAC_New_Source_rDX.mp4
-type=video
-name=Johnny English Strikes Again (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg
-date=2018-10-08
-URL=https://openload.co/f/o7Lz3ohcezc/Johnny_English_Strikes_Again_%282018%29%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%88_%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%B4%E0%B8%8A_%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%81_%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
@@ -11097,6 +11118,34 @@ URL=
 
 
 
+
+type=video
+name=Johnny English Strikes Again (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg
+date=2018-12-19
+URL=https://uptobox.com/dixf0dz9an0c
+#https://openload.co/f/v8_Xkcp28YQ/Johnny.English.Strikes.Again.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/VYwEfQ4wT1I/Johnny.English.Strikes.Again.2018.1080p.BluRay.X264-DEFLATE.mkv.mp4
+#https://openload.co/f/5_CW4NN26gk/Johnny_English_Strikes_Again_2018_1080p_BluRay_x264_DTS-FGT.mkv.mp4
+#https://openload.co/f/5a1KrdDDoZ4/Johnny.English.Strikes.Again.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
+#https://openload.co/f/y3o5oYljr9g/Johnny.English.Strikes.Again.2018.1080p.BluRay.DTS.X264-CMRG.mkv   MKV7.7GB
+#https://openload.co/f/wJd01mbimp4/Johnny.English.Strikes.Again.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/TWMP-4EEMsU/Johnny.English.Strikes.Again.2018.1080p.BluRay.AC3.MkvCage.ws.mkv.mp4
+#https://openload.co/f/Z8vsSSRDjqM/Johnny_English_Strikes_Again_2018.720p.BDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/Y-PpEgDzzxA/Johnny_English_Strikes_Again_2018.720p.BDRip.X264.AC3-EVO.mkv   MKV2.6GB
+#https://openload.co/f/2MqSe98cW1I/Johnny_English_Strikes_Again_2018_New_Src_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/UskKUo3454o/Johnny.English.Strikes.Again.2018.NOLOGO.ENG.CAM.mp4
+#https://openload.co/f/_9UhDKqWNdE/Johnny.English.Strikes.Again.2018.ENG.CAM.x264-1XBET.mp4
+#https://openload.co/f/wa-j50y9Jh8/Johnny.English.Strikes.Again.2018.CAM.LATINO.1XBE-314p.mp4
+#https://openload.co/f/s2ehJnBuZnA/Johnny_English_Strikes_Again_2018_Movies_HD_Cam_x264_LAT_Clean_Audio_AAC_New_Source_rDX.mp4
+type=video
+name=Johnny English Strikes Again (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg
+date=2018-12-19
+URL=https://openload.co/f/plt3QPzZy8Y/Johnny_English_Strikes_Again_%282018%29%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%88_%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%B4%E0%B8%8A_%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%81_%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/o7Lz3ohcezc/Johnny_English_Strikes_Again_%282018%29%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%88_%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%B4%E0%B8%8A_%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%81_%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
 type=video
 name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG 1080p.Korsub.Webrip_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
@@ -11206,8 +11255,9 @@ URL=https://openload.co/f/yHnvNOtzaro/Animal_World_%282018%29%E0%B9%80%E0%B8%88%
 type=video
 name=The House with a Clock in Its Walls (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
-date=2018-12-16
-URL=https://openload.co/f/I6UWgTEu_Yg/The.House.with.a.Clock.in.Its.Walls.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+date=2018-12-19
+URL=https://uptobox.com/1q0rfvij91ox
+#https://openload.co/f/I6UWgTEu_Yg/The.House.with.a.Clock.in.Its.Walls.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/hcOBGroGxcA/The.House.With.A.Clock.In.Its.Walls.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/ZOURk9yzRu0/The_House_With_a_Clock_In_Its_Walls_1080pHD_SeeHD.mkv.mp4
 #https://openload.co/f/hcOBGroGxcA/The.House.With.A.Clock.In.Its.Walls.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
@@ -11902,8 +11952,9 @@ URL=https://www.blazefile.co/embed-avo7yv4nrgxg.html
 type=video
 name=Keep Watching (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/65UjzcdXlLcDzZQEidMN58BsFzg.jpg
-date=2018-10-16
-URL=https://openload.co/f/eUhgHRw3dT0/Keep_Watching_%282017%29Keep_Watching_%282017%29.mp4
+date=2018-12-19
+URL=https://openload.co/f/8HsNvlQozA4/Keep_Watching_%282017%29Keep_Watching_%282017%29.mp4
+#https://openload.co/f/eUhgHRw3dT0/Keep_Watching_%282017%29Keep_Watching_%282017%29.mp4
 
 
 # 2769908
