@@ -2387,6 +2387,8 @@ http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunk
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 #EXTINF:-1,latin_music
 http://eu1.servers10.com:1935/8118/8118/playlist.m3u8
+#EXTINF:-1,1music_HUN
+http://stream.1music.hu/stream/1music.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/551035274344402946/ywxl9pq3_400x400.jpeg",100automoto

@@ -1377,7 +1377,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-19
+date=2018-12-20
 URL=
 
 
@@ -1390,7 +1390,11 @@ URL=
 
 
 
-
+type=video
+name=I Dream in Another Language (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] | TMDB-82
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NxBKQrtj6liidMxLYwi2uMUpPW.jpg
+date=2018-12-20
+URL=https://openload.co/f/47ARjbdigrk/i.dream.in.another.language.2017.limited.1080p.bluray.x264-usury.mkv.mp4
 
 type=video
 name=Postcards from London (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-55
@@ -1439,6 +1443,7 @@ URL=https://uptobox.com/vpvfwb684fph
 #https://openload.co/f/-jquhUunYEA/Ladies.in.Black.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/OOLSpEGwNX0/Ladies.in.Black.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/8Mv9-Uxmpcg/Ladies.in.Black.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/B20LiuSLIbg/Ladies.in.Black.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/4qXE-50Yxgg/Ladies.In.Black.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
@@ -2940,6 +2945,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fu4zJfknZzxcX6ELWRaMwAAqXy
 date=2018-10-05
 URL=https://openload.co/f/FFl9Orl0B3c/Blackmail.2018.BluRay.1080p.HEVC.DDP.5.1-DTOne.mkv.mp4
 #https://openload.co/f/T1UbLbwFFWI/Blackmail.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/Gc2QG_te6Pk/Blackmail.2018.LIMITED.720p.BluRay.x264-Chakra.mkv.mp4
 
 type=video
 name=Ismael's Ghosts (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR]
@@ -10199,8 +10205,10 @@ URL=https://streamango.com/f/aadcmkaffdodnode/Newness_2017_
 type=video
 name=Forgotten (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-78
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlI9QeP9n7vBmmi9KbnssPR10j0.jpg
-date=2018-12-10
-URL=https://openload.co/f/fl3BXGAtFFI/Forgotten.2017.KOREAN.1080p.BluRay.H264.AAC.mp4
+date=2018-12-20
+URL=https://uptobox.com/k11t6qahpsm8
+#https://fruithosts.net/embed/ottppfbkpkobomso/Forgotten_2017_BluRay_1080p_5_1CH_x264_Ganol_si_mkv
+#https://openload.co/f/fl3BXGAtFFI/Forgotten.2017.KOREAN.1080p.BluRay.H264.AAC.mp4
 type=video
 name=Forgotten (2017) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlI9QeP9n7vBmmi9KbnssPR10j0.jpg
@@ -11217,10 +11225,13 @@ URL=https://openload.co/f/vPOr6tOit7M/Shadow_%282018%29%E0%B8%88%E0%B8%AD%E0%B8%
 
 
 type=video
-name=Halloween (2018) ENG HC.1080p.HDRip.X264.AC3-EVO_SeeHD
+name=Halloween (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNkDYKmrVem1J0aAfCnQlJOCKnT.jpg
-date=2018-11-29
-URL=https://openload.co/f/4YzDS_eeJSo/Halloween.2018.HC.1080p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-12-20
+URL=https://openload.co/f/Higxs4-SxSw/Halloween.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/4jsB35O1sGg/Halloween.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/CxuEuCNcimM/Halloween.2018.HC.1080p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/4YzDS_eeJSo/Halloween.2018.HC.1080p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/dpCxDuf-SmI/Halloween_2018_HC_1080p_HDRip_X264_AC3-EVO.mp4
 #https://openload.co/f/ixJajUSxXgY/Halloween_2018_720p_HDCAM_ENG-1XBET_SeeHD.mp4
 #https://openload.co/f/0oGS72PoxZk/Halloween.2018.720p.HDCAM.ENG-1XBET.mp4
