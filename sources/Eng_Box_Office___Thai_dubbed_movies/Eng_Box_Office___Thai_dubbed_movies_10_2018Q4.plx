@@ -114,7 +114,7 @@ URL=https://openload.co/f/4gruZyNJFOw/GHPTHEHOUSEWITHACLOCKITSWALLS80.Ganol.si.p
 type=video
 name=
 thumb=
-date=2018-12-14
+date=2018-12-21
 URL=https://clicknupload.org/heyma1ltl2el
 
 
@@ -241,15 +241,7 @@ URL=https://openload.co/f/tFWcxWIJYkk/Goosebumps.Haunted_Halloween.2018.1080p.WE
 
 
 
-type=video
-name=Bad Times at the El Royale (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg
-date=2018-12-18
-URL=https://openload.co/f/s_HTF-gUpZs/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/bMb92lrgQ9M/Bad.Times.at.the.El.Royale.2018.720p.HDCAM.V2.1XBET.mp4
-#https://openload.co/f/nLYd3wx0TdA/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/tkfG_HP1Geg/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET.mp4
-#https://openload.co/f/fhhlvQypFAQ/Bad.Times.at.the.El.Royale.2018.HDCAM.XviD-AVID.avi.mp4
+
 
 
 
@@ -278,7 +270,11 @@ date=2018-12-19
 URL=https://openload.co/f/1IqteFDN-yY/The_Sisters_Brothers_1080pHD_SeeHD.mkv.mp4
 #https://openload.co/f/MtL7T1o0iQY/The_Sisters_Brothers_2018_1080p_WEB-DL_X264_5.1.mkv.mp4
 
-
+type=video
+name=Mid90s (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvB5TsUScfgwfjZYusjcuZ9L6oS.jpg
+date=2018-12-21
+URL=https://openload.co/f/dvlz4V0tNSs/Mid90s.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 
 
 
@@ -1388,7 +1384,22 @@ URL=
 
 
 
-
+type=video
+name=Bad Times at the El Royale (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg
+date=2018-12-21
+URL=https://uptobox.com/4tkr5lbnblk7
+#https://fruithosts.net/embed/onqfenntcealncrk/GHPBADTIMEAATELROYALE80_Ganol_si_mkv
+#https://oload.fun/embed/YnYaztgb0fI/GHPBADTIMEAATELROYALE80.Ganol.si.mkv
+#https://openload.co/f/dAdtBrqh9GI/Bad_Times_at_the_El_Royale_%282018%291080p.BR.Ganool.mkv.mp4
+#https://openload.co/f/sOnmcV55AJM/Bad_Times_at_the_El_Royale_%282018%291080p.BR.Ganool.mkv   MKV1.8GB
+#https://openload.co/f/v6frXEL-WUc/Bad.Times.At.The.El.Royale.2018.720p.BRRip.x264.MkvCage.mkv.mp4
+#https://openload.co/f/Nij8ISMW9M0/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/s_HTF-gUpZs/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/bMb92lrgQ9M/Bad.Times.at.the.El.Royale.2018.720p.HDCAM.V2.1XBET.mp4
+#https://openload.co/f/nLYd3wx0TdA/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/tkfG_HP1Geg/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET.mp4
+#https://openload.co/f/fhhlvQypFAQ/Bad.Times.at.the.El.Royale.2018.HDCAM.XviD-AVID.avi.mp4
 
 type=video
 name=I Dream in Another Language (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] | TMDB-82
@@ -1405,6 +1416,8 @@ URL=https://uptobox.com/ivz9a291txq1
 #https://oload.fun/embed/2HZ3p8y5Lew/GHPPOSTCARDFROMLONDON80.Ganol.si.mkv
 #https://openload.co/f/vOJfJY5Z4BE/Postcards_from_London_%282018%291080p.BR.Ganool.mkv.mp4
 #https://openload.co/f/ffd0AMDRzlo/Postcards.From.London.2018.1080p.BluRay.x264-EiDER.mkv.mp4
+#https://openload.co/f/EeqxWYOHmwU/Postcards.From.London.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/4XXE7HOmubM/Postcards.From.London.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Life Itself (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-74
@@ -1416,6 +1429,8 @@ URL=https://uptobox.com/r9oivcukrhhp
 #https://openload.co/f/V7K9ZAoyR7Q/Life_Itself_%282018%291080p.BR.Ganool.mkv.mp4
 #https://openload.co/f/YW245hcbB2g/Life.Itself.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/tTZ5PuzaDJ0/Life.Itself.2018.1080p.BluRay.X264-AMIABLE.mkv   MKV7.7GB
+#https://openload.co/f/9B1n58wMoG8/Life.Itself.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/4sAAFNQDaEs/Life.Itself.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=The Miseducation of Cameron Post (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-74
@@ -5495,6 +5510,7 @@ URL=https://www.blazefile.co/embed-ig1q87jiqvyu.html
 #https://uptobox.com/d4pkw5os2hrg
 #https://openload.co/f/DmjgBVPbyQA/ghpthemnwh0invtedchritmas80.Ettv.st.mkv
 #https://openload.co/f/2RWJ_hJl7mY/The.Man.Who.Invented.Christmas.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/ugYpAB02cJk/The.Man.Who.Invented.Christmas.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/O1DfxjnvJB0/The.Man.Who.Invented.Christmas.2017.720p.BluRay.x264-Replica.mkv.mp4
 #https://openload.co/f/nEXzA0TkDEU/The.Man.Who.Invented.Christmas.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/vt-5WCEjuY4/The_Man_Who_Invented_Christmas.2017.HC.HDRip.XviD.AC3-EVO.avi.mp4
@@ -8319,10 +8335,12 @@ URL=https://openload.co/f/qo3RsswIa80/Luis_and_the_Aliens_%282018%29%E0%B8%AB%E0
 
 
 type=video
-name=Hell Fest (2018) ENG HC.1080p.HDRip.X264-EVO_SeeHD
+name=Hell Fest (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tjyPwIqeYzho7fHWqBKIn2gyWg.jpg
-date=2018-12-18
-URL=https://openload.co/f/RFdovqf2WFk/Hell.Fest.2018.HC.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
+date=2018-12-21
+URL=https://openload.co/f/r8pdaXkWAis/Hell.Fest.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/kA8VNtGpuw8/Hell.Fest.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/RFdovqf2WFk/Hell.Fest.2018.HC.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/ar5jfgUtWA8/Hellfest_2018_720p_HDCAM-1XBET_SeeHD.mp4
 type=video
 name=Hell Fest (2018) THCAM
@@ -11376,17 +11394,22 @@ URL=https://openload.co/f/LqODIQc1TMU/Monstrum_%282018%29%E0%B8%9E%E0%B8%B1%E0%B
 
 
 type=video
-name=A.X.L. (2018) ENG 1080p.NF.WEB-DL.DD5.1.H264-CMRG
+name=A-X-L (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-54
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg
-date=2018-10-27
-URL=https://openload.co/f/PmYk_fesKMw/A-X-L.2018.1080p.NF.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+date=2018-12-21
+URL=https://uptobox.com/b0thzo99h0h2
+#https://fruithosts.net/embed/nledbtfoqftnkmpm/GHPAXL80_Ganol_si_mkv
+#https://oload.fun/embed/vOAeDBuRox8/GHPAXL80.Ganol.si.mkv
+#https://openload.co/f/K7Gqpl0hyiU/A-X-L_%282018%291080p.BR.Ganool.mkv.mp4
+#https://openload.co/f/7n8CMmX6YyE/a.x.l.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/PmYk_fesKMw/A-X-L.2018.1080p.NF.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 #https://openload.co/f/Fz_xPEw8Wm0/A-X-L.2018.720p.NF.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 #https://openload.co/f/vHlB1P-_1tU/A.X.L1080pHDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/Kj439guATEg/AXL.2018.HDCAM.XviD-AVID.avi.mp4
 #https://openload.co/f/IdRiWQZUTME/A.X.L.2018.RUS.HDCAM.HC.ENG.SUB-NO.WATERMARK.mp4
 #https://openload.co/f/7DFmc1VnHF0/A.X.L_2018_720p_RUS_HDCAM_HC_ENG_SUB-1XBET.mp4
 type=video
-name=A.X.L. (2018) THCAM SOUND
+name=A-X-L (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg
 date=2018-11-04
 URL=https://openload.co/f/a8uGQjWj-7M/A.X.L._%282018%29%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B8%A5%3A_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
