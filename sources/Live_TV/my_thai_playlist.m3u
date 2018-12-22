@@ -2381,8 +2381,10 @@ http://ott-cdn.ucom.am/s44/index.m3u8
 http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://peka2.tv/images/profile/272176/avatar.jpg",Ritsa TV
 https://hls.goodgame.ru/hls/122431.m3u8
-#EXTINF:-1  tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784160_logo_djing_wild_edm.png",djing
+#EXTINF:-1  tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784160_logo_djing_wild_edm.png",djing hits
 https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1  tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784160_logo_djing_wild_edm.png",djing
+https://www.djing.com/tv/live.m3u8
 #EXTINF:-1  tvg-logo="http://3.bp.blogspot.com/-5Wbwt_uIAu0/TyhcHDsR3hI/AAAAAAAAEAc/B30c1R_Rd44/s1600/Music+Choice+logo+2012.jpg",music-choice
 http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png",hit_tv
@@ -2391,6 +2393,8 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 http://eu1.servers10.com:1935/8118/8118/playlist.m3u8
 #EXTINF:-1,1music_HUN
 http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,retrotvHQ1
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/551035274344402946/ywxl9pq3_400x400.jpeg",100automoto
@@ -2492,6 +2496,11 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 http://134.19.150.42:81/udp/239.195.6.33:1234
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv__a00l
 http://86.57.182.131:8905/play/a00l
+
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/dusk-tv.png",DUSK
+http://horstiptv.fantasyleague.cc:25461/urjqrxef/wd38WeY0e8/2632
+#EXTINF:-1,Lesbian
+http://gptz.xyz:8080/tayfun/06102018/12167
 
 #EXTINF:-1,GONG_movie_playmedia
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8

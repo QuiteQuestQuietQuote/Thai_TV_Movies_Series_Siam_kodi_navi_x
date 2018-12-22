@@ -79,34 +79,34 @@ URL=http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)
 
 
 type=video
-name=test
+name=
 thumb=
 date=2018-12-04
-URL=https://uploadgig.com/file/download/592040466f3bbA6b/GHPTHEHOUSEWITHACLOCKITSWALLS80.Ganol.si.mkv
+URL=
 
 type=video
 name=
 thumb=
 date=2018-12-04
-URL=https://rapidgator.net/file/25b5460b2e38e29b97cc4c1f70081b0c
+URL=
 
 type=video
 name=
 thumb=
 date=2018-12-04
-URL=http://nitroflare.com/view/EC318A137E0F7F0/GHPTHEHOUSEWITHACLOCKITSWALLS80.Ganol.si.mkv
+URL=
 
 type=video
-name=testpart1
+name=
 thumb=
 date=2018-12-11
-URL=https://openload.co/f/h40eJUc0BjU/GHPTHEHOUSEWITHACLOCKITSWALLS80.Ganol.si.part1.rar
+URL=
 
 type=video
-name=part2
+name=
 thumb=
 date=2018-12-11
-URL=https://openload.co/f/4gruZyNJFOw/GHPTHEHOUSEWITHACLOCKITSWALLS80.Ganol.si.part2.rar
+URL=
 
 
 
@@ -115,7 +115,7 @@ type=video
 name=
 thumb=
 date=2018-12-21
-URL=https://clicknupload.org/heyma1ltl2el
+URL=
 
 
 
@@ -215,15 +215,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aANJRBtm75nw8fNlITAIvAOAGh
 date=2018-10-26
 URL=https://openload.co/f/HM-dmohGv4g/King_of_Thieves_2018_720p_TS-1XBET_SeeHD.mp4
 
-type=video
-name=Night School (2018) ENG 1080pHD_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NSMAaBPSbWv7sGmF8oLGMNb8Qm.jpg
-date=2018-12-11
-URL=https://openload.co/f/dcfty9LdeFk/Night_School_2018_1080pHD_SeeHD.mkv.mp4
-#https://openload.co/f/ihIb1uy6RQE/Night.School.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/7PBX4T1L4pw/Night_School_2018_1080p_TC_SeeHD.mkv.mp4
-#https://openload.co/f/rdeQMat_PxU/Night_School_2018_720p_TS-1XBET_SeeHD.mp4
-#https://openload.co/f/vmWxHB1gsaI/Night_School_2018_720p_TS-1XBET.mp4
+
 
 
 
@@ -1373,7 +1365,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-20
+date=2018-12-22
 URL=
 
 
@@ -1383,6 +1375,33 @@ URL=
 
 
 
+
+
+type=video
+name=Sgt. Stubby: An American Hero (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7MiBAz8QlqKPuUfH5Uxxjo33AT.jpg
+date=2018-12-22
+URL=https://uptobox.com/swskrip5iaql
+#https://fruithosts.net/embed/elfqcqnlfktssnke/GHPSGTSUBTTANAMERICANHERO80_Ganol_si_mkv_mp4
+#https://oload.fun/embed/ZRZ2l43cp5E/GHPSGTSUBTTANAMERICANHERO80.Ganol.si.mkv.mp4
+#https://openload.co/f/aB6QNGW1MIs/Sgt._Stubby%3A_An_American_Hero_%282018%291080p.BR.Ganool.mkv.mp4
+#https://openload.co/f/T4J5jM9-6HU/Sgt.Stubby.An.American.Hero.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/kJN8byB_Wik/Sgt.Stubby.An.American.Hero.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+
+type=video
+name=Night School (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NSMAaBPSbWv7sGmF8oLGMNb8Qm.jpg
+date=2018-12-22
+URL=https://uptobox.com/7i81h147jdlz
+#https://fruithosts.net/embed/dcoctclclrpcldfo/GHPNICHSCHOOLEXENDED80_Ganol_si_mkv_mp4
+#https://oload.fun/embed/ZuTk2quWjeI/GHPNICHSCHOOLEXENDED80.Ganol.si.mkv
+#https://openload.co/f/FVIsrBmKzjA/Night_School_%282018%291080p.BR.Ganool.mkv.mp4
+#https://openload.co/f/QUD-Nial09I/Night.School.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/dcfty9LdeFk/Night_School_2018_1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/ihIb1uy6RQE/Night.School.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/7PBX4T1L4pw/Night_School_2018_1080p_TC_SeeHD.mkv.mp4
+#https://openload.co/f/rdeQMat_PxU/Night_School_2018_720p_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/vmWxHB1gsaI/Night_School_2018_720p_TS-1XBET.mp4
 
 type=video
 name=Bad Times at the El Royale (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
@@ -1441,6 +1460,7 @@ URL=https://uptobox.com/aekcvsxfsu0k
 #https://oload.fun/embed/npzDtLNWr4I/GHPTHEMISEDUCATIONCAMREN80.Ganol.si.mkv
 #https://openload.co/f/KODuqJCOMW8/The_Miseducation_of_Cameron_Post_%282018%291080p.BR.Ganool.mkv.mp4
 #https://openload.co/f/YvnD6-juaLs/The.Miseducation.of.Cameron.Post.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/BJAZMKJBkvY/The.Miseducation.Of.Cameron.Post.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/R1iFbhzjl5M/The.Miseducation.of.Cameron.Post.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 #https://openload.co/f/p1qEhhhRif0/The_Miseducation_of_Cameron_Post_720pHD_SeeHD.mkv.mp4
 
@@ -3191,6 +3211,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/urH9H50gKbUK8U6qTVd89SLQPj
 date=2018-09-18
 URL=https://openload.co/f/zQJLDjBNuzA/Fahrenheit.451.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/PhJdHIglkyo/Fahrenheit.451.2018.1080p.BR.mp4
+#https://openload.co/f/QVj0F68c6Qk/Fahrenheit.451.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/JtgvwBXwTuQ/Fahrenheit.451.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/MVBl4_HYWwM/Fahrenheit_451_%282018%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
 #https://openload.co/f/xR12nCCa3aI/Fahrenheit.451.2018.720p.WEB-DL.X264.AC3-EVO_SeeHD.mkv.mp4
@@ -8187,6 +8208,7 @@ name=Mortal Engines (2018) ENG NEW_HDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg
 date=2018-12-07
 URL=https://openload.co/f/yt4IB4owQQQ/Mortal_Engines_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/loctyThrog4/Mortal.Engines.2018.CAM.X264.LLG.mp4
 #https://openload.co/f/jfh2kDhtXNI/Mortal_Engines_2018_720p_HDCAM-1XBET.mp4
 type=video
 name=Mortal Engines (2018) THCAM
@@ -11248,6 +11270,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNkDYKmrVem1J0aAfCnQlJOCKn
 date=2018-12-20
 URL=https://openload.co/f/Higxs4-SxSw/Halloween.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/4jsB35O1sGg/Halloween.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/mg8ks0kjq0s/Halloween.2018.HDRip.XviD.AC3.LLG.mp4
 #https://openload.co/f/CxuEuCNcimM/Halloween.2018.HC.1080p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/4YzDS_eeJSo/Halloween.2018.HC.1080p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/dpCxDuf-SmI/Halloween_2018_HC_1080p_HDRip_X264_AC3-EVO.mp4
@@ -11402,6 +11425,7 @@ URL=https://uptobox.com/b0thzo99h0h2
 #https://oload.fun/embed/vOAeDBuRox8/GHPAXL80.Ganol.si.mkv
 #https://openload.co/f/K7Gqpl0hyiU/A-X-L_%282018%291080p.BR.Ganool.mkv.mp4
 #https://openload.co/f/7n8CMmX6YyE/a.x.l.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/QjK2a-eXFiw/A-X-L.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/PmYk_fesKMw/A-X-L.2018.1080p.NF.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 #https://openload.co/f/Fz_xPEw8Wm0/A-X-L.2018.720p.NF.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 #https://openload.co/f/vHlB1P-_1tU/A.X.L1080pHDCAM_SeeHD.mkv.mp4
@@ -13420,7 +13444,11 @@ URL=
 
 
 
-
+type=video
+name=Smallfoot (2018) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR] | TMDB-66
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nKoB6wMVXfsYgRZK5lHZ5VMQ6J.jpg
+date=2018-12-22
+URL=https://openload.co/f/RNdfnYjI0MY/Smallfoot.2018.3D.1080p.BluRay.x264-PSYCHD.mkv.mp4
 
 type=video
 name=Young Guns II (1990) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
