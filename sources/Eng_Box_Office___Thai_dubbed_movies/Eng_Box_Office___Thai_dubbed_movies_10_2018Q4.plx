@@ -35,8 +35,9 @@ URL=script.module.youtube.dl
 
 type=video
 name=
-thumb=https://3.bp.blogspot.com/-11CnXOTA2fs/WdLY9XgERpI/AAAAAAAAAKw/t6fFnXDGrCU-Ei6DBVr5XOJHGY74P9moQCLcBGAs/s320/081.png
-URL=http://moneychannel-xmvplu.cdn.byteark.com/live/playlist_720p/index.m3u8
+thumb=https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png
+date=2018-11-26
+URL=http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)?start=LIVE&end=END
 
 type=video
 name=
@@ -68,11 +69,7 @@ thumb=http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg
 date=2018-07-13
 URL=http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
 
-type=video
-name=
-thumb=https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png
-date=2018-11-26
-URL=http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)?start=LIVE&end=END
+
 
 
 
@@ -122,14 +119,7 @@ URL=
 
 
 
-type=video
-name=Bumblebee (2018) ENG NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
-date=2018-12-17
-URL=https://openload.co/f/sP15gNQ2QtQ/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD.mp4
-#https://openload.co/f/bXbPDliWIww/Bumblebee.2018.CAM.X264-MrTaco.mkv.mp4
-#https://openload.co/f/pzUifM0ZNTY/Bumblebee_2018_720p_HDCAM_ENG_SUB_ORCA88_SeeHD.mp4
-#https://openload.co/f/sFhmjyX2ynM/Bumblebee_2018_720p_HDCAM_ENG_SUB-ORCA88_SeeHD.mp4
+
 
 type=video
 name=Spider-Man: Into the Spider-Verse (2018) ENG 720p_PROPER_HDCAM-ORCA88_SeeHD
@@ -200,10 +190,12 @@ URL=https://openload.co/f/mne9LXmE8II/Bohemian_Rhapsody_2018_720p_HD-TS_X264-Ara
 #https://openload.co/f/QCRboGzcoRY/Bohemian_Rhapsody_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
 type=video
-name=Replicas (2018) ENG HDCAM.NEWSOURCE.x264-PHOENiX
+name=Replicas (2018) ENG WEB-DL.1080P.X264.AAC.CHS_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUG8gxJTcXXdDrbdlmDAIJMFghO.jpg
-date=2018-11-04
-URL=https://openload.co/f/hAjtPqsFoDQ/Replicas.2018.HDCAM.NEWSOURCE.x264-PHOENiX.mkv.mp4
+date=2018-12-23
+URL=https://openload.co/f/6wTfS25t1z0/Replicas.2018.WEB-DL.1080P.X264.AAC.CHS_SeeHD.mp4
+#https://openload.co/f/BrizeTT58VE/Replicas.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/hAjtPqsFoDQ/Replicas.2018.HDCAM.NEWSOURCE.x264-PHOENiX.mkv.mp4
 #https://openload.co/f/_lHIqerPKeY/Replicas_2018_720p_HDCAM_ENG-1XBET_SeeHD.mp4
 #https://openload.co/f/ouVmWbgJ1lM/Replicas_2018_720p_HDCAM_ENG-1XBET.mp4
 
@@ -1365,7 +1357,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-22
+date=2018-12-23
 URL=
 
 
@@ -1373,9 +1365,20 @@ URL=
 
 
 
+type=video
+name=The Wild Pear Tree (2018) [COLOR=FF00FF00]TUR BR 1080p[/COLOR] | TMDB-79
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QNUj1e6MdyuRKxWg4v2riG97In.jpg
+date=2018-12-23
+URL=https://uptobox.com/ud7dlh106oqj
+#https://fruithosts.net/embed/otbqbdraokanfodm/AHLATAGACI80_Ganol_si_mkv
+#https://openload.co/f/ZI-F5ktfVhU/The_Wild_Pear_Tree_%282018%29_BluRay_720p_x264-XpoZ.mkv.mp4
 
-
-
+type=video
+name=Yardie (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-80
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/93AqfYuShkDRJgdTb1FyDF3sEhe.jpg
+date=2018-12-23
+URL=https://openload.co/f/W1KiygydY-o/Yardie.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/8yzEK3q2OJ8/Yardie.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
 name=Sgt. Stubby: An American Hero (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
@@ -1387,6 +1390,7 @@ URL=https://uptobox.com/swskrip5iaql
 #https://openload.co/f/aB6QNGW1MIs/Sgt._Stubby%3A_An_American_Hero_%282018%291080p.BR.Ganool.mkv.mp4
 #https://openload.co/f/T4J5jM9-6HU/Sgt.Stubby.An.American.Hero.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/kJN8byB_Wik/Sgt.Stubby.An.American.Hero.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/CMql_LxZyVg/Sgt..Stubby.An.American.Hero.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Night School (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
@@ -1412,6 +1416,7 @@ URL=https://uptobox.com/4tkr5lbnblk7
 #https://oload.fun/embed/YnYaztgb0fI/GHPBADTIMEAATELROYALE80.Ganol.si.mkv
 #https://openload.co/f/dAdtBrqh9GI/Bad_Times_at_the_El_Royale_%282018%291080p.BR.Ganool.mkv.mp4
 #https://openload.co/f/sOnmcV55AJM/Bad_Times_at_the_El_Royale_%282018%291080p.BR.Ganool.mkv   MKV1.8GB
+#https://openload.co/f/R82jVmSeSCg/Bad.Times.At.The.El.Royale.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/v6frXEL-WUc/Bad.Times.At.The.El.Royale.2018.720p.BRRip.x264.MkvCage.mkv.mp4
 #https://openload.co/f/Nij8ISMW9M0/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 #https://openload.co/f/s_HTF-gUpZs/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
@@ -1543,6 +1548,8 @@ name=Black '47 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZiu9RIcMeQLUaDVqQffQTl6bhy.jpg
 date=2018-12-14
 URL=https://openload.co/f/ec1fNWlW43s/Black.47.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/ggRd_UBQ6s0/Black.47.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/6iNFFo0GnUI/Black.47.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/lMfGDswF9fA/Black.47.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
 
 type=video
@@ -1705,26 +1712,7 @@ date=2018-12-10
 URL=https://openload.co/f/rI87RelgMk8/Dynamite.Graffiti.2018.JAPANESE.1080p.BluRay.H264.AAC-VXT.mp4
 #https://openload.co/f/8_1xK--30ik/Dynamite.Graffiti.2018.JAPANESE.1080p.BluRay.H264.AAC-VXT.mp4
 
-type=video
-name=A Simple Favor (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIYsjQM0piKc0ibPBCTWv3sqshj.jpg
-date=2018-12-11
-URL=https://uptobox.com/b5i94hfbj29g
-#https://fruithosts.net/embed/efdfbkcrrftlbdqo/GHPASIMPLEFAVOR80_Ganol_si_mkv
-#https://oload.fun/embed/wgLi64ohHjc/GHPASIMPLEFAVOR80.Ganol.si.mkv
-#https://openload.co/f/MeCbgMtdQnk/A_Simple_Favor_%282018%291080p_BluRay_X264-DEFLATE.Ganool.mkv.mp4
-#https://openload.co/f/-Wv6hFe1HQY/A.Simple.Favor.2018.1080p.BluRay.X264-DEFLATE.mkv.mp4
-#https://openload.co/f/WE5FUyIv82c/A.Simple.Favor.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/82wTYwwDkkU/A.Simple.Favor.2018.PROPER.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/rEKk0HxSzJE/A.Simple.Favor.2018.1080p.BluRay.X264-DEFLATE.mkv.mp4
-#https://openload.co/f/1Qh5F1RJIYE/A.Simple.Favor.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/MRe8hXS-Qg4/A_Simple_Favor.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/-sftEyhGMfE/A_Simple_Favor.2018.DVDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/xsHGLKOMjkI/A_Simple_Favor_2018_NEW_720p_TS-1XBET_SeeHD.mp4
-#https://openload.co/f/M6sBfNsr2Aw/A.Simple.Favor.2018.NOLOGO.720p.HDCAM.1XBET.mp4
-#https://openload.co/f/jPbnk4LGxvg/A.Simple.Favor.2018.720p.HDCAM.1XBET_SeeHD.mp4
-#https://openload.co/f/-mBMR4b7itM/A.Simple.Favor.2018.720p.HDCAM.x264-1XBET.mp4
-#https://openload.co/f/Gfi7xy3Yt6A/A.Simple.Favor.2018.NOLOGO.720p.HDCAM.mp4
+
 
 type=video
 name=Everybody Knows (2018) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] | TMDB-68
@@ -8083,11 +8071,7 @@ URL=https://www.blazefile.co/embed-1l6wybupclmh.html
 
 
 
-type=video
-name=The Wild Pear Tree (2018) [COLOR=FF00FF00]TUR BR 720p[/COLOR] | TMDB-79
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QNUj1e6MdyuRKxWg4v2riG97In.jpg
-date=2018-12-12
-URL=https://openload.co/f/ZI-F5ktfVhU/The_Wild_Pear_Tree_%282018%29_BluRay_720p_x264-XpoZ.mkv.mp4
+
 
 
 
@@ -8185,6 +8169,24 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+
+
+
+type=video
+name=Bumblebee (2018) ENG NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
+date=2018-12-17
+URL=https://openload.co/f/sP15gNQ2QtQ/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD.mp4
+#https://openload.co/f/bXbPDliWIww/Bumblebee.2018.CAM.X264-MrTaco.mkv.mp4
+#https://openload.co/f/pzUifM0ZNTY/Bumblebee_2018_720p_HDCAM_ENG_SUB_ORCA88_SeeHD.mp4
+#https://openload.co/f/sFhmjyX2ynM/Bumblebee_2018_720p_HDCAM_ENG_SUB-ORCA88_SeeHD.mp4
+type=video
+name=Bumblebee (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
+date=2018-12-23
+URL=https://openload.co/f/T5rvBo038Xs/Bumblebee_%282018%29%E0%B8%9A%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9A%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -8520,11 +8522,33 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 type=video
 name=
 thumb=
-date=2018-12-16
+date=2018-12-23
 URL=
 
 
 
+
+
+
+
+
+type=video
+name=Bird Box (2018) ENG NF.1080p.WEB-DL.H264.AC3-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg
+date=2018-12-23
+URL=https://openload.co/f/v5d9nOgbFS0/Bird.Box.2018.NF.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+type=video
+name=Bird Box (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg
+date=2018-12-23
+URL=https://openload.co/f/0sTUzGpHKIU/Bird_Box_%282018%29%E0%B8%A1%E0%B8%AD%E0%B8%87_%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Nothing to Hide (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEYbEDrgKOtGVyO2c8R4zwXUVR0.jpg
+date=2018-12-23
+URL=https://openload.co/f/nRPWnFpsWro/Nothing_to_Hide_%282018%29%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -11424,6 +11448,7 @@ URL=https://uptobox.com/b0thzo99h0h2
 #https://fruithosts.net/embed/nledbtfoqftnkmpm/GHPAXL80_Ganol_si_mkv
 #https://oload.fun/embed/vOAeDBuRox8/GHPAXL80.Ganol.si.mkv
 #https://openload.co/f/K7Gqpl0hyiU/A-X-L_%282018%291080p.BR.Ganool.mkv.mp4
+#https://openload.co/f/H_f8LUyxD7U/A.X.L.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/7n8CMmX6YyE/a.x.l.2018.1080p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/QjK2a-eXFiw/A-X-L.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/PmYk_fesKMw/A-X-L.2018.1080p.NF.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
@@ -11940,14 +11965,14 @@ type=video
 name=
 thumb=
 date=2017-09-14
-URL=https://lh3.googleusercontent.com/jHnV-4-2E5pp1s24awJKmSyV5SKFIUDuwNukotp0BLPPMNHIPi2jfZS9x8Z28WJjaGwxTb9jLmY=m22
+URL=
 		
 
 type=video
 name=
 thumb=
 date=2017-09-17
-URL=http://bjdobr14.s.llnwi.net/v1/3979/T11/13/Murder%20on%20the%20Orient%20Express%201974%20Watch%20Online%20_%238211%3B%20Watch%20Movies%20for%20Free%20_%238211%3B%20Seehd.ws.MP4
+URL=
 			
 		
 
@@ -11961,7 +11986,7 @@ type=video
 name=
 thumb=
 date=2018-07-24
-URL=https://lh3.googleusercontent.com/-VUl50EmbMh8l_SgPGhnMH9ycFHWuxzWEUYRFjB9moiMLxlshPbpYeg5a0B_yHFgJU9XmANFzcI=m22
+URL=
 
 
 
@@ -11983,6 +12008,38 @@ URL=
 
 
 
+
+
+
+
+
+
+
+type=video
+name=A Simple Favor (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIYsjQM0piKc0ibPBCTWv3sqshj.jpg
+date=2018-12-11
+URL=https://uptobox.com/b5i94hfbj29g
+#https://fruithosts.net/embed/efdfbkcrrftlbdqo/GHPASIMPLEFAVOR80_Ganol_si_mkv
+#https://oload.fun/embed/wgLi64ohHjc/GHPASIMPLEFAVOR80.Ganol.si.mkv
+#https://openload.co/f/MeCbgMtdQnk/A_Simple_Favor_%282018%291080p_BluRay_X264-DEFLATE.Ganool.mkv.mp4
+#https://openload.co/f/-Wv6hFe1HQY/A.Simple.Favor.2018.1080p.BluRay.X264-DEFLATE.mkv.mp4
+#https://openload.co/f/WE5FUyIv82c/A.Simple.Favor.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/82wTYwwDkkU/A.Simple.Favor.2018.PROPER.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/rEKk0HxSzJE/A.Simple.Favor.2018.1080p.BluRay.X264-DEFLATE.mkv.mp4
+#https://openload.co/f/1Qh5F1RJIYE/A.Simple.Favor.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/MRe8hXS-Qg4/A_Simple_Favor.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/-sftEyhGMfE/A_Simple_Favor.2018.DVDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/xsHGLKOMjkI/A_Simple_Favor_2018_NEW_720p_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/M6sBfNsr2Aw/A.Simple.Favor.2018.NOLOGO.720p.HDCAM.1XBET.mp4
+#https://openload.co/f/jPbnk4LGxvg/A.Simple.Favor.2018.720p.HDCAM.1XBET_SeeHD.mp4
+#https://openload.co/f/-mBMR4b7itM/A.Simple.Favor.2018.720p.HDCAM.x264-1XBET.mp4
+#https://openload.co/f/Gfi7xy3Yt6A/A.Simple.Favor.2018.NOLOGO.720p.HDCAM.mp4
+type=video
+name=A Simple Favor (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIYsjQM0piKc0ibPBCTWv3sqshj.jpg
+date=2018-12-23
+URL=https://openload.co/f/lGH1Xrw7IPo/A_Simple_Favor_%282018%29%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AB%E0%B8%B2%E0%B8%A2_%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%B2.mp4
 
 
 type=video
@@ -13434,7 +13491,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-10
+date=2018-12-23
 URL=
 
 
@@ -13443,6 +13500,13 @@ URL=
 
 
 
+
+
+type=video
+name=Abattoir (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-45
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5cREO9NNFYg5OmTErWsghYQF9m.jpg
+date=2018-12-23
+URL=https://openload.co/f/tAYKZJwJo3U/Abattoir.2016.1080p.BR_SeeHD.mp4
 
 type=video
 name=Smallfoot (2018) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR] | TMDB-66

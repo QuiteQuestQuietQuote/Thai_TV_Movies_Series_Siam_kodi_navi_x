@@ -40,10 +40,12 @@ http://live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist.m3u8
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1151192974.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25
 http://gmmservice.radical-enlighten.com/gmm/smil:gmm25.smil/playlist.m3u8
-#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch104.gif",one1
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch104.gif",one1_seesantv
 http://live.seesantv.com/live/chone1/playlist.m3u8
-#EXTINF:-1 group-title="Free_TV" tvg-logo="http://www.onlinethailand.net/tv_online/images/jkn.jpg",JKN_SD
+#EXTINF:-1 group-title="Free_TV" tvg-logo="http://www.onlinethailand.net/tv_online/images/jkn.jpg",JKN_SD_seesantv
 http://live.seesantv.com/live/chjkn/playlist.m3u8
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_seesantv
+http://live.seesantv.com/live/chgmmchannel2/playlist.m3u8
 
 
 
@@ -2497,10 +2499,6 @@ http://134.19.150.42:81/udp/239.195.6.33:1234
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv__a00l
 http://86.57.182.131:8905/play/a00l
 
-#EXTINF:-1  tvg-logo="http://hochu.tv/images/dusk-tv.png",DUSK
-http://horstiptv.fantasyleague.cc:25461/urjqrxef/wd38WeY0e8/2632
-#EXTINF:-1,Lesbian
-http://gptz.xyz:8080/tayfun/06102018/12167
 
 #EXTINF:-1,GONG_movie_playmedia
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
