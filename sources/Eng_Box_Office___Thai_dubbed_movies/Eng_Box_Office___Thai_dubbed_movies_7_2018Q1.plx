@@ -515,6 +515,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSLd5GYGsiGgzDPKTwQh7wamO8
 date=2018-02-18
 URL=https://www.blazefile.co/embed-njol5nxfkv8p.html
 #https://uptobox.com/0vyz3l9kacl2
+#https://openload.co/f/-0GtRkbICj8/Thor.Ragnarok.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/KPCwtXXMX6I/Thor.Ragnarok.2017.1080p.BluRay.x264-%5BYTSbb%5D.mp4
 #https://openload.co/f/JgTPR69wkL8/Thor.Ragnarok.2017.1080p.BluRay_SeeHD.mp4
 #https://openload.co/f/FZ3mw-urIjo/Thor.Ragnarok.1080p.WEB-DL_SeeHD.mkv

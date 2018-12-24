@@ -111,7 +111,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-21
+date=2018-12-24
 URL=
 
 
@@ -119,7 +119,12 @@ URL=
 
 
 
-
+type=video
+name=Mary Poppins Returns (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg
+date=2018-12-24
+URL=https://openload.co/f/gtcm34DbfVE/Mary_Poppins_Returns_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/veQ8Wolexlw/Mary_Poppins_Returns_2018_720p_HDCAM-1XBET.mp4
 
 type=video
 name=Spider-Man: Into the Spider-Verse (2018) ENG 720p_PROPER_HDCAM-ORCA88_SeeHD
@@ -1357,13 +1362,29 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-23
+date=2018-12-24
 URL=
 
 
 
 
 
+
+
+
+
+type=video
+name=The Pact (2018) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] | TMDB-53
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpcIEW8fcmuPzJQfFr4X3PtWVWs.jpg
+date=2018-12-24
+URL=https://openload.co/f/FtjncuqIMPg/the.pact.2018.1080p.bluray.x264-bipolar.mkv.mp4
+
+type=video
+name=Golden Job (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-73
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcntxq7gOg96fe56FJf9s3Bvv96.jpg
+date=2018-12-24
+URL=https://openload.co/f/D5pTAQsvDCU/Golden.Job.2018.CHINESE.1080p.BluRay.H264.AAC-VXT_SeeHD.mp4
+#https://openload.co/f/sILjakpq3WE/Golden.Job.2018.CHINESE.1080p.BluRay.H264.AAC-VXT.mkv.mp4
 
 type=video
 name=The Wild Pear Tree (2018) [COLOR=FF00FF00]TUR BR 1080p[/COLOR] | TMDB-79
@@ -1378,6 +1399,8 @@ name=Yardie (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-80
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/93AqfYuShkDRJgdTb1FyDF3sEhe.jpg
 date=2018-12-23
 URL=https://openload.co/f/W1KiygydY-o/Yardie.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/4u1NuNhyomc/Yardie.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/AhIAEG_--_M/Yardie.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/8yzEK3q2OJ8/Yardie.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
@@ -1400,6 +1423,7 @@ URL=https://uptobox.com/7i81h147jdlz
 #https://fruithosts.net/embed/dcoctclclrpcldfo/GHPNICHSCHOOLEXENDED80_Ganol_si_mkv_mp4
 #https://oload.fun/embed/ZuTk2quWjeI/GHPNICHSCHOOLEXENDED80.Ganol.si.mkv
 #https://openload.co/f/FVIsrBmKzjA/Night_School_%282018%291080p.BR.Ganool.mkv.mp4
+#https://openload.co/f/-GCtzM-oNeA/Night.School.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/QUD-Nial09I/Night.School.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/dcfty9LdeFk/Night_School_2018_1080pHD_SeeHD.mkv.mp4
 #https://openload.co/f/ihIb1uy6RQE/Night.School.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
@@ -1416,6 +1440,7 @@ URL=https://uptobox.com/4tkr5lbnblk7
 #https://oload.fun/embed/YnYaztgb0fI/GHPBADTIMEAATELROYALE80.Ganol.si.mkv
 #https://openload.co/f/dAdtBrqh9GI/Bad_Times_at_the_El_Royale_%282018%291080p.BR.Ganool.mkv.mp4
 #https://openload.co/f/sOnmcV55AJM/Bad_Times_at_the_El_Royale_%282018%291080p.BR.Ganool.mkv   MKV1.8GB
+#https://openload.co/f/bXrSTrPU-YQ/Bad.Times.At.The.El.Royale.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/R82jVmSeSCg/Bad.Times.At.The.El.Royale.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/v6frXEL-WUc/Bad.Times.At.The.El.Royale.2018.720p.BRRip.x264.MkvCage.mkv.mp4
 #https://openload.co/f/Nij8ISMW9M0/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
@@ -1464,6 +1489,7 @@ URL=https://uptobox.com/aekcvsxfsu0k
 #https://fruithosts.net/embed/nmtaalopspfapaab/GHPTHEMISEDUCATIONCAMREN80_Ganol_si_mkv
 #https://oload.fun/embed/npzDtLNWr4I/GHPTHEMISEDUCATIONCAMREN80.Ganol.si.mkv
 #https://openload.co/f/KODuqJCOMW8/The_Miseducation_of_Cameron_Post_%282018%291080p.BR.Ganool.mkv.mp4
+#https://openload.co/f/reQIBJyn9D8/The.Miseducation.of.Cameron.Post.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/YvnD6-juaLs/The.Miseducation.of.Cameron.Post.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/BJAZMKJBkvY/The.Miseducation.Of.Cameron.Post.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/R1iFbhzjl5M/The.Miseducation.of.Cameron.Post.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
@@ -11449,6 +11475,7 @@ URL=https://uptobox.com/b0thzo99h0h2
 #https://oload.fun/embed/vOAeDBuRox8/GHPAXL80.Ganol.si.mkv
 #https://openload.co/f/K7Gqpl0hyiU/A-X-L_%282018%291080p.BR.Ganool.mkv.mp4
 #https://openload.co/f/H_f8LUyxD7U/A.X.L.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/3b0Dc6DHxeU/A.X.L.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/7n8CMmX6YyE/a.x.l.2018.1080p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/QjK2a-eXFiw/A-X-L.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/PmYk_fesKMw/A-X-L.2018.1080p.NF.WEB-DL.DD5.1.H264-CMRG.mkv.mp4

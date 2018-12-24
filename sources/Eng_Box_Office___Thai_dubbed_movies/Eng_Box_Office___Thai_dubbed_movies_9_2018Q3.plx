@@ -815,7 +815,11 @@ URL=https://openload.co/f/ecwU13OBafM/Beirut_%282018%29%E0%B9%80%E0%B8%9A%E0%B8%
 
 
 
-
+type=video
+name=My Blind Brother (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMlgKXJr7Y2UI2E3Nt3AEunchFH.jpg
+date=2018-12-24
+URL=https://openload.co/f/JKUVQuJL5Pc/My.Blind.Brother.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 type=video
 name=My Blind Brother (2016) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMlgKXJr7Y2UI2E3Nt3AEunchFH.jpg
@@ -1787,6 +1791,8 @@ URL=https://uptobox.com/jaxnij699sah
 #https://openload.co/f/F4_xwVI-pOA/Captain_America%3A_Civil_War_%282016%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
 #https://openload.co/embed/cmobkwtgPPI/GHPCAPTAINAMRICACIVILWAR80.Ganol.st.mkv.mp4
 #https://www.rapidvideo.com/e/FUWPY0D0FE
+#https://openload.co/f/OtLg4S1d64Y/Captain.America.Civil.War.2016.1080p.BR_SeeHD.mp4
+#https://openload.co/f/pLlO8lVZATc/Captain.America.Civil.War.2016.1080p.BR_SeeHD.mp4
 
 type=video
 name=Guardians of the Galaxy (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]

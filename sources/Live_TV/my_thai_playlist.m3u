@@ -2499,6 +2499,9 @@ http://134.19.150.42:81/udp/239.195.6.33:1234
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv__a00l
 http://86.57.182.131:8905/play/a00l
 
+#EXTINF:-1,lesbian_rtsp
+rtsp://ovh8.firestormmedia.tv:1935/ppv/passionxxx?channelID=2803&tablet=1
+
 
 #EXTINF:-1,GONG_movie_playmedia
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
