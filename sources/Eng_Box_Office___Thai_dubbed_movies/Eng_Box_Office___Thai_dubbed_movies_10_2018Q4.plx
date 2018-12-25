@@ -77,9 +77,9 @@ URL=http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/
 
 type=video
 name=
-thumb=
+thumb=https://image.tmdb.org/t/p/w185//gpcIEW8fcmuPzJQfFr4X3PtWVWs.jpg
 date=2018-12-04
-URL=
+URL=https://ganol.si/source_drive_private/index.php?ids=10371&extpass=L9ZD
 
 type=video
 name=
@@ -120,10 +120,11 @@ URL=
 
 
 type=video
-name=Mary Poppins Returns (2018) ENG 720p_HDCAM-1XBET_SeeHD
+name=Mary Poppins Returns (2018) ENG NEW_720p_HDCAM_V2-1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg
-date=2018-12-24
-URL=https://openload.co/f/gtcm34DbfVE/Mary_Poppins_Returns_2018_720p_HDCAM-1XBET_SeeHD.mp4
+date=2018-12-25
+URL=https://openload.co/f/dlqF8ZzyS7k/Mary_Poppins_Returns_2018_NEW_720p_HDCAM_V2-1XBET_SeeHD.mp4
+#https://openload.co/f/gtcm34DbfVE/Mary_Poppins_Returns_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/veQ8Wolexlw/Mary_Poppins_Returns_2018_720p_HDCAM-1XBET.mp4
 
 type=video
@@ -1362,7 +1363,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-24
+date=2018-12-25
 URL=
 
 
@@ -1373,11 +1374,39 @@ URL=
 
 
 
+
+
+
+type=video
+name=The Secrets of Gravity: In the Footsteps of Albert Einstein (2016) [COLOR=FF00FF00]GER BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hOkZHQHSxHaoZ7pfqcUZQxePed.jpg
+date=2018-12-25
+URL=https://openload.co/f/U5nLlBPc52U/the.secrets.ofthe.footsteps.of.albert.einstein.2016.1080p.bluray.x264-rusted.mkv.mp4
+
+type=video
+name=Lukas (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-54
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7rFgyr7rujNYRex9oxzG26Zq6z.jpg
+date=2018-12-25
+URL=https://openload.co/f/7k0uk7A9hPU/Lukas.2018.1080p.BRRip.AC3.X264-CMRG.mkv.mp4
+#https://openload.co/f/l_2XFk81DQk/Lukas.2018.720p.BRRip.X264.AC3-EVO_SeeHD.mkv.mp4
+
+type=video
+name=The Dragon Unleashed (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-41
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/udcucoBdnRKifixMxY1zNaBE6xC.jpg
+date=2018-12-25
+URL=https://openload.co/f/Vu0VDebUzGw/the.dragon.unleashed.2019.1080p.bluray.x264-getit.mkv.mp4
+#https://openload.co/f/TtI4gTHe1nU/the.dragon.unleashed.2019.1080p.bluray.x264-getit.mkv   MKV5.5GB
+#https://openload.co/f/Tkxw6E8BBh8/the.dragon.unleashed.2019.1080p.bluray.x264-getit.mkv.mp4
+
 type=video
 name=The Pact (2018) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] | TMDB-53
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpcIEW8fcmuPzJQfFr4X3PtWVWs.jpg
-date=2018-12-24
-URL=https://openload.co/f/FtjncuqIMPg/the.pact.2018.1080p.bluray.x264-bipolar.mkv.mp4
+date=2018-12-25
+URL=https://uptobox.com/7whamert5x61
+#https://fruithosts.net/embed/lndnslelbcpaefek/THEPACT80_Ganol_si_mkv
+#https://oload.fun/embed/CEBF4T9WIe8/THEPACT80.Ganol.si.mkv
+#https://openload.co/f/8kbchCbeDs8/The_Pact_%282018%291080p.BR.Ganool.mkv.mp4
+#https://openload.co/f/FtjncuqIMPg/the.pact.2018.1080p.bluray.x264-bipolar.mkv.mp4
 
 type=video
 name=Golden Job (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-73
@@ -1397,8 +1426,11 @@ URL=https://uptobox.com/ud7dlh106oqj
 type=video
 name=Yardie (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-80
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/93AqfYuShkDRJgdTb1FyDF3sEhe.jpg
-date=2018-12-23
-URL=https://openload.co/f/W1KiygydY-o/Yardie.2018.1080p.BR_SeeHD.mp4
+date=2018-12-25
+URL=https://uptobox.com/ad7v08r115mh
+#https://fruithosts.net/embed/fsctmtrkfomtaprd/YARDIEBD72_Ganol_si_mkv
+#https://oload.fun/embed/pu0f4myItfo/YARDIEBD72.Ganol.si.mkv.mp4
+#https://openload.co/f/W1KiygydY-o/Yardie.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/4u1NuNhyomc/Yardie.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/AhIAEG_--_M/Yardie.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/8yzEK3q2OJ8/Yardie.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
@@ -1577,6 +1609,7 @@ URL=https://openload.co/f/ec1fNWlW43s/Black.47.2018.1080p.BluRay.H264.AAC-RARBG.
 #https://openload.co/f/ggRd_UBQ6s0/Black.47.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/6iNFFo0GnUI/Black.47.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://openload.co/f/lMfGDswF9fA/Black.47.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
+#https://openload.co/f/_UcWJ1nOlkw/Black.%2747.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=The Man from Mo'Wax (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-77
@@ -2355,22 +2388,7 @@ URL=https://uptobox.com/c0tvbfx68h1o
 #https://openload.co/embed/c7a2z00mnqE/PADMANBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/0f-llf6kduo/Padman_%282018%29720p_BluRay_x264-DTOne.Ganool.mkv.mp4
 
-type=video
-name=Blindspotting (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMQTd5g2NnYiS32Dcl75TqGSyrn.jpg
-date=2018-11-10
-URL=https://openload.co/f/Dlav9JE5d0o/Blindspotting.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/tqErmuBkIiQ/Blindspotting.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://uptobox.com/ag6gjm7gkzxg   720
-#https://www.rapidvideo.com/e/FX39L0PGUF   720
-#https://openload.co/embed/hQZ82gn_slM/BLINDSPOTTINGBD72.Ganol.st.mkv.mp4
-#https://openload.co/f/IdbGGNx-kSs/Blindspotting_%282018%29720p_BluRay_x264-GECKOS.Ganool.mkv.mp4
-#https://openload.co/f/ZwFpgwngKTU/Blindspotting.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/ujqsAe4JanQ/Blindspotting.2018.720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/ix3TYEcLll4/Blindspotting.2018.1080p.WEB-DL.READ.INFO.H264-CMRG.mkv.mp4
-#https://openload.co/f/mMVHfFdzJIs/Blindspotting.1080p.HD.CAMA_SeeHD.mkv.mp4
-#https://openload.co/f/FoA3E5P600A/Blindspotting.2018.720p.HDCAM.X264.24HD_SeeHD.mp4
-#https://openload.co/f/azKIM3efkXo/Blindspotting.2018.HDCAM.XviD-AVID.avi.mp4
+
 
 type=video
 name=Pope Francis: A Man of His Word (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -4321,19 +4339,7 @@ URL=https://openload.co/f/1JiXT-39aBA/Child.Eater.2016.1080p.BR_SeeHD.mp4
 #https://openload.co/embed/yRrmD1cP8b4/CHILDEATERBD72.Ganool.im.mkv.mp4
 #https://openload.co/f/XEr9vTlk0Xo/Child.Eater.2016.720p.BluRay.x264-GUACAMOLE.mkv.mp4
 
-type=video
-name=How to Talk to Girls at Parties (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O3C5ubC7dd1im89ISb6aGUR2AA.jpg
-date=2018-08-24
-URL=https://uptobox.com/rmrabzwmsfp1
-#https://www.rapidvideo.com/e/FUL2BY3KEY
-#https://openload.co/embed/4Ui-XzhX_iM/HOWTOTALKTOGIRSLPARTIES80.Ganool.si.mkv
-#https://openload.co/f/o0oNbL7Eswk/How.to.Talk.to.Girls.at.Parties.2017.1080p.BR_SeeHD.mp4
-#https://openload.co/f/RoeyWOJzibk/How.to.Talk.to.Girls.at.Parties.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://www.blazefile.co/embed-qwwq7jgoy13n.html   720
-#https://uptobox.com/w4fk8f58zljp   720
-#https://openload.co/embed/qlIC0JCYSLY/SHQHOWTOTALKEGIRLSATPARTIESBD72.Ganool.im.mkv.mp4
-#https://openload.co/f/6y69djPHF1c/How.to.Talk.to.Girls.at.Parties.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
+
 
 type=video
 name=The Layover (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7440,14 +7446,6 @@ URL=https://openload.co/f/GXVcA2IYGR8/tamako.love.story.2014.720p.bluray.x264-ha
 
 
 
-type=video
-name=Destiny: The Tale of Kamakura (2017) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/drKHW08lJ8TWneoAz97TesDmIgN.jpg
-date=2018-06-19
-URL=https://www.blazefile.co/embed-68nphjy36cwm.html
-#https://uptobox.com/w8srot13i81f
-#https://openload.co/embed/w2_JkgLYAds/Destiny.The.Tale.of.Kamakura.2017.BluRay.720p.900MB.Ganool.im.mkv
-#https://openload.co/f/8QhGct9U2PE/Destiny.The.Tale.of.Kamakura.2017.BluRay.720p.900MB.Ganool.mkv.mp4
 
 
 
@@ -8107,7 +8105,7 @@ URL=https://www.blazefile.co/embed-1l6wybupclmh.html
 type=video
 name=
 thumb=
-date=2018-12-12
+date=2018-12-25
 URL=
 
 type=video
@@ -8636,6 +8634,7 @@ URL=https://uptobox.com/optyhfq42x88
 #https://openload.co/f/DylNMXQIoUg/Smallfoot_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
 #https://openload.co/f/MPakReARDVQ/Smallfoot.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/5e29gM_yzfI/smallfoot.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/tK2aroc-d5s/Smallfoot.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/la0rWtHKMV4/Smallfoot.2018.720p.BluRay.x264.850MB-Pahe.in.mkv.mp4
 #https://openload.co/f/2UvhhRZPRgo/Smallfoot.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://openload.co/f/64O6MzqCBIo/Smallfoot.2018.DVDRip.XviD.AC3-EVO.avi.mp4
@@ -12028,7 +12027,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-10
+date=2018-12-25
 URL=
 
 
@@ -12040,6 +12039,70 @@ URL=
 
 
 
+
+type=video
+name=Destiny: The Tale of Kamakura (2017) [COLOR=FF00FF00]JAP BR 720p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/drKHW08lJ8TWneoAz97TesDmIgN.jpg
+date=2018-06-19
+URL=https://www.blazefile.co/embed-68nphjy36cwm.html
+#https://uptobox.com/w8srot13i81f
+#https://openload.co/embed/w2_JkgLYAds/Destiny.The.Tale.of.Kamakura.2017.BluRay.720p.900MB.Ganool.im.mkv
+#https://openload.co/f/8QhGct9U2PE/Destiny.The.Tale.of.Kamakura.2017.BluRay.720p.900MB.Ganool.mkv.mp4
+type=video
+name=Destiny: The Tale of Kamakura (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/drKHW08lJ8TWneoAz97TesDmIgN.jpg
+date=2018-12-25
+URL=https://openload.co/f/8UFzaM5o-og/Destiny%3A_The_Tale_of_Kamakura_%282017%29%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+
+
+type=video
+name=Blindspotting (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-77
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMQTd5g2NnYiS32Dcl75TqGSyrn.jpg
+date=2018-11-10
+URL=https://openload.co/f/Dlav9JE5d0o/Blindspotting.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/tqErmuBkIiQ/Blindspotting.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://uptobox.com/ag6gjm7gkzxg   720
+#https://www.rapidvideo.com/e/FX39L0PGUF   720
+#https://openload.co/embed/hQZ82gn_slM/BLINDSPOTTINGBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/IdbGGNx-kSs/Blindspotting_%282018%29720p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+#https://openload.co/f/ZwFpgwngKTU/Blindspotting.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/ujqsAe4JanQ/Blindspotting.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/ix3TYEcLll4/Blindspotting.2018.1080p.WEB-DL.READ.INFO.H264-CMRG.mkv.mp4
+#https://openload.co/f/mMVHfFdzJIs/Blindspotting.1080p.HD.CAMA_SeeHD.mkv.mp4
+#https://openload.co/f/FoA3E5P600A/Blindspotting.2018.720p.HDCAM.X264.24HD_SeeHD.mp4
+#https://openload.co/f/azKIM3efkXo/Blindspotting.2018.HDCAM.XviD-AVID.avi.mp4
+type=video
+name=Blindspotting (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMQTd5g2NnYiS32Dcl75TqGSyrn.jpg
+date=2018-12-25
+URL=https://openload.co/f/USqWppJlQFA/Blindspotting_%282018%29%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B5%E0%B9%88...%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%AB%E0%B8%99.mp4
+
+
+type=video
+name=Rolling to You (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h065db1br7f9VW0x0LkOVfdtZqG.jpg
+date=2018-12-25
+URL=https://openload.co/f/1yIml9AqUnU/Rolling_to_You_%282018%29%E0%B8%AB%E0%B8%A1%E0%B8%B8%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
+
+
+type=video
+name=How to Talk to Girls at Parties (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O3C5ubC7dd1im89ISb6aGUR2AA.jpg
+date=2018-08-24
+URL=https://uptobox.com/rmrabzwmsfp1
+#https://www.rapidvideo.com/e/FUL2BY3KEY
+#https://openload.co/embed/4Ui-XzhX_iM/HOWTOTALKTOGIRSLPARTIES80.Ganool.si.mkv
+#https://openload.co/f/o0oNbL7Eswk/How.to.Talk.to.Girls.at.Parties.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/RoeyWOJzibk/How.to.Talk.to.Girls.at.Parties.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://www.blazefile.co/embed-qwwq7jgoy13n.html   720
+#https://uptobox.com/w4fk8f58zljp   720
+#https://openload.co/embed/qlIC0JCYSLY/SHQHOWTOTALKEGIRLSATPARTIESBD72.Ganool.im.mkv.mp4
+#https://openload.co/f/6y69djPHF1c/How.to.Talk.to.Girls.at.Parties.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
+type=video
+name=How to Talk to Girls at Parties (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O3C5ubC7dd1im89ISb6aGUR2AA.jpg
+date=2018-12-25
+URL=https://openload.co/f/UrV-C3yzH1c/How_to_Talk_to_Girls_at_Parties_%282018%29%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 
 
 type=video
@@ -13518,7 +13581,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-23
+date=2018-12-25
 URL=
 
 
@@ -13527,7 +13590,11 @@ URL=
 
 
 
-
+type=video
+name=Pet Sematary (1989) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zUax4pjRgoPIJla9CQejqNJofB.jpg
+date=2018-12-25
+URL=https://openload.co/f/c6PZN5B1Mlc/Pet.Sematary.1989.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Abattoir (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-45
@@ -13540,6 +13607,7 @@ name=Smallfoot (2018) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR] | TMDB-66
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nKoB6wMVXfsYgRZK5lHZ5VMQ6J.jpg
 date=2018-12-22
 URL=https://openload.co/f/RNdfnYjI0MY/Smallfoot.2018.3D.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/91zHCPdJBlw/Smallfoot.2018.3D.HSBS.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Young Guns II (1990) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64

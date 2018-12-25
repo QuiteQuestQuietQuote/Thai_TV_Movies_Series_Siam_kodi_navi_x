@@ -1892,7 +1892,6 @@ http://193.233.186.76:81/udp/239.191.254.250:15285
 
 
 
-
 #EXTINF:-1,Chinese1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
 #EXTINF:-1,Chinese2
@@ -2163,6 +2162,8 @@ http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/17715.ts
 http://203.162.235.41:17817
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_ott-cdn
 http://ott-cdn.ucom.am/s65/index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News + info
+http://watch.goldtv.ca:25461/live/royyash97@gmail.com/52tuor7XS2/23953.m3u8
 
 
 #EXTINF:0,BBC_KOR
@@ -2397,6 +2398,8 @@ http://eu1.servers10.com:1935/8118/8118/playlist.m3u8
 http://stream.1music.hu/stream/1music.m3u8
 #EXTINF:-1,retrotvHQ1
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,melody
+http://watch.goldtv.ca:25461/live/royyash97@gmail.com/52tuor7XS2/23960.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/551035274344402946/ywxl9pq3_400x400.jpeg",100automoto
@@ -2472,6 +2475,12 @@ http://61.58.60.230:9000/live/257.m3u8
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/d2/37/1dd237c0-dc9f-43a2-a6f5-3b2e7f31e8ff/source/512x512bb.jpg",opensky_CHN
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Dorcel-TV.jpg",Dorcel TV HD
+http://193.200.164.146:8080/icCl8eGQvj/FYadD9qjNG/13562
+#EXTINF:-1, WAAYH
+http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/922/index.m3u8
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/passionxxx.png",PassionXXX_lesbian_rtsp
+rtsp://ovh8.firestormmedia.tv:1935/ppv/passionxxx?channelID=2803&tablet=1
 
 #EXTINF:-1,Ibiza TV3_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8
@@ -2499,8 +2508,7 @@ http://134.19.150.42:81/udp/239.195.6.33:1234
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv__a00l
 http://86.57.182.131:8905/play/a00l
 
-#EXTINF:-1,lesbian_rtsp
-rtsp://ovh8.firestormmedia.tv:1935/ppv/passionxxx?channelID=2803&tablet=1
+
 
 
 #EXTINF:-1,GONG_movie_playmedia
@@ -2535,7 +2543,6 @@ http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/
 http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_newschat_electric
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
-
 
 
 
