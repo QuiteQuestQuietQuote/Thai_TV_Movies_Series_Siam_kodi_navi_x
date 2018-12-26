@@ -77,26 +77,20 @@ URL=http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/
 
 type=video
 name=
-thumb=https://image.tmdb.org/t/p/w185//gpcIEW8fcmuPzJQfFr4X3PtWVWs.jpg
-date=2018-12-04
-URL=https://ganol.si/source_drive_private/index.php?ids=10371&extpass=L9ZD
-
-type=video
-name=get_file
 thumb=
 date=2018-12-04
-URL=https://www.vidbull.tv/get_file/1/f1515071ce945809ecb6d55e91d20fa093c4ae9b5a/3000/3916/3916.mp4
-
-type=video
-name=embed/3939
-thumb=
-date=2018-12-04
-URL=https://www.vidbull.tv/embed/3939
+URL=
 
 type=video
 name=
 thumb=
-date=2018-12-11
+date=2018-12-04
+URL=
+
+type=video
+name=
+thumb=
+date=2018-12-04
 URL=
 
 type=video
@@ -105,19 +99,41 @@ thumb=
 date=2018-12-11
 URL=
 
+type=video
+name=
+thumb=
+date=2018-12-11
+URL=
+
 
 
 
 type=video
 name=
 thumb=
-date=2018-12-24
+date=2018-12-26
 URL=
 
 
 
 
 
+
+
+type=video
+name=The Mule (2018) ENG 720p_HDCAM-1XBET
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0idiLMalKMj2pLsvqHrOM4LPdQ.jpg
+date=2018-12-26
+URL=https://openload.co/f/_TPWc-x0t6c/The_Mule_2018_720p_HDCAM-1XBET.mp4
+#https://openload.co/f/aR7o3-KksrM/The.Mule.2018.LQ.HDCAM.x264.AAC-WAVE.mp4
+#https://openload.co/f/OnvJxePzH3g/The_Mule.2018.HDCAM.INDOXXI.mp4
+
+type=video
+name=Amanda (2018) FRE HD-TS.HQMic.XviD-AVID
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/28hVypTbZNeVjjCCrJu2Pij5iJv.jpg
+date=2018-12-26
+URL=https://openload.co/f/bGWQkbwH9Eo/Amanda.2018.HD-TS.HQMic.XviD-AVID.avi.mp4
+#https://openload.co/f/-u39Qh5b7W4/Amanda.2018.HD-TS.HQMic.XviD-AVID.avi.mp4
 
 type=video
 name=Mary Poppins Returns (2018) ENG NEW_720p_HDCAM_V2-1XBET_SeeHD
@@ -1363,7 +1379,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-25
+date=2018-12-26
 URL=
 
 
@@ -1375,7 +1391,11 @@ URL=
 
 
 
-
+type=video
+name=22 Chaser (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-74
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufVCyUIfnoPgpKA578wADEDPTqc.jpg
+date=2018-12-26
+URL=https://openload.co/f/h1VSIAv65jo/22.Chaser.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
 
 type=video
 name=The Secrets of Gravity: In the Footsteps of Albert Einstein (2016) [COLOR=FF00FF00]GER BR 1080p[/COLOR] | TMDB-60
@@ -12027,7 +12047,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-25
+date=2018-12-26
 URL=
 
 
@@ -12037,7 +12057,11 @@ URL=
 
 
 
-
+type=video
+name=The Late Bloomer (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f31mIpTb4KWpjueeAcIx0CRewff.jpg
+date=2018-12-26
+URL=https://openload.co/f/AeOXt0fOim4/The_Late_Bloomer_%282016%29%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B0%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%88.mp4
 
 
 type=video
@@ -12081,8 +12105,9 @@ URL=https://openload.co/f/USqWppJlQFA/Blindspotting_%282018%29%E0%B8%97%E0%B8%B5
 type=video
 name=Rolling to You (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h065db1br7f9VW0x0LkOVfdtZqG.jpg
-date=2018-12-25
-URL=https://openload.co/f/1yIml9AqUnU/Rolling_to_You_%282018%29%E0%B8%AB%E0%B8%A1%E0%B8%B8%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
+date=2018-12-26
+URL=https://openload.co/f/bN6u9Vmrd48/Rolling_to_You_%282018%29%E0%B8%AB%E0%B8%A1%E0%B8%B8%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
+#https://openload.co/f/1yIml9AqUnU/Rolling_to_You_%282018%29%E0%B8%AB%E0%B8%A1%E0%B8%B8%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
 
 
 type=video
@@ -13015,8 +13040,9 @@ URL=https://openload.co/f/zKBMJ3p-y0M/Cold.Skin.2017.1080p.BluRay.H264.AAC-RARBG
 type=video
 name=Cold Skin (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/65qvQ13CoNxIYHvxGXWFtKc93sX.jpg
-date=2018-10-31
-URL=https://openload.co/f/yPF1nyMFdIs/Cold_Skin_%282017%29%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81_%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC.mp4
+date=2018-12-26
+URL=https://openload.co/f/MyF_4Jo4QEQ/Cold_Skin_%282017%29%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81_%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC.mp4
+#https://openload.co/f/yPF1nyMFdIs/Cold_Skin_%282017%29%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81_%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC.mp4
 
 
 type=video
