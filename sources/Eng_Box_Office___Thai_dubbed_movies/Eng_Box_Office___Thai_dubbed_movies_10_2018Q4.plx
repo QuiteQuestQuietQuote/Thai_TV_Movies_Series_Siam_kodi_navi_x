@@ -82,16 +82,16 @@ date=2018-12-04
 URL=https://ganol.si/source_drive_private/index.php?ids=10371&extpass=L9ZD
 
 type=video
-name=
+name=get_file
 thumb=
 date=2018-12-04
-URL=
+URL=https://www.vidbull.tv/get_file/1/f1515071ce945809ecb6d55e91d20fa093c4ae9b5a/3000/3916/3916.mp4
 
 type=video
-name=
+name=embed/3939
 thumb=
 date=2018-12-04
-URL=
+URL=https://www.vidbull.tv/embed/3939
 
 type=video
 name=

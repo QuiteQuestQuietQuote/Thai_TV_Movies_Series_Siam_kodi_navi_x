@@ -40,6 +40,7 @@ http://live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist.m3u8
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1151192974.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25
 http://gmmservice.radical-enlighten.com/gmm/smil:gmm25.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch104.gif",one1_seesantv
 http://live.seesantv.com/live/chone1/playlist.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="http://www.onlinethailand.net/tv_online/images/jkn.jpg",JKN_SD_seesantv
@@ -2475,12 +2476,7 @@ http://61.58.60.230:9000/live/257.m3u8
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/d2/37/1dd237c0-dc9f-43a2-a6f5-3b2e7f31e8ff/source/512x512bb.jpg",opensky_CHN
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Dorcel-TV.jpg",Dorcel TV HD
-http://193.200.164.146:8080/icCl8eGQvj/FYadD9qjNG/13562
-#EXTINF:-1, WAAYH
-http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/922/index.m3u8
-#EXTINF:-1  tvg-logo="http://hochu.tv/images/passionxxx.png",PassionXXX_lesbian_rtsp
-rtsp://ovh8.firestormmedia.tv:1935/ppv/passionxxx?channelID=2803&tablet=1
+
 
 #EXTINF:-1,Ibiza TV3_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8
@@ -2549,7 +2545,16 @@ http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
 
-
+#EXTINF:-1,101 BBC Lifestyle HD 
+http://195.88.144.86:8000/play/101 
+#EXTINF:-1,105 BBC Earth HD 
+http://195.88.144.86:8000/play/105 
+#EXTINF:-1,115 Nat Geo Wild HD 
+http://195.88.144.86:8000/play/115 
+#EXTINF:-1,117 Nat Geo People HD 
+http://195.88.144.86:8000/play/117 
+#EXTINF:-1,134 BBC Brit HD 
+http://195.88.144.86:8000/play/134 
 
 
 
