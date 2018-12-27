@@ -121,10 +121,12 @@ URL=
 
 
 type=video
-name=The Mule (2018) ENG 720p_HDCAM-1XBET
+name=The Mule (2018) ENG 720p_HDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0idiLMalKMj2pLsvqHrOM4LPdQ.jpg
-date=2018-12-26
-URL=https://openload.co/f/_TPWc-x0t6c/The_Mule_2018_720p_HDCAM-1XBET.mp4
+date=2018-12-27
+URL=https://openload.co/f/09_YdR1r3CI/The_Mule_2018_720p_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/dHgMT1-vHLY/The_Mule_2018_720p_HDCAM_SeeHD.mkv   MKV2.4GB
+#https://openload.co/f/_TPWc-x0t6c/The_Mule_2018_720p_HDCAM-1XBET.mp4
 #https://openload.co/f/aR7o3-KksrM/The.Mule.2018.LQ.HDCAM.x264.AAC-WAVE.mp4
 #https://openload.co/f/OnvJxePzH3g/The_Mule.2018.HDCAM.INDOXXI.mp4
 
@@ -152,10 +154,11 @@ URL=https://openload.co/f/v7GjU1HV47Q/Spider-Man_Into_the_Spider-Verse_2018_720p
 #https://openload.co/f/Acp3BMFlPyA/Spider-Man.Into.The.Spider.Versee.2018.CAM.X264-SuperSpy.mkv.mp4
 
 type=video
-name=Instant Family (2018) ENG 720p.HDTC.1XBET_SeeHD
+name=Instant Family (2018) ENG 720p_HDCAM_x264-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y1AlIP3SIOTje3ky9p68XhQmHU.jpg
-date=2018-12-11
-URL=https://openload.co/f/nWYsUdZz_Ag/Instant.Family.2018.720p.HDTC.1XBET_SeeHD.mp4
+date=2018-12-27
+URL=https://openload.co/f/37Nr9W06OQU/Instant_Family_2018_720p_HDCAM_x264-EVO_SeeHD.mp4
+#https://openload.co/f/nWYsUdZz_Ag/Instant.Family.2018.720p.HDTC.1XBET_SeeHD.mp4
 #https://openload.co/f/PyEQhmLYTPU/Instant.Family.2018.720p.HDTC.1XBET.mp4
 
 type=video
@@ -754,6 +757,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9IrT9Hanu1ptwMHRbxEvlN8Sb
 date=2017-11-16
 URL=https://openload.co/f/W2FwLqmgrmc/The.Elf.2017.WEB-DL.x264-RARBG.mp4
 #https://openload.co/f/Bt-K4PSJpNA/The_Elf_2017_720p_x264-StB.mkv.mp4
+
 
 
 
@@ -1395,7 +1399,11 @@ type=video
 name=22 Chaser (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-74
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufVCyUIfnoPgpKA578wADEDPTqc.jpg
 date=2018-12-26
-URL=https://openload.co/f/h1VSIAv65jo/22.Chaser.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
+URL=https://uptobox.com/713iah04ouij
+#https://oload.fun/embed/7loDI9VZ7gE/GHP22CHASER80.Ganol.si.mkv
+#https://openload.co/f/u8YyM7uNPSs/22_Chaser_%282018%291080.BR.Ganool.mkv.mp4
+#https://openload.co/f/kFjEGf-0IXM/22.Chaser.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/h1VSIAv65jo/22.Chaser.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
 
 type=video
 name=The Secrets of Gravity: In the Footsteps of Albert Einstein (2016) [COLOR=FF00FF00]GER BR 1080p[/COLOR] | TMDB-60
@@ -1475,6 +1483,7 @@ URL=https://uptobox.com/7i81h147jdlz
 #https://fruithosts.net/embed/dcoctclclrpcldfo/GHPNICHSCHOOLEXENDED80_Ganol_si_mkv_mp4
 #https://oload.fun/embed/ZuTk2quWjeI/GHPNICHSCHOOLEXENDED80.Ganol.si.mkv
 #https://openload.co/f/FVIsrBmKzjA/Night_School_%282018%291080p.BR.Ganool.mkv.mp4
+#https://openload.co/f/QFU6zkBU8M4/Night.School.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/-GCtzM-oNeA/Night.School.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/QUD-Nial09I/Night.School.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/dcfty9LdeFk/Night_School_2018_1080pHD_SeeHD.mkv.mp4
@@ -1947,6 +1956,7 @@ name=Bilal: A New Breed of Hero (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQFwkuUAYn112Q6RfISOgHx9Uiv.jpg
 date=2018-12-04
 URL=https://openload.co/f/6MrwiS2mWfs/Bilal.A.New.Breed.of.Hero.2015.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/nRTO8jiwsUo/Bilal.A.New.Breed.Of.Hero.2015.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/nDS-1gJ41hg/Bilal.A.New.Breed.of.Hero.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/PK0787aslLU/Bilal_A_New_Breed_of_Hero.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/p9r-XW2TNMg/Bilal.A.New.Breed.of.Hero.2018.720pHD_SeeHD.mkv.mp4
@@ -8221,8 +8231,10 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=Bumblebee (2018) ENG NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
-date=2018-12-17
-URL=https://openload.co/f/sP15gNQ2QtQ/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD.mp4
+date=2018-12-27
+URL=
+#https://openload.co/f/1iOQqwFhUjA/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_X264_SugarTits_SeeHD.mkv   MKV2.4GB
+#https://openload.co/f/sP15gNQ2QtQ/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD.mp4
 #https://openload.co/f/bXbPDliWIww/Bumblebee.2018.CAM.X264-MrTaco.mkv.mp4
 #https://openload.co/f/pzUifM0ZNTY/Bumblebee_2018_720p_HDCAM_ENG_SUB_ORCA88_SeeHD.mp4
 #https://openload.co/f/sFhmjyX2ynM/Bumblebee_2018_720p_HDCAM_ENG_SUB-ORCA88_SeeHD.mp4
@@ -12047,7 +12059,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-26
+date=2018-12-27
 URL=
 
 
@@ -12056,6 +12068,45 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Battle of Xiangjiang River (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/toa0lGSzWZAbT2TSCliwdMZxdR2.jpg
+date=2018-12-27
+URL=https://openload.co/f/SCS7WA6KR00/Battle_of_Xiangjiang_River_%282017%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+
+type=video
+name=Her Love Boils Bathwater (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdqjibJ1Nl21uSOSj7muvt6E08L.jpg
+date=2018-12-27
+URL=https://openload.co/f/ad-ZDiRU7s0/Her_Love_Boils_Bathwater_%282016%2960_%E0%B8%A7%E0%B8%B1%E0%B8%99_%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B9%84%E0%B8%9B.mp4
+
+type=video
+name= LEGEND OF MYSTERIOUS AGENTS (2016) TH
+thumb=https://www.nanamovies.com/wp-content/uploads/2018/12/Legend-of-Mysterious-Agents-2016.jpeg
+date=2018-12-27
+URL=https://openload.co/f/MFx9GCVg07c/LEGEND_OF_MYSTERIOUS_AGENTS_%282016%29%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A.mp4
+
+type=video
+name=Just a Breath Away (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OzWENKDOrJCeT2GTjWE8NOkbrZ.jpg
+date=2018-12-27
+URL=https://openload.co/f/8Ny5vIiZtXM/Just_a_Breath_Away_%282018%29%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%81%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9.mp4
 
 type=video
 name=The Late Bloomer (2016) TH

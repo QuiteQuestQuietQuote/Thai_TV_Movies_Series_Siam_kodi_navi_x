@@ -429,6 +429,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLBUCtMQGJclH36clliPLmljMy
 date=2018-05-03
 URL=https://www.blazefile.co/embed-uu50ocb3n9fm.html
 #https://uptobox.com/2o99oidl84c9
+#https://openload.co/f/AL-EV5OH8K0/Black.Panther.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/PWOgxTHj-Zo/Black.Panther.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/QzdnxUpbqkY/Black.Panther.2018.1080p.BluRay.x265.HEVC.6CH-MRN.mkv.mp4
 #https://openload.co/f/Wv0YJ8d2yZE/black.panther.2018.720p.bluray.x264-sparks.mkv.mp4
