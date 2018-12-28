@@ -1442,6 +1442,11 @@ URL=https://openload.co/f/w_Z5oSgLsvg/Paul%2C_Apostle_of_Christ_%282018%29.mp4
 
 
 type=video
+name=Dragon Age: Dawn of the Seeker (2012) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | tmdb-55
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ag9To3fACrxnml3IOsyZjqFj9Rz.jpg
+date=2018-12-28
+URL=https://openload.co/f/vZPmS5hzbc4/Dragon_Age_2012_1080p_BluRay_x264_PFa.mkv.mp4
+type=video
 name=Dragon Age: Dawn of the Seeker (2012) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ag9To3fACrxnml3IOsyZjqFj9Rz.jpg
 date=2018-06-14

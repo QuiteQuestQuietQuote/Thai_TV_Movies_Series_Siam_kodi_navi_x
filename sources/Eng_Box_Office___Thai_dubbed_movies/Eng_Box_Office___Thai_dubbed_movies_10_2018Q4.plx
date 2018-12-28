@@ -1410,6 +1410,7 @@ name=The Secrets of Gravity: In the Footsteps of Albert Einstein (2016) [COLOR=F
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hOkZHQHSxHaoZ7pfqcUZQxePed.jpg
 date=2018-12-25
 URL=https://openload.co/f/U5nLlBPc52U/the.secrets.ofthe.footsteps.of.albert.einstein.2016.1080p.bluray.x264-rusted.mkv.mp4
+#https://openload.co/f/MwC3jEQ161k/The.Secrets.Of.Gravity.In.The.Footsteps.Of.Albert.Einstein.2016.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Lukas (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-54
@@ -8232,7 +8233,7 @@ type=video
 name=Bumblebee (2018) ENG NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
 date=2018-12-27
-URL=
+URL=https://openload.co/f/zyG2hkrwzro/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_X264_SugarTits_SeeHD.mkv.mp4
 #https://openload.co/f/1iOQqwFhUjA/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_X264_SugarTits_SeeHD.mkv   MKV2.4GB
 #https://openload.co/f/sP15gNQ2QtQ/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD.mp4
 #https://openload.co/f/bXbPDliWIww/Bumblebee.2018.CAM.X264-MrTaco.mkv.mp4
@@ -9785,6 +9786,7 @@ URL=https://www.blazefile.co/embed-jid1zr33fy8w.html
 #https://openload.co/embed/q8iMXXSVQtI/GHPAWRINGLEINTIME80.Ganool.im.mkv.mp4
 #https://openload.co/f/J3HPXX-j0xc/A_Wrinkle_in_Time_%282018%291080p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
 #https://openload.co/f/gPGBNpFHuL0/A.Wrinkle.in.Time.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/wiVPACzANwY/A.Wrinkle.In.Time.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/bRO-mdo0BlI/A.Wrinkle.in.Time.2018.720p.BR_SeeHD.mp4
 #https://openload.co/f/8M3QJiEiLhY/A.Wrinkle.in.Time.2018.DVDRip.XviD.AC3-EVO.avi.mp4
 #https://openload.co/f/mmEc4IOPpxw/A_Wrinkle_in_Time_2018_NOLOGO_720p_HD-TS_X264_Mr-Hive.mp4
@@ -10210,6 +10212,7 @@ URL=https://www.blazefile.co/embed-55komgt61nwl.html
 #https://openload.co/f/MPj6vB_GCiE/annihilation.2018.720p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/Nouo8gei1PE/Annihilation.2018.720p.BluRay.x264.DD5.1-HDC.mkv.mp4
 #https://openload.co/f/_QYI_qQnPdE/Annihilation.2018.720p.BR_SeeHD.mp4
+#https://openload.co/f/3REBUt8_CoQ/Annihilation.2018.720p.BR_SeeHD.mp4
 #https://www.blazefile.co/embed-3pg9mrcygys7.html   720
 #http://uptobox.com/hriqql7zfdmx   720
 #https://openload.co/f/T6GBIFn2mDg/Annihilation_%282018%29720p_BluRay_x264_DD5.1-HDC.Ganool.im.mkv.mp4
@@ -11346,10 +11349,12 @@ URL=https://openload.co/f/vPOr6tOit7M/Shadow_%282018%29%E0%B8%88%E0%B8%AD%E0%B8%
 
 
 type=video
-name=Halloween (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
+name=Halloween (2018) ENG 1080pHD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNkDYKmrVem1J0aAfCnQlJOCKnT.jpg
-date=2018-12-20
-URL=https://openload.co/f/Higxs4-SxSw/Halloween.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-12-28
+URL=https://openload.co/f/h2NVi4I-_rk/Halloween_2018_1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/lgsB-GaJvkU/Halloween.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/Higxs4-SxSw/Halloween.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/4jsB35O1sGg/Halloween.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/mg8ks0kjq0s/Halloween.2018.HDRip.XviD.AC3.LLG.mp4
 #https://openload.co/f/CxuEuCNcimM/Halloween.2018.HC.1080p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
@@ -13658,7 +13663,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-25
+date=2018-12-28
 URL=
 
 
@@ -13666,6 +13671,19 @@ URL=
 
 
 
+
+
+type=video
+name=The Magic Roundabout (2005) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-54
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCnCmSt5fX9HZqYCeJM5xp5m7KY.jpg
+date=2018-12-28
+URL=https://openload.co/f/vKCLXWqYykM/The.Magic.Roundabout.2005.1080p.BluRay.x264-MUxHD.mkv.mp4
+
+type=video
+name=Listening (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jo8L7oGb4ATlrryrvH6Vv8hC8RW.jpg
+date=2018-12-28
+URL=https://openload.co/f/jYtHagLjdqA/Listening.2014.1080p.BluRay.x264-PFa.mkv.mp4
 
 type=video
 name=Pet Sematary (1989) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
