@@ -48,8 +48,8 @@ http://live.seesantv.com/live/chjkn/playlist.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_seesantv
 http://live.seesantv.com/live/chgmmchannel2/playlist.m3u8
 
-
-
+#EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV
+http://27.254.130.64/live01/ch2.m3u8?p=pptv
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png",now 26
 http://27.254.130.64/live01/ch12.m3u8?p=
 
@@ -2643,10 +2643,8 @@ https://5652cb24c16ee.streamlock.net/2001edge/smil:2001DR_premium.smil/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ci.phncdn.com/videos/201707/01/122571121/original/(m=ecuKGgaaaa)(mh=w2UWY3mUaq_af7qw)10.jpg" group-title="Adult IPTV",Live Strip Club Main Stage
 https://5652cb24c16ee.streamlock.net/2001edge/smil:2001MS_premium.smil/playlist.m3u8
 
-
-
-
-
+#EXTINF:-1,dorcel-hd
+https://unicast.bbxnet.sk/live/dorcel-hd/playlist.m3u8
 
 
 
@@ -3346,8 +3344,17 @@ http://61.58.60.230:9000/live/257.m3u8
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://ecable.tv/wp-content/uploads/2018/01/dusk_nl_europe.png" group-title="Adult IPTV",Dusk 2
+http://usaiptv.ddns.net:9090/load/a6e4ca00bdc7/7622.mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/07/Varmint-TV.png" group-title="Adult IPTV",Varmint TV 2
+http://ed68815c.iptvspy.ru/iptv/KLF5WG86AQZ653/922/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagescdn2.swigit.com/LiveChannels/Logo/a3bikini" group-title="Adult IPTV",A3 Bikini
+http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="Adult IPTV",Eye Candy
+https://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=abyvf6f7c3skho4fkbj2demm10
 
-
+#EXTINF:-1,AsianSexDiary
+http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/41524
 
 #EXTINF:-1,Ibiza TV3_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8
@@ -3413,8 +3420,7 @@ http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
 
-#EXTINF:-1,dorcel-hd_vintage
-https://unicast.bbxnet.sk/live/dorcel-hd/playlist.m3u8
+
 
 
 

@@ -150,6 +150,7 @@ name=Spider-Man: Into the Spider-Verse (2018) ENG 720p_PROPER_HDCAM-ORCA88_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
 date=2018-12-17
 URL=https://openload.co/f/v7GjU1HV47Q/Spider-Man_Into_the_Spider-Verse_2018_720p_PROPER_HDCAM-ORCA88_SeeHD.mp4
+#https://openload.co/f/dBsGXFDFLLk/Spider-Man.Into.the.Spider-Verse.2018.HDCAM.x264-CHS.mp4
 #https://openload.co/f/qDwvb4h3Mho/Spider-Man_Into_The_Spider_Versee.2018.CAM.X264-SuperSpy_SeeHD.mkv.mp4
 #https://openload.co/f/Acp3BMFlPyA/Spider-Man.Into.The.Spider.Versee.2018.CAM.X264-SuperSpy.mkv.mp4
 
@@ -236,17 +237,6 @@ URL=https://openload.co/f/HM-dmohGv4g/King_of_Thieves_2018_720p_TS-1XBET_SeeHD.m
 
 
 
-type=video
-name=Goosebumps 2: Haunted Halloween (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bcpki9GfXdXj9esFpPtlate8v0.jpg
-date=2018-12-10
-URL=https://openload.co/f/tFWcxWIJYkk/Goosebumps.Haunted_Halloween.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/vyDFuRrZLF4/Goosebumps.Haunted.Halloween.2018.1080p.WEB-DL.H264.AC3-EVO.mp4
-#https://openload.co/f/EePo5DRfw14/Goosebumps.Haunted_Halloween.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv   MKV3.1GB
-#https://openload.co/f/qKS6GcI4-xk/Goosebumps_2_Haunted_Halloween_2018_NEW_720p_TS-1XBET_SeeHD.mp4
-#https://openload.co/f/GtI7xMmd9wc/Goosebumps_2_Haunted_Halloween_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/EMVTZeiE6BE/Goosebumps.2.Haunted.Halloween.2018.720p.HDCAM-1XBET.mp4
-#https://openload.co/f/GEUXPedKLpk/Goosebumps.2.Haunted.Halloween.2018.NOLOGO.720p.HDCAM-1XBET.mp4
 
 
 
@@ -279,11 +269,7 @@ date=2018-12-19
 URL=https://openload.co/f/1IqteFDN-yY/The_Sisters_Brothers_1080pHD_SeeHD.mkv.mp4
 #https://openload.co/f/MtL7T1o0iQY/The_Sisters_Brothers_2018_1080p_WEB-DL_X264_5.1.mkv.mp4
 
-type=video
-name=Mid90s (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvB5TsUScfgwfjZYusjcuZ9L6oS.jpg
-date=2018-12-21
-URL=https://openload.co/f/dvlz4V0tNSs/Mid90s.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+
 
 
 
@@ -1383,7 +1369,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-26
+date=2018-12-29
 URL=
 
 
@@ -1394,6 +1380,43 @@ URL=
 
 
 
+
+
+
+type=video
+name=
+thumb=
+date=2018-12-29
+URL=
+
+type=video
+name=Frenzy (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-43
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wogFHCe7ZXIavQz5RpklRj0QE2K.jpg
+date=2018-12-29
+URL=https://uptobox.com/zgmblasdi1xi
+#https://fruithosts.net/embed/nbrsllltdcatnkbn/FRENZY80_Ganol_si_mkv
+#https://oload.fun/embed/I3iuABD5wn8/FRENZY80.Ganol.si.mkv
+#https://openload.co/f/YVE10894A9I/Frenzy_%282018%291080p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
+
+type=video
+name=Mid90s (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-77
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvB5TsUScfgwfjZYusjcuZ9L6oS.jpg
+date=2018-12-29
+URL=https://uptobox.com/vlwv6w09gemx
+#https://fruithosts.net/embed/eekoolbaobpkprcs/GHPMID90S80_Ganol_si_mkv
+#https://oload.fun/embed/8J4L_H4RKFY/GHPMID90S80.Ganol.si.mkv
+#https://openload.co/f/cGr135iydaM/Mid90s_%282018%29REPACK_1080p_BluRay_x264-BLOW.Ganool.mkv.mp4
+#https://openload.co/f/Nc9HMN0o-m0/Mid90s.2018.1080p.BluRay.x264-BLOW.mkv.mp4
+#https://openload.co/f/dvlz4V0tNSs/Mid90s.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+
+type=video
+name=Social Animals (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/45QgvkuwZF8mffzDcK3wZSpNpA0.jpg
+date=2018-12-29
+URL=https://uptobox.com/vi4cw3oaqmgm
+#https://fruithosts.net/embed/qqcrffkbktelqkkq/GHPSOSIANIMALS80_Ganol_si_mkv
+#https://oload.fun/embed/I6R5fjil2vk/GHPSOSIANIMALS80.Ganol.si.mkv
+#https://openload.co/f/-VzlJfDg07o/Social_Animals_%282018%29BluRay_1080p_DTS_x264-MT.Ganool.mkv.mp4
 
 type=video
 name=22 Chaser (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-74
@@ -1761,8 +1784,12 @@ URL=https://uptobox.com/f6j3vss1vv5r
 type=video
 name=The Mermaid: Lake of the Dead (2018) [COLOR=FF00FF00]RUS BR 1080p[/COLOR] | TMDB-63
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcAMY0zGhNYg8tk6mjt9NlHFnj5.jpg
-date=2018-12-11
-URL=https://openload.co/f/6iEKCELt358/The.Mermaid.Lake.Of.The.Dead.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+date=2018-12-29
+URL=https://uptobox.com/sqnpktr7csf6
+#https://fruithosts.net/embed/dklsarlcqkadbmsq/GHPTHEMERMAIDLAKE_Ganol_si_mkv
+#https://oload.fun/embed/KFDIvrIUbaU/GHPTHEMERMAIDLAKE.Ganol.si.mkv
+#https://openload.co/f/LmfWwR1fncA/The_Mermaid%3A_Lake_of_the_Dead_%282018%29Blu-ray_1080p_AVC_DTS-HDMA_5.1.Ganool.mkv.mp4
+#https://openload.co/f/6iEKCELt358/The.Mermaid.Lake.Of.The.Dead.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/nUseZd8NpRc/The.Mermaid.The.Lake.of.the.Dead.2018.BluRay.720p.DTS.x264.mkv.mp4
 
 type=video
@@ -8399,7 +8426,7 @@ URL=https://openload.co/f/mDgvTf333Zw/Venom_%282018%29%E0%B9%80%E0%B8%A7%E0%B8%9
 
 
 type=video
-name=Luis and the Aliens (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Luis and the Aliens (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oq7s5ru4hjp83mi4fWSJ0L7yUA.jpg
 date=2018-10-30
 URL=https://openload.co/f/aLZ0rJ1Whkw/Luis.And.The.Aliens.2018.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -8416,10 +8443,15 @@ URL=https://openload.co/f/qo3RsswIa80/Luis_and_the_Aliens_%282018%29%E0%B8%AB%E0
 
 
 type=video
-name=Hell Fest (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
+name=Hell Fest (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-53
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tjyPwIqeYzho7fHWqBKIn2gyWg.jpg
-date=2018-12-21
-URL=https://openload.co/f/r8pdaXkWAis/Hell.Fest.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+date=2018-12-29
+URL=https://uptobox.com/qlrpw5n58dvi
+#https://fruithosts.net/embed/bmobqormtosoetek/GHPHELLFEST80_Ganol_si_mkv
+#https://oload.fun/embed/bhAokNwZTeo/GHPHELLFEST80.Ganol.si.mkv
+#https://openload.co/f/nbRalW6fSQk/Hell_Fest_%282018%291080p_BluRay_x264-Replica.Ganool.mkv.mp4
+#https://openload.co/f/rAQtZKEg7DM/Hell.Fest.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/r8pdaXkWAis/Hell.Fest.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/kA8VNtGpuw8/Hell.Fest.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/RFdovqf2WFk/Hell.Fest.2018.HC.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/ar5jfgUtWA8/Hellfest_2018_720p_HDCAM-1XBET_SeeHD.mp4
@@ -11251,6 +11283,27 @@ URL=
 
 
 
+
+
+
+type=video
+name=Goosebumps 2: Haunted Halloween (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bcpki9GfXdXj9esFpPtlate8v0.jpg
+date=2018-12-10
+URL=https://openload.co/f/tFWcxWIJYkk/Goosebumps.Haunted_Halloween.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/vyDFuRrZLF4/Goosebumps.Haunted.Halloween.2018.1080p.WEB-DL.H264.AC3-EVO.mp4
+#https://openload.co/f/EePo5DRfw14/Goosebumps.Haunted_Halloween.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv   MKV3.1GB
+#https://openload.co/f/qKS6GcI4-xk/Goosebumps_2_Haunted_Halloween_2018_NEW_720p_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/GtI7xMmd9wc/Goosebumps_2_Haunted_Halloween_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/EMVTZeiE6BE/Goosebumps.2.Haunted.Halloween.2018.720p.HDCAM-1XBET.mp4
+#https://openload.co/f/GEUXPedKLpk/Goosebumps.2.Haunted.Halloween.2018.NOLOGO.720p.HDCAM-1XBET.mp4
+type=video
+name=Goosebumps 2: Haunted Halloween (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bcpki9GfXdXj9esFpPtlate8v0.jpg
+date=2018-12-29
+URL=https://openload.co/f/wgh5x6e0Vp8/Goosebumps_2%3A_Haunted_Halloween_%282018%29%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%82%E0%B8%99%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B8%E0%B8%81_2_%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%9D%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
 type=video
 name=Johnny English Strikes Again (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg
@@ -12655,7 +12708,7 @@ URL=https://openload.co/f/OBWSGVFA1gw/Chuck_%282017%29%E0%B8%AA%E0%B8%B8%E0%B8%A
 
 
 type=video
-name=Mission: Impossible - Fallout (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]   5.3GB
+name=Mission: Impossible - Fallout (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] 
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg
 date=2018-11-21
 URL=https://uptobox.com/4glkmmxrl6oq
@@ -12663,6 +12716,7 @@ URL=https://uptobox.com/4glkmmxrl6oq
 #https://openload.co/embed/sWizX0qofqk/GHPMISSIONIMPOSSBILEIMAX80.Ganol.st.mkv
 #https://openload.co/f/92RuQLTjLfs/Mission%3A_Impossible_%E2%80%93_Fallout_%282018%291080p_BluRay_X264-DEFLATE.Ganool.mkv.mp4
 #https://openload.co/f/1_9XBYbUPUI/Mission%3A_Impossible_%E2%80%93_Fallout_%282018%291080p_BluRay_X264-DEFLATE.Ganool.mkv   MKV2.2GB
+#https://openload.co/f/pyva1ccyWYc/Mission.Impossible.Fallout.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/EbjXDVfaJYg/Mission.Impossible.Fallout.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/xnLMmGIoXog/Mission.Impossible.Fallout.2018.720p.BluRay.X264-DEFLATE.mkv.mp4
 #https://openload.co/f/Nmjv9h0Pd98/Mission.Impossible.Fallout.2018.720p.BluRay.H264.AAC-RARBG.mp4
@@ -13663,7 +13717,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-28
+date=2018-12-29
 URL=
 
 
@@ -13672,6 +13726,33 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=Blade (1998) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0RQ9ZOEZglLOeYDNJTehVTRoR6.jpg
+date=2018-12-29
+URL=https://openload.co/f/pSXScNy5oYU/Blade.1998.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Blade II (2002) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlURNpXCMK830CsGRd939PJLh8c.jpg
+date=2018-12-29
+URL=https://openload.co/f/LXNTw5qlUHM/Blade.II.2002.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Blade: Trinity (2004) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WinsdHQBdh5aTt7Bd7T7dbUXbb.jpg
+date=2018-12-29
+URL=https://openload.co/f/OQoeLAzfO6M/Blade.Trinity.2004.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Hellboy II: The Golden Army (2008) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFcZqnWDeQsImDAAIyAimc3SGEl.jpg
+date=2018-12-29
+URL=https://openload.co/f/wxTzmUw6PVA/Hellboy.2.The.Golden.Army.2008.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Magic Roundabout (2005) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-54

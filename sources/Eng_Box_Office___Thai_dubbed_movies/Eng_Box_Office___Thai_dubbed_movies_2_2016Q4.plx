@@ -683,14 +683,20 @@ player=default
 rating=-1.00
 description=A teenager is magically transported to China and learns to convert his video game skills into those of a Kung Fu warrior./description
 
+
+type=video
+name=Passengers (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gJkVIVU7FDp7AfRAbPSvvdbre2.jpg
+URL=https://openload.co/f/APic4YcEjo8/Passengers.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 # 2760161
 type=video
-name=Passengers 
+name=Passengers (2016) TH
 thumb=http://image.tmdb.org/t/p/w500/5gJkVIVU7FDp7AfRAbPSvvdbre2.jpg
 URL=https://openload.co/f/NrlJ3Irekus/%7BMINI_Super-HQ%7D_Passengers.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 player=default
 rating=-1.00
 description=A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early./description
+
 
 # 2766247
 type=video
@@ -910,14 +916,20 @@ player=default
 rating=-1.00
 description=When the Scooby gang visits a dude ranch, they discover that it and the nearby town have been haunted by a ghostly cowboy, Dapper Dan, who fires real fire from his fire irons. The mystery only deepens when itâ??s discovered that the ghost is also the long lost relative of Shaggy Rogers!/description
 
+
+type=video
+name=Bridget Jones's Baby (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8di6S3mUuFe5Yz8etRG8yG5EeE.jpg
+URL=https://openload.co/f/4N4JEGTnrhc/Bridget.Joness.Baby.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 # 2763494
 type=video
-name=BRIDGET JONES S BABY
+name=Bridget Jones's Baby (2016)
 thumb=http://image.tmdb.org/t/p/w500/YhZpuALy2SdQkFammrBCxbOdcM.jpg
 URL=https://openload.co/f/1Ju7nSmwZww/%7BMINI_Super-HQ%7D_Bridget.Jones%27s.Baby.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 player=default
 rating=-1.00
 description=Breaking up with Mark Darcy leaves Bridget Jones over 40 and single again. Feeling that she has everything under control, Jones decides to focus on her career as a top news producer. Suddenly, her love life comes back from the dead when she meets a dashing and handsome American named Jack. Things couldn't be better, until Bridget discovers that she is pregnant. Now, the befuddled mom-to-be must figure out if the proud papa is Mark or Jack./description
+
 
 # 2763232
 type=video
