@@ -77,15 +77,15 @@ URL=http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/
 
 type=video
 name=
-thumb=
+thumb=https://static.akacdn.ru/static/images/2018/04/ef2a1c10a50748ac4bffe124b0d7113d.jpg
 date=2018-12-04
-URL=
+URL=https://www.rapidvideo.com/e/FXRDW01WEU&q=720p
 
 type=video
 name=
-thumb=
+thumb=https://static.akacdn.ru/static/images/2018/04/ef2a1c10a50748ac4bffe124b0d7113d.jpg
 date=2018-12-04
-URL=
+URL=https://lover.playercdn.net/187/8/ZrWzt4uPbfNkwXNL09gZng/1546130450/181201/447FXRDXD8NVCTH05MF1J.mp4
 
 type=video
 name=
