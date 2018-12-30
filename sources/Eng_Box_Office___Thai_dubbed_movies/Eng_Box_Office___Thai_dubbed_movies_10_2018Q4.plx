@@ -111,7 +111,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-26
+date=2018-12-30
 URL=
 
 
@@ -119,6 +119,14 @@ URL=
 
 
 
+
+
+type=video
+name=Green Book (2018) ENG DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h70wRv6iWxiqED4orqfxcEl74Rc.jpg
+date=2018-12-30
+URL=https://openload.co/f/-EfF4j1Jzsk/Green.Book.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD.avi.mp4
+#https://openload.co/f/4sowR_BsZHM/Green.Book.2018.DVDSCR.MkvCage.mkv.mp4
 
 type=video
 name=The Mule (2018) ENG 720p_HDCAM_SeeHD
@@ -177,7 +185,11 @@ date=2018-12-10
 URL=https://openload.co/f/8STRsbaq3Eo/The_Possession_of_Hannah_Grace_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
 
-
+type=video
+name=The Old Man & the Gun (2018) ENG 720p.HDRip.X264.AC3-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ra3UlOwcPwj5euC2jbhga7IH5i.jpg
+date=2018-12-30
+URL=https://openload.co/f/g9GNdZG7yBA/The_Old.Man.and.the.Gun.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 
 
 
@@ -1369,10 +1381,8 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-29
+date=2018-12-30
 URL=
-
-
 
 
 
@@ -1384,10 +1394,16 @@ URL=
 
 
 type=video
-name=
-thumb=
-date=2018-12-29
-URL=
+name=The Immortal Life of Henrietta Lacks (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzkd72ECEwMAwNZUypAnlQJ6o6h.jpg
+date=2018-12-30
+URL=https://openload.co/f/62HCuEHYCAY/The.Immortal.Life.of.Henrietta.Lacks.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Cakemaker (2017) [COLOR=FF00FF00]POL BR 1080p[/COLOR] | TMDB-74
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/WwHLnuqqwhvCkBACCMAR5xuQMA.jpg
+date=2018-12-30
+URL=https://openload.co/f/qtcpSevXspE/The.Cakemaker.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Frenzy (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-43
@@ -1406,6 +1422,7 @@ URL=https://uptobox.com/vlwv6w09gemx
 #https://fruithosts.net/embed/eekoolbaobpkprcs/GHPMID90S80_Ganol_si_mkv
 #https://oload.fun/embed/8J4L_H4RKFY/GHPMID90S80.Ganol.si.mkv
 #https://openload.co/f/cGr135iydaM/Mid90s_%282018%29REPACK_1080p_BluRay_x264-BLOW.Ganool.mkv.mp4
+#https://openload.co/f/3R7R9H3hdek/Mid90s.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/Nc9HMN0o-m0/Mid90s.2018.1080p.BluRay.x264-BLOW.mkv.mp4
 #https://openload.co/f/dvlz4V0tNSs/Mid90s.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 
@@ -1888,6 +1905,7 @@ URL=https://uptobox.com/u9d9mw6fs20u
 #https://oload.fun/embed/P-rjNAB4-VQ/ASSASINATIONNATION80.Ganol.si.mkv
 #https://openload.co/f/3hHB0BVYqT8/Assassination_Nation_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4.mp4
 #https://openload.co/f/ojEnOXsS-FA/Assassination.Nation.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/s4z_HM9IjPo/Assassination.Nation.2018.1080p.WEB-DL.H264.AC3-eSc.mkv.mp4
 
 type=video
 name=Unbroken: Path to Redemption (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
@@ -8304,10 +8322,12 @@ URL=https://openload.co/f/I3e9adDqUk8/Mortal_Engines_%282018%29%E0%B8%AA%E0%B8%A
 
 
 type=video
-name=Ralph Breaks the Internet (2018) ENG HDCAMV2_SeeHD
+name=Ralph Breaks the Internet (2018) ENG DVDSCR.XviD.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m110vLaDDOCca4hfOcS5mK5cDke.jpg
-date=2018-11-26
-URL=https://openload.co/f/VKSLAw9hR3c/ralphbreaktheinternetHDCAMV2_SeeHD.mkv.mp4
+date=2018-12-30
+URL=https://openload.co/f/J8ktq-rtxTM/Ralph_Breaks_the_Internet.2018.DVDSCR.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/HYL-k0dAyFE/Ralph_Breaks_the_Internet.2018.DVDSCR.MkvCage.mkv.mp4
+#https://openload.co/f/VKSLAw9hR3c/ralphbreaktheinternetHDCAMV2_SeeHD.mkv.mp4
 #https://openload.co/f/om5EaCqO18o/Ralph_Breaks_the_Internet_ENG_2018_720p_HDCAM-1XBET.mp4
 type=video
 name=Ralph Breaks the Internet (2018) THCAM
@@ -9077,10 +9097,11 @@ URL=https://openload.co/f/GO055X4tlHA/The_Night_Comes_for_Us_%282018%29%E0%B8%84
 
 
 type=video
-name=Tag (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Tag (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg
-date=2018-08-11
-URL=https://openload.co/f/iDj7iqqhKu0/Tag.2018.1080p.BR_SeeHD.mp4
+date=2018-12-30
+URL=https://openload.co/f/sO4SSTJ1xig/Tag.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/iDj7iqqhKu0/Tag.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/JdoYJAyTUkE/Tag.2018.1080p.BluRay.x264-GECKOS.mp4
 #https://openload.co/f/Y9JCxwZjw9A/Tag.2018.1080p.BluRay_x264-GECKOS.mkv   MKV7.7GB
 #https://openload.co/f/A52Q2c9ui-4/TAG_2018_720p_HD-TS_x264_HQ-24HD_SeeHD.mkv.mp4
@@ -9424,10 +9445,11 @@ URL=https://streamango.com/f/fqekkfffqnsrokef/Big_Fish_Begonia_2016_Big_Fish_Beg
 
 
 type=video
-name=Upgrade (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Upgrade (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqistSlQGQVlvDZHweDP3qCplMP.jpg
 date=2018-08-16
 URL=https://openload.co/f/b_BM2OBi9g0/Upgrade.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/oVxJ4vm2ilM/Upgrade.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/gSIid1dslG4/Upgrade_%282018%29_%5B1080p%5D_BluRay_x264-%5BYTS_AM%5D_mp4
 #https://openload.co/f/QLWQqRpYVbY/Upgrade.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/6P5qPmpNAYo/Upgrade.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.MKV.mp4
@@ -12747,13 +12769,14 @@ URL=https://openload.co/f/lKvzpgYPwjA/Mission%3A_Impossible_-_Fallout_%282018%29
 
 
 type=video
-name=The Equalizer 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=The Equalizer 2 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg
 date=2018-11-14
 URL=https://uptobox.com/n3qpq3b9xzv9
 #https://www.rapidvideo.com/e/FX7OGNRI5J
 #https://openload.co/embed/SB2cMc0Mj88/GHPTHEEQUALIZER280.Ganol.st.mkv.mp4
 #https://openload.co/f/cbmbRth8b8I/The_Equalizer_2_%282018%291080p_BluRay_X264-DEFLATE.Ganool.mkv.mp4
+#https://openload.co/f/XpFyfK5xHng/The.Equalizer.2.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/7SLHqHYyluM/The.Equalizer.2.2018.1080p.BluRay.6CH.x264.MkvCage.ws.mkv.mp4
 #https://openload.co/f/t0FEeTqDWuY/The.Equalizer.2.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/hPvmmxLf1fw/The.Equalizer.2.2018.720p.BluRay.H264.AAC-RARBG.mp4

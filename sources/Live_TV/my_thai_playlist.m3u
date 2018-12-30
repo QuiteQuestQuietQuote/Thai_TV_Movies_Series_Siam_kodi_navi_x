@@ -2645,7 +2645,10 @@ https://5652cb24c16ee.streamlock.net/2001edge/smil:2001MS_premium.smil/playlist.
 
 #EXTINF:-1,dorcel-hd
 https://unicast.bbxnet.sk/live/dorcel-hd/playlist.m3u8
-
+#EXTINF:-1,AsianSexDiary
+http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/41524
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/07/Varmint-TV.png" group-title="Adult IPTV",Varmint TV 2
+http://ed68815c.iptvspy.ru/iptv/KLF5WG86AQZ653/922/index.m3u8
 
 
 
@@ -3310,14 +3313,12 @@ http://80.80.160.168/live/9/live.m3u8
 http://27.254.149.109:8081/tumlive/Hitstoryhd/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://image.free.in.th/v/2013/ir/180628100717.png",History2_TH
 http://27.254.149.109:8081/tumlive/h2/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History_TH
-http://103.7.57.17:1935/live1/Rhistory.stream/chunklist_w767108699_tkd293emF0b2tlbmVuZHRpbWU9MTUzMzY2NDE3OSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9N2g1ZVNVVEw3Vmp6QXFoMktqYTVScGZmVVEtZkxhaWY5M1JLdmxtOXZJaz0=.m3u8
-#EXTINF:-1  tvg-logo="http://image.free.in.th/v/2013/ir/180628100717.png",History2_TH
-http://103.7.57.17:1935/live1/H2HDrut.stream/chunklist_w1690635951_tkd293emF0b2tlbmVuZHRpbWU9MTUzMzY2NDMwNSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9UlVUUzZuU2dFT1I1M25MN3pFdk1CdENLbDVhb25MY1B5VlF5RlRHbmN3az0=.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_bear-tv
 http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_TTVHD
 http://www.ssh101.com/m3u8/dyn/TTVHD/index.m3u8
+#EXTINF:-1,CRT_CHN
+http://stream.chinactv.com/ctv3/sd/live.m3u8
 #EXTINF:-1,wild food brother_CHN
 https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
 #EXTINF:-1,FOODIE
@@ -3344,17 +3345,10 @@ http://61.58.60.230:9000/live/257.m3u8
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://ecable.tv/wp-content/uploads/2018/01/dusk_nl_europe.png" group-title="Adult IPTV",Dusk 2
-http://usaiptv.ddns.net:9090/load/a6e4ca00bdc7/7622.mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/07/Varmint-TV.png" group-title="Adult IPTV",Varmint TV 2
-http://ed68815c.iptvspy.ru/iptv/KLF5WG86AQZ653/922/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagescdn2.swigit.com/LiveChannels/Logo/a3bikini" group-title="Adult IPTV",A3 Bikini
-http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="Adult IPTV",Eye Candy
-https://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=abyvf6f7c3skho4fkbj2demm10
 
-#EXTINF:-1,AsianSexDiary
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/41524
+
+
+
 
 #EXTINF:-1,Ibiza TV3_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8
@@ -3372,6 +3366,10 @@ http://ibiza-tv.1919hdtv.com:8880/lfh/Stream1/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg",ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagescdn2.swigit.com/LiveChannels/Logo/a3bikini" group-title="Adult IPTV",A3 Bikini
+http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="Adult IPTV",Eye Candy
+https://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=abyvf6f7c3skho4fkbj2demm10
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Jasmin-TV.png",Jasmin Tv 
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Miami-TV.jpg",miamitv
