@@ -59,6 +59,129 @@ thumb=
 
 
 
+type=video
+name=170xxxxxxxxxxxxxxxxxxxxLover Sex Addiction (2016)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Lover-Sex-Addiction-2016.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/kmnrfonkkecptsmr/
+
+type=video
+name=Yeochin Eonni (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Yeochin-Eonni-2018-Uncut.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/ncrsckntlnpbcmaq/
+
+type=video
+name=Yubunyeodeul Ui Mas (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Yubunyeodeul-Ui-Mas-2018-Uncut.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/cqmmmblbdefqlloa/
+
+type=video
+name=Jeongsa Campus Couples (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Jeongsa-Campus-Couples-2018-Uncut.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/cfootpncnkncmrcl/
+
+type=video
+name=Nae Yeoja Chinguui Eomma (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Nae-Yeoja-Chinguui-Eomma-2018.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/rsaopkadpfosaadn/
+
+
+type=video
+name=Housewives Creampie Affairs (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Housewives-Creampie-Affairs-2017.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/lelqlqecootrtmcd/
+
+type=video
+name=Immoral MILF & Dirty MILF (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Immoral-MILF-Dirty-MILF-2017.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/qmblpoepppbkprbc/
+
+type=video
+name=Saeoppa 2 (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Saeoppa-2-2018-Uncut.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/prdqfstmaknbpcmp/
+
+type=video
+name=Majimag Jeongsa Yeoleos I Dagat I (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Majimag-Jeongsa-Yeoleos-I-Dagat-I-2018-Uncut.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/odabcednoebombdq/
+
+type=video
+name=Second Mom 2 2018 [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Second-Mom-2-2018-Uncut.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/teoosklktqbodbcf/
+
+
+type=video
+name=Seonnyeoneun Mom Eulo Unda (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Seonnyeoneun-Mom-Eulo-Unda-2018-Uncut.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/qlbclcboqtsqplqp/
+
+type=video
+name=Swapping F wife 2 (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Swapping-F-wife-2-2018-Uncut.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/nlncrtescsdbprkt/
+
+type=video
+name=Seuwaping Minbagjib (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Seuwaping-Minbagjib-2018-Uncut.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/qqefebfqtqpdcsfe/
+
+type=video
+name=My Mothers Friend 5 (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/My-Mothers-Friend-5-2017-Uncut.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/kabqlacfkfakstmt/
+
+type=video
+name=Jeongsa Chaghan Sugmo (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Jeongsa-Chaghan-Sugmo-2018-Uncut.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/ncebpktfnmptmrcs/
+
+
+type=video
+name=Jeongsa Chinguui Yeojaleul Tamhada (2017) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Jeongsa-Chinguui-Yeojaleul-Tamhada-2017-Uncut.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/embrdlenbqmqdocf/
+
+type=video
+name=Chaghan Cheojedeul 2018 (2018) [De] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Chaghan-Cheojedeul-2018-2018-De.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/nmcndflkmoalqatn/
+
+type=video
+name=Chingu Eommadeul (2018) [De] 
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Chingu-Eommadeul-2018-De.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/emqtnqfrmeqmtspl/
+
+type=video
+name=Chaghan Hyeongsu Nae Yeojaga Doedeon Nal (2018) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Chaghan-Hyeongsu-Nae-Yeojaga-Doedeon-Nal-2018-Uncut.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/ssdfmsbdprrsopqk/
+
+type=video
+name=Chaghan Chingueomma (2017) [Uncut]
+thumb=https://erotic24hr.com/wp-content/uploads/2018/12/Chaghan-Chingueomma-2017-Uncut.jpg
+date=2018-12-31
+URL=https://streamcherry.com/embed/qrtaenrpffptapep/
+
 
 
 

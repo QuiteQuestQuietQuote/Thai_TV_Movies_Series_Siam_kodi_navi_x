@@ -512,11 +512,18 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XssONH4zhRldiG3HHt2WH8xIn
 date=2017-08-13
 URL=https://openload.co/f/X8A4HVzOjzM/Mr._Hurt_%282017%29_DVDRip.CtHts_-_PORSC.mkv.mp4
 
+
+type=video
+name=Wilson (2017) [COLOR=FF00FF00]ENG BR 720p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m63h5MxevYrKn3720hVgKZAx86S.jpg
+date=2018-12-31
+URL=https://www.rapidvideo.com/e/FXRDW01WEU&q=720p
 type=video
 name=Wilson (2017)
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m63h5MxevYrKn3720hVgKZAx86S.jpg
 date=2017-08-10
 URL=https://streamango.com/f/dcssqketflrbandf/Wilson_mp4
+
 
 type=video
 name=48 Hours to Live (2017)
