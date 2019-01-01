@@ -463,6 +463,11 @@ player=default
 rating=-1.00
 description=The story of a young man who arrives in Hollywood during the 1930s hoping to work in the film industry, falls in love, and finds himself swept up in the vibrant cafÃ© society that defined the spirit of the age./description
 
+
+type=video
+name=Moana (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-75
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4x0Bp48ar3Mda8KiPD1vwSY3D8.jpg
+URL=https://openload.co/f/H0KgOxiXA4Q/Moana.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 # 2767392
 type=video
 name=Moana (2016)
@@ -471,6 +476,7 @@ URL=https://openload.co/f/vz74wuy7qRU/%5BTH%5DMoana_2016
 player=default
 rating=-1.00
 description=In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right./description
+
 
 # 2767391
 type=video

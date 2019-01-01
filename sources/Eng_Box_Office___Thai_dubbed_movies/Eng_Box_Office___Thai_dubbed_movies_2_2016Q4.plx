@@ -1421,6 +1421,11 @@ player=default
 rating=-1.00
 description=In the early years of the 20th century, Mohandas K. Gandhi, a British-trained lawyer, forsakes all worldly possessions to take up the cause of Indian independence. Faced with armed resistance from the British government, Gandhi adopts a policy of 'passive resistance', endeavouring to win freedom for his people without resorting to bloodshed./description
 
+
+type=video
+name=Sausage Party (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-56
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w90cORtNWQAd2k93aFlIBbpQYTC.jpg
+URL=https://openload.co/f/Rjll1jvudkc/Sausage.Party.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 # 2760160
 type=video
 name=SAUSAGE PARTY
@@ -1429,6 +1434,7 @@ URL=https://openload.co/f/LkloaIS6Cws/%5BTH%5DSausage_Party_2016
 player=default
 rating=-1.00
 description=Sausage Party, the first R-rated CG animated movie, is about one sausage leading a group of supermarket products on a quest to discover the truth about their existence and what really happens when they become chosen to leave the grocery store./description
+
 
 # 2760365
 type=video

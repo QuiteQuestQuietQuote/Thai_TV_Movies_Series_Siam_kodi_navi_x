@@ -155,10 +155,11 @@ URL=https://openload.co/f/dlqF8ZzyS7k/Mary_Poppins_Returns_2018_NEW_720p_HDCAM_V
 #https://openload.co/f/veQ8Wolexlw/Mary_Poppins_Returns_2018_720p_HDCAM-1XBET.mp4
 
 type=video
-name=Spider-Man: Into the Spider-Verse (2018) ENG 720p_PROPER_HDCAM-ORCA88_SeeHD
+name=Spider-Man: Into the Spider-Verse (2018) ENG HDCAM_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
-date=2018-12-17
-URL=https://openload.co/f/v7GjU1HV47Q/Spider-Man_Into_the_Spider-Verse_2018_720p_PROPER_HDCAM-ORCA88_SeeHD.mp4
+date=2019-01-01
+URL=https://openload.co/f/rSXjHTJzFf0/Spiderman_into_the_Spiderberse_HDCAM_SeeHD.mp4
+#https://openload.co/f/v7GjU1HV47Q/Spider-Man_Into_the_Spider-Verse_2018_720p_PROPER_HDCAM-ORCA88_SeeHD.mp4
 #https://openload.co/f/dBsGXFDFLLk/Spider-Man.Into.the.Spider-Verse.2018.HDCAM.x264-CHS.mp4
 #https://openload.co/f/qDwvb4h3Mho/Spider-Man_Into_The_Spider_Versee.2018.CAM.X264-SuperSpy_SeeHD.mkv.mp4
 #https://openload.co/f/Acp3BMFlPyA/Spider-Man.Into.The.Spider.Versee.2018.CAM.X264-SuperSpy.mkv.mp4
@@ -1383,7 +1384,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-31
+date=2019-01-01
 URL=
 
 
@@ -1392,19 +1393,36 @@ URL=
 
 
 
-
+type=video
+name=Time Freak (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PU8BTwVrHEn2ILjInBQ5RWz8ZQ.jpg
+date=2019-01-01
+URL=https://uptobox.com/qtkj2msdqztj
+#https://fruithosts.net/embed/oepmbctncqrmplqr/TIMEFREAK80_Ganol_si_mkv
+#https://oload.fun/embed/zOX-AbgKGGw/TIMEFREAK80.Ganol.si.mkv
+#https://openload.co/f/hPiKpXcNKkE/Time_Freak_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+#https://openload.co/f/pBs5RXD0s8M/Time.Freak.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Asher (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5p4Ev49KVR4itGWy3OHyqnRsz8.jpg
-date=2018-12-31
-URL=https://openload.co/f/fLLPAnLtu4Q/Asher.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
+date=2019-01-01
+URL=https://uptobox.com/wc27td5z6q6g
+#https://fruithosts.net/embed/klcfrnosqfoqtfbk/ASHER80_Ganol_si_mkv_mp4
+#https://oload.fun/embed/fX0OIHlgJu8/ASHER80.Ganol.si.mkv.mp4
+#https://openload.co/f/4EWv-PjOtEo/Asher_%282018%291080p_BluRay_x264_DTS-MT.Ganool.mkv.mp4
+#https://openload.co/f/OVgdZk1u-Zo/Iceman.The.Time.Traveller.2018.ENG.SUB.1080p.BluRay.H264.AAC.mkv.mp4
+#https://openload.co/f/sr0sJuJsLtE/Asher.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/fLLPAnLtu4Q/Asher.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
 
 type=video
 name=Iceman: The Time Traveler (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-28
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/enZENHd2gwVAw4sJKJxtJl1vJ09.jpg
-date=2018-12-31
-URL=https://openload.co/f/ZzGTE09HYx4/Iceman.The.Time.Traveller.2018.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
+date=2019-01-01
+URL=https://uptobox.com/prn9voky3pd9
+#https://fruithosts.net/embed/drsaeqmndqdsfclq/Iceman_The_Time_Traveller_2018_BluRay_1080p_5_1CH_x264_Ganol_si_mkv
+#https://streamango.com/f/lfqcbreflafklobo/Iceman_The_Time_Traveller_2018_BluRay_1080p_5_1CH_x264_Ganol_si_mkv_mp4
+#https://openload.co/f/ZzGTE09HYx4/Iceman.The.Time.Traveller.2018.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
 #https://openload.co/f/cLPBNDhPxWQ/Iceman.The.Time.Traveller.2018.1080p.BluRay.x264-WiKi.mkv.mp4
 
 type=video
@@ -8315,10 +8333,11 @@ URL=https://openload.co/f/3TEP9kEmy-w/Aquaman.TC.1080p_SeeHD.mp4
 #https://openload.co/f/4eoZetdCYpY/Aquaman_2018_HDCAM_ENG_X264_AC3_HQMic_Hive-CM8_SeeHD.mkv.mp4
 #https://openload.co/f/F_dSjC73jCU/Aquaman_2018_TC_V2.mp4
 type=video
-name=Aquaman (2018) THCAM
+name=Aquaman (2018) THCAM v.2
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
-date=2018-12-15
-URL=https://openload.co/f/9ejB1m2RPiw/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+date=2019-01-01
+URL=https://openload.co/f/J5sEcIGhhSE/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1_V.2%29
+#https://openload.co/f/9ejB1m2RPiw/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
