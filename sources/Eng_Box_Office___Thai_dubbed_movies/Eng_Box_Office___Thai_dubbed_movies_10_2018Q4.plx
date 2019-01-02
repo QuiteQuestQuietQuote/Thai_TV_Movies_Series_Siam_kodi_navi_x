@@ -12693,6 +12693,7 @@ URL=https://uptobox.com/cvt9i864nibi
 #https://openload.co/embed/qQiWN1eSBV8/GHPHEREDITAY80.Ganool.si.mkv
 #https://openload.co/f/IBJwX-LdjjM/hereditary.2018.1080p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/Veisb1pNr_Q/hereditary.2018.1080p.bluray.x264-geckos.mkv   MKV9.8GB
+#https://openload.co/f/WAvYyHl7XaE/Hereditary.2018.1080p.BluRay-RARBG.mp4
 #https://openload.co/f/LV0PRaB4-Kg/Hereditary.2018.720p.BluRay.H264.AACRARBG.mp4
 #https://openload.co/f/xz3LKpciiHs/hereditary.2018.720p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/FzGSD5pB9wU/hereditary.2018.720p.bluray.x264-geckos.mkv   MKV5.5GB

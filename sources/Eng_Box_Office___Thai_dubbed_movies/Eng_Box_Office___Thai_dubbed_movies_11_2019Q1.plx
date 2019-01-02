@@ -112,7 +112,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-30
+date=2019-01-02
 URL=
 
 
@@ -121,6 +121,14 @@ URL=
 
 
 
+
+
+type=video
+name=The Favourite (2018) ENG DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hgPWxYeGWtTEx9BPhUo99wj77z.jpg
+date=2019-01-02
+URL=https://openload.co/f/a8kpzFgxC6k/The.Favourite.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD.avi.mp4
+#https://openload.co/f/tO61lO0I6KI/The.Favourite.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8.avi.mp4
 
 type=video
 name=Green Book (2018) ENG DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD
@@ -1384,7 +1392,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-01
+date=2019-01-02
 URL=
 
 
@@ -1392,6 +1400,14 @@ URL=
 
 
 
+
+
+
+type=video
+name=The Girl King (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eb5ZOCpGj7PbTnJweuiqHixPPtD.jpg
+date=2019-01-02
+URL=https://openload.co/f/x7ulWVgf2Jg/The.Girl.King.2015.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Time Freak (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
@@ -8664,7 +8680,7 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 type=video
 name=
 thumb=
-date=2018-12-23
+date=2019-01-02
 URL=
 
 
@@ -8672,6 +8688,19 @@ URL=
 
 
 
+
+
+
+type=video
+name=Black Mirror: Bandersnatch (2018) ENG REPACK.1080p.WEB.X264-DEFLATE_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fR0VZ0VE598zl1lrYf7IfBqEwQ2.jpg
+date=2019-01-02
+URL=https://openload.co/f/QrJbMHximf0/Black.Mirror.Bandersnatch.2018.REPACK.1080p.WEB.X264-DEFLATE_SeeHD.mkv.mp4
+type=video
+name=Black Mirror: Bandersnatch (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fR0VZ0VE598zl1lrYf7IfBqEwQ2.jpg
+date=2019-01-02
+URL=https://openload.co/f/DDuwNVcfi6c/Black_Mirror%3A_Bandersnatch_%282018%29%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%81_%E0%B8%A1%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A3%E0%B8%AD%E0%B8%A3%E0%B9%8C%3A_%E0%B9%81%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B9%81%E0%B8%99%E0%B8%97%E0%B8%8A%E0%B9%8C_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -9135,6 +9164,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXXpuW2xaq5Aen9N5prFlARVIv
 date=2018-12-30
 URL=https://openload.co/f/sO4SSTJ1xig/Tag.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/iDj7iqqhKu0/Tag.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/Tf9tzNMi9L8/Tag.2018.1080p.BluRay-RARBG.mp4
 #https://openload.co/f/JdoYJAyTUkE/Tag.2018.1080p.BluRay.x264-GECKOS.mp4
 #https://openload.co/f/Y9JCxwZjw9A/Tag.2018.1080p.BluRay_x264-GECKOS.mkv   MKV7.7GB
 #https://openload.co/f/A52Q2c9ui-4/TAG_2018_720p_HD-TS_x264_HQ-24HD_SeeHD.mkv.mp4

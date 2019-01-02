@@ -129,12 +129,6 @@ http://103.77.116.191:443/documentary/asian_food_channel_480p.stream/chunklist.m
 
 
 
-#EXTINF:-1,euro news
-http://ewns-hls-p-cdn.hexaglobe.net/f0732b4029e0b188ea6e14ca0dbb72f7/58270937/euronews_eng.smil/playlist.m3u8
-
-
-
-
 #EXTINF:-1,RT Russia Today
 http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index1600.m3u8
 
@@ -1753,7 +1747,8 @@ http://51.15.201.17:8081/live/nuart/chunks.m3u8?nimblesessionid=2409502&wmsAuthS
 http://51.15.201.17:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAxOCA3OjUzOjQ5IEFNJmhhc2hfdmFsdWU9M1QwSzhmeDZGeXlURUtKMU9OeUhJUT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_hochu.tv
 http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggeb5d5e8a05072c1b0267a370d78c6dbbT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp134
+http://134.19.150.42:81/udp/239.195.6.33:1234
 
 
 
@@ -3288,18 +3283,9 @@ http://painel.soeu.kim:8080/marcelo/12345/8009
 http://stream1.grtn.cn/4K/playlist.m3u8
 #EXTINF:-1,ultrahd_CINEMA_rus
 http://85.112.114.12:8080/ch799/mpegts
-#EXTINF:-1,4K UHD 
-http://37.193.189.70:81/udp/239.1.22.1:1234 
-#EXTINF:-1,4K UHD 
-http://37.193.189.70:81/udp/239.1.22.3:1234 
-#EXTINF:-1,4K UHD 
-http://37.193.189.70:81/udp/239.1.22.2:1234 
-#EXTINF:-1,HOME 4K (UltraHD) 
-http://37.193.189.70:81/udp/239.1.22.4:1234 
-#EXTINF:-1,RUS (4K UltraHD) 
-http://37.193.189.70:81/udp/239.1.22.5:1234 
-#EXTINF:-1,INSIGHT UHD 
-http://37.193.189.70:81/udp/239.1.20.63:1234 
+#EXTINF:0,Home 4K 
+http://persik.by/stream/8682/252987/10292.m3u8 
+
 
 #EXTINF:-1 group-title="True Vision"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL_TH
 http://27.254.63.132:8081/tumlive/Disney/playlist.m3u8
@@ -3381,8 +3367,8 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 http://persik.by/stream/8682/252987/10003.m3u8
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv
 http://91.210.24.70:88/tv_nuart/video.m3u8
-#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp134
-http://134.19.150.42:81/udp/239.195.6.33:1234
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_ udp
+http://91.201.179.34:30001/udp/239.192.2.82:2121 
 
 
 
@@ -3406,6 +3392,8 @@ https://live.cgtn.com/1000/prog_index.m3u8
 https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png",NHK WORLD HD
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:0,Euronews (English) 
+http://persik.by/stream/8682/252987/10265.m3u8 
 #EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS_HD
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_HD
@@ -3423,12 +3411,8 @@ http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
 
-#EXTINF:0,Euronews (English) 
-http://persik.by/stream/8682/252987/10265.m3u8 
-#EXTINF:0,Home 4K 
-http://persik.by/stream/8682/252987/10292.m3u8 
-#EXTINF:0,VNTV
-http://studio1.vntvstudios.com:5380/live/MainStudio1.m3u8
+
+
 
 
 
