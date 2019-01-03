@@ -77,43 +77,46 @@ URL=http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/
 
 
 type=video
-name=
-thumb=
-date=2018-12-04
-URL=
+name=Downton Abbey 1.1
+thumb=https://static.akacdn.ru/static/images/2018/04/4715119d438b1e473d5db04158210e19.jpg
+date=2019-01-03
+URL=https://www.rapidvideo.com/e/FXD78WA9N1
 
 type=video
 name=
 thumb=
-date=2018-12-04
-URL=
+date=2019-01-03
+URL=https://www.rapidvideo.com/e/FTQ1NQSQK9
 
 type=video
 name=
 thumb=
-date=2018-12-04
-URL=
+date=2019-01-03
+URL=https://www.rapidvideo.com/e/FTQ1RGTKDM
 
 type=video
 name=
 thumb=
-date=2018-12-11
-URL=
+date=2019-01-03
+URL=https://www.rapidvideo.com/e/FTQ1SUTIYI
 
 type=video
 name=
 thumb=
-date=2018-12-11
-URL=
-
-
-
+date=2019-01-03
+URL=https://www.rapidvideo.com/e/FTQ1UZ85JY
 
 type=video
 name=
 thumb=
-date=2019-01-02
-URL=
+date=2019-01-03
+URL=https://www.rapidvideo.com/e/FXD7A0PYEZ
+
+type=video
+name=Downton Abbey 1.7
+thumb=
+date=2019-01-03
+URL=https://www.rapidvideo.com/e/FXD7BFBJ92
 
 
 
@@ -1403,11 +1406,24 @@ URL=
 
 
 
+
+type=video
+name=Time Trap (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e60WvvJzHwWCvnAylP307Q1jMHw.jpg
+date=2019-01-03
+URL=https://openload.co/f/PRZ9aDsdP1c/Time.Trap.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/-AU70jHGCrk/Time_Trap_2017_%5B1080p%5D_BluRay_x264-%5BYTS_AM%5D_mp4
+#https://uptobox.com/pz34yrjjy4lr
+#https://www.rapidvideo.com/e/FUE5VXS7FN
+#https://openload.co/embed/6koCXxOyz9Q/TIMETRAPBD72.Ganol.ru.mkv.mp4
+#https://openload.co/f/4FR6OWQnRqg/Time.Trap.2017.720p.BluRay.H264.AAC-RARBG.mp4
+
 type=video
 name=The Girl King (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eb5ZOCpGj7PbTnJweuiqHixPPtD.jpg
-date=2019-01-02
-URL=https://openload.co/f/x7ulWVgf2Jg/The.Girl.King.2015.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2019-01-03
+URL=https://openload.co/f/Idn7TPoRj3w/The.Girl.King.2015.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/x7ulWVgf2Jg/The.Girl.King.2015.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Time Freak (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
@@ -1581,24 +1597,7 @@ URL=https://uptobox.com/7i81h147jdlz
 #https://openload.co/f/rdeQMat_PxU/Night_School_2018_720p_TS-1XBET_SeeHD.mp4
 #https://openload.co/f/vmWxHB1gsaI/Night_School_2018_720p_TS-1XBET.mp4
 
-type=video
-name=Bad Times at the El Royale (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg
-date=2018-12-21
-URL=https://uptobox.com/4tkr5lbnblk7
-#https://fruithosts.net/embed/onqfenntcealncrk/GHPBADTIMEAATELROYALE80_Ganol_si_mkv
-#https://oload.fun/embed/YnYaztgb0fI/GHPBADTIMEAATELROYALE80.Ganol.si.mkv
-#https://openload.co/f/dAdtBrqh9GI/Bad_Times_at_the_El_Royale_%282018%291080p.BR.Ganool.mkv.mp4
-#https://openload.co/f/sOnmcV55AJM/Bad_Times_at_the_El_Royale_%282018%291080p.BR.Ganool.mkv   MKV1.8GB
-#https://openload.co/f/bXrSTrPU-YQ/Bad.Times.At.The.El.Royale.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/R82jVmSeSCg/Bad.Times.At.The.El.Royale.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/v6frXEL-WUc/Bad.Times.At.The.El.Royale.2018.720p.BRRip.x264.MkvCage.mkv.mp4
-#https://openload.co/f/Nij8ISMW9M0/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/s_HTF-gUpZs/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/bMb92lrgQ9M/Bad.Times.at.the.El.Royale.2018.720p.HDCAM.V2.1XBET.mp4
-#https://openload.co/f/nLYd3wx0TdA/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/tkfG_HP1Geg/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET.mp4
-#https://openload.co/f/fhhlvQypFAQ/Bad.Times.at.the.El.Royale.2018.HDCAM.XviD-AVID.avi.mp4
+
 
 type=video
 name=I Dream in Another Language (2017) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] | TMDB-82
@@ -2894,18 +2893,7 @@ date=2018-10-17
 URL=https://openload.co/f/fQuEOQv_fHM/A.Family.for.the.Holidays.2017.1080p.BluRay.x264-GETiT.mkv.mp4
 #https://openload.co/f/0xuaPYkEayA/A.Family.for.the.Holidays.2017.1080p.BluRay.x264-GETiT_hdmovie.mkv.mp4
 
-type=video
-name=Mandy (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0yf7J7HsKeK6E81SMRcX8vx6mH.jpg
-date=2018-10-17
-URL=https://uptobox.com/zii7ts2ws0y7
-#https://www.rapidvideo.com/e/FWBP52SAQ7
-#https://openload.co/embed/nT6IainjDLI/GHPMANDY80.Ganol.st.mkv
-#https://openload.co/f/3lJwmgQq1m8/Mandy_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
-#https://openload.co/f/ImWJqTCLRDA/Mandy.2018.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/GyhYVYMVeko/Mandy_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv   MKV1.7GB
-#https://openload.co/f/wGZ9UTyufpU/Mandy.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/bIkp4oovlBY/Mandy.720pHD_SeeHD.mkv.mp4
+
 
 type=video
 name=Lowlife (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3915,6 +3903,7 @@ URL=https://uptobox.com/ahbp2oclxgqa
 #https://www.rapidvideo.com/e/FTMIG0LM5R
 #https://openload.co/embed/i0ur79e9jiE/GHPBREAKININ80.Ganol.ru.mkv
 #https://openload.co/f/7JEnsgL5lZA/Breaking.In.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/Cj21XdpAMkU/Breaking.In.2018.1080p.BluRay-RARBG.mp4
 #https://openload.co/f/AvVl1XinRaM/Breaking_In.2018.Unrated.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 #https://openload.co/f/yuguQVD_tAM/Breaking_in_2018_HDCAM_ENG_X264-THAN0S_SeeHD.mkv.mp4
 
@@ -4135,11 +4124,12 @@ URL=https://openload.co/f/OHVdw944_ZY/palm.swings.2017.1080p.bluray.x264-getit.m
 #https://openload.co/f/a2lSwmmIIy4/Palm.Swings.2017.720p.BR_SeeHD.mp4
 
 type=video
-name=Disobedience (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Disobedience (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPsa2odqNRz4WJVd4f8yZWui3iu.jpg
 date=2018-07-11
 URL=https://openload.co/f/06swD85X9Y4/Disobedience.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/gq7J1RaEAaU/Disobedience.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/U7vjKiDIFpY/Disobedience.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://uptobox.com/f5ubc6ups2cm   720
 #https://openload.co/embed/I9_rxSvfhqQ/SHQDIS0BEDIENCEBD72.Ganol.ru.mkv.mp4
 #https://openload.co/f/N8q8Tb5VoAw/Disobedience%2B2018%2B720p%2BHDCAM%2BX264-SugarTtis.mp4
@@ -7773,15 +7763,7 @@ URL=https://uptobox.com/hf4fr8l1eqtj
 #https://openload.co/embed/SlmWc6Bfzfk/FIRSTREFORMEDBD72.Ganol.ru.mkv.mp4
 #https://openload.co/f/SJDacDpM7k8/First.Reformed.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Time Trap (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e60WvvJzHwWCvnAylP307Q1jMHw.jpg
-date=2018-08-20
-URL=https://openload.co/f/-AU70jHGCrk/Time_Trap_2017_%5B1080p%5D_BluRay_x264-%5BYTS_AM%5D_mp4
-#https://uptobox.com/pz34yrjjy4lr
-#https://www.rapidvideo.com/e/FUE5VXS7FN
-#https://openload.co/embed/6koCXxOyz9Q/TIMETRAPBD72.Ganol.ru.mkv.mp4
-#https://openload.co/f/4FR6OWQnRqg/Time.Trap.2017.720p.BluRay.H264.AAC-RARBG.mp4
+
 
 
 type=video
@@ -8689,6 +8671,53 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=Bad Times at the El Royale (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg
+date=2018-12-21
+URL=https://uptobox.com/4tkr5lbnblk7
+#https://fruithosts.net/embed/onqfenntcealncrk/GHPBADTIMEAATELROYALE80_Ganol_si_mkv
+#https://oload.fun/embed/YnYaztgb0fI/GHPBADTIMEAATELROYALE80.Ganol.si.mkv
+#https://openload.co/f/dAdtBrqh9GI/Bad_Times_at_the_El_Royale_%282018%291080p.BR.Ganool.mkv.mp4
+#https://openload.co/f/sOnmcV55AJM/Bad_Times_at_the_El_Royale_%282018%291080p.BR.Ganool.mkv   MKV1.8GB
+#https://openload.co/f/bXrSTrPU-YQ/Bad.Times.At.The.El.Royale.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/R82jVmSeSCg/Bad.Times.At.The.El.Royale.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/v6frXEL-WUc/Bad.Times.At.The.El.Royale.2018.720p.BRRip.x264.MkvCage.mkv.mp4
+#https://openload.co/f/Nij8ISMW9M0/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/s_HTF-gUpZs/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/bMb92lrgQ9M/Bad.Times.at.the.El.Royale.2018.720p.HDCAM.V2.1XBET.mp4
+#https://openload.co/f/nLYd3wx0TdA/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/tkfG_HP1Geg/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET.mp4
+#https://openload.co/f/fhhlvQypFAQ/Bad.Times.at.the.El.Royale.2018.HDCAM.XviD-AVID.avi.mp4
+type=video
+name=Bad Times at the El Royale (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg
+date=2019-01-03
+URL=https://openload.co/f/5fpil635oo4/Bad_Times_at_the_El_Royale_%282018%29%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%97%E0%B8%B5%E0%B9%88_%E0%B9%80%E0%B8%AD%E0%B8%A5_%E0%B9%82%E0%B8%A3%E0%B9%81%E0%B8%A2%E0%B8%A5_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Mandy (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0yf7J7HsKeK6E81SMRcX8vx6mH.jpg
+date=2018-10-17
+URL=https://uptobox.com/zii7ts2ws0y7
+#https://www.rapidvideo.com/e/FWBP52SAQ7
+#https://openload.co/embed/nT6IainjDLI/GHPMANDY80.Ganol.st.mkv
+#https://openload.co/f/3lJwmgQq1m8/Mandy_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+#https://openload.co/f/ImWJqTCLRDA/Mandy.2018.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/GyhYVYMVeko/Mandy_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv   MKV1.7GB
+#https://openload.co/f/wGZ9UTyufpU/Mandy.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/bIkp4oovlBY/Mandy.720pHD_SeeHD.mkv.mp4
+type=video
+name=Mandy (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0yf7J7HsKeK6E81SMRcX8vx6mH.jpg
+date=2019-01-03
+URL=https://openload.co/f/SAqtO1fng00/Mandy_%282018%29%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%9C%E0%B8%A1%E0%B9%84%E0%B8%9B_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
