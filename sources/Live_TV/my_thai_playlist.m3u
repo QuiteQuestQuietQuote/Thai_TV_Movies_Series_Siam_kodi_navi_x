@@ -3262,6 +3262,8 @@ http://stream.1music.hu/stream/1music.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1,melody
 http://watch.goldtv.ca:25461/live/royyash97@gmail.com/52tuor7XS2/23960.m3u8
+#EXTINF:-1,hitmusic
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/551035274344402946/ywxl9pq3_400x400.jpeg",100automoto
@@ -3332,18 +3334,8 @@ http://61.58.60.230:9000/live/257.m3u8
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/d2/37/1dd237c0-dc9f-43a2-a6f5-3b2e7f31e8ff/source/512x512bb.jpg",opensky_CHN
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
-#EXTINF:-1,sexy hot
-http://201.159.95.118:9016
-#EXTINF:-1,private
-http://109.239.133.130:8888/udp/224.200.238.10:1234
-#EXTINF:-1,french lover
-http://79.133.123.58:999/udp/239.191.254.251:15285
-#EXTINF:-1,FAP
-http://213.159.43.16:6689/stream?cid=4507
-#EXTINF:-1,maddyjoy
-https://camscdn.cams.com/camscdn/cdn-maddyjoy.m3u8
-#EXTINF:-1,blue hustler
-http://valeksex.iptvbot.ru/iptv/6HHHKCY4GUH8YV/1064/index.m3u8
+
+
 
 #EXTINF:-1,Ibiza TV3_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8
@@ -3416,8 +3408,7 @@ http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_newschat_electric
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
-#EXTINF:-1,World Busines Channel HD 
-http://109.74.223.255:1212/udp/233.12.144.120:5050 
+
 
 
 

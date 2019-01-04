@@ -120,11 +120,24 @@ URL=https://www.rapidvideo.com/e/FXD7BFBJ92
 
 
 
+type=video
+name=
+thumb=
+date=2019-01-04
+URL=
 
 
 
 
 
+
+
+type=video
+name=Once Upon a Deadpool (2018) ENG NEW.720p.HDCAM-1XBET
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ka49BWWyKMXr93YMbH5wLN7aAM.jpg
+date=2019-01-04
+URL=https://openload.co/f/s6sVYgkq9ps/Once.Upon.a.Deadpool.2018.NEW.720p.HDCAM-1XBET.mp4
+#https://openload.co/f/Z9Hz_lhk_Hg/Once.Upon.a.Deadpool.HDCAM.1XBET_SeeHD.mp4
 
 type=video
 name=The Favourite (2018) ENG DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD
@@ -264,14 +277,6 @@ URL=https://openload.co/f/HM-dmohGv4g/King_of_Thieves_2018_720p_TS-1XBET_SeeHD.m
 
 
 
-
-
-
-
-
-
-
-
 type=video
 name=A Star Is Born (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg
@@ -300,98 +305,11 @@ URL=https://openload.co/f/1IqteFDN-yY/The_Sisters_Brothers_1080pHD_SeeHD.mkv.mp4
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 type=video
 name=How It Ends (2018) ENG 1080p.NF.WEB-DL.DD5.1.H.264-SiGMA_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5Xf4RrQVrxSwV2MG3I5sSjBieX.jpg
 date=2018-07-13
 URL=https://openload.co/f/Lt5SYC2lJGo/How_It_Ends.2018.1080p.NF.WEB-DL.DD5.1.H.264-SiGMA_SeeHD.mkv.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -444,10 +362,6 @@ date=2018-01-31
 URL=https://openload.co/f/MwfYFAmhiOQ/9.11.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/WA9zqyMmKlA/9.11.2017.DVDRip.x264-PSYCHD.mkv.mp4
 
-
-
-
-
 type=video
 name=The Wind Guardians (2018) CHN WEB-4K%5D%5BHEVC%5D%5BCHI%5D%5BDD5.1%5D
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiqNwe7BNkUJyPLOgPxYZLdcA8y.jpg
@@ -460,6 +374,31 @@ URL=https://openload.co/f/BkQiBo75j44/The_Wind_Guardians_%5B2018%5D%5BWEB-4K%5D%
 
 
 
+
+
+
+
+
+type=video
+name=The Vanishing (2018) ENG 1080p.WEB-DL_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1A53JjLQodStijRMnDEdvjNr94a.jpg
+date=2019-01-04
+URL=https://openload.co/f/uF0vEitmtBM/The.Vanishing.2018.1080p.WEB-DL_SeeHD.mkv.mp4
+#https://openload.co/f/LMkEFA-Y47Y/The.Vanishing.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+
+type=video
+name=Beautiful Boy (2018) ENG 1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxWVLnkx9lPMqer70AZRR4OC3KS.jpg
+date=2019-01-04
+URL=https://openload.co/f/3zqSaWuW4l0/Beautiful.Boy.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/Lm7GB208YzE/Beautiful.Boy.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
+
+type=video
+name=Rust Creek (2019) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd8kbkcvdNTByYKDqY2FyxlhhCy.jpg
+date=2019-01-04
+URL=https://openload.co/f/C0ShLc6soQg/Rust.Creek.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/3-D4XvD6TGw/Rust.Creek.2018.720pHD_SeeHD.mkv.mp4
 
 
 
@@ -491,7 +430,7 @@ URL=https://openload.co/f/BkQiBo75j44/The_Wind_Guardians_%5B2018%5D%5BWEB-4K%5D%
 type=video
 name=
 thumb=
-date=2018-09-18
+date=2019-01-04
 URL=
 
 
@@ -1395,7 +1334,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-02
+date=2019-01-04
 URL=
 
 
@@ -1405,7 +1344,15 @@ URL=
 
 
 
-
+type=video
+name=The Super (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pErBZQBdOzhXM6eHZQWvLSNnaIu.jpg
+date=2019-01-04
+URL=https://uptobox.com/a1uydfg276s2
+#https://fruithosts.net/embed/kasneppnmfqqsrdp/THESUPE80_Ganol_si_mkv_mp4
+#https://oload.fun/embed/XUCKiWT-4k0/THESUPE80.Ganol.si.mkv.mp4
+#https://openload.co/f/9lMV7IwH9Cs/The_Super_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+#https://openload.co/f/xE7q8IWTRjU/The.Super.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Time Trap (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
@@ -4614,6 +4561,7 @@ date=2018-05-28
 URL=https://www.blazefile.co/embed-4yc47a8qgkbk.html
 #https://uptobox.com/75e19mcdc4hd
 #https://openload.co/embed/ahkZYW-c6KI/GHPTHROUGHBREDS80.Ganool.im.mkv
+#https://openload.co/f/qHFpCCvqlr8/Thoroughbreds.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/R6wD5XRa8KY/Thoroughbreds.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/OT7aKhuybJM/Thoroughbreds.2017.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/3N_By8enxCY/Thoroughbreds.2017.1080p.WEB-DL.DD5_1.H264-CMRG.mkv.mp4

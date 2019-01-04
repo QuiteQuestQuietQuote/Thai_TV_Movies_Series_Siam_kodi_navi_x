@@ -1269,6 +1269,7 @@ date=2018-09-28
 URL=https://uptobox.com/57mag8piky8j
 #https://www.rapidvideo.com/e/FVPPW0WUEK
 #https://openload.co/embed/8AsD7rPPBZw/GHPHOTEL3SUMERVACATION80.Ganol.st.mkv.mp4
+#https://openload.co/f/D3SykVhwCMA/Hotel.Transylvania.3.Summer.Vacation.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/4ruj3NyEoxM/Hotel.Transylvania.3.Summer.Vacation.2018.1080p.BluRay.H264.AAC-RARBG_21CNPX.mp4
 #https://openload.co/f/1SpcO0B8C8g/Hotel_Transylvania_3%3A_Summer_Vacation_%282018%291080p_BluRay_x264-BLOW.Ganool.mkv.mp4
 #https://openload.co/f/w9bUqy-SRPM/hotel.transylvania.3.summer.vacation.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
