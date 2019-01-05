@@ -281,6 +281,11 @@ player=default
 rating=-1.00
 description=Carmilla comes to a rural town where her mother mysteriously disappeared years earlier. She is aided in her quest by an emotionally troubled local girl, with whom she becomes romantically involved. Their relationship ignites the wrath of the girl's father, who holds the key to the dreadful truth Carmilla is seeking. Inspired by Joseph Sheridan Le Fanu's famed Gothic novella./description
 
+
+type=video
+name=Andron (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-37
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d876BP9dfd4zBJJxEj4MTaVBVfR.jpg
+URL=https://openload.co/f/1E1yTnCtyC8/Andron.2015.1080p.BluRay.H264.AAC-RARBG.mp4
 # 2770458
 type=video
 name=Andron (2015)
@@ -289,6 +294,7 @@ URL=https://openload.co/f/dMVHs9WT-T4/Andr%C3%B2n_The_Black_Labyrinth_%282015%29
 player=default
 rating=-1.00
 description=A group of people are plunged into a dark, claustrophobic maze, where they must fight to survive, as the outside world watches./description
+
 
 # 2770457
 type=video

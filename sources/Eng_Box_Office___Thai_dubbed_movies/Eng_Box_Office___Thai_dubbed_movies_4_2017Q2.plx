@@ -91,11 +91,18 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8daDzP0vFOnGyKmve95Yv0D0i
 date=2017-06-24
 URL=https://openload.co/f/gEpBLRRI0uY/%7BMINI_Super-HQ%7D_Manchester.by.the.Sea.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
 
+
+type=video
+name=My Tomorrow, Your Yesterday (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-74
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtRJKkspD4pv3fd2lO2cT93dpzq.jpg
+date=2019-01-05
+URL=https://openload.co/f/0-Ja99c6GSw/my.tomorrow.your.yesterday.2016.1080p.bluray.x264-regret.mkv.mp4
 type=video
 name=Tomorrow I Will Date With Yesterday's You (2016)
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d08esTPg1N7xEn86wf5GD4yfkLI.jpg
 date=2017-06-24
 URL=https://openload.co/f/MAZsalmtWLA/%7BMINI_Super-HQ%7D_Tomorrow.I.Will.Date.with.Yesterday%27s.You.2016.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
+
 
 type=video
 name=Sky on Fire (2016)

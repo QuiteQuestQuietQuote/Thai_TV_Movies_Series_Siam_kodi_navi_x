@@ -3277,6 +3277,8 @@ http://cars-and-stars-tv-hls1.cosmonova.net.ua/hls/cars-and-stars-tv_ua_hi/index
 https://ftach5.akamaized.net/out/v1/0b05c17bddbd459f874d7cd3b2df9464/index_3.m3u8
 #EXTINF:-1,mediacorp8
 http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_5.m3u8
+#EXTINF:-1,hdmedia_3D
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 #EXTINF:-1,BesTV4K_CHN
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000499/index.m3u8
 #EXTINF:-1,CINEMA 4K 
@@ -3329,6 +3331,8 @@ http://195.88.144.86:8000/play/101
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_HD
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/01.m3u8
+#EXTINF:-1  tvg-logo="http://www.tv.bunjerd.com/static/image/tv_radio/tv/saradee.jpg",PSI_3bb
+http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcast73_psi_live1.stream/playlist.m3u8?username=Dsv9FD4MwveVFr8t1Rv4zFz4SP5VGKXa&password=Bn2hmCVmFkosNRQ0NeRVau9ls04J5cbt
 #EXTINF:-1  tvg-logo="http://www.taiwancinema.com/ImageData/322/2018/79185/t_79185.png",cnex
 http://61.58.60.230:9000/live/257.m3u8
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/d2/37/1dd237c0-dc9f-43a2-a6f5-3b2e7f31e8ff/source/512x512bb.jpg",opensky_CHN
