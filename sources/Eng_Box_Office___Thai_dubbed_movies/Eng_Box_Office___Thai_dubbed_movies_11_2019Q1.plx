@@ -80,43 +80,43 @@ type=video
 name=Downton Abbey 1.1
 thumb=https://static.akacdn.ru/static/images/2018/04/4715119d438b1e473d5db04158210e19.jpg
 date=2019-01-03
-URL=https://www.rapidvideo.com/e/FXD78WA9N1
+URL=https://www.rapidvideo.com/e/FXD78WA9N1&q=720p
 
 type=video
 name=
 thumb=
 date=2019-01-03
-URL=https://www.rapidvideo.com/e/FTQ1NQSQK9
+URL=https://www.rapidvideo.com/e/FTQ1NQSQK9&q=720p
 
 type=video
 name=
 thumb=
 date=2019-01-03
-URL=https://www.rapidvideo.com/e/FTQ1RGTKDM
+URL=https://www.rapidvideo.com/e/FTQ1RGTKDM&q=720p
 
 type=video
 name=
 thumb=
 date=2019-01-03
-URL=https://www.rapidvideo.com/e/FTQ1SUTIYI
+URL=https://www.rapidvideo.com/e/FTQ1SUTIYI&q=720p
 
 type=video
 name=
 thumb=
 date=2019-01-03
-URL=https://www.rapidvideo.com/e/FTQ1UZ85JY
+URL=https://www.rapidvideo.com/e/FTQ1UZ85JY&q=720p
 
 type=video
 name=
 thumb=
 date=2019-01-03
-URL=https://www.rapidvideo.com/e/FXD7A0PYEZ
+URL=https://www.rapidvideo.com/e/FXD7A0PYEZ&q=720p
 
 type=video
 name=Downton Abbey 1.7
 thumb=
 date=2019-01-03
-URL=https://www.rapidvideo.com/e/FXD7BFBJ92
+URL=https://www.rapidvideo.com/e/FXD7BFBJ92&q=720p
 
 
 
@@ -1366,6 +1366,7 @@ name=Jonathan (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTd0PBJkA1HLM9yImDnRZDzGAwb.jpg
 date=2019-01-05
 URL=https://openload.co/f/Qab-FuwIles/Jonathan.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/yhO83yPT9oE/Jonathan.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/QJmU24naokc/jonathan.2018.1080p.bluray.x264-rovers.mkv.mp4
 #https://openload.co/f/hmpkmpBtAdA/Jonathan.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
@@ -1405,6 +1406,7 @@ URL=https://uptobox.com/5i0ndfxwj4lf
 #https://openload.co/f/5BDxqxM_BFE/Solis_%282018%291080p_BluRay_x264-WiSDOM.Ganool.mkv.mp4
 #https://openload.co/f/YManiVwBxI4/Solis.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/r6PXH792aZY/Solis.2018.1080p.BluRay.x264-WiSDOM.mkv.mp4
+#https://openload.co/f/z-IEUd2mtgI/Solis.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Curse of the Nun (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-38
@@ -1459,7 +1461,6 @@ URL=https://uptobox.com/wc27td5z6q6g
 #https://fruithosts.net/embed/klcfrnosqfoqtfbk/ASHER80_Ganol_si_mkv_mp4
 #https://oload.fun/embed/fX0OIHlgJu8/ASHER80.Ganol.si.mkv.mp4
 #https://openload.co/f/4EWv-PjOtEo/Asher_%282018%291080p_BluRay_x264_DTS-MT.Ganool.mkv.mp4
-#https://openload.co/f/OVgdZk1u-Zo/Iceman.The.Time.Traveller.2018.ENG.SUB.1080p.BluRay.H264.AAC.mkv.mp4
 #https://openload.co/f/sr0sJuJsLtE/Asher.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/fLLPAnLtu4Q/Asher.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
 
@@ -5979,6 +5980,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF2IoKL0IFmumEXQFUuB8LajTY
 date=2018-02-10
 URL=https://www.blazefile.co/embed-p5il025fjv1o.html
 https://uptobox.com/j7289p2alzk4
+#https://openload.co/f/Fiym7ash74M/Daddys.Home.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/sIN1JopPsi4/Daddys.Home.2.2017.1080p.BluRay.x264-BLOW.mkv.mp4
 #https://openload.co/f/fo9-1pnFmio/Daddys.Home.2.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/FC1fJ8taIqA/Daddys.Home.2.2017.HDTS.x264-EZIS.mkv.mp4
@@ -11387,6 +11389,7 @@ date=2019-01-01
 URL=https://uptobox.com/prn9voky3pd9
 #https://fruithosts.net/embed/drsaeqmndqdsfclq/Iceman_The_Time_Traveller_2018_BluRay_1080p_5_1CH_x264_Ganol_si_mkv
 #https://streamango.com/f/lfqcbreflafklobo/Iceman_The_Time_Traveller_2018_BluRay_1080p_5_1CH_x264_Ganol_si_mkv_mp4
+#https://openload.co/f/OVgdZk1u-Zo/Iceman.The.Time.Traveller.2018.ENG.SUB.1080p.BluRay.H264.AAC.mkv.mp4
 #https://openload.co/f/ZzGTE09HYx4/Iceman.The.Time.Traveller.2018.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
 #https://openload.co/f/cLPBNDhPxWQ/Iceman.The.Time.Traveller.2018.1080p.BluRay.x264-WiKi.mkv.mp4
 type=video
