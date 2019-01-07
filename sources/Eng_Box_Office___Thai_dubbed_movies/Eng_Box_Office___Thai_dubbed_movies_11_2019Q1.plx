@@ -123,7 +123,7 @@ URL=https://www.rapidvideo.com/e/FXD7BFBJ92&q=720p
 type=video
 name=
 thumb=
-date=2019-01-04
+date=2019-01-07
 URL=
 
 
@@ -131,6 +131,16 @@ URL=
 
 
 
+
+
+
+type=video
+name=Vice (2018) ENG DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0NZxqQ4B8YZ6kRrZish2DPqtdi.jpg
+date=2019-01-07
+URL=https://openload.co/f/Iq_875xBRo4/The.Vice.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD.avi.mp4
+#https://openload.co/f/6WDFIgBwzu8/The.Vice.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/C6oiCu1imAk/The.Vice.2018.DVDSCR.MkvCage.ws.mkv.mp4
 
 type=video
 name=Once Upon a Deadpool (2018) ENG NEW.720p.HDCAM-1XBET
@@ -211,12 +221,7 @@ date=2018-12-10
 URL=https://openload.co/f/8STRsbaq3Eo/The_Possession_of_Hannah_Grace_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
 
-type=video
-name=The Old Man & the Gun (2018) ENG 1080p.WEBRip.x264.AAC2.0-SHITBOX
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ra3UlOwcPwj5euC2jbhga7IH5i.jpg
-date=2018-12-31
-URL=https://openload.co/f/g_500AUZM8k/The.Old.Man.and.the.Gun.2018.1080p.WEBRip.x264.AAC2.0-SHITBOX.mp4
-#https://openload.co/f/g9GNdZG7yBA/The_Old.Man.and.the.Gun.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+
 
 
 
@@ -1334,7 +1339,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-05
+date=2019-01-07
 URL=
 
 
@@ -1346,6 +1351,56 @@ URL=
 
 
 
+
+
+type=video
+name=Speed Kills (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-51
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbUuMnQPrNpSNPkUwM7WaX6fVit.jpg
+date=2019-01-07
+URL=https://openload.co/f/5NlU4QI-M6c/Speed.Kills.2018.1080p.BluRay.x264-SADPANDA.mkv.mp4
+#https://openload.co/f/gw9Jt2_UYXA/Speed.Kills.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/7p0PHfDVaxk/Speed.Kills.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+
+type=video
+name=The Rider (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-75
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpaT0nA7pLPAmXYGra6sUS95hFB.jpg
+date=2019-01-07
+URL=https://openload.co/f/zLH2WVc8jBU/the.rider.2017.1080p.bluray.x264-brmp.mkv.mp4
+#https://openload.co/f/hnMp7d25Gf8/The.Rider.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/veUleto88sU/The_Rider_%282017%291080p_BluRay_x264-BRMP.Ganool.mkv.mp4
+
+type=video
+name=Lady Chatterley's Lover (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwbhWcYXqxQecgHtecAJKgjkPQa.jpg
+date=2019-01-07
+URL=https://openload.co/f/1wtSjfeOPYw/Lady.Chatterleys.Lover.2015.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/zFkoP4eMMLM/Lady.Chatterleys.Lover.2015.720p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Old Man & the Gun (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ra3UlOwcPwj5euC2jbhga7IH5i.jpg
+date=2019-01-07
+URL=https://openload.co/f/2ooPtU378Ds/The.Old.Man.%26.The.Gun.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/g_500AUZM8k/The.Old.Man.and.the.Gun.2018.1080p.WEBRip.x264.AAC2.0-SHITBOX.mp4
+#https://openload.co/f/g9GNdZG7yBA/The_Old.Man.and.the.Gun.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+
+type=video
+name=Survival Family (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPcPmSuhqWfR62kX0zXSrDZmklS.jpg
+date=2019-01-07
+URL=https://openload.co/f/dqxNMQKAzVY/survival.family.2016.1080p.bluray.x264-regret.mkv.mp4
+
+type=video
+name=The Footballest (2018) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] | TMDB-61
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddIpRudVq0kzq5LAiML8i5wB8x3.jpg
+date=2019-01-07
+URL=https://openload.co/f/gw6-1elbuwQ/the.footballest.2018.1080p.bluray.x264-bipolar.mkv.mp4
+
+type=video
+name=Yucatán (2018) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6z3f3I2YLpaipyYGItOf7c7kqRK.jpg
+date=2019-01-07
+URL=https://openload.co/f/IvxamoRLX_Y/yucatan.2018.1080p.bluray.x264-bipolar.mkv.mp4
 
 type=video
 name=Mobile Suit Gundam Thunderbolt: December Sky (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-73
@@ -1360,14 +1415,17 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ewwnbHLMvggNlUlDNi4jkkqQ2
 date=2019-01-05
 URL=https://openload.co/f/MC6g08am2yY/Death.Kiss.UNCUT.2018.1080p.BluRay.x264-WiSDOM.mkv.mp4
 #https://openload.co/f/TS8kwZbKY60/Death.Kiss.UNCUT.2018.1080p.BluRay.x264-WiSDOM.mkv   MKV6.6GB
+#https://openload.co/f/3YLSCfr00-Q/Death.Kiss.UNCUT.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Jonathan (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTd0PBJkA1HLM9yImDnRZDzGAwb.jpg
 date=2019-01-05
-URL=https://openload.co/f/Qab-FuwIles/Jonathan.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+URL=https://openload.co/f/QJmU24naokc/jonathan.2018.1080p.bluray.x264-rovers.mkv.mp4
+#https://openload.co/f/Qab-FuwIles/Jonathan.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/yhO83yPT9oE/Jonathan.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/QJmU24naokc/jonathan.2018.1080p.bluray.x264-rovers.mkv.mp4
+#https://openload.co/f/nHq2y8ygP48/Jonathan.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/hmpkmpBtAdA/Jonathan.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
@@ -1380,7 +1438,8 @@ type=video
 name=Madeline's Madeline (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLSk7e0oI1kfPluQtmQd9aUu0Qu.jpg
 date=2019-01-05
-URL=https://openload.co/f/gkrqirR89d8/Madelines.Madeline.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+URL=https://openload.co/f/R1Qe5Yu8JyA/madelines.madeline.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/gkrqirR89d8/Madelines.Madeline.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/R1Qe5Yu8JyA/madelines.madeline.2018.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/act5w_ZOGkQ/Madelines.Madeline.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/1tY5IWi41I4/Madelines.Madeline.2018.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -1392,6 +1451,7 @@ date=2019-01-05
 URL=https://uptobox.com/bb228iaq2awx
 #https://fruithosts.net/embed/ebbrqrombrrcerqq/MONSTERANDMEN80_Ganol_si_mkv_mp4
 #https://oload.fun/embed/1ypeIoV3U6U/MONSTERANDMEN80.Ganol.si.mkv.mp4
+#https://openload.co/f/KwE1hh7hi1U/Monsters.And.Men.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/XtTAAFxAWac/Monsters.And.Men.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/S6rrtMvG_ag/monsters.and.men.2018.limited.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/mnzQike8y7I/Monsters_and_Men_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
@@ -1412,8 +1472,9 @@ type=video
 name=Curse of the Nun (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-38
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ksU3xPkEnfd7XClq7c2owSTKIA.jpg
 date=2019-01-05
-URL=https://openload.co/f/hMcs29qRTfk/Curse.Of.The.Nun.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/4s0ijWlHQ4w/curse.of.the.nun.2018.1080p.bluray.x264-getit.mkv.mp4
+URL=https://openload.co/f/4s0ijWlHQ4w/curse.of.the.nun.2018.1080p.bluray.x264-getit.mkv.mp4
+#https://openload.co/f/hMcs29qRTfk/Curse.Of.The.Nun.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/X-TPnoevvP8/Curse.Of.The.Nun.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=The Super (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
@@ -1424,6 +1485,7 @@ URL=https://uptobox.com/a1uydfg276s2
 #https://oload.fun/embed/XUCKiWT-4k0/THESUPE80.Ganol.si.mkv.mp4
 #https://openload.co/f/9lMV7IwH9Cs/The_Super_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
 #https://openload.co/f/xE7q8IWTRjU/The.Super.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/BakXaajrudM/The.Super.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Time Trap (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
@@ -1439,8 +1501,9 @@ URL=https://openload.co/f/PRZ9aDsdP1c/Time.Trap.2017.1080p.BluRay.H264.AAC-RARBG
 type=video
 name=The Girl King (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eb5ZOCpGj7PbTnJweuiqHixPPtD.jpg
-date=2019-01-03
-URL=https://openload.co/f/Idn7TPoRj3w/The.Girl.King.2015.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2019-01-07
+URL=https://openload.co/f/xpGOitIr2xk/The.Girl.King.2015.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
+#https://openload.co/f/Idn7TPoRj3w/The.Girl.King.2015.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/x7ulWVgf2Jg/The.Girl.King.2015.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
@@ -1669,6 +1732,7 @@ URL=https://uptobox.com/vpvfwb684fph
 #https://openload.co/f/8Mv9-Uxmpcg/Ladies.in.Black.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/B20LiuSLIbg/Ladies.in.Black.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/4qXE-50Yxgg/Ladies.In.Black.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/raT1-25A0pE/Ladies.In.Black.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=They Shall Not Grow Old (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-90
@@ -11408,6 +11472,7 @@ URL=https://uptobox.com/npvc5pt0bm6l
 #https://oload.fun/embed/_lNtiq1ihOI/GHPGOOSEBUMPS280.Ganol.si.mkv
 #https://openload.co/f/Idz8SxJPeoQ/Goosebumps_2%3A_Haunted_Halloween_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
 #https://openload.co/f/O61GLxdoW4g/Goosebumps_2%3A_Haunted_Halloween_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv   MKV1.3GB
+#https://openload.co/f/yVvwQwlV7KQ/Goosebumps.2.Haunted.Halloween.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/l1m3XIPTI0k/Goosebumps.2.Haunted.Halloween.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/6vHpDiADtPw/Goosebumps.2.Haunted.Halloween.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/dEvuL2egwe8/goosebumps.2.haunted.halloween.2018.1080p.bluray.x264-geckos.mkv.mp4
@@ -11426,31 +11491,7 @@ date=2018-12-29
 URL=https://openload.co/f/wgh5x6e0Vp8/Goosebumps_2%3A_Haunted_Halloween_%282018%29%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%82%E0%B8%99%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B8%E0%B8%81_2_%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%9D%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
-type=video
-name=Johnny English Strikes Again (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg
-date=2018-12-19
-URL=https://uptobox.com/dixf0dz9an0c
-#https://openload.co/f/v8_Xkcp28YQ/Johnny.English.Strikes.Again.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/VYwEfQ4wT1I/Johnny.English.Strikes.Again.2018.1080p.BluRay.X264-DEFLATE.mkv.mp4
-#https://openload.co/f/5_CW4NN26gk/Johnny_English_Strikes_Again_2018_1080p_BluRay_x264_DTS-FGT.mkv.mp4
-#https://openload.co/f/5a1KrdDDoZ4/Johnny.English.Strikes.Again.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
-#https://openload.co/f/y3o5oYljr9g/Johnny.English.Strikes.Again.2018.1080p.BluRay.DTS.X264-CMRG.mkv   MKV7.7GB
-#https://openload.co/f/wJd01mbimp4/Johnny.English.Strikes.Again.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/TWMP-4EEMsU/Johnny.English.Strikes.Again.2018.1080p.BluRay.AC3.MkvCage.ws.mkv.mp4
-#https://openload.co/f/Z8vsSSRDjqM/Johnny_English_Strikes_Again_2018.720p.BDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/Y-PpEgDzzxA/Johnny_English_Strikes_Again_2018.720p.BDRip.X264.AC3-EVO.mkv   MKV2.6GB
-#https://openload.co/f/2MqSe98cW1I/Johnny_English_Strikes_Again_2018_New_Src_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/UskKUo3454o/Johnny.English.Strikes.Again.2018.NOLOGO.ENG.CAM.mp4
-#https://openload.co/f/_9UhDKqWNdE/Johnny.English.Strikes.Again.2018.ENG.CAM.x264-1XBET.mp4
-#https://openload.co/f/wa-j50y9Jh8/Johnny.English.Strikes.Again.2018.CAM.LATINO.1XBE-314p.mp4
-#https://openload.co/f/s2ehJnBuZnA/Johnny_English_Strikes_Again_2018_Movies_HD_Cam_x264_LAT_Clean_Audio_AAC_New_Source_rDX.mp4
-type=video
-name=Johnny English Strikes Again (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg
-date=2018-12-19
-URL=https://openload.co/f/plt3QPzZy8Y/Johnny_English_Strikes_Again_%282018%29%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%88_%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%B4%E0%B8%8A_%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%81_%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/o7Lz3ohcezc/Johnny_English_Strikes_Again_%282018%29%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%88_%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%B4%E0%B8%8A_%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%81_%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
@@ -11531,6 +11572,7 @@ URL=https://uptobox.com/6xu4ghg973d7
 #https://fruithosts.net/embed/fboptlnmqqnppdme/GHPHALLOWEEN80_Ganol_si_mkv_mp4
 #https://oload.fun/embed/S8k8mqTHb0o/GHPHALLOWEEN80.Ganol.si.mkv.mp4
 #https://openload.co/f/p09HMjpk1MM/Halloween_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
+#https://openload.co/f/1vqgiPrlgQ4/Halloween.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/foXM3cvSblI/Halloween.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/sG5xX_B1_R4/Halloween.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/P3yR1b2UybQ/halloween.2018.1080p.bluray.x264-sparks.mkv.mp4
@@ -11574,30 +11616,7 @@ URL=https://openload.co/f/yHnvNOtzaro/Animal_World_%282018%29%E0%B9%80%E0%B8%88%
 #https://streamango.com/f/kkafqdmfscfdklql/Animal_World_2018_
 
 
-type=video
-name=The House with a Clock in Its Walls (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
-date=2018-12-19
-URL=https://uptobox.com/1q0rfvij91ox
-#https://openload.co/f/I6UWgTEu_Yg/The.House.with.a.Clock.in.Its.Walls.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/hcOBGroGxcA/The.House.With.A.Clock.In.Its.Walls.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/ZOURk9yzRu0/The_House_With_a_Clock_In_Its_Walls_1080pHD_SeeHD.mkv.mp4
-#https://openload.co/f/hcOBGroGxcA/The.House.With.A.Clock.In.Its.Walls.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/KKE_4IkrpDI/The.House.with.a.Clock.in.Its.Walls.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/-5AMq1L5PfA/The_House_with_a_Clock_in_Its_Walls_2018_1080p_WEB_DL_DD5_1_H264_FGT.mkv.mp4
-#https://openload.co/f/bbsEl9Bd23U/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.1XBET.mp4
-#https://openload.co/f/TeEYnby1KLk/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.mp4
-#https://openload.co/f/wEeCU8Vy4Vk/housewithclockinitswall.HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/5VmvSCnLG3U/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/U1vqLDgenNU/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET.mp4-536p.mp4
-#https://openload.co/f/WJCwV2VC7Y8/The_House_with_a_Clock_in_Its_Walls_2018_HDCAM_NO_WATERMARK_Layar.mp4
-#https://openload.co/f/qsPshoGW8PY/The.House.with.a.Clock.in.its.Walls.2018.HDCAM.XviD-AVID.avi.mp4
-type=video
-name=The House with a Clock in Its Walls (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
-date=2018-11-30
-URL=https://openload.co/f/tx0niutUSFM/The_House_with_a_Clock_in_Its_Walls_%282018%29%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/tqS3UUEV60s/The_House_with_a_Clock_in_Its_Walls_%282018%29%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
@@ -12102,10 +12121,59 @@ URL=
 
 
 
+type=video
+name=Johnny English Strikes Again (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg
+date=2018-12-19
+URL=https://uptobox.com/dixf0dz9an0c
+#https://openload.co/f/v8_Xkcp28YQ/Johnny.English.Strikes.Again.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/VYwEfQ4wT1I/Johnny.English.Strikes.Again.2018.1080p.BluRay.X264-DEFLATE.mkv.mp4
+#https://openload.co/f/5_CW4NN26gk/Johnny_English_Strikes_Again_2018_1080p_BluRay_x264_DTS-FGT.mkv.mp4
+#https://openload.co/f/5a1KrdDDoZ4/Johnny.English.Strikes.Again.2018.1080p.BluRay.DTS.X264-CMRG.mkv.mp4
+#https://openload.co/f/y3o5oYljr9g/Johnny.English.Strikes.Again.2018.1080p.BluRay.DTS.X264-CMRG.mkv   MKV7.7GB
+#https://openload.co/f/wJd01mbimp4/Johnny.English.Strikes.Again.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/TWMP-4EEMsU/Johnny.English.Strikes.Again.2018.1080p.BluRay.AC3.MkvCage.ws.mkv.mp4
+#https://openload.co/f/Z8vsSSRDjqM/Johnny_English_Strikes_Again_2018.720p.BDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/Y-PpEgDzzxA/Johnny_English_Strikes_Again_2018.720p.BDRip.X264.AC3-EVO.mkv   MKV2.6GB
+#https://openload.co/f/2MqSe98cW1I/Johnny_English_Strikes_Again_2018_New_Src_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/UskKUo3454o/Johnny.English.Strikes.Again.2018.NOLOGO.ENG.CAM.mp4
+#https://openload.co/f/_9UhDKqWNdE/Johnny.English.Strikes.Again.2018.ENG.CAM.x264-1XBET.mp4
+#https://openload.co/f/wa-j50y9Jh8/Johnny.English.Strikes.Again.2018.CAM.LATINO.1XBE-314p.mp4
+#https://openload.co/f/s2ehJnBuZnA/Johnny_English_Strikes_Again_2018_Movies_HD_Cam_x264_LAT_Clean_Audio_AAC_New_Source_rDX.mp4
+type=video
+name=Johnny English Strikes Again (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg
+date=2019-01-07
+URL=https://openload.co/f/5cW_N1YaSac/Johnny_English_Strikes_Again_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%81_%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99.mp4
+#https://openload.co/f/plt3QPzZy8Y/Johnny_English_Strikes_Again_%282018%29%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%88_%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%B4%E0%B8%8A_%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%81_%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/o7Lz3ohcezc/Johnny_English_Strikes_Again_%282018%29%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%88_%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%B4%E0%B8%8A_%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C_%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%81_%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-
-
+type=video
+name=The House with a Clock in Its Walls (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
+date=2018-12-19
+URL=https://uptobox.com/1q0rfvij91ox
+#https://openload.co/f/I6UWgTEu_Yg/The.House.with.a.Clock.in.Its.Walls.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/hcOBGroGxcA/The.House.With.A.Clock.In.Its.Walls.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/ZOURk9yzRu0/The_House_With_a_Clock_In_Its_Walls_1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/hcOBGroGxcA/The.House.With.A.Clock.In.Its.Walls.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/KKE_4IkrpDI/The.House.with.a.Clock.in.Its.Walls.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/-5AMq1L5PfA/The_House_with_a_Clock_in_Its_Walls_2018_1080p_WEB_DL_DD5_1_H264_FGT.mkv.mp4
+#https://openload.co/f/bbsEl9Bd23U/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.1XBET.mp4
+#https://openload.co/f/TeEYnby1KLk/The.House.with.a.Clock.in.Its.Walls.2018.720p.WEBRip.mp4
+#https://openload.co/f/wEeCU8Vy4Vk/housewithclockinitswall.HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/5VmvSCnLG3U/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/U1vqLDgenNU/The_House_with_a_Clock_in_Its_Walls_2018_720p_HDCAM-1XBET.mp4-536p.mp4
+#https://openload.co/f/WJCwV2VC7Y8/The_House_with_a_Clock_in_Its_Walls_2018_HDCAM_NO_WATERMARK_Layar.mp4
+#https://openload.co/f/qsPshoGW8PY/The.House.with.a.Clock.in.its.Walls.2018.HDCAM.XviD-AVID.avi.mp4
+type=video
+name=The House with a Clock in Its Walls (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/plpP0LPm87Atd5GtrT15IBsvXNb.jpg
+date=2019-01-07
+URL=https://openload.co/f/nBNljCj1njM/The_House_with_a_Clock_in_Its_Walls_%282018%29%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C.mp4
+#https://openload.co/f/tx0niutUSFM/The_House_with_a_Clock_in_Its_Walls_%282018%29%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/tqS3UUEV60s/The_House_with_a_Clock_in_Its_Walls_%282018%29%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%AC%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video

@@ -56,37 +56,6 @@ http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_for-our
 http://main-a.for-our.info:8081/tv1/ch5.m3u8
 
-#EXTINF:-1 group-title="Free TV"tvg-logo="https://www.doohdbox.com/assets/20170710190257130955573.jpg",NATION CHANNEL_for-our
-http://main-a.for-our.info:8081/tv1/ch8.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24_thflixCH
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/108.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",NATION_thflixCH
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/86.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24_violin22
-http://symc-cdn02.bkk02.violin.co.th:1935/liveedge/308360140120_300/chunklist_w1225057374.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24_violin12
-http://symc-cdn01.bkk02.violin.co.th:1935/liveedge/308360140120_600/chunklist.m3u8
-
-#EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-m0CQiNgIFsE/WdLYrwlVJvI/AAAAAAAAAGQ/LN6pm_WcDJ49YL-0K_ytg9L2yWfZw4r6ACLcBGAs/s200/009.png",Spring News (Full HD)
-http://122.155.184.11/T1457077260/ngrp:livestream_all/chunklist_w1537817334_b3628000.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-m0CQiNgIFsE/WdLYrwlVJvI/AAAAAAAAAGQ/LN6pm_WcDJ49YL-0K_ytg9L2yWfZw4r6ACLcBGAs/s200/009.png",spring_news HD
-http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/chunklist.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-m0CQiNgIFsE/WdLYrwlVJvI/AAAAAAAAAGQ/LN6pm_WcDJ49YL-0K_ytg9L2yWfZw4r6ACLcBGAs/s200/009.png",Spring News_1080p
-https://stream.spcdn.co/T1457077260/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV_SD
-http://live.nationtv.tv/hls/ntv_th.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV_violin
-http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308498221057_600/chunklist_w1751624082.m3u8
-
-
-
-
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS_violin
-http://symc-cdn05.bkk01.violin.co.th:1935/liveedge/308950239342_600/playlist.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-78GF6EILICQ/WdLY86RqA2I/AAAAAAAAAKo/S5bt-Os6t2gfJDHdHdpHh9l70FR9F2IOQCLcBGAs/s320/079.png",TNN24_103
-http://103.77.116.184:8800/news/tnn24_480p.stream/chunklist.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV_103
-http://103.77.116.184:8800/news/nation_tv_480p.stream/chunklist.m3u8
 
 
 
@@ -159,22 +128,6 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CNN_INTERNACIONAL)/
 
 
 
-#EXTINF:-1,RT News HD
-http://secure-streams.akamaized.net/rt/index1600.m3u8
-#EXTINF:-1,RT America HD
-http://secure-streams.akamaized.net/rt-usa/index1600.m3u8
-#EXTINF:-1,RT Documentary HD
-https://secure-streams.akamaized.net/rt-doc/index1600.m3u8
-#EXTINF:-1,Bloomberg...
-http://127.0.0.1:6689/stream?cid=4022
-#EXTINF:-1,Bloomberg UK
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1,Bloomberg TV Europe
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1,Bloomberg News US HD
-https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1,NewsmaxTV HD
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
 
 
@@ -3338,8 +3291,12 @@ http://61.58.60.230:9000/live/257.m3u8
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/d2/37/1dd237c0-dc9f-43a2-a6f5-3b2e7f31e8ff/source/512x512bb.jpg",opensky_CHN
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
-
-
+#EXTINF:-1,red adult15943
+http://formen1.com:8080/creative35/35creative/15943
+#EXTINF:-1,red adult15942
+http://formen1.com:8080/creative35/35creative/15942
+#EXTINF:-1,vermint
+http://valeksex.iptvbot.ru/iptv/6HHHKCY4GUH8YV/922/index.m3u8
 
 #EXTINF:-1,Ibiza TV3_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8
@@ -3397,7 +3354,7 @@ https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews (English) 
 http://persik.by/stream/8682/252987/10265.m3u8 
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews (English) 
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews
 https://euronews-en-p9-cdn.hexaglobe.net/ba4db40bb20e8b7b850ce6e0cd10f6aa/5c31d74c/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenpri_eng.smil/ewnsabrenpri_eng_720p.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS_HD
 http://ott-cdn.ucom.am/s24/index.m3u8
@@ -3417,11 +3374,12 @@ http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
 
-
-
-
-
-
+#EXTINF:-1,EuroNews _udp
+http://5.2.56.42:81/udp/239.254.2.178:1234 
+#EXTINF:-1,sci
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
+#EXTINF:-1,studio
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8
 
 
 
