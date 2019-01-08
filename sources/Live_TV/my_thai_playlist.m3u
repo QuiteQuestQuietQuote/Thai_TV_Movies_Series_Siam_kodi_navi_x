@@ -3291,10 +3291,7 @@ http://61.58.60.230:9000/live/257.m3u8
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/d2/37/1dd237c0-dc9f-43a2-a6f5-3b2e7f31e8ff/source/512x512bb.jpg",opensky_CHN
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
-#EXTINF:-1,red adult15943
-http://formen1.com:8080/creative35/35creative/15943
-#EXTINF:-1,red adult15942
-http://formen1.com:8080/creative35/35creative/15942
+
 #EXTINF:-1,vermint
 http://valeksex.iptvbot.ru/iptv/6HHHKCY4GUH8YV/922/index.m3u8
 
@@ -3355,7 +3352,7 @@ http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews (English) 
 http://persik.by/stream/8682/252987/10265.m3u8 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews
-https://euronews-en-p9-cdn.hexaglobe.net/ba4db40bb20e8b7b850ce6e0cd10f6aa/5c31d74c/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenpri_eng.smil/ewnsabrenpri_eng_720p.m3u8
+https://euronews-en-b11-cdn.hexaglobe.net/f25691468e50465621af490e524c27b0/5c34c284/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenbkp_eng.smil/ewnsabrenbkp_eng_720p.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS_HD
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_HD
@@ -3372,14 +3369,45 @@ http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
+#EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg Global News_YT
+https://youtu.be/dp8PhLsUcFE
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews English Live_YT
+https://youtu.be/GtoIMPrppUY
+
+#EXTINF:-1,105 BBC Earth HD 
+http://195.88.144.86:8000/play/105
+#EXTINF:-1,101 BBC Lifestyle HD 
+http://195.88.144.86:8000/play/101
 
 
-#EXTINF:-1,EuroNews _udp
-http://5.2.56.42:81/udp/239.254.2.178:1234 
-#EXTINF:-1,sci
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
-#EXTINF:-1,studio
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

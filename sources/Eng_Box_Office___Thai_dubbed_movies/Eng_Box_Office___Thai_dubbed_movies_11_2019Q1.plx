@@ -220,8 +220,12 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDDb0H0uJp2wjoJBbBHbKlYRbu
 date=2018-12-10
 URL=https://openload.co/f/8STRsbaq3Eo/The_Possession_of_Hannah_Grace_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
-
-
+type=video
+name=Loophole (2019) ENG 1080p.AMZN.WEBRip.DDP2.0.x264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYhn6r0Tt7Mq1xhVNgHKDaZ58iO.jpg
+date=2019-01-08
+URL=https://openload.co/f/oQUlEXJw-KI/Loophole.2019.1080p.AMZN.WEBRip.DDP2.0.x264-NTG.mp4
+#https://openload.co/f/c2yYs8GCIXY/Loophole.2019.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 
 
 
@@ -240,10 +244,12 @@ URL=https://openload.co/f/2dgk1j6AzMc/Nobodys.Fool.2018.HDCAM.x264-Unknown_SeeHD
 
 
 type=video
-name=The Hate U Give (2018) ENG 1080p.HC.WEBRip.x264.AAC2.0-STUTTERSHIT
+name=The Hate U Give (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfDN0YX1BNRsnCnp1mWOaiGeN9y.jpg
-date=2018-11-04
-URL=https://openload.co/f/XdtUKLiEBrY/The.Hate.U.Give.2018.1080p.HC.WEBRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
+date=2019-01-08
+URL=https://openload.co/f/dnsh5rLK7lE/The.Hate.U.Give.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/PXpntRBdV2Y/The_Hate_U_Give_720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/XdtUKLiEBrY/The.Hate.U.Give.2018.1080p.HC.WEBRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
 #https://openload.co/f/pcLyULi9-vM/The_Hate_U_Give.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 
 type=video
@@ -377,13 +383,6 @@ URL=https://openload.co/f/BkQiBo75j44/The_Wind_Guardians_%5B2018%5D%5BWEB-4K%5D%
 
 
 
-
-
-
-
-
-
-
 type=video
 name=The Vanishing (2018) ENG 1080p.WEB-DL_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1A53JjLQodStijRMnDEdvjNr94a.jpg
@@ -408,6 +407,20 @@ URL=https://openload.co/f/C0ShLc6soQg/Rust.Creek.2018.1080p.WEB-DL.DD5.1.H264-CM
 
 
 
+
+type=video
+name=Summer '03 (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3a8eqA1xzcvoH8pMaVV9zScwkTe.jpg
+date=2019-01-08
+URL=https://openload.co/f/fKdSk4TONsQ/Summer.03.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/0ETukKgAla8/Summer.03.2018.720pHD_SeeHD.mkv.mp4
+
+type=video
+name=What They Had (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/viD3WzDNkDUqpeCGJcT2HgysaiG.jpg
+date=2019-01-08
+URL=https://openload.co/f/XSjGvsE90CQ/What.They.Had.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/ZeEDQq1QzVE/What_They_Had_720pHD_SeeHD.mkv.mp4
 
 
 
@@ -435,7 +448,7 @@ URL=https://openload.co/f/C0ShLc6soQg/Rust.Creek.2018.1080p.WEB-DL.DD5.1.H264-CM
 type=video
 name=
 thumb=
-date=2019-01-04
+date=2019-01-08
 URL=
 
 
@@ -1416,6 +1429,7 @@ date=2019-01-05
 URL=https://openload.co/f/MC6g08am2yY/Death.Kiss.UNCUT.2018.1080p.BluRay.x264-WiSDOM.mkv.mp4
 #https://openload.co/f/TS8kwZbKY60/Death.Kiss.UNCUT.2018.1080p.BluRay.x264-WiSDOM.mkv   MKV6.6GB
 #https://openload.co/f/3YLSCfr00-Q/Death.Kiss.UNCUT.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/VCQNREy7nOY/Death.Kiss.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Jonathan (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
@@ -1443,6 +1457,7 @@ URL=https://openload.co/f/R1Qe5Yu8JyA/madelines.madeline.2018.1080p.bluray.x264-
 #https://openload.co/f/R1Qe5Yu8JyA/madelines.madeline.2018.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/act5w_ZOGkQ/Madelines.Madeline.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/1tY5IWi41I4/Madelines.Madeline.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/uZ4YAtIJvCg/Madeline%27s.Madeline.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Monsters and Men (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
@@ -1580,6 +1595,7 @@ URL=https://uptobox.com/713iah04ouij
 #https://openload.co/f/u8YyM7uNPSs/22_Chaser_%282018%291080.BR.Ganool.mkv.mp4
 #https://openload.co/f/kFjEGf-0IXM/22.Chaser.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/h1VSIAv65jo/22.Chaser.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/Xf1f3Oc7gY8/22.Chaser.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=The Secrets of Gravity: In the Footsteps of Albert Einstein (2016) [COLOR=FF00FF00]GER BR 1080p[/COLOR] | TMDB-60

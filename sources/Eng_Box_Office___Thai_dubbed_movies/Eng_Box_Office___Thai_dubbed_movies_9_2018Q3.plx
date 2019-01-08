@@ -1335,10 +1335,11 @@ URL=https://openload.co/f/b02xqKirSyI/Unsane_%282018%29%E0%B8%88%E0%B8%B4%E0%B8%
 
 
 type=video
-name=Gringo (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Gringo (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxeVPklFwng2IowqRPNI4od6aXv.jpg
-date=2018-05-25
-URL=https://openload.co/f/fWTOWcy5J0U/Gringo.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+date=2019-01-08
+URL=https://openload.co/f/YxOCHY-4iwQ/Gringo.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/fWTOWcy5J0U/Gringo.2018.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/GGsjpRfPruk/Gringo_2018_1080p_WEB-DL_DD5.1_H264-CMRG.mkv.mp4
 #https://openload.co/f/5TsFOCFhy1I/Gringo.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://www.blazefile.co/embed-r3zihnf4thxo.html   720
