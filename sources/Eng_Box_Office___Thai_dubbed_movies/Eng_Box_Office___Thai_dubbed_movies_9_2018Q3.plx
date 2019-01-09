@@ -1094,10 +1094,11 @@ URL=https://openload.co/f/KVozEZ5B2jM/Godzilla%3A_City_on_the_Edge_of_Battle_%28
 
 
 type=video
-name=Godzilla: Monster Planet (2017) ENG 1080pHD_SeeHD
+name=Godzilla: Monster Planet (2017) ENG 1080p_WEB-DL_DD5.1.x264_TiTAN
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRBuVfdkeUCwDehfZ7Q7UQLyYFG.jpg
-date=2018-01-22
-URL=https://openload.co/f/nLcEgLkB-Qo/Godzilla.monster.planet.2017.ENG.1080pHD_SeeHD.mkv.mp4
+date=2019-01-09
+URL=https://openload.co/f/thXahDuXyr8/Godzilla_Monster_Planet_2017_1080p_WEB-DL_DD5.1.x264_TiTAN.mkv.mp4
+#https://openload.co/f/nLcEgLkB-Qo/Godzilla.monster.planet.2017.ENG.1080pHD_SeeHD.mkv.mp4
 type=video
 name=Godzilla: Monster Planet (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRBuVfdkeUCwDehfZ7Q7UQLyYFG.jpg

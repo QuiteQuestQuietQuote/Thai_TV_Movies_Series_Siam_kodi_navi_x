@@ -83,31 +83,31 @@ date=2019-01-03
 URL=https://www.rapidvideo.com/e/FXD78WA9N1&q=720p
 
 type=video
-name=
+name=2
 thumb=
 date=2019-01-03
 URL=https://www.rapidvideo.com/e/FTQ1NQSQK9&q=720p
 
 type=video
-name=
+name=3
 thumb=
 date=2019-01-03
 URL=https://www.rapidvideo.com/e/FTQ1RGTKDM&q=720p
 
 type=video
-name=
+name=4
 thumb=
 date=2019-01-03
 URL=https://www.rapidvideo.com/e/FTQ1SUTIYI&q=720p
 
 type=video
-name=
+name=5
 thumb=
 date=2019-01-03
 URL=https://www.rapidvideo.com/e/FTQ1UZ85JY&q=720p
 
 type=video
-name=
+name=6
 thumb=
 date=2019-01-03
 URL=https://www.rapidvideo.com/e/FXD7A0PYEZ&q=720p
@@ -123,7 +123,7 @@ URL=https://www.rapidvideo.com/e/FXD7BFBJ92&q=720p
 type=video
 name=
 thumb=
-date=2019-01-07
+date=2019-01-09
 URL=
 
 
@@ -132,7 +132,12 @@ URL=
 
 
 
-
+type=video
+name=Holmes & Watson (2018) ENG 720p.HDCAM.1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gY4ziK7sjmNbsoBnTbhqC3SkGoE.jpg
+date=2019-01-09
+URL=https://openload.co/f/8ZbJ8rf3WAg/Holmes.%26.Watson.720p.HDCAM.1XBET_SeeHD.mp4
+#https://openload.co/f/cIFduPEx9qY/Holmes_and_Watson_2018_720p_HDCAM.mp4
 
 type=video
 name=Vice (2018) ENG DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD
@@ -422,7 +427,12 @@ date=2019-01-08
 URL=https://openload.co/f/XSjGvsE90CQ/What.They.Had.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/ZeEDQq1QzVE/What_They_Had_720pHD_SeeHD.mkv.mp4
 
-
+type=video
+name=Godzilla: The Planet Eater (2018) JAP DUBBED%2BSUB.1080p.NF.WEB-DL.DDP5.1.x264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOA44BITFth0u4hMSOUgpK0kM6t.jpg
+date=2019-01-09
+URL=https://openload.co/f/EIKwwY7FPok/Godzilla.The.Planet.Eater.2018.DUBBED%2BSUB.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv.mp4
+#https://openload.co/f/2H6QjxWK5Eo/Godzilla.The.Planet.Eater.2018.720p.NF.WEB-DL.DDP5.1.x264-NTG_SeeHD.mkv.mp4
 
 
 
@@ -448,7 +458,7 @@ URL=https://openload.co/f/XSjGvsE90CQ/What.They.Had.2018.1080p.WEB-DL.H264.AC3-E
 type=video
 name=
 thumb=
-date=2019-01-08
+date=2019-01-09
 URL=
 
 
@@ -1392,8 +1402,13 @@ URL=https://openload.co/f/1wtSjfeOPYw/Lady.Chatterleys.Lover.2015.1080p.BluRay.x
 type=video
 name=The Old Man & the Gun (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ra3UlOwcPwj5euC2jbhga7IH5i.jpg
-date=2019-01-07
-URL=https://openload.co/f/2ooPtU378Ds/The.Old.Man.%26.The.Gun.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+date=2019-01-09
+URL=https://uptobox.com/rr37gh1w8v6u
+#https://fruithosts.net/embed/kspsbolfnearbnfd/THEOLDMANWITHTHEGUN80_Ganol_si_Ganol_si_mkv
+#https://openload.co/embed/bGuPhnctsfg/THEOLDMANWITHTHEGUN80.Ganol.si.Ganol.si.mkv
+#https://openload.co/f/oa6Al5hZnQo/The_Old_Man_%26_the_Gun_%282018%291080p_BluRay_x264-Replica.Ganool.mkv.mp4
+#https://openload.co/f/YYIOiuG4JWU/The.Old.Man.And.The.Gun.2018.1080p.BluRay.x264-Replica.mkv.mp4
+#https://openload.co/f/2ooPtU378Ds/The.Old.Man.%26.The.Gun.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/g_500AUZM8k/The.Old.Man.and.the.Gun.2018.1080p.WEBRip.x264.AAC2.0-SHITBOX.mp4
 #https://openload.co/f/g9GNdZG7yBA/The_Old.Man.and.the.Gun.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 
@@ -11648,10 +11663,11 @@ URL=https://openload.co/f/F50fZoE0fog/Rampant_%282018%29%E0%B8%99%E0%B8%84%E0%B8
 
 
 type=video
-name=First Man (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
+name=First Man (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
-date=2018-12-13
-URL=https://openload.co/f/JQ-sf2xhroo/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+date=2019-01-09
+URL=https://openload.co/f/eNlwUYsYcDQ/First.Man.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/JQ-sf2xhroo/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/Q-IpbQFdeGc/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/LMJ_mquiaps/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/AwQGBb1XjbM/First_Man_2018_720p_HDCAM-1XBET_SeeHD.mp4

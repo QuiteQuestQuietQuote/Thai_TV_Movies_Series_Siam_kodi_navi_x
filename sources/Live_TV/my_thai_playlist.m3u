@@ -2596,11 +2596,6 @@ http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/41524
 http://ed68815c.iptvspy.ru/iptv/KLF5WG86AQZ653/922/index.m3u8
 #EXTINF:-1,Playboy
 http://91.90.253.73:8080/CH175_std/index.m3u8
-#EXTINF:-1,Red Adult
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/19106
-
-
-
 
 
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/03/Brazzers-TV-18.png",Brazzers_dna   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -3292,8 +3287,18 @@ http://61.58.60.230:9000/live/257.m3u8
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
 
-#EXTINF:-1,vermint
+#EXTINF:-1,Red Adult
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/19106
+#EXTINF:-1,AsianSexDiary
+http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/41524
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/07/Varmint-TV.png" group-title="Adult IPTV",Varmint
 http://valeksex.iptvbot.ru/iptv/6HHHKCY4GUH8YV/922/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/23/30/30/233030a66664b179a25383bca1ed94e3.jpg" group-title="Adult IPTV",Candy TV
+http://valeksex.iptvbot.ru/iptv/6HHHKCY4GUH8YV/923/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Penthouse_TV.svg/984px-Penthouse_TV.svg.png" group-title="Adult IPTV",Penthouse TV HD
+http://valeksex.iptvbot.ru/iptv/6HHHKCY4GUH8YV/1073/index.m3u8
+
+
 
 #EXTINF:-1,Ibiza TV3_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8
@@ -3369,21 +3374,13 @@ http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
-#EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg Global News_YT
-https://youtu.be/dp8PhLsUcFE
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews English Live_YT
-https://youtu.be/GtoIMPrppUY
-
-#EXTINF:-1,105 BBC Earth HD 
-http://195.88.144.86:8000/play/105
-#EXTINF:-1,101 BBC Lifestyle HD 
-http://195.88.144.86:8000/play/101
 
 
 
-
-
-
+#EXTINF:-1,pptv_php
+https://www.we-play.tv/live/channel.php?name=pptv
+#EXTINF:-1,pptv_wms
+https://cdn.we-play.tv/freetv/pptv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMTkgMjozNDoxMSBQTSZoYXNoX3ZhbHVlPUtDbzU1Yzh2eW93N3hIR2pUVTZOa2c9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 
 
