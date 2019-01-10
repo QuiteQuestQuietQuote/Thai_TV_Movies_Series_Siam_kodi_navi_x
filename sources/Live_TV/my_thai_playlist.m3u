@@ -3302,6 +3302,8 @@ http://viptv2.dyndns.tv:2086/4989/4989/6388
 
 #EXTINF:-1,Japan Idol Music
 http://vsd60.live2.tvvtvv.com/hls/499076958867.m3u8/sig/uwN_fQJIvHw/expires/1547221337541/srcIp/47.88.221.5/clientType/0/srcAg/SAFARI_IPHONE_OTHER/video.m3u8
+#EXTINF:-1,LTV
+http://59.120.242.104:9000/live/live5.m3u8
 #EXTINF:-1,movie HD CHN
 http://59.120.242.104:9000/live/live1.m3u8
 #EXTINF:-1,next tv
@@ -3309,7 +3311,7 @@ http://59.120.242.104:9000/live/live8.m3u8
 
 #EXTINF:-1,JAV_6_mu
 http://59.120.242.104:9000/live/live6.m3u8
-#EXTINF:-1,JAV_7_pan dora 
+#EXTINF:-1,JAV_7_pan dora_perfect
 http://59.120.242.104:9000/live/live7.m3u8
 
 #EXTINF:-1,JAV_tvv_6
