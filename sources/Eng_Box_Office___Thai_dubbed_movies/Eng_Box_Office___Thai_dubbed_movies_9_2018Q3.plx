@@ -745,6 +745,13 @@ URL=https://openload.co/f/lc2zDLM81EE/Isle_of_Dogs_%282018%29%E0%B9%84%E0%B8%AD%
 
 
 type=video
+name=The Hundred-Foot Journey (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQWT270zHKC4xVs0ogUwrU8EwqB.jpg
+date=2019-01-10
+URL=https://www.rapidvideo.com/e/FXREFQNP96
+#https://openload.co/f/CYpqi36zTTQ/the-hundred-foot-journey-2014_720p.mp4
+#https://www.rapidvideo.com/e/FXREFQNP96
+type=video
 name=The Hundred-Foot Journey (2014) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQWT270zHKC4xVs0ogUwrU8EwqB.jpg
 date=2018-08-09

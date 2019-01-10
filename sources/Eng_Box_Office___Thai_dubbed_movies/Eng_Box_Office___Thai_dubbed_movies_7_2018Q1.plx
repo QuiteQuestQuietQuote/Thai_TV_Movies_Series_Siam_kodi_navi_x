@@ -365,10 +365,10 @@ URL=https://openload.co/f/fQXeeL8bKBc/Coco_%282017%29%E0%B8%A7%E0%B8%B1%E0%B8%99
 
 
 type=video
-name=Free State of Jones (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxutq7sXcaMy8b4OguaWZwWrchM.jpg
-date=2018-03-27
-URL=http://192.99.67.192/home/movies29/tt1124037_hd.mp4
+name=Free State of Jones (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQcwB5nXpN4vH5ewP79tyXJcA1I.jpg
+date=2019-01-10
+URL=https://www.rapidvideo.com/e/FX0KLINMGX
 #https://openload.co/embed/iCLqDeEgTXs
 #http://entervideo.net/watch/2aafab347c33247
 #https://www.blazefile.co/embed-64mwv9cpyo6w.html

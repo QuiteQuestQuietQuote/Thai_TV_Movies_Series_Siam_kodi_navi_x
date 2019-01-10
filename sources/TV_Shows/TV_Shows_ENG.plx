@@ -19,6 +19,23 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
+
+type=playlist
+name=A Very English Scandal (2018)
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2v9rwGdg0cpt0NRjxQpFHbKoG7a.jpg
+date=2019-01-10
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/A Very English Scandal_2018.plx
+player=default
+rating=-1.00
+
+type=playlist
+name=Downton Abbey (2010)
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlbS1mqX2x5lVSyuxfTwDPwnTmD.jpg
+date=2019-01-10
+URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/eng/Downton Abbey_2010.plx
+player=default
+rating=-1.00
+
 type=playlist
 name=Outlander (2014)
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCTSO32nTmJHkEFAv3qJLhVueEa.jpg

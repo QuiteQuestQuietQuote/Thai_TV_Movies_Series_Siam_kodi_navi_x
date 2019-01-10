@@ -1362,7 +1362,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-07
+date=2019-01-10
 URL=
 
 
@@ -1374,7 +1374,12 @@ URL=
 
 
 
-
+type=video
+name=The Captain (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR] | TMDB-74
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1otiFXq8h8q9vsiY8Dsh4kihxv.jpg
+date=2019-01-10
+URL=https://openload.co/f/fBvkf3EiQII/The.Captain.2017.GERMAN.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/B21V9fn0mIU/the.captain.2017.720p.bluray.x264-brmp.mkv.mp4
 
 type=video
 name=Speed Kills (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-51
@@ -1408,6 +1413,7 @@ URL=https://uptobox.com/rr37gh1w8v6u
 #https://openload.co/embed/bGuPhnctsfg/THEOLDMANWITHTHEGUN80.Ganol.si.Ganol.si.mkv
 #https://openload.co/f/oa6Al5hZnQo/The_Old_Man_%26_the_Gun_%282018%291080p_BluRay_x264-Replica.Ganool.mkv.mp4
 #https://openload.co/f/YYIOiuG4JWU/The.Old.Man.And.The.Gun.2018.1080p.BluRay.x264-Replica.mkv.mp4
+#https://openload.co/f/jGQENQ-hKak/The.Old.Man.And.The.Gun.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/2ooPtU378Ds/The.Old.Man.%26.The.Gun.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/g_500AUZM8k/The.Old.Man.and.the.Gun.2018.1080p.WEBRip.x264.AAC2.0-SHITBOX.mp4
 #https://openload.co/f/g9GNdZG7yBA/The_Old.Man.and.the.Gun.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
@@ -1545,6 +1551,7 @@ URL=https://uptobox.com/qtkj2msdqztj
 #https://oload.fun/embed/zOX-AbgKGGw/TIMEFREAK80.Ganol.si.mkv
 #https://openload.co/f/hPiKpXcNKkE/Time_Freak_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
 #https://openload.co/f/pBs5RXD0s8M/Time.Freak.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/cUq25LBkVjg/Time.Freak.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Asher (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
@@ -2561,10 +2568,14 @@ date=2018-11-14
 URL=https://openload.co/f/6iw_z3cjngg/Izzy.Gets.the.Fuck.Across.Town.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
-name=Cold War (2018) [COLOR=FF00FF00]POL BR 1080p[/COLOR]
+name=Cold War (2018) [COLOR=FF00FF00]POL BR 1080p[/COLOR] | TMDB-79
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsv6vWhJyRhwzmDN4kjs3ACV97Q.jpg
-date=2018-11-14
-URL=https://openload.co/f/wCVzloWBo2c/Cold.War.2018.1080p.BRRip.x264.AC3.HORiZON-ArtSubs.mp4
+date=2019-01-10
+URL=https://uptobox.com/11inn0kkuycz
+#https://fruithosts.net/embed/smbabotnotfptlno/GHPCOLDWAR80_Ganol_si_mkv_mp4
+#https://openload.co/embed/0PSkSJVXeGI/GHPCOLDWAR80.Ganol.si.mkv
+#https://openload.co/f/NG9PSQEAEUY/Cold_War_%282018%291080p_BluRay_x264-DEPTH.Ganool.mkv.mp4
+#https://openload.co/f/wCVzloWBo2c/Cold.War.2018.1080p.BRRip.x264.AC3.HORiZON-ArtSubs.mp4
 
 type=video
 name=Mara (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
