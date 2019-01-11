@@ -3292,22 +3292,17 @@ http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/07/Varmint-TV.png" group-title="Adult IPTV",Varmint
-http://valeksex.iptvbot.ru/iptv/6HHHKCY4GUH8YV/922/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/23/30/30/233030a66664b179a25383bca1ed94e3.jpg" group-title="Adult IPTV",Candy TV
-http://valeksex.iptvbot.ru/iptv/6HHHKCY4GUH8YV/923/index.m3u8
-
-#EXTINF:-1,red adult
-http://viptv2.dyndns.tv:2086/4989/4989/6388
-
-#EXTINF:-1,Japan Idol Music
-http://vsd60.live2.tvvtvv.com/hls/499076958867.m3u8/sig/uwN_fQJIvHw/expires/1547221337541/srcIp/47.88.221.5/clientType/0/srcAg/SAFARI_IPHONE_OTHER/video.m3u8
-#EXTINF:-1,LTV
-http://59.120.242.104:9000/live/live5.m3u8
 #EXTINF:-1,movie HD CHN
 http://59.120.242.104:9000/live/live1.m3u8
 #EXTINF:-1,next tv
 http://59.120.242.104:9000/live/live8.m3u8
+#EXTINF:-1,LTV
+http://59.120.242.104:9000/live/live5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/07/Varmint-TV.png" group-title="Adult IPTV",Varmint
+http://valeksex.iptvbot.ru/iptv/6HHHKCY4GUH8YV/922/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/23/30/30/233030a66664b179a25383bca1ed94e3.jpg" group-title="Adult IPTV",Candy TV
+http://valeksex.iptvbot.ru/iptv/6HHHKCY4GUH8YV/923/index.m3u8
 
 #EXTINF:-1,JAV_6_mu
 http://59.120.242.104:9000/live/live6.m3u8

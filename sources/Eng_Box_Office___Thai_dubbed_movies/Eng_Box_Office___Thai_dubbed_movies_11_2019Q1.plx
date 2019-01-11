@@ -411,8 +411,6 @@ URL=https://openload.co/f/C0ShLc6soQg/Rust.Creek.2018.1080p.WEB-DL.DD5.1.H264-CM
 
 
 
-
-
 type=video
 name=Summer '03 (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3a8eqA1xzcvoH8pMaVV9zScwkTe.jpg
@@ -436,7 +434,21 @@ URL=https://openload.co/f/EIKwwY7FPok/Godzilla.The.Planet.Eater.2018.DUBBED%2BSU
 
 
 
+type=video
+name=The Last Laugh (2019) ENG 1080p.NF.WEB-DL.DDP5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/59tmluymUP7aemwRDLhrXRG0jzV.jpg
+date=2019-01-11
+URL=https://openload.co/f/1hVTYT6VYIw/The.Last.Laugh.2018.1080p.NF.WEB-DL.DDP5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/lFWelFVtCeE/The.Last.Laugh.2018.1080p_HDM8.mkv.mp4
+#https://openload.co/f/bIJigLM2C8E/The.Last.Laugh.2018.1080p.NF.WEB-DL.DDP5.1.H264-CMRG.mkv   MKV3.9GB
 
+type=video
+name=Ashes in the Snow (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRMgle7vPFvSMq5R76JhsH54W4S.jpg
+date=2019-01-11
+URL=https://openload.co/f/84iLgqRkJJ4/Ashes.in.the.Snow.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/36qz356VYbw/Ashes.in.the.Snow.2018.1080p_HDM8.mkv.mp4
+#https://openload.co/f/Xtel7e34WH8/Ashes_in_The_Snow_2018_720pHD_SeeHD.mp4
 
 
 
@@ -458,7 +470,7 @@ URL=https://openload.co/f/EIKwwY7FPok/Godzilla.The.Planet.Eater.2018.DUBBED%2BSU
 type=video
 name=
 thumb=
-date=2019-01-09
+date=2019-01-11
 URL=
 
 
@@ -1362,7 +1374,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-10
+date=2019-01-11
 URL=
 
 
@@ -1372,7 +1384,15 @@ URL=
 
 
 
-
+type=video
+name=Welcome Home (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-48
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMhJQoMitAh0pN0fLlD7iUGcBp0.jpg
+date=2019-01-11
+URL=https://uptobox.com/om4cz0yl3w0g
+#https://fruithosts.net/embed/ksfbrmaobmqcasle/WELCOMEHOME80_Ganol_si_mkv_mp4
+#https://oload.fun/embed/Hg8GQvWnFGk/WELCOMEHOME80.Ganol.si.mkv.mp4
+#https://openload.co/f/__hxHk-PbkE/Welcome_Home_%282018%291080p_BluRay_x264-RUSTED.Ganool.mkv.mp4
+#https://openload.co/f/RodRShi8EEo/Welcome.Home.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Captain (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR] | TMDB-74
@@ -1402,6 +1422,7 @@ name=Lady Chatterley's Lover (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwbhWcYXqxQecgHtecAJKgjkPQa.jpg
 date=2019-01-07
 URL=https://openload.co/f/1wtSjfeOPYw/Lady.Chatterleys.Lover.2015.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/qhJgHeK04HU/Lady.Chatterleys.Lover.2015.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/zFkoP4eMMLM/Lady.Chatterleys.Lover.2015.720p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
@@ -1550,6 +1571,7 @@ URL=https://uptobox.com/qtkj2msdqztj
 #https://fruithosts.net/embed/oepmbctncqrmplqr/TIMEFREAK80_Ganol_si_mkv
 #https://oload.fun/embed/zOX-AbgKGGw/TIMEFREAK80.Ganol.si.mkv
 #https://openload.co/f/hPiKpXcNKkE/Time_Freak_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+#https://openload.co/f/RnjRGnFJcpI/Time.Freak.2018.1080p.BluRay_SeeHD.mp4
 #https://openload.co/f/pBs5RXD0s8M/Time.Freak.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/cUq25LBkVjg/Time.Freak.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
@@ -8749,7 +8771,7 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 type=video
 name=
 thumb=
-date=2019-01-05
+date=2019-01-11
 URL=
 
 
@@ -8759,6 +8781,13 @@ URL=
 
 
 
+
+
+type=video
+name=Call Boy (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/souzxUT3UkhqrYxmi5sgaBIcc1k.jpg
+date=2019-01-11
+URL=https://openload.co/f/LBnt1LNh2pY/Call_Boy_%282018%29%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%AB%E0%B8%87%E0%B8%B2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 type=video
 name=Secrets in the Hot Spring (2018) THSUB
@@ -12275,7 +12304,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-05
+date=2019-01-11
 URL=
 
 
@@ -12287,18 +12316,51 @@ URL=
 
 
 
+type=video
+name=How to Train Your Dragon 2 (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRjOR4uclMQijUav4OjeZprlehu.jpg
+date=2019-01-11
+URL=https://openload.co/f/6XRBAHNBrFE/How.to.Train.Your.Dragon.2.2014.1080p.BR_SeeHD.mp4
+
+type=video
+name=How to Train Your Dragon (2010) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-77
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIXX3IRFy0InUOmYeWjvhCAgQNj.jpg
+date=2019-01-11
+URL=https://openload.co/f/aNesTNNNbxc/How.To.Train.Your.Dragon.2010.1080p.BR_SeeHD.mp4
+
+type=video
+name=The Ghostmaker (2011) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-50
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwv6dRWpTuI0jc2votLA2F6u6Kr.jpg
+date=2019-01-11
+URL=https://openload.co/f/pAugAaZBGNo/The.Ghostmaker.2012.1080p.BR_SeeHD.mp4
+
+type=video
+name=Solaris (2002) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TTniVKEjUWs3DnAMEWMXP6V1ct.jpg
+date=2019-01-11
+URL=https://openload.co/f/e3i6aA2jzDQ/Solaris.2002.1080p.BR_SeeHD.mp4
 
 
 
 
 
+type=video
+name=
+thumb=
+date=2019-01-05
+URL=
 
+type=video
+name=
+thumb=
+date=2019-01-05
+URL=
 
-
-
-
-
-
+type=video
+name=
+thumb=
+date=2019-01-05
+URL=
 
 
 
