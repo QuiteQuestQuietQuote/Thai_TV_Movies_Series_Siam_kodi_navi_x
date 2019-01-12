@@ -3291,11 +3291,10 @@ http://61.58.60.230:9000/live/257.m3u8
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
 
-
-#EXTINF:-1,movie HD CHN
-http://59.120.242.104:9000/live/live1.m3u8
 #EXTINF:-1,next tv
 http://59.120.242.104:9000/live/live8.m3u8
+#EXTINF:-1,movie HD CHN
+http://59.120.242.104:9000/live/live1.m3u8
 #EXTINF:-1,LTV
 http://59.120.242.104:9000/live/live5.m3u8
 

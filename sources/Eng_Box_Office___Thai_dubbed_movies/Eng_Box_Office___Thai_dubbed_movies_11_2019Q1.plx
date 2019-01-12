@@ -9911,6 +9911,7 @@ date=2018-01-27
 URL=https://www.blazefile.co/embed-ifqcrh15lxci.html
 #https://uptobox.com/oxhk3er0zt6i
 #https://openload.co/f/1adr2dRsK3Y/batman.gotham.by.gaslight.2018.1080p.bluray.x264-veto.mkv.mp4
+#https://openload.co/f/6JAq4SDKVB0/Batman.Gotham.by.Gaslight.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/8YpAKDVQFBc/Batman.Gotham.by.Gaslight.2018.1080p.BluRay.x264.DTS-HD.MA.5.1-MT.mkv.mp4
 #https://openload.co/f/YWvx1iydB_4/Batman.Gotham.by.Gaslight.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://www.blazefile.co/embed-hihlu3imeqzp.html   720
@@ -9927,6 +9928,7 @@ name=Batman Ninja (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5gZEW1npI2DNE5G00LvPDDICnt.jpg
 date=2018-05-16
 URL=https://openload.co/f/gUv2jxnHGUU/Batman.Ninja.2018.1080p.BluRay.x264-NODLABS.mkv.mp4
+#https://openload.co/f/leciDp74vTU/Batman.Ninja.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/Cfe5FWJJDzQ/batman.ninja.2018.multi.1080p.bluray.x264-lost.mkv.mp4
 #https://openload.co/f/qRXRqt9DpOg/Batman.Ninja.2018.720p.BluRay.x264-NODLABS.mkv.mp4
 #https://openload.co/f/D3cD0l2HbGM/Batman.Ninja.2018.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -11706,7 +11708,10 @@ type=video
 name=First Man (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
 date=2019-01-09
-URL=https://openload.co/f/eNlwUYsYcDQ/First.Man.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+URL=https://openload.co/f/tHksAmN0S1M/First.Man.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/BYrHS1b8bek/First.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/OZ9pH7xGQ-M/First.Man.2018.1080p.BluRay.x264-BLOW.mkv.mp4
+#https://openload.co/f/eNlwUYsYcDQ/First.Man.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/JQ-sf2xhroo/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/Q-IpbQFdeGc/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/LMJ_mquiaps/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
