@@ -248,14 +248,7 @@ URL=https://openload.co/f/2dgk1j6AzMc/Nobodys.Fool.2018.HDCAM.x264-Unknown_SeeHD
 
 
 
-type=video
-name=The Hate U Give (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfDN0YX1BNRsnCnp1mWOaiGeN9y.jpg
-date=2019-01-08
-URL=https://openload.co/f/dnsh5rLK7lE/The.Hate.U.Give.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/PXpntRBdV2Y/The_Hate_U_Give_720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/XdtUKLiEBrY/The.Hate.U.Give.2018.1080p.HC.WEBRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
-#https://openload.co/f/pcLyULi9-vM/The_Hate_U_Give.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+
 
 type=video
 name=The Nutcracker and the Four Realms (2018) ENG 720p_HDCAM-1XBET_SeeHD
@@ -450,8 +443,12 @@ URL=https://openload.co/f/84iLgqRkJJ4/Ashes.in.the.Snow.2018.1080p.WEB-DL.DD5.1.
 #https://openload.co/f/36qz356VYbw/Ashes.in.the.Snow.2018.1080p_HDM8.mkv.mp4
 #https://openload.co/f/Xtel7e34WH8/Ashes_in_The_Snow_2018_720pHD_SeeHD.mp4
 
-
-
+type=video
+name=Suspiria (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Nu6qk2UwM4aGvd5BvIMtvt3zoi.jpg
+date=2019-01-13
+URL=https://openload.co/f/lCkkPxJmhD8/Suspiria.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/l6YjlLNyxc0/Suspiria.2018.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 
 
 
@@ -470,7 +467,7 @@ URL=https://openload.co/f/84iLgqRkJJ4/Ashes.in.the.Snow.2018.1080p.WEB-DL.DD5.1.
 type=video
 name=
 thumb=
-date=2019-01-11
+date=2019-01-13
 URL=
 
 
@@ -1374,7 +1371,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-11
+date=2019-01-13
 URL=
 
 
@@ -1383,6 +1380,26 @@ URL=
 
 
 
+type=video
+name=The Man Who Killed Don Quixote (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ehIeMqlhgQ615nbqvnZo6ocQdx.jpg
+date=2019-01-13
+URL=https://openload.co/f/L_YROsS_nwU/The_Man_Who_Killed_Don_Quixote.2019.1080p.Bluray.X264-HDM8.mp4
+#https://openload.co/f/HqXMniJLHRQ/The_Man_Who_Killed_Don_Quixote.2019.V2.720p.BDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+
+type=video
+name=The Hate U Give (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-82
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfDN0YX1BNRsnCnp1mWOaiGeN9y.jpg
+date=2019-01-13
+URL=https://uptobox.com/ijlx7baekn3y
+#https://fruithosts.net/embed/mosekoaotmrorcba/GHPTHEHATEUGIVE80_Ganol_si_mkv
+#https://oload.fun/embed/XH1kTthWI8I/GHPTHEHATEUGIVE80.Ganol.si.mkv
+#https://openload.co/f/O43q_LUcw6I/The_Hate_U_Give_%282018%291080p_BluRay_x264-BLOW.Ganool.mkv.mp4
+#https://openload.co/f/tKwhtl94bZY/The.Hate.U.Give.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/dnsh5rLK7lE/The.Hate.U.Give.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/PXpntRBdV2Y/The_Hate_U_Give_720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/XdtUKLiEBrY/The.Hate.U.Give.2018.1080p.HC.WEBRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
+#https://openload.co/f/pcLyULi9-vM/The_Hate_U_Give.2018.720p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 
 type=video
 name=Welcome Home (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-48
@@ -1397,8 +1414,12 @@ URL=https://uptobox.com/om4cz0yl3w0g
 type=video
 name=The Captain (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR] | TMDB-74
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1otiFXq8h8q9vsiY8Dsh4kihxv.jpg
-date=2019-01-10
-URL=https://openload.co/f/fBvkf3EiQII/The.Captain.2017.GERMAN.1080p.BluRay_SeeHD.mp4
+date=2019-01-13
+URL=https://uptobox.com/sr6tq407xnqz
+#https://fruithosts.net/embed/ekrartcspfdcmbde/THECAPTAIN80_Ganol_si_mkv_mp4
+#https://oload.fun/embed/T1b3Y3tk7o0/THECAPTAIN80.Ganol.si.mkv.mp4
+#https://openload.co/f/pvpDz9bALVo/The_Captain_%282017%291080p_BluRay_x264-BRMP.Ganool.mkv.mp4
+#https://openload.co/f/fBvkf3EiQII/The.Captain.2017.GERMAN.1080p.BluRay_SeeHD.mp4
 #https://openload.co/f/B21V9fn0mIU/the.captain.2017.720p.bluray.x264-brmp.mkv.mp4
 
 type=video
@@ -3730,13 +3751,7 @@ URL=https://openload.co/f/gfo5l2BJSUE/in.darkness.2018.1080p.bluray.x264-rcdivx%
 #https://openload.co/f/fbYQm0QA3sE/in.darkness.2018.720p.bluray.x264-rcdivx%5BEtHD%5D.mkv.mp4
 #https://openload.co/f/dt0k_mvHKLk/in.darkness.2018.720p.bluray.x264-rcdivx%5BEtHD%5D.mkv   MKV4.4GB
 
-type=video
-name=Loving Pablo (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFc8RCsQGQv016ELpggiEKoBNAe.jpg
-date=2018-08-22
-URL=https://openload.co/f/nZoJQGXxtBs/Loving_Pablo.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
-#https://openload.co/f/kSQxcBn9VR0/Loving_Pablo_2017_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
-#https://openload.co/f/PH6BJQ3uQLA/Loving_Pablo.2017.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+
 
 type=video
 name=Parmanu: The Story of Pokhran (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR]
@@ -5774,11 +5789,13 @@ URL=https://openload.co/f/XQS0nEwEFkY/i.remember.you.2017.1080p.bluray.x264-napt
 #https://openload.co/f/qVi3Q7csSQM/i.remember.you.2017.720p.bluray.x264-naptime.mkv   MKV4.4GB
 
 type=video
-name=The Square (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=The Square (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKBHo6WnRnUJ5qvWFWd3Fne9bKE.jpg
-date=2018-02-25
-URL=https://www.blazefile.co/embed-vt3w9ijj6nm2.html
+date=2019-01-13
+URL=https://openload.co/f/YPJwsjxxB0o/The.Square.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://www.blazefile.co/embed-vt3w9ijj6nm2.html
 #https://uptobox.com/nhc1zl9a8z3g
+#https://www.rapidvideo.com/e/FUM8Z6V3JT   480
 #https://openload.co/f/q_ihmKaqVbM/The_Square_%282017%29.1080p_BluRay_x264-PSYCHD_ganool.mkv.mp4
 #https://openload.co/f/lK-shFWCZ1k/ghpthesqqre80.Ettv.st.mkv
 #https://openload.co/f/YPJwsjxxB0o/The.Square.2017.720p.BluRay.H264.AAC-RARBG.mp4
@@ -8448,10 +8465,11 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
-name=Bumblebee (2018) ENG NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD
+name=Bumblebee (2018) ENG TC.HDM8
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
-date=2018-12-27
-URL=https://openload.co/f/zyG2hkrwzro/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_X264_SugarTits_SeeHD.mkv.mp4
+date=2019-01-13
+URL=https://openload.co/f/PTq_DPeSIL8/Bumblebee.2018.TC.HDM8.mp4
+#https://openload.co/f/zyG2hkrwzro/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_X264_SugarTits_SeeHD.mkv.mp4
 #https://openload.co/f/1iOQqwFhUjA/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_X264_SugarTits_SeeHD.mkv   MKV2.4GB
 #https://openload.co/f/sP15gNQ2QtQ/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD.mp4
 #https://openload.co/f/bXbPDliWIww/Bumblebee.2018.CAM.X264-MrTaco.mkv.mp4
@@ -8796,29 +8814,7 @@ date=2019-01-05
 URL=https://openload.co/f/EpuQBw1Aq8g/Secrets_in_the_Hot_Spring_%282018%29%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%AA%E0%B8%9A%E0%B9%81%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B8%B5_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
-type=video
-name=Bad Times at the El Royale (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg
-date=2018-12-21
-URL=https://uptobox.com/4tkr5lbnblk7
-#https://fruithosts.net/embed/onqfenntcealncrk/GHPBADTIMEAATELROYALE80_Ganol_si_mkv
-#https://oload.fun/embed/YnYaztgb0fI/GHPBADTIMEAATELROYALE80.Ganol.si.mkv
-#https://openload.co/f/dAdtBrqh9GI/Bad_Times_at_the_El_Royale_%282018%291080p.BR.Ganool.mkv.mp4
-#https://openload.co/f/sOnmcV55AJM/Bad_Times_at_the_El_Royale_%282018%291080p.BR.Ganool.mkv   MKV1.8GB
-#https://openload.co/f/bXrSTrPU-YQ/Bad.Times.At.The.El.Royale.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/R82jVmSeSCg/Bad.Times.At.The.El.Royale.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/v6frXEL-WUc/Bad.Times.At.The.El.Royale.2018.720p.BRRip.x264.MkvCage.mkv.mp4
-#https://openload.co/f/Nij8ISMW9M0/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/s_HTF-gUpZs/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/bMb92lrgQ9M/Bad.Times.at.the.El.Royale.2018.720p.HDCAM.V2.1XBET.mp4
-#https://openload.co/f/nLYd3wx0TdA/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/tkfG_HP1Geg/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET.mp4
-#https://openload.co/f/fhhlvQypFAQ/Bad.Times.at.the.El.Royale.2018.HDCAM.XviD-AVID.avi.mp4
-type=video
-name=Bad Times at the El Royale (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg
-date=2019-01-03
-URL=https://openload.co/f/5fpil635oo4/Bad_Times_at_the_El_Royale_%282018%29%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%97%E0%B8%B5%E0%B9%88_%E0%B9%80%E0%B8%AD%E0%B8%A5_%E0%B9%82%E0%B8%A3%E0%B9%81%E0%B8%A2%E0%B8%A5_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
 
 
 type=video
@@ -11705,10 +11701,16 @@ URL=https://openload.co/f/F50fZoE0fog/Rampant_%282018%29%E0%B8%99%E0%B8%84%E0%B8
 
 
 type=video
-name=First Man (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
+name=First Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
-date=2019-01-09
-URL=https://openload.co/f/tHksAmN0S1M/First.Man.2018.1080p.BluRay_SeeHD.mp4
+date=2019-01-13
+URL=https://uptobox.com/2h7o1px2p7aq
+#https://fruithosts.net/embed/osfstcolmksqqqre/GHPFIRSTMAN80_Ganol_si_mkv_mp4
+#https://oload.fun/embed/VAtk_LCWpw0/GHPFIRSTMAN80.Ganol.si.mkv
+#https://openload.co/f/rB9L5VQBHpI/First_Man_%282018%29PROPER_1080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/0VGe4XmzmHk/first.man.2018.proper.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/wI7HYCqqYTM/First.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/tHksAmN0S1M/First.Man.2018.1080p.BluRay_SeeHD.mp4
 #https://openload.co/f/BYrHS1b8bek/First.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/OZ9pH7xGQ-M/First.Man.2018.1080p.BluRay.x264-BLOW.mkv.mp4
 #https://openload.co/f/eNlwUYsYcDQ/First.Man.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
@@ -12192,10 +12194,45 @@ URL=
 
 
 
+type=video
+name=Loving Pablo (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFc8RCsQGQv016ELpggiEKoBNAe.jpg
+date=2018-08-22
+URL=https://openload.co/f/nZoJQGXxtBs/Loving_Pablo.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/kSQxcBn9VR0/Loving_Pablo_2017_1080p_WEB-DL_DD5_1_H264-CMRG.mkv.mp4
+#https://openload.co/f/PH6BJQ3uQLA/Loving_Pablo.2017.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+type=video
+name=Loving Pablo (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFc8RCsQGQv016ELpggiEKoBNAe.jpg
+date=2019-10-13
+URL=https://openload.co/f/KE4qibVEHQ4/Loving_Pablo_%282018%29%E0%B8%9B%E0%B8%B2%E0%B9%82%E0%B8%9A%E0%B8%A5_%E0%B9%80%E0%B8%AD%E0%B8%AA%E0%B9%82%E0%B8%81%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
 
 
-
-
+type=video
+name=Bad Times at the El Royale (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg
+date=2018-12-21
+URL=https://uptobox.com/4tkr5lbnblk7
+#https://fruithosts.net/embed/onqfenntcealncrk/GHPBADTIMEAATELROYALE80_Ganol_si_mkv
+#https://oload.fun/embed/YnYaztgb0fI/GHPBADTIMEAATELROYALE80.Ganol.si.mkv
+#https://openload.co/f/dAdtBrqh9GI/Bad_Times_at_the_El_Royale_%282018%291080p.BR.Ganool.mkv.mp4
+#https://openload.co/f/sOnmcV55AJM/Bad_Times_at_the_El_Royale_%282018%291080p.BR.Ganool.mkv   MKV1.8GB
+#https://openload.co/f/bXrSTrPU-YQ/Bad.Times.At.The.El.Royale.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/R82jVmSeSCg/Bad.Times.At.The.El.Royale.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/v6frXEL-WUc/Bad.Times.At.The.El.Royale.2018.720p.BRRip.x264.MkvCage.mkv.mp4
+#https://openload.co/f/Nij8ISMW9M0/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/s_HTF-gUpZs/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/bMb92lrgQ9M/Bad.Times.at.the.El.Royale.2018.720p.HDCAM.V2.1XBET.mp4
+#https://openload.co/f/nLYd3wx0TdA/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/tkfG_HP1Geg/Bad_Times_at_the_El_Royale_2018_720p_HDCAM-1XBET.mp4
+#https://openload.co/f/fhhlvQypFAQ/Bad.Times.at.the.El.Royale.2018.HDCAM.XviD-AVID.avi.mp4
+type=video
+name=Bad Times at the El Royale (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg
+date=2019-01-13
+URL=https://openload.co/f/0N2G2wwv6Bo/Bad_Times_at_the_El_Royale_%282018%29%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%97%E0%B8%B5%E0%B9%88_%E0%B9%80%E0%B8%AD%E0%B8%A5_%E0%B9%82%E0%B8%A3%E0%B9%81%E0%B8%A2%E0%B8%A5.mp4
+#https://openload.co/f/XP2PhoQO9TA/Bad_Times_at_the_El_Royale_%282018%29%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%97%E0%B8%B5%E0%B9%88_%E0%B9%80%E0%B8%AD%E0%B8%A5_%E0%B9%82%E0%B8%A3%E0%B9%81%E0%B8%A2%E0%B8%A5_ohohd.mp4
+#https://openload.co/f/5fpil635oo4/Bad_Times_at_the_El_Royale_%282018%29%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%97%E0%B8%B5%E0%B9%88_%E0%B9%80%E0%B8%AD%E0%B8%A5_%E0%B9%82%E0%B8%A3%E0%B9%81%E0%B8%A2%E0%B8%A5_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video

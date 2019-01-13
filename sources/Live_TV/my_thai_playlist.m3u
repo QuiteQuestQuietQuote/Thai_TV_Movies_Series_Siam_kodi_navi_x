@@ -3298,6 +3298,8 @@ http://59.120.242.104:9000/live/live1.m3u8
 #EXTINF:-1,LTV
 http://59.120.242.104:9000/live/live5.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ionitcom.ru/wp-content/uploads/2016/07/russ_night.jpg" group-title="Adult IPTV",Russian Night
+http://persik.by/stream/8682/252987/296.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/07/Varmint-TV.png" group-title="Adult IPTV",Varmint
 http://valeksex.iptvbot.ru/iptv/6HHHKCY4GUH8YV/922/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/23/30/30/233030a66664b179a25383bca1ed94e3.jpg" group-title="Adult IPTV",Candy TV
@@ -3353,7 +3355,7 @@ http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=156632922
 
 
-#EXTINF:-1,Docu_CHN
+#EXTINF:-1,a taste of china24/7_CHN
 http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 #EXTINF:-1,Documentary_CHN
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225791/index.m3u8
