@@ -123,7 +123,7 @@ URL=https://www.rapidvideo.com/e/FXD7BFBJ92&q=720p
 type=video
 name=
 thumb=
-date=2019-01-09
+date=2019-01-14
 URL=
 
 
@@ -131,6 +131,16 @@ URL=
 
 
 
+
+
+
+type=video
+name=How to Train Your Dragon: The Hidden World (2019) ENG 720p_HDCAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZPZdFP2qo0cvfNTrUUNRXTW9AB.jpg
+date=2019-01-14
+URL=https://openload.co/f/blBryEIz1OQ/How_To_Train_your_Dragon_3_720p_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/3sPA0DfMdcQ/How_To_Train_your_Dragon_3_720p_HDCAM_SeeHD.mkv   MKV2.2GB
+#https://openload.co/f/iCxH8tOXsp4/How_to_Train_Your_Dragon_3_2019_720p_HDCAM-1XBET.mp4
 
 type=video
 name=Holmes & Watson (2018) ENG 720p.HDCAM.1XBET_SeeHD
@@ -186,22 +196,16 @@ URL=https://openload.co/f/bGWQkbwH9Eo/Amanda.2018.HD-TS.HQMic.XviD-AVID.avi.mp4
 #https://openload.co/f/-u39Qh5b7W4/Amanda.2018.HD-TS.HQMic.XviD-AVID.avi.mp4
 
 type=video
-name=Mary Poppins Returns (2018) ENG NEW_720p_HDCAM_V2-1XBET_SeeHD
+name=Mary Poppins Returns (2018) ENG 720p_HD-TS_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg
-date=2018-12-25
-URL=https://openload.co/f/dlqF8ZzyS7k/Mary_Poppins_Returns_2018_NEW_720p_HDCAM_V2-1XBET_SeeHD.mp4
+date=2019-01-14
+URL=https://openload.co/f/Le7U02OneMc/Mary_Poppins_Returns_2018_720p_HD-TS_SeeHD.mkv.mp4
+#https://openload.co/f/7vjCeNPhd0Q/Mary_Poppins_Returns_2018_720p_HD-TS_SeeHD.mkv   MKV2.8GB
+#https://openload.co/f/dlqF8ZzyS7k/Mary_Poppins_Returns_2018_NEW_720p_HDCAM_V2-1XBET_SeeHD.mp4
 #https://openload.co/f/gtcm34DbfVE/Mary_Poppins_Returns_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/veQ8Wolexlw/Mary_Poppins_Returns_2018_720p_HDCAM-1XBET.mp4
 
-type=video
-name=Spider-Man: Into the Spider-Verse (2018) ENG HDCAM_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
-date=2019-01-01
-URL=https://openload.co/f/rSXjHTJzFf0/Spiderman_into_the_Spiderberse_HDCAM_SeeHD.mp4
-#https://openload.co/f/v7GjU1HV47Q/Spider-Man_Into_the_Spider-Verse_2018_720p_PROPER_HDCAM-ORCA88_SeeHD.mp4
-#https://openload.co/f/dBsGXFDFLLk/Spider-Man.Into.the.Spider-Verse.2018.HDCAM.x264-CHS.mp4
-#https://openload.co/f/qDwvb4h3Mho/Spider-Man_Into_The_Spider_Versee.2018.CAM.X264-SuperSpy_SeeHD.mkv.mp4
-#https://openload.co/f/Acp3BMFlPyA/Spider-Man.Into.The.Spider.Versee.2018.CAM.X264-SuperSpy.mkv.mp4
+
 
 type=video
 name=Instant Family (2018) ENG 720p_HDCAM_x264-EVO_SeeHD
@@ -257,10 +261,12 @@ date=2018-11-01
 URL=https://openload.co/f/W8e57zl-ZDc/The_Nutcracker_and_the_Four_Realms_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
 type=video
-name=Bohemian Rhapsody (2018) ENG 720p_HD-TS_X264-Arahant_SeeHD
+name=Bohemian Rhapsody (2018) ENG DVDScr.Xvid.AC3.SHQ.Hive-CM8_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf7jiy0rDVn1ljUwv3pWKousQ1p.jpg
-date=2018-11-15
-URL=https://openload.co/f/mne9LXmE8II/Bohemian_Rhapsody_2018_720p_HD-TS_X264-Arahant_SeeHD.mkv.mp4
+date=2019-01-14
+URL=https://openload.co/f/fl5AxRLpbPI/Bohemian.Rhapsody.2018.DVDScr.Xvid.AC3.SHQ.Hive-CM8_SeeHD.avi.mp4
+#https://openload.co/f/Pfl-IRNBq0A/Bohemian.Rhapsody.2018.DVDScr.Xvid.AC3.SHQ.Hive-CM8.avi.mp4
+#https://openload.co/f/mne9LXmE8II/Bohemian_Rhapsody_2018_720p_HD-TS_X264-Arahant_SeeHD.mkv.mp4
 #https://openload.co/f/QCRboGzcoRY/Bohemian_Rhapsody_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
 type=video
@@ -276,10 +282,12 @@ URL=https://openload.co/f/6wTfS25t1z0/Replicas.2018.WEB-DL.1080P.X264.AAC.CHS_Se
 
 
 type=video
-name=King of Thieves (2018) ENG 720p_TS-1XBET_SeeHD
+name=King of Thieves (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aANJRBtm75nw8fNlITAIvAOAGha.jpg
-date=2018-10-26
-URL=https://openload.co/f/HM-dmohGv4g/King_of_Thieves_2018_720p_TS-1XBET_SeeHD.mp4
+date=2019-01-14
+URL=https://openload.co/f/ZXWdpZMzypg/King.of.Thieves.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/SYGAT7ExW0Y/KingofThieves2018_720pHD_SeeHD.mp4
+#https://openload.co/f/HM-dmohGv4g/King_of_Thieves_2018_720p_TS-1XBET_SeeHD.mp4
 
 
 
@@ -428,14 +436,6 @@ URL=https://openload.co/f/EIKwwY7FPok/Godzilla.The.Planet.Eater.2018.DUBBED%2BSU
 
 
 type=video
-name=The Last Laugh (2019) ENG 1080p.NF.WEB-DL.DDP5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/59tmluymUP7aemwRDLhrXRG0jzV.jpg
-date=2019-01-11
-URL=https://openload.co/f/1hVTYT6VYIw/The.Last.Laugh.2018.1080p.NF.WEB-DL.DDP5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/lFWelFVtCeE/The.Last.Laugh.2018.1080p_HDM8.mkv.mp4
-#https://openload.co/f/bIJigLM2C8E/The.Last.Laugh.2018.1080p.NF.WEB-DL.DDP5.1.H264-CMRG.mkv   MKV3.9GB
-
-type=video
 name=Ashes in the Snow (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRMgle7vPFvSMq5R76JhsH54W4S.jpg
 date=2019-01-11
@@ -452,6 +452,12 @@ URL=https://openload.co/f/lCkkPxJmhD8/Suspiria.2018.1080p.WEB-DL.DD5.1.H264-FGT.
 
 
 
+type=video
+name=Reign of the Supermen (2019) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAgj2C86dFQcwTenzTviBcV2mDG.jpg
+date=2019-01-14
+URL=https://openload.co/f/FtWySYC7soA/Reign.of.the.Supermen.2019.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/wApukohVEyg/ReignoftheSupermen2019_720pHD_SeeHD.mp4
 
 
 
@@ -467,7 +473,7 @@ URL=https://openload.co/f/lCkkPxJmhD8/Suspiria.2018.1080p.WEB-DL.DD5.1.H264-FGT.
 type=video
 name=
 thumb=
-date=2019-01-13
+date=2019-01-14
 URL=
 
 
@@ -1371,7 +1377,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-13
+date=2019-01-14
 URL=
 
 
@@ -1379,6 +1385,34 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=Thugs of Hindostan (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR] | tmdb-53
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eonEvymAPpXvWvbBu21HYJx8VdS.jpg
+date=2019-01-14
+URL=https://uptobox.com/swh480i9um3n
+#https://fruithosts.net/embed/laspfnnkksecmdaq/GHPTHUGSOFHINDUSTAN80_Ganol_si_mkv
+#https://oload.fun/embed/QAzpswOkCXQ/GHPTHUGSOFHINDUSTAN80.Ganol.si.mkv
+#https://openload.co/f/OD2Rxx-iqVg/Thugs_of_Hindostan_%282018%29Blu-ray_1080p_AVC_TrueHD_7.1.Ganool.mkv.mp4
+
+type=video
+name=Battle (2018) [COLOR=FF00FF00]NOR BR 1080p[/COLOR] | tmdb-66
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfGhtAX7xe7W0ZgEcM2n6tnxgc0.jpg
+date=2019-01-14
+URL=https://openload.co/f/YrjRec-vFgY/Battle_2018_1080p_BluRay_x264_HDM8.mkv.mp4
+
+type=video
+name=All the Devil's Men (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | tmdb-54
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjN1CqYgpy72DVPgIffR9E0534D.jpg
+date=2019-01-14
+URL=https://uptobox.com/wdwbg6jrb2cv
+#https://fruithosts.net/embed/medeorfamtfopprb/ALLTHEDEVILSMEN80_Ganol_si_mkv
+#https://oload.fun/embed/Kd4isZUe8E0/ALLTHEDEVILSMEN80.Ganol.si.mkv
+#https://openload.co/f/p2hv2WVFpRU/All_the_Devil%27s_Men_%282018%291080p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
+#https://openload.co/f/7DxNKGmThnY/All.The.Devils.Men.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Man Who Killed Don Quixote (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
@@ -1460,11 +1494,7 @@ URL=https://uptobox.com/rr37gh1w8v6u
 #https://openload.co/f/g_500AUZM8k/The.Old.Man.and.the.Gun.2018.1080p.WEBRip.x264.AAC2.0-SHITBOX.mp4
 #https://openload.co/f/g9GNdZG7yBA/The_Old.Man.and.the.Gun.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 
-type=video
-name=Survival Family (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-68
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPcPmSuhqWfR62kX0zXSrDZmklS.jpg
-date=2019-01-07
-URL=https://openload.co/f/dqxNMQKAzVY/survival.family.2016.1080p.bluray.x264-regret.mkv.mp4
+
 
 type=video
 name=The Footballest (2018) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] | TMDB-61
@@ -2036,8 +2066,10 @@ URL=https://openload.co/f/6MXmS2NVxRU/Detective.Conan.Zero.the.Enforcer.2018.JAP
 type=video
 name=Hagazussa (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR] | TMDB-55
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTEheTibAiektkZPJQBnvWGLrC7.jpg
-date=2018-12-10
-URL=https://openload.co/f/YpGHDpcieR4/Hagazussa.2017.GERMAN.1080p.BluRay.H264.AAC.mp4
+date=2019-01-14
+URL=https://openload.co/f/idPsVjfI5QU/hagazussa.2017.1080p.bluray.x264-bipolar.mkv.mp4
+#https://openload.co/f/_Ef3lKax2KY/hagazussa.2017.1080p.bluray.x264-bipolar.mkv   MKV7.6GB
+#https://openload.co/f/YpGHDpcieR4/Hagazussa.2017.GERMAN.1080p.BluRay.H264.AAC.mp4
 
 type=video
 name=Dynamite Graffiti (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-70
@@ -6443,12 +6475,6 @@ URL=https://uptobox.com/p2i1g4kg7vk7
 #https://openload.co/f/bwHrsIleRaE/Gangster.Land.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
 #https://openload.co/f/278RrLe94Yg/Gangster_Land_2017.720p.HDRip.x264.AAC-N.O.K.mp4
 
-type=video
-name=Bullet Head (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySmKQPjWnNzuZ5YliQaOVEnWn2.jpg
-date=2018-01-09
-URL=https://uptobox.com/dqamv68pehmt
-#https://openload.co/f/4cxVOsi3o0U/Bullet.Head.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
 
 
 
@@ -6711,13 +6737,7 @@ URL=https://www.blazefile.co/embed-rrywn5yvi4cf.html
 #https://openload.co/f/z5scG1XR3MA/Rememory.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 #https://openload.co/f/yIvIZH-f_vo/Rememory.2017.HDRip.XviD.AC3-EVO.avi.mp4
 
-type=video
-name=Acts of Vengeance (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/XZ1NmJmi7xFXo6eJ0UNswRpitV.jpg
-date=2017-11-15
-URL=https://www.blazefile.co/embed-zff92s66f4u3.html
-#https://openload.co/f/nYKGWtth60s/Acts.of.Vengeance.2017.1080p.BluRay.x264-ROVERS.mkv
-#https://openload.co/f/esU0klLUNGo/Acts.Of.Vengeance.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+
 
 type=video
 name=Amityville: The Awakening (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -8353,7 +8373,11 @@ URL=https://www.blazefile.co/embed-1l6wybupclmh.html
 #https://openload.co/embed/hRF6SSqhdjE/PINCUSHIONBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/bHZh0EEtYMA/Pin.Cushion.2017.720p.BluRay.x264-GUACAMOLE.mkv.mp4
 
-
+type=video
+name=Solo (2018) [COLOR=FF00FF00]ESP BR 720p[/COLOR] | tmdb-51
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ii3AyMpyoYRo62UVX1mCgxFvTPD.jpg
+date=2019-01-14
+URL=https://openload.co/f/mmAJiAxhJMM/Solo.2018.720.BR_SeeHD.mp4
 
 
 
@@ -8371,7 +8395,7 @@ URL=https://www.blazefile.co/embed-1l6wybupclmh.html
 type=video
 name=
 thumb=
-date=2018-12-25
+date=2019-01-14
 URL=
 
 type=video
@@ -8461,7 +8485,20 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
-
+type=video
+name=Spider-Man: Into the Spider-Verse (2018) ENG HDCAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
+date=2019-01-01
+URL=https://openload.co/f/rSXjHTJzFf0/Spiderman_into_the_Spiderberse_HDCAM_SeeHD.mp4
+#https://openload.co/f/v7GjU1HV47Q/Spider-Man_Into_the_Spider-Verse_2018_720p_PROPER_HDCAM-ORCA88_SeeHD.mp4
+#https://openload.co/f/dBsGXFDFLLk/Spider-Man.Into.the.Spider-Verse.2018.HDCAM.x264-CHS.mp4
+#https://openload.co/f/qDwvb4h3Mho/Spider-Man_Into_The_Spider_Versee.2018.CAM.X264-SuperSpy_SeeHD.mkv.mp4
+#https://openload.co/f/Acp3BMFlPyA/Spider-Man.Into.The.Spider.Versee.2018.CAM.X264-SuperSpy.mkv.mp4
+type=video
+name=Spider-Man: Into the Spider-Verse (2018) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
+date=2019-01-14
+URL=https://openload.co/f/flu_Kj3f7Gs/Spider-Man%3A_Into_the_Spider-Verse_%282018%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99%3A_%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -8592,34 +8629,6 @@ URL=https://openload.co/f/y56p0f0Dy8g/Overlord_%282018%29%E0%B8%9B%E0%B8%8F%E0%B
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-type=video
-name=Luis and the Aliens (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oq7s5ru4hjp83mi4fWSJ0L7yUA.jpg
-date=2018-10-30
-URL=https://openload.co/f/aLZ0rJ1Whkw/Luis.And.The.Aliens.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/LYfTv3lOBcg/Luis.%26.The.Aliens.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://uptobox.com/kdgue6nab7ur   720
-#https://openload.co/embed/5rOV8XdMl64/LUISANDTHEALINESBD72.Ganol.st.mkv
-#https://openload.co/f/S6CQRWvKfF4/Luis_%26_the_Aliens_%282018%29720p_BluRay_x264-SNOW.Ganool.mkv.mp4
-#https://openload.co/f/7ltlNdNVdjA/Luis_and_His_Friends_from_Outer_Space.2018.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-type=video
-name=Luis and the Aliens (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oq7s5ru4hjp83mi4fWSJ0L7yUA.jpg
-date=2018-10-08
-URL=https://openload.co/f/qo3RsswIa80/Luis_and_the_Aliens_%282018%29%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%AA%E0%B9%8C%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
-
-
 type=video
 name=Hell Fest (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-53
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tjyPwIqeYzho7fHWqBKIn2gyWg.jpg
@@ -8636,101 +8645,8 @@ URL=https://uptobox.com/qlrpw5n58dvi
 type=video
 name=Hell Fest (2018) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tjyPwIqeYzho7fHWqBKIn2gyWg.jpg
-date=2018-10-08
+date=2018-12-29
 URL=https://openload.co/f/NzNS1jlT1t4/Hell_Fest_%282018%29%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -8789,7 +8705,7 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 type=video
 name=
 thumb=
-date=2019-01-11
+date=2019-01-14
 URL=
 
 
@@ -8799,6 +8715,54 @@ URL=
 
 
 
+type=video
+name=The Ballad of Buster Scruggs (2018) ENG 720p.NF.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/voxl654m7p36y8FLu8oQD7dfwwK.jpg
+date=2019-01-14
+URL=https://openload.co/f/LOIPsgvNKd8/The.Ballad.of.Buster.Scruggs.2018.720p.NF.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D_SeeHD.mkv.mp4
+type=video
+name=The Ballad of Buster Scruggs (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/voxl654m7p36y8FLu8oQD7dfwwK.jpg
+date=2019-01-14
+URL=https://openload.co/f/IaqRFxw8Mes/The_Ballad_of_Buster_Scruggs_%282018%29%E0%B8%A5%E0%B8%B3%E0%B8%99%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%A5%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B9%8A%E0%B8%81%E0%B8%AA%E0%B9%8C_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=The Princess Switch (2018) ENG 1080p.NF.WEB-DL.DD5.1.H264-CMRG_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/biRUM4CBgfJtEQDCttf3zca4epp.jpg
+date=2019-01-14
+URL=https://openload.co/f/HufuOSYxlUU/The.Princess.Switch.2018.1080p.NF.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+type=video
+name=The Princess Switch (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/biRUM4CBgfJtEQDCttf3zca4epp.jpg
+date=2019-01-14
+URL=https://openload.co/f/yD1TNwuM0d4/The_Princess_Switch_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%AA_%E0%B8%AA%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%8A%E0%B9%8C_%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=The Last Laugh (2019) ENG 1080p.NF.WEB-DL.DDP5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/59tmluymUP7aemwRDLhrXRG0jzV.jpg
+date=2019-01-11
+URL=https://openload.co/f/1hVTYT6VYIw/The.Last.Laugh.2018.1080p.NF.WEB-DL.DDP5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/lFWelFVtCeE/The.Last.Laugh.2018.1080p_HDM8.mkv.mp4
+#https://openload.co/f/bIJigLM2C8E/The.Last.Laugh.2018.1080p.NF.WEB-DL.DDP5.1.H264-CMRG.mkv   MKV3.9GB
+type=video
+name=The Last Laugh (2019) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/59tmluymUP7aemwRDLhrXRG0jzV.jpg
+date=2019-01-14
+URL=https://openload.co/f/dacCMLm8b4w/The_Last_Laugh_%282019%29%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Survival Family (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPcPmSuhqWfR62kX0zXSrDZmklS.jpg
+date=2019-01-07
+URL=https://openload.co/f/dqxNMQKAzVY/survival.family.2016.1080p.bluray.x264-regret.mkv.mp4
+type=video
+name=Survival Family (2017) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPcPmSuhqWfR62kX0zXSrDZmklS.jpg
+date=2019-01-14
+URL=https://openload.co/f/7QmJyXijIss/Survival_Family_%282017%29Survival_Family_%282016%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -11516,6 +11480,24 @@ URL=
 
 
 type=video
+name=Luis and the Aliens (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oq7s5ru4hjp83mi4fWSJ0L7yUA.jpg
+date=2018-10-30
+URL=https://openload.co/f/aLZ0rJ1Whkw/Luis.And.The.Aliens.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/LYfTv3lOBcg/Luis.%26.The.Aliens.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://uptobox.com/kdgue6nab7ur   720
+#https://openload.co/embed/5rOV8XdMl64/LUISANDTHEALINESBD72.Ganol.st.mkv
+#https://openload.co/f/S6CQRWvKfF4/Luis_%26_the_Aliens_%282018%29720p_BluRay_x264-SNOW.Ganool.mkv.mp4
+#https://openload.co/f/7ltlNdNVdjA/Luis_and_His_Friends_from_Outer_Space.2018.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+type=video
+name=Luis and the Aliens (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oq7s5ru4hjp83mi4fWSJ0L7yUA.jpg
+date=2019-01-14
+URL=https://openload.co/f/go7PI8UU2sI/Luis_and_the_Aliens_%282018%29%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%AA%E0%B9%8C%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/qo3RsswIa80/Luis_and_the_Aliens_%282018%29%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%AA%E0%B9%8C%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
 name=Iceman: The Time Traveler (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-32
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/enZENHd2gwVAw4sJKJxtJl1vJ09.jpg
 date=2019-01-01
@@ -11708,6 +11690,8 @@ URL=https://uptobox.com/2h7o1px2p7aq
 #https://fruithosts.net/embed/osfstcolmksqqqre/GHPFIRSTMAN80_Ganol_si_mkv_mp4
 #https://oload.fun/embed/VAtk_LCWpw0/GHPFIRSTMAN80.Ganol.si.mkv
 #https://openload.co/f/rB9L5VQBHpI/First_Man_%282018%29PROPER_1080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/tmOhnEJhlMU/First.Man.2018.IMAX.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/T-Q5z45BB1I/First.Man.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
 #https://openload.co/f/0VGe4XmzmHk/first.man.2018.proper.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/wI7HYCqqYTM/First.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/tHksAmN0S1M/First.Man.2018.1080p.BluRay_SeeHD.mp4
@@ -11723,8 +11707,9 @@ URL=https://uptobox.com/2h7o1px2p7aq
 type=video
 name=First Man (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
-date=2018-11-26
-URL=https://openload.co/f/aHTXtE3yc8Q/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+date=2019-01-14
+URL=https://openload.co/f/Ouqrk5OIvAg/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/aHTXtE3yc8Q/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://openload.co/f/5EVxFMyOWyw/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
@@ -12192,6 +12177,31 @@ URL=
 
 
 
+type=video
+name=Bullet Head (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | tmdb-47
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySmKQPjWnNzuZ5YliQaOVEnWn2.jpg
+date=2018-01-09
+URL=https://uptobox.com/dqamv68pehmt
+#https://openload.co/f/4cxVOsi3o0U/Bullet.Head.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
+type=video
+name=Bullet Head (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySmKQPjWnNzuZ5YliQaOVEnWn2.jpg
+date=2019-01-14
+URL=https://openload.co/f/CPdz4g1xyHo/Bullet_Head_%282017%29%E0%B8%AB%E0%B8%B1%E0%B8%81%E0%B9%82%E0%B8%AB%E0%B8%94%E0%B8%8A%E0%B8%B0%E0%B8%95%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87.mp4
+
+
+type=video
+name=Acts of Vengeance (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5o6vWPYOQs6bv91gQ8kQs2zQYl.jpg
+date=2017-11-15
+URL=https://www.blazefile.co/embed-zff92s66f4u3.html
+#https://openload.co/f/nYKGWtth60s/Acts.of.Vengeance.2017.1080p.BluRay.x264-ROVERS.mkv
+#https://openload.co/f/esU0klLUNGo/Acts.Of.Vengeance.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+type=video
+name=Acts of Vengeance (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/XZ1NmJmi7xFXo6eJ0UNswRpitV.jpg
+date=2019-01-14
+URL=https://openload.co/f/WkavpSu3yKA/Acts_of_Vengeance_%282017%29%E0%B8%9D%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3.mp4
 
 
 type=video
