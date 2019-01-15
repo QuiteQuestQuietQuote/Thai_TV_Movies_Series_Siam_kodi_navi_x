@@ -123,7 +123,7 @@ URL=https://www.rapidvideo.com/e/FXD7BFBJ92&q=720p
 type=video
 name=
 thumb=
-date=2019-01-14
+date=2019-01-15
 URL=
 
 
@@ -133,6 +133,22 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=Second Act (2018) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNRX9LrtYiXUKFMjcHLZ9QrBbH9.jpg
+date=2019-01-15
+URL=https://openload.co/f/KxGVY0UqoDg/Second_Act_2018_720p_HDCAM-1XBET_SeeHD.mp4
+
+type=video
+name=Boy Erased (2018) ENG 1080pHD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/29nwMbH6wAjpFdQD3sxztOV5P5x.jpg
+date=2019-01-15
+URL=https://openload.co/f/qD_85tWyTf0/Boy_Erased_1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/jcCYICnaY8Q/DD_Boy.Erased.2019.1080p.WEB-DL.DD5.1.H264-HDMo8.mkv.mp4
 
 type=video
 name=How to Train Your Dragon: The Hidden World (2019) ENG 720p_HDCAM_SeeHD
@@ -158,10 +174,11 @@ URL=https://openload.co/f/Iq_875xBRo4/The.Vice.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8_
 #https://openload.co/f/C6oiCu1imAk/The.Vice.2018.DVDSCR.MkvCage.ws.mkv.mp4
 
 type=video
-name=Once Upon a Deadpool (2018) ENG NEW.720p.HDCAM-1XBET
+name=Once Upon a Deadpool (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ka49BWWyKMXr93YMbH5wLN7aAM.jpg
-date=2019-01-04
-URL=https://openload.co/f/s6sVYgkq9ps/Once.Upon.a.Deadpool.2018.NEW.720p.HDCAM-1XBET.mp4
+date=2019-01-15
+URL=https://openload.co/f/1xXRODRusb0/Once.Upon.A.Deadpool.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/s6sVYgkq9ps/Once.Upon.a.Deadpool.2018.NEW.720p.HDCAM-1XBET.mp4
 #https://openload.co/f/Z9Hz_lhk_Hg/Once.Upon.a.Deadpool.HDCAM.1XBET_SeeHD.mp4
 
 type=video
@@ -295,10 +312,11 @@ URL=https://openload.co/f/ZXWdpZMzypg/King.of.Thieves.2018.1080p.WEB-DL.DD5.1.H2
 
 
 type=video
-name=A Star Is Born (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
+name=A Star Is Born (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg
-date=2018-11-15
-URL=https://openload.co/f/F-FUmjRW-E8/A.Star.is.Born.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+date=2019-01-15
+URL=https://openload.co/f/F_hKvV5fAhE/A.Star.is.Born.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/F-FUmjRW-E8/A.Star.is.Born.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/YXp9ToPlKR8/A.Star.is.Born.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/n4-PVqD7M-8/A.Star.Is.Born.2018.720p.HDCAM.1XBET_SeeHD.mp4
 
@@ -444,10 +462,13 @@ URL=https://openload.co/f/84iLgqRkJJ4/Ashes.in.the.Snow.2018.1080p.WEB-DL.DD5.1.
 #https://openload.co/f/Xtel7e34WH8/Ashes_in_The_Snow_2018_720pHD_SeeHD.mp4
 
 type=video
-name=Suspiria (2018) ENG 1080p.WEB-DL.DD5.1.H264-FGT
+name=Suspiria (2018) ENG 1080phd_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Nu6qk2UwM4aGvd5BvIMtvt3zoi.jpg
-date=2019-01-13
-URL=https://openload.co/f/lCkkPxJmhD8/Suspiria.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+date=2019-01-15
+URL=https://openload.co/f/8h2hcDF6OS8/Suspiria1080phd_SeeHD.mkv.mp4
+#https://openload.co/f/-sU37B1Oanc/Suspiria720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/7JBUO_I0x1A/Suspiria720pHD_SeeHD.mkv   MKV3.3GB
+#https://openload.co/f/lCkkPxJmhD8/Suspiria.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/l6YjlLNyxc0/Suspiria.2018.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 
 
@@ -1390,7 +1411,7 @@ URL=
 
 
 type=video
-name=Thugs of Hindostan (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR] | tmdb-53
+name=Thugs of Hindostan (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR] | TMDB-53
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eonEvymAPpXvWvbBu21HYJx8VdS.jpg
 date=2019-01-14
 URL=https://uptobox.com/swh480i9um3n
@@ -1399,13 +1420,13 @@ URL=https://uptobox.com/swh480i9um3n
 #https://openload.co/f/OD2Rxx-iqVg/Thugs_of_Hindostan_%282018%29Blu-ray_1080p_AVC_TrueHD_7.1.Ganool.mkv.mp4
 
 type=video
-name=Battle (2018) [COLOR=FF00FF00]NOR BR 1080p[/COLOR] | tmdb-66
+name=Battle (2018) [COLOR=FF00FF00]NOR BR 1080p[/COLOR] | TMDB-66
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfGhtAX7xe7W0ZgEcM2n6tnxgc0.jpg
 date=2019-01-14
 URL=https://openload.co/f/YrjRec-vFgY/Battle_2018_1080p_BluRay_x264_HDM8.mkv.mp4
 
 type=video
-name=All the Devil's Men (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | tmdb-54
+name=All the Devil's Men (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-54
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjN1CqYgpy72DVPgIffR9E0534D.jpg
 date=2019-01-14
 URL=https://uptobox.com/wdwbg6jrb2cv
@@ -1417,8 +1438,9 @@ URL=https://uptobox.com/wdwbg6jrb2cv
 type=video
 name=The Man Who Killed Don Quixote (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ehIeMqlhgQ615nbqvnZo6ocQdx.jpg
-date=2019-01-13
-URL=https://openload.co/f/L_YROsS_nwU/The_Man_Who_Killed_Don_Quixote.2019.1080p.Bluray.X264-HDM8.mp4
+date=2019-01-15
+URL=https://openload.co/f/eLlUkC6XTfo/The.Man.Who.Killed.Don.Quixote.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/L_YROsS_nwU/The_Man_Who_Killed_Don_Quixote.2019.1080p.Bluray.X264-HDM8.mp4
 #https://openload.co/f/HqXMniJLHRQ/The_Man_Who_Killed_Don_Quixote.2019.V2.720p.BDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 
 type=video
@@ -1469,6 +1491,7 @@ name=The Rider (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-75
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpaT0nA7pLPAmXYGra6sUS95hFB.jpg
 date=2019-01-07
 URL=https://openload.co/f/zLH2WVc8jBU/the.rider.2017.1080p.bluray.x264-brmp.mkv.mp4
+#https://openload.co/f/-JG-xKIar2I/The.Rider.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/hnMp7d25Gf8/The.Rider.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/veUleto88sU/The_Rider_%282017%291080p_BluRay_x264-BRMP.Ganool.mkv.mp4
 
@@ -2807,19 +2830,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSw97KTyxUQWCyGvnrc7t73L15
 date=2018-11-04
 URL=https://openload.co/f/44T6vKLs1yk/Rampage.President.Down.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=BlacKkKlansman (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/55W6mUVv4CXMMQHHhV2zXtLSpXQ.jpg
-date=2018-11-04
-URL=https://uptobox.com/1tnsv8nc4dni
-#https://www.rapidvideo.com/e/FWUZ05KK5Z
-#https://openload.co/embed/1j2HXQMXDCY/GHPBLACKKLANSMAN80.Ganol.st.mkv
-#https://openload.co/f/bLhvnaMx6uA/BlacKkKlansman_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
-#https://openload.co/f/j2xd8Bar6nA/BlacKkKlansman.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/1c10hC7FoyY/BlacKkKlansman.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/5rIEW8h1fh4/BlacKkKlansman.2018.720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/2Okq7chgLvI/BlacKkKlansman.2018.720pHD_SeeHD.mkv   MKV2.8GB
-#https://openload.co/f/Rf7BISAZHx4/BlacKkKlansman_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
+
 
 type=video
 name=Primal Rage (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -8715,6 +8726,27 @@ URL=
 
 
 
+
+type=video
+name=BlacKkKlansman (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-75
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/55W6mUVv4CXMMQHHhV2zXtLSpXQ.jpg
+date=2018-11-04
+URL=https://uptobox.com/1tnsv8nc4dni
+#https://www.rapidvideo.com/e/FWUZ05KK5Z
+#https://openload.co/embed/1j2HXQMXDCY/GHPBLACKKLANSMAN80.Ganol.st.mkv
+#https://openload.co/f/bLhvnaMx6uA/BlacKkKlansman_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+#https://openload.co/f/j2xd8Bar6nA/BlacKkKlansman.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/1c10hC7FoyY/BlacKkKlansman.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/5rIEW8h1fh4/BlacKkKlansman.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/2Okq7chgLvI/BlacKkKlansman.2018.720pHD_SeeHD.mkv   MKV2.8GB
+#https://openload.co/f/Rf7BISAZHx4/BlacKkKlansman_2018_720p_HDCAM_X264-24HD_SeeHD.mp4
+type=video
+name=BlacKkKlansman (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/55W6mUVv4CXMMQHHhV2zXtLSpXQ.jpg
+date=2019-01-15
+URL=https://openload.co/f/HTQHQleGNPA/BlacKkKlansman_%282018%29BlacKkKlansman_%282018%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
 type=video
 name=The Ballad of Buster Scruggs (2018) ENG 720p.NF.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/voxl654m7p36y8FLu8oQD7dfwwK.jpg
@@ -11567,10 +11599,12 @@ URL=https://openload.co/f/oj3kxxzijvc/Fantastic_Beasts%3A_The_Crimes_of_Grindelw
 
 
 type=video
-name=Hunter Killer (2018) ENG HC.1080p.HDRip.X264-EVO_SeeHD
+name=Hunter Killer (2018) ENG Proper.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
-date=2018-12-14
-URL=https://openload.co/f/TXo0rwp8Axw/Hunter_Killer.2018.HC.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
+date=2019-01-15
+URL=https://openload.co/f/5QJijZk7f-4/Hunter.Killer.2018.Proper.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/pAgaO7g-0E0/Hunter_Killer.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/TXo0rwp8Axw/Hunter_Killer.2018.HC.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/I9_ENs0lU-A/Hunter.Killer.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
 #https://openload.co/f/Vr_CK7ocuNw/Hunter.Killer.2018.CAM.XViD-T3RR0R.SQU4D.mp4
 #https://openload.co/f/WH4Ch_m3VuA/Hunter_Killer_2018_720p_HDCAM-1XBET_SeeHD.mp4
@@ -12178,13 +12212,13 @@ URL=
 
 
 type=video
-name=Bullet Head (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | tmdb-47
+name=Bullet Head (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-47
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySmKQPjWnNzuZ5YliQaOVEnWn2.jpg
 date=2018-01-09
 URL=https://uptobox.com/dqamv68pehmt
 #https://openload.co/f/4cxVOsi3o0U/Bullet.Head.2017.720p.BluRay.x264.DTS-MT.mkv.mp4
 type=video
-name=Bullet Head (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Bullet Head (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySmKQPjWnNzuZ5YliQaOVEnWn2.jpg
 date=2019-01-14
 URL=https://openload.co/f/CPdz4g1xyHo/Bullet_Head_%282017%29%E0%B8%AB%E0%B8%B1%E0%B8%81%E0%B9%82%E0%B8%AB%E0%B8%94%E0%B8%8A%E0%B8%B0%E0%B8%95%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87.mp4
@@ -12214,8 +12248,9 @@ URL=https://openload.co/f/nZoJQGXxtBs/Loving_Pablo.2017.1080p.BluRay.x264-PSYCHD
 type=video
 name=Loving Pablo (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFc8RCsQGQv016ELpggiEKoBNAe.jpg
-date=2019-10-13
-URL=https://openload.co/f/KE4qibVEHQ4/Loving_Pablo_%282018%29%E0%B8%9B%E0%B8%B2%E0%B9%82%E0%B8%9A%E0%B8%A5_%E0%B9%80%E0%B8%AD%E0%B8%AA%E0%B9%82%E0%B8%81%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+date=2019-10-15
+URL=https://openload.co/f/3yoK_fWn3cY/Loving_Pablo_%282018%29%E0%B8%9B%E0%B8%B2%E0%B9%82%E0%B8%9A%E0%B8%A5_%E0%B9%80%E0%B8%AD%E0%B8%AA%E0%B9%82%E0%B8%81%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4_%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%9E%E0%B8%95%E0%B8%B4%E0%B8%94.mp4
+#https://openload.co/f/KE4qibVEHQ4/Loving_Pablo_%282018%29%E0%B8%9B%E0%B8%B2%E0%B9%82%E0%B8%9A%E0%B8%A5_%E0%B9%80%E0%B8%AD%E0%B8%AA%E0%B9%82%E0%B8%81%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B9%8C_%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
 
 
 type=video

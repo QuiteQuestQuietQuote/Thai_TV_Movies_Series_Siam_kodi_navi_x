@@ -3239,7 +3239,8 @@ http://persik.by/stream/8682/252987/10292.m3u8
 
 #EXTINF:-1 group-title="True Vision"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL_TH
 http://27.254.63.132:8081/tumlive/Disney/playlist.m3u8
-
+#EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO_HD
+http://206.189.46.75/live/hbo.m3u8
 
 
 
@@ -3298,18 +3299,19 @@ http://59.120.242.104:9000/live/live1.m3u8
 #EXTINF:-1,LTV
 http://59.120.242.104:9000/live/live5.m3u8
 
+
+#EXTINF:-1,B_hot
+http://213.188.44.135:8052/play/a00i
+#EXTINF:-1,holland
+http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/19356
+#EXTINF:-1,private_HD
+http://178.162.134.176:3006/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ionitcom.ru/wp-content/uploads/2016/07/russ_night.jpg" group-title="Adult IPTV",Russian Night
 http://persik.by/stream/8682/252987/296.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/07/Varmint-TV.png" group-title="Adult IPTV",Varmint
 http://valeksex.iptvbot.ru/iptv/6HHHKCY4GUH8YV/922/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/23/30/30/233030a66664b179a25383bca1ed94e3.jpg" group-title="Adult IPTV",Candy TV
 http://valeksex.iptvbot.ru/iptv/6HHHKCY4GUH8YV/923/index.m3u8
-
-#EXTINF:-1,test
-http://mytvonline.nl:80/MlRRupQoZZ/pI5TGS3aDY/19356
-#EXTINF:-1,private_HD
-http://178.162.134.176:3006/play/a00q/index.m3u8
-
 
 
 #EXTINF:-1,JAV_6_SonSee
@@ -3376,8 +3378,6 @@ https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews (English) 
 http://persik.by/stream/8682/252987/10265.m3u8 
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews
-https://euronews-en-b11-cdn.hexaglobe.net/f25691468e50465621af490e524c27b0/5c34c284/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenbkp_eng.smil/ewnsabrenbkp_eng_720p.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS_HD
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_HD
@@ -3394,12 +3394,8 @@ http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
-#EXTINF:-1,HBO_HD
-http://206.189.46.75/live/hbo.m3u8
-#EXTINF:-1,DaVinci 
-http://5.14.255.36:7522/upnp/channelstream/23 
-#EXTINF:-1,BBC Earth 
-http://5.14.255.36:7522/upnp/channelstream/11 
+
+
 
 
 
