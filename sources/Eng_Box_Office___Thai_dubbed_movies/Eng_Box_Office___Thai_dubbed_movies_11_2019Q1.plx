@@ -143,12 +143,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNRX9LrtYiXUKFMjcHLZ9QrBbH
 date=2019-01-15
 URL=https://openload.co/f/KxGVY0UqoDg/Second_Act_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
-type=video
-name=Boy Erased (2018) ENG 1080pHD_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/29nwMbH6wAjpFdQD3sxztOV5P5x.jpg
-date=2019-01-15
-URL=https://openload.co/f/qD_85tWyTf0/Boy_Erased_1080pHD_SeeHD.mkv.mp4
-#https://openload.co/f/jcCYICnaY8Q/DD_Boy.Erased.2019.1080p.WEB-DL.DD5.1.H264-HDMo8.mkv.mp4
+
 
 type=video
 name=How to Train Your Dragon: The Hidden World (2019) ENG 720p_HDCAM_SeeHD
@@ -173,13 +168,7 @@ URL=https://openload.co/f/Iq_875xBRo4/The.Vice.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8_
 #https://openload.co/f/6WDFIgBwzu8/The.Vice.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8.avi.mp4
 #https://openload.co/f/C6oiCu1imAk/The.Vice.2018.DVDSCR.MkvCage.ws.mkv.mp4
 
-type=video
-name=Once Upon a Deadpool (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ka49BWWyKMXr93YMbH5wLN7aAM.jpg
-date=2019-01-15
-URL=https://openload.co/f/1xXRODRusb0/Once.Upon.A.Deadpool.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/s6sVYgkq9ps/Once.Upon.a.Deadpool.2018.NEW.720p.HDCAM-1XBET.mp4
-#https://openload.co/f/Z9Hz_lhk_Hg/Once.Upon.a.Deadpool.HDCAM.1XBET_SeeHD.mp4
+
 
 type=video
 name=The Favourite (2018) ENG DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD
@@ -1398,7 +1387,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-14
+date=2019-01-16
 URL=
 
 
@@ -1407,8 +1396,43 @@ URL=
 
 
 
+type=video
+name=Western (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR] | TMDB-64
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLWwFrU0JFHIzQzxDpF8CKxfeey.jpg
+date=2019-01-16
+URL=
+#https://openload.co/f/sQ7vL22odFA/western.2017.limited.1080p.bluray.x264-usury.mkv   MKV8.7GB
 
+type=video
+name=Under the Tree (2017) [COLOR=FF00FF00]ICE BR 1080p[/COLOR] | TMDB-76
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFRfeFoj6imgrmCDkp7k6FqCxyt.jpg
+date=2019-01-16
+URL=https://openload.co/f/SOeo83ghvuU/Indivisible.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/-sMxElzTNYM/under.the.tree.2017.limited.1080p.bluray.x264-cadaver.mkv   MKV6.6GB
 
+type=video
+name=Boy Erased (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/29nwMbH6wAjpFdQD3sxztOV5P5x.jpg
+date=2019-01-16
+URL=https://uptobox.com/nopp75fzrfhe
+#https://fruithosts.net/embed/ceonnrtdabnnkeld/BOYERASED80_Ganol_si_mkv
+#https://oload.icu/embed/wVmeRWWhizM/BOYERASED80.Ganol.si.mkv
+#https://openload.co/f/FeeZaHUGAFE/Boy_Erased_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/qD_85tWyTf0/Boy_Erased_1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/jcCYICnaY8Q/DD_Boy.Erased.2019.1080p.WEB-DL.DD5.1.H264-HDMo8.mkv.mp4
+
+type=video
+name=Once Upon a Deadpool (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ka49BWWyKMXr93YMbH5wLN7aAM.jpg
+date=2019-01-16
+URL=https://uptobox.com/hnycmywjqmb3
+#https://fruithosts.net/embed/ddctlratoanrknqf/GHPONCEUPONADEAPOOL80_Ganol_si_mkv_mp4
+#https://oload.icu/embed/VD61LkcyILs/GHPONCEUPONADEAPOOL80.Ganol.si.mkv
+#https://openload.co/f/FgUE4b069TE/Once_Upon_a_Deadpool_%282018%291080p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
+#https://openload.co/f/dM-xREZLaVk/Deadpool.2.2018.Once.Upon.a.Deadpool.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/1xXRODRusb0/Once.Upon.A.Deadpool.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/s6sVYgkq9ps/Once.Upon.a.Deadpool.2018.NEW.720p.HDCAM-1XBET.mp4
+#https://openload.co/f/Z9Hz_lhk_Hg/Once.Upon.a.Deadpool.HDCAM.1XBET_SeeHD.mp4
 
 type=video
 name=Thugs of Hindostan (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR] | TMDB-53
