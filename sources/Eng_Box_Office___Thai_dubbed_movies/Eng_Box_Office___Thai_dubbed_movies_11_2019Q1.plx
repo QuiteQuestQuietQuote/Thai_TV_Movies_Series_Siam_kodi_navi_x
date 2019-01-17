@@ -1400,14 +1400,20 @@ type=video
 name=Western (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR] | TMDB-64
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLWwFrU0JFHIzQzxDpF8CKxfeey.jpg
 date=2019-01-16
-URL=
+URL=https://openload.co/f/MYaQ3S5M0x8/western.2017.limited.1080p.bluray.x264-usury.mkv.mp4
 #https://openload.co/f/sQ7vL22odFA/western.2017.limited.1080p.bluray.x264-usury.mkv   MKV8.7GB
+
+type=video
+name=Indivisible (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-27
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHoV8LbrDPGBZp0QSl9S0Jiw4tg.jpg
+date=2019-01-16
+URL=https://openload.co/f/SOeo83ghvuU/Indivisible.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
 
 type=video
 name=Under the Tree (2017) [COLOR=FF00FF00]ICE BR 1080p[/COLOR] | TMDB-76
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFRfeFoj6imgrmCDkp7k6FqCxyt.jpg
 date=2019-01-16
-URL=https://openload.co/f/SOeo83ghvuU/Indivisible.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+URL=
 #https://openload.co/f/-sMxElzTNYM/under.the.tree.2017.limited.1080p.bluray.x264-cadaver.mkv   MKV6.6GB
 
 type=video
@@ -2928,14 +2934,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXZsv8e9Q5mdYjsdNjch8cZzcU
 date=2018-10-29
 URL=https://openload.co/f/hwGX6ghWAYk/The.Devil%27s.Doorway.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
-type=video
-name=Our House (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1Qt0HtO4ZYY2qcgM42XUd8xgtA.jpg
-date=2018-10-29
-URL=https://openload.co/f/XNPHsgrvCq4/Our.House.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://uptobox.com/i8kfkc1o0iz8   720
-#https://openload.co/embed/_ZTdu2wxgXQ/OURHOUSEBD72.Ganol.st.mkv
-#https://openload.co/f/d0I5vQP3rJ4/Our_House_%282018%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
+
 
 type=video
 name=Teen Titans Go! To the Movies (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -3004,11 +3003,6 @@ URL=https://uptobox.com/m7b4xsd9d1ec
 #https://openload.co/embed/jP52FRAOAOM/THEUNKNOWSOLDIERBD72.Ganol.st.mkv
 #https://openload.co/f/G0K4QSG5d4g/The_Unknown_Soldier_%282017%29BluRay_720p_x264_TrueHD_7_1-HDC.Ganool.mkv.mp4
 
-type=video
-name=McQueen (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bc5kAqhNfLitH7zMlLvLRbxV0xD.jpg
-date=2018-10-26
-URL=https://openload.co/f/CRvK3dpZK4M/mcqueen.2018.limited.1080p.bluray.x264-cadaver.mkv.mp4
 
 
 
@@ -4226,20 +4220,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t89TgOiEXGl43pVoBxpGUP2tIp
 date=2018-07-18
 URL=https://openload.co/f/0iFCMMFZw7M/The.Assassins.Code.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
 
-type=video
-name=Dark Crimes (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJSsTFvccBmqp9t9IFauXA3wWK7.jpg
-date=2018-07-19
-URL=https://uptobox.com/7dtwyefwfjyf
-#https://www.rapidvideo.com/e/FTF6PEQY6V
-#https://openload.co/embed/PozQLTGZ2qo/GHPDARKCRIMES80.Ganol.ru.mkv
-#https://openload.co/f/3DZUjLMvunk/Dark.Crimes.2016.1080p.BR_SeeHD.mp4
-#https://openload.co/f/9KjOhM2f4nU/dark.crimes.2016.multi.1080p.bluray.x264-lost.mkv.mp4
-#https://openload.co/f/60EYPNT5tRE/True.Crimes.2016.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTGb.mp4
-#https://openload.co/f/wRdRLUn7iFE/Dark_Crimes_%282016%29_HDRip_AC3_XviD_AIR.avi.mp4
-#https://uptobox.com/a5w9p8ygdp7j   720
-#https://www.rapidvideo.com/e/FTDT7ZSVJK   720
-#https://openload.co/embed/6qUucweLKfs/SHQDARKCMESBD72.Ganol.ru.mkv
+
 
 
 
@@ -5982,13 +5963,6 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTaaLwdCWHJQGGhGAiFcGYTuk1
 date=2018-02-22
 URL=https://openload.co/f/L51ns9BrHBc/Giant.2017.1080p.BluRay.x264_YTS
 
-type=video
-name=Reset (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwTonDtQstoMQHYEBCz8x8RvBJJ.jpg
-date=2018-02-21
-URL=https://www.blazefile.co/embed-lh2b03e7ahrp.html
-#https://uptobox.com/ux069e3wplu5
-#https://openload.co/f/235mxEsrzMc/Reset.2017.1080p_BluRay_x264_DTS_-WiKi_Ganool.mkv.mp4
 
 
 
@@ -8092,11 +8066,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjSkJ22Xe4lVjoPeYf8LceHmvw
 date=2018-09-09
 URL=https://openload.co/f/AADdaUou4XQ/Butterfly.Caught.2017.720p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=The Incredible Monk (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1qqCjoKX6mnt1L7OlbHXblHEKq.jpg
-date=2018-09-09
-URL=https://openload.co/f/wNt_SzUXxLc/The_Incredible_Monk_2018_BluRay_720p_AC3_2Audio_x264-HDMovie8.mp4
+
 
 type=video
 name=Godard Mon Amour (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
@@ -11642,23 +11612,7 @@ URL=https://openload.co/f/6cxOsPYo_pg/Hunter_Killer_%282018%29%E0%B8%AA%E0%B8%87
 #https://openload.co/f/Nrdk2YpYEwk/Hunter_Killer_%282018%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=One Cut of the Dead (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-89
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0ZB59m0kio95VClKoq95s1QYbu.jpg
-date=2018-12-14
-URL=https://uptobox.com/m34mblfgiyn0
-#https://fruithosts.net/embed/bcbsfmsqrekocnkb/One_Cut_of_the_Dead_2017_BluRay_1080p_x264_Ganol_si_mkv
-#https://oload.fun/embed/xTqMEORGw9Y/One.Cut.of.the.Dead.2017.BluRay.1080p.x264.Ganol.si.mkv
-#https://openload.co/f/tfq4iF3M_VA/One.Cut.of.the.Dead.2017.Blu-ray_1080p_AVC_LPCM_2.0-Huan%40HDS.Ganool.mkv.mp4
-#https://uptobox.com/iepk2vsfzjgx   720
-#https://fruithosts.net/embed/btodlenncsqsaekl/One_Cut_of_the_Dead_2017_BluRay_720p_750MB_Ganol_si_mkv
-#https://oload.fun/embed/Rhl7Q96J1y4/One.Cut.of.the.Dead.2017.BluRay.720p.750MB.Ganol.si.mkv
-#https://openload.co/f/ijinZJu-g1M/One.Cut.of.the.Dead.2017.Blu-ray_720p_AVC_LPCM_2.0-Huan%40HDS.Ganool.mkv.mp4
-type=video
-name=One Cut of the Dead (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0ZB59m0kio95VClKoq95s1QYbu.jpg
-date=2018-12-11
-URL=https://openload.co/f/QFSTYNH4Lks/One_Cut_of_the_Dead_%282017%29%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%B1%E0%B8%97_%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%87%E0%B8%B1%E0%B8%9A%E0%B9%86%E0%B9%86%E0%B9%86_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
 
 
 type=video
@@ -12226,13 +12180,117 @@ URL=
 type=video
 name=
 thumb=
-date=2018-07-24
+date=2019-01-17
 URL=
 
 
 
 
 
+
+
+
+
+
+type=video
+name=Reset (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwTonDtQstoMQHYEBCz8x8RvBJJ.jpg
+date=2018-02-21
+URL=https://www.blazefile.co/embed-lh2b03e7ahrp.html
+#https://uptobox.com/ux069e3wplu5
+#https://openload.co/f/235mxEsrzMc/Reset.2017.1080p_BluRay_x264_DTS_-WiKi_Ganool.mkv.mp4
+type=video
+name=Reset (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwTonDtQstoMQHYEBCz8x8RvBJJ.jpg
+date=2019-01-17
+URL=https://openload.co/f/wxAyHftjauo/Reset_%282017%29%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4.mp4
+
+
+type=video
+name=One Cut of the Dead (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-89
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0ZB59m0kio95VClKoq95s1QYbu.jpg
+date=2018-12-14
+URL=https://uptobox.com/m34mblfgiyn0
+#https://fruithosts.net/embed/bcbsfmsqrekocnkb/One_Cut_of_the_Dead_2017_BluRay_1080p_x264_Ganol_si_mkv
+#https://oload.fun/embed/xTqMEORGw9Y/One.Cut.of.the.Dead.2017.BluRay.1080p.x264.Ganol.si.mkv
+#https://openload.co/f/tfq4iF3M_VA/One.Cut.of.the.Dead.2017.Blu-ray_1080p_AVC_LPCM_2.0-Huan%40HDS.Ganool.mkv.mp4
+#https://uptobox.com/iepk2vsfzjgx   720
+#https://fruithosts.net/embed/btodlenncsqsaekl/One_Cut_of_the_Dead_2017_BluRay_720p_750MB_Ganol_si_mkv
+#https://oload.fun/embed/Rhl7Q96J1y4/One.Cut.of.the.Dead.2017.BluRay.720p.750MB.Ganol.si.mkv
+#https://openload.co/f/ijinZJu-g1M/One.Cut.of.the.Dead.2017.Blu-ray_720p_AVC_LPCM_2.0-Huan%40HDS.Ganool.mkv.mp4
+type=video
+name=One Cut of the Dead (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0ZB59m0kio95VClKoq95s1QYbu.jpg
+date=2019-01-17
+URL=https://openload.co/f/6vrSyxn1OCw/One_Cut_of_the_Dead_%282017%29%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%B1%E0%B8%97_%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%87%E0%B8%B1%E0%B8%9A%E0%B9%86%E0%B9%86%E0%B9%86.mp4
+#https://openload.co/f/QFSTYNH4Lks/One_Cut_of_the_Dead_%282017%29%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%B1%E0%B8%97_%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%87%E0%B8%B1%E0%B8%9A%E0%B9%86%E0%B9%86%E0%B9%86_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
+type=video
+name= Heart with the Sun (2018) TH
+thumb=https://www.movie2free.com/wp-content/uploads/2019/01/poster-26-205x300.jpg
+date=2019-01-17
+URL=https://openload.co/f/dEFsNyT2iYE/Heart_with_the_Sun_%282018%29%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%A1%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
+
+
+type=video
+name=Dark Crimes (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-46
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJSsTFvccBmqp9t9IFauXA3wWK7.jpg
+date=2018-07-19
+URL=https://uptobox.com/7dtwyefwfjyf
+#https://www.rapidvideo.com/e/FTF6PEQY6V
+#https://openload.co/embed/PozQLTGZ2qo/GHPDARKCRIMES80.Ganol.ru.mkv
+#https://openload.co/f/3DZUjLMvunk/Dark.Crimes.2016.1080p.BR_SeeHD.mp4
+#https://openload.co/f/9KjOhM2f4nU/dark.crimes.2016.multi.1080p.bluray.x264-lost.mkv.mp4
+#https://openload.co/f/60EYPNT5tRE/True.Crimes.2016.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTGb.mp4
+#https://openload.co/f/wRdRLUn7iFE/Dark_Crimes_%282016%29_HDRip_AC3_XviD_AIR.avi.mp4
+#https://uptobox.com/a5w9p8ygdp7j   720
+#https://www.rapidvideo.com/e/FTDT7ZSVJK   720
+#https://openload.co/embed/6qUucweLKfs/SHQDARKCMESBD72.Ganol.ru.mkv
+type=video
+name=Dark Crimes (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJSsTFvccBmqp9t9IFauXA3wWK7.jpg
+date=2019-01-17
+URL=https://openload.co/f/5HheLQCzc7c/Dark_Crimes_%282016%29%E0%B8%A7%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%95%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3.mp4
+
+
+type=video
+name=The Incredible Monk (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR] | TMDB-10
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1qqCjoKX6mnt1L7OlbHXblHEKq.jpg
+date=2018-09-09
+URL=https://openload.co/f/wNt_SzUXxLc/The_Incredible_Monk_2018_BluRay_720p_AC3_2Audio_x264-HDMovie8.mp4
+type=video
+name=The Incredible Monk (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1qqCjoKX6mnt1L7OlbHXblHEKq.jpg
+date=2019-01-17
+URL=https://openload.co/f/tb6S659Bc_M/The_Incredible_Monk_%282018%29%E0%B8%88%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B8%87_%E0%B8%84%E0%B8%99%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%9A%E0%B9%8A%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B9%8C_%E0%B8%A0%E0%B8%B2%E0%B8%84_1.mp4
+
+
+type=video
+name=McQueen (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-86
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bc5kAqhNfLitH7zMlLvLRbxV0xD.jpg
+date=2018-10-26
+URL=https://openload.co/f/CRvK3dpZK4M/mcqueen.2018.limited.1080p.bluray.x264-cadaver.mkv.mp4
+type=video
+name=McQueen (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bc5kAqhNfLitH7zMlLvLRbxV0xD.jpg
+date=2019-01-17
+URL=https://openload.co/f/zUbQM9-UG9I/McQueen_%282018%29%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%84%E0%B8%84%E0%B8%A7%E0%B8%B5%E0%B8%99.mp4
+
+
+type=video
+name=Our House (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-52
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1Qt0HtO4ZYY2qcgM42XUd8xgtA.jpg
+date=2018-10-29
+URL=https://openload.co/f/XNPHsgrvCq4/Our.House.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://uptobox.com/i8kfkc1o0iz8   720
+#https://openload.co/embed/_ZTdu2wxgXQ/OURHOUSEBD72.Ganol.st.mkv
+#https://openload.co/f/d0I5vQP3rJ4/Our_House_%282018%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
+type=video
+name=Our House (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1Qt0HtO4ZYY2qcgM42XUd8xgtA.jpg
+date=2019-01-17
+URL=https://openload.co/f/pHe8-SmRj8A/Our_House_%282018%29%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9C%E0%B8%B5.mp4
 
 
 type=video
