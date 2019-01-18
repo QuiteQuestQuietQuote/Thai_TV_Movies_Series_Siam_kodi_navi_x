@@ -2592,8 +2592,8 @@ https://5652cb24c16ee.streamlock.net/2001edge/smil:2001MS_premium.smil/playlist.
 https://unicast.bbxnet.sk/live/dorcel-hd/playlist.m3u8
 #EXTINF:-1,AsianSexDiary
 http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/41524
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/07/Varmint-TV.png" group-title="Adult IPTV",Varmint TV 2
-http://ed68815c.iptvspy.ru/iptv/KLF5WG86AQZ653/922/index.m3u8
+#EXTINF:-1  tvg-logo="http://bgtop100.net/wp-content/uploads/2017/10/Private-tv.png",Private_HD
+http://178.162.134.176:3006/play/a00q/index.m3u8
 #EXTINF:-1,Playboy
 http://91.90.253.73:8080/CH175_std/index.m3u8
 
@@ -3156,6 +3156,8 @@ http://alhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
 http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 
 
+#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_HD210
+http://210.210.155.35/uq2663/h/h01/index.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
 https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
 #EXTINF:-1,GONG_movie
@@ -3275,8 +3277,15 @@ https://cdnstream1.podzone.net:8082/xtreme4k/samrujlok.stream/chunks.m3u8?nimble
 http://195.88.144.86:8000/play/101
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_telekomtv
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_HD210
-http://210.210.155.35/uq2663/h/h01/index.m3u8
+
+#EXTINF:-1,101 BBC Lifestyle HD 
+http://195.88.144.86:8000/play/101 
+#EXTINF:-1,105 BBC Earth HD 
+http://195.88.144.86:8000/play/105
+#EXTINF:-1,117 Nat Geo People HD 
+http://195.88.144.86:8000/play/117
+
+
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_HD
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/01.m3u8
 #EXTINF:-1  tvg-logo="http://www.tv.bunjerd.com/static/image/tv_radio/tv/saradee.jpg",PSI_3bb
@@ -3292,9 +3301,12 @@ http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/1070/index.m3u8
 #EXTINF:-1,cooking
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 
+#EXTINF:-1,fox premium
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1,HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1,my cinema
 http://210.210.155.35/session/e7e9511c-e9b5-11e8-9df0-ae449b204a5c/x6bnqe/s/s31/S4/mnf.m3u8
-
 #EXTINF:-1,next tv
 http://59.120.242.104:9000/live/live8.m3u8
 #EXTINF:-1,movie HD CHN
@@ -3308,18 +3320,16 @@ http://178.132.220.51:1005/xxx1?id=live
 http://178.132.220.51:1005/xxx2?id=live
 #EXTINF:-1,x dream tv
 http://178.132.220.51:1005/xxx3?id=live
+#EXTINF:-1,BSX
+http://ss3.firestormmedia.tv:1935/cellcast2/smil:encoder5.smil/chunklist_b1500000.m3u8
 
 
 #EXTINF:-1  tvg-logo="http://bgtop100.net/wp-content/uploads/2017/10/Private-tv.png",Private_HD
-http://178.162.134.176:3006/play/a00q/index.m3u8
+http://ed68815c.iptvspy.ru/iptv/KLF5WG86AQZ653/243/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ionitcom.ru/wp-content/uploads/2016/07/russ_night.jpg" group-title="Adult IPTV",Russian Night
 http://persik.by/stream/8682/252987/296.m3u8
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Blue-Hustler-TV.png",Blue Hustler
-http://valeksex.iptvbot.ru/iptv/6HHHKCY4GUH8YV/1064/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/07/Varmint-TV.png" group-title="Adult IPTV",Varmint
-http://valeksex.iptvbot.ru/iptv/6HHHKCY4GUH8YV/922/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/23/30/30/233030a66664b179a25383bca1ed94e3.jpg" group-title="Adult IPTV",Candy TV
-http://valeksex.iptvbot.ru/iptv/6HHHKCY4GUH8YV/923/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/07/Varmint-TV.png" group-title="Adult IPTV",Varmint TV 2
+http://ed68815c.iptvspy.ru/iptv/KLF5WG86AQZ653/922/index.m3u8
 
 
 #EXTINF:-1,JAV_6_SonSee TV
@@ -3409,10 +3419,9 @@ http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
 #EXTINF:-1,venom
-https://cdn.we-play.tv/movies/inter/smil:Venom.2018.smil/content/Venom.2018.1080.mp4_videochunk.m3u8?nimblesessionid=14632
-
+https://cdn.we-play.tv/movies/inter/smil:Venom.2018.smil/content/Venom.2018.1080.mp4_videochunk.m3u8
 #EXTINF:-1,venom4K
-https://cdn.we-play.tv/movies/4K/smil:Venom.2018.smil/content/Venom.2018.4K.mp4_videochunk.m3u8?nimblesessionid=14640
+https://cdn.we-play.tv/movies/4K/smil:Venom.2018.smil/content/Venom.2018.4K.mp4_videochunk.m3u8
 
 
 

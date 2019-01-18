@@ -62,7 +62,7 @@ type=video
 name=
 thumb=http://hochu.tv/images/nuart-tv.png
 date=2018-11-16
-URL=http://134.19.150.42:81/udp/239.195.6.33:1234
+URL=http://persik.by/stream/8682/252987/10003.m3u8
 
 type=video
 name=
@@ -76,54 +76,37 @@ URL=http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/
 
 
 
-type=video
-name=Downton Abbey 1.1
-thumb=https://static.akacdn.ru/static/images/2018/04/4715119d438b1e473d5db04158210e19.jpg
-date=2019-01-03
-URL=https://www.rapidvideo.com/e/FXD78WA9N1&q=720p
 
 type=video
-name=2
+name=
 thumb=
 date=2019-01-03
-URL=https://www.rapidvideo.com/e/FTQ1NQSQK9&q=720p
+URL=http://59.120.242.104:9000/live/live6.m3u8
 
 type=video
-name=3
+name=
 thumb=
 date=2019-01-03
-URL=https://www.rapidvideo.com/e/FTQ1RGTKDM&q=720p
+URL=https://cdn.we-play.tv/movies/4K/smil:Venom.2018.smil/content/Venom.2018.4K.mp4_videochunk.m3u8
 
 type=video
-name=4
+name=
 thumb=
 date=2019-01-03
-URL=https://www.rapidvideo.com/e/FTQ1SUTIYI&q=720p
+URL=http://59.120.242.104:9000/live/live7.m3u8
 
 type=video
-name=5
+name=
 thumb=
 date=2019-01-03
-URL=https://www.rapidvideo.com/e/FTQ1UZ85JY&q=720p
-
-type=video
-name=6
-thumb=
-date=2019-01-03
-URL=https://www.rapidvideo.com/e/FXD7A0PYEZ&q=720p
-
-type=video
-name=Downton Abbey 1.7
-thumb=
-date=2019-01-03
-URL=https://www.rapidvideo.com/e/FXD7BFBJ92&q=720p
+URL=
 
 
 
 type=video
 name=
 thumb=
-date=2019-01-15
+date=2019-01-18
 URL=
 
 
@@ -135,7 +118,12 @@ URL=
 
 
 
-
+type=video
+name=Glass (2019) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG5GS0V15Zpk8zvsww02faNT0QI.jpg
+date=2019-01-18
+URL=https://openload.co/f/6Lj9JaZ5CPM/Glass_2019_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/IYXgpWBrBd8/Glass_2019_720p_HDCAM-1XBET.mp4
 
 type=video
 name=Second Act (2018) ENG 720p_HDCAM-1XBET_SeeHD
@@ -260,11 +248,7 @@ URL=https://openload.co/f/2dgk1j6AzMc/Nobodys.Fool.2018.HDCAM.x264-Unknown_SeeHD
 
 
 
-type=video
-name=The Nutcracker and the Four Realms (2018) ENG 720p_HDCAM-1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/OphaHihfuXhUGmpNIRIsO3oMgm.jpg
-date=2018-11-01
-URL=https://openload.co/f/W8e57zl-ZDc/The_Nutcracker_and_the_Four_Realms_2018_720p_HDCAM-1XBET_SeeHD.mp4
+
 
 type=video
 name=Bohemian Rhapsody (2018) ENG DVDScr.Xvid.AC3.SHQ.Hive-CM8_SeeHD
@@ -451,10 +435,12 @@ URL=https://openload.co/f/84iLgqRkJJ4/Ashes.in.the.Snow.2018.1080p.WEB-DL.DD5.1.
 #https://openload.co/f/Xtel7e34WH8/Ashes_in_The_Snow_2018_720pHD_SeeHD.mp4
 
 type=video
-name=Suspiria (2018) ENG 1080phd_SeeHD
+name=Suspiria (2018) ENG AMZN.1080p.WEB-DL.X264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Nu6qk2UwM4aGvd5BvIMtvt3zoi.jpg
-date=2019-01-15
-URL=https://openload.co/f/8h2hcDF6OS8/Suspiria1080phd_SeeHD.mkv.mp4
+date=2019-01-18
+URL=https://openload.co/f/e56-LGJkFuc/Suspiria.2018.AMZN.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/8H8op17WsnI/Suspiria.2018.AMZN.1080p.WEB-DL.X264.AC3-EVO.mkv
+#https://openload.co/f/8h2hcDF6OS8/Suspiria1080phd_SeeHD.mkv.mp4
 #https://openload.co/f/-sU37B1Oanc/Suspiria720pHD_SeeHD.mkv.mp4
 #https://openload.co/f/7JBUO_I0x1A/Suspiria720pHD_SeeHD.mkv   MKV3.3GB
 #https://openload.co/f/lCkkPxJmhD8/Suspiria.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
@@ -471,9 +457,28 @@ URL=https://openload.co/f/FtWySYC7soA/Reign.of.the.Supermen.2019.1080p.WEB-DL.DD
 
 
 
+type=video
+name=IO (2019) ENG 1080p.NF.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg
+date=2019-01-18
+URL=https://openload.co/f/W0gaH1UznBk/IO.2019.1080p.NF.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/eaf1k1xmyZU/IO.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/KCZCvw-vjdc/IO.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG_SeeHD.mkv   MKV2.9GB
+
+type=video
+name=Close (2019) ENG 1080p.NF.WEB-DL.DDP5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kjUGqPIv6kpxJUvjmeQX7nQpKd.jpg
+date=2019-01-18
+URL=https://openload.co/f/qBPhRuf3eHQ/Close.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/orM80HBDIKw/close.2019.720p.webrip.x264-strife_SeeHD.mkv.mp4
 
 
 
+type=video
+name=
+thumb=
+date=2019-01-18
+URL=
 
 
 
@@ -483,7 +488,7 @@ URL=https://openload.co/f/FtWySYC7soA/Reign.of.the.Supermen.2019.1080p.WEB-DL.DD
 type=video
 name=
 thumb=
-date=2019-01-14
+date=2019-01-18
 URL=
 
 
@@ -1387,7 +1392,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-16
+date=2019-01-18
 URL=
 
 
@@ -1395,6 +1400,36 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=The Nutcracker and the Four Realms (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/OphaHihfuXhUGmpNIRIsO3oMgm.jpg
+date=2019-01-18
+URL=https://openload.co/f/bJjll6zQqis/The.Nutcracker.And.The.Four.Realms.2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/DSMdt9OF6n8/The.Nutcracker.And.The.Four.Realms.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/W8e57zl-ZDc/The_Nutcracker_and_the_Four_Realms_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
 type=video
 name=Western (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR] | TMDB-64
@@ -1408,12 +1443,13 @@ name=Indivisible (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-27
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHoV8LbrDPGBZp0QSl9S0Jiw4tg.jpg
 date=2019-01-16
 URL=https://openload.co/f/SOeo83ghvuU/Indivisible.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/28Hp1c-CwEI/Indivisible.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Under the Tree (2017) [COLOR=FF00FF00]ICE BR 1080p[/COLOR] | TMDB-76
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFRfeFoj6imgrmCDkp7k6FqCxyt.jpg
 date=2019-01-16
-URL=
+URL=https://openload.co/f/h5OU_JV8RFA/under.the.tree.2017.limited.1080p.bluray.x264-cadaver.mkv.mp4
 #https://openload.co/f/-sMxElzTNYM/under.the.tree.2017.limited.1080p.bluray.x264-cadaver.mkv   MKV6.6GB
 
 type=video
@@ -1424,6 +1460,7 @@ URL=https://uptobox.com/nopp75fzrfhe
 #https://fruithosts.net/embed/ceonnrtdabnnkeld/BOYERASED80_Ganol_si_mkv
 #https://oload.icu/embed/wVmeRWWhizM/BOYERASED80.Ganol.si.mkv
 #https://openload.co/f/FeeZaHUGAFE/Boy_Erased_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/n_oElEm4xPg/Boy.Erased.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/qD_85tWyTf0/Boy_Erased_1080pHD_SeeHD.mkv.mp4
 #https://openload.co/f/jcCYICnaY8Q/DD_Boy.Erased.2019.1080p.WEB-DL.DD5.1.H264-HDMo8.mkv.mp4
 
@@ -8384,7 +8421,14 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ii3AyMpyoYRo62UVX1mCgxFvTP
 date=2019-01-14
 URL=https://openload.co/f/mmAJiAxhJMM/Solo.2018.720.BR_SeeHD.mp4
 
-
+type=video
+name=The Wife (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR] | TMDB-71
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4Qyuy0Ul549f6SOdUqGvIdYKD2.jpg
+date=2019-01-18
+URL=https://uptobox.com/4m68bw5v4fra
+#https://fruithosts.net/embed/kpqdflrosbdstlmb/THEWIFEBD72_Ganol_si_mkv_mp4
+#https://openload.pw/embed/clVVpUsFrdE/THEWIFEBD72.Ganol.si.mkv.mp4
+#https://openload.co/f/nkNknr4LTfc/The_Wife_%282018%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
 
 
 
@@ -8507,10 +8551,12 @@ URL=https://openload.co/f/flu_Kj3f7Gs/Spider-Man%3A_Into_the_Spider-Verse_%28201
 
 
 type=video
-name=Bumblebee (2018) ENG TC.HDM8
+name=Bumblebee (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
-date=2019-01-13
-URL=https://openload.co/f/PTq_DPeSIL8/Bumblebee.2018.TC.HDM8.mp4
+date=2019-01-18
+URL=https://openload.co/f/-hW_Y3jnFKI/Bumblebee.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/dxx3gkmIHWQ/Bumblebee.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv   MKV3.2GB
+#https://openload.co/f/PTq_DPeSIL8/Bumblebee.2018.TC.HDM8.mp4
 #https://openload.co/f/zyG2hkrwzro/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_X264_SugarTits_SeeHD.mkv.mp4
 #https://openload.co/f/1iOQqwFhUjA/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_X264_SugarTits_SeeHD.mkv   MKV2.4GB
 #https://openload.co/f/sP15gNQ2QtQ/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD.mp4
@@ -8586,10 +8632,14 @@ URL=https://openload.co/f/lObXO4Iqg0s/Robin_Hood_%282018%29%E0%B8%9E%E0%B8%A2%E0
 
 
 type=video
-name=The Girl in the Spider's Web (2018) ENG 720p_HDCAM-1XBET_SeeHD
+name=The Girl in the Spider's Web (2018) ENG WEB_1080p_HD_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg
-date=2018-11-12
-URL=https://openload.co/f/vnHx1c86_sA/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET_SeeHD.mp4
+date=2019-01-18
+URL=https://openload.co/f/RZPnkJ5Dmyw/The_Girl_In_the_Spider%27s_WEB_1080p_HD_SeeHD.mkv.mp4
+#https://openload.co/f/ARUJNfAf_hI/The.Girl.in.the.Spiders.Web.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/Are8Z3ZTzec/The_Girl_In_the_Spider%27s_WEB_1080p_HD_SeeHD.mkv   MKV3.9GB
+#https://openload.co/f/h6Qn3HvCIQ4/The.Girl.in.the.Spiders.Web.2019.1080p.WEB-DL.H264.AC3-EVO.mkv   MKV3.9GB
+#https://openload.co/f/vnHx1c86_sA/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/drPr9ef6yU4/The.Girl.in.the.Spiders.Web.2018.NOLOGO.720p.HDCAM.1XBET.mp4
 #https://openload.co/f/_8vleyK_oJg/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET.mp4
 type=video
@@ -11593,10 +11643,16 @@ URL=https://openload.co/f/oj3kxxzijvc/Fantastic_Beasts%3A_The_Crimes_of_Grindelw
 
 
 type=video
-name=Hunter Killer (2018) ENG Proper.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD
+name=Hunter Killer (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
-date=2019-01-15
-URL=https://openload.co/f/5QJijZk7f-4/Hunter.Killer.2018.Proper.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+date=2019-01-18
+URL=https://uptobox.com/l6xdgwrlr9on
+#https://fruithosts.net/embed/rpramlmcbfrlarna/GHPHUNTERKILLER80_Ganol_si_mkv
+#https://openload.pw/embed/x2YCOzz2GjM/GHPHUNTERKILLER80.Ganol.si.mkv
+#https://openload.co/f/8ozTX_2yiCU/Hunter_Killer_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/55nduQEo8PA/Hunter.Killer.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/xgkataQ1yok/Hunter.Killer.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/5QJijZk7f-4/Hunter.Killer.2018.Proper.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 #https://openload.co/f/pAgaO7g-0E0/Hunter_Killer.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/TXo0rwp8Axw/Hunter_Killer.2018.HC.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/I9_ENs0lU-A/Hunter.Killer.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
@@ -11703,6 +11759,7 @@ URL=https://uptobox.com/2h7o1px2p7aq
 #https://oload.fun/embed/VAtk_LCWpw0/GHPFIRSTMAN80.Ganol.si.mkv
 #https://openload.co/f/rB9L5VQBHpI/First_Man_%282018%29PROPER_1080p_BluRay_x264-DRONES.Ganool.mkv.mp4
 #https://openload.co/f/tmOhnEJhlMU/First.Man.2018.IMAX.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/mv-DjqCcofY/First.Man.2018.1080p.BluRay.10bit.HEVC.6CH.MkvCage.ws.mkv.mp4
 #https://openload.co/f/T-Q5z45BB1I/First.Man.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
 #https://openload.co/f/0VGe4XmzmHk/first.man.2018.proper.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/wI7HYCqqYTM/First.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
