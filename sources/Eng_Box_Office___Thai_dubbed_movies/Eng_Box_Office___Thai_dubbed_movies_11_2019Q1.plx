@@ -87,13 +87,13 @@ type=video
 name=
 thumb=
 date=2019-01-03
-URL=https://cdn.we-play.tv/movies/4K/smil:Venom.2018.smil/content/Venom.2018.4K.mp4_videochunk.m3u8
+URL=http://59.120.242.104:9000/live/live7.m3u8
 
 type=video
 name=
 thumb=
 date=2019-01-03
-URL=http://59.120.242.104:9000/live/live7.m3u8
+URL=
 
 type=video
 name=
@@ -271,13 +271,7 @@ URL=https://openload.co/f/6wTfS25t1z0/Replicas.2018.WEB-DL.1080P.X264.AAC.CHS_Se
 
 
 
-type=video
-name=King of Thieves (2018) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aANJRBtm75nw8fNlITAIvAOAGha.jpg
-date=2019-01-14
-URL=https://openload.co/f/ZXWdpZMzypg/King.of.Thieves.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/SYGAT7ExW0Y/KingofThieves2018_720pHD_SeeHD.mp4
-#https://openload.co/f/HM-dmohGv4g/King_of_Thieves_2018_720p_TS-1XBET_SeeHD.mp4
+
 
 
 
@@ -301,12 +295,7 @@ URL=https://openload.co/f/eWuh3hFh4-A/London_Fields_2018_720p_RUS_TS_ENG_SUB-1XB
 
 
 
-type=video
-name=The Sisters Brothers (2018) ENG 1080pHD_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTgomqYRTXT3BXQScnIo8uHDyWC.jpg
-date=2018-12-19
-URL=https://openload.co/f/1IqteFDN-yY/The_Sisters_Brothers_1080pHD_SeeHD.mkv.mp4
-#https://openload.co/f/MtL7T1o0iQY/The_Sisters_Brothers_2018_1080p_WEB-DL_X264_5.1.mkv.mp4
+
 
 
 
@@ -1392,7 +1381,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-18
+date=2019-01-19
 URL=
 
 
@@ -1415,19 +1404,48 @@ URL=
 
 
 
+type=video
+name=Dark Was the Night (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AHH96n0Hav1h9PxMFhJB7dG8OE.jpg
+date=2019-01-19
+URL=https://openload.co/f/fcyyDjo3Pk0/Dark.Was.the.Night.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
+type=video
+name=The Wife (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4Qyuy0Ul549f6SOdUqGvIdYKD2.jpg
+date=2019-01-19
+URL=https://openload.co/f/uKViihlPjNM/The.Wife.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/JB9Kjxok4TU/The.Wife.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/4m68bw5v4fra    720
+#https://fruithosts.net/embed/kpqdflrosbdstlmb/THEWIFEBD72_Ganol_si_mkv_mp4
+#https://openload.pw/embed/clVVpUsFrdE/THEWIFEBD72.Ganol.si.mkv.mp4
+#https://openload.co/f/nkNknr4LTfc/The_Wife_%282018%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
 
+type=video
+name=The Sisters Brothers (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTgomqYRTXT3BXQScnIo8uHDyWC.jpg
+date=2019-01-19
+URL=https://openload.co/f/XUsvNGOlGQ8/The.Sisters.Brothers.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/1IqteFDN-yY/The_Sisters_Brothers_1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/MtL7T1o0iQY/The_Sisters_Brothers_2018_1080p_WEB-DL_X264_5.1.mkv.mp4
 
-
-
-
-
+type=video
+name=King of Thieves (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-53
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aANJRBtm75nw8fNlITAIvAOAGha.jpg
+date=2019-01-19
+URL=https://openload.co/f/sIRVh699IFA/King.Of.Thieves.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/lYMiKJsk--0/King.of.Thieves.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/ZXWdpZMzypg/King.of.Thieves.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/SYGAT7ExW0Y/KingofThieves2018_720pHD_SeeHD.mp4
+#https://openload.co/f/HM-dmohGv4g/King_of_Thieves_2018_720p_TS-1XBET_SeeHD.mp4
 
 type=video
 name=The Nutcracker and the Four Realms (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/OphaHihfuXhUGmpNIRIsO3oMgm.jpg
-date=2019-01-18
-URL=https://openload.co/f/bJjll6zQqis/The.Nutcracker.And.The.Four.Realms.2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
+date=2019-01-19
+URL=https://openload.co/f/TLEbfbcz2t0/The.Nutcracker.And.The.Four.Realms.2018.1080p.BluRay.x264-YIFY.mp4
+#https://openload.co/f/Uc6baCuClP0/The.Nutcracker.And.The.Four.Realms.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/bJjll6zQqis/The.Nutcracker.And.The.Four.Realms.2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/DSMdt9OF6n8/The.Nutcracker.And.The.Four.Realms.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://openload.co/f/W8e57zl-ZDc/The_Nutcracker_and_the_Four_Realms_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
@@ -8421,14 +8439,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ii3AyMpyoYRo62UVX1mCgxFvTP
 date=2019-01-14
 URL=https://openload.co/f/mmAJiAxhJMM/Solo.2018.720.BR_SeeHD.mp4
 
-type=video
-name=The Wife (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR] | TMDB-71
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4Qyuy0Ul549f6SOdUqGvIdYKD2.jpg
-date=2019-01-18
-URL=https://uptobox.com/4m68bw5v4fra
-#https://fruithosts.net/embed/kpqdflrosbdstlmb/THEWIFEBD72_Ganol_si_mkv_mp4
-#https://openload.pw/embed/clVVpUsFrdE/THEWIFEBD72.Ganol.si.mkv.mp4
-#https://openload.co/f/nkNknr4LTfc/The_Wife_%282018%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
+
 
 
 
@@ -8555,6 +8566,7 @@ name=Bumblebee (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
 date=2019-01-18
 URL=https://openload.co/f/-hW_Y3jnFKI/Bumblebee.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/Jb1bb6y6yOs/Bumblebee.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
 #https://openload.co/f/dxx3gkmIHWQ/Bumblebee.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv   MKV3.2GB
 #https://openload.co/f/PTq_DPeSIL8/Bumblebee.2018.TC.HDM8.mp4
 #https://openload.co/f/zyG2hkrwzro/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_X264_SugarTits_SeeHD.mkv.mp4
@@ -10487,21 +10499,7 @@ date=2018-03-24
 URL=https://streamango.com/f/sfcpalodbtpbqmpr/Veronica_2017_
 
 
-type=video
-name=The Shape of Water (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLYLADGA5oKGM92Ns1j9CDgk3iI.jpg
-date=2018-03-01
-URL=https://www.blazefile.co/embed-dyzlb2mrh9ha.html
-#https://uptobox.com/by7teue88t50
-#https://openload.co/f/cGJAq7f5VNk/The.Shape.of.Water.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/loSaqiM_KXk/The.Shape.Of.Water.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/frYO3yqfUDw/The.Shape.of.Water.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/Mgft960KH5Y/The.Shape.of.Water.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
-type=video
-name=The Shape of Water (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLYLADGA5oKGM92Ns1j9CDgk3iI.jpg
-date=2018-03-21
-URL=https://streamango.com/f/spkclakrpocecdfl/The_Shape_of_Water_2017_
+
 
 
 type=video
@@ -12116,24 +12114,7 @@ URL=https://streamango.com/f/atmebpftprrlaccl/Bleeding_Steel_2017_
 #https://streamango.com/f/taflormrmbkarraf/Bleeding_Steel_2017_
 
 
-type=video
-name=Jigsaw (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
-date=2018-01-16
-URL=https://www.blazefile.co/embed-pr93rr4p0mhe.html
-#https://uptobox.com/ra64pdaqwaud
-#https://openload.co/f/xWnN7z2RjKQ/Jigsaw.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/ccfZvsT_zDU/Jigsaw.2017.1080p.br_24hd.cc.mp4
-#https://openload.co/f/cP4zBkVPXeU/Jigsaw_2017_1080p_Web_DL_x264_AC3_TiTAN.mkv.mp4
-#https://openload.co/f/Wn4MXIBxUyk/Jigsaw.2017.720p.TS.x264.AC3-%5BArenaBG%5D.mkv.mp4
-#https://openload.co/f/F3nZJ_umMbw/Jigsaw.2017.720p.CAM.ENG.X264-Feel.Free.mkv.mp4
-#https://uptobox.com/7h1vbb4v1zdm   720
-type=video
-name=Jigsaw (2017) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
-date=2018-01-11
-URL=https://streamango.com/f/dmmfmrrolmnaakkn/Jigsaw_2017_
-#https://streamango.com/f/dedmrkdoeockpqkq/Jigsaw_2017_
+
 
 
 
@@ -12158,21 +12139,7 @@ URL=https://openload.co/f/bPl2nYIbsc0/Tell_Me_How_I_Die_%282016%29%E0%B8%99%E0%B
 
 
 
-type=video
-name=Smurfs: The Lost Village (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=http://image.tmdb.org/t/p/w500/swt9crREg1UcKgg3wGWfoFNlXOz.jpg
-date=2017-09-24
-URL=https://www.blazefile.co/embed-2sise45b0m80.html
-#https://openload.co/f/nx6qwgwCPMc/Smurfs%3A_The_Lost_Village_%282017%29_1080p_BluRay.mp4
-# 2772625
-type=video
-name=Smurfs: The Lost Village (2017) TH CAM SOUND
-thumb=http://image.tmdb.org/t/p/w500/swt9crREg1UcKgg3wGWfoFNlXOz.jpg
-date=2017-06-25
-URL=https://openload.co/f/GD-axLA90Aw/Smurfs.The.Lost.Village.2017.1080p.WEB-DL.DD5.1.H264.THR-CpT.mkv.mp4
-player=default
-rating=-1.00
-description=In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history./description
+
 
 
 
@@ -12247,6 +12214,64 @@ URL=
 
 
 
+
+
+
+type=video
+name=Jigsaw (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
+date=2018-01-16
+URL=https://www.blazefile.co/embed-pr93rr4p0mhe.html
+#https://uptobox.com/ra64pdaqwaud
+#https://openload.co/f/xWnN7z2RjKQ/Jigsaw.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/ccfZvsT_zDU/Jigsaw.2017.1080p.br_24hd.cc.mp4
+#https://openload.co/f/cP4zBkVPXeU/Jigsaw_2017_1080p_Web_DL_x264_AC3_TiTAN.mkv.mp4
+#https://openload.co/f/Wn4MXIBxUyk/Jigsaw.2017.720p.TS.x264.AC3-%5BArenaBG%5D.mkv.mp4
+#https://openload.co/f/F3nZJ_umMbw/Jigsaw.2017.720p.CAM.ENG.X264-Feel.Free.mkv.mp4
+#https://uptobox.com/7h1vbb4v1zdm   720
+type=video
+name=Jigsaw (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUbUtxiTdEgWnkXY945gtYYqBZ1.jpg
+date=2019-01-19
+URL=https://openload.co/f/LXSLrRmQBAI/Jigsaw_%282017%29%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+#https://streamango.com/f/dmmfmrrolmnaakkn/Jigsaw_2017_
+#https://streamango.com/f/dedmrkdoeockpqkq/Jigsaw_2017_
+
+
+type=video
+name=Smurfs: The Lost Village (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
+thumb=http://image.tmdb.org/t/p/w500/swt9crREg1UcKgg3wGWfoFNlXOz.jpg
+date=2017-09-24
+URL=https://www.blazefile.co/embed-2sise45b0m80.html
+#https://openload.co/f/nx6qwgwCPMc/Smurfs%3A_The_Lost_Village_%282017%29_1080p_BluRay.mp4
+# 2772625
+type=video
+name=Smurfs: The Lost Village (2017) TH
+thumb=http://image.tmdb.org/t/p/w500/swt9crREg1UcKgg3wGWfoFNlXOz.jpg
+date=2019-01-19
+URL=https://openload.co/f/iecYDIMVouI/Smurfs%3A_The_Lost_Village_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%AA%E0%B9%80%E0%B8%A1%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%9F_%E0%B8%A0%E0%B8%B2%E0%B8%84_2.mp4
+#https://openload.co/f/GD-axLA90Aw/Smurfs.The.Lost.Village.2017.1080p.WEB-DL.DD5.1.H264.THR-CpT.mkv.mp4
+player=default
+rating=-1.00
+description=In this fully animated, all-new take on the Smurfs, a mysterious map sets Smurfette and her friends Brainy, Clumsy and Hefty on an exciting race through the Forbidden Forest leading to the discovery of the biggest secret in Smurf history./description
+
+
+type=video
+name=The Shape of Water (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLYLADGA5oKGM92Ns1j9CDgk3iI.jpg
+date=2018-03-01
+URL=https://www.blazefile.co/embed-dyzlb2mrh9ha.html
+#https://uptobox.com/by7teue88t50
+#https://openload.co/f/cGJAq7f5VNk/The.Shape.of.Water.2017.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/loSaqiM_KXk/The.Shape.Of.Water.2017.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/frYO3yqfUDw/The.Shape.of.Water.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/Mgft960KH5Y/The.Shape.of.Water.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+type=video
+name=The Shape of Water (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLYLADGA5oKGM92Ns1j9CDgk3iI.jpg
+date=2019-01-19
+URL=https://openload.co/f/5dvSgkYtBhg/The_Shape_of_Water_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%8A%E0%B8%9E_%E0%B8%AD%E0%B8%AD%E0%B8%9F_%E0%B8%A7%E0%B8%AD%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C.mp4
+#https://streamango.com/f/spkclakrpocecdfl/The_Shape_of_Water_2017_
 
 
 type=video
