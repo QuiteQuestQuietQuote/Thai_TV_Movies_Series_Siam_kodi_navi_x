@@ -106,7 +106,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-18
+date=2019-01-20
 URL=
 
 
@@ -116,7 +116,11 @@ URL=
 
 
 
-
+type=video
+name=Escape Room (2019) ENG CAM.XviD-AVID
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yZAx7tlKRZIg7pJfaPhl00yHIQ.jpg
+date=2019-01-20
+URL=https://openload.co/f/T-lDrtQ7twA/Escape.Room.2019.CAM.XviD-AVID.avi.mp4
 
 type=video
 name=Glass (2019) ENG 720p_HDCAM-1XBET_SeeHD
@@ -437,29 +441,11 @@ URL=https://openload.co/f/e56-LGJkFuc/Suspiria.2018.AMZN.1080p.WEB-DL.X264.AC3-E
 
 
 
-type=video
-name=Reign of the Supermen (2019) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAgj2C86dFQcwTenzTviBcV2mDG.jpg
-date=2019-01-14
-URL=https://openload.co/f/FtWySYC7soA/Reign.of.the.Supermen.2019.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/wApukohVEyg/ReignoftheSupermen2019_720pHD_SeeHD.mp4
 
 
 
-type=video
-name=IO (2019) ENG 1080p.NF.WEB-DL.DD5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg
-date=2019-01-18
-URL=https://openload.co/f/W0gaH1UznBk/IO.2019.1080p.NF.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/eaf1k1xmyZU/IO.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/KCZCvw-vjdc/IO.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG_SeeHD.mkv   MKV2.9GB
 
-type=video
-name=Close (2019) ENG 1080p.NF.WEB-DL.DDP5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kjUGqPIv6kpxJUvjmeQX7nQpKd.jpg
-date=2019-01-18
-URL=https://openload.co/f/qBPhRuf3eHQ/Close.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/orM80HBDIKw/close.2019.720p.webrip.x264-strife_SeeHD.mkv.mp4
+
 
 
 
@@ -1402,7 +1388,18 @@ URL=
 
 
 
-
+type=video
+name=Reign of the Supermen (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAgj2C86dFQcwTenzTviBcV2mDG.jpg
+date=2019-01-20
+URL=https://uptobox.com/wvrdhv6stz3b
+#https://fruithosts.net/embed/eanmpctaerqcfmop/GHPREIGNTHESUPERMEM80_Ganol_si_mkv
+#https://openload.pw/embed/CegBatIo27Q/GHPREIGNTHESUPERMEM80.Ganol.si.mkv
+#https://openload.co/f/43yrNNGzjag/Reign_of_the_Supermen_%282019%29BluRay_1080p_DTS_x264-MT.Ganool.mkv.mp4
+#https://openload.co/f/lPB8eHRxLYU/Reign.of.the.Supermen.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/-ItjZfrKsTI/Reign.of.the.Supermen.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/FtWySYC7soA/Reign.of.the.Supermen.2019.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/wApukohVEyg/ReignoftheSupermen2019_720pHD_SeeHD.mp4
 
 type=video
 name=Dark Was the Night (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
@@ -1432,8 +1429,12 @@ URL=https://openload.co/f/XUsvNGOlGQ8/The.Sisters.Brothers.2018.1080p.BluRay.H26
 type=video
 name=King of Thieves (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-53
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aANJRBtm75nw8fNlITAIvAOAGha.jpg
-date=2019-01-19
-URL=https://openload.co/f/sIRVh699IFA/King.Of.Thieves.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+date=2019-01-20
+URL=https://uptobox.com/kt105ttrky75
+#https://fruithosts.net/embed/lmeqfsebkmnrlmdt/KINGOFTHIVES80_Ganol_si_mkv_mp4
+#https://openload.pw/embed/i70ZEwk5UP0/KINGOFTHIVES80.Ganol.si.mkv.mp4
+#https://openload.co/f/FrJc3qO9Gwc/King_of_Thieves_%282018%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://openload.co/f/sIRVh699IFA/King.Of.Thieves.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/lYMiKJsk--0/King.of.Thieves.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/ZXWdpZMzypg/King.of.Thieves.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 #https://openload.co/f/SYGAT7ExW0Y/KingofThieves2018_720pHD_SeeHD.mp4
@@ -1445,6 +1446,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/OphaHihfuXhUGmpNIRIsO3oMgm
 date=2019-01-19
 URL=https://openload.co/f/TLEbfbcz2t0/The.Nutcracker.And.The.Four.Realms.2018.1080p.BluRay.x264-YIFY.mp4
 #https://openload.co/f/Uc6baCuClP0/The.Nutcracker.And.The.Four.Realms.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/egUuRhHdO1M/The.Nutcracker.And.The.Four.Realms.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
 #https://openload.co/f/bJjll6zQqis/The.Nutcracker.And.The.Four.Realms.2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/DSMdt9OF6n8/The.Nutcracker.And.The.Four.Realms.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 #https://openload.co/f/W8e57zl-ZDc/The_Nutcracker_and_the_Four_Realms_2018_720p_HDCAM-1XBET_SeeHD.mp4
@@ -1495,14 +1497,7 @@ URL=https://uptobox.com/hnycmywjqmb3
 #https://openload.co/f/s6sVYgkq9ps/Once.Upon.a.Deadpool.2018.NEW.720p.HDCAM-1XBET.mp4
 #https://openload.co/f/Z9Hz_lhk_Hg/Once.Upon.a.Deadpool.HDCAM.1XBET_SeeHD.mp4
 
-type=video
-name=Thugs of Hindostan (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR] | TMDB-53
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eonEvymAPpXvWvbBu21HYJx8VdS.jpg
-date=2019-01-14
-URL=https://uptobox.com/swh480i9um3n
-#https://fruithosts.net/embed/laspfnnkksecmdaq/GHPTHUGSOFHINDUSTAN80_Ganol_si_mkv
-#https://oload.fun/embed/QAzpswOkCXQ/GHPTHUGSOFHINDUSTAN80.Ganol.si.mkv
-#https://openload.co/f/OD2Rxx-iqVg/Thugs_of_Hindostan_%282018%29Blu-ray_1080p_AVC_TrueHD_7.1.Ganool.mkv.mp4
+
 
 type=video
 name=Battle (2018) [COLOR=FF00FF00]NOR BR 1080p[/COLOR] | TMDB-66
@@ -5785,19 +5780,7 @@ URL=https://openload.co/f/yS_D7pWR9Go/the.midnight.man.2016.1080p.bluray.x264-ru
 
 
 
-type=video
-name=Braven (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/253Bw5I3Zj3e2thCThjO7byEUCL.jpg
-date=2018-03-05
-URL=https://www.blazefile.co/embed-hvjjotcfxjk8.html
-#https://uptobox.com/ddf1tlqdcnn7
-#https://openload.co/f/hzO4_LMiBBs/Braven.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/UWNWSlyHgG4/Braven.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/pPr0vAIBuws/Braven.2018.1080p.BluRay.x264.DTS-HD.MA.5.1-FGT.mkv.mp4
-#https://openload.co/f/aCCejuzskk0/Braven.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
-#https://openload.co/f/4GYwnyUovR0/Braven.2018.BDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/g934TYTLtds/Braven_2018_1080p_AMZN_WEB-DL_SeeHD.mkv
-#https://openload.co/f/2qmvoK5LyWw/Braven.2018.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+
 
 type=video
 name=Thelma (2017) [COLOR=FF00FF00]NOR BR 1080p[/COLOR]
@@ -8772,7 +8755,7 @@ URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 type=video
 name=
 thumb=
-date=2019-01-14
+date=2019-01-20
 URL=
 
 
@@ -8781,6 +8764,78 @@ URL=
 
 
 
+type=video
+name=Thugs of Hindostan (2018) [COLOR=FF00FF00]HIN BR 1080p[/COLOR] | TMDB-53
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eonEvymAPpXvWvbBu21HYJx8VdS.jpg
+date=2019-01-14
+URL=https://uptobox.com/swh480i9um3n
+#https://fruithosts.net/embed/laspfnnkksecmdaq/GHPTHUGSOFHINDUSTAN80_Ganol_si_mkv
+#https://oload.fun/embed/QAzpswOkCXQ/GHPTHUGSOFHINDUSTAN80.Ganol.si.mkv
+#https://openload.co/f/OD2Rxx-iqVg/Thugs_of_Hindostan_%282018%29Blu-ray_1080p_AVC_TrueHD_7.1.Ganool.mkv.mp4
+type=video
+name=Thugs of Hindostan (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eonEvymAPpXvWvbBu21HYJx8VdS.jpg
+date=2019-01-20
+URL=https://openload.co/f/vwaPnzC94rY/THUGS_OF_HINDOSTAN_%282018%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Close (2019) ENG 1080p.NF.WEB-DL.DDP5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kjUGqPIv6kpxJUvjmeQX7nQpKd.jpg
+date=2019-01-18
+URL=https://openload.co/f/qBPhRuf3eHQ/Close.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/orM80HBDIKw/close.2019.720p.webrip.x264-strife_SeeHD.mkv.mp4
+type=video
+name=Close (2019) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kjUGqPIv6kpxJUvjmeQX7nQpKd.jpg
+date=2019-01-20
+URL=https://openload.co/f/77r4b0aZ9zw/CLOSE_%282019%29_%E0%B9%82%E0%B8%84%E0%B8%A5%E0%B8%AA_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=IO (2019) ENG 1080p.NF.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg
+date=2019-01-18
+URL=https://openload.co/f/W0gaH1UznBk/IO.2019.1080p.NF.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/eaf1k1xmyZU/IO.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/KCZCvw-vjdc/IO.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG_SeeHD.mkv   MKV2.9GB
+type=video
+name=IO (2019) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg
+date=2019-01-20
+URL=https://openload.co/f/Vo2-5CiY7nU/IO_%282019%29_%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%AB%E0%B8%A2%E0%B8%B1%E0%B8%94%E0%B8%84%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=FYRE: The Greatest Party That Never Happened (2019) ENG 1080p.NF.WEB-DL.DDP5.1.x264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFsP0BAJhAH3RTXCAnGvI1CtaUb.jpg
+date=2019-01-20
+URL=https://openload.co/f/c7wNWW2pYas/FYRE.The.Greatest.Party.That.Never.Happened.2019.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv.mp4
+type=video
+name=FYRE: The Greatest Party That Never Happened (2019) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFsP0BAJhAH3RTXCAnGvI1CtaUb.jpg
+date=2019-01-20
+URL=https://openload.co/f/nsTkw6LLKp8/FYRE_%282019%29_%E0%B9%84%E0%B8%9F%E0%B8%A3%E0%B9%8C_%E0%B9%80%E0%B8%9F%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%A5_%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B8%94%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%87_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Braven (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/253Bw5I3Zj3e2thCThjO7byEUCL.jpg
+date=2018-03-05
+URL=https://www.blazefile.co/embed-hvjjotcfxjk8.html
+#https://uptobox.com/ddf1tlqdcnn7
+#https://openload.co/f/hzO4_LMiBBs/Braven.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/UWNWSlyHgG4/Braven.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/pPr0vAIBuws/Braven.2018.1080p.BluRay.x264.DTS-HD.MA.5.1-FGT.mkv.mp4
+#https://openload.co/f/aCCejuzskk0/Braven.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/4GYwnyUovR0/Braven.2018.BDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/g934TYTLtds/Braven_2018_1080p_AMZN_WEB-DL_SeeHD.mkv
+#https://openload.co/f/2qmvoK5LyWw/Braven.2018.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+type=video
+name=Braven (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/253Bw5I3Zj3e2thCThjO7byEUCL.jpg
+date=2019-01-20
+URL=https://openload.co/f/hTNKbEE1ZnI/BRAVEN_%282018%29_%E0%B8%84%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2_%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video

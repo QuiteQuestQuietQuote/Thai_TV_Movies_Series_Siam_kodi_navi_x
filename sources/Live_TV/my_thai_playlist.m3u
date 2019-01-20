@@ -3156,8 +3156,8 @@ http://alhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
 http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 
 
-#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_HD210
-http://210.210.155.35/uq2663/h/h01/index.m3u8
+#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_HDsession
+http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/01.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
 https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
 #EXTINF:-1,GONG_movie
@@ -3256,6 +3256,8 @@ http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8
 http://www.ssh101.com/m3u8/dyn/TTVHD/index.m3u8
 #EXTINF:-1,CRT_CHN
 http://stream.chinactv.com/ctv3/sd/live.m3u8
+#EXTINF:-1,cooking
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:-1,wild food brother_CHN
 https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
 #EXTINF:-1,FOODIE
@@ -3263,7 +3265,8 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1,food CHN
 http://dlhls.live.cnlive.com:1935/cdn/zhonghuameishi/playlist.m3u8
 
- 
+ #EXTINF:-1,travel_Ch
+http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/1070/index.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE FHD 
 http://195.88.144.86:8000/play/117 
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE_bear-tv
@@ -3279,7 +3282,7 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)?sta
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth FHD 
 http://195.88.144.86:8000/play/105
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_HD
-http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/01.m3u8
+http://210.210.155.35/uq2663/h/h01/index.m3u8
 #EXTINF:-1  tvg-logo="http://www.tv.bunjerd.com/static/image/tv_radio/tv/saradee.jpg",PSI_3bb
 http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcast73_psi_live1.stream/playlist.m3u8?username=Dsv9FD4MwveVFr8t1Rv4zFz4SP5VGKXa&password=Bn2hmCVmFkosNRQ0NeRVau9ls04J5cbt
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",NEW TV
@@ -3288,10 +3291,8 @@ http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 http://61.58.60.230:9000/live/257.m3u8
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/d2/37/1dd237c0-dc9f-43a2-a6f5-3b2e7f31e8ff/source/512x512bb.jpg",opensky_CHN
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
-#EXTINF:-1,travel_Ch
-http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/1070/index.m3u8
-#EXTINF:-1,cooking
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+
+
 
 #EXTINF:-1,fox premium
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
@@ -3321,14 +3322,12 @@ http://178.132.220.51:1005/xxx4?id=live
 http://176.9.126.181:4220
 #EXTINF:-1,penthouse
 http://185.93.3.83:5014/play/a00e
+#EXTINF:-1,playboy
+http://91.90.253.73:8080/CH616_std/index.m3u8
 #EXTINF:-1,o-la-la
 http://89.223.46.189:8080/o-la-la/tracks-v1a1/mono.m3u8
 #EXTINF:-1,sextosenso
 http://31.220.1.190:8080/abed/abed123/96700?m3u8
-#EXTINF:-1,SCT
-http://dns.infinitytv.xyz:8000/live/0511/0511/17968.m3u8
-#EXTINF:-1,venus
-http://dns.infinitytv.xyz:8000/live/0511/0511/1655.m3u8
 #EXTINF:-1  tvg-logo="http://bgtop100.net/wp-content/uploads/2017/10/Private-tv.png",Private_HD
 http://ed68815c.iptvspy.ru/iptv/KLF5WG86AQZ653/243/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ionitcom.ru/wp-content/uploads/2016/07/russ_night.jpg" group-title="Adult IPTV",Russian Night
