@@ -3294,8 +3294,7 @@ http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
 
 
-#EXTINF:-1,fox premium
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
 #EXTINF:-1,HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1,HBO3
@@ -3420,7 +3419,10 @@ http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
-
+#EXTINF:-1,Euronews 
+http://persik.by/stream/8682/252987/37.m3u8 
+#EXTINF:-1,BBC 
+http://persik.by/stream/8682/252987/46.m3u8 
 
 
 

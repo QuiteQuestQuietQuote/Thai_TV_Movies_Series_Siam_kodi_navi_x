@@ -106,7 +106,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-20
+date=2019-01-21
 URL=
 
 
@@ -114,7 +114,11 @@ URL=
 
 
 
-
+type=video
+name=City of Lies (2019) ENG 720p.HDCAM.HC.ENG.SUB.x264-1XBET
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK7IYQdtdWtMDBJZfMqDxgMjXEt.jpg
+date=2019-01-21
+URL=https://openload.co/f/7c4cSZI6Urk/City.of.Lies.2018.720p.HDCAM.HC.ENG.SUB.x264-1XBET.mp4
 
 type=video
 name=Escape Room (2019) ENG CAM.XviD-AVID
@@ -122,12 +126,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yZAx7tlKRZIg7pJfaPhl00yHI
 date=2019-01-20
 URL=https://openload.co/f/T-lDrtQ7twA/Escape.Room.2019.CAM.XviD-AVID.avi.mp4
 
-type=video
-name=Glass (2019) ENG 720p_HDCAM-1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG5GS0V15Zpk8zvsww02faNT0QI.jpg
-date=2019-01-18
-URL=https://openload.co/f/6Lj9JaZ5CPM/Glass_2019_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/IYXgpWBrBd8/Glass_2019_720p_HDCAM-1XBET.mp4
+
 
 type=video
 name=Second Act (2018) ENG 720p_HDCAM-1XBET_SeeHD
@@ -538,12 +537,7 @@ URL=https://openload.co/f/R_qB3U1HcU8/The.Neighbor.2017.1080p.WEB-DL.DD5.1.H264-
 
 
 
-type=video
-name=Final Portrait (2017) ENG 1080p.NF.WEB_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hgqfshiwHcIoAk7uKckKcDVpv4.jpg
-date=2018-02-17
-URL=https://openload.co/f/Nr1Rqjvug4Q/Final.Portrait.2017.1080p.NF.WEB_SeeHD.mkv.mp4
-#https://openload.co/f/_Zyb1K8QaAk/Final.Portrait.2017.1080p.NF.WEBRip.DDP.5.1.H264-CMRG.mkv.mp4
+
 
 
 
@@ -1367,7 +1361,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-19
+date=2019-01-21
 URL=
 
 
@@ -1378,15 +1372,44 @@ URL=
 
 
 
+type=video
+name=Trouble (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-43
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cKIHpREjgrXryL9ER0exZ3aKLc.jpg
+date=2019-01-21
+URL=https://openload.co/f/vYhfIxNzRDs/trouble.2017.limited.1080p.bluray.x264-cadaver.mkv.mp4
 
+type=video
+name=The Boy Downstairs (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDaKCoRLWEPzIj3i6YBtVCTVDkz.jpg
+date=2019-01-21
+URL=https://openload.co/f/zoh5cPddnzc/the.boy.downstairs.2017.1080p.bluray.x264-bipolar.mkv.mp4
+#https://openload.co/f/NY2w683F184/The.Boy.Downstairs.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
+type=video
+name=Final Portrait (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hgqfshiwHcIoAk7uKckKcDVpv4.jpg
+date=2019-01-21
+URL=https://openload.co/f/NCd7jxv56bc/Final.Portrait.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Nr1Rqjvug4Q/Final.Portrait.2017.1080p.NF.WEB_SeeHD.mkv.mp4
+#https://openload.co/f/_Zyb1K8QaAk/Final.Portrait.2017.1080p.NF.WEBRip.DDP.5.1.H264-CMRG.mkv.mp4
 
+type=video
+name=Dogman (2018) [COLOR=FF00FF00]ITA BR 1080p[/COLOR] | TMDB-78
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzCkOIvxgVTsE9EbRW9mojN4MYP.jpg
+date=2019-01-21
+URL=https://openload.co/f/_Jtf5XVJEGU/Dogman.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/i3g3GQbE56o/Dogman_2018_EngSub_720p_BluRay.mp4
 
-
-
-
-
-
+type=video
+name=The Seagull (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGezCjuo1sLgRNivShDR9CETCUe.jpg
+date=2019-01-21
+URL=https://uptobox.com/8yafmm22sfnf
+#https://fruithosts.net/embed/qtqskbtbtqpdctsk/GHPTHESEAGUL80_Ganol_si_mkv
+#https://openload.pw/embed/hptqzlhXJ3w/GHPTHESEAGUL80.Ganol.si.mkv
+#
+#https://openload.co/f/Qdiy7Ck3zPc/The_Seagull_%282018%291080p_BluRay_X264-AMIABLE.Ganool.mkv   MKV1.4GB
+#https://openload.co/f/6SeOwjv9qzc/The.Seagull.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 
 type=video
 name=Reign of the Supermen (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
@@ -1396,6 +1419,7 @@ URL=https://uptobox.com/wvrdhv6stz3b
 #https://fruithosts.net/embed/eanmpctaerqcfmop/GHPREIGNTHESUPERMEM80_Ganol_si_mkv
 #https://openload.pw/embed/CegBatIo27Q/GHPREIGNTHESUPERMEM80.Ganol.si.mkv
 #https://openload.co/f/43yrNNGzjag/Reign_of_the_Supermen_%282019%29BluRay_1080p_DTS_x264-MT.Ganool.mkv.mp4
+#https://openload.co/f/mooYM1PhaSY/Reign.of.the.Supermen.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/lPB8eHRxLYU/Reign.of.the.Supermen.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/-ItjZfrKsTI/Reign.of.the.Supermen.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/FtWySYC7soA/Reign.of.the.Supermen.2019.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
@@ -1421,8 +1445,9 @@ URL=https://openload.co/f/uKViihlPjNM/The.Wife.2017.1080p.BluRay.x264-%5BYTS.AM%
 type=video
 name=The Sisters Brothers (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTgomqYRTXT3BXQScnIo8uHDyWC.jpg
-date=2019-01-19
-URL=https://openload.co/f/XUsvNGOlGQ8/The.Sisters.Brothers.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2019-01-21
+URL=https://openload.co/f/a42wXqJ8dno/The.Sisters.Brothers.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/XUsvNGOlGQ8/The.Sisters.Brothers.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/1IqteFDN-yY/The_Sisters_Brothers_1080pHD_SeeHD.mkv.mp4
 #https://openload.co/f/MtL7T1o0iQY/The_Sisters_Brothers_2018_1080p_WEB-DL_X264_5.1.mkv.mp4
 
@@ -1502,8 +1527,12 @@ URL=https://uptobox.com/hnycmywjqmb3
 type=video
 name=Battle (2018) [COLOR=FF00FF00]NOR BR 1080p[/COLOR] | TMDB-66
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfGhtAX7xe7W0ZgEcM2n6tnxgc0.jpg
-date=2019-01-14
-URL=https://openload.co/f/YrjRec-vFgY/Battle_2018_1080p_BluRay_x264_HDM8.mkv.mp4
+date=2019-01-21
+URL=https://uptobox.com/tk5rw59hkgl1
+#https://fruithosts.net/embed/fcqlotsnseedebdt/BATTLE80_Ganol_si_mkv_mp4
+#https://openload.pw/embed/vpLuW4yFZz4/BATTLE80.Ganol.si.mkv.mp4
+#https://openload.co/f/dronrXrlIG8/Battle_%282018%291080p_BluRay_x264-GRUNDiG.Ganool.mkv.mp4
+#https://openload.co/f/YrjRec-vFgY/Battle_2018_1080p_BluRay_x264_HDM8.mkv.mp4
 
 type=video
 name=All the Devil's Men (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-54
@@ -8206,11 +8235,7 @@ URL=https://uptobox.com/zmpy3w3s85gt
 
 
 
-type=video
-name=Dogman (2018) [COLOR=FF00FF00]ITA BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzCkOIvxgVTsE9EbRW9mojN4MYP.jpg
-date=2018-10-02
-URL=https://openload.co/f/i3g3GQbE56o/Dogman_2018_EngSub_720p_BluRay.mp4
+
 
 
 
@@ -8525,7 +8550,17 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
-
+type=video
+name=Glass (2019) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG5GS0V15Zpk8zvsww02faNT0QI.jpg
+date=2019-01-18
+URL=https://openload.co/f/6Lj9JaZ5CPM/Glass_2019_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/IYXgpWBrBd8/Glass_2019_720p_HDCAM-1XBET.mp4
+type=video
+name=Glass (2019) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG5GS0V15Zpk8zvsww02faNT0QI.jpg
+date=2019-01-21
+URL=https://openload.co/f/5u4W2aO4vIY/Glass_%282019%29%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C_2019_Thai%28C%29_ZM
 
 
 type=video
@@ -8544,25 +8579,7 @@ date=2019-01-14
 URL=https://openload.co/f/flu_Kj3f7Gs/Spider-Man%3A_Into_the_Spider-Verse_%282018%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99%3A_%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=Bumblebee (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
-date=2019-01-18
-URL=https://openload.co/f/-hW_Y3jnFKI/Bumblebee.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/Jb1bb6y6yOs/Bumblebee.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
-#https://openload.co/f/dxx3gkmIHWQ/Bumblebee.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv   MKV3.2GB
-#https://openload.co/f/PTq_DPeSIL8/Bumblebee.2018.TC.HDM8.mp4
-#https://openload.co/f/zyG2hkrwzro/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_X264_SugarTits_SeeHD.mkv.mp4
-#https://openload.co/f/1iOQqwFhUjA/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_X264_SugarTits_SeeHD.mkv   MKV2.4GB
-#https://openload.co/f/sP15gNQ2QtQ/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD.mp4
-#https://openload.co/f/bXbPDliWIww/Bumblebee.2018.CAM.X264-MrTaco.mkv.mp4
-#https://openload.co/f/pzUifM0ZNTY/Bumblebee_2018_720p_HDCAM_ENG_SUB_ORCA88_SeeHD.mp4
-#https://openload.co/f/sFhmjyX2ynM/Bumblebee_2018_720p_HDCAM_ENG_SUB-ORCA88_SeeHD.mp4
-type=video
-name=Bumblebee (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
-date=2018-12-23
-URL=https://openload.co/f/T5rvBo038Xs/Bumblebee_%282018%29%E0%B8%9A%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9A%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
@@ -8626,22 +8643,7 @@ date=2018-11-27
 URL=https://openload.co/f/lObXO4Iqg0s/Robin_Hood_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%AE%E0%B8%B9%E0%B9%89%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=The Girl in the Spider's Web (2018) ENG WEB_1080p_HD_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg
-date=2019-01-18
-URL=https://openload.co/f/RZPnkJ5Dmyw/The_Girl_In_the_Spider%27s_WEB_1080p_HD_SeeHD.mkv.mp4
-#https://openload.co/f/ARUJNfAf_hI/The.Girl.in.the.Spiders.Web.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/Are8Z3ZTzec/The_Girl_In_the_Spider%27s_WEB_1080p_HD_SeeHD.mkv   MKV3.9GB
-#https://openload.co/f/h6Qn3HvCIQ4/The.Girl.in.the.Spiders.Web.2019.1080p.WEB-DL.H264.AC3-EVO.mkv   MKV3.9GB
-#https://openload.co/f/vnHx1c86_sA/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/drPr9ef6yU4/The.Girl.in.the.Spiders.Web.2018.NOLOGO.720p.HDCAM.1XBET.mp4
-#https://openload.co/f/_8vleyK_oJg/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET.mp4
-type=video
-name=The Girl in the Spider's Web (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg
-date=2018-11-22
-URL=https://openload.co/f/Xumjso_Og_M/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 
@@ -8708,18 +8710,7 @@ URL=https://openload.co/f/NzNS1jlT1t4/Hell_Fest_%282018%29%E0%B8%AA%E0%B8%A7%E0%
 
 
 
-type=video
-name=Satan's Slaves (2017) [COLOR=FF00FF00]INDO BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/k16xOaI9x5fqepxVwBwUJAozsW8.jpg
-date=2018-08-21
-URL=https://openload.co/f/f8P7xDpHj3c/Satans.Slaves.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/embed/_wyrRiUOr34/GHPSATANSLAVES80.Ganol.st.mkv.mp4
-#https://fruithosts.net/embed/qacqkfcetrmsdebo/GHPSATANSLAVES80_Ganol_st_mkv_mp4
-type=video
-name=Satan's Slaves (2017) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XB9EO9L8t0ryipAoB9WlsxXOIl.jpg
-date=2018-03-20
-URL=https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
+
 
 
 
@@ -11598,7 +11589,7 @@ URL=
 type=video
 name=
 thumb=
-date=2018-12-11
+date=2019-01-21
 URL=
 
 
@@ -11606,6 +11597,71 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=Dragon Ball Super: Broly (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f03YksE4NggUjG75toz4H1YAGRf.jpg
+date=2019-01-21
+URL=https://openload.co/f/3rk3bimwTRI/Dragon_Ball_Super%3A_Broly_%282018%29%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A5_%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%A5%E0%B8%B5%E0%B9%88_2019_Thai%28C%29_HD
+
+
+type=video
+name=Bumblebee (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
+date=2019-01-18
+URL=https://openload.co/f/-hW_Y3jnFKI/Bumblebee.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/Jb1bb6y6yOs/Bumblebee.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
+#https://openload.co/f/dxx3gkmIHWQ/Bumblebee.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv   MKV3.2GB
+#https://openload.co/f/PTq_DPeSIL8/Bumblebee.2018.TC.HDM8.mp4
+#https://openload.co/f/zyG2hkrwzro/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_X264_SugarTits_SeeHD.mkv.mp4
+#https://openload.co/f/1iOQqwFhUjA/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_X264_SugarTits_SeeHD.mkv   MKV2.4GB
+#https://openload.co/f/sP15gNQ2QtQ/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD.mp4
+#https://openload.co/f/bXbPDliWIww/Bumblebee.2018.CAM.X264-MrTaco.mkv.mp4
+#https://openload.co/f/pzUifM0ZNTY/Bumblebee_2018_720p_HDCAM_ENG_SUB_ORCA88_SeeHD.mp4
+#https://openload.co/f/sFhmjyX2ynM/Bumblebee_2018_720p_HDCAM_ENG_SUB-ORCA88_SeeHD.mp4
+type=video
+name=Bumblebee (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
+date=2019-01-21
+URL=https://openload.co/f/utsX-ikdiqg/Bumblebee_%282018%29%E0%B8%9A%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9A%E0%B8%B5_2018_Thai%28C%29_HD
+#https://openload.co/f/T5rvBo038Xs/Bumblebee_%282018%29%E0%B8%9A%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9A%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=Satan's Slaves (2017) [COLOR=FF00FF00]INDO BR 1080p[/COLOR] | TMDB-76
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/k16xOaI9x5fqepxVwBwUJAozsW8.jpg
+date=2018-08-21
+URL=https://openload.co/f/f8P7xDpHj3c/Satans.Slaves.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/embed/_wyrRiUOr34/GHPSATANSLAVES80.Ganol.st.mkv.mp4
+#https://fruithosts.net/embed/qacqkfcetrmsdebo/GHPSATANSLAVES80_Ganol_st_mkv_mp4
+type=video
+name=Satan's Slaves (2017) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XB9EO9L8t0ryipAoB9WlsxXOIl.jpg
+date=2019-01-21
+URL=https://openload.co/f/wDTGLodNLhQ/Satan%27s_Slaves_%282017%29%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81_2018_Thai%28C%29_HD
+#https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
+
+
+type=video
+name=The Girl in the Spider's Web (2018) ENG WEB_1080p_HD_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg
+date=2019-01-18
+URL=https://openload.co/f/RZPnkJ5Dmyw/The_Girl_In_the_Spider%27s_WEB_1080p_HD_SeeHD.mkv.mp4
+#https://openload.co/f/ARUJNfAf_hI/The.Girl.in.the.Spiders.Web.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/Are8Z3ZTzec/The_Girl_In_the_Spider%27s_WEB_1080p_HD_SeeHD.mkv   MKV3.9GB
+#https://openload.co/f/h6Qn3HvCIQ4/The.Girl.in.the.Spiders.Web.2019.1080p.WEB-DL.H264.AC3-EVO.mkv   MKV3.9GB
+#https://openload.co/f/vnHx1c86_sA/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/drPr9ef6yU4/The.Girl.in.the.Spiders.Web.2018.NOLOGO.720p.HDCAM.1XBET.mp4
+#https://openload.co/f/_8vleyK_oJg/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET.mp4
+type=video
+name=The Girl in the Spider's Web (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg
+date=2019-01-21
+URL=https://openload.co/f/0uLdNZkiCkA/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_2018_Thai%28C%29_HD
+#https://openload.co/f/Xumjso_Og_M/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video

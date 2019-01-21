@@ -1013,10 +1013,11 @@ URL=https://openload.co/f/tO4KxzhJzIw/Book_Club_%282018%29%E0%B8%81%E0%B9%8A%E0%
 
 
 type=video
-name=Detective Dee: The Four Heavenly Kings (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+name=Detective Dee: The Four Heavenly Kings (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-67
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhJhgOsSIcN5RiRS8js4mv7K3iA.jpg
-date=2018-10-22
-URL=https://uptobox.com/t2inhcqvzbm3
+date=2019-01-21
+URL=https://openload.co/f/F_lqvCyGPnc/Detective.Dee.The.Four.Heavenly.Kings.2018.SUBBED.1080p.BluRay.H264.AAC-HDMO8.mkv.mp4
+#https://uptobox.com/t2inhcqvzbm3   720
 #https://www.rapidvideo.com/e/FWHGBP1WED
 #https://openload.co/embed/rP3eR-_EpBQ/Detective.Dee.The.Four.Heavenly.Kings.2018.BluRay.720p.900MB.Ganol.st.mkv.mp4
 #https://openload.co/f/DTXHyzkel_U/Detective.Dee.The.Four.Heavenly.Kings.2018.BluRay_720p_x264_DTS-HDChina.Ganool.mkv.mp4
