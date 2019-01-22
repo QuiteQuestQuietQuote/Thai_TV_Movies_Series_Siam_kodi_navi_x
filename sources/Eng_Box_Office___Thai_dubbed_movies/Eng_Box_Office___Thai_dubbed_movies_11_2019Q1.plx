@@ -74,9 +74,6 @@ URL=http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/
 
 
 
-
-
-
 type=video
 name=
 thumb=
@@ -89,30 +86,43 @@ thumb=
 date=2019-01-03
 URL=http://59.120.242.104:9000/live/live7.m3u8
 
+
+
 type=video
 name=
-thumb=
+thumb=https://image.tmdb.org/t/p/w185//22b9jLGJ8OVzlEnWzqF0yRy5Na3.jpg
 date=2019-01-03
-URL=
+URL=https://drive.google.com/file/d/1nPgP-e0B_ovLmZlo-36ugOy7McLHH2no/preview
 
 type=video
 name=
-thumb=
+thumb=https://image.tmdb.org/t/p/w185//4VwBXiCzXKJyHfRdVBb843m23dx.jpg
 date=2019-01-03
-URL=
+URL=https://drive.google.com/file/d/1hKxCrHFfYZXwNrP2HH-1RXONUsT6f-Tm/edit
+
+type=video
+name=
+thumb=https://image.tmdb.org/t/p/w185//yHz2wt8uSHkWPMwjbJOQH3W9wmF.jpg
+date=2019-01-22
+URL=https://drive.google.com/file/d/1XrgTIY3JpLoKGreu5If6pxs6mDiN28Ur/view
+
+
 
 
 
 type=video
 name=
 thumb=
-date=2019-01-21
+date=2019-01-22
 URL=
 
 
 
-
-
+type=video
+name=The Upside (2019) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmjmDPEEyIrITQ3WRNEUOcYLqse.jpg
+date=2019-01-22
+URL=https://openload.co/f/SY5eLqJe-gk/The_Upside_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
 type=video
 name=City of Lies (2019) ENG 720p.HDCAM.HC.ENG.SUB.x264-1XBET
@@ -213,10 +223,11 @@ URL=https://openload.co/f/37Nr9W06OQU/Instant_Family_2018_720p_HDCAM_x264-EVO_Se
 #https://openload.co/f/PyEQhmLYTPU/Instant.Family.2018.720p.HDTC.1XBET.mp4
 
 type=video
-name=Creed II (2018) ENG HDCAM_X264-UNiQUE_SeeHD
+name=Creed II (2018) ENG NEW_720p_HD-TC_X264_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg
-date=2018-12-10
-URL=https://openload.co/f/foUI4vMen-4/Creed_2_2018_HDCAM_X264-UNiQUE_SeeHD.mkv.mp4
+date=2019-01-22
+URL=https://openload.co/f/5asLcB24zf4/Creed_2_2018_NEW_720p_HD-TC_X264_SeeHD.mkv.mp4
+#https://openload.co/f/foUI4vMen-4/Creed_2_2018_HDCAM_X264-UNiQUE_SeeHD.mkv.mp4
 #https://openload.co/f/Pe7RekX0Ptw/Creed_2_2018_720p_HDCAM-1XBET.mp4
 #https://openload.co/f/PvwTrKyUmTI/Creed_2_2018_HDCAM_X264-UNiQUE_SeeHD.mkv   MKV1.9GB
 
@@ -236,10 +247,11 @@ URL=https://openload.co/f/oQUlEXJw-KI/Loophole.2019.1080p.AMZN.WEBRip.DDP2.0.x26
 
 
 type=video
-name=Widows (2018) ENG 720p_HDCAM_SeeHD
+name=Widows (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f27RTnWEc2bhVtfSlKmxxypznfR.jpg
-date=2018-11-23
-URL=https://openload.co/f/egukV81Gjwo/Widows_2018_720p_HDCAM_SeeHD.mkv.mp4
+date=2019-01-22
+URL=https://openload.co/f/jcd1x4QjjVA/Widows.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/egukV81Gjwo/Widows_2018_720p_HDCAM_SeeHD.mkv.mp4
 
 type=video
 name=Nobody's Fool (2018) ENG HDCAM.x264-Unknown_SeeHD
@@ -254,10 +266,13 @@ URL=https://openload.co/f/2dgk1j6AzMc/Nobodys.Fool.2018.HDCAM.x264-Unknown_SeeHD
 
 
 type=video
-name=Bohemian Rhapsody (2018) ENG DVDScr.Xvid.AC3.SHQ.Hive-CM8_SeeHD
+name=Bohemian Rhapsody (2018) ENG 1080p_WEB-DL_X264_DD5.1_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf7jiy0rDVn1ljUwv3pWKousQ1p.jpg
-date=2019-01-14
-URL=https://openload.co/f/fl5AxRLpbPI/Bohemian.Rhapsody.2018.DVDScr.Xvid.AC3.SHQ.Hive-CM8_SeeHD.avi.mp4
+date=2019-01-22
+URL=https://openload.co/f/0ia-SsSqcCM/Bohemian_Rhapsody_2018_1080p_WEB-DL_X264_DD5.1_SeeHD.mkv.mp4
+#https://openload.co/f/_vR4jWU_TJw/Bohemian.Rhapsody.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/AgSRSSOng7Y/Bohemian.Rhapsody.2018.1080p.WEB-DL.MkvCage.ws.mkv.mp4
+#https://openload.co/f/fl5AxRLpbPI/Bohemian.Rhapsody.2018.DVDScr.Xvid.AC3.SHQ.Hive-CM8_SeeHD.avi.mp4
 #https://openload.co/f/Pfl-IRNBq0A/Bohemian.Rhapsody.2018.DVDScr.Xvid.AC3.SHQ.Hive-CM8.avi.mp4
 #https://openload.co/f/mne9LXmE8II/Bohemian_Rhapsody_2018_720p_HD-TS_X264-Arahant_SeeHD.mkv.mp4
 #https://openload.co/f/QCRboGzcoRY/Bohemian_Rhapsody_2018_720p_HDCAM-1XBET_SeeHD.mp4
@@ -1377,6 +1392,7 @@ name=Trouble (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-43
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cKIHpREjgrXryL9ER0exZ3aKLc.jpg
 date=2019-01-21
 URL=https://openload.co/f/vYhfIxNzRDs/trouble.2017.limited.1080p.bluray.x264-cadaver.mkv.mp4
+#https://openload.co/f/cM0NdRr8T0s/Trouble.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Boy Downstairs (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
@@ -1407,9 +1423,10 @@ date=2019-01-21
 URL=https://uptobox.com/8yafmm22sfnf
 #https://fruithosts.net/embed/qtqskbtbtqpdctsk/GHPTHESEAGUL80_Ganol_si_mkv
 #https://openload.pw/embed/hptqzlhXJ3w/GHPTHESEAGUL80.Ganol.si.mkv
-#
+#https://openload.co/f/aJQtl2fCigM/The_Seagull_%282018%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
 #https://openload.co/f/Qdiy7Ck3zPc/The_Seagull_%282018%291080p_BluRay_X264-AMIABLE.Ganool.mkv   MKV1.4GB
 #https://openload.co/f/6SeOwjv9qzc/The.Seagull.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/uZejxRlhVjE/The.Seagull.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Reign of the Supermen (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
@@ -1447,6 +1464,7 @@ name=The Sisters Brothers (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTgomqYRTXT3BXQScnIo8uHDyWC.jpg
 date=2019-01-21
 URL=https://openload.co/f/a42wXqJ8dno/The.Sisters.Brothers.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/7Mjlif-BdJw/The.Sisters.Brothers.2018.1080p.BluRay.x264.MkvCage.ws.mkv.mp4
 #https://openload.co/f/XUsvNGOlGQ8/The.Sisters.Brothers.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/1IqteFDN-yY/The_Sisters_Brothers_1080pHD_SeeHD.mkv.mp4
 #https://openload.co/f/MtL7T1o0iQY/The_Sisters_Brothers_2018_1080p_WEB-DL_X264_5.1.mkv.mp4
@@ -8447,8 +8465,14 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ii3AyMpyoYRo62UVX1mCgxFvTP
 date=2019-01-14
 URL=https://openload.co/f/mmAJiAxhJMM/Solo.2018.720.BR_SeeHD.mp4
 
-
-
+type=video
+name=Big Brother (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR] | tmdb-95
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpPmQfmDXp6JMwsSCA96qbotSTh.jpg
+date=2019-01-22
+URL=https://uptobox.com/xvpkwkyubb73
+#https://fruithosts.net/embed/lelerlrlltqolbns/Big_Brother_2018_BluRay_720p_850MB_Ganol_si_mkv_mp4
+#https://openload.pw/embed/IFNx7IQxvTo/Big.Brother.2018.BluRay.720p.850MB.Ganol.si.mkv.mp4
+#https://openload.co/f/i5OLBBgE_GE/Big_Brother_%282018%29BluRay_720p_DD5.1_x264-MTeam.Ganool.mkv.mp4
 
 
 
@@ -8463,7 +8487,7 @@ URL=https://openload.co/f/mmAJiAxhJMM/Solo.2018.720.BR_SeeHD.mp4
 type=video
 name=
 thumb=
-date=2019-01-14
+date=2019-01-22
 URL=
 
 type=video
@@ -8629,10 +8653,11 @@ URL=https://openload.co/f/d6K_cM2GBfM/Ralph_Breaks_the_Internet_%282018%29%E0%B8
 
 
 type=video
-name=Robin Hood (2018) ENG NEW.720p.HDCAM_SeeHD
+name=Robin Hood (2018) ENG 1080p.HC.HDRip.X264-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg
-date=2018-12-02
-URL=https://openload.co/f/ZLA1sbu0P0Y/Robin.Hood.2018.NEW.720p.HDCAM_SeeHD.mkv.mp4
+date=2019-01-22
+URL=https://openload.co/f/ZAuXpZ2zvWo/Robin.Hood.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/ZLA1sbu0P0Y/Robin.Hood.2018.NEW.720p.HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/TI4dCM2M4UE/Robin.Hood.2018.NEW.720p.HDCAM.mkv.mp4
 #https://openload.co/f/QfQW0tLAnzs/Robin_Hood_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/YbVJ7tkFxd4/Robin_Hood_2018_720p_HDCAM..mp4
@@ -8649,10 +8674,12 @@ URL=https://openload.co/f/lObXO4Iqg0s/Robin_Hood_%282018%29%E0%B8%9E%E0%B8%A2%E0
 
 
 type=video
-name=The Grinch (2018) ENG 720p_HDCAM-1XBET_SeeHD
+name=The Grinch (2018) ENG 1080p_WEB-DL_X264_DD5.1_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQVj6Z8kPdsbt7XPjVBCltxq90.jpg
-date=2018-11-10
-URL=https://openload.co/f/dydMukHY19Q/The_Grinch_2018_720p_HDCAM-1XBET_SeeHD.mp4
+date=2019-01-22
+URL=https://openload.co/f/Nwp7U8A8Fys/The_Grinch_2018_1080p_WEB-DL_X264_DD5.1_SeeHD.mkv.mp4
+#https://openload.co/f/JabxOTalF3Q/The.Grinch.2018.1080p.WEB-DL.H264-CMRG.mkv.mp4.mp4
+#https://openload.co/f/dydMukHY19Q/The_Grinch_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/1aWfXZqz-Wk/The_Grinch_2018_720p_HDCAM-1XBET.mp4
 type=video
 name=The Grinch (2018) THCAM
@@ -12482,8 +12509,9 @@ URL=https://openload.co/f/XNPHsgrvCq4/Our.House.2018.1080p.BluRay.x264-%5BYTS.AM
 type=video
 name=Our House (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1Qt0HtO4ZYY2qcgM42XUd8xgtA.jpg
-date=2019-01-17
-URL=https://openload.co/f/pHe8-SmRj8A/Our_House_%282018%29%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9C%E0%B8%B5.mp4
+date=2019-01-22
+URL=https://openload.co/f/uqNmI5H9x3I/Our_House_%282018%29%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9C%E0%B8%B5.mp4
+#https://openload.co/f/pHe8-SmRj8A/Our_House_%282018%29%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9C%E0%B8%B5.mp4
 
 
 type=video
