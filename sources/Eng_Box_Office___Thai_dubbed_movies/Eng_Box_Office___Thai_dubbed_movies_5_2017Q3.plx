@@ -173,8 +173,15 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7p3Yx1kXIc9UfnmsCsKWlWVCnh
 date=2017-09-17
 URL=https://storage.googleapis.com/mlk-s/skl9ae2qp/Before%20the%20Devil%20Knows%20You're%20Dead%20%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%9A%E0%B8%B2%E0%B8%9B%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B51080.MP4
 
+
 type=video
-name=Margin Call (2011)
+name=Margin Call (2011) [COLOR=FF00FF00]ENG BR 720p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4Cv588VpNpO9twXsdorhz6K8t1.jpg
+date=2019-01-23
+URL=https://www.rapidvideo.com/e/FX0PA3R7NC
+#https://drive.google.com/file/d/1YNO4qeP7TB02gG59uuthByMcCz36BSD3/preview
+type=video
+name=Margin Call (2011) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4Cv588VpNpO9twXsdorhz6K8t1.jpg
 date=2017-09-17
 URL=https://storage.googleapis.com/mlk-s/skl9ae2qp/Margin%20Call%20%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%941080.MP4

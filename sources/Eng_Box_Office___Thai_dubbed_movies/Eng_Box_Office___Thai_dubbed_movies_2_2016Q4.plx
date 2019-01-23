@@ -514,10 +514,11 @@ description=European mercenaries searching for black powder become embroiled in 
 
 # 2773788
 type=video
-name=Kung Fu Yoga (2017)
+name=Kung Fu Yoga (2017) TH
 thumb=http://image.tmdb.org/t/p/w500/ko0OKLprl6uNbY1FLIkFeGem0mV.jpg
-date=2017-05-02
-URL=https://openload.co/f/5Wp_O7M2fW8/%5BTH%5DKung_Fu_Yoga_2017
+date=2019-01-23
+URL=https://openload.co/f/vS9at4JhJeY/Kung_Fu_Yoga_%282017%29%E0%B9%82%E0%B8%A2%E0%B8%84%E0%B8%B0%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%9F%E0%B8%B1%E0%B8%94.mp4
+#https://openload.co/f/5Wp_O7M2fW8/%5BTH%5DKung_Fu_Yoga_2017
 player=default
 rating=-1.00
 description=Chinese archeology professor Jack teams up with beautiful Indian professor Ashmita and assistant Kyra to locate lost Magadha treasure. In a Tibetan ice cave, they find the remains of the royal army that had vanished together with the treasure, only to be ambushed by Randall, the descendent of a rebel army leader. When they free themselves, their next stop is Dubai where a diamond from the ice cave is to be auctioned. After a series of double-crosses and revelations about their past, Jack and his team travel to a mountain temple in India, using the diamond as a key to unlock the real treasure./description
@@ -955,6 +956,12 @@ player=default
 rating=-1.00
 description=Universal Century 0068, Side 3 - The Autonomous Republic of Munzo. Zeon Zum Deikun attempts to declare complete independence of Munzo from the Earth Federation Government, while he preaches the evolutionary potential of humans who have advanced into outer space. Deikun however suddenly falls to his death in the middle of his speech at parliament. Upon Deikun's death, Jimba Ral spreads word of a House of Zabi conspiracy - but despite such efforts the power and sphere of influence of House of Zabi, led by Degwin Sodo Zabi, only seem to escalate. While we witness for the first time the untold convulsions of Universal Century history, Casval and Artesia, just bereaved of their father, must face destinies which will be just as tumultuous as the very era itself./description
 
+
+type=video
+name=Equity (2016) [COLOR=FF00FF00]ENG BR 720p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SoNk9wZ20Icyyk1vJAZRqAxeRQ.jpg
+date=2019-01-23
+URL=https://openload.co/f/Yw_Y9NRqefo/Equity.2016.LIMITED.720p.BRRip.900MBCage.mp4
 # 2762747
 type=video
 name=EQUITY
@@ -963,6 +970,7 @@ URL=https://openload.co/f/r3sbjC4zjrw/%7BMINI_Super-HQ%7D_Equity.2016.1080p.BrRi
 player=default
 rating=-1.00
 description=Senior investment banker Naomi Bishopâ??s world of high-power big money is brutal and fierce, and one she thrives in. When a controversial IPO threatens the fragile balance of power and confidentiality, Naomi finds herself entangled in a web of politics and deception./description
+
 
 # 2761728
 type=video

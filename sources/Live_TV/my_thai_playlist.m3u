@@ -3294,8 +3294,7 @@ http://61.58.60.230:9000/live/257.m3u8
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/d2/37/1dd237c0-dc9f-43a2-a6f5-3b2e7f31e8ff/source/512x512bb.jpg",opensky_CHN
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI_ddns
-http://maxptv.ddns.net:25461/vl/lv/182
+
 
 #EXTINF:-1,HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
@@ -3303,21 +3302,10 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 http://87.246.0.155:5286/tv_HBO_3
 #EXTINF:-1,my cinema
 http://210.210.155.35/session/e7e9511c-e9b5-11e8-9df0-ae449b204a5c/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1,next tv
-http://59.120.242.104:9000/live/live8.m3u8
-#EXTINF:-1,movie HD CHN
-http://59.120.242.104:9000/live/live1.m3u8
-#EXTINF:-1,LTV
-http://59.120.242.104:9000/live/live5.m3u8
+#EXTINF:-1,cinema world
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 
-#EXTINF:-1,free x tv
-http://178.132.220.51:1005/xxx1?id=live
-#EXTINF:-1,free x tv2
-http://178.132.220.51:1005/xxx2?id=live
-#EXTINF:-1,x dream tv
-http://178.132.220.51:1005/xxx3?id=live
-#EXTINF:-1,x dream tv2
-http://178.132.220.51:1005/xxx4?id=live
+
 
 #EXTINF:-1,joy
 http://176.9.126.181:4220
@@ -3331,11 +3319,11 @@ http://176.9.126.181:18730
 http://185.93.3.83:5014/play/a002
 #EXTINF:-1,pinko
 http://185.93.3.83:5014/play/a007
+#EXTINF:-1,penthouse
+http://185.93.3.83:5014/play/a00f
 #EXTINF:-1,penthouse2
 http://185.93.3.83:5014/play/a00e
-#EXTINF:-1,playboy_r
-http://91.90.253.73:8080/CH616_std/index.m3u8
-#EXTINF:-1,playboy_b
+#EXTINF:-1,playboy
 http://91.90.253.73:8080/CH175_std/index.m3u8
 #EXTINF:-1,o-la-la
 http://89.223.46.189:8080/o-la-la/tracks-v1a1/mono.m3u8
@@ -3395,10 +3383,11 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 http://persik.by/stream/8682/252987/10003.m3u8
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp
 http://88.151.248.24:9999/udp/224.0.224.178:1234
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d
-http://185.93.3.83:5014/play/a00d
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00a
 http://185.93.3.83:5014/play/a00a
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
+http://185.93.3.83:5014/play/a00d
+
 
 
 

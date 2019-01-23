@@ -98,7 +98,7 @@ type=video
 name=
 thumb=https://image.tmdb.org/t/p/w185//4VwBXiCzXKJyHfRdVBb843m23dx.jpg
 date=2019-01-03
-URL=https://drive.google.com/file/d/1hKxCrHFfYZXwNrP2HH-1RXONUsT6f-Tm/edit
+URL=https://drive.google.com/file/d/1hKxCrHFfYZXwNrP2HH-1RXONUsT6f-Tm/preview
 
 type=video
 name=
@@ -1639,6 +1639,7 @@ URL=https://uptobox.com/rr37gh1w8v6u
 #https://openload.co/embed/bGuPhnctsfg/THEOLDMANWITHTHEGUN80.Ganol.si.Ganol.si.mkv
 #https://openload.co/f/oa6Al5hZnQo/The_Old_Man_%26_the_Gun_%282018%291080p_BluRay_x264-Replica.Ganool.mkv.mp4
 #https://openload.co/f/YYIOiuG4JWU/The.Old.Man.And.The.Gun.2018.1080p.BluRay.x264-Replica.mkv.mp4
+#https://openload.co/f/hkQI0MnIdnQ/The.Old.Man.%26.the.Gun.2018.1080p.BluRay.10bit.HEVC.6CH.MkvCage.ws.mkv.mp4
 #https://openload.co/f/jGQENQ-hKak/The.Old.Man.And.The.Gun.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/2ooPtU378Ds/The.Old.Man.%26.The.Gun.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/g_500AUZM8k/The.Old.Man.and.the.Gun.2018.1080p.WEBRip.x264.AAC2.0-SHITBOX.mp4
@@ -8583,8 +8584,9 @@ URL=https://openload.co/f/6Lj9JaZ5CPM/Glass_2019_720p_HDCAM-1XBET_SeeHD.mp4
 type=video
 name=Glass (2019) THCAM
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG5GS0V15Zpk8zvsww02faNT0QI.jpg
-date=2019-01-21
-URL=https://openload.co/f/5u4W2aO4vIY/Glass_%282019%29%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C_2019_Thai%28C%29_ZM
+date=2019-01-23
+URL=https://openload.co/f/N-xkdwIt0C4/Glass_%282019%29%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+#https://openload.co/f/5u4W2aO4vIY/Glass_%282019%29%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C_2019_Thai%28C%29_ZM
 
 
 type=video
@@ -11631,8 +11633,9 @@ URL=
 type=video
 name=Dragon Ball Super: Broly (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f03YksE4NggUjG75toz4H1YAGRf.jpg
-date=2019-01-21
-URL=https://openload.co/f/3rk3bimwTRI/Dragon_Ball_Super%3A_Broly_%282018%29%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A5_%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%A5%E0%B8%B5%E0%B9%88_2019_Thai%28C%29_HD
+date=2019-01-23
+URL=https://openload.co/f/U2v4sf3MdgI/Dragon_Ball_Super%3A_Broly_%282018%29%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A5_%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%3A_%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%A5%E0%B8%B5%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+#https://openload.co/f/3rk3bimwTRI/Dragon_Ball_Super%3A_Broly_%282018%29%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A5_%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%A5%E0%B8%B5%E0%B9%88_2019_Thai%28C%29_HD
 
 
 type=video
@@ -11652,8 +11655,9 @@ URL=https://openload.co/f/-hW_Y3jnFKI/Bumblebee.2018.1080p.HC.HDRip.X264.AC3-EVO
 type=video
 name=Bumblebee (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
-date=2019-01-21
-URL=https://openload.co/f/utsX-ikdiqg/Bumblebee_%282018%29%E0%B8%9A%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9A%E0%B8%B5_2018_Thai%28C%29_HD
+date=2019-01-23
+URL=https://openload.co/f/7wWbt11mNJE/Bumblebee_%282018%29%E0%B8%9A%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9A%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87_V.2%29
+#https://openload.co/f/utsX-ikdiqg/Bumblebee_%282018%29%E0%B8%9A%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9A%E0%B8%B5_2018_Thai%28C%29_HD
 #https://openload.co/f/T5rvBo038Xs/Bumblebee_%282018%29%E0%B8%9A%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9A%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
@@ -11667,8 +11671,9 @@ URL=https://openload.co/f/f8P7xDpHj3c/Satans.Slaves.2017.1080p.BluRay.x264-%5BYT
 type=video
 name=Satan's Slaves (2017) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XB9EO9L8t0ryipAoB9WlsxXOIl.jpg
-date=2019-01-21
-URL=https://openload.co/f/wDTGLodNLhQ/Satan%27s_Slaves_%282017%29%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81_2018_Thai%28C%29_HD
+date=2019-01-23
+URL=https://openload.co/f/1BTXR6NAzTA/Satan%27s_Slaves_%282017%29%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/wDTGLodNLhQ/Satan%27s_Slaves_%282017%29%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81_2018_Thai%28C%29_HD
 #https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 
 
@@ -11686,8 +11691,10 @@ URL=https://openload.co/f/RZPnkJ5Dmyw/The_Girl_In_the_Spider%27s_WEB_1080p_HD_Se
 type=video
 name=The Girl in the Spider's Web (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg
-date=2019-01-21
-URL=https://openload.co/f/0uLdNZkiCkA/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_2018_Thai%28C%29_HD
+date=2019-01-23
+URL=https://openload.co/f/70OHFp_bpWw/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_2018.mp4
+#https://openload.co/f/E7ed0BGuVFU/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/0uLdNZkiCkA/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_2018_Thai%28C%29_HD
 #https://openload.co/f/Xumjso_Og_M/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
@@ -11912,8 +11919,9 @@ URL=https://uptobox.com/2h7o1px2p7aq
 type=video
 name=First Man (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
-date=2019-01-14
-URL=https://openload.co/f/Ouqrk5OIvAg/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+date=2019-01-23
+URL=https://openload.co/f/34Pw7vvCIx8/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_2018.mp4
+#https://openload.co/f/Ouqrk5OIvAg/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://openload.co/f/aHTXtE3yc8Q/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://openload.co/f/5EVxFMyOWyw/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
