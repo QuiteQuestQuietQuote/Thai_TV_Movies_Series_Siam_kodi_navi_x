@@ -3346,6 +3346,8 @@ http://59.120.242.104:9000/live/live7.m3u8
 http://1.live1.tvvtvv.com/plus/59live.m3u8?id=live6
 #EXTINF:-1,JAV_SonSee TV_ftvs.php
 http://185.216.119.139:2015/ftvs.php?channelid=55a8b751a960e4dc08d211dd&channeltype=1
+#EXTINF:-1,JAV_SonSee TV_ftvs.php2test
+http://185.216.119.139:2015/ftvs.php?channelid=55a8b751a960e4dc08d211dd&channeltype=2
 
 #EXTINF:-1,Ibiza TV3_streamnossl
 http://streamnossl.1919hdtv.com:8880/lfh/_definst_/Stream3/playlist.m3u8

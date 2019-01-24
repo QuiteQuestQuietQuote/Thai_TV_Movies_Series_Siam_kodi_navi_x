@@ -296,14 +296,7 @@ URL=https://openload.co/f/6wTfS25t1z0/Replicas.2018.WEB-DL.1080P.X264.AAC.CHS_Se
 
 
 
-type=video
-name=A Star Is Born (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg
-date=2019-01-15
-URL=https://openload.co/f/F_hKvV5fAhE/A.Star.is.Born.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/F-FUmjRW-E8/A.Star.is.Born.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/YXp9ToPlKR8/A.Star.is.Born.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/n4-PVqD7M-8/A.Star.Is.Born.2018.720p.HDCAM.1XBET_SeeHD.mp4
+
 
 type=video
 name=London Fields (2018) RUS 720p_RUS_TS_ENG_SUB-1XBET_SeeHD
@@ -394,12 +387,7 @@ date=2019-01-04
 URL=https://openload.co/f/uF0vEitmtBM/The.Vanishing.2018.1080p.WEB-DL_SeeHD.mkv.mp4
 #https://openload.co/f/LMkEFA-Y47Y/The.Vanishing.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
 
-type=video
-name=Beautiful Boy (2018) ENG 1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxWVLnkx9lPMqer70AZRR4OC3KS.jpg
-date=2019-01-04
-URL=https://openload.co/f/3zqSaWuW4l0/Beautiful.Boy.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
-#https://openload.co/f/Lm7GB208YzE/Beautiful.Boy.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
+
 
 type=video
 name=Rust Creek (2019) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
@@ -455,6 +443,21 @@ URL=https://openload.co/f/e56-LGJkFuc/Suspiria.2018.AMZN.1080p.WEB-DL.X264.AC3-E
 
 
 
+type=video
+name=If Beale Street Could Talk (2018) ENG DVDScr.XVID.AC3.HQ.Hive-CM8_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhUIOTSi3kr4290tKrVyeriyvrv.jpg
+date=2019-01-24
+URL=https://openload.co/f/sCDpaMsSBuQ/If.Beale.Street.Could.Talk.2018.DVDScr.XVID.AC3.HQ.Hive-CM8_SeeHD.avi.mp4
+#https://openload.co/f/ck7vUcuvazI/If.Beale.Street.Could.Talk.2018.DVDSCR.MkvCage.ws.mkv.mp4
+
+type=video
+name=Can You Ever Forgive Me? (2018) ENG DVDScr.XVID.AC3.SHQ.Hive-CM8_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPuZR2bFoV0kuBrA98exWyvTf40.jpg
+date=2019-01-24
+URL=https://openload.co/f/QCLYyPgLXXc/Can.You.Ever.Forgive.Me.2018.DVDScr.XVID.AC3.SHQ.Hive-CM8_SeeHD.avi.mp4
+
+
+
 
 
 
@@ -466,7 +469,7 @@ URL=https://openload.co/f/e56-LGJkFuc/Suspiria.2018.AMZN.1080p.WEB-DL.X264.AC3-E
 type=video
 name=
 thumb=
-date=2019-01-18
+date=2019-01-24
 URL=
 
 
@@ -1376,7 +1379,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-21
+date=2019-01-24
 URL=
 
 
@@ -1384,8 +1387,40 @@ URL=
 
 
 
+type=video
+name=The Merger (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-30
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a08vJ9nkMR3fSawpmnv7AyboMQl.jpg
+date=2019-01-24
+URL=https://openload.co/f/8LfUfinGzks/the.merger.2018.1080p.bluray.x264-spooks.mkv.mp4
 
+type=video
+name=A Star Is Born (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-75
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg
+date=2019-01-24
+URL=https://openload.co/f/eyPhM-B2k20/A.Star.is.Born.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
+#https://openload.co/f/XSKFddojD7c/A.Star.is.Born.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/F_hKvV5fAhE/A.Star.is.Born.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/F-FUmjRW-E8/A.Star.is.Born.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/YXp9ToPlKR8/A.Star.is.Born.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/n4-PVqD7M-8/A.Star.Is.Born.2018.720p.HDCAM.1XBET_SeeHD.mp4
 
+type=video
+name=Beautiful Boy (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-74
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxWVLnkx9lPMqer70AZRR4OC3KS.jpg
+date=2019-01-24
+URL=https://openload.co/f/hutOihwPSpE/Beautiful.Boy.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/3zqSaWuW4l0/Beautiful.Boy.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+#https://openload.co/f/Lm7GB208YzE/Beautiful.Boy.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
+
+type=video
+name=Big Brother (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | tmdb-95
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpPmQfmDXp6JMwsSCA96qbotSTh.jpg
+date=2019-01-24
+URL=https://openload.co/f/JNnBeUihcUs/Big.Brother.2018.SUBBED.1080p.BluRay.H264.AAC.mkv.mp4
+#https://uptobox.com/xvpkwkyubb73   720
+#https://fruithosts.net/embed/lelerlrlltqolbns/Big_Brother_2018_BluRay_720p_850MB_Ganol_si_mkv_mp4
+#https://openload.pw/embed/IFNx7IQxvTo/Big.Brother.2018.BluRay.720p.850MB.Ganol.si.mkv.mp4
+#https://openload.co/f/i5OLBBgE_GE/Big_Brother_%282018%29BluRay_720p_DD5.1_x264-MTeam.Ganool.mkv.mp4
 
 type=video
 name=Trouble (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-43
@@ -1488,6 +1523,7 @@ name=The Nutcracker and the Four Realms (2018) [COLOR=FF00FF00]ENG BR 1080p[/COL
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/OphaHihfuXhUGmpNIRIsO3oMgm.jpg
 date=2019-01-19
 URL=https://openload.co/f/TLEbfbcz2t0/The.Nutcracker.And.The.Four.Realms.2018.1080p.BluRay.x264-YIFY.mp4
+#https://openload.co/f/WlhxZvXvkIA/The.Nutcracker.and.the.Four.Realms.2018.1080p.BluRay_SeeHD.mp4
 #https://openload.co/f/Uc6baCuClP0/The.Nutcracker.And.The.Four.Realms.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/egUuRhHdO1M/The.Nutcracker.And.The.Four.Realms.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
 #https://openload.co/f/bJjll6zQqis/The.Nutcracker.And.The.Four.Realms.2018.1080p.BRRip.X264.AC3-EVO.mkv.mp4
@@ -1535,6 +1571,7 @@ URL=https://uptobox.com/hnycmywjqmb3
 #https://fruithosts.net/embed/ddctlratoanrknqf/GHPONCEUPONADEAPOOL80_Ganol_si_mkv_mp4
 #https://oload.icu/embed/VD61LkcyILs/GHPONCEUPONADEAPOOL80.Ganol.si.mkv
 #https://openload.co/f/FgUE4b069TE/Once_Upon_a_Deadpool_%282018%291080p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
+#https://openload.co/f/v_8VN8Szdgk/Deadpool.2.2018.Once.Upon.a.Deadpool.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/dM-xREZLaVk/Deadpool.2.2018.Once.Upon.a.Deadpool.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/1xXRODRusb0/Once.Upon.A.Deadpool.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/s6sVYgkq9ps/Once.Upon.a.Deadpool.2018.NEW.720p.HDCAM-1XBET.mp4
@@ -8466,14 +8503,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ii3AyMpyoYRo62UVX1mCgxFvTP
 date=2019-01-14
 URL=https://openload.co/f/mmAJiAxhJMM/Solo.2018.720.BR_SeeHD.mp4
 
-type=video
-name=Big Brother (2018) [COLOR=FF00FF00]CHN BR 720p[/COLOR] | tmdb-95
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpPmQfmDXp6JMwsSCA96qbotSTh.jpg
-date=2019-01-22
-URL=https://uptobox.com/xvpkwkyubb73
-#https://fruithosts.net/embed/lelerlrlltqolbns/Big_Brother_2018_BluRay_720p_850MB_Ganol_si_mkv_mp4
-#https://openload.pw/embed/IFNx7IQxvTo/Big.Brother.2018.BluRay.720p.850MB.Ganol.si.mkv.mp4
-#https://openload.co/f/i5OLBBgE_GE/Big_Brother_%282018%29BluRay_720p_DD5.1_x264-MTeam.Ganool.mkv.mp4
+
 
 
 
@@ -8609,10 +8639,12 @@ URL=https://openload.co/f/flu_Kj3f7Gs/Spider-Man%3A_Into_the_Spider-Verse_%28201
 
 
 type=video
-name=Aquaman (2018) ENG TC.1080p_SeeHD
+name=Aquaman (2018) ENG 1080p.HC.HDRip.X264-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
-date=2018-12-18
-URL=https://openload.co/f/3TEP9kEmy-w/Aquaman.TC.1080p_SeeHD.mp4
+date=2019-01-24
+URL=https://openload.co/f/HVGdVDe9K7I/Aquaman.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/qHIlwlAuhfE/Aquamen.2018.1080p.HC.HDRip.x264.MkvCage.ws.mkv.mp4
+#https://openload.co/f/3TEP9kEmy-w/Aquaman.TC.1080p_SeeHD.mp4
 #https://openload.co/f/R2YzKr6Q5Y0/Aquaman.2018.CAMRip_SeeHD.mkv.mp4
 #https://openload.co/f/enbK-_AFGro/Aquaman.2018.CAM.X264-Cueca_SeeHD.mkv.mp4
 #https://openload.co/f/4eoZetdCYpY/Aquaman_2018_HDCAM_ENG_X264_AC3_HQMic_Hive-CM8_SeeHD.mkv.mp4
@@ -8626,10 +8658,11 @@ URL=https://openload.co/f/J5sEcIGhhSE/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8
 
 
 type=video
-name=Mortal Engines (2018) ENG NEW_HDCAM_SeeHD
+name=Mortal Engines (2018) ENG 1080p.HC.HDRip.X264-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg
-date=2018-12-07
-URL=https://openload.co/f/yt4IB4owQQQ/Mortal_Engines_NEW_HDCAM_SeeHD.mkv.mp4
+date=2019-01-24
+URL=https://openload.co/f/U2ErCkQeR3k/Mortal.Engines.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/yt4IB4owQQQ/Mortal_Engines_NEW_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/loctyThrog4/Mortal.Engines.2018.CAM.X264.LLG.mp4
 #https://openload.co/f/jfh2kDhtXNI/Mortal_Engines_2018_720p_HDCAM-1XBET.mp4
 type=video
@@ -12702,7 +12735,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-11
+date=2019-01-24
 URL=
 
 
@@ -12710,9 +12743,17 @@ URL=
 
 
 
+type=video
+name=Split (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXMWOZiCt6eMX22jWuTOSdQ98bY.jpg
+date=2019-01-24
+URL=https://openload.co/f/vZpxvHA7kvA/Split.2016.1080p.BR_SeeHD.mp4
 
-
-
+type=video
+name=Unbreakable (2000) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvL37V88plePxFSszCbV3wRHiBm.jpg
+date=2019-01-24
+URL=https://openload.co/f/yyU56R5LOPM/Unbreakable.2000.1080p.BR_SeeHD.mp4
 
 type=video
 name=How to Train Your Dragon 2 (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76
