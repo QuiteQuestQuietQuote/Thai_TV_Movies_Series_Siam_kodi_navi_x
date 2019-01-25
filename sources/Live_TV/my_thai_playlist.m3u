@@ -1593,7 +1593,6 @@ https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream2/playlist.m3u8
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream1/playlist.m3u8
 
 
-
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV3_VIP
 http://ibiza-tv.1919hdtv.com:8880/lfh/Stream3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_VIP
@@ -3329,6 +3328,8 @@ http://91.90.253.73:8080/CH175_std/index.m3u8
 http://89.223.46.189:8080/o-la-la/tracks-v1a1/mono.m3u8
 #EXTINF:-1,sextosenso
 http://31.220.1.190:8080/abed/abed123/96700?m3u8
+#EXTINF:-1,dorcel-hd
+https://unicast.bbxnet.sk/live/dorcel-hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://bgtop100.net/wp-content/uploads/2017/10/Private-tv.png",Private_HD
 http://ed68815c.iptvspy.ru/iptv/KLF5WG86AQZ653/243/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ionitcom.ru/wp-content/uploads/2016/07/russ_night.jpg" group-title="Adult IPTV",Russian Night
@@ -3341,20 +3342,16 @@ http://ed68815c.iptvspy.ru/iptv/KLF5WG86AQZ653/922/index.m3u8
 http://59.120.242.104:9000/live/live6.m3u8
 #EXTINF:-1,JAV_7_pan dora_perfect
 http://59.120.242.104:9000/live/live7.m3u8
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
+http://185.93.3.83:5014/play/a00d
 
 #EXTINF:-1,JAV_tvv_6_SonSee TV
 http://1.live1.tvvtvv.com/plus/59live.m3u8?id=live6
 #EXTINF:-1,JAV_SonSee TV_ftvs.php
 http://185.216.119.139:2015/ftvs.php?channelid=55a8b751a960e4dc08d211dd&channeltype=1
-#EXTINF:-1,JAV_SonSee TV_ftvs.php2test
-http://185.216.119.139:2015/ftvs.php?channelid=55a8b751a960e4dc08d211dd&channeltype=2
 
-#EXTINF:-1,Ibiza TV3_streamnossl
-http://streamnossl.1919hdtv.com:8880/lfh/_definst_/Stream3/playlist.m3u8
-#EXTINF:-1,Ibiza TV2_streamnossl
-http://streamnossl.1919hdtv.com:8880/lfh/_definst_/Stream2/playlist.m3u8
-#EXTINF:-1,Ibiza TV1_streamnossl
-http://streamnossl.1919hdtv.com:8880/lfh/_definst_/Stream1/playlist.m3u8
+
+
 #EXTINF:-1,Ibiza TV3_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8
 #EXTINF:-1,Ibiza TV2_streamlock.net
@@ -3387,8 +3384,7 @@ http://persik.by/stream/8682/252987/10003.m3u8
 http://88.151.248.24:9999/udp/224.0.224.178:1234
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00a
 http://185.93.3.83:5014/play/a00a
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
-http://185.93.3.83:5014/play/a00d
+
 
 
 
