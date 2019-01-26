@@ -131,10 +131,11 @@ date=2019-01-21
 URL=https://openload.co/f/7c4cSZI6Urk/City.of.Lies.2018.720p.HDCAM.HC.ENG.SUB.x264-1XBET.mp4
 
 type=video
-name=Escape Room (2019) ENG CAM.XviD-AVID
+name=Escape Room (2019) ENG HC_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yZAx7tlKRZIg7pJfaPhl00yHIQ.jpg
-date=2019-01-20
-URL=https://openload.co/f/T-lDrtQ7twA/Escape.Room.2019.CAM.XviD-AVID.avi.mp4
+date=2019-01-26
+URL=https://openload.co/f/oj3GNDY1iHA/EscapeRoomHC_SeeHD.mkv.mp4
+#https://openload.co/f/T-lDrtQ7twA/Escape.Room.2019.CAM.XviD-AVID.avi.mp4
 
 
 
@@ -246,12 +247,7 @@ URL=https://openload.co/f/oQUlEXJw-KI/Loophole.2019.1080p.AMZN.WEBRip.DDP2.0.x26
 
 
 
-type=video
-name=Widows (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f27RTnWEc2bhVtfSlKmxxypznfR.jpg
-date=2019-01-22
-URL=https://openload.co/f/jcd1x4QjjVA/Widows.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/egukV81Gjwo/Widows_2018_720p_HDCAM_SeeHD.mkv.mp4
+
 
 type=video
 name=Nobody's Fool (2018) ENG HDCAM.x264-Unknown_SeeHD
@@ -278,10 +274,12 @@ URL=https://openload.co/f/0ia-SsSqcCM/Bohemian_Rhapsody_2018_1080p_WEB-DL_X264_D
 #https://openload.co/f/QCRboGzcoRY/Bohemian_Rhapsody_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
 type=video
-name=Replicas (2018) ENG WEB-DL.1080P.X264.AAC.CHS_SeeHD
+name=Replicas (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUG8gxJTcXXdDrbdlmDAIJMFghO.jpg
-date=2018-12-23
-URL=https://openload.co/f/6wTfS25t1z0/Replicas.2018.WEB-DL.1080P.X264.AAC.CHS_SeeHD.mp4
+date=2019-01-26
+URL=https://openload.co/f/YzO-RZOv9vM/Replicas.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/YecaAWESCGg/Replicas.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/6wTfS25t1z0/Replicas.2018.WEB-DL.1080P.X264.AAC.CHS_SeeHD.mp4
 #https://openload.co/f/BrizeTT58VE/Replicas.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/hAjtPqsFoDQ/Replicas.2018.HDCAM.NEWSOURCE.x264-PHOENiX.mkv.mp4
 #https://openload.co/f/_lHIqerPKeY/Replicas_2018_720p_HDCAM_ENG-1XBET_SeeHD.mp4
@@ -380,12 +378,7 @@ URL=https://openload.co/f/BkQiBo75j44/The_Wind_Guardians_%5B2018%5D%5BWEB-4K%5D%
 
 
 
-type=video
-name=The Vanishing (2018) ENG 1080p.WEB-DL_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1A53JjLQodStijRMnDEdvjNr94a.jpg
-date=2019-01-04
-URL=https://openload.co/f/uF0vEitmtBM/The.Vanishing.2018.1080p.WEB-DL_SeeHD.mkv.mp4
-#https://openload.co/f/LMkEFA-Y47Y/The.Vanishing.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+
 
 
 
@@ -1379,7 +1372,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-24
+date=2019-01-26
 URL=
 
 
@@ -1387,17 +1380,55 @@ URL=
 
 
 
+
+
+type=video
+name=Widows (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f27RTnWEc2bhVtfSlKmxxypznfR.jpg
+date=2019-01-26
+URL=https://openload.co/f/VnntzwMSKt8/Widows.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/BYZCOEWIjYU/Widows.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/jcd1x4QjjVA/Widows.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/egukV81Gjwo/Widows_2018_720p_HDCAM_SeeHD.mkv.mp4
+
+type=video
+name=The Vanishing (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-53
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1A53JjLQodStijRMnDEdvjNr94a.jpg
+date=2019-01-26
+URL=https://openload.co/f/ptJ3sUl-NWo/The.Vanishing.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/cLykT_SeDP8/The.Vanishing.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/uF0vEitmtBM/The.Vanishing.2018.1080p.WEB-DL_SeeHD.mkv.mp4
+#https://openload.co/f/LMkEFA-Y47Y/The.Vanishing.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+
+type=video
+name=A Private War (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAh6uDR9bBznybiJCVYZNJmjg63.jpg
+date=2019-01-26
+URL=https://openload.co/f/TihxAUth49A/A.Private.War.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/D-IBznOE3vw/A.Private.War.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/lTNITdIuaDg/A.Private.War.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/g7xT8Q71GVc/A.Private.War.2018.1080p.BluRay.x264-DRONES.mkv   MKV7.9G
+#https://openload.co/f/AIuc2Q8yEos/A.Private.War.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/_akCNPVUzYk/A.Private.War.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
+#https://openload.co/f/Cense1PBmYU/A.Private.War.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
 type=video
 name=The Merger (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-30
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a08vJ9nkMR3fSawpmnv7AyboMQl.jpg
-date=2019-01-24
-URL=https://openload.co/f/8LfUfinGzks/the.merger.2018.1080p.bluray.x264-spooks.mkv.mp4
+date=2019-01-26
+URL=https://uptobox.com/2fai9i5utu7i
+#https://fruithosts.net/embed/rlbobantnqcaboca/THEMERGE80_Ganol_si_mkv
+#https://oload.club/embed/NtQVVBmUb6Y/THEMERGE80.Ganol.si.mkv
+#https://openload.co/f/egwZCkSEebw/The_Merger_%282018%291080p_BluRay_x264-SPOOKS.Ganool.mkv.mp4
+#https://openload.co/f/8LfUfinGzks/the.merger.2018.1080p.bluray.x264-spooks.mkv.mp4
+#https://openload.co/f/4HOQqpjGpug/The.Merger.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=A Star Is Born (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-75
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg
-date=2019-01-24
-URL=https://openload.co/f/eyPhM-B2k20/A.Star.is.Born.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
+date=2019-01-26
+URL=https://openload.co/f/dJxB318keUY/A.Star.Is.Born.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/eyPhM-B2k20/A.Star.is.Born.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
 #https://openload.co/f/XSKFddojD7c/A.Star.is.Born.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/F_hKvV5fAhE/A.Star.is.Born.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/F-FUmjRW-E8/A.Star.is.Born.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
@@ -1407,8 +1438,13 @@ URL=https://openload.co/f/eyPhM-B2k20/A.Star.is.Born.2018.1080p.BRRip.x264.MkvCa
 type=video
 name=Beautiful Boy (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-74
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxWVLnkx9lPMqer70AZRR4OC3KS.jpg
-date=2019-01-24
-URL=https://openload.co/f/hutOihwPSpE/Beautiful.Boy.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+date=2019-01-26
+URL=https://uptobox.com/9be95oq881vk
+#https://openload.co/f/4XvWfYOu1WE/Beautiful_Boy_%282018%291080p_BluRay_X264-AMIABLE.Ganool.mkv.mp4
+#https://oload.club/embed/_Bc7LiElN4A/GHPBEAUTIFULBOY80.Ganol.si.mkv
+#https://uptobox.com/9be95oq881vk
+#https://fruithosts.net/embed/serksfbkmqtktafq/GHPBEAUTIFULBOY80_Ganol_si_mkv
+#https://openload.co/f/hutOihwPSpE/Beautiful.Boy.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/3zqSaWuW4l0/Beautiful.Boy.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
 #https://openload.co/f/Lm7GB208YzE/Beautiful.Boy.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
 
@@ -5298,6 +5334,7 @@ name=Lazer Team 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/21A6RTi9RgOdHmcwC1DSqgi2cIJ.jpg
 date=2018-04-25
 URL=https://openload.co/f/c7nHdUFI-_Y/Lazer.Team.2.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/_hXsiKGjito/Lazer.Team.2.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/BS5jT_5IogU/Lazer.Team.2.2017.1080p.WEBRip.x264-WEBTiFUL.mkv.mp4
 #https://uptobox.com/bh33uip96mfa   720
 
@@ -5819,6 +5856,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMqyMjzqMi8Nd57iITmzi1fE5r
 date=2018-03-08
 URL=https://www.blazefile.co/embed-952nvrbkoy1s.html
 #https://uptobox.com/1frun6i7ymo1
+#https://openload.co/f/M_FfowLvAtQ/prodigy.2017.1080p.bluray.x264-getit.mkv.mp4
 #https://openload.co/f/F9wyOwd36kU/Prodigy.2017.720p.BluRay.x264.DTS-CHD.mkv.mp4
 
 type=video
@@ -8606,10 +8644,11 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 type=video
-name=Glass (2019) ENG 720p_HDCAM-1XBET_SeeHD
+name=Glass (2019) ENG v2.720p.HDCAM.X264-1XBET
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG5GS0V15Zpk8zvsww02faNT0QI.jpg
-date=2019-01-18
-URL=https://openload.co/f/6Lj9JaZ5CPM/Glass_2019_720p_HDCAM-1XBET_SeeHD.mp4
+date=2019-01-26
+URL=https://openload.co/f/3oAYTT4Wppg/Glass.2018.v2.720p.HDCAM.X264-1XBET.mp4
+#https://openload.co/f/6Lj9JaZ5CPM/Glass_2019_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/IYXgpWBrBd8/Glass_2019_720p_HDCAM-1XBET.mp4
 type=video
 name=Glass (2019) THCAM
@@ -8638,23 +8677,7 @@ URL=https://openload.co/f/flu_Kj3f7Gs/Spider-Man%3A_Into_the_Spider-Verse_%28201
 
 
 
-type=video
-name=Aquaman (2018) ENG 1080p.HC.HDRip.X264-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
-date=2019-01-24
-URL=https://openload.co/f/HVGdVDe9K7I/Aquaman.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/qHIlwlAuhfE/Aquamen.2018.1080p.HC.HDRip.x264.MkvCage.ws.mkv.mp4
-#https://openload.co/f/3TEP9kEmy-w/Aquaman.TC.1080p_SeeHD.mp4
-#https://openload.co/f/R2YzKr6Q5Y0/Aquaman.2018.CAMRip_SeeHD.mkv.mp4
-#https://openload.co/f/enbK-_AFGro/Aquaman.2018.CAM.X264-Cueca_SeeHD.mkv.mp4
-#https://openload.co/f/4eoZetdCYpY/Aquaman_2018_HDCAM_ENG_X264_AC3_HQMic_Hive-CM8_SeeHD.mkv.mp4
-#https://openload.co/f/F_dSjC73jCU/Aquaman_2018_TC_V2.mp4
-type=video
-name=Aquaman (2018) THCAM v.2
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
-date=2019-01-01
-URL=https://openload.co/f/J5sEcIGhhSE/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1_V.2%29
-#https://openload.co/f/9ejB1m2RPiw/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
@@ -8687,20 +8710,6 @@ date=2018-12-02
 URL=https://openload.co/f/d6K_cM2GBfM/Ralph_Breaks_the_Internet_%282018%29%E0%B8%A3%E0%B8%B2%E0%B8%A5%E0%B9%8C%E0%B8%9F%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95_%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=Robin Hood (2018) ENG 1080p.HC.HDRip.X264-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg
-date=2019-01-22
-URL=https://openload.co/f/ZAuXpZ2zvWo/Robin.Hood.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/ZLA1sbu0P0Y/Robin.Hood.2018.NEW.720p.HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/TI4dCM2M4UE/Robin.Hood.2018.NEW.720p.HDCAM.mkv.mp4
-#https://openload.co/f/QfQW0tLAnzs/Robin_Hood_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/YbVJ7tkFxd4/Robin_Hood_2018_720p_HDCAM..mp4
-type=video
-name=Robin Hood (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg
-date=2018-11-27
-URL=https://openload.co/f/lObXO4Iqg0s/Robin_Hood_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%AE%E0%B8%B9%E0%B9%89%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 
@@ -8708,19 +8717,8 @@ URL=https://openload.co/f/lObXO4Iqg0s/Robin_Hood_%282018%29%E0%B8%9E%E0%B8%A2%E0
 
 
 
-type=video
-name=The Grinch (2018) ENG 1080p_WEB-DL_X264_DD5.1_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQVj6Z8kPdsbt7XPjVBCltxq90.jpg
-date=2019-01-22
-URL=https://openload.co/f/Nwp7U8A8Fys/The_Grinch_2018_1080p_WEB-DL_X264_DD5.1_SeeHD.mkv.mp4
-#https://openload.co/f/JabxOTalF3Q/The.Grinch.2018.1080p.WEB-DL.H264-CMRG.mkv.mp4.mp4
-#https://openload.co/f/dydMukHY19Q/The_Grinch_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/1aWfXZqz-Wk/The_Grinch_2018_720p_HDCAM-1XBET.mp4
-type=video
-name=The Grinch (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lK3BZcdmfQWvOSQeJa6Oes79LXB.jpg
-date=2018-11-12
-URL=https://openload.co/f/3Dg-BA4Dz-A/The_Grinch_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B9%8A%E0%B8%99%E0%B8%8A%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
 
 
 type=video
@@ -8808,13 +8806,20 @@ URL=https://openload.co/f/NzNS1jlT1t4/Hell_Fest_%282018%29%E0%B8%AA%E0%B8%A7%E0%
 type=video
 name=
 thumb=
-date=2019-01-20
+date=2019-01-26
 URL=
 
 
 
 
 
+
+
+type=video
+name=The Quake (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA5MVaNWe76EjuXn4FqkeaHDPuj.jpg
+date=2019-01-26
+URL=https://openload.co/f/i_zrEaJqgwU/The_Quake_%282018%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -11660,7 +11665,63 @@ URL=
 
 
 
+type=video
+name=Aquaman (2018) ENG 1080p.HC.HDRip.X264-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
+date=2019-01-24
+URL=https://openload.co/f/HVGdVDe9K7I/Aquaman.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/qHIlwlAuhfE/Aquamen.2018.1080p.HC.HDRip.x264.MkvCage.ws.mkv.mp4
+#https://openload.co/f/3TEP9kEmy-w/Aquaman.TC.1080p_SeeHD.mp4
+#https://openload.co/f/R2YzKr6Q5Y0/Aquaman.2018.CAMRip_SeeHD.mkv.mp4
+#https://openload.co/f/enbK-_AFGro/Aquaman.2018.CAM.X264-Cueca_SeeHD.mkv.mp4
+#https://openload.co/f/4eoZetdCYpY/Aquaman_2018_HDCAM_ENG_X264_AC3_HQMic_Hive-CM8_SeeHD.mkv.mp4
+#https://openload.co/f/F_dSjC73jCU/Aquaman_2018_TC_V2.mp4
+type=video
+name=Aquaman (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
+date=2019-01-26
+URL=https://openload.co/f/9lhoypZ6XFo/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/J5sEcIGhhSE/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1_V.2%29
+#https://openload.co/f/9ejB1m2RPiw/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
+
+type=video
+name=Robin Hood (2018) ENG 1080p.HC.HDRip.X264-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg
+date=2019-01-22
+URL=https://openload.co/f/ZAuXpZ2zvWo/Robin.Hood.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/ZLA1sbu0P0Y/Robin.Hood.2018.NEW.720p.HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/TI4dCM2M4UE/Robin.Hood.2018.NEW.720p.HDCAM.mkv.mp4
+#https://openload.co/f/QfQW0tLAnzs/Robin_Hood_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/YbVJ7tkFxd4/Robin_Hood_2018_720p_HDCAM..mp4
+type=video
+name=Robin Hood (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg
+date=2019-01-26
+URL=https://openload.co/f/wTMNl3hnW9U/Robin_Hood_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%AE%E0%B8%B9%E0%B9%89%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/lObXO4Iqg0s/Robin_Hood_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%AE%E0%B8%B9%E0%B9%89%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=The Grinch (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQVj6Z8kPdsbt7XPjVBCltxq90.jpg
+date=2019-01-26
+URL=https://openload.co/f/aENSwDpjb44/the.grinch.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/4GHZ_NkFY6Q/The.Grinch.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/uIixdtndmrQ/The.Grinch.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/xKmj_Hu8NIk/The.Grinch.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/AlZtU8gA2Bw/The.Grinch.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
+#https://openload.co/f/8D7X7fcG5qM/The.Grinch.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
+#https://openload.co/f/Nwp7U8A8Fys/The_Grinch_2018_1080p_WEB-DL_X264_DD5.1_SeeHD.mkv.mp4
+#https://openload.co/f/JabxOTalF3Q/The.Grinch.2018.1080p.WEB-DL.H264-CMRG.mkv.mp4.mp4
+#https://openload.co/f/dydMukHY19Q/The_Grinch_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/1aWfXZqz-Wk/The_Grinch_2018_720p_HDCAM-1XBET.mp4
+type=video
+name=The Grinch (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lK3BZcdmfQWvOSQeJa6Oes79LXB.jpg
+date=2019-01-26
+URL=https://openload.co/f/atYaYbzdkOc/The_Grinch_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B9%8A%E0%B8%99%E0%B8%8A%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/3Dg-BA4Dz-A/The_Grinch_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B9%8A%E0%B8%99%E0%B8%8A%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -11710,25 +11771,7 @@ URL=https://openload.co/f/1BTXR6NAzTA/Satan%27s_Slaves_%282017%29%E0%B9%80%E0%B8
 #https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 
 
-type=video
-name=The Girl in the Spider's Web (2018) ENG WEB_1080p_HD_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg
-date=2019-01-18
-URL=https://openload.co/f/RZPnkJ5Dmyw/The_Girl_In_the_Spider%27s_WEB_1080p_HD_SeeHD.mkv.mp4
-#https://openload.co/f/ARUJNfAf_hI/The.Girl.in.the.Spiders.Web.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/Are8Z3ZTzec/The_Girl_In_the_Spider%27s_WEB_1080p_HD_SeeHD.mkv   MKV3.9GB
-#https://openload.co/f/h6Qn3HvCIQ4/The.Girl.in.the.Spiders.Web.2019.1080p.WEB-DL.H264.AC3-EVO.mkv   MKV3.9GB
-#https://openload.co/f/vnHx1c86_sA/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/drPr9ef6yU4/The.Girl.in.the.Spiders.Web.2018.NOLOGO.720p.HDCAM.1XBET.mp4
-#https://openload.co/f/_8vleyK_oJg/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET.mp4
-type=video
-name=The Girl in the Spider's Web (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg
-date=2019-01-23
-URL=https://openload.co/f/70OHFp_bpWw/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_2018.mp4
-#https://openload.co/f/E7ed0BGuVFU/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/0uLdNZkiCkA/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_2018_Thai%28C%29_HD
-#https://openload.co/f/Xumjso_Og_M/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
@@ -11798,10 +11841,13 @@ URL=https://openload.co/f/wgh5x6e0Vp8/Goosebumps_2%3A_Haunted_Halloween_%282018%
 
 
 type=video
-name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG 1080p.Korsub.Webrip_SeeHD
+name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG 1080p.HDRip.X264-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
-date=2018-12-16
-URL=https://openload.co/f/VNADQVO4EQQ/Fantastic.Beasts.The.Crimes.of.Grindelwald_2018.1080p.Korsub.Webrip_SeeHD.mkv.mp4
+date=2019-01-26
+URL=https://openload.co/f/R7-CW5vnbpg/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264-EVO.mkv.mp4
+#https://openload.co/f/V_RFFjCetEg/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264-EVO.mkv.mp4
+#https://openload.co/f/U2rad3E-104/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264-EVO.mkv   MKV4.1GB
+#https://openload.co/f/VNADQVO4EQQ/Fantastic.Beasts.The.Crimes.of.Grindelwald_2018.1080p.Korsub.Webrip_SeeHD.mkv.mp4
 #https://openload.co/f/5WEur57mzKk/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HC.HDRip.MkvCage.ws.mkv.mp4
 #https://openload.co/f/iuHuIdv_D4I/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_720p_HD-TS_SeeHD.mkv.mp4
 #https://openload.co/f/zxQXeYHHfGI/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_720p_HD-TS.mkv.mp4
@@ -11926,37 +11972,7 @@ date=2018-11-26
 URL=https://openload.co/f/F50fZoE0fog/Rampant_%282018%29%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
-type=video
-name=First Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
-date=2019-01-13
-URL=https://uptobox.com/2h7o1px2p7aq
-#https://fruithosts.net/embed/osfstcolmksqqqre/GHPFIRSTMAN80_Ganol_si_mkv_mp4
-#https://oload.fun/embed/VAtk_LCWpw0/GHPFIRSTMAN80.Ganol.si.mkv
-#https://openload.co/f/rB9L5VQBHpI/First_Man_%282018%29PROPER_1080p_BluRay_x264-DRONES.Ganool.mkv.mp4
-#https://openload.co/f/tmOhnEJhlMU/First.Man.2018.IMAX.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/mv-DjqCcofY/First.Man.2018.1080p.BluRay.10bit.HEVC.6CH.MkvCage.ws.mkv.mp4
-#https://openload.co/f/T-Q5z45BB1I/First.Man.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
-#https://openload.co/f/0VGe4XmzmHk/first.man.2018.proper.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/wI7HYCqqYTM/First.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/tHksAmN0S1M/First.Man.2018.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/BYrHS1b8bek/First.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/OZ9pH7xGQ-M/First.Man.2018.1080p.BluRay.x264-BLOW.mkv.mp4
-#https://openload.co/f/eNlwUYsYcDQ/First.Man.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/JQ-sf2xhroo/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/Q-IpbQFdeGc/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/LMJ_mquiaps/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/AwQGBb1XjbM/First_Man_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/7mOSc3yTvAM/First_Man_2018_720p_HDCAM-1XBET.mp4
-#https://openload.co/f/I5V3WzV1etQ/First.Man.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
-type=video
-name=First Man (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
-date=2019-01-23
-URL=https://openload.co/f/34Pw7vvCIx8/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_2018.mp4
-#https://openload.co/f/Ouqrk5OIvAg/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/aHTXtE3yc8Q/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/5EVxFMyOWyw/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
@@ -12391,9 +12407,62 @@ URL=
 
 
 
+type=video
+name=First Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
+date=2019-01-13
+URL=https://uptobox.com/2h7o1px2p7aq
+#https://fruithosts.net/embed/osfstcolmksqqqre/GHPFIRSTMAN80_Ganol_si_mkv_mp4
+#https://oload.fun/embed/VAtk_LCWpw0/GHPFIRSTMAN80.Ganol.si.mkv
+#https://openload.co/f/rB9L5VQBHpI/First_Man_%282018%29PROPER_1080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/tmOhnEJhlMU/First.Man.2018.IMAX.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/mv-DjqCcofY/First.Man.2018.1080p.BluRay.10bit.HEVC.6CH.MkvCage.ws.mkv.mp4
+#https://openload.co/f/T-Q5z45BB1I/First.Man.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
+#https://openload.co/f/0VGe4XmzmHk/first.man.2018.proper.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/wI7HYCqqYTM/First.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/tHksAmN0S1M/First.Man.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/BYrHS1b8bek/First.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/OZ9pH7xGQ-M/First.Man.2018.1080p.BluRay.x264-BLOW.mkv.mp4
+#https://openload.co/f/eNlwUYsYcDQ/First.Man.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/JQ-sf2xhroo/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/Q-IpbQFdeGc/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/LMJ_mquiaps/First.Man.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/AwQGBb1XjbM/First_Man_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/7mOSc3yTvAM/First_Man_2018_720p_HDCAM-1XBET.mp4
+#https://openload.co/f/I5V3WzV1etQ/First.Man.2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+type=video
+name=First Man (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg
+date=2019-01-26
+URL=https://openload.co/f/lLb0-FWmPyM/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C.mp4
+#https://openload.co/f/34Pw7vvCIx8/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_2018.mp4
+#https://openload.co/f/Ouqrk5OIvAg/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/aHTXtE3yc8Q/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/5EVxFMyOWyw/First_Man_%282018%29%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-
+type=video
+name=The Girl in the Spider's Web (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg
+date=2019-01-26
+URL=https://openload.co/f/GWFHbx5JhxY/The.Girl.In.The.Spider%27s.Web.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/3huxz0i8BCE/The.Girl.in.the.Spiders.Web.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/RZPnkJ5Dmyw/The_Girl_In_the_Spider%27s_WEB_1080p_HD_SeeHD.mkv.mp4
+#https://openload.co/f/ARUJNfAf_hI/The.Girl.in.the.Spiders.Web.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/Are8Z3ZTzec/The_Girl_In_the_Spider%27s_WEB_1080p_HD_SeeHD.mkv   MKV3.9GB
+#https://openload.co/f/h6Qn3HvCIQ4/The.Girl.in.the.Spiders.Web.2019.1080p.WEB-DL.H264.AC3-EVO.mkv   MKV3.9GB
+#https://openload.co/f/vnHx1c86_sA/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/drPr9ef6yU4/The.Girl.in.the.Spiders.Web.2018.NOLOGO.720p.HDCAM.1XBET.mp4
+#https://openload.co/f/_8vleyK_oJg/The_Girl_in_the_Spiders_Web_2018_720p_HDCAM-1XBET.mp4
+type=video
+name=The Girl in the Spider's Web (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg
+date=2019-01-26
+URL=https://openload.co/f/240tD_BEq8w/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0.mp4
+#https://openload.co/f/70OHFp_bpWw/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_2018.mp4
+#https://openload.co/f/E7ed0BGuVFU/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/0uLdNZkiCkA/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_2018_Thai%28C%29_HD
+#https://openload.co/f/Xumjso_Og_M/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video

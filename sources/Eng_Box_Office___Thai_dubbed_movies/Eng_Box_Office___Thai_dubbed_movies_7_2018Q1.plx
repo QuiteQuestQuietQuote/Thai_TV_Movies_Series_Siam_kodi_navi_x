@@ -293,6 +293,7 @@ name=Ajin: Demi-Human (2017) [COLOR=FF00FF00]JAP BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fINvKAGwJomcALdjB8DWmOC9ZQK.jpg
 date=2018-04-11
 URL=https://www.blazefile.co/embed-9kwzqdy3z2v0.html
+#https://openload.co/f/gWiUcWRa9Ow/Ajin.Demi-Human.2017.1080p.BluRay.x264.DTS-WiKi.mkv.mp4
 #https://uptobox.com/y2maiqji0qfc
 type=video
 name=Ajin: Demi-Human (2017) TH
