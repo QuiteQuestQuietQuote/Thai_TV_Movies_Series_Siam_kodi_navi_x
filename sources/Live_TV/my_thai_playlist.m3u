@@ -3304,25 +3304,12 @@ http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
 
 
-#EXTINF:-1,HBO2
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1,HBO3
-http://87.246.0.155:5286/tv_HBO_3
-#EXTINF:-1,my cinema
-http://210.210.155.35/session/e7e9511c-e9b5-11e8-9df0-ae449b204a5c/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1,cinema world
-http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 
 
 
-#EXTINF:-1,joy
-http://176.9.126.181:4220
-#EXTINF:-1,xxx
-http://176.9.126.181:4260
-#EXTINF:-1,sirina
-http://176.9.126.181:18740
-#EXTINF:-1,xxx
-http://176.9.126.181:18730
+#EXTINF:-1,xxx 3mosqueteiros
+http://mag.3mosqueteiros.biz:8080/clvnPca7pM/4RYvFBsBE6/22793
+
 #EXTINF:-1,redlight
 http://185.93.3.83:5014/play/a002
 #EXTINF:-1,pinko
@@ -3331,16 +3318,8 @@ http://185.93.3.83:5014/play/a007
 http://185.93.3.83:5014/play/a00f
 #EXTINF:-1,penthouse2
 http://185.93.3.83:5014/play/a00e
-#EXTINF:-1,playboy
-http://91.90.253.73:8080/CH175_std/index.m3u8
-#EXTINF:-1,o-la-la
-http://89.223.46.189:8080/o-la-la/tracks-v1a1/mono.m3u8
-#EXTINF:-1,sextosenso
-http://31.220.1.190:8080/abed/abed123/96700?m3u8
 #EXTINF:-1,dorcel-hd
 https://unicast.bbxnet.sk/live/dorcel-hd/playlist.m3u8
-#EXTINF:-1,candy
-http://164.138.92.162:999/udp/239.191.254.173:15285
 #EXTINF:-1  tvg-logo="http://bgtop100.net/wp-content/uploads/2017/10/Private-tv.png",Private_HD
 http://ed68815c.iptvspy.ru/iptv/KLF5WG86AQZ653/243/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ionitcom.ru/wp-content/uploads/2016/07/russ_night.jpg" group-title="Adult IPTV",Russian Night

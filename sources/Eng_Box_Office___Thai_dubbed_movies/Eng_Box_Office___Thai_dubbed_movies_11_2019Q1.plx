@@ -113,10 +113,19 @@ URL=https://drive.google.com/file/d/1XrgTIY3JpLoKGreu5If6pxs6mDiN28Ur/view
 type=video
 name=
 thumb=
-date=2019-01-22
+date=2019-01-27
 URL=
 
 
+
+
+
+
+type=video
+name=The Kid Who Would Be King (2019) ENG 720p_HDCAM-1XBET_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWENxGrJmXmHvifG6x2aYnpovXI.jpg
+date=2019-01-27
+URL=https://openload.co/f/WpWf1hDqdno/The_Kid_Who_Would_Be_King_2019_720p_HDCAM-1XBET_SeeHD.mp4
 
 type=video
 name=The Upside (2019) ENG 720p_HDCAM-1XBET_SeeHD
@@ -6721,6 +6730,7 @@ name=Killing Gunther (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFrkrNFDqfHboa2GSycmUXND0od.jpg
 date=2017-12-21
 URL=https://www.blazefile.co/embed-3zr3akou9mat.html
+#https://www.rapidvideo.com/e/FXQ5V58L3V
 #https://openload.co/f/LkFOksAeuJA/Killing.Gunther.2017.1080p.BluRay.x264-ROVERS.mkv.mp4
 #https://openload.co/f/-SUsdBHrx3M/Killing.Gunther.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/UlVFpNK1qUE/Killing.Gunther.2017.HDRip.XviD.AC3-EVO.avi.mp4
