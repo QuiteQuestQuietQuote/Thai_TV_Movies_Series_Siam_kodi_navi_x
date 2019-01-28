@@ -3304,12 +3304,6 @@ http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
 
 
-
-
-
-#EXTINF:-1,xxx 3mosqueteiros
-http://mag.3mosqueteiros.biz:8080/clvnPca7pM/4RYvFBsBE6/22793
-
 #EXTINF:-1,redlight
 http://185.93.3.83:5014/play/a002
 #EXTINF:-1,pinko
@@ -3335,6 +3329,22 @@ http://59.120.242.104:9000/live/live7.m3u8
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
 http://185.93.3.83:5014/play/a00d
 
+#EXTINF:-1,ours hd1_gg
+http://gg.gg/JapanS1
+#EXTINF:-1,ours hd2_gg
+http://gg.gg/JapanS2
+#EXTINF:-1,ours hd3_gg
+http://gg.gg/JapanS3
+#EXTINF:-1,ours hd4_gg
+http://gg.gg/JapanS4
+#EXTINF:-1,ours hd1_key
+http://172.104.114.178/vod/live/1/live.m3u8?key=dnnl6bua32k8qape7he35831p3&fbclid=IwAR31bfnWQvO0bhV4EeBZUZ2MrE42N7si8vHMrQBSWJ9UGEDH_at1Ol-3A0Y
+#EXTINF:-1,ours hd2_key
+http://172.104.114.178/vod/live/2/live.m3u8?key=dnnl6bua32k8qape7he35831p3&fbclid=IwAR3ssStlVJiWNSWJTQSMfaBvqYP6PflPqo7FPSvDJT14S_IGVDMNe3LHBkM
+#EXTINF:-1,ours hd3_key
+http://172.104.114.178/vod/live/3/live.m3u8?key=dnnl6bua32k8qape7he35831p3&fbclid=IwAR0jjlja-9NqKl9FcVhMdl300hClr1cLwkA-inQw8HaayWJYahys-fY5bp0
+#EXTINF:-1,ours hd4_key
+http://172.104.114.178/vod/live/4/live.m3u8?key=dnnl6bua32k8qape7he35831p3&fbclid=IwAR1vmqLpGtH-rwwd4UTZPzeHfHyB17Lx-yf_N77KWjX9E8EO1DLrIJb7zL8
 
 
 #EXTINF:-1,Ibiza TV2_streamlock.net
