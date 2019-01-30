@@ -1391,8 +1391,9 @@ URL=
 type=video
 name=Suspiria (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Nu6qk2UwM4aGvd5BvIMtvt3zoi.jpg
-date=2019-01-29
-URL=https://openload.co/f/nA37IM3bRj4/Suspiria.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2019-01-30
+URL=https://openload.co/f/t_V2JJOfMGc/Suspiria.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/nA37IM3bRj4/Suspiria.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/e56-LGJkFuc/Suspiria.2018.AMZN.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
 #https://openload.co/f/8H8op17WsnI/Suspiria.2018.AMZN.1080p.WEB-DL.X264.AC3-EVO.mkv
 #https://openload.co/f/8h2hcDF6OS8/Suspiria1080phd_SeeHD.mkv.mp4
@@ -1537,6 +1538,8 @@ URL=https://uptobox.com/wvrdhv6stz3b
 #https://fruithosts.net/embed/eanmpctaerqcfmop/GHPREIGNTHESUPERMEM80_Ganol_si_mkv
 #https://openload.pw/embed/CegBatIo27Q/GHPREIGNTHESUPERMEM80.Ganol.si.mkv
 #https://openload.co/f/43yrNNGzjag/Reign_of_the_Supermen_%282019%29BluRay_1080p_DTS_x264-MT.Ganool.mkv.mp4
+#https://openload.co/f/L0rRDtMsV9c/Reign.of.the.Supermen.2019.1080p.BluRay.x264-VETO.mkv.mp4
+#https://openload.co/f/Ps1y24-MgY0/reign.of.the.supermen.2019.1080p.bluray.x264-veto.mkv   MKV6.6GB
 #https://openload.co/f/mooYM1PhaSY/Reign.of.the.Supermen.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/lPB8eHRxLYU/Reign.of.the.Supermen.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/-ItjZfrKsTI/Reign.of.the.Supermen.2019.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -1587,8 +1590,9 @@ URL=https://uptobox.com/kt105ttrky75
 type=video
 name=The Nutcracker and the Four Realms (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/OphaHihfuXhUGmpNIRIsO3oMgm.jpg
-date=2019-01-19
-URL=https://openload.co/f/TLEbfbcz2t0/The.Nutcracker.And.The.Four.Realms.2018.1080p.BluRay.x264-YIFY.mp4
+date=2019-01-30
+URL=https://openload.co/f/njir-3p-2Ds/The.Nutcracker.and.the.Four.Realms.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/TLEbfbcz2t0/The.Nutcracker.And.The.Four.Realms.2018.1080p.BluRay.x264-YIFY.mp4
 #https://openload.co/f/WlhxZvXvkIA/The.Nutcracker.and.the.Four.Realms.2018.1080p.BluRay_SeeHD.mp4
 #https://openload.co/f/Uc6baCuClP0/The.Nutcracker.And.The.Four.Realms.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/egUuRhHdO1M/The.Nutcracker.And.The.Four.Realms.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
@@ -8712,19 +8716,7 @@ URL=https://openload.co/f/flu_Kj3f7Gs/Spider-Man%3A_Into_the_Spider-Verse_%28201
 
 
 
-type=video
-name=Mortal Engines (2018) ENG 1080p.HC.HDRip.X264-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg
-date=2019-01-24
-URL=https://openload.co/f/U2ErCkQeR3k/Mortal.Engines.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/yt4IB4owQQQ/Mortal_Engines_NEW_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/loctyThrog4/Mortal.Engines.2018.CAM.X264.LLG.mp4
-#https://openload.co/f/jfh2kDhtXNI/Mortal_Engines_2018_720p_HDCAM-1XBET.mp4
-type=video
-name=Mortal Engines (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg
-date=2018-12-11
-URL=https://openload.co/f/I3e9adDqUk8/Mortal_Engines_%282018%29%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%3A_%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
 
 
 type=video
@@ -11719,6 +11711,25 @@ URL=
 
 
 
+
+
+
+type=video
+name=Mortal Engines (2018) ENG 1080p.HC.HDRip.X264-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg
+date=2019-01-24
+URL=https://openload.co/f/U2ErCkQeR3k/Mortal.Engines.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/yt4IB4owQQQ/Mortal_Engines_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/loctyThrog4/Mortal.Engines.2018.CAM.X264.LLG.mp4
+#https://openload.co/f/jfh2kDhtXNI/Mortal_Engines_2018_720p_HDCAM-1XBET.mp4
+type=video
+name=Mortal Engines (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg
+date=2019-01-30
+URL=https://openload.co/f/OXh82Vr9IHQ/Mortal_Engines_%282018%29%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_2018_Thai%28C%29_HD
+#https://openload.co/f/I3e9adDqUk8/Mortal_Engines_%282018%29%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%3A_%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
+
 type=video
 name=Aquaman (2018) ENG 1080p.HC.HDRip.X264-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
@@ -11733,8 +11744,9 @@ URL=https://openload.co/f/HVGdVDe9K7I/Aquaman.2018.1080p.HC.HDRip.X264-EVO_SeeHD
 type=video
 name=Aquaman (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
-date=2019-01-26
-URL=https://openload.co/f/9lhoypZ6XFo/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+date=2019-01-30
+URL=https://openload.co/f/Z-3ybWlyIRU/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_2018_Thai%28C%29_HD
+#https://openload.co/f/9lhoypZ6XFo/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://openload.co/f/J5sEcIGhhSE/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1_V.2%29
 #https://openload.co/f/9ejB1m2RPiw/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
