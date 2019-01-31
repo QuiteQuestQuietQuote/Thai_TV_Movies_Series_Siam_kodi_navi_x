@@ -457,7 +457,11 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rUnZrcSyfwfloeI5aoccztSLS
 date=2019-01-29
 URL=https://openload.co/f/3Dan6RGOxyU/At_Eternitys_Gate.2019.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 
-
+type=video
+name=The Front Runner (2018) ENG DVDRip.XviD.AC3-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QKzd31H1bCjMAJ8HoaASWqbHfY.jpg
+date=2019-01-31
+URL=https://openload.co/f/RvQPhZBeoDE/The.Front.Runner.2019.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 
 
 
@@ -468,7 +472,7 @@ URL=https://openload.co/f/3Dan6RGOxyU/At_Eternitys_Gate.2019.1080p.WEB-DL.H264.A
 type=video
 name=
 thumb=
-date=2019-01-29
+date=2019-01-31
 URL=
 
 
@@ -1378,7 +1382,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-29
+date=2019-01-31
 URL=
 
 
@@ -1387,6 +1391,18 @@ URL=
 
 
 
+type=video
+name=The Midnight Man (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iI4hD5VoKevaSeNz73e69oZHe0b.jpg
+date=2019-01-31
+URL=https://openload.co/f/ZS2skXCCTPY/The.Midnight.Man.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Basement (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-30
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSdwlfxbqRtlpTbsKipoCGBkCIs.jpg
+date=2019-01-31
+URL=https://openload.co/f/0oNBraXA_vA/The.Basement.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/8LV_BSBC-VA/The.Basement.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Suspiria (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73
@@ -8843,10 +8859,11 @@ URL=
 
 
 type=video
-name=Bohemian Rhapsody (2018) ENG 1080p_WEB-DL_X264_DD5.1_SeeHD
+name=Bohemian Rhapsody (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-82
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf7jiy0rDVn1ljUwv3pWKousQ1p.jpg
-date=2019-01-22
-URL=https://openload.co/f/0ia-SsSqcCM/Bohemian_Rhapsody_2018_1080p_WEB-DL_X264_DD5.1_SeeHD.mkv.mp4
+date=2019-01-31
+URL=https://openload.co/f/C7baHJ4xAUw/Bohemian.Rhapsody.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/0ia-SsSqcCM/Bohemian_Rhapsody_2018_1080p_WEB-DL_X264_DD5.1_SeeHD.mkv.mp4
 #https://openload.co/f/_vR4jWU_TJw/Bohemian.Rhapsody.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/AgSRSSOng7Y/Bohemian.Rhapsody.2018.1080p.WEB-DL.MkvCage.ws.mkv.mp4
 #https://openload.co/f/fl5AxRLpbPI/Bohemian.Rhapsody.2018.DVDScr.Xvid.AC3.SHQ.Hive-CM8_SeeHD.avi.mp4
@@ -11715,10 +11732,11 @@ URL=
 
 
 type=video
-name=Mortal Engines (2018) ENG 1080p.HC.HDRip.X264-EVO_SeeHD
+name=Mortal Engines (2018) ENG 1080p.WEB-DL.H264.AC3-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg
-date=2019-01-24
-URL=https://openload.co/f/U2ErCkQeR3k/Mortal.Engines.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
+date=2019-01-31
+URL=https://openload.co/f/zTaHZ4wECTk/Mortal.Engines.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/U2ErCkQeR3k/Mortal.Engines.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/yt4IB4owQQQ/Mortal_Engines_NEW_HDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/loctyThrog4/Mortal.Engines.2018.CAM.X264.LLG.mp4
 #https://openload.co/f/jfh2kDhtXNI/Mortal_Engines_2018_720p_HDCAM-1XBET.mp4
@@ -11773,6 +11791,7 @@ name=The Grinch (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQVj6Z8kPdsbt7XPjVBCltxq90.jpg
 date=2019-01-26
 URL=https://openload.co/f/aENSwDpjb44/the.grinch.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/tlENEAb4JiQ/The.Grinch.2018.1080p.BluRay_SeeHD.mp4
 #https://openload.co/f/4GHZ_NkFY6Q/The.Grinch.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/uIixdtndmrQ/The.Grinch.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/xKmj_Hu8NIk/The.Grinch.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
@@ -11912,10 +11931,12 @@ URL=https://openload.co/f/wgh5x6e0Vp8/Goosebumps_2%3A_Haunted_Halloween_%282018%
 
 
 type=video
-name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG 1080p.HDRip.X264-EVO
+name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG 1080p.HDRip.X264-EVO_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
-date=2019-01-26
-URL=https://openload.co/f/R7-CW5vnbpg/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264-EVO.mkv.mp4
+date=2019-01-31
+URL=https://openload.co/f/zdZm2uoYGvI/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/xRnaeLN8tlQ/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/R7-CW5vnbpg/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264-EVO.mkv.mp4
 #https://openload.co/f/V_RFFjCetEg/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264-EVO.mkv.mp4
 #https://openload.co/f/U2rad3E-104/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264-EVO.mkv   MKV4.1GB
 #https://openload.co/f/VNADQVO4EQQ/Fantastic.Beasts.The.Crimes.of.Grindelwald_2018.1080p.Korsub.Webrip_SeeHD.mkv.mp4

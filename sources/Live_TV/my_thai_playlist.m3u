@@ -2343,6 +2343,8 @@ http://ott-cdn.ucom.am/s44/index.m3u8
 http://1.live1.tvvtvv.com/plus/59live.m3u8?id=live6
 #EXTINF:-1,JAV_SonSee TV_ftvs.php
 http://185.216.119.139:2015/ftvs.php?channelid=55a8b751a960e4dc08d211dd&channeltype=1
+#EXTINF:-1,JAV_SonSee TV_ts
+http://adultlive-faintv.cdn.hinet.net/live_HLS/A080.stream/media-umco7g8r4_3160.ts
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV3_VIP
 http://ibiza-tv.1919hdtv.com:8880/lfh/Stream3/playlist.m3u8
 #EXTINF:-1,Ibiza TV3_streamlock.net
@@ -2526,7 +2528,7 @@ http://persik.by/stream/8682/252987/10003.m3u8
 http://88.151.248.24:9999/udp/224.0.224.178:1234
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00a
 http://185.93.3.83:5014/play/a00a
-#EXTINF:-1,Nuart 
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart_178
 http://178.219.160.167:8080/Nuart/index.m3u8 
 
 
