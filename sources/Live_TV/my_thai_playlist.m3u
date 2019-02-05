@@ -2308,8 +2308,8 @@ http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 
 #EXTINF:-1,BBC 
 http://persik.by/stream/8682/252987/46.m3u8 
-#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_HDsession
-http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/01.m3u8
+#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_HD
+http://210.210.155.35/uq2663/h/h01/index.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
 https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
 #EXTINF:-1,GONG_movie
@@ -2375,6 +2375,8 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://watch.goldtv.ca:25461/live/royyash97@gmail.com/52tuor7XS2/23960.m3u8
 #EXTINF:-1,hitmusic
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1,XITE
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/551035274344402946/ywxl9pq3_400x400.jpeg",100automoto
@@ -2457,8 +2459,8 @@ http://195.88.144.86:8000/play/117
 http://178.219.160.167:8080/Discovery_Science/index.m3u8 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
 http://125.227.210.37:8896/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_HD
-http://210.210.155.35/uq2663/h/h01/index.m3u8
+#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_HDsession
+http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/01.m3u8
 
 
 #EXTINF:-1,redlight
@@ -2486,8 +2488,12 @@ http://178.219.160.167:8080/Russkaya_noch/index.m3u8
 http://185.93.3.83:5014/play/a00d
 #EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",JAV_6_SonSee TV
 http://59.120.242.104:9000/live/live6.m3u8
+#EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",JAV_6_SonSee TV
+http://51.15.49.176:8081/YINJaIZNxYW0uYI4I2QrRdGra8/live6.m3u8
 #EXTINF:-1,JAV_7_pan dora_perfect
 http://59.120.242.104:9000/live/live7.m3u8
+#EXTINF:-1,JAV_7_pan dora_perfect
+http://51.15.49.176:8081/YINJaIZNxYW0uYI4I2QrRdGra8/live7.m3u8
 
 
 #EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",ours hd1_key
@@ -2526,6 +2532,8 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 http://persik.by/stream/8682/252987/10003.m3u8
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp
 http://88.151.248.24:9999/udp/224.0.224.178:1234
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp
+http://79.133.126.132:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00a
 http://185.93.3.83:5014/play/a00a
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart_178

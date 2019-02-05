@@ -154,12 +154,6 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK7IYQdtdWtMDBJZfMqDxgMjXE
 date=2019-01-21
 URL=https://openload.co/f/7c4cSZI6Urk/City.of.Lies.2018.720p.HDCAM.HC.ENG.SUB.x264-1XBET.mp4
 
-type=video
-name=Escape Room (2019) ENG HC_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yZAx7tlKRZIg7pJfaPhl00yHIQ.jpg
-date=2019-01-26
-URL=https://openload.co/f/oj3GNDY1iHA/EscapeRoomHC_SeeHD.mkv.mp4
-#https://openload.co/f/T-lDrtQ7twA/Escape.Room.2019.CAM.XviD-AVID.avi.mp4
 
 
 
@@ -171,13 +165,7 @@ URL=https://openload.co/f/KxGVY0UqoDg/Second_Act_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
 
 
-type=video
-name=How to Train Your Dragon: The Hidden World (2019) ENG 720p_HDCAM_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZPZdFP2qo0cvfNTrUUNRXTW9AB.jpg
-date=2019-01-14
-URL=https://openload.co/f/blBryEIz1OQ/How_To_Train_your_Dragon_3_720p_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/3sPA0DfMdcQ/How_To_Train_your_Dragon_3_720p_HDCAM_SeeHD.mkv   MKV2.2GB
-#https://openload.co/f/iCxH8tOXsp4/How_to_Train_Your_Dragon_3_2019_720p_HDCAM-1XBET.mp4
+
 
 type=video
 name=Holmes & Watson (2018) ENG 720p.HDCAM.1XBET_SeeHD
@@ -8695,6 +8683,35 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+type=video
+name=How to Train Your Dragon: The Hidden World (2019) ENG 720p_HDCAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZPZdFP2qo0cvfNTrUUNRXTW9AB.jpg
+date=2019-01-14
+URL=https://openload.co/f/blBryEIz1OQ/How_To_Train_your_Dragon_3_720p_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/3sPA0DfMdcQ/How_To_Train_your_Dragon_3_720p_HDCAM_SeeHD.mkv   MKV2.2GB
+#https://openload.co/f/iCxH8tOXsp4/How_to_Train_Your_Dragon_3_2019_720p_HDCAM-1XBET.mp4
+type=video
+name=How to Train Your Dragon: The Hidden World (2019) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZPZdFP2qo0cvfNTrUUNRXTW9AB.jpg
+date=2019-02-05
+URL=https://openload.co/f/VXRA2kFu2fM/How_to_Train_Your_Dragon%3A_The_Hidden_World_%282019%29%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%A7%E0%B8%81%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3_3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=Escape Room (2019) ENG HC_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yZAx7tlKRZIg7pJfaPhl00yHIQ.jpg
+date=2019-01-26
+URL=https://openload.co/f/oj3GNDY1iHA/EscapeRoomHC_SeeHD.mkv.mp4
+#https://openload.co/f/T-lDrtQ7twA/Escape.Room.2019.CAM.XviD-AVID.avi.mp4
+type=video
+name=Escape Room (2019) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yZAx7tlKRZIg7pJfaPhl00yHIQ.jpg
+date=2019-02-05
+URL=https://openload.co/f/7aIeHd60KTM/Escape_Room_%282019%29%E0%B8%81%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87_%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%82%E0%B8%AB%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
 type=video
 name=Glass (2019) ENG v2.720p.HDCAM.X264-1XBET
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG5GS0V15Zpk8zvsww02faNT0QI.jpg
@@ -8858,23 +8875,7 @@ URL=
 
 
 
-type=video
-name=Bohemian Rhapsody (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-82
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf7jiy0rDVn1ljUwv3pWKousQ1p.jpg
-date=2019-01-31
-URL=https://openload.co/f/C7baHJ4xAUw/Bohemian.Rhapsody.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/0ia-SsSqcCM/Bohemian_Rhapsody_2018_1080p_WEB-DL_X264_DD5.1_SeeHD.mkv.mp4
-#https://openload.co/f/_vR4jWU_TJw/Bohemian.Rhapsody.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/AgSRSSOng7Y/Bohemian.Rhapsody.2018.1080p.WEB-DL.MkvCage.ws.mkv.mp4
-#https://openload.co/f/fl5AxRLpbPI/Bohemian.Rhapsody.2018.DVDScr.Xvid.AC3.SHQ.Hive-CM8_SeeHD.avi.mp4
-#https://openload.co/f/Pfl-IRNBq0A/Bohemian.Rhapsody.2018.DVDScr.Xvid.AC3.SHQ.Hive-CM8.avi.mp4
-#https://openload.co/f/mne9LXmE8II/Bohemian_Rhapsody_2018_720p_HD-TS_X264-Arahant_SeeHD.mkv.mp4
-#https://openload.co/f/QCRboGzcoRY/Bohemian_Rhapsody_2018_720p_HDCAM-1XBET_SeeHD.mp4
-type=video
-name=Bohemian Rhapsody (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf7jiy0rDVn1ljUwv3pWKousQ1p.jpg
-date=2019-01-29
-URL=https://openload.co/f/ivHduz51bIM/Bohemian_Rhapsody_%282018%29%E0%B9%82%E0%B8%9A%E0%B8%AE%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%99_%E0%B9%81%E0%B8%A3%E0%B8%9B%E0%B9%82%E0%B8%8B%E0%B8%94%E0%B8%B5_%28Google_Translate%29
+
 
 
 type=video
@@ -11817,8 +11818,9 @@ URL=https://openload.co/f/3qHHW9r4UL0/Dragon.Ball.Broly.2019.720p.HDTC_SeeHD.mkv
 type=video
 name=Dragon Ball Super: Broly (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f03YksE4NggUjG75toz4H1YAGRf.jpg
-date=2019-01-23
-URL=https://openload.co/f/U2v4sf3MdgI/Dragon_Ball_Super%3A_Broly_%282018%29%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A5_%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%3A_%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%A5%E0%B8%B5%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+date=2019-02-05
+URL=https://openload.co/f/j8K6L8dSxMU/Dragon_Ball_Super%3A_Broly_%282018%29%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A5_%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%3A_%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%A5%E0%B8%B5%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/U2v4sf3MdgI/Dragon_Ball_Super%3A_Broly_%282018%29%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A5_%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%3A_%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%A5%E0%B8%B5%E0%B9%88_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 #https://openload.co/f/3rk3bimwTRI/Dragon_Ball_Super%3A_Broly_%282018%29%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A5_%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%A5%E0%B8%B5%E0%B9%88_2019_Thai%28C%29_HD
 
 
@@ -11956,31 +11958,7 @@ URL=https://openload.co/f/oj3kxxzijvc/Fantastic_Beasts%3A_The_Crimes_of_Grindelw
 #https://openload.co/f/FjqJHOdzwNI/Fantastic_Beasts%3A_The_Crimes_of_Grindelwald_%282018%29%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%3A_%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%94%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=Hunter Killer (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
-date=2019-01-29
-URL=https://openload.co/f/khZmkUZQ5Xg/Hunter.Killer.2018.1080p.BluRay.10bit.HEVC.6CH.MkvCage.ws.mkv.mp4
-#https://uptobox.com/l6xdgwrlr9on
-#https://fruithosts.net/embed/rpramlmcbfrlarna/GHPHUNTERKILLER80_Ganol_si_mkv
-#https://openload.pw/embed/x2YCOzz2GjM/GHPHUNTERKILLER80.Ganol.si.mkv
-#https://openload.co/f/8ozTX_2yiCU/Hunter_Killer_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
-#https://openload.co/f/55nduQEo8PA/Hunter.Killer.2018.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/xgkataQ1yok/Hunter.Killer.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/5QJijZk7f-4/Hunter.Killer.2018.Proper.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/pAgaO7g-0E0/Hunter_Killer.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/TXo0rwp8Axw/Hunter_Killer.2018.HC.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/I9_ENs0lU-A/Hunter.Killer.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
-#https://openload.co/f/Vr_CK7ocuNw/Hunter.Killer.2018.CAM.XViD-T3RR0R.SQU4D.mp4
-#https://openload.co/f/WH4Ch_m3VuA/Hunter_Killer_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/tyPWaIr0L6I/Hunter_Killer_%282018%29HDCAM_XViD_AC3-ETRG.Ganool.mkv.mp4
-#https://openload.co/f/cxzuS6C8BUI/Hunter.Killer.2018.HDCAM.XviD-AVID.avi.mp4
-type=video
-name=Hunter Killer (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
-date=2018-12-18
-URL=https://openload.co/f/6cxOsPYo_pg/Hunter_Killer_%282018%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/Nrdk2YpYEwk/Hunter_Killer_%282018%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 
@@ -11998,36 +11976,7 @@ date=2018-12-05
 URL=https://openload.co/f/vPOr6tOit7M/Shadow_%282018%29%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%84%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%87%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29.mp4
 
 
-type=video
-name=Halloween (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXs0zkv2iGVViZEy78teg2ycDBm.jpg
-date=2019-01-05
-URL=https://uptobox.com/6xu4ghg973d7
-#https://fruithosts.net/embed/fboptlnmqqnppdme/GHPHALLOWEEN80_Ganol_si_mkv_mp4
-#https://oload.fun/embed/S8k8mqTHb0o/GHPHALLOWEEN80.Ganol.si.mkv.mp4
-#https://openload.co/f/p09HMjpk1MM/Halloween_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
-#https://openload.co/f/1vqgiPrlgQ4/Halloween.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/foXM3cvSblI/Halloween.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/sG5xX_B1_R4/Halloween.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/P3yR1b2UybQ/halloween.2018.1080p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/5_w8oCmYoBM/halloween.2018.1080p.bluray.x264-sparks.mkv   MKV7.7GB
-#https://openload.co/f/G0Yp4YQ-e9I/Halloween.2018.720p.BRRip.x264.MkvCage.mkv.mp4
-#https://openload.co/f/h2NVi4I-_rk/Halloween_2018_1080pHD_SeeHD.mkv.mp4
-#https://openload.co/f/lgsB-GaJvkU/Halloween.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/Higxs4-SxSw/Halloween.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/4jsB35O1sGg/Halloween.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/mg8ks0kjq0s/Halloween.2018.HDRip.XviD.AC3.LLG.mp4
-#https://openload.co/f/CxuEuCNcimM/Halloween.2018.HC.1080p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/4YzDS_eeJSo/Halloween.2018.HC.1080p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/dpCxDuf-SmI/Halloween_2018_HC_1080p_HDRip_X264_AC3-EVO.mp4
-#https://openload.co/f/ixJajUSxXgY/Halloween_2018_720p_HDCAM_ENG-1XBET_SeeHD.mp4
-#https://openload.co/f/0oGS72PoxZk/Halloween.2018.720p.HDCAM.ENG-1XBET.mp4
-type=video
-name=Halloween (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNkDYKmrVem1J0aAfCnQlJOCKnT.jpg
-date=2018-12-05
-URL=https://openload.co/f/MBR3BW1kV0U/Halloween_%282018%29%E0%B8%AE%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/zYob6IKdLuo/Halloween_%282018%29%E0%B8%AE%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
@@ -12502,6 +12451,86 @@ URL=
 
 
 
+type=video
+name=Bohemian Rhapsody (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-82
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf7jiy0rDVn1ljUwv3pWKousQ1p.jpg
+date=2019-01-31
+URL=https://openload.co/f/C7baHJ4xAUw/Bohemian.Rhapsody.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/0ia-SsSqcCM/Bohemian_Rhapsody_2018_1080p_WEB-DL_X264_DD5.1_SeeHD.mkv.mp4
+#https://openload.co/f/_vR4jWU_TJw/Bohemian.Rhapsody.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/AgSRSSOng7Y/Bohemian.Rhapsody.2018.1080p.WEB-DL.MkvCage.ws.mkv.mp4
+#https://openload.co/f/fl5AxRLpbPI/Bohemian.Rhapsody.2018.DVDScr.Xvid.AC3.SHQ.Hive-CM8_SeeHD.avi.mp4
+#https://openload.co/f/Pfl-IRNBq0A/Bohemian.Rhapsody.2018.DVDScr.Xvid.AC3.SHQ.Hive-CM8.avi.mp4
+#https://openload.co/f/mne9LXmE8II/Bohemian_Rhapsody_2018_720p_HD-TS_X264-Arahant_SeeHD.mkv.mp4
+#https://openload.co/f/QCRboGzcoRY/Bohemian_Rhapsody_2018_720p_HDCAM-1XBET_SeeHD.mp4
+type=video
+name=Bohemian Rhapsody (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf7jiy0rDVn1ljUwv3pWKousQ1p.jpg
+date=2019-02-05
+URL=https://openload.co/f/59EluPAbphk/Bohemian_Rhapsody_%282018%29%E0%B9%82%E0%B8%9A%E0%B8%AE%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%99_%E0%B9%81%E0%B8%A3%E0%B8%9B%E0%B9%82%E0%B8%8B%E0%B8%94%E0%B8%B5.mp4
+#https://openload.co/f/ivHduz51bIM/Bohemian_Rhapsody_%282018%29%E0%B9%82%E0%B8%9A%E0%B8%AE%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%99_%E0%B9%81%E0%B8%A3%E0%B8%9B%E0%B9%82%E0%B8%8B%E0%B8%94%E0%B8%B5_%28Google_Translate%29
+
+
+type=video
+name=Halloween (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXs0zkv2iGVViZEy78teg2ycDBm.jpg
+date=2019-01-05
+URL=https://uptobox.com/6xu4ghg973d7
+#https://fruithosts.net/embed/fboptlnmqqnppdme/GHPHALLOWEEN80_Ganol_si_mkv_mp4
+#https://oload.fun/embed/S8k8mqTHb0o/GHPHALLOWEEN80.Ganol.si.mkv.mp4
+#https://openload.co/f/p09HMjpk1MM/Halloween_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
+#https://openload.co/f/1vqgiPrlgQ4/Halloween.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/foXM3cvSblI/Halloween.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/sG5xX_B1_R4/Halloween.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/P3yR1b2UybQ/halloween.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/5_w8oCmYoBM/halloween.2018.1080p.bluray.x264-sparks.mkv   MKV7.7GB
+#https://openload.co/f/G0Yp4YQ-e9I/Halloween.2018.720p.BRRip.x264.MkvCage.mkv.mp4
+#https://openload.co/f/h2NVi4I-_rk/Halloween_2018_1080pHD_SeeHD.mkv.mp4
+#https://openload.co/f/lgsB-GaJvkU/Halloween.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/Higxs4-SxSw/Halloween.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/4jsB35O1sGg/Halloween.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/mg8ks0kjq0s/Halloween.2018.HDRip.XviD.AC3.LLG.mp4
+#https://openload.co/f/CxuEuCNcimM/Halloween.2018.HC.1080p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/4YzDS_eeJSo/Halloween.2018.HC.1080p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/dpCxDuf-SmI/Halloween_2018_HC_1080p_HDRip_X264_AC3-EVO.mp4
+#https://openload.co/f/ixJajUSxXgY/Halloween_2018_720p_HDCAM_ENG-1XBET_SeeHD.mp4
+#https://openload.co/f/0oGS72PoxZk/Halloween.2018.720p.HDCAM.ENG-1XBET.mp4
+type=video
+name=Halloween (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNkDYKmrVem1J0aAfCnQlJOCKnT.jpg
+date=2019-02-05
+URL=https://openload.co/f/wZtYmwYRmkY/Halloween_%282018%29%E0%B8%AE%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%99.mp4
+#https://streamango.com/f/tfrrlrmbmaqapcds/Halloween_2018_mp4
+#https://openload.co/f/MBR3BW1kV0U/Halloween_%282018%29%E0%B8%AE%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/zYob6IKdLuo/Halloween_%282018%29%E0%B8%AE%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=Hunter Killer (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
+date=2019-01-29
+URL=https://openload.co/f/khZmkUZQ5Xg/Hunter.Killer.2018.1080p.BluRay.10bit.HEVC.6CH.MkvCage.ws.mkv.mp4
+#https://uptobox.com/l6xdgwrlr9on
+#https://fruithosts.net/embed/rpramlmcbfrlarna/GHPHUNTERKILLER80_Ganol_si_mkv
+#https://openload.pw/embed/x2YCOzz2GjM/GHPHUNTERKILLER80.Ganol.si.mkv
+#https://openload.co/f/8ozTX_2yiCU/Hunter_Killer_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/55nduQEo8PA/Hunter.Killer.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/xgkataQ1yok/Hunter.Killer.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/5QJijZk7f-4/Hunter.Killer.2018.Proper.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/pAgaO7g-0E0/Hunter_Killer.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/TXo0rwp8Axw/Hunter_Killer.2018.HC.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/I9_ENs0lU-A/Hunter.Killer.2018.CAM.XViD-T3RR0R_SQU4D_SeeHD.avi.mp4
+#https://openload.co/f/Vr_CK7ocuNw/Hunter.Killer.2018.CAM.XViD-T3RR0R.SQU4D.mp4
+#https://openload.co/f/WH4Ch_m3VuA/Hunter_Killer_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/tyPWaIr0L6I/Hunter_Killer_%282018%29HDCAM_XViD_AC3-ETRG.Ganool.mkv.mp4
+#https://openload.co/f/cxzuS6C8BUI/Hunter.Killer.2018.HDCAM.XviD-AVID.avi.mp4
+type=video
+name=Hunter Killer (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
+date=2019-02-05
+URL=https://openload.co/f/Y2CqPmRldeM/Hunter_Killer_%282018%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2.mp4
+#https://openload.co/f/6cxOsPYo_pg/Hunter_Killer_%282018%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/Nrdk2YpYEwk/Hunter_Killer_%282018%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
