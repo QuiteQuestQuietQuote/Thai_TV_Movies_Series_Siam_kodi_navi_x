@@ -113,7 +113,7 @@ URL=https://drive.google.com/file/d/1XrgTIY3JpLoKGreu5If6pxs6mDiN28Ur/view
 type=video
 name=
 thumb=
-date=2019-01-29
+date=2019-02-10
 URL=
 
 
@@ -121,6 +121,25 @@ URL=
 
 
 
+
+type=video
+name=Miss Bala (2019) ENG 720p_HDCAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ae9yrSAS7nLZPbbkOm61pSuIqeo.jpg
+date=2019-02-10
+URL=https://openload.co/f/A2bADMZtLy0/Mis_Bala_2019_720p_HDCAM_SeeHD.mkv.mp4
+
+type=video
+name=Alita: Battle Angel (2019) ENG 720p.HDCAM-1XBET
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg
+date=2019-02-10
+URL=https://openload.co/f/SZy8kOehc0I/Alita.Battle.Angel.2019.720p.HDCAM-1XBET.mp4
+#https://openload.co/f/aVjDq-7Qaqs/Alita_Battle_Angel_2019_HDCAM_XViD_AC3-ETRG.avi.mp4
+
+type=video
+name=Cold Pursuit (2019) ENG 720p.HDCAM.1XBET
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXgmWPd1SuujRZ4QnKLzrj79PAw.jpg
+date=2019-02-10
+URL=https://openload.co/f/fh88kiuqT6A/Cold.Pursuit.2019.720p.HDCAM.1XBET.mp4
 
 type=video
 name=Serenity (2019) ENG 720p_HDCAM-1XBET_SeeHD
@@ -440,11 +459,23 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rUnZrcSyfwfloeI5aoccztSLS
 date=2019-01-29
 URL=https://openload.co/f/3Dan6RGOxyU/At_Eternitys_Gate.2019.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
 
+
+
+
+
 type=video
-name=The Front Runner (2018) ENG DVDRip.XviD.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QKzd31H1bCjMAJ8HoaASWqbHfY.jpg
-date=2019-01-31
-URL=https://openload.co/f/RvQPhZBeoDE/The.Front.Runner.2019.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+name=The Man Who Killed Hitler and Then the Bigfoot (2019) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQNeWBT1VqtSMtgfEn3zFjRogyH.jpg
+date=2019-02-10
+URL=https://openload.co/f/HfzlKtcyn8I/The.Man.Who.Killed.Hitler.and.Then.the.Bigfoot.2019.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+
+type=video
+name=The Final Wish (2019) ENG 1080p.WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lFQPOhOAg1gAQgFsXdfYfXFbI6.jpg
+date=2019-02-10
+URL=https://openload.co/f/H3A0tOPsMGQ/The.Final.Wish.2019.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/U3DOBAojqC0/The.Final.Wish.2019.1080p.WEB-DL.H264.AC3-EVO.mkv   MKV3.3GB
+
 
 
 
@@ -455,7 +486,7 @@ URL=https://openload.co/f/RvQPhZBeoDE/The.Front.Runner.2019.DVDRip.XviD.AC3-EVO_
 type=video
 name=
 thumb=
-date=2019-01-31
+date=2019-02-10
 URL=
 
 
@@ -1365,7 +1396,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-02-06
+date=2019-02-10
 URL=
 
 
@@ -1374,6 +1405,49 @@ URL=
 
 
 
+type=video
+name=Thunder Road (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynljTdiGVUCJJ6THSZi22SBoQAR.jpg
+date=2019-02-10
+URL=https://openload.co/f/PI4yL25Zi2Y/Thunder_Road_%282018%291080p_BluRay_x264-SiNNERS.Ganool.mkv.mp4
+#https://openload.co/f/4bFhRIM0tkI/Thunder.Road.2018.1080p.BluRay.x264-SiNNERS.mkv.mp4
+#https://openload.co/f/vo5KqpJvznQ/Thunder.Road.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Climax (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-74
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssYS0Y8grJtYzFAWZIGg6g8ucRR.jpg
+date=2019-02-10
+URL=https://openload.co/f/ruUaoFkfRRI/Climax_%282018%291080p_BluRay_x264-UTT.Ganool.mkv.mp4
+
+type=video
+name=The Front Runner (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QKzd31H1bCjMAJ8HoaASWqbHfY.jpg
+date=2019-02-10
+URL=https://openload.co/f/Y-C0yqlfxRs/The.Front.Runner.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/N6mOXnzIfv4/The.Front.Runner.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/iH6c92qdgRw/The.Front.Runner.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/wQGFhMMyVl0/The_Front_Runner_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/RvQPhZBeoDE/The.Front.Runner.2019.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+
+type=video
+name=12 Feet Deep (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-52
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ea29OX8Cg8eZm0z7Eg3zJaGba0P.jpg
+date=2019-02-10
+URL=https://openload.co/f/_mP8-KzFXes/12.feet.deep.2017.1080p.bluray.x264-veto.mkv.mp4
+#https://openload.co/f/4OYAtW1P3hQ/12_Feet_Deep_%282017%291080p_BluRay_x264-VETO.Ganool.mkv.mp4
+
+type=video
+name=Bad Match (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-56
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/97ebzLSQzawTKsu15Meu9BQqscp.jpg
+date=2019-02-10
+URL=https://openload.co/f/_3aOZlz04co/Bad_Match_%282017%291080p_BluRay_x264-ALLiANCE.Ganool.mkv.mp4
+#https://openload.co/f/uO2zQ3QB6Mk/Bad.Match.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Dead Trigger (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-15
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7dcEEgoIqOEvy0Syc7va5BCHcf.jpg
+date=2019-02-10
+URL=https://openload.co/f/Yv8ClZTGS90/Dead.Trigger.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=1985 (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-53
@@ -1386,6 +1460,7 @@ name=Project Gutenberg (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-53
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hM7PkXjn4Xr4t8laIsW40NRZtZo.jpg
 date=2019-02-06
 URL=https://openload.co/f/_KbRO72xIeA/Project.Gutenberg.2018.CHINESE.1080p.BluRay.H264.AAC-HDMovie8.mkv.mp4
+#https://openload.co/f/2taksV29lko/Project.Gutenberg.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Dave Made a Maze (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
@@ -7683,6 +7758,7 @@ URL=https://www.blazefile.co/embed-p6kq5itrhm5j.html
 #https://openload.co/f/GAIxmfU5Tm0/high.society.2017.720p.bluray.x264-pussyfoot.mkv.mp4
 #https://openload.co/f/K2s5qUyhn-g/high.society.2017.720p.bluray.x264-pussyfoot.mkv.mp4
 
+
 type=video
 name=Moomins and the Winter Wonderland (2017) [COLOR=FF00FF00]FIN BR 720p[/COLOR]
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhsg8cVVtOdyeNs9u8E3xhaSMik.jpg
@@ -8813,18 +8889,7 @@ URL=https://openload.co/f/d6K_cM2GBfM/Ralph_Breaks_the_Internet_%282018%29%E0%B8
 
 
 
-type=video
-name=Overlord (2018) ENG 1080p_WEB-DL_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l76Rgp32z2UxjULApxGXAPpYdAP.jpg
-date=2019-02-06
-URL=https://openload.co/f/HruL0-C2ag8/Overlord_1080p_WEB-DL_SeeHD.mkv.mp4
-#https://openload.co/f/yjzsysnh8Rg/overlord720pHDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/N6wSGezQFf8/Overlord_2018_HDCAM_x264.mkv.mp4
-type=video
-name=Overlord (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l76Rgp32z2UxjULApxGXAPpYdAP.jpg
-date=2018-11-12
-URL=https://openload.co/f/y56p0f0Dy8g/Overlord_%282018%29%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 
@@ -8882,7 +8947,7 @@ URL=https://openload.co/f/y56p0f0Dy8g/Overlord_%282018%29%E0%B8%9B%E0%B8%8F%E0%B
 type=video
 name=
 thumb=
-date=2019-01-26
+date=2019-02-10
 URL=
 
 
@@ -8895,7 +8960,11 @@ URL=
 
 
 
-
+type=video
+name=High Society (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vV155KEc9nZWuzp5jsjaUZwMAsU.jpg
+date=2019-02-10
+URL=https://openload.co/f/9KzkrcrDmtw/High_Society_%282018%29%E0%B8%95%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 type=video
 name=The Quake (2018) THSUB
@@ -9201,6 +9270,12 @@ URL=https://openload.co/f/A67HNBSrRQA/Mowgli%3A_Legend_of_the_Jungle_%282018%29%
 
 
 type=video
+name=The Guilty (2018) [COLOR=FF00FF00]DAN BR 1080p[/COLOR] | TMDB-75
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/42QPG6p7oLcLd4LQOPeSTLhqfMx.jpg
+date=2019-02-10
+URL=https://openload.co/f/cJUhg1GNzto/the.guilty.2018.1080p.bluray.x264-cinefile.mkv.mp4
+#https://openload.co/f/bkraINX-oeM/The_Guilty_%282018%291080p_BluRay_x264-CiNEFiLE.Ganool.mkv.mp4
+type=video
 name=The Guilty (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/42QPG6p7oLcLd4LQOPeSTLhqfMx.jpg
 date=2018-12-07
@@ -9442,10 +9517,11 @@ URL=https://openload.co/f/GRagHYfO_U8/Constantine%3A_City_of_Demons_The_Movie_%2
 
 
 type=video
-name=Gun City (2018) ESP 720p.WEB-DL.Film2Movie_US
+name=Gun City (2018) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] | TMDB-64
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4NHhkMHXROCiPMb8gjmRI6AMX4I.jpg
-date=2018-11-04
-URL=https://openload.co/f/bao0bSfvsSg/Gun.City.2018.720p.WEB-DL.Film2Movie_US.mkv.mp4
+date=2019-02-10
+URL=https://openload.co/f/yyN8hQWZWIY/Gun_City_%282018%291080p_BluRay_x264-USURY.Ganool.mkv.mp4
+#https://openload.co/f/bao0bSfvsSg/Gun.City.2018.720p.WEB-DL.Film2Movie_US.mkv.mp4
 type=video
 name=Gun City (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4NHhkMHXROCiPMb8gjmRI6AMX4I.jpg
@@ -10991,8 +11067,9 @@ URL=https://openload.co/f/qww1xNynrlA/the.cloverfield.paradox.2018.repack.1080p.
 type=video
 name=The Cloverfield Paradox (2018) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJe4s2h9hac0Fu3pQVV4OuWe8kU.jpg
-date=2018-02-06
-URL=https://streamango.com/f/mmfosbssclnneqbr/The_Cloverfield_Paradox_2018_
+date=2018-02-10
+URL=https://openload.co/f/87_L-S8pEVg/The_Cloverfield_Paradox_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%82%E0%B8%84%E0%B8%A5%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9F%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B9%8C_%E0%B8%9E%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%94%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%8B%E0%B9%8C_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+#https://streamango.com/f/mmfosbssclnneqbr/The_Cloverfield_Paradox_2018_
 
 
 type=video
@@ -11796,10 +11873,12 @@ URL=https://openload.co/f/Z-3ybWlyIRU/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8
 
 
 type=video
-name=Robin Hood (2018) ENG 1080p.AMZN.WEB-DL.x264.MkvCage.ws
+name=Robin Hood (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg
-date=2019-02-06
-URL=https://openload.co/f/yAd9WLv9q-g/Robin.Hood.2018.1080p.AMZN.WEB-DL.x264.MkvCage.ws.mkv.mp4
+date=2019-02-10
+URL=https://openload.co/f/qBONSxDChMQ/Robin_Hood_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+#https://openload.co/f/l-SDrQKMM1c/Robin.Hood.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/yAd9WLv9q-g/Robin.Hood.2018.1080p.AMZN.WEB-DL.x264.MkvCage.ws.mkv.mp4
 #https://openload.co/f/-d-gAw2t8dk/Robin_Hood_2018_WEB-DL_SeeHD.mkv.mp4
 #https://openload.co/f/ZAuXpZ2zvWo/Robin.Hood.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
 #https://openload.co/f/ZLA1sbu0P0Y/Robin.Hood.2018.NEW.720p.HDCAM_SeeHD.mkv.mp4
@@ -12473,6 +12552,26 @@ URL=
 
 
 
+
+type=video
+name=Overlord (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l76Rgp32z2UxjULApxGXAPpYdAP.jpg
+date=2019-02-10
+URL=https://openload.co/f/IRvJapGU3Vk/overlord.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/3ae8r7ISKuI/Overlord_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/cFiRelDwFns/Overlord.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/QnigRx8k-KE/Overlord.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
+#https://openload.co/f/HruL0-C2ag8/Overlord_1080p_WEB-DL_SeeHD.mkv.mp4
+#https://openload.co/f/yjzsysnh8Rg/overlord720pHDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/N6wSGezQFf8/Overlord_2018_HDCAM_x264.mkv.mp4
+type=video
+name=Overlord (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l76Rgp32z2UxjULApxGXAPpYdAP.jpg
+date=2019-02-10
+URL=https://openload.co/f/BjUURau7vZc/Overlord_%282018%29%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94.mp4
+#https://openload.co/f/y56p0f0Dy8g/Overlord_%282018%29%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
 type=video
 name=Nobody's Fool (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VTHRTwLlnFDlNUxc8MEeFwCQTm.jpg
@@ -12484,8 +12583,9 @@ URL=https://openload.co/f/j28MT_QlOjI/Nobodys.Fool.2018.1080p.BluRay.H264.AAC-RA
 type=video
 name=Nobody's Fool (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VTHRTwLlnFDlNUxc8MEeFwCQTm.jpg
-date=2019-02-06
-URL=https://openload.co/f/vzCq6YbAf5I/Nobody%27s_Fool_%282018%29Nobody%E2%80%99s_Fool.mp4
+date=2019-02-10
+URL=https://openload.co/f/hMVUYvKYG_o/Nobody%27s_Fool_%282018%29%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%8B%E0%B9%88%E0%B8%B2_%E0%B9%81%E0%B8%AA%E0%B8%9A%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%88%E0%B8%B3%E0%B8%81%E0%B8%B1%E0%B8%94.mp4
+#https://openload.co/f/vzCq6YbAf5I/Nobody%27s_Fool_%282018%29Nobody%E2%80%99s_Fool.mp4
 
 
 type=video
@@ -12504,8 +12604,9 @@ URL=https://uptobox.com/qlrpw5n58dvi
 type=video
 name=Hell Fest (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tjyPwIqeYzho7fHWqBKIn2gyWg.jpg
-date=2019-02-06
-URL=https://openload.co/f/Q1BwTLOZ8aY/Hell_Fest_%282018%29%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+date=2019-02-10
+URL=https://openload.co/f/hsktyNqQL6Y/Hell_Fest_%282018%29%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+#https://openload.co/f/Q1BwTLOZ8aY/Hell_Fest_%282018%29%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
 #https://openload.co/f/NzNS1jlT1t4/Hell_Fest_%282018%29%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
@@ -12518,8 +12619,9 @@ URL=https://openload.co/f/D5pTAQsvDCU/Golden.Job.2018.CHINESE.1080p.BluRay.H264.
 type=video
 name=Golden Job (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcntxq7gOg96fe56FJf9s3Bvv96.jpg
-date=2019-02-06
-URL=https://openload.co/f/RYfX1o_TOn4/Golden_Job_%282018%29%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%9F%E0%B8%B1%E0%B8%94%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87.mp4
+date=2019-02-10
+URL=https://openload.co/f/wLvE08yDGiU/Golden_Job_%282018%29%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%9F%E0%B8%B1%E0%B8%94%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87.mp4
+#https://openload.co/f/RYfX1o_TOn4/Golden_Job_%282018%29%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%9F%E0%B8%B1%E0%B8%94%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87.mp4
 
 
 type=video
@@ -12553,8 +12655,9 @@ URL=https://openload.co/f/dKvH_5zU0gE/Bohemian.Rhapsody.2018.1080p.BR_SeeHD.mp4
 type=video
 name=Bohemian Rhapsody (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf7jiy0rDVn1ljUwv3pWKousQ1p.jpg
-date=2019-02-05
-URL=https://openload.co/f/59EluPAbphk/Bohemian_Rhapsody_%282018%29%E0%B9%82%E0%B8%9A%E0%B8%AE%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%99_%E0%B9%81%E0%B8%A3%E0%B8%9B%E0%B9%82%E0%B8%8B%E0%B8%94%E0%B8%B5.mp4
+date=2019-02-10
+URL=https://openload.co/f/-mL51I6wSbM/Bohemian_Rhapsody_%282018%29%E0%B9%82%E0%B8%9A%E0%B8%AE%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%99_%E0%B9%81%E0%B8%A3%E0%B8%9B%E0%B9%82%E0%B8%8B%E0%B8%94%E0%B8%B5.mp4
+#https://openload.co/f/59EluPAbphk/Bohemian_Rhapsody_%282018%29%E0%B9%82%E0%B8%9A%E0%B8%AE%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%99_%E0%B9%81%E0%B8%A3%E0%B8%9B%E0%B9%82%E0%B8%8B%E0%B8%94%E0%B8%B5.mp4
 #https://openload.co/f/ivHduz51bIM/Bohemian_Rhapsody_%282018%29%E0%B9%82%E0%B8%9A%E0%B8%AE%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%99_%E0%B9%81%E0%B8%A3%E0%B8%9B%E0%B9%82%E0%B8%8B%E0%B8%94%E0%B8%B5_%28Google_Translate%29
 
 
@@ -13035,8 +13138,15 @@ URL=
 type=video
 name=
 thumb=
-date=2019-02-06
+date=2019-02-10
 URL=
+
+
+
+
+
+
+
 
 
 
@@ -13044,10 +13154,16 @@ URL=
 
 
 type=video
-name=
-thumb=
-date=2019-02-06
-URL=
+name=Wolf (1994) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/46vYy53pidrxXznVT05Z3r5jgjP.jpg
+date=2019-02-10
+URL=https://openload.co/f/Ptzo_uqUHz8/Wolf.1994.PROPER.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Pet Sematary (1989) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zUax4pjRgoPIJla9CQejqNJofB.jpg
+date=2019-02-10
+URL=https://openload.co/f/PNdJSHu2R-0/Pet.Sematary.1989.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Hell or High Water (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73

@@ -188,8 +188,9 @@ URL=https://uptobox.com/rmrabzwmsfp1
 type=video
 name=How to Talk to Girls at Parties (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O3C5ubC7dd1im89ISb6aGUR2AA.jpg
-date=2018-12-25
-URL=https://openload.co/f/UrV-C3yzH1c/How_to_Talk_to_Girls_at_Parties_%282018%29%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+date=2019-02-10
+URL=https://openload.co/f/pOM4i2d9Y2o/How_to_Talk_to_Girls_at_Parties_%282018%29%E0%B8%AE%E0%B8%B2%E0%B8%A7_%E0%B8%97%E0%B8%B9_%E0%B8%97%E0%B8%AD%E0%B8%A5%E0%B9%8C%E0%B8%84_%E0%B8%97%E0%B8%B9_%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%AA%E0%B9%8C_%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B5%E0%B9%89.mp4
+#https://openload.co/f/UrV-C3yzH1c/How_to_Talk_to_Girls_at_Parties_%282018%29%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 
 
 type=video
@@ -850,6 +851,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BnqBHFGDv3WlCPB2qQwzAWdy7
 date=2018-11-02
 URL=https://uptobox.com/dmzr8u1t3zm0
 #https://www.rapidvideo.com/e/FWU6T1ERZU
+#https://openload.co/f/uzupY1PIBS0/Along.with.the.Gods.The.Last.49.Days.2017.1080p_BluRay_x264-WiKi.Ganool.mkv.mp4
 #https://openload.co/embed/MLpwFSxO5po/Along.with.the.Gods.The.Last.49.Days.2017.BluRay.1080p.5.1CH.x264.Ganol.st.mkv
 #https://openload.co/f/Q11iMzwB7F8/Along.with.the.Gods.The.Last.49.Days.2017.1080p_BluRay_x264-WiKi.Ganool.mkv.mp4
 #https://openload.co/f/xzTM53Ul5Ds/Along.with.the.Gods_The.Last.49.Days.2017.1080p.FHDRip.H264.AAC-HDMovie8.mp4
