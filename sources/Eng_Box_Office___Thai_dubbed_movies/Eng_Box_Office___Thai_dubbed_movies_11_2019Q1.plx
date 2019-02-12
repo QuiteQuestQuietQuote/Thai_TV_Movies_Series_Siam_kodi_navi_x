@@ -290,17 +290,6 @@ URL=https://openload.co/f/oQUlEXJw-KI/Loophole.2019.1080p.AMZN.WEBRip.DDP2.0.x26
 
 
 
-type=video
-name=Replicas (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUG8gxJTcXXdDrbdlmDAIJMFghO.jpg
-date=2019-01-26
-URL=https://openload.co/f/YzO-RZOv9vM/Replicas.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/YecaAWESCGg/Replicas.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/6wTfS25t1z0/Replicas.2018.WEB-DL.1080P.X264.AAC.CHS_SeeHD.mp4
-#https://openload.co/f/BrizeTT58VE/Replicas.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/hAjtPqsFoDQ/Replicas.2018.HDCAM.NEWSOURCE.x264-PHOENiX.mkv.mp4
-#https://openload.co/f/_lHIqerPKeY/Replicas_2018_720p_HDCAM_ENG-1XBET_SeeHD.mp4
-#https://openload.co/f/ouVmWbgJ1lM/Replicas_2018_720p_HDCAM_ENG-1XBET.mp4
 
 
 
@@ -1523,16 +1512,7 @@ date=2019-01-29
 URL=https://openload.co/f/RdcRSLCNoyU/End.of.the.World.2018.1080p.BluRay.H264.AAC-RARBG.mp4.mp4
 #https://openload.co/f/NMvnihycF14/End.of.the.World.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Widows (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f27RTnWEc2bhVtfSlKmxxypznfR.jpg
-date=2019-01-26
-URL=https://openload.co/f/VnntzwMSKt8/Widows.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/LaylBzgCarY/Widows.2018.1080p.BluRay.10bit.HEVC.6CH.MkvCage.ws.mkv.mp4
-#https://openload.co/f/Tk4fC2uZP5U/Widows.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/BYZCOEWIjYU/Widows.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/jcd1x4QjjVA/Widows.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/egukV81Gjwo/Widows_2018_720p_HDCAM_SeeHD.mkv.mp4
+
 
 type=video
 name=The Vanishing (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-53
@@ -8786,6 +8766,11 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 #http://113.177.63.140:4022/rtp/232.84.1.115:10236
 #http://183.88.212.205:8010/play/a02z
 
+type=video
+name=
+thumb=
+date=2018-08-09
+URL=
 
 
 
@@ -8794,6 +8779,14 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 
 
 
+
+
+
+type=video
+name=The Knight of Shadows: Between Yin and Yang (2019) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZTJq3ZfRFZhhf6wR2bV8aH1NdV.jpg
+date=2019-02-12
+URL=https://openload.co/f/UAZZNAOPguE/The_Knight_of_Shadows%3A_Between_Yin_and_Yang_%282019%29%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AB%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B8%AB%E0%B8%A2%E0%B8%B2%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -8894,44 +8887,11 @@ URL=https://openload.co/f/d6K_cM2GBfM/Ralph_Breaks_the_Internet_%282018%29%E0%B8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+type=video
+name=
+thumb=
+date=2019-02-12
+URL=
 
 
 
@@ -8945,19 +8905,15 @@ URL=https://openload.co/f/d6K_cM2GBfM/Ralph_Breaks_the_Internet_%282018%29%E0%B8
 
 
 type=video
-name=
-thumb=
-date=2019-02-10
+name=High Flying Bird (2019) ENG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccE21xixa1zhkGtWDr4n8ReOp40.jpg
+date=2019-02-12
 URL=
-
-
-
-
-
-
-
-
-
+type=video
+name=High Flying Bird (2019) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccE21xixa1zhkGtWDr4n8ReOp40.jpg
+date=2019-02-12
+URL=https://openload.co/f/gfVZu6aGNzY/High_Flying_Bird_%282019%29%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%9E%E0%B8%94%E0%B8%B2%E0%B8%99%E0%B8%9F%E0%B9%89%E0%B8%B2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -11822,7 +11778,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-21
+date=2019-02-12
 URL=
 
 
@@ -11832,6 +11788,30 @@ URL=
 
 
 
+
+type=video
+name=Replicas (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUG8gxJTcXXdDrbdlmDAIJMFghO.jpg
+date=2019-01-26
+URL=https://openload.co/f/YzO-RZOv9vM/Replicas.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/YecaAWESCGg/Replicas.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/6wTfS25t1z0/Replicas.2018.WEB-DL.1080P.X264.AAC.CHS_SeeHD.mp4
+#https://openload.co/f/BrizeTT58VE/Replicas.2018.1080p.HC.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/hAjtPqsFoDQ/Replicas.2018.HDCAM.NEWSOURCE.x264-PHOENiX.mkv.mp4
+#https://openload.co/f/_lHIqerPKeY/Replicas_2018_720p_HDCAM_ENG-1XBET_SeeHD.mp4
+#https://openload.co/f/ouVmWbgJ1lM/Replicas_2018_720p_HDCAM_ENG-1XBET.mp4
+type=video
+name=Replicas (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUG8gxJTcXXdDrbdlmDAIJMFghO.jpg
+date=2019-02-12
+URL=https://openload.co/f/Dx_vhjtAHq4/Replicas_%282018%29%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%8A%E0%B8%B0%E0%B8%95%E0%B8%B2_%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
+type=video
+name=Master Z: Ip Man Legacy (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Hy0qn054TBkapuCutQKeebaGJE.jpg
+date=2019-02-12
+URL=https://openload.co/f/weccbUc9wLE/Master_Z%3A_Ip_Man_Legacy_%282018%29%E0%B8%A2%E0%B8%B4%E0%B8%9B%E0%B8%A1%E0%B8%B1%E0%B8%99%3A_%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C_Z_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
 type=video
@@ -12550,7 +12530,21 @@ URL=
 
 
 
-
+type=video
+name=Widows (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f27RTnWEc2bhVtfSlKmxxypznfR.jpg
+date=2019-01-26
+URL=https://openload.co/f/VnntzwMSKt8/Widows.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/LaylBzgCarY/Widows.2018.1080p.BluRay.10bit.HEVC.6CH.MkvCage.ws.mkv.mp4
+#https://openload.co/f/Tk4fC2uZP5U/Widows.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/BYZCOEWIjYU/Widows.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/jcd1x4QjjVA/Widows.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/egukV81Gjwo/Widows_2018_720p_HDCAM_SeeHD.mkv.mp4
+type=video
+name=Widows (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f27RTnWEc2bhVtfSlKmxxypznfR.jpg
+date=2019-02-12
+URL=https://openload.co/f/x0SzwKBR2XE/Widows_%282018%29%E0%B8%AB%E0%B8%A1%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B9%89.mp4
 
 
 type=video

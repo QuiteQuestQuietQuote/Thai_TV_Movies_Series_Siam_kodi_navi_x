@@ -2457,30 +2457,15 @@ http://195.88.144.86:8000/play/101
 http://195.88.144.86:8000/play/117 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI 
 http://178.219.160.167:8080/Discovery_Science/index.m3u8 
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI 
+http://4f9cc916.ottv.info/iptv/G4FZPPQUWQ68DR/136/index.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
 http://125.227.210.37:8896/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_HDsession
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/01.m3u8
 
 
-#EXTINF:-1,redlight
-http://185.93.3.83:5014/play/a002
-#EXTINF:-1,pinko
-http://185.93.3.83:5014/play/a007
-#EXTINF:-1,penthouse
-http://185.93.3.83:5014/play/a00f
-#EXTINF:-1,penthouse2
-http://185.93.3.83:5014/play/a00e
-#EXTINF:-1,dorcel-hd
-https://unicast.bbxnet.sk/live/dorcel-hd/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://bgtop100.net/wp-content/uploads/2017/10/Private-tv.png",Private_HD
-http://ed68815c.iptvspy.ru/iptv/KLF5WG86AQZ653/243/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.ionitcom.ru/wp-content/uploads/2016/07/russ_night.jpg" group-title="Adult IPTV",Russian Night
-http://persik.by/stream/8682/252987/296.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/07/Varmint-TV.png" group-title="Adult IPTV",Varmint TV 2
-http://ed68815c.iptvspy.ru/iptv/KLF5WG86AQZ653/922/index.m3u8
-#EXTINF:-1,Russkaya_noch 
-http://178.219.160.167:8080/Russkaya_noch/index.m3u8
+
 
 
 
@@ -2488,6 +2473,8 @@ http://178.219.160.167:8080/Russkaya_noch/index.m3u8
 http://185.93.3.83:5014/play/a00d
 #EXTINF:-1,honey)
 http://122.38.74.172:9981/stream/channelid/1463854277
+#EXTINF:-1,VIKI
+http://116.45.184.224:9981/stream/channelid/337044103?ticket=EFFC15CF470CE1FE437C7294EC49FD766AB73659&profile=pass
 #EXTINF:-1,rtmp
 rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 #EXTINF:-1,SonSee TV4
@@ -2543,9 +2530,10 @@ http://185.93.3.83:5014/play/a00a
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart_178
 http://178.219.160.167:8080/Nuart/index.m3u8 
 
-
-
-
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
+http://185.93.3.83:5010/play/a00d
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
+http://188.93.238.40:8000/play/a00d
 
 #EXTINF:-1,Shot tv
 http://91.90.253.66:8080/CH236_std/index.m3u8
@@ -2587,7 +2575,16 @@ http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
 
-
+#EXTINF:-1,BBC World News 
+http://164.40.161.46:8001/play/s3 
+#EXTINF:-1,TELENOVELA CHANNEL 
+http://164.40.161.46:8003/play/s6 
+#EXTINF:-1,CNN HD 
+http://164.40.161.46:8000/play/s2 
+#EXTINF:-1,France 24 HD (in English) 
+http://164.40.161.46:8002/play/s5 
+#EXTINF:-1,Euronews English HD 
+http://164.40.161.46:8002/play/s4
 
 
 
