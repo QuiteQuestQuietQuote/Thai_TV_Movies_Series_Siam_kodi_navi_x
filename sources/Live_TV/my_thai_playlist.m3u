@@ -2530,10 +2530,7 @@ http://185.93.3.83:5014/play/a00a
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart_178
 http://178.219.160.167:8080/Nuart/index.m3u8 
 
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
-http://185.93.3.83:5010/play/a00d
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
-http://188.93.238.40:8000/play/a00d
+
 
 #EXTINF:-1,Shot tv
 http://91.90.253.66:8080/CH236_std/index.m3u8
@@ -2542,6 +2539,14 @@ http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 #EXTINF:-1,JAP_cs19
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=156632922
 
+#EXTINF:-1,BBC World News 
+http://164.40.161.46:8001/play/s3 
+#EXTINF:-1,CNN HD 
+http://164.40.161.46:8000/play/s2 
+#EXTINF:-1,France 24 HD (in English) 
+http://164.40.161.46:8002/play/s5 
+#EXTINF:-1,Euronews English HD 
+http://164.40.161.46:8002/play/s4
 
 #EXTINF:-1,a taste of china24/7_CHN
 http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
@@ -2575,16 +2580,7 @@ http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
 
-#EXTINF:-1,BBC World News 
-http://164.40.161.46:8001/play/s3 
-#EXTINF:-1,TELENOVELA CHANNEL 
-http://164.40.161.46:8003/play/s6 
-#EXTINF:-1,CNN HD 
-http://164.40.161.46:8000/play/s2 
-#EXTINF:-1,France 24 HD (in English) 
-http://164.40.161.46:8002/play/s5 
-#EXTINF:-1,Euronews English HD 
-http://164.40.161.46:8002/play/s4
+
 
 
 

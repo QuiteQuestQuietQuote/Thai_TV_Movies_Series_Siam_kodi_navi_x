@@ -69,6 +69,100 @@ thumb=
 
 
 
+type=video
+name=35xxxxxxxxxxxxxxxxxxxxAdult Goods Instruction Manual (2018) [NC] 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Adult-Goods-Instruction-Manual-2018-NC.jpg
+date=2019-02-13
+URL=https://streamcherry.com/embed/fnfcfrktsdnpbnnd/
+
+type=video
+name=Miss His Super Dick (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Miss-His-Super-Dick-2017.jpg
+date=2019-02-13
+URL=https://streamcherry.com/embed/llncabbbtbtaapdf/
+
+type=video
+name=Konoyohaotokotoonna (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Konoyohaotokotoonna-2016.jpg
+date=2019-02-13
+URL=https://streamcherry.com/embed/tskofnsefqaltptq/
+
+type=video
+name=Big Ass Subordinate (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Big-Ass-Subordinate-2017.jpg
+date=2019-02-13
+URL=https://streamcherry.com/embed/todmbdfsaradkqck/
+
+type=video
+name=Naked theatrical company lurking desire (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Naked-theatrical-company-lurking-desire-2017.jpg
+date=2019-02-13
+URL=https://streamcherry.com/embed/frbmbltrslbmslla/
+
+
+type=video
+name=Sae Eolin Eomma (2018) [NC] 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Sae-Eolin-Eomma-2018-NC.jpg
+date=2019-02-13
+URL=https://streamcherry.com/embed/sfltckkammddnlkk/
+
+type=video
+name=Stepmother Is University Student (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Stepmother-Is-University-Student-2017.jpg
+date=2019-02-13
+URL=https://streamcherry.com/embed/falcdkmbckfomfqq/
+
+type=video
+name=Sanglyusidae (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Sanglyusidae-2018.jpg
+date=2019-02-13
+URL=https://streamcherry.com/embed/adspqbapcfrkptfp/
+
+type=video
+name=Yujin no Hahaoya Kawakami Yu (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Yujin-no-Hahaoya-Kawakami-Yu-2017.jpg
+date=2019-02-13
+URL=https://streamcherry.com/embed/deenfqerlpposbss/
+
+type=video
+name=Two Mothers (2018) [De] 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Two-Mothers-2018-De.jpg
+date=2019-02-13
+URL=https://streamcherry.com/embed/rseccebloaloalcr/
+
+
+type=video
+name=My Cousin Sisters (2018) [De] 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/My-Cousin-Sisters-2018-De.jpg
+date=2019-02-13
+URL=https://streamcherry.com/embed/btdnpmrnekorddff/
+
+type=video
+name=Enka women disorder love story scenery (2107) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Enka-women-disorder-love-story-scenery-2107.jpg
+date=2019-02-13
+URL=https://streamcherry.com/embed/fennopqcokesqrsn/
+
+type=video
+name=My Students Mother 3 (2018) [Uncut] 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/01/My-Students-Mother-3-2018-Uncut.jpg
+date=2019-02-13
+URL=https://streamcherry.com/embed/fpmdpkbaqnlfpomk/
+
+type=video
+name=Mas Issneun Nunadeul (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/01/Mas-Issneun-Nunadeul-2018.jpg
+date=2019-02-13
+URL=https://streamcherry.com/embed/rnqpopmleosfaknd/
+
+type=video
+name=Chaghan Yeojachingu (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/01/Chaghan-Yeojachingu-2018.jpg
+date=2019-02-13
+URL=https://streamcherry.com/embed/lnfbrstrrabfdndo/
+
+
+
 
 
 
