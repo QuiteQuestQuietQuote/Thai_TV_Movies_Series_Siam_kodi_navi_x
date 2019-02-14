@@ -2463,7 +2463,8 @@ http://4f9cc916.ottv.info/iptv/G4FZPPQUWQ68DR/136/index.m3u8
 http://125.227.210.37:8896/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_HDsession
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/01.m3u8
-
+#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
+http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 
 
 
@@ -2493,6 +2494,8 @@ http://172.104.114.178/vod/live/2/live.m3u8?key=dnnl6bua32k8qape7he35831p3&fbcli
 http://172.104.114.178/vod/live/3/live.m3u8?key=dnnl6bua32k8qape7he35831p3&fbclid=IwAR0jjlja-9NqKl9FcVhMdl300hClr1cLwkA-inQw8HaayWJYahys-fY5bp0
 #EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",ours hd4_key
 http://172.104.114.178/vod/live/4/live.m3u8?key=dnnl6bua32k8qape7he35831p3&fbclid=IwAR1vmqLpGtH-rwwd4UTZPzeHfHyB17Lx-yf_N77KWjX9E8EO1DLrIJb7zL8
+
+
 
 
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV4_VIP
