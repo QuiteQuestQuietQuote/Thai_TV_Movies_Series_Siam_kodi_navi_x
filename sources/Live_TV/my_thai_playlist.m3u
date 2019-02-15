@@ -2467,7 +2467,10 @@ http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 
 
-
+#EXTINF:-72,Da Vinci Learning 
+http://84.21.203.13:3714/bysid/30 
+#EXTINF:-72,Da Vinci Learning 
+http://84.21.203.13:7140 
 
 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
@@ -2476,6 +2479,8 @@ http://185.93.3.83:5014/play/a00d
 http://122.38.74.172:9981/stream/channelid/1463854277
 #EXTINF:-1,VIKI
 http://116.45.184.224:9981/stream/channelid/337044103?ticket=EFFC15CF470CE1FE437C7294EC49FD766AB73659&profile=pass
+#EXTINF:-1,playboy_kor
+http://122.38.74.172:9981/stream/channelid/966306501
 #EXTINF:-1,rtmp
 rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 #EXTINF:-1,SonSee TV4
@@ -2497,7 +2502,8 @@ http://172.104.114.178/vod/live/4/live.m3u8?key=dnnl6bua32k8qape7he35831p3&fbcli
 
 
 
-
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV_inter
+https://nbstream2.issenet.org:441/ibiza1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV4_VIP
 http://ibiza-tv.1919hdtv.com:8880/lfh/Stream4/p1ay1ist.m3u8
 #EXTINF:-1,Ibiza TV2_streamlock.net
