@@ -2466,11 +2466,30 @@ http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 
+#EXTINF:-1,DISCOVERY HD (VIP)
+http://80.80.160.168/live/8/live.m3u8?sd=10&rebase=on
+#EXTINF:-1,SCI HD (VIP)
+http://80.80.160.168/live/9/live.m3u8?sd=10&rebase=on
+#EXTINF:-1,FISHING NETWORK
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 
-#EXTINF:-72,Da Vinci Learning 
-http://84.21.203.13:3714/bysid/30 
-#EXTINF:-72,Da Vinci Learning 
-http://84.21.203.13:7140 
+#EXTINF:-1,PL - Da Vinci Learning
+http://kstv.xyz:8080/FAMILY/FAMILY/26861
+#EXTINF:-1,PL - BBC Earth HD
+http://kstv.xyz:8080/FAMILY/FAMILY/26882
+#EXTINF:-1,Pl | Bbc Earth
+http://red-vip.com:8080/cafer20/cafer20/12304
+#EXTINF:-1,Da Vinci Learning 
+http://46.50.247.102:4022/udp/239.54.5.95:1234
+#EXTINF:-1,Da Vinci Learning 
+http://46.241.33.155:81/udp/239.54.5.95:1234
+#EXTINF:-1,Da Vinci Learning
+http://46.241.34.6:81/udp/239.54.5.95:1234
+#EXTINF:-1,Da Vinci Learning 
+http://91.207.224.252:54642/udp/239.192.2.57:2121 
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE
+http://93.107.96.60:9981/stream/channelid/1739645325
+
 
 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
@@ -2485,6 +2504,8 @@ http://122.38.74.172:9981/stream/channelid/966306501
 rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 #EXTINF:-1,SonSee TV4
 http://pili-live-hls.xiandantv.com/xdtv-live/ztxw.m3u8
+#EXTINF:-1,SonSee TV_php
+http://185.216.119.139:2015/ftvs.php?channelid=55a8b751a960e4dc08d211dd&channeltype=1
 #EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",JAV_6_SonSee TV
 http://59.120.242.104:9000/live/live6.m3u8
 #EXTINF:-1,JAV_7_pan dora_perfect
@@ -2504,6 +2525,8 @@ http://172.104.114.178/vod/live/4/live.m3u8?key=dnnl6bua32k8qape7he35831p3&fbcli
 
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV_inter
 https://nbstream2.issenet.org:441/ibiza1/playlist.m3u8
+#EXTINF:-1,Ibiza TV4_streamlock.net
+http://5a2a51fc4cfde.streamlock.net:1935/lfh/_definst_/Stream4/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV4_VIP
 http://ibiza-tv.1919hdtv.com:8880/lfh/Stream4/p1ay1ist.m3u8
 #EXTINF:-1,Ibiza TV2_streamlock.net
@@ -2548,10 +2571,7 @@ http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 #EXTINF:-1,JAP_cs19
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=156632922
 
-#EXTINF:-1,BBC World News 
-http://164.40.161.46:8001/play/s3 
-#EXTINF:-1,CNN HD 
-http://164.40.161.46:8000/play/s2 
+
 #EXTINF:-1,France 24 HD (in English) 
 http://164.40.161.46:8002/play/s5 
 #EXTINF:-1,Euronews English HD 
