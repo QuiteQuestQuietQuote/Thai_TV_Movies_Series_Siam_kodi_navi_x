@@ -2466,6 +2466,9 @@ http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 
+#EXTINF:-1,cinema world
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
+
 #EXTINF:-1,DISCOVERY HD (VIP)
 http://80.80.160.168/live/8/live.m3u8?sd=10&rebase=on
 #EXTINF:-1,SCI HD (VIP)
@@ -2562,6 +2565,8 @@ http://185.93.3.83:5014/play/a00a
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart_178
 http://178.219.160.167:8080/Nuart/index.m3u8 
 
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00a
+http://91.109.113.38:8000/play/a00a
 
 
 #EXTINF:-1,Shot tv
