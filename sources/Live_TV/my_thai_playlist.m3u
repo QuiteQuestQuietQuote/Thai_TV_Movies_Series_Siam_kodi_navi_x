@@ -2363,6 +2363,8 @@ https://www.djing.com/tv/hits.m3u8
 https://www.djing.com/tv/live.m3u8
 #EXTINF:-1  tvg-logo="http://3.bp.blogspot.com/-5Wbwt_uIAu0/TyhcHDsR3hI/AAAAAAAAEAc/B30c1R_Rd44/s1600/Music+Choice+logo+2012.jpg",music-choice
 http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
+#EXTINF:-1  tvg-logo="http://3.bp.blogspot.com/-5Wbwt_uIAu0/TyhcHDsR3hI/AAAAAAAAEAc/B30c1R_Rd44/s1600/Music+Choice+logo+2012.jpg",music-choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png",hit_tv
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 #EXTINF:-1,latin_music
@@ -2476,23 +2478,24 @@ http://80.80.160.168/live/9/live.m3u8?sd=10&rebase=on
 #EXTINF:-1,FISHING NETWORK
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 
-#EXTINF:-1,PL - Da Vinci Learning
-http://kstv.xyz:8080/FAMILY/FAMILY/26861
-#EXTINF:-1,PL - BBC Earth HD
-http://kstv.xyz:8080/FAMILY/FAMILY/26882
-#EXTINF:-1,Pl | Bbc Earth
-http://red-vip.com:8080/cafer20/cafer20/12304
-#EXTINF:-1,Da Vinci Learning 
-http://46.50.247.102:4022/udp/239.54.5.95:1234
-#EXTINF:-1,Da Vinci Learning 
-http://46.241.33.155:81/udp/239.54.5.95:1234
-#EXTINF:-1,Da Vinci Learning
-http://46.241.34.6:81/udp/239.54.5.95:1234
-#EXTINF:-1,Da Vinci Learning 
-http://91.207.224.252:54642/udp/239.192.2.57:2121 
-#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NET GEO PEOPLE
-http://93.107.96.60:9981/stream/channelid/1739645325
 
+
+
+
+
+
+#EXTINF:-1,HOUSE
+http://122.38.74.172:9981/stream/channelid/1086640851 
+#EXTINF:-1,MIDNIGHT
+http://122.38.74.172:9981/stream/channelid/339312133 
+#EXTINF:-1,PLAYOY
+http://122.38.74.172:9981/stream/channelid/966306501 
+#EXTINF:-1,VIKI
+http://122.38.74.172:9981/stream/channelid/798964177 
+#EXTINF:-1,honey
+http://122.38.74.172:9981/stream/channelid/1463854277 
+#EXTINF:-1,Desike
+http://122.38.74.172:9981/stream/channelid/816085039 
 
 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
@@ -2502,9 +2505,11 @@ http://122.38.74.172:9981/stream/channelid/1463854277
 #EXTINF:-1,VIKI
 http://116.45.184.224:9981/stream/channelid/337044103?ticket=EFFC15CF470CE1FE437C7294EC49FD766AB73659&profile=pass
 #EXTINF:-1,playboy_kor
-http://122.38.74.172:9981/stream/channelid/966306501
+http://122.38.74.172:9981/stream/channelid/966306501.m3u8
 #EXTINF:-1,rtmp
 rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
+#EXTINF:-1,rtmp
+rtmp://dv2.tp33.net/sat/hk041 
 #EXTINF:-1,SonSee TV4
 http://pili-live-hls.xiandantv.com/xdtv-live/ztxw.m3u8
 #EXTINF:-1,SonSee TV_php
