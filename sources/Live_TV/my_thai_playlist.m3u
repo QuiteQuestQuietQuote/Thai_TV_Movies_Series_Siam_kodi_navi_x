@@ -2547,6 +2547,8 @@ https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream1/playlist.m3u8
 http://ibiza-tv.1919hdtv.com:8880/lfh/Stream1/playlist.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg",ftv_midnite_secrets...
+https://dev.ftv.com/m3u8/PKNI_UHD_SWIMWEAR_S18E01/media/5/newChunk_chunklist__2160@10mbit_HJUS.m3u8
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg",ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagescdn2.swigit.com/LiveChannels/Logo/a3bikini" group-title="Adult IPTV",A3 Bikini
@@ -2569,9 +2571,12 @@ http://79.133.126.132:999/udp/239.191.254.250:15285
 http://185.93.3.83:5014/play/a00a
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart_178
 http://178.219.160.167:8080/Nuart/index.m3u8 
-
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00a
-http://91.109.113.38:8000/play/a00a
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_TS
+http://tvproxy52.gorod.tv/hls/711/k5q547zi.ts
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_TS
+http://tvproxy52.gorod.tv/hls/711/k2pip5qd.ts
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart
+http://46.32.68.167/s/live/711/86.169.51.136/0/0.m3u8
 
 
 #EXTINF:-1,Shot tv
