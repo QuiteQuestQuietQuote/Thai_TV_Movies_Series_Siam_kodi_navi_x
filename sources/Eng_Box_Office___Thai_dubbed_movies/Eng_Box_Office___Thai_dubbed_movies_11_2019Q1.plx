@@ -274,12 +274,7 @@ URL=https://openload.co/f/ouoVl6mfbZw/Creed_2_2018_1080p_WEB-DL_X264_AC3_SeeHD.m
 #https://openload.co/f/Pe7RekX0Ptw/Creed_2_2018_720p_HDCAM-1XBET.mp4
 #https://openload.co/f/PvwTrKyUmTI/Creed_2_2018_HDCAM_X264-UNiQUE_SeeHD.mkv   MKV1.9GB
 
-type=video
-name=The Possession of Hannah Grace (2018) ENG DVDRip.XviD.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDDb0H0uJp2wjoJBbBHbKlYRbug.jpg
-date=2019-02-14
-URL=https://openload.co/f/3axGLwH9PWI/The_Possession_of_Hannah_Grace.2019.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/8STRsbaq3Eo/The_Possession_of_Hannah_Grace_2018_720p_HDCAM-1XBET_SeeHD.mp4
+
 
 type=video
 name=Loophole (2019) ENG 1080p.AMZN.WEBRip.DDP2.0.x264-NTG
@@ -1502,15 +1497,7 @@ URL=https://openload.co/f/dME0TpQfNcg/climax.2018.limited.1080p.bluray.x264-cada
 #https://openload.co/f/bNxrxdfPs-A/climax.2018.limited.1080p.bluray.x264-cadaver.mkv   MKV7.7GB
 #https://openload.co/f/ruUaoFkfRRI/Climax_%282018%291080p_BluRay_x264-UTT.Ganool.mkv.mp4
 
-type=video
-name=The Front Runner (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QKzd31H1bCjMAJ8HoaASWqbHfY.jpg
-date=2019-02-10
-URL=https://openload.co/f/Y-C0yqlfxRs/The.Front.Runner.2018.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/N6mOXnzIfv4/The.Front.Runner.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/iH6c92qdgRw/The.Front.Runner.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/wQGFhMMyVl0/The_Front_Runner_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
-#https://openload.co/f/RvQPhZBeoDE/The.Front.Runner.2019.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+
 
 type=video
 name=12 Feet Deep (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-52
@@ -7945,12 +7932,6 @@ date=2018-04-14
 URL=https://openload.co/f/QHSU90nO-rU/All.At.Once.2016.BluRay.720p.DTS.x264-MTeam.mkv.mp4
 #https://openload.co/f/SM_5BNhM0to/All.At.Once.2016.BluRay.720p.DTS.x264-MTeam.mkv   MKV4.4GB
 
-type=video
-name=Sky Hunter (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l5X7RsdazhDjK8O85LP7b4pgdc.jpg
-date=2018-04-17
-URL=https://openload.co/f/tJ18AUVjSdI/Sky.Hunter.2017.720p.BluRay.x264-WiKi.mkv.mp4
-#https://openload.co/f/xm-1t05_xmo/Sky.Hunter.2017.720p.BRRip.1GB.MkvCage.Com.mkv.mp4
 
 
 
@@ -8915,20 +8896,6 @@ URL=https://openload.co/f/N-xkdwIt0C4/Glass_%282019%29%E0%B8%84%E0%B8%99%E0%B9%8
 #https://openload.co/f/5u4W2aO4vIY/Glass_%282019%29%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C_2019_Thai%28C%29_ZM
 
 
-type=video
-name=Spider-Man: Into the Spider-Verse (2018) ENG HDCAM_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
-date=2019-01-01
-URL=https://openload.co/f/rSXjHTJzFf0/Spiderman_into_the_Spiderberse_HDCAM_SeeHD.mp4
-#https://openload.co/f/v7GjU1HV47Q/Spider-Man_Into_the_Spider-Verse_2018_720p_PROPER_HDCAM-ORCA88_SeeHD.mp4
-#https://openload.co/f/dBsGXFDFLLk/Spider-Man.Into.the.Spider-Verse.2018.HDCAM.x264-CHS.mp4
-#https://openload.co/f/qDwvb4h3Mho/Spider-Man_Into_The_Spider_Versee.2018.CAM.X264-SuperSpy_SeeHD.mkv.mp4
-#https://openload.co/f/Acp3BMFlPyA/Spider-Man.Into.The.Spider.Versee.2018.CAM.X264-SuperSpy.mkv.mp4
-type=video
-name=Spider-Man: Into the Spider-Verse (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
-date=2019-01-14
-URL=https://openload.co/f/flu_Kj3f7Gs/Spider-Man%3A_Into_the_Spider-Verse_%282018%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99%3A_%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 
@@ -8940,20 +8907,8 @@ URL=https://openload.co/f/flu_Kj3f7Gs/Spider-Man%3A_Into_the_Spider-Verse_%28201
 
 
 
-type=video
-name=Ralph Breaks the Internet (2018) ENG 1080p_WEB-DL_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m110vLaDDOCca4hfOcS5mK5cDke.jpg
-date=2019-02-14
-URL=https://openload.co/f/IistN3Hg-W4/Ralph_Breaks_the_Internet_1080p_WEB-DL_SeeHD.mkv.mp4
-#https://openload.co/f/J8ktq-rtxTM/Ralph_Breaks_the_Internet.2018.DVDSCR.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/HYL-k0dAyFE/Ralph_Breaks_the_Internet.2018.DVDSCR.MkvCage.mkv.mp4
-#https://openload.co/f/VKSLAw9hR3c/ralphbreaktheinternetHDCAMV2_SeeHD.mkv.mp4
-#https://openload.co/f/om5EaCqO18o/Ralph_Breaks_the_Internet_ENG_2018_720p_HDCAM-1XBET.mp4
-type=video
-name=Ralph Breaks the Internet (2018) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m110vLaDDOCca4hfOcS5mK5cDke.jpg
-date=2018-12-02
-URL=https://openload.co/f/d6K_cM2GBfM/Ralph_Breaks_the_Internet_%282018%29%E0%B8%A3%E0%B8%B2%E0%B8%A5%E0%B9%8C%E0%B8%9F%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95_%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
 
 
 
@@ -8983,10 +8938,24 @@ URL=
 
 
 
+type=video
+name=The Possession of Hannah Grace (2018) ENG DVDRip.XviD.AC3-EVO_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDDb0H0uJp2wjoJBbBHbKlYRbug.jpg
+date=2019-02-14
+URL=https://openload.co/f/3axGLwH9PWI/The_Possession_of_Hannah_Grace.2019.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/8STRsbaq3Eo/The_Possession_of_Hannah_Grace_2018_720p_HDCAM-1XBET_SeeHD.mp4
+type=video
+name=The Possession of Hannah Grace (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDDb0H0uJp2wjoJBbBHbKlYRbug.jpg
+date=2019-02-23
+URL=https://openload.co/f/4LaH2fFKlcU/The_Possession_of_Hannah_Grace_%282018%29The_Possession_of_Hannah_Grace_%282018%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
-
-
+type=video
+name=The Standoff at Sparrow Creek (2019) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCyDJGQ54vcCclNqa6nLcSqH3DQ.jpg
+date=2019-02-23
+URL=https://openload.co/f/vMG-jHMUqc8/The_Standoff_at_Sparrow_Creek_%282019%29%E0%B9%80%E0%B8%9C%E0%B8%8A%E0%B8%B4%E0%B8%8D%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%B3%E0%B8%A1%E0%B8%AB%E0%B8%B4%E0%B8%95_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -11875,6 +11844,23 @@ URL=
 
 
 type=video
+name=Spider-Man: Into the Spider-Verse (2018) ENG HDCAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
+date=2019-01-01
+URL=https://openload.co/f/rSXjHTJzFf0/Spiderman_into_the_Spiderberse_HDCAM_SeeHD.mp4
+#https://openload.co/f/v7GjU1HV47Q/Spider-Man_Into_the_Spider-Verse_2018_720p_PROPER_HDCAM-ORCA88_SeeHD.mp4
+#https://openload.co/f/dBsGXFDFLLk/Spider-Man.Into.the.Spider-Verse.2018.HDCAM.x264-CHS.mp4
+#https://openload.co/f/qDwvb4h3Mho/Spider-Man_Into_The_Spider_Versee.2018.CAM.X264-SuperSpy_SeeHD.mkv.mp4
+#https://openload.co/f/Acp3BMFlPyA/Spider-Man.Into.The.Spider.Versee.2018.CAM.X264-SuperSpy.mkv.mp4
+type=video
+name=Spider-Man: Into the Spider-Verse (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
+date=2019-02-23
+URL=https://openload.co/f/M2gf9NZFqn4/Spider-Man%3A_Into_the_Spider-Verse_%282018%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99%3A_%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/flu_Kj3f7Gs/Spider-Man%3A_Into_the_Spider-Verse_%282018%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99%3A_%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
 name=Replicas (2018) ENG 1080p.WEB-DL.H264.AC3-EVO
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUG8gxJTcXXdDrbdlmDAIJMFghO.jpg
 date=2019-01-26
@@ -11937,48 +11923,10 @@ URL=https://openload.co/f/Z-3ybWlyIRU/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8
 #https://openload.co/f/9ejB1m2RPiw/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=Robin Hood (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg
-date=2019-02-10
-URL=https://openload.co/f/qBONSxDChMQ/Robin_Hood_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
-#https://openload.co/f/l-SDrQKMM1c/Robin.Hood.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/yAd9WLv9q-g/Robin.Hood.2018.1080p.AMZN.WEB-DL.x264.MkvCage.ws.mkv.mp4
-#https://openload.co/f/-d-gAw2t8dk/Robin_Hood_2018_WEB-DL_SeeHD.mkv.mp4
-#https://openload.co/f/ZAuXpZ2zvWo/Robin.Hood.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/ZLA1sbu0P0Y/Robin.Hood.2018.NEW.720p.HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/TI4dCM2M4UE/Robin.Hood.2018.NEW.720p.HDCAM.mkv.mp4
-#https://openload.co/f/QfQW0tLAnzs/Robin_Hood_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/YbVJ7tkFxd4/Robin_Hood_2018_720p_HDCAM..mp4
-type=video
-name=Robin Hood (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg
-date=2019-01-26
-URL=https://openload.co/f/wTMNl3hnW9U/Robin_Hood_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%AE%E0%B8%B9%E0%B9%89%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/lObXO4Iqg0s/Robin_Hood_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%AE%E0%B8%B9%E0%B9%89%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=The Grinch (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQVj6Z8kPdsbt7XPjVBCltxq90.jpg
-date=2019-01-26
-URL=https://openload.co/f/aENSwDpjb44/the.grinch.2018.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/tlENEAb4JiQ/The.Grinch.2018.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/4GHZ_NkFY6Q/The.Grinch.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/uIixdtndmrQ/The.Grinch.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/xKmj_Hu8NIk/The.Grinch.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/AlZtU8gA2Bw/The.Grinch.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
-#https://openload.co/f/8D7X7fcG5qM/The.Grinch.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
-#https://openload.co/f/Nwp7U8A8Fys/The_Grinch_2018_1080p_WEB-DL_X264_DD5.1_SeeHD.mkv.mp4
-#https://openload.co/f/JabxOTalF3Q/The.Grinch.2018.1080p.WEB-DL.H264-CMRG.mkv.mp4.mp4
-#https://openload.co/f/dydMukHY19Q/The_Grinch_2018_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/1aWfXZqz-Wk/The_Grinch_2018_720p_HDCAM-1XBET.mp4
-type=video
-name=The Grinch (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lK3BZcdmfQWvOSQeJa6Oes79LXB.jpg
-date=2019-01-26
-URL=https://openload.co/f/atYaYbzdkOc/The_Grinch_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B9%8A%E0%B8%99%E0%B8%8A%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/3Dg-BA4Dz-A/The_Grinch_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B9%8A%E0%B8%99%E0%B8%8A%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
 
 
 type=video
@@ -12104,31 +12052,7 @@ URL=https://openload.co/f/wgh5x6e0Vp8/Goosebumps_2%3A_Haunted_Halloween_%282018%
 
 
 
-type=video
-name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG 1080p.HDRip.X264_-_ExYuSubs
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
-date=2019-02-06
-URL=https://openload.co/f/wOxHJz9h-ps/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264_-_ExYuSubs.mp4
-#https://openload.co/f/zdZm2uoYGvI/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/xRnaeLN8tlQ/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/R7-CW5vnbpg/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264-EVO.mkv.mp4
-#https://openload.co/f/V_RFFjCetEg/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264-EVO.mkv.mp4
-#https://openload.co/f/U2rad3E-104/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264-EVO.mkv   MKV4.1GB
-#https://openload.co/f/VNADQVO4EQQ/Fantastic.Beasts.The.Crimes.of.Grindelwald_2018.1080p.Korsub.Webrip_SeeHD.mkv.mp4
-#https://openload.co/f/5WEur57mzKk/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HC.HDRip.MkvCage.ws.mkv.mp4
-#https://openload.co/f/iuHuIdv_D4I/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_720p_HD-TS_SeeHD.mkv.mp4
-#https://openload.co/f/zxQXeYHHfGI/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_720p_HD-TS.mkv.mp4
-#https://openload.co/f/VHRwE1C7oO0/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.NEW.720p.HDCAM.x264-SugarTiTS.mkv.mp4
-#https://openload.co/f/0hy9UKwm1H8/fantastic_beast_2_NEW_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/STtBv3Ur_Og/Fantastic_Beasts_The_Crimes_of_Grindelwal_%282018%29_720p_English_DVDScr_x264_AAC_850MB.mp4
-#https://openload.co/f/vSuSifI7q2Q/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET_SeeHD.mp4
-#https://openload.co/f/YyacPWT0DVs/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET.mp4
-type=video
-name=Fantastic Beasts: The Crimes of Grindelwald (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
-date=2018-12-18
-URL=https://openload.co/f/oj3kxxzijvc/Fantastic_Beasts%3A_The_Crimes_of_Grindelwald_%282018%29%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%3A_%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%94%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/FjqJHOdzwNI/Fantastic_Beasts%3A_The_Crimes_of_Grindelwald_%282018%29%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%3A_%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%94%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 
@@ -12608,7 +12532,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-01-17
+date=2019-02-23
 URL=
 
 
@@ -12617,6 +12541,136 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=Fantastic Beasts: The Crimes of Grindelwald (2018) ENG 1080p.HDRip.X264_-_ExYuSubs
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
+date=2019-02-06
+URL=https://openload.co/f/wOxHJz9h-ps/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264_-_ExYuSubs.mp4
+#https://openload.co/f/zdZm2uoYGvI/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/xRnaeLN8tlQ/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/R7-CW5vnbpg/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264-EVO.mkv.mp4
+#https://openload.co/f/V_RFFjCetEg/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264-EVO.mkv.mp4
+#https://openload.co/f/U2rad3E-104/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HDRip.X264-EVO.mkv   MKV4.1GB
+#https://openload.co/f/VNADQVO4EQQ/Fantastic.Beasts.The.Crimes.of.Grindelwald_2018.1080p.Korsub.Webrip_SeeHD.mkv.mp4
+#https://openload.co/f/5WEur57mzKk/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.1080p.HC.HDRip.MkvCage.ws.mkv.mp4
+#https://openload.co/f/iuHuIdv_D4I/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_720p_HD-TS_SeeHD.mkv.mp4
+#https://openload.co/f/zxQXeYHHfGI/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_720p_HD-TS.mkv.mp4
+#https://openload.co/f/VHRwE1C7oO0/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.NEW.720p.HDCAM.x264-SugarTiTS.mkv.mp4
+#https://openload.co/f/0hy9UKwm1H8/fantastic_beast_2_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/STtBv3Ur_Og/Fantastic_Beasts_The_Crimes_of_Grindelwal_%282018%29_720p_English_DVDScr_x264_AAC_850MB.mp4
+#https://openload.co/f/vSuSifI7q2Q/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET_SeeHD.mp4
+#https://openload.co/f/YyacPWT0DVs/Fantastic_Beasts_The_Crimes_of_Grindelwald_2018_CAM-1XBET.mp4
+type=video
+name=Fantastic Beasts: The Crimes of Grindelwald (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
+date=2019-02-23
+URL=https://openload.co/f/9SJRFDsnZIQ/Fantastic_Beasts%3A_The_Crimes_of_Grindelwald_%282018%29%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%3A_%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%94%E0%B9%8C.mp4
+#https://openload.co/f/oj3kxxzijvc/Fantastic_Beasts%3A_The_Crimes_of_Grindelwald_%282018%29%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%3A_%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%94%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/FjqJHOdzwNI/Fantastic_Beasts%3A_The_Crimes_of_Grindelwald_%282018%29%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%3A_%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%94%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=Robin Hood (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg
+date=2019-02-10
+URL=https://openload.co/f/qBONSxDChMQ/Robin_Hood_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+#https://openload.co/f/l-SDrQKMM1c/Robin.Hood.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/yAd9WLv9q-g/Robin.Hood.2018.1080p.AMZN.WEB-DL.x264.MkvCage.ws.mkv.mp4
+#https://openload.co/f/-d-gAw2t8dk/Robin_Hood_2018_WEB-DL_SeeHD.mkv.mp4
+#https://openload.co/f/ZAuXpZ2zvWo/Robin.Hood.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/ZLA1sbu0P0Y/Robin.Hood.2018.NEW.720p.HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/TI4dCM2M4UE/Robin.Hood.2018.NEW.720p.HDCAM.mkv.mp4
+#https://openload.co/f/QfQW0tLAnzs/Robin_Hood_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/YbVJ7tkFxd4/Robin_Hood_2018_720p_HDCAM..mp4
+type=video
+name=Robin Hood (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg
+date=2019-02-23
+URL=https://openload.co/f/glGrGV5ICgA/Robin_Hood_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%AE%E0%B8%B9%E0%B9%89%E0%B8%94.mp4
+#https://openload.co/f/wTMNl3hnW9U/Robin_Hood_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%AE%E0%B8%B9%E0%B9%89%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/lObXO4Iqg0s/Robin_Hood_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%AE%E0%B8%B9%E0%B9%89%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=Sky Hunter (2017) [COLOR=FF00FF00]CHN BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l5X7RsdazhDjK8O85LP7b4pgdc.jpg
+date=2018-04-17
+URL=https://openload.co/f/tJ18AUVjSdI/Sky.Hunter.2017.720p.BluRay.x264-WiKi.mkv.mp4
+#https://openload.co/f/xm-1t05_xmo/Sky.Hunter.2017.720p.BRRip.1GB.MkvCage.Com.mkv.mp4
+type=video
+name=Sky Hunter (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l5X7RsdazhDjK8O85LP7b4pgdc.jpg
+date=2019-02-23
+URL=https://openload.co/f/xNeU6SmF9dE/Sky_Hunter_%282017%29%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A2_%E0%B8%AE%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%9D%E0%B8%B9%E0%B8%87%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%A8.mp4
+
+
+type=video
+name=Malicious (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ms6V9gUMcw6T6ENgUCU7SL5x7dl.jpg
+date=2019-02-23
+URL=https://openload.co/f/o0JPBYsGjEo/Malicious_%282018%29%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%9B%E0%B8%9C%E0%B8%B8%E0%B8%94_%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94.mp4
+
+
+type=video
+name=Ralph Breaks the Internet (2018) ENG 1080p_WEB-DL_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m110vLaDDOCca4hfOcS5mK5cDke.jpg
+date=2019-02-14
+URL=https://openload.co/f/IistN3Hg-W4/Ralph_Breaks_the_Internet_1080p_WEB-DL_SeeHD.mkv.mp4
+#https://openload.co/f/J8ktq-rtxTM/Ralph_Breaks_the_Internet.2018.DVDSCR.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/HYL-k0dAyFE/Ralph_Breaks_the_Internet.2018.DVDSCR.MkvCage.mkv.mp4
+#https://openload.co/f/VKSLAw9hR3c/ralphbreaktheinternetHDCAMV2_SeeHD.mkv.mp4
+#https://openload.co/f/om5EaCqO18o/Ralph_Breaks_the_Internet_ENG_2018_720p_HDCAM-1XBET.mp4
+type=video
+name=Ralph Breaks the Internet (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m110vLaDDOCca4hfOcS5mK5cDke.jpg
+date=2019-02-23
+URL=https://openload.co/f/gqfwsLog1jw/Ralph_Breaks_the_Internet_%282018%29%E0%B8%A3%E0%B8%B2%E0%B8%A5%E0%B9%8C%E0%B8%9F%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95_%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88_2.mp4
+#https://openload.co/f/d6K_cM2GBfM/Ralph_Breaks_the_Internet_%282018%29%E0%B8%A3%E0%B8%B2%E0%B8%A5%E0%B9%8C%E0%B8%9F%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95_%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=The Grinch (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWQVj6Z8kPdsbt7XPjVBCltxq90.jpg
+date=2019-01-26
+URL=https://openload.co/f/aENSwDpjb44/the.grinch.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/tlENEAb4JiQ/The.Grinch.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/4GHZ_NkFY6Q/The.Grinch.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/uIixdtndmrQ/The.Grinch.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/xKmj_Hu8NIk/The.Grinch.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/AlZtU8gA2Bw/The.Grinch.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
+#https://openload.co/f/8D7X7fcG5qM/The.Grinch.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
+#https://openload.co/f/Nwp7U8A8Fys/The_Grinch_2018_1080p_WEB-DL_X264_DD5.1_SeeHD.mkv.mp4
+#https://openload.co/f/JabxOTalF3Q/The.Grinch.2018.1080p.WEB-DL.H264-CMRG.mkv.mp4.mp4
+#https://openload.co/f/dydMukHY19Q/The_Grinch_2018_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/1aWfXZqz-Wk/The_Grinch_2018_720p_HDCAM-1XBET.mp4
+type=video
+name=The Grinch (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lK3BZcdmfQWvOSQeJa6Oes79LXB.jpg
+date=2019-01-26
+URL=https://openload.co/f/ZvPBRjsHBQ4/The_Grinch_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B9%8A%E0%B8%99%E0%B8%8B%E0%B9%8C.mp4
+#https://openload.co/f/atYaYbzdkOc/The_Grinch_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B9%8A%E0%B8%99%E0%B8%8A%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/3Dg-BA4Dz-A/The_Grinch_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B9%8A%E0%B8%99%E0%B8%8A%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=The Front Runner (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QKzd31H1bCjMAJ8HoaASWqbHfY.jpg
+date=2019-02-10
+URL=https://openload.co/f/Y-C0yqlfxRs/The.Front.Runner.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/N6mOXnzIfv4/The.Front.Runner.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/iH6c92qdgRw/The.Front.Runner.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/wQGFhMMyVl0/The_Front_Runner_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
+#https://openload.co/f/RvQPhZBeoDE/The.Front.Runner.2019.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+type=video
+name=The Front Runner (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QKzd31H1bCjMAJ8HoaASWqbHfY.jpg
+date=2019-02-23
+URL=https://openload.co/f/vThoBYw7yb4/The_Front_Runner_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B8%9F%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B9%8C_%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C.mp4
 
 
 type=video
@@ -13241,7 +13295,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-02-14
+date=2019-02-23
 URL=
 
 
@@ -13249,6 +13303,33 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=The Birds (1963) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-75
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg
+date=2019-02-23
+URL=https://openload.co/f/qLHj3PiXnyU/The.Birds.1963.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Woman in Gold (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-74
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNg0HRIhJyPgKo3NoxD3rfw061O.jpg
+date=2019-02-23
+URL=https://openload.co/f/LgGPm8ZQKqc/Woman.in.Gold.2015.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Maggie (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-53
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFt7Oo3pf8f1BZAdWLyUpYM63aT.jpg
+date=2019-02-23
+URL=https://openload.co/f/Xk2XGsU4sG8/Maggie.2015.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Shack (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/doAzav9kfdtsoSdw1MDFvjKq3J4.jpg
+date=2019-02-23
+URL=https://openload.co/f/fIRh8GvHnos/The.Shack.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Lego Movie (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-74
