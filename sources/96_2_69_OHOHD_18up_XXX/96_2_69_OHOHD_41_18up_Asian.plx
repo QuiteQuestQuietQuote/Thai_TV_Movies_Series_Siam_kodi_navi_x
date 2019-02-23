@@ -46,6 +46,7 @@ URL=
 type=video
 name=
 thumb=
+URL=
 
 
 
@@ -62,6 +63,222 @@ thumb=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=87xxxxxxxxxxxxxxxxxxxxGeunyeowa Ajummaui Dong Geo (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Geunyeowa-Ajummaui-Dong-Geo-2018.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/dntttttscflblale/
+
+type=video
+name=Nae Anaeui Eonni 3 (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Nae-Anaeui-Eonni-3-2018.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/atnsrtkdnkltmqdr/
+
+type=video
+name=Anaeui Eomma2 (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Anaeui-Eomma2-2018.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/ktatbrdoadnknkto/
+
+type=video
+name=Jeolm Eun Mimang In (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Jeolm-Eun-Mimang-In-2018.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/tdkerncaesqftond/
+
+type=video
+name=Chichiga Dekakete (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Chichiga-Dekakete-2017.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/opcrecanlortafkq/
+
+
+type=video
+name=Donggabnaegieomma (2018) [NC]
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Donggabnaegieomma-2018-NC.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/mcnklasbkploebqf/
+
+type=video
+name=Mul Joh Eun Hasugjib 2 (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Mul-Joh-Eun-Hasugjib-2-2018.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/cckboebesktrqnrc/
+
+type=video
+name=Chodaenyeo 2 (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Chodaenyeo-2-2018.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/qprmderdecbntrkr/
+
+type=video
+name=Ikesukanai Shachofujin (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Ikesukanai-Shachofujin-2017.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/nttfqopankelkalo/
+
+type=video
+name=ANATANI AISARETAKUTE (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/ANATANI-AISARETAKUTE-2017.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/kmnkncdcnaprdqdk/
+
+
+type=video
+name=Immortality of garbage dumping ground (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Immortality-of-garbage-dumping-ground-2017.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/aelrckdscldbrmre/
+
+type=video
+name=Hot spring geisha Mitsuko (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Hot-spring-geisha-Mitsuko-2017.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/tlppmambptqplstk/
+
+type=video
+name=Assassin – Erica (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Assassin-Erica-2016.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/tcotecdqktqotsde/
+
+type=video
+name=Ryoujyoku (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Ryoujyoku-2017.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/lblofqpbklnfaaps/
+
+type=video
+name=Chaghan Chingu Anae (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Chaghan-Chingu-Anae-2018.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/odtmrfmcskmrsccb/
+
+
+type=video
+name=NUREOCHITA DOJO (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/NUREOCHITA-DOJO-2017.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/abbfmmroccrnqsbe/
+
+type=video
+name=Eolin Hyeongsu 4 (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Eolin-Hyeongsu-4-2018.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/lpasntkkdnmqkftt/
+
+type=video
+name=Anaeui Mas (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Anaeui-Mas-2018.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/mmnrobepkrlnnnnb/
+
+type=video
+name=Eolin Hyeongsunimdeul (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Eolin-Hyeongsunimdeul-2018.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/tcraptpsfdbcqdor/
+
+type=video
+name=Nae Chinguui Du Eomma (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Nae-Chinguui-Du-Eomma-2018.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/amodkmnsonbalear/
+
+
+
+
+
+
+
+
+type=video
+name=67xxxxxxxxxxxxxxxxxxxxPretty Girl in Ward Office (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Pretty-Girl-in-Ward-Office-2017.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/mdenkqfarnrknfqr/
+
+type=video
+name=Cheojewa Hyeongsudeul (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Cheojewa-Hyeongsudeul-2018.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/ponbbmlcnbetbeqf/
+
+type=video
+name=Shingueomma Geuligo Jeongsa Uc (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Shingueomma-Geuligo-Jeongsa-Uc-2018.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/afaratlcaokspebm/
+
+type=video
+name=Chaghan Eomma2 (2018) NC 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Chaghan-Eomma2-2018-NC.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/prptpodarnsdaqpd/
+
+type=video
+name=Female Careworker for My Dad Is Preferred for Me 6 (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Female-Careworker-for-My-Dad-Is-Preferred-for-Me-6-2017.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/nkdsnobqflrqqcfm/
+
+
+type=video
+name=I Am There for Sister-in-Law (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/I-Am-There-for-Sister-in-Law-2017.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/lfmrtksonfklcepr/
+
+type=video
+name=Eolin Jangmodeul De (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Eolin-Jangmodeul-De-2018.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/pnecdssdemeptfsd/
+
+type=video
+name=Assassin – Maria (2016) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Assassin-Maria-2016.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/nkedldpdftpmeosa/
+
+type=video
+name=Yeogieottae Binbang Issnayo (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Yeogieottae-Binbang-Issnayo-2018.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/adaenerpmcpqprrr/
+
+type=video
+name=Lovely Men’s Beauty Treatment 2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Lovely-Mens-Beauty-Treatment-2-2017.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/ddramotqrdfslfaf/
+
+
+type=video
+name=Pretty And Bad Female Cousin (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Pretty-And-Bad-Female-Cousin-2017.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/femmbqdqefnspcfn/
+
+type=video
+name=Karitai Aniyome (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Karitai-Aniyome-2017.jpg
+date=2019-02-23
+URL=https://streamcherry.com/embed/qbbfcooqmeomkrff/
 
 
 
