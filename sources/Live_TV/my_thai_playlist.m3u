@@ -2459,14 +2459,18 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)?sta
 http://195.88.144.86:8000/play/105
 #EXTINF:-1 group-title="docu" tvg-logo="http://image.free.in.th/v/2013/io/180629043620.jpg",BBC Lifestyle FHD 
 http://195.88.144.86:8000/play/101
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History
+http://190.13.120.113/streams/history.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE FHD 
 http://195.88.144.86:8000/play/117 
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI 
 http://178.219.160.167:8080/Discovery_Science/index.m3u8 
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI 
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI_ottv
 http://4f9cc916.ottv.info/iptv/G4FZPPQUWQ68DR/136/index.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI_id=nonglintvh
+http://80.80.160.168/live/9/live.m3u8?id=nonglintvh
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
 http://125.227.210.37:8896/VideoInput/play.ts
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
@@ -2487,8 +2491,10 @@ http://80.80.160.168/live/9/live.m3u8?sd=10&rebase=on
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 
 
-
-
+#EXTINF:-1,G premier
+http://iptvcrc.es:8080/GiovanniCastilloGranados/6Bi2pc2kLT/1878
+#EXTINF:-1,G plus
+http://iptvcrc.es:8080/GiovanniCastilloGranados/6Bi2pc2kLT/321
 
 
 #EXTINF:-1,HOUSE
@@ -2581,12 +2587,6 @@ http://79.133.126.132:999/udp/239.191.254.250:15285
 http://185.93.3.83:5014/play/a00a
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart_178
 http://178.219.160.167:8080/Nuart/index.m3u8 
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_TS
-http://tvproxy52.gorod.tv/hls/711/k5q547zi.ts
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_TS
-http://tvproxy52.gorod.tv/hls/711/k2pip5qd.ts
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_TS
-http://tvproxy52.gorod.tv/hls/711/k2pip5qd.ts?id=live
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart
 http://46.32.68.167/s/live/711/86.169.51.136/0/0.m3u8
 
