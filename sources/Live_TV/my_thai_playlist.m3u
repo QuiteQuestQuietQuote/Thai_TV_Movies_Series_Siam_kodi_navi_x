@@ -2479,6 +2479,10 @@ http://122.146.68.116:4046/VideoInput/play.ts
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/01.m3u8
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
+#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_udp
+http://212.19.10.215:999/udp/239.191.254.72:13343
+#EXTINF:-1,docuboxhd
+http://streamer-hls.fregat.net/hls/docuboxhd.m3u8
 
 #EXTINF:-1,cinema world
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
@@ -2490,11 +2494,13 @@ http://80.80.160.168/live/9/live.m3u8?sd=10&rebase=on
 #EXTINF:-1,FISHING NETWORK
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 
+#EXTINF:-1,k show
+http://221.151.151.195:9981/stream/channelid/111289760
 
-#EXTINF:-1,G premier
-http://iptvcrc.es:8080/GiovanniCastilloGranados/6Bi2pc2kLT/1878
-#EXTINF:-1,G plus
-http://iptvcrc.es:8080/GiovanniCastilloGranados/6Bi2pc2kLT/321
+
+#EXTINF:-1,Living Foodz HD 
+http://92.30.108.254:8001/play/a00p 
+
 
 
 #EXTINF:-1,HOUSE
@@ -2519,10 +2525,12 @@ http://122.38.74.172:9981/stream/channelid/1463854277
 http://116.45.184.224:9981/stream/channelid/337044103?ticket=EFFC15CF470CE1FE437C7294EC49FD766AB73659&profile=pass
 #EXTINF:-1,playboy_kor
 http://122.38.74.172:9981/stream/channelid/966306501.m3u8
-#EXTINF:-1,rtmp
+#EXTINF:-1,rtmp0
 rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 #EXTINF:-1,rtmp
 rtmp://dv2.tp33.net/sat/hk041 
+#EXTINF:-1,rtmp1
+rtmp://1-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 #EXTINF:-1,SonSee TV4
 http://pili-live-hls.xiandantv.com/xdtv-live/ztxw.m3u8
 #EXTINF:-1,SonSee TV_php
@@ -2561,8 +2569,6 @@ https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream1/playlist.m3u8
 http://ibiza-tv.1919hdtv.com:8880/lfh/Stream1/playlist.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg",ftv_midnite_secrets...
-https://dev.ftv.com/m3u8/PKNI_UHD_SWIMWEAR_S18E01/media/5/newChunk_chunklist__2160@10mbit_HJUS.m3u8
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg",ftv_midnite_secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagescdn2.swigit.com/LiveChannels/Logo/a3bikini" group-title="Adult IPTV",A3 Bikini
@@ -2576,12 +2582,12 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_persik
-http://persik.by/stream/8682/252987/10003.m3u8
-#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp
+http://persik.by/stream/5595/387332/10003.m3u8
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp79.135
 http://79.135.77.75:81/udp/239.195.0.88:1234
-#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp88
 http://88.151.248.24:9999/udp/224.0.224.178:1234
-#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp79.133
 http://79.133.126.132:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00a
 http://185.93.3.83:5014/play/a00a
@@ -2589,6 +2595,7 @@ http://185.93.3.83:5014/play/a00a
 http://178.219.160.167:8080/Nuart/index.m3u8 
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart
 http://46.32.68.167/s/live/711/86.169.51.136/0/0.m3u8
+
 
 
 #EXTINF:-1,Shot tv
@@ -2626,6 +2633,8 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News + info
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_pltv
+http://161.0.157.9/PLTV/88888888/224/3221227005/01.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_hd
 http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_newschat_electric
