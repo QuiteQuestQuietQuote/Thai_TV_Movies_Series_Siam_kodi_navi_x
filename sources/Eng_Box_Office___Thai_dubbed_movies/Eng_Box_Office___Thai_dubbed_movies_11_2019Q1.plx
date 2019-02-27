@@ -475,11 +475,7 @@ URL=https://openload.co/f/H3A0tOPsMGQ/The.Final.Wish.2019.1080p.WEB-DL.H264.AC3-
 
 
 
-type=video
-name=Shoplifters (2018) JAP 1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg
-date=2019-02-14
-URL=https://openload.co/f/FamEoYGwa4A/Shoplifters.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+
 
 type=video
 name=Berlin, I Love You (2019) ENG HDRip.XviD.AC3-EVO_SeeHD
@@ -2307,14 +2303,7 @@ URL=https://uptobox.com/c3gryzilzgiw
 #https://openload.co/f/wwjzVQD9mVA/White.Boy.Rick.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
 #https://openload.co/f/gkdpwns7nyY/White_Boy_Rick_2018_720p_TS-1XBET_SeeHD.mp4
 
-type=video
-name=What Keeps You Alive (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHrNKFoG3XOy5oPygR90TR5nfJt.jpg
-date=2018-12-16
-URL=https://openload.co/f/jg5YqCU0ePI/What.Keeps.You.Alive.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/0mEyN8S7a1o/What.Keeps.You.Alive.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/tKrC0SvR3dM/what.keeps.you.alive.2018.720p.bluray.x264-invandraren.mkv.mp4
-#https://openload.co/f/anddxn22CKA/what.keeps.you.alive.2018.1080p.bluray.x264-invandraren.mkv.mp4
+
 
 type=video
 name=Mandy the Haunted Doll (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-30
@@ -8833,7 +8822,7 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2018-08-09
+date=2019-02-27
 URL=
 
 
@@ -8844,7 +8833,11 @@ URL=
 
 
 
-
+type=video
+name=The Prodigy (2019) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyejodyk3lWncVjVhhrEkPctY9o.jpg
+date=2019-02-27
+URL=https://openload.co/f/ynzSSvbUQyI/The_Prodigy_%282019%29%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81_%28%E0%B8%88%E0%B8%AD%E0%B8%87%29_%E0%B9%80%E0%B8%A7%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 type=video
 name=The Knight of Shadows: Between Yin and Yang (2019) THCAM
@@ -8930,12 +8923,44 @@ URL=https://openload.co/f/N-xkdwIt0C4/Glass_%282019%29%E0%B8%84%E0%B8%99%E0%B9%8
 type=video
 name=
 thumb=
-date=2019-02-12
+date=2019-02-28
 URL=
 
 
 
 
+
+
+
+
+
+type=video
+name=Paris Is Us (2019) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/90XPbJYfJCkZLfp9wQD2m9sNOqS.jpg
+date=2019-02-28
+URL=https://openload.co/f/y6twv3HSrQA/Paris_Is_Us_%282019%29%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=What Keeps You Alive (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHrNKFoG3XOy5oPygR90TR5nfJt.jpg
+date=2018-12-16
+URL=https://openload.co/f/jg5YqCU0ePI/What.Keeps.You.Alive.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/0mEyN8S7a1o/What.Keeps.You.Alive.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/tKrC0SvR3dM/what.keeps.you.alive.2018.720p.bluray.x264-invandraren.mkv.mp4
+#https://openload.co/f/anddxn22CKA/what.keeps.you.alive.2018.1080p.bluray.x264-invandraren.mkv.mp4
+type=video
+name=What Keeps You Alive (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHrNKFoG3XOy5oPygR90TR5nfJt.jpg
+date=2019-02-27
+URL=https://openload.co/f/qpQ5NyKgtfA/What_Keeps_You_Alive_%282018%29%E0%B8%A3%E0%B8%B1%E0%B8%81_%E0%B8%A5%E0%B9%88%E0%B8%AD_%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B8%AD%E0%B8%94_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Paddleton (2019) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtssTSvNgY8132hPRtp1DbciYJ6.jpg
+date=2019-02-28
+URL=https://openload.co/f/89D8pgUT85k/Paddleton_%282019%29%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%95%E0%B8%B1%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -8976,11 +9001,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vV155KEc9nZWuzp5jsjaUZwMAs
 date=2019-02-10
 URL=https://openload.co/f/9KzkrcrDmtw/High_Society_%282018%29%E0%B8%95%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%94%E0%B8%9D%E0%B8%B1%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
-type=video
-name=The Quake (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA5MVaNWe76EjuXn4FqkeaHDPuj.jpg
-date=2019-01-26
-URL=https://openload.co/f/i_zrEaJqgwU/The_Quake_%282018%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
 
 
 type=video
@@ -11840,7 +11861,12 @@ URL=
 
 
 
-
+type=video
+name=The Quake (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA5MVaNWe76EjuXn4FqkeaHDPuj.jpg
+date=2019-02-27
+URL=https://openload.co/f/I1I5P2iASWY/The_Quake_%282018%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/i_zrEaJqgwU/The_Quake_%282018%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -12543,7 +12569,16 @@ URL=
 
 
 
-
+type=video
+name=Shoplifters (2018) JAP 1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg
+date=2019-02-14
+URL=https://openload.co/f/FamEoYGwa4A/Shoplifters.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
+type=video
+name=Shoplifters (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg
+date=2019-02-27
+URL=https://openload.co/f/z1lMx9crQ7o/Shoplifters_%282018%29%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B8%B1%E0%B8%81.mp4
 
 
 type=video

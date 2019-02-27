@@ -2481,6 +2481,11 @@ http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_udp
 http://212.19.10.215:999/udp/239.191.254.72:13343
+
+#EXTINF:-1,DaVinci Learning 
+http://46.37.156.58:4022/udp/224.3.20.6:1234 
+#EXTINF:-1,Da Vinci Learning 
+http://78.107.248.201:4022/udp/233.33.220.187:5050 
 #EXTINF:-1,docuboxhd
 http://streamer-hls.fregat.net/hls/docuboxhd.m3u8
 
