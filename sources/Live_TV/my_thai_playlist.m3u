@@ -2480,8 +2480,10 @@ http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 
-
-
+#EXTINF:-1,DISCOVERY world HD
+http://103.205.133.14/hls/discovery.m3u8
+#EXTINF:-1,TCL
+http://iptvpro.premium-itv.com:8789/Maya/123456/23184
 
 #EXTINF:-1,cinema world
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
@@ -2629,8 +2631,7 @@ http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
 
 
-#EXTINF:-1,natgeopeople_we-play_php
-https://www.we-play.tv/live/channel.php?name=natgeopeople_th
+
 
 
 

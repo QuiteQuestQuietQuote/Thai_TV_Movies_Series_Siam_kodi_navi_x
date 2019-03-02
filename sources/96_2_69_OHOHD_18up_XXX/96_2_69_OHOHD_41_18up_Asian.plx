@@ -70,6 +70,111 @@ URL=
 
 
 
+type=video
+name=104xxxxxxxxxxxxxxxxxxxxDeungsan Ui Chammas (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Deungsan-Ui-Chammas-2018.jpg
+date=2019-03-02
+URL=https://streamcherry.com/embed/aqerafelpsqpased/
+
+type=video
+name=Chitsunai-shasei Dekiru Tachibana Yuka (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Chitsunai-shasei-Dekiru-Tachibana-Yuka-2017.jpg
+date=2019-03-02
+URL=https://streamcherry.com/embed/oqccrdfbfltepltm/
+
+type=video
+name=Lust of the father-in-law (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Lust-of-the-father-in-law-2017.jpg
+date=2019-03-02
+URL=https://streamcherry.com/embed/ntlkftaeompkskso/
+
+type=video
+name=Jeongsa Anaeui Chingu (2018) [NC] 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Jeongsa-Anaeui-Chingu-2018-NC.jpg
+date=2019-03-02
+URL=https://streamcherry.com/embed/fqdmnobfrnrbacnn/
+
+type=video
+name=Kinshin-aniyome-sokan (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Kinshin-aniyome-sokan-2017.jpg
+date=2019-03-02
+URL=https://streamcherry.com/embed/olqqplopdbserfkc/
+
+
+type=video
+name=Yeojig Wondeul Jigjang Yeon Aesa 2 (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Yeojig-Wondeul-Jigjang-Yeon-Aesa-2-2018.jpg
+date=2019-03-02
+URL=https://streamcherry.com/embed/tmrkebckqeabnsmd/
+
+type=video
+name=Gaeingyosu Seongjeog Olligi (2018) [UC]
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Gaeingyosu-Seongjeog-Olligi-2018-UC.jpg
+date=2019-03-02
+URL=https://streamcherry.com/embed/lnomeqtrbtptpqpe/
+
+type=video
+name=Nolaebang Hwakkeunhan Seobiseu (2018) [NC]
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Nolaebang-Hwakkeunhan-Seobiseu-2018-NC.jpg
+date=2019-03-02
+URL=https://streamcherry.com/embed/cfrkmsfcstoolkoo/
+
+type=video
+name=Jeolm Eun Eomma Chingu (2018) [NC] 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Jeolm-Eun-Eomma-Chingu-2018-NC.jpg
+date=2019-03-02
+URL=https://streamcherry.com/embed/sopoqlrdltqffbcq/
+
+type=video
+name=Jeolm Eun Hyeongsunimdeul (2018) [DE] 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Jeolm-Eun-Hyeongsunimdeul-2018-DE.jpg
+date=2019-03-02
+URL=https://streamcherry.com/embed/dacpraemsocbtqlb/
+
+
+type=video
+name=Naughty Breast-Push-Up Beauty Salon (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Naughty-Breast-Push-Up-Beauty-Salon-2018.jpg
+date=2019-03-02
+URL=https://streamcherry.com/embed/nkbkoeasfsebcpkn/
+
+type=video
+name=Ikkaikiri no Hazuga (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Ikkaikiri-no-Hazuga-2017.jpg
+date=2019-03-02
+URL=ttps://streamcherry.com/embed/obsbqfpqmmqlbpoc/
+
+type=video
+name=Kinshin-mugon-sokan Shirakawa Chiori (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Kinshin-mugon-sokan-Shirakawa-Chiori-2017.jpg
+date=2019-03-02
+URL=https://streamcherry.com/embed/snbctnclmboefnbo/
+
+type=video
+name=Maelyeogjeog In Jangmonimdeul (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Maelyeogjeog-In-Jangmonimdeul-2018.jpg
+date=2019-03-02
+URL=https://streamcherry.com/embed/emkkrnamkeqodonb/
+
+type=video
+name=Kaomisirihujyo2 (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Kaomisirihujyo2-2017.jpg
+date=2019-03-02
+URL=https://streamcherry.com/embed/fdntlkambptofebt/
+
+
+type=video
+name=My Old Schoolmate Working at Sex Shop (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/My-Old-Schoolmate-Working-at-Sex-Shop-2017.jpg
+date=2019-03-02
+URL=https://streamcherry.com/embed/aptooacaamdnnqln/
+
+type=video
+name=Yujin no Hahaoya Aoi Shiho (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Yujin-no-Hahaoya-Aoi-Shiho-2017.jpg
+date=2019-03-02
+URL=https://streamcherry.com/embed/caknqcbdpfaacfpq/
+
 
 
 
