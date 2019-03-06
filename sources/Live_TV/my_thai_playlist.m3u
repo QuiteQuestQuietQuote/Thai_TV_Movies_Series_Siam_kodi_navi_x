@@ -2449,6 +2449,8 @@ http://27.254.63.132:8081/live/discovery.stream/playlist.m3u8
 http://83.167.253.110:5000/live/discovery/playlist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
 http://88.216.48.14:80/discovery/live.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA_rtsp
+rtsp://118.97.96.17:1935/discover/disco_1
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Samrujlok
 https://cdnstream1.podzone.net:8082/xtreme4k/samrujlok.stream/chunks.m3u8?nimblesessionid=15874179&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTkgMTo1MTozMiBBTSZoYXNoX3ZhbHVlPUl1czhqUDQvVktCUEY1d3FXanY5SXc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1vbXByb258NzYxfHh0cmVtZXwxNTQ2MzA3NDkyfDExMC4xNjkuNDIuMTkxfDI=
 #EXTINF:-1  tvg-logo="http://www.tv.bunjerd.com/static/image/tv_radio/tv/saradee.jpg",PSI_3bb
@@ -2461,10 +2463,12 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)?sta
 http://195.88.144.86:8000/play/105
 #EXTINF:-1 group-title="docu" tvg-logo="http://image.free.in.th/v/2013/io/180629043620.jpg",BBC Lifestyle FHD 
 http://195.88.144.86:8000/play/101
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History
-http://190.13.120.113/streams/history.m3u8
+#EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_rtsp
+rtsp://118.97.96.17:1935/discover/natgeo_1
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE FHD 
 http://195.88.144.86:8000/play/117 
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_rtsp
+rtsp://118.97.96.17:1935/discover/natgeopeople_1
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI 
@@ -2479,33 +2483,14 @@ http://122.146.68.116:4046/VideoInput/play.ts
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/01.m3u8
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
-#EXTINF:-1,TUR : Da Vinci Learning HD
-http://190.2.131.171:8080/live/sandy/1234/96933.m3u8
-#EXTINF:-1,PL: BBC EARTH HD
-http://51.68.181.129:8000/hasodost/UivQxSzJmu/13303
-#EXTINF:-1,PL: DA VINCI LEARNING HD
-http://51.68.181.129:8000/hasodost/UivQxSzJmu/13249
-#EXTINF:-1,FR: DAVINCI LEARNING 
-http://31.220.1.190:8080/11223344/44332211/149177
 
-#EXTINF:-1,Tr- DAVINCI LEARNING HD
-http://smart-hdip.com:6204/RDWAN/123/13140
-#EXTINF:-1,Tr- DISCOVERY HD
-http://smart-hdip.com:6204/RDWAN/123/13139
-#EXTINF:-1,Tr- DISCOVERY SCIENCE HD
-http://smart-hdip.com:6204/RDWAN/123/13138
-#EXTINF:-1,Tr- ANIMAL PLANET HD
-http://smart-hdip.com:6204/RDWAN/123/13167
-#EXTINF:-1,Tr- BBC Earth UHD
-http://smart-hdip.com:6204/RDWAN/123/13161
-#EXTINF:-1,Tr- NAT GEO HD
-http://smart-hdip.com:6204/RDWAN/123/13094
-#EXTINF:-1,Tr- NAT GEO PEOPLE HD
-http://smart-hdip.com:6204/RDWAN/123/13093
-#EXTINF:-1,Tr- NAT GEO WILD HD
-http://smart-hdip.com:6204/RDWAN/123/13092
-#EXTINF:-1,Tr- VIASAT EXPLORE
-http://smart-hdip.com:6204/RDWAN/123/13049
+#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
+http://195.206.253.157:17200/davinci
+#EXTINF:-1,Da Vinci Learning 
+http://159.253.175.79:999/udp/239.191.254.72:13343 
+#EXTINF:-1,Eureka HD 
+http://159.253.175.79:999/udp/239.191.254.215:15283 
+
 
 #EXTINF:-1,DISCOVERY world HD
 http://103.205.133.14/hls/discovery.m3u8
@@ -2519,7 +2504,7 @@ http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/foxpremium.png",Fox Movie
 http://iptv-line.com:6969/medglo/0204/29393
 #EXTINF:-1,andflixhd
-http://31.220.1.190:8080/11223344/44332211/157470
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/157470
 
 #EXTINF:-1,DISCOVERY HD (VIP)
 http://80.80.160.168/live/8/live.m3u8?sd=10&rebase=on
@@ -2545,6 +2530,8 @@ http://122.38.74.172:9981/stream/channelid/1463854277
 http://122.38.74.172:9981/stream/channelid/816085039 
 
 
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArtHD 
+http://159.253.175.79:999/udp/239.191.254.250:15285 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
 http://185.24.34.97:8000/play/a00d
 #EXTINF:-1,honey)
