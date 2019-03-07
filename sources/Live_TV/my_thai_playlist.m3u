@@ -2484,34 +2484,21 @@ http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 
-#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
-http://195.206.253.157:17200/davinci
 #EXTINF:-1,Da Vinci Learning 
-http://159.253.175.79:999/udp/239.191.254.72:13343 
-#EXTINF:-1,Eureka HD 
-http://159.253.175.79:999/udp/239.191.254.215:15283 
+http://79.133.103.113:999/udp/239.191.254.72:13343 
+#EXTINF:-1,Da Vinci Learning 
+http://5.43.130.104:8000/udp/239.255.0.60:1234 
+#EXTINF:-1,Da Vinci 
+http://5.128.115.107:81/udp/239.1.5.6:1234 
+#EXTINF:-1,Da Vinci 
+http://127.0.0.1:6689/stream?cid=3934
 
-
-#EXTINF:-1,DISCOVERY world HD
-http://103.205.133.14/hls/discovery.m3u8
-#EXTINF:-1,TCL
-http://iptvpro.premium-itv.com:8789/Maya/123456/23184
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History
-http://persik.by/stream/5595/387332/879.m3u8
 
 #EXTINF:-1,cinema world
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
-#EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/foxpremium.png",Fox Movie
-http://iptv-line.com:6969/medglo/0204/29393
-#EXTINF:-1,andflixhd
-http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/157470
 
-#EXTINF:-1,DISCOVERY HD (VIP)
-http://80.80.160.168/live/8/live.m3u8?sd=10&rebase=on
-#EXTINF:-1,SCI HD (VIP)
-http://80.80.160.168/live/9/live.m3u8?sd=10&rebase=on
-#EXTINF:-1,FISHING NETWORK
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+
+
 
 
 
@@ -2531,7 +2518,7 @@ http://122.38.74.172:9981/stream/channelid/816085039
 
 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArtHD 
-http://159.253.175.79:999/udp/239.191.254.250:15285 
+http://79.133.103.113:999/udp/239.191.254.250:15285 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
 http://185.24.34.97:8000/play/a00d
 #EXTINF:-1,honey)
@@ -2594,8 +2581,6 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_persik
 http://persik.by/stream/5595/387332/10003.m3u8
-#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp79.135
-http://79.135.77.75:81/udp/239.195.0.88:1234
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp88
 http://88.151.248.24:9999/udp/224.0.224.178:1234
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp79.133
@@ -2605,8 +2590,9 @@ http://185.93.3.83:5014/play/a00a
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart_178
 http://178.219.160.167:8080/Nuart/index.m3u8 
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart
-http://46.32.68.167/s/live/711/86.169.51.136/0/0.m3u8
-
+http://46.32.68.167/s/live/711/86.169.51.136/1/0.m3u8
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp79.135
+http://79.135.77.75:81/udp/239.195.0.88:1234
 
 
 #EXTINF:-1,Shot tv
@@ -2619,8 +2605,7 @@ http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329
 
 #EXTINF:-1,France 24 HD (in English) 
 http://164.40.161.46:8002/play/s5 
-#EXTINF:-1,Euronews English HD 
-http://164.40.161.46:8002/play/s4
+
 
 #EXTINF:-1,a taste of china24/7_CHN
 http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
@@ -2633,7 +2618,7 @@ https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png",NHK WORLD HD
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews (English) 
-http://persik.by/stream/8682/252987/10265.m3u8 
+http://164.40.161.46:8002/play/s4
 #EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS_HD
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_HD
