@@ -2491,13 +2491,12 @@ http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 
 #EXTINF:-1,Da Vinci Learning 
-http://79.133.121.196:999/udp/239.191.254.72:13343  
+http://95.181.232.102:999/udp/239.191.254.72:13343  
 #EXTINF:-1,Da Vinci Learning 
 http://5.43.130.104:8000/udp/239.255.0.60:1234 
 #EXTINF:-1,Da Vinci 
-http://5.128.115.107:81/udp/239.1.5.6:1234 
-#EXTINF:-1,Da Vinci 
-http://127.0.0.1:6689/stream?cid=3934
+http://37.192.32.243:81/udp/239.1.5.6:1234 
+
 
 #EXTINF:-1,wsci
 http://203.154.243.32:8088/live/wsci/index.m3u8
@@ -2529,7 +2528,7 @@ http://122.38.74.172:9981/stream/channelid/816085039
 
 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArtHD 
-http://79.133.121.196:999/udp/239.191.254.250:15285  
+http://95.181.232.102:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
 http://185.24.34.97:8000/play/a00d
 #EXTINF:-1,babes tv
