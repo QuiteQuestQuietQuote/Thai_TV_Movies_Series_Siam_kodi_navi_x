@@ -18,8 +18,6 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 http://live.nationtv.tv/hls/ntv_th_hd.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png",now 26_1080p
 http://nationstream.nationgroup.com/hls/th_high.m3u8
-#EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png",Spring26
-http://180.183.127.207:8000/play/a00e
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24
 http://27.254.130.64/live01/ch5.m3u8?p=
 
@@ -2310,10 +2308,8 @@ http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_pltv
 http://161.0.157.9/PLTV/88888888/224/3221227005/01.m3u8
-#EXTINF:-1,BBC 
-http://persik.by/stream/8682/252987/46.m3u8 
-#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_HD
-http://210.210.155.35/uq2663/h/h01/index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC
+http://92.43.140.249/s65/04.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
 https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
 #EXTINF:-1,GONG_movie
@@ -2326,10 +2322,7 @@ http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/545/index.m3u8
 http://151.80.27.107:8080/503/1681/0762554da0e44c8d64bf81d309b7bc72c5cccac3?BBCEARTH_tu_mas_sa_nedoser
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
-#EXTINF:-1,115 Nat Geo Wild HD 
-http://195.88.144.86:8000/play/115 
-#EXTINF:-1,134 BBC Brit HD 
-http://195.88.144.86:8000/play/134 
+
 
 #EXTINF:-1,FYI_bear-tv
 http://cdn2.bear-tv.com/freetv/TOT_Fyi/playlist.m3u8
@@ -2528,7 +2521,7 @@ http://122.38.74.172:9981/stream/channelid/816085039
 
 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArtHD 
-http://95.181.232.102:999/udp/239.191.254.250:15285
+http://193.233.178.162:999/udp/239.191.254.250:15285 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
 http://185.24.34.97:8000/play/a00d
 #EXTINF:-1,babes tv
@@ -2642,8 +2635,7 @@ http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_newschat_electric
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC
-http://92.43.140.249/s65/04.m3u8
+
 
 
 
