@@ -135,21 +135,8 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30IiwvIRqPGjUV0bxJkZfnSiCL
 date=2019-02-28
 URL=https://openload.co/f/BCfrD0ML41k/What_Men_Want_%282019%29_720p_HDCAM_SeeHD.mkv.mp4
 
-type=video
-name=Happy Death Day 2U (2019) ENG NOLOGO.720p.HDCAM-1XBET
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/whtt9F8PFqvEgc4fDSHZPkitFk4.jpg
-date=2019-02-28
-URL=https://openload.co/f/3rikcMnRYzk/Happy.Death.Day.2U.2019.NOLOGO.720p.HDCAM-1XBET.mp4
-#https://openload.co/f/pH3Hlmo1Hw4/happyd2u_SeeHD.mkv.mp4
-#https://openload.co/f/kauecxHr3ec/Happy_Death_Day_2U.2019.HDCAM.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/3rikcMnRYzk/Happy.Death.Day.2U.2019.NOLOGO.720p.HDCAM-1XBET.mp4
-#https://openload.co/f/6cDMqCBkkGw/Happy.Death.Day.2U.2019.720p.HDCAM-1XBET.mp4
 
-type=video
-name=The Lego Movie 2: The Second Part (2019) ENG 720p_HDCAM_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QTESAsBVZwjtGJNDP7utiGV37z.jpg
-date=2019-02-14
-URL=https://openload.co/f/bmIlj8VR35c/The_Lego_Movie_2_2019_720p_HDCAM_SeeHD.mkv.mp4
+
 
 type=video
 name=Miss Bala (2019) ENG 720p_HDCAM_SeeHD
@@ -433,12 +420,6 @@ date=2019-01-24
 URL=https://openload.co/f/sCDpaMsSBuQ/If.Beale.Street.Could.Talk.2018.DVDScr.XVID.AC3.HQ.Hive-CM8_SeeHD.avi.mp4
 #https://openload.co/f/ck7vUcuvazI/If.Beale.Street.Could.Talk.2018.DVDSCR.MkvCage.ws.mkv.mp4
 
-type=video
-name=Can You Ever Forgive Me? (2018) ENG 1080p_WEB_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPuZR2bFoV0kuBrA98exWyvTf40.jpg
-date=2019-02-06
-URL=https://openload.co/f/Aa8kWnp2LXE/Can_You_Ever_Forgive_Me_1080p_WEB_SeeHD.mkv.mp4
-#https://openload.co/f/QCLYyPgLXXc/Can.You.Ever.Forgive.Me.2018.DVDScr.XVID.AC3.SHQ.Hive-CM8_SeeHD.avi.mp4
 
 
 
@@ -1415,14 +1396,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUQD6QBwNgSiiOAcNcTOd4qGRI
 date=2019-03-12
 URL=https://openload.co/f/Q4Zmc_9BPH4/Peterloo.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Kursk (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Y09MkMJ8CESSPW4fcbDm9s5cAS.jpg
-date=2019-03-12
-URL=https://openload.co/f/SMi-eD3VAGs/Kursk.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/UarrxjeKpfE/Kursk.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/3GXMuLqtFMU/Kursk.2018.1080p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4
-#https://openload.co/f/qFMcNABpiWQ/Kursk.2018.1080p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D_SeeHD.mkv.mp4
+
 
 type=video
 name=Interlude In Prague (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
@@ -1943,19 +1917,7 @@ date=2019-01-31
 URL=https://openload.co/f/0oNBraXA_vA/The.Basement.2018.1080p.BluRay_SeeHD.mp4
 #https://openload.co/f/8LV_BSBC-VA/The.Basement.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Suspiria (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Nu6qk2UwM4aGvd5BvIMtvt3zoi.jpg
-date=2019-01-30
-URL=https://openload.co/f/t_V2JJOfMGc/Suspiria.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
-#https://openload.co/f/nA37IM3bRj4/Suspiria.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/e56-LGJkFuc/Suspiria.2018.AMZN.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/8H8op17WsnI/Suspiria.2018.AMZN.1080p.WEB-DL.X264.AC3-EVO.mkv
-#https://openload.co/f/8h2hcDF6OS8/Suspiria1080phd_SeeHD.mkv.mp4
-#https://openload.co/f/-sU37B1Oanc/Suspiria720pHD_SeeHD.mkv.mp4
-#https://openload.co/f/7JBUO_I0x1A/Suspiria720pHD_SeeHD.mkv   MKV3.3GB
-#https://openload.co/f/lCkkPxJmhD8/Suspiria.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/l6YjlLNyxc0/Suspiria.2018.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+
 
 type=video
 name=End of the World (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-25
@@ -2761,19 +2723,7 @@ URL=https://uptobox.com/0asy3biwk63g
 #https://openload.co/f/k201DgnF_fU/Lizzie.2018.PROPER.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/VhK8O2WnE8Y/Lizzie.2018.720p.BDRip.X264.AC3-EVO_SeeHD.mkv.mp4
 
-type=video
-name=I Still See You (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-75
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fqzZs922V8OmwgO11Eqclof2mQ.jpg
-date=2018-12-12
-URL=https://uptobox.com/vrql6y6b7nmk
-#https://fruithosts.net/embed/tbpffbcatelkroqr/ISTILLSEEYOU80_Ganol_si_mkv
-#https://oload.fun/embed/KypKTNZXZZQ/ISTILLSEEYOU80.Ganol.si.mkv
-#https://openload.co/f/Odn_D5Vmq44/I_Still_See_You_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
-#https://openload.co/f/83CgWrrBaSo/I.Still.See.You.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://uptobox.com/74s9emw55rze   720
-#https://fruithosts.net/embed/qloslenbfdlkslrn/ISTILLSEEYOUBD72_Ganol_si_mkv_mp4
-#https://oload.fun/embed/S52Y12DnF-w/ISTILLSEEYOUBD72.Ganol.si.mkv.mp4
-#https://openload.co/f/XGFOsvtPjFQ/I_Still_See_You_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+
 
 type=video
 name=Mr. Long (2017) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-85
@@ -9187,7 +9137,7 @@ URL=http://live.cgtn.com/cctv-d.m3u8
 type=video
 name=
 thumb=
-date=2019-02-27
+date=2019-03-16
 URL=
 
 
@@ -9195,6 +9145,36 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+type=video
+name=Happy Death Day 2U (2019) ENG NOLOGO.720p.HDCAM-1XBET
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/whtt9F8PFqvEgc4fDSHZPkitFk4.jpg
+date=2019-02-28
+URL=https://openload.co/f/3rikcMnRYzk/Happy.Death.Day.2U.2019.NOLOGO.720p.HDCAM-1XBET.mp4
+#https://openload.co/f/pH3Hlmo1Hw4/happyd2u_SeeHD.mkv.mp4
+#https://openload.co/f/kauecxHr3ec/Happy_Death_Day_2U.2019.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/3rikcMnRYzk/Happy.Death.Day.2U.2019.NOLOGO.720p.HDCAM-1XBET.mp4
+#https://openload.co/f/6cDMqCBkkGw/Happy.Death.Day.2U.2019.720p.HDCAM-1XBET.mp4
+type=video
+name=Happy Death Day 2U (2019) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/whtt9F8PFqvEgc4fDSHZPkitFk4.jpg
+date=2019-03-16
+URL=https://openload.co/f/2Yu0Gp0jcMg/Happy_Death_Day_2U_%282019%29%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2_2U_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=The Hole in the Ground (2019) THCAM
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DMRJzH9AwpSN5D19cExAB9vDZW.jpg
+date=2019-03-16
+URL=https://openload.co/f/nnr6PLRoQQk/The_Hole_in_the_Ground_%282019%29The_Hole_in_the_Ground_%282019%29_%28Google_Translate%29
 
 
 type=video
@@ -9293,7 +9273,7 @@ URL=https://openload.co/f/N-xkdwIt0C4/Glass_%282019%29%E0%B8%84%E0%B8%99%E0%B9%8
 type=video
 name=
 thumb=
-date=2019-02-28
+date=2019-03-16
 URL=
 
 
@@ -9303,6 +9283,20 @@ URL=
 
 
 
+
+
+type=video
+name=Triple Frontier (2019) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg
+date=2019-03-16
+URL=https://openload.co/f/ReF5-HNLdm4/Triple_Frontier_%282019%29%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99_%E0%B8%A5%E0%B9%88%E0%B8%B2_%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=The Photographer of Mauthausen (2018) THSUB
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GzwDodNHSQM7Wu8VIbvTmYXJQB.jpg
+date=2019-03-16
+URL=https://openload.co/f/0rO9JKgqQws/The_Photographer_of_Mauthausen_%282018%29%E0%B8%8A%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 type=video
 name=Paris Is Us (2019) THSUB
@@ -9711,16 +9705,7 @@ date=2018-12-07
 URL=https://openload.co/f/tIbQyQPuKaQ/Black_Water_%282018%29Black_Water_%282018%29_%28Google_Translate%29
 
 
-type=video
-name=L Storm (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3s00u139bzaYRxY8vyrH1AEZS7j.jpg
-date=2018-12-01
-URL=https://openload.co/f/UQTDtZZk_7M/L.Storm.2018.BluRay.1080p.5.1CH.x264.Ganool.mkv.mp4
-type=video
-name=L Storm (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3s00u139bzaYRxY8vyrH1AEZS7j.jpg
-date=2018-12-01
-URL=https://openload.co/f/4oSUbTQIQM0/L_Storm_%282018%29L_Storm_%282018%29_%28Google_Translate%29
+
 
 
 type=video
@@ -12252,6 +12237,41 @@ URL=
 
 
 
+
+type=video
+name=The Lego Movie 2: The Second Part (2019) ENG 720p_HDCAM_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QTESAsBVZwjtGJNDP7utiGV37z.jpg
+date=2019-02-14
+URL=https://openload.co/f/bmIlj8VR35c/The_Lego_Movie_2_2019_720p_HDCAM_SeeHD.mkv.mp4
+type=video
+name=The Lego Movie 2: The Second Part (2019) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QTESAsBVZwjtGJNDP7utiGV37z.jpg
+date=2019-03-16
+URL=https://openload.co/f/va4EaMDxyEs/The_Lego_Movie_2%3A_The_Second_Part_%282019%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
+type=video
+name=Kursk (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Y09MkMJ8CESSPW4fcbDm9s5cAS.jpg
+date=2019-03-12
+URL=https://openload.co/f/SMi-eD3VAGs/Kursk.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/UarrxjeKpfE/Kursk.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/3GXMuLqtFMU/Kursk.2018.1080p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/qFMcNABpiWQ/Kursk.2018.1080p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D_SeeHD.mkv.mp4
+type=video
+name=Kursk (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Y09MkMJ8CESSPW4fcbDm9s5cAS.jpg
+date=2019-03-16
+URL=https://openload.co/f/RPOS80x9l0Q/Kursk_%282018%29%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
+type=video
+name=OVER DRIVE (2018) THCAM SOUND
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/obub0Fpitvv6iQkA67dXNALPLhQ.jpg
+date=2019-03-16
+URL=https://openload.co/f/Ws5KLcyWV_U/OVER_DRIVE_%282018%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
 type=video
 name=The Quake (2018) [COLOR=FF00FF00]NOR BR 1080p[/COLOR] | TMDB-69
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA5MVaNWe76EjuXn4FqkeaHDPuj.jpg
@@ -12265,29 +12285,7 @@ URL=https://openload.co/f/I1I5P2iASWY/The_Quake_%282018%29%E0%B8%A1%E0%B8%AB%E0%
 #https://openload.co/f/i_zrEaJqgwU/The_Quake_%282018%29%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
-type=video
-name=Spider-Man: Into the Spider-Verse (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-85
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
-date=2019-03-11
-URL=https://openload.co/f/iTc1aw37Eqo/Spider-Man.Into.the.Spider-Verse.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/xcxN7YqRi5g/Spider-Man.Into.the.Spider-Verse.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/1ZqcP_iYKYI/Spider-Man.Into.The.Spider-Verse.2018.1080p.BluRay.x264-YIFY.mp4
-#https://openload.co/f/oCWtekLJaTI/Spider-Man.Into.the.Spider-Verse.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/3L6jyqgc7zA/Spider-Man.Into.the.Spider-Verse.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/a33Zf7gZ_a0/Spider-Man.Into.the.Spider-Verse.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/Isn7p0WyBLw/Spider-Man.Into.the.Spider-Verse.2018.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/LZ-R-Pj3_XA/Spider-Man.Into_the_Spider-Verse.2019.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/rSXjHTJzFf0/Spiderman_into_the_Spiderberse_HDCAM_SeeHD.mp4
-#https://openload.co/f/v7GjU1HV47Q/Spider-Man_Into_the_Spider-Verse_2018_720p_PROPER_HDCAM-ORCA88_SeeHD.mp4
-#https://openload.co/f/dBsGXFDFLLk/Spider-Man.Into.the.Spider-Verse.2018.HDCAM.x264-CHS.mp4
-#https://openload.co/f/qDwvb4h3Mho/Spider-Man_Into_The_Spider_Versee.2018.CAM.X264-SuperSpy_SeeHD.mkv.mp4
-#https://openload.co/f/Acp3BMFlPyA/Spider-Man.Into.The.Spider.Versee.2018.CAM.X264-SuperSpy.mkv.mp4
-type=video
-name=Spider-Man: Into the Spider-Verse (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
-date=2019-02-23
-URL=https://openload.co/f/M2gf9NZFqn4/Spider-Man%3A_Into_the_Spider-Verse_%282018%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99%3A_%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/flu_Kj3f7Gs/Spider-Man%3A_Into_the_Spider-Verse_%282018%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99%3A_%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
@@ -12967,6 +12965,100 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=L Storm (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-75
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3s00u139bzaYRxY8vyrH1AEZS7j.jpg
+date=2018-12-01
+URL=https://openload.co/f/UQTDtZZk_7M/L.Storm.2018.BluRay.1080p.5.1CH.x264.Ganool.mkv.mp4
+type=video
+name=L Storm (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3s00u139bzaYRxY8vyrH1AEZS7j.jpg
+date=2019-03-16
+URL=https://openload.co/f/QGHeFX89vp0/L_Storm_%282018%29%E0%B8%84%E0%B8%99%E0%B8%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B9%88%E0%B8%99%E0%B8%9E%E0%B8%B2%E0%B8%A2%E0%B8%B8_3_2018.mp4
+#https://openload.co/f/4oSUbTQIQM0/L_Storm_%282018%29L_Storm_%282018%29_%28Google_Translate%29
+
+
+type=video
+name=Can You Ever Forgive Me? (2018) ENG 1080p_WEB_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPuZR2bFoV0kuBrA98exWyvTf40.jpg
+date=2019-02-06
+URL=https://openload.co/f/Aa8kWnp2LXE/Can_You_Ever_Forgive_Me_1080p_WEB_SeeHD.mkv.mp4
+#https://openload.co/f/QCLYyPgLXXc/Can.You.Ever.Forgive.Me.2018.DVDScr.XVID.AC3.SHQ.Hive-CM8_SeeHD.avi.mp4
+type=video
+name=Can You Ever Forgive Me? (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPuZR2bFoV0kuBrA98exWyvTf40.jpg
+date=2019-03-16
+URL=https://openload.co/f/FPkF2FZ-s1w/Can_You_Ever_Forgive_Me%3F_%282018%29Can_You_Ever_Forgive_Me_2018.mp4
+
+
+type=video
+name=Spider-Man: Into the Spider-Verse (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-85
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
+date=2019-03-11
+URL=https://openload.co/f/iTc1aw37Eqo/Spider-Man.Into.the.Spider-Verse.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/xcxN7YqRi5g/Spider-Man.Into.the.Spider-Verse.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/1ZqcP_iYKYI/Spider-Man.Into.The.Spider-Verse.2018.1080p.BluRay.x264-YIFY.mp4
+#https://openload.co/f/oCWtekLJaTI/Spider-Man.Into.the.Spider-Verse.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/3L6jyqgc7zA/Spider-Man.Into.the.Spider-Verse.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/a33Zf7gZ_a0/Spider-Man.Into.the.Spider-Verse.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/Isn7p0WyBLw/Spider-Man.Into.the.Spider-Verse.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/LZ-R-Pj3_XA/Spider-Man.Into_the_Spider-Verse.2019.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/rSXjHTJzFf0/Spiderman_into_the_Spiderberse_HDCAM_SeeHD.mp4
+#https://openload.co/f/v7GjU1HV47Q/Spider-Man_Into_the_Spider-Verse_2018_720p_PROPER_HDCAM-ORCA88_SeeHD.mp4
+#https://openload.co/f/dBsGXFDFLLk/Spider-Man.Into.the.Spider-Verse.2018.HDCAM.x264-CHS.mp4
+#https://openload.co/f/qDwvb4h3Mho/Spider-Man_Into_The_Spider_Versee.2018.CAM.X264-SuperSpy_SeeHD.mkv.mp4
+#https://openload.co/f/Acp3BMFlPyA/Spider-Man.Into.The.Spider.Versee.2018.CAM.X264-SuperSpy.mkv.mp4
+type=video
+name=Spider-Man: Into the Spider-Verse (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
+date=2019-03-16
+URL=https://openload.co/f/PbPIjFgwbxA/Spider-Man%3A_Into_the_Spider-Verse_%282018%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1_2019.mp4
+#https://openload.co/f/M2gf9NZFqn4/Spider-Man%3A_Into_the_Spider-Verse_%282018%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99%3A_%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/flu_Kj3f7Gs/Spider-Man%3A_Into_the_Spider-Verse_%282018%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99%3A_%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=I Still See You (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-75
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fqzZs922V8OmwgO11Eqclof2mQ.jpg
+date=2018-12-12
+URL=https://uptobox.com/vrql6y6b7nmk
+#https://fruithosts.net/embed/tbpffbcatelkroqr/ISTILLSEEYOU80_Ganol_si_mkv
+#https://oload.fun/embed/KypKTNZXZZQ/ISTILLSEEYOU80.Ganol.si.mkv
+#https://openload.co/f/Odn_D5Vmq44/I_Still_See_You_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+#https://openload.co/f/83CgWrrBaSo/I.Still.See.You.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/74s9emw55rze   720
+#https://fruithosts.net/embed/qloslenbfdlkslrn/ISTILLSEEYOUBD72_Ganol_si_mkv_mp4
+#https://oload.fun/embed/S52Y12DnF-w/ISTILLSEEYOUBD72.Ganol.si.mkv.mp4
+#https://openload.co/f/XGFOsvtPjFQ/I_Still_See_You_%282018%29720p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
+type=video
+name=I Still See You (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fqzZs922V8OmwgO11Eqclof2mQ.jpg
+date=2019-03-16
+URL=https://openload.co/f/EYHRBdPqRLo/I_Still_See_You_%282018%29%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93_%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99_%E0%B8%95%E0%B8%B2%E0%B8%A2_2018.mp4
+
+
+type=video
+name=Suspiria (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Nu6qk2UwM4aGvd5BvIMtvt3zoi.jpg
+date=2019-01-30
+URL=https://openload.co/f/t_V2JJOfMGc/Suspiria.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/nA37IM3bRj4/Suspiria.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/e56-LGJkFuc/Suspiria.2018.AMZN.1080p.WEB-DL.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/8H8op17WsnI/Suspiria.2018.AMZN.1080p.WEB-DL.X264.AC3-EVO.mkv
+#https://openload.co/f/8h2hcDF6OS8/Suspiria1080phd_SeeHD.mkv.mp4
+#https://openload.co/f/-sU37B1Oanc/Suspiria720pHD_SeeHD.mkv.mp4
+#https://openload.co/f/7JBUO_I0x1A/Suspiria720pHD_SeeHD.mkv   MKV3.3GB
+#https://openload.co/f/lCkkPxJmhD8/Suspiria.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/l6YjlLNyxc0/Suspiria.2018.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+type=video
+name=Suspiria (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Nu6qk2UwM4aGvd5BvIMtvt3zoi.jpg
+date=2019-03-03-16
+URL=https://openload.co/f/4qz4VKi2aCw/Suspiria_%282018%29%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%A7.mp4
 
 
 type=video
