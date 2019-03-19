@@ -12428,29 +12428,7 @@ URL=https://openload.co/f/OXh82Vr9IHQ/Mortal_Engines_%282018%29%E0%B8%AA%E0%B8%A
 #https://openload.co/f/I3e9adDqUk8/Mortal_Engines_%282018%29%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%3A_%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
 
 
-type=video
-name=Aquaman (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
-date=2019-03-18
-URL=https://openload.co/f/p0HjsnZF7y8/Aquaman.2018.IMAX.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/sJj_u5wItdE/Aquaman.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/WjOKKhnOA_o/Aquaman.2018.1080p.IMAX.BRRip.x264-MkvCage.mkv.mp4
-#https://openload.co/f/-LDyt6monUg/Aquaman.2018.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/HVGdVDe9K7I/Aquaman.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/qHIlwlAuhfE/Aquamen.2018.1080p.HC.HDRip.x264.MkvCage.ws.mkv.mp4
-#https://openload.co/f/3TEP9kEmy-w/Aquaman.TC.1080p_SeeHD.mp4
-#https://openload.co/f/R2YzKr6Q5Y0/Aquaman.2018.CAMRip_SeeHD.mkv.mp4
-#https://openload.co/f/enbK-_AFGro/Aquaman.2018.CAM.X264-Cueca_SeeHD.mkv.mp4
-#https://openload.co/f/4eoZetdCYpY/Aquaman_2018_HDCAM_ENG_X264_AC3_HQMic_Hive-CM8_SeeHD.mkv.mp4
-#https://openload.co/f/F_dSjC73jCU/Aquaman_2018_TC_V2.mp4
-type=video
-name=Aquaman (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
-date=2019-01-30
-URL=https://openload.co/f/Z-3ybWlyIRU/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_2018_Thai%28C%29_HD
-#https://openload.co/f/9lhoypZ6XFo/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/J5sEcIGhhSE/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1_V.2%29
-#https://openload.co/f/9ejB1m2RPiw/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 
@@ -13066,6 +13044,34 @@ URL=
 
 
 
+
+type=video
+name=Aquaman (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
+date=2019-03-18
+URL=https://openload.co/f/p0HjsnZF7y8/Aquaman.2018.IMAX.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/sJj_u5wItdE/Aquaman.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/WjOKKhnOA_o/Aquaman.2018.1080p.IMAX.BRRip.x264-MkvCage.mkv.mp4
+#https://openload.co/f/-LDyt6monUg/Aquaman.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/HVGdVDe9K7I/Aquaman.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/qHIlwlAuhfE/Aquamen.2018.1080p.HC.HDRip.x264.MkvCage.ws.mkv.mp4
+#https://openload.co/f/3TEP9kEmy-w/Aquaman.TC.1080p_SeeHD.mp4
+#https://openload.co/f/R2YzKr6Q5Y0/Aquaman.2018.CAMRip_SeeHD.mkv.mp4
+#https://openload.co/f/enbK-_AFGro/Aquaman.2018.CAM.X264-Cueca_SeeHD.mkv.mp4
+#https://openload.co/f/4eoZetdCYpY/Aquaman_2018_HDCAM_ENG_X264_AC3_HQMic_Hive-CM8_SeeHD.mkv.mp4
+#https://openload.co/f/F_dSjC73jCU/Aquaman_2018_TC_V2.mp4
+type=video
+name=Aquaman (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
+date=2019-03-19
+URL=https://openload.co/f/nk05AAdYrr4/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_2018.mp4
+#https://www.rapidvideo.com/e/G17KP6YV43&q=1080p
+#https://openload.co/f/nk05AAdYrr4/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_2018.mp4
+#https://streamango.com/f/qoddkbsaomdpnclq/Aquaman_2018_mp4
+#https://openload.co/f/Z-3ybWlyIRU/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_2018_Thai%28C%29_HD
+#https://openload.co/f/9lhoypZ6XFo/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/J5sEcIGhhSE/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1_V.2%29
+#https://openload.co/f/9ejB1m2RPiw/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video

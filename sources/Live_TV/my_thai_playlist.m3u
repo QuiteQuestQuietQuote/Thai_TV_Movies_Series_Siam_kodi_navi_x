@@ -2301,6 +2301,7 @@ http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 
+
 #EXTINF:-1,DA VINCI LEARNING 
 http://14.247.251.15:9981/stream/channelid/222044185
 #EXTINF:-1,AFC
@@ -2313,7 +2314,8 @@ http://144.217.69.93:25461/nelson787/U3Fbgf3UAx/59142
 http://144.217.69.93:25461/nelson787/U3Fbgf3UAx/59141
 #EXTINF:-1,UK | Discovery Science
 http://144.217.69.93:25461/nelson787/U3Fbgf3UAx/59140
-
+#EXTINF:-1,Da Vinci Learning 
+http://79.133.108.13:999/udp/239.191.254.72:13343 
 
 
 
@@ -2324,10 +2326,8 @@ http://203.154.243.32:8088/live/wsci/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",NEW TV
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 #EXTINF:-1  tvg-logo="http://www.tv.bunjerd.com/static/image/tv_radio/tv/saradee.jpg",PSI_3bb
-http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcast73_psi_live1.stream/playlist.m3u8?username=Dsv9FD4MwveVFr8t1Rv4zFz4SP5VGKXa&password=Bn2hmCVmFkosNRQ0NeRVau9ls04J5cbt
+http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcast73_psi_live1.stream/playlist.m3u8?username=FVZDKFAAKzqj0huQZuISNySZLZjWL8Mh&password=TsS7HeloZ45GquwjqY1OnppGJWQtTEsC
 
-#EXTINF:-1,Agro tv
-http://smart.worldiptv.in:53333/HBOHD?auth=alfabass-tv
 
 
 #EXTINF:-1,cinema world
@@ -2370,11 +2370,18 @@ http://122.38.74.172:9981/stream/channelid/816085039
 
 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArtHD 
-http://193.233.181.250:999/udp/239.191.254.250:15285 
+http://79.133.108.13:999/udp/239.191.254.250:15285 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
 http://185.93.3.83:5014/play/a00d
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv
-http://46.32.68.167/s/live/711/86.169.51.136/1/0.m3u8
+http://cdn-world.onlineott.tv:34889/ch/234445a5f28494c3ef00301672b29269
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv
+http://cdn-world.onlineott.tv:34889/ch/e2654524fec14b315da82cd13f569292
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv
+http://cdn-world.onlineott.tv:34889/ch/ba7f9381408c91835965f453315878d3
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv
+http://cdn-world.onlineott.tv:34889/ch/83751d5426f9a099103746c29197c0bd
+
 
 #EXTINF:-1,xxx
 http://v2.myowntv.org/content/35636/index.m3u8?seg-2422-v1-a1.m3u
