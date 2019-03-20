@@ -215,15 +215,7 @@ URL=https://openload.co/f/Iq_875xBRo4/The.Vice.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8_
 
 
 
-type=video
-name=The Mule (2018) ENG 720p_HDCAM_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0idiLMalKMj2pLsvqHrOM4LPdQ.jpg
-date=2018-12-27
-URL=https://openload.co/f/09_YdR1r3CI/The_Mule_2018_720p_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/dHgMT1-vHLY/The_Mule_2018_720p_HDCAM_SeeHD.mkv   MKV2.4GB
-#https://openload.co/f/_TPWc-x0t6c/The_Mule_2018_720p_HDCAM-1XBET.mp4
-#https://openload.co/f/aR7o3-KksrM/The.Mule.2018.LQ.HDCAM.x264.AAC-WAVE.mp4
-#https://openload.co/f/OnvJxePzH3g/The_Mule.2018.HDCAM.INDOXXI.mp4
+
 
 type=video
 name=Amanda (2018) FRE HD-TS.HQMic.XviD-AVID
@@ -1349,7 +1341,19 @@ URL=
 
 
 
-
+type=video
+name=The Mule (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0idiLMalKMj2pLsvqHrOM4LPdQ.jpg
+date=2019-03-20
+URL=https://openload.co/f/d02T1t61yXk/The.Mule.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/xKsY2NsiJz4/the.mule.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/Niz8bC6uPvI/The.Mule.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/rXSZ-eS7wz0/The.Mule.2018.1080p.BRRip.x264-MkvCage.mkv.mp4
+#https://openload.co/f/09_YdR1r3CI/The_Mule_2018_720p_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/dHgMT1-vHLY/The_Mule_2018_720p_HDCAM_SeeHD.mkv   MKV2.4GB
+#https://openload.co/f/_TPWc-x0t6c/The_Mule_2018_720p_HDCAM-1XBET.mp4
+#https://openload.co/f/aR7o3-KksrM/The.Mule.2018.LQ.HDCAM.x264.AAC-WAVE.mp4
+#https://openload.co/f/OnvJxePzH3g/The_Mule.2018.HDCAM.INDOXXI.mp4
 
 type=video
 name=The Incredible Story of the Giant Pear (2017) [COLOR=FF00FF00]DAN BR 1080p[/COLOR] | TMDB-65
@@ -2825,6 +2829,7 @@ URL=https://uptobox.com/i32latzm16y1
 #https://openload.co/f/WYZOkcMZVsY/Colette.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/zR9_HT_dbow/Colette.2018.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/WNE_b_Cg7Og/Colette.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/IKNJuNOoL4E/Colette.2018.1080p.BluRay.x264-YTS.AM.mp4
 #https://uptobox.com/gixa0yynna6k   720
 #https://fruithosts.net/embed/ocqmcqknfatqtbno/COLETTEBD72_Ganol_si_mkv_mp4
 #https://oload.fun/embed/Ut-uRJEZw5I/COLETTEBD72.Ganol.si.mkv.mp4
@@ -12364,6 +12369,8 @@ name=The Quake (2018) [COLOR=FF00FF00]NOR BR 1080p[/COLOR] | TMDB-69
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA5MVaNWe76EjuXn4FqkeaHDPuj.jpg
 date=2019-02-28
 URL=https://openload.co/f/v2iLC9ryYs8/The.Quake.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
+#
+#https://openload.co/f/8Li5fQZN324/The.Quake.2019.720p.BDRip.X264.AC3-EVO_SeeHD.mkv   MKV2.4GB
 type=video
 name=The Quake (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA5MVaNWe76EjuXn4FqkeaHDPuj.jpg
@@ -13048,8 +13055,9 @@ URL=
 type=video
 name=Aquaman (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7y.jpg
-date=2019-03-18
-URL=https://openload.co/f/p0HjsnZF7y8/Aquaman.2018.IMAX.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2019-03-20
+URL=https://openload.co/f/GcDFC-_50LY/Aquaman.2018.IMAX.1080p.BluRay.10bit.HEVC.6CH-MkvCage.mkv.mp4
+#https://openload.co/f/p0HjsnZF7y8/Aquaman.2018.IMAX.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/sJj_u5wItdE/Aquaman.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/WjOKKhnOA_o/Aquaman.2018.1080p.IMAX.BRRip.x264-MkvCage.mkv.mp4
 #https://openload.co/f/-LDyt6monUg/Aquaman.2018.1080p.BluRay_SeeHD.mp4
@@ -13066,8 +13074,10 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUpl3QkVUCHCq1VWvo2rW4Sf7
 date=2019-03-19
 URL=https://openload.co/f/nk05AAdYrr4/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_2018.mp4
 #https://www.rapidvideo.com/e/G17KP6YV43&q=1080p
+#https://openload.co/f/1I9fVwsgx4M/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3.mp4
 #https://openload.co/f/nk05AAdYrr4/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_2018.mp4
 #https://streamango.com/f/qoddkbsaomdpnclq/Aquaman_2018_mp4
+#https://openload.co/f/lWJyM-00to4/%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3.mp4
 #https://openload.co/f/Z-3ybWlyIRU/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_2018_Thai%28C%29_HD
 #https://openload.co/f/9lhoypZ6XFo/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://openload.co/f/J5sEcIGhhSE/Aquaman_%282018%29%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1_V.2%29
@@ -13870,6 +13880,7 @@ URL=https://uptobox.com/4tkr5lbnblk7
 #https://openload.co/f/sOnmcV55AJM/Bad_Times_at_the_El_Royale_%282018%291080p.BR.Ganool.mkv   MKV1.8GB
 #https://openload.co/f/bXrSTrPU-YQ/Bad.Times.At.The.El.Royale.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/R82jVmSeSCg/Bad.Times.At.The.El.Royale.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/BJAyJ57ZQfg/Bad.Times.At.The.El.Royale.2018.1080p.BluRay.x264-YTS.AM.mp4
 #https://openload.co/f/v6frXEL-WUc/Bad.Times.At.The.El.Royale.2018.720p.BRRip.x264.MkvCage.mkv.mp4
 #https://openload.co/f/Nij8ISMW9M0/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 #https://openload.co/f/s_HTF-gUpZs/Bad.Times.at.the.El.Royale.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
@@ -13998,7 +14009,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-03-18
+date=2019-03-20
 URL=
 
 
@@ -14006,6 +14017,24 @@ URL=
 
 
 
+
+type=video
+name=Aquaman (2018) [COLOR=FF00FF00]3D ENG BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Kg76ldv7VxeX9YlcQXiowHgdX6.jpg
+date=2019-03-20
+URL=https://openload.co/f/9ZpuWS2Qz3o/Aquaman.2018.3D.HSBS.BluRay.x264-YTS.AM.mp4
+
+type=video
+name=Ant-Man and the Wasp (2018) [COLOR=FF00FF00]3D ENG BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rv1AWImgx386ULjcf62VYaW8zSt.jpg
+date=2019-03-20
+URL=https://openload.co/f/0wMm9rqf8K0/Ant-Man.And.The.Wasp.2018.3D.HSBS.BluRay.x264-YTS.AM.mp4
+
+type=video
+name=Skyscraper (2018) [COLOR=FF00FF00]3D ENG BR 1080p[/COLOR] | TMDB-61
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
+date=2019-03-20
+URL=https://openload.co/f/rorVpaKAT_0/Skyscraper.2018.3D.HSBS.BluRay.x264-YTS.AM.mp4
 
 type=video
 name=The Institute (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-38

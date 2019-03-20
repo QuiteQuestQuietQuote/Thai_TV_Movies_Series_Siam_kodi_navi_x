@@ -2198,10 +2198,7 @@ http://unicast.bbxnet.sk/live/automotorsport-hd/playlist.m3u8
 #EXTINF:-1,cars-and-stars-tv
 http://cars-and-stars-tv-hls1.cosmonova.net.ua/hls/cars-and-stars-tv_ua_hi/index.m3u8
 
-#EXTINF:-1,mediacorp5
-https://ftach5.akamaized.net/out/v1/0b05c17bddbd459f874d7cd3b2df9464/index_3.m3u8
-#EXTINF:-1,mediacorp8
-http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_5.m3u8
+
 #EXTINF:-1,hdmedia_3D
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 #EXTINF:-1,BesTV4K_CHN
@@ -2276,8 +2273,6 @@ http://195.88.144.86:8000/play/101
 rtsp://118.97.96.17:1935/discover/natgeo_1
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic
 http://91.221.4.163/live/national-geographic/playlist.m3u8
-#EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_iliketot
-http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_rtsp
 rtsp://118.97.96.17:1935/discover/natgeopeople_1
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
@@ -2286,41 +2281,35 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 http://185.27.116.54:8081/livestream/natpepole/chunks.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_ar
 http://streaming.i-sat.tv:8081/livestream/natpepole/chunks.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_iliketot
-http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI 
 http://178.219.160.167:8080/Discovery_Science/index.m3u8 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI_ottv
 http://4f9cc916.ottv.info/iptv/G4FZPPQUWQ68DR/136/index.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
 http://125.227.210.37:8896/VideoInput/play.ts
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
-http://122.146.68.116:4046/VideoInput/play.ts
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_HDsession
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/01.m3u8
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 
-
-#EXTINF:-1,DA VINCI LEARNING 
-http://14.247.251.15:9981/stream/channelid/222044185
-#EXTINF:-1,AFC
-http://14.247.251.15:9981/stream/channelid/1089101563
-#EXTINF:-1,UK | BBC Earth
-http://144.217.69.93:25461/nelson787/U3Fbgf3UAx/59161
-#EXTINF:-1,UK | Discovery Channel
-http://144.217.69.93:25461/nelson787/U3Fbgf3UAx/59142
-#EXTINF:-1,UK | Discovery History
-http://144.217.69.93:25461/nelson787/U3Fbgf3UAx/59141
-#EXTINF:-1,UK | Discovery Science
-http://144.217.69.93:25461/nelson787/U3Fbgf3UAx/59140
-#EXTINF:-1,Da Vinci Learning 
-http://79.133.108.13:999/udp/239.191.254.72:13343 
-
-
-
+#EXTINF:-1,NGC_VT
+http://14.247.251.15:9981/stream/channelid/748262142
+#EXTINF:-1,NGP_VT
+http://14.247.251.15:9981/stream/channelid/337400575
 #EXTINF:-1,asia travel
 http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
+
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
+http://122.146.68.116:4046/VideoInput/play.ts
+#EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_iliketot
+http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_iliketot
+http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?
+#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",DA VINCI LEARNING_VT
+http://14.247.251.15:9981/stream/channelid/222044185
+#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_VT
+http://14.247.251.15:9981/stream/channelid/1089101563
+
 #EXTINF:-1,wsci
 http://203.154.243.32:8088/live/wsci/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",NEW TV
@@ -2345,7 +2334,9 @@ https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ii/180630033425.jpg",movie24_rtmp
 rtmp://tv01.thaizatv.com/drm/movie1
 #EXTINF:-1 group-title="movies"tvg-logo="https://www.thaiptv.com/img/mhd1_1545195621.png",M-1
-https://tv01.thaizatv.com/drm/mhd_11hi/playlist.m3u8?wowzatokenendtime=1552993288&wowzatokenhash=0sLAh3ntUWI9u5FiMJVTEsDt4aRW2-MnDPO1TTEMZwA=&wowzatokenstarttime=1552989088
+https://tv01.thaizatv.com/drm/mhd_11hi/playlist.m3u8?wowzatokenendtime=1553108507&wowzatokenhash=97caUrXQgsTkwepvWZvMIJhiS4o2h70Ei288uiMoyLA=&wowzatokenstarttime=1553104307
+#EXTINF:-1 group-title="movies"tvg-logo="https://www.thaiptv.com/img/mhd1_1545195621.png",M-1
+https://tv01.thaizatv.com/drm/mhd_11hi/chunklist_w1901856157_tkd293emF0b2tlbmVuZHRpbWU9MTU1MzEwODUwNyZ3b3d6YXRva2VuaGFzaD05N2NhVXJYUWdzVGt3ZXB2V1p2TUlKaGlTNG8yaDcwRWkyODh1aU1veUxBPSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE1NTMxMDQzMDc=.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="https://www.thaiptv.com/img/movie1logo.png",Movie CH1
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="https://www.thaiptv.com/img/movie2logo.png",Movie CH2
@@ -2373,14 +2364,8 @@ http://122.38.74.172:9981/stream/channelid/816085039
 http://79.133.108.13:999/udp/239.191.254.250:15285 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
 http://185.93.3.83:5014/play/a00d
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv
-http://cdn-world.onlineott.tv:34889/ch/234445a5f28494c3ef00301672b29269
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv
-http://cdn-world.onlineott.tv:34889/ch/e2654524fec14b315da82cd13f569292
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv
-http://cdn-world.onlineott.tv:34889/ch/ba7f9381408c91835965f453315878d3
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv
-http://cdn-world.onlineott.tv:34889/ch/83751d5426f9a099103746c29197c0bd
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt
+http://2ng.ru/3sm
 
 
 #EXTINF:-1,xxx
