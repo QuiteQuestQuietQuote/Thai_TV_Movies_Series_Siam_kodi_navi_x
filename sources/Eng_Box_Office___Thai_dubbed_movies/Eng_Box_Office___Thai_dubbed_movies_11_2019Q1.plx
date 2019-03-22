@@ -201,13 +201,7 @@ date=2019-01-09
 URL=https://openload.co/f/8ZbJ8rf3WAg/Holmes.%26.Watson.720p.HDCAM.1XBET_SeeHD.mp4
 #https://openload.co/f/cIFduPEx9qY/Holmes_and_Watson_2018_720p_HDCAM.mp4
 
-type=video
-name=Vice (2018) ENG DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0NZxqQ4B8YZ6kRrZish2DPqtdi.jpg
-date=2019-01-07
-URL=https://openload.co/f/Iq_875xBRo4/The.Vice.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD.avi.mp4
-#https://openload.co/f/6WDFIgBwzu8/The.Vice.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8.avi.mp4
-#https://openload.co/f/C6oiCu1imAk/The.Vice.2018.DVDSCR.MkvCage.ws.mkv.mp4
+
 
 
 
@@ -1340,6 +1334,24 @@ URL=
 
 
 
+
+
+type=video
+name=Vice (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0NZxqQ4B8YZ6kRrZish2DPqtdi.jpg
+date=2019-03-22
+URL=https://openload.co/f/x3svTkTO2Es/vice.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/5I7OD3WFlLs/vice.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/Iq_875xBRo4/The.Vice.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD.avi.mp4
+#https://openload.co/f/6WDFIgBwzu8/The.Vice.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/C6oiCu1imAk/The.Vice.2018.DVDSCR.MkvCage.ws.mkv.mp4
+
+type=video
+name=Top Knot Detective (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l83VDS3g7ljXcJJuDheIwfW2HzZ.jpg
+date=2019-03-22
+URL=https://openload.co/f/1LVh3g_70MU/top.knot.detective.2017.1080p.bluray.x264-ghouls.mkv.mp4
+#https://openload.co/f/cw-ZreqONfY/top.knot.detective.2017.1080p.bluray.x264-ghouls.mkv
 
 type=video
 name=The Mule (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
@@ -13134,8 +13146,9 @@ URL=https://openload.co/f/iTc1aw37Eqo/Spider-Man.Into.the.Spider-Verse.2018.1080
 type=video
 name=Spider-Man: Into the Spider-Verse (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
-date=2019-03-16
-URL=https://openload.co/f/PbPIjFgwbxA/Spider-Man%3A_Into_the_Spider-Verse_%282018%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1_2019.mp4
+date=2019-03-22
+URL=https://openload.co/f/IukW9Yk3UUQ/Spider-Man%3A_Into_the_Spider-Verse_%282018%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99%3A_%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1.mp4
+#https://openload.co/f/PbPIjFgwbxA/Spider-Man%3A_Into_the_Spider-Verse_%282018%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1_2019.mp4
 #https://openload.co/f/M2gf9NZFqn4/Spider-Man%3A_Into_the_Spider-Verse_%282018%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99%3A_%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://openload.co/f/flu_Kj3f7Gs/Spider-Man%3A_Into_the_Spider-Verse_%282018%29%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%A1%E0%B8%99%3A_%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
@@ -14035,6 +14048,18 @@ name=Skyscraper (2018) [COLOR=FF00FF00]3D ENG BR 1080p[/COLOR] | TMDB-61
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
 date=2019-03-20
 URL=https://openload.co/f/rorVpaKAT_0/Skyscraper.2018.3D.HSBS.BluRay.x264-YTS.AM.mp4
+
+type=video
+name=Skyscraper (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg
+date=2019-03-20
+URL=https://openload.co/f/tTdVJN7cpmw/Skyscraper.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Fantastic Beasts: The Crimes of Grindelwald (2018) [COLOR=FF00FF00]3D ENG BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
+date=2019-03-11
+URL=https://openload.co/f/iK73cLWdQ54/Fantastic.Beasts.The.Crimes.Of.Grindelwald.2018.3D.HSBS.BluRay.x264-YTS.AM.mp4
 
 type=video
 name=The Institute (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-38
