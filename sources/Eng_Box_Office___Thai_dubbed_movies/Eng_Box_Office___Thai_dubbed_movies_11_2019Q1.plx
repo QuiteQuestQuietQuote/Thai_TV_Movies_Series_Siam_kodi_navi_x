@@ -2155,17 +2155,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AHH96n0Hav1h9PxMFhJB7dG8O
 date=2019-01-19
 URL=https://openload.co/f/fcyyDjo3Pk0/Dark.Was.the.Night.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=The Wife (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4Qyuy0Ul549f6SOdUqGvIdYKD2.jpg
-date=2019-01-19
-URL=https://openload.co/f/uKViihlPjNM/The.Wife.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/JuRM4gZw4gQ/The.Wife.2017.1080p.BR_SeeHD.mp4
-#https://openload.co/f/JB9Kjxok4TU/The.Wife.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://uptobox.com/4m68bw5v4fra    720
-#https://fruithosts.net/embed/kpqdflrosbdstlmb/THEWIFEBD72_Ganol_si_mkv_mp4
-#https://openload.pw/embed/clVVpUsFrdE/THEWIFEBD72.Ganol.si.mkv.mp4
-#https://openload.co/f/nkNknr4LTfc/The_Wife_%282018%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
+
 
 type=video
 name=The Sisters Brothers (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
@@ -3564,18 +3554,7 @@ URL=https://openload.co/f/Tzn8ARSqiuw/Tales.From.The.Hood.2.2018.1080p.BluRay.x2
 #https://openload.co/f/K0Da74T6DzI/Tales.from.the.Hood.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/BmfMnC1L500/Tales.from.the.Hood.2.2018.720p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Bel Canto (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pRvnOhFdANmdzDXfuLlZV9jwSb.jpg
-date=2018-11-08
-URL=https://uptobox.com/6mpwz24pbz4x
-#https://www.rapidvideo.com/e/FX0J9SJ3ZJ
-#https://openload.co/embed/k8FOLbUrWGs/BELCANTO80.Ganol.st.mkv.mp4
-#https://openload.co/f/BZlkY8JMt-c/Bel_Canto_%282018%291080p_BluRay_x264-CiNEFiLE.Ganool.mkv.mp4
-#https://uptobox.com/mso3r07nhpw5   720
-#https://www.rapidvideo.com/e/FX01LDF3BI   720
-#https://openload.co/embed/ZU2Y9bg1F00/BELCANTOBD72.Ganol.st.mkv
-#https://openload.co/f/2vp327RiEIs/Bel_Canto_%282018%29720p_BluRay_x264-CiNEFiLE.Ganool.mkv.mp4
+
 
 type=video
 name=The Veil (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -12353,20 +12332,7 @@ date=2019-03-16
 URL=https://openload.co/f/va4EaMDxyEs/The_Lego_Movie_2%3A_The_Second_Part_%282019%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
-type=video
-name=Kursk (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Y09MkMJ8CESSPW4fcbDm9s5cAS.jpg
-date=2019-03-12
-URL=https://openload.co/f/SMi-eD3VAGs/Kursk.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/SuikCQeLnpk/Kursk.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/UarrxjeKpfE/Kursk.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/3GXMuLqtFMU/Kursk.2018.1080p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4
-#https://openload.co/f/qFMcNABpiWQ/Kursk.2018.1080p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D_SeeHD.mkv.mp4
-type=video
-name=Kursk (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Y09MkMJ8CESSPW4fcbDm9s5cAS.jpg
-date=2019-03-16
-URL=https://openload.co/f/RPOS80x9l0Q/Kursk_%282018%29%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
 
 
 type=video
@@ -13054,7 +13020,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-02-28
+date=2019-03-23
 URL=
 
 
@@ -13062,6 +13028,72 @@ URL=
 
 
 
+
+type=video
+name=Kursk (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Y09MkMJ8CESSPW4fcbDm9s5cAS.jpg
+date=2019-03-12
+URL=https://openload.co/f/SMi-eD3VAGs/Kursk.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/SuikCQeLnpk/Kursk.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/UarrxjeKpfE/Kursk.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/3GXMuLqtFMU/Kursk.2018.1080p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/qFMcNABpiWQ/Kursk.2018.1080p.HC.HDRip.X264.AC3-EVO%5BEtHD%5D_SeeHD.mkv.mp4
+type=video
+name=Kursk (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Y09MkMJ8CESSPW4fcbDm9s5cAS.jpg
+date=2019-03-23
+URL=https://openload.co/f/zWeL5ZrLyg4/Kursk_%282018%29%E0%B8%84%E0%B8%B9%E0%B8%A3%E0%B9%8C%E0%B8%AA_%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2.mp4
+#https://openload.co/f/RPOS80x9l0Q/Kursk_%282018%29%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
+type=video
+name=The Wife (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4Qyuy0Ul549f6SOdUqGvIdYKD2.jpg
+date=2019-01-19
+URL=https://openload.co/f/uKViihlPjNM/The.Wife.2017.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/JuRM4gZw4gQ/The.Wife.2017.1080p.BR_SeeHD.mp4
+#https://openload.co/f/JB9Kjxok4TU/The.Wife.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/4m68bw5v4fra    720
+#https://fruithosts.net/embed/kpqdflrosbdstlmb/THEWIFEBD72_Ganol_si_mkv_mp4
+#https://openload.pw/embed/clVVpUsFrdE/THEWIFEBD72.Ganol.si.mkv.mp4
+#https://openload.co/f/nkNknr4LTfc/The_Wife_%282018%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
+type=video
+name=The Wife (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4Qyuy0Ul549f6SOdUqGvIdYKD2.jpg
+date=2019-03-23
+URL=https://openload.co/f/zyEoXBCinrc/The_Wife_%282018%29%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%88%E0%B8%B3.mp4
+
+
+type=video
+name=Bel Canto (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-51
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pRvnOhFdANmdzDXfuLlZV9jwSb.jpg
+date=2018-11-08
+URL=https://uptobox.com/6mpwz24pbz4x
+#https://www.rapidvideo.com/e/FX0J9SJ3ZJ
+#https://openload.co/embed/k8FOLbUrWGs/BELCANTO80.Ganol.st.mkv.mp4
+#https://openload.co/f/BZlkY8JMt-c/Bel_Canto_%282018%291080p_BluRay_x264-CiNEFiLE.Ganool.mkv.mp4
+#https://uptobox.com/mso3r07nhpw5   720
+#https://www.rapidvideo.com/e/FX01LDF3BI   720
+#https://openload.co/embed/ZU2Y9bg1F00/BELCANTOBD72.Ganol.st.mkv
+#https://openload.co/f/2vp327RiEIs/Bel_Canto_%282018%29720p_BluRay_x264-CiNEFiLE.Ganool.mkv.mp4
+type=video
+name=Bel Canto (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pRvnOhFdANmdzDXfuLlZV9jwSb.jpg
+date=2019-03-23
+URL=https://openload.co/f/lFNC69Rpkqs/Bel_Canto_%282018%29%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
+
+
+type=video
+name=The Trough (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/96N5LP4Y8d98JN3EKZFudsSjQFu.jpg
+date=2019-03-23
+URL=https://openload.co/f/-9yNfekw0Wo/The_Trough_%282018%29%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AD%E0%B8%B3%E0%B8%A1%E0%B8%AB%E0%B8%B4%E0%B8%95.mp4
+
+type=video
+name=The Bravest Escort Group (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/475nlAW0dIdelleel0sAw6aPmOu.jpg
+date=2019-03-23
+URL=https://openload.co/f/bIkepvCAe78/The_Bravest_Escort_Group_%282018%29%E0%B8%82%E0%B8%9A%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C.mp4
 
 
 type=video
