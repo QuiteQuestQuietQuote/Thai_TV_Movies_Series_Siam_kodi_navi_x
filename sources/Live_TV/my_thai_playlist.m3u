@@ -2301,14 +2301,6 @@ http://14.247.251.15:9981/stream/channelid/748262142
 http://14.247.251.15:9981/stream/channelid/337400575
 #EXTINF:-1,asia travel
 http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
-#EXTINF:-1,History 
-http://190.13.120.113/streams/history.m3u8
-#EXTINF:-1, discovery sci
-http://190.13.120.117/streams/discoveryscience.m3u8
-#EXTINF:-1, discovery civilization
-http://190.13.120.117/streams/discoverycivilization.m3u8
-#EXTINF:-1,NL: DISCOVERY SCIENCE HD
-http://62.210.90.213:8000/ttttt/ttttt/4547
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE
 http://185.27.116.54:8081/livestream/natpepole/chunks.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH
@@ -2317,8 +2309,6 @@ http://185.79.92.234:8001/1:0:1:96:19:1:FFFF0000:0:0:0
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD
 http://123.176.22.42:4022/udp/232.4.0.212:40000
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_th
-http://122.155.180.8:5021/live/440
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
 http://122.146.68.116:4046/VideoInput/play.ts
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_iliketot
@@ -2514,7 +2504,10 @@ http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 
 
 
-
+#EXTINF:-1,US: CNBC HD
+http://rocksat.ddns.net:25461/9NiB2bZrKq/ePiVusP5Gf/23713
+#EXTINF:-1,US: CNN HD
+http://rocksat.ddns.net:25461/9NiB2bZrKq/ePiVusP5Gf/23711
 
 
 
