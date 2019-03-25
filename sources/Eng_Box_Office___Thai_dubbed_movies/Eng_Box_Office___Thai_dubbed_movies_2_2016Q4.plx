@@ -1782,6 +1782,12 @@ description=In the epic fantasy, scruffy, kindhearted Kubo ekes out a humble liv
 
 # 2752617
 type=video
+name=Fathers and Daughters (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgzp7gGea27hN5d26mgKtZJQgX7.jpg
+URL=https://openload.co/f/dCJt3rCvlS4/Fathers_And_Daughters.mp4
+#https://openload.co/f/tKxGpZRmnu0/Fathers_And_Daughters.movie_3754.mp4
+#https://openload.co/f/dCJt3rCvlS4/Fathers_And_Daughters.mp4
+type=video
 name=FATHERS AND DAUGHTERS
 thumb=http://image.tmdb.org/t/p/w500/Aml9Ix7QVVANgrhURNjyVZhRg1n.jpg
 URL=https://openload.co/f/pI_DUCHat1I/%7BMINI_Super-HQ%7D_Fathers.and.Daughters.2015.1080p.BrRip.DTS.x264_NongZEZA%40CtHts.mkv.mp4
