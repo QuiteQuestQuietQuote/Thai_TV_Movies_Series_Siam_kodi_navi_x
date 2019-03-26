@@ -24,6 +24,7 @@ rating=-1.00
 
 
 
+
 type=video
 name=
 thumb=https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png
@@ -1327,7 +1328,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-03-18
+date=2019-03-26
 URL=
 
 
@@ -1336,11 +1337,88 @@ URL=
 
 
 
+
+type=video
+name=St. Agatha (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-50
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpR3FzaagWTbwgFPn1P6sEZ4str.jpg
+date=2019-03-26
+URL=https://openload.co/f/JZSx2q5ffWs/St..Agatha.2018.1080p.BluRay.x264-YTS.AM.mp4
+#https://openload.co/f/zUkVvscUNFk/St.Agatha.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Lighthouse (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-52
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdx9LkPJDQVAEAviCYIVvN6HXCV.jpg
+date=2019-03-26
+URL=https://openload.co/f/67P0VYN8chc/The.Lighthouse.2016.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Against The Night (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-53
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t28BqgsQqwsgwTge37InGTshySQ.jpg
+date=2019-03-26
+URL=https://openload.co/f/blKvcEvT2n0/Against.the.Night.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Teleios (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-48
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/56Jw3jcT0Oi8dRI2htlCQyfRlV8.jpg
+date=2019-03-26
+URL=https://openload.co/f/zTQRHhOZ6ds/Teleios.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=American Violence (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-46
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JM8wiOW0yvOyXY1zZKKiRQ1UPB.jpg
+date=2019-03-26
+URL=https://openload.co/f/Sf7Tsx55k9s/American.Violence.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=John McEnroe: In the Realm of Perfection (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-73 DOCU
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eV7MbAukcOufbV9ZP4zsguFuhTq.jpg
+date=2019-03-26
+URL=https://openload.co/f/QiMeU3TimP4/John.McEnroe.in.the.Realm.of.Perfection.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Devil's Restaurant (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-50
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/csfuL0KzwtIW77PO0TzyBpXrMyd.jpg
+date=2019-03-26
+URL=https://openload.co/f/1Wdejkcblz8/The.Restaurant.2017.1080p.BluRay.x264-GETiT.mkv.mp4
+#https://openload.co/f/K3-YFLS9XKI/The.Restaurant.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Miss Baek (2018) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-78
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWWfluzO5PM1UyWkGtC9BjQTTcp.jpg
+date=2019-03-26
+URL=https://openload.co/f/ii4syS6m7VE/Miss.Baek.2018.KOREAN.1080p.BluRay.H264.AAC-VXT.mp4
+
+type=video
+name=Modest Heroes (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jURYLaG6BX0klRHsiHc3pzOlOm.jpg
+date=2019-03-26
+URL=https://openload.co/f/t3__uQ37u_I/modest.heroes.2018.1080p.bluray.x264-jrp.mkv.mp4
+#https://openload.co/f/0M6YWYQcdaY/modest.heroes.2018.1080p.bluray.x264-jrp.mkv.mp4
+#https://openload.co/f/AlCvzQFqHZU/Modest.Heroes.2018.1080p.BluRay.x264-YTS.AM.mp4
+
+type=video
+name=The Last King (2016) [COLOR=FF00FF00]NOR BR 1080p[/COLOR] | TMDB-55
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ReVrfcWLYBN8xbI7vuPcljWT5G.jpg
+date=2019-03-26
+URL=https://openload.co/f/ppfkHUpEqRY/The.Last.King.2016.NORWEGIAN.1080p.BluRay.H264.AAC.H264.AAC-VXT.mp4
+
+type=video
+name=Abduction (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-50
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGBFFbUvTVjyy9ai2a7K8IAgQzC.jpg
+date=2019-03-26
+URL=https://openload.co/f/mYnPrOA4bRY/Abduction.2019.INTERNAL.1080p.BluRay.X264-iNVANDRAREN.mkv.mp4
+#https://openload.co/f/kwgQzahN8zI/Abduction.2019.INTERNAL.1080p.BluRay.X264-iNVANDRAREN.mkv.mp4
+#https://openload.co/f/hShm7Ep_Zg8/Abduction.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
 type=video
 name=Vice (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0NZxqQ4B8YZ6kRrZish2DPqtdi.jpg
 date=2019-03-22
 URL=https://openload.co/f/x3svTkTO2Es/vice.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/xTTZe9WsPLg/Vice.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/HIt88yYtBnU/Vice.2018.1080p.BluRay.x264-YTS.AM.mp4
+#https://openload.co/f/3L2P_JeYTRg/Vice.2018.1080p.BRRip.x264-MkvCage.mkv.mp4
+#https://openload.co/f/G_Wi2DGXfFI/Vice.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/5I7OD3WFlLs/vice.2018.1080p.bluray.x264-geckos.mkv.mp4
 #https://openload.co/f/Iq_875xBRo4/The.Vice.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD.avi.mp4
 #https://openload.co/f/6WDFIgBwzu8/The.Vice.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8.avi.mp4
@@ -1351,13 +1429,17 @@ name=Top Knot Detective (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-69
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l83VDS3g7ljXcJJuDheIwfW2HzZ.jpg
 date=2019-03-22
 URL=https://openload.co/f/1LVh3g_70MU/top.knot.detective.2017.1080p.bluray.x264-ghouls.mkv.mp4
+#https://openload.co/f/5fIIxEDPScw/Top.Knot.Detective.2017.1080p.BluRay.x264-GHOULS.mkv.mp4
+#https://openload.co/f/_OLaMigKH6M/top.knot.detective.2017.1080p.bluray.x264-ghouls.mkv.mp4
 #https://openload.co/f/cw-ZreqONfY/top.knot.detective.2017.1080p.bluray.x264-ghouls.mkv
+
 
 type=video
 name=The Mule (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0idiLMalKMj2pLsvqHrOM4LPdQ.jpg
 date=2019-03-20
 URL=https://openload.co/f/d02T1t61yXk/The.Mule.2018.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/_XkTyTLgAUY/The.Mule.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/xKsY2NsiJz4/the.mule.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/Niz8bC6uPvI/The.Mule.2018.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/rXSZ-eS7wz0/The.Mule.2018.1080p.BRRip.x264-MkvCage.mkv.mp4
@@ -1446,6 +1528,7 @@ name=Free Solo (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-81 DOCU
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQZ4T3638UIZS7JV1SLTdqPmezx.jpg
 date=2019-03-18
 URL=https://openload.co/f/6o0iOWzbduQ/free.solo.2018.limited.1080p.bluray.x264-cadaver.mkv.mp4
+#https://openload.co/f/PqsIm3w1dWk/Free.Solo.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=London Fields (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-54
@@ -1569,14 +1652,16 @@ name=The Clovehitch Killer (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NmsbUJqnopbnLun2E4KvtVNj8T.jpg
 date=2019-03-11
 URL=https://openload.co/f/sNlXL2t1jYY/The.Clovehitch.Killer.2018.1080p.BluRay.x264-SADPANDA.mkv.mp4
+#https://openload.co/f/pmUL9Vasu3I/The.Clovehitch.Killer.2018.1080p.BluRay.x264-YTS.AM.mp4
 #https://openload.co/f/dyM_pv3fYN8/The.Clovehitch.Killer.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/B1vKZSHyU5s/The.Clovehitch.Killer.2018.1080p.BluRay.x264-SADPANDA.mkv.mp4
 
 type=video
 name=Possum (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QOFKSpE7KacBriU95fxG6hmmvr.jpg
-date=2019-03-11
-URL=https://openload.co/f/lElC5QO7LJs/Possum.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2019-03-26
+URL=https://openload.co/f/OQwKDkjyuOk/Possum.2018.1080p.BluRay.x264-YTS.AM.mp4
+#https://openload.co/f/lElC5QO7LJs/Possum.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Don't Go (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
@@ -1589,6 +1674,7 @@ name=Welcome to Mercy (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CBEK6D28TCCYLfEXYjfkr2TaiK.jpg
 date=2019-03-11
 URL=https://openload.co/f/FrDBNDiCwU4/Welcome.to.Mercy.2018.1080p.BluRay.x264-SADPANDA.mkv.mp4
+#https://openload.co/f/K4CCmj88cM0/Welcome.To.Mercy.2018.1080p.BluRay.x264-YTS.AM.mp4
 #https://openload.co/f/Du8sLzLu1co/Welcome.to.Mercy.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/u1H5luBkkl4/Welcome.to.Mercy.2018.1080p.BluRay.x264-SADPANDA.mkv.mp4
 
@@ -1597,6 +1683,7 @@ name=Tyrel (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-74
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikWgwqBoD59pvXAYNzpIw54UpIa.jpg
 date=2019-03-11
 URL=https://openload.co/f/jtOIhBCQNyk/Tyrel.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/nM2RXB7SUms/Tyrel.2018.1080p.BluRay.x264-YTS.AM.mp4
 #https://openload.co/f/0dGkUqShr2I/Tyrel.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
@@ -1618,6 +1705,7 @@ name=The Conductor (2018) [COLOR=FF00FF00]DUT BR 1080p[/COLOR] | TMDB-83
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMND7RVCyke2m2TCZeTviKbBIki.jpg
 date=2019-03-11
 URL=https://openload.co/f/YB5Mr5BdsL0/The.Conductor.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/H1HoOJ9dab0/The.Conductor.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/LMi7TzmrTjM/The.Conductor.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
@@ -9412,29 +9500,15 @@ date=2019-02-28
 URL=https://openload.co/f/89D8pgUT85k/Paddleton_%282019%29%E0%B9%81%E0%B8%9E%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%95%E0%B8%B1%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
-type=video
-name=The Possession of Hannah Grace (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-50
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDDb0H0uJp2wjoJBbBHbKlYRbug.jpg
-date=2019-02-28
-URL=https://openload.co/f/HuIe-gczS2s/the.possession.of.hannah.grace.2018.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/o7A5SOgONJY/The.Possession.of.Hannah.Grace.2018.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/YrZ3AswDIUc/The.Possession.of.Hannah.Grace.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
-#https://openload.co/f/Tqgw_xUsDrs/The.Possession.of.Hannah.Grace.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/HuIe-gczS2s/the.possession.of.hannah.grace.2018.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/3axGLwH9PWI/The_Possession_of_Hannah_Grace.2019.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/8STRsbaq3Eo/The_Possession_of_Hannah_Grace_2018_720p_HDCAM-1XBET_SeeHD.mp4
-type=video
-name=The Possession of Hannah Grace (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDDb0H0uJp2wjoJBbBHbKlYRbug.jpg
-date=2019-02-23
-URL=https://openload.co/f/4LaH2fFKlcU/The_Possession_of_Hannah_Grace_%282018%29The_Possession_of_Hannah_Grace_%282018%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
 
 
 type=video
 name=The Standoff at Sparrow Creek (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCyDJGQ54vcCclNqa6nLcSqH3DQ.jpg
-date=2019-03-11
-URL=https://openload.co/f/RbQuUzoKcEc/The.Standoff.at.Sparrow.Creek.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2019-03-26
+URL=https://openload.co/f/NFLVxQouv5w/The.Standoff.At.Sparrow.Creek.2018.1080p.BluRay.x264-YTS.AM.mp4
+#https://openload.co/f/RbQuUzoKcEc/The.Standoff.at.Sparrow.Creek.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 type=video
 name=The Standoff at Sparrow Creek (2019) THSUB
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCyDJGQ54vcCclNqa6nLcSqH3DQ.jpg
@@ -12347,7 +12421,7 @@ name=The Quake (2018) [COLOR=FF00FF00]NOR BR 1080p[/COLOR] | TMDB-69
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA5MVaNWe76EjuXn4FqkeaHDPuj.jpg
 date=2019-02-28
 URL=https://openload.co/f/v2iLC9ryYs8/The.Quake.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
-#
+#https://openload.co/f/8Li5fQZN324/The.Quake.2019.720p.BDRip.X264.AC3-EVO_SeeHD.mkv
 #https://openload.co/f/8Li5fQZN324/The.Quake.2019.720p.BDRip.X264.AC3-EVO_SeeHD.mkv   MKV2.4GB
 type=video
 name=The Quake (2018) THCAM SOUND
@@ -12438,27 +12512,7 @@ URL=https://openload.co/f/j8K6L8dSxMU/Dragon_Ball_Super%3A_Broly_%282018%29%E0%B
 #https://openload.co/f/3rk3bimwTRI/Dragon_Ball_Super%3A_Broly_%282018%29%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A5_%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%A5%E0%B8%B5%E0%B9%88_2019_Thai%28C%29_HD
 
 
-type=video
-name=Bumblebee (2018) ENG 1080p.HC.HDRip.X264.AC3-EVO_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
-date=2019-01-18
-URL=https://openload.co/f/-hW_Y3jnFKI/Bumblebee.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/Jb1bb6y6yOs/Bumblebee.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
-#https://openload.co/f/dxx3gkmIHWQ/Bumblebee.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv   MKV3.2GB
-#https://openload.co/f/PTq_DPeSIL8/Bumblebee.2018.TC.HDM8.mp4
-#https://openload.co/f/zyG2hkrwzro/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_X264_SugarTits_SeeHD.mkv.mp4
-#https://openload.co/f/1iOQqwFhUjA/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_X264_SugarTits_SeeHD.mkv   MKV2.4GB
-#https://openload.co/f/sP15gNQ2QtQ/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD.mp4
-#https://openload.co/f/bXbPDliWIww/Bumblebee.2018.CAM.X264-MrTaco.mkv.mp4
-#https://openload.co/f/pzUifM0ZNTY/Bumblebee_2018_720p_HDCAM_ENG_SUB_ORCA88_SeeHD.mp4
-#https://openload.co/f/sFhmjyX2ynM/Bumblebee_2018_720p_HDCAM_ENG_SUB-ORCA88_SeeHD.mp4
-type=video
-name=Bumblebee (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
-date=2019-01-23
-URL=https://openload.co/f/7wWbt11mNJE/Bumblebee_%282018%29%E0%B8%9A%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9A%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87_V.2%29
-#https://openload.co/f/utsX-ikdiqg/Bumblebee_%282018%29%E0%B8%9A%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9A%E0%B8%B5_2018_Thai%28C%29_HD
-#https://openload.co/f/T5rvBo038Xs/Bumblebee_%282018%29%E0%B8%9A%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9A%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 type=video
@@ -13030,6 +13084,54 @@ URL=
 
 
 type=video
+name=The Possession of Hannah Grace (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-50
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDDb0H0uJp2wjoJBbBHbKlYRbug.jpg
+date=2019-02-28
+URL=https://openload.co/f/HuIe-gczS2s/the.possession.of.hannah.grace.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/o7A5SOgONJY/The.Possession.of.Hannah.Grace.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/YrZ3AswDIUc/The.Possession.of.Hannah.Grace.2018.1080p.BRRip.x264.MkvCage.ws.mkv.mp4
+#https://openload.co/f/Tqgw_xUsDrs/The.Possession.of.Hannah.Grace.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/HuIe-gczS2s/the.possession.of.hannah.grace.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/3axGLwH9PWI/The_Possession_of_Hannah_Grace.2019.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/8STRsbaq3Eo/The_Possession_of_Hannah_Grace_2018_720p_HDCAM-1XBET_SeeHD.mp4
+type=video
+name=The Possession of Hannah Grace (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDDb0H0uJp2wjoJBbBHbKlYRbug.jpg
+date=2019-03-26
+URL=https://openload.co/f/v3e_COycxSQ/The_Possession_of_Hannah_Grace_%282018%29The_Possession_of_Hannah_Grace_%28Cadaver%29_2018.mp4
+#https://openload.co/f/4LaH2fFKlcU/The_Possession_of_Hannah_Grace_%282018%29The_Possession_of_Hannah_Grace_%282018%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Bumblebee (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
+date=2019-03-26
+URL=https://openload.co/f/bfqpyLX6MFQ/Bumblebee.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/SD6UMz_c8Ss/Bumblebee.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/_mG4-TUm6qQ/Bumblebee.2018.1080p.BRRip.x264-MkvCage.mkv.mp4
+#https://openload.co/f/pEhjU34fHlc/Bumblebee.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/bh87y4YD8eo/Bumblebee.2018.1080p.BluRay.x264-YTS.AM.mp4
+#https://openload.co/f/-hW_Y3jnFKI/Bumblebee.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/Jb1bb6y6yOs/Bumblebee.2018.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
+#https://openload.co/f/dxx3gkmIHWQ/Bumblebee.2018.1080p.HC.HDRip.X264.AC3-EVO_SeeHD.mkv   MKV3.2GB
+#https://openload.co/f/PTq_DPeSIL8/Bumblebee.2018.TC.HDM8.mp4
+#https://openload.co/f/zyG2hkrwzro/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_X264_SugarTits_SeeHD.mkv.mp4
+#https://openload.co/f/1iOQqwFhUjA/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_X264_SugarTits_SeeHD.mkv   MKV2.4GB
+#https://openload.co/f/sP15gNQ2QtQ/Bumblebee_2018_NEW_SOURCE_720p_HDCAM_ENG-1XBET_SeeHD.mp4
+#https://openload.co/f/bXbPDliWIww/Bumblebee.2018.CAM.X264-MrTaco.mkv.mp4
+#https://openload.co/f/pzUifM0ZNTY/Bumblebee_2018_720p_HDCAM_ENG_SUB_ORCA88_SeeHD.mp4
+#https://openload.co/f/sFhmjyX2ynM/Bumblebee_2018_720p_HDCAM_ENG_SUB-ORCA88_SeeHD.mp4
+type=video
+name=Bumblebee (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
+date=2019-03-26
+URL=https://openload.co/f/LBOYeENZReU/Bumblebee_%282018%29%E0%B8%9A%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9A%E0%B8%B5.mp4
+#https://openload.co/f/7wWbt11mNJE/Bumblebee_%282018%29%E0%B8%9A%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9A%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87_V.2%29
+#https://openload.co/f/utsX-ikdiqg/Bumblebee_%282018%29%E0%B8%9A%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9A%E0%B8%B5_2018_Thai%28C%29_HD
+#https://openload.co/f/T5rvBo038Xs/Bumblebee_%282018%29%E0%B8%9A%E0%B8%B1%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9A%E0%B8%B5_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
 name=Kursk (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Y09MkMJ8CESSPW4fcbDm9s5cAS.jpg
 date=2019-03-12
@@ -13041,8 +13143,9 @@ URL=https://openload.co/f/SMi-eD3VAGs/Kursk.2018.1080p.BluRay.x264-%5BYTS.AM%5D.
 type=video
 name=Kursk (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Y09MkMJ8CESSPW4fcbDm9s5cAS.jpg
-date=2019-03-23
-URL=https://openload.co/f/zWeL5ZrLyg4/Kursk_%282018%29%E0%B8%84%E0%B8%B9%E0%B8%A3%E0%B9%8C%E0%B8%AA_%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2.mp4
+date=2019-03-26
+URL=https://openload.co/f/uhQFKz0DO0A/Kursk_%282018%29%E0%B8%84%E0%B8%B9%E0%B8%A3%E0%B9%8C%E0%B8%AA_%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2.mp4
+#https://openload.co/f/zWeL5ZrLyg4/Kursk_%282018%29%E0%B8%84%E0%B8%B9%E0%B8%A3%E0%B9%8C%E0%B8%AA_%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2.mp4
 #https://openload.co/f/RPOS80x9l0Q/Kursk_%282018%29%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
@@ -13094,6 +13197,7 @@ name=The Bravest Escort Group (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/475nlAW0dIdelleel0sAw6aPmOu.jpg
 date=2019-03-23
 URL=https://openload.co/f/bIkepvCAe78/The_Bravest_Escort_Group_%282018%29%E0%B8%82%E0%B8%9A%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C.mp4
+#https://openload.co/f/AX3FX7rzjy4/The_Bravest_Escort_Group_%282018%29%E0%B8%82%E0%B8%9A%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C_2018.mp4
 
 
 type=video
@@ -13288,8 +13392,9 @@ URL=https://openload.co/f/z1lMx9crQ7o/Shoplifters_%282018%29%E0%B8%84%E0%B8%A3%E
 type=video
 name=Fantastic Beasts: The Crimes of Grindelwald (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
-date=2019-03-11
-URL=https://openload.co/f/RPFPYhOIQ2M/Fantastic.Beasts.The.Crimes.Of.Grindelwald.2018.1080p.BluRay.x264-BLOW.mkv.mp4
+date=2019-03-26
+URL=https://openload.co/f/NW49XNbB6II/Fantastic.Beasts.The.Crimes.Of.Grindelwald.2018.RERiP.EXTENDED.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+#https://openload.co/f/RPFPYhOIQ2M/Fantastic.Beasts.The.Crimes.Of.Grindelwald.2018.1080p.BluRay.x264-BLOW.mkv.mp4
 #https://openload.co/f/wkC_7XU_8iQ/Fantastic.Beasts.The.Crimes.Of.Grindelwald.2018.EXTENDED.1080p.BluRay_SeeHD.mp4
 #https://openload.co/f/D_OR5rmClvA/Fantastic.Beasts.The.Crimes.Of.Grindelwald.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/_RVfLhd0IyI/Fantastic.Beasts.The.Crimes.Of.Grindelwald.2018.EXTENDED.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -14054,8 +14159,10 @@ URL=
 type=video
 name=
 thumb=
-date=2019-03-20
+date=2019-03-26
 URL=
+
+
 
 
 
@@ -14192,8 +14299,10 @@ URL=https://openload.co/f/Ptzo_uqUHz8/Wolf.1994.PROPER.1080p.BluRay.H264.AAC-RAR
 type=video
 name=Pet Sematary (1989) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zUax4pjRgoPIJla9CQejqNJofB.jpg
-date=2019-02-10
-URL=https://openload.co/f/PNdJSHu2R-0/Pet.Sematary.1989.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+date=2019-03-26
+URL=https://openload.co/f/VviG92gThnI/Pet.Sematary.1989.REMASTERED.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/OaSHtryBK3w/Pet.Sematary.1989.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/PNdJSHu2R-0/Pet.Sematary.1989.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
 name=Hell or High Water (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73

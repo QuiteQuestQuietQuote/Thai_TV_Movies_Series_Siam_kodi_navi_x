@@ -2300,14 +2300,23 @@ http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History
 http://91.90.253.66:8080/CH620_std/index.m3u8
 
-#EXTINF:-1,|UK| E!
-http://iptvpro.vision-new.org:8789/kadi/kadi1234/2810
-#EXTINF:-1,Da_vinci
-http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
-#EXTINF:-1,Da_vinci_learning
-http://stream.euroasia.lfstrm.tv/da_vinci_learning/1/index.m3u8
-#EXTINF:-1,Da_vinci
-http://193.95.228.94:9981/stream/channelid/1472094343?profile=pass
+
+#EXTINF:-1,DIY
+http://super1.ideaiptv.com:8000/ali/123456/3990
+#EXTINF:-1,Asia TV HD
+http://188.35.9.28:8031/udp/108o
+#EXTINF:-1,Da Vinci Learning 
+http://46.23.159.77:81/udp/239.1.5.6:1234 
+#EXTINF:-1,Da Vinchi Learning 
+http://5.100.105.60:4022/udp/224.3.24.26:1234 
+#EXTINF:-1,Da Vinchi Learning 
+http://5.100.105.60:4022/udp/224.3.24.27:1234 
+#EXTINF:-1,Da Vinchi Learning 
+http://5.100.105.60:4022/udp/224.3.24.28:1234 
+#EXTINF:-1,Da Vinci 
+http://37.192.45.173:81/udp/239.1.5.6:1234 
+#EXTINF:-1,KAS
+http://109.248.236.41:4433/udp/238.1.1.12:1234
 
 #EXTINF:-1,NGC_VT
 http://14.247.251.15:9981/stream/channelid/748262142
@@ -2333,10 +2342,6 @@ http://122.146.68.116:4046/VideoInput/play.ts
 http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_iliketot
 http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?
-#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",DA VINCI LEARNING_udp_vn
-http://183.80.103.188:4022/udp/225.1.2.253:30120
-#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_udp_vn
-http://118.70.125.236:8889/udp/225.1.2.98:30120
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",DA VINCI LEARNING_VT
 http://14.247.251.15:9981/stream/channelid/222044185
 #EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_VT
@@ -2378,13 +2383,13 @@ https://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-
 http://122.38.74.172:9981/stream/channelid/1086640851 
 #EXTINF:-1,MIDNIGHT
 http://122.38.74.172:9981/stream/channelid/339312133 
-#EXTINF:-1,PLAYOY
-http://122.38.74.172:9981/stream/channelid/966306501 
+#EXTINF:-1,PLAYBOY
+http://122.38.74.172:9981/stream/channelid/966306501.m3u8
 #EXTINF:-1,VIKI
 http://122.38.74.172:9981/stream/channelid/798964177 
 #EXTINF:-1,honey
 http://122.38.74.172:9981/stream/channelid/1463854277 
-#EXTINF:-1,Desike
+#EXTINF:-1,Desire
 http://122.38.74.172:9981/stream/channelid/816085039 
 
 
@@ -2398,8 +2403,6 @@ http://2ng.ru/3sm
 
 #EXTINF:-1,xxx
 http://v2.myowntv.org/content/35636/index.m3u8?seg-2422-v1-a1.m3u
-#EXTINF:-1,Hantai
-http://topita.ddns.net:25461/andreasant/vmjKyFYRzl/4
 #EXTINF:-1,redtraffic_teen
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1,redtraffic_pornstar
@@ -2419,7 +2422,7 @@ rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 #EXTINF:-1,SonSee_ts
 http://adultlive-faintv.cdn.hinet.net/live_HLS/A080.stream/media-u7357rhsk_19747.ts
 #EXTINF:-1,SonSee TV4
-http://pili-live-hls.xiandantv.com/xdtv-live/ztxw.m3u8
+http://live.zhibo.news.cn:1935/live/J2rrttbb6666777wss/playlist.m3u8
 #EXTINF:-1,SonSee TV_php
 http://185.216.119.139:2015/ftvs.php?channelid=55a8b751a960e4dc08d211dd&channeltype=1
 #EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",JAV_6_SonSee TV
@@ -2490,10 +2493,10 @@ http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329
 http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 
 
+
 #EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS
-http://193.95.228.94:9981/stream/channelid/374753214?profile=pass
-#EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS_php
-http://live.xocs.ren/gzcbn.php?id=bbc
+http://1.230.255.66:9981/stream/channelid/521869881
+
 #EXTINF:-1 group-title="docu" tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/02/CGTN_Documentary_logo-1.png",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://america.cgtn.com/wp-content/uploads/2016/12/af61fb95-f5cb-418b-b24a-61c6b1991dd4-640x640.jpg",CGTN
@@ -2523,12 +2526,10 @@ http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 
 
 
+#EXTINF:-1,CNBC
+http://5.254.66.150:25461/adel2018/adel2018/3761
 
 
-#EXTINF:-1,VIP USA: FOX BUSINESS FHD
-http://dmtn.tv:8080/0V0LZzG8IT/KPTfuiz0AK/54819
-#EXTINF:-1,VIP USA: CNBC HD
-http://dmtn.tv:8080/0V0LZzG8IT/KPTfuiz0AK/34662
 
 
 
