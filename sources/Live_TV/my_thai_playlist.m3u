@@ -2303,90 +2303,32 @@ http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History
 http://91.90.253.66:8080/CH620_std/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History_persik
-http://persik.by/stream/5532/394129/902.m3u8
 
 
-#EXTINF:-1,Da Vinci Learning 
-http://94.125.53.197:999/udp/239.191.254.72:13343 
-#EXTINF:-1,Da Vinci Learning 
-http://134.255.147.102:81/udp/239.255.0.60:1234 
-#EXTINF:-1,Da Vinci Learning 
-http://79.133.127.16:999/udp/239.191.254.72:13343 
+
+#EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_TW
+http://61.58.60.194:9000/live/18ch.m3u8
+#EXTINF:-1,Da Vinci 
+http://37.192.48.45:81/udp/239.1.5.6:1234 
+
+#EXTINF:-1,ASIAN FOOD CHANNEL
+http://14.182.213.90:8889/rtp/232.84.1.115:10236
 #EXTINF:-1,ASIAN FOOD CHANNEL HD
 http://14.182.213.90:8889/rtp/232.84.2.129:9570
 #EXTINF:-1,DA VINCI LEARNING HD
 http://14.182.213.90:8889/rtp/232.84.2.131:9582
 #EXTINF:-1,DISCOVERY ASIA
 http://14.182.213.90:8889/rtp/232.84.2.53:10528
-#EXTINF:-1,DISCOVERY CHANNEL
-http://14.182.213.90:8889/rtp/232.84.1.47:8262
-#EXTINF:-1,NAT GEO PEOPLE HD
-http://14.182.213.90:8889/rtp/232.84.1.76:8430
 #EXTINF:-1,Da Vinci Learning
 http://14.182.213.90:8889/rtp/232.84.1.108:10224
 #EXTINF:-1,Nat Geo People
 http://14.182.213.90:8889/rtp/232.84.2.121:8376
-#EXTINF:-1,US DISCOVERY SCIENCE HD
-http://0123.premu.us:7571/4N600gLwfd/gHKFFXI4Ks/34575
-#EXTINF:-1,US E! Network HD
-http://0123.premu.us:7571/4N600gLwfd/gHKFFXI4Ks/34570
-#EXTINF:-1,UK Brit Asia
-http://0123.premu.us:7571/4N600gLwfd/gHKFFXI4Ks/34762
-#EXTINF:-1,UK Discovery History UK
-http://0123.premu.us:7571/4N600gLwfd/gHKFFXI4Ks/16578
-#EXTINF:-1,UK Discovery Science UK
-http://0123.premu.us:7571/4N600gLwfd/gHKFFXI4Ks/16576
-#EXTINF:-1,UK E!
-http://0123.premu.us:7571/4N600gLwfd/gHKFFXI4Ks/34809
-#EXTINF:-1,ASIAN FOOD CHANNEL
-http://1.53.94.151:8889/udp/225.1.2.9:30120
-http://1.53.94.151:8889/udp/225.1.2.9:30120
-#EXTINF:-1,ASIAN FOOD CHANNEL HD
-http://1.53.94.151:8889/udp/225.1.1.198:30120
-#EXTINF:-1,ASIAN FOOD CHANNEL HD
-http://1.53.94.151:8889/udp/225.1.2.98:30120
-#EXTINF:-1,BBC EARTH
-http://1.53.94.151:8889/udp/225.1.2.24:30120
-#EXTINF:-1,BBC LIFESTYLE
-http://1.53.94.151:8889/udp/225.1.2.52:30120
-#EXTINF:-1,Da Vinci Learning HD
-http://1.53.94.151:8889/udp/225.1.1.197:30120
-#EXTINF:-1,Da Vinci Learning HD
-http://1.53.94.151:8889/udp/225.1.2.253:30120
-#EXTINF:-1,Discovery Asia HD
-http://1.53.94.151:8889/udp/225.1.2.222:30120
-#EXTINF:-1,Discovery Asia HD
-http://1.53.94.151:8889/udp/225.1.2.223:30120
-#EXTINF:-1,BBC Earth (HD 4Mbps)
-http://1.53.94.151:8889/udp/225.1.2.25:30120
-#EXTINF:-1,afc asian food channel (FPT Play)
-http://1.53.94.151:8889/udp/225.1.4.36:30120
-#EXTINF:-1,BBC earth (FPT Play)
-http://1.53.94.151:8889/udp/225.1.4.21:30120
-#EXTINF:-1,BBC lifestyle (FPT Play)
-http://1.53.94.151:8889/udp/225.1.4.23:30120
-#EXTINF:-1,Da Vinci/DIVA??? (FPT Play)
-http://1.53.94.151:8889/udp/225.1.4.38:30120
-#EXTINF:-1,DISCOVERY asia. (HD) (FPT Play)
-http://1.53.94.151:8889/udp/225.1.4.25:30120
-#EXTINF:-1,DISCOVERY CHANNEL (FPT Play)
-http://1.53.94.151:8889/udp/225.1.4.24:30120
-#EXTINF:-1,true
-http://sharelink.website/iptv.php
-#EXTINF:-1,true
-http://server2.nowonsocmed.com:8080/abed/abed123xx/145984
-#EXTINF:-1,travel+adven
-http://195.189.60.253/083/index.m3u8
+
 
 
 
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_VN_php
 http://sv.tvmienphi.net/miplusr2.php?id=davinci&token=fZ_7ap8y5cHXF1u1ED3aCg&time=1553797064
-#EXTINF:-1,NGC_VT
-http://14.247.251.15:9981/stream/channelid/748262142
-#EXTINF:-1,NGP_VT
-http://14.247.251.15:9981/stream/channelid/337400575
 #EXTINF:-1,asia travel
 http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE
@@ -2397,8 +2339,6 @@ http://79.119.107.49:8001/1:0:1:78B7:2C5:600:E080000:0:0:0:
 http://85.66.46.167:8001/1:0:1:77F2:2C3:600:E080000:0:0:0:
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH
 http://185.79.92.234:8001/1:0:1:96:19:1:FFFF0000:0:0:0
-#EXTINF:-1,Spektrum
-http://85.66.46.167:8001/1:0:1:759F:2BD:600:E080000:0:0:0:
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH
 http://185.132.134.76:8080/iRCcIIWu4M/MzHdwFdqzD/143751?token=SkdcWEsKFl9DVgFcVwYBAQcGA1JSVgUCBlZUUQNQAFEIUVFbAFtRBwVDG0cSFkQGA1xrDwFHCFBRV1FUBkkUQkIARmZRBhZfQ1AGXFFQBkFOE0APCAAQW1RRU1IAUQEHCVEYG0gLUEdbQw9dUUAaQQdJQAMXC1MNOgADF14GUxULC0FVVE4WCg8+UwAMA1gHQAsWVkdJEAgWFERbFSRbVkMQQEwYNlEGCQ9YCQ4FT0MuRVBIR0kQAwwQFABDABQNE1wHDA1AGEcCDkILFRBPQVgTdjxHSRAEHRADD0QMWVkTXxZNS0AYRwgSaBcEEUIRB1BZAxdHCENVRkpDWgROaFIKWlddAUAMDg9ER1tAB0FOE1kJCwxGDhc7FghTRwwVA10FCA1ASQ==
@@ -2412,8 +2352,6 @@ http://122.146.68.116:4046/VideoInput/play.ts
 http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_iliketot
 http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?
-#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_iliketot_wms
-http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDE4IDY6NTg6MDMgUE0maGFzaF92YWx1ZT1PejVoL3ZsbkxmeGt4MTNCWXp4Z0Z3PT0mdmFsaWRtaW51dGVzPTImaWQ9Q2hveXw4MDR8aXB0dmhlcm98MTUyOTk1MzA4M3wxMTkuNzYuMTUyLjM=
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",DA VINCI LEARNING_VT
 http://14.247.251.15:9981/stream/channelid/222044185
 #EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_VT
@@ -2495,6 +2433,8 @@ http://122.38.74.172:9981/stream/channelid/816085039
 rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 #EXTINF:-1,SonSee TV4
 http://live.zhibo.news.cn:1935/live/J2rrttbb6666777wss/playlist.m3u8
+#EXTINF:-1,SonSee TV3_php
+http://185.216.119.139:2015/ftvs.php?channelid=5795c5a5326d2e110eca080e&channeltype=1
 #EXTINF:-1,SonSee TV2_php
 http://185.216.119.139:2015/ftvs.php?channelid=55a8b774a960e4dc08d211de&channeltype=1
 #EXTINF:-1,SonSee TV1_php
@@ -2604,8 +2544,7 @@ http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 
 
 
-#EXTINF:-1,US CNBC
-http://0123.premu.us:7571/4N600gLwfd/gHKFFXI4Ks/16668
+
 
 
 

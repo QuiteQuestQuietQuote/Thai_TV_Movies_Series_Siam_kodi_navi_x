@@ -1834,21 +1834,7 @@ URL=https://openload.co/f/lQbBPjy8_1g/Vox.Lux.2018.LIMITED.1080p.BluRay.x264-DRO
 #https://openload.co/f/LUVGXdBDdY8/Vox.Lux.2018.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/5i-8nRBlViM/Vox.Lux.2018.1080p.BR_SeeHD.mp4
 
-type=video
-name=Green Book (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-84
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h70wRv6iWxiqED4orqfxcEl74Rc.jpg
-date=2019-03-11
-URL=https://openload.co/f/lJjApYhOM0g/green.book.2018.1080p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/jdtBJppokd0/green.book.2018.1080p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/x-0Ya41ynsA/Green.Book.2018.1080p.BluRay.10bit.HEVC.6CH.MkvCage.ws.mkv.mp4
-#https://openload.co/f/cPc9XNQERxo/Green.Book.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/WfbiVsSyqEc/Green.Book.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/7q4fGBAzuNQ/Green.Book.2018.1080p.BRRip.x264.6CH.MkvCage.ws.mkv.mp4
-#https://openload.co/f/nGVSLofHIG4/Green.Book.2018.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/Rn9Jg8scXhI/Green.Book.2019.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/vreYvkdZwUw/Green.Book.2018.720p.WEB-DL-1XBET.mp4
-#https://openload.co/f/-EfF4j1Jzsk/Green.Book.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD.avi.mp4
-#https://openload.co/f/4sowR_BsZHM/Green.Book.2018.DVDSCR.MkvCage.mkv.mp4
+
 
 type=video
 name=Ben Is Back (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
@@ -1858,17 +1844,7 @@ URL=https://openload.co/f/uz7XAvJZilI/Ben.Is.Back.2018.1080p.BluRay.x264-DRONES.
 #https://openload.co/f/OC0QPmaCdGg/Ben.Is.Back.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/egb3wGEn-iQ/Ben.is.Back.2019.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 
-type=video
-name=The Favourite (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-77
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hgPWxYeGWtTEx9BPhUo99wj77z.jpg
-date=2019-02-28
-URL=https://openload.co/f/B760stPOxkw/the.favourite.2018.1080p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/JYfmotFiLOw/the.favourite.2018.1080p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/HUHV_zKnwUQ/The.Favourite.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/uyDuB_SG8rY/The.Favourite.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/PwDmkMVxi5g/The_Favourite.2019.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/a8kpzFgxC6k/The.Favourite.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD.avi.mp4
-#https://openload.co/f/tO61lO0I6KI/The.Favourite.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8.avi.mp4
+
 
 type=video
 name=Instant Family (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-75
@@ -5824,28 +5800,7 @@ date=2018-05-15
 URL=https://openload.co/f/aypEMCKHVY8/Kaleidoscope.2016.1080p.BRRip.x264.AC3-eSc.mp4
 #https://openload.co/f/BYERsT0WCKA/Kaleidoscope.2016.720p.BRRip.x264.AAC-eSc.mp4
 
-type=video
-name=Early Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugw07fJIZMVrrIGeN1MO7Xecj5h.jpg
-date=2018-05-16
-URL=https://www.blazefile.co/embed-59d4g8qkkyyy.html
-#http://uptobox.com/8c7vwbq6xw7q
-#https://openload.co/f/HxeCw8IbE1c/Early_Man_%282018%291080p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
-#https://openload.co/f/YKOya-W_QXk/Early.Man.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/eidWhbG5Y7I/Early.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://www.blazefile.co/embed-5w7obmg8qhcg.html   720
-#http://uptobox.com/j7gdk4y0niw1   720
-#https://openload.co/f/sMpII_K4bug/Early_Man_%282018%29720p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
-#https://openload.co/f/eidWhbG5Y7I/Early.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/JB1CN4mXV5I/early.man.2018.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/iLwwrlMsEOk/early.man.2018.720p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/lzgrbsqs8zo/Early.Man.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/mxYhm6yavGw/Early_Man.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/YGlkgbDb3sY/Early.Man.2018.1080p.READNFO.HDRip.X264.AC3-EVO.mkv.mp4
-#https://openload.co/f/Nt0YWa-SJko/Early_Man.2018.READNFO.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://openload.co/f/04Hs5gzlZAo/Early_Man_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/P3L0Og4nEbU/Early_Man_2018_NEW_HDCAM_SeeHD.avi.mp4
-#https://openload.co/f/pfbH4MrvDH4/Early_Man_2018_HDCAM_Eng_SeeHD.mkv.mp4
+
 
 type=video
 name=Naples in Veils (2017) [COLOR=FF00FF00]ITA BR 1080p[/COLOR]
@@ -6461,16 +6416,7 @@ URL=https://openload.co/f/UVWUzRVruHw/the.thousand.faces.of.dunjia.2017.1080p.bl
 #https://www.blazefile.co/embed-58gwslrf01fm.html   720
 #https://uptobox.com/rxpltrdvri5x   720
 
-type=video
-name=Acts of Violence (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg
-date=2018-03-16
-URL=https://openload.co/f/Y-6vmjxktfU/Acts.of.Violence.2018.1080p.BluRay.x264-PSYCHD.mkv.mp4
-#https://openload.co/f/KjvgVrjWnTs/Acts.of.Violence.2018.BluRay.720p.x264.DTS-HDC.mkv   MKV4.7MB
-#https://openload.co/f/sJvPO_7p7s4/Acts.of.Violence.2018.BluRay.720p.x264.DTS-HDC.mkv.mp4
-#https://openload.co/f/OtVuIulR2_c/Acts.of.Violence.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://www.blazefile.co/embed-h0vrqga3f33t.html   720
-#https://uptobox.com/8nghesudsxtu   720
+
 
 type=video
 name=The Director and The Jedi (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -11539,23 +11485,7 @@ date=2018-02-21
 URL=https://streamango.com/f/btlroalmepbsplcr/Happy_Death_Day_2017_
 
 
-type=video
-name=The Snowman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg
-date=2018-01-06
-URL=https://uptobox.com/8tka5z0xadve
-#https://uptobox.com/e7pwfqz9yglk   1080
-#https://openload.co/f/ij03p_dH6Oc/The.Snowman.2017.PROPER.720p.BluRay.x264-Replica.mkv.mp4
-#https://openload.co/f/viTOmOBrXYU/The.Snowman.2017.720p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/PTyemixWhCc/The.Snowman.2017.1080p.WEB%3EB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/jL6xjg91GU4/The.Snowman.2017.720p.HC.HDRip.X264-EVO.mkv.mp4
-#https://openload.co/f/HNC97bcNWUU/The_Snowman_2017_Movies_HD_Cam_x264_Clean_Audio_AAC_New_Source_%5BrDX%5D.mkv.mp4
-#https://openload.co/f/mTFsFIWDkm4/The_Snowman_2017_NOLOGO_HDCAM_X264_HQMic-DADDY.mp4
-type=video
-name=The Snowman (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg
-date=2018-02-17
-URL=https://streamango.com/f/bbsnolefdeqrsdfs/The_Snowman_2017_
+
 
 
 
@@ -12184,21 +12114,7 @@ date=2017-10-02
 URL=https://openload.co/f/-dty928hy98/Cult_of_Chucky_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
-type=video
-name=Get Out (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=http://image.tmdb.org/t/p/w500/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg
-date=2017-09-13
-URL=https://www.blazefile.co/embed-m73p73glpkxc.html
-#https://openload.co/f/o5mSFS2gito/Get.Out.2017.1080p.BluRay.x264_FOXM.mp4
-#https://openload.co/f/ZzTv4nG6fPc/Get_Out_%282017%29_1080p_Blu-ray_H264.AAC-YIN.mkv.mp4
-type=video
-name=Get Out (2017) TH SUB
-thumb=http://image.tmdb.org/t/p/w500/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg
-date=2017-07-17
-URL=https://streamango.com/f/cadmfmdnpbntaakm/Get_Out_2017_Sub_TH_mkv_mp4
-player=default
-rating=-1.00
-description=A young black man visits his white girlfriend's cursed family estate. He finds out that many of its residents, who are black, have gone missing in the past./description
+
 
 
 
@@ -12409,11 +12325,7 @@ URL=https://openload.co/f/va4EaMDxyEs/The_Lego_Movie_2%3A_The_Second_Part_%28201
 
 
 
-type=video
-name=OVER DRIVE (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/obub0Fpitvv6iQkA67dXNALPLhQ.jpg
-date=2019-03-16
-URL=https://openload.co/f/Ws5KLcyWV_U/OVER_DRIVE_%282018%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
 
 
 type=video
@@ -12467,24 +12379,7 @@ date=2019-02-12
 URL=https://openload.co/f/weccbUc9wLE/Master_Z%3A_Ip_Man_Legacy_%282018%29%E0%B8%A2%E0%B8%B4%E0%B8%9B%E0%B8%A1%E0%B8%B1%E0%B8%99%3A_%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C_Z_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
-type=video
-name=Mortal Engines (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg
-date=2019-03-11
-URL=https://openload.co/f/aILIxEIcnsE/Mortal.Engines.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
-#https://openload.co/f/m_zc-I-dC3Y/Mortal.Engines.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/Nf_vSQhFwm0/Mortal.Engines.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/zTaHZ4wECTk/Mortal.Engines.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/U2ErCkQeR3k/Mortal.Engines.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/yt4IB4owQQQ/Mortal_Engines_NEW_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/loctyThrog4/Mortal.Engines.2018.CAM.X264.LLG.mp4
-#https://openload.co/f/jfh2kDhtXNI/Mortal_Engines_2018_720p_HDCAM-1XBET.mp4
-type=video
-name=Mortal Engines (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg
-date=2019-01-30
-URL=https://openload.co/f/OXh82Vr9IHQ/Mortal_Engines_%282018%29%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_2018_Thai%28C%29_HD
-#https://openload.co/f/I3e9adDqUk8/Mortal_Engines_%282018%29%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%3A_%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
 
 
 
@@ -12646,25 +12541,6 @@ URL=https://openload.co/f/F50fZoE0fog/Rampant_%282018%29%E0%B8%99%E0%B8%84%E0%B8
 
 
 
-type=video
-name=Peppermint (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg
-date=2018-12-10
-URL=https://uptobox.com/db57gerz4k4r
-#https://fruithosts.net/embed/prfknfpersmcfqod/GHPPEPERMINT80_Ganol_si_mkv
-#https://oload.fun/embed/lRlATJqnDCI/GHPPEPERMINT80.Ganol.si.mkv
-#https://openload.co/f/JcBcN-SXfc4/Peppermint_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
-#https://openload.co/f/mcjhU42V1NI/Peppermint.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/lFf8Rsl9KPc/Peppermint.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/QZF3ax4T33U/Peppermint.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/QO7jpwtEtCI/Peppermint_2018_TS-1XBET_SeeHD.mp4
-#https://openload.co/f/OqNJndekThw/Peppermint.2018.TS-1XBET.mp4
-type=video
-name=Peppermint (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg
-date=2018-11-26
-URL=https://openload.co/f/dMQQUTqnwx4/Peppermint_%282018%29%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/-2e2dhkFJX0/Peppermint_%282018%29%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 type=video
@@ -12768,20 +12644,7 @@ URL=https://openload.co/f/l3SNZ1BYN0I/Europe_Raiders_%282018%29%E0%B8%9E%E0%B8%A
 
 
 
-type=video
-name=Final Score (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jawqGBrUOHyXSyT7HknITUnL98.jpg
-date=2018-11-06
-URL=https://uptobox.com/a99pwltbysg0
-#https://www.rapidvideo.com/e/FWYPO9QL5P
-#https://openload.co/embed/QCqMD0KV9WU/FINALSCROE80.Ganol.st.mkv
-#https://openload.co/f/VbPO8Iwz6GU/Final_Score_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
-#https://openload.co/f/y2kzjVUEXsI/Final.Score.2018.1080p.HDTV.x264-PLUTONiUM.mkv.mp4
-type=video
-name=Final Score (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jawqGBrUOHyXSyT7HknITUnL98.jpg
-date=2018-10-02
-URL=https://openload.co/f/K4joqrl2EDA/Final_Score_%282018%29%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%9C%E0%B8%99_%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%95%E0%B8%8A%E0%B9%8C%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
 
 
 
@@ -13074,13 +12937,210 @@ URL=
 type=video
 name=
 thumb=
-date=2019-03-23
+date=2019-03-31
 URL=
 
 
 
 
 
+type=video
+name=Early Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugw07fJIZMVrrIGeN1MO7Xecj5h.jpg
+date=2018-05-16
+URL=https://www.blazefile.co/embed-59d4g8qkkyyy.html
+#http://uptobox.com/8c7vwbq6xw7q
+#https://openload.co/f/HxeCw8IbE1c/Early_Man_%282018%291080p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
+#https://openload.co/f/YKOya-W_QXk/Early.Man.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/eidWhbG5Y7I/Early.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://www.blazefile.co/embed-5w7obmg8qhcg.html   720
+#http://uptobox.com/j7gdk4y0niw1   720
+#https://openload.co/f/sMpII_K4bug/Early_Man_%282018%29720p_BluRay_x264-DRONES.Ganool.im.mkv.mp4
+#https://openload.co/f/eidWhbG5Y7I/Early.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/JB1CN4mXV5I/early.man.2018.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/iLwwrlMsEOk/early.man.2018.720p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/lzgrbsqs8zo/Early.Man.2018.1080p.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/mxYhm6yavGw/Early_Man.2018.720p.HDRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/YGlkgbDb3sY/Early.Man.2018.1080p.READNFO.HDRip.X264.AC3-EVO.mkv.mp4
+#https://openload.co/f/Nt0YWa-SJko/Early_Man.2018.READNFO.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://openload.co/f/04Hs5gzlZAo/Early_Man_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/P3L0Og4nEbU/Early_Man_2018_NEW_HDCAM_SeeHD.avi.mp4
+#https://openload.co/f/pfbH4MrvDH4/Early_Man_2018_HDCAM_Eng_SeeHD.mkv.mp4
+type=video
+name=Early Man (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugw07fJIZMVrrIGeN1MO7Xecj5h.jpg
+date=2019-03-31
+URL=https://openload.co/f/DCCNvk2efes/Early_Man_%282018%29Early_Man_2018.mp4
+
+
+type=video
+name=Final Score (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jawqGBrUOHyXSyT7HknITUnL98.jpg
+date=2018-11-06
+URL=https://uptobox.com/a99pwltbysg0
+#https://www.rapidvideo.com/e/FWYPO9QL5P
+#https://openload.co/embed/QCqMD0KV9WU/FINALSCROE80.Ganol.st.mkv
+#https://openload.co/f/VbPO8Iwz6GU/Final_Score_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+#https://openload.co/f/y2kzjVUEXsI/Final.Score.2018.1080p.HDTV.x264-PLUTONiUM.mkv.mp4
+type=video
+name=Final Score (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jawqGBrUOHyXSyT7HknITUnL98.jpg
+date=2019-03-31
+URL=https://openload.co/f/gYXPupp87jY/Final_Score_%282018%29%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%9C%E0%B8%99_%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%95%E0%B8%8A%E0%B9%8C%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2_2018.mp4
+#https://openload.co/f/K4joqrl2EDA/Final_Score_%282018%29%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%9C%E0%B8%99_%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%95%E0%B8%8A%E0%B9%8C%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
+type=video
+name=Get Out (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-75
+thumb=http://image.tmdb.org/t/p/w500/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg
+date=2017-09-13
+URL=https://www.blazefile.co/embed-m73p73glpkxc.html
+#https://openload.co/f/o5mSFS2gito/Get.Out.2017.1080p.BluRay.x264_FOXM.mp4
+#https://openload.co/f/ZzTv4nG6fPc/Get_Out_%282017%29_1080p_Blu-ray_H264.AAC-YIN.mkv.mp4
+type=video
+name=Get Out (2017) TH
+thumb=http://image.tmdb.org/t/p/w500/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg
+date=2019-03-31
+URL=https://openload.co/f/osQOZxaTwTM/Get_Out_%282017%29%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99_2017.mp4
+#https://streamango.com/f/cadmfmdnpbntaakm/Get_Out_2017_Sub_TH_mkv_mp4
+player=default
+rating=-1.00
+description=A young black man visits his white girlfriend's cursed family estate. He finds out that many of its residents, who are black, have gone missing in the past./description
+
+
+type=video
+name=Green Book (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-84
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h70wRv6iWxiqED4orqfxcEl74Rc.jpg
+date=2019-03-11
+URL=https://openload.co/f/lJjApYhOM0g/green.book.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/jdtBJppokd0/green.book.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/x-0Ya41ynsA/Green.Book.2018.1080p.BluRay.10bit.HEVC.6CH.MkvCage.ws.mkv.mp4
+#https://openload.co/f/cPc9XNQERxo/Green.Book.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/WfbiVsSyqEc/Green.Book.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/7q4fGBAzuNQ/Green.Book.2018.1080p.BRRip.x264.6CH.MkvCage.ws.mkv.mp4
+#https://openload.co/f/nGVSLofHIG4/Green.Book.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/Rn9Jg8scXhI/Green.Book.2019.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/vreYvkdZwUw/Green.Book.2018.720p.WEB-DL-1XBET.mp4
+#https://openload.co/f/-EfF4j1Jzsk/Green.Book.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD.avi.mp4
+#https://openload.co/f/4sowR_BsZHM/Green.Book.2018.DVDSCR.MkvCage.mkv.mp4
+type=video
+name=Green Book (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h70wRv6iWxiqED4orqfxcEl74Rc.jpg
+date=2019-03-31
+URL=https://openload.co/f/XTSZ98QLs5Y/Green_Book_%282018%29%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B9%8A%E0%B8%84_2018.mp4
+
+
+type=video
+name=Acts of Violence (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg
+date=2018-03-16
+URL=https://openload.co/f/Y-6vmjxktfU/Acts.of.Violence.2018.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/KjvgVrjWnTs/Acts.of.Violence.2018.BluRay.720p.x264.DTS-HDC.mkv   MKV4.7MB
+#https://openload.co/f/sJvPO_7p7s4/Acts.of.Violence.2018.BluRay.720p.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/OtVuIulR2_c/Acts.of.Violence.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://www.blazefile.co/embed-h0vrqga3f33t.html   720
+#https://uptobox.com/8nghesudsxtu   720
+type=video
+name=Acts of Violence (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg
+date=2019-03-31
+URL=https://openload.co/f/k2amWaVbNPs/Acts_of_Violence_%282018%29Acts_of_Violence_2018.mp4
+
+
+type=video
+name=The Favourite (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-77
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hgPWxYeGWtTEx9BPhUo99wj77z.jpg
+date=2019-02-28
+URL=https://openload.co/f/B760stPOxkw/the.favourite.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/JYfmotFiLOw/the.favourite.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/HUHV_zKnwUQ/The.Favourite.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/uyDuB_SG8rY/The.Favourite.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/PwDmkMVxi5g/The_Favourite.2019.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/a8kpzFgxC6k/The.Favourite.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8_SeeHD.avi.mp4
+#https://openload.co/f/tO61lO0I6KI/The.Favourite.2018.DVDScr.Xvid.AC3.HQ.Hive-CM8.avi.mp4
+type=video
+name=The Favourite (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hgPWxYeGWtTEx9BPhUo99wj77z.jpg
+date=2019-03-31
+URL=https://openload.co/f/SwzUBqA-aKQ/The_Favourite_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%9F%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%97_%E0%B8%AD%E0%B8%B5%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2_2018.mp4
+
+
+type=video
+name=OVER DRIVE (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/obub0Fpitvv6iQkA67dXNALPLhQ.jpg
+date=2019-03-31
+URL=https://openload.co/f/eSpT0Bk8N4A/OVER_DRIVE_%282018%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2_2019.mp4
+#https://openload.co/f/Ws5KLcyWV_U/OVER_DRIVE_%282018%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
+type=video
+name=The Final Master (2015) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjPavx5RipvydpVrca1MzwWkJxS.jpg
+date=2019-03-31
+URL=https://openload.co/f/C4T7KfJwxAs/The_Final_Master_%282015%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B9%82%E0%B8%84%E0%B9%88%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3.mp4
+
+
+type=video
+name=Peppermint (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg
+date=2018-12-10
+URL=https://uptobox.com/db57gerz4k4r
+#https://fruithosts.net/embed/prfknfpersmcfqod/GHPPEPERMINT80_Ganol_si_mkv
+#https://oload.fun/embed/lRlATJqnDCI/GHPPEPERMINT80.Ganol.si.mkv
+#https://openload.co/f/JcBcN-SXfc4/Peppermint_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
+#https://openload.co/f/mcjhU42V1NI/Peppermint.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/lFf8Rsl9KPc/Peppermint.2018.1080p.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/QZF3ax4T33U/Peppermint.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/QO7jpwtEtCI/Peppermint_2018_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/OqNJndekThw/Peppermint.2018.TS-1XBET.mp4
+type=video
+name=Peppermint (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg
+date=2019-03-31
+URL=https://openload.co/f/sfSNTMRUk8E/Peppermint_%282018%29%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%99.mp4
+#https://openload.co/f/dMQQUTqnwx4/Peppermint_%282018%29%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/-2e2dhkFJX0/Peppermint_%282018%29%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=Mortal Engines (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg
+date=2019-03-11
+URL=https://openload.co/f/aILIxEIcnsE/Mortal.Engines.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
+#https://openload.co/f/m_zc-I-dC3Y/Mortal.Engines.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/Nf_vSQhFwm0/Mortal.Engines.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/zTaHZ4wECTk/Mortal.Engines.2018.1080p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/U2ErCkQeR3k/Mortal.Engines.2018.1080p.HC.HDRip.X264-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/yt4IB4owQQQ/Mortal_Engines_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/loctyThrog4/Mortal.Engines.2018.CAM.X264.LLG.mp4
+#https://openload.co/f/jfh2kDhtXNI/Mortal_Engines_2018_720p_HDCAM-1XBET.mp4
+type=video
+name=Mortal Engines (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg
+date=2019-03-31
+URL=https://openload.co/f/yD1lGXXp9yg/Mortal_Engines_%282018%29%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0.mp4
+#https://openload.co/f/OXh82Vr9IHQ/Mortal_Engines_%282018%29%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_2018_Thai%28C%29_HD
+#https://openload.co/f/I3e9adDqUk8/Mortal_Engines_%282018%29%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%3A_%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29.mp4
+
+
+type=video
+name=The Snowman (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-51
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg
+date=2018-01-06
+URL=https://uptobox.com/8tka5z0xadve
+#https://uptobox.com/e7pwfqz9yglk   1080
+#https://openload.co/f/ij03p_dH6Oc/The.Snowman.2017.PROPER.720p.BluRay.x264-Replica.mkv.mp4
+#https://openload.co/f/viTOmOBrXYU/The.Snowman.2017.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/PTyemixWhCc/The.Snowman.2017.1080p.WEB%3EB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/jL6xjg91GU4/The.Snowman.2017.720p.HC.HDRip.X264-EVO.mkv.mp4
+#https://openload.co/f/HNC97bcNWUU/The_Snowman_2017_Movies_HD_Cam_x264_Clean_Audio_AAC_New_Source_%5BrDX%5D.mkv.mp4
+#https://openload.co/f/mTFsFIWDkm4/The_Snowman_2017_NOLOGO_HDCAM_X264_HQMic-DADDY.mp4
+type=video
+name=The Snowman (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQHgpTVsAWjNQWS0frsl7DlzLX1.jpg
+date=2019-03-31
+URL=https://openload.co/f/i3nYrrl-SrU/The_Snowman_%282017%29%E0%B9%81%E0%B8%AE%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5%E0%B9%88_%E0%B9%82%E0%B8%AE%E0%B8%A5_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%AB%E0%B8%B4%E0%B8%A1%E0%B8%B0.mp4
+#https://streamango.com/f/bbsnolefdeqrsdfs/The_Snowman_2017_
 
 
 type=video
