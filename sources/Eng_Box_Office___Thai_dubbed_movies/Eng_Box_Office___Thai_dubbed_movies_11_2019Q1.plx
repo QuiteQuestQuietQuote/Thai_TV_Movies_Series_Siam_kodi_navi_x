@@ -1471,11 +1471,7 @@ date=2019-03-18
 URL=https://openload.co/f/b9EqwHOTNpc/Stan.and.Ollie.2018.1080p.BluRay.x264-YTS.AM.mp4
 #https://openload.co/f/fI08hCPMNlk/Stan.and.Ollie.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Wildlife (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQSUwjSSRtWCA5EBoY22gGzaE8Y.jpg
-date=2019-03-18
-URL=https://openload.co/f/2etrnClHV-8/Wildlife.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
 
 type=video
 name=Nereus (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-37
@@ -3028,16 +3024,7 @@ URL=https://uptobox.com/u9d9mw6fs20u
 #https://openload.co/f/ojEnOXsS-FA/Assassination.Nation.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/s4z_HM9IjPo/Assassination.Nation.2018.1080p.WEB-DL.H264.AC3-eSc.mkv.mp4
 
-type=video
-name=Unbroken: Path to Redemption (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0anYeapUCJFjYmTaDHP00CaYEB.jpg
-date=2018-12-10
-URL=https://uptobox.com/ihaudh497wew
-#https://fruithosts.net/embed/fldtdoqpacntapfo/GHPUNBROKENPATHREDEPTION80_Ganol_si_mkv
-#https://oload.fun/embed/XC4M-XUe--0/GHPUNBROKENPATHREDEPTION80.Ganol.si.mkv
-#https://openload.co/f/WVYnkMmimv8/Unbroken%3A_Path_to_Redemption_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
-#https://openload.co/f/ZG-zDXOvfDA/Unbroken.Path.To.Redemption.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/dxBXxjkfHRw/Unbroken.Path.to.Redemption.2018.720p.BluRay.x264-GECKOS.mkv.mp4
+
 
 type=video
 name=Ride (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
@@ -5269,17 +5256,7 @@ URL=https://openload.co/f/DpUL-ARj0IM/finding.your.feet.2017.1080p.bluray.dd5.1.
 #https://uptobox.com/ytmgy97y2yud   720
 #https://openload.co/embed/odxucfDVm2s/FINDINGYOURFEETBD72.Ganool.im.mkv.mp4
 
-type=video
-name=Terminal (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg
-date=2018-06-27
-URL=https://openload.co/f/ahGc4j0-Fkw/Terminal.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/ApqijBF-WRc/terminal.2018.multi.1080p.bluray.x264-lost.mkv.mp4
-#https://openload.co/f/BLFPcnQ94OM/Terminal.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mkv.mp4
-#https://openload.co/f/p2adG9K9gnQ/Terminal_2018_720pHD_SeeHD.mkv.mp4
-#https://www.blazefile.co/embed-dtqnx4hv4ip5.html   720
-#https://uptobox.com/xb2pnsduf5au   720
-#https://openload.co/embed/aSLMvuWqmZk/SHQTERMINABD72.Ganool.im.mkv
+
 
 
 
@@ -12937,11 +12914,73 @@ URL=
 type=video
 name=
 thumb=
-date=2019-03-31
+date=2019-04-04
 URL=
 
 
 
+
+
+
+
+
+type=video
+name=Wildlife (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQSUwjSSRtWCA5EBoY22gGzaE8Y.jpg
+date=2019-03-18
+URL=https://openload.co/f/2etrnClHV-8/Wildlife.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+type=video
+name=Wildlife (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQSUwjSSRtWCA5EBoY22gGzaE8Y.jpg
+date=2019-04-04
+URL=https://openload.co/f/YeYm9lBaDzk/Wildlife_%282018%29%E0%B8%A3%E0%B8%B1%E0%B8%81_%E0%B9%80%E0%B8%A3%E0%B8%B2_%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A7_%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87.mp4
+
+
+type=video
+name=Unbroken: Path to Redemption (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0anYeapUCJFjYmTaDHP00CaYEB.jpg
+date=2018-12-10
+URL=https://uptobox.com/ihaudh497wew
+#https://fruithosts.net/embed/fldtdoqpacntapfo/GHPUNBROKENPATHREDEPTION80_Ganol_si_mkv
+#https://oload.fun/embed/XC4M-XUe--0/GHPUNBROKENPATHREDEPTION80.Ganol.si.mkv
+#https://openload.co/f/WVYnkMmimv8/Unbroken%3A_Path_to_Redemption_%282018%291080p_BluRay_x264-GECKOS.Ganool.mkv.mp4
+#https://openload.co/f/ZG-zDXOvfDA/Unbroken.Path.To.Redemption.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/dxBXxjkfHRw/Unbroken.Path.to.Redemption.2018.720p.BluRay.x264-GECKOS.mkv.mp4
+type=video
+name=Unbroken: Path to Redemption (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0anYeapUCJFjYmTaDHP00CaYEB.jpg
+date=2019-04-04
+URL=https://openload.co/f/U31fU7IJ5ko/Unbroken%3A_Path_to_Redemption_%282018%29Unbroken%3A_Path_to_Redemption_%282018%29.mp4
+
+
+type=video
+name=The New Romantic (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qh6oz3RoKwTIqvcFLQ1dEqNWCCB.jpg
+date=2019-04-04
+URL=
+type=video
+name=The New Romantic (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qh6oz3RoKwTIqvcFLQ1dEqNWCCB.jpg
+date=2019-04-04
+URL=https://openload.co/f/IXh-8o3QyoE/The_New_Romantic_%282018%29The_New_Romantic_%282018%29.mp4
+
+
+type=video
+name=Terminal (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg
+date=2018-06-27
+URL=https://openload.co/f/ahGc4j0-Fkw/Terminal.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/ApqijBF-WRc/terminal.2018.multi.1080p.bluray.x264-lost.mkv.mp4
+#https://openload.co/f/BLFPcnQ94OM/Terminal.2018.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mkv.mp4
+#https://openload.co/f/p2adG9K9gnQ/Terminal_2018_720pHD_SeeHD.mkv.mp4
+#https://www.blazefile.co/embed-dtqnx4hv4ip5.html   720
+#https://uptobox.com/xb2pnsduf5au   720
+#https://openload.co/embed/aSLMvuWqmZk/SHQTERMINABD72.Ganool.im.mkv
+type=video
+name=Terminal (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg
+date=2019-04-04
+URL=https://openload.co/f/BujDF2y9bFI/Terminal_%282018%29%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A5%E0%B9%88%E0%B8%AD_%E0%B8%88%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%86%E0%B9%88%E0%B8%B2.mp4
 
 
 type=video
@@ -12985,8 +13024,9 @@ URL=https://uptobox.com/a99pwltbysg0
 type=video
 name=Final Score (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jawqGBrUOHyXSyT7HknITUnL98.jpg
-date=2019-03-31
-URL=https://openload.co/f/gYXPupp87jY/Final_Score_%282018%29%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%9C%E0%B8%99_%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%95%E0%B8%8A%E0%B9%8C%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2_2018.mp4
+date=2019-04-04
+URL=https://openload.co/f/olNkXsQXkdA/Final_Score_%282018%29%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%9C%E0%B8%99_%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%95%E0%B8%8A%E0%B9%8C%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+#https://openload.co/f/gYXPupp87jY/Final_Score_%282018%29%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%9C%E0%B8%99_%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%95%E0%B8%8A%E0%B9%8C%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2_2018.mp4
 #https://openload.co/f/K4joqrl2EDA/Final_Score_%282018%29%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%9C%E0%B8%99_%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%95%E0%B8%8A%E0%B9%8C%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
@@ -13000,8 +13040,9 @@ URL=https://www.blazefile.co/embed-m73p73glpkxc.html
 type=video
 name=Get Out (2017) TH
 thumb=http://image.tmdb.org/t/p/w500/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg
-date=2019-03-31
-URL=https://openload.co/f/osQOZxaTwTM/Get_Out_%282017%29%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99_2017.mp4
+date=2019-04-04
+URL=https://openload.co/f/1fdDfNXiFDw/Get_Out_%282017%29%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99.mp4
+#https://openload.co/f/osQOZxaTwTM/Get_Out_%282017%29%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99_2017.mp4
 #https://streamango.com/f/cadmfmdnpbntaakm/Get_Out_2017_Sub_TH_mkv_mp4
 player=default
 rating=-1.00
@@ -13026,8 +13067,9 @@ URL=https://openload.co/f/lJjApYhOM0g/green.book.2018.1080p.bluray.x264-sparks.m
 type=video
 name=Green Book (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h70wRv6iWxiqED4orqfxcEl74Rc.jpg
-date=2019-03-31
-URL=https://openload.co/f/XTSZ98QLs5Y/Green_Book_%282018%29%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B9%8A%E0%B8%84_2018.mp4
+date=2019-04-04
+URL=https://openload.co/f/d8VwMC3DxPQ/Green_Book_%282018%29%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B9%8A%E0%B8%84.mp4
+#https://openload.co/f/XTSZ98QLs5Y/Green_Book_%282018%29%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B9%8A%E0%B8%84_2018.mp4
 
 
 type=video
@@ -13068,8 +13110,9 @@ URL=https://openload.co/f/SwzUBqA-aKQ/The_Favourite_%282018%29%E0%B9%80%E0%B8%94
 type=video
 name=OVER DRIVE (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/obub0Fpitvv6iQkA67dXNALPLhQ.jpg
-date=2019-03-31
-URL=https://openload.co/f/eSpT0Bk8N4A/OVER_DRIVE_%282018%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2_2019.mp4
+date=2019-04-04
+URL=https://openload.co/f/zfWfakrvA9Q/OVER_DRIVE_%282018%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2.mp4
+#https://openload.co/f/eSpT0Bk8N4A/OVER_DRIVE_%282018%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2_2019.mp4
 #https://openload.co/f/Ws5KLcyWV_U/OVER_DRIVE_%282018%29%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
@@ -13941,8 +13984,9 @@ URL=https://www.blazefile.co/embed-lh2b03e7ahrp.html
 type=video
 name=Reset (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwTonDtQstoMQHYEBCz8x8RvBJJ.jpg
-date=2019-01-17
-URL=https://openload.co/f/wxAyHftjauo/Reset_%282017%29%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4.mp4
+date=2019-04-04
+URL=https://openload.co/f/MQRAEmQbdOY/Reset_%282017%29%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4.mp4
+#https://openload.co/f/wxAyHftjauo/Reset_%282017%29%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4.mp4
 
 
 type=video
