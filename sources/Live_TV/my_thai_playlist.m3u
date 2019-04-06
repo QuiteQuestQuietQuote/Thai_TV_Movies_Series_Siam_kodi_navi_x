@@ -2255,6 +2255,8 @@ http://91.221.4.163/live/national-geographic/playlist.m3u8
 rtsp://118.97.96.17:1935/discover/natgeopeople_1
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_indo
+http://server2.nowonsocmed.com:8080/abed/abed123xx/146003
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_arab
 http://185.27.116.54:8081/livestream/natpepole/chunks.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_ar
@@ -2271,104 +2273,25 @@ http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 
 
-
-#EXTINF:-1,Da Vinchi Learning 
-http://5.100.64.120:52349/udp/224.3.20.6:1234 
-
-#EXTINF:-1,Da Vinci Learning 
-http://212.19.19.192:999/udp/239.191.254.72:13343 
-#EXTINF:-1,Discovery Science HD 
-http://212.19.19.192:999/udp/239.191.255.148:15283 
-#EXTINF:-1,Asia Amazing 
-http://212.19.19.192:999/udp/239.191.255.36:13343 
-#EXTINF:-1,Big Asia 
-http://212.19.19.192:999/udp/239.191.254.130:13343 
-#EXTINF:-1,DocuBox 
-http://212.19.19.192:999/udp/239.191.255.9:13343 
-#EXTINF:-1,Travel+ Adventure 
-http://212.19.19.192:999/udp/239.191.254.176:13343 
-
-#EXTINF:-1,E!
-http://topvision.xyz:8888/demas/qwrzxb/490
-#EXTINF:-1,Sony BBC Earth
-http://topvision.xyz:8888/demas/qwrzxb/385
-#EXTINF:-1,Da Vinci
-http://topvision.xyz:8888/demas/qwrzxb/17
-#EXTINF:-1,BBC World News HD
-http://topvision.xyz:8888/demas/qwrzxb/789
-#EXTINF:-1,TLC HD
-http://topvision.xyz:8888/demas/qwrzxb/352
-#EXTINF:-1,HGTV
-http://topvision.xyz:8888/demas/qwrzxb/537
-#EXTINF:-1,AFC HD
-http://topvision.xyz:8888/demas/qwrzxb/807
-#EXTINF:-1,National Geographic Channel HD
-http://topvision.xyz:8888/demas/qwrzxb/96
-#EXTINF:-1,National Geographic People
-http://topvision.xyz:8888/demas/qwrzxb/455
-#EXTINF:-1,National Geographic People Backup
-http://topvision.xyz:8888/demas/qwrzxb/1447
-#EXTINF:-1,History
-http://topvision.xyz:8888/demas/qwrzxb/718
-#EXTINF:-1,Animal Planet HD
-http://topvision.xyz:8888/demas/qwrzxb/358
-#EXTINF:-1,Discovery Channel HD
-http://topvision.xyz:8888/demas/qwrzxb/165
-#EXTINF:-1,Discovery Asia
-http://topvision.xyz:8888/demas/qwrzxb/779
-#EXTINF:-1,Discovery Science HD
-http://topvision.xyz:8888/demas/qwrzxb/408
-
-#EXTINF:-1,National Geo People HD
-http://5.254.66.150:25461/live/zouhair2019/2019ZOUHAIR/5221.m3u8
-#EXTINF:-1,National Geographic HD
-http://5.254.66.150:25461/live/zouhair2019/2019ZOUHAIR/5222.m3u8
-#EXTINF:-1,HISTORY CHANNEL.
-http://5.254.66.150:25461/live/zouhair2019/2019ZOUHAIR/5219.m3u8
-#EXTINF:-1,Discovery Channel.
-http://5.254.66.150:25461/live/zouhair2019/2019ZOUHAIR/5218.m3u8
-
-#EXTINF:-1,bbc
-http://p5.giffy.be:8080/kamersolution@gmail.com/qKx4I16dn6/85730
-#EXTINF:-1,Disc Sci
-http://p5.giffy.be:8080/kamersolution@gmail.com/qKx4I16dn6/85706
-#EXTINF:-1,Disc His
-http://p5.giffy.be:8080/kamersolution@gmail.com/qKx4I16dn6/85707
-#EXTINF:-1,food
-http://p5.giffy.be:8080/kamersolution@gmail.com/qKx4I16dn6/85729
+#EXTINF:-1,Spektrum
+http://185.167.208.157/master_469.m3u8
+#EXTINF:-1,CH_ftvs.php
+http://185.216.119.139:2015/ftvs.php?channelid=5c09dc0e304f6bd61f59a85a&channeltype=0
+#EXTINF:-1,Bestv4k
+http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 
 
 
-#EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_TW
-http://61.58.60.194:9000/live/18ch.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History
 http://91.90.253.66:8080/CH620_std/index.m3u8
-
-
-#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_VN_ASIAN FOOD CHANNEL
-http://14.189.149.28:4022/rtp/232.84.1.115:10236
-#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_VN_ASIAN FOOD CHANNEL HD
-http://14.189.149.28:4022/rtp/232.84.2.129:9570
-#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",DA VINCI LEARNING HD
-http://14.189.149.28:4022/rtp/232.84.2.131:9582
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",DISCOVERY ASIA
-http://14.189.149.28:4022/rtp/232.84.2.53:10528
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",DISCOVERY CHANNEL
-http://14.189.149.28:4022/rtp/232.84.1.47:8262
-#EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",NATIONAL GEOGRAPHIC
-http://14.189.149.28:4022/rtp/232.84.1.65:8364
-#EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",NATIONAL GEOGRAPHIC HD
-http://14.189.149.28:4022/rtp/232.84.1.1:7980
-#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE
-http://14.189.149.28:4022/rtp/232.84.1.67:8376
-#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE HD
-http://14.189.149.28:4022/rtp/232.84.1.76:8430
-#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci Learning
-http://14.189.149.28:4022/rtp/232.84.1.108:10224
-#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",Nat Geo People_VN
-http://14.189.149.28:4022/rtp/232.84.2.121:8376
-
-
 
 
 #EXTINF:-1,asia travel
@@ -2384,8 +2307,6 @@ http://185.79.92.234:8001/1:0:1:96:19:1:FFFF0000:0:0:0
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_HD
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/143751
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH
-http://iptv-safe.ddns.net:25461/line2go/11hilfe22/4743
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD
 http://123.176.22.42:4022/udp/232.4.0.212:40000
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
@@ -2446,12 +2367,18 @@ http://79.133.127.16:999/udp/239.191.254.250:15285
 
 #EXTINF:-1,xxx
 http://v2.myowntv.org/content/35636/index.m3u8?seg-2422-v1-a1.m3u
+#EXTINF:-1,CAN
+http://kimbogrupol.com:25461/efrain/efrain/16111
+#EXTINF:-1,BHot
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/154716
 #EXTINF:-1,Russian night
 http://9d8c5662.suklakakl.site/iptv/XPMTTGZETTGURA/147/index.m3u8
-#EXTINF:-1,Penthouse
-http://84.104.234.134:8001/1:0:1:372A:C8E:3:EB0000:0:0:0:
+#EXTINF:-1,playboy_FR
+http://meuservicotv.dynu.com:8000/balinhafernando@/ZknliVuZkD/10407
 #EXTINF:-1,playboy
 http://185.167.208.157/master_324.m3u8
+#EXTINF:-1,redtraffic_pov
+http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1,redtraffic_teen
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1,redtraffic_pornstar
@@ -2481,6 +2408,8 @@ http://122.38.74.172:9981/stream/channelid/816085039
 rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 #EXTINF:-1,SonSee TV4
 http://live.zhibo.news.cn:1935/live/J2rrttbb6666777wss/playlist.m3u8
+#EXTINF:-1,SonSee_ts
+http://adultlive-faintv.cdn.hinet.net/live_HLS/A080.stream/media-u5y4e8417_57613.ts
 #EXTINF:-1,SonSee TV3_php
 http://185.216.119.139:2015/ftvs.php?channelid=5795c5a5326d2e110eca080e&channeltype=1
 #EXTINF:-1,SonSee TV2_php
