@@ -2279,14 +2279,41 @@ http://185.167.208.157/master_469.m3u8
 http://185.216.119.139:2015/ftvs.php?channelid=5c09dc0e304f6bd61f59a85a&channeltype=0
 #EXTINF:-1,Bestv4k
 http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.mayday.is/img/showcase_docurama/dcr-branding-full.png" group-title="USA",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
+#EXTINF:-1,BBC EARTH
+http://istnbl1453.com:8080/behcet/sener/4152
+#EXTINF:-1,DAVINCI LEARNING
+http://istnbl1453.com:8080/behcet/sener/5676
 
+#EXTINF:-1,Tr- DAVINCI LEARNING HD
+http://smart-hdip.com:6204/RDWAN/123/13140
 
+#EXTINF:-1,FR: DAVINCI LEARNING
+http://landiptv.live:8080/marco/polo/149177
 
+#EXTINF:-1,Da Vinci Learning
+http://5.100.118.62:4022/udp/224.3.20.6:1234
 
-
-
-
+#EXTINF:-1,ASIAN FOOD CHANNEL
+http://42.118.195.107:8889/udp/225.1.2.9:30120
+#EXTINF:-1,ASIAN FOOD CHANNEL HD
+http://42.118.195.107:8889/udp/225.1.1.198:30120
+#EXTINF:-1,ASIAN FOOD CHANNEL HD
+http://42.118.195.107:8889/udp/225.1.2.98:30120
+#EXTINF:-1,BBC EARTH
+http://42.118.195.107:8889/udp/225.1.2.24:30120
+#EXTINF:-1,BBC LIFESTYLE
+http://42.118.195.107:8889/udp/225.1.2.52:30120
+#EXTINF:-1,Da Vinci Learning HD
+http://42.118.195.107:8889/udp/225.1.1.197:30120
+#EXTINF:-1,Da Vinci Learning HD
+http://42.118.195.107:8889/udp/225.1.2.253:30120
+#EXTINF:-1,Discovery Asia HD
+http://42.118.195.107:8889/udp/225.1.2.222:30120
+#EXTINF:-1,Discovery Asia HD
+http://42.118.195.107:8889/udp/225.1.2.223:30120
 
 
 
