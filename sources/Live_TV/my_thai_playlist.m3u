@@ -2190,7 +2190,8 @@ http://85.112.114.12:8080/ch799/index.m3u8
 http://persik.by/stream/8682/252987/10292.m3u8 
 #EXTINF:0,UHD KBS1
 http://220.125.160.36:9981/stream/channelid/617874525?ticket=FF898303D7C31BEDD94F07D8BCBD85BA2F1C9F28&profile=pass
-
+#EXTINF:-1,Bestv4k
+http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 
 
 
@@ -2273,50 +2274,24 @@ http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 
 
-#EXTINF:-1,Spektrum
-http://185.167.208.157/master_469.m3u8
-#EXTINF:-1,CH_ftvs.php
+#EXTINF:-1,CA | BBC EARTH HD
+http://lista.red:8880/claudio/claudio/35887
+#EXTINF:-1,CA | CNBC HD
+http://lista.red:8880/claudio/claudio/35880
+
+#EXTINF:-1,CH4k
+http://112.50.243.7/PLTV/88888888/224/3221226825/1.m3u8
+
+#EXTINF:-1,D_CH
+http://39.134.176.157/PLTV/88888888/224/3221226610/index.m3u8
+
+
+
+
+#EXTINF:-1,pre-movies_CH_ftvs.php
 http://185.216.119.139:2015/ftvs.php?channelid=5c09dc0e304f6bd61f59a85a&channeltype=0
-#EXTINF:-1,Bestv4k
-http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mayday.is/img/showcase_docurama/dcr-branding-full.png" group-title="USA",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-
-#EXTINF:-1,BBC EARTH
-http://istnbl1453.com:8080/behcet/sener/4152
-#EXTINF:-1,DAVINCI LEARNING
-http://istnbl1453.com:8080/behcet/sener/5676
-
-#EXTINF:-1,Tr- DAVINCI LEARNING HD
-http://smart-hdip.com:6204/RDWAN/123/13140
-
-#EXTINF:-1,FR: DAVINCI LEARNING
-http://landiptv.live:8080/marco/polo/149177
-
-#EXTINF:-1,Da Vinci Learning
-http://5.100.118.62:4022/udp/224.3.20.6:1234
-
-#EXTINF:-1,ASIAN FOOD CHANNEL
-http://42.118.195.107:8889/udp/225.1.2.9:30120
-#EXTINF:-1,ASIAN FOOD CHANNEL HD
-http://42.118.195.107:8889/udp/225.1.1.198:30120
-#EXTINF:-1,ASIAN FOOD CHANNEL HD
-http://42.118.195.107:8889/udp/225.1.2.98:30120
-#EXTINF:-1,BBC EARTH
-http://42.118.195.107:8889/udp/225.1.2.24:30120
-#EXTINF:-1,BBC LIFESTYLE
-http://42.118.195.107:8889/udp/225.1.2.52:30120
-#EXTINF:-1,Da Vinci Learning HD
-http://42.118.195.107:8889/udp/225.1.1.197:30120
-#EXTINF:-1,Da Vinci Learning HD
-http://42.118.195.107:8889/udp/225.1.2.253:30120
-#EXTINF:-1,Discovery Asia HD
-http://42.118.195.107:8889/udp/225.1.2.222:30120
-#EXTINF:-1,Discovery Asia HD
-http://42.118.195.107:8889/udp/225.1.2.223:30120
-
-
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History
 http://91.90.253.66:8080/CH620_std/index.m3u8
 
@@ -2396,14 +2371,12 @@ http://79.133.127.16:999/udp/239.191.254.250:15285
 http://v2.myowntv.org/content/35636/index.m3u8?seg-2422-v1-a1.m3u
 #EXTINF:-1,CAN
 http://kimbogrupol.com:25461/efrain/efrain/16111
-#EXTINF:-1,BHot
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/154716
 #EXTINF:-1,Russian night
 http://9d8c5662.suklakakl.site/iptv/XPMTTGZETTGURA/147/index.m3u8
-#EXTINF:-1,playboy_FR
-http://meuservicotv.dynu.com:8000/balinhafernando@/ZknliVuZkD/10407
 #EXTINF:-1,playboy
 http://185.167.208.157/master_324.m3u8
+#EXTINF:-1,redtraffic_threesome
+http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1,redtraffic_pov
 http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1,redtraffic_teen
@@ -2435,8 +2408,6 @@ http://122.38.74.172:9981/stream/channelid/816085039
 rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 #EXTINF:-1,SonSee TV4
 http://live.zhibo.news.cn:1935/live/J2rrttbb6666777wss/playlist.m3u8
-#EXTINF:-1,SonSee_ts
-http://adultlive-faintv.cdn.hinet.net/live_HLS/A080.stream/media-u5y4e8417_57613.ts
 #EXTINF:-1,SonSee TV3_php
 http://185.216.119.139:2015/ftvs.php?channelid=5795c5a5326d2e110eca080e&channeltype=1
 #EXTINF:-1,SonSee TV2_php
