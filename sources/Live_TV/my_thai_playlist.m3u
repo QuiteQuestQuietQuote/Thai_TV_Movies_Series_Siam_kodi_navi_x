@@ -2274,18 +2274,26 @@ http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 
 
-#EXTINF:-1,CA | BBC EARTH HD
-http://lista.red:8880/claudio/claudio/35887
-#EXTINF:-1,CA | CNBC HD
-http://lista.red:8880/claudio/claudio/35880
 
-#EXTINF:-1,CH4k
-http://112.50.243.7/PLTV/88888888/224/3221226825/1.m3u8
+
+
 
 #EXTINF:-1,D_CH
 http://39.134.176.157/PLTV/88888888/224/3221226610/index.m3u8
 
+#EXTINF:-1,VIP: UK – BBC Earth
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198516
+#EXTINF:-1,VIP: UK – China History Channel HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/204142
+#EXTINF:-1,VIP: UK – Discovery History
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/204754
+#EXTINF:-1,VIP: UK – DISCOVERY HOME & HEALTH
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/204793
+#EXTINF:-1,VIP: UK – HISTORY CHANNEL FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198511
 
+#EXTINF:-1,Travel+Adventure HD 
+http://persik.by/stream/4200/395314/10323.m3u8 
 
 
 #EXTINF:-1,pre-movies_CH_ftvs.php

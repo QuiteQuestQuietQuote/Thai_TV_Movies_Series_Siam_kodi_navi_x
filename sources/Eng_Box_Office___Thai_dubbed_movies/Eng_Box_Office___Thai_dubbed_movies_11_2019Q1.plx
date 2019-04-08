@@ -4702,11 +4702,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qfAZ7pn3FoEjkbWBXwZHuFb6V
 date=2018-08-14
 URL=https://openload.co/f/RBVCqYGimD0/Heavy_Trip_2018_1080p_BluRay_x264_FiCO.mkv.mp4
 
-type=video
-name=The Unity of Heroes (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/15lynat4SPCmMnfXdFiEpS1syl2.jpg
-date=2018-08-14
-URL=https://openload.co/f/qmWAVlRZMEs/The.Unity.Of.Heroes.2018.BluRay.1080p.Dolby.TrueHD5.1.2Audio.x264-CHD.mkv.mp4
+
 
 type=video
 name=Paint It Red (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -12438,8 +12434,9 @@ URL=https://uptobox.com/prn9voky3pd9
 type=video
 name=Iceman: The Time Traveler (2018) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/enZENHd2gwVAw4sJKJxtJl1vJ09.jpg
-date=2019-01-05
-URL=https://openload.co/f/YYL7n1E3PZs/Iceman%3A_The_Time_Traveler_%282018%29%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+date=2019-04-08
+URL=https://openload.co/f/JEUFHrQ5Jl4/Iceman%3A_The_Time_Traveler_%282018%29%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/YYL7n1E3PZs/Iceman%3A_The_Time_Traveler_%282018%29%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
 type=video
@@ -12501,30 +12498,6 @@ URL=https://openload.co/f/uP5BAD7J7-8/The_Wrath_%282018%29%E0%B8%99%E0%B8%B2%E0%
 
 
 
-type=video
-name=Rampant (2018) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-65
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8u0AKGj52SQeeKW4d56rWr2XLX.jpg
-date=2019-03-11
-URL=https://openload.co/f/-Sn1j6XJMz8/Rampant.2018.KOREAN.1080p.BluRay.H264.AAC-VXT.mp4
-#https://openload.co/f/pwJi8bRS6As/Rampant.2018.BluRay.1080p.ENG.SUB.X264_SeeHD.mkv.mp4
-#https://openload.co/f/HD76ssL0jYo/Rampant%2C_2018.mp4
-type=video
-name=Rampant (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8u0AKGj52SQeeKW4d56rWr2XLX.jpg
-date=2018-11-26
-URL=https://openload.co/f/F50fZoE0fog/Rampant_%282018%29%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-
-
-
-
-
-
-
-type=video
-name=Inuyashiki (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIJJsJSt5PFKM4cqbRlzgZ7Jk12.jpg
-date=2018-11-22
-URL=https://openload.co/f/ywVKgSxULO4/Inuyashiki_%282018%29%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%B8%E0%B8%A2%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%81%E0%B8%B4%3A_%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A5%E0%B8%B8%E0%B8%87%E0%B9%84%E0%B8%8B%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 type=video
 name=Kuntilanak (2018) THCAM SOUND
@@ -12559,30 +12532,7 @@ URL=https://openload.co/f/LqODIQc1TMU/Monstrum_%282018%29%E0%B8%9E%E0%B8%B1%E0%B
 
 
 
-type=video
-name=A-X-L (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-54
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg
-date=2018-12-21
-URL=https://uptobox.com/b0thzo99h0h2
-#https://fruithosts.net/embed/nledbtfoqftnkmpm/GHPAXL80_Ganol_si_mkv
-#https://oload.fun/embed/vOAeDBuRox8/GHPAXL80.Ganol.si.mkv
-#https://openload.co/f/K7Gqpl0hyiU/A-X-L_%282018%291080p.BR.Ganool.mkv.mp4
-#https://openload.co/f/H_f8LUyxD7U/A.X.L.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/3b0Dc6DHxeU/A.X.L.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/7n8CMmX6YyE/a.x.l.2018.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/QjK2a-eXFiw/A-X-L.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/PmYk_fesKMw/A-X-L.2018.1080p.NF.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
-#https://openload.co/f/Fz_xPEw8Wm0/A-X-L.2018.720p.NF.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
-#https://openload.co/f/vHlB1P-_1tU/A.X.L1080pHDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/Kj439guATEg/AXL.2018.HDCAM.XviD-AVID.avi.mp4
-#https://openload.co/f/IdRiWQZUTME/A.X.L.2018.RUS.HDCAM.HC.ENG.SUB-NO.WATERMARK.mp4
-#https://openload.co/f/7DFmc1VnHF0/A.X.L_2018_720p_RUS_HDCAM_HC_ENG_SUB-1XBET.mp4
-type=video
-name=A-X-L (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg
-date=2018-11-04
-URL=https://openload.co/f/a8uGQjWj-7M/A.X.L._%282018%29%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B8%A5%3A_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/xKvKQKeBi5I/A.X.L._%282018%29%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B8%A5%3A_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
 
 
 
@@ -12923,6 +12873,97 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Rampant (2018) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8u0AKGj52SQeeKW4d56rWr2XLX.jpg
+date=2019-03-11
+URL=https://openload.co/f/-Sn1j6XJMz8/Rampant.2018.KOREAN.1080p.BluRay.H264.AAC-VXT.mp4
+#https://openload.co/f/pwJi8bRS6As/Rampant.2018.BluRay.1080p.ENG.SUB.X264_SeeHD.mkv.mp4
+#https://openload.co/f/HD76ssL0jYo/Rampant%2C_2018.mp4
+type=video
+name=Rampant (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8u0AKGj52SQeeKW4d56rWr2XLX.jpg
+date=2019-04-08
+URL=https://openload.co/f/ZYUNYItdbgA/Rampant_%282018%29%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87.mp4
+#https://openload.co/f/F50fZoE0fog/Rampant_%282018%29%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
+type=video
+name=A-X-L (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-54
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg
+date=2018-12-21
+URL=https://uptobox.com/b0thzo99h0h2
+#https://fruithosts.net/embed/nledbtfoqftnkmpm/GHPAXL80_Ganol_si_mkv
+#https://oload.fun/embed/vOAeDBuRox8/GHPAXL80.Ganol.si.mkv
+#https://openload.co/f/K7Gqpl0hyiU/A-X-L_%282018%291080p.BR.Ganool.mkv.mp4
+#https://openload.co/f/H_f8LUyxD7U/A.X.L.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/3b0Dc6DHxeU/A.X.L.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/7n8CMmX6YyE/a.x.l.2018.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/QjK2a-eXFiw/A-X-L.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/PmYk_fesKMw/A-X-L.2018.1080p.NF.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+#https://openload.co/f/Fz_xPEw8Wm0/A-X-L.2018.720p.NF.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
+#https://openload.co/f/vHlB1P-_1tU/A.X.L1080pHDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/Kj439guATEg/AXL.2018.HDCAM.XviD-AVID.avi.mp4
+#https://openload.co/f/IdRiWQZUTME/A.X.L.2018.RUS.HDCAM.HC.ENG.SUB-NO.WATERMARK.mp4
+#https://openload.co/f/7DFmc1VnHF0/A.X.L_2018_720p_RUS_HDCAM_HC_ENG_SUB-1XBET.mp4
+type=video
+name=A-X-L (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg
+date=2019-04-08
+URL=https://openload.co/f/f_GihvXBrH4/A-X-L_%282018%29%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B8%A5%3A_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81.mp4
+#https://openload.co/f/a8uGQjWj-7M/A.X.L._%282018%29%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B8%A5%3A_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/xKvKQKeBi5I/A.X.L._%282018%29%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B8%A5%3A_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+
+
+type=video
+name=Inuyashiki (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIJJsJSt5PFKM4cqbRlzgZ7Jk12.jpg
+date=2019-04-08
+URL=https://openload.co/f/S6Vc88exO80/Inuyashiki_%282018%29%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%B8%E0%B8%A2%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%81%E0%B8%B4%3A_%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A5%E0%B8%B8%E0%B8%87%E0%B9%84%E0%B8%8B%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%81.mp4
+#https://openload.co/f/ywVKgSxULO4/Inuyashiki_%282018%29%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%B8%E0%B8%A2%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%81%E0%B8%B4%3A_%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A5%E0%B8%B8%E0%B8%87%E0%B9%84%E0%B8%8B%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
+type=video
+name=The Unity of Heroes (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-63
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/15lynat4SPCmMnfXdFiEpS1syl2.jpg
+date=2018-08-14
+URL=https://openload.co/f/qmWAVlRZMEs/The.Unity.Of.Heroes.2018.BluRay.1080p.Dolby.TrueHD5.1.2Audio.x264-CHD.mkv.mp4
+type=video
+name=The Unity of Heroes (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/15lynat4SPCmMnfXdFiEpS1syl2.jpg
+date=2019-04-08
+URL=https://openload.co/f/7Y0t-9CSZpY/The_Unity_of_Heroes_%282018%29%E0%B8%AB%E0%B8%A7%E0%B8%87%E0%B9%80%E0%B8%9F%E0%B8%A2%E0%B8%AB%E0%B8%87.mp4
+
+
+
+
+
+
+
+
+
+#69---2019-04-06
 
 type=video
 name=Wildlife (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
@@ -13903,6 +13944,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQX
 date=2019-01-26
 URL=https://openload.co/f/GWFHbx5JhxY/The.Girl.In.The.Spider%27s.Web.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/3huxz0i8BCE/The.Girl.in.the.Spiders.Web.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/brm-aKClNbU/The.Girl.in.the.Spiders.Web.2018.1080p.WEB-DL.AC3.x264_NongZEZA%40CtHts.mkv.mp4
 #https://openload.co/f/RZPnkJ5Dmyw/The_Girl_In_the_Spider%27s_WEB_1080p_HD_SeeHD.mkv.mp4
 #https://openload.co/f/ARUJNfAf_hI/The.Girl.in.the.Spiders.Web.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/Are8Z3ZTzec/The_Girl_In_the_Spider%27s_WEB_1080p_HD_SeeHD.mkv   MKV3.9GB
@@ -13914,7 +13956,8 @@ type=video
 name=The Girl in the Spider's Web (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg
 date=2019-01-26
-URL=https://openload.co/f/240tD_BEq8w/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0.mp4
+URL=https://openload.co/f/WgMWZOU4l08/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0.mkv
+#https://openload.co/f/240tD_BEq8w/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0.mp4
 #https://openload.co/f/70OHFp_bpWw/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_2018.mp4
 #https://openload.co/f/E7ed0BGuVFU/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://openload.co/f/0uLdNZkiCkA/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_2018_Thai%28C%29_HD
