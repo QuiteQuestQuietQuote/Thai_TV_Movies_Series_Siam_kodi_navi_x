@@ -1486,6 +1486,17 @@ http://172.104.114.178/vod/live/3/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 http://172.104.114.178/vod/live/4/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
 
 
+#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",ours hd1_key
+http://172.104.114.178/vod/live/1/live.m3u8?key=dnnl6bua32k8qape7he35831p3&fbclid=IwAR31bfnWQvO0bhV4EeBZUZ2MrE42N7si8vHMrQBSWJ9UGEDH_at1Ol-3A0Y
+#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",ours hd2_key
+http://172.104.114.178/vod/live/2/live.m3u8?key=dnnl6bua32k8qape7he35831p3&fbclid=IwAR3ssStlVJiWNSWJTQSMfaBvqYP6PflPqo7FPSvDJT14S_IGVDMNe3LHBkM
+#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",ours hd3_key
+http://172.104.114.178/vod/live/3/live.m3u8?key=dnnl6bua32k8qape7he35831p3&fbclid=IwAR0jjlja-9NqKl9FcVhMdl300hClr1cLwkA-inQw8HaayWJYahys-fY5bp0
+#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",ours hd4_key
+http://172.104.114.178/vod/live/4/live.m3u8?key=dnnl6bua32k8qape7he35831p3&fbclid=IwAR1vmqLpGtH-rwwd4UTZPzeHfHyB17Lx-yf_N77KWjX9E8EO1DLrIJb7zL8
+
+
+
 #EXTINF:-1,ours hd1_gg
 http://gg.gg/JapanS1
 #EXTINF:-1,ours hd2_gg
@@ -1824,38 +1835,6 @@ http://ws4.streamhls.huya.com/huyalive/29169025-2686220062-11537227316149092352-
 
 
 
-#EXTINF:-1,Metro TV xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-http://45.126.83.51/uq2663/h/h05/index.m3u8 
-#EXTINF:-1,Sony Channel 
-http://45.126.83.51/uq2663/h/h06/index.m3u8 
-#EXTINF:-1,KIX 
-http://45.126.83.51/uq2663/h/h07/index.m3u8 
-#EXTINF:-1,K 
-http://45.126.83.51/uq2663/h/h08/index.m3u8 
-#EXTINF:-1,AXN 
-http://45.126.83.51/uq2663/h/h09/index.m3u8 
-#EXTINF:-1,NATIONAL GEOGRAPHIC 
-http://45.126.83.51/uq2663/h/h11/index.m3u8 
-#EXTINF:-1,NATGEO WILD 
-http://45.126.83.51/uq2663/h/h12/index.m3u8 
-#EXTINF:-1,SONY ONE 
-http://45.126.83.51/uq2663/h/h13/index.m3u8 
-#EXTINF:-1,FOX MOVIES 
-http://45.126.83.51/uq2663/h/h14/index.m3u8
-#EXTINF:-1,ANIPLUS 
-http://45.126.83.51/uq2663/h/h02/index.m3u8 
-#EXTINF:-1,FOXlife 
-http://45.126.83.51/uq2663/h/h03/index.m3u8 
-#EXTINF:-1,FOX 
-http://45.126.83.51/uq2663/h/h04/index.m3u8 
-#EXTINF:-1,FOX MOVIES ACTION 
-http://45.126.83.51/uq2663/h/h15/index.m3u8 
-#EXTINF:-1,FOX MOVIES FAMILY HD 
-http://45.126.83.51/uq2663/h/h16/index.m3u8 
-#EXTINF:-1,ANIMAX 
-http://45.126.83.51/uq2663/h/h18/index.m3u8
-#EXTINF:-1,FOX MOVIES 
-http://45.126.83.51/uq2663/h/h24/index.m3u8 
 
 
 #EXTINF:-1,ANIPLUS _session
@@ -2274,13 +2253,6 @@ http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 
 
-
-
-
-
-#EXTINF:-1,D_CH
-http://39.134.176.157/PLTV/88888888/224/3221226610/index.m3u8
-
 #EXTINF:-1,VIP: UK – BBC Earth
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198516
 #EXTINF:-1,VIP: UK – China History Channel HD
@@ -2292,12 +2264,38 @@ http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/204793
 #EXTINF:-1,VIP: UK – HISTORY CHANNEL FHD
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198511
 
+
 #EXTINF:-1,Travel+Adventure HD 
 http://persik.by/stream/4200/395314/10323.m3u8 
+#EXTINF:-1,D_CH
+http://39.134.176.157/PLTV/88888888/224/3221226610/index.m3u8
 
 
-#EXTINF:-1,pre-movies_CH_ftvs.php
-http://185.216.119.139:2015/ftvs.php?channelid=5c09dc0e304f6bd61f59a85a&channeltype=0
+#EXTINF:-1,DA VINCI 
+http://92.61.69.31:34040/udp/224.0.42.58:5000 
+
+#EXTINF:-1,Da Vinci Learning 
+http://79.133.102.55:999/udp/239.191.254.72:13343 
+
+#EXTINF:-1,: BBC Earth HD
+http://globiptv.com:8000/frankkjeldsen@protonmail.com/5504193377/4757
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.mayday.is/img/showcase_docurama/dcr-branding-full.png" group-title="USA",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History
@@ -2368,7 +2366,7 @@ https://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-
 
 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArtHD 
-http://212.19.19.192:999/udp/239.191.254.250:15285 
+http://79.133.102.55:999/udp/239.191.254.250:15285 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
 http://185.93.3.83:5014/play/a00d
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt
@@ -2383,6 +2381,8 @@ http://kimbogrupol.com:25461/efrain/efrain/16111
 http://9d8c5662.suklakakl.site/iptv/XPMTTGZETTGURA/147/index.m3u8
 #EXTINF:-1,playboy
 http://185.167.208.157/master_324.m3u8
+#EXTINF:-1,Penthouse_Gold
+http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7730
 #EXTINF:-1,redtraffic_threesome
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1,redtraffic_pov
@@ -2428,16 +2428,11 @@ http://59.120.242.104:9000/live/live6.m3u8
 http://59.120.242.104:9000/live/live7.m3u8
 
 
-#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",ours hd1_key
-http://172.104.114.178/vod/live/1/live.m3u8?key=dnnl6bua32k8qape7he35831p3&fbclid=IwAR31bfnWQvO0bhV4EeBZUZ2MrE42N7si8vHMrQBSWJ9UGEDH_at1Ol-3A0Y
-#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",ours hd2_key
-http://172.104.114.178/vod/live/2/live.m3u8?key=dnnl6bua32k8qape7he35831p3&fbclid=IwAR3ssStlVJiWNSWJTQSMfaBvqYP6PflPqo7FPSvDJT14S_IGVDMNe3LHBkM
-#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",ours hd3_key
-http://172.104.114.178/vod/live/3/live.m3u8?key=dnnl6bua32k8qape7he35831p3&fbclid=IwAR0jjlja-9NqKl9FcVhMdl300hClr1cLwkA-inQw8HaayWJYahys-fY5bp0
-#EXTINF:-1  tvg-logo="http://ourshdtv.com/images/logo/logo_727_346.png",ours hd4_key
-http://172.104.114.178/vod/live/4/live.m3u8?key=dnnl6bua32k8qape7he35831p3&fbclid=IwAR1vmqLpGtH-rwwd4UTZPzeHfHyB17Lx-yf_N77KWjX9E8EO1DLrIJb7zL8
 
 
+
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp79.135
+http://79.135.77.75:81/udp/239.195.0.88:1234
 #EXTINF:-1,Ibiza TV2_119
 http://119.81.168.227:1935/lfh/_definst_/Stream2/playlist.m3u8
 #EXTINF:-1,Ibiza TV4_streamlock.net
@@ -2474,10 +2469,11 @@ http://185.93.3.83:5014/play/a00a
 http://178.219.160.167:8080/Nuart/index.m3u8 
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart
 http://46.32.68.167/s/live/711/86.169.51.136/1/0.m3u8
-#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp79.135
-http://79.135.77.75:81/udp/239.195.0.88:1234
 
 
+
+#EXTINF:-1,pre-movies_CH_ftvs.php
+http://185.216.119.139:2015/ftvs.php?channelid=5c09dc0e304f6bd61f59a85a&channeltype=0
 #EXTINF:-1,Shot tv
 http://91.90.253.66:8080/CH236_std/index.m3u8
 #EXTINF:-1,GONG_movie_playmedia
