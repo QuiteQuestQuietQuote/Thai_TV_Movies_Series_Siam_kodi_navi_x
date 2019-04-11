@@ -3980,22 +3980,7 @@ URL=https://openload.co/f/hwGX6ghWAYk/The.Devil%27s.Doorway.2018.1080p.BluRay.x2
 
 
 
-type=video
-name=Teen Titans Go! To the Movies (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiEuNw3Lg0PIPNUQ3PIWWElwGcY.jpg
-date=2018-10-29
-URL=https://uptobox.com/rxtzmvdw4r06
-#https://www.rapidvideo.com/e/FWRDCOD6HP
-#https://openload.co/embed/E_ICX0zVgQI/TEENTITANSGOTHEMOVIES80.Ganol.st.mkv
-#https://openload.co/f/kuxxilUJ1es/Teen.Titans.Go.To.the.Movies.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
-#https://openload.co/f/kfaxJp5N71g/Teen_Titans_Go%21_To_the_Movies_%282018%291080p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
-#https://openload.co/f/wbtosjJudQc/Teen.Titans.Go.To.the.Movies.2018.720p.BluRay.x264.DTS-FGT.mkv.mp4
-#https://openload.co/f/owzkqG6yDQc/Teen.Titans.Go.To.the.Movies.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/R3z_dvaWqUA/Teen_Titans_Go_To_the_Movie_2018_720p_TS-1XBET_SeeHD.mp4
-#https://openload.co/f/zgQ-t1LrA8w/Teen.Titans.Go.To.the.Movie.2018.720p.TS-1XBET.mp4   2.4GB
-#https://uptobox.com/k8ohllnz52hv   720
-#https://www.rapidvideo.com/e/FWQIAFU3BL   720
-#https://openload.co/embed/28Aq3g3l2vo/TEENTITANSGOTHEMOVIEBD72.Ganol.st.mkv
+
 
 type=video
 name=An Evening with Beverly Luff Linn (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -7143,18 +7128,6 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCO0jDm1zcUZRMLwB6ZPSk5pj6
 date=2018-02-08
 URL=https://openload.co/f/G9P7ylNs5QA/Fixed.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Daddy's Home 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg
-date=2018-02-10
-URL=https://www.blazefile.co/embed-p5il025fjv1o.html
-https://uptobox.com/j7289p2alzk4
-#https://openload.co/f/Fiym7ash74M/Daddys.Home.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/sIN1JopPsi4/Daddys.Home.2.2017.1080p.BluRay.x264-BLOW.mkv.mp4
-#https://openload.co/f/fo9-1pnFmio/Daddys.Home.2.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/FC1fJ8taIqA/Daddys.Home.2.2017.HDTS.x264-EZIS.mkv.mp4
-#https://openload.co/f/vpL7f9btUG4/Daddys.Home.2.2017.HDCAM.XVID.HQ.Hive-CM8.avi
-#https://openload.co/f/IfYB8OGuPfM/Daddys.Home.2.2017.ENG.720p.CAM.x264-NoGRP.mkv.mp4
 
 
 
@@ -8232,7 +8205,15 @@ URL=https://www.blazefile.co/embed-bl4p0tpspl9r.html
 #https://openload.co/f/Qvt8KmSjWcI/Gun_Shy_2017_BRRip_XViD-juggs.avi.mp4
 #https://openload.co/f/orjREu8pqr4/Gun.Shy.2017.WEB-DL.XviD.AC3-FGT.avi.mp4
 
-
+type=video
+name=BPM (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6fohIpyfvUOgAmNPu5bUgMuojG.jpg
+date=2018-06-12
+URL=https://openload.co/f/-GadCfInCgc/120.beats.per.minute.2017.limited.720p.bluray.x264-cadaver.mkv.mp4
+#https://openload.co/f/VO2UQiS6Vhk/120_battements_par_minute_%282017%29_hc_eng_subs.mp4
+#https://openload.co/f/8EsLqE7gP68/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.x264-ZQ.mkv
+#https://openload.co/f/AxQONoO98ts/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.x264-ZQ.mkv   MKV6.1GB
+#https://openload.co/f/ttUsyLrGoH8/BPM_Beats_Per_Minute_2017_EngSub_WEB-DL_X264_AC3-24HD.mkv.mp4
 
 
 
@@ -8286,15 +8267,7 @@ URL=https://openload.co/f/Srriw0F7R4g/Escape.from.Ensenada.2017.720p.BluRay.H264
 
 
 
-type=video
-name=BPM (2017) [COLOR=FF00FF00]FRE BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6fohIpyfvUOgAmNPu5bUgMuojG.jpg
-date=2018-06-12
-URL=https://openload.co/f/-GadCfInCgc/120.beats.per.minute.2017.limited.720p.bluray.x264-cadaver.mkv.mp4
-#https://openload.co/f/VO2UQiS6Vhk/120_battements_par_minute_%282017%29_hc_eng_subs.mp4
-#https://openload.co/f/8EsLqE7gP68/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.x264-ZQ.mkv
-#https://openload.co/f/AxQONoO98ts/BPM.Beats.Per.Minute.2017.720p.BluRay.AC3.x264-ZQ.mkv   MKV6.1GB
-#https://openload.co/f/ttUsyLrGoH8/BPM_Beats_Per_Minute_2017_EngSub_WEB-DL_X264_AC3-24HD.mkv.mp4
+
 
 
 
@@ -9494,8 +9467,10 @@ URL=https://openload.co/f/UAZZNAOPguE/The_Knight_of_Shadows%3A_Between_Yin_and_Y
 type=video
 name=How to Train Your Dragon: The Hidden World (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZPZdFP2qo0cvfNTrUUNRXTW9AB.jpg
-date=2019-04-09
-URL=https://openload.co/f/LeNzc1gobg8/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2019-04-11
+URL=https://openload.co/f/GXYkQTgLZpc/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.AC3.x264-MkvCage.mkv.mp4
+#https://openload.co/f/aJRFAWLtwh8/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/LeNzc1gobg8/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/dcxjG_FOkYo/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.x264.DTS-FGT.mkv.mp4
 #https://openload.co/f/CCQxLFuVqXk/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.H264.AAC-RARBG_SeeHD.mp4
 #https://openload.co/f/nXoxoYJ3Flw/How_to_train_your_Dragon_3_NEW_HDCAM_SeeHD.mkv.mp4
@@ -9525,8 +9500,9 @@ URL=https://openload.co/f/7aIeHd60KTM/Escape_Room_%282019%29%E0%B8%81%E0%B8%B1%E
 type=video
 name=Glass (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG5GS0V15Zpk8zvsww02faNT0QI.jpg
-date=2019-04-09
-URL=https://openload.co/f/IKqiANQXtJ0/Glass.2019.1080p.BluRay.x264-YTS.AM.mp4
+date=2019-04-11
+URL=https://openload.co/f/bnPFuLwTsGY/Glass.2019.1080p.BluRay.10bit.HEVC.6CH-MkvCage.mkv.mp4
+#https://openload.co/f/IKqiANQXtJ0/Glass.2019.1080p.BluRay.x264-YTS.AM.mp4
 #https://openload.co/f/nU-L_v8ZddQ/Glass.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/ugVn69b417c/Glass.2019.1080p.BRRip.x264-MkvCage.mkv.mp4
 #https://openload.co/f/kH3xbFmv07g/Glass_2019_NEW_HDTC_720p_SeeHD.mkv.mp4
@@ -11272,44 +11248,10 @@ date=2018-05-23
 URL=https://streamango.com/f/mflksmesbcmbqsad/Darkest_Hour_2017_
 
 
-type=video
-name=The 15:17 to Paris (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg
-date=2018-05-10
-URL=https://www.blazefile.co/embed-2tw95xqilbri.html
-#http://uptobox.com/fy7n43j2anqf
-#https://openload.co/f/TNpUpl4GVC4/The.15.17.to.Paris.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/Jy35tFG0lFo/The.15.17.to.Paris.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/EbzZfP6lv9c/The.15.17.to.Paris.2018.720p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/-N5Eqzwfb2I/The.15.17.to.Paris.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/duAEiMhsu4Y/The.15.17.to.Paris.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/MSpcpOW2xyQ/The.15.17.to.Paris.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/bV_8RkHANJQ/The_15-17_to_Paris_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
-#https://openload.co/f/sXgYKJLlM2I/15.17_2018_CAM_Layar.mp4
-#https://openload.co/f/wK9RCbjRZMU/The_15%3A17_to_Paris_%282018%29_HDCAM_720p_Layar.mp4
-type=video
-name=The 15:17 to Paris (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg
-date=2018-05-23
-URL=https://streamango.com/f/bmqeqqqfofrtcrfk/The_15_17_to_Paris_2018_The_15_17_to_Paris_2018_
 
 
-type=video
-name=Pitch Perfect 3 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg
-date=2018-03-08
-URL=https://www.blazefile.co/embed-obp2z2dqhicb.html
-#https://uptobox.com/hartxjc1c3ls
-#https://openload.co/f/1PiVGmz-b6w/Pitch.Perfect.3.2017.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/mj8457obiCg/Pitch.Perfect.3.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/gh2OyXp0iSQ/Pitch.Perfect.3.2017.1080pWEB-DL_SeeHD.mkv.mp4
-#https://openload.co/f/qxnjwUmlZW8/Pitch.Perfect.3.2017.HD720PHD_SeeHD.mp4
-#https://openload.co/f/ulAN5swR5RA/Pitch.Perfect.3.2017.HDCAM.MP4.mp
-type=video
-name=Pitch Perfect 3 (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg
-date=2018-05-01
-URL=https://streamango.com/f/sesdktemcdeaapak/Pitch_Perfect_3_2017_3_
+
+
 
 
 type=video
@@ -11419,24 +11361,7 @@ date=2018-03-26
 URL=https://streamango.com/f/cdpoacmfmtlpqcqm/The_Bar_2017_
 
 
-type=video
-name=Downsizing (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
-date=2018-03-08
-URL=https://www.blazefile.co/embed-cunn2s8byvp6.html
-#https://uptobox.com/o53cmekouwn9
-#https://openload.co/f/B9N2TvEo9V8/downsizing.2017.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/Ji-H7B-d_jE/Downsizing.2017.1080p.Br_SeeHD.mp4
-#https://openload.co/f/Bt8PfwrbkwY/Downsizing.2017.720p.Br_SeeHD.mp4
-#https://openload.co/f/-yKYDG-0yO4/Downsizing.2017.720p.Bluray.x264-Geckos.mkv.mp4
-#https://openload.co/f/HFErJ2kdTP0/Downsizing.2017.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
-#https://openload.co/f/FnpHjO5a37w/Downsizing.2017.TS.XViD-BL4CKP34RL.avi.mp4
-#https://openload.co/f/H8IXHlo5aCk/Downsizing.2017.CLEAN.720p.HDCAM.x264.AAC-NEXUS.mp4
-type=video
-name=Downsizing (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
-date=2018-03-24
-URL=https://streamango.com/f/fpfpdmrkderbnere/Downsizing_2017_
+
 
 
 type=video
@@ -11658,21 +11583,7 @@ date=2018-02-21
 URL=https://streamango.com/f/rncssneeckcdpfqf/Fullmetal_Alchemist_2017_
 
 
-type=video
-name=Happy Death Day (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
-date=2018-01-06
-URL=https://uptobox.com/pifzxk307tme
-#https://openload.co/f/68otQ6oKky4/happy.death.day.2017.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/V2dACs9dlc8/Happy.Death.Day.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
-#https://openload.co/f/Cj6-0Jdp9Q4/Happy.Death.Day.2017.720p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/xaI6kEGbCps/Happy.Death.Day.2017.1080p.WEB-DL.DD5.1.H.264-THVM.mkv.mp4
-#https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
-type=video
-name=Happy Death Day (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
-date=2018-02-21
-URL=https://streamango.com/f/btlroalmepbsplcr/Happy_Death_Day_2017_
+
 
 
 
@@ -12541,6 +12452,8 @@ name=Replicas (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-54
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUG8gxJTcXXdDrbdlmDAIJMFghO.jpg
 date=2019-04-09
 URL=https://openload.co/f/nMHirnWnqZE/Replicas.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/YMBijFm9zOI/Replicas.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/MMi5oZE-aFo/Replicas.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/bzd5pDTSg3s/Replicas.2018.1080p.Bluray.X264-EVO.mkv.mp4
 #https://openload.co/f/UpcueuQWeYo/Replicas.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/YzO-RZOv9vM/Replicas.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
@@ -12638,23 +12551,7 @@ URL=https://openload.co/f/go7PI8UU2sI/Luis_and_the_Aliens_%282018%29%E0%B8%AB%E0
 #https://openload.co/f/qo3RsswIa80/Luis_and_the_Aliens_%282018%29%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%AA%E0%B9%8C%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%AA%E0%B8%9A_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=Iceman: The Time Traveler (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-32
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/enZENHd2gwVAw4sJKJxtJl1vJ09.jpg
-date=2019-01-01
-URL=https://uptobox.com/prn9voky3pd9
-#https://fruithosts.net/embed/drsaeqmndqdsfclq/Iceman_The_Time_Traveller_2018_BluRay_1080p_5_1CH_x264_Ganol_si_mkv
-#https://streamango.com/f/lfqcbreflafklobo/Iceman_The_Time_Traveller_2018_BluRay_1080p_5_1CH_x264_Ganol_si_mkv_mp4
-#https://openload.co/f/OVgdZk1u-Zo/Iceman.The.Time.Traveller.2018.ENG.SUB.1080p.BluRay.H264.AAC.mkv.mp4
-#https://openload.co/f/dYZs0Gj_x_k/Iceman.The.Time.Traveller.2018.CHINESE.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/ZzGTE09HYx4/Iceman.The.Time.Traveller.2018.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
-#https://openload.co/f/cLPBNDhPxWQ/Iceman.The.Time.Traveller.2018.1080p.BluRay.x264-WiKi.mkv.mp4
-type=video
-name=Iceman: The Time Traveler (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/enZENHd2gwVAw4sJKJxtJl1vJ09.jpg
-date=2019-04-08
-URL=https://openload.co/f/JEUFHrQ5Jl4/Iceman%3A_The_Time_Traveler_%282018%29%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-#https://openload.co/f/YYL7n1E3PZs/Iceman%3A_The_Time_Traveler_%282018%29%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
 
 
 type=video
@@ -13091,25 +12988,153 @@ URL=
 
 
 
+type=video
+name=Teen Titans Go! To the Movies (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiEuNw3Lg0PIPNUQ3PIWWElwGcY.jpg
+date=2018-10-29
+URL=https://uptobox.com/rxtzmvdw4r06
+#https://www.rapidvideo.com/e/FWRDCOD6HP
+#https://openload.co/embed/E_ICX0zVgQI/TEENTITANSGOTHEMOVIES80.Ganol.st.mkv
+#https://openload.co/f/kuxxilUJ1es/Teen.Titans.Go.To.the.Movies.2018.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/kfaxJp5N71g/Teen_Titans_Go%21_To_the_Movies_%282018%291080p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
+#https://openload.co/f/wbtosjJudQc/Teen.Titans.Go.To.the.Movies.2018.720p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/owzkqG6yDQc/Teen.Titans.Go.To.the.Movies.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/R3z_dvaWqUA/Teen_Titans_Go_To_the_Movie_2018_720p_TS-1XBET_SeeHD.mp4
+#https://openload.co/f/zgQ-t1LrA8w/Teen.Titans.Go.To.the.Movie.2018.720p.TS-1XBET.mp4   2.4GB
+#https://uptobox.com/k8ohllnz52hv   720
+#https://www.rapidvideo.com/e/FWQIAFU3BL   720
+#https://openload.co/embed/28Aq3g3l2vo/TEENTITANSGOTHEMOVIEBD72.Ganol.st.mkv
+type=video
+name=Teen Titans Go! To the Movies (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiEuNw3Lg0PIPNUQ3PIWWElwGcY.jpg
+date=2019-04-11
+URL=https://openload.co/f/4KWuOrqFaB0/Teen_Titans_Go%21_To_the_Movies_%282018%29%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B9%84%E0%B8%97%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B9%8C_%E0%B9%82%E0%B8%81_%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99.mp4
 
 
+type=video
+name=Iceman: The Time Traveler (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-32
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/enZENHd2gwVAw4sJKJxtJl1vJ09.jpg
+date=2019-01-01
+URL=https://uptobox.com/prn9voky3pd9
+#https://fruithosts.net/embed/drsaeqmndqdsfclq/Iceman_The_Time_Traveller_2018_BluRay_1080p_5_1CH_x264_Ganol_si_mkv
+#https://streamango.com/f/lfqcbreflafklobo/Iceman_The_Time_Traveller_2018_BluRay_1080p_5_1CH_x264_Ganol_si_mkv_mp4
+#https://openload.co/f/OVgdZk1u-Zo/Iceman.The.Time.Traveller.2018.ENG.SUB.1080p.BluRay.H264.AAC.mkv.mp4
+#https://openload.co/f/dYZs0Gj_x_k/Iceman.The.Time.Traveller.2018.CHINESE.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/ZzGTE09HYx4/Iceman.The.Time.Traveller.2018.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
+#https://openload.co/f/cLPBNDhPxWQ/Iceman.The.Time.Traveller.2018.1080p.BluRay.x264-WiKi.mkv.mp4
+type=video
+name=Iceman: The Time Traveler (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/enZENHd2gwVAw4sJKJxtJl1vJ09.jpg
+date=2019-04-11
+URL=https://openload.co/f/Cbwyq2M27hg/ICEMAN__THE_TIME_TRAVELER_%282018%29_%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_2.mp4
+#https://www.rapidvideo.com/e/G1TVQX6IOL&q=1080p
+#https://openload.co/f/JEUFHrQ5Jl4/Iceman%3A_The_Time_Traveler_%282018%29%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+#https://openload.co/f/YYL7n1E3PZs/Iceman%3A_The_Time_Traveler_%282018%29%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
+type=video
+name=The 15:17 to Paris (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-53
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg
+date=2018-05-10
+URL=https://www.blazefile.co/embed-2tw95xqilbri.html
+#http://uptobox.com/fy7n43j2anqf
+#https://openload.co/f/TNpUpl4GVC4/The.15.17.to.Paris.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/Jy35tFG0lFo/The.15.17.to.Paris.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/EbzZfP6lv9c/The.15.17.to.Paris.2018.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/-N5Eqzwfb2I/The.15.17.to.Paris.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/duAEiMhsu4Y/The.15.17.to.Paris.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/MSpcpOW2xyQ/The.15.17.to.Paris.2018.720p.WEB-DL.H264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/bV_8RkHANJQ/The_15-17_to_Paris_2018.HDCAM.XViD.AC3-ETRG.avi.mp4
+#https://openload.co/f/sXgYKJLlM2I/15.17_2018_CAM_Layar.mp4
+#https://openload.co/f/wK9RCbjRZMU/The_15%3A17_to_Paris_%282018%29_HDCAM_720p_Layar.mp4
+type=video
+name=The 15:17 to Paris (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg
+date=2019-04-11
+URL=https://openload.co/f/A6BR2jlpOz0/THE_15_17_TO_PARIS_%282018%29_%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81_15_17.mp4
+#https://www.rapidvideo.com/e/G1XPHT2LLH&q=1080p
+#https://streamango.com/f/bmqeqqqfofrtcrfk/The_15_17_to_Paris_2018_The_15_17_to_Paris_2018_
 
 
+type=video
+name=Downsizing (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-51
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
+date=2018-03-08
+URL=https://www.blazefile.co/embed-cunn2s8byvp6.html
+#https://uptobox.com/o53cmekouwn9
+#https://openload.co/f/B9N2TvEo9V8/downsizing.2017.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/Ji-H7B-d_jE/Downsizing.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/Bt8PfwrbkwY/Downsizing.2017.720p.Br_SeeHD.mp4
+#https://openload.co/f/-yKYDG-0yO4/Downsizing.2017.720p.Bluray.x264-Geckos.mkv.mp4
+#https://openload.co/f/HFErJ2kdTP0/Downsizing.2017.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mkv.mp4
+#https://openload.co/f/FnpHjO5a37w/Downsizing.2017.TS.XViD-BL4CKP34RL.avi.mp4
+#https://openload.co/f/H8IXHlo5aCk/Downsizing.2017.CLEAN.720p.HDCAM.x264.AAC-NEXUS.mp4
+type=video
+name=Downsizing (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
+date=2019-04-11
+URL=https://openload.co/f/IHjVR4RYgj0/DOWNSIZING_%282017%29_%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%8B%E0%B8%AA%E0%B9%8C.mp4
+#https://www.rapidvideo.com/e/G1XPPD833Q&q=1080p
+#https://streamango.com/f/fpfpdmrkderbnere/Downsizing_2017_
 
 
+type=video
+name=Happy Death Day (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
+date=2018-01-06
+URL=https://uptobox.com/pifzxk307tme
+#https://openload.co/f/68otQ6oKky4/happy.death.day.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/V2dACs9dlc8/Happy.Death.Day.2017.720p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/Cj6-0Jdp9Q4/Happy.Death.Day.2017.720p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/xaI6kEGbCps/Happy.Death.Day.2017.1080p.WEB-DL.DD5.1.H.264-THVM.mkv.mp4
+#https://openload.co/f/2ZwgRwz1bNw/Happy_Death_Day_2017_HD-TS_X264_HQ-DADDY.mp4
+type=video
+name=Happy Death Day (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
+date=2019-04-11
+URL=https://openload.co/f/j8a9KuQ2T7Q/HAPPY_DEATH_DAY_%282017%29_%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2_.mp4
+#https://www.rapidvideo.com/e/G1XL0MTZIF&q=1080p
+#https://streamango.com/f/btlroalmepbsplcr/Happy_Death_Day_2017_
 
 
+type=video
+name=Daddy's Home 2 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg
+date=2018-02-10
+URL=https://www.blazefile.co/embed-p5il025fjv1o.html
+https://uptobox.com/j7289p2alzk4
+#https://openload.co/f/Fiym7ash74M/Daddys.Home.2.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/sIN1JopPsi4/Daddys.Home.2.2017.1080p.BluRay.x264-BLOW.mkv.mp4
+#https://openload.co/f/fo9-1pnFmio/Daddys.Home.2.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/FC1fJ8taIqA/Daddys.Home.2.2017.HDTS.x264-EZIS.mkv.mp4
+#https://openload.co/f/vpL7f9btUG4/Daddys.Home.2.2017.HDCAM.XVID.HQ.Hive-CM8.avi
+#https://openload.co/f/IfYB8OGuPfM/Daddys.Home.2.2017.ENG.720p.CAM.x264-NoGRP.mkv.mp4
+type=video
+name=Daddy's Home 2 (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg
+date=2019-04-11
+URL=https://openload.co/f/ZNvjdxthzgI/DADDY_S_HOME_2_%282017%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99_%28%E0%B8%95%E0%B8%B1%E0%B8%A7%29%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%AA%E0%B8%9A%E0%B8%84%E0%B8%B9%E0%B8%93_2.mp4
+#https://www.rapidvideo.com/e/G1XKWA9QFK&q=1080p
 
 
-
-
-
-
-
-
-
+type=video
+name=Pitch Perfect 3 (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg
+date=2018-03-08
+URL=https://www.blazefile.co/embed-obp2z2dqhicb.html
+#https://uptobox.com/hartxjc1c3ls
+#https://openload.co/f/1PiVGmz-b6w/Pitch.Perfect.3.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/mj8457obiCg/Pitch.Perfect.3.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/gh2OyXp0iSQ/Pitch.Perfect.3.2017.1080pWEB-DL_SeeHD.mkv.mp4
+#https://openload.co/f/qxnjwUmlZW8/Pitch.Perfect.3.2017.HD720PHD_SeeHD.mp4
+#https://openload.co/f/ulAN5swR5RA/Pitch.Perfect.3.2017.HDCAM.MP4.mp
+type=video
+name=Pitch Perfect 3 (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg
+date=2019-04-11
+URL=https://openload.co/f/xQ2QmgOmqrA/PITCH_PERFECT_3_%282017%29_%E0%B8%8A%E0%B8%A1%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AA_%E0%B8%96%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%A1%E0%B8%84%E0%B9%8C%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%9D%E0%B8%B1%E0%B8%99_3.mp4
+#https://www.rapidvideo.com/e/G1XKW8KF38&q=1080p
+#https://streamango.com/f/sesdktemcdeaapak/Pitch_Perfect_3_2017_3_
 
 
 type=video
@@ -13157,8 +13182,9 @@ URL=https://openload.co/f/f_GihvXBrH4/A-X-L_%282018%29%E0%B9%81%E0%B8%AD%E0%B8%8
 type=video
 name=Inuyashiki (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIJJsJSt5PFKM4cqbRlzgZ7Jk12.jpg
-date=2019-04-08
-URL=https://openload.co/f/S6Vc88exO80/Inuyashiki_%282018%29%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%B8%E0%B8%A2%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%81%E0%B8%B4%3A_%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A5%E0%B8%B8%E0%B8%87%E0%B9%84%E0%B8%8B%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%81.mp4
+date=2019-04-11
+URL=https://www.rapidvideo.com/e/G1UWSOVK5C&q=1080p
+#https://openload.co/f/S6Vc88exO80/Inuyashiki_%282018%29%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%B8%E0%B8%A2%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%81%E0%B8%B4%3A_%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A5%E0%B8%B8%E0%B8%87%E0%B9%84%E0%B8%8B%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%81.mp4
 #https://openload.co/f/ywVKgSxULO4/Inuyashiki_%282018%29%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%B8%E0%B8%A2%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%81%E0%B8%B4%3A_%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A5%E0%B8%B8%E0%B8%87%E0%B9%84%E0%B8%8B%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
@@ -14542,7 +14568,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-04-09
+date=2019-04-11
 URL=
 
 
@@ -14552,6 +14578,36 @@ URL=
 
 
 
+
+type=video
+name=Max 2: White House Hero (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/roIpyS1wlXFCiunN7WGkKSY3BGG.jpg
+date=2019-04-11
+URL=https://openload.co/f/OaSgfUI82U8/Max.2.White.House.Hero.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Cop Car (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LTj0CJhpOFISrpHJQD0aUILnFS.jpg
+date=2019-04-11
+URL=https://openload.co/f/Z6kNKyQgCGw/Cop.Car.2015.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Hellboy II: The Golden Army (2008) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFcZqnWDeQsImDAAIyAimc3SGEl.jpg
+date=2019-04-11
+URL=https://openload.co/f/LS5pQGznofs/Hellboy.2.The.Golden.Army.2008.1080p.BluRay_SeeHD.mp4
+
+type=video
+name=Hellboy (2004) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fAWzI9MUosggdGMu7EaDhn44m6.jpg
+date=2019-04-11
+URL=https://openload.co/f/DwpD7QGIc0A/HellBoy.2004.1080p.BluRay_SeeHD.mp4
+
+type=video
+name=A Dark Song (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fguce8M1bZnWjVkRWCFh9P3kt6A.jpg
+date=2019-04-11
+URL=https://openload.co/f/N53_2F9mALo/A.Dark.Song.2016.1080p.BluRay_SeeHD.mp4
 
 type=video
 name=Mortal Engines (2018) [COLOR=FF00FF00]3D ENG BR 1080p[/COLOR] | TMDB-59

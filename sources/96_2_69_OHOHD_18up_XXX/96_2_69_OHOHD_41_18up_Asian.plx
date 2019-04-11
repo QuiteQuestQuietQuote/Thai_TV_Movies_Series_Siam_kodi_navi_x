@@ -70,6 +70,258 @@ URL=
 
 
 
+
+
+
+type=video
+name=142xxxxxxxxxxxxxxxxxxxxTtal Ui Aein 2 (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/Ttal-Ui-Aein-2-2018.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/rkbcaamromrttsbt/
+
+type=video
+name=Ghost wo Aishita Bijinduma (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/Ghost-wo-Aishita-Bijinduma-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/sqteolqrtbarlabq/
+
+type=video
+name=My Colleague’s Behind-The-Scenes Life (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/My-Colleagues-Behind-The-Scenes-Life-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/apbrtnsppnptodas/
+
+type=video
+name=Mali of purpose in life (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/Mali-of-purpose-in-life-2018.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/ttotepdnnodtfkda/
+
+type=video
+name=Uli Dolyeonnim (2018) [SD]
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/Uli-Dolyeonnim-2018-SD.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/mtodddafseelprsb/
+
+
+type=video
+name=ASEBAMU AKAHADAKA TSUMA (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/ASEBAMU-AKAHADAKA-TSUMA-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/poacceqboltlakes/
+
+type=video
+name=Treat Me Taxi Fare If Fuck Me (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/Treat-Me-Taxi-Fare-If-Fuck-Me-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/dffmbepcbknpdefb/
+
+type=video
+name=Nae Chaghan Saeeomma (2018) [De] 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/Nae-Chaghan-Saeeomma-2018-De.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/krpencbacfbrsocn/
+
+type=video
+name=Nae Chinguui Sugmo (2018) [SD] 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/Nae-Chinguui-Sugmo-2018-SD.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/fsaofaqfkredctol/
+
+type=video
+name=Matrimonial Agency for Mature People 5 (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/Matrimonial-Agency-for-Mature-People-5-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/dkpqdoffdprnrkmd/
+
+
+type=video
+name=Nae Anaeui Eomma (2018) [SD] 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/Nae-Anaeui-Eomma-2018-SD.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/nnmbmrdktmtktfsc/
+
+type=video
+name=Mas Issneun Sejamae (2018) [NU]
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/Mas-Issneun-Sejamae-2018-NU.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/nrcbpkrmpkkrdnom/
+
+type=video
+name=Kindan no Triangle (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/Kindan-no-Triangle-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/mbasrrqcamoqaado/
+
+type=video
+name=Gikeinosoakaranigerarenai (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/Gikeinosoakaranigerarenai-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/tpsbtstskkodmsrq/
+
+type=video
+name=Jangmo Temptation (2018) [SD] 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/Jangmo-Temptation-2018-SD.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/lpbbrlfbmasmfddp/
+
+
+type=video
+name=Younger Sister De (2018) [UC]
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/Younger-Sister-De-2018-UC.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/sondokslscfdbrbd/
+
+type=video
+name=Cheonbaghan Nuna (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/Cheonbaghan-Nuna-2018.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/llaqbpcrdfkrqbfc/
+
+type=video
+name=Construction Site Dolls (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/Construction-Site-Dolls-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/qdnfcfecqdbdmssm/
+
+type=video
+name=Why Can’t I Fuck with My Sister (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/04/Why-Can-t-I-Fuck-with-My-Sister-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/fclfdfbefcntsese/
+
+type=video
+name=Allaeseuka Buggeuggom (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Allaeseuka-Buggeuggom-2018.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/fpeksplsraqdrset/
+
+
+
+
+
+
+
+
+
+type=video
+name=122xxxxxxxxxxxxxxxxxxxxChaghan Hyeongsuui Sajeong (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Chaghan-Hyeongsuui-Sajeong-2018.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/rpstdkdofbfkmnrm/
+
+type=video
+name=Haha no Shinyu Miyabe Ryoka (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Haha-no-Shinyu-Miyabe-Ryoka-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/mnmnconndqfcqfsq/
+
+type=video
+name=Haha no Shinyu Tanihara Yuki (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Haha-no-Shinyu-Tanihara-Yuki-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/obppfcbbqprbbfpm/
+
+type=video
+name=Dad Friend 2 (2018) [NC]
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Dad-Friend-2-2018-NC.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/scmrbdprbqrkeaac/
+
+type=video
+name=Jangmonimdeul (2018) [De]
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Jangmonimdeul-2018-De.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/cblnaermmfesdbdl/
+
+
+type=video
+name=Watashiha Anatano Dorei desu (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Watashiha-Anatano-Dorei-desu-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/rmcmopfrqbmcpcpp/
+
+type=video
+name=Jeongsa Eolin_saeeomma (2018) [NC]
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Jeongsa-Eolin_saeeomma-2018-NC.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/nlsotpdmnlobonqd/
+
+type=video
+name=Shinzoku-soukan Matsui Yuko (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Shinzoku-soukan-Matsui-Yuko-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/blarprdrsepdeqdk/
+
+type=video
+name=Good-Looking Guy’s Massage Shop in Shin Okubo (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Good-Looking-Guys-Massage-Shop-in-Shin-Okubo-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/qdmdssfsoprlnskn/
+
+type=video
+name=Nae Dongsaeng Ui Anae (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Nae-Dongsaeng-Ui-Anae-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/sadsfkoflrqnkbmp/
+
+
+type=video
+name=Nae Chaghan Saeeomma (2018) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Nae-Chaghan-Saeeomma-2018.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/seeakdtfatfoellc/
+
+type=video
+name=Nae Yeojaui Jeongsa (2018) [UN] 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Nae-Yeojaui-Jeongsa-2018-UN.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/rdmcnofskolkqptt/
+
+type=video
+name=Reunion Love Affair 2 (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Reunion-Love-Affair-2-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/bfnptddmncsombme/
+
+type=video
+name=Room College Girls (2018) [UC]
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Room-College-Girls-2018-UC.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/bstfqfqmnodkqsnq/
+
+type=video
+name=Bucho no Okusan ga Erosugite Maki Kyoko (2017)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Bucho-no-Okusan-ga-Erosugite-Maki-Kyoko-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/brenrlqkpnndbren/
+
+
+type=video
+name=Kinshin-mugon-sokan Chino Azumi (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Kinshin-mugon-sokan-Chino-Azumi-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/tpmbbmeqbnqtateo/
+
+type=video
+name=Eolin Saeeommadeul (2018)
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Eolin-Saeeommadeul-2018.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/dtedbefqqrnaorts/
+
+type=video
+name=Hutarino sextukusuhurendo (2017) 
+thumb=https://erotic24hr.com/wp-content/uploads/2019/03/Hutarino-sextukusuhurendo-2017.jpg
+date=2019-04-10
+URL=https://streamcherry.com/embed/okfefomnpnkodnca/
+
+
+
+
+
+
+
+
 type=video
 name=104xxxxxxxxxxxxxxxxxxxxDeungsan Ui Chammas (2018)
 thumb=https://erotic24hr.com/wp-content/uploads/2019/02/Deungsan-Ui-Chammas-2018.jpg
