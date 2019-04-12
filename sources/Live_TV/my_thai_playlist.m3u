@@ -82,7 +82,7 @@ http://113.177.63.140:4022/rtp/232.84.1.5:8004
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery Asia HD
 http://103.77.116.191:443/documentary/discovery_hd_world_720p.stream/chunklist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI
+-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI
 http://103.77.116.191:443/documentary/discovery_science_720p.stream//playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",Nat Geo People HD
 http://103.77.116.191:443/documentary/national_geographic_people_720p.stream/playlist.m3u8?st=PGmwNhqSqJIjODkuOMO3fA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519574439
@@ -2252,39 +2252,62 @@ http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 
-
-#EXTINF:-1,VIP: UK – BBC Earth
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198516
-#EXTINF:-1,VIP: UK – China History Channel HD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/204142
-#EXTINF:-1,VIP: UK – Discovery History
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/204754
-#EXTINF:-1,VIP: UK – DISCOVERY HOME & HEALTH
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/204793
-#EXTINF:-1,VIP: UK – HISTORY CHANNEL FHD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198511
-
-
 #EXTINF:-1,Travel+Adventure HD 
 http://persik.by/stream/4200/395314/10323.m3u8 
 #EXTINF:-1,D_CH
 http://39.134.176.157/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1,: BBC Earth HD
 http://globiptv.com:8000/frankkjeldsen@protonmail.com/5504193377/4757
-
-
 #EXTINF:-1,E
 http://210.210.155.35/session/d63bb414-30c3-11e9-b5a0-c81f66f89318/uq2663/h/h10/01.m3u8
+
+#EXTINF:-1,E!
+http://unlockyourtv.com:8000/59swvQH92a/o88k02zJqZ/605
+#EXTINF:-1,E! (BU)
+http://unlockyourtv.com:8000/59swvQH92a/o88k02zJqZ/3122
+
+#EXTINF:-1,Asian Food Channel (HD 4Mbps)
+http://1.53.18.215:4022/udp/225.1.2.98:30120
+#EXTINF:-1,BBC Earth (HD 4Mbps)
+http://1.53.18.215:4022/udp/225.1.2.25:30120
+#EXTINF:-1,Da Vinci Kids (HD 4Mbps)
+http://1.53.18.215:4022/udp/225.1.2.253:30120
+#EXTINF:-1,Discovery Asia (HD 4Mbps)
+http://1.53.18.215:4022/udp/225.1.2.222:30120
+#EXTINF:-1,Asian Food Channel (HD 8Mbps)
+http://1.53.18.215:4022/udp/225.1.1.198:30120
+#EXTINF:-1,BBC Earth (HD 8Mbps)
+http://1.53.18.215:4022/udp/225.1.2.24:30120
+#EXTINF:-1,Da Vinci Kids (HD 8Mbps)
+http://1.53.18.215:4022/udp/225.1.1.197:30120
+#EXTINF:-1,Discovery Asia (HD 8Mbps)
+http://1.53.18.215:4022/udp/225.1.2.223:30120
+#EXTINF:-1,BBC Lifestyle
+http://1.53.18.215:4022/udp/225.1.2.52:30120
+#EXTINF:-1,BBC earth (FPT Play)
+http://1.53.18.215:4022/udp/225.1.4.21:30120
+#EXTINF:-1,BBC lifestyle (FPT Play)
+http://1.53.18.215:4022/udp/225.1.4.23:30120
+#EXTINF:-1,Da Vinci/DIVA??? (FPT Play)
+http://1.53.18.215:4022/udp/225.1.4.38:30120
+#EXTINF:-1,DISCOVERY asia. (HD) (FPT Play)
+http://1.53.18.215:4022/udp/225.1.4.25:30120
+
+
+#EXTINF:-1,cooking ch
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 
 #EXTINF:-1,Pics_CHN
 http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/wypdhd/4000000/live.m3u8
 
 #EXTINF:-1,Da Vinci Learning 
-http://193.233.191.182:999/udp/239.191.254.72:13343 
+http://89.208.68.39:5050/udp/239.1.5.6:1234 
 
+#EXTINF:-1,Da Vinci Learning 
+http://109.237.150.156:81/udp/239.1.5.6:1234 
 
-
-
+#EXTINF:-1,anime
+http://megatv.live/pame/pame/337
 
 
 
@@ -2394,6 +2417,8 @@ http://live.redtraffic.xyz/russian.m3u8
 http://live.redtraffic.xyz/lesbian.m3u8
 
 
+#EXTINF:-1,phone vision
+http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3049003136-10057-A-0-1_1200.m3u8
 #EXTINF:-1,honey)
 http://122.38.74.172:9981/stream/channelid/1463854277
 #EXTINF:-1,VIKI
@@ -2477,6 +2502,8 @@ http://91.90.253.66:8080/CH236_std/index.m3u8
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 #EXTINF:-1,JAP_cs19
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=156632922
+#EXTINF:-1,Doc_CH
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
 #EXTINF:-1,a taste of china24/7_CHN
 http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 
@@ -2514,8 +2541,7 @@ http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 
 
-#EXTINF:-1,USA: CNBC HD
-http://nowlocal.webhop.net:25461/Giuffritacaltabianofiglio/Y0PSM2Qxev/24751
+
 
 
 
