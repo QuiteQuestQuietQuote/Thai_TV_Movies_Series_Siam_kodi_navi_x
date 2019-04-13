@@ -2265,52 +2265,16 @@ http://210.210.155.35/session/d63bb414-30c3-11e9-b5a0-c81f66f89318/uq2663/h/h10/
 http://unlockyourtv.com:8000/59swvQH92a/o88k02zJqZ/605
 #EXTINF:-1,E! (BU)
 http://unlockyourtv.com:8000/59swvQH92a/o88k02zJqZ/3122
-
-#EXTINF:-1,Asian Food Channel (HD 4Mbps)
-http://1.53.18.215:4022/udp/225.1.2.98:30120
-#EXTINF:-1,BBC Earth (HD 4Mbps)
-http://1.53.18.215:4022/udp/225.1.2.25:30120
-#EXTINF:-1,Da Vinci Kids (HD 4Mbps)
-http://1.53.18.215:4022/udp/225.1.2.253:30120
-#EXTINF:-1,Discovery Asia (HD 4Mbps)
-http://1.53.18.215:4022/udp/225.1.2.222:30120
-#EXTINF:-1,Asian Food Channel (HD 8Mbps)
-http://1.53.18.215:4022/udp/225.1.1.198:30120
-#EXTINF:-1,BBC Earth (HD 8Mbps)
-http://1.53.18.215:4022/udp/225.1.2.24:30120
-#EXTINF:-1,Da Vinci Kids (HD 8Mbps)
-http://1.53.18.215:4022/udp/225.1.1.197:30120
-#EXTINF:-1,Discovery Asia (HD 8Mbps)
-http://1.53.18.215:4022/udp/225.1.2.223:30120
-#EXTINF:-1,BBC Lifestyle
-http://1.53.18.215:4022/udp/225.1.2.52:30120
-#EXTINF:-1,BBC earth (FPT Play)
-http://1.53.18.215:4022/udp/225.1.4.21:30120
-#EXTINF:-1,BBC lifestyle (FPT Play)
-http://1.53.18.215:4022/udp/225.1.4.23:30120
-#EXTINF:-1,Da Vinci/DIVA??? (FPT Play)
-http://1.53.18.215:4022/udp/225.1.4.38:30120
-#EXTINF:-1,DISCOVERY asia. (HD) (FPT Play)
-http://1.53.18.215:4022/udp/225.1.4.25:30120
-
-
 #EXTINF:-1,cooking ch
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-
 #EXTINF:-1,Pics_CHN
 http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/wypdhd/4000000/live.m3u8
 
+
 #EXTINF:-1,Da Vinci Learning 
 http://89.208.68.39:5050/udp/239.1.5.6:1234 
-
 #EXTINF:-1,Da Vinci Learning 
 http://109.237.150.156:81/udp/239.1.5.6:1234 
-
-#EXTINF:-1,anime
-http://megatv.live/pame/pame/337
-
-
-
 
 
 
@@ -2395,6 +2359,8 @@ http://79.133.127.16:999/udp/239.191.254.250:15285
 
 #EXTINF:-1,xxx
 http://v2.myowntv.org/content/35636/index.m3u8?seg-2422-v1-a1.m3u
+#EXTINF:-1,anime
+http://megatv.live/pame/pame/337
 #EXTINF:-1,CAN
 http://kimbogrupol.com:25461/efrain/efrain/16111
 #EXTINF:-1,Russian night
