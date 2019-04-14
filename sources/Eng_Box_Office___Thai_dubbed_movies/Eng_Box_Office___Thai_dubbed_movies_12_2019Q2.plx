@@ -14568,7 +14568,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-04-11
+date=2019-04-14
 URL=
 
 
@@ -14577,7 +14577,11 @@ URL=
 
 
 
-
+type=video
+name=Duel (1971) [COLOR=FF00FF00]ENG HD 1080p[/COLOR] | TMDB-74
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tr7YTVjGPSCheYtObfoNRkMV82L.jpg
+date=2019-04-14
+URL=http://entervideo.net/watch/3c753e4d33d4aac
 
 type=video
 name=Max 2: White House Hero (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
