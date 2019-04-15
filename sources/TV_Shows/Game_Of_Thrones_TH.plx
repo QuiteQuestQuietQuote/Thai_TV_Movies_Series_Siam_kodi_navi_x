@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w640/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg
+background=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg
 title=Game of Thrones (2011)_TH
-logo=https://image.tmdb.org/t/p/w640/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg
+logo=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg
+icon_playlist=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -70,7 +70,18 @@ date=2019-04-14
 URL=https://openload.co/f/xWUJCR34Gc8/Game.Of.Thrones.The.Story.So.Far.2018.720p.HDTV.x264-PLUTONiUM.mkv.mp4
 
 
-
+type=video
+name=S08-E01___Winterfell___[COLOR=FF00FF00]repack.720p.web.h264-memento[/COLOR]
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/aeLFDgp0J9140lS4nWUgZZRK6Rp.jpg
+date=2019-04-15
+URL=https://openload.co/f/vQ-tgI3FM1U/game.of.thrones.s08e01.repack.720p.web.h264-memento_SeeHD.mkv.mp4
+#https://openload.co/f/y_n1QbWM_48/Game.of.Thrones.S08E01.REPACK.720p.WEB.H264-MEMENTO.mkv.mp4
+#https://openload.co/f/YRAUyMIBnx0/Game.of.Thrones.S08E01.Kings.Landing.1080p.AMZN.WEB-DL.x264-MkvCage.ws.E.mp4
+type=video
+name=S08-E01___Winterfell___TH DUBBED_thsub
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/aeLFDgp0J9140lS4nWUgZZRK6Rp.jpg
+date=2019-04-15
+URL=https://openload.co/f/vKkn0XFFnBE/Game_of_Thrones_S08.1_thsub.mp4
 
 
 

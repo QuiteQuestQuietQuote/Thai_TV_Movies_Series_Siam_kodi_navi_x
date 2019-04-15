@@ -1,8 +1,8 @@
 version=1
-background=https://image.tmdb.org/t/p/w640/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg
+background=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg
 title=TV_Shows
-logo=https://image.tmdb.org/t/p/w640/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg
-icon_playlist=https://image.tmdb.org/t/p/w640/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg
+logo=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg
+icon_playlist=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, openloadmovies, layar-21./description
 
 type=playlist
@@ -23,8 +23,8 @@ rating=-1.00
 
 type=playlist
 name=Game of Thrones (2011)_TH
-thumb=https://image.tmdb.org/t/p/w640/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg
-date=2017-06-29
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg
+date=2019-04-15
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/TV_Shows/Game_Of_Thrones_TH.plx
 player=default
 rating=-1.00
