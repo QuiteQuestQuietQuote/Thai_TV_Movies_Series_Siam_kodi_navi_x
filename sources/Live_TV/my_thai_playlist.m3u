@@ -2073,6 +2073,8 @@ http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News + info
 http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/28051
+#EXTINF:-1 group-title="BAJIGUR",cnbc
+http://161.0.157.38/PLTV/88888888/224/3221227005/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_udp
 http://109.205.228.2:8088/udp/234.12.3.35:5000_KRICKA_dont_cry
 #EXTINF:-1,CNBC
@@ -2085,8 +2087,7 @@ http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_pltv
 http://161.0.157.9/PLTV/88888888/224/3221227005/01.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC
-http://92.43.140.249/s65/04.m3u8
+
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
 https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
 #EXTINF:-1,GONG_movie
@@ -2286,16 +2287,45 @@ http://14.251.245.15:8889/rtp/232.84.1.108:10224
 #EXTINF:-1,NAT GEO people
 http://14.251.245.15:8889/rtp/232.84.2.121:8376
 
-#EXTINF:-1,wacu_wacu JAP
-http://51.79.130.58:25461/limasatu/dKH9ejSAHs/717?token=QxtcBxBdEQkVWVMDXlRRAglcBwcBXAlXV1EFBw4HWVIODlJSUQcHAAVDGRRLQRRWUVU6XVZGCgVSU0gXTBEEEGdQUERZFwADD1YCFBQXElpdXUcOA1EFB1dUUwIIVk1ASFBQRFkXCwYHURcaGlAeR1VKC1VeO1RXFQ0HUBtYDxdUVRhEDFtsV1IMVFhcF1wRABpJFlsXQBBZRiVZUCENDU1dFDUkFx8RVQhBRFlBAxEKGlcHClQSHkEHC0BXFhMbGgMWNSQXHxFSGUFTVkYPXF4aXxZGFxIeQQ0XaksHEhZKXFULBkcRCRVRFxoaWAdLb1sKWlwBU0YKCwpGG1hDURoVFgsMW1pHWBNqRlFRRAkSClIGAUZN
+#EXTINF:-1 group-title="FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL HD
+http://1.55.209.135:8889/udp/225.1.2.98:30120
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Kids HD
+http://1.55.78.75:4022/udp/225.1.2.253:30120
 
-#EXTINF:-1 group-title="WEDANG RONDE",Da Vinci
-http://195.206.253.157:17200/davinci
+#EXTINF:-1,ASIAN FOOD CHANNEL
+http://14.186.114.75:8889/rtp/232.84.1.115:10236
+#EXTINF:-1,ASIAN FOOD CHANNEL HD
+http://14.186.114.75:8889/rtp/232.84.2.129:9570
+#EXTINF:-1,DA VINCI LEARNING HD
+http://14.186.114.75:8889/rtp/232.84.2.131:9582
 
-#EXTINF:-1 group-title="KETOPRAK",DA VINCI LEARNING
-http://newtv.ml:8000/NijazHalilovic/aPlIijMf1H/4799
+#EXTINF:0, group-title="Info",tvg-logo="",Discovery ASIA
+http://37.26.71.125:19201
+#EXTINF:0, group-title="Info",tvg-logo="",Discovery Science
+http://194.88.104.74:8000/live/maundy/maundy/132.ts
+#EXTINF:0 tvg-id="Dummy" tvg-logo="https://i.ibb.co/tYKhrf6/afc.jpg" group-title="LIFESTYLE", ASIAN FOOD CHANNEL
+http://14.236.21.57:5555/rtp/232.84.1.115:10236
+#EXTINF:0 tvg-id="Dummy" tvg-logo="https://i.ibb.co/wJ85Y9x/davincikids.jpg" group-title="KIDS", DA VINCI KIDS
+http://rr.dens.tv/h/h01/index2.m3u8
+#EXTINF:0, group-title="KNOWLEDGE",BBC EARTH
+http://125.17.105.168/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/04.m3u8
 
-
+#EXTINF:-1,Discovery Channel FHD UK
+http://nordic1.tv:2095/bIKNaP3LeS/dE9oeJywrn/11369
+#EXTINF:-1,Discovery History UK
+http://nordic1.tv:2095/bIKNaP3LeS/dE9oeJywrn/11370
+#EXTINF:-1,Discovery Science FHD UK
+http://nordic1.tv:2095/bIKNaP3LeS/dE9oeJywrn/11372
+#EXTINF:-1,E! Entertainment UK
+http://nordic1.tv:2095/bIKNaP3LeS/dE9oeJywrn/11117
+#EXTINF:-1,Food Network HD UK
+http://nordic1.tv:2095/bIKNaP3LeS/dE9oeJywrn/14587
+#EXTINF:-1,Good Food HD UK
+http://nordic1.tv:2095/bIKNaP3LeS/dE9oeJywrn/25038
+#EXTINF:-1,HBO HD UK
+http://nordic1.tv:2095/bIKNaP3LeS/dE9oeJywrn/9829
+#EXTINF:-1,H2 HD UK
+http://nordic1.tv:2095/bIKNaP3LeS/dE9oeJywrn/25032
 
 
 
@@ -2311,8 +2341,9 @@ http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
 http://161.0.157.38/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1,docuchina_rtmp
 rtmp://ivi.bupt.edu.cn:1935/livetv/docuchina
-#EXTINF:-1,BETTER HEALTH
-http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:-1,China Food TV
+http://dlhls.live.cnlive.com:1935/cdn/zhonghuameishi/chunklist.m3u8
+
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE
 http://185.27.116.54:8081/livestream/natpepole/chunks.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
@@ -2326,8 +2357,6 @@ http://185.79.92.234:8001/1:0:1:96:19:1:FFFF0000:0:0:0
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/143751
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD
 http://123.176.22.42:4022/udp/232.4.0.212:40000
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_token
-http://51.79.130.58:25461/limasatu/dKH9ejSAHs/779?token=QxtcBxBdEQkVUAxTWgJSBlMKAQdUUglUUQICBgFRWABbXVVSVlMDBABDGRRLQRRWUVU6XVZGCgVUXUgXTBEEEGdQUERZFwADD1YCFBQXElpdXUcOA1EFB1dUXAcPV01ASFBQRFkXCgsBVhcaGlAeR1VKC1VeO1RXFQ0HUBtYDxdUVRhEDFtsV1IMVFhcF1wRABpJFlsXQBBZRiVZUCENDU1dFDUkFx8RVQhBRFlBAxEKGlcGClMSHkEHC0BXFhMbGgMWNSQXHxFSGUFTVkYPXF4aXxZGFxIeQQ0XaksHEhZKXFULBkcRCRVRFxoaWAdLb1sKWlwBU0YKCwpGG1hDURoVFgsMW1pHWBNqRlFRRAkSC1cBBFUSTw==
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
 http://122.146.68.116:4046/VideoInput/play.ts
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
@@ -2387,8 +2416,6 @@ http://79.133.127.16:999/udp/239.191.254.250:15285
 
 #EXTINF:-1,xxx
 http://v2.myowntv.org/content/35636/index.m3u8?seg-2422-v1-a1.m3u
-#EXTINF:-1,xxx_cccaa3
-http://cccaa3.com/cdn/vip/xx/file/745175/
 #EXTINF:-1,anime
 http://megatv.live/pame/pame/337
 #EXTINF:-1,Russian night
@@ -2401,6 +2428,8 @@ http://kimbogrupol.com:25461/martha/martha/16111
 http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,Penthouse_Gold
 http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7730
+#EXTINF:-1,Dorcel
+http://formen1.com:8080/emine16/28052018/15925
 #EXTINF:-1,redtraffic_threesome
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1,redtraffic_pov
@@ -2542,18 +2571,21 @@ http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_world
 http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC
+http://92.43.140.249/s65/04.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_rtmp_birds
 rtmp://birds.cdn.livenewschat.eu/edge
 
-#EXTINF:-1 group-title="BAJIGUR",cnbc
-http://161.0.157.38/PLTV/88888888/224/3221227005/index.m3u8
 
-#EXTINF:-1 group-title="UK",UK CNBC EU
-http://xxultraxx.com:80/assad/assad/11266
+#EXTINF:-1,Bloomberg TV Australia
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:-1,Fox Business
+https://austchannel-live.akamaized.net/hls/live/2002733/austchannel-business/master.m3u8
 
 
 
+#EXTINF:-1,USA | CNBC WORLD HD-
+http://x.mytvxweb.me:25461/natalie/natalie1/38074
 
 
 
