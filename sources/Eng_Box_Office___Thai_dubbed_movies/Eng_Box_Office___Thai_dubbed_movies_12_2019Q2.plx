@@ -387,11 +387,7 @@ URL=https://openload.co/f/84iLgqRkJJ4/Ashes.in.the.Snow.2018.1080p.WEB-DL.DD5.1.
 
 
 
-type=video
-name=The Man Who Killed Hitler and Then the Bigfoot (2019) ENG 1080p.WEB-DL.DD5.1.H264-CMRG
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQNeWBT1VqtSMtgfEn3zFjRogyH.jpg
-date=2019-02-10
-URL=https://openload.co/f/HfzlKtcyn8I/The.Man.Who.Killed.Hitler.and.Then.the.Bigfoot.2019.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+
 
 
 
@@ -1300,9 +1296,8 @@ URL=
 type=video
 name=
 thumb=
-date=2019-04-09
+date=2019-04-18
 URL=
-
 
 
 
@@ -1313,10 +1308,78 @@ URL=
 
 
 type=video
-name=
-thumb=
-date=2019-04-09
-URL=
+name=Justice League vs. the Fatal Five (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9F4yd1lnTKFHZkme1nuPWmH1hbl.jpg
+date=2019-04-18
+URL=https://openload.co/f/5f10HNtKB6U/Justice.League.vs.the.Fatal.Five.2019.1080p.BluRay.x264-SPRiNTER.mkv.mp4
+#https://openload.co/f/QaH9PepncK4/Justice.League.vs.the.Fatal.Five.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Wailing (2016) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-72
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aijmq2I4O8zZrJtqAZm6o4tOM6g.jpg
+date=2019-04-18
+URL=https://openload.co/f/RNKckDXhZUw/The.Wailing.2016.1080p.BluRay.10bit.HEVC.6CH-MkvCage.mkv.mp4
+
+type=video
+name=Mega Time Squad (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/thHCbZVdA4DL0R8f84aUz83FSgg.jpg
+date=2019-04-18
+URL=https://openload.co/f/BibdLGb782M/mega.time.squad.2018.1080p.bluray.x264-brmp.mkv.mp4
+#https://openload.co/f/RHhGKcGaxPw/Mega.Time.Squad.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Man Who Killed Hitler and Then the Bigfoot (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQNeWBT1VqtSMtgfEn3zFjRogyH.jpg
+date=2019-04-18
+URL=https://openload.co/f/6C9E9SoJwUs/The.Man.Who.Killed.Hitler.and.Then.The.Bigfoot.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/HfzlKtcyn8I/The.Man.Who.Killed.Hitler.and.Then.the.Bigfoot.2019.1080p.WEB-DL.DD5.1.H264-CMRG.mkv.mp4
+
+type=video
+name=We Die Young (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB0Dl2nDRmvplaJLeHSfkppJXHs.jpg
+date=2019-04-18
+URL=https://openload.co/f/bzHYZP4_BMA/We.Die.Young.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Double Date (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1u51B2HsJRHb38dG5eajgc9uGUY.jpg
+date=2019-04-18
+URL=https://openload.co/f/EkthSKGHN_U/double.date.2017.1080p.bluray.x264-getit.mkv.mp4
+#https://openload.co/f/jPadhs3jtg4/Double.Date.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Lies She Loved (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/FLwHOhUplauTSjjD5aHmUUjoiq.jpg
+date=2019-04-18
+URL=https://openload.co/f/46TwW4Ysqlw/the.lies.she.loved.2017.1080p.bray.x264-regret.mkv.mp4
+
+type=video
+name=Ruben Brandt, Collector (2018) [COLOR=FF00FF00]HUN BR 1080p[/COLOR] | TMDB-90
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WwBf5Lex1XUQfS1nREp2a2JZsc.jpg
+date=2019-04-18
+URL=https://openload.co/f/RORDXwFVh3Y/Ruben_Brandt_Collector.2019.1080p.Bluray.x264-EVO.mp4
+#https://openload.co/f/Jc45lcNTg04/Ruben.Brandt%2C.Collector.2018.1080p.BluRay.x264-YTS.AM.mp4
+
+type=video
+name=Blaze (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3rMWJRP6rQO5qP9E6umeRq9hGA.jpg
+date=2019-04-18
+URL=https://openload.co/f/2W4_9mGCuNk/blaze.2018.limited.1080p.bluray.x264-veto.mkv.mp4
+#https://openload.co/f/EjEKm04fUWA/Blaze.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Tag-Along: Devil Fish (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkPa9YdFxpENASZXbnorqrQDEjd.jpg
+date=2019-04-18
+URL=https://openload.co/f/SMZlykmvtZA/The.Tag.Along.Devil.Fish.2018.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
+#https://openload.co/f/e_JlEZGLivA/The.Tag.Along.Devil.Fish.2018.2018.CHINESE.1080p.BluRay.H264.AAC.mp4
+
+type=video
+name=The Divorce Party (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-40
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FbHUUyOagUQ3eDjLCXMzNW90R4.jpg
+date=2019-04-18
+URL=https://openload.co/f/dQWkli5XWho/The.Divorce.Party.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/9q0eDAMwyc4/The.Divorce.Party.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=The Kid Who Would Be King (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
@@ -1328,8 +1391,9 @@ URL=https://openload.co/f/DhA9PVRs5bQ/The.Kid.Who.Would.Be.King.2019.1080p.BluRa
 type=video
 name=Gone Are the Days (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJF23NdeB6DUgk8oBfeg2hr5hKc.jpg
-date=2019-04-09
-URL=https://openload.co/f/s7KCqtvN_PE/Gone.Are.the.Days.2018.1080p.BluRay.x264-CAPRiCORN.mkv.mp4
+date=2019-04-18
+URL=https://openload.co/f/FbASvJoIkYE/Gone.Are.the.Days.2018.1080p.BluRay.x264-CAPRiCORN.mkv.mp4
+#https://openload.co/f/s7KCqtvN_PE/Gone.Are.the.Days.2018.1080p.BluRay.x264-CAPRiCORN.mkv.mp4
 #https://www.blazefile.co/embed-f955jazvz1gb.html
 #https://uptobox.com/m94ov92g54l1
 #https://openload.co/f/-S34pGyo0iA/Gone.Are.the.Days.2018.720p.BR_SeeHD.mp4
@@ -1809,8 +1873,10 @@ URL=https://openload.co/f/-f1XeRlxtMc/Interlude.in.Prague.2017.1080p.BluRay.x264
 type=video
 name=The Last Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-35
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBrr6RwxmfjZyWTEe3AaguEKbMO.jpg
-date=2019-03-11
-URL=https://openload.co/f/OqruDDsqhIY/The.Last.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2019-04-18
+URL=https://openload.co/f/1Du2e2UjTek/The.Last.Man.2018.1080p.BluRay.x264-CiNEFiLE.mkv.mp4
+#https://openload.co/f/BT40zmQv8NY/The.Last.Man.2018.1080p.BluRay.x264-CiNEFiLE.mkv.mp4
+#https://openload.co/f/OqruDDsqhIY/The.Last.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/vKDGrPIK3qA/The.Last.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
@@ -2787,8 +2853,9 @@ URL=https://openload.co/f/qtcpSevXspE/The.Cakemaker.2017.1080p.BluRay.x264-%5BYT
 type=video
 name=Frenzy (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-43
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wogFHCe7ZXIavQz5RpklRj0QE2K.jpg
-date=2018-12-29
-URL=https://uptobox.com/zgmblasdi1xi
+date=2019-04-18
+URL=https://openload.co/f/urDfBWBskDk/Frenzy.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/zgmblasdi1xi
 #https://fruithosts.net/embed/nbrsllltdcatnkbn/FRENZY80_Ganol_si_mkv
 #https://oload.fun/embed/I3iuABD5wn8/FRENZY80.Ganol.si.mkv
 #https://openload.co/f/YVE10894A9I/Frenzy_%282018%291080p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
@@ -9467,8 +9534,9 @@ URL=https://openload.co/f/UAZZNAOPguE/The_Knight_of_Shadows%3A_Between_Yin_and_Y
 type=video
 name=How to Train Your Dragon: The Hidden World (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZPZdFP2qo0cvfNTrUUNRXTW9AB.jpg
-date=2019-04-11
-URL=https://openload.co/f/GXYkQTgLZpc/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.AC3.x264-MkvCage.mkv.mp4
+date=2019-04-18
+URL=https://openload.co/f/RquINLkrUvI/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.10bit.HEVC.6CH-MkvCage.mkv.mp4
+#https://openload.co/f/GXYkQTgLZpc/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.AC3.x264-MkvCage.mkv.mp4
 #https://openload.co/f/aJRFAWLtwh8/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/LeNzc1gobg8/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/dcxjG_FOkYo/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.x264.DTS-FGT.mkv.mp4
@@ -9663,10 +9731,13 @@ URL=https://openload.co/f/vwaPnzC94rY/THUGS_OF_HINDOSTAN_%282018%29_%28%E0%B8%8B
 
 
 type=video
-name=Close (2019) ENG 1080p.NF.WEB-DL.DDP5.1.H264-CMRG
+name=Close (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-55
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kjUGqPIv6kpxJUvjmeQX7nQpKd.jpg
-date=2019-01-18
-URL=https://openload.co/f/qBPhRuf3eHQ/Close.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG.mkv.mp4
+date=2019-04-18
+URL=https://openload.co/f/qH8qrcJEP7w/Close.2019.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/XPstHToJ3e0/Close.2019.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/2zqOsUVO1is/Close.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/qBPhRuf3eHQ/Close.2019.1080p.NF.WEB-DL.DDP5.1.H264-CMRG.mkv.mp4
 #https://openload.co/f/orM80HBDIKw/close.2019.720p.webrip.x264-strife_SeeHD.mkv.mp4
 type=video
 name=Close (2019) THSUB
@@ -12496,10 +12567,13 @@ URL=https://openload.co/f/weccbUc9wLE/Master_Z%3A_Ip_Man_Legacy_%282018%29%E0%B8
 
 
 type=video
-name=Dragon Ball Super: Broly (2018) JAP 1080p.AMZN.WEB-DL.DDP.5.1.H.264-U3Web
+name=Dragon Ball Super: Broly (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-74
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f03YksE4NggUjG75toz4H1YAGRf.jpg
-date=2019-02-28
-URL=https://openload.co/f/xk54sX9lDvc/Dragon.Ball.Super.Broly.2018.1080p.AMZN.WEB-DL.DDP.5.1.H.264-U3Web.mkv.mp4
+date=2019-04-18
+URL=https://openload.co/f/W4iC5ZYQ9NA/dragon.ball.super.broly.2018.1080p.bluray.x264-haiku.mkv.mp4
+#https://openload.co/f/joNuPtjDlk4/Dragon.Ball.Super.Broly.2018.DUBBED.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/c7pyBoYnbQs/Dragon.Ball.Super.Broly.2018.JAPANESE.1080p.BluRay.H264.AAC-VXT.mp4
+#https://openload.co/f/xk54sX9lDvc/Dragon.Ball.Super.Broly.2018.1080p.AMZN.WEB-DL.DDP.5.1.H.264-U3Web.mkv.mp4
 #https://openload.co/f/ppdB0QneqT8/Dragon.Ball.Super.Broly.2018.720p.AMZN.WEB-DL.MkvCage.ws.mkv.mp4
 #https://openload.co/f/3qHHW9r4UL0/Dragon.Ball.Broly.2019.720p.HDTC_SeeHD.mkv.mp4
 type=video
@@ -12979,13 +13053,44 @@ URL=
 type=video
 name=
 thumb=
-date=2019-04-04
+date=2019-04-18
 URL=
 
 
 
 
 
+
+
+
+
+type=video
+name=Battle Drone (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-51
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2SCbPlhLod3qFwKvNVkFQb9oXs.jpg
+date=2019-04-18
+URL=https://openload.co/f/b-NIiyAVBbQ/Battle.Drone.2018.720p.Netflix.WEB-DL.750MB.MkvCage.com.mkv.mp4
+type=video
+name=Battle Drone (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2SCbPlhLod3qFwKvNVkFQb9oXs.jpg
+date=2019-04-18
+URL=https://www.rapidvideo.com/e/G261EM3KDV&q=1080p
+
+
+type=video
+name=Escape Room (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yZAx7tlKRZIg7pJfaPhl00yHIQ.jpg
+date=2019-04-18
+URL=https://openload.co/f/53_0dOqB_vQ/Escape.Room.2019.REPACK.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/33FqdVCU5k0/escape.room.2019.repack.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
+#https://openload.co/f/GRQd4bYAe-8/Escape.Room.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Ou8mmaUZjxc/Escape.Room.2019.1080p.BRRip.x264-MkvCage.mkv.mp4
+#https://openload.co/f/hyDsST92lfY/Escape.Room.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/tViYJgHNNIs/Escape.Room.2019.REPACK.1080p.BluRay.x264-DRONES.mkv.mp4
+type=video
+name=Escape Room (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yZAx7tlKRZIg7pJfaPhl00yHIQ.jpg
+date=2019-04-18
+URL=https://www.rapidvideo.com/e/G263L4BCXR&q=1080p
 
 
 type=video
@@ -14730,8 +14835,9 @@ URL=https://openload.co/f/fIRh8GvHnos/The.Shack.2017.1080p.BluRay.H264.AAC-RARBG
 type=video
 name=The Lego Movie (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-74
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMHbadNmznKs5vgBAkHxKGHulOa.jpg
-date=2019-02-14
-URL=https://openload.co/f/wyDWokWbJ84/The.Lego.Movie.2014.1080p.BluRay_SeeHD.mp4
+date=2019-04-18
+URL=https://openload.co/f/skGBcONpo_4/The.Lego.Movie.2014.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/wyDWokWbJ84/The.Lego.Movie.2014.1080p.BluRay_SeeHD.mp4
 
 type=video
 name=Platinum Data (2013) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-52
