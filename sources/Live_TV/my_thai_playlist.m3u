@@ -2304,6 +2304,29 @@ http://14.190.246.163:4022/rtp/232.84.1.115:10236
 #EXTINF:-1,Da Vinci
 http://14.190.246.163:4022/rtp/232.84.1.108:10224
 
+#EXTINF:-1,Da Vinci 
+http://ru.ruip.tv/play/a084/index.m3u8?token=freemium 
+#EXTINF:-1,Discovery Channel HD 
+http://ru.ruip.tv/play/a086/index.m3u8?token=freemium 
+#EXTINF:-1,Discovery Science HD 
+http://ru.ruip.tv/play/a088/index.m3u8?token=freemium 
+
+#EXTINF:-1,VIP: UK – BBC Earth
+http://31.220.1.190:8080/Jessica/Jessica1/198516
+#EXTINF:-1,VIP: UK – BBC Entertainment HD
+http://31.220.1.190:8080/Jessica/Jessica1/198515
+#EXTINF:-1,VIP: UK – China History Channel HD
+http://31.220.1.190:8080/Jessica/Jessica1/204142
+
+#EXTINF:-1,UK: BBC EARTH HD
+http://bldtv.vip:80/ismael/123/45184
+#EXTINF:-1,UK: BBC EARTH HD 2
+http://bldtv.vip:80/ismael/123/45183
+#EXTINF:-1,UK: DISCOVERY HISTORY
+http://bldtv.vip:80/ismael/123/44797
+#EXTINF:-1,UK: DISCOVERY SCIENCE
+http://bldtv.vip:80/ismael/123/44796
+
 
 
 
@@ -2388,9 +2411,11 @@ https://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u
 http://193.233.191.182:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
 http://185.93.3.83:5014/play/a00d
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt
-http://79.133.127.16:999/udp/239.191.254.250:15285 
 
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt
+http://79.133.125.23:999/udp/239.191.254.250:15285
+#EXTINF:-1,candy
+http://79.133.125.23:999/udp/239.191.254.114:15285
 
 
 #EXTINF:-1,anime
@@ -2482,7 +2507,7 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_persik
-http://persik.by/stream/5773/290460/10003.m3u8
+http://persik.by/stream/2944/263250/10003.m3u8
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00a
 http://185.93.3.83:5014/play/a00a
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart_178
