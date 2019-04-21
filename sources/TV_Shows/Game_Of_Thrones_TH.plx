@@ -71,6 +71,18 @@ URL=https://openload.co/f/xWUJCR34Gc8/Game.Of.Thrones.The.Story.So.Far.2018.720p
 
 
 type=video
+name=S08-E02___Episode 2___[COLOR=FF00FF00]WEB.x264-NoGRP[/COLOR]
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/2Tj1Mcl3NQOj0LBnOpNHpBWuZHU.jpg
+date=2019-04-21
+URL=https://openload.co/f/siVfom51pm8/Game.of.Thrones.S08E02.WEB.x264-NoGRP.mkv.mp4
+type=video
+name=S08-E02___Episode 2___TH DUBBED_thsub
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/2Tj1Mcl3NQOj0LBnOpNHpBWuZHU.jpg
+date=2019-04-15
+URL=
+
+
+type=video
 name=S08-E01___Winterfell___[COLOR=FF00FF00]repack.720p.web.h264-memento[/COLOR]
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/aeLFDgp0J9140lS4nWUgZZRK6Rp.jpg
 date=2019-04-15

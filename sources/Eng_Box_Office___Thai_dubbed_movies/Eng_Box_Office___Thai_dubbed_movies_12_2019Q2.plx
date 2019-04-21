@@ -1296,7 +1296,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-04-18
+date=2019-04-21
 URL=
 
 
@@ -1306,6 +1306,24 @@ URL=
 
 
 
+
+
+type=video
+name=High Life (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wElOvH7H6sLElsTOLu1MY6oWRUx.jpg
+date=2019-04-21
+URL=https://openload.co/f/rE1XL_EN0mo/High.Life.2018.1080p.BluRay.X264-AMIABLE.mp4
+#https://openload.co/f/B9lgV_GVIIo/High.Life.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/rE1XL_EN0mo/High.Life.2018.1080p.BluRay.X264-AMIABLE.mp4
+#https://openload.co/f/Avv9ZW0sHDU/High.Life.2018.1080p.BRRip.x264-MkvCage.mkv.mp4
+#https://openload.co/f/P33zZldjPv8/High.Life.2018.1080p.BluRay.x264-YTS.AM.mp4
+#https://openload.co/f/e7lCzIVdyHU/High.Life.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Check Point (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-40
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/s70fS9pKD9tclDJtP9yPxqgmvnb.jpg
+date=2019-04-21
+URL=https://openload.co/f/UxzrSEIm5Dk/Check.Point.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Justice League vs. the Fatal Five (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
@@ -1810,12 +1828,7 @@ URL=https://openload.co/f/BP4WP9IOQy8/second.act.2018.1080p.bluray.x264-drones.m
 #https://openload.co/f/6Tj8hrh13Pc/Second.Act.2018.1080p.NF.WEB-DL.DD5.1.H264-CMRG_SeeHD.mkv.mp4
 #https://openload.co/f/KxGVY0UqoDg/Second_Act_2018_720p_HDCAM-1XBET_SeeHD.mp4
 
-type=video
-name=Free Solo (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-81 DOCU
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQZ4T3638UIZS7JV1SLTdqPmezx.jpg
-date=2019-03-18
-URL=https://openload.co/f/6o0iOWzbduQ/free.solo.2018.limited.1080p.bluray.x264-cadaver.mkv.mp4
-#https://openload.co/f/PqsIm3w1dWk/Free.Solo.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
 
 type=video
 name=London Fields (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-54
@@ -2900,10 +2913,11 @@ URL=https://openload.co/f/U5nLlBPc52U/the.secrets.ofthe.footsteps.of.albert.eins
 #https://openload.co/f/MwC3jEQ161k/The.Secrets.Of.Gravity.In.The.Footsteps.Of.Albert.Einstein.2016.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 
 type=video
-name=Lukas (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-54
+name=The Bouncer (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-58
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7rFgyr7rujNYRex9oxzG26Zq6z.jpg
 date=2018-12-25
 URL=https://openload.co/f/7k0uk7A9hPU/Lukas.2018.1080p.BRRip.AC3.X264-CMRG.mkv.mp4
+#https://openload.co/f/P4JqrIq0FaE/The.Bouncer.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/l_2XFk81DQk/Lukas.2018.720p.BRRip.X264.AC3-EVO_SeeHD.mkv.mp4
 
 type=video
@@ -9552,37 +9566,10 @@ date=2019-02-05
 URL=https://openload.co/f/VXRA2kFu2fM/How_to_Train_Your_Dragon%3A_The_Hidden_World_%282019%29%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%A7%E0%B8%81%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3_3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=Escape Room (2019) ENG HC_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yZAx7tlKRZIg7pJfaPhl00yHIQ.jpg
-date=2019-01-26
-URL=https://openload.co/f/oj3GNDY1iHA/EscapeRoomHC_SeeHD.mkv.mp4
-#https://openload.co/f/T-lDrtQ7twA/Escape.Room.2019.CAM.XviD-AVID.avi.mp4
-type=video
-name=Escape Room (2019) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yZAx7tlKRZIg7pJfaPhl00yHIQ.jpg
-date=2019-02-05
-URL=https://openload.co/f/7aIeHd60KTM/Escape_Room_%282019%29%E0%B8%81%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87_%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%82%E0%B8%AB%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-type=video
-name=Glass (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG5GS0V15Zpk8zvsww02faNT0QI.jpg
-date=2019-04-11
-URL=https://openload.co/f/bnPFuLwTsGY/Glass.2019.1080p.BluRay.10bit.HEVC.6CH-MkvCage.mkv.mp4
-#https://openload.co/f/IKqiANQXtJ0/Glass.2019.1080p.BluRay.x264-YTS.AM.mp4
-#https://openload.co/f/nU-L_v8ZddQ/Glass.2019.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/ugVn69b417c/Glass.2019.1080p.BRRip.x264-MkvCage.mkv.mp4
-#https://openload.co/f/kH3xbFmv07g/Glass_2019_NEW_HDTC_720p_SeeHD.mkv.mp4
-#https://openload.co/f/3oAYTT4Wppg/Glass.2018.v2.720p.HDCAM.X264-1XBET.mp4
-#https://openload.co/f/6Lj9JaZ5CPM/Glass_2019_720p_HDCAM-1XBET_SeeHD.mp4
-#https://openload.co/f/IYXgpWBrBd8/Glass_2019_720p_HDCAM-1XBET.mp4
-type=video
-name=Glass (2019) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG5GS0V15Zpk8zvsww02faNT0QI.jpg
-date=2019-01-23
-URL=https://openload.co/f/N-xkdwIt0C4/Glass_%282019%29%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
-#https://openload.co/f/5u4W2aO4vIY/Glass_%282019%29%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C_2019_Thai%28C%29_ZM
+
+
 
 
 
@@ -10189,17 +10176,7 @@ date=2018-11-14
 URL=https://openload.co/f/WYWHd-mFGA8/Beyond_The_Sky_%282018%29Beyond_The_Sky_%282018%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
-type=video
-name=First Kill (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoia9YSg82UNYbtum9QYjKSqdLw.jpg
-date=2017-08-26
-URL=https://www.blazefile.co/embed-27rfapn20mrg.html
-#https://openload.co/f/kRXMBZLd5rQ/First.Kill.2017.720p.BluRay.x264-ROVERS.mkv.mp4
-type=video
-name=First Kill (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoia9YSg82UNYbtum9QYjKSqdLw.jpg
-date=2018-11-14
-URL=https://openload.co/f/aaQIaLwuAP0/First_Kill_%282017%29First_Kill_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
 
 
 type=video
@@ -11169,24 +11146,7 @@ date=2018-06-19
 URL=https://streamango.com/f/kembapqooarmdkmc/Set_It_Up_2018_
 
 
-type=video
-name=Game Night (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wS89vns6cseCn4UHSqj97xKEKW.jpg
-date=2018-05-10
-URL=https://www.blazefile.co/embed-kxr6e4z5u30w.html
-#http://uptobox.com/3tni2takejd7
-#https://openload.co/f/wjOete6pKGk/Game.Night.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/7l9JGfyc6_I/Game.Night.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/YfBPs-VgpuE/Game.Night.2018.720p.BluRay.x264-GECKOS.mkv.mp4
-#https://openload.co/f/IfaS_y8QGd4/Game.Night.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/xLjBXQxsf4w/Game_Night_2018_720p_WEB-DL_X264_6CH_HQ-CPG_SeeHD.mkv.mp4
-#https://openload.co/f/rIi1LPjfr8w/Game_Night_2018_HDCAM_ENG_X264-SeeHD.mkv.mp4
-#https://openload.co/f/wBgkr8Vnb4s/Game.Night.2018.HDCAM.X264-PilaRosa.mkv.mp4
-type=video
-name=Game Night (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wS89vns6cseCn4UHSqj97xKEKW.jpg
-date=2018-06-19
-URL=https://streamango.com/f/krdmtplcpfdfrskn/Game_Night_2018_Game_Night_2018_
+
 
 
 type=video
@@ -11770,20 +11730,7 @@ date=2018-02-03
 URL=https://streamango.com/f/tfcbpfrcqdafllse/Roman_J_Israel_Esq_2017_
 
 
-type=video
-name=mother! (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
-date=2017-12-07
-URL=https://www.blazefile.co/embed-oa0xx9wyjzko.html
-#https://openload.co/f/JsWChINJj5g/Mother.2017.1080p.BluRay.x264-DRONES.mkv.mp4
-#https://openload.co/f/Lt3EdszGSKA/Mother%21.2017.HDRip.XviD.AC3-EVO.avi.mp4
-#https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
-#https://www.blazefile.co/embed-p436sqhrx7hi.html   720
-type=video
-name=mother! (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
-date=2018-01-28
-URL=https://streamango.com/f/bfkcfcrrodtemlqa/mother_2017_
+
 
 
 type=video
@@ -13053,7 +13000,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-04-18
+date=2019-04-21
 URL=
 
 
@@ -13062,6 +13009,115 @@ URL=
 
 
 
+
+type=video
+name=Girl (2018) [COLOR=FF00FF00]DUT BR 1080p[/COLOR] | TMDB-75
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6WKjZ1eHrKV8u1DYqjW4yUPuC.jpg
+date=2019-04-21
+URL=
+type=video
+name=Girl (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6WKjZ1eHrKV8u1DYqjW4yUPuC.jpg
+date=2019-04-21
+URL=https://openload.co/f/vEj-ULUVPVw/Girl_%282018%29%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%A5.mp4
+
+
+type=video
+name=Inconceivable (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvihB44CMiQHqC7tvARYEjQ5Buf.jpg
+date=2017-08-19
+URL=https://openload.co/f/zRaFHRuS-Ms/Inconceivable.2017.LIMITED.1080p.BluRay.x264-DRONES.mkv.mp4
+type=video
+name=Inconceivable (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvihB44CMiQHqC7tvARYEjQ5Buf.jpg
+date=2019-04-21
+URL=https://openload.co/f/hWzETlZPWoE/Inconceivable_%282017%29%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%B3%E0%B8%A1%E0%B8%AB%E0%B8%B4%E0%B8%95_%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A7%E0%B8%B4%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%AA.mp4
+
+
+type=video
+name=Game Night (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wS89vns6cseCn4UHSqj97xKEKW.jpg
+date=2018-05-10
+URL=https://www.blazefile.co/embed-kxr6e4z5u30w.html
+#http://uptobox.com/3tni2takejd7
+#https://openload.co/f/wjOete6pKGk/Game.Night.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/7l9JGfyc6_I/Game.Night.2018.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/YfBPs-VgpuE/Game.Night.2018.720p.BluRay.x264-GECKOS.mkv.mp4
+#https://openload.co/f/IfaS_y8QGd4/Game.Night.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/xLjBXQxsf4w/Game_Night_2018_720p_WEB-DL_X264_6CH_HQ-CPG_SeeHD.mkv.mp4
+#https://openload.co/f/rIi1LPjfr8w/Game_Night_2018_HDCAM_ENG_X264-SeeHD.mkv.mp4
+#https://openload.co/f/wBgkr8Vnb4s/Game.Night.2018.HDCAM.X264-PilaRosa.mkv.mp4
+type=video
+name=Game Night (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wS89vns6cseCn4UHSqj97xKEKW.jpg
+date=2019-04-21
+URL=https://openload.co/f/r_wxORBwQeI/Game_Night_%282018%29%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99_%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%A7%E0%B8%87.mp4
+#https://streamango.com/f/krdmtplcpfdfrskn/Game_Night_2018_Game_Night_2018_
+
+
+type=video
+name=mother! (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
+date=2017-12-07
+URL=https://www.blazefile.co/embed-oa0xx9wyjzko.html
+#https://openload.co/f/JsWChINJj5g/Mother.2017.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/Lt3EdszGSKA/Mother%21.2017.HDRip.XviD.AC3-EVO.avi.mp4
+#https://openload.co/f/dYJhxkxzAaE/Mother.2017.HDCAM.X264.HQMic-NoGRP.mp4
+#https://www.blazefile.co/embed-p436sqhrx7hi.html   720
+type=video
+name=mother! (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmi2dsuoyzZdJ0WFZYQazbX8ILj.jpg
+date=2019-04-21
+URL=https://openload.co/f/ibAnnEE2Fco/mother%21_%282017%29%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B2%21.mp4
+#https://streamango.com/f/bfkcfcrrodtemlqa/mother_2017_
+
+
+type=video
+name=Free Solo (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-81 DOCU
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQZ4T3638UIZS7JV1SLTdqPmezx.jpg
+date=2019-03-18
+URL=https://openload.co/f/6o0iOWzbduQ/free.solo.2018.limited.1080p.bluray.x264-cadaver.mkv.mp4
+#https://openload.co/f/PqsIm3w1dWk/Free.Solo.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+type=video
+name=Free Solo (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQZ4T3638UIZS7JV1SLTdqPmezx.jpg
+date=2019-04-21
+URL=https://openload.co/f/zCyH9F1uKC8/Free_Solo_%282018%29%E0%B8%9B%E0%B8%B5%E0%B8%99%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+
+
+type=video
+name=First Kill (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-55
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoia9YSg82UNYbtum9QYjKSqdLw.jpg
+date=2017-08-26
+URL=https://www.blazefile.co/embed-27rfapn20mrg.html
+#https://openload.co/f/kRXMBZLd5rQ/First.Kill.2017.720p.BluRay.x264-ROVERS.mkv.mp4
+type=video
+name=First Kill (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoia9YSg82UNYbtum9QYjKSqdLw.jpg
+date=2019-04-21
+URL=https://openload.co/f/AcKg0I--5Ig/First_Kill_%282017%29%E0%B9%80%E0%B8%9F%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%AA_%E0%B8%84%E0%B8%B4%E0%B8%A5.mp4
+#https://openload.co/f/aaQIaLwuAP0/First_Kill_%282017%29First_Kill_%282017%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Glass (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG5GS0V15Zpk8zvsww02faNT0QI.jpg
+date=2019-04-11
+URL=https://openload.co/f/bnPFuLwTsGY/Glass.2019.1080p.BluRay.10bit.HEVC.6CH-MkvCage.mkv.mp4
+#https://openload.co/f/IKqiANQXtJ0/Glass.2019.1080p.BluRay.x264-YTS.AM.mp4
+#https://openload.co/f/nU-L_v8ZddQ/Glass.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/ugVn69b417c/Glass.2019.1080p.BRRip.x264-MkvCage.mkv.mp4
+#https://openload.co/f/kH3xbFmv07g/Glass_2019_NEW_HDTC_720p_SeeHD.mkv.mp4
+#https://openload.co/f/3oAYTT4Wppg/Glass.2018.v2.720p.HDCAM.X264-1XBET.mp4
+#https://openload.co/f/6Lj9JaZ5CPM/Glass_2019_720p_HDCAM-1XBET_SeeHD.mp4
+#https://openload.co/f/IYXgpWBrBd8/Glass_2019_720p_HDCAM-1XBET.mp4
+type=video
+name=Glass (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG5GS0V15Zpk8zvsww02faNT0QI.jpg
+date=2019-04-21
+URL=https://openload.co/f/qCJC-JI0E4g/Glass_%282019%29%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C.mp4
+#https://openload.co/f/N-xkdwIt0C4/Glass_%282019%29%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
+#https://openload.co/f/5u4W2aO4vIY/Glass_%282019%29%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C_2019_Thai%28C%29_ZM
 
 
 type=video
@@ -13086,12 +13142,14 @@ URL=https://openload.co/f/53_0dOqB_vQ/Escape.Room.2019.REPACK.1080p.BluRay.x264-
 #https://openload.co/f/Ou8mmaUZjxc/Escape.Room.2019.1080p.BRRip.x264-MkvCage.mkv.mp4
 #https://openload.co/f/hyDsST92lfY/Escape.Room.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/tViYJgHNNIs/Escape.Room.2019.REPACK.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/oj3GNDY1iHA/EscapeRoomHC_SeeHD.mkv.mp4
+#https://openload.co/f/T-lDrtQ7twA/Escape.Room.2019.CAM.XviD-AVID.avi.mp4
 type=video
 name=Escape Room (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yZAx7tlKRZIg7pJfaPhl00yHIQ.jpg
 date=2019-04-18
 URL=https://www.rapidvideo.com/e/G263L4BCXR&q=1080p
-
+#https://openload.co/f/7aIeHd60KTM/Escape_Room_%282019%29%E0%B8%81%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87_%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%82%E0%B8%AB%E0%B8%94_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 type=video
 name=Teen Titans Go! To the Movies (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
@@ -13252,8 +13310,9 @@ URL=https://openload.co/f/-Sn1j6XJMz8/Rampant.2018.KOREAN.1080p.BluRay.H264.AAC-
 type=video
 name=Rampant (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8u0AKGj52SQeeKW4d56rWr2XLX.jpg
-date=2019-04-08
-URL=https://openload.co/f/ZYUNYItdbgA/Rampant_%282018%29%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87.mp4
+date=2019-04-21
+URL=https://openload.co/f/M9ZnVK49VzE/Rampant_%282018%29%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87.mp4
+#https://openload.co/f/ZYUNYItdbgA/Rampant_%282018%29%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87.mp4
 #https://openload.co/f/F50fZoE0fog/Rampant_%282018%29%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
@@ -14303,6 +14362,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQX
 date=2019-01-26
 URL=https://openload.co/f/GWFHbx5JhxY/The.Girl.In.The.Spider%27s.Web.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/3huxz0i8BCE/The.Girl.in.the.Spiders.Web.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/85hBHufIHMA/The_Girl_in_the_Spider%27s_Web_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B9%83%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0.mkv.mp4
 #https://openload.co/f/brm-aKClNbU/The.Girl.in.the.Spiders.Web.2018.1080p.WEB-DL.AC3.x264_NongZEZA%40CtHts.mkv.mp4
 #https://openload.co/f/RZPnkJ5Dmyw/The_Girl_In_the_Spider%27s_WEB_1080p_HD_SeeHD.mkv.mp4
 #https://openload.co/f/ARUJNfAf_hI/The.Girl.in.the.Spiders.Web.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
@@ -14673,7 +14733,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-04-14
+date=2019-04-21
 URL=
 
 
@@ -14681,6 +14741,20 @@ URL=
 
 
 
+
+
+
+type=video
+name=Unlocked (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg
+date=2019-04-21
+URL=https://openload.co/f/BJf5rzsv9gU/Unlocked.2017.1080p.BluRay_SeeHD.mp4
+
+type=video
+name=Pleasure or Pain (2013) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-47
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVPMuYjBsGVExXTCQZb3oL7NwGc.jpg
+date=2019-04-21
+URL=https://openload.co/f/Mdq0C8vUIi8/Pleasure.or.Pain.2013.1080p.BluRay_SeeHD.mp4
 
 type=video
 name=Duel (1971) [COLOR=FF00FF00]ENG HD 1080p[/COLOR] | TMDB-74
