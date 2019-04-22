@@ -1399,12 +1399,7 @@ date=2019-04-18
 URL=https://openload.co/f/dQWkli5XWho/The.Divorce.Party.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/9q0eDAMwyc4/The.Divorce.Party.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=The Kid Who Would Be King (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWENxGrJmXmHvifG6x2aYnpovXI.jpg
-date=2019-04-09
-URL=https://openload.co/f/DhA9PVRs5bQ/The.Kid.Who.Would.Be.King.2019.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/WpWf1hDqdno/The_Kid_Who_Would_Be_King_2019_720p_HDCAM-1XBET_SeeHD.mp4
+
 
 type=video
 name=Gone Are the Days (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
@@ -2149,16 +2144,7 @@ URL=https://openload.co/f/uz7XAvJZilI/Ben.Is.Back.2018.1080p.BluRay.x264-DRONES.
 
 
 
-type=video
-name=Instant Family (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-75
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y1AlIP3SIOTje3ky9p68XhQmHU.jpg
-date=2019-02-28
-URL=https://openload.co/f/D3VidM_qJms/instant.family.2018.1080p.bluray.x264-sparks.mkv.mp4
-#https://openload.co/f/OALqY06xsXo/Instant.Family.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/3H1yB_y0fnw/Instant_Family_2018_1080p_WEB-DL_SeeHD.mkv.mp4
-#https://openload.co/f/37Nr9W06OQU/Instant_Family_2018_720p_HDCAM_x264-EVO_SeeHD.mp4
-#https://openload.co/f/nWYsUdZz_Ag/Instant.Family.2018.720p.HDTC.1XBET_SeeHD.mp4
-#https://openload.co/f/PyEQhmLYTPU/Instant.Family.2018.720p.HDTC.1XBET.mp4
+
 
 type=video
 name=Creed II (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
@@ -13008,6 +12994,38 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=The Kid Who Would Be King (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWENxGrJmXmHvifG6x2aYnpovXI.jpg
+date=2019-04-09
+URL=https://openload.co/f/DhA9PVRs5bQ/The.Kid.Who.Would.Be.King.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/WpWf1hDqdno/The_Kid_Who_Would_Be_King_2019_720p_HDCAM-1XBET_SeeHD.mp4
+type=video
+name=The Kid Who Would Be King (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWENxGrJmXmHvifG6x2aYnpovXI.jpg
+date=2019-04-22
+URL=https://openload.co/f/2i0B_3sBRp0/The_Kid_Who_Would_Be_King_%282019%29%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B9%8C.mp4
+
+
+type=video
+name=Instant Family (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-75
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y1AlIP3SIOTje3ky9p68XhQmHU.jpg
+date=2019-02-28
+URL=https://openload.co/f/D3VidM_qJms/instant.family.2018.1080p.bluray.x264-sparks.mkv.mp4
+#https://openload.co/f/OALqY06xsXo/Instant.Family.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/3H1yB_y0fnw/Instant_Family_2018_1080p_WEB-DL_SeeHD.mkv.mp4
+#https://openload.co/f/37Nr9W06OQU/Instant_Family_2018_720p_HDCAM_x264-EVO_SeeHD.mp4
+#https://openload.co/f/nWYsUdZz_Ag/Instant.Family.2018.720p.HDTC.1XBET_SeeHD.mp4
+#https://openload.co/f/PyEQhmLYTPU/Instant.Family.2018.720p.HDTC.1XBET.mp4
+type=video
+name=Instant Family (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y1AlIP3SIOTje3ky9p68XhQmHU.jpg
+date=2019-04-22
+URL=https://openload.co/f/yRjRFDQGtCY/Instant_Family_%282018%29%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%9B%E0%B8%B8%E0%B9%8A%E0%B8%9A%E0%B8%9B%E0%B8%B1%E0%B9%8A%E0%B8%9A.mp4
 
 
 type=video

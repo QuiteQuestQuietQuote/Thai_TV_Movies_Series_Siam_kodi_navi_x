@@ -71,15 +71,23 @@ URL=https://openload.co/f/xWUJCR34Gc8/Game.Of.Thrones.The.Story.So.Far.2018.720p
 
 
 type=video
-name=S08-E02___Episode 2___[COLOR=FF00FF00]WEB.x264-NoGRP[/COLOR]
+name=S08-E02___A Knight of the Seven Kingdoms___[COLOR=FF00FF00]720p.web.h264-memento[/COLOR]
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/2Tj1Mcl3NQOj0LBnOpNHpBWuZHU.jpg
 date=2019-04-21
-URL=https://openload.co/f/siVfom51pm8/Game.of.Thrones.S08E02.WEB.x264-NoGRP.mkv.mp4
+URL=https://openload.co/f/LUf_X6E8Kvs/game.of.thrones.s08e02.720p.web.h264-memento.mkv.mp4
+#https://openload.co/f/siVfom51pm8/Game.of.Thrones.S08E02.WEB.x264-NoGRP.mkv.mp4
+#https://openload.co/f/wjie94Fcc0U/Game.of.Thrones.S08E02.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT_SeeHD.mkv.mp4
+#https://openload.co/f/LUf_X6E8Kvs/game.of.thrones.s08e02.720p.web.h264-memento.mkv.mp4
+#https://openload.co/f/0OFVNl09jlI/game.of.thrones.s08e02.web.h264-memento.mkv.mp4
+#https://openload.co/f/gWzoqAPKYwQ/game.of.thrones.s08e02.1080p.web.h264-memento.mkv.mp4
+#https://openload.co/f/M0xGg9O_P7k/Game.of.Thrones.S08E02.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4
+#https://openload.co/f/RxPtmdthf_Y/Game.of.Thrones.S08E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4
+#https://openload.co/f/h_oUxtcU_zM/Game.of.Thrones.S08E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4
 type=video
-name=S08-E02___Episode 2___TH DUBBED_thsub
+name=S08-E02___A Knight of the Seven Kingdoms___TH DUBBED_thsub
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/2Tj1Mcl3NQOj0LBnOpNHpBWuZHU.jpg
-date=2019-04-15
-URL=
+date=2019-04-22
+URL=https://openload.co/f/I2efcILNx6U/GAMES_OF_THRONES_SEASON_8_EP.2_A_KNIGHT_OF_THE_SEVEN_KINGDOMS_THSUB.mp4
 
 
 type=video
@@ -88,6 +96,7 @@ thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/aeLFDgp0J9140lS4nWUgZZRK6R
 date=2019-04-15
 URL=https://openload.co/f/vQ-tgI3FM1U/game.of.thrones.s08e01.repack.720p.web.h264-memento_SeeHD.mkv.mp4
 #https://openload.co/f/y_n1QbWM_48/Game.of.Thrones.S08E01.REPACK.720p.WEB.H264-MEMENTO.mkv.mp4
+#https://openload.co/f/t5uljvqXkKg/game.of.thrones.s08e01.repack.720p.web.h264-memento.mkv.mp4
 #https://openload.co/f/YRAUyMIBnx0/Game.of.Thrones.S08E01.Kings.Landing.1080p.AMZN.WEB-DL.x264-MkvCage.ws.E.mp4
 type=video
 name=S08-E01___Winterfell___TH DUBBED_thsub
