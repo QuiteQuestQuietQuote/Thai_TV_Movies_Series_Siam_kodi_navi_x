@@ -2250,6 +2250,8 @@ http://server2.nowonsocmed.com:8080/abed/abed123xx/146003
 http://185.27.116.54:8081/livestream/natpepole/chunks.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_ar
 http://streaming.i-sat.tv:8081/livestream/natpepole/chunks.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_tvanywhere
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI 
 http://178.219.160.167:8080/Discovery_Science/index.m3u8 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI_ottv
@@ -2300,12 +2302,16 @@ http://14.190.246.163:4022/rtp/232.84.1.115:10236
 #EXTINF:0 tvg-id="Dummy" tvg-logo="https://i.ibb.co/wJ85Y9x/davincikids.jpg" group-title="KIDS",Da Vinci
 http://14.190.246.163:4022/rtp/232.84.1.108:10224
 
- 
+#EXTINF:-1,DocuBox
+http://37.26.71.125:9010/play/dochft/index.m3u8
 
+#EXTINF:-1,SPEKTRUM HD
+https://nettv.flynet.hu/live/spektrumhd.m3u8
 
-
-
-
+#EXTINF:-1,UK: BBC Earth
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/143751
+#EXTINF:-1,UK: China History Channel HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/65035
 
 
 
@@ -2565,7 +2571,8 @@ http://92.43.140.249/s65/04.m3u8
 #EXTINF:-1,cnbc
 http://161.0.157.9:80/PLTV/88888888/224/3221227005/index.m3u8
 
-
+#EXTINF:-1,UK: CNBC
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/104258
 
 
 

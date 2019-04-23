@@ -76,16 +76,16 @@ URL=http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/
 
 
 type=video
-name=
-thumb=
+name=The Good Catholic (2017)
+thumb=https://4.bp.blogspot.com/-Zdnro55wGZk/We2pvRvpe1I/AAAAAAAAIIk/ZqsZbdYenuUFrUnlKGfGe37kMakTLvAPACLcBGAs/s1600/good.jpg
 date=2019-01-03
-URL=http://59.120.242.104:9000/live/live6.m3u8
+URL=https://flix555.com/2g3mr8vf0533
 
 type=video
-name=
-thumb=
+name=The Good Catholic (2017)
+thumb=https://4.bp.blogspot.com/-Zdnro55wGZk/We2pvRvpe1I/AAAAAAAAIIk/ZqsZbdYenuUFrUnlKGfGe37kMakTLvAPACLcBGAs/s1600/good.jpg
 date=2019-01-03
-URL=http://59.120.242.104:9000/live/live7.m3u8
+URL=https://gounlimited.to/rd5c9dbp9x94/The.Good.Catholic.2017.1080p.BluRay.H264.AAC-RARBG.mp4
 
 
 
