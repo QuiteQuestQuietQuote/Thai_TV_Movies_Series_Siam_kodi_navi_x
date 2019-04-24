@@ -1,9 +1,9 @@
 
 version=1
-background=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg
+background=https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg
 title=Eng_Box_Office___Thai_dubbed_movies_12_2019Q2
-logo=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg
-icon_playlist=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg
+logo=https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg
+icon_playlist=https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg
 description=Thanks to ThaiMovie4K, OHOHD, nunghd.org, newmovie-hd, 037hd, mastermovie-hd, nungmovies-hd, donang-hd, doseries, series24hr, movie2free, moviehd-master, kod-hd, bestmovie-hd, movie-dd, layar-21, rlsbb, SeeHD, sockshare, hdmovie8, fmovies, ganool, nanamovies./description
 
 type=playlist
@@ -14,7 +14,7 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 # 2772536
 type=playlist
 name=Eng_Box_Office___Thai_dubbed_movies
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyJgTzAsp3Za2TaPiZt2yaKYRIR.jpg
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg
 URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series_Siam_kodi_navi_x/master/sources/Eng_Box_Office___Thai_dubbed_movies/Eng_Box_Office___Thai_dubbed_movies.plx
 player=default
 rating=-1.00
@@ -76,16 +76,16 @@ URL=http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/
 
 
 type=video
-name=The Good Catholic (2017)
-thumb=https://4.bp.blogspot.com/-Zdnro55wGZk/We2pvRvpe1I/AAAAAAAAIIk/ZqsZbdYenuUFrUnlKGfGe37kMakTLvAPACLcBGAs/s1600/good.jpg
+name=
+thumb=
 date=2019-01-03
-URL=https://flix555.com/2g3mr8vf0533
+URL=https://mcloud.to/embed/xj5jyq?key=5aa676327fa3f044d6988d0140cbd936
 
 type=video
-name=The Good Catholic (2017)
-thumb=https://4.bp.blogspot.com/-Zdnro55wGZk/We2pvRvpe1I/AAAAAAAAIIk/ZqsZbdYenuUFrUnlKGfGe37kMakTLvAPACLcBGAs/s1600/good.jpg
+name=
+thumb=
 date=2019-01-03
-URL=https://gounlimited.to/rd5c9dbp9x94/The.Good.Catholic.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+URL=https://prettyfast.to/e/n2x49/e6f898a377b9878a09efb0d8ba7e91e0?
 
 
 
@@ -114,7 +114,7 @@ URL=https://drive.google.com/file/d/1XrgTIY3JpLoKGreu5If6pxs6mDiN28Ur/view
 type=video
 name=
 thumb=
-date=2019-02-28
+date=2019-04-24
 URL=
 
 
@@ -123,6 +123,23 @@ URL=
 
 
 
+
+
+
+
+
+type=video
+name=Avengers: Endgame (2019) ENG NEW_720p_HDCAM-1XBET
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg
+date=2019-04-24
+URL=https://openload.co/f/76Er1OYVDG8/Avengers_Endgame_2019_NEW_720p_HDCAM-1XBET.mkv
+#https://openload.co/f/VP4CFstPzaQ/Avengers_Endgame_2019_English_720p_HC_CAM_x264_1.9GB.E.mp4
+
+type=video
+name=Captain Marvel (2019) ENG HDTC.x264.AC3-ETRG
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg
+date=2019-04-24
+URL=https://openload.co/f/V-e8Mu2_ziU/Captain.Marvel.2019.HDTC.x264.AC3-ETRG.mp4
 
 type=video
 name=Isn't It Romantic (2019) ENG 720p.NF.WEB-DL.DDP5.1.x264-NTG_SeeHD

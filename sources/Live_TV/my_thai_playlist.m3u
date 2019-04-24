@@ -2072,6 +2072,7 @@ http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News + info
 http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/28051
+
 #EXTINF:-1 group-title="BAJIGUR",cnbc
 http://161.0.157.38/PLTV/88888888/224/3221227005/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_udp
@@ -2086,6 +2087,10 @@ http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_pltv
 http://161.0.157.9/PLTV/88888888/224/3221227005/01.m3u8
+#EXTINF:-1,cnbc
+http://161.0.157.9:80/PLTV/88888888/224/3221227005/index.m3u8
+#EXTINF:-1,UK: CNBC
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/104258
 
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
 https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
@@ -2277,14 +2282,10 @@ http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/wypdhd/40
 http://14.251.245.15:8889/rtp/232.84.2.129:9570
 #EXTINF:0 tvg-id="Dummy" tvg-logo="https://i.ibb.co/wJ85Y9x/davincikids.jpg" group-title="KIDS",Da Vinci (HD 7.5Mbps)
 http://14.251.245.15:8889/rtp/232.84.2.131:9582
-#EXTINF:-1,NAT GEO people (HD 7.5Mbps)
-http://14.251.245.15:8889/rtp/232.84.1.76:8430
 #EXTINF:0 tvg-id="Dummy" tvg-logo="https://i.ibb.co/tYKhrf6/afc.jpg" group-title="LIFESTYLE", Asian Food Channel
 http://14.251.245.15:8889/rtp/232.84.1.115:10236
 #EXTINF:0 tvg-id="Dummy" tvg-logo="https://i.ibb.co/wJ85Y9x/davincikids.jpg" group-title="KIDS",Da Vinci
 http://14.251.245.15:8889/rtp/232.84.1.108:10224
-#EXTINF:-1,NAT GEO people
-http://14.251.245.15:8889/rtp/232.84.2.121:8376
 
 #EXTINF:-1 group-title="FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL
 http://14.186.114.75:8889/rtp/232.84.1.115:10236
@@ -2302,16 +2303,34 @@ http://14.190.246.163:4022/rtp/232.84.1.115:10236
 #EXTINF:0 tvg-id="Dummy" tvg-logo="https://i.ibb.co/wJ85Y9x/davincikids.jpg" group-title="KIDS",Da Vinci
 http://14.190.246.163:4022/rtp/232.84.1.108:10224
 
-#EXTINF:-1,DocuBox
-http://37.26.71.125:9010/play/dochft/index.m3u8
-
-#EXTINF:-1,SPEKTRUM HD
-https://nettv.flynet.hu/live/spektrumhd.m3u8
-
 #EXTINF:-1,UK: BBC Earth
 http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/143751
 #EXTINF:-1,UK: China History Channel HD
 http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/65035
+
+#EXTINF:-1,Da Vinci Learning 
+http://185.41.23.27:8000/play/a008 
+#EXTINF:-1,DocuBox 
+http://185.41.23.27:8000/play/a02r 
+#EXTINF:-1,Viasat Explorer 
+http://185.41.23.27:8000/play/a04s 
+#EXTINF:-1,Viasat History 
+http://185.41.23.27:8000/play/a00k 
+
+#EXTINF:-1,HBO_ts_CH
+http://125.227.210.37:8895/VideoInput/play.ts
+#EXTINF:-1,HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1,English Club 
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:-1 tvg-id="ONE By UHD 2160P 4K" group-title="Music" tvg-logo="",ONE By UHD 2160P 4K
+http://rtmp.one.by:1400/
+
+
+#EXTINF:-1 group-title="WEDANG RONDE",Da Vinci
+http://195.206.253.157:17200/davinci
+
+
 
 
 
@@ -2411,8 +2430,7 @@ http://79.133.125.23:999/udp/239.191.254.250:15285
 
 
 
-#EXTINF:-1,anime
-http://megatv.live/pame/pame/337
+
 #EXTINF:-1,Penthouse_quicker
 http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,redtraffic_threesome
@@ -2507,8 +2525,7 @@ http://persik.by/stream/4914/395387/10003.m3u8
 http://185.93.3.83:5014/play/a00a
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart_178
 http://178.219.160.167:8080/Nuart/index.m3u8 
-#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart
-http://46.32.68.167/s/live/711/86.169.51.136/1/0.m3u8
+
 
 
 
@@ -2568,11 +2585,7 @@ http://92.43.140.249/s65/04.m3u8
 
 
 
-#EXTINF:-1,cnbc
-http://161.0.157.9:80/PLTV/88888888/224/3221227005/index.m3u8
 
-#EXTINF:-1,UK: CNBC
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/104258
 
 
 
