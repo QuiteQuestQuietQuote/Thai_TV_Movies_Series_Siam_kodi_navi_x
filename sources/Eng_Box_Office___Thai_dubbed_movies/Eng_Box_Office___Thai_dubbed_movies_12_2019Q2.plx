@@ -79,13 +79,13 @@ type=video
 name=
 thumb=
 date=2019-01-03
-URL=https://mcloud.to/embed/xj5jyq?key=5aa676327fa3f044d6988d0140cbd936
+URL=
 
 type=video
 name=
 thumb=
 date=2019-01-03
-URL=https://prettyfast.to/e/n2x49/e6f898a377b9878a09efb0d8ba7e91e0?
+URL=
 
 
 
@@ -112,10 +112,10 @@ URL=https://drive.google.com/file/d/1XrgTIY3JpLoKGreu5If6pxs6mDiN28Ur/view
 
 
 type=video
-name=
-thumb=
+name=Bling 2016 1080p Bluray H264 – RARBG_test
+thumb=https://i.postimg.cc/LXZ731yx/1.jpg
 date=2019-04-24
-URL=
+URL=https://flix555.com/vm6x1uw40o0c
 
 
 
@@ -13024,8 +13024,9 @@ URL=https://openload.co/f/DhA9PVRs5bQ/The.Kid.Who.Would.Be.King.2019.1080p.BluRa
 type=video
 name=The Kid Who Would Be King (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWENxGrJmXmHvifG6x2aYnpovXI.jpg
-date=2019-04-22
-URL=https://openload.co/f/2i0B_3sBRp0/The_Kid_Who_Would_Be_King_%282019%29%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B9%8C.mp4
+date=2019-04-25
+URL=https://openload.co/f/wuL9GSdgpDU/The_Kid_Who_Would_Be_King_%282019%29%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B9%8C.mp4
+#https://openload.co/f/2i0B_3sBRp0/The_Kid_Who_Would_Be_King_%282019%29%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B9%8C.mp4
 
 
 type=video

@@ -1667,6 +1667,39 @@ http://193.233.186.76:81/udp/239.191.254.250:15285
 
 
 
+#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
+#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 2
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 4
+http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 10
+http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Movies 1
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:-1 tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" ,24/7| Movies 2
+http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+#EXTINF:-1 tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Movies 3
+http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+#EXTINF:-1 tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Movies 4
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -2159,14 +2192,17 @@ http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 http://wow01.105.net:1935/live/105Test1/livestream.m3u8
 #EXTINF:-1,Musics for You
 http://203.154.243.32:8088/live/musicforyou/index.m3u8
+#EXTINF:-1 tvg-id="ONE By UHD 2160P 4K" group-title="Music" tvg-logo="",ONE By UHD 2160P 4K
+http://rtmp.one.by:1400/
 
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/551035274344402946/ywxl9pq3_400x400.jpeg",100automoto
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1,automotorsport
 http://unicast.bbxnet.sk/live/automotorsport-hd/playlist.m3u8
-#EXTINF:-1,cars-and-stars-tv
+#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png",tv| Cars & Stars TV HD
 http://cars-and-stars-tv-hls1.cosmonova.net.ua/hls/cars-and-stars-tv_ua_hi/index.m3u8
+
 
 
 #EXTINF:-1,hdmedia_3D
@@ -2187,6 +2223,8 @@ http://220.125.160.36:9981/stream/channelid/617874525?ticket=FF898303D7C31BEDD94
 http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1,4K TV Showcase
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=false
+#EXTINF:-1 tvg-id="ONE By UHD 2160P 4K" group-title="Music" tvg-logo="",ONE By UHD 2160P 4K
+http://rtmp.one.by:1400/
 
 
 
@@ -2308,27 +2346,72 @@ http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/143751
 #EXTINF:-1,UK: China History Channel HD
 http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/65035
 
-#EXTINF:-1,Da Vinci Learning 
-http://185.41.23.27:8000/play/a008 
-#EXTINF:-1,DocuBox 
-http://185.41.23.27:8000/play/a02r 
-#EXTINF:-1,Viasat Explorer 
-http://185.41.23.27:8000/play/a04s 
-#EXTINF:-1,Viasat History 
-http://185.41.23.27:8000/play/a00k 
-
 #EXTINF:-1,HBO_ts_CH
 http://125.227.210.37:8895/VideoInput/play.ts
 #EXTINF:-1,HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1,English Club 
 http://ott-cdn.ucom.am/s37/index.m3u8
-#EXTINF:-1 tvg-id="ONE By UHD 2160P 4K" group-title="Music" tvg-logo="",ONE By UHD 2160P 4K
-http://rtmp.one.by:1400/
+
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="KIDS",Aniplus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE",MBC HD
+http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE",2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE",3 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE",4 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO DOCUMENTER",BBC EARTH HD
+http://iptv4livehost.com:8080/cjacome/Q1w2e3r4!/142664
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO LIFESTYLE",BBC LIFESTYLE
+http://iptv4livehost.com:8080/cjacome/Q1w2e3r4!/142665
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO DOCUMENTER",HGTV
+http://iptv4livehost.com:8080/cjacome/Q1w2e3r4!/150662
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO DOCUMENTER",NAT GEO ASIA HD
+http://iptv4livehost.com:8080/cjacome/Q1w2e3r4!/146002
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO DOCUMENTER",NAT GEO PEOPLE HD
+http://iptv4livehost.com:8080/cjacome/Q1w2e3r4!/146003
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="DOCUMENTER",  PLANET GREEN
+http://80.80.160.168/live/4/live.m3u8
+
+#EXTINF:-1,DA VINCI
+http://edge24.rcs-rds.ro/digiedge2/davincilearningehq/chunklist_w1401740377.m3u8?is=66&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=davincilearning&p=browser&pe=site
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" ,BBC EARTH (rds)
+http://82.76.252.30/digiedge2/bbcearthehq/index.m3u8?is=67&src=app&t=00000000000000000000000000000000
+
+#EXTINF:-1,en| Biography
+http://190.13.120.113/streams/biography.m3u8
+#EXTINF:-1,en| HGTV
+http://190.13.120.113/streams/hgtv.m3u8
+#EXTINF:-1,en| DIY
+http://190.13.120.112/streams/diy.m3u8
+
+#EXTINF:0,Eat & Go
+https://indiku.uk.to/pp/ok.m3u8?ch=eatgo
+#EXTINF:0,Asian Food Channel
+https://indiku.uk.to/pp/ok.m3u8?ch=afc
+#EXTINF:0,Da Vinci Learning
+https://indiku.uk.to/pp/ok.m3u8?ch=davinci
+#EXTINF:0,Dreamworks
+https://indiku.uk.to/pp/ok.m3u8?ch=dreamworks
+
+#EXTINF:-1,TR: Bbc Eart
+http://ip.avov.xyz:8000/live/salihzeki/17092018/3016.m3u8
+#EXTINF:-1,TR: National Geo People HD
+http://ip.avov.xyz:8000/live/salihzeki/17092018/1241.m3u8
+#EXTINF:-1,TR: BBC TRSub
+http://ip.avov.xyz:8000/live/salihzeki/17092018/5222.m3u8
+#EXTINF:-1,TR: Da Vinci Learning
+http://ip.avov.xyz:8000/live/salihzeki/17092018/1662.m3u8
 
 
-#EXTINF:-1 group-title="WEDANG RONDE",Da Vinci
-http://195.206.253.157:17200/davinci
+
+
 
 
 
@@ -2353,6 +2436,10 @@ http://dlhls.live.cnlive.com:1935/cdn/zhonghuameishi/chunklist.m3u8
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE
 http://185.27.116.54:8081/livestream/natpepole/chunks.m3u8
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_people_asia.png" tvg-id="31392caa0cf1109c49a675d48b70fedf"group-title="KNOWLEDGE",NAT GEO People
+http://203.153.218.26:9981/stream/channelid/707541297?ticket=01B231E56807D01EFFAE1891905BA8C06C67C876&profile=pass
+#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="KNOWLEDGE",Discovery Science
+http://194.88.104.74:8000/live/maundy/maundy/132.ts
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
 http://79.119.107.49:8001/1:0:1:78B7:2C5:600:E080000:0:0:0:
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI 
@@ -2360,6 +2447,8 @@ http://85.66.46.167:8001/1:0:1:77F2:2C3:600:E080000:0:0:0:
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH
 http://185.79.92.234:8001/1:0:1:96:19:1:FFFF0000:0:0:0
 
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CH_rtmp
+rtmp://118.97.96.17:1935/discover/disco_3
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_HD
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/143751
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD
@@ -2428,6 +2517,14 @@ http://185.93.3.83:5014/play/a00d
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt
 http://79.133.125.23:999/udp/239.191.254.250:15285
 
+#EXTINF:-1,Adult-Nubiles Casting
+http://ip.avov.xyz:8000/live/salihzeki/17092018/3686.m3u8
+#EXTINF:-1,Adult-Russkaya Noch
+http://ip.avov.xyz:8000/live/salihzeki/17092018/3945.m3u8
+#EXTINF:-1,Adult-Vip CH - Tushy
+http://ip.avov.xyz:8000/live/salihzeki/17092018/5242.m3u8
+#EXTINF:-1,Adult-Dorcel HD
+http://ip.avov.xyz:8000/live/salihzeki/17092018/2646.m3u8
 
 
 
