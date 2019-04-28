@@ -2314,7 +2314,7 @@ http://210.210.155.35/session/d63bb414-30c3-11e9-b5a0-c81f66f89318/uq2663/h/h10/
 #EXTINF:-1,cooking ch
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:-1,Pics_CHN
-http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/wypdhd/4000000/live.m3u8
+http://hw-stream.kksmg.com/hls/channel1081/index.m3u8
 
 #EXTINF:0 tvg-id="Dummy" tvg-logo="https://i.ibb.co/tYKhrf6/afc.jpg" group-title="LIFESTYLE", Asian Food Channel (HD 7Mbps)
 http://14.251.245.15:8889/rtp/232.84.2.129:9570
@@ -2350,20 +2350,12 @@ http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/65035
 http://125.227.210.37:8895/VideoInput/play.ts
 #EXTINF:-1,HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1,English Club 
-http://ott-cdn.ucom.am/s37/index.m3u8
-
-#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="KIDS",Aniplus
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE",MBC HD
-http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,FOX PREMIUM CINEMA
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE",2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE",3 HD
-http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/xT274dx0/M9.png" group-title="MOVIE",4 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,English Club 
+http://ott-cdn.ucom.am/s37/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO DOCUMENTER",BBC EARTH HD
 http://iptv4livehost.com:8080/cjacome/Q1w2e3r4!/142664
@@ -2376,41 +2368,69 @@ http://iptv4livehost.com:8080/cjacome/Q1w2e3r4!/146002
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO DOCUMENTER",NAT GEO PEOPLE HD
 http://iptv4livehost.com:8080/cjacome/Q1w2e3r4!/146003
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="DOCUMENTER",  PLANET GREEN
-http://80.80.160.168/live/4/live.m3u8
-
-#EXTINF:-1,DA VINCI
-http://edge24.rcs-rds.ro/digiedge2/davincilearningehq/chunklist_w1401740377.m3u8?is=66&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=davincilearning&p=browser&pe=site
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" ,BBC EARTH (rds)
-http://82.76.252.30/digiedge2/bbcearthehq/index.m3u8?is=67&src=app&t=00000000000000000000000000000000
-
-#EXTINF:-1,en| Biography
-http://190.13.120.113/streams/biography.m3u8
-#EXTINF:-1,en| HGTV
-http://190.13.120.113/streams/hgtv.m3u8
-#EXTINF:-1,en| DIY
-http://190.13.120.112/streams/diy.m3u8
-
-#EXTINF:0,Eat & Go
-https://indiku.uk.to/pp/ok.m3u8?ch=eatgo
-#EXTINF:0,Asian Food Channel
-https://indiku.uk.to/pp/ok.m3u8?ch=afc
 #EXTINF:0,Da Vinci Learning
-https://indiku.uk.to/pp/ok.m3u8?ch=davinci
-#EXTINF:0,Dreamworks
-https://indiku.uk.to/pp/ok.m3u8?ch=dreamworks
+https://hls.telekabel.com.mk:1936/live/121/2500-def.m3u8
 
-#EXTINF:-1,TR: Bbc Eart
-http://ip.avov.xyz:8000/live/salihzeki/17092018/3016.m3u8
-#EXTINF:-1,TR: National Geo People HD
-http://ip.avov.xyz:8000/live/salihzeki/17092018/1241.m3u8
-#EXTINF:-1,TR: BBC TRSub
-http://ip.avov.xyz:8000/live/salihzeki/17092018/5222.m3u8
-#EXTINF:-1,TR: Da Vinci Learning
-http://ip.avov.xyz:8000/live/salihzeki/17092018/1662.m3u8
+#EXTINF:-1,FOX PREMIUM CINEMA
+http://161.0.157.9/PLTV/88888888/224/3221226793/index.m3u8
+#EXTINF:-1,cnbc
+http://161.0.157.9:80/PLTV/88888888/224/3221227005/index.m3u8
+#EXTINF:-1,HBO HD
+http://161.0.157.9/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:-1,USA HBO 2
+http://161.0.157.9/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1,HBO 2 International
+http://161.0.157.9/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1,HBO 2
+http://161.0.157.9/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1,HBO
+http://161.0.157.9/PLTV/88888888/224/3221226127/03.m3u8
 
+#EXTINF:-1,CA: CNBC WORLD | HD
+http://thenew.tv:8000/Anthony1/Anthony1/5092
+#EXTINF:-1,CA: DISCOVERY SCIENCE | HD
+http://thenew.tv:8000/Anthony1/Anthony1/5068
+#EXTINF:-1,CA: HBO | HD
+http://thenew.tv:8000/Anthony1/Anthony1/5029
+#EXTINF:-1,CA: HBO 2 | HD
+http://thenew.tv:8000/Anthony1/Anthony1/5026
+#EXTINF:-1,CA: HGTV HD
+http://thenew.tv:8000/Anthony1/Anthony1/5023
+#EXTINF:-1,CA: HISTORY | HD
+http://thenew.tv:8000/Anthony1/Anthony1/5019
+#EXTINF:-1,CA: KNOWLEDGE KIDS HD
+http://thenew.tv:8000/Anthony1/Anthony1/5015
 
-
+#EXTINF:-1,USA: CNBC HD
+http://bldtv.vip:80/debora2019/debora2019/44314
+#EXTINF:-1,USA: CNBC WORLD HD
+http://bldtv.vip:80/debora2019/debora2019/43981
+#EXTINF:-1,USA: HALLMARK CHANNEL HD
+http://bldtv.vip:80/debora2019/debora2019/44274
+#EXTINF:-1,USA: HALLMARK DRAMA HD
+http://bldtv.vip:80/debora2019/debora2019/44273
+#EXTINF:-1,USA: HALLMARK MOVIES & MYSTERIES HD
+http://bldtv.vip:80/debora2019/debora2019/44053
+#EXTINF:-1,USA: HBO (EAST) HD
+http://bldtv.vip:80/debora2019/debora2019/44052
+#EXTINF:-1,USA: HBO (EAST) HD ²
+http://bldtv.vip:80/debora2019/debora2019/44051
+#EXTINF:-1,USA: HBO (WEST) HD
+http://bldtv.vip:80/debora2019/debora2019/44050
+#EXTINF:-1,USA: HBO 2 FHD
+http://bldtv.vip:80/debora2019/debora2019/44049
+#EXTINF:-1,USA: HBO COMEDY HD
+http://bldtv.vip:80/debora2019/debora2019/44048
+#EXTINF:-1,USA: HBO FAMILY FHD
+http://bldtv.vip:80/debora2019/debora2019/44047
+#EXTINF:-1,USA: HBO SIGNATURE (WEST) FHD
+http://bldtv.vip:80/debora2019/debora2019/44046
+#EXTINF:-1,USA: HBO ZONE FHD
+http://bldtv.vip:80/debora2019/debora2019/44044
+#EXTINF:-1,USA: HBO ZONE HD
+http://bldtv.vip:80/debora2019/debora2019/44045
+#EXTINF:-1,USA: OUTDOOR CHANNEL HD
+http://bldtv.vip:80/debora2019/debora2019/43990
 
 
 
@@ -2436,8 +2456,12 @@ http://dlhls.live.cnlive.com:1935/cdn/zhonghuameishi/chunklist.m3u8
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE
 http://185.27.116.54:8081/livestream/natpepole/chunks.m3u8
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_people_asia.png" tvg-id="31392caa0cf1109c49a675d48b70fedf"group-title="KNOWLEDGE",NAT GEO People
-http://203.153.218.26:9981/stream/channelid/707541297?ticket=01B231E56807D01EFFAE1891905BA8C06C67C876&profile=pass
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_rtmp
+rtmp://118.97.96.17:1935/discover/natgeopeople_3
+#EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_rtmp
+rtmp://118.97.96.17:1935/discover/natgeo_3
 #EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="KNOWLEDGE",Discovery Science
 http://194.88.104.74:8000/live/maundy/maundy/132.ts
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
@@ -2447,8 +2471,6 @@ http://85.66.46.167:8001/1:0:1:77F2:2C3:600:E080000:0:0:0:
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH
 http://185.79.92.234:8001/1:0:1:96:19:1:FFFF0000:0:0:0
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CH_rtmp
-rtmp://118.97.96.17:1935/discover/disco_3
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_HD
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/143751
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD
@@ -2465,8 +2487,8 @@ http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?
 http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?
 #EXTINF:-1,CHN
 http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_rtmp
+rtmp://118.97.96.17:1935/discover/afc_3
 #EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_CH
 http://61.58.60.194:9000/live/176ch.m3u8
 
@@ -2496,16 +2518,20 @@ rtmp://tv01.thaizatv.com/drm/movie1
 http://203.154.243.89:2037
 #EXTINF:-1,Movies_subth_dooseries_subth
 http://203.154.243.89:1423
+#EXTINF:-1,AMC
+http://85.66.46.167:8001/1:0:1:7981:2C7:600:E080000:0:0:0:
 #EXTINF:-1 group-title="movies"tvg-logo="https://www.thaiptv.com/img/movie1logo.png",Movie CH1
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="https://www.thaiptv.com/img/movie2logo.png",Movie CH2
 https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="https://www.thaiptv.com/img/ghost_1548669903.jpg",Ghost Channel
 https://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-1524041857-1_1200.m3u8
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="KIDS",Aniplus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:-1,Anime All Day
 https://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=abcvf6f7c3skho4fkbj2demm10
-
-
+#EXTINF:-1,disney_true
+http://14.207.216.40:9982/stream/channelid/2069272841
 
 
 
@@ -2515,21 +2541,15 @@ http://193.233.191.182:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
 http://185.93.3.83:5014/play/a00d
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt
-http://79.133.125.23:999/udp/239.191.254.250:15285
+http://79.135.77.75:81/udp/239.195.0.88:1234
 
-#EXTINF:-1,Adult-Nubiles Casting
-http://ip.avov.xyz:8000/live/salihzeki/17092018/3686.m3u8
-#EXTINF:-1,Adult-Russkaya Noch
-http://ip.avov.xyz:8000/live/salihzeki/17092018/3945.m3u8
-#EXTINF:-1,Adult-Vip CH - Tushy
-http://ip.avov.xyz:8000/live/salihzeki/17092018/5242.m3u8
-#EXTINF:-1,Adult-Dorcel HD
-http://ip.avov.xyz:8000/live/salihzeki/17092018/2646.m3u8
 
 
 
 #EXTINF:-1,Penthouse_quicker
 http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
+#EXTINF:-1,expanded2
+http://85.254.5.134:8001/1:0:1:584c:82e:2:11a0000:0:0:0:
 #EXTINF:-1,redtraffic_threesome
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1,redtraffic_pov
@@ -2586,6 +2606,8 @@ http://59.120.242.104:9000/live/live7.m3u8
 http://79.135.77.75:81/udp/239.195.0.88:1234
 #EXTINF:-1,Ibiza TV2_119
 http://119.81.168.227:1935/lfh/_definst_/Stream2/playlist.m3u8
+#EXTINF:-1,Ibiza TV4_119
+http://119.81.168.227:1935/lfh/Stream4/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV3_VIP
 http://ibiza-tv.1919hdtv.com:8880/lfh/Stream3/playlist.m3u8
 #EXTINF:-1,Ibiza TV3_streamlock.net

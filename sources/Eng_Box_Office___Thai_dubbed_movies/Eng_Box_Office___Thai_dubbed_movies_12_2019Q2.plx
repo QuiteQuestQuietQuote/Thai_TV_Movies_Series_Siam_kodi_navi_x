@@ -129,10 +129,11 @@ URL=https://flix555.com/vm6x1uw40o0c
 
 
 type=video
-name=Avengers: Endgame (2019) ENG NEW_720p_HDCAM-1XBET
+name=Avengers: Endgame (2019) ENG 1080p_HC_HDTS_H264_Ac3_SNAKE_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg
-date=2019-04-24
-URL=https://openload.co/f/76Er1OYVDG8/Avengers_Endgame_2019_NEW_720p_HDCAM-1XBET.mkv
+date=2019-04-28
+URL=https://openload.co/f/M8LPue8nypo/Avengers_Endgame_2019_1080p_HC_HDTS_H264_Ac3_SNAKE_SeeHD.mkv.mp4
+#https://openload.co/f/76Er1OYVDG8/Avengers_Endgame_2019_NEW_720p_HDCAM-1XBET.mkv
 #https://openload.co/f/VP4CFstPzaQ/Avengers_Endgame_2019_English_720p_HC_CAM_x264_1.9GB.E.mp4
 
 type=video
@@ -10291,26 +10292,7 @@ date=2018-10-28
 URL=https://openload.co/f/xEBSYA1wsGI/Radius_%282017%29%E0%B8%A3%E0%B8%B1%E0%B8%A8%E0%B8%A1%E0%B8%B5%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
-type=video
-name=Galveston (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZnPtTHw7TfOQoLz3MeAUSLvNK5.jpg
-date=2018-12-11
-URL=https://uptobox.com/cljwytlo2uzi
-#https://fruithosts.net/embed/acolqarnfolpnftk/GALVESTON80_Ganol_si_mkv
-#https://oload.fun/embed/GHHGHCBWYYU/GALVESTON80.Ganol.si.mkv
-#https://openload.co/f/qr63kx78arU/Galveston_%282018%291080p_BluRay_x264-ROVERS.Ganool.mkv.mp4
-#https://openload.co/f/YmK2pVVYGrs/Galveston.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/eg-vm9ATq2U/Galveston.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/13T_aKXLVDg/Galveston.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/GJlVGpLuE3w/galveston.2018.1080p.bluray.x264-rovers.mkv.mp4
-#https://openload.co/f/ygxN2EpXye8/Galveston.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/OBNnbvHPAP0/Galveston.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/nUt7IaM4LnA/Galveston_1080p_WEB-DL_SeeHD.mkv.mp4
-type=video
-name=Galveston (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZnPtTHw7TfOQoLz3MeAUSLvNK5.jpg
-date=2018-10-23
-URL=https://openload.co/f/bSBosr9PEjg/Galveston_%282018%29%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
 
 
 type=video
@@ -12685,24 +12667,7 @@ URL=https://openload.co/f/LqODIQc1TMU/Monstrum_%282018%29%E0%B8%9E%E0%B8%B1%E0%B
 
 
 
-type=video
-name=Europe Raiders (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BEikhobwXkTS78dmgNQZNPg20n.jpg
-date=2018-11-08
-URL=https://uptobox.com/jn6r9yhul137
-#https://www.rapidvideo.com/e/FX0P8NSZHH
-#https://openload.co/embed/pvEKc2txN8g/Europe.Raiders.2018.BluRay.1080p.5.1CH.x264.Ganol.st.mkv.mp4
-#https://openload.co/f/NeJY6y3r06E/Europe.Raiders.2018.1080p_BluRay_AC3_x264-WiKi.Ganool.mkv.mp4
-#https://openload.co/f/B35PZsw5uos/Europe.Raiders.2018.1080p.BluRay.x264-WiKi.mkv.mp4
-#https://uptobox.com/vx58e386e9h9   720
-#https://www.rapidvideo.com/e/FWZWL70V4V   720
-#https://openload.co/embed/Vfde1xsUXkE/Europe.Raiders.2018.BluRay.720p.750MB.Ganol.st.mkv.mp4
-#https://openload.co/f/AFNOzgW_erk/Europe.Raiders.2018.720p_BluRay_AC3_x264-WiKi.Ganool.mkv.mp4
-type=video
-name=Europe Raiders (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BEikhobwXkTS78dmgNQZNPg20n.jpg
-date=2018-10-08
-URL=https://openload.co/f/l3SNZ1BYN0I/Europe_Raiders_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B3%E0%B8%AD%E0%B8%B2%E0%B8%87_%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B9%80%E0%B8%97%E0%B8%81%E0%B8%A2%E0%B8%B8%E0%B9%82%E0%B8%A3%E0%B8%9B_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
 
 
 
@@ -12745,25 +12710,7 @@ URL=https://streamango.com/f/spferccqadbrqlfk/Beyond_the_Edge_2018_
 
 
 
-type=video
-name=Escape Plan 2: Hades (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6aVHV5Id47dlaEro9DsijzStIU.jpg
-date=2018-06-19
-URL=https://www.blazefile.co/embed-uq6ym96ywl95.html
-#https://uptobox.com/kfhcg596l2du
-#https://openload.co/embed/sQoyFXluybk/GHPESCPEPLAN280.Ganool.im.mkv
-#https://openload.co/f/ww0gjkL6NsM/escape.plan.2.hades.2018.1080p.bluray.x264-brmp.mkv.mp4
-#https://openload.co/f/EnUldWAXphw/Escape_Plan_2_Hades.2018.720p.BRRip.X264.AC3-EVO_SeeHD.mkv.mp4
-#https://openload.co/f/dgJ5i3_FvZw/Escape_Plan_2_Hades_2018_1080p_BluRay_DTS-HD_x264-HDC.mkv.mp4
-#https://openload.co/f/RgvZg78lvH8/Escape_Plan_2_Hades.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
-#https://www.blazefile.co/embed-6lhbd1gqm3lh.html   720
-#https://uptobox.com/jyi5m09bldhr   720
-#https://openload.co/embed/DAzFc7hD2d8/SHQESCAPEPAN2BD72.Ganoo.im.mkv.mp4
-type=video
-name=Escape Plan 2: Hades (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6aVHV5Id47dlaEro9DsijzStIU.jpg
-date=2018-06-26
-URL=https://streamango.com/f/dpsbpplmrbcdonpm/Escape_Plan_2_Hades_2018_2_
+
 
 
 
@@ -13003,7 +12950,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-04-21
+date=2019-04-28
 URL=
 
 
@@ -13013,6 +12960,86 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=Galveston (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZnPtTHw7TfOQoLz3MeAUSLvNK5.jpg
+date=2018-12-11
+URL=https://uptobox.com/cljwytlo2uzi
+#https://fruithosts.net/embed/acolqarnfolpnftk/GALVESTON80_Ganol_si_mkv
+#https://oload.fun/embed/GHHGHCBWYYU/GALVESTON80.Ganol.si.mkv
+#https://openload.co/f/qr63kx78arU/Galveston_%282018%291080p_BluRay_x264-ROVERS.Ganool.mkv.mp4
+#https://openload.co/f/YmK2pVVYGrs/Galveston.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/eg-vm9ATq2U/Galveston.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/13T_aKXLVDg/Galveston.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/GJlVGpLuE3w/galveston.2018.1080p.bluray.x264-rovers.mkv.mp4
+#https://openload.co/f/ygxN2EpXye8/Galveston.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/OBNnbvHPAP0/Galveston.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/nUt7IaM4LnA/Galveston_1080p_WEB-DL_SeeHD.mkv.mp4
+type=video
+name=Galveston (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZnPtTHw7TfOQoLz3MeAUSLvNK5.jpg
+date=2019-04-28
+URL=https://openload.co/f/F5ip1Tq-e0k/Galveston_%282018%29%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2.mp4
+#https://openload.co/f/bSBosr9PEjg/Galveston_%282018%29%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
+
+type=video
+name=Escape Plan 2: Hades (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-46
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6aVHV5Id47dlaEro9DsijzStIU.jpg
+date=2018-06-19
+URL=https://www.blazefile.co/embed-uq6ym96ywl95.html
+#https://uptobox.com/kfhcg596l2du
+#https://openload.co/embed/sQoyFXluybk/GHPESCPEPLAN280.Ganool.im.mkv
+#https://openload.co/f/ww0gjkL6NsM/escape.plan.2.hades.2018.1080p.bluray.x264-brmp.mkv.mp4
+#https://openload.co/f/EnUldWAXphw/Escape_Plan_2_Hades.2018.720p.BRRip.X264.AC3-EVO_SeeHD.mkv.mp4
+#https://openload.co/f/dgJ5i3_FvZw/Escape_Plan_2_Hades_2018_1080p_BluRay_DTS-HD_x264-HDC.mkv.mp4
+#https://openload.co/f/RgvZg78lvH8/Escape_Plan_2_Hades.2018.DVDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+#https://www.blazefile.co/embed-6lhbd1gqm3lh.html   720
+#https://uptobox.com/jyi5m09bldhr   720
+#https://openload.co/embed/DAzFc7hD2d8/SHQESCAPEPAN2BD72.Ganoo.im.mkv.mp4
+type=video
+name=Escape Plan 2: Hades (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6aVHV5Id47dlaEro9DsijzStIU.jpg
+date=2019-04-28
+URL=https://openload.co/f/cPqKD5oEvOQ/Escape_Plan_2%3A_Hades_%282018%29%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2_2.mp4
+#https://streamango.com/f/dpsbpplmrbcdonpm/Escape_Plan_2_Hades_2018_2_
+
+
+type=video
+name=Europe Raiders (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-100
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BEikhobwXkTS78dmgNQZNPg20n.jpg
+date=2018-11-08
+URL=https://uptobox.com/jn6r9yhul137
+#https://www.rapidvideo.com/e/FX0P8NSZHH
+#https://openload.co/embed/pvEKc2txN8g/Europe.Raiders.2018.BluRay.1080p.5.1CH.x264.Ganol.st.mkv.mp4
+#https://openload.co/f/NeJY6y3r06E/Europe.Raiders.2018.1080p_BluRay_AC3_x264-WiKi.Ganool.mkv.mp4
+#https://openload.co/f/B35PZsw5uos/Europe.Raiders.2018.1080p.BluRay.x264-WiKi.mkv.mp4
+#https://uptobox.com/vx58e386e9h9   720
+#https://www.rapidvideo.com/e/FWZWL70V4V   720
+#https://openload.co/embed/Vfde1xsUXkE/Europe.Raiders.2018.BluRay.720p.750MB.Ganol.st.mkv.mp4
+#https://openload.co/f/AFNOzgW_erk/Europe.Raiders.2018.720p_BluRay_AC3_x264-WiKi.Ganool.mkv.mp4
+type=video
+name=Europe Raiders (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KvhLdMkRM44d6x87wedfkIvmEo.jpg
+date=2019-04-28
+URL=https://openload.co/f/m6ohJRPBGUo/Europe_Raiders_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B3%E0%B8%AD%E0%B8%B2%E0%B8%87_%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B9%80%E0%B8%97%E0%B8%81%E0%B8%A2%E0%B8%B8%E0%B9%82%E0%B8%A3%E0%B8%9B.mp4
+#https://openload.co/f/l3SNZ1BYN0I/Europe_Raiders_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B3%E0%B8%AD%E0%B8%B2%E0%B8%87_%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B9%80%E0%B8%97%E0%B8%81%E0%B8%A2%E0%B8%B8%E0%B9%82%E0%B8%A3%E0%B8%9B_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
+type=video
+name=The Travelling Cat Chronicles (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-40
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oItYQNfG6vNU0F8xdjFHYXqGjxH.jpg
+date=2019-04-28
+URL=
+type=video
+name=The Travelling Cat Chronicles (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oItYQNfG6vNU0F8xdjFHYXqGjxH.jpg
+date=2019-04-28
+URL=https://openload.co/f/h8jU6nD3fd8/The_Travelling_Cat_Chronicles_%282018%29%E0%B8%9C%E0%B8%A1_%E0%B9%81%E0%B8%A1%E0%B8%A7_%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B2.mp4
 
 
 type=video
@@ -13066,8 +13093,9 @@ URL=https://openload.co/f/zRaFHRuS-Ms/Inconceivable.2017.LIMITED.1080p.BluRay.x2
 type=video
 name=Inconceivable (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvihB44CMiQHqC7tvARYEjQ5Buf.jpg
-date=2019-04-21
-URL=https://openload.co/f/hWzETlZPWoE/Inconceivable_%282017%29%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%B3%E0%B8%A1%E0%B8%AB%E0%B8%B4%E0%B8%95_%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A7%E0%B8%B4%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%AA.mp4
+date=2019-04-24
+URL=https://openload.co/f/SwDROHx-olo/Inconceivable_%282017%29%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%B3%E0%B8%A1%E0%B8%AB%E0%B8%B4%E0%B8%95_%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A7%E0%B8%B4%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%AA.mp4
+#https://openload.co/f/hWzETlZPWoE/Inconceivable_%282017%29%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%B3%E0%B8%A1%E0%B8%AB%E0%B8%B4%E0%B8%95_%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A7%E0%B8%B4%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%AA.mp4
 
 
 type=video
