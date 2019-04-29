@@ -112,10 +112,10 @@ URL=https://drive.google.com/file/d/1XrgTIY3JpLoKGreu5If6pxs6mDiN28Ur/view
 
 
 type=video
-name=Bling 2016 1080p Bluray H264 – RARBG_test
-thumb=https://i.postimg.cc/LXZ731yx/1.jpg
+name=
+thumb=
 date=2019-04-24
-URL=https://flix555.com/vm6x1uw40o0c
+URL=
 
 
 
@@ -14806,7 +14806,11 @@ URL=
 
 
 
-
+type=video
+name=Bling (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nVzGn8ezRPlSx3u6SYAWcQUYxg.jpg
+date=2019-04-24
+URL=https://flix555.com/vm6x1uw40o0c
 
 type=video
 name=Unlocked (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
