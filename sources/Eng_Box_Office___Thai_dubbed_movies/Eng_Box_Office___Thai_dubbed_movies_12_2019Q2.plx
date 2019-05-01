@@ -76,16 +76,16 @@ URL=http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/
 
 
 type=video
-name=
+name=Blood.Brother.2018.1080p.BluRay.H264.AAC-RARBG
 thumb=
 date=2019-01-03
-URL=
+URL=https://verystream.com/stream/iqx2orxbEQS/Blood.Brother.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
-name=
+name=Violentia.2018.1080p.BluRay.H264.AAC-RARBG
 thumb=
 date=2019-01-03
-URL=
+URL=https://verystream.com/stream/3Yj7hjeWjqc/Violentia.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 
 
@@ -133,6 +133,7 @@ name=Avengers: Endgame (2019) ENG 1080p_HC_HDTS_H264_Ac3_SNAKE_SeeHD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg
 date=2019-04-28
 URL=https://openload.co/f/M8LPue8nypo/Avengers_Endgame_2019_1080p_HC_HDTS_H264_Ac3_SNAKE_SeeHD.mkv.mp4
+#https://openload.co/f/6Oc9YmWI6aY/Avengers_Endgame_2019_720p_HQCAM_SeeHD.mkv.mp4
 #https://openload.co/f/76Er1OYVDG8/Avengers_Endgame_2019_NEW_720p_HDCAM-1XBET.mkv
 #https://openload.co/f/VP4CFstPzaQ/Avengers_Endgame_2019_English_720p_HC_CAM_x264_1.9GB.E.mp4
 
@@ -148,20 +149,12 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xNBYXuv8wqiLVDhsfqCOr75DL
 date=2019-02-28
 URL=https://openload.co/f/7RcvqBDKKtc/Isnt.It.Romantic.2019.720p.NF.WEB-DL.DDP5.1.x264-NTG_SeeHD.mkv.mp4
 
-type=video
-name=What Men Want (2019) ENG 720p_HDCAM_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30IiwvIRqPGjUV0bxJkZfnSiCL.jpg
-date=2019-02-28
-URL=https://openload.co/f/BCfrD0ML41k/What_Men_Want_%282019%29_720p_HDCAM_SeeHD.mkv.mp4
 
 
 
 
-type=video
-name=Miss Bala (2019) ENG 720p_HDCAM_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ae9yrSAS7nLZPbbkOm61pSuIqeo.jpg
-date=2019-02-10
-URL=https://openload.co/f/A2bADMZtLy0/Mis_Bala_2019_720p_HDCAM_SeeHD.mkv.mp4
+
+
 
 type=video
 name=Alita: Battle Angel (2019) ENG HQTS.720p.SUED0.5.1.X264-0mNiC
@@ -247,11 +240,7 @@ URL=https://openload.co/f/oQUlEXJw-KI/Loophole.2019.1080p.AMZN.WEBRip.DDP2.0.x26
 
 
 
-type=video
-name=Destroyer (2018) ENG DVDSCR.XviD.AC3-EVO
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHw9gTdo43nJL82py0oaROkXXNr.jpg
-date=2019-02-14
-URL=https://openload.co/f/ac8711IQtxI/Destroyer.2019.DVDSCR.XviD.AC3-EVO.avi.mp4
+
 
 type=video
 name=EGG (2019) ENG 1080p.WEB-DL.x264.AC3-eSc_SeeHD
@@ -1314,7 +1303,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-04-21
+date=2019-04-30
 URL=
 
 
@@ -1327,6 +1316,148 @@ URL=
 
 
 type=video
+name=Slice (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-43
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bznkSqWqj43DhzHrbLehsr6ncb0.jpg
+date=2019-04-30
+URL=https://openload.co/f/--pECIROyQQ/Slice_%282018%291080p_Bluray_X264-EVO_Ganool.mkv.mp4
+
+type=video
+name=We Still Steal the Old Way (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-50
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5X6nNscyG0SFgTiCxkZTf7zg3Cj.jpg
+date=2019-04-30
+URL=https://openload.co/f/oDlm64vIwJ8/We_Still_Steal_the_Old_Way_2017_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+
+type=video
+name=Dragged Across Concrete (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVG4a27ImyPS4vvNMjCtan3QhDl.jpg
+date=2019-04-30
+URL=https://openload.co/f/aSM8wNM0l1s/Dragged_Across_Concrete_%282019%291080p_BluRay_x264-DRONES_Ganool.mkv.mp4
+#https://openload.co/f/KmaTFU-vyO4/Dragged_Across_Concrete_%282019%291080p_BluRay_x264-DRONES_Ganool.mkv   MKV2.2GB
+
+type=video
+name=Storm Boy (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-83
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rM7EZkR61k1KnCEptF8Z4L9vWQC.jpg
+date=2019-04-30
+URL=https://openload.co/f/o4Ub4bzU7kM/Storm_Boy_2019_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
+#https://openload.co/f/FAGSeHyA_Tc/Storm_Boy_%282019%291080p_Bluray_X264-EVO_Ganool.mkv.mp4
+
+type=video
+name=The New King of Comedy (2019) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8tIxfowPygt2yNu2nisLCJiDHl.jpg
+date=2019-04-30
+URL=https://openload.co/f/iDQguNbJ_nI/The.New.King.of.Comedy.2019.BluRay.1080p.5.1CH.x264.Ganool.ws.mkv.mp4
+
+type=video
+name=What Men Want (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/30IiwvIRqPGjUV0bxJkZfnSiCL.jpg
+date=2019-04-30
+URL=https://openload.co/f/HHrkdzlWQ9E/What_Men_Want_2019_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
+#https://openload.co/f/BCfrD0ML41k/What_Men_Want_%282019%29_720p_HDCAM_SeeHD.mkv.mp4
+
+type=video
+name=The Bad Man (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-80
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZtTDiETpjA1Mtr9uDmVw9Yr42X.jpg
+date=2019-04-30
+URL=https://openload.co/f/FAUhQHD57Rg/the.bad.man.2018.1080p.bluray.x264-rusted.mkv.mp4
+#https://openload.co/f/GwKaldcQCgM/The_Bad_Man_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+
+type=video
+name=Pledges (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-35
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7FrCyUsmP4V7h3gj84lqwMteSq.jpg
+date=2019-04-30
+URL=https://openload.co/f/gVY1qxzEspQ/Pledges_%282018%291080p_BluRay_x264-JustWatch_Ganool.mkv.mp4
+
+type=video
+name=An Interview with God (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9TeB8VLCgwSph2OSYK3lcHGf1f.jpg
+date=2019-04-30
+URL=https://openload.co/f/SzGragBQxvI/An_Interview_with_God_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+#https://openload.co/f/NEA6Oq004es/An_Interview_with_God_%282018%291080p_BluRay_x264-GUACAMOLE_ganool.mkv.mp4
+
+type=video
+name=Anne (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-20
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nK9yBYMEkhCiMUioFRHRyP6KBL.jpg
+date=2019-04-30
+URL=https://openload.co/f/xl4DXRB_UaY/Anne_2018_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+#https://openload.co/f/wOuJJmgk3ic/Anne_2018_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+
+type=video
+name=Mia and the White Lion (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-76
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXfwBeYe0RnqsJ0dnBoFTB4SSrG.jpg
+date=2019-04-30
+URL=https://openload.co/f/bx996DsgDao/Mia_And_The_White_Lion.2019.1080p.Bluray.X264-EVO.mkv.mp4
+#https://openload.co/f/akJttKzon6U/Mia.And.The.White.Lion.2018.1080p.Bluray_SeeHD.mkv.mp4
+#https://openload.co/f/bx996DsgDao/Mia_And_The_White_Lion.2019.1080p.Bluray.X264-EVO.mkv.mp4
+#https://openload.co/f/4nzwF-a2yrc/Mia_and_the_White_Lion_2018_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
+#https://openload.co/f/pZCcj-X67ec/Mia_and_the_White_Lion_2018_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
+
+type=video
+name=Then Came You (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hIA3dgyOWj1MLXYrJ7SZ6lckM9.jpg
+date=2019-04-30
+URL=https://openload.co/f/qVjaBS7k4QY/Then_Came_You_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+#https://openload.co/f/OGISCsb4GTQ/Then_Came_You_%282019%291080p_BluRay_x264-PSYCHD.Ganool.ws.mkv.mp4
+
+type=video
+name=Arctic (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxRc0Y4IjSRLC2fYaguXQtJCI4e.jpg
+date=2019-04-30
+URL=https://openload.co/f/LMZ4CrEmBT4/Arctic.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/hVfiQnqwyiE/Arctic.2018.1080p.BluRay.x264.DTS-HDC.mkv.mp4
+#https://openload.co/f/94haI5FPa6g/Arctic_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+#https://openload.co/f/uX7Xjtnhqjw/Arctic_2018_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+
+type=video
+name=I Spit on Your Grave: Deja Vu (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-32
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrD8fU6tA1Pzh4ybxG4iN5TbVdU.jpg
+date=2019-04-30
+URL=https://openload.co/f/v6PtHWmOcNA/I_Spit_on_Your_Grave_Deja_Vu.2019.1080p.Bluray.X264-EVO.mp4
+#https://openload.co/f/NhkZJf3b0Fs/I_Spit_on_Your_Grave%3A_Deja_Vu_2019_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+#https://openload.co/f/1x5MyC5YAHk/I_Spit_on_Your_Grave%3A_Deja_Vu_%282019%291080p_Bluray_X264-EVO.Ganool.ws.mkv.mp4
+#https://openload.co/f/v6PtHWmOcNA/I_Spit_on_Your_Grave_Deja_Vu.2019.1080p.Bluray.X264-EVO.mp4
+#https://openload.co/f/dbhDmaTnjGw/I.Spit.On.Your.Grave.Deja.Vu.2019.720p.BluRay_SeeHD.mp4
+
+type=video
+name=Miss Bala (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ae9yrSAS7nLZPbbkOm61pSuIqeo.jpg
+date=2019-04-30
+URL=https://openload.co/f/_gfpGnpxc9k/Miss_Bala_2019_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+#https://openload.co/f/rWEU8Skk-6U/Miss_Bala_%282019%291080p_BluRay_x264-DRONES.Ganool.ws.mkv.mp4
+#https://openload.co/f/E2CbfIkIpAg/Miss_Bala_%282019%291080p_BluRay_x264-DRONES.Ganool.ws.mkv.mp4
+#https://openload.co/f/A2bADMZtLy0/Mis_Bala_2019_720p_HDCAM_SeeHD.mkv.mp4
+
+type=video
+name=The Competition (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-53
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7DtOmvuptoZz4s0vdg7BcAWbDS.jpg
+date=2019-04-30
+URL=https://openload.co/f/8nqXf5vy3Ok/The_Competition_2018_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+#https://www.blazefile.co/embed-erbbr62zyxx2.html
+#https://uptobox.com/815dmjqxspxy
+#https://openload.co/f/ww1YD3ukZ50/The.Competition.2018.720p.Br_SeeHD.mp4
+
+type=video
+name=Destroyer (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHw9gTdo43nJL82py0oaROkXXNr.jpg
+date=2019-04-30
+URL=https://openload.co/f/NKw2i6xXZFI/Destroyer_2018_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+#https://openload.co/f/tOWXwKpnTGE/Destroyer_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+#https://openload.co/f/IwjGYolywKY/Destroyer_%282018%291080p_BluRay_x264-GECKOS_Ganool.ws.mkv.mp4
+#https://openload.co/f/Gu_xSv5UvM4/Destroyer_2018_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
+#https://openload.co/f/hszibDOR_dM/Destroyer_%282018%29_1080p_BluRay_10bit_HEVC_6CH_2.5GB_%E2%80%93_MkvCage.mp4
+#https://openload.co/f/ac8711IQtxI/Destroyer.2019.DVDSCR.XviD.AC3-EVO.avi.mp4
+
+type=video
+name=Warning Shot (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-47
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyuwlk2Exa3WfcvxUAghJau4luW.jpg
+date=2019-04-30
+URL=https://openload.co/f/ptgY4vH6m-c/Warning_Shot_2018_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+#https://openload.co/f/IhnEyZN7SDE/Warning_Shot_2018_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+#https://uptobox.com/1ptj2jdkww7a
+#https://www.rapidvideo.com/e/FWJDJINBW5
+#https://openload.co/embed/gHvZ0XoGsZo/WARNINGSHOTBD72.Ganol.st.mkv.mp4
+#https://openload.co/f/Ruq9xPRo684/Warning_Shot_%282018%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
+
+type=video
 name=High Life (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wElOvH7H6sLElsTOLu1MY6oWRUx.jpg
 date=2019-04-21
@@ -1336,6 +1467,7 @@ URL=https://openload.co/f/rE1XL_EN0mo/High.Life.2018.1080p.BluRay.X264-AMIABLE.m
 #https://openload.co/f/Avv9ZW0sHDU/High.Life.2018.1080p.BRRip.x264-MkvCage.mkv.mp4
 #https://openload.co/f/P33zZldjPv8/High.Life.2018.1080p.BluRay.x264-YTS.AM.mp4
 #https://openload.co/f/e7lCzIVdyHU/High.Life.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/UWKza6HMepE/High_Life_%282018%291080p_BluRay_X264-AMIABLE.Ganool.ws.mkv.mp4
 
 type=video
 name=Check Point (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-40
@@ -1395,6 +1527,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WwBf5Lex1XUQfS1nREp2a2JZs
 date=2019-04-18
 URL=https://openload.co/f/RORDXwFVh3Y/Ruben_Brandt_Collector.2019.1080p.Bluray.x264-EVO.mp4
 #https://openload.co/f/Jc45lcNTg04/Ruben.Brandt%2C.Collector.2018.1080p.BluRay.x264-YTS.AM.mp4
+#https://openload.co/f/U8QN94zusII/Ruben_Brandt_Collector_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
 
 type=video
 name=Blaze (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
@@ -1435,12 +1568,14 @@ name=On the Basis of Sex (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/izY9Le3QWtu7xkHq7bjJnuE5yGI.jpg
 date=2019-04-09
 URL=https://openload.co/f/_PoWi8ryCmo/On.the.Basis.of.Sex.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Z8m8s_OWyuY/On_the_Basis_of_Sex_%282018%291080p_BluRay_x264-GECKOS.Ganool.ws.mkv.mp4
 
 type=video
 name=Berlin, I Love You (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-46
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9LdjJWgYIaOkvG7NtTcq5Ox4nO.jpg
-date=2019-04-09
-URL=https://openload.co/f/HL-hBOPQ4DA/Berlin%2C.I.Love.You.2019.1080p.BluRay.x264-YTS.AM.mp4
+date=2019-04-30
+URL=https://openload.co/f/tgh8VgMkA5o/Berlin%2C_I_Love_You_%282019%291080p_BluRay_x264-ROVERS_Ganool.mkv.mp4
+#https://openload.co/f/HL-hBOPQ4DA/Berlin%2C.I.Love.You.2019.1080p.BluRay.x264-YTS.AM.mp4
 #https://openload.co/f/fjOgKwLBzXk/Berlin.I.Love.You.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/PYcxhjllUA0/Berlin.I.Love.You.2019.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
 
@@ -1549,6 +1684,7 @@ name=Holmes & Watson (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-41
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gY4ziK7sjmNbsoBnTbhqC3SkGoE.jpg
 date=2019-04-09
 URL=https://openload.co/f/dERCTDWy94w/Holmes.And.Watson.2018.1080p.BluRay.x264-SAPHiRE.mkv.mp4
+#https://openload.co/f/E6EUU2gWXIc/Holmes_%26_Watson_%282018%291080p_BluRay_x264-SAPHiRE_Ganool.mkv.mp4
 #https://openload.co/f/xs1d2IbV7So/Holmes.and.Watson.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/Tbflv-YOX_o/Holmes.and.Watson.2018.1080p.BluRay.x264-YTS.AM.mp4
 #https://openload.co/f/Qsjbqi7eGqI/Holmes.and.Watson.2018.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -1619,12 +1755,14 @@ URL=https://openload.co/f/sKNmQjAG8d8/A.Dogs.Way.Home.2019.1080p.BluRay.x264-YTS
 #https://openload.co/f/eXVfvwXUhtc/A.Dogs.Way.Home.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/8F64B5vKzqA/A.Dogs.Way.Home.2019.1080p.x264-MkvCage.mkv.mp4
 #https://openload.co/f/B1atRnoBT3Y/A.Dogs.Way.Home.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/dooQ1hIR7uM/A_Dog%27s_Way_Home_%282019%291080p_BluRay_x264-DRONES_Ganool.mkv.mp4
 
 type=video
 name=Welcome to Marwen (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o45VIAUYDcVCGuzd43l8Sr5Dfti.jpg
 date=2019-04-09
 URL=https://openload.co/f/1k-LsCaCkt8/Welcome.To.Marwen.2018.1080p.BluRay.x264-Replica.mkv.mp4
+#https://openload.co/f/d565qhyNNCk/Welcome_to_Marwen_%282018%291080p_BluRay_x264-Replica_Ganool.mkv.mp4
 #https://openload.co/f/SG18r6MZngo/Welcome.To.Marwen.2018.1080p.BluRay.x264-YTS.AM.mp4
 #https://openload.co/f/kQS8-XJfl4Q/Welcome.to.Marwen.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
 #https://openload.co/f/1k-LsCaCkt8/Welcome.To.Marwen.2018.1080p.BluRay.x264-Replica.mkv.mp4
@@ -1883,7 +2021,8 @@ name=Peterloo (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-77
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUQD6QBwNgSiiOAcNcTOd4qGRId.jpg
 date=2019-03-12
 URL=https://openload.co/f/Q4Zmc_9BPH4/Peterloo.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-
+#https://openload.co/f/z9X65J-DrvM/Peterloo_2018_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+#https://openload.co/f/OWPEpPNzK_E/Peterloo_2018_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
 
 
 type=video
@@ -2380,7 +2519,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSdwlfxbqRtlpTbsKipoCGBkCI
 date=2019-01-31
 URL=https://openload.co/f/0oNBraXA_vA/The.Basement.2018.1080p.BluRay_SeeHD.mp4
 #https://openload.co/f/8LV_BSBC-VA/The.Basement.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-
+#https://openload.co/f/0FBIHrJdJwY/The_Basement_2018_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
 
 
 type=video
@@ -5005,10 +5144,11 @@ URL=https://openload.co/f/RBVCqYGimD0/Heavy_Trip_2018_1080p_BluRay_x264_FiCO.mkv
 
 
 type=video
-name=Paint It Red (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Paint It Red (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-53
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkHMLEFB3ecs3giMbT5h9tDMGhR.jpg
-date=2018-08-12
-URL=https://openload.co/f/vuMFCTTYAHk/Paint.It.Red.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2019-04-30
+URL=https://openload.co/f/xiyCAXeSlB0/Paint_It_Red_2018_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+#https://openload.co/f/vuMFCTTYAHk/Paint.It.Red.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Gatao 2: Rise of the King (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR]
@@ -5151,11 +5291,13 @@ URL=https://openload.co/f/pcL87dGnozc/The.Miracle.Season.2018.1080p.BluRay.X264-
 #https://openload.co/embed/kv1q5P3GpBA/THEMIRACLESEASONBD72.Ganol.ru.mkv.mp4
 
 type=video
-name=The Barn (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=The Barn (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-50
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7fAx8DMom3cNTHU9xh7Rz8M4qA.jpg
 date=2018-08-06
 URL=https://openload.co/f/B3A6KJJkDjU/The.Barn.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/skwb6NRzcx0/the.barn.2018.1080p.bluray.x264-getit.mkv.mp4
+#https://openload.co/f/Y6o4JZlIIC0/The_Barn_2018_1080p_Bluray_H264_AAC-RARBG.mp4
+#https://openload.co/f/OL8nKS2OKAQ/The_Barn_2018_1080p_Bluray_H264_AAC-RARBG.mp4
 
 type=video
 name=Bad Samaritan (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -6940,12 +7082,13 @@ date=2018-02-24
 URL=https://openload.co/f/PBN-_zE6S-Q/My.Entire.High.School.Sinking.Into.the.Sea.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
-name=Elements of Matter (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Elements of Matter (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-41
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlOhlzDk2ipG3A3tv7E0KfTO17F.jpg
 date=2018-03-17
 URL=https://openload.co/f/kZxaz7zoNGU/Elements.Of.Matter.2018.1080p.Br_SeeHD.mp4
 #https://openload.co/f/epMX-skKdQU/Elements.of.Matter.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/0cz7Iqulcj4/Elements.of.Matter.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/yy1KvoE2SL8/Elements_of_Matter_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
 
 type=video
 name=Lady Bird (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -8532,13 +8675,7 @@ date=2018-03-21
 URL=https://openload.co/f/E83ROFOu10o/Will.You.Be.There.2016.KOREAN.720p.BluRay.x264.DTS-HDC.mkv.mp4
 #https://openload.co/f/5tzrooNxJmQ/Will.You.Be.There.2016.KOREAN.720p.BluRay.x264.DTS-HDC.mkv   mkv6.6GB
 
-type=video
-name=The Competition (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7DtOmvuptoZz4s0vdg7BcAWbDS.jpg
-date=2018-03-26
-URL=https://www.blazefile.co/embed-erbbr62zyxx2.html
-#https://uptobox.com/815dmjqxspxy
-#https://openload.co/f/ww1YD3ukZ50/The.Competition.2018.720p.Br_SeeHD.mp4
+
 
 
 
@@ -9254,14 +9391,7 @@ URL=https://uptobox.com/nidfwbabl93n
 #https://openload.co/embed/SDd5gXpjCfI/THERAYFREEDOMFIGTERSBD72.Ganol.st.mkv.mp4
 #https://openload.co/f/2Uv_nM_IQxs/Freedom_Fighters%3A_The_Ray_%282018%29720p_BluRay_x264-SADPANDA.Ganool.mkv.mp4
 
-type=video
-name=Warning Shot (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyuwlk2Exa3WfcvxUAghJau4luW.jpg
-date=2018-10-24
-URL=https://uptobox.com/1ptj2jdkww7a
-#https://www.rapidvideo.com/e/FWJDJINBW5
-#https://openload.co/embed/gHvZ0XoGsZo/WARNINGSHOTBD72.Ganol.st.mkv.mp4
-#https://openload.co/f/Ruq9xPRo684/Warning_Shot_%282018%29720p_BluRay_x264_DTS-FGT.Ganool.mkv.mp4
+
 
 
 
@@ -12415,10 +12545,16 @@ URL=
 
 
 type=video
-name=The Lego Movie 2: The Second Part (2019) ENG 720p_HDCAM_SeeHD
+name=The Lego Movie 2: The Second Part (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QTESAsBVZwjtGJNDP7utiGV37z.jpg
-date=2019-02-14
-URL=https://openload.co/f/bmIlj8VR35c/The_Lego_Movie_2_2019_720p_HDCAM_SeeHD.mkv.mp4
+date=2019-04-30
+URL=https://openload.co/f/ikFXHCE0aBo/the.lego.movie.2.the.second.part.2019.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/9Lxf5HAKmY8/The_Lego_Movie_2%3A_The_Second_Part_2019_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+#https://openload.co/f/9RNpI3DQlG4/The_Lego_Movie_2%3A_The_Second_Part_%282019%291080p_BluRay_x264_DTS-HDC.Ganool.ws.mkv.mp4
+#https://openload.co/f/ikFXHCE0aBo/the.lego.movie.2.the.second.part.2019.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/HAdWAU8K1_s/The_Lego_Movie_2%3A_The_Second_Part_2019_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+#https://openload.co/f/sxFR2jQ34oM/The_Lego_Movie_2%3A_The_Second_Part_2019_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+#https://openload.co/f/bmIlj8VR35c/The_Lego_Movie_2_2019_720p_HDCAM_SeeHD.mkv.mp4
 type=video
 name=The Lego Movie 2: The Second Part (2019) THCAM SOUND
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QTESAsBVZwjtGJNDP7utiGV37z.jpg
@@ -12504,6 +12640,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f03YksE4NggUjG75toz4H1YAGR
 date=2019-04-18
 URL=https://openload.co/f/W4iC5ZYQ9NA/dragon.ball.super.broly.2018.1080p.bluray.x264-haiku.mkv.mp4
 #https://openload.co/f/joNuPtjDlk4/Dragon.Ball.Super.Broly.2018.DUBBED.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/bjfrHugro6I/Dragon_Ball_Super%3A_Broly_%282018%291080p_BluRay_x264-HAiKU_Ganool.mkv.mp4
 #https://openload.co/f/c7pyBoYnbQs/Dragon.Ball.Super.Broly.2018.JAPANESE.1080p.BluRay.H264.AAC-VXT.mp4
 #https://openload.co/f/xk54sX9lDvc/Dragon.Ball.Super.Broly.2018.1080p.AMZN.WEB-DL.DDP.5.1.H.264-U3Web.mkv.mp4
 #https://openload.co/f/ppdB0QneqT8/Dragon.Ball.Super.Broly.2018.720p.AMZN.WEB-DL.MkvCage.ws.mkv.mp4
@@ -13047,6 +13184,7 @@ name=The Kid Who Would Be King (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMD
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWENxGrJmXmHvifG6x2aYnpovXI.jpg
 date=2019-04-09
 URL=https://openload.co/f/DhA9PVRs5bQ/The.Kid.Who.Would.Be.King.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/j27aJmf7qSg/The_Kid_Who_Would_Be_King_%282019%291080p_BluRay_x264-DRONES.Ganool.ws.mkv.mp4
 #https://openload.co/f/WpWf1hDqdno/The_Kid_Who_Would_Be_King_2019_720p_HDCAM-1XBET_SeeHD.mp4
 type=video
 name=The Kid Who Would Be King (2019) TH
@@ -13168,6 +13306,7 @@ name=Glass (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG5GS0V15Zpk8zvsww02faNT0QI.jpg
 date=2019-04-11
 URL=https://openload.co/f/bnPFuLwTsGY/Glass.2019.1080p.BluRay.10bit.HEVC.6CH-MkvCage.mkv.mp4
+#https://openload.co/f/6ZmXJXg1A2A/Glass_%282019%291080p_BluRay_x264-SPARKS_Ganool.mkv.mp4
 #https://openload.co/f/IKqiANQXtJ0/Glass.2019.1080p.BluRay.x264-YTS.AM.mp4
 #https://openload.co/f/nU-L_v8ZddQ/Glass.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/ugVn69b417c/Glass.2019.1080p.BRRip.x264-MkvCage.mkv.mp4
@@ -13201,6 +13340,7 @@ name=Escape Room (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yZAx7tlKRZIg7pJfaPhl00yHIQ.jpg
 date=2019-04-18
 URL=https://openload.co/f/53_0dOqB_vQ/Escape.Room.2019.REPACK.1080p.BluRay.x264-DRONES.mkv.mp4
+#https://openload.co/f/M513Y2z9l98/Escape_Room_%282019%291080p_BluRay_x264-DRONES_ganool.mkv.mp4
 #https://openload.co/f/33FqdVCU5k0/escape.room.2019.repack.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/GRQd4bYAe-8/Escape.Room.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/Ou8mmaUZjxc/Escape.Room.2019.1080p.BRRip.x264-MkvCage.mkv.mp4
@@ -14006,6 +14146,7 @@ name=Shoplifters (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-80
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg
 date=2019-04-09
 URL=https://openload.co/f/X4fsBRup4X4/shoplifters.2018.limited.1080p.bluray.x264-cadaver.mkv.mp4
+#https://openload.co/f/ZkOKeSkr1Bo/Shoplifters_%282018%291080p_BluRay_x264-CADAVER_ganool.mkv.mp4
 #https://openload.co/f/FamEoYGwa4A/Shoplifters.2018.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv.mp4
 #https://openload.co/f/WYnHStwAL64/Shoplifters.2018.720p.AMZN.WEB-DL.DDP5.1.H.264-NTG_SeeHD.mkv.mp4
 type=video
@@ -14797,7 +14938,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-04-21
+date=2019-04-30
 URL=
 
 
@@ -14805,6 +14946,39 @@ URL=
 
 
 
+
+
+
+
+type=video
+name=Minuscule: Valley of the Lost Ants (2013) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXTwdYQTYb5lUNRSRPgyAwjUkrv.jpg
+date=2019-04-30
+URL=https://openload.co/f/Jh6LCQ2AtKk/Minuscule.The.Valley.Of.The.Lost.Ants.2013.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Vampyres (2015) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] | TMDB-46
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/b41M28V6GcA94NAvn24SVz6qfvB.jpg
+date=2019-04-30
+URL=https://openload.co/f/Sn4h1Mvpj5A/Vampyres_2015_1080p_Bluray_H264_AAC-RARBG.mp4
+
+type=video
+name=Captain America: Civil War (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSBXou5Ac7vEqKd97wotJumyJvU.jpg
+date=2019-04-30
+URL=https://openload.co/f/y136HMbn4RM/Captain.America.Civil.War.2016.1080p.BR_SeeHD.mp4
+
+type=video
+name=Avengers: Age of Ultron (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg
+date=2019-04-30
+URL=https://openload.co/f/VnodhahVa98/Avengers.Age.of.Ultron.2015.1080p.BR_SeeHD.mp4
+
+type=video
+name=The Avengers (2012) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cezWGskPY5x7GaglTTRN4Fugfb8.jpg
+date=2019-04-30
+URL=https://openload.co/f/rENfAWgwQfQ/The.Avengers.2012.1080p.BR_SeeHD.mp4
 
 type=video
 name=Bling (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60

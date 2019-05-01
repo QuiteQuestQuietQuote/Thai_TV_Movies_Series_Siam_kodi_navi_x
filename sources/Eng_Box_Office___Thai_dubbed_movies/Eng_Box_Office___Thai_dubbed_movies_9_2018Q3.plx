@@ -961,10 +961,11 @@ URL=https://openload.co/f/_1QtrCGGVKA/The_Vault_%282017%29%E0%B8%9B%E0%B8%A5%E0%
 #28---2018-07-27
 
 type=video
-name=7 Days in Entebbe (2018) [COLOR=FF00FF00]ENG BR 720p[/COLOR]
+name=7 Days in Entebbe (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrC63ikbK4jDp3knvBqxPoWYEMM.jpg
-date=2018-06-28
-URL=https://www.blazefile.co/embed-0srt4lblfk6v.html
+date=2019-04-30
+URL=https://openload.co/f/vSSA1kyW-vo/7_Days_in_Entebbe_%282018%291080p_BluRay_x264-GECKOS_Ganool.mkv.mp4
+#https://www.blazefile.co/embed-0srt4lblfk6v.html
 #https://uptobox.com/3kebo4szjbth
 #https://openload.co/embed/wYpgCIiJXU0/SHQ7DAYSINETEBBEBD72.Ganool.im.mkv.mp4
 #https://openload.co/f/Xu2NVuH1Yg0/7.days.in.entebbe.2018.720p.bluray.x264-geckos.mkv.mp4

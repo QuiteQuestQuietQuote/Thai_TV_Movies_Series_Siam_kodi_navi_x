@@ -281,6 +281,7 @@ URL=https://uptobox.com/07susdp21spy
 #https://fruithosts.net/embed/tmksklcstcfmbclb/the_predator_2018_1080p_bluray_x264-sparks-muxed_mkv
 #https://oload.fun/embed/s_4qtQgyuNQ/the.predator.2018.1080p.bluray.x264-sparks-muxed.mkv
 #https://openload.co/f/OxnY77ANxm0/The_Predator_%282018%291080p_BluRay_x264-SPARKS.Ganool.mkv.mp4
+#https://openload.co/f/moE0VlIqF8w/The_Predator_%282018%291080p_BluRay_x264-SPARKS_Ganool.mkv.mp4
 #https://openload.co/f/cfqI_IzJCKs/The.Predator.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/ghs5EBZ5V8M/the.predator.2018.1080p.bluray.x264-sparks.mkv.mp4
 #https://openload.co/f/UemZig_rTvM/The.Predator.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
@@ -1152,6 +1153,7 @@ date=2018-11-02
 URL=https://uptobox.com/jmswkhdcmjcl
 #https://www.rapidvideo.com/e/FWTTNDVPE3
 #https://openload.co/embed/9NEnXZi62E4/GHPINCREDIBELS80.Ganol.st.mkv
+#https://openload.co/f/iuZb-RIECEg/Incredibles.2.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/h4TOwT8XfG0/Incredibles.2.2018.1080p.BR_SeeHD.mp4
 #https://openload.co/f/-p2qV9xXSK4/Incredibles.2.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/55yyA-MY_FE/incredibles.2.2018.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
