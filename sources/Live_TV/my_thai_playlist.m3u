@@ -2479,10 +2479,7 @@ http://iptv.wtf:25461/mwtovwgi/lq0z44m3JF/16609
 
 
 
-#EXTINF:-1,ASER
-http://183.89.209.119:9982/stream/channelid/802486400
-#EXTINF:-1,ASIAN F
-http://183.89.209.119:9982/stream/channelid/2005127555
+
 
 #EXTINF:-1 tvg-logo="https://www.mayday.is/img/showcase_docurama/dcr-branding-full.png" group-title="USA",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
@@ -2510,6 +2507,10 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 rtmp://118.97.96.17:1935/discover/natgeopeople_3
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_rtmp
 rtmp://118.97.96.17:1935/discover/natgeo_3
+#EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_rtmp
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA_rtmp
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CHA
 http://79.119.107.49:8001/1:0:1:78B7:2C5:600:E080000:0:0:0:
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI 
@@ -2523,6 +2524,8 @@ http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/143751
 http://123.176.22.42:4022/udp/232.4.0.212:40000
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD
 http://123.249.76.157:10018/bysid/73
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",Uk | Bbc Earth
+http://formen1.com:8080/cemil1/28062018/28288
 #EXTINF:-1,Viasat History
 https://hls.telekabel.com.mk:1936/live/101/2500-def.m3u8
 #EXTINF:-1,Viasat Explore
@@ -2539,12 +2542,15 @@ http://61.216.10.122:4046/VideoInput/play.ts
 http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8
 #EXTINF:-1,CHN
 http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8
+
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_iliketot
 http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_iliketot
 http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning
 https://hls.telekabel.com.mk:1936/live/121/2500-def.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_TH
+http://183.89.209.119:9982/stream/channelid/2005127555
 #EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_rtmp
 rtmp://118.97.96.17:1935/discover/afc_3
 #EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_CH
@@ -2591,6 +2597,8 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 https://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=abcvf6f7c3skho4fkbj2demm10
 #EXTINF:-1,disney_true
 http://14.207.216.40:9982/stream/channelid/2069272841
+#EXTINF:-1,Asian_true
+http://183.89.209.119:9982/stream/channelid/802486400
 
 
 
@@ -2605,8 +2613,10 @@ http://79.135.77.75:81/udp/239.195.0.88:1234
 
 
 
-#EXTINF:-1,Penthouse_quicker
+#EXTINF:-1,Penthouse_quickies
 http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
+#EXTINF:-1,Penthouse_gold
+http://212.111.17.130:8001/1:0:19:3728:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,redtraffic_threesome
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1,redtraffic_pov
@@ -2662,12 +2672,12 @@ http://185.216.119.139:2015/ftvs.php?channelid=5795c5a5326d2e110eca080e&channelt
 http://185.216.119.139:2015/ftvs.php?channelid=55a8b774a960e4dc08d211de&channeltype=1
 #EXTINF:-1,SonSee TV1_php
 http://185.216.119.139:2015/ftvs.php?channelid=55a8b751a960e4dc08d211dd&channeltype=1
+#EXTINF:-1,Banana HD
+http://wssource.hls.inke.cn/live/1663521478965236/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",JAV_6_SonSee TV
 http://59.120.242.104:9000/live/live6.m3u8
 #EXTINF:-1,JAV_7_pan dora_perfect
 http://59.120.242.104:9000/live/live7.m3u8
-
-
 
 
 
