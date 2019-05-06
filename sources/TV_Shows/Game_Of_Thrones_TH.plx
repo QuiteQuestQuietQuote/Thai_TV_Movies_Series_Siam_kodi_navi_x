@@ -71,6 +71,29 @@ URL=https://openload.co/f/xWUJCR34Gc8/Game.Of.Thrones.The.Story.So.Far.2018.720p
 
 
 
+
+
+
+
+type=video
+name=S08-E04___The Last of the Starks___[COLOR=FF00FF00]1080p.web.h264-memento[/COLOR]
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/qe508xwVVO7cF2oWzfJp52StkTk.jpg
+date=2019-05-06
+URL=https://openload.co/f/L4E0Lp725NU/game.of.thrones.s08e04.1080p.web.h264-memento.mkv.mp4
+#https://openload.co/f/Hu7k8JxvBZ4/Game_of_Thrones_S08E04_720p_WEB_H264-MEMENTO.mp4
+#https://openload.co/f/PR4wxoO0GyM/Game_of_Thrones_S08E04_720p_WEB_H264-MEMENTO.mp4
+#https://openload.co/f/Vja7u_qJFTE/game.of.thrones.s08e04.720p.web.h264-memento.mkv.mp4
+#https://openload.co/f/f7X5XFJthnM/Game.of.Thrones.S08E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4
+#https://openload.co/f/KKdgIeypVUU/Game.of.Thrones.S08E04.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4
+#https://openload.co/f/L4E0Lp725NU/game.of.thrones.s08e04.1080p.web.h264-memento.mkv.mp4
+#https://openload.co/f/GBCmPiwn01I/game.of.thrones.s08e04.1080p.web.dl.hevc.x265.mkv.mp4
+type=video
+name=S08-E04___The Last of the Starks___TH DUBBED_thsub
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/qe508xwVVO7cF2oWzfJp52StkTk.jpg
+date=2019-05-06
+URL=
+
+
 type=video
 name=S08-E03___The Long Night___[COLOR=FF00FF00]1080p.web.h264-memento_SeeHD[/COLOR]
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/mFtHbZenI5rRPqC5OFafoVmjEjq.jpg
@@ -81,7 +104,8 @@ type=video
 name=S08-E03___The Long Night___TH DUBBED_thsub
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/mFtHbZenI5rRPqC5OFafoVmjEjq.jpg
 date=2019-04-29
-URL=https://openload.co/f/P572BLgsSr8/GAMES_OF_THRONES_SEASON_8_EP.3_THE_BATTLE_OF_WINTERFELL_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
+URL=https://openload.co/f/cokS_lWluGo/Game.of.Thrones.S08E03.%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C_%E0%B8%9B%E0%B8%B5_8_%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88_03_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2
+#https://openload.co/f/P572BLgsSr8/GAMES_OF_THRONES_SEASON_8_EP.3_THE_BATTLE_OF_WINTERFELL_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
 
 
 type=video
@@ -101,7 +125,8 @@ type=video
 name=S08-E02___A Knight of the Seven Kingdoms___TH DUBBED_thsub
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/2Tj1Mcl3NQOj0LBnOpNHpBWuZHU.jpg
 date=2019-04-22
-URL=https://openload.co/f/I2efcILNx6U/GAMES_OF_THRONES_SEASON_8_EP.2_A_KNIGHT_OF_THE_SEVEN_KINGDOMS_THSUB.mp4
+URL=https://openload.co/f/7wzOlPZP_tE/Game.of.Thrones.S08E02.%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C_%E0%B8%9B%E0%B8%B5_8_%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88_02_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2
+#https://openload.co/f/I2efcILNx6U/GAMES_OF_THRONES_SEASON_8_EP.2_A_KNIGHT_OF_THE_SEVEN_KINGDOMS_THSUB.mp4
 
 
 type=video
@@ -116,7 +141,8 @@ type=video
 name=S08-E01___Winterfell___TH DUBBED_thsub
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/aeLFDgp0J9140lS4nWUgZZRK6Rp.jpg
 date=2019-04-15
-URL=https://openload.co/f/vKkn0XFFnBE/Game_of_Thrones_S08.1_thsub.mp4
+URL=https://openload.co/f/rfZlT36KUY8/Game.of.Thrones.S08E01.%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C_%E0%B8%9B%E0%B8%B5_8_%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88_01_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2
+#https://openload.co/f/vKkn0XFFnBE/Game_of_Thrones_S08.1_thsub.mp4
 
 
 
