@@ -76,10 +76,10 @@ URL=http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/
 
 
 type=video
-name=Blood.Brother.2018.1080p.BluRay.H264.AAC-RARBG
-thumb=
+name=Winter Sleep 2014 720p Bluray X264 – YTS.AM
+thumb=https://i.postimg.cc/4yGy25Mf/1.jpg
 date=2019-01-03
-URL=https://verystream.com/stream/iqx2orxbEQS/Blood.Brother.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+URL=https://vidoza.net/pedkfabf75yv.html
 
 type=video
 name=Violentia.2018.1080p.BluRay.H264.AAC-RARBG

@@ -91,7 +91,7 @@ type=video
 name=S08-E04___The Last of the Starks___TH DUBBED_thsub
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/qe508xwVVO7cF2oWzfJp52StkTk.jpg
 date=2019-05-06
-URL=
+URL=https://openload.co/f/aRRtIAuLDBc/Game.of.Thrones.S08E04.%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C_%E0%B8%9B%E0%B8%B5_8_%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88_04_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2
 
 
 type=video
