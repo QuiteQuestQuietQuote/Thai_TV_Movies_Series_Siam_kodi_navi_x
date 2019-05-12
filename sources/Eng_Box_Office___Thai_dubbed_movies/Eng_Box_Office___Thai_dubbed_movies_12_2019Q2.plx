@@ -76,10 +76,10 @@ URL=http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/
 
 
 type=video
-name=
-thumb=
+name=Literally, Right Before Aaron 2017 1080p Bluray H264 – RARBG
+thumb=https://1.bp.blogspot.com/-epzA_r1mrfc/Wc31fh6pMJI/AAAAAAAAHJg/7MeQSRzx9ZUAtskNBQMD0pgmkDDHOqoTwCLcBGAs/s1600/lit.jpg
 date=2019-01-03
-URL=
+URL=https://vidoza.net/4lniwuwjbjlb.html
 
 type=video
 name=Violentia.2018.1080p.BluRay.H264.AAC-RARBG

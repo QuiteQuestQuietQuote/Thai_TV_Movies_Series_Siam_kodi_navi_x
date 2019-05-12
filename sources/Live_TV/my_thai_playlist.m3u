@@ -2143,6 +2143,11 @@ http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News + info
 http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/28051
 
+#EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1,BBC World News 
+http://persik.by/stream/4914/395387/46.m3u8 
+
 #EXTINF:-1 group-title="BAJIGUR",cnbc
 http://161.0.157.38/PLTV/88888888/224/3221227005/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_udp
@@ -2161,6 +2166,8 @@ http://161.0.157.9/PLTV/88888888/224/3221227005/01.m3u8
 http://161.0.157.9:80/PLTV/88888888/224/3221227005/index.m3u8
 #EXTINF:-1,UK: CNBC
 http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/104258
+#EXTINF:-1,UK | CNBC HD
+http://s1.platinumhostingtech.com:80/jonny/jonny/24017
 
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
 https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
@@ -2369,7 +2376,7 @@ http://14.186.114.75:8889/rtp/232.84.2.131:9582
 http://125.227.210.37:8895/VideoInput/play.ts
 #EXTINF:-1,HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1,FOX PREMIUM CINEMA
+#EXTINF:-1,FOX PREMIUM CINEMA_fluxustv
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,English Club 
 http://ott-cdn.ucom.am/s37/index.m3u8
@@ -2389,16 +2396,15 @@ http://161.0.157.9/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1,HBO
 http://161.0.157.9/PLTV/88888888/224/3221226127/03.m3u8
 
-
-#EXTINF:-1,UK: BBC EARTH HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/7082
-
-#EXTINF:-1,BBC EARTH HD_POL_udp
-http://213.108.224.253:7654/udp/239.239.2.14:1234_bbc_earth_hd
+#EXTINF:-1,SE: BBC Earth HD
+http://iptvtool.es:9977/JESUS/JESUS/59068
 
 
 
-
+#EXTINF:-1,CNEX
+http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
+#EXTINF:-1,CHN_Studio
+http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
 
 
 #EXTINF:-1 tvg-logo="https://www.mayday.is/img/showcase_docurama/dcr-branding-full.png" group-title="USA",Docurama
@@ -2435,17 +2441,17 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 http://79.119.107.49:8001/1:0:1:78B7:2C5:600:E080000:0:0:0:
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI 
 http://85.66.46.167:8001/1:0:1:77F2:2C3:600:E080000:0:0:0:
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI 
+http://m-iptv.net:6204/ali24/ali24/13502
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH
 http://185.79.92.234:8001/1:0:1:96:19:1:FFFF0000:0:0:0
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_jazoora
-http://jazoora.net:8000/122683325994/5c1f80642538a/3017
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_factoryiptv
-http://tv.factoryiptv.com:80/CAwCsyRCr3/HnOOwBHoHs/55147
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_HD
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/143751
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD
 http://123.249.76.157:10018/bysid/73
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD
+http://81.93.73.35:8000/play/a01m/index.m3u8
 #EXTINF:-1,Viasat History
 https://hls.telekabel.com.mk:1936/live/101/2500-def.m3u8
 #EXTINF:-1,Viasat Explore
@@ -2544,14 +2550,8 @@ http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
 http://212.111.17.130:8001/1:0:19:3728:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,playboy
 http://95.216.187.219:8080/135-playboy
-#EXTINF:-1,BHot
-http://178.39.232.51:9981/stream/channelid/1269845185
 #EXTINF:-1,xxx_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x01
-#EXTINF:-1,filmax_adult1
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40560
-#EXTINF:-1,xxx
-http://94.242.54.68:6500/dZYg9wNcFk/p6FkVjBY27/3848
 #EXTINF:-1,redtraffic_threesome
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1,redtraffic_blowjob
@@ -2587,8 +2587,7 @@ http://122.38.74.172:9981/stream/channelid/798964177
 #EXTINF:-1,Desire
 http://122.38.74.172:9981/stream/channelid/816085039 
 
-#EXTINF:-1,rtmp
-rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
+
 
 #EXTINF:-1,jap_ts1
 http://125.227.210.37:9001/VideoInput/play.ts
@@ -2618,7 +2617,8 @@ http://59.120.242.104:9000/live/live6.m3u8
 #EXTINF:-1,JAV_7_pan dora_perfect
 http://59.120.242.104:9000/live/live7.m3u8
 
-
+#EXTINF:-1,JAV_ok2
+http://ok2.se:8000/31yBdNLZ9J/uE96bnqNd1/6612
 
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp79.135
 http://79.135.77.75:81/udp/239.195.0.88:1234
@@ -2696,10 +2696,6 @@ http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 http://164.40.161.46:8002/play/s5 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews (English) 
 http://164.40.161.46:8002/play/s4
-#EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS
-http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1,BBC World News 
-http://persik.by/stream/4914/395387/46.m3u8 
 #EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS_HD
 http://1.230.255.66:9981/stream/channelid/521869881
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_HD
@@ -2725,8 +2721,7 @@ http://92.43.140.249/s65/04.m3u8
 
 
 
-#EXTINF:-1,UK | CNBC HD
-http://s1.platinumhostingtech.com:80/jonny/jonny/24017
+
 
 
 
