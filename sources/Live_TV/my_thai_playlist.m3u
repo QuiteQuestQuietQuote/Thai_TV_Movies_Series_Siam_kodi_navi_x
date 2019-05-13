@@ -2387,6 +2387,8 @@ http://161.0.157.9/PLTV/88888888/224/3221226793/index.m3u8
 http://161.0.157.9:80/PLTV/88888888/224/3221227005/index.m3u8
 #EXTINF:-1,HBO HD
 http://161.0.157.9/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:-1,HBO HD
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1,USA HBO 2
 http://161.0.157.9/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:-1,HBO 2 International
@@ -2399,11 +2401,47 @@ http://161.0.157.9/PLTV/88888888/224/3221226127/03.m3u8
 #EXTINF:-1,SE: BBC Earth HD
 http://iptvtool.es:9977/JESUS/JESUS/59068
 
+#EXTINF:-1,Discovery Science 4K
+http://nettv-xcruiser.com:8000/FMBSl7obe5/Nts9vQEll9/54973
+#EXTINF:-1,Polsat Viasat Explore 4K
+http://nettv-xcruiser.com:8000/FMBSl7obe5/Nts9vQEll9/55003
+#EXTINF:-1,Polsat Viasat History 4K
+http://nettv-xcruiser.com:8000/FMBSl7obe5/Nts9vQEll9/55002
+
+#EXTINF:-1,USA : SHOWTIME HD
+http://buyiptv.link:25461/live/FYjFWo0b9W/0w9LZ6b36h/1928.ts
+#EXTINF:-1,USA : Starz Cinema
+http://buyiptv.link:25461/live/FYjFWo0b9W/0w9LZ6b36h/1930.ts
+#EXTINF:-1,US: HBO HD
+http://buyiptv.link:25461/live/FYjFWo0b9W/0w9LZ6b36h/6121.ts
+#EXTINF:-1,US: HBO Signature
+http://buyiptv.link:25461/live/FYjFWo0b9W/0w9LZ6b36h/6122.ts
+#EXTINF:-1,US: HBO Zone
+http://buyiptv.link:25461/live/FYjFWo0b9W/0w9LZ6b36h/6123.ts
+#EXTINF:-1,UK | Movies Premiere
+http://buyiptv.link:25461/live/FYjFWo0b9W/0w9LZ6b36h/1760.ts
+#EXTINF:-1,UK: Cinema Premier HD
+http://buyiptv.link:25461/live/FYjFWo0b9W/0w9LZ6b36h/1804.ts
+
+#EXTINF:-1,Bloomberg TV Asia
+http://tvku.live:8888/live/cokro3/lsxczuziNT/137.m3u8
+#EXTINF:-1,HBO FHD
+http://tvku.live:8888/live/cokro3/lsxczuziNT/1496.m3u8
+#EXTINF:-1,AFC HD
+http://tvku.live:8888/live/cokro3/lsxczuziNT/807.m3u8
+#EXTINF:-1,Sony BBC Earth
+http://tvku.live:8888/live/cokro3/lsxczuziNT/385.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://tvku.live:8888/live/cokro3/lsxczuziNT/165.m3u8
+#EXTINF:-1,Discovery Asia
+http://tvku.live:8888/live/cokro3/lsxczuziNT/779.m3u8
+#EXTINF:-1,Discovery Science HD
+http://tvku.live:8888/live/cokro3/lsxczuziNT/408.m3u8
 
 
 #EXTINF:-1,CNEX
 http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
-#EXTINF:-1,CHN_Studio
+#EXTINF:-1,CHN_Studio Classroom
 http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
 
 
@@ -2464,6 +2502,8 @@ http://125.227.210.37:8896/VideoInput/play.ts
 http://122.146.68.116:4046/VideoInput/play.ts
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
 http://61.216.10.122:4046/VideoInput/play.ts
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_HHZT
+http://220.158.149.14:9999/live/TV00000000000000000114@HHZT;LIVE
 #EXTINF:-1,Fox_Crime
 http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8
 #EXTINF:-1,CHN
@@ -2529,8 +2569,10 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:-1,Anime All Day
 https://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=abcvf6f7c3skho4fkbj2demm10
 
-#EXTINF:-1,Movies_CAM
+#EXTINF:-1,Movies_HOT
 http://v2.myowntv.org/content/35026/index.m3u8
+#EXTINF:-1,Movies_HHZT
+http://220.158.149.14:9999/live/TV00000000000000000081@HHZT;LIVE?auth=zarin:RJsKR
 
 
 
@@ -2550,7 +2592,7 @@ http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
 http://212.111.17.130:8001/1:0:19:3728:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,playboy
 http://95.216.187.219:8080/135-playboy
-#EXTINF:-1,xxx_rtmp
+#EXTINF:-1,lesbian_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x01
 #EXTINF:-1,redtraffic_threesome
 http://live.redtraffic.xyz/threesome.m3u8
@@ -2601,9 +2643,11 @@ http://125.227.210.37:9004/VideoInput/play.ts
 http://125.227.210.37:9005/VideoInput/play.ts
 
 #EXTINF:-1,SonSee TV2_ts
-http://adultlive-faintv.cdn.hinet.net/live_HLS/A081.stream/media-u314ht304_224483.ts
-#EXTINF:-1,SonSee TV4
-http://live.zhibo.news.cn:1935/live/J2rrttbb6666777wss/playlist.m3u8
+http://adultlive-faintv.cdn.hinet.net/live_HLS/A081.stream/media-uhcc605ef_101075.ts
+#EXTINF:-1,SonSee TV4_ts
+http://adultlive-faintv.cdn.hinet.net/live_HLS/A087.stream/media-udksm0bai_101157.ts
+#EXTINF:-1,SonSee TV1_ts
+http://adultlive-faintv.cdn.hinet.net/live_HLS/A080.stream/media-uqxld0bq4_16335.ts
 #EXTINF:-1,SonSee TV3_php
 http://185.216.119.139:2015/ftvs.php?channelid=5795c5a5326d2e110eca080e&channeltype=1
 #EXTINF:-1,SonSee TV2_php

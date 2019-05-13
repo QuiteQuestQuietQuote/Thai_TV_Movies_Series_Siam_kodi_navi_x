@@ -75,6 +75,27 @@ URL=https://openload.co/f/xWUJCR34Gc8/Game.Of.Thrones.The.Story.So.Far.2018.720p
 
 
 
+
+
+type=video
+name=S08-E05___The Bells___[COLOR=FF00FF00]1080p.web.h264-memento_SeeHD[/COLOR]
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/xF9hOs5h9sc37oWdtF4RPHq8dXA.jpg
+date=2019-05-13
+URL=https://openload.co/f/lx8TAYRSuMw/game.of.thrones.s08e05.1080p.web.h264-memento_SeeHD.mkv.mp4
+#https://openload.co/f/THlMAoUTfc8/Game.of.Thrones.S08E05.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4
+#https://openload.co/f/lx8TAYRSuMw/game.of.thrones.s08e05.1080p.web.h264-memento_SeeHD.mkv.mp4
+#https://openload.co/f/tn7HNwddfh8/game.of.thrones.s08e05.720p.web.h264-memento_SeeHD.mkv.mp4
+#https://openload.co/f/GFvRO_r_Y-U/game.of.thrones.s08e05.1080p.web.h264-memento.mkv.mp4
+#https://openload.co/f/3zJrNANtEuw/Game.of.Thrones.S08E05.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4
+#https://openload.co/f/6F-twcteNNE/game.of.thrones.s08e05.720p.web.h264-memento.mkv.mp4
+#https://openload.co/f/2_BPtdVtphY/game.of.thrones.s08e05.1080p.web.dl.hevc.x265.mkv.mp4
+type=video
+name=S08-E05___The Bells___TH DUBBED_thsub
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/xF9hOs5h9sc37oWdtF4RPHq8dXA.jpg
+date=2019-05-13
+URL=https://openload.co/f/FIdH7JXN_vQ/GAMES_OF_THRONES_SEASON_8_EP.5_THE_BELLS_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
+
+
 type=video
 name=S08-E04___The Last of the Starks___[COLOR=FF00FF00]1080p.web.h264-memento[/COLOR]
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/qe508xwVVO7cF2oWzfJp52StkTk.jpg
@@ -92,6 +113,7 @@ name=S08-E04___The Last of the Starks___TH DUBBED_thsub
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/qe508xwVVO7cF2oWzfJp52StkTk.jpg
 date=2019-05-06
 URL=https://openload.co/f/aRRtIAuLDBc/Game.of.Thrones.S08E04.%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C_%E0%B8%9B%E0%B8%B5_8_%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88_04_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2
+#https://openload.co/f/mCD8Vt-pS-c/GAMES_OF_THRONES_SEASON_8_EP.4_THE_LAST_OF_THE_STARKS_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
 
 
 type=video
