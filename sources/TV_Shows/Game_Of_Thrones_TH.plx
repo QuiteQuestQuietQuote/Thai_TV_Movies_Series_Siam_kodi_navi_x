@@ -82,6 +82,7 @@ name=S08-E05___The Bells___[COLOR=FF00FF00]1080p.web.h264-memento_SeeHD[/COLOR]
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/xF9hOs5h9sc37oWdtF4RPHq8dXA.jpg
 date=2019-05-13
 URL=https://openload.co/f/lx8TAYRSuMw/game.of.thrones.s08e05.1080p.web.h264-memento_SeeHD.mkv.mp4
+#https://openload.co/f/RjgSfleC2qk/Game.of.Thrones.S08E05.1080p.AMZN.WEB_DL.x264_MkvCage.ws.E.mp4
 #https://openload.co/f/THlMAoUTfc8/Game.of.Thrones.S08E05.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4
 #https://openload.co/f/lx8TAYRSuMw/game.of.thrones.s08e05.1080p.web.h264-memento_SeeHD.mkv.mp4
 #https://openload.co/f/tn7HNwddfh8/game.of.thrones.s08e05.720p.web.h264-memento_SeeHD.mkv.mp4
@@ -101,6 +102,7 @@ name=S08-E04___The Last of the Starks___[COLOR=FF00FF00]1080p.web.h264-memento[/
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/qe508xwVVO7cF2oWzfJp52StkTk.jpg
 date=2019-05-06
 URL=https://openload.co/f/L4E0Lp725NU/game.of.thrones.s08e04.1080p.web.h264-memento.mkv.mp4
+#https://openload.co/f/KhHm3COctZ8/Game.of.Thrones.S08E04.1080p.AMZN.WEB_DL.x264_MkvCage.ws.mp4
 #https://openload.co/f/Hu7k8JxvBZ4/Game_of_Thrones_S08E04_720p_WEB_H264-MEMENTO.mp4
 #https://openload.co/f/PR4wxoO0GyM/Game_of_Thrones_S08E04_720p_WEB_H264-MEMENTO.mp4
 #https://openload.co/f/Vja7u_qJFTE/game.of.thrones.s08e04.720p.web.h264-memento.mkv.mp4
@@ -121,6 +123,7 @@ name=S08-E03___The Long Night___[COLOR=FF00FF00]1080p.web.h264-memento_SeeHD[/CO
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/mFtHbZenI5rRPqC5OFafoVmjEjq.jpg
 date=2019-04-29
 URL=https://openload.co/f/US6JZ7qLfcw/game.of.thrones.s08e03.1080p.web.h264-memento_SeeHD.mkv.mp4
+#https://openload.co/f/NEAjpB10pbE/Game.of.Thrones.S08E03.1080p.AMZN.WEB_DL.x264_MkvCage.ws.mp4
 #https://openload.co/f/6MzdGy4gjVo/game.of.thrones.s08e03.720p.web.h264-memento_SeeHD.mkv.mp4
 type=video
 name=S08-E03___The Long Night___TH DUBBED_thsub
@@ -131,10 +134,11 @@ URL=https://openload.co/f/cokS_lWluGo/Game.of.Thrones.S08E03.%E0%B8%A1%E0%B8%AB%
 
 
 type=video
-name=S08-E02___A Knight of the Seven Kingdoms___[COLOR=FF00FF00]720p.web.h264-memento[/COLOR]
+name=S08-E02___A Knight of the Seven Kingdoms___[COLOR=FF00FF00]1080p.AMZN.WEB_DL.10bit.HEVC.6CH_MkvCage[/COLOR]
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/2Tj1Mcl3NQOj0LBnOpNHpBWuZHU.jpg
-date=2019-04-21
-URL=https://openload.co/f/LUf_X6E8Kvs/game.of.thrones.s08e02.720p.web.h264-memento.mkv.mp4
+date=2019-05-15
+URL=https://openload.co/f/Oy04UKaTid0/Game.of.Thrones.S08E02.A.Knight.of.the.Seven.Kingdoms.1080p.AMZN.WEB_DL.10bit.HEVC.6CH_MkvCage.ws.mp4
+#https://openload.co/f/LUf_X6E8Kvs/game.of.thrones.s08e02.720p.web.h264-memento.mkv.mp4
 #https://openload.co/f/siVfom51pm8/Game.of.Thrones.S08E02.WEB.x264-NoGRP.mkv.mp4
 #https://openload.co/f/wjie94Fcc0U/Game.of.Thrones.S08E02.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT_SeeHD.mkv.mp4
 #https://openload.co/f/LUf_X6E8Kvs/game.of.thrones.s08e02.720p.web.h264-memento.mkv.mp4
