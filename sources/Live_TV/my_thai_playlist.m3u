@@ -2398,87 +2398,6 @@ http://161.0.157.9/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1,HBO
 http://161.0.157.9/PLTV/88888888/224/3221226127/03.m3u8
 
-#EXTINF:-1,SE: BBC Earth HD
-http://iptvtool.es:9977/JESUS/JESUS/59068
-#EXTINF:-1,SE: BBC Earth HD
-http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65926
-
-#EXTINF:-1,|UK | HBO 1
-http://nvip.one-iptv.com:25443/aliladib/Di0svpiI9d/31102
-#EXTINF:-1,VIP |UK | HBO HD
-http://nvip.one-iptv.com:25443/aliladib/Di0svpiI9d/31003
-#EXTINF:-1,|UK | HBO 2
-http://nvip.one-iptv.com:25443/aliladib/Di0svpiI9d/31103
-
-#EXTINF:-1,US:  HBO 2 FHD
-http://www.pandar.tv:25461/ball/ball/19176
-#EXTINF:-1,US:  HBO 2 West FHD
-http://www.pandar.tv:25461/ball/ball/19175
-#EXTINF:-1,US:  HBO Plus West HD
-http://www.pandar.tv:25461/ball/ball/19171
-#EXTINF:-1,US:  HBO SIGNATURE (West) FHD
-http://www.pandar.tv:25461/ball/ball/19170
-#EXTINF:-1,US: HBO COMEDY HD
-http://www.pandar.tv:25461/ball/ball/23840
-#EXTINF:-1,US: HBO FAMILY
-http://www.pandar.tv:25461/ball/ball/23839
-#EXTINF:-1,US: HBO HD
-http://www.pandar.tv:25461/ball/ball/23838
-#EXTINF:-1,US: HBO HD 1
-http://www.pandar.tv:25461/ball/ball/23837
-#EXTINF:-1,US: HBO HD 2
-http://www.pandar.tv:25461/ball/ball/23836
-#EXTINF:-1,US: HBO HD EAST
-http://www.pandar.tv:25461/ball/ball/23835
-#EXTINF:-1,US: HBO SIGNATURE HD
-http://www.pandar.tv:25461/ball/ball/23834
-#EXTINF:-1,US: HBO Zone
-http://www.pandar.tv:25461/ball/ball/23833
-#EXTINF:-1,US: CINEMAX ACTION MAX
-http://www.pandar.tv:25461/ball/ball/23832
-#EXTINF:-1,US: CINEMAX HD
-http://www.pandar.tv:25461/ball/ball/23831
-#EXTINF:-1,US: CINEMAX MORE MAX
-http://www.pandar.tv:25461/ball/ball/23830
-#EXTINF:-1,US: CINEMAX MOREMAX HD
-http://www.pandar.tv:25461/ball/ball/23829
-#EXTINF:-1,US: CINEMAX OUTER MAX
-http://www.pandar.tv:25461/ball/ball/23828
-#EXTINF:-1,US: CINEMAX THRILLERMAX HD
-http://www.pandar.tv:25461/ball/ball/23827
-#EXTINF:-1,US: EPIX
-http://www.pandar.tv:25461/ball/ball/23826
-#EXTINF:-1,US: EPIX 2 HD
-http://www.pandar.tv:25461/ball/ball/23825
-#EXTINF:-1,US: EPIX HITS
-http://www.pandar.tv:25461/ball/ball/23824
-#EXTINF:-1,US: SHOWTIME 2
-http://www.pandar.tv:25461/ball/ball/23823
-#EXTINF:-1,US: SHOWTIME EXTREME
-http://www.pandar.tv:25461/ball/ball/23822
-#EXTINF:-1,US: SHOWTIME HD
-http://www.pandar.tv:25461/ball/ball/23821
-#EXTINF:-1,US: SHOWTIMEFAMILY ZONE HD
-http://www.pandar.tv:25461/ball/ball/23820
-#EXTINF:-1,US: SPIKE/PARAMOUNT
-http://www.pandar.tv:25461/ball/ball/23819
-#EXTINF:-1,US: SPIKE/PARAMOUNT HD
-http://www.pandar.tv:25461/ball/ball/23818
-#EXTINF:-1,US: STARZ COMEDY
-http://www.pandar.tv:25461/ball/ball/23817
-#EXTINF:-1,US: STARZ KIDS FAMILY
-http://www.pandar.tv:25461/ball/ball/23816
-
-#EXTINF:-1,CA | BBC EARTH HD
-http://p5.giffy.be:8080/andrew/andrew/26163
-
-#EXTINF:-1,Da Vinci
-http://194.113.104.145/play/238/index.m3u8?auth=iptviptv29:iptv2019
-
-
-
-
-
 #EXTINF:-1,MY: ASIAN FOOD CHANNEL
 http://31.220.1.190:8080/11223344/44332211/150649
 #EXTINF:-1,MY: BBC EARTH HD
@@ -2490,6 +2409,16 @@ http://31.220.1.190:8080/11223344/44332211/146002
 #EXTINF:-1,MY: NAT GEO PEOPLE HD
 http://31.220.1.190:8080/11223344/44332211/146003
 
+#EXTINF:-1,CA: DOCUMENTARY
+http://www.pandar.tv:25461/ball/ball/34634
+
+#EXTINF:-1,NO:BBC Earth HD
+http://portal.germanyservers.de:8000/hdVywGpsXk/Fbkp0EwEKa/26024
+
+#EXTINF:-1,CA | BBC EARTH HD
+http://p5.giffy.be:8080/andrew/andrew/26163
+#EXTINF:-1,CA | DOCUMENTARY
+http://p5.giffy.be:8080/andrew/andrew/39985
 
 
 
@@ -2663,6 +2592,10 @@ http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
 http://212.111.17.130:8001/1:0:19:3728:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,Penthouse_gold
 http://212.111.17.130:8001/1:0:19:3727:C8E:3:EB0000:0:0:0:
+#EXTINF:-1,Private
+http://85.66.46.167:8001/1:0:1:78BD:2C5:600:E080000:0:0:0:
+#EXTINF:-1,FEM+3
+http://85.66.46.167:8001/1:0:1:78BA:2C5:600:E080000:0:0:0:
 #EXTINF:-1,playboy
 http://95.216.187.219:8080/135-playboy
 #EXTINF:-1,lesbian_rtmp
