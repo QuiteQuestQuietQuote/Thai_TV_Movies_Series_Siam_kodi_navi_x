@@ -77,6 +77,27 @@ URL=https://openload.co/f/xWUJCR34Gc8/Game.Of.Thrones.The.Story.So.Far.2018.720p
 
 
 
+
+
+type=video
+name=S08-E06___The Iron Throne___[COLOR=FF00FF00]1080p.web.h264-memento_SeeHD[/COLOR]_Final
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/3x8tJon5jXFa1ziAM93hPKNyW7i.jpg
+date=2019-05-20
+URL=https://openload.co/f/ztPkF6vwEUc/game.of.thrones.s08e06.1080p.web.h264-memento_SeeHD.mkv.mp4
+#https://openload.co/f/ZCCjPpTamfk/game.of.thrones.s08e06.720p.web.h264-memento_SeeHD.mkv.mp4
+#https://openload.co/f/X5nxGqM7wUU/game.of.thrones.s08e06.1080p.web.h264-memento.mkv.mp4
+#https://openload.co/f/sRhavlmXxaw/game.of.thrones.s08e06.720p.web.h264-memento.mkv.mp4
+#https://openload.co/f/h_uGM70rbVw/Game.of.Thrones.S08E06.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4
+#https://openload.co/f/Rqv938vh3W0/game.of.thrones.s08e06.1080p.webrip.hevc.x265.mkv.mp4
+#https://openload.co/f/in8sSfSJRyk/game.of.thrones.s08e06.1080p.web.h264-memento.mkv.mp4
+#https://openload.co/f/njLW7icFOTU/Game.of.Thrones.S08E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv.mp4
+type=video
+name=S08-E06___The Iron Throne___TH DUBBED_thsub
+thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/3x8tJon5jXFa1ziAM93hPKNyW7i.jpg
+date=2019-05-20
+URL=
+
+
 type=video
 name=S08-E05___The Bells___[COLOR=FF00FF00]1080p.web.h264-memento_SeeHD[/COLOR]
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/xF9hOs5h9sc37oWdtF4RPHq8dXA.jpg
