@@ -154,70 +154,6 @@ http://183.88.60.53:8000/play/a00x
 
 
 
-#EXTINF:-1,3 HD
-http://183.89.150.138:9982/stream/channelid/2078734561
-#EXTINF:-1,3 SD
-http://183.89.150.138:9982/stream/channelid/465046831
-#EXTINF:-1,3FAM
-http://183.89.150.138:9982/stream/channelid/403055433
-#EXTINF:-1,AMARIN
-http://183.89.150.138:9982/stream/channelid/825596076
-#EXTINF:-1,ASER
-http://183.89.150.138:9982/stream/channelid/802486400
-#EXTINF:-1,ASIAN F
-http://183.89.150.138:9982/stream/channelid/2005127555
-#EXTINF:-1,BBTV CH7
-http://183.89.150.138:9982/stream/channelid/353288293
-#EXTINF:-1,BRIGHT
-http://183.89.150.138:9982/stream/channelid/987261644
-#EXTINF:-1,CCTV
-http://183.89.150.138:9982/stream/channelid/1531982426
-#EXTINF:-1,CELEST
-http://183.89.150.138:9982/stream/channelid/835739558
-#EXTINF:-1,CH8
-http://183.89.150.138:9982/stream/channelid/1093215502
-#EXTINF:-1,Disn
-http://183.89.150.138:9982/stream/channelid/2069272841
-#EXTINF:-1,E!
-http://183.89.150.138:9982/stream/channelid/233672417
-#EXTINF:-1,EXPLIFE
-http://183.89.150.138:9982/stream/channelid/337243830
-#EXTINF:-1,EXPSCI
-http://183.89.150.138:9982/stream/channelid/999834938
-#EXTINF:-1,EXPWILD
-http://183.89.150.138:9982/stream/channelid/683117111
-#EXTINF:-1,FL A
-http://183.89.150.138:9982/stream/channelid/466120034
-#EXTINF:-1,FOX
-http://183.89.150.138:9982/stream/channelid/1596080049
-#EXTINF:-1,GEM
-http://183.89.150.138:9982/stream/channelid/1547330073
-#EXTINF:-1,GMM25
-http://183.89.150.138:9982/stream/channelid/2089159895
-#EXTINF:-1,GOLDA:TLC
-http://183.89.150.138:9982/stream/channelid/1257362239
-#EXTINF:-1,INSE
-http://183.89.150.138:9982/stream/channelid/949176977
-#EXTINF:-1,KBS
-http://183.89.150.138:9982/stream/channelid/776315466
-#EXTINF:-1,KNOW:SRES
-http://183.89.150.138:9982/stream/channelid/977596473
-#EXTINF:-1,KNOW:TSP2
-http://183.89.150.138:9982/stream/channelid/264073316
-#EXTINF:-1,KNOW:XZYT
-http://183.89.150.138:9982/stream/channelid/1933564118
-#EXTINF:-1,LKTG
-http://183.89.150.138:9982/stream/channelid/1497070905
-#EXTINF:-1,LOCA
-http://183.89.150.138:9982/stream/channelid/1358416923
-#EXTINF:-1,MCOT F
-http://183.89.150.138:9982/stream/channelid/962122767
-#EXTINF:-1,MCOT HD
-http://183.89.150.138:9982/stream/channelid/762618790
-#EXTINF:-1,MONO
-http://183.89.150.138:9982/stream/channelid/1729687873
-#EXTINF:-1,MOVH
-http://183.89.150.138:9982/stream/channelid/10790712
 
 
 
@@ -226,63 +162,6 @@ http://183.89.150.138:9982/stream/channelid/10790712
 
 
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,GMM CHANNEL
-http://iliketot.dyndns.tv/ab0b43ef8363438098a94101e93ca138.m3u8
-#EXTINF:-1,BRIGHT TV
-http://iliketot.dyndns.tv/89264a79a72b48eeb90f3fde7ae13740.m3u8
-#EXTINF:-1,TPTV
-http://iliketot.dyndns.tv/e1464d4ef4aa4bbc972073bb4ebe17fd.m3u8
-#EXTINF:-1,T-News Channel
-http://iliketot.dyndns.tv/bcc7d0600c9943f2a1114f5749d180e8.m3u8
-#EXTINF:-1,TV 24
-http://iliketot.dyndns.tv/6d5587cf7ce94cd8a7477775b7ddc253.m3u8
-#EXTINF:-1,Deutsche Welle (DW)
-http://iliketot.dyndns.tv/6de1e752a9974a5980166483c8ed6bb8.m3u8
-#EXTINF:-1,Mongkol Channel
-http://iliketot.dyndns.tv/fcc2f9d7000747d5a55680d8eba2b3ef.m3u8
-#EXTINF:-1,POP TV
-http://iliketot.dyndns.tv/5389167315dc4a619ed5bc72f66a1c4f.m3u8
-#EXTINF:-1,Thai Chaiyo
-http://iliketot.dyndns.tv/a2ca06da9478412e9501d968e31bbf75.m3u8
-#EXTINF:-1,CH 2
-http://iliketot.dyndns.tv/4e38ed2fa4dd43999828eab81196deff.m3u8
-#EXTINF:-1,B4U Music India
-http://iliketot.dyndns.tv/81ff107849124ff389814b0b8816b1ba.m3u8
-#EXTINF:-1,MGTV
-http://iliketot.dyndns.tv/0518392dc56246e1808c211c796d5e84.m3u8
-#EXTINF:-1,Thai Station
-http://iliketot.dyndns.tv/768ab5caf16e44689c3a75e6a3f57b5c.m3u8
-#EXTINF:-1,Universal Channel HD
-http://iliketot.dyndns.tv/a7105ed1bb0a44bba1f4f71f2352b892.m3u8
-#EXTINF:-1,Syfy HD
-http://iliketot.dyndns.tv/71f197de056e499a85265c03b44bdab1.m3u8
-#EXTINF:-1,ITV Choice HD
-http://iliketot.dyndns.tv/e36b99bcd26648af9db2261785c77b7a.m3u8
-#EXTINF:-1,Warner TV HD
-http://iliketot.dyndns.tv/b48e02caa15743b5ad1f7f4b3022854a.m3u8
-#EXTINF:-1,Trace Urban TV HD
-http://iliketot.dyndns.tv/69ebf00065494dc39a3911c7d1eb9d71.m3u8
-#EXTINF:-1,TOT Channel
-http://iliketot.dyndns.tv/360304543ea24956a78f9ba83edba1c0.m3u8
-#EXTINF:-1,Gang Cartoon
-http://iliketot.dyndns.tv/7299670a140849a9aaf946b0302ad886.m3u8
-#EXTINF:-1,Animax
-http://iliketot.dyndns.tv/d3edb48a8bb847c78432270e23ddca73.m3u8
-#EXTINF:-1,Toonami
-http://iliketot.dyndns.tv/4208b3a6a1014d1993301918aa0c7089.m3u8
-#EXTINF:-1,Biography HD
-http://iliketot.dyndns.tv/8c49d827190b4b29a9d5e3be92e5054c.m3u8
-#EXTINF:-1,Grand Prix Channel
-http://iliketot.dyndns.tv/e05107e8304b4d118c92b5dffa636715.m3u8
 
 
 
@@ -2478,29 +2357,13 @@ http://161.0.157.9/PLTV/88888888/224/3221227026/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226127/03.m3u8
 
 #EXTINF:-1,CA | BBC EARTH HD
-http://p5.giffy.be:8080/andrew/andrew/26163
-#EXTINF:-1,CA | DOCUMENTARY
-http://p5.giffy.be:8080/andrew/andrew/39985
+http://p5.giffy.be:8080/jd/jd/26163
 
-#EXTINF:-1,MY: ASIAN FOOD CHANNEL
-http://31.220.1.190:8080/11223344/44332211/150649
-#EXTINF:-1,MY: BBC EARTH HD
-http://31.220.1.190:8080/11223344/44332211/142664
-#EXTINF:-1,MY: BBC LIFESTYLE
-http://31.220.1.190:8080/11223344/44332211/142665
-#EXTINF:-1,MY: NAT GEO ASIA HD
-http://31.220.1.190:8080/11223344/44332211/146002
-#EXTINF:-1,MY: NAT GEO PEOPLE HD
-http://31.220.1.190:8080/11223344/44332211/146003
 
-#EXTINF:-1,UK: BBC EARTH HD
-http://tezkom.ksbox.life:8080/5513915147/gRvsFs43j7/45698
 
-#EXTINF:-1,SE: BBC Earth
-http://tezkom.ksbox.life:8080/5513915147/gRvsFs43j7/34950
 
-#EXTINF:-1,[UK] BBC Earth HD
-http://www.e900x.com:8000/R4kF2RMzPs/RWHaL8CNL1/636
+
+
 
 
 #EXTINF:-1,CNEX
@@ -2677,10 +2540,8 @@ http://95.216.187.219:8080/135-playboy
 rtmp://62.210.55.60/stream3xVJ/3x01
 #EXTINF:-1,freextv_a00p
 http://91.204.234.3:8000/play/a00p/index.m3u8
-#EXTINF:-1,Dorcel tv
-http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/11164
-#EXTINF:-1,olala
-http://78.29.1.210/live/olala/copy/playlist.m3u8
+#EXTINF:-1,xxx
+http://212.83.191.221:2095/556677/556677/58359
 #EXTINF:-1,redtraffic_threesome
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1,redtraffic_blowjob
