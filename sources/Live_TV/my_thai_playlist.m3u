@@ -2332,33 +2332,77 @@ http://14.186.114.75:8889/rtp/232.84.2.131:9582
 
 #EXTINF:-1,HBO_ts_CH
 http://125.227.210.37:8895/VideoInput/play.ts
-#EXTINF:-1,HBO2
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1,FOX PREMIUM CINEMA_fluxustv
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,English Club 
 http://ott-cdn.ucom.am/s37/index.m3u8
 
-#EXTINF:-1,FOX PREMIUM CINEMA
-http://161.0.157.9/PLTV/88888888/224/3221226793/index.m3u8
 #EXTINF:-1,cnbc
 http://161.0.157.9:80/PLTV/88888888/224/3221227005/index.m3u8
+#EXTINF:-1,FOX PREMIUM CINEMA
+http://161.0.157.9/PLTV/88888888/224/3221226793/index.m3u8
+#EXTINF:-1,FOX PREMIUM CINEMA
+http://161.0.157.7/PLTV/88888888/224/3221226793/01.m3u8
 #EXTINF:-1,HBO HD
 http://161.0.157.9/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1,HBO HD
 http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
-#EXTINF:-1,USA HBO 2
-http://161.0.157.9/PLTV/88888888/224/3221227026/01.m3u8
-#EXTINF:-1,HBO 2 International
-http://161.0.157.9/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1,HBO HD
+http://161.0.157.50/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1,HBO 2
 http://161.0.157.9/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1,HBO
-http://161.0.157.9/PLTV/88888888/224/3221226127/03.m3u8
+#EXTINF:-1,HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1,HBO2
+http://161.0.157.50/PLTV/88888888/224/3221227026/01.m3u8
 
 #EXTINF:-1,CA | BBC EARTH HD
 http://p5.giffy.be:8080/jd/jd/26163
 
+#EXTINF:-1,MY: ASIAN FOOD CHANNEL
+http://31.220.1.190:8080/11223344/44332211/150649
+#EXTINF:-1,MY: BBC EARTH HD
+http://31.220.1.190:8080/11223344/44332211/142664
+#EXTINF:-1,MY: BBC LIFESTYLE
+http://31.220.1.190:8080/11223344/44332211/142665
+#EXTINF:-1,MY: NAT GEO ASIA HD
+http://31.220.1.190:8080/11223344/44332211/146002
+#EXTINF:-1,MY: NAT GEO PEOPLE HD
+http://31.220.1.190:8080/11223344/44332211/146003
+
+#EXTINF:-1,IN: BBC EARTH HD
+http://its.nextleveliptv.net:8000/iceman2380/mazdamx3/67331
+
+#EXTINF:-1,BBC Earth HD
+http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/672
+#EXTINF:-1,BBC Earth HD (720p)
+http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/10179
+#EXTINF:-1,BBC Lifestyle HD
+http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/821
+#EXTINF:-1,BBC Lifestyle HD (720p)
+http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/10253
+#EXTINF:-1,Discovery Science HD
+http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/805
+#EXTINF:-1,Discovery Science HD (720p)
+http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/10158
+#EXTINF:-1,Da Vinci Learning
+http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/667
+#EXTINF:-1,History HD
+http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/793
+#EXTINF:-1,History HD (720p)
+http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/10197
+#EXTINF:-1,Nat Geo People HD
+http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/789
+#EXTINF:-1,Nat Geo People HD (720p)
+http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/10161
+#EXTINF:-1,Polsat Viasat Explore HD
+http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/780
+#EXTINF:-1,Polsat Viasat Explore HD (720p)
+http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/10226
+#EXTINF:-1,Polsat Viasat History HD
+http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/779
+#EXTINF:-1,Polsat Viasat History HD (720p)
+http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/10200
 
 
 
@@ -2536,11 +2580,17 @@ http://212.111.17.130:8001/1:0:19:3728:C8E:3:EB0000:0:0:0:
 http://212.111.17.130:8001/1:0:19:3727:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,playboy
 http://95.216.187.219:8080/135-playboy
+#EXTINF:-1,playboy_red
+http://deltatvfull.club:25461/Mauricio1/Mauricio1/29553
 #EXTINF:-1,lesbian_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x01
+#EXTINF:-1,Hentai_rtmp
+rtmp://62.210.55.60/stream3xVJ/3x12
+#EXTINF:-1,ATK_rtmp
+rtmp://62.210.55.60/stream3xVJ/3x06
 #EXTINF:-1,freextv_a00p
 http://91.204.234.3:8000/play/a00p/index.m3u8
-#EXTINF:-1,xxx
+#EXTINF:-1,Erotic
 http://212.83.191.221:2095/556677/556677/58359
 #EXTINF:-1,redtraffic_threesome
 http://live.redtraffic.xyz/threesome.m3u8
@@ -2647,7 +2697,7 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_persik
-http://persik.by/stream/4914/395387/10003.m3u8
+http://persik.by/stream/2944/263250/10003.m3u8
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00a
 http://185.93.3.83:5014/play/a00a
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart_178

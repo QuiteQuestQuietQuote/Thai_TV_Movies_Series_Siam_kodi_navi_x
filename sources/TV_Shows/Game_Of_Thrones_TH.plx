@@ -80,7 +80,7 @@ URL=https://openload.co/f/xWUJCR34Gc8/Game.Of.Thrones.The.Story.So.Far.2018.720p
 
 
 type=video
-name=S08-E06___The Iron Throne___[COLOR=FF00FF00]1080p.web.h264-memento_SeeHD[/COLOR]_Final
+name=S08-E06___The Iron Throne___[COLOR=FF00FF00]1080p.web.h264-memento_SeeHD[/COLOR]_Series_Finale
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/3x8tJon5jXFa1ziAM93hPKNyW7i.jpg
 date=2019-05-20
 URL=https://openload.co/f/ztPkF6vwEUc/game.of.thrones.s08e06.1080p.web.h264-memento_SeeHD.mkv.mp4
@@ -94,8 +94,8 @@ URL=https://openload.co/f/ztPkF6vwEUc/game.of.thrones.s08e06.1080p.web.h264-meme
 type=video
 name=S08-E06___The Iron Throne___TH DUBBED_thsub
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/3x8tJon5jXFa1ziAM93hPKNyW7i.jpg
-date=2019-05-20
-URL=
+date=2019-05-22
+URL=https://openload.co/f/GPFjdy404jo/Game.of.Thrones.S08E06%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C_%E0%B8%9B%E0%B8%B5_8_%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88_06_%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2
 
 
 type=video
