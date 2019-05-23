@@ -2356,58 +2356,37 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1,HBO2
 http://161.0.157.50/PLTV/88888888/224/3221227026/01.m3u8
 
-#EXTINF:-1,CA | BBC EARTH HD
-http://p5.giffy.be:8080/jd/jd/26163
+#EXTINF:-1,DocuBox
+http://93.138.25.147:4001/play/a00u/index.m3u8
+#EXTINF:-1,Planet Earth
+http://93.138.25.147:4001/play/a00v/index.m3u8
+#EXTINF:-1,Viasat Explore
+http://93.138.25.147:4001/play/a00t/index.m3u8
+#EXTINF:-1,Viasat History
+http://93.138.25.147:4001/play/a00s/index.m3u8
 
-#EXTINF:-1,MY: ASIAN FOOD CHANNEL
-http://31.220.1.190:8080/11223344/44332211/150649
-#EXTINF:-1,MY: BBC EARTH HD
-http://31.220.1.190:8080/11223344/44332211/142664
-#EXTINF:-1,MY: BBC LIFESTYLE
-http://31.220.1.190:8080/11223344/44332211/142665
-#EXTINF:-1,MY: NAT GEO ASIA HD
-http://31.220.1.190:8080/11223344/44332211/146002
-#EXTINF:-1,MY: NAT GEO PEOPLE HD
-http://31.220.1.190:8080/11223344/44332211/146003
+#EXTINF:-1,NatGeo People_kor
+http://61.101.139.44:9981/stream/channelid/1370957589
+#EXTINF:-1,History
+http://61.101.139.44:9981/stream/channelid/320220580
+#EXTINF:-1,BBC Earth
+http://61.101.139.44:9981/stream/channelid/1343598341
 
-#EXTINF:-1,IN: BBC EARTH HD
-http://its.nextleveliptv.net:8000/iceman2380/mazdamx3/67331
+#EXTINF:-1,NatGeo People_kor
+http://1.230.222.47:9981/stream/channelid/1356040461
+#EXTINF:-1,Natgeo People
+http://1.230.222.47:9981/stream/channelid/233063535
+#EXTINF:-1,History
+http://1.230.222.47:9981/stream/channelid/607132892
+#EXTINF:-1,BBC earth
+http://1.230.222.47:9981/stream/channelid/709392905
+#EXTINF:-1,BBC earth
+http://1.230.222.47:9981/stream/channelid/710453332
 
-#EXTINF:-1,BBC Earth HD
-http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/672
-#EXTINF:-1,BBC Earth HD (720p)
-http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/10179
-#EXTINF:-1,BBC Lifestyle HD
-http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/821
-#EXTINF:-1,BBC Lifestyle HD (720p)
-http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/10253
-#EXTINF:-1,Discovery Science HD
-http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/805
-#EXTINF:-1,Discovery Science HD (720p)
-http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/10158
-#EXTINF:-1,Da Vinci Learning
-http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/667
-#EXTINF:-1,History HD
-http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/793
-#EXTINF:-1,History HD (720p)
-http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/10197
-#EXTINF:-1,Nat Geo People HD
-http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/789
-#EXTINF:-1,Nat Geo People HD (720p)
-http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/10161
-#EXTINF:-1,Polsat Viasat Explore HD
-http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/780
-#EXTINF:-1,Polsat Viasat Explore HD (720p)
-http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/10226
-#EXTINF:-1,Polsat Viasat History HD
-http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/779
-#EXTINF:-1,Polsat Viasat History HD (720p)
-http://k.kabalak.online:8880/MariuszCzopek/bA9YZ9bJgA/10200
-
-
-
-
-
+#EXTINF:-1,BBC Earth
+http://1.233.136.3:9981/stream/channelid/1242002460
+#EXTINF:-1,NatGeo People
+http://1.233.136.3:9981/stream/channelid/921893992
 
 
 #EXTINF:-1,CNEX
@@ -2576,8 +2555,8 @@ http://79.135.77.75:81/udp/239.195.0.88:1234
 http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,Penthouse_gold
 http://212.111.17.130:8001/1:0:19:3728:C8E:3:EB0000:0:0:0:
-#EXTINF:-1,Penthouse_gold
-http://212.111.17.130:8001/1:0:19:3727:C8E:3:EB0000:0:0:0:
+#EXTINF:-1,RK
+http://84.104.234.134:8001/1:0:19:1B80:C88:3:EB0000:0:0:0:
 #EXTINF:-1,playboy
 http://95.216.187.219:8080/135-playboy
 #EXTINF:-1,playboy_red
