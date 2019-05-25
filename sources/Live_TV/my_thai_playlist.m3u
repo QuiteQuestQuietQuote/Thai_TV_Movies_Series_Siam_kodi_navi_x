@@ -2365,28 +2365,39 @@ http://93.138.25.147:4001/play/a00t/index.m3u8
 #EXTINF:-1,Viasat History
 http://93.138.25.147:4001/play/a00s/index.m3u8
 
-#EXTINF:-1,NatGeo People_kor
-http://61.101.139.44:9981/stream/channelid/1370957589
-#EXTINF:-1,History
-http://61.101.139.44:9981/stream/channelid/320220580
-#EXTINF:-1,BBC Earth
-http://61.101.139.44:9981/stream/channelid/1343598341
+#EXTINF:-1,Da Vinci 
+http://78.57.160.181:9981/stream/channelid/1041205619 
 
-#EXTINF:-1,NatGeo People_kor
-http://1.230.222.47:9981/stream/channelid/1356040461
-#EXTINF:-1,Natgeo People
-http://1.230.222.47:9981/stream/channelid/233063535
-#EXTINF:-1,History
-http://1.230.222.47:9981/stream/channelid/607132892
-#EXTINF:-1,BBC earth
-http://1.230.222.47:9981/stream/channelid/709392905
-#EXTINF:-1,BBC earth
-http://1.230.222.47:9981/stream/channelid/710453332
+#EXTINF:-1,ASIAN FOOD CHANNEL
+http://14.244.193.64:4022/rtp/232.84.1.115:10236
+#EXTINF:-1,ASIAN FOOD CHANNEL HD
+http://14.244.193.64:4022/rtp/232.84.2.129:9570
+#EXTINF:-1,DA VINCI LEARNING HD
+http://14.244.193.64:4022/rtp/232.84.2.131:9582
+#EXTINF:-1,DISCOVERY ASIA
+http://14.244.193.64:4022/rtp/232.84.2.53:10528
+#EXTINF:-1,DW HD
+http://14.244.193.64:4022/rtp/232.84.2.233:10416
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://14.244.193.64:4022/rtp/232.84.1.65:8364
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://14.244.193.64:4022/rtp/232.84.1.1:7980
+#EXTINF:-1,NAT GEO PEOPLE
+http://14.244.193.64:4022/rtp/232.84.1.67:8376
+#EXTINF:-1,NAT GEO PEOPLE HD
+http://14.244.193.64:4022/rtp/232.84.1.76:8430
+#EXTINF:-1,Da Vinci Learning
+http://14.244.193.64:4022/rtp/232.84.1.108:10224
+#EXTINF:-1,Nat Geo People
+http://14.244.193.64:4022/rtp/232.84.2.121:8376
 
-#EXTINF:-1,BBC Earth
-http://1.233.136.3:9981/stream/channelid/1242002460
-#EXTINF:-1,NatGeo People
-http://1.233.136.3:9981/stream/channelid/921893992
+#EXTINF:-1,ADN USA CNBC
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/453
+
+#EXTINF:-1,USA: CNBC
+http://lightningstreams.com:8080/live/Rodney-Pinard/zBSEuyV9wQ/8535.m3u8
+#EXTINF:-1,USA : CNBC (US)
+http://lightningstreams.com:8080/live/Rodney-Pinard/zBSEuyV9wQ/8226.m3u8
 
 
 #EXTINF:-1,CNEX
@@ -2436,35 +2447,37 @@ http://185.79.92.234:8001/1:0:1:96:19:1:FFFF0000:0:0:0
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_HD
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/143751
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD
-http://123.249.76.157:10018/bysid/73
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD
-http://81.93.73.35:8000/play/a01m/index.m3u8
-#EXTINF:-1,Viasat History
-https://hls.telekabel.com.mk:1936/live/101/2500-def.m3u8
-#EXTINF:-1,Viasat Explore
-https://hls.telekabel.com.mk:1936/live/111/2500-def.m3u8
-#EXTINF:-1,TLC
-http://125.227.210.37:8891/VideoInput/play.ts
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
 http://125.227.210.37:8896/VideoInput/play.ts
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
-http://122.146.68.116:4046/VideoInput/play.ts
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
 http://61.216.10.122:4046/VideoInput/play.ts
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_HHZT
 http://220.158.149.14:9999/live/TV00000000000000000114@HHZT;LIVE
+#EXTINF:-1,TLC
+http://125.227.210.37:8891/VideoInput/play.ts
 #EXTINF:-1,Fox_Crime
 http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8
 #EXTINF:-1,CHN
 http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8
 
+#EXTINF:-1,Viasat History
+https://hls.telekabel.com.mk:1936/live/101/2500-def.m3u8
+#EXTINF:-1,Viasat Explore
+https://hls.telekabel.com.mk:1936/live/111/2500-def.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_kor
+http://1.233.136.3:9981/stream/channelid/921893992
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_iliketot
 http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_iliketot
 http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning
 https://hls.telekabel.com.mk:1936/live/121/2500-def.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD
+http://123.249.76.157:10018/bysid/73
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
+http://1.233.136.3:9981/stream/channelid/1242002460
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
+http://122.146.68.116:4046/VideoInput/play.ts
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_TH
 http://183.89.150.138:9982/stream/channelid/2005127555
 #EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_rtmp4
@@ -2555,22 +2568,30 @@ http://79.135.77.75:81/udp/239.195.0.88:1234
 http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,Penthouse_gold
 http://212.111.17.130:8001/1:0:19:3728:C8E:3:EB0000:0:0:0:
-#EXTINF:-1,RK
-http://84.104.234.134:8001/1:0:19:1B80:C88:3:EB0000:0:0:0:
+#EXTINF:-1,FrenchLover
+http://91.204.234.3:8000/play/a00p/index.m3u8
+#EXTINF:-1,Babestv
+http://158.69.52.44:25461/live/CANALES_BUDTV/h23sxgibM0/640.ts
+#EXTINF:-1,playboy xxx
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1540
+#EXTINF:-1,BHot
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1541
+#EXTINF:-1,playboy_red
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1540
 #EXTINF:-1,playboy
 http://95.216.187.219:8080/135-playboy
 #EXTINF:-1,playboy_red
 http://deltatvfull.club:25461/Mauricio1/Mauricio1/29553
 #EXTINF:-1,lesbian_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x01
+#EXTINF:-1,lesbian2_rtmp
+rtmp://62.210.55.60/stream3xVJ/3x03
 #EXTINF:-1,Hentai_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x12
-#EXTINF:-1,ATK_rtmp
+#EXTINF:-1,Solo_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x06
 #EXTINF:-1,freextv_a00p
 http://91.204.234.3:8000/play/a00p/index.m3u8
-#EXTINF:-1,Erotic
-http://212.83.191.221:2095/556677/556677/58359
 #EXTINF:-1,redtraffic_threesome
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1,redtraffic_blowjob
@@ -2636,6 +2657,8 @@ http://59.120.242.104:9000/live/live7.m3u8
 
 #EXTINF:-1,JAV_ok2
 http://ok2.se:8000/31yBdNLZ9J/uE96bnqNd1/6612
+#EXTINF:-1,Ibiza_ok2
+http://ok2.se:8000/oqfwv6viy9/qcUsx6A4ez/72394
 
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp79.135
 http://79.135.77.75:81/udp/239.195.0.88:1234

@@ -9877,25 +9877,6 @@ URL=https://openload.co/f/ynzSSvbUQyI/The_Prodigy_%282019%29%E0%B9%80%E0%B8%94%E
 
 
 
-type=video
-name=How to Train Your Dragon: The Hidden World (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZPZdFP2qo0cvfNTrUUNRXTW9AB.jpg
-date=2019-04-18
-URL=https://openload.co/f/RquINLkrUvI/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.10bit.HEVC.6CH-MkvCage.mkv.mp4
-#https://openload.co/f/GXYkQTgLZpc/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.AC3.x264-MkvCage.mkv.mp4
-#https://openload.co/f/aJRFAWLtwh8/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/LeNzc1gobg8/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/dcxjG_FOkYo/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.x264.DTS-FGT.mkv.mp4
-#https://openload.co/f/CCQxLFuVqXk/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.H264.AAC-RARBG_SeeHD.mp4
-#https://openload.co/f/nXoxoYJ3Flw/How_to_train_your_Dragon_3_NEW_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/blBryEIz1OQ/How_To_Train_your_Dragon_3_720p_HDCAM_SeeHD.mkv.mp4
-#https://openload.co/f/3sPA0DfMdcQ/How_To_Train_your_Dragon_3_720p_HDCAM_SeeHD.mkv   MKV2.2GB
-#https://openload.co/f/iCxH8tOXsp4/How_to_Train_Your_Dragon_3_2019_720p_HDCAM-1XBET.mp4
-type=video
-name=How to Train Your Dragon: The Hidden World (2019) THCAM
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZPZdFP2qo0cvfNTrUUNRXTW9AB.jpg
-date=2019-02-05
-URL=https://openload.co/f/VXRA2kFu2fM/How_to_Train_Your_Dragon%3A_The_Hidden_World_%282019%29%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%A7%E0%B8%81%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3_3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
 
@@ -12742,22 +12723,7 @@ URL=
 
 
 
-type=video
-name=The Lego Movie 2: The Second Part (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QTESAsBVZwjtGJNDP7utiGV37z.jpg
-date=2019-04-30
-URL=https://openload.co/f/ikFXHCE0aBo/the.lego.movie.2.the.second.part.2019.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/9Lxf5HAKmY8/The_Lego_Movie_2%3A_The_Second_Part_2019_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
-#https://openload.co/f/9RNpI3DQlG4/The_Lego_Movie_2%3A_The_Second_Part_%282019%291080p_BluRay_x264_DTS-HDC.Ganool.ws.mkv.mp4
-#https://openload.co/f/ikFXHCE0aBo/the.lego.movie.2.the.second.part.2019.1080p.bluray.x264-geckos.mkv.mp4
-#https://openload.co/f/HAdWAU8K1_s/The_Lego_Movie_2%3A_The_Second_Part_2019_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
-#https://openload.co/f/sxFR2jQ34oM/The_Lego_Movie_2%3A_The_Second_Part_2019_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
-#https://openload.co/f/bmIlj8VR35c/The_Lego_Movie_2_2019_720p_HDCAM_SeeHD.mkv.mp4
-type=video
-name=The Lego Movie 2: The Second Part (2019) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QTESAsBVZwjtGJNDP7utiGV37z.jpg
-date=2019-03-16
-URL=https://openload.co/f/va4EaMDxyEs/The_Lego_Movie_2%3A_The_Second_Part_%282019%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
 
 
 
@@ -13246,9 +13212,45 @@ URL=
 
 
 
+type=video
+name=How to Train Your Dragon: The Hidden World (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZPZdFP2qo0cvfNTrUUNRXTW9AB.jpg
+date=2019-04-18
+URL=https://openload.co/f/RquINLkrUvI/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.10bit.HEVC.6CH-MkvCage.mkv.mp4
+#https://openload.co/f/GXYkQTgLZpc/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.AC3.x264-MkvCage.mkv.mp4
+#https://openload.co/f/aJRFAWLtwh8/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/LeNzc1gobg8/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/dcxjG_FOkYo/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.x264.DTS-FGT.mkv.mp4
+#https://openload.co/f/CCQxLFuVqXk/How.to.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.H264.AAC-RARBG_SeeHD.mp4
+#https://openload.co/f/nXoxoYJ3Flw/How_to_train_your_Dragon_3_NEW_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/blBryEIz1OQ/How_To_Train_your_Dragon_3_720p_HDCAM_SeeHD.mkv.mp4
+#https://openload.co/f/3sPA0DfMdcQ/How_To_Train_your_Dragon_3_720p_HDCAM_SeeHD.mkv   MKV2.2GB
+#https://openload.co/f/iCxH8tOXsp4/How_to_Train_Your_Dragon_3_2019_720p_HDCAM-1XBET.mp4
+type=video
+name=How to Train Your Dragon: The Hidden World (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZPZdFP2qo0cvfNTrUUNRXTW9AB.jpg
+date=2019-05-25
+URL=https://openload.co/f/k_Q8nKzIk8c/HOW_TO_TRAIN_YOUR_DRAGON_3%3A_THE_HIDDEN_WORLD_%282019%29%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%A7%E0%B8%81%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3_3.mp4
+#https://openload.co/f/VXRA2kFu2fM/How_to_Train_Your_Dragon%3A_The_Hidden_World_%282019%29%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%A7%E0%B8%81%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3_3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
-
+type=video
+name=The Lego Movie 2: The Second Part (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QTESAsBVZwjtGJNDP7utiGV37z.jpg
+date=2019-04-30
+URL=https://openload.co/f/ikFXHCE0aBo/the.lego.movie.2.the.second.part.2019.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/9Lxf5HAKmY8/The_Lego_Movie_2%3A_The_Second_Part_2019_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+#https://openload.co/f/9RNpI3DQlG4/The_Lego_Movie_2%3A_The_Second_Part_%282019%291080p_BluRay_x264_DTS-HDC.Ganool.ws.mkv.mp4
+#https://openload.co/f/ikFXHCE0aBo/the.lego.movie.2.the.second.part.2019.1080p.bluray.x264-geckos.mkv.mp4
+#https://openload.co/f/HAdWAU8K1_s/The_Lego_Movie_2%3A_The_Second_Part_2019_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+#https://openload.co/f/sxFR2jQ34oM/The_Lego_Movie_2%3A_The_Second_Part_2019_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+#https://openload.co/f/bmIlj8VR35c/The_Lego_Movie_2_2019_720p_HDCAM_SeeHD.mkv.mp4
+type=video
+name=The Lego Movie 2: The Second Part (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QTESAsBVZwjtGJNDP7utiGV37z.jpg
+date=2019-05-25
+URL=https://openload.co/f/UeMXHC36JkA/THE_LEGO_MOVIE_2%3A_THE_SECOND_PART_%282019%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_2.mp4
+#https://openload.co/f/va4EaMDxyEs/The_Lego_Movie_2%3A_The_Second_Part_%282019%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
 type=video
@@ -13674,8 +13676,9 @@ URL=https://openload.co/f/6o0iOWzbduQ/free.solo.2018.limited.1080p.bluray.x264-c
 type=video
 name=Free Solo (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQZ4T3638UIZS7JV1SLTdqPmezx.jpg
-date=2019-04-21
-URL=https://openload.co/f/zCyH9F1uKC8/Free_Solo_%282018%29%E0%B8%9B%E0%B8%B5%E0%B8%99%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+date=2019-05-25
+URL=https://openload.co/f/IdFdk8vk66o/FREE_SOLO_%282018%29%E0%B8%9B%E0%B8%B5%E0%B8%99%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+#https://openload.co/f/zCyH9F1uKC8/Free_Solo_%282018%29%E0%B8%9B%E0%B8%B5%E0%B8%99%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
 
 
 type=video
