@@ -1463,7 +1463,9 @@ type=video
 name=The Assassin's Code (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-53
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YaLITnYgxtYyeYi3YP1otBMxrr.jpg
 date=2019-05-15
-URL=https://openload.co/f/BXshYePYoOo/The_Assassins_Code_2018_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+URL=https://openload.co/f/0iFCMMFZw7M/The.Assassins.Code.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/BXshYePYoOo/The_Assassins_Code_2018_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+#https://openload.co/f/0iFCMMFZw7M/The.Assassins.Code.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
 
 type=video
 name=Fighting with My Family (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
@@ -5654,11 +5656,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sj0CQKUY0JVsjmYOGk3yBlHbxG
 date=2018-07-20
 URL=https://openload.co/f/-HAHTorSq3c/dwelling.2016.1080p.bluray.x264-getit.mkv.mp4
 
-type=video
-name=The Assassin's Code (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t89TgOiEXGl43pVoBxpGUP2tIpD.jpg
-date=2018-07-18
-URL=https://openload.co/f/0iFCMMFZw7M/The.Assassins.Code.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
+
 
 
 
