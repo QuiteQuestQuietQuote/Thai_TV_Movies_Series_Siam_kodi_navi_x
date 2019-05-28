@@ -610,7 +610,6 @@ http://103.77.116.191:443/movie/hbo_hits_720p.stream/chunklist.m3u8?st=wB5uX0DJA
 
 
 
-
 #EXTINF:-1 group-title="docu" tvg-logo="http://my-hd.tv/shared/img/channels/H2-HD.png",H2
 http://103.77.116.191:443/documentary/h2_720p.stream/chunklist.m3u8?st=wB5uX0DJATPyIJtXFaSjbA&username=40413&password=adbc5244b4799fbdc68594c4265da829&e=1519500572
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/natgeowild.jpg",Nat Geo Wild HD
@@ -2242,9 +2241,9 @@ http://210.210.155.35/session/d63bb414-30c3-11e9-b5a0-c81f66f89318/uq2663/h/h10/
 #EXTINF:-1,cooking ch
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 
-#EXTINF:-1,HBO_ts_CH
+#EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO_ts_CH
 http://125.227.210.37:8895/VideoInput/play.ts
-#EXTINF:-1,FOX PREMIUM CINEMA_fluxustv
+#EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/foxpremium.png",Fox Movie Premium_fluxustv
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,English Club 
 http://ott-cdn.ucom.am/s37/index.m3u8
@@ -2253,15 +2252,15 @@ http://58.229.138.182:9981/stream/channelid/253613633
 
 #EXTINF:-1,cnbc
 http://161.0.157.9:80/PLTV/88888888/224/3221227005/index.m3u8
-#EXTINF:-1,FOX PREMIUM CINEMA
+#EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/foxpremium.png",Fox Movie Premium
 http://161.0.157.9/PLTV/88888888/224/3221226793/index.m3u8
-#EXTINF:-1,FOX PREMIUM CINEMA
+#EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/foxpremium.png",Fox Movie Premium
 http://161.0.157.7/PLTV/88888888/224/3221226793/01.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO HD
 http://161.0.157.9/PLTV/88888888/224/3221226127/index.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO HD
 http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO HD
 http://161.0.157.50/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1,HBO 2
 http://161.0.157.9/PLTV/88888888/224/3221227026/index.m3u8
@@ -2460,7 +2459,7 @@ http://220.158.149.14:9999/live/TV00000000000000000081@HHZT;LIVE?auth=zarin:RJsK
 http://113.196.177.81:8909/VideoInput/play.ts
 #EXTINF:-1,Movies_filmHD
 http://113.196.177.81:8898/VideoInput/play.ts
-#EXTINF:-1,HBO_HD
+#EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO_HD
 http://113.196.177.81:8895/VideoInput/play.ts
 #EXTINF:-1,cinemax
 http://212.111.17.130:8001/1:0:1:30a:C94:3:EB0000:0:0:0:
@@ -2491,8 +2490,6 @@ http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/209223
 http://95.216.187.219:8080/135-playboy
 #EXTINF:-1,playboy_red
 http://158.69.23.62:80/704/704/5735
-#EXTINF:-1,sci-fi_rtmp
-rtmp://62.210.55.60/stream3xVJ/3x00
 #EXTINF:-1,lesbian_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x01
 #EXTINF:-1,Solo_rtmp
@@ -2519,7 +2516,7 @@ http://live.redtraffic.xyz/lesbian.m3u8
 
 #EXTINF:-1,phone vision
 http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3049003136-10057-A-0-1_1200.m3u8
-#EXTINF:-1,honey)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey) TV
 http://122.38.74.172:9981/stream/channelid/1463854277
 #EXTINF:-1,VIKI
 http://116.45.184.224:9981/stream/channelid/337044103?ticket=EFFC15CF470CE1FE437C7294EC49FD766AB73659&profile=pass
@@ -2677,12 +2674,6 @@ http://92.43.140.249/s65/04.m3u8
 
 
 
-#EXTINF:-1,USA | CNBC HD
-http://iptv.wtf:8080/liehuwpt/xvXFd963d4/11121
-#EXTINF:-1,USA | CNBC World HD
-http://iptv.wtf:8080/liehuwpt/xvXFd963d4/11145
-#EXTINF:-1,USA | CNBC World HD
-http://iptv.wtf:8080/liehuwpt/xvXFd963d4/11120
 
 
 
