@@ -79,13 +79,13 @@ type=video
 name=Literally, Right Before Aaron 2017 1080p Bluray H264 – RARBG
 thumb=https://1.bp.blogspot.com/-epzA_r1mrfc/Wc31fh6pMJI/AAAAAAAAHJg/7MeQSRzx9ZUAtskNBQMD0pgmkDDHOqoTwCLcBGAs/s1600/lit.jpg
 date=2019-01-03
-URL=https://vidoza.net/4lniwuwjbjlb.html
+URL=https://vidoza.net/tnopnpleozcq.html
 
 type=video
-name=
+name=Snowbound 2017 1080p BluRay AAC-RARBG 
 thumb=
 date=2019-01-03
-URL=
+URL=https://vidoza.net/doukz6l17ya6.html
 
 
 
@@ -96,10 +96,10 @@ date=2019-01-03
 URL=https://drive.google.com/file/d/1nPgP-e0B_ovLmZlo-36ugOy7McLHH2no/preview
 
 type=video
-name=
+name=the cakemaker 2017 limited 1080p bluray x264-usury 
 thumb=
 date=2019-01-03
-URL=
+URL=https://vidoza.net/ja54bh2p4k8r.html
 
 type=video
 name=

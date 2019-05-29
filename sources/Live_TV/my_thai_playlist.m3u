@@ -2295,27 +2295,44 @@ http://14.244.193.64:4022/rtp/232.84.1.108:10224
 #EXTINF:-1,Nat Geo People
 http://14.244.193.64:4022/rtp/232.84.2.121:8376
 
-#EXTINF:-1,CA | BBC EARTH HD
-http://s1.electru.biz:8080/timothy.shannon60@gmail.com/06hxDuw13L/26163
+
+
+
+#EXTINF:-1,ASIAN FOOD CHANNEL HD_vn
+http://mytv.tranvinh.tk:6868/rtp/232.84.2.129:9570
+#EXTINF:-1,DA VINCI LEARNING HD
+http://mytv.tranvinh.tk:6868/rtp/232.84.2.131:9582
+#EXTINF:-1,discovery_vn
+http://mytv.tranvinh.tk:6868/rtp/232.84.2.53:10528?auth=zarin:RJsKR
+
+
 
 #EXTINF:-1,UK: BBC Earth
 http://dibo.live:8080/Antonio1/Antonio/143751
 #EXTINF:-1,UK: Docubox HD
 http://dibo.live:8080/Antonio1/Antonio/104278
 
-#EXTINF:-1,|UK d| DISCOVERY SCIENCE HD |720P|
-http://xpro.one-iptv.com:25443/chtioui/123456/40949
-#EXTINF:-1,|UK | BBC EARTH HD
-http://xpro.one-iptv.com:25443/chtioui/123456/31107
+#EXTINF:-1,BBC Lifetsyle
+http://188.35.9.12:21111/udp/164j
 
-#EXTINF:-1,DA VINCI LEARNING_uk
-http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/537/index.m3u8
+#EXTINF:-1,CA | BBC EARTH HD
+http://s1.electru.biz:8080/timothy.shannon60@gmail.com/06hxDuw13L/26163
+#EXTINF:-1,CA | DOCUMENTARY
+http://s1.electru.biz:8080/timothy.shannon60@gmail.com/06hxDuw13L/39985
+
+#EXTINF:-1,SE: BBC Earth HD
+http://ipsatpro.com:8080/Amar1/Amar1/1179
 
 
 #EXTINF:-1,CNEX
 http://61.58.60.230:9319/live/257.m3u8
-#EXTINF:-1,CHN_Studio Classroom
+#EXTINF:-1,CNEX_HHZT
+http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE?auth=zarin:RJsKR
+#EXTINF:-1,CHN_Studio Classroom_HHZT
 http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
+
+#EXTINF:-1,CHN_Docu
+http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.mayday.is/img/showcase_docurama/dcr-branding-full.png" group-title="USA",Docurama
