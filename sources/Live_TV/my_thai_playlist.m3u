@@ -30,8 +30,8 @@ https://edge1a.v2h-cdn.com/appt3/five.stream_720p/playlist.m3u8
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD
 http://183.182.100.184/live/pptvthai/playlist.m3u8
-#EXTINF:-1 group-title="Free_TV"tvg-logo="https://www.doohdbox.com/assets/201707141414362135901185.jpg",AMARIN TV
-http://210.4.150.104/stream/5195e80fe1ed0/playlist.m3u8
+#EXTINF:-1 group-title="Free_TV"tvg-logo="https://www.doohdbox.com/assets/201707141414362135901185.jpg",AMARIN TV_3bb
+http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza63_amarintvhd_live1.stream/playlist.m3u8?username=vnnSwQ7sfgUaTrsjmWmUOXAJFid94Gbo&password=TeQc5dqGGBFenln3ymO0ySGZZfvpWhBE
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ib/180630071444.png",bright tv
 http://live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist.m3u8
 
@@ -44,8 +44,14 @@ https://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunk
 #EXTINF:-1, tvg-logo="http://www.wezatv.com/images/ch7.png",BBTV CH 7
 https://bbtvalive-a.bugaboo.tv/liveedgech7/_definst_/smil:auto.smil/chunklist_b2200000_sleng.m3u8
 
-
-
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_dailymotion
+https://www.dailymotion.com/embed/video/k7KnbDPalNddQqrJq1J?autoPlay=1
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_dailymotion
+https://stream-02.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_ed2t0Hlpp5JOGpQJq46K6A)/dm/3/x6rz4t7/s/live-2.m3u8
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_adintrend
+https://c0.adintrend.tv/live/ch0/i/ch0i.m3u8?sid=cjeZDEyZDVlMmJjZTRjOGNkNjUzMQNjlhNDcwNzQwY2JjZjFj
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_3bb
+http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=Wx0qy2L1P9V3KWmHPORvyZWVdnNuoW0a&password=KEmetvC0Irp0e5m8SjX5SPbL4KEUUrds
 
 
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch104.gif",one1_seesantv
@@ -2268,30 +2274,65 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1,HBO2
 http://161.0.157.50/PLTV/88888888/224/3221227026/01.m3u8
 
-
+#EXTINF:-1,CNBC_vn
+http://118.71.67.73:8889/udp/225.1.1.227:30120
 #EXTINF:-1,ASIAN FOOD CHANNEL
-http://14.244.193.64:4022/rtp/232.84.1.115:10236
+http://118.71.67.73:8889/udp/225.1.2.9:30120
 #EXTINF:-1,ASIAN FOOD CHANNEL HD
-http://14.244.193.64:4022/rtp/232.84.2.129:9570
-#EXTINF:-1,DA VINCI LEARNING HD
-http://14.244.193.64:4022/rtp/232.84.2.131:9582
-#EXTINF:-1,DISCOVERY ASIA
-http://14.244.193.64:4022/rtp/232.84.2.53:10528
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://14.244.193.64:4022/rtp/232.84.1.1:7980
-#EXTINF:-1,NAT GEO PEOPLE HD
-http://14.244.193.64:4022/rtp/232.84.1.76:8430
-#EXTINF:-1,Da Vinci Learning
-http://14.244.193.64:4022/rtp/232.84.1.108:10224
-#EXTINF:-1,Nat Geo People
-http://14.244.193.64:4022/rtp/232.84.2.121:8376
+http://118.71.67.73:8889/udp/225.1.1.198:30120
+#EXTINF:-1,ASIAN FOOD CHANNEL HD
+http://118.71.67.73:8889/udp/225.1.2.98:30120
+#EXTINF:-1,BBC EARTH
+http://118.71.67.73:8889/udp/225.1.2.24:30120
+#EXTINF:-1,BBC LIFESTYLE
+http://118.71.67.73:8889/udp/225.1.2.52:30120
+#EXTINF:-1,Da Vinci Learning HD
+http://118.71.67.73:8889/udp/225.1.1.197:30120
+#EXTINF:-1,Da Vinci Learning HD
+http://118.71.67.73:8889/udp/225.1.2.253:30120
+#EXTINF:-1,Discovery Asia HD
+http://118.71.67.73:8889/udp/225.1.2.222:30120
+#EXTINF:-1,Discovery Asia HD
+http://118.71.67.73:8889/udp/225.1.2.223:30120
+#EXTINF:-1,BBC Earth (HD 4Mbps)
+http://118.71.67.73:8889/udp/225.1.2.25:30120
+#EXTINF:-1,afc asian food channel (FPT Play)
+http://118.71.67.73:8889/udp/225.1.4.36:30120
+#EXTINF:-1,BBC earth (FPT Play)
+http://118.71.67.73:8889/udp/225.1.4.21:30120
+#EXTINF:-1,BBC lifestyle (FPT Play)
+http://118.71.67.73:8889/udp/225.1.4.23:30120
+#EXTINF:-1,Da Vinci/DIVA??? (FPT Play)_vn
+http://118.71.67.73:8889/udp/225.1.4.38:30120
 
-#EXTINF:-1,ASIAN FOOD CHANNEL HD_vn
-http://mytv.tranvinh.tk:6868/rtp/232.84.2.129:9570
+#EXTINF:-1,PL:BBC EARTH
+http://thenew.tv:8000/Olga123/Olga321/57340
+#EXTINF:-1,PL: BBC Earth HD
+http://thenew.tv:8000/Olga123/Olga321/58757
+#EXTINF:-1,PL: Da Vinci Learning
+http://thenew.tv:8000/Olga123/Olga321/58740
+
+#EXTINF:-1,AFC
+http://14.174.5.133:9981/stream/channelid/1953526777
+#EXTINF:-1,Asian Food Channel
+http://14.174.5.133:9981/stream/channelid/2146205443
+#EXTINF:-1,Da Vinci Learning
+http://14.174.5.133:9981/stream/channelid/1073538170
 #EXTINF:-1,DA VINCI LEARNING HD
-http://mytv.tranvinh.tk:6868/rtp/232.84.2.131:9582
-#EXTINF:-1,discovery_vn
-http://mytv.tranvinh.tk:6868/rtp/232.84.2.53:10528?auth=zarin:RJsKR
+http://14.174.5.133:9981/stream/channelid/1377669466
+#EXTINF:-1,ASIAN FOOD CHANNEL HD
+http://14.174.5.133:9981/stream/channelid/540241924
+#EXTINF:-1,NATGEO PEOPLE HD
+http://14.174.5.133:9981/stream/channelid/970480339
+#EXTINF:-1,GMM25
+http://14.174.5.133:9981/stream/channelid/1186687664
+#EXTINF:-1,TNN24
+http://14.174.5.133:9981/stream/channelid/1894345625
+#EXTINF:-1,PPTV HD
+http://14.174.5.133:9981/stream/channelid/738682077
+
+
+
 
 #EXTINF:-1,BBC Lifetsyle
 http://188.35.9.12:21111/udp/164j
@@ -2301,11 +2342,7 @@ http://s1.electru.biz:8080/timothy.shannon60@gmail.com/06hxDuw13L/26163
 #EXTINF:-1,CA | DOCUMENTARY
 http://s1.electru.biz:8080/timothy.shannon60@gmail.com/06hxDuw13L/39985
 
-#EXTINF:-1,Your Money_Aus
-http://124.188.2.167:9981/stream/channelid/297147180
 
-#EXTINF:-1,MY.HD:MY.Docu.Box.HD
-http://startimes-iptv.ddns.net:8000/live/StaRImESKL/mpLKJuY.BVDmld/69.ts
 
 
 #EXTINF:-1,CNEX
