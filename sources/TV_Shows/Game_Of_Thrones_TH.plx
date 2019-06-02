@@ -40,7 +40,7 @@ type=video
 name=
 thumb=
 date=
-URL=https://lh3.googleusercontent.com/sN8lnfjDR0IcK2MGm2J49IOMoXDNGHVrdyoec0Zoppupmajavr4AQu7fbgE-5lf_ERAPdJWugHhlrqW1gaFA3x9h3fv27t4KvcttPlnLqmqG2MTTE_I-3CUZp7d_gEGREcgLECzyBg=m18
+URL=
 
 
 
@@ -48,11 +48,15 @@ type=video
 name=
 thumb=
 date=
-URL=https://streaming.ewiotse904ga.bid/127.0.0.1/playlist.m3u8?ggdomain=eHh4&ggvideo=eHh4&cookie=eHh4&link=LzQ2LzdlLzQ2N2U3MzI1ZWFlODE5YjY3MmI3MjlhN2JiOTk5NGM0LTcyMC5tcDQ=
+URL=
 
 
 
-
+type=video
+name=Game of Thrones: The Last Watch (2019) [COLOR=FF00FF00]720p.web.h264-memento_SeeHD[/COLOR]
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qpuNPi06IdqqZdRunRRSOl65RS.jpg
+date=2019-05-31
+URL=https://openload.co/f/qnKpncD6NDM/game.of.thrones.s08e00.the.last.watch.720p.web.h264-memento_SeeHD.mkv.mp4
 
 
 
@@ -68,17 +72,6 @@ name=The Story So Far_2018
 thumb=https://image.tmdb.org/t/p/w227_and_h127_bestv2/gDJoLFcizTNzwanGxAmzjShNIfB.jpg
 date=2019-04-14
 URL=https://openload.co/f/xWUJCR34Gc8/Game.Of.Thrones.The.Story.So.Far.2018.720p.HDTV.x264-PLUTONiUM.mkv.mp4
-
-
-
-
-
-type=video
-name=Game of Thrones: The Last Watch (2019) [COLOR=FF00FF00]720p.web.h264-memento_SeeHD[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qpuNPi06IdqqZdRunRRSOl65RS.jpg
-date=2019-05-31
-URL=https://openload.co/f/qnKpncD6NDM/game.of.thrones.s08e00.the.last.watch.720p.web.h264-memento_SeeHD.mkv.mp4
-
 
 
 
