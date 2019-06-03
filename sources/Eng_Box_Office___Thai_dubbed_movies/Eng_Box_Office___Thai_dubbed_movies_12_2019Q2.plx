@@ -96,10 +96,10 @@ date=2019-01-03
 URL=https://drive.google.com/file/d/1nPgP-e0B_ovLmZlo-36ugOy7McLHH2no/preview
 
 type=video
-name=Captain Marvel 2019 1080p BluRay 1600MB DD5 1 x264-GalaxyRG 
+name=
 thumb=
 date=2019-01-03
-URL=https://vidoza.net/l0lusd06arbl.html
+URL=
 
 type=video
 name=
@@ -112,10 +112,11 @@ URL=https://drive.google.com/file/d/1XrgTIY3JpLoKGreu5If6pxs6mDiN28Ur/view
 
 
 type=video
-name=Captain Marvel 2019 1080p BluRay AAC-RARBG 
+name=Captain Marvel 2019 1080p BluRay AC3 x264-MkvCage 
 thumb=
 date=2019-04-24
-URL=https://vidoza.net/kyjj79xbqkv0.html
+URL=https://vidoza.net/qagrqh28f274.html	Captain Marvel 2019 1080p BluRay AC3 x264-MkvCage
+
 
 
 
@@ -1340,18 +1341,7 @@ URL=https://openload.co/f/v-LRMzLWRes/Captive_State_2019_1080p_Bluray_x264_%E2%8
 #https://openload.co/f/b5EghTHx6nE/Captive_State_2019_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
 #https://openload.co/f/tMVT-UhniW4/Captive.State.2019.720p.BluRay_SeeHD.mp4
 
-type=video
-name=Captain Marvel (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg
-date=2019-06-02
-URL=https://openload.co/f/bB3nzLZRDas/Captain.Marvel.2019.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/PFMIsWid9o4/Captain_Marvel_%282019%291080p_BluRay_x264-SPARKS_Ganool.mkv.mp4
-#https://openload.co/f/AwYqHCaouLY/Captain.Marvel.2019.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/dP_UElxAjJQ/Captain_Marvel_2019_1080p_Bluray_DD5.1_x264-GalaxyRG.mp4
-#https://openload.co/f/xTDiYA0oahI/Captain_Marvel_2019_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
-#https://openload.co/f/aOVhzSqHaL8/Captain_Marvel_2019_1080p_BRRip_6CH_2.4GB_%E2%80%93_MkvCage.mp4
-#https://openload.co/f/bDdn4BRkvUs/Captain_Marvel_2019_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
-#https://openload.co/f/V-e8Mu2_ziU/Captain.Marvel.2019.HDTC.x264.AC3-ETRG.mp4
+
 
 type=video
 name=100 Things (2018) [COLOR=FF00FF00]GER BR 1080p[/COLOR] | TMDB-72
@@ -2276,16 +2266,7 @@ date=2019-04-09
 URL=https://openload.co/f/xBNDA9X2ptU/Hopelessly.Devout.2018.SPANISH.1080p.BluRay.x264-HANDJOB.mkv.mp4
 #https://openload.co/f/6SWvqN4XnW0/Hopelessly.Devout.2018.SPANISH.1080p.BluRay.H264.AAC-VXT.mp4
 
-type=video
-name=Arizona (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-56
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzeoTO2GoOvnBsYGxE4iJq1hrc8.jpg
-date=2019-04-09
-URL=https://openload.co/f/vTS3Tw_ee8o/Arizona.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://uptobox.com/u0eb6c80425e
-#https://www.rapidvideo.com/e/FVX13PGAVY
-#https://openload.co/embed/ntKC2EXVSoU/ARIZONABD72.Ganol.st.mkv.mp4
-#https://openload.co/f/RH32EuFdNXI/Arizona_%282018%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
-#https://openload.co/f/vTS3Tw_ee8o/Arizona.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
 
 type=video
 name=Churchill's Secret (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
@@ -13524,12 +13505,78 @@ URL=
 type=video
 name=
 thumb=
-date=2019-05-20
+date=2019-06-03
 URL=
 
 
 
 
+
+
+
+
+
+
+
+
+type=video
+name=Captain Marvel (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg
+date=2019-06-02
+URL=https://openload.co/f/bB3nzLZRDas/Captain.Marvel.2019.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/PFMIsWid9o4/Captain_Marvel_%282019%291080p_BluRay_x264-SPARKS_Ganool.mkv.mp4
+#https://openload.co/f/AwYqHCaouLY/Captain.Marvel.2019.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/dP_UElxAjJQ/Captain_Marvel_2019_1080p_Bluray_DD5.1_x264-GalaxyRG.mp4
+#https://openload.co/f/xTDiYA0oahI/Captain_Marvel_2019_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+#https://openload.co/f/aOVhzSqHaL8/Captain_Marvel_2019_1080p_BRRip_6CH_2.4GB_%E2%80%93_MkvCage.mp4
+#https://openload.co/f/bDdn4BRkvUs/Captain_Marvel_2019_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+#https://openload.co/f/V-e8Mu2_ziU/Captain.Marvel.2019.HDTC.x264.AC3-ETRG.mp4
+type=video
+name=Captain Marvel (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg
+date=2019-06-03
+URL=https://openload.co/f/T7TTqPXtZvc/CAPTAIN_MARVEL_%282019%29%E0%B8%81%E0%B8%B1%E0%B8%9B%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A7%E0%B8%A5.mp4
+
+
+type=video
+name=Café Funiculi Funicula (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-66
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MbRPfsRPyKIQnpLgIpBzksiuM1.jpg
+date=2019-06-03
+URL=
+type=video
+name=Café Funiculi Funicula (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MbRPfsRPyKIQnpLgIpBzksiuM1.jpg
+date=2019-06-03
+URL=https://openload.co/f/4-xzrEI1244/CAFE_FUNICULI_FUNICULA_%282018%29%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B9%81%E0%B8%9F%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99.mp4
+
+
+type=video
+name=Arizona (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-56
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzeoTO2GoOvnBsYGxE4iJq1hrc8.jpg
+date=2019-04-09
+URL=https://openload.co/f/vTS3Tw_ee8o/Arizona.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/u0eb6c80425e
+#https://www.rapidvideo.com/e/FVX13PGAVY
+#https://openload.co/embed/ntKC2EXVSoU/ARIZONABD72.Ganol.st.mkv.mp4
+#https://openload.co/f/RH32EuFdNXI/Arizona_%282018%29720p_BluRay_x264-ROVERS.Ganool.mkv.mp4
+#https://openload.co/f/vTS3Tw_ee8o/Arizona.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+type=video
+name=Arizona (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzeoTO2GoOvnBsYGxE4iJq1hrc8.jpg
+date=2019-06-03
+URL=https://openload.co/f/CEzZGqi7DMU/ARIZONA_%282018%29%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B9%82%E0%B8%8B%E0%B8%99%E0%B8%B2.mp4
+
+
+type=video
+name=The Perfection (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPDe68PDsgIGMs6wdJLtcwVVxA7.jpg
+date=2019-06-03
+URL=
+type=video
+name=The Perfection (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPDe68PDsgIGMs6wdJLtcwVVxA7.jpg
+date=2019-06-03
+URL=https://openload.co/f/kUaMGnaQM_k/THE_PERFECTION_%282018%29%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87.mp4
 
 
 type=video
@@ -13675,6 +13722,7 @@ name=Tornado Girl (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/guIb39VIq7Y9cOV7DEpWl9xiY1y.jpg
 date=2019-05-20
 URL=https://openload.co/f/Vkmcb9s0Pq4/TORNADO_GIRL_%282017%29_%E0%B8%89%E0%B9%88%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81_%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%A7%E0%B8%B5%E0%B9%8A%E0%B8%94%E0%B8%A7%E0%B8%B4%E0%B9%89%E0%B8%A7%E0%B8%A7%E0%B8%A7.mp4
+#https://openload.co/f/Trp_rmIOGkE/TORNADO_GIRL_%282017%29%E0%B8%89%E0%B9%88%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%81_%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%A7%E0%B8%B5%E0%B9%8A%E0%B8%94%E0%B8%A7%E0%B8%B4%E0%B9%89%E0%B8%A7%E0%B8%A7%E0%B8%A7.mp4
 
 
 type=video

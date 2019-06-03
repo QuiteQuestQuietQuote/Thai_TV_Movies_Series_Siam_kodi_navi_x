@@ -47,10 +47,13 @@ https://bbtvalive-a.bugaboo.tv/liveedgech7/_definst_/smil:auto.smil/chunklist_b2
 #EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD_3bb
 http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcastwowza63_pptvhd_live1.stream/playlist.m3u8?username=PTFvmqGfLgTFl6HpVaoIeeZEmWMlkyEX&password=nihQNWt0dNGChmyriedBfz8gMap99Eld
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_3bb
-http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=BPDbhfy5uukmODvAgW2AE65zFCUyWlzm&password=g5Hu66arh77cpQ8tLOpABxhcbjCkkR8r
+http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=BRQYQBXBRWcc7w2vi6LQrPj4EwhvBEJ7&password=x1yU4VfAZzCt3Pjkg82bWkxyHDV2iKtF
 #EXTINF:-1 group-title="Movie" tvg-logo="http://www.thaiptv.com/img/monopluslogo.png",MONO Plus+_3bb
 http://110.164.95.230:1935/Edge_Cloudiptv_Authen/cloudiptv_monoplus_live1.stream/playlist.m3u8?username=0ccuCF7ueOu6wBnS7yhTLmHSlnYlhSph&password=REsp6A5OZVJDOFXiYIUFRvW0IjNiv1La
 
+
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_dailymotion
+https://www.dailymotion.com/video/k5ZFS3knYNpqePrJq1J
 
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch104.gif",one1_seesantv
 http://live.seesantv.com/live/chone1/playlist.m3u8
@@ -1445,8 +1448,7 @@ rtmp://125.227.27.196/385214775/tv/ttv11
 rtmp://125.227.27.196/385214775/tv/ttv12
 #EXTINF:-1,French_rtsp
 rtsp://ss1.firestormmedia.tv:1935/ingest_cellcast/encoder31?channelID=252
-#EXTINF:-1,livesexlatinas_rtsp
-rtsp://51.254.198.110:1935/leved/livesexlatinas
+
 
 
 
@@ -2392,8 +2394,6 @@ http://m-iptv.net:6204/ali24/ali24/13502
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH
 http://185.79.92.234:8001/1:0:1:96:19:1:FFFF0000:0:0:0
 
-#EXTINF:-1,BBC Earth_kor
-http://58.229.138.182:9981/stream/channelid/253613633
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_HD
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/143751
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
@@ -2423,6 +2423,8 @@ http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?
 http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
 http://61.216.10.122:4046/VideoInput/play.ts
+#EXTINF:-1,BBC Earth_kor
+http://58.229.138.182:9981/stream/channelid/253613633
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD
 http://123.249.76.157:10018/bysid/73
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
@@ -2453,7 +2455,7 @@ http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/142618
 #EXTINF:-1,wsci
 http://203.154.243.32:8088/live/wsci/index.m3u8
 #EXTINF:-1  tvg-logo="http://www.tv.bunjerd.com/static/image/tv_radio/tv/saradee.jpg",PSI_3bb
-http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcast73_psi_live1.stream/playlist.m3u8?username=ydnGJ7ZN0T9MFBSfbUc4VfavU0Pu9MEm&password=GBQwzPeVurXTAGJ9WZwlmh1kTtvnh0uN
+http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcast73_psi_live1.stream/playlist.m3u8?username=FAmNzLBxvIBauswQfHxodyrgRUAbPQwk&password=ytPTI7P9L1S7PHg7DWXLRTRylvMYS2ve
 #EXTINF:-1, tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/27.jpg" tvg-name=“PSI SARADEE” , PSI SARADEE
 http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 
@@ -2499,9 +2501,9 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 https://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=abcvf6f7c3skho4fkbj2demm10
 #EXTINF:-1,Anime
 https://5790d294af2dc.streamlock.net/8232/8232/playlist.m3u8
-#EXTINF:-1,Dreamworks
+#EXTINF:-1,Dreamworks_dibo
 http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214869
-#EXTINF:-1,Fox Action
+#EXTINF:-1,Fox Action_dibo
 http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214830
 
 #EXTINF:-1,Movies_HOT
@@ -2535,14 +2537,22 @@ http://79.135.77.75:81/udp/239.195.0.88:1234
 http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,Penthouse_gold
 http://212.111.17.130:8001/1:0:19:3728:C8E:3:EB0000:0:0:0:
+#EXTINF:-1,livesexlatinas_rtsp
+rtsp://51.254.198.110:1935/leved/livesexlatinas
+#EXTINF:-1,XCHIMERA
+http://iptvgreenbox.com:8000/Rasimismail/ziFTZgkcYV/15788
+#EXTINF:-1,lesbian
+http://iptvgreenbox.com:8000/Rasimismail/ziFTZgkcYV/15792
+#EXTINF:-1,lesbian
+http://iptvgreenbox.com:8000/Rasimismail/ziFTZgkcYV/15795
+#EXTINF:-1,soft
+http://iptvgreenbox.com:8000/Rasimismail/ziFTZgkcYV/15796
 #EXTINF:-1,FrenchLover
 http://91.204.234.3:8000/play/a00p/index.m3u8?auth=zarin:RJsKR
 #EXTINF:-1,Dorcel
 http://188.93.238.43:8000/play/a05j
 #EXTINF:-1,playboy
 http://95.216.187.219:8080/135-playboy
-#EXTINF:-1,playboy_red
-http://158.69.23.62:80/704/704/5735
 #EXTINF:-1,playboy_red
 http://178.21.21.164:8000/play/a11k/index.m3u8
 #EXTINF:-1,lesbian_rtmp
@@ -2553,6 +2563,8 @@ rtmp://62.210.55.60/stream3xVJ/3x06
 rtmp://62.210.55.60/stream3xVJ/3x07
 #EXTINF:-1,Hentai_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x12
+#EXTINF:-1,redtraffic_milf
+http://live.redtraffic.xyz/milf.m3u8
 #EXTINF:-1,redtraffic_threesome
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1,redtraffic_blowjob
@@ -2666,6 +2678,7 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_persik
 http://persik.by/stream/2944/263250/10003.m3u8
+http://persik.by/stream/2130/401056/10003.m3u8
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00a
 http://185.93.3.83:5014/play/a00a
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart_178
@@ -2705,6 +2718,8 @@ http://164.40.161.46:8002/play/s5
 http://164.40.161.46:8002/play/s4
 #EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS_HD
 http://1.230.255.66:9981/stream/channelid/521869881
+#EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS_HD
+http://92.43.140.249/s24/04.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
