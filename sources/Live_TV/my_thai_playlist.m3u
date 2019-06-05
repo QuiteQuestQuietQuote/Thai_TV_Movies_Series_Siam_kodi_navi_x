@@ -16,6 +16,8 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 http://live.nationtv.tv/hls/ntv_th_hd.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png",now 26_1080p
 http://nationstream.nationgroup.com/hls/th_high.m3u8
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png",now 26
+https://free.fwstream.com:1215/freelive-edge/_definst_/nowtv.smil/playlist.m3u8?akVCQjdxNkZwMjJLTTdzMktOblBoeTRrWFVsNm5LZ2d0eVlzNnJDQTk4c3FzTERvMnpWbFNmVms2cVBqcDFmQWpaUlVYQkNrL2RyZGlvVHBlYVNvSkNyR1liZkcrTHRtbTNNSHh4MlhyVEczKy8xS1VhR1JTYkd0dzMrY0RQeFF4VlFwRmJWdDh3a1V1ZU1rQllubjFOQ0k0SGxMUTF0ZWtFTnR2eHYyR2lpZGF0WjhZcDN4NDhrajhJckZsa1ox,5fe78542e91ca8ef06cd8b0603a80c04
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_3bb
 http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.stream/playlist.m3u8?username=casG36MryQIqyL7YVdbV5pQcyEmeExUE&password=elV2iHMkaNPQgU5afVkrKm3QyYpbsqqu
 
@@ -30,8 +32,8 @@ https://edge1a.v2h-cdn.com/appt3/five.stream_720p/playlist.m3u8
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD
 http://183.182.100.184/live/pptvthai/playlist.m3u8
-#EXTINF:-1 group-title="Free_TV"tvg-logo="https://www.doohdbox.com/assets/201707141414362135901185.jpg",AMARIN TV_3bb
-http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza63_amarintvhd_live1.stream/playlist.m3u8?username=vnnSwQ7sfgUaTrsjmWmUOXAJFid94Gbo&password=TeQc5dqGGBFenln3ymO0ySGZZfvpWhBE
+#EXTINF:-1 group-title="Free_TV"tvg-logo="https://www.doohdbox.com/assets/201707141414362135901185.jpg",AMARIN TV
+http://210.4.150.104/stream/5195e80fe1ed0/playlist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ib/180630071444.png",bright tv
 http://live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist.m3u8
 
@@ -39,6 +41,8 @@ http://live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist.m3u8
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1151192974.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25
 http://gmmservice.radical-enlighten.com/gmm/smil:gmm25.smil/playlist.m3u8
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_dailymotion
+https://www.dailymotion.com/embed/video/k7KnbDPalNddQqrJq1J?autoPlay=1
 #EXTINF:-1 tvg-logo="https://f.ptcdn.info/850/055/000/p34ku3wz46HXMTLoA1d-o.png",mcot_family
 https://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w829553404_b2000000.m3u8
 #EXTINF:-1, tvg-logo="http://www.wezatv.com/images/ch7.png",BBTV CH 7
@@ -54,6 +58,9 @@ http://110.164.95.230:1935/Edge_Cloudiptv_Authen/cloudiptv_monoplus_live1.stream
 
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_dailymotion
 https://www.dailymotion.com/video/k5ZFS3knYNpqePrJq1J
+
+#EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-m0CQiNgIFsE/WdLYrwlVJvI/AAAAAAAAAGQ/LN6pm_WcDJ49YL-0K_ytg9L2yWfZw4r6ACLcBGAs/s200/009.png",Spring News (Full HD)
+https://free.fwstream.com:1215/freelive-edge/_definst_/springnews.smil/playlist.m3u8?ZG1tMmFPVG93SnlMTjlTNlRPWngxa2c5cUdwaFE3N2ZvbU1RZURYcmJjRmJZZnhzZnBJa29ZK1hxcGVFUXI4VFczWFh0OWl2Um9RanVXUGRqWkszQkNhM1kvMW1Icmh1MTUycCtqMXdhK0l2cS94dmQ1L1ViVDVSZVJVOW4wd0p6OU4xSmg4VUFaTWpFT2tkaGNNK2w4Q3VsY0pEeWo2Y0x2SE0wYVNkOTA0TWQ2cFF6Q1FSWjZJdjcrYVpHV2Jj,5fe78542e91ca8ef06cd8b0603a80c04
 
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch104.gif",one1_seesantv
 http://live.seesantv.com/live/chone1/playlist.m3u8
@@ -2637,8 +2644,6 @@ http://59.120.242.104:9000/live/live7.m3u8
 
 #EXTINF:-1,phone vision
 http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3049003136-10057-A-0-1_1200.m3u8
-#EXTINF:-1,phone vision2
-https://pull-hls-l6.ixigua.com/normal/stream-6698298059383868167_or4/index.m3u8
 #EXTINF:-1,JAV_ok2
 http://ok2.se:8000/31yBdNLZ9J/uE96bnqNd1/6612
 #EXTINF:-1,JAV_ok2_80
@@ -2689,7 +2694,6 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_persik
 http://persik.by/stream/2944/263250/10003.m3u8
-http://persik.by/stream/2130/401056/10003.m3u8
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00a
 http://185.93.3.83:5014/play/a00a
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart_178
