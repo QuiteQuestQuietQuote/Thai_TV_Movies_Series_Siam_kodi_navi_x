@@ -16,8 +16,6 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 http://live.nationtv.tv/hls/ntv_th_hd.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png",now 26_1080p
 http://nationstream.nationgroup.com/hls/th_high.m3u8
-#EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png",now 26
-https://free.fwstream.com:1215/freelive-edge/_definst_/nowtv.smil/playlist.m3u8?akVCQjdxNkZwMjJLTTdzMktOblBoeTRrWFVsNm5LZ2d0eVlzNnJDQTk4c3FzTERvMnpWbFNmVms2cVBqcDFmQWpaUlVYQkNrL2RyZGlvVHBlYVNvSkNyR1liZkcrTHRtbTNNSHh4MlhyVEczKy8xS1VhR1JTYkd0dzMrY0RQeFF4VlFwRmJWdDh3a1V1ZU1rQllubjFOQ0k0SGxMUTF0ZWtFTnR2eHYyR2lpZGF0WjhZcDN4NDhrajhJckZsa1ox,5fe78542e91ca8ef06cd8b0603a80c04
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_3bb
 http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.stream/playlist.m3u8?username=casG36MryQIqyL7YVdbV5pQcyEmeExUE&password=elV2iHMkaNPQgU5afVkrKm3QyYpbsqqu
 
@@ -41,12 +39,12 @@ http://live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist.m3u8
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1151192974.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25
 http://gmmservice.radical-enlighten.com/gmm/smil:gmm25.smil/playlist.m3u8
-#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_dailymotion
-https://www.dailymotion.com/embed/video/k7KnbDPalNddQqrJq1J?autoPlay=1
 #EXTINF:-1 tvg-logo="https://f.ptcdn.info/850/055/000/p34ku3wz46HXMTLoA1d-o.png",mcot_family
 https://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w829553404_b2000000.m3u8
 #EXTINF:-1, tvg-logo="http://www.wezatv.com/images/ch7.png",BBTV CH 7
 https://bbtvalive-a.bugaboo.tv/liveedgech7/_definst_/smil:auto.smil/chunklist_b2200000_sleng.m3u8
+#EXTINF:-1  tvg-logo="https://teevee-hd.com/img/ch5fhd.png",5 FULLHD
+http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD_3bb
 http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcastwowza63_pptvhd_live1.stream/playlist.m3u8?username=PTFvmqGfLgTFl6HpVaoIeeZEmWMlkyEX&password=nihQNWt0dNGChmyriedBfz8gMap99Eld
@@ -56,11 +54,6 @@ http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.st
 http://110.164.95.230:1935/Edge_Cloudiptv_Authen/cloudiptv_monoplus_live1.stream/playlist.m3u8?username=0ccuCF7ueOu6wBnS7yhTLmHSlnYlhSph&password=REsp6A5OZVJDOFXiYIUFRvW0IjNiv1La
 
 
-#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_dailymotion
-https://www.dailymotion.com/video/k5ZFS3knYNpqePrJq1J
-
-#EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-m0CQiNgIFsE/WdLYrwlVJvI/AAAAAAAAAGQ/LN6pm_WcDJ49YL-0K_ytg9L2yWfZw4r6ACLcBGAs/s200/009.png",Spring News (Full HD)
-https://free.fwstream.com:1215/freelive-edge/_definst_/springnews.smil/playlist.m3u8?ZG1tMmFPVG93SnlMTjlTNlRPWngxa2c5cUdwaFE3N2ZvbU1RZURYcmJjRmJZZnhzZnBJa29ZK1hxcGVFUXI4VFczWFh0OWl2Um9RanVXUGRqWkszQkNhM1kvMW1Icmh1MTUycCtqMXdhK0l2cS94dmQ1L1ViVDVSZVJVOW4wd0p6OU4xSmg4VUFaTWpFT2tkaGNNK2w4Q3VsY0pEeWo2Y0x2SE0wYVNkOTA0TWQ2cFF6Q1FSWjZJdjcrYVpHV2Jj,5fe78542e91ca8ef06cd8b0603a80c04
 
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch104.gif",one1_seesantv
 http://live.seesantv.com/live/chone1/playlist.m3u8
@@ -968,7 +961,6 @@ http://iheart-totiptv.better-than.tv:8080/iheart/860605f7e16d4c6cacef72ef02ffa2c
 
 #EXTINF:-1 group-title="True Vision"tvg-logo="https://www.iheartmovie.com/assets/20170905182124609167228.jpg",BABY TV
 http://iheart-totiptv.better-than.tv:8080/iheart/7773f3cef0334a28ad248552ea63d9e7.m3u8?
-
 
 
 
@@ -2315,7 +2307,16 @@ http://183.81.95.109:8889/udp/225.1.4.38:30120
 
 
 
-
+#EXTINF:-1,BBC EARTH | HD
+http://nettv-xcruiser.com:8000/t6GMkWsZnB/f0zozhVQH7/59793
+#EXTINF:-1,CA: CNBC WORLD | HD
+http://thenew.tv:8000/6ca7GgzNW/4FtTkH5Ue/5092
+#EXTINF:-1,CA: COOKING CHANNEL | HD
+http://thenew.tv:8000/6ca7GgzNW/4FtTkH5Ue/5085
+#EXTINF:-1,Uk | Bbc Earth
+http://red-apk.com:8080/arnixfree/120718/1140
+#EXTINF:-1,BG- 24 KITCHEN
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/14362
 
 
 #EXTINF:-1,CNEX
@@ -2472,7 +2473,7 @@ http://203.154.243.89:2037
 http://203.154.243.89:1423
 #EXTINF:-1,fhdy_CH_rtmp
 rtmp://58.200.131.2:1935/livetv/fhdy
-#EXTINF:-1,star_movies/
+#EXTINF:-1,star_movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
 #EXTINF:-1,S_GEM
 http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
@@ -2506,8 +2507,13 @@ http://113.196.177.81:8898/VideoInput/play.ts
 http://113.196.177.81:8895/VideoInput/play.ts
 #EXTINF:-1,cinemax
 http://212.111.17.130:8001/1:0:1:30a:C94:3:EB0000:0:0:0:
-#EXTINF:-1,star_movies/
-http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
+
+#EXTINF:-1,iFlixFantastic4K TV UHD (2160P)(3840×2160)
+http://aiptv.pro:8000/owm/owm/21693
+#EXTINF:-1,iFlixAction4K TV UHD (2160P)(3840×2160)
+http://aiptv.pro:8000/owm/owm/21695
+#EXTINF:-1,iFlixAnimasyon4K TV UHD (2160P)(3840×2160)
+http://aiptv.pro:8000/owm/owm/21694
 
 
 
@@ -2523,14 +2529,18 @@ http://79.135.77.75:81/udp/239.195.0.88:1234
 
 #EXTINF:-1,Penthouse_quickies
 http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
-#EXTINF:-1,Penthouse_gold
+#EXTINF:-1,Penthouse_gold28
 http://212.111.17.130:8001/1:0:19:3728:C8E:3:EB0000:0:0:0:
+#EXTINF:-1,Penthouse_gold27
+http://212.111.17.130:8001/1:0:19:3727:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,Penthouse_passion
 http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/1073/index.m3u8
 #EXTINF:-1,livesexlatinas_rtsp
 rtsp://51.254.198.110:1935/leved/livesexlatinas
 #EXTINF:-1,Russian Night
-http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/147/index.m3u8
+http://46.32.68.167/s/live/708/100.0.0.5/1/0.m3u8
+#EXTINF:-1,playboy_b
+http://46.32.68.167/s/live/707/100.0.0.5/1/0.m3u8
 #EXTINF:-1,playboy
 http://95.216.187.219:8080/135-playboy
 #EXTINF:-1,playboy_red
@@ -2732,8 +2742,7 @@ http://92.43.140.249/s65/04.m3u8
 
 
 
-#EXTINF:-1,US: CNBC HD
-http://dibo.live:8080/KjnNUhwATC/f1H1OnJVNk/153001
+
 
 
 
