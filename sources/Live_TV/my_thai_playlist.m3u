@@ -77,7 +77,56 @@ http://main-a.for-our.info:8081/tv1/ch5.m3u8
 
 
 
-
+#EXTINF:-1,Thai PBS
+http://103.246.16.248:9981/stream/channelid/680274838
+#EXTINF:-1,3 Family
+http://103.246.16.248:9981/stream/channelid/2121466973
+#EXTINF:-1,MCOT Kids
+http://103.246.16.248:9981/stream/channelid/1816937211
+#EXTINF:-1,TNN24
+http://103.246.16.248:9981/stream/channelid/516492816
+#EXTINF:-1,new) TV
+http://103.246.16.248:9981/stream/channelid/967785245
+#EXTINF:-1,Spring News
+http://103.246.16.248:9981/stream/channelid/1529352339
+#EXTINF:-1,Bright TV
+http://103.246.16.248:9981/stream/channelid/316740789
+#EXTINF:-1,Voice TV
+http://103.246.16.248:9981/stream/channelid/1087044995
+#EXTINF:-1,Nation TV
+http://103.246.16.248:9981/stream/channelid/1438423509
+#EXTINF:-1,Workpoint TV
+http://103.246.16.248:9981/stream/channelid/1025661469
+#EXTINF:-1,True4U
+http://103.246.16.248:9981/stream/channelid/1516014889
+#EXTINF:-1,GMM Channel
+http://103.246.16.248:9981/stream/channelid/859098932
+#EXTINF:-1,Now26
+http://103.246.16.248:9981/stream/channelid/140091307
+#EXTINF:-1,CH8 (RS)
+http://103.246.16.248:9981/stream/channelid/1187545936
+#EXTINF:-1,3SD
+http://103.246.16.248:9981/stream/channelid/1374080752
+#EXTINF:-1,Mono29
+http://103.246.16.248:9981/stream/channelid/1930370395
+#EXTINF:-1,MCOT HD
+http://103.246.16.248:9981/stream/channelid/1282912562
+#EXTINF:-1,ONE HD
+http://103.246.16.248:9981/stream/channelid/619150290
+#EXTINF:-1,ThairathTV
+http://103.246.16.248:9981/stream/channelid/757509618
+#EXTINF:-1,3HD
+http://103.246.16.248:9981/stream/channelid/47247140
+#EXTINF:-1,Amarin TV
+http://103.246.16.248:9981/stream/channelid/415670626
+#EXTINF:-1,CH7 HD
+http://103.246.16.248:9981/stream/channelid/422263852
+#EXTINF:-1,PPTV HD
+http://103.246.16.248:9981/stream/channelid/2122275590
+#EXTINF:-1,TV5
+http://103.246.16.248:9981/stream/channelid/442240710
+#EXTINF:-1,NBT HD
+http://103.246.16.248:9981/stream/channelid/1059050404
 
 
 
@@ -2307,28 +2356,9 @@ http://183.81.95.109:8889/udp/225.1.4.38:30120
 
 
 
-#EXTINF:-1,BBC EARTH | HD
-http://nettv-xcruiser.com:8000/t6GMkWsZnB/f0zozhVQH7/59793
-#EXTINF:-1,CA: CNBC WORLD | HD
-http://thenew.tv:8000/6ca7GgzNW/4FtTkH5Ue/5092
-#EXTINF:-1,CA: COOKING CHANNEL | HD
-http://thenew.tv:8000/6ca7GgzNW/4FtTkH5Ue/5085
-#EXTINF:-1,Uk | Bbc Earth
-http://red-apk.com:8080/arnixfree/120718/1140
-#EXTINF:-1,BG- 24 KITCHEN
-http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/14362
 
 
-#EXTINF:-1,CNEX
-http://61.58.60.230:9319/live/257.m3u8
-#EXTINF:-1,CHN_Docu
-http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.mayday.is/img/showcase_docurama/dcr-branding-full.png" group-title="USA",Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History
-http://91.90.253.66:8080/CH620_std/index.m3u8
 
 #EXTINF:-1,Fish Channel
 http://161.0.157.38/PLTV/88888888/224/3221226811/index.m3u8
@@ -2382,12 +2412,18 @@ http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8
 #EXTINF:-1,CHN
 http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8
 
+#EXTINF:-1,CNEX
+http://61.58.60.230:9319/live/257.m3u8
+#EXTINF:-1,CHN_Docu
+http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.mayday.is/img/showcase_docurama/dcr-branding-full.png" group-title="USA",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History
+http://91.90.253.66:8080/CH620_std/index.m3u8
 #EXTINF:-1,Viasat History
 https://hls.telekabel.com.mk:1936/live/101/2500-def.m3u8
 #EXTINF:-1,Viasat Explore
 https://hls.telekabel.com.mk:1936/live/111/2500-def.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_kor
-http://1.233.136.3:9981/stream/channelid/921893992
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_iliketot
 http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_iliketot
@@ -2400,10 +2436,14 @@ http://58.229.138.182:9981/stream/channelid/253613633
 http://175.113.154.14:9981/stream/channelid/577058598
 #EXTINF:-1,BBC Earth_kor3
 http://1.233.136.3:9981/stream/channelid/1242002460
+#EXTINF:-1,BBC Earth_kor4
+http://175.125.208.40:9981/stream/channelid/363486014
+#EXTINF:-1,BBC Earth_kor5
+http://50.116.21.20:9981/stream/channelid/363486014
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD
 http://123.249.76.157:10018/bysid/73
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
-http://175.125.208.40:9981/stream/channelid/363486014
+http://222.237.36.175:9981/stream/channelid/363486014
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth (HD 4Mbps)
 http://183.81.95.109:8889/udp/225.1.2.25:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN
@@ -2421,24 +2461,22 @@ http://183.81.95.109:8889/udp/225.1.1.198:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN
 http://183.81.95.109:8889/udp/225.1.2.98:30120
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://14.231.226.189:6868/rtp/232.84.2.131:9582
+http://14.182.21.240:4022/rtp/232.84.2.131:9582
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp
-http://14.231.226.189:6868/rtp/232.84.2.129:9570
+http://14.182.21.240:4022/rtp/232.84.2.129:9570
 
-#EXTINF:-1,Uk | Bbc Earth
-http://red-apk.com:8080/arnixfree/120718/1140
-#EXTINF:-1,Uk | Discovery Science Hd
-http://red-apk.com:8080/arnixfree/120718/1127
-#EXTINF:-1,UK: BBC Earth
-http://dibo.live:8080/KjnNUhwATC/f1H1OnJVNk/143751
-#EXTINF:-1,UK: BBC Entertainment HD
-http://dibo.live:8080/KjnNUhwATC/f1H1OnJVNk/86281
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_dibo
-http://dibo.live:8080/KjnNUhwATC/f1H1OnJVNk/214804
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH__dibo
-http://dibo.live:8080/KjnNUhwATC/f1H1OnJVNk/142618
-#EXTINF:-1,caz_pt
-https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+
+#EXTINF:-1,Q_History
+http://95.107.132.104/out/u/362_1.m3u8
+#EXTINF:-1,NO:BBC Earth HD
+http://portal.guzeliptv.com:8000/erenyildirim/12345/26024
+#EXTINF:-1,Is- Yes Docu HD
+http://194.88.107.140:6204/AFEOdvNlBf/3zrFg7Q96M/8666
+#EXTINF:-1,Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+
+
+
 
 #EXTINF:-1,wsci
 http://203.154.243.32:8088/live/wsci/index.m3u8
@@ -2541,6 +2579,8 @@ rtsp://51.254.198.110:1935/leved/livesexlatinas
 http://46.32.68.167/s/live/708/100.0.0.5/1/0.m3u8
 #EXTINF:-1,playboy_b
 http://46.32.68.167/s/live/707/100.0.0.5/1/0.m3u8
+#EXTINF:-1,playboy_play
+http://178.21.21.164:8000/play/a11k/index.m3u8
 #EXTINF:-1,playboy
 http://95.216.187.219:8080/135-playboy
 #EXTINF:-1,playboy_red
@@ -2639,8 +2679,10 @@ http://ok2.se:8000/DTKwiaWRTW/5Z1DrWGzoi/72394
 
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp79.135
 http://79.135.77.75:81/udp/239.195.0.88:1234
-#EXTINF:-1,Ibiza dvr
-https://cdn1.ibizastream.biz:441/lfh/1/chunks_dvr.m3u8
+#EXTINF:-1,Ibiza dvr1
+https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
+#EXTINF:-1,Ibiza dvr2
+https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
 #EXTINF:-1,Ibiza TV1_119
 http://119.81.168.227:1935/lfh/Stream1/playlist.m3u8
 #EXTINF:-1,Ibiza TV2_119
@@ -2742,8 +2784,8 @@ http://92.43.140.249/s65/04.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_rsc
+https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8
 
 
 
