@@ -2397,8 +2397,6 @@ http://m-iptv.net:6204/ali24/ali24/13502
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH
 http://185.79.92.234:8001/1:0:1:96:19:1:FFFF0000:0:0:0
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_HD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/143751
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
 http://125.227.210.37:8896/VideoInput/play.ts
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
@@ -2437,13 +2435,14 @@ http://175.113.154.14:9981/stream/channelid/577058598
 #EXTINF:-1,BBC Earth_kor3
 http://1.233.136.3:9981/stream/channelid/1242002460
 #EXTINF:-1,BBC Earth_kor4
-http://175.125.208.40:9981/stream/channelid/363486014
-#EXTINF:-1,BBC Earth_kor5
-http://50.116.21.20:9981/stream/channelid/363486014
+http://175.119.121.140:9981/stream/channelid/363486014
+
+#EXTINF:-1,IN: Sony Bbc Earth HD*
+http://xtfreeme.zapto.org:8091/sandra/sandra/36619
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD
 http://123.249.76.157:10018/bysid/73
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
-http://222.237.36.175:9981/stream/channelid/363486014
+http://175.125.208.40:9981/stream/channelid/363486014
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth (HD 4Mbps)
 http://183.81.95.109:8889/udp/225.1.2.25:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN
@@ -2466,16 +2465,24 @@ http://14.182.21.240:4022/rtp/232.84.2.131:9582
 http://14.182.21.240:4022/rtp/232.84.2.129:9570
 
 
-#EXTINF:-1,Q_History
-http://95.107.132.104/out/u/362_1.m3u8
-#EXTINF:-1,NO:BBC Earth HD
-http://portal.guzeliptv.com:8000/erenyildirim/12345/26024
-#EXTINF:-1,Is- Yes Docu HD
-http://194.88.107.140:6204/AFEOdvNlBf/3zrFg7Q96M/8666
-#EXTINF:-1,Food52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-
-
+#EXTINF:-1,UK:  Cbeebies HD    [Main]
+http://163.172.105.42:8091/john/john1/26032
+#EXTINF:-1,UK: Cbeebies HD [Main]
+http://xtfreeme.zapto.org:8091/sandra/sandra/26032
+#EXTINF:-1,DISCOVERY SCIENCE HEVC
+http://nettv-xcruiser.com:8000/ihIGeomIfE/PhtVQ9mMCD/66855
+#EXTINF:-1,Veronica /DisneyXD 4K
+http://nettv-xcruiser.com:8000/ihIGeomIfE/PhtVQ9mMCD/52293
+#EXTINF:-1,Film Europe INT 4K
+http://nettv-xcruiser.com:8000/ihIGeomIfE/PhtVQ9mMCD/52284
+#EXTINF:-1,Film1 Action 4K
+http://nettv-xcruiser.com:8000/ihIGeomIfE/PhtVQ9mMCD/52282
+#EXTINF:-1,Film1 Drama 4K
+http://nettv-xcruiser.com:8000/ihIGeomIfE/PhtVQ9mMCD/52281
+#EXTINF:-1,Film1 Family 4K
+http://nettv-xcruiser.com:8000/ihIGeomIfE/PhtVQ9mMCD/52280
+#EXTINF:-1,Film1 Premiere 4K
+http://nettv-xcruiser.com:8000/ihIGeomIfE/PhtVQ9mMCD/52283
 
 
 #EXTINF:-1,wsci
@@ -2533,8 +2540,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u
 https://5790d294af2dc.streamlock.net/8232/8232/playlist.m3u8
 
 
-#EXTINF:-1,Movies_HOT
-http://v2.myowntv.org/content/35026/index.m3u8
 #EXTINF:-1,Movies_HHZT
 http://220.158.149.14:9999/live/TV00000000000000000081@HHZT;LIVE?auth=zarin:RJsKR
 #EXTINF:-1,hollywood HD
@@ -2546,12 +2551,6 @@ http://113.196.177.81:8895/VideoInput/play.ts
 #EXTINF:-1,cinemax
 http://212.111.17.130:8001/1:0:1:30a:C94:3:EB0000:0:0:0:
 
-#EXTINF:-1,iFlixFantastic4K TV UHD (2160P)(3840×2160)
-http://aiptv.pro:8000/owm/owm/21693
-#EXTINF:-1,iFlixAction4K TV UHD (2160P)(3840×2160)
-http://aiptv.pro:8000/owm/owm/21695
-#EXTINF:-1,iFlixAnimasyon4K TV UHD (2160P)(3840×2160)
-http://aiptv.pro:8000/owm/owm/21694
 
 
 
@@ -2784,8 +2783,6 @@ http://92.43.140.249/s65/04.m3u8
 
 
 
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_rsc
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8
 
 
 
