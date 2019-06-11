@@ -2465,24 +2465,22 @@ http://14.182.21.240:4022/rtp/232.84.2.131:9582
 http://14.182.21.240:4022/rtp/232.84.2.129:9570
 
 
-#EXTINF:-1,UK:  Cbeebies HD    [Main]
-http://163.172.105.42:8091/john/john1/26032
-#EXTINF:-1,UK: Cbeebies HD [Main]
-http://xtfreeme.zapto.org:8091/sandra/sandra/26032
-#EXTINF:-1,DISCOVERY SCIENCE HEVC
-http://nettv-xcruiser.com:8000/ihIGeomIfE/PhtVQ9mMCD/66855
-#EXTINF:-1,Veronica /DisneyXD 4K
-http://nettv-xcruiser.com:8000/ihIGeomIfE/PhtVQ9mMCD/52293
-#EXTINF:-1,Film Europe INT 4K
-http://nettv-xcruiser.com:8000/ihIGeomIfE/PhtVQ9mMCD/52284
-#EXTINF:-1,Film1 Action 4K
-http://nettv-xcruiser.com:8000/ihIGeomIfE/PhtVQ9mMCD/52282
-#EXTINF:-1,Film1 Drama 4K
-http://nettv-xcruiser.com:8000/ihIGeomIfE/PhtVQ9mMCD/52281
-#EXTINF:-1,Film1 Family 4K
-http://nettv-xcruiser.com:8000/ihIGeomIfE/PhtVQ9mMCD/52280
-#EXTINF:-1,Film1 Premiere 4K
-http://nettv-xcruiser.com:8000/ihIGeomIfE/PhtVQ9mMCD/52283
+
+
+#EXTINF:-1,CA | BBC EARTH HD
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/26163
+#EXTINF:-1,UK: BBC Earth
+http://qipo.live:8080/1MX084zfc9/T1TVpRl10e/143751
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1,wsci
