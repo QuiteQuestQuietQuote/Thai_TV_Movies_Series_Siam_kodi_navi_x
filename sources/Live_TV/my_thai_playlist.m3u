@@ -2378,8 +2378,6 @@ rtmp://118.97.96.17:1935/discover/afc_4
 http://61.58.60.194:9000/live/176ch.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE
 http://185.27.116.54:8081/livestream/natpepole/chunks.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_rtmp
 rtmp://118.97.96.17:1935/discover/natgeopeople_3
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_rtmp
@@ -2392,8 +2390,6 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 http://79.119.107.49:8001/1:0:1:78B7:2C5:600:E080000:0:0:0:
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI 
 http://85.66.46.167:8001/1:0:1:77F2:2C3:600:E080000:0:0:0:
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI 
-http://m-iptv.net:6204/ali24/ali24/13502
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH
 http://185.79.92.234:8001/1:0:1:96:19:1:FFFF0000:0:0:0
 
@@ -2426,6 +2422,8 @@ https://hls.telekabel.com.mk:1936/live/111/2500-def.m3u8
 http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_iliketot
 http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
 http://61.216.10.122:4046/VideoInput/play.ts
 #EXTINF:-1,BBC Earth_kor1
@@ -2434,11 +2432,9 @@ http://58.229.138.182:9981/stream/channelid/253613633
 http://175.113.154.14:9981/stream/channelid/577058598
 #EXTINF:-1,BBC Earth_kor3
 http://1.233.136.3:9981/stream/channelid/1242002460
-#EXTINF:-1,BBC Earth_kor4
-http://175.119.121.140:9981/stream/channelid/363486014
 
 #EXTINF:-1,IN: Sony Bbc Earth HD*
-http://xtfreeme.zapto.org:8091/sandra/sandra/36619
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/36619
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD
 http://123.249.76.157:10018/bysid/73
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
@@ -2460,26 +2456,39 @@ http://183.81.95.109:8889/udp/225.1.1.198:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN
 http://183.81.95.109:8889/udp/225.1.2.98:30120
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://14.182.21.240:4022/rtp/232.84.2.131:9582
+http://14.244.193.64:4022/rtp/232.84.2.131:9582
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp
-http://14.182.21.240:4022/rtp/232.84.2.129:9570
+http://14.244.193.64:4022/rtp/232.84.2.129:9570
 
+#EXTINF:-1 group-title="Q" tvg-logo="https://i.imgur.com/NsN3Ox9.png",Asian Food Channel _smaxplay
+http://smaxplay.ddns.net:4022/rtp/232.84.2.129:9570
+#EXTINF:-1 group-title="Q" tvg-logo="https://i.imgur.com/NsN3Ox9.png",Asian Food Channel _mytv
+http://mytv.tranvinh.tk:6868/rtp/232.84.2.129:9570
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN
+http://1.53.87.194:4022/udp/225.1.2.98:30120
 
-
+#EXTINF:-1, BBC Earth HD
+http://51.15.21.98:8898/mejasalomo/241fdb7b7a/17918
+#EXTINF:-1,MyHD Douc Box HD
+http://51.15.21.98:8898/mejasalomo/241fdb7b7a/12452
+#EXTINF:-1,MyHD Discovery SC HD
+http://51.15.21.98:8898/mejasalomo/241fdb7b7a/13357
+#EXTINF:-1,MyHD BBC First HD
+http://51.15.21.98:8898/mejasalomo/241fdb7b7a/13355
+#EXTINF:-1,MyHD Planet Earth HD
+http://51.15.21.98:8898/mejasalomo/241fdb7b7a/13590
+#EXTINF:-1,OSN Discovery Science HD
+http://51.15.21.98:8898/mejasalomo/241fdb7b7a/18007
+#EXTINF:-1,OSN History Channel HD
+http://51.15.21.98:8898/mejasalomo/241fdb7b7a/18003
 
 #EXTINF:-1,CA | BBC EARTH HD
 http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/26163
-#EXTINF:-1,UK: BBC Earth
-http://qipo.live:8080/1MX084zfc9/T1TVpRl10e/143751
+#EXTINF:-1,CA | DOCUMENTARY
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/39985
 
-
-
-
-
-
-
-
-
+#EXTINF:-1,USA*: BETTER HEALTH
+http://esuntv.ddns.net:80/12newes0909yh4r/3IMPuoI6r1/47087
 
 
 
