@@ -2433,10 +2433,9 @@ http://175.113.154.14:9981/stream/channelid/577058598
 #EXTINF:-1,BBC Earth_kor3
 http://1.233.136.3:9981/stream/channelid/1242002460
 #EXTINF:-1,BBC Earth_kor4
-http://175.113.171.62:9000/stream/channelid/363486014
+http://106.252.225.250:9981/stream/channelid/363486014
 
-#EXTINF:-1,IN: Sony Bbc Earth HD*
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/36619
+
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD
 http://123.249.76.157:10018/bysid/73
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
@@ -2462,27 +2461,35 @@ http://14.244.193.64:4022/rtp/232.84.2.131:9582
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp
 http://14.244.193.64:4022/rtp/232.84.2.129:9570
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN118
-http://118.71.67.73:8889/udp/225.1.1.198:30120
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN1
-http://1.53.87.194:4022/udp/225.1.1.198:30120
 
-#EXTINF:-1,DocuBox 
-http://93.138.120.249:4001/play/a00u/index.m3u8 
-#EXTINF:-1,Doku TV 
-http://93.138.120.249:4001/play/a00r/index.m3u8 
-#EXTINF:-1,UK: BBC Beebies
-http://51.15.21.98:8898/fqnxipz/4383902a73/17896
-#EXTINF:-1,SE: BBC Earth
-http://nano.germany4k.eu:80/adnan01/04082018/10176
+#EXTINF:-1,AU: SBS Food HD
+http://clientbox.tv:80/Zdocy2bPM9/NB3xkLiy6J/50374
+#EXTINF:-1,IT: Nat Geo People HD
+http://clientbox.tv:80/Zdocy2bPM9/NB3xkLiy6J/3294
+
+#EXTINF:-1,DocuBox
+http://93.138.120.249:4001/play/a00u/index.m3u8
+#EXTINF:-1,Doku TV
+http://93.138.120.249:4001/play/a00r/index.m3u8
+#EXTINF:-1,Planet Earth
+http://93.138.120.249:4001/play/a00v/index.m3u8
+#EXTINF:-1,Viasat Explore
+http://93.138.120.249:4001/play/a00t/index.m3u8
+#EXTINF:-1,Viasat History
+http://93.138.120.249:4001/play/a00s/index.m3u8
+
 #EXTINF:-1,CA | BBC EARTH HD
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/26163
-#EXTINF:-1,CA | DIY HD
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/31529
+http://p5.giffy.be:8080/will2019/will2019/26163
 #EXTINF:-1,CA | DOCUMENTARY
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/39985
+http://p5.giffy.be:8080/will2019/will2019/39985
 
+#EXTINF:-1,My- DocuBox HD
+http://linux-app.tv:6204/80246319/mhamad-gazal20175610/3238
+#EXTINF:-1,My- Planet Earth HD
+http://linux-app.tv:6204/80246319/mhamad-gazal20175610/7585
 
+#EXTINF:-1,KLT
+http://61.58.60.230:9319/live/205.m3u8
 
 
 #EXTINF:-1,wsci
