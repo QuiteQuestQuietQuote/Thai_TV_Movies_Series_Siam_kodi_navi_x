@@ -2041,16 +2041,11 @@ http://123orca.com:25461/Michael1/Michael1/3761
 http://5.254.66.150:25461/adel2018/adel2018/3761
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_newschat_electric
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_pltv
 http://161.0.157.9/PLTV/88888888/224/3221227005/01.m3u8
 #EXTINF:-1,cnbc
 http://161.0.157.9:80/PLTV/88888888/224/3221227005/index.m3u8
-#EXTINF:-1,UK: CNBC
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/104258
-#EXTINF:-1,UK | CNBC HD
-http://s1.platinumhostingtech.com:80/jonny/jonny/24017
+
 
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
 https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
@@ -2427,14 +2422,30 @@ http://qipo.live:8080/aPa6utKQKh/frIYBEHTfe/212302
 #EXTINF:-1,PL: Da Vinci Learning
 http://qipo.live:8080/aPa6utKQKh/frIYBEHTfe/69551
 
+#EXTINF:-1,CNBC HD
+http://ok2.se:8000/a02shnw0iK/tSxt8Cw4EH/364
+#EXTINF:-1,FOX NEWS BUSINESS
+http://ok2.se:8000/a02shnw0iK/tSxt8Cw4EH/4600
 
+#EXTINF:-1,CA| CNBC WORLD HD
+http://topiptv.net:5890/ismael/ismael/26810
 
+#EXTINF:-1,UK: BBC EARTH HD
+http://cms.iptvboard.me:89/noviportal/6565619822aS1A/6790
 
+#EXTINF:-1,De- Genius Plus
+http://linux-app.tv:6204/OjFJowFXsn/9fFcoVoKgg/12190
 
+#EXTINF:-1,24 Kitchen HD NL
+http://cms.iptvboard.me:89/noviportal/6565619822aS1A/1043
 
+#EXTINF:-1,CA | BBC EARTH HD
+http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/26163
+#EXTINF:-1,CA | DOCUMENTARY
+http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/39985
 
-
-
+#EXTINF:-1,N24 DOKU
+http://86.56.70.210:9981/stream/channelid/486772904
 #EXTINF:-1,DE: N24 DOKU
 http://79.124.49.242:1958/ilbay/ilbay/22365
 #EXTINF:-1,DE:: N24 DOKU
@@ -2520,7 +2531,10 @@ http://78.29.1.66/live/nu_art/copy/playlist.m3u8
 
 
 
-
+#EXTINF:-1,nuart_test
+http://77.75.120.222:7000/nuart
+#EXTINF:-1,Meiden Holland
+http://globiptv.com:8000/CLIENTW982/KzqKaK6rwg/1461
 #EXTINF:-1,Penthouse_quickies
 http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,Penthouse_gold28
@@ -2529,6 +2543,8 @@ http://212.111.17.130:8001/1:0:19:3728:C8E:3:EB0000:0:0:0:
 http://212.111.17.130:8001/1:0:19:3727:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,Penthouse_passion
 http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/1073/index.m3u8
+#EXTINF:-1,Penthouse_passion2
+http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
 #EXTINF:-1,frenchlover
 http://78.29.1.66/live/frenchlover/copy/playlist.m3u8
 #EXTINF:-1,livesexlatinas_rtsp
@@ -2681,6 +2697,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Miami-TV.jpg",miamitv
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Miami-TV.jpg",miamitvROKU
+http://23.111.128.190:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
 
 
 
@@ -2741,14 +2759,18 @@ https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_hd
 http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_HD
+https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_world
 http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC
 http://92.43.140.249/s65/04.m3u8
 
 
-
-
+#EXTINF:-1,NOTICIAS: CNBC World
+http://tvpremiumhd.club/lista-gratuita/213019/on/live.php?id=161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
+#EXTINF:-1,ENTRETENIMINETO: CNBC (USA)
+http://tvpremiumhd.club/lista-gratuita/213019/on/lives.php?id=1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8
 
 
 
