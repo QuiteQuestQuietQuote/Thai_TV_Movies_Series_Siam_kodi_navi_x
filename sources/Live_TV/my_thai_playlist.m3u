@@ -2045,6 +2045,8 @@ http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221227005/01.m3u8
 #EXTINF:-1,cnbc
 http://161.0.157.9:80/PLTV/88888888/224/3221227005/index.m3u8
+#EXTINF:-1,NOTICIAS: CNBC World
+http://tvpremiumhd.club/lista-gratuita/213019/on/live.php?id=161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 
 
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
@@ -2410,46 +2412,32 @@ http://14.244.193.64:4022/rtp/232.84.2.129:9570
 
 #EXTINF:-1,KLT
 http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1,N24 DOKU
+http://86.56.70.210:9981/stream/channelid/486772904
 
-#EXTINF:-1,UK: BBC Earth
-http://qipo.live:8080/aPa6utKQKh/frIYBEHTfe/143751
-#EXTINF:-1,PL: BBC Earth HD
-http://qipo.live:8080/aPa6utKQKh/frIYBEHTfe/74118
-#EXTINF:-1,PL: BBC FIRST
-http://qipo.live:8080/aPa6utKQKh/frIYBEHTfe/214779
-#EXTINF:-1,PL: BBC lifestyle Polska HD
-http://qipo.live:8080/aPa6utKQKh/frIYBEHTfe/212302
-#EXTINF:-1,PL: Da Vinci Learning
-http://qipo.live:8080/aPa6utKQKh/frIYBEHTfe/69551
+#EXTINF:-1,DaVinci Learning
+http://188.26.25.141:8000/play/a00c/index.m3u8
 
-#EXTINF:-1,CNBC HD
-http://ok2.se:8000/a02shnw0iK/tSxt8Cw4EH/364
-#EXTINF:-1,FOX NEWS BUSINESS
-http://ok2.se:8000/a02shnw0iK/tSxt8Cw4EH/4600
+#EXTINF:-1,Sony BBC Earth HD (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74632
+#EXTINF:-1,Sony BBC Earth HD Tamil (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74631
+#EXTINF:-1,Sony BBC Earth HD Telugu (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74630
 
-#EXTINF:-1,CA| CNBC WORLD HD
-http://topiptv.net:5890/ismael/ismael/26810
-
-#EXTINF:-1,UK: BBC EARTH HD
-http://cms.iptvboard.me:89/noviportal/6565619822aS1A/6790
-
-#EXTINF:-1,De- Genius Plus
-http://linux-app.tv:6204/OjFJowFXsn/9fFcoVoKgg/12190
-
-#EXTINF:-1,24 Kitchen HD NL
-http://cms.iptvboard.me:89/noviportal/6565619822aS1A/1043
+#EXTINF:-1,Spektrum HD
+http://78.92.47.121:7522/upnp/channelstream/38
+#EXTINF:-1,BBC Earth HD
+http://78.92.47.121:7522/upnp/channelstream/39
 
 #EXTINF:-1,CA | BBC EARTH HD
 http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/26163
+#EXTINF:-1,CA | DIY HD
+http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/31529
 #EXTINF:-1,CA | DOCUMENTARY
 http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/39985
 
-#EXTINF:-1,N24 DOKU
-http://86.56.70.210:9981/stream/channelid/486772904
-#EXTINF:-1,DE: N24 DOKU
-http://79.124.49.242:1958/ilbay/ilbay/22365
-#EXTINF:-1,DE:: N24 DOKU
-http://live.darkside-iptv.com:8080/380195b36f82/zX7gyZyINq/18899
+
 
 
 #EXTINF:-1,wsci
@@ -2531,10 +2519,9 @@ http://78.29.1.66/live/nu_art/copy/playlist.m3u8
 
 
 
-#EXTINF:-1,nuart_test
-http://77.75.120.222:7000/nuart
-#EXTINF:-1,Meiden Holland
-http://globiptv.com:8000/CLIENTW982/KzqKaK6rwg/1461
+
+#EXTINF:-1,istanbul
+http://istanbul1453.xyz:8080/zeynel/021118/16940
 #EXTINF:-1,Penthouse_quickies
 http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,Penthouse_gold28
@@ -2653,6 +2640,18 @@ http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/6612
 http://ok2.se:8000/DTKwiaWRTW/5Z1DrWGzoi/72394
 
 
+#EXTINF:-1,Ibiza_ok1
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/72394
+#EXTINF:-1,JAV_ok1
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/6612
+#EXTINF:-1,Ibiza_ok2
+http://ok2.se:8000/IrRIYP0kWt/dcXSHuUmV8/72394
+#EXTINF:-1,JAV_ok2
+http://ok2.se:8000/IrRIYP0kWt/dcXSHuUmV8/6612
+#EXTINF:-1,Ibiza_ok3
+http://ok2.se:8000/6BhKbf6beI/RKtMhgeX6A/72394
+#EXTINF:-1,JAV_ok3
+http://ok2.se:8000/6BhKbf6beI/RKtMhgeX6A/6612
 
 
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp79.135
@@ -2767,10 +2766,8 @@ http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 http://92.43.140.249/s65/04.m3u8
 
 
-#EXTINF:-1,NOTICIAS: CNBC World
-http://tvpremiumhd.club/lista-gratuita/213019/on/live.php?id=161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
-#EXTINF:-1,ENTRETENIMINETO: CNBC (USA)
-http://tvpremiumhd.club/lista-gratuita/213019/on/lives.php?id=1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8
+
+
 
 
 
