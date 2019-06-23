@@ -2395,6 +2395,8 @@ http://183.81.95.109:8889/udp/225.1.2.24:30120
 http://183.81.95.109:8889/udp/225.1.2.52:30120
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning
 https://hls.telekabel.com.mk:1936/live/121/2500-def.m3u8
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DaVinci Learning_PL
+http://188.26.25.141:8000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN
 http://183.81.95.109:8889/udp/225.1.1.197:30120
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN
@@ -2415,29 +2417,16 @@ http://61.58.60.230:9319/live/205.m3u8
 #EXTINF:-1,N24 DOKU
 http://86.56.70.210:9981/stream/channelid/486772904
 
-#EXTINF:-1,DaVinci Learning
-http://188.26.25.141:8000/play/a00c/index.m3u8
+#EXTINF:-1,HistoryLab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 
-#EXTINF:-1,Sony BBC Earth HD (IN)
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74632
-#EXTINF:-1,Sony BBC Earth HD Tamil (IN)
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74631
-#EXTINF:-1,Sony BBC Earth HD Telugu (IN)
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74630
+#EXTINF:-1,DE: Genius Plus
+http://painel.soeu.kim:8080/sQ5tUOOuIO/lHQMhUMzFf/7586
 
-#EXTINF:-1,Spektrum HD
-http://78.92.47.121:7522/upnp/channelstream/38
-#EXTINF:-1,BBC Earth HD
-http://78.92.47.121:7522/upnp/channelstream/39
-
-#EXTINF:-1,CA | BBC EARTH HD
-http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/26163
-#EXTINF:-1,CA | DIY HD
-http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/31529
-#EXTINF:-1,CA | DOCUMENTARY
-http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/39985
-
-
+#EXTINF:-1,DAVINCILEARNING (RO)
+http://ok2.se:8000/305Ye4aB1Z/Na5YSyLiC4/77332
+#EXTINF:-1,BBC EARTH (RO)
+http://ok2.se:8000/305Ye4aB1Z/Na5YSyLiC4/77464
 
 
 #EXTINF:-1,wsci
@@ -2446,6 +2435,7 @@ http://203.154.243.32:8088/live/wsci/index.m3u8
 http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcast73_psi_live1.stream/playlist.m3u8?username=FAmNzLBxvIBauswQfHxodyrgRUAbPQwk&password=ytPTI7P9L1S7PHg7DWXLRTRylvMYS2ve
 #EXTINF:-1, tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/27.jpg" tvg-name=“PSI SARADEE” , PSI SARADEE
 http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+
 
 
 
@@ -2467,6 +2457,9 @@ rtmp://tv01.thaizatv.com/drm/movie1
 http://iliketot.dyndns.tv/63cbfb466fe644dda11a8e109611a5cd.m3u8
 #EXTINF:-1,CHN
 http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8
+
+#EXTINF:-1,hboth_fwiptv
+http://cloudlive-bl3.ddns.net:1936/transcoder_F1/hboth_fwiptv.stream/playlist.m3u8
 #EXTINF:-1,Movies_subth
 http://203.154.243.89:2037
 #EXTINF:-1,Movies_subth_dooseries_subth
@@ -2520,8 +2513,7 @@ http://78.29.1.66/live/nu_art/copy/playlist.m3u8
 
 
 
-#EXTINF:-1,istanbul
-http://istanbul1453.xyz:8080/zeynel/021118/16940
+
 #EXTINF:-1,Penthouse_quickies
 http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,Penthouse_gold28
@@ -2534,6 +2526,8 @@ http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/1073/index.m3u8
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
 #EXTINF:-1,frenchlover
 http://78.29.1.66/live/frenchlover/copy/playlist.m3u8
+#EXTINF:-1,Angel
+http://istanbul1453.xyz:8080/zeynel/021118/16940
 #EXTINF:-1,livesexlatinas_rtsp
 rtsp://51.254.198.110:1935/leved/livesexlatinas
 #EXTINF:-1,Russian Night
@@ -2634,24 +2628,22 @@ http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3
 http://ok2.se:8000/31yBdNLZ9J/uE96bnqNd1/6612
 #EXTINF:-1,JAV_ok2
 http://ok2.se:8000/DTKwiaWRTW/5Z1DrWGzoi/6612
+
 #EXTINF:-1,JAV_ok2_80
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/6612
-#EXTINF:-1,Ibiza_ok
-http://ok2.se:8000/DTKwiaWRTW/5Z1DrWGzoi/72394
+#EXTINF:-1,Ibiza_ok2_80
+http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/72394
 
 
-#EXTINF:-1,Ibiza_ok1
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/72394
-#EXTINF:-1,JAV_ok1
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/6612
-#EXTINF:-1,Ibiza_ok2
-http://ok2.se:8000/IrRIYP0kWt/dcXSHuUmV8/72394
-#EXTINF:-1,JAV_ok2
-http://ok2.se:8000/IrRIYP0kWt/dcXSHuUmV8/6612
-#EXTINF:-1,Ibiza_ok3
-http://ok2.se:8000/6BhKbf6beI/RKtMhgeX6A/72394
-#EXTINF:-1,JAV_ok3
-http://ok2.se:8000/6BhKbf6beI/RKtMhgeX6A/6612
+
+#EXTINF:-1,Ibiza1
+https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/playlist.m3u8
+#EXTINF:-1,Ibiza TV2_streamlock.net
+https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream2/playlist.m3u8
+#EXTINF:-1,Ibiza TV3_streamlock.net
+https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream3/playlist.m3u8
+#EXTINF:-1,Ibiza4
+https://5a2a51fc4cfde.streamlock.net/live/_definst_/Stream4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDE5IDM6MDQ6MTQgUE0maGFzaF92YWx1ZT0xWVRqbTRtUHljejd6a0NUbFZLaWF3PT0mdmFsaWRtaW51dGVzPTE4MCZpZD0xNTYxMzAyMjU0
 
 
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp79.135
@@ -2669,7 +2661,7 @@ http://119.81.168.227:1935/lfh/Stream4/playlist.m3u8
 #EXTINF:-1,Ibiza TV4_streamlock.net
 http://5a2a51fc4cfde.streamlock.net:1935/lfh/_definst_/Stream4/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV4_VIP
-http://ibiza-tv.1919hdtv.com:8880/lfh/Stream4/p1ay1ist.m3u8
+http://ibiza-tv.1919hdtv.com:8880/lfh/Stream4/playlist.m3u8
 #EXTINF:-1,Ibiza TV2_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_VIP
@@ -2765,7 +2757,8 @@ http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC
 http://92.43.140.249/s65/04.m3u8
 
-
+#EXTINF:-1,CNBC HD
+http://ok2.se:8000/gSI2JVKtjz/Vnf9wcSQq1/364
 
 
 

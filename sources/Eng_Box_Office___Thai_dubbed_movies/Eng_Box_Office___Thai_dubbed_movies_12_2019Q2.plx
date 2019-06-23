@@ -13657,6 +13657,66 @@ date=2019-06-03
 URL=https://openload.co/f/kUaMGnaQM_k/THE_PERFECTION_%282018%29%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87.mp4
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#43---2019-06-23
+
+
+
+
+
 type=video
 name=How to Train Your Dragon: The Hidden World (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZPZdFP2qo0cvfNTrUUNRXTW9AB.jpg
@@ -13980,7 +14040,8 @@ type=video
 name=Escape Plan 2: Hades (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6aVHV5Id47dlaEro9DsijzStIU.jpg
 date=2019-04-28
-URL=https://openload.co/f/cPqKD5oEvOQ/Escape_Plan_2%3A_Hades_%282018%29%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2_2.mp4
+URL=https://openload.co/f/VhsAJ7DSbi0/Escape_Plan_2%3A_Hades_%282018%29%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2_2.mp4
+#https://openload.co/f/cPqKD5oEvOQ/Escape_Plan_2%3A_Hades_%282018%29%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%84%E0%B8%B8%E0%B8%81%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%A2_2.mp4
 #https://streamango.com/f/dpsbpplmrbcdonpm/Escape_Plan_2_Hades_2018_2_
 
 
@@ -14001,7 +14062,8 @@ type=video
 name=Europe Raiders (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KvhLdMkRM44d6x87wedfkIvmEo.jpg
 date=2019-04-28
-URL=https://openload.co/f/m6ohJRPBGUo/Europe_Raiders_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B3%E0%B8%AD%E0%B8%B2%E0%B8%87_%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B9%80%E0%B8%97%E0%B8%81%E0%B8%A2%E0%B8%B8%E0%B9%82%E0%B8%A3%E0%B8%9B.mp4
+URL=https://openload.co/f/FuYHtEmW_W0/Europe_Raiders_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B3%E0%B8%AD%E0%B8%B2%E0%B8%87_%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%97%E0%B8%81%E0%B8%A2%E0%B8%B8%E0%B9%82%E0%B8%A3%E0%B8%9B.mp4
+#https://openload.co/f/m6ohJRPBGUo/Europe_Raiders_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B3%E0%B8%AD%E0%B8%B2%E0%B8%87_%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B9%80%E0%B8%97%E0%B8%81%E0%B8%A2%E0%B8%B8%E0%B9%82%E0%B8%A3%E0%B8%9B.mp4
 #https://openload.co/f/l3SNZ1BYN0I/Europe_Raiders_%282018%29%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AA%E0%B8%B3%E0%B8%AD%E0%B8%B2%E0%B8%87_%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B9%80%E0%B8%97%E0%B8%81%E0%B8%A2%E0%B8%B8%E0%B9%82%E0%B8%A3%E0%B8%9B_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
 
@@ -14215,7 +14277,8 @@ type=video
 name=Teen Titans Go! To the Movies (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiEuNw3Lg0PIPNUQ3PIWWElwGcY.jpg
 date=2019-04-11
-URL=https://openload.co/f/4KWuOrqFaB0/Teen_Titans_Go%21_To_the_Movies_%282018%29%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B9%84%E0%B8%97%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B9%8C_%E0%B9%82%E0%B8%81_%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99.mp4
+URL=https://openload.co/f/SGafeobw0As/Teen_Titans_Go%21_To_the_Movies_%282018%29%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B9%84%E0%B8%97%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B9%8C_%E0%B9%82%E0%B8%81_%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99.mp4
+#https://openload.co/f/4KWuOrqFaB0/Teen_Titans_Go%21_To_the_Movies_%282018%29%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B9%84%E0%B8%97%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B9%8C_%E0%B9%82%E0%B8%81_%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99.mp4
 
 
 type=video
@@ -14233,7 +14296,8 @@ type=video
 name=Iceman: The Time Traveler (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/enZENHd2gwVAw4sJKJxtJl1vJ09.jpg
 date=2019-04-11
-URL=https://openload.co/f/Cbwyq2M27hg/ICEMAN__THE_TIME_TRAVELER_%282018%29_%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_2.mp4
+URL=https://www.rapidvideo.com/e/G1TVQX6IOL&q=1080p
+#https://openload.co/f/Cbwyq2M27hg/ICEMAN__THE_TIME_TRAVELER_%282018%29_%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_2.mp4
 #https://www.rapidvideo.com/e/G1TVQX6IOL&q=1080p
 #https://openload.co/f/JEUFHrQ5Jl4/Iceman%3A_The_Time_Traveler_%282018%29%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://openload.co/f/YYL7n1E3PZs/Iceman%3A_The_Time_Traveler_%282018%29%E0%B9%84%E0%B8%AD%E0%B8%8B%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99_2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
@@ -14258,7 +14322,8 @@ type=video
 name=The 15:17 to Paris (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg
 date=2019-04-11
-URL=https://openload.co/f/A6BR2jlpOz0/THE_15_17_TO_PARIS_%282018%29_%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81_15_17.mp4
+URL=https://www.rapidvideo.com/e/G1XPHT2LLH&q=1080p
+#https://openload.co/f/A6BR2jlpOz0/THE_15_17_TO_PARIS_%282018%29_%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81_15_17.mp4
 #https://www.rapidvideo.com/e/G1XPHT2LLH&q=1080p
 #https://streamango.com/f/bmqeqqqfofrtcrfk/The_15_17_to_Paris_2018_The_15_17_to_Paris_2018_
 
@@ -14280,7 +14345,8 @@ type=video
 name=Downsizing (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg
 date=2019-04-11
-URL=https://openload.co/f/IHjVR4RYgj0/DOWNSIZING_%282017%29_%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%8B%E0%B8%AA%E0%B9%8C.mp4
+URL=https://www.rapidvideo.com/e/G1XPPD833Q&q=1080p
+#https://openload.co/f/IHjVR4RYgj0/DOWNSIZING_%282017%29_%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%8B%E0%B8%AA%E0%B9%8C.mp4
 #https://www.rapidvideo.com/e/G1XPPD833Q&q=1080p
 #https://streamango.com/f/fpfpdmrkderbnere/Downsizing_2017_
 
@@ -14299,7 +14365,8 @@ type=video
 name=Happy Death Day (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg
 date=2019-04-11
-URL=https://openload.co/f/j8a9KuQ2T7Q/HAPPY_DEATH_DAY_%282017%29_%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2_.mp4
+URL=https://www.rapidvideo.com/e/G1XL0MTZIF&q=1080p
+#https://openload.co/f/j8a9KuQ2T7Q/HAPPY_DEATH_DAY_%282017%29_%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2_.mp4
 #https://www.rapidvideo.com/e/G1XL0MTZIF&q=1080p
 #https://streamango.com/f/btlroalmepbsplcr/Happy_Death_Day_2017_
 
@@ -14320,7 +14387,8 @@ type=video
 name=Daddy's Home 2 (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg
 date=2019-04-11
-URL=https://openload.co/f/ZNvjdxthzgI/DADDY_S_HOME_2_%282017%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99_%28%E0%B8%95%E0%B8%B1%E0%B8%A7%29%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%AA%E0%B8%9A%E0%B8%84%E0%B8%B9%E0%B8%93_2.mp4
+URL=https://www.rapidvideo.com/e/G1XKWA9QFK&q=1080p
+#https://openload.co/f/ZNvjdxthzgI/DADDY_S_HOME_2_%282017%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99_%28%E0%B8%95%E0%B8%B1%E0%B8%A7%29%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%AA%E0%B8%9A%E0%B8%84%E0%B8%B9%E0%B8%93_2.mp4
 #https://www.rapidvideo.com/e/G1XKWA9QFK&q=1080p
 
 
@@ -14339,7 +14407,8 @@ type=video
 name=Pitch Perfect 3 (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg
 date=2019-04-11
-URL=https://openload.co/f/xQ2QmgOmqrA/PITCH_PERFECT_3_%282017%29_%E0%B8%8A%E0%B8%A1%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AA_%E0%B8%96%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%A1%E0%B8%84%E0%B9%8C%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%9D%E0%B8%B1%E0%B8%99_3.mp4
+URL=https://www.rapidvideo.com/e/G1XKW8KF38&q=1080p
+#https://openload.co/f/xQ2QmgOmqrA/PITCH_PERFECT_3_%282017%29_%E0%B8%8A%E0%B8%A1%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AA_%E0%B8%96%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%A1%E0%B8%84%E0%B9%8C%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%9D%E0%B8%B1%E0%B8%99_3.mp4
 #https://www.rapidvideo.com/e/G1XKW8KF38&q=1080p
 #https://streamango.com/f/sesdktemcdeaapak/Pitch_Perfect_3_2017_3_
 
@@ -14354,8 +14423,9 @@ URL=https://openload.co/f/-Sn1j6XJMz8/Rampant.2018.KOREAN.1080p.BluRay.H264.AAC-
 type=video
 name=Rampant (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8u0AKGj52SQeeKW4d56rWr2XLX.jpg
-date=2019-04-21
-URL=https://openload.co/f/M9ZnVK49VzE/Rampant_%282018%29%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87.mp4
+date=2019-06-23
+URL=https://streamango.com/f/lpqqnkspblksnoql/Rampant_Chang-gwol_2018_mp4
+#https://openload.co/f/M9ZnVK49VzE/Rampant_%282018%29%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87.mp4
 #https://openload.co/f/ZYUNYItdbgA/Rampant_%282018%29%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87.mp4
 #https://openload.co/f/F50fZoE0fog/Rampant_%282018%29%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 
