@@ -14,20 +14,17 @@
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV_1080p
 http://live.nationtv.tv/hls/ntv_th_hd.m3u8
-#EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png",now 26_1080p
-http://nationstream.nationgroup.com/hls/th_high.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_3bb
-http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.stream/playlist.m3u8?username=casG36MryQIqyL7YVdbV5pQcyEmeExUE&password=elV2iHMkaNPQgU5afVkrKm3QyYpbsqqu
-
-
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,1MCOT HD_mcot1080
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="http://www.thaiptv.com/img/thairathtv%20small.jpg",1Thairath TV_Thairath720
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="Free_TV" tvg-logo="http://mvtv.co.th/ios/icons/GIF/fivehd_final_140-140.gif",MVTV 5
-https://edge1a.v2h-cdn.com/appt3/five.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",NEW TV
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_3bb
+http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.stream/playlist.m3u8?username=casG36MryQIqyL7YVdbV5pQcyEmeExUE&password=elV2iHMkaNPQgU5afVkrKm3QyYpbsqqu
+#EXTINF:-1 group-title="Free_TV" tvg-logo="http://mvtv.co.th/ios/icons/GIF/fivehd_final_140-140.gif",MVTV 5
+https://edge1a.v2h-cdn.com/appt3/five.stream_720p/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 #EXTINF:-1 group-title="Free_TV"tvg-logo="https://www.doohdbox.com/assets/201707141414362135901185.jpg",AMARIN TV
@@ -70,7 +67,8 @@ http://27.254.130.64/live01/ch12.m3u8?p=
 http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_for-our
 http://main-a.for-our.info:8081/tv1/ch5.m3u8
-
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-SvFDD1sK2Bc/WdLYtY2u3FI/AAAAAAAAAGo/NrdDeictVEQabiy0MgnRbC2fbA6yrG27wCLcBGAs/s200/015.png",now 26_1080p
+http://nationstream.nationgroup.com/hls/th_high.m3u8
 
 
 
@@ -2072,8 +2070,7 @@ http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
 http://weblive.hebtv.com/live/Asianaction/index.m3u8
 #EXTINF:-1,VOA_CHN
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1,UREKA_RUS
-http://ott-cdn.ucom.am/s44/index.m3u8
+
 
 #EXTINF:-1,JAV_tvv_6_SonSee TV
 http://1.live1.tvvtvv.com/plus/59live.m3u8?id=live6
@@ -2358,6 +2355,8 @@ http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8
 http://61.58.60.230:9319/live/257.m3u8
 #EXTINF:-1,CHN_Docu
 http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
+#EXTINF:-1,UREKA_RUS
+http://ott-cdn.ucom.am/s44/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mayday.is/img/showcase_docurama/dcr-branding-full.png" group-title="USA",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History
@@ -2417,16 +2416,12 @@ http://61.58.60.230:9319/live/205.m3u8
 #EXTINF:-1,N24 DOKU
 http://86.56.70.210:9981/stream/channelid/486772904
 
-#EXTINF:-1,HistoryLab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,[ UK ] China History Channel
+http://omegapower.ddns.net:6923/amicomircogreco/Fuw9DXn9KV/31000
 
-#EXTINF:-1,DE: Genius Plus
-http://painel.soeu.kim:8080/sQ5tUOOuIO/lHQMhUMzFf/7586
 
-#EXTINF:-1,DAVINCILEARNING (RO)
-http://ok2.se:8000/305Ye4aB1Z/Na5YSyLiC4/77332
-#EXTINF:-1,BBC EARTH (RO)
-http://ok2.se:8000/305Ye4aB1Z/Na5YSyLiC4/77464
+
+
 
 
 #EXTINF:-1,wsci
@@ -2646,8 +2641,7 @@ https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream3/playlist.m3u8
 https://5a2a51fc4cfde.streamlock.net/live/_definst_/Stream4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDE5IDM6MDQ6MTQgUE0maGFzaF92YWx1ZT0xWVRqbTRtUHljejd6a0NUbFZLaWF3PT0mdmFsaWRtaW51dGVzPTE4MCZpZD0xNTYxMzAyMjU0
 
 
-#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp79.135
-http://79.135.77.75:81/udp/239.195.0.88:1234
+
 #EXTINF:-1,Ibiza dvr1
 https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
 #EXTINF:-1,Ibiza dvr2
@@ -2757,8 +2751,7 @@ http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC
 http://92.43.140.249/s65/04.m3u8
 
-#EXTINF:-1,CNBC HD
-http://ok2.se:8000/gSI2JVKtjz/Vnf9wcSQq1/364
+
 
 
 
