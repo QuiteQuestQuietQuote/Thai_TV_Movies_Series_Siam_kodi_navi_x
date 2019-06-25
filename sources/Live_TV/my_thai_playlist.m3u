@@ -73,7 +73,100 @@ http://nationstream.nationgroup.com/hls/th_high.m3u8
 
 
 
-
+#EXTINF:-1,3 FAMILY
+http://123.145.232.110:9981/stream/channelid/1956003340
+#EXTINF:-1,3 SD
+http://123.145.232.110:9981/stream/channelid/1880553703
+#EXTINF:-1,76.5/12719V/{PMT:1000}
+http://123.145.232.110:9981/stream/channelid/775258337
+#EXTINF:-1,76.5/12719V/{PMT:1010}
+http://123.145.232.110:9981/stream/channelid/1451549899
+#EXTINF:-1,76.5/12719V/{PMT:1430}
+http://123.145.232.110:9981/stream/channelid/28107146
+#EXTINF:-1,76.5/12719V/{PMT:390}
+http://123.145.232.110:9981/stream/channelid/503041144
+#EXTINF:-1,76.5/12719V/{PMT:590}
+http://123.145.232.110:9981/stream/channelid/1868810984
+#EXTINF:-1,76.5/12719V/{PMT:600}
+http://123.145.232.110:9981/stream/channelid/1908881276
+#EXTINF:-1,BLTV
+http://123.145.232.110:9981/stream/channelid/303785770
+#EXTINF:-1,BOOMMERANG
+http://123.145.232.110:9981/stream/channelid/1726598202
+#EXTINF:-1,BRIGHT TV
+http://123.145.232.110:9981/stream/channelid/153571511
+#EXTINF:-1,CAT Channel
+http://123.145.232.110:9981/stream/channelid/746581299
+#EXTINF:-1,CH 8
+http://123.145.232.110:9981/stream/channelid/1606317887
+#EXTINF:-1,DaAi TV(HD)
+http://123.145.232.110:9981/stream/channelid/435585308
+#EXTINF:-1,Fox Life HD
+http://123.145.232.110:9981/stream/channelid/1781431418
+#EXTINF:-1,GMM 25
+http://123.145.232.110:9981/stream/channelid/2085166000
+#EXTINF:-1,HZTV
+http://123.145.232.110:9981/stream/channelid/1773275571
+#EXTINF:-1,KHONG DEE
+http://123.145.232.110:9981/stream/channelid/152568159
+#EXTINF:-1,LIFE TV
+http://123.145.232.110:9981/stream/channelid/1089264614
+#EXTINF:-1,M CHANNEL
+http://123.145.232.110:9981/stream/channelid/325771235
+#EXTINF:-1,MCOT Kids
+http://123.145.232.110:9981/stream/channelid/707830061
+#EXTINF:-1,NATION
+http://123.145.232.110:9981/stream/channelid/1087592001
+#EXTINF:-1,NBT HD
+http://123.145.232.110:9981/stream/channelid/1974351658
+#EXTINF:-1,NOW
+http://123.145.232.110:9981/stream/channelid/885004392
+#EXTINF:-1,ONE HD
+http://123.145.232.110:9981/stream/channelid/330739716
+#EXTINF:-1,Spring News
+http://123.145.232.110:9981/stream/channelid/1720785696
+#EXTINF:-1,THAINESS TV HD
+http://123.145.232.110:9981/stream/channelid/1695969322
+#EXTINF:-1,TNN24
+http://123.145.232.110:9981/stream/channelid/1196895982
+#EXTINF:-1,TPTV
+http://123.145.232.110:9981/stream/channelid/1552960555
+#EXTINF:-1,True4U
+http://123.145.232.110:9981/stream/channelid/943287513
+#EXTINF:-1,UB6050
+http://123.145.232.110:9981/stream/channelid/394862244
+#EXTINF:-1,Voice TV
+http://123.145.232.110:9981/stream/channelid/930939166
+#EXTINF:-1,Wei Xin
+http://123.145.232.110:9981/stream/channelid/2141563016
+#EXTINF:-1,WORKPOINT
+http://123.145.232.110:9981/stream/channelid/1661349322
+#EXTINF:-1,World TV
+http://123.145.232.110:9981/stream/channelid/1057270956
+#EXTINF:-1,unknown1
+http://123.145.232.110:9981/stream/channelid/613298006
+#EXTINF:-1,unknown2
+http://123.145.232.110:9981/stream/channelid/1613918425
+#EXTINF:-1,TV 5 HD
+http://123.145.232.110:9981/stream/channelid/1170969341
+#EXTINF:-1,THAI PBS HD
+http://123.145.232.110:9981/stream/channelid/1334963987
+#EXTINF:-1,NEW TV
+http://123.145.232.110:9981/stream/channelid/1577281070
+#EXTINF:-1,MONO 29
+http://123.145.232.110:9981/stream/channelid/849283811
+#EXTINF:-1,MCOT HD
+http://123.145.232.110:9981/stream/channelid/1192855659
+#EXTINF:-1,THAIRATH HD
+http://123.145.232.110:9981/stream/channelid/1001728726
+#EXTINF:-1,3 HD
+http://123.145.232.110:9981/stream/channelid/11409361
+#EXTINF:-1,Amarin TV HD
+http://123.145.232.110:9981/stream/channelid/1874478801
+#EXTINF:-1,CH7 HD
+http://123.145.232.110:9981/stream/channelid/1045469800
+#EXTINF:-1,PPTV HD
+http://123.145.232.110:9981/stream/channelid/602593622
 
 
 
@@ -2386,6 +2479,8 @@ http://175.125.208.40:9981/stream/channelid/363486014
 http://123.249.76.157:10018/bysid/73
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
 http://1.233.136.3:9981/stream/channelid/1242002460
+#EXTINF:-1,BBC Earth SD_kor
+http://14.36.40.209:9981/stream/channelid/2062289700
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth (HD 4Mbps)
 http://183.81.95.109:8889/udp/225.1.2.25:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN
@@ -2413,15 +2508,18 @@ http://14.244.193.64:4022/rtp/232.84.2.129:9570
 
 #EXTINF:-1,KLT
 http://61.58.60.230:9319/live/205.m3u8
-#EXTINF:-1,N24 DOKU
-http://86.56.70.210:9981/stream/channelid/486772904
 
-#EXTINF:-1,[ UK ] China History Channel
-http://omegapower.ddns.net:6923/amicomircogreco/Fuw9DXn9KV/31000
+#EXTINF:-1, UHD
+http://14.36.40.209:9981/stream/channelid/865659689
 
-
-
-
+#EXTINF:-1,AFC
+http://14.170.142.181:8889/rtp/232.84.1.115:10236
+#EXTINF:-1,DaVinci
+http://14.170.142.181:8889/rtp/232.84.1.108:10224
+#EXTINF:-1,AFCHD
+http://14.170.142.181:8889/rtp/232.84.2.129:9570
+#EXTINF:-1,DavinciHD
+http://14.170.142.181:8889/rtp/232.84.2.131:9582
 
 
 #EXTINF:-1,wsci
@@ -2753,8 +2851,10 @@ http://92.43.140.249/s65/04.m3u8
 
 
 
-
-
+#EXTINF:-1,CNBC | HD *
+http://lotustv.be:80/Patrick1/Patrick1/55891
+#EXTINF:-1,USA: CNBC HD
+http://en.softiptv.com:1557/anhem10@yahoo.com/8IjMo5BjiL/5163
 
 
 
