@@ -76,18 +76,16 @@ URL=http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/
 
 
 type=video
-name=Literally, Right Before Aaron 2017 1080p Bluray H264 – RARBG
-thumb=https://1.bp.blogspot.com/-epzA_r1mrfc/Wc31fh6pMJI/AAAAAAAAHJg/7MeQSRzx9ZUAtskNBQMD0pgmkDDHOqoTwCLcBGAs/s1600/lit.jpg
+name=Shazam 2019 1080p Bluray H264 – RARBG
+thumb=https://i.postimg.cc/Gh2xXP48/1.jpg
 date=2019-01-03
-URL=https://vidoza.net/tnopnpleozcq.html
+URL=https://verystream.com/stream/HMDDdkqrtPz/Shazam.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Captain Marvel 2019 1080p BluRay x264-YTS AM 
 thumb=
 date=2019-01-03
-URL=https://vidoza.net/vidoza2/download_redirect/?url=https%3A%2F%2Fstr15.vidoza.net%2Fx4lfxy5gyfzb2r4nxacuovs35nnlvzahfqgm3j3ti3x5h2elhrypayodcxmq%2FCaptain.Marvel.2019.1080p.BluRay.x264-YTS.AM.mp4&file_id=12900430
-#https://str15.vidoza.net/x4lfxy5gyfzb2r4nxacuovs35nnlvzahfqgm3j3ti2v5n2elhryafv2uf6oq/v.mp4
-#https://vidoza.net/5ehikzy8mbs1.html	Captain Marvel 2019 1080p BluRay x264-YTS AM
+URL=https://vidoza.net/5ehikzy8mbs1.html	Captain Marvel 2019 1080p BluRay x264-YTS AM
 
 
 
@@ -98,10 +96,10 @@ date=2019-01-03
 URL=https://drive.google.com/file/d/1nPgP-e0B_ovLmZlo-36ugOy7McLHH2no/preview
 
 type=video
-name=Shazam 2019 1080p BRRip x264-MkvCage 
+name=Shazam 2019 1080p BluRay AAC-RARBG 
 thumb=
 date=2019-01-03
-URL=https://str15.vidoza.net/x4lfihwc2zzb2r4nxdmeox2x4krwvrx6jbar6rd7tdvzqcup6yumsghqnliq/v.mp4
+URL=https://vidoza.net/l7odg9c90lmb.html
 
 type=video
 name=
@@ -117,7 +115,7 @@ type=video
 name=Perfect Sense 2011 720p Bluray x264 – YIFY
 thumb=https://i.postimg.cc/YSvFdTxn/1.jpg
 date=2019-04-24
-URL=https://str17.vidoza.net/x4lfzay7zvzb2r4nxbfuotka7ewgr7eginyphj2s2244vtqvr445uhz3hlza/v.mp4
+URL=https://str17.vidoza.net/x4lfzay7zvzb2r4nxbfuotka7ewgr7eginyphj2s2244vtqvr44wixr2hlza/v.mp4
 #https://vidoza.net/uacq08fnze5y.html
 
 

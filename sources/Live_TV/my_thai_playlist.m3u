@@ -2618,9 +2618,6 @@ http://14.244.193.64:4022/rtp/232.84.2.129:9570
 #EXTINF:-1,KLT
 http://61.58.60.230:9319/live/205.m3u8
 
-#EXTINF:-1, UHD
-http://14.36.40.209:9981/stream/channelid/865659689
-
 #EXTINF:-1,AFC
 http://14.170.142.181:8889/rtp/232.84.1.115:10236
 #EXTINF:-1,DaVinci
@@ -2633,15 +2630,26 @@ http://14.170.142.181:8889/rtp/232.84.2.131:9582
 
 
 
+#EXTINF:-1,DaVinci
+http://46.241.34.6:81/udp/239.54.5.95:1234
+#EXTINF:-1,DaVinci
+http://46.241.54.27:81/udp/239.54.5.95:1234
+#EXTINF:-1,DaVinci
+http://46.241.53.194:81/udp/239.54.5.95:1234
+#EXTINF:-1,DaVinci
+http://83.246.208.8:81/udp/239.54.5.95:1234
 
 #EXTINF:-1,Da Vinci Learning
-http://95.70.118.211:4022/udp/239.4.0.159:2020
+http://134.255.156.32:1213/udp/239.255.0.60:1234
+#EXTINF:-1,Eureka HD
+http://134.255.156.32:1213/udp/239.255.0.208:1234 
 
-
-
-
-
-
+#EXTINF:-1,Da Vinci Learning
+http://79.133.111.84:999/udp/239.191.254.72:13343
+#EXTINF:-1, Da Vinci Learning
+http://159.253.169.172:999/udp/239.191.254.72:13343
+#EXTINF:-1,Da Vinci
+http://109.237.155.107:81/udp/239.1.5.6:1234 
 
 #EXTINF:-1,wsci
 http://203.154.243.32:8088/live/wsci/index.m3u8
@@ -2724,7 +2732,18 @@ http://185.93.3.83:5014/play/a00d
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_78.29.1.66
 http://78.29.1.66/live/nu_art/copy/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt
+http://92.62.152.175:4021/udp/239.10.2.42:5000
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt
+http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt
+http://62.76.81.211:81/udp/239.195.4.59:1234
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt
+http://89.107.36.61:81/udp/239.195.4.59:1234
+
+#EXTINF:-1,Asian XXX Adult 18+ 
+rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 
 
 
@@ -2748,10 +2767,14 @@ rtsp://51.254.198.110:1935/leved/livesexlatinas
 http://46.32.68.167/s/live/708/100.0.0.5/1/0.m3u8
 #EXTINF:-1,playboy_b
 http://46.32.68.167/s/live/707/100.0.0.5/1/0.m3u8
+#EXTINF:-1,playboy_b2
+http://46.32.68.167/s/live/707/86.169.51.136/1/0.m3u8
 #EXTINF:-1,playboy_play
 http://178.21.21.164:8000/play/a11k/index.m3u8
 #EXTINF:-1,playboy
 http://95.216.187.219:8080/135-playboy
+#EXTINF:-1,playboy_red_ts
+http://lista.digitalgroup.me//live/JorgeC/11223344/20820.ts
 #EXTINF:-1,blue hustler
 http://3e6cdf85.iptvbot.biz/iptv/3PTSM5QVK6GK6L/1064/index.m3u8
 #EXTINF:-1,lesbian_rtmp
@@ -2969,10 +2992,10 @@ http://92.43.140.249/s65/04.m3u8
 
 
 
+#EXTINF:-1,CNBC Europe
+http://ott-cdn.ucom.am/s65/index.m3u8
 
 
-#EXTINF:-1,CNBC
-http://115.198.24.199:9981/stream/channelid/1444531183
 
 
 
