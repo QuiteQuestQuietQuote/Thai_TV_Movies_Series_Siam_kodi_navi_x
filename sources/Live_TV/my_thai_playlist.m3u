@@ -78,7 +78,7 @@ http://nationstream.nationgroup.com/hls/th_high.m3u8
 
 
 
-#EXTINF:-1,VOICE
+#EXTINF:-1,VOICExxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://14.207.212.234:8000/play/a018
 #EXTINF:-1,NBT
 http://14.207.212.234:8000/play/a00x
@@ -182,7 +182,7 @@ http://14.207.212.234:8000/play/a012
 
 
 
-#EXTINF:-1,3 FAMILY
+#EXTINF:-1,3 FAMILYxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://123.145.232.110:9981/stream/channelid/1956003340
 #EXTINF:-1,3 SD
 http://123.145.232.110:9981/stream/channelid/1880553703
@@ -2247,6 +2247,8 @@ http://161.0.157.9/PLTV/88888888/224/3221227005/01.m3u8
 http://161.0.157.9:80/PLTV/88888888/224/3221227005/index.m3u8
 #EXTINF:-1,NOTICIAS: CNBC World
 http://tvpremiumhd.club/lista-gratuita/213019/on/live.php?id=161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
+#EXTINF:-1,CNBC Europe
+http://ott-cdn.ucom.am/s65/index.m3u8
 
 
 #EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
@@ -2257,6 +2259,8 @@ http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS_HD
 http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/545/index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS_HD
+http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth_HUN5.1
 http://151.80.27.107:8080/503/1681/0762554da0e44c8d64bf81d309b7bc72c5cccac3?BBCEARTH_tu_mas_sa_nedoser
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci
@@ -2627,29 +2631,15 @@ http://14.170.142.181:8889/rtp/232.84.2.129:9570
 #EXTINF:-1,DavinciHD
 http://14.170.142.181:8889/rtp/232.84.2.131:9582
 
+#EXTINF:-1,SCIENCE & VIE 4K+
+http://nettv-xcruiser.com:8000/vhe9yf9ekR/AxfXFiGO4Z/8544
 
+#EXTINF:-1,24 Doc
+http://89.208.214.51:5050/udp/239.77.0.7:1234
 
+#EXTINF:-1,AF: Documentaries 4U
+http://145.239.67.23:25461/WcpBYMSvzQ/3oy9OXj9Oy/11550
 
-#EXTINF:-1,DaVinci
-http://46.241.34.6:81/udp/239.54.5.95:1234
-#EXTINF:-1,DaVinci
-http://46.241.54.27:81/udp/239.54.5.95:1234
-#EXTINF:-1,DaVinci
-http://46.241.53.194:81/udp/239.54.5.95:1234
-#EXTINF:-1,DaVinci
-http://83.246.208.8:81/udp/239.54.5.95:1234
-
-#EXTINF:-1,Da Vinci Learning
-http://134.255.156.32:1213/udp/239.255.0.60:1234
-#EXTINF:-1,Eureka HD
-http://134.255.156.32:1213/udp/239.255.0.208:1234 
-
-#EXTINF:-1,Da Vinci Learning
-http://79.133.111.84:999/udp/239.191.254.72:13343
-#EXTINF:-1, Da Vinci Learning
-http://159.253.169.172:999/udp/239.191.254.72:13343
-#EXTINF:-1,Da Vinci
-http://109.237.155.107:81/udp/239.1.5.6:1234 
 
 #EXTINF:-1,wsci
 http://203.154.243.32:8088/live/wsci/index.m3u8
@@ -2732,18 +2722,7 @@ http://185.93.3.83:5014/play/a00d
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_78.29.1.66
 http://78.29.1.66/live/nu_art/copy/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt
-http://92.62.152.175:4021/udp/239.10.2.42:5000
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt
-http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt
-http://62.76.81.211:81/udp/239.195.4.59:1234
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt
-http://89.107.36.61:81/udp/239.195.4.59:1234
-
-#EXTINF:-1,Asian XXX Adult 18+ 
-rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 
 
 
@@ -2759,8 +2738,6 @@ http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/1073/index.m3u8
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
 #EXTINF:-1,frenchlover
 http://78.29.1.66/live/frenchlover/copy/playlist.m3u8
-#EXTINF:-1,Angel
-http://istanbul1453.xyz:8080/zeynel/021118/16940
 #EXTINF:-1,livesexlatinas_rtsp
 rtsp://51.254.198.110:1935/leved/livesexlatinas
 #EXTINF:-1,Russian Night
@@ -2773,8 +2750,6 @@ http://46.32.68.167/s/live/707/86.169.51.136/1/0.m3u8
 http://178.21.21.164:8000/play/a11k/index.m3u8
 #EXTINF:-1,playboy
 http://95.216.187.219:8080/135-playboy
-#EXTINF:-1,playboy_red_ts
-http://lista.digitalgroup.me//live/JorgeC/11223344/20820.ts
 #EXTINF:-1,blue hustler
 http://3e6cdf85.iptvbot.biz/iptv/3PTSM5QVK6GK6L/1064/index.m3u8
 #EXTINF:-1,lesbian_rtmp
@@ -2992,8 +2967,7 @@ http://92.43.140.249/s65/04.m3u8
 
 
 
-#EXTINF:-1,CNBC Europe
-http://ott-cdn.ucom.am/s65/index.m3u8
+
 
 
 
