@@ -2631,14 +2631,28 @@ http://14.170.142.181:8889/rtp/232.84.2.129:9570
 #EXTINF:-1,DavinciHD
 http://14.170.142.181:8889/rtp/232.84.2.131:9582
 
-#EXTINF:-1,SCIENCE & VIE 4K+
-http://nettv-xcruiser.com:8000/vhe9yf9ekR/AxfXFiGO4Z/8544
+#EXTINF:-1,Da Vinci Learning 
+https://ruip.tv/9395/video.m3u8?token=demo 
 
-#EXTINF:-1,24 Doc
-http://89.208.214.51:5050/udp/239.77.0.7:1234
+#EXTINF:-1,(DE) Cinema 4K+
+http://5.254.66.69:1339/Db3UlLBOIi/MY3MzlSsMD/15915
+#EXTINF:-1,(DE) Cinema +1 4K+
+http://5.254.66.69:1339/Db3UlLBOIi/MY3MzlSsMD/15916
+#EXTINF:-1,(DE) Cinema +24 4K+
+http://5.254.66.69:1339/Db3UlLBOIi/MY3MzlSsMD/15917
+#EXTINF:-1,(DE) Cinema Hits 4K+
+http://5.254.66.69:1339/Db3UlLBOIi/MY3MzlSsMD/15919
+#EXTINF:-1,(TR) Bloomberg HT 4K+
+http://5.254.66.69:1339/Db3UlLBOIi/MY3MzlSsMD/14770
+#EXTINF:-1,(TR) Movies Festival 4K+
+http://5.254.66.69:1339/Db3UlLBOIi/MY3MzlSsMD/31491
+#EXTINF:-1,(TR) Movies Premiere 4K+
+http://5.254.66.69:1339/Db3UlLBOIi/MY3MzlSsMD/31492
+#EXTINF:-1,(TR) Movies Premiere 2 4K+
+http://5.254.66.69:1339/Db3UlLBOIi/MY3MzlSsMD/33200
+#EXTINF:-1,(TR) Movies Stars 4K+
+http://5.254.66.69:1339/Db3UlLBOIi/MY3MzlSsMD/31493
 
-#EXTINF:-1,AF: Documentaries 4U
-http://145.239.67.23:25461/WcpBYMSvzQ/3oy9OXj9Oy/11550
 
 
 #EXTINF:-1,wsci
