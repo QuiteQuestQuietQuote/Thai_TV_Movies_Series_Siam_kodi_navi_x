@@ -2646,26 +2646,22 @@ http://14.247.176.130:8889/rtp/232.84.2.177:10488
 #EXTINF:-1,NAT GEO people
 http://14.247.176.130:8889/rtp/232.84.2.121:8376
 
-#EXTINF:-1,[UK] BBC Earth HD
-http://134.19.181.172:8000/0ViwgzD36g/oXAGcu6Iok/636
+#EXTINF:-1,TR: NAT GEO PEOPLE FHD
+http://dennis-stream.noip.me:8000/tigrisiptv/kjdng9834jgn83457ernjg948t8h/141
+#EXTINF:-1,TR: DAVINCI LEARNING HD
+http://dennis-stream.noip.me:8000/tigrisiptv/kjdng9834jgn83457ernjg948t8h/142
 
-#EXTINF:-1,Da Vinci
-http://37.195.33.135:81/udp/239.1.5.6:1234
-#EXTINF:-1,24 Doc
-http://37.195.33.135:81/udp/239.1.20.3:1234
+#EXTINF:-1,|UK | BBC EARTH HD
+http://xpro.one-iptv.com:25443/son/123456/31107
 
-#EXTINF:-1,BBC EARTH | HD
-http://nettv-xcruiser.com:8000/dMI5cvZBnc/RE6DUpttNc/59793
-#EXTINF:-1,CNBC | HD
-http://nettv-xcruiser.com:8000/dMI5cvZBnc/RE6DUpttNc/59732
-#EXTINF:-1,CNBC WORLD | HD
-http://nettv-xcruiser.com:8000/dMI5cvZBnc/RE6DUpttNc/59731
-#EXTINF:-1,DOCUMENTARY | SD*
-http://nettv-xcruiser.com:8000/dMI5cvZBnc/RE6DUpttNc/59679
-#EXTINF:-1,DOCUMENTARY CHANNEL | SD
-http://nettv-xcruiser.com:8000/dMI5cvZBnc/RE6DUpttNc/59678
-#EXTINF:-1,FOX BUSINESS | HD
-http://nettv-xcruiser.com:8000/dMI5cvZBnc/RE6DUpttNc/59667
+#EXTINF:-1,SBS Food [OPTUS]
+http://kodi:kodi@61.245.139.132:9981/stream/channelid/1590507445
+
+#EXTINF:-1,Da Vinci Learning
+http://95.85.90.118:8082/udp/239.191.254.72:13343
+#EXTINF:-1,Eureka HD
+http://95.85.90.118:8082/udp/239.191.254.215:15283
+
 
 
 #EXTINF:-1,wsci
@@ -2707,6 +2703,8 @@ http://203.154.243.89:1423
 rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1,star_movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
+#EXTINF:-1,HBO_Hit
+http://203.207.56.228/live/iptv007.m3u8
 #EXTINF:-1,S_GEM
 http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="https://www.thaiptv.com/img/movie1logo.png",Movie CH1
@@ -2739,17 +2737,21 @@ http://113.196.177.81:8895/VideoInput/play.ts
 http://212.111.17.130:8001/1:0:1:30a:C94:3:EB0000:0:0:0:
 #EXTINF:-1,FilmBox_Plus
 http://84.104.234.134:8001/1:0:19:52E3:C96:3:EB0000:0:0:0:
+#EXTINF:-1,HBO2
+http://84.104.234.134:8001/1:0:1:308:C94:3:EB0000:0:0:0:
 
 
 
 
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArtHD 
-http://193.233.191.182:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_play/a00d_1080p
 http://185.93.3.83:5014/play/a00d
 
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArtHD 
+http://193.111.244.23:7777/nu_art_hd/playlist.m3u8 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_78.29.1.66
 http://78.29.1.66/live/nu_art/copy/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NUART TV HD
+http://95.85.90.118:8082/udp/239.191.254.250:15285
 
 
 
@@ -2765,6 +2767,10 @@ http://212.111.17.130:8001/1:0:19:3727:C8E:3:EB0000:0:0:0:
 http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/1073/index.m3u8
 #EXTINF:-1,Penthouse_passion2
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
+#EXTINF:-1,LIVE DORCEL TV
+http://dennis-stream.noip.me:8000/tigrisiptv/kjdng9834jgn83457ernjg948t8h/5062
+#EXTINF:-1,LIVE VENUS
+http://dennis-stream.noip.me:8000/tigrisiptv/kjdng9834jgn83457ernjg948t8h/5067
 #EXTINF:-1,frenchlover
 http://78.29.1.66/live/frenchlover/copy/playlist.m3u8
 #EXTINF:-1,livesexlatinas_rtsp
@@ -2777,8 +2783,6 @@ http://46.32.68.167/s/live/707/100.0.0.5/1/0.m3u8
 http://46.32.68.167/s/live/707/86.169.51.136/1/0.m3u8
 #EXTINF:-1,playboy_play
 http://178.21.21.164:8000/play/a11k/index.m3u8
-#EXTINF:-1,playboy
-http://95.216.187.219:8080/135-playboy
 #EXTINF:-1,blue hustler
 http://3e6cdf85.iptvbot.biz/iptv/3PTSM5QVK6GK6L/1064/index.m3u8
 #EXTINF:-1,lesbian_rtmp
@@ -2997,7 +3001,8 @@ http://92.43.140.249/s65/04.m3u8
 
 
 
-
+#EXTINF:-1,|UK | CNBC Europe
+http://xpro.one-iptv.com:25443/son/123456/31014
 
 
 
