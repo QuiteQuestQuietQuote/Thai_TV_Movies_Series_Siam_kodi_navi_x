@@ -115,14 +115,16 @@ type=video
 name=Perfect Sense 2011 720p Bluray x264 – YIFY
 thumb=https://i.postimg.cc/YSvFdTxn/1.jpg
 date=2019-04-24
-URL=https://vidoza.net/uacq08fnze5y.html
+URL=https://verystream.com/stream/fv3kHCzc3ZY/Perfect.Sense.2011.720p.BrRip.x264.YIFY.mp4
+#https://vidoza.net/uacq08fnze5y.html
 
 
 type=video
 name=Hotel Mumbai (2019)1080p BluRay X264-AMIABLE-Ganool
 thumb=https://image.tmdb.org/t/p/w185/58xeOohevPFivaIP4BQwIysLstY.jpg
 date=2019-06-28
-URL=https://cafeflix.fun/video/hHlAv4fkmf3VMKa/
+URL=https://cafeflix.fun/link/hHlAv4fkmf3VMKa/720/0270c5d783aa547f1a8bc5040eeb973c/
+#https://cafeflix.fun/video/hHlAv4fkmf3VMKa/
 
 type=video
 name=Us (2019)1080p BluRay x264-GECKOS-Ganool
