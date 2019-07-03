@@ -23,6 +23,8 @@ http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_3bb
 http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.stream/playlist.m3u8?username=casG36MryQIqyL7YVdbV5pQcyEmeExUE&password=elV2iHMkaNPQgU5afVkrKm3QyYpbsqqu
 
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",GMM25_dailymotion
+https://stream-02.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_bKYQyf52MazXlej6hLlxwc)/dm/3/x6rz4t7/live.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",GMM25
 http://180.183.135.93:8000/play/a00d
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_3bb
