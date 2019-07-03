@@ -22,6 +22,15 @@ http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_3bb
 http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.stream/playlist.m3u8?username=casG36MryQIqyL7YVdbV5pQcyEmeExUE&password=elV2iHMkaNPQgU5afVkrKm3QyYpbsqqu
+
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",GMM25
+http://180.183.135.93:8000/play/a00d
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_3bb
+http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=BRQYQBXBRWcc7w2vi6LQrPj4EwhvBEJ7&password=x1yU4VfAZzCt3Pjkg82bWkxyHDV2iKtF
+#EXTINF:-1  tvg-logo="https://teevee-hd.com/img/ch5fhd.png",5 FULLHD
+http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC
+http://180.183.135.93:8000/play/a03n
 #EXTINF:-1 group-title="Free_TV" tvg-logo="http://mvtv.co.th/ios/icons/GIF/fivehd_final_140-140.gif",MVTV 5
 https://edge1a.v2h-cdn.com/appt3/five.stream_720p/playlist.m3u8
 
@@ -2539,6 +2548,15 @@ http://14.247.176.130:8889/rtp/232.84.2.177:10488
 #EXTINF:-1,NAT GEO people
 http://14.247.176.130:8889/rtp/232.84.2.121:8376
 
+#EXTINF:-1,BBC Earth
+http://zeebra.tv:8000/765192303621/5b3e6abecbb8d/3017
+
+#EXTINF:-1,Da Vinci Learning
+http://83.246.178.37:81/udp/239.54.5.95:1234
+
+
+
+
 
 
 
@@ -2673,7 +2691,7 @@ rtmp://62.210.55.60/stream3xVJ/3x12
 rtmp://62.210.55.60/stream3xVJ/3x13
 #EXTINF:-1,Steff b_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x16
-#EXTINF:-1,Rape_rtmp
+#EXTINF:-1,Submissive_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x18
 #EXTINF:-1,redtraffic_milf
 http://live.redtraffic.xyz/milf.m3u8
@@ -2879,9 +2897,9 @@ http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 http://92.43.140.249/s65/04.m3u8
 
 
-#EXTINF:-1,World Busines Channel HD 
-http://164.177.177.178:34040/udp/233.12.144.120:5050
 
+#EXTINF:-1,USA: CNBC HD
+http://zeebra.tv:8000/765192303621/5b3e6abecbb8d/11450
 
 
 
