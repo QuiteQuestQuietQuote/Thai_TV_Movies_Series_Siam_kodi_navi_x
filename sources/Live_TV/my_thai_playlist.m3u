@@ -23,18 +23,13 @@ http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_3bb
 http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.stream/playlist.m3u8?username=casG36MryQIqyL7YVdbV5pQcyEmeExUE&password=elV2iHMkaNPQgU5afVkrKm3QyYpbsqqu
 
-#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",GMM25_dailymotion
-https://am-01.dc3.dailymotion.com/vx6rz4t7
-#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",GMM25_dailymotion_ads
-https://www.dailymotion.com/embed/video/k7KnbDPalNddQqrJq1J?autoPlay=1
+
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",GMM25
 http://180.183.135.93:8000/play/a00d
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_3bb
 http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=BRQYQBXBRWcc7w2vi6LQrPj4EwhvBEJ7&password=x1yU4VfAZzCt3Pjkg82bWkxyHDV2iKtF
 #EXTINF:-1  tvg-logo="https://teevee-hd.com/img/ch5fhd.png",5 FULLHD
 http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC
-http://180.183.135.93:8000/play/a03n
 #EXTINF:-1 group-title="Free_TV" tvg-logo="http://mvtv.co.th/ios/icons/GIF/fivehd_final_140-140.gif",MVTV 5
 https://edge1a.v2h-cdn.com/appt3/five.stream_720p/playlist.m3u8
 
@@ -42,8 +37,6 @@ https://edge1a.v2h-cdn.com/appt3/five.stream_720p/playlist.m3u8
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 #EXTINF:-1 group-title="Free_TV"tvg-logo="https://www.doohdbox.com/assets/201707141414362135901185.jpg",AMARIN TV
 http://210.4.150.104/stream/5195e80fe1ed0/playlist.m3u8
-#EXTINF:-1 group-title="Free_TV"tvg-logo="https://www.doohdbox.com/assets/201707141414362135901185.jpg",AMARIN TV_byteark
-https://amarin-ks7jcc.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=868&x_ark_auth_type=ark-v2&x_ark_expires=1562306980&x_ark_path_prefix=%2Flive%2F&x_ark_signature=uVg6FEV342ElvB5om49TPw
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ib/180630071444.png",bright tv
 http://live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist.m3u8
 
@@ -53,15 +46,14 @@ https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/ch
 http://gmmservice.radical-enlighten.com/gmm/smil:gmm25.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://f.ptcdn.info/850/055/000/p34ku3wz46HXMTLoA1d-o.png",mcot_family
 https://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w829553404_b2000000.m3u8
-#EXTINF:-1, tvg-logo="http://www.wezatv.com/images/ch7.png",BBTV CH 7
+#EXTINF:-1, tvg-logo="http://www.wezatv.com/images/ch7.png",BBTV CH 7_bugaboo
 https://bbtvalive-a.bugaboo.tv/liveedgech7/_definst_/smil:auto.smil/chunklist_b2200000_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://teevee-hd.com/img/ch5fhd.png",5 FULLHD
-http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="http://www.wezatv.com/images/ch7.png",BBTV CH 7_akamaihd
+https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD_3bb
 http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcastwowza63_pptvhd_live1.stream/playlist.m3u8?username=PTFvmqGfLgTFl6HpVaoIeeZEmWMlkyEX&password=nihQNWt0dNGChmyriedBfz8gMap99Eld
-#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_3bb
-http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=BRQYQBXBRWcc7w2vi6LQrPj4EwhvBEJ7&password=x1yU4VfAZzCt3Pjkg82bWkxyHDV2iKtF
 #EXTINF:-1 group-title="Movie" tvg-logo="http://www.thaiptv.com/img/monopluslogo.png",MONO Plus+_3bb
 http://110.164.95.230:1935/Edge_Cloudiptv_Authen/cloudiptv_monoplus_live1.stream/playlist.m3u8?username=0ccuCF7ueOu6wBnS7yhTLmHSlnYlhSph&password=REsp6A5OZVJDOFXiYIUFRvW0IjNiv1La
 
@@ -2465,6 +2457,8 @@ http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8
 
 #EXTINF:-1,CNEX
 http://61.58.60.230:9319/live/257.m3u8
+#EXTINF:-1,CNEX_HHZT
+http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
 #EXTINF:-1,CHN_Docu
 http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
 #EXTINF:-1,UREKA_RUS
@@ -2530,7 +2524,10 @@ http://kodi:kodi@61.245.139.132:9981/stream/channelid/1590507445
 #EXTINF:-1,KLT
 http://61.58.60.230:9319/live/205.m3u8
 
-
+#EXTINF:-1,Asian Food Channel_VN_test1
+http://1.53.111.93:6868/udp/225.1.1.198:30120
+#EXTINF:-1,Asian Food Channel_VN_test2
+http://1.53.111.93:6868/udp/225.1.2.98:30120
 
 #EXTINF:-1,Asian Food Channel (HD 7Mbps)
 http://14.247.176.130:8889/rtp/232.84.2.129:9570
@@ -2553,14 +2550,38 @@ http://14.247.176.130:8889/rtp/232.84.2.177:10488
 #EXTINF:-1,NAT GEO people
 http://14.247.176.130:8889/rtp/232.84.2.121:8376
 
+#EXTINF:-1,YTN Science_kor
+http://182.213.70.179:9981/stream/channelid/1933056306
+#EXTINF:-1,BBC Earth
+http://182.213.70.179:9981/stream/channelid/1379793386
+#EXTINF:-1,Docu One
+http://182.213.70.179:9981/stream/channelid/1984658960
+#EXTINF:-1,BBC Earth
+http://182.231.145.96:9981/stream/channelid/448448880
+#EXTINF:-1,edu TV
+http://182.231.145.96:9981/stream/channelid/973940861
+
+#EXTINF:-1,Da Vinchi Learning
+http://81.22.53.109:1234/udp/230.7.7.117:1234
+
+#EXTINF:-1,TR: NAT GEO PEOPLE HD
+http://iptv.eagleiptv.net:1213/amir29mcs/zTOHb3i7bf/6767
+#EXTINF:-1,TR: DISCOVERY SCIENCE
+http://iptv.eagleiptv.net:1213/amir29mcs/zTOHb3i7bf/113
+#EXTINF:-1,TR: BBC Earth HD
+http://iptv.eagleiptv.net:1213/amir29mcs/zTOHb3i7bf/6740
+#EXTINF:-1,TR:DA VINCI LEARNING
+http://iptv.eagleiptv.net:1213/amir29mcs/zTOHb3i7bf/9249
+#EXTINF:-1,TR:MOVIES PREMIER 4K
+http://iptv.eagleiptv.net:1213/amir29mcs/zTOHb3i7bf/9226
+#EXTINF:-1,TR: MOVIE SMART PREMIUM HD 4K
+http://iptv.eagleiptv.net:1213/amir29mcs/zTOHb3i7bf/12381
+
 #EXTINF:-1,UK: BBC Earth HD
 http://iptv.eagleiptv.net:1213/amir29mcs/zTOHb3i7bf/13185
 
-
-
-
-
-
+#EXTINF:-1,Discovery_Civillization
+http://streaminglist.live:8080/entectop@gmail.com/JrtAnH/1898
 
 
 #EXTINF:-1,wsci
@@ -2665,10 +2686,14 @@ http://212.111.17.130:8001/1:0:19:3727:C8E:3:EB0000:0:0:0:
 http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/1073/index.m3u8
 #EXTINF:-1,Penthouse_passion2
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
+#EXTINF:-1,Xchimera
+http://config.streamstv.me:8080/ZsIlThUSA9/ldzfZeKNsu/62334
 #EXTINF:-1,frenchlover
 http://78.29.1.66/live/frenchlover/copy/playlist.m3u8
 #EXTINF:-1,livesexlatinas_rtsp
 rtsp://51.254.198.110:1935/leved/livesexlatinas
+#EXTINF:-1,Russian Night_/udp
+http://188.35.9.11:21051/udp/071l
 #EXTINF:-1,Russian Night
 http://46.32.68.167/s/live/708/100.0.0.5/1/0.m3u8
 #EXTINF:-1,playboy_b
@@ -2747,6 +2772,14 @@ http://122.38.74.172:9981/stream/channelid/798964177
 #EXTINF:-1,Desire
 http://122.38.74.172:9981/stream/channelid/816085039 
 
+#EXTINF:-1,Viki Premium +18
+http://182.213.70.179:9981/stream/channelid/1516285058
+#EXTINF:-1,Pink Dorcel +19
+http://182.213.70.179:9981/stream/channelid/1855688449
+#EXTINF:-1,Desire Tv +19
+http://182.213.70.179:9981/stream/channelid/1058705531
+#EXTINF:-1,Playboy TV
+http://182.231.145.96:9981/stream/channelid/16845746
 
 
 #EXTINF:-1,jap_ts1
