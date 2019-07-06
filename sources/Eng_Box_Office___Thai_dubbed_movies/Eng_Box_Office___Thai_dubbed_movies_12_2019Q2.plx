@@ -119,24 +119,7 @@ URL=https://verystream.com/stream/fv3kHCzc3ZY/Perfect.Sense.2011.720p.BrRip.x264
 #https://vidoza.net/uacq08fnze5y.html
 
 
-type=video
-name=Hotel Mumbai (2019)1080p BluRay X264-AMIABLE-Ganool
-thumb=https://image.tmdb.org/t/p/w185/58xeOohevPFivaIP4BQwIysLstY.jpg
-date=2019-06-28
-URL=https://cafeflix.fun/link/hHlAv4fkmf3VMKa/720/0270c5d783aa547f1a8bc5040eeb973c/
-#https://cafeflix.fun/video/hHlAv4fkmf3VMKa/
 
-type=video
-name=Us (2019)1080p BluRay x264-GECKOS-Ganool
-thumb=https://image.tmdb.org/t/p/w185/Z020zFirgLav9IckjYTmjyEwX8.jpg
-date=2019-06-28
-URL=https://cafeflix.fun/video/WUFxYoWLtpz7P4g/
-
-type=video
-name=The Professor and the Madman (2019)1080p BluRay x264-BRMP-Ganool
-thumb=
-date=2019-06-28
-URL=https://cafeflix.fun/video/w5KAVXAalDc3B9j/
 
 type=video
 name=
@@ -920,12 +903,7 @@ URL=https://openload.co/f/Qae7lBcWAYU/One.Percent.More.Humid.2017.1080p.WEB-DL.D
 #https://openload.co/f/X6FvG8l1vWA/one.percent.more.humid.2017.dvdrip.x264-bipolar.mkv.mp4
 #https://openload.co/f/IC-shIyRi3o/One_Percent_More_Humid_2017_HDRip_XviD_AC3-EVO.mp4
 
-type=video
-name=Sleepwalker (2017) ENG 1080p.WEB-DL.DD5.1.H.264-FGT
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mL4XNPdJZcaL1iUKDMY7wtqp0.jpg
-date=2018-03-08
-URL=https://openload.co/f/8MxUCmLZrpc/Sleepwalker.2017.1080p.WEB-DL.DD5.1.H.264-FGT.mkv.mp4
-#https://openload.co/f/JZe9TCIgTEI/Sleepwalker_2017_HDRip_XviD_AC3-EVO.mp4
+
 
 
 
@@ -1301,10 +1279,17 @@ URL=
 
 
 type=video
-name=
-thumb=
-date=2019-06-26
-URL=
+name=Escape Plan: The Extractors (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-47
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/r15SUgzjL8bablcdEkHk9T7TSRl.jpg
+date=2019-07-06
+URL=https://openload.co/f/CayuBX8ohXA/Escape_Plan_The_Extractors_2019_1080p_BRRip_x264-MkvCage_.mp4
+#https://openload.co/f/kx50bjWM1YU/Escape.Plan.The.Extractors.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/CayuBX8ohXA/Escape_Plan_The_Extractors_2019_1080p_BRRip_x264-MkvCage_.mp4
+#https://openload.co/f/0FWMUBJishs/Escape.Plan.The.Extractors.2019.Bluray_SeeHD.mkv.mp4
+#https://openload.co/f/rgBE1TuydGM/Escape.Plan.The.Extractors.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/usckNz7Gm5o/Escape.Plan.The.Extractors.2019.1080p.BluRay.DD5.1.x264.mkv.mp4
+#https://verystream.com/stream/HyJTrJAX8V1/Escape.Plan.The.Extractors.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/7rGL7JtiwXN/Escape.Plan.The.Extractors.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=A Rough Draft (2018) [COLOR=FF00FF00]RUS BR 1080p[/COLOR] | TMDB-52
@@ -1369,17 +1354,7 @@ URL=https://openload.co/f/7Wba_ADw_-M/The.Professor.and.the.Madman.2019.1080p.Bl
 #https://openload.co/f/7Wba_ADw_-M/The.Professor.and.the.Madman.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
 #https://openload.co/f/sITsDy8xtlE/The_Professor_and_the_Madman_2019_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
 
-type=video
-name=Dumbo (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/279PwJAcelI4VuBtdzrZASqDPQr.jpg
-date=2019-06-26
-URL=https://openload.co/f/nFtItl_dRCQ/Dumbo_2019_1080p_BluRay_AAC-RARBG_.mp4
-#https://openload.co/f/GP690NLCtlU/Dumbo.2019.1080p.Bluray.DD5.1.x264.mkv.mp4
-#https://openload.co/f/uVY9xNyc5Zg/Dumbo.2019.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/dB5u303CBYo/Dumbo_2019_1080p_BluRay_x264-YTS_LT_.mp4
-#https://openload.co/f/lQN33sL4-Cs/Dumbo_2019_1080p_Bluray_1400MB_DD5_1_x264-GalaxyRG_.mp4
-#https://openload.co/f/WFhFzpXASe8/Dumbo.2019.1080p.Bluray.DD5.1.x264.mkv.mp4
-#https://openload.co/f/FZ1Yz6T-7CY/Dumbo.2019.1080p.BluRay_SeeHD.mp4
+
 
 type=video
 name=The Beach Bum (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-53
@@ -1445,13 +1420,7 @@ URL=https://openload.co/f/zTBzhc48Log/Crypto.2019.1080p.BluRay_SeeHD.mp4
 #https://openload.co/f/Uv7ZxPdYOFI/Crypto_2019_1080p_BluRay_AAC-RARBG_.mp4
 #https://openload.co/f/mP-pHo0irTA/Crypto.2019.1080p.bluray.x264-rovers.mkv.mp4
 
-type=video
-name=Us (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg
-date=2019-06-26
-URL=https://openload.co/f/YqqO6oOZjrM/Us.2019.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/D8rVBwAFTEk/Us_2019_1080p_BluRay_AAC-RARBG_.mp4
-#https://openload.co/f/4NKcCHS1At8/Us_2019_1080p_BluRay_x264-YTS_LT.mp4
+
 
 type=video
 name=A Wizard's Tale (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-55
@@ -2544,16 +2513,7 @@ URL=https://openload.co/f/sKNmQjAG8d8/A.Dogs.Way.Home.2019.1080p.BluRay.x264-YTS
 #https://openload.co/f/B1atRnoBT3Y/A.Dogs.Way.Home.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/dooQ1hIR7uM/A_Dog%27s_Way_Home_%282019%291080p_BluRay_x264-DRONES_Ganool.mkv.mp4
 
-type=video
-name=Welcome to Marwen (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o45VIAUYDcVCGuzd43l8Sr5Dfti.jpg
-date=2019-04-09
-URL=https://openload.co/f/1k-LsCaCkt8/Welcome.To.Marwen.2018.1080p.BluRay.x264-Replica.mkv.mp4
-#https://openload.co/f/d565qhyNNCk/Welcome_to_Marwen_%282018%291080p_BluRay_x264-Replica_Ganool.mkv.mp4
-#https://openload.co/f/SG18r6MZngo/Welcome.To.Marwen.2018.1080p.BluRay.x264-YTS.AM.mp4
-#https://openload.co/f/kQS8-XJfl4Q/Welcome.to.Marwen.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
-#https://openload.co/f/1k-LsCaCkt8/Welcome.To.Marwen.2018.1080p.BluRay.x264-Replica.mkv.mp4
-#https://openload.co/f/NN6sL6IVAtY/Welcome.to.Marwen.2018.1080p.BRRip.x264-MkvCage.mkv.mp4
+
 
 type=video
 name=The Tree of Blood (2018) [COLOR=FF00FF00]ESP BR 1080p[/COLOR] | TMDB-63
@@ -2814,13 +2774,7 @@ URL=https://openload.co/f/1Du2e2UjTek/The.Last.Man.2018.1080p.BluRay.x264-CiNEFi
 #https://openload.co/f/OqruDDsqhIY/The.Last.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/vKDGrPIK3qA/The.Last.Man.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
-type=video
-name=Slaughterhouse Rulez (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-55
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iKnT5rDGd8htK58DOUiHgjKLof.jpg
-date=2019-05-15
-URL=https://openload.co/f/1OKD8vskx64/Slaughterhouse_Rulez_2018_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
-#https://openload.co/f/JxdsFcA-Ems/Slaughterhouse.Rulez.2018.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/E2LKMG8a-fA/Slaughterhouse.Rulez.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
 
 type=video
 name=The Neighbor (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-48
@@ -8593,14 +8547,7 @@ URL=https://openload.co/f/h8FHGZPvrHs/1.Buck.2017.1080p.BluRay.H264.AAC-RARBG.mp
 #https://openload.co/f/2Uj0P-FO0OI/1.Buck.2017.BDRip.XviD.AC3-EVO.avi.mp4
 #https://www.blazefile.co/embed-xlpl5h9wgxw1.html   720
 
-type=video
-name=6 Below: Miracle on the Mountain (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eZynKoLiPq9b6DQGLOFHt6mZPv.jpg
-date=2017-11-17
-URL=https://openload.co/f/3ar1ciJE_8g/6.Below.Miracle.on.the.Mountain.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
-#https://openload.co/f/SytT_2ZR_kc/6.Below.Miracle.on.the.Mountain.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/JG-_5_FdurA/6_Below%3A_Miracle_on_the_Mountain_%282017%29.WEB-DL.XviD.AC3-FGT.avi.mp4
-#https://www.blazefile.co/embed-lawol7qg5fnv.html   720
+
 
 type=video
 name=Beta Test (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -11057,24 +11004,7 @@ date=2018-10-21
 URL=https://openload.co/f/GO055X4tlHA/The_Night_Comes_for_Us_%282018%29%E0%B8%84%E0%B9%88%E0%B8%B3%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%A5%E0%B9%88%E0%B8%A5%E0%B9%88%E0%B8%B2_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
 
 
-type=video
-name=Tag (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg
-date=2018-12-30
-URL=https://openload.co/f/sO4SSTJ1xig/Tag.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/iDj7iqqhKu0/Tag.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/Tf9tzNMi9L8/Tag.2018.1080p.BluRay-RARBG.mp4
-#https://openload.co/f/JdoYJAyTUkE/Tag.2018.1080p.BluRay.x264-GECKOS.mp4
-#https://openload.co/f/Y9JCxwZjw9A/Tag.2018.1080p.BluRay_x264-GECKOS.mkv   MKV7.7GB
-#https://openload.co/f/A52Q2c9ui-4/TAG_2018_720p_HD-TS_x264_HQ-24HD_SeeHD.mkv.mp4
-#https://uptobox.com/3cd2hbfhvkp3   720
-#https://www.rapidvideo.com/e/FU9AWPNELP   720
-#https://openload.co/embed/dX8adjYGus8/SHQTAGBD72.Ganol.ru.mkv.mp4
-type=video
-name=Tag (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg
-date=2018-10-20
-URL=https://openload.co/f/D7cK02rDms8/Tag_%282018%29%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%84%E0%B9%80%E0%B8%81%E0%B8%A1_%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%89_%E0%B9%81%E0%B8%9E%E0%B9%89%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
+
 
 
 type=video
@@ -13609,13 +13539,197 @@ URL=
 type=video
 name=
 thumb=
-date=2019-06-26
+date=2019-07-06
 URL=
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Welcome to Marwen (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o45VIAUYDcVCGuzd43l8Sr5Dfti.jpg
+date=2019-04-09
+URL=https://openload.co/f/1k-LsCaCkt8/Welcome.To.Marwen.2018.1080p.BluRay.x264-Replica.mkv.mp4
+#https://openload.co/f/d565qhyNNCk/Welcome_to_Marwen_%282018%291080p_BluRay_x264-Replica_Ganool.mkv.mp4
+#https://openload.co/f/SG18r6MZngo/Welcome.To.Marwen.2018.1080p.BluRay.x264-YTS.AM.mp4
+#https://openload.co/f/kQS8-XJfl4Q/Welcome.to.Marwen.2018.1080p.BluRay.x264.DTS-MT.mkv.mp4
+#https://openload.co/f/1k-LsCaCkt8/Welcome.To.Marwen.2018.1080p.BluRay.x264-Replica.mkv.mp4
+#https://openload.co/f/NN6sL6IVAtY/Welcome.to.Marwen.2018.1080p.BRRip.x264-MkvCage.mkv.mp4
+type=video
+name=Welcome to Marwen (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o45VIAUYDcVCGuzd43l8Sr5Dfti.jpg
+date=2019-07-06
+URL=https://openload.co/f/G16dXn_-huU/WELCOME_TO_MARWEN_%282018%29_%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%84%E0%B8%B1%E0%B8%A1_%E0%B8%97%E0%B8%B9_%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B9%88%E0%B8%99.mp4
+
+
+type=video
+name=Hereditary (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHV8HHlhwNup2VbpiACtlKzaGIQ.jpg
+date=2019-07-06
+URL=
+type=video
+name=Hereditary (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHV8HHlhwNup2VbpiACtlKzaGIQ.jpg
+date=2019-07-06
+URL=https://openload.co/f/nCwavd51wm8/HEREDITARY_%282018%29_%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+
+
+type=video
+name=Shazam! (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnopI5Xtky18MPhK40cZAGAOVeV.jpg
+date=2019-07-06
+URL=https://verystream.com/stream/3ufLdhz5eu3/Shazam.2019.1080p.BluRay_SeeHD.mp4
+#https://verystream.com/stream/eitX5vwYDWy/Shazam.2019.1080p.BRRip.x264-MkvCage.mkv.mp4
+#https://verystream.com/stream/UHMULtF6rJk/Shazam%21.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://verystream.com/stream/4Wvf61fzFXk/Shazam.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/xCYeWcXb1xc/Shazam_2019_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+#https://openload.co/f/8pOOnTTJx98/Shazam_2019_1080p_Bluray_x264_%E2%80%93_YTS.LT.mp4
+#https://openload.co/f/XC0sZN9_MzA/Shazam_2019_1080p_BRRip_x264-MkvCage_.mp4
+#https://openload.co/f/z5I2V-JrjLY/Shazam.2019.1080p.BluRay.x264.mkv.mp4
+type=video
+name=Shazam! (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnopI5Xtky18MPhK40cZAGAOVeV.jpg
+date=2019-07-06
+URL=https://openload.co/f/bb44OGx1vl8/SHAZAM%21_%282019%29_%E0%B8%8A%E0%B8%B2%E0%B9%81%E0%B8%8B%E0%B8%A1%21.mp4
+
+
+type=video
+name=Us (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg
+date=2019-06-26
+URL=https://openload.co/f/YqqO6oOZjrM/Us.2019.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/D8rVBwAFTEk/Us_2019_1080p_BluRay_AAC-RARBG_.mp4
+#https://openload.co/f/4NKcCHS1At8/Us_2019_1080p_BluRay_x264-YTS_LT.mp4
+type=video
+name=Us (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg
+date=2019-07-06
+URL=https://openload.co/f/dv55XyOmpKY/US_%282019%29_%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B8%A5%E0%B8%A7%E0%B8%87_%E0%B9%80%E0%B8%A3%E0%B8%B2.mp4
+
+
+type=video
+name=Dumbo (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/279PwJAcelI4VuBtdzrZASqDPQr.jpg
+date=2019-06-26
+URL=https://openload.co/f/nFtItl_dRCQ/Dumbo_2019_1080p_BluRay_AAC-RARBG_.mp4
+#https://openload.co/f/GP690NLCtlU/Dumbo.2019.1080p.Bluray.DD5.1.x264.mkv.mp4
+#https://openload.co/f/uVY9xNyc5Zg/Dumbo.2019.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/dB5u303CBYo/Dumbo_2019_1080p_BluRay_x264-YTS_LT_.mp4
+#https://openload.co/f/lQN33sL4-Cs/Dumbo_2019_1080p_Bluray_1400MB_DD5_1_x264-GalaxyRG_.mp4
+#https://openload.co/f/WFhFzpXASe8/Dumbo.2019.1080p.Bluray.DD5.1.x264.mkv.mp4
+#https://openload.co/f/FZ1Yz6T-7CY/Dumbo.2019.1080p.BluRay_SeeHD.mp4
+type=video
+name=Dumbo (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/279PwJAcelI4VuBtdzrZASqDPQr.jpg
+date=2019-07-06
+URL=https://openload.co/f/IL9ndKp47Vs/DUMBO_%282019%29_%E0%B8%94%E0%B8%B1%E0%B8%A1%E0%B9%82%E0%B8%9A%E0%B9%89.mp4
+
+
+type=video
+name=6 Below: Miracle on the Mountain (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-56
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eZynKoLiPq9b6DQGLOFHt6mZPv.jpg
+date=2017-11-17
+URL=https://openload.co/f/3ar1ciJE_8g/6.Below.Miracle.on.the.Mountain.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/SytT_2ZR_kc/6.Below.Miracle.on.the.Mountain.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/JG-_5_FdurA/6_Below%3A_Miracle_on_the_Mountain_%282017%29.WEB-DL.XviD.AC3-FGT.avi.mp4
+#https://www.blazefile.co/embed-lawol7qg5fnv.html   720
+type=video
+name=6 Below: Miracle on the Mountain (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eZynKoLiPq9b6DQGLOFHt6mZPv.jpg
+date=2019-07-06
+URL=https://openload.co/f/fu1QrSAIacw/6_BELOW%3A_MIRACLE_ON_THE_MOUNTAIN_%282017%29_6_%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C%E0%B8%9A%E0%B8%99%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%82%E0%B8%B2.mp4
+
+
+type=video
+name=Sleepwalker (2017) [COLOR=FF00FF00]ENG WEB 1080p[/COLOR] | TMDB-46
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyLCyJZr0jLYhuojFZn8kjkkSzH.jpg
+date=2018-03-08
+URL=https://openload.co/f/8MxUCmLZrpc/Sleepwalker.2017.1080p.WEB-DL.DD5.1.H.264-FGT.mkv.mp4
+#https://openload.co/f/JZe9TCIgTEI/Sleepwalker_2017_HDRip_XviD_AC3-EVO.mp4
+type=video
+name=Sleepwalker (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyLCyJZr0jLYhuojFZn8kjkkSzH.jpg
+date=2019-07-06
+URL=https://openload.co/f/NofyP6fe1V8/SLEEPWALKER_%282017%29_%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A1%E0%B8%AD.mp4
+
+
+type=video
+name=Slaughterhouse Rulez (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-55
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iKnT5rDGd8htK58DOUiHgjKLof.jpg
+date=2019-05-15
+URL=https://openload.co/f/1OKD8vskx64/Slaughterhouse_Rulez_2018_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+#https://openload.co/f/JxdsFcA-Ems/Slaughterhouse.Rulez.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/E2LKMG8a-fA/Slaughterhouse.Rulez.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+type=video
+name=Slaughterhouse Rulez (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iKnT5rDGd8htK58DOUiHgjKLof.jpg
+date=2019-07-06
+URL=https://openload.co/f/QiFadIXtun4/SLAUGHTERHOUSE_RULEZ_%282018%29_%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%99.mp4
+
+
+type=video
+name=When I Get Home, My Wife Always Pretends to be Dead (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-73
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPvUFR6u6rDyLz2K2jEVdIoBrSy.jpg
+date=2019-07-06
+URL=
+type=video
+name=When I Get Home, My Wife Always Pretends to be Dead (2018)
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPvUFR6u6rDyLz2K2jEVdIoBrSy.jpg
+date=2019-07-06
+URL=https://openload.co/f/FwmhS5kThpw/WHEN_I_GET_HOME_MY_WIFE_ALWAYS_PRETENDS_TO_BE_DEAD_%282018%29_%E0%B8%9C%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%B5%E0%B8%A2...%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B9%81%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+
+
+type=video
+name=Unsane (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvDBfavZASdKsJunu9VCAtXjLS2.jpg
+date=2019-07-06
+URL=
+type=video
+name=Unsane (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvDBfavZASdKsJunu9VCAtXjLS2.jpg
+date=2019-07-06
+URL=https://openload.co/f/ld6f2_1V5Gg/UNSANE_%282018%29_%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2.mp4
+
+
+type=video
+name=Tag (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg
+date=2018-12-30
+URL=https://openload.co/f/sO4SSTJ1xig/Tag.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/iDj7iqqhKu0/Tag.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/Tf9tzNMi9L8/Tag.2018.1080p.BluRay-RARBG.mp4
+#https://openload.co/f/JdoYJAyTUkE/Tag.2018.1080p.BluRay.x264-GECKOS.mp4
+#https://openload.co/f/Y9JCxwZjw9A/Tag.2018.1080p.BluRay_x264-GECKOS.mkv   MKV7.7GB
+#https://openload.co/f/A52Q2c9ui-4/TAG_2018_720p_HD-TS_x264_HQ-24HD_SeeHD.mkv.mp4
+#https://uptobox.com/3cd2hbfhvkp3   720
+#https://www.rapidvideo.com/e/FU9AWPNELP   720
+#https://openload.co/embed/dX8adjYGus8/SHQTAGBD72.Ganol.ru.mkv.mp4
+type=video
+name=Tag (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg
+date=2019-07-06
+URL=https://openload.co/f/nkDeLHmenLE/TAG_%282018%29_%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%84%E0%B9%80%E0%B8%81%E0%B8%A1_%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%89_%E0%B9%81%E0%B8%9E%E0%B9%89%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99.mp4
+#https://openload.co/f/D7cK02rDms8/Tag_%282018%29%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%84%E0%B9%80%E0%B8%81%E0%B8%A1_%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%89_%E0%B9%81%E0%B8%9E%E0%B9%89%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
 type=video
@@ -13646,8 +13760,9 @@ URL=https://openload.co/f/Ce3rkEeIiV0/euphoria-2017-HD720.mp4
 type=video
 name=Euphoria (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Anw3eLdNVRXafpYktwRzAGd6sPW.jpg
-date=2019-06-26
-URL=https://openload.co/f/ZfiqrLKf8Kc/EUPHORIA_%282017%29%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
+date=2019-07-06
+URL=https://openload.co/f/7s7CPOUqDrY/EUPHORIA_%282017%29%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%9A%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99.mp4
+#https://openload.co/f/ZfiqrLKf8Kc/EUPHORIA_%282017%29%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
 
 
 type=video
@@ -13674,8 +13789,9 @@ URL=https://openload.co/f/EGasqysDdgA/black.water.2018.1080p.bluray.x264-getit.m
 type=video
 name=Black Water (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIcZAB5AmRN8fIDXfDZ2aUok9qa.jpg
-date=2019-06-26
-URL=https://openload.co/f/tXR6VnKPuBQ/BLACK_WATER_%282018%29_%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A8_%E0%B8%94%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94%E0%B8%82%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+date=2019-07-06
+URL=https://openload.co/f/6n04zBTdm_o/BLACK_WATER_%282018%29_%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A8_%E0%B8%94%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94%E0%B8%82%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+#https://openload.co/f/tXR6VnKPuBQ/BLACK_WATER_%282018%29_%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A8_%E0%B8%94%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94%E0%B8%82%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
 #https://openload.co/f/tIbQyQPuKaQ/Black_Water_%282018%29Black_Water_%282018%29_%28Google_Translate%29
 
 
@@ -13687,8 +13803,9 @@ URL=https://streamango.com/f/eecockcqcfkpqmok/Blind_2017_HD720_mp4
 type=video
 name=Blind (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXyObe5aB63ueOndEXxXabgAvIi.jpg
-date=2019-06-26
-URL=https://openload.co/f/sizI82xWKUc/BLIND_%282017%29_%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9A%E0%B8%AD%E0%B8%94.mp4
+date=2019-07-06
+URL=https://openload.co/f/ZdSwbt5x9iY/BLIND_%282017%29_%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9A%E0%B8%AD%E0%B8%94.mp4
+#https://openload.co/f/sizI82xWKUc/BLIND_%282017%29_%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9A%E0%B8%AD%E0%B8%94.mp4
 
 
 type=video
@@ -13711,6 +13828,7 @@ URL=https://openload.co/f/YvnHhtiq9h0/Five_Feet_Apart_2019_1080p_BluRay_AAC-RARB
 #https://openload.co/f/2dLPGkE-i_U/Five_Feet_Apart_2019_1080p_BRRip_x264-MkvCage_ws.mp4
 #https://openload.co/f/YvnHhtiq9h0/Five_Feet_Apart_2019_1080p_BluRay_AAC-RARBG.mp4
 #https://openload.co/f/EcM2fL5g3v8/Five_Feet_Apart_2019_1080p_BluRay_x264-YTS_AM.mp4
+#https://openload.co/f/aK-8pPZ4eX8/Five_Feet_Apart_%282019%291080p_BluRay_x264-DRONES_Ganool.mkv.mp4
 type=video
 name=Five Feet Apart (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kreTuJBkUjVWePRfhHZuYfhNE1T.jpg
@@ -13721,8 +13839,9 @@ URL=https://openload.co/f/JDgTMwLchnQ/FIVE_FEET_APART_%282019%29_%E0%B8%82%E0%B8
 type=video
 name=Happy Death Day 2U (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg
-date=2019-05-15
-URL=https://openload.co/f/wENSPT6X3a0/Happy_Death_Day_2U_%282019%291080p_BluRay_x264-DRONES_Ganool.mkv.mp4
+date=2019-07-06
+URL=https://openload.co/f/h7jRpFBXPaI/Happy_Death_Day_2U_2019_1080p_BluRay_x264_DTS-MW.mkv.mp4
+#https://openload.co/f/wENSPT6X3a0/Happy_Death_Day_2U_%282019%291080p_BluRay_x264-DRONES_Ganool.mkv.mp4
 #https://openload.co/f/NMwCRJwTVKo/Happy_Death_Day_2U_2019_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
 #https://openload.co/f/4WH63RsZ5Gs/Happy_Death_Day_2U_2019_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
 #https://openload.co/f/3rikcMnRYzk/Happy.Death.Day.2U.2019.NOLOGO.720p.HDCAM-1XBET.mp4
@@ -13730,6 +13849,7 @@ URL=https://openload.co/f/wENSPT6X3a0/Happy_Death_Day_2U_%282019%291080p_BluRay_
 #https://openload.co/f/kauecxHr3ec/Happy_Death_Day_2U.2019.HDCAM.XViD.AC3-ETRG.avi.mp4
 #https://openload.co/f/3rikcMnRYzk/Happy.Death.Day.2U.2019.NOLOGO.720p.HDCAM-1XBET.mp4
 #https://openload.co/f/6cDMqCBkkGw/Happy.Death.Day.2U.2019.720p.HDCAM-1XBET.mp4
+#https://verystream.com/stream/cAhGmNCPGLh/Happy_Death_Day_2U_2019_1080p_BluRay_x264_DTS-MW.mkv.mp4
 type=video
 name=Happy Death Day 2U (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/whtt9F8PFqvEgc4fDSHZPkitFk4.jpg
@@ -13796,8 +13916,9 @@ URL=https://uptobox.com/wc27td5z6q6g
 type=video
 name=Asher (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5p4Ev49KVR4itGWy3OHyqnRsz8.jpg
-date=2019-06-26
-URL=https://openload.co/f/hPlHHt-9D60/ASHER_%282018%29_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
+date=2019-07-06
+URL=https://openload.co/f/o8pUfcxNY0M/ASHER_%282018%29_%E0%B9%81%E0%B8%AD%E0%B8%8A_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+#https://openload.co/f/hPlHHt-9D60/ASHER_%282018%29_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
 
 
 type=video
@@ -13809,8 +13930,9 @@ URL=https://openload.co/f/Xmfd5vsQ2K8/Breaking_%26_Exiting_%282018%29720.mp4
 type=video
 name=Breaking & Exiting (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucZnGl4GJoTuIoJV2cX74k0WfK3.jpg
-date=2019-06-26
-URL=https://openload.co/f/hDtL8rEMgR0/BREAKING_%26_EXITING_%282018%29_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
+date=2019-07-06
+URL=https://openload.co/f/6VfBXfX0COQ/BREAKING_%26_EXITING_%282018%29_%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99_%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%9E%E0%B8%B1%E0%B8%87.mp4
+#https://openload.co/f/hDtL8rEMgR0/BREAKING_%26_EXITING_%282018%29_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
 
 
 type=video
