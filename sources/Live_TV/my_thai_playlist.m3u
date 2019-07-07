@@ -26,8 +26,6 @@ http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.st
 
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_3bb
 http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=BRQYQBXBRWcc7w2vi6LQrPj4EwhvBEJ7&password=x1yU4VfAZzCt3Pjkg82bWkxyHDV2iKtF
-#EXTINF:-1  tvg-logo="https://teevee-hd.com/img/ch5fhd.png",5 FULLHD
-http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="http://mvtv.co.th/ios/icons/GIF/fivehd_final_140-140.gif",MVTV 5
 https://edge1a.v2h-cdn.com/appt3/five.stream_720p/playlist.m3u8
 
@@ -48,7 +46,8 @@ https://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunk
 https://bbtvalive-a.bugaboo.tv/liveedgech7/_definst_/smil:auto.smil/chunklist_b2200000_sleng.m3u8
 #EXTINF:-1, tvg-logo="http://www.wezatv.com/images/ch7.png",BBTV CH 7_akamaihd
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
-
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-4vRZu2SiRSw/WdLYqkUFFlI/AAAAAAAAAF0/aTTW-yIICXYQPSy6u_J7l0oiPnBh2TqVwCLcBGAs/s200/002.png",5 FULLHD
+http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD_3bb
 http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcastwowza63_pptvhd_live1.stream/playlist.m3u8?username=PTFvmqGfLgTFl6HpVaoIeeZEmWMlkyEX&password=nihQNWt0dNGChmyriedBfz8gMap99Eld
@@ -2383,17 +2382,17 @@ http://188.26.25.141:8000/play/a00c/index.m3u8
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth (HD 4Mbps)
 http://1.53.111.93:6868/udp/225.1.2.25:30120
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT
 http://1.53.111.93:6868/udp/225.1.2.24:30120
 #EXTINF:-1 group-title="docu" tvg-logo="http://image.free.in.th/v/2013/io/180629043620.jpg",BBC Lifestyle_VN
 http://1.53.111.93:6868/udp/225.1.2.52:30120
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN
 http://1.53.111.93:6868/udp/225.1.1.197:30120
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_FPT
 http://1.53.111.93:6868/udp/225.1.2.253:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN
 http://1.53.111.93:6868/udp/225.1.1.198:30120
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_FPT
 http://1.53.111.93:6868/udp/225.1.2.98:30120
 
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
@@ -2414,20 +2413,7 @@ http://14.186.115.10:8889/rtp/232.84.2.129:9570
 http://14.186.115.10:8889/rtp/232.84.2.131:9582
 #EXTINF:-1,Da Vinci Learning
 http://14.186.115.10:8889/rtp/232.84.1.108:10224
-#EXTINF:-1,DISCOVERY ASIA
-http://14.186.115.10:8889/rtp/232.84.2.53:10528
-#EXTINF:-1,Nat Geo People
-http://14.186.115.10:8889/rtp/232.84.2.121:8376
-#EXTINF:-1,NAT GEO PEOPLE
-http://14.186.115.10:8889/rtp/232.84.1.67:8376
-#EXTINF:-1,NAT GEO PEOPLE HD
-http://14.186.115.10:8889/rtp/232.84.1.76:8430
-#EXTINF:-1,Max By HBO HD
-http://14.186.115.10:8889/rtp/232.84.2.139:10654
-#EXTINF:-1,FOX MOVIES HD
-http://14.186.115.10:8889/rtp/232.84.1.77:8436
-#EXTINF:-1,CNBC
-http://14.186.115.10:8889/rtp/232.84.2.177:10488
+
 
 
 
@@ -2791,8 +2777,10 @@ http://92.43.140.249/s65/04.m3u8
 
 
 
-
-
+#EXTINF:-1,USA | CNBC HD 1080P-
+http://1xs.mytvxweb.me:25461/christian/christian/14284
+#EXTINF:-1,USA | Fox Business Network HD 1080P-
+http://1xs.mytvxweb.me:25461/christian/christian/27349
 
 
 
