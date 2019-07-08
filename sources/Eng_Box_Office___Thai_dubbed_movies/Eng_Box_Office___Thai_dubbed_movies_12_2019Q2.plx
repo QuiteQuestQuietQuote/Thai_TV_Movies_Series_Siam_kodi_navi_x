@@ -39,7 +39,7 @@ type=video
 name=
 thumb=https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png
 date=2018-11-26
-URL=http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(3670016)?start=LIVE&end=END
+URL=http://123.249.76.157:10018/bysid/73
 
 type=video
 name=
@@ -63,13 +63,13 @@ type=video
 name=
 thumb=http://hochu.tv/images/nuart-tv.png
 date=2018-11-16
-URL=http://persik.by/stream/8682/252987/10003.m3u8
+URL=http://193.111.244.23:7777/nu_art_hd/playlist.m3u8 
 
 type=video
 name=
 thumb=http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg
 date=2018-07-13
-URL=http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
+URL=https://hls.telekabel.com.mk:1936/live/121/2500-def.m3u8
 
 
 
@@ -90,10 +90,10 @@ URL=https://verystream.com/stream/WQDUUZgU32T/Captain_Marvel_2019_1080p_BluRay_x
 
 
 type=video
-name=
+name=petsematary191080br.rar
 thumb=
-date=2019-01-03
-URL=
+date=2019-07-08
+URL=https://openload.co/f/FT_89O4JHjk/petsematary191080br.rar
 
 type=video
 name=Shazam 2019 1080p BluRay AAC-RARBG 
@@ -105,18 +105,13 @@ type=video
 name=
 thumb=
 date=2019-06-28
-URL=
+URL=http://203.154.243.32:8088/live/wsci/index.m3u8
 
 
 
 
 
-type=video
-name=Perfect Sense 2011 720p Bluray x264 – YIFY
-thumb=https://i.postimg.cc/YSvFdTxn/1.jpg
-date=2019-04-24
-URL=https://verystream.com/stream/fv3kHCzc3ZY/Perfect.Sense.2011.720p.BrRip.x264.YIFY.mp4
-#https://vidoza.net/uacq08fnze5y.html
+
 
 
 
