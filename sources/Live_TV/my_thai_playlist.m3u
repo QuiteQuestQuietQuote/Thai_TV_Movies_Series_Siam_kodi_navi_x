@@ -2500,6 +2500,20 @@ http://84.104.234.134:8001/1:0:19:52E3:C96:3:EB0000:0:0:0:
 #EXTINF:-1,HBO2
 http://84.104.234.134:8001/1:0:1:308:C94:3:EB0000:0:0:0:
 
+#EXTINF:-1,HBO EAST HD – NEW
+http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/371
+#EXTINF:-1,CINEMAX EAST HD – NEW
+http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/380
+#EXTINF:-1,SHOWTIME EAST HD (NEW)
+http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/11361
+#EXTINF:-1,SHOWTIME WOMEN HD (NEW)
+http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/11359
+#EXTINF:-1,STARZ HD
+http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/374
+#EXTINF:-1,FLIX – NEW
+http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/59056
+#EXTINF:-1, MOVIES PREMIERE
+http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/1733
 
 
 
@@ -2610,11 +2624,11 @@ http://122.38.74.172:9981/stream/channelid/798964177
 http://122.38.74.172:9981/stream/channelid/816085039 
 
 #EXTINF:-1,Viki Premium +18
-http://182.213.70.179:9981/stream/channelid/1516285058
+http://182.231.145.96:9981/stream/channelid/1516285058
 #EXTINF:-1,Pink Dorcel +19
-http://182.213.70.179:9981/stream/channelid/1855688449
+http://182.231.145.96:9981/stream/channelid/1855688449
 #EXTINF:-1,Desire Tv +19
-http://182.213.70.179:9981/stream/channelid/1058705531
+http://182.231.145.96:9981/stream/channelid/1058705531
 #EXTINF:-1,Playboy TV
 http://182.231.145.96:9981/stream/channelid/16845746
 
@@ -2640,6 +2654,8 @@ http://185.216.119.139:2015/ftvs.php?channelid=55a8b774a960e4dc08d211de&channelt
 http://185.216.119.139:2015/ftvs.php?channelid=55a8b751a960e4dc08d211dd&channeltype=1
 #EXTINF:-1,Banana HD
 http://wssource.hls.inke.cn/live/1663521478965236/playlist.m3u8
+#EXTINF:-1,Banana HD_flv
+http://devlivepull.migucloud.com/live/0ebdc7a3e5eed0a64e699492d16afebf.flv
 #EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",JAV_6_SonSee TV
 http://59.120.242.104:9000/live/live6.m3u8
 #EXTINF:-1,JAV_7_pan dora_perfect
@@ -2647,8 +2663,8 @@ http://59.120.242.104:9000/live/live7.m3u8
 
 #EXTINF:-1,phone vision
 http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3049003136-10057-A-0-1_1200.m3u8
-#EXTINF:-1,JAV_ok1
-http://ok2.se:8000/31yBdNLZ9J/uE96bnqNd1/6612
+#EXTINF:-1,JAV_ok2_mix
+http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/6612
 #EXTINF:-1,JAV_ok2
 http://ok2.se:8000/DTKwiaWRTW/5Z1DrWGzoi/6612
 
