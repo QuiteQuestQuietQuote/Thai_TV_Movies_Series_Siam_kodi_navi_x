@@ -1306,12 +1306,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6mM4UWRmS9sH1TpoRRhjgkLyb
 date=2019-06-26
 URL=https://openload.co/f/eN2J4LtMvko/The_Campus_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
 
-type=video
-name=The Aftermath (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/slGZ8miznmAZAaDHEz6BKo7f1N5.jpg
-date=2019-06-26
-URL=https://openload.co/f/4SDs8AisxOQ/The_Aftermath_2019_1080p_BluRay_x264-YTS_LT_.mp4
-#https://openload.co/f/DT7V2BCEGAE/The_Aftermath_2019_1080p_BluRay_1400MB_DD5_1_x264-GalaxyRG_.mp4
+
 
 type=video
 name=American Exit (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
@@ -1327,12 +1322,7 @@ URL=https://openload.co/f/7wzh3aDn6gM/City_of_Lies_2018_1080p_BluRay_AAC-RARBG_.
 #https://openload.co/f/S_naZ2Cv0Mo/City_of_Lies_2018_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
 #https://openload.co/f/7c4cSZI6Urk/City.of.Lies.2018.720p.HDCAM.HC.ENG.SUB.x264-1XBET.mp4
 
-type=video
-name=Wonder Park (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KomINZhIuJeB4oB7k7tkq8tmE.jpg
-date=2019-06-26
-URL=https://openload.co/f/vIOWefKITAA/Wonder_Park_2019_1080p_BRRip_x264-MkvCage_.mp4
-#https://openload.co/f/uLDRGowd3KU/Wonder_Park_2019_1080p_BluRay_AAC-RARBG_.mp4
+
 
 type=video
 name=The Head Hunter (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-53
@@ -11899,24 +11889,7 @@ date=2018-05-25
 URL=https://streamango.com/f/eamdktqemrqstept/V_I_P_2017_
 
 
-type=video
-name=Darkest Hour (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg
-date=2018-02-14
-URL=https://www.blazefile.co/embed-79ksytfi3jly.html
-#https://uptobox.com/lccmhalp0o37
-#https://openload.co/f/uOByRw0tBWY/Darkest.Hour.2017.1080p.Br_SeeHD.mp4
-#https://openload.co/f/VFXm1r4U504/darkest.hour.2017.1080p.bluray.x264-drones.mkv.mp4
-#https://openload.co/f/1Wg2viwoYXE/The.darkest.hour.2017.720p.web-dl_SeeHD.mp4
-#https://openload.co/f/l9nI9JzbGLA/The.Darkest.Hour.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/MSD8G8qEISo/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
-#https://openload.co/f/e509QYay-QI/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
-#https://openload.co/f/c2aiOqF-6tg/Darkest_Hour_2017_HC_TS_x264-ChiLove.mp4
-type=video
-name=Darkest Hour (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg
-date=2018-05-23
-URL=https://streamango.com/f/mflksmesbcmbqsad/Darkest_Hour_2017_
+
 
 
 
@@ -13534,7 +13507,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-07-06
+date=2019-07-10
 URL=
 
 
@@ -13546,18 +13519,66 @@ URL=
 
 
 
+type=video
+name=Nancy Drew and the Hidden Staircase (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/g805FevFI8BkmvorvyITZ1kGJcr.jpg
+date=2019-07-10
+URL=https://openload.co/f/hclCwWeUG4s/Nancy.Drew.And.The.Hidden.Staircase.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://openload.co/f/dSvqRQ_JdQw/Nancy.Drew.And.The.Hidden.Staircase.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://openload.co/f/h_ls4WDUkxI/Nancy.Drew.and.the.Hidden.Staircase.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/XvK9Lr7uK6o/Nancy.Drew.and.the.Hidden.Staircase.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+type=video
+name=Nancy Drew and the Hidden Staircase (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/g805FevFI8BkmvorvyITZ1kGJcr.jpg
+date=2019-07-10
+URL=https://openload.co/f/fwZFhxqH5ek/Nancy_Drew_and_the_Hidden_Staircase_%282019%29_%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%8B%E0%B8%B5%E0%B9%88_%E0%B8%94%E0%B8%A3%E0%B8%B9%E0%B8%A7%E0%B9%8C_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%94%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88.mp4
 
 
+type=video
+name=Wonder Park (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KomINZhIuJeB4oB7k7tkq8tmE.jpg
+date=2019-06-26
+URL=https://openload.co/f/vIOWefKITAA/Wonder_Park_2019_1080p_BRRip_x264-MkvCage_.mp4
+#https://openload.co/f/uLDRGowd3KU/Wonder_Park_2019_1080p_BluRay_AAC-RARBG_.mp4
+type=video
+name=Wonder Park (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KomINZhIuJeB4oB7k7tkq8tmE.jpg
+date=2019-07-10
+URL=https://openload.co/f/I2r9NTjSNWc/WONDER_PARK_%282019%29_%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C.mp4
 
 
+type=video
+name=The Aftermath (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/slGZ8miznmAZAaDHEz6BKo7f1N5.jpg
+date=2019-06-26
+URL=https://openload.co/f/4SDs8AisxOQ/The_Aftermath_2019_1080p_BluRay_x264-YTS_LT_.mp4
+#https://openload.co/f/DT7V2BCEGAE/The_Aftermath_2019_1080p_BluRay_1400MB_DD5_1_x264-GalaxyRG_.mp4
+type=video
+name=The Aftermath (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/slGZ8miznmAZAaDHEz6BKo7f1N5.jpg
+date=2019-07-10
+URL=https://openload.co/f/NyMXk5-S4Yw/THE_AFTERMATH_%282019%29_%E0%B8%AD%E0%B8%B2%E0%B8%9F%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%97.mp4
 
 
-
-
-
-
-
-
+type=video
+name=Darkest Hour (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg
+date=2018-02-14
+URL=https://www.blazefile.co/embed-79ksytfi3jly.html
+#https://uptobox.com/lccmhalp0o37
+#https://openload.co/f/uOByRw0tBWY/Darkest.Hour.2017.1080p.Br_SeeHD.mp4
+#https://openload.co/f/VFXm1r4U504/darkest.hour.2017.1080p.bluray.x264-drones.mkv.mp4
+#https://openload.co/f/1Wg2viwoYXE/The.darkest.hour.2017.720p.web-dl_SeeHD.mp4
+#https://openload.co/f/l9nI9JzbGLA/The.Darkest.Hour.2017.720p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/MSD8G8qEISo/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/e509QYay-QI/Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8.avi.mp4
+#https://openload.co/f/c2aiOqF-6tg/Darkest_Hour_2017_HC_TS_x264-ChiLove.mp4
+type=video
+name=Darkest Hour (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg
+date=2019-07-10
+URL=https://openload.co/f/AXAD53nWsKA/DARKEST_HOUR_%282017%29_%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A1%E0%B8%87%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+#https://streamango.com/f/mflksmesbcmbqsad/Darkest_Hour_2017_
 
 
 type=video

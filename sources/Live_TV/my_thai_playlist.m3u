@@ -27,7 +27,7 @@ http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.st
 
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",NEW TV
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
-#EXTINF:-1 group-title="Free_TV" tvg-logo="http://mvtv.co.th/ios/icons/GIF/fivehd_final_140-140.gif",MVTV 5
+#EXTINF:-1 group-title="Free_TV" tvg-logo="http://mvtv.co.th/ios/icons/GIF/fivehd_final_140-140.gif",MVTV 5------------------------------
 https://edge1a.v2h-cdn.com/appt3/five.stream_720p/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD
@@ -52,7 +52,7 @@ http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD_3bb
 http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcastwowza63_pptvhd_live1.stream/playlist.m3u8?username=PTFvmqGfLgTFl6HpVaoIeeZEmWMlkyEX&password=nihQNWt0dNGChmyriedBfz8gMap99Eld
-#EXTINF:-1 group-title="Movie" tvg-logo="http://www.thaiptv.com/img/monopluslogo.png",MONO Plus+_3bb
+#EXTINF:-1 group-title="Movie" tvg-logo="http://www.thaiptv.com/img/monopluslogo.png",MONO Plus+_3bb-----------------------------------
 http://110.164.95.230:1935/Edge_Cloudiptv_Authen/cloudiptv_monoplus_live1.stream/playlist.m3u8?username=0ccuCF7ueOu6wBnS7yhTLmHSlnYlhSph&password=REsp6A5OZVJDOFXiYIUFRvW0IjNiv1La
 
 
@@ -2037,7 +2037,7 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1,BBC World News 
 http://persik.by/stream/4914/395387/46.m3u8 
 
-#EXTINF:-1 group-title="BAJIGUR",cnbc
+#EXTINF:-1 group-title="BAJIGUR",cnbc--------------------------
 http://161.0.157.38/PLTV/88888888/224/3221227005/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_udp
 http://109.205.228.2:8088/udp/234.12.3.35:5000_KRICKA_dont_cry
@@ -2057,7 +2057,7 @@ http://tvpremiumhd.club/lista-gratuita/213019/on/live.php?id=161.0.157.9/PLTV/88
 http://ott-cdn.ucom.am/s65/index.m3u8
 
 
-#EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok
+#EXTINF:-1 group-title="DOCU"  tvg-logo="http://image.free.in.th/v/2013/it/180811065437.png",Somrojlok--------------------------
 https://live3.intersteam-idc.com/iheartmovie54/0x222_monoplus_720p/playlist.m3u8
 #EXTINF:-1,GONG_movie
 http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
@@ -2129,7 +2129,7 @@ http://203.154.243.32:8088/live/musicforyou/index.m3u8
 http://rtmp.one.by:1400/
 
 
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/551035274344402946/ywxl9pq3_400x400.jpeg",100automoto
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/551035274344402946/ywxl9pq3_400x400.jpeg",100automoto--------------------------
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1,automotorsport
 http://unicast.bbxnet.sk/live/automotorsport-hd/playlist.m3u8
@@ -2138,7 +2138,7 @@ http://cars-and-stars-tv-hls1.cosmonova.net.ua/hls/cars-and-stars-tv_ua_hi/index
 
 
 
-#EXTINF:-1,hdmedia_3D
+#EXTINF:-1,hdmedia_3D--------------------------
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 #EXTINF:-1,BesTV4K_CHN
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000499/index.m3u8
@@ -2163,7 +2163,7 @@ http://5.189.191.125:13456/sensestv_h264/index.m3u8
 
 
 
-#EXTINF:-1,Fish Channel xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#EXTINF:-1,Fish Channel --------------------------
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI
 http://80.80.160.168/live/9/live.m3u8
@@ -2174,7 +2174,7 @@ http://27.254.149.109:8081/tumlive/h2/playlist.m3u8
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_bear-tv
 http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_TTVHD
+#EXTINF:-1 group-title="docu" tvg-logo="https://2.bp.blogspot.com/-3d3WgM6_pS4/WdLZXTQJvOI/AAAAAAAAARg/wl81GeAtiGUPqwAb6ax6a70YhQPaA6COwCLcBGAs/s320/189.png",AFC_TTVHD--------------------------
 http://www.ssh101.com/m3u8/dyn/TTVHD/index.m3u8
 #EXTINF:-1,CRT_CHN
 http://stream.chinactv.com/ctv3/sd/live.m3u8
@@ -2191,7 +2191,7 @@ http://umutiptv.cf/tvizio.bg/24kitchen/canli.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/d2/37/1dd237c0-dc9f-43a2-a6f5-3b2e7f31e8ff/source/512x512bb.jpg",opensky_CHN
+#EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/1d/d2/37/1dd237c0-dc9f-43a2-a6f5-3b2e7f31e8ff/source/512x512bb.jpg",opensky_CHN--------------------------
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
  #EXTINF:-1,travel_Ch
 http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/1070/index.m3u8
@@ -2247,7 +2247,7 @@ http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 
 
 
-#EXTINF:-1,D_CH
+#EXTINF:-1,D_CH--------------------------
 http://39.134.176.157/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1,E
 http://210.210.155.35/session/d63bb414-30c3-11e9-b5a0-c81f66f89318/uq2663/h/h10/01.m3u8
@@ -2262,7 +2262,7 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 http://ott-cdn.ucom.am/s37/index.m3u8
 
 
-#EXTINF:-1,cnbc
+#EXTINF:-1,cnbc--------------------------
 http://161.0.157.9:80/PLTV/88888888/224/3221227005/index.m3u8
 #EXTINF:-1 group-title="movies" tvg-logo="http://www.sine.tv/images/icon/foxpremium.png",Fox Movie Premium
 http://161.0.157.9/PLTV/88888888/224/3221226793/index.m3u8
@@ -2290,7 +2290,7 @@ http://161.0.157.50/PLTV/88888888/224/3221227026/01.m3u8
 
 
 
-#EXTINF:-1,Fish Channel
+#EXTINF:-1,Fish Channel--------------------------
 http://161.0.157.38/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1,docuchina_rtmp
 rtmp://ivi.bupt.edu.cn:1935/livetv/docuchina
@@ -2336,7 +2336,7 @@ http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8
 #EXTINF:-1,CHN
 http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8
 
-#EXTINF:-1,CNEX
+#EXTINF:-1,CNEX--------------------------
 http://61.58.60.230:9319/live/257.m3u8
 #EXTINF:-1,CNEX_HHZT
 http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
@@ -2360,7 +2360,7 @@ http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
 http://61.216.10.122:4046/VideoInput/play.ts
-#EXTINF:-1,BBC Earth SD_kor
+#EXTINF:-1,BBC Earth SD_kor--------------------------
 http://14.36.40.209:9981/stream/channelid/2062289700
 #EXTINF:-1,BBC Earth_kor1
 http://58.229.138.182:9981/stream/channelid/253613633
@@ -2372,7 +2372,7 @@ http://175.125.208.40:9981/stream/channelid/363486014
 http://182.231.145.96:9981/stream/channelid/448448880
 
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD--------------------------
 http://123.249.76.157:10018/bysid/73
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
 http://1.233.136.3:9981/stream/channelid/1242002460
@@ -2381,7 +2381,7 @@ https://hls.telekabel.com.mk:1936/live/121/2500-def.m3u8
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DaVinci Learning_PL
 http://188.26.25.141:8000/play/a00c/index.m3u8
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth (HD 4Mbps)
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth (HD 4Mbps)--------------------------
 http://1.53.111.93:6868/udp/225.1.2.25:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT
 http://1.53.111.93:6868/udp/225.1.2.24:30120
@@ -2396,7 +2396,7 @@ http://1.53.111.93:6868/udp/225.1.1.198:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_FPT
 http://1.53.111.93:6868/udp/225.1.2.98:30120
 
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp--------------------------
 http://14.244.193.64:4022/rtp/232.84.2.131:9582
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp
 http://14.244.193.64:4022/rtp/232.84.2.129:9570
@@ -2406,7 +2406,7 @@ http://kodi:kodi@61.245.139.132:9981/stream/channelid/1590507445
 #EXTINF:-1,KLT
 http://61.58.60.230:9319/live/205.m3u8
 
-#EXTINF:-1,ASIAN FOOD CHANNEL
+#EXTINF:-1,ASIAN FOOD CHANNEL--------------------------
 http://14.186.115.10:8889/rtp/232.84.1.115:10236
 #EXTINF:-1,ASIAN FOOD CHANNEL HD
 http://14.186.115.10:8889/rtp/232.84.2.129:9570
@@ -2419,7 +2419,7 @@ http://14.186.115.10:8889/rtp/232.84.1.108:10224
 
 
 
-#EXTINF:-1,wsci
+#EXTINF:-1,wsci--------------------------
 http://203.154.243.32:8088/live/wsci/index.m3u8
 #EXTINF:-1  tvg-logo="http://www.tv.bunjerd.com/static/image/tv_radio/tv/saradee.jpg",PSI_3bb
 http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcast73_psi_live1.stream/playlist.m3u8?username=FAmNzLBxvIBauswQfHxodyrgRUAbPQwk&password=ytPTI7P9L1S7PHg7DWXLRTRylvMYS2ve
@@ -2429,7 +2429,7 @@ http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 
 
 
-#EXTINF:-1,cinema world
+#EXTINF:-1,cinema world--------------------------
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ii/180703075348.jpg",Movie CH1
 http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
@@ -2448,7 +2448,7 @@ http://iliketot.dyndns.tv/63cbfb466fe644dda11a8e109611a5cd.m3u8
 #EXTINF:-1,CHN
 http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8
 
-#EXTINF:-1,hboth_fwiptv
+#EXTINF:-1,hboth_fwiptv--------------------------
 http://cloudlive-bl3.ddns.net:1936/transcoder_F1/hboth_fwiptv.stream/playlist.m3u8
 #EXTINF:-1,Movies_subth
 http://203.154.243.89:2037
@@ -2480,7 +2480,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u
 https://5790d294af2dc.streamlock.net/8232/8232/playlist.m3u8
 
 
-#EXTINF:-1,Movies_HHZT
+#EXTINF:-1,Movies_HHZT--------------------------
 http://220.158.149.14:9999/live/TV00000000000000000081@HHZT;LIVE?auth=zarin:RJsKR
 #EXTINF:-1,hollywood HD
 http://113.196.177.81:8909/VideoInput/play.ts
@@ -2491,16 +2491,15 @@ http://113.196.177.81:8895/VideoInput/play.ts
 #EXTINF:-1,Movies_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x11
 
-#EXTINF:-1,CineMax_7634
-http://178.156.198.68:7634
-#EXTINF:-1,CineMax
+
+#EXTINF:-1,CineMax--------------------------
 http://212.111.17.130:8001/1:0:1:30a:C94:3:EB0000:0:0:0:
 #EXTINF:-1,FilmBox_Plus
 http://84.104.234.134:8001/1:0:19:52E3:C96:3:EB0000:0:0:0:
 #EXTINF:-1,HBO2
 http://84.104.234.134:8001/1:0:1:308:C94:3:EB0000:0:0:0:
 
-#EXTINF:-1,HBO EAST HD – NEW
+#EXTINF:-1,HBO EAST HD – NEW--------------------------
 http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/371
 #EXTINF:-1,CINEMAX EAST HD – NEW
 http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/380
@@ -2517,15 +2516,19 @@ http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/1733
 
 
 
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_78.29.1.66
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_78.29.1.66--------------------------
 http://78.29.1.66/live/nu_art/copy/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NUART TV HD
 http://95.85.90.118:8082/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NUART_HD
+http://185.35.4.37:8087/nuarthd/ch.m3u8
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_HD
+http://hls.telenet.lv:7777/nu_art_hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_1080p
 http://193.111.244.23:7777/nu_art_hd/playlist.m3u8 
 
 
-#EXTINF:-1,RedLight
+#EXTINF:-1,RedLight--------------------------
 http://84.104.234.134:8001/1:0:1:4224:3DB8:13E:820000:0:0:0
 #EXTINF:-1,Penthouse_quickies
 http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
@@ -2533,10 +2536,12 @@ http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
 http://212.111.17.130:8001/1:0:19:3728:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,Penthouse_gold27
 http://212.111.17.130:8001/1:0:19:3727:C8E:3:EB0000:0:0:0:
-#EXTINF:-1,Penthouse_passion
+#EXTINF:-1,Penthouse_passion--------------------------
 http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/1073/index.m3u8
 #EXTINF:-1,Penthouse_passion2
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
+#EXTINF:-1,Candy--------------------------
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/10596
 #EXTINF:-1,Xchimera
 http://config.streamstv.me:8080/ZsIlThUSA9/ldzfZeKNsu/62334
 #EXTINF:-1,frenchlover
@@ -2545,13 +2550,13 @@ http://78.29.1.66/live/frenchlover/copy/playlist.m3u8
 rtsp://51.254.198.110:1935/leved/livesexlatinas
 #EXTINF:-1,Russian Night_/udp
 http://188.35.9.11:21051/udp/071l
-#EXTINF:-1,Russian Night
+#EXTINF:-1,Russian Night--------------------------
 http://46.32.68.167/s/live/708/100.0.0.5/1/0.m3u8
 #EXTINF:-1,playboy_b
 http://46.32.68.167/s/live/707/100.0.0.5/1/0.m3u8
 #EXTINF:-1,playboy_b2
 http://46.32.68.167/s/live/707/86.169.51.136/1/0.m3u8
-#EXTINF:-1,playboy_red2
+#EXTINF:-1,playboy_red2--------------------------
 http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/18933
 #EXTINF:-1,playboy_red1
 http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/18932
@@ -2559,13 +2564,27 @@ http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/18932
 http://hls.telenet.lv:7878/playboy/playlist.m3u8
 #EXTINF:-1,blue hustler
 http://3e6cdf85.iptvbot.biz/iptv/3PTSM5QVK6GK6L/1064/index.m3u8
-#EXTINF:-1,Private TV HD 
+#EXTINF:-1,frenchlover
+http://91.204.234.3:8000/play/a001/index.m3u8
+#EXTINF:-1,YouPorn --------------------------
+http://force102.com:8080/timur82/82timur/10729
+#EXTINF:-1,Private TV HD
+http://force102.com:8080/timur82/82timur/10732
+#EXTINF:-1,Playboy HD
+http://force102.com:8080/timur82/82timur/10733
+#EXTINF:-1,PornHD
+http://force102.com:8080/timur82/82timur/10734
+#EXTINF:-1,Dorcel HD
+http://force102.com:8080/timur82/82timur10736
+#EXTINF:-1,Private TV HD --------------------------
 http://84.22.67.164:8000/play/a002/index.m3u8 
 #EXTINF:-1,Vivid Red HD 
 http://84.22.67.164:8000/play/a004/index.m3u8 
 #EXTINF:-1,Redlight HD 
 http://84.22.67.164:8000/play/a003/index.m3u8
-#EXTINF:-1,lesbian_rtmp
+#EXTINF:-1,DorcelHD
+http://91.194.72.46:10043/play/DorcelHD/index.m3u8
+#EXTINF:-1,lesbian_rtmp--------------------------------------
 rtmp://62.210.55.60/stream3xVJ/3x01
 #EXTINF:-1,Solo_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x06
@@ -2579,7 +2598,7 @@ rtmp://62.210.55.60/stream3xVJ/3x13
 rtmp://62.210.55.60/stream3xVJ/3x16
 #EXTINF:-1,Submissive_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x18
-#EXTINF:-1,redtraffic_milf
+#EXTINF:-1,redtraffic_milf-----------------------------
 http://live.redtraffic.xyz/milf.m3u8
 #EXTINF:-1,redtraffic_threesome
 http://live.redtraffic.xyz/threesome.m3u8
@@ -2606,7 +2625,7 @@ http://live.redtraffic.xyz/bigass.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey) TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey) TV-------------------------
 http://122.38.74.172:9981/stream/channelid/1463854277
 #EXTINF:-1,VIKI
 http://116.45.184.224:9981/stream/channelid/337044103?ticket=EFFC15CF470CE1FE437C7294EC49FD766AB73659&profile=pass
@@ -2633,7 +2652,7 @@ http://182.231.145.96:9981/stream/channelid/1058705531
 http://182.231.145.96:9981/stream/channelid/16845746
 
 
-#EXTINF:-1,jap_ts1
+#EXTINF:-1,jap_ts1---------------------------
 http://125.227.210.37:9001/VideoInput/play.ts
 #EXTINF:-1,jap_ts2
 http://125.227.210.37:9002/VideoInput/play.ts
@@ -2646,7 +2665,7 @@ http://125.227.210.37:9005/VideoInput/play.ts
 
 
 
-#EXTINF:-1,SonSee TV3_php
+#EXTINF:-1,SonSee TV3_php-----------------------
 http://185.216.119.139:2015/ftvs.php?channelid=5795c5a5326d2e110eca080e&channeltype=1
 #EXTINF:-1,SonSee TV2_php
 http://185.216.119.139:2015/ftvs.php?channelid=55a8b774a960e4dc08d211de&channeltype=1
@@ -2660,10 +2679,10 @@ http://devlivepull.migucloud.com/live/0ebdc7a3e5eed0a64e699492d16afebf.flv
 http://59.120.242.104:9000/live/live6.m3u8
 #EXTINF:-1,JAV_7_pan dora_perfect
 http://59.120.242.104:9000/live/live7.m3u8
-
 #EXTINF:-1,phone vision
 http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3049003136-10057-A-0-1_1200.m3u8
-#EXTINF:-1,JAV_ok2_mix
+
+#EXTINF:-1,JAV_ok2_mix--------------------------
 http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/6612
 #EXTINF:-1,JAV_ok2
 http://ok2.se:8000/DTKwiaWRTW/5Z1DrWGzoi/6612
@@ -2675,7 +2694,7 @@ http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/72394
 
 
 
-#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_streamlock.net
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_streamlock.net--------------------------
 https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream2/playlist.m3u8
@@ -2685,7 +2704,7 @@ https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream3/playlist.m3u8
 https://5a2a51fc4cfde.streamlock.net/live/_definst_/Stream4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNi8yMDE5IDI6NTM6MTUgUE0maGFzaF92YWx1ZT1qYUdIZjFuZHRadFpXTC9oaGdTZHJ3PT0mdmFsaWRtaW51dGVzPTE4MCZpZD0xNTYxNTYwNzk1
 
 
-#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_dvr1
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_dvr1--------------------------
 https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2dvr2
 https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
@@ -2715,7 +2734,7 @@ http://ibiza-tv.1919hdtv.com:8880/lfh/Stream3/playlist.m3u8
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg",ftv_midnite_secrets
+#EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg",ftv_midnite_secrets--------------------------
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagescdn2.swigit.com/LiveChannels/Logo/a3bikini" group-title="Adult IPTV",A3 Bikini
 http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
@@ -2740,7 +2759,7 @@ http://178.219.160.167:8080/Nuart/index.m3u8
 
 
 
-#EXTINF:-1,Shot tv
+#EXTINF:-1,Shot tv--------------------------
 http://91.90.253.66:8080/CH236_std/index.m3u8
 #EXTINF:-1,GONG_movie_playmedia
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
@@ -2758,7 +2777,7 @@ http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2
 
 
 
-#EXTINF:-1 group-title="docu" tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/02/CGTN_Documentary_logo-1.png",CGTN Documentary
+#EXTINF:-1 group-title="docu" tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/02/CGTN_Documentary_logo-1.png",CGTN Documentary--------------------------
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://america.cgtn.com/wp-content/uploads/2016/12/af61fb95-f5cb-418b-b24a-61c6b1991dd4-640x640.jpg",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
@@ -2777,7 +2796,7 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
-#EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News US HD
+#EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News US HD--------------------------
 https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg TV Australia
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
