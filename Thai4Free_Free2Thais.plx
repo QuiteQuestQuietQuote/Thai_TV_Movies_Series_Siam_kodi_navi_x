@@ -109,10 +109,10 @@ rating=-1.00
 
 
 type=script
-name=repository.exodusredux-0.0.7.zip
+name=
 thumb=
 date=2017-07-16
-URL=https://github.com/QuiteQuestQuietQuote/zips/blob/master/repository.exodusredux/repository.exodusredux-0.0.7.zip
+URL=
 
 type=script
 name=repository.kodibae-1.0.0.zip
@@ -126,12 +126,11 @@ thumb=
 date=2018-12-16
 URL=https://github.com/QuiteQuestQuietQuote/tva-release-repo/blob/master/repository.xbmchub/repository.xbmchub-3.0.0.zip
 
-
-
-
-
-
-
+type=script
+name=plugin.video.elementum-0.1.35.android_arm.zip
+thumb=
+date=2019-07-11
+URL=https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.35/plugin.video.elementum-0.1.35.android_arm.zip
 
 
 

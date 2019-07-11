@@ -2348,10 +2348,16 @@ http://ott-cdn.ucom.am/s44/index.m3u8
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History
 http://91.90.253.66:8080/CH620_std/index.m3u8
+
 #EXTINF:-1,Viasat History
 https://hls.telekabel.com.mk:1936/live/101/2500-def.m3u8
 #EXTINF:-1,Viasat Explore
 https://hls.telekabel.com.mk:1936/live/111/2500-def.m3u8
+#EXTINF:-1,Viasat_History_RU
+http://193.93.236.121:9998/play/Viasat_History/index.m3u8
+#EXTINF:-1,Viasat_Nature_RU
+http://193.93.236.121:9998/play/Viasat_Nature/index.m3u8
+
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_iliketot
 http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_iliketot
@@ -2380,6 +2386,8 @@ http://1.233.136.3:9981/stream/channelid/1242002460
 https://hls.telekabel.com.mk:1936/live/121/2500-def.m3u8
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DaVinci Learning_PL
 http://188.26.25.141:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DaVinci Learning_RU
+http://193.93.236.121:9999/play/Da_Vinci/index.m3u8
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth (HD 4Mbps)--------------------------
 http://1.53.111.93:6868/udp/225.1.2.25:30120
@@ -2499,7 +2507,7 @@ http://84.104.234.134:8001/1:0:19:52E3:C96:3:EB0000:0:0:0:
 #EXTINF:-1,HBO2
 http://84.104.234.134:8001/1:0:1:308:C94:3:EB0000:0:0:0:
 
-#EXTINF:-1,HBO EAST HD – NEW--------------------------
+#EXTINF:-1,HBO EAST HD – NEW--------------------------ok2.se:8000
 http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/371
 #EXTINF:-1,CINEMAX EAST HD – NEW
 http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/380
@@ -2566,16 +2574,8 @@ http://hls.telenet.lv:7878/playboy/playlist.m3u8
 http://3e6cdf85.iptvbot.biz/iptv/3PTSM5QVK6GK6L/1064/index.m3u8
 #EXTINF:-1,frenchlover
 http://91.204.234.3:8000/play/a001/index.m3u8
-#EXTINF:-1,YouPorn --------------------------
-http://force102.com:8080/timur82/82timur/10729
-#EXTINF:-1,Private TV HD
-http://force102.com:8080/timur82/82timur/10732
-#EXTINF:-1,Playboy HD
-http://force102.com:8080/timur82/82timur/10733
-#EXTINF:-1,PornHD
-http://force102.com:8080/timur82/82timur/10734
-#EXTINF:-1,Dorcel HD
-http://force102.com:8080/timur82/82timur10736
+#EXTINF:-1,frenchlover
+http://91.204.234.3:8000/play/a00p/index.m3u8
 #EXTINF:-1,Private TV HD --------------------------
 http://84.22.67.164:8000/play/a002/index.m3u8 
 #EXTINF:-1,Vivid Red HD 
@@ -2812,9 +2812,10 @@ http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 http://92.43.140.249/s65/04.m3u8
 
 
-
-
-
+#EXTINF:-1,US: CNBC | HD
+http://olympustv.live:8080/tejeda/tejeda/8488
+#EXTINF:-1,US: FOX BUSINESS NETWORK HD
+http://olympustv.live:8080/tejeda/tejeda/8483
 
 
 
