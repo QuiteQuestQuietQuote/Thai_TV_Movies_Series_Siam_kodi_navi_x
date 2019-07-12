@@ -2423,7 +2423,8 @@ http://14.186.115.10:8889/rtp/232.84.2.131:9582
 #EXTINF:-1,Da Vinci Learning
 http://14.186.115.10:8889/rtp/232.84.1.108:10224
 
-
+#EXTINF:-1,UK | BBC Earth
+http://jokeriptv.online:1453/hakan/güclü/119901
 
 
 
@@ -2574,14 +2575,8 @@ http://hls.telenet.lv:7878/playboy/playlist.m3u8
 http://3e6cdf85.iptvbot.biz/iptv/3PTSM5QVK6GK6L/1064/index.m3u8
 #EXTINF:-1,frenchlover
 http://91.204.234.3:8000/play/a001/index.m3u8
-#EXTINF:-1,frenchlover
+#EXTINF:-1,Randomfrenchlover
 http://91.204.234.3:8000/play/a00p/index.m3u8
-#EXTINF:-1,Private TV HD --------------------------
-http://84.22.67.164:8000/play/a002/index.m3u8 
-#EXTINF:-1,Vivid Red HD 
-http://84.22.67.164:8000/play/a004/index.m3u8 
-#EXTINF:-1,Redlight HD 
-http://84.22.67.164:8000/play/a003/index.m3u8
 #EXTINF:-1,DorcelHD
 http://91.194.72.46:10043/play/DorcelHD/index.m3u8
 #EXTINF:-1,lesbian_rtmp--------------------------------------
@@ -2631,6 +2626,8 @@ http://122.38.74.172:9981/stream/channelid/1463854277
 http://116.45.184.224:9981/stream/channelid/337044103?ticket=EFFC15CF470CE1FE437C7294EC49FD766AB73659&profile=pass
 #EXTINF:-1,playboy_kor
 http://122.38.74.172:9981/stream/channelid/966306501.m3u8
+#EXTINF:-1,Playboy TV
+http://182.231.145.96:9981/stream/channelid/16845746
 #EXTINF:-1,HOUSE
 http://122.38.74.172:9981/stream/channelid/1086640851 
 #EXTINF:-1,MIDNIGHT
@@ -2642,14 +2639,8 @@ http://122.38.74.172:9981/stream/channelid/798964177
 #EXTINF:-1,Desire
 http://122.38.74.172:9981/stream/channelid/816085039 
 
-#EXTINF:-1,Viki Premium +18
-http://182.231.145.96:9981/stream/channelid/1516285058
-#EXTINF:-1,Pink Dorcel +19
-http://182.231.145.96:9981/stream/channelid/1855688449
-#EXTINF:-1,Desire Tv +19
-http://182.231.145.96:9981/stream/channelid/1058705531
-#EXTINF:-1,Playboy TV
-http://182.231.145.96:9981/stream/channelid/16845746
+
+
 
 
 #EXTINF:-1,jap_ts1---------------------------
@@ -2812,10 +2803,6 @@ http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 http://92.43.140.249/s65/04.m3u8
 
 
-#EXTINF:-1,US: CNBC | HD
-http://olympustv.live:8080/tejeda/tejeda/8488
-#EXTINF:-1,US: FOX BUSINESS NETWORK HD
-http://olympustv.live:8080/tejeda/tejeda/8483
 
 
 
