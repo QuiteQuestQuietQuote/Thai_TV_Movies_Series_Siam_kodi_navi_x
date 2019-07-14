@@ -2127,6 +2127,8 @@ http://wow01.105.net:1935/live/105Test1/livestream.m3u8
 http://203.154.243.32:8088/live/musicforyou/index.m3u8
 #EXTINF:-1 tvg-id="ONE By UHD 2160P 4K" group-title="Music" tvg-logo="",ONE By UHD 2160P 4K
 http://rtmp.one.by:1400/
+#EXTINF:-1,music_now
+http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/551035274344402946/ywxl9pq3_400x400.jpeg",100automoto--------------------------
@@ -2283,6 +2285,14 @@ http://161.0.157.50/PLTV/88888888/224/3221227026/01.m3u8
 
 
 
+#EXTINF:-1,ASIAN FOOD CHANNEL--------------------------
+http://14.186.115.10:8889/rtp/232.84.1.115:10236
+#EXTINF:-1,ASIAN FOOD CHANNEL HD
+http://14.186.115.10:8889/rtp/232.84.2.129:9570
+#EXTINF:-1,DA VINCI LEARNING HD
+http://14.186.115.10:8889/rtp/232.84.2.131:9582
+#EXTINF:-1,Da Vinci Learning
+http://14.186.115.10:8889/rtp/232.84.1.108:10224
 
 
 
@@ -2390,19 +2400,21 @@ http://188.26.25.141:8000/play/a00c/index.m3u8
 http://193.93.236.121:9999/play/Da_Vinci/index.m3u8
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth (HD 4Mbps)--------------------------
-http://1.53.111.93:6868/udp/225.1.2.25:30120
+http://58.187.33.125:8889/udp/225.1.2.25:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT
-http://1.53.111.93:6868/udp/225.1.2.24:30120
+http://58.187.33.125:8889/udp/225.1.2.24:30120
 #EXTINF:-1 group-title="docu" tvg-logo="http://image.free.in.th/v/2013/io/180629043620.jpg",BBC Lifestyle_VN
-http://1.53.111.93:6868/udp/225.1.2.52:30120
+http://58.187.33.125:8889/udp/225.1.2.52:30120
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN
-http://1.53.111.93:6868/udp/225.1.1.197:30120
+http://58.187.33.125:8889/udp/225.1.1.197:30120
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_FPT
-http://1.53.111.93:6868/udp/225.1.2.253:30120
+http://58.187.33.125:8889/udp/225.1.2.253:30120
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_SD_VN
+http://58.187.33.125:8889/udp/225.1.2.9:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN
-http://1.53.111.93:6868/udp/225.1.1.198:30120
+http://58.187.33.125:8889/udp/225.1.1.198:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_FPT
-http://1.53.111.93:6868/udp/225.1.2.98:30120
+http://58.187.33.125:8889/udp/225.1.2.98:30120
 
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp--------------------------
 http://14.244.193.64:4022/rtp/232.84.2.131:9582
@@ -2414,17 +2426,123 @@ http://kodi:kodi@61.245.139.132:9981/stream/channelid/1590507445
 #EXTINF:-1,KLT
 http://61.58.60.230:9319/live/205.m3u8
 
-#EXTINF:-1,ASIAN FOOD CHANNEL--------------------------
-http://14.186.115.10:8889/rtp/232.84.1.115:10236
-#EXTINF:-1,ASIAN FOOD CHANNEL HD
-http://14.186.115.10:8889/rtp/232.84.2.129:9570
-#EXTINF:-1,DA VINCI LEARNING HD
-http://14.186.115.10:8889/rtp/232.84.2.131:9582
-#EXTINF:-1,Da Vinci Learning
-http://14.186.115.10:8889/rtp/232.84.1.108:10224
+#EXTINF:-1,BBC WORLD NEWS--------------------------
+http://58.187.33.125:8889/udp/225.1.2.74:30120
+#EXTINF:-1,CNBC
+http://58.187.33.125:8889/udp/225.1.1.227:30120
+#EXTINF:-1,CNN
+http://58.187.33.125:8889/udp/225.1.1.242:30120
+#EXTINF:-1,Discovery Asia HD
+http://58.187.33.125:8889/udp/225.1.2.222:30120
+#EXTINF:-1,Discovery Asia HD
+http://58.187.33.125:8889/udp/225.1.2.223:30120
+#EXTINF:-1,Discovery Channel
+http://58.187.33.125:8889/udp/225.1.1.238:30120
+#EXTINF:-1,Disney Channel
+http://58.187.33.125:8889/udp/225.1.1.232:30120
+#EXTINF:-1,Disney Channel HD
+http://58.187.33.125:8889/udp/225.1.2.158:30120
+#EXTINF:-1,Disney Channel HD
+http://58.187.33.125:8889/udp/225.1.2.160:30120
+#EXTINF:-1,FOX MOVIES
+http://58.187.33.125:8889/udp/225.1.1.205:30120
+#EXTINF:-1,FOX MOVIES HD
+http://58.187.33.125:8889/udp/225.1.2.238:30120
+#EXTINF:-1,FOX MOVIES HD
+http://58.187.33.125:8889/udp/225.1.2.239:30120
+#EXTINF:-1,HBO SD
+http://58.187.33.125:8889/udp/225.1.1.48:30120
+#EXTINF:-1,HBO SD
+http://58.187.33.125:8889/udp/225.1.1.235:30120
+#EXTINF:-1,HBO HD
+http://58.187.33.125:8889/udp/225.1.2.232:30120
+#EXTINF:-1,HBO HD
+http://58.187.33.125:8889/udp/225.1.2.233:30120
+#EXTINF:-1,KIX HD
+http://58.187.33.125:8889/udp/225.1.2.144:30120
+#EXTINF:-1,KIX HD
+http://58.187.33.125:8889/udp/225.1.2.145:30120
+#EXTINF:-1,MAX BY HBO
+http://58.187.33.125:8889/udp/225.1.1.230:30120
+#EXTINF:-1,MAX BY HBO HD
+http://58.187.33.125:8889/udp/225.1.2.86:30120
+#EXTINF:-1,MAX BY HBO HD
+http://58.187.33.125:8889/udp/225.1.2.91:30120
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://58.187.33.125:8889/udp/225.1.1.244:30120
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://58.187.33.125:8889/udp/225.1.2.234:30120
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://58.187.33.125:8889/udp/225.1.2.235:30120
+#EXTINF:-1,OUTDOOR CHANNEL HD
+http://58.187.33.125:8889/udp/225.1.2.214:30120
+#EXTINF:-1,OUTDOOR CHANNEL HD
+http://58.187.33.125:8889/udp/225.1.2.215:30120
+#EXTINF:-1,RED BY HBO HD
+http://58.187.33.125:8889/udp/225.1.1.89:30120
+#EXTINF:-1,RED BY HBO HD
+http://58.187.33.125:8889/udp/225.1.1.93:30120
+#EXTINF:-1,TLC (HD 8Mbps)
+http://58.187.33.125:8889/udp/225.1.2.103:30120
+#EXTINF:-1,BLUE ANT ENTERTAINMENT (HD 4Mbps)
+http://58.187.33.125:8889/udp/225.1.1.175:30120
+#EXTINF:-1,BLUE ANT EXTREME (HD 4Mbps)
+http://58.187.33.125:8889/udp/225.1.1.176:30120
+#EXTINF:-1,Fashion 4K
+http://58.187.33.125:8889/udp/225.1.1.20:30120
+#EXTINF:-1,afc asian food channel (FPT Play)
+http://58.187.33.125:8889/udp/225.1.4.36:30120
+#EXTINF:-1,BBC Cbeebies (FPT Play)
+http://58.187.33.125:8889/udp/225.1.4.29:30120
+#EXTINF:-1,BBC earth (FPT Play)
+http://58.187.33.125:8889/udp/225.1.4.21:30120
+#EXTINF:-1,BBC lifestyle (FPT Play)
+http://58.187.33.125:8889/udp/225.1.4.23:30120
+#EXTINF:-1,BBC WORLD NEWS (FPT Play)
+http://58.187.33.125:8889/udp/225.1.4.22:30120
+#EXTINF:-1,Da Vinci/DIVA??? (FPT Play)
+http://58.187.33.125:8889/udp/225.1.4.38:30120
+#EXTINF:-1,DISCOVERY asia. (HD) (FPT Play)
+http://58.187.33.125:8889/udp/225.1.4.25:30120
+#EXTINF:-1,DISCOVERY CHANNEL (FPT Play)
+http://58.187.33.125:8889/udp/225.1.4.24:30120
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD (FPT Play)
+http://58.187.33.125:8889/udp/225.1.4.31:30120
+#EXTINF:-1,NHK WORLD JAPAN (HD) (FPT Play)
+http://58.187.33.125:8889/udp/225.1.4.73:30120
+#EXTINF:-1,Outdoor CHANNEL (FPT Play)
+http://58.187.33.125:8889/udp/225.1.4.37:30120
 
-#EXTINF:-1,UK | BBC Earth
-http://jokeriptv.online:1453/hakan/güclü/119901
+
+
+
+
+
+
+
+#EXTINF:-1,Da Vinci Kids --------------------------
+http://212.112.101.69:8081/stream51/output.m3u8 
+#EXTINF:-1,Travel 
+http://212.112.101.69:8081/stream67/output.m3u8 
+
+#EXTINF:-1,DE: Nat Geo People HD
+http://server.diamondiptv.eu:15800/emqaquvd/ex1S1Q91fr/12183
+
+#EXTINF:-1,HD: DISCOVERY_HOME_HEALTH
+http://dydentertainment.club:8000/jon01/xaviptv15/15787
+#EXTINF:-1,SD: DISCOVERY CIVILIZATION
+http://dydentertainment.club:8000/jon01/xaviptv15/26632
+#EXTINF:-1,SD: DISCOVERY SCIENCE
+http://dydentertainment.club:8000/jon01/xaviptv15/26631
+#EXTINF:-1,SD: GOURMET
+http://dydentertainment.club:8000/jon01/xaviptv15/16555
+
+#EXTINF:-1,BR: DISCOVERY CIVILIZATION FHD * FP
+http://fenixhdplaytop10.ddns.net:25461/9XGYL4dcfW/b0iIBduQ5P/102425
+#EXTINF:-1,BR: DISCOVERY H&H FHD * FP
+http://fenixhdplaytop10.ddns.net:25461/9XGYL4dcfW/b0iIBduQ5P/102421
+#EXTINF:-1,BR: DISCOVERY SCIENCE FHD * FP
+http://fenixhdplaytop10.ddns.net:25461/9XGYL4dcfW/b0iIBduQ5P/102414
 
 
 
@@ -2497,8 +2615,20 @@ http://113.196.177.81:8909/VideoInput/play.ts
 http://113.196.177.81:8898/VideoInput/play.ts
 #EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO_HD
 http://113.196.177.81:8895/VideoInput/play.ts
+#EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO_HD
+http://125.227.210.37:8895/VideoInput/play.ts
+#EXTINF:-1,HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?nimabitv.m3u8
+#EXTINF:-1,Home Of HBO
+http://ott-cdn.ucom.am/s64/03.m3u8
 #EXTINF:-1,Movies_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x11
+#EXTINF:-1,FREEFORM
+http://185.246.209.109:8080/FREEFORM/index.m3u8
+#EXTINF:-1,WARNERBROS
+http://103.205.133.44:1935/ns/WARNERBROS/playlist.m3u8
+#EXTINF:-1,FOX-ACTION
+http://95.170.215.118/hls/m3u8/FOX-ACTION-PP-SS-A.m3u8
 
 
 #EXTINF:-1,CineMax--------------------------
@@ -2507,6 +2637,8 @@ http://212.111.17.130:8001/1:0:1:30a:C94:3:EB0000:0:0:0:
 http://84.104.234.134:8001/1:0:19:52E3:C96:3:EB0000:0:0:0:
 #EXTINF:-1,HBO2
 http://84.104.234.134:8001/1:0:1:308:C94:3:EB0000:0:0:0:
+#EXTINF:-1,HBO
+http://212.111.17.130:8001/4:1:3:307:C94:3:EB0000:0:0:0:
 
 #EXTINF:-1,HBO EAST HD – NEW--------------------------ok2.se:8000
 http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/371
@@ -2617,6 +2749,8 @@ http://live.redtraffic.xyz/fetish.m3u8
 http://live.redtraffic.xyz/hardcore.m3u8
 #EXTINF:-1,redtraffic_bigass
 http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1,redtraffic_cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
 
 
 
@@ -2758,6 +2892,8 @@ http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 #EXTINF:-1,JAP_cs19
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=156632922
+#EXTINF:-1,JAP_cs27
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
 #EXTINF:-1,Doc_CH
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
 #EXTINF:-1,Doc_CH_rtmp
