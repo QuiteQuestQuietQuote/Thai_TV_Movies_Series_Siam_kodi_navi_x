@@ -24,8 +24,6 @@ http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.st
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_3bb
 http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.stream/playlist.m3u8?username=casG36MryQIqyL7YVdbV5pQcyEmeExUE&password=elV2iHMkaNPQgU5afVkrKm3QyYpbsqqu
 
-#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_3bb
-https://www.dailymotion.com/embed/video/k7KnbDPalNddQqrJq1J?autoPlay=1
 
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",NEW TV
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
@@ -2389,6 +2387,9 @@ http://175.125.208.40:9981/stream/channelid/363486014
 #EXTINF:-1,BBC Earth_kor4
 http://182.231.145.96:9981/stream/channelid/448448880
 
+#EXTINF:-1,BBC Earth_kor5
+http://125.181.148.168:9981/stream/channelid/1242002460
+
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD--------------------------
 http://123.249.76.157:10018/bysid/73
@@ -2516,8 +2517,10 @@ http://58.187.33.125:8889/udp/225.1.4.73:30120
 http://58.187.33.125:8889/udp/225.1.4.37:30120
 
 
-
-
+#EXTINF:-1,UK|Cnbc HD
+http://kingtv.net:7070/sahli/123456/49300
+#EXTINF:-1,UK|Dwenglish HD
+http://kingtv.net:7070/sahli/123456/49167
 
 
 
@@ -2590,6 +2593,8 @@ https://5790d294af2dc.streamlock.net/8232/8232/playlist.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000081@HHZT;LIVE?auth=zarin:RJsKR
 #EXTINF:-1,hollywood HD
 http://113.196.177.81:8909/VideoInput/play.ts
+#EXTINF:-1,hollywood HD_tw
+http://125.227.210.37:8909/VideoInput/play.ts
 #EXTINF:-1,Movies_filmHD
 http://113.196.177.81:8898/VideoInput/play.ts
 #EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO_HD
@@ -2662,10 +2667,6 @@ http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/1073/index.m3u8
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
 #EXTINF:-1,Candy--------------------------
 http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/10596
-#EXTINF:-1,Xchimera
-http://config.streamstv.me:8080/ZsIlThUSA9/ldzfZeKNsu/62334
-#EXTINF:-1,frenchlover
-http://78.29.1.66/live/frenchlover/copy/playlist.m3u8
 #EXTINF:-1,livesexlatinas_rtsp
 rtsp://51.254.198.110:1935/leved/livesexlatinas
 #EXTINF:-1,Russian Night_/udp
@@ -2676,13 +2677,9 @@ http://46.32.68.167/s/live/708/100.0.0.5/1/0.m3u8
 http://46.32.68.167/s/live/707/100.0.0.5/1/0.m3u8
 #EXTINF:-1,playboy_b2
 http://46.32.68.167/s/live/707/86.169.51.136/1/0.m3u8
-#EXTINF:-1,playboy_red2--------------------------
-http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/18933
-#EXTINF:-1,playboy_red1
-http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/18932
-#EXTINF:-1,playboy_b
+#EXTINF:-1,playboy_b3
 http://hls.telenet.lv:7878/playboy/playlist.m3u8
-#EXTINF:-1,blue hustler
+#EXTINF:-1,blue hustler--------------------------
 http://3e6cdf85.iptvbot.biz/iptv/3PTSM5QVK6GK6L/1064/index.m3u8
 #EXTINF:-1,frenchlover
 http://91.204.234.3:8000/play/a001/index.m3u8
@@ -2690,6 +2687,25 @@ http://91.204.234.3:8000/play/a001/index.m3u8
 http://91.204.234.3:8000/play/a00p/index.m3u8
 #EXTINF:-1,DorcelHD
 http://91.194.72.46:10043/play/DorcelHD/index.m3u8
+#EXTINF:-1,lesbian affair--------------------------------------
+http://cdn.miip.tv:80/43sY2kzkwm/1wpIeNMyU7/91
+#EXTINF:-1,lesbica
+http://cdn.miip.tv:80/43sY2kzkwm/1wpIeNMyU7/102
+#EXTINF:-1,pasiones
+http://cdn.miip.tv:80/43sY2kzkwm/1wpIeNMyU7/400
+#EXTINF:-1,BHot
+http://cdn.miip.tv:80/43sY2kzkwm/1wpIeNMyU7/511
+#EXTINF:-1,Penthouse_gold
+http://cdn.miip.tv:80/43sY2kzkwm/1wpIeNMyU7/3276
+#EXTINF:-1,Best of Porno
+http://cdn.miip.tv:80/43sY2kzkwm/1wpIeNMyU7/3277
+#EXTINF:-1,DorcelXXX
+http://cdn.miip.tv:80/43sY2kzkwm/1wpIeNMyU7/3278
+#EXTINF:-1,VividRed
+http://cdn.miip.tv:80/43sY2kzkwm/1wpIeNMyU7/3270
+#EXTINF:-1,playhouse
+http://cdn.miip.tv:80/43sY2kzkwm/1wpIeNMyU7/14000
+
 #EXTINF:-1,lesbian_rtmp--------------------------------------
 rtmp://62.210.55.60/stream3xVJ/3x01
 #EXTINF:-1,Solo_rtmp
