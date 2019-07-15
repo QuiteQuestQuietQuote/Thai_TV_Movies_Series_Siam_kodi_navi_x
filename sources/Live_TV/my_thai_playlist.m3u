@@ -24,6 +24,8 @@ http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.st
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_3bb
 http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.stream/playlist.m3u8?username=casG36MryQIqyL7YVdbV5pQcyEmeExUE&password=elV2iHMkaNPQgU5afVkrKm3QyYpbsqqu
 
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif",gmm25_3bb
+https://www.dailymotion.com/embed/video/k7KnbDPalNddQqrJq1J?autoPlay=1
 
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",NEW TV
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
@@ -2520,29 +2522,6 @@ http://58.187.33.125:8889/udp/225.1.4.37:30120
 
 
 
-#EXTINF:-1,Da Vinci Kids --------------------------
-http://212.112.101.69:8081/stream51/output.m3u8 
-#EXTINF:-1,Travel 
-http://212.112.101.69:8081/stream67/output.m3u8 
-
-#EXTINF:-1,DE: Nat Geo People HD
-http://server.diamondiptv.eu:15800/emqaquvd/ex1S1Q91fr/12183
-
-#EXTINF:-1,HD: DISCOVERY_HOME_HEALTH
-http://dydentertainment.club:8000/jon01/xaviptv15/15787
-#EXTINF:-1,SD: DISCOVERY CIVILIZATION
-http://dydentertainment.club:8000/jon01/xaviptv15/26632
-#EXTINF:-1,SD: DISCOVERY SCIENCE
-http://dydentertainment.club:8000/jon01/xaviptv15/26631
-#EXTINF:-1,SD: GOURMET
-http://dydentertainment.club:8000/jon01/xaviptv15/16555
-
-#EXTINF:-1,BR: DISCOVERY CIVILIZATION FHD * FP
-http://fenixhdplaytop10.ddns.net:25461/9XGYL4dcfW/b0iIBduQ5P/102425
-#EXTINF:-1,BR: DISCOVERY H&H FHD * FP
-http://fenixhdplaytop10.ddns.net:25461/9XGYL4dcfW/b0iIBduQ5P/102421
-#EXTINF:-1,BR: DISCOVERY SCIENCE FHD * FP
-http://fenixhdplaytop10.ddns.net:25461/9XGYL4dcfW/b0iIBduQ5P/102414
 
 
 
