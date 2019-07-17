@@ -90,10 +90,10 @@ URL=https://verystream.com/stream/WQDUUZgU32T/Captain_Marvel_2019_1080p_BluRay_x
 
 
 type=video
-name=petsematary191080br.rar
+name=
 thumb=
 date=2019-07-08
-URL=https://openload.co/f/FT_89O4JHjk/petsematary191080br.rar
+URL=
 
 type=video
 name=Shazam 2019 1080p BluRay AAC-RARBG 
@@ -105,7 +105,7 @@ type=video
 name=
 thumb=
 date=2019-06-28
-URL=http://203.154.243.32:8088/live/wsci/index.m3u8
+URL=
 
 
 
@@ -145,14 +145,6 @@ URL=https://openload.co/f/M8LPue8nypo/Avengers_Endgame_2019_1080p_HC_HDTS_H264_A
 
 
 
-type=video
-name=Alita: Battle Angel (2019) ENG HQTS.720p.SUED0.5.1.X264-0mNiC
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg
-date=2019-02-28
-URL=https://openload.co/f/qUn3rpS4kno/Alita.Battle.Angel.2019.HQTS.720p.SUED0.5.1.X264-0mNiC.mkv.mp4
-#https://openload.co/f/KqHquzEQAmk/Alita.Battle.Angel.2019.720p.HQTS.x264-GalaxyRG.mkv.mp4
-#https://openload.co/f/SZy8kOehc0I/Alita.Battle.Angel.2019.720p.HDCAM-1XBET.mp4
-#https://openload.co/f/aVjDq-7Qaqs/Alita_Battle_Angel_2019_HDCAM_XViD_AC3-ETRG.avi.mp4
 
 
 
@@ -1419,12 +1411,7 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHAy9bqMa9dlefsiK82CVInQn6
 date=2019-06-26
 URL=https://openload.co/f/hKo1p6Ec_3o/Child_Of_Satan_2017_1080p_Bluray_H264_AAC-RARBG.mp4
 
-type=video
-name=Batman vs. Teenage Mutant Ninja Turtles (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/33Cxmz0MDcHZ0mJub429dhQRYP.jpg
-date=2019-06-26
-URL=https://openload.co/f/NaMSg8ILV7s/Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://openload.co/f/Zj93z7ZqTS8/Batman.Vs..Teenage.Mutant.Ninja.Turtles.2019.1080p.BluRay.x264-%5BYTS.LT%5D.mp4
+
 
 type=video
 name=Days of Power (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-53
@@ -1514,20 +1501,6 @@ URL=https://openload.co/f/Ad47ZRnb_Zk/A_Madea_Family_Funeral_2019_1080p_BluRay_x
 #https://openload.co/f/LipEWexP-eQ/A_Madea_Family_Funeral_2019_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
 #https://openload.co/f/-DYtCvkvnj0/A_Madea_Family_Funeral_2019_1080p_BluRay_1400MB_DD5_1_x264-GalaxyRG.mp4
 
-type=video
-name=Captive State (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-49
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVo7lylXAUDGuvDZBUYaP8Zjbku.jpg
-date=2019-06-02
-URL=https://openload.co/f/v-LRMzLWRes/Captive_State_2019_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
-#https://openload.co/f/aprEFXR9g3g/Captive_State_%282019%291080p_BluRay_x264-MAYHEM_Ganool.mkv.mp4
-#https://openload.co/f/lThPgvoyqSE/captive.state.2019.1080p.bluray.x264-mayhem.mkv.mp4
-#https://openload.co/f/v-LRMzLWRes/Captive_State_2019_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
-#https://openload.co/f/abu2jX8-mH4/Captive_State_2019_1080p_BluRay_DD5.1_x264-GalaxyRG.mp4
-#https://openload.co/f/b5EghTHx6nE/Captive_State_2019_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
-#https://openload.co/f/tMVT-UhniW4/Captive.State.2019.720p.BluRay_SeeHD.mp4
-#https://vidoza.net/aybuvesv1kqz.html	Captive State 2019 1080p BluRay 1400MB DD5 1 x264-GalaxyRG	1712x720
-#https://vidoza.net/uykuy27ih2jf.html	Captive State 2019 1080p BluRay AAC-RARBG	1920x808
-#https://vidoza.net/rl53nvh8x16a.html	Captive State 2019 1080p BluRay x264-YTS AM	1920x800
 
 
 
@@ -6771,11 +6744,7 @@ URL=https://openload.co/f/blSWa-w8_mM/Swinging.Safari.2017.1080p.BluRay.x264-PFa
 #https://uptobox.com/e9zes1225naz   720
 #https://openload.co/embed/ltd_Y_mV5lw/SWINGGINGSAFARIBD72.Ganool.im.mkv.mp4
 
-type=video
-name=Misconduct (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2bxPatpVigWtvfR4VdmAdB3vUV.jpg
-date=2018-05-20
-URL=https://openload.co/f/roVapUHp39g/Misconduct.2016.1080p.BluRay.x264-ROVERS.mkv.mp4
+
 
 type=video
 name=Forever My Girl (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
@@ -13507,7 +13476,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-07-10
+date=2019-07-17
 URL=
 
 
@@ -13517,6 +13486,113 @@ URL=
 
 
 
+type=video
+name=Alita: Battle Angel (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg
+date=2019-02-28
+URL=https://openload.co/f/qUn3rpS4kno/Alita.Battle.Angel.2019.HQTS.720p.SUED0.5.1.X264-0mNiC.mkv.mp4
+#https://openload.co/f/KqHquzEQAmk/Alita.Battle.Angel.2019.720p.HQTS.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/SZy8kOehc0I/Alita.Battle.Angel.2019.720p.HDCAM-1XBET.mp4
+#https://openload.co/f/aVjDq-7Qaqs/Alita_Battle_Angel_2019_HDCAM_XViD_AC3-ETRG.avi.mp4
+type=video
+name=Alita: Battle Angel (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg
+date=2019-07-17
+URL=https://openload.co/f/hB1pJUYFMPA/ALITA%3A_BATTLE_ANGEL_%282019%29_%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%B2_%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A5_%E0%B9%81%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%B4%E0%B9%89%E0%B8%A5.mp4
+
+
+type=video
+name=City Hunter (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVKfVxoHE34nUUoehs0shNzpEVe.jpg
+date=2019-07-17
+URL=
+type=video
+name=City Hunter (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVKfVxoHE34nUUoehs0shNzpEVe.jpg
+date=2019-07-17
+URL=https://openload.co/f/6lOi96L9TW4/CITY_HUNTER_%282018%29_%E0%B8%8B%E0%B8%B4%E0%B8%95%E0%B8%B5%E0%B9%89%E0%B8%AE%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%B2%E0%B8%AA%E0%B9%82%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C.mp4
+
+
+type=video
+name=The Wind Rises (2013) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-78
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OTcCyf7QbGdVxsS8GLtaSsTZtP.jpg
+date=2019-07-17
+URL=
+type=video
+name=The Wind Rises (2013) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OTcCyf7QbGdVxsS8GLtaSsTZtP.jpg
+date=2019-07-17
+URL=https://openload.co/f/WpeRySTN_cI/THE_WIND_RISES_%282013%29_%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%9D%E0%B8%B1%E0%B8%99_%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
+
+
+type=video
+name=Batman vs. Teenage Mutant Ninja Turtles (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/33Cxmz0MDcHZ0mJub429dhQRYP.jpg
+date=2019-06-26
+URL=https://openload.co/f/NaMSg8ILV7s/Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/Zj93z7ZqTS8/Batman.Vs..Teenage.Mutant.Ninja.Turtles.2019.1080p.BluRay.x264-%5BYTS.LT%5D.mp4
+type=video
+name=Batman vs. Teenage Mutant Ninja Turtles (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/33Cxmz0MDcHZ0mJub429dhQRYP.jpg
+date=2019-07-17
+URL=https://openload.co/f/L8LNK5NLqzk/Batman_vs_Teenage_Mutant_Ninja_Turtles_%282019%29_%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0_%E0%B9%80%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%B2.mp4
+
+
+type=video
+name=To Dust (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cA3xIKurFGewWXD08sgushdAzvj.jpg
+date=2019-07-17
+URL=
+type=video
+name=To Dust (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cA3xIKurFGewWXD08sgushdAzvj.jpg
+date=2019-07-17
+URL=https://openload.co/f/0pRhL0JRYLI/To_Dust_%282018%29_%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9D%E0%B8%B8%E0%B9%88%E0%B8%99.mp4
+
+
+type=video
+name=Wood Job! (2014) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-74
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvo0367R3pWJJrwGDRMMOCZnSwY.jpg
+date=2019-07-17
+URL=
+type=video
+name=Wood Job! (2014) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvo0367R3pWJJrwGDRMMOCZnSwY.jpg
+date=2019-07-17
+URL=https://openload.co/f/RiATXdivjxM/WOOD_JOB%21_%282014%29_%E0%B9%81%E0%B8%94%E0%B8%94%E0%B8%AA%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.mp4
+
+
+type=video
+name=Misconduct (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-55
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2bxPatpVigWtvfR4VdmAdB3vUV.jpg
+date=2018-05-20
+URL=https://openload.co/f/roVapUHp39g/Misconduct.2016.1080p.BluRay.x264-ROVERS.mkv.mp4
+type=video
+name=Misconduct (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2bxPatpVigWtvfR4VdmAdB3vUV.jpg
+date=2019-07-17
+URL=https://openload.co/f/otpbajsRk9M/MISCONDUCT_%282016%29_%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B9%82%E0%B8%84%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD.mp4
+
+
+type=video
+name=Captive State (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-49
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVo7lylXAUDGuvDZBUYaP8Zjbku.jpg
+date=2019-06-02
+URL=https://openload.co/f/v-LRMzLWRes/Captive_State_2019_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+#https://openload.co/f/aprEFXR9g3g/Captive_State_%282019%291080p_BluRay_x264-MAYHEM_Ganool.mkv.mp4
+#https://openload.co/f/lThPgvoyqSE/captive.state.2019.1080p.bluray.x264-mayhem.mkv.mp4
+#https://openload.co/f/v-LRMzLWRes/Captive_State_2019_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
+#https://openload.co/f/abu2jX8-mH4/Captive_State_2019_1080p_BluRay_DD5.1_x264-GalaxyRG.mp4
+#https://openload.co/f/b5EghTHx6nE/Captive_State_2019_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+#https://openload.co/f/tMVT-UhniW4/Captive.State.2019.720p.BluRay_SeeHD.mp4
+#https://vidoza.net/aybuvesv1kqz.html	Captive State 2019 1080p BluRay 1400MB DD5 1 x264-GalaxyRG	1712x720
+#https://vidoza.net/uykuy27ih2jf.html	Captive State 2019 1080p BluRay AAC-RARBG	1920x808
+#https://vidoza.net/rl53nvh8x16a.html	Captive State 2019 1080p BluRay x264-YTS AM	1920x800
+type=video
+name=Captive State (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVo7lylXAUDGuvDZBUYaP8Zjbku.jpg
+date=2019-07-17
+URL=https://openload.co/f/NXvsXc0ofgQ/CAPTIVE_STATE_%282019%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%A7%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 
 
 type=video
