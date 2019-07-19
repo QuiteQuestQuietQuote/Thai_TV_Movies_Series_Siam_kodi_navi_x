@@ -2380,6 +2380,8 @@ http://1.233.136.3:9981/stream/channelid/1242002460
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD--------------------------
 http://123.249.76.157:10018/bysid/73
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD_trunk
+http://130.185.150.79:1935/trunk/BBC-EARTH/playlist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
 http://1.243.114.12:9981/stream/channelid/1989932553
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning
@@ -2499,22 +2501,23 @@ http://1.54.244.112:4022/udp/225.1.4.73:30120
 #EXTINF:-1,Outdoor CHANNEL (FPT Play)
 http://1.54.244.112:4022/udp/225.1.4.37:30120
 
-#EXTINF:-1,TR: Bbc Eart
-http://ip.avov.xyz:8000/ridvan1/23102018/3016
+#EXTINF:-1,NO:BBC Earth HD
+http://portal.germanyservers.de:8000/EKsu9JCh9K/iWkoD8KWCn/26024
 
-#EXTINF:-1,Da Vinci
-http://85.12.241.45:81/udp/239.99.17.45:1234
-#EXTINF:-1,Eureka HD
-http://85.12.241.45:81/udp/239.99.17.184:1234
-
-#EXTINF:-1,TR:BLOOMBERG HT UHD
-http://portal.germanyservers.de:8000/eVVNmCZQzc/11HdpR7RUO/27481
-#EXTINF:-1,TR:BBC EARTH HD
-http://portal.germanyservers.de:8000/eVVNmCZQzc/11HdpR7RUO/27733
-#EXTINF:-1,TR:Da Vinci HD
-http://portal.germanyservers.de:8000/eVVNmCZQzc/11HdpR7RUO/35083
-#EXTINF:-1,TR:SCIENCE & VIE TV HD
-http://portal.germanyservers.de:8000/eVVNmCZQzc/11HdpR7RUO/27864
+#EXTINF:-1,DE:DISCOVERY UHD
+http://portal.germanyservers.de:8000/T2rAtftyRo/h9viKZLhwu/17947
+#EXTINF:-1,DE:DISNEY CINEMAGIC UHD
+http://portal.germanyservers.de:8000/T2rAtftyRo/h9viKZLhwu/17948
+#EXTINF:-1,DE: CINEMA 24 UHD
+http://portal.germanyservers.de:8000/T2rAtftyRo/h9viKZLhwu/17968
+#EXTINF:-1,DE: CINEMA 1 UHD
+http://portal.germanyservers.de:8000/T2rAtftyRo/h9viKZLhwu/17969
+#EXTINF:-1,DE: CINEMA FAMILY UHD
+http://portal.germanyservers.de:8000/T2rAtftyRo/h9viKZLhwu/17970
+#EXTINF:-1,DE: CINEMA HITS UHD
+http://portal.germanyservers.de:8000/T2rAtftyRo/h9viKZLhwu/17971
+#EXTINF:-1,DE: CINEMA UHD
+http://portal.germanyservers.de:8000/T2rAtftyRo/h9viKZLhwu/17972
 
 
 #EXTINF:-1,wsci--------------------------
@@ -2666,8 +2669,16 @@ http://46.32.68.167/s/live/707/100.0.0.5/1/0.m3u8
 http://46.32.68.167/s/live/707/86.169.51.136/1/0.m3u8
 #EXTINF:-1,playboy_b3
 http://hls.telenet.lv:7878/playboy/playlist.m3u8
+#EXTINF:-1,playboy_b4
+http://ip.avov.xyz:8000/ridvan1/23102018/1661
 #EXTINF:-1,playboy_R
 http://190.2.154.164:8082/TV9915
+#EXTINF:-1,playboy_R2
+http://190.2.154.164:8082/TV3779
+#EXTINF:-1,Dorcel
+http://190.2.154.164:8082/TV9917
+#EXTINF:-1,Vivid EU
+http://190.2.154.164:8082/TV9918
 #EXTINF:-1,blue hustler--------------------------
 http://3e6cdf85.iptvbot.biz/iptv/3PTSM5QVK6GK6L/1064/index.m3u8
 #EXTINF:-1,frenchlover
@@ -2680,8 +2691,6 @@ http://91.194.72.46:10043/play/DorcelHD/index.m3u8
 http://cdn.miip.tv:80/boster/123456/101
 #EXTINF:-1,WYN
 http://185.35.4.37:8087/shalun/ch.m3u8
-#EXTINF:-1,Imfra_tw_ts
-http://125.227.210.37:9001/VideoInput/play.ts
 
 #EXTINF:-1,lesbian_rtmp--------------------------------------
 rtmp://62.210.55.60/stream3xVJ/3x01
@@ -2741,8 +2750,7 @@ http://122.38.74.172:9981/stream/channelid/816085039
 
 #EXTINF:-1,Playboy TV_earth
 http://1.243.114.12:9981/stream/channelid/1175597243
-#EXTINF:-1,B tv
-http://1.243.114.12:9981/stream/channelid/898075077
+
 
 
 
