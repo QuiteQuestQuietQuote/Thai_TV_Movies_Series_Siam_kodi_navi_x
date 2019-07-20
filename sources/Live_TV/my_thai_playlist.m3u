@@ -79,7 +79,84 @@ http://nationstream.nationgroup.com/hls/th_high.m3u8
 
 
 
-
+#EXTINF:-1,ENCODE 12-01 HD-----------------------------------
+http://183.89.118.89:1002
+#EXTINF:-1,Live HD
+http://183.89.118.89:1004
+#EXTINF:-1,tv asahi HD
+http://183.89.118.89:1005
+#EXTINF:-1,AUSTRALIA NEWS HD
+http://183.89.118.89:1003
+#EXTINF:-1,Live HD
+http://183.89.118.89:1006
+#EXTINF:-1,Live HD
+http://183.89.118.89:1007
+#EXTINF:-1,Live HD
+http://183.89.118.89:1008
+#EXTINF:-1,New
+http://183.89.118.89:1009
+#EXTINF:-1,MiaoMi HD
+http://183.89.118.89:1010
+#EXTINF:-1,CARTOON CLUB
+http://183.89.118.89:1011
+#EXTINF:-1,Live HD
+http://183.89.118.89:1012
+#EXTINF:-1,New
+http://183.89.118.89:1013
+#EXTINF:-1,New
+http://183.89.118.89:1014
+#EXTINF:-1,Live HD
+http://183.89.118.89:1015
+#EXTINF:-1,Live HD
+http://183.89.118.89:1016
+#EXTINF:-1,Action Hollywood HD
+http://183.89.118.89:1017
+#EXTINF:-1,Live HD
+http://183.89.118.89:1018
+#EXTINF:-1,ITV Choice HD
+http://183.89.118.89:1019
+#EXTINF:-1,TV51 HD
+http://183.89.118.89:1020
+#EXTINF:-1,NBT HD
+http://183.89.118.89:1021
+#EXTINF:-1,THAIPBS HD
+http://183.89.118.89:1022
+#EXTINF:-1,3 Family
+http://183.89.118.89:1023
+#EXTINF:-1,MCOT Kids
+http://183.89.118.89:1024
+#EXTINF:-1,Spring News
+http://183.89.118.89:1025
+#EXTINF:-1,Voice TV
+http://183.89.118.89:1026
+#EXTINF:-1,Nation TV
+http://183.89.118.89:1027
+#EXTINF:-1,Workpoint TV
+http://183.89.118.89:1028
+#EXTINF:-1,True4U
+http://183.89.118.89:1029
+#EXTINF:-1,GMM25
+http://183.89.118.89:1030
+#EXTINF:-1,CH8
+http://183.89.118.89:1031
+#EXTINF:-1,3 SD
+http://183.89.118.89:1032
+#EXTINF:-1,MONO29
+http://183.89.118.89:1033
+#EXTINF:-1,9MCOT HD
+http://183.89.118.89:1034
+#EXTINF:-1,ONE HD
+http://183.89.118.89:1035
+#EXTINF:-1,Thairath TV HD
+http://183.89.118.89:1036
+#EXTINF:-1,3 HD
+http://183.89.118.89:1037
+#EXTINF:-1,Amarin TV HD
+http://183.89.118.89:1038
+#EXTINF:-1,CH7 HD
+http://183.89.118.89:1039
+#EXTINF:-1,PPTV HD
+http://183.89.118.89:1040
 
 
 
@@ -2353,7 +2430,8 @@ http://91.90.253.66:8080/CH620_std/index.m3u8
 https://hls.telekabel.com.mk:1936/live/101/2500-def.m3u8
 #EXTINF:-1,Viasat Explore
 https://hls.telekabel.com.mk:1936/live/111/2500-def.m3u8
-
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning
+https://hls.telekabel.com.mk:1936/live/121/2500-def.m3u8
 
 #EXTINF:-1 group-title="DOCU"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic_iliketot
 http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?
@@ -2361,10 +2439,6 @@ http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?
 http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_tvanywhere
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
-http://61.216.10.122:4046/VideoInput/play.ts
 #EXTINF:-1,BBC Earth SD_kor--------------------------
 http://14.36.40.209:9981/stream/channelid/2062289700
 #EXTINF:-1,BBC Earth_kor1
@@ -2378,19 +2452,16 @@ http://182.231.145.96:9981/stream/channelid/448448880
 #EXTINF:-1,BBC Earth_kor5
 http://1.233.136.3:9981/stream/channelid/1242002460
 
+
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD--------------------------
 http://123.249.76.157:10018/bysid/73
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD_trunk
 http://130.185.150.79:1935/trunk/BBC-EARTH/playlist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
 http://1.243.114.12:9981/stream/channelid/1989932553
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning
-https://hls.telekabel.com.mk:1936/live/121/2500-def.m3u8
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DaVinci Learning_PL
 http://188.26.25.141:8000/play/a00c/index.m3u8
 
-#EXTINF:-1 group-title="docu" tvg-logo="http://image.free.in.th/v/2013/io/180629043620.jpg",BBC Lifestyle_VN58
-http://58.187.33.125:8889/udp/225.1.2.52:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth (HD 4Mbps)--------------------------
 http://1.54.244.112:4022/udp/225.1.2.25:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT
@@ -2399,16 +2470,19 @@ http://1.54.244.112:4022/udp/225.1.2.24:30120
 http://1.54.244.112:4022/udp/225.1.2.52:30120
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN
 http://1.54.244.112:4022/udp/225.1.1.197:30120
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN
+http://1.54.244.112:4022/udp/225.1.1.198:30120
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_FPT
 http://1.54.244.112:4022/udp/225.1.2.253:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_SD_VN
 http://1.54.244.112:4022/udp/225.1.2.9:30120
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN
-http://1.54.244.112:4022/udp/225.1.1.198:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_FPT
 http://1.54.244.112:4022/udp/225.1.2.98:30120
 
-
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
+http://61.216.10.122:4046/VideoInput/play.ts
 #EXTINF:-1,SBS Food [OPTUS]
 http://kodi:kodi@61.245.139.132:9981/stream/channelid/1590507445
 #EXTINF:-1,KLT
@@ -2501,23 +2575,15 @@ http://1.54.244.112:4022/udp/225.1.4.73:30120
 #EXTINF:-1,Outdoor CHANNEL (FPT Play)
 http://1.54.244.112:4022/udp/225.1.4.37:30120
 
-#EXTINF:-1,NO:BBC Earth HD
-http://portal.germanyservers.de:8000/EKsu9JCh9K/iWkoD8KWCn/26024
+#EXTINF:-1,BBC Entertainment
+http://94.238.244.10:3000/play/a01x/index.m3u8
 
-#EXTINF:-1,DE:DISCOVERY UHD
-http://portal.germanyservers.de:8000/T2rAtftyRo/h9viKZLhwu/17947
-#EXTINF:-1,DE:DISNEY CINEMAGIC UHD
-http://portal.germanyservers.de:8000/T2rAtftyRo/h9viKZLhwu/17948
-#EXTINF:-1,DE: CINEMA 24 UHD
-http://portal.germanyservers.de:8000/T2rAtftyRo/h9viKZLhwu/17968
-#EXTINF:-1,DE: CINEMA 1 UHD
-http://portal.germanyservers.de:8000/T2rAtftyRo/h9viKZLhwu/17969
-#EXTINF:-1,DE: CINEMA FAMILY UHD
-http://portal.germanyservers.de:8000/T2rAtftyRo/h9viKZLhwu/17970
-#EXTINF:-1,DE: CINEMA HITS UHD
-http://portal.germanyservers.de:8000/T2rAtftyRo/h9viKZLhwu/17971
-#EXTINF:-1,DE: CINEMA UHD
-http://portal.germanyservers.de:8000/T2rAtftyRo/h9viKZLhwu/17972
+
+
+
+
+
+
 
 
 #EXTINF:-1,wsci--------------------------
@@ -2906,10 +2972,10 @@ https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_hd
 http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_HD
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_world
 http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_HD
+https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC
 http://92.43.140.249/s65/04.m3u8
 

@@ -1249,15 +1249,92 @@ URL=
 type=video
 name=
 thumb=
-date=2019-07-19
+date=2019-07-20
 URL=
 
 
 
 
 
+type=video
+name=After (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg
+date=2019-07-20
+URL=https://verystream.com/stream/e9PZc5pupBM/After.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/ASi125wGpgy/After.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/A0OjZow_0q0/After.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/8KfIR_G6WD8/After.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/h4bJFg_LIn4/After.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 
+type=video
+name=Donnybrook (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcuEDKnM3uThdz7p0YYWFjMla73.jpg
+date=2019-07-20
+URL=https://verystream.com/stream/17cchiQfjgx/Donnybrook.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/JqoSJD8kyJT/Donnybrook.2019.1080p.Bluray.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/XibegJ-nAZM/Donnybrook.2019.1080p.Bluray.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/L9XbBYN_6pc/Donnybrook.2019.1080p.Bluray.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/OMj35x_DBDU/Donnybrook.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/D2QSsvkcpD4/Donnybrook.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
+type=video
+name=The Professor (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cypBSinhGuQaZ7VuOmGtcKMp91G.jpg
+date=2019-07-20
+URL=https://verystream.com/stream/Q9YvrhfoeCS/The.Professor.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/5pDK42DdyTj/The.Professor.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/Eu0BQtIBaxo/The.Professor.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/NTBEeSeFNuA/The.Professor.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/j9CM75mS0AI/The.Professor.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://vidoza.net/122lt458ves8.html	The Professor 2018 1080p BluRay AAC-RARBG	1336x720
+
+type=video
+name=The Wolf's Call (2019) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-80
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIq008CvrvHNTqhi0C1t0qyIOJL.jpg
+date=2019-07-20
+URL=https://verystream.com/stream/N4K3MhKUY2e/The.Wolf%27s.Call.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://openload.co/f/BIqqVfKxsGE/The.Wolf%27s.Call.2019.1080p.BluRay.x264-YTS.LT.mp4
+
+type=video
+name=The Hummingbird Project (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCD5PHYyLVykHGGhlhkUD7nhoWe.jpg
+date=2019-07-20
+URL=https://verystream.com/stream/gG9MKpotUVd/The.Hummingbird.Project.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/J8dLcMdJZj4/The.Hummingbird.Project.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/TErPXhqPfgY/The.Hummingbird.Project.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/cViSq_Sx8SQ/The.Hummingbird.Project.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/_lCJZd3E3eY/The.Hummingbird.Project.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+
+type=video
+name=Romans (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2szgJBnimolpdPBUjVadBrKJnlK.jpg
+date=2019-07-20
+URL=https://verystream.com/stream/H55ZJjQPgHW/Romans.2017.1080p.BluRay.x264-YTS.LT.mp4
+#https://openload.co/f/WaqTGOuQtZ0/Romans.2017.1080p.BluRay.x264-YTS.LT.mp4
+
+type=video
+name=Adventures of Aladdin (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-20
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/w900HA8MiAEDY3IQl6mz5JY916F.jpg
+date=2019-07-20
+URL=https://verystream.com/stream/JLfCX86g1d/Adventures.of.Aladdin.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/z_DKLXQxepQ/Adventures.of.Aladdin.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/cyb7ziu3mqM/Adventures.of.Aladdin.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/JGLmD6_bAe0/Adventures.of.Aladdin.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/iMB6j_FfAac/Adventures.of.Aladdin.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Carga (2018) [COLOR=FF00FF00]POR BR 1080p[/COLOR] | TMDB-55
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLVjYX0q0wdX9CyILF6nMTRIP3x.jpg
+date=2019-07-20
+URL=https://verystream.com/stream/4iXu6msEuuK/Carga.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/pp9eYnrqGYI/Carga.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Ride (2018) [COLOR=FF00FF00]ITA BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ft7JGjIiHlMftfpiWXh0w9fZAVY.jpg
+date=2019-07-20
+URL=https://verystream.com/stream/Rsr2jpbzQSM/Ride.2019.1080p.Bluray.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/P4EC3_rbt3A/Ride.2019.1080p.Bluray.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
 
 type=video
 name=Hellboy (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-50
@@ -16630,6 +16707,7 @@ name=The Lego Movie 2: The Second Part (2019) [COLOR=FF00FF00]ENG 3D BR 1080p[/C
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/QTESAsBVZwjtGJNDP7utiGV37z.jpg
 date=2019-07-19
 URL=https://verystream.com/stream/G8CSnWsD9jZ/The.Lego.Movie.2.The.Second.Part.2019.3D.HSBS.BluRay.x264-YTS.LT.mp4
+#https://openload.co/f/uERpRWu6EJ4/The.Lego.Movie.2.The.Second.Part.2019.3D.HSBS.BluRay.x264-YTS.LT.mp4
 
 type=video
 name=The Cobbler (2014) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-56
