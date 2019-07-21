@@ -2575,8 +2575,7 @@ http://1.54.244.112:4022/udp/225.1.4.73:30120
 #EXTINF:-1,Outdoor CHANNEL (FPT Play)
 http://1.54.244.112:4022/udp/225.1.4.37:30120
 
-#EXTINF:-1,BBC Entertainment
-http://94.238.244.10:3000/play/a01x/index.m3u8
+
 
 
 
@@ -2853,10 +2852,11 @@ http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/6612
 #EXTINF:-1,JAV_ok2
 http://ok2.se:8000/DTKwiaWRTW/5Z1DrWGzoi/6612
 
-#EXTINF:-1,JAV_ok2_80
-http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/6612
 #EXTINF:-1,Ibiza_ok2_80
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/72394
+#EXTINF:-1,JAV_ok2_80
+http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/6612
+
 
 
 
@@ -2864,10 +2864,7 @@ http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/72394
 https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream2/playlist.m3u8
-#EXTINF:-1,Ibiza TV3_streamlock.net
-https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream3/playlist.m3u8
-#EXTINF:-1,Ibiza4
-https://5a2a51fc4cfde.streamlock.net/live/_definst_/Stream4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNi8yMDE5IDI6NTM6MTUgUE0maGFzaF92YWx1ZT1qYUdIZjFuZHRadFpXTC9oaGdTZHJ3PT0mdmFsaWRtaW51dGVzPTE4MCZpZD0xNTYxNTYwNzk1
+
 
 
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_dvr1--------------------------
@@ -2878,12 +2875,6 @@ https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
 http://119.81.168.227:1935/lfh/Stream1/playlist.m3u8
 #EXTINF:-1,Ibiza TV2_119
 http://119.81.168.227:1935/lfh/_definst_/Stream2/playlist.m3u8
-#EXTINF:-1,Ibiza TV4_119
-http://119.81.168.227:1935/lfh/Stream4/playlist.m3u8
-#EXTINF:-1,Ibiza TV4_streamlock.net
-http://5a2a51fc4cfde.streamlock.net:1935/lfh/_definst_/Stream4/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV4_VIP
-http://ibiza-tv.1919hdtv.com:8880/lfh/Stream4/playlist.m3u8
 #EXTINF:-1,Ibiza TV2_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_VIP
@@ -2896,9 +2887,19 @@ http://ibiza-tv.1919hdtv.com:8880/lfh/Stream1/playlist.m3u8
 http://streamnossl.1919hdtv.com:8880/lfh/_definst_/Stream1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV3_VIP
 http://ibiza-tv.1919hdtv.com:8880/lfh/Stream3/playlist.m3u8
+
 #EXTINF:-1,Ibiza TV3_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8
-
+#EXTINF:-1,Ibiza TV3_streamlock.net
+https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream3/playlist.m3u8
+#EXTINF:-1,Ibiza4
+https://5a2a51fc4cfde.streamlock.net/live/_definst_/Stream4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNi8yMDE5IDI6NTM6MTUgUE0maGFzaF92YWx1ZT1qYUdIZjFuZHRadFpXTC9oaGdTZHJ3PT0mdmFsaWRtaW51dGVzPTE4MCZpZD0xNTYxNTYwNzk1
+#EXTINF:-1,Ibiza TV4_119
+http://119.81.168.227:1935/lfh/Stream4/playlist.m3u8
+#EXTINF:-1,Ibiza TV4_streamlock.net
+http://5a2a51fc4cfde.streamlock.net:1935/lfh/_definst_/Stream4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV4_VIP
+http://ibiza-tv.1919hdtv.com:8880/lfh/Stream4/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg",ftv_midnite_secrets--------------------------
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8

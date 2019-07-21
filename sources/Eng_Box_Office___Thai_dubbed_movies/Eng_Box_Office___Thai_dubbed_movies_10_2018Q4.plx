@@ -1013,8 +1013,9 @@ URL=https://openload.co/f/e7pMa8kRrHU/book.club.2018.1080p.bluray.dd5.1.hevc.x26
 type=video
 name=Book Club (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ORGBbOA45pfKQXvntPf46NoFGO.jpg
-date=2018-11-07
-URL=https://openload.co/f/tO4KxzhJzIw/Book_Club_%282018%29%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%9A.mp4
+date=2019-07-21
+URL=https://openload.co/f/nJZizzuGrzA/BOOK_CLUB_%282018%29_%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%9A.mp4
+#https://openload.co/f/tO4KxzhJzIw/Book_Club_%282018%29%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%9A.mp4
 
 
 type=video

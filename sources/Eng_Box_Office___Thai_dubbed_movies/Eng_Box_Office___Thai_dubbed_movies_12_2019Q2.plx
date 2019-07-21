@@ -1650,15 +1650,7 @@ URL=https://openload.co/f/JyMfKe4r5wk/A_Vigilante_2018_1080p_BluRay_x264-YTS_AM.
 #https://openload.co/f/xRFt11SPqJ0/A_Vigilante_2018_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
 #https://openload.co/f/_0nZiQKkggA/A_Vigilante_%282019%291080p_BluRay_x264-BRMP-Ganool.mkv.mp4
 
-type=video
-name=Gloria Bell (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTfAWQXUceUszmifA4AwkIsDccQ.jpg
-date=2019-06-02
-URL=https://openload.co/f/qV_loq7Lwxk/Gloria_Bell_2018_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
-#https://openload.co/f/9wEkmLw7sks/Gloria_Bell_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
-#https://openload.co/f/qV_loq7Lwxk/Gloria_Bell_2018_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
-#https://openload.co/f/AIAHNwgvInk/Gloria_Bell_2018_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
-#https://openload.co/f/T3WpIAIfOfc/Gloria_Bell_%282019%291080p_BluRay_x264-DRONES_Ganool.mkv.mp4
+
 
 type=video
 name=A Madea Family Funeral (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-56
@@ -13664,7 +13656,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-07-17
+date=2019-07-21
 URL=
 
 
@@ -13672,6 +13664,73 @@ URL=
 
 
 
+
+
+
+type=video
+name=The World Is Yours (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8l0pdMuVgqIYXBvNUr4TXdpmFj.jpg
+date=2019-07-21
+URL=
+type=video
+name=The World Is Yours (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8l0pdMuVgqIYXBvNUr4TXdpmFj.jpg
+date=2019-07-21
+URL=https://openload.co/f/7OJmdjeWY9s/THE_WORLD_IS_YOURS_%282018%29_%E0%B8%AB%E0%B8%A5%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%88%E0%B8%B0%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99.mp4
+
+
+type=video
+name=Teen Spirit (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFPqJZ9vOcH7QroNxXV5wefX2qe.jpg
+date=2019-07-21
+URL=
+type=video
+name=Teen Spirit (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFPqJZ9vOcH7QroNxXV5wefX2qe.jpg
+date=2019-07-21
+URL=https://openload.co/f/w5TjkpsvWsk/TEEN_SPIRIT_%282018%29_%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%95.mp4
+#https://openload.co/f/cPMyftwyWlg/TEEN_SPIRIT_%282018%29_%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%95.mp4
+#https://openload.co/f/c7ecC_wbv5c/TEEN_SPIRIT_%282018%29_%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%95.mp4
+
+
+type=video
+name=Breakthrough (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t58dx7JIgchr9If5uxn3NmHaHoS.jpg
+date=2019-07-21
+URL=
+type=video
+name=Breakthrough (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t58dx7JIgchr9If5uxn3NmHaHoS.jpg
+date=2019-07-21
+URL=https://openload.co/f/jaQOKA4djZk/BREAKTHROUGH_%282019%29_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2.mp4
+
+
+type=video
+name=The Wedding Guest (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKQd8pWTK9zpibuc3CDwiYmtaB.jpg
+date=2019-07-21
+URL=
+type=video
+name=The Wedding Guest (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKQd8pWTK9zpibuc3CDwiYmtaB.jpg
+date=2019-07-21
+URL=https://openload.co/f/3RNmAjyPpjY/THE_WEDDING_GUEST_%282018%29_%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94.mp4
+
+
+type=video
+name=Gloria Bell (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTfAWQXUceUszmifA4AwkIsDccQ.jpg
+date=2019-06-02
+URL=https://openload.co/f/qV_loq7Lwxk/Gloria_Bell_2018_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
+#https://openload.co/f/9wEkmLw7sks/Gloria_Bell_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+#https://openload.co/f/qV_loq7Lwxk/Gloria_Bell_2018_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
+#https://openload.co/f/AIAHNwgvInk/Gloria_Bell_2018_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
+#https://openload.co/f/T3WpIAIfOfc/Gloria_Bell_%282019%291080p_BluRay_x264-DRONES_Ganool.mkv.mp4
+type=video
+name=Gloria Bell (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTfAWQXUceUszmifA4AwkIsDccQ.jpg
+date=2019-07-21
+URL=https://openload.co/f/KbZ6AVD0UTQ/GLORIA_BELL_%282018%29_%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2_%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%A5%E0%B9%8C.mp4
 
 
 type=video
