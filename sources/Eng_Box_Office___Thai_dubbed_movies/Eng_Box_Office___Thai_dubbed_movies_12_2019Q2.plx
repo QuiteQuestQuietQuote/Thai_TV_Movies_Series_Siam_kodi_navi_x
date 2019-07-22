@@ -39,7 +39,7 @@ type=video
 name=
 thumb=https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png
 date=2018-11-26
-URL=http://123.249.76.157:10018/bysid/73
+URL=http://130.185.150.79:1935/trunk/BBC-EARTH/playlist.m3u8
 
 type=video
 name=
@@ -63,13 +63,13 @@ type=video
 name=
 thumb=http://hochu.tv/images/nuart-tv.png
 date=2018-11-16
-URL=http://193.111.244.23:7777/nu_art_hd/playlist.m3u8 
+URL=http://185.35.4.37:8087/nuarthd/ch.m3u8
 
 type=video
 name=
 thumb=http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg
 date=2018-07-13
-URL=https://hls.telekabel.com.mk:1936/live/121/2500-def.m3u8
+URL=http://188.26.25.141:8000/play/a00c/index.m3u8
 
 
 
@@ -102,10 +102,10 @@ date=2019-01-03
 URL=https://vidoza.net/l7odg9c90lmb.html
 
 type=video
-name=
+name=uglydolls191080br.rar_test
 thumb=
 date=2019-06-28
-URL=
+URL=https://openload.co/f/Uq-1wqT_fs0/uglydolls191080br.rar
 
 
 
@@ -15659,7 +15659,9 @@ type=video
 name=Bumblebee (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
 date=2019-03-26
-URL=https://openload.co/f/bfqpyLX6MFQ/Bumblebee.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
+URL=https://openload.co/f/M1qETDwxOUw/Bumblebee.2018.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://openload.co/f/n-W5NM_0nEI/Bumblebee.2018.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://openload.co/f/bfqpyLX6MFQ/Bumblebee.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
 #https://openload.co/f/SD6UMz_c8Ss/Bumblebee.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
 #https://openload.co/f/_mG4-TUm6qQ/Bumblebee.2018.1080p.BRRip.x264-MkvCage.mkv.mp4
 #https://openload.co/f/pEhjU34fHlc/Bumblebee.2018.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -16140,8 +16142,9 @@ URL=https://openload.co/f/x0SzwKBR2XE/Widows_%282018%29%E0%B8%AB%E0%B8%A1%E0%B9%
 type=video
 name=Overlord (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l76Rgp32z2UxjULApxGXAPpYdAP.jpg
-date=2019-02-10
-URL=https://openload.co/f/IRvJapGU3Vk/overlord.2018.1080p.bluray.x264-drones.mkv.mp4
+date=2019-07-22
+URL=https://openload.co/f/gL30Jf-oizw/Overlord.2018.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://openload.co/f/IRvJapGU3Vk/overlord.2018.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/3ae8r7ISKuI/Overlord_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
 #https://openload.co/f/EJvDQHXy4Ks/Overlord.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
 #https://openload.co/f/cFiRelDwFns/Overlord.2018.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -16286,8 +16289,10 @@ URL=https://openload.co/f/Wlgzr5F1XKg/Halloween_%282018%29%E0%B8%AE%E0%B8%B2%E0%
 type=video
 name=Hunter Killer (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
-date=2019-01-29
-URL=https://openload.co/f/khZmkUZQ5Xg/Hunter.Killer.2018.1080p.BluRay.10bit.HEVC.6CH.MkvCage.ws.mkv.mp4
+date=2019-07-22
+URL=https://openload.co/f/RaaCzBCaDIQ/Hunter.Killer.2018.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://openload.co/f/AqGqsHa7jUk/Hunter.Killer.2018.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://openload.co/f/khZmkUZQ5Xg/Hunter.Killer.2018.1080p.BluRay.10bit.HEVC.6CH.MkvCage.ws.mkv.mp4
 #https://uptobox.com/l6xdgwrlr9on
 #https://fruithosts.net/embed/rpramlmcbfrlarna/GHPHUNTERKILLER80_Ganol_si_mkv
 #https://openload.pw/embed/x2YCOzz2GjM/GHPHUNTERKILLER80.Ganol.si.mkv
@@ -16739,7 +16744,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-07-19
+date=2019-07-22
 URL=
 
 
@@ -16755,11 +16760,23 @@ URL=
 
 
 
+type=video
+name=Birth of the Dragon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7HY9butbuO8XwB3uBxQ98MBxd4.jpg
+date=2019-07-22
+URL=https://openload.co/f/_zL9ezTTKtI/Birth.Of.The.Dragon.2016.1080p.BluRay_SeeHD.mp4
 
+type=video
+name=The Lion King (1994) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-82
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg
+date=2019-07-22
+URL=https://openload.co/f/GdipIVmLUDY/The.Lion.King.1994.1080p.BluRay_SeeHD.mp4
 
-
-
-
+type=video
+name=Dirty Grandpa (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZEx6mB5Ftnt7LvlDjTKXcrTvyg.jpg
+date=2019-07-22
+URL=https://openload.co/f/yYD8q1hHTGk/Dirty.Grandpa.2016.1080p.BrRip.x265.HEVCBay.mkv.mp4
 
 type=video
 name=The Lego Movie 2: The Second Part (2019) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR] | TMDB-66
