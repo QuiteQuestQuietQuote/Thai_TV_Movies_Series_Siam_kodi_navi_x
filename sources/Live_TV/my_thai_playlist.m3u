@@ -2576,10 +2576,7 @@ http://1.54.244.112:4022/udp/225.1.4.73:30120
 http://1.54.244.112:4022/udp/225.1.4.37:30120
 
 
-#EXTINF:-1,Osn DOCU BOX HD
-http://tv.teledunet.com:25461/koko123/koko123/10316
-#EXTINF:-1,Osn Groummet
-http://tv.teledunet.com:25461/koko123/koko123/10306
+
 
 
 
@@ -2752,8 +2749,6 @@ http://190.2.154.164:8082/TV9917
 http://190.2.154.164:8082/TV9918
 #EXTINF:-1,blue hustler--------------------------
 http://3e6cdf85.iptvbot.biz/iptv/3PTSM5QVK6GK6L/1064/index.m3u8
-#EXTINF:-1,blue hustler
-http://212.12.194.10/hustler/live.m3u8
 #EXTINF:-1,frenchlover
 http://91.204.234.3:8000/play/a001/index.m3u8
 #EXTINF:-1,Randomfrenchlover
@@ -2764,6 +2759,8 @@ http://91.194.72.46:10043/play/DorcelHD/index.m3u8
 http://cdn.miip.tv:80/Damian/123456/101
 #EXTINF:-1,WYN
 http://185.35.4.37:8087/shalun/ch.m3u8
+#EXTINF:-1,playboy_R_clientetv
+http://dns.clientetv.net:25461/u5PY6LnK4y/oLFaC2Zy5e/21677
 
 #EXTINF:-1,lesbian_rtmp--------------------------------------
 rtmp://62.210.55.60/stream3xVJ/3x01
@@ -2866,6 +2863,30 @@ http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/72394
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/6612
 
 
+#EXTINF:-1,JAV_ok2_test1
+http://ok2.se:8000/6BhKbf6beI/RKtMhgeX6A/6612
+#EXTINF:-1,JAV_ok2_test2
+http://ok2.se:8000/a02shnw0iK/tSxt8Cw4EH/6612
+#EXTINF:-1,JAV_ok2_test3
+http://ok2.se:8000/roGqwFmq8b/VQ2F6I9WNu/6612
+#EXTINF:-1,JAV_ok2_test4
+http://ok2.se:8000/a02shnw0iK/tSxt8Cw4EH/6612
+#EXTINF:-1,JAV_ok2_test5
+http://ok2.se:8000/BbQqmbjJmS/Ia0AKMOutr/6612
+#EXTINF:-1,JAV_ok2_test6
+http://ok2.se:8000/eF9HsmtbCm/QPPTm057xL/6612
+#EXTINF:-1,JAV_ok2_test7
+http://ok2.se:8000/fOreFlixnN/jBEiS3CuL6/6612
+#EXTINF:-1,JAV_ok2_test8
+http://ok3.se:8000/cmkFkzbitS/Q3qf974vzh/6612
+#EXTINF:-1,JAV_ok2_test9
+http://ok2.se:8000/M5XcRqMSdT/bRcNyNxwJo/6612
+#EXTINF:-1,JAV_ok2_test10
+http://ok2.se:8000/M5x842emHj/SrpLIAdu2O/6612
+#EXTINF:-1,JAV_ok2_test11
+http://ok2.se:8000/dxmm6daXdT/HuqcEZyzF2/6612
+#EXTINF:-1,JAV_ok2_test12
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6612
 
 
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_streamlock.net--------------------------

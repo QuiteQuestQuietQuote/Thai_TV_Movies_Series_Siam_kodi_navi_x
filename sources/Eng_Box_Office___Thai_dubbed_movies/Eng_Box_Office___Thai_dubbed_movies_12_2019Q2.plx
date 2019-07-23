@@ -13682,8 +13682,14 @@ URL=https://openload.co/f/7OJmdjeWY9s/THE_WORLD_IS_YOURS_%282018%29_%E0%B8%AB%E0
 type=video
 name=Teen Spirit (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFPqJZ9vOcH7QroNxXV5wefX2qe.jpg
-date=2019-07-21
-URL=
+date=2019-07-23
+URL=https://verystream.com/stream/heNNQMcXBwU/Teen.Spirit.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/jCjvLdftAW4/Teen_Spirit_2018_1080p_BluRay_x264-DRONES.mp4
+#https://openload.co/f/PB9ngOIVK_0/Teen_Spirit_2018_1080p_BluRay_x264-DRONES.mp4
+#https://openload.co/f/qT-vhjxQuRU/Teen_Spirit_2018_BluRay_1080p_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4.mp4
+#https://openload.co/f/m6ToSk-o7bs/Teen_Spirit_2018_BluRay_1080p_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://vidoza.net/eixlvjjw6hkr.html	Teen Spirit 2018 1080p BluRay x264-DRONES	1712x720
+#https://vidoza.net/e8rr0o2irhxi.html	Teen Spirit 2018 BluRay 1080p DTS-HD MA 5 1 HEVC-DDR[EtHD]	1728x720
 type=video
 name=Teen Spirit (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFPqJZ9vOcH7QroNxXV5wefX2qe.jpg
@@ -13696,8 +13702,20 @@ URL=https://openload.co/f/w5TjkpsvWsk/TEEN_SPIRIT_%282018%29_%E0%B8%97%E0%B8%B5%
 type=video
 name=Breakthrough (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t58dx7JIgchr9If5uxn3NmHaHoS.jpg
-date=2019-07-21
-URL=
+date=2019-07-23
+URL=https://verystream.com/stream/ALmTgB41oDB/Breakthrough.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/NbpZ3Vndrsq/Breakthrough.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/ALmTgB41oDB/Breakthrough.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/SRb8TPFx9Td/Breakthrough.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://openload.co/f/25kNFLHGuLE/Breakthrough.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/uJqD3DjW1xk/Breakthrough_2019_1080p_BluRay_x264-GECKOS%5BEtHD%5D.mp4
+#https://openload.co/f/AzXpfOQzWg4/Breakthrough_2019_1080p_BluRay_x264-GECKOS%5BEtHD%5D.mp4
+#https://openload.co/f/1xL9B98j2wM/Breakthrough_2019_MULTi_BluRay_1080p_DTS-HD_MA_7_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://openload.co/f/Uyh5T53ErCI/Breakthrough_2019_MULTi_BluRay_1080p_DTS-HD_MA_7_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://vidoza.net/lrr0q776gfh6.html	Breakthrough 2019 1080p BluRay 1400MB DD5 1 x264-GalaxyRG	1728x720
+#https://vidoza.net/n5lojb9rp2e8.html	Breakthrough 2019 1080p BluRay 1400MB DD5 1 x264-GalaxyRG	1728x720
+#https://vidoza.net/70cqu4wtq6ob.html	Breakthrough 2019 1080p BluRay x264-GECKOS[EtHD]	1712x720
+#https://vidoza.net/02wnax09b7jb.html	Breakthrough 2019 MULTi BluRay 1080p DTS-HD MA 7 1 HEVC-DDR[EtHD]	1728x720
 type=video
 name=Breakthrough (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t58dx7JIgchr9If5uxn3NmHaHoS.jpg
@@ -15658,8 +15676,9 @@ URL=https://openload.co/f/v3e_COycxSQ/The_Possession_of_Hannah_Grace_%282018%29T
 type=video
 name=Bumblebee (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
-date=2019-03-26
-URL=https://openload.co/f/M1qETDwxOUw/Bumblebee.2018.1080p.BrRip.x265.HEVCBay.mkv.mp4
+date=2019-07-23
+URL=https://verystream.com/stream/BbycFLFXi3S/Bumblebee.2018.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://openload.co/f/M1qETDwxOUw/Bumblebee.2018.1080p.BrRip.x265.HEVCBay.mkv.mp4
 #https://openload.co/f/n-W5NM_0nEI/Bumblebee.2018.1080p.BrRip.x265.HEVCBay.mkv.mp4
 #https://openload.co/f/bfqpyLX6MFQ/Bumblebee.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
 #https://openload.co/f/SD6UMz_c8Ss/Bumblebee.2018.1080p.BluRay.x264-SPARKS.mkv.mp4
@@ -15676,6 +15695,7 @@ URL=https://openload.co/f/M1qETDwxOUw/Bumblebee.2018.1080p.BrRip.x265.HEVCBay.mk
 #https://openload.co/f/bXbPDliWIww/Bumblebee.2018.CAM.X264-MrTaco.mkv.mp4
 #https://openload.co/f/pzUifM0ZNTY/Bumblebee_2018_720p_HDCAM_ENG_SUB_ORCA88_SeeHD.mp4
 #https://openload.co/f/sFhmjyX2ynM/Bumblebee_2018_720p_HDCAM_ENG_SUB-ORCA88_SeeHD.mp4
+#https://vidoza.net/d72yv3sdhq5l.html	Bumblebee 2018 1080p BrRip x265 HEVCBay	1280x720
 type=video
 name=Bumblebee (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG6n4ei1F0kVQtTs3fAjDghngpa.jpg
@@ -16142,8 +16162,9 @@ URL=https://openload.co/f/x0SzwKBR2XE/Widows_%282018%29%E0%B8%AB%E0%B8%A1%E0%B9%
 type=video
 name=Overlord (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l76Rgp32z2UxjULApxGXAPpYdAP.jpg
-date=2019-07-22
-URL=https://openload.co/f/gL30Jf-oizw/Overlord.2018.1080p.BrRip.x265.HEVCBay.mkv.mp4
+date=2019-07-23
+URL=https://verystream.com/stream/KYHE9xLVVkw/Overlord.2018.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://openload.co/f/gL30Jf-oizw/Overlord.2018.1080p.BrRip.x265.HEVCBay.mkv.mp4
 #https://openload.co/f/IRvJapGU3Vk/overlord.2018.1080p.bluray.x264-drones.mkv.mp4
 #https://openload.co/f/3ae8r7ISKuI/Overlord_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4
 #https://openload.co/f/EJvDQHXy4Ks/Overlord.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
@@ -16152,6 +16173,7 @@ URL=https://openload.co/f/gL30Jf-oizw/Overlord.2018.1080p.BrRip.x265.HEVCBay.mkv
 #https://openload.co/f/HruL0-C2ag8/Overlord_1080p_WEB-DL_SeeHD.mkv.mp4
 #https://openload.co/f/yjzsysnh8Rg/overlord720pHDCAM_SeeHD.mkv.mp4
 #https://openload.co/f/N6wSGezQFf8/Overlord_2018_HDCAM_x264.mkv.mp4
+#https://vidoza.net/hesqxf4tnqt4.html	Overlord 2018 1080p BrRip x265 HEVCBay	1728x720
 type=video
 name=Overlord (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/l76Rgp32z2UxjULApxGXAPpYdAP.jpg
@@ -16289,8 +16311,9 @@ URL=https://openload.co/f/Wlgzr5F1XKg/Halloween_%282018%29%E0%B8%AE%E0%B8%B2%E0%
 type=video
 name=Hunter Killer (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
-date=2019-07-22
-URL=https://openload.co/f/RaaCzBCaDIQ/Hunter.Killer.2018.1080p.BrRip.x265.HEVCBay.mkv.mp4
+date=2019-07-23
+URL=https://verystream.com/stream/cCSh7HiGriM/Hunter.Killer.2018.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://openload.co/f/RaaCzBCaDIQ/Hunter.Killer.2018.1080p.BrRip.x265.HEVCBay.mkv.mp4
 #https://openload.co/f/AqGqsHa7jUk/Hunter.Killer.2018.1080p.BrRip.x265.HEVCBay.mkv.mp4
 #https://openload.co/f/khZmkUZQ5Xg/Hunter.Killer.2018.1080p.BluRay.10bit.HEVC.6CH.MkvCage.ws.mkv.mp4
 #https://uptobox.com/l6xdgwrlr9on
@@ -16307,6 +16330,7 @@ URL=https://openload.co/f/RaaCzBCaDIQ/Hunter.Killer.2018.1080p.BrRip.x265.HEVCBa
 #https://openload.co/f/WH4Ch_m3VuA/Hunter_Killer_2018_720p_HDCAM-1XBET_SeeHD.mp4
 #https://openload.co/f/tyPWaIr0L6I/Hunter_Killer_%282018%29HDCAM_XViD_AC3-ETRG.Ganool.mkv.mp4
 #https://openload.co/f/cxzuS6C8BUI/Hunter.Killer.2018.HDCAM.XviD-AVID.avi.mp4
+#https://vidoza.net/n6rjor9avnoy.html	Hunter Killer 2018 1080p BrRip x265 HEVCBay	1712x720
 type=video
 name=Hunter Killer (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oNF25PP9ZGLic8n0er0Zf6KNao.jpg
@@ -16775,8 +16799,10 @@ URL=https://openload.co/f/GdipIVmLUDY/The.Lion.King.1994.1080p.BluRay_SeeHD.mp4
 type=video
 name=Dirty Grandpa (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZEx6mB5Ftnt7LvlDjTKXcrTvyg.jpg
-date=2019-07-22
-URL=https://openload.co/f/yYD8q1hHTGk/Dirty.Grandpa.2016.1080p.BrRip.x265.HEVCBay.mkv.mp4
+date=2019-07-23
+URL=https://verystream.com/stream/FGuFDRXyFCB/Dirty.Grandpa.2016.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://openload.co/f/yYD8q1hHTGk/Dirty.Grandpa.2016.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://vidoza.net/2tmxi6tph5og.html	Dirty Grandpa 2016 1080p BrRip x265 HEVCBay	1728x720
 
 type=video
 name=The Lego Movie 2: The Second Part (2019) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR] | TMDB-66
