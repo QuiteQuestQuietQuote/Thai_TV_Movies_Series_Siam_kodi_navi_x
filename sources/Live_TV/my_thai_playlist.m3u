@@ -192,84 +192,6 @@ http://14.207.7.84:8000/play/a005
 
 
 
-#EXTINF:-1,ENCODE 12-01 HD-----------------------------------
-http://183.89.118.89:1002
-#EXTINF:-1,Live HD
-http://183.89.118.89:1004
-#EXTINF:-1,tv asahi HD
-http://183.89.118.89:1005
-#EXTINF:-1,AUSTRALIA NEWS HD
-http://183.89.118.89:1003
-#EXTINF:-1,Live HD
-http://183.89.118.89:1006
-#EXTINF:-1,Live HD
-http://183.89.118.89:1007
-#EXTINF:-1,Live HD
-http://183.89.118.89:1008
-#EXTINF:-1,New
-http://183.89.118.89:1009
-#EXTINF:-1,MiaoMi HD
-http://183.89.118.89:1010
-#EXTINF:-1,CARTOON CLUB
-http://183.89.118.89:1011
-#EXTINF:-1,Live HD
-http://183.89.118.89:1012
-#EXTINF:-1,New
-http://183.89.118.89:1013
-#EXTINF:-1,New
-http://183.89.118.89:1014
-#EXTINF:-1,Live HD
-http://183.89.118.89:1015
-#EXTINF:-1,Live HD
-http://183.89.118.89:1016
-#EXTINF:-1,Action Hollywood HD
-http://183.89.118.89:1017
-#EXTINF:-1,Live HD
-http://183.89.118.89:1018
-#EXTINF:-1,ITV Choice HD
-http://183.89.118.89:1019
-#EXTINF:-1,TV51 HD
-http://183.89.118.89:1020
-#EXTINF:-1,NBT HD
-http://183.89.118.89:1021
-#EXTINF:-1,THAIPBS HD
-http://183.89.118.89:1022
-#EXTINF:-1,3 Family
-http://183.89.118.89:1023
-#EXTINF:-1,MCOT Kids
-http://183.89.118.89:1024
-#EXTINF:-1,Spring News
-http://183.89.118.89:1025
-#EXTINF:-1,Voice TV
-http://183.89.118.89:1026
-#EXTINF:-1,Nation TV
-http://183.89.118.89:1027
-#EXTINF:-1,Workpoint TV
-http://183.89.118.89:1028
-#EXTINF:-1,True4U
-http://183.89.118.89:1029
-#EXTINF:-1,GMM25
-http://183.89.118.89:1030
-#EXTINF:-1,CH8
-http://183.89.118.89:1031
-#EXTINF:-1,3 SD
-http://183.89.118.89:1032
-#EXTINF:-1,MONO29
-http://183.89.118.89:1033
-#EXTINF:-1,9MCOT HD
-http://183.89.118.89:1034
-#EXTINF:-1,ONE HD
-http://183.89.118.89:1035
-#EXTINF:-1,Thairath TV HD
-http://183.89.118.89:1036
-#EXTINF:-1,3 HD
-http://183.89.118.89:1037
-#EXTINF:-1,Amarin TV HD
-http://183.89.118.89:1038
-#EXTINF:-1,CH7 HD
-http://183.89.118.89:1039
-#EXTINF:-1,PPTV HD
-http://183.89.118.89:1040
 
 
 
@@ -2605,6 +2527,37 @@ http://dlhls.live.cnlive.com:1935/cdn/zhonghuameishi/chunklist.m3u8
 #EXTINF:-1,China Food TV
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227024/index.m3u8
 
+
+#EXTINF:-1,ASIAN FOOD CHANNEL HD--------------------------
+http://1.55.138.206:8889/udp/225.1.1.198:30120
+#EXTINF:-1,ASIAN FOOD CHANNEL HD
+http://1.55.138.206:8889/udp/225.1.2.98:30120
+#EXTINF:-1,BBC EARTH
+http://1.55.138.206:8889/udp/225.1.2.24:30120
+#EXTINF:-1,BBC LIFESTYLE
+http://1.55.138.206:8889/udp/225.1.2.52:30120
+#EXTINF:-1,Da Vinci Learning HD
+http://1.55.138.206:8889/udp/225.1.1.197:30120
+#EXTINF:-1,Da Vinci Learning HD
+http://1.55.138.206:8889/udp/225.1.2.253:30120
+#EXTINF:-1,Discovery Asia HD
+http://1.55.138.206:8889/udp/225.1.2.222:30120
+#EXTINF:-1,Discovery Asia HD
+http://1.55.138.206:8889/udp/225.1.2.223:30120
+#EXTINF:-1,BBC Earth (HD 4Mbps)
+http://1.55.138.206:8889/udp/225.1.2.25:30120
+#EXTINF:-1,afc asian food channel (FPT Play)
+http://1.55.138.206:8889/udp/225.1.4.36:30120
+#EXTINF:-1,BBC earth (FPT Play)
+http://1.55.138.206:8889/udp/225.1.4.21:30120
+#EXTINF:-1,BBC lifestyle (FPT Play)
+http://1.55.138.206:8889/udp/225.1.4.23:30120
+#EXTINF:-1,Da Vinci/DIVA??? (FPT Play)
+http://1.55.138.206:8889/udp/225.1.4.38:30120
+
+
+
+
 #EXTINF:-1,CNBC--------------------------
 http://42.116.100.95:4022/udp/225.1.1.227:30120
 #EXTINF:-1,BBC WORLD NEWS
@@ -2706,7 +2659,7 @@ http://14.182.205.160:4022/rtp/232.84.1.108:10224
 #EXTINF:-1,Nat Geo People
 http://14.182.205.160:4022/rtp/232.84.2.121:8376
 
-#EXTINF:-1,ASIAN FOOD CHANNEL--------------------------
+#EXTINF:-1,ASIAN FOOD CHANNEL--------------------------113.184.58.134:4022/rtp
 http://113.184.58.134:4022/rtp/232.84.1.115:10236
 #EXTINF:-1,ASIAN FOOD CHANNEL HD
 http://113.184.58.134:4022/rtp/232.84.2.129:9570
@@ -2813,6 +2766,9 @@ http://95.170.215.118/hls/m3u8/FOX-ACTION-PP-SS-A.m3u8
 #EXTINF:-1,Disneycinema
 http://144.217.253.140/Disneycinema/tracks-v1a1/index.m3u8?sd=10&rebase=on
 
+#EXTINF:-1,UK: Movies Premiere 4K+
+http://123iptv.nl:88/Qj1G5mSLdn/DTfiDmcbJj/23383
+
 #EXTINF:-1,CineMax--------------------------
 http://212.111.17.130:8001/1:0:1:30a:C94:3:EB0000:0:0:0:
 #EXTINF:-1,FilmBox_Plus
@@ -2864,11 +2820,11 @@ http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/1073/index.m3u8
 #EXTINF:-1,Penthouse_passion2
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
 #EXTINF:-1,Candy--------------------------
-http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/10596
-#EXTINF:-1,Candy
 http://185.35.4.37:8087/candy/ch.m3u8
 #EXTINF:-1,livesexlatinas_rtsp
 rtsp://51.254.198.110:1935/leved/livesexlatinas
+#EXTINF:-1,Vivid EU
+http://188.35.9.26:2031/udp/031a
 #EXTINF:-1,Russian Night_/udp
 http://188.35.9.11:21051/udp/071l
 #EXTINF:-1,Russian Night--------------------------
@@ -2899,8 +2855,6 @@ http://91.204.234.3:8000/play/a001/index.m3u8
 http://91.204.234.3:8000/play/a00p/index.m3u8
 #EXTINF:-1,DorcelHD
 http://91.194.72.46:10043/play/DorcelHD/index.m3u8
-#EXTINF:-1,Emmanuelle
-http://cdn.miip.tv:80/Damian/123456/101
 #EXTINF:-1,WYN
 http://185.35.4.37:8087/shalun/ch.m3u8
 
@@ -3153,12 +3107,31 @@ https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
 http://92.43.140.249/s65/04.m3u8
 
 
-
-#EXTINF:-1,CNBC Europe
-http://94.62.178.158:9981/stream/channelid/1835918518
-#EXTINF:-1,CNBC
-http://94.62.178.158:9981/stream/channelid/1166299444
-
 #EXTINF:-1,CNBC_th
 http://14.207.7.84:8000/play/a03n
+
+
+#EXTINF:-1,US: CNBC – DIRECT
+http://5519deepside.com:25461/10047/88437/672
+#EXTINF:-1,US: CNBC WORLD – DIRECT
+http://5519deepside.com:25461/10047/88437/2451
+#EXTINF:-1,USA: FOX BUSINESS HD
+http://162.218.64.156:83/patti1234/patti4321/308903
+#EXTINF:-1,US: FOX BUSINESS NETWORK – DIRECT
+http://5519deepside.com:25461/10047/88437/13941
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
