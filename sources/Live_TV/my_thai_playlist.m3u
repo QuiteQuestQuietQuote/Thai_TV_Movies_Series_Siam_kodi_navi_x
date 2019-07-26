@@ -2527,6 +2527,12 @@ http://dlhls.live.cnlive.com:1935/cdn/zhonghuameishi/chunklist.m3u8
 #EXTINF:-1,China Food TV
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227024/index.m3u8
 
+#EXTINF:-1,UK | BBC Earth
+http://jokeriptv.online:1453/servet/servet27/119901
+
+
+
+
 
 #EXTINF:-1,ASIAN FOOD CHANNEL HD--------------------------
 http://1.55.138.206:8889/udp/225.1.1.198:30120
@@ -2646,20 +2652,8 @@ http://42.116.100.95:4022/udp/225.1.4.73:30120
 http://42.116.100.95:4022/udp/225.1.4.37:30120
 
 
-#EXTINF:-1,ASIAN FOOD CHANNEL HD--------------------------
-http://14.182.205.160:4022/rtp/232.84.2.129:9570
-#EXTINF:-1,DA VINCI LEARNING HD
-http://14.182.205.160:4022/rtp/232.84.2.131:9582
-#EXTINF:-1,NAT GEO PEOPLE HD
-http://14.182.205.160:4022/rtp/232.84.1.76:8430
-#EXTINF:-1,ASIAN FOOD CHANNEL
-http://14.182.205.160:4022/rtp/232.84.1.115:10236
-#EXTINF:-1,Da Vinci Learning
-http://14.182.205.160:4022/rtp/232.84.1.108:10224
-#EXTINF:-1,Nat Geo People
-http://14.182.205.160:4022/rtp/232.84.2.121:8376
 
-#EXTINF:-1,ASIAN FOOD CHANNEL--------------------------113.184.58.134:4022/rtp
+#EXTINF:-1,ASIAN FOOD CHANNEL--------------------------
 http://113.184.58.134:4022/rtp/232.84.1.115:10236
 #EXTINF:-1,ASIAN FOOD CHANNEL HD
 http://113.184.58.134:4022/rtp/232.84.2.129:9570
@@ -2763,11 +2757,7 @@ http://103.205.133.44:1935/ns/WARNERBROS/playlist.m3u8
 #EXTINF:-1,FOX-ACTION
 http://95.170.215.118/hls/m3u8/FOX-ACTION-PP-SS-A.m3u8
 
-#EXTINF:-1,Disneycinema
-http://144.217.253.140/Disneycinema/tracks-v1a1/index.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,UK: Movies Premiere 4K+
-http://123iptv.nl:88/Qj1G5mSLdn/DTfiDmcbJj/23383
 
 #EXTINF:-1,CineMax--------------------------
 http://212.111.17.130:8001/1:0:1:30a:C94:3:EB0000:0:0:0:
@@ -2951,8 +2941,7 @@ http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3
 
 #EXTINF:-1,JAV_ok2_mix--------------------------
 http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/6612
-#EXTINF:-1,JAV_ok2
-http://ok2.se:8000/DTKwiaWRTW/5Z1DrWGzoi/6612
+
 
 #EXTINF:-1,Ibiza_ok2_80
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/72394
@@ -2960,29 +2949,11 @@ http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/72394
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/6612
 
 
+
+
 #EXTINF:-1,JAV_ok2_test1
-http://ok2.se:8000/6BhKbf6beI/RKtMhgeX6A/6612
+http://f.ok2.se:8000/Z3UDJ3WG9u/tEqpOCWRci/6612
 #EXTINF:-1,JAV_ok2_test2
-http://ok2.se:8000/a02shnw0iK/tSxt8Cw4EH/6612
-#EXTINF:-1,JAV_ok2_test3
-http://ok2.se:8000/roGqwFmq8b/VQ2F6I9WNu/6612
-#EXTINF:-1,JAV_ok2_test4
-http://ok2.se:8000/a02shnw0iK/tSxt8Cw4EH/6612
-#EXTINF:-1,JAV_ok2_test5
-http://ok2.se:8000/BbQqmbjJmS/Ia0AKMOutr/6612
-#EXTINF:-1,JAV_ok2_test6
-http://ok2.se:8000/eF9HsmtbCm/QPPTm057xL/6612
-#EXTINF:-1,JAV_ok2_test7
-http://ok2.se:8000/fOreFlixnN/jBEiS3CuL6/6612
-#EXTINF:-1,JAV_ok2_test8
-http://ok3.se:8000/cmkFkzbitS/Q3qf974vzh/6612
-#EXTINF:-1,JAV_ok2_test9
-http://ok2.se:8000/M5XcRqMSdT/bRcNyNxwJo/6612
-#EXTINF:-1,JAV_ok2_test10
-http://ok2.se:8000/M5x842emHj/SrpLIAdu2O/6612
-#EXTINF:-1,JAV_ok2_test11
-http://ok2.se:8000/dxmm6daXdT/HuqcEZyzF2/6612
-#EXTINF:-1,JAV_ok2_test12
 http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6612
 
 
@@ -3111,14 +3082,7 @@ http://92.43.140.249/s65/04.m3u8
 http://14.207.7.84:8000/play/a03n
 
 
-#EXTINF:-1,US: CNBC – DIRECT
-http://5519deepside.com:25461/10047/88437/672
-#EXTINF:-1,US: CNBC WORLD – DIRECT
-http://5519deepside.com:25461/10047/88437/2451
-#EXTINF:-1,USA: FOX BUSINESS HD
-http://162.218.64.156:83/patti1234/patti4321/308903
-#EXTINF:-1,US: FOX BUSINESS NETWORK – DIRECT
-http://5519deepside.com:25461/10047/88437/13941
+
 
 
 

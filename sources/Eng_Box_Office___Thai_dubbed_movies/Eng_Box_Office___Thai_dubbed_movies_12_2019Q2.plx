@@ -1249,12 +1249,66 @@ URL=
 type=video
 name=
 thumb=
-date=2019-07-20
+date=2019-07-26
 URL=
 
 
 
 
+
+
+
+
+type=video
+name=Fisherman’s Friends (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukHl7Fb6WuQ8NILwi9ZTdwwsjB8.jpg
+date=2019-07-26
+URL=https://verystream.com/stream/LMCd5pvDZkP/Fishermans.Friends.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/W3Z71oBTnWc/Fishermans.Friends.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/X1cjxtX5-UA/Fishermans_Friends_2019_1080p_BluRay_X264-AMIABLE%5BEtHD%5D.mp4
+#https://openload.co/f/kLHQIMC7vkM/Fishermans_Friends_2019_1080p_BluRay_X264-AMIABLE%5BEtHD%5D.mp4
+#https://vidoza.net/8jllq9eumjko.html	Fishermans Friends 2019 1080p BluRay X264-AMIABLE[EtHD]	1712x720
+
+type=video
+name=Golden Slumber (2018) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-73
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yPe1m7yHfPPDRnK7zuKvGCu8nT.jpg
+date=2019-07-26
+URL=https://openload.co/f/st7HXFBow_w/Golden_Slumber.2018.KOREAN.10080p.BluRay.x264.DTS-CHD.mkv.mp4
+
+type=video
+name=Ice Dragon: Legend of the Blue Daisies (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-82
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nN3hRin3G0J1KGwityzxSkmAQA5.jpg
+date=2019-07-26
+URL=https://verystream.com/stream/isDH5BnLMCP/Ice.Dragon.Legend.Of.The.Blue.Daisies.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/rtoyCntsPqo/Ice.Dragon.Legend.Of.The.Blue.Daisies.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://vidoza.net/pkthc59wksmm.html	Ice Dragon Legend Of The Blue Daisies 2018 1080p BluRay AAC-RARBG	1280x720
+#https://vidoza.net/yvtgg1xj8ls4.html	Ice Dragon Legend Of The Blue Daisies 2018 1080p BluRay AAC-RARBG	1280x720
+
+type=video
+name=The Public (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJeNI0jc2VKd3L2JswUhijNvs0.jpg
+date=2019-07-26
+URL=https://verystream.com/stream/Q3mEMd3qjWU/The.Public.2018.1080p.BluRay.x264-YTS.LT.mp4
+#https://verystream.com/stream/2Mj8a3B2uZT/The.Public.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/iSyQfSs848h/The.Public.2019.1080p.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/g4MNdrbDIq0/The.Public.2018.1080p.BluRay.x264-YTS.LT.mp4
+#https://openload.co/f/ScoUKD2XXdE/the_public_2018_1080p_bluray_x264-brmp%5BEtHD%5D.mp4
+#https://openload.co/f/uqCXyS8C2II/the_public_2018_1080p_bluray_x264-brmp%5BEtHD%5D.mp4
+#https://vidoza.net/mshy2xaqampl.html	the public 2018 1080p bluray x264-brmp[EtHD]	1728x720
+
+type=video
+name=Extremely Wicked, Shockingly Evil and Vile (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSuJ3r5zr5T26tTxyygHhgkUAIM.jpg
+date=2019-07-26
+URL=https://verystream.com/stream/ESPYF6HhEHc/Extremely.Wicked.Shockingly.Evil.and.Vile.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/QyenNRTMfo6/Extremely.Wicked.Shockingly.Evil.and.Vile.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/ESPYF6HhEHc/Extremely.Wicked.Shockingly.Evil.and.Vile.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/I-Fo9ukg7zU/Extremely.Wicked.Shockingly.Evil.and.Vile.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/dc4JYUIGVcQ/Extremely.Wicked.Shockingly.Evil.and.Vile.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/0TZIwQSZrcw/Extremely.Wicked.Shockingly.Evil.and.Vile.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/zHL2gOyktNg/Extremely.Wicked.Shockingly.Evil.and.Vile.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://vidoza.net/skdu7dn1et55.html	Extremely Wicked Shockingly Evil and Vile 2019 1080p BluRay 1400MB DD5 1 x264-GalaxyRG	1728x720
+#https://vidoza.net/pdo7rjib2li5.html	Extremely Wicked Shockingly Evil and Vile 2019 1080p BluRay AAC-RARBG	1712x720
 
 type=video
 name=After (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
@@ -1774,12 +1828,14 @@ URL=https://openload.co/f/zGURzEmY0JM/The_Poison_Rose_2019_1080p_Bluray_H264_%E2
 type=video
 name=Greta (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hBpFyJ3pGdupXbaC2L7nGvLMBn.jpg
-date=2019-06-02
-URL=https://openload.co/f/qHd6rx_KrhU/Greta_2018_1080p_BRRip_6CH_1.9GB_%E2%80%93_MkvCage.mp4
+date=2019-07-26
+URL=https://verystream.com/stream/ReuhKEqvFfD/Greta_2018_1080p_BluRay_x264_DTS-MW.mkv.mp4
+#https://openload.co/f/qHd6rx_KrhU/Greta_2018_1080p_BRRip_6CH_1.9GB_%E2%80%93_MkvCage.mp4
 #https://openload.co/f/uCk21-AGP1w/Greta_2018_1080p_BRRip_6CH_1.9GB_%E2%80%93_MkvCage.mp4
 #https://openload.co/f/FPcZmA5-9t8/Greta_%282019%291080p_BluRay_x264-GECKOS_Ganool.mkv.mp4
 #https://openload.co/f/N-7XX_2UthI/Greta_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
 #https://openload.co/f/lpFPlZ9bVQU/Greta_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+#https://openload.co/f/ZmOkGRB_j2o/Greta_2018_1080p_BluRay_x264_DTS-MW.mkv.mp4
 
 type=video
 name=Wheely (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-55
@@ -15095,8 +15151,10 @@ URL=https://www.rapidvideo.com/e/G261EM3KDV&q=1080p
 type=video
 name=Escape Room (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yZAx7tlKRZIg7pJfaPhl00yHIQ.jpg
-date=2019-04-18
-URL=https://openload.co/f/53_0dOqB_vQ/Escape.Room.2019.REPACK.1080p.BluRay.x264-DRONES.mkv.mp4
+date=2019-07-26
+URL=https://verystream.com/stream/ARp5QhKgRHm/Escape.Room.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://openload.co/f/NJRuT1ldOOQ/Escape.Room.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://openload.co/f/53_0dOqB_vQ/Escape.Room.2019.REPACK.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/M513Y2z9l98/Escape_Room_%282019%291080p_BluRay_x264-DRONES_ganool.mkv.mp4
 #https://openload.co/f/33FqdVCU5k0/escape.room.2019.repack.1080p.bluray.dd5.1.hevc.x265.mkv.mp4
 #https://openload.co/f/GRQd4bYAe-8/Escape.Room.2019.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -15105,6 +15163,7 @@ URL=https://openload.co/f/53_0dOqB_vQ/Escape.Room.2019.REPACK.1080p.BluRay.x264-
 #https://openload.co/f/tViYJgHNNIs/Escape.Room.2019.REPACK.1080p.BluRay.x264-DRONES.mkv.mp4
 #https://openload.co/f/oj3GNDY1iHA/EscapeRoomHC_SeeHD.mkv.mp4
 #https://openload.co/f/T-lDrtQ7twA/Escape.Room.2019.CAM.XviD-AVID.avi.mp4
+#https://vidoza.net/d5szqnwcga4i.html	Escape Room 2019 1080p BrRip x265 HEVCBay	1712x720
 type=video
 name=Escape Room (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yZAx7tlKRZIg7pJfaPhl00yHIQ.jpg
