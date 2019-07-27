@@ -2520,48 +2520,39 @@ http://61.216.10.122:4046/VideoInput/play.ts
 http://kodi:kodi@61.245.139.132:9981/stream/channelid/1590507445
 #EXTINF:-1,KLT
 http://61.58.60.230:9319/live/205.m3u8
-#EXTINF:-1,24_kitchen
-https://cdn1.mobiletv.bg/T3/24kitchen/24kitchen_794613_850k.m3u8
 #EXTINF:-1,China Food TV_cnlive
 http://dlhls.live.cnlive.com:1935/cdn/zhonghuameishi/chunklist.m3u8
 #EXTINF:-1,China Food TV
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227024/index.m3u8
 
-#EXTINF:-1,UK | BBC Earth
-http://jokeriptv.online:1453/servet/servet27/119901
+#EXTINF:-1,CA: HGTV | UHD--------------------------
+http://thenew.tv:8000/uP4npDkbe/hbL03e2U8s/83062
+#EXTINF:-1,CA: COOKING CHANNEL | HD
+http://thenew.tv:8000/uP4npDkbe/hbL03e2U8s/5085
 
+#EXTINF:-1,E! Entertainment FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20677
 
+#EXTINF:-1,Da Vinci
+http://37.193.199.183:81/udp/239.1.5.6:1234
+#EXTINF:-1,Eureka HD
+http://37.193.199.183:81/udp/239.1.21.13:1234
 
+#EXTINF:-1,PL: BBC Earth HD
+http://thenew.tv:8000/uP4npDkbe/hbL03e2U8s/58757
+#EXTINF:-1,PL: Da Vinci Learning
+http://thenew.tv:8000/uP4npDkbe/hbL03e2U8s/58740
+#EXTINF:-1,PL: NAT GEO PEOPLE HD
+http://thenew.tv:8000/uP4npDkbe/hbL03e2U8s/58683
 
-
-#EXTINF:-1,ASIAN FOOD CHANNEL HD--------------------------
-http://1.55.138.206:8889/udp/225.1.1.198:30120
-#EXTINF:-1,ASIAN FOOD CHANNEL HD
-http://1.55.138.206:8889/udp/225.1.2.98:30120
-#EXTINF:-1,BBC EARTH
-http://1.55.138.206:8889/udp/225.1.2.24:30120
-#EXTINF:-1,BBC LIFESTYLE
-http://1.55.138.206:8889/udp/225.1.2.52:30120
-#EXTINF:-1,Da Vinci Learning HD
-http://1.55.138.206:8889/udp/225.1.1.197:30120
-#EXTINF:-1,Da Vinci Learning HD
-http://1.55.138.206:8889/udp/225.1.2.253:30120
-#EXTINF:-1,Discovery Asia HD
-http://1.55.138.206:8889/udp/225.1.2.222:30120
-#EXTINF:-1,Discovery Asia HD
-http://1.55.138.206:8889/udp/225.1.2.223:30120
-#EXTINF:-1,BBC Earth (HD 4Mbps)
-http://1.55.138.206:8889/udp/225.1.2.25:30120
-#EXTINF:-1,afc asian food channel (FPT Play)
-http://1.55.138.206:8889/udp/225.1.4.36:30120
-#EXTINF:-1,BBC earth (FPT Play)
-http://1.55.138.206:8889/udp/225.1.4.21:30120
-#EXTINF:-1,BBC lifestyle (FPT Play)
-http://1.55.138.206:8889/udp/225.1.4.23:30120
-#EXTINF:-1,Da Vinci/DIVA??? (FPT Play)
-http://1.55.138.206:8889/udp/225.1.4.38:30120
-
-
+#EXTINF:-1,Da Vinci learning
+http://5.9.11.205:2082/ch175/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,Travel+ Adventure HD
+http://5.9.11.205:2082/ch195/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,Fine Living
+http://5.9.11.205:2082/ch322/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,Viasat Explore HD
+http://5.9.11.205:2082/ch324/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
 
 
 #EXTINF:-1,CNBC--------------------------
@@ -2797,6 +2788,49 @@ http://193.111.244.23:7777/nu_art_hd/playlist.m3u8
 http://185.35.4.37:8087/nuarthd/ch.m3u8
 
 
+
+#EXTINF:-1,NuArt HD--------------------------
+http://5.9.11.205:2082/ch392/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,Babes TV HD
+http://5.9.11.205:2082/ch393/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,Brazzers TV Europe
+http://5.9.11.205:2082/ch395/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,Private HD
+http://5.9.11.205:2082/ch396/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,Hustler HD
+http://5.9.11.205:2082/ch397/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,PassionXXX
+http://5.9.11.205:2082/ch399/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,Penthouse Gold HD
+http://5.9.11.205:2082/ch400/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,Penthouse Black
+http://5.9.11.205:2082/ch401/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,PINKoTV
+http://5.9.11.205:2082/ch402/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,Playboy TV
+http://5.9.11.205:2082/ch403/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,Redlight HD
+http://5.9.11.205:2082/ch404/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,Vivid Red HD
+http://5.9.11.205:2082/ch408/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,russian night
+http://5.9.11.205:2082/ch409/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,WAY HD
+http://5.9.11.205:2082/ch411/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,24kz
+http://5.9.11.205:2082/ch412/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,Almaty
+http://5.9.11.205:2082/ch413/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,KazakhTV
+http://5.9.11.205:2082/ch414/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,KTK
+http://5.9.11.205:2082/ch415/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+#EXTINF:-1,OralTV
+http://5.9.11.205:2082/ch416/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+
+
+
+
 #EXTINF:-1,RedLight--------------------------
 http://84.104.234.134:8001/1:0:1:4224:3DB8:13E:820000:0:0:0
 #EXTINF:-1,Penthouse_quickies
@@ -2922,6 +2956,16 @@ http://125.227.210.37:9004/VideoInput/play.ts
 #EXTINF:-1,jap_ts5
 http://125.227.210.37:9005/VideoInput/play.ts
 
+#EXTINF:-1,jap_ts1-2---------------------------
+http://113.196.177.81:9001/VideoInput/play.ts
+#EXTINF:-1,jap_ts2-2
+http://113.196.177.81:9002/VideoInput/play.ts
+#EXTINF:-1,jap_ts3-2
+http://113.196.177.81:9003/VideoInput/play.ts
+#EXTINF:-1,jap_ts4-2
+http://113.196.177.81:9004/VideoInput/play.ts
+#EXTINF:-1,jap_ts5-2
+http://113.196.177.81:9005/VideoInput/play.ts
 
 
 #EXTINF:-1,SonSee TV3_php-----------------------
@@ -3082,8 +3126,10 @@ http://92.43.140.249/s65/04.m3u8
 http://14.207.7.84:8000/play/a03n
 
 
-
-
+#EXTINF:-1,CA: CNBC WORLD | HD
+http://thenew.tv:8000/uP4npDkbe/hbL03e2U8s/5092
+#EXTINF:-1,CA: FOX BUSINESS | HD
+http://thenew.tv:8000/uP4npDkbe/hbL03e2U8s/5050
 
 
 
