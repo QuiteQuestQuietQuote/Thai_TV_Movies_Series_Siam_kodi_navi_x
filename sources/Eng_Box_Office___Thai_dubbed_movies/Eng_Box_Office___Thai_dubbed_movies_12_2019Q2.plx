@@ -1401,20 +1401,7 @@ URL=https://verystream.com/stream/H5THC2w5Paj/hellboy.2019.1080p.bluray.x264-dro
 #https://vidoza.net/8la9fcypgi4k.html	hellboy 2019 1080p bluray x264-drones[EtHD]	1728x720
 #https://vidoza.net/h4kpwm36krsy.html	Hellboy 2019 1080p Bluray X264-EVO[EtHD]	1728x720
 
-type=video
-name=Pet Sematary (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg
-date=2019-07-19
-URL=https://verystream.com/stream/WjrWXjJaVJh/Pet.Sematary.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
-#https://verystream.com/stream/SBxr2y46jz3/Pet.Sematary.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
-#https://verystream.com/stream/Z3mQ22phZ5v/Pet.Sematary.2019.1080p.BluRay.x264-YTS.LT.mp4
-#https://openload.co/f/bUxDm4k4SJ4/Pet.Sematary.2019.1080p.BluRay.x264-YTS.LT.mp4
-#https://openload.co/f/fyFhpiWrFvY/Pet.Sematary.2019.1080p.BluRay.x264-YTS.LT.mp4
-#https://openload.co/f/i24PtDi39k0/Pet.Sematary.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
-#https://openload.co/f/r1dSIGPGTVY/Pet.Sematary.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
-#https://openload.co/f/_-SMGg0JImk/Pet.Sematary.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
-#https://openload.co/f/coXZyK-GOMw/Pet.Sematary.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
-#https://vidoza.net/t1ko2qh6bbpu.html	Pet Sematary 2019 1080p BrRip x265 HEVCBay	1712x720
+
 
 type=video
 name=Little (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
@@ -7116,14 +7103,7 @@ URL=https://openload.co/f/ZkOCfntVOF0/Crazy.Famous.2017.1080p.BluRay.x264.DTS-FG
 #https://www.blazefile.co/embed-5rx91z3sqgb3.html   720
 #https://uptobox.com/emq40fwda1wk   720
 
-type=video
-name=Samson (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7Zaj1IEzMMB7KzfglpxdXWB66u.jpg
-date=2018-05-03
-URL=https://www.blazefile.co/embed-5xhu8td43kwv.html
-#https://uptobox.com/yvn0phwekbqw
-#https://openload.co/f/vigBmObtS6U/Samson.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
-#https://openload.co/f/v5u4L1EyIV4/Samson.2018.720pHD_SeeHD.mp4
+
 
 type=video
 name=In the Fade (2017) [COLOR=FF00FF00]GER BR 1080p[/COLOR]
@@ -11527,27 +11507,7 @@ date=2018-08-20
 URL=https://streamango.com/f/fqekkfffqnsrokef/Big_Fish_Begonia_2016_Big_Fish_Begonia_2016_
 
 
-type=video
-name=Upgrade (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqistSlQGQVlvDZHweDP3qCplMP.jpg
-date=2018-08-16
-URL=https://openload.co/f/b_BM2OBi9g0/Upgrade.2018.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/oVxJ4vm2ilM/Upgrade.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
-#https://openload.co/f/gSIid1dslG4/Upgrade_%282018%29_%5B1080p%5D_BluRay_x264-%5BYTS_AM%5D_mp4
-#https://openload.co/f/QLWQqRpYVbY/Upgrade.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/6P5qPmpNAYo/Upgrade.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.MKV.mp4
-#https://openload.co/f/HAuj73DaREo/Upgrade_2018_NEW_720p_HDCAM_X264-SugarTiTs_SeeHD.mkv.mp4
-#https://openload.co/f/E6uTmxDQ3PY/Upgrade.2018.720p.TS.1XBET.mp4
-#https://openload.co/f/I8aHEdf6qPY/Upgrade.2018.720p.TS.1XBET.mp4
-#https://openload.co/f/dPSouJiBEWA/Upgrade.2018.HDTS.XviD-AVID.avi.mp4
-#https://uptobox.com/99zpxvo54y3u   720
-#https://www.rapidvideo.com/e/FUKX4SYIBC   720
-#https://openload.co/embed/aFMT4LevT3Y/SHQUPGRDEBD72.Ganoo.si.mkv.mp4
-type=video
-name=Upgrade (2018) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqistSlQGQVlvDZHweDP3qCplMP.jpg
-date=2018-08-20
-URL=https://streamango.com/f/lqscttqqrpqaoorc/Upgrade_2018_
+
 
 
 type=video
@@ -12944,17 +12904,7 @@ URL=https://openload.co/f/JwY0AqV5rPQ/Brigsby_Bear_%282017%29%E0%B8%9A%E0%B8%A3%
 
 
 
-type=video
-name=The House (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkmWkVgirei79bwds23Hr0lWSXS.jpg
-date=2017-09-26
-URL=https://www.blazefile.co/embed-pn6ml5wz8vat.html
-#https://openload.co/f/keXLH-SrQw8/The.House.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
-type=video
-name=The House (2017) THSUB
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkmWkVgirei79bwds23Hr0lWSXS.jpg
-date=2017-10-28
-URL=https://openload.co/f/Te1Oo96FmrY/The_House_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%AE%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
+
 
 
 type=video
@@ -13712,7 +13662,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-07-21
+date=2019-07-28
 URL=
 
 
@@ -13721,6 +13671,116 @@ URL=
 
 
 
+
+
+type=video
+name=The Villainess (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lv8RPk7vDaJPCBMJUa6BdJq86n.jpg
+date=2019-07-28
+URL=
+type=video
+name=The Villainess (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lv8RPk7vDaJPCBMJUa6BdJq86n.jpg
+date=2019-07-28
+URL=https://verystream.com/stream/RHyGUgEVp9w/THE_VILLAINESS_%28AK-NYEO%29_%282017%29_%E0%B8%9A%E0%B8%B8%E0%B8%A9%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99.mp4
+
+
+type=video
+name=Pet Sematary (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg
+date=2019-07-19
+URL=https://verystream.com/stream/WjrWXjJaVJh/Pet.Sematary.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://verystream.com/stream/SBxr2y46jz3/Pet.Sematary.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/Z3mQ22phZ5v/Pet.Sematary.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://openload.co/f/bUxDm4k4SJ4/Pet.Sematary.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://openload.co/f/fyFhpiWrFvY/Pet.Sematary.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://openload.co/f/i24PtDi39k0/Pet.Sematary.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/r1dSIGPGTVY/Pet.Sematary.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/_-SMGg0JImk/Pet.Sematary.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://openload.co/f/coXZyK-GOMw/Pet.Sematary.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://vidoza.net/t1ko2qh6bbpu.html	Pet Sematary 2019 1080p BrRip x265 HEVCBay	1712x720
+type=video
+name=Pet Sematary (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg
+date=2019-07-28
+URL=https://verystream.com/stream/86CZy4AdzXY/PET_SEMATARY_%282019%29_%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%8A%E0%B9%89%E0%B8%B2.mp4
+
+
+type=video
+name=The Curse of La Llorona (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-56
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhZlXSnFUpNiLAek9EkPrtLEWQI.jpg
+date=2019-07-28
+URL=
+type=video
+name=The Curse of La Llorona (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhZlXSnFUpNiLAek9EkPrtLEWQI.jpg
+date=2019-07-28
+URL=https://openload.co/f/uqYzoALrdLc/THE_CURSE_OF_LA_LLORONA_%282019%29_%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B2%E0%B8%9B%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87%E0%B8%A3%E0%B9%88%E0%B8%B3%E0%B9%84%E0%B8%AB%E0%B9%89.mp4
+
+
+type=video
+name=Pokémon Detective Pikachu (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgQ7APnFpf1TuviKHXeEe3KnsTV.jpg
+date=2019-07-28
+URL=
+type=video
+name=Pokémon Detective Pikachu (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgQ7APnFpf1TuviKHXeEe3KnsTV.jpg
+date=2019-07-28
+URL=https://openload.co/f/lx1AuoVz1wc/POK%C3%89MON_DETECTIVE_PIKACHU_%282019%29_%E0%B9%82%E0%B8%9B%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AD%E0%B8%99_%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%9E%E0%B8%B4%E0%B8%84%E0%B8%B2%E0%B8%8A%E0%B8%B9.mp4
+
+
+type=video
+name=Samson (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-54
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7Zaj1IEzMMB7KzfglpxdXWB66u.jpg
+date=2018-05-03
+URL=https://www.blazefile.co/embed-5xhu8td43kwv.html
+#https://uptobox.com/yvn0phwekbqw
+#https://openload.co/f/vigBmObtS6U/Samson.2018.1080p.WEB-DL.H264.AC3-EVO.mkv.mp4
+#https://openload.co/f/v5u4L1EyIV4/Samson.2018.720pHD_SeeHD.mp4
+type=video
+name=Samson (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7Zaj1IEzMMB7KzfglpxdXWB66u.jpg
+date=2019-07-28
+URL=https://openload.co/f/qOMgl6YnneU/SAMSON_%282018%29_%E0%B9%81%E0%B8%8B%E0%B8%A1%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%84%E0%B8%99%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87.mp4
+
+
+type=video
+name=Upgrade (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqistSlQGQVlvDZHweDP3qCplMP.jpg
+date=2018-08-16
+URL=https://openload.co/f/b_BM2OBi9g0/Upgrade.2018.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/oVxJ4vm2ilM/Upgrade.2018.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#https://openload.co/f/gSIid1dslG4/Upgrade_%282018%29_%5B1080p%5D_BluRay_x264-%5BYTS_AM%5D_mp4
+#https://openload.co/f/QLWQqRpYVbY/Upgrade.2018.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/6P5qPmpNAYo/Upgrade.2018.720p.WEB-DL.DD5.1.H264-CMRG_SeeHD.MKV.mp4
+#https://openload.co/f/HAuj73DaREo/Upgrade_2018_NEW_720p_HDCAM_X264-SugarTiTs_SeeHD.mkv.mp4
+#https://openload.co/f/E6uTmxDQ3PY/Upgrade.2018.720p.TS.1XBET.mp4
+#https://openload.co/f/I8aHEdf6qPY/Upgrade.2018.720p.TS.1XBET.mp4
+#https://openload.co/f/dPSouJiBEWA/Upgrade.2018.HDTS.XviD-AVID.avi.mp4
+#https://uptobox.com/99zpxvo54y3u   720
+#https://www.rapidvideo.com/e/FUKX4SYIBC   720
+#https://openload.co/embed/aFMT4LevT3Y/SHQUPGRDEBD72.Ganoo.si.mkv.mp4
+type=video
+name=Upgrade (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqistSlQGQVlvDZHweDP3qCplMP.jpg
+date=2019-07-28
+URL=https://openload.co/f/MM_96SKYVAU/UPGRADE_%282018%29_%E0%B8%AD%E0%B8%B1%E0%B8%9E%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94.mp4
+#https://streamango.com/f/lqscttqqrpqaoorc/Upgrade_2018_
+
+
+type=video
+name=The House (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkmWkVgirei79bwds23Hr0lWSXS.jpg
+date=2017-09-26
+URL=https://www.blazefile.co/embed-pn6ml5wz8vat.html
+#https://openload.co/f/keXLH-SrQw8/The.House.2017.1080p.BluRay.x264-GECKOS.mkv.mp4
+type=video
+name=The House (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkmWkVgirei79bwds23Hr0lWSXS.jpg
+date=2019-07-28
+URL=https://openload.co/f/qb9l3Mycy6k/THE_HOUSE_%282017%29_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%AE%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%99.mp4
+#https://openload.co/f/Te1Oo96FmrY/The_House_%282017%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0_%E0%B9%80%E0%B8%AE%E0%B8%B2%E0%B8%AA%E0%B9%8C_%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29.mp4
 
 
 type=video
@@ -13749,8 +13809,9 @@ URL=https://verystream.com/stream/heNNQMcXBwU/Teen.Spirit.2018.1080p.BluRay.H264
 type=video
 name=Teen Spirit (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFPqJZ9vOcH7QroNxXV5wefX2qe.jpg
-date=2019-07-21
-URL=https://openload.co/f/w5TjkpsvWsk/TEEN_SPIRIT_%282018%29_%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%95.mp4
+date=2019-07-28
+URL=https://openload.co/f/q7-ePgSwp7Q/TEEN_SPIRIT_%282018%29_%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%95.mp4
+#https://openload.co/f/w5TjkpsvWsk/TEEN_SPIRIT_%282018%29_%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%95.mp4
 #https://openload.co/f/cPMyftwyWlg/TEEN_SPIRIT_%282018%29_%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%95.mp4
 #https://openload.co/f/c7ecC_wbv5c/TEEN_SPIRIT_%282018%29_%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%95.mp4
 
@@ -13789,6 +13850,7 @@ name=The Wedding Guest (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKQd8pWTK9zpibuc3CDwiYmtaB.jpg
 date=2019-07-21
 URL=https://openload.co/f/3RNmAjyPpjY/THE_WEDDING_GUEST_%282018%29_%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94.mp4
+#https://verystream.com/stream/imRFZ5qxWme/THE_WEDDING_GUEST_%282018%29_%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94.mp4
 
 
 type=video
@@ -16827,7 +16889,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-07-22
+date=2019-07-28
 URL=
 
 

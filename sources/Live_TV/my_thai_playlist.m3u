@@ -2525,34 +2525,7 @@ http://dlhls.live.cnlive.com:1935/cdn/zhonghuameishi/chunklist.m3u8
 #EXTINF:-1,China Food TV
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227024/index.m3u8
 
-#EXTINF:-1,CA: HGTV | UHD--------------------------
-http://thenew.tv:8000/uP4npDkbe/hbL03e2U8s/83062
-#EXTINF:-1,CA: COOKING CHANNEL | HD
-http://thenew.tv:8000/uP4npDkbe/hbL03e2U8s/5085
 
-#EXTINF:-1,E! Entertainment FHD (DE)
-http://iptv.iptivihd.com:8000/Sabin/Sabin/20677
-
-#EXTINF:-1,Da Vinci
-http://37.193.199.183:81/udp/239.1.5.6:1234
-#EXTINF:-1,Eureka HD
-http://37.193.199.183:81/udp/239.1.21.13:1234
-
-#EXTINF:-1,PL: BBC Earth HD
-http://thenew.tv:8000/uP4npDkbe/hbL03e2U8s/58757
-#EXTINF:-1,PL: Da Vinci Learning
-http://thenew.tv:8000/uP4npDkbe/hbL03e2U8s/58740
-#EXTINF:-1,PL: NAT GEO PEOPLE HD
-http://thenew.tv:8000/uP4npDkbe/hbL03e2U8s/58683
-
-#EXTINF:-1,Da Vinci learning
-http://5.9.11.205:2082/ch175/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,Travel+ Adventure HD
-http://5.9.11.205:2082/ch195/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,Fine Living
-http://5.9.11.205:2082/ch322/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,Viasat Explore HD
-http://5.9.11.205:2082/ch324/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
 
 
 #EXTINF:-1,CNBC--------------------------
@@ -2789,44 +2762,7 @@ http://185.35.4.37:8087/nuarthd/ch.m3u8
 
 
 
-#EXTINF:-1,NuArt HD--------------------------
-http://5.9.11.205:2082/ch392/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,Babes TV HD
-http://5.9.11.205:2082/ch393/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,Brazzers TV Europe
-http://5.9.11.205:2082/ch395/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,Private HD
-http://5.9.11.205:2082/ch396/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,Hustler HD
-http://5.9.11.205:2082/ch397/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,PassionXXX
-http://5.9.11.205:2082/ch399/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,Penthouse Gold HD
-http://5.9.11.205:2082/ch400/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,Penthouse Black
-http://5.9.11.205:2082/ch401/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,PINKoTV
-http://5.9.11.205:2082/ch402/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,Playboy TV
-http://5.9.11.205:2082/ch403/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,Redlight HD
-http://5.9.11.205:2082/ch404/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,Vivid Red HD
-http://5.9.11.205:2082/ch408/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,russian night
-http://5.9.11.205:2082/ch409/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,WAY HD
-http://5.9.11.205:2082/ch411/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,24kz
-http://5.9.11.205:2082/ch412/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,Almaty
-http://5.9.11.205:2082/ch413/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,KazakhTV
-http://5.9.11.205:2082/ch414/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,KTK
-http://5.9.11.205:2082/ch415/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
-#EXTINF:-1,OralTV
-http://5.9.11.205:2082/ch416/index.m3u8?token=b2JlfHxhMjl5WjNCaE9EQXc=
+
 
 
 
@@ -2999,6 +2935,8 @@ http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/6612
 http://f.ok2.se:8000/Z3UDJ3WG9u/tEqpOCWRci/6612
 #EXTINF:-1,JAV_ok2_test2
 http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6612
+#EXTINF:-1,JAV_ok2_test3
+http://ok2.se:8000/IssnOUCeh5/8D5bLk6pXD/6612
 
 
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_streamlock.net--------------------------
@@ -3126,10 +3064,7 @@ http://92.43.140.249/s65/04.m3u8
 http://14.207.7.84:8000/play/a03n
 
 
-#EXTINF:-1,CA: CNBC WORLD | HD
-http://thenew.tv:8000/uP4npDkbe/hbL03e2U8s/5092
-#EXTINF:-1,CA: FOX BUSINESS | HD
-http://thenew.tv:8000/uP4npDkbe/hbL03e2U8s/5050
+
 
 
 
