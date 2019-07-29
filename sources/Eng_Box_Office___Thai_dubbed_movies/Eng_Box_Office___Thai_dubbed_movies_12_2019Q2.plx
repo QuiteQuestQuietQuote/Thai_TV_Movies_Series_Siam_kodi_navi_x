@@ -82,10 +82,10 @@ date=2019-01-03
 URL=https://verystream.com/stream/3ufLdhz5eu3/Shazam.2019.1080p.BluRay_SeeHD.mp4
 
 type=video
-name=Captain Marvel 2019 1080p BluRay x264-YTS AM 
+name=
 thumb=
 date=2019-01-03
-URL=https://verystream.com/stream/WQDUUZgU32T/Captain_Marvel_2019_1080p_BluRay_x264-YTS_AM.mp4
+URL=
 
 
 
@@ -102,10 +102,10 @@ date=2019-01-03
 URL=https://vidoza.net/l7odg9c90lmb.html
 
 type=video
-name=uglydolls191080br.rar_test
+name=
 thumb=
 date=2019-06-28
-URL=https://openload.co/f/Uq-1wqT_fs0/uglydolls191080br.rar
+URL=
 
 
 
@@ -13364,16 +13364,7 @@ URL=https://openload.co/f/KtL9I2sJhw0/Kuntilanak_%282018%29%E0%B8%81%E0%B8%A3%E0
 
 
 
-type=video
-name=Monstrum (2018) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-58
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hleKFQ51VTt8GKnUNN0AvJD1wNe.jpg
-date=2019-02-06
-URL=https://openload.co/f/o2ZEKIdtMuw/Monstrum.2018.KOREAN.1080p.BluRay.H264.AAC-HDMovie8.mkv.mp4
-type=video
-name=Monstrum (2018) THCAM SOUND
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hleKFQ51VTt8GKnUNN0AvJD1wNe.jpg
-date=2018-11-04
-URL=https://openload.co/f/LqODIQc1TMU/Monstrum_%282018%29%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
 
 
 
@@ -13673,6 +13664,22 @@ URL=
 
 
 
+
+
+
+type=video
+name=Monstrum (2018) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hleKFQ51VTt8GKnUNN0AvJD1wNe.jpg
+date=2019-02-06
+URL=https://openload.co/f/o2ZEKIdtMuw/Monstrum.2018.KOREAN.1080p.BluRay.H264.AAC-HDMovie8.mkv.mp4
+type=video
+name=Monstrum (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hleKFQ51VTt8GKnUNN0AvJD1wNe.jpg
+date=2019-07-29
+URL=https://verystream.com/stream/KTYRByP8pg5/MONSTRUM_%282018%29_%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2.mp4
+#https://openload.co/f/LqODIQc1TMU/Monstrum_%282018%29%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
 type=video
 name=The Villainess (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-68
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lv8RPk7vDaJPCBMJUa6BdJq86n.jpg
@@ -13704,6 +13711,7 @@ name=Pet Sematary (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg
 date=2019-07-28
 URL=https://verystream.com/stream/86CZy4AdzXY/PET_SEMATARY_%282019%29_%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%8A%E0%B9%89%E0%B8%B2.mp4
+#https://verystream.com/stream/j8YwgayavUu/PET_SEMATARY_%282019%29_%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%8A%E0%B9%89%E0%B8%B2.mp4
 
 
 type=video

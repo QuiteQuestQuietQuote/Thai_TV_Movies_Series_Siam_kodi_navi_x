@@ -2482,7 +2482,9 @@ http://175.125.208.40:9981/stream/channelid/363486014
 #EXTINF:-1,BBC Earth_kor4
 http://182.231.145.96:9981/stream/channelid/448448880
 #EXTINF:-1,BBC Earth_kor5
-http://1.243.114.12:9981/stream/channelid/1989932553
+http://1.233.136.3:9981/stream/channelid/1242002460
+#EXTINF:-1,BBC Earth_kor6
+http://121.190.179.134:9981/stream/channelid/1989932553
 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_kor
 http://112.144.56.138:9981/stream/channelid/1904479554
@@ -2491,26 +2493,26 @@ http://123.249.76.157:10018/bysid/73
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD_trunk
 http://130.185.150.79:1935/trunk/BBC-EARTH/playlist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
-http://1.233.136.3:9981/stream/channelid/1242002460
+http://1.243.114.12:9981/stream/channelid/1989932553
 
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DaVinci Learning_PL
 http://188.26.25.141:8000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth (HD 4Mbps)--------------------------
-http://42.116.100.95:4022/udp/225.1.2.25:30120
+http://213.81.199.3:4022/udp/225.1.2.25:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT
-http://42.116.100.95:4022/udp/225.1.2.24:30120
+http://213.81.199.3:4022/udp/225.1.2.24:30120
 #EXTINF:-1 group-title="docu" tvg-logo="http://image.free.in.th/v/2013/io/180629043620.jpg",BBC Lifestyle_VN
-http://42.116.100.95:4022/udp/225.1.2.52:30120
+http://213.81.199.3:4022/udp/225.1.2.52:30120
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN
-http://42.116.100.95:4022/udp/225.1.1.197:30120
+http://213.81.199.3:4022/udp/225.1.1.197:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN
-http://42.116.100.95:4022/udp/225.1.1.198:30120
+http://213.81.199.3:4022/udp/225.1.1.198:30120
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_FPT
-http://42.116.100.95:4022/udp/225.1.2.253:30120
+http://213.81.199.3:4022/udp/225.1.2.253:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_SD_VN
-http://42.116.100.95:4022/udp/225.1.2.9:30120
+http://213.81.199.3:4022/udp/225.1.2.9:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_FPT
-http://42.116.100.95:4022/udp/225.1.2.98:30120
+http://213.81.199.3:4022/udp/225.1.2.98:30120
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
@@ -2526,117 +2528,131 @@ http://dlhls.live.cnlive.com:1935/cdn/zhonghuameishi/chunklist.m3u8
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227024/index.m3u8
 
 
+#EXTINF:-1,Spektrum HD--------------------------
+http://78.92.43.217:7522/upnp/channelstream/38
+#EXTINF:-1,BBC Earth HD
+http://78.92.43.217:7522/upnp/channelstream/39
+
+
+
+
+
+
+
 
 
 #EXTINF:-1,CNBC--------------------------
-http://42.116.100.95:4022/udp/225.1.1.227:30120
+http://213.81.199.3:4022/udp/225.1.1.227:30120
 #EXTINF:-1,BBC WORLD NEWS
-http://42.116.100.95:4022/udp/225.1.2.74:30120
+http://213.81.199.3:4022/udp/225.1.2.74:30120
 #EXTINF:-1,CNN
-http://42.116.100.95:4022/udp/225.1.1.242:30120
+http://213.81.199.3:4022/udp/225.1.1.242:30120
 #EXTINF:-1,Discovery Asia HD
-http://42.116.100.95:4022/udp/225.1.2.222:30120
+http://213.81.199.3:4022/udp/225.1.2.222:30120
 #EXTINF:-1,Discovery Asia HD
-http://42.116.100.95:4022/udp/225.1.2.223:30120
+http://213.81.199.3:4022/udp/225.1.2.223:30120
 #EXTINF:-1,Discovery Channel
-http://42.116.100.95:4022/udp/225.1.1.238:30120
+http://213.81.199.3:4022/udp/225.1.1.238:30120
 #EXTINF:-1,Disney Channel
-http://42.116.100.95:4022/udp/225.1.1.232:30120
+http://213.81.199.3:4022/udp/225.1.1.232:30120
 #EXTINF:-1,Disney Channel HD
-http://42.116.100.95:4022/udp/225.1.2.158:30120
+http://213.81.199.3:4022/udp/225.1.2.158:30120
 #EXTINF:-1,Disney Channel HD
-http://42.116.100.95:4022/udp/225.1.2.160:30120
+http://213.81.199.3:4022/udp/225.1.2.160:30120
 #EXTINF:-1,FOX MOVIES
-http://42.116.100.95:4022/udp/225.1.1.205:30120
+http://213.81.199.3:4022/udp/225.1.1.205:30120
 #EXTINF:-1,FOX MOVIES HD
-http://42.116.100.95:4022/udp/225.1.2.238:30120
+http://213.81.199.3:4022/udp/225.1.2.238:30120
 #EXTINF:-1,FOX MOVIES HD
-http://42.116.100.95:4022/udp/225.1.2.239:30120
+http://213.81.199.3:4022/udp/225.1.2.239:30120
 #EXTINF:-1,HBO SD
-http://42.116.100.95:4022/udp/225.1.1.48:30120
+http://213.81.199.3:4022/udp/225.1.1.48:30120
 #EXTINF:-1,HBO SD
-http://42.116.100.95:4022/udp/225.1.1.235:30120
+http://213.81.199.3:4022/udp/225.1.1.235:30120
 #EXTINF:-1,HBO HD
-http://42.116.100.95:4022/udp/225.1.2.232:30120
+http://213.81.199.3:4022/udp/225.1.2.232:30120
 #EXTINF:-1,HBO HD
-http://42.116.100.95:4022/udp/225.1.2.233:30120
+http://213.81.199.3:4022/udp/225.1.2.233:30120
 #EXTINF:-1,KIX HD
-http://42.116.100.95:4022/udp/225.1.2.144:30120
+http://213.81.199.3:4022/udp/225.1.2.144:30120
 #EXTINF:-1,KIX HD
-http://42.116.100.95:4022/udp/225.1.2.145:30120
+http://213.81.199.3:4022/udp/225.1.2.145:30120
 #EXTINF:-1,MAX BY HBO
-http://42.116.100.95:4022/udp/225.1.1.230:30120
+http://213.81.199.3:4022/udp/225.1.1.230:30120
 #EXTINF:-1,MAX BY HBO HD
-http://42.116.100.95:4022/udp/225.1.2.86:30120
+http://213.81.199.3:4022/udp/225.1.2.86:30120
 #EXTINF:-1,MAX BY HBO HD
-http://42.116.100.95:4022/udp/225.1.2.91:30120
+http://213.81.199.3:4022/udp/225.1.2.91:30120
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://42.116.100.95:4022/udp/225.1.1.244:30120
+http://213.81.199.3:4022/udp/225.1.1.244:30120
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://42.116.100.95:4022/udp/225.1.2.234:30120
+http://213.81.199.3:4022/udp/225.1.2.234:30120
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://42.116.100.95:4022/udp/225.1.2.235:30120
+http://213.81.199.3:4022/udp/225.1.2.235:30120
 #EXTINF:-1,OUTDOOR CHANNEL HD
-http://42.116.100.95:4022/udp/225.1.2.214:30120
+http://213.81.199.3:4022/udp/225.1.2.214:30120
 #EXTINF:-1,OUTDOOR CHANNEL HD
-http://42.116.100.95:4022/udp/225.1.2.215:30120
+http://213.81.199.3:4022/udp/225.1.2.215:30120
 #EXTINF:-1,RED BY HBO HD
-http://42.116.100.95:4022/udp/225.1.1.89:30120
+http://213.81.199.3:4022/udp/225.1.1.89:30120
 #EXTINF:-1,RED BY HBO HD
-http://42.116.100.95:4022/udp/225.1.1.93:30120
+http://213.81.199.3:4022/udp/225.1.1.93:30120
 #EXTINF:-1,TLC (HD 8Mbps)
-http://42.116.100.95:4022/udp/225.1.2.103:30120
+http://213.81.199.3:4022/udp/225.1.2.103:30120
 #EXTINF:-1,BLUE ANT ENTERTAINMENT (HD 4Mbps)
-http://42.116.100.95:4022/udp/225.1.1.175:30120
+http://213.81.199.3:4022/udp/225.1.1.175:30120
 #EXTINF:-1,BLUE ANT EXTREME (HD 4Mbps)
-http://42.116.100.95:4022/udp/225.1.1.176:30120
+http://213.81.199.3:4022/udp/225.1.1.176:30120
 #EXTINF:-1,Fashion 4K
-http://42.116.100.95:4022/udp/225.1.1.20:30120
+http://213.81.199.3:4022/udp/225.1.1.20:30120
 #EXTINF:-1,afc asian food channel (FPT Play)
-http://42.116.100.95:4022/udp/225.1.4.36:30120
+http://213.81.199.3:4022/udp/225.1.4.36:30120
 #EXTINF:-1,BBC Cbeebies (FPT Play)
-http://42.116.100.95:4022/udp/225.1.4.29:30120
+http://213.81.199.3:4022/udp/225.1.4.29:30120
 #EXTINF:-1,BBC earth (FPT Play)
-http://42.116.100.95:4022/udp/225.1.4.21:30120
+http://213.81.199.3:4022/udp/225.1.4.21:30120
 #EXTINF:-1,BBC lifestyle (FPT Play)
-http://42.116.100.95:4022/udp/225.1.4.23:30120
+http://213.81.199.3:4022/udp/225.1.4.23:30120
 #EXTINF:-1,BBC WORLD NEWS (FPT Play)
-http://42.116.100.95:4022/udp/225.1.4.22:30120
+http://213.81.199.3:4022/udp/225.1.4.22:30120
 #EXTINF:-1,Da Vinci/DIVA??? (FPT Play)
-http://42.116.100.95:4022/udp/225.1.4.38:30120
+http://213.81.199.3:4022/udp/225.1.4.38:30120
 #EXTINF:-1,DISCOVERY asia. (HD) (FPT Play)
-http://42.116.100.95:4022/udp/225.1.4.25:30120
+http://213.81.199.3:4022/udp/225.1.4.25:30120
 #EXTINF:-1,DISCOVERY CHANNEL (FPT Play)
-http://42.116.100.95:4022/udp/225.1.4.24:30120
+http://213.81.199.3:4022/udp/225.1.4.24:30120
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD (FPT Play)
-http://42.116.100.95:4022/udp/225.1.4.31:30120
+http://213.81.199.3:4022/udp/225.1.4.31:30120
 #EXTINF:-1,NHK WORLD JAPAN (HD) (FPT Play)
-http://42.116.100.95:4022/udp/225.1.4.73:30120
+http://213.81.199.3:4022/udp/225.1.4.73:30120
 #EXTINF:-1,Outdoor CHANNEL (FPT Play)
-http://42.116.100.95:4022/udp/225.1.4.37:30120
+http://213.81.199.3:4022/udp/225.1.4.37:30120
 
 
 
-#EXTINF:-1,ASIAN FOOD CHANNEL--------------------------
-http://113.184.58.134:4022/rtp/232.84.1.115:10236
-#EXTINF:-1,ASIAN FOOD CHANNEL HD
-http://113.184.58.134:4022/rtp/232.84.2.129:9570
-#EXTINF:-1,DA VINCI LEARNING HD
-http://113.184.58.134:4022/rtp/232.84.2.131:9582
+
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
+http://113.180.43.223:4022/rtp/232.84.2.129:9570
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
+http://113.180.43.223:4022/rtp/232.84.2.131:9582
+#EXTINF:-1,ASIAN FOOD CHANNEL
+http://113.180.43.223:4022/rtp/232.84.1.115:10236
 #EXTINF:-1,DISCOVERY ASIA
-http://113.184.58.134:4022/rtp/232.84.2.53:10528
+http://113.180.43.223:4022/rtp/232.84.2.53:10528
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://113.184.58.134:4022/rtp/232.84.1.65:8364
+http://113.180.43.223:4022/rtp/232.84.1.65:8364
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://113.184.58.134:4022/rtp/232.84.1.1:7980
+http://113.180.43.223:4022/rtp/232.84.1.1:7980
 #EXTINF:-1,NAT GEO PEOPLE
-http://113.184.58.134:4022/rtp/232.84.1.67:8376
+http://113.180.43.223:4022/rtp/232.84.1.67:8376
 #EXTINF:-1,NAT GEO PEOPLE HD
-http://113.184.58.134:4022/rtp/232.84.1.76:8430
+http://113.180.43.223:4022/rtp/232.84.1.76:8430
 #EXTINF:-1,Da Vinci Learning
-http://113.184.58.134:4022/rtp/232.84.1.108:10224
+http://113.180.43.223:4022/rtp/232.84.1.108:10224
 #EXTINF:-1,Nat Geo People
-http://113.184.58.134:4022/rtp/232.84.2.121:8376
+http://113.180.43.223:4022/rtp/232.84.2.121:8376
+#EXTINF:-1,DISNEY CHANNEL HD
+http://113.180.43.223:4022/rtp/232.84.2.143:10678
 
 
 #EXTINF:-1  tvg-logo="http://www.tv.bunjerd.com/static/image/tv_radio/tv/saradee.jpg",PSI_3bb--------------------------
@@ -2997,7 +3013,7 @@ http://23.111.128.190:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
 
 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",nuart tv_persik
-http://persik.tv/stream/9537/407964/10003.m3u8
+http://persik.by/stream/8098/408411/10003.m3u8
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart_178
 http://178.219.160.167:8080/Nuart/index.m3u8 
 
