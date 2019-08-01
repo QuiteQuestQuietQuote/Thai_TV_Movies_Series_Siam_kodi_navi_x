@@ -125,14 +125,7 @@ URL=
 
 
 
-type=video
-name=Avengers: Endgame (2019) ENG 1080p_HC_HDTS_H264_Ac3_SNAKE_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg
-date=2019-04-28
-URL=https://openload.co/f/M8LPue8nypo/Avengers_Endgame_2019_1080p_HC_HDTS_H264_Ac3_SNAKE_SeeHD.mkv.mp4
-#https://openload.co/f/6Oc9YmWI6aY/Avengers_Endgame_2019_720p_HQCAM_SeeHD.mkv.mp4
-#https://openload.co/f/76Er1OYVDG8/Avengers_Endgame_2019_NEW_720p_HDCAM-1XBET.mkv
-#https://openload.co/f/VP4CFstPzaQ/Avengers_Endgame_2019_English_720p_HC_CAM_x264_1.9GB.E.mp4
+
 
 
 
@@ -1257,7 +1250,26 @@ URL=
 
 
 
-
+type=video
+name=Avengers: Endgame (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-84
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg
+date=2019-08-01
+URL=https://verystream.com/stream/Zpbhmfc56Ln/Avengers_Endgame_2019_1080p_BluRay_AAC-RARBG.mkv.mp4
+#https://verystream.com/stream/cWzcw5McvfF/avengers.endgame.2019.1080p.bluray.x264-sparks%5BEtHD%5D.mp4
+#https://verystream.com/stream/WhGqW4wxZYP/avengers.endgame.2019.1080p.bluray.x264-sparks%5BEtHD%5D.mkv.mp4
+#https://verystream.com/stream/HktY3piRQFY/Avengers.Endgame.2019.1080p.BluRay.1800MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/QcL2Sf8VYsh/Avengers.Endgame.2019.1080p.BluRay.H264.AAC-MeowE.mp4
+#https://verystream.com/stream/5GXC29QbP8M/Avengers.Endgame.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/VGvhLLHkjDm/avengers_endgame_2019_720p_bluray_x264-sparks%5BEtHD%5D.mp4
+#https://verystream.com/stream/DuzogXyeynD/Avengers_Endgame_2019_1080p_BluRay_AAC-RARBG.mp4
+#https://verystream.com/stream/Zpbhmfc56Ln/Avengers_Endgame_2019_1080p_BluRay_AAC-RARBG.mkv.mp4
+#https://vidoza.net/nlegiqu0o6kc.html	Avengers Endgame 2019 1080p BluRay AAC-RARBG	1920x808
+#https://vidoza.net/zfyonar3epp3.html	avengers endgame 2019 1080p bluray x264-sparks[EtHD]	1712x720
+#https://vidoza.net/7tgkm3xpuvjm.html	avengers endgame 2019 720p bluray x264-sparks[EtHD]	1280x536
+#https://openload.co/f/M8LPue8nypo/Avengers_Endgame_2019_1080p_HC_HDTS_H264_Ac3_SNAKE_SeeHD.mkv.mp4
+#https://openload.co/f/6Oc9YmWI6aY/Avengers_Endgame_2019_720p_HQCAM_SeeHD.mkv.mp4
+#https://openload.co/f/76Er1OYVDG8/Avengers_Endgame_2019_NEW_720p_HDCAM-1XBET.mkv
+#https://openload.co/f/VP4CFstPzaQ/Avengers_Endgame_2019_English_720p_HC_CAM_x264_1.9GB.E.mp4
 
 type=video
 name=Fisherman’s Friends (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
