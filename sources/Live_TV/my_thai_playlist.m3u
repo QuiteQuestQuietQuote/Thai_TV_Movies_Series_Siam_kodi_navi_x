@@ -2675,16 +2675,15 @@ http://1.54.244.112:4022/udp/225.1.4.37:30120
 
 
 
-
-
-
-
-
-
 #EXTINF:-1  tvg-logo="http://www.tv.bunjerd.com/static/image/tv_radio/tv/saradee.jpg",PSI_3bb--------------------------
 http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcast73_psi_live1.stream/playlist.m3u8?username=FAmNzLBxvIBauswQfHxodyrgRUAbPQwk&password=ytPTI7P9L1S7PHg7DWXLRTRylvMYS2ve
 #EXTINF:-1, tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/27.jpg" tvg-name=“PSI SARADEE” , PSI SARADEE
 http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+
+
+#EXTINF:-1,PL: BBC Earth HD
+http://my-vip24.live:2008/Q6GAV8h49b/wHfly8g3kY/7870
+
 
 
 
@@ -2734,10 +2733,18 @@ http://210.210.155.35/session/46d5c1ea-0c90-11e9-8e7a-c81f66f89318/dr9445/h/h02/
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
 #EXTINF:-1,Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
-#EXTINF:-1,Anime All Day
-https://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=abcvf6f7c3skho4fkbj2demm10
 #EXTINF:-1,Anime
 https://5790d294af2dc.streamlock.net/8232/8232/playlist.m3u8
+#EXTINF:-1,Anime All Day_pluto.tv
+https://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=abcvf6f7c3skho4fkbj2demm10
+#EXTINF:-1,dramas_pluto.tv
+https://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,movies_pluto.tv
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+
+
+
 
 
 #EXTINF:-1,Movies_HHZT--------------------------
@@ -2815,6 +2822,8 @@ http://95.181.239.207:999/udp/239.191.254.250:15285
 
 #EXTINF:-1,RedLight--------------------------
 http://84.104.234.134:8001/1:0:1:4224:3DB8:13E:820000:0:0:0
+#EXTINF:-1,Brazzers_eu
+http://84.104.234.134:8001/1:0:1:1D25:2FA8:13E:820000:0:0:0:
 #EXTINF:-1,Penthouse_quickies
 http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,Penthouse_gold28
@@ -2865,6 +2874,8 @@ http://91.204.234.3:8000/play/a00p/index.m3u8
 http://91.194.72.46:10043/play/DorcelHD/index.m3u8
 #EXTINF:-1,WYN
 http://185.35.4.37:8087/shalun/ch.m3u8
+#EXTINF:-1,passionXXX_lesbian
+http://50.7.244.58:18126
 
 
 #EXTINF:-1,lesbian_rtmp--------------------------------------
@@ -3114,7 +3125,8 @@ https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,CNBC_th
 http://180.183.97.247:8000/play/a03n
 
-
+#EXTINF:-1,CNBC EUROPE
+http://46.75.36.145:9990/stream/channelid/147903286
 
 
 

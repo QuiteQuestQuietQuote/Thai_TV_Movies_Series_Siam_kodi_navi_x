@@ -1242,7 +1242,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-07-26
+date=2019-08-03
 URL=
 
 
@@ -1270,6 +1270,91 @@ URL=https://verystream.com/stream/Zpbhmfc56Ln/Avengers_Endgame_2019_1080p_BluRay
 #https://openload.co/f/6Oc9YmWI6aY/Avengers_Endgame_2019_720p_HQCAM_SeeHD.mkv.mp4
 #https://openload.co/f/76Er1OYVDG8/Avengers_Endgame_2019_NEW_720p_HDCAM-1XBET.mkv
 #https://openload.co/f/VP4CFstPzaQ/Avengers_Endgame_2019_English_720p_HC_CAM_x264_1.9GB.E.mp4
+
+type=video
+name=The Curse of Lilith Ratchet (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMsbISl5Mbqqxtadia7dqGcXJXW.jpg
+date=2019-08-03
+URL=https://verystream.com/stream/BKSWdip2NAv/the.curse.of.lilith.ratchet.2018.1080p.bluray.x264-getit.mkv.mp4
+#https://verystream.com/stream/fQWN5P1GCyT/The.Curse.Of.Lilith.Ratchet.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/4XGFWebFhMu/the_curse_of_lilith_ratchet_2018_1080p_bluray_x264-getit%5BEtHD%5D.mp4
+#https://verystream.com/stream/W8ewJBMcVu1/The_Curse_Of_Lilith_Ratchet_2018_Blu-ray_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/i2L1VDr6t8H/The.Curse.Of.Lilith.Ratchet.2018.1080p.BluRay.x264-YTS.LT.mp4
+#https://verystream.com/stream/F2Rn2F2iB1N/The.Curse.Of.Lilith.Ratchet.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/wODvlup5hIY/The.Curse.Of.Lilith.Ratchet.2018.1080p.BluRay_SeeHD.mp4
+#https://vidoza.net/wx3mku5h9jom.html	the curse of lilith ratchet 2018 1080p bluray x264-getit[EtHD]	1280x720
+#https://vidoza.net/rgaqcosey7zt.html	the curse of lilith ratchet 2018 1080p bluray x264-getit[EtHD]	1280x720
+#https://vidoza.net/91lowzakvt3w.html	The Curse Of Lilith Ratchet 2018 Blu-ray 1080p DTS-HDMA 5 1 HEVC-DDR[EtHD]	1280x720
+#https://vidoza.net/nugkcj8na6sy.html	The Curse Of Lilith Ratchet 2018 Blu-ray 1080p DTS-HDMA 5 1 HEVC-DDR[EtHD]	1280x720
+
+type=video
+name=Missing Link (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEkKHiiQRVUSX15Iwo8VFydXrtu.jpg
+date=2019-08-03
+URL=https://verystream.com/stream/Jaui7iMwC4i/Missing.Link.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://verystream.com/stream/ioofQXanitx/Missing.Link.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/cDG2HVU6cUQ/Missing.Link.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/Jaui7iMwC4i/Missing.Link.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://verystream.com/stream/15QBc12vNwd/Missing_Link_2019.Blu-ray.1080p.HEVC.Atmos.7.1-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/QHJxfTTv2XK/Missing_Link_2019.Blu-ray.1080p.HEVC.Atmos.7.1-DDR%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/riRwa1CsUH0/Missing_Link_2019_1080p_BluRay_x264-AAA%5BEtHD%5D.mp4.mp4
+#https://openload.co/f/VwryZ60G-Dk/Missing_Link_2019_1080p_BluRay_x264-AAA%5BEtHD%5D.mp4
+#https://vidoza.net/0hvz26k1s1rs.html	Missing Link 2019 Blu-ray 1080p HEVC Atmos 7 1-DDR[EtHD]	1728x720
+#https://vidoza.net/5fn363ohxqpl.html	Missing Link 2019 1080p BluRay x264-AAA[EtHD]	1728x720
+
+type=video
+name=The Return Of The Cup (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-DOC
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6r4FuFEuGtkML4qL3SibsO9CQg6.jpg
+date=2019-08-03
+URL=https://openload.co/f/WmiwlOn6cKg/Return_of_the_Cup_2019_1080p_BluRay_x264-UNVEiL%5BEtHD%5D.mp4
+#https://vidoza.net/aj6s1jggwtlr.html	Return of the Cup 2019 1080p BluRay x264-UNVEiL[EtHD]	1280x720
+#https://vidoza.net/ngioxegxasux.html	Return of the Cup 2019 1080p BluRay x264-UNVEiL[EtHD]	1280x720
+
+type=video
+name=Remi, Nobody's Boy (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-76
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQYXlxlUTmOP4FWt52qkZZb8JNM.jpg
+date=2019-08-03
+URL=https://openload.co/f/whiTjm4m_GQ/Remi_Sans_Famille_2018_MULTi_1080p_Blu-ray_HEVC_DTS-HDMA_5_1-DDR%5BEtHD%5D.mp4
+#https://openload.co/f/HjI9pIyb1dE/Remi_Sans_Famille_2018_MULTi_1080p_Blu-ray_HEVC_DTS-HDMA_5_1-DDR%5BEtHD%5D.mp4
+#https://openload.co/f/whiTjm4m_GQ/Remi_Sans_Famille_2018_MULTi_1080p_Blu-ray_HEVC_DTS-HDMA_5_1-DDR%5BEtHD%5D.mp4
+#https://vidoza.net/kpbaggpy9j2d.html	Remi Sans Famille 2018 MULTi 1080p Blu-ray HEVC DTS-HDMA 5 1-DDR[EtHD]	1728x720
+#https://vidoza.net/iwddsxf3ayth.html	Remi Sans Famille 2018 MULTi 1080p Blu-ray HEVC DTS-HDMA 5 1-DDR[EtHD]	1728x720
+
+type=video
+name=SGT. Will Gardner (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OSAh3Tw1FHzK8Pc6DUAUqSOerC.jpg
+date=2019-08-03
+URL=https://verystream.com/stream/X8qRPRXFQxH/SGT._Will_Gardner_2019.1080p.Blu-ray.DTS-HDMA.5.1.HEVC-DDR%5BEtHD%5D.mkv.mp4
+#https://verystream.com/stream/7UHrt9BVGM3/SGT.Will.Gardner.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/ADai1vuk4Ce/SGT._Will_Gardner_2019.1080p.Blu-ray.DTS-HDMA.5.1.HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/X8qRPRXFQxH/SGT._Will_Gardner_2019.1080p.Blu-ray.DTS-HDMA.5.1.HEVC-DDR%5BEtHD%5D.mkv.mp4
+#https://openload.co/f/AgPNCijy6EI/SGT_Will_Gardner_2019_1080p_BluRay_x264-CAPRiCORN%5BEtHD%5D.mp4.mp4
+#https://openload.co/f/4SerECrizzk/SGT_Will_Gardner_2019_1080p_BluRay_x264-CAPRiCORN%5BEtHD%5D.mp4
+#https://vidoza.net/tm9x6cn23gj3.html	SGT  Will Gardner 2019 1080p Blu-ray DTS-HDMA 5 1 HEVC-DDR[EtHD]	1728x720
+#https://vidoza.net/pjygmlx4pdiq.html	SGT  Will Gardner 2019 1080p Blu-ray DTS-HDMA 5 1 HEVC-DDR[EtHD]	1728x720
+#https://vidoza.net/cxncqwrabywn.html	SGT Will Gardner 2019 1080p BluRay x264-CAPRiCORN[EtHD]	1712x720
+#https://vidoza.net/40j3388e5zwe.html	SGT Will Gardner 2019 1080p BluRay x264-CAPRiCORN[EtHD]	1712x720
+
+type=video
+name=Fast Color (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zZaZGMo23NsOGoGF5HRCPWwWN7.jpg
+date=2019-08-03
+URL=https://verystream.com/stream/iAd8P4XnYiq/Fast.Color.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/cgJxBQb9ZUb/Fast_Color_2018_BluRay_1080p_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://openload.co/f/RxUBFYBKRD8/Fast_Color_2018_LIMITED_1080p_BluRay_x264-GECKOS%5BEtHD%5D.mp4
+#https://vidoza.net/n4s3xopdis3o.html	Fast Color 2018 BluRay 1080p DTS-HD MA 5 1 HEVC-DDR[EtHD]	1340x720
+#https://vidoza.net/jf5ycq1up7lc.html	Fast Color 2018 LIMITED 1080p BluRay x264-GECKOS[EtHD]	1328x720
+
+type=video
+name=A Dark Place (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-55
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNMFewMWsia2HdZJ1cyQH2C9v9t.jpg
+date=2019-08-03
+URL=https://verystream.com/stream/LpExBdSdrEi/A.Dark.Place.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://verystream.com/stream/ZiBeZHSHHXf/A.Dark.Place.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/AhSpv8PuctF/A.Dark.Place.2019.1080p.Bluray.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/LpExBdSdrEi/A.Dark.Place.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+#https://openload.co/f/HemJQrnVjj0/A_Dark_Place_2018_1080p_BluRay_X264-AMIABLE%5BEtHD%5D.mp4
+#https://vidoza.net/4l4mdcb54k4u.html	A Dark Place 2018 1080p BluRay X264-AMIABLE[EtHD]	1712x720
 
 type=video
 name=Fisherman’s Friends (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
@@ -13742,7 +13827,17 @@ type=video
 name=Pokémon Detective Pikachu (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgQ7APnFpf1TuviKHXeEe3KnsTV.jpg
 date=2019-07-28
-URL=
+URL=https://verystream.com/stream/8QoWZ92mj66/Pokemon.Detective.Pikachu.2019.1080p.BluRay.x264-AAA%5BEtHD%5D.mkv.mp4
+#https://verystream.com/stream/JkJ1xnQJZqh/Pokemon.Detective.Pikachu.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/eC9pSkJEBh5/Pokemon.Detective.Pikachu.2019.1080p.BluRay.x264-AAA%5BEtHD%5D.mp4
+#https://verystream.com/stream/8QoWZ92mj66/Pokemon.Detective.Pikachu.2019.1080p.BluRay.x264-AAA%5BEtHD%5D.mkv.mp4
+#https://verystream.com/stream/bJEM1Dt1vMg/Pokemon.Detective.Pikachu.2019.1080p.BluRay.x264-AAA.mkv.mp4
+#https://verystream.com/stream/TnPCrERTMvU/Pokemon_Detective_Pikachu_2019_MULTi_Blu-ray_1080p_Atmos_7_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://openload.co/f/ElgOvO7IC6s/Pokemon.Detective.Pikachu.2019.1080p.BluRay_SeeHD.mp4
+#https://vidoza.net/8hfcqosdlzox.html	Pokemon Detective Pikachu 2019 MULTi Blu-ray 1080p Atmos 7 1 HEVC-DDR[EtHD]	1728x720
+#https://vidoza.net/wkdr8wnfv26w.html	Pokemon Detective Pikachu 2019 MULTi Blu-ray 1080p Atmos 7 1 HEVC-DDR[EtHD]	1728x720
+#https://vidoza.net/jf0t2cxgyukh.html	Pokemon Detective Pikachu 2019 1080p BluRay x264-AAA[EtHD]	1712x720
+#https://vidoza.net/atvutwf4hhk9.html	Pokemon Detective Pikachu 2019 1080p BluRay x264-AAA[EtHD]	1712x720
 type=video
 name=Pokémon Detective Pikachu (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgQ7APnFpf1TuviKHXeEe3KnsTV.jpg
@@ -16909,7 +17004,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-07-28
+date=2019-08-03
 URL=
 
 
@@ -16919,11 +17014,59 @@ URL=
 
 
 
+type=video
+name=The Girl Next Door (2004) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWybRfPlUCKKOaYFSjY67pNhkxa.jpg
+date=2019-08-03
+URL=https://openload.co/f/v4Udy8l6F_c/The.Girl.Next.Door.2004.1080p.BluRay_SeeHD.mp4
 
+type=video
+name=Django Unchained (2012) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-80
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WJnxuw41sddupf8cwOxYftuvJG.jpg
+date=2019-08-03
+URL=https://openload.co/f/PDidNELI-wA/Django.Unchained.2012.1080p.BluRay_SeeHD.mp4
 
+type=video
+name=Inglourious Basterds (2009) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-81
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ai0LXkzVM3hMjDhvFdKMUemoBe.jpg
+date=2019-08-03
+URL=https://openload.co/f/x0LgJ6n8VQ8/Inglourious.Basterds.2009.1080p.BluRay_SeeHD.mp4
 
+type=video
+name=Death Proof (2007) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyQBcpxqS4im2akQlWG9Y1oeM2V.jpg
+date=2019-08-03
+URL=https://openload.co/f/BVN48THWuqw/Death.Proof.2007.1080p.BluRay_SeeHD.mp4
 
+type=video
+name=Kill Bill: Vol. 2 (2004) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-78
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg
+date=2019-08-03
+URL=https://openload.co/f/Xn9Q1UcVf9Y/Kill.Bill.Volume.2.2004.1080p.BluRay_SeeHD.mp4
 
+type=video
+name=Kill Bill: Vol. 1 (2003) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-79
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg
+date=2019-08-03
+URL=https://openload.co/f/83dqJp-CcR4/Kill.Bill.Volume.1.2003.1080p.BluRay_SeeHD.mp4
+
+type=video
+name=Jackie Brown (1997) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XVPYOdMAizdNMSwS0SK3fPJcvR.jpg
+date=2019-08-03
+URL=https://openload.co/f/l43sdLhU-7U/Jackie.Brown.1997.1080p.BluRay.H264.AAC-RARBG_SeeHD.mp4
+
+type=video
+name=Pulp Fiction (1994) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-84
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM2w364MScsjFf8pfMbaWUcWrR.jpg
+date=2019-08-03
+URL=https://openload.co/f/77VuZV0x5dM/Pulp.Fiction.1994.1080p.BluRay_SeeHD.mp4
+
+type=video
+name=Reservoir Dogs (1992) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-82
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jX94vnfcuJ8rTnFbsoriY6dlHrC.jpg
+date=2019-08-03
+URL=https://openload.co/f/P8wx56FL7f8/Reservoir.Dogs.1992.1080p.BluRay_SeeHD.mp4
 
 type=video
 name=Birth of the Dragon (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
