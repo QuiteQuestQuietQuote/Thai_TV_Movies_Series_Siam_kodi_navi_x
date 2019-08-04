@@ -2681,8 +2681,7 @@ http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcast73_psi_live1.stream/pl
 http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 
 
-#EXTINF:-1,PL: BBC Earth HD
-http://my-vip24.live:2008/Q6GAV8h49b/wHfly8g3kY/7870
+
 
 
 
@@ -2782,40 +2781,37 @@ http://84.104.234.134:8001/1:0:1:308:C94:3:EB0000:0:0:0:
 http://212.111.17.130:8001/4:1:3:307:C94:3:EB0000:0:0:0:
 
 #EXTINF:-1,HBO EAST HD – NEW--------------------------ok2.se:8000
-http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/371
+http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/371
 #EXTINF:-1,CINEMAX EAST HD – NEW
-http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/380
+http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/380
 #EXTINF:-1,SHOWTIME EAST HD (NEW)
-http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/11361
+http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/11361
+#EXTINF:-1,SHOWTIME BEYOND HD
+http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/11363
 #EXTINF:-1,SHOWTIME WOMEN HD (NEW)
-http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/11359
+http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/11359
+#EXTINF:-1,SHOWTIME EXTREME HD (NEW)
+http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/11358
 #EXTINF:-1,STARZ HD
-http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/374
+http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/374
 #EXTINF:-1,FLIX – NEW
-http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/59056
+http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/59056
 #EXTINF:-1, MOVIES PREMIERE
-http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/1733
+http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/1733
 
 
 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_78.29.1.66--------------------------
 http://78.29.1.66/live/nu_art/copy/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NUART TV HD
-http://95.85.90.118:8082/udp/239.191.254.250:15285
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_HD_test_telenet
-http://hls.telenet.lv:7878/nu_art_hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_HD_telenet
 http://hls.telenet.lv:7777/nu_art_hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_1080p
 http://193.111.244.23:7777/nu_art_hd/playlist.m3u8 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NUART_HD
 http://185.35.4.37:8087/nuarthd/ch.m3u8
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NUART TV HD_udp
+http://95.181.238.24:8082/udp/239.191.254.250:15285
 
-
-#EXTINF:0,XXX | Nuart TV (Live)
-http://s1.electru.biz:8080/Jorge/12345678/94041
-#EXTINF:-1,NUART TV HD
-http://95.181.239.207:999/udp/239.191.254.250:15285
 
 
 
@@ -2979,7 +2975,7 @@ http://59.120.242.104:9000/live/live7.m3u8
 http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3049003136-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1,JAV_ok2_mix--------------------------
-http://ok2.se:8000/5CXM99JKbr/6z8xNi0cdo/6612
+http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6612
 
 
 #EXTINF:-1,Ibiza_ok2_80
@@ -3125,8 +3121,7 @@ https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,CNBC_th
 http://180.183.97.247:8000/play/a03n
 
-#EXTINF:-1,CNBC EUROPE
-http://46.75.36.145:9990/stream/channelid/147903286
+
 
 
 
