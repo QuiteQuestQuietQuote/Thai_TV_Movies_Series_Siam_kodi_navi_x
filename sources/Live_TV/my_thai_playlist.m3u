@@ -2516,6 +2516,8 @@ http://61.216.10.122:4046/VideoInput/play.ts
 http://kodi:kodi@61.245.139.132:9981/stream/channelid/1590507445
 #EXTINF:-1,KLT
 http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1,China_chillie
+http://124.232.231.246:6610/000000001001/201500000120/index.m3u8?
 #EXTINF:-1,China Food TV_cnlive
 http://dlhls.live.cnlive.com:1935/cdn/zhonghuameishi/chunklist.m3u8
 #EXTINF:-1,China Food TV
@@ -2525,6 +2527,12 @@ http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
 #EXTINF:-1,DAVINCILEARNING (RO)_ok2.se
 http://ok2.se:8000/fSCu8i8OGd/JrZU2P55jw/77332
+#EXTINF:-1,VIASAT EXPLORER (RO)
+http://ok2.se:8000/KEDn42vYZg/aeLURH52oG/10231
+#EXTINF:-1,DISCOVERY (RO)
+http://ok2.se:8000/KEDn42vYZg/aeLURH52oG/77339
+#EXTINF:-1,DISCOVERY SCIENCE (RO)
+http://ok2.se:8000/KEDn42vYZg/aeLURH52oG/77338
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
@@ -2642,30 +2650,12 @@ http://118.71.234.114:4022/udp/225.1.4.73:30120
 #EXTINF:-1,Outdoor CHANNEL (FPT Play)
 http://118.71.234.114:4022/udp/225.1.4.37:30120
 
-#EXTINF:-1,24 Kitchen 4K--------------------------
-http://nettv-xcruiser.com:8000/MzWBpCdHer/vfZAGIim2P/60326
-#EXTINF:-1,Discovery Channel 4K.
-http://nettv-xcruiser.com:8000/MzWBpCdHer/vfZAGIim2P/60316
-#EXTINF:-1,Discovery Science 4K.
-http://nettv-xcruiser.com:8000/MzWBpCdHer/vfZAGIim2P/60315
-#EXTINF:-1,History 4K.
-http://nettv-xcruiser.com:8000/MzWBpCdHer/vfZAGIim2P/60322
-#EXTINF:-1,Horse & Country TV 4K
-http://nettv-xcruiser.com:8000/MzWBpCdHer/vfZAGIim2P/60323
-#EXTINF:-1,Love Nature 4K
-http://nettv-xcruiser.com:8000/MzWBpCdHer/vfZAGIim2P/60319
-#EXTINF:-1,National Geographic 4K.
-http://nettv-xcruiser.com:8000/MzWBpCdHer/vfZAGIim2P/60321
-#EXTINF:-1,Film Europe INT 4K
-http://nettv-xcruiser.com:8000/MzWBpCdHer/vfZAGIim2P/52284
-#EXTINF:-1,Film1 Action 4K
-http://nettv-xcruiser.com:8000/MzWBpCdHer/vfZAGIim2P/52282
-#EXTINF:-1,Film1 Drama 4K
-http://nettv-xcruiser.com:8000/MzWBpCdHer/vfZAGIim2P/52281
-#EXTINF:-1,Film1 Family 4K
-http://nettv-xcruiser.com:8000/MzWBpCdHer/vfZAGIim2P/52280
-#EXTINF:-1,Film1 Premiere 4K
-http://nettv-xcruiser.com:8000/MzWBpCdHer/vfZAGIim2P/52283
+#EXTINF:-1,4K Fashion One--------------------------
+http://81.28.160.9/iptv/11862/201/jTw9YQSafbMK3UAu
+#EXTINF:-1,4K Festival
+http://81.28.160.9/iptv/11862/203/jTw9YQSafbMK3UAu
+#EXTINF:-1,4K HOME
+http://81.28.160.9/iptv/11862/202/jTw9YQSafbMK3UAu
 
 
 
@@ -2776,7 +2766,7 @@ http://84.104.234.134:8001/1:0:1:308:C94:3:EB0000:0:0:0:
 #EXTINF:-1,HBO
 http://212.111.17.130:8001/4:1:3:307:C94:3:EB0000:0:0:0:
 
-#EXTINF:-1,HBO EAST HD – NEW--------------------------ok2.se:8000
+#EXTINF:-1,HBO EAST HD – NEW--------------------------ok2.se:80
 http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/371
 #EXTINF:-1,CINEMAX EAST HD – NEW
 http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/380
@@ -2795,80 +2785,32 @@ http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/59056
 #EXTINF:-1, MOVIES PREMIERE
 http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/1733
 
+#EXTINF:-1,FLIX – NEW_test
+http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/59056
 
-#EXTINF:-1,US: CINEMAX ACTION | UHD--------------------------
-http://ppvplug.net:8000/bonney/bonney/101263
-#EXTINF:-1,US: CINEMAX EAST | UHD
-http://ppvplug.net:8000/bonney/bonney/101262
-#EXTINF:-1,US: CINEMAX MOREMAX | UHD
-http://ppvplug.net:8000/bonney/bonney/101261
-#EXTINF:-1,US: CINEMAX OUTERMAX | UHD
-http://ppvplug.net:8000/bonney/bonney/101260
-#EXTINF:-1,US: COOKING CHANNEL | UHD
-http://ppvplug.net:8000/bonney/bonney/101252
-#EXTINF:-1,US: DISCOVERY SCIENCE | UHD
-http://ppvplug.net:8000/bonney/bonney/101325
-#EXTINF:-1,US: DISNEY CHANNEL | UHD
-http://ppvplug.net:8000/bonney/bonney/101323
-#EXTINF:-1,US: HBO 2 | UHD
-http://ppvplug.net:8000/bonney/bonney/101354
-#EXTINF:-1,US: HBO FAMILY | UHD
-http://ppvplug.net:8000/bonney/bonney/101352
-#EXTINF:-1,US: HBO SIGNATURE (West) | UHD
-http://ppvplug.net:8000/bonney/bonney/101351
-#EXTINF:-1,US: HBO ZONE | UHD
-http://ppvplug.net:8000/bonney/bonney/101349
-#EXTINF:-1,US: HDNET MOVIES | UHD
-http://ppvplug.net:8000/bonney/bonney/101348
-#EXTINF:-1,US: NAT GEO | UHD
-http://ppvplug.net:8000/bonney/bonney/101340
-#EXTINF:-1,US: STARZ EDGE | UHD
-http://ppvplug.net:8000/bonney/bonney/101397
-#EXTINF:-1,US: STARZ KIDS & FAMILY | UHD
-http://ppvplug.net:8000/bonney/bonney/101394
-#EXTINF:-1,US: STARZ SUSPENSE | UHD
-http://ppvplug.net:8000/bonney/bonney/101393
 
-#EXTINF:-1,USA: FYI UHD--------------------------
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23819
-#EXTINF:-1,USA: HBO East UHD
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23809
-#EXTINF:-1,USA: HBO SIGNATURE UHD
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23801
-#EXTINF:-1,USA: HBO ZONE UHD
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23807
-#EXTINF:-1,USA: NICKELODEON UHD
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23693
-#EXTINF:-1,USA: PARAMOUNT NETWORK UHD
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23676
-#EXTINF:-1,USA: SHOWTIME 2 UHD
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23661
-#EXTINF:-1,USA: SHOWTIME EAST (back up) UHD
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23660
-#EXTINF:-1,USA: SHOWTIME FAMILY ZONE UHD
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23659
-#EXTINF:-1,USA: SHOWTIME SHOWCASE UHD
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23658
-#EXTINF:-1,USA: SHOWTIME UHD
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23657
-#EXTINF:-1,USA: SMITHSONIAN CHANNEL UHD
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23652
-#EXTINF:-1,USA: STARZ CINEMA UHD
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23651
-#EXTINF:-1,USA: STARZ COMEDY UHD
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23650
-#EXTINF:-1,USA: STARZ EDGE UHD
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23649
-#EXTINF:-1,USA: STARZ ENCORE UHD
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23647
-#EXTINF:-1,USA: STARZ KIDS & FAMILY UHD
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23648
-#EXTINF:-1,USA: SUN DANCE TV UHD
-http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/23643
+#EXTINF:-1, MOVIES DISNEY
+http://ok2.se:8000/uQxjtGiYdz/p5IVk4Ngpx/1743
+#EXTINF:-1, MOVIES PREMIERE
+http://ok2.se:8000/uQxjtGiYdz/p5IVk4Ngpx/1733
+#EXTINF:-1, HISTORY
+http://ok2.se:8000/uQxjtGiYdz/p5IVk4Ngpx/1758
+#EXTINF:-1, H2
+http://ok2.se:8000/uQxjtGiYdz/p5IVk4Ngpx/1754
+#EXTINF:-1, DISCOVERY SCIENCE
+http://ok2.se:8000/uQxjtGiYdz/p5IVk4Ngpx/1766
+#EXTINF:-1, DISCOVERY HISTORY
+http://ok2.se:8000/uQxjtGiYdz/p5IVk4Ngpx/1765
+#EXTINF:-1, DISCOVERY
+http://ok2.se:8000/uQxjtGiYdz/p5IVk4Ngpx/1764
+#EXTINF:-1,SCIENCE&VIE (FR)
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/5904
 
 
 
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_78.29.1.66--------------------------
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_46.32.68.167/s--------------------------
+http://46.32.68.167/s/live/711/86.169.51.136/1/0.m3u8
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_78.29.1.66
 http://78.29.1.66/live/nu_art/copy/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_HD_telenet
 http://hls.telenet.lv:7777/nu_art_hd/playlist.m3u8
@@ -2876,14 +2818,12 @@ http://hls.telenet.lv:7777/nu_art_hd/playlist.m3u8
 http://193.111.244.23:7777/nu_art_hd/playlist.m3u8 
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NUART_HD
 http://185.35.4.37:8087/nuarthd/ch.m3u8
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NUART TV HD_udp
-http://95.181.238.24:8082/udp/239.191.254.250:15285
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp193   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-http://193.233.186.76:81/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_play/a00l
 http://86.57.182.131:8905/play/a00l
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_play/a00l_test
-http://185.205.108.58:8000/play/a00l
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NUART TV HD_udp   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+http://95.181.238.24:8082/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp193
+http://193.233.186.76:81/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp92
 http://92.42.14.217:4022/udp/233.1.1.251:1234 
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp
@@ -2942,6 +2882,14 @@ http://185.205.108.58:8000/play/a02h
 http://185.205.108.58:8000/play/a03p
 #EXTINF:-1,venus
 http://185.205.108.58:8000/play/a011
+#EXTINF:-1,4k
+http://5.254.66.68:8880/3oUmRgi1CJ/DwhWHTHiM3/28309--------------------------
+#EXTINF:-1,FilmaX_1
+http://5.254.66.68:8880/3oUmRgi1CJ/DwhWHTHiM3/28299
+#EXTINF:-1,playboy_R
+http://5.254.66.68:8880/3oUmRgi1CJ/DwhWHTHiM3/29736
+#EXTINF:-1,JAV
+http://5.254.66.68:8880/3oUmRgi1CJ/DwhWHTHiM3/28294
 #EXTINF:-1,blue hustler--------------------------
 http://3e6cdf85.iptvbot.biz/iptv/3PTSM5QVK6GK6L/1064/index.m3u8
 #EXTINF:-1,frenchlover
@@ -2952,8 +2900,7 @@ http://91.204.234.3:8000/play/a00p/index.m3u8
 http://91.194.72.46:10043/play/DorcelHD/index.m3u8
 #EXTINF:-1,WYN
 http://185.35.4.37:8087/shalun/ch.m3u8
-#EXTINF:-1,passionXXX_lesbian
-http://50.7.244.58:18126
+
 
 
 #EXTINF:-1,lesbian_rtmp--------------------------------------
@@ -2991,7 +2938,68 @@ http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1,redtraffic_cuckold
 http://live.redtraffic.xyz/cuckold.m3u8
 
-
+#EXTINF:-1,PLAYBOY TV (NA)-----------------------------ok2.se:8000
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/300
+#EXTINF:-1,HUSTLER HD
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/302
+#EXTINF:-1,X ART
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/10658
+#EXTINF:-1,NAUGHTY AMERICA
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/10657
+#EXTINF:-1,BRAZZERS
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/10656
+#EXTINF:-1,BRAZZERS LIVE
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/10660
+#EXTINF:-1,TEN – NEW
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/9165
+#EXTINF:-1,XTSY – (NEW)
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/9164
+#EXTINF:-1,TINY4K
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/8889
+#EXTINF:-1,EVIL ANGEL 1
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/10659
+#EXTINF:-1,BANG BROS
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/8783
+#EXTINF:-1,IPZ
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6610
+#EXTINF:-1,JAP AV 1
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/72393
+#EXTINF:-1,JAP AV 2
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/72394
+#EXTINF:-1,JAP AV 3
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/72395
+#EXTINF:-1,JAV 1 UNCENSORED
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6612
+#EXTINF:-1,JAV 2 UNCENSORED
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6613
+#EXTINF:-1,JAV 3 UNCENSORED
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6614
+#EXTINF:-1,TOKYO HOT
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6572
+#EXTINF:-1,WANZ
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6611
+#EXTINF:-1,TUSHY
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6615
+#EXTINF:-1,LEGAL PORNO
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6573
+#EXTINF:-1,PENTHOUSE
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/71118
+#EXTINF:-1,1 HD XXX
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6697
+#EXTINF:-1,2 HD XXX
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6696
+#EXTINF:-1,3 HD XXX
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6695
+#EXTINF:-1,4 HD XXX
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6694
+#EXTINF:-1,6 HD XXX
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6692
+#EXTINF:-1,5 HD XXX
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6693
+#EXTINF:-1,7 HD XXX
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6687
+#EXTINF:-1,8 HD XXX
+http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6686
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey) TV-------------------------
 http://122.38.74.172:9981/stream/channelid/1463854277
@@ -3064,8 +3072,7 @@ http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6612
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/72394
 #EXTINF:-1,JAV_ok2_80
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/6612
-#EXTINF:-1,JAV_ok2_80.2
-http://ok2.se:80/IssnOUCeh5/8D5bLk6pXD/6612
+
 
 
 #EXTINF:-1,JAV_ok2_test1
@@ -3205,22 +3212,13 @@ https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,CNBC_th
 http://180.183.97.247:8000/play/a03n
 
-#EXTINF:-1,US: FOX BUSINESS HD
-http://zionx.eu:8080/cZesF3ifig/mUJHwJlT3Y/666
-#EXTINF:-1,US: CNBC HD
-http://zionx.eu:8080/cZesF3ifig/mUJHwJlT3Y/687
-#EXTINF:-1,US: CNBC WORLD HD
-http://zionx.eu:8080/cZesF3ifig/mUJHwJlT3Y/686
+#EXTINF:-1,CNBC HD_ok2.se:80
+http://ok2.se:80/r8KMCKGTik/xelMmJC7tz//364
 
-#EXTINF:-1,US: CNBC | HD
-http://ppvplug.net:8000/bonney/bonney/101257
-#EXTINF:-1,US: CNBC WORLD | HD
-http://ppvplug.net:8000/bonney/bonney/101256
-
-#EXTINF:-1,US: CNBC | HD
-http://ppvplug.net:8000/dips/dips/101257
-#EXTINF:-1,US: CNBC WORLD | HD
-http://ppvplug.net:8000/dips/dips/101256
+#EXTINF:-1,CNBC HD
+http://ok2.se:8000/SsYvMa8iWB/G2jidW40KD/364
+#EXTINF:-1,FOX NEWS BUSINESS
+http://ok2.se:8000/SsYvMa8iWB/G2jidW40KD/4600
 
 
 
