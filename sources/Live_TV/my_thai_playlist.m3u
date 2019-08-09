@@ -2356,7 +2356,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
 http://4f9cc916.ottv.info/iptv/G4FZPPQUWQ68DR/136/index.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
 http://125.227.210.37:8896/VideoInput/play.ts
-#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Da Vinci_HDsession
+#EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Style_HDsession
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/01.m3u8
 
 
@@ -2536,6 +2536,8 @@ http://118.71.234.114:4022/udp/225.1.2.9:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_FPT
 http://118.71.234.114:4022/udp/225.1.2.98:30120
 
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se
+http://ok2.se:8000/fSCu8i8OGd/JrZU2P55jw/77332
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_rtmp
 rtmp://118.97.96.17:1935/discover/afc_3
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
@@ -2555,8 +2557,7 @@ http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227024/index.m3u8
 #EXTINF:-1,Knowledge Network
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
-#EXTINF:-1,DAVINCILEARNING (RO)_ok2.se
-http://ok2.se:8000/fSCu8i8OGd/JrZU2P55jw/77332
+
 #EXTINF:-1,DAVINCILEARNING (RO)_ok2.se:80
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/77332
 #EXTINF:-1,VIASAT EXPLORER (RO)
@@ -2685,18 +2686,8 @@ http://118.71.234.114:4022/udp/225.1.4.37:30120
 
 
 
-#EXTINF:-1,ID: National Geographic People--------------------------iptv-line
-http://iptv-line.com:6969/bongawan2/bongawan/46495
-#EXTINF:-1,MY: NAT GEO PEOPLE HD
-http://iptv-line.com:6969/bongawan2/bongawan/32224
-#EXTINF:-1,MY: NAT GEO ASIA HD
-http://iptv-line.com:6969/bongawan2/bongawan/32225
-#EXTINF:-1,MY: ASIAN FOOD CHANNEL
-http://iptv-line.com:6969/bongawan2/bongawan/31497
-#EXTINF:-1,MY: BBC EARTH HD
-http://iptv-line.com:6969/bongawan2/bongawan/32257
-#EXTINF:-1,MY: BBC LIFESTYLE
-http://iptv-line.com:6969/bongawan2/bongawan/32256
+#EXTINF:-1,PL:-GS BBC EARTH--------------------------
+http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/79384
 
 
 
@@ -2795,7 +2786,6 @@ http://103.205.133.44:1935/ns/WARNERBROS/playlist.m3u8
 http://95.170.215.118/hls/m3u8/FOX-ACTION-PP-SS-A.m3u8
 
 
-
 #EXTINF:-1,CineMax--------------------------
 http://212.111.17.130:8001/1:0:1:30a:C94:3:EB0000:0:0:0:
 #EXTINF:-1,FilmBox_Plus
@@ -2804,6 +2794,7 @@ http://84.104.234.134:8001/1:0:19:52E3:C96:3:EB0000:0:0:0:
 http://84.104.234.134:8001/1:0:1:308:C94:3:EB0000:0:0:0:
 #EXTINF:-1,HBO
 http://212.111.17.130:8001/4:1:3:307:C94:3:EB0000:0:0:0:
+
 
 #EXTINF:-1,HBO EAST HD – NEW--------------------------ok2.se:80
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/371
@@ -2830,7 +2821,6 @@ http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/10039
 #EXTINF:-1,MOVIE TIME HD
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/369
 
-
 #EXTINF:-1, HISTORY
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/1758
 #EXTINF:-1, H2
@@ -2841,7 +2831,6 @@ http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/1766
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/1765
 #EXTINF:-1, DISCOVERY
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/1764
-
 #EXTINF:-1,DIY HD
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/329
 #EXTINF:-1,FYI HD
@@ -2852,6 +2841,7 @@ http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/6108
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/333
 #EXTINF:-1,HGTV HD
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/335
+
 
 #EXTINF:-1,NET GEO_TV3198--------------------------
 http://178.132.6.61:8082/TV3198
@@ -2872,8 +2862,7 @@ http://178.132.6.61:8082/TV3216
 #EXTINF:-1,HISTORY
 http://178.132.6.61:8082/TV3136
 
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_test711
-http://46.32.68.167/s/live/711/100.0.0.5/1/0.m3u8
+
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_46.32.68.167/s--------------------------
 http://46.32.68.167/s/live/711/86.169.51.136/1/0.m3u8
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_78.29.1.66
@@ -2894,8 +2883,7 @@ http://193.233.186.76:81/udp/239.191.254.250:15285
 http://92.42.14.217:4022/udp/233.1.1.251:1234 
 #EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp
 http://178.159.87.252:81/udp/239.195.6.33:1234
-#EXTINF:-1,NuArt_channelid
-http://115.127.86.3:9981/stream/channelid/1664999476
+
 
 
 
@@ -3093,6 +3081,7 @@ http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6687
 #EXTINF:-1,8 HD XXX
 http://ok2.se:8000/FlwI2bsuEG/p2dEDsvAnc/6686
 
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey) TV-------------------------
 http://122.38.74.172:9981/stream/channelid/1463854277
 #EXTINF:-1,VIKI
@@ -3111,7 +3100,6 @@ http://112.148.183.161:9981/stream/channelid/96001658
 http://122.38.74.172:9981/stream/channelid/798964177 
 #EXTINF:-1,Desire
 http://122.38.74.172:9981/stream/channelid/816085039 
-
 #EXTINF:-1,Playboy TV_earth
 http://1.243.114.12:9981/stream/channelid/1175597243
 
@@ -3164,9 +3152,9 @@ http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/72394
 #EXTINF:-1,JAV_ok2_80
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/6612
 #EXTINF:-1,JAV_ok2_mix6613
-http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/6613
+http://ok2.se:8000/1xOJoRUzmE/EPBNrDXKOW/6613
 #EXTINF:-1,JAV_ok2_mix6614
-http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/6614
+http://ok2.se:8000/1xOJoRUzmE/EPBNrDXKOW/6614
 
 
 #EXTINF:-1,JAV_ok2_test1
@@ -3186,11 +3174,9 @@ https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream2/playlist.m3u8
 
-
-
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_dvr1
 https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
-#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2dvr2
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_dvr2
 https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
 #EXTINF:-1,Ibiza TV1_119--------------------------
 http://119.81.168.227:1935/lfh/Stream1/playlist.m3u8
@@ -3294,8 +3280,8 @@ https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News + info
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_newschat_hd
-http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_livenewschat
+https://budgie.cdn.livenewschat.eu/hls/cnbc_live/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_world
 http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC
@@ -3315,10 +3301,15 @@ http://ok2.se:80/r8KMCKGTik/xelMmJC7tz//364
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/4600
 
 
-#EXTINF:-1,UK CNBC EU
-http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/11266.m3u8
-#EXTINF:-1,CAN: CNBC
-http://ultraiptv.online:80/live/MAuenbAzna/nS4YgLfhmN/9876.m3u8
+#EXTINF:-1,US: CNBC | HD
+http://ppvplug.net:8000/hodge/hodge/101257
+#EXTINF:-1,US: CNBC WORLD | HD
+http://ppvplug.net:8000/hodge/hodge/101256
+
+#EXTINF:-1,US: CNBC | HD
+http://ppvplug.net:8000/aki/aki/101257
+#EXTINF:-1,US: CNBC WORLD | HD
+http://ppvplug.net:8000/aki/aki/101256
 
 
 
