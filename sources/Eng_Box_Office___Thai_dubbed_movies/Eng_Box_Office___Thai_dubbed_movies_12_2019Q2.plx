@@ -76,10 +76,10 @@ URL=http://188.26.25.141:8000/play/a00c/index.m3u8
 
 
 type=video
-name=Shazam.2019.1080p.BluRay_SeeHD
-thumb=https://i.postimg.cc/Gh2xXP48/1.jpg
+name=
+thumb=
 date=2019-01-03
-URL=https://verystream.com/stream/3ufLdhz5eu3/Shazam.2019.1080p.BluRay_SeeHD.mp4
+URL=
 
 type=video
 name=
@@ -96,10 +96,10 @@ date=2019-07-08
 URL=
 
 type=video
-name=Shazam 2019 1080p BluRay AAC-RARBG 
+name=
 thumb=
 date=2019-01-03
-URL=https://vidoza.net/l7odg9c90lmb.html
+URL=
 
 type=video
 name=
@@ -141,11 +141,7 @@ URL=
 
 
 
-type=video
-name=Run the Race (2019) ENG 720p_HDCAM-1XBET_SeeHD
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPBbT6mqXNZCtAikX67bxUUHaOg.jpg
-date=2019-02-28
-URL=https://openload.co/f/XKD8bVYz0EQ/Run_the_Race_2019_720p_HDCAM-1XBET_SeeHD.mp4
+
 
 
 
@@ -1242,13 +1238,130 @@ URL=
 type=video
 name=
 thumb=
-date=2019-08-03
+date=2019-08-10
 URL=
 
 
 
 
 
+
+
+
+
+
+
+type=video
+name=Critters Attack! (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-39
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQJQNElDQqQ3iXf46pyMmhReoyp.jpg
+date=2019-08-10
+URL=https://verystream.com/stream/N7r2jAZq2DH/Critters.Attack.2019.1080p.Bluray.DTS-HD.MA.5.1.x264-EVO.mp4
+#https://verystream.com/stream/eBriNHSXSsS/Critters.Attack.2019.1080p.Bluray.DTS-HD.MA.5.1.x264-EVO.mp4
+#https://verystream.com/stream/PynvaWUifqQ/Critters.Attack.2019.1080p.Bluray.DTS-HD.MA.5.1.x264-EVO.mkv.mp4
+#https://verystream.com/stream/fjupT8Bprnr/Critters.Attack.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/N7r2jAZq2DH/Critters.Attack.2019.1080p.Bluray.DTS-HD.MA.5.1.x264-EVO.mp4
+#https://verystream.com/stream/cAFSrRQKZ87/Critters_Attack_2019_1080p_BluRay_DTS-HD_MA_5_1-HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/QaAYS7EvY3V/Critters.Attack.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Ash Is Purest White (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRR1PQsPMQZkyf2Z8nnljX6BAok.jpg
+date=2019-08-10
+URL=https://verystream.com/stream/2NZAHAu3KfX/ash.is.purest.white.2018.limited.1080p.bluray.x264-cadaver%5BEtHD%5D.mkv.mp4
+#https://verystream.com/stream/PdYWbHrUVDH/ash.is.purest.white.2018.limited.1080p.bluray.x264-cadaver%5BEtHD%5D.mp4
+#https://verystream.com/stream/2NZAHAu3KfX/ash.is.purest.white.2018.limited.1080p.bluray.x264-cadaver%5BEtHD%5D.mkv.mp4
+
+type=video
+name=Run the Race (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-77
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1myP5YdjENipbKZYbONxZwPN8KK.jpg
+date=2019-08-10
+URL=https://verystream.com/stream/h19T43oEazQ/Run.the.Race.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/gSVKkxZaQn3/Run.the.Race.2018.1080p.BluRay.X264-AMIABLE%5BEtHD%5D.mp4
+#https://verystream.com/stream/T7LwhG8xWHu/Run.the.Race.2018.1080p.BluRay.X264-AMIABLE%5BEtHD%5D.mkv.mp4
+#https://verystream.com/stream/h19T43oEazQ/Run.the.Race.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/XKD8bVYz0EQ/Run_the_Race_2019_720p_HDCAM-1XBET_SeeHD.mp4
+
+type=video
+name=Bittersweet Symphony (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-40
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pSxlcWwweNprAHX8neTB7QcHOy.jpg
+date=2019-08-10
+URL=https://verystream.com/stream/2uj7VHrcjwP/Bittersweet.Symphony.2019.1080p.BluRay.DTS-HD.MA.5.1.HEVC-DDR%5BEtHD%5D.mkv.mp4
+#https://verystream.com/stream/hcG56X3dufK/Bittersweet.Symphony.2019.1080p.BluRay.DTS-HD.MA.5.1.HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/2uj7VHrcjwP/Bittersweet.Symphony.2019.1080p.BluRay.DTS-HD.MA.5.1.HEVC-DDR%5BEtHD%5D.mkv.mp4
+
+type=video
+name=Blood Child (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-45
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdu5TOIg8gRaH6KbhV1Qk38t496.jpg
+date=2019-08-10
+URL=https://verystream.com/stream/QmjFHRJu8o9/Blood.Child.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=D-Day (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDfg34RhJZ5HP70ynf2kA8O2ayo.jpg
+date=2019-08-10
+URL=https://verystream.com/stream/LMBLG9sDBBe/D-Day.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/F6Xj3qyAwZk/d-day.2019.1080p.bluray.x264-spooks%5BEtHD%5D.mp4
+#https://verystream.com/stream/LMBLG9sDBBe/D-Day.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Circus Kane (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-38
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSAJBZ1Q5k2LnP1p4oWJy16UrRr.jpg
+date=2019-08-10
+URL=https://verystream.com/stream/DYRBqZAS9XQ/Circus.Kane.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=J.T. LeRoy (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/43ffZhMCWQhzMneGP4kDWoPV48X.jpg
+date=2019-08-10
+URL=https://verystream.com/stream/QHrHvcb3ZAu/JT.LeRoy.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/BXaTFkXXa9E/Jeremy_Terminator_LeRoy_2018_1080p_BluRay_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/b28XrGhFnko/jt.leory.2018.1080p.bluray.x264-bipolar%5BEtHD%5D.mp4
+#https://verystream.com/stream/Br8PfEGdFEh/jt.leory.2018.1080p.bluray.x264-bipolar%5BEtHD%5D.mkv.mp4
+
+type=video
+name=Arsenal (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-46
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tkmf3MrA3SKoBnVeBJsqXuLJ9a.jpg
+date=2019-08-10
+URL=https://verystream.com/stream/6mZfHc9SZdK/Arsenal.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Pilgrimage (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lR5ilnIzIonItxL5mQPAPzXpwPJ.jpg
+date=2019-08-10
+URL=https://verystream.com/stream/TpiZZqZGnEf/Pilgrimage.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Pulled to Hell (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-37
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGgf0pFUqfiqVbp1hezrl7uLayP.jpg
+date=2019-08-10
+URL=https://verystream.com/stream/UWUsfoHJSjd/Pulled.to.Hell.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Sheep & Wolves: Pig Deal (2019) [COLOR=FF00FF00]RUS BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7f8jHeJGESaCib6gyP1nS6x9ck.jpg
+date=2019-08-10
+URL=https://verystream.com/stream/ibs4CdB4pkn/Sheep.and.Wolves.2.The.Pig.Deal.2019.DUBBED.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/UadddJo6sUf/Sheep.and.Wolves.2.Pig.Deal.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/ibs4CdB4pkn/Sheep.and.Wolves.2.The.Pig.Deal.2019.DUBBED.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/Ro2UULk1Nkx/Sheep_and_Wolves_2_-_The_Pigs_Move_2019_Blu-ray_1080p_dts-hdma_5_1-DDR%5BEtHD%5D.mp4
+
+type=video
+name=MFKZ (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-72
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSMIKsznGYzGfdl611kgEJF889.jpg
+date=2019-08-10
+URL=https://verystream.com/stream/QEarEi3MPcW/Mutafukaz.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=You Might Be the Killer (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBwQF1UR8GcRWEcEngF3uLozqhe.jpg
+date=2019-08-10
+URL=https://verystream.com/stream/TPYpKE7YpsK/You.Might.Be.the.Killer.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Monster Island (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-25
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GQpuUrjvT3T4s3jEc76SKFaJFp.jpg
+date=2019-08-10
+URL=https://verystream.com/stream/jeLTVJJaC1M/Monster.Island.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Avengers: Endgame (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-84
@@ -2254,8 +2367,9 @@ URL=https://openload.co/f/0iFCMMFZw7M/The.Assassins.Code.2018.1080p.BluRay.x264.
 type=video
 name=Fighting with My Family (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TZCBAdKQiz0cGKGEjZiyZUA01O.jpg
-date=2019-05-15
-URL=https://openload.co/f/bhMzcC0MEyg/Fighting.with.My.Family.2019.1080p.BluRay.x264-GECKOS.mkv.mp4
+date=2019-08-10
+URL=https://verystream.com/stream/QEAgc8KP5hG/Fighting.With.My.Family.2019.1080p.BluRay.x264-YTS.AM.mp4
+#https://openload.co/f/bhMzcC0MEyg/Fighting.with.My.Family.2019.1080p.BluRay.x264-GECKOS.mkv.mp4
 #https://openload.co/f/Ei0xllWOMQs/Fighting_with_My_Family_%282019%291080p_BluRay_x264-GECKOS_Ganool.mkv.mp4
 #https://openload.co/f/p1uhvYmpH_s/Fighting_with_My_Family_2019_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
 #https://openload.co/f/F8zL7F7pzYs/Fighting_with_My_Family_2019_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
@@ -2600,6 +2714,14 @@ URL=https://openload.co/f/tgh8VgMkA5o/Berlin%2C_I_Love_You_%282019%291080p_BluRa
 #https://openload.co/f/HL-hBOPQ4DA/Berlin%2C.I.Love.You.2019.1080p.BluRay.x264-YTS.AM.mp4
 #https://openload.co/f/fjOgKwLBzXk/Berlin.I.Love.You.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/PYcxhjllUA0/Berlin.I.Love.You.2019.HDRip.XviD.AC3-EVO_SeeHD.avi.mp4
+
+type=video
+name=Planeta Singli 3 (2019) [COLOR=FF00FF00]POL BR 1080p[/COLOR] | TMDB-77
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtdPQucWzyszP3ItxBYklncNUn2.jpg
+date=2019-08-10
+URL=https://verystream.com/stream/6s28qo7EM6D/planeta.singli.3.2019.1080p.bluray.x264-sprinter%5BEtHD%5D.mkv.mp4
+#https://verystream.com/stream/CY2ifmPt4Tg/planeta.singli.3.2019.1080p.bluray.x264-sprinter%5BEtHD%5D.mp4
+#https://verystream.com/stream/6s28qo7EM6D/planeta.singli.3.2019.1080p.bluray.x264-sprinter%5BEtHD%5D.mkv.mp4
 
 type=video
 name=Planeta singli 2 (2018) [COLOR=FF00FF00]POL BR 1080p[/COLOR] | TMDB-69
@@ -6893,10 +7015,11 @@ URL=https://openload.co/f/zbihlTNYiAg/Devils.Gate.2017.1080p.BluRay.x264.DTS-FGT
 #https://openload.co/embed/ctQuYX4p-UY/SHQDEVILGATEBD72.GGanool.im.mkv.mp4
 
 type=video
-name=Freak Show (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Freak Show (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pMMe9uxileJBH2nDNlSPpk5xFH.jpg
-date=2018-11-04
-URL=https://openload.co/f/eton_OJVu5k/Freak.Show.2017.1080p.BR_SeeHD.mp4
+date=2019-08-10
+URL=https://verystream.com/stream/WPUDBSAWxkD/Freak.Show.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://openload.co/f/eton_OJVu5k/Freak.Show.2017.1080p.BR_SeeHD.mp4
 #https://openload.co/f/aJ2kkHZECaU/Freak.Show.2017.1080p.BluRay.x264.DTS-MT.mkv.mp4
 #https://openload.co/f/Jbn08wdDUIg/Freak.Show.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
 #https://openload.co/f/vzm-Re6H8Vg/Freak_Show.2017.HDRip.XviD.AC3-EVO.avi.mp4
@@ -7211,10 +7334,11 @@ URL=https://www.blazefile.co/embed-oy5eyx9lw6yj.html
 #https://openload.co/f/fWx28y4q95M/In.the.Fade.2017.720p.BluRay.x264-SADPANDA.mkv.mp4
 
 type=video
-name=Hostile (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCg9BqcQuj47iwP2PjlYAbGEiS2.jpg
-date=2018-05-03
-URL=https://openload.co/f/clSKv6I-l-w/Hostile.2017.DUBBED.1080p.BR_SeeHD.mp4
+name=Hostile (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-54
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnvFRg5TxGYIMKQJjA41lv0RNcg.jpg
+date=2019-08-10
+URL=https://verystream.com/stream/XGxMrF6zPXu/Hostile.2017.1080p.BluRay.x264-YTS.LT.mp4
+#https://openload.co/f/clSKv6I-l-w/Hostile.2017.DUBBED.1080p.BR_SeeHD.mp4
 #https://openload.co/f/8eOP99KWmrs/hostile.2017.dubbed.1080p.bluray.x264-pussyfoot.mkv.mp4
 #https://openload.co/f/2a9BU1Ig4Yw/Hostile.2017.DUBBED.BDRip.x264-PussyFoot.mkv.mp4
 
@@ -7228,7 +7352,7 @@ URL=https://openload.co/f/TBzVdIkyvtI/The.Leisure.Seeker.2017.1080p.BR_SeeHD.mp4
 #https://uptobox.com/ohw3p5w2seis   720
 
 type=video
-name=The Swindlers (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] TMDB-71
+name=The Swindlers (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-71
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzxsCW4chkwXzfJPLXImpEpjtV.jpg
 date=2019-06-02
 URL=https://openload.co/f/JLFAQ-KXI9w/The_Swindlers_2017_1080p_Bluray_x264_%E2%80%93_YTS.AM.mp4
@@ -7298,10 +7422,11 @@ date=2018-04-22
 URL=https://openload.co/f/S8E1YLAW8ro/i.had.a.bloody.good.time.at.house.harker.2016.1080p.bluray.x264-getit.mkv.mp4
 
 type=video
-name=Sugar Mountain (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR]
+name=Sugar Mountain (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-51
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj1cwfb6LFIIBcgBMZkbUjTvSPP.jpg
-date=2018-04-22
-URL=https://openload.co/f/6FYC0JKQLto/sugar.mountain.2016.1080p.bluray.x264-getit.mkv.mp4
+date=2019-08-10
+URL=https://verystream.com/stream/9Z33T7jSpVn/Sugar.Mountain.2016.1080p.BluRay.x264-YTS.LT.mp4
+#https://openload.co/f/6FYC0JKQLto/sugar.mountain.2016.1080p.bluray.x264-getit.mkv.mp4
 #https://openload.co/f/RJUVmKS2FUg/sugar.mountain.2016.720p.bluray.x264-getit.mkv.mp4
 
 type=video
@@ -13348,8 +13473,10 @@ URL=https://openload.co/f/Dx_vhjtAHq4/Replicas_%282018%29%E0%B8%9E%E0%B8%A5%E0%B
 type=video
 name=Master Z: Ip Man Legacy (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-56
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Hy0qn054TBkapuCutQKeebaGJE.jpg
-date=2019-03-18
-URL=https://openload.co/f/zk5s40ZaAfM/Master.Z.Ip.Man.Legacy.2018.1080p.BluRay.x264-YTS.AM.mp4
+date=2019-08-10
+URL=https://verystream.com/stream/YugHxju8aUc/Master.Z.Ip.Man.Legacy.2018.DUBBED.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/iUB7KuArEDt/Master_Z_Ip_Man_Legacy_2018_1080p_BluRay_x264-NODLABS%5BEtHD%5D.mp4
+#https://openload.co/f/zk5s40ZaAfM/Master.Z.Ip.Man.Legacy.2018.1080p.BluRay.x264-YTS.AM.mp4
 #https://openload.co/f/5nSllS4-ZvM/Master.Z.Ip.Man.Legacy.2018.100p.BRRip.x264-MkvCage.mkv.mp4
 type=video
 name=Master Z: Ip Man Legacy (2018) THCAM SOUND

@@ -91,96 +91,126 @@ http://nationstream.nationgroup.com/hls/th_high.m3u8
 
 
 
-#EXTINF:-1,BBTV CH7-----------------------------------
-http://180.183.97.247:8000/play/a00m
-#EXTINF:-1,NATION
-http://180.183.97.247:8000/play/a019
-#EXTINF:-1,TNN2
-http://180.183.97.247:8000/play/a01c
-#EXTINF:-1,TNN24
-http://180.183.97.247:8000/play/a013
-#EXTINF:-1,MONEY
-http://180.183.97.247:8000/play/a008
-#EXTINF:-1,CARTOON NETWORK
-http://180.183.97.247:8000/play/a03h
-#EXTINF:-1,3 HD
-http://180.183.97.247:8000/play/a00k
-#EXTINF:-1,THV
-http://180.183.97.247:8000/play/a014
-#EXTINF:-1,ONE
-http://180.183.97.247:8000/play/a00i
-#EXTINF:-1,NBT
-http://180.183.97.247:8000/play/a00x
-#EXTINF:-1,OUTDOOR CHANNEL
-http://180.183.97.247:8000/play/a01y
-#EXTINF:-1,RAMA
-http://180.183.97.247:8000/play/a00q
-#EXTINF:-1,CCTV 4
-http://180.183.97.247:8000/play/a03j
-#EXTINF:-1,MCOT F
-http://180.183.97.247:8000/play/a011
-#EXTINF:-1,INSE
-http://180.183.97.247:8000/play/a00p
-#EXTINF:-1,TPBS
-http://180.183.97.247:8000/play/a00y
-#EXTINF:-1,LOCA
-http://180.183.97.247:8000/play/a012
-#EXTINF:-1,BUDDHA
-http://180.183.97.247:8000/play/a03e
-#EXTINF:-1,3 SD
-http://180.183.97.247:8000/play/a00g
-#EXTINF:-1,RED BY HBO
-http://180.183.97.247:8000/play/a01x
-#EXTINF:-1,BBC WORLD NEWS
-http://180.183.97.247:8000/play/a03l
-#EXTINF:-1,GMM25
-http://180.183.97.247:8000/play/a00d
-#EXTINF:-1,CNBC
-http://180.183.97.247:8000/play/a03n
-#EXTINF:-1,CH8
-http://180.183.97.247:8000/play/a00f
-#EXTINF:-1,BLOOMBERG
-http://180.183.97.247:8000/play/a03m
-#EXTINF:-1,CNN
-http://180.183.97.247:8000/play/a03k
-#EXTINF:-1,TH RATH
-http://180.183.97.247:8000/play/a00j
-#EXTINF:-1,FOX MOVIES
-http://180.183.97.247:8000/play/a036
-#EXTINF:-1,PLOOK
-http://180.183.97.247:8000/play/a00o
-#EXTINF:-1,MONO
-http://180.183.97.247:8000/play/a00h
-#EXTINF:-1,TV5HD1
-http://180.183.97.247:8000/play/a00w
-#EXTINF:-1,VOICE
-http://180.183.97.247:8000/play/a018
-#EXTINF:-1,BRIGHT
-http://180.183.97.247:8000/play/a017
-#EXTINF:-1,FOX FAMILY MOVIES
-http://180.183.97.247:8000/play/a03o
-#EXTINF:-1,PPTV
-http://180.183.97.247:8000/play/a00n
-#EXTINF:-1,WP TV
-http://180.183.97.247:8000/play/a01a
-#EXTINF:-1,NEW TV
-http://180.183.97.247:8000/play/a015
-#EXTINF:-1,ETV
-http://180.183.97.247:8000/play/a00s
-#EXTINF:-1,AMARIN
-http://180.183.97.247:8000/play/a00l
-#EXTINF:-1,3FAM
-http://180.183.97.247:8000/play/a010
-#EXTINF:-1,NOW
-http://180.183.97.247:8000/play/a00e
-#EXTINF:-1,SP NEWS
-http://180.183.97.247:8000/play/a016
-#EXTINF:-1,TPTV
-http://180.183.97.247:8000/play/a00z
-#EXTINF:-1,MCOT HD
-http://180.183.97.247:8000/play/a02v
-#EXTINF:-1,TGN
-http://180.183.97.247:8000/play/a005
+#EXTINF:-1,AEC-----------------------------------
+http://183.88.235.128:9981/stream/channelid/897004570
+#EXTINF:-1,BAAN BAAN
+http://183.88.235.128:9981/stream/channelid/1105834654
+#EXTINF:-1,BOOMMERANG
+http://183.88.235.128:9981/stream/channelid/1988206119
+#EXTINF:-1, BAN-TERNG THAI
+http://183.88.235.128:9981/stream/channelid/1455337075
+#EXTINF:-1,CH2 SD
+http://183.88.235.128:9981/stream/channelid/2130632750
+#EXTINF:-1,CHIC Station
+http://183.88.235.128:9981/stream/channelid/272684178
+#EXTINF:-1,E-San Banhouw
+http://183.88.235.128:9981/stream/channelid/232110676
+#EXTINF:-1,EKALUXX THAI
+http://183.88.235.128:9981/stream/channelid/867775952
+#EXTINF:-1,Happy
+http://183.88.235.128:9981/stream/channelid/1532693038
+#EXTINF:-1,HAPPY TV
+http://183.88.235.128:9981/stream/channelid/1599199684
+#EXTINF:-1,High Shopping
+http://183.88.235.128:9981/stream/channelid/514094386
+#EXTINF:-1,hit 42
+http://183.88.235.128:9981/stream/channelid/1486452018
+#EXTINF:-1,Hit Station
+http://183.88.235.128:9981/stream/channelid/1083307863
+#EXTINF:-1,kaset
+http://183.88.235.128:9981/stream/channelid/714076524
+#EXTINF:-1,lamkhon
+http://183.88.235.128:9981/stream/channelid/314918442
+#EXTINF:-1,M CH
+http://183.88.235.128:9981/stream/channelid/1069080617
+#EXTINF:-1,MAYA KU
+http://183.88.235.128:9981/stream/channelid/1002097707
+#EXTINF:-1,Media Online
+http://183.88.235.128:9981/stream/channelid/152582686
+#EXTINF:-1,MIRROR
+http://183.88.235.128:9981/stream/channelid/611902622
+#EXTINF:-1,MIZZIMA
+http://183.88.235.128:9981/stream/channelid/764818080
+#EXTINF:-1,MNTV
+http://183.88.235.128:9981/stream/channelid/652915916
+#EXTINF:-1,MOMO1 KU
+http://183.88.235.128:9981/stream/channelid/1773651291
+#EXTINF:-1,MOMO2
+http://183.88.235.128:9981/stream/channelid/837914223
+#EXTINF:-1,MOMO3
+http://183.88.235.128:9981/stream/channelid/2053790742
+#EXTINF:-1,MRTV
+http://183.88.235.128:9981/stream/channelid/77316528
+#EXTINF:-1,MT TV
+http://183.88.235.128:9981/stream/channelid/1438484245
+#EXTINF:-1,MVM
+http://183.88.235.128:9981/stream/channelid/138823000
+#EXTINF:-1,My TV
+http://183.88.235.128:9981/stream/channelid/1457585213
+#EXTINF:-1,Neramit
+http://183.88.235.128:9981/stream/channelid/1591342539
+#EXTINF:-1,Sabaidee TV SD
+http://183.88.235.128:9981/stream/channelid/1850614495
+#EXTINF:-1,SARADEE 99
+http://183.88.235.128:9981/stream/channelid/1850701552
+#EXTINF:-1,SARADEE1
+http://183.88.235.128:9981/stream/channelid/512905089
+#EXTINF:-1,SARADEE99
+http://183.88.235.128:9981/stream/channelid/1742007518
+#EXTINF:-1,Series Channel
+http://183.88.235.128:9981/stream/channelid/1274167687
+#EXTINF:-1,Service 11
+http://183.88.235.128:9981/stream/channelid/1060314158
+#EXTINF:-1,service 15
+http://183.88.235.128:9981/stream/channelid/1271052000
+#EXTINF:-1,Shop Ch
+http://183.88.235.128:9981/stream/channelid/564907217
+#EXTINF:-1,T sport
+http://183.88.235.128:9981/stream/channelid/735989090
+#EXTINF:-1,T_Variety
+http://183.88.235.128:9981/stream/channelid/1474667010
+#EXTINF:-1,TEST 15
+http://183.88.235.128:9981/stream/channelid/1121453530
+#EXTINF:-1,TGN 1
+http://183.88.235.128:9981/stream/channelid/205730087
+#EXTINF:-1,Thaiban
+http://183.88.235.128:9981/stream/channelid/342050754
+#EXTINF:-1,TIGER SH
+http://183.88.235.128:9981/stream/channelid/1228993239
+#EXTINF:-1,Took Dee
+http://183.88.235.128:9981/stream/channelid/1169696081
+#EXTINF:-1,TOP TV
+http://183.88.235.128:9981/stream/channelid/531334808
+#EXTINF:-1,TVD 1
+http://183.88.235.128:9981/stream/channelid/1550879216
+#EXTINF:-1,TVD3
+http://183.88.235.128:9981/stream/channelid/1850431147
+#EXTINF:-1,Tvmyanmar
+http://183.88.235.128:9981/stream/channelid/2138448406
+#EXTINF:-1,ZEENANG
+http://183.88.235.128:9981/stream/channelid/901696592
+#EXTINF:-1,MRTV_SPORTS
+http://183.88.235.128:9981/stream/channelid/1150550894
+#EXTINF:-1,5-PLUS
+http://183.88.235.128:9981/stream/channelid/528453296
+#EXTINF:-1,FARMER
+http://183.88.235.128:9981/stream/channelid/464907461
+#EXTINF:-1,HLUTTAW
+http://183.88.235.128:9981/stream/channelid/1508880394
+#EXTINF:-1,CNAI
+http://183.88.235.128:9981/stream/channelid/1085759875
+#EXTINF:-1,CGTN
+http://183.88.235.128:9981/stream/channelid/1721534939
+#EXTINF:-1,FRANCE 24 ENG
+http://183.88.235.128:9981/stream/channelid/1455799141
+#EXTINF:-1,NHK WORLD
+http://183.88.235.128:9981/stream/channelid/1035332972
+#EXTINF:-1,FRANCE 24 FR
+http://183.88.235.128:9981/stream/channelid/1316683224
+#EXTINF:-1,TV5 MONDE
+http://183.88.235.128:9981/stream/channelid/1284456091
+#EXTINF:-1,DW
+http://183.88.235.128:9981/stream/channelid/121014945
 
 
 
@@ -2511,7 +2541,7 @@ http://1.242.249.81:9981/stream/channelid/613088186
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_kor
 http://112.144.56.138:9981/stream/channelid/1904479554
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD--------------------------
-http://123.249.76.157:10018/bysid/73
+http://182.73.122.74:10005/bysid/73
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD_trunk
 http://130.185.150.79:1935/trunk/BBC-EARTH/playlist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
@@ -2536,6 +2566,8 @@ http://118.71.234.114:4022/udp/225.1.2.9:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_FPT
 http://118.71.234.114:4022/udp/225.1.2.98:30120
 
+#EXTINF:-1,KLT
+http://61.58.60.230:9319/live/205.m3u8
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se
 http://ok2.se:8000/fSCu8i8OGd/JrZU2P55jw/77332
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_rtmp
@@ -2546,8 +2578,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 http://61.216.10.122:4046/VideoInput/play.ts
 #EXTINF:-1,SBS Food [OPTUS]
 http://kodi:kodi@61.245.139.132:9981/stream/channelid/1590507445
-#EXTINF:-1,KLT
-http://61.58.60.230:9319/live/205.m3u8
 #EXTINF:-1,China_chillie
 http://124.232.231.246:6610/000000001001/201500000120/index.m3u8?
 #EXTINF:-1,China Food TV_cnlive
@@ -2570,34 +2600,35 @@ http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/77338
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
-http://113.180.43.223:4022/rtp/232.84.2.129:9570
+http://113.189.151.244:4022/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://113.180.43.223:4022/rtp/232.84.2.131:9582
+http://113.189.151.244:4022/rtp/232.84.2.131:9582
 #EXTINF:-1,ASIAN FOOD CHANNEL
-http://113.180.43.223:4022/rtp/232.84.1.115:10236
+http://113.189.151.244:4022/rtp/232.84.1.115:10236
 #EXTINF:-1,DISCOVERY ASIA
-http://113.180.43.223:4022/rtp/232.84.2.53:10528
+http://113.189.151.244:4022/rtp/232.84.2.53:10528
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://113.180.43.223:4022/rtp/232.84.1.65:8364
+http://113.189.151.244:4022/rtp/232.84.1.65:8364
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://113.180.43.223:4022/rtp/232.84.1.1:7980
+http://113.189.151.244:4022/rtp/232.84.1.1:7980
 #EXTINF:-1,NAT GEO PEOPLE
-http://113.180.43.223:4022/rtp/232.84.1.67:8376
+http://113.189.151.244:4022/rtp/232.84.1.67:8376
 #EXTINF:-1,NAT GEO PEOPLE HD
-http://113.180.43.223:4022/rtp/232.84.1.76:8430
+http://113.189.151.244:4022/rtp/232.84.1.76:8430
 #EXTINF:-1,Da Vinci Learning
-http://113.180.43.223:4022/rtp/232.84.1.108:10224
+http://113.189.151.244:4022/rtp/232.84.1.108:10224
 #EXTINF:-1,Nat Geo People
-http://113.180.43.223:4022/rtp/232.84.2.121:8376
+http://113.189.151.244:4022/rtp/232.84.2.121:8376
 #EXTINF:-1,DISNEY CHANNEL HD
-http://113.180.43.223:4022/rtp/232.84.2.143:10678
+http://113.189.151.244:4022/rtp/232.84.2.143:10678
+#EXTINF:-1,CNBC
+http://113.189.151.244:4022/rtp/232.84.2.177:10488
 
 
 
 
 
-
-#EXTINF:-1,CNBC--------------------------
+#EXTINF:-1,CNBC--------------------------viet_udp
 http://118.71.234.114:4022/udp/225.1.1.227:30120
 #EXTINF:-1,BBC WORLD NEWS
 http://118.71.234.114:4022/udp/225.1.2.74:30120
@@ -2685,9 +2716,13 @@ http://118.71.234.114:4022/udp/225.1.4.73:30120
 http://118.71.234.114:4022/udp/225.1.4.37:30120
 
 
+#EXTINF:-1,BBC Earth--------------------------
+http://178.164.245.207:9981/stream/channelid/676789018
+#EXTINF:-1,LifeTV
+http://178.164.245.207:9981/stream/channelid/1622884924
+#EXTINF:-1,Da Vinci
+http://178.164.245.207:9981/stream/channelid/1209256978
 
-#EXTINF:-1,PL:-GS BBC EARTH--------------------------
-http://ppvplug.net:8000/ujy5C8X9Om/U1OQX6uwig/79384
 
 
 
@@ -3242,6 +3277,10 @@ http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 #EXTINF:-1,JAP_cs19
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=156632922
+#EXTINF:-1,JAP_cs11
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
+#EXTINF:-1,JAP_cs14
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
 #EXTINF:-1,JAP_cs18
 http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
 #EXTINF:-1,JAP_cs27
@@ -3292,8 +3331,6 @@ https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
 http://118.71.234.114:4022/udp/225.1.1.227:30120
 
 
-#EXTINF:-1,CNBC_th
-http://180.183.97.247:8000/play/a03n
 
 #EXTINF:-1,CNBC HD_ok2.se:80
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz//364
@@ -3301,15 +3338,7 @@ http://ok2.se:80/r8KMCKGTik/xelMmJC7tz//364
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/4600
 
 
-#EXTINF:-1,US: CNBC | HD
-http://ppvplug.net:8000/hodge/hodge/101257
-#EXTINF:-1,US: CNBC WORLD | HD
-http://ppvplug.net:8000/hodge/hodge/101256
 
-#EXTINF:-1,US: CNBC | HD
-http://ppvplug.net:8000/aki/aki/101257
-#EXTINF:-1,US: CNBC WORLD | HD
-http://ppvplug.net:8000/aki/aki/101256
 
 
 
