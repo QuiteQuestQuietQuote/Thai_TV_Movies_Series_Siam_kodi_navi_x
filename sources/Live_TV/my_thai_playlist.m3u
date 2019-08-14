@@ -2694,19 +2694,11 @@ http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 http://213.174.8.7:11111/index.m3u8
 #EXTINF:-1,DAVINCI_kid_m3u8
 http://212.112.101.69:8081/stream51/output.m3u8
-#EXTINF:-1, Nuart TV HD_m3u
-http://iptvclub24.ru/playlists/ Nuart TV HD.m3u
-#EXTINF:-1, Da Vinci Kids_m3u
-http://iptvclub24.ru/playlists/ Da Vinci Kids.m3u
-#EXTINF:-1, Da Vinci_m3u
-http://iptvclub24.ru/playlists/ Da Vinci.m3u
+#EXTINF:-1, DAVINCI LEARNING (SLO)
+http://line.4k-iptv.com:80/eCaP6Yer6j/J6Tia5WdvM/52156
 
-#EXTINF:-1,GR – OUTDOOR CHANNEL 4K
-http://tptv.cz:80/918822504775/OqIJEIxloYuKgvb/54995
-#EXTINF:-1,GR – BBC EARTH HD
-http://tptv.cz:80/918822504775/OqIJEIxloYuKgvb/54988
-#EXTINF:-1,GR – NAUTICAL CHANNEL 4K
-http://tptv.cz:80/918822504775/OqIJEIxloYuKgvb/54978
+#EXTINF:-1,DAVINCILEARNING (RO)_ok2.se:80_test
+http://ok2.se:80/y0P5bMlTSU/fMtrdHsTKt/77332
 
 
 #EXTINF:-1,DAVINCILEARNING (RO)_ok2.se:80--------------------------
@@ -3045,10 +3037,10 @@ http://86.57.182.131:8905/play/a00l
 http://95.181.238.24:8082/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp92
 http://92.42.14.217:4022/udp/233.1.1.251:1234 
-#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp
-http://109.171.66.42:81/udp/239.195.6.33:1234
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp193
 http://94.125.54.234:999/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp
+http://109.248.71.62:15999/udp/239.195.6.33:1234
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_centurionlukavac
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57750
 
@@ -3444,10 +3436,8 @@ http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/365
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/4600
 
 
-#EXTINF:-1,CA-CNBC
-http://sinotv-la.com:80/918822504775/OqIJEIxloYuKgvb/30506
-#EXTINF:-1,CNBC Europe UK
-http://mypanel.tv:8080/fg6pzvc4qn/unq3z6j2l8/9534
+#EXTINF:-1,USA | CNBC-US (nbc at 3pm)
+http://goldiptv24.com:80/0jjau6iiO9/y5dIk1P9Yu/28297
 
 
 
