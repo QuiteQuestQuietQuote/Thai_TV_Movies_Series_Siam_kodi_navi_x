@@ -2411,15 +2411,15 @@ http://211.176.32.12:9981/stream/channelid/2004071540
 #EXTINF:-1,BBC Earth_kor14
 http://211.178.72.29:9981/stream/channelid/1782925714
 #EXTINF:-1,BBC earth_kor15
-http://211.58.34.230:9981/stream/channelid/1299978861
-
+http://1.243.114.12:9981/stream/channelid/1989932553
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD--------------------------
 http://182.73.122.74:10005/bysid/73
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",SONY BBC EARTH HD_trunk
 http://130.185.150.79:1935/trunk/BBC-EARTH/playlist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
-http://1.243.114.12:9981/stream/channelid/1989932553
+http://211.58.34.230:9981/stream/channelid/1299978861
+
 
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DaVinci Learning_PL
 http://188.26.25.141:8000/play/a00c/index.m3u8
@@ -2442,21 +2442,8 @@ http://118.70.82.36:8889/udp/225.1.2.98:30120
 
 #EXTINF:-1,KLT
 http://61.58.60.230:9319/live/205.m3u8
-#EXTINF:-1,Da Vinci RUS--------------------------
-http://37.192.102.98:81/udp/239.1.5.6:1234
-#EXTINF:-1,Da Vinci Learning
-http://145.249.120.171:9981/stream/channelid/925504181 
-
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_Indo
-http://203.207.56.228/live/iptv001.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="http://image.free.in.th/v/2013/io/180629043620.jpg",BBC Lifestyle_Indo
-http://203.207.56.228/live/iptv002.m3u8
-
-
-
-
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/77332
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/77332
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_rtmp
 rtmp://118.97.96.17:1935/discover/afc_3
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
@@ -2474,83 +2461,69 @@ http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227024/index.m3u8
 #EXTINF:-1,Knowledge Network
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
-#EXTINF:-1,Viasat Explore
-http://145.255.254.19:1234/udp/230.7.7.115:1234
-#EXTINF:-1,Viasat History
-http://145.255.254.19:1234/udp/230.7.7.116:1234
-#EXTINF:-1,Da Vinchi Learning
-http://145.255.254.19:1234/udp/230.7.7.117:1234
 
-#EXTINF:-1,Da Vinchi Learning
-http://89.23.16.218:8888/udp/224.200.234.13:1234
-#EXTINF:-1,Viasat Explore
-http://89.23.16.218:8888/udp/224.200.234.2:1234
-#EXTINF:-1,Viasat History
-http://89.23.16.218:8888/udp/224.200.234.3:1234
-#EXTINF:-1,Da Vinchi Learning
-http://89.23.16.218:8888/udp/239.1.23.140:1234
-#EXTINF:-1,Viasat Explore
-http://89.23.16.218:8888/udp/239.1.23.144:1234
-#EXTINF:-1,Viasat History
-http://89.23.16.218:8888/udp/239.1.23.145:1234
 
-#EXTINF:-1,Viasat Explore
-http://81.22.50.186:1234/udp/230.7.7.115:1234
-#EXTINF:-1,Viasat History
-http://81.22.50.186:1234/udp/230.7.7.116:1234
-#EXTINF:-1,Da Vinchi Learning
-http://81.22.50.186:1234/udp/230.7.7.117:1234
+#EXTINF:-1,MY: BBC EARTH HD
+http://m3ulink.com:6969/collin.scm.r26081/VcUmcLfq/32257
+#EXTINF:-1,MY: BBC LIFESTYLE
+http://m3ulink.com:6969/collin.scm.r26081/VcUmcLfq/32256
+#EXTINF:-1,MY: ASIAN FOOD CHANNEL
+http://m3ulink.com:6969/collin.scm.r26081/VcUmcLfq/31497
+#EXTINF:-1,MY: NAT GEO ASIA HD
+http://m3ulink.com:6969/collin.scm.r26081/VcUmcLfq/32225
+#EXTINF:-1,MY: NAT GEO PEOPLE HD
+http://m3ulink.com:6969/collin.scm.r26081/VcUmcLfq/32224
 
-#EXTINF:-1,(GR) History 4K+
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/44111
-#EXTINF:-1,(GR) National Geographic 4K+
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/44109
-#EXTINF:-1,(GR) Viasat Explore 4K+
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/44113
-#EXTINF:-1,(GR) BBC Earth 4K+
-http://iptv.jinbox.nl:1339/hcvr0H3kO5/YFgsO5jCAD/44112
-
-#EXTINF:-1,bbcearth
-http://148.251.42.211:8081/selcuksports/bbcearth/playlist.m3u8
-
-#EXTINF:-1,Da Vinci Learning
-http://145.249.120.171:9981/stream/channelid/925504181
-#EXTINF:-1,Docubox
-http://145.249.120.171:9981/stream/channelid/1018755912
+#EXTINF:-1,OSN National Geographic
+http://xxultraxx.com:80/gorge/gorge123456/9410
+#EXTINF:-1,OSN NAT GEO People
+http://xxultraxx.com:80/gorge/gorge123456/9408
+#EXTINF:-1,OSN Discovery
+http://xxultraxx.com:80/gorge/gorge123456/9407
+#EXTINF:-1,OSN Discovery Science
+http://xxultraxx.com:80/gorge/gorge123456/9406
+#EXTINF:-1,OSN CI
+http://xxultraxx.com:80/gorge/gorge123456/9400
+#EXTINF:-1,OSN History
+http://xxultraxx.com:80/gorge/gorge123456/9402
+#EXTINF:-1,OSN Living
+http://xxultraxx.com:80/gorge/gorge123456/9421
+#EXTINF:-1,OSN Food HD
+http://xxultraxx.com:80/gorge/gorge123456/26025
 
 
 #EXTINF:-1,DAVINCILEARNING (RO)_ok2.se:80--------------------------
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/77332
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/77332
 #EXTINF:-1,DISCOVERY (RO)
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/77339
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/77339
 #EXTINF:-1,DISCOVERY SCIENCE (RO)
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/77338
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/77338
 #EXTINF:-1, HISTORY
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/1758
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/1758
 #EXTINF:-1, H2
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/1754
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/1754
 #EXTINF:-1, DISCOVERY SCIENCE
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/1766
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/1766
 #EXTINF:-1, DISCOVERY HISTORY
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/1765
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/1765
 #EXTINF:-1, DISCOVERY
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/1764
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/1764
 #EXTINF:-1,NAT GEO HD
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/330
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/330
 #EXTINF:-1,DIY HD
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/329
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/329
 #EXTINF:-1,FYI HD
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/42684
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/42684
 #EXTINF:-1,COOKING CHANNEL HD
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6108
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6108
 #EXTINF:-1,FOOD HD
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/333
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/333
 #EXTINF:-1,HGTV HD
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/335
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/335
 #EXTINF:-1,FOOD HD (USA)
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/80508
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/80508
 #EXTINF:-1,TASTEMADE
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/80391
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/80391
 
 
 #EXTINF:-1,ASIAN FOOD CHANNEL HD_VN_rtp
@@ -2747,6 +2720,22 @@ https://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u
 #EXTINF:-1,movies_pluto.tv
 https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+#EXTINF:-1,DISNEY HD EAST--------------------------ok2.se:80
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/392
+#EXTINF:-1,ABC SPARK HD
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/4063
+#EXTINF:-1,TREEHOUSE HD
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/393
+#EXTINF:-1,NICKELODEON HD
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/394
+#EXTINF:-1,CARTOON NETWORK HD
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/395
+#EXTINF:-1,FAMILY HD
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/396
+#EXTINF:-1,DISNEY XD HD
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/397
+#EXTINF:-1,DISNEY ALL DAY 24X7
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/7804
 
 
 
@@ -2789,29 +2778,29 @@ http://212.111.17.130:8001/1:0:1:307:C94:3:EB0000:0:0:0:
 
 
 #EXTINF:-1,HBO EAST HD – NEW--------------------------ok2.se:80
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/371
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/371
 #EXTINF:-1,CINEMAX EAST HD – NEW
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/380
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/380
 #EXTINF:-1,SHOWTIME EAST HD (NEW)
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/11361
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/11361
 #EXTINF:-1,SHOWTIME BEYOND HD
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/11363
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/11363
 #EXTINF:-1,SHOWTIME WOMEN HD (NEW)
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/11359
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/11359
 #EXTINF:-1,SHOWTIME EXTREME HD (NEW)
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/11358
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/11358
 #EXTINF:-1,STARZ HD
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/374
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/374
 #EXTINF:-1,FLIX – NEW
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/59056
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/59056
 #EXTINF:-1, MOVIES PREMIERE
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/1733
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/1733
 #EXTINF:-1, MOVIES DISNEY
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/1743
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/1743
 #EXTINF:-1,SUNDANCE HD – NEW
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/10039
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/10039
 #EXTINF:-1,MOVIE TIME HD
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/369
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/369
 
 
 
@@ -2840,17 +2829,18 @@ http://178.219.160.167:8080/Nuart/index.m3u8
 http://86.57.182.131:8905/play/a00l
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NUART TV HD_udp   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 http://95.181.238.24:8082/udp/239.191.254.250:15285
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp92
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp233.1.1.251:1234 
 http://92.42.14.217:4022/udp/233.1.1.251:1234 
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp193
-http://94.125.54.234:999/udp/239.191.254.250:15285
-#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp239.195.6.33:1234
 http://109.248.71.62:15999/udp/239.195.6.33:1234
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp239.191.254.250:15285
+http://79.133.124.147:999/udp/239.191.254.250:15285
 #EXTINF:-1,NuArt_channelid
 http://145.249.120.171:9981/stream/channelid/1318150897
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_centurionlukavac
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/57750
-
+#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_HD_ok2_test
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/57750
 
 
 #EXTINF:-1,RedLight--------------------------
@@ -2868,9 +2858,11 @@ http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/1073/index.m3u8
 #EXTINF:-1,Penthouse_passion2
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
 #EXTINF:-1,Candy--------------------------
-http://185.35.4.37:8087/candy/ch.m3u8
+http://46.18.202.220:8879/Candy/ch1.m3u8
 #EXTINF:-1,livesexlatinas_rtsp
 rtsp://51.254.198.110:1935/leved/livesexlatinas
+#EXTINF:-1,private
+http://95.216.187.219:8080/062-private
 #EXTINF:-1,DorcelHD
 http://188.35.9.11:21141/udp/214h
 #EXTINF:-1,Vivid EU
@@ -2911,11 +2903,10 @@ http://91.204.234.3:8000/play/a00p/index.m3u8
 http://91.194.72.46:10043/play/DorcelHD/index.m3u8
 #EXTINF:-1,WYN
 http://185.35.4.37:8087/shalun/ch.m3u8
+#EXTINF:-1,latinangels
+http://photocall.tv/Zs4N/v1.php/latinangels/stream5/streamPlaylist.m3u8
 
-#EXTINF:-1,Achtung Sexy TV
-http://91.11.151.59:9981/stream/channelid/346527331
-#EXTINF:-1,Achtung Sexy TV temp
-http://91.11.151.59:9981/stream/channelid/1181768172
+
 
 
 #EXTINF:-1,lesbian_rtmp--------------------------------------
@@ -2952,68 +2943,69 @@ http://live.redtraffic.xyz/hardcore.m3u8
 http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1,redtraffic_cuckold
 http://live.redtraffic.xyz/cuckold.m3u8
+
 #EXTINF:-1,PLAYBOY TV (NA)-----------------------------ok2.se:80
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/300
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/300
 #EXTINF:-1,HUSTLER HD
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/302
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/302
 #EXTINF:-1,X ART
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/10658
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/10658
 #EXTINF:-1,NAUGHTY AMERICA
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/10657
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/10657
 #EXTINF:-1,BRAZZERS
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/10656
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/10656
 #EXTINF:-1,BRAZZERS LIVE
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/10660
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/10660
 #EXTINF:-1,TEN – NEW
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/9165
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/9165
 #EXTINF:-1,XTSY – (NEW)
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/9164
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/9164
 #EXTINF:-1,TINY4K
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/8889
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/8889
 #EXTINF:-1,EVIL ANGEL 1
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/10659
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/10659
 #EXTINF:-1,BANG BROS
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/8783
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/8783
 #EXTINF:-1,IPZ
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6610
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6610
 #EXTINF:-1,JAP AV 1
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/72393
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/72393
 #EXTINF:-1,JAP AV 2
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/72394
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/72394
 #EXTINF:-1,JAP AV 3
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/72395
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/72395
 #EXTINF:-1,JAV 1 UNCENSORED
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6612
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6612
 #EXTINF:-1,JAV 2 UNCENSORED
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6613
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6613
 #EXTINF:-1,JAV 3 UNCENSORED
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6614
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6614
 #EXTINF:-1,TOKYO HOT
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6572
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6572
 #EXTINF:-1,WANZ
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6611
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6611
 #EXTINF:-1,TUSHY
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6615
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6615
 #EXTINF:-1,LEGAL PORNO
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6573
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6573
 #EXTINF:-1,PENTHOUSE
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/71118
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/71118
 #EXTINF:-1,1 HD XXX
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6697
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6697
 #EXTINF:-1,2 HD XXX
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6696
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6696
 #EXTINF:-1,3 HD XXX
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6695
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6695
 #EXTINF:-1,4 HD XXX
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6694
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6694
 #EXTINF:-1,6 HD XXX
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6692
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6692
 #EXTINF:-1,5 HD XXX
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6693
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6693
 #EXTINF:-1,7 HD XXX
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6687
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6687
 #EXTINF:-1,8 HD XXX
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6686
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6686
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey) TV-------------------------
@@ -3069,7 +3061,7 @@ http://59.120.242.104:9000/live/live7.m3u8
 http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3049003136-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1,JAV_ok2_mix--------------------------
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/6612
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/6612
 
 #EXTINF:-1,Ibiza_ok2_80
 http://ok2.se:8000/1xOJoRUzmE/EPBNrDXKOW/72394
@@ -3131,8 +3123,8 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 http://23.111.128.190:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
 
 
-
-
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_carmine1_TEST
+http://46.166.142.124:8000/carmine1/carmine1/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok3.se_TEST--------------------------
 http://ok3.se:8000/cmJzfnTIci/yIhH237vVk/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok3.se_TEST
@@ -3141,18 +3133,25 @@ http://ok3.se:8000/cRaL1gDbla/gNUoKF7fne/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test1
 http://f.ok2.se:8000/Z3UDJ3WG9u/tEqpOCWRci/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test2
-http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/77332
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test3
-http://ok2.se:8000/IssnOUCeh5/8D5bLk6pXD/77332
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test4
 http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test3
+http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test4
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test5
 http://ok2.se:8000/fSCu8i8OGd/JrZU2P55jw/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test6
 http://ok2.se:8000/1xOJoRUzmE/EPBNrDXKOW/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test7
-http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/77332
-
+http://ok2.se:8000/IssnOUCeh5/8D5bLk6pXD/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test8
+http://ok2.se:8000/GHHMSxXmGX/Wyg2NkRqvi/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test9
+http://ok2.se:8000/mvGmPpaHQf/LhgVdQY78Y/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test10
+http://ok2.se:8000/imox5mzXmc/yDFEJvMX43/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test11
+http://ok2.se:8000/WD9mQ0aQTz/H0PzPH4PYt/77332
 
 
 #EXTINF:-1,Shot tv--------------------------
@@ -3215,10 +3214,12 @@ http://92.43.140.249/s65/04.m3u8
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1,CNBC HD_ok2.se:80
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g//364
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/364
 #EXTINF:-1,FOX NEWS BUSINESS
-http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/4600
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/4600
 
+#EXTINF:-1,UK CNBC EU_ok2.se:80_test
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/11266
 
 #EXTINF:-1,CNBC_udp_viet
 http://118.70.82.36:8889/udp/225.1.1.227:30120
@@ -3226,25 +3227,9 @@ http://118.70.82.36:8889/udp/225.1.1.227:30120
 http://14.207.12.25:8000/play/a03n
 
 
-#EXTINF:-1,CNBC Europe/ News (eng)
-http://82.207.194.107:9981/stream/channelid/1632279249
 
-#EXTINF:-1,CNBC HD
-http://46.166.142.124:8000/carmine1/carmine1/364
-#EXTINF:-1,FOX NEWS BUSINESS
-http://46.166.142.124:8000/carmine1/carmine1/4600
-
-#EXTINF:-1,EE. UU. | CNBC
-http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/1011
-#EXTINF:-1,EE. UU. | CNBC World
-http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/1010
-
-#EXTINF:-1,US | CNBC
-http://ss1.slykdns.com:5005/ken123/ken123/5620
-
-#EXTINF:-1,CNBC
-http://185.236.229.12:8002/play/a01y/index.m3u8
-
+#EXTINF:-1,UK CNBC EU
+http://xxultraxx.com:80/gorge/gorge123456/11266
 
 
 
