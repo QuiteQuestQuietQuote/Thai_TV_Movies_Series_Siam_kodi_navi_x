@@ -2563,7 +2563,9 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_ts
 http://122.146.68.116:4046/VideoInput/play.ts
 #EXTINF:-1,SBS Food
-http://1.40.142.232:9981/stream/channelid/445218519
+http://58.96.50.213:9981/stream/channelid/525466423
+#EXTINF:-1,7food network
+http://58.96.50.213:9981/stream/channelid/1430051339
 #EXTINF:-1,Knowledge Network
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
@@ -3048,8 +3050,7 @@ http://185.35.4.37:8087/shalun/ch.m3u8
 http://cdn.adultiptv.net/milf.m3u8
 #EXTINF:-1,adultiptv_teen
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1,patrick_test
-http://quatv2.com:8080/patrick/123456/45243
+
 
 
 
@@ -3328,7 +3329,13 @@ http://ok2.se:8000/gPMFrZyWIy/lwFtYQRj09/77332
 
 #EXTINF:-1,DAVINCILEARNING_ro_test
 http://89.38.8.130:39444
+#EXTINF:-1,DaVinci Learningro_test
+http://188.24.96.32:9981/stream/channelid/35746299
 
+#EXTINF:-1,Da Vinchi Learning/udp
+http://81.22.50.40:1234/udp/230.7.7.117:1234
+#EXTINF:-1,Da Vinci
+http://185.3.16.186:1234/udp/239.1.5.6:1234
 
 #EXTINF:-1,disc_asia_tw_ts
 http://122.146.68.116:4046/VideoInput/play.ts
@@ -3429,8 +3436,10 @@ http://185.21.35.18:4022/udp/239.0.7.69:8608
 #EXTINF:-1,CNBC Europe_ESP
 http://185.21.35.18:4022/udp/239.0.7.69:8208
 
-
-
+#EXTINF:-1,UK : CNBC EU L
+http://xcasting.mine.nu:29321/xcasting/j5W7E5gqkz/76
+#EXTINF:-1,UK HQ : CNBC EU
+http://xcasting.mine.nu:29321/xcasting/j5W7E5gqkz/58
 
 
 
