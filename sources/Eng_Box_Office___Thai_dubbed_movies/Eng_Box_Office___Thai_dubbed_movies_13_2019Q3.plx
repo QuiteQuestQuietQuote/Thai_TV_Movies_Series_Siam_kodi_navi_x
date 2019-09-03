@@ -1238,7 +1238,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-08-10
+date=2019-09-03
 URL=
 
 
@@ -1248,6 +1248,54 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=LEGO DC: Batman - Family Matters (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-
+thumb=
+date=2019-09-03
+URL=https://verystream.com/stream/NNUS7LRvTFt/LEGO.DC.Batman.Family.Matters.2019.1080p.BluRay.x264-AAA.mkv.mp4
+#https://verystream.com/stream/Ucha3cYHc7g/LEGO_DC_Batman_Family_Matters_2019_1080p_BluRay_x264-AAA%5BEtHD%5D.mp4
+#https://verystream.com/stream/TJe9Be5pdaH/LEGO.DC.Batman.Family.Matters.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/NNUS7LRvTFt/LEGO.DC.Batman.Family.Matters.2019.1080p.BluRay.x264-AAA.mkv.mp4
+#https://verystream.com/stream/CbbRqbp2YTe/Lego_DC_Batman_Family_Matters_2019_MULTi_Blu-ray_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=The Intruder (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9xKyetr0ihJ2K6HJMeXzc4IwEv.jpg
+date=2019-09-03
+URL=https://verystream.com/stream/eT5289RXNK4/The.Intruder.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/DRw4GRwho2Z/The.Intruder.2019.1080p.BluRay.x264-DRONES%5BEtHD%5D.mp4
+#https://verystream.com/stream/Lh93eSSDYi5/The.Intruder.2019.1080p.BluRay.x264-DRONES%5BEtHD%5D.mkv.mp4
+#https://verystream.com/stream/iZZFqVbCBsS/The_Intruder_2019_MULTi_Blu-ray_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/Ups7jNJbJrB/The_Intruder_2019_MULTi_Blu-ray_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/YkJsJiMhcSD/The.Intruder.2019.1080p.BluRay.x264-YTS.LT.mp4
+
+type=video
+name=UglyDolls (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p97LQ1TL95mptVL2AS8Rz1cJCQg.jpg
+date=2019-09-03
+URL=https://verystream.com/stream/VU2ZAchZj3m/UglyDolls.2019.1080p.BluRay.x264-GECKOS%5BEtHD%5D.mkv.mp4
+#https://verystream.com/stream/EtJQcYQ1xeV/UglyDolls.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/QzngPmR9gtb/UglyDolls.2019.1080p.BluRay.x264-GECKOS%5BEtHD%5D.mp4
+#https://verystream.com/stream/VU2ZAchZj3m/UglyDolls.2019.1080p.BluRay.x264-GECKOS%5BEtHD%5D.mkv.mp4
+#https://verystream.com/stream/EFW7BgCwm4q/UglyDolls.2019.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://verystream.com/stream/67HLyY96bk2/UglyDolls.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://verystream.com/stream/ioi7M8zCByk/UglyDolls_2019_BluRay_1080p_DTS-HDMA_7_1_HEVC-DDR%5BEtHD%5D.mp4
 
 
 
@@ -1262,6 +1310,7 @@ URL=https://verystream.com/stream/N7r2jAZq2DH/Critters.Attack.2019.1080p.Bluray.
 #https://verystream.com/stream/N7r2jAZq2DH/Critters.Attack.2019.1080p.Bluray.DTS-HD.MA.5.1.x264-EVO.mp4
 #https://verystream.com/stream/cAFSrRQKZ87/Critters_Attack_2019_1080p_BluRay_DTS-HD_MA_5_1-HEVC-DDR%5BEtHD%5D.mp4
 #https://verystream.com/stream/QaAYS7EvY3V/Critters.Attack.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/4z66FAPheHL/Critters.Attack.2019.1080p.BluRay.x264-PFa%5BEtHD%5D.mp4
 
 type=video
 name=Ash Is Purest White (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-68
@@ -8138,8 +8187,11 @@ URL=https://verystream.com/stream/86CZy4AdzXY/PET_SEMATARY_%282019%29_%E0%B8%81%
 type=video
 name=The Curse of La Llorona (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-56
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhZlXSnFUpNiLAek9EkPrtLEWQI.jpg
-date=2019-07-28
-URL=
+date=2019-09-03
+URL=https://verystream.com/stream/PNwpYd4k6SA/The.Curse.of.La.Llorona.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/RQGUD9MYGdi/the_curse_of_la_llorona_2019_1080p_bluray_x264-aaa%5BEtHD%5D.mp4
+#https://verystream.com/stream/j2iirjfJyjJ/The_Curse_Of_La_Llorona_2019_RERiP_1080p_BluRay_x264-AAA%5BEtHD%5D.mp4
+#https://verystream.com/stream/DYdJN6bq32u/The_Curse_Of_La_Llorona_2019_MULTi_Blu-ray_1080p_Atmos_7_1_HEVC-DDR%5BEtHD%5D.mp4
 type=video
 name=The Curse of La Llorona (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhZlXSnFUpNiLAek9EkPrtLEWQI.jpg
@@ -9130,7 +9182,11 @@ URL=
 
 
 
-
+type=video
+name=Shazam! (2019) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR] | TMDB-71
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnopI5Xtky18MPhK40cZAGAOVeV.jpg
+date=2019-09-03
+URL=https://verystream.com/stream/FvgnJhu3Nua/Shazam%21.2019.3D.HSBS.BluRay.x264-%5BYTS.LT%5D.mp4
 
 
 
