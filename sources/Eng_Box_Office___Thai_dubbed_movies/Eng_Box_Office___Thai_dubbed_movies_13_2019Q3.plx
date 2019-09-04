@@ -1238,7 +1238,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-09-03
+date=2019-09-04
 URL=
 
 
@@ -1248,25 +1248,70 @@ URL=
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+type=video
+name=Her Smell (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-55
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEvgdGBMORPS0rz8pqkVH3obLee.jpg
+date=2019-09-04
+URL=https://verystream.com/stream/Pj2imeYNHZB/Her.Smell.2019.1080p.Bluray.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/epR1JVtay33/Her.Smell.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
-name=LEGO DC: Batman - Family Matters (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-
-thumb=
+name=I'll Take Your Dead (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhOtz1wKwXWzhx3Z3IxtvbZFf4o.jpg
+date=2019-09-04
+URL=https://verystream.com/stream/6goU58TsNTD/Ill.Take.Your.Dead.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/4GdQXLs9tgq/Ill.Take.Your.Dead.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/Y89b8DrY8QG/Ill.Take.Your.Dead.2018.1080p.BluRay.x264-YTS.LT.mp4
+
+type=video
+name=Heavy Water The Acid Drop (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-na doc
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFbZrjshNfOcLc14ssHlV28J9oM.jpg
+date=2019-09-04
+URL=https://verystream.com/stream/dR1oUGQUDjp/heavy_water_the_acid_drop_2017_docu_1080p_bluray_x264-getit%5BEtHD%5D.mp4
+
+type=video
+name=Armstrong (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-88 doc
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aEfvjQwruKvQ9K6nPjM8Td6S9J.jpg
+date=2019-09-04
+URL=https://verystream.com/stream/MXNwobVL6K4/armstrong_2019_1080p_bluray_x264-cadaver%5BEtHD%5D.mp4
+#https://verystream.com/stream/JpJWx4eHdVS/Armstrong_2019_Blu-ray_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/gUqDThgFp9/Armstrong.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Music of Silence (2017) [COLOR=FF00FF00]ITA BR 1080p[/COLOR] | TMDB-71
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/btoHPtkDOEkHC27UpSpqzPXVT22.jpg
+date=2019-09-04
+URL=https://verystream.com/stream/jNfvwLWHctP/The.Music.of.Silence.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Looking For Lennon (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-55 doc
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Mg1218HHHonTwDfFVNra8FDqLq.jpg
+date=2019-09-04
+URL=https://verystream.com/stream/F8AsGqWWUVr/Looking_for_Lennon_2018_1080p_BluRay_x264-CAPRiCORN%5BEtHD%5D.mp4
+#https://verystream.com/stream/Boje4HzGQ3f/Looking.for.Lennon.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Domino (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-43
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ExrDZRhhmZkveXMjUzywc6266q.jpg
+date=2019-09-04
+URL=https://verystream.com/stream/Zj7gfSfXBfd/Domino.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/gVhW6tNQ6CZ/Domino.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/fb9BW8Ww6r3/Domino_2019_BluRay_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/42x7NBWoEXV/Domino.2019.1080p.BluRay.x264-YTS.LT.mp4
+
+type=video
+name=El Chicano (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRdbxPbpIbURn6GYjNXstyKSILV.jpg
+date=2019-09-04
+URL=https://verystream.com/stream/VbKupt7qQwY/El_Chicano_2018_BluRay_1080p_DTS-HD_MA_5_1_Hevc-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/KQ9Az25EYbR/el.chicano.2018.1080p.bluray.x264-drones%5BEtHD%5D.mp4
+#https://verystream.com/stream/AJDn3PJfYkM/el.chicano.2018.1080p.bluray.x264-drones%5BEtHD%5D.mkv.mp4
+#https://verystream.com/stream/ZbuZejHcms5/El.Chicano.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/VbKupt7qQwY/El_Chicano_2018_BluRay_1080p_DTS-HD_MA_5_1_Hevc-DDR%5BEtHD%5D.mp4
+
+type=video
+name=LEGO DC: Batman - Family Matters (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rA5bdwbzEAKfvjHRzza6Q3r0otq.jpg
 date=2019-09-03
 URL=https://verystream.com/stream/NNUS7LRvTFt/LEGO.DC.Batman.Family.Matters.2019.1080p.BluRay.x264-AAA.mkv.mp4
 #https://verystream.com/stream/Ucha3cYHc7g/LEGO_DC_Batman_Family_Matters_2019_1080p_BluRay_x264-AAA%5BEtHD%5D.mp4
@@ -1617,13 +1662,16 @@ URL=https://verystream.com/stream/Rsr2jpbzQSM/Ride.2019.1080p.Bluray.1400MB.DD5.
 type=video
 name=Hellboy (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-50
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg
-date=2019-07-19
-URL=https://verystream.com/stream/H5THC2w5Paj/hellboy.2019.1080p.bluray.x264-drones%5BEtHD%5D.mkv.mp4
+date=2019-09-04
+URL=https://verystream.com/stream/9B7Hi8kUCsE/Hellboy.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://verystream.com/stream/H5THC2w5Paj/hellboy.2019.1080p.bluray.x264-drones%5BEtHD%5D.mkv.mp4
 #https://verystream.com/stream/gCjsmeYNCYq/hellboy.2019.1080p.bluray.x264-drones%5BEtHD%5D.mp4
 #https://verystream.com/stream/Tpsw8aHBPDK/Hellboy.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://verystream.com/stream/6jvVAE9ZwFH/Hellboy_2019_1080p_Bluray_X264-EVO%5BEtHD%5D.mp4
 #https://vidoza.net/8la9fcypgi4k.html	hellboy 2019 1080p bluray x264-drones[EtHD]	1728x720
 #https://vidoza.net/h4kpwm36krsy.html	Hellboy 2019 1080p Bluray X264-EVO[EtHD]	1728x720
+#https://verystream.com/stream/6FLCmcHJFKA/Hellboy.2019.1080p.BRRip.x264-MkvCage.Com.mkv.mp4
+#https://verystream.com/stream/9B7Hi8kUCsE/Hellboy.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
 
 
 
@@ -7895,8 +7943,14 @@ URL=
 type=video
 name=Long Shot (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2ttWZ8rMRwIMT7zA48Jo6mTkDS.jpg
-date=2019-08-31
-URL=
+date=2019-09-04
+URL=https://verystream.com/stream/7SvP7dy5JYk/Long.Shot.2019.1080p.BluRay.10bit.HEVC.6CH-MkvCage.mkv.mp4
+#https://verystream.com/stream/PUufNmCqy6p/Long.Shot.2019.1080p.BRRip.x264.6CH-MkvCage.mkv.mp4
+#https://verystream.com/stream/4JwaGHGpNmi/long_shot_2019_1080p_bluray_x264-drones%5BEtHD%5D.mp4
+#https://verystream.com/stream/RTovSAJNGx3/Long.Shot.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/ek919aXHSZJ/Long.Shot.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/bqQVFeMpaA/Long_Shot_2019_MULTi_Blu-ray_1080p_Atmos_7_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/7SvP7dy5JYk/Long.Shot.2019.1080p.BluRay.10bit.HEVC.6CH-MkvCage.mkv.mp4
 type=video
 name=Long Shot (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2ttWZ8rMRwIMT7zA48Jo6mTkDS.jpg

@@ -32,8 +32,7 @@ http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="http://mvtv.co.th/ios/icons/GIF/fivehd_final_140-140.gif",MVTV 5------------------------------
 https://edge1a.v2h-cdn.com/appt3/five.stream_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Free_TV"tvg-logo="https://www.doohdbox.com/assets/201707141414362135901185.jpg",AMARIN TV_origin
-https://amarin-ks7jcc.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=868&x_ark_auth_type=ark-v2&x_ark_expires=1567578573&x_ark_path_prefix=%2Flive%2F&x_ark_signature=ByREExlOgXmcM6AGRRCuQQ
+
 #EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD_vipunlimit
 https://vipunlimit.express-stream.live/bkk1live/pptvhd_720p/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD
@@ -2642,31 +2641,31 @@ http://ok2.se:8000/mvGmPpaHQf/LhgVdQY78Y/9049
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
-http://14.239.56.73:4022/rtp/232.84.2.129:9570
+http://14.167.182.142:4022/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://14.239.56.73:4022/rtp/232.84.2.131:9582
+http://14.167.182.142:4022/rtp/232.84.2.131:9582
 #EXTINF:-1,ASIAN FOOD CHANNEL
-http://14.239.56.73:4022/rtp/232.84.1.115:10236
+http://14.167.182.142:4022/rtp/232.84.1.115:10236
 #EXTINF:-1,DISCOVERY ASIA
-http://14.239.56.73:4022/rtp/232.84.2.53:10528
+http://14.167.182.142:4022/rtp/232.84.2.53:10528
 #EXTINF:-1,DISCOVERY CHANNEL
-http://14.239.56.73:4022/rtp/232.84.1.47:8262
+http://14.167.182.142:4022/rtp/232.84.1.47:8262
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://14.239.56.73:4022/rtp/232.84.1.65:8364
+http://14.167.182.142:4022/rtp/232.84.1.65:8364
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://14.239.56.73:4022/rtp/232.84.1.1:7980
+http://14.167.182.142:4022/rtp/232.84.1.1:7980
 #EXTINF:-1,NAT GEO PEOPLE
-http://14.239.56.73:4022/rtp/232.84.1.67:8376
+http://14.167.182.142:4022/rtp/232.84.1.67:8376
 #EXTINF:-1,NAT GEO PEOPLE HD
-http://14.239.56.73:4022/rtp/232.84.1.76:8430
+http://14.167.182.142:4022/rtp/232.84.1.76:8430
 #EXTINF:-1,Da Vinci Learning
-http://14.239.56.73:4022/rtp/232.84.1.108:10224
+http://14.167.182.142:4022/rtp/232.84.1.108:10224
 #EXTINF:-1,Nat Geo People
-http://14.239.56.73:4022/rtp/232.84.2.121:8376
+http://14.167.182.142:4022/rtp/232.84.2.121:8376
 #EXTINF:-1,DISNEY CHANNEL HD
-http://14.239.56.73:4022/rtp/232.84.2.143:10678
+http://14.167.182.142:4022/rtp/232.84.2.143:10678
 #EXTINF:-1,CNBC
-http://14.239.56.73:4022/rtp/232.84.2.177:10488
+http://14.167.182.142:4022/rtp/232.84.2.177:10488
 
 
 
@@ -3053,6 +3052,10 @@ http://91.194.72.46:10043/play/DorcelHD/index.m3u8
 #EXTINF:-1,WYN
 http://185.35.4.37:8087/shalun/ch.m3u8
 
+#EXTINF:-1,Pinko tv_test_php
+http://m3u8.alwaysdata.net/ip.php?id=39616
+#EXTINF:-1,Venus
+http://m3u8.alwaysdata.net/ip.php?id=39612
 
 #EXTINF:-1,adultiptv_milf
 http://cdn.adultiptv.net/milf.m3u8
@@ -3332,10 +3335,14 @@ http://ok2.se:8000/CL8tFbHR7I/E0I54amX9e/77332
 
 #EXTINF:-1,DAVINCILEARNING_ro_test
 http://89.38.8.130:39444
-#EXTINF:-1,DaVinci Learning_ro_test
-http://188.24.96.32:9981/stream/channelid/35746299
+#EXTINF:-1,|PL| DA VINCI
+http://line.myott.net:80/0uTEK7zl4N/CeJ4wZBLnt/60291
 
 
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
+http://14.167.182.142:4022/rtp/232.84.2.129:9570
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
+http://14.167.182.142:4022/rtp/232.84.2.131:9582
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_tw_ts
 http://122.146.68.116:4046/VideoInput/play.ts
@@ -3345,12 +3352,18 @@ http://89.38.8.130:39481/
 rtmp://58.200.131.2:1935/livetv/discovery
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
 http://211.58.34.230:9981/stream/channelid/1299978861
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_rtmp
+rtmp://118.97.96.17:1935/discover/afc_3
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
 
-#EXTINF:-1,CA: BBC EARTH
-http://ccmedia.one:25461/Rjxzc5rTF/VvqTNCNjOS/59711
-#EXTINF:-1,CA: DOCUMENTARY HD
-http://ccmedia.one:25461/Rjxzc5rTF/VvqTNCNjOS/2629
+#EXTINF:-1,|NL|HEVC| DISCOVERY HD_test
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/10531
+#EXTINF:-1,|NL|HEVC| DISCOVERY WORLD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/15532
+#EXTINF:-1,|NL|HEVC| DISCOVERY SCIENCE HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/10600
 
 
 #EXTINF:-1,Shot tv--------------------------
@@ -3384,6 +3397,8 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/CNA-logo.gif",Channel News Asia
 https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/CNA-logo.gif",Channel News Asia_test
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png",NHK WORLD HD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/j55hDLp.png",France 24 HD (in English) 
@@ -3426,7 +3441,7 @@ http://ok2.se:8000/mvGmPpaHQf/LhgVdQY78Y/4600
 #EXTINF:-1,CNBC_udp_viet
 http://118.70.82.36:8889/udp/225.1.1.227:30120
 #EXTINF:-1,CNBC_rtp_viet
-http://14.239.56.73:4022/rtp/232.84.2.177:10488
+http://14.167.182.142:4022/rtp/232.84.2.177:10488
 #EXTINF:-1,CNBC_th
 http://14.207.2.242:8000/play/a03n
 
@@ -3438,10 +3453,7 @@ http://185.21.35.18:4022/udp/239.0.7.69:8208
 
 
 
-#EXTINF:-1,CNBC HD
-http://46.166.148.163:8000/YjdZdEnnKG/6IK3zKVDL0/76
-#EXTINF:-1,USA:CNBC HD
-http://fut.mine.nu:25461/kir/rellis/2871
+
 
 
 
