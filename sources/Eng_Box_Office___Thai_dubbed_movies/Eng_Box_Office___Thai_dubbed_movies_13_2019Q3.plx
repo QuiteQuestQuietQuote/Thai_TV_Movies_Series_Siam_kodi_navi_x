@@ -1238,13 +1238,94 @@ URL=
 type=video
 name=
 thumb=
-date=2019-09-04
+date=2019-09-05
 URL=
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Poms (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2ksKdmWIoUh3GJfu9oEBLorjAJ.jpg
+date=2019-09-05
+URL=https://verystream.com/stream/gp9uQdAM2HE/Poms_2019_1080p_BluRay_x264-AAA%5BEtHD%5D.mp4
+#https://verystream.com/stream/hAMTvSDv4Gj/Poms.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/3MrsWjNb7SB/Poms.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/799cZqj14o3/Poms_2019_BluRay_1080p_DTS-HD_MA5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/Htrf55uiMtw/Poms.2019.1080p.BluRay.1400MB.DD5.1.x264.mkv.mp4
+
+type=video
+name=Cold Blood (2019) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-55
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGMIxhhMvQEE0mNlATXpEAG4mgl.jpg
+date=2019-09-05
+URL=https://verystream.com/stream/7FcBBdrPcxc/Cold_Blood_Legacy_2019_1080p_BRRip_AC3-EVO%5BEtHD%5D.mp4
+#https://verystream.com/stream/A68WCvYf8qa/Cold.Blood.Legacy.2019.1080p.BluRay.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/XvBytzqUdcY/Cold.Blood.Legacy.2019.1080p.BRRip.X264.AC3-EVO.mkv.mp4
+#https://verystream.com/stream/8P7JoGGH3Th/Cold.Blood.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/dPvc45pgypC/Cold_Blood_2019_Blu-ray_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=The Edge (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-85 doc
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLgn7YiHINOX1iSO473vRHsuRHV.jpg
+date=2019-09-05
+URL=https://verystream.com/stream/PvEnuqwvjEx/the_edge_2019_1080p_bluray_x264-ghouls%5BEtHD%5D.mp4
+#https://verystream.com/stream/X7uTojiRM9v/The.Edge.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/dxo9riV31y9/The_Edge_2019_1080i_BluRay_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=Ray & Liz (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-77
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ld0XmIdvHFuq4bGJIrSsHzAlLKk.jpg
+date=2019-09-05
+URL=https://verystream.com/stream/SZVgfLUAWrz/ray_and_liz_2018_limited_1080p_bluray_x264-cadaver%5BEtHD%5D.mp4
+#https://verystream.com/stream/H8pemYn5y2G/Ray.and.Liz.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Missbehavior (2019) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWkMiD9ebwqm9Yj5A5fvAc3LwdL.jpg
+date=2019-09-05
+URL=https://verystream.com/stream/eHFCioWWa3c/missbehavior_2019_1080p_bluray_x264-rovers%5BEtHD%5D.mp4
+#https://verystream.com/stream/KKpEnsNc1Ei/MissBehavior_2019_CHN_Blu-ray_1080p_TrueHD_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=The Lady Improper (2019) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-49
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D3FkoaiVFeliESKIKHURC4SKzd.jpg
+date=2019-09-05
+URL=https://verystream.com/stream/hJBFnM4NFeD/the_lady_improper_2019_1080p_bluray_x264-rovers%5BEtHD%5D.mp4
+#https://verystream.com/stream/e55yFpMB54H/The.Lady.Improper.2019.CHINESE.1080p.BluRay.H264.AAC-VXT.mp4
+#https://verystream.com/stream/8iQKez2EJdG/The_Lady_Improper_2019_CHN_Blu-ray_1080p_TrueHD_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=Killer Kate! (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-41
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEtY9NtzImWHZavWTQMWub6RYgj.jpg
+date=2019-09-05
+URL=https://verystream.com/stream/9VNchmKLE56/killer_kate_2018_1080p_bluray_x264-getit%5BEtHD%5D.mp4
+#https://verystream.com/stream/VFc1Vdx2Xwn/Killer.Kate.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/bM5AYmuf9eu/Killer.Kate.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/VGsYyCYYE8x/Killer_Kate_2018_MULTi_Blu-ray_1080_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/jQTGQNpHc1f/Killer.Kate.2018.1080p.BluRay.x264-YTS.LT.mp4
+
+type=video
+name=Pimped (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-28
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9BZtHmoNubbRtShnvuNGrN51T3.jpg
+date=2019-09-05
+URL=https://verystream.com/stream/YwfDLnoo2Zf/pimped.2018.1080p.bluray.x264-getit.mkv.mp4
+#https://verystream.com/stream/RE7QuUAgu2E/pimped_2018_1080p_bluray_x264-getit%5BEtHD%5D.mp4
+#https://verystream.com/stream/gumY3rHYZtu/Pimped.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/i2XebdNnSK5/Pimped.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/M5s8H3meqKa/Pimped.2018.720p.BluRay.x264-YTS.LT.mp4
 
 
 
@@ -1308,6 +1389,8 @@ URL=https://verystream.com/stream/VbKupt7qQwY/El_Chicano_2018_BluRay_1080p_DTS-H
 #https://verystream.com/stream/AJDn3PJfYkM/el.chicano.2018.1080p.bluray.x264-drones%5BEtHD%5D.mkv.mp4
 #https://verystream.com/stream/ZbuZejHcms5/El.Chicano.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://verystream.com/stream/VbKupt7qQwY/El_Chicano_2018_BluRay_1080p_DTS-HD_MA_5_1_Hevc-DDR%5BEtHD%5D.mp4
+
+
 
 type=video
 name=LEGO DC: Batman - Family Matters (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
