@@ -3344,10 +3344,13 @@ http://89.187.189.5:80/0NiTyWoAOS/OuruquTObQ/60291
 http://89.187.189.5:80/0NiTyWoAOS/OuruquTObQ/27677
 
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,Asian Food Channel_VN_rtp--------------------------
 http://14.167.182.142:4022/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
 http://14.167.182.142:4022/rtp/232.84.2.131:9582
+
+#EXTINF:-1,ASIAN FOOD CHANNEL_VN_rtp-old
+http://14.239.56.73:4022/rtp/232.84.2.129:9570
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_tw_ts
 http://122.146.68.116:4046/VideoInput/play.ts
