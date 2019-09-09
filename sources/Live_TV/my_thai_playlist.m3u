@@ -85,254 +85,825 @@ http://nationstream.nationgroup.com/hls/th_high.m3u8
 
 
 
-
-
-#EXTINF:-1,BBTV CH7-----------------
-http://14.207.2.242:8000/play/a00m
-#EXTINF:-1,NATION
-http://14.207.2.242:8000/play/a019
-#EXTINF:-1,TNN2
-http://14.207.2.242:8000/play/a01c
-#EXTINF:-1,TNN24
-http://14.207.2.242:8000/play/a013
-#EXTINF:-1,MONEY
-http://14.207.2.242:8000/play/a008
-#EXTINF:-1,CARTOON NETWORK
-http://14.207.2.242:8000/play/a03h
-#EXTINF:-1,3 HD
-http://14.207.2.242:8000/play/a00k
-#EXTINF:-1,THV
-http://14.207.2.242:8000/play/a014
-#EXTINF:-1,ONE
-http://14.207.2.242:8000/play/a00i
-#EXTINF:-1,NBT
-http://14.207.2.242:8000/play/a00x
-#EXTINF:-1,OUTDOOR CHANNEL
-http://14.207.2.242:8000/play/a01y
-#EXTINF:-1,RAMA
-http://14.207.2.242:8000/play/a00q
-#EXTINF:-1,CCTV 4
-http://14.207.2.242:8000/play/a03j
-#EXTINF:-1,MCOT F
-http://14.207.2.242:8000/play/a011
-#EXTINF:-1,INSE
-http://14.207.2.242:8000/play/a00p
-#EXTINF:-1,TPBS
-http://14.207.2.242:8000/play/a00y
-#EXTINF:-1,LOCA
-http://14.207.2.242:8000/play/a012
-#EXTINF:-1,BUDDHA
-http://14.207.2.242:8000/play/a03e
-#EXTINF:-1,3 SD
-http://14.207.2.242:8000/play/a00g
-#EXTINF:-1,RED BY HBO
-http://14.207.2.242:8000/play/a01x
-#EXTINF:-1,BBC WORLD NEWS
-http://14.207.2.242:8000/play/a03l
-#EXTINF:-1,GMM25
-http://14.207.2.242:8000/play/a00d
-#EXTINF:-1,CNBC
-http://14.207.2.242:8000/play/a03n
-#EXTINF:-1,CH8
-http://14.207.2.242:8000/play/a00f
-#EXTINF:-1,BLOOMBERG
-http://14.207.2.242:8000/play/a03m
-#EXTINF:-1,CNN
-http://14.207.2.242:8000/play/a03k
-#EXTINF:-1,TH RATH
-http://14.207.2.242:8000/play/a00j
-#EXTINF:-1,FOX MOVIES
-http://14.207.2.242:8000/play/a036
-#EXTINF:-1,PLOOK
-http://14.207.2.242:8000/play/a00o
-#EXTINF:-1,MONO
-http://14.207.2.242:8000/play/a00h
-#EXTINF:-1,TV5HD1
-http://14.207.2.242:8000/play/a00w
-#EXTINF:-1,VOICE
-http://14.207.2.242:8000/play/a018
-#EXTINF:-1,BRIGHT
-http://14.207.2.242:8000/play/a017
-#EXTINF:-1,FOX FAMILY MOVIES
-http://14.207.2.242:8000/play/a03o
-#EXTINF:-1,PPTV
-http://14.207.2.242:8000/play/a00n
-#EXTINF:-1,WP TV
-http://14.207.2.242:8000/play/a01a
-#EXTINF:-1,NEW TV
-http://14.207.2.242:8000/play/a015
-#EXTINF:-1,ETV
-http://14.207.2.242:8000/play/a00s
-#EXTINF:-1,AMARIN
-http://14.207.2.242:8000/play/a00l
-#EXTINF:-1,3FAM
-http://14.207.2.242:8000/play/a010
-#EXTINF:-1,NOW
-http://14.207.2.242:8000/play/a00e
-#EXTINF:-1,SP NEWS
-http://14.207.2.242:8000/play/a016
-#EXTINF:-1,TPTV
-http://14.207.2.242:8000/play/a00z
-#EXTINF:-1,MCOT HD
-http://14.207.2.242:8000/play/a02v
-#EXTINF:-1,TGN
-http://14.207.2.242:8000/play/a005
-
-
-
-#EXTINF:-1,9MCOT HD--------------------
-http://223.204.65.140:9981/stream/channelid/1060445606
+#EXTINF:-1,9MCOT HD
+http://49.49.27.183:9981/stream/channelid/1060445606
 #EXTINF:-1,MCOT Kids
-http://223.204.65.140:9981/stream/channelid/86811320
+http://49.49.27.183:9981/stream/channelid/86811320
 #EXTINF:-1,NBT HD
-http://223.204.65.140:9981/stream/channelid/795392942
+http://49.49.27.183:9981/stream/channelid/795392942
 #EXTINF:-1,NBT-NORTH
-http://223.204.65.140:9981/stream/channelid/646058817
+http://49.49.27.183:9981/stream/channelid/646058817
 #EXTINF:-1,Spring News
-http://223.204.65.140:9981/stream/channelid/155521935
+http://49.49.27.183:9981/stream/channelid/155521935
 #EXTINF:-1,Thairath TV
-http://223.204.65.140:9981/stream/channelid/995014623
+http://49.49.27.183:9981/stream/channelid/995014623
 #EXTINF:-1,TPTV
-http://223.204.65.140:9981/stream/channelid/372674317
+http://49.49.27.183:9981/stream/channelid/372674317
 #EXTINF:-1,Voice TV
-http://223.204.65.140:9981/stream/channelid/677756271
+http://49.49.27.183:9981/stream/channelid/677756271
 #EXTINF:-1,TV5 HD1
-http://223.204.65.140:9981/stream/channelid/980474830
+http://49.49.27.183:9981/stream/channelid/980474830
 #EXTINF:-1,THAIPBS HD
-http://223.204.65.140:9981/stream/channelid/871431431
+http://49.49.27.183:9981/stream/channelid/871431431
 #EXTINF:-1,3 Family
-http://223.204.65.140:9981/stream/channelid/569263696
+http://49.49.27.183:9981/stream/channelid/569263696
 #EXTINF:-1,TNN24
-http://223.204.65.140:9981/stream/channelid/177119435
+http://49.49.27.183:9981/stream/channelid/177119435
 #EXTINF:-1,NEW 18
-http://223.204.65.140:9981/stream/channelid/422996975
+http://49.49.27.183:9981/stream/channelid/422996975
 #EXTINF:-1,Nation TV
-http://223.204.65.140:9981/stream/channelid/372285311
+http://49.49.27.183:9981/stream/channelid/372285311
 #EXTINF:-1,Workpoint TV
-http://223.204.65.140:9981/stream/channelid/1561257707
+http://49.49.27.183:9981/stream/channelid/1561257707
 #EXTINF:-1,True4U
-http://223.204.65.140:9981/stream/channelid/1386247318
+http://49.49.27.183:9981/stream/channelid/1386247318
 #EXTINF:-1,GMM25
-http://223.204.65.140:9981/stream/channelid/943137092
+http://49.49.27.183:9981/stream/channelid/943137092
 #EXTINF:-1,CH8
-http://223.204.65.140:9981/stream/channelid/1575078783
+http://49.49.27.183:9981/stream/channelid/1575078783
 #EXTINF:-1,3 SD
-http://223.204.65.140:9981/stream/channelid/1473294847
+http://49.49.27.183:9981/stream/channelid/1473294847
 #EXTINF:-1,MONO29
-http://223.204.65.140:9981/stream/channelid/459267201
+http://49.49.27.183:9981/stream/channelid/459267201
 #EXTINF:-1,ONE HD
-http://223.204.65.140:9981/stream/channelid/1532874363
+http://49.49.27.183:9981/stream/channelid/1532874363
 #EXTINF:-1,3 HD
-http://223.204.65.140:9981/stream/channelid/88411625
+http://49.49.27.183:9981/stream/channelid/88411625
 #EXTINF:-1,Amarin TV HD
-http://223.204.65.140:9981/stream/channelid/1851140792
+http://49.49.27.183:9981/stream/channelid/1851140792
 #EXTINF:-1,CH7 HD
-http://223.204.65.140:9981/stream/channelid/365487948
+http://49.49.27.183:9981/stream/channelid/365487948
 #EXTINF:-1,PPTV HD
-http://223.204.65.140:9981/stream/channelid/438018177
+http://49.49.27.183:9981/stream/channelid/438018177
 #EXTINF:-1,Live 1
-http://223.204.65.140:9981/stream/channelid/429285255
+http://49.49.27.183:9981/stream/channelid/429285255
 #EXTINF:-1,Live 2
-http://223.204.65.140:9981/stream/channelid/1490851876
+http://49.49.27.183:9981/stream/channelid/1490851876
 #EXTINF:-1,Live 3
-http://223.204.65.140:9981/stream/channelid/1817460355
+http://49.49.27.183:9981/stream/channelid/1817460355
 #EXTINF:-1, World
-http://223.204.65.140:9981/stream/channelid/473106758
+http://49.49.27.183:9981/stream/channelid/473106758
 #EXTINF:-1, Asia
-http://223.204.65.140:9981/stream/channelid/1754998464
+http://49.49.27.183:9981/stream/channelid/1754998464
 #EXTINF:-1, 1
-http://223.204.65.140:9981/stream/channelid/1842973481
+http://49.49.27.183:9981/stream/channelid/1842973481
 #EXTINF:-1, 2
-http://223.204.65.140:9981/stream/channelid/1954322827
+http://49.49.27.183:9981/stream/channelid/1954322827
 #EXTINF:-1, 3
-http://223.204.65.140:9981/stream/channelid/2016089705
+http://49.49.27.183:9981/stream/channelid/2016089705
 #EXTINF:-1, 4
-http://223.204.65.140:9981/stream/channelid/1084883744
-#EXTINF:-1,CSAT  HD
-http://223.204.65.140:9981/stream/channelid/2010374927
+http://49.49.27.183:9981/stream/channelid/1084883744
+#EXTINF:-1,CSAT north HD
+http://49.49.27.183:9981/stream/channelid/2010374927
 #EXTINF:-1,Movie Sat Asia HD
-http://223.204.65.140:9981/stream/channelid/395638614
+http://49.49.27.183:9981/stream/channelid/395638614
 #EXTINF:-1,FOX Life
-http://223.204.65.140:9981/stream/channelid/189973455
-#EXTINF:-1,FOX thai
-http://223.204.65.140:9981/stream/channelid/2068748036
+http://49.49.27.183:9981/stream/channelid/189973455
+#EXTINF:-1,FOX th
+http://49.49.27.183:9981/stream/channelid/2068748036
 #EXTINF:-1,FX
-http://223.204.65.140:9981/stream/channelid/1366429738
+http://49.49.27.183:9981/stream/channelid/1366429738
 #EXTINF:-1,FOX Family Movies
-http://223.204.65.140:9981/stream/channelid/107821013
+http://49.49.27.183:9981/stream/channelid/107821013
 #EXTINF:-1,Star Chinese
-http://223.204.65.140:9981/stream/channelid/2073852658
+http://49.49.27.183:9981/stream/channelid/2073852658
 #EXTINF:-1,FOX Sport
-http://223.204.65.140:9981/stream/channelid/763832141
+http://49.49.27.183:9981/stream/channelid/763832141
 #EXTINF:-1,FOX Sport 2
-http://223.204.65.140:9981/stream/channelid/693397149
+http://49.49.27.183:9981/stream/channelid/693397149
 #EXTINF:-1,FOX Sport 3
-http://223.204.65.140:9981/stream/channelid/689070919
+http://49.49.27.183:9981/stream/channelid/689070919
 #EXTINF:-1,T Sport
-http://223.204.65.140:9981/stream/channelid/1019469552
+http://49.49.27.183:9981/stream/channelid/1019469552
 #EXTINF:-1,FOX News
-http://223.204.65.140:9981/stream/channelid/1035005726
+http://49.49.27.183:9981/stream/channelid/1035005726
 #EXTINF:-1,Al Jazeera
-http://223.204.65.140:9981/stream/channelid/675525374
+http://49.49.27.183:9981/stream/channelid/675525374
 #EXTINF:-1,France24
-http://223.204.65.140:9981/stream/channelid/769433876
+http://49.49.27.183:9981/stream/channelid/769433876
 #EXTINF:-1,Russia Today
-http://223.204.65.140:9981/stream/channelid/681423701
+http://49.49.27.183:9981/stream/channelid/681423701
 #EXTINF:-1,Channel New Asia
-http://223.204.65.140:9981/stream/channelid/468187106
+http://49.49.27.183:9981/stream/channelid/468187106
 #EXTINF:-1,DW
-http://223.204.65.140:9981/stream/channelid/1419989468
+http://49.49.27.183:9981/stream/channelid/1419989468
 #EXTINF:-1,TV5
-http://223.204.65.140:9981/stream/channelid/505588105
+http://49.49.27.183:9981/stream/channelid/505588105
 #EXTINF:-1,NHK World Japan
-http://223.204.65.140:9981/stream/channelid/732650588
+http://49.49.27.183:9981/stream/channelid/732650588
 #EXTINF:-1,CCTV 4
-http://223.204.65.140:9981/stream/channelid/1102202806
+http://49.49.27.183:9981/stream/channelid/1102202806
 #EXTINF:-1,Arirang
-http://223.204.65.140:9981/stream/channelid/974996492
+http://49.49.27.183:9981/stream/channelid/974996492
 #EXTINF:-1,News 1
-http://223.204.65.140:9981/stream/channelid/336919805
-#EXTINF:-1,farwanmai
-http://223.204.65.140:9981/stream/channelid/615374481
+http://49.49.27.183:9981/stream/channelid/336919805
+#EXTINF:-1,fawonmai
+http://49.49.27.183:9981/stream/channelid/615374481
 #EXTINF:-1,PEACE TV
-http://223.204.65.140:9981/stream/channelid/576004322
+http://49.49.27.183:9981/stream/channelid/576004322
 #EXTINF:-1,Nat Geo Wild
-http://223.204.65.140:9981/stream/channelid/1658814226
+http://49.49.27.183:9981/stream/channelid/1658814226
 #EXTINF:-1,View World HD
-http://223.204.65.140:9981/stream/channelid/60800324
+http://49.49.27.183:9981/stream/channelid/60800324
 #EXTINF:-1,World Story
-http://223.204.65.140:9981/stream/channelid/802643097
+http://49.49.27.183:9981/stream/channelid/802643097
 #EXTINF:-1,Channel V
-http://223.204.65.140:9981/stream/channelid/1188773680
+http://49.49.27.183:9981/stream/channelid/1188773680
 #EXTINF:-1,FAN TV
-http://223.204.65.140:9981/stream/channelid/720596263
-#EXTINF:-1,sabaidee
-http://223.204.65.140:9981/stream/channelid/1748114799
+http://49.49.27.183:9981/stream/channelid/720596263
+#EXTINF:-1,sabuydee
+http://49.49.27.183:9981/stream/channelid/1748114799
 #EXTINF:-1,M Channel
-http://223.204.65.140:9981/stream/channelid/434437755
+http://49.49.27.183:9981/stream/channelid/434437755
 #EXTINF:-1,MONO Plus
-http://223.204.65.140:9981/stream/channelid/207622520
-#EXTINF:-1,ZEE nung
-http://223.204.65.140:9981/stream/channelid/896898572
-#EXTINF:-1,Fashion HD
-http://223.204.65.140:9981/stream/channelid/1548636434
+http://49.49.27.183:9981/stream/channelid/207622520
+#EXTINF:-1,ZEE 
+http://49.49.27.183:9981/stream/channelid/896898572
+#EXTINF:-1,Voice TV
+http://49.49.27.183:9981/stream/channelid/1548636434
 #EXTINF:-1,Boomerang
-http://223.204.65.140:9981/stream/channelid/607024372
+http://49.49.27.183:9981/stream/channelid/607024372
 #EXTINF:-1,Cartoon Club
-http://223.204.65.140:9981/stream/channelid/1353713657
+http://49.49.27.183:9981/stream/channelid/1353713657
 #EXTINF:-1,Ani+ HD
-http://223.204.65.140:9981/stream/channelid/301017465
+http://49.49.27.183:9981/stream/channelid/301017465
 #EXTINF:-1,KitKids HD
-http://223.204.65.140:9981/stream/channelid/434569499
+http://49.49.27.183:9981/stream/channelid/434569499
 #EXTINF:-1,ABC
-http://223.204.65.140:9981/stream/channelid/409262231
+http://49.49.27.183:9981/stream/channelid/409262231
 
 
 
+#EXTINF:-1,#V Sports---------------------------
+http://aaa:123@221.127.10.70:9981/stream/channelid/1804319378
+#EXTINF:-1,10
+http://aaa:123@221.127.10.70:9981/stream/channelid/2100560157
+#EXTINF:-1,10 BOLD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1524664352
+#EXTINF:-1,10 BOLD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1909322024
+#EXTINF:-1,10 HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1084355770
+#EXTINF:-1,10 Peach
+http://aaa:123@221.127.10.70:9981/stream/channelid/40228190
+#EXTINF:-1,112
+http://aaa:123@221.127.10.70:9981/stream/channelid/2103745663
+#EXTINF:-1,113
+http://aaa:123@221.127.10.70:9981/stream/channelid/1266558927
+#EXTINF:-1,114
+http://aaa:123@221.127.10.70:9981/stream/channelid/533383632
+#EXTINF:-1,123 TV HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/965508876
+#EXTINF:-1,134
+http://aaa:123@221.127.10.70:9981/stream/channelid/1703900086
+#EXTINF:-1,135
+http://aaa:123@221.127.10.70:9981/stream/channelid/799966540
+#EXTINF:-1,144
+http://aaa:123@221.127.10.70:9981/stream/channelid/1531567398
+#EXTINF:-1,172
+http://aaa:123@221.127.10.70:9981/stream/channelid/812610841
+#EXTINF:-1,173
+http://aaa:123@221.127.10.70:9981/stream/channelid/1251457543
+#EXTINF:-1,174
+http://aaa:123@221.127.10.70:9981/stream/channelid/2117115280
+#EXTINF:-1,197
+http://aaa:123@221.127.10.70:9981/stream/channelid/1752294503
+#EXTINF:-1,223
+http://aaa:123@221.127.10.70:9981/stream/channelid/1335292453
+#EXTINF:-1,228
+http://aaa:123@221.127.10.70:9981/stream/channelid/8641812
+#EXTINF:-1,231
+http://aaa:123@221.127.10.70:9981/stream/channelid/1391743503
+#EXTINF:-1,26
+http://aaa:123@221.127.10.70:9981/stream/channelid/973332622
+#EXTINF:-1,27 [CHN]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1259769153
+#EXTINF:-1,29
+http://aaa:123@221.127.10.70:9981/stream/channelid/416888452
+#EXTINF:-1,3
+http://aaa:123@221.127.10.70:9981/stream/channelid/1191763297
+#EXTINF:-1,3 Family [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/656490808
+#EXTINF:-1,3 HD [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/561504381
+#EXTINF:-1,3 SD [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/753274863
+#EXTINF:-1,36
+http://aaa:123@221.127.10.70:9981/stream/channelid/1084506902
+#EXTINF:-1,37
+http://aaa:123@221.127.10.70:9981/stream/channelid/1068482017
+#EXTINF:-1,3ABN
+http://aaa:123@221.127.10.70:9981/stream/channelid/1253438436
+#EXTINF:-1,43
+http://aaa:123@221.127.10.70:9981/stream/channelid/3346034
+#EXTINF:-1,44
+http://aaa:123@221.127.10.70:9981/stream/channelid/248530339
+#EXTINF:-1,48
+http://aaa:123@221.127.10.70:9981/stream/channelid/245524001
+#EXTINF:-1,5 SELECT
+http://aaa:123@221.127.10.70:9981/stream/channelid/901861085
+#EXTINF:-1,5 SPIKE
+http://aaa:123@221.127.10.70:9981/stream/channelid/1924759917
+#EXTINF:-1,5 SPIKE +1
+http://aaa:123@221.127.10.70:9981/stream/channelid/113401445
+#EXTINF:-1,5 STAR
+http://aaa:123@221.127.10.70:9981/stream/channelid/890735349
+#EXTINF:-1,5 STAR +1
+http://aaa:123@221.127.10.70:9981/stream/channelid/236354070
+#EXTINF:-1,5 USA
+http://aaa:123@221.127.10.70:9981/stream/channelid/552881191
+#EXTINF:-1,5 USA +1
+http://aaa:123@221.127.10.70:9981/stream/channelid/64213955
+#EXTINF:-1,56
+http://aaa:123@221.127.10.70:9981/stream/channelid/387538526
+#EXTINF:-1,64
+http://aaa:123@221.127.10.70:9981/stream/channelid/1315895059
+#EXTINF:-1,7 Melbourne
+http://aaa:123@221.127.10.70:9981/stream/channelid/835226299
+#EXTINF:-1,7 Melbourne
+http://aaa:123@221.127.10.70:9981/stream/channelid/1215534611
+#EXTINF:-1,7flix Melbourne
+http://aaa:123@221.127.10.70:9981/stream/channelid/831439406
+#EXTINF:-1,7food network
+http://aaa:123@221.127.10.70:9981/stream/channelid/1992507405
+#EXTINF:-1,7HD Melbourne
+http://aaa:123@221.127.10.70:9981/stream/channelid/45367923
+#EXTINF:-1,7mate Melbourne
+http://aaa:123@221.127.10.70:9981/stream/channelid/532633097
+#EXTINF:-1,7TWO Melbourne
+http://aaa:123@221.127.10.70:9981/stream/channelid/1299746259
+#EXTINF:-1,9Gem HD Melbourne
+http://aaa:123@221.127.10.70:9981/stream/channelid/23411302
+#EXTINF:-1,9Gem Melbourne
+http://aaa:123@221.127.10.70:9981/stream/channelid/160550393
+#EXTINF:-1,9Go! Melbourne
+http://aaa:123@221.127.10.70:9981/stream/channelid/389661993
+#EXTINF:-1,9Go! Melbourne
+http://aaa:123@221.127.10.70:9981/stream/channelid/900317368
+#EXTINF:-1,9Life Melbourne
+http://aaa:123@221.127.10.70:9981/stream/channelid/1846856082
+#EXTINF:-1,9MCOT HD [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/985683593
+#EXTINF:-1,9XM [IND]
+http://aaa:123@221.127.10.70:9981/stream/channelid/890313392
+#EXTINF:-1,???? ???
+http://aaa:123@221.127.10.70:9981/stream/channelid/1985954893
+#EXTINF:-1,ABC
+http://aaa:123@221.127.10.70:9981/stream/channelid/1386187851
+#EXTINF:-1,ABC
+http://aaa:123@221.127.10.70:9981/stream/channelid/1756033269
+#EXTINF:-1,ABC [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1612731938
+#EXTINF:-1,ABC HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1270608094
+#EXTINF:-1,ABC ME
+http://aaa:123@221.127.10.70:9981/stream/channelid/1262799063
+#EXTINF:-1,ABCComedy/Kids
+http://aaa:123@221.127.10.70:9981/stream/channelid/1085575308
+#EXTINF:-1,ABN TV
+http://aaa:123@221.127.10.70:9981/stream/channelid/1060405521
+#EXTINF:-1,AFC [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1293608741
+#EXTINF:-1,AGRICULTURE/FOREST CHANNEL [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/220949918
+#EXTINF:-1,AHLULBAYT
+http://aaa:123@221.127.10.70:9981/stream/channelid/582456244
+#EXTINF:-1,Al Jazeera [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1514969242
+#EXTINF:-1,ALT
+http://aaa:123@221.127.10.70:9981/stream/channelid/1706267946
+#EXTINF:-1,Ani+ HD [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1367718656
+#EXTINF:-1,ANIMAL PLANET [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1469722744
+#EXTINF:-1,ANIMAX [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/262483650
+#EXTINF:-1,ANIXE
+http://aaa:123@221.127.10.70:9981/stream/channelid/620447913
+#EXTINF:-1,Arirang [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/748493538
+#EXTINF:-1,ARIRANG [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1494754975
+#EXTINF:-1,ARIRANG KOREA
+http://aaa:123@221.127.10.70:9981/stream/channelid/426137582
+#EXTINF:-1,ASIAN MOVIES [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1314524867
+#EXTINF:-1,ASTRO TV
+http://aaa:123@221.127.10.70:9981/stream/channelid/1241649233
+#EXTINF:-1,AXN [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1190041277
+#EXTINF:-1,B4U MUSIC
+http://aaa:123@221.127.10.70:9981/stream/channelid/1751043054
+#EXTINF:-1,BABY TV
+http://aaa:123@221.127.10.70:9981/stream/channelid/392643684
+#EXTINF:-1,BABY TV [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/234178242
+#EXTINF:-1,Band sports tv
+http://aaa:123@221.127.10.70:9981/stream/channelid/1594642532
+#EXTINF:-1,BBC
+http://aaa:123@221.127.10.70:9981/stream/channelid/26925502
+#EXTINF:-1,BBC
+http://aaa:123@221.127.10.70:9981/stream/channelid/45880905
+#EXTINF:-1,BBC
+http://aaa:123@221.127.10.70:9981/stream/channelid/1238208719
+#EXTINF:-1,BBC EARTH [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1871941800
+#EXTINF:-1,BBC ONE
+http://aaa:123@221.127.10.70:9981/stream/channelid/462020356
+#EXTINF:-1,BBC WORLD NEWS [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/706708431
+#EXTINF:-1, 1
+http://aaa:123@221.127.10.70:9981/stream/channelid/161100711
+#EXTINF:-1, 1 HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/549631466
+#EXTINF:-1, 10
+http://aaa:123@221.127.10.70:9981/stream/channelid/275135310
+#EXTINF:-1, 11
+http://aaa:123@221.127.10.70:9981/stream/channelid/98097393
+#EXTINF:-1, 12
+http://aaa:123@221.127.10.70:9981/stream/channelid/615620295
+#EXTINF:-1, 13
+http://aaa:123@221.127.10.70:9981/stream/channelid/1344496766
+#EXTINF:-1, 2
+http://aaa:123@221.127.10.70:9981/stream/channelid/678975257
+#EXTINF:-1, 2 HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1036893124
+#EXTINF:-1, 3
+http://aaa:123@221.127.10.70:9981/stream/channelid/450695742
+#EXTINF:-1, 4
+http://aaa:123@221.127.10.70:9981/stream/channelid/778416544
+#EXTINF:-1, 5
+http://aaa:123@221.127.10.70:9981/stream/channelid/2032719266
+#EXTINF:-1, 6
+http://aaa:123@221.127.10.70:9981/stream/channelid/647530921
+#EXTINF:-1, 7
+http://aaa:123@221.127.10.70:9981/stream/channelid/557846083
+#EXTINF:-1, 8
+http://aaa:123@221.127.10.70:9981/stream/channelid/636326018
+#EXTINF:-1, 9
+http://aaa:123@221.127.10.70:9981/stream/channelid/2034967599
+#EXTINF:-1, MOVIES 1 HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/206115798
+#EXTINF:-1, MOVIES 2 HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1701567362
+#EXTINF:-1, MOVIES 3 HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/583940459
+#EXTINF:-1, MOVIES 4 HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1834558772
+#EXTINF:-1, Sports Max 4
+http://aaa:123@221.127.10.70:9981/stream/channelid/1085974054
+#EXTINF:-1, Sports Max 5
+http://aaa:123@221.127.10.70:9981/stream/channelid/1940181785
+#EXTINF:-1, Sports Max 6
+http://aaa:123@221.127.10.70:9981/stream/channelid/1584800437
+#EXTINF:-1, Sports Max 7
+http://aaa:123@221.127.10.70:9981/stream/channelid/567502334
+#EXTINF:-1, Sports Max 8
+http://aaa:123@221.127.10.70:9981/stream/channelid/775688162
+#EXTINF:-1, Sports Max 9
+http://aaa:123@221.127.10.70:9981/stream/channelid/1337596888
+#EXTINF:-1, SPORTS 1 HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/399163783
+#EXTINF:-1, SPORTS 3 HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1083499536
+#EXTINF:-1,BEN
+http://aaa:123@221.127.10.70:9981/stream/channelid/2093990809
+#EXTINF:-1,BETHER
+http://aaa:123@221.127.10.70:9981/stream/channelid/1665176996
+#EXTINF:-1,BLAZE
+http://aaa:123@221.127.10.70:9981/stream/channelid/1438352700
+#EXTINF:-1,BLOOMBERG [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/111536923
+#EXTINF:-1,BOOMERANG
+http://aaa:123@221.127.10.70:9981/stream/channelid/1258888129
+#EXTINF:-1,Boomerang [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/613386463
+#EXTINF:-1,BOOMERANG [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/2117717096
+#EXTINF:-1,brt sprort HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/63016018
+#EXTINF:-1, SPORT 1 FULLHD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1881709315
+#EXTINF:-1, SPORT 1 HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/399779309
+#EXTINF:-1, SPORT 2 FULLHD
+http://aaa:123@221.127.10.70:9981/stream/channelid/44400745
+#EXTINF:-1, SPORT 2 HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1264890154
+#EXTINF:-1, SPORT 3 FULLHD
+http://aaa:123@221.127.10.70:9981/stream/channelid/721211414
+#EXTINF:-1, SPORT 3 SD
+http://aaa:123@221.127.10.70:9981/stream/channelid/2070852665
+#EXTINF:-1, SPORT EXTRA
+http://aaa:123@221.127.10.70:9981/stream/channelid/735994802
+#EXTINF:-1, SPORT EXTRA 1
+http://aaa:123@221.127.10.70:9981/stream/channelid/1097364928
+#EXTINF:-1, SPORT EXTRA 4
+http://aaa:123@221.127.10.70:9981/stream/channelid/521296976
+#EXTINF:-1, SPORT EXTRA 5
+http://aaa:123@221.127.10.70:9981/stream/channelid/1092163175
+#EXTINF:-1, SPORTS EXTRA 2 HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1204171847
+#EXTINF:-1,V
+http://aaa:123@221.127.10.70:9981/stream/channelid/366760214
+#EXTINF:-1,BUDDHA [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1474589121
+#EXTINF:-1,C
+http://aaa:123@221.127.10.70:9981/stream/channelid/983442822
+#EXTINF:-1,C Star Hits
+http://aaa:123@221.127.10.70:9981/stream/channelid/1157799840
+#EXTINF:-1,Satellite TV
+http://aaa:123@221.127.10.70:9981/stream/channelid/146796621
+#EXTINF:-1,Cartoon Club [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1415814805
+#EXTINF:-1,CARTOONITO
+http://aaa:123@221.127.10.70:9981/stream/channelid/508134085
+#EXTINF:-1,CCTV 4 [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/433137588
+#EXTINF:-1,CCTV 4 [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/486664326
+#EXTINF:-1,CCTV 5
+http://aaa:123@221.127.10.70:9981/stream/channelid/1144400828
+#EXTINF:-1,CCTV SPORTS
+http://aaa:123@221.127.10.70:9981/stream/channelid/103256330
+#EXTINF:-1,CGTN [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/851141695
+#EXTINF:-1,CGTN DOCUMENTARY [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/2005889095
+#EXTINF:-1,CH 4
+http://aaa:123@221.127.10.70:9981/stream/channelid/2093875400
+#EXTINF:-1,CH SPORTS
+http://aaa:123@221.127.10.70:9981/stream/channelid/1845276991
+#EXTINF:-1,CH SPORTS HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/261226509
 
 
-
-
+#EXTINF:-1,CH-V [KP]------------------------
+http://aaa:123@221.127.10.70:9981/stream/channelid/933972691
+#EXTINF:-1,CH8 [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/578811098
+#EXTINF:-1,CHANNEL 2
+http://aaa:123@221.127.10.70:9981/stream/channelid/1614187700
+#EXTINF:-1,CHANNEL 9 [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/234714697
+#EXTINF:-1,Channel 9 Melbourne
+http://aaa:123@221.127.10.70:9981/stream/channelid/96598164
+#EXTINF:-1,Channel 9 Melbourne
+http://aaa:123@221.127.10.70:9981/stream/channelid/1606531528
+#EXTINF:-1,Channel New Asia [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/526152396
+#EXTINF:-1,CHANNEL NEWSASIA [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1849501135
+#EXTINF:-1,CHANNEL ONE [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1680861633
+#EXTINF:-1,Channel V [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/82596190
+#EXTINF:-1,CINEMAX HD [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/748193679
+#EXTINF:-1,CN
+http://aaa:123@221.127.10.70:9981/stream/channelid/189704766
+#EXTINF:-1,CNBC
+http://aaa:123@221.127.10.70:9981/stream/channelid/753896937
+#EXTINF:-1,CNC TV [Cambodia]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1511067212
+#EXTINF:-1,CNN
+http://aaa:123@221.127.10.70:9981/stream/channelid/780621932
+#EXTINF:-1,CNN [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1749450329
+#EXTINF:-1,COMBATE
+http://aaa:123@221.127.10.70:9981/stream/channelid/238923547
+#EXTINF:-1,COMEDY CENTRAL [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/818742718
+#EXTINF:-1,CRIME +
+http://aaa:123@221.127.10.70:9981/stream/channelid/865819488
+#EXTINF:-1,CSAT north HD [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/2114206197
+#EXTINF:-1,CTN TV [Cambodia]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1432402138
+#EXTINF:-1,DELUXE MUSIC HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1842030348
+#EXTINF:-1,DISCOVERY ASIA HD [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/355850526
+#EXTINF:-1,DISCOVERY CHANNEL [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1372140668
+#EXTINF:-1,DISCOVERY SCIENCE
+http://aaa:123@221.127.10.70:9981/stream/channelid/459143136
+#EXTINF:-1,DISNEY CHANNEL HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1252753523
+#EXTINF:-1,DISNEY CHANNELS
+http://aaa:123@221.127.10.70:9981/stream/channelid/1574366060
+#EXTINF:-1,DISNEY JUNIOR
+http://aaa:123@221.127.10.70:9981/stream/channelid/1275792230
+#EXTINF:-1,Disney Junior [IND]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1377323198
+#EXTINF:-1,DMAX
+http://aaa:123@221.127.10.70:9981/stream/channelid/979051906
+#EXTINF:-1,Double J
+http://aaa:123@221.127.10.70:9981/stream/channelid/1643700733
+#EXTINF:-1,DW [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/278565895
+#EXTINF:-1,E CHANNEL
+http://aaa:123@221.127.10.70:9981/stream/channelid/1065119990
+#EXTINF:-1,E1
+http://aaa:123@221.127.10.70:9981/stream/channelid/503420506
+#EXTINF:-1,EDGE SPORT [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/795534928
+#EXTINF:-1,EGG NETWORK [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1473739832
+#EXTINF:-1,Eleven Sports 1 HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/830288193
+#EXTINF:-1,Eleven Sports 1 SD
+http://aaa:123@221.127.10.70:9981/stream/channelid/72003977
+#EXTINF:-1,Eleven Sports 2 HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/318131931
+#EXTINF:-1,Eleven Sports 2 SD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1643696354
+#EXTINF:-1,Eleven Sports 3 HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1720315411
+#EXTINF:-1,ETV [IND]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1420173635
+#EXTINF:-1,ETV Plus [IND]
+http://aaa:123@221.127.10.70:9981/stream/channelid/412497237
+#EXTINF:-1,EuroSport 2 HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1835110152
+#EXTINF:-1,EUROSPORT [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1118300317
+#EXTINF:-1,EWTN
+http://aaa:123@221.127.10.70:9981/stream/channelid/1239774198
+#EXTINF:-1,FAN TV [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/531166194
+#EXTINF:-1,Fashion HD [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1819330293
+#EXTINF:-1,FASHION ONE [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1604998850
+#EXTINF:-1,FI
+http://aaa:123@221.127.10.70:9981/stream/channelid/1954488347
+#EXTINF:-1,Fight Box HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/123935952
+#EXTINF:-1,FIGHT SPORTS HD [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1148977058
+#EXTINF:-1,FOLX
+http://aaa:123@221.127.10.70:9981/stream/channelid/2023160208
+#EXTINF:-1,FOOT Plus Sports
+http://aaa:123@221.127.10.70:9981/stream/channelid/145047332
+#EXTINF:-1,FOX ACTION MOVIES HD [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/584640040
+#EXTINF:-1,FOX CRIME [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/628688256
+#EXTINF:-1,FOX Family Movies [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/265372955
+#EXTINF:-1,FOX FAMILY MOVIES [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/851014134
+#EXTINF:-1,FOX HD [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/898667536
+#EXTINF:-1,FOX Life [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/388958430
+#EXTINF:-1,FOX MOVIES [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/421151000
+#EXTINF:-1,FOX NEWS
+http://aaa:123@221.127.10.70:9981/stream/channelid/838027875
+#EXTINF:-1,FOX News [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/915726970
+#EXTINF:-1,FOX PREMIUM ACTION
+http://aaa:123@221.127.10.70:9981/stream/channelid/2064545927
+#EXTINF:-1,FOX PREMIUM CLASSICS
+http://aaa:123@221.127.10.70:9981/stream/channelid/1260670861
+#EXTINF:-1,FOX Sport [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1062041649
+#EXTINF:-1,FOX Sport 2 [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1583084449
+#EXTINF:-1,FOX Sport 3 [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1252969550
+#EXTINF:-1,Fox Sports
+http://aaa:123@221.127.10.70:9981/stream/channelid/802088891
+#EXTINF:-1,FOX SPORTS 1 [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/459041125
+#EXTINF:-1,fox sports 2
+http://aaa:123@221.127.10.70:9981/stream/channelid/1802160206
+#EXTINF:-1,FOX SPORTS 2 [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/759141800
+#EXTINF:-1,FOX SPORTS 3 [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1041767566
+#EXTINF:-1,FOX TH [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/643049329
+#EXTINF:-1,FOXLIFE [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1263207402
+#EXTINF:-1,FOXLIFE HD [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/2037764349
+#EXTINF:-1,France24 [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1098653780
+#EXTINF:-1,FS 1
+http://aaa:123@221.127.10.70:9981/stream/channelid/713095142
+#EXTINF:-1,FX [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/728084878
+#EXTINF:-1,FXM
+http://aaa:123@221.127.10.70:9981/stream/channelid/688500407
+#EXTINF:-1,FXM
+http://aaa:123@221.127.10.70:9981/stream/channelid/1586784506
+#EXTINF:-1,FYI
+http://aaa:123@221.127.10.70:9981/stream/channelid/760626220
+#EXTINF:-1,GEMS TV
+http://aaa:123@221.127.10.70:9981/stream/channelid/581074578
+#EXTINF:-1,GLOBALNET [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/2080099855
+#EXTINF:-1,GOLF
+http://aaa:123@221.127.10.70:9981/stream/channelid/1958028390
+#EXTINF:-1,HADAYA [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1999812708
+#EXTINF:-1,HALLIMARK CHANNEL HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/193378625
+#EXTINF:-1,HALLMARK CHANNEL
+http://aaa:123@221.127.10.70:9981/stream/channelid/312931679
+#EXTINF:-1,HALLMARK MOVIES & MYSTERIES
+http://aaa:123@221.127.10.70:9981/stream/channelid/423450782
+#EXTINF:-1,HALLMARK MOVIES HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/893604196
+#EXTINF:-1,HALMARK DRAMA HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/483328996
+#EXTINF:-1,HANDY STAR
+http://aaa:123@221.127.10.70:9981/stream/channelid/1893126552
+#EXTINF:-1,HBO 3 HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/299160890
+#EXTINF:-1,HBO [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/424785135
+#EXTINF:-1,HBO HD [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1499514460
+#EXTINF:-1,HBO SD [IND]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1979847641
+#EXTINF:-1,HEALTH CHANNEL [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1537686532
+#EXTINF:-1,HGTV
+http://aaa:123@221.127.10.70:9981/stream/channelid/978087341
+#EXTINF:-1,HGTV [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1831678127
+#EXTINF:-1,HILLSONG CHANNEL
+http://aaa:123@221.127.10.70:9981/stream/channelid/1839291824
+#EXTINF:-1,HISTORY
+http://aaa:123@221.127.10.70:9981/stream/channelid/172870415
+#EXTINF:-1,HISTORY
+http://aaa:123@221.127.10.70:9981/stream/channelid/1766548490
+#EXTINF:-1,HISTORY HD [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1977115160
+#EXTINF:-1,HOME CHANNEL [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/790459976
+#EXTINF:-1,ID HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/764330387
+#EXTINF:-1,INTERNATIONAL DRAMA HD [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/170604893
+#EXTINF:-1,K24
+http://aaa:123@221.127.10.70:9981/stream/channelid/1614425100
+#EXTINF:-1,KitKids HD [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1663479353
+#EXTINF:-1,KTV
+http://aaa:123@221.127.10.70:9981/stream/channelid/300168908
+#EXTINF:-1,KTV HD [IND]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1756781523
+#EXTINF:-1,Live 1 [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/2006326271
+#EXTINF:-1,Live 2 [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/536528779
+#EXTINF:-1,Live 3 [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1867151446
+#EXTINF:-1,M CHANNEL
+http://aaa:123@221.127.10.70:9981/stream/channelid/1305793275
+#EXTINF:-1,M Channel [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/343329625
+#EXTINF:-1,M Estrenos
+http://aaa:123@221.127.10.70:9981/stream/channelid/213848558
+#EXTINF:-1,M Formula 1
+http://aaa:123@221.127.10.70:9981/stream/channelid/2074731941
+#EXTINF:-1,M Sports
+http://aaa:123@221.127.10.70:9981/stream/channelid/215803179
+#EXTINF:-1,M Series
+http://aaa:123@221.127.10.70:9981/stream/channelid/413698802
+#EXTINF:-1,M Series Mania
+http://aaa:123@221.127.10.70:9981/stream/channelid/1978661563
+#EXTINF:-1,M-BIZ [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/835934251
+#EXTINF:-1,MA TV
+http://aaa:123@221.127.10.70:9981/stream/channelid/1276286812
+#EXTINF:-1,Mastiii [IND]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1206477947
+#EXTINF:-1,MCOT Kids [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/853521967
+#EXTINF:-1,MED MUZIK
+http://aaa:123@221.127.10.70:9981/stream/channelid/767554675
+#EXTINF:-1,MIR [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/492548874
+#EXTINF:-1,MITV [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1943696758
+#EXTINF:-1,MN PLUS HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1658800772
+#EXTINF:-1,MNTV [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/232564106
+#EXTINF:-1,MONO Plus [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/532685317
+#EXTINF:-1,MORE
+http://aaa:123@221.127.10.70:9981/stream/channelid/1149941877
+#EXTINF:-1,MOTORVISION [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/922635749
+#EXTINF:-1,Movie Sat Asia HD [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/108220978
+#EXTINF:-1,MOVIES 4 MEN
+http://aaa:123@221.127.10.70:9981/stream/channelid/1023246765
+#EXTINF:-1,MOVIES 4 MEN +1
+http://aaa:123@221.127.10.70:9981/stream/channelid/1973361453
+#EXTINF:-1,MRTV [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1603159126
+#EXTINF:-1,MRTV ENTERTAINMENT [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/471199014
+#EXTINF:-1,MTV CHINA [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/357313091
+#EXTINF:-1,MTV LIVE HD [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/90770844
+#EXTINF:-1,MTV SEA [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1694569432
+#EXTINF:-1,MWD [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/841229734
+#EXTINF:-1,MYANMAR ARTS [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/929270398
+#EXTINF:-1,MYANMAR MOVIES [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/267583953
+#EXTINF:-1,MyTV [Cambodia]
+http://aaa:123@221.127.10.70:9981/stream/channelid/2013761483
+#EXTINF:-1,N24 DOKU
+http://aaa:123@221.127.10.70:9981/stream/channelid/619570296
+#EXTINF:-1,NAT GEO HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/1826315315
+#EXTINF:-1,NAT GEO PEOPLE [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/2072613113
+#EXTINF:-1,Nat Geo Wild [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/867693862
+#EXTINF:-1,NAT GEO WILD [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/580232908
+#EXTINF:-1,NAT GEO WILD HD [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1969695148
+#EXTINF:-1,NATIONAL GEOGRAPHIC [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/942273329
+#EXTINF:-1,N HD [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/349390250
+#EXTINF:-1,N-NORTH [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/522741848
+#EXTINF:-1,News 1 [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1446200189
+#EXTINF:-1,NGW [IND]
+http://aaa:123@221.127.10.70:9981/stream/channelid/79112845
+#EXTINF:-1,NHK WORLD [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/227353516
+#EXTINF:-1,NHK World Japan [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1334048275
+#EXTINF:-1,NHK WORLD PREMIUM [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/2040152827
+#EXTINF:-1,NICER DICER TV
+http://aaa:123@221.127.10.70:9981/stream/channelid/1193767672
+#EXTINF:-1,Nick [IND]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1226720714
+#EXTINF:-1,NICK JR CHANNEL
+http://aaa:123@221.127.10.70:9981/stream/channelid/1354785005
+#EXTINF:-1,NICKELODEON [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/320996438
+#EXTINF:-1,NICKJR [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/261872446
+#EXTINF:-1,NICKTOONS
+http://aaa:123@221.127.10.70:9981/stream/channelid/871427929
+#EXTINF:-1,NITRO
+http://aaa:123@221.127.10.70:9981/stream/channelid/1133285434
+#EXTINF:-1,NITV
+http://aaa:123@221.127.10.70:9981/stream/channelid/2006587433
+#EXTINF:-1,OL TV Sports
+http://aaa:123@221.127.10.70:9981/stream/channelid/1198681942
+#EXTINF:-1,ORF HD
+http://aaa:123@221.127.10.70:9981/stream/channelid/480664074
+#EXTINF:-1,OSN A
+http://aaa:123@221.127.10.70:9981/stream/channelid/290745530
+#EXTINF:-1,OSN Action
+http://aaa:123@221.127.10.70:9981/stream/channelid/532123084
+#EXTINF:-1,OSN B
+http://aaa:123@221.127.10.70:9981/stream/channelid/897372007
+#EXTINF:-1,OSN Comedy
+http://aaa:123@221.127.10.70:9981/stream/channelid/1685999026
+#EXTINF:-1,OSN Enigma
+http://aaa:123@221.127.10.70:9981/stream/channelid/1518742475
+#EXTINF:-1,OSN Kids
+http://aaa:123@221.127.10.70:9981/stream/channelid/2020989349
+#EXTINF:-1,OSN Living
+http://aaa:123@221.127.10.70:9981/stream/channelid/932285910
+#EXTINF:-1,OSN Movies
+http://aaa:123@221.127.10.70:9981/stream/channelid/1459717863
+#EXTINF:-1,OSN Movies Disney
+http://aaa:123@221.127.10.70:9981/stream/channelid/1660229520
+#EXTINF:-1,OSN Movies First
+http://aaa:123@221.127.10.70:9981/stream/channelid/1091540563
+#EXTINF:-1,OSN Series
+http://aaa:123@221.127.10.70:9981/stream/channelid/1391953770
+#EXTINF:-1,PAY PER VIEWS HD 1 [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1312830292
+#EXTINF:-1,PAY PER VIEWS HD 2 [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1133810343
+#EXTINF:-1,PEACE TV
+http://aaa:123@221.127.10.70:9981/stream/channelid/2094457858
+#EXTINF:-1,PEACE TV [Thaicom KU]
+http://aaa:123@221.127.10.70:9981/stream/channelid/731590131
 
 
 
@@ -2525,6 +3096,8 @@ http://221.140.77.21:9981/stream/channelid/542642259
 http://114.200.11.5:9981/stream/channelid/1962245015
 #EXTINF:-1,BBC Earth_kor19
 http://123.215.39.5:9981/stream/channelid/328513813
+#EXTINF:-1,BBC Earth_kor20
+http://58.233.254.94:9981/stream/channelid/474836610
 
 
 
@@ -2574,16 +3147,7 @@ http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
 
 
-#EXTINF:-1,MY: BBC EARTH HD
-http://m3ulink.com:6969/collin.scm.r26081/VcUmcLfq/32257
-#EXTINF:-1,MY: BBC LIFESTYLE
-http://m3ulink.com:6969/collin.scm.r26081/VcUmcLfq/32256
-#EXTINF:-1,MY: ASIAN FOOD CHANNEL
-http://m3ulink.com:6969/collin.scm.r26081/VcUmcLfq/31497
-#EXTINF:-1,MY: NAT GEO ASIA HD
-http://m3ulink.com:6969/collin.scm.r26081/VcUmcLfq/32225
-#EXTINF:-1,MY: NAT GEO PEOPLE HD
-http://m3ulink.com:6969/collin.scm.r26081/VcUmcLfq/32224
+
 
 
 
@@ -3059,7 +3623,32 @@ http://cdn.adultiptv.net/milf.m3u8
 #EXTINF:-1,adultiptv_teen
 http://cdn.adultiptv.net/teen.m3u8
 
-
+#EXTINF:-1,ADULT Section
+http://86.20.136.86:9981/stream/channelid/134624537
+#EXTINF:-1,ADULT smileTV2
+http://86.20.136.86:9981/stream/channelid/479206079
+#EXTINF:-1,ADULT smileTV3
+http://86.20.136.86:9981/stream/channelid/264461574
+#EXTINF:-1,ADULT Babestn
+http://86.20.136.86:9981/stream/channelid/1525763727
+#EXTINF:-1,ADULT Party
+http://86.20.136.86:9981/stream/channelid/2018562476
+#EXTINF:-1,ADULT Xpanded TV
+http://86.20.136.86:9981/stream/channelid/88646207
+#EXTINF:-1,ADULT Studio 66
+http://86.20.136.86:9981/stream/channelid/1070434626
+#EXTINF:-1,ADULT Xpanded2
+http://86.20.136.86:9981/stream/channelid/1415593086
+#EXTINF:-1,695
+http://86.20.136.86:9981/stream/channelid/129016875
+#EXTINF:-1,696
+http://86.20.136.86:9981/stream/channelid/1361115950
+#EXTINF:-1,697
+http://86.20.136.86:9981/stream/channelid/1434723631
+#EXTINF:-1,698
+http://86.20.136.86:9981/stream/channelid/856434954
+#EXTINF:-1,ADULT Section
+http://86.20.136.86:9981/stream/channelid/130360162
 
 
 #EXTINF:-1,lesbian_rtmp--------------------------------------
@@ -3276,6 +3865,12 @@ http://23.111.128.190:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
 
 
 
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok3_test
+http://ok3.se:8000/CDi1F59M78/D6PYhAy2Iu/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok3_test2
+http://ok3.se:8000/pyXg169SIE/DkQRnoc7WR/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok3_test3
+http://ok3.se:8000/NWOfwLAJV3/2rzmPi84m9/77332
 
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2-80--------------------------
 http://ok2.se:80/ZRPkplnePG/2n6JFUqrTr/77332
@@ -3334,14 +3929,17 @@ http://ok2.se:8000/moU06Kqe4d/ELHLlkaazQ/77332
 http://ok2.se:8000/nXWOZ7GC4G/Iw5swodllr/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test23
 http://ok2.se:8000/t1BW2MsonF/1W8e4YB0Rl/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test24
+http://ok2.se:8000/MVsoVPucqo/5BamY0BSFU/77332
 
 
 #EXTINF:-1,DAVINCILEARNING_ro_test
 http://89.38.8.130:39444
-#EXTINF:-1,|PL| DA VINCI
-http://89.187.189.5:80/0NiTyWoAOS/OuruquTObQ/60291
-#EXTINF:-1,|PL| BBC EARTH HD
-http://89.187.189.5:80/0NiTyWoAOS/OuruquTObQ/27677
+
+#EXTINF:-1,Da Vinci Learning_pol
+http://tv24serwis2.eu:8000/stalker/89yoiuhoyg76ti7yuoipuh/211
+#EXTINF:-1,BBC Earth HD
+http://tv24serwis2.eu:8000/stalker/89yoiuhoyg76ti7yuoipuh/105
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,Asian Food Channel_VN_rtp--------------------------
@@ -3365,10 +3963,71 @@ rtmp://118.97.96.17:1935/discover/afc_3
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
-#EXTINF:-1,POL: BBC Earth HD
-http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/13253
-#EXTINF:-1,POL: Da Vinci Learning
-http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/13236
+#EXTINF:-1,Discovery Life HD
+http://188.35.9.8:21141/udp/142v
+#EXTINF:-1,Discovery Science
+http://188.35.9.15:21151/udp/188k
+#EXTINF:-1,Nat Geo People HD
+http://188.35.9.15:21151/udp/186o
+#EXTINF:-1,Viasat History HD
+http://188.35.9.15:21121/udp/137s
+#EXTINF:-1,BBC Lifetsyle
+http://188.35.9.15:21111/udp/164j
+#EXTINF:-1,History
+http://188.35.9.163:21121/udp/128c
+#EXTINF:-1,N24 DOKU Austria
+http://188.35.9.8:21031/udp/079q
+
+
+
+#EXTINF:-1,UK: DISCOVERY CHANNEL | UHD
+http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/45904
+#EXTINF:-1,UK: Discovery History | SD
+http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/45903
+#EXTINF:-1,UK: Discovery Science | SD
+http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/45902
+#EXTINF:-1,UK: BBC EARTH | HD
+http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/46027
+
+#EXTINF:-1,DaVinci Learning_DE
+http://79.119.12.48:9981/stream/channelid/1604238121
+#EXTINF:-1,Discovery Science
+http://79.119.12.48:9981/stream/channelid/316835545
+#EXTINF:-1,BBC Earth HD
+http://79.119.12.48:9981/stream/channelid/137846823
+
+#EXTINF:-1,UK2: Discovery HD
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/22692
+#EXTINF:-1,UK2: Discovery History
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/22694
+#EXTINF:-1,UK2: Discovery Science HD
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/22691
+#EXTINF:-1,UK2: HiSTORY CHANNEL
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/22728
+#EXTINF:-1,UK2: Nat Geographic HD
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/22677
+
+
+#EXTINF:-1,BBC Earth_HU
+http://84.236.38.92:9981/stream/channelid/946495003
+#EXTINF:-1,Da Vinci
+http://84.236.38.92:9981/stream/channelid/461374555
+
+#EXTINF:-1,DISCOVERY ASIA HD [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/355850526
+#EXTINF:-1,DISCOVERY CHANNEL [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1372140668
+#EXTINF:-1,DISCOVERY SCIENCE
+http://aaa:123@221.127.10.70:9981/stream/channelid/459143136
+#EXTINF:-1,N24 DOKU
+http://aaa:123@221.127.10.70:9981/stream/channelid/619570296
+#EXTINF:-1,BBC EARTH [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1871941800
+#EXTINF:-1,AFC [KP]
+http://aaa:123@221.127.10.70:9981/stream/channelid/1293608741
+
+#EXTINF:-1,PH:ASIAN FOOD CH
+http://m3ulink.com:6969/gxxodmean1/FLA27hRT/31710
 
 
 #EXTINF:-1,Shot tv--------------------------
@@ -3441,7 +4100,8 @@ http://ok2.se:8000/mvGmPpaHQf/LhgVdQY78Y/364
 #EXTINF:-1 group-title="news" tvg-logo="https://static.iptv-epg.com/us/FoxBusiness.us.png",FOX NEWS BUSINESS
 http://ok2.se:8000/mvGmPpaHQf/LhgVdQY78Y/4600
 
-
+#EXTINF:-1,CNBC HD_ok3
+http://ok3.se:8000/pyXg169SIE/DkQRnoc7WR/76
 
 #EXTINF:-1,CNBC_udp_viet
 http://118.70.82.36:8889/udp/225.1.1.227:30120
@@ -3451,20 +4111,21 @@ http://14.167.182.142:4022/rtp/232.84.2.177:10488
 http://14.207.2.242:8000/play/a03n
 
 
-#EXTINF:-1,CNBC HD
-http://84.186.84.20:9981/stream/channelid/112181354
-#EXTINF:-1,|USA| CNBC
-http://tv.forfreeiptv.net:7000/FreeIPTV/76u872TyO98/575544104
+
 #EXTINF:-1,vodafone: CNBC
 http://185.236.229.100:9981/stream/channelid/2022342421
-#EXTINF:-1,|CA| CNBC HD
-http://tv.forfreeiptv.net:7000/FreeIPTV/76u872TyO98/575542724
 
+#EXTINF:-1,CNBC
+http://aaa:123@221.127.10.70:9981/stream/channelid/753896937
+#EXTINF:-1,CNBC Europe
+http://79.119.12.48:9981/stream/channelid/1551644157
+#EXTINF:-1,USA:  CBNC HD
+http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/37740
 
-
-
-
-
+#EXTINF:-1,USA | CNBC HD
+http://ecuaplaytv.com:8000/547/547/73013
+#EXTINF:-1,USA | CNBC WORLD HD
+http://ecuaplaytv.com:8000/547/547/73012
 
 
 
