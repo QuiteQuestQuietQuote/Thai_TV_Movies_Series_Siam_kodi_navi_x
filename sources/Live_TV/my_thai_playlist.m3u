@@ -3573,6 +3573,8 @@ http://95.216.187.219:8080/062-private
 http://188.35.9.11:21141/udp/214h
 #EXTINF:-1,Vivid EU_/udp
 http://188.35.9.26:2031/udp/031a
+#EXTINF:-1,Vivid red_/udp
+http://188.35.9.10:21131/udp/142d
 #EXTINF:-1,Russian Night_/udp
 http://188.35.9.11:21051/udp/071l
 #EXTINF:-1,Russian Night
@@ -3623,32 +3625,7 @@ http://cdn.adultiptv.net/milf.m3u8
 #EXTINF:-1,adultiptv_teen
 http://cdn.adultiptv.net/teen.m3u8
 
-#EXTINF:-1,ADULT Section
-http://86.20.136.86:9981/stream/channelid/134624537
-#EXTINF:-1,ADULT smileTV2
-http://86.20.136.86:9981/stream/channelid/479206079
-#EXTINF:-1,ADULT smileTV3
-http://86.20.136.86:9981/stream/channelid/264461574
-#EXTINF:-1,ADULT Babestn
-http://86.20.136.86:9981/stream/channelid/1525763727
-#EXTINF:-1,ADULT Party
-http://86.20.136.86:9981/stream/channelid/2018562476
-#EXTINF:-1,ADULT Xpanded TV
-http://86.20.136.86:9981/stream/channelid/88646207
-#EXTINF:-1,ADULT Studio 66
-http://86.20.136.86:9981/stream/channelid/1070434626
-#EXTINF:-1,ADULT Xpanded2
-http://86.20.136.86:9981/stream/channelid/1415593086
-#EXTINF:-1,695
-http://86.20.136.86:9981/stream/channelid/129016875
-#EXTINF:-1,696
-http://86.20.136.86:9981/stream/channelid/1361115950
-#EXTINF:-1,697
-http://86.20.136.86:9981/stream/channelid/1434723631
-#EXTINF:-1,698
-http://86.20.136.86:9981/stream/channelid/856434954
-#EXTINF:-1,ADULT Section
-http://86.20.136.86:9981/stream/channelid/130360162
+
 
 
 #EXTINF:-1,lesbian_rtmp--------------------------------------
@@ -3936,10 +3913,22 @@ http://ok2.se:8000/MVsoVPucqo/5BamY0BSFU/77332
 #EXTINF:-1,DAVINCILEARNING_ro_test
 http://89.38.8.130:39444
 
-#EXTINF:-1,Da Vinci Learning_pol
-http://tv24serwis2.eu:8000/stalker/89yoiuhoyg76ti7yuoipuh/211
-#EXTINF:-1,BBC Earth HD
-http://tv24serwis2.eu:8000/stalker/89yoiuhoyg76ti7yuoipuh/105
+#EXTINF:-1,vodafone: E HD
+http://185.236.229.100:9981/stream/channelid/896928979
+#EXTINF:-1,meo: BBC Entertainment
+http://185.236.229.100:9981/stream/channelid/2028615093
+#EXTINF:-1,meo: 24 Kitchen
+http://185.236.229.100:9981/stream/channelid/1406969501
+#EXTINF:-1,meo: Luxe TV HD
+http://185.236.229.100:9981/stream/channelid/766885672
+#EXTINF:-1,meo: Travel Channel
+http://185.236.229.100:9981/stream/channelid/804849644
+#EXTINF:-1,meo: My Cuisine
+http://185.236.229.100:9981/stream/channelid/1691322579
+#EXTINF:-1,meo: TLC
+http://185.236.229.100:9981/stream/channelid/707067222
+#EXTINF:-1,meo: Blaze
+http://185.236.229.100:9981/stream/channelid/1156770346
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,Asian Food Channel_VN_rtp--------------------------
@@ -3947,8 +3936,6 @@ http://14.167.182.142:4022/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
 http://14.167.182.142:4022/rtp/232.84.2.131:9582
 
-#EXTINF:-1,ASIAN FOOD CHANNEL_VN_rtp-old
-http://14.239.56.73:4022/rtp/232.84.2.129:9570
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_tw_ts
 http://122.146.68.116:4046/VideoInput/play.ts
@@ -3977,6 +3964,8 @@ http://188.35.9.15:21111/udp/164j
 http://188.35.9.163:21121/udp/128c
 #EXTINF:-1,N24 DOKU Austria
 http://188.35.9.8:21031/udp/079q
+#EXTINF:-1,LUXE
+http://188.35.9.11:21121/udp/174a
 
 
 
@@ -3989,29 +3978,10 @@ http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/45902
 #EXTINF:-1,UK: BBC EARTH | HD
 http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/46027
 
-#EXTINF:-1,DaVinci Learning_DE
-http://79.119.12.48:9981/stream/channelid/1604238121
-#EXTINF:-1,Discovery Science
-http://79.119.12.48:9981/stream/channelid/316835545
-#EXTINF:-1,BBC Earth HD
-http://79.119.12.48:9981/stream/channelid/137846823
-
-#EXTINF:-1,UK2: Discovery HD
-http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/22692
-#EXTINF:-1,UK2: Discovery History
-http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/22694
-#EXTINF:-1,UK2: Discovery Science HD
-http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/22691
-#EXTINF:-1,UK2: HiSTORY CHANNEL
-http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/22728
-#EXTINF:-1,UK2: Nat Geographic HD
-http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/22677
 
 
-#EXTINF:-1,BBC Earth_HU
-http://84.236.38.92:9981/stream/channelid/946495003
-#EXTINF:-1,Da Vinci
-http://84.236.38.92:9981/stream/channelid/461374555
+
+
 
 #EXTINF:-1,DISCOVERY ASIA HD [KP]
 http://aaa:123@221.127.10.70:9981/stream/channelid/355850526
@@ -4026,8 +3996,7 @@ http://aaa:123@221.127.10.70:9981/stream/channelid/1871941800
 #EXTINF:-1,AFC [KP]
 http://aaa:123@221.127.10.70:9981/stream/channelid/1293608741
 
-#EXTINF:-1,PH:ASIAN FOOD CH
-http://m3ulink.com:6969/gxxodmean1/FLA27hRT/31710
+
 
 
 #EXTINF:-1,Shot tv--------------------------
@@ -4050,6 +4019,8 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
 #EXTINF:-1,Doc_CH_rtmp
 rtmp://ivi.bupt.edu.cn:1935/livetv/documentaryhd
+#EXTINF:-1,Doc_CH_hk77
+http://ojj620.hk77.ok188.top/xp.php?ar=3&id=64
 #EXTINF:-1,a taste of china24/7_CHN
 http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 
@@ -4099,9 +4070,9 @@ https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
 http://ok2.se:8000/mvGmPpaHQf/LhgVdQY78Y/364
 #EXTINF:-1 group-title="news" tvg-logo="https://static.iptv-epg.com/us/FoxBusiness.us.png",FOX NEWS BUSINESS
 http://ok2.se:8000/mvGmPpaHQf/LhgVdQY78Y/4600
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/if/180712051305.jpg",CNBC_world
+http://ok2.se:8000/mvGmPpaHQf/LhgVdQY78Y/76
 
-#EXTINF:-1,CNBC HD_ok3
-http://ok3.se:8000/pyXg169SIE/DkQRnoc7WR/76
 
 #EXTINF:-1,CNBC_udp_viet
 http://118.70.82.36:8889/udp/225.1.1.227:30120
@@ -4115,19 +4086,10 @@ http://14.207.2.242:8000/play/a03n
 #EXTINF:-1,vodafone: CNBC
 http://185.236.229.100:9981/stream/channelid/2022342421
 
-#EXTINF:-1,CNBC
-http://aaa:123@221.127.10.70:9981/stream/channelid/753896937
-#EXTINF:-1,CNBC Europe
-http://79.119.12.48:9981/stream/channelid/1551644157
-#EXTINF:-1,USA:  CBNC HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/37740
-
-#EXTINF:-1,USA | CNBC HD
-http://ecuaplaytv.com:8000/547/547/73013
-#EXTINF:-1,USA | CNBC WORLD HD
-http://ecuaplaytv.com:8000/547/547/73012
 
 
+#EXTINF:-1,US6: CNBC
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/74092
 
 
 
