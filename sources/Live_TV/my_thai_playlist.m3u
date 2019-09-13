@@ -2788,8 +2788,7 @@ http://91.194.72.46:10043/play/DorcelHD/index.m3u8
 #EXTINF:-1,WYN
 http://185.35.4.37:8087/shalun/ch.m3u8
 
-#EXTINF:-1,cam
-http://iptvtool.es:9977/Klk10/KsoZW9VS7V/74932
+
 
 
 
@@ -3149,8 +3148,8 @@ http://188.35.9.8:21031/udp/079q
 http://188.35.9.11:21121/udp/174a
 
 
-
-
+#EXTINF:-1,E!
+http://playback.imirun.net:8080//E!HD/tracks-v1a1/mono.m3u8
 
 
 
@@ -3242,12 +3241,17 @@ http://14.207.2.242:8000/play/a03n
 
 
 
-#EXTINF:-1,CA: CNBC
-http://212.8.243.218:25461/Etienne1/Etienne1/34663
 
 
 
-
+#EXTINF:-1,USA: CNBC World.
+http://212.8.243.9:80/AV7q/1xnzi17EKn/23914
+#EXTINF:-1,USA: CNBC-US
+http://212.8.243.9:80/AV7q/1xnzi17EKn/23913
+#EXTINF:-1,USA: CNBC
+http://212.8.243.9:80/AV7q/1xnzi17EKn/7636
+#EXTINF:-1,USA: CNBC HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/9358
 
 
 
