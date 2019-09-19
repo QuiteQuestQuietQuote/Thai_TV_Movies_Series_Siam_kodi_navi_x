@@ -1238,7 +1238,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-09-18
+date=2019-09-19
 URL=
 
 
@@ -1247,7 +1247,96 @@ URL=
 
 
 
+type=video
+name=Red Joan (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTZWmUWJ0yIb49RaIzQUh4LrBlq.jpg
+date=2019-09-19
+URL=https://verystream.com/stream/CQboqcxxwGo/Red.Joan.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/F2nFVd2t5fC/Red_Joan_2018_1080p_BluRay_DTS_%5BMW%5D.mp4
 
+type=video
+name=Plus One (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4w3bCp5UkLeemdq8MBNlyA3Zl2J.jpg
+date=2019-09-19
+URL=https://verystream.com/stream/EaJ74PrBtar/plus_one_2019_1080p_bluray_x264-rovers%5BEtHD%5D.mp4
+#https://verystream.com/stream/JLrjck6qdSL/Plus.One.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/FqQLD1Cw1d5/Plus.One.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/MdrdPf9twTS/Plus.One.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://verystream.com/stream/MdmUpLNAMJp/Plus_One_2019_BluRay_1080p_DTS-HD_MA5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=P Storm (2019) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsDDb6zE3s4SoqphWAd3pUgKaVE.jpg
+date=2019-09-19
+URL=https://verystream.com/stream/PjdK5myzmBM/P_Storm_2019_CHN_Blu-ray_1080p_Atmos_7_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/h3sAvUYSvdW/P.Storm.2019.1080p.BluRay.H264.AAC.HDMovie8.mkv.mp4
+
+type=video
+name=Saving Leningrad (2019) [COLOR=FF00FF00]RUS BR 1080p[/COLOR] | TMDB-48
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHtfl6iKoyD6LQuXBjYOJIwZJS6.jpg
+date=2019-09-19
+URL=https://verystream.com/stream/gf7VMZXKspu/Saving_Leningrad_2019_MULTi_GER_BluRay_1080p_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=The Messenger (2019) [COLOR=FF00FF00]POL BR 1080p[/COLOR] | TMDB-76
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxCXA7RElKb5ERggxrtJQs6HPIA.jpg
+date=2019-09-19
+URL=https://verystream.com/stream/7KzPesHEdBb/the_messenger_2019_1080p_bluray_x264-sprinter%5BEtHD%5D.mp4
+#https://verystream.com/stream/Pqh3SmiZvik/The.Messenger.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=I Love You, You're Perfect, Now Change! (2019) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-40
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fvH9ERPY4eIvHuPHFUn199BGXp.jpg
+date=2019-09-19
+URL=https://verystream.com/stream/QxPhLMNm4Vb/I_Love_You_2019_CHN_Blu-ray_1080p_TrueHD_7_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=You Are the Apple of My Eye (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-75
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/feaXwpthc6NAzfYI9WBt3Kq8bZT.jpg
+date=2019-09-19
+URL=https://verystream.com/stream/Jy2TVJP9BiT/You_Are_the_Apple_of_My_Eye_2018_JPN_Blu-ray_1080p_TrueHD_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/W5XLhF9Sj53/you_are_the_apple_of_my_eye_2018_1080p_bluray_x264-regret%5BEtHD%5D.mp4
+
+type=video
+name=Deception of the Novelist (2019) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sq6AHd0yMm3RpyU2w7irJ0UthTA.jpg
+date=2019-09-19
+URL=https://verystream.com/stream/gPxBMsimKDX/Deception_of_the_Novelist_2018_CHN_Blu-ray_1080p_TrueHD_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/L7cS7VnEPLk/Deception.Of.The.Novelist.2019.1080p.BluRay.H264.AAC-HDMovie8.mkv.mp4
+
+type=video
+name=Mme Mills, une voisine si parfaite (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-48
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYqpw52dQknweVXSZqudqbkfn9v.jpg
+date=2019-09-19
+URL=https://verystream.com/stream/QmD7sBTBo8Q/Mme_Mills_Une_Voisine_Si_Parfaite_2018_FRENCH_BluRay_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=Still Human (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-90
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gu1iyc9XZC0onJSjUJ35yN088hW.jpg
+date=2019-09-19
+URL=https://verystream.com/stream/gfsntxLFSsb/Still_Human_2018_CHN_Blu-ray_1080p_TrueHD_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/SDYxDBAemt9/still_human_2018_1080p_bluray_x264-regret%5BEtHD%5D.mp4
+
+type=video
+name=Mission Impossible: Samurai (2014) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tow08OsC8jSzzc3HPNVRufNC1LC.jpg
+date=2019-09-19
+URL=https://verystream.com/stream/UAXvrxVqMVC/Samurai_Hustle_2014i_JPN_BluRay_1080p_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=Life in the Doghouse (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-90 doc
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBGNTNwM6ObtrSZhdsetx9qJrNL.jpg
+date=2019-09-19
+URL=https://verystream.com/stream/jLRAq2zTwc5/Life_in_the_Doghouse_2018_1080p_BluRay_x264-CAPRiCORN%5BEtHD%5D.mp4
+#https://verystream.com/stream/BxsmjCViUwh/Life.in.the.Doghouse.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Assimilate (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-50
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbMZEbL9FuhvHOS5Yivz5Vwbbhk.jpg
+date=2019-09-19
+URL=https://verystream.com/stream/fsB2PJDDhUg/assimilate_2019_1080p_bluray_x264-brmp%5BEtHD%5D.mp4
+#https://verystream.com/stream/HY7wLMi49kF/Assimilate.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/23SzZfh4WAb/Assimilate_2019_Blu-ray_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
 
 
 
@@ -2400,8 +2489,10 @@ URL=https://openload.co/f/_Yt85AXgQ0M/The_Kid_2019_1080p_Bluray_H264_%E2%80%93_R
 type=video
 name=The Queen's Corgi (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EkSGoRB6pkKUcXGl0xEFRp01H8.jpg
-date=2019-06-02
-URL=https://openload.co/f/X_0pTTF2KEc/The_Queen%E2%80%99s_Corgi_2019_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
+date=2019-09-19
+URL=https://verystream.com/stream/pWvnQ1M2so/The_Queens_Corgi_2019_1080p_BluRay_X264-AMIABLE%5BEtHD%5D.mp4
+#https://verystream.com/stream/EmUjppqNfPd/The_Queens_Corgi_2019_1080p_BluRay_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://openload.co/f/X_0pTTF2KEc/The_Queen%E2%80%99s_Corgi_2019_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
 #https://openload.co/f/pGNu2nv283A/The_Queens_Corgi.2019.1080p.Bluray.X264-EVO.mkv.mp4
 #https://openload.co/f/jyZBNFfPuMo/The_Queen%27s_Corgi_%282019%291080p_Bluray_X264-EVO_Ganool.mkv.mp4
 #https://openload.co/f/Ix4JvpPolEA/The_Queens_Corgi_2019_1080p_BluRay_AAC-RARBG.mp4
@@ -8265,8 +8356,11 @@ URL=https://openload.co/f/NS3G5C_6LWk/Tolkien_%282019%29_%E0%B9%82%E0%B8%97%E0%B
 type=video
 name=The White Crow (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQBlGMzWPQh2sYnMHMneziZ4GCL.jpg
-date=2019-08-31
-URL=
+date=2019-09-19
+URL=https://verystream.com/stream/GZak2CcoxoR/The_White_Crow_2018_1080p_BluRay_X264-AMIABLE%5BEtHD%5D.mp4
+#https://verystream.com/stream/ignbf6rw9yj/The.White.Crow.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/7wu2LGmi4Tq/The.White.Crow.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/J7xxNqrei13/The.White.Crow.2018.1080p.BluRay.x264-YTS.LT.mp4
 type=video
 name=The White Crow (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQBlGMzWPQh2sYnMHMneziZ4GCL.jpg
@@ -8559,6 +8653,8 @@ URL=https://verystream.com/stream/8QoWZ92mj66/Pokemon.Detective.Pikachu.2019.108
 #https://verystream.com/stream/eC9pSkJEBh5/Pokemon.Detective.Pikachu.2019.1080p.BluRay.x264-AAA%5BEtHD%5D.mp4
 #https://verystream.com/stream/8QoWZ92mj66/Pokemon.Detective.Pikachu.2019.1080p.BluRay.x264-AAA%5BEtHD%5D.mkv.mp4
 #https://verystream.com/stream/bJEM1Dt1vMg/Pokemon.Detective.Pikachu.2019.1080p.BluRay.x264-AAA.mkv.mp4
+#https://verystream.com/stream/goKzSR8u4it/Pokemon_Detective_Pikachu_2019_BluRay_1080p_AAC_x264-MPad%5BEtHD%5D.mp4
+#https://verystream.com/stream/T3QBAHZYjPD/Pokemon_Detective_Pikachu_2019_Bluray_1080p_TrueHD_7_1_x264-MTeam%5BEtHD%5D.mp4
 #https://verystream.com/stream/TnPCrERTMvU/Pokemon_Detective_Pikachu_2019_MULTi_Blu-ray_1080p_Atmos_7_1_HEVC-DDR%5BEtHD%5D.mp4
 #https://openload.co/f/ElgOvO7IC6s/Pokemon.Detective.Pikachu.2019.1080p.BluRay_SeeHD.mp4
 #https://vidoza.net/8hfcqosdlzox.html	Pokemon Detective Pikachu 2019 MULTi Blu-ray 1080p Atmos 7 1 HEVC-DDR[EtHD]	1728x720
@@ -8962,8 +9058,11 @@ URL=https://openload.co/f/dv55XyOmpKY/US_%282019%29_%E0%B8%AB%E0%B8%A5%E0%B8%AD%
 type=video
 name=Dumbo (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/279PwJAcelI4VuBtdzrZASqDPQr.jpg
-date=2019-06-26
-URL=https://openload.co/f/nFtItl_dRCQ/Dumbo_2019_1080p_BluRay_AAC-RARBG_.mp4
+date=2019-09-19
+URL=https://verystream.com/stream/bFnTTSDwutr/Dumbo.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/BCZxVeXpxMD/Dumbo_2019_1080p_BluRay_AAC-RARBG.mp4
+#https://verystream.com/stream/63wdvBRKq3u/Dumbo.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://openload.co/f/nFtItl_dRCQ/Dumbo_2019_1080p_BluRay_AAC-RARBG_.mp4
 #https://openload.co/f/GP690NLCtlU/Dumbo.2019.1080p.Bluray.DD5.1.x264.mkv.mp4
 #https://openload.co/f/uVY9xNyc5Zg/Dumbo.2019.1080p.BluRay_SeeHD.mp4
 #https://openload.co/f/dB5u303CBYo/Dumbo_2019_1080p_BluRay_x264-YTS_LT_.mp4
