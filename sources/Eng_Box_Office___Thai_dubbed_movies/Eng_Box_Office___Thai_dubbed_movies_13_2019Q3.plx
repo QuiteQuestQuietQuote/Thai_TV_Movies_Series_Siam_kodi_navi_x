@@ -1238,8 +1238,275 @@ URL=
 type=video
 name=
 thumb=
-date=2019-09-19
+date=2019-09-22
 URL=
+
+
+
+
+
+
+
+
+type=video
+name=Aladdin (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iYQTLGoy7QnjcUYRJy4YrAgGvp.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/NssUQhKDTNT/Aladdin.2019.1080p.BrRip.x265.HEVCBay.com.mkv.mp4
+#https://verystream.com/stream/UQ9P1bghuxu/Aladdin.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/a6vRCiVp6Tu/Aladdin.2019.1080p.BluRay.H264.AAC-onlineseries.ucoz.com.mp4
+#https://verystream.com/stream/dCApYUSkVr9/aladdin_2019_1080p_bluray_x264-sparks%5BEtHD%5D.mp4
+#https://verystream.com/stream/NjrT5T2AuKz/Aladdin_2019_MULTi_BluRay_1080p_DTS-HDMA_7_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/NssUQhKDTNT/Aladdin.2019.1080p.BrRip.x265.HEVCBay.com.mkv.mp4
+#https://verystream.com/stream/4AmdHXFtAoL/Aladdin_2019_1080p_BluRay_AC3_x264-CMRG%5BEtHD%5D.mp4
+#https://verystream.com/stream/Q4MX1q8Lhoh/Aladdin.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://verystream.com/stream/Ewchm7bhUjb/Aladdin.2019.1080p.BluRay.10bit.HEVC.6CH-MkvCage.com.mkv.mp4
+
+type=video
+name=Ma (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-56
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6n7ASmQ1wY2cxTubFFGlcvPpyk7.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/2HjgFA1o6B1/Ma.2019.1080p.BluRay.H264.AAC-RARBGwww.Max-Rls.CoM.mp4
+#https://verystream.com/stream/HTEh1MGcDMR/Ma.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/gY8n5Y6i1eB/Ma.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://verystream.com/stream/2HjgFA1o6B1/Ma.2019.1080p.BluRay.H264.AAC-RARBGwww.Max-Rls.CoM.mp4
+#https://verystream.com/stream/9PuzoRPm192/Ma.2019.1080p.BRRip.x264.6CH-MkvCage.com.mkv.mp4
+#https://verystream.com/stream/h7RpqWGcMEi/Ma_2019_1080p_Bluray_DTS-HD_MA_5_1_x264-EVO.mp4
+#https://verystream.com/stream/jFFbwNKqZLs/Ma_2019_1080p_BluRay_x264-AAA%5BEtHD%5D.mp4
+#https://verystream.com/stream/e1Q3QMjbX4k/Ma_2019_MULTi_1080p_Blu-ray_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=No Mercy (2019) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBNuRQRtet1THfMS0hohQnyRgzW.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/db7bc5v6W5d/No_Mercy_2019_MULTi_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=Astro Kid (2019) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwqEIL5SrsZFVvileNe9LuHbJy7.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/VqdsUAaxJR3/Astro_Kid_2019_1080p_Bluray_x264-EVO%5BEtHD%5D.mp4
+
+type=video
+name=Men in Black: International (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/G4B1Tbxtedg/Men.in.Black.International.2019.1080p.BrRip.x265.HEVCBay.com.mkv.mp4
+#https://verystream.com/stream/7GveppTHqiC/Men.in.Black.International.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/E3QVHcdEXr7/Men_in_Black_International_2019_1080p_BluRay_x264-GECKOS%5BEtHD%5D.mp4
+#https://verystream.com/stream/QJdykWMy8v8/Men.in.Black.International.2019.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://verystream.com/stream/hm9JALzR9kt/Men.in.Black.International.2019.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/QzVoD6QBH4j/Men.In.Black.International.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://verystream.com/stream/HgKrybYJA3b/Men.in.Black.International.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/RBnuB8y9kB6/Men_in_Black_International_2019_MULTi_BluRay_1080p_ATMOS_7_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/8L1egXr8YJF/Men_in_Black_International_2019_1080p_BluRay_x264-GECKOS%5BEtHD%5D.mp4
+#https://verystream.com/stream/G4B1Tbxtedg/Men.in.Black.International.2019.1080p.BrRip.x265.HEVCBay.com.mkv.mp4
+
+type=video
+name=Class Reunion 1.0 (2018) [COLOR=FF00FF00]GER BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzTixPfB1VMHhi62HqUEg9jhFL9.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/MHkbRGeLb1Q/Klassentreffen_1_0_2018_1080p_BluRay_x264-UNVEiL%5BEtHD%5D.mp4
+
+type=video
+name=The Famous Five and the Valley of Dinosaurs (2018) [COLOR=FF00FF00]GER BR 1080p[/COLOR] | TMDB-53
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFjvtRpqjPg07wQrojyK0HQH8Zt.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/c58Pih8gHN2/The_Famous_Five_and_the_Valley_of_Dinosaurs_2018_1080p_BluRay_x264-JustWatch%5BEtHD%5D.mp4
+
+type=video
+name=All Is True (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuMsJzFYaDwI8oinpdabt2OwrpD.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/Jdd4xB4T3KL/All_Is_True_2018_1080p_BluRay_x264-AAA%5BEtHD%5D.mp4
+#https://verystream.com/stream/cTeq9yf5uFa/All.Is.True.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/Z1V2m9PH3oB/All.Is.True.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/4gJFe7TYDvT/All_is_True_2018_Blu-ray_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=Lords of Chaos (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2eOIfQw2lLZov6aJZ3xpPjnRHH.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/ii84cHJhMhn/lords_of_chaos_2018_limited_proper_1080p_bluray_x264-cadaver%5BEtHD%5D.mp4
+https://verystream.com/stream/NZo9eRo8Axr/Lord_Of_Chaos_2018_1080p_Blu-ray_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=Balkan Line (2019) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-78
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sydKzDQfTkiXnF92z9I4lGmTHk.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/AMJqNa7BTPF/Rubezh_2018_FRENCH_Blu-ray_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=American Bistro (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYafBJeexgcWfxxpQsjAI0M9vyP.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/TmM8Fs9diNL/American_Bistro_2019_1080p_BluRay_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=The Big Bad Fox and Other Tales (2017) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-74
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Nib5a3p2O7yPFSTTNwChp0cnsh.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/axojsrZdaRD/The.Big.Bad.Fox.And.Other.Tales.2017.1080p.BluRay.x264-HDEX.mp4
+
+type=video
+name=Frank and Ava (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-na
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVJeAqSgV675LrLgkJnATeTJK0u.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/GAMeZJRgM9u/Frank_and_Ava_2018_1080p_Blu-ray_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=Shadows of Sofia (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70 doc
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKdglBqAclrtHegDOGSAnIhphwH.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/NrPSKFs1F5E/Shadows_of_Sofia_2019_1080p_Blu-ray_DTS-HD_MA_2_0_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=Angels Wear White (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpATMFID3lzxoLUyqZa65634vet.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/96yfQ42yWRP/Angels.Wear.White.2017.1080p.BluRay.x264-YTS.LT.mp4
+
+type=video
+name=Godzilla: King of the Monsters (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQ40gmFM4p03tXwMxQQKh2cCBW4.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/bABpLYXyVYP/Godzilla.King.of.the.Monsters.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/hkdzJi9AFpc/Godzilla.King.of.the.Monsters.2019.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/TdomKPviudp/godzilla_king_of_the_monsters_2019_1080p_bluray_x264-sparks%5BEtHD%5D.mp4
+#https://verystream.com/stream/WffJzTy5DDs/Godzilla.King.Of.The.Monsters.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://verystream.com/stream/DE4aTX4nLP2/Godzilla.King.of.the.Monsters.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Rocketman (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-75
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/awj1Jj6LoaJ/Rocketman.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://verystream.com/stream/dQQ2aBau7o3/Rocketman.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/dnSsR1oAfn2/Rocketman.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://verystream.com/stream/2W7oaqK2Co4/rocketman_2019_1080p_bluray_x264-sparks%5BEtHD%5D.mp4
+
+type=video
+name=The Secret Life of Pets 2 (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYcaCNkB4EgVyvrXxxbklefDrGL.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/Wh481iK8z4t/The.Secret.Life.of.Pets.2.2019.1080p.BrRip.x265.HEVCBay.com.mkv.mp4
+#https://verystream.com/stream/gdmAb1e4AAf/The.Secret.Life.of.Pets.2.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/9e8DRvwDTMU/The.Secret.Life.of.Pets.2.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/TptajFFFkA7/The_Secret_Life_of_Pets_2_2019_BluRay_1080p_TrueHD_Atmos_7_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/d2go7K4PXgr/The_Secret_Life_of_Pets_2_2019_1080p_Bluray_Atmos_TrueHD_7_1_x264-EVO%5BEtHD%5D.mp4
+#https://verystream.com/stream/JoX613ZRvP/The_Secret_Life_of_Pets_2_2019_1080p_BluRay_AC3_x264-CMRG%5BEtHD%5D.mp4
+#https://verystream.com/stream/XUzM6ALrFVj/the_secret_life_of_pets_2_2019_1080p_bluray_x264-drones%5BEtHD%5D.mp4
+#https://verystream.com/stream/CbFW3bMG4rG/The.Secret.Life.of.Pets.2.2019.1080p.BRRip.x264.6CH-MkvCage.mkv.mp4
+#https://verystream.com/stream/Wh481iK8z4t/The.Secret.Life.of.Pets.2.2019.1080p.BrRip.x265.HEVCBay.com.mkv.mp4
+
+type=video
+name=Spy Cat (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-50
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/snf4D8QI6LSEpkhBiShzOZQwk6w.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/BiEM2HVcWN4/Spy.Cat.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+
+type=video
+name=12 Suicidal Teens (2019) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-55
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iauC6IK14sLlgy34YqeJKl8UoYN.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/God3Y56dTtY/12_suicidal_teens_2019_1080p_bluray_x264-regret%5BEtHD%5D.mp4
+#https://verystream.com/stream/c1v9bbQTTd7/12_Suicidal_Teens_2019_JPN_1080p_Blu-ray_DTS-HD_MA_5_1_HEV-DDR%5BEtHD%5D.mp4
+
+type=video
+name=What a Wonderful Family! 3: My Wife, My Life (2018) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-78
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGIOWKy3Qo6483khCkkXhqjz6Mo.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/bmUjnZwMYBE/what_a_wonderful_family_3_my_wife_my_life_2018_1080p_bluray_x264-regret%5BEtHD%5D.mp4
+
+type=video
+name=A Day (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-74
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Tgtamqk3Kp9iwflrDWRRTjGjXB.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/9NWQcR4sDrU/a_day_2017_1080p_bluray_x264-regret%5BEtHD%5D.mp4
+
+type=video
+name=Golden Orchestra! (2016) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-na
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MdUG36csmvqmIyOXD7lCJKywbv.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/hQeuU5pkVnE/golden_orchestra_2016_1080p_bluray_x264-regret%5BEtHD%5D.mp4
+
+type=video
+name=Top End Wedding (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-56
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/41tMKQSGAsjbhMfXk4Ygf2bpgTX.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/ZdJLP5LKeKV/Top_End_Wedding_2019_1080p_BluRay_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/NStknn6djWS/Top.End.Wedding.2019.1080p.BluRay.x264-PFa%5BEtHD%5D.mp4
+#https://verystream.com/stream/fBanBFNv9kx/Top.End.Wedding.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/FvuJ1UquEoh/Top.End.Wedding.2019.1080p.BluRay.1400MB.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/4PhAZCP9J2r/Top.End.Wedding.2019.1080p.BluRay.x264-YTS.LT.mp4
+
+type=video
+name=John Wick: Chapter 3 – Parabellum (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/R1XLU7V7wtj/John.Wick.Chapter.3.Parabellum.2019.1080p.BrRip.x265.HEVCBay.com.mkv.mp4
+#https://verystream.com/stream/16X4UGypcBA/John.Wick.3.2019.720p.BluRay.900MB.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/7aj3cewjeD5/John_Wick_3_2019_1080p_Bluray_X264-EVO%5BEtHD%5D.mp4
+#https://verystream.com/stream/a1ZGZBGG75N/John_Wick_3_2019_1080p_BluRay_DTS_x264-EVO%5BEtHD%5D.mp4
+#https://verystream.com/stream/PQdjmy7VVw8/John.Wick.3.2019.1080p.Bluray.1600MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/ZZeKUSgMrxc/John.Wick.3.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://verystream.com/stream/TP41egQQVMR/John.Wick.3.2019.1080p.Bluray.X264-EVO.mkv.mp4
+#https://verystream.com/stream/UBmvrWMvhML/John_Wick_Chapter_3_Parabellum_2019_BluRay_720p_DTS-HDChina%5BEtHD%5D.mp4
+#https://verystream.com/stream/AMQH6M6SuyB/John_Wick_3_Parabellum_2019_MULTi_Bluray_1080p_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/bmTnMifxNKP/John_Wick_3_Parabellum_2019_1080p_BluRay_AC3_X264-CMRG%5BEtHD%5D.mp4
+#https://verystream.com/stream/YGVyM17rxy4/John.Wick.Chapter.3.-.Parabellum.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://verystream.com/stream/MoixnGd6vMp/John.Wick.Chapter.3.Parabellum.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/9DnLksBZoRZ/John_Wick_Chapter_3_Parabellum_2019_1080p_BluRay_x264-SPARKS%5BEtHD%5D.mp4
+#https://verystream.com/stream/R1XLU7V7wtj/John.Wick.Chapter.3.Parabellum.2019.1080p.BrRip.x265.HEVCBay.com.mkv.mp4
+
+type=video
+name=Vault (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-40
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxi0BXGiEBlzbclktf8IDlTPiWt.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/PPXhPQQKdaB/Vault.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/CNoxm98bSCc/Vault_2019_1080p_BluRay_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/5Umr1sRnvgA/Vault_2019_1080p_BluRay_x264-PSYCHD.mp4
+
+type=video
+name=A Dog's Journey (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pzN52wxBZ05EXBdoii1kqoIoD4.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/DEAR8ptNLeh/a_dogs_journey_2019_1080p_bluray_x264-geckos%5BEtHD%5D.mp4
+#https://verystream.com/stream/6rJvLR2sMfQ/A.Dogs.Journey.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/9dpXK6nZWdH/A.Dogs.Journey.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://verystream.com/stream/3XDKdXE8mdB/A_Dogs_Journey_2019_MULTi_1080p_Blu-ray_Atmos_7_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=The Hustle (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHAD7cx1j2RAyjwREVgJeLcLVoi.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/RyMCwTSEz4n/the_hustle_2019_1080p_bluray_x264-drones%5BEtHD%5D.mp4
+#https://verystream.com/stream/YfV58jNGdXv/The.Hustle.2019.1080p.BRRip.x264.6CH-MkvCage.mkv.mp4
+#https://verystream.com/stream/ggJn13JDhbj/The.Hustle.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/GvWUMgDu8Qp/The_Hustle_2019_MULTi_1080p_BluRay_DTS-HD_MA_7_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=Brightburn (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/roslEbKdY0WSgYaB5KXvPKY0bXS.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/5RGPwxVNVNH/Brightburn.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://verystream.com/stream/cLZHCZTrb7s/Brightburn_2019_1080p_Bluray_DTS-HD_MA_5_1_x264-EVO%5BEtHD%5D.mp4
+#https://verystream.com/stream/5RGPwxVNVNH/Brightburn.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://verystream.com/stream/2XhckFPS8V1/brightburn_2019_1080p_bluray_x264-geckos%5BEtHD%5D.mp4
+#https://verystream.com/stream/BFEd34ivsBp/Brightburn.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/BdBZcg8NXMG/Brightburn_2019_MULTi_1080p_BluRay_TrueHD_Atmos_7_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/5vPMiv4ThxW/Brightburn_2019_BluRay_1080p_AAC_x264-MPAD%5BEtHD%5D.mp4
+
+type=video
+name=Namiya (2017) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/mk9TLiHwB2roehdCzwP9ydX0IXX.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/62jz6r4MxQA/namiya_2017_1080p_bluray_x264-regret%5BEtHD%5D.mp4
+
+
+
+
+
 
 
 
@@ -1898,8 +2165,9 @@ URL=https://verystream.com/stream/iAd8P4XnYiq/Fast.Color.2018.1080p.BluRay.H264.
 type=video
 name=A Dark Place (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-55
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNMFewMWsia2HdZJ1cyQH2C9v9t.jpg
-date=2019-08-03
-URL=https://verystream.com/stream/LpExBdSdrEi/A.Dark.Place.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
+date=2019-09-22
+URL=https://verystream.com/stream/JGm7CiSuEoC/A_Dark_Place_2018_BluRay_1080p_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/LpExBdSdrEi/A.Dark.Place.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
 #https://verystream.com/stream/ZiBeZHSHHXf/A.Dark.Place.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://verystream.com/stream/AhSpv8PuctF/A.Dark.Place.2019.1080p.Bluray.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
 #https://verystream.com/stream/LpExBdSdrEi/A.Dark.Place.2018.1080p.BluRay.X264-AMIABLE.mkv.mp4
@@ -3193,8 +3461,9 @@ URL=https://openload.co/f/p2SWykJt6S0/Secrets.In.Suburbia.2017.1080p.BluRay.H264
 type=video
 name=The Dark (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-63
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPUJsR3UJ6AUOKxx0d6dOlLHln4.jpg
-date=2019-07-19
-URL=https://openload.co/f/xyCawunJmVE/The_Dark_%282018%291080p_BluRay_REMUX_AVC_DTS-HD_MA_5.1-FG-Ganool.mkv.mp4
+date=2019-09-22
+URL=https://verystream.com/stream/H7DY9o1UJof/The_Dark_2018_1080p_Blu-ray_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://openload.co/f/xyCawunJmVE/The_Dark_%282018%291080p_BluRay_REMUX_AVC_DTS-HD_MA_5.1-FG-Ganool.mkv.mp4
 #https://openload.co/f/fzk9-dnGKqk/The.Dark.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://openload.co/f/xyCawunJmVE/The_Dark_%282018%291080p_BluRay_REMUX_AVC_DTS-HD_MA_5.1-FG-Ganool.mkv.mp4
 
@@ -3791,8 +4060,10 @@ URL=https://openload.co/f/o6uoFFNuv14/Piercing.2018.1080p.BluRay.H264.AAC-RARBG.
 type=video
 name=Alien Predator (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-31
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxHWPPNXhegzZHCUSgjlPwnuQ2C.jpg
-date=2019-02-28
-URL=https://openload.co/f/vKYp_0HotlE/Alien.Predator.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+date=2019-09-22
+URL=https://verystream.com/stream/ETvUivnbzEV/Alien_Predator_2018_1080p_Blu-ray_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/2kRX2yAikss/Alien_Predator_2018_1080p_Blu-ray_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://openload.co/f/vKYp_0HotlE/Alien.Predator.2018.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Nightshooters (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
@@ -9502,8 +9773,9 @@ URL=https://openload.co/f/vJay3ju64yc/SUNNY_OUR_HEARTS_BEAT_TOGETHER_%282018%29_
 type=video
 name=Captain Marvel (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg
-date=2019-06-02
-URL=https://verystream.com/stream/WQDUUZgU32T/Captain_Marvel_2019_1080p_BluRay_x264-YTS_AM.mp4
+date=2019-09-22
+URL=https://verystream.com/stream/CJjau95VmWN/Captain.Marvel.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://verystream.com/stream/WQDUUZgU32T/Captain_Marvel_2019_1080p_BluRay_x264-YTS_AM.mp4
 #https://verystream.com/stream/RVzBtkTtRDm/Captain_Marvel_2019_1080p_BluRay_x264-YTS_AM.mp4
 #https://openload.co/f/bB3nzLZRDas/Captain.Marvel.2019.1080p.BluRay_SeeHD.mp4
 #https://openload.co/f/PFMIsWid9o4/Captain_Marvel_%282019%291080p_BluRay_x264-SPARKS_Ganool.mkv.mp4
@@ -9625,14 +9897,8 @@ URL=
 type=video
 name=
 thumb=
-date=2019-09-18
+date=2019-09-22
 URL=
-
-
-
-
-
-
 
 
 
@@ -9642,10 +9908,34 @@ URL=
 
 
 type=video
-name=
-thumb=
-date=2019-09-18
-URL=
+name=Aladdin (1992) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BUmvNKdPLxraqYRyniixn34UjN.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/QwegXmNZpzG/Aladdin_1992_MULTi_UHD_Blu-Ray_2160p_Atmos_7_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=Patrick (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzo0rfLxgcbUPfjT3yjBYioFpv9.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/7Eck2JFZQ2B/Patrick_2018_1080p_BluRay_X264-AMIABLE%5BEtHD%5D.mp4
+
+type=video
+name=Avatar (2009) [COLOR=FF00FF00]ENG ECE BR 1080p[/COLOR] | TMDB-74
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmcqlZGaSh20zpTbuoF0Cdn07dT.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/RMixUSyQiMQ/Avatar.ECE.2009.1080p.BrRip.x264.YIFY.mp4
+
+type=video
+name=Green Book (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-83
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/FMxqrhJ2gP1/Green.Book.2018.1080p.BrRip.x265.HEVCBay.mkv.mp4
+
+type=video
+name=Glass (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-65
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg
+date=2019-09-22
+URL=https://verystream.com/stream/9tP3eURFkZq/Glass.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
 
 
 
