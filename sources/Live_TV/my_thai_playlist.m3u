@@ -2854,13 +2854,13 @@ http://persik.by/stream/8098/408411/10003.m3u8
 http://178.219.160.167:8080/Nuart/index.m3u8 
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_play/a00l---------------------------
 http://86.57.182.131:8905/play/a00l
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp233.1.1.251:1234 
-http://92.42.14.217:4022/udp/233.1.1.251:1234 
-#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp239.195.6.33:1234
-http://109.248.71.62:15999/udp/239.195.6.33:1234
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",nuart tv_udp233.1.1.251:1234 ---
+http://188.68.31.237:4022/udp/233.1.1.251:1234 
+#EXTINF:-1  tvg-logo="http://hochu.tv/images/nuart-tv.png",nuart tv_udp239.195.6.33:1234---
+http://94.230.123.219:81/udp/239.195.6.33:1234
 
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://79.133.101.78:999
-http://79.133.101.199:999/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://185.3.182.72:999
+http://185.3.182.72:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://79.133.108.25:999
 http://79.133.108.25:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_centurionlukavac
@@ -2994,7 +2994,7 @@ rtmp://62.210.55.60/stream3xVJ/3x07
 rtmp://62.210.55.60/stream3xVJ/3x12
 #EXTINF:-1,Slut_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x18
-#EXTINF:-1,soft_rtmp
+#EXTINF:-1,temp_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x16
 #EXTINF:-1,drama_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x15
@@ -3004,22 +3004,24 @@ rtmp://62.210.55.60/stream3xVJ/3x20
 rtmp://62.210.55.60/stream3xVJ/3x32
 #EXTINF:-1,redtraffic_milf-----------------------------
 http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1,redtraffic_bigtits
+http://live.redtraffic.xyz/bigtits.m3u8
 #EXTINF:-1,redtraffic_threesome
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1,redtraffic_blowjob
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1,redtraffic_pov
-http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1,redtraffic_teen
 http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1,redtraffic_pornstar
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1,redtraffic_latina
-http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1,redtraffic_blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
 #EXTINF:-1,redtraffic_russian
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1,redtraffic_lesbian
 http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1,redtraffic_pov
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1,redtraffic_pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1,redtraffic_latina
+http://live.redtraffic.xyz/latina.m3u8
 #EXTINF:-1,redtraffic_fetish
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1,redtraffic_hardcore
@@ -3298,7 +3300,13 @@ http://ok2.se:8000/t1BW2MsonF/1W8e4YB0Rl/77332
 http://ok2.se:8000/HJ4v0QBXi4/1NrSEsV36k/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test29
 http://ok2.se:8000/mvGmPpaHQf/LhgVdQY78Y/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test30
+http://ok2.se:8000/t1BW2MsonF/1W8e4YB0Rl/77332
 
+#EXTINF:-1,DaVinci----------
+http://92.84.226.163:9981/stream/channelid/2068603073
+#EXTINF:-1,E! Entertainment HD
+http://92.84.226.163:9981/stream/channelid/844347138
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT--------------
@@ -3325,7 +3333,7 @@ rtmp://118.97.96.17:1935/discover/afc_3
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
 
-#EXTINF:-1,Food Network
+#EXTINF:-1,Food Network------
 http://178.132.6.60/TV3102
 #EXTINF:-1,Discovery World
 http://178.132.6.61/TV3701
@@ -3347,8 +3355,6 @@ http://188.35.9.8:21031/udp/079q
 #EXTINF:-1,LUXE
 http://188.35.9.11:21121/udp/174a
 
-
-
 #EXTINF: -1, BBC EARTH---------------
 http://188.35.9.14:21151/udp/156z
 #EXTINF:-1, BBC FIRST HD
@@ -3356,11 +3362,12 @@ http://188.35.9.14:21151/udp/155r
 #EXTINF: -1, BBC Lifets
 http://188.35.9.14:21111/udp/164j
 
+#EXTINF:-1,DOCUBOX-----------
+http://217.103.38.220:8001/1:0:16:36E3:C8C:3:EB0000:0:0:0:
 
 
-
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://79.133.101.78:999
-http://79.133.101.199:999/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://185.3.182.72:999
+http://185.3.182.72:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV_tvport
 http://tvport.it-tele.net:8000/f6c3f3b4a6fc08c50fa7881628aaad42
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV
@@ -3447,19 +3454,17 @@ http://14.187.33.162:4022/rtp/232.84.2.177:10488
 #EXTINF:-1,CNBC_th
 http://14.207.2.242:8000/play/a03n
 
-#EXTINF:-1,US: CNBS HD_test
-http://forever.moppie.info:7444/live/BqhHZWrTEl/2E8jhQZMHX/3550.ts
-#EXTINF:-1,US: CNBS HD
+
+#EXTINF:-1,US: CNBS HD_arab_moppie
 http://forever.moppie.info:7444/live/amerusaasKa/jQJxUR0PkA/3550.ts
 
 
-#EXTINF:-1,CA: CNBC
-http://rocksat.ddns.net:25461/love1/1234/34663
-#EXTINF:-1,US: CNBC HD
-http://rocksat.ddns.net:25461/love1/1234/23713
 
+#EXTINF:-1,CNBC HD
+http://81.241.230.253:9981/stream/channelid/1468786685
 
-
+#EXTINF:-1,CNBC Europe
+http://217.103.38.220:8001/1:0:1:272E:402:1:C00000:0:0:0:
 
 
 

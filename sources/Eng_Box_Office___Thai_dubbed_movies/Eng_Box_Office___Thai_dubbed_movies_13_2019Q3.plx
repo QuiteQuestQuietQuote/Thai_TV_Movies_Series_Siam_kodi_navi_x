@@ -9796,7 +9796,8 @@ type=video
 name=Captain Marvel (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg
 date=2019-06-03
-URL=https://openload.co/f/T7TTqPXtZvc/CAPTAIN_MARVEL_%282019%29%E0%B8%81%E0%B8%B1%E0%B8%9B%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A7%E0%B8%A5.mp4
+URL=https://streamango.com/f/metpqtrbdpppstrf/Captain_Marvel_2019_mp4
+#https://openload.co/f/T7TTqPXtZvc/CAPTAIN_MARVEL_%282019%29%E0%B8%81%E0%B8%B1%E0%B8%9B%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A7%E0%B8%A5.mp4
 
 
 type=video
