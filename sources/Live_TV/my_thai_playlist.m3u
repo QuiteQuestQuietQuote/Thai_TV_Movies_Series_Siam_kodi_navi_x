@@ -2870,8 +2870,7 @@ http://tvport.it-tele.net:8000/f6c3f3b4a6fc08c50fa7881628aaad42
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV
 http://62.210.215.83:8000/play/a00m/index.m3u8
 
-#EXTINF:-1  tvg-logo="http://onlines.tv/wp-content/uploads/2016/12/mob-nuart-tv.png",NuArt_black
-http://51.15.125.186:8081/live/nuart/playlist.m3u8
+
 
 
 
@@ -3226,8 +3225,8 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
 http://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_b1896000.m3u8?fluxuslust.m3u8
 
 
-
-
+#EXTINF:-1,masterpieces----
+http://178.159.52.230:34040/udp/239.255.11.8:1234
 
 
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2-80--------------------------
@@ -3303,11 +3302,8 @@ http://ok2.se:8000/mvGmPpaHQf/LhgVdQY78Y/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test30
 http://ok2.se:8000/t1BW2MsonF/1W8e4YB0Rl/77332
 
-#EXTINF:-1,DaVinci----------
-http://92.84.226.163:9981/stream/channelid/2068603073
-#EXTINF:-1,E! Entertainment HD
-http://92.84.226.163:9981/stream/channelid/844347138
-
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_ukr----------
+http://176.101.120.127:1234/udp/239.255.128.132:1234
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT--------------
 http://118.68.25.185:4022/udp/225.1.2.24:30120
@@ -3333,10 +3329,7 @@ rtmp://118.97.96.17:1935/discover/afc_3
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
 
-#EXTINF:-1,Food Network------
-http://178.132.6.60/TV3102
-#EXTINF:-1,Discovery World
-http://178.132.6.61/TV3701
+
 
 #EXTINF:-1,Discovery Life HD-------------------
 http://188.35.9.8:21141/udp/142v
@@ -3455,16 +3448,11 @@ http://14.187.33.162:4022/rtp/232.84.2.177:10488
 http://14.207.2.242:8000/play/a03n
 
 
-#EXTINF:-1,US: CNBS HD_arab_moppie
-http://forever.moppie.info:7444/live/amerusaasKa/jQJxUR0PkA/3550.ts
 
 
 
-#EXTINF:-1,CNBC HD
-http://81.241.230.253:9981/stream/channelid/1468786685
 
-#EXTINF:-1,CNBC Europe
-http://217.103.38.220:8001/1:0:1:272E:402:1:C00000:0:0:0:
+
 
 
 

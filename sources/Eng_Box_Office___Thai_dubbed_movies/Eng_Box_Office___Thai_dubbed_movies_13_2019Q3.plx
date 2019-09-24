@@ -5248,16 +5248,7 @@ URL=https://uptobox.com/owizozu1kb1k
 #https://fruithosts.net/embed/ndnarombnfokosos/ELIZABETHHARVESTVD72_Ganol_si_mkv_mp4
 #https://oload.fun/embed/6hG_SHvtlCI/ELIZABETHHARVESTVD72.Ganol.si.mkv.mp4
 
-type=video
-name=Assassination Nation (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2Nmyqh84rMiBwNfC2jMjuQluW4.jpg
-date=2018-12-10
-URL=https://uptobox.com/u9d9mw6fs20u
-#https://fruithosts.net/embed/kkerofrbmmcqsokr/ASSASINATIONNATION80_Ganol_si_mkv
-#https://oload.fun/embed/P-rjNAB4-VQ/ASSASINATIONNATION80.Ganol.si.mkv
-#https://openload.co/f/3hHB0BVYqT8/Assassination_Nation_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4.mp4
-#https://openload.co/f/ojEnOXsS-FA/Assassination.Nation.2018.1080p.BR_SeeHD.mp4
-#https://openload.co/f/s4z_HM9IjPo/Assassination.Nation.2018.1080p.WEB-DL.H264.AC3-eSc.mkv.mp4
+
 
 
 
@@ -9653,6 +9644,41 @@ URL=https://openload.co/f/oRT9Oagz3so/AN_ORDINARY_MAN_%282017%29_%E0%B8%9E%E0%B8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Assassination Nation (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2Nmyqh84rMiBwNfC2jMjuQluW4.jpg
+date=2018-12-10
+URL=https://uptobox.com/u9d9mw6fs20u
+#https://fruithosts.net/embed/kkerofrbmmcqsokr/ASSASINATIONNATION80_Ganol_si_mkv
+#https://oload.fun/embed/P-rjNAB4-VQ/ASSASINATIONNATION80.Ganol.si.mkv
+#https://openload.co/f/3hHB0BVYqT8/Assassination_Nation_%282018%291080p_BluRay_x264-DRONES.Ganool.mkv.mp4.mp4
+#https://openload.co/f/ojEnOXsS-FA/Assassination.Nation.2018.1080p.BR_SeeHD.mp4
+#https://openload.co/f/s4z_HM9IjPo/Assassination.Nation.2018.1080p.WEB-DL.H264.AC3-eSc.mkv.mp4
+type=video
+name=Assassination Nation (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2Nmyqh84rMiBwNfC2jMjuQluW4.jpg
+date=2019-09-24
+URL=https://openload.co/f/-3TQWfE8vmU/Assassination_Nation_%282018%29%E0%B9%81%E0%B8%AD%E0%B8%AA%E0%B9%81%E0%B8%8B%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99_%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99.mp4
+#https://openload.co/f/-3TQWfE8vmU/Assassination_Nation_%282018%29%E0%B9%81%E0%B8%AD%E0%B8%AA%E0%B9%81%E0%B8%8B%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99_%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99.mp4
+
+
 type=video
 name=The Prodigy (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyejodyk3lWncVjVhhrEkPctY9o.jpg
@@ -9667,7 +9693,8 @@ type=video
 name=The Prodigy (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyejodyk3lWncVjVhhrEkPctY9o.jpg
 date=2019-06-07
-URL=https://openload.co/f/ZxIYOTb0rlQ/THE_PRODIGY_%282019%29%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81_%28%E0%B8%88%E0%B8%AD%E0%B8%87%29_%E0%B9%80%E0%B8%A7%E0%B8%A3.mp4
+URL=https://openload.co/f/FvBU-fo9OfI/The_Prodigy_%282019%29%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81_%28%E0%B8%88%E0%B8%AD%E0%B8%87%29_%E0%B9%80%E0%B8%A7%E0%B8%A3.mp4
+#https://openload.co/f/ZxIYOTb0rlQ/THE_PRODIGY_%282019%29%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81_%28%E0%B8%88%E0%B8%AD%E0%B8%87%29_%E0%B9%80%E0%B8%A7%E0%B8%A3.mp4
 #https://openload.co/f/ynzSSvbUQyI/The_Prodigy_%282019%29%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81_%28%E0%B8%88%E0%B8%AD%E0%B8%87%29_%E0%B9%80%E0%B8%A7%E0%B8%A3_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
@@ -9688,7 +9715,8 @@ type=video
 name=BlacKkKlansman (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/55W6mUVv4CXMMQHHhV2zXtLSpXQ.jpg
 date=2019-06-07
-URL=https://openload.co/f/SMryQIUGjTc/BLACKKKLANSMAN_%282018%29%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%84%E0%B9%81%E0%B8%84%E0%B8%A5%E0%B8%99%E0%B8%8B%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99.mp4
+URL=https://openload.co/f/0Svs64Yr0Ok/BlacKkKlansman_%282018%29%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%84%E0%B9%81%E0%B8%84%E0%B8%A5%E0%B8%99%E0%B8%8B%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99.mp4
+#https://openload.co/f/SMryQIUGjTc/BLACKKKLANSMAN_%282018%29%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%84%E0%B9%81%E0%B8%84%E0%B8%A5%E0%B8%99%E0%B8%8B%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99.mp4
 #https://openload.co/f/HTQHQleGNPA/BlacKkKlansman_%282018%29BlacKkKlansman_%282018%29_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
@@ -9702,7 +9730,8 @@ type=video
 name=On the Basis of Sex (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/izY9Le3QWtu7xkHq7bjJnuE5yGI.jpg
 date=2019-06-07
-URL=https://openload.co/f/-tHuL6eXze8/ON_THE_BASIS_OF_SEX_%282018%29%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+URL=https://openload.co/f/S4Zn7445kiM/On_the_Basis_of_Sex_%282018%29%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+#https://openload.co/f/-tHuL6eXze8/ON_THE_BASIS_OF_SEX_%282018%29%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 
 
 type=video
@@ -9714,7 +9743,8 @@ type=video
 name=The Incredible Monk - Dragon Return (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoAj8JqtlDsn8FcSOtWdOcqsMV1.jpg
 date=2019-06-07
-URL=https://openload.co/f/JvU2IROqs8E/THE_INCREDIBLE_MONK_-_DRAGON_RETURN_%282018%29%E0%B8%88%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B8%87_%E0%B8%84%E0%B8%99%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%9A%E0%B9%8A%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B9%8C_%E0%B8%A0%E0%B8%B2%E0%B8%84_2.mp4
+URL=https://openload.co/f/5jfY286QfiU/The_Incredible_Monk_-_Dragon_Return_%282018%29%E0%B8%88%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B8%87_%E0%B8%84%E0%B8%99%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%9A%E0%B9%8A%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B9%8C_%E0%B8%A0%E0%B8%B2%E0%B8%84_2.mp4
+#https://openload.co/f/JvU2IROqs8E/THE_INCREDIBLE_MONK_-_DRAGON_RETURN_%282018%29%E0%B8%88%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B8%87_%E0%B8%84%E0%B8%99%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%9A%E0%B9%8A%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B9%8C_%E0%B8%A0%E0%B8%B2%E0%B8%84_2.mp4
 
 
 type=video
@@ -9726,7 +9756,8 @@ type=video
 name=Genghis Khan (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ofqcgDnWoWMCwjYkD76VhbJH5F.jpg
 date=2019-06-07
-URL=https://openload.co/f/vwShx3GaJPc/GENGHIS_KHAN_%282018%29%E0%B9%80%E0%B8%88%E0%B8%87%E0%B8%81%E0%B8%B4%E0%B8%AA%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%99.mp4
+URL=https://openload.co/f/UIsWgDI2IqU/Genghis_Khan_%282018%29%E0%B9%80%E0%B8%88%E0%B8%87%E0%B8%81%E0%B8%B4%E0%B8%AA%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%99.mp4
+#https://openload.co/f/vwShx3GaJPc/GENGHIS_KHAN_%282018%29%E0%B9%80%E0%B8%88%E0%B8%87%E0%B8%81%E0%B8%B4%E0%B8%AA%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%99.mp4
 
 
 type=video
@@ -9739,7 +9770,8 @@ type=video
 name=Three Identical Strangers (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXJBUzbmYvZRrAdnQU3dBvOktew.jpg
 date=2019-06-07
-URL=https://openload.co/f/S_mEMLAUrGs/Three_Identical_Strangers_%282018%29%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%99_%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99.mp4
+URL=https://openload.co/f/Q937IzT8ayg/Three_Identical_Strangers_%282018%29%E0%B9%81%E0%B8%9D%E0%B8%94_3.mp4
+#https://openload.co/f/S_mEMLAUrGs/Three_Identical_Strangers_%282018%29%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%99_%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99.mp4
 
 
 type=video
@@ -9755,7 +9787,8 @@ type=video
 name=If Beale Street Could Talk (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhUIOTSi3kr4290tKrVyeriyvrv.jpg
 date=2019-06-07
-URL=https://openload.co/f/xYXoCJDGzqc/If_Beale_Street_Could_Talk_%282018%29_%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%B9%E0%B8%94%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%B5%E0%B9%88_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.mp4
+URL=https://openload.co/f/xfmtE4y7mJU/If_Beale_Street_Could_Talk_%282018%29%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%9A%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%A1_%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%B9%E0%B8%94%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%B5%E0%B9%88.mp4
+#https://openload.co/f/xYXoCJDGzqc/If_Beale_Street_Could_Talk_%282018%29_%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%B9%E0%B8%94%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%B5%E0%B9%88_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.mp4
 
 
 type=video
@@ -9767,7 +9800,8 @@ type=video
 name=Sunny: Our Hearts Beat Together (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsYLaz86lWeFHSJSYoidJG39383.jpg
 date=2019-06-07
-URL=https://openload.co/f/vJay3ju64yc/SUNNY_OUR_HEARTS_BEAT_TOGETHER_%282018%29_%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99_%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89_%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B9%84%E0%B8%9B.mp4
+URL=https://openload.co/f/52aBPvFEhW4/Sunny%3A_Our_Hearts_Beat_Together_%282018%29%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99_%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89_%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B9%84%E0%B8%9B.mp4
+#https://openload.co/f/vJay3ju64yc/SUNNY_OUR_HEARTS_BEAT_TOGETHER_%282018%29_%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99_%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89_%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B9%84%E0%B8%9B.mp4
 
 
 type=video
@@ -9809,7 +9843,8 @@ type=video
 name=Café Funiculi Funicula (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MbRPfsRPyKIQnpLgIpBzksiuM1.jpg
 date=2019-06-07
-URL=https://openload.co/f/B8DPMJC3zSs/CAFE_FUNICULI_FUNICULA_%282018%29%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B9%81%E0%B8%9F%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99.mp4
+URL=https://openload.co/f/AWFaQO722og/Cafe_Funiculi_Funicula_%282018%29%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B9%81%E0%B8%9F%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99.mp4
+#https://openload.co/f/B8DPMJC3zSs/CAFE_FUNICULI_FUNICULA_%282018%29%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B9%81%E0%B8%9F%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99.mp4
 #https://openload.co/f/4-xzrEI1244/CAFE_FUNICULI_FUNICULA_%282018%29%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B9%81%E0%B8%9F%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99.mp4
 
 
@@ -9827,7 +9862,8 @@ type=video
 name=Arizona (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzeoTO2GoOvnBsYGxE4iJq1hrc8.jpg
 date=2019-06-03
-URL=https://openload.co/f/CEzZGqi7DMU/ARIZONA_%282018%29%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B9%82%E0%B8%8B%E0%B8%99%E0%B8%B2.mp4
+URL=https://openload.co/f/fKWtkVUq4J8/Arizona_%282018%29%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B9%82%E0%B8%8B%E0%B8%99%E0%B8%B2.mp4
+#https://openload.co/f/CEzZGqi7DMU/ARIZONA_%282018%29%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B9%82%E0%B8%8B%E0%B8%99%E0%B8%B2.mp4
 
 
 type=video
@@ -9839,7 +9875,8 @@ type=video
 name=The Perfection (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPDe68PDsgIGMs6wdJLtcwVVxA7.jpg
 date=2019-06-03
-URL=https://openload.co/f/kUaMGnaQM_k/THE_PERFECTION_%282018%29%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87.mp4
+URL=https://openload.co/f/RngiM5tXlfU/The_Perfection_%282018%29%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87.mp4
+#https://openload.co/f/kUaMGnaQM_k/THE_PERFECTION_%282018%29%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87.mp4
 
 
 
