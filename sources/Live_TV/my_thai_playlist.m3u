@@ -2759,8 +2759,6 @@ http://125.227.210.37:8895/VideoInput/play.ts
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?nimabitv.m3u8
 #EXTINF:-1,Movies_rtmp
 rtmp://62.210.55.60/stream3xVJ/3x11
-#EXTINF:-1,FREEFORM
-http://185.246.209.109:8080/FREEFORM/index.m3u8
 #EXTINF:-1,WARNERBROS
 http://103.205.133.44:1935/ns/WARNERBROS/playlist.m3u8
 #EXTINF:-1,FOX-ACTION
@@ -2910,18 +2908,7 @@ http://185.35.4.37:8087/shalun/ch.m3u8
 #EXTINF:-1,BHot
 http://37.189.31.80:8070/play/a03l/index.m3u8
 
-#EXTINF:-1,playboy_black-------------
-http://51.15.125.186:8081/live/playboy/chunks.m3u8
-#EXTINF:-1,beate uhse
-http://51.15.125.186:8081/live/legalpnew/playlist.m3u8
-#EXTINF:-1,barely legal
-http://51.15.125.186:8081/live/barelylegal/playlist.m3u8
-#EXTINF:-1,platino
-http://51.15.125.186:8081/live/platino/chunks.m3u8
-#EXTINF:-1,venus
-http://51.15.125.186:8081/live/venus/playlist.m3u8
-#EXTINF:-1,prive
-http://51.15.125.186:8081/live/centoxcento/playlist.m3u8
+
 
 
 
@@ -2930,18 +2917,21 @@ http://cdn.adultiptv.net/milf.m3u8
 #EXTINF:-1,adultiptv_teen
 http://cdn.adultiptv.net/teen.m3u8
 
-#EXTINF:-1,Beate-Uhse.TV HD -------------
-http://188.93.238.133:8000/play/a059
-#EXTINF:-1,Beate-Uhse.TV HD
+
+#EXTINF:-1,Beate-Uhse.TV HD-------------
 http://78.83.88.38:8899/play/a028
+#EXTINF:-1,Beate-Uhse.TV HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/120770
+#EXTINF:-1,Beate-Uhse.TV HD
+http://live.eurovipserver.com:1453/aksel/ilker/120770
+
 #EXTINF:-1,LO-DE: BEATE-UHSE.TV
 http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/89673
 #EXTINF:-1,[ADULT] BEATE UHSE HD 
 http://iptv.4k4g.in:8080/live/aksa/aksa/286.ts
 #EXTINF:0,XXX: Beate Uhse TV 
 http://thenew.tv:8000/Roxy1/Roxy12/37825
-#EXTINF:-1,Beate-Uhse.TV HD
-http://live.eurovipserver.com:1453/Halil/Akdogan/120770
+
 
 
 #EXTINF:-1,private_/udp-----------------
@@ -2957,41 +2947,39 @@ http://188.35.9.10:21131/udp/142d
 #EXTINF:-1,Russian Night_/udp
 http://188.35.9.11:21051/udp/071l
 #EXTINF:-1,playboy_Red TV--------------------------
-http://38.91.107.64:8080/TV3779
-#EXTINF:-1,Dorcel_test-----
-http://190.2.154.164/TV9917
+http://190.2.154.164/TV3779
 #EXTINF:-1,hustlerHD
-http://38.91.107.64:8080/TV9926
+http://190.2.154.164/TV9926
 #EXTINF:-1,hustler
-http://38.91.107.64:8080/TV9916
+http://190.2.154.164/TV9916
 #EXTINF:-1,Dorcel
-http://38.91.107.64:8080/TV9917
+http://190.2.154.164/TV9917
 #EXTINF:-1,Vivid EU
-http://38.91.107.64:8080/TV9918
+http://190.2.154.164/TV9918
 #EXTINF:-1,Private
-http://38.91.107.64:8080/TV9921
+http://190.2.154.164/TV9921
 #EXTINF:-1,RK
-http://38.91.107.64:8080/TV9902
+http://190.2.154.164/TV9902
 #EXTINF:-1,XXX star
-http://38.91.107.64:8080/TV9936
+http://190.2.154.164/TV9936
 #EXTINF:-1,Penthouse_gold
-http://38.91.107.64:8080/TV9938
+http://190.2.154.164/TV9938
 #EXTINF:-1,Penthouse_passion
-http://38.91.107.64:8080/TV9928
+http://190.2.154.164/TV9928
 #EXTINF:-1,playboy_blue
-http://38.91.107.64:8080/TV9915
+http://190.2.154.164/TV9915
 #EXTINF:-1,Vivid red
-http://38.91.107.64:8080/TV9933
+http://190.2.154.164/TV9933
 #EXTINF:-1,XXL
-http://38.91.107.64:8080/TV9934
+http://190.2.154.164/TV9934
 #EXTINF:-1,Vivid EU
-http://38.91.107.64:8080/TV9918
+http://190.2.154.164/TV9918
 #EXTINF:-1,blue hustler
-http://38.91.107.64:8080/TV9927
+http://190.2.154.164/TV9927
 #EXTINF:-1,RedLight
-http://38.91.107.64:8080/TV9922
+http://190.2.154.164/TV9922
 #EXTINF:-1,SCT
-http://38.91.107.64:8080/TV9923
+http://190.2.154.164/TV9923
 #EXTINF:-1,lesbian_rtmp--------------------------------------
 rtmp://62.210.55.60/stream3xVJ/3x01
 #EXTINF:-1,Solo_rtmp
@@ -3216,8 +3204,7 @@ http://streamnossl.1919hdtv.com:8880/lfh/_definst_/Stream1/playlist.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://files.fashiontv.com/wp-content/uploads/2015/07/fashiontvplus-logo.png",FTV_UHD_youtube
-https://www.youtube.com/embed/WDPQQYwd1KA?autoplay=1
+
 #EXTINF:-1  tvg-logo="https://files.fashiontv.com/wp-content/uploads/2015/07/fashiontvplus-logo.png",FTV_Original
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://files.fashiontv.com/wp-content/uploads/2015/07/fashiontvplus-logo.png",FTV_Paris
@@ -3254,6 +3241,8 @@ http://ok2.se:80/ZRPkplnePG/2n6JFUqrTr/77332
 http://ok2.se:80/oJQIpmmjbI/tAQwdHDA3g/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test3
 http://ok2.se:80/r8KMCKGTik/xelMmJC7tz/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test4
+http://ok2.se:80/lCzvrbIuvo/MFuPssSB1N/77332
 
 
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test1--------------------------
@@ -3323,22 +3312,22 @@ http://ok2.se:8000/t1BW2MsonF/1W8e4YB0Rl/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test31
 http://ok2.se:8000/t1BW2MsonF/1W8e4YB0Rl/77332
 
-#EXTINF:-1,DaVinci----------
-http://92.84.226.163:9981/stream/channelid/2068603073
-#EXTINF:-1,E! Entertainment HD
-http://92.84.226.163:9981/stream/channelid/844347138
-#EXTINF:-1,E!
-http://61.19.244.112:1935/live/livestream/playlist.m3u8
-#EXTINF:-1,BBC Earth
-https://cdn-ams-eu.planetapl.tv/bbc-earth/tracks-v1a1/index.m3u8?token=4.160110.161274.194%7CdkRiVUdaMVFWYStNV1hGd2lqR3ErcTRtWndqaHZOSngzSmNpbzRERElRaWlSOGVDem1GNmp1amZlOXkzaHhza05vbDI3RlBDRVJPRldsL25RaGcyUmdwcTg4UGU3WUFSWG5FV0tqZTRmZ2Y3V0h1bEo0azZEeGlOcVNiazlwS1oxL3JRT2FHSWtZSTVQbFlFNFFjbG9aU094ZElyMS9tWmkrNU1qRVJ6TW5VdVVlaGFKbUdrOU90TzZXdC9rWFA2NSswQnJjQktZVm1PaFVqYXQvSzd6K0VHcEhsaXJPb0o1Zi8zQkxLMFhWdnFmTU9yYVgrbXBuOVRCQmRaNm9TeldmTzZrdzFFaFpjTXhmR1Nmby9yejV3L2t3Mk1PMURjaUx4Q1dnZ0YvT3JYRXRDTThia2VJcmJCMnJ5ckVCMVV2UC9LVzZFZXZkWXhERkF6SDlXdG9aZjBpcWhwa0ZSd2FCbklOMm1VUUpMQnpGYUNXUzQ2b0VmRkRoODUvVzh3a0hwOTVQWmk4WGZNZENoNmsyU1RPVnVFVXBvSG5GVDFFbnpzSEhGbkVFemtFblIrVDN0cXE2U2lpQWRQbExhZmV2djRaUGtJNVBZQktwQnRtdWtHTXc9PXxkSVhQL1BJYVp1M1c5NWJIb2xpTzN5L1NQck54dVE2SFVtdjRyMy9NcWFJPQ%3D%3D
+
+
+
 #EXTINF:-1,Da Vinci Learning
-https://cdn-ams-eu.planetapl.tv/da-vinci-learning/tracks-v1a1/index.m3u8?token=4.160110.161274.194%7CdkRiVUdaMVFWYStNV1hGd2lqR3ErcTRtWndqaHZOSngzSmNpbzRERElRaWlSOGVDem1GNmp1amZlOXkzaHhza05vbDI3RlBDRVJPRldsL25RaGcyUmdwcTg4UGU3WUFSWG5FV0tqZTRmZ2Y3V0h1bEo0azZEeGlOcVNiazlwS1oxL3JRT2FHSWtZSTVQbFlFNFFjbG9aU094ZElyMS9tWmkrNU1qRVJ6TW5VdVVlaGFKbUdrOU90TzZXdC9rWFA2NSswQnJjQktZVm1PaFVqYXQvSzd6K0VHcEhsaXJPb0o1Zi8zQkxLMFhWdnFmTU9yYVgrbXBuOVRCQmRaNm9TeldmTzZrdzFFaFpjTXhmR1Nmby9yejV3L2t3Mk1PMURjaUx4Q1dnZ0YvT3JYRXRDTThia2VJcmJCMnJ5ckVCMVV2UC9LVzZFZXZkWXhERkF6SDlXdG9aZjBpcWhwa0ZSd2FCbklOMm1VUUpMQnpGYUNXUzQ2b0VmRkRoODUvVzh3a0hwOTVQWmk4WGZNZENoNmsyU1RPVnVFVXBvSG5GVDFFbnpzSEhGbkVFemtFblIrVDN0cXE2U2lpQWRQbExhZmV2djRaUGtJNVBZQktwQnRtdWtHTXc9PXxkSVhQL1BJYVp1M1c5NWJIb2xpTzN5L1NQck54dVE2SFVtdjRyMy9NcWFJPQ%3D%3D
+http://tv.pbx.kiev.ua/tv1/2.57
 
+#EXTINF:-1,[UK] BBC Earth HD
+http://e900x.com:8000/9wfR7kG4WE/4xP4Ztdv22/636
 
-#EXTINF:-1,Da Vinci----------
-http://188.35.9.5:10020/stolen/431c/hot.dll
-#EXTINF:-1,Da vinci kids
-http://213.174.8.7:11111/index.m3u8
+#EXTINF:-1,NL| E! ENTERTAINMENT FHD HEVC
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/50199
+
+#EXTINF:-1,BBC Earth HD (720)
+http://vip.turkiptv.net:1213/live/omer1/080218/46.ts
+#EXTINF:-1,TR: DA VINCI KIDS HD
+http://vip.turkiptv.net:1213/live/omer1/080218/167.ts
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT--------------
 http://118.68.25.185:4022/udp/225.1.2.24:30120
@@ -3350,14 +3339,6 @@ http://118.68.25.185:4022/udp/225.1.1.197:30120
 http://118.68.25.185:4022/udp/225.1.1.198:30120
 
 
-#EXTINF:-1, tvg-id="Da Vinci" tvg-logo="https://i.postimg.cc/QMycQfKv/davinci-hd.png" tvg-name="Da Vinci (HD)",Da Vinci
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
-#EXTINF:-1, tvg-id="Asian Food Channel" tvg-logo="https://i.postimg.cc/nczwZPYQ/asianfoodchannel-hd.png" tvg-name="Asian Food Channel (HD)",Asian Food Channel
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8?
-#EXTINF:0 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/989949-BBC-Lifestyle.png",BBC Lifestyle
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCLifestyle-HD-1080p/playlist.m3u8
-#EXTINF:0 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/568947-BBC-Earth.png",BBC Earth
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCEARTH-HD-ABR/HTV-ABR/BBCEARTH-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_tw_ts
 http://122.146.68.116:4046/VideoInput/play.ts
@@ -3371,8 +3352,6 @@ http://211.58.34.230:9981/stream/channelid/1299978861
 rtmp://118.97.96.17:1935/discover/afc_3
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1,wild food brother_CHN
-https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
 #EXTINF:-1,FOODIE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Style_HDsession
@@ -3397,7 +3376,6 @@ http://188.35.9.163:21121/udp/128c
 http://188.35.9.8:21031/udp/079q
 #EXTINF:-1,LUXE
 http://188.35.9.11:21121/udp/174a
-
 #EXTINF: -1, BBC EARTH---------------
 http://188.35.9.14:21151/udp/156z
 #EXTINF:-1, BBC FIRST HD
@@ -3405,29 +3383,10 @@ http://188.35.9.14:21151/udp/155r
 #EXTINF: -1, BBC Lifets
 http://188.35.9.14:21111/udp/164j
 
-#EXTINF:-1,DiSCOWERY SCiENCE HD (720P)----------
-http://vip.turkiptv.net:1213/live/omer1/080218/44.ts
-#EXTINF:-1,DiSCOWERY CHANNEL HD (720P)
-http://vip.turkiptv.net:1213/live/omer1/080218/43.ts
-#EXTINF:-1,BBC Earth HD (720)
-http://vip.turkiptv.net:1213/live/omer1/080218/46.ts
-#EXTINF:-1,HISTORY HD (720P)
-http://vip.turkiptv.net:1213/live/omer1/080218/47.ts
-#EXTINF:-1,ViASAT HiSTORY HD
-http://vip.turkiptv.net:1213/live/omer1/080218/148.ts
-#EXTINF:-1,24 KiTCHEN HD
-http://vip.turkiptv.net:1213/live/omer1/080218/149.ts
-#EXTINF:-1,TR: DA VINCI KIDS HD
-http://vip.turkiptv.net:1213/live/omer1/080218/167.ts
-
-#EXTINF:-1,SE| E! (INHYRD)--------------
-http://line.dynoconnect.me:8000/Herman/123456/51931
-#EXTINF:-1,SE| BBC EARTH HD
-http://line.dynoconnect.me:8000/Herman/123456/51925
-#EXTINF:-1,SE| BBC EARTH
-http://line.dynoconnect.me:8000/Herman/123456/51926
-#EXTINF:-1,SE| DISCOVERY WORLD
-http://line.dynoconnect.me:8000/Herman/123456/51921
+#EXTINF:-1 tvg-id="bbc_earth" tvg-name="BBC EARTH" tvg-logo="https://i.imgur.com/3sQunND.png" group-title="viet",BBC EARTH_udp@
+udp://@225.1.2.24:30120
+#EXTINF:-1 tvg-id="bbc_lifestyle" tvg-name="BBC LIFESTYLE" tvg-logo="https://i.imgur.com/wwTUVYP.png" group-title="viet",BBC LIFESTYLE_udp@
+udp://@225.1.2.52:30120
 
 
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://185.3.182.72:999
@@ -3438,13 +3397,19 @@ http://tvport.it-tele.net:8000/f6c3f3b4a6fc08c50fa7881628aaad42
 http://62.210.215.83:8000/play/a00m/index.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",(18+) Nuart TV
 http://46.32.68.167/s/live/711/100.0.0.5/1/0.m3u8
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",(18+) Nuart TV
+http://46.32.68.167/s/live/711/86.169.51.136/0/0.m3u8
+#EXTINF:-1,Nuart TV
+http://178.124.183.14:80/hls/CH_NYARTTV/variant.m3u8
 
 
-#EXTINF:-1,(18+) Shot TV (1)--------------------------
-http://78.29.1.66/live/shot_tv/copy/playlist.m3u8
-#EXTINF:-1,(18+) Shot TV (2)
-http://185.35.4.37:8087/egoist/ch.m3u8
-#EXTINF:-1,GONG_movie_playmedia
+#EXTINF:-1,CHN_makeup
+http://tx2play1.douyucdn.cn/live/1975380rOB6gdTlK_4000.xs?uuid=
+#EXTINF:-1,asia_amazing
+http://strm.yandex.ru/kal/asiaamazing/asiaamazing0_169_480p.json/index-v1-a1.m3u8
+
+
+#EXTINF:-1,GONG_movie_playmedia--------------------------
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 #EXTINF:-1,GONG_MAX
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
@@ -3464,7 +3429,8 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
 rtmp://ivi.bupt.edu.cn:1935/livetv/documentaryhd
 #EXTINF:-1,a taste of china24/7_CHN
 http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
-
+#EXTINF:-1,wild food brother_CHN
+https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/02/CGTN_Documentary_logo-1.png",CGTN Documentary--------------------------
@@ -3522,25 +3488,18 @@ http://14.187.33.162:4022/rtp/232.84.2.177:10488
 http://14.207.2.242:8000/play/a03n
 
 
-#EXTINF:-1,US| CNBC HD
-http://line.dynoconnect.me:8000/Herman/123456/45593
+
+
+#EXTINF:-1,US: CNBC | HD
+http://134.19.190.178:8000/live/050533622775/3964126/798.ts
+#EXTINF:-1,US: CNBC WORLD | HD
+http://134.19.190.178:8000/live/050533622775/3964126/797.ts
+
+#EXTINF:-1,CNBC Europe
+http://78.34.23.67:9981/stream/channelid/1371152017
 
 #EXTINF:-1,US: CNBC HD
-http://configuration.tn:8000/sbss25946/dcba2401/9130
-
-#EXTINF:-1,SE| CNBC EUROPE
-http://line.dynoconnect.me:8000/Herman/123456/51886
-
-#EXTINF:-1,|CA| CNBC
-http://iptv-pure.com:8000/Nq0qCm7OKd/ZcO7dPhGTC/30315
-#EXTINF:-1,|US| CNBC HD
-http://iptv-pure.com:8000/Nq0qCm7OKd/ZcO7dPhGTC/11611
-
-
-
-
-
-
+http://mahran6j1x8t.niabox.com:8000/Dindin/kWIjhYeijA/10036
 
 
 
