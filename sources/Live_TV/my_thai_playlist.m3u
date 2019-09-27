@@ -3400,6 +3400,60 @@ http://188.35.9.14:21151/udp/155r
 #EXTINF: -1, BBC Lifets
 http://188.35.9.14:21111/udp/164j
 
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,US| CNBC HD
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/45593
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,SE| CNBC EUROPE
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/51886
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,CA| CNBC
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/20620
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,NL| E! ENTERTAINMENT FHD HEVC
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/50199
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,DK| MOVIETIME ULTRA 4K [ONLY ON 4K DEVICES]
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/81873
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,PH| DISCOVERY ASIA WORLD
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84876
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,PL| BBC EARTH HD
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/9604
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,TR| BBC EARTH
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/13456
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,GR| BBC EARTH HD
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/58020
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,SE| BBC EARTH HD
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/51925
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,SE| BBC EARTH
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/51926
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,NO| BBC EARTH HD [MULTI-SUB]
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/81713
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,DK| BBC EARTH FHD [MULTI-SUB]
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/81926
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| BBC EARTH HD
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84835
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| BBC LIFESTYLE
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84834
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,DK| VIASAT HISTORY FHD [MULTI-SUB]
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/81885
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,NO| VIASAT HISTORY FHD [MULTI-SUB]
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/81724
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,NO| VIASAT EXPLORER FHD [MULTI-SUB]
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/81723
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,FI| VIASAT EXPLORER [MULTI-SUB]
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/81592
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,FI| VIASAT HISTORY FHD [MULTI-SUB]
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/81591
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,BR| FISH TV HD
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/59261
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| NAT GEO ASIA HD
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84808
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| NAT GEO PEOPLE HD
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84807
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,PL| DA VINCI LEARNING
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/9446
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| FOOD NETWORK ASIA
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84732
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| ASIAN FOOD CHANNEL
+http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84839
+
+
 
 
 
