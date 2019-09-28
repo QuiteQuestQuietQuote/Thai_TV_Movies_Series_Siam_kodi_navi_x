@@ -1238,8 +1238,143 @@ URL=
 type=video
 name=
 thumb=
-date=2019-09-22
+date=2019-09-28
 URL=
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=The 16th Episode (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-37
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2CkoNuhYludbc2PvH6rX3HVRvr.jpg
+date=2019-09-28
+URL=https://verystream.com/stream/6GF3EVKrLRb/the_16th_episode_2019_1080p_bluray_x264-cadaver%5BEtHD%5D.mp4
+#https://verystream.com/stream/CQAEASTuv5M/The.16th.Episode.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/WhxtJZP2xq5/The.16th.Episode.2019.1080p.BluRay.x264-CADAVER.mkv.mp4
+#https://verystream.com/stream/26ch6Frpn6X/The.16th.Episode.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/Zf56Jc7edbf/The_16th_Episode_2019_Blu-ray_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/5frgTnsbfRi/The.16th.Episode.2019.1080p.BluRay.x264-YTS.LT.mp4
+
+type=video
+name=Dolphin Kick (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYQQP7fDjfKqL7MXapZioPbuPkt.jpg
+date=2019-09-28
+URL=https://verystream.com/stream/aaACgjVmqe1/dolphin_kick_2019_1080p_bluray_x264-getit%5BEtHD%5D.mp4
+#https://verystream.com/stream/5GPx4yhk1AM/Dolphin.Kick.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/KDnu3B28LMz/Dolphin.Kick.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/XLv1nReQWW6/Dolphin_Kick_2019_Blu-ray_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=Killers Anonymous (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-48
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oKW2ToLzw246tqaTu7qk7HbQW7.jpg
+date=2019-09-28
+URL=https://verystream.com/stream/Fw81nT5fXt/killers_anonymous_2019_1080p_bluray_x264-brmp%5BEtHD%5D.mp4
+#https://verystream.com/stream/8vv1tebcabs/Killers.Anonymous.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/H1ANyHffcCn/Killers.Anonymous.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/ZJQnthkrBzB/Killers.Anonymous.2019.1080p.BluRay.x264-YTS.LT.mp4
+
+type=video
+name=The Souvenir (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2svhKzun22mBsbLQRParIWUg3er.jpg
+date=2019-09-28
+URL=https://verystream.com/stream/dakC4aeJuSi/The_Souvenir_2019_1080p_BluRay_X264-AMIABLE%5BEtHD%5D.mp4
+#https://verystream.com/stream/ZY83h5mncwa/The.Souvenir.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/13jPeGLbWLs/The.Souvenir.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=I Trapped the Devil (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-43
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/95ioOrJWlUTKskXpGLDlOpahu8.jpg
+date=2019-09-28
+URL=https://verystream.com/stream/Z7mvrq2MFZ8/i_trapped_the_devil_2019_1080p_bluray_x264-brmp%5BEtHD%5D.mp4
+#https://verystream.com/stream/a22VEHsdukK/I.Trapped.the.Devil.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/KSCCkM3cQQa/I.Trapped.the.Devil.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/SzVBqrFFRH6/I_Trapped_the_Devil_2019_Blu-ray_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/4Jt5qjJAJDB/I.Trapped.The.Devil.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://verystream.com/stream/Atsx7QzUrp1/I.Trapped.the.Devil.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Dead Don't Die (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-55
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndvOjo7Nfk8ULnFLMXthPzhI62L.jpg
+date=2019-09-28
+URL=https://verystream.com/stream/PExRZk7qWjA/The_Dead_Dont_Die_2019_1080p_Bluray_X264-EVO%5BEtHD%5D.mp4
+#https://verystream.com/stream/ixjpvzX4rie/The.Dead.Dont.Die.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/8aCcBjEQBX5/The.Dead.Dont.Die.2019.1080p.BluRay.DD5.1.x264-HDmovie8.mkv.mp4
+#https://verystream.com/stream/4wZY6Tez85M/The_Dead_Dont_Die_2019_MULTi_BluRay_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/15bw1bvz86f/The.Dead.Don%27t.Die.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://verystream.com/stream/Y6rpECB7Ejs/The_Dead_Dont_Die.2019.1080p.Bluray.X264-EVO.mp4
+#https://verystream.com/stream/S2EghjeeX6N/The_Dead_Dont_Die_2019_1080p_BluRay_x264-DRONES%5BEtHD%5D.mp4
+#https://verystream.com/stream/7msk9moVZ5g/The.Dead.Dont.Die.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=2040 (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60 doc
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYfVoyi8bpWybLRXwbXn62qqtL2.jpg
+date=2019-09-28
+URL=https://verystream.com/stream/ZytzCKVigM5/2040_2019_1080p_BluRay_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/ELX9nY7gWkU/2040.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Nightmare Cinema (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftdhL4zamDnjSD4TML1ES79DueX.jpg
+date=2019-09-28
+URL=https://verystream.com/stream/jYbWonzfA8i/Nightmare.Cinema.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/Y7awznK2msq/Nightmare_Cinema_2018_1080p_BluRay_x264-SADPANDA%5BEtHD%5D.mp4
+#https://verystream.com/stream/NKm84nYyJ9N/Nightmare_Cinema_2018_1080p_BluRay_x264-SADPANDA%5BEtHD%5D.mp4
+#https://verystream.com/stream/9wsi1Zfrw5E/Nightmare_Cinema_2018_Blu-ray_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/8wHgEpooajH/Nightmare.Cinema.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/J7GEJwcrJtd/Nightmare.Cinema.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Dark Phoenix (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg
+date=2019-09-28
+URL=https://verystream.com/stream/bZJGsphQ7qY/Dark.Phoenix.2019.1080p.BrRip.x265.HEVCBay.com.mkv.mp4
+#https://verystream.com/stream/8xGFLk5w6LK/Dark.Phoenix.2019.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://verystream.com/stream/3YVoV8RMxyg/Dark.Phoenix.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/BEwvR4aeKrL/dark_phoenix_2019_1080p_bluray_x264-geckos%5BEtHD%5D.mp4
+#https://verystream.com/stream/bZJGsphQ7qY/Dark.Phoenix.2019.1080p.BrRip.x265.HEVCBay.com.mkv.mp4
+#https://verystream.com/stream/bo4V937SVBY/Dark.Phoenix.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/heNQhHPDFCi/Dark.Phoenix.2019.1080p.BRRip.x264-MkvCage.Com.mkv.mp4
+#https://verystream.com/stream/4uKwer2SxX3/Dark.Phoenix.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/7e6dCUQMTrU/Dark_Phoenix_2019_BluRay_1080p_DTS-HDMA_7_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/ZkFNLWZJVW6/Dark.Phoenix.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://verystream.com/stream/KJVS34zSdSh/Dark.Phoenix.2019.1080p.BluRay.x264-GECKOS.mkv.mp4
+#https://verystream.com/stream/osNN9TadvM/Dark_Phoenix_2019_1080p_BluRay_DTS_X264-CMRG%5BEtHD%5D.mp4
+
+type=video
+name=In Fabric (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZRXZBUWOca282mLEcfdnHkCmdC.jpg
+date=2019-09-28
+URL=https://verystream.com/stream/LFAUbgr5VMB/In.Fabric.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/PhsaRro299r/In_Fabric_2018_1080p_BluRay_X264-AMIABLE%5BEtHD%5D.mp4
+#https://verystream.com/stream/QAPobDBoT82/In.Fabric.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/RgkjpcnZWpw/In.Fabric.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=G Affairs (2018) [COLOR=FF00FF00]CHN BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/56zUmESdN7L7vISFzptH95NMxeA.jpg
+date=2019-09-28
+URL=https://verystream.com/stream/En9fJdhr4rG/G_Affairs_2018_CHN_BluRay_1080p_TrueHD_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=Booksmart (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aSxRDmisJP90H3S0aocyuQIe4z.jpg
+date=2019-09-28
+URL=https://verystream.com/stream/7uDjhqPTono/Booksmart.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/hkvum7rC9wc/booksmart_2019_1080p_bluray_x264-drones%5BEtHD%5D.mp4
+#https://verystream.com/stream/PiEdy45oSms/Booksmart.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/Mxce4H3DadU/Booksmart_2019_BluRay_1080p_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+
+
 
 
 
@@ -2810,6 +2945,7 @@ URL=https://openload.co/f/CY260cq7_MY/Lancaster_Skies_2019_1080p_Bluray_x264_%E2
 #https://openload.co/f/HCVkDxKEoGI/Lancaster_Skies_%282019%291080p_BluRay_x264-EiDER_Ganool.mkv.mp4
 #https://openload.co/f/k3JIwon5X2I/Lancaster_Skies_2019_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
 #https://openload.co/f/7D4xHih8xLM/Lancaster_Skies_2019_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+#https://verystream.com/stream/hshgtRpY2kQ/Lancaster_Skies_2019_720p_BluRay_DD5_1_x264-SillyBird%5BEtHD%5D.mp4
 
 type=video
 name=The Emperor of Paris (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-65
@@ -3150,7 +3286,8 @@ type=video
 name=Bayou Caviar (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-41
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/up28fmhXm5eZjasXEZ352NdxDLq.jpg
 date=2019-05-15
-URL=https://openload.co/f/3ms1D7UxYO4/Bayou_Caviar_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+URL=https://verystream.com/stream/3j1iHexHBrq/bayou_caviar_2018_1080p_bluray_x264-brmp%5BEtHD%5D.mp4
+#https://openload.co/f/3ms1D7UxYO4/Bayou_Caviar_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
 #https://openload.co/f/gYVUagk57ec/Bayou_Caviar_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
 
 type=video
@@ -9251,7 +9388,8 @@ type=video
 name=The Wedding Guest (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKQd8pWTK9zpibuc3CDwiYmtaB.jpg
 date=2019-07-21
-URL=https://openload.co/f/3RNmAjyPpjY/THE_WEDDING_GUEST_%282018%29_%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94.mp4
+URL=https://openload.co/f/0CXsQb260QE/The_Wedding_Guest_%282019%29_%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94.mp4
+#https://openload.co/f/3RNmAjyPpjY/THE_WEDDING_GUEST_%282018%29_%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94.mp4
 #https://verystream.com/stream/imRFZ5qxWme/THE_WEDDING_GUEST_%282018%29_%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94.mp4
 
 
@@ -9273,7 +9411,8 @@ type=video
 name=Captive State (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVo7lylXAUDGuvDZBUYaP8Zjbku.jpg
 date=2019-07-17
-URL=https://openload.co/f/NXvsXc0ofgQ/CAPTIVE_STATE_%282019%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%A7%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+URL=https://openload.co/f/QgnYSRGRtiE/Captive_State_%282019%29%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%A7%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+#https://openload.co/f/NXvsXc0ofgQ/CAPTIVE_STATE_%282019%29_%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%A7%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 
 
 type=video
@@ -9287,7 +9426,8 @@ type=video
 name=Batman vs. Teenage Mutant Ninja Turtles (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/33Cxmz0MDcHZ0mJub429dhQRYP.jpg
 date=2019-07-17
-URL=https://openload.co/f/L8LNK5NLqzk/Batman_vs_Teenage_Mutant_Ninja_Turtles_%282019%29_%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0_%E0%B9%80%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%B2.mp4
+URL=https://openload.co/f/YeTJ-izy31Y/Batman_vs._Teenage_Mutant_Ninja_Turtles_%282019%29%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0_%E0%B9%80%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%B2.mp4
+#https://openload.co/f/L8LNK5NLqzk/Batman_vs_Teenage_Mutant_Ninja_Turtles_%282019%29_%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%81%E0%B8%A1%E0%B8%99_%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0_%E0%B9%80%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%B2.mp4
 
 
 type=video
@@ -9299,7 +9439,8 @@ type=video
 name=To Dust (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cA3xIKurFGewWXD08sgushdAzvj.jpg
 date=2019-07-17
-URL=https://openload.co/f/0pRhL0JRYLI/To_Dust_%282018%29_%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9D%E0%B8%B8%E0%B9%88%E0%B8%99.mp4
+URL=https://openload.co/f/XvCFZR1Oj3s/To_Dust_%282018%29_%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9D%E0%B8%B8%E0%B9%88%E0%B8%99.mp4
+#https://openload.co/f/0pRhL0JRYLI/To_Dust_%282018%29_%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9D%E0%B8%B8%E0%B9%88%E0%B8%99.mp4
 
 
 type=video
@@ -9311,7 +9452,8 @@ type=video
 name=Breathe (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLu2N0QVfSpk10RJ17HLHyRUmww.jpg
 date=2019-06-26
-URL=https://openload.co/f/bemTxMoZu9Q/BREATHE_%282017%29_%E0%B9%83%E0%B8%88%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A5%E0%B9%83%E0%B8%88.mp4
+URL=https://openload.co/f/U5_OiAJViBU/Breathe_%282017%29%E0%B9%83%E0%B8%88%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A5%E0%B9%83%E0%B8%88.mp4
+#https://openload.co/f/bemTxMoZu9Q/BREATHE_%282017%29_%E0%B9%83%E0%B8%88%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A5%E0%B9%83%E0%B8%88.mp4
 
 
 type=video
@@ -9332,7 +9474,8 @@ type=video
 name=Happy Death Day 2U (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/whtt9F8PFqvEgc4fDSHZPkitFk4.jpg
 date=2019-06-26
-URL=https://openload.co/f/DAe3cpZPG0c/HAPPY_DEATH_DAY_2U_%282019%29_%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2_2U.mp4
+URL=https://openload.co/f/ifgpNguTFB0/Happy_Death_Day_2U_%282019%29%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2_2U.mp4
+#https://openload.co/f/DAe3cpZPG0c/HAPPY_DEATH_DAY_2U_%282019%29_%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2_2U.mp4
 #https://openload.co/f/2Yu0Gp0jcMg/Happy_Death_Day_2U_%282019%29%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2_2U_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%8B%E0%B8%B9%E0%B8%A1%29
 
 
@@ -9347,7 +9490,8 @@ type=video
 name=Us (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg
 date=2019-07-06
-URL=https://openload.co/f/dv55XyOmpKY/US_%282019%29_%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B8%A5%E0%B8%A7%E0%B8%87_%E0%B9%80%E0%B8%A3%E0%B8%B2.mp4
+URL=https://openload.co/f/vosbIU1b6MI/Us_%282019%29%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B8%A5%E0%B8%A7%E0%B8%87_%E0%B9%80%E0%B8%A3%E0%B8%B2.mp4
+#https://openload.co/f/dv55XyOmpKY/US_%282019%29_%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B8%A5%E0%B8%A7%E0%B8%87_%E0%B9%80%E0%B8%A3%E0%B8%B2.mp4
 
 
 type=video
@@ -9368,7 +9512,8 @@ type=video
 name=Dumbo (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/279PwJAcelI4VuBtdzrZASqDPQr.jpg
 date=2019-07-06
-URL=https://openload.co/f/IL9ndKp47Vs/DUMBO_%282019%29_%E0%B8%94%E0%B8%B1%E0%B8%A1%E0%B9%82%E0%B8%9A%E0%B9%89.mp4
+URL=https://openload.co/f/pvBk3E_bwHU/Dumbo_%282019%29%E0%B8%94%E0%B8%B1%E0%B8%A1%E0%B9%82%E0%B8%9A%E0%B9%89.mp4
+#https://openload.co/f/IL9ndKp47Vs/DUMBO_%282019%29_%E0%B8%94%E0%B8%B1%E0%B8%A1%E0%B9%82%E0%B8%9A%E0%B9%89.mp4
 
 
 type=video
@@ -9382,7 +9527,8 @@ type=video
 name=The Aftermath (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/slGZ8miznmAZAaDHEz6BKo7f1N5.jpg
 date=2019-07-10
-URL=https://openload.co/f/NyMXk5-S4Yw/THE_AFTERMATH_%282019%29_%E0%B8%AD%E0%B8%B2%E0%B8%9F%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%97.mp4
+URL=https://openload.co/f/iCZo0MXp5JI/The_Aftermath_%282019%29%E0%B8%AD%E0%B8%B2%E0%B8%9F%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%97.mp4
+#https://openload.co/f/NyMXk5-S4Yw/THE_AFTERMATH_%282019%29_%E0%B8%AD%E0%B8%B2%E0%B8%9F%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%97.mp4
 
 
 type=video
@@ -9399,7 +9545,8 @@ type=video
 name=Nancy Drew and the Hidden Staircase (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/g805FevFI8BkmvorvyITZ1kGJcr.jpg
 date=2019-07-10
-URL=https://openload.co/f/fwZFhxqH5ek/Nancy_Drew_and_the_Hidden_Staircase_%282019%29_%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%8B%E0%B8%B5%E0%B9%88_%E0%B8%94%E0%B8%A3%E0%B8%B9%E0%B8%A7%E0%B9%8C_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%94%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88.mp4
+URL=https://openload.co/f/tajZPpuA68E/Nancy_Drew_and_the_Hidden_Staircase_%282019%29_%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%8B%E0%B8%B5%E0%B9%88_%E0%B8%94%E0%B8%A3%E0%B8%B9%E0%B8%A7%E0%B9%8C_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%94%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88.mp4
+#https://openload.co/f/fwZFhxqH5ek/Nancy_Drew_and_the_Hidden_Staircase_%282019%29_%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%8B%E0%B8%B5%E0%B9%88_%E0%B8%94%E0%B8%A3%E0%B8%B9%E0%B8%A7%E0%B9%8C_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%94%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88.mp4
 
 
 type=video
@@ -9418,7 +9565,8 @@ type=video
 name=Shazam! (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnopI5Xtky18MPhK40cZAGAOVeV.jpg
 date=2019-07-06
-URL=https://openload.co/f/bb44OGx1vl8/SHAZAM%21_%282019%29_%E0%B8%8A%E0%B8%B2%E0%B9%81%E0%B8%8B%E0%B8%A1%21.mp4
+URL=https://openload.co/f/32gfOTtvPKQ/Shazam%21_%282019%29%E0%B8%8A%E0%B8%B2%E0%B9%81%E0%B8%8B%E0%B8%A1%21.mp4
+#https://openload.co/f/bb44OGx1vl8/SHAZAM%21_%282019%29_%E0%B8%8A%E0%B8%B2%E0%B9%81%E0%B8%8B%E0%B8%A1%21.mp4
 
 
 type=video
@@ -9438,7 +9586,8 @@ type=video
 name=Darkest Hour (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg
 date=2019-07-10
-URL=https://openload.co/f/AXAD53nWsKA/DARKEST_HOUR_%282017%29_%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A1%E0%B8%87%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+URL=https://openload.co/f/2dW6e48mgkY/Darkest_Hour_%282017%29%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A1%E0%B8%87%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+#https://openload.co/f/AXAD53nWsKA/DARKEST_HOUR_%282017%29_%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A1%E0%B8%87%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 #https://streamango.com/f/mflksmesbcmbqsad/Darkest_Hour_2017_
 
 
@@ -9453,7 +9602,8 @@ type=video
 name=Wonder Park (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KomINZhIuJeB4oB7k7tkq8tmE.jpg
 date=2019-07-10
-URL=https://openload.co/f/I2r9NTjSNWc/WONDER_PARK_%282019%29_%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C.mp4
+URL=https://openload.co/f/axjzDm7kYVw/Wonder_Park_%282019%29%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C.mp4
+#https://openload.co/f/I2r9NTjSNWc/WONDER_PARK_%282019%29_%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C.mp4
 
 
 type=video
@@ -9465,7 +9615,8 @@ type=video
 name=When I Get Home, My Wife Always Pretends to be Dead (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPvUFR6u6rDyLz2K2jEVdIoBrSy.jpg
 date=2019-07-06
-URL=https://openload.co/f/FwmhS5kThpw/WHEN_I_GET_HOME_MY_WIFE_ALWAYS_PRETENDS_TO_BE_DEAD_%282018%29_%E0%B8%9C%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%B5%E0%B8%A2...%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B9%81%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+URL=https://openload.co/f/s4YVTBYZ7GQ/When_I_Get_Home%2C_My_Wife_Always_Pretends_to_be_Dead_%282018%29%E0%B8%9C%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%B5%E0%B8%A2%E2%80%A6%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B9%81%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
+#https://openload.co/f/FwmhS5kThpw/WHEN_I_GET_HOME_MY_WIFE_ALWAYS_PRETENDS_TO_BE_DEAD_%282018%29_%E0%B8%9C%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%B5%E0%B8%A2...%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B9%81%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2.mp4
 
 
 type=video
@@ -9485,7 +9636,8 @@ type=video
 name=Tag (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg
 date=2019-07-06
-URL=https://openload.co/f/nkDeLHmenLE/TAG_%282018%29_%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%84%E0%B9%80%E0%B8%81%E0%B8%A1_%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%89_%E0%B9%81%E0%B8%9E%E0%B9%89%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99.mp4
+URL=https://openload.co/f/abQQ_2kqj1Q/Tag_%282018%29%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%84%E0%B9%80%E0%B8%81%E0%B8%A1_%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%89_%E0%B9%81%E0%B8%9E%E0%B9%89%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99.mp4
+#https://openload.co/f/nkDeLHmenLE/TAG_%282018%29_%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%84%E0%B9%80%E0%B8%81%E0%B8%A1_%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%89_%E0%B9%81%E0%B8%9E%E0%B9%89%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99.mp4
 #https://openload.co/f/D7cK02rDms8/Tag_%282018%29%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%84%E0%B9%80%E0%B8%81%E0%B8%A1_%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%89_%E0%B9%81%E0%B8%9E%E0%B9%89%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99_%28%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%29
 
 
@@ -9500,7 +9652,8 @@ type=video
 name=Slaughterhouse Rulez (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iKnT5rDGd8htK58DOUiHgjKLof.jpg
 date=2019-07-06
-URL=https://openload.co/f/QiFadIXtun4/SLAUGHTERHOUSE_RULEZ_%282018%29_%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%99.mp4
+URL=https://openload.co/f/_nQe-MTY3vA/Slaughterhouse_Rulez_%282018%29%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%99.mp4
+#https://openload.co/f/QiFadIXtun4/SLAUGHTERHOUSE_RULEZ_%282018%29_%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%99.mp4
 
 
 type=video
@@ -9517,7 +9670,8 @@ type=video
 name=Welcome to Marwen (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o45VIAUYDcVCGuzd43l8Sr5Dfti.jpg
 date=2019-07-06
-URL=https://openload.co/f/G16dXn_-huU/WELCOME_TO_MARWEN_%282018%29_%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%84%E0%B8%B1%E0%B8%A1_%E0%B8%97%E0%B8%B9_%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B9%88%E0%B8%99.mp4
+URL=https://openload.co/f/dVLFHnOh_Sw/Welcome_to_Marwen_%282018%29%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%84%E0%B8%B1%E0%B8%A1_%E0%B8%97%E0%B8%B9_%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B9%88%E0%B8%99.mp4
+#https://openload.co/f/G16dXn_-huU/WELCOME_TO_MARWEN_%282018%29_%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%84%E0%B8%B1%E0%B8%A1_%E0%B8%97%E0%B8%B9_%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B9%88%E0%B8%99.mp4
 
 
 type=video
@@ -9537,7 +9691,8 @@ type=video
 name=The Nutcracker and the Four Realms (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/OphaHihfuXhUGmpNIRIsO3oMgm.jpg
 date=2019-06-26
-URL=https://openload.co/f/sOOCxIWa0Bs/THE_NUTCRACKER_AND_THE_FOUR_REALMS_%282018%29_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%99%E0%B8%B1%E0%B8%97%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C.mp4
+URL=https://openload.co/f/t371Ght2phk/The_Nutcracker_and_the_Four_Realms_%282018%29%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%99%E0%B8%B1%E0%B8%97%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C.mp4
+#https://openload.co/f/sOOCxIWa0Bs/THE_NUTCRACKER_AND_THE_FOUR_REALMS_%282018%29_%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%99%E0%B8%B1%E0%B8%97%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C.mp4
 
 
 type=video
@@ -9550,7 +9705,8 @@ type=video
 name=Black Water (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIcZAB5AmRN8fIDXfDZ2aUok9qa.jpg
 date=2019-07-06
-URL=https://openload.co/f/6n04zBTdm_o/BLACK_WATER_%282018%29_%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A8_%E0%B8%94%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94%E0%B8%82%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+URL=https://openload.co/f/y6CweCIJ59s/Black_Water_%282018%29%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A8_%E0%B8%94%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94%E0%B8%82%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+#https://openload.co/f/6n04zBTdm_o/BLACK_WATER_%282018%29_%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A8_%E0%B8%94%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94%E0%B8%82%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
 #https://openload.co/f/tXR6VnKPuBQ/BLACK_WATER_%282018%29_%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A8_%E0%B8%94%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94%E0%B8%82%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
 #https://openload.co/f/tIbQyQPuKaQ/Black_Water_%282018%29Black_Water_%282018%29_%28Google_Translate%29
 
@@ -9568,7 +9724,8 @@ type=video
 name=Five Feet Apart (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kreTuJBkUjVWePRfhHZuYfhNE1T.jpg
 date=2019-06-26
-URL=https://openload.co/f/JDgTMwLchnQ/FIVE_FEET_APART_%282019%29_%E0%B8%82%E0%B8%AD%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%83%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%81%E0%B8%B1%E0%B8%99.mp4
+URL=https://openload.co/f/pK5YOKRL5uY/Five_Feet_Apart_%282019%29%E0%B8%82%E0%B8%AD%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%83%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%81%E0%B8%B1%E0%B8%99.mp4
+#https://openload.co/f/JDgTMwLchnQ/FIVE_FEET_APART_%282019%29_%E0%B8%82%E0%B8%AD%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%83%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%81%E0%B8%B1%E0%B8%99.mp4
 
 
 type=video
@@ -9580,7 +9737,8 @@ type=video
 name=Blind (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXyObe5aB63ueOndEXxXabgAvIi.jpg
 date=2019-07-06
-URL=https://openload.co/f/ZdSwbt5x9iY/BLIND_%282017%29_%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9A%E0%B8%AD%E0%B8%94.mp4
+URL=https://openload.co/f/PVkx6_TkGdE/Blind_%282017%29%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9A%E0%B8%AD%E0%B8%94.mp4
+#https://openload.co/f/ZdSwbt5x9iY/BLIND_%282017%29_%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9A%E0%B8%AD%E0%B8%94.mp4
 #https://openload.co/f/sizI82xWKUc/BLIND_%282017%29_%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9A%E0%B8%AD%E0%B8%94.mp4
 
 
@@ -9596,7 +9754,8 @@ type=video
 name=The Limehouse Golem (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xB1AFa4iLU9KGxlrVbfH2uIJeck.jpg
 date=2019-06-26
-URL=https://openload.co/f/3Vfemdj932k/THE_LIMEHOUSE_GOLEM_%282016%29_%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1_%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3.mp4
+URL=https://openload.co/f/aoQBGH8Aw2I/The_Limehouse_Golem_%282017%29%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1_%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3.mp4
+#https://openload.co/f/3Vfemdj932k/THE_LIMEHOUSE_GOLEM_%282016%29_%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1_%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3.mp4
 
 
 type=video
@@ -9610,7 +9769,8 @@ type=video
 name=Satan's Slaves (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XB9EO9L8t0ryipAoB9WlsxXOIl.jpg
 date=2019-01-23
-URL=https://openload.co/f/1BTXR6NAzTA/Satan%27s_Slaves_%282017%29%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+URL=https://openload.co/f/LFvhikR8-P0/Satan%27s_Slaves_%282017%29%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
+#https://openload.co/f/1BTXR6NAzTA/Satan%27s_Slaves_%282017%29%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
 #https://openload.co/f/wDTGLodNLhQ/Satan%27s_Slaves_%282017%29%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81_2018_Thai%28C%29_HD
 #https://streamango.com/f/ppqekdeoncmposar/Satan_s_Slaves_2017_
 
@@ -9632,7 +9792,8 @@ type=video
 name=Anon (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIST7FwpELT1SXR3cVSy5JoOSby.jpg
 date=2019-06-26
-URL=https://openload.co/f/CiyQENRNZrc/ANON_%282018%29_%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%81%E0%B8%8F%E0%B8%A5%E0%B9%88%E0%B8%B2_%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B8%A5%E0%B9%89%E0%B8%B3%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95_.mp4
+URL=https://openload.co/f/PZLJZ5WBzpw/ANON_%282018%29_%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%81%E0%B8%8F%E0%B8%A5%E0%B9%88%E0%B8%B2_%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B8%A5%E0%B9%89%E0%B8%B3%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95_.mp4
+#https://openload.co/f/CiyQENRNZrc/ANON_%282018%29_%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%81%E0%B8%8F%E0%B8%A5%E0%B9%88%E0%B8%B2_%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B8%A5%E0%B9%89%E0%B8%B3%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95_.mp4
 #https://streamango.com/f/efralsqmrnsrkqrm/Anon_2018_
 
 
@@ -9657,7 +9818,8 @@ type=video
 name=The Happytime Murders (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWxkur51srfVnMn2QOFjE7mbq6h.jpg
 date=2019-06-26
-URL=https://openload.co/f/A4kk5jJHqFc/THE_HAPPYTIME_MURDERS_%282018%29_%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2_%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B8%9E%E0%B9%80%E0%B8%9E%E0%B8%97%E0%B8%AA%E0%B9%8C%21.mp4
+URL=https://openload.co/f/V9lmdiLpKYk/The_Happytime_Murders_%282018%29%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2_%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B8%9E%E0%B9%80%E0%B8%9E%E0%B8%97%E0%B8%AA%E0%B9%8C%21.mp4
+#https://openload.co/f/A4kk5jJHqFc/THE_HAPPYTIME_MURDERS_%282018%29_%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2_%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B8%9E%E0%B9%80%E0%B8%9E%E0%B8%97%E0%B8%AA%E0%B9%8C%21.mp4
 
 
 type=video
@@ -9674,7 +9836,8 @@ type=video
 name=Asher (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5p4Ev49KVR4itGWy3OHyqnRsz8.jpg
 date=2019-07-06
-URL=https://openload.co/f/o8pUfcxNY0M/ASHER_%282018%29_%E0%B9%81%E0%B8%AD%E0%B8%8A_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+URL=https://openload.co/f/tIfz-b06LK4/ASHER_%282018%29_%E0%B9%81%E0%B8%AD%E0%B8%8A_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
+#https://openload.co/f/o8pUfcxNY0M/ASHER_%282018%29_%E0%B9%81%E0%B8%AD%E0%B8%8A_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81.mp4
 #https://openload.co/f/hPlHHt-9D60/ASHER_%282018%29_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
 
 
@@ -9688,7 +9851,8 @@ type=video
 name=Breaking & Exiting (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucZnGl4GJoTuIoJV2cX74k0WfK3.jpg
 date=2019-07-06
-URL=https://openload.co/f/6VfBXfX0COQ/BREAKING_%26_EXITING_%282018%29_%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99_%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%9E%E0%B8%B1%E0%B8%87.mp4
+URL=https://openload.co/f/JidG4FN0ado/Breaking_%26_Exiting_%282018%29%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99_%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%9E%E0%B8%B1%E0%B8%87.mp4
+#https://openload.co/f/6VfBXfX0COQ/BREAKING_%26_EXITING_%282018%29_%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99_%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%9E%E0%B8%B1%E0%B8%87.mp4
 #https://openload.co/f/hDtL8rEMgR0/BREAKING_%26_EXITING_%282018%29_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
 
 
@@ -9705,7 +9869,7 @@ type=video
 name=A Dog's Way Home (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZn87R7gtmMCGGO8KeaAfZDhXLg.jpg
 date=2019-04-09
-URL=
+URL=https://openload.co/f/Pp8w_e22QqM/A_Dog%27s_Way_Home_%282019%29_%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%84%E0%B8%A1%E0%B8%A5%E0%B9%8C.mp4
 
 
 type=video
@@ -9720,7 +9884,8 @@ type=video
 name=An Ordinary Man (2017) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyg3lIA2ddFb0zdrHFI4Y9CUFwe.jpg
 date=2019-06-26
-URL=https://openload.co/f/oRT9Oagz3so/AN_ORDINARY_MAN_%282017%29_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
+URL=https://openload.co/f/77PIishCmT4/AN_ORDINARY_MAN_%282017%29_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
+#https://openload.co/f/oRT9Oagz3so/AN_ORDINARY_MAN_%282017%29_%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
 
 
 
@@ -10015,7 +10180,7 @@ URL=
 type=video
 name=
 thumb=
-date=2019-09-22
+date=2019-09-28
 URL=
 
 
@@ -10024,6 +10189,17 @@ URL=
 
 
 
+type=video
+name=Top Gun (1986) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7ubPzNej5vR4mfahk7jhP6yXQG.jpg
+date=2019-09-28
+URL=https://verystream.com/stream/3sn5TUGPHjY/Top.Gun.1986.SE.PROPER.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Jungle Book (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOipe2myi26UDwP978hsYOrnUWC.jpg
+date=2019-09-28
+URL=https://verystream.com/stream/Zar4Efypt2h/The.Jungle.Book.2016.1080p.BluRay.H264.AAC-RARBG.mp4
 
 type=video
 name=Aladdin (1992) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76
