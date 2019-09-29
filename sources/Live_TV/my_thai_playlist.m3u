@@ -3320,7 +3320,8 @@ http://118.68.25.185:4022/udp/225.1.2.52:30120
 http://118.68.25.185:4022/udp/225.1.1.197:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN
 http://118.68.25.185:4022/udp/225.1.1.198:30120
-
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_test
+http://118.68.116.29:4022/udp/225.1.1.198:30120
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_tw_ts
@@ -3421,22 +3422,29 @@ http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84732
 #EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| ASIAN FOOD CHANNEL
 http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84839
 
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| ASIAN FOOD CHANNEL_test
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/84839
 
 
-#EXTINF:-1,MY-HD-My-Documentary----------------
-http://universeiptv.com:8000/imam/imam2019/9657
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/0NwvJxJS/VCON.png" group-title="LOVE-D2H",SONY BBC EARTH ENGLISH HD------------------
+http://193.200.164.163:80/live/najib/najib123/34690.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE-ASIA",BBC EARTH HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18610
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE-ASIA",BBC LIFESTYLE MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18609
+
+
+
+#EXTINF:-1,MY-HD-My-Documentary----------------charlie
+http://universeiptv.com:8000/charlie/2019/9657
 #EXTINF:-1,MALAYSIA:BBC_EARTH_HD
-http://universeiptv.com:8000/imam/imam2019/38602
+http://universeiptv.com:8000/charlie/2019/38602
 #EXTINF:-1,MALAYSIA:BBC_LIFESTYLE
-http://universeiptv.com:8000/imam/imam2019/38601
-#EXTINF:-1,MALAYSIA:NAT_GEO_ASIA_HD------------
-http://universeiptv.com:8000/beehive/beehive2019/31898
+http://universeiptv.com:8000/charlie/2019/38601
+#EXTINF:-1,MALAYSIA:NAT_GEO_ASIA_HD
+http://universeiptv.com:8000/charlie/2019/31898
 #EXTINF:-1,MALAYSIA:NAT_GEO_PEOPLE_HD
-http://universeiptv.com:8000/beehive/beehive2019/38576
+http://universeiptv.com:8000/charlie/2019/38576
 #EXTINF:-1,HU:DA_VINCI_LEARNING
-http://universeiptv.com:8000/beehive/beehive2019/36450
+http://universeiptv.com:8000/charlie/2019/36450
 #EXTINF:-1,UK:BBC_EARTH
 http://universeiptv.com:8000/charlie/2019/4972
 #EXTINF:-1,UK:Discovery-Science
@@ -3558,10 +3566,41 @@ http://14.187.33.162:4022/rtp/232.84.2.177:10488
 #EXTINF:-1,CNBC_th---
 http://180.183.115.215:8000/play/a03n
 
-
+#EXTINF:-1,CNBC_rtp_viet_test
+http://vnpt.vanthanh.cf:4022/rtp/232.84.2.177:10488
+#EXTINF:-1,CNBC_udp_viet_test
+http://vnpt.vanthanh.cf:4022/udp/225.1.1.227:30120
 
 #EXTINF:-1,UK: CNBC Europe
 http://m4.mio4ever.eu:8000/live/mwdv64grg9/uLFyu4Q3A6/2294.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
