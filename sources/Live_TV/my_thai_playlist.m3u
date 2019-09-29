@@ -94,153 +94,96 @@ http://main-a.for-our.info:8081/tv1/ch5.m3u8
 
 
 
-#EXTINF:-1,9MCOT HD----------------
-http://223.204.71.133:9981/stream/channelid/1060445606
-#EXTINF:-1,MCOT Kids
-http://223.204.71.133:9981/stream/channelid/86811320
-#EXTINF:-1,NBT HD
-http://223.204.71.133:9981/stream/channelid/795392942
-#EXTINF:-1,NBT-NORTH
-http://223.204.71.133:9981/stream/channelid/646058817
-#EXTINF:-1,Spring News
-http://223.204.71.133:9981/stream/channelid/155521935
-#EXTINF:-1,Thairath TV
-http://223.204.71.133:9981/stream/channelid/995014623
-#EXTINF:-1,TPTV
-http://223.204.71.133:9981/stream/channelid/372674317
-#EXTINF:-1,Voice TV
-http://223.204.71.133:9981/stream/channelid/677756271
-#EXTINF:-1,TV5 HD1
-http://223.204.71.133:9981/stream/channelid/980474830
-#EXTINF:-1,THAIPBS HD
-http://223.204.71.133:9981/stream/channelid/871431431
-#EXTINF:-1,3 Family
-http://223.204.71.133:9981/stream/channelid/569263696
-#EXTINF:-1,TNN24
-http://223.204.71.133:9981/stream/channelid/177119435
-#EXTINF:-1,NEW 18
-http://223.204.71.133:9981/stream/channelid/422996975
-#EXTINF:-1,Nation TV
-http://223.204.71.133:9981/stream/channelid/372285311
-#EXTINF:-1,Workpoint TV
-http://223.204.71.133:9981/stream/channelid/1561257707
-#EXTINF:-1,True4U
-http://223.204.71.133:9981/stream/channelid/1386247318
-#EXTINF:-1,GMM25
-http://223.204.71.133:9981/stream/channelid/943137092
+#EXTINF:-1,3 SD----------------------
+http://180.183.115.215:8000/play/a00g
+#EXTINF:-1,NATION
+http://180.183.115.215:8000/play/a019
 #EXTINF:-1,CH8
-http://223.204.71.133:9981/stream/channelid/1575078783
-#EXTINF:-1,3 SD
-http://223.204.71.133:9981/stream/channelid/1473294847
-#EXTINF:-1,MONO29
-http://223.204.71.133:9981/stream/channelid/459267201
-#EXTINF:-1,ONE HD
-http://223.204.71.133:9981/stream/channelid/1532874363
+http://180.183.115.215:8000/play/a00f
 #EXTINF:-1,3 HD
-http://223.204.71.133:9981/stream/channelid/88411625
-#EXTINF:-1,Amarin TV HD
-http://223.204.71.133:9981/stream/channelid/1851140792
-#EXTINF:-1,CH7 HD
-http://223.204.71.133:9981/stream/channelid/365487948
-#EXTINF:-1,PPTV HD
-http://223.204.71.133:9981/stream/channelid/438018177
-#EXTINF:-1,Live 1
-http://223.204.71.133:9981/stream/channelid/429285255
-#EXTINF:-1,Live 2
-http://223.204.71.133:9981/stream/channelid/1490851876
-#EXTINF:-1,Live 3
-http://223.204.71.133:9981/stream/channelid/1817460355
-#EXTINF:-1, World
-http://223.204.71.133:9981/stream/channelid/473106758
-#EXTINF:-1, Asia
-http://223.204.71.133:9981/stream/channelid/1754998464
-#EXTINF:-1, 1
-http://223.204.71.133:9981/stream/channelid/1842973481
-#EXTINF:-1, 2
-http://223.204.71.133:9981/stream/channelid/1954322827
-#EXTINF:-1, 3
-http://223.204.71.133:9981/stream/channelid/2016089705
-#EXTINF:-1, 4
-http://223.204.71.133:9981/stream/channelid/1084883744
-#EXTINF:-1,CSAT N HD
-http://223.204.71.133:9981/stream/channelid/2010374927
-#EXTINF:-1,Movie Sat Asia HD
-http://223.204.71.133:9981/stream/channelid/395638614
-#EXTINF:-1,FOX Life
-http://223.204.71.133:9981/stream/channelid/189973455
-#EXTINF:-1,FOX th
-http://223.204.71.133:9981/stream/channelid/2068748036
-#EXTINF:-1,FX
-http://223.204.71.133:9981/stream/channelid/1366429738
-#EXTINF:-1,FOX Family Movies
-http://223.204.71.133:9981/stream/channelid/107821013
-#EXTINF:-1,Star Chinese
-http://223.204.71.133:9981/stream/channelid/2073852658
-#EXTINF:-1,FOX Sport
-http://223.204.71.133:9981/stream/channelid/763832141
-#EXTINF:-1,FOX Sport 2
-http://223.204.71.133:9981/stream/channelid/693397149
-#EXTINF:-1,FOX Sport 3
-http://223.204.71.133:9981/stream/channelid/689070919
-#EXTINF:-1,T Sport
-http://223.204.71.133:9981/stream/channelid/1019469552
-#EXTINF:-1,FOX News
-http://223.204.71.133:9981/stream/channelid/1035005726
-#EXTINF:-1,Al Jazeera
-http://223.204.71.133:9981/stream/channelid/675525374
-#EXTINF:-1,France24
-http://223.204.71.133:9981/stream/channelid/769433876
-#EXTINF:-1,Russia Today
-http://223.204.71.133:9981/stream/channelid/681423701
-#EXTINF:-1,Channel New Asia
-http://223.204.71.133:9981/stream/channelid/468187106
-#EXTINF:-1,DW
-http://223.204.71.133:9981/stream/channelid/1419989468
-#EXTINF:-1,TV5
-http://223.204.71.133:9981/stream/channelid/505588105
-#EXTINF:-1,NHK World Japan
-http://223.204.71.133:9981/stream/channelid/732650588
+http://180.183.115.215:8000/play/a00k
+#EXTINF:-1,BBTV CH7
+http://180.183.115.215:8000/play/a00m
+#EXTINF:-1,MONO
+http://180.183.115.215:8000/play/a00h
+#EXTINF:-1,LOCA
+http://180.183.115.215:8000/play/a012
+#EXTINF:-1,PPTV
+http://180.183.115.215:8000/play/a00n
+#EXTINF:-1,RED BY HBO
+http://180.183.115.215:8000/play/a01x
+#EXTINF:-1,INSE
+http://180.183.115.215:8000/play/a00p
+#EXTINF:-1,GMM25
+http://180.183.115.215:8000/play/a00d
+#EXTINF:-1,THV
+http://180.183.115.215:8000/play/a014
+#EXTINF:-1,TNN2
+http://180.183.115.215:8000/play/a01c
+#EXTINF:-1,TH RATH
+http://180.183.115.215:8000/play/a00j
 #EXTINF:-1,CCTV 4
-http://223.204.71.133:9981/stream/channelid/1102202806
-#EXTINF:-1,Arirang
-http://223.204.71.133:9981/stream/channelid/974996492
-#EXTINF:-1,News 1
-http://223.204.71.133:9981/stream/channelid/336919805
-#EXTINF:-1,fahwonmai
-http://223.204.71.133:9981/stream/channelid/615374481
-#EXTINF:-1,PEACE TV
-http://223.204.71.133:9981/stream/channelid/576004322
-#EXTINF:-1,Nat Geo Wild
-http://223.204.71.133:9981/stream/channelid/1658814226
-#EXTINF:-1,View World HD
-http://223.204.71.133:9981/stream/channelid/60800324
-#EXTINF:-1,World Story
-http://223.204.71.133:9981/stream/channelid/802643097
-#EXTINF:-1,Channel V
-http://223.204.71.133:9981/stream/channelid/1188773680
-#EXTINF:-1,FAN TV
-http://223.204.71.133:9981/stream/channelid/720596263
-#EXTINF:-1,sabuydee
-http://223.204.71.133:9981/stream/channelid/1748114799
-#EXTINF:-1,M Channel
-http://223.204.71.133:9981/stream/channelid/434437755
-#EXTINF:-1,MONO Plus
-http://223.204.71.133:9981/stream/channelid/207622520
-#EXTINF:-1,ZEE nung
-http://223.204.71.133:9981/stream/channelid/896898572
-#EXTINF:-1,Voice TV
-http://223.204.71.133:9981/stream/channelid/1548636434
-#EXTINF:-1,Boomerang
-http://223.204.71.133:9981/stream/channelid/607024372
-#EXTINF:-1,Cartoon Club
-http://223.204.71.133:9981/stream/channelid/1353713657
-#EXTINF:-1,Ani+ HD
-http://223.204.71.133:9981/stream/channelid/301017465
-#EXTINF:-1,KitKids HD
-http://223.204.71.133:9981/stream/channelid/434569499
-#EXTINF:-1,ABC
-http://223.204.71.133:9981/stream/channelid/409262231
-
+http://180.183.115.215:8000/play/a03j
+#EXTINF:-1,ETV
+http://180.183.115.215:8000/play/a00s
+#EXTINF:-1,PLOOK
+http://180.183.115.215:8000/play/a00o
+#EXTINF:-1,BRIGHT
+http://180.183.115.215:8000/play/a017
+#EXTINF:-1,OUTDOOR CHANNEL
+http://180.183.115.215:8000/play/a01y
+#EXTINF:-1,CNBC
+http://180.183.115.215:8000/play/a03n
+#EXTINF:-1,NEW TV
+http://180.183.115.215:8000/play/a015
+#EXTINF:-1,MCOT F
+http://180.183.115.215:8000/play/a011
+#EXTINF:-1,TPTV
+http://180.183.115.215:8000/play/a00z
+#EXTINF:-1,CNN
+http://180.183.115.215:8000/play/a03k
+#EXTINF:-1,FOX FAMILY MOVIES
+http://180.183.115.215:8000/play/a03o
+#EXTINF:-1,FOX MOVIES
+http://180.183.115.215:8000/play/a036
+#EXTINF:-1,RAMA
+http://180.183.115.215:8000/play/a00q
+#EXTINF:-1,BLOOMBERG
+http://180.183.115.215:8000/play/a03m
+#EXTINF:-1,CARTOON NETWORK
+http://180.183.115.215:8000/play/a03h
+#EXTINF:-1,BUDDHA
+http://180.183.115.215:8000/play/a03e
+#EXTINF:-1,BBC WORLD NEWS
+http://180.183.115.215:8000/play/a03l
+#EXTINF:-1,MCOT HD
+http://180.183.115.215:8000/play/a02v
+#EXTINF:-1,TGN
+http://180.183.115.215:8000/play/a005
+#EXTINF:-1,ONE
+http://180.183.115.215:8000/play/a00i
+#EXTINF:-1,TV5HD1
+http://180.183.115.215:8000/play/a00w
+#EXTINF:-1,NBT
+http://180.183.115.215:8000/play/a00x
+#EXTINF:-1,3FAM
+http://180.183.115.215:8000/play/a010
+#EXTINF:-1,AMARIN
+http://180.183.115.215:8000/play/a00l
+#EXTINF:-1,NOW
+http://180.183.115.215:8000/play/a00e
+#EXTINF:-1,WP TV
+http://180.183.115.215:8000/play/a01a
+#EXTINF:-1,TPBS
+http://180.183.115.215:8000/play/a00y
+#EXTINF:-1,TNN24
+http://180.183.115.215:8000/play/a013
+#EXTINF:-1,VOICE
+http://180.183.115.215:8000/play/a018
+#EXTINF:-1,MONEY
+http://180.183.115.215:8000/play/a008
+#EXTINF:-1,SP NEWS
+http://180.183.115.215:8000/play/a016
 
 
 
@@ -2871,6 +2814,8 @@ http://62.210.215.83:8000/play/a00m/index.m3u8
 http://84.104.234.134:8001/1:0:1:4224:3DB8:13E:820000:0:0:0
 #EXTINF:-1,Brazzers_eu
 http://84.104.234.134:8001/1:0:1:1D25:2FA8:13E:820000:0:0:0:
+#EXTINF:-1,hustlerHD
+http://193.106.209.211:8001/1:0:19:4220:2F44:13E:820000:0:0:0:
 #EXTINF:-1,Penthouse_quickies
 http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
 #EXTINF:-1,Penthouse_gold28
@@ -2925,12 +2870,7 @@ http://live.eurovipserver.com:1453/Halil/Akdogan/120770
 #EXTINF:-1,Beate-Uhse.TV HD
 http://live.eurovipserver.com:1453/aksel/ilker/120770
 
-#EXTINF:-1,LO-DE: BEATE-UHSE.TV
-http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/89673
-#EXTINF:-1,[ADULT] BEATE UHSE HD 
-http://iptv.4k4g.in:8080/live/aksa/aksa/286.ts
-#EXTINF:0,XXX: Beate Uhse TV 
-http://thenew.tv:8000/Roxy1/Roxy12/37825
+
 
 
 
@@ -3177,6 +3117,11 @@ http://mu02.v2iptv.com:8880/ZH12M001019/hh8219w4/33154
 #EXTINF:-1,Pandora_Pink_33152
 http://mu02.v2iptv.com:8880/ZH12M001019/hh8219w4/33152
 
+#EXTINF:-1,JAV_Film_33154_test1
+http://mu02.v2iptv.com:8880/YKLM868/bZqYdMBOEZ/33154
+#EXTINF:-1,JAV_Film_33154_test2
+http://mu02.v2iptv.com:8880/BL6MA000109/28478798/33154
+
 #EXTINF:-1,phone vision
 http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3049003136-10057-A-0-1_1200.m3u8
 
@@ -3343,8 +3288,28 @@ http://ok2.se:8000/t1BW2MsonF/1W8e4YB0Rl/77332
 
 
 
+#EXTINF:-1,Da Vinci--------
+http://fast.nicusoft.org:8085/live/itnCYFR6Kw/7MzbGHPiGi/221.ts
+#EXTINF:-1,BBC Earth
+http://fast.nicusoft.org:8085/live/itnCYFR6Kw/7MzbGHPiGi/17.ts
 
+#EXTINF:-1,TR: DA VINCI KIDS--------
+http://01012022.com:6464/live/erdogan/10102018/63.ts
+#EXTINF:-1,TR: BBC EARTH
+http://01012022.com:6464/live/erdogan/10102018/73.ts
 
+#EXTINF:-1,DAVINCI KIDS-------------
+http://213.174.8.7:11111/index.m3u8
+
+#EXTINF:-1,ASIAN FOOD CHANNEL ID
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
+
+#EXTINF:-1 tvg-id="Asian Food Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png",Asian Food Channel HD-----------------
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF: tvg-id="BBC" group-title="INTERNATIONAL News" tvg-logo="https://jvtea44x1mh3gctjp1q2nymo-wpengine.netdna-ssl.com/wp-content/uploads/2012/08/BBC-Logo-drsign-Evolution-Story-marketing-facts-1200x630.jpg",BBC EARTH
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCEARTH-HD-ABR/HTV-ABR/BBCEARTH-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="Da Vinci " group-title="INTERNATIONAL" tvg-logo="https://lh3.googleusercontent.com/FHml-OpmOgSi0MxlXvAPZu_zwQNOZMHRcgIN8rjx3i06jsYPxmCZKuc7T7DMB_TCnQU",Da Vinci TV HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT--------------
@@ -3456,19 +3421,22 @@ http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84732
 #EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| ASIAN FOOD CHANNEL
 http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84839
 
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| ASIAN FOOD CHANNEL_test
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/84839
 
-#EXTINF:-1,MALAYSIA:BBC_EARTH_HD----------------
-http://universeiptv.com:8000/beehive/beehive2019/38602
+
+#EXTINF:-1,MY-HD-My-Documentary----------------
+http://universeiptv.com:8000/imam/imam2019/9657
+#EXTINF:-1,MALAYSIA:BBC_EARTH_HD
+http://universeiptv.com:8000/imam/imam2019/38602
 #EXTINF:-1,MALAYSIA:BBC_LIFESTYLE
-http://universeiptv.com:8000/beehive/beehive2019/38601
-#EXTINF:-1,MALAYSIA:NAT_GEO_ASIA_HD
+http://universeiptv.com:8000/imam/imam2019/38601
+#EXTINF:-1,MALAYSIA:NAT_GEO_ASIA_HD------------
 http://universeiptv.com:8000/beehive/beehive2019/31898
 #EXTINF:-1,MALAYSIA:NAT_GEO_PEOPLE_HD
 http://universeiptv.com:8000/beehive/beehive2019/38576
 #EXTINF:-1,HU:DA_VINCI_LEARNING
 http://universeiptv.com:8000/beehive/beehive2019/36450
-#EXTINF:-1,MY-HD-My-Documentary
-http://universeiptv.com:8000/imam/imam2019/9657
 #EXTINF:-1,UK:BBC_EARTH
 http://universeiptv.com:8000/charlie/2019/4972
 #EXTINF:-1,UK:Discovery-Science
@@ -3479,6 +3447,14 @@ http://universeiptv.com:8000/charlie/2019/4470
 http://universeiptv.com:8000/charlie/2019/3521
 #EXTINF:-1,UK:Good_Food
 http://universeiptv.com:8000/charlie/2019/39314
+
+
+#EXTINF:-1 tvg-id="eentertainment.id" tvg-logo="https://i.imgur.com/fnm3Jta.jpg?1" group-title="6-Entertainment",E! [ID]------------------------
+http://210.210.155.35/uq2663/h/h10/01.m3u8
+#EXTINF:-1 tvg-id="NatGeoPeople.id" tvg-logo="https://i.imgur.com/G37xIKa.png?1" group-title="9-Knowledge",NatGeo People [ID]
+http://203.153.218.26:9981/stream/channelid/707541297?ticket=6E83D527A00854150E4C9EC0ABD053D57CDE11BD&profile=pass
+#EXTINF:-1 tvg-id="AsianFoodChannel.sg" tvg-logo="https://i.imgur.com/wo0aWQY.jpg?1" group-title="14-Astro Malaysia",Asian Food Channel
+http://203.153.218.26:9981/stream/channelid/723941166?ticket=3E5377609F0E22E4CB87FAE6078DC83413552812&profile=pass
 
 
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://185.3.182.72:999
@@ -3493,7 +3469,8 @@ http://46.32.68.167/s/live/711/100.0.0.5/1/0.m3u8
 http://46.32.68.167/s/live/711/86.169.51.136/0/0.m3u8
 #EXTINF:-1,Nuart TV
 http://178.124.183.14:80/hls/CH_NYARTTV/variant.m3u8
-
+#EXTINF:-1,Nuart TV_test
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NYARTTV/variant.m3u8
 
 
 
@@ -3525,6 +3502,8 @@ https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-
 
 #EXTINF:-1 group-title="docu" tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/02/CGTN_Documentary_logo-1.png",CGTN Documentary--------------------------
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/02/CGTN_Documentary_logo-1.png",CGTN Documentary
+http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://america.cgtn.com/wp-content/uploads/2016/12/af61fb95-f5cb-418b-b24a-61c6b1991dd4-640x640.jpg",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/CNA-logo.gif",Channel News Asia
@@ -3546,6 +3525,8 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg TV Australia
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News + info
+http://45.126.83.51/uq2663/h/h03/index2.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News + info_39464
 http://89.38.8.130:39464
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News + info
@@ -3570,23 +3551,17 @@ http://ok2.se:8000/fSCu8i8OGd/JrZU2P55jw/4600
 
 
 
-#EXTINF:-1,CNBC_udp_viet---
+#EXTINF:-1,CNBC_udp_viet
 http://118.68.25.185:4022/udp/225.1.1.227:30120
 #EXTINF:-1,CNBC_rtp_viet
 http://14.187.33.162:4022/rtp/232.84.2.177:10488
-#EXTINF:-1,CNBC_th
-http://14.207.2.242:8000/play/a03n
+#EXTINF:-1,CNBC_th---
+http://180.183.115.215:8000/play/a03n
 
 
 
-
-#EXTINF:-1,CNBC US
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/10923
-
-#EXTINF:-1,CNBC
-http://185.132.134.141:9090/load/1a8d7562c9df/228.mpegts
-#EXTINF:-1,CNBC World
-http://185.132.134.141:9090/load/1a8d7562c9df/229.mpegts
+#EXTINF:-1,UK: CNBC Europe
+http://m4.mio4ever.eu:8000/live/mwdv64grg9/uLFyu4Q3A6/2294.ts
 
 
 
