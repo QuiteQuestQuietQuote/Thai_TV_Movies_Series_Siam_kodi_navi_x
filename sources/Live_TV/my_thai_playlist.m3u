@@ -2858,12 +2858,10 @@ http://91.204.234.3:8000/play/a001/index.m3u8
 http://91.204.234.3:8000/play/a00p/index.m3u8
 #EXTINF:-1,DorcelHD
 http://91.194.72.46:10043/play/DorcelHD/index.m3u8
-#EXTINF:-1,WYN
-http://185.35.4.37:8087/shalun/ch.m3u8
 #EXTINF:-1,BHot
 http://37.189.31.80:8070/play/a03l/index.m3u8
-
-
+#EXTINF:-1,WYN
+http://mel13.ottclub.ru/iptv/Y48RADFZD5HYD2/922/tracks-v1a2/index.m3u8
 
 
 
@@ -2875,10 +2873,7 @@ http://cdn.adultiptv.net/teen.m3u8
 
 #EXTINF:-1,Beate-Uhse.TV HD-------------
 http://78.83.88.38:8899/play/a028
-#EXTINF:-1,Beate-Uhse.TV HD
-http://live.eurovipserver.com:1453/Halil/Akdogan/120770
-#EXTINF:-1,Beate-Uhse.TV HD
-http://live.eurovipserver.com:1453/aksel/ilker/120770
+
 
 
 
@@ -3294,7 +3289,20 @@ http://ok2.se:8000/t1BW2MsonF/1W8e4YB0Rl/77332
 
 
 
+#EXTINF:-1,Da Vinci Learning-------------
+http://178.68.209.198:81/play/a047
 
+#EXTINF:-1,Food TV_kor-------------
+http://219.254.17.179:9981/stream/channelid/1682915371
+#EXTINF:-1,Natgeo People
+http://1.231.21.124:9981/stream/channelid/2041346768
+#EXTINF:-1,BBC earth
+http://1.231.21.124:9981/stream/channelid/35425492
+
+#EXTINF:-1,DaVinci Learning---------------
+http://176.67.211.7:8003/udp/239.1.1.141:22141
+#EXTINF:-1,BBC Earth HD
+http://176.67.211.7:8003/udp/239.1.1.42:22042
 
 
 
@@ -3312,6 +3320,8 @@ http://118.68.25.185:4022/udp/225.1.1.198:30120
 
 
 
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_th
+http://122.155.180.8:5021/live/440
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_tw_ts
 http://122.146.68.116:4046/VideoInput/play.ts
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI 
@@ -3322,8 +3332,14 @@ rtmp://58.200.131.2:1935/livetv/discovery
 http://211.58.34.230:9981/stream/channelid/1299978861
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_rtmp
 rtmp://118.97.96.17:1935/discover/afc_3
+#EXTINF:-1  tvg-logo="http://image.free.in.th/v/2013/ir/180628100717.png",History2_chn
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_test
+http://203.207.56.228/live/iptv035.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_test
+http://203.207.56.228/live/iptv001.m3u8
 #EXTINF:-1,FOODIE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg",Style_HDsession
@@ -3334,39 +3350,16 @@ http://217.103.38.220:8001/1:0:16:36E3:C8C:3:EB0000:0:0:0:
 http://strm.yandex.ru/kal/asiaamazing/asiaamazing0_169_480p.json/index-v1-a1.m3u8
 
 
-#EXTINF:-1,Discovery Life HD-------------------
-http://188.35.9.8:21141/udp/142v
-#EXTINF:-1,Discovery Science
-http://188.35.9.15:21151/udp/188k
-#EXTINF:-1,Nat Geo People HD
-http://188.35.9.15:21151/udp/186o
-#EXTINF:-1,Viasat History HD
-http://188.35.9.15:21121/udp/137s
-#EXTINF:-1,BBC Lifetsyle
-http://188.35.9.15:21111/udp/164j
-#EXTINF:-1,History
-http://188.35.9.163:21121/udp/128c
-#EXTINF:-1,N24 DOKU Austria
-http://188.35.9.8:21031/udp/079q
-#EXTINF:-1,LUXE
-http://188.35.9.11:21121/udp/174a
+
+
 #EXTINF: -1, BBC EARTH---------------
 http://188.35.9.14:21151/udp/156z
-#EXTINF:-1, BBC FIRST HD
-http://188.35.9.14:21151/udp/155r
 #EXTINF: -1, BBC Lifets
 http://188.35.9.14:21111/udp/164j
+#EXTINF:-1,BBC Lifetsyle
+http://188.35.9.15:21111/udp/164j
 
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,US| CNBC HD-----------------
-http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/45593
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,SE| CNBC EUROPE
-http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/51886
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,CA| CNBC
-http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/20620
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,NL| E! ENTERTAINMENT FHD HEVC
-http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/50199
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,DK| MOVIETIME ULTRA 4K [ONLY ON 4K DEVICES]
-http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/81873
+
 #EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,PH| DISCOVERY ASIA WORLD
 http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84876
 #EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,PL| BBC EARTH HD
@@ -3387,22 +3380,6 @@ http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/81926
 http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84835
 #EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| BBC LIFESTYLE
 http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84834
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,DK| VIASAT HISTORY FHD [MULTI-SUB]
-http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/81885
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,NO| VIASAT HISTORY FHD [MULTI-SUB]
-http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/81724
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,NO| VIASAT EXPLORER FHD [MULTI-SUB]
-http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/81723
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,FI| VIASAT EXPLORER [MULTI-SUB]
-http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/81592
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,FI| VIASAT HISTORY FHD [MULTI-SUB]
-http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/81591
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,BR| FISH TV HD
-http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/59261
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| NAT GEO ASIA HD
-http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84808
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| NAT GEO PEOPLE HD
-http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84807
 #EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,PL| DA VINCI LEARNING
 http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/9446
 #EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| FOOD NETWORK ASIA
@@ -3411,12 +3388,11 @@ http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84732
 http://line.protv.cc:8000/test0916qzj010/f1c5d6aa01/84839
 
 
-#EXTINF:-1,MALAYSIA:BBC_LIFESTYLE--------------test
-http://univrse-ip.world:8000/mhmod/mhmod/38601
-#EXTINF:-1,MALAYSIA:BBC_LIFESTYLE--------------test
-http://185.71.66.15:8000/mhmod/mhmod/38601
-#EXTINF:-1,MALAYSIA:BBC_LIFESTYLE--------------test
-http://185.71.66.108:8000/beehive/beehive2019/38601
+
+#EXTINF:-1,alice
+https://stream.next-sys.it:8443/live/alice/index.m3u8
+#EXTINF:-1,natural_tv
+https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
 
 
 #EXTINF:-1,MY-HD-My-Documentary----------------charlie
@@ -3425,22 +3401,8 @@ http://universeiptv.com:8000/charlie/2019/9657
 http://universeiptv.com:8000/charlie/2019/38602
 #EXTINF:-1,MALAYSIA:BBC_LIFESTYLE
 http://universeiptv.com:8000/charlie/2019/38601
-#EXTINF:-1,MALAYSIA:NAT_GEO_ASIA_HD
-http://universeiptv.com:8000/charlie/2019/31898
-#EXTINF:-1,MALAYSIA:NAT_GEO_PEOPLE_HD
-http://universeiptv.com:8000/charlie/2019/38576
-#EXTINF:-1,HU:DA_VINCI_LEARNING
-http://universeiptv.com:8000/charlie/2019/36450
-#EXTINF:-1,UK:BBC_EARTH
-http://universeiptv.com:8000/charlie/2019/4972
-#EXTINF:-1,UK:Discovery-Science
-http://universeiptv.com:8000/charlie/2019/653
-#EXTINF:-1,UK:Discovery_Home_Health
-http://universeiptv.com:8000/charlie/2019/4470
-#EXTINF:-1,UK:E
-http://universeiptv.com:8000/charlie/2019/3521
-#EXTINF:-1,UK:Good_Food
-http://universeiptv.com:8000/charlie/2019/39314
+#EXTINF:-1,MALAYSIA:BBC_LIFESTYLE------------test
+http://univrse-ip.world:8000/MohamedZahran/MohamedZahran/38601
 
 
 #EXTINF:-1 tvg-id="eentertainment.id" tvg-logo="https://i.imgur.com/fnm3Jta.jpg?1" group-title="6-Entertainment",E! [ID]------------------------
@@ -3460,14 +3422,9 @@ http://46.32.68.167/s/live/711/100.0.0.5/1/0.m3u8
 http://46.32.68.167/s/live/711/86.169.51.136/0/0.m3u8
 #EXTINF:-1,Nuart TV
 http://178.124.183.14:80/hls/CH_NYARTTV/variant.m3u8
-#EXTINF:-1,Nuart TV_test
-http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_NYARTTV/variant.m3u8
 
-#EXTINF:-1,|NO| BBC EARTH HD
-http://89.187.174.90:80/nG2vcPmC5e/DXKwV6pgyp/77543
 
-#EXTINF:-1,Science Europe
-http://213.81.199.3:4022/udp/233.49.26.197:2314
+
 
 #EXTINF:-1,GONG_movie_playmedia--------------------------
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
@@ -3553,17 +3510,7 @@ http://180.183.115.215:8000/play/a03n
 
 
 
-#EXTINF:-1,CNBC
-http://213.58.181.119:4000/play/a01x
-#EXTINF:-1,CNBC Europe
-http://213.58.181.119:4000/play/a02n
 
-
-
-#EXTINF:-1,USA:CNBC
-http://univrse-ip.world:8000/mhmod/mhmod/2116
-#EXTINF:-1,UK: CNBC Europe
-http://m4.mio4ever.eu:8000/live/mwdv64grg9/uLFyu4Q3A6/2294.ts
 
 
 
