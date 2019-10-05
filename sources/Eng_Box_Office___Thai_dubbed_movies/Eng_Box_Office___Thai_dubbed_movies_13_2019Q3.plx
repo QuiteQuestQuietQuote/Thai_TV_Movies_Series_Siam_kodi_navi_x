@@ -8829,6 +8829,329 @@ URL=
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Monstrum (2018) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hleKFQ51VTt8GKnUNN0AvJD1wNe.jpg
+date=2019-02-06
+URL=https://openload.co/f/o2ZEKIdtMuw/Monstrum.2018.KOREAN.1080p.BluRay.H264.AAC-HDMovie8.mkv.mp4
+type=video
+name=Monstrum (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hleKFQ51VTt8GKnUNN0AvJD1wNe.jpg
+date=2019-07-29
+URL=https://verystream.com/stream/MAcjfQi2uLJ/MONSTRUM_%282018%29_%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2.mp4
+#https://verystream.com/stream/KTYRByP8pg5/MONSTRUM_%282018%29_%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2.mp4
+#https://openload.co/f/LqODIQc1TMU/Monstrum_%282018%29%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
+
+
+type=video
+name=The Villainess (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lv8RPk7vDaJPCBMJUa6BdJq86n.jpg
+date=2019-07-28
+URL=
+type=video
+name=The Villainess (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lv8RPk7vDaJPCBMJUa6BdJq86n.jpg
+date=2019-07-28
+URL=https://streamango.com/f/blpelposlpqbsood/The_Villainess_2017_mp4
+#https://verystream.com/stream/RHyGUgEVp9w/THE_VILLAINESS_%28AK-NYEO%29_%282017%29_%E0%B8%9A%E0%B8%B8%E0%B8%A9%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99.mp4
+
+
+type=video
+name=Pet Sematary (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg
+date=2019-07-19
+URL=https://verystream.com/stream/WjrWXjJaVJh/Pet.Sematary.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://verystream.com/stream/SBxr2y46jz3/Pet.Sematary.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/Z3mQ22phZ5v/Pet.Sematary.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://openload.co/f/bUxDm4k4SJ4/Pet.Sematary.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://openload.co/f/fyFhpiWrFvY/Pet.Sematary.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://openload.co/f/i24PtDi39k0/Pet.Sematary.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/r1dSIGPGTVY/Pet.Sematary.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/_-SMGg0JImk/Pet.Sematary.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://openload.co/f/coXZyK-GOMw/Pet.Sematary.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://vidoza.net/t1ko2qh6bbpu.html	Pet Sematary 2019 1080p BrRip x265 HEVCBay	1712x720
+type=video
+name=Pet Sematary (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg
+date=2019-07-28
+URL=https://verystream.com/stream/WaryWZhWfoc/PET_SEMATARY_%282019%29_%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%8A%E0%B9%89%E0%B8%B2.mp4
+#https://verystream.com/stream/cJmhwsTAfnt/PET_SEMATARY_%282019%29_%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%8A%E0%B9%89%E0%B8%B2.mp4
+#https://verystream.com/stream/86CZy4AdzXY/PET_SEMATARY_%282019%29_%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%8A%E0%B9%89%E0%B8%B2.mp4
+#https://verystream.com/stream/j8YwgayavUu/PET_SEMATARY_%282019%29_%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%8A%E0%B9%89%E0%B8%B2.mp4
+
+
+type=video
+name=Alita: Battle Angel (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg
+date=2019-07-19
+URL=https://verystream.com/stream/WiBo9jWf4ya/Alita.Battle.Angel.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+#https://verystream.com/stream/LWhHG2w9pmy/Alita.Battle.Angel.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/5P8BZp358Uw/Alita.Battle.Angel.2019.1080p.BluRay.AC3.x264-MkvCage.mkv.mp4
+#https://verystream.com/stream/9txUknoawKa/Alita.Battle.Angel.2019.3D.HSBS.BluRay.x264-YTS.LT.mp4
+#https://openload.co/f/0rVrcD82nY4/Alita_Battle_Angel_2019_Multi_1080p_Blu-ray_HEVC_DTS-HD_MA_7_1-DDR%5BEtHD%5D.mp4
+#https://openload.co/f/_jhBfzeBIjI/Alita_Battle_Angel_2019_Multi_1080p_Blu-ray_HEVC_DTS-HD_MA_7_1-DDR%5BEtHD%5D.mp4
+#https://openload.co/f/VinUaQyFieI/Alita.Battle.Angel.2019.1080p.BluRay_SeeHD.mp4
+#https://openload.co/f/xpbIlvMuBEU/alita_battle_angel_2019_1080p_bluray_x264-sparks%5BEtHD%5D.mp4
+#https://vidoza.net/rh2prviizwe2.html	alita battle angel 2019 1080p bluray x264-sparks[EtHD]	1712x720
+#https://vidoza.net/xsnnq57zaj4h.html	Alita Battle Angel 2019 Multi 1080p Blu-ray HEVC DTS-HD MA 7 1-DDR[EtHD]	1728x720
+#https://openload.co/f/qUn3rpS4kno/Alita.Battle.Angel.2019.HQTS.720p.SUED0.5.1.X264-0mNiC.mkv.mp4
+#https://openload.co/f/KqHquzEQAmk/Alita.Battle.Angel.2019.720p.HQTS.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/SZy8kOehc0I/Alita.Battle.Angel.2019.720p.HDCAM-1XBET.mp4
+#https://openload.co/f/aVjDq-7Qaqs/Alita_Battle_Angel_2019_HDCAM_XViD_AC3-ETRG.avi.mp4
+type=video
+name=Alita: Battle Angel (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg
+date=2019-07-17
+URL=https://openload.co/f/hB1pJUYFMPA/ALITA%3A_BATTLE_ANGEL_%282019%29_%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%B2_%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A5_%E0%B9%81%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%B4%E0%B9%89%E0%B8%A5.mp4
+
+
+type=video
+name=The Wind Rises (2013) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-78
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OTcCyf7QbGdVxsS8GLtaSsTZtP.jpg
+date=2019-07-17
+URL=
+type=video
+name=The Wind Rises (2013) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OTcCyf7QbGdVxsS8GLtaSsTZtP.jpg
+date=2019-07-17
+URL=https://openload.co/f/WpeRySTN_cI/THE_WIND_RISES_%282013%29_%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%9D%E0%B8%B1%E0%B8%99_%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
+
+
+type=video
+name=Wood Job! (2014) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-74
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvo0367R3pWJJrwGDRMMOCZnSwY.jpg
+date=2019-07-17
+URL=
+type=video
+name=Wood Job! (2014) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvo0367R3pWJJrwGDRMMOCZnSwY.jpg
+date=2019-07-17
+URL=https://verystream.com/stream/16BjWH8Lv4i/Wood_Job%21_%282014%29%E0%B9%81%E0%B8%94%E0%B8%94%E0%B8%AA%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.mp4
+#https://openload.co/f/RiATXdivjxM/WOOD_JOB%21_%282014%29_%E0%B9%81%E0%B8%94%E0%B8%94%E0%B8%AA%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.mp4
+
+
+type=video
+name=Misconduct (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-55
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2bxPatpVigWtvfR4VdmAdB3vUV.jpg
+date=2018-05-20
+URL=https://openload.co/f/roVapUHp39g/Misconduct.2016.1080p.BluRay.x264-ROVERS.mkv.mp4
+type=video
+name=Misconduct (2016) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2bxPatpVigWtvfR4VdmAdB3vUV.jpg
+date=2019-07-17
+URL=https://openload.co/f/otpbajsRk9M/MISCONDUCT_%282016%29_%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B9%82%E0%B8%84%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD.mp4
+
+
+type=video
+name=6 Below: Miracle on the Mountain (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-56
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eZynKoLiPq9b6DQGLOFHt6mZPv.jpg
+date=2017-11-17
+URL=https://openload.co/f/3ar1ciJE_8g/6.Below.Miracle.on.the.Mountain.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
+#https://openload.co/f/SytT_2ZR_kc/6.Below.Miracle.on.the.Mountain.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
+#https://openload.co/f/JG-_5_FdurA/6_Below%3A_Miracle_on_the_Mountain_%282017%29.WEB-DL.XviD.AC3-FGT.avi.mp4
+#https://www.blazefile.co/embed-lawol7qg5fnv.html   720
+type=video
+name=6 Below: Miracle on the Mountain (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eZynKoLiPq9b6DQGLOFHt6mZPv.jpg
+date=2019-07-06
+URL=https://verystream.com/stream/7VmgebC5YrA/6_BELOW%3A_MIRACLE_ON_THE_MOUNTAIN_%282017%29_6_%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C%E0%B8%9A%E0%B8%99%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%82%E0%B8%B2.mp4
+#https://openload.co/f/fu1QrSAIacw/6_BELOW%3A_MIRACLE_ON_THE_MOUNTAIN_%282017%29_6_%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C%E0%B8%9A%E0%B8%99%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%82%E0%B8%B2.mp4
+
+
+type=video
+name=Sleepwalker (2017) [COLOR=FF00FF00]ENG WEB 1080p[/COLOR] | TMDB-46
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyLCyJZr0jLYhuojFZn8kjkkSzH.jpg
+date=2018-03-08
+URL=https://openload.co/f/8MxUCmLZrpc/Sleepwalker.2017.1080p.WEB-DL.DD5.1.H.264-FGT.mkv.mp4
+#https://openload.co/f/JZe9TCIgTEI/Sleepwalker_2017_HDRip_XviD_AC3-EVO.mp4
+type=video
+name=Sleepwalker (2017) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyLCyJZr0jLYhuojFZn8kjkkSzH.jpg
+date=2019-07-06
+URL=https://verystream.com/stream/WMbAH5yBcg9/Sleepwalker_%282017%29%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A1%E0%B8%AD.mp4
+#https://openload.co/f/NofyP6fe1V8/SLEEPWALKER_%282017%29_%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A1%E0%B8%AD.mp4
+
+
+type=video
+name=Unsane (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvDBfavZASdKsJunu9VCAtXjLS2.jpg
+date=2019-07-06
+URL=
+type=video
+name=Unsane (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvDBfavZASdKsJunu9VCAtXjLS2.jpg
+date=2019-07-06
+URL=https://openload.co/f/ld6f2_1V5Gg/UNSANE_%282018%29_%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2.mp4
+
+
+type=video
+name=Euphoria (2018) [COLOR=FF00FF00]ENG HD 720p[/COLOR] | TMDB-67
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Anw3eLdNVRXafpYktwRzAGd6sPW.jpg
+date=2019-06-26
+URL=https://openload.co/f/Ce3rkEeIiV0/euphoria-2017-HD720.mp4
+type=video
+name=Euphoria (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Anw3eLdNVRXafpYktwRzAGd6sPW.jpg
+date=2019-07-06
+URL=https://verystream.com/stream/c1LhhZrkBV2/Euphoria_%282018%29%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%9A%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99.mp4
+#https://openload.co/f/7s7CPOUqDrY/EUPHORIA_%282017%29%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%9A%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99.mp4
+#https://openload.co/f/ZfiqrLKf8Kc/EUPHORIA_%282017%29%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
+
+
 type=video
 name=Long Shot (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2ttWZ8rMRwIMT7zA48Jo6mTkDS.jpg
@@ -8896,6 +9219,46 @@ thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcuEDKnM3uThdz7p0YYWFjMla7
 date=2019-08-31
 URL=https://openload.co/f/1i_lHdhy0FM/Donnybrook_%282018%29_%E0%B8%94%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%88%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B8%81.mp4
 #https://verystream.com/stream/iBDVirqPFg7/DONNYBROOK_%282018%29_%E0%B8%94%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%88%E0%B8%9A%E0%B8%A3%E0%B8%B9%E0%B8%81.mp4
+
+
+type=video
+name=Breakthrough (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t58dx7JIgchr9If5uxn3NmHaHoS.jpg
+date=2019-07-23
+URL=https://verystream.com/stream/ALmTgB41oDB/Breakthrough.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/NbpZ3Vndrsq/Breakthrough.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/ALmTgB41oDB/Breakthrough.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/SRb8TPFx9Td/Breakthrough.2019.1080p.BluRay.x264-YTS.LT.mp4
+#https://openload.co/f/25kNFLHGuLE/Breakthrough.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://openload.co/f/uJqD3DjW1xk/Breakthrough_2019_1080p_BluRay_x264-GECKOS%5BEtHD%5D.mp4
+#https://openload.co/f/AzXpfOQzWg4/Breakthrough_2019_1080p_BluRay_x264-GECKOS%5BEtHD%5D.mp4
+#https://openload.co/f/1xL9B98j2wM/Breakthrough_2019_MULTi_BluRay_1080p_DTS-HD_MA_7_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://openload.co/f/Uyh5T53ErCI/Breakthrough_2019_MULTi_BluRay_1080p_DTS-HD_MA_7_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://vidoza.net/lrr0q776gfh6.html	Breakthrough 2019 1080p BluRay 1400MB DD5 1 x264-GalaxyRG	1728x720
+#https://vidoza.net/n5lojb9rp2e8.html	Breakthrough 2019 1080p BluRay 1400MB DD5 1 x264-GalaxyRG	1728x720
+#https://vidoza.net/70cqu4wtq6ob.html	Breakthrough 2019 1080p BluRay x264-GECKOS[EtHD]	1712x720
+#https://vidoza.net/02wnax09b7jb.html	Breakthrough 2019 MULTi BluRay 1080p DTS-HD MA 7 1 HEVC-DDR[EtHD]	1728x720
+type=video
+name=Breakthrough (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t58dx7JIgchr9If5uxn3NmHaHoS.jpg
+date=2019-07-21
+URL=https://openload.co/f/jaQOKA4djZk/BREAKTHROUGH_%282019%29_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2.mp4
+
+
+type=video
+name=Gloria Bell (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTfAWQXUceUszmifA4AwkIsDccQ.jpg
+date=2019-06-02
+URL=https://openload.co/f/qV_loq7Lwxk/Gloria_Bell_2018_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
+#https://openload.co/f/9wEkmLw7sks/Gloria_Bell_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+#https://openload.co/f/qV_loq7Lwxk/Gloria_Bell_2018_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
+#https://openload.co/f/AIAHNwgvInk/Gloria_Bell_2018_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
+#https://openload.co/f/T3WpIAIfOfc/Gloria_Bell_%282019%291080p_BluRay_x264-DRONES_Ganool.mkv.mp4
+type=video
+name=Gloria Bell (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTfAWQXUceUszmifA4AwkIsDccQ.jpg
+date=2019-07-21
+URL=https://openload.co/f/KbZ6AVD0UTQ/GLORIA_BELL_%282018%29_%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2_%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%A5%E0%B9%8C.mp4
 
 
 type=video
@@ -9034,7 +9397,8 @@ type=video
 name=Avengers: Endgame (2019) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg
 date=2019-08-31
-URL=https://openload.co/f/Hk8n4j8DkTI/Avengers%3A_Endgame_%282019%29_%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%3A_%E0%B9%80%E0%B8%9C%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%A8%E0%B8%B6%E0%B8%81.mp4
+URL=https://streamango.com/f/btqmsesabqelscfq/Avengers_Endgame_2019_mp4
+#https://openload.co/f/Hk8n4j8DkTI/Avengers%3A_Endgame_%282019%29_%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%3A_%E0%B9%80%E0%B8%9C%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%A8%E0%B8%B6%E0%B8%81.mp4
 
 
 type=video
@@ -9075,87 +9439,6 @@ date=2019-08-31
 URL=https://openload.co/f/BhyP0G8nCtY/Backtrace_%282018%29_%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%9B%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2.mp4
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-type=video
-name=Monstrum (2018) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-58
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hleKFQ51VTt8GKnUNN0AvJD1wNe.jpg
-date=2019-02-06
-URL=https://openload.co/f/o2ZEKIdtMuw/Monstrum.2018.KOREAN.1080p.BluRay.H264.AAC-HDMovie8.mkv.mp4
-type=video
-name=Monstrum (2018) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hleKFQ51VTt8GKnUNN0AvJD1wNe.jpg
-date=2019-07-29
-URL=https://verystream.com/stream/KTYRByP8pg5/MONSTRUM_%282018%29_%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2.mp4
-#https://openload.co/f/LqODIQc1TMU/Monstrum_%282018%29%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2_%28%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87%29
-
-
-type=video
-name=The Villainess (2017) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-68
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lv8RPk7vDaJPCBMJUa6BdJq86n.jpg
-date=2019-07-28
-URL=
-type=video
-name=The Villainess (2017) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lv8RPk7vDaJPCBMJUa6BdJq86n.jpg
-date=2019-07-28
-URL=https://verystream.com/stream/RHyGUgEVp9w/THE_VILLAINESS_%28AK-NYEO%29_%282017%29_%E0%B8%9A%E0%B8%B8%E0%B8%A9%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99.mp4
-
-
-type=video
-name=Pet Sematary (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg
-date=2019-07-19
-URL=https://verystream.com/stream/WjrWXjJaVJh/Pet.Sematary.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
-#https://verystream.com/stream/SBxr2y46jz3/Pet.Sematary.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
-#https://verystream.com/stream/Z3mQ22phZ5v/Pet.Sematary.2019.1080p.BluRay.x264-YTS.LT.mp4
-#https://openload.co/f/bUxDm4k4SJ4/Pet.Sematary.2019.1080p.BluRay.x264-YTS.LT.mp4
-#https://openload.co/f/fyFhpiWrFvY/Pet.Sematary.2019.1080p.BluRay.x264-YTS.LT.mp4
-#https://openload.co/f/i24PtDi39k0/Pet.Sematary.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
-#https://openload.co/f/r1dSIGPGTVY/Pet.Sematary.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
-#https://openload.co/f/_-SMGg0JImk/Pet.Sematary.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
-#https://openload.co/f/coXZyK-GOMw/Pet.Sematary.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
-#https://vidoza.net/t1ko2qh6bbpu.html	Pet Sematary 2019 1080p BrRip x265 HEVCBay	1712x720
-type=video
-name=Pet Sematary (2019) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg
-date=2019-07-28
-URL=https://verystream.com/stream/86CZy4AdzXY/PET_SEMATARY_%282019%29_%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%8A%E0%B9%89%E0%B8%B2.mp4
-#https://verystream.com/stream/j8YwgayavUu/PET_SEMATARY_%282019%29_%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%8A%E0%B9%89%E0%B8%B2.mp4
-
-
-type=video
-name=The Curse of La Llorona (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-56
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhZlXSnFUpNiLAek9EkPrtLEWQI.jpg
-date=2019-09-03
-URL=https://verystream.com/stream/PNwpYd4k6SA/The.Curse.of.La.Llorona.2019.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://verystream.com/stream/RQGUD9MYGdi/the_curse_of_la_llorona_2019_1080p_bluray_x264-aaa%5BEtHD%5D.mp4
-#https://verystream.com/stream/j2iirjfJyjJ/The_Curse_Of_La_Llorona_2019_RERiP_1080p_BluRay_x264-AAA%5BEtHD%5D.mp4
-#https://verystream.com/stream/DYdJN6bq32u/The_Curse_Of_La_Llorona_2019_MULTi_Blu-ray_1080p_Atmos_7_1_HEVC-DDR%5BEtHD%5D.mp4
-type=video
-name=The Curse of La Llorona (2019) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhZlXSnFUpNiLAek9EkPrtLEWQI.jpg
-date=2019-07-28
-URL=https://openload.co/f/uqYzoALrdLc/THE_CURSE_OF_LA_LLORONA_%282019%29_%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B2%E0%B8%9B%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87%E0%B8%A3%E0%B9%88%E0%B8%B3%E0%B9%84%E0%B8%AB%E0%B9%89.mp4
-
-
 type=video
 name=Pokémon Detective Pikachu (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgQ7APnFpf1TuviKHXeEe3KnsTV.jpg
@@ -9181,6 +9464,22 @@ URL=https://openload.co/f/lx1AuoVz1wc/POK%C3%89MON_DETECTIVE_PIKACHU_%282019%29_
 
 
 type=video
+name=The Curse of La Llorona (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-56
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhZlXSnFUpNiLAek9EkPrtLEWQI.jpg
+date=2019-09-03
+URL=https://verystream.com/stream/PNwpYd4k6SA/The.Curse.of.La.Llorona.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/RQGUD9MYGdi/the_curse_of_la_llorona_2019_1080p_bluray_x264-aaa%5BEtHD%5D.mp4
+#https://verystream.com/stream/j2iirjfJyjJ/The_Curse_Of_La_Llorona_2019_RERiP_1080p_BluRay_x264-AAA%5BEtHD%5D.mp4
+#https://verystream.com/stream/DYdJN6bq32u/The_Curse_Of_La_Llorona_2019_MULTi_Blu-ray_1080p_Atmos_7_1_HEVC-DDR%5BEtHD%5D.mp4
+type=video
+name=The Curse of La Llorona (2019) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhZlXSnFUpNiLAek9EkPrtLEWQI.jpg
+date=2019-07-28
+URL=https://streamango.com/f/encrcncntbqqdbpa/The_Curse_of_La_Llorona_2019_mp4
+#https://openload.co/f/uqYzoALrdLc/THE_CURSE_OF_LA_LLORONA_%282019%29_%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B2%E0%B8%9B%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87%E0%B8%A3%E0%B9%88%E0%B8%B3%E0%B9%84%E0%B8%AB%E0%B9%89.mp4
+
+
+type=video
 name=Samson (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-54
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7Zaj1IEzMMB7KzfglpxdXWB66u.jpg
 date=2018-05-03
@@ -9193,6 +9492,18 @@ name=Samson (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7Zaj1IEzMMB7KzfglpxdXWB66u.jpg
 date=2019-07-28
 URL=https://openload.co/f/qOMgl6YnneU/SAMSON_%282018%29_%E0%B9%81%E0%B8%8B%E0%B8%A1%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99_%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%84%E0%B8%99%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87.mp4
+
+
+type=video
+name=Hereditary (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHV8HHlhwNup2VbpiACtlKzaGIQ.jpg
+date=2019-07-06
+URL=
+type=video
+name=Hereditary (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHV8HHlhwNup2VbpiACtlKzaGIQ.jpg
+date=2019-07-06
+URL=https://openload.co/f/nCwavd51wm8/HEREDITARY_%282018%29_%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
 
 
 type=video
@@ -9260,102 +9571,21 @@ type=video
 name=Teen Spirit (2018) TH
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFPqJZ9vOcH7QroNxXV5wefX2qe.jpg
 date=2019-07-28
-URL=https://openload.co/f/q7-ePgSwp7Q/TEEN_SPIRIT_%282018%29_%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%95.mp4
+URL=https://openload.co/f/CCGdUdIvU1E/TEEN_SPIRIT_%282018%29_%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%95.mp4
+#https://openload.co/f/KklvUx4MR0I/TEEN_SPIRIT_%282018%29_%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%95.mp4
+#https://openload.co/f/8PyYfAB6muE/TEEN_SPIRIT_%282018%29_%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%95.mp4
+#https://openload.co/f/q7-ePgSwp7Q/TEEN_SPIRIT_%282018%29_%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%95.mp4
 #https://openload.co/f/w5TjkpsvWsk/TEEN_SPIRIT_%282018%29_%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%95.mp4
 #https://openload.co/f/cPMyftwyWlg/TEEN_SPIRIT_%282018%29_%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%95.mp4
 #https://openload.co/f/c7ecC_wbv5c/TEEN_SPIRIT_%282018%29_%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%95.mp4
 
 
-type=video
-name=Breakthrough (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t58dx7JIgchr9If5uxn3NmHaHoS.jpg
-date=2019-07-23
-URL=https://verystream.com/stream/ALmTgB41oDB/Breakthrough.2019.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://verystream.com/stream/NbpZ3Vndrsq/Breakthrough.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
-#https://verystream.com/stream/ALmTgB41oDB/Breakthrough.2019.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://verystream.com/stream/SRb8TPFx9Td/Breakthrough.2019.1080p.BluRay.x264-YTS.LT.mp4
-#https://openload.co/f/25kNFLHGuLE/Breakthrough.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
-#https://openload.co/f/uJqD3DjW1xk/Breakthrough_2019_1080p_BluRay_x264-GECKOS%5BEtHD%5D.mp4
-#https://openload.co/f/AzXpfOQzWg4/Breakthrough_2019_1080p_BluRay_x264-GECKOS%5BEtHD%5D.mp4
-#https://openload.co/f/1xL9B98j2wM/Breakthrough_2019_MULTi_BluRay_1080p_DTS-HD_MA_7_1_HEVC-DDR%5BEtHD%5D.mp4
-#https://openload.co/f/Uyh5T53ErCI/Breakthrough_2019_MULTi_BluRay_1080p_DTS-HD_MA_7_1_HEVC-DDR%5BEtHD%5D.mp4
-#https://vidoza.net/lrr0q776gfh6.html	Breakthrough 2019 1080p BluRay 1400MB DD5 1 x264-GalaxyRG	1728x720
-#https://vidoza.net/n5lojb9rp2e8.html	Breakthrough 2019 1080p BluRay 1400MB DD5 1 x264-GalaxyRG	1728x720
-#https://vidoza.net/70cqu4wtq6ob.html	Breakthrough 2019 1080p BluRay x264-GECKOS[EtHD]	1712x720
-#https://vidoza.net/02wnax09b7jb.html	Breakthrough 2019 MULTi BluRay 1080p DTS-HD MA 7 1 HEVC-DDR[EtHD]	1728x720
-type=video
-name=Breakthrough (2019) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/t58dx7JIgchr9If5uxn3NmHaHoS.jpg
-date=2019-07-21
-URL=https://openload.co/f/jaQOKA4djZk/BREAKTHROUGH_%282019%29_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2.mp4
-
-
-
-
-
-type=video
-name=Gloria Bell (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTfAWQXUceUszmifA4AwkIsDccQ.jpg
-date=2019-06-02
-URL=https://openload.co/f/qV_loq7Lwxk/Gloria_Bell_2018_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
-#https://openload.co/f/9wEkmLw7sks/Gloria_Bell_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
-#https://openload.co/f/qV_loq7Lwxk/Gloria_Bell_2018_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
-#https://openload.co/f/AIAHNwgvInk/Gloria_Bell_2018_1080p_Bluray_1400MB_DD5.1_x264-GalaxyRG.mp4
-#https://openload.co/f/T3WpIAIfOfc/Gloria_Bell_%282019%291080p_BluRay_x264-DRONES_Ganool.mkv.mp4
-type=video
-name=Gloria Bell (2019) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTfAWQXUceUszmifA4AwkIsDccQ.jpg
-date=2019-07-21
-URL=https://openload.co/f/KbZ6AVD0UTQ/GLORIA_BELL_%282018%29_%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2_%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%A5%E0%B9%8C.mp4
 
 
-type=video
-name=Alita: Battle Angel (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-68
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg
-date=2019-07-19
-URL=https://verystream.com/stream/WiBo9jWf4ya/Alita.Battle.Angel.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
-#https://verystream.com/stream/LWhHG2w9pmy/Alita.Battle.Angel.2019.1080p.BluRay.H264.AAC-RARBG.mp4
-#https://verystream.com/stream/5P8BZp358Uw/Alita.Battle.Angel.2019.1080p.BluRay.AC3.x264-MkvCage.mkv.mp4
-#https://verystream.com/stream/9txUknoawKa/Alita.Battle.Angel.2019.3D.HSBS.BluRay.x264-YTS.LT.mp4
-#https://openload.co/f/0rVrcD82nY4/Alita_Battle_Angel_2019_Multi_1080p_Blu-ray_HEVC_DTS-HD_MA_7_1-DDR%5BEtHD%5D.mp4
-#https://openload.co/f/_jhBfzeBIjI/Alita_Battle_Angel_2019_Multi_1080p_Blu-ray_HEVC_DTS-HD_MA_7_1-DDR%5BEtHD%5D.mp4
-#https://openload.co/f/VinUaQyFieI/Alita.Battle.Angel.2019.1080p.BluRay_SeeHD.mp4
-#https://openload.co/f/xpbIlvMuBEU/alita_battle_angel_2019_1080p_bluray_x264-sparks%5BEtHD%5D.mp4
-#https://vidoza.net/rh2prviizwe2.html	alita battle angel 2019 1080p bluray x264-sparks[EtHD]	1712x720
-#https://vidoza.net/xsnnq57zaj4h.html	Alita Battle Angel 2019 Multi 1080p Blu-ray HEVC DTS-HD MA 7 1-DDR[EtHD]	1728x720
-#https://openload.co/f/qUn3rpS4kno/Alita.Battle.Angel.2019.HQTS.720p.SUED0.5.1.X264-0mNiC.mkv.mp4
-#https://openload.co/f/KqHquzEQAmk/Alita.Battle.Angel.2019.720p.HQTS.x264-GalaxyRG.mkv.mp4
-#https://openload.co/f/SZy8kOehc0I/Alita.Battle.Angel.2019.720p.HDCAM-1XBET.mp4
-#https://openload.co/f/aVjDq-7Qaqs/Alita_Battle_Angel_2019_HDCAM_XViD_AC3-ETRG.avi.mp4
-type=video
-name=Alita: Battle Angel (2019) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg
-date=2019-07-17
-URL=https://openload.co/f/hB1pJUYFMPA/ALITA%3A_BATTLE_ANGEL_%282019%29_%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%B2_%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A5_%E0%B9%81%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%B4%E0%B9%89%E0%B8%A5.mp4
 
 
-type=video
-name=City Hunter (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-69
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVKfVxoHE34nUUoehs0shNzpEVe.jpg
-date=2019-07-17
-URL=
-type=video
-name=City Hunter (2018) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVKfVxoHE34nUUoehs0shNzpEVe.jpg
-date=2019-07-17
-URL=https://openload.co/f/6lOi96L9TW4/CITY_HUNTER_%282018%29_%E0%B8%8B%E0%B8%B4%E0%B8%95%E0%B8%B5%E0%B9%89%E0%B8%AE%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%B2%E0%B8%AA%E0%B9%82%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C.mp4
 
 
-type=video
-name=The Wind Rises (2013) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-78
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OTcCyf7QbGdVxsS8GLtaSsTZtP.jpg
-date=2019-07-17
-URL=
-type=video
-name=The Wind Rises (2013) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OTcCyf7QbGdVxsS8GLtaSsTZtP.jpg
-date=2019-07-17
-URL=https://openload.co/f/WpeRySTN_cI/THE_WIND_RISES_%282013%29_%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%9D%E0%B8%B1%E0%B8%99_%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81.mp4
 
 
 
@@ -9364,152 +9594,15 @@ URL=https://openload.co/f/WpeRySTN_cI/THE_WIND_RISES_%282013%29_%E0%B8%9B%E0%B8%
 
 
 
-type=video
-name=Wood Job! (2014) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-74
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvo0367R3pWJJrwGDRMMOCZnSwY.jpg
-date=2019-07-17
-URL=
-type=video
-name=Wood Job! (2014) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvo0367R3pWJJrwGDRMMOCZnSwY.jpg
-date=2019-07-17
-URL=https://openload.co/f/RiATXdivjxM/WOOD_JOB%21_%282014%29_%E0%B9%81%E0%B8%94%E0%B8%94%E0%B8%AA%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.mp4
 
 
-type=video
-name=Misconduct (2016) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-55
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2bxPatpVigWtvfR4VdmAdB3vUV.jpg
-date=2018-05-20
-URL=https://openload.co/f/roVapUHp39g/Misconduct.2016.1080p.BluRay.x264-ROVERS.mkv.mp4
-type=video
-name=Misconduct (2016) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2bxPatpVigWtvfR4VdmAdB3vUV.jpg
-date=2019-07-17
-URL=https://openload.co/f/otpbajsRk9M/MISCONDUCT_%282016%29_%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B9%82%E0%B8%84%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD.mp4
+################################19-09-28+++29
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-type=video
-name=Hereditary (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHV8HHlhwNup2VbpiACtlKzaGIQ.jpg
-date=2019-07-06
-URL=
-type=video
-name=Hereditary (2018) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHV8HHlhwNup2VbpiACtlKzaGIQ.jpg
-date=2019-07-06
-URL=https://openload.co/f/nCwavd51wm8/HEREDITARY_%282018%29_%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%99%E0%B8%A3%E0%B8%81.mp4
-
-
-
-
-
-
-
-
-
-
-type=video
-name=6 Below: Miracle on the Mountain (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-56
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eZynKoLiPq9b6DQGLOFHt6mZPv.jpg
-date=2017-11-17
-URL=https://openload.co/f/3ar1ciJE_8g/6.Below.Miracle.on.the.Mountain.2017.1080p.BluRay.x264-PSYCHD.mkv.mp4
-#https://openload.co/f/SytT_2ZR_kc/6.Below.Miracle.on.the.Mountain.2017.1080p.WEB-DL.DD5.1.H264-FGT.mkv.mp4
-#https://openload.co/f/JG-_5_FdurA/6_Below%3A_Miracle_on_the_Mountain_%282017%29.WEB-DL.XviD.AC3-FGT.avi.mp4
-#https://www.blazefile.co/embed-lawol7qg5fnv.html   720
-type=video
-name=6 Below: Miracle on the Mountain (2017) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eZynKoLiPq9b6DQGLOFHt6mZPv.jpg
-date=2019-07-06
-URL=https://openload.co/f/fu1QrSAIacw/6_BELOW%3A_MIRACLE_ON_THE_MOUNTAIN_%282017%29_6_%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5_%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C%E0%B8%9A%E0%B8%99%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%82%E0%B8%B2.mp4
-
-
-type=video
-name=Sleepwalker (2017) [COLOR=FF00FF00]ENG WEB 1080p[/COLOR] | TMDB-46
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyLCyJZr0jLYhuojFZn8kjkkSzH.jpg
-date=2018-03-08
-URL=https://openload.co/f/8MxUCmLZrpc/Sleepwalker.2017.1080p.WEB-DL.DD5.1.H.264-FGT.mkv.mp4
-#https://openload.co/f/JZe9TCIgTEI/Sleepwalker_2017_HDRip_XviD_AC3-EVO.mp4
-type=video
-name=Sleepwalker (2017) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyLCyJZr0jLYhuojFZn8kjkkSzH.jpg
-date=2019-07-06
-URL=https://openload.co/f/NofyP6fe1V8/SLEEPWALKER_%282017%29_%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A1%E0%B8%AD.mp4
-
-
-
-
-
-
-
-
-type=video
-name=Unsane (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-62
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvDBfavZASdKsJunu9VCAtXjLS2.jpg
-date=2019-07-06
-URL=
-type=video
-name=Unsane (2018) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvDBfavZASdKsJunu9VCAtXjLS2.jpg
-date=2019-07-06
-URL=https://openload.co/f/ld6f2_1V5Gg/UNSANE_%282018%29_%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99_%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2.mp4
-
-
-
-
-
-
-
-
-type=video
-name=Euphoria (2018) [COLOR=FF00FF00]ENG HD 720p[/COLOR] | TMDB-67
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Anw3eLdNVRXafpYktwRzAGd6sPW.jpg
-date=2019-06-26
-URL=https://openload.co/f/Ce3rkEeIiV0/euphoria-2017-HD720.mp4
-type=video
-name=Euphoria (2018) TH
-thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/Anw3eLdNVRXafpYktwRzAGd6sPW.jpg
-date=2019-07-06
-URL=https://openload.co/f/7s7CPOUqDrY/EUPHORIA_%282017%29%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%9A%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99.mp4
-#https://openload.co/f/ZfiqrLKf8Kc/EUPHORIA_%282017%29%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-################################
 
 
 
@@ -10008,6 +10101,18 @@ URL=https://openload.co/f/Pp8w_e22QqM/A_Dog%27s_Way_Home_%282019%29_%E0%B9%80%E0
 
 
 type=video
+name=City Hunter (2018) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVKfVxoHE34nUUoehs0shNzpEVe.jpg
+date=2019-07-17
+URL=
+type=video
+name=City Hunter (2018) TH
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVKfVxoHE34nUUoehs0shNzpEVe.jpg
+date=2019-07-17
+URL=https://openload.co/f/6lOi96L9TW4/CITY_HUNTER_%282018%29_%E0%B8%8B%E0%B8%B4%E0%B8%95%E0%B8%B5%E0%B9%89%E0%B8%AE%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%B2%E0%B8%AA%E0%B9%82%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C.mp4
+
+
+type=video
 name=An Ordinary Man (2017) [COLOR=FF00FF00]ENG WEB 720p[/COLOR] | TMDB-59
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyg3lIA2ddFb0zdrHFI4Y9CUFwe.jpg
 date=2019-06-26
@@ -10033,7 +10138,7 @@ URL=https://openload.co/f/77PIishCmT4/AN_ORDINARY_MAN_%282017%29_%E0%B8%9E%E0%B8
 
 
 
-
+#19-09-22+++26
 
 
 
