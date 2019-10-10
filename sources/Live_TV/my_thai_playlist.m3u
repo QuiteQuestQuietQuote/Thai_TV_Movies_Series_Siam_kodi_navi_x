@@ -3119,6 +3119,10 @@ http://mu02.v2iptv.com:8880/YKLM868/bZqYdMBOEZ/33152
 
 #EXTINF:-1,JAV_Film_33154--------------test
 http://mu02.v2iptv.com:8880/11YC12M1051/1jADPHTmPy/33154
+#EXTINF:-1,JAV_Film_33154--------------test2
+http://p1.g6iptv.com:9000/all-local/local/33154
+#EXTINF:-1,JAV_Film_33154--------------test3
+http://195.181.162.108:8880/XqE4XFjcyg/Tp8yauPJZa/33154
 
 
 
@@ -3300,7 +3304,8 @@ http://ok2.se:8000/2wjWqlGwGV/vX6Ph5mf4X/364
 http://ok2.se:8000/MItbhxCY3n/5Ab66MUDVH/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test35
 http://ok2.se:8000/HmLLDfO2lN/ZDcb0hCBmv/364
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test36
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/364
 
 
 
@@ -3438,35 +3443,15 @@ http://188.35.9.15:21111/udp/164j
 
 #EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,PH| DISCOVERY ASIA WORLD--------------
 http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/84876
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,PL| BBC EARTH HD
-http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/9604
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,TR| BBC EARTH
-http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/13456
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,GR| BBC EARTH HD
-http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/58020
 #EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,SE| BBC EARTH HD
 http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/51925
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,SE| BBC EARTH
-http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/51926
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,NO| BBC EARTH HD [MULTI-SUB]
-http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/81713
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,DK| BBC EARTH FHD [MULTI-SUB]
-http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/81926
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| BBC EARTH HD
-http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/84835
 #EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| BBC LIFESTYLE
 http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/84834
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,PL| DA VINCI LEARNING
-http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/9446
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| FOOD NETWORK ASIA
-http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/84732
 #EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| ASIAN FOOD CHANNEL
 http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/84839
 
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| ASIAN FOOD CHANNEL-----test
+#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| ASIAN FOOD CHANNEL----
 http://line.protv.cc:8000/RYYff0ka0s/O6Zggb7YdF/84839
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,PL| DA VINCI LEARNING
-http://line.protv.cc:8000/RYYff0ka0s/O6Zggb7YdF/9446
 #EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,PH| DISCOVERY ASIA WORLD
 http://line.protv.cc:8000/RYYff0ka0s/O6Zggb7YdF/84876
 
@@ -3607,8 +3592,7 @@ http://14.239.56.16:4022/rtp/232.84.2.177:10488
 http://180.183.115.215:8000/play/a03n
 
 
-#EXTINF:-1,USA: CNBC
-http://163.172.51.191:1991/live/nizar/nizar1234/27946.m3u8
+
 
 
 

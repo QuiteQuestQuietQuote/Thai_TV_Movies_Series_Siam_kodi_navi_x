@@ -1238,8 +1238,141 @@ URL=
 type=video
 name=
 thumb=
-date=2019-10-04
+date=2019-10-10
 URL=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=Inside Man: Most Wanted (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-50
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxvxcgRHwV7T3PR4jNFDdQTLPm.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/VCYC2PaY4Jc/Inside.Man.Most.Wanted.2019.1080p.Bluray.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/E8gVHLhnPLE/Inside.Man.Most.Wanted.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/Nd8QAnvQG8F/Inside_Man_Most_Wanted_2019_BluRay_1080p_AAC_x264-MPAD%5BEtHD%5D.mp4
+#https://verystream.com/stream/5iDCf5tFzHa/Inside.Man.Most.Wanted.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/UAxowp1ZtgP/Inside.Man.Most.Wanted.2019.MULTi.BluRay.1080p.DTS-HD.MA5.1.HEVC-DDR%5BEtHD%5D.mkv.mp4
+
+type=video
+name=The Intent 2: The Come Up (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-35
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/vS3yAm1Eck0aJMzr8V1R6oPFHKI.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/4PmYZ8CPDSN/The.Intent.2.The.Come.Up.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+
+type=video
+name=Yesterday (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-67
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rjaRIAqFPQNnMtqSMLtg0VEABi.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/2MR7oKX5pcD/Yesterday.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/72DThqFsxbZ/Yesterday.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/JUt5Xy8qyyR/Yesterday_2019_1080p_BluRay_x264-DRONES%5BEtHD%5D.mp4
+
+type=video
+name=San Andreas Mega Quake (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-42
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXWk1U1TBhXtD0VVkTOG86ZoZ3Q.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/4wPQLWPyHz5/San.Andreas.Mega.Quake.2019.1080p.BluRay.x264-GUACAMOLE.mkv.mp4
+
+type=video
+name=Night Hunter (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAMIXRTHRI7znijZhD6hrR6618J.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/4PEXm1mxZxx/Night.Hunter.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+
+type=video
+name=Extreme Job (2019) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/x74VQTLwFs2MLHSg2LNufhX8lVg.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/V4dz42PLb5e/Extreme.Job.2019.KOREAN.1080p.BluRay.H264.AAC-VXT.mp4
+
+type=video
+name=Take Point (2018) [COLOR=FF00FF00]KOR BR 1080p[/COLOR] | TMDB-66
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9xBvG0BE2yf1L9KknQEnQl6CfF.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/rhjYAJU17C/Take_Point_2018_Korean_1080p_Blu-ray_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=General Commander (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-41
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/tarle8uNAqiQfCTY95U0Oj1DxIU.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/7TCQ12PpNmk/General_Commander_2019_MULTi_Bluray_1080p_TrueHD_5_1HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/YkSiX7JWpNT/General.Commander.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Into the Ashes (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-45
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSTsGP8EUVk26L1khj6uOv2n3f9.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/Jcuhm33CkJe/Into.the.Ashes.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/BzPeZN74Ka6/into_the_ashes_2019_1080p_bluray_x264-rovers%5BEtHD%5D.mp4
+#https://verystream.com/stream/BeEZsrx5Abv/Into_the_Ashes_2019_BluRay_1080p_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=Amazing Grace (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76 doc
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eABsBr5TnW8FBSSSsAKFnwDW1BW.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/7dGaRnuqJvy/Amazing.Grace.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/F1gtxkDzKiy/Amazing.Grace.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/GbYodEzLZh3/amazing_grace_2018_limited_1080p_bluray_x264-cadaver%5BEtHD%5D.mp4
+
+type=video
+name=The Wind (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-50
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcfPHZHSQODLCWdkUVLYATNyEVo.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/62eh7LV1oyu/The.Wind.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/gyyqZ7D5HEH/The.Wind.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/7GXXqXth2pc/the_wind_2018_limited_1080p_bluray_x264-cadaver%5BEtHD%5D.mp4
+#https://verystream.com/stream/NBApjYZxXfi/The_Wind_2018_Bluray_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=Head Full of Honey (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tYVrPAplzu642OgNCkhHUy0gcC.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/VcFDYp5DLLn/Head_Full_of_Honey_2018_Blu-ray_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=A Horse from Heaven (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-60
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1czsAXl9sGD5eS7LlaA6qC7mihZ.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/cCmp26Jf45p/A.Horse.from.Heaven.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Narcissists (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-na
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/93xywfgHDOIJE47LcXxyQEEtzSQ.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/3LjwtPsAuNP/The.Narcissists.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/W7DQz8CfLeA/The.Narcissists.2017.1080p.BluRay.x264-YTS.LT.mp4
+
+type=video
+name=The Axiom (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvjNGoFJcUQD5qStnjIpn424GxD.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/fSKBDDLEFse/The_Axiom_2018_Blu-ray_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/hTu9ooEe6fH/The.Axiom.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Last Black Man in San Francisco (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-74
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ow9zjibNrz5TYVZ6cqwmvCR1YX1.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/DFtV5MPyhHe/the_last_black_man_in_san_francisco_2019_limited_1080p_bluray_x264-cadaver%5BEtHD%5D.mp4
+#https://verystream.com/stream/F57Y6ffj9WZ/The_Last_Black_Man_in_San_Francisco_2019_Blu-ray_1080p_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://verystream.com/stream/7bGcMy3YvzH/The.Last.Black.Man.in.San.Francisco.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+
+
+
+
+
 
 
 
@@ -2089,7 +2222,8 @@ type=video
 name=Cold Blood (2019) [COLOR=FF00FF00]FRE BR 1080p[/COLOR] | TMDB-55
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGMIxhhMvQEE0mNlATXpEAG4mgl.jpg
 date=2019-09-05
-URL=https://verystream.com/stream/7FcBBdrPcxc/Cold_Blood_Legacy_2019_1080p_BRRip_AC3-EVO%5BEtHD%5D.mp4
+URL=https://verystream.com/stream/A9mMVoDf2hA/Cold_Blood_2019_1080p_BluRay_x264-SADPANDA%5BEtHD%5D.mp4
+#https://verystream.com/stream/7FcBBdrPcxc/Cold_Blood_Legacy_2019_1080p_BRRip_AC3-EVO%5BEtHD%5D.mp4
 #https://verystream.com/stream/A68WCvYf8qa/Cold.Blood.Legacy.2019.1080p.BluRay.DD5.1.x264-GalaxyRG.mkv.mp4
 #https://verystream.com/stream/XvBytzqUdcY/Cold.Blood.Legacy.2019.1080p.BRRip.X264.AC3-EVO.mkv.mp4
 #https://verystream.com/stream/8P7JoGGH3Th/Cold.Blood.2019.1080p.BluRay.H264.AAC-RARBG.mp4
@@ -2633,7 +2767,8 @@ type=video
 name=The Tale (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-73
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/aguq47xq3qhN807rSyz4lJyhAkX.jpg
 date=2019-07-19
-URL=https://openload.co/f/YkLke_jdM50/The_Tale_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
+URL=https://verystream.com/stream/7xTjFvvPhNi/The_Tale_2018_1080p_BluRay_DTS-HD_MA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+#https://openload.co/f/YkLke_jdM50/The_Tale_2018_1080p_Bluray_H264_%E2%80%93_RARBG.mp4
 #https://openload.co/f/V0UGOlOwXus/The_Tale_%282018%291080p_BluRay_x264-VETO-Ganool.mkv.mp4
 
 type=video
@@ -5064,7 +5199,8 @@ type=video
 name=Mid90s (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-77
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvB5TsUScfgwfjZYusjcuZ9L6oS.jpg
 date=2018-12-29
-URL=https://uptobox.com/vlwv6w09gemx
+URL=https://verystream.com/stream/19KrBdtcza5/Mid90s.2018.PROPER.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://uptobox.com/vlwv6w09gemx
 #https://fruithosts.net/embed/eekoolbaobpkprcs/GHPMID90S80_Ganol_si_mkv
 #https://oload.fun/embed/8J4L_H4RKFY/GHPMID90S80.Ganol.si.mkv
 #https://openload.co/f/cGr135iydaM/Mid90s_%282018%29REPACK_1080p_BluRay_x264-BLOW.Ganool.mkv.mp4
@@ -10328,13 +10464,34 @@ URL=
 type=video
 name=
 thumb=
-date=2019-10-04
+date=2019-10-10
 URL=
 
 
 
 
 
+
+
+
+
+type=video
+name=68 Kill (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-56
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/80ifMmWcNMQ8uD4DTyMFEuJbEJG.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/WhN4W86ivFT/68_Kill_2017_1080p_Bluray_DTS-HDMA_5_1_HEVC-DDR%5BEtHD%5D.mp4
+
+type=video
+name=The Lincoln Lawyer (2011) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOn8Ve9Yi8fxjRkmLr5BZoOc7KV.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/BZ11aEczzVQ/The.Lincoln.Lawyer.2011.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Ant-Man and the Wasp (2018) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR] | TMDB-70
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg
+date=2019-10-10
+URL=https://verystream.com/stream/L9EGrABSWNd/Ant-Man.And.The.Wasp.2018.3D.HSBS.BluRay.x264-YTS.AM.mp4
 
 type=video
 name=Iron Man (2008) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-76
