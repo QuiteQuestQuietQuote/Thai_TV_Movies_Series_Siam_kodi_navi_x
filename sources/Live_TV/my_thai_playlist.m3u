@@ -2943,6 +2943,8 @@ rtmp://62.210.55.60/stream3xVJ/3x20
 rtmp://62.210.55.60/stream3xVJ/3x32
 #EXTINF:-1,redtraffic_milf-----------------------------
 http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1,redtraffic_fetish
+http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1,redtraffic_bigtits
 http://live.redtraffic.xyz/bigtits.m3u8
 #EXTINF:-1,redtraffic_threesome
@@ -3211,7 +3213,7 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Jasmin-TV.png",Jasmin Tv 
 http://j.mp/S_JasminTVHD_sly?.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Miami-TV.jpg",miamitv
-http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w199100510_b2592000.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Miami-TV.jpg",miamitv_fluxus
 http://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_b1896000.m3u8?fluxuslust.m3u8
 #EXTINF:-1,Models Inc.
@@ -3316,14 +3318,34 @@ http://176.67.211.7:8003/udp/239.1.1.141:22141
 http://176.67.223.7:8000/udp/239.1.1.141:22141
 
 
+#EXTINF:-1,DaVinci Learning------
+http://86.124.117.48:8000/play/a00c
 
 
+#EXTINF:-1,Da Vinci Learning--------------
+http://212.19.14.168:999/udp/239.191.254.72:13343
+#EXTINF:-1,Da Vinci Learning
+http://212.19.19.110:999/udp/239.191.254.72:13343
+#EXTINF:-1,Da Vinci Learning
+http://79.133.109.2:999/udp/239.191.254.72:13343
+#EXTINF:-1,Da Vinci Learning
+http://193.233.190.203:999/udp/239.191.254.72:13343
+#EXTINF:-1,Da Vinci Learning
+http://212.19.19.167:999/udp/239.191.254.72:13343
+#EXTINF:-1,Da Vinci Learning
+http://79.133.124.174:999/udp/239.191.254.72:13343
+#EXTINF:-1,Da Vinci Learning
+http://79.133.124.14:999/udp/239.191.254.72:13343
 
-#EXTINF:-1, DaVinci Learning------
-http://213.174.8.7:11111/index.m3u8
-#EXTINF:-1,RO: Da Vinci Learning-------
-http://93.158.237.11:8000/10OFSWIF6D/j07KoxaLg3Dl/204784
 
+#EXTINF:-1,Discovery Science
+http://188.35.9.10:21151/udp/188k
+#EXTINF:-1,Nat Geo People HD
+http://188.35.9.10:21151/udp/186o
+#EXTINF:-1,Viasat History HD
+http://188.35.9.10:21121/udp/137s
+#EXTINF:-1,BBC Lifetsyle
+http://188.35.9.10:21111/udp/164j
 
 
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se1
@@ -3339,6 +3361,18 @@ http://ok2.se:8000/nbGNBz1JzT/CmVEkvYQxg/77332
 http://ok2.se:8000/0GJClQykS8/NOkaKmgmbm/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se6
 http://ok2.se:8000/3hpxcIHmTj/TnxIg4rZzx/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se7
+http://ok2.se:8000/ONnuU8SIqN/VvvyBIGfBo/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se8
+http://ok2.se:8000/zs52ITDob6/ysR1xvBwSf/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se9
+http://ok2.se:8000/z9xMbiqfTp/vd8t80Qncu/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se10
+http://ok2.se:8000/XfxKvsXejw/HCywvILKZk/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se11
+http://ok2.se:8000/WRYwlvjdi5/CjO2f3HEvd/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se12
+http://ok2.se:8000/u14R0lZkXr/6iQjwRtQEZ/77332
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT--------------
@@ -3359,6 +3393,10 @@ http://14.239.56.16:4022/rtp/232.84.2.53:10528
 
 
 
+#EXTINF:-1,Taiwan Stories-----
+http://61.58.60.230:9319/live/204.m3u8
+#EXTINF:-1,DaAi2
+http://61.58.60.230:9319/live/191.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_th----------------
 http://122.155.180.8:5021/live/440
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_tw_ts
@@ -3475,9 +3513,7 @@ http://line.protv.cc:8000/Masoud/12345678/84876
 
 #EXTINF:-1 tvg-logo="https://tastytradepublicmedia.s3.amazonaws.com/assets/logos/tt-logo-original-05e5dd25021223dff0203915ecdc9375.png" group-title="USA",TastyTrade----------
 https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TWiT.svg/130px-TWiT.svg.png" group-title="USA",TWiT
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,ET Live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="USA",ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="USA",ET Live (Opt-1) (New!)
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8
@@ -3495,15 +3531,26 @@ http://210.210.155.35/uq2663/h/h10/01.m3u8
 http://tvport.it-tele.net:8000/f6c3f3b4a6fc08c50fa7881628aaad42
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV
 http://62.210.215.83:8000/play/a00m/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://212.19.14.168:999--------
+http://212.19.14.168:999/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://212.19.19.110:999
+http://212.19.19.110:999/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://79.133.109.2:999
+http://79.133.109.2:999/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://193.233.190.203:999
+http://193.233.190.203:999/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://212.19.19.167:999
+http://212.19.19.167:999/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://79.133.124.174:999
+http://79.133.124.174:999/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://79.133.124.14:999
+http://79.133.124.14:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",(18+) Nuart TV
 http://46.32.68.167/s/live/711/100.0.0.5/1/0.m3u8
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://193.233.170.51:999
-http://193.233.170.51:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",(18+) Nuart TV
 http://46.32.68.167/s/live/711/86.169.51.136/0/0.m3u8
 #EXTINF:-1,Nuart TV
 http://178.124.183.14:80/hls/CH_NYARTTV/variant.m3u8
-
 
 
 
