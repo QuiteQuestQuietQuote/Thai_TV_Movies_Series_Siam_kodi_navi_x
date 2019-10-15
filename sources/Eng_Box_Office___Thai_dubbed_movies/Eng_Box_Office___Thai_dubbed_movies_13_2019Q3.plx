@@ -89,6 +89,15 @@ URL=
 
 
 
+
+type=video
+name=The Ballad of Buster Scruggs (2018) ENG 720p.NF.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D_SeeHD
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/voxl654m7p36y8FLu8oQD7dfwwK.jpg
+date=2019-01-14
+URL=https://openload.co/f/LOIPsgvNKd8/The.Ballad.of.Buster.Scruggs.2018.720p.NF.WEB-DL.DD5.1.H264-CMRG%5BEtHD%5D_SeeHD.mkv.mp4
+
+
+
 type=video
 name=
 thumb=
