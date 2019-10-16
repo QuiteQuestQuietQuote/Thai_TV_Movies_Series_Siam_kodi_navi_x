@@ -29,7 +29,7 @@ http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.st
 
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24
 http://27.254.130.64/live01/chsd_TNN_5.m3u8?p=st
-#EXTINF:-1 group-title="news" tvg-logo="http://www.onlinethailand.net/tv_online/images/news1.jpg",news1
+#EXTINF:-1 group-title="news" tvg-logo="https://news1live.com/images/social-share-logo.png",news1
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",NEW TV
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
@@ -43,7 +43,7 @@ http://27.254.130.64/live01/wl13.m3u8?p==
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://3.bp.blogspot.com/-B5v7X3YA0iM/WdLYqp9VLyI/AAAAAAAAAF4/supjFV2u7IkebpGlnSsG6_23pBXillgrgCLcBGAs/s200/001.png",CH 3_HD_byteark
 http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1,Smart SME_byteark
+#EXTINF:0 tvg-logo="https://www.smartsme.co.th/images/logo/logo_SmartSME.png" group-title="Thailand" ,Smart SME TV
 https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="http://mvtv.co.th/ios/icons/GIF/fivehd_final_140-140.gif",MVTV 5------------------------------
 https://edge1a.v2h-cdn.com/appt3/five.stream_720p/playlist.m3u8
@@ -3119,10 +3119,7 @@ http://mu02.v2iptv.com:8880/YKLM868/bZqYdMBOEZ/33154
 http://mu02.v2iptv.com:8880/YKLM868/bZqYdMBOEZ/33152
 
 
-#EXTINF:-1,JAV_Film_33154--------------test
-http://mu02.v2iptv.com:8880/11YC12M1051/1jADPHTmPy/33154
-#EXTINF:-1,JAV_Film_33154--------------test_g6iptv
-http://p1.g6iptv.com:9000/all-local/local&type=m3u/33154
+
 
 
 #EXTINF:-1,phone vision
@@ -3317,7 +3314,8 @@ http://176.67.223.7:8000/udp/239.1.1.141:22141
 #EXTINF:-1,DaVinci Learning------
 http://86.124.117.48:8000/play/a00c
 
-
+#EXTINF:-1,Da Vinci Learning-----RU
+http://178.65.92.4:81/play/a047
 
 
 
@@ -3366,10 +3364,12 @@ http://ok2.se:8000/HmLLDfO2lN/ZDcb0hCBmv/77332
 http://ok2.se:8000/ftxQVelijD/9Wt4loCVH3&/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se18
 http://ok2.se:8000/xpqwo2LEXr/bFDjkFw7Rr/77332
-
-
-
-
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se19
+http://ok2.se:8000/h64iZBYdnd/qb7HGAVRFZ/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se20
+http://ok2.se:8000/D223Ljv0uB/c75TkrDon3/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se21
+http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/77332
 
 
 
@@ -3429,8 +3429,8 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x4
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="UK",Food Network
 http://95.86.32.7:999/food
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="UK",Food Network_ott-cdn
-http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="USA GEO",Food Network (Geo)
+http://195.181.169.148/FOODNETHD_USA_Eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FOODIE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1,alice
@@ -3495,20 +3495,9 @@ http://188.35.9.15:21111/udp/164j
 
 #EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,PH| DISCOVERY ASIA WORLD--------------
 http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/84876
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,SE| BBC EARTH HD
-http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/51925
 #EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| BBC LIFESTYLE
 http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/84834
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| ASIAN FOOD CHANNEL
-http://line.protv.cc:8000/8HOQR9JWSj/xFuL4uLpru/84839
 
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,MYS| ASIAN FOOD CHANNEL
-http://line.protv.cc:8000/RYYff0ka0s/O6Zggb7YdF/84839
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,PH| DISCOVERY ASIA WORLD
-http://line.protv.cc:8000/RYYff0ka0s/O6Zggb7YdF/84876
-
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-2" ,PH| DISCOVERY ASIA WORLD-----
-http://line.protv.cc:8000/Masoud/12345678/84876
 
 
 #EXTINF:-1 tvg-logo="https://tastytradepublicmedia.s3.amazonaws.com/assets/logos/tt-logo-original-05e5dd25021223dff0203915ecdc9375.png" group-title="USA",TastyTrade----------
@@ -3535,16 +3524,18 @@ http://62.210.215.83:8000/play/a00m/index.m3u8
 http://212.19.14.168:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://212.19.19.110:999
 http://212.19.19.110:999/udp/239.191.254.250:15285
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://79.133.109.2:999
-http://79.133.109.2:999/udp/239.191.254.250:15285
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://193.233.190.203:999
-http://193.233.190.203:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://212.19.19.167:999
 http://212.19.19.167:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://79.133.124.174:999
 http://79.133.124.174:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://79.133.124.14:999
 http://79.133.124.14:999/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://79.133.123.176:999---
+http://79.133.123.176:999/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://193.233.176.193:999---
+http://193.233.176.193:999/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://193.233.176.54:999---
+http://193.233.176.54:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",(18+) Nuart TV
 http://46.32.68.167/s/live/711/100.0.0.5/1/0.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",(18+) Nuart TV
@@ -3592,9 +3583,9 @@ https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/02/CGTN_Documentary_logo-1.png",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="http://america.cgtn.com/wp-content/uploads/2016/12/af61fb95-f5cb-418b-b24a-61c6b1991dd4-640x640.jpg",CGTN
+#EXTINF:-1 group-title="news" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/CNA-logo.gif",Channel News Asia
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png",NHK WORLD HD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
@@ -3602,7 +3593,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 http://164.40.161.46:8002/play/s5 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews (English) 
 http://164.40.161.46:8002/play/s4
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="NEWS",BBC World News (Opt-2) (GB) 
+#EXTINF:-1 tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png" group-title="NEWS",BBC World News (Opt-2) (GB) 
 https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png",BBC NEWS_HD
 http://92.43.140.249/s24/04.m3u8
@@ -3637,6 +3628,8 @@ http://118.238.215.207:3000/FOR-FLUXSTV/IPTV-MODERATOR/22
 http://92.43.140.249/s65/04.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/53EgUZN.png",CNBC_HD
 https://1161275585.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="USA",CNBC (New!)
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/FluxusTV.m3u8
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2.se
