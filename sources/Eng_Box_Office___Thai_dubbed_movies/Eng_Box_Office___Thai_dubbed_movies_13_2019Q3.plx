@@ -1247,8 +1247,115 @@ URL=
 type=video
 name=
 thumb=
-date=2019-10-19
+date=2019-10-23
 URL=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type=video
+name=
+thumb=
+date=2019-10-23
+URL=
+
+type=video
+name=
+thumb=
+date=2019-10-23
+URL=
+
+type=video
+name=Candy Corn (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-38
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTBTFKHAPKPBynoHgMnEBsIWw22.jpg
+date=2019-10-23
+URL=https://verystream.com/stream/f9MGc2uLakZ/Candy_Corn_2019.Blu-ray.1080p.Dolby-EX.5.1.HEVC-DDR%5BEtHD%5D.mkv.mp4
+#https://verystream.com/stream/ZdF9Y3WCs69/Candy.Corn.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Itsy Bitsy (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-48
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PS6uPVN2lFwVeNrEnC3j7sv8ed.jpg
+date=2019-10-23
+URL=https://verystream.com/stream/Uy7CHpFn6xo/Itsy.Bitsy.2019.1080p.BluRay.x264-SADPANDA%5BEtHD%5D.mkv.mp4.mp4
+#https://verystream.com/stream/fRagTR1CMq8/Itsy.Bitsy.2019.1080p.BluRay.DTS-HD.MA5.1.HEVC-DDR%5BEtHD%5D.mkv.mp4
+#https://verystream.com/stream/BAbCRyQYFTe/Itsy.Bitsy.2019.1080p.BluRay.x264-%5BYTS.LT%5D.mp4
+#https://verystream.com/stream/Rid6BBFxJSx/Itsy.Bitsy.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/7XyEnyKDc7c/Itsy.Bitsy.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+
+type=video
+name=She's Just a Shadow (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZ6BKZVrxDwwaZ7jcQJlQI4QjHP.jpg
+date=2019-10-23
+URL=https://verystream.com/stream/tM2aJGW4JS/Shes.Just.a.Shadow.2019.1080p.BluRay.x264-GUACAMOLE%5BEtHD%5D.mkv.mp4
+#https://verystream.com/stream/4ed6bKBXdXa/Shes_Just_A_Shadow_2019.1080p.BluRay.DTS-HD.MA5.1.HEVC-DDR%5BEtHD%5D.mkv.mp4
+#https://verystream.com/stream/7AmEHwngEE8/Shes.Just.a.Shadow.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/TyebuPuCD1A/Shes.Just.a.Shadow.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=The Mix (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-na
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAXKM8R9TcKxdkPistkSM0BYDKt.jpg
+date=2019-10-23
+URL=https://verystream.com/stream/7aF939wvH2r/mix_2017_1080p_bluray_x264-regret%5BEtHD%5D.mp4
+
+type=video
+name=Women of Mafia 2 (2019) [COLOR=FF00FF00]POL BR 1080p[/COLOR] | TMDB-56
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2B9lvAXd5vTcnr76YG7d7DxrhbW.jpg
+date=2019-10-23
+URL=https://verystream.com/stream/d44YGYpaAYo/women_of_mafia_2_2019_1080p_bluray_x264-sprinter%5BEtHD%5D.mp4
+
+type=video
+name=Midsommar (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXsh4MI6uyVgZBSSzXCfitJnVPy.jpg
+date=2019-10-23
+URL=https://verystream.com/stream/55huPNmfahi/Midsommar.2019.1080p.BrRip.x265.HEVCBay.com.mkv.mp4
+#https://verystream.com/stream/MjKnXWneaEf/midsommar_2019_1080p_bluray_x264-geckos%5BEtHD%5D.mp4
+#https://verystream.com/stream/55huPNmfahi/Midsommar.2019.1080p.BrRip.x265.HEVCBay.com.mkv.mp4
+#https://verystream.com/stream/R8i3761miSs/Midsommar.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Angel of Mine (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8IxjDRqJ7jFtt5Fn0jcXjiRVoF.jpg
+date=2019-10-23
+URL=https://verystream.com/stream/SnL8dXU97Y4/Angel.of.Mine.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+#https://verystream.com/stream/a7LigK8qVy4/Angel.of.Mine.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/f92MCrDkF5T/Angel.Of.Mine.2019.MULTi.1080p.Blu-ray.TrueHD.5.1.HEVC-DDR%5BEtHD%5D.mkv.mp4
+
+type=video
+name=Pavarotti (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-78 doc
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/bf0Iim4D6XXrAAJGwHXyrWFqUz8.jpg
+date=2019-10-23
+URL=https://verystream.com/stream/giKb5zB7kcL/pavarotti_2019_1080p_bluray_x264-cinefile%5BEtHD%5D.mp4
+#https://verystream.com/stream/itBqrgQw6M2/Pavarotti.2019.Blu-ray.1080p.TrueHD.7.1.HEVC-DDR%5BEtHD%5D.mkv.mp4
 
 
 
@@ -2259,6 +2366,7 @@ URL=https://verystream.com/stream/XbnsAj4am69/Unplanned_2019_1080p_Bluray_DTS-HD
 #https://verystream.com/stream/hGr1bnd9ufT/Unplanned_2019_1080p_BluRay_X264-AMIABLE%5BEtHD%5D.mp4
 #https://verystream.com/stream/8VziDHkwFJH/Unplanned.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 #https://verystream.com/stream/V4A16RLWprX/Unplanned.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+#https://verystream.com/stream/FM8ERYbKtiF/Unplanned.2019.1080p.BluRay.DTS-HD.MA5.1.HEVC-DDR%5BEtHD%5D.mkv.mp4
 
 type=video
 name=Body at Brighton Rock (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
@@ -5277,7 +5385,8 @@ type=video
 name=The Super (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/pErBZQBdOzhXM6eHZQWvLSNnaIu.jpg
 date=2019-01-04
-URL=https://uptobox.com/a1uydfg276s2
+URL=https://verystream.com/stream/8wccf43u2dZ/the_super_2017_1080p_bluray_x264-getit%5BEtHD%5D.mp4
+#https://uptobox.com/a1uydfg276s2
 #https://fruithosts.net/embed/kasneppnmfqqsrdp/THESUPE80_Ganol_si_mkv_mp4
 #https://oload.fun/embed/XUCKiWT-4k0/THESUPE80.Ganol.si.mkv.mp4
 #https://openload.co/f/9lMV7IwH9Cs/The_Super_%282018%291080p_BluRay_x264_DTS-CHD.Ganool.mkv.mp4
