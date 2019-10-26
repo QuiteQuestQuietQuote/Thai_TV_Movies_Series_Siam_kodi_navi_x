@@ -3277,7 +3277,7 @@ http://ok2.se:8000/8KSFO4PVA9/qkL9Pkspga/6615
 
 
 
-#EXTINF:-1,Taiwan_xxx1_NYX
+#EXTINF:-1,Taiwan_xxx1_NYX-----
 http://fxzb.bbwqg.cn/proxy/box.php?id=1
 #EXTINF:-1,Taiwan_xxx2_Ibiza
 http://fxzb.bbwqg.cn/proxy/box.php?id=2
@@ -3297,26 +3297,26 @@ http://fxzb.bbwqg.cn/proxy/box.php?id=8
 http://fxzb.bbwqg.cn/proxy/box.php?id=9
 #EXTINF:-1,Taiwan_xxx10
 http://fxzb.bbwqg.cn/proxy/box.php?id=10
-#EXTINF:-1,Taiwan_xxx11
-http://fxzb.bbwqg.cn/proxy/box.php?id=11
-#EXTINF:-1,Taiwan_xxx12
-http://fxzb.bbwqg.cn/proxy/box.php?id=12
-#EXTINF:-1,Taiwan_xxx13
-http://fxzb.bbwqg.cn/proxy/box.php?id=13
-#EXTINF:-1,Taiwan_xxx14
-http://fxzb.bbwqg.cn/proxy/box.php?id=14
-#EXTINF:-1,Taiwan_xxx15
-http://fxzb.bbwqg.cn/proxy/box.php?id=15
-#EXTINF:-1,Taiwan_xxx16
-http://fxzb.bbwqg.cn/proxy/box.php?id=16
-#EXTINF:-1,Taiwan_xxx17
-http://fxzb.bbwqg.cn/proxy/box.php?id=17
-#EXTINF:-1,Taiwan_xxx18
-http://fxzb.bbwqg.cn/proxy/box.php?id=18
-#EXTINF:-1,Taiwan_xxx19
-http://fxzb.bbwqg.cn/proxy/box.php?id=19
-#EXTINF:-1,Taiwan_xxx20
-http://fxzb.bbwqg.cn/proxy/box.php?id=20
+#EXTINF:-1,Taiwan_xxx21---
+http://fxzb.bbwqg.cn/proxy/box.php?id=21
+#EXTINF:-1,Taiwan_xxx22
+http://fxzb.bbwqg.cn/proxy/box.php?id=22
+#EXTINF:-1,Taiwan_xxx23
+http://fxzb.bbwqg.cn/proxy/box.php?id=23
+#EXTINF:-1,Taiwan_xxx24
+http://fxzb.bbwqg.cn/proxy/box.php?id=24
+#EXTINF:-1,Taiwan_xxx25
+http://fxzb.bbwqg.cn/proxy/box.php?id=25
+#EXTINF:-1,Taiwan_xxx26
+http://fxzb.bbwqg.cn/proxy/box.php?id=26
+#EXTINF:-1,Taiwan_xxx27
+http://fxzb.bbwqg.cn/proxy/box.php?id=27
+#EXTINF:-1,Taiwan_xxx28
+http://fxzb.bbwqg.cn/proxy/box.php?id=28
+#EXTINF:-1,Taiwan_xxx29
+http://fxzb.bbwqg.cn/proxy/box.php?id=29
+#EXTINF:-1,Taiwan_xxx30
+http://fxzb.bbwqg.cn/proxy/box.php?id=30
 
 
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_streamlock.net--------------------------
@@ -3357,7 +3357,7 @@ http://204.45.182.172:26789/i/ghjnvq5o/1bf4a301/index.m3u8
 #EXTINF:-1,X_rtmp
 rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 
-#EXTINF:-1,X1_test
+#EXTINF:-1,X1_test---
 http://204.45.182.172:26789/i/ghjnvq5o/8C856214/index.m3u8
 #EXTINF:-1,X2
 http://204.45.182.172:26789/i/ghjnvq5o/8C855D22/index.m3u8
@@ -3734,34 +3734,7 @@ https://wowzaprodhd17-lh.akamaihd.net/i/46021e1e_1@576535/master.m3u8
 
 
 
-#EXTINF:-1,AFC HD----------------test
-http://tvku.live:8888/live/5647508004/3463852340/807.ts
-#EXTINF:-1,Discovery Asia
-http://tvku.live:8888/live/5647508004/3463852340/779.ts
-#EXTINF:-1,National Geographic People
-http://tvku.live:8888/live/5647508004/3463852340/455.ts
-#EXTINF:-1,Food Network TH
-http://tvku.live:8888/live/5647508004/3463852340/625.ts
-#EXTINF:-1,SBS Food HD
-http://tvku.live:8888/live/5647508004/3463852340/1848.ts
-#EXTINF:-1,BBC Earth
-http://tvku.live:8888/live/5647508004/3463852340/385.ts
-#EXTINF:-1,VN: ASIAN FOOD CHANNEL HD
-http://tvku.live:8888/live/5647508004/3463852340/3027.ts
-#EXTINF:-1,VN: DA VINCI LEARNING HD
-http://tvku.live:8888/live/5647508004/3463852340/3030.ts
-#EXTINF:-1,VN: BBC EARTH HD
-http://tvku.live:8888/live/5647508004/3463852340/3031.ts
-#EXTINF:-1,VN: BBC LIFESTYLE
-http://tvku.live:8888/live/5647508004/3463852340/3033.ts
-#EXTINF:-1,VN: DISCOVERY ASIA HD
-http://tvku.live:8888/live/5647508004/3463852340/3036.ts
-#EXTINF:-1,MY: Nat Geo People
-http://tvku.live:8888/live/5647508004/3463852340/2357.ts
-#EXTINF:-1,MY: BBC Earth
-http://tvku.live:8888/live/5647508004/3463852340/2379.ts
-#EXTINF:-1,MY: BBC Lifestyle
-http://tvku.live:8888/live/5647508004/3463852340/2380.ts
+
 
 
 

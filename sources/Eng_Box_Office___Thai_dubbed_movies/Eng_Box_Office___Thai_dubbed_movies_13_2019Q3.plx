@@ -1247,29 +1247,8 @@ URL=
 type=video
 name=
 thumb=
-date=2019-10-23
+date=2019-10-26
 URL=
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1284,16 +1263,214 @@ URL=
 
 
 type=video
-name=
-thumb=
-date=2019-10-23
-URL=
+name=The Lion King (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-71
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bXbqYdUdNVa8VIWXVfclP2ICtT.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/RKiGmMMhu8o/The.Lion.King.2019.1080p.BrRip.x265.HEVCBay.com.mkv.mp4
+https://verystream.com/stream/X8c288MwLHo/Lion.King.2019.1080p.Bluray.DTS-HD.MA.7.1.X264-EVO%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/A7D1hq55qFd/Lion.King.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+https://verystream.com/stream/Sp5iwp34R2/The.Lion.King.2019.1080p.BluRay.x264-SPARKS.mkv.mp4
+https://verystream.com/stream/xv2aNEbSuC/The.Lion.King.2019.BluRay.1080p.AAC.x264-MPAD%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/CvPb9gu9guZ/The.Lion.King.2019.RERiP.1080p.BluRay.x264-SPARKS%5BEtHD%5D.mkv.mp4.mp4
+https://verystream.com/stream/CdxQ36Nu9e7/The.Lion.King.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+https://verystream.com/stream/Db2My5LxTQY/The_Lion_King_2019_1080p_BluRay_DTS_x264-SIMBA%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/YBabSPBZz7f/The_Lion_King_2019.MULTi.1080p.Blu-ray.DTS-HDMA.7.1.HEVC-DDR%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/RKiGmMMhu8o/The.Lion.King.2019.1080p.BrRip.x265.HEVCBay.com.mkv.mp4
 
 type=video
-name=
-thumb=
-date=2019-10-23
-URL=
+name=Gnaw (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-58
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJcxMIajh7ZgSHEvdQ0qySEwSoa.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/ckYMyxCFvXC/Gnaw.2017.PROPER.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Friends Don't Let Friends (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-33
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8Wx1CHdfzs6ND6vD51RxmfuG9.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/PE7MSg67dhh/Friends.Dont.Let.Friends.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Windstorm 4 (2019) [COLOR=FF00FF00]GER BR 1080p[/COLOR] | TMDB-77
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifwxBZa62msWvW732esIiuVNt33.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/vR5LUoHuyo/Windstorm.4.2019.1080p.BluRay.x264-JustWatch%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/YPXFhTZFXJv/Windstorm.4.2019.1080p.BluRay.x264-JustWatch.mkv.mp4
+
+type=video
+name=Gundermann (2018) [COLOR=FF00FF00]GER BR 1080p[/COLOR] | TMDB-83
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSzDtOeCVqPIZM80fgvlgwyNFR7.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/87pbeQ3N9rx/Gundermann.2018.1080p.BluRay.x264-JustWatch%5BEtHD%5D.mkv.mp4
+
+type=video
+name=The Hexecutioners (2015) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-52
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ch9KqxbQDyiUA0dqmy6ZXcbtKA.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/TGsUmPugQjx/the.hexecutioners.2015.1080p.bluray.x264-getit%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/cymKAouMPFA/the.hexecutioners.2015.1080p.bluray.x264-getit.mkv.mp4
+
+type=video
+name=Deadwood: The Movie (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCQ13cqd02dop7Chkov0fPl4r3t.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/yu1egeXSPx/Deadwood_The_Movie_2019_1080p_BluRay_X264-PFa%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/h6WKnhzGcn4/Deadwood.The.Movie.2019.1080p.BluRay.x264.DTS-FGT%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/SZAUdZM6u3E/Deadwood.The.Movie.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+https://verystream.com/stream/ib2QF7jKo1e/Deadwood.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+https://verystream.com/stream/X3oWszJGWLV/Deadwood.The.Movie.2019.MULTi.Blu-ray.1080p.DTS-HDMA.5.1.HEVC-DDR%5BEtHD%5D.mkv.mp4
+
+type=video
+name=Jarhead: Law of Return (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-30
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/TNDnFmpbQDc/jarhead.law.of.return.2019.1080p.bluray.x264-rovers%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/GYYwrtLeQhQ/Jarhead.Law.of.Return.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+https://verystream.com/stream/ZuJGmWcTc2N/Jarhead.Law.of.Return.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+https://verystream.com/stream/4qp2XvYUaGN/Jarhead.Law.of.Return.2019.BluRay.1080p.DTS-HD.MA.5.1.HEVC-DDR%5BEtHD%5D.mkv.mp4
+
+type=video
+name=The Art of Self-Defense (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-69
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yzkRUONrJV4jNj6FSEZBNRCzvC.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/TPxgneAE3Em/the.art.of.self.defense.2019.1080p.bluray.x264-drones%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/iL12Y3EvTFg/The.Art.of.Self.Defense.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Like Me (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwIohtH5SMaN9auXpYRcZ6jVzKx.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/UymrwA3sNHD/like.me.2017.1080p.bluray.x264-bipolar%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/E87TdPSaHnT/Like.Me.2017.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=May It Last: A Portrait of the Avett Brothers (2017) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-79   doc
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZPjeGsGyIXgkQ9Pll9JyDQv8VZ.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/15PZRiugdtm/may.it.last.a.portrait.of.the.avett.brothers.2017.1080p.bluray.x264-dev0%5BEtHD%5D.mkv.mp4
+
+type=video
+name=Teen Titans Go! vs. Teen Titans (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mGk5c7QZEJEeMxLlBS8MtMSn9l.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/FK5w5xpKvpV/Teen.Titans.Go.Vs.Teen.Titans.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+https://verystream.com/stream/MHrFBrGFubP/Teen.Titans.Go.Vs.Teen.Titans.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+https://verystream.com/stream/FK5w5xpKvpV/Teen.Titans.Go.Vs.Teen.Titans.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+https://verystream.com/stream/XXgXWDpwttw/Teen.Titans.Go.Vs.Teen.Titans.2019.MULTi.BluRay.1080p.DTS-HD.MA.5.1.HEVC-DDR%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/JS5oaM8sfJB/teen.titans.go.vs.teen.titans.2019.1080p.bluray.x264-rovers%5BEtHD%5D.mkv.mp4
+
+type=video
+name=The Boat (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-53
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtPo855ENI0AeOXhkCHBEgTPMEa.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/hxA5qt7gPo1/The.Boat.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Detective Conan: The Fist of Blue Sapphire (2019) [COLOR=FF00FF00]JAP BR 1080p[/COLOR] | TMDB-51
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/86Y6qM8zTn3PFVfCm9J98Ph7JEB.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/EE4BKz3Auvz/Detective.Conan.The.Fist.of.Blue.Sapphire.2019.BluRay.1080p.DTS-HD.MA.5.1.2Audio.x265.10bit-CHD%5BEtHD%5D.mkv.mp4
+
+type=video
+name=3 from Hell (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-59
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWWjBJbORsB9xt17eXmYEYhinux.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/9oFd7f6DL36/3.from.Hell.2019.UNRATED.1080p.BluRay.x264-GECKOS%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/fWCKCNWEB7/3.from.Hell.2019.UNRATED.1080p.BluRay.H264.AAC-RARBG.mp4
+https://verystream.com/stream/97KhhqDMp17/3.from.Hell.2019.UNRATED.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+https://verystream.com/stream/FKMZBVm9Snb/3.from.Hell.2019.UNRATED.RERIP.1080p.BluRay.x264-GECKOS%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/bieqT2Z7rhE/3.from.Hell.2019.UNRATED.PROPER.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Aurora (2019) [COLOR=FF00FF00]FIN BR 1080p[/COLOR] | TMDB-73
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2487hKc5scmTsdRtaiqtQdecKL.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/Kte3ehtZpjb/Aurora.2019.1080p.BluRay.X264-FiCO.mkv.mp4
+
+type=video
+name=Stuber (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-64
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/klkFYDZOetegK8floj6IjvbzzQ2.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/QnL1PVAanJr/Stuber.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+https://verystream.com/stream/JLuc25FgJ1o/Stuber.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+https://verystream.com/stream/XztY3SMtZWU/Stuber.2019.1080p.BluRay.x264-DRONES%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/ESPZA88ZJ1W/Stuber.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+https://verystream.com/stream/hhdPXm7HnCD/Stuber.2019.1080p.BluRay.x264-%5BYTS.LT%5D.mp4
+https://verystream.com/stream/QnL1PVAanJr/Stuber.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+
+type=video
+name=The Golem (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-57
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwdbyKJ2PKTLamQzr57OgMuFUlD.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/bf5zEVYP7bG/The.Golem.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+https://verystream.com/stream/FZ5Sx638sNS/The.Golem.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Crawl (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-61
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kOtMOUa5HrOiIG2Z9Anv7M8AbY.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/9ikHNYWRFEE/Crawl.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+https://verystream.com/stream/eisZiicXdZs/Crawl.2019.1080p.Bluray.X264-EVO%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/FpcT2qah8xV/Crawl.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv.mp4
+https://verystream.com/stream/WLKUtuHwcr5/Crawl.2019.1080p.BluRay.x264-GECKOS%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/U9CZb5kZsSE/Crawl.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+https://verystream.com/stream/gathszWzm6z/Crawl.2019.1080p.BluRay.x264-%5BYTS.LT%5D.mp4
+https://verystream.com/stream/9ikHNYWRFEE/Crawl.2019.1080p.BrRip.x265.HEVCBay.mkv.mp4
+https://verystream.com/stream/6cZKcMaM2q2/Crawl.2019.MULTi.BluRay.1080p.DTS-HD.MA.7.1.HEVC-DDR%5BEtHD%5D.mkv.mp4
+
+type=video
+name=Maiden (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-87   doc
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/sz0Ln6T31O31NOXtbgHTiBrMoBJ.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/iU2N4Gwh9iB/maiden.2018.1080p.bluray.x264-cadaver%5BEtHD%5D.mkv.mp4
+
+type=video
+name=Luz (2019) [COLOR=FF00FF00]GER BR 1080p[/COLOR] | TMDB-63
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xLen4n8FYYjW2HhBG2rtvFMUZw.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/MoWA864tFBp/Luz.2018.MULTi.1080p.Blu-ray.DTS-HDMA.5.1.HEVC-DDR%5BEtHD%5D.mkv.mp4
+
+type=video
+name=The Death and Return of Superman (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-72
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ztnQenlJsIoVEHKsM1YugSDxRx.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/chhYQhRrDDj/Death.And.Return.Of.Superman.2019.1080p.Bluray.1600MB.DD5.1.x264-GalaxyRG.mkv.mp4
+
+type=video
+name=Gwen (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-55
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUiyoWRMRaDOmnYAElr7XWIyvsi.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/J5ENoBCHcb2/gwen.2018.1080p.bluray.x264-rovers%5BEtHD%5D.mkv.mp4
+https://verystream.com/stream/3e8SmwAutQ6/Gwen.2018.1080p.BluRay.H264.AAC-RARBG.mp4
+
+type=video
+name=Light of My Life (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-66
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gLH2WSY9IykYaiqDHkCCGbY7nw.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/FYDyR8Pt3r2/Light.of.My.Life.2019.LIMITED.1080p.BluRay.x264-ROVERS%5BEtHD%5D.mkv.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 type=video
 name=Candy Corn (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-38
@@ -2137,6 +2314,7 @@ URL=https://verystream.com/stream/Wh481iK8z4t/The.Secret.Life.of.Pets.2.2019.108
 #https://openload.co/f/L5VJp8hL0do/The.Secret.Life.of.Pets.2.2019.1080p.BR_SeeHD.mp4
 #https://openload.co/f/h9F-AeebjAk/The.Secret.Life.of.Pets.2.2019.1080p.BR_SeeHD.mp4
 #https://openload.co/f/cYqfkXwy2nU/The.Secret.Life.of.Pets.2.2019.1080p.BR_SeeHD.mp4
+
 type=video
 name=Spy Cat (2019) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-50
 thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/snf4D8QI6LSEpkhBiShzOZQwk6w.jpg
@@ -11041,7 +11219,11 @@ URL=
 
 
 
-
+type=video
+name=The Secret Life of Pets 2 (2019) [COLOR=FF00FF00]ENG 3D BR 1080p[/COLOR] | TMDB-66
+thumb=https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYcaCNkB4EgVyvrXxxbklefDrGL.jpg
+date=2019-10-26
+URL=https://verystream.com/stream/eN5v4Zs5M6h/The.Secret.Life.Of.Pets.2.2019.3D.HSBS.BluRay.x264-%5BYTS.LT%5D.mp4
 
 type=video
 name=68 Kill (2018) [COLOR=FF00FF00]ENG BR 1080p[/COLOR] | TMDB-56
