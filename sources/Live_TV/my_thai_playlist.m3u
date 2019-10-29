@@ -3280,8 +3280,6 @@ http://ok2.se:8000/8KSFO4PVA9/qkL9Pkspga/6615
 
 
 
-
-
 #EXTINF:-1,Taiwan_xxx1_NYX-----
 http://fxzb.bbwqg.cn/proxy/box.php?id=1
 #EXTINF:-1,Taiwan_xxx2_Ibiza
@@ -3536,8 +3534,7 @@ http://sl0.ddns.me:8000/HLlum4fs5Z/2omBcBFaAb/170370
 #EXTINF:-1,PL: BBC Earth HD
 http://sl0.ddns.me:8000/HLlum4fs5Z/2omBcBFaAb/170414
 
-#EXTINF:-1,RO: Da Vinci Learning
-http://93.158.238.10:8000/Xm2Kp2Oi9u/fgh3K2GhvP/204784
+
 
 
 
@@ -3586,8 +3583,10 @@ http://ok2.se:8000/D223Ljv0uB/c75TkrDon3/77332
 http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se22
 http://ok2.se:8000/HwUajgreR8/1KqWG5TlRE/77332
-
-
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se23
+http://ok2.se:8000/tUdgpwfOqi/7qwldeLa6s/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se24
+http://ok2.se:8000/2wjWqlGwGV/vX6Ph5mf4X/77332
 
 
 
@@ -3672,28 +3671,10 @@ https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8?fluxustv.m3u
 http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
 
 
-#EXTINF:-1,Viasat History---------
-http://88.119.220.3/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
-#EXTINF:-1,Viasat Explorer
-http://88.119.220.3/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
-#EXTINF:-1,Viasat History
-https://88.119.220.3/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
-#EXTINF:-1,Viasat Explorer
-https://88.119.220.3/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
-#EXTINF:-1,Viasat History
-https://88.119.220.3/live/eds/Viasat_History_SD/HLS_encr/index.m3u8
-#EXTINF:-1,Viasat Explorer
-https://88.119.220.3/live/eds/Viasat_Explorer_SD/HLS_encr/index.m3u8
-#EXTINF:-1,Viasat History HD
-https://88.119.220.3/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
-#EXTINF:-1,Viasat Explorer HD
-https://88.119.220.3/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
 
 
-#EXTINF:-1,SBS Food------------
-http://220.240.192.224:9981/stream/channelid/1367157412
-#EXTINF:-1,7food network
-http://220.240.192.224:9981/stream/channelid/487839496
+
+
 
 
 
@@ -3742,6 +3723,8 @@ http://159.253.169.245:999/udp/239.191.254.250:15285
 http://159.253.174.2:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://159.253.175.6:999---1
 http://159.253.175.6:999/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://95.85.74.59:8082---2
+http://95.85.74.59:8082/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",(18+) Nuart TV
 http://46.32.68.167/s/live/711/100.0.0.5/1/0.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",(18+) Nuart TV
