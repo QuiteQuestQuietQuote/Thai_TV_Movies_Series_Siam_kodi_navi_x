@@ -3315,15 +3315,15 @@ http://204.45.182.172:26789/i/ghjnvq5o/456oinav/index.m3u8
 http://204.45.182.172:26789/i/ghjnvq5o/91bnjred/index.m3u8
 #EXTINF:-1,X_Cafe_asian
 http://204.45.182.172:26789/i/ghjnvq5o/846a1ghm/index.m3u8
-#EXTINF:-1,JAV_etv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1kB5Mk6.png" group-title="XXX",JAV_etv
 http://204.45.182.172:26789/i/ghjnvq5o/8c855daa/index.m3u8
-#EXTINF:-1,JAV_SonSee2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",JAV_SonSee2
 http://204.45.182.172:26789/i/ghjnvq5o/8c855fdf/index.m3u8
-#EXTINF:-1,JAV_AmezingTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v99U3JE.png" group-title="XXX",JAV_AmezingTV
 http://204.45.182.172:26789/i/ghjnvq5o/8c85fsaf/index.m3u8
-#EXTINF:-1,JAV_Pandora_Pink
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gsoilhg.jpg" group-title="XXX",JAV_Pandora_Pink
 http://204.45.182.172:26789/i/ghjnvq5o/8c85giea/index.m3u8
-#EXTINF:-1,JAV_Hot
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N8Z939N.png" group-title="XXX",JAV_Hot
 http://204.45.182.172:26789/i/ghjnvq5o/8c855d75/index.m3u8
 #EXTINF:-1,X2
 http://204.45.182.172:26789/i/ghjnvq5o/ahun18hg/index.m3u8
@@ -3336,7 +3336,8 @@ http://204.45.182.172:26789/i/ghjnvq5o/1bf4a301/index.m3u8
 
 #EXTINF:-1,X_rtmp
 rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana
+http://r05.wscdn.hls.xiaoka.tv/live/c3c7ee74c203fdbd259f707e5087622f/playlist.m3u8
 
 
 
