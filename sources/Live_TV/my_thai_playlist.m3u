@@ -3492,8 +3492,10 @@ http://176.67.223.7:8000/udp/239.1.1.141:22141
 #EXTINF:-1,DaVinci Learning------
 http://86.124.117.48:8000/play/a00c
 
-
-
+#EXTINF:-1,Da Vinci
+http://91.219.198.174:8000/play/a02i/index.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://178.65.68.128:81/play/a047
 
 
 
@@ -3573,9 +3575,9 @@ http://113.188.70.79:4022/rtp/232.84.2.131:9582
 http://113.188.70.79:4022/rtp/232.84.2.53:10528
 
 
-
-
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_th----------------
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia----------------
+https://vip.we-play.tv/live/disasia/playlist.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_th
 http://122.155.180.8:5021/live/440
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_tw_ts
 http://122.146.68.116:4046/VideoInput/play.ts
@@ -3673,16 +3675,21 @@ http://159.253.174.2:999/udp/239.191.254.250:15285
 http://159.253.175.6:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://95.85.74.59:8082---2
 http://95.85.74.59:8082/udp/239.191.254.250:15285
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArtHD_udp_http://95.85.74.59:8082---3
+http://79.133.100.125:999/udp/239.191.254.250:15285
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",(18+) Nuart TV
 http://46.32.68.167/s/live/711/100.0.0.5/1/0.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",(18+) Nuart TV
 http://46.32.68.167/s/live/711/86.169.51.136/0/0.m3u8
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV14
-http://178.124.183.14:80/hls/CH_NYARTTV/variant.m3u8
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV5
-http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV13
 http://178.124.183.13/hls/CH_NYARTTV/variant.m3u8
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV14
+http://178.124.183.14:80/hls/CH_NYARTTV/variant.m3u8
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV15
+http://178.124.183.15:80/hls/CH_NYARTTV/variant.m3u8?version=2
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV5
+http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
+
 
 
 

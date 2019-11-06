@@ -111,10 +111,11 @@ date=2019-01-03
 URL=https://vidoza.net/4u0k7k0l8hfp.html
 
 type=video
-name=
+name=Robert.the.Bruce.2019.1080p.BluRay.x264-EiDER[EtHD].mkv	1728x720, 02:03:36
 thumb=
 date=2019-06-28
-URL=
+URL=https://streamz.cc/fN21mMjZ6bm5zaGltZXgw	Robert.the.Bruce.2019.1080p.BluRay.x264-EiDER[EtHD].mkv	1728x720, 02:03:36
+
 
 
 
@@ -126,10 +127,10 @@ URL=
 
 
 type=video
-name=
+name=Robert.the.Bruce.2019.1080p.BluRay.x264-EiDER[EtHD].mkv	1728x720, 02:03:36
 thumb=
 date=2019-06-28
-URL=
+URL=https://streamz.cc/fN21mMjZ6bm5zaGltZXgw	
 
 
 
