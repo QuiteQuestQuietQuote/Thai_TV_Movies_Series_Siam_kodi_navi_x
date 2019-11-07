@@ -2595,31 +2595,31 @@ http://ok2.se:8000/nbGNBz1JzT/CmVEkvYQxg/9049
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
-http://113.188.70.79:4022/rtp/232.84.2.129:9570
+http://113.187.45.193:2806/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://113.188.70.79:4022/rtp/232.84.2.131:9582
+http://113.187.45.193:2806/rtp/232.84.2.131:9582
 #EXTINF:-1,DISCOVERY ASIA
-http://113.188.70.79:4022/rtp/232.84.2.53:10528
+http://113.187.45.193:2806/rtp/232.84.2.53:10528
 #EXTINF:-1,DISCOVERY CHANNEL
-http://113.188.70.79:4022/rtp/232.84.1.47:8262
+http://113.187.45.193:2806/rtp/232.84.1.47:8262
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://113.188.70.79:4022/rtp/232.84.1.65:8364
+http://113.187.45.193:2806/rtp/232.84.1.65:8364
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://113.188.70.79:4022/rtp/232.84.1.1:7980
+http://113.187.45.193:2806/rtp/232.84.1.1:7980
 #EXTINF:-1,NAT GEO PEOPLE
-http://113.188.70.79:4022/rtp/232.84.1.67:8376
+http://113.187.45.193:2806/rtp/232.84.1.67:8376
 #EXTINF:-1,NAT GEO PEOPLE HD
-http://113.188.70.79:4022/rtp/232.84.1.76:8430
+http://113.187.45.193:2806/rtp/232.84.1.76:8430
 #EXTINF:-1,ASIAN FOOD CHANNEL
-http://113.188.70.79:4022/rtp/232.84.1.115:10236
+http://113.187.45.193:2806/rtp/232.84.1.115:10236
 #EXTINF:-1,Da Vinci Learning
-http://113.188.70.79:4022/rtp/232.84.1.108:10224
+http://113.187.45.193:2806/rtp/232.84.1.108:10224
 #EXTINF:-1,Nat Geo People
-http://113.188.70.79:4022/rtp/232.84.2.121:8376
+http://113.187.45.193:2806/rtp/232.84.2.121:8376
 #EXTINF:-1,DISNEY CHANNEL HD
-http://113.188.70.79:4022/rtp/232.84.2.143:10678
+http://113.187.45.193:2806/rtp/232.84.2.143:10678
 #EXTINF:-1,CNBC
-http://113.188.70.79:4022/rtp/232.84.2.177:10488
+http://113.187.45.193:2806/rtp/232.84.2.177:10488
 
 
 
@@ -3334,8 +3334,10 @@ http://204.45.182.172:26789/i/ghjnvq5o/952a3vvv/index.m3u8
 #EXTINF:-1,X5
 http://204.45.182.172:26789/i/ghjnvq5o/1bf4a301/index.m3u8
 
-#EXTINF:-1,X_rtmp
+#EXTINF:-1,JAV_rtmp
 rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
+#EXTINF:-1,FreeX_TV
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/55368.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana
 http://r05.wscdn.hls.xiaoka.tv/live/c3c7ee74c203fdbd259f707e5087622f/playlist.m3u8
 
@@ -3492,10 +3494,7 @@ http://176.67.223.7:8000/udp/239.1.1.141:22141
 #EXTINF:-1,DaVinci Learning------
 http://86.124.117.48:8000/play/a00c
 
-#EXTINF:-1,Da Vinci
-http://91.219.198.174:8000/play/a02i/index.m3u8
-#EXTINF:-1,Da Vinci Learning
-http://178.65.68.128:81/play/a047
+
 
 
 
@@ -3568,11 +3567,11 @@ http://1.52.10.213:4022/udp/225.1.1.198:30120
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
-http://113.188.70.79:4022/rtp/232.84.2.129:9570
+http://113.187.45.193:2806/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://113.188.70.79:4022/rtp/232.84.2.131:9582
+http://113.187.45.193:2806/rtp/232.84.2.131:9582
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",DISCOVERY ASIA_VN_rtp
-http://113.188.70.79:4022/rtp/232.84.2.53:10528
+http://113.187.45.193:2806/rtp/232.84.2.53:10528
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia----------------
@@ -3661,7 +3660,10 @@ https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-e4/tracks-v1a1/mon
 http://210.210.155.35/uq2663/h/h10/01.m3u8
 
 
-
+#EXTINF:-1,Russian Night
+http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2
+#EXTINF:-1,BLUEHUSTLER
+http://178.124.183.15:80/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
 
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV_tvport
 http://tvport.it-tele.net:8000/f6c3f3b4a6fc08c50fa7881628aaad42
@@ -3689,7 +3691,6 @@ http://178.124.183.14:80/hls/CH_NYARTTV/variant.m3u8
 http://178.124.183.15:80/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV5
 http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
-
 
 
 
@@ -3729,6 +3730,8 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
 #EXTINF:-1,Doc_CH_rtmp
 rtmp://ivi.bupt.edu.cn:1935/livetv/documentaryhd
+#EXTINF:-1,CHN_DIY
+http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
 #EXTINF:-1,a taste of china24/7_CHN
 http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 #EXTINF:-1,wild food brother_CHN
@@ -3800,7 +3803,7 @@ http://ok2.se:8000/8KSFO4PVA9/qkL9Pkspga/364
 #EXTINF:-1,CNBC_udp_viet-http://1.52.10.213:4022/udp
 http://1.52.10.213:4022/udp/225.1.1.227:30120
 #EXTINF:-1,CNBC_rtp_viet4022
-http://113.188.70.79:4022/rtp/232.84.2.177:10488
+http://113.187.45.193:2806/rtp/232.84.2.177:10488
 
 
 #EXTINF:-1,CNBC_th---
@@ -3808,8 +3811,8 @@ http://14.207.103.231:8000/play/a03n
 
 
 
-
-
+#EXTINF:-1,CNBC_test
+http://bglive-a.bitgravity.com/cnbclive/carryquote/us/low?e=2063196914&h=429edd6fea7aa77353c58e8438598822
 
 
 
