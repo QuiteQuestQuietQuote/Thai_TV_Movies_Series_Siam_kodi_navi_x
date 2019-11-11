@@ -3226,7 +3226,26 @@ http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3
 
 
 
-
+#EXTINF:-1,Taiwan_xxx1_NYX-----
+http://fxzb.bbwqg.cn/proxy/box.php?id=1
+#EXTINF:-1,Taiwan_xxx2_Ibiza
+http://fxzb.bbwqg.cn/proxy/box.php?id=2
+#EXTINF:-1,Taiwan_xxx3
+http://fxzb.bbwqg.cn/proxy/box.php?id=3
+#EXTINF:-1,Taiwan_xxx4
+http://fxzb.bbwqg.cn/proxy/box.php?id=4
+#EXTINF:-1,Taiwan_xxx5
+http://fxzb.bbwqg.cn/proxy/box.php?id=5
+#EXTINF:-1,Taiwan_xxx6
+http://fxzb.bbwqg.cn/proxy/box.php?id=6
+#EXTINF:-1,Taiwan_xxx7
+http://fxzb.bbwqg.cn/proxy/box.php?id=7
+#EXTINF:-1,Taiwan_xxx8
+http://fxzb.bbwqg.cn/proxy/box.php?id=8
+#EXTINF:-1,Taiwan_xxx9
+http://fxzb.bbwqg.cn/proxy/box.php?id=9
+#EXTINF:-1,Taiwan_xxx10
+http://fxzb.bbwqg.cn/proxy/box.php?id=10
 
 
 
@@ -3252,50 +3271,6 @@ http://ok2.se:8000/8KSFO4PVA9/qkL9Pkspga/6615
 
 
 
-
-
-
-
-#EXTINF:-1,Taiwan_xxx1_NYX-----
-http://fxzb.bbwqg.cn/proxy/box.php?id=1
-#EXTINF:-1,Taiwan_xxx2_Ibiza
-http://fxzb.bbwqg.cn/proxy/box.php?id=2
-#EXTINF:-1,Taiwan_xxx3
-http://fxzb.bbwqg.cn/proxy/box.php?id=3
-#EXTINF:-1,Taiwan_xxx4
-http://fxzb.bbwqg.cn/proxy/box.php?id=4
-#EXTINF:-1,Taiwan_xxx5
-http://fxzb.bbwqg.cn/proxy/box.php?id=5
-#EXTINF:-1,Taiwan_xxx6
-http://fxzb.bbwqg.cn/proxy/box.php?id=6
-#EXTINF:-1,Taiwan_xxx7
-http://fxzb.bbwqg.cn/proxy/box.php?id=7
-#EXTINF:-1,Taiwan_xxx8
-http://fxzb.bbwqg.cn/proxy/box.php?id=8
-#EXTINF:-1,Taiwan_xxx9
-http://fxzb.bbwqg.cn/proxy/box.php?id=9
-#EXTINF:-1,Taiwan_xxx10
-http://fxzb.bbwqg.cn/proxy/box.php?id=10
-#EXTINF:-1,Taiwan_xxx21---
-http://fxzb.bbwqg.cn/proxy/box.php?id=21
-#EXTINF:-1,Taiwan_xxx22
-http://fxzb.bbwqg.cn/proxy/box.php?id=22
-#EXTINF:-1,Taiwan_xxx23
-http://fxzb.bbwqg.cn/proxy/box.php?id=23
-#EXTINF:-1,Taiwan_xxx24
-http://fxzb.bbwqg.cn/proxy/box.php?id=24
-#EXTINF:-1,Taiwan_xxx25
-http://fxzb.bbwqg.cn/proxy/box.php?id=25
-#EXTINF:-1,Taiwan_xxx26
-http://fxzb.bbwqg.cn/proxy/box.php?id=26
-#EXTINF:-1,Taiwan_xxx27
-http://fxzb.bbwqg.cn/proxy/box.php?id=27
-#EXTINF:-1,Taiwan_xxx28
-http://fxzb.bbwqg.cn/proxy/box.php?id=28
-#EXTINF:-1,Taiwan_xxx29
-http://fxzb.bbwqg.cn/proxy/box.php?id=29
-#EXTINF:-1,Taiwan_xxx30
-http://fxzb.bbwqg.cn/proxy/box.php?id=30
 
 
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_streamlock.net--------------------------
@@ -3491,11 +3466,10 @@ http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/364
 http://176.67.211.7:8003/udp/239.1.1.141:22141
 #EXTINF:-1, DaVinci Learning
 http://176.67.223.7:8000/udp/239.1.1.141:22141
-#EXTINF:-1,DaVinci Learning------
-http://86.124.117.48:8000/play/a00c
-#EXTINF:-1,DaVinci Learning---test
-http://2.233.121.180:8000/play/a00c
 
+
+#EXTINF:-1,DaVinci Learning-----
+http://89.45.201.132:2222/udp/224.0.0.3:708
 
 
 
@@ -3551,7 +3525,8 @@ http://ok2.se:8000/tUdgpwfOqi/7qwldeLa6s/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se24
 http://ok2.se:8000/2wjWqlGwGV/vX6Ph5mf4X/77332
 
-
+#EXTINF:-1,(UK) BBC earth 4K+ 
+http://5.254.66.46:1339/sVo9SYN0M3/RpC4Y8VmOA/12661
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT--------------
@@ -3763,6 +3738,8 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OnFFoP.png" group-title="USA",Cheddar Business (New!)
+https://live.chdrstatic.com/cheddar/primary/1.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News HD--------------------------
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg TV Asia
@@ -3775,8 +3752,6 @@ http://45.126.83.51/uq2663/h/h03/index2.m3u8
 http://89.38.8.130:39464
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News + info
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2OnFFoP.png" group-title="USA",Cheddar Business (New!)
-https://live.chdrstatic.com/cheddar/primary/1.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_livenewschat
 https://budgie.cdn.livenewschat.eu/hls/cnbc_live/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_ott-cdn
@@ -3791,6 +3766,8 @@ http://92.43.140.249/s65/04.m3u8
 https://1161275585.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="USA",CNBC (New!)
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/FluxusTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mfgSRzB.png" group-title="USA",Fox Business
+https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8?fluxustv.m3u8
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2.se
@@ -3814,10 +3791,7 @@ http://14.207.103.231:8000/play/a03n
 
 
 
-#EXTINF:-1,CNBC pe
-http://77.109.171.191:8000/play/a06r
-#EXTINF:-1,CNBC PE Hot
-http://77.109.171.191:8000/play/a081
+
 
 
 
