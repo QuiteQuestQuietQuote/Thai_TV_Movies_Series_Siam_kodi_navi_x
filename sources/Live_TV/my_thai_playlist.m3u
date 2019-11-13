@@ -3527,8 +3527,7 @@ http://ok2.se:8000/tUdgpwfOqi/7qwldeLa6s/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se24
 http://ok2.se:8000/2wjWqlGwGV/vX6Ph5mf4X/77332
 
-#EXTINF:-1,(UK) BBC earth 4K+ 
-http://5.254.66.46:1339/sVo9SYN0M3/RpC4Y8VmOA/12661
+
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT--------------
@@ -3551,9 +3550,8 @@ http://14.250.62.98:2806/rtp/232.84.2.131:9582
 http://14.250.62.98:2806/rtp/232.84.2.53:10528
 
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia----------------
-https://vip.we-play.tv/live/disasia/playlist.m3u8
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_th
+
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_th----------------
 http://122.155.180.8:5021/live/440
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_tw_ts
 http://122.146.68.116:4046/VideoInput/play.ts
