@@ -3321,8 +3321,38 @@ http://r05.wscdn.hls.xiaoka.tv/live/c3c7ee74c203fdbd259f707e5087622f/playlist.m3
 
 
 
+#EXTINF:-1,ADULT Section-----------
+http://86.6.122.26:9981/stream/channelid/1335247413
+#EXTINF:-1,ADULT smileTV2
+http://86.6.122.26:9981/stream/channelid/2113546672
+#EXTINF:-1,ADULT smileTV3
+http://86.6.122.26:9981/stream/channelid/1065479991
+#EXTINF:-1,ADULT Babestn
+http://86.6.122.26:9981/stream/channelid/137311553
+#EXTINF:-1,ADULT Party
+http://86.6.122.26:9981/stream/channelid/634357930
+#EXTINF:-1,ADULT Xpanded TV
+http://86.6.122.26:9981/stream/channelid/1616184327
+#EXTINF:-1,ADULT Studio 66
+http://86.6.122.26:9981/stream/channelid/724745466
+#EXTINF:-1,ADULT Xpanded2
+http://86.6.122.26:9981/stream/channelid/874621295
+#EXTINF:-1,695
+http://86.6.122.26:9981/stream/channelid/1840241529
+#EXTINF:-1,696
+http://86.6.122.26:9981/stream/channelid/453294948
+#EXTINF:-1,697
+http://86.6.122.26:9981/stream/channelid/1004336089
+#EXTINF:-1,698
+http://86.6.122.26:9981/stream/channelid/1690311364
+#EXTINF:-1,ADULT Section
+http://86.6.122.26:9981/stream/channelid/1539172781
 
-#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_dvr1
+
+
+
+
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_dvr1---------
 https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_dvr2
 https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
@@ -3468,11 +3498,14 @@ http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/364
 http://176.67.211.7:8003/udp/239.1.1.141:22141
 #EXTINF:-1, DaVinci Learning
 http://176.67.223.7:8000/udp/239.1.1.141:22141
+#EXTINF:-1, DaVinci Learning_test
+http://176.67.211.6:15000/udp/239.1.1.141:22141
 
 
 #EXTINF:-1,DaVinci Learning-----
 http://89.45.201.132:2222/udp/224.0.0.3:708
-
+#EXTINF:-1,[RO] DAVINCI
+http://51.159.30.124:8000/Salwa/Salwa/8822
 
 
 
@@ -3608,8 +3641,8 @@ https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8?fluxustv.m3u
 #EXTINF:-1,ViasatExploreHD
 http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
 
-
-
+#EXTINF:-1,BeinFatafeat_test
+http://95.170.215.120/hls/m3u8/BeinFatafeat.m3u8
 
 
 
@@ -3752,6 +3785,11 @@ http://45.126.83.51/uq2663/h/h03/index2.m3u8
 http://89.38.8.130:39464
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News + info
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+
+#EXTINF:-1,HK_stocks
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1,HK_TTVHD
+http://ad.mysisli.com/live/TTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_livenewschat
 https://budgie.cdn.livenewschat.eu/hls/cnbc_live/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_ott-cdn
