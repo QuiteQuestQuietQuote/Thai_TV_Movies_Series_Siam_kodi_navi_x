@@ -3228,31 +3228,41 @@ http://fxzb.bbwqg.cn/proxy/box.php?id=10
 
 
 
-#EXTINF:-1,JAV_SonSee2 TV_33156-------------------test_v5iptv
-http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33156
-#EXTINF:-1,33151
-http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33151
+#EXTINF:-1,33148---------------
+http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33148
+#EXTINF:-1,33149
+http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33149
 #EXTINF:-1,33150
 http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33150
+#EXTINF:-1,33151
+http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33151
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gsoilhg.jpg" group-title="XXX",JAV_Pandora_Pink_Pink_33152
+http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33152
+#EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",JAV_SonSee1 TV_33153
+http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33153
+#EXTINF:-1,JAV_Film_33154
+http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33154
+#EXTINF:-1,Pink_Shoe_33155
+http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33155
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",JAV_SonSee2_33156
+http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33156
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v99U3JE.png" group-title="XXX",JAV_AmezingTV_33157
+http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33157
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1kB5Mk6.png" group-title="XXX",JAV_etv_33158
+http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33158
+#EXTINF:-1,Pandora_Perfect_33159
+http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33159
 #EXTINF:-1,33160
 http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33160
 #EXTINF:-1,33161
 http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33161
+#EXTINF:-1,33162
+http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33162
 
-#EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",JAV_SonSee1 TV_33153
-http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33153
-#EXTINF:-1,Pandora_Perfect
-http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33159
-#EXTINF:-1,eTV
-http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33158
-#EXTINF:-1,AmazingTV
-http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33157
-#EXTINF:-1,Pink_Shoe_33155
-http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33155
-#EXTINF:-1,JAV_Film_33154
-http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33154
-#EXTINF:-1,Pandora_Pink_33152
-http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33152
+
+#EXTINF:-1,33157_amzlive_test
+http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33157
+
 
 
 
@@ -3479,8 +3489,7 @@ http://ok2.se:8000/jJotmR0w9j/z8SwP1Lc7H/364
 http://176.67.211.7:8003/udp/239.1.1.141:22141
 #EXTINF:-1, DaVinci Learning
 http://176.67.223.7:8000/udp/239.1.1.141:22141
-#EXTINF:-1, DaVinci Learning_test
-http://176.67.211.6:15000/udp/239.1.1.141:22141
+
 
 
 #EXTINF:-1,DaVinci Learning-----
@@ -3583,7 +3592,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic (MENA)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_tvanywhere
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/index.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_indo
 http://203.207.56.228/live/iptv035.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_indo
@@ -3611,7 +3620,7 @@ https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QtAXTGj.png" group-title="USA",DocuBox 
 http://217.103.38.220:8001/1:0:16:36E3:C8C:3:EB0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QtAXTGj.png" group-title="USA",DocuBox_tvanywhere
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+http://livecdnh3.tvanywhere.ae/hls/docubox/05.m3u8
 #EXTINF:-1,asia_amazing
 http://strm.yandex.ru/kal/asiaamazing/asiaamazing0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W87cTZc.png" group-title="USA",Docurama
