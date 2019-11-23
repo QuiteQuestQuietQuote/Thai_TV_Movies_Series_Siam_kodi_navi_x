@@ -2847,7 +2847,7 @@ http://14.182.131.185:8989/rtp/232.84.2.53:10528
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,Asian Food Channel---test
 http://briandoan.duckdns.org:2404/rtp/232.84.2.129:9570
-#EXTINF:-1 tvg-id="Da Vinci " tvg-name="Da_Vinci_" tvg-logo="https://imgur.com/vf9RpQb.png" group-title="Q" tvg-chno="80",Da Vinci Learning HD
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning HD
 http://briandoan.duckdns.org:2404/rtp/232.84.2.131:9582
 
 
@@ -3094,8 +3094,7 @@ http://46.214.187.66:6464/play/a09e/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/knyzqhB.png",CNBC_World_GER
 http://xtiptv.xyz:25461/live/ken12345/ken12345/55713.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/4cc90abe-fdfa-a008-eaf5-d1e508a0cd5a-4kTV_hero.jpg" group-title="24/7 PLUTO TV",4K TV
-http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
 
 
 
