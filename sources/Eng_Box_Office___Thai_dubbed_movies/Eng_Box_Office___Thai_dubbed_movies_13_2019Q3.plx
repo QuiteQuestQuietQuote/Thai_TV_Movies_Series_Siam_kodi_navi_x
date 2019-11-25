@@ -39,7 +39,7 @@ type=video
 name=
 thumb=https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png
 date=2018-11-26
-URL=http://130.185.150.79:1935/trunk/BBC-EARTH/playlist.m3u8
+URL=http://203.207.56.228/live/iptv001.m3u8
 
 type=video
 name=
@@ -51,25 +51,25 @@ type=video
 name=
 thumb=https://api.mytvnet.vn/static/channel/60.png
 date=2017-10-29
-URL=https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+URL=http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 
 type=video
 name=
 thumb=https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png
 date=2018-01-09
-URL=http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+URL=https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 
 type=video
 name=
 thumb=http://hochu.tv/images/nuart-tv.png
 date=2018-11-16
-URL=http://185.35.4.37:8087/nuarthd/ch.m3u8
+URL=http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 
 type=video
 name=
 thumb=http://bestmediainfo.com/wp-content/uploads/2014/01/da-vinci-learning.jpg
 date=2018-07-13
-URL=http://188.26.25.141:8000/play/a00c/index.m3u8
+URL=http://46.214.187.66:6464/play/a08f/index.m3u8
 
 
 
@@ -99,22 +99,22 @@ URL=
 
 
 type=video
-name=Palm Beach 2019 1080p BluRay x264-PFa[EtHD]
+name=midsommar 2019 directors cut 1080p bluray x264-cadaver
 thumb=
 date=2019-07-08
-URL=https://vidoza.net/juockuyb1dra.html
+URL=https://vidoza.net/vnt6zydl5v87.html
 
 type=video
-name=Palm Beach 2019 1080p BluRay x264-PFa[EtHD]
+name=Saving Flora 2018 1080p BluRay AAC-RARBG
 thumb=
 date=2019-01-03
-URL=https://streamz.cc/feG05aXJrcTVnY3QzZXgw
+URL=https://streamz.cc/fdm51ODd4aXNrMGkxZXgw
 
 type=video
-name=Palm Beach 2019 1080p BluRay x264-PFa[EtHD]
+name=The.Goldfinch.2019.1080p.BluRay.x264-GECKOS[EtHD].mkv.mp4
 thumb=
 date=2019-06-28
-URL=https://www.fembed.com/v/2-rm3t2yz77jm3p
+URL=https://www.fembed.com/v/dlzdrtxq0yywdgr#The.Goldfinch.2019.1080p.BluRay.x264-GECKOS[EtHD].mkv.mp4
 
 
 
