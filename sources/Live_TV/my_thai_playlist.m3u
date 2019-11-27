@@ -23,21 +23,20 @@ http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.st
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_3bb
 http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=BRQYQBXBRWcc7w2vi6LQrPj4EwhvBEJ7&password=x1yU4VfAZzCt3Pjkg82bWkxyHDV2iKtF
 
-
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",NEW) TV
-https://stream-03.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL544-_L_lw393YsFWDxgIqLoc)/dm/3/x7kx5i7/s/live-3.m3u8
-#EXTINF:-1, tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/27.jpg" tvg-name=“PSI SARADEE” , PSI SARADEE
-http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://news1live.com/images/social-share-logo.png",news1
+http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-4vRZu2SiRSw/WdLYqkUFFlI/AAAAAAAAAF0/aTTW-yIICXYQPSy6u_J7l0oiPnBh2TqVwCLcBGAs/s200/002.png",5 FULLHD
 http://61.91.12.34:1935/live/tv5streaming_720p/playlist.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)TV
+https://stream-03.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL544-_L_lw393YsFWDxgIqLoc)/dm/3/x7kx5i7/s/live-3.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/400px-Thairath_TV32.png" group-title="Thailand",Thairath720
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-y8iyhanqX1Y/WdLYwDUd1EI/AAAAAAAAAHQ/6Nt31oLysEEIKcQAVWTATR-nsthNu9X6wCLcBGAs/s200/025.png",11NBT TV
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24
-http://27.254.130.64/live01/chsd_TNN_5.m3u8?p=st
-#EXTINF:-1 group-title="news" tvg-logo="https://news1live.com/images/social-share-logo.png",news1
-http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1, tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/27.jpg" tvg-name=“PSI SARADEE” , PSI SARADEE
+http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+
+
 
 #EXTINF:-1  tvg-logo="http://www.tv.bunjerd.com/static/image/tv_radio/tv/saradee.jpg",PSI_3bb--------------------------
 http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcast73_psi_live1.stream/playlist.m3u8?username=FAmNzLBxvIBauswQfHxodyrgRUAbPQwk&password=ytPTI7P9L1S7PHg7DWXLRTRylvMYS2ve
@@ -47,6 +46,8 @@ http://183.182.100.184/live/pptvthai/playlist.m3u8
 http://27.254.130.64/live01/chsd_Amarin_13.m3u8?p=st
 #EXTINF:-1 group-title="Free_TV"tvg-logo="https://www.doohdbox.com/assets/201707141414362135901185.jpg",AMARIN TV
 http://27.254.130.64/live01/wl13.m3u8?p==
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24
+http://27.254.130.64/live01/chsd_TNN_5.m3u8?p=st
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,mcot_SD
 http://183.182.100.184/live/mcothd/chunklist.m3u8
 
@@ -114,154 +115,352 @@ http://main-a.for-our.info:8081/tv1/ch5.m3u8
 
 
 
-#EXTINF:-1,3 HD-----------------------
-http://183.89.156.105:9982/stream/channelid/2078734561
-#EXTINF:-1,3 SD
-http://183.89.156.105:9982/stream/channelid/465046831
-#EXTINF:-1,3FAM
-http://183.89.156.105:9982/stream/channelid/403055433
+#EXTINF:-1,4050 Channel-------------------------
+http://42.191.224.181:9981/stream/channelid/1029335844
+#EXTINF:-1,AEC [astro]
+http://42.191.224.181:9981/stream/channelid/1480023888
+#EXTINF:-1,AFC [KP]
+http://42.191.224.181:9981/stream/channelid/787203198
+#EXTINF:-1,Al Jazeera Arabic
+http://42.191.224.181:9981/stream/channelid/527072581
 #EXTINF:-1,AMARIN
-http://183.89.156.105:9982/stream/channelid/825596076
-#EXTINF:-1,ASER
-http://183.89.156.105:9982/stream/channelid/802486400
-#EXTINF:-1,ASIAN F
-http://183.89.156.105:9982/stream/channelid/2005127555
+http://42.191.224.181:9981/stream/channelid/253955936
+#EXTINF:-1,ANIMAX [KP]
+http://42.191.224.181:9981/stream/channelid/1857996138
+#EXTINF:-1,ASIAN MOVIES [KP]
+http://42.191.224.181:9981/stream/channelid/1043762599
+#EXTINF:-1,ASSP 1 720 [astro]
+http://42.191.224.181:9981/stream/channelid/702677472
+#EXTINF:-1,ASSP1 [astro]
+http://42.191.224.181:9981/stream/channelid/2011563047
+#EXTINF:-1,ASSP2 [astro]
+http://42.191.224.181:9981/stream/channelid/1275362851
+#EXTINF:-1,ASSP3 [astro]
+http://42.191.224.181:9981/stream/channelid/2109102618
+#EXTINF:-1,ASSP4 [astro]
+http://42.191.224.181:9981/stream/channelid/1239371189
+#EXTINF:-1,BBC WORLD NEWS
+http://42.191.224.181:9981/stream/channelid/516452537
 #EXTINF:-1,BBTV CH7
-http://183.89.156.105:9982/stream/channelid/353288293
+http://42.191.224.181:9981/stream/channelid/66875055
+#EXTINF:-1,BLOOMBERG
+http://42.191.224.181:9981/stream/channelid/2098831774
 #EXTINF:-1,BRIGHT
-http://183.89.156.105:9982/stream/channelid/987261644
-#EXTINF:-1,CCTV
-http://183.89.156.105:9982/stream/channelid/1531982426
-#EXTINF:-1,CELEST
-http://183.89.156.105:9982/stream/channelid/835739558
+http://42.191.224.181:9981/stream/channelid/152947380
+#EXTINF:-1,BUDDHA
+http://42.191.224.181:9981/stream/channelid/1824623339
+#EXTINF:-1,BVN
+http://42.191.224.181:9981/stream/channelid/435125455
+#EXTINF:-1,CARTOON NETWORK
+http://42.191.224.181:9981/stream/channelid/680894980
+#EXTINF:-1,CCTV 4
+http://42.191.224.181:9981/stream/channelid/236143483
+#EXTINF:-1,CGTN [KP]
+http://42.191.224.181:9981/stream/channelid/88207059
+#EXTINF:-1,CH [V] China
+http://42.191.224.181:9981/stream/channelid/1029886681
+#EXTINF:-1,CH7 HD
+http://42.191.224.181:9981/stream/channelid/1377886633
 #EXTINF:-1,CH8
-http://183.89.156.105:9982/stream/channelid/1093215502
-#EXTINF:-1,Disn
-http://183.89.156.105:9982/stream/channelid/2069272841
-#EXTINF:-1,E!
-http://183.89.156.105:9982/stream/channelid/233672417
-#EXTINF:-1,EXPLIFE
-http://183.89.156.105:9982/stream/channelid/337243830
-#EXTINF:-1,EXPSCI
-http://183.89.156.105:9982/stream/channelid/999834938
-#EXTINF:-1,EXPWILD
-http://183.89.156.105:9982/stream/channelid/683117111
-#EXTINF:-1,FL A
-http://183.89.156.105:9982/stream/channelid/466120034
-#EXTINF:-1,FOX
-http://183.89.156.105:9982/stream/channelid/1596080049
-#EXTINF:-1,GEM
-http://183.89.156.105:9982/stream/channelid/1547330073
+http://42.191.224.181:9981/stream/channelid/868478632
+#EXTINF:-1,CINEMAX [KP]
+http://42.191.224.181:9981/stream/channelid/420961935
+#EXTINF:-1,CITRA [astro]
+http://42.191.224.181:9981/stream/channelid/784115426
+#EXTINF:-1,CNBC
+http://42.191.224.181:9981/stream/channelid/1067836113
+#EXTINF:-1,CNC [Cambodia]
+http://42.191.224.181:9981/stream/channelid/347645772
+#EXTINF:-1,CNN
+http://42.191.224.181:9981/stream/channelid/1857389827
+#EXTINF:-1,Color [astro]
+http://42.191.224.181:9981/stream/channelid/1293920763
+#EXTINF:-1,CTN [Cambodia]
+http://42.191.224.181:9981/stream/channelid/1465808078
+#EXTINF:-1,Da Vinci
+http://42.191.224.181:9981/stream/channelid/936296436
+#EXTINF:-1,DD NEWS
+http://42.191.224.181:9981/stream/channelid/1340524476
+#EXTINF:-1,DD SPORTS
+http://42.191.224.181:9981/stream/channelid/967579003
+#EXTINF:-1,DISCOVERY ASIA HD [KP]
+http://42.191.224.181:9981/stream/channelid/1905171223
+#EXTINF:-1,DISCOVERY CHANNEL [KP]
+http://42.191.224.181:9981/stream/channelid/280293134
+#EXTINF:-1,DUBAI SPORTS 1
+http://42.191.224.181:9981/stream/channelid/795606986
+#EXTINF:-1,DW Deutsch
+http://42.191.224.181:9981/stream/channelid/963693924
+#EXTINF:-1,DW English
+http://42.191.224.181:9981/stream/channelid/1656073275
+#EXTINF:-1,EDGE SPORT [KP]
+http://42.191.224.181:9981/stream/channelid/858792420
+#EXTINF:-1,EDGE SPORT [server 3]
+http://42.191.224.181:9981/stream/channelid/1178491745
+#EXTINF:-1,EGG NETWORK [KP]
+http://42.191.224.181:9981/stream/channelid/168253116
+#EXTINF:-1, News
+http://42.191.224.181:9981/stream/channelid/2120720793
+#EXTINF:-1,SPORT [KP]
+http://42.191.224.181:9981/stream/channelid/1279028011
+#EXTINF:-1,SPORT [server 3]
+http://42.191.224.181:9981/stream/channelid/913513430
+#EXTINF:-1,FAH WAN MAI
+http://42.191.224.181:9981/stream/channelid/1391210581
+#EXTINF:-1,FIGHT SPORTS HD [KP]
+http://42.191.224.181:9981/stream/channelid/1936161166
+#EXTINF:-1,FOX FAMILY MOVIES
+http://42.191.224.181:9981/stream/channelid/598742293
+#EXTINF:-1,FOX MOVIES
+http://42.191.224.181:9981/stream/channelid/971094075
+#EXTINF:-1,FOX SPORTS 1 [KP]
+http://42.191.224.181:9981/stream/channelid/91596252
+#EXTINF:-1,Fox Sports 1 [server 3]
+http://42.191.224.181:9981/stream/channelid/874866101
+#EXTINF:-1,FOX SPORTS 2 [KP]
+http://42.191.224.181:9981/stream/channelid/2140956039
+#EXTINF:-1,Fox Sports 2 [server 3]
+http://42.191.224.181:9981/stream/channelid/1783792732
+#EXTINF:-1,FOX SPORTS 3 [KP]
+http://42.191.224.181:9981/stream/channelid/1273186644
+#EXTINF:-1,FOX Sports 3 [server 3]
+http://42.191.224.181:9981/stream/channelid/270698110
+#EXTINF:-1,Future Channel
+http://42.191.224.181:9981/stream/channelid/611878043
+#EXTINF:-1,FX [KP]
+http://42.191.224.181:9981/stream/channelid/877145703
+#EXTINF:-1,HD
+http://42.191.224.181:9981/stream/channelid/321987177
 #EXTINF:-1,GMM25
-http://183.89.156.105:9982/stream/channelid/2089159895
-#EXTINF:-1,GOLDA:TLC
-http://183.89.156.105:9982/stream/channelid/1257362239
+http://42.191.224.181:9981/stream/channelid/1300486994
+#EXTINF:-1,HADAYA [KP]
+http://42.191.224.181:9981/stream/channelid/2004452606
+#EXTINF:-1,HOME CHANNEL [KP]
+http://42.191.224.181:9981/stream/channelid/22720420
 #EXTINF:-1,INSE
-http://183.89.156.105:9982/stream/channelid/949176977
-#EXTINF:-1,KBS
-http://183.89.156.105:9982/stream/channelid/776315466
-#EXTINF:-1,KNOW:SRES
-http://183.89.156.105:9982/stream/channelid/977596473
-#EXTINF:-1,KNOW:TSP2
-http://183.89.156.105:9982/stream/channelid/264073316
-#EXTINF:-1,KNOW:XZYT
-http://183.89.156.105:9982/stream/channelid/1933564118
-#EXTINF:-1,LKTG
-http://183.89.156.105:9982/stream/channelid/1497070905
+http://42.191.224.181:9981/stream/channelid/805571903
+#EXTINF:-1,JA TING JA
+http://42.191.224.181:9981/stream/channelid/269653348
+#EXTINF:-1,Khong Dee Thailand
+http://42.191.224.181:9981/stream/channelid/966902585
+#EXTINF:-1,KNOW:TSP2 [truevision]
+http://42.191.224.181:9981/stream/channelid/844572168
 #EXTINF:-1,LOCA
-http://183.89.156.105:9982/stream/channelid/1358416923
+http://42.191.224.181:9981/stream/channelid/58670194
+#EXTINF:-1,M Channel 8
+http://42.191.224.181:9981/stream/channelid/1632870584
 #EXTINF:-1,MCOT F
-http://183.89.156.105:9982/stream/channelid/962122767
+http://42.191.224.181:9981/stream/channelid/295288232
 #EXTINF:-1,MCOT HD
-http://183.89.156.105:9982/stream/channelid/762618790
+http://42.191.224.181:9981/stream/channelid/870417409
+#EXTINF:-1,MONEY
+http://42.191.224.181:9981/stream/channelid/204427561
 #EXTINF:-1,MONO
-http://183.89.156.105:9982/stream/channelid/1729687873
-#EXTINF:-1,MOVH
-http://183.89.156.105:9982/stream/channelid/10790712
-#EXTINF:-1,MVSN
-http://183.89.156.105:9982/stream/channelid/2014690230
+http://42.191.224.181:9981/stream/channelid/1123390693
+#EXTINF:-1,MTV Asia HD
+http://42.191.224.181:9981/stream/channelid/1760240940
+#EXTINF:-1,MTV China HD
+http://42.191.224.181:9981/stream/channelid/1954207577
+#EXTINF:-1,MTV SEA [KP]
+http://42.191.224.181:9981/stream/channelid/841344800
+#EXTINF:-1,MyTV [Cambodia]
+http://42.191.224.181:9981/stream/channelid/318551604
 #EXTINF:-1,NATION
-http://183.89.156.105:9982/stream/channelid/1969596865
+http://42.191.224.181:9981/stream/channelid/334463409
 #EXTINF:-1,NBT
-http://183.89.156.105:9982/stream/channelid/337042149
-#EXTINF:-1,NEW18
-http://183.89.156.105:9982/stream/channelid/461696299
-#EXTINF:-1,NICK
-http://183.89.156.105:9982/stream/channelid/1953877486
+http://42.191.224.181:9981/stream/channelid/800122248
+#EXTINF:-1,NEW TV
+http://42.191.224.181:9981/stream/channelid/1079479344
+#EXTINF:-1,NEWS 1
+http://42.191.224.181:9981/stream/channelid/1221321115
+#EXTINF:-1,NOW
+http://42.191.224.181:9981/stream/channelid/901600720
+#EXTINF:-1,O Shopping
+http://42.191.224.181:9981/stream/channelid/70897434
 #EXTINF:-1,ONE
-http://183.89.156.105:9982/stream/channelid/1699176071
-#EXTINF:-1,OUTD
-http://183.89.156.105:9982/stream/channelid/1210573065
-#EXTINF:-1,PHOX
-http://183.89.156.105:9982/stream/channelid/1622414480
+http://42.191.224.181:9981/stream/channelid/1937983711
+#EXTINF:-1,ONE HD
+http://42.191.224.181:9981/stream/channelid/334132456
+#EXTINF:-1,OUTDOOR CHANNEL
+http://42.191.224.181:9981/stream/channelid/397519522
+#EXTINF:-1,Peace TV
+http://42.191.224.181:9981/stream/channelid/855568308
 #EXTINF:-1,PLOOK
-http://183.89.156.105:9982/stream/channelid/85388389
+http://42.191.224.181:9981/stream/channelid/682551924
 #EXTINF:-1,PPTV
-http://183.89.156.105:9982/stream/channelid/707726364
+http://42.191.224.181:9981/stream/channelid/1273821044
+#EXTINF:-1,PPTV HD [Thai]
+http://42.191.224.181:9981/stream/channelid/782081032
+#EXTINF:-1,RAI ITALIA
+http://42.191.224.181:9981/stream/channelid/2026161408
 #EXTINF:-1,RAMA
-http://183.89.156.105:9982/stream/channelid/943661470
-#EXTINF:-1,REAL
-http://183.89.156.105:9982/stream/channelid/1046939659
-#EXTINF:-1,S BT
-http://183.89.156.105:9982/stream/channelid/119109440
-#EXTINF:-1,SME
-http://183.89.156.105:9982/stream/channelid/933869992
+http://42.191.224.181:9981/stream/channelid/1628997243
+#EXTINF:-1,RED BY HBO
+http://42.191.224.181:9981/stream/channelid/433431667
+#EXTINF:-1,RIA [astro]
+http://42.191.224.181:9981/stream/channelid/1265978863
+#EXTINF:-1,RTM 1
+http://42.191.224.181:9981/stream/channelid/1804151843
+#EXTINF:-1,RTM 2
+http://42.191.224.181:9981/stream/channelid/1623014982
+#EXTINF:-1,RTM Sports
+http://42.191.224.181:9981/stream/channelid/930374290
+#EXTINF:-1,Samurai
+http://42.191.224.181:9981/stream/channelid/1772473217
+#EXTINF:-1,Sanook
+http://42.191.224.181:9981/stream/channelid/1194562702
+#EXTINF:-1,Saudi1
+http://42.191.224.181:9981/stream/channelid/718699436
+#EXTINF:-1,SBB TV
+http://42.191.224.181:9981/stream/channelid/1282840152
+#EXTINF:-1,Shopping Channel
+http://42.191.224.181:9981/stream/channelid/874969389
+#EXTINF:-1,SHOPPING CHANNEL-1 [KP]
+http://42.191.224.181:9981/stream/channelid/262754685
+#EXTINF:-1,NET SPORTS 1 [KP]
+http://42.191.224.181:9981/stream/channelid/1980773610
+#EXTINF:-1,NET SPORTS 1 [server 2]
+http://42.191.224.181:9981/stream/channelid/39804976
+#EXTINF:-1,NET SPORTS 1 [server 3]
+http://42.191.224.181:9981/stream/channelid/2094030530
+#EXTINF:-1,NET SPORTS 2 [KP]
+http://42.191.224.181:9981/stream/channelid/1939132746
+#EXTINF:-1,NET SPORTS 2 [server 2]
+http://42.191.224.181:9981/stream/channelid/1503198030
+#EXTINF:-1,NET SPORTS 2 [server 3]
+http://42.191.224.181:9981/stream/channelid/209623674
+#EXTINF:-1,NET SPORTS 3 [KP]
+http://42.191.224.181:9981/stream/channelid/1268407029
+#EXTINF:-1,NET SPORTS 3 [server 2]
+http://42.191.224.181:9981/stream/channelid/1819333168
+#EXTINF:-1,NET SPORTS 3 [server 3]
+http://42.191.224.181:9981/stream/channelid/1768417330
+#EXTINF:-1,NET SPORTS 4 [KP]
+http://42.191.224.181:9981/stream/channelid/17784457
+#EXTINF:-1,NET SPORTS 4 [server 2]
+http://42.191.224.181:9981/stream/channelid/1094628187
+#EXTINF:-1,NET SPORTS 4 [server 3]
+http://42.191.224.181:9981/stream/channelid/1165947558
+#EXTINF:-1,NET SPORTS 5 [KP]
+http://42.191.224.181:9981/stream/channelid/565990336
+#EXTINF:-1,NET SPORTS 5 [server 2]
+http://42.191.224.181:9981/stream/channelid/1625792590
+#EXTINF:-1,NET SPORTS 5 [server 3]
+http://42.191.224.181:9981/stream/channelid/306446212
+#EXTINF:-1,NET SPORTS 6 [KP]
+http://42.191.224.181:9981/stream/channelid/881359772
+#EXTINF:-1,NET SPORTS 6 [server 2]
+http://42.191.224.181:9981/stream/channelid/528620237
+#EXTINF:-1,NET SPORTS 6 [server 3]
+http://42.191.224.181:9981/stream/channelid/1171541144
+#EXTINF:-1,NET SPORTS HD [KP]
+http://42.191.224.181:9981/stream/channelid/1481661564
+#EXTINF:-1,NET SPORTS HD [server 2]
+http://42.191.224.181:9981/stream/channelid/1630121122
+#EXTINF:-1,NET SPORTS HD [server 3]
+http://42.191.224.181:9981/stream/channelid/685208971
+#EXTINF:-1,NET SPORTS PLUS [KP]
+http://42.191.224.181:9981/stream/channelid/234704974
+#EXTINF:-1,NET SPORTS PLUS [server 2]
+http://42.191.224.181:9981/stream/channelid/1390025258
+#EXTINF:-1,NET SPORTS PLUS [server 3]
+http://42.191.224.181:9981/stream/channelid/634925245
+#EXTINF:-1,SMM TV [Thai]
+http://42.191.224.181:9981/stream/channelid/510835512
+#EXTINF:-1,Sony Max
+http://42.191.224.181:9981/stream/channelid/893390189
 #EXTINF:-1,SP NEWS
-http://183.89.156.105:9982/stream/channelid/949503256
-#EXTINF:-1,SPK JUMP
-http://183.89.156.105:9982/stream/channelid/408416423
-#EXTINF:-1,SPK PLAY
-http://183.89.156.105:9982/stream/channelid/449838626
-#EXTINF:-1,SPRING 26
-http://183.89.156.105:9982/stream/channelid/1388513312
-#EXTINF:-1,SPT
-http://183.89.156.105:9982/stream/channelid/1051316387
-#EXTINF:-1,TCCN
-http://183.89.156.105:9982/stream/channelid/703549059
-#EXTINF:-1,TFLM
-http://183.89.156.105:9982/stream/channelid/1098222168
+http://42.191.224.181:9981/stream/channelid/2028079334
+#EXTINF:-1,Sports tv 1
+http://42.191.224.181:9981/stream/channelid/216428733
+#EXTINF:-1,Sports tv 3
+http://42.191.224.181:9981/stream/channelid/463515478
+#EXTINF:-1,Sports tv 4
+http://42.191.224.181:9981/stream/channelid/824252872
+#EXTINF:-1,Sports tv 5
+http://42.191.224.181:9981/stream/channelid/1243639672
+#EXTINF:-1,Sports tv plus
+http://42.191.224.181:9981/stream/channelid/582901148
+#EXTINF:-1,STAR USTAV
+http://42.191.224.181:9981/stream/channelid/332375204
+#EXTINF:-1,Sun TV
+http://42.191.224.181:9981/stream/channelid/685639171
 #EXTINF:-1,TH RATH
-http://183.89.156.105:9982/stream/channelid/82543519
+http://42.191.224.181:9981/stream/channelid/1934941555
+#EXTINF:-1,Thairath TV HD [Thai]
+http://42.191.224.181:9981/stream/channelid/47902129
 #EXTINF:-1,THV
-http://183.89.156.105:9982/stream/channelid/1809175808
-#EXTINF:-1,TMUS
-http://183.89.156.105:9982/stream/channelid/683400967
+http://42.191.224.181:9981/stream/channelid/76816661
 #EXTINF:-1,TNN2
-http://183.89.156.105:9982/stream/channelid/1551848864
+http://42.191.224.181:9981/stream/channelid/1308945729
 #EXTINF:-1,TNN24
-http://183.89.156.105:9982/stream/channelid/1543534752
+http://42.191.224.181:9981/stream/channelid/795939037
 #EXTINF:-1,TNN24
-http://183.89.156.105:9982/stream/channelid/2027905220
+http://42.191.224.181:9981/stream/channelid/731550632
 #EXTINF:-1,TPBS
-http://183.89.156.105:9982/stream/channelid/1790860142
+http://42.191.224.181:9981/stream/channelid/2117301430
 #EXTINF:-1,TPTV
-http://183.89.156.105:9982/stream/channelid/664853772
-#EXTINF:-1,TRUE4U
-http://183.89.156.105:9982/stream/channelid/552147295
-#EXTINF:-1,TSEL
-http://183.89.156.105:9982/stream/channelid/1151946090
-#EXTINF:-1,TSHOP
-http://183.89.156.105:9982/stream/channelid/189604927
-#EXTINF:-1,TSP5
-http://183.89.156.105:9982/stream/channelid/1550807814
-#EXTINF:-1,TSP6
-http://183.89.156.105:9982/stream/channelid/545523571
-#EXTINF:-1,TSP7
-http://183.89.156.105:9982/stream/channelid/1774565130
-#EXTINF:-1,TTCH
-http://183.89.156.105:9982/stream/channelid/38669290
+http://42.191.224.181:9981/stream/channelid/509981379
+#EXTINF:-1,True Premier 1 HD
+http://42.191.224.181:9981/stream/channelid/1971112576
+#EXTINF:-1,True Premier 1 HD
+http://42.191.224.181:9981/stream/channelid/55909690
+#EXTINF:-1,True Premier 2 HD
+http://42.191.224.181:9981/stream/channelid/971446129
+#EXTINF:-1,True Premier 2 HD
+http://42.191.224.181:9981/stream/channelid/113648438
+#EXTINF:-1,True4U
+http://42.191.224.181:9981/stream/channelid/856994188
+#EXTINF:-1,True4U [Thai]
+http://42.191.224.181:9981/stream/channelid/725705053
+#EXTINF:-1,TSP5 [truevision]
+http://42.191.224.181:9981/stream/channelid/998168074
+#EXTINF:-1,TSP6 [truevision]
+http://42.191.224.181:9981/stream/channelid/1094407157
+#EXTINF:-1,TSP7 [truevision]
+http://42.191.224.181:9981/stream/channelid/1647320636
+#EXTINF:-1,TV3 [astro]
+http://42.191.224.181:9981/stream/channelid/658049992
+#EXTINF:-1,TV3HD [astro]
+http://42.191.224.181:9981/stream/channelid/179389767
+#EXTINF:-1,TV5 [Cambodia]
+http://42.191.224.181:9981/stream/channelid/348616142
+#EXTINF:-1,TV5 HD1
+http://42.191.224.181:9981/stream/channelid/618510441
+#EXTINF:-1,TV5 MONDE
+http://42.191.224.181:9981/stream/channelid/755716899
 #EXTINF:-1,TV5HD1
-http://183.89.156.105:9982/stream/channelid/357095850
-#EXTINF:-1,TVN
-http://183.89.156.105:9982/stream/channelid/1590957696
-#EXTINF:-1,VERY
-http://183.89.156.105:9982/stream/channelid/233070908
+http://42.191.224.181:9981/stream/channelid/606664754
+#EXTINF:-1,TV5MONDE STYLE HD
+http://42.191.224.181:9981/stream/channelid/1247620691
+#EXTINF:-1,TVD
+http://42.191.224.181:9981/stream/channelid/285251836
+#EXTINF:-1,TVE INT ASIA
+http://42.191.224.181:9981/stream/channelid/10085019
+#EXTINF:-1,View World
+http://42.191.224.181:9981/stream/channelid/392417823
 #EXTINF:-1,VOICE
-http://183.89.156.105:9982/stream/channelid/1259164536
+http://42.191.224.181:9981/stream/channelid/1152947462
+#EXTINF:-1,Voice TV
+http://42.191.224.181:9981/stream/channelid/939876190
+#EXTINF:-1,WARNA [astro]
+http://42.191.224.181:9981/stream/channelid/1041507157
+#EXTINF:-1,WBTV
+http://42.191.224.181:9981/stream/channelid/1282762584
+#EXTINF:-1,White Channel
+http://42.191.224.181:9981/stream/channelid/937326725
+#EXTINF:-1,Wion
+http://42.191.224.181:9981/stream/channelid/1520430025
+#EXTINF:-1,WISH
+http://42.191.224.181:9981/stream/channelid/688134912
+#EXTINF:-1,Workpoint TV
+http://42.191.224.181:9981/stream/channelid/751135656
 #EXTINF:-1,WP TV
-http://183.89.156.105:9982/stream/channelid/1975151202
-
-
+http://42.191.224.181:9981/stream/channelid/256895249
+#EXTINF:-1,YaTeemTV
+http://42.191.224.181:9981/stream/channelid/161137444
+#EXTINF:-1,ZEE TV
+http://42.191.224.181:9981/stream/channelid/908296530
 
 
 
@@ -2466,42 +2665,45 @@ http://fxzb.bbwqg.cn/proxy/box.php?id=10
 
 
 #EXTINF:-1,33148---------------
-http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33148
+http://mu01.v5iptv.com:8880/live/test3/PRz6WDQGs4/33148
 #EXTINF:-1,33149
-http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33149
+http://mu01.v5iptv.com:8880/live/test3/PRz6WDQGs4/33149
 #EXTINF:-1,33150
-http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33150
+http://mu01.v5iptv.com:8880/live/test3/PRz6WDQGs4/33150
 #EXTINF:-1,33151
-http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33151
+http://mu01.v5iptv.com:8880/live/test3/PRz6WDQGs4/33151
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gsoilhg.jpg" group-title="XXX",JAV_Pandora_Pink_Pink_33152
-http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33152
+http://mu01.v5iptv.com:8880/live/test3/PRz6WDQGs4/33152
 #EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",JAV_SonSee1 TV_33153
-http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33153
+http://mu01.v5iptv.com:8880/live/test3/PRz6WDQGs4/33153
 #EXTINF:-1,JAV_Film_33154
-http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33154
+http://mu01.v5iptv.com:8880/live/test3/PRz6WDQGs4/33154
 #EXTINF:-1,Pink_Shoe_33155
-http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33155
+http://mu01.v5iptv.com:8880/live/test3/PRz6WDQGs4/33155
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",JAV_SonSee2_33156
-http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33156
+http://mu01.v5iptv.com:8880/live/test3/PRz6WDQGs4/33156
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v99U3JE.png" group-title="XXX",JAV_AmezingTV_33157
-http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33157
+http://mu01.v5iptv.com:8880/live/test3/PRz6WDQGs4/33157
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1kB5Mk6.png" group-title="XXX",JAV_etv_33158
-http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33158
+http://mu01.v5iptv.com:8880/live/test3/PRz6WDQGs4/33158
 #EXTINF:-1,Pandora_Perfect_33159
-http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33159
+http://mu01.v5iptv.com:8880/live/test3/PRz6WDQGs4/33159
 #EXTINF:-1,33160
-http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33160
+http://mu01.v5iptv.com:8880/live/test3/PRz6WDQGs4/33160
 #EXTINF:-1,33161
-http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33161
+http://mu01.v5iptv.com:8880/live/test3/PRz6WDQGs4/33161
 #EXTINF:-1,33162
-http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33162
+http://mu01.v5iptv.com:8880/live/test3/PRz6WDQGs4/33162
 
 
-#EXTINF:-1,33157_amzlive_test
+#EXTINF:-1,33157_v2iptv_old
 http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33157
-
-
-
+#EXTINF:-1,33157_amzlive_old
+http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33157
+#EXTINF:-1,33090_v5iptv_test
+http://mu01.v5iptv.com:8880/live/test3/PRz6WDQGs4/33090.m3u8
+#EXTINF:-1,33157_xtiptv.xyz:25461_test
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33157.m3u8
 
 
 
@@ -2733,12 +2935,7 @@ http://176.67.198.12:4068/udp/239.1.1.141:22141
 #EXTINF:-1,DaVinci Learning_RO
 http://46.214.187.66:6464/play/a08f/index.m3u8
 
-#EXTINF:-1,BBC Earth HD-RO---------
-http://85.186.97.54:9981/stream/channelid/250
-#EXTINF:-1,BBC Earth HD
-http://85.186.97.54:9981/stream/channelid/242
-#EXTINF:-1,DaVinci Learning
-http://85.186.97.54:9981/stream/channelid/106
+
 
 
 
@@ -2882,20 +3079,31 @@ http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
 
 
 
-#EXTINF:-1,ASIAN F--------------
-http://183.89.156.105:9982/stream/channelid/2005127555
-#EXTINF:-1,EXPSCI
-http://183.89.156.105:9982/stream/channelid/999834938
-#EXTINF:-1,Samrujlok HD
+
+#EXTINF:-1,Samrujlok HD-------------
 http://49.49.7.65:9981/stream/channelid/305174116
 #EXTINF:-1,Da Vinci
 http://49.49.7.65:9981/stream/channelid/2062451704
 #EXTINF:-1,MySci
 http://49.49.7.65:9981/stream/channelid/572724841
+#EXTINF:-1,AFC [KP]----------
+http://42.191.224.181:9981/stream/channelid/787203198
+#EXTINF:-1,Da Vinci
+http://42.191.224.181:9981/stream/channelid/936296436
+#EXTINF:-1,DISCOVERY ASIA HD [KP]
+http://42.191.224.181:9981/stream/channelid/1905171223
+#EXTINF:-1,TH movies
+http://203.154.243.89:2037
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NsN3Ox9.png",Asian Food Channel s1----------------
+http://mytv.tranvinh.tk:6868/rtp/232.84.2.129:9570
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NsN3Ox9.png",Asian Food Channel s2
+http://smaxplay.ddns.net:4022/rtp/232.84.2.129:9570
+#EXTINF:-1 tvg-logo="https://api.mytvnet.vn/static/channel/148.png",Da Vinci Learning HD s1
+http://mytv.tranvinh.tk:6868/rtp/232.84.2.131:9582
+#EXTINF:-1,DA VINCI LEARNING
+http://fpt.vanthanh.cf:8889/udp/225.1.1.197:30120
 
 
 #EXTINF:-1 tvg-logo="https://tastytradepublicmedia.s3.amazonaws.com/assets/logos/tt-logo-original-05e5dd25021223dff0203915ecdc9375.png" group-title="USA",TastyTrade----------
@@ -2911,10 +3119,7 @@ http://210.210.155.35/uq2663/h/h10/01.m3u8
 http://211.245.55.198:22514/m2u/239.192.69.237:49220
 #EXTINF:-1,BBC earth
 http://211.245.55.198:22514/m2u/239.192.69.165:49220
-#EXTINF:-1,UHD Dream TV
-http://211.245.55.198:22514/m2u/239.192.81.37:49220
-#EXTINF:-1,Asia UHD
-http://211.245.55.198:22514/m2u/239.192.81.36:49220
+
 
 
 #EXTINF:-1,Russian Night
@@ -2948,9 +3153,8 @@ http://178.124.183.14:80/hls/CH_NYARTTV/variant.m3u8
 http://178.124.183.15:80/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV5
 http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV_ebanonet
-http://painel.ebanonet.com.br:25461/Thamyres/Thamyres123/26628?xxx
-
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV_network-star
+http://network-star.com:14000/live/Gregorygarcia/PxZpdNWhaQ/345.m3u8
 
 
 #EXTINF:-1,Taiwan Stories-----
@@ -3083,7 +3287,8 @@ http://14.182.131.185:8989/rtp/232.84.2.202:10996
 
 #EXTINF:-1,CNBC_th---
 http://180.183.112.174:8000/play/a03n
-
+#EXTINF:-1,CNBC
+http://42.191.224.181:9981/stream/channelid/1067836113
 
 
 
