@@ -2378,6 +2378,8 @@ http://23.237.33.155:5023/live/266?pid=WODWCYFFDXTQ@5247MXC&begblock=0&startdela
 http://23.237.33.155:5023/live/267?pid=WODWCYFFDXTQ@5247MXC&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
 #EXTINF:-1,SonSee TV3_php
 http://23.237.33.155:5023/live/268?pid=WODWCYFFDXTQ@5247MXC&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+#EXTINF:-1,SonSee TV3_268
+http://23.237.33.155:5023/live/268.m3u8
 #EXTINF:-1,269
 http://23.237.33.155:5023/live/269?pid=WODWCYFFDXTQ@5247MXC&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
 #EXTINF:-1,270
@@ -2417,33 +2419,72 @@ http://fxzb.bbwqg.cn/proxy/box.php?id=10
 
 
 
-#EXTINF:-1,33148---------------
+
+
+#EXTINF:-1,33130---------------
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33130
+#EXTINF:-1,33131
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33131
+#EXTINF:-1,33132
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33132
+#EXTINF:-1,33133
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33133
+#EXTINF:-1,33134
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33134
+#EXTINF:-1,33135
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33135
+#EXTINF:-1,33136
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33136
+#EXTINF:-1,33137
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33137
+#EXTINF:-1,33138
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33138
+#EXTINF:-1,33139
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33139
+#EXTINF:-1,33140
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33140
+#EXTINF:-1,33141
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33141
+#EXTINF:-1,33142
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33142
+#EXTINF:-1,33143
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33143
+#EXTINF:-1,33144
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33144
+#EXTINF:-1,33145
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33145
+#EXTINF:-1,33146
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33146
+#EXTINF:-1,33147
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33147
+#EXTINF:-1,XY Mix_33148---------------
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33148
-#EXTINF:-1,33149
+#EXTINF:-1,XY Max_33149
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33149
-#EXTINF:-1,33150
+#EXTINF:-1,XY Plus_33150
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33150
-#EXTINF:-1,33151
+#EXTINF:-1,Sextream_33151
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33151
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gsoilhg.jpg" group-title="XXX",JAV_Pandora_Pink_Pink_33152
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gsoilhg.jpg" group-title="XXX",JAV_Pandora_Pink_Pink_33152-----------
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33152
-#EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",JAV_SonSee1 TV_33153
+#EXTINF:-1,JAV_Happy Ch_33153
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33153
-#EXTINF:-1,JAV_Film_33154
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1kB5Mk6.png" group-title="XXX",JAV_etv_33154
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33154
 #EXTINF:-1,Pink_Shoe_33155
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33155
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",JAV_SonSee2_33156
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33156
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v99U3JE.png" group-title="XXX",JAV_AmezingTV_33157--------
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v99U3JE.png" group-title="XXX",JAV_AmezingTV_33157
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1kB5Mk6.png" group-title="XXX",JAV_etv_33158
+#EXTINF:-1,JAV_Film_33158
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33158
 #EXTINF:-1,Pandora_Perfect_33159
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33159
-#EXTINF:-1,33160
+#EXTINF:-1,SonSee TV3_33160
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33160
-#EXTINF:-1,33161
+#EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",JAV_SonSee1 TV_33161
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33161
 #EXTINF:-1,33162
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33162
@@ -2844,8 +2885,6 @@ http://49.49.7.65:9981/stream/channelid/572724841
 
 #EXTINF:-1,TH movies-----------
 http://203.154.243.89:2037
-#EXTINF:-1,Film
-http://hhhshop.co:83/live/3X9hfAnV/X5qD8byZ/375655.m3u8
 #EXTINF:-1,Royaltv
 http://source2.primetime.ch:2981/play/royaltv/index.m3u8
 
@@ -2867,10 +2906,18 @@ http://211.245.55.198:22514/m2u/239.192.69.237:49220
 http://211.245.55.198:22514/m2u/239.192.69.165:49220
 
 
-
-
-#EXTINF:-1,XY max
+#EXTINF:-1,BHot
+http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/18424_.m3u8
+#EXTINF:-1,SextoSenso
+http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/18425_.m3u8
+#EXTINF:-1,PassionXXX
+http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/1282_.m3u8
+#EXTINF:-1,HustlerTV
+http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/1279_.m3u8
+#EXTINF:-1,XY Max
 http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/2766_.m3u8
+#EXTINF:-1,XY Plus
+http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/208_.m3u8
 
 #EXTINF:-1,Russian Night
 http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2
@@ -3004,7 +3051,7 @@ http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/knyzqhB.png",CNBC_World
 http://92.43.140.249/s65/04.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/knyzqhB.png",CNBC_persik
-http://persik.by/stream/1017/402000/10473.m3u8
+http://persik.by/stream/2816/398886/10473.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/knyzqhB.png",CNBC Europe_RO
 http://46.214.187.66:6464/play/a09e/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/53EgUZN.png",CNBC_HD
