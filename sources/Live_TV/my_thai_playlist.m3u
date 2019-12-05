@@ -2038,7 +2038,47 @@ http://fxzb.bbwqg.cn/proxy/box.php?id=10
 
 
 
-#EXTINF:-1,33089----------------
+#EXTINF:-1,33069---------------------
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33069
+#EXTINF:-1,33070
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33070
+#EXTINF:-1,33071
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33071
+#EXTINF:-1,33072
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33072
+#EXTINF:-1,33073
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33073
+#EXTINF:-1,33074
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33074
+#EXTINF:-1,33075
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33075
+#EXTINF:-1,33076
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33076
+#EXTINF:-1,33077
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33077
+#EXTINF:-1,33078
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33078
+#EXTINF:-1,33079
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33079
+#EXTINF:-1,33080
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33080
+#EXTINF:-1,33081
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33081
+#EXTINF:-1,33082
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33082
+#EXTINF:-1,33083
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33083
+#EXTINF:-1,33084
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33084
+#EXTINF:-1,33085
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33085
+#EXTINF:-1,33086
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33086
+#EXTINF:-1,33087
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33087
+#EXTINF:-1,33088
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33088
+#EXTINF:-1,33089
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33089
 #EXTINF:-1,33090
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33090
@@ -2228,10 +2268,7 @@ http://mu01.v5iptv.com:8880/JD6M0333/SvdYYotpvx/33154
 #EXTINF:-1,33154_v5iptv_ON
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33154
 
-#EXTINF:-1,33154_178.132.7.106---test
-http://178.132.7.106:8880/XLcktZMHNC/Y8SWUcvPYh/33154
-#EXTINF:-1,smartlista---test
-http://painel.smartlista.org:8880/u7ms3t5qge/f159xg24tn/33154
+
 
 #EXTINF:-1,YU150:Da Vinci Learning
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/49176
@@ -2466,7 +2503,8 @@ http://89.45.201.132:2222/udp/224.0.0.3:708
 http://176.67.198.12:4068/udp/239.1.1.141:22141
 #EXTINF:-1,DaVinci Learning_RO
 http://46.214.187.66:6464/play/a08f/index.m3u8
-
+#EXTINF:-1,DaVinci Learning_UKR
+http://213.174.8.7:11111/index.m3u8
 
 
 
@@ -2630,7 +2668,7 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1,E4
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-e4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="eentertainment.id" tvg-logo="https://i.imgur.com/fnm3Jta.jpg?1" group-title="6-Entertainment",E! [ID]
-http://210.210.155.35/uq2663/h/h10/01.m3u8
+http://203.207.56.228/live/iptv003.m3u8
 
 #EXTINF:-1,E! Entertainment--------------
 http://211.245.55.198:22514/m2u/239.192.69.237:49220
@@ -2685,7 +2723,6 @@ https://wowzaprodhd28-lh.akamaihd.net/i/a74135ef_1@577349/master.m3u8
 https://wowzaprodhd17-lh.akamaihd.net/i/46021e1e_1@576535/master.m3u8
 #EXTINF:-1,4_NZ
 http://43.224.120.99:8080/four/four_1000k.m3u8
-
 #EXTINF:-1,SBS Food
 http://124.168.134.41:9981/stream/channelid/1297967186
 
@@ -2810,7 +2847,7 @@ http://14.237.190.36:2806/rtp/232.84.1.117:10254
 http://180.183.112.174:8000/play/a03n
 
 
-http://persik.by/stream/1017/402000/10473.m3u8
+
 
 
 
