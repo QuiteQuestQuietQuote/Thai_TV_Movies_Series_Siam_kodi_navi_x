@@ -2039,26 +2039,7 @@ http://fxzb.bbwqg.cn/proxy/box.php?id=10
 
 
 
-#EXTINF:-1,33060--------------
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33060
-#EXTINF:-1,33061
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33061
-#EXTINF:-1,33062
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33062
-#EXTINF:-1,33063
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33063
-#EXTINF:-1,33064
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33064
-#EXTINF:-1,33065
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33065
-#EXTINF:-1,33066
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33066
-#EXTINF:-1,33067
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33067
-#EXTINF:-1,33068
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33068
-#EXTINF:-1,33069
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33069
+
 #EXTINF:-1,33070---------------
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33070
 #EXTINF:-1,33071
@@ -2730,6 +2711,22 @@ http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 http://network-star.com:14000/live/Gregorygarcia/PxZpdNWhaQ/345.m3u8
 
 
+#EXTINF:-1,Dreamgirls24 TV temp
+http://79.115.46.90:9981/stream/channelid/815555032
+#EXTINF:-1,EROTIKA TV – NEU!
+http://79.115.46.90:9981/stream/channelid/1479745550
+#EXTINF:-1,Erotiksat24 TV temp
+http://79.115.46.90:9981/stream/channelid/996820488
+#EXTINF:-1,Heiss und Sexy TV
+http://79.115.46.90:9981/stream/channelid/846326803
+#EXTINF:-1,Mobile Sex
+http://79.115.46.90:9981/stream/channelid/627312042
+#EXTINF:-1,Beate Uhse HD
+http://79.115.46.90:9981/stream/channelid/2069480987
+#EXTINF:-1,INSIGHT TV UHD
+http://79.115.46.90:9981/stream/channelid/1519040076
+
+
 #EXTINF:-1,Taiwan Stories-----
 http://61.58.60.230:9319/live/204.m3u8
 #EXTINF:-1,DaAi2
@@ -2810,6 +2807,8 @@ https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg News + info
 http://45.126.83.51/uq2663/h/h03/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg News + info---test
+http://210.210.155.66/h/h03/02.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News + info_39464
 http://89.38.8.130:39464
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News + info
@@ -2861,9 +2860,12 @@ http://180.183.112.174:8000/play/a03n
 
 
 
-
-
-
+#EXTINF:-1,CNBC Europe
+http://79.115.46.90:9981/stream/channelid/72391899
+#EXTINF:-1,CNBC HD
+http://79.115.46.90:9981/stream/channelid/812727498
+#EXTINF:-1,CNBC
+https://89.187.173.182/CNBC/mono.m3u8
 
 
 
