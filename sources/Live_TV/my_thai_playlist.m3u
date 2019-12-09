@@ -2653,6 +2653,10 @@ http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
 http://203.154.243.89:2037
 #EXTINF:-1,TH Warner
 http://203.154.177.124:8899/live/ch12/playlist.m3u8
+#EXTINF:-1,TH WARNER HD
+http://203.154.243.89:11205
+#EXTINF:-1,TH WORLD ANIMAL HD
+http://203.154.243.89:1201
 #EXTINF:-1,Royaltv
 http://source2.primetime.ch:2981/play/royaltv/index.m3u8
 
@@ -2796,7 +2800,7 @@ https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg News + info
 http://45.126.83.51/uq2663/h/h03/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg News + info---test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg News + info
 http://210.210.155.66/h/h03/02.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News + info_39464
 http://89.38.8.130:39464
@@ -2843,6 +2847,8 @@ http://14.182.131.185:8989/rtp/232.84.2.177:10488
 http://1.52.243.130:4022/udp/225.1.2.249:30120
 #EXTINF:-1,VTV1 HD (HD 8Mbps)_rtp2806
 http://14.237.190.36:2806/rtp/232.84.1.117:10254
+#EXTINF:-1,CNBC_VN
+http://203.162.235.41:16919
 
 #EXTINF:-1,CNBC_th---
 http://180.183.112.174:8000/play/a03n
@@ -2850,7 +2856,6 @@ http://180.183.112.174:8000/play/a03n
 
 #EXTINF:-1,CNBC
 https://89.187.173.182/CNBC/mono.m3u8
-
 
 
 
