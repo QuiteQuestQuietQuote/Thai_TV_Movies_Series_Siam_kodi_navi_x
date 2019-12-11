@@ -99,22 +99,22 @@ URL=
 
 
 type=video
-name=midsommar 2019 directors cut 1080p bluray x264-cadaver
+name=A Rainy Day in New York 2019 1080p BluRay AAC-RARBG
 thumb=
 date=2019-07-08
-URL=https://vidoza.net/vnt6zydl5v87.html
+URL=https://vidoza.net/1o6r1kgbr26g.html
 
 type=video
-name=Saving Flora 2018 1080p BluRay AAC-RARBG
+name=The.Little.Witch.2018.DUBBED.1080p.BluRay.H264.AAC-RARBG.mp4
 thumb=
 date=2019-01-03
-URL=https://streamz.cc/fdm51ODd4aXNrMGkxZXgw
+URL=https://streamz.cc/fdjk5azhqODZzaDVpZXgw
 
 type=video
-name=The.Goldfinch.2019.1080p.BluRay.x264-GECKOS[EtHD].mkv.mp4
-thumb=
+name=Earthquake Bird (2019)
+thumb=https://dash.fembed.com/asset/userdata/311311/poster/6/-z/6-zldt0xj44-53x.png?v=1574615241
 date=2019-06-28
-URL=https://www.fembed.com/v/dlzdrtxq0yywdgr#The.Goldfinch.2019.1080p.BluRay.x264-GECKOS[EtHD].mkv.mp4
+URL=https://www.fembed.com/v/6-zldt0xj44-53x
 
 
 
