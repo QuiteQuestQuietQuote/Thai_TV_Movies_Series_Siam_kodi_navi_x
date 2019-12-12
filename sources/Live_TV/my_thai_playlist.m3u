@@ -2776,7 +2776,12 @@ http://211.245.55.198:22514/m2u/239.192.69.237:49220
 #EXTINF:-1,BBC earth
 http://211.245.55.198:22514/m2u/239.192.69.165:49220
 
-
+#EXTINF:-1,BBC earth---test
+http://95.216.2.179/live/558213/688012/233/21725
+#EXTINF:-1,BBC earth
+http://95.216.2.179/live/558213/688012/233/21724
+#EXTINF:-1,BBC
+http://95.216.2.179/live/558213/688012/233/21723
 
 
 #EXTINF:-1,Russian Night
@@ -2828,7 +2833,6 @@ https://wowzaprodhd17-lh.akamaihd.net/i/46021e1e_1@576535/master.m3u8
 http://43.224.120.99:8080/four/four_1000k.m3u8
 #EXTINF:-1,SBS Food
 http://124.168.134.41:9981/stream/channelid/1297967186
-
 
 
 
