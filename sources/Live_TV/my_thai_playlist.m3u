@@ -2445,6 +2445,10 @@ http://r05.wscdn.hls.xiaoka.tv/live/c3c7ee74c203fdbd259f707e5087622f/playlist.m3
 https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_dvr2
 https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1
+https://58.99.80.49:441/free/Stream1/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2
+https://58.99.80.49:441/free/Stream2/chunks.m3u8
 #EXTINF:-1,Ibiza TV1_119--------------------------
 http://119.81.168.227:1935/lfh/Stream1/playlist.m3u8
 #EXTINF:-1,Ibiza TV2_119
@@ -2780,7 +2784,7 @@ http://211.245.55.198:22514/m2u/239.192.69.165:49220
 http://95.216.2.179/live/558213/688012/233/21725
 #EXTINF:-1,BBC earth
 http://95.216.2.179/live/558213/688012/233/21724
-#EXTINF:-1,BBC
+#EXTINF:-1,BBC Brit
 http://95.216.2.179/live/558213/688012/233/21723
 
 
@@ -2867,8 +2871,12 @@ https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-
 
 #EXTINF:-1,grtn
 http://nclive.grtn.cn/4K/sd/live.m3u8
+#EXTINF:-1,CHC-HD
+rtmp://ivi.bupt.edu.cn/livetv/chchd
 #EXTINF:-1 group-title="docu" tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/02/CGTN_Documentary_logo-1.png",CGTN Documentary--------------------------
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/02/CGTN_Documentary_logo-1.png",CGTN Documentary---cctv-d
+http://live.cgtn.com/cctv-d.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/02/CGTN_Documentary_logo-1.png",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png",CGTN
@@ -2951,19 +2959,19 @@ http://113.172.65.238:2806/rtp/232.84.2.177:10488
 http://1.52.243.130:4022/udp/225.1.2.249:30120
 #EXTINF:-1,VTV1_rtp2806
 http://113.172.65.238:2806/rtp/232.84.1.27:8136
+
 #EXTINF:-1,CNBC_VN
 http://203.162.235.41:16919
 
 #EXTINF:-1,CNBC_th---
 http://183.88.60.85:8000/play/a03n
-
-
 #EXTINF:-1,CNBC
 https://89.187.173.182/CNBC/mono.m3u8
 
 
 
-
+#EXTINF:-1,CNBC
+http://115.192.29.217:10800/stream/channelid/1444531183
 
 
 
