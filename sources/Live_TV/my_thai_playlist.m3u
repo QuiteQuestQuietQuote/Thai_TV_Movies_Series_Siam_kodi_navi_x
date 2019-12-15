@@ -2675,6 +2675,11 @@ http://113.172.65.238:2806/rtp/232.84.2.131:9582
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",DISCOVERY ASIA_VN_rtp
 http://113.172.65.238:2806/rtp/232.84.2.53:10528
 
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN---test
+http://203.162.235.41:9570
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN
+http://203.162.235.41:9582
+
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp-------test2806
 http://14.252.211.116:2806/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
@@ -2965,8 +2970,7 @@ http://1.52.243.130:4022/udp/225.1.2.249:30120
 #EXTINF:-1,VTV1_rtp2806
 http://113.172.65.238:2806/rtp/232.84.1.27:8136
 
-#EXTINF:-1,VTC1 HD_rtp4022
-http://113.172.29.73:4022/rtp/232.84.3.102:10846
+
 
 
 #EXTINF:-1,CNBC_VN
@@ -2979,8 +2983,7 @@ https://89.187.173.182/CNBC/mono.m3u8
 
 
 
-#EXTINF:-1,CNBC
-http://115.192.29.217:10800/stream/channelid/1444531183
+
 
 
 
