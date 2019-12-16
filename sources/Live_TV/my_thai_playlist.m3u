@@ -1914,6 +1914,8 @@ rtmp://62.210.55.60/stream3xVJ/3x20
 rtmp://62.210.55.60/stream3xVJ/3x32
 #EXTINF:-1,redtraffic_milf-----------------------------
 http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1,redtraffic_vintage
+http://live.redtraffic.xyz/vintage.m3u8
 #EXTINF:-1,redtraffic_fetish
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1,redtraffic_bigtits
@@ -1938,6 +1940,8 @@ http://live.redtraffic.xyz/latina.m3u8
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1,redtraffic_hardcore
 http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1,redtraffic_bdsm
+http://live.redtraffic.xyz/bdsm.m3u8
 #EXTINF:-1,redtraffic_bigass
 http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1,redtraffic_cuckold
@@ -2483,8 +2487,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagescdn2.swigit.com/LiveChannels/Logo/a3bikini" group-title="Adult IPTV",A3 Bikini
 http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="Adult IPTV",Eye Candy
-https://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=abyvf6f7c3skho4fkbj2demm10
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Jasmin-TV.png",Jasmin Tv 
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Jasmin-TV.png",Jasmin Tv 
@@ -2495,6 +2497,10 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w199100510_b2
 http://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_b1896000.m3u8?fluxuslust.m3u8
 #EXTINF:-1,Models Inc.
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="Adult IPTV",Eye Candy
+https://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=abyvf6f7c3skho4fkbj2demm10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="Adult IPTV",pluto_Eye Candy2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=315c3556-332a-4996-806f-765ee9db752b&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
 
 
