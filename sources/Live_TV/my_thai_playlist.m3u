@@ -2602,8 +2602,7 @@ http://89.45.201.132:2222/udp/224.0.0.3:708
 
 #EXTINF:-1, DaVinci Learning--------
 http://176.67.198.12:4068/udp/239.1.1.141:22141
-#EXTINF:-1,DaVinci Learning_UKR
-http://213.174.8.7:11111/index.m3u8
+
 
 
 
@@ -2681,25 +2680,7 @@ http://113.172.65.238:2806/rtp/232.84.2.131:9582
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",DISCOVERY ASIA_VN_rtp
 http://113.172.65.238:2806/rtp/232.84.2.53:10528
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN---test
-http://203.162.235.41:9570
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN
-http://203.162.235.41:9582
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp-------test2806
-http://14.252.211.116:2806/rtp/232.84.2.129:9570
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://14.252.211.116:2806/rtp/232.84.2.131:9582
-
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp-------test4022
-http://14.170.83.219:4022/rtp/232.84.2.129:9570
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://14.170.83.219:4022/rtp/232.84.2.131:9582
-
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp-------test4022_2
-http://113.172.29.73:4022/rtp/232.84.2.129:9570
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://113.172.29.73:4022/rtp/232.84.2.131:9582
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_th----------------
@@ -2803,6 +2784,9 @@ http://95.216.2.179/live/558213/688012/233/21724
 #EXTINF:-1,BBC Brit
 http://95.216.2.179/live/558213/688012/233/21723
 
+#EXTINF:-1,BBC earth---BGD
+http://103.118.76.229:1935/tvprogram/BBC-EARTH/playlist.m3u8
+
 
 #EXTINF:-1,Russian Night
 http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2
@@ -2887,6 +2871,8 @@ https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-
 
 #EXTINF:-1,grtn
 http://nclive.grtn.cn/4K/sd/live.m3u8
+#EXTINF:-1,fhchinese
+http://117.169.120.138:8080/live/fhchinese/.m3u8
 #EXTINF:-1,CHC-HD
 rtmp://ivi.bupt.edu.cn/livetv/chchd
 #EXTINF:-1 group-title="docu" tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/02/CGTN_Documentary_logo-1.png",CGTN Documentary--------------------------
@@ -2984,7 +2970,7 @@ http://203.162.235.41:16919
 
 #EXTINF:-1,CNBC_th---
 http://183.88.60.85:8000/play/a03n
-#EXTINF:-1,CNBC
+#EXTINF:-1,CNBC_HD
 https://89.187.173.182/CNBC/mono.m3u8
 
 
