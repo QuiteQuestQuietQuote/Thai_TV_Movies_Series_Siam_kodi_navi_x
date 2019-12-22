@@ -2820,6 +2820,8 @@ http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 http://93.190.17.14:8000/play/nuart/index.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV_CAN
 http://54.39.53.29:25461/002227/002227/17771
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV_CAN2
+http://54.39.53.29:25461/554280/554280/17771
 
 
 
@@ -2841,8 +2843,8 @@ http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1,GONG
+http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
 #EXTINF:-1,GONG_movie_playmedia--------------------------
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 #EXTINF:-1,GONG_MAX
