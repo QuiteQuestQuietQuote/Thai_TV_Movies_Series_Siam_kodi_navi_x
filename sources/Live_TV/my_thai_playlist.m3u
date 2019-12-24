@@ -23,11 +23,12 @@ http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_3bb
 http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.stream/playlist.m3u8?username=casG36MryQIqyL7YVdbV5pQcyEmeExUE&password=elV2iHMkaNPQgU5afVkrKm3QyYpbsqqu
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_3bb
-http://110.164.95.230:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=BRQYQBXBRWcc7w2vi6LQrPj4EwhvBEJ7&password=x1yU4VfAZzCt3Pjkg82bWkxyHDV2iKtF
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=5buNGk5nMV5nKYisxwFvQaYnaH9d4VDZ&password=CnOjv3ZPnUc0fLOtBrZliFmkAxDOBAq6
+
 #EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD_3BB
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_mcothd_live1.stream/playlist.m3u8?username=3QmyKLPwFA6DFUNrNNZkGmtzdMAqoAUi&password=mzNQ8KgnF8f5PLXArHLLajD2D4mFRrU6
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv_3BB
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_newstv_live1.stream/playlist.m3u8?username=7cELOYTn3b0gfbCmA7Mpe6ltn4zPkIwa&password=V4NTAYcRO1MnHsJ0XcoTuHgOU2eqC8an
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_newstv_live1.stream/playlist.m3u8?username=mXN2BOPgWgnwOTvztAzbxPhH3EqzgJ1r&password=3IZWZb4pTSQh564lQltY60I6MGSloLlk
 #EXTINF:-1 group-title="Free_TV"tvg-logo="https://www.doohdbox.com/assets/201707141414362135901185.jpg",AMARIN TV_3BB
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza63_amarintvhd_live1.stream/playlist.m3u8?username=3jdPrUnTtdS5FVMfPv93T1pu1foVK1iH&password=9xkK0cV1VA1I7cjlhvxVL1FbRuHT9iSO
 #EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD_3BB-------------------
@@ -119,13 +120,291 @@ http://main-a.for-our.info:8081/tv1/ch5.m3u8
 
 
 
+#EXTINF:-1,3HD-------------livedoomovie
+https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
+#EXTINF:-1,5HD
+https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
+#EXTINF:-1,7HD
+https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8
+#EXTINF:-1,MCOT HD
+https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
+#EXTINF:-1,NBT
+https://www.livedoomovie.com/02_NBTSD_480p/chunklist.m3u8
+#EXTINF:-1,TPBS HD
+https://www.livedoomovie.com/02_THAIPBS_720p/chunklist.m3u8
+#EXTINF:-1,PPTV HD
+https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1,THAIRATH HD
+https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
+#EXTINF:-1,ONE HD
+https://www.livedoomovie.com/02_GMMONE_720p/chunklist.m3u8
+#EXTINF:-1,AMARIN HD
+https://www.livedoomovie.com/02_AMARINHD_720p/chunklist.m3u8
+#EXTINF:-1,TNN24
+https://www.livedoomovie.com/02_TNN24_480p/chunklist.m3u8
+#EXTINF:-1,TRUE4U
+https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
+#EXTINF:-1,VIOCE
+https://www.livedoomovie.com/02_VOICE_480p/chunklist.m3u8
+#EXTINF:-1,WORKPIONT
+https://www.livedoomovie.com/02_WORKPOINT_720p/chunklist.m3u8
+#EXTINF:-1,GMM
+https://www.livedoomovie.com/02_GMM_720p/chunklist.m3u8
+#EXTINF:-1,MONO29
+https://www.livedoomovie.com/02_MONO_720p/chunklist.m3u8
+#EXTINF:-1,NEW
+https://www.livedoomovie.com/02_NEW_480p/chunklist.m3u8
+#EXTINF:-1,NATION TV
+https://www.livedoomovie.com/02_NATION_480p/chunklist.m3u8
+#EXTINF:-1,MCOT FAMILY
+https://www.livedoomovie.com/02_MCOTFAMILY_720p/chunklist.m3u8
+#EXTINF:-1,8 HD
+https://www.livedoomovie.com/02_8HD_720p/chunklist.m3u8
+#EXTINF:-1,3SD
+https://www.livedoomovie.com/02_CH3SD_480p/chunklist.m3u8
+#EXTINF:-1,3FAMILY
+https://www.livedoomovie.com/02_CH3FAMILY_480p/chunklist.m3u8
+#EXTINF:-1,FANMUSICHD
+https://www.livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
 
 
+#EXTINF:0, HBO HD-------------livedoomovie
+https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:0, HBO Hit
+https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:0, HBOSignature
+https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:0, FoxActionHD_TH
+https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxActionHD
+https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:0, FoxMovies_TH
+https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:0, FoxMovies
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:0, FoxFamilyHD_TH
+https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxFamilyHD
+https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:0, FoxThai_TH
+https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxThai
+https://www.livedoomovie.com/02_FoxThai_720p/chunklist.m3u8
+#EXTINF:0, FoxCrimeHD_TH
+https://www.livedoomovie.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxCrimeHD
+https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
+#EXTINF:0, RedbyHBO
+https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:0, AXN HD
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:0, WarnerTV HD
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:0, FXThailand
+https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:0, TrueFilmHD1
+https://www.livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
+#EXTINF:0, TrueFilmHD2
+https://www.livedoomovie.com/02_TrueFilmHD2_720p/chunklist.m3u8
+#EXTINF:0, HISTORY HD
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:0, H2 HD
+https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:0, DiscoveryChannel
+https://www.livedoomovie.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:0, DiscoveryHDWorld
+https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:0, NatGeoHD_TH
+https://www.livedoomovie.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:0, NatGeo HD
+https://www.livedoomovie.com/02_NatGeoHD_720p/chunklist.m3u8
+#EXTINF:0, NatGeo Wild_TH
+https://www.livedoomovie.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:0, NatGeo People
+https://www.livedoomovie.com/02_NatPeopleHD_720p/chunklist.m3u8
+#EXTINF:0, NatGeoWild
+https://www.livedoomovie.com/02_NatGeoWild_720p/chunklist.m3u8
+#EXTINF:0, AnimalPlanet
+https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:0, Sumrujlok
+https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:0, MYSCIHD
+https://www.livedoomovie.com/02_MYSCIHD_720p/chunklist.m3u8
+#EXTINF:0, BBCEARTH
+https://www.livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8
+#EXTINF:0, CartoonNetwork
+https://www.livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:0, DisneyXD
+https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:0, T_Sports
+https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
+#EXTINF:0, SMM_TV
+https://www.livedoomovie.com/02_SMM_TV_480p/chunklist.m3u8
+#EXTINF:0, NHANG_DUNK
+https://www.livedoomovie.com/02_NHANG_DUNK_720p/chunklist.m3u8
+#EXTINF:0, MANGORN
+https://www.livedoomovie.com/02_MANGORN_720p/chunklist.m3u8
+#EXTINF:0, MONO_Plus
+https://www.livedoomovie.com/02_MONO_Plus_720p/chunklist.m3u8
+#EXTINF:0, Zee_Nung
+https://www.livedoomovie.com/02_Zee_Nung_720p/chunklist.m3u8
+#EXTINF:0, FOX_Life
+https://www.livedoomovie.com/02_FOX_Life_720p/chunklist.m3u8
+#EXTINF:0, Thrill
+https://www.livedoomovie.com/02_Thrill_720p/chunklist.m3u8
+#EXTINF:0, SCM
+https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
+#EXTINF:0, CMM
+https://www.livedoomovie.com/02_CCM_720p/chunklist.m3u8
+#EXTINF:0, Comedy
+https://www.livedoomovie.com/02_Comedy_HD_720p/chunklist.m3u8
+#EXTINF:0, Baby_TV_HD
+https://www.livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
+#EXTINF:0, Miao_Mi
+https://www.livedoomovie.com/02_Miao_Mi_720p/chunklist.m3u8
+#EXTINF:0, Nick_Jr
+https://www.livedoomovie.com/02_Nick_Jr_720p/chunklist.m3u8
+#EXTINF:0, Boomerang
+https://www.livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
+#EXTINF:0, FANMUSICHD
+https://www.livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
+#EXTINF:0, SabaideeTV
+https://www.livedoomovie.com/02_SabaideeTV_720p/chunklist.m3u8
+#EXTINF:0, Wish_Channel
+https://www.livedoomovie.com/02_Wish_Channel_720p/chunklist.m3u8
+#EXTINF:0, MTV_China
+https://www.livedoomovie.com/02_MTV_China_720p/chunklist.m3u8
+#EXTINF:0, Channel_V
+https://www.livedoomovie.com/02_Channel_V_720p/chunklist.m3u8
+#EXTINF:0, MTV_Asia
+https://www.livedoomovie.com/02_MTV_Asia_720p/chunklist.m3u8
+#EXTINF:0, MTV_Live_HD
+https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
+#EXTINF:0, KIX_Thailand
+https://www.livedoomovie.com/02_KIX_Thailand_720p/chunklist.m3u8
+#EXTINF:0, NHK_WORLD_TV
+https://www.livedoomovie.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
 
-
-
-
-
+#EXTINF:0, hbo-hit---------------we-play.php
+http://www.we-play.tv/live/channel.php?name=hbo-hit
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=hbo-hd
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=hbo-family
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=hbo-signature
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=red-by-hbo
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=cinemax
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=history
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=h2
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=warnertv
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=paramount
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=sony-channel
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=blueant-entertainment
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=blueant-extreme
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=axn
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=thrill
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=outdoor
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=foxth
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=fox-action
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=fox-premium
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=fox-family
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=fox-crime-th
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=fox-life
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=fx-hd
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=trueasianhd
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=truefilmhd
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=truefilmhd2
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=true-movie-hits
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=truethaifilm
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=truexzyte
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=true-series
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=sparkjump
+#EXTINF:0, nationalgeographic_th
+http://www.we-play.tv/live/channel.php?name=nationalgeographic_th
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=natgeowild_th
+#EXTINF:0, natgeopeople_th
+http://www.we-play.tv/live/channel.php?name=natgeopeople_th
+#EXTINF:0, discovery
+http://www.we-play.tv/live/channel.php?name=discovery
+#EXTINF:0, discovery-asia
+https://www.we-play.tv/live/channel.php?name=disasia
+#EXTINF:0, discovery-science
+http://www.we-play.tv/live/channel.php?name=discovery-science
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=animalplanet
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=dmax
+#EXTINF:0, samruajlok
+http://www.we-play.tv/live/channel.php?name=samruajlok
+#EXTINF:0, mysci
+http://www.we-play.tv/live/channel.php?name=mysci
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=animalshow
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=cnhd
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=boomerang
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=disneych
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=disneyxd
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=nickjr
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=babytv
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=nickelodeon
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=petclubtv
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=aniplus
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=animax
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=tvb
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=tvn
+#EXTINF:0, foodnetwork
+http://www.we-play.tv/live/channel.php?name=foodnetwork
+#EXTINF:0, cnbc
+http://www.we-play.tv/live/channel.php?name=cnbc
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=ccm
+#EXTINF:0, bbc-earth
+http://www.we-play.tv/live/channel.php?name=bbc-earth
+#EXTINF:0, bbc-lifestyle
+http://www.we-play.tv/live/channel.php?name=bbc-lifestyle
+#EXTINF:0, 
+http://www.we-play.tv/live/channel.php?name=outdoor
 
 
 #EXTINF:0 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch107.gif" group-title="Thailand", 13 Siam TV------------------
@@ -2045,7 +2324,6 @@ http://fxzb.bbwqg.cn/proxy/box.php?id=10
 
 
 
-
 #EXTINF:-1,33070---------------
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33070
 #EXTINF:-1,33071
@@ -2654,12 +2932,34 @@ http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
 
 #EXTINF:-1,TH movies-----------
 http://203.154.243.89:2037
-#EXTINF:-1,TH Warner
-http://203.154.177.124:8899/live/ch12/playlist.m3u8
-#EXTINF:-1,TH WARNER HD
-http://203.154.243.89:11205
+#EXTINF:-1,TH movies2
+http://203.154.243.89:1202
 #EXTINF:-1,TH WORLD ANIMAL HD
 http://203.154.243.89:1201
+#EXTINF:-1,TH WARNER HD
+http://203.154.243.89:11205
+
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Movies",FX-----------TH
+https://livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="Movies",FXM
+https://livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="Movies",HBO
+https://livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movies",HBO Hits
+https://livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Movies",HBO Signature
+https://livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="Learning",Discovery-----------TH
+https://live.dufree4k.net/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/si/DiscoveryScience.si.png" group-title="Learning",Discovery Science
+https://live.dufree4k.net/02_MTV_Asia_720p/chunklist.m3u8/02_MYSCIHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/History.de.png" group-title="Learning",History
+https://live.dufree4k.net/02_HISTORYHD_720p/chunklist.m3u8
+
+#EXTINF:-1,TH Warner
+http://203.154.177.124:8899/live/ch12/playlist.m3u8
 #EXTINF:-1,Royaltv
 http://source2.primetime.ch:2981/play/royaltv/index.m3u8
 
