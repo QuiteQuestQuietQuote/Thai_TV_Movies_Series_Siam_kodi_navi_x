@@ -23,8 +23,12 @@ http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_3bb
 http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.stream/playlist.m3u8?username=casG36MryQIqyL7YVdbV5pQcyEmeExUE&password=elV2iHMkaNPQgU5afVkrKm3QyYpbsqqu
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_3bb
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=5buNGk5nMV5nKYisxwFvQaYnaH9d4VDZ&password=CnOjv3ZPnUc0fLOtBrZliFmkAxDOBAq6
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=MLxINNx6sSPr3kzjMswNKKFvhhFaZm6z&password=q81NuMVTAgdBrC34J8HYxDvcnXuSk5Ry
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25
+http://27.254.130.64/live01/chsd_GMM_11.m3u8?p=st
 
+#EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD
+https://stream-02.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xtc3sozQK45i_90Cv0SN92c)/dm/3/x74wlgj/s/live-2.m3u8
 #EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD_3BB
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_mcothd_live1.stream/playlist.m3u8?username=3QmyKLPwFA6DFUNrNNZkGmtzdMAqoAUi&password=mzNQ8KgnF8f5PLXArHLLajD2D4mFRrU6
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv_3BB
@@ -285,126 +289,46 @@ https://www.livedoomovie.com/02_KIX_Thailand_720p/chunklist.m3u8
 #EXTINF:0, NHK_WORLD_TV
 https://www.livedoomovie.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
 
-#EXTINF:0, hbo-hit---------------we-play.php
-http://www.we-play.tv/live/channel.php?name=hbo-hit
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=hbo-hd
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=hbo-family
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=hbo-signature
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=red-by-hbo
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=cinemax
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=history
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=h2
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=warnertv
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=paramount
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=sony-channel
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=blueant-entertainment
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=blueant-extreme
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=axn
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=thrill
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=outdoor
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=foxth
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=fox-action
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=fox-premium
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=fox-family
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=fox-crime-th
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=fox-life
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=fx-hd
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=trueasianhd
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=truefilmhd
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=truefilmhd2
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=true-movie-hits
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=truethaifilm
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=truexzyte
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=true-series
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=sparkjump
-#EXTINF:0, nationalgeographic_th
-http://www.we-play.tv/live/channel.php?name=nationalgeographic_th
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=natgeowild_th
-#EXTINF:0, natgeopeople_th
-http://www.we-play.tv/live/channel.php?name=natgeopeople_th
-#EXTINF:0, discovery
-http://www.we-play.tv/live/channel.php?name=discovery
-#EXTINF:0, discovery-asia
-https://www.we-play.tv/live/channel.php?name=disasia
-#EXTINF:0, discovery-science
-http://www.we-play.tv/live/channel.php?name=discovery-science
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=animalplanet
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=dmax
-#EXTINF:0, samruajlok
-http://www.we-play.tv/live/channel.php?name=samruajlok
-#EXTINF:0, mysci
-http://www.we-play.tv/live/channel.php?name=mysci
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=animalshow
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=cnhd
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=boomerang
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=disneych
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=disneyxd
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=nickjr
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=babytv
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=nickelodeon
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=petclubtv
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=aniplus
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=animax
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=tvb
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=tvn
-#EXTINF:0, foodnetwork
-http://www.we-play.tv/live/channel.php?name=foodnetwork
-#EXTINF:0, cnbc
-http://www.we-play.tv/live/channel.php?name=cnbc
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=ccm
-#EXTINF:0, bbc-earth
-http://www.we-play.tv/live/channel.php?name=bbc-earth
-#EXTINF:0, bbc-lifestyle
-http://www.we-play.tv/live/channel.php?name=bbc-lifestyle
-#EXTINF:0, 
-http://www.we-play.tv/live/channel.php?name=outdoor
+
+
+
+#EXTINF:0, DiscoveryChannel---------------dufree4k
+https://live.dufree4k.net/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:0, DiscoveryHDWorld_720p
+https://live.dufree4k.net/02_DiscoveryHDWorld_720p/chunklist.m3u8
+#EXTINF:0, DiscoveryScience
+https://live.dufree4k.net/02_DiscoveryScience/chunklist.m3u8
+#EXTINF:0, MYSCIHD_720p
+https://live.dufree4k.net/02_MYSCIHD_720p/chunklist.m3u8
+#EXTINF:0, sumrujlok_goodtv
+https://live.dufree4k.net/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:0, DiscoveryScience
+https://live.dufree4k.net/02_DiscoveryScience/chunklist.m3u8
+#EXTINF:0, H2HD_720p
+https://live.dufree4k.net/02_H2HD_720p/chunklist.m3u8
+#EXTINF:0, HISTORYHD_720p
+https://live.dufree4k.net/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:0, AnimalPlanet
+https://live.dufree4k.net/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:0, BBCEARTH_720p
+https://live.dufree4k.net/02_BBCEARTH_720p/chunklist.m3u8
+#EXTINF:0, LIFETYLEHD_720p
+https://live.dufree4k.net/02_LIFETYLEHD_720p/chunklist.m3u8
+#EXTINF:0, NatGeoHD_TH_720p
+https://live.dufree4k.net/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:0, NatPeopleHD_720p
+https://live.dufree4k.net/02_NatPeopleHD_720p/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:0 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch107.gif" group-title="Thailand", 13 Siam TV------------------
@@ -2775,7 +2699,8 @@ http://89.45.201.132:2222/udp/224.0.0.3:708
 #EXTINF:-1, DaVinci Learning--------
 http://176.67.198.12:4068/udp/239.1.1.141:22141
 
-
+#EXTINF:-1,|PL| DA VINCI
+http://iptv6.premium-stv.com:25461/sourcepolognesnow/6797205364/2888
 
 
 
@@ -3071,6 +2996,8 @@ http://nclive.grtn.cn/4K/sd/live.m3u8
 http://117.169.120.138:8080/live/fhchinese/.m3u8
 #EXTINF:-1,CHC-HD
 rtmp://ivi.bupt.edu.cn/livetv/chchd
+#EXTINF:-1,CCTV_4K
+http://39.135.97.94/wh7f454c46tw965975784_1192599104/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/02/CGTN_Documentary_logo-1.png",CGTN Documentary--------------------------
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/02/CGTN_Documentary_logo-1.png",CGTN Documentary---cctv-d
