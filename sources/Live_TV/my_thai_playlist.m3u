@@ -27,7 +27,7 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_liv
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25
 http://27.254.130.64/live01/chsd_GMM_11.m3u8?p=st
 
-#EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD
+#EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD_dailymotion
 https://stream-02.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xtc3sozQK45i_90Cv0SN92c)/dm/3/x74wlgj/s/live-2.m3u8
 #EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD_3BB
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_mcothd_live1.stream/playlist.m3u8?username=3QmyKLPwFA6DFUNrNNZkGmtzdMAqoAUi&password=mzNQ8KgnF8f5PLXArHLLajD2D4mFRrU6
@@ -2221,30 +2221,6 @@ http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3
 
 
 
-#EXTINF:-1,Taiwan_xxx1_NYX-----
-http://fxzb.bbwqg.cn/proxy/box.php?id=1
-#EXTINF:-1,Taiwan_xxx2_Ibiza
-http://fxzb.bbwqg.cn/proxy/box.php?id=2
-#EXTINF:-1,Taiwan_xxx3
-http://fxzb.bbwqg.cn/proxy/box.php?id=3
-#EXTINF:-1,Taiwan_xxx4
-http://fxzb.bbwqg.cn/proxy/box.php?id=4
-#EXTINF:-1,Taiwan_xxx5
-http://fxzb.bbwqg.cn/proxy/box.php?id=5
-#EXTINF:-1,Taiwan_xxx6
-http://fxzb.bbwqg.cn/proxy/box.php?id=6
-#EXTINF:-1,Taiwan_xxx7
-http://fxzb.bbwqg.cn/proxy/box.php?id=7
-#EXTINF:-1,Taiwan_xxx8
-http://fxzb.bbwqg.cn/proxy/box.php?id=8
-#EXTINF:-1,Taiwan_xxx9
-http://fxzb.bbwqg.cn/proxy/box.php?id=9
-#EXTINF:-1,Taiwan_xxx10
-http://fxzb.bbwqg.cn/proxy/box.php?id=10
-
-
-
-
 
 
 
@@ -2465,6 +2441,60 @@ http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33154
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/49176
 #EXTINF:-1,US020:CNBC
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/3148
+
+
+
+
+
+#EXTINF:-1,Taiwan_xxx1_NYX-----
+http://fxzb.bbwqg.cn/proxy/box.php?id=1
+#EXTINF:-1,Taiwan_xxx2_Ibiza
+http://fxzb.bbwqg.cn/proxy/box.php?id=2
+#EXTINF:-1,Taiwan_xxx3
+http://fxzb.bbwqg.cn/proxy/box.php?id=3
+#EXTINF:-1,Taiwan_xxx4
+http://fxzb.bbwqg.cn/proxy/box.php?id=4
+#EXTINF:-1,Taiwan_xxx5
+http://fxzb.bbwqg.cn/proxy/box.php?id=5
+#EXTINF:-1,Taiwan_xxx6
+http://fxzb.bbwqg.cn/proxy/box.php?id=6
+#EXTINF:-1,Taiwan_xxx7
+http://fxzb.bbwqg.cn/proxy/box.php?id=7
+#EXTINF:-1,Taiwan_xxx8
+http://fxzb.bbwqg.cn/proxy/box.php?id=8
+#EXTINF:-1,Taiwan_xxx9
+http://fxzb.bbwqg.cn/proxy/box.php?id=9
+#EXTINF:-1,Taiwan_xxx10
+http://fxzb.bbwqg.cn/proxy/box.php?id=10
+
+#EXTINF:-1,Taiwan_xxx1-----------------
+http://sywly.xyz/19hd.php?id=1
+#EXTINF:-1,Taiwan_xxx2
+http://sywly.xyz/19hd.php?id=2
+#EXTINF:-1,Taiwan_xxx3
+http://sywly.xyz/19hd.php?id=3
+#EXTINF:-1,Taiwan_xxx4
+http://sywly.xyz/19hd.php?id=4
+#EXTINF:-1,Taiwan_xxx5
+http://sywly.xyz/19hd.php?id=5
+#EXTINF:-1,Taiwan_xxx6
+http://sywly.xyz/19hd.php?id=6
+#EXTINF:-1,Taiwan_xxx7
+http://sywly.xyz/19hd.php?id=7
+#EXTINF:-1,Taiwan_xxx8
+http://sywly.xyz/19hd.php?id=8
+#EXTINF:-1,Taiwan_xxx9
+http://sywly.xyz/19hd.php?id=9
+#EXTINF:-1,Taiwan_xxx10
+http://sywly.xyz/19hd.php?id=10
+
+#EXTINF:-1,Taiwan_xxx11
+http://sywly.xyz/19hd.php?id=11
+
+
+
+
+
 
 
 
@@ -2698,9 +2728,11 @@ http://89.45.201.132:2222/udp/224.0.0.3:708
 
 #EXTINF:-1, DaVinci Learning--------
 http://176.67.198.12:4068/udp/239.1.1.141:22141
+EXTINF:-1,DaVinci Learning 
+http://176.67.198.12:4063/udp/239.1.1.141:22141
 
-#EXTINF:-1,|PL| DA VINCI
-http://iptv6.premium-stv.com:25461/sourcepolognesnow/6797205364/2888
+#EXTINF:-1, DaVinci Learning_UKR---test
+http://213.174.8.7:11111/index.m3u8
 
 
 
@@ -2754,7 +2786,8 @@ http://ok2.se:8000/HwUajgreR8/1KqWG5TlRE/77332
 http://ok2.se:8000/tUdgpwfOqi/7qwldeLa6s/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se24
 http://ok2.se:8000/2wjWqlGwGV/vX6Ph5mf4X/77332
-
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se25
+http://ok2.se:8000/0rmnfN2rTL/kXJAn9Dv6x/77332
 
 
 
