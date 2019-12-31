@@ -225,7 +225,7 @@ http://14.207.0.236:8000/play/a011
 
 
 
-#EXTINF:-1,3HD-------------livedoomovie
+#EXTINF:-1,3HD----------------livedoomovie
 https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
 #EXTINF:-1,5HD
 https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
@@ -273,7 +273,7 @@ https://www.livedoomovie.com/02_CH3FAMILY_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
 
 
-#EXTINF:0, HBO HD-------------livedoomovie
+#EXTINF:0, HBO HD--------------------livedoomovie
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:0, HBO Hit
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
@@ -389,6 +389,11 @@ https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_KIX_Thailand_720p/chunklist.m3u8
 #EXTINF:0, NHK_WORLD_TV
 https://www.livedoomovie.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
+#EXTINF:0, DiscoveryScience
+https://www.livedoomovie.com/02_LIFETYLEHD_720p/chunklist.m3u8
+#EXTINF:0, LIFETYLEHD_720p
+https://www.livedoomovie.com/02_DiscoveryScience/chunklist.m3u8
+
 
 
 
@@ -2090,6 +2095,12 @@ http://cdn.adultiptv.net/compilation.m3u8
 http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1,adultiptv_gangbang
 http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1,adultiptv_rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1,adultiptv_blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1,adultiptv_bigtits
+http://cdn.adultiptv.net/bigtits.m3u8
 
 
 
@@ -2273,6 +2284,9 @@ http://125.227.210.37:9003/VideoInput/play.ts
 http://125.227.210.37:9004/VideoInput/play.ts
 #EXTINF:-1,jap_ts5
 http://125.227.210.37:9005/VideoInput/play.ts
+
+#EXTINF:-1,jap_ts5-----test
+http://113.196.177.81:9005/VideoInput/play.ts
 
 
 
@@ -2939,7 +2953,7 @@ rtmp://58.200.131.2:1935/livetv/discovery
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CH_rtmp-bupt
 rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
-http://211.178.72.29:9981/stream/channelid/1782925714
+http://175.113.154.14:9981/stream/channelid/577058598
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_rtmp
 rtmp://118.97.96.17:1935/discover/afc_3
 #EXTINF:-1  tvg-logo="http://image.free.in.th/v/2013/ir/180628100717.png",History2_tvanywhere
@@ -3153,7 +3167,7 @@ https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png",NHK WORLD HD
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/j55hDLp.png",France 24 HD (in English) 
 http://164.40.161.46:8002/play/s5 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews (English) 
