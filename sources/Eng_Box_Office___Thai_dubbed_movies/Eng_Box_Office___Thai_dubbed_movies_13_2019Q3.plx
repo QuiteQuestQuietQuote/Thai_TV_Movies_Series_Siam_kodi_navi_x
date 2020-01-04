@@ -99,22 +99,24 @@ URL=
 
 
 type=video
-name=A Rainy Day in New York 2019 1080p BluRay AAC-RARBG
+name=Maleficent Mistress of Evil 2019 1080p BluRay AAC-RARBG
 thumb=
 date=2019-07-08
-URL=https://vidoza.net/1o6r1kgbr26g.html
+URL=https://vidoza.net/vpneya1tonuq.html	Maleficent Mistress of Evil 2019 1080p BluRay AAC-RARBG	1920x808
+
 
 type=video
-name=The.Little.Witch.2018.DUBBED.1080p.BluRay.H264.AAC-RARBG.mp4
+name=Gemini.Man.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 thumb=
 date=2019-01-03
-URL=https://streamz.cc/fdjk5azhqODZzaDVpZXgw
+URL=https://streamcrypt.net/streamz.cc/c706665eac87eb4bac24ea7f09112c89c5cec184dfd210979b8aa063edb8887c	Gemini.Man.2019.1080p.BluRay.H264.AAC-RARBG.mp4	1920x1036, 01:57:00
+
 
 type=video
-name=Earthquake Bird (2019)
-thumb=https://dash.fembed.com/asset/userdata/311311/poster/6/-z/6-zldt0xj44-53x.png?v=1574615241
+name=The.Lighthouse.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+thumb=
 date=2019-06-28
-URL=https://www.fembed.com/v/6-zldt0xj44-53x
+URL=https://www.fembed.com/v/n0n3lf2r14k0rke#The.Lighthouse.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 
 
 
