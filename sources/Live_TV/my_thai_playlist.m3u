@@ -2995,6 +2995,8 @@ http://178.124.183.15:80/hls/CH_NYARTTV/variant.m3u8?version=2
 http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV_ESP
 http://185.93.3.83:5014/play/a00a
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV_ESP
+http://185.93.3.83:5014/play/a00d
 
 
 

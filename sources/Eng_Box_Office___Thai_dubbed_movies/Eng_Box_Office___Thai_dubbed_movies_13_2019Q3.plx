@@ -109,7 +109,8 @@ type=video
 name=Gemini.Man.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 thumb=
 date=2019-01-03
-URL=https://streamcrypt.net/streamz.cc/c706665eac87eb4bac24ea7f09112c89c5cec184dfd210979b8aa063edb8887c	Gemini.Man.2019.1080p.BluRay.H264.AAC-RARBG.mp4	1920x1036, 01:57:00
+URL=https://streamz.cc/fZnJ2cTBydG5lc3BqZXgw	Gemini.Man.2019.1080p.BluRay.H264.AAC-RARBG.mp4	1920x1036, 01:57:00
+
 
 
 type=video
