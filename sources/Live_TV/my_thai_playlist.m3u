@@ -2617,7 +2617,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/53b1c003eded29524e1
 
 
 
-
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2-80--------------------------
 http://ok2.se:80/ZRPkplnePG/2n6JFUqrTr/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test2
@@ -2960,6 +2959,9 @@ http://95.216.2.179/live/558213/688012/233/21724
 #EXTINF:-1,BBC Brit
 http://95.216.2.179/live/558213/688012/233/21723
 
+#EXTINF:-1,Travel and Adven
+http://89.37.104.9:8080/Travel/mpegts
+
 
 #EXTINF:-1,Hunters
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
@@ -2993,13 +2995,17 @@ http://178.124.183.14:80/hls/CH_NYARTTV/variant.m3u8
 http://178.124.183.15:80/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV5
 http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
+
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV_ESP
 http://185.93.3.83:5014/play/a00a
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV_ESP
 http://185.93.3.83:5014/play/a00d
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV_FRE
+http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/21048.m3u8
 
 
-
+#EXTINF:-1,babestv
+http://st.ottg.tv:8080/4736/video.m3u8
 
 
 #EXTINF:-1,Taiwan Stories-----
