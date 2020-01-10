@@ -145,6 +145,21 @@ http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m
 #EXTINF:-1,THAIRAHT HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
 
+#EXTINF:-1,workpointtv-----------
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/workpointtv.smil/playlist.m3u8
+#EXTINF:-1,mono29
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mono29.smil/playlist.m3u8
+#EXTINF:-1,true4u
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/true4u.smil/playlist.m3u8
+#EXTINF:-1,gmmchannel
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/gmmchannel.smil/playlist.m3u8
+#EXTINF:-1,ch8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/ch8.smil/playlist.m3u8
+#EXTINF:-1,tnn24
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/tnn24.smil/playlist.m3u8
+#EXTINF:-1,newstv
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
+
 
 
 
@@ -1678,31 +1693,31 @@ http://ok2.se:8000/nbGNBz1JzT/CmVEkvYQxg/9049
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
-http://14.183.161.4:2806/rtp/232.84.2.129:9570
+http://123.17.192.185:4022/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://14.183.161.4:2806/rtp/232.84.2.131:9582
+http://123.17.192.185:4022/rtp/232.84.2.131:9582
 #EXTINF:-1,DISCOVERY ASIA
-http://14.183.161.4:2806/rtp/232.84.2.53:10528
+http://123.17.192.185:4022/rtp/232.84.2.53:10528
 #EXTINF:-1,DISCOVERY CHANNEL
-http://14.183.161.4:2806/rtp/232.84.1.47:8262
+http://123.17.192.185:4022/rtp/232.84.1.47:8262
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://14.183.161.4:2806/rtp/232.84.1.65:8364
+http://123.17.192.185:4022/rtp/232.84.1.65:8364
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://14.183.161.4:2806/rtp/232.84.1.1:7980
+http://123.17.192.185:4022/rtp/232.84.1.1:7980
 #EXTINF:-1,NAT GEO PEOPLE
-http://14.183.161.4:2806/rtp/232.84.1.67:8376
+http://123.17.192.185:4022/rtp/232.84.1.67:8376
 #EXTINF:-1,NAT GEO PEOPLE HD
-http://14.183.161.4:2806/rtp/232.84.1.76:8430
+http://123.17.192.185:4022/rtp/232.84.1.76:8430
 #EXTINF:-1,ASIAN FOOD CHANNEL
-http://14.183.161.4:2806/rtp/232.84.1.115:10236
+http://123.17.192.185:4022/rtp/232.84.1.115:10236
 #EXTINF:-1,Da Vinci Learning
-http://14.183.161.4:2806/rtp/232.84.1.108:10224
+http://123.17.192.185:4022/rtp/232.84.1.108:10224
 #EXTINF:-1,Nat Geo People
-http://14.183.161.4:2806/rtp/232.84.2.121:8376
+http://123.17.192.185:4022/rtp/232.84.2.121:8376
 #EXTINF:-1,DISNEY CHANNEL HD
-http://14.183.161.4:2806/rtp/232.84.2.143:10678
+http://123.17.192.185:4022/rtp/232.84.2.143:10678
 #EXTINF:-1,CNBC
-http://14.183.161.4:2806/rtp/232.84.2.177:10488
+http://123.17.192.185:4022/rtp/232.84.2.177:10488
 
 
 
@@ -2244,28 +2259,7 @@ http://ok2.se:8000/nbGNBz1JzT/CmVEkvYQxg/6686
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey) TV-------------------------
-http://122.38.74.172:9981/stream/channelid/1463854277
-#EXTINF:-1,VIKI
-http://116.45.184.224:9981/stream/channelid/337044103?ticket=EFFC15CF470CE1FE437C7294EC49FD766AB73659&profile=pass
-#EXTINF:-1,playboy_kor
-http://122.38.74.172:9981/stream/channelid/966306501.m3u8
-#EXTINF:-1,Playboy TV
-http://182.231.145.96:9981/stream/channelid/16845746
-#EXTINF:-1,HOUSE
-http://122.38.74.172:9981/stream/channelid/1086640851 
-#EXTINF:-1,MIDNIGHT
-http://122.38.74.172:9981/stream/channelid/339312133
-#EXTINF:-1,MIDNIGHT_112
-http://112.148.183.161:9981/stream/channelid/96001658
-#EXTINF:-1,VIKI
-http://122.38.74.172:9981/stream/channelid/798964177 
-#EXTINF:-1,VIKI-new
-http://112.148.183.161:9981/stream/channelid/488704961
-#EXTINF:-1,Desire
-http://122.38.74.172:9981/stream/channelid/816085039 
-#EXTINF:-1,Playboy TV_earth
-http://1.243.114.12:9981/stream/channelid/1175597243
+
 
 
 
@@ -2605,7 +2599,28 @@ http://sywly.xyz/19hd.php?id=10
 
 
 
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey) TV-------------------------
+http://122.38.74.172:9981/stream/channelid/1463854277
+#EXTINF:-1,VIKI
+http://116.45.184.224:9981/stream/channelid/337044103?ticket=EFFC15CF470CE1FE437C7294EC49FD766AB73659&profile=pass
+#EXTINF:-1,playboy_kor
+http://122.38.74.172:9981/stream/channelid/966306501.m3u8
+#EXTINF:-1,Playboy TV
+http://182.231.145.96:9981/stream/channelid/16845746
+#EXTINF:-1,HOUSE
+http://122.38.74.172:9981/stream/channelid/1086640851 
+#EXTINF:-1,MIDNIGHT
+http://122.38.74.172:9981/stream/channelid/339312133
+#EXTINF:-1,MIDNIGHT_112
+http://112.148.183.161:9981/stream/channelid/96001658
+#EXTINF:-1,VIKI
+http://122.38.74.172:9981/stream/channelid/798964177 
+#EXTINF:-1,VIKI-new
+http://112.148.183.161:9981/stream/channelid/488704961
+#EXTINF:-1,Desire
+http://122.38.74.172:9981/stream/channelid/816085039 
+#EXTINF:-1,Playboy TV_earth
+http://1.243.114.12:9981/stream/channelid/1175597243
 
 
 
@@ -2639,8 +2654,10 @@ http://204.45.185.166:25678/i/ghjnvq5o/8c85fsaf/index.m3u8
 http://204.45.185.166:25678/i/ghjnvq5o/8c85giea/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N8Z939N.png" group-title="XXX",JAV_Hot
 http://204.45.185.166:25678/i/ghjnvq5o/8c855d75/index.m3u8
-#EXTINF:-1,JAV_DPP
+#EXTINF:-1,JAV_DRP
 http://204.45.185.166:25678/i/ghjnvq5o/3v529tk6/index.m3u8
+#EXTINF:-1,JAV_OursHD
+http://204.45.185.166:25678/i/ghjnvq5o/tj5knp44/index.m3u8
 #EXTINF:-1,X2
 http://204.45.185.166:25678/i/ghjnvq5o/ahun18hg/index.m3u8
 #EXTINF:-1,X_Passion
@@ -2901,11 +2918,11 @@ http://42.115.224.37:4022/udp/225.1.1.198:30120
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
-http://14.183.161.4:2806/rtp/232.84.2.129:9570
+http://123.17.192.185:4022/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://14.183.161.4:2806/rtp/232.84.2.131:9582
+http://123.17.192.185:4022/rtp/232.84.2.131:9582
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",DISCOVERY ASIA_VN_rtp
-http://14.183.161.4:2806/rtp/232.84.2.53:10528
+http://123.17.192.185:4022/rtp/232.84.2.53:10528
 
 
 
@@ -3066,7 +3083,7 @@ http://95.216.2.179/live/558213/688012/233/21724
 #EXTINF:-1,BBC Brit
 http://95.216.2.179/live/558213/688012/233/21723
 
-#EXTINF:-1,BBC Earth [RO]
+#EXTINF:-1,BBC Earth [RO]---------
 http://ch01.spr24.net/23070/mpegts?token=qEpFWQ3Hys7242
 #EXTINF:-1,Da Vinci Learning [RO]
 http://ch01.spr24.net/22360/mpegts?token=qEpFWQ3Hys7242
@@ -3077,7 +3094,7 @@ http://ch01.spr24.net/22325/mpegts?token=qEpFWQ3Hys7242
 #EXTINF:-1,Travel and Adven
 http://89.37.104.9:8080/Travel/mpegts
 
-#EXTINF:-1,SBS Food AU
+#EXTINF:-1,SBS Food AU---------
 http://mytv.fun:8080/vh2zof7d4/cq1x022l1o/657243
 #EXTINF:-1,SBS Food AU
 http://mytv.fun:8080/Jx4XB366SX/IJP41cirD4/657243
@@ -3265,13 +3282,14 @@ http://ok2.se:8000/oMVY9esTAd/dmKCF4cNU4/364
 
 #EXTINF:-1,CNBC_udp_viet4022
 http://42.115.224.37:4022/udp/225.1.1.227:30120
-#EXTINF:-1,CNBC_rtp_viet2806
-http://14.183.161.4:2806/rtp/232.84.2.177:10488
+#EXTINF:-1,CNBC_rtp_viet
+http://123.17.192.185:4022/rtp/232.84.2.177:10488
 
 #EXTINF:-1,VTV1 HD_udp4022
 http://42.115.224.37:4022/udp/225.1.2.249:30120
-#EXTINF:-1,VTV1_rtp2806
-http://14.183.161.4:2806/rtp/232.84.1.27:8136
+#EXTINF:-1,VTV1 HD (HD 8Mbps)_rtp
+http://123.17.192.185:4022/rtp/232.84.1.117:10254
+
 
 
 
