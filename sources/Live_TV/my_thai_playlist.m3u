@@ -3083,21 +3083,13 @@ http://95.216.2.179/live/558213/688012/233/21724
 #EXTINF:-1,BBC Brit
 http://95.216.2.179/live/558213/688012/233/21723
 
-#EXTINF:-1,BBC Earth [RO]---------
-http://ch01.spr24.net/23070/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Da Vinci Learning [RO]
-http://ch01.spr24.net/22360/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1,Discovery Science [RO]
-http://ch01.spr24.net/22325/mpegts?token=qEpFWQ3Hys7242
+
 
 
 #EXTINF:-1,Travel and Adven
 http://89.37.104.9:8080/Travel/mpegts
 
-#EXTINF:-1,SBS Food AU---------
-http://mytv.fun:8080/vh2zof7d4/cq1x022l1o/657243
-#EXTINF:-1,SBS Food AU
-http://mytv.fun:8080/Jx4XB366SX/IJP41cirD4/657243
+
 
 
 #EXTINF:-1,Hunters
@@ -3143,6 +3135,12 @@ http://tv.sigma-net.co:6500/live/q7iDM0wsgh/42xjrPv0tB/21048.m3u8
 
 #EXTINF:-1,babestv
 http://st.ottg.tv:8080/4736/video.m3u8
+#EXTINF:-1,EN_UKR
+http://91.208.115.227:80/TqyXTMVp48/6fr1g1RiFG/55911?xxx
+#EXTINF:-1,LesbianAffair
+http://91.208.115.227:80/TqyXTMVp48/6fr1g1RiFG/35884?xxx
+#EXTINF:-1,Defloration
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/55807?xxx
 
 
 #EXTINF:-1,Taiwan Stories-----

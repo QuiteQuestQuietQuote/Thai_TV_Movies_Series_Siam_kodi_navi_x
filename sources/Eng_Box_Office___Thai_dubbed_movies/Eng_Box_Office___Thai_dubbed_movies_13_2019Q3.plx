@@ -130,10 +130,11 @@ URL=https://www.fembed.com/v/n0n3lf2r14k0rke#The.Lighthouse.2019.1080p.BluRay.H2
 
 
 type=video
-name=
+name=Cam 2018 1080p WEBRip x264-RARBG
 thumb=
 date=2019-06-28
-URL=
+URL=https://streamcrypt.net/streamz.cc/9a98ef6cb943dcae06cb57670b2afba946f752aaf21d25d83b1f3aa4cbfda048	Cam 2018 1080p WEBRip x264-RARBG	1920x1080, 01:34:58
+
 
 
 
