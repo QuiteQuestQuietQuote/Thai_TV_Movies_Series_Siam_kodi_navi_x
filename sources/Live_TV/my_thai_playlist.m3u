@@ -2687,8 +2687,6 @@ https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/History.de.png" group-title="Learning",History_liveanevia
 https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/si/DiscoveryScience.si.png" group-title="Learning",Discovery Science_livedoomovie
-https://livedoomovie.com/02_MTV_Asia_720p/chunklist.m3u8/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="Learning",Discovery_liveanevia
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HGTV.ca.png" group-title="Entertainment",HGTV_liveanevia
@@ -2785,6 +2783,7 @@ https://livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Movies",HBO Signature
 https://livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 
+
 #EXTINF:0, NatGeo People
 https://www.livedoomovie.com/02_NatPeopleHD_720p/chunklist.m3u8
 #EXTINF:0, Sumrujlok
@@ -2807,6 +2806,11 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u
 http://203.154.177.124:8899/live/ch12/playlist.m3u8
 #EXTINF:-1,Royaltv
 http://source2.primetime.ch:2981/play/royaltv/index.m3u8
+
+#EXTINF:-1,Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,webstudiob
+rtmp://195.252.96.7:1935/webstudiob/webstudiob.stream
 
 
 
@@ -2834,14 +2838,7 @@ http://95.216.2.179/live/558213/688012/233/21723
 
 
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",Discovery_Asia_SG---------
-http://tvku.live:8888/steve/29PL8X/779
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History_SG
-http://tvku.live:8888/steve/29PL8X/718
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth_SG
-http://tvku.live:8888/steve/29PL8X/2379
-#EXTINF:-1,Living Delight_SG
-http://tvku.live:8888/steve/29PL8X/2333
+
 
 
 #EXTINF:-1,YTN Science_KR
@@ -2886,6 +2883,11 @@ http://178.124.183.15:80/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV5
 http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV_topchantv
+http://topchantv.net:3456/live/Damir/Damir/260.m3u8?xxx
+
+
+
 #EXTINF:-1,ENT18+_55898-----test
 http://mytvonline.nl:80/TqyXTMVp48/6fr1g1RiFG/55898?XXX
 #EXTINF:-1,ENT18+_55911
@@ -2927,11 +2929,7 @@ http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
 http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
 #EXTINF:-1,JAP_cs27
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
-#EXTINF:-1,Doc_CH
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
-#EXTINF:-1,Doc_CH_rtmp
-rtmp://ivi.bupt.edu.cn:1935/livetv/documentaryhd
-#EXTINF:-1,CHN_DIY
+#EXTINF:-1,CN_DIY
 http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
 #EXTINF:-1,a taste of china24/7_CHN
 http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
@@ -2995,13 +2993,7 @@ https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg TV Australia
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg News + info
-http://45.126.83.51/uq2663/h/h03/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg News + info
 http://210.210.155.66/h/h03/02.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News + info_39464
-http://89.38.8.130:39464
-#EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News + info
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News + info_indo
 https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_hls/Bloomberg.m3u8
 
@@ -3017,8 +3009,6 @@ https://budgie.cdn.livenewschat.eu/hls/cnbc_live/index.m3u8
 http://ott-cdn.ucom.am/s65/01.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/53EgUZN.png",CNBC_world
 http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/knyzqhB.png",CNBC_World
-http://92.43.140.249/s65/04.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/knyzqhB.png",CNBC_persik_1017
 http://persik.by/stream/1017/402000/10473.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/53EgUZN.png",CNBC_HD
