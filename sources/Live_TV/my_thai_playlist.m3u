@@ -1924,6 +1924,12 @@ http://cdn.adultiptv.net/rough.m3u8
 http://cdn.adultiptv.net/blowjob.m3u8
 #EXTINF:-1,adultiptv_bigtits
 http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1,adultiptv_massage
+http://cdn.adultiptv.net/massage.m3u8
+#EXTINF:-1,adultiptv_japanese
+http://cdn.adultiptv.net/japanese.m3u8
+#EXTINF:-1,adultiptv_chinese
+http://cdn.adultiptv.net/chinese.m3u8
 
 
 
@@ -2694,10 +2700,7 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="Entertainment",TLC_liveanevia
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/150px-History_Logo.svg.png",History_cvtv
-https://cvtv.cvalley.net/hls/HistoryHD/HistoryHD.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HGTV.ca.png" group-title="Entertainment",HGTV_HD_cvtv
-https://cvtv.cvalley.net/hls/HGTVHD/HGTVHD.m3u8
+
 
 #EXTINF:-1,English Club TV
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
@@ -2806,7 +2809,6 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u
 http://203.154.177.124:8899/live/ch12/playlist.m3u8
 #EXTINF:-1,Royaltv
 http://source2.primetime.ch:2981/play/royaltv/index.m3u8
-
 #EXTINF:-1,Luxury
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1,webstudiob
@@ -2824,17 +2826,6 @@ https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-e4/tracks-v1a1/mon
 #EXTINF:-1 tvg-id="eentertainment.id" tvg-logo="https://i.imgur.com/fnm3Jta.jpg?1" group-title="6-Entertainment",E!
 http://84.22.33.254/unicast.e/index.m3u8
 
-#EXTINF:-1,E! Entertainment--------------
-http://211.245.55.198:22514/m2u/239.192.69.237:49220
-#EXTINF:-1,BBC earth
-http://211.245.55.198:22514/m2u/239.192.69.165:49220
-
-#EXTINF:-1,BBC earth-----------
-http://95.216.2.179/live/558213/688012/233/21725
-#EXTINF:-1,BBC earth
-http://95.216.2.179/live/558213/688012/233/21724
-#EXTINF:-1,BBC Brit
-http://95.216.2.179/live/558213/688012/233/21723
 
 
 
@@ -2887,13 +2878,8 @@ http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 http://topchantv.net:3456/live/Damir/Damir/260.m3u8?xxx
 
 
-
-#EXTINF:-1,ENT18+_55898-----test
-http://mytvonline.nl:80/TqyXTMVp48/6fr1g1RiFG/55898?XXX
-#EXTINF:-1,ENT18+_55911
-http://mytvonline.nl:80/TqyXTMVp48/6fr1g1RiFG/55911?XXX
-#EXTINF:-1,DDF Network
-http://craftmedia.xyz:8080/iCha0gn9sR/XhOxQh8ROs/58077
+#EXTINF:-1,Lesbian Affair_nomorecable
+http://nomorecable.eu:80/mwepWPLhsh/PrDrQ9pK1b/35884?xxx
 
 
 #EXTINF:-1,Taiwan Stories-----
@@ -2969,8 +2955,6 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/j55hDLp.png",France 24 HD (in English) 
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN_HD
-https://cvtv.cvalley.net/hls/CNNHD/CNNHD.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews (English) 
 http://164.40.161.46:8002/play/s4
 #EXTINF:-1 tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png" group-title="NEWS",BBC World News (Opt-2) (GB) 
