@@ -2632,6 +2632,8 @@ http://ok2.se:8000/be59F7UrXbyQ8oDVc/85b0F9UA7y895ccWt/77332
 http://ok2.se:8000/india2/india2/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se31
 http://ok2.se:8000/joshua1/joshua1/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se32
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/77332
 
 
 
@@ -2878,8 +2880,7 @@ http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 http://topchantv.net:3456/live/Damir/Damir/260.m3u8?xxx
 
 
-#EXTINF:-1,Lesbian Affair_nomorecable
-http://nomorecable.eu:80/mwepWPLhsh/PrDrQ9pK1b/35884?xxx
+
 
 
 #EXTINF:-1,Taiwan Stories-----
@@ -2957,8 +2958,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews (English) 
 http://164.40.161.46:8002/play/s4
-#EXTINF:-1 tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png" group-title="NEWS",BBC World News (Opt-2) (GB) 
-https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="News",BBC World News
 http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_HD
