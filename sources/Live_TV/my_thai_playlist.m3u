@@ -2564,8 +2564,7 @@ http://176.67.198.12:4068/udp/239.1.1.141:22141
 #EXTINF:-1,DaVinci Learning 
 http://176.67.198.12:4063/udp/239.1.1.141:22141
 
-#EXTINF:-1, DaVinci Learning_UKR---test
-http://213.174.8.7:11111/index.m3u8
+
 
 
 
@@ -2633,6 +2632,8 @@ http://ok2.se:8000/india2/india2/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se31
 http://ok2.se:8000/joshua1/joshua1/77332
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se32
+http://ok2.se:80/india2/india2/77332
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se33
 http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/77332
 
 
@@ -2702,7 +2703,8 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="Entertainment",TLC_liveanevia
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 
-
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_UKR---test
+http://213.174.8.7:11111/index.m3u8
 
 #EXTINF:-1,English Club TV
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
