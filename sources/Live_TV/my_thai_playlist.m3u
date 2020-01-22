@@ -2522,7 +2522,10 @@ http://ok2.se:8000/d906F7UJEmEQo33Y3/3b60F9UEN05XFLsxZ/364
 http://ok2.se:8000/c8faF7UDmGMgTCVGh/5dd4F9U0bgT31vPPJ/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test26
 http://ok2.se:8000/fba0F7UtPNMLMHFlq/0c73F9UBmlT1RGuhE/364
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test27
+http://ok2.se:8000/3597F7UQDtgU46pEn/f6f3F9U8BN5qipWJL/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test28
+http://ok2.se:8000/09c3F7UvmqOR7ccDn/3846F9UgpM6gdcgyC/364
 
 
 
@@ -2862,9 +2865,9 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-ssAczKA5It4/WdLY7P31s3I/AAAAAAAAAKM/qNaASJ8Teqw5-QAsfhTDAO8Plok8NFD0ACLcBGAs/s320/072.png",NHK WORLD HD
+#EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/mBTe5bW.png",NHK WORLD HD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 logo="https://static.iptv-epg.com/kr/ArirangTV.kr.png" group-title="News",Arirang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/j55hDLp.png",France 24 HD (in English) 
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
@@ -2923,7 +2926,8 @@ http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/364
 http://ok2.se:8000/f3d9F7UN9R3ZNtcv4/57ecF9UrjMpZ1pMMQ/364
 
 
-
+#EXTINF:-1,BBC News HD
+http://104.207.130.26:8080/live/4SpBqpOMKAMr/3BegUrYEyJmT/3419.m3u8
 
 
 #EXTINF:-1,CNBC_udp_viet4022
@@ -2941,18 +2945,35 @@ http://14.186.77.144:8889/rtp/232.84.1.117:10254
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC Asia
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
-#EXTINF:-1,CNBC_VN
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_VN
 http://203.162.235.41:16919
 
 #EXTINF:-1,CNBC_th---
 http://14.207.168.60:8000/play/a03n
-#EXTINF:-1,CNBC_HD
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_HD
 https://89.187.173.182/CNBC/mono.m3u8
 
 
 
 #EXTINF:-1,The Witcher Season 1 EP1_TH
 https://cdn-3.vip-streaming.com:30443/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep01_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNi8yMDIwIDg6Mjk6NDUgUE0maGFzaF92YWx1ZT0vTzVhNXV0ZlpLYXdnakYyQ1J5U3pnPT0mdmFsaWRtaW51dGVzPTE=
+
+#EXTINF:-1,The_Witcher_s1_2019_TH_ep01
+https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep01_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDQ6MDEgUE0maGFzaF92YWx1ZT1OYkhvUk5vSWdwQU1YcDZtR2krY2tRPT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:-1,The_Witcher_s1_2019_TH_ep02
+https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep02_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDM6MzkgUE0maGFzaF92YWx1ZT1lV2RISHM5K0JOSWM1MG9uTkhWMEZnPT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:-1,The_Witcher_s1_2019_TH_ep03
+https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep03_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDQ6MjkgUE0maGFzaF92YWx1ZT01SDRkS0FUd3ZsaUhkRmQzS1ZCYjNBPT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:-1,The_Witcher_s1_2019_TH_ep04
+https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep04_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDQ6NDkgUE0maGFzaF92YWx1ZT1pcjhWZDk3Z0dhbGlIYTZ5QVRMVmhRPT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:-1,The_Witcher_s1_2019_TH_ep05
+https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep05_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDU6MjggUE0maGFzaF92YWx1ZT1NZ3F1R1JWYnhjcDZDMDVwdjhiYmlnPT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:-1,The_Witcher_s1_2019_TH_ep06
+https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep06_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDU6NDIgUE0maGFzaF92YWx1ZT12TitUam1JaU1kMUpwcWZ5L2xMMkl3PT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:-1,The_Witcher_s1_2019_TH_ep07
+https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep07_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDU6NTUgUE0maGFzaF92YWx1ZT01Ry9mTUttUHBnK1BHZFI5TURYU1dnPT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:-1,The_Witcher_s1_2019_TH_ep08
+https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep08_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDY6MDggUE0maGFzaF92YWx1ZT1XdFhCQjdqR0xLSEJCTGEwVXQ2aDNnPT0mdmFsaWRtaW51dGVzPTE=
 
 
 
