@@ -2255,6 +2255,8 @@ http://mu02.v2iptv.com:8880/HJLM2002/ciZxmw8jji/33154
 http://mu02.v2iptv.com:8880/live/HJLM1372/sU6eOgVvUr/33154
 #EXTINF:-1,33154_v2iptv_live/ANNM0687-----------------test
 http://mu03.amzlive.net:8880/ANNM0687/ssrrUiWYS3/33154
+#EXTINF:-1,33154_v2iptv_live/ANLM0887-----------------test2
+http://mu03.amzlive.net:8880/ANLM0887/yEskkPAAr8/33154
 #EXTINF:-1,33154_v5iptv_ON
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33154
 
@@ -2467,7 +2469,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/53b1c003eded29524e1
 
 
 
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test1_Short
+http://ok2.se:8000/1xlSxrtwlo/FL6FtSYB2j/364
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test1-----------
@@ -2526,6 +2529,12 @@ http://ok2.se:8000/fba0F7UtPNMLMHFlq/0c73F9UBmlT1RGuhE/364
 http://ok2.se:8000/3597F7UQDtgU46pEn/f6f3F9U8BN5qipWJL/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test28
 http://ok2.se:8000/09c3F7UvmqOR7ccDn/3846F9UgpM6gdcgyC/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test29
+http://ok2.se:8000/30e3F7UhHZd1i6LgI/0510F9Uv5aS5Ko9Es/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test30
+http://ok2.se:8000/6842F7UOKlRmmIZPv/3a06F9UeBPgxPKZe8/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test31
+http://ok2.se:8000/5231F7U4kOtbqax3N/3627F9UCFIg0PkE98/364
 
 
 
@@ -2955,8 +2964,6 @@ https://89.187.173.182/CNBC/mono.m3u8
 
 
 
-#EXTINF:-1,The Witcher Season 1 EP1_TH
-https://cdn-3.vip-streaming.com:30443/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep01_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNi8yMDIwIDg6Mjk6NDUgUE0maGFzaF92YWx1ZT0vTzVhNXV0ZlpLYXdnakYyQ1J5U3pnPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1,The_Witcher_s1_2019_TH_ep01
 https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep01_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDQ6MDEgUE0maGFzaF92YWx1ZT1OYkhvUk5vSWdwQU1YcDZtR2krY2tRPT0mdmFsaWRtaW51dGVzPTE=
@@ -2974,6 +2981,7 @@ https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_
 https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep07_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDU6NTUgUE0maGFzaF92YWx1ZT01Ry9mTUttUHBnK1BHZFI5TURYU1dnPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1,The_Witcher_s1_2019_TH_ep08
 https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep08_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDY6MDggUE0maGFzaF92YWx1ZT1XdFhCQjdqR0xLSEJCTGEwVXQ2aDNnPT0mdmFsaWRtaW51dGVzPTE=
+
 
 
 
