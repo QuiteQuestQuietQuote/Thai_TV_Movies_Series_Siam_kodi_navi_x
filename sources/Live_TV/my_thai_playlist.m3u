@@ -121,6 +121,71 @@ http://main-a.for-our.info:8081/tv1/ch5.m3u8
 
 
 
+#EXTINF:-1, 5 HD---------------
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
+#EXTINF:-1,NBT HD 2
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
+#EXTINF:-1,Thai PBS HD 3
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thaipbs.smil/playlist.m3u8
+#EXTINF:-1,TNN  16
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/tnn24.smil/playlist.m3u8
+#EXTINF:-1,NEW 18
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
+#EXTINF:-1,NATION 22
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/nation.smil/playlist.m3u8
+#EXTINF:-1,workpoint 23
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/workpointtv.smil/playlist.m3u8
+#EXTINF:-1,true4U | 24
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/true4u.smil/playlist.m3u8
+#EXTINF:-1,G''MM' 25
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/gmmchannel.smil/playlist.m3u8
+#EXTINF:-1,CHANNEL 8
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/ch8.smil/playlist.m3u8
+#EXTINF:-1,MONO 29
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/mono29.smil/playlist.m3u8
+#EXTINF:-1,MCOT HD | 30
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/mcothd.smil/playlist.m3u8
+#EXTINF:-1,one HD 31
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8
+#EXTINF:-1,thairath TV HD 32
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thairathtv.smil/playlist.m3u8
+#EXTINF:-1,3 HD 33
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8
+#EXTINF:-1,AMARIN HD 34
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
+#EXTINF:-1,7 HD 35
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
+#EXTINF:-1,PPTV HD 36
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
+#EXTINF:-1,ch2
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/ch2/playlist.m3u8
+#EXTINF:-1,Boomerang
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/boomerang.smil/playlist.m3u8
+#EXTINF:-1,CARTOON CLUB CHANNEL
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/cartoonclub.smil/playlist.m3u8
+#EXTINF:-1,FAN tv
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/fantv.smil/playlist.m3u8
+#EXTINF:-1,FIGHT SPORTS
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/fightsportshd/playlist.m3u8
+#EXTINF:-1,KIX
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/kixhd/playlist.m3u8
+#EXTINF:-1,M CHANNEL
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/mchannel.smil/playlist.m3u8
+#EXTINF:-1,MONO PLUS
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/monoplus.smil/playlist.m3u8
+#EXTINF:-1,Paramount CHANNEL
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/paramountchannel/playlist.m3u8
+#EXTINF:-1,T SPORTS Channel
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/t-sports.smil/playlist.m3u8
+#EXTINF:-1,thrill
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
+#EXTINF:-1,TRACE SPORT STARS
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/tracesportstar/playlist.m3u8
+#EXTINF:-1,ZEE nang
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
+#EXTINF:-1,sabaidee TV
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/sabaideetv.smil/playlist.m3u8
+
 
 
 
@@ -1512,31 +1577,31 @@ http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/9049
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
-http://14.186.77.144:8889/rtp/232.84.2.129:9570
+http://123.17.237.212:2806/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://14.186.77.144:8889/rtp/232.84.2.131:9582
+http://123.17.237.212:2806/rtp/232.84.2.131:9582
 #EXTINF:-1,DISCOVERY ASIA
-http://14.186.77.144:8889/rtp/232.84.2.53:10528
+http://123.17.237.212:2806/rtp/232.84.2.53:10528
 #EXTINF:-1,DISCOVERY CHANNEL
-http://14.186.77.144:8889/rtp/232.84.1.47:8262
+http://123.17.237.212:2806/rtp/232.84.1.47:8262
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://14.186.77.144:8889/rtp/232.84.1.65:8364
+http://123.17.237.212:2806/rtp/232.84.1.65:8364
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://14.186.77.144:8889/rtp/232.84.1.1:7980
+http://123.17.237.212:2806/rtp/232.84.1.1:7980
 #EXTINF:-1,NAT GEO PEOPLE
-http://14.186.77.144:8889/rtp/232.84.1.67:8376
+http://123.17.237.212:2806/rtp/232.84.1.67:8376
 #EXTINF:-1,NAT GEO PEOPLE HD
-http://14.186.77.144:8889/rtp/232.84.1.76:8430
+http://123.17.237.212:2806/rtp/232.84.1.76:8430
 #EXTINF:-1,ASIAN FOOD CHANNEL
-http://14.186.77.144:8889/rtp/232.84.1.115:10236
+http://123.17.237.212:2806/rtp/232.84.1.115:10236
 #EXTINF:-1,Da Vinci Learning
-http://14.186.77.144:8889/rtp/232.84.1.108:10224
+http://123.17.237.212:2806/rtp/232.84.1.108:10224
 #EXTINF:-1,Nat Geo People
-http://14.186.77.144:8889/rtp/232.84.2.121:8376
+http://123.17.237.212:2806/rtp/232.84.2.121:8376
 #EXTINF:-1,DISNEY CHANNEL HD
-http://14.186.77.144:8889/rtp/232.84.2.143:10678
+http://123.17.237.212:2806/rtp/232.84.2.143:10678
 #EXTINF:-1,CNBC
-http://14.186.77.144:8889/rtp/232.84.2.177:10488
+http://123.17.237.212:2806/rtp/232.84.2.177:10488
 
 
 
@@ -2326,6 +2391,9 @@ http://sywly.xyz/19hd.php?id=9
 #EXTINF:-1,Taiwan_xxx10
 http://sywly.xyz/19hd.php?id=10
 
+#EXTINF:-1,Taiwan_xxx2_Ibiza-------------test
+http://www.liveviptv.xyz/19hd.php?id=2
+
 
 
 
@@ -2535,6 +2603,8 @@ http://ok2.se:8000/30e3F7UhHZd1i6LgI/0510F9Uv5aS5Ko9Es/364
 http://ok2.se:8000/6842F7UOKlRmmIZPv/3a06F9UeBPgxPKZe8/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test31
 http://ok2.se:8000/5231F7U4kOtbqax3N/3627F9UCFIg0PkE98/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test32
+http://ok2.se:8000/93eaF7UyFgpq7eqLh/6085F9UlcvHCCDUqy/364
 
 
 
@@ -2574,11 +2644,11 @@ http://42.115.224.37:4022/udp/225.1.1.198:30120
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
-http://14.186.77.144:8889/rtp/232.84.2.129:9570
+http://123.17.237.212:2806/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://14.186.77.144:8889/rtp/232.84.2.131:9582
+http://123.17.237.212:2806/rtp/232.84.2.131:9582
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",DISCOVERY ASIA_VN_rtp
-http://14.186.77.144:8889/rtp/232.84.2.53:10528
+http://123.17.237.212:2806/rtp/232.84.2.53:10528
 
 
 
@@ -2942,15 +3012,17 @@ http://104.207.130.26:8080/live/4SpBqpOMKAMr/3BegUrYEyJmT/3419.m3u8
 #EXTINF:-1,CNBC_udp_viet4022
 http://42.115.224.37:4022/udp/225.1.1.227:30120
 #EXTINF:-1,CNBC_rtp_viet
-http://14.186.77.144:8889/rtp/232.84.2.177:10488
+http://123.17.237.212:2806/rtp/232.84.2.177:10488
 
 #EXTINF:-1,VTV1 HD_udp4022
 http://42.115.224.37:4022/udp/225.1.2.249:30120
 #EXTINF:-1,VTV1 HD (HD 8Mbps)_rtp
-http://14.186.77.144:8889/rtp/232.84.1.117:10254
+http://123.17.237.212:2806/rtp/232.84.1.117:10254
 
 
 
+#EXTINF:-1,CNBC_KOR
+http://218.147.157.202:9981/stream/channelid/1259989320
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC Asia
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
