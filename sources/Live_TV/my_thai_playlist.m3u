@@ -2391,8 +2391,7 @@ http://sywly.xyz/19hd.php?id=9
 #EXTINF:-1,Taiwan_xxx10
 http://sywly.xyz/19hd.php?id=10
 
-#EXTINF:-1,Taiwan_xxx2_Ibiza-------------test
-http://www.liveviptv.xyz/19hd.php?id=2
+
 
 
 
@@ -2527,11 +2526,7 @@ http://j.mp/S_JasminTVHD_sly?.m3u8
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w199100510_b2592000.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Miami-TV.jpg",miamitv_fluxus
 http://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_b1896000.m3u8?fluxuslust.m3u8
-#EXTINF:-1,Models Inc.
-https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="Adult IPTV",Eye Candy
-https://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=abyvf6f7c3skho4fkbj2demm10
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="Adult IPTV",pluto_Eye Candy2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="Adult IPTV",pluto_Eye Candy
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=315c3556-332a-4996-806f-765ee9db752b&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
 
@@ -2605,6 +2600,8 @@ http://ok2.se:8000/6842F7UOKlRmmIZPv/3a06F9UeBPgxPKZe8/364
 http://ok2.se:8000/5231F7U4kOtbqax3N/3627F9UCFIg0PkE98/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test32
 http://ok2.se:8000/93eaF7UyFgpq7eqLh/6085F9UlcvHCCDUqy/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test33
+http://ok2.se:8000/6f74F7UIA4n5mmY1m/704cF9USprMtpZXIC/364
 
 
 
@@ -2615,6 +2612,8 @@ http://176.67.223.7:8000/udp/239.1.1.141:22141
 #EXTINF:-1,DaVinci Learning
 http://89.45.201.132:2222/udp/224.0.0.3:708
 
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test
+http://ok2.se:8000/93eaF7UyFgpq7eqLh/6085F9UlcvHCCDUqy/77332
 
 #EXTINF:-1, DaVinci Learning--------
 http://176.67.198.12:4068/udp/239.1.1.141:22141
@@ -2625,8 +2624,7 @@ http://176.67.198.12:4063/udp/239.1.1.141:22141
 
 
 
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/77332
+
 
 
 
