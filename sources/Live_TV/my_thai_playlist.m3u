@@ -2532,8 +2532,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/53b1c003eded29524e1
 
 
 
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test1_Short
-http://ok2.se:8000/1xlSxrtwlo/FL6FtSYB2j/364
+
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test1-----------
@@ -2602,6 +2601,14 @@ http://ok2.se:8000/5231F7U4kOtbqax3N/3627F9UCFIg0PkE98/364
 http://ok2.se:8000/93eaF7UyFgpq7eqLh/6085F9UlcvHCCDUqy/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test33
 http://ok2.se:8000/6f74F7UIA4n5mmY1m/704cF9USprMtpZXIC/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test34
+http://ok2.se:8000/6a23F7Uel9tvtTJSw/ff3cF9U3UY90vW5o3/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test35
+http://ok2.se:8000/cc4bF7UtUROzvuDQH/3e38F9UeUnifNXKCS/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test36
+http://ok2.se:8000/4f68F7U4pjIVMAbXg/17c0F9Uzh7W7rqsP4/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test37
+http://ok2.se:8000/20c4F7UqbGLWfsVhZ/e9abF9UGsEpV98jiL/364
 
 
 
@@ -2613,7 +2620,7 @@ http://176.67.223.7:8000/udp/239.1.1.141:22141
 http://89.45.201.132:2222/udp/224.0.0.3:708
 
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test
-http://ok2.se:8000/93eaF7UyFgpq7eqLh/6085F9UlcvHCCDUqy/77332
+http://ok2.se:8000/cc4bF7UtUROzvuDQH/3e38F9UeUnifNXKCS/77332
 
 #EXTINF:-1, DaVinci Learning--------
 http://176.67.198.12:4068/udp/239.1.1.141:22141
@@ -2653,7 +2660,7 @@ http://123.17.237.212:2806/rtp/232.84.2.53:10528
 
 
 
-
+12:23 AM 28-Jan-20
 
 
 
@@ -2664,6 +2671,8 @@ http://122.155.180.8:5021/live/440
 http://122.146.68.116:4046/VideoInput/play.ts
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI 
 http://89.38.8.130:39481/
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI
+http://122.155.180.8:5021/live/457
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI ---
 http://94.177.136.29:7478/play/a039
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discovery.jpg",Discovery CH_rtmp
@@ -2673,9 +2682,7 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_rtmp
 rtmp://118.97.96.17:1935/discover/afc_3
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
-http://182.210.139.190:9981/stream/channelid/1939259191
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor2
-http://39.117.186.152:8881/stream/channelid/1853468973
+http://218.53.17.23:9981/stream/channelid/1935150204
 
 #EXTINF:-1,WakuWakuJapan_liveanevia
 https://anevia115.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
@@ -2694,7 +2701,7 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="Entertainment",TLC_liveanevia
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_UKR---test
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_UKR
 http://213.174.8.7:11111/index.m3u8
 
 #EXTINF:-1,English Club TV
@@ -2767,6 +2774,15 @@ http://203.154.243.89:11205
 http://203.154.243.89:1205
 #EXTINF:-1,TH Universal
 http://203.154.243.89:1029
+
+#EXTINF:-1,Star Movies_Indo
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1,CinemaxHD_Indo
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
+#EXTINF:-1,HBOHits_Indo
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
+#EXTINF:-1,HBOSignature
+https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 
 
 
@@ -2946,6 +2962,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/j55hDLp.png",France 24 HD (in English) 
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews (English) 
@@ -3019,8 +3037,7 @@ http://123.17.237.212:2806/rtp/232.84.1.117:10254
 
 
 
-#EXTINF:-1,CNBC_KOR
-http://218.147.157.202:9981/stream/channelid/1259989320
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC Asia
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
