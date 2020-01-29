@@ -2398,6 +2398,8 @@ http://sywly.xyz/19hd.php?id=10
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey) TV-------------------------
 http://122.38.74.172:9981/stream/channelid/1463854277
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Honey) TV
+http://112.148.183.161:9981/stream/channelid/611208216
 #EXTINF:-1,VIKI
 http://116.45.184.224:9981/stream/channelid/337044103?ticket=EFFC15CF470CE1FE437C7294EC49FD766AB73659&profile=pass
 #EXTINF:-1,playboy_kor
@@ -2620,7 +2622,7 @@ http://176.67.223.7:8000/udp/239.1.1.141:22141
 http://89.45.201.132:2222/udp/224.0.0.3:708
 
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test
-http://ok2.se:8000/cc4bF7UtUROzvuDQH/3e38F9UeUnifNXKCS/77332
+http://ok2.se:8000/20c4F7UqbGLWfsVhZ/e9abF9UGsEpV98jiL/77332
 
 #EXTINF:-1, DaVinci Learning--------
 http://176.67.198.12:4068/udp/239.1.1.141:22141
