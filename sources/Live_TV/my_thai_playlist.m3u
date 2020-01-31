@@ -2445,8 +2445,8 @@ http://122.38.74.172:9981/stream/channelid/798964177
 http://112.148.183.161:9981/stream/channelid/488704961
 #EXTINF:-1,Desire
 http://122.38.74.172:9981/stream/channelid/816085039 
-#EXTINF:-1,Playboy TV_earth
-http://1.243.114.12:9981/stream/channelid/1175597243
+#EXTINF:-1,xxx
+http://122.38.74.172:9981/stream/channelid/1925379185
 
 
 
@@ -2495,7 +2495,7 @@ http://204.45.185.166:25678/i/ghjnvq5o/1bf4a301/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------new
-http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
+http://192.200.120.82:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
 #EXTINF:-1,JAV_rtmp
 rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 
@@ -2713,6 +2713,9 @@ rtmp://118.97.96.17:1935/discover/afc_3
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
 http://218.53.17.23:9981/stream/channelid/1935150204
 
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_UKR
+http://213.174.8.7:11111/index.m3u8
+
 #EXTINF:-1,WakuWakuJapan_liveanevia
 https://anevia115.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Entertainment",Asian Food Network_liveanevia
@@ -2730,8 +2733,6 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="Entertainment",TLC_liveanevia
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_UKR
-http://213.174.8.7:11111/index.m3u8
 
 #EXTINF:-1,English Club TV
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
@@ -2742,8 +2743,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_tvanywhere
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/index.m3u8
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_arab-------test
-http://195.154.157.54:65016/hls/live.stream.m3u8
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_indo
 http://203.207.56.228/live/iptv035.m3u8
@@ -2790,8 +2789,7 @@ https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8?fluxustv.m3u
 http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
 
 
-#EXTINF:-1,Netflix_Action--------------test
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/90847.m3u8
+
 
 
 #EXTINF:-1,TH movies-----------
@@ -2968,6 +2966,8 @@ http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2
 https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
 
 
+#EXTINF:-1,BesTV_4K
+http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1,grtn
 http://nclive.grtn.cn/4K/sd/live.m3u8
 #EXTINF:-1,CCTV1_HD
@@ -3030,6 +3030,8 @@ https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_hls/Bloomberg.m3u8
 
 #EXTINF:-1,HK_stocks
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1,TVB_Pearl
+http://m.567it.com/Pearl.m3u8
 #EXTINF:-1,bshd_HK_stocks2
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h7RKQpQ.png" group-title="INDONESIA",CNBC Indonesia
