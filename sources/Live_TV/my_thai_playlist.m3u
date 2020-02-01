@@ -138,7 +138,84 @@ http://203.154.243.31:8081/live/tv9/index.m3u8
 http://203.154.243.31:8081/live/tennis/index.m3u8
 
 
-
+#EXTINF:-1,BBC WORLD NEWS HD------------
+http://183.89.114.94:1002
+#EXTINF:-1,AUSTRALIA NEWS HD
+http://183.89.114.94:1003
+#EXTINF:-1,NHK G HD
+http://183.89.114.94:1004
+#EXTINF:-1,tv asahi HD
+http://183.89.114.94:1005
+#EXTINF:-1,Live HD
+http://183.89.114.94:1006
+#EXTINF:-1,TBS HD
+http://183.89.114.94:1007
+#EXTINF:-1,WOWOW HD
+http://183.89.114.94:1008
+#EXTINF:-1,ANIMAX
+http://183.89.114.94:1009
+#EXTINF:-1,MiaoMi HD
+http://183.89.114.94:1010
+#EXTINF:-1,CARTOON CLUB
+http://183.89.114.94:1011
+#EXTINF:-1,Live HD
+http://183.89.114.94:1012
+#EXTINF:-1,T SPORTS
+http://183.89.114.94:1013
+#EXTINF:-1,SMM TV
+http://183.89.114.94:1014
+#EXTINF:-1,WB TV HD
+http://183.89.114.94:1015
+#EXTINF:-1,Paramount Channels
+http://183.89.114.94:1016
+#EXTINF:-1,Action Hollywood HD
+http://183.89.114.94:1017
+#EXTINF:-1,MTV HD
+http://183.89.114.94:1018
+#EXTINF:-1,ITV Choice HD
+http://183.89.114.94:1019
+#EXTINF:-1,TV51 HD
+http://183.89.114.94:1020
+#EXTINF:-1,NBT HD
+http://183.89.114.94:1021
+#EXTINF:-1,THAIPBS HD
+http://183.89.114.94:1022
+#EXTINF:-1,3 Family
+http://183.89.114.94:1023
+#EXTINF:-1,MCOT Kids
+http://183.89.114.94:1024
+#EXTINF:-1,Spring News
+http://183.89.114.94:1025
+#EXTINF:-1,Voice TV
+http://183.89.114.94:1026
+#EXTINF:-1,Nation TV
+http://183.89.114.94:1027
+#EXTINF:-1,Workpoint TV
+http://183.89.114.94:1028
+#EXTINF:-1,True4U
+http://183.89.114.94:1029
+#EXTINF:-1,GMM25
+http://183.89.114.94:1030
+#EXTINF:-1,CH8
+http://183.89.114.94:1031
+#EXTINF:-1,3 SD
+http://183.89.114.94:1032
+#EXTINF:-1,MONO29
+http://183.89.114.94:1033
+#EXTINF:-1,9MCOT HD
+http://183.89.114.94:1034
+#EXTINF:-1,ONE HD
+http://183.89.114.94:1035
+#EXTINF:-1,Thairath TV HD
+http://183.89.114.94:1036
+#EXTINF:-1,3 HD
+http://183.89.114.94:1037
+#EXTINF:-1,Amarin TV HD
+http://183.89.114.94:1038
+#EXTINF:-1,CH7 HD
+http://183.89.114.94:1039
+#EXTINF:-1,PPTV HD
+http://183.89.114.94:1040
 
 
 #EXTINF:-1, 5 HD---------------
@@ -2345,10 +2422,12 @@ http://mu02.v2iptv.com:8880/TEST024/vZp8RdKqPT/33154
 http://mu02.v2iptv.com:8880/HJLM2002/ciZxmw8jji/33154
 #EXTINF:-1,33154_v2iptv_live/HJLM1372
 http://mu02.v2iptv.com:8880/live/HJLM1372/sU6eOgVvUr/33154
-#EXTINF:-1,33154_v2iptv_live/ANNM0687-----------------test
+#EXTINF:-1,33154_v2iptv_live/ANNM0687
 http://mu03.amzlive.net:8880/ANNM0687/ssrrUiWYS3/33154
-#EXTINF:-1,33154_v2iptv_live/ANLM0887-----------------test2
+#EXTINF:-1,33154_v2iptv_live/ANLM0887
 http://mu03.amzlive.net:8880/ANLM0887/yEskkPAAr8/33154
+#EXTINF:-1,33154_v2iptv_live/testzyx185-----------------test
+http://mu02.v2iptv.com:8880/live/testzyx185/Vv1Ta0xgfc/33154
 #EXTINF:-1,33154_v5iptv_ON
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33154
 
@@ -2362,7 +2441,7 @@ http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/3148
 
 
 
-#EXTINF:-1,jap_ts1---------------------------test
+#EXTINF:-1,jap_ts1-------------------------cut
 http://125.227.210.37:9001/VideoInput/play.ts
 #EXTINF:-1,jap_ts2
 http://125.227.210.37:9002/VideoInput/play.ts
@@ -2376,28 +2455,52 @@ http://125.227.210.37:9005/VideoInput/play.ts
 
 
 #EXTINF:-1,Ibiza_ok2--------------------------
-http://ok2.se:8000/f3d9F7UN9R3ZNtcv4/57ecF9UrjMpZ1pMMQ/72394
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/72394
 #EXTINF:-1,WANZ
-http://ok2.se:8000/f3d9F7UN9R3ZNtcv4/57ecF9UrjMpZ1pMMQ/6611
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6611
 #EXTINF:-1,IPZ
-http://ok2.se:8000/f3d9F7UN9R3ZNtcv4/57ecF9UrjMpZ1pMMQ/6610
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6610
 #EXTINF:-1,JAV 1 UNCENSORED
-http://ok2.se:8000/f3d9F7UN9R3ZNtcv4/57ecF9UrjMpZ1pMMQ/6612
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6612
 #EXTINF:-1,JAV 2 UNCENSORED
-http://ok2.se:8000/f3d9F7UN9R3ZNtcv4/57ecF9UrjMpZ1pMMQ/6613
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6613
 #EXTINF:-1,JAV 3 UNCENSORED
-http://ok2.se:8000/f3d9F7UN9R3ZNtcv4/57ecF9UrjMpZ1pMMQ/6614
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6614
 #EXTINF:-1,TOKYO HOT
-http://ok2.se:8000/f3d9F7UN9R3ZNtcv4/57ecF9UrjMpZ1pMMQ/6572
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6572
 #EXTINF:-1,X ART
-http://ok2.se:8000/f3d9F7UN9R3ZNtcv4/57ecF9UrjMpZ1pMMQ/10658
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/10658
 #EXTINF:-1,TUSHY
-http://ok2.se:8000/f3d9F7UN9R3ZNtcv4/57ecF9UrjMpZ1pMMQ/6615
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6615
+
+
+#EXTINF:-1,6605---------test
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6605
+#EXTINF:-1,6
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6606
+#EXTINF:-1,7
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6607
+#EXTINF:-1,8
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6608
+#EXTINF:-1,9
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6609
+
+#EXTINF:-1,6616---------test
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6616
+#EXTINF:-1,7
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6617
+#EXTINF:-1,8
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6618
+#EXTINF:-1,9
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6619
+#EXTINF:-1,20
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6620
+#EXTINF:-1,6621
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6621
 
 
 
-
-#EXTINF:-1,Taiwan_xxx1_NYX-----------------
+#EXTINF:-1,Taiwan_xxx1_NYX-----------------cut
 http://sywly.xyz/19hd.php?id=1
 #EXTINF:-1,Taiwan_xxx2_Ibiza
 http://sywly.xyz/19hd.php?id=2
@@ -2445,8 +2548,7 @@ http://122.38.74.172:9981/stream/channelid/798964177
 http://112.148.183.161:9981/stream/channelid/488704961
 #EXTINF:-1,Desire
 http://122.38.74.172:9981/stream/channelid/816085039 
-#EXTINF:-1,xxx
-http://122.38.74.172:9981/stream/channelid/1925379185
+
 
 
 
@@ -2458,7 +2560,7 @@ https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream2/playlist.m3u8
 
-#EXTINF:-1,X_Cafe_inter------------
+#EXTINF:-1,X_Cafe_inter------------cut
 http://204.45.185.166:25678/i/ghjnvq5o/984fa1vb/index.m3u8
 #EXTINF:-1,X_Cafe_bang
 http://204.45.185.166:25678/i/ghjnvq5o/v19a2133/index.m3u8
@@ -2494,7 +2596,7 @@ http://204.45.185.166:25678/i/ghjnvq5o/952a3vvv/index.m3u8
 http://204.45.185.166:25678/i/ghjnvq5o/1bf4a301/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------new
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------test
 http://192.200.120.82:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
 #EXTINF:-1,JAV_rtmp
 rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
@@ -2582,7 +2684,7 @@ http://ok2.se:8000/d52aF7U6XhhoOWx6k/304dF9UPpA7PpBnZV/364
 http://ok2.se:8000/9fabF7UPyHi3X12VX/b9e0F9U7NYFrFWLUI/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test9
 http://ok2.se:8000/94eaF7UXOZAcTwzki/42b2F9UR73eUI5gFz/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test10----------
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test10
 http://ok2.se:8000/f3d9F7UN9R3ZNtcv4/57ecF9UrjMpZ1pMMQ/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test11
 http://ok2.se:8000/712fF7UfTsAIkq1vE/39cdF9UcvlGiB3rPw/364
@@ -2638,6 +2740,14 @@ http://ok2.se:8000/cc4bF7UtUROzvuDQH/3e38F9UeUnifNXKCS/364
 http://ok2.se:8000/4f68F7U4pjIVMAbXg/17c0F9Uzh7W7rqsP4/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test37
 http://ok2.se:8000/20c4F7UqbGLWfsVhZ/e9abF9UGsEpV98jiL/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test38
+http://ok2.se:8000/a9e1F7U5dcjZMSEXK/d1b2F9UV8XIQCLMI4/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test39----------
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test40
+http://ok2.se:8000/f05aF7UU46e03rscR/9be8F9UPBwxgIHCzT/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test41
+http://ok2.se:8000/519eF7UgIBWGqrw8l/4b7dF9U6zFvjsHxOX/364
 
 
 
@@ -2649,7 +2759,7 @@ http://176.67.223.7:8000/udp/239.1.1.141:22141
 http://89.45.201.132:2222/udp/224.0.0.3:708
 
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2_test
-http://ok2.se:8000/4f68F7U4pjIVMAbXg/17c0F9Uzh7W7rqsP4/77332
+http://ok2.se:8000/f05aF7UU46e03rscR/9be8F9UPBwxgIHCzT/77332
 
 #EXTINF:-1, DaVinci Learning--------
 http://176.67.198.12:4068/udp/239.1.1.141:22141
@@ -3056,11 +3166,13 @@ https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2.se_ToIe
 http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2.se_pMMQ
-http://ok2.se:8000/f3d9F7UN9R3ZNtcv4/57ecF9UrjMpZ1pMMQ/364
+http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/364
 
 
-#EXTINF:-1,BBC News HD
-http://104.207.130.26:8080/live/4SpBqpOMKAMr/3BegUrYEyJmT/3419.m3u8
+
+
+
+
 
 
 #EXTINF:-1,CNBC_udp_viet4022
