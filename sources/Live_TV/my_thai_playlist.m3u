@@ -2474,29 +2474,7 @@ http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/10658
 http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6615
 
 
-#EXTINF:-1,6605---------test
-http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6605
-#EXTINF:-1,6
-http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6606
-#EXTINF:-1,7
-http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6607
-#EXTINF:-1,8
-http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6608
-#EXTINF:-1,9
-http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6609
 
-#EXTINF:-1,6616---------test
-http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6616
-#EXTINF:-1,7
-http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6617
-#EXTINF:-1,8
-http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6618
-#EXTINF:-1,9
-http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6619
-#EXTINF:-1,20
-http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6620
-#EXTINF:-1,6621
-http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/6621
 
 
 
@@ -2748,7 +2726,14 @@ http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/364
 http://ok2.se:8000/f05aF7UU46e03rscR/9be8F9UPBwxgIHCzT/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test41
 http://ok2.se:8000/519eF7UgIBWGqrw8l/4b7dF9U6zFvjsHxOX/364
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test42
+http://ok2.se:80/48d5F7Uh4o3Yte4Im/6e77F9U4kAOXlChUc/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test43
+http://ok2.se:80/4d95F7UMrE5FZxYA1/7e34F9UQlYx2SzO1p/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test44
+http://ok2.se:80/5fc7F7UO1iZOFihjV/e7e6F9USxEsFHW97p/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test45
+http://ok2.se:80/e1f9F7UlRDxrrJhBm/cc0bF9Udxihkl2zJI/364
 
 
 #EXTINF:-1,DaVinci Learning---------------
@@ -2852,6 +2837,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_tvanywhere
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/index.m3u8
+
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_indo
