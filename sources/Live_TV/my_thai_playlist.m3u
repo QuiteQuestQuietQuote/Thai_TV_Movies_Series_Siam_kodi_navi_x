@@ -2515,7 +2515,7 @@ http://116.45.184.224:9981/stream/channelid/337044103?ticket=EFFC15CF470CE1FE437
 http://122.38.74.172:9981/stream/channelid/966306501.m3u8
 #EXTINF:-1,Playboy TV
 http://182.231.145.96:9981/stream/channelid/16845746
-#EXTINF:-1,HOUSE
+#EXTINF:-1,PinkTV
 http://122.38.74.172:9981/stream/channelid/1086640851 
 #EXTINF:-1,MIDNIGHT
 http://122.38.74.172:9981/stream/channelid/339312133
@@ -2575,7 +2575,7 @@ http://204.45.185.166:25678/i/ghjnvq5o/952a3vvv/index.m3u8
 http://204.45.185.166:25678/i/ghjnvq5o/1bf4a301/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------new
 http://192.154.103.75:8080//ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
 #EXTINF:-1,JAV_rtmp
 rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
@@ -3065,6 +3065,8 @@ https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-
 
 #EXTINF:-1,BesTV_4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1,CCTV_4K
+http://140.249.30.106/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1,grtn
 http://nclive.grtn.cn/4K/sd/live.m3u8
 #EXTINF:-1,CCTV1_HD
@@ -3181,10 +3183,13 @@ https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_VN
 http://203.162.235.41:16919
 
+
 #EXTINF:-1,CNBC_th---
 http://14.207.168.60:8000/play/a03n
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_HD
 https://89.187.173.182/CNBC/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_HD-----test
+http://iptv-luxe.com:8789/live/1212/1212/12392.m3u8
 
 
 
