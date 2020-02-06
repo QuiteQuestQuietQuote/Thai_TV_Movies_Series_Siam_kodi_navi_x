@@ -1674,31 +1674,31 @@ http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/9049
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
-http://123.17.237.212:2806/rtp/232.84.2.129:9570
+http://113.162.3.218:8989/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://123.17.237.212:2806/rtp/232.84.2.131:9582
+http://113.162.3.218:8989/rtp/232.84.2.131:9582
 #EXTINF:-1,DISCOVERY ASIA
-http://123.17.237.212:2806/rtp/232.84.2.53:10528
+http://113.162.3.218:8989/rtp/232.84.2.53:10528
 #EXTINF:-1,DISCOVERY CHANNEL
-http://123.17.237.212:2806/rtp/232.84.1.47:8262
+http://113.162.3.218:8989/rtp/232.84.1.47:8262
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://123.17.237.212:2806/rtp/232.84.1.65:8364
+http://113.162.3.218:8989/rtp/232.84.1.65:8364
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://123.17.237.212:2806/rtp/232.84.1.1:7980
+http://113.162.3.218:8989/rtp/232.84.1.1:7980
 #EXTINF:-1,NAT GEO PEOPLE
-http://123.17.237.212:2806/rtp/232.84.1.67:8376
+http://113.162.3.218:8989/rtp/232.84.1.67:8376
 #EXTINF:-1,NAT GEO PEOPLE HD
-http://123.17.237.212:2806/rtp/232.84.1.76:8430
+http://113.162.3.218:8989/rtp/232.84.1.76:8430
 #EXTINF:-1,ASIAN FOOD CHANNEL
-http://123.17.237.212:2806/rtp/232.84.1.115:10236
+http://113.162.3.218:8989/rtp/232.84.1.115:10236
 #EXTINF:-1,Da Vinci Learning
-http://123.17.237.212:2806/rtp/232.84.1.108:10224
+http://113.162.3.218:8989/rtp/232.84.1.108:10224
 #EXTINF:-1,Nat Geo People
-http://123.17.237.212:2806/rtp/232.84.2.121:8376
+http://113.162.3.218:8989/rtp/232.84.2.121:8376
 #EXTINF:-1,DISNEY CHANNEL HD
-http://123.17.237.212:2806/rtp/232.84.2.143:10678
+http://113.162.3.218:8989/rtp/232.84.2.143:10678
 #EXTINF:-1,CNBC
-http://123.17.237.212:2806/rtp/232.84.2.177:10488
+http://113.162.3.218:8989/rtp/232.84.2.177:10488
 
 
 
@@ -2577,6 +2577,10 @@ http://204.45.185.166:25678/i/ghjnvq5o/1bf4a301/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------new
 http://192.154.103.75:8080//ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------flv_test
+http://hls.ws.anyrtc.io/live/70b6fc391558118220c89a1a94978f2b.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------flv_test2
+http://hls.ws.anyrtc.io/live/f3b0a3e1f5e84f129be41b04dde1d996.flv
 #EXTINF:-1,JAV_rtmp
 rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 
@@ -2735,6 +2739,27 @@ http://ok2.se:80/4d95F7UMrE5FZxYA1/7e34F9UQlYx2SzO1p/364
 http://ok2.se:80/5fc7F7UO1iZOFihjV/e7e6F9USxEsFHW97p/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test45
 http://ok2.se:80/e1f9F7UlRDxrrJhBm/cc0bF9Udxihkl2zJI/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test46
+http://ok2.se:8000/3bcbF7Uvy1zMMSdv2/f654F9UhNyX2ry1uQ/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test47
+http://ok2.se:8000/a977F7UnvF6a1H7F1/fd29F9UjJOfkA1NcV/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test48
+http://ok2.se:8000/7b46F7UfCqxzWVixY/2736F9UWj5jkmR9tA/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test49
+http://ok2.se:8000/b3a5F7UMt134iUQoM/7691F9UtdsDFoGF2H/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test50
+http://ok2.se:8000/8fc7F7U1EW3nvgFSX/5ccbF9Uh8u4xjF0cB/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test51
+http://ok2.se:8000/2f1bF7UGK7ASRf8t3/87f1F9U1Vu5YDev2B/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test52
+http://ok2.se:8000/f823F7U5zA1VcimBD/d385F9UOAOBSaD53Y/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test53
+http://ok2.se:8000/76fdF7UyPKumsB55w/9852F9UUbdkwAzOha/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test54
+http://ok2.se:8000/27daF7UP3KTxpOtCS/3f7fF9UgmHqdIS36Z/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test55
+http://ok2.se:8000/25eeF7UcX0oVxVimm/5ef9F9UbydjbcewuH/364
+
 
 
 #EXTINF:-1,DaVinci Learning---------------
@@ -2775,11 +2800,11 @@ http://42.115.224.37:4022/udp/225.1.1.198:30120
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
-http://123.17.237.212:2806/rtp/232.84.2.129:9570
+http://113.162.3.218:8989/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://123.17.237.212:2806/rtp/232.84.2.131:9582
+http://113.162.3.218:8989/rtp/232.84.2.131:9582
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",DISCOVERY ASIA_VN_rtp
-http://123.17.237.212:2806/rtp/232.84.2.53:10528
+http://113.162.3.218:8989/rtp/232.84.2.53:10528
 
 
 
@@ -2806,6 +2831,8 @@ rtmp://58.200.131.2:1935/livetv/discovery
 rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_rtmp
 rtmp://118.97.96.17:1935/discover/afc_3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic_JP
+https://cdn.jp.jpnettv.live/jptv/National_geographic/chunklist_w1310243407.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD_kor
 http://218.53.17.23:9981/stream/channelid/1935150204
 
@@ -3016,8 +3043,8 @@ http://178.124.183.15:80/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV5
 http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 
-
-
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV------test
+http://tvla.xyz:80/letgybgq/7M3eU6m7ur/1332037?xxx
 
 
 
@@ -3147,6 +3174,8 @@ http://persik.by/stream/1017/402000/10473.m3u8
 https://1161275585.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="USA",CNBC (New!)
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/FluxusTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="24/7 WORLD NEWS",CNBC Europe (GB) (New!)
+http://45.92.69.76:8000/play/a05h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mfgSRzB.png" group-title="USA",Fox Business
 https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8?fluxustv.m3u8
 
@@ -3167,12 +3196,12 @@ http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/364
 #EXTINF:-1,CNBC_udp_viet4022
 http://42.115.224.37:4022/udp/225.1.1.227:30120
 #EXTINF:-1,CNBC_rtp_viet
-http://123.17.237.212:2806/rtp/232.84.2.177:10488
+http://113.162.3.218:8989/rtp/232.84.2.177:10488
 
 #EXTINF:-1,VTV1 HD_udp4022
 http://42.115.224.37:4022/udp/225.1.2.249:30120
 #EXTINF:-1,VTV1 HD (HD 8Mbps)_rtp
-http://123.17.237.212:2806/rtp/232.84.1.117:10254
+http://113.162.3.218:8989/rtp/232.84.1.117:10254
 
 
 
