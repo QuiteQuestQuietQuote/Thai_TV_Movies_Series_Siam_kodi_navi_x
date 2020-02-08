@@ -123,6 +123,184 @@ http://main-a.for-our.info:8081/tv1/ch5.m3u8
 
 
 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-ch3.png",CH3 HD-------------mawintv2
+https://live.mawintv2.com/02_3HD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-ch5.png",CH5 HD
+https://live.mawintv2.com/02_5HD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-ch7.png",CH7 HD
+https://live.mawintv2.com/02_7HD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-mcot.png",MCOT HD
+https://live.mawintv2.com/02_MCOTHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-nbt.png",NBT HD
+https://live.mawintv2.com/02_NBTSD_480p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tpbs.png",THAI PBS HD
+https://live.mawintv2.com/02_THAIPBS_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-thairath.png",THAIRATH TV HD
+https://live.mawintv2.com/02_THAIRATH_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-pptv.png",PPTV HD
+https://live.mawintv2.com/02_PPTVHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-amarin.png",AMARIN HD
+https://live.mawintv2.com/02_AMARINHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-gmmchannel.png",GMM CHANNEL HD
+https://live.mawintv2.com/02_GMM_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-gmmone.png",GMM ONE HD
+https://live.mawintv2.com/02_GMMONE_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-workpoint.png",WORK POINT HD
+https://live.mawintv2.com/02_WORKPOINT_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-ch8.png",CH8 HD
+https://live.mawintv2.com/02_8HD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-mono.png",MONO 29 HD
+https://live.mawintv2.com/02_MONO_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-tnn24.png",TNN24 TV
+https://live.mawintv2.com/02_TNN24_480p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-nation.png",NATION TV
+https://live.mawintv2.com/02_NATION_480p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-new.png",NEW TV
+https://live.mawintv2.com/02_NEW_480p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-24u.png",TRUE4U
+https://live.mawintv2.com/02_TRUE4U_480p/chunklist.m3u8
+
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-warnertv.png",WARNER TV HD
+https://live.mawintv2.com/02_WarnerTVHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-axn.png",AXN HD
+https://live.mawintv2.com/02_AXNHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxaction-1.png",FOX ACTION TH
+https://live.mawintv2.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxaction-1.png",FOX ACTION EN
+https://live.mawintv2.com/02_FoxActionHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxpremium.png",FOX MOVIES PREMIUM TH
+https://live.mawintv2.com/02_FoxMoviesTH_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxpremium.png",FOX MOVIES PREMIUM EN
+https://live.mawintv2.com/02_FoxMoviesHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-fx-1.jpg",FX Thailand
+https://live.mawintv2.com/02_FXThailand_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-hbo.jpg",HBO HD
+https://live.mawintv2.com/02_HBOHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-hbohits.jpg",HBOHit HD
+https://live.mawintv2.com/02_HBOHit_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-hbosignature.jpg",HBOSignature HD
+https://live.mawintv2.com/02_HBOSignature_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-screenred.jpg",RedbyHBO HD
+https://live.mawintv2.com/02_RedbyHBO_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-foxcrime.jpg",FoxCrimeHD TH
+https://live.mawintv2.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-foxcrime.jpg",FoxCrimeHD EN
+https://live.mawintv2.com/02_FoxCrimeHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-fox.png",FOX THAI
+https://live.mawintv2.com/02_FoxThai_TH_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-fox.png",FOX THAI EN
+https://live.mawintv2.com/02_FoxThai_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-foxfamily.png",FOX FAMILY HD THAI
+https://live.mawintv2.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-foxfamily.png",FOX FAMILY HD
+https://live.mawintv2.com/02_FoxFamilyHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-tfilm.jpg",TRUE FILM HD1
+https://live.mawintv2.com/02_TrueFilmHD1_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="MOVIE" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-tfilm.jpg",TRUE FILM HD2
+https://live.mawintv2.com/02_TrueFilmHD2_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-history.png",HISTORY HD
+https://live.mawintv2.com/02_HISTORYHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-history2.png",HISTORY2 HD
+https://live.mawintv2.com/02_H2HD_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-discovery.png",DISCOVERY HD WORLD
+https://live.mawintv2.com/02_DiscoveryHDWorld/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-discovery.png",DISCOVERY
+https://live.mawintv2.com/02_DiscoveryChannel/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-animalplanet.png",ANIMALPLANET
+https://live.mawintv2.com/02_AnimalPlanet/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-natgeo.png",NETIONAL GEO HD TH
+https://live.mawintv2.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-natgeo.png",NETIONAL GEO HD EN
+https://live.mawintv2.com/02_NatGeoHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-bbcearth.png",BBC EARTH HD
+https://live.mawintv2.com/02_BBCEARTH_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-bbclifestyle.png",BBC LIFESTYLE HD
+https://live.mawintv2.com/02_LIFETYLEHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-natgeowild.jpg",NET GEO WILD HD TH
+https://live.mawintv2.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-natgeowild.jpg",NET GEO WILD HD EN
+https://live.mawintv2.com/02_NatGeoWild_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-natgeopeople.jpg",NET PEOPLE HD
+https://live.mawintv2.com/02_NatPeopleHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/sd-discoveryscience.jpg",Science Channel
+https://stream6.xpeer-cdn.com/02_DiscoveryScience/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-samrujlok.jpg",SAMRUJLOK
+https://live.mawintv2.com/sumrujlok_goodtv/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-mysci.jpg",MYSCI HD
+https://live.mawintv2.com/02_MYSCIHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="KIDS" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/sd-cartoonnetwork-1.png",CARTOON NETWORK
+https://live.mawintv2.com/02_CartoonNetwork_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="KIDS" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/sd-disney.png",DISNEY
+https://live.mawintv2.com/00_disney_480p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="KIDS" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-disneyxd.png",DISNEY XD
+https://live.mawintv2.com/02_DisneyXD_720p/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="KIDS" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/sd-sparkjump.png",SPARK JUMP
+https://live.mawintv2.com/00_sparkjump_480p/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -141,7 +319,7 @@ http://203.154.243.31:8081/live/tennis/index.m3u8
 
 
 
-#EXTINF:-1, 5 HD---------------
+#EXTINF:-1, 5 HD---------------leechfreetv
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
 #EXTINF:-1,NBT HD 2
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
@@ -209,7 +387,7 @@ http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/sabaideetv.smil/pla
 
 
 
-#EXTINF:-1,3HD--------------
+#EXTINF:-1,3HD--------------livefreebl-1
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8
 #EXTINF:-1,5HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
@@ -229,8 +407,7 @@ http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
 #EXTINF:-1,THAIRAHT HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
-
-#EXTINF:-1,workpointtv-----------
+#EXTINF:-1,workpointtv
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/workpointtv.smil/playlist.m3u8
 #EXTINF:-1,mono29
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mono29.smil/playlist.m3u8
@@ -2307,10 +2484,7 @@ http://sywly.xyz/19hd.php?id=9
 #EXTINF:-1,Taiwan_xxx10
 http://sywly.xyz/19hd.php?id=10
 
-#EXTINF:-1,Taiwan_xxx3--------test
-http://fxzb.bbwqg.cn/proxy/19hd.php?id=3
-#EXTINF:-1,Taiwan_xxx3
-http://fxzb.bbwqg.cn/19hd.php?id=3
+
 
 
 
@@ -2387,7 +2561,8 @@ http://204.45.185.166:25678/i/ghjnvq5o/1bf4a301/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------
 http://192.154.103.75:8080//ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------new
-http://192.200.120.82:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
+http://cdn.5itv.tv/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------flv
 http://hls.ws.anyrtc.io/live/70b6fc391558118220c89a1a94978f2b.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------flv
@@ -2570,6 +2745,8 @@ http://ok2.se:8000/76fdF7UyPKumsB55w/9852F9UUbdkwAzOha/364
 http://ok2.se:8000/27daF7UP3KTxpOtCS/3f7fF9UgmHqdIS36Z/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test55
 http://ok2.se:8000/25eeF7UcX0oVxVimm/5ef9F9UbydjbcewuH/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test56
+http://ok2.se:8000/f8adF7UVKLyA0OcdY/02f2F9U53EeyQYFC3/364
 
 
 
@@ -2757,7 +2934,7 @@ https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 https://anevia114.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Movies",FX-----------TH
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Movies",FX-----------livedoomovie
 https://livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="Movies",FXM
 https://livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
@@ -2768,8 +2945,7 @@ https://livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Movies",HBO Signature
 https://livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 
-
-#EXTINF:0, NatGeo People
+#EXTINF:0, NatGeo People---------livedoomovie
 https://www.livedoomovie.com/02_NatPeopleHD_720p/chunklist.m3u8
 #EXTINF:0, Sumrujlok
 https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
@@ -2783,6 +2959,28 @@ https://www.livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_LIFETYLEHD_720p/chunklist.m3u8
 
 
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-bbcearth.png",BBC EARTH HD----------mawintv2
+https://live.mawintv2.com/02_BBCEARTH_720p/chunklist.m3u8
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-bbclifestyle.png",BBC LIFESTYLE HD
+https://live.mawintv2.com/02_LIFETYLEHD_720p/chunklist.m3u8
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-history.png",HISTORY HD
+https://live.mawintv2.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-history2.png",HISTORY2 HD
+https://live.mawintv2.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-discovery.png",DISCOVERY HD WORLD
+https://live.mawintv2.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-discovery.png",DISCOVERY
+https://live.mawintv2.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/sd-discoveryscience.jpg",Science Channel
+https://stream6.xpeer-cdn.com/02_DiscoveryScience/chunklist.m3u8
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-samrujlok.jpg",SAMRUJLOK
+https://live.mawintv2.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-mysci.jpg",MYSCI HD
+https://live.mawintv2.com/02_MYSCIHD_720p/chunklist.m3u8
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-natgeopeople.jpg",NET PEOPLE HD
+https://live.mawintv2.com/02_NatPeopleHD_720p/chunklist.m3u8
+#EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-natgeo.png",NETIONAL GEO HD TH
+https://live.mawintv2.com/02_NatGeoHD_TH_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="Learning",UN Web TV
