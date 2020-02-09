@@ -2407,12 +2407,19 @@ http://mu02.v2iptv.com:8880/TEST024/vZp8RdKqPT/33154
 http://mu02.v2iptv.com:8880/HJLM2002/ciZxmw8jji/33154
 #EXTINF:-1,33154_v2iptv_live/HJLM1372
 http://mu02.v2iptv.com:8880/live/HJLM1372/sU6eOgVvUr/33154
-#EXTINF:-1,33154_v2iptv_live/ANNM0687
+#EXTINF:-1,33154_v2iptv_ANNM0687
 http://mu03.amzlive.net:8880/ANNM0687/ssrrUiWYS3/33154
-#EXTINF:-1,33154_v2iptv_live/ANLM0887
+#EXTINF:-1,33154_v2iptv_ANLM0887
 http://mu03.amzlive.net:8880/ANLM0887/yEskkPAAr8/33154
-#EXTINF:-1,33154_v2iptv_live/testzyx185-----------------test
+#EXTINF:-1,33154_v2iptv_live/testzyx185
 http://mu02.v2iptv.com:8880/live/testzyx185/Vv1Ta0xgfc/33154
+#EXTINF:-1,33154_v2iptv_9SlJHWDXmG-----------------test
+http://mu02.v2iptv.com:8880/9SlJHWDXmG/gV51stYYTc/33154
+#EXTINF:-1,33154_v2iptv_3BZR0l6HUl-----------------test2
+http://mu02.v2iptv.com:8880/3BZR0l6HUl/0ZkwqH7CWE/33154
+#EXTINF:-1,33154_v2iptv_7FpatGmvX0-----------------test3
+http://mu02.v2iptv.com:8880/7FpatGmvX0/hzxUH8jZNi/33154
+
 #EXTINF:-1,33154_v5iptv_ON
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33154
 
@@ -2747,6 +2754,16 @@ http://ok2.se:8000/27daF7UP3KTxpOtCS/3f7fF9UgmHqdIS36Z/364
 http://ok2.se:8000/25eeF7UcX0oVxVimm/5ef9F9UbydjbcewuH/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test56
 http://ok2.se:8000/f8adF7UVKLyA0OcdY/02f2F9U53EeyQYFC3/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test57
+http://ok2.se:8000/c1fbF7USmFr7dGVLp/3650F9UchzDwMZOIQ/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test58
+http://ok2.se:8000/3a07F7UUCIBR7m8Zr/7c90F9UkG9zsODhfe/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test59
+http://ok2.se:8000/2ff9F7UNThEeOWMov/2e5cF9Ujq5QOY9LK0/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test60
+http://ok2.se:80/2353F7UiwniVXbx5i/12f8F9U4ZghZRPpuj/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test61
+http://ok2.se:8000/089eF7UbOGjKhROKc/676cF9UnwreJOVAT0/364
 
 
 
