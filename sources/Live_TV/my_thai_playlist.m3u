@@ -295,7 +295,84 @@ https://live.mawintv2.com/00_sparkjump_480p/chunklist.m3u8
 
 
 
-
+#EXTINF:-1,BBC WORLD NEWS HD---------------
+http://180.183.2.121:1002
+#EXTINF:-1,AUSTRALIA NEWS HD
+http://180.183.2.121:1003
+#EXTINF:-1,NHK G HD
+http://180.183.2.121:1004
+#EXTINF:-1,tv asahi HD
+http://180.183.2.121:1005
+#EXTINF:-1,Live HD
+http://180.183.2.121:1006
+#EXTINF:-1,TBS HD
+http://180.183.2.121:1007
+#EXTINF:-1,WOWOW HD
+http://180.183.2.121:1008
+#EXTINF:-1,ANIMAX
+http://180.183.2.121:1009
+#EXTINF:-1,MiaoMi HD
+http://180.183.2.121:1010
+#EXTINF:-1,CARTOON CLUB
+http://180.183.2.121:1011
+#EXTINF:-1,Live HD
+http://180.183.2.121:1012
+#EXTINF:-1,T SPORTS
+http://180.183.2.121:1013
+#EXTINF:-1,SMM TV
+http://180.183.2.121:1014
+#EXTINF:-1,WB TV HD
+http://180.183.2.121:1015
+#EXTINF:-1,Paramount Channels
+http://180.183.2.121:1016
+#EXTINF:-1,Action Hollywood HD
+http://180.183.2.121:1017
+#EXTINF:-1,MTV HD
+http://180.183.2.121:1018
+#EXTINF:-1,ITV Choice HD
+http://180.183.2.121:1019
+#EXTINF:-1,TV51 HD
+http://180.183.2.121:1020
+#EXTINF:-1,NBT HD
+http://180.183.2.121:1021
+#EXTINF:-1,THAIPBS HD
+http://180.183.2.121:1022
+#EXTINF:-1,3 Family
+http://180.183.2.121:1023
+#EXTINF:-1,MCOT Kids
+http://180.183.2.121:1024
+#EXTINF:-1,Spring News
+http://180.183.2.121:1025
+#EXTINF:-1,Voice TV
+http://180.183.2.121:1026
+#EXTINF:-1,Nation TV
+http://180.183.2.121:1027
+#EXTINF:-1,Workpoint TV
+http://180.183.2.121:1028
+#EXTINF:-1,True4U
+http://180.183.2.121:1029
+#EXTINF:-1,GMM25
+http://180.183.2.121:1030
+#EXTINF:-1,CH8
+http://180.183.2.121:1031
+#EXTINF:-1,3 SD
+http://180.183.2.121:1032
+#EXTINF:-1,MONO29
+http://180.183.2.121:1033
+#EXTINF:-1,9MCOT HD
+http://180.183.2.121:1034
+#EXTINF:-1,ONE HD
+http://180.183.2.121:1035
+#EXTINF:-1,Thairath TV HD
+http://180.183.2.121:1036
+#EXTINF:-1,3 HD
+http://180.183.2.121:1037
+#EXTINF:-1,Amarin TV HD
+http://180.183.2.121:1038
+#EXTINF:-1,CH7 HD
+http://180.183.2.121:1039
+#EXTINF:-1,PPTV HD
+http://180.183.2.121:1040
 
 
 
@@ -2764,6 +2841,12 @@ http://ok2.se:8000/2ff9F7UNThEeOWMov/2e5cF9Ujq5QOY9LK0/364
 http://ok2.se:80/2353F7UiwniVXbx5i/12f8F9U4ZghZRPpuj/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test61
 http://ok2.se:8000/089eF7UbOGjKhROKc/676cF9UnwreJOVAT0/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test62
+http://ok2.se:8000/203dF7U3tC8WPdHNB/ce96F9UzBnMeFCEE3/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test63
+http://ok2.se:8000/cd68F7Uri0obZEgo3/143eF9UQpQyzLx4dr/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test64
+http://ok2.se:8000/4504F7UTaYWx5hpuA/895bF9UTU9kgTXUjk/364
 
 
 
