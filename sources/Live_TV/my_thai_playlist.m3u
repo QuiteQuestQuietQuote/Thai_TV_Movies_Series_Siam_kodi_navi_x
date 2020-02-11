@@ -2644,8 +2644,6 @@ http://204.45.185.166:25678/i/ghjnvq5o/1bf4a301/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------
 http://192.154.103.75:8080//ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------new
-http://cdn.5itv.tv/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------flv
 http://hls.ws.anyrtc.io/live/70b6fc391558118220c89a1a94978f2b.flv
@@ -2847,7 +2845,20 @@ http://ok2.se:8000/203dF7U3tC8WPdHNB/ce96F9UzBnMeFCEE3/364
 http://ok2.se:8000/cd68F7Uri0obZEgo3/143eF9UQpQyzLx4dr/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test64
 http://ok2.se:8000/4504F7UTaYWx5hpuA/895bF9UTU9kgTXUjk/364
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test65
+http://ok2.se:8000/c9dcF7UmsqJcrzqHi/c64eF9UUBzx5oYnVm/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test66
+http://ok2.se:80/2079F7UNFIElFHmvc/677cF9U56HBNGYc1T/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test67
+http://ok2.se:80/1a1dF7UJyktRroCy4/ef30F9UlVojWC0I27/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test68
+http://ok2.se:8000/0974F7Um5l9lhsyeX/2fd0F9UdNbZbJJNA6/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test69
+http://ok2.se:8000/096fF7UQSs37yLaM8/4546F9U22ptDxdH2e/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test70
+http://ok2.se:8000/dc9bF7URh1K0FUzCx/5520F9ULOUT75XD9V/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test71
+http://ok2.se:8000/096dF7U6mhzYYMk6q/359aF9UGQ43WXV6UB/364
 
 
 #EXTINF:-1,DaVinci Learning---------------
@@ -2868,10 +2879,18 @@ http://176.67.198.12:4063/udp/239.1.1.141:22141
 
 #EXTINF:-1,Da Vinci-----------test
 http://95.211.254.11:44477/davincilearning/mpegts
+#EXTINF:-1,Da Vinci-----------test2
+http://185.180.12.90:8080/DAVINCI/index.m3u8?token=test
+#EXTINF:-1,Da Vinci-----------test3
+http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/926.ts
 
 
-
-
+#EXTINF:-1,Asian Food Network-----------test
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:-1,ASIAN FOOD CHANNEL I-----------test2
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+#EXTINF:-1,Asian Food Channel-----------test3
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 
 
 
@@ -3154,8 +3173,7 @@ http://178.124.183.15:80/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV5
 http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV------test
-http://tvla.xyz:80/letgybgq/7M3eU6m7ur/1332037?xxx
+
 
 
 
