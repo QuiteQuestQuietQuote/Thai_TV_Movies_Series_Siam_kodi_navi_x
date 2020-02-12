@@ -2859,6 +2859,14 @@ http://ok2.se:8000/096fF7UQSs37yLaM8/4546F9U22ptDxdH2e/364
 http://ok2.se:8000/dc9bF7URh1K0FUzCx/5520F9ULOUT75XD9V/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test71
 http://ok2.se:8000/096dF7U6mhzYYMk6q/359aF9UGQ43WXV6UB/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test72
+http://ok2.se:8000/098bF7UWpqTkLvgnG/9bafF9UJhFzWeIVtA/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test73
+http://ok2.se:8000/6757F7U280rFfiqXL/834cF9UEPqpR0v7vc/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test74
+http://ok2.se:8000/2020F7UmtQ2j2zl9q/dad7F9UYaNmSYKeLf/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test75
+http://ok2.se:8000/fW6Q0SW5nI/ZJnPjpK3aw/364
 
 
 #EXTINF:-1,DaVinci Learning---------------
@@ -2877,20 +2885,14 @@ http://176.67.198.12:4068/udp/239.1.1.141:22141
 http://176.67.198.12:4063/udp/239.1.1.141:22141
 
 
-#EXTINF:-1,Da Vinci-----------test
+#EXTINF:-1,Da Vinci----------
 http://95.211.254.11:44477/davincilearning/mpegts
-#EXTINF:-1,Da Vinci-----------test2
+#EXTINF:-1,Da Vinci----------
 http://185.180.12.90:8080/DAVINCI/index.m3u8?token=test
-#EXTINF:-1,Da Vinci-----------test3
-http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/926.ts
 
 
-#EXTINF:-1,Asian Food Network-----------test
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-#EXTINF:-1,ASIAN FOOD CHANNEL I-----------test2
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
-#EXTINF:-1,Asian Food Channel-----------test3
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
+
+
 
 
 
@@ -2948,8 +2950,11 @@ http://218.53.17.23:9981/stream/channelid/1935150204
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_UKR
 http://213.174.8.7:11111/index.m3u8
 
-#EXTINF:-1,WakuWakuJapan_liveanevia
+#EXTINF:-1,WakuWakuJapan_anevia115
 https://anevia115.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
+#EXTINF:-1,AFC_anevia115
+https://anevia115.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Entertainment",Asian Food Network_liveanevia
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/BBCEarth.qa.png" group-title="Learning",BBC Earth_liveanevia
@@ -2964,6 +2969,7 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="Entertainment",TLC_liveanevia
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
+
 
 
 #EXTINF:-1,English Club TV
@@ -3053,6 +3059,7 @@ https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 https://anevia114.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Movies",FX-----------livedoomovie
 https://livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="Movies",FXM
@@ -3101,8 +3108,26 @@ https://live.mawintv2.com/02_NatPeopleHD_720p/chunklist.m3u8
 #EXTINF:-1, group-title="DISCOVERY CHANNEL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-natgeo.png",NETIONAL GEO HD TH
 https://live.mawintv2.com/02_NatGeoHD_TH_720p/chunklist.m3u8
 
+#EXTINF:-1,bbc-earth--------php----------test
+http://www.we-play.tv/live/channel.php?name=bbc-earth
+#EXTINF:-1,bbc-lifestyle
+http://www.we-play.tv/live/channel.php?name=bbc-lifestyle
+#EXTINF:-1,samruajlok
+http://www.we-play.tv/live/channel.php?name=samruajlok
+#EXTINF:-1,mysci
+http://www.we-play.tv/live/channel.php?name=mysci
+#EXTINF:-1,discovery-asia
+http://www.we-play.tv/live/channel.php?name=discovery-asia
+#EXTINF:-1,discovery-science
+http://www.we-play.tv/live/channel.php?name=discovery-science
+#EXTINF:-1,natgeopeople_th
+http://www.we-play.tv/live/channel.php?name=natgeopeople_th
+#EXTINF:-1,discovery
+http://www.we-play.tv/live/channel.php?name=discovery
 
-#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="Learning",UN Web TV
+
+
+#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="Learning",UN Web TV-------------
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
 #EXTINF:-1,TH Warner
 http://203.154.177.124:8899/live/ch12/playlist.m3u8
