@@ -3272,6 +3272,21 @@ http://ok2.se:80/2632F7UrJWwhIfsLg/d758F9UJs0nUC35SB/364
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test89
 http://ok2.se:8000/a98dF7UXNBUrZ7FBy/ddb3F9UJI0Q830A8R/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test90
+http://ok2.se:8000/4ebaF7UbgV2aPWa6D/f42bF9UBtMmeSZvW8/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test91
+http://ok2.se:80/2ae5F7UsAVeUTn8ql/546fF9UwCnAy83pfP/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test92
+http://ok2.se:80/08bdF7UvVZyTLbAq4/1ea9F9UznmiTq1GnC/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test93
+http://ok2.se:80/eb47F7URHSguMcjvc/6736F9UVpMEXa1vih/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test94
+http://ok2.se:8000/d103F7Us4wt67DIJe/8c7bF9UEjTNj5qdvj/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test95
+http://ok2.se:8000/5772F7UZs08l46O7X/5b58F9URZBHXX6cGH/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test96
+http://ok2.se:80/2ae5F7UsAVeUTn8ql/546fF9UwCnAy83pfP/364
+
 
 
 
@@ -3294,7 +3309,7 @@ http://176.67.198.12:4063/udp/239.1.1.141:22141
 #EXTINF:-1,Da Vinci----------
 http://95.211.254.11:44477/davincilearning/mpegts
 
-#EXTINF:-1,Da Vinci----------
+#EXTINF:-1,Da Vinci----------test
 http://185.180.12.90:8080/DAVINCI/index.m3u8?token=test
 #EXTINF:-1 ,DISCOVERYSCIENCE
 http://185.180.12.90:8080/DISCOVERYSCIENCE/index.m3u8?token=test
