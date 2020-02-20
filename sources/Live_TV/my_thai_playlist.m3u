@@ -2892,7 +2892,7 @@ http://122.38.74.172:9981/stream/channelid/339312133
 http://112.148.183.161:9981/stream/channelid/96001658
 #EXTINF:-1,VIKI
 http://122.38.74.172:9981/stream/channelid/798964177 
-#EXTINF:-1,VIKI-new
+#EXTINF:-1  tvg-logo="https://i.imgur.com/EJZPlK9.jpg",VIKI-new
 http://112.148.183.161:9981/stream/channelid/488704961
 #EXTINF:-1,Desire
 http://122.38.74.172:9981/stream/channelid/816085039 
@@ -2908,9 +2908,8 @@ https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_streamlock.net
 https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream2/playlist.m3u8
 
-#EXTINF:-1,X_Cafe_inter------------cut
-http://204.45.185.166:25678/i/ghjnvq5o/984fa1vb/index.m3u8
-#EXTINF:-1,X_Cafe_bang
+
+#EXTINF:-1,X_Cafe_bang------------cut
 http://204.45.185.166:25678/i/ghjnvq5o/v19a2133/index.m3u8
 #EXTINF:-1,X_Cafe_ass
 http://204.45.185.166:25678/i/ghjnvq5o/8jainsbq/index.m3u8
@@ -2920,10 +2919,12 @@ http://204.45.185.166:25678/i/ghjnvq5o/456oinav/index.m3u8
 http://204.45.185.166:25678/i/ghjnvq5o/91bnjred/index.m3u8
 #EXTINF:-1,X_Cafe_asian
 http://204.45.185.166:25678/i/ghjnvq5o/846a1ghm/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1kB5Mk6.png" group-title="XXX",JAV_etv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1kB5Mk6.png" group-title="XXX",JAV_etv_Rainbow TV
 http://204.45.185.166:25678/i/ghjnvq5o/8c855daa/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",JAV_SonSee2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",JAV_SonSee1
 http://204.45.185.166:25678/i/ghjnvq5o/8c855fdf/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",JAV_SonSee2
+http://204.45.185.166:25678/i/ghjnvq5o/984fa1vb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v99U3JE.png" group-title="XXX",JAV_AmezingTV
 http://204.45.185.166:25678/i/ghjnvq5o/8c85fsaf/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gsoilhg.jpg" group-title="XXX",JAV_Pandora_Pink
@@ -2942,6 +2943,9 @@ http://204.45.185.166:25678/i/ghjnvq5o/84a15gbc/index.m3u8
 http://204.45.185.166:25678/i/ghjnvq5o/952a3vvv/index.m3u8
 #EXTINF:-1,X5
 http://204.45.185.166:25678/i/ghjnvq5o/1bf4a301/index.m3u8
+
+#EXTINF:-1,JAV_OursHD----------test
+http://204.45.182.172:26789/i/ghjnvq5o/tj5knp44/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------
@@ -3264,8 +3268,7 @@ http://176.67.198.12:4063/udp/239.1.1.141:22141
 
 #EXTINF:-1,Da Vinci----------
 http://95.211.254.11:44477/davincilearning/mpegts
-#EXTINF:-1,.Da Vinci_RO----------test
-http://92.249.220.142:9981/stream/channelid/700139928
+
 
 #EXTINF:-1,Da Vinci----------temp
 http://185.180.12.90:8080/DAVINCI/index.m3u8?token=test
@@ -3520,8 +3523,7 @@ http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 https://streamer-1.toffeelive.com/live/sony_bbc_earth_720/index.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth---BGD
 http://103.118.76.229:1935/tvprogram/BBC-EARTH/playlist.m3u8
-#EXTINF:-1,NO:BBC Earth HD--------------temp
-http://54.37.88.62:2086/uSh4pWrV9p/5cCBSlAj0A/903
+
 
 
 #EXTINF:-1,Russian Night
@@ -3547,6 +3549,33 @@ http://178.124.183.14:80/hls/CH_NYARTTV/variant.m3u8
 http://178.124.183.15:80/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV5
 http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
+
+
+#EXTINF:-1,XXX: NYX Media 1-------------test
+http://nomorecable.eu:80/live/TcVGUwOeHI/ZY3bwwRToP/55784.ts
+#EXTINF:-1,XXX: NUART TV
+http://nomorecable.eu:80/live/TcVGUwOeHI/ZY3bwwRToP/55816.ts
+#EXTINF:-1,XXX | Nuart TV
+http://nomorecable.eu:80/live/TcVGUwOeHI/ZY3bwwRToP/55995.ts
+#EXTINF:-1,XXX- Nuart
+http://cdn7.dyncdn.pro:8080/n8GmuPdHCj/RZRFXENac1/12136
+#EXTINF:-1,XXX- Nuart
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/12136
+#EXTINF:-1,NUARTTVHD
+http://193.233.189.147:999/udp/239.191.254.250:15285
+#EXTINF:-1,Adult:NuartTV
+http://iptv9211.hopto.me:8000/nfzNlANvf2/HHfWU3dzWt/71704
+
+#EXTINF:-1,Adult: Movies Cinema Erotic 1 FHD***
+http://iptv9211.hopto.me:8000/nfzNlANvf2/HHfWU3dzWt/29790
+#EXTINF:-1,Adult: Movies Cinema Erotic 2 FHD***
+http://iptv9211.hopto.me:8000/nfzNlANvf2/HHfWU3dzWt/29789
+#EXTINF:-1,Adult: Movies Cinema Erotic 3 FHD***_Adult
+http://iptv9211.hopto.me:8000/nfzNlANvf2/HHfWU3dzWt/29788
+#EXTINF:-1,Adult: Movies Cinema Erotic 4 FHD***
+http://iptv9211.hopto.me:8000/nfzNlANvf2/HHfWU3dzWt/29787
+#EXTINF:-1,Adult: Movies Cinema Erotic 5 FHD***
+http://iptv9211.hopto.me:8000/nfzNlANvf2/HHfWU3dzWt/29786
 
 
 
@@ -3593,7 +3622,7 @@ https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-
 #EXTINF:-1,BesTV_4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1,CCTV_4K
-http://140.249.30.106/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+http://111.0.27.31/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1,grtn
 http://nclive.grtn.cn/4K/sd/live.m3u8
 #EXTINF:-1,CCTV1_HD
@@ -3616,6 +3645,8 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="Learning",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png",CGTN_HD
+http://111.0.27.31/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",Channel News Asia
