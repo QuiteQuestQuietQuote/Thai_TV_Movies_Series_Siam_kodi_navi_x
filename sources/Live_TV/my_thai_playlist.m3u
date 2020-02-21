@@ -3245,6 +3245,20 @@ http://ok2.se:8000//00f9F7UXgDGEbDbP9/0effF9UUeqfzZh5xB/364
 http://ok2.se:8000//8df8F7Udl5HGsNdJO/2003F9UP23cbCgVjS/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test111
 http://ok2.se:8000/f83dF7UsQU8PPMCg6/90a4F9Ufdtir21pMA/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test112
+http://ok2.se:8000/fe6cF7UZ2KGeV67LW/969fF9U7l0l1Il9aP/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test113
+http://ok2.se:8000/4c66F7Uw5t6IBDKkF/e939F9Uq6E0NiYvXd/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test114
+http://ok2.se:80/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test115
+http://ok2.se:80/da33F7U2EakIzDuV0/96f1F9UaxB2Qx7DqZ/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test116
+http://ok2.se:8000/3b9eF7UyzVUoiUdsr/e68eF9U84QWLnXjND/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test117
+http://ok2.se:8000/8a78F7UEIn6rjP1P2/e340F9UIucsRXNDfi/364
+
+
 
 
 
@@ -3266,10 +3280,6 @@ http://176.67.198.12:4068/udp/239.1.1.141:22141
 http://176.67.198.12:4063/udp/239.1.1.141:22141
 
 
-#EXTINF:-1,Da Vinci----------
-http://95.211.254.11:44477/davincilearning/mpegts
-
-
 #EXTINF:-1,Da Vinci----------temp
 http://185.180.12.90:8080/DAVINCI/index.m3u8?token=test
 #EXTINF:-1 ,DISCOVERYSCIENCE
@@ -3279,6 +3289,9 @@ http://185.180.12.90:8080/FINELIVING/index.m3u8?token=test
 #EXTINF:-1 ,HISTORY
 http://185.180.12.90:8080/HISTORY/index.m3u8?token=test
 
+
+#EXTINF:-1,Da Vinci Learning_RU----------test
+http://78.81.153.247:81/play/a040
 
 
 
@@ -3551,32 +3564,9 @@ http://178.124.183.15:80/hls/CH_NYARTTV/variant.m3u8?version=2
 http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 
 
-#EXTINF:-1,XXX: NYX Media 1-------------test
-http://nomorecable.eu:80/live/TcVGUwOeHI/ZY3bwwRToP/55784.ts
-#EXTINF:-1,XXX: NUART TV
-http://nomorecable.eu:80/live/TcVGUwOeHI/ZY3bwwRToP/55816.ts
-#EXTINF:-1,XXX | Nuart TV
-http://nomorecable.eu:80/live/TcVGUwOeHI/ZY3bwwRToP/55995.ts
-#EXTINF:-1,XXX- Nuart
-http://cdn7.dyncdn.pro:8080/n8GmuPdHCj/RZRFXENac1/12136
-#EXTINF:-1,XXX- Nuart
-http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/12136
-#EXTINF:-1,NUARTTVHD
-http://193.233.189.147:999/udp/239.191.254.250:15285
-#EXTINF:-1,Adult:NuartTV
-http://iptv9211.hopto.me:8000/nfzNlANvf2/HHfWU3dzWt/71704
 
-#EXTINF:-1,Adult: Movies Cinema Erotic 1 FHD***
-http://iptv9211.hopto.me:8000/nfzNlANvf2/HHfWU3dzWt/29790
-#EXTINF:-1,Adult: Movies Cinema Erotic 2 FHD***
-http://iptv9211.hopto.me:8000/nfzNlANvf2/HHfWU3dzWt/29789
-#EXTINF:-1,Adult: Movies Cinema Erotic 3 FHD***_Adult
-http://iptv9211.hopto.me:8000/nfzNlANvf2/HHfWU3dzWt/29788
-#EXTINF:-1,Adult: Movies Cinema Erotic 4 FHD***
-http://iptv9211.hopto.me:8000/nfzNlANvf2/HHfWU3dzWt/29787
-#EXTINF:-1,Adult: Movies Cinema Erotic 5 FHD***
-http://iptv9211.hopto.me:8000/nfzNlANvf2/HHfWU3dzWt/29786
-
+#EXTINF:-1,Beate Uhse HD-----------test
+http://87.144.185.253:9981/stream/channelid/805567625
 
 
 
@@ -3749,7 +3739,10 @@ http://14.207.168.60:8000/play/a03n
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_HD
 https://89.187.173.182/CNBC/mono.m3u8
 
-
+#EXTINF:-1,CNBC HD_GER-----------test
+http://87.144.185.253:9981/stream/channelid/1534496543
+#EXTINF:-1,CNBC_sansat
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/56991
 
 
 #EXTINF:-1,The_Witcher_s1_2019_TH_ep01
