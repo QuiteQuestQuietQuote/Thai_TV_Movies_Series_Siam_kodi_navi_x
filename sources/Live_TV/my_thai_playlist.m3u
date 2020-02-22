@@ -3380,6 +3380,9 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/index.m3u8
 
 
+#EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_iptvmate----------
+https://ch.iptvmate.net/72ce304badd77113cf4a262973bca82f.m3u8
+
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_indo
 http://203.207.56.228/live/iptv035.m3u8
@@ -3565,8 +3568,7 @@ http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 
 
 
-#EXTINF:-1,Beate Uhse HD-----------test
-http://87.144.185.253:9981/stream/channelid/805567625
+
 
 
 
@@ -3739,10 +3741,7 @@ http://14.207.168.60:8000/play/a03n
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_HD
 https://89.187.173.182/CNBC/mono.m3u8
 
-#EXTINF:-1,CNBC HD_GER-----------test
-http://87.144.185.253:9981/stream/channelid/1534496543
-#EXTINF:-1,CNBC_sansat
-http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/56991
+
 
 
 #EXTINF:-1,The_Witcher_s1_2019_TH_ep01
