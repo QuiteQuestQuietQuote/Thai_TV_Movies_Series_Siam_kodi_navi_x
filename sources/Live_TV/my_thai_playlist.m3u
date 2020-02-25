@@ -3257,8 +3257,14 @@ http://ok2.se:80/da33F7U2EakIzDuV0/96f1F9UaxB2Qx7DqZ/364
 http://ok2.se:8000/3b9eF7UyzVUoiUdsr/e68eF9U84QWLnXjND/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test117
 http://ok2.se:8000/8a78F7UEIn6rjP1P2/e340F9UIucsRXNDfi/364
-
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test118
+http://ok2.se:8000/ab0eF7U4mLF0j0n3v/4500F9UpKh8fLAGLC/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test119
+http://ok2.se:8000/5085F7UaPnUY4vpBS/aeccF9UJLNSrmvBDs/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test120
+http://ok2.se:8000/cf6dF7UHE5U0ncJRy/9d4dF9UiESULdcdZT/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test121
+http://ok2.se:8000/1d8dF7UDjNaEepbrU/1176F9UCk4JsHLqfF/364
 
 
 
@@ -3290,8 +3296,7 @@ http://185.180.12.90:8080/FINELIVING/index.m3u8?token=test
 http://185.180.12.90:8080/HISTORY/index.m3u8?token=test
 
 
-#EXTINF:-1,Da Vinci Learning_RU----------test
-http://78.81.153.247:81/play/a040
+
 
 
 
@@ -3491,7 +3496,8 @@ https://live.mawintv2.com/02_MYSCIHD_720p/chunklist.m3u8
 
 
 
-
+#EXTINF:-1, tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/27.jpg" tvg-name=“PSI SARADEE” , PSI SARADEE
+http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="Learning",UN Web TV-------------
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
 #EXTINF:-1,TH Warner
@@ -3529,8 +3535,7 @@ http://o0vyrkks.rostelekom.xyz/iptv/KECWZLLZK9AC7C/908/index.m3u8
 http://89.37.104.9:8080/Travel/mpegts
 #EXTINF:-1,Hunters
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:-1, tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/27.jpg" tvg-name=“PSI SARADEE” , PSI SARADEE
-http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+
 
 
 
@@ -3654,6 +3659,8 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews (English) 
 http://164.40.161.46:8002/play/s4
+#EXTINF:-1,EuroNews
+https://liveanevia.mncnow.id/live/eds/EuroNews/sa_hls/EuroNews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",Euronews (FR)
 https://fluxustv.blogspot.com@bit.ly/EuronewsTV?.m3u8
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
