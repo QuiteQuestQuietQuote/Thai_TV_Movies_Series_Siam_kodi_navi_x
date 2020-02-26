@@ -3265,7 +3265,16 @@ http://ok2.se:8000/5085F7UaPnUY4vpBS/aeccF9UJLNSrmvBDs/364
 http://ok2.se:8000/cf6dF7UHE5U0ncJRy/9d4dF9UiESULdcdZT/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test121
 http://ok2.se:8000/1d8dF7UDjNaEepbrU/1176F9UCk4JsHLqfF/364
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test122
+http://ok2.se:8000/07a3F7ULCPUdeQkyq/b534F9UwbHAje5U8f/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test123
+http://ok2.se:8000/b323F7UpX2T7ux1QJ/b2b3F9UVFV5OnqlAW/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test124
+http://ok2.se:8000/a470F7UZcb4pFZapy/7f3fF9U572cNLgj3w/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test125
+http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test126
+http://ok2.se:8000/5cf2F7UVoNNQcgHMN/fadaF9UonW68uoWT1/364
 
 
 
@@ -3572,7 +3581,8 @@ http://178.124.183.15:80/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV5
 http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 
-
+#EXTINF:-1,NuArt TV---------test
+http://cdn.ottg.tv/8942/mpegts?username=loz.misha&password=gHVPMRJgq4Q35AP&token=74a4bf94eb205705ea7fe0062b72804f&ch_id=399&req_host=pkjX3BL
 
 
 
@@ -3659,7 +3669,7 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews (English) 
 http://164.40.161.46:8002/play/s4
-#EXTINF:-1,EuroNews
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",EuroNews_liveanevia
 https://liveanevia.mncnow.id/live/eds/EuroNews/sa_hls/EuroNews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",Euronews (FR)
 https://fluxustv.blogspot.com@bit.ly/EuronewsTV?.m3u8
