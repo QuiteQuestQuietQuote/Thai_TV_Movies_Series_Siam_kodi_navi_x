@@ -3583,6 +3583,8 @@ http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 
 #EXTINF:-1,NuArt TV---------test
 http://cdn.ottg.tv/8942/mpegts?username=loz.misha&password=gHVPMRJgq4Q35AP&token=74a4bf94eb205705ea7fe0062b72804f&ch_id=399&req_host=pkjX3BL
+#EXTINF:-1,NuArt TV---------test
+http://salsa.rest-tv.com:8880/nuart/mono.m3u8
 
 
 
