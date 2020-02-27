@@ -3275,7 +3275,14 @@ http://ok2.se:8000/a470F7UZcb4pFZapy/7f3fF9U572cNLgj3w/364
 http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test126
 http://ok2.se:8000/5cf2F7UVoNNQcgHMN/fadaF9UonW68uoWT1/364
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test127
+http://ok2.se:8000/854eF7UXU41J7pa5j/4f03F9UY6mRDicvxp/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test128
+http://ok2.se:8000/0652F7UXqrxyHONO4/dcddF9UF9gLdZQLTR/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test129
+http://ok2.se:8000/fccbF7UCWmxytzFr8/2467F9UxeKzCjSrbj/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test130
+http://ok2.se:8000/lh2c7cEEwI/17FA2Sehg4/364
 
 
 
@@ -3581,9 +3588,7 @@ http://178.124.183.15:80/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV5
 http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 
-#EXTINF:-1,NuArt TV---------test
-http://cdn.ottg.tv/8942/mpegts?username=loz.misha&password=gHVPMRJgq4Q35AP&token=74a4bf94eb205705ea7fe0062b72804f&ch_id=399&req_host=pkjX3BL
-#EXTINF:-1,NuArt TV---------test
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV---------ON
 http://salsa.rest-tv.com:8880/nuart/mono.m3u8
 
 
