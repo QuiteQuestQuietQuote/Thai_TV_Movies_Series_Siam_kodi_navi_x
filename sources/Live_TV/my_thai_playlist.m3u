@@ -2035,31 +2035,31 @@ http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/9049
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
-http://113.162.3.218:8989/rtp/232.84.2.129:9570
+http://113.172.69.118:2806/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://113.162.3.218:8989/rtp/232.84.2.131:9582
+http://113.172.69.118:2806/rtp/232.84.2.131:9582
 #EXTINF:-1,DISCOVERY ASIA
-http://113.162.3.218:8989/rtp/232.84.2.53:10528
+http://113.172.69.118:2806/rtp/232.84.2.53:10528
 #EXTINF:-1,DISCOVERY CHANNEL
-http://113.162.3.218:8989/rtp/232.84.1.47:8262
+http://113.172.69.118:2806/rtp/232.84.1.47:8262
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://113.162.3.218:8989/rtp/232.84.1.65:8364
+http://113.172.69.118:2806/rtp/232.84.1.65:8364
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://113.162.3.218:8989/rtp/232.84.1.1:7980
+http://113.172.69.118:2806/rtp/232.84.1.1:7980
 #EXTINF:-1,NAT GEO PEOPLE
-http://113.162.3.218:8989/rtp/232.84.1.67:8376
+http://113.172.69.118:2806/rtp/232.84.1.67:8376
 #EXTINF:-1,NAT GEO PEOPLE HD
-http://113.162.3.218:8989/rtp/232.84.1.76:8430
+http://113.172.69.118:2806/rtp/232.84.1.76:8430
 #EXTINF:-1,ASIAN FOOD CHANNEL
-http://113.162.3.218:8989/rtp/232.84.1.115:10236
+http://113.172.69.118:2806/rtp/232.84.1.115:10236
 #EXTINF:-1,Da Vinci Learning
-http://113.162.3.218:8989/rtp/232.84.1.108:10224
+http://113.172.69.118:2806/rtp/232.84.1.108:10224
 #EXTINF:-1,Nat Geo People
-http://113.162.3.218:8989/rtp/232.84.2.121:8376
+http://113.172.69.118:2806/rtp/232.84.2.121:8376
 #EXTINF:-1,DISNEY CHANNEL HD
-http://113.162.3.218:8989/rtp/232.84.2.143:10678
+http://113.172.69.118:2806/rtp/232.84.2.143:10678
 #EXTINF:-1,CNBC
-http://113.162.3.218:8989/rtp/232.84.2.177:10488
+http://113.172.69.118:2806/rtp/232.84.2.177:10488
 
 
 
@@ -3308,6 +3308,10 @@ http://176.67.198.12:4068/udp/239.1.1.141:22141
 http://176.67.198.12:4063/udp/239.1.1.141:22141
 
 
+#EXTINF:-1,Da Vinci Learning_RU------------test
+http://178.68.195.216:81/play/a040
+
+
 #EXTINF:-1,Da Vinci----------temp
 http://185.180.12.90:8080/DAVINCI/index.m3u8?token=test
 #EXTINF:-1 ,DISCOVERYSCIENCE
@@ -3334,21 +3338,15 @@ http://1.53.250.174:2806/udp/225.1.1.198:30120
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
-http://113.162.3.218:8989/rtp/232.84.2.129:9570
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://113.162.3.218:8989/rtp/232.84.2.131:9582
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",DISCOVERY ASIA_VN_rtp
-http://113.162.3.218:8989/rtp/232.84.2.53:10528
-
-
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL----------test
-http://14.186.212.67:4022/rtp/232.84.2.129:9570
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL
 http://113.172.69.118:2806/rtp/232.84.2.129:9570
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning----------test
-http://14.186.212.67:4022/rtp/232.84.2.131:9582
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
 http://113.172.69.118:2806/rtp/232.84.2.131:9582
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",DISCOVERY ASIA_VN_rtp
+http://113.172.69.118:2806/rtp/232.84.2.53:10528
+
+
+
+
 
 
 
@@ -3494,8 +3492,7 @@ https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 https://anevia114.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 
 
-#EXTINF:-1,HBOHits-----------test
-https://live.we-play.tv/live/hbo-hits/chunks.m3u8?nimblesessionid=25063041&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOS8yMDIwIDc6MTk6NDAgUE0maGFzaF92YWx1ZT1qYjFjYVE1cTNBZlo2VW1ObjRBWWlnPT0mdmFsaWRtaW51dGVzPTIw
+
 
 
 
@@ -3692,8 +3689,8 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews (English) 
 http://164.40.161.46:8002/play/s4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",EuroNews_liveanevia
-https://liveanevia.mncnow.id/live/eds/EuroNews/sa_hls/EuroNews.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",Euronews (FR)
+http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",Euronews (FR)
 https://fluxustv.blogspot.com@bit.ly/EuronewsTV?.m3u8
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
@@ -3760,12 +3757,12 @@ http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/364
 #EXTINF:-1,CNBC_udp_viet4022
 http://1.53.250.174:2806/udp/225.1.1.227:30120
 #EXTINF:-1,CNBC_rtp_viet
-http://113.162.3.218:8989/rtp/232.84.2.177:10488
+http://113.172.69.118:2806/rtp/232.84.2.177:10488
 
 #EXTINF:-1,VTV1 HD_udp4022
 http://1.53.250.174:2806/udp/225.1.2.249:30120
 #EXTINF:-1,VTV1 HD (HD 8Mbps)_rtp
-http://113.162.3.218:8989/rtp/232.84.1.117:10254
+http://113.172.69.118:2806/rtp/232.84.1.117:10254
 
 
 
@@ -3774,7 +3771,8 @@ http://113.162.3.218:8989/rtp/232.84.1.117:10254
 
 
 
-
+#EXTINF:-1,CNBC_CN----------------test
+http://115.192.24.67:10800/stream/channelid/1444531183
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC Asia
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
