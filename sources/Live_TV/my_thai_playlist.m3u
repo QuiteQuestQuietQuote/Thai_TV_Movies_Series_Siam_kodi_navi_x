@@ -3308,8 +3308,7 @@ http://176.67.198.12:4068/udp/239.1.1.141:22141
 http://176.67.198.12:4063/udp/239.1.1.141:22141
 
 
-#EXTINF:-1,Da Vinci Learning_RU------------test
-http://178.68.195.216:81/play/a040
+
 
 
 #EXTINF:-1,Da Vinci----------temp
@@ -3771,8 +3770,7 @@ http://113.172.69.118:2806/rtp/232.84.1.117:10254
 
 
 
-#EXTINF:-1,CNBC_CN----------------test
-http://115.192.24.67:10800/stream/channelid/1444531183
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC Asia
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
