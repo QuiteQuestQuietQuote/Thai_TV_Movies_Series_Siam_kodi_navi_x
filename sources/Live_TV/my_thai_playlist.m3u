@@ -3319,10 +3319,7 @@ http://176.67.198.12:4068/udp/239.1.1.141:22141
 http://176.67.198.12:4063/udp/239.1.1.141:22141
 
 
-#EXTINF:-1,Ro- Da Vinci Learning--------------test
-http://linux-app.tv:6204/mohamed99/mohamed99/21120
-#EXTINF:-1,Da Vinci Learning_RU
-http://217.25.216.4:8085/udp/225.1.2.10:2020
+
 
 
 #EXTINF:-1,Da Vinci----------temp
@@ -3510,6 +3507,22 @@ https://anevia114.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 
 
 
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia-------------chang55
+https://tv4.chang55.com/live2/tv4ch16.stream/chunks.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia
+https://tv4.chang55.com/live2/tv4ch80.stream/chunks.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/G9EgG7nmfnml7kV2GXiYenGyGZm19bfPDwnfhnm0.png",History
+https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/lJBXFhwbz6WPLehk1WFBZDX7bqBRIM0XWs0Mm8LN.png",Discovery Channel
+https://tv4.chang55.com/live2/tv4ch36.stream/chunks.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth
+https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
+#EXTINF:-1,Doc
+https://tv4.chang55.com/live2/tv4ch48.stream/chunks.m3u8
+
+#EXTINF:-1,DISCOVERYSCIENCE_AT
+http://185.180.12.90:8080/DISCOVERYSCIENCE/index.m3u8?token=test
+
 
 
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",Explore Life------------doofree88
@@ -3615,6 +3628,8 @@ http://178.124.183.14:80/hls/CH_NYARTTV/variant.m3u8
 http://178.124.183.15:80/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV5
 http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-------v2iptv
+http://mu02.v2iptv.com:8880/BL12MA000891853977/92454145/33094
 
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV---------ON
 http://salsa.rest-tv.com:8880/nuart/mono.m3u8
