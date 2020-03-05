@@ -2859,7 +2859,7 @@ http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/6615
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" group-title="XXX",IBiza 1-----------------twst
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" group-title="XXX",IBiza 1-----------------test
 http://fxzb.bbwqg.cn/proxy/box.php?id=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" group-title="XXX",IBiza 2
 http://fxzb.bbwqg.cn/proxy/box.php?id=2
@@ -3009,8 +3009,6 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/8c/ad/3e/8cad3ec9-c9fa-89ea-c60f-40e390f89b68/source/512x512bb.jpg",ftv_midnite_secrets--------------------------
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagescdn2.swigit.com/LiveChannels/Logo/a3bikini" group-title="Adult IPTV",A3 Bikini
-http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Jasmin-TV.png",Jasmin Tv 
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Jasmin-TV.png",Jasmin Tv 
@@ -3021,7 +3019,8 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w199100510_b2
 http://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_b1896000.m3u8?fluxuslust.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="Adult IPTV",pluto_Eye Candy
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=315c3556-332a-4996-806f-765ee9db752b&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagescdn2.swigit.com/LiveChannels/Logo/a3bikini" group-title="Adult IPTV",A3 Bikini
+http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
 
 
@@ -3319,10 +3318,11 @@ http://176.67.198.12:4068/udp/239.1.1.141:22141
 http://176.67.198.12:4063/udp/239.1.1.141:22141
 
 
+#EXTINF:-1,YU150:Da Vinci Learning--------------v5iptv
+http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/49176
 
 
-
-#EXTINF:-1,Da Vinci----------temp
+#EXTINF:-1,Da Vinci----------temp-------arab
 http://185.180.12.90:8080/DAVINCI/index.m3u8?token=test
 #EXTINF:-1 ,DISCOVERYSCIENCE
 http://185.180.12.90:8080/DISCOVERYSCIENCE/index.m3u8?token=test
@@ -3517,11 +3517,13 @@ https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch36.stream/chunks.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth
 https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
+#EXTINF:-1,DISCOVERY ASIA
+https://tv4.chang55.com/live2/tv4ch92.stream/chunks.m3u8
+#EXTINF:-1,HISTORY 2
+https://tv4.chang55.com/live2/tv4ch19.stream/chunks.m3u8
 #EXTINF:-1,Doc
 https://tv4.chang55.com/live2/tv4ch48.stream/chunks.m3u8
 
-#EXTINF:-1,DISCOVERYSCIENCE_AT
-http://185.180.12.90:8080/DISCOVERYSCIENCE/index.m3u8?token=test
 
 
 
@@ -3631,11 +3633,7 @@ http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-------v2iptv
 http://mu02.v2iptv.com:8880/BL12MA000891853977/92454145/33094
 
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV---------ON
-http://salsa.rest-tv.com:8880/nuart/mono.m3u8
 
-#EXTINF:-1,Pasiones FHD (CO)--------------test
-http://tvla.xyz:80/Vuu0PTAm2/952YKbq8zd/1312314
 
 
 #EXTINF:-1,Taiwan Stories-----
@@ -3646,10 +3644,7 @@ http://61.58.60.230:9319/live/191.m3u8
 https://wowzaprodhd28-lh.akamaihd.net/i/a74135ef_1@577349/master.m3u8
 #EXTINF:-1,DaAi2_CHN
 https://wowzaprodhd17-lh.akamaihd.net/i/46021e1e_1@576535/master.m3u8
-#EXTINF:-1,Tales_CN
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_500_av-p.m3u8
-#EXTINF:-1,4_NZ
-http://43.224.120.99:8080/four/four_1000k.m3u8
+
 
 
 
