@@ -652,41 +652,41 @@ http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m
 
 
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png",CH3 HD-------------livedoomovie
-https://livedoomovie.com/02_3HD_720p/chunklist.m3u8
+https://livedoomovies.com/02_3HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png",CH5 HD
-https://livedoomovie.com/02_5HD_720p/chunklist.m3u8
+https://livedoomovies.com/02_5HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png",CH7 HD
-https://livedoomovie.com/02_7HD_720p/chunklist.m3u8
+https://livedoomovies.com/02_7HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch8.png",CH8 HD
-https://livedoomovie.com/02_8HD_720p/chunklist.m3u8
+https://livedoomovies.com/02_8HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mcot.png",MCOT HD
-https://livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
+https://livedoomovies.com/02_MCOTHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-nbt.png",NBT HD
-https://livedoomovie.com/02_NBTSD_480p/chunklist.m3u8
+https://livedoomovies.com/02_NBTSD_480p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png",THAI PBS HD
-https://livedoomovie.com/02_THAIPBS_720p/chunklist.m3u8
+https://livedoomovies.com/02_THAIPBS_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-thairath.png",Thairath TV HD
-https://livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
+https://livedoomovies.com/02_THAIRATH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png",PPTV HD
-https://livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+https://livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-amarin.png",AMARIN HD
-https://livedoomovie.com/02_AMARINHD_720p/chunklist.m3u8
+https://livedoomovies.com/02_AMARINHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-gmmchannel.png",GMM CHANNEL HD
-https://livedoomovie.com/02_GMM_720p/chunklist.m3u8
+https://livedoomovies.com/02_GMM_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-gmmone.png",GMM ONE HD
-https://livedoomovie.com/02_GMMONE_720p/chunklist.m3u8
+https://livedoomovies.com/02_GMMONE_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-workpoint.png",WORK POINT HD
-https://livedoomovie.com/02_WORKPOINT_720p/chunklist.m3u8
+https://livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tnn24.png",TNN 24
-https://livedoomovie.com/02_TNN24_480p/chunklist.m3u8
+https://livedoomovies.com/02_TNN24_480p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mono.png",MONO29 HD
-https://livedoomovie.com/02_MONO_720p/chunklist.m3u8
+https://livedoomovies.com/02_MONO_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-nation.png",NATION TV
-https://livedoomovie.com/02_NATION_480p/chunklist.m3u8
+https://livedoomovies.com/02_NATION_480p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-new.png",NEW)TV
-https://livedoomovie.com/02_NEW_480p/chunklist.m3u8
+https://livedoomovies.com/02_NEW_480p/chunklist.m3u8
 #EXTINF:-1 group-title="DTV" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-24u.png",TRUE4U
-https://livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
+https://livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-explife.png",TRUE EXPLORE LIFE
@@ -696,66 +696,66 @@ https://livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-expwild.png",TRUE EXPLORE WILD
  
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeowild.jpg",NET GEO WILD HD TH
-https://livedoomovie.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+https://livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeowild.jpg",NET GEO WILD HD EN
-https://livedoomovie.com/02_NatGeoWild_720p/chunklist.m3u8
+https://livedoomovies.com/02_NatGeoWild_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeopeople.jpg",NET PEOPLE HD
-https://livedoomovie.com/02_NatPeopleHD_720p/chunklist.m3u8
+https://livedoomovies.com/02_NatPeopleHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png",BBC EARTH HD
-https://livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8
+https://livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
-https://livedoomovie.com/02_LIFETYLEHD_720p/chunklist.m3u8
+https://livedoomovies.com/02_LIFETYLEHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fyi.png",FYI TV
  
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-animalplanet.png",ANIMALPLANET
-https://livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+https://livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discovery.png",Discovery Channel
-https://livedoomovie.com/02_DiscoveryChannel/chunklist.m3u8
+https://livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png",DISCOVERY HD WORLD
-https://livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+https://livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",HISTORY HD
-https://livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+https://livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",HISTORY2 HD
-https://livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+https://livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discoveryscience.jpg",Science Channel
- 
+https://livedoomovies.com/02_DiscoveryScience/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeo.png",NETIONAL GEO HD TH
-https://livedoomovie.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+https://livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeo.png",NETIONAL GEO HD EN
-https://livedoomovie.com/02_NatGeoHD_720p/chunklist.m3u8
+https://livedoomovies.com/02_NatGeoHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg",MYSCI HD
-https://livedoomovie.com/02_MYSCIHD_720p/chunklist.m3u8
+https://livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",samrujlok
-https://livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
+https://livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",WARNER TV HD
-https://livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+https://livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png",AXN HD
-https://livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+https://livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",FOX ACTION TH
-https://livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+https://livedoomovies.com/02_FoxActionHD_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",FOX ACTION EN
-https://livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
+https://livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",FOX MOVIES PREMIUM TH
-https://livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
+https://livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",FOX MOVIES PREMIUM EN
-https://livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+https://livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-fx.jpg",FX Thailand
-https://livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
+https://livedoomovies.com/02_FXThailand_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
-https://livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+https://livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBOHit HD
-https://livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+https://livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg",HBOSignature HD
-https://livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
+https://livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",RedbyHBO HD
-https://livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+https://livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-series.png",True Series
  
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-moviehits.png",Moviehis
  
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-thaifilm.png",Ture ThaiFiam
-https://livedoomovie.com/00_2thaifilm_480p/chunklist.m3u8
+https://livedoomovies.com/00_2thaifilm_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-filmasia.png",Ture FiamAsia
  
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-asianseries.png",Asia Series
@@ -767,213 +767,213 @@ https://livedoomovie.com/00_2thaifilm_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-xzyte.png",XZYTE HD
  
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-comedycentral.png",COMEDY CENTRAL
-https://livedoomovie.com/02_Comedy_HD_720p/chunklist.m3u8
+https://livedoomovies.com/02_Comedy_HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-celestial.png",CELESTIAL CLASSIC
  
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tvn.png",TVN HD
  
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg",FoxCrimeHD TH
-https://livedoomovie.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+https://livedoomovies.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg",FoxCrimeHD EN
-https://livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
+https://livedoomovies.com/02_FoxCrimeHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png",FOX THAI
-https://livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
+https://livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png",FOX THAI EN
-https://livedoomovie.com/02_FoxThai_720p/chunklist.m3u8
+https://livedoomovies.com/02_FoxThai_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png",FOX FAMILY HD TH
-https://livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+https://livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png",FOX FAMILY HD EN
-https://livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
+https://livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.jpg",TRUE FILM HD1
-https://livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
+https://livedoomovies.com/02_TrueFilmHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.jpg",TRUE FILM HD2
-https://livedoomovie.com/02_TrueFilmHD2_720p/chunklist.m3u8
+https://livedoomovies.com/02_TrueFilmHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/MANGORN.png",MANGORN
-https://livedoomovie.com/02_MANGORN_720p/chunklist.m3u8
+https://livedoomovies.com/02_MANGORN_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/NHANG_DUNK.png",NHANG DUNK
-https://livedoomovie.com/02_NHANG_DUNK_720p/chunklist.m3u8
+https://livedoomovies.com/02_NHANG_DUNK_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/MONO_Plus.png",MONO Plus
-https://livedoomovie.com/02_MONO_Plus_720p/chunklist.m3u8
+https://livedoomovies.com/02_MONO_Plus_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/02_FOX_Life_HD_720p.png",FOX Life HD
-https://livedoomovie.com/02_FOX_Life_720p/chunklist.m3u8
+https://livedoomovies.com/02_FOX_Life_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Thrill.png",Thrill
-https://livedoomovie.com/02_Thrill_720p/chunklist.m3u8
+https://livedoomovies.com/02_Thrill_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/SCM.png",Star Chinese Movies Legend HD
-https://livedoomovie.com/02_SCM_720p/chunklist.m3u8
+https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CCM.png",CMM
-https://livedoomovie.com/02_CCM_720p/chunklist.m3u8
+https://livedoomovies.com/02_CCM_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/ZeeNung.png",Zee Nung
-https://livedoomovie.com/02_Zee_Nung_720p/chunklist.m3u8
+https://livedoomovies.com/02_Zee_Nung_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fantv.jpg",FAN TV
-https://livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
+https://livedoomovies.com/02_FANMUSICHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tmusic.png",TRUE MUSIC
  
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-mtvchina.png",MTV MUSIC
-https://livedoomovie.com/02_MTV_China_720p/chunklist.m3u8
+https://livedoomovies.com/02_MTV_China_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-chvinter.png",V CHANNEL
-https://livedoomovie.com/02_Channel_V_720p/chunklist.m3u8
+https://livedoomovies.com/02_Channel_V_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-mtvasia.png",MTV ASIA
-https://livedoomovie.com/02_MTV_Asia_720p/chunklist.m3u8
+https://livedoomovies.com/02_MTV_Asia_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mtvlive.png",MTV LIVE HD
-https://livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
+https://livedoomovies.com/02_MTV_Live_HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-thaithai.png",ThaiThai
  
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-rama.png",RAMA CHANNEL
  
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/SabaideeTV.png",Sabaidee TV
-https://livedoomovie.com/02_SabaideeTV_720p/chunklist.m3u8
+https://livedoomovies.com/02_SabaideeTV_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Kid" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-sparkplay.png",SPARK PLAY
  
 #EXTINF:-1 group-title="Kid" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-sparkjump.png",SPARK JUMP
-https://livedoomovie.com/00_sparkjump_480p/chunklist.m3u8
+https://livedoomovies.com/00_sparkjump_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Kid" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cartoonnetwork.png",CARTOON NETWORK
-https://livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8
+https://livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Kid" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-disney.png",DISNEY
-https://livedoomovie.com/00_disney_480p/chunklist.m3u8
+https://livedoomovies.com/00_disney_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Kid" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/DISNEYXD.png",DISNEY XD
-https://livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
+https://livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Kid" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/ANIMAX.png",ANIMAX
  
 #EXTINF:-1 group-title="Kid" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",Cartoon Club
-https://livedoomovie.com/02_Cartoon_Club_720p/chunklist.m3u8
+https://livedoomovies.com/02_Cartoon_Club_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Kid" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Boomerang.png",Boomerang
-https://livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
+https://livedoomovies.com/02_Boomerang_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Kid" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/BabyTVHD.png",Baby TV HD
-https://livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
+https://livedoomovies.com/02_Baby_TV_HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Kid" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/MiaoMi.png",Miao Mi
-https://livedoomovie.com/02_Miao_Mi_720p/chunklist.m3u8
+https://livedoomovies.com/02_Miao_Mi_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Kid" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Nick_Jr.png",Nick Jr TH
-https://livedoomovie.com/02_Nick_Jr_TH_720p/chunklist.m3u8
+https://livedoomovies.com/02_Nick_Jr_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Kid" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Nick_Jr.png",Nick Jr EN
-https://livedoomovie.com/02_Nick_Jr_EN_720p/chunklist.m3u8
+https://livedoomovies.com/02_Nick_Jr_EN_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-cnn.png",CNN
-https://livedoomovie.com/02_CNN_720p/chunklist.m3u8
+https://livedoomovies.com/02_CNN_720p/chunklist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-deutschewelle.png",DW
-https://livedoomovie.com/02_DW_HD_720p/chunklist.m3u8
+https://livedoomovies.com/02_DW_HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-france24.png",FRANCE24
-https://livedoomovie.com/02_France_24_720p/chunklist.m3u8
+https://livedoomovies.com/02_France_24_720p/chunklist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cctvnews.png",CCTV NEWS
-https://livedoomovie.com/02_CCTV_News_720p/chunklist.m3u8
+https://livedoomovies.com/02_CCTV_News_720p/chunklist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cctv.png",CCTV 4
-https://livedoomovie.com/02_CCTV4_720p/chunklist.m3u8
+https://livedoomovies.com/02_CCTV4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/bluesky.png",Farwanmai
-https://livedoomovie.com/02_ADintrend_TV_720p/chunklist.m3u8
+https://livedoomovies.com/02_ADintrend_TV_720p/chunklist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/NEWS1.png",NEWS1
-https://livedoomovie.com/02_NEWS1_480p/chunklist.m3u8
+https://livedoomovies.com/02_NEWS1_480p/chunklist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Euronews.png",Euro News
-https://livedoomovie.com/02_Euronews_720p/chunklist.m3u8
+https://livedoomovies.com/02_Euronews_720p/chunklist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Al_Jazeera_En.png",Al Jazeera English
-https://livedoomovie.com/02_Al_Jazeera_En_720p/chunklist.m3u8
+https://livedoomovies.com/02_Al_Jazeera_En_720p/chunklist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Al_Jazeera_En.png",Al Jazeera Arabic
-https://livedoomovie.com/02_Al_Jazeera_Ara_720p/chunklist.m3u8
+https://livedoomovies.com/02_Al_Jazeera_Ara_720p/chunklist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Sky_News.png",Sky News HD
  
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Fox_News_TH.png",Fox News TH
-https://livedoomovie.com/02_Fox_News_TH_720p/chunklist.m3u8
+https://livedoomovies.com/02_Fox_News_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/NHK_WORLD_TV.png",NHK WORLD TV
-https://livedoomovie.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
+https://livedoomovies.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/RT_TV.png",RT TV HD
-https://livedoomovie.com/02_RT_TV_HD_720p/chunklist.m3u8
+https://livedoomovies.com/02_RT_TV_HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CCTV9.png",CCTV9
-https://livedoomovie.com/02_CCTV9_720p/chunklist.m3u8
+https://livedoomovies.com/02_CCTV9_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/TPTVLOGO.png",TPTV
-https://livedoomovie.com/02_TPTV_480p/chunklist.m3u8
+https://livedoomovies.com/02_TPTV_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/OShopping.png",OShopping
-https://livedoomovie.com/02_OShopping_480p/chunklist.m3u8
+https://livedoomovies.com/02_OShopping_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/m-channel.png",MChannel
-https://livedoomovie.com/02_MChannel_480p/chunklist.m3u8
+https://livedoomovies.com/02_MChannel_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/JKN.png",JKN
-https://livedoomovie.com/02_JKN_480p/chunklist.m3u8
+https://livedoomovies.com/02_JKN_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/MixMajor.png",MixMajor
-https://livedoomovie.com/02_MixMajor_480p/chunklist.m3u8
+https://livedoomovies.com/02_MixMajor_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/CH2.png",CH2
-https://livedoomovie.com/02_CH2_480p/chunklist.m3u8
+https://livedoomovies.com/02_CH2_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/DaraDaily.png",DaraDaily
-https://livedoomovie.com/02_DaraDaily_480p/chunklist.m3u8
+https://livedoomovies.com/02_DaraDaily_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/TGN.png",TGN
-https://livedoomovie.com/02_TGN_480p/chunklist.m3u8
+https://livedoomovies.com/02_TGN_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/True_Shopping.png",True Shopping
-https://livedoomovie.com/02_True_Shopping_720p/chunklist.m3u8
+https://livedoomovies.com/02_True_Shopping_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/True_Select.png",True Select
-https://livedoomovie.com/02_True_Select_720p/chunklist.m3u8
+https://livedoomovies.com/02_True_Select_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Star_K.png",Star K
-https://livedoomovie.com/02_Star_K_720p/chunklist.m3u8
+https://livedoomovies.com/02_Star_K_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Wish_Channel.png",Wish Channel
-https://livedoomovie.com/02_Wish_Channel_720p/chunklist.m3u8
+https://livedoomovies.com/02_Wish_Channel_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Comedy_HD.png",Comedy HD
-https://livedoomovie.com/02_Comedy_HD_720p/chunklist.m3u8
+https://livedoomovies.com/02_Comedy_HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/SCC_HD.png",Star Chinese Channel HD
-https://livedoomovie.com/02_SCC_HD_720p/chunklist.m3u8
+https://livedoomovies.com/02_SCC_HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Arirang.png",Arirang
-https://livedoomovie.com/02_Arirang_720p/chunklist.m3u8
+https://livedoomovies.com/02_Arirang_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Fashion_TV.png",Fashion TV
-https://livedoomovie.com/02_Fashion_TV_480p/chunklist.m3u8
+https://livedoomovies.com/02_Fashion_TV_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/KIX_Thailand.png",KIX Thailand
-https://livedoomovie.com/02_KIX_Thailand_720p/chunklist.m3u8
+https://livedoomovies.com/02_KIX_Thailand_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Ent" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/WION.png",WION TV
-https://livedoomovie.com/02_WION_720p/chunklist.m3u8
+https://livedoomovies.com/02_WION_720p/chunklist.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/znews.png",Zee News
-https://livedoomovie.com/02_Zee_News_720p/chunklist.m3u8
+https://livedoomovies.com/02_Zee_News_720p/chunklist.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/zBusiness.png",Zee Business
-https://livedoomovie.com/02_Zee_Business_720p/chunklist.m3u8
+https://livedoomovies.com/02_Zee_Business_720p/chunklist.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/STAR_BHARAT.png",STAR BHARAT
-https://livedoomovie.com/02_STAR_BHARAT_720p/chunklist.m3u8
+https://livedoomovies.com/02_STAR_BHARAT_720p/chunklist.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/StarUtsav.png",Star Utsav
-https://livedoomovie.com/02_Star_Utsav_720p/chunklist.m3u8
+https://livedoomovies.com/02_Star_Utsav_720p/chunklist.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Star_Plus.png",Star Plus
-https://livedoomovie.com/02_Star_Plus_720p/chunklist.m3u8
+https://livedoomovies.com/02_Star_Plus_720p/chunklist.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/ztv-LOGO.png",Zee TV
-https://livedoomovie.com/02_Zee_TV_720p/chunklist.m3u8
+https://livedoomovies.com/02_Zee_TV_720p/chunklist.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/ANDTV.png",AND TV
-https://livedoomovie.com/02_AND_TV_720p/chunklist.m3u8
+https://livedoomovies.com/02_AND_TV_720p/chunklist.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Zing.png",Zing
-https://livedoomovie.com/02_Zing_720p/chunklist.m3u8
+https://livedoomovies.com/02_Zing_720p/chunklist.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Star_Gold.png",Star Gold
-https://livedoomovie.com/02_Star_Gold_720p/chunklist.m3u8
+https://livedoomovies.com/02_Star_Gold_720p/chunklist.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/ZeeCinema.png",Zee Cinema
-https://livedoomovie.com/02_Star_Gold_720p/chunklist.m3u8
+https://livedoomovies.com/02_Star_Gold_720p/chunklist.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/ZeeClassic.png",Zee Bolly Wood
-https://livedoomovie.com/02_Zee_Classic_720p/chunklist.m3u8
+https://livedoomovies.com/02_Zee_Classic_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-01.png",DLTV 1
-https://livedoomovie.com/02_DLTV1_480p/chunklist.m3u8
+https://livedoomovies.com/02_DLTV1_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-02.png",DLTV 2
-https://livedoomovie.com/02_DLTV2_480p/chunklist.m3u8
+https://livedoomovies.com/02_DLTV2_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-03.png",DLTV 3
-https://livedoomovie.com/02_DLTV3_480p/chunklist.m3u8
+https://livedoomovies.com/02_DLTV3_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-04.png",DLTV 4
-https://livedoomovie.com/02_DLTV4_480p/chunklist.m3u8
+https://livedoomovies.com/02_DLTV4_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-05.png",DLTV 5
-https://livedoomovie.com/02_DLTV5_480p/chunklist.m3u8
+https://livedoomovies.com/02_DLTV5_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-06.png",DLTV 6
-https://livedoomovie.com/02_DLTV6_480p/chunklist.m3u8
+https://livedoomovies.com/02_DLTV6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-07.png",DLTV 7
-https://livedoomovie.com/02_DLTV7_480p/chunklist.m3u8
+https://livedoomovies.com/02_DLTV7_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-08.png",DLTV 8
-https://livedoomovie.com/02_DLTV8_480p/chunklist.m3u8
+https://livedoomovies.com/02_DLTV8_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-09.png",DLTV 9
-https://livedoomovie.com/02_DLTV9_480p/chunklist.m3u8
+https://livedoomovies.com/02_DLTV9_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-10.png",DLTV 10
-https://livedoomovie.com/02_DLTV10_480p/chunklist.m3u8
+https://livedoomovies.com/02_DLTV10_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-11.png",DLTV 11
-https://livedoomovie.com/02_DLTV11_480p/chunklist.m3u8
+https://livedoomovies.com/02_DLTV11_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-12.png",DLTV 12
-https://livedoomovie.com/02_DLTV12_480p/chunklist.m3u8
+https://livedoomovies.com/02_DLTV12_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-13.png",DLTV 13
-https://livedoomovie.com/02_DLTV13_480p/chunklist.m3u8
+https://livedoomovies.com/02_DLTV13_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-14.png",DLTV 14
-https://livedoomovie.com/02_DLTV14_480p/chunklist.m3u8
+https://livedoomovies.com/02_DLTV14_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-15.png",DLTV 15
-https://livedoomovie.com/02_DLTV15_480p/chunklist.m3u8
+https://livedoomovies.com/02_DLTV15_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/ETV.png",ETV
-https://livedoomovie.com/02_ETV_480p/chunklist.m3u8
+https://livedoomovies.com/02_ETV_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/logo-channel-ACT.png",EDU
  
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/White_Channel.png",White Channel
-https://livedoomovie.com/02_White_Channel_480p/chunklist.m3u8
+https://livedoomovies.com/02_White_Channel_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Edu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/YATEEM_TV.png",YATEEM TV
-https://livedoomovie.com/02_YATEEM_TV_480p/chunklist.m3u8
+https://livedoomovies.com/02_YATEEM_TV_480p/chunklist.m3u8
 
 
 
@@ -1398,106 +1398,6 @@ http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE
 
 
 
-#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
-#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 2
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
-#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 4
-http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 7
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 8
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 10
-http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
-#EXTINF:0  tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg",24/7| Hollywood Movies 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="movies" tvg-logo="http://html.login.in.th/flashstreaming/img/ch8.jpg",channel8thailand----------------
-https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/im/180701022041.png",Movie CH1
-http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTggMTI6Mjg6NTYgUE0maGFzaF92YWx1ZT1xVUhLaUl5aEQ0VHhHTklzdlQxdXd3PT0mdmFsaWRtaW51dGVzPTMwMA==
-#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ie/180701022123.png",Movie CH2
-http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTggMTI6Mjg6NTYgUE0maGFzaF92YWx1ZT1xVUhLaUl5aEQ0VHhHTklzdlQxdXd3PT0mdmFsaWRtaW51dGVzPTMwMA==
-#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/iu/180701022150.png",Movie CH3
-http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTggMTI6Mjg6NTYgUE0maGFzaF92YWx1ZT1xVUhLaUl5aEQ0VHhHTklzdlQxdXd3PT0mdmFsaWRtaW51dGVzPTMwMA==
-#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/im/180628094301.png",HBO hd_103
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/66.m3u8
-#EXTINF:-1 group-title="movies"tvg-logo="http://www.sine.tv/images/icon/hbo_en.png",HBO hd_128
-http://128.199.155.69:2200/HD2live-S3/hdhbo.stream/chunklist.m3u8
-#EXTINF:-1 group-title="movies"tvg-id="Fox Action Movies HD(English)" tvg-logo="https://4.bp.blogspot.com/-0-hLVxvVJ38/WdLYyd9sEfI/AAAAAAAAAH0/76RUqPTc92oMajAzSk1is0Jb1ynW08jOgCLcBGAs/s320/034.png",foxpremiumth
-http://iptvthai.webhop.biz:443/hd-foxpremium_720/index.m3u8
-
-
-
-
-
-#EXTINF:-1,Movie_CHN_SUB
-http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
-
-#EXTINF:-1,FOX life
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
-
-
-
-#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ii/180703075348.jpg",Movie CH1
-http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
-#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/if/180703080244.jpg",Movie CH2
-http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
-#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/iz/180703075241.jpg",Movie CH3
-http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
-#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/iy/180723045313.jpg",upmovie
-http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
-
-
-#EXTINF:-1 group-title="movies" tvg-logo="http://html.login.in.th/flashstreaming/img/ch8.jpg",channel8thailand
-https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
-#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ii/180630033425.jpg",movie24_rtmp
-rtmp://tv01.thaizatv.com/drm/movie1
-#EXTINF:-1,andflixhd
-http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1,andprivehd
-http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1,movie1
-http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
-#EXTINF:-1,movie_huya
-http://ws4.streamhls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-1524041857-1_1200/playlist.m3u8
 
 
 
@@ -1903,10 +1803,7 @@ http://61.216.10.122:4046/VideoInput/play.ts
 http://220.158.149.14:9999/live/TV00000000000000000114@HHZT;LIVE
 #EXTINF:-1,TLC
 http://125.227.210.37:8891/VideoInput/play.ts
-#EXTINF:-1,Fox_Crime
-http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8
-#EXTINF:-1,CHN
-http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8
+
 
 #EXTINF:-1,CNEX--------------------------
 http://61.58.60.230:9319/live/257.m3u8
@@ -1948,21 +1845,21 @@ http://211.58.34.230:9981/stream/channelid/1299978861
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DaVinci Learning_PL
 http://188.26.25.141:8000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth (HD 4Mbps)--------------------------
-http://1.53.250.174:2806/udp/225.1.2.25:30120
+http://42.112.97.70:8888/udp/225.1.2.25:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT
-http://1.53.250.174:2806/udp/225.1.2.24:30120
+http://42.112.97.70:8888/udp/225.1.2.24:30120
 #EXTINF:-1 group-title="docu" tvg-logo="http://image.free.in.th/v/2013/io/180629043620.jpg",BBC Lifestyle_VN
-http://1.53.250.174:2806/udp/225.1.2.52:30120
+http://42.112.97.70:8888/udp/225.1.2.52:30120
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN
-http://1.53.250.174:2806/udp/225.1.1.197:30120
+http://42.112.97.70:8888/udp/225.1.1.197:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN
-http://1.53.250.174:2806/udp/225.1.1.198:30120
+http://42.112.97.70:8888/udp/225.1.1.198:30120
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_FPT
-http://1.53.250.174:2806/udp/225.1.2.253:30120
+http://42.112.97.70:8888/udp/225.1.2.253:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_SD_VN
-http://1.53.250.174:2806/udp/225.1.2.9:30120
+http://42.112.97.70:8888/udp/225.1.2.9:30120
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_FPT
-http://1.53.250.174:2806/udp/225.1.2.98:30120
+http://42.112.97.70:8888/udp/225.1.2.98:30120
 
 #EXTINF:-1,KLT
 http://61.58.60.230:9319/live/205.m3u8
@@ -2068,91 +1965,91 @@ http://113.172.69.118:2806/rtp/232.84.2.177:10488
 
 
 #EXTINF:-1,CNBC--------------------------viet_udp
-http://1.53.250.174:2806/udp/225.1.1.227:30120
+http://42.112.97.70:8888/udp/225.1.1.227:30120
 #EXTINF:-1,BBC WORLD NEWS
-http://1.53.250.174:2806/udp/225.1.2.74:30120
+http://42.112.97.70:8888/udp/225.1.2.74:30120
 #EXTINF:-1,CNN
-http://1.53.250.174:2806/udp/225.1.1.242:30120
+http://42.112.97.70:8888/udp/225.1.1.242:30120
 #EXTINF:-1,Discovery Asia HD
-http://1.53.250.174:2806/udp/225.1.2.222:30120
+http://42.112.97.70:8888/udp/225.1.2.222:30120
 #EXTINF:-1,Discovery Asia HD
-http://1.53.250.174:2806/udp/225.1.2.223:30120
+http://42.112.97.70:8888/udp/225.1.2.223:30120
 #EXTINF:-1,Discovery Channel
-http://1.53.250.174:2806/udp/225.1.1.238:30120
+http://42.112.97.70:8888/udp/225.1.1.238:30120
 #EXTINF:-1,Disney Channel
-http://1.53.250.174:2806/udp/225.1.1.232:30120
+http://42.112.97.70:8888/udp/225.1.1.232:30120
 #EXTINF:-1,Disney Channel HD
-http://1.53.250.174:2806/udp/225.1.2.158:30120
+http://42.112.97.70:8888/udp/225.1.2.158:30120
 #EXTINF:-1,Disney Channel HD
-http://1.53.250.174:2806/udp/225.1.2.160:30120
+http://42.112.97.70:8888/udp/225.1.2.160:30120
 #EXTINF:-1,FOX MOVIES
-http://1.53.250.174:2806/udp/225.1.1.205:30120
+http://42.112.97.70:8888/udp/225.1.1.205:30120
 #EXTINF:-1,FOX MOVIES HD
-http://1.53.250.174:2806/udp/225.1.2.238:30120
+http://42.112.97.70:8888/udp/225.1.2.238:30120
 #EXTINF:-1,FOX MOVIES HD
-http://1.53.250.174:2806/udp/225.1.2.239:30120
+http://42.112.97.70:8888/udp/225.1.2.239:30120
 #EXTINF:-1,HBO SD
-http://1.53.250.174:2806/udp/225.1.1.48:30120
+http://42.112.97.70:8888/udp/225.1.1.48:30120
 #EXTINF:-1,HBO SD
-http://1.53.250.174:2806/udp/225.1.1.235:30120
+http://42.112.97.70:8888/udp/225.1.1.235:30120
 #EXTINF:-1,HBO HD
-http://1.53.250.174:2806/udp/225.1.2.232:30120
+http://42.112.97.70:8888/udp/225.1.2.232:30120
 #EXTINF:-1,HBO HD
-http://1.53.250.174:2806/udp/225.1.2.233:30120
+http://42.112.97.70:8888/udp/225.1.2.233:30120
 #EXTINF:-1,KIX HD
-http://1.53.250.174:2806/udp/225.1.2.144:30120
+http://42.112.97.70:8888/udp/225.1.2.144:30120
 #EXTINF:-1,KIX HD
-http://1.53.250.174:2806/udp/225.1.2.145:30120
+http://42.112.97.70:8888/udp/225.1.2.145:30120
 #EXTINF:-1,MAX BY HBO
-http://1.53.250.174:2806/udp/225.1.1.230:30120
+http://42.112.97.70:8888/udp/225.1.1.230:30120
 #EXTINF:-1,MAX BY HBO HD
-http://1.53.250.174:2806/udp/225.1.2.86:30120
+http://42.112.97.70:8888/udp/225.1.2.86:30120
 #EXTINF:-1,MAX BY HBO HD
-http://1.53.250.174:2806/udp/225.1.2.91:30120
+http://42.112.97.70:8888/udp/225.1.2.91:30120
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://1.53.250.174:2806/udp/225.1.1.244:30120
+http://42.112.97.70:8888/udp/225.1.1.244:30120
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://1.53.250.174:2806/udp/225.1.2.234:30120
+http://42.112.97.70:8888/udp/225.1.2.234:30120
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://1.53.250.174:2806/udp/225.1.2.235:30120
+http://42.112.97.70:8888/udp/225.1.2.235:30120
 #EXTINF:-1,OUTDOOR CHANNEL HD
-http://1.53.250.174:2806/udp/225.1.2.214:30120
+http://42.112.97.70:8888/udp/225.1.2.214:30120
 #EXTINF:-1,OUTDOOR CHANNEL HD
-http://1.53.250.174:2806/udp/225.1.2.215:30120
+http://42.112.97.70:8888/udp/225.1.2.215:30120
 #EXTINF:-1,RED BY HBO HD
-http://1.53.250.174:2806/udp/225.1.1.89:30120
+http://42.112.97.70:8888/udp/225.1.1.89:30120
 #EXTINF:-1,RED BY HBO HD
-http://1.53.250.174:2806/udp/225.1.1.93:30120
+http://42.112.97.70:8888/udp/225.1.1.93:30120
 #EXTINF:-1,TLC (HD 8Mbps)
-http://1.53.250.174:2806/udp/225.1.2.103:30120
+http://42.112.97.70:8888/udp/225.1.2.103:30120
 #EXTINF:-1,BLUE ANT ENTERTAINMENT (HD 4Mbps)
-http://1.53.250.174:2806/udp/225.1.1.175:30120
+http://42.112.97.70:8888/udp/225.1.1.175:30120
 #EXTINF:-1,BLUE ANT EXTREME (HD 4Mbps)
-http://1.53.250.174:2806/udp/225.1.1.176:30120
+http://42.112.97.70:8888/udp/225.1.1.176:30120
 #EXTINF:-1,Fashion 4K
-http://1.53.250.174:2806/udp/225.1.1.20:30120
+http://42.112.97.70:8888/udp/225.1.1.20:30120
 #EXTINF:-1,afc asian food channel (FPT Play)
-http://1.53.250.174:2806/udp/225.1.4.36:30120
+http://42.112.97.70:8888/udp/225.1.4.36:30120
 #EXTINF:-1,BBC Cbeebies (FPT Play)
-http://1.53.250.174:2806/udp/225.1.4.29:30120
+http://42.112.97.70:8888/udp/225.1.4.29:30120
 #EXTINF:-1,BBC earth (FPT Play)
-http://1.53.250.174:2806/udp/225.1.4.21:30120
+http://42.112.97.70:8888/udp/225.1.4.21:30120
 #EXTINF:-1,BBC lifestyle (FPT Play)
-http://1.53.250.174:2806/udp/225.1.4.23:30120
+http://42.112.97.70:8888/udp/225.1.4.23:30120
 #EXTINF:-1,BBC WORLD NEWS (FPT Play)
-http://1.53.250.174:2806/udp/225.1.4.22:30120
+http://42.112.97.70:8888/udp/225.1.4.22:30120
 #EXTINF:-1,Da Vinci/DIVA??? (FPT Play)
-http://1.53.250.174:2806/udp/225.1.4.38:30120
+http://42.112.97.70:8888/udp/225.1.4.38:30120
 #EXTINF:-1,DISCOVERY asia. (HD) (FPT Play)
-http://1.53.250.174:2806/udp/225.1.4.25:30120
+http://42.112.97.70:8888/udp/225.1.4.25:30120
 #EXTINF:-1,DISCOVERY CHANNEL (FPT Play)
-http://1.53.250.174:2806/udp/225.1.4.24:30120
+http://42.112.97.70:8888/udp/225.1.4.24:30120
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD (FPT Play)
-http://1.53.250.174:2806/udp/225.1.4.31:30120
+http://42.112.97.70:8888/udp/225.1.4.31:30120
 #EXTINF:-1,NHK WORLD JAPAN (HD) (FPT Play)
-http://1.53.250.174:2806/udp/225.1.4.73:30120
+http://42.112.97.70:8888/udp/225.1.4.73:30120
 #EXTINF:-1,Outdoor CHANNEL (FPT Play)
-http://1.53.250.174:2806/udp/225.1.4.37:30120
+http://42.112.97.70:8888/udp/225.1.4.37:30120
 
 
 
@@ -2183,10 +2080,7 @@ http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
 https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ii/180630033425.jpg",movie24_rtmp
 rtmp://tv01.thaizatv.com/drm/movie1
-#EXTINF:-1,FOX thai
-http://iliketot.dyndns.tv/63cbfb466fe644dda11a8e109611a5cd.m3u8
-#EXTINF:-1,CHN
-http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8
+
 
 #EXTINF:-1,hboth_fwiptv--------------------------
 http://cloudlive-bl3.ddns.net:1936/transcoder_F1/hboth_fwiptv.stream/playlist.m3u8
@@ -3299,7 +3193,8 @@ http://ok2.se:8000/0aabF7UhhKARJUrJ2/0c71F9Uvw12DoiRY5/364
 http://ok2.se:8000/4889F7U9nTOkJ0VJn/808aF9UjPSXerKPvX/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test136
 http://ok2.se:8000/b64cF7UGX5KQt8GtF/ecdeF9UwePnE9DouJ/364
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test137
+http://ok2.se:8000/fa32F7UBHT3GJ9ATH/eb2bF9UrjhkJaLbj8/364
 
 
 #EXTINF:-1,DaVinci Learning---------------
@@ -3321,10 +3216,20 @@ http://176.67.198.12:4063/udp/239.1.1.141:22141
 #EXTINF:-1,YU150:Da Vinci Learning--------------v5iptv
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/49176
 
+#EXTINF:-1,RO: DAVINCI LEARNING----------test1
+http://mitvpro.net:25461/kCjGKBagNZBtTsG/sKxoaGafRqhfRLf/57109
+#EXTINF:-1,RO: DAVINCI LEARNING---2
+http://mitvpro.net:25461/Z2CQiCl4StmEV3o/MYBZfVnahzsJsAn/57109
+#EXTINF:-1,RO: DAVINCI LEARNING---3
+http://mitvpro.net:25461/pPIfOylThlYJv1v/lNyxmeccJ80IQpU/57109
+#EXTINF:-1,RO: DAVINCI LEARNING---4
+http://mitvpro.net:25461/FvfAowqvZauDXxn/KfQVoDxnEvXBY3g/57109
+#EXTINF:-1,RO: DAVINCI LEARNING---5
+http://mitvpro.net:25461/KUjffalZaw3F46L/yLstYtZ1QYXRYYs/57109
+#EXTINF:-1,RO: DAVINCI LEARNING---6
+http://mitvpro.net:25461/oxF0eUKFtvXL8wZ/IzVqRPbUxLzMchi/57109
 
-#EXTINF:-1,RO: DAVINCI LEARNING----------test
-http://mitvpro.net:25461/nYUMe0djt9IhHlD/DS2EJsZSpG5BCc1/57109
-#EXTINF:-1,DA VINCI LEARNING SD
+#EXTINF:-1,DA VINCI LEARNING SD-------test
 http://212.8.252.59:88/live/nam/nam/2271.ts
 #EXTINF:-1,DISCOVERY SCIENCE SD
 http://212.8.252.59:88/live/nam/nam/2213.ts
@@ -3343,19 +3248,17 @@ http://185.180.12.90:8080/HISTORY/index.m3u8?token=test
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT--------------
-http://1.53.250.174:2806/udp/225.1.2.24:30120
-#EXTINF:-1 group-title="docu" tvg-logo="http://image.free.in.th/v/2013/io/180629043620.jpg",BBC Lifestyle_VN
-http://1.53.250.174:2806/udp/225.1.2.52:30120
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN
-http://1.53.250.174:2806/udp/225.1.1.197:30120
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN
-http://1.53.250.174:2806/udp/225.1.1.198:30120
-
-
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN--------test
-http://1.53.101.27:6606/udp/225.1.2.24:30120
+http://42.112.97.70:8888/udp/225.1.2.24:30120
 #EXTINF:-1 group-title="docu" tvg-logo="http://image.free.in.th/v/2013/io/180629043620.jpg",BBC Lifestyle_VN
 http://42.112.97.70:8888/udp/225.1.2.52:30120
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN
+http://42.112.97.70:8888/udp/225.1.1.197:30120
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN
+http://42.112.97.70:8888/udp/225.1.1.198:30120
+
+
+
+
 
 
 
@@ -3497,6 +3400,22 @@ http://203.154.243.89:1205
 #EXTINF:-1,TH Universal
 http://203.154.243.89:1029
 
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ii/180703075348.jpg",Movie CH1
+http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/if/180703080244.jpg",Movie CH2
+http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/iz/180703075241.jpg",Movie CH3
+http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/iy/180723045313.jpg",upmovie
+http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
+#EXTINF:-1 group-title="movies" tvg-logo="http://html.login.in.th/flashstreaming/img/ch8.jpg",channel8thailand
+https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ii/180630033425.jpg",movie24_rtmp
+rtmp://tv01.thaizatv.com/drm/movie1
+#EXTINF:-1,movie1
+http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
+
+
 #EXTINF:-1,Star Movies_Indo---------
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1,CinemaxHD_Indo
@@ -3516,30 +3435,6 @@ https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 https://anevia114.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/avjDz6T.png" group-title="24/7 MANDARIN",24/7 Marvel Movies----------huya
-http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VKLU9Cx.png" group-title="24/7 MANDARIN",24/7 Resident Evil Movies
-https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FIO7zhZ.png" group-title="24/7 MANDARIN",24/7 Sci-Fi Movies
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="24/7 MANDARIN",Hollywood Movies 1
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="24/7 MANDARIN",Hollywood Movies 2
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="24/7 MANDARIN",Hollywood Movies 3
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="24/7 MANDARIN",Hollywood Movies 4
-https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="24/7 MANDARIN",Hollywood Movies 5
-https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="24/7 MANDARIN",Hollywood Movies 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="24/7 MANDARIN",Hollywood Movies 7
-http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="24/7 MANDARIN",Hollywood Movies 8
-http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="24/7 MANDARIN",Hollywood Movies 9
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
 
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia-------------chang55
@@ -3562,32 +3457,33 @@ https://tv4.chang55.com/live2/tv4ch48.stream/chunks.m3u8
 
 
 
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",Explore Life------------doofree88
-https://www.doofree88.com/streaming/sd-explife_480/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",Explore Sci
-https://www.doofree88.com/streaming/sd-expsci_480/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/aERcBjucC3rmuCHsezSxdHIyDW8xeL4yd4Mwq47u.jpg",Nat Geo People
-https://www.doofree88.com/streaming/hd-natgeopeople_720/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth
-https://www.doofree88.com/streaming/sd-bbcearth_720/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/9yb9Ng4uhP1goO0FVrIO9ETyOAkKrV3lzBcbPy6R.png",BBC Lifestyle
-https://www.doofree88.com/streaming/sd-bbclifestyle_720/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia
-https://www.doofree88.com/streaming/hd-discovery_720/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/lJBXFhwbz6WPLehk1WFBZDX7bqBRIM0XWs0Mm8LN.png",Discovery Channel
-https://www.doofree88.com/streaming/sd-discovery_720/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/JDWsk9v20OtNZPSUiZ1PVCNj5hc8wRNwHGEKbcF4.png",H2
-https://www.doofree88.com/streaming/hd-history2_720/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/G9EgG7nmfnml7kV2GXiYenGyGZm19bfPDwnfhnm0.png",History
-https://www.doofree88.com/streaming/hd-history_720/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/fbbOeGTPrQc10JNtcq4i2RxNTd1E8LSnTB1VvDTv.png",National Geographic
-https://www.doofree88.com/streaming/hd-natgeo_720/index.m3u8
 
 
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg",MYSCI HD------------livedoomovie
-https://livedoomovie.com/02_MYSCIHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg",MYSCI HD
+https://livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",samrujlok
-https://livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
+https://livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeopeople.jpg",NAT PEOPLE HD
+https://livedoomovies.com/02_NatPeopleHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png",BBC EARTH HD
+https://livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
+https://livedoomovies.com/02_LIFETYLEHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discoveryscience.jpg",Science Channel
+https://livedoomovies.com/02_DiscoveryScience/chunklist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeo.png",NETIONAL GEO HD TH
+https://livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discovery.png",Discovery Channel
+https://livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png",DISCOVERY HD WORLD
+https://livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",HISTORY HD
+https://livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",HISTORY2 HD
+https://livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+
+
+
 
 
 #EXTINF:-1, tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/27.jpg" tvg-name=“PSI SARADEE” , PSI SARADEE
@@ -3668,12 +3564,9 @@ http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 http://mu02.v2iptv.com:8880/BL12MA000891853977/92454145/33094
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] Brazilian Teen Babes------------test
-http://psrv.io:80/74447077884919/snakeplay/44431
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] Perfect Babie Dolls
-http://psrv.io:80/74447077884919/snakeplay/44432
 
-#EXTINF:-1,VIP029:(Sonsee 3)-----
+
+#EXTINF:-1,VIP029:(Sonsee 3)-----test
 http://a2.skynets.tv:8880/2zyc12m0275/eCTiJPs0mw/33160
 #EXTINF:-1,VIP030:(Pandora Perfect)
 http://a2.skynets.tv:8880/2zyc12m0275/eCTiJPs0mw/33159
@@ -3704,22 +3597,6 @@ http://a2.skynets.tv:8880/2zyc12m0275/eCTiJPs0mw/60703
 http://fr01.spr24.net/17976/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1,NuArt
 http://fr01.spr24.net/910/index.m3u8?token=BQF9PmuRpcxUqR
-
-#EXTINF:-1,XXX18 : Lesbian Affair-----
-http://www.iptvipaccess.es:8080/abe/abe/39088
-#EXTINF:-1,XXX18 : Stars XXX HD
-http://www.iptvipaccess.es:8080/abe/abe/39126
-#EXTINF:-1,XXX18 : Nuart TV
-http://www.iptvipaccess.es:8080/abe/abe/39094
-
-#EXTINF:-1,LESBIAN-----
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/lesbian.m3u8
-#EXTINF:-1,LIVECAM
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/livecam.m3u8
-#EXTINF:-1,PORNSTAR
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/pornstar.m3u8
-#EXTINF:-1,RUSSIAN
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/russian.m3u8
 
 #EXTINF:-1,NuArt TV-----
 http://wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/2057/index.m3u8
@@ -3869,12 +3746,12 @@ http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/364
 
 
 #EXTINF:-1,CNBC_udp_viet4022
-http://1.53.250.174:2806/udp/225.1.1.227:30120
+http://42.112.97.70:8888/udp/225.1.1.227:30120
 #EXTINF:-1,CNBC_rtp_viet
 http://113.172.69.118:2806/rtp/232.84.2.177:10488
 
 #EXTINF:-1,VTV1 HD_udp4022
-http://1.53.250.174:2806/udp/225.1.2.249:30120
+http://42.112.97.70:8888/udp/225.1.2.249:30120
 #EXTINF:-1,VTV1 HD (HD 8Mbps)_rtp
 http://113.172.69.118:2806/rtp/232.84.1.117:10254
 
