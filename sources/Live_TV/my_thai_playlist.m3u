@@ -2859,10 +2859,7 @@ rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 
 
 
-#EXTINF:-1,JAV_62-------------test
-http://a2.skynets.tv:8880/2zyc12m0275/eCTiJPs0mw/33162
-#EXTINF:-1,JAV_61
-http://a2.skynets.tv:8880/2zyc12m0275/eCTiJPs0mw/33161
+
 
 #EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",VIP029:(Sonsee 3)----------
 http://a2.skynets.tv:8880/2zyc12m0275/eCTiJPs0mw/33160
@@ -2881,14 +2878,7 @@ http://a2.skynets.tv:8880/2zyc12m0275/eCTiJPs0mw/33154
 #EXTINF:-1,VIP039:HAPPY
 http://a2.skynets.tv:8880/2zyc12m0275/eCTiJPs0mw/33153
 
-#EXTINF:-1,JAV_52----------test
-http://a2.skynets.tv:8880/2zyc12m0275/eCTiJPs0mw/33152
-#EXTINF:-1,JAV_51
-http://a2.skynets.tv:8880/2zyc12m0275/eCTiJPs0mw/33151
-#EXTINF:-1,JAV_50
-http://a2.skynets.tv:8880/2zyc12m0275/eCTiJPs0mw/33150
-#EXTINF:-1,JAV_49
-http://a2.skynets.tv:8880/2zyc12m0275/eCTiJPs0mw/33149
+
 
 
 
@@ -3230,7 +3220,28 @@ http://ok2.se:8000/fa32F7UBHT3GJ9ATH/eb2bF9UrjhkJaLbj8/364
 http://ok2.se:8000/7376F7UZLm5FJyGzh/74dbF9UGYQyZc5TZp/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test139
 http://ok2.se:8000/8b5fF7U0pqupYHApg/bf9fF9UfeDznk6vML/364
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test140
+http://ok2.se:8000/4222F7UIMMROwHzTx/2829F9UaJmZGzsI3u/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test141
+http://ok2.se:8000/9c11F7U1YdFoGQEWO/3590F9UePBZkdj6Ql/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test142
+http://ok2.se:8000/be53F7UE9pfxg32IY/1715F9U27LSvJleb6/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test143
+http://ok2.se:8000/a49dF7UlbZgp6AZtR/6481F9UKKyaOLDY8K/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test144
+http://ok2.se:8000/9b61F7UiDyBfMFCmd/ff22F9UXjWmCoeoOj/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test145
+http://ok2.se:8000/7376F7UZLm5FJyGzh/74dbF9UGYQyZc5TZp/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test146
+http://ok2.se:8000/ac04F7USqMzckGghI/5631F9UK0Ra2zAaeS/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test147
+http://ok2.se:8000/caa9F7UVTvO49ig8P/4b29F9UdW35rAVp69/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test148
+http://ok2.se:8000/bfafF7Um2AJ7eWczk/68afF9UhMbItzRR4g/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test149
+http://ok2.se:8000/25aaF7UMKziBuNiSA/6bafF9UxrmTxOPfTh/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test150
+http://ok2.se:8000/9a62F7UGEBz29CFPk/ab65F9UBYyXBtQ8yZ/364
 
 
 
@@ -3347,8 +3358,7 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="Entertainment",TLC_liveanevia
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/History.de.png" group-title="Learning",History---indo-------------test
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/233.m3u8
+
 
 
 #EXTINF:-1,English Club TV
@@ -3488,7 +3498,7 @@ https://tv4.chang55.com/live2/tv4ch48.stream/chunks.m3u8
 
 
 
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg",MYSCI HD
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg",MYSCI HD----------livedoomovies
 https://livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",samrujlok
 https://livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
@@ -3698,7 +3708,7 @@ http://88.119.220.2/live/eds/BBC/HLS_encr/BBC.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OnFFoP.png" group-title="USA",Cheddar Business (New!)
 https://live.chdrstatic.com/cheddar/primary/1.m3u8?fluxustv.m3u8
