@@ -2879,6 +2879,28 @@ http://a2.skynets.tv:8880/2zyc12m0275/eCTiJPs0mw/33154
 http://a2.skynets.tv:8880/2zyc12m0275/eCTiJPs0mw/33153
 
 
+#EXTINF:-1,Sonsee 3-------------test
+http://a2.skynets.tv:8880/2zyc1m0440/pcu7EqVpA8/33160
+#EXTINF:-1,9
+http://a2.skynets.tv:8880/2zyc1m0440/pcu7EqVpA8/33159
+#EXTINF:-1,8
+http://a2.skynets.tv:8880/2zyc1m0440/pcu7EqVpA8/33158
+#EXTINF:-1,7
+http://a2.skynets.tv:8880/2zyc1m0440/pcu7EqVpA8/33157
+#EXTINF:-1,6
+http://a2.skynets.tv:8880/2zyc1m0440/pcu7EqVpA8/33156
+#EXTINF:-1,5
+http://a2.skynets.tv:8880/2zyc1m0440/pcu7EqVpA8/33155
+#EXTINF:-1,4
+http://a2.skynets.tv:8880/2zyc1m0440/pcu7EqVpA8/33154
+#EXTINF:-1,VIP039:HAPPY
+http://a2.skynets.tv:8880/2zyc1m0440/pcu7EqVpA8/33153
+
+
+
+
+
+
 
 
 
@@ -3242,7 +3264,22 @@ http://ok2.se:8000/bfafF7Um2AJ7eWczk/68afF9UhMbItzRR4g/364
 http://ok2.se:8000/25aaF7UMKziBuNiSA/6bafF9UxrmTxOPfTh/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test150
 http://ok2.se:8000/9a62F7UGEBz29CFPk/ab65F9UBYyXBtQ8yZ/364
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test151
+http://ok2.se:8000/169dF1UvGmkWBfxgZ/2130F1UA4wJSEyvEJ/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test152
+http://ok2.se:8000/12caF1U4GaJPDKPLV/0c15F1UV2rYqpUw4X/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test153
+http://ok2.se:8000/f264F7UzZZkD8zpuw/4461F9Urx3d61bgeU/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test154
+http://ok2.se:8000/e551F7Uq9uMGZn2qS/77adF9UPsmEpbiejC/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test155
+http://ok2.se:8000/8227F1UTdPDYazIVZ/78d6F1USFGLp8jDLL/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test156
+http://ok2.se:8000/f264F7UzZZkD8zpuw/4461F9Urx3d61bgeU/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test157
+http://ok2.se:8000/e551F7Uq9uMGZn2qS/77adF9UPsmEpbiejC/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test158
+http://ok2.se:8000/9671F7UPFfKyBnfQd/248dF9UpMC7aqxyip/364
 
 
 
@@ -3607,8 +3644,6 @@ http://mu02.v2iptv.com:8880/BL12MA000891853977/92454145/33094
 
 
 
-
-
 #EXTINF:-1,Babes-----
 http://fr01.spr24.net/17976/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1,NuArt
@@ -3786,8 +3821,7 @@ https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
 http://203.162.235.41:16919
 
 
-#EXTINF:-1,CNBC_th---
-http://14.207.168.60:8000/play/a03n
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_HD
 https://89.187.173.182/CNBC/mono.m3u8
 
