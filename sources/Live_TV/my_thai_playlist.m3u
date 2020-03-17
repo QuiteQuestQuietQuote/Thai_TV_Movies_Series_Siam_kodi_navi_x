@@ -2879,22 +2879,7 @@ http://a2.skynets.tv:8880/2zyc12m0275/eCTiJPs0mw/33154
 http://a2.skynets.tv:8880/2zyc12m0275/eCTiJPs0mw/33153
 
 
-#EXTINF:-1,Sonsee 3-------------test
-http://a2.skynets.tv:8880/2zyc1m0440/pcu7EqVpA8/33160
-#EXTINF:-1,9
-http://a2.skynets.tv:8880/2zyc1m0440/pcu7EqVpA8/33159
-#EXTINF:-1,8
-http://a2.skynets.tv:8880/2zyc1m0440/pcu7EqVpA8/33158
-#EXTINF:-1,7
-http://a2.skynets.tv:8880/2zyc1m0440/pcu7EqVpA8/33157
-#EXTINF:-1,6
-http://a2.skynets.tv:8880/2zyc1m0440/pcu7EqVpA8/33156
-#EXTINF:-1,5
-http://a2.skynets.tv:8880/2zyc1m0440/pcu7EqVpA8/33155
-#EXTINF:-1,4
-http://a2.skynets.tv:8880/2zyc1m0440/pcu7EqVpA8/33154
-#EXTINF:-1,VIP039:HAPPY
-http://a2.skynets.tv:8880/2zyc1m0440/pcu7EqVpA8/33153
+
 
 
 
@@ -3280,7 +3265,8 @@ http://ok2.se:8000/f264F7UzZZkD8zpuw/4461F9Urx3d61bgeU/364
 http://ok2.se:8000/e551F7Uq9uMGZn2qS/77adF9UPsmEpbiejC/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test158
 http://ok2.se:8000/9671F7UPFfKyBnfQd/248dF9UpMC7aqxyip/364
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test159
+http://ok2.se:8000/4de7F1UDnIPqlw6wq/618bF1U2niqrzMNiP/364
 
 
 #EXTINF:-1,DaVinci Learning---------------
@@ -3356,7 +3342,7 @@ http://122.155.180.8:5021/live/440
 http://122.146.68.116:4046/VideoInput/play.ts
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI 
 http://89.38.8.130:39481/
-#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI---CN
 http://122.155.180.8:5021/live/457
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/sd-discoveryscience.jpg",Discovery SCI ---
 http://94.177.136.29:7478/play/a039
@@ -3527,8 +3513,7 @@ https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch92.stream/chunks.m3u8
 #EXTINF:-1,HISTORY 2
 https://tv4.chang55.com/live2/tv4ch19.stream/chunks.m3u8
-#EXTINF:-1,Doc
-https://tv4.chang55.com/live2/tv4ch48.stream/chunks.m3u8
+
 
 
 
