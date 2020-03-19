@@ -1864,7 +1864,7 @@ http://42.112.97.70:8888/udp/225.1.2.98:30120
 #EXTINF:-1,KLT
 http://61.58.60.230:9319/live/205.m3u8
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/77332
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/77332
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_rtmp
 rtmp://118.97.96.17:1935/discover/afc_3
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
@@ -1884,47 +1884,47 @@ http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
 
 #EXTINF:-1,DAVINCILEARNING (RO)_ok2--------------------------
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/77332
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/77332
 #EXTINF:-1,DISCOVERY (RO)
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/77339
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/77339
 #EXTINF:-1,DISCOVERY SCIENCE (RO)
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/77338
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/77338
 #EXTINF:-1, HISTORY
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/1758
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/1758
 #EXTINF:-1, H2
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/1754
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/1754
 #EXTINF:-1, DISCOVERY SCIENCE
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/1766
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/1766
 #EXTINF:-1, DISCOVERY HISTORY
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/1765
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/1765
 #EXTINF:-1, DISCOVERY
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/1764
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/1764
 #EXTINF:-1,NAT GEO HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/330
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/330
 #EXTINF:-1,DIY HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/329
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/329
 #EXTINF:-1,FYI HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/42684
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/42684
 #EXTINF:-1,COOKING CHANNEL HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6108
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6108
 #EXTINF:-1,FOOD HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/333
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/333
 #EXTINF:-1,HGTV HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/335
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/335
 #EXTINF:-1,FOOD HD (USA)
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/80508
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/80508
 #EXTINF:-1,TASTEMADE
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/80391
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/80391
 #EXTINF:-1,EPIC MEAL TIME 24X7
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6129
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6129
 #EXTINF:-1, NAT GEO
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/1755
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/1755
 #EXTINF:-1, FOOD NETWORK
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/1788
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/1788
 #EXTINF:-1,FOOD (GR) – NEW
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/66066
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/66066
 #EXTINF:-1,OUTDOOR CHANNEL
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/9049
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/9049
 
 
 
@@ -2120,33 +2120,33 @@ https://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,DISNEY HD EAST--------------------------ok2.se:80
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/392
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/392
 #EXTINF:-1,ABC SPARK HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/4063
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/4063
 #EXTINF:-1,TREEHOUSE HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/393
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/393
 #EXTINF:-1,NICKELODEON HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/394
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/394
 #EXTINF:-1,CARTOON NETWORK HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/395
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/395
 #EXTINF:-1,FAMILY HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/396
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/396
 #EXTINF:-1,DISNEY XD HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/397
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/397
 #EXTINF:-1,DISNEY ALL DAY 24X7
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/7804
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/7804
 #EXTINF:-1,TELETOON HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/2422
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/2422
 #EXTINF:-1, DISNEY CHANNEL
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/1745
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/1745
 #EXTINF:-1, DISNEY JR
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/1746
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/1746
 #EXTINF:-1, DISNEY XD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/1747
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/1747
 #EXTINF:-1, CARTOON NETWORK
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/1773
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/1773
 #EXTINF:-1, NICKTOONS
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/1729
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/1729
 
 
 
@@ -2191,51 +2191,51 @@ http://212.111.17.130:8001/1:0:1:307:C94:3:EB0000:0:0:0:
 
 
 #EXTINF:-1,HBO EAST HD – NEW--------------------------ok2.se:80
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/371
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/371
 #EXTINF:-1,HBO 1 HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/26321
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/26321
 #EXTINF:-1,HBO 2 HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/26322
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/26322
 #EXTINF:-1,HBO SIGNATURE HD – NEW
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/372
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/372
 #EXTINF:-1,HBO ZONE HD – NEW
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/4828
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/4828
 #EXTINF:-1,5STAR MAX HD – NEW
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/382
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/382
 #EXTINF:-1,MOVIE MAX HD – NEW
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/384
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/384
 #EXTINF:-1,CINEMAX EAST HD – NEW
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/380
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/380
 #EXTINF:-1,SHOWTIME EAST HD (NEW)
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/11361
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/11361
 #EXTINF:-1,SHOWTIME BEYOND HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/11363
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/11363
 #EXTINF:-1,SHOWTIME WOMEN HD (NEW)
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/11359
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/11359
 #EXTINF:-1,SHOWTIME EXTREME HD (NEW)
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/11358
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/11358
 #EXTINF:-1,STARZ HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/374
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/374
 #EXTINF:-1,STARZ EDGE HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/377
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/377
 #EXTINF:-1,STARZ BLACK HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/378
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/378
 #EXTINF:-1,FLIX – NEW
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/59056
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/59056
 #EXTINF:-1, MOVIES PREMIERE
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/1733
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/1733
 #EXTINF:-1, MOVIES DISNEY
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/1743
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/1743
 #EXTINF:-1,SUNDANCE HD – NEW
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/10039
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/10039
 #EXTINF:-1,MOVIE TIME HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/369
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/369
 #EXTINF:-1,TRUE MOVIES
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/1786
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/1786
 #EXTINF:-1,PPV MOVIES
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/8784
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/8784
 #EXTINF:-1,SCIENCE FICTION NEW
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/8887
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/8887
 
 
 
@@ -2420,67 +2420,67 @@ http://live.redtraffic.xyz/cohf.m3u8
 
 
 #EXTINF:-1,PLAYBOY TV (NA)-----------------------------ok2.se:80
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/300
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/300
 #EXTINF:-1,HUSTLER HD
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/302
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/302
 #EXTINF:-1,NAUGHTY AMERICA
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/10657
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/10657
 #EXTINF:-1,BRAZZERS
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/10656
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/10656
 #EXTINF:-1,BRAZZERS LIVE
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/10660
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/10660
 #EXTINF:-1,TEN – NEW
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/9165
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/9165
 #EXTINF:-1,XTSY – (NEW)
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/9164
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/9164
 #EXTINF:-1,TINY4K
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/8889
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/8889
 #EXTINF:-1,EVIL ANGEL 1
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/10659
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/10659
 #EXTINF:-1,BANG BROS
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/8783
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/8783
 #EXTINF:-1,JAP AV 1
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/72393
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/72393
 #EXTINF:-1,JAP AV 2
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/72394
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/72394
 #EXTINF:-1,JAP AV 3
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/72395
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/72395
 #EXTINF:-1,WANZ
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6611
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6611
 #EXTINF:-1,IPZ
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6610
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6610
 #EXTINF:-1,JAV 1 UNCENSORED
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6612
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6612
 #EXTINF:-1,JAV 2 UNCENSORED
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6613
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6613
 #EXTINF:-1,JAV 3 UNCENSORED
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6614
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6614
 #EXTINF:-1,TOKYO HOT
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6572
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6572
 #EXTINF:-1,X ART
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/10658
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/10658
 #EXTINF:-1,TUSHY
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6615
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6615
 #EXTINF:-1,LEGAL PORNO
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6573
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6573
 #EXTINF:-1,PENTHOUSE
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/71118
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/71118
 #EXTINF:-1,1 HD XXX
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6697
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6697
 #EXTINF:-1,2 HD XXX
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6696
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6696
 #EXTINF:-1,3 HD XXX
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6695
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6695
 #EXTINF:-1,4 HD XXX
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6694
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6694
 #EXTINF:-1,6 HD XXX
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6692
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6692
 #EXTINF:-1,5 HD XXX
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6693
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6693
 #EXTINF:-1,7 HD XXX
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6687
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6687
 #EXTINF:-1,8 HD XXX
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/6686
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/6686
 
 
 
@@ -2724,29 +2724,29 @@ http://125.227.210.37:9005/VideoInput/play.ts
 
 
 #EXTINF:-1,Ibiza_ok2--------------------------
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/72394
+http://ok3.se:8000/22cdF1Ue0okAtriC6/347aF1UIoxnQsbuV4/72394
 #EXTINF:-1,JAV---test07
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/6607
+http://ok3.se:8000/22cdF1Ue0okAtriC6/347aF1UIoxnQsbuV4/6607
 #EXTINF:-1,JAV---test08
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/6608
+http://ok3.se:8000/22cdF1Ue0okAtriC6/347aF1UIoxnQsbuV4/6608
 #EXTINF:-1,JAV---test09
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/6609
+http://ok3.se:8000/22cdF1Ue0okAtriC6/347aF1UIoxnQsbuV4/6609
 #EXTINF:-1,WANZ
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/6611
+http://ok3.se:8000/22cdF1Ue0okAtriC6/347aF1UIoxnQsbuV4/6611
 #EXTINF:-1,IPZ
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/6610
+http://ok3.se:8000/22cdF1Ue0okAtriC6/347aF1UIoxnQsbuV4/6610
 #EXTINF:-1,JAV 1 UNCENSORED
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/6612
+http://ok3.se:8000/22cdF1Ue0okAtriC6/347aF1UIoxnQsbuV4/6612
 #EXTINF:-1,JAV 2 UNCENSORED
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/6613
+http://ok3.se:8000/22cdF1Ue0okAtriC6/347aF1UIoxnQsbuV4/6613
 #EXTINF:-1,JAV 3 UNCENSORED
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/6614
+http://ok3.se:8000/22cdF1Ue0okAtriC6/347aF1UIoxnQsbuV4/6614
 #EXTINF:-1,TOKYO HOT
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/6572
+http://ok3.se:8000/22cdF1Ue0okAtriC6/347aF1UIoxnQsbuV4/6572
 #EXTINF:-1,X ART
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/10658
+http://ok3.se:8000/22cdF1Ue0okAtriC6/347aF1UIoxnQsbuV4/10658
 #EXTINF:-1,TUSHY
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/6615
+http://ok3.se:8000/22cdF1Ue0okAtriC6/347aF1UIoxnQsbuV4/6615
 
 
 
@@ -2951,344 +2951,126 @@ http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_72
 
 
 
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test1-----------
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test2
-http://ok2.se:8000/f3beF7UbxUrmgNobh/04feF9UsX4MN45LBI/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test3
-http://ok2.se:8000/ce5dF7UqEsM8e6hZB/eb8fF9UZTKjPZUj0e/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test4
-http://ok2.se:8000/5f9cF7U9AtFmuSDRg/09e9F9UlJNst1jsK5/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test5
-http://ok2.se:8000/ce5dF7UqEsM8e6hZB/eb8fF9UZTKjPZUj0e/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test6
-http://ok2.se:8000/328bF7UfxkpbpfaNk/56ebF9UloY3sMarCg/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test7
-http://ok2.se:8000/d52aF7U6XhhoOWx6k/304dF9UPpA7PpBnZV/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test8
-http://ok2.se:8000/9fabF7UPyHi3X12VX/b9e0F9U7NYFrFWLUI/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test9
-http://ok2.se:8000/94eaF7UXOZAcTwzki/42b2F9UR73eUI5gFz/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test10
-http://ok2.se:8000/f3d9F7UN9R3ZNtcv4/57ecF9UrjMpZ1pMMQ/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test11
-http://ok2.se:8000/712fF7UfTsAIkq1vE/39cdF9UcvlGiB3rPw/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test12
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test13
-http://ok2.se:8000/0d61F7UiBXAHUPzWm/f4a7F9U5htQJiWyEA/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test14
-http://ok2.se:8000/d3dbF7UcPJdmqGV5U/83acF9UipDsvfRspk/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test15
-http://ok2.se:8000/2b85F7UW2QASGgG76/4c37F9USAzIxirObi/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test16
-http://ok2.se:8000/5718F7UU4rp4ryCUr/7fbaF9U57tiioZqMr/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test17
-http://ok2.se:8000/3b51F7U30AR35pZ3C/d277F9UuuB13z18XJ/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test18
-http://ok2.se:8000/5718F7UU4rp4ryCUr/7fbaF9U57tiioZqMr/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test19
-http://ok2.se:8000/7177F7U734pMGg7A9/7643F9U3FOVJRJy7B/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test20
-http://ok2.se:8000/000bF7UKTdA1QmbIp/90cfF9Uvsfop8P3bf/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test21
-http://ok2.se:8000/6a15F7UYXwwJBatD8/e099F9UKJNZeBWNpT/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test22
-http://ok2.se:8000/e2bcF7UWGueYIkzhb/3528F9UxrCgwwuNBb/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test23
-http://ok2.se:8000/7461F7Uhkdm5aybXo/c0e7F9UsbsN0pzSAg/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test24
-http://ok2.se:8000/d906F7UJEmEQo33Y3/3b60F9UEN05XFLsxZ/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test25
-http://ok2.se:8000/c8faF7UDmGMgTCVGh/5dd4F9U0bgT31vPPJ/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test26
-http://ok2.se:8000/fba0F7UtPNMLMHFlq/0c73F9UBmlT1RGuhE/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test27
-http://ok2.se:8000/3597F7UQDtgU46pEn/f6f3F9U8BN5qipWJL/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test28
-http://ok2.se:8000/09c3F7UvmqOR7ccDn/3846F9UgpM6gdcgyC/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test29
-http://ok2.se:8000/30e3F7UhHZd1i6LgI/0510F9Uv5aS5Ko9Es/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test30
-http://ok2.se:8000/6842F7UOKlRmmIZPv/3a06F9UeBPgxPKZe8/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test31
-http://ok2.se:8000/5231F7U4kOtbqax3N/3627F9UCFIg0PkE98/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test32
-http://ok2.se:8000/93eaF7UyFgpq7eqLh/6085F9UlcvHCCDUqy/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test33
-http://ok2.se:8000/6f74F7UIA4n5mmY1m/704cF9USprMtpZXIC/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test34
-http://ok2.se:8000/6a23F7Uel9tvtTJSw/ff3cF9U3UY90vW5o3/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test35
-http://ok2.se:8000/cc4bF7UtUROzvuDQH/3e38F9UeUnifNXKCS/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test36
-http://ok2.se:8000/4f68F7U4pjIVMAbXg/17c0F9Uzh7W7rqsP4/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test37
-http://ok2.se:8000/20c4F7UqbGLWfsVhZ/e9abF9UGsEpV98jiL/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test38
-http://ok2.se:8000/a9e1F7U5dcjZMSEXK/d1b2F9UV8XIQCLMI4/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test39
-http://ok2.se:8000/496aF7UGXIEvc7zsO/6c0aF9UBsGSaxTw1W/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test40
-http://ok2.se:8000/f05aF7UU46e03rscR/9be8F9UPBwxgIHCzT/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test41
-http://ok2.se:8000/519eF7UgIBWGqrw8l/4b7dF9U6zFvjsHxOX/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test42
-http://ok2.se:80/48d5F7Uh4o3Yte4Im/6e77F9U4kAOXlChUc/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test43
-http://ok2.se:80/4d95F7UMrE5FZxYA1/7e34F9UQlYx2SzO1p/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test44
-http://ok2.se:80/5fc7F7UO1iZOFihjV/e7e6F9USxEsFHW97p/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test45
-http://ok2.se:80/e1f9F7UlRDxrrJhBm/cc0bF9Udxihkl2zJI/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test46
-http://ok2.se:8000/3bcbF7Uvy1zMMSdv2/f654F9UhNyX2ry1uQ/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test47
-http://ok2.se:8000/a977F7UnvF6a1H7F1/fd29F9UjJOfkA1NcV/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test48
-http://ok2.se:8000/7b46F7UfCqxzWVixY/2736F9UWj5jkmR9tA/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test49
-http://ok2.se:8000/b3a5F7UMt134iUQoM/7691F9UtdsDFoGF2H/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test50
-http://ok2.se:8000/8fc7F7U1EW3nvgFSX/5ccbF9Uh8u4xjF0cB/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test51
-http://ok2.se:8000/2f1bF7UGK7ASRf8t3/87f1F9U1Vu5YDev2B/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test52
-http://ok2.se:8000/f823F7U5zA1VcimBD/d385F9UOAOBSaD53Y/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test53
-http://ok2.se:8000/76fdF7UyPKumsB55w/9852F9UUbdkwAzOha/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test54
-http://ok2.se:8000/27daF7UP3KTxpOtCS/3f7fF9UgmHqdIS36Z/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test55
-http://ok2.se:8000/25eeF7UcX0oVxVimm/5ef9F9UbydjbcewuH/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test56
-http://ok2.se:8000/f8adF7UVKLyA0OcdY/02f2F9U53EeyQYFC3/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test57
-http://ok2.se:8000/c1fbF7USmFr7dGVLp/3650F9UchzDwMZOIQ/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test58
-http://ok2.se:8000/3a07F7UUCIBR7m8Zr/7c90F9UkG9zsODhfe/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test59
-http://ok2.se:8000/2ff9F7UNThEeOWMov/2e5cF9Ujq5QOY9LK0/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test60
-http://ok2.se:80/2353F7UiwniVXbx5i/12f8F9U4ZghZRPpuj/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test61
-http://ok2.se:8000/089eF7UbOGjKhROKc/676cF9UnwreJOVAT0/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test62
-http://ok2.se:8000/203dF7U3tC8WPdHNB/ce96F9UzBnMeFCEE3/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test63
-http://ok2.se:8000/cd68F7Uri0obZEgo3/143eF9UQpQyzLx4dr/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test64
-http://ok2.se:8000/4504F7UTaYWx5hpuA/895bF9UTU9kgTXUjk/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test65
-http://ok2.se:8000/c9dcF7UmsqJcrzqHi/c64eF9UUBzx5oYnVm/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test66
-http://ok2.se:80/2079F7UNFIElFHmvc/677cF9U56HBNGYc1T/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test67
-http://ok2.se:80/1a1dF7UJyktRroCy4/ef30F9UlVojWC0I27/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test68
-http://ok2.se:8000/0974F7Um5l9lhsyeX/2fd0F9UdNbZbJJNA6/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test69
-http://ok2.se:8000/096fF7UQSs37yLaM8/4546F9U22ptDxdH2e/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test70
-http://ok2.se:8000/dc9bF7URh1K0FUzCx/5520F9ULOUT75XD9V/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test71
-http://ok2.se:8000/096dF7U6mhzYYMk6q/359aF9UGQ43WXV6UB/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test72
-http://ok2.se:8000/098bF7UWpqTkLvgnG/9bafF9UJhFzWeIVtA/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test73
-http://ok2.se:8000/6757F7U280rFfiqXL/834cF9UEPqpR0v7vc/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test74
-http://ok2.se:8000/2020F7UmtQ2j2zl9q/dad7F9UYaNmSYKeLf/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test75
-http://ok2.se:8000/fW6Q0SW5nI/ZJnPjpK3aw/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test76
-http://ok2.se:8000/416dF7UeH9SUTFqrs/4b0cF9UZxsE2Mc9bW/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test77
-http://ok2.se:8000/5149F7Uxgswyg0zPi/5536F9UkJ4korzVCl/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test78
-http://ok2.se:8000/jFZgJMdDdl/8GfsHjZKRu/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test79
-http://ok2.se:8000/8191F7UKyG9Ci5BQ8/1ceaF9UAc0WWLxZiF/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test80
-http://ok2.se:8000/8bc5F7UMbpGB9DUVK/02d5F9UWW7DVrD2IG/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test81
-http://ok2.se:8000/b922F7UHMk15Ce7Xj/20b3F9UES2H2Yy3KZ/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test82
-http://ok2.se:8000/5334F7Uvw5kvAfF7N/12bfF9U79cKNgfq5O/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test83
-http://ok2.se:8000/00gH8N5PfX/jz5H4DIVA4/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test84
-http://ok2.se:8000/73b0F7UDxRp1RKqme/c820F9UMJZaFEqidB/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test85
-http://ok2.se:8000/4749F7Uv0YbBqoUB5/bb48F9UCT1AXFRaS2/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test86
-http://ok2.se:8000/3976F7U1YtxeehC13/ce73F9UJRPWfxaVV9/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test87
-http://ok2.se:80/2632F7UrJWwhIfsLg/d758F9UJs0nUC35SB/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test88
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test89
-http://ok2.se:8000/a98dF7UXNBUrZ7FBy/ddb3F9UJI0Q830A8R/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test90
-http://ok2.se:8000/4ebaF7UbgV2aPWa6D/f42bF9UBtMmeSZvW8/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test91
-http://ok2.se:80/2ae5F7UsAVeUTn8ql/546fF9UwCnAy83pfP/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test92
-http://ok2.se:80/08bdF7UvVZyTLbAq4/1ea9F9UznmiTq1GnC/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test93
-http://ok2.se:80/eb47F7URHSguMcjvc/6736F9UVpMEXa1vih/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test94
-http://ok2.se:8000/d103F7Us4wt67DIJe/8c7bF9UEjTNj5qdvj/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test95
-http://ok2.se:8000/5772F7UZs08l46O7X/5b58F9URZBHXX6cGH/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test96
-http://ok2.se:80/2ae5F7UsAVeUTn8ql/546fF9UwCnAy83pfP/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test97
-http://ok2.se:8000/098bF7UWpqTkLvgnG/9bafF9UJhFzWeIVtA/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test98
-http://ok2.se:8000/4ebaF7UbgV2aPWa6Df42b/F9UBtMmeSZvW8/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test99
-http://ok2.se:8000/a467F7UWHppxgmMqp/7499F9Ud6MFasWv8L/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test100
-http://ok2.se:8000/5b1eF7UYLgTCBxfZp/42fbF9Uylnz5BLzOG/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test101
-http://ok2.se:8000//f3d9F7UN9R3ZNtcv4/57ecF9UrjMpZ1pMMQ/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test102
-http://ok2.se/c6b5F7UuFsFkJP3to/ebb0F9UR6Z3JVrUqd/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test103
-http://ok2.se:8000/dafeF7UWfAEBqReJM/1fafF9UnjOsHil5cq/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test104
-http://ok2.se:8000/7165F7UFZEUZyxLY3/8930F9UvJYvtHz5bM/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test105
-http://ok2.se:8000/ecf4F7UqrPmVrk64z/9e7fF9UlbXPuHigaH/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test106
-http://ok2.se:8000/dae1F7UKox0CjXHYR/683cF9UBN0ZM5AVm4/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test107
-http://ok2.se:8000/09fcF7UJuUB7wJNxn/a315F9Uf31PKurIPO/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test108
-http://ok2.se:8000//2352F7U5RbD4hvuke/9f4cF9Ujg1qRzK5lh/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test109
-http://ok2.se:8000//00f9F7UXgDGEbDbP9/0effF9UUeqfzZh5xB/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test110
-http://ok2.se:8000//8df8F7Udl5HGsNdJO/2003F9UP23cbCgVjS/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test111
-http://ok2.se:8000/f83dF7UsQU8PPMCg6/90a4F9Ufdtir21pMA/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test112
-http://ok2.se:8000/fe6cF7UZ2KGeV67LW/969fF9U7l0l1Il9aP/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test113
-http://ok2.se:8000/4c66F7Uw5t6IBDKkF/e939F9Uq6E0NiYvXd/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test114
-http://ok2.se:80/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test115
-http://ok2.se:80/da33F7U2EakIzDuV0/96f1F9UaxB2Qx7DqZ/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test116
-http://ok2.se:8000/3b9eF7UyzVUoiUdsr/e68eF9U84QWLnXjND/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test117
-http://ok2.se:8000/8a78F7UEIn6rjP1P2/e340F9UIucsRXNDfi/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test118
-http://ok2.se:8000/ab0eF7U4mLF0j0n3v/4500F9UpKh8fLAGLC/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test119
-http://ok2.se:8000/5085F7UaPnUY4vpBS/aeccF9UJLNSrmvBDs/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test120
-http://ok2.se:8000/cf6dF7UHE5U0ncJRy/9d4dF9UiESULdcdZT/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test121
-http://ok2.se:8000/1d8dF7UDjNaEepbrU/1176F9UCk4JsHLqfF/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test122
-http://ok2.se:8000/07a3F7ULCPUdeQkyq/b534F9UwbHAje5U8f/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test123
-http://ok2.se:8000/b323F7UpX2T7ux1QJ/b2b3F9UVFV5OnqlAW/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test124
-http://ok2.se:8000/a470F7UZcb4pFZapy/7f3fF9U572cNLgj3w/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test125----------
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test126
-http://ok2.se:8000/5cf2F7UVoNNQcgHMN/fadaF9UonW68uoWT1/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test127
-http://ok2.se:8000/854eF7UXU41J7pa5j/4f03F9UY6mRDicvxp/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test128
-http://ok2.se:8000/0652F7UXqrxyHONO4/dcddF9UF9gLdZQLTR/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test129
-http://ok2.se:8000/fccbF7UCWmxytzFr8/2467F9UxeKzCjSrbj/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test130
-http://ok2.se:8000/lh2c7cEEwI/17FA2Sehg4/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test131
-http://ok2.se:8000/94b9F7U6WJa9aix3t/aadbF9UPiGf6LpPq9/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test132
-http://ok2.se:8000/9c35F7UGtDF9lgwIi/cdf1F9UuMPDO69AbD/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test133
-http://ok2.se:8000/f514F7U2ibptHFlvh/fdf2F9U2rkfxn2t3g/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test134
-http://ok2.se:8000/0aabF7UhhKARJUrJ2/0c71F9Uvw12DoiRY5/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test135
-http://ok2.se:8000/4889F7U9nTOkJ0VJn/808aF9UjPSXerKPvX/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test136
-http://ok2.se:8000/b64cF7UGX5KQt8GtF/ecdeF9UwePnE9DouJ/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test137
-http://ok2.se:8000/fa32F7UBHT3GJ9ATH/eb2bF9UrjhkJaLbj8/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test138
-http://ok2.se:8000/7376F7UZLm5FJyGzh/74dbF9UGYQyZc5TZp/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test139
-http://ok2.se:8000/8b5fF7U0pqupYHApg/bf9fF9UfeDznk6vML/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test140
-http://ok2.se:8000/4222F7UIMMROwHzTx/2829F9UaJmZGzsI3u/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test141
-http://ok2.se:8000/9c11F7U1YdFoGQEWO/3590F9UePBZkdj6Ql/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test142
-http://ok2.se:8000/be53F7UE9pfxg32IY/1715F9U27LSvJleb6/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test143
-http://ok2.se:8000/a49dF7UlbZgp6AZtR/6481F9UKKyaOLDY8K/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test144
-http://ok2.se:8000/9b61F7UiDyBfMFCmd/ff22F9UXjWmCoeoOj/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test145
-http://ok2.se:8000/7376F7UZLm5FJyGzh/74dbF9UGYQyZc5TZp/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test146
-http://ok2.se:8000/ac04F7USqMzckGghI/5631F9UK0Ra2zAaeS/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test147
-http://ok2.se:8000/caa9F7UVTvO49ig8P/4b29F9UdW35rAVp69/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test148
-http://ok2.se:8000/bfafF7Um2AJ7eWczk/68afF9UhMbItzRR4g/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test149
-http://ok2.se:8000/25aaF7UMKziBuNiSA/6bafF9UxrmTxOPfTh/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test150
-http://ok2.se:8000/9a62F7UGEBz29CFPk/ab65F9UBYyXBtQ8yZ/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test151
-http://ok2.se:8000/169dF1UvGmkWBfxgZ/2130F1UA4wJSEyvEJ/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test152
-http://ok2.se:8000/12caF1U4GaJPDKPLV/0c15F1UV2rYqpUw4X/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test153
-http://ok2.se:8000/f264F7UzZZkD8zpuw/4461F9Urx3d61bgeU/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test154
-http://ok2.se:8000/e551F7Uq9uMGZn2qS/77adF9UPsmEpbiejC/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test155
-http://ok2.se:8000/8227F1UTdPDYazIVZ/78d6F1USFGLp8jDLL/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test156
-http://ok2.se:8000/f264F7UzZZkD8zpuw/4461F9Urx3d61bgeU/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test157
-http://ok2.se:8000/e551F7Uq9uMGZn2qS/77adF9UPsmEpbiejC/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test158
-http://ok2.se:8000/9671F7UPFfKyBnfQd/248dF9UpMC7aqxyip/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test159
-http://ok2.se:8000/4de7F1UDnIPqlw6wq/618bF1U2niqrzMNiP/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test160
-http://ok2.se:8000/e1d8F1UBd7Z9MdvJM/86e1F1Uv4egbszrTP/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test161
+
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test1-------------
 http://ok2.se:8000/1383F1UBzFHnTd2IC/bf78F1UO7yUzeCn31/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test162
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test2
 http://ok2.se:8000/4ae6F1UrLH8IYbXt3/b86eF1U3W8WtasCkY/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test163
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test3
 http://ok2.se:8000/0395F1U0FJQzbK1L8/4d0aF1U37z8OLw1TQ/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test164
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test4
 http://ok2.se:8000/6b4aF1UirgFoAJYnY/08ffF1UijwVgztEV9/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test165
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test5
 http://ok2.se:8000/00ffF1UKCXHTHP2hl/f9e9F1UgPnOGi90xz/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test166
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test6
 http://ok2.se:8000/gc72aF1Um9prktw2jX/75caF1UbMfGv4Nqjc/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test167
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test7
 http://ok2.se:8000/75bfF1UbqhSfg3nSa/af6bF1UohaK8VIjVo/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test168
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test8-------------
 http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test169
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test9
 http://ok2.se:8000/1c35F1UNHvP6ObBws/bf22F1U8uvWt2J7zv/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test10
+http://ok2.se:80/12caF1U4GaJPDKPLV/0c15F1UV2rYqpUw4X/364
+
+
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test1-------------------
+http://ok3.se:8000/22cdF1Ue0okAtriC6/347aF1UIoxnQsbuV4/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test2
+http://ok3.se:8000/a882F1Um2DM1f2u5p/edb9F1UpmXaT6dcRJ/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test3
+http://ok3.se:8000/b47bF1Un6gni40T0S/8416F1U3XcDfr0AXc/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test4
+http://ok3.se:8000/24a7F1UBfpWhsGgK1/becaF1UI3qZkz4cZY/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test5
+http://ok3.se:8000/4d9bF1UZwirURbABy/15efF1UnkMGF9IUCH/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test6
+http://ok3.se:8000/e329F1Ua3gqJ5FbW8/1932F1UIHyQE3qt9J/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test7
+http://ok3.se:8000/ed2bF1UuobXqHpuB8/61b8F1UVXQ48UMTc4/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test8
+http://ok3.se:8000/5cf0F1UMDVm5SBet4/9748F1UCEyea4Iej0/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test9
+http://ok3.se:8000/f0e9F1UlV4aulyZPV/04deF1UkUghCNP1kN/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test10
+http://ok3.se:8000/a34cF1Un4B70mdv35/7e69F1USDp5vL5nii/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test11
+http://ok3.se:8000/f62bF1Uunuq3MZlqk/224eF1UGahEliLgPS/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test12
+http://ok3.se:8000/b5d2F1U9BhKT5ez09/8767F1UmPv3NthTVk/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test13
+http://ok3.se:8000/fc89F1UksJzmbxrpK/1535F1UjuSeyWnlTX/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test14
+http://ok3.se:8000/55b3F1UxpRmAVGrsa/15abF1U49SOfeikhu/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test15
+http://ok3.se:8000/f255F1UKQ4v3yICGA/04b3F1UFo2iw7AL9n/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test16
+http://ok3.se:8000/9ee6F1URflOKbN3qv/a667F1ULI6u38sjNu/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test17
+http://ok3.se:8000/e8caF1UKdPnB67uNb/b587F1Up8OOSLHzCn/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test18
+http://ok3.se:8000/e0b8F1UKUSEc8K2lQ/3572F1UICRCuW14gy/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test19
+http://ok3.se:8000/0b19F1UC29kMofJxm/4f07F1U2vKSgsIwxp/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test20
+http://ok3.se:8000/9208F1UYb29bloJIH/ff81F1UkHGm11n8GG/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test21
+http://ok3.se:8000/01e4F1UbteiJqzFTU/0aabF1UdcL2j51bbq/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test22
+http://ok3.se:8000/4246F1UXR7gvOoYNA/2151F1UkWxGz04xX8/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test23
+http://ok3.se:8000/6df9F1UVuR5MXO6EC/6e47F1U76Qk1v7QR0/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test24
+http://ok3.se:8000/1383F1UBzFHnTd2IC/bf78F1UO7yUzeCn31/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test25
+http://ok3.se:8000/4ae6F1UrLH8IYbXt3/b86eF1U3W8WtasCkY/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test26
+http://ok3.se:8000/0395F1U0FJQzbK1L8/4d0aF1U37z8OLw1TQ/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test27
+http://ok3.se:8000/6b4aF1UirgFoAJYnY/08ffF1UijwVgztEV9/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test28
+http://ok3.se:8000/00ffF1UKCXHTHP2hl/f9e9F1UgPnOGi90xz/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test29
+http://ok3.se:8000/c72aF1Um9prktw2jX/75caF1UbMfGv4Nqjc/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test30
+http://ok3.se:8000/75bfF1UbqhSfg3nSa/af6bF1UohaK8VIjVo/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test31
+http://ok3.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test32
+http://ok3.se:8000/1c35F1UNHvP6ObBws/bf22F1U8uvWt2J7zv/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test33
+http://ok3.se:8000/b351F1UCKmI73LFJN/a59bF1UVx7mQmsUqh/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test34
+http://ok3.se:8000/efe7F1U270AOjef6r/1ad7F1UWEJlFj1KL0/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test35
+http://ok3.se:8000/e5b6F1ULkUL7WdlIv/56a4F1UfvrqNdjvR5/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test36
+http://ok3.se:8000/fcf0F1Uu38oVY03YT/571bF1UgWyladF4gJ/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test37
+http://ok3.se:8000/3d07F1U2CcKpwMros/5214F1U3CB8qYrZTO/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test38
+http://ok3.se:8000/54e0F1UxQn5Y2SFgQ/c612F1UI1FCPPSVSh/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test39
+http://ok3.se:8000/72d6F1U7aXON0u7AC/1844F1UMIkI8yE1EU/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test40
+http://ok3.se:8000/727fF1UgFm8iUJZsX/58d4F1U5jq6ZCXl6m/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test41
+http://ok3.se:8000/6f1fF1UHmr5ItrBk5/b78bF1U7UnJvLgdi5/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test42
+http://ok3.se:8000/f6edF1Ut5dYLqO1jc/fa80F1UFCIRrL4iQG/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test43
+http://ok3.se:8000/7c3eF1UWD5vARqwIc/9169F1U5QsymdltbE/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test44
+http://ok3.se:8000/7e07F1UEw30mxd2YP/9863F1Uu2GExcQPw2/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test45
+http://ok3.se:8000/1965F1UeiFH2M0VDC/4dedF1U0MfRlDYgdL/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test46
+http://ok3.se:8000/2ba1F1UzSNTul5Cuo/5a07F1UvzKu3VmvwN/364
+
+
+
+
+
 
 
 
@@ -3308,23 +3090,62 @@ http://176.67.198.12:4068/udp/239.1.1.141:22141
 http://176.67.198.12:4063/udp/239.1.1.141:22141
 
 
-#EXTINF:-1,YU150:Da Vinci Learning--------------v5iptv
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/49176
+
+
+
+#EXTINF:-1,RO: DAVINCI LEARNING---iptvesun
+http://stream.iptvesun.com:25461/OqcLXgwLtVzAvMm/rIfKEhLRc5yVBmq/57109
+#EXTINF:-1,RO: DAVINCI LEARNING
+http://stream.iptvesun.com:25461/plFrrBvsEsyJtMR/BPRX2FuIujUvpK2/57109
+#EXTINF:-1,RO: DAVINCI LEARNING
+http://stream.iptvesun.com:25461/mIMCAa1wjQkiorI/qIPSnFbjdEnsZCP/57109
+#EXTINF:-1,PL: DA VINCI
+http://stream.iptvesun.com:25461/L7fhtYoHe4YX8HV/U8XZkKXPYRsQZXB/56816
+#EXTINF:-1,PL: BBC EARTH HD
+http://stream.iptvesun.com:25461/OqcLXgwLtVzAvMm/rIfKEhLRc5yVBmq/56878
 
 
 
 
 
-
-#EXTINF:-1,Da Vinci----------temp-------arab
-http://185.180.12.90:8080/DAVINCI/index.m3u8?token=test
-#EXTINF:-1 ,DISCOVERYSCIENCE
-http://185.180.12.90:8080/DISCOVERYSCIENCE/index.m3u8?token=test
-#EXTINF:-1 ,FINELIVING
-http://185.180.12.90:8080/FINELIVING/index.m3u8?token=test
-#EXTINF:-1 ,HISTORY
-http://185.180.12.90:8080/HISTORY/index.m3u8?token=test
-
+#EXTINF:-1,GR: DISCOVERY SCIENCE-------------mitvpro
+http://mitvpro.net:25461/CY3uOB0mfZjaPwU/nHROQL0aH9Pxta1/55926
+#EXTINF:-1,GR: BBC EARTH HD
+http://mitvpro.net:25461/CY3uOB0mfZjaPwU/nHROQL0aH9Pxta1/55944
+#EXTINF:-1,GR: FOOD NETWORK UHD
+http://mitvpro.net:25461/CY3uOB0mfZjaPwU/nHROQL0aH9Pxta1/55957
+#EXTINF:-1,GR: FINE LIVING UHD
+http://mitvpro.net:25461/CY3uOB0mfZjaPwU/nHROQL0aH9Pxta1/55937
+#EXTINF:-1,GR: OUTDOOR CHANNEL UHD
+http://mitvpro.net:25461/CY3uOB0mfZjaPwU/nHROQL0aH9Pxta1/55932
+#EXTINF:-1,AR: 4K – MOVIES 1 HD
+http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/59077
+#EXTINF:-1,AR: 4K – MOVIES 2 HD
+http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/59078
+#EXTINF:-1,AR: 4K – MOVIES 3 HD
+http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/59079
+#EXTINF:-1,AR: 4K – MOVIES 4 HD
+http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/59080
+#EXTINF:-1,AR: bbc earth HD
+http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/65396
+#EXTINF:-1,AR: FoodNetwork HD
+http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/65397
+#EXTINF:-1,AR: NAT GEO
+http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/59097
+#EXTINF:-1,AR: NAT PEOPLE
+http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/59098
+#EXTINF:-1,OSN: DISCOVERY SC HD
+http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/53674
+#EXTINF:-1,OSN: NAT GEO HD
+http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/53675
+#EXTINF:-1,OSN: NAT PEOPLE HD
+http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/53677
+#EXTINF:-1,OSN: Discovery Science
+http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/44299
+#EXTINF:-1,MYHD: Discovery SC HD
+http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/25506
+#EXTINF:-1,MYHD: DOCU BOX HD
+http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/25496
 
 
 
@@ -3648,8 +3469,7 @@ http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-------v2iptv
 http://mu02.v2iptv.com:8880/BL12MA000891853977/92454145/33094
 
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV------ts------test
-http://mbm.watch:8085/live/EMmRP4aKPc/GP9ddzb7Lss/115169.ts
+
 
 
 
@@ -3733,6 +3553,8 @@ https://live.cgtn.com/1000/prog_index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/mBTe5bW.png",NHK WORLD HD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan_CN
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera
@@ -3745,13 +3567,17 @@ http://164.40.161.46:8002/play/s4
 http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",Euronews (FR)
 https://fluxustv.blogspot.com@bit.ly/EuronewsTV?.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="News",BBC World News
 http://88.119.220.2/live/eds/BBC/HLS_encr/BBC.m3u8
+
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_youtube
+https://www.youtube.com/embed/9Auq9mYxFEE?autoplay=1&rel=0
+
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
@@ -3791,14 +3617,17 @@ https://1161275585.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/FluxusTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="24/7 WORLD NEWS",CNBC Europe (GB) (New!)
 http://45.92.69.76:8000/play/a05h
+#EXTINF:-1,USA: CNBC---mitvpro
+http://mitvpro.net:25461/OqcLXgwLtVzAvMm/rIfKEhLRc5yVBmq/58744
 
 
 
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2.se_vHad
+http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3.se_buV4
+http://ok3.se:8000/22cdF1Ue0okAtriC6/347aF1UIoxnQsbuV4/364
 
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2.se_ToIe
-http://ok2.se:8000/5339F7USdHUXcBsZi/fe06F9UTmQI0JToIe/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2.se_PnRZ
-http://ok2.se:8000/5e38F7Unxg5Oba86I/3ceeF9Ub0oVIWPnRZ/364
+
 
 
 
