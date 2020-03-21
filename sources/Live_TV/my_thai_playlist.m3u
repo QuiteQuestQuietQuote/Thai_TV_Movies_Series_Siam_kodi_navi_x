@@ -98,12 +98,19 @@ https://amarin-ks7jcc.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://1.bp.blogspot.com/-EXQx5Dd5E9U/WdLYuI86vUI/AAAAAAAAAGw/CBg2Q3TQJFIzZM9V5xf8TdVQJgh5UEksgCLcBGAs/s200/017.png",1MONO 29_mono1080
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1151192974.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="http://www.thaiptv.com/img/monopluslogo.png",MONO Plus+
+https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist.m3u8
+
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25
 http://gmmservice.radical-enlighten.com/gmm/smil:gmm25.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.wezatv.com/images/ch7.png",BBTV CH 7_bugaboo
 https://bbtvalive-a.bugaboo.tv/liveedgech7/_definst_/smil:auto.smil/chunklist_b2200000_sleng.m3u8
 #EXTINF:-1, tvg-logo="http://www.wezatv.com/images/ch7.png",BBTV CH 7_akamaihd
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
+
+
+
+
 
 
 
@@ -2697,6 +2704,7 @@ http://mu02.v2iptv.com:8880/HJLM1399/gOQedvLAFg/33154
 http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/33154
 
 
+
 #EXTINF:-1,33154_v5iptv_ON
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33154
 
@@ -2972,6 +2980,29 @@ http://ok2.se:8000/8d85F1UeCXkBq1vre/7f8eF1UZNrAHIvHad/364
 http://ok2.se:8000/1c35F1UNHvP6ObBws/bf22F1U8uvWt2J7zv/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test10
 http://ok2.se:80/12caF1U4GaJPDKPLV/0c15F1UV2rYqpUw4X/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test11
+http://ok2.se:8000/ac53F1UY1LjEaiyFL/64e5F1UNgCkRQLxjZ/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test12
+http://ok2.se:8000/629fF1UTvgNqUfM0t/55b7F1UgA94kqQoPM/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test13
+http://ok2.se:8000/7fa6F1U3z8Nofj7Aq/4c3dF1UJWJ0OjMsvy/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test14
+http://ok2.se:80/961cF1UxnGVSXNB3d/6f76F1Uto8MsY782n/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test15
+http://ok2.se:80/b1eaF1Usn7cgyEw5c/d999F1U6EAx8gtA1R/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test16
+http://ok2.se:80/b99fF1Ud4DIogUYwj/3d36F1UzY4KlS0WjT/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test17
+http://ok2.se:80/c64aF1Utmt4wRxSSi/bbeeF1UyGNFOeS72T/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test18
+http://ok2.se:80/4efeF1URJecCCtDGw/214bF1UUJ51OPfSpb/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test19
+http://ok2.se:80/1438F1UjNLx0w3VMX/5089F1UQhijJafC64/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test20
+http://ok2.se:80/a7e6F1UBP0t8VKcgx/3b67F1UrVvjZFG04G/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test21
+http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/364
+
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test1
@@ -3098,50 +3129,18 @@ http://176.67.198.12:4063/udp/239.1.1.141:22141
 http://stream.iptvesun.com:25461/plFrrBvsEsyJtMR/BPRX2FuIujUvpK2/57109
 #EXTINF:-1,RO: DAVINCI LEARNING
 http://stream.iptvesun.com:25461/mIMCAa1wjQkiorI/qIPSnFbjdEnsZCP/57109
+#EXTINF:-1,RO: DAVINCI LEARNING
+http://stream.iptvesun.com:88/S1uZeZNxdnMtvUX/qdqdmYZomcXjjtK/57109
+#EXTINF:-1,RO: DAVINCI LEARNING
+http://stream.iptvesun.com:88/qrkwZbdRvzFBqSa/tMnEN6JMtTbqnic/57109
 
 
 
+#EXTINF:-1,Da Vinci----BG----test
+http://212.43.44.198:9981/stream/channelid/1989179709
+#EXTINF:-1,RO: DAVINCI LEARNING
+http://91.208.115.170:25461/JuMyxmzcIZik8Md/7zdkvYzcCfkisaq/57109
 
-
-
-#EXTINF:-1,GR: DISCOVERY SCIENCE-------------mitvpro
-http://mitvpro.net:25461/CY3uOB0mfZjaPwU/nHROQL0aH9Pxta1/55926
-#EXTINF:-1,GR: BBC EARTH HD
-http://mitvpro.net:25461/CY3uOB0mfZjaPwU/nHROQL0aH9Pxta1/55944
-#EXTINF:-1,GR: FOOD NETWORK UHD
-http://mitvpro.net:25461/CY3uOB0mfZjaPwU/nHROQL0aH9Pxta1/55957
-#EXTINF:-1,GR: FINE LIVING UHD
-http://mitvpro.net:25461/CY3uOB0mfZjaPwU/nHROQL0aH9Pxta1/55937
-#EXTINF:-1,GR: OUTDOOR CHANNEL UHD
-http://mitvpro.net:25461/CY3uOB0mfZjaPwU/nHROQL0aH9Pxta1/55932
-#EXTINF:-1,AR: 4K – MOVIES 1 HD
-http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/59077
-#EXTINF:-1,AR: 4K – MOVIES 2 HD
-http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/59078
-#EXTINF:-1,AR: 4K – MOVIES 3 HD
-http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/59079
-#EXTINF:-1,AR: 4K – MOVIES 4 HD
-http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/59080
-#EXTINF:-1,AR: bbc earth HD
-http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/65396
-#EXTINF:-1,AR: FoodNetwork HD
-http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/65397
-#EXTINF:-1,AR: NAT GEO
-http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/59097
-#EXTINF:-1,AR: NAT PEOPLE
-http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/59098
-#EXTINF:-1,OSN: DISCOVERY SC HD
-http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/53674
-#EXTINF:-1,OSN: NAT GEO HD
-http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/53675
-#EXTINF:-1,OSN: NAT PEOPLE HD
-http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/53677
-#EXTINF:-1,OSN: Discovery Science
-http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/44299
-#EXTINF:-1,MYHD: Discovery SC HD
-http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/25506
-#EXTINF:-1,MYHD: DOCU BOX HD
-http://mitvpro.net:25461/Srp1KKgCaptQ8KP/KpVasyakgUGNO8u/25496
 
 
 
@@ -3435,6 +3434,11 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_bbc_earth_720/index.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth---BGD
 http://103.118.76.229:1935/tvprogram/BBC-EARTH/playlist.m3u8
+
+#EXTINF:-1,HINDI: SONY BBC EARTH HD------------test
+http://91.208.115.170:25461/82008438266175/ZCaBxlIWd0/53858
+
+
 
 
 
