@@ -1788,7 +1788,7 @@ http://42.112.97.70:8888/udp/225.1.2.98:30120
 #EXTINF:-1,KLT
 http://61.58.60.230:9319/live/205.m3u8
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/77332
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/77332
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_rtmp
 rtmp://118.97.96.17:1935/discover/afc_3
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
@@ -1808,47 +1808,47 @@ http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
 
 #EXTINF:-1,DAVINCILEARNING (RO)_ok2--------------------------
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/77332
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/77332
 #EXTINF:-1,DISCOVERY (RO)
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/77339
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/77339
 #EXTINF:-1,DISCOVERY SCIENCE (RO)
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/77338
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/77338
 #EXTINF:-1, HISTORY
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/1758
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/1758
 #EXTINF:-1, H2
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/1754
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/1754
 #EXTINF:-1, DISCOVERY SCIENCE
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/1766
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/1766
 #EXTINF:-1, DISCOVERY HISTORY
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/1765
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/1765
 #EXTINF:-1, DISCOVERY
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/1764
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/1764
 #EXTINF:-1,NAT GEO HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/330
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/330
 #EXTINF:-1,DIY HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/329
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/329
 #EXTINF:-1,FYI HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/42684
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/42684
 #EXTINF:-1,COOKING CHANNEL HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6108
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6108
 #EXTINF:-1,FOOD HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/333
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/333
 #EXTINF:-1,HGTV HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/335
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/335
 #EXTINF:-1,FOOD HD (USA)
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/80508
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/80508
 #EXTINF:-1,TASTEMADE
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/80391
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/80391
 #EXTINF:-1,EPIC MEAL TIME 24X7
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6129
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6129
 #EXTINF:-1, NAT GEO
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/1755
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/1755
 #EXTINF:-1, FOOD NETWORK
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/1788
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/1788
 #EXTINF:-1,FOOD (GR) – NEW
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/66066
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/66066
 #EXTINF:-1,OUTDOOR CHANNEL
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/9049
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/9049
 
 
 
@@ -2044,33 +2044,33 @@ https://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,DISNEY HD EAST--------------------------ok2.se:80
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/392
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/392
 #EXTINF:-1,ABC SPARK HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/4063
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/4063
 #EXTINF:-1,TREEHOUSE HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/393
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/393
 #EXTINF:-1,NICKELODEON HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/394
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/394
 #EXTINF:-1,CARTOON NETWORK HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/395
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/395
 #EXTINF:-1,FAMILY HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/396
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/396
 #EXTINF:-1,DISNEY XD HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/397
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/397
 #EXTINF:-1,DISNEY ALL DAY 24X7
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/7804
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/7804
 #EXTINF:-1,TELETOON HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/2422
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/2422
 #EXTINF:-1, DISNEY CHANNEL
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/1745
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/1745
 #EXTINF:-1, DISNEY JR
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/1746
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/1746
 #EXTINF:-1, DISNEY XD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/1747
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/1747
 #EXTINF:-1, CARTOON NETWORK
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/1773
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/1773
 #EXTINF:-1, NICKTOONS
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/1729
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/1729
 
 
 
@@ -2115,51 +2115,51 @@ http://212.111.17.130:8001/1:0:1:307:C94:3:EB0000:0:0:0:
 
 
 #EXTINF:-1,HBO EAST HD – NEW--------------------------ok2.se:80
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/371
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/371
 #EXTINF:-1,HBO 1 HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/26321
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/26321
 #EXTINF:-1,HBO 2 HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/26322
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/26322
 #EXTINF:-1,HBO SIGNATURE HD – NEW
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/372
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/372
 #EXTINF:-1,HBO ZONE HD – NEW
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/4828
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/4828
 #EXTINF:-1,5STAR MAX HD – NEW
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/382
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/382
 #EXTINF:-1,MOVIE MAX HD – NEW
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/384
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/384
 #EXTINF:-1,CINEMAX EAST HD – NEW
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/380
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/380
 #EXTINF:-1,SHOWTIME EAST HD (NEW)
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/11361
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/11361
 #EXTINF:-1,SHOWTIME BEYOND HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/11363
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/11363
 #EXTINF:-1,SHOWTIME WOMEN HD (NEW)
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/11359
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/11359
 #EXTINF:-1,SHOWTIME EXTREME HD (NEW)
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/11358
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/11358
 #EXTINF:-1,STARZ HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/374
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/374
 #EXTINF:-1,STARZ EDGE HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/377
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/377
 #EXTINF:-1,STARZ BLACK HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/378
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/378
 #EXTINF:-1,FLIX – NEW
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/59056
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/59056
 #EXTINF:-1, MOVIES PREMIERE
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/1733
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/1733
 #EXTINF:-1, MOVIES DISNEY
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/1743
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/1743
 #EXTINF:-1,SUNDANCE HD – NEW
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/10039
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/10039
 #EXTINF:-1,MOVIE TIME HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/369
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/369
 #EXTINF:-1,TRUE MOVIES
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/1786
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/1786
 #EXTINF:-1,PPV MOVIES
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/8784
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/8784
 #EXTINF:-1,SCIENCE FICTION NEW
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/8887
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/8887
 
 
 
@@ -2344,67 +2344,67 @@ http://live.redtraffic.xyz/cohf.m3u8
 
 
 #EXTINF:-1,PLAYBOY TV (NA)-----------------------------ok2.se:80
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/300
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/300
 #EXTINF:-1,HUSTLER HD
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/302
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/302
 #EXTINF:-1,NAUGHTY AMERICA
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/10657
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/10657
 #EXTINF:-1,BRAZZERS
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/10656
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/10656
 #EXTINF:-1,BRAZZERS LIVE
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/10660
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/10660
 #EXTINF:-1,TEN – NEW
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/9165
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/9165
 #EXTINF:-1,XTSY – (NEW)
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/9164
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/9164
 #EXTINF:-1,TINY4K
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/8889
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/8889
 #EXTINF:-1,EVIL ANGEL 1
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/10659
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/10659
 #EXTINF:-1,BANG BROS
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/8783
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/8783
 #EXTINF:-1,JAP AV 1
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/72393
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/72393
 #EXTINF:-1,JAP AV 2
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/72394
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/72394
 #EXTINF:-1,JAP AV 3
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/72395
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/72395
 #EXTINF:-1,WANZ
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6611
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6611
 #EXTINF:-1,IPZ
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6610
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6610
 #EXTINF:-1,JAV 1 UNCENSORED
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6612
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6612
 #EXTINF:-1,JAV 2 UNCENSORED
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6613
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6613
 #EXTINF:-1,JAV 3 UNCENSORED
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6614
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6614
 #EXTINF:-1,TOKYO HOT
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6572
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6572
 #EXTINF:-1,X ART
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/10658
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/10658
 #EXTINF:-1,TUSHY
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6615
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6615
 #EXTINF:-1,LEGAL PORNO
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6573
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6573
 #EXTINF:-1,PENTHOUSE
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/71118
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/71118
 #EXTINF:-1,1 HD XXX
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6697
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6697
 #EXTINF:-1,2 HD XXX
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6696
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6696
 #EXTINF:-1,3 HD XXX
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6695
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6695
 #EXTINF:-1,4 HD XXX
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6694
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6694
 #EXTINF:-1,6 HD XXX
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6692
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6692
 #EXTINF:-1,5 HD XXX
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6693
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6693
 #EXTINF:-1,7 HD XXX
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6687
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6687
 #EXTINF:-1,8 HD XXX
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/6686
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/6686
 
 
 
@@ -2649,29 +2649,29 @@ http://125.227.210.37:9005/VideoInput/play.ts
 
 
 #EXTINF:-1,Ibiza_ok2--------------------------
-http://ok3.se:8000/1965F1UeiFH2M0VDC/4dedF1U0MfRlDYgdL/72394
+http://ok3.se:8000/6b4aF1UirgFoAJYnY/08ffF1UijwVgztEV9/72394
 #EXTINF:-1,JAV---test07
-http://ok3.se:8000/1965F1UeiFH2M0VDC/4dedF1U0MfRlDYgdL/6607
+http://ok3.se:8000/6b4aF1UirgFoAJYnY/08ffF1UijwVgztEV9/6607
 #EXTINF:-1,JAV---test08
-http://ok3.se:8000/1965F1UeiFH2M0VDC/4dedF1U0MfRlDYgdL/6608
+http://ok3.se:8000/6b4aF1UirgFoAJYnY/08ffF1UijwVgztEV9/6608
 #EXTINF:-1,JAV---test09
-http://ok3.se:8000/1965F1UeiFH2M0VDC/4dedF1U0MfRlDYgdL/6609
+http://ok3.se:8000/6b4aF1UirgFoAJYnY/08ffF1UijwVgztEV9/6609
 #EXTINF:-1,WANZ
-http://ok3.se:8000/1965F1UeiFH2M0VDC/4dedF1U0MfRlDYgdL/6611
+http://ok3.se:8000/6b4aF1UirgFoAJYnY/08ffF1UijwVgztEV9/6611
 #EXTINF:-1,IPZ
-http://ok3.se:8000/1965F1UeiFH2M0VDC/4dedF1U0MfRlDYgdL/6610
+http://ok3.se:8000/6b4aF1UirgFoAJYnY/08ffF1UijwVgztEV9/6610
 #EXTINF:-1,JAV 1 UNCENSORED
-http://ok3.se:8000/1965F1UeiFH2M0VDC/4dedF1U0MfRlDYgdL/6612
+http://ok3.se:8000/6b4aF1UirgFoAJYnY/08ffF1UijwVgztEV9/6612
 #EXTINF:-1,JAV 2 UNCENSORED
-http://ok3.se:8000/1965F1UeiFH2M0VDC/4dedF1U0MfRlDYgdL/6613
+http://ok3.se:8000/6b4aF1UirgFoAJYnY/08ffF1UijwVgztEV9/6613
 #EXTINF:-1,JAV 3 UNCENSORED
-http://ok3.se:8000/1965F1UeiFH2M0VDC/4dedF1U0MfRlDYgdL/6614
+http://ok3.se:8000/6b4aF1UirgFoAJYnY/08ffF1UijwVgztEV9/6614
 #EXTINF:-1,TOKYO HOT
-http://ok3.se:8000/1965F1UeiFH2M0VDC/4dedF1U0MfRlDYgdL/6572
+http://ok3.se:8000/6b4aF1UirgFoAJYnY/08ffF1UijwVgztEV9/6572
 #EXTINF:-1,X ART
-http://ok3.se:8000/1965F1UeiFH2M0VDC/4dedF1U0MfRlDYgdL/10658
+http://ok3.se:8000/6b4aF1UirgFoAJYnY/08ffF1UijwVgztEV9/10658
 #EXTINF:-1,TUSHY
-http://ok3.se:8000/1965F1UeiFH2M0VDC/4dedF1U0MfRlDYgdL/6615
+http://ok3.se:8000/6b4aF1UirgFoAJYnY/08ffF1UijwVgztEV9/6615
 
 
 
@@ -2917,7 +2917,7 @@ http://ok2.se:80/4efeF1URJecCCtDGw/214bF1UUJ51OPfSpb/364
 http://ok2.se:80/1438F1UjNLx0w3VMX/5089F1UQhijJafC64/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test20
 http://ok2.se:80/a7e6F1UBP0t8VKcgx/3b67F1UrVvjZFG04G/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test21----------------
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test21
 http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test22
 http://ok2.se:80/12caF1U4GaJPDKPLV/0c15F1UV2rYqpUw4X/364
@@ -2953,7 +2953,7 @@ http://ok2.se:80/90daF1Un1otdY5aDA/9e34F1UrCrKCljv2Y/364
 http://ok2.se:80/ebc3F1UdDehNyfoLH/fa19F1UoLyLxnXlxp/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test38
 http://ok2.se:80/174dF1U3K4BBpqwIU/e6faF1UzVQsgnOvOB/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test39
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test39----------------
 http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test40
 http://ok2.se:80/8c4dF1UHIJdZL0Nbp722cF1UYjLkgQuaP8/364
@@ -3014,7 +3014,7 @@ http://ok3.se:8000/1383F1UBzFHnTd2IC/bf78F1UO7yUzeCn31/364
 http://ok3.se:8000/4ae6F1UrLH8IYbXt3/b86eF1U3W8WtasCkY/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test26
 http://ok3.se:8000/0395F1U0FJQzbK1L8/4d0aF1U37z8OLw1TQ/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test27
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test27--------------
 http://ok3.se:8000/6b4aF1UirgFoAJYnY/08ffF1UijwVgztEV9/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test28
 http://ok3.se:8000/00ffF1UKCXHTHP2hl/f9e9F1UgPnOGi90xz/364
@@ -3050,7 +3050,7 @@ http://ok3.se:8000/f6edF1Ut5dYLqO1jc/fa80F1UFCIRrL4iQG/364
 http://ok3.se:8000/7c3eF1UWD5vARqwIc/9169F1U5QsymdltbE/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test44
 http://ok3.se:8000/7e07F1UEw30mxd2YP/9863F1Uu2GExcQPw2/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test45--------------
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test45
 http://ok3.se:8000/1965F1UeiFH2M0VDC/4dedF1U0MfRlDYgdL/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test46
 http://ok3.se:8000/2ba1F1UzSNTul5Cuo/5a07F1UvzKu3VmvwN/364
@@ -3638,9 +3638,9 @@ http://mitvpro.net:25461/OqcLXgwLtVzAvMm/rIfKEhLRc5yVBmq/58744
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2.se_vHad
-http://ok2.se:80/944bF1UVvQY8QfFdc/c8c3F1UcWACuxlrCq/364
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3.se_buV4
-http://ok3.se:8000/1965F1UeiFH2M0VDC/4dedF1U0MfRlDYgdL/364
+http://ok3.se:8000/6b4aF1UirgFoAJYnY/08ffF1UijwVgztEV9/364
 
 
 
