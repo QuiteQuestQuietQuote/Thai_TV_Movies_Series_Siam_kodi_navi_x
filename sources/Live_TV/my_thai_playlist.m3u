@@ -2780,7 +2780,7 @@ http://204.45.182.172:26789/i/ghjnvq5o/tj5knp44/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------test
-http://192.200.120.82:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
+http://104.250.154.42:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
 #EXTINF:-1,JAV_rtmp
 rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 
@@ -2939,10 +2939,26 @@ http://ok2.se:80/999dF1Uja7CtPFwOM/b390F1UXYcZu5e8fG/364
 http://ok2.se:80/478fF1Uo9QLCmopwD/d34dF1UZzDfTzfHFa/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test31
 http://ok2.se:80/b711F1UR6EgWdgTfF/6ae1F1UyikunTDmzs/364
-
-
-
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test32
+http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test33
+http://ok2.se:80/01e2F1USPSYZG9fhP/7ccaF1U2WuGQWOyXR/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test34
+http://ok2.se:80/90daF1Un1otdY5aDA/9e34F1UrCrKCljv2Y/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test35
+http://ok2.se:80/5452F1UMRnXJfHkqX/ac62F1UxA11r15DiW/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test36
+http://ok2.se:80/90daF1Un1otdY5aDA/9e34F1UrCrKCljv2Y/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test37
+http://ok2.se:80/ebc3F1UdDehNyfoLH/fa19F1UoLyLxnXlxp/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test38
+http://ok2.se:80/174dF1U3K4BBpqwIU/e6faF1UzVQsgnOvOB/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test39
+http://ok2.se:80/d3cbF1Ul6dgfo4pz1/c7e1F1Ujc5LbGz4Ya/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test40
+http://ok2.se:80/8c4dF1UHIJdZL0Nbp722cF1UYjLkgQuaP8/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test41
+http://ok2.se:80/04e9F1U6QCv5OJ6Pd7aafF1Uwrti5LxLvG/364
 
 
 
@@ -3079,31 +3095,34 @@ http://stream.iptvesun.com:25461/qkxvIM4QuSrFL8i/fhcT0rRHQk5XHDT/57109
 
 
 #EXTINF:-1,Da Vinci----BG----test
+http://87.126.179.238:9981/stream/channelid/1989179709
+
+#EXTINF:-1,Da Vinci----BG----on
 http://212.43.44.198:9981/stream/channelid/1989179709
-#EXTINF:-1,RO: DAVINCI LEARNING----------test
+#EXTINF:-1,RO: DAVINCI LEARNING----------test25461
 http://91.208.115.170:25461/JuMyxmzcIZik8Md/7zdkvYzcCfkisaq/57109
 #EXTINF:-1,RO: DAVINCI LEARNING
 http://91.208.115.170:25461/MAG6482403210/Ql2QRbPAFa/57109
-
-#EXTINF:-1,RO: DAVINCI LEARNING----------test
+#EXTINF:-1,RO: DAVINCI LEARNING
 http://91.208.115.170:25461/020650334382/TQ2DG3ckRY/57109
-#EXTINF:-1,PL: DA VINCI
-http://91.208.115.170:25461/020650334382/TQ2DG3ckRY/56816
-#EXTINF:-1,PL: DISCOVERY SCIENCE HD
-http://91.208.115.170:25461/020650334382/TQ2DG3ckRY/56872
-#EXTINF:-1,PL: BBC EARTH HD
-http://91.208.115.170:25461/020650334382/TQ2DG3ckRY/56878
-#EXTINF:-1,SLOVENIA: BBC EARTH HD
-http://91.208.115.170:25461/020650334382/TQ2DG3ckRY/54831
-
-#EXTINF:-1,RO: DAVINCI LEARNING----------test
+#EXTINF:-1,RO: DAVINCI LEARNING
+http://91.208.115.170:25461/S7oMvZMzGA/8z2tQw2wsb/57109
+#EXTINF:-1,RO: DAVINCI LEARNING----------test88
 http://91.208.115.170:88/dHrqQgxsmEFdoxq/i1IkcGAefF1Xpdn/57109
 #EXTINF:-1,RO: DAVINCI LEARNING
 http://91.208.115.170:88/G99ETvDLtUZTysA/8iFCvplymkqfgIa/57109 
 #EXTINF:-1,RO: DAVINCI LEARNING
 http://91.208.115.170:88/aeNEE0GSVsUMbpZ/hzMC4ptzQsi2L12/57109
-
-
+#EXTINF:-1,RO: DAVINCI LEARNING
+http://91.208.115.170:88/3Tiv8GCmCkveTZh/7RHZaOg5ZmGLuDH/57109
+#EXTINF:-1,RO: DAVINCI LEARNING
+http://91.208.115.170:88/zIy7PqOx5TGfpQw/25CHL9SEfh9gFvL/57109
+#EXTINF:-1,RO: DAVINCI LEARNING
+http://91.208.115.170:88/4kXByJjQJme1umN/YvqShpYdvry5848/57109
+#EXTINF:-1,RO: DAVINCI LEARNING
+http://91.208.115.170:88/pLQNcgZZNGdIZcX/1sJmCXENyBsxXsq/57109
+#EXTINF:-1,RO: DAVINCI LEARNING
+http://91.208.115.170:88/bdbyV5vKQzYnzJF/ldirkJd9fGGlZ8c/57109
 
 
 #EXTINF:-1,Da Vinci Learning [PL]---------test
@@ -3338,10 +3357,23 @@ http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
 #EXTINF:-1 , bbclifestyle
 http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
 
-#EXTINF:-1 ,samruajlok--------we-play
-https://live.we-play.tv/live/samruajlok/chunks.m3u8?nimblesessionid=34789520&wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIwIDg6MDE6NDggUE0maGFzaF92YWx1ZT1uWTBOWlhIeUl0Ly9MbFJOL1J6SlJnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 ,mysci--------we-play---------php
-http://www.we-play.tv/live/channel.php?name=mysci
+
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",Explore Life------------cdn-laos.workpoint
+https://cdn-laos.workpoint.news/sd-explife_480/index.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",Explore Sci
+https://cdn-laos.workpoint.news/sd-expsci_480/index.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeo.png",NETIONAL GEO HD TH
+https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeopeople.jpg",NAT PEOPLE HD
+https://cdn-laos.workpoint.news/hd-natgeopeople_720/index.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png",BBC EARTH HD
+https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
+https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",HISTORY HD
+https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",HISTORY2 HD
+https://cdn-laos.workpoint.news/hd-history2_720/index.m3u8
 
 
 
@@ -3559,7 +3591,8 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 http://88.119.220.2/live/eds/BBC/HLS_encr/BBC.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-
+#EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news
+https://cdn-laos.workpoint.news/uk-skynews_480/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
