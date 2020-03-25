@@ -102,22 +102,22 @@ type=video
 name=Maleficent Mistress of Evil 2019 1080p BluRay AAC-RARBG
 thumb=
 date=2019-07-08
-URL=https://vidoza.net/vpneya1tonuq.html	Maleficent Mistress of Evil 2019 1080p BluRay AAC-RARBG	1920x808
+URL=https://vidoza.net/vpneya1tonuq.html	
 
 
 type=video
 name=Gemini.Man.2019.1080p.BluRay.H264.AAC-RARBG.mp4
 thumb=
 date=2019-01-03
-URL=https://streamz.cc/fZnJ2cTBydG5lc3BqZXgw	Gemini.Man.2019.1080p.BluRay.H264.AAC-RARBG.mp4	1920x1036, 01:57:00
+URL=https://streamz.cc/fZnJ2cTBydG5lc3BqZXgw	
 
 
 
 type=video
-name=The.Lighthouse.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+name=Aroused.by.Gymnopedies.2016.JAPANESE.1080p.BluRay.H264.AAC-VXT.mp4
 thumb=
 date=2019-06-28
-URL=https://www.fembed.com/v/n0n3lf2r14k0rke#The.Lighthouse.2019.1080p.BluRay.H264.AAC-RARBG.mp4
+URL=https://www.fembed.com/v/0-dlktl0qgg-ny0#Aroused.by.Gymnopedies.2016.JAPANESE.1080p.BluRay.H264.AAC-VXT.mp4
 
 
 
@@ -133,7 +133,7 @@ type=video
 name=Cam 2018 1080p WEBRip x264-RARBG
 thumb=
 date=2019-06-28
-URL=https://streamcrypt.net/streamz.cc/9a98ef6cb943dcae06cb57670b2afba946f752aaf21d25d83b1f3aa4cbfda048	Cam 2018 1080p WEBRip x264-RARBG	1920x1080, 01:34:58
+URL=https://streamz.cc/feTMwaHl2YmsyY2N4ZXgw
 
 
 
