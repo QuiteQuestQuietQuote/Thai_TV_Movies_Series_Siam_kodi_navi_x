@@ -2979,6 +2979,8 @@ http://ok2.se:8000/ab21F1UU2g1cai3TL/db2dF1UFWlcez18Mr/364
 http://ok2.se:8000/ca9dF1UV3OKeIZeI7/356dF1U15LDkRTnsB/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test48
 http://ok2.se:8000/d6afF1UCgVwhOx6GL/2e14F1U7LoEEsE1SN/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test49
+http://ok2.se:8000/2c8bF1Uw8KEXeL6Ws/c687F1U4cYn3zVnUu/364
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test1---------------
@@ -3111,12 +3113,17 @@ http://stream.iptvesun.com:88/S1uZeZNxdnMtvUX/qdqdmYZomcXjjtK/57109
 http://stream.iptvesun.com:88/qrkwZbdRvzFBqSa/tMnEN6JMtTbqnic/57109
 #EXTINF:-1,RO: DAVINCI LEARNING
 http://stream.iptvesun.com:25461/qkxvIM4QuSrFL8i/fhcT0rRHQk5XHDT/57109
-
-
+#EXTINF:-1,RO: DAVINCI LEARNING
+http://stream.iptvesun.com:25461/bdBR0gXNyNL0tKJ/bpKwAerHzXA1t7q/57109
+#EXTINF:-1,RO: DAVINCI LEARNING
+http://stream.iptvesun.com:25461/XVVDeVxcyqt5Z8L/KHwu1tnBZiG5QXz/57109
+#EXTINF:-1,RO: DAVINCI LEARNING
+http://stream.iptvesun.com:25461/mN3NdlYcvUjBcEz/bnXhYzcSkDsyQ1p/57109
 
 
 #EXTINF:-1,Da Vinci----BG----on
 http://212.43.44.198:9981/stream/channelid/1989179709
+
 #EXTINF:-1,RO: DAVINCI LEARNING----------test25461
 http://91.208.115.170:25461/JuMyxmzcIZik8Md/7zdkvYzcCfkisaq/57109
 #EXTINF:-1,RO: DAVINCI LEARNING
@@ -3347,27 +3354,9 @@ rtmp://tv01.thaizatv.com/drm/movie1
 http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
 
 
-#EXTINF:-1,Star Movies_Indo---------
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1,CinemaxHD_Indo
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
-#EXTINF:-1,HBOHits_Indo
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
-#EXTINF:-1,HBOSignature_Indo
-https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
-#EXTINF:-1,AndTV
-https://liveanevia.mncnow.id/live/eds/AndTV/sa_hls/AndTV.m3u8
-#EXTINF:-1,Animax
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
-#EXTINF:-1,HBOHits_Indo--------alter
-https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
-#EXTINF:-1,HBOSignature_Indo
-https://anevia114.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 
-#EXTINF:-1,HBO family_Indo---------mantul.biz.id
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/125.m3u8
-#EXTINF:-1,HBO family_Indo---------mantul.biz.id
-http://mantul.biz.id:8888/live/herry25/mantulbgt/125.m3u8
+
+
 
 
 #EXTINF:-1, Movies-------------dai.google
@@ -3395,6 +3384,16 @@ https://iptv-kovid-19.tk/we-play/live/hits/playlist.m3u8
 https://iptv-kovid-19.tk/we-play/live/hitsmovies/playlist.m3u8
 #EXTINF:-1,HBO HD
 https://iptv-kovid-19.tk/we-play/live/hbo-hd/playlist.m3u8
+#EXTINF:-1,hbo-hits
+https://iptv-kovid-19.tk/we-play/live/hbo-hits/playlist.m3u8
+#EXTINF:-1,hbo-fam
+https://iptv-kovid-19.tk/we-play/live/hbo-fam/playlist.m3u8
+#EXTINF:-1,hbo-sig
+https://iptv-kovid-19.tk/we-play/live/hbo-sig/playlist.m3u8
+#EXTINF:-1,red
+https://iptv-kovid-19.tk/we-play/live/red/playlist.m3u8
+#EXTINF:-1,cinemax
+https://iptv-kovid-19.tk/we-play/live/cinemax/playlist.m3u8
 #EXTINF:-1,FOX MOVIES
 https://iptv-kovid-19.tk/we-play/live/fox-movies/playlist.m3u8
 #EXTINF:-1,HI-DEF1
@@ -3936,6 +3935,8 @@ http://14.248.122.50:18188/rtp/232.84.1.117:10254
 
 
 
+#EXTINF:-1,CNBC
+http://78.110.169.226:8000/play/a02c
 
 
 
