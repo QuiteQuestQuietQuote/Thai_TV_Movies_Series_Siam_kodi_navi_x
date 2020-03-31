@@ -2981,6 +2981,13 @@ http://ok2.se:8000/ca9dF1UV3OKeIZeI7/356dF1U15LDkRTnsB/364
 http://ok2.se:8000/d6afF1UCgVwhOx6GL/2e14F1U7LoEEsE1SN/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test49
 http://ok2.se:8000/2c8bF1Uw8KEXeL6Ws/c687F1U4cYn3zVnUu/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test50
+http://ok2.se:8000/4e17F1U8Ee2SSFVHA/333fF1UoI9ZaX1Jzn/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test51
+http://ok2.se:8000/217eF1Uqi14rGyOux/3340F1Ua1ki3xvyYG/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test52
+http://ok2.se:8000/772fF1Uv4JDOUYV9a/be14F1UKmYxVxPBvY/364
+
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test1---------------
@@ -3119,6 +3126,14 @@ http://stream.iptvesun.com:25461/bdBR0gXNyNL0tKJ/bpKwAerHzXA1t7q/57109
 http://stream.iptvesun.com:25461/XVVDeVxcyqt5Z8L/KHwu1tnBZiG5QXz/57109
 #EXTINF:-1,RO: DAVINCI LEARNING
 http://stream.iptvesun.com:25461/mN3NdlYcvUjBcEz/bnXhYzcSkDsyQ1p/57109
+#EXTINF:-1,RO: DAVINCI LEARNING
+http://stream.iptvesun.com:25461/aHTvl8kEMhBtUXz/Emvru5TjizxCFaF/57109
+#EXTINF:-1,RO: DAVINCI LEARNING
+http://stream.iptvesun.com:25461/EehIeS8HxfDJhZ1/ooIMAjfjKENBlwl/57109
+
+
+#EXTINF:-1,CA: CNBC
+http://stream.iptvesun.com:25461/EehIeS8HxfDJhZ1/ooIMAjfjKENBlwl/58340
 
 
 #EXTINF:-1,Da Vinci----BG----on
@@ -3353,9 +3368,8 @@ rtmp://tv01.thaizatv.com/drm/movie1
 #EXTINF:-1,movie1
 http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
 
-
-
-
+#EXTINF:-1,HBO_id------test
+http://mantul.biz.id:8888/permata/rumahaja/0000000001
 
 
 
@@ -3414,181 +3428,12 @@ https://iptv-kovid-19.tk/we-play/live/bbc-lifestyle/playlist.m3u8
 https://iptv-kovid-19.tk/we-play/live/foodnetwork/playlist.m3u8
 
 
-#EXTINF:-1,HBO FHD-----------------streamku-----------------test
-http://streamku.live:8888/live/masmuto/masmutosn20/847.m3u8
-#EXTINF:-1,HBO Hits FHD
-http://streamku.live:8888/live/masmuto/masmutosn20/849.ts
-#EXTINF:-1,HBO Family FHD
-http://streamku.live:8888/live/masmuto/masmutosn20/848.ts
-#EXTINF:-1,HBO Signature FHD
-http://streamku.live:8888/live/masmuto/masmutosn20/850.ts
-#EXTINF:-1,Red By HBO
-http://streamku.live:8888/live/masmuto/masmutosn20/689.ts
-#EXTINF:-1,Cinemax FHD
-http://streamku.live:8888/live/masmuto/masmutosn20/852.ts
-#EXTINF:-1,HBO HD
-http://streamku.live:8888/live/masmuto/masmutosn20/576.ts
-#EXTINF:-1,HBO Hits HD
-http://streamku.live:8888/live/masmuto/masmutosn20/578.ts
-#EXTINF:-1,HBO Family HD
-http://streamku.live:8888/live/masmuto/masmutosn20/661.ts
-#EXTINF:-1,HBO Signature HD
-http://streamku.live:8888/live/masmuto/masmutosn20/577.ts
-#EXTINF:-1,Red By HBO HD
-http://streamku.live:8888/live/masmuto/masmutosn20/854.ts
-#EXTINF:-1,Cinemax HD
-http://streamku.live:8888/live/masmuto/masmutosn20/589.ts
-#EXTINF:-1,FOX Family Movies HD
-http://streamku.live:8888/live/masmuto/masmutosn20/584.ts
-#EXTINF:-1,FOX Action Movies HD
-http://streamku.live:8888/live/masmuto/masmutosn20/586.ts
-#EXTINF:-1,FOX Movies Premium HD
-http://streamku.live:8888/live/masmuto/masmutosn20/585.ts
-#EXTINF:-1,AXN HD
-http://streamku.live:8888/live/masmuto/masmutosn20/855.ts
-#EXTINF:-1,FX HD
-http://streamku.live:8888/live/masmuto/masmutosn20/580.ts
-#EXTINF:-1,FOX Life HD
-http://streamku.live:8888/live/masmuto/masmutosn20/583.ts
-#EXTINF:-1,FOX Crime HD
-http://streamku.live:8888/live/masmuto/masmutosn20/582.ts
-#EXTINF:-1,FOX Channel HD
-http://streamku.live:8888/live/masmuto/masmutosn20/581.ts
-#EXTINF:-1,Blue Ant Extreme HD
-http://streamku.live:8888/live/masmuto/masmutosn20/587.ts
-#EXTINF:-1,Blue Ant Entertain HD
-http://streamku.live:8888/live/masmuto/masmutosn20/588.ts
-#EXTINF:-1,HITS HD
-http://streamku.live:8888/live/masmuto/masmutosn20/574.ts
-#EXTINF:-1,HITS Movies
-http://streamku.live:8888/live/masmuto/masmutosn20/575.ts
-#EXTINF:-1,KIX HD
-http://streamku.live:8888/live/masmuto/masmutosn20/594.ts
-#EXTINF:-1,Thrill HD
-http://streamku.live:8888/live/masmuto/masmutosn20/595.ts
-#EXTINF:-1,CCM HD
-http://streamku.live:8888/live/masmuto/masmutosn20/682.ts
-#EXTINF:-1,SCM FHD
-http://streamku.live:8888/live/masmuto/masmutosn20/590.ts
-#EXTINF:-1,Xing Kong
-http://streamku.live:8888/live/masmuto/masmutosn20/807.ts
-#EXTINF:-1,Celestial Movie HD
-http://streamku.live:8888/live/masmuto/masmutosn20/592.ts
-#EXTINF:-1,Chinese Drama
-http://streamku.live:8888/live/masmuto/masmutosn20/603.ts
-#EXTINF:-1,WarnerTV HD
-http://streamku.live:8888/live/masmuto/masmutosn20/593.ts
-#EXTINF:-1,Cinemaworld HD
-http://streamku.live:8888/live/masmuto/masmutosn20/597.ts
-#EXTINF:-1,IMC
-http://streamku.live:8888/live/masmuto/masmutosn20/598.ts
-#EXTINF:-1,Flik HD
-http://streamku.live:8888/live/masmuto/masmutosn20/600.ts
-#EXTINF:-1,Galaxy
-http://streamku.live:8888/live/masmuto/masmutosn20/601.ts
-#EXTINF:-1,Empire Movies 1 (Trial)-----------------
-http://streamku.live:8888/live/masmuto/masmutosn20/945.ts
-#EXTINF:-1,Empire Live Event (Trial)
-http://streamku.live:8888/live/masmuto/masmutosn20/946.ts
-#EXTINF:-1,AniPlus HD
-http://streamku.live:8888/live/masmuto/masmutosn20/563.ts
-#EXTINF:-1,Animax HD
-http://streamku.live:8888/live/masmuto/masmutosn20/564.ts
-#EXTINF:-1,Boomerang
-http://streamku.live:8888/live/masmuto/masmutosn20/566.ts
-#EXTINF:-1,Horee
-http://streamku.live:8888/live/masmuto/masmutosn20/565.ts
-#EXTINF:-1,Cartoon Network
-http://streamku.live:8888/live/masmuto/masmutosn20/568.ts
-#EXTINF:-1,Disney Junior
-http://streamku.live:8888/live/masmuto/masmutosn20/570.ts
-#EXTINF:-1,Disney Channel
-http://streamku.live:8888/live/masmuto/masmutosn20/571.ts
-#EXTINF:-1,DA Vinci
-http://streamku.live:8888/live/masmuto/masmutosn20/569.ts
-#EXTINF:-1,DreamWorks
-http://streamku.live:8888/live/masmuto/masmutosn20/572.ts
-#EXTINF:-1,Nicklodeon
-http://streamku.live:8888/live/masmuto/masmutosn20/567.ts
-#EXTINF:-1,Nick JR
-http://streamku.live:8888/live/masmuto/masmutosn20/573.ts
-#EXTINF:-1,Space Toon
-http://streamku.live:8888/live/masmuto/masmutosn20/562.ts
-#EXTINF:-1,ZooMoo HD
-http://streamku.live:8888/live/masmuto/masmutosn20/561.ts
-#EXTINF:-1,Tom & Jerry 24H
-http://streamku.live:8888/live/masmuto/masmutosn20/895.ts
-#EXTINF:-1,Larva 24H
-http://streamku.live:8888/live/masmuto/masmutosn20/894.ts
-#EXTINF:-1,DW TV----------------
-http://streamku.live:8888/live/masmuto/masmutosn20/479.ts
-#EXTINF:-1,Animal Planet HD
-http://streamku.live:8888/live/masmuto/masmutosn20/480.ts
-#EXTINF:-1,NatGeo Wild HD
-http://streamku.live:8888/live/masmuto/masmutosn20/488.ts
-#EXTINF:-1,NatGeo Wild SD
-http://streamku.live:8888/live/masmuto/masmutosn20/881.ts
-#EXTINF:-1,NatGeo Channel HD
-http://streamku.live:8888/live/masmuto/masmutosn20/487.ts
-#EXTINF:-1,NatGeo Channel SD
-http://streamku.live:8888/live/masmuto/masmutosn20/880.ts
-#EXTINF:-1,NatGeo People HD
-http://streamku.live:8888/live/masmuto/masmutosn20/489.ts
-#EXTINF:-1,Love Nature 4K
-http://streamku.live:8888/live/masmuto/masmutosn20/473.ts
-#EXTINF:-1,BBC Earth
-http://streamku.live:8888/live/masmuto/masmutosn20/485.ts
-#EXTINF:-1,Outdoor Channel
-http://streamku.live:8888/live/masmuto/masmutosn20/490.ts
-#EXTINF:-1,History HD
-http://streamku.live:8888/live/masmuto/masmutosn20/484.ts
-#EXTINF:-1,Discovery Turbo
-http://streamku.live:8888/live/masmuto/masmutosn20/760.ts
-#EXTINF:-1,Discovery Asia FHD
-http://streamku.live:8888/live/masmuto/masmutosn20/486.ts
-#EXTINF:-1,Discovery Channel FHD
-http://streamku.live:8888/live/masmuto/masmutosn20/759.ts
-#EXTINF:-1,Crime Investigation
-http://streamku.live:8888/live/masmuto/masmutosn20/482.ts
-#EXTINF:-1,CGTN
-http://streamku.live:8888/live/masmuto/masmutosn20/481.ts
-#EXTINF:-1,Smith Sonian HD
-http://streamku.live:8888/live/masmuto/masmutosn20/483.ts
-#EXTINF:-1,Eat & Go
-http://streamku.live:8888/live/masmuto/masmutosn20/548.ts
-#EXTINF:-1,Asian Food Network
-http://streamku.live:8888/live/masmuto/masmutosn20/477.ts
-#EXTINF:-1,HGTV HD
-http://streamku.live:8888/live/masmuto/masmutosn20/476.ts
-#EXTINF:-1,TLC HD
-http://streamku.live:8888/live/masmuto/masmutosn20/475.ts
-#EXTINF:-1,Life Time HD
-http://streamku.live:8888/live/masmuto/masmutosn20/472.ts
-#EXTINF:-1,Fashion TV
-http://streamku.live:8888/live/masmuto/masmutosn20/550.ts
-#EXTINF:-1,Fashion One
-http://streamku.live:8888/live/masmuto/masmutosn20/549.ts
-#EXTINF:-1,BBC LifeStyle HD
-http://streamku.live:8888/live/masmuto/masmutosn20/474.ts
-
-
-
-
-#EXTINF:-1,DA Vinci----------------
-http://streamku.live:8888/live/masmuto/masmutosn20/569.ts
-#EXTINF:-1,BBC Earth
-http://streamku.live:8888/live/masmuto/masmutosn20/485.ts
-#EXTINF:-1,BBC LifeStyle HD
-http://streamku.live:8888/live/masmuto/masmutosn20/474.ts
-#EXTINF:-1,Asian Food Network
-http://streamku.live:8888/live/masmuto/masmutosn20/477.ts
-
 
 
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia-------
 http://111.13.111.192/125.227.198.89:8028
 #EXTINF:-1,MOVIE1
-https://tv4.chang55.com/live2/tv4ch90.stream/chunks.m3u8 MOVIE1
+https://tv4.chang55.com/live2/tv4ch90.stream/chunks.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia-------------chang55
 https://tv4.chang55.com/live2/tv4ch16.stream/chunks.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia
@@ -3850,15 +3695,15 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 http://164.40.161.46:8002/play/s4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",Euronews_TW
 http://61.58.60.230:9319/live/129.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",Euronews (FR)
-http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",Euronews (FR)
-https://fluxustv.blogspot.com@bit.ly/EuronewsTV?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews English
+http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Reuters
+http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="News",BBC World News
-http://88.119.220.2/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
+http://flusrv1.artmotion.net/unicast.bbcworld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news
@@ -3935,8 +3780,7 @@ http://14.248.122.50:18188/rtp/232.84.1.117:10254
 
 
 
-#EXTINF:-1,CNBC
-http://78.110.169.226:8000/play/a02c
+
 
 
 
