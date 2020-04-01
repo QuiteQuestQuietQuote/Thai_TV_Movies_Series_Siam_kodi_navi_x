@@ -448,24 +448,6 @@ https://www.doofree88.com/streaming/sd-arirang_480/index.m3u8
 
 
 
-
-
-
-#EXTINF:-1,ANIMAX---------------
-http://203.154.243.31:8081/live/animax/index.m3u8
-#EXTINF:-1,Series
-http://203.154.243.31:8081/live/series/index.m3u8
-#EXTINF:-1,MONO29 NEW
-http://203.154.243.31:8081/live/mono/index.m3u8
-#EXTINF:-1,MCOT HD | 30 (1080p HD) NEW
-http://203.154.243.31:8081/live/tv9/index.m3u8
-#EXTINF:-1,TENNIS TV NEW
-http://203.154.243.31:8081/live/tennis/index.m3u8
-
-
-
-
-
 #EXTINF:-1, 5 HD---------------leechfreetv
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
 #EXTINF:-1,NBT HD 2
@@ -1858,31 +1840,31 @@ http://ok2.se:8000/33a6F1U6ncDOawwff/97cbF1Uuq2qu8gxsV/9049
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
-http://14.248.122.50:18188/rtp/232.84.2.129:9570
+http://14.168.57.168:13579/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://14.248.122.50:18188/rtp/232.84.2.131:9582
+http://14.168.57.168:13579/rtp/232.84.2.131:9582
 #EXTINF:-1,DISCOVERY ASIA
-http://14.248.122.50:18188/rtp/232.84.2.53:10528
+http://14.168.57.168:13579/rtp/232.84.2.53:10528
 #EXTINF:-1,DISCOVERY CHANNEL
-http://14.248.122.50:18188/rtp/232.84.1.47:8262
+http://14.168.57.168:13579/rtp/232.84.1.47:8262
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://14.248.122.50:18188/rtp/232.84.1.65:8364
+http://14.168.57.168:13579/rtp/232.84.1.65:8364
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://14.248.122.50:18188/rtp/232.84.1.1:7980
+http://14.168.57.168:13579/rtp/232.84.1.1:7980
 #EXTINF:-1,NAT GEO PEOPLE
-http://14.248.122.50:18188/rtp/232.84.1.67:8376
+http://14.168.57.168:13579/rtp/232.84.1.67:8376
 #EXTINF:-1,NAT GEO PEOPLE HD
-http://14.248.122.50:18188/rtp/232.84.1.76:8430
+http://14.168.57.168:13579/rtp/232.84.1.76:8430
 #EXTINF:-1,ASIAN FOOD CHANNEL
-http://14.248.122.50:18188/rtp/232.84.1.115:10236
+http://14.168.57.168:13579/rtp/232.84.1.115:10236
 #EXTINF:-1,Da Vinci Learning
-http://14.248.122.50:18188/rtp/232.84.1.108:10224
+http://14.168.57.168:13579/rtp/232.84.1.108:10224
 #EXTINF:-1,Nat Geo People
-http://14.248.122.50:18188/rtp/232.84.2.121:8376
+http://14.168.57.168:13579/rtp/232.84.2.121:8376
 #EXTINF:-1,DISNEY CHANNEL HD
-http://14.248.122.50:18188/rtp/232.84.2.143:10678
+http://14.168.57.168:13579/rtp/232.84.2.143:10678
 #EXTINF:-1,CNBC
-http://14.248.122.50:18188/rtp/232.84.2.177:10488
+http://14.168.57.168:13579/rtp/232.84.2.177:10488
 
 
 
@@ -3136,8 +3118,8 @@ http://stream.iptvesun.com:25461/EehIeS8HxfDJhZ1/ooIMAjfjKENBlwl/57109
 http://stream.iptvesun.com:25461/EehIeS8HxfDJhZ1/ooIMAjfjKENBlwl/58340
 
 
-#EXTINF:-1,Da Vinci----BG----on
-http://212.43.44.198:9981/stream/channelid/1989179709
+
+
 
 #EXTINF:-1,RO: DAVINCI LEARNING----------test25461
 http://91.208.115.170:25461/JuMyxmzcIZik8Md/7zdkvYzcCfkisaq/57109
@@ -3213,11 +3195,11 @@ http://42.112.97.70:8888/udp/225.1.1.198:30120
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
-http://14.248.122.50:18188/rtp/232.84.2.129:9570
+http://14.168.57.168:13579/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://14.248.122.50:18188/rtp/232.84.2.131:9582
+http://14.168.57.168:13579/rtp/232.84.2.131:9582
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",DISCOVERY ASIA_VN_rtp
-http://14.248.122.50:18188/rtp/232.84.2.53:10528
+http://14.168.57.168:13579/rtp/232.84.2.53:10528
 
 
 
@@ -3392,40 +3374,6 @@ https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 
 
 
-#EXTINF:-1,HITS--------------iptv-kovid-19
-https://iptv-kovid-19.tk/we-play/live/hits/playlist.m3u8
-#EXTINF:-1,HITS MOVIES
-https://iptv-kovid-19.tk/we-play/live/hitsmovies/playlist.m3u8
-#EXTINF:-1,HBO HD
-https://iptv-kovid-19.tk/we-play/live/hbo-hd/playlist.m3u8
-#EXTINF:-1,hbo-hits
-https://iptv-kovid-19.tk/we-play/live/hbo-hits/playlist.m3u8
-#EXTINF:-1,hbo-fam
-https://iptv-kovid-19.tk/we-play/live/hbo-fam/playlist.m3u8
-#EXTINF:-1,hbo-sig
-https://iptv-kovid-19.tk/we-play/live/hbo-sig/playlist.m3u8
-#EXTINF:-1,red
-https://iptv-kovid-19.tk/we-play/live/red/playlist.m3u8
-#EXTINF:-1,cinemax
-https://iptv-kovid-19.tk/we-play/live/cinemax/playlist.m3u8
-#EXTINF:-1,FOX MOVIES
-https://iptv-kovid-19.tk/we-play/live/fox-movies/playlist.m3u8
-#EXTINF:-1,HI-DEF1
-https://iptv-kovid-19.tk/we-play/live/hi-def1/playlist.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",samrujlok-------------
-https://iptv-kovid-19.tk/we-play/live/samruajlok/playlist.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg",MYSCI HD
-https://iptv-kovid-19.tk/we-play/live/mysci/playlist.m3u8
-#EXTINF:-1,Discovery Asia FHD
-https://iptv-kovid-19.tk/we-play/live/disasia/playlist.m3u8
-#EXTINF:-1,Discovery Channel FHD
-https://iptv-kovid-19.tk/we-play/live/discovery/playlist.m3u8
-#EXTINF:-1,BBC Earth
-https://iptv-kovid-19.tk/we-play/live/bbc-earth/playlist.m3u8
-#EXTINF:-1,BBC LifeStyle HD
-https://iptv-kovid-19.tk/we-play/live/bbc-lifestyle/playlist.m3u8
-#EXTINF:-1,foodnetwork
-https://iptv-kovid-19.tk/we-play/live/foodnetwork/playlist.m3u8
 
 
 
@@ -3449,12 +3397,14 @@ https://tv4.chang55.com/live2/tv4ch92.stream/chunks.m3u8
 #EXTINF:-1,HISTORY 2
 https://tv4.chang55.com/live2/tv4ch19.stream/chunks.m3u8
 
-
-#EXTINF:-1 , bbcearth-----------------TH--------------160.119.77.50
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning----BG----on
+http://212.43.44.198:9981/stream/channelid/1989179709
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth-----------------TH--------------160.119.77.50
 http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
-#EXTINF:-1 , bbclifestyle
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
 http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
-
+#EXTINF:-1,Blue Ant Entertainment HD
+http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",Explore Life------------cdn-laos.workpoint
 https://cdn-laos.workpoint.news/sd-explife_480/index.m3u8
@@ -3468,6 +3418,8 @@ https://cdn-laos.workpoint.news/hd-natgeopeople_720/index.m3u8
 https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
 https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia
+https://cdn-laos.workpoint.news/hd-discoveryeng_720/index.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",HISTORY HD
 https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",HISTORY2 HD
@@ -3475,28 +3427,7 @@ https://cdn-laos.workpoint.news/hd-history2_720/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg",MYSCI HD----------livedoomovies
-https://livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",samrujlok
-https://livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeopeople.jpg",NAT PEOPLE HD
-https://livedoomovies.com/02_NatPeopleHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png",BBC EARTH HD
-https://livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
-https://livedoomovies.com/02_LIFETYLEHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discoveryscience.jpg",Science Channel
-https://livedoomovies.com/02_DiscoveryScience/chunklist.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeo.png",NETIONAL GEO HD TH
-https://livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discovery.png",Discovery Channel
-https://livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png",DISCOVERY HD WORLD
-https://livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",HISTORY HD
-https://livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",HISTORY2 HD
-https://livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+
 
 
 
@@ -3583,8 +3514,7 @@ http://178.124.183.15:80/hls/CH_NYARTTV/variant.m3u8?version=2
 http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-----------tracks-v1a1
 http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-------v2iptv
-http://mu02.v2iptv.com:8880/BL12MA000891853977/92454145/33094
+
 
 
 
@@ -3698,7 +3628,8 @@ http://61.58.60.230:9319/live/129.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews English
 http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Reuters
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/UdNEhUe.jpg" group-title="",Reuters
 http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
@@ -3767,12 +3698,12 @@ http://ok3.se:8000/1c35F1UNHvP6ObBws/bf22F1U8uvWt2J7zv/364
 #EXTINF:-1,CNBC_udp_viet4022
 http://42.112.97.70:8888/udp/225.1.1.227:30120
 #EXTINF:-1,CNBC_rtp_viet
-http://14.248.122.50:18188/rtp/232.84.2.177:10488
+http://14.168.57.168:13579/rtp/232.84.2.177:10488
 
 #EXTINF:-1,VTV1 HD_udp4022
 http://42.112.97.70:8888/udp/225.1.2.249:30120
 #EXTINF:-1,VTV1 HD (HD 8Mbps)_rtp
-http://14.248.122.50:18188/rtp/232.84.1.117:10254
+http://14.168.57.168:13579/rtp/232.84.1.117:10254
 
 
 
