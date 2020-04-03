@@ -3384,7 +3384,7 @@ http://111.13.111.192/125.227.198.89:8028
 https://tv4.chang55.com/live2/tv4ch90.stream/chunks.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia-------------chang55
 https://tv4.chang55.com/live2/tv4ch16.stream/chunks.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia---th
 https://tv4.chang55.com/live2/tv4ch80.stream/chunks.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/G9EgG7nmfnml7kV2GXiYenGyGZm19bfPDwnfhnm0.png",History
 https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
@@ -3397,8 +3397,18 @@ https://tv4.chang55.com/live2/tv4ch92.stream/chunks.m3u8
 #EXTINF:-1,HISTORY 2
 https://tv4.chang55.com/live2/tv4ch19.stream/chunks.m3u8
 
+
+
+#EXTINF:-1,BBC Earth---------RO
+http://188.27.9.55:9981/stream/channelid/1455824773
+#EXTINF:-1,BBC Earth HD
+http://188.27.9.55:9981/stream/channelid/77201771
+#EXTINF:-1,DaVinci
+http://188.27.9.55:9981/stream/channelid/1767801375
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning----BG----on
 http://212.43.44.198:9981/stream/channelid/1989179709
+
+
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth-----------------TH--------------160.119.77.50
 http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
