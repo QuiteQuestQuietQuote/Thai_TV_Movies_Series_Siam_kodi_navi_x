@@ -2186,48 +2186,7 @@ http://62.210.215.83:8000/play/a00m/index.m3u8
 
 
 
-#EXTINF:-1,RedLight--------------------------
-http://84.104.234.134:8001/1:0:1:4224:3DB8:13E:820000:0:0:0
-#EXTINF:-1,Brazzers_eu
-http://84.104.234.134:8001/1:0:1:1D25:2FA8:13E:820000:0:0:0:
-#EXTINF:-1,hustlerHD
-http://193.106.209.211:8001/1:0:19:4220:2F44:13E:820000:0:0:0:
-#EXTINF:-1,Penthouse_quickies
-http://212.111.17.130:8001/1:0:19:372A:C8E:3:EB0000:0:0:0:
-#EXTINF:-1,Penthouse_gold28
-http://212.111.17.130:8001/1:0:19:3728:C8E:3:EB0000:0:0:0:
-#EXTINF:-1,Penthouse_gold27
-http://212.111.17.130:8001/1:0:19:3727:C8E:3:EB0000:0:0:0:
-#EXTINF:-1,Penthouse_passion--------------------------
-http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/1073/index.m3u8
-#EXTINF:-1,Penthouse_passion2
-http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
-#EXTINF:-1,Russian Night
-http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/147/index.m3u8
-#EXTINF:-1,Russian Night
-http://78.129.228.178/iptv/W89SBYVY9AYC4E/147/index.m3u8
-#EXTINF:-1,Candy--------------------------
-http://46.18.202.220:8879/Candy/ch1.m3u8
-#EXTINF:-1,livesexlatinas_rtsp
-rtsp://51.254.198.110:1935/leved/livesexlatinas
-#EXTINF:-1,private
-http://95.216.187.219:8080/062-private
-#EXTINF:-1,Russian Night--------------------------
-http://46.32.68.167/s/live/708/100.0.0.5/1/0.m3u8
-#EXTINF:-1,playboy_blue
-http://51.15.15.119:8080/live/65944/1234/62726.m3u8
-#EXTINF:-1,blue hustler--------------------------
-http://3e6cdf85.iptvbot.biz/iptv/3PTSM5QVK6GK6L/1064/index.m3u8
-#EXTINF:-1,frenchlover
-http://91.204.234.3:8000/play/a001/index.m3u8
-#EXTINF:-1,Randomfrenchlover
-http://91.204.234.3:8000/play/a00p/index.m3u8
-#EXTINF:-1,DorcelHD
-http://91.194.72.46:10043/play/DorcelHD/index.m3u8
-#EXTINF:-1,BHot
-http://37.189.31.80:8070/play/a03l/index.m3u8
-#EXTINF:-1,WYN
-http://mel13.ottclub.ru/iptv/Y48RADFZD5HYD2/922/tracks-v1a2/index.m3u8
+
 
 
 
@@ -3191,8 +3150,7 @@ rtmp://tv01.thaizatv.com/drm/movie1
 #EXTINF:-1,movie1
 http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
 
-#EXTINF:-1,HBO_id------test
-http://mantul.biz.id:8888/permata/rumahaja/0000000001
+
 
 
 
@@ -3213,6 +3171,31 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1, Westerns
 https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="ngphd" group-title="Shop47" tvg-name="Nat Geo People HD" tvg-logo="https://i.imgur.com/9GaCxHr.png",Nat Geo People HD-------VN-------test
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=ngphd
+#EXTINF:-1 tvg-id="ngwhd" group-title="Shop47" tvg-name="Nat Geo Wild HD" tvg-logo="https://i.imgur.com/UT2Fh4x.jpgp",Nat Geo Wild HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=ngwhd
+#EXTINF:-1 tvg-id="ngchd" group-title="Shop47" tvg-name="National Geographic HD" tvg-logo="http://i.imgur.com/oi83ML8.jpg",National Geographic HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=ngchd
+#EXTINF:-1 tvg-id="bbc_earth" group-title="Shop47" tvg-name="BBC Earth HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg",BBC Earth HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=bbc_earth
+#EXTINF:-1 tvg-id="foxsports2hd" group-title="Shop47" tvg-name="DISCOVERY HD" tvg-logo="http://i.imgur.com/hkNiFL3.jpg",DISCOVERY HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=discoveryhd
+#EXTINF:-1 tvg-id="animalhd" tvg-name="Animal Planet HD" tvg-logo="http://i.imgur.com/V6dxmRT.jpg" group-title="Shop47",Animal Planet HD
+http://203.162.235.46:19004/hls/EROSPORTNEWS_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QGxFZF2.jpg" group-title="Shop47",AFN HD s1
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop5
+#EXTINF:-1 tvg-id="asian_food_channel" tvg-name="Asian Food Channel" tvg-logo="http://i.imgur.com/QGxFZF2.jpg" group-title="Shop47",AFN HD s2
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://imgur.com/vf9RpQb.png" group-title="Shop47",Da Vinci HD s1
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop6
+#EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci HD" tvg-logo="https://imgur.com/vf9RpQb.png" group-title="Shop47",Da Vinci HD s2
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8?
 
 
 
@@ -3240,12 +3223,20 @@ https://tv4.chang55.com/live2/tv4ch19.stream/chunks.m3u8
 
 
 
+
+#EXTINF:-1,SBS Food----AU
+http://58.96.43.121:9981/stream/channelid/2043345726
+#EXTINF:-1,SBS Food
+http://61.68.162.242:9981/stream/channelid/1370857702
+
+
 #EXTINF:-1,BBC Earth---------RO
 http://188.27.9.55:9981/stream/channelid/1455824773
 #EXTINF:-1,BBC Earth HD
 http://188.27.9.55:9981/stream/channelid/77201771
 #EXTINF:-1,DaVinci
 http://188.27.9.55:9981/stream/channelid/1767801375
+
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning----BG----on
 http://212.43.44.198:9981/stream/channelid/1989179709
 
@@ -3372,7 +3363,7 @@ http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 #EXTINF:-1,xxx---POR
 http://94.63.89.230:9981/stream/channelid/1464375317
 
-#EXTINF:-1,Babes-----
+#EXTINF:-1,Babes-----fr01
 http://fr01.spr24.net/17976/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1,NuArt
 http://fr01.spr24.net/910/index.m3u8?token=BQF9PmuRpcxUqR
@@ -3382,10 +3373,10 @@ http://fr01.spr24.net/910/index.m3u8?token=rCEqTFvRhtEvXt
 http://fr01.spr24.net/910/mono.m3u8?token=hiVi8EHiq86NZA
 
 
-#EXTINF:-1,NuArt TV-----
+#EXTINF:-1,NuArt TV-----russtv----test
 http://wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/2057/index.m3u8
-
-
+#EXTINF:-1,NuArt TV-----only4-----test
+http://s1.only4.tv/561/video.m3u8?token=3TzgjoCHjt
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/siFrNjF.png" group-title="TAIWAN",Da Ai TV (Opt-1)----------
@@ -3420,16 +3411,10 @@ https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-
 
 
 
-#EXTINF:-1,US: CNBC HD-----------nitro------------test
-http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41549.m3u8
-#EXTINF:-1,US: Discovery SCI HD
-http://nitro.ltd:25461/live/StevenD2020/StevFr2019/41563.m3u8
 
 
-#EXTINF:-1,4K--------------CN------------test
-http://125.119.94.127:10800/stream/channelid/614406436
-#EXTINF:-1,CNBC
-http://125.119.94.127:10800/stream/channelid/1444531183
+
+
 
 
 
