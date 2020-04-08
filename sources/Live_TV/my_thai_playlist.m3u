@@ -3473,6 +3473,8 @@ http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/UdNEhUe.jpg" group-title="",Reuters
 http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News---filmon
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
