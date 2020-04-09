@@ -2965,12 +2965,14 @@ http://176.67.198.12:4063/udp/239.1.1.141:22141
 
 #EXTINF:-1,RO: DAVINCI LEARNING---iptvesun
 http://stream.iptvesun.com:25461/plFrrBvsEsyJtMR/BPRX2FuIujUvpK2/57109
-
-#EXTINF:-1,RO: DAVINCI LEARNING----------test25461
-http://91.208.115.170:25461/JuMyxmzcIZik8Md/7zdkvYzcCfkisaq/57109
-
 #EXTINF:-1,RO: DAVINCI LEARNING----------test88
 http://91.208.115.170:88/dHrqQgxsmEFdoxq/i1IkcGAefF1Xpdn/57109
+
+
+#EXTINF:-1,RO: DAVINCI LEARNING----------test25461
+http://91.208.115.170:25461/RHmvzPtsyAiKhys/wZAaXkKZCbSA7wO/57109
+
+
 
 
 
@@ -3176,26 +3178,8 @@ https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ngphd" group-title="Shop47" tvg-name="Nat Geo People HD" tvg-logo="https://i.imgur.com/9GaCxHr.png",Nat Geo People HD-------VN-------test
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=ngphd
-#EXTINF:-1 tvg-id="ngwhd" group-title="Shop47" tvg-name="Nat Geo Wild HD" tvg-logo="https://i.imgur.com/UT2Fh4x.jpgp",Nat Geo Wild HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=ngwhd
-#EXTINF:-1 tvg-id="ngchd" group-title="Shop47" tvg-name="National Geographic HD" tvg-logo="http://i.imgur.com/oi83ML8.jpg",National Geographic HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=ngchd
-#EXTINF:-1 tvg-id="bbc_earth" group-title="Shop47" tvg-name="BBC Earth HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg",BBC Earth HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=bbc_earth
-#EXTINF:-1 tvg-id="foxsports2hd" group-title="Shop47" tvg-name="DISCOVERY HD" tvg-logo="http://i.imgur.com/hkNiFL3.jpg",DISCOVERY HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=discoveryhd
-#EXTINF:-1 tvg-id="animalhd" tvg-name="Animal Planet HD" tvg-logo="http://i.imgur.com/V6dxmRT.jpg" group-title="Shop47",Animal Planet HD
-http://203.162.235.46:19004/hls/EROSPORTNEWS_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QGxFZF2.jpg" group-title="Shop47",AFN HD s1
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop5
-#EXTINF:-1 tvg-id="asian_food_channel" tvg-name="Asian Food Channel" tvg-logo="http://i.imgur.com/QGxFZF2.jpg" group-title="Shop47",AFN HD s2
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://imgur.com/vf9RpQb.png" group-title="Shop47",Da Vinci HD s1
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=47shop6
-#EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci HD" tvg-logo="https://imgur.com/vf9RpQb.png" group-title="Shop47",Da Vinci HD s2
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="Learning",Discovery Science--------india-----test
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 
 
 
@@ -3226,16 +3210,13 @@ https://tv4.chang55.com/live2/tv4ch19.stream/chunks.m3u8
 
 #EXTINF:-1,SBS Food----AU
 http://58.96.43.121:9981/stream/channelid/2043345726
-#EXTINF:-1,SBS Food
-http://61.68.162.242:9981/stream/channelid/1370857702
+
 
 
 #EXTINF:-1,BBC Earth---------RO
-http://188.27.9.55:9981/stream/channelid/1455824773
-#EXTINF:-1,BBC Earth HD
-http://188.27.9.55:9981/stream/channelid/77201771
+http://82.76.203.194:9981/stream/channelid/1202360824
 #EXTINF:-1,DaVinci
-http://188.27.9.55:9981/stream/channelid/1767801375
+http://82.76.203.194:9981/stream/channelid/100110994
 
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning----BG----on
 http://212.43.44.198:9981/stream/channelid/1989179709
@@ -3360,8 +3341,7 @@ http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1,xxx---POR
-http://94.63.89.230:9981/stream/channelid/1464375317
+
 
 #EXTINF:-1,Babes-----fr01
 http://fr01.spr24.net/17976/index.m3u8?token=BQF9PmuRpcxUqR
