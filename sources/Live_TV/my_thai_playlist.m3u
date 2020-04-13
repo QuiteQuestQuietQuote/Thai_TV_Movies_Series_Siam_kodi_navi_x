@@ -2959,8 +2959,9 @@ http://89.45.201.132:2222/udp/224.0.0.3:708
 http://ok2.se:8000/f05aF7UU46e03rscR/9be8F9UPBwxgIHCzT/77332
 
 
-#EXTINF:-1,RO: DAVINCI LEARNING---iptvesun
-http://stream.iptvesun.com:25461/plFrrBvsEsyJtMR/BPRX2FuIujUvpK2/57109
+#EXTINF:-1,RO: DAVINCI LEARNING---test---iptvesun
+http://stream.iptvesun.com:25461/oBPD18oFTcHMf37/NRPoFLL9k2JXUzz/57109
+
 #EXTINF:-1,RO: DAVINCI LEARNING----------test88
 http://91.208.115.170:88/dHrqQgxsmEFdoxq/i1IkcGAefF1Xpdn/57109
 #EXTINF:-1,RO: DAVINCI LEARNING----------test25461
@@ -2984,6 +2985,14 @@ http://mitvpro.net:25461/Lv17uuuLNSYjkDb/aUfD9vVLypLuvtx/58956
 http://mitvpro.net:25461/Lv17uuuLNSYjkDb/aUfD9vVLypLuvtx/59018
 #EXTINF:-1,HU: DISCOVERY SCIENCE HD
 http://mitvpro.net:25461/Lv17uuuLNSYjkDb/aUfD9vVLypLuvtx/59025
+
+
+
+#EXTINF:-1,DISCORVERY CIVILIZATION FULL HD----------maxptv--------test
+http://maxptv.net:8080/morgana/morgana/3044
+#EXTINF:-1,Discovery Home & Health HD
+http://maxptv.net:8080/morgana/morgana/191
+
 
 
 
@@ -3262,6 +3271,10 @@ https://cdn-laos.workpoint.news/hd-history2_720/index.m3u8
 
 
 
+#EXTINF:-1,ASIAN FOOD NETWORK-----------PHI-----------test
+http://chicago4.streamlive.to:25461/supersonicstreams/cUewZolveU/4501?token=HkNcWEBYFAkUUgRTAFZTBQIAAQMIXVMCAQULU1ZWBAdQUQddAFFTVQcSH0ZAFRFRUwtoXlQaXgdXUQIdERBBVhc+XV0RChQHDgIRSBEVCllXRA0GBQBSC1JZBwAHSRBDDAUWAxEDBAEBARFIEQQbQFcUWVZcZwBWFAhQVBFfXEYJDRgbXF5pV1NdUgpXQ1kWAkQbFVlLFBFYD0ZdX0kQUQwVRlhHVRQJFAkBVhFNQVddE1lDQkFGCUA1exMfR1dLEQRaSlpfWBEMEkcXEU1BXUE5RVJDTBZWAwxWQxFfEAJHTRZUUkhpUFleXQFQFQpbXBUVDRILVANATRFcXAtbRwoTa0laVBQJFAIAXAtDHg==
+
+
 
 
 #EXTINF:-1, tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/27.jpg" tvg-name=“PSI SARADEE” , PSI SARADEE
@@ -3370,10 +3383,7 @@ http://fr01.spr24.net/24168/index.m3u8?token=BQF9PmuRpcxUqR
 http://fr01.spr24.net/17730/index.m3u8?token=BQF9PmuRpcxUqR
 
 
-#EXTINF:-1,NuArt TV-----russtv----test
-http://wer5tuuh.russtv.net/iptv/2E35UNF5RHQD6X/2057/index.m3u8
-#EXTINF:-1,NuArt TV-----only4-----test
-http://s1.only4.tv/561/video.m3u8?token=3TzgjoCHjt
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/siFrNjF.png" group-title="TAIWAN",Da Ai TV (Opt-1)----------
@@ -3483,9 +3493,12 @@ http://flusrv1.artmotion.net/unicast.bbcworld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news
+http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news
 https://cdn-laos.workpoint.news/uk-skynews_480/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OnFFoP.png" group-title="USA",Cheddar Business (New!)
 https://live.chdrstatic.com/cheddar/primary/1.m3u8?fluxustv.m3u8
@@ -3565,6 +3578,13 @@ https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_VN
 http://203.162.235.41:16919
 
+
+#EXTINF:-1, group-title="USA TV", CNBC HD
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10676
+#EXTINF:-1, group-title="UKTV",  CNBC News
+http://54.39.132.147:25461/supersonicstreams/cUewZolveU/2310
+#EXTINF:-1, group-title="USA TV", CNBC HD
+http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/7872
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_HD
