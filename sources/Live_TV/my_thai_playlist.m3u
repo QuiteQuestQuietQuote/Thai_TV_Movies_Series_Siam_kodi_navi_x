@@ -3369,6 +3369,8 @@ http://178.124.183.15:80/hls/CH_NYARTTV/variant.m3u8?version=2
 http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-----------tracks-v1a1
 http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-----------tracks-v1a1
+http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 
 
 
@@ -3603,6 +3605,8 @@ http://54.39.132.147:25461/supersonicstreams/cUewZolveU/2310
 http://185.233.185.209:25443/00:1A:79:92:31:58/dZOJCEO22/50220
 #EXTINF:-1, group-title="USA TV", CNBC HD
 http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/7872
+#EXTINF:-1,|UK| CNBC
+http://iptvpro.vision-new.org:8789/youssef2020/2020youssef/38250
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_HD
