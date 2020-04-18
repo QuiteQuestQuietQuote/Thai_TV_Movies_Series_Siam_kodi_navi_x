@@ -174,6 +174,12 @@ http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-foxlife.stream/playlist.m3u8
 #EXTINF:-1 , foxcrimeeng
 http://160.119.77.50/iptv/hd-foxcrimeeng.stream/playlist.m3u8
+#EXTINF:-1 , hbo hd
+http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
+#EXTINF:-1 , history hd
+http://160.119.77.50/iptv/hd-history.stream/playlist.m3u8
+#EXTINF:-1 , h2
+http://160.119.77.50/iptv/hd-history2.stream/playlist.m3u8
 #EXTINF:-1 , axn
 http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
 #EXTINF:-1 , cinemax
@@ -2409,8 +2415,10 @@ http://188.35.9.26:2031/udp/031a
 http://188.35.9.10:21131/udp/142d
 #EXTINF:-1,Russian Night_/udp
 http://188.35.9.11:21051/udp/071l
-
-
+#EXTINF:-1,Just89_/udp
+http://188.35.9.9:21121/udp/129i
+#EXTINF:-1,Brazzers TV Europa 
+http://188.35.9.26:9031/udp/117m
 
 
 
@@ -2965,8 +2973,7 @@ http://ok2.se:8000/f05aF7UU46e03rscR/9be8F9UPBwxgIHCzT/77332
 http://stream.iptvesun.com:25461/oBPD18oFTcHMf37/NRPoFLL9k2JXUzz/57109
 #EXTINF:-1,RO: DAVINCI LEARNING
 http://stream.iptvesun.com:25461/02141452344727/BSCN0Ri7Hi/57109
-#EXTINF:-1,MYHD: Discovery SC HD
-http://stream.iptvesun.com:25461/02141452344727/BSCN0Ri7Hi/25506
+
 
 #EXTINF:-1,RO: DAVINCI LEARNING----------test88
 http://91.208.115.170:88/dHrqQgxsmEFdoxq/i1IkcGAefF1Xpdn/57109
@@ -2974,30 +2981,11 @@ http://91.208.115.170:88/dHrqQgxsmEFdoxq/i1IkcGAefF1Xpdn/57109
 http://91.208.115.170:25461/RHmvzPtsyAiKhys/wZAaXkKZCbSA7wO/57109
 
 
-
+#EXTINF:-1,PL: DA VINCI---------mitvpro----------test
+http://mitvpro.net:25461/023181676423/DSxlsZ8rQf/56816
 #EXTINF:-1,HU: DA VINCI LEARNING---------mitvpro----------test
 http://mitvpro.net:25461/Lv17uuuLNSYjkDb/aUfD9vVLypLuvtx/58950
-#EXTINF:-1,HU: FEM 3
-http://mitvpro.net:25461/Lv17uuuLNSYjkDb/aUfD9vVLypLuvtx/58952
-#EXTINF:-1,HU: FINE LIVING
-http://mitvpro.net:25461/Lv17uuuLNSYjkDb/aUfD9vVLypLuvtx/58953
-#EXTINF:-1,HU: FISHING AND HUNTING
-http://mitvpro.net:25461/Lv17uuuLNSYjkDb/aUfD9vVLypLuvtx/58954
-#EXTINF:-1,HU: FOOD NETWORK
-http://mitvpro.net:25461/Lv17uuuLNSYjkDb/aUfD9vVLypLuvtx/58955
-#EXTINF:-1,HU: TRAVEL CHANNEL HD
-http://mitvpro.net:25461/Lv17uuuLNSYjkDb/aUfD9vVLypLuvtx/58956
-#EXTINF:-1,HU: BBC EARTH HD
-http://mitvpro.net:25461/Lv17uuuLNSYjkDb/aUfD9vVLypLuvtx/59018
-#EXTINF:-1,HU: DISCOVERY SCIENCE HD
-http://mitvpro.net:25461/Lv17uuuLNSYjkDb/aUfD9vVLypLuvtx/59025
 
-
-
-#EXTINF:-1,DISCORVERY CIVILIZATION FULL HD----------maxptv--------test
-http://maxptv.net:8080/morgana/morgana/3044
-#EXTINF:-1,Discovery Home & Health HD
-http://maxptv.net:8080/morgana/morgana/191
 
 
 
@@ -3506,6 +3494,7 @@ https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
 http://flusrv1.artmotion.net/unicast.bbcworld/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news
