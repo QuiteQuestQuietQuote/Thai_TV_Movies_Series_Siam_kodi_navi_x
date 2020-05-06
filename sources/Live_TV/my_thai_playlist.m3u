@@ -204,66 +204,786 @@ http://160.119.77.50/iptv/sd-filmasiaalt.stream/playlist.m3u8
 
 
 
+#EXTINF:-1,Channel INFO----------------asia------------tvku
+http://tvku.live:8888/donal/donal/1
+#EXTINF:-1,Server ID: NET HD
+http://tvku.live:8888/donal/donal/3579
+#EXTINF:-1,Server ID: Trans 7
+http://tvku.live:8888/donal/donal/3583
+#EXTINF:-1,Server ID: Trans TV
+http://tvku.live:8888/donal/donal/3584
+#EXTINF:-1,Server ID: ANTV
+http://tvku.live:8888/donal/donal/3588
+#EXTINF:-1,Server ID: SCTV
+http://tvku.live:8888/donal/donal/3593
+#EXTINF:-1,Server ID: Indosiar
+http://tvku.live:8888/donal/donal/4839
+#EXTINF:-1,Server ID: TV One
+http://tvku.live:8888/donal/donal/3587
+#EXTINF:-1,Server ID: Metro TV
+http://tvku.live:8888/donal/donal/3589
+#EXTINF:-1,Server ID: Kompas TV
+http://tvku.live:8888/donal/donal/3590
+#EXTINF:-1,Server ID: Berita Satu
+http://tvku.live:8888/donal/donal/3578
+#EXTINF:-1,Server ID: TVRI
+http://tvku.live:8888/donal/donal/3594
+#EXTINF:-1,Server ID: Rajawali TV
+http://tvku.live:8888/donal/donal/3591
+#EXTINF:-1,Server ID: Rodja
+http://tvku.live:8888/donal/donal/3592
+#EXTINF:-1,Server ID: K Drama
+http://tvku.live:8888/donal/donal/3595
+#EXTINF:-1,Server ID: Sinema Indonesia
+http://tvku.live:8888/donal/donal/3596
+#EXTINF:-1,Server ID: O Channel
+http://tvku.live:8888/donal/donal/3597
+#EXTINF:-1,Server ID: Jak TV
+http://tvku.live:8888/donal/donal/3598
+#EXTINF:-1,Server ID: DAAI TV
+http://tvku.live:8888/donal/donal/3599
+#EXTINF:-1,Server ID: JTV
+http://tvku.live:8888/donal/donal/3600
+#EXTINF:-1,Server ID: CNA
+http://tvku.live:8888/donal/donal/3580
+#EXTINF:-1,Server ID: Da Vinci Kids
+http://tvku.live:8888/donal/donal/3577
+#EXTINF:-1,Server ID: BBC World News
+http://tvku.live:8888/donal/donal/3585
+#EXTINF:-1,Server ID: France 24
+http://tvku.live:8888/donal/donal/3586
+#EXTINF:-1,Server ID: Spacetoon
+http://tvku.live:8888/donal/donal/3603
+#EXTINF:-1,Server ID: Arirang
+http://tvku.live:8888/donal/donal/3604
+#EXTINF:-1,Server ID: XingXong
+http://tvku.live:8888/donal/donal/3605
+#EXTINF:-1,Server ID: Aljazeera
+http://tvku.live:8888/donal/donal/3606
+#EXTINF:-1,Server ID: Bloomberg
+http://tvku.live:8888/donal/donal/3607
+#EXTINF:-1,Server ID: RT
+http://tvku.live:8888/donal/donal/3608
+#EXTINF:-1,Server ID: MY TV
+http://tvku.live:8888/donal/donal/3610
+#EXTINF:-1,Server ID: Disney Channel
+http://tvku.live:8888/donal/donal/3613
+#EXTINF:-1,Server ID: Disney Junior
+http://tvku.live:8888/donal/donal/3614
+#EXTINF:-1,Server ID: Animal Planet HD
+http://tvku.live:8888/donal/donal/3615
+#EXTINF:-1,Server ID: Animal Planet FHD
+http://tvku.live:8888/donal/donal/3616
+#EXTINF:-1,Server ID: Discovery Channel HD
+http://tvku.live:8888/donal/donal/3617
+#EXTINF:-1,Server ID: Discovery Channel FHD
+http://tvku.live:8888/donal/donal/3618
+#EXTINF:-1,Server ID: Nat Geo FHD
+http://tvku.live:8888/donal/donal/13690
+#EXTINF:-1,Server ID: Nat Geo Wild FHD
+http://tvku.live:8888/donal/donal/13717
+#EXTINF:-1,Server ID: Nat Geo People FHD
+http://tvku.live:8888/donal/donal/13718
+#EXTINF:-1,Server ID: Nat Geo People HD
+http://tvku.live:8888/donal/donal/3619
+#EXTINF:-1,Server ID: Nat Geo Wild HD
+http://tvku.live:8888/donal/donal/3620
+#EXTINF:-1,Server ID: Nat Geo HD
+http://tvku.live:8888/donal/donal/3621
+#EXTINF:-1,Server ID: Disc Asia HD
+http://tvku.live:8888/donal/donal/3622
+#EXTINF:-1,Server ID: BBC Lifestyle HD
+http://tvku.live:8888/donal/donal/3623
+#EXTINF:-1,Server ID: Channel V HD
+http://tvku.live:8888/donal/donal/3624
+#EXTINF:-1,Server ID: Waku Waku Japan HD
+http://tvku.live:8888/donal/donal/14166
+#EXTINF:-1,Server ID: TLC HD
+http://tvku.live:8888/donal/donal/3626
+#EXTINF:-1,Server ID: AFC HD
+http://tvku.live:8888/donal/donal/3627
+#EXTINF:-1,Server ID: HGTV HD
+http://tvku.live:8888/donal/donal/3628
+#EXTINF:-1,Server ID: Animax HD
+http://tvku.live:8888/donal/donal/3630
+#EXTINF:-1,Server ID: AXN HD
+http://tvku.live:8888/donal/donal/3631
+#EXTINF:-1,Server ID: S GEM HD
+http://tvku.live:8888/donal/donal/3632
+#EXTINF:-1,Server ID: FOX HD
+http://tvku.live:8888/donal/donal/3633
+#EXTINF:-1,Server ID: FOX FHD
+http://tvku.live:8888/donal/donal/3634
+#EXTINF:-1,Server ID: FOX Life HD
+http://tvku.live:8888/donal/donal/3635
+#EXTINF:-1,Server ID: FOX Life FHD
+http://tvku.live:8888/donal/donal/3636
+#EXTINF:-1,Server ID: FOX Crime HD
+http://tvku.live:8888/donal/donal/3637
+#EXTINF:-1,Server ID: FOX Crime FHD
+http://tvku.live:8888/donal/donal/3638
+#EXTINF:-1,Server ID: FOX Movies HD
+http://tvku.live:8888/donal/donal/3639
+#EXTINF:-1,Server ID: FOX Movies FHD
+http://tvku.live:8888/donal/donal/3640
+#EXTINF:-1,Server ID: FOX Action HD
+http://tvku.live:8888/donal/donal/3641
+#EXTINF:-1,Server ID: FOX Action FHD
+http://tvku.live:8888/donal/donal/3642
+#EXTINF:-1,Server ID: FOX Family Movies HD
+http://tvku.live:8888/donal/donal/3643
+#EXTINF:-1,Server ID: FOX Family Movies FHD
+http://tvku.live:8888/donal/donal/3644
+#EXTINF:-1,Server ID: FX HD
+http://tvku.live:8888/donal/donal/3645
+#EXTINF:-1,Server ID: FX FHD
+http://tvku.live:8888/donal/donal/3646
+#EXTINF:-1,Server ID: HBO HD
+http://tvku.live:8888/donal/donal/4828
+#EXTINF:-1,Server ID: HBO Hits HD
+http://tvku.live:8888/donal/donal/4829
+#EXTINF:-1,Server ID: HBO Family HD
+http://tvku.live:8888/donal/donal/4830
+#EXTINF:-1,Server ID: HBO Signature HD
+http://tvku.live:8888/donal/donal/4831
+#EXTINF:-1,Red By HBO HD
+http://tvku.live:8888/donal/donal/4832
+#EXTINF:-1,Server ID: Cinemax HD
+http://tvku.live:8888/donal/donal/4833
+#EXTINF:-1,Server ID: Sony ONE HD
+http://tvku.live:8888/donal/donal/3647
+#EXTINF:-1,Server ID: FOX Sport HD
+http://tvku.live:8888/donal/donal/3648
+#EXTINF:-1,Server ID: FOX Sport FHD
+http://tvku.live:8888/donal/donal/3649
+#EXTINF:-1,Server ID: FOX Sport 2 HD
+http://tvku.live:8888/donal/donal/3650
+#EXTINF:-1,Server ID: FOX Sport 2 FHD
+http://tvku.live:8888/donal/donal/3651
+#EXTINF:-1,Server ID: FOX Sport 3 HD
+http://tvku.live:8888/donal/donal/3652
+#EXTINF:-1,Server ID: FOX Sport 3 FHD
+http://tvku.live:8888/donal/donal/3653
+#EXTINF:-1,NET TV
+http://tvku.live:8888/donal/donal/24
+#EXTINF:-1,NET TV FHD
+http://tvku.live:8888/donal/donal/78
+#EXTINF:-1,Trans TV
+http://tvku.live:8888/donal/donal/34
+#EXTINF:-1,Trans TV FHD
+http://tvku.live:8888/donal/donal/929
+#EXTINF:-1,Trans 7
+http://tvku.live:8888/donal/donal/35
+#EXTINF:-1,Trans 7 FHD
+http://tvku.live:8888/donal/donal/930
+#EXTINF:-1,SCTV
+http://tvku.live:8888/donal/donal/32
+#EXTINF:-1,SCTV HD
+http://tvku.live:8888/donal/donal/931
+#EXTINF:-1,Indosiar
+http://tvku.live:8888/donal/donal/1845
+#EXTINF:-1,Indosiar HD
+http://tvku.live:8888/donal/donal/33
+#EXTINF:-1,O Channel
+http://tvku.live:8888/donal/donal/1727
+#EXTINF:-1,ANTV
+http://tvku.live:8888/donal/donal/31
+#EXTINF:-1,Channel News Asia
+http://tvku.live:8888/donal/donal/1191
+#EXTINF:-1,CNBC Indonesia
+http://tvku.live:8888/donal/donal/1512
+#EXTINF:-1,CNN Indonesia
+http://tvku.live:8888/donal/donal/44
+#EXTINF:-1,CNN Int
+http://tvku.live:8888/donal/donal/1200
+#EXTINF:-1,Berita Satu News
+http://tvku.live:8888/donal/donal/136
+#EXTINF:-1,DW TV Asia
+http://tvku.live:8888/donal/donal/205
+#EXTINF:-1,TV ONE
+http://tvku.live:8888/donal/donal/29
+#EXTINF:-1,Kompas TV
+http://tvku.live:8888/donal/donal/30
+#EXTINF:-1,Metro TV HD
+http://tvku.live:8888/donal/donal/1697
+#EXTINF:-1,Metro TV
+http://tvku.live:8888/donal/donal/52
+#EXTINF:-1,Insert
+http://tvku.live:8888/donal/donal/1763
+#EXTINF:-1,Bloomberg TV Asia
+http://tvku.live:8888/donal/donal/137
+#EXTINF:-1,Rajawali TV
+http://tvku.live:8888/donal/donal/37
+#EXTINF:-1,Spacetoon
+http://tvku.live:8888/donal/donal/1541
+#EXTINF:-1,Baby First
+http://tvku.live:8888/donal/donal/1204
+#EXTINF:-1,Dunia Anak
+http://tvku.live:8888/donal/donal/907
+#EXTINF:-1,Toonmax
+http://tvku.live:8888/donal/donal/1116
+#EXTINF:-1,Disney XD
+http://tvku.live:8888/donal/donal/104
+#EXTINF:-1,Disney UK
+http://tvku.live:8888/donal/donal/2336
+#EXTINF:-1,Duck TV
+http://tvku.live:8888/donal/donal/1854
+#EXTINF:-1,Nick Toons
+http://tvku.live:8888/donal/donal/335
+#EXTINF:-1,Nickelodeon ID
+http://tvku.live:8888/donal/donal/962
+#EXTINF:-1,Nick Jr ID
+http://tvku.live:8888/donal/donal/522
+#EXTINF:-1,Disney Channel
+http://tvku.live:8888/donal/donal/306
+#EXTINF:-1,Disney Channel ID
+http://tvku.live:8888/donal/donal/3479
+#EXTINF:-1,Cartoon Network ID HD
+http://tvku.live:8888/donal/donal/680
+#EXTINF:-1,Boomerang
+http://tvku.live:8888/donal/donal/305
+#EXTINF:-1,Baby TV
+http://tvku.live:8888/donal/donal/296
+#EXTINF:-1,Nick Jr 2
+http://tvku.live:8888/donal/donal/341
+#EXTINF:-1,Disney Junior
+http://tvku.live:8888/donal/donal/213
+#EXTINF:-1,U Channel
+http://tvku.live:8888/donal/donal/1208
+#EXTINF:-1,Jak TV
+http://tvku.live:8888/donal/donal/1210
+#EXTINF:-1,DAAI TV
+http://tvku.live:8888/donal/donal/21
+#EXTINF:-1,TV Mu
+http://tvku.live:8888/donal/donal/1726
+#EXTINF:-1,Makkah TV
+http://tvku.live:8888/donal/donal/297
+#EXTINF:-1,Madina TV
+http://tvku.live:8888/donal/donal/912
+#EXTINF:-1,Bali TV
+http://tvku.live:8888/donal/donal/889
+#EXTINF:-1,T Music
+http://tvku.live:8888/donal/donal/905
+#EXTINF:-1,TAWAF TV
+http://tvku.live:8888/donal/donal/14997
+#EXTINF:-1,Rodja TV
+http://tvku.live:8888/donal/donal/843
+#EXTINF:-1,JTV
+http://tvku.live:8888/donal/donal/135
+#EXTINF:-1,Dunia Lain
+http://tvku.live:8888/donal/donal/910
+#EXTINF:-1,Bioskop Indonesia
+http://tvku.live:8888/donal/donal/908
+#EXTINF:-1,HITS FHD
+http://tvku.live:8888/donal/donal/1195
+#EXTINF:-1,Hits Movie FHD
+http://tvku.live:8888/donal/donal/957
+#EXTINF:-1,Cinema World
+http://tvku.live:8888/donal/donal/1194
+#EXTINF:-1,Star Chinese Movies Legend
+http://tvku.live:8888/donal/donal/1859
+#EXTINF:-1,CCM
+http://tvku.live:8888/donal/donal/2118
+#EXTINF:-1,FOX Movies HD
+http://tvku.live:8888/donal/donal/98
+#EXTINF:-1,FOX Movies HD Backup
+http://tvku.live:8888/donal/donal/978
+#EXTINF:-1,FOX Movies FHD
+http://tvku.live:8888/donal/donal/1205
+#EXTINF:-1,FOX Action Movies HD
+http://tvku.live:8888/donal/donal/99
+#EXTINF:-1,FOX Action Movies HD Backup
+http://tvku.live:8888/donal/donal/979
+#EXTINF:-1,FOX Action Movies FHD
+http://tvku.live:8888/donal/donal/1478
+#EXTINF:-1,FOX Action Movies SD
+http://tvku.live:8888/donal/donal/1125
+#EXTINF:-1,FOX Family Movies ID
+http://tvku.live:8888/donal/donal/14994
+#EXTINF:-1,FOX Family Movies EN
+http://tvku.live:8888/donal/donal/1493
+#EXTINF:-1,FOX Crime HD
+http://tvku.live:8888/donal/donal/763
+#EXTINF:-1,IMC
+http://tvku.live:8888/donal/donal/1483
+#EXTINF:-1,FOX Crime FHD
+http://tvku.live:8888/donal/donal/3334
+#EXTINF:-1,FOX Crime SD
+http://tvku.live:8888/donal/donal/2257
+#EXTINF:-1,Galaxy SD
+http://tvku.live:8888/donal/donal/29604
+#EXTINF:-1,Galaxy Premium SD
+http://tvku.live:8888/donal/donal/29603
+#EXTINF:-1,FLIK HD
+http://tvku.live:8888/donal/donal/29592
+#EXTINF:-1,Smithsonian Channel
+http://tvku.live:8888/donal/donal/14103
+#EXTINF:-1,Zoo Moo FHD
+http://tvku.live:8888/donal/donal/14104
+#EXTINF:-1,Love Nature 4K
+http://tvku.live:8888/donal/donal/14105
+#EXTINF:-1,National Geographic Wild HD
+http://tvku.live:8888/donal/donal/97
+#EXTINF:-1,FOX Life HD
+http://tvku.live:8888/donal/donal/94
+#EXTINF:-1,FOX HD
+http://tvku.live:8888/donal/donal/95
+#EXTINF:-1,FX HD
+http://tvku.live:8888/donal/donal/776
+#EXTINF:-1,HBO HD
+http://tvku.live:8888/donal/donal/210
+#EXTINF:-1,HBO FHD
+http://tvku.live:8888/donal/donal/1496
+#EXTINF:-1,HBO Hits HD
+http://tvku.live:8888/donal/donal/591
+#EXTINF:-1,HBO Hits FHD
+http://tvku.live:8888/donal/donal/11492
+#EXTINF:-1,HBO Family HD
+http://tvku.live:8888/donal/donal/592
+#EXTINF:-1,HBO Signature HD
+http://tvku.live:8888/donal/donal/873
+#EXTINF:-1,HBO Signature FHD
+http://tvku.live:8888/donal/donal/1498
+#EXTINF:-1,Cinemax ID
+http://tvku.live:8888/donal/donal/2156
+#EXTINF:-1,HBO SD
+http://tvku.live:8888/donal/donal/26595
+#EXTINF:-1,HBO Hits SD
+http://tvku.live:8888/donal/donal/26596
+#EXTINF:-1,HBO Signature SD
+http://tvku.live:8888/donal/donal/26597
+#EXTINF:-1,HBO Family SD
+http://tvku.live:8888/donal/donal/26598
+#EXTINF:-1,Cinemax SD
+http://tvku.live:8888/donal/donal/26599
+#EXTINF:-1,LifeTime FHD
+http://tvku.live:8888/donal/donal/866
+#EXTINF:-1,Warner TV ID HD
+http://tvku.live:8888/donal/donal/1533
+#EXTINF:-1,Star Chinese Movies HD
+http://tvku.live:8888/donal/donal/780
+#EXTINF:-1,Blue Ant Extreme FHD
+http://tvku.live:8888/donal/donal/811
+#EXTINF:-1,Waku Waku Japan HD
+http://tvku.live:8888/donal/donal/717
+#EXTINF:-1,HGTV
+http://tvku.live:8888/donal/donal/537
+#EXTINF:-1,AFC HD
+http://tvku.live:8888/donal/donal/807
+#EXTINF:-1,tVN Movies
+http://tvku.live:8888/donal/donal/927
+#EXTINF:-1,National Geographic Channel HD
+http://tvku.live:8888/donal/donal/96
+#EXTINF:-1,National Geographic Channel SD
+http://tvku.live:8888/donal/donal/1504
+#EXTINF:-1,National Geographic People
+http://tvku.live:8888/donal/donal/455
+#EXTINF:-1,National Geographic Channel Backup
+http://tvku.live:8888/donal/donal/1445
+#EXTINF:-1,National Geographic Wild Backup
+http://tvku.live:8888/donal/donal/1446
+#EXTINF:-1,National Geographic People Backup
+http://tvku.live:8888/donal/donal/1447
+#EXTINF:-1,History HD
+http://tvku.live:8888/donal/donal/718
+#EXTINF:-1,History FHD
+http://tvku.live:8888/donal/donal/8131
+#EXTINF:-1,Animal Planet HD
+http://tvku.live:8888/donal/donal/358
+#EXTINF:-1,Discovery Channel HD
+http://tvku.live:8888/donal/donal/165
+#EXTINF:-1,Discovery Asia
+http://tvku.live:8888/donal/donal/779
+#EXTINF:-1,Discovery Science HD
+http://tvku.live:8888/donal/donal/408
+#EXTINF:-1,Discovery Shed
+http://tvku.live:8888/donal/donal/333
+#EXTINF:-1,Discovery Turbo
+http://tvku.live:8888/donal/donal/462
+#EXTINF:-1,Crime Investigation
+http://tvku.live:8888/donal/donal/332
+#EXTINF:-1,IN: Zing TV
+http://tvku.live:8888/donal/donal/813
+#EXTINF:-1,Fashion TV
+http://tvku.live:8888/donal/donal/280
+#EXTINF:-1,Sony ONE
+http://tvku.live:8888/donal/donal/19
+#EXTINF:-1,Aljazeera EN
+http://tvku.live:8888/donal/donal/89
+#EXTINF:-1,Tennis Channel
+http://tvku.live:8888/donal/donal/482
+#EXTINF:-1,DMAX
+http://tvku.live:8888/donal/donal/483
+#EXTINF:-1,K Drama
+http://tvku.live:8888/donal/donal/1699
+#EXTINF:-1,K Plus
+http://tvku.live:8888/donal/donal/18
+#EXTINF:-1,Star World
+http://tvku.live:8888/donal/donal/381
+#EXTINF:-1,BBC Earth
+http://tvku.live:8888/donal/donal/385
+#EXTINF:-1,IN: Sony Max HD
+http://tvku.live:8888/donal/donal/180
+#EXTINF:-1,Zee Bioskop
+http://tvku.live:8888/donal/donal/7
+#EXTINF:-1,Thrill
+http://tvku.live:8888/donal/donal/4
+#EXTINF:-1,KIX
+http://tvku.live:8888/donal/donal/8
+#EXTINF:-1,Celestial Movies
+http://tvku.live:8888/donal/donal/5
+#EXTINF:-1,AXN
+http://tvku.live:8888/donal/donal/9
+#EXTINF:-1,Aniplus
+http://tvku.live:8888/donal/donal/2
+#EXTINF:-1,Animax
+http://tvku.live:8888/donal/donal/3
+#EXTINF:-1,Channel V Int
+http://tvku.live:8888/donal/donal/766
+#EXTINF:-1,KBS World
+http://tvku.live:8888/donal/donal/15057
+#EXTINF:-1,S GEM HD
+http://tvku.live:8888/donal/donal/770
+#EXTINF:-1,TVN ID
+http://tvku.live:8888/donal/donal/767
+#EXTINF:-1,Bloomberg
+http://tvku.live:8888/donal/donal/788
+#EXTINF:-1,France 24
+http://tvku.live:8888/donal/donal/787
+#EXTINF:-1,NHK World Japan
+http://tvku.live:8888/donal/donal/785
+#EXTINF:-1,TV 5 Monde Asie
+http://tvku.live:8888/donal/donal/786
+#EXTINF:-1,BBC World News HD
+http://tvku.live:8888/donal/donal/789
+#EXTINF:-1,CBeebies
+http://tvku.live:8888/donal/donal/491
 
 
 
 
 
 
+#EXTINF:-1,&Flix-------------------------[Truevision]
+http://42.98.239.149:9981/stream/channelid/1654937978
+#EXTINF:-1,&Pictures
+http://42.98.239.149:9981/stream/channelid/24269676
+#EXTINF:-1,&TV
+http://42.98.239.149:9981/stream/channelid/1458942133
+#EXTINF:-1,23 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1194434041
+#EXTINF:-1,34 [Truevision]
+http://42.98.239.149:9981/stream/channelid/445863063
+#EXTINF:-1,35 [Truevision]
+http://42.98.239.149:9981/stream/channelid/523739896
+#EXTINF:-1,36 [Truevision]
+http://42.98.239.149:9981/stream/channelid/894124728
+#EXTINF:-1,38 [Truevision]
+http://42.98.239.149:9981/stream/channelid/345131636
+#EXTINF:-1,39 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1553140804
+#EXTINF:-1,40 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1986867186
+#EXTINF:-1,42 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1445723339
+#EXTINF:-1,49 [Truevision]
+http://42.98.239.149:9981/stream/channelid/101337105
+#EXTINF:-1,54 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1442832269
+#EXTINF:-1,67 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1392131962
+#EXTINF:-1,68 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1761871655
+#EXTINF:-1,72 [Truevision]
+http://42.98.239.149:9981/stream/channelid/374116482
+#EXTINF:-1,74 [Truevision]
+http://42.98.239.149:9981/stream/channelid/177933491
+#EXTINF:-1,75 [Truevision]
+http://42.98.239.149:9981/stream/channelid/623294101
+#EXTINF:-1,76 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1162668495
+#EXTINF:-1,77 [Truevision]
+http://42.98.239.149:9981/stream/channelid/252959242
+#EXTINF:-1,78 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1479903947
+#EXTINF:-1,AMARIN HD
+http://42.98.239.149:9981/stream/channelid/1025661201
+#EXTINF:-1,Amarin TV [Truevision]
+http://42.98.239.149:9981/stream/channelid/561054517
+#EXTINF:-1,Animal Planet
+http://42.98.239.149:9981/stream/channelid/1075529461
+#EXTINF:-1,Animal Planet [Truevision]
+http://42.98.239.149:9981/stream/channelid/786655187
+#EXTINF:-1,Animal Planet [Truevision]
+http://42.98.239.149:9981/stream/channelid/804234953
+#EXTINF:-1,ANPL
+http://42.98.239.149:9981/stream/channelid/451212706
+#EXTINF:-1,ASER HD
+http://42.98.239.149:9981/stream/channelid/1128480749
+#EXTINF:-1,Astro 1
+http://42.98.239.149:9981/stream/channelid/1241435800
+#EXTINF:-1,Astro 3
+http://42.98.239.149:9981/stream/channelid/623388658
+#EXTINF:-1,Astro 4
+http://42.98.239.149:9981/stream/channelid/1820424475
+#EXTINF:-1,AXN
+http://42.98.239.149:9981/stream/channelid/222144844
+#EXTINF:-1,AXN [Truevision]
+http://42.98.239.149:9981/stream/channelid/1878331382
+#EXTINF:-1,BBC [Truevision]
+http://42.98.239.149:9981/stream/channelid/1892944894
+#EXTINF:-1,BBC Earth [Truevision]
+http://42.98.239.149:9981/stream/channelid/131706631
+#EXTINF:-1,Bein Sports 1
+http://42.98.239.149:9981/stream/channelid/1353449936
+#EXTINF:-1,Cartoon Network
+http://42.98.239.149:9981/stream/channelid/1877824829
+#EXTINF:-1,Cartoon Network HD [Truevision]
+http://42.98.239.149:9981/stream/channelid/1982595892
+#EXTINF:-1,CH 3 [Truevision]
+http://42.98.239.149:9981/stream/channelid/2653167
+#EXTINF:-1,CH 5 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1096592815
+#EXTINF:-1,CH 5 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1476558531
+#EXTINF:-1,CH 7 [Truevision]
+http://42.98.239.149:9981/stream/channelid/752704860
+#EXTINF:-1,CH5 HD
+http://42.98.239.149:9981/stream/channelid/1340238209
+#EXTINF:-1,Cinemax [Truevision]
+http://42.98.239.149:9981/stream/channelid/1595427439
+#EXTINF:-1,CNN [Truevision]
+http://42.98.239.149:9981/stream/channelid/1513989184
+#EXTINF:-1,Colors
+http://42.98.239.149:9981/stream/channelid/199218879
+#EXTINF:-1,DIS XD
+http://42.98.239.149:9981/stream/channelid/1033288530
+#EXTINF:-1,DISC AS
+http://42.98.239.149:9981/stream/channelid/286644304
+#EXTINF:-1,Discover Asia HD [Truevision]
+http://42.98.239.149:9981/stream/channelid/547275346
+#EXTINF:-1,Discovery
+http://42.98.239.149:9981/stream/channelid/1242718245
+#EXTINF:-1,Discovery [Truevision]
+http://42.98.239.149:9981/stream/channelid/314031479
+#EXTINF:-1,Discovery Asia [Truevision]
+http://42.98.239.149:9981/stream/channelid/826032913
+#EXTINF:-1,Discovery Channel
+http://42.98.239.149:9981/stream/channelid/450633519
+#EXTINF:-1,Disney
+http://42.98.239.149:9981/stream/channelid/918113217
+#EXTINF:-1,Disney HD [Truevision]
+http://42.98.239.149:9981/stream/channelid/424091027
+#EXTINF:-1,DSCV
+http://42.98.239.149:9981/stream/channelid/1326411126
+#EXTINF:-1,EDGE SPORT [Server 2]
+http://42.98.239.149:9981/stream/channelid/684776653
+#EXTINF:-1,ESPN [Truevision]
+http://42.98.239.149:9981/stream/channelid/697526851
+#EXTINF:-1,EURO SPORT [Server 2]
+http://42.98.239.149:9981/stream/channelid/921951594
+#EXTINF:-1,Eurosports [Truevision]
+http://42.98.239.149:9981/stream/channelid/1520590284
+#EXTINF:-1,FIGHT [Truevision]
+http://42.98.239.149:9981/stream/channelid/1434822124
+#EXTINF:-1,FL A
+http://42.98.239.149:9981/stream/channelid/2040673682
+#EXTINF:-1,FOX Movies [Truevision]
+http://42.98.239.149:9981/stream/channelid/596918032
+#EXTINF:-1,Fox Movies [Truevision]
+http://42.98.239.149:9981/stream/channelid/1226378799
+#EXTINF:-1,FOX SPORTS 1 [Server 2]
+http://42.98.239.149:9981/stream/channelid/1766341416
+#EXTINF:-1,FOX SPORTS 2 [Server 2]
+http://42.98.239.149:9981/stream/channelid/65451456
+#EXTINF:-1,FOX SPORTS 3 [Server 2]
+http://42.98.239.149:9981/stream/channelid/249779166
+#EXTINF:-1,Fox Sports [Truevision]
+http://42.98.239.149:9981/stream/channelid/1394364506
+#EXTINF:-1,FOX TH [Truevision]
+http://42.98.239.149:9981/stream/channelid/969206019
+#EXTINF:-1,GMM 25 [Truevision]
+http://42.98.239.149:9981/stream/channelid/322892598
+#EXTINF:-1,GOLDA:D JR
+http://42.98.239.149:9981/stream/channelid/832662983
+#EXTINF:-1,Golf [Truevision]
+http://42.98.239.149:9981/stream/channelid/1262595115
+#EXTINF:-1,Golf HD [Truevision]
+http://42.98.239.149:9981/stream/channelid/1652110836
+#EXTINF:-1,HBO
+http://42.98.239.149:9981/stream/channelid/1458381187
+#EXTINF:-1,HBO [Truevision]
+http://42.98.239.149:9981/stream/channelid/1148952024
+#EXTINF:-1,Hbo [Truevision]
+http://42.98.239.149:9981/stream/channelid/1546955536
+#EXTINF:-1,HBO Family [Truevision]
+http://42.98.239.149:9981/stream/channelid/2014548339
+#EXTINF:-1,History Channel
+http://42.98.239.149:9981/stream/channelid/876114273
+#EXTINF:-1,History HD 2 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1189484116
+#EXTINF:-1,History HD [Truevision]
+http://42.98.239.149:9981/stream/channelid/532108127
+#EXTINF:-1,Junior [Truevision]
+http://42.98.239.149:9981/stream/channelid/1662759224
+#EXTINF:-1,KNOW:SRES
+http://42.98.239.149:9981/stream/channelid/1215188568
+#EXTINF:-1,Live 2
+http://42.98.239.149:9981/stream/channelid/380770053
+#EXTINF:-1,MCOT HD [Truevision]
+http://42.98.239.149:9981/stream/channelid/2139099249
+#EXTINF:-1,Mono 29 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1662510139
+#EXTINF:-1,MONO29
+http://42.98.239.149:9981/stream/channelid/319105454
+#EXTINF:-1,MONOPLUS
+http://42.98.239.149:9981/stream/channelid/248446359
+#EXTINF:-1,Movie 1 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1278490150
+#EXTINF:-1,MOVIE 2
+http://42.98.239.149:9981/stream/channelid/492770218
+#EXTINF:-1,Movies Now
+http://42.98.239.149:9981/stream/channelid/41604549
+#EXTINF:-1,MTV HD [Server 2]
+http://42.98.239.149:9981/stream/channelid/1982312944
+#EXTINF:-1,NATION
+http://42.98.239.149:9981/stream/channelid/1797092251
+#EXTINF:-1,NBT [Truevision]
+http://42.98.239.149:9981/stream/channelid/1581441733
+#EXTINF:-1,NEW [Truevision]
+http://42.98.239.149:9981/stream/channelid/832792748
+#EXTINF:-1,New TV
+http://42.98.239.149:9981/stream/channelid/2041261372
+#EXTINF:-1,Nick
+http://42.98.239.149:9981/stream/channelid/321906652
+#EXTINF:-1,ONE HD [Truevision]
+http://42.98.239.149:9981/stream/channelid/1231730731
+#EXTINF:-1,PPTV HD [Truevision]
+http://42.98.239.149:9981/stream/channelid/452770834
+#EXTINF:-1,REO by HBO [Truevision]
+http://42.98.239.149:9981/stream/channelid/869562612
+#EXTINF:-1,net 1
+http://42.98.239.149:9981/stream/channelid/1478253434
+#EXTINF:-1,net 2
+http://42.98.239.149:9981/stream/channelid/1319130167
+#EXTINF:-1,net 3
+http://42.98.239.149:9981/stream/channelid/799728892
+#EXTINF:-1,net 4
+http://42.98.239.149:9981/stream/channelid/37139987
+#EXTINF:-1,net 5
+http://42.98.239.149:9981/stream/channelid/898911161
+#EXTINF:-1,net 6
+http://42.98.239.149:9981/stream/channelid/1692844845
+#EXTINF:-1,net HD
+http://42.98.239.149:9981/stream/channelid/985695924
+#EXTINF:-1,net Plus [Truevision]
+http://42.98.239.149:9981/stream/channelid/252715969
+#EXTINF:-1,NET SPORTS 1 [Server 2]
+http://42.98.239.149:9981/stream/channelid/1927259425
+#EXTINF:-1,NET SPORTS 2 [Server 2]
+http://42.98.239.149:9981/stream/channelid/19413979
+#EXTINF:-1,NET SPORTS 3 [Server 2]
+http://42.98.239.149:9981/stream/channelid/390237390
+#EXTINF:-1,NET SPORTS 4 [Server 2]
+http://42.98.239.149:9981/stream/channelid/147406451
+#EXTINF:-1,NET SPORTS 5 [Server 2]
+http://42.98.239.149:9981/stream/channelid/1345230135
+#EXTINF:-1,NET SPORTS 6 [Server 2]
+http://42.98.239.149:9981/stream/channelid/475376888
+#EXTINF:-1,NET SPORTS HD [Server 2]
+http://42.98.239.149:9981/stream/channelid/472177379
+#EXTINF:-1,NET SPORTS PLUS [Server 2]
+http://42.98.239.149:9981/stream/channelid/1985059013
+#EXTINF:-1,Sony Gem [Truevision]
+http://42.98.239.149:9981/stream/channelid/1234799444
+#EXTINF:-1,Sony Max
+http://42.98.239.149:9981/stream/channelid/1597286721
+#EXTINF:-1,Sony Sab
+http://42.98.239.149:9981/stream/channelid/2076489617
+#EXTINF:-1,Sony Six
+http://42.98.239.149:9981/stream/channelid/1559351927
+#EXTINF:-1,Sony Ten 1
+http://42.98.239.149:9981/stream/channelid/1382712878
+#EXTINF:-1,Sony Ten 2
+http://42.98.239.149:9981/stream/channelid/487833512
+#EXTINF:-1,Sony Ten 3
+http://42.98.239.149:9981/stream/channelid/704909020
+#EXTINF:-1,Spike
+http://42.98.239.149:9981/stream/channelid/1842741637
+#EXTINF:-1,Star Gold
+http://42.98.239.149:9981/stream/channelid/721342523
+#EXTINF:-1,Star Movies
+http://42.98.239.149:9981/stream/channelid/1024797284
+#EXTINF:-1,Star Plus
+http://42.98.239.149:9981/stream/channelid/1136814305
+#EXTINF:-1,Star Sports 1
+http://42.98.239.149:9981/stream/channelid/935448432
+#EXTINF:-1,Star Sports 1 Hindi
+http://42.98.239.149:9981/stream/channelid/1386957452
+#EXTINF:-1,Star Sports 2
+http://42.98.239.149:9981/stream/channelid/674139231
+#EXTINF:-1,Star World
+http://42.98.239.149:9981/stream/channelid/1527992704
+#EXTINF:-1,Thai PBS [Truevision]
+http://42.98.239.149:9981/stream/channelid/398286549
+#EXTINF:-1,Thairat TV [Truevision]
+http://42.98.239.149:9981/stream/channelid/1750953350
+#EXTINF:-1,THAIRAT TV HD
+http://42.98.239.149:9981/stream/channelid/167453889
+#EXTINF:-1,True 4U [Truevision]
+http://42.98.239.149:9981/stream/channelid/754920201
+#EXTINF:-1,TRUE [Truevision]
+http://42.98.239.149:9981/stream/channelid/379031626
+#EXTINF:-1,True Film HD [Truevision]
+http://42.98.239.149:9981/stream/channelid/555776077
+#EXTINF:-1,True Premier HD 2 [Truevision]
+http://42.98.239.149:9981/stream/channelid/816078092
+#EXTINF:-1,True Premier HD 3 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1244132609
+#EXTINF:-1,True Premier HD 4 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1665481187
+#EXTINF:-1,True Premier HD 5 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1248118976
+#EXTINF:-1,True Premier HD [Truevision]
+http://42.98.239.149:9981/stream/channelid/978234973
+#EXTINF:-1,True Sports 2 [Truevision]
+http://42.98.239.149:9981/stream/channelid/750017611
+#EXTINF:-1,True Sports 5 [Truevision]
+http://42.98.239.149:9981/stream/channelid/341667324
+#EXTINF:-1,True Sports 6 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1760513212
+#EXTINF:-1,True Sports 7 [Truevision]
+http://42.98.239.149:9981/stream/channelid/1184432173
+#EXTINF:-1,True Sports HD 2 [Truevision]
+http://42.98.239.149:9981/stream/channelid/8620815
+#EXTINF:-1,True Sports HD 3
+http://42.98.239.149:9981/stream/channelid/1334130705
+#EXTINF:-1,True Sports HD 3 [Truevision]
+http://42.98.239.149:9981/stream/channelid/2096513558
+#EXTINF:-1,True Sports HD [Truevision]
+http://42.98.239.149:9981/stream/channelid/1651054746
+#EXTINF:-1,True Tenis HD [Truevision]
+http://42.98.239.149:9981/stream/channelid/1235954860
+#EXTINF:-1,Universal [Truevision]
+http://42.98.239.149:9981/stream/channelid/535608128
+#EXTINF:-1,up 1 Movie
+http://42.98.239.149:9981/stream/channelid/1319434844
+#EXTINF:-1,UTV Action
+http://42.98.239.149:9981/stream/channelid/1528580255
+#EXTINF:-1,WB
+http://42.98.239.149:9981/stream/channelid/234445812
+#EXTINF:-1,Workpoin
+http://42.98.239.149:9981/stream/channelid/1995564742
+#EXTINF:-1,Workpoint [Truevision]
+http://42.98.239.149:9981/stream/channelid/1770426877
+#EXTINF:-1,Zee Bollywood
+http://42.98.239.149:9981/stream/channelid/1367212255
+#EXTINF:-1,Zee Cinema
+http://42.98.239.149:9981/stream/channelid/477082133
+#EXTINF:-1,Zee TV
+http://42.98.239.149:9981/stream/channelid/349138937
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/202002062223475%20HD.jpg",5 HD---------------DTV_freelive
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv01_ch5hd/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/20200206222730nbt.jpg",NBT HD 2
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv02_nbthd/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/20200206222703thai%20pbs.jpg",Thai PBS HD 3
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv03_tpbshd/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="",TPTV 10
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv10_tptv/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/20200206222434tnn24.jpg",TNN 16
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv16_tnn24/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/20200206222645newtv.jpg",NEW 18
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv18_newstv/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/20200206222448nation.jpg",NATION 22
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv22_nationtv/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/20200206222532workkpoint.jpg",workpoint 23
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/20200206222501true4u.jpg",true4U | 24
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv24_true4u/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/20200206222518gmm%2025.jpg",G''MM' 25
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv25_gmmchannel/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/20200206222744ch%208.jpg",CHANNEL 8
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv27_ch8/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/20200206222544mono29.jpg",MONO29
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv29_mono29/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/20200206222602mcot.jpg",MCOT HD | 30
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv30_mcothd/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/20200206222802one.jpg",one HD 31
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv31_onehd/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/20200206222613thairath.jpg",thairaht TV HD 32
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/202002062223323%20HD.jpg",3 HD 33
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv33_ch3hd/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/20200206222627amarin%20tv.jpg",AMARIN HD 34
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv34_amarintvhd/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/202002062224017%20HD.jpg",7 HD 35
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv35_ch7hd/playlist.m3u8
-#EXTINF:-1 group-title="DTV" tvg-logo="http://fwiptv.org/postor/20200206222717pptvhd.jpg",PPTV HD 36
-http://159.89.204.79:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
 
 
 
@@ -459,108 +1179,7 @@ https://www.doofree88.com/streaming/sd-arirang_480/index.m3u8
 
 
 
-#EXTINF:-1, 5 HD---------------leechfreetv
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
-#EXTINF:-1,NBT HD 2
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
-#EXTINF:-1,Thai PBS HD 3
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thaipbs.smil/playlist.m3u8
-#EXTINF:-1,TNN  16
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/tnn24.smil/playlist.m3u8
-#EXTINF:-1,NEW 18
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
-#EXTINF:-1,NATION 22
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/nation.smil/playlist.m3u8
-#EXTINF:-1,workpoint 23
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/workpointtv.smil/playlist.m3u8
-#EXTINF:-1,true4U | 24
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/true4u.smil/playlist.m3u8
-#EXTINF:-1,G''MM' 25
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/gmmchannel.smil/playlist.m3u8
-#EXTINF:-1,CHANNEL 8
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/ch8.smil/playlist.m3u8
-#EXTINF:-1,MONO 29
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/mono29.smil/playlist.m3u8
-#EXTINF:-1,MCOT HD | 30
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/mcothd.smil/playlist.m3u8
-#EXTINF:-1,one HD 31
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8
-#EXTINF:-1,thairath TV HD 32
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thairathtv.smil/playlist.m3u8
-#EXTINF:-1,3 HD 33
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8
-#EXTINF:-1,AMARIN HD 34
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
-#EXTINF:-1,7 HD 35
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
-#EXTINF:-1,PPTV HD 36
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
-#EXTINF:-1,ch2
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/ch2/playlist.m3u8
-#EXTINF:-1,Boomerang
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/boomerang.smil/playlist.m3u8
-#EXTINF:-1,CARTOON CLUB CHANNEL
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/cartoonclub.smil/playlist.m3u8
-#EXTINF:-1,FAN tv
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/fantv.smil/playlist.m3u8
-#EXTINF:-1,FIGHT SPORTS
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/fightsportshd/playlist.m3u8
-#EXTINF:-1,KIX
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/kixhd/playlist.m3u8
-#EXTINF:-1,M CHANNEL
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/mchannel.smil/playlist.m3u8
-#EXTINF:-1,MONO PLUS
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/monoplus.smil/playlist.m3u8
-#EXTINF:-1,Paramount CHANNEL
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/paramountchannel/playlist.m3u8
-#EXTINF:-1,T SPORTS Channel
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/t-sports.smil/playlist.m3u8
-#EXTINF:-1,thrill
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
-#EXTINF:-1,TRACE SPORT STARS
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/tracesportstar/playlist.m3u8
-#EXTINF:-1,ZEE nang
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
-#EXTINF:-1,sabaidee TV
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/sabaideetv.smil/playlist.m3u8
 
-
-
-
-#EXTINF:-1,3HD--------------livefreebl-1
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8
-#EXTINF:-1,5HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
-#EXTINF:-1,7HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
-#EXTINF:-1,MCOT HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mcothd.smil/playlist.m3u8
-#EXTINF:-1,NBT HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
-#EXTINF:-1,TPBS HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/thaipbs.smil/playlist.m3u8
-#EXTINF:-1,ONE HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8
-#EXTINF:-1,AMARIN HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
-#EXTINF:-1,PPTV HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
-#EXTINF:-1,THAIRAHT HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
-#EXTINF:-1,workpointtv
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/workpointtv.smil/playlist.m3u8
-#EXTINF:-1,mono29
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mono29.smil/playlist.m3u8
-#EXTINF:-1,true4u
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/true4u.smil/playlist.m3u8
-#EXTINF:-1,gmmchannel
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/gmmchannel.smil/playlist.m3u8
-#EXTINF:-1,ch8
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/ch8.smil/playlist.m3u8
-#EXTINF:-1,tnn24
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/tnn24.smil/playlist.m3u8
-#EXTINF:-1,newstv
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
 
 
 
@@ -2522,12 +3141,6 @@ http://125.227.210.37:9005/VideoInput/play.ts
 
 #EXTINF:-1,Ibiza_ok2--------------------------
 http://ok3.se:8000/72d6F1U7aXON0u7AC/1844F1UMIkI8yE1EU/72394
-#EXTINF:-1,JAV---test07
-http://ok3.se:8000/72d6F1U7aXON0u7AC/1844F1UMIkI8yE1EU/6607
-#EXTINF:-1,JAV---test08
-http://ok3.se:8000/72d6F1U7aXON0u7AC/1844F1UMIkI8yE1EU/6608
-#EXTINF:-1,JAV---test09
-http://ok3.se:8000/72d6F1U7aXON0u7AC/1844F1UMIkI8yE1EU/6609
 #EXTINF:-1,WANZ
 http://ok3.se:8000/72d6F1U7aXON0u7AC/1844F1UMIkI8yE1EU/6611
 #EXTINF:-1,IPZ
@@ -3201,32 +3814,77 @@ http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia-------CN
 http://111.13.111.192/125.227.198.89:8028
 
-#EXTINF:-1,MOVIE1
-https://tv4.chang55.com/live2/tv4ch90.stream/chunks.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia-------------chang55
-https://tv4.chang55.com/live2/tv4ch16.stream/chunks.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia---th
-https://tv4.chang55.com/live2/tv4ch80.stream/chunks.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/G9EgG7nmfnml7kV2GXiYenGyGZm19bfPDwnfhnm0.png",History
-https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/lJBXFhwbz6WPLehk1WFBZDX7bqBRIM0XWs0Mm8LN.png",Discovery Channel
-https://tv4.chang55.com/live2/tv4ch36.stream/chunks.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth
-https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
-#EXTINF:-1,DISCOVERY ASIA
-https://tv4.chang55.com/live2/tv4ch92.stream/chunks.m3u8
-#EXTINF:-1,HISTORY 2
-https://tv4.chang55.com/live2/tv4ch19.stream/chunks.m3u8
 
 
 
-#EXTINF:-1,PL: Da Vinci Learning---firetv
-http://live.firetv.me:83/JFTBrian/24157648/375808
+#EXTINF:-1,BBC Lifestyle HD--------PO
+http://84.10.92.82:9981/stream/channelid/477831900
+#EXTINF:-1,BBC Lifestyle HD
+http://84.10.92.82:9981/stream/channelid/2017737899
+#EXTINF:-1,BBC Earth HD
+http://84.10.92.82:9981/stream/channelid/1085518179
+#EXTINF:-1,Discovery Life HD
+http://84.10.92.82:9981/stream/channelid/1894212789
+#EXTINF:-1,Discovery Science HD
+http://84.10.92.82:9981/stream/channelid/480438493
+#EXTINF:-1,Discovery Historia
+http://84.10.92.82:9981/stream/channelid/575874890
+#EXTINF:-1,History HD
+http://84.10.92.82:9981/stream/channelid/1186282747
+#EXTINF:-1,History 2 HD
+http://84.10.92.82:9981/stream/channelid/574266360
+#EXTINF:-1,Water Planet
+http://84.10.92.82:9981/stream/channelid/424296458
+#EXTINF:-1,Da Vinci
+http://84.10.92.82:9981/stream/channelid/284419710
+#EXTINF:-1,HGTV HD
+http://84.10.92.82:9981/stream/channelid/972102956
+#EXTINF:-1,Museum 4K
+http://84.10.92.82:9981/stream/channelid/111199589
 
-#EXTINF:-1,RO: Da Vinci Learning---edge
-http://edge.19741977.network:8080/FtKsjXb08j/x7RHbLJBzo/44461
 
-#EXTINF:-1,REN TV HD
+
+#EXTINF:-1,Server ID: Da Vinci Kids-------------asia
+http://tvku.live:8888/donal/donal/3577
+#EXTINF:-1,Server ID: AFC HD
+http://tvku.live:8888/donal/donal/3627
+#EXTINF:-1,AFC HD
+http://tvku.live:8888/donal/donal/807
+#EXTINF:-1,Server ID: BBC World News
+http://tvku.live:8888/donal/donal/3585
+#EXTINF:-1,BBC World News HD
+http://tvku.live:8888/donal/donal/789
+#EXTINF:-1,CNBC Indonesia
+http://tvku.live:8888/donal/donal/1512
+#EXTINF:-1,Server ID: Discovery Channel FHD
+http://tvku.live:8888/donal/donal/3618
+#EXTINF:-1,Server ID: Disc Asia HD
+http://tvku.live:8888/donal/donal/3622
+#EXTINF:-1,Server ID: BBC Lifestyle HD
+http://tvku.live:8888/donal/donal/3623
+#EXTINF:-1,BBC Earth
+http://tvku.live:8888/donal/donal/385
+#EXTINF:-1,Server ID: HGTV HD
+http://tvku.live:8888/donal/donal/3628
+#EXTINF:-1,Server ID: Nat Geo FHD
+http://tvku.live:8888/donal/donal/13690
+#EXTINF:-1,Server ID: Nat Geo People FHD
+http://tvku.live:8888/donal/donal/13718
+
+
+
+
+#EXTINF:-1,BBC World----------DE
+http://87.144.182.87:9981/stream/channelid/912143240
+#EXTINF:-1,CNBC HD
+http://87.144.182.87:9981/stream/channelid/469467046
+
+
+
+
+
+
+#EXTINF:-1,REN TV HD-------RU
 http://50.7.212.18/REN_TV/index.m3u8?token=test
 
 #EXTINF:-1,BBC 2---UK
@@ -3240,10 +3898,6 @@ http://80.32.125.233:8000/play/a003/index.m3u8
 http://58.96.43.121:9981/stream/channelid/2043345726
 
 
-#EXTINF:-1,Da Vinci--------RO
-http://93.114.120.137:9981/stream/channelid/806201258
-#EXTINF:-1,Food Network HD
-http://93.114.120.137:9981/stream/channelid/1717498387
 
 
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning----BG----on
@@ -3285,8 +3939,10 @@ https://livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
 https://www.livedoomovies.com/02_NatPeopleHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discoveryscience.jpg",Science Channel
 https://livedoomovies.com/02_DiscoveryScience/chunklist.m3u8
-
-
+#EXTINF:0, DiscoveryHDWorld
+https://livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:0, BBCEARTH
+https://livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8
 
 
 
@@ -3365,12 +4021,6 @@ http://159.253.169.245:999/udp/239.191.254.250:15285
 http://46.32.68.167/s/live/711/100.0.0.5/1/0.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",(18+) Nuart TV
 http://46.32.68.167/s/live/711/86.169.51.136/0/0.m3u8
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV13
-http://178.124.183.13/hls/CH_NYARTTV/variant.m3u8
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV14
-http://178.124.183.14:80/hls/CH_NYARTTV/variant.m3u8
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV15
-http://178.124.183.15:80/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-CH_NYARTTV5
 http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-----------tracks-v1a1
@@ -3402,8 +4052,7 @@ http://fr01.spr24.net/24168/index.m3u8?token=BQF9PmuRpcxUqR
 http://fr01.spr24.net/17730/index.m3u8?token=BQF9PmuRpcxUqR
 
 
-#EXTINF:-1,125----Indo---suryaiptv
-https://stream.suryaiptv.net/streams/125_.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/siFrNjF.png" group-title="TAIWAN",Da Ai TV (Opt-1)----------
 https://tv3.wanfudaluye.com/live/live/playlist.m3u8
@@ -3605,20 +4254,6 @@ http://203.162.235.41:16919
 
 #EXTINF:-1,CNBC---UK
 http://178.159.5.210:1000/play/CNBC/index.m3u8
-#EXTINF:-1,Discovery History
-http://178.159.5.210:1000/play/DiscoveryHistory/index.m3u8
-#EXTINF:-1,Discovery Science
-http://178.159.5.210:1000/play/DiscoveryScience/index.m3u8
-#EXTINF:-1,Smithsonian HD
-http://178.159.5.210:1000/play/SmithsonianHD/index.m3u8
-#EXTINF:-1,Food Network
-http://178.159.5.210:1000/play/FoodNetwork/index.m3u8
-
-#EXTINF:-1,|.CA.| CNBC HD
-http://185.233.185.217:25443/Get1359/turner2019/50220
-
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_HD
 https://89.187.173.182/CNBC/mono.m3u8
 
