@@ -28,8 +28,6 @@ http://news1.live14.com/stream/news1_hi.m3u8
 http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.stream/playlist.m3u8?username=casG36MryQIqyL7YVdbV5pQcyEmeExUE&password=elV2iHMkaNPQgU5afVkrKm3QyYpbsqqu
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_3bb
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=MLxINNx6sSPr3kzjMswNKKFvhhFaZm6z&password=q81NuMVTAgdBrC34J8HYxDvcnXuSk5Ry
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv---bit.ly---test
-https://bit.ly/2YNQrKJ
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv
 http://206.189.150.220:8081/freelive-edge/_definst_/dtv18_newstv/playlist.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25
@@ -55,6 +53,40 @@ http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 #EXTINF:-1, tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/27.jpg" tvg-name=“PSI SARADEE” , PSI SARADEE
 http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+
+
+#EXTINF:-1,DLTV1--------------
+https://dltv-live-edge.catcdn.cloud/dltv01_720p.m3u8
+#EXTINF:-1,DLTV2
+https://dltv-live-edge.catcdn.cloud/dltv02_720p.m3u8
+#EXTINF:-1,DLTV3
+https://dltv-live-edge.catcdn.cloud/dltv03_720p.m3u8
+#EXTINF:-1,DLTV4
+https://dltv-live-edge.catcdn.cloud/dltv04_720p.m3u8
+#EXTINF:-1,DLTV5
+https://dltv-live-edge.catcdn.cloud/dltv05_720p.m3u8
+#EXTINF:-1,DLTV6
+https://dltv-live-edge.catcdn.cloud/dltv06_720p.m3u8
+#EXTINF:-1,DLTV7
+https://dltv-live-edge.catcdn.cloud/dltv07_720p.m3u8
+#EXTINF:-1,DLTV8
+https://dltv-live-edge.catcdn.cloud/dltv08_720p.m3u8
+#EXTINF:-1,DLTV9
+https://dltv-live-edge.catcdn.cloud/dltv09_720p.m3u8
+#EXTINF:-1,DLTV10
+https://dltv-live-edge.catcdn.cloud/dltv10_720p.m3u8
+#EXTINF:-1,DLTV11
+https://dltv-live-edge.catcdn.cloud/dltv11_720p.m3u8
+#EXTINF:-1,DLTV12
+https://dltv-live-edge.catcdn.cloud/dltv12_720p.m3u8
+#EXTINF:-1,DLTV13
+https://dltv-live-edge.catcdn.cloud/dltv13_720p.m3u8
+#EXTINF:-1,DLTV14
+https://dltv-live-edge.catcdn.cloud/dltv14_720p.m3u8
+#EXTINF:-1,DLTV15
+https://dltv-live-edge.catcdn.cloud/dltv15_720p.m3u8
+
+
 
 
 
@@ -138,6 +170,11 @@ http://main-a.for-our.info:8081/tv1/ch5.m3u8
 
 
 
+
+
+
+
+
 #EXTINF:-1,CH3 HD-------------------160.119.77.50
 http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
 #EXTINF:-1 ,CH5 HD
@@ -194,6 +231,15 @@ http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-thaifilm.stream/playlist.m3u8
 #EXTINF:-1 , filmasiaalt
 http://160.119.77.50/iptv/sd-filmasiaalt.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
@@ -663,325 +709,6 @@ http://tvku.live:8888/donal/donal/491
 
 
 
-
-#EXTINF:-1,&Flix-------------------------[Truevision]
-http://42.98.239.149:9981/stream/channelid/1654937978
-#EXTINF:-1,&Pictures
-http://42.98.239.149:9981/stream/channelid/24269676
-#EXTINF:-1,&TV
-http://42.98.239.149:9981/stream/channelid/1458942133
-#EXTINF:-1,23 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1194434041
-#EXTINF:-1,34 [Truevision]
-http://42.98.239.149:9981/stream/channelid/445863063
-#EXTINF:-1,35 [Truevision]
-http://42.98.239.149:9981/stream/channelid/523739896
-#EXTINF:-1,36 [Truevision]
-http://42.98.239.149:9981/stream/channelid/894124728
-#EXTINF:-1,38 [Truevision]
-http://42.98.239.149:9981/stream/channelid/345131636
-#EXTINF:-1,39 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1553140804
-#EXTINF:-1,40 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1986867186
-#EXTINF:-1,42 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1445723339
-#EXTINF:-1,49 [Truevision]
-http://42.98.239.149:9981/stream/channelid/101337105
-#EXTINF:-1,54 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1442832269
-#EXTINF:-1,67 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1392131962
-#EXTINF:-1,68 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1761871655
-#EXTINF:-1,72 [Truevision]
-http://42.98.239.149:9981/stream/channelid/374116482
-#EXTINF:-1,74 [Truevision]
-http://42.98.239.149:9981/stream/channelid/177933491
-#EXTINF:-1,75 [Truevision]
-http://42.98.239.149:9981/stream/channelid/623294101
-#EXTINF:-1,76 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1162668495
-#EXTINF:-1,77 [Truevision]
-http://42.98.239.149:9981/stream/channelid/252959242
-#EXTINF:-1,78 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1479903947
-#EXTINF:-1,AMARIN HD
-http://42.98.239.149:9981/stream/channelid/1025661201
-#EXTINF:-1,Amarin TV [Truevision]
-http://42.98.239.149:9981/stream/channelid/561054517
-#EXTINF:-1,Animal Planet
-http://42.98.239.149:9981/stream/channelid/1075529461
-#EXTINF:-1,Animal Planet [Truevision]
-http://42.98.239.149:9981/stream/channelid/786655187
-#EXTINF:-1,Animal Planet [Truevision]
-http://42.98.239.149:9981/stream/channelid/804234953
-#EXTINF:-1,ANPL
-http://42.98.239.149:9981/stream/channelid/451212706
-#EXTINF:-1,ASER HD
-http://42.98.239.149:9981/stream/channelid/1128480749
-#EXTINF:-1,Astro 1
-http://42.98.239.149:9981/stream/channelid/1241435800
-#EXTINF:-1,Astro 3
-http://42.98.239.149:9981/stream/channelid/623388658
-#EXTINF:-1,Astro 4
-http://42.98.239.149:9981/stream/channelid/1820424475
-#EXTINF:-1,AXN
-http://42.98.239.149:9981/stream/channelid/222144844
-#EXTINF:-1,AXN [Truevision]
-http://42.98.239.149:9981/stream/channelid/1878331382
-#EXTINF:-1,BBC [Truevision]
-http://42.98.239.149:9981/stream/channelid/1892944894
-#EXTINF:-1,BBC Earth [Truevision]
-http://42.98.239.149:9981/stream/channelid/131706631
-#EXTINF:-1,Bein Sports 1
-http://42.98.239.149:9981/stream/channelid/1353449936
-#EXTINF:-1,Cartoon Network
-http://42.98.239.149:9981/stream/channelid/1877824829
-#EXTINF:-1,Cartoon Network HD [Truevision]
-http://42.98.239.149:9981/stream/channelid/1982595892
-#EXTINF:-1,CH 3 [Truevision]
-http://42.98.239.149:9981/stream/channelid/2653167
-#EXTINF:-1,CH 5 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1096592815
-#EXTINF:-1,CH 5 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1476558531
-#EXTINF:-1,CH 7 [Truevision]
-http://42.98.239.149:9981/stream/channelid/752704860
-#EXTINF:-1,CH5 HD
-http://42.98.239.149:9981/stream/channelid/1340238209
-#EXTINF:-1,Cinemax [Truevision]
-http://42.98.239.149:9981/stream/channelid/1595427439
-#EXTINF:-1,CNN [Truevision]
-http://42.98.239.149:9981/stream/channelid/1513989184
-#EXTINF:-1,Colors
-http://42.98.239.149:9981/stream/channelid/199218879
-#EXTINF:-1,DIS XD
-http://42.98.239.149:9981/stream/channelid/1033288530
-#EXTINF:-1,DISC AS
-http://42.98.239.149:9981/stream/channelid/286644304
-#EXTINF:-1,Discover Asia HD [Truevision]
-http://42.98.239.149:9981/stream/channelid/547275346
-#EXTINF:-1,Discovery
-http://42.98.239.149:9981/stream/channelid/1242718245
-#EXTINF:-1,Discovery [Truevision]
-http://42.98.239.149:9981/stream/channelid/314031479
-#EXTINF:-1,Discovery Asia [Truevision]
-http://42.98.239.149:9981/stream/channelid/826032913
-#EXTINF:-1,Discovery Channel
-http://42.98.239.149:9981/stream/channelid/450633519
-#EXTINF:-1,Disney
-http://42.98.239.149:9981/stream/channelid/918113217
-#EXTINF:-1,Disney HD [Truevision]
-http://42.98.239.149:9981/stream/channelid/424091027
-#EXTINF:-1,DSCV
-http://42.98.239.149:9981/stream/channelid/1326411126
-#EXTINF:-1,EDGE SPORT [Server 2]
-http://42.98.239.149:9981/stream/channelid/684776653
-#EXTINF:-1,ESPN [Truevision]
-http://42.98.239.149:9981/stream/channelid/697526851
-#EXTINF:-1,EURO SPORT [Server 2]
-http://42.98.239.149:9981/stream/channelid/921951594
-#EXTINF:-1,Eurosports [Truevision]
-http://42.98.239.149:9981/stream/channelid/1520590284
-#EXTINF:-1,FIGHT [Truevision]
-http://42.98.239.149:9981/stream/channelid/1434822124
-#EXTINF:-1,FL A
-http://42.98.239.149:9981/stream/channelid/2040673682
-#EXTINF:-1,FOX Movies [Truevision]
-http://42.98.239.149:9981/stream/channelid/596918032
-#EXTINF:-1,Fox Movies [Truevision]
-http://42.98.239.149:9981/stream/channelid/1226378799
-#EXTINF:-1,FOX SPORTS 1 [Server 2]
-http://42.98.239.149:9981/stream/channelid/1766341416
-#EXTINF:-1,FOX SPORTS 2 [Server 2]
-http://42.98.239.149:9981/stream/channelid/65451456
-#EXTINF:-1,FOX SPORTS 3 [Server 2]
-http://42.98.239.149:9981/stream/channelid/249779166
-#EXTINF:-1,Fox Sports [Truevision]
-http://42.98.239.149:9981/stream/channelid/1394364506
-#EXTINF:-1,FOX TH [Truevision]
-http://42.98.239.149:9981/stream/channelid/969206019
-#EXTINF:-1,GMM 25 [Truevision]
-http://42.98.239.149:9981/stream/channelid/322892598
-#EXTINF:-1,GOLDA:D JR
-http://42.98.239.149:9981/stream/channelid/832662983
-#EXTINF:-1,Golf [Truevision]
-http://42.98.239.149:9981/stream/channelid/1262595115
-#EXTINF:-1,Golf HD [Truevision]
-http://42.98.239.149:9981/stream/channelid/1652110836
-#EXTINF:-1,HBO
-http://42.98.239.149:9981/stream/channelid/1458381187
-#EXTINF:-1,HBO [Truevision]
-http://42.98.239.149:9981/stream/channelid/1148952024
-#EXTINF:-1,Hbo [Truevision]
-http://42.98.239.149:9981/stream/channelid/1546955536
-#EXTINF:-1,HBO Family [Truevision]
-http://42.98.239.149:9981/stream/channelid/2014548339
-#EXTINF:-1,History Channel
-http://42.98.239.149:9981/stream/channelid/876114273
-#EXTINF:-1,History HD 2 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1189484116
-#EXTINF:-1,History HD [Truevision]
-http://42.98.239.149:9981/stream/channelid/532108127
-#EXTINF:-1,Junior [Truevision]
-http://42.98.239.149:9981/stream/channelid/1662759224
-#EXTINF:-1,KNOW:SRES
-http://42.98.239.149:9981/stream/channelid/1215188568
-#EXTINF:-1,Live 2
-http://42.98.239.149:9981/stream/channelid/380770053
-#EXTINF:-1,MCOT HD [Truevision]
-http://42.98.239.149:9981/stream/channelid/2139099249
-#EXTINF:-1,Mono 29 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1662510139
-#EXTINF:-1,MONO29
-http://42.98.239.149:9981/stream/channelid/319105454
-#EXTINF:-1,MONOPLUS
-http://42.98.239.149:9981/stream/channelid/248446359
-#EXTINF:-1,Movie 1 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1278490150
-#EXTINF:-1,MOVIE 2
-http://42.98.239.149:9981/stream/channelid/492770218
-#EXTINF:-1,Movies Now
-http://42.98.239.149:9981/stream/channelid/41604549
-#EXTINF:-1,MTV HD [Server 2]
-http://42.98.239.149:9981/stream/channelid/1982312944
-#EXTINF:-1,NATION
-http://42.98.239.149:9981/stream/channelid/1797092251
-#EXTINF:-1,NBT [Truevision]
-http://42.98.239.149:9981/stream/channelid/1581441733
-#EXTINF:-1,NEW [Truevision]
-http://42.98.239.149:9981/stream/channelid/832792748
-#EXTINF:-1,New TV
-http://42.98.239.149:9981/stream/channelid/2041261372
-#EXTINF:-1,Nick
-http://42.98.239.149:9981/stream/channelid/321906652
-#EXTINF:-1,ONE HD [Truevision]
-http://42.98.239.149:9981/stream/channelid/1231730731
-#EXTINF:-1,PPTV HD [Truevision]
-http://42.98.239.149:9981/stream/channelid/452770834
-#EXTINF:-1,REO by HBO [Truevision]
-http://42.98.239.149:9981/stream/channelid/869562612
-#EXTINF:-1,net 1
-http://42.98.239.149:9981/stream/channelid/1478253434
-#EXTINF:-1,net 2
-http://42.98.239.149:9981/stream/channelid/1319130167
-#EXTINF:-1,net 3
-http://42.98.239.149:9981/stream/channelid/799728892
-#EXTINF:-1,net 4
-http://42.98.239.149:9981/stream/channelid/37139987
-#EXTINF:-1,net 5
-http://42.98.239.149:9981/stream/channelid/898911161
-#EXTINF:-1,net 6
-http://42.98.239.149:9981/stream/channelid/1692844845
-#EXTINF:-1,net HD
-http://42.98.239.149:9981/stream/channelid/985695924
-#EXTINF:-1,net Plus [Truevision]
-http://42.98.239.149:9981/stream/channelid/252715969
-#EXTINF:-1,NET SPORTS 1 [Server 2]
-http://42.98.239.149:9981/stream/channelid/1927259425
-#EXTINF:-1,NET SPORTS 2 [Server 2]
-http://42.98.239.149:9981/stream/channelid/19413979
-#EXTINF:-1,NET SPORTS 3 [Server 2]
-http://42.98.239.149:9981/stream/channelid/390237390
-#EXTINF:-1,NET SPORTS 4 [Server 2]
-http://42.98.239.149:9981/stream/channelid/147406451
-#EXTINF:-1,NET SPORTS 5 [Server 2]
-http://42.98.239.149:9981/stream/channelid/1345230135
-#EXTINF:-1,NET SPORTS 6 [Server 2]
-http://42.98.239.149:9981/stream/channelid/475376888
-#EXTINF:-1,NET SPORTS HD [Server 2]
-http://42.98.239.149:9981/stream/channelid/472177379
-#EXTINF:-1,NET SPORTS PLUS [Server 2]
-http://42.98.239.149:9981/stream/channelid/1985059013
-#EXTINF:-1,Sony Gem [Truevision]
-http://42.98.239.149:9981/stream/channelid/1234799444
-#EXTINF:-1,Sony Max
-http://42.98.239.149:9981/stream/channelid/1597286721
-#EXTINF:-1,Sony Sab
-http://42.98.239.149:9981/stream/channelid/2076489617
-#EXTINF:-1,Sony Six
-http://42.98.239.149:9981/stream/channelid/1559351927
-#EXTINF:-1,Sony Ten 1
-http://42.98.239.149:9981/stream/channelid/1382712878
-#EXTINF:-1,Sony Ten 2
-http://42.98.239.149:9981/stream/channelid/487833512
-#EXTINF:-1,Sony Ten 3
-http://42.98.239.149:9981/stream/channelid/704909020
-#EXTINF:-1,Spike
-http://42.98.239.149:9981/stream/channelid/1842741637
-#EXTINF:-1,Star Gold
-http://42.98.239.149:9981/stream/channelid/721342523
-#EXTINF:-1,Star Movies
-http://42.98.239.149:9981/stream/channelid/1024797284
-#EXTINF:-1,Star Plus
-http://42.98.239.149:9981/stream/channelid/1136814305
-#EXTINF:-1,Star Sports 1
-http://42.98.239.149:9981/stream/channelid/935448432
-#EXTINF:-1,Star Sports 1 Hindi
-http://42.98.239.149:9981/stream/channelid/1386957452
-#EXTINF:-1,Star Sports 2
-http://42.98.239.149:9981/stream/channelid/674139231
-#EXTINF:-1,Star World
-http://42.98.239.149:9981/stream/channelid/1527992704
-#EXTINF:-1,Thai PBS [Truevision]
-http://42.98.239.149:9981/stream/channelid/398286549
-#EXTINF:-1,Thairat TV [Truevision]
-http://42.98.239.149:9981/stream/channelid/1750953350
-#EXTINF:-1,THAIRAT TV HD
-http://42.98.239.149:9981/stream/channelid/167453889
-#EXTINF:-1,True 4U [Truevision]
-http://42.98.239.149:9981/stream/channelid/754920201
-#EXTINF:-1,TRUE [Truevision]
-http://42.98.239.149:9981/stream/channelid/379031626
-#EXTINF:-1,True Film HD [Truevision]
-http://42.98.239.149:9981/stream/channelid/555776077
-#EXTINF:-1,True Premier HD 2 [Truevision]
-http://42.98.239.149:9981/stream/channelid/816078092
-#EXTINF:-1,True Premier HD 3 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1244132609
-#EXTINF:-1,True Premier HD 4 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1665481187
-#EXTINF:-1,True Premier HD 5 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1248118976
-#EXTINF:-1,True Premier HD [Truevision]
-http://42.98.239.149:9981/stream/channelid/978234973
-#EXTINF:-1,True Sports 2 [Truevision]
-http://42.98.239.149:9981/stream/channelid/750017611
-#EXTINF:-1,True Sports 5 [Truevision]
-http://42.98.239.149:9981/stream/channelid/341667324
-#EXTINF:-1,True Sports 6 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1760513212
-#EXTINF:-1,True Sports 7 [Truevision]
-http://42.98.239.149:9981/stream/channelid/1184432173
-#EXTINF:-1,True Sports HD 2 [Truevision]
-http://42.98.239.149:9981/stream/channelid/8620815
-#EXTINF:-1,True Sports HD 3
-http://42.98.239.149:9981/stream/channelid/1334130705
-#EXTINF:-1,True Sports HD 3 [Truevision]
-http://42.98.239.149:9981/stream/channelid/2096513558
-#EXTINF:-1,True Sports HD [Truevision]
-http://42.98.239.149:9981/stream/channelid/1651054746
-#EXTINF:-1,True Tenis HD [Truevision]
-http://42.98.239.149:9981/stream/channelid/1235954860
-#EXTINF:-1,Universal [Truevision]
-http://42.98.239.149:9981/stream/channelid/535608128
-#EXTINF:-1,up 1 Movie
-http://42.98.239.149:9981/stream/channelid/1319434844
-#EXTINF:-1,UTV Action
-http://42.98.239.149:9981/stream/channelid/1528580255
-#EXTINF:-1,WB
-http://42.98.239.149:9981/stream/channelid/234445812
-#EXTINF:-1,Workpoin
-http://42.98.239.149:9981/stream/channelid/1995564742
-#EXTINF:-1,Workpoint [Truevision]
-http://42.98.239.149:9981/stream/channelid/1770426877
-#EXTINF:-1,Zee Bollywood
-http://42.98.239.149:9981/stream/channelid/1367212255
-#EXTINF:-1,Zee Cinema
-http://42.98.239.149:9981/stream/channelid/477082133
-#EXTINF:-1,Zee TV
-http://42.98.239.149:9981/stream/channelid/349138937
 
 
 
@@ -3086,9 +2813,9 @@ http://mu02.v2iptv.com:8880/TEST024/vZp8RdKqPT/33154
 http://mu02.v2iptv.com:8880/HJLM2002/ciZxmw8jji/33154
 #EXTINF:-1,33154_v2iptv_live/HJLM1372
 http://mu02.v2iptv.com:8880/live/HJLM1372/sU6eOgVvUr/33154
-#EXTINF:-1,33154_v2iptv_ANNM0687
+#EXTINF:-1,33154_amzlive_ANNM0687
 http://mu03.amzlive.net:8880/ANNM0687/ssrrUiWYS3/33154
-#EXTINF:-1,33154_v2iptv_ANLM0887
+#EXTINF:-1,33154_amzlive_ANLM0887
 http://mu03.amzlive.net:8880/ANLM0887/yEskkPAAr8/33154
 #EXTINF:-1,33154_v2iptv_live/testzyx185
 http://mu02.v2iptv.com:8880/live/testzyx185/Vv1Ta0xgfc/33154
@@ -3110,8 +2837,8 @@ http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/33154
 http://mu02.v2iptv.com:8880/HJLM1399/gOQedvLAFg/33154
 #EXTINF:-1,33154_v5iptv_JP12J006
 http://mu01.v5iptv.com:8880/JP12J006/123456/33154
-
-
+#EXTINF:-1,33154_amzlive---AN6M0721
+http://mu03.amzlive.net:8880/AN6M0721/VT2ko6YuO2/33154
 
 
 
@@ -3818,30 +3545,7 @@ http://111.13.111.192/125.227.198.89:8028
 
 
 
-#EXTINF:-1,BBC Lifestyle HD--------PO
-http://84.10.92.82:9981/stream/channelid/477831900
-#EXTINF:-1,BBC Lifestyle HD
-http://84.10.92.82:9981/stream/channelid/2017737899
-#EXTINF:-1,BBC Earth HD
-http://84.10.92.82:9981/stream/channelid/1085518179
-#EXTINF:-1,Discovery Life HD
-http://84.10.92.82:9981/stream/channelid/1894212789
-#EXTINF:-1,Discovery Science HD
-http://84.10.92.82:9981/stream/channelid/480438493
-#EXTINF:-1,Discovery Historia
-http://84.10.92.82:9981/stream/channelid/575874890
-#EXTINF:-1,History HD
-http://84.10.92.82:9981/stream/channelid/1186282747
-#EXTINF:-1,History 2 HD
-http://84.10.92.82:9981/stream/channelid/574266360
-#EXTINF:-1,Water Planet
-http://84.10.92.82:9981/stream/channelid/424296458
-#EXTINF:-1,Da Vinci
-http://84.10.92.82:9981/stream/channelid/284419710
-#EXTINF:-1,HGTV HD
-http://84.10.92.82:9981/stream/channelid/972102956
-#EXTINF:-1,Museum 4K
-http://84.10.92.82:9981/stream/channelid/111199589
+
 
 
 
@@ -3875,12 +3579,6 @@ http://tvku.live:8888/donal/donal/13718
 
 
 
-#EXTINF:-1,BBC World----------DE
-http://87.144.182.87:9981/stream/channelid/912143240
-#EXTINF:-1,CNBC HD
-http://87.144.182.87:9981/stream/channelid/469467046
-
-
 
 
 
@@ -3893,12 +3591,16 @@ http://80.32.125.233:8000/play/a002/index.m3u8
 #EXTINF:-1,ITV 1
 http://80.32.125.233:8000/play/a003/index.m3u8
 
-
-
-#EXTINF:-1,SBS Food----AU
-http://58.96.43.121:9981/stream/channelid/2043345726
-
-
+#EXTINF:-1, DiscoveryChannel-------------chang55
+https://tv4.chang55.com:446/live2/tv4ch36.stream/chunks.m3u8
+#EXTINF:-1,DISCOVERY ASIA
+https://tv4.chang55.com:446/live2/tv4ch16.stream/chunks.m3u8 
+#EXTINF:-1, BBC EARTH
+https://tv4.chang55.com:446/live2/tv4ch41.stream/chunks.m3u8
+#EXTINF:-1,HISTORY HD
+https://tv4.chang55.com:446/live2/tv4ch21.stream/chunks.m3u8 
+#EXTINF:-1,H2
+https://tv4.chang55.com:446/live2/tv4ch19.stream/chunks.m3u8 
 
 
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning----BG----on
@@ -4156,6 +3858,8 @@ http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
 rtsp://203.162.123.178:554/bbc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News---CN
 http://111.13.111.192/125.227.198.89:8003?Loggia=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News---chang55
+https://tv4.chang55.com:446/live2/tv4ch28.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News---filmon
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
@@ -4243,7 +3947,8 @@ http://14.244.192.215:4022/rtp/232.84.1.117:10254
 
 
 
-
+#EXTINF:-1,CNBC -----------
+http://1.221.108.146:9981/stream/channelid/1478487170
 
 
 
