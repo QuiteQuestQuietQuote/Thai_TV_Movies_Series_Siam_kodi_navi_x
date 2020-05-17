@@ -2724,7 +2724,6 @@ http://ok2.se:8000/ac53F1UY1LjEaiyFL/64e5F1UNgCkRQLxjZ/6686
 
 
 
-
 #EXTINF:-1,SonSee TV3_php-----------------------
 http://185.216.119.139:2015/ftvs.php?channelid=5795c5a5326d2e110eca080e&channeltype=1
 #EXTINF:-1,SonSee TV2_php
@@ -3199,6 +3198,10 @@ http://ok2.se:8000/772fF1Uv4JDOUYV9a/be14F1UKmYxVxPBvY/364
 http://ok2.se:8000/0395F1U0FJQzbK1L8/4d0aF1U37z8OLw1TQ/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test54
 http://ok2.se:8000/42b6F1U7zr7fpDcQo/0230F1UyZV6eh6102/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test55
+http://ok2.se:80/5B0kLebtb1/Ne3PS6KiPL/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test56
+http://ok2.se:80/6cfdF1UvJQxWBK0bp/6b23F1UsAw4nQLqCE/364
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3_test1---------------
@@ -3311,16 +3314,14 @@ http://89.45.201.132:2222/udp/224.0.0.3:708
 http://ok2.se:8000/f05aF7UU46e03rscR/9be8F9UPBwxgIHCzT/77332
 
 
+
 #EXTINF:-1,RO: DAVINCI LEARNING---test---iptvesun
-http://stream.iptvesun.com:25461/oBPD18oFTcHMf37/NRPoFLL9k2JXUzz/57109
+http://basic-iptvesun.com:8080/szCBWqMVvw/v5gMfs7eRR/57109
 #EXTINF:-1,RO: DAVINCI LEARNING
-http://stream.iptvesun.com:25461/02141452344727/BSCN0Ri7Hi/57109
+http://basic-iptvesun.com:8080/Q76QiQ5HYB/SDUtxYHHBo/57109
 
 
-#EXTINF:-1,RO: DAVINCI LEARNING----------test88
-http://91.208.115.170:88/dHrqQgxsmEFdoxq/i1IkcGAefF1Xpdn/57109
-#EXTINF:-1,RO: DAVINCI LEARNING----------test25461
-http://91.208.115.170:25461/RHmvzPtsyAiKhys/wZAaXkKZCbSA7wO/57109
+
 
 
 #EXTINF:-1,PL: DA VINCI---------mitvpro----------test
@@ -3547,9 +3548,9 @@ http://111.13.111.192/125.227.198.89:8028
 
 
 
-
-
-#EXTINF:-1,Server ID: Da Vinci Kids-------------asia
+#EXTINF:-1,Server ID: Da Vinci Kids---restream2-------------test
+http://tvku.live:8888/restream2/restream2/3577
+#EXTINF:-1,Server ID: Da Vinci Kids-------------asia---donal
 http://tvku.live:8888/donal/donal/3577
 #EXTINF:-1,Server ID: AFC HD
 http://tvku.live:8888/donal/donal/3627
@@ -3583,13 +3584,7 @@ http://tvku.live:8888/donal/donal/13718
 
 
 
-#EXTINF:-1,REN TV HD-------RU
-http://50.7.212.18/REN_TV/index.m3u8?token=test
 
-#EXTINF:-1,BBC 2---UK
-http://80.32.125.233:8000/play/a002/index.m3u8
-#EXTINF:-1,ITV 1
-http://80.32.125.233:8000/play/a003/index.m3u8
 
 #EXTINF:-1, DiscoveryChannel-------------chang55
 https://tv4.chang55.com:446/live2/tv4ch36.stream/chunks.m3u8
@@ -3603,8 +3598,6 @@ https://tv4.chang55.com:446/live2/tv4ch21.stream/chunks.m3u8
 https://tv4.chang55.com:446/live2/tv4ch19.stream/chunks.m3u8 
 
 
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning----BG----on
-http://212.43.44.198:9981/stream/channelid/1989179709
 
 
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth-----------------TH--------------160.119.77.50
@@ -3731,9 +3724,23 @@ http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-----------tracks-v1a1
 http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,WANZ
+http://ok2.se:80/5B0kLebtb1/Ne3PS6KiPL/6611
+#EXTINF:-1,IPZ
+http://ok2.se:80/6cfdF1UvJQxWBK0bp/6b23F1UsAw4nQLqCE/6610
+#EXTINF:-1,uncen1
+http://ok2.se:8000/2ef6F1UX1pvObDflN/6bb3F1UipM38mMKil/6612
+#EXTINF:-1,uncen2
+http://ok2.se:8000/e655F1UsWk6ywjwGi/0ce3F1UO0WtTHT1Gx/6613
+#EXTINF:-1,uncen3
+http://ok2.se:8000/c6ddF1U25j4T4kpLb/74eaF1UZv387ie80W/6614
+#EXTINF:-1,TOKYO HOT
+http://ok2.se:8000/29c7F1Ux9HqaPw0oy/a9b6F1UNO6aybg7V2/6572
 
 
 
+
+---------------------
 
 
 #EXTINF:-1,Babes-----fr01
