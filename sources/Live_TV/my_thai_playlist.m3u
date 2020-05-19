@@ -3895,14 +3895,16 @@ http://45.92.69.76:8000/play/a05h
 
 
 
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2---1
 http://ok2.se:8000/f4d5F1Us0eAoWG49g/a2d5F1UDNiEYFsQuv/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2---2
 http://ok2.se:8000/a5f5F1U8Cckg8gGZ3/df54F1UNYPGrjxC4Z/364
 
 
-
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2---1
+http://ok2.se/6cfdF1UvJQxWBK0bp/6b23F1UsAw4nQLqCE/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2---2
+http://ok2.se/5B0kLebtb1/Ne3PS6KiPL/364
 
 
 
@@ -3944,29 +3946,29 @@ https://89.187.173.182/CNBC/mono.m3u8
 
 
 #EXTINF:-1,The_Witcher_s1_2019_TH_ep01
-https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep01_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDQ6MDEgUE0maGFzaF92YWx1ZT1OYkhvUk5vSWdwQU1YcDZtR2krY2tRPT0mdmFsaWRtaW51dGVzPTE=
+https://cdn-21.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep01_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDQ6MDEgUE0maGFzaF92YWx1ZT1OYkhvUk5vSWdwQU1YcDZtR2krY2tRPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1,The_Witcher_s1_2019_TH_ep02
-https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep02_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDM6MzkgUE0maGFzaF92YWx1ZT1lV2RISHM5K0JOSWM1MG9uTkhWMEZnPT0mdmFsaWRtaW51dGVzPTE=
+https://cdn-21.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep02_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDM6MzkgUE0maGFzaF92YWx1ZT1lV2RISHM5K0JOSWM1MG9uTkhWMEZnPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1,The_Witcher_s1_2019_TH_ep03
-https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep03_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDQ6MjkgUE0maGFzaF92YWx1ZT01SDRkS0FUd3ZsaUhkRmQzS1ZCYjNBPT0mdmFsaWRtaW51dGVzPTE=
+https://cdn-21.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep03_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDQ6MjkgUE0maGFzaF92YWx1ZT01SDRkS0FUd3ZsaUhkRmQzS1ZCYjNBPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1,The_Witcher_s1_2019_TH_ep04
-https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep04_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDQ6NDkgUE0maGFzaF92YWx1ZT1pcjhWZDk3Z0dhbGlIYTZ5QVRMVmhRPT0mdmFsaWRtaW51dGVzPTE=
+https://cdn-21.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep04_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDQ6NDkgUE0maGFzaF92YWx1ZT1pcjhWZDk3Z0dhbGlIYTZ5QVRMVmhRPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1,The_Witcher_s1_2019_TH_ep05
-https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep05_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDU6MjggUE0maGFzaF92YWx1ZT1NZ3F1R1JWYnhjcDZDMDVwdjhiYmlnPT0mdmFsaWRtaW51dGVzPTE=
+https://cdn-21.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep05_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDU6MjggUE0maGFzaF92YWx1ZT1NZ3F1R1JWYnhjcDZDMDVwdjhiYmlnPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1,The_Witcher_s1_2019_TH_ep06
-https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep06_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDU6NDIgUE0maGFzaF92YWx1ZT12TitUam1JaU1kMUpwcWZ5L2xMMkl3PT0mdmFsaWRtaW51dGVzPTE=
+https://cdn-21.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep06_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDU6NDIgUE0maGFzaF92YWx1ZT12TitUam1JaU1kMUpwcWZ5L2xMMkl3PT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1,The_Witcher_s1_2019_TH_ep07
-https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep07_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDU6NTUgUE0maGFzaF92YWx1ZT01Ry9mTUttUHBnK1BHZFI5TURYU1dnPT0mdmFsaWRtaW51dGVzPTE=
+https://cdn-21.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep07_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDU6NTUgUE0maGFzaF92YWx1ZT01Ry9mTUttUHBnK1BHZFI5TURYU1dnPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1,The_Witcher_s1_2019_TH_ep08
-https://cdn-3.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep08_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDY6MDggUE0maGFzaF92YWx1ZT1XdFhCQjdqR0xLSEJCTGEwVXQ2aDNnPT0mdmFsaWRtaW51dGVzPTE=
+https://cdn-21.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep08_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDY6MDggUE0maGFzaF92YWx1ZT1XdFhCQjdqR0xLSEJCTGEwVXQ2aDNnPT0mdmFsaWRtaW51dGVzPTE=
 
 
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/R9scoMRQvMqsDk9Xn9dIoJ8FeyBxBbL1583749926271.jpg",The Treacherous 2015
-https://cdn-3.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-33/The.Treacherous.2015.1080p.BDRip.TH-4K.mp4/playlist.m3u8
+https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-33/The.Treacherous.2015.1080p.BDRip.TH-4K.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/tLgbDMukWcunPiEbJg1eG27hW8oUsvyddd.png",Star Wars IX The Rise of Skywalker 2019
-https://cdn-3.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-28/Star.Wars.The.Rise.Of.Skywalker.2019.1080p.mp4/playlist.m3u8
+https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-28/Star.Wars.The.Rise.Of.Skywalker.2019.1080p.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/WsHIOWnBdYYunQEXfEAiBq5mGEwgIBnKnives-Out-Poster-Thai.jpg",Knives Out 2019
-https://cdn-3.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-27/Knives.out.2019.1080p.mp4/playlist.m3u8
+https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-27/Knives.out.2019.1080p.mp4/playlist.m3u8
 
 
 
