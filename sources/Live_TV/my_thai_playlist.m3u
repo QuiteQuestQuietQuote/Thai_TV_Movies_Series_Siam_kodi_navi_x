@@ -2878,32 +2878,48 @@ http://188.35.9.9:21121/udp/129i
 http://188.35.9.26:9031/udp/117m
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gsoilhg.jpg" group-title="XXX",JAV_Pandora_Pink_Pink_33152-----------
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33152
+#EXTINF:-1,JAV_33150-----------
+http://mu02.v2iptv.com:8880/test0011/test0011/33150
+#EXTINF:-1,JAV_33151
+http://mu02.v2iptv.com:8880/test0011/test0011/33151
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gsoilhg.jpg" group-title="XXX",JAV_Pandora_Pink_Pink_33152
+http://mu02.v2iptv.com:8880/test0011/test0011/33152
 #EXTINF:-1,JAV_Happy Ch_33153
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33153
+http://mu02.v2iptv.com:8880/test0011/test0011/33153
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1kB5Mk6.png" group-title="XXX",JAV_etv_33154
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33154
+http://mu02.v2iptv.com:8880/test0011/test0011/33154
 #EXTINF:-1,Pink_Shoe_33155
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33155
+http://mu02.v2iptv.com:8880/test0011/test0011/33155
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",JAV_SonSee2_33156
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33156
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v99U3JE.png" group-title="XXX",JAV_AmezingTV_33157
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33157.m3u8
+http://mu02.v2iptv.com:8880/test0011/test0011/33156
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v99U3JE.png" group-title="XXX",JAV_AmezingTV_33157---Pandora_Pink_Pink
+http://mu02.v2iptv.com:8880/test0011/test0011/33157.m3u8
 #EXTINF:-1,JAV_Film_33158
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33158
+http://mu02.v2iptv.com:8880/test0011/test0011/33158
 #EXTINF:-1,Pandora_Perfect_33159
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33159
+http://mu02.v2iptv.com:8880/test0011/test0011/33159
 #EXTINF:-1,SonSee TV3_33160------------
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33160
+http://mu02.v2iptv.com:8880/test0011/test0011/33160
 #EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",JAV_SonSee1 TV_33161
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33161
+http://mu02.v2iptv.com:8880/test0011/test0011/33161
+#EXTINF:-1,JAV_33162
+http://mu02.v2iptv.com:8880/test0011/test0011/33162
 
 
+#EXTINF:-1,VIP158:CZECH STREETS F --------------
+http://mu02.v2iptv.com:8880/test0011/test0011/60695
+#EXTINF:-1,VIP166:VIP:Russian 
+http://mu02.v2iptv.com:8880/test0011/test0011/60703
+#EXTINF:-1,VIP127:tushy 
+http://mu02.v2iptv.com:8880/test0011/test0011/60664
+#EXTINF:-1,VIP082:Blue Hustler
+http://mu02.v2iptv.com:8880/test0011/test0011/33110
+#EXTINF:-1,VIP060:Hot TV 
+http://mu02.v2iptv.com:8880/test0011/test0011/33132
+#EXTINF:-1,VIP098:White
+http://mu02.v2iptv.com:8880/test0011/test0011/33094
+#EXTINF:-1,VIP101:Secret Circle TV 
+http://mu02.v2iptv.com:8880/test0011/test0011/33091
 
 
 #EXTINF:-1,33154_v2iptv_LZLM1823-----------
@@ -2942,7 +2958,7 @@ http://mu02.v2iptv.com:8880/HJLM1399/gOQedvLAFg/33154
 http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/33154
 #EXTINF:-1,33154_v5iptv_YKNM147
 http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/33154
-#EXTINF:-1,33154_v2iptv_yw12m2n141-----------test
+#EXTINF:-1,33154_v2iptv_yw12m2n141
 http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/33154
 #EXTINF:-1,33154_v2iptv_HJLM1399
 http://mu02.v2iptv.com:8880/HJLM1399/gOQedvLAFg/33154
@@ -2950,19 +2966,20 @@ http://mu02.v2iptv.com:8880/HJLM1399/gOQedvLAFg/33154
 http://mu01.v5iptv.com:8880/JP12J006/123456/33154
 #EXTINF:-1,33154_amzlive---AN6M0721
 http://mu03.amzlive.net:8880/AN6M0721/VT2ko6YuO2/33154
-
-
-
-
-#EXTINF:-1,33154_v5iptv_ON
+#EXTINF:-1,33154_v5iptv---BL12MA000891853977
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/33154
+
+#EXTINF:-1,33154_v2iptv_ON-----------test
+http://mu02.v2iptv.com:8880/test0011/test0011/
+
+
 
 
 
 #EXTINF:-1,YU150:Da Vinci Learning
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/49176
+http://mu02.v2iptv.com:8880/test0011/test0011/49176
 #EXTINF:-1,US020:CNBC
-http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/3148
+http://mu02.v2iptv.com:8880/test0011/test0011/3148
 
 
 
@@ -3296,8 +3313,7 @@ http://ok2.se:8000/hX3SvoYlWb/V6mn3uImap/364
 
 
 
-#EXTINF:-1,RO | Da Vinci Learning------------------test
-http://adios.nnmax.nl:8888/Unty8QlUl3/EcluNb7Pmd/53518
+
 
 
 
@@ -3609,8 +3625,23 @@ https://livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 https://livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8
 
 
+#EXTINF:-1,RO | Da Vinci Learning------------------test
+http://adios.nnmax.nl:8888/Unty8QlUl3/EcluNb7Pmd/53518
 
-
+#EXTINF:-1,Asian Food Network------------------test-------------VN------------------fptplay
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Da Vinci
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Discovery
+http://tvhouse.xyz/fptplay.m3u8?channel=discovery
+#EXTINF:-1,Discovery Asia
+http://tvhouse.xyz/fptplay.m3u8?channel=discoveryasia
+#EXTINF:-1,BBC Earth
+http://tvhouse.xyz/fptplay.m3u8?channel=bbcearth
+#EXTINF:-1,BBC World News
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:-1,BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
 
 
@@ -3683,18 +3714,7 @@ http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-----------tracks-v1a1
 http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,WANZ
-http://ok2.se:80/5B0kLebtb1/Ne3PS6KiPL/6611
-#EXTINF:-1,IPZ
-http://ok2.se:80/6cfdF1UvJQxWBK0bp/6b23F1UsAw4nQLqCE/6610
-#EXTINF:-1,uncen1
-http://ok2.se:8000/2ef6F1UX1pvObDflN/6bb3F1UipM38mMKil/6612
-#EXTINF:-1,uncen2
-http://ok2.se:8000/e655F1UsWk6ywjwGi/0ce3F1UO0WtTHT1Gx/6613
-#EXTINF:-1,uncen3
-http://ok2.se:8000/c6ddF1U25j4T4kpLb/74eaF1UZv387ie80W/6614
-#EXTINF:-1,TOKYO HOT
-http://ok2.se:8000/29c7F1Ux9HqaPw0oy/a9b6F1UNO6aybg7V2/6572
+
 
 
 
@@ -3901,16 +3921,14 @@ http://ok2.se:8000/f4d5F1Us0eAoWG49g/a2d5F1UDNiEYFsQuv/364
 http://ok2.se:8000/a5f5F1U8Cckg8gGZ3/df54F1UNYPGrjxC4Z/364
 
 
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2---1
-http://ok2.se/6cfdF1UvJQxWBK0bp/6b23F1UsAw4nQLqCE/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2---2
-http://ok2.se/5B0kLebtb1/Ne3PS6KiPL/364
 
 
 
 
 
 
+#EXTINF:-1,CNBC_udp_viet------------------test
+http://113.22.131.193:4022/udp/225.1.1.227:30120
 #EXTINF:-1,CNBC_udp_viet
 http://42.113.208.14:1230/udp/225.1.1.227:30120
 #EXTINF:-1,CNBC_rtp_viet
@@ -3924,8 +3942,6 @@ http://14.244.192.215:4022/rtp/232.84.1.117:10254
 
 
 
-#EXTINF:-1,CNBC -----------
-http://1.221.108.146:9981/stream/channelid/1478487170
 
 
 
@@ -3937,33 +3953,32 @@ http://1.221.108.146:9981/stream/channelid/1478487170
 http://203.162.235.41:16919
 
 
-#EXTINF:-1,CNBC---UK
-http://178.159.5.210:1000/play/CNBC/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_HD
-https://89.187.173.182/CNBC/mono.m3u8
 
 
 
 
-#EXTINF:-1,The_Witcher_s1_2019_TH_ep01
-https://cdn-21.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep01_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDQ6MDEgUE0maGFzaF92YWx1ZT1OYkhvUk5vSWdwQU1YcDZtR2krY2tRPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1,The_Witcher_s1_2019_TH_ep02
-https://cdn-21.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep02_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDM6MzkgUE0maGFzaF92YWx1ZT1lV2RISHM5K0JOSWM1MG9uTkhWMEZnPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1,The_Witcher_s1_2019_TH_ep03
-https://cdn-21.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep03_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDQ6MjkgUE0maGFzaF92YWx1ZT01SDRkS0FUd3ZsaUhkRmQzS1ZCYjNBPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1,The_Witcher_s1_2019_TH_ep04
-https://cdn-21.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep04_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDQ6NDkgUE0maGFzaF92YWx1ZT1pcjhWZDk3Z0dhbGlIYTZ5QVRMVmhRPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1,The_Witcher_s1_2019_TH_ep05
-https://cdn-21.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep05_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDU6MjggUE0maGFzaF92YWx1ZT1NZ3F1R1JWYnhjcDZDMDVwdjhiYmlnPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1,The_Witcher_s1_2019_TH_ep06
-https://cdn-21.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep06_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDU6NDIgUE0maGFzaF92YWx1ZT12TitUam1JaU1kMUpwcWZ5L2xMMkl3PT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1,The_Witcher_s1_2019_TH_ep07
-https://cdn-21.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep07_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDU6NTUgUE0maGFzaF92YWx1ZT01Ry9mTUttUHBnK1BHZFI5TURYU1dnPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1,The_Witcher_s1_2019_TH_ep08
-https://cdn-21.vip-streaming.com:30443/dufree4k/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep08_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIwIDc6NDY6MDggUE0maGFzaF92YWx1ZT1XdFhCQjdqR0xLSEJCTGEwVXQ2aDNnPT0mdmFsaWRtaW51dGVzPTE=
+
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/AkjBRIWXOy6EMIdS6mcRGHAkQIFqNElthe-witcher.jpg",The_Witcher_s1_2019_TH_ep01---------
+https://cdn-21.vip-streaming.com:30443/webdoonung/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep01_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/AkjBRIWXOy6EMIdS6mcRGHAkQIFqNElthe-witcher.jpg",The_Witcher_s1_2019_TH_ep02
+https://cdn-21.vip-streaming.com:30443/webdoonung/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep02_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/AkjBRIWXOy6EMIdS6mcRGHAkQIFqNElthe-witcher.jpg",The_Witcher_s1_2019_TH_ep03
+https://cdn-21.vip-streaming.com:30443/webdoonung/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep03_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/AkjBRIWXOy6EMIdS6mcRGHAkQIFqNElthe-witcher.jpg",The_Witcher_s1_2019_TH_ep04
+https://cdn-21.vip-streaming.com:30443/webdoonung/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep04_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/AkjBRIWXOy6EMIdS6mcRGHAkQIFqNElthe-witcher.jpg",The_Witcher_s1_2019_TH_ep05
+https://cdn-21.vip-streaming.com:30443/webdoonung/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep05_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/AkjBRIWXOy6EMIdS6mcRGHAkQIFqNElthe-witcher.jpg",The_Witcher_s1_2019_TH_ep06
+https://cdn-21.vip-streaming.com:30443/webdoonung/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep06_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/AkjBRIWXOy6EMIdS6mcRGHAkQIFqNElthe-witcher.jpg",The_Witcher_s1_2019_TH_ep07
+https://cdn-21.vip-streaming.com:30443/webdoonung/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep07_1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/AkjBRIWXOy6EMIdS6mcRGHAkQIFqNElthe-witcher.jpg",The_Witcher_s1_2019_TH_ep08
+https://cdn-21.vip-streaming.com:30443/webdoonung/2-ssd/series2/The_Witcher_S1/The_Witcher_s1_2019_TH_ep08_1080p.mp4/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/R9scoMRQvMqsDk9Xn9dIoJ8FeyBxBbL1583749926271.jpg",The Treacherous 2015
+
+
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/R9scoMRQvMqsDk9Xn9dIoJ8FeyBxBbL1583749926271.jpg",The Treacherous 2015------------
 https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-33/The.Treacherous.2015.1080p.BDRip.TH-4K.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/tLgbDMukWcunPiEbJg1eG27hW8oUsvyddd.png",Star Wars IX The Rise of Skywalker 2019
 https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-28/Star.Wars.The.Rise.Of.Skywalker.2019.1080p.mp4/playlist.m3u8
@@ -3972,8 +3987,42 @@ https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-27/Knives.ou
 
 
 
-#EXTINF:-1,Kingdom_ss2_2020_TH_ep01
+
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/oio6GYeAgLbWueC6ZJ8Czm67MqDvbRkKingdom_2019_poster.jpg",Kingdom_ss1_2020_TH_ep01--------
+https://cdn-21.vip-streaming.com:30443/webdoonung/vod/series/Kingdom-2019-netflix/Kingdom%20%282019%29%20ep1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/oio6GYeAgLbWueC6ZJ8Czm67MqDvbRkKingdom_2019_poster.jpg",Kingdom_ss1_2020_TH_ep02
+https://cdn-21.vip-streaming.com:30443/webdoonung/vod/series/Kingdom-2019-netflix/Kingdom%20%282019%29%20ep2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/oio6GYeAgLbWueC6ZJ8Czm67MqDvbRkKingdom_2019_poster.jpg",Kingdom_ss1_2020_TH_ep03
+https://cdn-21.vip-streaming.com:30443/webdoonung/vod/series/Kingdom-2019-netflix/Kingdom%20%282019%29%20ep3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/oio6GYeAgLbWueC6ZJ8Czm67MqDvbRkKingdom_2019_poster.jpg",Kingdom_ss1_2020_TH_ep04
+https://cdn-21.vip-streaming.com:30443/webdoonung/vod/series/Kingdom-2019-netflix/Kingdom%20%282019%29%20ep4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/oio6GYeAgLbWueC6ZJ8Czm67MqDvbRkKingdom_2019_poster.jpg",Kingdom_ss1_2020_TH_ep05
+https://cdn-21.vip-streaming.com:30443/webdoonung/vod/series/Kingdom-2019-netflix/Kingdom%20%282019%29%20ep5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/oio6GYeAgLbWueC6ZJ8Czm67MqDvbRkKingdom_2019_poster.jpg",Kingdom_ss1_2020_TH_ep06
+https://cdn-21.vip-streaming.com:30443/webdoonung/vod/series/Kingdom-2019-netflix/Kingdom%20%282019%29%20ep6.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/a71gKWYWhAdg9Y7wDJ8OFfsWZ56YcYVKingdom_Season_2.jpg",Kingdom_ss2_2020_TH_ep01----------
 https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/series/kingdom-ss2-2020/Kingdom_ss2_2020_TH_ep01.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/a71gKWYWhAdg9Y7wDJ8OFfsWZ56YcYVKingdom_Season_2.jpg",Kingdom_ss2_2020_TH_ep02
+https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/series/kingdom-ss2-2020/Kingdom_ss2_2020_TH_ep02.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/a71gKWYWhAdg9Y7wDJ8OFfsWZ56YcYVKingdom_Season_2.jpg",Kingdom_ss2_2020_TH_ep03
+https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/series/kingdom-ss2-2020/Kingdom_ss2_2020_TH_ep03.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/a71gKWYWhAdg9Y7wDJ8OFfsWZ56YcYVKingdom_Season_2.jpg",Kingdom_ss2_2020_TH_ep04
+https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/series/kingdom-ss2-2020/Kingdom_ss2_2020_TH_ep04.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/a71gKWYWhAdg9Y7wDJ8OFfsWZ56YcYVKingdom_Season_2.jpg",Kingdom_ss2_2020_TH_ep05
+https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/series/kingdom-ss2-2020/Kingdom_ss2_2020_TH_ep05.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/a71gKWYWhAdg9Y7wDJ8OFfsWZ56YcYVKingdom_Season_2.jpg",Kingdom_ss2_2020_TH_ep06
+https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/series/kingdom-ss2-2020/Kingdom_ss2_2020_TH_ep06.mp4/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
