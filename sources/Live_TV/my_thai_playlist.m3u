@@ -2876,8 +2876,10 @@ http://188.35.9.10:21131/udp/142d
 http://188.35.9.11:21051/udp/071l
 #EXTINF:-1,Just89_/udp
 http://188.35.9.9:21121/udp/129i
-#EXTINF:-1,Brazzers TV Europa 
+#EXTINF:-1,Brazzers TV Europa _/udp
 http://188.35.9.26:9031/udp/117m
+#EXTINF:-1,PLAYBOY_/udp
+http://188.35.9.14:21101/udp/127h
 
 
 #EXTINF:-1,JAV_33150-----------
@@ -3151,14 +3153,42 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/33154
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/33153
 
 
-#EXTINF:-1,VIP030:(Pandora Perfect)---------------------test----------------------skynetmd
-http://tv.skynetmd.eu:25461/Corona/Virus/33159
 
 
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://img.iptvmate.net/dee077aa71a70ba8decb48e0431d1a03.png" tvg-country="INT" tvg-url="" group-title="XXX",Amazing TV
+https://ch.iptvmate.net/6e04e35a2508f6485f5ca4ab65be8ba0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 1
+https://ch.iptvmate.net/b8990b1047b5666d869c02837e4f7e37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 10
+https://ch.iptvmate.net/b8990b1047b5666d869c02837e4f7e37.m3u80
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 2
+https://ch.iptvmate.net/e82a5a1947fb32abb8e187b40b01c860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 3
+https://ch.iptvmate.net/222ae43843d2fb3612d6d8c6592c8c0b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 4
+https://ch.iptvmate.net/15a304f1ceae781b3ee040fdfdbd945a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 5
+https://ch.iptvmate.net/e570d1755b0ea14d2261d6db6f5d5c8e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 6
+https://ch.iptvmate.net/0f85bf8dc04e849d333c487a946a87a4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 7
+https://ch.iptvmate.net/3d168bc638a680be0be3c970a988f771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 8
+https://ch.iptvmate.net/5b5c6e67f494f38d591703b8b4136535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 9
+https://ch.iptvmate.net/1b299cdf003c4d75036581c5ec174edd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://img.iptvmate.net/b3502ccd039f01fb4dbcb9b807c96808.png" tvg-country="KR" tvg-url="" group-title="XXX",Korean Adult TV
+https://ch.iptvmate.net/4ca232be9aa88f88745c3849db8b77e1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://img.iptvmate.net/55218609e19ff390edf20aa7b3e602f7.png" tvg-country="KR" tvg-url="" group-title="XXX",Midnight TV
+https://ch.iptvmate.net/7c4f3d8f5a4a94bc56a514b5d440f9fa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://img.iptvmate.net/ffb72f071903314da90c7779ee11f73a.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Pandora Pink HD
+https://ch.iptvmate.net/ccc0788ca52312f43d7ad9ca8f11de7e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://img.iptvmate.net/bf04e27709877326224b6255dea7d63e.png" tvg-country="INT" tvg-url="" group-title="XXX",Rainbow TV
+https://ch.iptvmate.net/3c7cf9ed71b7c5aefc616a6faa10f136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://img.iptvmate.net/ab686e59e440063c7f2b9745a1d1d9db.png" tvg-country="INT" tvg-url="" group-title="XXX",SonSee 1
+https://ch.iptvmate.net/a7e14c5e5e2258d61d97d707d341c818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://img.iptvmate.net/73ec5f17b5b80d29cb1d785cc93d9c1f.png" tvg-country="INT" tvg-url="" group-title="XXX",SonSee 2
+https://ch.iptvmate.net/61e7385255cca4faa5722bf1c270497a.m3u8
 
 
 
@@ -3313,12 +3343,15 @@ http://ok2.se:8000/3107F1UgCJsZy6pRy/963dF1UKFsuEoKizn/364
 http://ok2.se:8000/e7b7F1UQCHbO2UBpS/16a0F1URzwWvx8r6Z/364
 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test45-----test
-http://ok2.se:8000/tommy1/tommy1/364
+http://ok2.se:8000/739dF1UK0l44ltt38/66abF1U7EUaGxV6Cw/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test46
-http://ok2.se/6cfdF1UvJQxWBK0bp/6b23F1UsAw4nQLqCE/364
+http://ok2.se:8000/b4cfF1U32aSaKVNxJ/ 7f66F1UVXBXhEqZXR/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test47
-http://ok2.se/5B0kLebtb1/Ne3PS6KiPL/364
-
+http://ok2.se:8000/HAJySSTkBF/ynAvZ6D42j/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test48
+http://ok2.se:8000/42fcF1UqEUDW8rlcq/4302F1UcJaekpVM0x/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test49
+http://ok2.se:8000/OoPLUjklBA/mVGkUxFYTE/364
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT--------------
@@ -3630,12 +3663,8 @@ https://livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8
 https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 #EXTINF:-1,Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/playlist.m3u8
-#EXTINF:-1,Discovery
-http://tvhouse.xyz/fptplay.m3u8?channel=discovery
-#EXTINF:-1,Discovery Asia
-http://tvhouse.xyz/fptplay.m3u8?channel=discoveryasia
-#EXTINF:-1,BBC Earth
-http://tvhouse.xyz/fptplay.m3u8?channel=bbcearth
+#EXTINF:-1,Da Vinci--------test-------VN------fptplay---token
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8?token=
 #EXTINF:-1,BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/playlist.m3u8
 #EXTINF:-1,BBC Lifestyle
@@ -3712,12 +3741,13 @@ http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-----------tracks-v1a1
 http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Blue Hustler 
+http://178.217.72.66/225.201.2.61/tracks-v1a1/mono.m3u8
 
 
 
 
 
----------------------
 
 
 #EXTINF:-1,Babes-----fr01
