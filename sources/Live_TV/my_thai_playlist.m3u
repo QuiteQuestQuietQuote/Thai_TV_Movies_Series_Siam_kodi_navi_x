@@ -3134,7 +3134,7 @@ rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 
 
 
-#EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",VIP029:(Sonsee 3)----------test
+#EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",VIP029:(Sonsee 3)----skynets------test
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/33160
 #EXTINF:-1,VIP030:(Pandora Perfect)
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/33159
@@ -3151,13 +3151,17 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/33154
 #EXTINF:-1,VIP039:HAPPY
 http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/33153
 
+#EXTINF:-1,VIP039:HAPPY---skynetmd
+http://tv.skynetmd.eu:25461/Corona/Virus/33153
+
+
 
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1------------------
 https://58.99.80.49:441/free/Stream1/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2
 https://58.99.80.49:441/free/Stream2/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://img.iptvmate.net/dee077aa71a70ba8decb48e0431d1a03.png" tvg-country="INT" tvg-url="" group-title="XXX",Amazing TV
+#EXTINF:-1 tvg-logo="https://img.iptvmate.net/dee077aa71a70ba8decb48e0431d1a03.png" tvg-country="INT" tvg-url="" group-title="XXX",Amazing TV-----------ch.iptvmate
 https://ch.iptvmate.net/6e04e35a2508f6485f5ca4ab65be8ba0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 1
 https://ch.iptvmate.net/b8990b1047b5666d869c02837e4f7e37.m3u8
@@ -3179,11 +3183,11 @@ https://ch.iptvmate.net/3d168bc638a680be0be3c970a988f771.m3u8
 https://ch.iptvmate.net/5b5c6e67f494f38d591703b8b4136535.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 9
 https://ch.iptvmate.net/1b299cdf003c4d75036581c5ec174edd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://img.iptvmate.net/b3502ccd039f01fb4dbcb9b807c96808.png" tvg-country="KR" tvg-url="" group-title="XXX",Korean Adult TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.iptvmate.net/b3502ccd039f01fb4dbcb9b807c96808.png" tvg-country="KR" tvg-url="" group-title="XXX",Korean Adult TV
 https://ch.iptvmate.net/4ca232be9aa88f88745c3849db8b77e1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://img.iptvmate.net/55218609e19ff390edf20aa7b3e602f7.png" tvg-country="KR" tvg-url="" group-title="XXX",Midnight TV
 https://ch.iptvmate.net/7c4f3d8f5a4a94bc56a514b5d440f9fa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://img.iptvmate.net/ffb72f071903314da90c7779ee11f73a.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Pandora Pink HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.iptvmate.net/ffb72f071903314da90c7779ee11f73a.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Pandora Pink HD
 https://ch.iptvmate.net/ccc0788ca52312f43d7ad9ca8f11de7e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://img.iptvmate.net/bf04e27709877326224b6255dea7d63e.png" tvg-country="INT" tvg-url="" group-title="XXX",Rainbow TV
 https://ch.iptvmate.net/3c7cf9ed71b7c5aefc616a6faa10f136.m3u8
@@ -3334,13 +3338,11 @@ http://ok2.se:8000/e88dF1UPnw0Ike0Rd/f34cF1UUhlsJQDhrc/364
 http://ok2.se:8000/c6cfF1URYftZWKFUR/256fF1UyWJT8sMZ2n/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test42
 http://ok2.se:8000/hX3SvoYlWb/V6mn3uImap/364
-
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test43---test---null
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test43
 http://ok2.se:8000/3107F1UgCJsZy6pRy/963dF1UKFsuEoKizn/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test44
 http://ok2.se:8000/e7b7F1UQCHbO2UBpS/16a0F1URzwWvx8r6Z/364
-
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test45-----test
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test45
 http://ok2.se:8000/739dF1UK0l44ltt38/66abF1U7EUaGxV6Cw/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test46
 http://ok2.se:8000/b4cfF1U32aSaKVNxJ/ 7f66F1UVXBXhEqZXR/364
@@ -3350,7 +3352,6 @@ http://ok2.se:8000/HAJySSTkBF/ynAvZ6D42j/364
 http://ok2.se:8000/42fcF1UqEUDW8rlcq/4302F1UcJaekpVM0x/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test49
 http://ok2.se:8000/OoPLUjklBA/mVGkUxFYTE/364
-
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test50
 http://ok2.se:8000/6c86F1UmssR8gaHZN/7e5dF1UkoBJXApKkP/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test51
@@ -3369,6 +3370,9 @@ http://ok2.se:8000/5f13F1Un4K4alg7X5/b952F1UP2wTcvuOZi/364
 http://ok2.se:8000/g1f00F1UEohbvHQxqo/81c4F1U6KydfBnhAt/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test58
 http://ok2.se:8000/1702F1U4lAkoyeZzt/52a6F1UuUEym4EGnP/364
+
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test59---test
+http://ok2.se:8000/Jeff5/Jeff5/364
 
 
 
@@ -3661,7 +3665,7 @@ https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-history2_720/index.m3u8
 
 
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg",MYSCI HD
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg",MYSCI HD-------------livedoomovies
 https://livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",samrujlok
 https://livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
@@ -3682,7 +3686,7 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 #EXTINF:-1,Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/playlist.m3u8
 #EXTINF:-1,Da Vinci--------test-------VN------fptplay---token
-https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8?token=
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8?token=test
 #EXTINF:-1,BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/playlist.m3u8
 #EXTINF:-1,BBC Lifestyle
@@ -3764,7 +3768,57 @@ http://178.217.72.66/225.201.2.61/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1,1xxx------test
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8365
+#EXTINF:-1,2
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8366
+#EXTINF:-1,3
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8367
+#EXTINF:-1,4
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8368
+#EXTINF:-1,5
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8369
+#EXTINF:-1,6
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8370
+#EXTINF:-1,7
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8371
+#EXTINF:-1,8
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8373
+#EXTINF:-1,9
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8374
+#EXTINF:-1,10
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8375
+#EXTINF:-1,11
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8376
+#EXTINF:-1,12
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8377
+#EXTINF:-1,13
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8378
+#EXTINF:-1,14
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8379
+#EXTINF:-1,15
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8380
+#EXTINF:-1,16
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8381
+#EXTINF:-1,17
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8382
+#EXTINF:-1,18
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8383
+#EXTINF:-1,19
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8384
+#EXTINF:-1,20
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8385
+#EXTINF:-1,21
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8386
+#EXTINF:-1,22
+http://195.181.161.119:25461/r3KDt0X1bb/t6jwAmeW7y/8387
 
+#EXTINF:-1,Discovery Sci HD----------------
+http://213.136.94.143:80/fHLKm4jpDE/AKRzCXedhq/149057
+#EXTINF:-1,Discovery Sci FHD
+http://213.136.94.143:80/fHLKm4jpDE/AKRzCXedhq/149056
+#EXTINF:-1,Discovery Sci SD
+http://213.136.94.143:80/fHLKm4jpDE/AKRzCXedhq/149058
 
 
 
@@ -3860,8 +3914,6 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="Learning",CGTN Documentary
 http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png",CGTN_HD
-http://111.0.27.31/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",Channel News Asia
@@ -3882,10 +3934,7 @@ http://164.40.161.46:8002/play/s4
 http://61.58.60.230:9319/live/129.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews English
 http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews-------------------test---dailymotion
-https://stream-01.sg1.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa76I1cw2nleDTmMsLvDlNMk)/dm/3/x2j4h4m/s/live-3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews-------------------test---github
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews----github
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/UdNEhUe.jpg" group-title="",Reuters
@@ -3987,7 +4036,18 @@ http://14.244.192.215:4022/rtp/232.84.1.117:10254
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DBJTZaS.png" group-title="24/7 YOUTUBE ENGLISH",Al Jazeera----YOUTUBE
+https://www.youtube.com/watch?v=WisZM9CMlTo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 YOUTUBE ENGLISH",DW News
+https://www.youtube.com/watch?v=NvqKZHpKs-g
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 YOUTUBE ENGLISH",Euronews
+https://www.youtube.com/watch?v=F-uW_IswLh8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 YOUTUBE ENGLISH",France 24
+https://www.youtube.com/watch?v=6N0lbZr_wXs
+#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 YOUTUBE ENGLISH",RT
+https://www.youtube.com/watch?v=NvCSr7qzAAM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="24/7 YOUTUBE ENGLISH",Sky News
+https://www.youtube.com/watch?v=9Auq9mYxFEE
 
 
 
