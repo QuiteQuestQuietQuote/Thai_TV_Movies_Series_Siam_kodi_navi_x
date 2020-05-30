@@ -24,12 +24,12 @@ http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
 http://news1.live14.com/stream/news1_hi.m3u8
 
 
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_3bb
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24----------3bb
 http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.stream/playlist.m3u8?username=casG36MryQIqyL7YVdbV5pQcyEmeExUE&password=elV2iHMkaNPQgU5afVkrKm3QyYpbsqqu
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_3bb
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=MLxINNx6sSPr3kzjMswNKKFvhhFaZm6z&password=q81NuMVTAgdBrC34J8HYxDvcnXuSk5Ry
 
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv---------/livedoomovies
 https://livedoomovies.com/02_NEW_480p/chunklist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24
 https://livedoomovies.com/02_TNN24_480p/chunklist.m3u8
@@ -37,7 +37,7 @@ https://livedoomovies.com/02_TNN24_480p/chunklist.m3u8
 https://livedoomovies.com/02_GMM_720p/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv---dailymotion
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv----------dailymotion
 https://stream-04.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54-SpLaObpUM_93A8N505woU)/dm/3/x7kx5i7/s/live-3.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25---dailymotion
 https://stream-04.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_bzCcyF9qAvAXQDNMIbyX6w)/dm/3/x6rz4t7/s/live-3.m3u8
@@ -56,7 +56,8 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza63_amarintvh
 #EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD_3BB-------------------
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/Studio_PPTV_live1.stream/playlist.m3u8?username=qVs10IlM9cI6WnfWZOltqffZhhgBR0Y4&password=606c7yqtWBMZ8oyNg8CzpuropwziGVUx
 
-
+#EXTINF:-1,tgntv
+https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-4vRZu2SiRSw/WdLYqkUFFlI/AAAAAAAAAF0/aTTW-yIICXYQPSy6u_J7l0oiPnBh2TqVwCLcBGAs/s200/002.png",5 FULLHD
 http://160.119.77.50/iptv/hd-ch5.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/400px-Thairath_TV32.png" group-title="Thailand",Thairath720
@@ -3172,41 +3173,6 @@ https://58.99.80.49:441/free/Stream1/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2
 https://58.99.80.49:441/free/Stream2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.iptvmate.net/dee077aa71a70ba8decb48e0431d1a03.png" tvg-country="INT" tvg-url="" group-title="XXX",Amazing TV-----------ch.iptvmate
-https://ch.iptvmate.net/6e04e35a2508f6485f5ca4ab65be8ba0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 1
-https://ch.iptvmate.net/b8990b1047b5666d869c02837e4f7e37.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 10
-https://ch.iptvmate.net/b8990b1047b5666d869c02837e4f7e37.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 2
-https://ch.iptvmate.net/e82a5a1947fb32abb8e187b40b01c860.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 3
-https://ch.iptvmate.net/222ae43843d2fb3612d6d8c6592c8c0b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 4
-https://ch.iptvmate.net/15a304f1ceae781b3ee040fdfdbd945a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 5
-https://ch.iptvmate.net/e570d1755b0ea14d2261d6db6f5d5c8e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 6
-https://ch.iptvmate.net/0f85bf8dc04e849d333c487a946a87a4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 7
-https://ch.iptvmate.net/3d168bc638a680be0be3c970a988f771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 8
-https://ch.iptvmate.net/5b5c6e67f494f38d591703b8b4136535.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://img.iptvmate.net/215021663b538cb438a4e489a4b0a39d.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 9
-https://ch.iptvmate.net/1b299cdf003c4d75036581c5ec174edd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.iptvmate.net/b3502ccd039f01fb4dbcb9b807c96808.png" tvg-country="KR" tvg-url="" group-title="XXX",Korean Adult TV
-https://ch.iptvmate.net/4ca232be9aa88f88745c3849db8b77e1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://img.iptvmate.net/55218609e19ff390edf20aa7b3e602f7.png" tvg-country="KR" tvg-url="" group-title="XXX",Midnight TV
-https://ch.iptvmate.net/7c4f3d8f5a4a94bc56a514b5d440f9fa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.iptvmate.net/ffb72f071903314da90c7779ee11f73a.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Pandora Pink HD
-https://ch.iptvmate.net/ccc0788ca52312f43d7ad9ca8f11de7e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://img.iptvmate.net/bf04e27709877326224b6255dea7d63e.png" tvg-country="INT" tvg-url="" group-title="XXX",Rainbow TV
-https://ch.iptvmate.net/3c7cf9ed71b7c5aefc616a6faa10f136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://img.iptvmate.net/ab686e59e440063c7f2b9745a1d1d9db.png" tvg-country="INT" tvg-url="" group-title="XXX",SonSee 1
-https://ch.iptvmate.net/a7e14c5e5e2258d61d97d707d341c818.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://img.iptvmate.net/73ec5f17b5b80d29cb1d785cc93d9c1f.png" tvg-country="INT" tvg-url="" group-title="XXX",SonSee 2
-https://ch.iptvmate.net/61e7385255cca4faa5722bf1c270497a.m3u8
-
 
 
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_dvr1---------
@@ -3706,6 +3672,19 @@ https://livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8
 #EXTINF:-1,|RO| DA VINCI LEARNING------------test
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/66871
 
+#EXTINF:-1,Da Vinci Learning------------test
+http://IP:8001/1:0:1:120:12:1C:1860000:0:0:0:
+#EXTINF:-1,Da Vinci Learning---RU
+http://178.65.65.107:81/play/a002
+#EXTINF:-1,Da Vinci Learning 
+http://95.28.97.61:1234/udp/233.33.220.187:5050
+
+#EXTINF:-1,Asian Food Network------------------test------------useetv
+https://cdnkbl2.useetv.com/joss/15/afc/chunklist_w1806772519_b1344100_sleng_.m3u8
+#EXTINF:-1,Asian Food Network------------indo
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="Khusus Indihome",Asian Food Channel
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
+
 #EXTINF:-1,Asian Food Network------------------test-------------VN------------------fptplay
 http://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 #EXTINF:-1,Da Vinci
@@ -3751,7 +3730,6 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discoveryscience.jpg",Science Channel_india___test
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
-
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth_sony
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth---BGD
@@ -3924,6 +3902,10 @@ https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
 http://flusrv1.artmotion.net/unicast.bbcworld/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News_HD
+http://178.217.72.66/225.201.2.156/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BBC News
+http://51.52.156.22:8888/http/004
 
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_HD-------------
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
@@ -4021,8 +4003,10 @@ http://203.162.235.41:16919
 
 #EXTINF:-1,UK:CNBCEurope
 http://195.181.164.137:25461/mag00:1A:79:5C:F3:8C/58nBviutKr/18024
-
-
+#EXTINF:0 tvg-logo="https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif" group-title="Khusus Indihome",CNBC International
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/YDsgbyisWWU/maxresdefault.jpg" group-title="Khusus Indihome",BBC World News
+http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
 
 
 
