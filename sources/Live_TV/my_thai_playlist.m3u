@@ -3092,10 +3092,10 @@ http://122.38.74.172:9981/stream/channelid/816085039
 
 
 
-#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_streamlock.net--------------------------
-https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_streamlock.net
-https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream2/playlist.m3u8
+#EXTINF:-1,Ibiza TV1_streamlock.net------------------
+https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream1/playlist.m3u8
+#EXTINF:-1,Ibiza TV2_streamlock.net
+https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream2/playlist.m3u8
 
 
 #EXTINF:-1,X_Cafe_bang------------cut
@@ -3144,7 +3144,10 @@ http://104.250.154.42:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
 rtmp://0-direct555-axd-2-xx.pinhuicard.com:1935/live/999888
 
 
-
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1------------------
+https://58.99.80.49:441/free/Stream1/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2
+https://58.99.80.49:441/free/Stream2/chunks.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",VIP029:(Sonsee 3)----skynets------test
@@ -3168,10 +3171,7 @@ http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/33153
 
 
 
-#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1------------------
-https://58.99.80.49:441/free/Stream1/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2
-https://58.99.80.49:441/free/Stream2/chunks.m3u8
+
 
 
 
@@ -3192,10 +3192,10 @@ http://ibiza-tv.1919hdtv.com:8880/lfh/Stream1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_VIP
 http://ibiza-tv.1919hdtv.com:8880/lfh/Stream2/playlist.m3u8
 
-#EXTINF:-1,Ibiza TV1_streamlock.net---
-https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream1/playlist.m3u8
-#EXTINF:-1,Ibiza TV2_streamlock.net
-https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream2/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_streamlock.net--------------------------
+https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV2_streamlock.net
+https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV---Stream8---test---streamlock
 https://5a27dfae614e0.streamlock.net/live/_definst_/Stream8/chunklist_w310858236.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNy8yMDIwIDg6MzQ6MDEgUE0maGFzaF92YWx1ZT1oNU0rbytYTmhUeGlQdFhMckVEdXhnPT0mdmFsaWRtaW51dGVzPTMmaWQ9MTU5MDYxMTY0MQ%3D%3D
 
@@ -3359,10 +3359,16 @@ http://ok2.se:8000/1702F1U4lAkoyeZzt/52a6F1UuUEym4EGnP/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test59---test
 http://ok2.se:8000/Jeff5/Jeff5/364
 
-
-
-
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test60
+http://ok2.se:8000/8644F1U4T6z4F9fjk/9afaF1UotvmUeWVP0/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test61
+http://ok2.se:8000/8fb6F1U5wjbKshNQ7/7777F1Ut16ABoVB9p/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test62
+http://ok2.se:8000/DwwSUXZCVD/daMyn3ivrc/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test63
+http://ok2.se:8000/MoQdLBUPTY/LqXgNyvdy1/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test64
+http://ok2.se:8000/hprz8caxTl/J6KdjPXmiD/364
 
 
 
@@ -3549,8 +3555,7 @@ https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="Learning",Discovery Science--------india-----test
-http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia-------CN
 http://111.13.111.192/125.227.198.89:8028
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="DOCUMENTARY",Discovery Asia
@@ -3626,9 +3631,12 @@ https://tv4.chang55.com:446/live2/tv4ch19.stream/chunks.m3u8
 
 
 
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,AFN------newhostshare
-http://newhostshare.ddns.net:9981/stream/channelid/828651963
 
+
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="Learning",Discovery Science--------india-----test
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,MAL: ASIAN FOOD CHANNEL ---macan
+https://delivery.macan.live/stream/id_afc/index.m3u8?token=uLys6&v=20200308
 
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth-----------------TH--------------160.119.77.50
 http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
@@ -3678,13 +3686,12 @@ https://cdnkbl2.useetv.com/joss/15/afc/chunklist_w1806772519_b1344100_sleng_.m3u
 #EXTINF:-1,Asian Food Network------------indo
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="Khusus Indihome",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-#EXTINF:-1,MAL: ASIAN FOOD CHANNEL ---macan
-https://delivery.macan.live/stream/id_afc/index.m3u8?token=uLys6&v=20200308
+
 
 #EXTINF:-1,Asian Food Network------------------test-------------VN------------------fptplay
 http://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 #EXTINF:-1,Da Vinci
-http://livecdn.fptplay.net/world/davincihd_hls.smil/playlist.m3u8
+https://livecdn.fptplay.net/world/davincihd_hls.smil/playlist.m3u8
 #EXTINF:-1,BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/playlist.m3u8
 #EXTINF:-1,BBC Lifestyle
