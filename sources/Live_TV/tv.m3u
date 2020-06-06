@@ -1218,6 +1218,10 @@ https://delivery.macan.live/stream/id_afc/index.m3u8?token=uLys6&v=20200308
 http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
 http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ir/200604061559.jpg",NAT PEOPLE HD
+http://160.119.77.50/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ie/200604061100.png",NAT GEO HD
+http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8
 #EXTINF:-1,Blue Ant Entertainment HD
 http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
 
@@ -1269,20 +1273,44 @@ http://203.154.243.89:1205
 #EXTINF:-1,TH Universal
 http://203.154.243.89:1029
 
-#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ii/180703075348.jpg",Movie CH1
+
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/iu/200604091620.jpg",Live SKY1--------------
+http://27.254.149.109:8081/tumlive/ipmskyworldhd1.stream/playlist.m3u8
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ih/200604091743.jpg",Live SKY2
+http://27.254.149.109:8081/tumlive/ipmskyworldhd2.stream/playlist.m3u8
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ie/200604091806.jpg",Live SKY3
+http://27.254.149.109:8081/tumlive/ipmskyworldhd3.stream/playlist.m3u8
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/id/200604091828.jpg",Live SKY4
+http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/playlist.m3u8
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ii/180703075348.jpg",Movie HD1
 http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
-#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/if/180703080244.jpg",Movie CH2
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/if/180703080244.jpg",Movie HD2
 http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
-#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/iz/180703075241.jpg",Movie CH3
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/iz/180703075241.jpg",Movie HD3
 http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/iy/180723045313.jpg",upmovie
 http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
-#EXTINF:-1 group-title="movies" tvg-logo="http://html.login.in.th/flashstreaming/img/ch8.jpg",channel8thailand
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/io/200530043232.jpg",UP! Movie
+http://27.254.149.109:8081/tumlive/upmovie.stream/playlist.m3u8
+#EXTINF:-1 group-title="movies" tvg-logo="http://html.login.in.th/flashstreaming/img/ch8.jpg",Channel8Thailand
 https://54c241893bf39.streamlock.net/ch8/ch8/playlist.m3u8
-#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ii/180630033425.jpg",movie24_rtmp
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ii/180630033425.jpg",Movie24_rtmp
 rtmp://tv01.thaizatv.com/drm/movie1
 #EXTINF:-1,movie1
 http://tv01.thaizatv.com:1935/drm/movie1/playlist.m3u8
+
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ig/200528061617.jpg",HBO HD------------
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ia/200528062232.jpg",HBO HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ie/200528062343.jpg",HBO SIG
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ip/200528062433.jpg",HBO FAMILY
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/io/200528062517.jpg",HBO RED
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ip/200529062321.png",CineMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 
 
