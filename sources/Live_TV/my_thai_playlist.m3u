@@ -68,36 +68,37 @@ http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 
 
+
 #EXTINF:-1,DLTV1--------------
-https://dltv-live-edge.catcdn.cloud/dltv01_720p.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
 #EXTINF:-1,DLTV2
-https://dltv-live-edge.catcdn.cloud/dltv02_720p.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
 #EXTINF:-1,DLTV3
-https://dltv-live-edge.catcdn.cloud/dltv03_720p.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
 #EXTINF:-1,DLTV4
-https://dltv-live-edge.catcdn.cloud/dltv04_720p.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
 #EXTINF:-1,DLTV5
-https://dltv-live-edge.catcdn.cloud/dltv05_720p.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
 #EXTINF:-1,DLTV6
-https://dltv-live-edge.catcdn.cloud/dltv06_720p.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
 #EXTINF:-1,DLTV7
-https://dltv-live-edge.catcdn.cloud/dltv07_720p.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
 #EXTINF:-1,DLTV8
-https://dltv-live-edge.catcdn.cloud/dltv08_720p.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
 #EXTINF:-1,DLTV9
-https://dltv-live-edge.catcdn.cloud/dltv09_720p.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
 #EXTINF:-1,DLTV10
-https://dltv-live-edge.catcdn.cloud/dltv10_720p.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
 #EXTINF:-1,DLTV11
-https://dltv-live-edge.catcdn.cloud/dltv11_720p.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
 #EXTINF:-1,DLTV12
-https://dltv-live-edge.catcdn.cloud/dltv12_720p.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
 #EXTINF:-1,DLTV13
-https://dltv-live-edge.catcdn.cloud/dltv13_720p.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
 #EXTINF:-1,DLTV14
-https://dltv-live-edge.catcdn.cloud/dltv14_720p.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
 #EXTINF:-1,DLTV15
-https://dltv-live-edge.catcdn.cloud/dltv15_720p.m3u8
+https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 
 
@@ -2322,31 +2323,31 @@ http://ok2.se:8000/f4d5F1Us0eAoWG49g/a2d5F1UDNiEYFsQuv/9049
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
-http://14.186.191.35:4022/rtp/232.84.2.129:9570
+http://14.172.151.203:8889/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://14.186.191.35:4022/rtp/232.84.2.131:9582
+http://14.172.151.203:8889/rtp/232.84.2.131:9582
 #EXTINF:-1,DISCOVERY ASIA
-http://14.186.191.35:4022/rtp/232.84.2.53:10528
+http://14.172.151.203:8889/rtp/232.84.2.53:10528
 #EXTINF:-1,DISCOVERY CHANNEL
-http://14.186.191.35:4022/rtp/232.84.1.47:8262
+http://14.172.151.203:8889/rtp/232.84.1.47:8262
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://14.186.191.35:4022/rtp/232.84.1.65:8364
+http://14.172.151.203:8889/rtp/232.84.1.65:8364
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://14.186.191.35:4022/rtp/232.84.1.1:7980
+http://14.172.151.203:8889/rtp/232.84.1.1:7980
 #EXTINF:-1,NAT GEO PEOPLE
-http://14.186.191.35:4022/rtp/232.84.1.67:8376
+http://14.172.151.203:8889/rtp/232.84.1.67:8376
 #EXTINF:-1,NAT GEO PEOPLE HD
-http://14.186.191.35:4022/rtp/232.84.1.76:8430
+http://14.172.151.203:8889/rtp/232.84.1.76:8430
 #EXTINF:-1,ASIAN FOOD CHANNEL
-http://14.186.191.35:4022/rtp/232.84.1.115:10236
+http://14.172.151.203:8889/rtp/232.84.1.115:10236
 #EXTINF:-1,Da Vinci Learning
-http://14.186.191.35:4022/rtp/232.84.1.108:10224
+http://14.172.151.203:8889/rtp/232.84.1.108:10224
 #EXTINF:-1,Nat Geo People
-http://14.186.191.35:4022/rtp/232.84.2.121:8376
+http://14.172.151.203:8889/rtp/232.84.2.121:8376
 #EXTINF:-1,DISNEY CHANNEL HD
-http://14.186.191.35:4022/rtp/232.84.2.143:10678
+http://14.172.151.203:8889/rtp/232.84.2.143:10678
 #EXTINF:-1,CNBC
-http://14.186.191.35:4022/rtp/232.84.2.177:10488
+http://14.172.151.203:8889/rtp/232.84.2.177:10488
 
 
 
@@ -3390,11 +3391,11 @@ http://42.114.210.39:4022/udp/225.1.1.198:30120
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
-http://14.186.191.35:4022/rtp/232.84.2.129:9570
+http://14.172.151.203:8889/rtp/232.84.2.129:9570
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
-http://14.186.191.35:4022/rtp/232.84.2.131:9582
+http://14.172.151.203:8889/rtp/232.84.2.131:9582
 #EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",DISCOVERY ASIA_VN_rtp
-http://14.186.191.35:4022/rtp/232.84.2.53:10528
+http://14.172.151.203:8889/rtp/232.84.2.53:10528
 
 
 
@@ -3644,8 +3645,7 @@ https://tv4.chang55.com:446/live2/tv4ch19.stream/chunks.m3u8
 
 
 
-#EXTINF:-1,PL:DaVinciLearning------------test
-http://mahs.work:80/ziQY6ohYEv/y7a3z8ubGK/27273
+
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="Learning",Discovery Science--------india-----test
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
@@ -3788,8 +3788,7 @@ http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Blue Hustler 
 http://178.217.72.66/225.201.2.61/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,GirlsWay----ontarget
-http://live.ontarget.live:8080/Amanda1/Amanda1/83543
+
 
 
 
@@ -4011,12 +4010,12 @@ http://ok2.se:8000/a5f5F1U8Cckg8gGZ3/df54F1UNYPGrjxC4Z/364
 #EXTINF:-1,CNBC_udp_viet
 http://42.114.210.39:4022/udp/225.1.1.227:30120
 #EXTINF:-1,CNBC_rtp_viet
-http://14.186.191.35:4022/rtp/232.84.2.177:10488
+http://14.172.151.203:8889/rtp/232.84.2.177:10488
 
 #EXTINF:-1,VTV1 HD_udp
 http://42.114.210.39:4022/udp/225.1.2.249:30120
 #EXTINF:-1,VTV1 HD (HD 8Mbps)_rtp
-http://14.186.191.35:4022/rtp/232.84.1.117:10254
+http://14.172.151.203:8889/rtp/232.84.1.117:10254
 
 
 
