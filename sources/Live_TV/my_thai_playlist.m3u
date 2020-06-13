@@ -13,7 +13,7 @@
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS_1080p
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV
-http://171.6.78.229:1027
+https://edge3a.v2h-cdn.com/INFO_T1/Nation.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV---dailymotion
 https://stream-01.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSRce87kL6vMw-v4wISAXSTU)/dm/3/x6eoldf/d/live-1.m3u8
 #EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD
@@ -29,8 +29,8 @@ http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.st
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_3bb
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=MLxINNx6sSPr3kzjMswNKKFvhhFaZm6z&password=q81NuMVTAgdBrC34J8HYxDvcnXuSk5Ry
 
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv---------/livedoomovies
-https://livedoomovies.com/02_NEW_480p/chunklist.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv--------edge3a
+https://edge3a.v2h-cdn.com/INFO_T1/NEW.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24
 https://livedoomovies.com/02_TNN24_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="http://image.free.in.th/v/2013/in/200528071606.png",gmm25
@@ -3306,24 +3306,22 @@ https://58.99.80.49:441/free/Stream2/chunks.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",VIP029:(Sonsee 3)----skynets------test
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/33160
+http://a2.skynets.tv:8880/2zyc12m0248/5mfI2iF01j/33160
 #EXTINF:-1,VIP030:(Pandora Perfect)
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/33159
+http://a2.skynets.tv:8880/2zyc12m0248/5mfI2iF01j/33159
 #EXTINF:-1,VIP031:(Rainbow M)
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/33158
+http://a2.skynets.tv:8880/2zyc12m0248/5mfI2iF01j/33158
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gsoilhg.jpg" group-title="XXX",VIP032:(Pandora Pink)
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/33157
+http://a2.skynets.tv:8880/2zyc12m0248/5mfI2iF01j/33157
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",VIP035:(Sonsee 2)
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/33156
+http://a2.skynets.tv:8880/2zyc12m0248/5mfI2iF01j/33156
 #EXTINF:-1,VIP037:(Rainbow K)
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/33155
+http://a2.skynets.tv:8880/2zyc12m0248/5mfI2iF01j/33155
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1kB5Mk6.png" group-title="XXX",VIP038:(Rainbow E)
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/33154
+http://a2.skynets.tv:8880/2zyc12m0248/5mfI2iF01j/33154
 #EXTINF:-1,VIP039:HAPPY
-http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/33153
+http://a2.skynets.tv:8880/2zyc12m0248/5mfI2iF01j/33153
 
-#EXTINF:-1,VIP039:HAPPY-----------test
-http://tv.skynetmd.eu:25461/Corona/Virus/33153
 
 
 
@@ -3427,6 +3425,27 @@ http://ok2.se:8000/3f45F1ULqXhEeCHRz/3b85F1U1PwPptzCtm/364
 http://ok2.se:8000/K3I8rInL14/MbzfUldzAt/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test15
 http://ok2.se:8000/Jeff5/Jeff5/364
+
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test1-----------
+http://bye.ok3.se/D4I7cUsJ9q/977fc5fbd2a38f56788dbfa8ecbbc532/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test2
+http://bye.ok3.se/PDjN6KADUt/125753e4119e943604786704d54d5699/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test3
+http://bye.ok3.se/jMah0uUqnO/0f172febb4fe7fbb7c72e61831afefcc/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test4
+http://bye.ok3.se/Oq6NoUFgiX/de3f2db1511410f785d7947f3ccf0c57/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test5
+http://bye.ok3.se/Ubzr4QkdNk/84da7c0b8905ddb1a19b9d6b7c37050e/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test6
+http://bye.ok3.se/9MNT0w18pz/77090237e88b98e1149281c55b158259/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test7
+http://bye.ok3.se/a1HG9ynSEo/301333b2c066619e700b6700b98115c5/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test8
+http://bye.ok3.se/qLECYxUMPc/24221ab04b4428db3932d9aada03016a/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test9
+http://bye.ok3.se/gkAiBSPwVw/4ad8b1c52613308c845140cfea09f4c1/364
+
+
 
 
 
@@ -3703,8 +3722,8 @@ http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,MAL: ASIAN FOOD CHANNEL ---macan
 https://delivery.macan.live/stream/id_afc/index.m3u8?token=uLys6&v=20200308
 
-#EXTINF:-1,Da Vinci Learning
-http://195.181.161.111:80/HDbYWvS7xE/4MbD219fq7/584
+#EXTINF:-1,RU: DA VINCI LEARNING
+http://144.91.80.153:25461/LzL04VEx8e/9AqpEVxjub/16281
 
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth-----------------TH--------------160.119.77.50
 http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
@@ -4074,7 +4093,8 @@ http://14.172.151.203:8889/rtp/232.84.1.117:10254
 
 
 
-
+#EXTINF:-1,US | CNBC---------test
+http://207.38.89.242:8080/live/17722/17722/14553.ts
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_VN
 http://203.162.235.41:16919
