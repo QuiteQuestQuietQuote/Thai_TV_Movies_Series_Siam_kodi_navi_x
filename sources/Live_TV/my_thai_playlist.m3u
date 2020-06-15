@@ -32,7 +32,7 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_liv
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv--------edge3a
 https://edge3a.v2h-cdn.com/INFO_T1/NEW.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24
-https://livedoomovies.com/02_TNN24_480p/chunklist.m3u8
+http://160.119.77.50/iptv/sd-tnn24.stream/playlist.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="http://image.free.in.th/v/2013/in/200528071606.png",gmm25
 https://livedoomovies.com/02_GMM_720p/chunklist.m3u8
 
@@ -541,449 +541,6 @@ http://newhostshare.ddns.net:9981/stream/channelid/1164847519
 
 
 
-
-#EXTINF:-1,Channel INFO----------------asia------------tvku
-http://tvku.live:8888/donal/donal/1
-#EXTINF:-1,Server ID: NET HD
-http://tvku.live:8888/donal/donal/3579
-#EXTINF:-1,Server ID: Trans 7
-http://tvku.live:8888/donal/donal/3583
-#EXTINF:-1,Server ID: Trans TV
-http://tvku.live:8888/donal/donal/3584
-#EXTINF:-1,Server ID: ANTV
-http://tvku.live:8888/donal/donal/3588
-#EXTINF:-1,Server ID: SCTV
-http://tvku.live:8888/donal/donal/3593
-#EXTINF:-1,Server ID: Indosiar
-http://tvku.live:8888/donal/donal/4839
-#EXTINF:-1,Server ID: TV One
-http://tvku.live:8888/donal/donal/3587
-#EXTINF:-1,Server ID: Metro TV
-http://tvku.live:8888/donal/donal/3589
-#EXTINF:-1,Server ID: Kompas TV
-http://tvku.live:8888/donal/donal/3590
-#EXTINF:-1,Server ID: Berita Satu
-http://tvku.live:8888/donal/donal/3578
-#EXTINF:-1,Server ID: TVRI
-http://tvku.live:8888/donal/donal/3594
-#EXTINF:-1,Server ID: Rajawali TV
-http://tvku.live:8888/donal/donal/3591
-#EXTINF:-1,Server ID: Rodja
-http://tvku.live:8888/donal/donal/3592
-#EXTINF:-1,Server ID: K Drama
-http://tvku.live:8888/donal/donal/3595
-#EXTINF:-1,Server ID: Sinema Indonesia
-http://tvku.live:8888/donal/donal/3596
-#EXTINF:-1,Server ID: O Channel
-http://tvku.live:8888/donal/donal/3597
-#EXTINF:-1,Server ID: Jak TV
-http://tvku.live:8888/donal/donal/3598
-#EXTINF:-1,Server ID: DAAI TV
-http://tvku.live:8888/donal/donal/3599
-#EXTINF:-1,Server ID: JTV
-http://tvku.live:8888/donal/donal/3600
-#EXTINF:-1,Server ID: CNA
-http://tvku.live:8888/donal/donal/3580
-#EXTINF:-1,Server ID: Da Vinci Kids
-http://tvku.live:8888/donal/donal/3577
-#EXTINF:-1,Server ID: BBC World News
-http://tvku.live:8888/donal/donal/3585
-#EXTINF:-1,Server ID: France 24
-http://tvku.live:8888/donal/donal/3586
-#EXTINF:-1,Server ID: Spacetoon
-http://tvku.live:8888/donal/donal/3603
-#EXTINF:-1,Server ID: Arirang
-http://tvku.live:8888/donal/donal/3604
-#EXTINF:-1,Server ID: XingXong
-http://tvku.live:8888/donal/donal/3605
-#EXTINF:-1,Server ID: Aljazeera
-http://tvku.live:8888/donal/donal/3606
-#EXTINF:-1,Server ID: Bloomberg
-http://tvku.live:8888/donal/donal/3607
-#EXTINF:-1,Server ID: RT
-http://tvku.live:8888/donal/donal/3608
-#EXTINF:-1,Server ID: MY TV
-http://tvku.live:8888/donal/donal/3610
-#EXTINF:-1,Server ID: Disney Channel
-http://tvku.live:8888/donal/donal/3613
-#EXTINF:-1,Server ID: Disney Junior
-http://tvku.live:8888/donal/donal/3614
-#EXTINF:-1,Server ID: Animal Planet HD
-http://tvku.live:8888/donal/donal/3615
-#EXTINF:-1,Server ID: Animal Planet FHD
-http://tvku.live:8888/donal/donal/3616
-#EXTINF:-1,Server ID: Discovery Channel HD
-http://tvku.live:8888/donal/donal/3617
-#EXTINF:-1,Server ID: Discovery Channel FHD
-http://tvku.live:8888/donal/donal/3618
-#EXTINF:-1,Server ID: Nat Geo FHD
-http://tvku.live:8888/donal/donal/13690
-#EXTINF:-1,Server ID: Nat Geo Wild FHD
-http://tvku.live:8888/donal/donal/13717
-#EXTINF:-1,Server ID: Nat Geo People FHD
-http://tvku.live:8888/donal/donal/13718
-#EXTINF:-1,Server ID: Nat Geo People HD
-http://tvku.live:8888/donal/donal/3619
-#EXTINF:-1,Server ID: Nat Geo Wild HD
-http://tvku.live:8888/donal/donal/3620
-#EXTINF:-1,Server ID: Nat Geo HD
-http://tvku.live:8888/donal/donal/3621
-#EXTINF:-1,Server ID: Disc Asia HD
-http://tvku.live:8888/donal/donal/3622
-#EXTINF:-1,Server ID: BBC Lifestyle HD
-http://tvku.live:8888/donal/donal/3623
-#EXTINF:-1,Server ID: Channel V HD
-http://tvku.live:8888/donal/donal/3624
-#EXTINF:-1,Server ID: Waku Waku Japan HD
-http://tvku.live:8888/donal/donal/14166
-#EXTINF:-1,Server ID: TLC HD
-http://tvku.live:8888/donal/donal/3626
-#EXTINF:-1,Server ID: AFC HD
-http://tvku.live:8888/donal/donal/3627
-#EXTINF:-1,Server ID: HGTV HD
-http://tvku.live:8888/donal/donal/3628
-#EXTINF:-1,Server ID: Animax HD
-http://tvku.live:8888/donal/donal/3630
-#EXTINF:-1,Server ID: AXN HD
-http://tvku.live:8888/donal/donal/3631
-#EXTINF:-1,Server ID: S GEM HD
-http://tvku.live:8888/donal/donal/3632
-#EXTINF:-1,Server ID: FOX HD
-http://tvku.live:8888/donal/donal/3633
-#EXTINF:-1,Server ID: FOX FHD
-http://tvku.live:8888/donal/donal/3634
-#EXTINF:-1,Server ID: FOX Life HD
-http://tvku.live:8888/donal/donal/3635
-#EXTINF:-1,Server ID: FOX Life FHD
-http://tvku.live:8888/donal/donal/3636
-#EXTINF:-1,Server ID: FOX Crime HD
-http://tvku.live:8888/donal/donal/3637
-#EXTINF:-1,Server ID: FOX Crime FHD
-http://tvku.live:8888/donal/donal/3638
-#EXTINF:-1,Server ID: FOX Movies HD
-http://tvku.live:8888/donal/donal/3639
-#EXTINF:-1,Server ID: FOX Movies FHD
-http://tvku.live:8888/donal/donal/3640
-#EXTINF:-1,Server ID: FOX Action HD
-http://tvku.live:8888/donal/donal/3641
-#EXTINF:-1,Server ID: FOX Action FHD
-http://tvku.live:8888/donal/donal/3642
-#EXTINF:-1,Server ID: FOX Family Movies HD
-http://tvku.live:8888/donal/donal/3643
-#EXTINF:-1,Server ID: FOX Family Movies FHD
-http://tvku.live:8888/donal/donal/3644
-#EXTINF:-1,Server ID: FX HD
-http://tvku.live:8888/donal/donal/3645
-#EXTINF:-1,Server ID: FX FHD
-http://tvku.live:8888/donal/donal/3646
-#EXTINF:-1,Server ID: HBO HD
-http://tvku.live:8888/donal/donal/4828
-#EXTINF:-1,Server ID: HBO Hits HD
-http://tvku.live:8888/donal/donal/4829
-#EXTINF:-1,Server ID: HBO Family HD
-http://tvku.live:8888/donal/donal/4830
-#EXTINF:-1,Server ID: HBO Signature HD
-http://tvku.live:8888/donal/donal/4831
-#EXTINF:-1,Red By HBO HD
-http://tvku.live:8888/donal/donal/4832
-#EXTINF:-1,Server ID: Cinemax HD
-http://tvku.live:8888/donal/donal/4833
-#EXTINF:-1,Server ID: Sony ONE HD
-http://tvku.live:8888/donal/donal/3647
-#EXTINF:-1,NET TV
-http://tvku.live:8888/donal/donal/24
-#EXTINF:-1,NET TV FHD
-http://tvku.live:8888/donal/donal/78
-#EXTINF:-1,Trans TV
-http://tvku.live:8888/donal/donal/34
-#EXTINF:-1,Trans TV FHD
-http://tvku.live:8888/donal/donal/929
-#EXTINF:-1,Trans 7
-http://tvku.live:8888/donal/donal/35
-#EXTINF:-1,Trans 7 FHD
-http://tvku.live:8888/donal/donal/930
-#EXTINF:-1,SCTV
-http://tvku.live:8888/donal/donal/32
-#EXTINF:-1,SCTV HD
-http://tvku.live:8888/donal/donal/931
-#EXTINF:-1,Indosiar
-http://tvku.live:8888/donal/donal/1845
-#EXTINF:-1,Indosiar HD
-http://tvku.live:8888/donal/donal/33
-#EXTINF:-1,O Channel
-http://tvku.live:8888/donal/donal/1727
-#EXTINF:-1,ANTV
-http://tvku.live:8888/donal/donal/31
-#EXTINF:-1,Channel News Asia
-http://tvku.live:8888/donal/donal/1191
-#EXTINF:-1,CNBC Indonesia
-http://tvku.live:8888/donal/donal/1512
-#EXTINF:-1,CNN Indonesia
-http://tvku.live:8888/donal/donal/44
-#EXTINF:-1,CNN Int
-http://tvku.live:8888/donal/donal/1200
-#EXTINF:-1,Berita Satu News
-http://tvku.live:8888/donal/donal/136
-#EXTINF:-1,DW TV Asia
-http://tvku.live:8888/donal/donal/205
-#EXTINF:-1,TV ONE
-http://tvku.live:8888/donal/donal/29
-#EXTINF:-1,Kompas TV
-http://tvku.live:8888/donal/donal/30
-#EXTINF:-1,Metro TV HD
-http://tvku.live:8888/donal/donal/1697
-#EXTINF:-1,Metro TV
-http://tvku.live:8888/donal/donal/52
-#EXTINF:-1,Insert
-http://tvku.live:8888/donal/donal/1763
-#EXTINF:-1,Bloomberg TV Asia
-http://tvku.live:8888/donal/donal/137
-#EXTINF:-1,Rajawali TV
-http://tvku.live:8888/donal/donal/37
-#EXTINF:-1,Spacetoon
-http://tvku.live:8888/donal/donal/1541
-#EXTINF:-1,Baby First
-http://tvku.live:8888/donal/donal/1204
-#EXTINF:-1,Dunia Anak
-http://tvku.live:8888/donal/donal/907
-#EXTINF:-1,Toonmax
-http://tvku.live:8888/donal/donal/1116
-#EXTINF:-1,Disney XD
-http://tvku.live:8888/donal/donal/104
-#EXTINF:-1,Disney UK
-http://tvku.live:8888/donal/donal/2336
-#EXTINF:-1,Duck TV
-http://tvku.live:8888/donal/donal/1854
-#EXTINF:-1,Nick Toons
-http://tvku.live:8888/donal/donal/335
-#EXTINF:-1,Nickelodeon ID
-http://tvku.live:8888/donal/donal/962
-#EXTINF:-1,Nick Jr ID
-http://tvku.live:8888/donal/donal/522
-#EXTINF:-1,Disney Channel
-http://tvku.live:8888/donal/donal/306
-#EXTINF:-1,Disney Channel ID
-http://tvku.live:8888/donal/donal/3479
-#EXTINF:-1,Cartoon Network ID HD
-http://tvku.live:8888/donal/donal/680
-#EXTINF:-1,Boomerang
-http://tvku.live:8888/donal/donal/305
-#EXTINF:-1,Baby TV
-http://tvku.live:8888/donal/donal/296
-#EXTINF:-1,Nick Jr 2
-http://tvku.live:8888/donal/donal/341
-#EXTINF:-1,Disney Junior
-http://tvku.live:8888/donal/donal/213
-#EXTINF:-1,U Channel
-http://tvku.live:8888/donal/donal/1208
-#EXTINF:-1,Jak TV
-http://tvku.live:8888/donal/donal/1210
-#EXTINF:-1,DAAI TV
-http://tvku.live:8888/donal/donal/21
-#EXTINF:-1,TV Mu
-http://tvku.live:8888/donal/donal/1726
-#EXTINF:-1,Makkah TV
-http://tvku.live:8888/donal/donal/297
-#EXTINF:-1,Madina TV
-http://tvku.live:8888/donal/donal/912
-#EXTINF:-1,Bali TV
-http://tvku.live:8888/donal/donal/889
-#EXTINF:-1,T Music
-http://tvku.live:8888/donal/donal/905
-#EXTINF:-1,TAWAF TV
-http://tvku.live:8888/donal/donal/14997
-#EXTINF:-1,Rodja TV
-http://tvku.live:8888/donal/donal/843
-#EXTINF:-1,JTV
-http://tvku.live:8888/donal/donal/135
-#EXTINF:-1,Dunia Lain
-http://tvku.live:8888/donal/donal/910
-#EXTINF:-1,Bioskop Indonesia
-http://tvku.live:8888/donal/donal/908
-#EXTINF:-1,HITS FHD
-http://tvku.live:8888/donal/donal/1195
-#EXTINF:-1,Hits Movie FHD
-http://tvku.live:8888/donal/donal/957
-#EXTINF:-1,Cinema World
-http://tvku.live:8888/donal/donal/1194
-#EXTINF:-1,Star Chinese Movies Legend
-http://tvku.live:8888/donal/donal/1859
-#EXTINF:-1,CCM
-http://tvku.live:8888/donal/donal/2118
-#EXTINF:-1,FOX Movies HD
-http://tvku.live:8888/donal/donal/98
-#EXTINF:-1,FOX Movies HD Backup
-http://tvku.live:8888/donal/donal/978
-#EXTINF:-1,FOX Movies FHD
-http://tvku.live:8888/donal/donal/1205
-#EXTINF:-1,FOX Action Movies HD
-http://tvku.live:8888/donal/donal/99
-#EXTINF:-1,FOX Action Movies HD Backup
-http://tvku.live:8888/donal/donal/979
-#EXTINF:-1,FOX Action Movies FHD
-http://tvku.live:8888/donal/donal/1478
-#EXTINF:-1,FOX Action Movies SD
-http://tvku.live:8888/donal/donal/1125
-#EXTINF:-1,FOX Family Movies ID
-http://tvku.live:8888/donal/donal/14994
-#EXTINF:-1,FOX Family Movies EN
-http://tvku.live:8888/donal/donal/1493
-#EXTINF:-1,FOX Crime HD
-http://tvku.live:8888/donal/donal/763
-#EXTINF:-1,IMC
-http://tvku.live:8888/donal/donal/1483
-#EXTINF:-1,FOX Crime FHD
-http://tvku.live:8888/donal/donal/3334
-#EXTINF:-1,FOX Crime SD
-http://tvku.live:8888/donal/donal/2257
-#EXTINF:-1,Galaxy SD
-http://tvku.live:8888/donal/donal/29604
-#EXTINF:-1,Galaxy Premium SD
-http://tvku.live:8888/donal/donal/29603
-#EXTINF:-1,FLIK HD
-http://tvku.live:8888/donal/donal/29592
-#EXTINF:-1,Smithsonian Channel
-http://tvku.live:8888/donal/donal/14103
-#EXTINF:-1,Zoo Moo FHD
-http://tvku.live:8888/donal/donal/14104
-#EXTINF:-1,Love Nature 4K
-http://tvku.live:8888/donal/donal/14105
-#EXTINF:-1,National Geographic Wild HD
-http://tvku.live:8888/donal/donal/97
-#EXTINF:-1,FOX Life HD
-http://tvku.live:8888/donal/donal/94
-#EXTINF:-1,FOX HD
-http://tvku.live:8888/donal/donal/95
-#EXTINF:-1,FX HD
-http://tvku.live:8888/donal/donal/776
-#EXTINF:-1,HBO HD
-http://tvku.live:8888/donal/donal/210
-#EXTINF:-1,HBO FHD
-http://tvku.live:8888/donal/donal/1496
-#EXTINF:-1,HBO Hits HD
-http://tvku.live:8888/donal/donal/591
-#EXTINF:-1,HBO Hits FHD
-http://tvku.live:8888/donal/donal/11492
-#EXTINF:-1,HBO Family HD
-http://tvku.live:8888/donal/donal/592
-#EXTINF:-1,HBO Signature HD
-http://tvku.live:8888/donal/donal/873
-#EXTINF:-1,HBO Signature FHD
-http://tvku.live:8888/donal/donal/1498
-#EXTINF:-1,Cinemax ID
-http://tvku.live:8888/donal/donal/2156
-#EXTINF:-1,HBO SD
-http://tvku.live:8888/donal/donal/26595
-#EXTINF:-1,HBO Hits SD
-http://tvku.live:8888/donal/donal/26596
-#EXTINF:-1,HBO Signature SD
-http://tvku.live:8888/donal/donal/26597
-#EXTINF:-1,HBO Family SD
-http://tvku.live:8888/donal/donal/26598
-#EXTINF:-1,Cinemax SD
-http://tvku.live:8888/donal/donal/26599
-#EXTINF:-1,LifeTime FHD
-http://tvku.live:8888/donal/donal/866
-#EXTINF:-1,Warner TV ID HD
-http://tvku.live:8888/donal/donal/1533
-#EXTINF:-1,Star Chinese Movies HD
-http://tvku.live:8888/donal/donal/780
-#EXTINF:-1,Blue Ant Extreme FHD
-http://tvku.live:8888/donal/donal/811
-#EXTINF:-1,Waku Waku Japan HD
-http://tvku.live:8888/donal/donal/717
-#EXTINF:-1,HGTV
-http://tvku.live:8888/donal/donal/537
-#EXTINF:-1,AFC HD
-http://tvku.live:8888/donal/donal/807
-#EXTINF:-1,tVN Movies
-http://tvku.live:8888/donal/donal/927
-#EXTINF:-1,National Geographic Channel HD
-http://tvku.live:8888/donal/donal/96
-#EXTINF:-1,National Geographic Channel SD
-http://tvku.live:8888/donal/donal/1504
-#EXTINF:-1,National Geographic People
-http://tvku.live:8888/donal/donal/455
-#EXTINF:-1,National Geographic Channel Backup
-http://tvku.live:8888/donal/donal/1445
-#EXTINF:-1,National Geographic Wild Backup
-http://tvku.live:8888/donal/donal/1446
-#EXTINF:-1,National Geographic People Backup
-http://tvku.live:8888/donal/donal/1447
-#EXTINF:-1,History HD
-http://tvku.live:8888/donal/donal/718
-#EXTINF:-1,History FHD
-http://tvku.live:8888/donal/donal/8131
-#EXTINF:-1,Animal Planet HD
-http://tvku.live:8888/donal/donal/358
-#EXTINF:-1,Discovery Channel HD
-http://tvku.live:8888/donal/donal/165
-#EXTINF:-1,Discovery Asia
-http://tvku.live:8888/donal/donal/779
-#EXTINF:-1,Discovery Science HD
-http://tvku.live:8888/donal/donal/408
-#EXTINF:-1,Discovery Shed
-http://tvku.live:8888/donal/donal/333
-#EXTINF:-1,Discovery Turbo
-http://tvku.live:8888/donal/donal/462
-#EXTINF:-1,Crime Investigation
-http://tvku.live:8888/donal/donal/332
-#EXTINF:-1,IN: Zing TV
-http://tvku.live:8888/donal/donal/813
-#EXTINF:-1,Fashion TV
-http://tvku.live:8888/donal/donal/280
-#EXTINF:-1,Sony ONE
-http://tvku.live:8888/donal/donal/19
-#EXTINF:-1,Aljazeera EN
-http://tvku.live:8888/donal/donal/89
-#EXTINF:-1,Tennis Channel
-http://tvku.live:8888/donal/donal/482
-#EXTINF:-1,DMAX
-http://tvku.live:8888/donal/donal/483
-#EXTINF:-1,K Drama
-http://tvku.live:8888/donal/donal/1699
-#EXTINF:-1,K Plus
-http://tvku.live:8888/donal/donal/18
-#EXTINF:-1,Star World
-http://tvku.live:8888/donal/donal/381
-#EXTINF:-1,BBC Earth
-http://tvku.live:8888/donal/donal/385
-#EXTINF:-1,IN: Sony Max HD
-http://tvku.live:8888/donal/donal/180
-#EXTINF:-1,Zee Bioskop
-http://tvku.live:8888/donal/donal/7
-#EXTINF:-1,Thrill
-http://tvku.live:8888/donal/donal/4
-#EXTINF:-1,KIX
-http://tvku.live:8888/donal/donal/8
-#EXTINF:-1,Celestial Movies
-http://tvku.live:8888/donal/donal/5
-#EXTINF:-1,AXN
-http://tvku.live:8888/donal/donal/9
-#EXTINF:-1,Aniplus
-http://tvku.live:8888/donal/donal/2
-#EXTINF:-1,Animax
-http://tvku.live:8888/donal/donal/3
-#EXTINF:-1,Channel V Int
-http://tvku.live:8888/donal/donal/766
-#EXTINF:-1,KBS World
-http://tvku.live:8888/donal/donal/15057
-#EXTINF:-1,S GEM HD
-http://tvku.live:8888/donal/donal/770
-#EXTINF:-1,TVN ID
-http://tvku.live:8888/donal/donal/767
-#EXTINF:-1,Bloomberg
-http://tvku.live:8888/donal/donal/788
-#EXTINF:-1,France 24
-http://tvku.live:8888/donal/donal/787
-#EXTINF:-1,NHK World Japan
-http://tvku.live:8888/donal/donal/785
-#EXTINF:-1,TV 5 Monde Asie
-http://tvku.live:8888/donal/donal/786
-#EXTINF:-1,BBC World News HD
-http://tvku.live:8888/donal/donal/789
-#EXTINF:-1,CBeebies
-http://tvku.live:8888/donal/donal/491
 
 
 
@@ -3426,24 +2983,7 @@ http://ok2.se:8000/K3I8rInL14/MbzfUldzAt/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test15
 http://ok2.se:8000/Jeff5/Jeff5/364
 
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test1-----------
-http://bye.ok3.se/D4I7cUsJ9q/977fc5fbd2a38f56788dbfa8ecbbc532/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test2
-http://bye.ok3.se/PDjN6KADUt/125753e4119e943604786704d54d5699/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test3
-http://bye.ok3.se/jMah0uUqnO/0f172febb4fe7fbb7c72e61831afefcc/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test4
-http://bye.ok3.se/Oq6NoUFgiX/de3f2db1511410f785d7947f3ccf0c57/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test5
-http://bye.ok3.se/Ubzr4QkdNk/84da7c0b8905ddb1a19b9d6b7c37050e/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test6
-http://bye.ok3.se/9MNT0w18pz/77090237e88b98e1149281c55b158259/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test7
-http://bye.ok3.se/a1HG9ynSEo/301333b2c066619e700b6700b98115c5/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test8
-http://bye.ok3.se/qLECYxUMPc/24221ab04b4428db3932d9aada03016a/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_bye.ok3_test9
-http://bye.ok3.se/gkAiBSPwVw/4ad8b1c52613308c845140cfea09f4c1/364
+
 
 
 
@@ -3642,42 +3182,67 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia-------CN
 http://111.13.111.192/125.227.198.89:8028
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="DOCUMENTARY",Discovery Asia
-http://111.13.111.192/125.227.198.89:8028
 
 
 
 
 
-#EXTINF:-1,Server ID: Da Vinci Kids-----------------------restream2-------------test
-http://tvku.live:8888/restream2/restream2/3577
-#EXTINF:-1,Server ID: Da Vinci Kids-------------asia---donal
-http://tvku.live:8888/donal/donal/3577
-#EXTINF:-1,Server ID: AFC HD
-http://tvku.live:8888/donal/donal/3627
-#EXTINF:-1,AFC HD
-http://tvku.live:8888/donal/donal/807
+#EXTINF:-1,Server ID: Da Vinci Kids----------forsat------test
+http://forsat.men:8888/merpatistream/merpati99/3577
+#EXTINF:-1,MY CNBC
+http://forsat.men:8888/merpatistream/merpati99/4288
 #EXTINF:-1,Server ID: BBC World News
-http://tvku.live:8888/donal/donal/3585
+http://forsat.men:8888/merpatistream/merpati99/3585
+#EXTINF:-1,MY BBC WORLD NEWS HD
+http://forsat.men:8888/merpatistream/merpati99/4361
 #EXTINF:-1,BBC World News HD
-http://tvku.live:8888/donal/donal/789
-#EXTINF:-1,CNBC Indonesia
-http://tvku.live:8888/donal/donal/1512
-#EXTINF:-1,Server ID: Discovery Channel FHD
-http://tvku.live:8888/donal/donal/3618
-#EXTINF:-1,Server ID: Disc Asia HD
-http://tvku.live:8888/donal/donal/3622
+http://forsat.men:8888/merpatistream/merpati99/789
+#EXTINF:-1,ID do servidor: Disc Asia HD
+http://forsat.men:8888/merpatistream/merpati99/3622
+#EXTINF:-1,Discovery Asia
+http://forsat.men:8888/merpatistream/merpati99/779
+#EXTINF:-1,MY Discovery Asia
+http://forsat.men:8888/merpatistream/merpati99/4293
+#EXTINF:-1,Discovery Science HD
+http://forsat.men:8888/merpatistream/merpati99/408
+#EXTINF:-1,MY Discovery Science HD
+http://forsat.men:8888/merpatistream/merpati99/4292
 #EXTINF:-1,Server ID: BBC Lifestyle HD
-http://tvku.live:8888/donal/donal/3623
+http://forsat.men:8888/merpatistream/merpati99/3623
 #EXTINF:-1,BBC Earth
-http://tvku.live:8888/donal/donal/385
+http://forsat.men:8888/merpatistream/merpati99/385
+#EXTINF:-1,Server ID: TLC HD
+http://forsat.men:8888/merpatistream/merpati99/3626
 #EXTINF:-1,Server ID: HGTV HD
-http://tvku.live:8888/donal/donal/3628
-#EXTINF:-1,Server ID: Nat Geo FHD
-http://tvku.live:8888/donal/donal/13690
-#EXTINF:-1,Server ID: Nat Geo People FHD
-http://tvku.live:8888/donal/donal/13718
+http://forsat.men:8888/merpatistream/merpati99/3628
+#EXTINF:-1,HGTV
+http://forsat.men:8888/merpatistream/merpati99/537
+#EXTINF:-1,Server ID: AFC HD
+http://forsat.men:8888/merpatistream/merpati99/3627
+#EXTINF:-1,AFC HD
+http://forsat.men:8888/merpatistream/merpati99/807
+#EXTINF:-1,MY AFC HD
+http://forsat.men:8888/merpatistream/merpati99/4258
+#EXTINF:-1,MY Food Network HD
+http://forsat.men:8888/merpatistream/merpati99/4303
+#EXTINF:-1,Smithsonian Channel
+http://forsat.men:8888/merpatistream/merpati99/14103
 
+
+#EXTINF:-1,DaVinci-RU------------eocdo
+http://89.106.234.4:80/DaVinci_34_35.m3u8
+#EXTINF:-1,Asia Food Network
+http://185.93.2.35:12012/live/359111068247FFA1/MPWOsuAFOtOWF0EbcbiHd0YdVYqFbMkSxUtVrftKP-MZn8nvfE1A031QE38lDJcm/03DC29C076F247E9/919996.ts
+#EXTINF:-1,Discovery Asia
+http://185.93.2.35:12012/live/359111068247FFA1/CNcv2pqS0BwUC_Q1gUDvOUIubt0R5I-Tvta_hXWmX1Gb_SWY2tR3xQuKW2aR7wrP/675E9DF285B14D57/803391.ts
+#EXTINF:-1,BBC Earth
+http://185.93.2.35:12012/live/359111068247FFA1/VpWmRqFVfLAZo-QYtkIfIfuLah83ga_4I9cW7nTFjVjQs_SfTW9GJsE85Q6zRuh/8B1BF877340042A1/75441.ts
+#EXTINF:-1,BBC Lifestyle
+http://185.93.2.35:12012/live/359111068247FFA1/iEA-RPF1AfCgWKDRftOwckUPP5EWaFZoQDTpicxqVkC0vKPuXm6-vXR1E1jLgwJG/7485E1247D964CCA/873047.ts
+#EXTINF:-1,CNBC
+http://185.93.2.35:12012/live/359111068247FFA1/_gnzvT8195iyYrNH_qAgd16qWU4kOq52oHryC_JKstxAhANxYH9NKN1DF5QA0kkB/8C43A6CD29EC4A50/473462.ts
+#EXTINF:-1,BBC
+http://185.93.2.35:12012/live/359111068247FFA1/y0U3YArEHn1GU4rGWOjHTfI5PQtPB4Ssbouv2XvA6BpljD-V8UiJJvQbGnI4XmEb/A285396723054D82/499647.ts
 
 
 #EXTINF:-1,BBC WORLD NEWS--------------newhostshare
@@ -3722,8 +3287,7 @@ http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,MAL: ASIAN FOOD CHANNEL ---macan
 https://delivery.macan.live/stream/id_afc/index.m3u8?token=uLys6&v=20200308
 
-#EXTINF:-1,RU: DA VINCI LEARNING
-http://144.91.80.153:25461/LzL04VEx8e/9AqpEVxjub/16281
+
 
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth-----------------TH--------------160.119.77.50
 http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
@@ -3772,11 +3336,9 @@ https://livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1,Asian Food Network------------------test------------useetv
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="Khusus Indihome",Asian Food Network------test------------useetv
 https://cdnkbl2.useetv.com/joss/15/afc/chunklist_w1806772519_b1344100_sleng_.m3u8
-#EXTINF:-1,Asian Food Network------------indo
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="Khusus Indihome",Asian Food Channel
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
+
 
 
 #EXTINF:-1,Asian Food Network------------------test-------------VN------------------fptplay
@@ -3787,6 +3349,8 @@ https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8?tok
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/playlist.m3u8
 #EXTINF:-1,BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="NUOC NGOAI" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png", Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
 
 
@@ -3861,6 +3425,8 @@ http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Blue Hustler 
 http://178.217.72.66/225.201.2.61/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,RU HD BY
+http://rtmp.one.by:2300
 
 
 
@@ -3993,8 +3559,8 @@ https://tv4.chang55.com:446/live2/tv4ch28.stream/chunks.m3u8
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
-http://flusrv1.artmotion.net/unicast.bbcworld/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News HD
+http://90.254.188.213:9981/stream/channelid/1648295856
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News_HD
 http://178.217.72.66/225.201.2.156/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BBC News
@@ -4077,7 +3643,8 @@ http://ok2.se:8000/a5f5F1U8Cckg8gGZ3/df54F1UNYPGrjxC4Z/364
 
 
 
-
+#EXTINF:0 type="stream" channelId="-1" group-title="NUOC NGOAI" logo="https://i.imgur.com/Y9ng5MI.png", Cinema World HD
+http://113.22.131.193:4022/udp/225.1.4.15:30120
 
 
 #EXTINF:-1,CNBC_udp_viet
@@ -4092,8 +3659,16 @@ http://14.172.151.203:8889/rtp/232.84.1.117:10254
 
 
 
+#EXTINF:-1,US. | CNBC ---------test
+http://23.237.100.130:8080/ovkLZ1gUoh/inOdulSNvI/11662
+#EXTINF:-1,CA | CNBC 
+http://23.237.100.130:8080/ovkLZ1gUoh/inOdulSNvI/10105
+#EXTINF:-1,CNBC HD
+http://87.123.125.84:9981/stream/channelid/226802421
+#EXTINF:-1,CNBC Europe
+http://77.109.171.36:8000/play/a06r
 
-#EXTINF:-1,US | CNBC---------test
+#EXTINF:-1,US | CNBC
 http://207.38.89.242:8080/live/17722/17722/14553.ts
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_VN
