@@ -63,7 +63,16 @@ URL=https://raw.githubusercontent.com/QuiteQuestQuietQuote/Thai_TV_Movies_Series
 
 
 
-
+type=video
+name=Asian Food Network
+thumb=
+date=2020-06-15
+URL=http://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
+type=video
+name=Da Vinci
+thumb=
+date=2020-06-15
+URL=https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8?token=test
 
 
 

@@ -2983,8 +2983,18 @@ http://ok2.se:8000/K3I8rInL14/MbzfUldzAt/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test15
 http://ok2.se:8000/Jeff5/Jeff5/364
 
-
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test16--------
+http://ok2.se/f021F1U0VFnaz1aGN/0b9eF1U1v6yi0Ng9T/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test17
+http://ok2.se:80/02beF1UpNul4ekz0J/dda0F1UJ0F1dfKYZJ/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test18
+http://ok2.se:80/169dF1UvGmkWBfxgZ/2130F1UA4wJSEyvEJ/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test19
+http://ok2.se:80/2087F1U9fUcHgoS5W/c910F1Ugjh8NviTgG/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test20
+http://ok2.se:80/2c86F1UlvcRtwPtqJ/d7a5F1USbuzzvkhB8/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test21
+http://ok2.se:80/2c8bF1Uw8KEXeL6Ws/c687F1U4cYn3zVnUu/364
 
 
 
@@ -3425,8 +3435,10 @@ http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Blue Hustler 
 http://178.217.72.66/225.201.2.61/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,RU HD BY
-http://rtmp.one.by:2300
+#EXTINF:-1,Achtung Sexy TV
+http://77.109.171.36:8000/play/a03r
+#EXTINF:-1,Achtung Sexy TV temp
+http://77.109.171.36:8000/play/a03l
 
 
 
@@ -3659,10 +3671,7 @@ http://14.172.151.203:8889/rtp/232.84.1.117:10254
 
 
 
-#EXTINF:-1,US. | CNBC ---------test
-http://23.237.100.130:8080/ovkLZ1gUoh/inOdulSNvI/11662
-#EXTINF:-1,CA | CNBC 
-http://23.237.100.130:8080/ovkLZ1gUoh/inOdulSNvI/10105
+
 #EXTINF:-1,CNBC HD
 http://87.123.125.84:9981/stream/channelid/226802421
 #EXTINF:-1,CNBC Europe
