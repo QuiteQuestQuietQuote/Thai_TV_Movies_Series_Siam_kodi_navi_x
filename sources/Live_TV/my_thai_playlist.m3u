@@ -3162,6 +3162,8 @@ http://27.254.149.109:8081/tumlive/ipmskyworldhd2.stream/playlist.m3u8
 http://27.254.149.109:8081/tumlive/ipmskyworldhd3.stream/playlist.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/id/200604091828.jpg",Live SKY4
 http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/playlist.m3u8
+#EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ip/200606054623.jpg",UK-SkyPremiere
+http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ii/180703075348.jpg",Movie HD1
 http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/if/180703080244.jpg",Movie HD2
@@ -3243,6 +3245,9 @@ http://forsat.men:8888/merpatistream/merpati99/4303
 http://forsat.men:8888/merpatistream/merpati99/14103
 
 
+
+#EXTINF:-1,Da Vinchi Learning-RU-----------
+http://188.187.27.25:81/udp/235.10.10.88:1234
 #EXTINF:-1,DaVinci-RU------------eocdo
 http://89.106.234.4:80/DaVinci_34_35.m3u8
 #EXTINF:-1,Asia Food Network
@@ -3354,6 +3359,24 @@ https://livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8
 https://cdnkbl2.useetv.com/joss/15/afc/chunklist_w1806772519_b1344100_sleng_.m3u8
 
 
+#EXTINF:-1,Asian Food Network-------VN-----Test
+http://113.187.185.136:9981/stream/channelid/341032302
+#EXTINF:-1,Asian Food Network (HD 6.5Mbps)
+http://113.187.185.136:9981/stream/channelid/1804276020
+#EXTINF:-1,CNBC
+http://113.187.185.136:9981/stream/channelid/400619046
+#EXTINF:-1,Da Vinci
+http://113.187.185.136:9981/stream/channelid/750346416
+#EXTINF:-1,Da Vinci (HD 7Mbps)
+http://113.187.185.136:9981/stream/channelid/1617808405
+#EXTINF:-1,NAT GEO PEOPLE
+http://113.187.185.136:9981/stream/channelid/1319391258
+#EXTINF:-1,NAT GEO PEOPLE (HD 7.5Mbps)
+http://113.187.185.136:9981/stream/channelid/896006085
+
+
+
+
 
 #EXTINF:-1,Asian Food Network------------------test-------------VN------------------fptplay
 http://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
@@ -3431,7 +3454,8 @@ http://c2.justlook.net:8880/hjh14m6843/32174855/33152
 #EXTINF:-1,VIP126:NUART 
 http://c2.justlook.net:8880/hjh14m6843/32174855/60663
 
-
+#EXTINF:-1,VIP030:???(Pandora Perfect) ---test
+http://c2.justlook.net:8880/gzUlJeRtZO/mhjHWnYOXB/33159 
 
 #EXTINF:-1,Russian Night
 http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2
@@ -3455,34 +3479,44 @@ http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-----------tracks-v1a1
 http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,XXX:Nuart TV (18+) --------yourdnshere
-http://yourdnshere.xyz:83/Kericage/6824106935/380231
-#EXTINF:-1,XXX : Oh-Ah | HD by iyikosan 
-http://104.243.41.74:25461/Ian90912/byrad2457/90449
-#EXTINF:-1,XXX : TenX | HD by iyikosan 
-http://104.243.41.74:25461/Ian90912/byrad2457/90447
-#EXTINF:-1,+ADL: Nuart TV (Live) 
-http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/1639
-#EXTINF:-1,NUART
-http://locals.xxx.test-us.top:25461/bobmarianell/CjmHBxHDkN/12
-#EXTINF:-1,OH AH TV
-http://locals.xxx.test-us.top:25461/bobmarianell/CjmHBxHDkN/20
-#EXTINF:-1,SHALUN TV
-http://locals.xxx.test-us.top:25461/bobmarianell/CjmHBxHDkN/21
-#EXTINF:-1,Babes TV HD XXX 
-http://locals.xxx.test-us.top:25461/bobmarianell/CjmHBxHDkN/99
-#EXTINF:-1,Lesbian Affair XXX 
-http://locals.xxx.test-us.top:25461/bobmarianell/CjmHBxHDkN/139
-#EXTINF:-1,NUART TV
-http://195.181.161.119:80/zaKKXVcYSX/rHUfwrck4Q/8370
-#EXTINF:-1,BTIME ADULT RUSSIAN TV
-http://195.181.161.119:80/zaKKXVcYSX/rHUfwrck4Q/8383
-#EXTINF:-1,BTIME ADULT STAR TV
-http://195.181.161.119:80/zaKKXVcYSX/rHUfwrck4Q/8385
-#EXTINF:-1,XXX Grupal (+18) 
-http://clientehdd.xyz:80/17171717/17171717/4259
-
-
+#EXTINF:-1,XXX | Nuart TV HD (18 ) 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108122
+#EXTINF:-1,XXX | Babes TV FHD (18 ) 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108091
+#EXTINF:-1,XXX | Dorcel XXX HD (18 ) 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108134
+#EXTINF:-1,XXX | Russian Night HD (18 ) 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108106
+#EXTINF:-1,XXX | Lesbian Affair (18 ) 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108127
+#EXTINF:-1,XXX | Blu Adult Lesbian 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108257 
+#EXTINF:-1,XXX | KiNOBOX ADULT 1 4K 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108256 
+#EXTINF:-1,XXX | KiNOBOX ADULT 2 4K 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108255 
+#EXTINF:-1,XXX | KiNOBOX ADULT 3 4K 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108254 
+#EXTINF:-1,XXX | LESBIAN TURKOSAT HD 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108253
+#EXTINF:-1,XXX | ADULT TURKOSAT HD 1 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108248 
+#EXTINF:-1,XXX | ADULT TURKOSAT HD 2 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108247 
+#EXTINF:-1,XXX | CINEGOLD ADULT 1 HD 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108246 
+#EXTINF:-1,XXX | CINEGOLD ADULT 5 HD 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108245 
+#EXTINF:-1,XXX | CINEGOLD ADULT 6 HD 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108244 
+#EXTINF:-1,XXX | CINEGOLD ADULT 7 HD 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108243 
+#EXTINF:-1,XXX | CINEGOLD ADULT 8 HD 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108242 
+#EXTINF:-1,XXX | CINEGOLD ADULT 9 HD 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108241 
+#EXTINF:-1,XXX | CINEGOLD ADULT 10 HD 
+http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108240
 
 #EXTINF:-1,Blue Hustler 
 http://178.217.72.66/225.201.2.61/tracks-v1a1/mono.m3u8
@@ -3624,8 +3658,8 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 http://90.254.188.213:9981/stream/channelid/1648295856
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News_HD
 http://178.217.72.66/225.201.2.156/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BBC News
-http://51.52.156.22:8888/http/004
+#EXTINF:-1,BBC World News
+http://194.44.48.82:8021/play/a017
 #EXTINF:-1,UK: BBC NEWS HD
 http://natv.pw:80/ismael/ismael/20804
 #EXTINF:-1,ID: BBC WORLD NEWS HD---macan
@@ -3725,13 +3759,13 @@ http://14.172.151.203:8889/rtp/232.84.1.117:10254
 
 
 #EXTINF:-1 tvg-id="177374f9a6aa86cd1a3bec70fc030ecd",BBC EARTH
-http://78.46.73.142:9981/stream/channelid/2037674775?ticket=37A052DF6FE4F4C6862A7AF2DB2C15DAC351FB9A&profile=pass
+http://78.46.73.142:9981/stream/channelid/2037674775?profile=pass
 #EXTINF:-1 logo="http://185.15.0.152:9999/imagecache/56" tvg-id="13da4ed2360eebb968395e29f6a287e0",BBC_Earth
-http://185.15.0.152:9999/stream/channelid/1380899347?ticket=32D6FE613B7DC4A10D02B26DD6618F53E298E7A9&profile=pass
+http://185.15.0.152:9999/stream/channelid/1380899347?profile=pass
 #EXTINF:-1 logo="http://185.15.0.152:9999/imagecache/32" tvg-id="adebf1256c4a8126f060dac2fc2bd344",BBC Brit
-http://185.15.0.152:9999/stream/channelid/636611501?ticket=15F1A748D4335CFD0250A71D4FE5A89B29FB6C2C&profile=pass
+http://185.15.0.152:9999/stream/channelid/636611501?profile=pass
 #EXTINF:-1 logo="http://185.15.0.152:9999/imagecache/33" tvg-id="cdfadc2ce7746afbce7d7b5f755e13df",BBC Lifestyle HD
-http://185.15.0.152:9999/stream/channelid/752679629?ticket=9BE5CECBB65E74BD2B092C9BFF8FCB94F1097235&profile=pass
+http://185.15.0.152:9999/stream/channelid/752679629?profile=pass
 #EXTINF:-1 logo="http://178.189.193.122:9981/imagecache/162" tvg-id="1cb8826eec3f6c085ca448d5c476b299",BBC World News HD
 http://178.189.193.122:9981/stream/channelid/1854060572?profile=pass
 #EXTINF:-1,CNBC HD---
