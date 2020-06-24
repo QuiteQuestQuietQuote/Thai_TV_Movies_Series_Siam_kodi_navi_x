@@ -2992,22 +2992,9 @@ http://ok2.se:8000/K3I8rInL14/MbzfUldzAt/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test15
 http://ok2.se:8000/Jeff5/Jeff5/364
 
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test16--------
-http://ok2.se/f021F1U0VFnaz1aGN/0b9eF1U1v6yi0Ng9T/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test17
-http://ok2.se:80/02beF1UpNul4ekz0J/dda0F1UJ0F1dfKYZJ/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test18
-http://ok2.se:80/169dF1UvGmkWBfxgZ/2130F1UA4wJSEyvEJ/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test19
-http://ok2.se:80/2087F1U9fUcHgoS5W/c910F1Ugjh8NviTgG/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test20
-http://ok2.se:80/2c86F1UlvcRtwPtqJ/d7a5F1USbuzzvkhB8/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test21
-http://ok2.se:80/2c8bF1Uw8KEXeL6Ws/c687F1U4cYn3zVnUu/364
 
 
-#EXTINF:-1,TOKYO HOT-----ok2----test
-http://ok2.se:8000/uS2jLD5i2x/pYXGWSgqOd/6572
+
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT--------------
@@ -3253,8 +3240,7 @@ http://forsat.men:8888/leo6/LGZE4IqIDp/14103
 
 
 
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning---VN---udp
-http://118.71.125.47:6606/udp/225.1.1.197:30120
+
 #EXTINF:-1,PL: Da Vinci Learning--------
 http://live.firetv.me:83/giselle01/giselle02/375808
 #EXTINF:-1,Da Vinchi Learning-kz-----------
@@ -3397,12 +3383,14 @@ http://113.187.185.136:9981/stream/channelid/896006085
 
 
 
-#EXTINF:-1,Asian Food Network------------------test-------------VN------------------fptplay
+#EXTINF:-1,Asian Food Network---------VN--------fptplay
 http://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 #EXTINF:-1,Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8?token=test
 #EXTINF:-1,BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/playlist.m3u8
+#EXTINF:0, BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_2000.stream/playlist.m3u8
 #EXTINF:-1,BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="NUOC NGOAI" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png", Discovery Asia
@@ -3473,8 +3461,46 @@ http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33153
 http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33152
 #EXTINF:-1,VIP126:NUART 
 http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/60663
-
-
+#EXTINF:-1,VIP091:Blonde Solo 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33101
+#EXTINF:-1,VIP043:Russian Night 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33149
+#EXTINF:-1,VIP111:France a Poil4 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33081
+#EXTINF:-1,VIP083:French Lover 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33109 
+#EXTINF:-1,VIP084:French Lover Europe 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33108
+#EXTINF:-1,VIP101:Secret Circle TV 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33091
+#EXTINF:-1,VIP150:Net XX 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/60687 
+#EXTINF:-1,VIP151:Playhouse 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/60688
+#EXTINF:-1,VIP023:Erotic 2 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/2963 
+#EXTINF:-1,VIP024:Erotic 3 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/2962 
+#EXTINF:-1,VIP025:Erotic 7 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/2961 
+#EXTINF:-1,VIP026:Erotic 1 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/2960
+#EXTINF:-1,VIP014:Babes 1 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/2972 
+#EXTINF:-1,VIP015:Babes 2 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/2971 
+#EXTINF:-1,VIP016:Babes 3 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/2970 
+#EXTINF:-1,VIP017:Babes 4 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/2969 
+#EXTINF:-1,VIP018:Babes 5 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/2968 
+#EXTINF:-1,VIP019:Babes 6 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/2967 
+#EXTINF:-1,VIP020:Babes 8 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/2966 
+#EXTINF:-1,VIP021:Babes 9 
+http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/2965
 
 
 #EXTINF:-1,Russian Night--------
@@ -3499,46 +3525,42 @@ http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-----------tracks-v1a1
 http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,NUART TV 
+#EXTINF:-1,NUART TV -------195.181.161.111:80
 http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/8370
-#EXTINF:-1,XXX | Nuart TV HD (18 ) 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108122
-#EXTINF:-1,XXX | Babes TV FHD (18 ) 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108091
-#EXTINF:-1,XXX | Dorcel XXX HD (18 ) 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108134
-#EXTINF:-1,XXX | Russian Night HD (18 ) 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108106
-#EXTINF:-1,XXX | Lesbian Affair (18 ) 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108127
-#EXTINF:-1,XXX | Blu Adult Lesbian 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108257 
-#EXTINF:-1,XXX | KiNOBOX ADULT 1 4K 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108256 
-#EXTINF:-1,XXX | KiNOBOX ADULT 2 4K 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108255 
-#EXTINF:-1,XXX | KiNOBOX ADULT 3 4K 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108254 
-#EXTINF:-1,XXX | LESBIAN TURKOSAT HD 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108253
-#EXTINF:-1,XXX | ADULT TURKOSAT HD 1 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108248 
-#EXTINF:-1,XXX | ADULT TURKOSAT HD 2 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108247 
-#EXTINF:-1,XXX | CINEGOLD ADULT 1 HD 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108246 
-#EXTINF:-1,XXX | CINEGOLD ADULT 5 HD 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108245 
-#EXTINF:-1,XXX | CINEGOLD ADULT 6 HD 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108244 
-#EXTINF:-1,XXX | CINEGOLD ADULT 7 HD 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108243 
-#EXTINF:-1,XXX | CINEGOLD ADULT 8 HD 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108242 
-#EXTINF:-1,XXX | CINEGOLD ADULT 9 HD 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108241 
-#EXTINF:-1,XXX | CINEGOLD ADULT 10 HD 
-http://138.201.124.162:8080/jose_fernando/9reSGSHAZ8/108240
+#EXTINF:-1,DREAMPORN HD 
+http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6544
+#EXTINF:-1,Dorcel TV by iyikosan 
+http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/15 
+#EXTINF:-1,SHALUN TV 
+http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/8380
+#EXTINF:-1,RUSSKAYA TV 
+http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/8376 
+#EXTINF:-1,ON AH TV 
+http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/8377
+#EXTINF:-1,Adult 4K: VOD 1 
+http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6550 
+#EXTINF:-1,Adult 4K: VOD 2 
+http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6553 
+#EXTINF:-1,Adult 4K: VOD 3 
+http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6554 
+#EXTINF:-1,Adult 4K: VOD 4 
+http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6555 
+#EXTINF:-1,Adult 4K: VOD 5 
+http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6596 
+#EXTINF:-1,Adult 4K: VOD 6 
+http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6595 
+#EXTINF:-1,Adult 4K: VOD 7 
+http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6594 
+#EXTINF:-1,Adult 4K: VOD 8 
+http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6593 
+#EXTINF:-1,Adult 4K: VOD 9 
+http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6592 
+#EXTINF:-1,Adult 4K: VOD 10 
+http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6591 
+#EXTINF:-1,Adult 4K: VOD 11 
+http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6590
+
+
 
 #EXTINF:-1,Blue Hustler 
 http://178.217.72.66/225.201.2.61/tracks-v1a1/mono.m3u8
@@ -3756,17 +3778,6 @@ http://ok2.se:8000/f4d5F1Us0eAoWG49g/a2d5F1UDNiEYFsQuv/364
 http://ok2.se:8000/a5f5F1U8Cckg8gGZ3/df54F1UNYPGrjxC4Z/364
 
 
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2---
-http://ok2.se:8000/live/3252F1UWC8cEYraLl/13b6F1UNPR2grglNq/364.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test13
-http://ok2.se:8000/live/3f45F1ULqXhEeCHRz/3b85F1U1PwPptzCtm/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test21
-http://ok2.se:80/live/2c8bF1Uw8KEXeL6Ws/c687F1U4cYn3zVnUu/364
-
-
-
-#EXTINF:0 type="stream" channelId="-1" group-title="NUOC NGOAI" logo="https://i.imgur.com/Y9ng5MI.png", Cinema World HD
-http://113.22.131.193:4022/udp/225.1.4.15:30120
 
 
 #EXTINF:-1,CNBC_udp_viet
@@ -3795,7 +3806,7 @@ http://178.189.193.122:9981/stream/channelid/1854060572?profile=pass
 #EXTINF:-1,CNBC HD---
 http://196.179.225.154:10001/stream/channelid/796168180?profile=pass
 #EXTINF:-1,CNBC HD
-http://87.123.125.84:9981/stream/channelid/226802421
+http://87.123.125.84:9981/stream/channelid/226802421?profile=pass
 #EXTINF:-1,CNBC Europe
 http://77.109.171.36:8000/play/a06r
 
