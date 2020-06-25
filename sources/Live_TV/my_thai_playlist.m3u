@@ -2992,9 +2992,14 @@ http://ok2.se:8000/K3I8rInL14/MbzfUldzAt/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test15
 http://ok2.se:8000/Jeff5/Jeff5/364
 
-
-
-
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test16------
+http://ok2.se:8000/hprz8caxTl/J6KdjPXmiD/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test17
+http://ok2.se:8000/MoQdLBUPTY/LqXgNyvdy1/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test18
+http://ok2.se:8000/DwwSUXZCVD/daMyn3ivrc/364
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test19
+http://ok2.se:8000/8fb6F1U5wjbKshNQ7/7777F1Ut16ABoVB9p/364
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT--------------
@@ -3239,7 +3244,12 @@ http://forsat.men:8888/leo6/LGZE4IqIDp/4303
 http://forsat.men:8888/leo6/LGZE4IqIDp/14103
 
 
-
+#EXTINF:-1,Da Vinci Kids
+http://89.38.8.130:39437
+#EXTINF:-1,Da Vinci Learning 
+http://212.48.90.121:8000/play/a0pi
+#EXTINF:-1,Da Vinci Learning 
+http://185.102.219.40:8010/play/a006
 
 #EXTINF:-1,PL: Da Vinci Learning--------
 http://live.firetv.me:83/giselle01/giselle02/375808
@@ -3814,7 +3824,8 @@ http://77.109.171.36:8000/play/a06r
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_VN
 http://203.162.235.41:16919
 
-
+#EXTINF:-1, BGfreetv |UK| CNBC
+http://178.159.5.10:6810
 
 
 
