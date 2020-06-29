@@ -12,10 +12,10 @@
 
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS_1080p
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV
-https://edge3a.v2h-cdn.com/INFO_T1/Nation.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV---bit.ly
+https://bit.ly/2Zf3ALh
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV---dailymotion
-https://stream-01.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSRce87kL6vMw-v4wISAXSTU)/dm/3/x6eoldf/d/live-1.m3u8
+https://stream-05.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSeHijYbpHl6H0CotFipQXMc)/dm/3/x6eoldf/d/live-2.m3u8
 #EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
 #EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD
@@ -29,18 +29,15 @@ http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.st
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_3bb
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=MLxINNx6sSPr3kzjMswNKKFvhhFaZm6z&password=q81NuMVTAgdBrC34J8HYxDvcnXuSk5Ry
 
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv--------edge3a
-https://edge3a.v2h-cdn.com/INFO_T1/NEW.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24
-http://160.119.77.50/iptv/sd-tnn24.stream/playlist.m3u8
-#EXTINF:-1 group-title="Free_TV" tvg-logo="http://image.free.in.th/v/2013/in/200528071606.png",gmm25
-https://livedoomovies.com/02_GMM_720p/chunklist.m3u8
-
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv----bit.ly
+https://bit.ly/2VnZ8sG
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24---trueid
+https://cdn024.stm.trueid.net/live2/135_th_w_auto_tnn.smil/chunklist_w267979037_b2785832.m3u8?appid=tnn&visitor=web&uid=GnfcTBos2&mpass=v20GHuv2zIquXNbp8DzTNRV0/gtB/bcAzDdJy6jeDrrYdq5V3RyRcpI3y84IsmEYojoBlgSGG28gEV/0sLFkUjo6AQSGjFXVg53p0baYhEWrwg%3D%3D
 
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv----------dailymotion
 https://stream-04.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54-SpLaObpUM_93A8N505woU)/dm/3/x7kx5i7/s/live-3.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25---dailymotion
-https://stream-04.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_bzCcyF9qAvAXQDNMIbyX6w)/dm/3/x6rz4t7/s/live-3.m3u8
+https://stream-03.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_bnceuVtOm3y1oOeyVgvad4)/dm/3/x6rz4t7/s/live-4.m3u8
 
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25
 http://27.254.130.64/live01/chsd_GMM_11.m3u8?p=st
@@ -2700,8 +2697,8 @@ http://mu02.v2iptv.com:8880/test0011/test0011/33154
 #EXTINF:-1,33154_amzlive
 http://mu03.amzlive.net:8880/NFIyJbKjwz/MSMqfjp7bb/33154
 
-#EXTINF:-1,JAV_Happy Ch_33153------------test
-http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/33153
+#EXTINF:-1,VIP127:tushy ------------test
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/60664
 
 #EXTINF:-1,YU150:Da Vinci Learning
 http://mu02.v2iptv.com:8880/test0011/test0011/49176
@@ -3244,15 +3241,7 @@ http://forsat.men:8888/leo6/LGZE4IqIDp/4303
 http://forsat.men:8888/leo6/LGZE4IqIDp/14103
 
 
-#EXTINF:-1,Da Vinci Kids
-http://89.38.8.130:39437
-#EXTINF:-1,Da Vinci Learning 
-http://212.48.90.121:8000/play/a0pi
-#EXTINF:-1,Da Vinci Learning 
-http://185.102.219.40:8010/play/a006
 
-#EXTINF:-1,PL: Da Vinci Learning--------
-http://live.firetv.me:83/giselle01/giselle02/375808
 #EXTINF:-1,Da Vinchi Learning-kz-----------
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1,DaVinci-RU------------eocdo
@@ -3367,27 +3356,13 @@ https://livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:0, BBCEARTH
 https://livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",samrujlok-----we-play
+https://live.we-play.tv/live/samruajlok/chunks.m3u8?nimblesessionid=44323492&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIwIDg6MTQ6NDkgUE0maGFzaF92YWx1ZT01QnUvYXYvSS80cXJCZm45UWp4dUlRPT0mdmFsaWRtaW51dGVzPTIw
 
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="Khusus Indihome",Asian Food Network------test------------useetv
 https://cdnkbl2.useetv.com/joss/15/afc/chunklist_w1806772519_b1344100_sleng_.m3u8
-
-
-#EXTINF:-1,Asian Food Network-------VN-----Test
-http://113.187.185.136:9981/stream/channelid/341032302
-#EXTINF:-1,Asian Food Network (HD 6.5Mbps)
-http://113.187.185.136:9981/stream/channelid/1804276020
-#EXTINF:-1,CNBC
-http://113.187.185.136:9981/stream/channelid/400619046
-#EXTINF:-1,Da Vinci
-http://113.187.185.136:9981/stream/channelid/750346416
-#EXTINF:-1,Da Vinci (HD 7Mbps)
-http://113.187.185.136:9981/stream/channelid/1617808405
-#EXTINF:-1,NAT GEO PEOPLE
-http://113.187.185.136:9981/stream/channelid/1319391258
-#EXTINF:-1,NAT GEO PEOPLE (HD 7.5Mbps)
-http://113.187.185.136:9981/stream/channelid/896006085
 
 
 
@@ -3483,18 +3458,6 @@ http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33109
 http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33108
 #EXTINF:-1,VIP101:Secret Circle TV 
 http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33091
-#EXTINF:-1,VIP150:Net XX 
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/60687 
-#EXTINF:-1,VIP151:Playhouse 
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/60688
-#EXTINF:-1,VIP023:Erotic 2 
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/2963 
-#EXTINF:-1,VIP024:Erotic 3 
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/2962 
-#EXTINF:-1,VIP025:Erotic 7 
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/2961 
-#EXTINF:-1,VIP026:Erotic 1 
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/2960
 #EXTINF:-1,VIP014:Babes 1 
 http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/2972 
 #EXTINF:-1,VIP015:Babes 2 
@@ -3535,40 +3498,91 @@ http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-----------tracks-v1a1
 http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,NUART TV -------195.181.161.111:80
-http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/8370
-#EXTINF:-1,DREAMPORN HD 
-http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6544
-#EXTINF:-1,Dorcel TV by iyikosan 
-http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/15 
-#EXTINF:-1,SHALUN TV 
-http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/8380
-#EXTINF:-1,RUSSKAYA TV 
-http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/8376 
-#EXTINF:-1,ON AH TV 
-http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/8377
-#EXTINF:-1,Adult 4K: VOD 1 
-http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6550 
-#EXTINF:-1,Adult 4K: VOD 2 
-http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6553 
-#EXTINF:-1,Adult 4K: VOD 3 
-http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6554 
-#EXTINF:-1,Adult 4K: VOD 4 
-http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6555 
-#EXTINF:-1,Adult 4K: VOD 5 
-http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6596 
-#EXTINF:-1,Adult 4K: VOD 6 
-http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6595 
-#EXTINF:-1,Adult 4K: VOD 7 
-http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6594 
-#EXTINF:-1,Adult 4K: VOD 8 
-http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6593 
-#EXTINF:-1,Adult 4K: VOD 9 
-http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6592 
-#EXTINF:-1,Adult 4K: VOD 10 
-http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6591 
-#EXTINF:-1,Adult 4K: VOD 11 
-http://195.181.161.111:80/figU3nVhiW/l516MEr9gh/6590
+
+
+#EXTINF:-1,Midnight TV (New!) ---------toopnet
+http://toopnet.dydns.site:2082/cesar10/cesar10/47570 
+#EXTINF:-1,NYX Media 1 (Opt-1) (New!) 
+http://toopnet.dydns.site:2082/cesar10/cesar10/47571 
+#EXTINF:-1,NYX Media 1 (Opt-2) (New!) 
+http://toopnet.dydns.site:2082/cesar10/cesar10/47572 
+#EXTINF:-1,NYX Media 2 (Opt-1) (New!) 
+http://toopnet.dydns.site:2082/cesar10/cesar10/47573 
+#EXTINF:-1,NYX Media 2 (Opt-2) (New!) 
+http://toopnet.dydns.site:2082/cesar10/cesar10/47574 
+#EXTINF:-1,Pandora Pink (New!) 
+http://toopnet.dydns.site:2082/cesar10/cesar10/47575
+#EXTINF:-1,Private HD 
+http://toopnet.dydns.site:2082/cesar10/cesar10/47576 
+#EXTINF:-1,Priv 
+http://toopnet.dydns.site:2082/cesar10/cesar10/47577 
+#EXTINF:-1,Shemale Tube TV 1 
+http://toopnet.dydns.site:2082/cesar10/cesar10/47578 
+#EXTINF:-1,Shemale Tube TV 2 
+http://toopnet.dydns.site:2082/cesar10/cesar10/47579 
+#EXTINF:-1,Viki TV (New!) 
+http://toopnet.dydns.site:2082/cesar10/cesar10/47580
+
+#EXTINF:-1,Midnight TV (New!) -----toopnet----Opt.
+http://toopnet.dydns.site:2082/marco10/marco10/47570 
+#EXTINF:-1,Pandora Pink (New!) 
+http://toopnet.dydns.site:2082/jonas10/jonas10/47575
+#EXTINF:-1,Viki TV (New!) 
+http://toopnet.dydns.site:2082/leandro10/leandro10/47580
+
+
+#EXTINF:-1,Midnight TV -----newpandora
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69925 
+
+#EXTINF:-1,26
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69926
+#EXTINF:-1,27
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69927
+#EXTINF:-1,28
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69928
+#EXTINF:-1,29
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69929
+#EXTINF:-1,30
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69930
+#EXTINF:-1,31
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69931
+#EXTINF:-1,32
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69932
+#EXTINF:-1,33
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69933
+#EXTINF:-1,34
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69934
+#EXTINF:-1,35
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69935
+#EXTINF:-1,36
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69936
+#EXTINF:-1,37
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69937
+#EXTINF:-1,38
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69938
+#EXTINF:-1,39
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69939
+#EXTINF:-1,40
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69940
+#EXTINF:-1,41
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69941
+
+#EXTINF:-1,Viki 
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69942
+#EXTINF:-1,|XX| HOT TV 
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69956
+#EXTINF:-1,XXX: SUN XXX 
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/69998 
+#EXTINF:-1,XXX: RUSSKAYA NOCH 
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/70000 
+#EXTINF:-1,XXX: OH AH TV 
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/70001 
+#EXTINF:-1,XXX: SHALUN TV 
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/70002 
+#EXTINF:-1,XXX: Stars XXX HD 
+http://newpandora.ddns.net:8080/Rj/jv8IJBE04L/70003 
+
+
 
 
 
@@ -3635,7 +3649,28 @@ https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-
 
 
 
-
+#EXTINF:-1,BBC One FHD UK----------UK National
+http://185.132.133.25:80/MinaBarssonCusine/5di9k2dngb/671711
+#EXTINF:-1,BBC One HD UK
+http://185.132.133.25:80/MinaBarssonCusine/5di9k2dngb/656966
+#EXTINF:-1,BBC Two FHD UK
+http://185.132.133.25:80/MinaBarssonCusine/5di9k2dngb/671712
+#EXTINF:-1,BBC Two HD UK
+http://185.132.133.25:80/MinaBarssonCusine/5di9k2dngb/656954
+#EXTINF:-1,BBC Four FHD UK
+http://185.132.133.25:80/MinaBarssonCusine/5di9k2dngb/671388
+#EXTINF:-1,BBC Four HD UK
+http://185.132.133.25:80/MinaBarssonCusine/5di9k2dngb/6656
+#EXTINF:-1,BBC News FHD UK
+http://185.132.133.25:80/MinaBarssonCusine/5di9k2dngb/671407
+#EXTINF:-1,BBC Parliament UK
+http://185.132.133.25:80/MinaBarssonCusine/5di9k2dngb/9546
+#EXTINF:-1,BBC Alba UK
+http://185.132.133.25:80/MinaBarssonCusine/5di9k2dngb/9549
+#EXTINF:-1,CBBC FHD UK
+http://185.132.133.25:80/MinaBarssonCusine/5di9k2dngb/9550
+#EXTINF:-1,CBeebies HD UK
+http://185.132.133.25:80/MinaBarssonCusine/5di9k2dngb/671713
 
 
 
@@ -3824,8 +3859,7 @@ http://77.109.171.36:8000/play/a06r
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_VN
 http://203.162.235.41:16919
 
-#EXTINF:-1, BGfreetv |UK| CNBC
-http://178.159.5.10:6810
+
 
 
 
