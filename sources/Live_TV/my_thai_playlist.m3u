@@ -23,7 +23,7 @@ http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://news1live.com/images/social-share-logo.png",news1
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://www.altv.tv/_nuxt/img/9e0e34c.png",ALTV4 (Active Learning TV)
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_tha/index.m3u8
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24----------3bb
@@ -39,6 +39,8 @@ https://stream-03.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_bnceuVtOm3y1oOeyV
 
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25
 http://27.254.130.64/live01/chsd_GMM_11.m3u8?p=st
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24
+http://160.119.77.50/iptv/sd-tnn24.stream/playlist.m3u8
 
 #EXTINF:-1,PSI HD
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
@@ -2986,9 +2988,13 @@ http://ok2.se:8000/3f45F1ULqXhEeCHRz/3b85F1U1PwPptzCtm/364
 http://ok2.se:8000/K3I8rInL14/MbzfUldzAt/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test15
 http://ok2.se:8000/Jeff5/Jeff5/364
-
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test16------
-http://ok2.se:8000/srdjan/123456/364
+http://ok2.se:8000/Charlie1/Charlie1/364
+
+#EXTINF:-1,WANZ
+http://ok2.se:8000/Charlie1/Charlie1/6611
+#EXTINF:-1,IPZ
+http://ok2.se:8000/Charlie1/Charlie1/6610
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT--------------
@@ -3495,38 +3501,31 @@ http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1,VIP030:???(Pandora Perfect) ---test---c2.dcba
-http://c2.dcba.club:8880/ninitest701/8FgXLsZv3P/33159 
-#EXTINF:-1,VIP129:Penthouse 1 
-http://c2.dcba.club:8880/ninitest701/8FgXLsZv3P/60666
-#EXTINF:-1,VIP118:VIVID TV 
-http://c2.dcba.club:8880/ninitest701/8FgXLsZv3P/33074
-#EXTINF:-1,VIP117:VIVID RED FHD 
-http://c2.dcba.club:8880/ninitest701/8FgXLsZv3P/33075
+
 
 
 #EXTINF:-1,Midnight TV (New!) ---------toopnet
-http://toopnet.dydns.site:2082/eliane10/eliane10/47570 
+http://toopnet.dydns.site:2082/20202020/20202020/47570 
 #EXTINF:-1,NYX Media 1 (Opt-1) (New!) 
-http://toopnet.dydns.site:2082/eliane10/eliane10/47571 
+http://toopnet.dydns.site:2082/20202020/20202020/47571 
 #EXTINF:-1,NYX Media 1 (Opt-2) (New!) 
-http://toopnet.dydns.site:2082/eliane10/eliane10/47572 
+http://toopnet.dydns.site:2082/20202020/20202020/47572 
 #EXTINF:-1,NYX Media 2 (Opt-1) (New!) 
-http://toopnet.dydns.site:2082/eliane10/eliane10/47573 
+http://toopnet.dydns.site:2082/20202020/20202020/47573 
 #EXTINF:-1,NYX Media 2 (Opt-2) (New!) 
-http://toopnet.dydns.site:2082/eliane10/eliane10/47574 
+http://toopnet.dydns.site:2082/20202020/20202020/47574 
 #EXTINF:-1,Pandora Pink (New!) 
-http://toopnet.dydns.site:2082/eliane10/eliane10/47575
+http://toopnet.dydns.site:2082/20202020/20202020/47575
 #EXTINF:-1,Private HD 
-http://toopnet.dydns.site:2082/eliane10/eliane10/47576 
+http://toopnet.dydns.site:2082/20202020/20202020/47576 
 #EXTINF:-1,Priv 
-http://toopnet.dydns.site:2082/eliane10/eliane10/47577 
+http://toopnet.dydns.site:2082/20202020/20202020/47577 
 #EXTINF:-1,Shemale Tube TV 1 
-http://toopnet.dydns.site:2082/eliane10/eliane10/47578 
+http://toopnet.dydns.site:2082/20202020/20202020/47578 
 #EXTINF:-1,Shemale Tube TV 2 
-http://toopnet.dydns.site:2082/eliane10/eliane10/47579 
+http://toopnet.dydns.site:2082/20202020/20202020/47579 
 #EXTINF:-1,Viki TV (New!) 
-http://toopnet.dydns.site:2082/eliane10/eliane10/47580
+http://toopnet.dydns.site:2082/20202020/20202020/47580
 
 #EXTINF:-1,Midnight TV (New!) -----toopnet----Opt.
 http://toopnet.dydns.site:2082/cesar10/cesar10/47570 
@@ -3537,7 +3536,9 @@ http://toopnet.dydns.site:2082/leandro10/leandro10/47580
 #EXTINF:-1,NYX Media 1 (Opt-1) (New!) 
 http://toopnet.dydns.site:2082/live/marco10/marco10/47571 
 #EXTINF:-1,NYX Media 2 (Opt-1) (New!) 
-http://78.46.72.249:2082/eliane10/eliane10/47573 
+http://toopnet.dydns.site:2082/eliane10/eliane10/47573 
+
+
 
 
 #EXTINF:-1,Midnight TV -----newpandora
@@ -3610,10 +3611,7 @@ http://fr01.spr24.net/17976/index.m3u8?token=BQF9PmuRpcxUqR
 http://fr01.spr24.net/5881/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1,NuArt
 http://fr01.spr24.net/910/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1,NuArt
-http://fr01.spr24.net/910/index.m3u8?token=rCEqTFvRhtEvXt
-#EXTINF:-1,NuArt
-http://fr01.spr24.net/910/mono.m3u8?token=hiVi8EHiq86NZA
+
 
 #EXTINF:-1,Da Vinci Learning [PL]----fr01---test
 http://fr01.spr24.net/11038/index.m3u8?token=BQF9PmuRpcxUqR
@@ -3841,8 +3839,6 @@ http://185.15.0.152:9999/stream/channelid/752679629?profile=pass
 http://178.189.193.122:9981/stream/channelid/1854060572?profile=pass
 #EXTINF:-1,CNBC HD---
 http://196.179.225.154:10001/stream/channelid/796168180?profile=pass
-#EXTINF:-1,CNBC HD
-http://87.123.125.84:9981/stream/channelid/226802421?profile=pass
 #EXTINF:-1,CNBC Europe
 http://77.109.171.36:8000/play/a06r
 
