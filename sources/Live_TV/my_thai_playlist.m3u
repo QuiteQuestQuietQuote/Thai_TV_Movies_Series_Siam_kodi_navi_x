@@ -22,8 +22,6 @@ http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil
 http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://news1live.com/images/social-share-logo.png",news1
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://www.altv.tv/_nuxt/img/9e0e34c.png",ALTV4 (Active Learning TV)
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24----------3bb
@@ -42,6 +40,8 @@ http://27.254.130.64/live01/chsd_GMM_11.m3u8?p=st
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24
 http://160.119.77.50/iptv/sd-tnn24.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="news" tvg-logo="https://www.altv.tv/_nuxt/img/9e0e34c.png",ALTV4 (Active Learning TV)
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1,PSI HD
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 #EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD_3BB
@@ -3478,6 +3478,18 @@ http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1,VIP126:NUART -------a1.hdflix
+http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/60663
+#EXTINF:-1,VIP127:Penthouse Gold 
+http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/60664 
+#EXTINF:-1,VIP128:Penthouse 2 
+http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/60665 
+#EXTINF:-1,VIP129:Penthouse 1 
+http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/60666
+#EXTINF:-1,VIP142orcel XXX HD 
+http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/60679
+
+
 #EXTINF:-1,JapanHDV (18+)by iyikosan -------------iptvstack
 http://tv.iptvstack.net:80/FlQDvf45822/lwBI8x7321/38045 
 #EXTINF:-1,JapanHDV Anal (18+) 
@@ -3510,6 +3522,13 @@ http://tv.iptvstack.net:80/FlQDvf45822/lwBI8x7321/28852
 http://tv.iptvstack.net:80/FlQDvf45822/lwBI8x7321/28876
 #EXTINF:-1,Nuart TV (18+) RU 
 http://tv.iptvstack.net:80/FlQDvf45822/lwBI8x7321/28882
+
+#EXTINF:-1,JapanHDV Anal (18+) -----------iptvstack---test
+http://tv.iptvstack.net:80/E83uMrI86/OSdk3G927/37954 
+#EXTINF:-1,JapanHDV Creampie (18+) 
+http://tv.iptvstack.net:80/u5Dg6vANN234/YVo7fj5769/37947 
+#EXTINF:-1,JapanHDV Group (18+) 
+http://tv.iptvstack.net:80/MRWfXOm1JQ0754/wwAcWy5678/37945
 
 
 #EXTINF:-1,Midnight TV (New!) ---------toopnet
