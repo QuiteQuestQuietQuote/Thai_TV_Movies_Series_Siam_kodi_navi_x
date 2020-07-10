@@ -2590,7 +2590,6 @@ http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/3148
 
 
 
-
 #EXTINF:-1,jap_ts1-------------------------cut
 http://125.227.210.37:9001/VideoInput/play.ts
 #EXTINF:-1,jap_ts2
@@ -3349,31 +3348,72 @@ http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1,XXX---TW---415---htv.php---test
+http://t.gerss.cn/dl/htv.php?id=415
+#EXTINF:-1,XXX---TW---414
+http://t.gerss.cn/dl/htv.php?id=414
+#EXTINF:-1,XXX---TW---413
+http://t.gerss.cn/dl/htv.php?id=413
+#EXTINF:-1,XXX---TW---412
+http://t.gerss.cn/dl/htv.php?id=412
+#EXTINF:-1,XXX---TW---411
+http://t.gerss.cn/dl/htv.php?id=411
+#EXTINF:-1,XXX---TW---410
+http://t.gerss.cn/dl/htv.php?id=410
+#EXTINF:-1,XXX---TW---409
+http://t.gerss.cn/dl/htv.php?id=409
+#EXTINF:-1,XXX---TW---408
+http://t.gerss.cn/dl/htv.php?id=408
+#EXTINF:-1,XXX---TW---407
+http://t.gerss.cn/dl/htv.php?id=407
+#EXTINF:-1,XXX---TW---406
+http://t.gerss.cn/dl/htv.php?id=406
+#EXTINF:-1,XXX---TW---405
+http://t.gerss.cn/dl/htv.php?id=405
+#EXTINF:-1,XXX---TW---404
+http://t.gerss.cn/dl/htv.php?id=404
+#EXTINF:-1,XXX---TW---403
+http://t.gerss.cn/dl/htv.php?id=403
+#EXTINF:-1,XXX---TW---402
+http://t.gerss.cn/dl/htv.php?id=402
+#EXTINF:-1,XXX---TW---401
+http://t.gerss.cn/dl/htv.php?id=401
+#EXTINF:-1,XXX---TW---400
+http://t.gerss.cn/dl/htv.php?id=400
 
+#EXTINF:-1,XXX---TW---415---checkCode---test
+http://58.99.33.2:1935/liveedge2/BwQiIXYX_415_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1,XXX---TW---414
+http://58.99.33.2:1935/liveedge2/BwQiIXYX_414_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1,XXX---TW---413
+http://58.99.33.2:1935/liveedge2/BwQiIXYX_413_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1,XXX---TW---412
+http://58.99.33.2:1935/liveedge2/BwQiIXYX_412_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1,XXX---TW---411
+http://58.99.33.2:1935/liveedge2/BwQiIXYX_411_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1,XXX---TW---410
+http://58.99.33.2:1935/liveedge2/BwQiIXYX_410_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1,XXX---TW---409
+http://58.99.33.2:1935/liveedge2/BwQiIXYX_409_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1,XXX---TW---408
+http://58.99.33.2:1935/liveedge2/BwQiIXYX_408_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1,XXX---TW---407
+http://58.99.33.2:1935/liveedge2/BwQiIXYX_407_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1,XXX---TW---406
+http://58.99.33.2:1935/liveedge2/BwQiIXYX_406_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1,XXX---TW---405
+http://58.99.33.2:1935/liveedge2/BwQiIXYX_405_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1,XXX---TW---404
+http://58.99.33.2:1935/liveedge2/BwQiIXYX_404_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1,XXX---TW---403
+http://58.99.33.2:1935/liveedge2/BwQiIXYX_403_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1,XXX---TW---402
+http://58.99.33.2:1935/liveedge2/BwQiIXYX_402_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1,XXX---TW---401
+http://58.99.33.2:1935/liveedge2/BwQiIXYX_401_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1,XXX---TW---400
+http://58.99.33.2:1935/liveedge2/BwQiIXYX_400_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
 
-
-#EXTINF:-1,XXX - PORN CHANNEL 24H-90-----GR
-http://207.180.194.161:25461/000000/000000/75090
-#EXTINF:-1,XXX - PORN CHANNEL 24H-89
-http://207.180.194.161:25461/000000/000000/75089
-#EXTINF:-1,XXX - PORN CHANNEL 24H-88
-http://207.180.194.161:25461/000000/000000/75088
-#EXTINF:-1,XXX - PORN CHANNEL 24H-87
-http://207.180.194.161:25461/000000/000000/75087
-#EXTINF:-1,XXX - PORN CHANNEL 24H-86
-http://207.180.194.161:25461/000000/000000/75086
-#EXTINF:-1,XXX - PORN CHANNEL 24H-85
-http://207.180.194.161:25461/000000/000000/75085
-#EXTINF:-1,XXX - PORN CHANNEL 24H-84
-http://207.180.194.161:25461/000000/000000/75084
-#EXTINF:-1,XXX - PORN CHANNEL 24H-83
-http://207.180.194.161:25461/000000/000000/75083
-#EXTINF:-1,XXX - PORN CHANNEL 24H-82
-http://207.180.194.161:25461/000000/000000/75082
-#EXTINF:-1,XXX - PORN CHANNEL 24H-81
-http://207.180.194.161:25461/000000/000000/75081
-#EXTINF:-1,XXX - PORN CHANNEL 24H-80
-http://207.180.194.161:25461/000000/000000/75080
 
 
 #EXTINF:-1,VIP126:NUART -------a1.hdflix
@@ -3392,37 +3432,12 @@ http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/60679
 
 #EXTINF:-1,JapanHDV (18+)by iyikosan -------------iptvstack
 http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/38045 
-#EXTINF:-1,JapanHDV---55
-http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/37955
 #EXTINF:-1,JapanHDV Anal (18+) 
 http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/37954 
-#EXTINF:-1,JapanHDV---53
-http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/37953
-#EXTINF:-1,JapanHDV---52
-http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/37952
-#EXTINF:-1,JapanHDV---51
-http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/37951
-#EXTINF:-1,JapanHDV---50
-http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/37950
-#EXTINF:-1,JapanHDV---49
-http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/37949
-#EXTINF:-1,JapanHDV---48
-http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/37948
 #EXTINF:-1,JapanHDV Creampie (18+) 
 http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/37947 
-#EXTINF:-1,JapanHDV---46
-http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/37946
 #EXTINF:-1,JapanHDV Group (18+) 
 http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/37945
-#EXTINF:-1,JapanHDV---44
-http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/37944
-#EXTINF:-1,JapanHDV---43
-http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/37943
-#EXTINF:-1,JapanHDV---42
-http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/37942
-#EXTINF:-1,JapanHDV---41
-http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/37941
-
 #EXTINF:-1,Deep Lush (18+) US 
 http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/40157
 #EXTINF:-1,Girls Love Girls (18+) US 
@@ -3452,29 +3467,31 @@ http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/15914
 #EXTINF:-1,Dorcel XXX FHD (18+) NL 
 http://tv.iptvstack.net:80/6kKDtF01sDt9581/wQdKX1878/19026
 
-#EXTINF:-1,JapanHDV Anal (18+) -----------iptvstack---test
-http://tv.iptvstack.net:80/FlQDvf45822/lwBI8x7321/37954 
-#EXTINF:-1,JapanHDV Creampie (18+) 
-http://tv.iptvstack.net:80/u5Dg6vANN234/YVo7fj5769/37947 
-#EXTINF:-1,JapanHDV Group (18+) 
-http://tv.iptvstack.net:80/MRWfXOm1JQ0754/wwAcWy5678/37945
-#EXTINF:-1,JapanHDV (18+)by iyikosan
-http://tv.iptvstack.net:80/E83uMrI86/OSdk3G927/38045 
-#EXTINF:-1,JapanHDV Creampie (18+) 
-http://tv.iptvstack.net:80/OwICu1RIUl/0qCmY1cydV/37947 
-#EXTINF:-1,JapanHDV Creampie (18+) 
-http://tv.iptvstack.net:80/c5LPnYH846/Gj08DV442/37947 
-#EXTINF:-1,JapanHDV Creampie (18+) 
-http://tv.iptvstack.net:80/N3v1CFN30/GjtVY64998/37947 
-#EXTINF:-1,JapanHDV Creampie (18+) 
-http://tv.iptvstack.net:80/rAW3mDmvjd91/ooXgYf1804/37947 
 
-
-
-#EXTINF:-1,JapanHDV Creampie (18+) ---
+#EXTINF:-1,JapanHDV Creampie (18+) ---------iptvstack---test
 http://tv.iptvstack.net/HeidiMathias/XQdA8F9151/37947 
 #EXTINF:-1,JapanHDV Group (18+) 
 http://tv.iptvstack.net/TeddyKosev/9Fssj47160/37945
+#EXTINF:-1,JapanHDV Group (18+) 21---------
+http://tv.iptvstack.net:80/FlQDvf45822/lwBI8x7321/37945
+#EXTINF:-1,JapanHDV Group (18+) 69
+http://tv.iptvstack.net:80/u5Dg6vANN234/YVo7fj5769/37945
+#EXTINF:-1,JapanHDV Group (18+) 78
+http://tv.iptvstack.net:80/MRWfXOm1JQ0754/wwAcWy5678/37945
+#EXTINF:-1,JapanHDV Group (18+) 27
+http://tv.iptvstack.net:80/E83uMrI86/OSdk3G927/37945
+#EXTINF:-1,JapanHDV Group (18+) dV
+http://tv.iptvstack.net:80/OwICu1RIUl/0qCmY1cydV/37945
+#EXTINF:-1,JapanHDV Group (18+) 42
+http://tv.iptvstack.net:80/c5LPnYH846/Gj08DV442/37945
+#EXTINF:-1,JapanHDV Group (18+) 98
+http://tv.iptvstack.net:80/N3v1CFN30/GjtVY64998/37945 
+#EXTINF:-1,JapanHDV Group (18+) 04
+http://tv.iptvstack.net:80/rAW3mDmvjd91/ooXgYf1804/37945
+
+
+
+
 
 
 
