@@ -3348,6 +3348,17 @@ http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 
 
+
+#EXTINF:-1,XXX---TW---420---htv.php---test
+http://t.gerss.cn/dl/htv.php?id=420
+#EXTINF:-1,XXX---TW---419
+http://t.gerss.cn/dl/htv.php?id=419
+#EXTINF:-1,XXX---TW---418
+http://t.gerss.cn/dl/htv.php?id=418
+#EXTINF:-1,XXX---TW---417
+http://t.gerss.cn/dl/htv.php?id=417
+#EXTINF:-1,XXX---TW---416
+http://t.gerss.cn/dl/htv.php?id=416
 #EXTINF:-1,XXX---TW---415---htv.php---test
 http://t.gerss.cn/dl/htv.php?id=415
 #EXTINF:-1,XXX---TW---414
@@ -3378,41 +3389,34 @@ http://t.gerss.cn/dl/htv.php?id=403
 http://t.gerss.cn/dl/htv.php?id=402
 #EXTINF:-1,XXX---TW---401
 http://t.gerss.cn/dl/htv.php?id=401
-#EXTINF:-1,XXX---TW---400
+#EXTINF:-1,XXX---TW---400---htv.php---test
 http://t.gerss.cn/dl/htv.php?id=400
+#EXTINF:-1,XXX---TW---399
+http://t.gerss.cn/dl/htv.php?id=399
+#EXTINF:-1,XXX---TW---398
+http://t.gerss.cn/dl/htv.php?id=398
+#EXTINF:-1,XXX---TW---397
+http://t.gerss.cn/dl/htv.php?id=397
+#EXTINF:-1,XXX---TW---396
+http://t.gerss.cn/dl/htv.php?id=396
+#EXTINF:-1,XXX---TW---395
+http://t.gerss.cn/dl/htv.php?id=395
 
-#EXTINF:-1,XXX---TW---415---checkCode---test
-http://58.99.33.2:1935/liveedge2/BwQiIXYX_415_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
-#EXTINF:-1,XXX---TW---414
-http://58.99.33.2:1935/liveedge2/BwQiIXYX_414_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
-#EXTINF:-1,XXX---TW---413
-http://58.99.33.2:1935/liveedge2/BwQiIXYX_413_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
-#EXTINF:-1,XXX---TW---412
-http://58.99.33.2:1935/liveedge2/BwQiIXYX_412_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
-#EXTINF:-1,XXX---TW---411
-http://58.99.33.2:1935/liveedge2/BwQiIXYX_411_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
-#EXTINF:-1,XXX---TW---410
-http://58.99.33.2:1935/liveedge2/BwQiIXYX_410_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
-#EXTINF:-1,XXX---TW---409
-http://58.99.33.2:1935/liveedge2/BwQiIXYX_409_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
-#EXTINF:-1,XXX---TW---408
-http://58.99.33.2:1935/liveedge2/BwQiIXYX_408_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
-#EXTINF:-1,XXX---TW---407
-http://58.99.33.2:1935/liveedge2/BwQiIXYX_407_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
-#EXTINF:-1,XXX---TW---406
-http://58.99.33.2:1935/liveedge2/BwQiIXYX_406_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
-#EXTINF:-1,XXX---TW---405
-http://58.99.33.2:1935/liveedge2/BwQiIXYX_405_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
-#EXTINF:-1,XXX---TW---404
-http://58.99.33.2:1935/liveedge2/BwQiIXYX_404_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
-#EXTINF:-1,XXX---TW---403
-http://58.99.33.2:1935/liveedge2/BwQiIXYX_403_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
-#EXTINF:-1,XXX---TW---402
-http://58.99.33.2:1935/liveedge2/BwQiIXYX_402_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
-#EXTINF:-1,XXX---TW---401
-http://58.99.33.2:1935/liveedge2/BwQiIXYX_401_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
-#EXTINF:-1,XXX---TW---400
-http://58.99.33.2:1935/liveedge2/BwQiIXYX_400_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+
+
+#EXTINF:-1,Penthouse Gold --------tv.raam
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/24960
+#EXTINF:-1,Lesbian Affair
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/24955
+#EXTINF:-1,Russian Night HD (18+) 
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/24949
+#EXTINF:-1,Private TV HD 
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/3876
+#EXTINF:-1,Babes TV HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/3828
+#EXTINF:-1,Dorcel XXX FHD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/3880
+
 
 
 
