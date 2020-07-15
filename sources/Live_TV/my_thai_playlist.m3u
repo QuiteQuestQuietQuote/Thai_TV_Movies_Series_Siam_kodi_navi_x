@@ -12,8 +12,8 @@
 
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS_1080p
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV---bit.ly
-https://bit.ly/2Zf3ALh
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV
+https://cdn6.goprimetime.info/feed/chnation/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV---dailymotion
 https://stream-05.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSeHijYbpHl6H0CotFipQXMc)/dm/3/x6eoldf/d/live-2.m3u8
 #EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD
@@ -37,8 +37,10 @@ https://stream-03.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_bnceuVtOm3y1oOeyV
 
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25
 http://27.254.130.64/live01/chsd_GMM_11.m3u8?p=st
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24--SD
 http://160.119.77.50/iptv/sd-tnn24.stream/playlist.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24--SD
+http://27.254.130.64/live01/chsd_TNN_5.m3u8?p=st
 
 #EXTINF:-1 group-title="news" tvg-logo="https://www.altv.tv/_nuxt/img/9e0e34c.png",ALTV4 (Active Learning TV)
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
@@ -2905,46 +2907,7 @@ http://111.13.111.192/125.227.198.89:8028
 
 
 
-#EXTINF:-1,Server ID: Da Vinci Kids----------forsat------test
-http://forsat.men:8888/leo6/LGZE4IqIDp/3577
-#EXTINF:-1,MY CNBC
-http://forsat.men:8888/leo6/LGZE4IqIDp/4288
-#EXTINF:-1,Server ID: BBC World News
-http://forsat.men:8888/leo6/LGZE4IqIDp/3585
-#EXTINF:-1,MY BBC WORLD NEWS HD
-http://forsat.men:8888/leo6/LGZE4IqIDp/4361
-#EXTINF:-1,BBC World News HD
-http://forsat.men:8888/leo6/LGZE4IqIDp/789
-#EXTINF:-1,ID do servidor: Disc Asia HD
-http://forsat.men:8888/leo6/LGZE4IqIDp/3622
-#EXTINF:-1,Discovery Asia
-http://forsat.men:8888/leo6/LGZE4IqIDp/779
-#EXTINF:-1,MY Discovery Asia
-http://forsat.men:8888/leo6/LGZE4IqIDp/4293
-#EXTINF:-1,Discovery Science HD
-http://forsat.men:8888/leo6/LGZE4IqIDp/408
-#EXTINF:-1,MY Discovery Science HD
-http://forsat.men:8888/leo6/LGZE4IqIDp/4292
-#EXTINF:-1,Server ID: BBC Lifestyle HD
-http://forsat.men:8888/leo6/LGZE4IqIDp/3623
-#EXTINF:-1,BBC Earth
-http://forsat.men:8888/leo6/LGZE4IqIDp/385
-#EXTINF:-1,Server ID: TLC HD
-http://forsat.men:8888/leo6/LGZE4IqIDp/3626
-#EXTINF:-1,Server ID: HGTV HD
-http://forsat.men:8888/leo6/LGZE4IqIDp/3628
-#EXTINF:-1,HGTV
-http://forsat.men:8888/leo6/LGZE4IqIDp/537
-#EXTINF:-1,Server ID: AFC HD
-http://forsat.men:8888/leo6/LGZE4IqIDp/3627
-#EXTINF:-1,AFC HD
-http://forsat.men:8888/leo6/LGZE4IqIDp/807
-#EXTINF:-1,MY AFC HD
-http://forsat.men:8888/leo6/LGZE4IqIDp/4258
-#EXTINF:-1,MY Food Network HD
-http://forsat.men:8888/leo6/LGZE4IqIDp/4303
-#EXTINF:-1,Smithsonian Channel
-http://forsat.men:8888/leo6/LGZE4IqIDp/14103
+
 
 
 
@@ -2990,8 +2953,8 @@ http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,MAL: ASIAN FOOD CHANNEL ---macan
 https://delivery.macan.live/stream/id_afc/index.m3u8?token=uLys6&v=20200308
 
-#EXTINF:-1,SBS Food
-http://61.68.127.183:9981/stream/channelid/1821838877
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",samrujlok---we-play---test
+https://live.we-play.tv/live/samruajlok/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDY6MzM6NTggUE0maGFzaF92YWx1ZT1nb3RPbE9sRjJHU0kwK0ZwZXpIdlZBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ig/200701090907.jpg",W-Science
 https://tv4.chang55.com:446/live2/tv4ch35.stream/chunks.m3u8
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN---
@@ -3179,8 +3142,7 @@ http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",JAV_SonSee1
-https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",JAV_SonSee1
 https://717616144.r.worldssl.net/717616144/tv/ttv11/playlist.m3u8
 #EXTINF:-1,Happy Ch.
@@ -3204,13 +3166,13 @@ http://t.gerss.cn/dl/htv.php?id=410
 http://t.gerss.cn/dl/htv.php?id=409
 #EXTINF:-1,R=---TW---408
 http://t.gerss.cn/dl/htv.php?id=408
-#EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",JAV_Sonsee 3---TW---407
+#EXTINF:-1  tvg-logo="https://i.imgur.com/U2DMApL.png",JAV_Sonsee 3---TW---407
 http://t.gerss.cn/dl/htv.php?id=407
-#EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",JAV_Sonsee 2---TW---406
+#EXTINF:-1  tvg-logo="https://i.imgur.com/U2DMApL.png",JAV_Sonsee 2---TW---406
 http://t.gerss.cn/dl/htv.php?id=406
-#EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",JAV_Sonsee 1---TW---405
+#EXTINF:-1  tvg-logo="https://i.imgur.com/U2DMApL.png",JAV_Sonsee 1---TW---405
 http://t.gerss.cn/dl/htv.php?id=405
-#EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",JAV_Sonsee 4---TW---404
+#EXTINF:-1  tvg-logo="https://i.imgur.com/U2DMApL.png",JAV_Sonsee 4---TW---404
 http://t.gerss.cn/dl/htv.php?id=404
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N8Z939N.png" group-title="XXX",JAV_HOT---TW---403
 http://t.gerss.cn/dl/htv.php?id=403
