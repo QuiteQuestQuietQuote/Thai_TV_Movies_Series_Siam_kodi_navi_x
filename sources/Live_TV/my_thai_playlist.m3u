@@ -2352,42 +2352,6 @@ http://mu02.v2iptv.com:8880/test0011/test0011/33091
 
 #EXTINF:-1,33154_v2iptv_LZLM1823-----------
 http://mu02.v2iptv.com:8880/LZLM1823/uoYVZp6e2l/33154
-#EXTINF:-1,33154_amzlive_ZYX1M156
-http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/33154
-#EXTINF:-1,33154_v5iptv_live/test3
-http://mu01.v5iptv.com:8880/live/test3/PRz6WDQGs4/33154
-#EXTINF:-1,33154_amzlive_NFIyJbKjwz
-http://mu03.amzlive.net:8880/NFIyJbKjwz/MSMqfjp7bb/33154
-#EXTINF:-1,33154_v2iptv_C5X8UNZzfR
-http://mu02.v2iptv.com:8880/C5X8UNZzfR/fseS70wkkT/33154
-#EXTINF:-1,33154_v5iptv_JD6M0333
-http://mu01.v5iptv.com:8880/JD6M0333/SvdYYotpvx/33154
-#EXTINF:-1,33154_v2iptv_TEST024
-http://mu02.v2iptv.com:8880/TEST024/vZp8RdKqPT/33154
-#EXTINF:-1,33154_v2iptv_HJLM2002
-http://mu02.v2iptv.com:8880/HJLM2002/ciZxmw8jji/33154
-#EXTINF:-1,33154_v2iptv_live/HJLM1372
-http://mu02.v2iptv.com:8880/live/HJLM1372/sU6eOgVvUr/33154
-#EXTINF:-1,33154_amzlive_ANNM0687
-http://mu03.amzlive.net:8880/ANNM0687/ssrrUiWYS3/33154
-#EXTINF:-1,33154_amzlive_ANLM0887
-http://mu03.amzlive.net:8880/ANLM0887/yEskkPAAr8/33154
-#EXTINF:-1,33154_v2iptv_live/testzyx185
-http://mu02.v2iptv.com:8880/live/testzyx185/Vv1Ta0xgfc/33154
-#EXTINF:-1,33154_v2iptv_9SlJHWDXmG
-http://mu02.v2iptv.com:8880/9SlJHWDXmG/gV51stYYTc/33154
-#EXTINF:-1,33154_v2iptv_3BZR0l6HUl
-http://mu02.v2iptv.com:8880/3BZR0l6HUl/0ZkwqH7CWE/33154
-#EXTINF:-1,33154_v2iptv_7FpatGmvX0
-http://mu02.v2iptv.com:8880/7FpatGmvX0/hzxUH8jZNi/33154
-#EXTINF:-1,33154_v2iptv_HJLM1399
-http://mu02.v2iptv.com:8880/HJLM1399/gOQedvLAFg/33154
-#EXTINF:-1,33154_v2iptv_yw12m2n141
-http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/33154
-#EXTINF:-1,33154_v5iptv_YKNM147
-http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/33154
-#EXTINF:-1,33154_v2iptv_yw12m2n141
-http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/33154
 #EXTINF:-1,33154_v2iptv_HJLM1399
 -http://mu02.v2iptv.com:8880/HJLM1399/gOQedvLAFg/33154
 #EXTINF:-1,33154_v5iptv_JP12J006
@@ -2404,14 +2368,20 @@ http://mu03.amzlive.net:8880/NFIyJbKjwz/MSMqfjp7bb/33154
 http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/60664
 #EXTINF:-1,60664---mu03.amzlive---eSk
 http://mu03.amzlive.net:8880/78dIn7HNh9/kqBj84EeSk/60664
-
-
-#EXTINF:-1,VIP127:tushy ------------test
+#EXTINF:-1,VIP127:tushy ----cPx
 http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/60664
+
+
+#EXTINF:-1,VIP127:tushy -------mR2-----test
+http://mu03.amzlive.net:8880/VxTRkiT4W1/wLXYgE9mR2/60664
+#EXTINF:-1,VIP127:tushy -------ftR-----test
+http://mu03.amzlive.net:8880/hDmdW3Ykue/dIOZD2lftR/60664
+#EXTINF:-1,VIP127:tushy ------Gt8------test
+http://mu03.amzlive.net:8880/8E3k4bYxRZ/vEgGpttGt8/60664
+#EXTINF:-1,VIP127:tushy ------ubQ------test
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/60664
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1kB5Mk6.png" group-title="XXX",JAV_etv_33154
-http://mu03.amzlive.net:8880/trNLEdFR3S/P6Up564cPx/33154
-
-
+http://mu02.v2iptv.com:8880/yw12m2n141/SANkAtYubQ/33154
 
 #EXTINF:-1,YU150:Da Vinci Learning
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/49176
@@ -2970,6 +2940,8 @@ https://tv4.chang55.com:446/live2/tv4ch35.stream/chunks.m3u8
 http://42.114.42.194:4444/udp/225.1.1.197:30120
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp---
 http://14.186.58.9:9090/rtp/232.84.2.131:9582
+#EXTINF:-1,USA: Popular Science
+http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
 
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/im/200622065343.png",DiscoveryHistory
 http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
@@ -3088,9 +3060,8 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discoveryscience.jpg",Science Channel_india___test
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth_sony
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth---BGD
-http://103.118.76.229:1935/tvprogram/BBC-EARTH/playlist.m3u8
+https://watchindia.net:8443/live/78232/32496/789.ts
+
 
 
 
@@ -3269,6 +3240,7 @@ http://tv.iptvstack.net:80/M4P8MGN7814/XqJsXi3020/37945
 http://tv.iptvstack.net:80/tilGUrn249/myNQL43558/37945
 #EXTINF:-1,JapanHDV Group (18+) D56-----
 http://tv.iptvstack.net:80/AhHmEGe996/gkS54D56/37945
+
 
 
 
