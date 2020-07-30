@@ -25,7 +25,6 @@ http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.st
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=MLxINNx6sSPr3kzjMswNKKFvhhFaZm6z&password=q81NuMVTAgdBrC34J8HYxDvcnXuSk5Ry
 
 
-
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv----------dailymotion
 https://stream-04.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54-SpLaObpUM_93A8N505woU)/dm/3/x7kx5i7/s/live-3.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25---dailymotion
@@ -33,6 +32,8 @@ https://stream-03.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_bnceuVtOm3y1oOeyV
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV---dailymotion
 https://stream-05.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSeHijYbpHl6H0CotFipQXMc)/dm/3/x6eoldf/d/live-2.m3u8
 
+#EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD
+http://203.150.107.30:8081/tested2iptv/core1/playlist.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25
 http://27.254.130.64/live01/chsd_GMM_11.m3u8?p=st
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24--SD
@@ -2946,6 +2947,8 @@ http://42.114.42.194:4444/udp/225.1.1.197:30120
 http://14.186.58.9:9090/rtp/232.84.2.131:9582
 #EXTINF:-1,USA: Popular Science
 http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
+#EXTINF:-1,Luxe TV HD
+http://58.26.3.56/PLTV/88888888/224/3221226265/02.m3u8
 
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/im/200622065343.png",DiscoveryHistory
 http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
@@ -3134,9 +3137,41 @@ https://717616144.r.worldssl.net/717616144/tv/ttv11/playlist.m3u8
 #EXTINF:-1,Happy Ch.
 https://717616144.r.worldssl.net/717616144/tv/ttv12/playlist.m3u8
 
+#EXTINF:-1,BlueO----------dly2020.php-------test
+http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDEw
+#EXTINF:-1,Happy Ch.---TW---402
+http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDAy
 
+#EXTINF:-1,BananaTV---TW---414------test
+http://58.99.33.2:1935/liveedge2/WlMVXcPR_414_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2019&dr=&mmmm=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v99U3JE.png" group-title="XXX",JAV_AmazingTV---TW---413
+http://58.99.33.2:1935/liveedge2/WlMVXcPR_413_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2019&dr=&mmmm=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gsoilhg.jpg" group-title="XXX",JAV_Pandora_Pink---TW---412
+http://58.99.33.2:1935/liveedge2/WlMVXcPR_412_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2019&dr=&mmmm=
+#EXTINF:-1,Pandora_Perfect---TW---411
+http://58.99.33.2:1935/liveedge2/WlMVXcPR_411_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2019&dr=&mmmm=
+#EXTINF:-1,BlueO---TW---410
+http://58.99.33.2:1935/liveedge2/WlMVXcPR_410_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2019&dr=&mmmm=
+#EXTINF:-1,XXX---TW---409
+http://58.99.33.2:1935/liveedge2/WlMVXcPR_409_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2019&dr=&mmmm=
+#EXTINF:-1,R=---TW---408
+http://58.99.33.2:1935/liveedge2/WlMVXcPR_408_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2019&dr=&mmmm=
+#EXTINF:-1  tvg-logo="https://i.imgur.com/U2DMApL.png",JAV_Sonsee 3---TW---407
+http://58.99.33.2:1935/liveedge2/WlMVXcPR_407_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2019&dr=&mmmm=
+#EXTINF:-1  tvg-logo="https://i.imgur.com/U2DMApL.png",JAV_Sonsee 2---TW---406
+http://58.99.33.2:1935/liveedge2/WlMVXcPR_406_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2019&dr=&mmmm=
+#EXTINF:-1  tvg-logo="https://i.imgur.com/U2DMApL.png",JAV_Sonsee 1---TW---405
+http://58.99.33.2:1935/liveedge2/WlMVXcPR_405_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2019&dr=&mmmm=
+#EXTINF:-1  tvg-logo="https://i.imgur.com/U2DMApL.png",JAV_Sonsee 4---TW---404
+http://58.99.33.2:1935/liveedge2/WlMVXcPR_404_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2019&dr=&mmmm=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N8Z939N.png" group-title="XXX",JAV_HOT---TW---403
+http://58.99.33.2:1935/liveedge2/WlMVXcPR_403_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2019&dr=&mmmm=
+#EXTINF:-1,Happy Ch.---TW---402
+http://58.99.33.2:1935/liveedge2/WlMVXcPR_402_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2019&dr=&mmmm=
+#EXTINF:-1,Hi-Play---TW---401
+http://58.99.33.2:1935/liveedge2/WlMVXcPR_401_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2019&dr=&mmmm=
 
-#EXTINF:-1,XXX---TW---415---htv.php---test
+#EXTINF:-1,XXX---TW---415---htv.php-------------test
 http://t.gerss.cn/dl/htv.php?id=415
 #EXTINF:-1,BananaTV---TW---414
 http://t.gerss.cn/dl/htv.php?id=414
@@ -3299,29 +3334,7 @@ http://cloudfiare.com.cdntraffice.com/hanspetrouven/qqixah401/28883
 
 
 
-#EXTINF:-1,XXX:EU Cinema for Adults 1 -----------portal.dynamicsportstv
-http://portal.dynamicsportstv.xyz:8000/mustafa05/mustafa05/54516 
-#EXTINF:-1,XXX:EU Cinema for Adults 2 
-http://portal.dynamicsportstv.xyz:8000/mustafa05/mustafa05/54517 
-#EXTINF:-1,XXX:EU Cinema for Adults 3 
-http://portal.dynamicsportstv.xyz:8000/mustafa05/mustafa05/54518 
-#EXTINF:-1,XXX:EU Cinema for Adults 4 
-http://portal.dynamicsportstv.xyz:8000/mustafa05/mustafa05/54519 
-#EXTINF:-1,XXX:EU Cinema for Adults 5 
-http://portal.dynamicsportstv.xyz:8000/mustafa05/mustafa05/54520
-#EXTINF:-1,XXX:MOVIE SINEMA EROTIC HD 
-http://portal.dynamicsportstv.xyz:8000/mustafa05/mustafa05/43535
-#EXTINF:-1,XXX:MOVIE SINEMA EROTIC 2 HD 
-http://portal.dynamicsportstv.xyz:8000/mustafa05/mustafa05/43536 
-#EXTINF:-1,XXX:MOVIE SINEMA EROTIC 3 HD 
-http://portal.dynamicsportstv.xyz:8000/mustafa05/mustafa05/43537 
 
-#EXTINF:-1,XXX:EU Cinema for Adults 1-----
-http://portal.dynamicsportstv.xyz:8000/eren35/eren35/54516 
-#EXTINF:-1,XXX:EU Cinema for Adults 1
-http://portal.dynamicsportstv.xyz:8000/haldun/haldun12345/54516 
-#EXTINF:-1,XXX:EU Cinema for Adults 1
-http://portal.dynamicsportstv.xyz:8000/baris2020/baris2020/54516 
 
 #EXTINF:-1,Blue Hustler 
 http://178.217.72.66/225.201.2.61/tracks-v1a1/mono.m3u8
