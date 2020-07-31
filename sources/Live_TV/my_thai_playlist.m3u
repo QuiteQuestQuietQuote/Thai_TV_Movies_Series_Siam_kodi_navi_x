@@ -2683,10 +2683,21 @@ http://ok3.se:8000/jayjay/jayjay/364
 
 
 #EXTINF:-1,WANZ
-http://ok2.se:8000/a077F1UVHJJSouFNY/d5e5F1U5DGD4SgE9H/6611
+http://ok2.se:8000/kq5FJHlfri/iHhKrtmLXn/6611
+#EXTINF:-1,WANZ
+http://ok2.se:8000/3a3cF1UFkzQB96WHB/77a4F1Us9q1pTKGNt/6611
+#EXTINF:-1,WANZ
+http://ok2.se:8000/25baF1UvKIPNlqXkz/70d8F1UsV60557Wqn/6611
+#EXTINF:-1,WANZ
+http://ok2.se:8000/EUGtZFVUET/b15pEFoe6L/6611
+#EXTINF:-1,WANZ
+http://ok2.se:8000/ee53F1Ur5U2UdJOJJ/10abF1UJpOUbsBRJG/6611
+#EXTINF:-1,WANZ
+http://ok2.se:8000/e7d2F1UtVezkVZ9Y0/f6b9F1U2hjw7JJHfw/6611
+#EXTINF:-1,WANZ
+http://ok2.se:8000/GG1M1cC2wk/2RJW3DYrQs/6611
 #EXTINF:-1,IPZ
-http://ok3.se:8000/jayjay/jayjay/6610
-
+http://ok2.se:8000/IkZli2HO4g/sr8Caljhfe/6610
 
 
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC EARTH_VN_FPT--------------
@@ -2890,11 +2901,6 @@ http://111.13.111.192/125.227.198.89:8028
 
 
 
-
-
-
-
-
 #EXTINF:-1,Da Vinchi Learning-kz-----------
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1,DaVinci-RU------------eocdo
@@ -2985,7 +2991,7 @@ https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
 https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia
 https://cdn-laos.workpoint.news/hd-discoveryeng_720/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeo.png",NETIONAL GEO HD TH
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeo.png",NATIONAL GEO HD TH
 https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",HISTORY HD
 https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
@@ -3006,6 +3012,27 @@ https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:0, BBCEARTH
 https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
 
+
+#EXTINF:0, DiscoveryHD---------------livescorethai
+https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8
+#EXTINF:0, DiscoverySD
+https://streaming.livescorethai.net/iptv/sd-discovery.stream/chunks.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",HISTORY2 HD
+https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",HISTORY HD
+https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png",BBC EARTH HD
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
+https://streaming.livescorethai.net/iptv/sd-bbclifestyle.stream/chunks.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",Explore Life
+https://streaming.livescorethai.net/iptv/sd-explife.stream/chunks.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",Explore Sci
+https://streaming.livescorethai.net/iptv/sd-expsci.stream/chunks.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeo.png",NATIONAL GEO HD TH
+https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeopeople.jpg",NAT PEOPLE HD
+https://streaming.livescorethai.net/iptv/hd-natgeopeople.stream/chunks.m3u8
 
 
 
@@ -3126,8 +3153,8 @@ http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-----------tracks-v1a1
 http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV--------astra
+http://astra.realcrimea.net:8000/play/a0am
 
 
 
@@ -3141,6 +3168,7 @@ https://717616144.r.worldssl.net/717616144/tv/ttv12/playlist.m3u8
 http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDEw
 #EXTINF:-1,Happy Ch.---TW---402
 http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDAy
+
 
 #EXTINF:-1,BananaTV---TW---414------test
 http://58.99.33.2:1935/liveedge2/WlMVXcPR_414_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2019&dr=&mmmm=
