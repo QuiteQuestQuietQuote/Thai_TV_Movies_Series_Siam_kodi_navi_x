@@ -2682,18 +2682,7 @@ http://ok2.se:8000/a077F1UVHJJSouFNY/d5e5F1U5DGD4SgE9H/364
 http://ok3.se:8000/jayjay/jayjay/364
 
 
-#EXTINF:-1,WANZ
-http://ok2.se:8000/kq5FJHlfri/iHhKrtmLXn/6611
-#EXTINF:-1,WANZ
-http://ok2.se:8000/3a3cF1UFkzQB96WHB/77a4F1Us9q1pTKGNt/6611
-#EXTINF:-1,WANZ
-http://ok2.se:8000/25baF1UvKIPNlqXkz/70d8F1UsV60557Wqn/6611
-#EXTINF:-1,WANZ
-http://ok2.se:8000/EUGtZFVUET/b15pEFoe6L/6611
-#EXTINF:-1,WANZ
-http://ok2.se:8000/ee53F1Ur5U2UdJOJJ/10abF1UJpOUbsBRJG/6611
-#EXTINF:-1,WANZ
-http://ok2.se:8000/e7d2F1UtVezkVZ9Y0/f6b9F1U2hjw7JJHfw/6611
+
 #EXTINF:-1,WANZ
 http://ok2.se:8000/GG1M1cC2wk/2RJW3DYrQs/6611
 #EXTINF:-1,IPZ
@@ -2935,7 +2924,8 @@ https://tv4.chang55.com:446/live2/tv4ch21.stream/chunks.m3u8
 https://tv4.chang55.com:446/live2/tv4ch19.stream/chunks.m3u8 
 
 
-
+#EXTINF:-1,RO: DAVINCI LEARNING---------------
+http://iptvclub.live:25461/uZvSNsgJywIfDgv/EsmE03iOKBpILNS/77427
 
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="Learning",Discovery Science--------india-----test
