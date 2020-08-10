@@ -2388,6 +2388,8 @@ http://mu03.smartersplus.com:8880/AN6M1123/61329267/33154
 
 
 
+
+
 #EXTINF:-1,YU150:Da Vinci Learning
 http://mu01.v5iptv.com:8880/BL12MA000891853977/92454145/49176
 #EXTINF:-1,US020:CNBC
@@ -2931,8 +2933,7 @@ https://tv4.chang55.com:446/live2/tv4ch21.stream/chunks.m3u8
 https://tv4.chang55.com:446/live2/tv4ch19.stream/chunks.m3u8 
 
 
-#EXTINF:-1,RO: DAVINCI LEARNING---------------
-http://iptvclub.live:25461/uZvSNsgJywIfDgv/EsmE03iOKBpILNS/77427
+
 
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="Learning",Discovery Science--------india-----test
@@ -2944,14 +2945,15 @@ https://delivery.macan.live/stream/id_afc/index.m3u8?token=uLys6&v=20200308
 https://live.we-play.tv/live/samruajlok/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDY6MzM6NTggUE0maGFzaF92YWx1ZT1nb3RPbE9sRjJHU0kwK0ZwZXpIdlZBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ig/200701090907.jpg",W-Science
 https://tv4.chang55.com:446/live2/tv4ch35.stream/chunks.m3u8
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN---
-http://42.114.42.194:4444/udp/225.1.1.197:30120
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp---
-http://123.27.77.43:4022/rtp/232.84.2.131:9582
+
 #EXTINF:-1,USA: Popular Science
 http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
 #EXTINF:-1,Luxe TV HD
 http://58.26.3.56/PLTV/88888888/224/3221226265/02.m3u8
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN---
+http://42.114.42.194:4444/udp/225.1.1.197:30120
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp---
+http://123.27.77.43:4022/rtp/232.84.2.131:9582
 
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/im/200622065343.png",DiscoveryHistory
 http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
@@ -3044,7 +3046,7 @@ https://cdnkbl2.useetv.com/joss/15/afc/chunklist_w1806772519_b1344100_sleng_.m3u
 #EXTINF:-1,Asian Food Network---------VN--------fptplay
 http://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 #EXTINF:-1,Da Vinci
-https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8?token=test
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/playlist.m3u8
 #EXTINF:0, BBC Earth
