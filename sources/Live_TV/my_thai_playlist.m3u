@@ -2955,6 +2955,24 @@ http://42.114.42.194:4444/udp/225.1.1.197:30120
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp---
 http://123.27.77.43:4022/rtp/232.84.2.131:9582
 
+#EXTINF:-1,IN: TLC--------kitv
+http://iptv.kitv.live:1935/live/Shari/MTV-P/45.m3u8
+#EXTINF:-1,ASIA: BBC LIFESTYLE
+http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8
+#EXTINF:-1,ASIA: BBC EARTH
+http://iptv.kitv.live:1935/live/Shari/MTV-P/62.m3u8
+
+#EXTINF:-1,BBC Lifestyle--------itpolly
+https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
+#EXTINF:-1,BBC World
+https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+#EXTINF:-1,Euronews
+https://itpolly.iptv.digijadoo.net/live/euro_news/chunks.m3u8
+#EXTINF:-1,DW
+https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8
+#EXTINF:-1,Nat Geo People
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/im/200622065343.png",DiscoveryHistory
 http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth-----------------TH--------------160.119.77.50
@@ -3198,6 +3216,15 @@ http://58.99.33.2:1935/liveedge2/WlMVXcPR_402_1/chunklist_w.m3u8?checkCode=37050
 #EXTINF:-1,Hi-Play---TW---401
 http://58.99.33.2:1935/liveedge2/WlMVXcPR_401_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2019&dr=&mmmm=
 
+#EXTINF:-1,BBC Earth HD
+http://58.99.33.2:1935/liveedge2/SQgzDhnF_133_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1,BBC Entertainment Channel
+http://58.99.33.2:1935/liveedge2/SQgzDhnF_134_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1,BBC life style
+http://58.99.33.2:1935/liveedge2/SQgzDhnF_135_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+
+
+
 #EXTINF:-1,XXX---TW---415---htv.php-------------test
 http://t.gerss.cn/dl/htv.php?id=415
 #EXTINF:-1,BananaTV---TW---414
@@ -3382,7 +3409,7 @@ https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-
 
 
 #EXTINF:-1 tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?deviceType=3&imageId=OTTLIVE_0000001752.png" group-title="Documentary",CNEX Taiwan
-http://61.58.60.230:9319/live/257.m3u8
+http://220.158.149.28:8180/live/TV00000000000000000083@HHZT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6F6NEb.png" group-title="24/7 MANDARIN",BesTV 4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6F6NEb.png" group-title="24/7 MANDARIN",BestTV UHD
