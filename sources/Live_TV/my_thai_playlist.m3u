@@ -2932,7 +2932,18 @@ https://tv4.chang55.com:446/live2/tv4ch21.stream/chunks.m3u8
 #EXTINF:-1,H2
 https://tv4.chang55.com:446/live2/tv4ch19.stream/chunks.m3u8 
 
-
+#EXTINF:-1,AFN--------indo
+http://175.158.47.63:3333/stream/channelid/962348055
+#EXTINF:-1,AFN HD
+http://175.158.47.63:3333/stream/channelid/1454266177
+#EXTINF:-1,AFN
+http://175.158.47.63:4880/stream/channelid/962348055
+#EXTINF:-1,AFN HD
+http://175.158.47.63:4880/stream/channelid/1454266177
+#EXTINF:-1,AFN
+http://175.158.47.63:5938/stream/channelid/962348055
+#EXTINF:-1,AFN HD
+http://175.158.47.63:5938/stream/channelid/1454266177
 
 
 
