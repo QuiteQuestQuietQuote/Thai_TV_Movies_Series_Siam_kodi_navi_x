@@ -2932,18 +2932,6 @@ https://tv4.chang55.com:446/live2/tv4ch21.stream/chunks.m3u8
 #EXTINF:-1,H2
 https://tv4.chang55.com:446/live2/tv4ch19.stream/chunks.m3u8 
 
-#EXTINF:-1,AFN--------indo
-http://175.158.47.63:3333/stream/channelid/962348055
-#EXTINF:-1,AFN HD
-http://175.158.47.63:3333/stream/channelid/1454266177
-#EXTINF:-1,AFN
-http://175.158.47.63:4880/stream/channelid/962348055
-#EXTINF:-1,AFN HD
-http://175.158.47.63:4880/stream/channelid/1454266177
-#EXTINF:-1,AFN
-http://175.158.47.63:5938/stream/channelid/962348055
-#EXTINF:-1,AFN HD
-http://175.158.47.63:5938/stream/channelid/1454266177
 
 
 
@@ -2952,8 +2940,6 @@ http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,MAL: ASIAN FOOD CHANNEL ---macan
 https://delivery.macan.live/stream/id_afc/index.m3u8?token=uLys6&v=20200308
 
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",samrujlok---we-play---test
-https://live.we-play.tv/live/samruajlok/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDIwIDY6MzM6NTggUE0maGFzaF92YWx1ZT1nb3RPbE9sRjJHU0kwK0ZwZXpIdlZBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ig/200701090907.jpg",W-Science
 https://tv4.chang55.com:446/live2/tv4ch35.stream/chunks.m3u8
 
@@ -2983,6 +2969,13 @@ https://itpolly.iptv.digijadoo.net/live/euro_news/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8
 #EXTINF:-1,Nat Geo People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth----------TH------worldwidetv.club
+https://vodcache.worldwidetv.club/root-c2/liveorigin/sd-bbcearth_720/playlist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
+https://vodcache.worldwidetv.club/root-c2/liveorigin/sd-bbclifestyle_720/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/im/200622065343.png",DiscoveryHistory
 http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
