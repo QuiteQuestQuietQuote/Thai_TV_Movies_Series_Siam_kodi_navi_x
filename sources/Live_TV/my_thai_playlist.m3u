@@ -2971,6 +2971,17 @@ https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
 
+#EXTINF:-1,Smithsonian Ch------Indo
+http://103.47.132.164/PLTV/88888888/224/3221227321/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="NUOC NGOAI" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png", Discovery Asia
+http://103.47.132.165:80/PLTV/88888888/224/3221227161/1.m3u8
+#EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ie/200620060429.png",Asian Food Network
+http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
+http://103.47.132.165/PLTV/88888888/224/3221227115/1.m3u8
+
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",HISTORY2 HD
+http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth----------TH------worldwidetv.club
 https://vodcache.worldwidetv.club/root-c2/liveorigin/sd-bbcearth_720/playlist.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
