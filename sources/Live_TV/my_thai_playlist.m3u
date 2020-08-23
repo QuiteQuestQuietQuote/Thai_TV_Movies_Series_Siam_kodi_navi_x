@@ -3559,7 +3559,7 @@ http://123.27.77.43:4022/rtp/232.84.1.117:10254
 
 
 
-#EXTINF:-1,CNBC HD---
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD---
 http://196.179.225.154:10001/stream/channelid/796168180?profile=pass
 #EXTINF:-1,CNBC Europe
 http://77.109.171.36:8000/play/a06r
