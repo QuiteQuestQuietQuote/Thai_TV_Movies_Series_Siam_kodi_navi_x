@@ -2682,29 +2682,40 @@ http://ok2.se:8000/Jeff5/Jeff5/364
 http://ok2.se:8000/Charlie1/Charlie1/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test17------
 http://ok2.se:8000/a077F1UVHJJSouFNY/d5e5F1U5DGD4SgE9H/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2_test18
-http://ok3.se:8000/jayjay/jayjay/364
 
 
 
 
-#EXTINF:-1,WANZ
-http://ok2.se:8000/7b3aF1UEUOrM7tn8Q/1f8fF1UCK99c4cP13/6611
-#EXTINF:-1,IPZ
-http://ok2.se:8000/b445F1UYfhxlcC0oY/76ffF1Us6uhCVKjhn/6610
 
-#EXTINF:-1,WANZ------------test
-http://ok2.se:8000/HDDoTosKRU/0UkNwBZCP8/6611
-#EXTINF:-1,IPZ
-http://ok2.se:8000/353aF1UTpsYfRqnCw/b6c4F1UQO1PD5l4uW/6610
-#EXTINF:-1,WANZ
-http://ok3.se:8000/9f7bF1UDqSkx9hPLC/0a90F1UupOZ4F5TvS/6611
-#EXTINF:-1,IPZ
-http://ok3.se:8000/1cf0F1UWzG8B0ZVT4/591cF1UihIWs8kEAp/6610
+
+#EXTINF:-1,WANZ------------alleyne
+http://ok3.se:8000/alleyne/12345/6611
+#EXTINF:-1,IPZ----------benedetto
+http://ok3.se:8000/benedetto/12345/6610
+
+
+#EXTINF:-1,JAP AV 1------------on
+http://ok3.se:8000/alleyne/12345/72393
+#EXTINF:-1,JAP AV 2
+http://ok3.se:8000/alleyne/12345/72394
+#EXTINF:-1,JAP AV 3
+http://ok3.se:8000/alleyne/12345/72395
 #EXTINF:-1,WANZ
 http://ok3.se:8000/alleyne/12345/6611
 #EXTINF:-1,IPZ
-http://ok3.se:8000/benedetto/12345/6610
+http://ok3.se:8000/alleyne/12345/6610
+#EXTINF:-1,JAV 1 UNCENSORED
+http://ok3.se:8000/alleyne/12345/6612
+#EXTINF:-1,JAV 2 UNCENSORED
+http://ok3.se:8000/alleyne/12345/6613
+#EXTINF:-1,JAV 3 UNCENSORED
+http://ok3.se:8000/alleyne/12345/6614
+#EXTINF:-1,TOKYO HOT
+http://ok3.se:8000/alleyne/12345/6572
+#EXTINF:-1,X ART
+http://ok3.se:8000/alleyne/12345/10658
+#EXTINF:-1,TUSHY
+http://ok3.se:8000/alleyne/12345/6615
 
 
 
