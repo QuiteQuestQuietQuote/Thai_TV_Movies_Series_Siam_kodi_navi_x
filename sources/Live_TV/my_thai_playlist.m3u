@@ -2692,6 +2692,8 @@ http://ok2.se:8000/a077F1UVHJJSouFNY/d5e5F1U5DGD4SgE9H/364
 http://ok3.se:8000/alleyne/12345/6611
 #EXTINF:-1,IPZ----------benedetto
 http://ok3.se:8000/benedetto/12345/6610
+#EXTINF:-1,TOKYO HOT--------giselle
+http://ok3.se:8000/giselle/123456/6572
 
 
 #EXTINF:-1,JAP AV 1------------on
@@ -2716,6 +2718,11 @@ http://ok3.se:8000/alleyne/12345/6572
 http://ok3.se:8000/alleyne/12345/10658
 #EXTINF:-1,TUSHY
 http://ok3.se:8000/alleyne/12345/6615
+
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok3
+http://ok3.se:8000/alleyne/12345/364
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok3
+http://ok3.se:8000/alleyne/12345/77332
 
 
 
@@ -2974,11 +2981,13 @@ http://42.114.42.194:4444/udp/225.1.1.197:30120
 http://123.27.77.43:4022/rtp/232.84.2.131:9582
 
 #EXTINF:-1,IN: TLC--------kitv
-http://iptv.kitv.live:1935/live/Shari/MTV-P/45.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.m3u8
 #EXTINF:-1,ASIA: BBC LIFESTYLE
-http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.m3u8
 #EXTINF:-1,ASIA: BBC EARTH
-http://iptv.kitv.live:1935/live/Shari/MTV-P/62.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.m3u8
+
+
 
 #EXTINF:-1,BBC Lifestyle--------itpolly
 https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
@@ -3100,13 +3109,13 @@ https://cdnkbl2.useetv.com/joss/15/afc/chunklist_w1806772519_b1344100_sleng_.m3u
 #EXTINF:-1,Asian Food Network---------VN--------fptplay
 http://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 #EXTINF:-1,Da Vinci
-https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.ts
 #EXTINF:-1,BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/playlist.m3u8
 #EXTINF:0, BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_2000.stream/playlist.m3u8
+https://livecdn.fptplay.net/qnetlive/bbcearth_2000.stream/playlist.ts
 #EXTINF:-1,BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/playlist.m3u8
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/playlist.ts
 #EXTINF:0 type="stream" channelId="-1" group-title="NUOC NGOAI" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png", Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
@@ -3208,8 +3217,8 @@ http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV--------astra
 http://astra.realcrimea.net:8000/play/a0am
-
-
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV--------localdblagent
+http://localdblagent.club:8080/1935/1935/12660
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",JAV_SonSee1
@@ -3347,20 +3356,8 @@ http://tv.iptvstack.net/k9eMyeFw1I0x823/IwLlYI618/19026
 
 #EXTINF:-1,JapanHDV Group (18+) 488------------iptvstack---test
 http://tv.iptvstack.net/jamiesuncle/mTkjae488/37945
-#EXTINF:-1,JapanHDV Group (18+) 240
-http://tv.iptvstack.net/AMarkovi/U9W1007240/37945
-#EXTINF:-1,JapanHDV Group (18+) xyJ
-http://tv.iptvstack.net/IQeEEIRMfj/jXDUOR5xyJ/37945
-#EXTINF:-1,JapanHDV Group (18+) 362
-http://tv.iptvstack.net/LMquVvg801/ukiWDF362/37945
-#EXTINF:-1,JapanHDV Group (18+) 878
-http://tv.iptvstack.net/DanielLundberg/HZatE2878/37945
-#EXTINF:-1,JapanHDV Group (18+) 618
-http://tv.iptvstack.net/k9eMyeFw1I0x823/IwLlYI618/37945
-#EXTINF:-1,JapanHDV Group (18+) 752
-http://tv.iptvstack.net/haMQrzVHT52/r1JfB752/37945
-
-
+#EXTINF:-1,JapanHDV Group (18+) 586
+http://tv.iptvstack.net:80/37TWg54062MS916/ZjTPKOt59pdc586/37945
 
 
 
