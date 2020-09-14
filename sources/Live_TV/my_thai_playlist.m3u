@@ -2548,32 +2548,9 @@ https://58.99.80.49:441/free/Stream1/chunks.m3u8
 https://58.99.80.49:441/free/Stream2/chunks.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",VIP029:(Sonsee 3)----skynets------test
-http://a2.skynets.tv:8880/ZYX6M0789/26586398/33160
-#EXTINF:-1,VIP030:(Pandora Perfect)
-http://a2.skynets.tv:8880/ZYX6M0789/26586398/33159
-#EXTINF:-1,VIP031:(Rainbow M)
-http://a2.skynets.tv:8880/ZYX6M0789/26586398/33158
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gsoilhg.jpg" group-title="XXX",VIP032:(Pandora Pink)
-http://a2.skynets.tv:8880/ZYX6M0789/26586398/33157
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",VIP035:(Sonsee 2)
-http://a2.skynets.tv:8880/ZYX6M0789/26586398/33156
-#EXTINF:-1,VIP037:(Rainbow K)
-http://a2.skynets.tv:8880/ZYX6M0789/26586398/33155
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1kB5Mk6.png" group-title="XXX",VIP038:(Rainbow E)
-http://a2.skynets.tv:8880/ZYX6M0789/26586398/33154
-#EXTINF:-1,VIP039:HAPPY
-http://a2.skynets.tv:8880/ZYX6M0789/26586398/33153
-#EXTINF:-1,VIP040:(Banana) 
-http://a2.skynets.tv:8880/ZYX6M0789/26586398/33152
 
-#EXTINF:-1,VIP091:Blonde Solo 
-http://a2.skynets.tv:8880/ZYX6M0789/26586398/33101
-#EXTINF:-1,VIP126:NUART 
-http://a2.skynets.tv:8880/ZYX6M0789/26586398/60663
 
-#EXTINF:-1,VIP126:NUART ---test
-http://a2.skynets.tv:8880/2zyc12m0248/5mfI2iF01j/60663
+     
 
 
 #EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_dvr1---------
@@ -2684,8 +2661,8 @@ http://ok2.se:8000/Charlie1/Charlie1/364
 http://ok2.se:8000/a077F1UVHJJSouFNY/d5e5F1U5DGD4SgE9H/364
 
 
-
-
+#EXTINF:-1,WANZ-----------marshall-----ok2
+http://ok2.se:8000/marshall/marshall/6611
 
 
 #EXTINF:-1,WANZ------------alleyne
@@ -2694,6 +2671,7 @@ http://ok3.se:8000/alleyne/12345/6611
 http://ok3.se:8000/benedetto/12345/6610
 #EXTINF:-1,TOKYO HOT--------giselle
 http://ok3.se:8000/giselle/123456/6572
+
 
 
 #EXTINF:-1,JAP AV 1------------on
@@ -3160,6 +3138,28 @@ https://watchindia.net:8443/live/78232/32496/789.ts
 
 
 
+#EXTINF:-1,VIP----1---jav----c2.justlook
+http://c2.justlook.net:8880/kg14m0814/41735947/33160 
+#EXTINF:-1,VIP-----2
+http://c2.justlook.net:8880/UkdD7XCCE9/76hVTH7ra4/33159 
+#EXTINF:-1,VIP-----3
+http://c2.justlook.net:8880/235mag1/123123123/33158 
+#EXTINF:-1,VIP-----4
+http://c2.justlook.net:8880/rudFUv4jLS/bAUUxgHk7m/33157 
+#EXTINF:-1,VIP-----5
+http://c2.justlook.net:8880/3VHSvkykuC/ngmSmXSYjT/33156
+#EXTINF:-1,VIP-----6
+http://c2.justlook.net:8880/kg12m3n0086/zxcvety64/33155
+#EXTINF:-1,VIP-----7
+http://c2.justlook.net:8880/pVVwApJrdK/pkTn9xA67e/33154
+#EXTINF:-1,VIP-----8
+http://c2.justlook.net:8880/hjh14m7906502634/65789075/33153
+#EXTINF:-1,VIP-----9---jav
+http://c2.justlook.net:8880/aZHGUsrAcS/2KbSYpyLBM/33152
+#EXTINF:-1,VIP-----10
+http://c2.justlook.net:8880/QSEzd5gu2t/wPOUCV6wKF/60663
+#EXTINF:-1,VIP-----11
+http://c2.justlook.net:8880/qJmDnDvbQv/t7TOTZfgho/33101
 
 
 
@@ -3189,8 +3189,31 @@ http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33101
 http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33149
 
 
-#EXTINF:-1,VIP030:???(Pandora Perfect) ---
-http://c2.justlook.net:8880/hjh14m6843/32174855/33159 
+
+
+#EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",VIP029:(Sonsee 3)----skynets------test
+http://a2.skynets.tv:8880/7zyc12m0233/JB4GLLc3ap/33160
+#EXTINF:-1,VIP030:(Pandora Perfect)
+http://a2.skynets.tv:8880/7zyc12m0233/JB4GLLc3ap/33159
+#EXTINF:-1,VIP031:(Rainbow M)
+http://a2.skynets.tv:8880/7zyc12m0233/JB4GLLc3ap/33158
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gsoilhg.jpg" group-title="XXX",VIP032:(Pandora Pink)
+http://a2.skynets.tv:8880/7zyc12m0233/JB4GLLc3ap/33157
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",VIP035:(Sonsee 2)
+http://a2.skynets.tv:8880/7zyc12m0233/JB4GLLc3ap/33156
+#EXTINF:-1,VIP037:(Rainbow K)
+http://a2.skynets.tv:8880/7zyc12m0233/JB4GLLc3ap/33155
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1kB5Mk6.png" group-title="XXX",VIP038:(Rainbow E)
+http://a2.skynets.tv:8880/7zyc12m0233/JB4GLLc3ap/33154
+#EXTINF:-1,VIP039:HAPPY
+http://a2.skynets.tv:8880/7zyc12m0233/JB4GLLc3ap/33153
+#EXTINF:-1,VIP040:(Banana) 
+http://a2.skynets.tv:8880/7zyc12m0233/JB4GLLc3ap/33152
+
+#EXTINF:-1,VIP091:Blonde Solo 
+http://a2.skynets.tv:8880/7zyc12m0233/JB4GLLc3ap/33101
+#EXTINF:-1,VIP126:NUART 
+http://a2.skynets.tv:8880/7zyc12m0233/JB4GLLc3ap/60663
 
 
 
@@ -3267,6 +3290,12 @@ http://58.99.33.2:1935/liveedge2/SQgzDhnF_133_1/chunklist_w.m3u8?checkCode=37050
 http://58.99.33.2:1935/liveedge2/SQgzDhnF_134_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
 #EXTINF:-1,BBC life style
 http://58.99.33.2:1935/liveedge2/SQgzDhnF_135_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+
+
+
+
+
+
 
 
 
@@ -3554,9 +3583,9 @@ http://45.92.69.76:8000/play/a05h
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2---1
-http://ok2.se:8000/f4d5F1Us0eAoWG49g/a2d5F1UDNiEYFsQuv/364
+http://ok2.se:8000/superman/12345/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2---2
-http://ok2.se:8000/a5f5F1U8Cckg8gGZ3/df54F1UNYPGrjxC4Z/364
+http://ok2.se:8000/george/george123/364
 
 
 
