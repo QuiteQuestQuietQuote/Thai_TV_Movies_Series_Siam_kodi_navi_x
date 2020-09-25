@@ -2981,13 +2981,13 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ie/200620060429.png",Asian Food Network-------we-play
-https://live.we-play.tv/documentary/afn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDg6MzY6MDMgUE0maGFzaF92YWx1ZT1SL0VQd2tVc09QSVFOR29XZzdHM2tRPT0mdmFsaWRtaW51dGVzPTIw
+https://live.we-play.tv/documentary/afn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIwIDc6MjI6MjYgUE0maGFzaF92YWx1ZT1wZERCSEtVRnZZczJSWFBrby9QVU5BPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:0 type="stream" channelId="-1" group-title="NUOC NGOAI" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png", Discovery Asia
-https://live.we-play.tv/documentary/disasia/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDg6NDI6MjIgUE0maGFzaF92YWx1ZT10eUdYNEY2SHZ1dkw3SGxib3VRbFlRPT0mdmFsaWRtaW51dGVzPTIw
+https://live.we-play.tv/documentary/disasia/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIwIDc6MjI6MjYgUE0maGFzaF92YWx1ZT1wZERCSEtVRnZZczJSWFBrby9QVU5BPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth
-https://live.we-play.tv/documentary/bbc-earth/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDg6NDA6MzYgUE0maGFzaF92YWx1ZT11NDJsZktHN1RVc05mVHNpZVRnM0xRPT0mdmFsaWRtaW51dGVzPTIw
+https://live.we-play.tv/documentary/bbc-earth/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIwIDc6MjI6MjYgUE0maGFzaF92YWx1ZT1wZERCSEtVRnZZczJSWFBrby9QVU5BPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
-https://live.we-play.tv/documentary/bbc-lifestyle/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDg6NDE6MjcgUE0maGFzaF92YWx1ZT03NGFMZytPbDAra3RNaU4zMTVTUGp3PT0mdmFsaWRtaW51dGVzPTIw
+https://live.we-play.tv/documentary/bbc-lifestyle/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIwIDc6MjI6MjYgUE0maGFzaF92YWx1ZT1wZERCSEtVRnZZczJSWFBrby9QVU5BPT0mdmFsaWRtaW51dGVzPTIw
 
 
 #EXTINF:-1,Food Network
@@ -3402,20 +3402,34 @@ http://tv.iptvstack.net/k9eMyeFw1I0x823/IwLlYI618/19026
 
 
 
-
-
-
-
-
 #EXTINF:-1,JapanHDV Group (18+) 488------------iptvstack---test
 http://tv.iptvstack.net/jamiesuncle/mTkjae488/37945
 #EXTINF:-1,JapanHDV Group (18+) 586
 http://tv.iptvstack.net:80/37TWg54062MS916/ZjTPKOt59pdc586/37945
 #EXTINF:-1,JapanHDV Group (18+) 752
 http://tv.iptvstack.net/haMQrzVHT52/r1JfB752/37945
+#EXTINF:-1,JapanHDV Group (18+) 954
+http://tv.iptvstack.net/Promo3/O4ULWh954/37945
 
 
 
+
+#EXTINF:-1,mytv01-----195---------jav
+http://188.40.76.108:25461/mytv01/uSIRzmks51/195
+#EXTINF:-1,mytv01-----196
+http://188.40.76.108:25461/mytv01/uSIRzmks51/196
+#EXTINF:-1,mytv01-----197
+http://188.40.76.108:25461/mytv01/uSIRzmks51/197
+#EXTINF:-1,mytv01-----260
+http://188.40.76.108:25461/mytv01/uSIRzmks51/260
+#EXTINF:-1,mytv01-----261
+http://188.40.76.108:25461/mytv01/uSIRzmks51/261
+#EXTINF:-1,mytv01-----262
+http://188.40.76.108:25461/mytv01/uSIRzmks51/262
+#EXTINF:-1,mytv01-----263
+http://188.40.76.108:25461/mytv01/uSIRzmks51/263
+#EXTINF:-1,mytv01-----264
+http://188.40.76.108:25461/mytv01/uSIRzmks51/264
 
 
 
