@@ -3091,7 +3091,40 @@ https://streaming.livescorethai.net/iptv/hd-natgeopeople.stream/chunks.m3u8
 https://cdnkbl2.useetv.com/joss/15/afc/chunklist_w1806772519_b1344100_sleng_.m3u8
 
 
-
+#EXTINF:-1,CA - BBC Earth--------------51.68.116.46:80
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/89152
+#EXTINF:-1,RUS - DA VINCI LEARNING
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/5320
+#EXTINF:-1,PH - ASIAN FOOD CHANNEL
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/61454
+#EXTINF:-1,AU - SBS FOOD
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/50303
+#EXTINF:-1,PL - DISCOVERY HISTORY
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/11124
+#EXTINF:-1,PL - DISCOVERY LIFE
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/6059
+#EXTINF:-1,PL - DISCOVERY SCIENCE
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/6058
+#EXTINF:-1,EX-YU - Discovery Science
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/18119
+#EXTINF:-1,RO - DISCOVERY SCIENCE
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/7209
+#EXTINF:-1,FR - Discovery Science HD
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/4770
+#EXTINF:-1,FR - Discovery Science HD (B)
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/16771
+#EXTINF:-1,UK - Discovery Science
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/180
+#EXTINF:-1,UK - Discovery Science (B)
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/7435
+#EXTINF:-1,CA - DISCOVERY SCIENCE
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/59503
+#EXTINF:-1,ITA - Discovery Science UHD
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/23730
+#EXTINF:-1,ITA - Nat People UHD
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/23722
+#EXTINF:-1,ITA - NatGeo People HD
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/568
 
 
 #EXTINF:-1,Asian Food Network---------VN--------fptplay
@@ -3391,14 +3424,7 @@ http://tv.iptvstack.net:8080/kj8gCNr365/8YGg9G102/37945
 #EXTINF:-1,JapanHDV Group (18+) 177
 http://tv.iptvstack.net:8080/EKoHvHX760/AHv0cv177/37945
 
-#EXTINF:-1,JapanHDV Group (18+) 634
-http://tv.iptvstack.net:80/7PVZgxV479/rjm21v4634/37945
-#EXTINF:-1,JapanHDV Group (18+) 872
-http://tv.iptvstack.net:80/cLwJZdJ017/qCxZss872/37945
-#EXTINF:-1,JapanHDV Group (18+) 718
-http://tv.iptvstack.net:80/CMJgdmM05/bUEZcR718/37945
-#EXTINF:-1,JapanHDV Group (18+) 737
-http://tv.iptvstack.net:80/hanspetqdominic/5khk1p6737/37945
+
 
 
 
@@ -3615,6 +3641,16 @@ http://123.27.77.43:4022/rtp/232.84.1.117:10254
 http://196.179.225.154:10001/stream/channelid/796168180?profile=pass
 #EXTINF:-1,CNBC Europe
 http://77.109.171.36:8000/play/a06r
+
+#EXTINF:-1,UK - CNBC
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/4249
+#EXTINF:-1,USA - CNBC
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/6371
+#EXTINF:-1,CA - CNBC
+http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/59511
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC_VN
