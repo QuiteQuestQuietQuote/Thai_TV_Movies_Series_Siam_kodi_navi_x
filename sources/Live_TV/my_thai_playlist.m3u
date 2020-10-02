@@ -2661,8 +2661,8 @@ http://ok2.se:8000/Charlie1/Charlie1/364
 http://ok2.se:8000/a077F1UVHJJSouFNY/d5e5F1U5DGD4SgE9H/364
 
 
-#EXTINF:-1,WANZ-----------marshall-----ok2
-http://ok2.se:8000/marshall/marshall/6611
+#EXTINF:-1,WANZ------------ok2
+http://ok2.se:8000/98d1F1U2bXsqN1FE3/0539F1UVL5gkfLPQ7/6611
 
 
 #EXTINF:-1,WANZ------------abcde
@@ -3091,40 +3091,52 @@ https://streaming.livescorethai.net/iptv/hd-natgeopeople.stream/chunks.m3u8
 https://cdnkbl2.useetv.com/joss/15/afc/chunklist_w1806772519_b1344100_sleng_.m3u8
 
 
-#EXTINF:-1,CA - BBC Earth--------------51.68.116.46:80
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/89152
-#EXTINF:-1,RUS - DA VINCI LEARNING
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/5320
-#EXTINF:-1,PH - ASIAN FOOD CHANNEL
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/61454
-#EXTINF:-1,AU - SBS FOOD
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/50303
-#EXTINF:-1,PL - DISCOVERY HISTORY
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/11124
-#EXTINF:-1,PL - DISCOVERY LIFE
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/6059
-#EXTINF:-1,PL - DISCOVERY SCIENCE
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/6058
-#EXTINF:-1,EX-YU - Discovery Science
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/18119
-#EXTINF:-1,RO - DISCOVERY SCIENCE
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/7209
-#EXTINF:-1,FR - Discovery Science HD
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/4770
-#EXTINF:-1,FR - Discovery Science HD (B)
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/16771
-#EXTINF:-1,UK - Discovery Science
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/180
-#EXTINF:-1,UK - Discovery Science (B)
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/7435
-#EXTINF:-1,CA - DISCOVERY SCIENCE
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/59503
-#EXTINF:-1,ITA - Discovery Science UHD
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/23730
-#EXTINF:-1,ITA - Nat People UHD
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/23722
-#EXTINF:-1,ITA - NatGeo People HD
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/568
+
+#EXTINF:-1,BG: Da Vinci Learning-------------dragoniptv
+http://dragoniptv.club:8080/DGpWkxc9nR/UVZVGmKJmn/51843
+#EXTINF:-1,VIP PK: DA VINCI KIDS
+http://dragoniptv.club:8080/DGpWkxc9nR/UVZVGmKJmn/33972
+#EXTINF:-1,VIP SLO: DA VINCI LEARING
+http://dragoniptv.club:8080/DGpWkxc9nR/UVZVGmKJmn/32873
+#EXTINF:-1,VIP VTN: DA VINCI LEARNING HD
+http://dragoniptv.club:8080/DGpWkxc9nR/UVZVGmKJmn/9859
+#EXTINF:-1,PL: Da Vinci Learning
+http://dragoniptv.club:8080/DGpWkxc9nR/UVZVGmKJmn/9213
+#EXTINF:-1,RO: DaVinci Learning
+http://dragoniptv.club:8080/DGpWkxc9nR/UVZVGmKJmn/50360
+#EXTINF:-1,TR: DA Vinci Learning HD
+http://dragoniptv.club:8080/DGpWkxc9nR/UVZVGmKJmn/8042
+#EXTINF:-1,RUS: DA VINCI LEARNING
+http://dragoniptv.club:8080/DGpWkxc9nR/UVZVGmKJmn/21541
+
+#EXTINF:-1,VIP VTN: AFC
+http://dragoniptv.club:8080/DGpWkxc9nR/UVZVGmKJmn/9857
+#EXTINF:-1,VIP VTN: BBC Earth HD
+http://dragoniptv.club:8080/DGpWkxc9nR/UVZVGmKJmn/9846
+#EXTINF:-1,VIP VTN: BBC LIFESTYLE
+http://dragoniptv.club:8080/DGpWkxc9nR/UVZVGmKJmn/32715
+#EXTINF:-1,VIP VTN: DISCOVERY ASIA HD
+http://dragoniptv.club:8080/DGpWkxc9nR/UVZVGmKJmn/32716
+
+#EXTINF:-1,VIP MLZ: ASIAN FOOD CHANNEL
+http://dragoniptv.club:8080/DGpWkxc9nR/UVZVGmKJmn/28705
+#EXTINF:-1,VIP MLZ: BBC EARTH HD
+http://dragoniptv.club:8080/DGpWkxc9nR/UVZVGmKJmn/28694
+#EXTINF:-1,VIP MLZ: BBC LIFESTYLE
+http://dragoniptv.club:8080/DGpWkxc9nR/UVZVGmKJmn/28693
+#EXTINF:-1,VIP MLZ: DISCOVERY SCI HD
+http://dragoniptv.club:8080/DGpWkxc9nR/UVZVGmKJmn/33259
+
+
+#EXTINF:-1,VIP VTN: AFC-------dragoniptv-----FsZ
+http://dragoniptv.club:8080/tkvrdjHjqC/nPacUsXFsZ/9857
+#EXTINF:-1,VIP VTN: AFC-------dragoniptv-----UPv
+http://dragoniptv.club:8080/7xchTaZFk7/aDkPVnsUPv/9857
+#EXTINF:-1,VIP VTN: AFC-------dragoniptv-----4Fm
+http://dragoniptv.club:8080/u08e0UrYAP/wwPeVXF4Fm/9857
+#EXTINF:-1,VIP VTN: AFC-------dragoniptv-----9FF
+http://dragoniptv.club:8080/QcCCFcaVMD/xzC6A7E9FF/9857
+
 
 
 #EXTINF:-1,Asian Food Network---------VN--------fptplay
@@ -3614,9 +3626,9 @@ http://45.92.69.76:8000/play/a05h
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2---1
-http://ok2.se:8000/Q9wQtXj8wN/Q9wQtXj8wN/364
+http://ok2.se:8000/ztvPNR85WT/2xmHGA0tfP/364
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2---2
-http://ok2.se:8000/hKLHfwNchp/hKLHfwNchp/364
+http://ok2.se:8000/thgHWVmb2g/wSCfSLW77U/364
 
 
 
@@ -3642,12 +3654,7 @@ http://196.179.225.154:10001/stream/channelid/796168180?profile=pass
 #EXTINF:-1,CNBC Europe
 http://77.109.171.36:8000/play/a06r
 
-#EXTINF:-1,UK - CNBC
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/4249
-#EXTINF:-1,USA - CNBC
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/6371
-#EXTINF:-1,CA - CNBC
-http://51.68.116.46:80/NgZIgiJiMh/cbQ3V9uoJ3/59511
+
 
 
 
