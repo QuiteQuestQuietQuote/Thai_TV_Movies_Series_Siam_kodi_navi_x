@@ -13,7 +13,7 @@
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS_1080p
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV
-https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+http://27.254.130.64/live01/chsd_Nation_8.m3u8?p=m3u8
 #EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://news1live.com/images/social-share-logo.png",news1
@@ -40,6 +40,8 @@ http://27.254.130.64/live01/chsd_GMM_11.m3u8?p=st
 http://160.119.77.50/iptv/sd-tnn24.stream/playlist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24--SD
 http://27.254.130.64/live01/chsd_TNN_5.m3u8?p=st
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV
+https://cdn6.goprimetime.info/feed/chnation/index.m3u8
 #EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD
 http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
 
@@ -2890,6 +2892,18 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 
+#EXTINF:-1 group-title="movies"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOPTQe.jpg",FW-Mov
+https://www.fwiptv.cc/player_demo.php?channel=89782
+#EXTINF:-1 group-title="movies"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOP10k.jpg",FW-Sov
+https://www.fwiptv.cc/player_demo.php?channel=89781
+#EXTINF:-1 group-title="movies"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOPZsE.jpg",FW-Toon
+https://www.fwiptv.cc/player_demo.php?channel=89780
+#EXTINF:-1 group-title="movies"tvg-logo="https://sv1.picz.in.th/images/2020/09/25/OABMGJ.jpg",Doo-Series
+http://196.53.248.18:8081/live/series_us/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia-------CN
 http://111.13.111.192/125.227.198.89:8028
@@ -3076,6 +3090,28 @@ https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8
 https://streaming.livescorethai.net/iptv/hd-natgeopeople.stream/chunks.m3u8
 
 
+#EXTINF:-1, tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/27.jpg" tvg-name=“PSI SARADEE” , PSI SARADEE
+http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OGZii0.png",SangChan
+https://www.fwiptv.cc/player_demo.php?channel=60254
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia
+https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
+
+#EXTINF:-1 group-title="Docu" tvg-logo="https://sv1.picz.in.th/images/2020/10/02/OHTZuk.jpg",true_X-ZYTE-------------doofootball
+https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/chunks.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",Explore Life
+https://doofootball.livestream-cdn.com/iptv/sd-explife.stream/chunks.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",Explore Sci
+https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png",BBC EARTH HD
+https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
+https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ie/200620060429.png",Asian Food Network-------we-play----test
+https://live.we-play.tv/documentary/afn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDIwIDk6MTk6MDAgUE0maGFzaF92YWx1ZT1YaFBHeG4vQ1pCa00rYmVxWC9ZU3NBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1,food-network
+http://doo2you.com/tv/WE-PlAY-food-network.php
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="Khusus Indihome",Asian Food Network------test------------useetv
@@ -3149,8 +3185,11 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 
 
 
-#EXTINF:-1, tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/27.jpg" tvg-name=“PSI SARADEE” , PSI SARADEE
-http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="Learning",UN Web TV-------------
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
 #EXTINF:-1,TH Warner
@@ -3217,6 +3256,11 @@ http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33101
 #EXTINF:-1,VIP043:Russian Night 
 http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33149
 
+
+#EXTINF:-1,VIP030:???(Pandora Perfect) --------c2------test
+http://c2.abcnew.site:8880/PxJheyTzL4/ezTqpMTP7G/33159 
+#EXTINF:-1,VIP030:???(Pandora Perfect) 
+http://c2.comloor.club:8880/tvtest1002/JHA873HJG/33159 
 
 
 
@@ -3333,16 +3377,7 @@ http://58.99.33.2:1935/liveedge2/SQgzDhnF_135_1/chunklist_w.m3u8?checkCode=37050
 
 
 
-#EXTINF:-1,jap_ts1--------------TW----------test
-http://113.196.177.81:9001/VideoInput/play.ts
-#EXTINF:-1,jap_ts2
-http://113.196.177.81:9002/VideoInput/play.ts
-#EXTINF:-1,jap_ts3
-http://113.196.177.81:9003/VideoInput/play.ts
-#EXTINF:-1,jap_ts4
-http://113.196.177.81:9004/VideoInput/play.ts
-#EXTINF:-1,jap_ts5
-http://113.196.177.81:9005/VideoInput/play.ts
+
 
 
 
@@ -3446,6 +3481,8 @@ http://tv.iptvstack.net:8080/kj8gCNr365/8YGg9G102/37945
 http://tv.iptvstack.net:8080/EKoHvHX760/AHv0cv177/37945
 #EXTINF:-1,JapanHDV Group (18+) QV7
 http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/37945
+#EXTINF:-1,JapanHDV Group (18+) 907
+http://tv.iptvstack.net:8080/interdico/jVGNTj907/37945
 
 
 #EXTINF:-1,Blue Hustler 
