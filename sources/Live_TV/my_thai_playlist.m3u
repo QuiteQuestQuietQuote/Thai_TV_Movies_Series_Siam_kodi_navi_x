@@ -2892,12 +2892,12 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 
-#EXTINF:-1 group-title="movies"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOPTQe.jpg",FW-Mov
-https://www.fwiptv.cc/player_demo.php?channel=89782
+#EXTINF:-1 group-title="movies"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOPTQe.jpg",FW-Mov----------test
+https://free.fwstream.com:1215/freelive-edge/_definst_/fwmov_fw-iptv.stream/chunklist_w60025694.m3u8?cEV2Q0cxeVUzWE5oazBBQ3dMUmNnb0pMMysrclNkTnhpekhHUnh1ME83QXNSb1VZLzlHUlNVNnRPRGRjSjh5aXpuakJNUGUxd1N1d3NnSDM5NVIzc3hhZWtxUHVIWWtYZVQ1aC9mVDJmUEk9,794ec3c201a26345594d682faa016074
 #EXTINF:-1 group-title="movies"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOP10k.jpg",FW-Sov
-https://www.fwiptv.cc/player_demo.php?channel=89781
+https://free2.fwstream.com:1215/freelive-edge/_definst_/fwsov_fw-iptv.stream/chunklist_w779610941.m3u8?K2ZGbnJVbHZrZDRBRGhqN0RxUG5hZXFyMmx2cFRsZ2MzMHJkelFsSmYxd1VuVng0eDJaYmRwUVE0VzVqbGFITzUwR0JCM1lJK1JDbm1TNk1ua2kyaFJPUFBjK0RMMVFhcDFzSTQvSnAraG89,794ec3c201a26345594d682faa016074
 #EXTINF:-1 group-title="movies"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOPZsE.jpg",FW-Toon
-https://www.fwiptv.cc/player_demo.php?channel=89780
+https://free.fwstream.com:1215/freelive-edge/_definst_/fwtoon_fw-iptv.stream/chunklist_w848503014.m3u8?K2ZGbnJVbHZrZDRBRGhqN0RxUG5hZXFyMmx2cFRsZ2MzMHJkelFsSmYxd2R0aVhoVTg1Y1lITi9pMGVZY2VTV05BV0ZsTHMvSHhwaFB5aFpkR3FoN043M3R0WlAyOFhJZGU1QUJBUFV3QTg9,794ec3c201a26345594d682faa016074
 #EXTINF:-1 group-title="movies"tvg-logo="https://sv1.picz.in.th/images/2020/09/25/OABMGJ.jpg",Doo-Series
 http://196.53.248.18:8081/live/series_us/playlist.m3u8
 
@@ -2959,6 +2959,13 @@ http://58.26.3.56/PLTV/88888888/224/3221226265/02.m3u8
 http://42.114.42.194:4444/udp/225.1.1.197:30120
 #EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp---
 http://14.169.92.193:8889/rtp/232.84.2.131:9582
+
+#EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_VN_rtp--------------------------
+http://14.169.92.193:8889/rtp/232.84.2.129:9570
+#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,Da Vinci Learning_VN_rtp
+http://14.169.92.193:8889/rtp/232.84.2.131:9582
+#EXTINF:-1 group-title="docu" tvg-logo="https://free2you.000webhostapp.com/PIC6/hd-discovery.jpg",DISCOVERY ASIA_VN_rtp
+http://14.169.92.193:8889/rtp/232.84.2.53:10528
 
 #EXTINF:-1,IN: TLC--------kitv
 http://iptv.kitv.live:1935/live/Shari/MTV-P/45.m3u8
@@ -3109,9 +3116,47 @@ https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ie/200620060429.png",Asian Food Network-------we-play----test
-https://live.we-play.tv/documentary/afn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDIwIDk6MTk6MDAgUE0maGFzaF92YWx1ZT1YaFBHeG4vQ1pCa00rYmVxWC9ZU3NBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1,food-network
-http://doo2you.com/tv/WE-PlAY-food-network.php
+https://live.we-play.tv/documentary/afn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIwIDc6MjM6MzMgUE0maGFzaF92YWx1ZT1pSDlGNkt6OTNOR25OTVNWNEF3UnVRPT0mdmFsaWRtaW51dGVzPTIw
+
+
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY Discovery ASIA------------iptvstream---test
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/175475
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY BBC Earth HD
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/175294
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY BBC Lifestyle
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/175518
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY Discovery Science HD
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/175474
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY History HD
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/175826
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY NAT GEO Asia HD
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/175735
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY NAT GEO HD
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/175730
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY NAT GEO People
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/175731
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: AEC HD
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157508
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: AFN HD
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157549
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: BBC Earth HD
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/171979
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: BBC Lifestyle
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/171976
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: CNBC
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157529
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: Discovery ASIA
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157536
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: Discovery Science HD
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157530
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: NAT GEO Asia HD
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/171965
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: NAT GEO HD
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157531
+#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: NAT GEO People
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157551
+
+
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="Khusus Indihome",Asian Food Network------test------------useetv
@@ -3164,7 +3209,7 @@ http://dragoniptv.club:8080/u08e0UrYAP/wwPeVXF4Fm/9857
 #EXTINF:-1,VIP VTN: AFC-------dragoniptv-----9FF
 http://dragoniptv.club:8080/QcCCFcaVMD/xzC6A7E9FF/9857
 #EXTINF:-1,VIP VTN: AFC-------dragoniptv-----l0K
-http://dragoniptv.club:8080:8080/br6BE1WZ9M/N8eY81nl0K/9857
+http://dragoniptv.club:8080/br6BE1WZ9M/N8eY81nl0K/9857
 
 
 
