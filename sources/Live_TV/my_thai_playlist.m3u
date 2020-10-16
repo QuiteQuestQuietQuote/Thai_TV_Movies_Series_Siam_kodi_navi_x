@@ -24,16 +24,20 @@ http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.st
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_3bb
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=MLxINNx6sSPr3kzjMswNKKFvhhFaZm6z&password=q81NuMVTAgdBrC34J8HYxDvcnXuSk5Ry
 
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv
+http://dootvthai-hd.com/cmd/true/NEW-TV/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD
+http://203.150.107.30:8081/tested2iptv/core1/playlist.m3u8
+#EXTINF:-1 group-title="Free_TV"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png",AMARIN TV
+https://cdn6.goprimetime.info//feed//chamarin//index.m3u8
 
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv----------dailymotion
-https://stream-04.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54-SpLaObpUM_93A8N505woU)/dm/3/x7kx5i7/s/live-3.m3u8
+
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25---dailymotion
 https://stream-03.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_bnceuVtOm3y1oOeyVgvad4)/dm/3/x6rz4t7/s/live-4.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-FA1qYamVdV0/WdLYu-5Mb4I/AAAAAAAAAHA/1yysvTjCZwUXRLJYcvKVQ7ljvwbzOmuxwCLcBGAs/s200/021.png",Nation TV---dailymotion
 https://stream-05.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSeHijYbpHl6H0CotFipQXMc)/dm/3/x6eoldf/d/live-2.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD
-http://203.150.107.30:8081/tested2iptv/core1/playlist.m3u8
+
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25
 http://27.254.130.64/live01/chsd_GMM_11.m3u8?p=st
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24--SD
@@ -2892,12 +2896,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 
-#EXTINF:-1 group-title="movies"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOPTQe.jpg",FW-Mov----------test
-https://free.fwstream.com:1215/freelive-edge/_definst_/fwmov_fw-iptv.stream/chunklist_w60025694.m3u8?cEV2Q0cxeVUzWE5oazBBQ3dMUmNnb0pMMysrclNkTnhpekhHUnh1ME83QXNSb1VZLzlHUlNVNnRPRGRjSjh5aXpuakJNUGUxd1N1d3NnSDM5NVIzc3hhZWtxUHVIWWtYZVQ1aC9mVDJmUEk9,794ec3c201a26345594d682faa016074
-#EXTINF:-1 group-title="movies"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOP10k.jpg",FW-Sov
-https://free2.fwstream.com:1215/freelive-edge/_definst_/fwsov_fw-iptv.stream/chunklist_w779610941.m3u8?K2ZGbnJVbHZrZDRBRGhqN0RxUG5hZXFyMmx2cFRsZ2MzMHJkelFsSmYxd1VuVng0eDJaYmRwUVE0VzVqbGFITzUwR0JCM1lJK1JDbm1TNk1ua2kyaFJPUFBjK0RMMVFhcDFzSTQvSnAraG89,794ec3c201a26345594d682faa016074
-#EXTINF:-1 group-title="movies"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOPZsE.jpg",FW-Toon
-https://free.fwstream.com:1215/freelive-edge/_definst_/fwtoon_fw-iptv.stream/chunklist_w848503014.m3u8?K2ZGbnJVbHZrZDRBRGhqN0RxUG5hZXFyMmx2cFRsZ2MzMHJkelFsSmYxd2R0aVhoVTg1Y1lITi9pMGVZY2VTV05BV0ZsTHMvSHhwaFB5aFpkR3FoN043M3R0WlAyOFhJZGU1QUJBUFV3QTg9,794ec3c201a26345594d682faa016074
+
 #EXTINF:-1 group-title="movies"tvg-logo="https://sv1.picz.in.th/images/2020/09/25/OABMGJ.jpg",Doo-Series
 http://196.53.248.18:8081/live/series_us/playlist.m3u8
 
@@ -3099,8 +3098,6 @@ https://streaming.livescorethai.net/iptv/hd-natgeopeople.stream/chunks.m3u8
 
 #EXTINF:-1, tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/27.jpg" tvg-name=“PSI SARADEE” , PSI SARADEE
 http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OGZii0.png",SangChan
-https://www.fwiptv.cc/player_demo.php?channel=60254
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia
 https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
 
@@ -3114,9 +3111,10 @@ https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
 https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia
+https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ie/200620060429.png",Asian Food Network-------we-play----test
-https://live.we-play.tv/documentary/afn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIwIDc6MjM6MzMgUE0maGFzaF92YWx1ZT1pSDlGNkt6OTNOR25OTVNWNEF3UnVRPT0mdmFsaWRtaW51dGVzPTIw
+
 
 
 #EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY Discovery ASIA------------iptvstream---test
@@ -3302,10 +3300,7 @@ http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33101
 http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33149
 
 
-#EXTINF:-1,VIP030:???(Pandora Perfect) --------c2------test
-http://c2.abcnew.site:8880/PxJheyTzL4/ezTqpMTP7G/33159 
-#EXTINF:-1,VIP030:???(Pandora Perfect) 
-http://c2.comloor.club:8880/tvtest1002/JHA873HJG/33159 
+
 
 
 
@@ -3356,10 +3351,7 @@ http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-----------tracks-v1a1
 http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV--------astra
-http://astra.realcrimea.net:8000/play/a0am
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV--------localdblagent
-http://localdblagent.club:8080/1935/1935/12660
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",JAV_SonSee1
