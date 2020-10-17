@@ -3378,6 +3378,13 @@ http://a2.skynets.tv:8880/SpgAbzerLL/JptxCSLhGE/68966
 #EXTINF:-1 tvg-id="bbc.earth.za" tvg-name="ZA088:BBC Earth" tvg-logo="" group-title="South Africa",ZA088:BBC Earth
 http://a2.skynets.tv:8880/SpgAbzerLL/JptxCSLhGE/68967
 
+#EXTINF:-1 tvg-id="" tvg-name="YU032:Da Vinci Learning" tvg-logo="" group-title="Yugoslavia",YU032:Da Vinci Learning----------skynets---test
+http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/49294
+#EXTINF:-1 tvg-id="" tvg-name="YU032:Da Vinci Learning" tvg-logo="" group-title="Yugoslavia",YU032:Da Vinci Learning---aatvbox
+http://a2.aatvbox.club:8880/s3463/ZaeHyeG5ah/49294
+#EXTINF:-1 tvg-id="" tvg-name="YU032:Da Vinci Learning" tvg-logo="" group-title="Yugoslavia",YU032:Da Vinci Learning---84.212
+http://84.212.117.223:8880/s3463/ZaeHyeG5ah/49294
+
 
 #EXTINF:-1,Russian Night--------
 http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2
