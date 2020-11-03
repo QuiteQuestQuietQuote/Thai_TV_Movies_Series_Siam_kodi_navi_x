@@ -1339,6 +1339,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="http://image.free.in.th/v/2013/ip/200529062321.png",CineMAX
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
+#EXTINF:-1 group-title="movies"tvg-logo="https://sv1.picz.in.th/images/2020/09/25/OABMGJ.jpg",Doo-Series
+http://196.53.248.18:8081/live/series_us/playlist.m3u8
+
 
 
 
@@ -1398,7 +1401,17 @@ https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/series/kingdom-ss2-2020/
 
 
 
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/tLgbDMukWcunPiEbJg1eG27hW8oUsvyddd.png",Star Wars IX The Rise of Skywalker 2019
+https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-28/Star.Wars.The.Rise.Of.Skywalker.2019.1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/WsHIOWnBdYYunQEXfEAiBq5mGEwgIBnKnives-Out-Poster-Thai.jpg",Knives Out 2019
+https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-27/Knives.out.2019.1080p.mp4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/MMiBgE5VQAXCbAxGUCUooOjJpTMREwEaa.jpg",Mulan (2020)
+https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-43/Mulan.2020.1080p.V1.TH.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/lVtuGiIxIPgcnux2d8DlYWAvfyPqwA2aa.jpg",Enola Holmes (2020)
+https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-44/Enola.Holmes.2020.1080p.NF.TH.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/chXJloG464PTb9phCZ7YhOZz5Sgx6QM.jpg",Kingdom (2019)
+https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-44/Kingdom[2019].mp4/playlist.m3u8
 
 
 

@@ -13,7 +13,7 @@
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS_1080p
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV
-http://27.254.130.64/live01/chsd_Nation_8.m3u8?p=m3u8
+https://cdn6.goprimetime.info/feed/chnation/index.m3u8
 #EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://news1live.com/images/social-share-logo.png",news1
@@ -25,7 +25,7 @@ http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.st
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=MLxINNx6sSPr3kzjMswNKKFvhhFaZm6z&password=q81NuMVTAgdBrC34J8HYxDvcnXuSk5Ry
 
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv
-http://dootvthai-hd.com/cmd/true/NEW-TV/playlist.m3u8
+https://cdn6.goprimetime.info//feed//newtv//index.m3u8
 #EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD
 http://203.150.107.30:8081/tested2iptv/core1/playlist.m3u8
 #EXTINF:-1 group-title="Free_TV"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png",AMARIN TV
@@ -49,8 +49,8 @@ https://cdn6.goprimetime.info/feed/chnation/index.m3u8
 #EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD
 http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="news" tvg-logo="https://www.altv.tv/_nuxt/img/9e0e34c.png",ALTV4 (Active Learning TV)
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://sv1.picz.in.th/images/2020/10/09/OeiYQt.png",ALTV4 (Active Learning TV)
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1,PSI HD
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 #EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD_3BB
@@ -3406,11 +3406,30 @@ http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",(18+) Nuart TV
+http://178.158.181.8:1504/118
+#EXTINF:-1,Russian Night
+http://178.158.181.8:1504/120
 
+
+
+
+#EXTINF:-1,9
+https://717616144.r.worldssl.net/717616144/tv/ttv9/playlist.m3u8
+#EXTINF:-1,10
+https://717616144.r.worldssl.net/717616144/tv/ttv10/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",JAV_SonSee1
 https://717616144.r.worldssl.net/717616144/tv/ttv11/playlist.m3u8
 #EXTINF:-1,Happy Ch.
 https://717616144.r.worldssl.net/717616144/tv/ttv12/playlist.m3u8
+#EXTINF:-1,13
+https://717616144.r.worldssl.net/717616144/tv/ttv13/playlist.m3u8
+#EXTINF:-1,14
+https://717616144.r.worldssl.net/717616144/tv/ttv14/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1,BlueO----------dly2020.php-------test
 http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDEw
@@ -3464,17 +3483,21 @@ http://58.99.33.2:1935/liveedge2/SQgzDhnF_134_1/chunklist_w.m3u8?checkCode=37050
 #EXTINF:-1,BBC life style
 http://58.99.33.2:1935/liveedge2/SQgzDhnF_135_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
 
+#EXTINF:-1,CN-1------test
+http://ikands.xyz/dl/iqy?id=3801586&token=1216154892
+#EXTINF:-1,CN-2
+http://ikands.xyz/dl/iqy?id=3802226&token=1216154892
+#EXTINF:-1,CN-3
+http://520574.xyz/dl/youku.php?id=8027929
+#EXTINF:-1,CN-4
+http://ikands.xyz/dl/iqy?id=3801211&token=1216154892
+#EXTINF:-1,CN-5
+http://ye23.win/iptv/fjtv.php?id=9
+#EXTINF:-1,CN-6
+http://ye23.win/iptv/cditv2020.php?c=2762&id=910
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1,XXX---TW---417---htv.php-------------ON
+#EXTINF:-1,XXX---TW---417---htv.php-------------
 http://iptv-iptv.cf/qq6491443.php?id=417
 #EXTINF:-1,XXX---TW---416
 http://iptv-iptv.cf/qq6491443.php?id=416
@@ -3828,6 +3851,15 @@ https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-33/The.Treac
 https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-28/Star.Wars.The.Rise.Of.Skywalker.2019.1080p.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/WsHIOWnBdYYunQEXfEAiBq5mGEwgIBnKnives-Out-Poster-Thai.jpg",Knives Out 2019
 https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-27/Knives.out.2019.1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/MMiBgE5VQAXCbAxGUCUooOjJpTMREwEaa.jpg",Mulan (2020)
+https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-43/Mulan.2020.1080p.V1.TH.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/lVtuGiIxIPgcnux2d8DlYWAvfyPqwA2aa.jpg",Enola Holmes (2020)
+https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-44/Enola.Holmes.2020.1080p.NF.TH.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/chXJloG464PTb9phCZ7YhOZz5Sgx6QM.jpg",Kingdom (2019)
+https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-44/Kingdom[2019].mp4/playlist.m3u8
+
+
 
 
 
