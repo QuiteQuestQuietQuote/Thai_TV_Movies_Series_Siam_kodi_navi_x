@@ -3100,7 +3100,8 @@ https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8
 https://streaming.livescorethai.net/iptv/hd-natgeopeople.stream/chunks.m3u8
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids-------skynets
+http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/68996
 
 
 #EXTINF:-1, tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/27.jpg" tvg-name=“PSI SARADEE” , PSI SARADEE
@@ -3361,8 +3362,6 @@ http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/3148
 http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/28930
 #EXTINF:-1 tvg-id="cnbc.gb" tvg-name="UK228:CNBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK228CNBC.png" group-title="UK News",UK228:CNBC
 http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/28831
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/68996
 #EXTINF:-1 tvg-id="smithsonian.canada.ca" tvg-name="CA057:SMITHSONIAN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA057SMITHSONIAN.png" group-title="CA Doc",CA057:SMITHSONIAN HD
 http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/3012
 #EXTINF:-1 tvg-id="" tvg-name="UK332:Sky Documentaries" tvg-logo="" group-title="UK Doc",UK332:Sky Documentaries
@@ -3373,6 +3372,8 @@ http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/28887
 http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/28944
 #EXTINF:-1 tvg-id="discovery.science+1.gb" tvg-name="UK033:Discovery Science" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK033DiscoveryScience.png" group-title="UK Doc",UK033:Discovery Science
 http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/2924
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids
+http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/68996
 #EXTINF:-1 tvg-id="bbcearthhd.us" tvg-name="UK196:BBC Earth" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK196BBCEarth.png" group-title="UK Doc",UK196:BBC Earth
 http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/28863
 #EXTINF:-1 tvg-id="bbc.lifestyle.za" tvg-name="ZA087:BBC Lifestyle" tvg-logo="" group-title="South Africa",ZA087:BBC Lifestyle
@@ -3407,10 +3408,7 @@ http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",(18+) Nuart TV
-http://178.158.181.8:1504/118
-#EXTINF:-1,Russian Night
-http://178.158.181.8:1504/120
+
 
 #EXTINF:-1,JAV-Movie
 http://193.42.99.130:23455/3730/playlist.m3u8
