@@ -25,9 +25,9 @@ http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24----------3bb
 http://110.164.95.226:1935/Edge_Cloudiptv_Authen/broadcastwowza62_tnn24_live1.stream/playlist.m3u8?username=casG36MryQIqyL7YVdbV5pQcyEmeExUE&password=elV2iHMkaNPQgU5afVkrKm3QyYpbsqqu
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_3bb
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=8zUQdr9uHULzaRnRtiYDPAnS14Bq6DhU&password=grYK0VP4BykceZ5XuF4U2VFaW7biAkYH
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza62_gmm25_live1.stream/playlist.m3u8?username=E11yzy4eDjem6jg12siBEWiby8ZVMF0e&password=ViJmKoVDAOPbpM0ak8jaG6mra82QfZy9
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv_3bb
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_newstv_live1.stream/playlist.m3u8?username=7tnGyN9Ys7kn8T9nGVUBlaGUjuijpyyh&password=7fL0zrKde1O262rFhhxkrhMq4F0qkjOd
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_newstv_live1.stream/playlist.m3u8?username=Y9tVkeuJsCtJ7VBRtwbuNAI4k5gNX9UL&password=EvQgv4O0T3avpqhuiQePmSWvK2sJzbw6
 #EXTINF:-1 group-title="Free_TV"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png",AMARIN TV_3bb
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza63_amarintvhd_live1.stream/playlist.m3u8?username=TF2gFiyfMbQsY7if76ECxNeQncN0cE3T&password=em7wUusIxpeUu2I7gArSFcbZwlL2ukfy
 
@@ -3895,8 +3895,7 @@ https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/series/kingdom-ss2-2020/
 
 
 
-#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/images/2020/11/k8nMcTPl9pPyqnJgZLq4br1L7is6VUIHojIbOVPv.jpg",The Witches (2020)
-https://laostech.b-cdn.net/SA05/evd/vd978-The-Witches-2020-HDEN.mp4/index.m3u8?md5=Jced8Cuy83eTDryp5WqdBA&expires=1606263186
+
 
 
 
