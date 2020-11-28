@@ -36,6 +36,13 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza63_amarintvh
 http://203.150.107.30:8081/tested2iptv/core1/playlist.m3u8
 
 
+
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv_FWIPTV-----test
+https://free2.fwstream.com:1215/freelive-edge/_definst_/newstv.smil/chunklist_w1126660905_b1046608.m3u8?K2ZGbnJVbHZrZDRBRGhqN0RxUG5hZXFyMmx2cFRsZ2MzMHJkelFsSmYxeTJKall1Qm84QVRaUkJFZzcyTnkvb0c4L0FVczBOU3BtekJkK3JRS1J1V0QvQ3VCOE15SWRmRExSbFJrZ3A0RW5IY1hrN3pqTHlLdFozMSsrYTcrRFNWb3JiR1dPZmRSaHREanNPQU1iYi93PT0=%2C498634f163380430dd0591f9401580a8
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_FWIPTV
+https://free.fwstream.com:1215/freelive-edge/_definst_/gmmchannel.smil/chunklist_w616451228_b1046608.m3u8?K2ZGbnJVbHZrZDRBRGhqN0RxUG5hZXFyMmx2cFRsZ2MzMHJkelFsSmYxeHRIZzRTVWJQY2lqcUMzVGN1L09hZTc4YlRjN0YzMnJIMFhNSUNiTE8vTVY1VElBRmNtcjYxdEZtaEhkbkZDNDg2ajBKNTcvYkFhNzh5VDYvZVBwSTd2THRIUWJicm91TVJCUVdhVEVKM093PT0=%2C498634f163380430dd0591f9401580a8
+
+
 #EXTINF:-1,TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1,PSI HD
@@ -3383,6 +3390,52 @@ http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/28863
 http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/68966
 #EXTINF:-1 tvg-id="bbc.earth.za" tvg-name="ZA088:BBC Earth" tvg-logo="" group-title="South Africa",ZA088:BBC Earth
 http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/68967
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---fu/
+http://a2.skynets.tv:8880/cwx12m00600893023/rJcu25Hgfu/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---kf
+http://a2.skynets.tv:8880/vHGWeatvLR/2fZKhwUekf/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---ka
+http://a2.skynets.tv:8880/wh3m1714/aDq5EJYaka/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---Dy
+http://a2.skynets.tv:8880/wh12m3231/rRYBLu8BDy/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids----jy
+http://a2.skynets.tv:8880/wh3m1363/E6uC9DeZjy/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---w5
+http://a2.skynets.tv:8880/xzyc1m6582/HfFvUudEw5/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---JG
+http://a2.skynets.tv:8880/xzyc3m0764/MkncaDXZJG/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---aj
+http://a2.skynets.tv:8880/B9F6AxwCDo/iR56KiD8aj/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---2C
+http://a2.skynets.tv:8880/Jfs5PpNnLK/bDm8u4JX2C/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---DZ
+http://a2.skynets.tv:8880/wh12m4108/WCt3arRYDZ/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---ZP
+http://a2.skynets.tv:8880/wh12m2390/CG5SbGE4ZP/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---rN
+http://a2.skynets.tv:8880/xzyc12m3063/4Z4KyX8nrN/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---L4
+http://a2.skynets.tv:8880/5zyc12m0261/crHnCSZRL4/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---2j
+http://a2.skynets.tv:8880/wh12m2202/2pxFGzFb2j/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---EJ
+http://a2.skynets.tv:8880/3415/ZnHw28X4EJ/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---D2
+http://a2.skynets.tv:8880/3282/KGSwLUDnD2/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---uD
+http://a2.skynets.tv:8880/cwx12m0027389411/WUY3fKYtuD/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---2e
+http://a2.skynets.tv:8880/2CtaIgVroM/jgfoaQlQ2e/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---zN
+http://a2.skynets.tv:8880/wh12m3354/GkdeTFvmzN/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---Rj
+http://a2.skynets.tv:8880/wh24m0722/FxAtEcBZRj/68996
+
 
 
 
