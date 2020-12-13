@@ -3119,7 +3119,11 @@ https://streaming.livescorethai.net/iptv/hd-natgeopeople.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids-------skynets
 http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids----kz---test
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
 
+#EXTINF:-1,Pop Sci
+http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 
 #EXTINF:-1, tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/27.jpg" tvg-name=“PSI SARADEE” , PSI SARADEE
 http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
@@ -3883,10 +3887,6 @@ https://cdn-21.vip-streaming.com:30443/webdoonung/2-ssd/series2/The_Witcher_S1/T
 
 
 
-#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/R9scoMRQvMqsDk9Xn9dIoJ8FeyBxBbL1583749926271.jpg",The Treacherous 2015---KR---------
-https://cdn-21.vip-streaming.com:30443/webdoonung/2-ssd/movie/store-4/The_Treacherous_FHD.mp4/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/R9scoMRQvMqsDk9Xn9dIoJ8FeyBxBbL1583749926271.jpg",The Treacherous 2015------------
-https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-33/The.Treacherous.2015.1080p.BDRip.TH-4K.mp4/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/MMiBgE5VQAXCbAxGUCUooOjJpTMREwEaa.jpg",Mulan (2020)
