@@ -15,17 +15,12 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV_3bb
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_nation_live1.stream/playlist.m3u8?username=VcYX36I3wNz9gCs3RHX5gndrglmpArIk&password=EtGYnaSgdEm3YBIqxa1dPEqXJW8lKMSe
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV_-dailymotion
-https://stream-04.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSTiXbrLHLzQ7O-stdBFpAeI)/dm/3/x6eoldf/d/live-1.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV_-dailymotion---embed
-https://www.dailymotion.com/embed/video/x6eoldf?autoplay=1
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV_dailymotion
+https://stream-05.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSTiXbrLHLzQ7O-stdBFpAeI)/dm/3/x6eoldf/d/live-2.m3u8
 
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25---dailymotion
-https://stream-01.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_RgkfDOFakRoO9TJNsyyBTI)/dm/3/x6rz4t7/s/live-0.m3u8
-#EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25---dailymotion---sec
-https://www.dailymotion.com/cdn/live/video/x6rz4t7.m3u8?sec=nNitpFpQT3ZsGjdUQuj6iVbtU-gQrPXwTW5zObK2CzpeOySwWVWYqSDv2z0N1Uw_gTggfcwKUUSYU7O5NlPyvw
-#EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25---dailymotion---embed
-https://www.dailymotion.com/embed/video/k7KnbDPalNddQqrJq1J?autoplay=1
+https://stream-04.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_RgkfDOFakRoO9TJNsyyBTI)/dm/3/x6rz4t7/s/live-3.m3u8
+
 
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
@@ -35,9 +30,9 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_mcothd_li
 http://news1.live14.com/stream/news1_hi.m3u8
 
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24----------3bb
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_tnn24_live1.stream/playlist.m3u8?username=xSlnerA4HruBcwedbvPTg9YlyqpUjbmE&password=phSkKY8Vo4AZkQVUFXdzGuTIVYgtjcAy
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_tnn24_live1.stream/playlist.m3u8?username=RuqMS1IS4ot197U7Row0FdrGpvEsSxjy&password=TE748gxPSuZhZ3Ip5wCGvHiBhmS6Mm4v
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_3bb
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_gmm25_live1.stream/playlist.m3u8?username=REwaMRBGiAfixJJsU9JBUAjFIvtjVT2D&password=gFX7fG6rNv1nAl9koPFMc6cBIxZhZhS4
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_gmm25_live1.stream/playlist.m3u8?username=dTDoLjfg4qlUL25ANwjYTj0hpbuIBKeC&password=kcOidPE9MxLuvIneytTCxLtv05wuEaAO
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv_3bb
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_newstv_live1.stream/playlist.m3u8?username=Y9tVkeuJsCtJ7VBRtwbuNAI4k5gNX9UL&password=EvQgv4O0T3avpqhuiQePmSWvK2sJzbw6
 #EXTINF:-1 group-title="Free_TV"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png",AMARIN TV_3bb
@@ -2604,7 +2599,6 @@ http://streamnossl.1919hdtv.com:8880/lfh/_definst_/Stream1/playlist.m3u8
 
 
 
-
 #EXTINF:-1  tvg-logo="https://files.fashiontv.com/wp-content/uploads/2015/07/fashiontvplus-logo.png",FTV_Original
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://files.fashiontv.com/wp-content/uploads/2015/07/fashiontvplus-logo.png",FTV_Paris
@@ -2915,6 +2909,15 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="https://sv1.picz.in.th/images/2020/09/25/OABMGJ.jpg",Doo-Series
 http://196.53.248.18:8081/live/series_us/playlist.m3u8
 
+#EXTINF:-1,SUN MOVIES
+http://61.19.242.134:80/feed/LC1/index.m3u8
+#EXTINF:-1,SAMURAI
+http://61.19.242.134:80/feed/LC2/index.m3u8
+#EXTINF:-1,BOXFILM
+http://61.19.242.134:80/feed/LC52/index.m3u8
+#EXTINF:-1,SANOOK MOVIES
+http://61.19.242.134:80/feed/LC53/index.m3u8
+
 
 
 
@@ -3124,8 +3127,6 @@ https://streaming.livescorethai.net/iptv/hd-natgeopeople.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids-------skynets
 http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids----kz---test
-https://sc.id-tv.kz/DaVinci_34_35.m3u8
 
 #EXTINF:-1,Pop Sci
 http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
@@ -3151,87 +3152,13 @@ https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/playlist.m3u8
 
 
 
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY Discovery ASIA------------iptvstream---test
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/175475
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY BBC Earth HD
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/175294
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY BBC Lifestyle
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/175518
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY Discovery Science HD
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/175474
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY History HD
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/175826
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY NAT GEO Asia HD
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/175735
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY NAT GEO HD
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/175730
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY NAT GEO People
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/175731
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: AEC HD
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157508
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: AFN HD
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157549
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: BBC Earth HD
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/171979
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: BBC Lifestyle
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/171976
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: CNBC
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157529
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: Discovery ASIA
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157536
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: Discovery Science HD
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157530
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: NAT GEO Asia HD
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/171965
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: NAT GEO HD
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157531
-#EXTINF:-1  group-title="DTV Malaysia" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: NAT GEO People
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157551
+
 
 
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="Khusus Indihome",Asian Food Network------test------------useetv
 https://cdnkbl2.useetv.com/joss/15/afc/chunklist_w1806772519_b1344100_sleng_.m3u8
-
-
-
-#EXTINF:-1,BG: Da Vinci Learning-------------dragoniptv-----------qu7
-http://dragoniptv.club:8080/DVCfvqWb16/Xqc2nuCqu7/51843
-#EXTINF:-1,VIP PK: DA VINCI KIDS
-http://dragoniptv.club:8080/DVCfvqWb16/Xqc2nuCqu7/33972
-#EXTINF:-1,VIP SLO: DA VINCI LEARING
-http://dragoniptv.club:8080/DVCfvqWb16/Xqc2nuCqu7/32873
-#EXTINF:-1,VIP VTN: DA VINCI LEARNING HD
-http://dragoniptv.club:8080/DVCfvqWb16/Xqc2nuCqu7/9859
-#EXTINF:-1,PL: Da Vinci Learning
-http://dragoniptv.club:8080/DVCfvqWb16/Xqc2nuCqu7/9213
-#EXTINF:-1,RO: DaVinci Learning
-http://dragoniptv.club:8080/DVCfvqWb16/Xqc2nuCqu7/50360
-#EXTINF:-1,TR: DA Vinci Learning HD
-http://dragoniptv.club:8080/DVCfvqWb16/Xqc2nuCqu7/8042
-#EXTINF:-1,RUS: DA VINCI LEARNING
-http://dragoniptv.club:8080/DVCfvqWb16/Xqc2nuCqu7/21541
-
-#EXTINF:-1,VIP VTN: AFC
-http://dragoniptv.club:8080/DVCfvqWb16/Xqc2nuCqu7/9857
-#EXTINF:-1,VIP VTN: BBC Earth HD
-http://dragoniptv.club:8080/DVCfvqWb16/Xqc2nuCqu7/9846
-#EXTINF:-1,VIP VTN: BBC LIFESTYLE
-http://dragoniptv.club:8080/DVCfvqWb16/Xqc2nuCqu7/32715
-#EXTINF:-1,VIP VTN: DISCOVERY ASIA HD
-http://dragoniptv.club:8080/DVCfvqWb16/Xqc2nuCqu7/32716
-
-#EXTINF:-1,VIP MLZ: ASIAN FOOD CHANNEL
-http://dragoniptv.club:8080/DVCfvqWb16/Xqc2nuCqu7/28705
-#EXTINF:-1,VIP MLZ: BBC EARTH HD
-http://dragoniptv.club:8080/DVCfvqWb16/Xqc2nuCqu7/28694
-#EXTINF:-1,VIP MLZ: BBC LIFESTYLE
-http://dragoniptv.club:8080/DVCfvqWb16/Xqc2nuCqu7/28693
-#EXTINF:-1,VIP MLZ: DISCOVERY SCI HD
-http://dragoniptv.club:8080/DVCfvqWb16/Xqc2nuCqu7/33259
-
-
 
 
 
@@ -3467,7 +3394,10 @@ http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,JAV-Movie
 http://193.42.99.130:23455/3730/playlist.m3u8
-
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_streamlock
+https://5ed5d165c218d.streamlock.net:441/free/Stream1/chunklist_w1584063825.m3u8
+#EXTINF:-1  tvg-logo="https://wwww.1919hdtv.com/application/include/images/logo.png",Ibiza TV1_streamlock.net
+https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",JAV_SonSee1
@@ -3687,8 +3617,8 @@ https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-
 
 
 
-
-
+#EXTINF:-1,Cookie TV
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
 
 
 

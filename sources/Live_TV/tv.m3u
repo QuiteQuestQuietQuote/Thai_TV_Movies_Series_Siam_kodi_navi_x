@@ -1342,7 +1342,14 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 group-title="movies"tvg-logo="https://sv1.picz.in.th/images/2020/09/25/OABMGJ.jpg",Doo-Series
 http://196.53.248.18:8081/live/series_us/playlist.m3u8
 
-
+#EXTINF:-1,SUN MOVIES
+http://61.19.242.134:80/feed/LC1/index.m3u8
+#EXTINF:-1,SAMURAI
+http://61.19.242.134:80/feed/LC2/index.m3u8
+#EXTINF:-1,BOXFILM
+http://61.19.242.134:80/feed/LC52/index.m3u8
+#EXTINF:-1,SANOOK MOVIES
+http://61.19.242.134:80/feed/LC53/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/AkjBRIWXOy6EMIdS6mcRGHAkQIFqNElthe-witcher.jpg",The_Witcher_s1_2019_TH_ep01---------
