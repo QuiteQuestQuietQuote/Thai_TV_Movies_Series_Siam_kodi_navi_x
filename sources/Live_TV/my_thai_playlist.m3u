@@ -3069,7 +3069,7 @@ https://streaming.livescorethai.net/iptv/hd-natgeopeople.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids-------skynets
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/68996
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/68996
 
 #EXTINF:-1,Pop Sci
 http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
@@ -3204,104 +3204,81 @@ http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33149
 
 
 
-#EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",VIP029:(Sonsee 3)----skynets------test
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/33160
+#EXTINF:-1  tvg-logo="https://www.satlogo.com/logo/tv/ss/sonsee_tv_tw.png",VIP029:(Sonsee 3)----skynets----4e---test
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/33160
 #EXTINF:-1,VIP030:(Pandora Perfect)
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/33159
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/33159
 #EXTINF:-1,VIP031:(Rainbow M)
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/33158
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/33158
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gsoilhg.jpg" group-title="XXX",VIP032:(Pandora Pink)
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/33157
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/33157
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",VIP035:(Sonsee 2)
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/33156
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/33156
 #EXTINF:-1,VIP037:(Rainbow K)
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/33155
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/33155
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1kB5Mk6.png" group-title="XXX",VIP038:(Rainbow E)
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/33154
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/33154
 #EXTINF:-1,VIP039:HAPPY
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/33153
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/33153
 #EXTINF:-1,VIP040:(Banana) 
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/33152
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/33152
 
 #EXTINF:-1,VIP091:Blonde Solo 
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/33101
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/33101
 #EXTINF:-1 tvg-id="" tvg-name="VIP212:Lesbian Affair HD" tvg-logo="" group-title="XXX-VIP",VIP212:Lesbian Affair HD
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/60745
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/60745
 #EXTINF:-1,VIP126:NUART 
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/60663
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/60663
 #EXTINF:-1 tvg-id="" tvg-name="VIP150:Nuart TV Europe" tvg-logo="" group-title="XXX-VIP",VIP150:Nuart TV Europe
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/60687
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/60687
 
 
 #EXTINF:-1 tvg-id="cnbc.usa.us" tvg-name="US020:CNBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US020CNBC.png" group-title="USA General",US020:CNBC
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/3148
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/3148
 #EXTINF:-1 tvg-id="cnbc.europe.gb" tvg-name="UK129:CNBC Europe" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK129CNBCEurope.png" group-title="UK News",UK129:CNBC Europe
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/28930
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/28930
 #EXTINF:-1 tvg-id="cnbc.gb" tvg-name="UK228:CNBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK228CNBC.png" group-title="UK News",UK228:CNBC
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/28831
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/28831
 #EXTINF:-1 tvg-id="smithsonian.canada.ca" tvg-name="CA057:SMITHSONIAN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA057SMITHSONIAN.png" group-title="CA Doc",CA057:SMITHSONIAN HD
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/3012
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/3012
 #EXTINF:-1 tvg-id="" tvg-name="UK332:Sky Documentaries" tvg-logo="" group-title="UK Doc",UK332:Sky Documentaries
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/49957
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/49957
 #EXTINF:-1 tvg-id="" tvg-name="UK172:Home & Health" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK172Home&Health.png" group-title="UK Doc",UK172:Home & Health
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/28887
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/28887
 #EXTINF:-1 tvg-id="discovery.history.gb" tvg-name="UK115:Discovery History" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK115DiscoveryHistory1.png" group-title="UK Doc",UK115:Discovery History
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/28944
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/28944
 #EXTINF:-1 tvg-id="discovery.science+1.gb" tvg-name="UK033:Discovery Science" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK033DiscoveryScience.png" group-title="UK Doc",UK033:Discovery Science
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/2924
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/2924
 #EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/68996
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/68996
 #EXTINF:-1 tvg-id="bbcearthhd.us" tvg-name="UK196:BBC Earth" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK196BBCEarth.png" group-title="UK Doc",UK196:BBC Earth
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/28863
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/28863
 #EXTINF:-1 tvg-id="bbc.lifestyle.za" tvg-name="ZA087:BBC Lifestyle" tvg-logo="" group-title="South Africa",ZA087:BBC Lifestyle
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/68966
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/68966
 #EXTINF:-1 tvg-id="bbc.earth.za" tvg-name="ZA088:BBC Earth" tvg-logo="" group-title="South Africa",ZA088:BBC Earth
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/68967
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/68967
 
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---fu/
-http://a2.skynets.tv:8880/cwx12m00600893023/rJcu25Hgfu/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---kf
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png",ZA137:Da Vinci Kids---4e
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png",ZA137:Da Vinci Kids---86
+http://a2.skynets.tv:8880/wh12m5225/YcxJg72z86/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png",ZA137:Da Vinci Kids---96
+http://a2.skynets.tv:8880/ZYXNM2510/87487996/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png",ZA137:Da Vinci Kids---7Y
+http://a2.skynets.tv:8880/xzyc1m7439/89fSeJGp7Y/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png",ZA137:Da Vinci Kids---h2
+http://a2.skynets.tv:8880/wh12m4024/mvfWSwghh2/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png",ZA137:Da Vinci Kids---qL
+http://a2.skynets.tv:8880/xzyc12m2449/j3guVAMdqL/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png",ZA137:Da Vinci Kids---Xy
+http://a2.skynets.tv:8880/S9NSFVECGu/RWkXqs39Xy/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png",ZA137:Da Vinci Kids---wX
+http://a2.skynets.tv:8880/wh24m1726/K8HqTCa7wX/68996
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png",ZA137:Da Vinci Kids---kf
 http://a2.skynets.tv:8880/vHGWeatvLR/2fZKhwUekf/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---ka
-http://a2.skynets.tv:8880/wh3m1714/aDq5EJYaka/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---Dy
-http://a2.skynets.tv:8880/wh12m3231/rRYBLu8BDy/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids----jy
-http://a2.skynets.tv:8880/wh3m1363/E6uC9DeZjy/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---w5
-http://a2.skynets.tv:8880/xzyc1m6582/HfFvUudEw5/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---JG
-http://a2.skynets.tv:8880/xzyc3m0764/MkncaDXZJG/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---aj
-http://a2.skynets.tv:8880/B9F6AxwCDo/iR56KiD8aj/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---2C
-http://a2.skynets.tv:8880/Jfs5PpNnLK/bDm8u4JX2C/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---DZ
-http://a2.skynets.tv:8880/wh12m4108/WCt3arRYDZ/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---ZP
-http://a2.skynets.tv:8880/wh12m2390/CG5SbGE4ZP/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---rN
-http://a2.skynets.tv:8880/xzyc12m3063/4Z4KyX8nrN/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---L4
-http://a2.skynets.tv:8880/5zyc12m0261/crHnCSZRL4/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---2j
-http://a2.skynets.tv:8880/wh12m2202/2pxFGzFb2j/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---EJ
-http://a2.skynets.tv:8880/3415/ZnHw28X4EJ/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---D2
-http://a2.skynets.tv:8880/3282/KGSwLUDnD2/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---uD
-http://a2.skynets.tv:8880/cwx12m0027389411/WUY3fKYtuD/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---2e
-http://a2.skynets.tv:8880/2CtaIgVroM/jgfoaQlQ2e/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---zN
-http://a2.skynets.tv:8880/wh12m3354/GkdeTFvmzN/68996
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids---Rj
-http://a2.skynets.tv:8880/wh24m0722/FxAtEcBZRj/68996
+
 
 
 
@@ -3470,74 +3447,67 @@ http://tv.wakds.xyz:8080/live/tangyuan/12345678/82.m3u8
 http://tv.wakds.xyz:8080/live/tangyuan/12345678/83.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids-------skynets
-http://a2.skynets.tv:8880/s3463/ZaeHyeG5ah/68996
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",Explore Sci
+#EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids-------skynets---doc
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/68996
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",Explore Sci---doc
 https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png",BBC EARTH HD
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png",BBC EARTH HD---doc
 https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD---doc
 https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia---doc
 https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/playlist.m3u8
 
 
-#EXTINF:-1,JapanHDV (18+)by iyikosan -------------iptvstack---618
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/38045 
+#EXTINF:-1,JapanHDV (18+)by iyikosan -------------iptvstack---053
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/38045 
 #EXTINF:-1,JapanHDV Anal (18+) 
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/37954 
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/37954 
 #EXTINF:-1,JapanHDV Creampie (18+) 
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/37947 
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/37947 
 #EXTINF:-1,JapanHDV Group (18+) 
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/37945
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/37945
 #EXTINF:-1,Deep Lush (18+) US 
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/40157
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/40157
 #EXTINF:-1,Girls Love Girls (18+) US 
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/37937 
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/37937 
 #EXTINF:-1,Girls Love Girls 2 (18+) US 
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/37943 
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/37943 
 #EXTINF:-1,Teens (18+) 
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/37942 
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/37942 
 #EXTINF:-1,Tushy (18+) Us by iyikosan 
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/39812 
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/39812 
 #EXTINF:-1,Digital Playground (18+) US 
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/39813 
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/39813 
 #EXTINF:-1,Nubiles Porn (18+) US 
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/30145 
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/30145 
 #EXTINF:-1,Nubiles Casting (18+) US 
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/30144
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/30144
 #EXTINF:-1,Oldtimer (18+) US 
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/28851 
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/28851 
 #EXTINF:-1,Babes TV HD (18+) US 
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/28852
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/28852
 #EXTINF:-1,Lesbian Affair (18+) US 
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/28876
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/28876
 #EXTINF:-1,Nuart TV (18+) RU 
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/28882
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/28882
 #EXTINF:-1,Dorcel TV FHD (18+) NL 
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/15914
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/15914
 #EXTINF:-1,Dorcel XXX FHD (18+) NL 
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/19026
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/19026
 
 
 
-#EXTINF:-1,JapanHDV Group (18+) 488------------iptvstack---test
-http://tv.iptvstack.net/jamiesuncle/mTkjae488/37945
-#EXTINF:-1,JapanHDV Group (18+) 954
-http://tv.iptvstack.net/Promo3/O4ULWh954/37945
 
-#EXTINF:-1,JapanHDV Group (18+) 707
-http://tv.iptvstack.net:8080/lotus671/JIbTGO7707/37945
-#EXTINF:-1,JapanHDV Group (18+) vo1
-http://tv.iptvstack.net:8080/zihFtQYwAd/t1LUb6Hvo1/37945
-#EXTINF:-1,JapanHDV Group (18+) 102
-http://tv.iptvstack.net:8080/kj8gCNr365/8YGg9G102/37945
-#EXTINF:-1,JapanHDV Group (18+) 177
-http://tv.iptvstack.net:8080/EKoHvHX760/AHv0cv177/37945
-#EXTINF:-1,JapanHDV Group (18+) QV7
-http://tv.iptvstack.net:8080/YwQMdzy526/YABiQV7/37945
-#EXTINF:-1,JapanHDV Group (18+) 907
-http://tv.iptvstack.net:8080/interdico/jVGNTj907/37945
+
+#EXTINF:-1,JapanHDV Group (18+) 053------------iptvstack---test
+http://tv.iptvstack.net:8080/DAGIJL79833/3sez892053/37945
+#EXTINF:-1,JapanHDV Group (18+) 060
+http://tv.iptvstack.net:8080/615nQeq6n6/EJTRHI3060/37945
+#EXTINF:-1,JapanHDV Group (18+) r44
+http://tv.iptvstack.net:8080/Z8ZWIUwR1w/yXrk8r44/37945
+
+
 
 
 #EXTINF:-1,Blue Hustler 
@@ -3746,7 +3716,12 @@ http://14.169.92.193:8889/rtp/232.84.1.117:10254
 
 
 
-
+#EXTINF:-1 tvg-id="cnbc.usa.us" tvg-name="US020:CNBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US020CNBC.png" group-title="USA General",US020:CNBC
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/3148
+#EXTINF:-1 tvg-id="cnbc.europe.gb" tvg-name="UK129:CNBC Europe" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK129CNBCEurope.png" group-title="UK News",UK129:CNBC Europe
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/28930
+#EXTINF:-1 tvg-id="cnbc.gb" tvg-name="UK228:CNBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK228CNBC.png" group-title="UK News",UK228:CNBC
+http://a2.skynets.tv:8880/wh12m4326/SULaDq384e/28831
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD---
