@@ -17,9 +17,10 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-nation.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV_dailymotion
-https://stream-04.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSQ5PX-GRGsNdJxR2o28iXE0)/dm/3/x6eoldf/d/live-3.m3u8
+https://stream-05.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSU3P313FuUy9cQ_JDeYvES8)/dm/3/x6eoldf/d/live-3.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25---dailymotion
-https://stream-02.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_SoGQyds6NfkxaLEJk_U12g)/dm/3/x6rz4t7/s/live-3.m3u8
+https://stream-02.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_TI1KuTVWVvHH4V-0SHzs-M)/dm/3/x6rz4t7/s/live-3.m3u8
+
 
 
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD
@@ -43,7 +44,7 @@ https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv_dailymotion
-https://stream-04.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54-AhnPG9NpD4pA9px1N1bck)/dm/3/x7kx5i7/s/live-4.m3u8
+https://stream-01.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54yvBORU0pf9W9L1-NcG2T6c)/dm/3/x7kx5i7/s/live-4.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/400px-Thairath_TV32.png" group-title="Thailand",Thairath720
