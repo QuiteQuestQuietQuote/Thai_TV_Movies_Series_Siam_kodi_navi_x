@@ -19,7 +19,8 @@ https://doofootball.livestream-cdn.com/iptv/sd-nation.stream/chunks.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV_dailymotion
 https://stream-05.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSU3P313FuUy9cQ_JDeYvES8)/dm/3/x6eoldf/d/live-3.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25---dailymotion
-https://stream-02.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_TI1KuTVWVvHH4V-0SHzs-M)/dm/3/x6rz4t7/s/live-3.m3u8
+https://stream-04.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_cnogt4_iRij1fup9-6T3fM)/dm/3/x6rz4t7/s/live-3.m3u8
+
 
 
 
@@ -3307,8 +3308,9 @@ http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-----------tracks-v1a1
 http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Nuart-TV.png",NuArt TV-------cbilant
-http://asibiev1plus34.cbilant.com/iptv/EDLEYN8CSHGB4N/2057/index.m3u8
+
+#EXTINF:-1,RUSSIAN BABES 
+http://188.35.9.11:21051/udp/071l 
 #EXTINF:-1,barely legal
 http://78.129.228.178/iptv/EDLEYN8CSHGB4N/871/index.m3u8
 #EXTINF:-1,blue hustler
