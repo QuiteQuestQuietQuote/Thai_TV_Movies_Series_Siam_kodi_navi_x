@@ -3565,8 +3565,7 @@ http://220.158.149.28:8180/live/TV00000000000000000083@HHZT
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6F6NEb.png" group-title="24/7 MANDARIN",BestTV UHD
 http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
-#EXTINF:-1,CCTV_4K
-http://111.0.27.31/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+
 #EXTINF:-1,grtn
 http://nclive.grtn.cn/4K/sd/live.m3u8
 #EXTINF:-1,CCTV1_HD
@@ -3593,8 +3592,12 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1,CCTV_4---youtube
+plugin://plugin.video.youtube/play/?video_id=vCDDYb_M2B4
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",Channel News Asia---youtube
+plugin://plugin.video.youtube/play/?video_id=XWq5kBlakcQ
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/mBTe5bW.png",NHK WORLD HD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan_CN
@@ -3609,10 +3612,11 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 http://164.40.161.46:8002/play/s4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",Euronews_TW
 http://61.58.60.230:9319/live/129.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews English
-http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews English---youtube
+plugin://plugin.video.youtube/play/?video_id=sPgqEHsONK8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews----github
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/UdNEhUe.jpg" group-title="",Reuters
 http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
@@ -3638,8 +3642,8 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8
 #EXTINF:-1 tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News_UK
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
-#EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news---cdn-laos.workpoint
-https://cdn-laos.workpoint.news/uk-skynews_480/index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news---youtube
+plugin://plugin.video.youtube/play/?video_id=9Auq9mYxFEE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="News",Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="News",Sky News Extra 2
@@ -3653,9 +3657,8 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV---workpoint
-https://cdn-laos.workpoint.news/sd-deutschewelle_720/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV---youtube
+plugin://plugin.video.youtube/play/?video_id=gOoTbPssAo4
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OnFFoP.png" group-title="USA",Cheddar Business (New!)
@@ -3666,8 +3669,8 @@ https://thegateway.online/BizAndYou/Roku/playlist.m3u8
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg TV Asia
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg TV Australia
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg Quicktake---youtube
+plugin://plugin.video.youtube/play/?video_id=dp8PhLsUcFE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg News + info
 http://210.210.155.66/h/h03/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg News + info_indo
