@@ -37,14 +37,16 @@ https://doofootball.livestream-cdn.com/iptv/hd-amarin.stream/playlist.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-4vRZu2SiRSw/WdLYqkUFFlI/AAAAAAAAAF0/aTTW-yIICXYQPSy6u_J7l0oiPnBh2TqVwCLcBGAs/s200/002.png",5 FULLHD
 https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Free_TV"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png",AMARIN TV_dailymotion
+plugin://plugin.video.dailymotion_com/?url=x7z8zsu&mode=playVideo
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV_dailymotion
-https://stream-01.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSZ29uGnr4X6ys1N2BtsZo_k)/dm/3/x6eoldf/d/live-3.m3u8
+plugin://plugin.video.dailymotion_com/?url=x6eoldf&mode=playVideo
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25---dailymotion
-https://stream-01.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_Ypqys5R3wpZlA945kNx5GU)/dm/3/x6rz4t7/s/live-3.m3u8
+plugin://plugin.video.dailymotion_com/?url=x7kx5i7&mode=playVideo
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv_dailymotion%
+plugin://plugin.video.dailymotion_com/?url=%x7kx5i7%&mode=playVideo
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv_dailymotion
-https://stream-02.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL549DkdYRrqEELTxGuBtRVydo)/dm/3/x7kx5i7/s/live-4.m3u8
-
-
+plugin://plugin.video.dailymotion_com/?url=x7kx5i7&mode=playVideo
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/400px-Thairath_TV32.png" group-title="Thailand",Thairath720
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
