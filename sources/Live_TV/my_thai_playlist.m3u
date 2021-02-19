@@ -38,15 +38,13 @@ https://doofootball.livestream-cdn.com/iptv/hd-amarin.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Free_TV"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png",AMARIN TV_dailymotion
-plugin://plugin.video.dailymotion_com/?url=x7z8zsu&mode=playVideo
+plugin://plugin.video.dailymotion_com/?url=x7z8zsu&mode=playLiveVideo
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV_dailymotion
-plugin://plugin.video.dailymotion_com/?url=x6eoldf&mode=playVideo
+plugin://plugin.video.dailymotion_com/?url=x6eoldf&mode=playLiveVideo
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25---dailymotion
-plugin://plugin.video.dailymotion_com/?url=x7kx5i7&mode=playVideo
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv_dailymotion%
-plugin://plugin.video.dailymotion_com/?url=%x7kx5i7%&mode=playVideo
+plugin://plugin.video.dailymotion_com/?url=x6rz4t7&mode=playLiveVideo
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv_dailymotion
-plugin://plugin.video.dailymotion_com/?url=x7kx5i7&mode=playVideo
+plugin://plugin.video.dailymotion_com/?url=x7kx5i7&mode=playLiveVideo
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/400px-Thairath_TV32.png" group-title="Thailand",Thairath720
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
@@ -58,7 +56,6 @@ http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 http://203.150.107.30:8081/tested2iptv/core1/playlist.m3u8
 #EXTINF:-1,tgntv
 https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:-1,TPTV
