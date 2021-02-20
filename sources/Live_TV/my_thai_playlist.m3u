@@ -12,8 +12,9 @@
 #EXTINF:-1 group-title="news" tvg-logo="https://1.bp.blogspot.com/-6g4lUPO0WGA/Wi6NWaPugfI/AAAAAAAAQoo/dQ-xG_YJVJQJsGsnNTRE2DkbCuZ9dd0IQCLcBGAs/s1600/tps.png",Thai PBS_1080p
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV_doofootball
-https://doofootball.livestream-cdn.com/iptv/sd-nation.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV_dailymotion
+plugin://plugin.video.dailymotion_com/?url=x6eoldf&mode=playLiveVideo
 #EXTINF:-1 group-title="news" tvg-logo="https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.webp",TopNews
 https://live.topnews.co.th/hls/topnews.m3u8
 
@@ -32,19 +33,20 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_gmm25_liv
 
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_doofootball
 https://doofootball.livestream-cdn.com/iptv/sd-gmmchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV_doofootball
+https://doofootball.livestream-cdn.com/iptv/sd-nation.stream/chunks.m3u8
 #EXTINF:-1 group-title="Free_TV"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png",AMARIN TV_doofootball
 https://doofootball.livestream-cdn.com/iptv/hd-amarin.stream/playlist.m3u8
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-4vRZu2SiRSw/WdLYqkUFFlI/AAAAAAAAAF0/aTTW-yIICXYQPSy6u_J7l0oiPnBh2TqVwCLcBGAs/s200/002.png",5 FULLHD
 https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Free_TV"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png",AMARIN TV_dailymotion
-plugin://plugin.video.dailymotion_com/?url=x7z8zsu&mode=playLiveVideo
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iu/200528071726.png",Nation TV_dailymotion
-plugin://plugin.video.dailymotion_com/?url=x6eoldf&mode=playLiveVideo
-#EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25---dailymotion
-plugin://plugin.video.dailymotion_com/?url=x6rz4t7&mode=playLiveVideo
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv_dailymotion
 plugin://plugin.video.dailymotion_com/?url=x7kx5i7&mode=playLiveVideo
+#EXTINF:-1 group-title="Free_TV"tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png",AMARIN TV_dailymotion
+plugin://plugin.video.dailymotion_com/?url=x7z8zsu&mode=playLiveVideo
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25---dailymotion
+plugin://plugin.video.dailymotion_com/?url=x6rz4t7&mode=playLiveVideo
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/400px-Thairath_TV32.png" group-title="Thailand",Thairath720
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
@@ -199,9 +201,6 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/cloudiptv_monoplus_live1.s
 http://27.254.130.64/live01/ch2.m3u8?p=pptv
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24_for-our
 http://main-a.for-our.info:8081/tv1/ch5.m3u8
-
-
-
 
 
 
@@ -2861,7 +2860,14 @@ http://61.19.242.134:80/feed/LC52/index.m3u8
 http://61.19.242.134:80/feed/LC53/index.m3u8
 
 
-
+#EXTINF:-1 tvg-id="US TV"tvg-logo="https://i.ytimg.com/vi/TjpfFskUO1c/hqdefault.jpg",Starz Encore Westerns
+http://mytv.fun/live/vuiu07hk1/ipfhp7klk/685187.m3u8
+#EXTINF:-1 tvg-id="US TV"tvg-logo="https://ia801000.us.archive.org/18/items/StarzEncoreClassic/starz%20encore%20classic.png",Starz Encore Classic
+http://mytv.fun/live/vuiu07hk1/ipfhp7klk/677210.m3u8
+#EXTINF:-1 tvg-id="US TV"tvg-logo="https://www.pngkit.com/png/detail/825-8251646_png-starz-cinema-hd-logo-png.png",Starz Cinema
+http://mytv.fun/live/vuiu07hk1/ipfhp7klk/4898.m3u8
+#EXTINF:-1 tvg-id="US TV"tvg-logo="https://p.kindpng.com/picc/s/412-4120429_starz-encore-logo-transparent-hd-png-download.png",Starz Encore
+http://mytv.fun/live/vuiu07hk1/ipfhp7klk/685180.m3u8
 
 
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia-------CN
@@ -3011,24 +3017,8 @@ http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ir/200622102652.png",UK-CNBC
 http://160.119.77.50/iptv/uk-cnbc.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",Explore Life------------cdn-laos.workpoint
-https://cdn-laos.workpoint.news/sd-explife_480/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",Explore Sci
-https://cdn-laos.workpoint.news/sd-expsci_480/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeopeople.jpg",NAT PEOPLE HD
-https://cdn-laos.workpoint.news/hd-natgeopeople_720/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png",BBC EARTH HD
-https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
-https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia
-https://cdn-laos.workpoint.news/hd-discoveryeng_720/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeo.png",NATIONAL GEO HD TH
-https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",HISTORY HD
-https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",HISTORY2 HD
-https://cdn-laos.workpoint.news/hd-history2_720/index.m3u8
+
+
 
 
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg",MYSCI HD-------------livedoomovies
@@ -3065,6 +3055,26 @@ https://streaming.livescorethai.net/iptv/sd-expsci.stream/chunks.m3u8
 https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeopeople.jpg",NAT PEOPLE HD
 https://streaming.livescorethai.net/iptv/hd-natgeopeople.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png",Explore Life----------laos-tech-live.b-cdn.net
+https://laos-tech-live.b-cdn.net/sd-explife_480/index.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png",Explore Sci
+https://laos-tech-live.b-cdn.net/sd-expsci_480/index.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeopeople.jpg",NAT PEOPLE HD
+https://laos-tech-live.b-cdn.net/hd-natgeopeople_720/index.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png",BBC EARTH HD
+https://laos-tech-live.b-cdn.net/sd-bbcearth_720/index.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
+https://laos-tech-live.b-cdn.net/sd-bbclifestyle_720/index.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia
+https://laos-tech-live.b-cdn.net/hd-discoveryeng_720/index.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeo.png",NATIONAL GEO HD TH
+https://laos-tech-live.b-cdn.net/hd-natgeo_720/index.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",HISTORY HD
+https://laos-tech-live.b-cdn.net/hd-history_720/index.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",HISTORY2 HD
+https://laos-tech-live.b-cdn.net/hd-history2_720/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ZA137:Da Vinci Kids" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="South Africa",ZA137:Da Vinci Kids-------skynets
@@ -3734,7 +3744,10 @@ http://77.109.171.36:8000/play/a06r
 
 
 
-
+#EXTINF:-1,CNBC US---test
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/502
+#EXTINF:-1,CNBC HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501
 
 
 
@@ -3771,7 +3784,32 @@ https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-44/Enola.Hol
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/images/movie/chXJloG464PTb9phCZ7YhOZz5Sgx6QM.jpg",Kingdom (2019)
 https://cdn-21.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-44/Kingdom[2019].mp4/playlist.m3u8
 
-
+#EXTINF:-1,thaicable---1---test
+http://thaicable.myftp.org:8000/live/infosat/2020/1.m3u8
+#EXTINF:-1,thaicable---11
+http://thaicable.myftp.org:8000/live/infosat/2020/11.m3u8
+#EXTINF:-1,thaicable---21
+http://thaicable.myftp.org:8000/live/infosat/2020/21.m3u8
+#EXTINF:-1,thaicable---31
+http://thaicable.myftp.org:8000/live/infosat/2020/31.m3u8
+#EXTINF:-1,thaicable---41
+http://thaicable.myftp.org:8000/live/infosat/2020/41.m3u8
+#EXTINF:-1,thaicable---51
+http://thaicable.myftp.org:8000/live/infosat/2020/51.m3u8
+#EXTINF:-1,thaicable---61
+http://thaicable.myftp.org:8000/live/infosat/2020/61.m3u8
+#EXTINF:-1,thaicable---71
+http://thaicable.myftp.org:8000/live/infosat/2020/71.m3u8
+#EXTINF:-1,thaicable---81
+http://thaicable.myftp.org:8000/live/infosat/2020/81.m3u8
+#EXTINF:-1,thaicable---91
+http://thaicable.myftp.org:8000/live/infosat/2020/91.m3u8
+#EXTINF:-1,thaicable---101
+http://thaicable.myftp.org:8000/live/infosat/2020/101.m3u8
+#EXTINF:-1,thaicable---111
+http://thaicable.myftp.org:8000/live/infosat/2020/111.m3u8
+#EXTINF:-1,thaicable---112
+http://thaicable.myftp.org:8000/live/infosat/2020/112.m3u8
 
 
 
