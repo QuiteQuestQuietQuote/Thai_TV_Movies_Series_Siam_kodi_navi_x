@@ -3433,91 +3433,7 @@ https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
 
 
-#EXTINF:-1,pandaiptv-----test
-http://pandaiptv.club:8080/get.php?username=VB9uke2sGg&password=btpmF6ECfV&type=m3u_plus
-#EXTINF:-1 tvg-ID="cnbcworld.us" tvg-name="VIP US: CNBC HD" tvg-logo="[" group-title="Live: USA",VIP US: CNBC HD
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/10676
-#EXTINF:-1 tvg-ID="CNBC US" tvg-name="VIP CAN: CNBC" tvg-logo="[" group-title="Live: Canada",VIP CAN: CNBC
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/22766
-#EXTINF:-1 tvg-ID="cnbc.uk" tvg-name="UK: CNBC News" tvg-logo="[""]" group-title="Live: United Kingdom",UK: CNBC News
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/12365
-#EXTINF:-1 tvg-ID="" tvg-name="AF: CNBC SA" tvg-logo="" group-title="Live: African",AF: CNBC SA
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/11516
 
-#EXTINF:-1 tvg-ID="bbcworldnews.uk" tvg-name="UK: BBC World News" tvg-logo="" group-title="Live: United Kingdom",UK: BBC World News
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/26106
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: BBC World News" tvg-logo="" group-title="Live: African",VIP ZA: BBC World News
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/33647
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ID: BBC World News ID" tvg-logo="" group-title="Live: Indonesia",VIP ID: BBC World News ID
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/28808
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="BG: Da Vinci Learning" tvg-logo="" group-title="Live: Bulgaria",BG: Da Vinci Learning
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/51843
-#EXTINF:-1 tvg-ID="" tvg-name="VIP PK: DA VINCI KIDS" tvg-logo="" group-title="Live: Pakistan",VIP PK: DA VINCI KIDS
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/33972
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: DA VINCI LEARING" tvg-logo="" group-title="Live: Slovenia",VIP SLO: DA VINCI LEARING
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/32873
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: DA VINCI LEARNING HD" tvg-logo="" group-title="Live: Vietnam",VIP VTN: DA VINCI LEARNING HD
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/9859
-#EXTINF:-1 tvg-ID="davincilearning.pl" tvg-name="PL: Da Vinci Learning" tvg-logo="" group-title="Live: Poland",PL: Da Vinci Learning
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/9213
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RO: DaVinci Learning" tvg-logo="" group-title="Live: Romania",RO: DaVinci Learning
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/50360
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RS: Da Vinci Learning" tvg-logo="" group-title="Live: EX-Yu",RS: Da Vinci Learning
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/23633
-
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PH: AFC" tvg-logo="" group-title="Live: Filipino",VIP PH: AFC
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/22504
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: AFC" tvg-logo="" group-title="Live: Vietnam",VIP VTN: AFC
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/9857
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: Asian Food Channel ID" tvg-logo="" group-title="Live: Indonesia",VIP ID: Asian Food Channel ID
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/28812
-#EXTINF:-1 tvg-ID="" tvg-name="VIP MYM: Asian Food Channel" tvg-logo="" group-title="Live: Myanmar",VIP MYM: Asian Food Channel
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/30336
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: ASIAN FOOD CHANNEL" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: ASIAN FOOD CHANNEL
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/28705
-
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ID: BBC Earth ID" tvg-logo="" group-title="Live: Indonesia",VIP ID: BBC Earth ID
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/28809
-#EXTINF:-1 tvg-ID="" tvg-name="VIP MYM: BBC Earth" tvg-logo="" group-title="Live: Myanmar",VIP MYM: BBC Earth
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/30333
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: BBC EARTH HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: BBC EARTH HD
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/28694
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: BBC Earth HD" tvg-logo="[" group-title="Live: Vietnam",VIP VTN: BBC Earth HD
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/9846
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ZA: BBC Earth" tvg-logo="" group-title="Live: African",VIP ZA: BBC Earth
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/33635
-#EXTINF:-1 tvg-ID="bbcearth.pl" tvg-name="PL: BBC EARTH FHD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/bbc-earth.jpg" group-title="Live: Poland",PL: BBC EARTH FHD
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/5153
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: BBC LIFESTYLE" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: BBC LIFESTYLE
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/28693
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: BBC LIFESTYLE" tvg-logo="" group-title="Live: Vietnam",VIP VTN: BBC LIFESTYLE
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/32715
-
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Nat Geo People" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Nat Geo People
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/10887
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Life" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Explore Life
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/10884
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Science" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Explore Science
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/10883
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: DISCOVERY ASIA HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: DISCOVERY ASIA HD
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/10896
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Discovery Channel" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Discovery Channel
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/10880
-
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: HBO Asia HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: HBO Asia HD
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/10909
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: HBO Family" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: HBO Family
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/10898
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: HBO Hits" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: HBO Hits
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/10895
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: HBO Signature" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: HBO Signature
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/10894
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: HBO thai" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: HBO thai
-http://pandaiptv.club:8080/VB9uke2sGg/btpmF6ECfV/10893
 
 
 #EXTINF:-1,185.71.64.167:2086-----test
@@ -3532,6 +3448,11 @@ http://185.71.64.167:80/7397766620/1314765706/85267
 http://185.71.64.167:80/7397766620/1314765706/80871
 #EXTINF:-1,|SLOVENIA| DAVINCI LEARNING
 http://185.71.64.167:80/7397766620/1314765706/158652
+
+#EXTINF:-1,|AU| SBS FOOD-----
+http://185.71.64.167:80/7397766620/1314765706/83424
+#EXTINF:-1,|OSN|HEVC| NAT GEO PEOPLE HD
+http://185.71.64.167:80/7397766620/1314765706/78906
 #EXTINF:-1,|NL|HEVC| DISCOVERY HD
 http://185.71.64.167:80/7397766620/1314765706/79738
 #EXTINF:-1,|NL|HEVC| DISCOVERY WORLD
@@ -3540,6 +3461,26 @@ http://185.71.64.167:80/7397766620/1314765706/79737
 http://185.71.64.167:80/7397766620/1314765706/79736
 #EXTINF:-1,|NL|HEVC| HISTORY HD
 http://185.71.64.167:80/7397766620/1314765706/79734
+
+#EXTINF:-1,|GENERAL| BBC BRIT-----
+http://185.71.64.167:80/7397766620/1314765706/85048
+#EXTINF:-1,|GENERAL| BBC LIFESTYLE
+http://185.71.64.167:80/7397766620/1314765706/85047
+#EXTINF:-1,|GENERAL| BBC WORLD NEWS
+http://185.71.64.167:80/7397766620/1314765706/85046
+#EXTINF:-1,|GENERAL| SKY NEWS
+http://185.71.64.167:80/7397766620/1314765706/85045
+#EXTINF:-1,|GENERAL| EURONEWS
+http://185.71.64.167:80/7397766620/1314765706/85044
+#EXTINF:-1,|UK|FHD| BBC WORLD NEWS
+http://185.71.64.167:80/7397766620/1314765706/80329
+
+#EXTINF:-1,|PT| CNBC-----
+http://185.71.64.167:80/7397766620/1314765706/81700
+#EXTINF:-1,|UK|SD| CNBC
+http://185.71.64.167:80/7397766620/1314765706/80316
+#EXTINF:-1,|OSN| CNBC EUROPE
+http://185.71.64.167:80/7397766620/1314765706/78914
 
 
 #EXTINF:-1 tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?deviceType=3&imageId=OTTLIVE_0000001752.png" group-title="Documentary",CNEX Taiwan
@@ -3717,11 +3658,11 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 
 
-#EXTINF:-1 tvg-id="cnbc.usa.us" tvg-name="US020:CNBC---skynets" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US020CNBC.png" group-title="USA General",US020:CNBC
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",US020:CNBC---skynets
 http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/3148
-#EXTINF:-1 tvg-id="cnbc.europe.gb" tvg-name="UK129:CNBC Europe---skynets" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK129CNBCEurope.png" group-title="UK News",UK129:CNBC Europe
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",UK129:CNBC Europe---skynets
 http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/28930
-#EXTINF:-1 tvg-id="cnbc.gb" tvg-name="UK228:CNBC---skynets" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK228CNBC.png" group-title="UK News",UK228:CNBC
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",UK228:CNBC---skynets
 http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/28831
 
 
