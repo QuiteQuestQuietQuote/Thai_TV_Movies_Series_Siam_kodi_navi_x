@@ -2911,21 +2911,6 @@ http://160.119.77.50/iptv/uk-cnbc.stream/playlist.m3u8
 
 
 
-
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg",MYSCI HD-------------livedoomovies
-https://www.livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",samrujlok
-https://www.livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeopeople.jpg",NAT PEOPLE HD
-https://www.livedoomovies.com/02_NatPeopleHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discoveryscience.jpg",Science Channel
-https://www.livedoomovies.com/02_DiscoveryScience/chunklist.m3u8
-#EXTINF:0, DiscoveryHDWorld
-https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:0, BBCEARTH
-https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
-
-
 #EXTINF:0, DiscoveryHD---------------livescorethai
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8
 #EXTINF:0, DiscoverySD
@@ -2993,7 +2978,22 @@ https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/playlist.m3u8
 
 
-
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg",MYSCI HD-------------livedoomovies
+https://www.livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",samrujlok
+https://www.livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeopeople.jpg",NAT PEOPLE HD
+https://www.livedoomovies.com/02_NatPeopleHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discoveryscience.jpg",Science Channel
+https://www.livedoomovies.com/02_DiscoveryScience/chunklist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discovery.png",Discovery Channel
+https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png",DISCOVERY HD WORLD
+https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png",BBC EARTH HD
+https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbclifestyle.png",BBC LIFESTYLE HD
+https://www.livedoomovies.com/02_LIFETYLEHD_720p/chunklist.m3u8
 
 
 
@@ -3070,34 +3070,6 @@ https://watchindia.net:8443/live/78232/32496/789.ts
 
 
 
-
-
-
-
-#EXTINF:-1,VIP029:??3(Sonsee 3) -----------c2.justlook
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33160 
-#EXTINF:-1,VIP030:???(Pandora Perfect) 
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33159 
-#EXTINF:-1,VIP031:????(Rainbow M) 
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33158 
-#EXTINF:-1,VIP032:???(Pandora Pink) 
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33157 
-#EXTINF:-1,VIP035:??2(Sonsee 2) 
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33156 
-#EXTINF:-1,VIP037:??K(Rainbow K) 
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33155 
-#EXTINF:-1,VIP038:??E(Rainbow E) 
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33154 
-#EXTINF:-1,VIP039:HAPPY 
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33153 
-#EXTINF:-1,VIP040:???(Banana) 
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33152
-#EXTINF:-1,VIP126:NUART 
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/60663
-#EXTINF:-1,VIP091:Blonde Solo 
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33101
-#EXTINF:-1,VIP043:Russian Night 
-http://c2.justlook.net:8880/ice14m154/f2skCEpL9H/33149
 
 
 
@@ -3180,14 +3152,8 @@ http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,VIP126:NUART ---skynets
 http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/60663
-#EXTINF:-1 tvg-id="" tvg-name="VIP191:FILMAX Adult 1" tvg-logo="" group-title="XXX-VIP",VIP191:FILMAX Adult 1
-http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/60724
-#EXTINF:-1 tvg-id="" tvg-name="VIP192:FILMAX Adult 2" tvg-logo="" group-title="XXX-VIP",VIP192:FILMAX Adult 2
-http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/60725
-#EXTINF:-1 tvg-id="" tvg-name="VIP195:FILMAX Adult 3" tvg-logo="" group-title="XXX-VIP",VIP195:FILMAX Adult 3
-http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/60728
-#EXTINF:-1 tvg-id="" tvg-name="VIP202:FILMAX Adult 5" tvg-logo="" group-title="XXX-VIP",VIP202:FILMAX Adult 5
-http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/60735
+#EXTINF:-1 tvg-id="" tvg-name="VIP150:Nuart TV Europe" tvg-logo="" group-title="XXX-VIP",VIP150:Nuart TV Europe
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/60687
 #EXTINF:-1 tvg-id="" tvg-name="VIP206:iFlixAmateur TV" tvg-logo="" group-title="XXX-VIP",VIP206:iFlixAmateur TV
 http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/60739
 #EXTINF:-1 tvg-id="" tvg-name="VIP207:iFlixLesbian TV" tvg-logo="" group-title="XXX-VIP",VIP207:iFlixLesbian TV
@@ -3198,8 +3164,16 @@ http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/60741
 http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/60742
 #EXTINF:-1 tvg-id="" tvg-name="VIP212:Lesbian Affair HD" tvg-logo="" group-title="XXX-VIP",VIP212:Lesbian Affair HD
 http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/60745
-#EXTINF:-1 tvg-id="" tvg-name="VIP193:Lesbicas" tvg-logo="" group-title="XXX-VIP",VIP193:Lesbicas
-http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/60726
+#EXTINF:-1 tvg-id="" tvg-name="VIP101:Secret Circle TV" tvg-logo="" group-title="XXX-VIP",VIP101:Secret Circle TV
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/33091
+#EXTINF:-1 tvg-id="" tvg-name="VIP217:Russian Night Europe" tvg-logo="" group-title="XXX-VIP",VIP217:Russian Night Europe
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/60750
+#EXTINF:-1 tvg-id="" tvg-name="VIP019:Babes 6" tvg-logo="" group-title="XXX-VIP",VIP019:Babes 6
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/2967
+#EXTINF:-1 tvg-id="" tvg-name="VIP020:Super 6" tvg-logo="" group-title="XXX-VIP",VIP020:Super 6
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/2966
+#EXTINF:-1 tvg-id="" tvg-name="VIP021:Babes 9" tvg-logo="" group-title="XXX-VIP",VIP021:Babes 9
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/2965
 
 
 
@@ -3268,12 +3242,15 @@ http://58.99.33.2:1935/liveedge2/WlMVXcPR_402_1/chunklist_w.m3u8?checkCode=37050
 http://58.99.33.2:1935/liveedge2/WlMVXcPR_401_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2019&dr=&mmmm=
 
 
+#EXTINF:-1,XXX---TW---402---2021-1.php---test
+http://public.97n.top/2021-1.php?id=402
+#EXTINF:-1,XXX---TW---402---2021-2.php---test
+http://public.97n.top/2021-2.php?id=402
 
 
 
 
-
-#EXTINF:-1,XXX---TW---417---tv.php-------------TEST
+#EXTINF:-1,XXX---TW---417---crtv.php-------------TEST
 http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=417
 #EXTINF:-1,XXX---TW---416
 http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=416
@@ -3388,13 +3365,43 @@ http://tv.iptvstack.net:8080/Z8ZWIUwR1w/yXrk8r44/37945
 
 
 
-#EXTINF:-1,Blue Hustler 
-http://178.217.72.66/225.201.2.61/tracks-v1a1/mono.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="VN129:BBC NEWS" tvg-logo="" group-title="Vietnam",VN129:BBC NEWS-----skynets---BAL23GthrY
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/31587
+#EXTINF:-1 tvg-id="" tvg-name="VN130:BBC LIFESTYLE" tvg-logo="" group-title="Vietnam",VN130:BBC LIFESTYLE
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/31586
+#EXTINF:-1 tvg-id="" tvg-name="VN139:DISCOVERY ASIA HD" tvg-logo="" group-title="Vietnam",VN139:DISCOVERY ASIA HD
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/31577
+#EXTINF:-1,76
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/31576
+#EXTINF:-1,75
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/31575
+#EXTINF:-1 tvg-id="" tvg-name="VN140:ANIMAL PLANET HD" tvg-logo="" group-title="Vietnam",VN140:ANIMAL PLANET HD
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/31574
+#EXTINF:-1 tvg-id="" tvg-name="VN141:TRAVEL LIVING HD" tvg-logo="" group-title="Vietnam",VN141:TRAVEL LIVING HD
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/31573
+#EXTINF:-1,72
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/31572
+#EXTINF:-1,71
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/31571
+#EXTINF:-1,70
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/31570
+#EXTINF:-1 tvg-id="" tvg-name="PH014:TFC" tvg-logo="" group-title="Filipino",PH014:TFC
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/50116
+#EXTINF:-1 tvg-id="" tvg-name="KOR021:GolfXXX" tvg-logo="" group-title="Korea",KOR021:GolfXXX
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/51796
+#EXTINF:-1 tvg-id="" tvg-name="KOR035:CGNTV" tvg-logo="" group-title="Korea",KOR035:CGNTV
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/60494
+#EXTINF:-1 tvg-id="" tvg-name="TH032:NHK World TV" tvg-logo="" group-title="Thailand",TH032:NHK World TV
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/61304
+#EXTINF:-1 tvg-id="" tvg-name="TH053:Luxury World" tvg-logo="" group-title="Thailand",TH053:Luxury World
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/61324
+#EXTINF:-1 tvg-id="" tvg-name="ID015:CNBC | HD" tvg-logo="" group-title=" Indonesia",ID015:CNBC | HD
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/60357
+#EXTINF:-1 tvg-id="" tvg-name="ID046:NatGeo People" tvg-logo="" group-title=" Indonesia",ID046:NatGeo People
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/60346
+#EXTINF:-1 tvg-id="" tvg-name="TH087:TechStorm" tvg-logo="" group-title="Thailand",TH087:TechStorm
+http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/60431
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/siFrNjF.png" group-title="TAIWAN",Da Ai TV (Opt-1)----------
