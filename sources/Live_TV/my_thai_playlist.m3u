@@ -18,11 +18,8 @@ plugin://plugin.video.dailymotion_com/?url=x6eoldf&mode=playLiveVideo
 #EXTINF:-1 group-title="news" tvg-logo="https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.webp",TopNews
 https://live.topnews.co.th/hls/topnews.m3u8
 
-
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
-#EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD_3BB
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_mcothd_live1.stream/playlist.m3u8?username=3QmyKLPwFA6DFUNrNNZkGmtzdMAqoAUi&password=mzNQ8KgnF8f5PLXArHLLajD2D4mFRrU6
 #EXTINF:-1 group-title="news" tvg-logo="https://news1live.com/images/social-share-logo.png",news1
 http://news1.live14.com/stream/news1_hi.m3u8
 
@@ -30,6 +27,8 @@ http://news1.live14.com/stream/news1_hi.m3u8
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_tnn24_live1.stream/playlist.m3u8?username=XV1SeRzxGFFXhInk9zCuRqdau1FYCQ2p&password=E7GteZOX2SpaN33sRRTJ7MA42xKyaR7D
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_3bb
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_gmm25_live1.stream/playlist.m3u8?username=6mDi1A37Tfk9MSByBNtdvNPZguzLUmjL&password=XS3mhk1Vn9mhopKiPYSI2pT8qi5eMt0x
+#EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD_3BB
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_mcothd_live1.stream/playlist.m3u8?username=3QmyKLPwFA6DFUNrNNZkGmtzdMAqoAUi&password=mzNQ8KgnF8f5PLXArHLLajD2D4mFRrU6
 
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_doofootball
 https://doofootball.livestream-cdn.com/iptv/sd-gmmchannel.stream/playlist.m3u8
@@ -90,38 +89,6 @@ http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/Studio_PPTV_live1.stream/p
 
 
 
-
-
-#EXTINF:-1,DLTV1--------------
-https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
-#EXTINF:-1,DLTV2
-https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
-#EXTINF:-1,DLTV3
-https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
-#EXTINF:-1,DLTV4
-https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
-#EXTINF:-1,DLTV5
-https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
-#EXTINF:-1,DLTV6
-https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
-#EXTINF:-1,DLTV7
-https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
-#EXTINF:-1,DLTV8
-https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
-#EXTINF:-1,DLTV9
-https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
-#EXTINF:-1,DLTV10
-https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
-#EXTINF:-1,DLTV11
-https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
-#EXTINF:-1,DLTV12
-https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
-#EXTINF:-1,DLTV13
-https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
-#EXTINF:-1,DLTV14
-https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
-#EXTINF:-1,DLTV15
-https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
 
 
@@ -3008,9 +2975,6 @@ https://cdnkbl2.useetv.com/joss/15/afc/chunklist_w1806772519_b1344100_sleng_.m3u
 
 
 
-
-
-
 #EXTINF:-1,Asian Food Network---------VN--------fptplay
 http://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 #EXTINF:-1,Da Vinci
@@ -3248,54 +3212,57 @@ http://58.99.33.2:1935/liveedge2/WlMVXcPR_401_1/chunklist_w.m3u8?checkCode=37050
 
 
 #EXTINF:-1,XXX---TW---417---crtv.php-------------TEST
-http://public.97n.top/2021-1.php?id=417
+http://xiaojun.cyou/7108live/iptv/ub.php?id=417
 #EXTINF:-1,XXX---TW---416
-http://public.97n.top/2021-1.php?id=416
+http://xiaojun.cyou/7108live/iptv/ub.php?id=416
 #EXTINF:-1,XXX---TW---415
-http://public.97n.top/2021-1.php?id=415
+http://xiaojun.cyou/7108live/iptv/ub.php?id=415
 #EXTINF:-1,BananaTV---TW---414
-http://public.97n.top/2021-1.php?id=414
+http://xiaojun.cyou/7108live/iptv/ub.php?id=414
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v99U3JE.png" group-title="XXX",JAV_AmazingTV---TW---413
-http://public.97n.top/2021-1.php?id=413
+http://xiaojun.cyou/7108live/iptv/ub.php?id=413
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gsoilhg.jpg" group-title="XXX",JAV_Pandora_Pink---TW---412
-http://public.97n.top/2021-1.php?id=412
+http://xiaojun.cyou/7108live/iptv/ub.php?id=412
 #EXTINF:-1,Pandora_Perfect---TW---411
-http://public.97n.top/2021-1.php?id=411
+http://xiaojun.cyou/7108live/iptv/ub.php?id=411
 #EXTINF:-1,BlueO---TW---410
-http://public.97n.top/2021-1.php?id=410
+http://xiaojun.cyou/7108live/iptv/ub.php?id=410
 #EXTINF:-1,XXX---TW---409
-http://public.97n.top/2021-1.php?id=409
+http://xiaojun.cyou/7108live/iptv/ub.php?id=409
 #EXTINF:-1,R=---TW---408
-http://public.97n.top/2021-1.php?id=408
+http://xiaojun.cyou/7108live/iptv/ub.php?id=408
 #EXTINF:-1  tvg-logo="https://i.imgur.com/U2DMApL.png",JAV_Sonsee 3---TW---407
-http://public.97n.top/2021-1.php?id=407
+http://xiaojun.cyou/7108live/iptv/ub.php?id=407
 #EXTINF:-1  tvg-logo="https://i.imgur.com/U2DMApL.png",JAV_Sonsee 2---TW---406
-http://public.97n.top/2021-1.php?id=406
+http://xiaojun.cyou/7108live/iptv/ub.php?id=406
 #EXTINF:-1  tvg-logo="https://i.imgur.com/U2DMApL.png",JAV_Sonsee 1---TW---405
-http://public.97n.top/2021-1.php?id=405
+http://xiaojun.cyou/7108live/iptv/ub.php?id=405
 #EXTINF:-1  tvg-logo="https://i.imgur.com/U2DMApL.png",JAV_Sonsee 4---TW---404
-http://public.97n.top/2021-1.php?id=404
+http://xiaojun.cyou/7108live/iptv/ub.php?id=404
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N8Z939N.png" group-title="XXX",JAV_HOT---TW---403
-http://public.97n.top/2021-1.php?id=403
+http://xiaojun.cyou/7108live/iptv/ub.php?id=403
 #EXTINF:-1,Happy Ch.---TW---402
-http://public.97n.top/2021-1.php?id=402
+http://xiaojun.cyou/7108live/iptv/ub.php?id=402
 #EXTINF:-1,Hi-Play---TW---401
-http://public.97n.top/2021-1.php?id=401
+http://xiaojun.cyou/7108live/iptv/ub.php?id=401
 #EXTINF:-1,XXX---TW---400
-http://public.97n.top/2021-1.php?id=400
+http://xiaojun.cyou/7108live/iptv/ub.php?id=400
 
 
 #EXTINF:-1,BBC Earth HD---TW----------133
-http://public.97n.top/2021-1.php?id=133
+http://xiaojun.cyou/7108live/iptv/ub.php?id=133
 #EXTINF:-1,BBC Entertainment Channel
-http://public.97n.top/2021-1.php?id=134
+http://xiaojun.cyou/7108live/iptv/ub.php?id=134
 #EXTINF:-1,BBC life style
-http://public.97n.top/2021-1.php?id=135
+http://xiaojun.cyou/7108live/iptv/ub.php?id=135
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ie/200620060429.png",Asian Food Network
-http://public.97n.top/2021-1.php?id=82
+http://xiaojun.cyou/7108live/iptv/ub.php?id=82
 #EXTINF:-1,food network
-http://public.97n.top/2021-1.php?id=83
-
+http://xiaojun.cyou/7108live/iptv/ub.php?id=83
+#EXTINF:-1,BBC EARTH
+http://xiaojun.cyou/7108live/iptv/ub.php?id=97
+#EXTINF:-1,BBC Lifestyle
+http://xiaojun.cyou/7108live/iptv/ub.php?id=99
 
 
 
@@ -3433,6 +3400,52 @@ https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-
 
 
 
+
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",samrujlok
+https://cdn6.goprimetime.info/feed/LC8/index.m3u8
+#EXTINF:-1 group-title="Docu" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia
+https://mediasv.online/tvchannel_x1/discovery-asia/playlist.m3u8
+#EXTINF:-1,Asia Travel---TW------------test
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11020&key=84797b799ae18d1b
+#EXTINF:-1,Lifetime
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11017&key=84797b799ae18d1b
+#EXTINF:-1,Asian Food Network,
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13005&key=84797b799ae18d1b
+#EXTINF:-1,Discovery,
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13008&key=84797b799ae18d1b
+#EXTINF:-1,Discovery Asia,
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13009&key=84797b799ae18d1b
+#EXTINF:-1,Discovery Scirnce,
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13010&key=84797b799ae18d1b
+#EXTINF:-1,National Geographic,
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13012&key=84797b799ae18d1b
+#EXTINF:-1,TLC,
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13013&key=84797b799ae18d1b
+#EXTINF:-1,BBC WORLD NEWS,
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15007&key=84797b799ae18d1b
+#EXTINF:-1,BBC Lifestyle,
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8805&key=84797b799ae18d1b
+#EXTINF:-1,BBC Earth,
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11005&key=84797b799ae18d1b
+#EXTINF:-1,Food Network,
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8802&key=84797b799ae18d1b
+#EXTINF:-1,Food Network,
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8801&key=84797b799ae18d1b
+#EXTINF:-1,Baby First,
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8803&key=84797b799ae18d1b
+#EXTINF:-1,Outdoor Channel,
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8806&key=84797b799ae18d1b
+#EXTINF:-1,History,
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8811&key=84797b799ae18d1b
+#EXTINF:-1,History Channel 2,
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8812&key=84797b799ae18d1b
+#EXTINF:-1,HGTV,
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae18d1b
+#EXTINF:-1,xxx---rtmp
+rtmp://v3948069e.live.126.net/live/tvbj2
+
+
+
 #EXTINF:-1,Cookie TV
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
 
@@ -3527,7 +3540,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",Channel News Asia---youtube
 plugin://plugin.video.youtube/play/?video_id=XWq5kBlakcQ
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/mBTe5bW.png",NHK WORLD HD
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan_CN
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang
@@ -3586,7 +3599,8 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV---youtube
-plugin://plugin.video.youtube/play/?video_id=gOoTbPssAo4
+plugin://plugin.video.youtube/play/?video_id=qMtcWqCL_UQ
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OnFFoP.png" group-title="USA",Cheddar Business (New!)
