@@ -3409,37 +3409,37 @@ https://mediasv.online/tvchannel_x1/discovery-asia/playlist.m3u8
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11020&key=84797b799ae18d1b
 #EXTINF:-1,Lifetime
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11017&key=84797b799ae18d1b
-#EXTINF:-1,Asian Food Network,
+#EXTINF:-1,Asian Food Network
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13005&key=84797b799ae18d1b
-#EXTINF:-1,Discovery,
+#EXTINF:-1,Discovery
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13008&key=84797b799ae18d1b
-#EXTINF:-1,Discovery Asia,
+#EXTINF:-1,Discovery Asia
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13009&key=84797b799ae18d1b
-#EXTINF:-1,Discovery Scirnce,
+#EXTINF:-1,Discovery Scirnce
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13010&key=84797b799ae18d1b
-#EXTINF:-1,National Geographic,
+#EXTINF:-1,National Geographic
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13012&key=84797b799ae18d1b
-#EXTINF:-1,TLC,
+#EXTINF:-1,TLC
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13013&key=84797b799ae18d1b
-#EXTINF:-1,BBC WORLD NEWS,
+#EXTINF:-1,BBC WORLD NEWS
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_5_15007&key=84797b799ae18d1b
-#EXTINF:-1,BBC Lifestyle,
+#EXTINF:-1,BBC Lifestyle
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8805&key=84797b799ae18d1b
-#EXTINF:-1,BBC Earth,
+#EXTINF:-1,BBC Earth
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11005&key=84797b799ae18d1b
-#EXTINF:-1,Food Network,
+#EXTINF:-1,Food Network
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8802&key=84797b799ae18d1b
-#EXTINF:-1,Food Network,
+#EXTINF:-1,NAT GEO PEOPLE
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8801&key=84797b799ae18d1b
-#EXTINF:-1,Baby First,
+#EXTINF:-1,Baby First
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8803&key=84797b799ae18d1b
-#EXTINF:-1,Outdoor Channel,
+#EXTINF:-1,Outdoor Channel
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8806&key=84797b799ae18d1b
-#EXTINF:-1,History,
+#EXTINF:-1,History
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8811&key=84797b799ae18d1b
-#EXTINF:-1,History Channel 2,
+#EXTINF:-1,History Channel 2
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8812&key=84797b799ae18d1b
-#EXTINF:-1,HGTV,
+#EXTINF:-1,HGTV
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae18d1b
 #EXTINF:-1,xxx---rtmp
 rtmp://v3948069e.live.126.net/live/tvbj2
