@@ -1582,8 +1582,6 @@ http://1.55.148.120:4022/udp/225.1.2.98:30120
 
 #EXTINF:-1,KLT
 http://61.58.60.230:9319/live/205.m3u8
-#EXTINF:-1 group-title="FPT" tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" ,DAVINCILEARNING (RO)_ok2.se
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/77332
 #EXTINF:-1 group-title="docu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" ,ASIAN FOOD CHANNEL_rtmp
 rtmp://118.97.96.17:1935/discover/afc_3
 #EXTINF:-1 group-title="docu" tvg-logo="https://images.ufoiptv.com/channels/hd-natgeopeople.jpg",NAT GEO PEOPLE_chn
@@ -1602,48 +1600,6 @@ http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
 
 
-#EXTINF:-1,DAVINCILEARNING (RO)_ok2--------------------------
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/77332
-#EXTINF:-1,DISCOVERY (RO)
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/77339
-#EXTINF:-1,DISCOVERY SCIENCE (RO)
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/77338
-#EXTINF:-1, HISTORY
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/1758
-#EXTINF:-1, H2
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/1754
-#EXTINF:-1, DISCOVERY SCIENCE
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/1766
-#EXTINF:-1, DISCOVERY HISTORY
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/1765
-#EXTINF:-1, DISCOVERY
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/1764
-#EXTINF:-1,NAT GEO HD
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/330
-#EXTINF:-1,DIY HD
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/329
-#EXTINF:-1,FYI HD
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/42684
-#EXTINF:-1,COOKING CHANNEL HD
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6108
-#EXTINF:-1,FOOD HD
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/333
-#EXTINF:-1,HGTV HD
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/335
-#EXTINF:-1,FOOD HD (USA)
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/80508
-#EXTINF:-1,TASTEMADE
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/80391
-#EXTINF:-1,EPIC MEAL TIME 24X7
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6129
-#EXTINF:-1, NAT GEO
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/1755
-#EXTINF:-1, FOOD NETWORK
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/1788
-#EXTINF:-1,FOOD (GR) – NEW
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/66066
-#EXTINF:-1,OUTDOOR CHANNEL
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/9049
 
 
 
@@ -1951,68 +1907,7 @@ http://live.redtraffic.xyz/cohf.m3u8
 
 
 
-#EXTINF:-1,PLAYBOY TV (NA)-----------------------------ok2.se:80
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/300
-#EXTINF:-1,HUSTLER HD
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/302
-#EXTINF:-1,NAUGHTY AMERICA
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/10657
-#EXTINF:-1,BRAZZERS
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/10656
-#EXTINF:-1,BRAZZERS LIVE
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/10660
-#EXTINF:-1,TEN – NEW
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/9165
-#EXTINF:-1,XTSY – (NEW)
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/9164
-#EXTINF:-1,TINY4K
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/8889
-#EXTINF:-1,EVIL ANGEL 1
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/10659
-#EXTINF:-1,BANG BROS
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/8783
-#EXTINF:-1,JAP AV 1
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/72393
-#EXTINF:-1,JAP AV 2
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/72394
-#EXTINF:-1,JAP AV 3
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/72395
-#EXTINF:-1,WANZ
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6611
-#EXTINF:-1,IPZ
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6610
-#EXTINF:-1,JAV 1 UNCENSORED
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6612
-#EXTINF:-1,JAV 2 UNCENSORED
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6613
-#EXTINF:-1,JAV 3 UNCENSORED
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6614
-#EXTINF:-1,TOKYO HOT
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6572
-#EXTINF:-1,X ART
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/10658
-#EXTINF:-1,TUSHY
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6615
-#EXTINF:-1,LEGAL PORNO
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6573
-#EXTINF:-1,PENTHOUSE
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/71118
-#EXTINF:-1,1 HD XXX
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6697
-#EXTINF:-1,2 HD XXX
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6696
-#EXTINF:-1,3 HD XXX
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6695
-#EXTINF:-1,4 HD XXX
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6694
-#EXTINF:-1,6 HD XXX
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6692
-#EXTINF:-1,5 HD XXX
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6693
-#EXTINF:-1,7 HD XXX
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6687
-#EXTINF:-1,8 HD XXX
-http://ok2.se:80/b459F1Us8eN9BVlUo/QunqC6BZBmY7k/6686
+
 
 
 
@@ -2118,12 +2013,44 @@ http://mu02.v2iptv.com:8880/Sale2627/August0620/33132
 http://mu02.v2iptv.com:8880/Sale2627/August0620/33094
 #EXTINF:-1,VIP101:Secret Circle TV 
 http://mu02.v2iptv.com:8880/Sale2627/August0620/33091
+#EXTINF:-1,VIP126:NUART
+http://mu02.v2iptv.com:8880/Sale2627/August0620/60663
+#EXTINF:-1,VIP173:babesTV
+http://mu02.v2iptv.com:8880/Sale2627/August0620/60708
+#EXTINF:-1,VIP193:Lesbicas
+http://mu02.v2iptv.com:8880/Sale2627/August0620/60726
 
 
-#EXTINF:-1,YU150:Da Vinci Learning---
+#EXTINF:-1,YU150:Da Vinci Learning-----------
 http://mu02.v2iptv.com:8880/Sale2627/August0620/49176
+#EXTINF:-1,PL028:Da Vinci Learning
+http://mu02.v2iptv.com:8880/Sale2627/August0620/33504
+#EXTINF:-1,PL036:Da Vinci
+http://mu02.v2iptv.com:8880/Sale2627/August0620/33496
+#EXTINF:-1,PL165:Da Vinci Learning
+http://mu02.v2iptv.com:8880/Sale2627/August0620/33367
+#EXTINF:-1,ZA137:Da Vinci Kids
+http://mu02.v2iptv.com:8880/Sale2627/August0620/68996
 #EXTINF:-1,US020:CNBC
 http://mu02.v2iptv.com:8880/Sale2627/August0620/3148
+#EXTINF:-1,PH014:TFC
+http://mu02.v2iptv.com:8880/Sale2627/August0620/50116
+#EXTINF:-1,VN130:BBC LIFESTYLE
+http://mu02.v2iptv.com:8880/Sale2627/August0620/31586
+#EXTINF:-1,ZA087:BBC Lifestyle
+http://mu02.v2iptv.com:8880/Sale2627/August0620/68966
+#EXTINF:-1,ZA088:BBC Earth
+http://mu02.v2iptv.com:8880/Sale2627/August0620/68967
+#EXTINF:-1,MY120:AFN HD
+http://mu02.v2iptv.com:8880/Sale2627/August0620/71092
+#EXTINF:-1,MY121:NATGEO PEOPLE
+http://mu02.v2iptv.com:8880/Sale2627/August0620/71093
+#EXTINF:-1,MY147:BBC Earth HD
+http://mu02.v2iptv.com:8880/Sale2627/August0620/71119
+#EXTINF:-1,MY148:BBC Lifestyle
+http://mu02.v2iptv.com:8880/Sale2627/August0620/71120
+#EXTINF:-1,TH087:TechStorm
+http://mu02.v2iptv.com:8880/Sale2627/August0620/60431
 
 
 
@@ -2320,6 +2247,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/53b1c003eded29524e1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagescdn2.swigit.com/LiveChannels/Logo/a3bikini" group-title="Adult IPTV",A3 Bikini
 http://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+
 
 
 
@@ -2916,9 +2844,220 @@ http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/68996
 
 
 
+#EXTINF:-1,X720P----------gooserace
+http://gooserace.xyz:2052/live/donna/donna123/2578141.m3u8 
+#EXTINF:-1,X720P
+http://gooserace.xyz:2052/live/donna/donna123/2578163.m3u8 
+#EXTINF:-1,X720p
+http://gooserace.xyz:2052/live/donna/donna123/2578161.m3u8 
+#EXTINF:-1,4K-X720p
+http://gooserace.xyz:2052/live/donna/donna123/2578138.m3u8 
+#EXTINF:-1,X720p
+http://gooserace.xyz:2052/live/donna/donna123/2578127.m3u8 
+#EXTINF:-1,X720p
+http://gooserace.xyz:2052/live/donna/donna123/2578189.m3u8 
+#EXTINF:-1,??-?? HD
+http://gooserace.xyz:2052/live/donna/donna123/2491908.m3u8 
+#EXTINF:-1,Brazzers TV 
+http://gooserace.xyz:2052/live/donna/donna123/2491922.m3u8 
+#EXTINF:-1,SL HOT HD2
+http://gooserace.xyz:2052/live/donna/donna123/2491899.m3u8 
+#EXTINF:-1,Dusk
+http://gooserace.xyz:2052/live/donna/donna123/2491903.m3u8 
+#EXTINF:-1,French Lover
+http://gooserace.xyz:2052/live/donna/donna123/2491891.m3u8 
+#EXTINF:-1,KinoXXX
+http://xristo2121.amazzin.pw/iptv/N8RG6LD442U365/6165/index.m3u8 
+#EXTINF:-1,PlayboyTV
+http://gooserace.xyz:2052/live/donna/donna123/2491904.m3u8 
+#EXTINF:-1,VividRedHD
+http://gooserace.xyz:2052/live/donna/donna123/2491906.m3u8 
+#EXTINF:-1,Erox HD
+http://gooserace.xyz:2052/live/donna/donna123/2491882.m3u8 
+#EXTINF:-1,Eroxxx HD
+http://gooserace.xyz:2052/live/donna/donna123/2491881.m3u8 
+#EXTINF:-1,Hustler
+http://gooserace.xyz:2052/live/donna/donna123/2491895.m3u8 
+#EXTINF:-1,HustlerHD
+http://gooserace.xyz:2052/live/donna/donna123/2491893.m3u8 
+#EXTINF:-1,Private
+http://gooserace.xyz:2052/live/donna/donna123/2491897.m3u8 
+#EXTINF:-1,RedlightHD
+http://gooserace.xyz:2052/live/donna/donna123/2491900.m3u8 
+#EXTINF:-1,Jasmin TV
+http://gooserace.xyz:2052/live/donna/donna123/2491869.m3u8 
+#EXTINF:-1,Babes TV
+http://gooserace.xyz:2052/live/donna/donna123/2491875.m3u8 
+#EXTINF:-1,Penthouse Gold HD
+http://gooserace.xyz:2052/live/donna/donna123/2491912.m3u8 
+#EXTINF:-1,Penthouse Quickies
+http://gooserace.xyz:2052/live/donna/donna123/2491913.m3u8 
+#EXTINF:-1,720pXXX01
+http://gooserace.xyz:2052/live/donna/donna123/2578161.m3u8 
+#EXTINF:-1,720pXXX02
+http://gooserace.xyz:2052/live/donna/donna123/2578162.m3u8 
+#EXTINF:-1,720pXXX03
+http://gooserace.xyz:2052/live/donna/donna123/2578163.m3u8 
+#EXTINF:-1,720pXXX04
+http://gooserace.xyz:2052/live/donna/donna123/2578164.m3u8 
+#EXTINF:-1,720pXXX05
+http://gooserace.xyz:2052/live/donna/donna123/2578165.m3u8 
+#EXTINF:-1,720pXXX06
+http://gooserace.xyz:2052/live/donna/donna123/2578166.m3u8 
+#EXTINF:-1,720pXXX07
+http://gooserace.xyz:2052/live/donna/donna123/2578167.m3u8 
+#EXTINF:-1,720pXXX08
+http://gooserace.xyz:2052/live/donna/donna123/2578168.m3u8 
+#EXTINF:-1,720pXXX09
+http://gooserace.xyz:2052/live/donna/donna123/2578169.m3u8 
+#EXTINF:-1,720pXXX10
+http://gooserace.xyz:2052/live/donna/donna123/2578170.m3u8 
+#EXTINF:-1,720pXXX11
+http://gooserace.xyz:2052/live/donna/donna123/2578171.m3u8 
+#EXTINF:-1,720pXXX12
+http://gooserace.xyz:2052/live/donna/donna123/2578172.m3u8 
+#EXTINF:-1,720pXXX13
+http://gooserace.xyz:2052/live/donna/donna123/2578173.m3u8 
+#EXTINF:-1,720pXXX14
+http://gooserace.xyz:2052/live/donna/donna123/2578174.m3u8 
+#EXTINF:-1,720pXXX15
+http://gooserace.xyz:2052/live/donna/donna123/2578175.m3u8 
+#EXTINF:-1,720pXXX16
+http://gooserace.xyz:2052/live/donna/donna123/2578176.m3u8 
+#EXTINF:-1,720pXXX17
+http://gooserace.xyz:2052/live/donna/donna123/2578177.m3u8 
+#EXTINF:-1,720pXXX18
+http://gooserace.xyz:2052/live/donna/donna123/2578178.m3u8 
+#EXTINF:-1,720pXXX19
+http://gooserace.xyz:2052/live/donna/donna123/2578179.m3u8 
+#EXTINF:-1,720pXXX20
+http://gooserace.xyz:2052/live/donna/donna123/2578180.m3u8 
+#EXTINF:-1,720pXXX21
+http://gooserace.xyz:2052/live/donna/donna123/2578181.m3u8 
+#EXTINF:-1,720pXXX22
+http://gooserace.xyz:2052/live/donna/donna123/2578182.m3u8 
+#EXTINF:-1,720pXXX23
+http://gooserace.xyz:2052/live/donna/donna123/2578183.m3u8 
+#EXTINF:-1,720pXXX24
+http://gooserace.xyz:2052/live/donna/donna123/2578184.m3u8 
+#EXTINF:-1,720pXXX25
+http://gooserace.xyz:2052/live/donna/donna123/2578185.m3u8 
+#EXTINF:-1,720pXXX26
+http://gooserace.xyz:2052/live/donna/donna123/2578186.m3u8 
+#EXTINF:-1,720pXXX27
+http://gooserace.xyz:2052/live/donna/donna123/2578187.m3u8 
+#EXTINF:-1,720pXXX28
+http://gooserace.xyz:2052/live/donna/donna123/2578188.m3u8 
+#EXTINF:-1,720pXXX29
+http://gooserace.xyz:2052/live/donna/donna123/2578189.m3u8 
+#EXTINF:-1,720pXXX30
+http://gooserace.xyz:2052/live/donna/donna123/2578190.m3u8 
+#EXTINF:-1,720pXXX31
+http://gooserace.xyz:2052/live/donna/donna123/2578191.m3u8 
+#EXTINF:-1,720pXXX32
+http://gooserace.xyz:2052/live/donna/donna123/2578192.m3u8 
+#EXTINF:-1,720pXXX33
+http://gooserace.xyz:2052/live/donna/donna123/2578193.m3u8 
+#EXTINF:-1,720pXXX34
+http://gooserace.xyz:2052/live/donna/donna123/2578194.m3u8 
+#EXTINF:-1,720pXXX35
+http://gooserace.xyz:2052/live/donna/donna123/2578195.m3u8 
+#EXTINF:-1,720pXXX36
+http://gooserace.xyz:2052/live/donna/donna123/2578196.m3u8 
+#EXTINF:-1,720pXXX37
+http://gooserace.xyz:2052/live/donna/donna123/2578197.m3u8 
+#EXTINF:-1,720pXXX38
+http://gooserace.xyz:2052/live/donna/donna123/2578198.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="18+: SexArt" tvg-logo="" group-title="FOR ADULTS",18+: SexArt
+http://gooserace.xyz:2052/donna/donna123/2578181
+#EXTINF:-1 tvg-id="" tvg-name="18+: SapphicErotica" tvg-logo="" group-title="FOR ADULTS",18+: SapphicErotica
+http://gooserace.xyz:2052/donna/donna123/2578180
+#EXTINF:-1 tvg-id="" tvg-name="18+: NuruMassage" tvg-logo="" group-title="FOR ADULTS",18+: NuruMassage
+http://gooserace.xyz:2052/donna/donna123/2578171
+#EXTINF:-1 tvg-id="" tvg-name="18+: Met-Art" tvg-logo="" group-title="FOR ADULTS",18+: Met-Art
+http://gooserace.xyz:2052/donna/donna123/2578164
+#EXTINF:-1 tvg-id="" tvg-name="18+: MassageGirls18" tvg-logo="" group-title="FOR ADULTS",18+: MassageGirls18
+http://gooserace.xyz:2052/donna/donna123/2578163
+#EXTINF:-1 tvg-id="" tvg-name="18+: LittleAsians" tvg-logo="" group-title="FOR ADULTS",18+: LittleAsians
+http://gooserace.xyz:2052/donna/donna123/2578162
+#EXTINF:-1 tvg-id="" tvg-name="18+: Lesbea" tvg-logo="" group-title="FOR ADULTS",18+: Lesbea
+http://gooserace.xyz:2052/donna/donna123/2578161
+#EXTINF:-1 tvg-id="" tvg-name="18+: KinkySpa" tvg-logo="" group-title="FOR ADULTS",18+: KinkySpa
+http://gooserace.xyz:2052/donna/donna123/2578160
+#EXTINF:-1 tvg-id="" tvg-name="18+: GirlsWay" tvg-logo="" group-title="FOR ADULTS",18+: GirlsWay
+http://gooserace.xyz:2052/donna/donna123/2578150
+#EXTINF:-1 tvg-id="" tvg-name="18+: GirlsDoPorn" tvg-logo="" group-title="FOR ADULTS",18+: GirlsDoPorn
+http://gooserace.xyz:2052/donna/donna123/2578149
+#EXTINF:-1 tvg-id="" tvg-name="18+: GirlCore" tvg-logo="" group-title="FOR ADULTS",18+: GirlCore
+http://gooserace.xyz:2052/donna/donna123/2578148
+#EXTINF:-1 tvg-id="" tvg-name="18+: FTVGirls" tvg-logo="" group-title="FOR ADULTS",18+: FTVGirls
+http://gooserace.xyz:2052/donna/donna123/2578147
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Nuart TV (D)" tvg-logo="" group-title="FOR ADULTS",XXX-Nuart TV (D)
+http://gooserace.xyz:2052/donna/donna123/2491901
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes TV (D)" tvg-logo="" group-title="FOR ADULTS",XXX-Babes TV (D)
+http://gooserace.xyz:2052/donna/donna123/2491894
+#EXTINF:-1 tvg-id="" tvg-name="XXX-iFlixGroup TV" tvg-logo="" group-title="FOR ADULTS",XXX-iFlixGroup TV
+http://gooserace.xyz:2052/donna/donna123/2491888
+#EXTINF:-1 tvg-id="" tvg-name="XXX-iFlixAsian TV" tvg-logo="" group-title="FOR ADULTS",XXX-iFlixAsian TV
+http://gooserace.xyz:2052/donna/donna123/2491874
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Movies Cinema Erotic 1 " tvg-logo="" group-title="FOR ADULTS",XXX-Movies Cinema Erotic 1 
+http://gooserace.xyz:2052/donna/donna123/2491866
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Movies Cinema Erotic 2 " tvg-logo="" group-title="FOR ADULTS",XXX-Movies Cinema Erotic 2 
+http://gooserace.xyz:2052/donna/donna123/2491865
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Movies Cinema Erotic 3 " tvg-logo="" group-title="FOR ADULTS",XXX-Movies Cinema Erotic 3 
+http://gooserace.xyz:2052/donna/donna123/2491864
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Movies Cinema Erotic 4 " tvg-logo="" group-title="FOR ADULTS",XXX-Movies Cinema Erotic 4 
+http://gooserace.xyz:2052/donna/donna123/2491863
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Movies Cinema Erotic 5 " tvg-logo="" group-title="FOR ADULTS",XXX-Movies Cinema Erotic 5 
+http://gooserace.xyz:2052/donna/donna123/2491862
+#EXTINF:-1 tvg-id="" tvg-name="XXX-NUART" tvg-logo="" group-title="FOR ADULTS",XXX-NUART
+http://gooserace.xyz:2052/donna/donna123/2491807
+#EXTINF:-1 tvg-id="" tvg-name="ADULTS: 21Naturals" tvg-logo="" group-title="FOR ADULTS",ADULTS: 21Naturals
+http://gooserace.xyz:2052/donna/donna123/2075874
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="AF: ZW Da Vinci Kids" tvg-logo="" group-title="AFRICA",AF: ZW Da Vinci Kids
+http://gooserace.xyz:2052/donna/donna123/2431588
+#EXTINF:-1 tvg-id="" tvg-name="AF: UG Da Vinci Kids" tvg-logo="" group-title="AFRICA",AF: UG Da Vinci Kids
+http://gooserace.xyz:2052/donna/donna123/2431462
+#EXTINF:-1 tvg-id="DaVinciLearning.ro" tvg-name="RO Da Vinci Learning" tvg-logo="https://static.epg.best/ro/DaVinciLearning.ro.png" group-title="ROMANIA",RO Da Vinci Learning
+http://gooserace.xyz:2052/donna/donna123/2475535
+#EXTINF:-1 tvg-id="Davinci.id" tvg-name="RO Da Vinci" tvg-logo="https://static.epg.best/id/Davinci.id.png" group-title="ROMANIA",RO Da Vinci
+http://gooserace.xyz:2052/donna/donna123/2475533
+#EXTINF:-1 tvg-id="" tvg-name="POL: Da Vinci" tvg-logo="" group-title="POLISH",POL: Da Vinci
+http://gooserace.xyz:2052/donna/donna123/2623392
+#EXTINF:-1 tvg-id="" tvg-name="VN: DA VINCI LEARNING HD " tvg-logo="" group-title="VIETNAMESE",VN: DA VINCI LEARNING HD 
+http://gooserace.xyz:2052/donna/donna123/2586405
+#EXTINF:-1 tvg-id="" tvg-name="VN: ASIAN FOOD CHANNEL HD " tvg-logo="" group-title="VIETNAMESE",VN: ASIAN FOOD CHANNEL HD 
+http://gooserace.xyz:2052/donna/donna123/2586402
+#EXTINF:-1 tvg-id="" tvg-name="VN: DISCOVERY ASIA HD " tvg-logo="" group-title="VIETNAMESE",VN: DISCOVERY ASIA HD 
+http://gooserace.xyz:2052/donna/donna123/2586336
+#EXTINF:-1 tvg-id="" tvg-name="VN: BBC LIFESTYLE " tvg-logo="" group-title="VIETNAMESE",VN: BBC LIFESTYLE 
+http://gooserace.xyz:2052/donna/donna123/2586326
+#EXTINF:-1 tvg-id="" tvg-name="VN: BBC EARTH HD " tvg-logo="" group-title="VIETNAMESE",VN: BBC EARTH HD 
+http://gooserace.xyz:2052/donna/donna123/2586324
+#EXTINF:-1 tvg-id="" tvg-name="ID Asian Food Channel" tvg-logo="" group-title="INDONESIA",ID Asian Food Channel
+http://gooserace.xyz:2052/donna/donna123/1109745
+#EXTINF:-1 tvg-id="" tvg-name="ID Nat Geo People " tvg-logo="" group-title="INDONESIA",ID Nat Geo People 
+http://gooserace.xyz:2052/donna/donna123/1109739
+#EXTINF:-1 tvg-id="" tvg-name="ID BBC Earth" tvg-logo="" group-title="INDONESIA",ID BBC Earth
+http://gooserace.xyz:2052/donna/donna123/1109865
+#EXTINF:-1 tvg-id="" tvg-name="MY: BBC Lifestyle" tvg-logo="" group-title="MALAYSIA",MY: BBC Lifestyle
+http://gooserace.xyz:2052/donna/donna123/2599246
+#EXTINF:-1 tvg-id="" tvg-name="MY: BBC Earth HD" tvg-logo="" group-title="MALAYSIA",MY: BBC Earth HD
+http://gooserace.xyz:2052/donna/donna123/2599245
+#EXTINF:-1 tvg-id="" tvg-name="MY: NatGeo People" tvg-logo="" group-title="MALAYSIA",MY: NatGeo People
+http://gooserace.xyz:2052/donna/donna123/2599295
+#EXTINF:-1 tvg-id="" tvg-name="MY: Discovery Science HD" tvg-logo="" group-title="MALAYSIA",MY: Discovery Science HD
+http://gooserace.xyz:2052/donna/donna123/2599269
+#EXTINF:-1 tvg-id="" tvg-name="MY: Discovery Asia" tvg-logo="" group-title="MALAYSIA",MY: Discovery Asia
+http://gooserace.xyz:2052/donna/donna123/2599267
+#EXTINF:-1 tvg-id="" tvg-name="MY: CNBC" tvg-logo="" group-title="MALAYSIA",MY: CNBC
+http://gooserace.xyz:2052/donna/donna123/2599262
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD CH" tvg-logo="" group-title="PHILIPPINES",ASIAN FOOD CH
+http://gooserace.xyz:2052/donna/donna123/2599120
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO PEOPLE HD" tvg-logo="" group-title="PHILIPPINES",NAT GEO PEOPLE HD
+http://gooserace.xyz:2052/donna/donna123/2599064
 
 
 #EXTINF:-1,Russian Night--------
@@ -3031,42 +3170,7 @@ http://58.99.33.2:1935/liveedge2/WlMVXcPR_401_1/chunklist_w.m3u8?checkCode=37050
 
 
 
-#EXTINF:-1,XXX---TW---417---ubtvfans-------------TEST
-http://z2.ubtvfans.com/live/417/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-#EXTINF:-1,XXX---TW---416
-http://z2.ubtvfans.com/live/416/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-#EXTINF:-1,XXX---TW---415
-http://z2.ubtvfans.com/live/415/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-#EXTINF:-1,XXX---TW---414
-http://z2.ubtvfans.com/live/414/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-#EXTINF:-1,XXX---TW---413
-http://z2.ubtvfans.com/live/413/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-#EXTINF:-1,XXX---TW---412
-http://z2.ubtvfans.com/live/412/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-#EXTINF:-1,XXX---TW---411
-http://z2.ubtvfans.com/live/411/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-#EXTINF:-1,XXX---TW---410
-http://z2.ubtvfans.com/live/410/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-#EXTINF:-1,XXX---TW---409
-http://z2.ubtvfans.com/live/409/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-#EXTINF:-1,XXX---TW---408
-http://z2.ubtvfans.com/live/408/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-#EXTINF:-1,XXX---TW---407
-http://z2.ubtvfans.com/live/407/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-#EXTINF:-1,XXX---TW---406
-http://z2.ubtvfans.com/live/406/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-#EXTINF:-1,XXX---TW---405
-http://z2.ubtvfans.com/live/405/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-#EXTINF:-1,XXX---TW---404
-http://z2.ubtvfans.com/live/404/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-#EXTINF:-1,XXX---TW---403
-http://z2.ubtvfans.com/live/403/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-#EXTINF:-1,XXX---TW---402
-http://z2.ubtvfans.com/live/402/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-#EXTINF:-1,XXX---TW---401
-http://z2.ubtvfans.com/live/401/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-#EXTINF:-1,XXX---TW---400
-http://z2.ubtvfans.com/live/400/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
+
 
 
 
@@ -3137,7 +3241,7 @@ https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/playlist.m3u8
 
 
-#EXTINF:-1,JapanHDV (18+)by iyikosan -------------iptvstack---053
+#EXTINF:-1,JapanHDV (18+)by iyikosan -------------iptvstack---gordon
 http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/38045 
 #EXTINF:-1,JapanHDV Anal (18+) 
 http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/37954 
@@ -3157,6 +3261,22 @@ http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/37942
 http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/39812 
 #EXTINF:-1,Digital Playground (18+) US 
 http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/39813 
+#EXTINF:-1,Princess Cum (18+)
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/49357
+#EXTINF:-1,Private TV HD (18+) NL
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/21687
+#EXTINF:-1,Shalun (18+) RU
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/19023
+#EXTINF:-1,French Lover (18+) FR
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/28878
+#EXTINF:-1,Russian Night (18+) RU
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/28880
+#EXTINF:-1,Olala (18+) RU
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/28881
+#EXTINF:-1,Nuart TV (18+) RU
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/28882
+#EXTINF:-1,Secret Circle (18+) NL
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/28883
 #EXTINF:-1,Nubiles Porn (18+) US 
 http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/30145 
 #EXTINF:-1,Nubiles Casting (18+) US 
@@ -3174,87 +3294,44 @@ http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/15914
 #EXTINF:-1,Dorcel XXX FHD (18+) NL 
 http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/19026
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="VN130:BBC LIFESTYLE" tvg-logo="" group-title="Vietnam",VN130:BBC LIFESTYLE---------skynets---test
-http://a2.skynets.tv:8880/wh12m8656/U4L9rEGFyY/31586
-#EXTINF:-1 tvg-id="" tvg-name="VN130:BBC LIFESTYLE" tvg-logo="" group-title="Vietnam",VN130:BBC LIFESTYLE
-http://a2.skynets.tv:8880/xzyc12m7748/RUb4ja3w4E/31586
-#EXTINF:-1 tvg-id="" tvg-name="VN130:BBC LIFESTYLE" tvg-logo="" group-title="Vietnam",VN130:BBC LIFESTYLE
-http://a2.skynets.tv:8880/ZYXNM2510/87487996/31586
-#EXTINF:-1 tvg-id="" tvg-name="VN130:BBC LIFESTYLE" tvg-logo="" group-title="Vietnam",VN130:BBC LIFESTYLE
-http://a2.skynets.tv:8880/xzyc12m7979/Aa6SJaApAA/31586
-#EXTINF:-1 tvg-id="" tvg-name="VN130:BBC LIFESTYLE" tvg-logo="" group-title="Vietnam",VN130:BBC LIFESTYLE
-http://a2.skynets.tv:8880/xzyc12m8003/xbk5zPp2gZ/31586
-#EXTINF:-1 tvg-id="" tvg-name="VN130:BBC LIFESTYLE" tvg-logo="" group-title="Vietnam",VN130:BBC LIFESTYLE
-http://a2.skynets.tv:8880/xzyc12m4974/8ZP9rYfcaB/31586
-
-#EXTINF:-1,ASIAN FOOD CHANNEL MY----tugatv---test
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/18634
-#EXTINF:-1,Asian Food Channel ID
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/62295
-#EXTINF:-1,Asian Food Channel HD ID
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/62156
-#EXTINF:-1,ASIAN FOOD PH
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/24166
-#EXTINF:-1,Da Vinci Kids VIP AF---
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/90219
-#EXTINF:-1,Da Vinci Learning VIP ex-Yu
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/10888
+#EXTINF:-1,Da Vinci Learning HR
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/17272
 #EXTINF:-1,Da Vinci Learning PL
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/940
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/15182
 #EXTINF:-1,Da Vinci Learning RO
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/25530
-#EXTINF:-1,BBC Earth FHD RO---
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/74097
-#EXTINF:-1,BBC Earth FHD PL
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/83770
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/14628
+#EXTINF:-1,National Geographic People HD PL
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/15191
+#EXTINF:-1,OSN National Geographic People HD AE
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/12828
+#EXTINF:-1,BBC Earth FHD ARB
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/26595
+#EXTINF:-1,BBC Earth HD DK
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/24205
+#EXTINF:-1,BBC Earth Adria ex-Yu
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/28388
+#EXTINF:-1,BBC Earth HD HR
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/28398
+#EXTINF:-1,BBC Earth HD GR
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/26830
+#EXTINF:-1,BBC Earth HD NO
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/24204
+#EXTINF:-1,Sony BBC Earth IN
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/6226
+#EXTINF:-1,BBC Earth HD PL
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/13538
+#EXTINF:-1,BBC Earth RO
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/30307
 #EXTINF:-1,BBC Earth HD SE
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/2937
-#EXTINF:-1,BBC Earth HD NO [Multi-Sub]
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/19526
-#EXTINF:-1,BBC Earth HD NO (L) [Multi-Sub] VIP
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/56056
-#EXTINF:-1,BBC Earth VIP AF
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/79761
-#EXTINF:-1,BBC EARTH HD MY
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/18610
-#EXTINF:-1,BBC Earth ID
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/62289
-#EXTINF:-1,BBC LIFESTYLE MY---
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/18609
-#EXTINF:-1,BBC Lifestyle VIP AF
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/79757
-#EXTINF:-1,BBC LIFESTYLE FHD PL
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/79819
-#EXTINF:-1,BBC LIFESTYLE UK
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/79820
-#EXTINF:-1,OSN Nat Geo People HD ARB---
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/18
-#EXTINF:-1,beIN Nat Geo People HD ARB
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/6817
-#EXTINF:-1,OSN NAT GEO People HD VIP ARB
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/10951
-#EXTINF:-1,Nat Geo People FHD PL
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/853
-#EXTINF:-1,NAT GEO PEOPLE HD MY
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/18570
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/14456
+#EXTINF:-1,BBC Lifestyle Polska FHD PL
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/23318
+#EXTINF:-1,Food Network TH
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/17105
 
-#EXTINF:-1,BBC World News UK---
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/2006
-#EXTINF:-1,BBC World News ID
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/62288
+#EXTINF:-1,Nuart TV (18+) RU----------iptvstack---135
+http://iptvstack.net:80/4R8GfRc60/AZ7wZI135/28882
 
-#EXTINF:-1,NUART ADULT---
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/78715
-#EXTINF:-1,Babes TV FHD ADULT
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/78721
-#EXTINF:-1,iFlixAsian TV HD ADULT
-http://tugatv.123tv.to:8080/t7lF2PqiXh/5lZYcAdiF8/78726
 
 
 
@@ -3489,12 +3566,6 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/UdNEhUe.jpg" group-title="",Reuters
 http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg",BBC World News---VN---rtsp
-rtsp://203.162.123.178:554/bbc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News---CN
-http://111.13.111.192/125.227.198.89:8003?Loggia=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News---chang55
-https://tv4.chang55.com:446/live2/tv4ch28.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News---filmon
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
@@ -3556,23 +3627,8 @@ http://m.567it.com/Pearl.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="Business",CNBC TV18---India
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_livenewschat
-https://budgie.cdn.livenewschat.eu/hls/cnbc_live/index.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC_ott-cdn
-http://ott-cdn.ucom.am/s65/01.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/knyzqhB.png",CNBC_persik
-http://persik.tv/stream/6299/10/10473.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/53EgUZN.png",CNBC_world
-http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="24/7 WORLD NEWS",CNBC Europe (GB) (New!)
-http://45.92.69.76:8000/play/a05h
 
 
-
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2---1
-http://ok2.se:8000/ztvPNR85WT/2xmHGA0tfP/364
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD_ok2---2
-http://ok2.se:8000/thgHWVmb2g/wSCfSLW77U/364
 
 
 
@@ -3592,24 +3648,8 @@ http://14.169.92.193:8889/rtp/232.84.1.117:10254
 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD---
 http://196.179.225.154:10001/stream/channelid/796168180?profile=pass
-#EXTINF:-1,CNBC Europe
-http://77.109.171.36:8000/play/a06r
 
 
-
-#EXTINF:-1,CNBC US---test
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/502
-#EXTINF:-1,CNBC HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501
-
-
-
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",US020:CNBC---skynets
-http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/3148
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",UK129:CNBC Europe---skynets
-http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/28930
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",UK228:CNBC---skynets
-http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/28831
 
 
 
@@ -3617,13 +3657,40 @@ http://a2.skynets.tv:8880/xzyc12m1708/BAL23GthrY/28831
 http://203.162.235.41:16919
 
 
+#EXTINF:-1,US020:CNBC HD-------mu02
+http://mu02.v2iptv.com:8880/Sale2627/August0620/3148
+#EXTINF:-1,CA109:CNBC
+http://mu02.v2iptv.com:8880/Sale2627/August0620/30205
+#EXTINF:-1,UK129:CNBC Europe
+http://mu02.v2iptv.com:8880/Sale2627/August0620/28930
+#EXTINF:-1,UK228:CNBC
+http://mu02.v2iptv.com:8880/Sale2627/August0620/28831
+#EXTINF:-1,MY094:CNBC
+http://mu02.v2iptv.com:8880/Sale2627/August0620/71066
 
+#EXTINF:-1,CNBC UK--------iptvstack
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/14968
+#EXTINF:-1,CNBC FHD UK
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/29301
+#EXTINF:-1,CNBC FHD US
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/9028
+#EXTINF:-1,CNBC World HD US
+http://tv.iptvstack.net:8080/gordonsteedman/sWJgsC9191/23222
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="CNBC.ukd" tvg-name="PT: CNBC Europe" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/98/CNBC.svg/revision/latest/scale-to-width-down/68?cb=20180730212417" group-title="PORTUGAL",PT: CNBC Europe--------gooserace
+http://gooserace.xyz:2052/donna/donna123/1116458
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CA: CNBC" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnbc-us.png" group-title="CANADA",CA: CNBC
+http://gooserace.xyz:2052/donna/donna123/1549128
+#EXTINF:-1 tvg-id="" tvg-name="AF: ZW CNBC Africa" tvg-logo="" group-title="AFRICA",AF: ZW CNBC Africa
+http://gooserace.xyz:2052/donna/donna123/2431614
+#EXTINF:-1 tvg-id="" tvg-name="AF: UG CNBC Africa" tvg-logo="" group-title="AFRICA",AF: UG CNBC Africa
+http://gooserace.xyz:2052/donna/donna123/2431485
+#EXTINF:-1 tvg-id="" tvg-name="MY: CNBC" tvg-logo="" group-title="MALAYSIA",MY: CNBC
+http://gooserace.xyz:2052/donna/donna123/2599262
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="" group-title="PHILIPPINES",CNBC
+http://gooserace.xyz:2052/donna/donna123/2599129
+#EXTINF:-1 tvg-id="" tvg-name="ID CNBC " tvg-logo="" group-title="INDONESIA",ID CNBC 
+http://gooserace.xyz:2052/donna/donna123/1109740
 
 
 
