@@ -45,6 +45,8 @@ plugin://plugin.video.dailymotion_com/?url=x7kx5i7&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x7z8zsu&mode=playLiveVideo
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25---dailymotion
 plugin://plugin.video.dailymotion_com/?url=x6rz4t7&mode=playLiveVideo
+#EXTINF:-1 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD
+plugin://plugin.video.dailymotion_com/?url=x74wlgj&mode=playLiveVideo
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/400px-Thairath_TV32.png" group-title="Thailand",Thairath720
