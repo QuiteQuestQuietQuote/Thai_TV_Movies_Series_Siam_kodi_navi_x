@@ -3130,7 +3130,7 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV---youtube
-plugin://plugin.video.youtube/play/?video_id=4tbh25K-vO8
+plugin://plugin.video.youtube/play/?video_id=NjugILSG_Wo
 
 
 
@@ -3200,7 +3200,7 @@ http://mu02.v2iptv.com:8880/Sale2627/August0620/71066
 http://tv.iptvstack.net:80/578652alter/Hq9FTX34/14968
 #EXTINF:-1,CNBC FHD UK
 http://tv.iptvstack.net:80/578652alter/Hq9FTX34/29301
-#EXTINF:-1,CNBC FHD US
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US
 http://tv.iptvstack.net:80/578652alter/Hq9FTX34/9028
 #EXTINF:-1,CNBC World HD US
 http://tv.iptvstack.net:80/578652alter/Hq9FTX34/23222
