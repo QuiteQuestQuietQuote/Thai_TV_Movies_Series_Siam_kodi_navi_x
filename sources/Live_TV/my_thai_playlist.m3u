@@ -3196,9 +3196,8 @@ http://185.71.64.167:80/307210363450/307210363450/80316
 #EXTINF:-1,|OSN| CNBC EUROPE
 http://185.71.64.167:80/307210363450/307210363450/78914
 
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US: CNBC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/930d9bbb0c0107df1b011f45e4c83e56.png" group-title="USA",US: CNBC FHD---test---iptvtree
-http://iptvtree.net:8080/fawkes32/adaa5870d5c0/2295
-#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="US: CNBC World FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0e57a4bfec13fd8900f45bdac39cbe09.png" group-title="USA",US: CNBC World FHD
+
+
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",US020:CNBC HD-------mu02
@@ -3233,8 +3232,32 @@ http://tv.iptvstack.net:8080/578652alter/Hq9FTX34/14968
 
 #EXTINF:-1,18+: FemJoy ---test---tigerfights
 http://tigerfights.xyz:2052/ryan/ryan/2578143 
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: DA VINCI LEARNING HD" tvg-logo="" group-title="Live: Vietnam",VIP VTN: DA VINCI LEARNING HD---test---goldiptv
-http://goldiptv.online:8080/EqPqu6Y8jD/w0AyCpCpJs/9859
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: AFN" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: AFN
-http://goldiptv.online:8080/EqPqu6Y8jD/w0AyCpCpJs/33241
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US: CNBC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/930d9bbb0c0107df1b011f45e4c83e56.png" group-title="USA",US: CNBC FHD---test---iptvtree
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/2295
+#EXTINF:-1,XXX: Nuart HD 
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/49169
+
+#EXTINF:-1,PH-ASIAN FOOD---mains.services---test
+http://mains.services:2086/live/mikekoot/1757909/93234.ts
+
+#EXTINF:-1,e---mitv---test
+mitv://ns2.hellotvvod.com:9906/b465ba222abf4ce7b39a020aec6712c1 
+#EXTINF:-1,w
+mitv://ns2.hellotvvod.com:9906/3f8f8169d5ac4d289c6569764daf2add 
+
+
+#EXTINF:-1,pandora---52x---test
+https://52x.top/id/cs.php?/iTouchTV/411
+#EXTINF:-1,pandora---315600
+http://315600.xyz/fain.php?id=411
+#EXTINF:-1,pandora---jk
+http://315600.xyz/jk/dl/cctv.php?id=411
+#EXTINF:-1,HOT JAPAN HD
+http://zemlja.eu:25461/live/gladio3356/mpEne8Fot5/3776.m3u8
+
+
+
+
+
+
 
