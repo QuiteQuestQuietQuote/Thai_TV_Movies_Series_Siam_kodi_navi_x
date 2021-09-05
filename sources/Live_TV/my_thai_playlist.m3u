@@ -1670,44 +1670,44 @@ https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream2/playlist.m3u8
 
 
 #EXTINF:-1,X_Cafe_bang------------cut
-http://204.45.185.166:25678/i/ghjnvq5o/v19a2133/index.m3u8
+http://204.45.182.172:26789/i/ghjnvq5o/v19a2133/index.m3u8
 #EXTINF:-1,X_Cafe_ass
-http://204.45.185.166:25678/i/ghjnvq5o/8jainsbq/index.m3u8
+http://204.45.182.172:26789/i/ghjnvq5o/8jainsbq/index.m3u8
 #EXTINF:-1,X_Cafe_teen
-http://204.45.185.166:25678/i/ghjnvq5o/456oinav/index.m3u8
+http://204.45.182.172:26789/i/ghjnvq5o/456oinav/index.m3u8
 #EXTINF:-1,X_blow
-http://204.45.185.166:25678/i/ghjnvq5o/91bnjred/index.m3u8
+http://204.45.182.172:26789/i/ghjnvq5o/91bnjred/index.m3u8
 #EXTINF:-1,X_Cafe_asian
-http://204.45.185.166:25678/i/ghjnvq5o/846a1ghm/index.m3u8
+http://204.45.182.172:26789/i/ghjnvq5o/846a1ghm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1kB5Mk6.png" group-title="XXX",JAV_etv_Rainbow TV
-http://204.45.185.166:25678/i/ghjnvq5o/8c855daa/index.m3u8
+http://204.45.182.172:26789/i/ghjnvq5o/8c855daa/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",JAV_SonSee1
-http://204.45.185.166:25678/i/ghjnvq5o/8c855fdf/index.m3u8
+http://204.45.182.172:26789/i/ghjnvq5o/8c855fdf/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2DMApL.png" group-title="XXX",JAV_SonSee2
-http://204.45.185.166:25678/i/ghjnvq5o/984fa1vb/index.m3u8
+http://204.45.182.172:26789/i/ghjnvq5o/984fa1vb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v99U3JE.png" group-title="XXX",JAV_AmezingTV
-http://204.45.185.166:25678/i/ghjnvq5o/8c85fsaf/index.m3u8
+http://204.45.182.172:26789/i/ghjnvq5o/8c85fsaf/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Gsoilhg.jpg" group-title="XXX",JAV_Pandora_Pink
-http://204.45.185.166:25678/i/ghjnvq5o/8c85giea/index.m3u8
+http://204.45.182.172:26789/i/ghjnvq5o/8c85giea/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/N8Z939N.png" group-title="XXX",JAV_Hot
-http://204.45.185.166:25678/i/ghjnvq5o/8c855d75/index.m3u8
+http://204.45.182.172:26789/i/ghjnvq5o/8c855d75/index.m3u8
 #EXTINF:-1,JAV_DRP
-http://204.45.185.166:25678/i/ghjnvq5o/3v529tk6/index.m3u8
+http://204.45.182.172:26789/i/ghjnvq5o/3v529tk6/index.m3u8
 #EXTINF:-1,JAV_OursHD
-http://204.45.185.166:25678/i/ghjnvq5o/tj5knp44/index.m3u8
+http://204.45.182.172:26789/i/ghjnvq5o/tj5knp44/index.m3u8
 #EXTINF:-1,X2
-http://204.45.185.166:25678/i/ghjnvq5o/ahun18hg/index.m3u8
+http://204.45.182.172:26789/i/ghjnvq5o/ahun18hg/index.m3u8
 #EXTINF:-1,X_Passion
-http://204.45.185.166:25678/i/ghjnvq5o/84a15gbc/index.m3u8
+http://204.45.182.172:26789/i/ghjnvq5o/84a15gbc/index.m3u8
 #EXTINF:-1,X_Cafe_blond
-http://204.45.185.166:25678/i/ghjnvq5o/952a3vvv/index.m3u8
+http://204.45.182.172:26789/i/ghjnvq5o/952a3vvv/index.m3u8
 #EXTINF:-1,X5
-http://204.45.185.166:25678/i/ghjnvq5o/1bf4a301/index.m3u8
+http://204.45.182.172:26789/i/ghjnvq5o/1bf4a301/index.m3u8
 
 #EXTINF:-1,JAV_OursHD----------test
 http://204.45.182.172:26789/i/ghjnvq5o/tj5knp44/index.m3u8
 
-
+http://204.45.182.172:26789/i/ghjnvq5o/8c855daa/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------test
@@ -2648,11 +2648,9 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
 #EXTINF:-1,CN_DIY
 http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
 #EXTINF:-1,a taste of china24/7_CHN
-http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
+http://121.12.115.162/txdirect.hls.huya.com/src/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 #EXTINF:-1,wild food brother_CHN
-https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
-
-
+http://121.12.115.162/txdirect.hls.huya.com/src/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
 
 
 #EXTINF:-1 group-title="Docu" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",samrujlok
@@ -2834,7 +2832,7 @@ http://185.71.64.167:80/307210363450/307210363450/80329
 
 
 
-#EXTINF:-1,JapanHDV (18+)by iyikosan ---------------------------------------------iptvstack
+#EXTINF:-1,JapanHDV (18+)by iyikosan ----------------iptvstack
 http://tv.iptvstack.net:80/johZpWMXkZkx258/IXa6LM19/38045 
 #EXTINF:-1,JapanHDV Anal (18+) 
 http://tv.iptvstack.net:80/johZpWMXkZkx258/IXa6LM19/37954 
@@ -2931,7 +2929,7 @@ http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
 #EXTINF:-1,BBC Earth
 http://198.16.106.62:8278/streams/d/bbcearthHD_zero/playlist.m3u8
 
-#EXTINF:-1,Nat Geo People HD----------
+#EXTINF:-1,Nat Geo People HD----------tvmalaysia
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
 #EXTINF:-1,Asia Food Network
 http://iptv.tvmalaysia.cc:80/penang172/penang172/8857
@@ -3138,28 +3136,52 @@ http://iptvtree.net:8080/fawkes32/adaa5870d5c0/2295
 #EXTINF:-1,XXX: Nuart HD 
 http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/49169
 
+#EXTINF:-1,CNBC
+http://125.227.210.37:16415/VideoInput/play.ts
+#EXTINF:-1,ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1,BBC Earth Lifestyle
+http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+#EXTINF:-1,a taste of china24/7_CHN
+http://121.12.115.162/txdirect.hls.huya.com/src/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
+#EXTINF:-1,wild food brother_CHN
+http://121.12.115.162/txdirect.hls.huya.com/src/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,hk18-----rtmp
+rtmp://161.202.204.248/sat/hk041
+#EXTINF:-1,eleven1
+rtmp://161.202.204.248:1935/sat/tv731
+#EXTINF:-1,eleven2
+rtmp://161.202.204.248:1935/sat/tv741
+
+#EXTINF:-1,Pandora_Perfect---TW---411
+http://yjmcyy1.usa7.345888.xyz/ub.php?id=411
+#EXTINF:-1,Pandora_Perfect---leonardpark
+https://api.leonardpark.dev/live/icable/411
+#EXTINF:-1,Pandora_Perfect---navchina
+https://www.navchina.cf/IPTV/icable.php?id=411
+#EXTINF:-1,ly
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1,AFC
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: AFC" tvg-logo="" group-title="Live: Vietnam",VIP VTN: AFC---test---sinotvpro
-http://sinotvpro.com:8080/QzWQ2jXNnP/V2Asqrk9c6/9857
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: DA VINCI LEARNING HD" tvg-logo="" group-title="Live: Vietnam",VIP VTN: DA VINCI LEARNING HD
-http://sinotvpro.com:8080/QzWQ2jXNnP/V2Asqrk9c6/9859
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: BBC Earth HD" tvg-logo="[" group-title="Live: Vietnam",VIP VTN: BBC Earth HD
-http://sinotvpro.com:8080/QzWQ2jXNnP/V2Asqrk9c6/9846
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: BBC LIFESTYLE" tvg-logo="" group-title="Live: Vietnam",VIP VTN: BBC LIFESTYLE
-http://sinotvpro.com:8080/QzWQ2jXNnP/V2Asqrk9c6/32715
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: DISCOVERY ASIA HD" tvg-logo="" group-title="Live: Vietnam",VIP VTN: DISCOVERY ASIA HD
-http://sinotvpro.com:8080/QzWQ2jXNnP/V2Asqrk9c6/32716
-#EXTINF:-1 tvg-ID="" tvg-name="VIP MYM: Nat Geo People" tvg-logo="" group-title="Live: Myanmar",VIP MYM: Nat Geo People
-http://sinotvpro.com:8080/QzWQ2jXNnP/V2Asqrk9c6/30316
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: ASIAN FOOD CHANNEL" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: ASIAN FOOD CHANNEL
-http://sinotvpro.com:8080/QzWQ2jXNnP/V2Asqrk9c6/28705
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RO: DaVinci Learning" tvg-logo="" group-title="Live: Romania",RO: DaVinci Learning
-http://sinotvpro.com:8080/QzWQ2jXNnP/V2Asqrk9c6/50360
+#EXTINF:-1,ADULT - BABES TV HD ---ottactive
+http://ottactive.cx:80/A6C3812C3F36/099535D27732/63799 
+#EXTINF:-1,ADULT - NUART TV 
+http://ottactive.cx:80/A6C3812C3F36/099535D27732/63762 
 
 
-#EXTINF:-1,Perfect---p5p
-p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931 
+
+
+
+
+
+
+
+
+
+
 
 
 
