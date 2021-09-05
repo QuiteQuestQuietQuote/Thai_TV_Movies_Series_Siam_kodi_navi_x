@@ -1707,7 +1707,7 @@ http://204.45.182.172:26789/i/ghjnvq5o/1bf4a301/index.m3u8
 #EXTINF:-1,JAV_OursHD----------test
 http://204.45.182.172:26789/i/ghjnvq5o/tj5knp44/index.m3u8
 
-http://204.45.182.172:26789/i/ghjnvq5o/8c855daa/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cns.net.tw/web/upload/20180101142712Y9Ngptk.png" group-title="XXX",Banana HD-------------test
@@ -3160,9 +3160,9 @@ http://yjmcyy1.usa7.345888.xyz/ub.php?id=411
 https://api.leonardpark.dev/live/icable/411
 #EXTINF:-1,Pandora_Perfect---navchina
 https://www.navchina.cf/IPTV/icable.php?id=411
-#EXTINF:-1,ly
+#EXTINF:-1,ly---sason
 http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:-1,AFC
+#EXTINF:-1,AFC---fptplay
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
 
@@ -3170,17 +3170,6 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 http://ottactive.cx:80/A6C3812C3F36/099535D27732/63799 
 #EXTINF:-1,ADULT - NUART TV 
 http://ottactive.cx:80/A6C3812C3F36/099535D27732/63762 
-
-
-
-
-
-
-
-
-
-
-
 
 
 
