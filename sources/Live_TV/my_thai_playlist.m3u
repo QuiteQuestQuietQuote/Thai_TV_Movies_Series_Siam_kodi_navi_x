@@ -2929,14 +2929,10 @@ http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
 #EXTINF:-1,BBC Earth
 http://198.16.106.62:8278/streams/d/bbcearthHD_zero/playlist.m3u8
 
-#EXTINF:-1,Nat Geo People HD----------tvmalaysia
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
-#EXTINF:-1,Asia Food Network
-http://iptv.tvmalaysia.cc:80/penang172/penang172/8857
-#EXTINF:-1,Asian Food Network HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
-#EXTINF:-1,Discovery Asia
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6772
+
+
+
+
 
 
 #EXTINF:-1,HISTORY HD------------
@@ -3147,23 +3143,6 @@ http://121.12.115.162/txdirect.hls.huya.com/src/30765679-2523417472-108379955163
 #EXTINF:-1,wild food brother_CHN
 http://121.12.115.162/txdirect.hls.huya.com/src/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1,hk18-----rtmp
-rtmp://161.202.204.248/sat/hk041
-#EXTINF:-1,eleven1
-rtmp://161.202.204.248:1935/sat/tv731
-#EXTINF:-1,eleven2
-rtmp://161.202.204.248:1935/sat/tv741
-
-#EXTINF:-1,Pandora_Perfect---TW---411
-http://yjmcyy1.usa7.345888.xyz/ub.php?id=411
-#EXTINF:-1,Pandora_Perfect---leonardpark
-https://api.leonardpark.dev/live/icable/411
-#EXTINF:-1,Pandora_Perfect---navchina
-https://www.navchina.cf/IPTV/icable.php?id=411
-#EXTINF:-1,ly---sason
-http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:-1,AFC---fptplay
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1,ADULT - BABES TV HD ---ottactive
@@ -3172,7 +3151,20 @@ http://ottactive.cx:80/A6C3812C3F36/099535D27732/63799
 http://ottactive.cx:80/A6C3812C3F36/099535D27732/63762 
 
 
-
+#EXTINF:-1,Nat Geo People HD---penang172-------tvmalaysia
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
+#EXTINF:-1,NatGeo People---tv3
+http://iptv.tvmalaysia.cc:80/tv3/tv3/6811
+#EXTINF:-1,Asia Food Network---test123
+http://iptv.tvmalaysia.cc:80/test123/test123/8857
+#EXTINF:-1,Asian Food Network HD---box1
+http://iptv.tvmalaysia.cc:80/box1/box1/6693
+#EXTINF:-1,Discovery Asia---titi3
+http://iptv.tvmalaysia.cc:80/titi3/titi3/6772
+#EXTINF:-1,BBC Lifestyle---boy1
+http://iptv.tvmalaysia.cc:80/boy1/boy1/6746
+#EXTINF:-1,TH | PSI Saradee HD
+http://iptv.tvmalaysia.cc:80/boy1/boy1/8776
 
 
 
