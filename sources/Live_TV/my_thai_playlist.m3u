@@ -2930,12 +2930,25 @@ http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
 http://198.16.106.62:8278/streams/d/bbcearthHD_zero/playlist.m3u8
 
 
+#EXTINF:-1,Nat Geo People HD---penang172-------tvmalaysia
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
+#EXTINF:-1,NatGeo People---tv3
+http://iptv.tvmalaysia.cc:80/tv3/tv3/6811
+#EXTINF:-1,Asia Food Network---test123
+http://iptv.tvmalaysia.cc:80/test123/test123/8857
+#EXTINF:-1,Asian Food Network HD---box1
+http://iptv.tvmalaysia.cc:80/box1/box1/6693
+#EXTINF:-1,Discovery Asia---titi3
+http://iptv.tvmalaysia.cc:80/titi3/titi3/6772
+#EXTINF:-1,BBC Lifestyle---boy1
+http://iptv.tvmalaysia.cc:80/boy1/boy1/6746
+#EXTINF:-1,TH | PSI Saradee HD
+http://iptv.tvmalaysia.cc:80/mona1/mona1/8776
 
 
 
 
-
-#EXTINF:-1,HISTORY HD------------
+#EXTINF:-1,HISTORY HD------------livedoomovie
 https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8 
 #EXTINF:-1,H2 HD
 https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8 
@@ -3115,18 +3128,18 @@ http://tv.iptvstack.net:80/johZpWMXkZkx258/IXa6LM19/9028
 #EXTINF:-1,CNBC World HD US
 http://tv.iptvstack.net:80/johZpWMXkZkx258/IXa6LM19/23222
 
-#EXTINF:-1,CNBC UK--------iptvstack---test---80
-http://tv.iptvstack.net:80/sfiXpDm63/7WVZi28500/14968
-#EXTINF:-1,CNBC FHD UK-----test
-http://85.203.33.88:80/PRodrigues/eViI9Q3998/29301
+
+#EXTINF:-1,CNBC FHD UK-----test---85.203.33.88:80
+http://85.203.33.88:80/johZpWMXkZkx258/IXa6LM19/29301
 #EXTINF:-1,Nuart TV (18+) RU
-http://85.203.33.88:80/PRodrigues/eViI9Q3998/28882
-#EXTINF:-1,CNBC UK--------iptvstack---test---8080
-http://tv.iptvstack.net:8080/578652alter/Hq9FTX34/14968
+http://85.203.33.88:80/johZpWMXkZkx258/IXa6LM19/28882
+
 
 
 #EXTINF:-1,18+: FemJoy ---test---tigerfights
 http://tigerfights.xyz:80/ryan/ryan/2578143 
+#EXTINF:-1,18+: Met-Art 
+http://tigerfights.xyz:80/ryan/ryan/2578164 
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="US: CNBC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/930d9bbb0c0107df1b011f45e4c83e56.png" group-title="USA",US: CNBC FHD---test---iptvtree
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/2295
 #EXTINF:-1,XXX: Nuart HD 
@@ -3144,27 +3157,58 @@ http://121.12.115.162/txdirect.hls.huya.com/src/30765679-2523417472-108379955163
 http://121.12.115.162/txdirect.hls.huya.com/src/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
 
 
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: AFN" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: AFN---test---clientportal
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/33241
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: BBC Earth HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: BBC Earth HD
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/42642
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: BBC Lifestyle HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: BBC Lifestyle HD
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/42641
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: DISCOVERY ASIA HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: DISCOVERY ASIA HD
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/10896
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Life" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Explore Life
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/10884
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Science" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Explore Science
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/10883
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PH: LIVING ASIA" tvg-logo="" group-title="Live: Filipino",VIP PH: LIVING ASIA
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/22516
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PH: AFC" tvg-logo="" group-title="Live: Filipino",VIP PH: AFC
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/22504
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: NAT GEO PEOPLE HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: NAT GEO PEOPLE HD
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/28658
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: DISCOVERY SCI HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: DISCOVERY SCI HD
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/33259
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: BBC EARTH HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: BBC EARTH HD
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/28694
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: BBC LIFESTYLE" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: BBC LIFESTYLE
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/28693
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: ASIAN FOOD CHANNEL" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: ASIAN FOOD CHANNEL
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/28705
+#EXTINF:-1 tvg-ID="" tvg-name="VIP MYM: Nat Geo People" tvg-logo="" group-title="Live: Myanmar",VIP MYM: Nat Geo People
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/30316
+#EXTINF:-1 tvg-ID="" tvg-name="VIP MYM: Asian Food Channel" tvg-logo="" group-title="Live: Myanmar",VIP MYM: Asian Food Channel
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/30336
+#EXTINF:-1 tvg-ID="" tvg-name="VIP MYM: BBC Earth" tvg-logo="" group-title="Live: Myanmar",VIP MYM: BBC Earth
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/30333
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Da Vinci Learning" tvg-logo="" group-title="Live: Bulgaria",BG: Da Vinci Learning
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/51843
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PK: DA VINCI KIDS" tvg-logo="" group-title="Live: Pakistan",VIP PK: DA VINCI KIDS
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/33972
+#EXTINF:-1 tvg-ID="davincilearning.pl" tvg-name="PL: Da Vinci Learning" tvg-logo="" group-title="Live: Poland",PL: Da Vinci Learning
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/9213
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RO: DaVinci Learning" tvg-logo="" group-title="Live: Romania",RO: DaVinci Learning
+http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/50360
 
-#EXTINF:-1,ADULT - BABES TV HD ---ottactive
-http://ottactive.cx:80/A6C3812C3F36/099535D27732/63799 
-#EXTINF:-1,ADULT - NUART TV 
-http://ottactive.cx:80/A6C3812C3F36/099535D27732/63762 
 
 
-#EXTINF:-1,Nat Geo People HD---penang172-------tvmalaysia
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
-#EXTINF:-1,NatGeo People---tv3
-http://iptv.tvmalaysia.cc:80/tv3/tv3/6811
-#EXTINF:-1,Asia Food Network---test123
-http://iptv.tvmalaysia.cc:80/test123/test123/8857
-#EXTINF:-1,Asian Food Network HD---box1
-http://iptv.tvmalaysia.cc:80/box1/box1/6693
-#EXTINF:-1,Discovery Asia---titi3
-http://iptv.tvmalaysia.cc:80/titi3/titi3/6772
-#EXTINF:-1,BBC Lifestyle---boy1
-http://iptv.tvmalaysia.cc:80/boy1/boy1/6746
-#EXTINF:-1,TH | PSI Saradee HD
-http://iptv.tvmalaysia.cc:80/boy1/boy1/8776
+
+
+
+
+
+
+
+
+
 
 
 
