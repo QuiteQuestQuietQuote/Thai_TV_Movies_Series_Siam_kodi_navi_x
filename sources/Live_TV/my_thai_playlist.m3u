@@ -3200,10 +3200,16 @@ http://clientportal-worldiptv.club:8080/0hVcKhaAcw/2DrXgEjKWQ/50360
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: DA VINCI LEARNING HD" tvg-logo="" group-title="Live: Vietnam",VIP VTN: DA VINCI LEARNING HD---test---videoklub
+http://videoklub.xyz:8080/8AGrvgQFGU/zFCZ5j0nEU/9859
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: AFC" tvg-logo="" group-title="Live: Vietnam",VIP VTN: AFC
+http://videoklub.xyz:8080/8AGrvgQFGU/zFCZ5j0nEU/9857
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Science" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Explore Science
+http://videoklub.xyz:8080/8AGrvgQFGU/zFCZ5j0nEU/10883
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: BBC Earth HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: BBC Earth HD
+http://videoklub.xyz:8080/8AGrvgQFGU/zFCZ5j0nEU/42642
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: BBC Lifestyle HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: BBC Lifestyle HD
+http://videoklub.xyz:8080/8AGrvgQFGU/zFCZ5j0nEU/42641
 
 
 
