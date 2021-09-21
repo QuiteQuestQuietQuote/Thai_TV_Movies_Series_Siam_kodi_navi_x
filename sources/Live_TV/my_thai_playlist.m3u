@@ -3151,7 +3151,7 @@ http://tigerfights.xyz:80/testline/testline/3043274.ts
 
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="US: CNBC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/930d9bbb0c0107df1b011f45e4c83e56.png" group-title="USA",US: CNBC FHD---test---iptvtree
 http://iptvtree.net:8080/moss/alaska33/2295
-#EXTINF:-1,XXX: Nuart HD 
+#EXTINF:-1,XXX: Nuart HD---
 http://iptvtree.net:8080/moss/alaska33/49169
 
 
@@ -3169,80 +3169,9 @@ http://121.12.115.162/txdirect.hls.huya.com/src/30765679-2523417472-108379955163
 http://121.12.115.162/txdirect.hls.huya.com/src/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: AFN" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: AFN---test---clientportal
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/33241
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: BBC Earth HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: BBC Earth HD
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/42642
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: BBC Lifestyle HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: BBC Lifestyle HD
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/42641
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: DISCOVERY ASIA HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: DISCOVERY ASIA HD
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/10896
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Life" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Explore Life
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/10884
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Science" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Explore Science
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/10883
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PH: LIVING ASIA" tvg-logo="" group-title="Live: Filipino",VIP PH: LIVING ASIA
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/22516
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PH: AFC" tvg-logo="" group-title="Live: Filipino",VIP PH: AFC
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/22504
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: NAT GEO PEOPLE HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: NAT GEO PEOPLE HD
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/28658
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: DISCOVERY SCI HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: DISCOVERY SCI HD
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/33259
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: BBC EARTH HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: BBC EARTH HD
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/28694
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: BBC LIFESTYLE" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: BBC LIFESTYLE
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/28693
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: ASIAN FOOD CHANNEL" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: ASIAN FOOD CHANNEL
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/28705
-#EXTINF:-1 tvg-ID="" tvg-name="VIP MYM: Nat Geo People" tvg-logo="" group-title="Live: Myanmar",VIP MYM: Nat Geo People
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/30316
-#EXTINF:-1 tvg-ID="" tvg-name="VIP MYM: Asian Food Channel" tvg-logo="" group-title="Live: Myanmar",VIP MYM: Asian Food Channel
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/30336
-#EXTINF:-1 tvg-ID="" tvg-name="VIP MYM: BBC Earth" tvg-logo="" group-title="Live: Myanmar",VIP MYM: BBC Earth
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/30333
-#EXTINF:-1 tvg-ID="" tvg-name="BG: Da Vinci Learning" tvg-logo="" group-title="Live: Bulgaria",BG: Da Vinci Learning
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/51843
-#EXTINF:-1 tvg-ID="" tvg-name="VIP PK: DA VINCI KIDS" tvg-logo="" group-title="Live: Pakistan",VIP PK: DA VINCI KIDS
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/33972
-#EXTINF:-1 tvg-ID="davincilearning.pl" tvg-name="PL: Da Vinci Learning" tvg-logo="" group-title="Live: Poland",PL: Da Vinci Learning
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/9213
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RO: DaVinci Learning" tvg-logo="" group-title="Live: Romania",RO: DaVinci Learning
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/50360
-#EXTINF:-1 tvg-ID="cnbcworld.us" tvg-name="VIP US: CNBC HD" tvg-logo="[" group-title="Live: USA",VIP US: CNBC HD
-http://clientportal-worldiptv.club:8080/YsAcceKs3f/8Wp5Yz1uTM/10676
 
 
 
-
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: DA VINCI LEARNING HD" tvg-logo="" group-title="Live: Vietnam",VIP VTN: DA VINCI LEARNING HD---test---videoklub
-http://videoklub.xyz:8080/bW8Mrzvjx4/PuguY9styM/9859
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: AFC" tvg-logo="" group-title="Live: Vietnam",VIP VTN: AFC
-http://videoklub.xyz:8080/bW8Mrzvjx4/PuguY9styM/9857
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Science" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Explore Science
-http://videoklub.xyz:8080/bW8Mrzvjx4/PuguY9styM/10883
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: BBC Earth HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: BBC Earth HD
-http://videoklub.xyz:8080/bW8Mrzvjx4/PuguY9styM/42642
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: BBC Lifestyle HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: BBC Lifestyle HD
-http://videoklub.xyz:8080/bW8Mrzvjx4/PuguY9styM/42641
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Kids VIP AF" tvg-logo="" group-title="Africa",Da Vinci Kids VIP AF---test---topchannel
-http://topchannel.streamtv.to:8080/2698gh4bQu/ae8B6VRXNL/90219
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD PH" tvg-logo="" group-title="Philippines",ASIAN FOOD PH
-http://topchannel.streamtv.to:8080/2698gh4bQu/ae8B6VRXNL/24166
-#EXTINF:-1 tvg-id="" tvg-name="NUART ADULT" tvg-logo="" group-title="For Adults",NUART ADULT
-http://topchannel.streamtv.to:8080/2698gh4bQu/ae8B6VRXNL/78715
-
-#EXTINF:-1,Asian Food Channel ID---test---portal.geniptv
-http://portal.geniptv.com:8080/o4nENXnI6p/IoUhepiADh/62295
-#EXTINF:-1,Asian Food Channel HD ID
-http://portal.geniptv.com:8080/o4nENXnI6p/IoUhepiADh/62156
-#EXTINF:-1,Da Vinci Kids VIP AF
-http://portal.geniptv.com:8080/o4nENXnI6p/IoUhepiADh/90219
-#EXTINF:-1,NUART ADULT
-http://portal.geniptv.com:8080/o4nENXnI6p/IoUhepiADh/78715
 
 
 
