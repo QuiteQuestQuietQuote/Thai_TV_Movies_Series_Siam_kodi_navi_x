@@ -3087,15 +3087,6 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 
 
 
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC HD---
-http://196.179.225.154:10001/stream/channelid/796168180?profile=pass
-
-
-
-
-
-
-
 
 #EXTINF:-1,|PT| CNBC--------185
 http://185.71.64.167:80/307210363450/307210363450/81700
@@ -3140,11 +3131,13 @@ http://85.203.33.88:80/2882jXf96/1LcZ0N9409/28882
 http://tigerfights.xyz:80/testline/testline/2578143 
 #EXTINF:-1,18+: Met-Art-
 http://tigerfights.xyz:80/testline/testline/2578164 
+#EXTINF:-1,XXX-NUART 
+http://tigerfights.xyz:80/testline/testline/2491807 
 #EXTINF:-1,VN: DA VINCI LEARNING HD
 http://tigerfights.xyz:80/testline/testline/2586405.ts
 #EXTINF:-1,VN: ASIAN FOOD CHANNEL HD
 http://tigerfights.xyz:80/testline/testline/2586402.ts
-#EXTINF:-1,USA: CNBC
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",USA: CNBC HD
 http://tigerfights.xyz:80/testline/testline/3043273.ts
 #EXTINF:-1,USA: CNBC World
 http://tigerfights.xyz:80/testline/testline/3043274.ts
