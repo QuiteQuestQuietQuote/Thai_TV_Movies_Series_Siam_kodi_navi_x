@@ -3121,7 +3121,8 @@ http://tv.iptvstack.net:80/U3U6UnZr9Q487/EPFP441024/23222
 
 #EXTINF:-1,Nuart TV (18+) RU---85.203.33.88
 http://85.203.33.88:80/U3U6UnZr9Q487/EPFP441024/28882
-
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="- IPTV",FTV Midnight Secrets (UHD)--------
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 
 #EXTINF:-1,18+: FemJoy ---test---tigerfights
@@ -3143,7 +3144,8 @@ http://tigerfights.xyz:80/testline/testline/3043274.ts
 http://iptvtree.net:8080/moss/alaska33/2295
 #EXTINF:-1,XXX: Nuart HD---
 http://iptvtree.net:8080/moss/alaska33/49169
-
+#EXTINF:-1,XXX: Nuart HD---test
+http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/49169
 
 
 
