@@ -3131,9 +3131,9 @@ http://tigerfights.xyz:80/testline/testline/2578143
 http://tigerfights.xyz:80/testline/testline/2578164 
 #EXTINF:-1,XXX-NUART-
 http://tigerfights.xyz:80/testline/testline/2491807 
-#EXTINF:-1,VN: DA VINCI LEARNING HD
+#EXTINF:-1,VN: DA VINCI LEARNING HD-
 http://tigerfights.xyz:80/testline/testline/2586405.ts
-#EXTINF:-1,VN: ASIAN FOOD CHANNEL HD
+#EXTINF:-1,VN: ASIAN FOOD CHANNEL HD-
 http://tigerfights.xyz:80/testline/testline/2586402.ts
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",USA: CNBC HD
 http://tigerfights.xyz:80/testline/testline/3043273.ts
@@ -3162,13 +3162,32 @@ http://121.12.115.162/txdirect.hls.huya.com/src/94525224-2656999522-114117260524
 
 
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: ASIAN FOOD CHANNEL" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: ASIAN FOOD CHANNEL---worldiptv
+http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/28705
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: DISCOVERY SCI HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: DISCOVERY SCI HD
+http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/33259
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: ASIAN FOOD CHANNEL" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: ASIAN FOOD CHANNEL
+http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/28705
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PH: AFC" tvg-logo="" group-title="Live: Filipino",VIP PH: AFC
+http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/22504
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: AFC" tvg-logo="" group-title="Live: Vietnam",VIP VTN: AFC
+http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/9857
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: DA VINCI LEARNING HD" tvg-logo="" group-title="Live: Vietnam",VIP VTN: DA VINCI LEARNING HD
+http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/9859
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: BBC Earth HD" tvg-logo="[" group-title="Live: Vietnam",VIP VTN: BBC Earth HD
+http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/9846
+#EXTINF:-1 tvg-ID="" tvg-name="VIP VTN: BBC Lifestyle" tvg-logo="" group-title="Live: Vietnam",VIP VTN: BBC Lifestyle
+http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/82853
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: AFN" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: AFN
+http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/33241
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: BBC Earth HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: BBC Earth HD
+http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/42642
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: BBC Lifestyle HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: BBC Lifestyle HD
+http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/42641
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Life" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Explore Life
+http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/10884
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Science" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Explore Science
+http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/10883
 
 
 
