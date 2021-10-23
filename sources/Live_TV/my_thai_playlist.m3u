@@ -2543,8 +2543,6 @@ https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/playlist.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="VN129:BBC NEWS" tvg-logo="" group-title="Vietnam",VN129:BBC NEWS----------------------------------skynets
 http://a2.skynets.tv:8880/xzyc12m7748/RUb4ja3w4E/31587
 #EXTINF:-1 tvg-id="" tvg-name="VN130:BBC LIFESTYLE" tvg-logo="" group-title="Vietnam",VN130:BBC LIFESTYLE
@@ -2792,43 +2790,42 @@ http://mu02.v2iptv.com:8880/Sale2627/August0620/61121
 
 
 
-
 #EXTINF:-1,|KIDS| DA VINCI KIDS-------------------185.71.64.167
-http://185.71.64.167:80/307210363450/307210363450/85125
+http://185.71.64.167:80/1681193081/0318014667/85125
 #EXTINF:-1,|RO| DAVINCI LEARNING
-http://185.71.64.167:80/307210363450/307210363450/82276
+http://185.71.64.167:80/1681193081/0318014667/82276
 #EXTINF:-1,|EXYU| DA VINCI LEARNING
-http://185.71.64.167:80/307210363450/307210363450/85267
+http://185.71.64.167:80/1681193081/0318014667/85267
 #EXTINF:-1,|SLOVENIA| DAVINCI LEARNING
-http://185.71.64.167:80/307210363450/307210363450/158652
+http://185.71.64.167:80/1681193081/0318014667/158652
 
 #EXTINF:-1,|AU| SBS FOOD-----
-http://185.71.64.167:80/307210363450/307210363450/83424
+http://185.71.64.167:80/1681193081/0318014667/83424
 #EXTINF:-1,|AR| BEIN NAT PEOPLE 4K
-http://185.71.64.167:80/307210363450/307210363450/164189
+http://185.71.64.167:80/1681193081/0318014667/164189
 #EXTINF:-1,|OSN|HEVC| NAT GEO PEOPLE HD
-http://185.71.64.167:80/307210363450/307210363450/78906
+http://185.71.64.167:80/1681193081/0318014667/78906
 #EXTINF:-1,|NL|HEVC| DISCOVERY HD
-http://185.71.64.167:80/307210363450/307210363450/79738
+http://185.71.64.167:80/1681193081/0318014667/79738
 #EXTINF:-1,|NL|HEVC| DISCOVERY WORLD
-http://185.71.64.167:80/307210363450/307210363450/79737
+http://185.71.64.167:80/1681193081/0318014667/79737
 #EXTINF:-1,|NL|HEVC| DISCOVERY SCIENCE HD
-http://185.71.64.167:80/307210363450/307210363450/79736
+http://185.71.64.167:80/1681193081/0318014667/79736
 #EXTINF:-1,|NL|HEVC| HISTORY HD
-http://185.71.64.167:80/307210363450/307210363450/79734
+http://185.71.64.167:80/1681193081/0318014667/79734
 
 #EXTINF:-1,|GENERAL| BBC BRIT-----
-http://185.71.64.167:80/307210363450/307210363450/85048
+http://185.71.64.167:80/1681193081/0318014667/85048
 #EXTINF:-1,|GENERAL| BBC LIFESTYLE
-http://185.71.64.167:80/307210363450/307210363450/85047
+http://185.71.64.167:80/1681193081/0318014667/85047
 #EXTINF:-1,|GENERAL| BBC WORLD NEWS
-http://185.71.64.167:80/307210363450/307210363450/85046
+http://185.71.64.167:80/1681193081/0318014667/85046
 #EXTINF:-1,|GENERAL| SKY NEWS
-http://185.71.64.167:80/307210363450/307210363450/85045
+http://185.71.64.167:80/1681193081/0318014667/85045
 #EXTINF:-1,|GENERAL| EURONEWS
-http://185.71.64.167:80/307210363450/307210363450/85044
+http://185.71.64.167:80/1681193081/0318014667/85044
 #EXTINF:-1,|UK|FHD| BBC WORLD NEWS
-http://185.71.64.167:80/307210363450/307210363450/80329
+http://185.71.64.167:80/1681193081/0318014667/80329
 
 
 
@@ -2998,7 +2995,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",Channel News Asia---youtube
 plugin://plugin.video.youtube/play/?video_id=XWq5kBlakcQ
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/mBTe5bW.png",NHK WORLD HD
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan_CN
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang
@@ -3007,8 +3004,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://i.imgur.com/j55hDLp.png",France 24 HD (in English) 
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews (English) 
-http://164.40.161.46:8002/play/s4
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png",Euronews HD (English) 
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",Euronews_TW
 http://61.58.60.230:9319/live/129.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews English---youtube
@@ -3030,9 +3027,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_HD-------------
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news
-http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News_UK
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news---youtube
@@ -3047,9 +3042,9 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 #EXTINF:-1,Fox News HD
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV-----------
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV---youtube
 plugin://plugin.video.youtube/play/?video_id=4nSZPqJfC_I
 
@@ -3089,11 +3084,11 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 
 
 #EXTINF:-1,|PT| CNBC--------185
-http://185.71.64.167:80/307210363450/307210363450/81700
+http://185.71.64.167:80/1681193081/0318014667/81700
 #EXTINF:-1,|UK|SD| CNBC
-http://185.71.64.167:80/307210363450/307210363450/80316
+http://185.71.64.167:80/1681193081/0318014667/80316
 #EXTINF:-1,|OSN| CNBC EUROPE
-http://185.71.64.167:80/307210363450/307210363450/78914
+http://185.71.64.167:80/1681193081/0318014667/78914
 
 
 
@@ -3118,6 +3113,9 @@ http://tv.iptvstack.net:80/U3U6UnZr9Q487/EPFP441024/29301
 http://tv.iptvstack.net:80/U3U6UnZr9Q487/EPFP441024/9028
 #EXTINF:-1,CNBC World HD US
 http://tv.iptvstack.net:80/U3U6UnZr9Q487/EPFP441024/23222
+
+#EXTINF:-1,Da Vinci Learning HR--------------iptvstack-
+http://tv.iptvstack.net:80/U3U6UnZr9Q487/EPFP441024/17272
 
 #EXTINF:-1,Nuart TV (18+) RU---85.203.33.88
 http://85.203.33.88:80/U3U6UnZr9Q487/EPFP441024/28882
@@ -3145,7 +3143,7 @@ http://iptvtree.net:8080/moss/alaska33/2295
 #EXTINF:-1,XXX: Nuart HD---
 http://iptvtree.net:8080/moss/alaska33/49169
 #EXTINF:-1,XXX: Nuart HD---test
-http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/49169
+http://iptvtree.net:8080/7tPyzM9iGQ/qB0T5uHARE/49169
 
 
 
@@ -3161,33 +3159,16 @@ http://121.12.115.162/txdirect.hls.huya.com/src/30765679-2523417472-108379955163
 http://121.12.115.162/txdirect.hls.huya.com/src/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
 
 
+#EXTINF:-1,411
+http://43.128.9.168/jjtv.php?id=411
+#EXTINF:-1,|AU| SBS FOOD----
+http://185.71.64.167:80/1681193081/0318014667/83424
+#EXTINF:-1,XXX: Nuart HD---test-
+http://iptvtree.net:8080/7tPyzM9iGQ/qB0T5uHARE/49169
 
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: ASIAN FOOD CHANNEL" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: ASIAN FOOD CHANNEL---worldiptv
-http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/28705
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: DISCOVERY SCI HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: DISCOVERY SCI HD
-http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/33259
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: ASIAN FOOD CHANNEL" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: ASIAN FOOD CHANNEL
-http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/28705
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PH: AFC" tvg-logo="" group-title="Live: Filipino",VIP PH: AFC
-http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/22504
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: AFC" tvg-logo="" group-title="Live: Vietnam",VIP VTN: AFC
-http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/9857
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: DA VINCI LEARNING HD" tvg-logo="" group-title="Live: Vietnam",VIP VTN: DA VINCI LEARNING HD
-http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/9859
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: BBC Earth HD" tvg-logo="[" group-title="Live: Vietnam",VIP VTN: BBC Earth HD
-http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/9846
-#EXTINF:-1 tvg-ID="" tvg-name="VIP VTN: BBC Lifestyle" tvg-logo="" group-title="Live: Vietnam",VIP VTN: BBC Lifestyle
-http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/82853
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: AFN" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: AFN
-http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/33241
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: BBC Earth HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: BBC Earth HD
-http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/42642
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: BBC Lifestyle HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: BBC Lifestyle HD
-http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/42641
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Life" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Explore Life
-http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/10884
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Science" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Explore Science
-http://worldiptv.me:8080/FBK9ddxk2Z/Ev6q7CMKjE/10883
+
+
+
 
 
 
