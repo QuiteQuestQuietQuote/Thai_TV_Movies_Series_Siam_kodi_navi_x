@@ -3046,7 +3046,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV---youtube
-plugin://plugin.video.youtube/play/?video_id=4nSZPqJfC_I
+plugin://plugin.video.youtube/play/?video_id=qwjdbOArWEs
 
 
 
@@ -3114,9 +3114,10 @@ http://tv.iptvstack.net:80/U3U6UnZr9Q487/EPFP441024/9028
 #EXTINF:-1,CNBC World HD US
 http://tv.iptvstack.net:80/U3U6UnZr9Q487/EPFP441024/23222
 
-#EXTINF:-1,Da Vinci Learning HR--------------iptvstack-
-http://tv.iptvstack.net:80/U3U6UnZr9Q487/EPFP441024/17272
-
+#EXTINF:-1,Da Vinci Learning HR---------85.203.33.88
+http://85.203.33.88:80/U3U6UnZr9Q487/EPFP441024/17272
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US
+http://85.203.33.88:80/U3U6UnZr9Q487/EPFP441024/9028
 #EXTINF:-1,Nuart TV (18+) RU---85.203.33.88
 http://85.203.33.88:80/U3U6UnZr9Q487/EPFP441024/28882
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="- IPTV",FTV Midnight Secrets (UHD)--------
@@ -3159,12 +3160,7 @@ http://121.12.115.162/txdirect.hls.huya.com/src/30765679-2523417472-108379955163
 http://121.12.115.162/txdirect.hls.huya.com/src/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
 
 
-#EXTINF:-1,411
-http://43.128.9.168/jjtv.php?id=411
-#EXTINF:-1,|AU| SBS FOOD----
-http://185.71.64.167:80/1681193081/0318014667/83424
-#EXTINF:-1,XXX: Nuart HD---test-
-http://iptvtree.net:8080/7tPyzM9iGQ/qB0T5uHARE/49169
+
 
 
 
