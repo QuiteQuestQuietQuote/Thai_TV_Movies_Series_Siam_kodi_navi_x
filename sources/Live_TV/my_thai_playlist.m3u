@@ -3020,10 +3020,10 @@ http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News HD
-http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News---
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News HD
+http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8 
 
 
 #EXTINF:-1 group-title="news" tvg-logo="http://www.britishurbanfilmfestival.co.uk/wp-content/uploads/2018/03/Sky-news-logo.png",sky news_HD-------------
@@ -3122,6 +3122,8 @@ http://85.203.33.88:80/U3U6UnZr9Q487/EPFP441024/9028
 http://85.203.33.88:80/U3U6UnZr9Q487/EPFP441024/28882
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="- IPTV",FTV Midnight Secrets (UHD)--------
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,IBizaHDTV
+https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8 
 
 
 #EXTINF:-1,18+: FemJoy ---test---tigerfights
@@ -3160,8 +3162,36 @@ http://121.12.115.162/txdirect.hls.huya.com/src/30765679-2523417472-108379955163
 http://121.12.115.162/txdirect.hls.huya.com/src/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
 
 
+#EXTINF:-1,BBC Earth------ticket
+http://1.255.204.45:9981/stream/channelid/93421039?ticket=AF95E3C0BFF408A907081A069042F72BF5CDD846&profile=pass
+#EXTINF:-1,NatGeo People
+http://1.255.204.45:9981/stream/channelid/944160600?ticket=6442E45B38A344582077BB93808424EDA99E1C89&profile=pass
+#EXTINF:-1,History
+http://1.255.204.45:9981/stream/channelid/1694979354?ticket=A6FD175088578B8747E83B24F027B4A09D6F2963&profile=pass
+#EXTINF:-1,Asia UHD
+http://1.255.204.45:9981/stream/channelid/38708974?ticket=EAAE4BA0334279C8D85068C6BD6C2038FFD7441F&profile=pass
+#EXTINF:-1,Asia Economy TV
+http://1.255.204.45:9981/stream/channelid/1721907409?ticket=85938F5ED03AA05AFF95B1D7A6A688861F0D7A92&profile=pass
+#EXTINF:-1,Korea Economy TV
+http://1.255.204.45:9981/stream/channelid/287289027?ticket=344A1ABB5B31672B6DA5A05184475107A1ED9616&profile=pass
+#EXTINF:-1,MoneyToday
+http://1.255.204.45:9981/stream/channelid/787626945?ticket=C3E3120B8D9BFF66A55B4F025270CE03E26964EA&profile=pass
+#EXTINF:-1,Maeil Economy TV
+http://1.255.204.45:9981/stream/channelid/997809026?ticket=7210287A49983575D48F9E9F5E2195A6E90FA8AC&profile=pass
+#EXTINF:-1,Seou Economy TV
+http://1.255.204.45:9981/stream/channelid/1752171518?ticket=08DA0B2817E393448C2C4AFCE8719A19F22C95D0&profile=pass
+#EXTINF:-1,CGTN
+http://1.255.204.45:9981/stream/channelid/1829584546?ticket=E05AB4A8B720C7248B62890902151F0D1E32A2C8&profile=pass
 
 
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US--------iptvstack
+http://iptvstack.net:80/qnmj9VO8Nt4418/0aM3NY0764/9028
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US
+http://iptvstack.net:80/ZoranPetrovski2/JTx0x1429/9028
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US
+http://iptvstack.net:8080/josipJJx1/yUFtVx582/9028
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US--------iptvstack
+http://iptvstack.net:80/c7lprSa6igYf16/PYXJh966/9028
 
 
 
