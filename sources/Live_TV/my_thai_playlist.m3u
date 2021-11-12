@@ -2904,7 +2904,7 @@ http://tv.iptvstack.net:80/U3U6UnZr9Q487/EPFP441024/17105
 #EXTINF:-1,XXX: Nuart HD --------------iptvtree---test
 http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/49169 
 #EXTINF:-1 tvg-id="" tvg-name="XXX: Nuart HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Nuart HD
-http://iptvtree.net:8080/moss/alaska33/49169
+http://iptvtree.net:8080/7tPyzM9iGQ/qB0T5uHARE/49169
 #EXTINF:-1 tvg-id="" tvg-name="XXX: Babes TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e39e2ff3e4ebaf36c1940ddc933f1d78.png" group-title="XXX",XXX: Babes TV FHD
 http://iptvtree.net:8080/fawkes32/adaa5870d5c0/3289
 #EXTINF:-1 tvg-id="" tvg-name="XXX: Nuart HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Nuart HD
@@ -3114,11 +3114,12 @@ http://tv.iptvstack.net:80/U3U6UnZr9Q487/EPFP441024/9028
 http://tv.iptvstack.net:80/U3U6UnZr9Q487/EPFP441024/23222
 
 #EXTINF:-1,Da Vinci Learning HR---------85.203.33.88
-http://85.203.33.88:80/U3U6UnZr9Q487/EPFP441024/17272
+http://tv.iptvstack.net:80/U3U6UnZr9Q487/EPFP441024/17272
+#EXTINF:-1,Nuart TV (18+) RU---85.203.33.88
+http://tv.iptvstack.net:80/U3U6UnZr9Q487/EPFP441024/28882
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US
 http://85.203.33.88:80/U3U6UnZr9Q487/EPFP441024/9028
-#EXTINF:-1,Nuart TV (18+) RU---85.203.33.88
-http://85.203.33.88:80/U3U6UnZr9Q487/EPFP441024/28882
+
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="- IPTV",FTV Midnight Secrets (UHD)--------
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1,IBizaHDTV
@@ -3141,18 +3142,15 @@ http://tigerfights.xyz:80/testline/testline/3043273.ts
 http://tigerfights.xyz:80/testline/testline/3043274.ts
 
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="US: CNBC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/930d9bbb0c0107df1b011f45e4c83e56.png" group-title="USA",US: CNBC FHD---test---iptvtree
-http://iptvtree.net:8080/moss/alaska33/2295
+http://iptvtree.net:8080/7tPyzM9iGQ/qB0T5uHARE/2295
 #EXTINF:-1,XXX: Nuart HD---
-http://iptvtree.net:8080/moss/alaska33/49169
-#EXTINF:-1,XXX: Nuart HD---test
 http://iptvtree.net:8080/7tPyzM9iGQ/qB0T5uHARE/49169
+
 
 
 
 #EXTINF:-1,CNBC
 http://125.227.210.37:16415/VideoInput/play.ts
-#EXTINF:-1,ViuTV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1,BBC Earth Lifestyle
 http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 #EXTINF:-1,a taste of china24/7_CHN
@@ -3162,31 +3160,39 @@ http://121.12.115.162/txdirect.hls.huya.com/src/94525224-2656999522-114117260524
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD CHANNEL MY" tvg-logo="" group-title="Malaysia",ASIAN FOOD CHANNEL MY-----178.132.78.40
-http://178.132.78.40:8080/Emiliaduca/YtMqBh3xAi/18634
-#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel ID" tvg-logo="" group-title="Indonesia",Asian Food Channel ID
-http://178.132.78.40:8080/Emiliaduca/YtMqBh3xAi/62295
-#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel HD ID" tvg-logo="" group-title="Indonesia",Asian Food Channel HD ID
-http://178.132.78.40:8080/Emiliaduca/YtMqBh3xAi/62156
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD PH" tvg-logo="" group-title="Philippines",ASIAN FOOD PH
-http://178.132.78.40:8080/Emiliaduca/YtMqBh3xAi/24166
-#EXTINF:-1 tvg-id="" tvg-name="NUART ADULT" tvg-logo="" group-title="For Adults",NUART ADULT
-http://178.132.78.40:8080/Emiliaduca/YtMqBh3xAi/78715
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Kids VIP AF" tvg-logo="" group-title="Africa",Da Vinci Kids VIP AF
-http://178.132.78.40:8080/Emiliaduca/YtMqBh3xAi/90219
-#EXTINF:-1 tvg-id="Da Vinci Learning PL" tvg-name="Da Vinci Learning PL" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/poland/da-vinci-pl.png" group-title="Poland",Da Vinci Learning PL
-http://178.132.78.40:8080/Emiliaduca/YtMqBh3xAi/940
-#EXTINF:-1 tvg-id="Da Vinci Learning RO" tvg-name="Da Vinci Learning RO" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png" group-title="Romania",Da Vinci Learning RO
-http://178.132.78.40:8080/Emiliaduca/YtMqBh3xAi/25530
 
 
-
-#EXTINF:-1,XXX-NUART----test---tigerfights---gooserace
-http://gooserace.xyz:2052/21844827/36706997/2491807 
-#EXTINF:-1,|KIDS| DA VINCI KIDS--------test-----------185.71.64.167
-http://185.71.64.167:80/307201417516/307201417516/85125
 #EXTINF:-1 tvg-id="" tvg-name="ID015:CNBC | HD" tvg-logo="" group-title=" Indonesia",ID015:CNBC | HD------skynets---test
 http://a2.skynets.tv:8880/xzyc12m7300/CbftwWgffM/60357
+#EXTINF:-1 tvg-id="" tvg-name="ID015:CNBC | HD" tvg-logo="" group-title=" Indonesia",ID015:CNBC | HD
+http://a2.skynets.tv:8880/xzyc12m8024/thmbuqJNap/60357
+#EXTINF:-1 tvg-id="" tvg-name="ID015:CNBC | HD" tvg-logo="" group-title=" Indonesia",ID015:CNBC | HD
+http://a2.skynets.tv:8880/Y7aetduvTa/md9Z96Xmzr/60357
+#EXTINF:-1 tvg-id="" tvg-name="ID015:CNBC | HD" tvg-logo="" group-title=" Indonesia",ID015:CNBC | HD
+http://a2.skynets.tv:8880/wh24m0503/fJCTg24rwr/60357
+#EXTINF:-1 tvg-id="" tvg-name="ID015:CNBC | HD" tvg-logo="" group-title=" Indonesia",ID015:CNBC | HD
+http://a2.skynets.tv:8880/xzyc12m7785/ws7wPm7jZT/60357
+#EXTINF:-1 tvg-id="" tvg-name="ID015:CNBC | HD" tvg-logo="" group-title=" Indonesia",ID015:CNBC | HD
+http://a2.skynets.tv:8880/wh12m8656/U4L9rEGFyY/60357
+
+
+
+
+#EXTINF:-1,Asian Food Network HD---962899---tvmalaysia
+http://iptv.tvmalaysia.cc:80/962899/962899/6693
+#EXTINF:-1,Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6693
+#EXTINF:-1,Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6693
+#EXTINF:-1,Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/271282/271282/6693
+
+
+
+
+
+
+
 
 
 
