@@ -3040,6 +3040,10 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 
 #EXTINF:-1,Fox News HD
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",Channel News Asia---
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV-----------
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
@@ -3088,7 +3092,6 @@ http://185.71.64.167:80/307201417516/307201417516/81700
 http://185.71.64.167:80/307201417516/307201417516/80316
 #EXTINF:-1,|OSN| CNBC EUROPE
 http://185.71.64.167:80/307201417516/307201417516/78914
-
 
 
 
@@ -3186,6 +3189,67 @@ http://iptv.tvmalaysia.cc:80/624850/624850/6693
 http://iptv.tvmalaysia.cc:80/321456/321456/6693
 #EXTINF:-1,Asian Food Network HD
 http://iptv.tvmalaysia.cc:80/271282/271282/6693
+
+
+#EXTINF:-1,|UK|SD| CNBC
+http://185.224.218.17:83/22446688/22446688/80316
+
+
+
+
+
+
+
+#EXTINF:-1,CNBC---rtmp
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d44
+#EXTINF:-1,BBC WORLD NEWS
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
+
+#EXTINF:-1,Pandora Perfect---rtmp
+rtmp://45.92.126.226/channel/60e5c6c10007bff20cfdca01da007296
+#EXTINF:-1,Pandora Perfect
+rtmp://45.92.126.18:9906/channel/60e5c6c10007bff20cfdca01da007296
+
+#EXTINF:-1,e---p5p
+p5p://45.92.126.18:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
+#EXTINF:-1,K
+p5p://45.92.126.18:9906/60e5c69c0007bf360cfd3979da394ad7
+#EXTINF:-1,LOOK TV
+p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
+#EXTINF:-1,F
+p5p://45.92.126.18:9906/60fd2dbc0002e8d300ed4537251ee06d
+#EXTINF:-1,bnn
+p5p://45.92.126.18:9906/60fd2ddd000096c200edc58716da3240
+#EXTINF:-1,Pandora Perfect
+p5p://45.92.126.18:9906/60e5c6c10007bff20cfdca01da007296
+#EXTINF:-1,Pandora Pink
+p5p://45.92.126.18:9906/60fd2d970005922100ecb55d2f333764
+#EXTINF:-1,JStar
+p5p://45.92.126.18:9906/60fd2dff000297b000ee4ada2986dc4f
+#EXTINF:-1,SonSee1
+p5p://45.92.126.18:9906/60e5c60e000509400cfb0e18dd7b20e2
+#EXTINF:-1,SonSee2
+p5p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
+#EXTINF:-1,SonSee3
+p5p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
+#EXTINF:-1,HOT
+p5p://45.92.126.18:9906/60e5c5940008bfb40cf9327b7a38210e
+#EXTINF:-1,HAPPY
+p5p://45.92.126.18:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
