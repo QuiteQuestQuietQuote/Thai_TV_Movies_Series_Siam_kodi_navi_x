@@ -25,8 +25,17 @@ http://news1.live14.com/stream/news1_hi.m3u8
 
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24----------3bb
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_tnn24_live1.stream/playlist.m3u8?username=XV1SeRzxGFFXhInk9zCuRqdau1FYCQ2p&password=E7GteZOX2SpaN33sRRTJ7MA42xKyaR7D
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24----------3bb---
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_tnn24_live1.stream/playlist.m3u8?username=R5Cx4XlitG8vIp5olaY0p1DCaDuGWkwC&password=e53ZYeXtojEOyaQUBa0zKyHZdevIsZxv
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_3bb
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_gmm25_live1.stream/playlist.m3u8?username=6mDi1A37Tfk9MSByBNtdvNPZguzLUmjL&password=XS3mhk1Vn9mhopKiPYSI2pT8qi5eMt0x
+#EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD_3BB-------------------
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza63_pptvhd_live1.stream/playlist.m3u8?username=u5NMYKYqcQDzkSlmNoHZQp1Miz1DDd0V&password=CkR2RHgEl24c9EkyoYmVHjBzMRhPoH0Q
+#EXTINF:-1 group-title="Free_TV"tvg-logo="https://www.doohdbox.com/assets/201707141414362135901185.jpg",AMARIN TV_3BB
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza63_amarintvhd_live1.stream/playlist.m3u8?username=gHx6JJVOqZt5Xh5d498MHIuywzI1iJQo&password=w764V2JI6f7Btczvxjpbo4eh1EecH6K8
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv_3BB
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_newstv_live1.stream/playlist.m3u8?username=htqnQwVYtoU5IwYsngp44Pz2Q8Sk0w9g&password=S3frgzjr22NGdKC21yPKV0bNIXYkwa8e
+
 #EXTINF:0 group-title="Free_TV" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT_HD_3BB
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_mcothd_live1.stream/playlist.m3u8?username=3QmyKLPwFA6DFUNrNNZkGmtzdMAqoAUi&password=mzNQ8KgnF8f5PLXArHLLajD2D4mFRrU6
 
@@ -82,8 +91,7 @@ http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/iz/180630070925.png",new)tv_3BB
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_newstv_live1.stream/playlist.m3u8?username=mXN2BOPgWgnwOTvztAzbxPhH3EqzgJ1r&password=3IZWZb4pTSQh564lQltY60I6MGSloLlk
+
 #EXTINF:-1 group-title="Free_TV"tvg-logo="https://www.doohdbox.com/assets/201707141414362135901185.jpg",AMARIN TV_3BB
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza63_amarintvhd_live1.stream/playlist.m3u8?username=3jdPrUnTtdS5FVMfPv93T1pu1foVK1iH&password=9xkK0cV1VA1I7cjlhvxVL1FbRuHT9iSO
 #EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD_3BB-------------------
@@ -2728,19 +2736,9 @@ http://85.203.33.88:80/wQjTgCP137/aaAaUa0331/9028
 http://85.203.33.88:80/RLHMuZZ46/vpK2ei366/9028
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TGirls (18+)" tvg-logo="" group-title="For Adult",TGirls (18+)---mytv.fun
-http://mytv.fun:8080/JanLanicki/mzx6r7eoah/13398
-#EXTINF:-1 tvg-id="" tvg-name="Babes 2 (18+)" tvg-logo="" group-title="For Adult",Babes 2 (18+)
-http://mytv.fun:8080/JanLanicki/mzx6r7eoah/19701
-#EXTINF:-1 tvg-id="" tvg-name="Babes 17 (18+)" tvg-logo="" group-title="For Adult",Babes 17 (18+)
-http://mytv.fun:8080/JanLanicki/mzx6r7eoah/19703
-#EXTINF:-1 tvg-id="" tvg-name="Legal Porno HD (18+)" tvg-logo="" group-title="For Adult",Legal Porno HD (18+)
-http://mytv.fun:8080/JanLanicki/mzx6r7eoah/674063
-#EXTINF:-1 tvg-id="" tvg-name="Nuart TV (18+)" tvg-logo="" group-title="For Adult",Nuart TV (18+)
-http://mytv.fun:8080/JanLanicki/mzx6r7eoah/680092
-#EXTINF:-1 tvg-id="" tvg-name="Orgy Channel FHD (18+)" tvg-logo="http://pici.life/logo.png" group-title="For Adult",Orgy Channel FHD (18+)
-http://mytv.fun:8080/JanLanicki/mzx6r7eoah/680239
 
+#EXTINF:-1 tvg-id="" tvg-name="Nuart TV (18+)" tvg-logo="" group-title="For Adult",Nuart TV (18+)---mytv.fun
+http://mytv.fun:8080/JanLanicki/mzx6r7eoah/680092
 #EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning VIP RO" tvg-logo="" group-title="Romania",Da Vinci Learning VIP RO
 http://mytv.fun:8080/JanLanicki/mzx6r7eoah/688447
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC FHD VIP US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC FHD VIP US
@@ -2748,8 +2746,27 @@ http://mytv.fun:8080/JanLanicki/mzx6r7eoah/683996
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC HD US
 http://mytv.fun:8080/JanLanicki/mzx6r7eoah/4956
 
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning VIP RO" tvg-logo="" group-title="Romania",Da Vinci Learning VIP RO---mytv.fun
+http://mytv.fun:8080/2cl1ugjty/a1n8cdxrn8/688447
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning VIP RO" tvg-logo="" group-title="Romania",Da Vinci Learning VIP RO
+http://mytv.fun:8080/Premium/63q9eeipf/688447
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning VIP RO" tvg-logo="" group-title="Romania",Da Vinci Learning VIP RO
+http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/688447
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning VIP RO" tvg-logo="" group-title="Romania",Da Vinci Learning VIP RO
+http://mytv.fun:8080/5ewe69djwj/m35ph77r5e/688447
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning VIP RO" tvg-logo="" group-title="Romania",Da Vinci Learning VIP RO
+http://mytv.fun:8080/KarlosVassallo/34ygdur6ye/688447
 
-
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC HD US---mytv.fun
+http://mytv.fun:8080/2cl1ugjty/a1n8cdxrn8/4956
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC HD US
+http://mytv.fun:8080/Premium/63q9eeipf/4956
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC HD US
+http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/4956
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC HD US
+http://mytv.fun:8080/5ewe69djwj/m35ph77r5e/4956
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC HD US
+http://mytv.fun:8080/KarlosVassallo/34ygdur6ye/4956
 
 
 
@@ -2761,13 +2778,18 @@ http://tigerfights.xyz:80/testline/testline/2578164
 #EXTINF:-1,XXX-NUART-
 http://tigerfights.xyz:80/testline/testline/2491807 
 #EXTINF:-1,VN: DA VINCI LEARNING HD-
-http://tigerfights.xyz:80/testline/testline/2586405.ts
+http://tigerfights.xyz:80/testline/testline/2586405
 #EXTINF:-1,VN: ASIAN FOOD CHANNEL HD-
-http://tigerfights.xyz:80/testline/testline/2586402.ts
+http://tigerfights.xyz:80/testline/testline/2586402
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",USA: CNBC HD
-http://tigerfights.xyz:80/testline/testline/3043273.ts
+http://tigerfights.xyz:80/testline/testline/3043273
 #EXTINF:-1,USA: CNBC World
-http://tigerfights.xyz:80/testline/testline/3043274.ts
+http://tigerfights.xyz:80/testline/testline/3043274
+
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",USA: CNBC HD---gooserace
+http://gooserace.xyz:2052/21844827/36706997/3043273
+
+
 
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="US: CNBC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/930d9bbb0c0107df1b011f45e4c83e56.png" group-title="USA",US: CNBC FHD---test---iptvtree
 http://iptvtree.net:8080/7tPyzM9iGQ/qB0T5uHARE/2295
@@ -2814,6 +2836,8 @@ http://iptv.tvmalaysia.cc:80/962899/962899/6746
 http://iptv.tvmalaysia.cc:80/962899/962899/7233
 #EXTINF:-1,TH | PSI Saradee HD
 http://iptv.tvmalaysia.cc:80/962899/962899/8776
+#EXTINF:-1,CNBC
+http://iptv.tvmalaysia.cc:80/962899/962899/6766
 
 
 #EXTINF:-1,Asian Food Network HD---962899---tvmalaysia
@@ -2824,13 +2848,6 @@ http://iptv.tvmalaysia.cc:80/624850/624850/6693
 http://iptv.tvmalaysia.cc:80/321456/321456/6693
 #EXTINF:-1,Asian Food Network HD
 http://iptv.tvmalaysia.cc:80/271282/271282/6693
-
-#EXTINF:-1,BBC Earth---174726---tvmalaysia
-http://iptv.tvmalaysia.cc:80/174726/174726/7233
-#EXTINF:-1,CNBC
-http://iptv.tvmalaysia.cc:80/174726/174726/6766
-#EXTINF:-1,TH | BBC World News
-http://iptv.tvmalaysia.cc:80/174726/174726/8784
 #EXTINF:-1,Asian Food Network HD
 http://iptv.tvmalaysia.cc:80/174726/174726/6693
 
@@ -2871,36 +2888,27 @@ rtmp://45.92.126.226/channel/60fa6d608dfe8209677fdb1e
 #EXTINF:-1,[720]Rouge TV
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning VIP RO" tvg-logo="" group-title="Romania",Da Vinci Learning---195.206.253.157
+http://195.206.253.157:17200/davinci
 
-#EXTINF:-1 tvg-id="" tvg-name="CNBC Europe PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnbc-us.png" group-title="Portugal",CNBC Europe PT---tron.streamtv
-#EXTINF:-1 tvg-id="" tvg-name="CNBC US" tvg-logo="" group-title="United States",CNBC US
-http://tron.streamtv.to:8080/zfClBJGWLU/1LBDVcd4gU/525
-#EXTINF:-1 tvg-id="" tvg-name="CNBC TH" tvg-logo="" group-title="Thailand",CNBC TH
-http://tron.streamtv.to:8080/zfClBJGWLU/1LBDVcd4gU/8616
-#EXTINF:-1 tvg-id="" tvg-name="NUART ADULT" tvg-logo="" group-title="For Adults",NUART ADULT
-http://tron.streamtv.to:8080/zfClBJGWLU/1LBDVcd4gU/78715
+
+#EXTINF:-1 tvg-id="" tvg-name="NUART ADULT" tvg-logo="" group-title="For Adults",NUART ADULT---bggxq.funtogether
+http://bggxq.funtogether.xyz:8080/LWlNRcpi38/QJdovT8FsI/78715
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel HD ID" tvg-logo="" group-title="Indonesia",Asian Food Channel HD ID
+http://bggxq.funtogether.xyz:8080/LWlNRcpi38/QJdovT8FsI/62156
 #EXTINF:-1 tvg-id="Da Vinci Learning RO" tvg-name="Da Vinci Learning RO" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png" group-title="Romania",Da Vinci Learning RO
-http://tron.streamtv.to:8080/zfClBJGWLU/1LBDVcd4gU/25530
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning VIP ex-Yu" tvg-logo="" group-title="ex-Yu",Da Vinci Learning VIP ex-Yu
-http://tron.streamtv.to:8080/zfClBJGWLU/1LBDVcd4gU/10888
-#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel HD ID" tvg-logo="" group-title="Indonesia",Asian Food Channel HD ID
-http://tron.streamtv.to:8080/zfClBJGWLU/1LBDVcd4gU/62156
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CNBC US" tvg-logo="" group-title="United States",CNBC US---c.overboxtv
-http://c.overboxtv.com:8080/Cristphoto/rIKTgt62Dq/525
+http://bggxq.funtogether.xyz:8080/LWlNRcpi38/QJdovT8FsI/25530
 #EXTINF:-1 tvg-id="" tvg-name="Da Vinci Kids VIP AF" tvg-logo="" group-title="Africa",Da Vinci Kids VIP AF
-http://c.overboxtv.com:8080/Cristphoto/rIKTgt62Dq/90219
-#EXTINF:-1 tvg-id="" tvg-name="NUART ADULT" tvg-logo="" group-title="For Adults",NUART ADULT
-http://c.overboxtv.com:8080/Cristphoto/rIKTgt62Dq/78715
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD PH" tvg-logo="" group-title="Philippines",ASIAN FOOD PH
-http://c.overboxtv.com:8080/Cristphoto/rIKTgt62Dq/24166
-#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel HD ID" tvg-logo="" group-title="Indonesia",Asian Food Channel HD ID
-http://c.overboxtv.com:8080/Cristphoto/rIKTgt62Dq/62156
-#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel ID" tvg-logo="" group-title="Indonesia",Asian Food Channel ID
-http://c.overboxtv.com:8080/Cristphoto/rIKTgt62Dq/62295
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD CHANNEL MY" tvg-logo="" group-title="Malaysia",ASIAN FOOD CHANNEL MY
-http://c.overboxtv.com:8080/Cristphoto/rIKTgt62Dq/18634
+http://bggxq.funtogether.xyz:8080/LWlNRcpi38/QJdovT8FsI/90219
+#EXTINF:-1 tvg-id="" tvg-name="CNBC US" tvg-logo="" group-title="United States",CNBC US
+http://bggxq.funtogether.xyz:8080/LWlNRcpi38/QJdovT8FsI/525
+
+
+
+
+
+
+
 
 
 
