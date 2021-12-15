@@ -2719,9 +2719,12 @@ http://tv.iptvstack.net:80/2882jXf96/1LcZ0N9409/23222
 
 #EXTINF:-1,Da Vinci Learning HR---------
 http://tv.iptvstack.net:80/2882jXf96/1LcZ0N9409/17272
-#EXTINF:-1,Nuart TV (18+) RU---85.203.33.88
+#EXTINF:-1,Nuart TV (18+) RU---
 http://tv.iptvstack.net:80/2882jXf96/1LcZ0N9409/28882
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Nuart TV (18+)" tvg-logo="" group-title="For Adult",Nuart TV (18+)---mytv.fun
+http://mytv.fun:8080/og1yh6jvm/55fdqcddu/680092
 
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="- IPTV",FTV Midnight Secrets (UHD)--------
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -2743,18 +2746,6 @@ http://mytv.fun:8080/KarlosVassallo/34ygdur6ye/680092
 http://mytv.fun:8080/KarlosVassallo/34ygdur6ye/688447
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC FHD VIP US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC FHD VIP US
 http://mytv.fun:8080/KarlosVassallo/34ygdur6ye/683996
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC HD US
-http://mytv.fun:8080/KarlosVassallo/34ygdur6ye/4956
-
-
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC HD US---mytv.fun
-http://mytv.fun:8080/2cl1ugjty/a1n8cdxrn8/4956
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC HD US
-http://mytv.fun:8080/Premium/63q9eeipf/4956
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC HD US
-http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/4956
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC HD US
-http://mytv.fun:8080/5ewe69djwj/m35ph77r5e/4956
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC HD US
 http://mytv.fun:8080/KarlosVassallo/34ygdur6ye/4956
 
@@ -2847,9 +2838,8 @@ http://iptv.tvmalaysia.cc:80/624850/624850/6693
 http://iptv.tvmalaysia.cc:80/321456/321456/6693
 #EXTINF:-1,Asian Food Network HD
 http://iptv.tvmalaysia.cc:80/271282/271282/6693
-#EXTINF:-1,Asian Food Network HD
+#EXTINF:-1,Asian Food Network HD---
 http://iptv.tvmalaysia.cc:80/174726/174726/6693
-
 
 
 
@@ -2891,14 +2881,60 @@ http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 http://195.206.253.157:17200/davinci
 
 
+#EXTINF:-1 tvg-ID="davincilearning.ro" tvg-name="|RO| DaVinci Learning" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_%282019-.n.v.%29.png/revision/latest?cb=20191031124005" group-title="EU | ROMANIA",|RO| DaVinci Learning---grets
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/29089
+#EXTINF:-1 tvg-ID="" tvg-name="|Bulgaria| DaVinci Learning" tvg-logo="https://www.nicepng.com/png/full/115-1159421_da-vinci-learning-1-da-vinci-learning-logo.png" group-title="EU | BULGARIA",|Bulgaria| DaVinci Learning
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/31760
+#EXTINF:-1 tvg-ID="" tvg-name="|PH| Asian Food " tvg-logo="" group-title="AS | PHILIPINE",|PH| Asian Food 
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191023
+#EXTINF:-1 tvg-ID="" tvg-name="|PH| Asian Food CH HD " tvg-logo="" group-title="AS | PHILIPINE",|PH| Asian Food CH HD 
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191022
+#EXTINF:-1 tvg-ID="" tvg-name="|MY| ASIAN FOOD CHANNEL" tvg-logo="" group-title="AS | INDONESIA | MALAYSIA",|MY| ASIAN FOOD CHANNEL
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/152565
+#EXTINF:-1 tvg-ID="" tvg-name="TH BBC Earth /FoxFam HD TH" tvg-logo="" group-title="AS | THAILAND",TH BBC Earth /FoxFam HD TH
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191957
+#EXTINF:-1 tvg-ID="" tvg-name="TH BBC Earth HD TH " tvg-logo="" group-title="AS | THAILAND",TH BBC Earth HD TH 
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191956
+#EXTINF:-1 tvg-ID="" tvg-name="TH BBC Earth [Thai] TH" tvg-logo="" group-title="AS | THAILAND",TH BBC Earth [Thai] TH
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191955
+#EXTINF:-1 tvg-ID="" tvg-name="TH BBC Lifestyle HD TH/Disc.Science TH" tvg-logo="" group-title="AS | THAILAND",TH BBC Lifestyle HD TH/Disc.Science TH
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191953
+#EXTINF:-1 tvg-ID="" tvg-name="TH BBC Lifestyle HD TH  [ENG]" tvg-logo="" group-title="AS | THAILAND",TH BBC Lifestyle HD TH  [ENG]
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191954
+#EXTINF:-1 tvg-ID="" tvg-name="TH CABLE SERIES 1 HD TH" tvg-logo="" group-title="AS | THAILAND",TH CABLE SERIES 1 HD TH
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191943
+#EXTINF:-1 tvg-ID="" tvg-name="TH CABLE SERIES 2 TH" tvg-logo="" group-title="AS | THAILAND",TH CABLE SERIES 2 TH
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191942
+#EXTINF:-1 tvg-ID="" tvg-name="TH CABLE SERIES 3 HD TH" tvg-logo="" group-title="AS | THAILAND",TH CABLE SERIES 3 HD TH
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191941
+#EXTINF:-1 tvg-ID="" tvg-name="TH Explore Life TH [Thai]" tvg-logo="" group-title="AS | THAILAND",TH Explore Life TH [Thai]
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191897
+#EXTINF:-1 tvg-ID="" tvg-name="TH Explore Science HD TH [Thai]" tvg-logo="" group-title="AS | THAILAND",TH Explore Science HD TH [Thai]
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191896
+#EXTINF:-1 tvg-ID="" tvg-name="---- |VIN| KIDS ----" tvg-logo="" group-title="AS | VIETNAM",---- |VIN| KIDS ----
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/72002
+#EXTINF:-1 tvg-ID="" tvg-name="|VIN| BBC LIFESTYLE" tvg-logo="http://logodmtv.ddns.net/logo_plus/POLONIA/BBC.png" group-title="AS | VIETNAM",|VIN| BBC LIFESTYLE
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/72007
+#EXTINF:-1 tvg-ID="" tvg-name="TH CNBC Asia TH" tvg-logo="" group-title="AS | THAILAND",TH CNBC Asia TH
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191923
+#EXTINF:-1 tvg-ID="cnbc.us" tvg-name="|USA| CNBC HD US" tvg-logo="http://logodmtv.ddns.net/logo_plus/USA/CNBC.png" group-title="AM | U.S.A  NEWS & LOCALS",|USA| CNBC HD US
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/78662
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="NUART ADULT" tvg-logo="" group-title="For Adults",NUART ADULT---swissiptv
+http://swissiptv.us:8080/SP5745/5TR7ZbQYlo/78715
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD CHANNEL MY" tvg-logo="" group-title="Malaysia",ASIAN FOOD CHANNEL MY
+http://swissiptv.us:8080/SP5745/5TR7ZbQYlo/18634
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel ID" tvg-logo="" group-title="Indonesia",Asian Food Channel ID
+http://swissiptv.us:8080/SP5745/5TR7ZbQYlo/62295
+#EXTINF:-1 tvg-id="Da Vinci Learning RO" tvg-name="Da Vinci Learning RO" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png" group-title="Romania",Da Vinci Learning RO
+http://swissiptv.us:8080/SP5745/5TR7ZbQYlo/25530
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning VIP ex-Yu" tvg-logo="" group-title="ex-Yu",Da Vinci Learning VIP ex-Yu
+http://swissiptv.us:8080/SP5745/5TR7ZbQYlo/10888
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Kids VIP AF" tvg-logo="" group-title="Africa",Da Vinci Kids VIP AF
+http://swissiptv.us:8080/SP5745/5TR7ZbQYlo/90219
+#EXTINF:-1 tvg-id="CNBC US" tvg-name="CNBC US" tvg-logo="" group-title="United States",CNBC US
+http://swissiptv.us:8080/SP5745/5TR7ZbQYlo/525
 
 
 
