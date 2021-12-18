@@ -24,8 +24,6 @@ http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil
 http://news1.live14.com/stream/news1_hi.m3u8
 
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24----------3bb
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_tnn24_live1.stream/playlist.m3u8?username=XV1SeRzxGFFXhInk9zCuRqdau1FYCQ2p&password=E7GteZOX2SpaN33sRRTJ7MA42xKyaR7D
-#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24----------3bb---
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_tnn24_live1.stream/playlist.m3u8?username=3f95dEy94Iyunkp3LQTFOx3nzkFoCFqy&password=iiFIZPOfgTSQd4OvZcC8ev9Xc8C0IyyP
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_3bb
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_gmm25_live1.stream/playlist.m3u8?username=6mDi1A37Tfk9MSByBNtdvNPZguzLUmjL&password=XS3mhk1Vn9mhopKiPYSI2pT8qi5eMt0x
@@ -2723,6 +2721,9 @@ http://tv.iptvstack.net:80/2882jXf96/1LcZ0N9409/17272
 http://tv.iptvstack.net:80/2882jXf96/1LcZ0N9409/28882
 
 
+
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC HD US---mytv.fun
+http://mytv.fun:8080/og1yh6jvm/55fdqcddu/4956
 #EXTINF:-1 tvg-id="" tvg-name="Nuart TV (18+)" tvg-logo="" group-title="For Adult",Nuart TV (18+)---mytv.fun
 http://mytv.fun:8080/og1yh6jvm/55fdqcddu/680092
 
@@ -2731,12 +2732,24 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #EXTINF:-1,IBizaHDTV
 https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8 
 
+
+#EXTINF:-1,Nuart TV (18+) RU---iptvstack
+http://tv.iptvstack.net:80/fLZ5oHA679/qLKy8z2437/28882
+#EXTINF:-1,Nuart TV (18+) RU---clientportal
+http://clientportal.link/fLZ5oHA679/qLKy8z2437/28882
+#EXTINF:-1,Nuart TV (18+) RU---85.203.33.88
+http://85.203.33.88:80/fLZ5oHA679/qLKy8z2437/28882
+
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US-----85.203.33.88
 http://85.203.33.88:80/2882jXf96/1LcZ0N9409/9028
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US-----85.203.33.88
 http://85.203.33.88:80/wQjTgCP137/aaAaUa0331/9028
+
+
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US-----clientportal.link
+http://clientportal.link/fLZ5oHA679/qLKy8z2437/9028
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US-----85.203.33.88
-http://85.203.33.88:80/RLHMuZZ46/vpK2ei366/9028
+http://85.203.33.88:80/fLZ5oHA679/qLKy8z2437/9028
 
 
 
@@ -2847,32 +2860,6 @@ http://iptv.tvmalaysia.cc:80/174726/174726/6693
 
 
 
-#EXTINF:-1,Hot
-rtmp://45.92.126.226/channel/60e5a836c47203d3a673d5ec
-#EXTINF:-1,e
-rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0
-#EXTINF:-1,f
-rtmp://45.92.126.226/channel/60ed7124020b42a2f634bfe5
-#EXTINF:-1,SonSee1
-rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2
-#EXTINF:-1,SonSee2
-rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4
-#EXTINF:-1,SonSee3
-rtmp://45.92.126.226/channel/60e5a926c47203d3a673d5f7
-#EXTINF:-1,K 
-rtmp://45.92.126.226/channel/60e5a993c47203d3a673d5f9
-#EXTINF:-1,p
-rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb
-#EXTINF:-1,Look TV
-rtmp://45.92.126.226/channel/60ecdf7f020b42a2f634be25
-#EXTINF:-1,b
-rtmp://45.92.126.226/channel/60fa6c9c8dfe8209677fdb1a
-#EXTINF:-1,c
-rtmp://45.92.126.226/channel/60fa6d048dfe8209677fdb1c
-#EXTINF:-1,m
-rtmp://45.92.126.226/channel/60fa6d608dfe8209677fdb1e
-
-
 
 #EXTINF:-1,[720]Rouge TV
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
@@ -2921,20 +2908,17 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191923
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/78662
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NUART ADULT" tvg-logo="" group-title="For Adults",NUART ADULT---swissiptv
-http://swissiptv.us:8080/SP5745/5TR7ZbQYlo/78715
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD CHANNEL MY" tvg-logo="" group-title="Malaysia",ASIAN FOOD CHANNEL MY
-http://swissiptv.us:8080/SP5745/5TR7ZbQYlo/18634
-#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel ID" tvg-logo="" group-title="Indonesia",Asian Food Channel ID
-http://swissiptv.us:8080/SP5745/5TR7ZbQYlo/62295
-#EXTINF:-1 tvg-id="Da Vinci Learning RO" tvg-name="Da Vinci Learning RO" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png" group-title="Romania",Da Vinci Learning RO
-http://swissiptv.us:8080/SP5745/5TR7ZbQYlo/25530
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning VIP ex-Yu" tvg-logo="" group-title="ex-Yu",Da Vinci Learning VIP ex-Yu
-http://swissiptv.us:8080/SP5745/5TR7ZbQYlo/10888
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Kids VIP AF" tvg-logo="" group-title="Africa",Da Vinci Kids VIP AF
-http://swissiptv.us:8080/SP5745/5TR7ZbQYlo/90219
-#EXTINF:-1 tvg-id="CNBC US" tvg-name="CNBC US" tvg-logo="" group-title="United States",CNBC US
-http://swissiptv.us:8080/SP5745/5TR7ZbQYlo/525
+
+
+#EXTINF:-1,PH: ASIAN FOOD---dontuse.fluxz
+http://dontuse.fluxz.cc:80/ed6u97Nq/fm61HEye/97167
+#EXTINF:-1,CNBC | En
+http://dontuse.fluxz.cc:80/ed6u97Nq/fm61HEye/108361
+#EXTINF:-1,CNBC | En
+http://dontuse.fluxz.cc:80/ed6u97Nq/fm61HEye/108360
+#EXTINF:-1,USA- CNBC
+http://dontuse.fluxz.cc:80/ed6u97Nq/fm61HEye/100447
+
 
 
 
