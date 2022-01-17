@@ -2740,6 +2740,10 @@ http://clientportal.link/fLZ5oHA679/qLKy8z2437/28882
 #EXTINF:-1,Nuart TV (18+) RU---85.203.33.88
 http://85.203.33.88:80/fLZ5oHA679/qLKy8z2437/28882
 
+#EXTINF:-1,Nuart TV (18+) RU---clientportal
+http://clientportal.link:80/Ngadhenjimi2904/yCBubE59/28882
+#EXTINF:-1,Nuart TV (18+) RU---85.203.33.88
+http://85.203.33.88:80/Ngadhenjimi2904/yCBubE59/28882
 
 
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US-----clientportal.link
@@ -2747,14 +2751,16 @@ http://clientportal.link/fLZ5oHA679/qLKy8z2437/9028
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US-----85.203.33.88
 http://85.203.33.88:80/fLZ5oHA679/qLKy8z2437/9028
 
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US-----clientportal.link
+http://85.203.33.88:80/Ngadhenjimi2904/yCBubE59/9028
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US-----85.203.33.88
+http://85.203.33.88:80/Ngadhenjimi2904/yCBubE59/9028
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Nuart TV (18+)" tvg-logo="" group-title="For Adult",Nuart TV (18+)---mytv.fun
 http://mytv.fun:8080/KarlosVassallo/34ygdur6ye/680092
 #EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning VIP RO" tvg-logo="" group-title="Romania",Da Vinci Learning VIP RO
 http://mytv.fun:8080/KarlosVassallo/34ygdur6ye/688447
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC FHD VIP US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC FHD VIP US
-http://mytv.fun:8080/KarlosVassallo/34ygdur6ye/683996
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC HD US
 http://mytv.fun:8080/KarlosVassallo/34ygdur6ye/4956
 
@@ -2787,6 +2793,10 @@ http://gooserace.xyz:2052/21844827/36706997/2586402
 http://iptvtree.net:8080/7tPyzM9iGQ/qB0T5uHARE/2295
 #EXTINF:-1,XXX: Nuart HD---
 http://iptvtree.net:8080/7tPyzM9iGQ/qB0T5uHARE/49169
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US: CNBC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/930d9bbb0c0107df1b011f45e4c83e56.png" group-title="USA",US: CNBC FHD
+http://iptvtree.net:8080/test-0eb742/7560/2295
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US: CNBC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/930d9bbb0c0107df1b011f45e4c83e56.png" group-title="USA",US: CNBC FHD
+http://iptvtree.net:8080/Gariyo/39d67669/2295
 
 
 #EXTINF:-1,CNBC---rtmp
@@ -2840,12 +2850,10 @@ http://iptv.tvmalaysia.cc:80/624850/624850/6693
 http://iptv.tvmalaysia.cc:80/321456/321456/6693
 #EXTINF:-1,Asian Food Network HD
 http://iptv.tvmalaysia.cc:80/271282/271282/6693
-#EXTINF:-1,Asian Food Network HD---
+#EXTINF:-1,Asian Food Network HD-----------------
 http://iptv.tvmalaysia.cc:80/174726/174726/6693
-
-
-
-
+#EXTINF:-1,Asian Food Network HD-----------------
+http://iptv.tvmalaysia.cc:80/penang297/penang297/6693
 
 
 
@@ -2860,33 +2868,6 @@ http://195.206.253.157:17200/davinci
 
 
 
-
-#EXTINF:-1,Asian Food Channel HD ID-------iptvsupport
-http://tv.iptvsupport.live:8080/A7nk9IGAx4/4YlLEsqznw/62156
-#EXTINF:-1,ASIAN FOOD CHANNEL MY
-http://tv.iptvsupport.live:8080/A7nk9IGAx4/4YlLEsqznw/18634
-#EXTINF:-1,Da Vinci Learning RO
-http://tv.iptvsupport.live:8080/A7nk9IGAx4/4YlLEsqznw/25530
-#EXTINF:-1,Da Vinci Kids VIP AF
-http://tv.iptvsupport.live:8080/A7nk9IGAx4/4YlLEsqznw/90219
-#EXTINF:-1,CNBC TH
-http://tv.iptvsupport.live:8080/A7nk9IGAx4/4YlLEsqznw/8616
-#EXTINF:-1,CNBC US
-http://tv.iptvsupport.live:8080/A7nk9IGAx4/4YlLEsqznw/525
-
-#EXTINF:-1,CNBC US-----geniptv
-http://portal.geniptv.com:8080/87FrUZxnRP/jKtzsaRdEC/525
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Nuart TV (18+)" tvg-logo="" group-title="For Adult",Nuart TV (18+)-------satelliteiptv
-http://satelliteiptv.xyz:8080/5ewe69djwj/m35ph77r5e/680092
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning VIP RO" tvg-logo="" group-title="Romania",Da Vinci Learning VIP RO
-http://satelliteiptv.xyz:8080/5ewe69djwj/m35ph77r5e/688447
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC FHD VIP US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC FHD VIP US
-http://satelliteiptv.xyz:8080/5ewe69djwj/m35ph77r5e/683996
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC HD US
-http://satelliteiptv.xyz:8080/5ewe69djwj/m35ph77r5e/4956
 
 
 #EXTINF:-1 tvg-ID="cnbc.uk" tvg-name="UK: CNBC News" tvg-logo="[" group-title="Live: United Kingdom",UK: CNBC News-----190.115.29.22
