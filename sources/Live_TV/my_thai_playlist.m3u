@@ -24,7 +24,7 @@ http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil
 http://news1.live14.com/stream/news1_hi.m3u8
 
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24----------3bb
-http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_tnn24_live1.stream/playlist.m3u8?username=3f95dEy94Iyunkp3LQTFOx3nzkFoCFqy&password=iiFIZPOfgTSQd4OvZcC8ev9Xc8C0IyyP
+http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_tnn24_live1.stream/playlist.m3u8?username=E3HG6HsIng8AEjPOuYfc2jm2DcvRwUU9&password=KU3wvFiIVclD8TaBWhRgadRdhEO5P0pp
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_3bb
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza53_gmm25_live1.stream/playlist.m3u8?username=6mDi1A37Tfk9MSByBNtdvNPZguzLUmjL&password=XS3mhk1Vn9mhopKiPYSI2pT8qi5eMt0x
 #EXTINF:-1  tvg-logo="https://www.sine.tv/images/icon/pptv.png",PPTV HD_3BB-------------------
