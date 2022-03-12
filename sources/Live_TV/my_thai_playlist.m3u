@@ -2878,29 +2878,34 @@ http://190.115.29.22:8080/carter/GUV1bMq2VK/12365
 
 
 
-
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: ASIAN FOOD CHANNEL" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: ASIAN FOOD CHANNEL------------livego
-http://livego.club:8080/pwY4DeyApr/MtbZgqFpF0/28705
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: BBC EARTH HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: BBC EARTH HD
-http://livego.club:8080/pwY4DeyApr/MtbZgqFpF0/28694
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: BBC LIFESTYLE" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: BBC LIFESTYLE
-http://livego.club:8080/pwY4DeyApr/MtbZgqFpF0/28693
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: DISCOVERY ASIA HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: DISCOVERY ASIA HD
-http://livego.club:8080/pwY4DeyApr/MtbZgqFpF0/10896
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Science" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Explore Science
-http://livego.club:8080/pwY4DeyApr/MtbZgqFpF0/10883
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: DA VINCI LEARNING HD" tvg-logo="" group-title="Live: Vietnam",VIP VTN: DA VINCI LEARNING HD
-http://livego.club:8080/pwY4DeyApr/MtbZgqFpF0/9859
-#EXTINF:-1 tvg-ID="" tvg-name="VIP MYM: Nat Geo People" tvg-logo="" group-title="Live: Myanmar",VIP MYM: Nat Geo People
-http://livego.club:8080/pwY4DeyApr/MtbZgqFpF0/30316
-#EXTINF:-1 tvg-ID="cnbcworld.us" tvg-name="VIP US: CNBC HD" tvg-logo="[" group-title="Live: USA",VIP US: CNBC HD
-http://livego.club:8080/pwY4DeyApr/MtbZgqFpF0/10676
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Nuart TV (18+)" tvg-logo="" group-title="For Adults",Nuart TV (18+)
+http://nplay.is:2095/mwRzyEt3Ta/Hxvej9j1VG/28887
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel TH" tvg-logo="" group-title="Thailand",Asian Food Channel TH----------nplay
+http://nplay.is:2095/mwRzyEt3Ta/Hxvej9j1VG/115611
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth HD TH " tvg-logo="" group-title="Thailand",BBC Earth HD TH 
+http://nplay.is:2095/mwRzyEt3Ta/Hxvej9j1VG/115621
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth [Thai] TH" tvg-logo="" group-title="Thailand",BBC Earth [Thai] TH
+http://nplay.is:2095/mwRzyEt3Ta/Hxvej9j1VG/115624
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle HD TH  [ENG]" tvg-logo="" group-title="Thailand",BBC Lifestyle HD TH  [ENG]
+http://nplay.is:2095/mwRzyEt3Ta/Hxvej9j1VG/115625
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle HD TH/Disc.Science TH" tvg-logo="" group-title="Thailand",BBC Lifestyle HD TH/Disc.Science TH
+http://nplay.is:2095/mwRzyEt3Ta/Hxvej9j1VG/115626
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Asia TH" tvg-logo="" group-title="Thailand",CNBC Asia TH
+http://nplay.is:2095/mwRzyEt3Ta/Hxvej9j1VG/115647
+#EXTINF:-1 tvg-id="" tvg-name="Explore Science HD TH [Thai]" tvg-logo="" group-title="Thailand",Explore Science HD TH [Thai]
+http://nplay.is:2095/mwRzyEt3Ta/Hxvej9j1VG/115660
+#EXTINF:-1 tvg-id="davincilearning.ro" tvg-name="DaVinci Learning RO" tvg-logo="" group-title="Romania",DaVinci Learning RO
+http://nplay.is:2095/mwRzyEt3Ta/Hxvej9j1VG/36174
+#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="CNBC Europe SE" tvg-logo="https://ca-solar.com/wp-content/uploads/2018/10/download.svg" group-title="Sweden",CNBC Europe SE
+http://nplay.is:2095/mwRzyEt3Ta/Hxvej9j1VG/46458
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://www.connecterra.io/wp-content/uploads/2017/04/CNBC-Logo.png" group-title="United States",CNBC HD US
+http://nplay.is:2095/mwRzyEt3Ta/Hxvej9j1VG/8263
+#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="CNBC FHD UK" tvg-logo="https://static.epg.best/gb/CNBC.uk.png" group-title="United Kingdom",CNBC FHD UK
+http://nplay.is:2095/mwRzyEt3Ta/Hxvej9j1VG/145177
+#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="CNBC HD UK" tvg-logo="https://static.epg.best/gb/CNBC.uk.png" group-title="United Kingdom",CNBC HD UK
+http://nplay.is:2095/mwRzyEt3Ta/Hxvej9j1VG/202696
+#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="CNBC UK" tvg-logo="https://static.epg.best/gb/CNBC.uk.png" group-title="United Kingdom",CNBC UK
+http://nplay.is:2095/mwRzyEt3Ta/Hxvej9j1VG/117735
 
 
 
