@@ -2339,22 +2339,101 @@ http://190.115.29.22:8080/carter/GUV1bMq2VK/12365
 http://125.227.210.37:16415/VideoInput/play.ts
 
 
-#EXTINF:-1,|USA| CNBC-----185.71.64.167
-http://185.71.64.167:80/8686607865/1287859652/202835
-#EXTINF:-1,|UK| CNBC NEWS
-http://185.71.64.167:80/8686607865/1287859652/200427
+#EXTINF:-1 tvg-id="" tvg-name="NUART ADULT" tvg-logo="" group-title="For Adults",NUART ADULT-------streamtv
+http://vladimir.putin.streamtv.to:8080/pqlYvHKeoN/zc1AI8XCTs/78715
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Kids VIP AF" tvg-logo="" group-title="Africa",Da Vinci Kids VIP AF
+http://vladimir.putin.streamtv.to:8080/pqlYvHKeoN/zc1AI8XCTs/90219
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle VIP AF" tvg-logo="https://thumbnail.imgbin.com/25/12/19/imgbin-bbc-lifestyle-bbc-entertainment-television-channel-bbc-hausa-a4sWKSBPEF0aFVQh0jtVSP6cA_t.jpg" group-title="Africa VIP",BBC Lifestyle VIP AF
+http://vladimir.putin.streamtv.to:8080/pqlYvHKeoN/zc1AI8XCTs/79757
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth VIP AF" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/new-zealand/bbc-earth-nz.png" group-title="Africa VIP",BBC Earth VIP AF
+http://vladimir.putin.streamtv.to:8080/pqlYvHKeoN/zc1AI8XCTs/79761
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH HD MY" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/new-zealand/bbc-earth-nz.png" group-title="Malaysia",BBC EARTH HD MY
+http://vladimir.putin.streamtv.to:8080/pqlYvHKeoN/zc1AI8XCTs/18610
+#EXTINF:-1 tvg-id="" tvg-name="BBC LIFESTYLE MY" tvg-logo="https://thumbnail.imgbin.com/25/12/19/imgbin-bbc-lifestyle-bbc-entertainment-television-channel-bbc-hausa-a4sWKSBPEF0aFVQh0jtVSP6cA_t.jpg" group-title="Malaysia",BBC LIFESTYLE MY
+http://vladimir.putin.streamtv.to:8080/pqlYvHKeoN/zc1AI8XCTs/18609
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO ASIA HD MY" tvg-logo="" group-title="Malaysia",NAT GEO ASIA HD MY
+http://vladimir.putin.streamtv.to:8080/pqlYvHKeoN/zc1AI8XCTs/18571
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO PEOPLE HD MY" tvg-logo="" group-title="Malaysia",NAT GEO PEOPLE HD MY
+http://vladimir.putin.streamtv.to:8080/pqlYvHKeoN/zc1AI8XCTs/18570
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD CHANNEL MY" tvg-logo="" group-title="Malaysia",ASIAN FOOD CHANNEL MY
+http://vladimir.putin.streamtv.to:8080/pqlYvHKeoN/zc1AI8XCTs/18634
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel ID" tvg-logo="" group-title="Indonesia",Asian Food Channel ID
+http://vladimir.putin.streamtv.to:8080/pqlYvHKeoN/zc1AI8XCTs/62295
+
+#EXTINF:-1 tvg-id="" tvg-name="CNBC TH" tvg-logo="" group-title="Thailand",CNBC TH
+http://vladimir.putin.streamtv.to:8080/pqlYvHKeoN/zc1AI8XCTs/8616
+#EXTINF:-1 tvg-id="CNBC US" tvg-name="CNBC US" tvg-logo="" group-title="United States",CNBC US
+http://vladimir.putin.streamtv.to:8080/pqlYvHKeoN/zc1AI8XCTs/525
+#EXTINF:-1 tvg-id="" tvg-name="CNBC CA" tvg-logo="" group-title="Canada",CNBC CA
+http://vladimir.putin.streamtv.to:8080/pqlYvHKeoN/zc1AI8XCTs/45508
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Africa HD AF VIP" tvg-logo="" group-title="Africa",CNBC Africa HD AF VIP
+http://vladimir.putin.streamtv.to:8080/pqlYvHKeoN/zc1AI8XCTs/74050
 
 
-#EXTINF:-1,BBC Life Style-----------tigeriptv.vip
-http://tigeriptv.vip:8080/9/9/159398
-#EXTINF:-1,BBC EARTH UHD
-http://tigeriptv.vip:8080/9/9/147760
-#EXTINF:-1,OSN DISCOVERY SCIENCE HD
-http://tigeriptv.vip:8080/9/9/205808
-#EXTINF:-1,OSN NAT GEO PEOPLE HD
-http://tigeriptv.vip:8080/9/9/205801
-#EXTINF:-1,CA: CNBC HD
-http://tigeriptv.vip:8080/9/9/207346
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NUART ADULT" tvg-logo="" group-title="For Adults",NUART ADULT------gentv
+http://nk.zvijezda.gradacac.gentv.to:8080/YBrBMXWWBv/RYZQZOxBDm/78715
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Kids VIP AF" tvg-logo="" group-title="Africa",Da Vinci Kids VIP AF
+http://nk.zvijezda.gradacac.gentv.to:8080/YBrBMXWWBv/RYZQZOxBDm/90219
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD PH" tvg-logo="" group-title="Philippines",ASIAN FOOD PH
+http://nk.zvijezda.gradacac.gentv.to:8080/YBrBMXWWBv/RYZQZOxBDm/24166
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD CHANNEL MY" tvg-logo="" group-title="Malaysia",ASIAN FOOD CHANNEL MY
+http://nk.zvijezda.gradacac.gentv.to:8080/YBrBMXWWBv/RYZQZOxBDm/18634
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel HD ID" tvg-logo="" group-title="Indonesia",Asian Food Channel HD ID
+http://nk.zvijezda.gradacac.gentv.to:8080/YBrBMXWWBv/RYZQZOxBDm/62156
+
+#EXTINF:-1 tvg-id="" tvg-name="CNBC CA" tvg-logo="" group-title="Canada",CNBC CA
+http://nk.zvijezda.gradacac.gentv.to:8080/YBrBMXWWBv/RYZQZOxBDm/45508
+#EXTINF:-1 tvg-id="" tvg-name="CNBC TH" tvg-logo="" group-title="Thailand",CNBC TH
+http://nk.zvijezda.gradacac.gentv.to:8080/YBrBMXWWBv/RYZQZOxBDm/8616
+#EXTINF:-1 tvg-id="CNBC US" tvg-name="CNBC US" tvg-logo="" group-title="United States",CNBC US
+http://nk.zvijezda.gradacac.gentv.to:8080/YBrBMXWWBv/RYZQZOxBDm/525
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Africa HD AF VIP" tvg-logo="" group-title="Africa",CNBC Africa HD AF VIP
+http://nk.zvijezda.gradacac.gentv.to:8080/YBrBMXWWBv/RYZQZOxBDm/74050
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Europe PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnbc-us.png" group-title="Portugal",CNBC Europe PT
+http://nk.zvijezda.gradacac.gentv.to:8080/YBrBMXWWBv/RYZQZOxBDm/90069
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
