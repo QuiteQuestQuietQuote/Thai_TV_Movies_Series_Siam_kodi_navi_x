@@ -1338,6 +1338,40 @@ http://fortv.cc:8080/dan/dan123/121008
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNBC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnbc_asia_pacific.png" group-title="US NEWS",USA: CNBC-------mat4k
+http://mat4k.com:8080/Y9UEpwEyQCPQbbKRhwzTHKKKKK/BOyYvJcPIq/228574
+#EXTINF:-1 tvg-id="" tvg-name="VIP |CA-EN|  CNBC HD" tvg-logo="" group-title="CA ENTERTAINMENT ENG",VIP |CA-EN|  CNBC HD
+http://mat4k.com:8080/Y9UEpwEyQCPQbbKRhwzTHKKKKK/BOyYvJcPIq/228949
+#EXTINF:-1 tvg-id="" tvg-name="[MY] CNBC" tvg-logo="" group-title="MALYSIA | OTT",[MY] CNBC
+http://mat4k.com:8080/Y9UEpwEyQCPQbbKRhwzTHKKKKK/BOyYvJcPIq/150080
+#EXTINF:-1 tvg-id="" tvg-name="[DSTV] CNBC Africa" tvg-logo="http://pic.tvtrips.xyz/NEW-FRANCE-HD/dstv.png" group-title="DSTV | OTT",[DSTV] CNBC Africa
+http://mat4k.com:8080/Y9UEpwEyQCPQbbKRhwzTHKKKKK/BOyYvJcPIq/246124
+#EXTINF:-1 tvg-id="" tvg-name="[DSTV] Da Vinci" tvg-logo="http://pic.tvtrips.xyz/NEW-FRANCE-HD/dstv.png" group-title="DSTV | OTT",[DSTV] Da Vinci
+http://mat4k.com:8080/Y9UEpwEyQCPQbbKRhwzTHKKKKK/BOyYvJcPIq/246168
+#EXTINF:-1 tvg-id="" tvg-name="|MK| DA VINCI" tvg-logo="" group-title="MACEDONIA | OTT",|MK| DA VINCI
+http://mat4k.com:8080/Y9UEpwEyQCPQbbKRhwzTHKKKKK/BOyYvJcPIq/94219
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Asia Food Network" tvg-logo="" group-title="INDONESIA | OTT",[ID] Asia Food Network
+http://mat4k.com:8080/Y9UEpwEyQCPQbbKRhwzTHKKKKK/BOyYvJcPIq/150247
+#EXTINF:-1 tvg-id="" tvg-name="|PH| Asian Food Channel" tvg-logo="" group-title="PHILIPPINE | OTT",|PH| Asian Food Channel
+http://mat4k.com:8080/Y9UEpwEyQCPQbbKRhwzTHKKKKK/BOyYvJcPIq/120844
+#EXTINF:-1 tvg-id="" tvg-name="|PH| Discovery Asia World" tvg-logo="" group-title="PHILIPPINE | OTT",|PH| Discovery Asia World
+http://mat4k.com:8080/Y9UEpwEyQCPQbbKRhwzTHKKKKK/BOyYvJcPIq/120856
+#EXTINF:-1 tvg-id="" tvg-name="[MY] DISCOVERY ASIA" tvg-logo="" group-title="MALYSIA | OTT",[MY] DISCOVERY ASIA
+http://mat4k.com:8080/Y9UEpwEyQCPQbbKRhwzTHKKKKK/BOyYvJcPIq/150086
+#EXTINF:-1 tvg-id="" tvg-name="[MY] DISC SCI HD" tvg-logo="" group-title="MALYSIA | OTT",[MY] DISC SCI HD
+http://mat4k.com:8080/Y9UEpwEyQCPQbbKRhwzTHKKKKK/BOyYvJcPIq/150087
+#EXTINF:-1 tvg-id="" tvg-name="[MY] AFN HD" tvg-logo="" group-title="MALYSIA | OTT",[MY] AFN HD
+http://mat4k.com:8080/Y9UEpwEyQCPQbbKRhwzTHKKKKK/BOyYvJcPIq/150107
+#EXTINF:-1 tvg-id="" tvg-name="[MY] NATGEO PEOPLE" tvg-logo="" group-title="MALYSIA | OTT",[MY] NATGEO PEOPLE
+http://mat4k.com:8080/Y9UEpwEyQCPQbbKRhwzTHKKKKK/BOyYvJcPIq/150108
+#EXTINF:-1 tvg-id="" tvg-name="[MY] BBC Earth HD" tvg-logo="" group-title="MALYSIA | OTT",[MY] BBC Earth HD
+http://mat4k.com:8080/Y9UEpwEyQCPQbbKRhwzTHKKKKK/BOyYvJcPIq/150149
+#EXTINF:-1 tvg-id="" tvg-name="[MY] BBC Lifestyle" tvg-logo="" group-title="MALYSIA | OTT",[MY] BBC Lifestyle
+http://mat4k.com:8080/Y9UEpwEyQCPQbbKRhwzTHKKKKK/BOyYvJcPIq/150150
+#EXTINF:-1 tvg-id="" tvg-name="[DSTV] BBC Earth" tvg-logo="http://pic.tvtrips.xyz/NEW-FRANCE-HD/dstv.png" group-title="DSTV | OTT",[DSTV] BBC Earth
+http://mat4k.com:8080/Y9UEpwEyQCPQbbKRhwzTHKKKKK/BOyYvJcPIq/246098
+#EXTINF:-1 tvg-id="" tvg-name="[DSTV] BBC Lifestyle" tvg-logo="http://pic.tvtrips.xyz/NEW-FRANCE-HD/dstv.png" group-title="DSTV | OTT",[DSTV] BBC Lifestyle
+http://mat4k.com:8080/Y9UEpwEyQCPQbbKRhwzTHKKKKK/BOyYvJcPIq/246099
 
 
 
@@ -1346,72 +1380,42 @@ http://fortv.cc:8080/dan/dan123/121008
 
 
 
-#EXTINF:-1,USA-  CNBC-----predator-x
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/211281
-#EXTINF:-1,USA-  CNBC 4K+
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/211158
-#EXTINF:-1,USA-  CNBC TV EN
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/211239
-#EXTINF:-1,DK-  BBC BRITH
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/213123
-#EXTINF:-1,DK-  BBC EARTH
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/213124
-#EXTINF:-1,DSTV- BBC Earth
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/257572
-#EXTINF:-1,DSTV- BBC Lifestyle
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/257571
-#EXTINF:-1,DSTV- Da Vinci
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/257506
-#EXTINF:-1,RO- DaVinci Learning
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/202967
-#EXTINF:-1,PL- National Geographic People HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/213511
-#EXTINF:-1,OSN National Geographic People FHD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/283999
-#EXTINF:-1,BEIN  NAT GEO PEOPLE HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150991
-#EXTINF:-1,THAILAND  GOOD IDEA TV USA HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/123501
+#EXTINF:-1 tvg-id="" tvg-name="USA- CNBC" tvg-logo="" group-title="USA",USA- CNBC------revteam1.offshorerev
+http://revteam1.offshorerev.cc:80/dtFC7zCW/dUJJ9htB/100447
+#EXTINF:-1 tvg-id="" tvg-name="CNBC | En" tvg-logo="" group-title="SCANDINAVIAN",CNBC | En
+http://revteam1.offshorerev.cc:80/dtFC7zCW/dUJJ9htB/133612
+#EXTINF:-1 tvg-id="" tvg-name="AF ZW Da Vinci Kids" tvg-logo="" group-title="DSTV AFRICA",AF ZW Da Vinci Kids
+http://revteam1.offshorerev.cc:80/dtFC7zCW/dUJJ9htB/116565
+#EXTINF:-1 tvg-id="" tvg-name="AF UG Da Vinci Kids" tvg-logo="" group-title="DSTV AFRICA",AF UG Da Vinci Kids
+http://revteam1.offshorerev.cc:80/dtFC7zCW/dUJJ9htB/116350
+#EXTINF:-1 tvg-id="" tvg-name="VN DA VINCI LEARNING HD " tvg-logo="" group-title="VIETNAM",VN DA VINCI LEARNING HD 
+http://revteam1.offshorerev.cc:80/dtFC7zCW/dUJJ9htB/115971
+#EXTINF:-1 tvg-id="" tvg-name="VN DISCOVERY ASIA HD" tvg-logo="" group-title="VIETNAM",VN DISCOVERY ASIA HD
+http://revteam1.offshorerev.cc:80/dtFC7zCW/dUJJ9htB/115902
+#EXTINF:-1 tvg-id="" tvg-name="VN ASIAN FOOD CHANNEL HD " tvg-logo="" group-title="VIETNAM",VN ASIAN FOOD CHANNEL HD 
+http://revteam1.offshorerev.cc:80/dtFC7zCW/dUJJ9htB/115968
+#EXTINF:-1 tvg-id="" tvg-name="PH: ASIAN FOOD" tvg-logo="" group-title="PHILIPPINE",PH: ASIAN FOOD
+http://revteam1.offshorerev.cc:80/dtFC7zCW/dUJJ9htB/97167
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="CNBC US" tvg-name="CNBC US" tvg-logo="" group-title="United States",CNBC US----tron.streamtv
-http://tron.streamtv.to:8080/9caBXWNioD/dAGs2KngWR/525
-#EXTINF:-1 tvg-id="" tvg-name="CNBC TH" tvg-logo="" group-title="Thailand",CNBC TH
-http://tron.streamtv.to:8080/9caBXWNioD/dAGs2KngWR/8616
-#EXTINF:-1 tvg-id="" tvg-name="NUART ADULT" tvg-logo="" group-title="For Adults",NUART ADULT
-http://tron.streamtv.to:8080/9caBXWNioD/dAGs2KngWR/78715
-#EXTINF:-1 tvg-id="" tvg-name="Fashion UHD 4K" tvg-logo="" group-title="UHD 4K",Fashion UHD 4K
-http://tron.streamtv.to:8080/9caBXWNioD/dAGs2KngWR/75405
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Kids VIP AF" tvg-logo="" group-title="Africa",Da Vinci Kids VIP AF
-http://tron.streamtv.to:8080/9caBXWNioD/dAGs2KngWR/90219
-#EXTINF:-1 tvg-id="Da Vinci Learning RO" tvg-name="Da Vinci Learning RO" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png" group-title="Romania",Da Vinci Learning RO
-http://tron.streamtv.to:8080/9caBXWNioD/dAGs2KngWR/25530
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH HD MY" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/new-zealand/bbc-earth-nz.png" group-title="Malaysia",BBC EARTH HD MY
-http://tron.streamtv.to:8080/9caBXWNioD/dAGs2KngWR/18610
-#EXTINF:-1 tvg-id="" tvg-name="BBC LIFESTYLE MY" tvg-logo="https://thumbnail.imgbin.com/25/12/19/imgbin-bbc-lifestyle-bbc-entertainment-television-channel-bbc-hausa-a4sWKSBPEF0aFVQh0jtVSP6cA_t.jpg" group-title="Malaysia",BBC LIFESTYLE MY
-http://tron.streamtv.to:8080/9caBXWNioD/dAGs2KngWR/18609
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO ASIA HD MY" tvg-logo="" group-title="Malaysia",NAT GEO ASIA HD MY
-http://tron.streamtv.to:8080/9caBXWNioD/dAGs2KngWR/18571
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD CHANNEL MY" tvg-logo="" group-title="Malaysia",ASIAN FOOD CHANNEL MY
-http://tron.streamtv.to:8080/9caBXWNioD/dAGs2KngWR/18634
-#EXTINF:-1 tvg-id="" tvg-name="SBS FOOD NETWORK SD AU" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/food-network-uk.png?raw=true" group-title="Australia",SBS FOOD NETWORK SD AU
-http://tron.streamtv.to:8080/9caBXWNioD/dAGs2KngWR/80199
-#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle VIP AF" tvg-logo="https://thumbnail.imgbin.com/25/12/19/imgbin-bbc-lifestyle-bbc-entertainment-television-channel-bbc-hausa-a4sWKSBPEF0aFVQh0jtVSP6cA_t.jpg" group-title="Africa VIP",BBC Lifestyle VIP AF
-http://tron.streamtv.to:8080/9caBXWNioD/dAGs2KngWR/79757
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth VIP AF" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/new-zealand/bbc-earth-nz.png" group-title="Africa VIP",BBC Earth VIP AF
-http://tron.streamtv.to:8080/9caBXWNioD/dAGs2KngWR/79761
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY VIP AF" tvg-logo="http://195.154.221.171/picons/historyuk.png" group-title="Africa VIP",HISTORY VIP AF
-http://tron.streamtv.to:8080/9caBXWNioD/dAGs2KngWR/79762
-#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel ID" tvg-logo="" group-title="Indonesia",Asian Food Channel ID
-http://tron.streamtv.to:8080/9caBXWNioD/dAGs2KngWR/62295
-#EXTINF:-1 tvg-id="" tvg-name="OSN Nat People HD QA" tvg-logo="" group-title="OSN - Qatar ARB",OSN Nat People HD QA
-http://tron.streamtv.to:8080/9caBXWNioD/dAGs2KngWR/98005
-#EXTINF:-1 tvg-id="Discovery Science HD ARB" tvg-name="OSN Discovery Science HD QA" tvg-logo="http://195.154.221.171/picons/discoverysciencehd.png" group-title="OSN - Qatar ARB",OSN Discovery Science HD QA
-http://tron.streamtv.to:8080/9caBXWNioD/dAGs2KngWR/98001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
