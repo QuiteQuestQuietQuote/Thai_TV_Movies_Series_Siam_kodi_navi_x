@@ -912,24 +912,6 @@ http://mu02.v2iptv.com:8880/Sale2627/August0620/33162
 
 
 
-#EXTINF:-1,Da Vinci Learning HR--------------iptvstack
-http://tv.iptvstack.net:80/fLZ5oHA679/qLKy8z2437/17272
-#EXTINF:-1,Da Vinci Learning PL
-http://tv.iptvstack.net:80/fLZ5oHA679/qLKy8z2437/15182
-#EXTINF:-1,Da Vinci Learning RO
-http://tv.iptvstack.net:80/fLZ5oHA679/qLKy8z2437/14628
-#EXTINF:-1,National Geographic People HD PL
-http://tv.iptvstack.net:80/fLZ5oHA679/qLKy8z2437/15191
-#EXTINF:-1,OSN National Geographic People HD AE
-http://tv.iptvstack.net:80/fLZ5oHA679/qLKy8z2437/12828
-#EXTINF:-1,BBC Earth RO
-http://tv.iptvstack.net:80/fLZ5oHA679/qLKy8z2437/30307
-#EXTINF:-1,BBC Earth HD SE
-http://tv.iptvstack.net:80/fLZ5oHA679/qLKy8z2437/14456
-#EXTINF:-1,BBC Lifestyle Polska FHD PL
-http://tv.iptvstack.net:80/fLZ5oHA679/qLKy8z2437/23318
-#EXTINF:-1,Food Network TH
-http://tv.iptvstack.net:80/fLZ5oHA679/qLKy8z2437/17105
 
 
 #EXTINF:-1,XXX: Nuart HD --------------iptvtree---test
@@ -1118,16 +1100,7 @@ http://185.71.64.167:80/8686607865/1287859652/78914
 http://mu02.v2iptv.com:8880/Sale2627/August0620/3148
 
 
-#EXTINF:-1,CNBC UK--------iptvstack
-http://tv.iptvstack.net:80/fLZ5oHA679/qLKy8z2437/14968
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US
-http://tv.iptvstack.net:80/fLZ5oHA679/qLKy8z2437/9028
 
-
-#EXTINF:-1,Da Vinci Learning HR---------
-http://tv.iptvstack.net:80/fLZ5oHA679/qLKy8z2437/17272
-#EXTINF:-1,Nuart TV (18+) RU---
-http://tv.iptvstack.net:80/fLZ5oHA679/qLKy8z2437/28882
 
 
 
@@ -1138,33 +1111,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8 
 
 
-#EXTINF:-1,Nuart TV (18+) RU---iptvstack
-http://tv.iptvstack.net:80/fLZ5oHA679/qLKy8z2437/28882
-#EXTINF:-1,Nuart TV (18+) RU---clientportal
-http://clientportal.link/fLZ5oHA679/qLKy8z2437/28882
-#EXTINF:-1,Nuart TV (18+) RU---85.203.33.88
-http://85.203.33.88:80/fLZ5oHA679/qLKy8z2437/28882
-
-#EXTINF:-1,Nuart TV (18+) RU---clientportal
-http://clientportal.link:80/lBkjTlAXob988/VuRU3g57/28882
-#EXTINF:-1,Nuart TV (18+) RU---85.203.33.88
-http://85.203.33.88:80/lBkjTlAXob988/VuRU3g57/28882
-
-#EXTINF:-1,Da Vinci Learning HR-------clientportal
-http://clientportal.link:80/lBkjTlAXob988/VuRU3g57/17272
-#EXTINF:-1,Da Vinci Learning HR---------85.203.33.88
-http://85.203.33.88:80/lBkjTlAXob988/VuRU3g57/17272
-
-
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US-----clientportal.link
-http://clientportal.link/fLZ5oHA679/qLKy8z2437/9028
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US-----85.203.33.88
-http://85.203.33.88:80/fLZ5oHA679/qLKy8z2437/9028
-
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US-----clientportal.link
-http://clientportal.link:80/lBkjTlAXob988/VuRU3g57/9028
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",CNBC FHD US-----85.203.33.88
-http://85.203.33.88:80/lBkjTlAXob988/VuRU3g57/9028
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Nuart TV (18+)" tvg-logo="" group-title="For Adult",Nuart TV (18+)---mytv.fun
@@ -1178,25 +1124,6 @@ http://mytv.fun:8080/KarlosVassallo/34ygdur6ye/4956
 
 
 
-
-#EXTINF:-1,18+: FemJoy ---test---tigerfights
-http://tigerfights.xyz:80/testline/testline/2578143 
-#EXTINF:-1,18+: Met-Art-
-http://tigerfights.xyz:80/testline/testline/2578164 
-#EXTINF:-1,XXX-NUART-
-http://tigerfights.xyz:80/testline/testline/2491807 
-#EXTINF:-1,VN: DA VINCI LEARNING HD-
-http://tigerfights.xyz:80/testline/testline/2586405
-#EXTINF:-1,VN: ASIAN FOOD CHANNEL HD-
-http://tigerfights.xyz:80/testline/testline/2586402
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",USA: CNBC HD
-http://tigerfights.xyz:80/testline/testline/3043273
-
-
-#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",USA: CNBC HD---gooserace
-http://gooserace.xyz:2052/21844827/36706997/3043273
-#EXTINF:-1,VN: ASIAN FOOD CHANNEL HD-
-http://gooserace.xyz:2052/21844827/36706997/2586402
 
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="US: CNBC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/930d9bbb0c0107df1b011f45e4c83e56.png" group-title="USA",US: CNBC FHD---test---iptvtree
 http://iptvtree.net:8080/7tPyzM9iGQ/qB0T5uHARE/2295
@@ -1318,20 +1245,8 @@ http://fastrunner.live:8080/dumyEaTrcB/8boNMjsH2Z/18609
 
 
 
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC US" tvg-logo="" group-title="United States",CNBC US-----besiktas.streamtv
-http://besiktas.streamtv.to:8080/HMEFJBRxqi/rsq5WyQtAo/525
-#EXTINF:-1 tvg-id="" tvg-name="NUART ADULT" tvg-logo="" group-title="For Adults",NUART ADULT
-http://besiktas.streamtv.to:8080/HMEFJBRxqi/rsq5WyQtAo/78715
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Kids VIP AF" tvg-logo="" group-title="Africa",Da Vinci Kids VIP AF
-http://besiktas.streamtv.to:8080/HMEFJBRxqi/rsq5WyQtAo/90219
-#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel ID" tvg-logo="" group-title="Indonesia",Asian Food Channel ID
-http://besiktas.streamtv.to:8080/HMEFJBRxqi/rsq5WyQtAo/62295
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD CHANNEL MY" tvg-logo="" group-title="Malaysia",ASIAN FOOD CHANNEL MY
-http://besiktas.streamtv.to:8080/HMEFJBRxqi/rsq5WyQtAo/18634
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH HD MY" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/new-zealand/bbc-earth-nz.png" group-title="Malaysia",BBC EARTH HD MY
-http://besiktas.streamtv.to:8080/HMEFJBRxqi/rsq5WyQtAo/18610
-#EXTINF:-1 tvg-id="" tvg-name="BBC LIFESTYLE MY" tvg-logo="https://thumbnail.imgbin.com/25/12/19/imgbin-bbc-lifestyle-bbc-entertainment-television-channel-bbc-hausa-a4sWKSBPEF0aFVQh0jtVSP6cA_t.jpg" group-title="Malaysia",BBC LIFESTYLE MY
-http://besiktas.streamtv.to:8080/HMEFJBRxqi/rsq5WyQtAo/18609
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US : CNBC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cnbc.png" group-title="NEWS NETWORKS",US : CNBC----mains.services
+http://mains.services:2086/lorre/3Jy14gb2kR/349
 
 
 
@@ -1361,29 +1276,55 @@ http://iptvtree.net:8080/FM10020/4d136785/16663
 
 
 
+#EXTINF:-1,VIP US: CNBC HD---homeplex---December 31
+http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/10676
+#EXTINF:-1,UK: CNBC News
+http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/12365
+#EXTINF:-1,VIP ID: Asian Food Channel ID
+http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/28812
+#EXTINF:-1,VIP ID: BBC Earth ID
+http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/28809
+#EXTINF:-1,VIP ID: Nat Geo People ID
+http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/28751
+#EXTINF:-1,VIP MLZ: ASIAN FOOD CHANNEL
+http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/28705
+#EXTINF:-1,VIP MLZ: BBC EARTH HD
+http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/28694
+#EXTINF:-1,VIP MLZ: BBC LIFESTYLE
+http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/28693
+#EXTINF:-1,VIP MLZ: NAT GEO PEOPLE HD
+http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/28658
+#EXTINF:-1,VIP TH: AFN
+http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/33241
+#EXTINF:-1,VIP TH: BBC Earth HD
+http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/42642
+#EXTINF:-1,VIP TH: BBC Lifestyle HD
+http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/42641
+#EXTINF:-1,VIP TH: DISCOVERY ASIA HD
+http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/10896
+#EXTINF:-1,VIP TH: Explore Science
+http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/10883
+#EXTINF:-1,VIP VTN: DA VINCI LEARNING HD
+http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/9859
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC US" tvg-logo="" group-title="United States",CNBC US---tugatv--- June 9
+http://tugatv.123tv.to:8080/Mainiptv-6Mon-PgvBJG7NxH/wNbtHXRDsu/525
+#EXTINF:-1 tvg-id="" tvg-name="NUART ADULT" tvg-logo="" group-title="For Adults",NUART ADULT
+http://tugatv.123tv.to:8080/Mainiptv-6Mon-PgvBJG7NxH/wNbtHXRDsu/78715
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD CHANNEL MY" tvg-logo="" group-title="Malaysia",ASIAN FOOD CHANNEL MY
+http://tugatv.123tv.to:8080/Mainiptv-6Mon-PgvBJG7NxH/wNbtHXRDsu/18634
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH HD MY" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/new-zealand/bbc-earth-nz.png" group-title="Malaysia",BBC EARTH HD MY
+http://tugatv.123tv.to:8080/Mainiptv-6Mon-PgvBJG7NxH/wNbtHXRDsu/18610
+#EXTINF:-1 tvg-id="" tvg-name="BBC LIFESTYLE MY" tvg-logo="https://thumbnail.imgbin.com/25/12/19/imgbin-bbc-lifestyle-bbc-entertainment-television-channel-bbc-hausa-a4sWKSBPEF0aFVQh0jtVSP6cA_t.jpg" group-title="Malaysia",BBC LIFESTYLE MY
+http://tugatv.123tv.to:8080/Mainiptv-6Mon-PgvBJG7NxH/wNbtHXRDsu/18609
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel ID" tvg-logo="" group-title="Indonesia",Asian Food Channel ID
+http://tugatv.123tv.to:8080/Mainiptv-6Mon-PgvBJG7NxH/wNbtHXRDsu/62295
+#EXTINF:-1 tvg-id="Da Vinci Learning RO" tvg-name="Da Vinci Learning RO" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png" group-title="Romania",Da Vinci Learning RO
+http://tugatv.123tv.to:8080/Mainiptv-6Mon-PgvBJG7NxH/wNbtHXRDsu/25530
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Kids VIP AF" tvg-logo="" group-title="Africa",Da Vinci Kids VIP AF
+http://tugatv.123tv.to:8080/Mainiptv-6Mon-PgvBJG7NxH/wNbtHXRDsu/90219
 
 
 
