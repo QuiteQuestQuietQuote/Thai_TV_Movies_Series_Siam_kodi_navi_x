@@ -1275,60 +1275,69 @@ http://iptvtree.net:8080/FM10020/4d136785/16663
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="US | CNBC" tvg-logo="" group-title="CANALES PREMIUM 2",US | CNBC---Unlimited 
+http://goldenplay.best:25461/1234/1234/9393
+#EXTINF:-1 tvg-id="" tvg-name="CNBC US" tvg-logo="" group-title="CANALES PREMIUM 2",CNBC US
+http://goldenplay.best:25461/1234/1234/9760
+#EXTINF:-1 tvg-id="" tvg-name="Hentai 2" tvg-logo="" group-title="CANALES PREMIUM 3",Hentai 2
+http://goldenplay.best:25461/1234/1234/14623
+#EXTINF:-1 tvg-id="" tvg-name="Nuart TV" tvg-logo="" group-title="CANALES PREMIUM 3",Nuart TV
+http://goldenplay.best:25461/1234/1234/14668
 
-#EXTINF:-1,VIP US: CNBC HD---homeplex---December 31
-http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/10676
-#EXTINF:-1,UK: CNBC News
-http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/12365
-#EXTINF:-1,VIP ID: Asian Food Channel ID
-http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/28812
-#EXTINF:-1,VIP ID: BBC Earth ID
-http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/28809
-#EXTINF:-1,VIP ID: Nat Geo People ID
-http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/28751
-#EXTINF:-1,VIP MLZ: ASIAN FOOD CHANNEL
-http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/28705
-#EXTINF:-1,VIP MLZ: BBC EARTH HD
-http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/28694
-#EXTINF:-1,VIP MLZ: BBC LIFESTYLE
-http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/28693
-#EXTINF:-1,VIP MLZ: NAT GEO PEOPLE HD
-http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/28658
-#EXTINF:-1,VIP TH: AFN
-http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/33241
-#EXTINF:-1,VIP TH: BBC Earth HD
-http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/42642
-#EXTINF:-1,VIP TH: BBC Lifestyle HD
-http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/42641
-#EXTINF:-1,VIP TH: DISCOVERY ASIA HD
-http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/10896
-#EXTINF:-1,VIP TH: Explore Science
-http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/10883
-#EXTINF:-1,VIP VTN: DA VINCI LEARNING HD
-http://homeplex.live:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/9859
+
+#EXTINF:-1 tvg-ID="cnbc.us" tvg-name="US: CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="US - News",US: CNBC----2022-06-02
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/3246
+#EXTINF:-1 tvg-ID="cnbc.uk" tvg-name="UK: CNBC Europe" tvg-logo="https://www.kaleyra.com/wp-content/uploads/2019/03/CNBC-International-logo.jpg" group-title="UK - News",UK: CNBC Europe
+http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/5769
 
 
 
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC US" tvg-logo="" group-title="United States",CNBC US---tugatv--- June 9
-http://tugatv.123tv.to:8080/Mainiptv-6Mon-PgvBJG7NxH/wNbtHXRDsu/525
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC US" tvg-logo="" group-title="United States",CNBC US---March 26, 2023
+http://kingsiptv.streamtv.to:8080/eTnw981ICk/8Jii13BmEU/525
 #EXTINF:-1 tvg-id="" tvg-name="NUART ADULT" tvg-logo="" group-title="For Adults",NUART ADULT
-http://tugatv.123tv.to:8080/Mainiptv-6Mon-PgvBJG7NxH/wNbtHXRDsu/78715
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD CHANNEL MY" tvg-logo="" group-title="Malaysia",ASIAN FOOD CHANNEL MY
-http://tugatv.123tv.to:8080/Mainiptv-6Mon-PgvBJG7NxH/wNbtHXRDsu/18634
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH HD MY" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/new-zealand/bbc-earth-nz.png" group-title="Malaysia",BBC EARTH HD MY
-http://tugatv.123tv.to:8080/Mainiptv-6Mon-PgvBJG7NxH/wNbtHXRDsu/18610
-#EXTINF:-1 tvg-id="" tvg-name="BBC LIFESTYLE MY" tvg-logo="https://thumbnail.imgbin.com/25/12/19/imgbin-bbc-lifestyle-bbc-entertainment-television-channel-bbc-hausa-a4sWKSBPEF0aFVQh0jtVSP6cA_t.jpg" group-title="Malaysia",BBC LIFESTYLE MY
-http://tugatv.123tv.to:8080/Mainiptv-6Mon-PgvBJG7NxH/wNbtHXRDsu/18609
-#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel ID" tvg-logo="" group-title="Indonesia",Asian Food Channel ID
-http://tugatv.123tv.to:8080/Mainiptv-6Mon-PgvBJG7NxH/wNbtHXRDsu/62295
-#EXTINF:-1 tvg-id="Da Vinci Learning RO" tvg-name="Da Vinci Learning RO" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png" group-title="Romania",Da Vinci Learning RO
-http://tugatv.123tv.to:8080/Mainiptv-6Mon-PgvBJG7NxH/wNbtHXRDsu/25530
+http://kingsiptv.streamtv.to:8080/eTnw981ICk/8Jii13BmEU/78715
 #EXTINF:-1 tvg-id="" tvg-name="Da Vinci Kids VIP AF" tvg-logo="" group-title="Africa",Da Vinci Kids VIP AF
-http://tugatv.123tv.to:8080/Mainiptv-6Mon-PgvBJG7NxH/wNbtHXRDsu/90219
+http://kingsiptv.streamtv.to:8080/eTnw981ICk/8Jii13BmEU/90219
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD CHANNEL MY" tvg-logo="" group-title="Malaysia",ASIAN FOOD CHANNEL MY
+http://kingsiptv.streamtv.to:8080/eTnw981ICk/8Jii13BmEU/18634
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH HD MY" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/new-zealand/bbc-earth-nz.png" group-title="Malaysia",BBC EARTH HD MY
+http://kingsiptv.streamtv.to:8080/eTnw981ICk/8Jii13BmEU/18610
+#EXTINF:-1 tvg-id="" tvg-name="BBC LIFESTYLE MY" tvg-logo="https://thumbnail.imgbin.com/25/12/19/imgbin-bbc-lifestyle-bbc-entertainment-television-channel-bbc-hausa-a4sWKSBPEF0aFVQh0jtVSP6cA_t.jpg" group-title="Malaysia",BBC LIFESTYLE MY
 
 
 
 
+#EXTINF:-1,US : CNBC---September 3, 2022
+http://n2086.securepoint.io:25461/H3BH5ZbVs4/aEO5wYdWxp/56586
+#EXTINF:-1,US : CNBC FHD 1080
+http://n2086.securepoint.io:25461/H3BH5ZbVs4/aEO5wYdWxp/53418
+
+
+
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US : CNBC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cnbc.png" group-title="NEWS NETWORKS",US : CNBC---2022-05-28
+http://mains.services:2086/lorre/3Jy14gb2kR/349
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US : CNBC FHD 1080" tvg-logo="http://p2086.securepoint.io:2086/images/4dd5c8598b68e5afa6bf1b106f7c4000.png" group-title="USA FULL HD",US : CNBC FHD 1080
+http://mains.services:2086/lorre/3Jy14gb2kR/64142
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="" group-title="USA",CNBC---2023-02-20
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/136628
+#EXTINF:-1 tvg-id="" tvg-name="CNBC | En" tvg-logo="" group-title="SCANDINAVIAN",CNBC | En
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/133613
+#EXTINF:-1 tvg-id="" tvg-name="CNBC | En" tvg-logo="" group-title="SCANDINAVIAN",CNBC | En
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/133612
+#EXTINF:-1 tvg-id="" tvg-name="VN ASIAN FOOD CHANNEL HD " tvg-logo="" group-title="VIETNAM",VN ASIAN FOOD CHANNEL HD 
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/115968
+#EXTINF:-1 tvg-id="" tvg-name="VN DA VINCI LEARNING HD " tvg-logo="" group-title="VIETNAM",VN DA VINCI LEARNING HD 
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/115971
+#EXTINF:-1 tvg-id="" tvg-name="VN DISCOVERY ASIA HD" tvg-logo="" group-title="VIETNAM",VN DISCOVERY ASIA HD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/115902
 
 
 
