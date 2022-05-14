@@ -1113,12 +1113,7 @@ https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Nuart TV (18+)" tvg-logo="" group-title="For Adult",Nuart TV (18+)---mytv.fun
-http://mytv.fun:8080/KarlosVassallo/34ygdur6ye/680092
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning VIP RO" tvg-logo="" group-title="Romania",Da Vinci Learning VIP RO
-http://mytv.fun:8080/KarlosVassallo/34ygdur6ye/688447
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC HD US
-http://mytv.fun:8080/KarlosVassallo/34ygdur6ye/4956
+
 
 
 
@@ -1206,18 +1201,18 @@ http://125.227.210.37:16415/VideoInput/play.ts
 
 
 
-#EXTINF:-1,CNBC HD US---mytv.fun
-http://mytv.fun:8080/ute001/6bpufzu57d/4956
 
 
-#EXTINF:-1,CNBC FHD VIP US---mytv.fun
-http://mytv.fun:8080/raymundvietnam/hh25102020/683996
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC HD US" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg" group-title="United States",CNBC HD US---mytv.fun---May 27, 2022
+http://mytv.fun:8080/xufkh75fr/o6pdmyiwyp/4956
+#EXTINF:-1,CNBC FHD VIP US
+http://mytv.fun:8080/xufkh75fr/o6pdmyiwyp/683996
 #EXTINF:-1,CNBC HD US
-http://mytv.fun:8080/raymundvietnam/hh25102020/4956
-#EXTINF:-1 tvg-id="" tvg-name="Nuart TV (18+)" tvg-logo="" group-title="For Adult",Nuart TV (18+)---mytv.fun
-http://mytv.fun:8080/raymundvietnam/hh25102020/680092
+http://mytv.fun:8080/xufkh75fr/o6pdmyiwyp/4956
+#EXTINF:-1 tvg-id="" tvg-name="Nuart TV (18+)" tvg-logo="" group-title="For Adult",Nuart TV (18+)
+http://mytv.fun:8080/xufkh75fr/o6pdmyiwyp/680092
 #EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning VIP RO" tvg-logo="" group-title="Romania",Da Vinci Learning VIP RO
-http://mytv.fun:8080/raymundvietnam/hh25102020/688447
+http://mytv.fun:8080/xufkh75fr/o6pdmyiwyp/688447
 
 
 
@@ -1241,12 +1236,6 @@ http://fastrunner.live:8080/dumyEaTrcB/8boNMjsH2Z/18610
 #EXTINF:-1 tvg-id="" tvg-name="BBC LIFESTYLE MY" tvg-logo="https://thumbnail.imgbin.com/25/12/19/imgbin-bbc-lifestyle-bbc-entertainment-television-channel-bbc-hausa-a4sWKSBPEF0aFVQh0jtVSP6cA_t.jpg" group-title="Malaysia",BBC LIFESTYLE MY
 http://fastrunner.live:8080/dumyEaTrcB/8boNMjsH2Z/18609
 
-
-
-
-
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US : CNBC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cnbc.png" group-title="NEWS NETWORKS",US : CNBC----mains.services
-http://mains.services:2086/lorre/3Jy14gb2kR/349
 
 
 
@@ -1275,69 +1264,119 @@ http://iptvtree.net:8080/FM10020/4d136785/16663
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US | CNBC" tvg-logo="" group-title="CANALES PREMIUM 2",US | CNBC---Unlimited 
-http://goldenplay.best:25461/1234/1234/9393
-#EXTINF:-1 tvg-id="" tvg-name="CNBC US" tvg-logo="" group-title="CANALES PREMIUM 2",CNBC US
-http://goldenplay.best:25461/1234/1234/9760
-#EXTINF:-1 tvg-id="" tvg-name="Hentai 2" tvg-logo="" group-title="CANALES PREMIUM 3",Hentai 2
-http://goldenplay.best:25461/1234/1234/14623
-#EXTINF:-1 tvg-id="" tvg-name="Nuart TV" tvg-logo="" group-title="CANALES PREMIUM 3",Nuart TV
-http://goldenplay.best:25461/1234/1234/14668
 
 
-#EXTINF:-1 tvg-ID="cnbc.us" tvg-name="US: CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="US - News",US: CNBC----2022-06-02
+#EXTINF:-1 tvg-ID="cnbc.us" tvg-name="US: CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="US - News",US: CNBC---bestbuyiptv---2022-06-02
 http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/3246
 #EXTINF:-1 tvg-ID="cnbc.uk" tvg-name="UK: CNBC Europe" tvg-logo="https://www.kaleyra.com/wp-content/uploads/2019/03/CNBC-International-logo.jpg" group-title="UK - News",UK: CNBC Europe
 http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/5769
 
 
 
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC US" tvg-logo="" group-title="United States",CNBC US---March 26, 2023
-http://kingsiptv.streamtv.to:8080/eTnw981ICk/8Jii13BmEU/525
-#EXTINF:-1 tvg-id="" tvg-name="NUART ADULT" tvg-logo="" group-title="For Adults",NUART ADULT
-http://kingsiptv.streamtv.to:8080/eTnw981ICk/8Jii13BmEU/78715
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Kids VIP AF" tvg-logo="" group-title="Africa",Da Vinci Kids VIP AF
-http://kingsiptv.streamtv.to:8080/eTnw981ICk/8Jii13BmEU/90219
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD CHANNEL MY" tvg-logo="" group-title="Malaysia",ASIAN FOOD CHANNEL MY
-http://kingsiptv.streamtv.to:8080/eTnw981ICk/8Jii13BmEU/18634
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH HD MY" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/new-zealand/bbc-earth-nz.png" group-title="Malaysia",BBC EARTH HD MY
-http://kingsiptv.streamtv.to:8080/eTnw981ICk/8Jii13BmEU/18610
-#EXTINF:-1 tvg-id="" tvg-name="BBC LIFESTYLE MY" tvg-logo="https://thumbnail.imgbin.com/25/12/19/imgbin-bbc-lifestyle-bbc-entertainment-television-channel-bbc-hausa-a4sWKSBPEF0aFVQh0jtVSP6cA_t.jpg" group-title="Malaysia",BBC LIFESTYLE MY
 
 
 
 
-#EXTINF:-1,US : CNBC---September 3, 2022
+#EXTINF:-1,US : CNBC---securepoint----September 3, 2022
 http://n2086.securepoint.io:25461/H3BH5ZbVs4/aEO5wYdWxp/56586
 #EXTINF:-1,US : CNBC FHD 1080
 http://n2086.securepoint.io:25461/H3BH5ZbVs4/aEO5wYdWxp/53418
 
 
 
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US : CNBC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cnbc.png" group-title="NEWS NETWORKS",US : CNBC---2022-05-28
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US : CNBC" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cnbc.png" group-title="NEWS NETWORKS",US : CNBC---mains.services---2022-05-28
 http://mains.services:2086/lorre/3Jy14gb2kR/349
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="US : CNBC FHD 1080" tvg-logo="http://p2086.securepoint.io:2086/images/4dd5c8598b68e5afa6bf1b106f7c4000.png" group-title="USA FULL HD",US : CNBC FHD 1080
 http://mains.services:2086/lorre/3Jy14gb2kR/64142
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="" group-title="USA",CNBC---2023-02-20
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="" group-title="USA",CNBC---offshorerev---2023-02-20
 http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/136628
 #EXTINF:-1 tvg-id="" tvg-name="CNBC | En" tvg-logo="" group-title="SCANDINAVIAN",CNBC | En
 http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/133613
-#EXTINF:-1 tvg-id="" tvg-name="CNBC | En" tvg-logo="" group-title="SCANDINAVIAN",CNBC | En
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/133612
-#EXTINF:-1 tvg-id="" tvg-name="VN ASIAN FOOD CHANNEL HD " tvg-logo="" group-title="VIETNAM",VN ASIAN FOOD CHANNEL HD 
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/115968
 #EXTINF:-1 tvg-id="" tvg-name="VN DA VINCI LEARNING HD " tvg-logo="" group-title="VIETNAM",VN DA VINCI LEARNING HD 
 http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/115971
+#EXTINF:-1 tvg-id="" tvg-name="VN ASIAN FOOD CHANNEL HD " tvg-logo="" group-title="VIETNAM",VN ASIAN FOOD CHANNEL HD 
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/115968
 #EXTINF:-1 tvg-id="" tvg-name="VN DISCOVERY ASIA HD" tvg-logo="" group-title="VIETNAM",VN DISCOVERY ASIA HD
 http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/115902
+#EXTINF:-1 tvg-id="" tvg-name="AF ZA BBC Lifestyle" tvg-logo="" group-title="DSTV AFRICA",AF ZA BBC Lifestyle
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/116446
+
+
+
+
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA CNBC" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/37/85/06/3785062d-1e97-bfd4-ae3e-25950228ef30/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png" group-title="USA NEWS",USA CNBC---lordstreams---2022-08-22
+http://live.lordstreams.co:8080/david1/david1/2610
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA CNBC LHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/37/85/06/3785062d-1e97-bfd4-ae3e-25950228ef30/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="USA NEWS",USA CNBC LHD
+http://live.lordstreams.co:8080/david1/david1/3714
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="USA CNBC SD" tvg-logo="https://pbs.twimg.com/profile_images/1185182366156894208/pKRddT3o_400x400.png" group-title="USA LOW BANDWIDTH",USA CNBC SD
+http://live.lordstreams.co:8080/david1/david1/21552
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA CNBC UHD" tvg-logo="https://tylerclementi.org/wp-content/uploads/2020/01/msnbc-color-square-dvt-1024x1024.png" group-title="USA NEWS",USA CNBC UHD
+http://live.lordstreams.co:8080/david1/david1/3624
+#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="UK CNBC" tvg-logo="https://cdn.worldvectorlogo.com/logos/cnbc-4.svg" group-title="UK General",UK CNBC
+http://live.lordstreams.co:8080/david1/david1/2310
+
+
+
+
+#EXTINF:-1 tvg-ID="cnbc.uk" tvg-name="UK: CNBC News" tvg-logo="[" group-title="Live: United Kingdom",UK: CNBC News---livegopanel--- January 24, 2024
+http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/12365
+#EXTINF:-1 tvg-ID="cnbcworld.us" tvg-name="VIP US: CNBC HD" tvg-logo="[" group-title="Live: USA",VIP US: CNBC HD
+http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/10676
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: AFC" tvg-logo="" group-title="Live: Vietnam",VIP VTN: AFC
+http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/9857
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: DA VINCI LEARNING HD" tvg-logo="" group-title="Live: Vietnam",VIP VTN: DA VINCI LEARNING HD
+http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/9859
+#EXTINF:-1 tvg-ID="" tvg-name="VIP VTN: Discovery Asia HD" tvg-logo="" group-title="Live: Vietnam",VIP VTN: Discovery Asia HD
+http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/82874
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: BBC Earth HD" tvg-logo="[" group-title="Live: Vietnam",VIP VTN: BBC Earth HD
+http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/9846
+#EXTINF:-1 tvg-ID="" tvg-name="VIP VTN: BBC Lifestyle" tvg-logo="" group-title="Live: Vietnam",VIP VTN: BBC Lifestyle
+http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/82853
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: ASIAN FOOD CHANNEL" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: ASIAN FOOD CHANNEL
+http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/28705
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: Asian Food Channel ID" tvg-logo="" group-title="Live: Indonesia",VIP ID: Asian Food Channel ID
+http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/28812
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: NAT GEO PEOPLE HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: NAT GEO PEOPLE HD
+http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/28658
+
+
+
+
+
+
+#EXTINF:-1,CNBC HD US---clientsportals---
+http://clientsportals.com:2095/egNNqErC/lPZK8XpY/8263
+#EXTINF:-1,CNBC Europe SE
+http://clientsportals.com:2095/egNNqErC/lPZK8XpY/46458
+#EXTINF:-1,CNBC FHD UK
+http://clientsportals.com:2095/egNNqErC/lPZK8XpY/145177
+#EXTINF:-1,CNBC HD UK
+http://clientsportals.com:2095/egNNqErC/lPZK8XpY/202696
+#EXTINF:-1,Nuart TV (18+)
+http://clientsportals.com:2095/egNNqErC/lPZK8XpY/28887
+#EXTINF:-1,Explore Science HD TH [Thai]
+http://clientsportals.com:2095/egNNqErC/lPZK8XpY/115660
+#EXTINF:-1,Asian Food Channel TH
+http://clientsportals.com:2095/egNNqErC/lPZK8XpY/115611
+#EXTINF:-1,Discovery Asia HD TH [Thai-ENG]
+http://clientsportals.com:2095/egNNqErC/lPZK8XpY/115650
+#EXTINF:-1,BBC Earth HD TH 
+http://clientsportals.com:2095/egNNqErC/lPZK8XpY/115621
+#EXTINF:-1,BBC Earth [Thai] TH
+http://clientsportals.com:2095/egNNqErC/lPZK8XpY/115624
+#EXTINF:-1,BBC Lifestyle HD TH  [ENG]
+http://clientsportals.com:2095/egNNqErC/lPZK8XpY/115625
+#EXTINF:-1,BBC Lifestyle HD TH/Disc.Science TH
+http://clientsportals.com:2095/egNNqErC/lPZK8XpY/115626
+#EXTINF:-1,Asian Food PH
+http://clientsportals.com:2095/egNNqErC/lPZK8XpY/141593
+
+
+
+
 
 
 
