@@ -23,6 +23,104 @@ http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil
 #EXTINF:-1 group-title="news" tvg-logo="https://news1live.com/images/social-share-logo.png",news1
 http://news1.live14.com/stream/news1_hi.m3u8
 
+
+
+
+
+#EXTINF:-1 tvg-id="16" tvg-logo-small="http://thaiip.tv/tvlogo2/16.png" tvg-logo="http://thaiip.tv/tvlogo2/16.png" tvg-chno="16" group-title="THAI Digital TV" tvg-name="TNN",TNN 16 HD------
+https://freelive.inwstream.com:1936/freelive-edge/tnn24/playlist.m3u8
+#EXTINF:-1 tvg-id="25" tvg-logo-small="http://thaiip.tv/tvlogo2/25.png" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-chno="25" group-title="THAI Digital TV" tvg-name="GMM25",GMM25 Channel
+https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo-small="http://thaiip.tv/tvlogo2/30.png" tvg-logo="http://thaiip.tv/tvlogo2/30.png" tvg-chno="9" group-title="THAI Digital TV" tvg-name="9",MCOT HD 30
+https://tc-live1.sanook.com/live/22302_ch9.m3u8
+#EXTINF:-1  tvg-id="18" tvg-chno="18" group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/18.png",NEW 18
+http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo-small="http://thaiip.tv/tvlogo2/voicetv.png" tvg-logo="http://thaiip.tv/tvlogo2/voicetv.png" tvg-chno="20" group-title="THAI Digital TV" tvg-name="Voice TV",Voice TV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="22" tvg-logo-small="http://thaiip.tv/tvlogo2/22.png" tvg-logo="http://thaiip.tv/tvlogo2/22.png" tvg-chno="22" group-title="THAI Digital TV" tvg-name="NATION TV",NATION TV 22
+https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo-small="http://www.guimee.com/as/tv/img/logo/ch5.jpg" tvg-logo="http://www.guimee.com/as/tv/img/logo/ch5.jpg" tvg-chno="1" group-title="THAI Digital TV" tvg-name="5",THAI 5
+https://tc-live1.sanook.com/live/22302_ch5.m3u8
+#EXTINF:-1  tvg-id="2" tvg-logo-small="http://thaiip.tv/tvlogo2/2.png" tvg-logo="http://thaiip.tv/tvlogo2/2.png" tvg-chno="2" group-title="THAI Digital TV" tvg-name="NBT2",NBT 2
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="33" tvg-logo-small="http://thaiip.tv/tvlogo2/33.png" tvg-logo="http://thaiip.tv/tvlogo2/33.png" tvg-chno="33" group-title="THAI Digital TV" tvg-name="3",THAI 33 HD
+http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
+#EXTINF:-1 tvg-id="34" tvg-logo-small="http://thaiip.tv/tvlogo2/34.png" tvg-logo="http://thaiip.tv/tvlogo2/34.png" tvg-chno="34" group-title="THAI Digital TV" tvg-name="Amarin TV",Amarin TV Thai HD
+http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
+#EXTINF:-1 tvg-id="35" tvg-logo-small="http://thaiip.tv/tvlogo2/35.png" tvg-logo="http://thaiip.tv/tvlogo2/35.png" tvg-chno="35" group-title="THAI Digital TV" tvg-name="7",THAI 7HD
+https://edge161.bugaboo.tv/liveedgech7_partner/smil:auto.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="36" tvg-logo-small="http://thaiip.tv/tvlogo2/36.png" tvg-logo="http://thaiip.tv/tvlogo2/36.png" tvg-chno="36" group-title="THAI Digital TV" tvg-name="PPTV",PPTV HD
+https://pptv36-1tsjfj.cdn.byteark.com/live/pl_1080p/index.m3u8
+#EXTINF:-1  tvg-id="28" tvg-chno="28" group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-23-112706.png",CABLE 37 HD
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 tvg-id="29" tvg-logo-small="http://thaiip.tv/tvlogo2/29.png" tvg-logo="http://thaiip.tv/tvlogo2/29.png" tvg-chno="29" group-title="THAI Digital TV" tvg-name="Mono29",MONO29 HD
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
+#EXTINF:-1 tvg-id="11" tvg-chno="11" tvg-logo=https://www.inwiptv.com/postor/20200512164154fwmov.jpg",FW MOV
+https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/hd-ch5.png",5 HD-----freelive
+https://freelive.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/sd-nbt.png",NBT
+https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/hd-tpbs.png",Thai PBS
+https://freelive.inwstream.com:1936/freelive-edge/thaipbs/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://i.imgur.com/Jrqo8JP.png",TPTV
+https://freelive.inwstream.com:1936/freelive-edge/tptv/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/sd-tnn24.png",TNN 16
+https://freelive.inwstream.com:1936/freelive-edge/tnn24/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/sd-new.png",NEW TV
+https://freelive.inwstream.com:1936/freelive-edge/newstv/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/sd-nation.png",NATION TV
+https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/hd-workpoint.png"",WORK POINT
+https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/sd-24u.png",True4u
+https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/sd-gmmchannel.png",GMM25
+https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/hd-ch8.png", ch8
+https://freelive.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/hd-mono.png",MONO29 HD
+https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/hd-mcot.png",MCOT HD
+https://freelive.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/hd-gmmone.png",,GMM ONE HD
+https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/hd-thairath.png",Thairath HD
+https://freelive.inwstream.com:1936/freelive-edge/thairahttvhd/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/hd-ch3.png",3 HD
+https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/hd-amarin.png",Amarin
+https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/hd-ch7.png",7HD
+https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/hd-pptv.png",PPTV HD
+https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Kid" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-26-110639.jpg",FW TOON
+https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-062407.jpg",Zeenung
+https://freelive.inwstream.com:1936/freelive-edge/zeenang/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://dl.dropbox.com/s/gi9xnnuhc5xw8hi/FWmov.png?dl=0",Fwmov
+https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://dl.dropbox.com/s/5w0s0b4gnn7y05u/FWson.png?dl=0",Fwsov
+https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN24----------3bb
 http://edge1-bkk.3bb.co.th:1935/Edge_Cloudiptv_Authen/broadcastwowza64_tnn24_live1.stream/playlist.m3u8?username=E3HG6HsIng8AEjPOuYfc2jm2DcvRwUU9&password=KU3wvFiIVclD8TaBWhRgadRdhEO5P0pp
 #EXTINF:-1 group-title="Free_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png",gmm25_3bb
@@ -1277,7 +1375,7 @@ http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/5769
 
 
 
-#EXTINF:-1,US : CNBC---securepoint----September 3, 2022
+#EXTINF:-1,US : CNBC---securepoint----September 3-2022
 http://n2086.securepoint.io:25461/H3BH5ZbVs4/aEO5wYdWxp/56586
 #EXTINF:-1,US : CNBC FHD 1080
 http://n2086.securepoint.io:25461/H3BH5ZbVs4/aEO5wYdWxp/53418
@@ -1291,18 +1389,6 @@ http://mains.services:2086/lorre/3Jy14gb2kR/64142
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="" group-title="USA",CNBC---offshorerev---2023-02-20
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/136628
-#EXTINF:-1 tvg-id="" tvg-name="CNBC | En" tvg-logo="" group-title="SCANDINAVIAN",CNBC | En
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/133613
-#EXTINF:-1 tvg-id="" tvg-name="VN DA VINCI LEARNING HD " tvg-logo="" group-title="VIETNAM",VN DA VINCI LEARNING HD 
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/115971
-#EXTINF:-1 tvg-id="" tvg-name="VN ASIAN FOOD CHANNEL HD " tvg-logo="" group-title="VIETNAM",VN ASIAN FOOD CHANNEL HD 
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/115968
-#EXTINF:-1 tvg-id="" tvg-name="VN DISCOVERY ASIA HD" tvg-logo="" group-title="VIETNAM",VN DISCOVERY ASIA HD
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/115902
-#EXTINF:-1 tvg-id="" tvg-name="AF ZA BBC Lifestyle" tvg-logo="" group-title="DSTV AFRICA",AF ZA BBC Lifestyle
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/116446
 
 
 
@@ -1321,7 +1407,7 @@ http://live.lordstreams.co:8080/david1/david1/2310
 
 
 
-#EXTINF:-1 tvg-ID="cnbc.uk" tvg-name="UK: CNBC News" tvg-logo="[" group-title="Live: United Kingdom",UK: CNBC News---livegopanel--- January 24, 2024
+#EXTINF:-1 tvg-ID="cnbc.uk" tvg-name="UK: CNBC News" tvg-logo="[" group-title="Live: United Kingdom",UK: CNBC News---livegopanel--- January 24- 2024
 http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/12365
 #EXTINF:-1 tvg-ID="cnbcworld.us" tvg-name="VIP US: CNBC HD" tvg-logo="[" group-title="Live: USA",VIP US: CNBC HD
 http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/10676
@@ -1342,7 +1428,8 @@ http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/28812
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: NAT GEO PEOPLE HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: NAT GEO PEOPLE HD
 http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/28658
 
-
+#EXTINF:-1 tvg-ID="cnbcworld.us" tvg-name="VIP US: CNBC HD" tvg-logo="[" group-title="Live: USA",VIP US: CNBC HD----livegopanel---April 18- 2023
+http://livegopanel.club:8080/XAhtVPNKpr/ETVgumDxS3/10676
 
 
 
@@ -1376,10 +1463,74 @@ http://clientsportals.com:2095/egNNqErC/lPZK8XpY/141593
 
 
 
+#EXTINF:-1,VIP US: CNBC HD---umetvpro---December 29-2022
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/10676
+#EXTINF:-1,UK: CNBC News
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/12365
+#EXTINF:-1,VIP VTN: DA VINCI LEARNING HD
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/9859
+#EXTINF:-1,VIP VTN: AFC
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/9857
+#EXTINF:-1,VIP VTN: BBC Earth HD
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/9846
+#EXTINF:-1,VIP VTN: BBC Lifestyle
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/82853
+#EXTINF:-1,RO: DaVinci Learning
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/50360
+#EXTINF:-1,VIP MYM: Asian Food Channel
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/30336
+#EXTINF:-1,VIP MYM: BBC Earth
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/30333
+#EXTINF:-1,VIP MYM: Nat Geo People
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/30316
+#EXTINF:-1,VIP MLZ: ASIAN FOOD CHANNEL
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/28705
+#EXTINF:-1,VIP MLZ: BBC EARTH HD
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/28694
+#EXTINF:-1,VIP MLZ: BBC LIFESTYLE
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/28693
+#EXTINF:-1,VIP MLZ: NAT GEO ASIA HD
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/28659
+#EXTINF:-1,VIP MLZ: NAT GEO PEOPLE HD
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/28658
+#EXTINF:-1,VIP TH: AFN
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/33241
+#EXTINF:-1,VIP TH: BBC Earth HD
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/42642
+#EXTINF:-1,VIP TH: BBC Lifestyle HD
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/42641
+#EXTINF:-1,VIP TH: DISCOVERY ASIA HD
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/10896
+#EXTINF:-1,VIP TH: Explore Science
+http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/10883
+
+
+#EXTINF:-1,UK: CNBC News---umetvpro---December 31, 2022
+http://umetvpro.top:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/12365
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="- IPTV",FTV Midnight Secrets (UHD)-----
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",Channel News Asia--
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png",CGTN--
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="news" tvg-logo="https://2.bp.blogspot.com/-lHlxHc18alU/WdLY695HjBI/AAAAAAAAAKI/j_IaYwCqNqof8lgnEf7BCDV8PX2tuEj2gCLcBGAs/s320/071.png",DWTV---------
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 
 
