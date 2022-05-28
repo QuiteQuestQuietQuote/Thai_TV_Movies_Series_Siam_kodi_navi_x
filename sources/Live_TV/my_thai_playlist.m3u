@@ -27,36 +27,41 @@ http://news1.live14.com/stream/news1_hi.m3u8
 
 
 
-#EXTINF:-1 tvg-id="16" tvg-logo-small="http://thaiip.tv/tvlogo2/16.png" tvg-logo="http://thaiip.tv/tvlogo2/16.png" tvg-chno="16" group-title="THAI Digital TV" tvg-name="TNN",TNN 16 HD------
+#EXTINF:-1 group-title="news" tvg-logo="http://image.free.in.th/v/2013/ih/180630074200.png",TNN 16 HD------
 https://freelive.inwstream.com:1936/freelive-edge/tnn24/playlist.m3u8
-#EXTINF:-1 tvg-id="25" tvg-logo-small="http://thaiip.tv/tvlogo2/25.png" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-chno="25" group-title="THAI Digital TV" tvg-name="GMM25",GMM25 Channel
+#EXTINF:-1,GMM25 Channel
 https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="9" tvg-logo-small="http://thaiip.tv/tvlogo2/30.png" tvg-logo="http://thaiip.tv/tvlogo2/30.png" tvg-chno="9" group-title="THAI Digital TV" tvg-name="9",MCOT HD 30
+#EXTINF:-1,MCOT HD 30
 https://tc-live1.sanook.com/live/22302_ch9.m3u8
-#EXTINF:-1  tvg-id="18" tvg-chno="18" group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/18.png",NEW 18
+#EXTINF:-1,NEW 18
 http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8
-#EXTINF:-1 tvg-id="20" tvg-logo-small="http://thaiip.tv/tvlogo2/voicetv.png" tvg-logo="http://thaiip.tv/tvlogo2/voicetv.png" tvg-chno="20" group-title="THAI Digital TV" tvg-name="Voice TV",Voice TV
+#EXTINF:-1,Voice TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="22" tvg-logo-small="http://thaiip.tv/tvlogo2/22.png" tvg-logo="http://thaiip.tv/tvlogo2/22.png" tvg-chno="22" group-title="THAI Digital TV" tvg-name="NATION TV",NATION TV 22
+#EXTINF:-1,NATION TV 22
 https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo-small="http://www.guimee.com/as/tv/img/logo/ch5.jpg" tvg-logo="http://www.guimee.com/as/tv/img/logo/ch5.jpg" tvg-chno="1" group-title="THAI Digital TV" tvg-name="5",THAI 5
+#EXTINF:-1,THAI 5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
-#EXTINF:-1  tvg-id="2" tvg-logo-small="http://thaiip.tv/tvlogo2/2.png" tvg-logo="http://thaiip.tv/tvlogo2/2.png" tvg-chno="2" group-title="THAI Digital TV" tvg-name="NBT2",NBT 2
+#EXTINF:-1,NBT 2
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="33" tvg-logo-small="http://thaiip.tv/tvlogo2/33.png" tvg-logo="http://thaiip.tv/tvlogo2/33.png" tvg-chno="33" group-title="THAI Digital TV" tvg-name="3",THAI 33 HD
+#EXTINF:-1,THAI 33 HD
 http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
-#EXTINF:-1 tvg-id="34" tvg-logo-small="http://thaiip.tv/tvlogo2/34.png" tvg-logo="http://thaiip.tv/tvlogo2/34.png" tvg-chno="34" group-title="THAI Digital TV" tvg-name="Amarin TV",Amarin TV Thai HD
+#EXTINF:-1,Amarin TV Thai HD
 http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
-#EXTINF:-1 tvg-id="35" tvg-logo-small="http://thaiip.tv/tvlogo2/35.png" tvg-logo="http://thaiip.tv/tvlogo2/35.png" tvg-chno="35" group-title="THAI Digital TV" tvg-name="7",THAI 7HD
+#EXTINF:-1,THAI 7HD
 https://edge161.bugaboo.tv/liveedgech7_partner/smil:auto.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="36" tvg-logo-small="http://thaiip.tv/tvlogo2/36.png" tvg-logo="http://thaiip.tv/tvlogo2/36.png" tvg-chno="36" group-title="THAI Digital TV" tvg-name="PPTV",PPTV HD
+#EXTINF:-1,PPTV HD
 https://pptv36-1tsjfj.cdn.byteark.com/live/pl_1080p/index.m3u8
-#EXTINF:-1  tvg-id="28" tvg-chno="28" group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-23-112706.png",CABLE 37 HD
+#EXTINF:-1,CABLE 37 HD
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-#EXTINF:-1 tvg-id="29" tvg-logo-small="http://thaiip.tv/tvlogo2/29.png" tvg-logo="http://thaiip.tv/tvlogo2/29.png" tvg-chno="29" group-title="THAI Digital TV" tvg-name="Mono29",MONO29 HD
+#EXTINF:-1,MONO29 HD
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
-#EXTINF:-1 tvg-id="11" tvg-chno="11" tvg-logo=https://www.inwiptv.com/postor/20200512164154fwmov.jpg",FW MOV
+#EXTINF:-1,FW MOV
 https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Digital TV" tvg-id="Mono29.th" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnh0e.png",Mono29 HD-----------edge2-bkk.3bb
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8
 
 
 
@@ -1268,12 +1273,6 @@ http://iptv.tvmalaysia.cc:80/962899/962899/8776
 http://iptv.tvmalaysia.cc:80/962899/962899/6766
 
 
-#EXTINF:-1,Asian Food Network HD---962899---tvmalaysia
-http://iptv.tvmalaysia.cc:80/962899/962899/6693
-#EXTINF:-1,Asian Food Network HD
-http://iptv.tvmalaysia.cc:80/271282/271282/6693
-#EXTINF:-1,Asian Food Network HD-----------------
-http://iptv.tvmalaysia.cc:80/penang297/penang297/6693
 
 
 
@@ -1342,7 +1341,6 @@ http://fastrunner.live:8080/dumyEaTrcB/8boNMjsH2Z/18609
 
 
 
-
 #EXTINF:-1,US: CNBC FHD---iptvtree
 http://iptvtree.net:8080/FM10020/4d136785/2295
 #EXTINF:-1,RO: Da Vinci Kids HD
@@ -1361,13 +1359,6 @@ http://iptvtree.net:8080/FM10020/4d136785/157529
 http://iptvtree.net:8080/FM10020/4d136785/16663
 
 
-
-
-
-#EXTINF:-1 tvg-ID="cnbc.us" tvg-name="US: CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="US - News",US: CNBC---bestbuyiptv---2022-06-02
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/3246
-#EXTINF:-1 tvg-ID="cnbc.uk" tvg-name="UK: CNBC Europe" tvg-logo="https://www.kaleyra.com/wp-content/uploads/2019/03/CNBC-International-logo.jpg" group-title="UK - News",UK: CNBC Europe
-http://bestbuyiptv.live:8080/republicwe4-restream/zE6A9aJ6123456/5769
 
 
 
@@ -1407,41 +1398,13 @@ http://live.lordstreams.co:8080/david1/david1/2310
 
 
 
-#EXTINF:-1 tvg-ID="cnbc.uk" tvg-name="UK: CNBC News" tvg-logo="[" group-title="Live: United Kingdom",UK: CNBC News---livegopanel--- January 24- 2024
-http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/12365
-#EXTINF:-1 tvg-ID="cnbcworld.us" tvg-name="VIP US: CNBC HD" tvg-logo="[" group-title="Live: USA",VIP US: CNBC HD
-http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/10676
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: AFC" tvg-logo="" group-title="Live: Vietnam",VIP VTN: AFC
-http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/9857
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: DA VINCI LEARNING HD" tvg-logo="" group-title="Live: Vietnam",VIP VTN: DA VINCI LEARNING HD
-http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/9859
-#EXTINF:-1 tvg-ID="" tvg-name="VIP VTN: Discovery Asia HD" tvg-logo="" group-title="Live: Vietnam",VIP VTN: Discovery Asia HD
-http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/82874
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: BBC Earth HD" tvg-logo="[" group-title="Live: Vietnam",VIP VTN: BBC Earth HD
-http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/9846
-#EXTINF:-1 tvg-ID="" tvg-name="VIP VTN: BBC Lifestyle" tvg-logo="" group-title="Live: Vietnam",VIP VTN: BBC Lifestyle
-http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/82853
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: ASIAN FOOD CHANNEL" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: ASIAN FOOD CHANNEL
-http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/28705
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: Asian Food Channel ID" tvg-logo="" group-title="Live: Indonesia",VIP ID: Asian Food Channel ID
-http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/28812
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: NAT GEO PEOPLE HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: NAT GEO PEOPLE HD
-http://livegopanel.club:8080/dBS207ecU9JyFehZ/8c6fQ1NH3V970zJe/28658
-
-#EXTINF:-1 tvg-ID="cnbcworld.us" tvg-name="VIP US: CNBC HD" tvg-logo="[" group-title="Live: USA",VIP US: CNBC HD----livegopanel---April 18- 2023
-http://livegopanel.club:8080/XAhtVPNKpr/ETVgumDxS3/10676
-
 
 
 
 #EXTINF:-1,CNBC HD US---clientsportals---
 http://clientsportals.com:2095/egNNqErC/lPZK8XpY/8263
-#EXTINF:-1,CNBC Europe SE
-http://clientsportals.com:2095/egNNqErC/lPZK8XpY/46458
 #EXTINF:-1,CNBC FHD UK
 http://clientsportals.com:2095/egNNqErC/lPZK8XpY/145177
-#EXTINF:-1,CNBC HD UK
-http://clientsportals.com:2095/egNNqErC/lPZK8XpY/202696
 #EXTINF:-1,Nuart TV (18+)
 http://clientsportals.com:2095/egNNqErC/lPZK8XpY/28887
 #EXTINF:-1,Explore Science HD TH [Thai]
@@ -1463,56 +1426,84 @@ http://clientsportals.com:2095/egNNqErC/lPZK8XpY/141593
 
 
 
-#EXTINF:-1,VIP US: CNBC HD---umetvpro---December 29-2022
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/10676
-#EXTINF:-1,UK: CNBC News
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/12365
-#EXTINF:-1,VIP VTN: DA VINCI LEARNING HD
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/9859
-#EXTINF:-1,VIP VTN: AFC
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/9857
-#EXTINF:-1,VIP VTN: BBC Earth HD
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/9846
-#EXTINF:-1,VIP VTN: BBC Lifestyle
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/82853
-#EXTINF:-1,RO: DaVinci Learning
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/50360
-#EXTINF:-1,VIP MYM: Asian Food Channel
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/30336
-#EXTINF:-1,VIP MYM: BBC Earth
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/30333
-#EXTINF:-1,VIP MYM: Nat Geo People
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/30316
-#EXTINF:-1,VIP MLZ: ASIAN FOOD CHANNEL
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/28705
-#EXTINF:-1,VIP MLZ: BBC EARTH HD
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/28694
-#EXTINF:-1,VIP MLZ: BBC LIFESTYLE
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/28693
-#EXTINF:-1,VIP MLZ: NAT GEO ASIA HD
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/28659
-#EXTINF:-1,VIP MLZ: NAT GEO PEOPLE HD
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/28658
-#EXTINF:-1,VIP TH: AFN
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/33241
-#EXTINF:-1,VIP TH: BBC Earth HD
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/42642
-#EXTINF:-1,VIP TH: BBC Lifestyle HD
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/42641
-#EXTINF:-1,VIP TH: DISCOVERY ASIA HD
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/10896
-#EXTINF:-1,VIP TH: Explore Science
-http://umetvpro.top:8080/7OIKriXj0X/UolRslgm31/10883
-
-
-#EXTINF:-1,UK: CNBC News---umetvpro---December 31, 2022
-http://umetvpro.top:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/12365
 
 
 
 
 
 
+#EXTINF:-1,CNBC HD US-----clientsportals.tv-----11/19/2021
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/8263
+#EXTINF:-1,DaVinci Learning RO
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/36174
+#EXTINF:-1,Nuart TV (18+)
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/28887
+#EXTINF:-1,Babes TV FHD (18+)
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/38497
+#EXTINF:-1,Skye Blue (18+)
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/172338
+#EXTINF:-1,N1 Adult - OnlyFans Mix 1 (18+)
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/71635
+#EXTINF:-1,N1 Adult - OnlyFans Mix 2 (18+
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/23432
+#EXTINF:-1,N1 Adult - OnlyFans Yannalux (18+)
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/91396
+#EXTINF:-1,N1 Adult - Fit 18 HD (18+)
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/192675
+#EXTINF:-1,Explore Science HD TH [Thai]
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/115660
+#EXTINF:-1,Asian Food Channel TH
+http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/115611
+
+
+
+
+#EXTINF:-1,CNBC FHD US---------45.12.1.14--------April 10- 2023
+http://45.12.1.14:80/Zoldyckkillua/MMz2nM901/9028
+#EXTINF:-1,CNBC FHD UK
+http://45.12.1.14:80/Zoldyckkillua/MMz2nM901/29301
+#EXTINF:-1,Da Vinci Learning RO
+http://45.12.1.14:80/Zoldyckkillua/MMz2nM901/14628
+#EXTINF:-1,Asian Food Network MY
+http://45.12.1.14:80/Zoldyckkillua/MMz2nM901/99907
+#EXTINF:-1,Food Network TH
+http://45.12.1.14:80/Zoldyckkillua/MMz2nM901/17105
+#EXTINF:-1,OSN National Geographic People HD AE
+http://45.12.1.14:80/Zoldyckkillua/MMz2nM901/12828
+#EXTINF:-1,BBC Lifestyle Polska FHD PL
+http://45.12.1.14:80/Zoldyckkillua/MMz2nM901/23318
+#EXTINF:-1,BBC Earth HD CA
+http://45.12.1.14:80/Zoldyckkillua/MMz2nM901/99916
+
+
+
+
+
+#EXTINF:-1,US: CNBC HD-----anonymoustv-----September 23- 2022
+http://anonymoustv.club:80/c0TjrCzo/6RRKlFRdaZ/16780
+#EXTINF:-1,[UK] CNBC Europe FHD
+http://anonymoustv.club:80/c0TjrCzo/6RRKlFRdaZ/166095
+#EXTINF:-1,[UK] BBC Earth FHD
+http://anonymoustv.club:80/c0TjrCzo/6RRKlFRdaZ/183574
+#EXTINF:-1,AR: OSN Discovery Science HD
+http://anonymoustv.club:80/c0TjrCzo/6RRKlFRdaZ/8064
+#EXTINF:-1,AR: OSN Nat Geo People HD
+http://anonymoustv.club:80/c0TjrCzo/6RRKlFRdaZ/8189
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgCcJ.jpg",BBC lifestyle---3bbtv---mpd---test
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/205/205.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTu4BSR.png",BBC EARTH
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/503/503.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/RushStories.png",RUSH Stories
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/203/203.mpd
+#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/AlureChannel.png",A'lure Channel
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd
 
 
 
@@ -1522,7 +1513,52 @@ http://umetvpro.top:8080/79KN70qyuZzfhjhV/6qSPUsypwB1hzxdj/12365
 
 
 
+#EXTINF:-1,HBO HD------venomtt------test
+http://venomtt.com:8000/50008886345739/89012372053799/75173
+ 
+#EXTINF:-1,FOX Movies HD
+http://venomtt.com:8000/50008886345739/89012372053799/87427
+ 
+#EXTINF:-1,MOVIES HD 1
+http://venomtt.com:8000/50008886345739/89012372053799/87396
+ 
+#EXTINF:-1,MOVIES HD 2
+http://venomtt.com:8000/50008886345739/89012372053799/87397
+ 
+#EXTINF:-1,MOVIES HD 3
+http://venomtt.com:8000/50008886345739/89012372053799/87398
+ 
+#EXTINF:-1,MOVIES HD 4
+http://venomtt.com:8000/50008886345739/89012372053799/87399
+ 
+#EXTINF:-1,Fox Movies HD
+http://venomtt.com:8000/50367232966869/93327590304333/87427
+ 
+#EXTINF:-1,Fox Action Movies HD
+http://venomtt.com:8000/50367232966869/93327590304333/87428
+ 
+#EXTINF:-1,HBO Comedy HD
+http://venomtt.com:8000/50008886345739/89012372053799/75137
+ 
+#EXTINF:-1,HBO Family HD
+http://venomtt.com:8000/50008886345739/89012372053799/75172
+ 
+#EXTINF:-1,HBO HD
+http://venomtt.com:8000/50008886345739/89012372053799/75173
+ 
+#EXTINF:-1,Movies4Men
+http://venomtt.com:8000/50008886345739/89012372053799/47403
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="news" tvg-logo="http://www.doomovie4k.com/icon/bloomberg.png",Bloomberg News HD-----
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="- IPTV",FTV Midnight Secrets (UHD)-----
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",Channel News Asia--
