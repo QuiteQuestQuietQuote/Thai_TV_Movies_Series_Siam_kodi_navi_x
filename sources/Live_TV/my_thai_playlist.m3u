@@ -60,6 +60,29 @@ https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.
 
 
 
+
+
+#EXTINF:-1 group-title=""tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6I0q.png",NationsHD--------------
+https://stream-04.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSVo1DW6QwMP2q9Bkwd1UPR0)/dm/3/x6eoldf/d/live-3.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMn9yv.png",Workpiont HD
+https://stream-01.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8sXcp6tIO-kgKlpGCRmlgqw)/dm/3/x6g9qjj/s/live-4.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnB8t.png",True4You
+http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6Gj9.png",Gmm25 HD
+https://stream-01.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8sXcp6tIO-kgKlpGCRmlgqw)/dm/3/x6g9qjj/s/live-4.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnNUP.png",ch8 HD
+https://stream-05.sg1.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOuTprnQVnUAUHXkBZCHZnkc)/dm/3/x84ukk7/s/live-2.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnh0e.png",Mono29 HD
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMn4NI.png",Mcot HD
+https://stream-04.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xoc1aXR7Eut3x3woKlcjvW8)/dm/3/x74wlgj/s/live-2.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnYvZ.png",ONE31 HD
+https://stream-04.sg1.dailymotion.com/sec(-0fhsFhycCtfi6ARUwilaIzLyQse9oGmZkoTLtkxDXg)/dm/3/x6824x8/s/live-3.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="Digital TV" tvg-id="Mono29.th" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnh0e.png",Mono29 HD-----------edge2-bkk.3bb
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8
 
@@ -1187,14 +1210,44 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 
 
 
+#EXTINF:-1,HBO HD------venomtt------test
+http://venomtt.com:8000/50008886345739/89012372053799/75173
+ 
+#EXTINF:-1,FOX Movies HD
+http://venomtt.com:8000/50008886345739/89012372053799/87427
+ 
+#EXTINF:-1,MOVIES HD 1
+http://venomtt.com:8000/50008886345739/89012372053799/87396
+ 
+#EXTINF:-1,MOVIES HD 2
+http://venomtt.com:8000/50008886345739/89012372053799/87397
+ 
+#EXTINF:-1,MOVIES HD 3
+http://venomtt.com:8000/50008886345739/89012372053799/87398
+ 
+#EXTINF:-1,MOVIES HD 4
+http://venomtt.com:8000/50008886345739/89012372053799/87399
+ 
+#EXTINF:-1,Fox Movies HD
+http://venomtt.com:8000/50367232966869/93327590304333/87427
+ 
+#EXTINF:-1,Fox Action Movies HD
+http://venomtt.com:8000/50367232966869/93327590304333/87428
+ 
+#EXTINF:-1,HBO Comedy HD
+http://venomtt.com:8000/50008886345739/89012372053799/75137
+ 
+#EXTINF:-1,HBO Family HD
+http://venomtt.com:8000/50008886345739/89012372053799/75172
+ 
+#EXTINF:-1,HBO HD
+http://venomtt.com:8000/50008886345739/89012372053799/75173
+ 
+#EXTINF:-1,Movies4Men
+http://venomtt.com:8000/50008886345739/89012372053799/47403
 
 
-#EXTINF:-1,|PT| CNBC--------185
-http://185.71.64.167:80/8686607865/1287859652/81700
-#EXTINF:-1,|UK|SD| CNBC
-http://185.71.64.167:80/8686607865/1287859652/80316
-#EXTINF:-1,|OSN| CNBC EUROPE
-http://185.71.64.167:80/8686607865/1287859652/78914
+
 
 
 
@@ -1384,17 +1437,6 @@ http://mains.services:2086/lorre/3Jy14gb2kR/64142
 
 
 
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA CNBC" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/37/85/06/3785062d-1e97-bfd4-ae3e-25950228ef30/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png" group-title="USA NEWS",USA CNBC---lordstreams---2022-08-22
-http://live.lordstreams.co:8080/david1/david1/2610
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA CNBC LHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/37/85/06/3785062d-1e97-bfd4-ae3e-25950228ef30/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="USA NEWS",USA CNBC LHD
-http://live.lordstreams.co:8080/david1/david1/3714
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="USA CNBC SD" tvg-logo="https://pbs.twimg.com/profile_images/1185182366156894208/pKRddT3o_400x400.png" group-title="USA LOW BANDWIDTH",USA CNBC SD
-http://live.lordstreams.co:8080/david1/david1/21552
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA CNBC UHD" tvg-logo="https://tylerclementi.org/wp-content/uploads/2020/01/msnbc-color-square-dvt-1024x1024.png" group-title="USA NEWS",USA CNBC UHD
-http://live.lordstreams.co:8080/david1/david1/3624
-#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="UK CNBC" tvg-logo="https://cdn.worldvectorlogo.com/logos/cnbc-4.svg" group-title="UK General",UK CNBC
-http://live.lordstreams.co:8080/david1/david1/2310
-
 
 
 
@@ -1436,24 +1478,160 @@ http://clientsportals.com:2095/egNNqErC/lPZK8XpY/141593
 http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/8263
 #EXTINF:-1,DaVinci Learning RO
 http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/36174
-#EXTINF:-1,Nuart TV (18+)
-http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/28887
-#EXTINF:-1,Babes TV FHD (18+)
-http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/38497
-#EXTINF:-1,Skye Blue (18+)
-http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/172338
-#EXTINF:-1,N1 Adult - OnlyFans Mix 1 (18+)
-http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/71635
-#EXTINF:-1,N1 Adult - OnlyFans Mix 2 (18+
-http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/23432
-#EXTINF:-1,N1 Adult - OnlyFans Yannalux (18+)
-http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/91396
-#EXTINF:-1,N1 Adult - Fit 18 HD (18+)
-http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/192675
 #EXTINF:-1,Explore Science HD TH [Thai]
 http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/115660
 #EXTINF:-1,Asian Food Channel TH
 http://clientsportals.tv:2095/amd1PT4h/tRHJ8Ajy/115611
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="KidsTV"tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAKOj9.png",Da Vinci Kids-----Kids
+http://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KidsTV"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTCOvk.jpg",CONTV Anime
+https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
+
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/37impVJ",CCM-----TRUEVISIONS
+https://mediasv.online/stream_live/233_CCM/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3pRm8iJ",AXN
+https://mediasv.online/stream_live/336_AXN/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3vO1aVX",TRUE THAI FILM
+https://mediasv.online/stream_live/236_TrueThaiFilmHD/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3tLnpck",TrueFilmAsia
+https://mediasv.online/stream_live/237_TrueFilmAsia/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3hVQRad",TRUE MOVIE HITS
+https://mediasv.online/stream_live/224_MovieHit/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3tIrXAh",TRUE FILM 1
+https://mediasv.online/stream_live/222_True_Film_HD/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3hUcLKY",TRUE FILM 2
+https://mediasv.online/stream_live/223_True_Film_HD2/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3pRgyx0",TRUE CHAINESE MORE
+https://mediasv.online/stream_live/225_TrueChinessMore/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SoYof.png",TRUE ASIAN MORE
+https://mediasv.online/stream_live/239_AsianMore/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SltvW.png",TRUE KOREAN MORE
+https://mediasv.online/stream_live/238_KoreanMore/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://sv1.picz.in.th/images/2022/02/27/r5q4IS.png",TVB
+https://mediasv.online/stream_live/235_TVB/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://sv1.picz.in.th/images/2022/02/27/r5qKCJ.png",KMTV
+https://mediasv.online/stream_live/347_KMTV/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113151022koreanmore.png",KBS
+https://mediasv.online/stream_live/245_KBS/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3Hk7HKd",Rock_Entertainment
+https://mediasv.online/stream_live/337_Rock_Entertainment/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://sv1.picz.in.th/images/2021/11/20/6zlslb.png",ROCK EXTREME
+https://mediasv.online/stream_live/338_Rock_Extreme/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220301173826paramount.jpg",Paramount
+https://mediasv.online/stream_live/232_Paramount/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220301173818warner.webp",warner
+https://mediasv.online/stream_live/228_warner/playlist.m3u8?
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3soQATg",OUTDOOR
+https://mediasv.online/stream_live/673_OUTDOOR/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3C1o6lx",Food_Network
+https://mediasv.online/stream_live/342_Food_Network/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://www.img.in.th/images/c895d79e8c08314c7e27141dd6f9793f.jpg",GEM
+https://mediasv.online/stream_live/244_GEM/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3HlfozK",TrueInsideHD
+https://mediasv.online/stream_live/335_TrueInsideHD/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://www.img.in.th/images/338f02ba80c47db2bafcc83d17d8b0cb.png",TVN
+https://mediasv.online/stream_live/566_TLC/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.tvjaa.com/storage/tv-channels/ctbtv.png",CTB------Ente
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17129634_ico.png",Channel 8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SEkEv.png",Sun Movie
+http://61.19.242.134/feed/202105171329/LC1/index.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SEqzD.png",Samurai
+http://61.19.242.134/feed/202105171329/LC2/index.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SE6nZ.png",Movies World 1
+http://61.19.242.134/feed/202105171329/LC11/index.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 1
+http://203.159.95.172:8081/live/action001/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 2
+http://203.159.95.172:8081/live/banner003/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 2
+http://203.159.95.172:8081/live/comedy1/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2021/12/13/6CQcK1.png",FusoSerie 1
+http://203.159.95.172:8081/live/banner0002/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2021/12/13/6CQcK1.png",FusoSerie 2
+http://203.159.95.172:8081/live/invest003/playlist.m3u8
+
+#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlZYcJ.png",KhongDee-----GoodTV
+https://mediasv.online/stream_live/goodtv37_KhongDee./playlist.m3u8
+#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlcGen.png",Busaba
+https://mediasv.online/stream_live/goodtv38_Busaba./playlist.m3u8
+#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlcMnD.png",JustFun
+https://mediasv.online/stream_live/goodtv39_JustFun./playlist.m3u8
+#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlgU0N.png",ThaiNess
+https://mediasv.online/stream_live/goodtv40_ThaiNess./playlist.m3u8
+#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlgXBz.png",RealMetro
+https://mediasv.online/stream_live/goodtv41_RealMetro./playlist.m3u8
+#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rliQfq.png",Sweet
+https://mediasv.online/stream_live/goodtv42_Sweet./playlist.m3u8
+#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlivhg.png",Heart
+https://mediasv.online/stream_live/goodtv43_Heart./playlist.m3u8
+#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlR7ha.png",Hero
+https://mediasv.online/stream_live/goodtv44_Hero./playlist.m3u8
+#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqWPD.png",Sumlojlok
+https://mediasv.online/stream_live/goodtv55_Sumlojlok./playlist.m3u8
+#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlRQAQ.png",AnimalShow
+https://mediasv.online/stream_live/goodtv56_AnimalShow./playlist.m3u8
+#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlRu3f.png",BXcite
+https://mediasv.online/stream_live/goodtv57_BXcite./playlist.m3u8
+#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/nexdeI.png",MYSci
+https://mediasv.online/stream_live/goodtv58_MYSci./playlist.m3u8
+#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlRVnR.png",New_Explorer
+https://mediasv.online/stream_live/goodtv59_New_Explorer./playlist.m3u8
+#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlRGeI.png",nextKid
+https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqWPD.png",Sumlojlok------Docu
+http://61.19.242.134/feed/202105171329//LC8/index.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/nexdeI.png",MYSCI
+http://61.19.242.134/feed/202105171329/LC37/index.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKRonD.png",chaleon cable
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKg279.jpg",Doonee
+http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgP8D.jpg",LOVENATURE
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgP8D.jpg",LOVENATURE
+https://mediasv.online/stream_live/563_Love_Nature/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.img.in.th/images/c82524d69eb891f833be4654636361f8.jpg",BBC EARTH
+http://stream.cableth.com:1935/aslive/bbcearth/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://bit.ly/3spKrWM",ExploreWild
+https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113192658tlc.png",TLC
+https://mediasv.online/stream_live/566_TLC/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113035915outdoor.png",OUTDOOR
+https://mediasv.online/stream_live/673_OUTDOOR/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://bit.ly/3hOT8nA",Discovery
+https://mediasv.online/stream_live/562_Discovery/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://doo2you.com/icon/HistoryChannelHD.png",history
+https://mediasv.online/stream_live/556_History/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://doo2you.com/icon/H2.png",H2HD
+https://mediasv.online/stream_live/557_H2/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKglv2.webp",Nationnal_geographic
+https://mediasv.online/stream_live/558_Nationnal_geographic/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.img.in.th/images/c82524d69eb891f833be4654636361f8.jpg",BBC EARTH
+https://mediasv.online/stream_live/568_BBC_Earth/playlist.m3u8?
+#EXTINF:-1,Food_Network
+https://mediasv.online/stream_live/342_Food_Network/playlist.m3u8
+
+
+
+
+
 
 
 
@@ -1474,83 +1652,6 @@ http://45.12.1.14:80/Zoldyckkillua/MMz2nM901/12828
 http://45.12.1.14:80/Zoldyckkillua/MMz2nM901/23318
 #EXTINF:-1,BBC Earth HD CA
 http://45.12.1.14:80/Zoldyckkillua/MMz2nM901/99916
-
-
-
-
-
-#EXTINF:-1,US: CNBC HD-----anonymoustv-----September 23- 2022
-http://anonymoustv.club:80/c0TjrCzo/6RRKlFRdaZ/16780
-#EXTINF:-1,[UK] CNBC Europe FHD
-http://anonymoustv.club:80/c0TjrCzo/6RRKlFRdaZ/166095
-#EXTINF:-1,[UK] BBC Earth FHD
-http://anonymoustv.club:80/c0TjrCzo/6RRKlFRdaZ/183574
-#EXTINF:-1,AR: OSN Discovery Science HD
-http://anonymoustv.club:80/c0TjrCzo/6RRKlFRdaZ/8064
-#EXTINF:-1,AR: OSN Nat Geo People HD
-http://anonymoustv.club:80/c0TjrCzo/6RRKlFRdaZ/8189
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgCcJ.jpg",BBC lifestyle---3bbtv---mpd---test
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/205/205.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lTu4BSR.png",BBC EARTH
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/503/503.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/RushStories.png",RUSH Stories
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/203/203.mpd
-#EXTINF:-1 tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/AlureChannel.png",A'lure Channel
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,HBO HD------venomtt------test
-http://venomtt.com:8000/50008886345739/89012372053799/75173
- 
-#EXTINF:-1,FOX Movies HD
-http://venomtt.com:8000/50008886345739/89012372053799/87427
- 
-#EXTINF:-1,MOVIES HD 1
-http://venomtt.com:8000/50008886345739/89012372053799/87396
- 
-#EXTINF:-1,MOVIES HD 2
-http://venomtt.com:8000/50008886345739/89012372053799/87397
- 
-#EXTINF:-1,MOVIES HD 3
-http://venomtt.com:8000/50008886345739/89012372053799/87398
- 
-#EXTINF:-1,MOVIES HD 4
-http://venomtt.com:8000/50008886345739/89012372053799/87399
- 
-#EXTINF:-1,Fox Movies HD
-http://venomtt.com:8000/50367232966869/93327590304333/87427
- 
-#EXTINF:-1,Fox Action Movies HD
-http://venomtt.com:8000/50367232966869/93327590304333/87428
- 
-#EXTINF:-1,HBO Comedy HD
-http://venomtt.com:8000/50008886345739/89012372053799/75137
- 
-#EXTINF:-1,HBO Family HD
-http://venomtt.com:8000/50008886345739/89012372053799/75172
- 
-#EXTINF:-1,HBO HD
-http://venomtt.com:8000/50008886345739/89012372053799/75173
- 
-#EXTINF:-1,Movies4Men
-http://venomtt.com:8000/50008886345739/89012372053799/47403
-
-
-
 
 
 
